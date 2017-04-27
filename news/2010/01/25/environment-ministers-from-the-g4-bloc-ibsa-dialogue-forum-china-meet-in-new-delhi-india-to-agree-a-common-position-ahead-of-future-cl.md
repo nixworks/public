@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Daily Star](http://www.thedailystar.net/newDesign/news-details.php?nid=123258)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ipBLfSe9uNUB7zCXqO8ezdVGWV7w)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ipBLfSe9uNUB7zCXqO8ezdVGWV7w)
+2. [The Daily Star](http://www.thedailystar.net/newDesign/news-details.php?nid=123258)
 
 ### Related:
 

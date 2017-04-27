@@ -7,8 +7,8 @@ A military court in Egypt jails blogger Maikel Nabil for three years for critici
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-13038937)
-2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hrEmn2KBfTDUmp-2LLTwlC7ZTgsA?docId=52c17b07de304d619822d16e8fcfba3f)
+1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hrEmn2KBfTDUmp-2LLTwlC7ZTgsA?docId=52c17b07de304d619822d16e8fcfba3f)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-13038937)
 
 ### Related:
 

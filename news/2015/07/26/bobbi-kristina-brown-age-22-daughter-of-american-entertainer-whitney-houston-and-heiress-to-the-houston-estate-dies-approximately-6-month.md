@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [MSN](http://www.msn.com/en-us/music/celebrity/bobbi-kristina-brown-daughter-of-whitney-houston-has-died/ar-AAdx5Lk)
-2. [CNN](http://www.cnn.com/2015/07/26/us/bobbi-kristina-brown-dies/index.html)
+1. [CNN](http://www.cnn.com/2015/07/26/us/bobbi-kristina-brown-dies/index.html)
+2. [MSN](http://www.msn.com/en-us/music/celebrity/bobbi-kristina-brown-daughter-of-whitney-houston-has-died/ar-AAdx5Lk)
 
 ### Related:
 

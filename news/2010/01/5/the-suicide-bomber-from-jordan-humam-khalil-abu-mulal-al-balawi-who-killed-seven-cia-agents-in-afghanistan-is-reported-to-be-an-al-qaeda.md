@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2010/jan/04/afghanistan-cia-bomber-triple-agent)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/8440535.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/8440535.stm)
+2. [The Guardian](http://www.guardian.co.uk/world/2010/jan/04/afghanistan-cia-bomber-triple-agent)
 
 ### Related:
 

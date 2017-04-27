@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [IOL](http://www.iol.co.za/news/africa/bemba-goes-on-trial-1.875154)
-2. [CNN](http://edition.cnn.com/2010/WORLD/africa/11/22/netherlands.militia.leader.trial/?hpt=T2)
+1. [CNN](http://edition.cnn.com/2010/WORLD/africa/11/22/netherlands.militia.leader.trial/?hpt=T2)
+2. [IOL](http://www.iol.co.za/news/africa/bemba-goes-on-trial-1.875154)
 
 ### Related:
 

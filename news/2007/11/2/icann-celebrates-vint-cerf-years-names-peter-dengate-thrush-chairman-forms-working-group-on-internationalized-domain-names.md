@@ -7,9 +7,9 @@ ICANN forms group to hasten non-English domain names
 
 ### Source:
 
-1. [NZ Herald](http://www.nzherald.co.nz/section/story.cfm?c_id=5&objectid=10473839)
+1. [AP](http://www.mercurynews.com/business/ci_7353789)
 2. [CBC.ca](http://www.cbc.ca/cp/technology/071102/z110211A.html)
-3. [AP](http://www.mercurynews.com/business/ci_7353789)
+3. [NZ Herald](http://www.nzherald.co.nz/section/story.cfm?c_id=5&objectid=10473839)
 
 ### Related:
 

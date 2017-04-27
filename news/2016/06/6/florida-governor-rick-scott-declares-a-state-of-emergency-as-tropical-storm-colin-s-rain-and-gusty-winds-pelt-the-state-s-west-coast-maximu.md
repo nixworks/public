@@ -7,9 +7,9 @@ Winds, rain and some flooding began pounding parts of Florida&rsquo;s west coast
 
 ### Source:
 
-1. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCPAT3+shtml/061751.shtml)
-2. [CBS News](http://www.cbsnews.com/news/tropical-storm-colin-sets-record-hits-florida/)
-3. [Miami Herald](http://www.miamiherald.com/news/weather/hurricane/article82033742.html)
+1. [CBS News](http://www.cbsnews.com/news/tropical-storm-colin-sets-record-hits-florida/)
+2. [Miami Herald](http://www.miamiherald.com/news/weather/hurricane/article82033742.html)
+3. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCPAT3+shtml/061751.shtml)
 
 ### Related:
 

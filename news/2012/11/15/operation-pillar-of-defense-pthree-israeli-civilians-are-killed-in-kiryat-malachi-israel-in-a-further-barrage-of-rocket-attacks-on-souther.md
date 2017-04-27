@@ -7,10 +7,10 @@ Israeli cities suffer constant assaults, Iron Dome downs dozens of rockets as Op
 
 ### Source:
 
-1. [The Times of Israel](http://www.timesofisrael.com/rockets-rain-down-on-south-after-israel-launches-operation-pillar-of-defense/)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/11/20121115135540965773.html)
 2. [KleineOnline](http://kleinonline.wnd.com/2012/11/15/rockets-strike-tel-aviv-suburb-hamas-debating-further-escalation-as-israel-continues-large-scale-operation/)
 3. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=291954)
-4. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/11/20121115135540965773.html)
+4. [The Times of Israel](http://www.timesofisrael.com/rockets-rain-down-on-south-after-israel-launches-operation-pillar-of-defense/)
 
 ### Related:
 

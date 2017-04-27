@@ -7,8 +7,8 @@ Move will allow political party leaders more time to finalise new constitution.
 
 ### Source:
 
-1. [The Rising Nepal](http://www.gorkhapatra.org.np/rising.detail.php?article_id=35110&cat_id=4)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/05/2010528183227679580.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/05/2010528183227679580.html)
+2. [The Rising Nepal](http://www.gorkhapatra.org.np/rising.detail.php?article_id=35110&cat_id=4)
 
 ### Related:
 

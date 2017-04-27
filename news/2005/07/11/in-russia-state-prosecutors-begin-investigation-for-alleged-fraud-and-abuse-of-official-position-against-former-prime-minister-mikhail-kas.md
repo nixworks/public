@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Moscow Times](http://www.themoscowtimes.com/stories/2005/07/12/001.html)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=aIs.TTEWbGWk&refer=europe)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=aIs.TTEWbGWk&refer=europe)
+2. [Moscow Times](http://www.themoscowtimes.com/stories/2005/07/12/001.html)
 3. [RIA Novosti](http://en.rian.ru/analysis/20050711/40886774.html)
 
 ### Related:

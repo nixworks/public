@@ -8,9 +8,9 @@ Tuna trawler and crew released amid reports of $3.5m ransom having been paid by 
 ### Source:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gB7YMEDuCwwY9ncDOtPAkEI4-H2wD9C17U0O1)
-2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_world/view/1018865/1/.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/11/20091117154517373706.html)
 3. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8363922.stm)
-4. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/11/20091117154517373706.html)
+4. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_world/view/1018865/1/.html)
 
 ### Related:
 
@@ -22,5 +22,5 @@ Tuna trawler and crew released amid reports of $3.5m ransom having been paid by 
 6. [ Somali pirates hijack ships from the Isle of Man, Greece, and the Seychelles, while three other ships escape. ](/news/2009/03/26/somali-pirates-hijack-ships-from-the-isle-of-man-greece-and-the-seychelles-while-three-other-ships-escape.md) _Context: Seychelles, Somali pirates_
 7. [The United States Pacific Command deploys warships, including the USS ''Carl Vinson'', to move towards the Korean Peninsula following North Korea's recent tests with weapons of mass destruction and opposition to the Sharyat missile strike. North Korea is also reclassified as a state sponsor of terrorism. ](/news/2017/04/9/the-united-states-pacific-command-deploys-warships-including-the-uss-carl-vinson-to-move-towards-the-korean-peninsula-following-north.md) _Context: North Korea_
 8. [North Korea fires a medium-range ballistic missile about 60 kilometers (37 miles) into its eastern waters, in the direction of Japan according to United States and South Korean officials. ](/news/2017/04/5/north-korea-fires-a-medium-range-ballistic-missile-about-60-kilometers-37-miles-into-its-eastern-waters-in-the-direction-of-japan-accordi.md) _Context: North Korea_
-9. [Yonhap reports that North Korea has detained a U.S. citizen as he sought to leave the country. ](/news/2017/04/23/yonhap-reports-that-north-korea-has-detained-a-u-s-citizen-as-he-sought-to-leave-the-country.md) _Context: North Korea_
-10. [North Korean Vice Foreign Minister Han Song-ryol threatens to test missiles on a "weekly" basis, as United States Vice President Mike Pence warns the DPRK that the United States' "era of strategic patience" with the country was over. ](/news/2017/04/17/north-korean-vice-foreign-minister-han-song-ryol-threatens-to-test-missiles-on-a-weekly-basis-as-united-states-vice-president-mike-pence.md) _Context: North Korea_
+9. [The United States deploys parts of its Terminal High Altitude Area Defense in South Korea amidst high tension caused by North Korea's escalation of its missile and nuclear weapons programs. ](/news/2017/04/26/the-united-states-deploys-parts-of-its-terminal-high-altitude-area-defense-in-south-korea-amidst-high-tension-caused-by-north-korea-s-escala.md) _Context: North Korea_
+10. [Yonhap reports that North Korea has detained a U.S. citizen as he sought to leave the country. ](/news/2017/04/23/yonhap-reports-that-north-korea-has-detained-a-u-s-citizen-as-he-sought-to-leave-the-country.md) _Context: North Korea_

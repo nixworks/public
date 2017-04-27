@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Bernama](http://www.bernama.com/bernama/v5/newsgeneral.php?id=520988)
-2. [Kenya Broadcasting Coroporation](http://www.kbc.co.ke/story.asp?ID=65819)
-3. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iBsivc5w3lwu3BlDOW-WCA4b01cgD9HIEDNG0)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iBsivc5w3lwu3BlDOW-WCA4b01cgD9HIEDNG0)
+2. [Bernama](http://www.bernama.com/bernama/v5/newsgeneral.php?id=520988)
+3. [Kenya Broadcasting Coroporation](http://www.kbc.co.ke/story.asp?ID=65819)
 
 ### Related:
 

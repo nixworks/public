@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sporting Life](http://www.sportinglife.com/football/overseas/italy/news/story_get.dor?STORY_NAME=international_feed/05/02/23/SOCCER_Ita-Maradona.html&TEAMHD=italy)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/4292641.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4292641.stm)
+2. [Sporting Life](http://www.sportinglife.com/football/overseas/italy/news/story_get.dor?STORY_NAME=international_feed/05/02/23/SOCCER_Ita-Maradona.html&TEAMHD=italy)
 
 ### Related:
 

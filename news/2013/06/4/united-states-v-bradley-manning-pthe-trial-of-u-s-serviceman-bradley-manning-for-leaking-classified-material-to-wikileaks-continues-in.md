@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Washington Post](http://www.washingtonpost.com/national/bradley-manning-us-soldier-accused-of-leaking-us-secrets-generates-more-sympathy-abroad/2013/06/04/4d7879dc-cd0f-11e2-8573-3baeea6a2647_story_1.html)
-2. [The Guardian](http://www.guardian.co.uk/world/2013/jun/04/adrian-lamo-testifies-bradley-manning)
+1. [The Guardian](http://www.guardian.co.uk/world/2013/jun/04/adrian-lamo-testifies-bradley-manning)
+2. [The Washington Post](http://www.washingtonpost.com/national/bradley-manning-us-soldier-accused-of-leaking-us-secrets-generates-more-sympathy-abroad/2013/06/04/4d7879dc-cd0f-11e2-8573-3baeea6a2647_story_1.html)
 
 ### Related:
 

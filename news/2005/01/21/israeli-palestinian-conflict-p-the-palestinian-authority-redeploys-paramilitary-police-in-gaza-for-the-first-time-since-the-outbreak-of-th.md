@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://reuters.myway.com/article/20050121/2005-01-21T141433Z_01_L21551373_RTRIDST_0_NEWS-MIDEAST-DC.html)
-2. [Haaretz](http://www.haaretz.com/hasen/spages/530313.html)
+1. [Haaretz](http://www.haaretz.com/hasen/spages/530313.html)
+2. [Reuters](http://reuters.myway.com/article/20050121/2005-01-21T141433Z_01_L21551373_RTRIDST_0_NEWS-MIDEAST-DC.html)
 
 ### Related:
 

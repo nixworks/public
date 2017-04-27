@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [This is London](http://www.thisislondon.co.uk/news/article-23365912-details/'We're%20risking%20election%20defeat'%20Blair%20warns%20as%20six%20MPs%20quit/article.do)
-2. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/5319328.stm)
-3. [Guardian](http://politics.guardian.co.uk/labourleadership/story/0,,1865980,00.html)
+1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/5319328.stm)
+2. [Guardian](http://politics.guardian.co.uk/labourleadership/story/0,,1865980,00.html)
+3. [This is London](http://www.thisislondon.co.uk/news/article-23365912-details/'We're%20risking%20election%20defeat'%20Blair%20warns%20as%20six%20MPs%20quit/article.do)
 
 ### Related:
 

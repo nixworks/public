@@ -7,8 +7,8 @@ Russians observed an official day of mourning Tuesday after suicide bombers atta
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2010/0330/russia.html)
-2. [CBC](http://www.cbc.ca/world/story/2010/03/30/russia-moscow-subway-attack.html)
+1. [CBC](http://www.cbc.ca/world/story/2010/03/30/russia-moscow-subway-attack.html)
+2. [RTÉ](http://www.rte.ie/news/2010/0330/russia.html)
 
 ### Related:
 

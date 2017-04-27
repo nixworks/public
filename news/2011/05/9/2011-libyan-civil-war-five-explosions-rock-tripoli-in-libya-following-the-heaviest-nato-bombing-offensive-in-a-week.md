@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/skynews/Home/World-News/Libya-New-Airstrikes-Hit-Tripoli-As-Nato-Airstrikes-Continue-Against-The-Gaddafi-Regime/Article/201105215988709?lpos=World_News_Top_Stories_Header_0)
-2. [Al Jazeera](http://blogs.aljazeera.net/live/africa/libya-live-blog)
+1. [Al Jazeera](http://blogs.aljazeera.net/live/africa/libya-live-blog)
+2. [Sky News](http://news.sky.com/skynews/Home/World-News/Libya-New-Airstrikes-Hit-Tripoli-As-Nato-Airstrikes-Continue-Against-The-Gaddafi-Regime/Article/201105215988709?lpos=World_News_Top_Stories_Header_0)
 
 ### Related:
 

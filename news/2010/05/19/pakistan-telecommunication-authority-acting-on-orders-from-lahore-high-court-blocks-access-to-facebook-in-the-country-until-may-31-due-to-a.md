@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Geo TV](http://www.geo.tv/5-19-2010/65224.htm)
-2. [CNN](http://edition.cnn.com/2010/TECH/05/19/pakistani.facebook.shutdown/)
+1. [CNN](http://edition.cnn.com/2010/TECH/05/19/pakistani.facebook.shutdown/)
+2. [Geo TV](http://www.geo.tv/5-19-2010/65224.htm)
 
 ### Related:
 

@@ -7,10 +7,10 @@ Ban Ki-moon, the UN secretary general, has urged &#034;maximum restraint&#034; f
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9206469/Ban-Ki-moon-urges-restraint-in-Syria-as-UN-observers-arrive.html)
-2. [CNN](http://www.cnn.com/2012/04/16/world/meast/syria-unrest/index.html?hpt=imi_c1)
+1. [CNN](http://www.cnn.com/2012/04/16/world/meast/syria-unrest/index.html?hpt=imi_c1)
+2. [Fox News](http://www.foxnews.com/world/2012/04/16/un-ban-syria-must-allow-observers-full-access/)
 3. [Los Angeles Times](http://latimesblogs.latimes.com/world_now/2012/04/syria-slips-back-into-violence-as-un-monitors-go-to-work.html)
-4. [Fox News](http://www.foxnews.com/world/2012/04/16/un-ban-syria-must-allow-observers-full-access/)
+4. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9206469/Ban-Ki-moon-urges-restraint-in-Syria-as-UN-observers-arrive.html)
 
 ### Related:
 

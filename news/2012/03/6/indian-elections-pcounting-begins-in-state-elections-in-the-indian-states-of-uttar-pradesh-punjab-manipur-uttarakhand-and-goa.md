@@ -7,8 +7,8 @@ Folks, our live coverage of state elections in Uttar Pradesh, Uttarakhand, Punja
 
 ### Source:
 
-1. [Wall Street Journal](http://blogs.wsj.com/indiarealtime/2012/03/06/live-blog-state-election-results/)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-india-17255364)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-india-17255364)
+2. [Wall Street Journal](http://blogs.wsj.com/indiarealtime/2012/03/06/live-blog-state-election-results/)
 
 ### Related:
 

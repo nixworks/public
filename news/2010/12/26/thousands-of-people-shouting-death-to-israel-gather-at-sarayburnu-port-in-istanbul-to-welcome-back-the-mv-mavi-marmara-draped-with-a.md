@@ -7,8 +7,8 @@ Thousands in Istanbul greet the Mavi Marmara, the ship on which protesters were 
 
 ### Source:
 
-1. [Arutz Sheva](http://www.israelnationalnews.com/News/news.aspx/141344)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/2010122614733785109.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/2010122614733785109.html)
+2. [Arutz Sheva](http://www.israelnationalnews.com/News/news.aspx/141344)
 
 ### Related:
 

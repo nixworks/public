@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11752047)
-2. [AP via ''The Star](http://thestar.com.my/news/story.asp?file=/2010/11/14/apworld/20101114140804&sec=apworld)
+1. [AP via ''The Star](http://thestar.com.my/news/story.asp?file=/2010/11/14/apworld/20101114140804&sec=apworld)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11752047)
 
 ### Related:
 

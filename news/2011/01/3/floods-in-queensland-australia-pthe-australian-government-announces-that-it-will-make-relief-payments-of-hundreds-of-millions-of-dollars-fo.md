@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Australian](http://www.theaustralian.com.au/national-affairs/treasury/gillard-vows-to-kickstart-flood-recovery/story-fn59nsif-1225981128191)
-2. [Adelaide Now](http://www.adelaidenow.com.au/news/national/hunger-threat-as-floods-rise/story-e6frea8c-1225980885128)
+1. [Adelaide Now](http://www.adelaidenow.com.au/news/national/hunger-threat-as-floods-rise/story-e6frea8c-1225980885128)
+2. [The Australian](http://www.theaustralian.com.au/national-affairs/treasury/gillard-vows-to-kickstart-flood-recovery/story-fn59nsif-1225981128191)
 
 ### Related:
 

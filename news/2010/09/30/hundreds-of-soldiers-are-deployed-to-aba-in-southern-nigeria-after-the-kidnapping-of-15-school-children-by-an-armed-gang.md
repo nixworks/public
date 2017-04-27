@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [NEXT Nigeria](http://234next.com/csp/cms/sites/Next/News/National/5624739-146/abia_kidnappers_reduce_ransom_on_school.csp)
-2. [Reuters](http://af.reuters.com/article/nigeriaNews/idAFLDE68T0YP20100930)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gwZk-Je_xBC9d4LUFbjP_2vzgm4A?docId=CNG.f6fba55ad8f5e329c0c25bad9aa7b8d3.211)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gwZk-Je_xBC9d4LUFbjP_2vzgm4A?docId=CNG.f6fba55ad8f5e329c0c25bad9aa7b8d3.211)
+2. [NEXT Nigeria](http://234next.com/csp/cms/sites/Next/News/National/5624739-146/abia_kidnappers_reduce_ransom_on_school.csp)
+3. [Reuters](http://af.reuters.com/article/nigeriaNews/idAFLDE68T0YP20100930)
 
 ### Related:
 

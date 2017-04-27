@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8699834.stm)
-2. [Jamaica Observer](http://www.jamaicaobserver.com/news/State-of-emergency)
-3. [CNN](http://edition.cnn.com/2010/WORLD/americas/05/23/jamaica/)
+2. [CNN](http://edition.cnn.com/2010/WORLD/americas/05/23/jamaica/)
+3. [Jamaica Observer](http://www.jamaicaobserver.com/news/State-of-emergency)
 
 ### Related:
 

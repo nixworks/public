@@ -7,10 +7,10 @@ State of emergency declared after a toxic mud spill kills four people and leaves
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-11475361)
-2. [Reuters](http://www.reuters.com/article/idUSTRE69415O20101005)
-3. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/10/2010105122242999996.html)
-4. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/toxic-red-mud-swamps-villages-in-hungary-20101006-166hy.html)
+1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/toxic-red-mud-swamps-villages-in-hungary-20101006-166hy.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/10/2010105122242999996.html)
+3. [BBC](http://www.bbc.co.uk/news/world-europe-11475361)
+4. [Reuters](http://www.reuters.com/article/idUSTRE69415O20101005)
 
 ### Related:
 

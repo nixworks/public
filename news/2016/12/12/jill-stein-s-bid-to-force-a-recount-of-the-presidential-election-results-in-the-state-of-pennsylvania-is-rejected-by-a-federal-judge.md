@@ -7,8 +7,8 @@ Decision poses another setback to Jill Stein&#39;s recount effort in Michigan, P
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/politics/elections/2016/12/12/pennsylvania-recount-request-green-party/95328846/)
-2. [MSN](https://www.msn.com/en-us/news/politics/trumps-victory-in-wisconsin-affirmed-following-recount/ar-AAltUUe)
+1. [MSN](https://www.msn.com/en-us/news/politics/trumps-victory-in-wisconsin-affirmed-following-recount/ar-AAltUUe)
+2. [USA Today](http://www.usatoday.com/story/news/politics/elections/2016/12/12/pennsylvania-recount-request-green-party/95328846/)
 
 ### Related:
 

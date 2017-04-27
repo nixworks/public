@@ -7,8 +7,8 @@ Collingwood and St Kilda will go through it all again in a replay next weekend, 
 
 ### Source:
 
-1. [Herald-Sun](http://www.heraldsun.com.au/sport/afl/saints-pies-to-do-it-all-again/story-e6frf9jf-1225929328645)
-2. [ABC Online](http://www.abc.net.au/news/stories/2010/09/25/3021938.htm)
+1. [ABC Online](http://www.abc.net.au/news/stories/2010/09/25/3021938.htm)
+2. [Herald-Sun](http://www.heraldsun.com.au/sport/afl/saints-pies-to-do-it-all-again/story-e6frf9jf-1225929328645)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The death toll from the Christchurch earthquake is likely to be about 240, polic
 
 ### Source:
 
-1. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10709447)
-2. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10709428)
+1. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10709428)
+2. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10709447)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [EurActiv](http://www.euractiv.com/en/enlargement/romanian-junk-food-tax-backed-brussels-news-265807)
-2. [The Scotsman](http://news.scotsman.com/health/39Fat-tax39-plan-as-half.6087200.jp)
-3. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hODqVRgis4QpHPC5l52Ydmq6a3OgD9DU44981)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hODqVRgis4QpHPC5l52Ydmq6a3OgD9DU44981)
+2. [EurActiv](http://www.euractiv.com/en/enlargement/romanian-junk-food-tax-backed-brussels-news-265807)
+3. [The Scotsman](http://news.scotsman.com/health/39Fat-tax39-plan-as-half.6087200.jp)
 
 ### Related:
 

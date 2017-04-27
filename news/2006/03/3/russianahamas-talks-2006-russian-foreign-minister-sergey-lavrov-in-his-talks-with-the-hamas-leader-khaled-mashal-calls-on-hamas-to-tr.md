@@ -7,8 +7,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=topNews&storyid=2006-03-03T182144Z_01_L02460679_RTRUKOC_0_US-RUSSIA-HAMAS.xml)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4769112.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4769112.stm)
+2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=topNews&storyid=2006-03-03T182144Z_01_L02460679_RTRUKOC_0_US-RUSSIA-HAMAS.xml)
 
 ### Related:
 

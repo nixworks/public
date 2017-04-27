@@ -9,8 +9,8 @@ A top Taliban commander and his deputy are among dozens of insurgents killed in 
 
 1. [AP via ''USA Today](http://www.usatoday.com/news/world/afghanistan/story/2012-08-18/Afghanistan-bombing/57126408/1?csp=34news)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-19308099)
-3. [The Times of India](http://timesofindia.indiatimes.com/world/pakistan/5-killed-in-suicide-attack-at-Quetta-in-Pakistan/articleshow/15543506.cms)
-4. [BBC](http://www.bbc.co.uk/news/world-middle-east-19306435)
+3. [BBC](http://www.bbc.co.uk/news/world-middle-east-19306435)
+4. [The Times of India](http://timesofindia.indiatimes.com/world/pakistan/5-killed-in-suicide-attack-at-Quetta-in-Pakistan/articleshow/15543506.cms)
 5. [protest]. [http://www.aljazeera.com/news/asia/2012/08/20128186526456857.html (Al Jazeera](http://www.mofa.gov.pk/mfa/pages/article.aspx?id=1269&type=1)
 
 ### Related:

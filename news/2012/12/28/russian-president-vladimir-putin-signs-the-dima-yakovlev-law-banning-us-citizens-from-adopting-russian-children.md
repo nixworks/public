@@ -8,8 +8,8 @@ For months, life for Ann and Kurt Suhs has been a whirlwind of assembling docume
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2012/12/28/world/europe/russia-us-adoptions/index.html)
-2. [Reuters](http://www.reuters.com/article/2012/12/28/us-russia-usa-adoptions-families-idUSBRE8BR0MT20121228)
-3. [RIA Novosti](http://en.ria.ru/russia/20121228/178457162.html)
+2. [RIA Novosti](http://en.ria.ru/russia/20121228/178457162.html)
+3. [Reuters](http://www.reuters.com/article/2012/12/28/us-russia-usa-adoptions-families-idUSBRE8BR0MT20121228)
 4. [The Voice of Russia](http://ruvr.co.uk/2012_12_27/Putin-says-he-will-sign-Dima-Yakovlev-Bill/)
 
 ### Related:

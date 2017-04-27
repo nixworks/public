@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Canada.com](http://www.canada.com/news/world/story.html?id=d92f6c87-4c9e-439a-85af-d6259776b3ef)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4150028.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4150028.stm)
+2. [Canada.com](http://www.canada.com/news/world/story.html?id=d92f6c87-4c9e-439a-85af-d6259776b3ef)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Head of paramilitary police force and three others killed near market in Peshawa
 
 ### Source:
 
-1. [Reuters via ABC Online](http://www.abc.net.au/news/stories/2010/08/04/2973762.htm?section=world)
+1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/201084123328444711.html)
 2. [BBC](http://www.bbc.co.uk/news/world-south-asia-10868474)
-3. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/201084123328444711.html)
+3. [Reuters via ABC Online](http://www.abc.net.au/news/stories/2010/08/04/2973762.htm?section=world)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Southern residents under major assault following Gaza terrorists&#39; assertion 
 
 ### Source:
 
-1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4111254,00.html)
-2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4111937,00.html)
-3. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5j6DgnhuB4vzCrNbwtiToydxj6AVA?docId=CNG.06f34de0123171e0730efd83bf61c8c3.261)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5j6DgnhuB4vzCrNbwtiToydxj6AVA?docId=CNG.06f34de0123171e0730efd83bf61c8c3.261)
+2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4111254,00.html)
+3. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4111937,00.html)
 
 ### Related:
 

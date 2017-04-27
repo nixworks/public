@@ -7,8 +7,8 @@ The Russian government announces that a project to build a motorway through pris
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/russia/20101214/161769346.html)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-11990277)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-11990277)
+2. [RIA Novosti](http://en.rian.ru/russia/20101214/161769346.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Independent](http://news.independent.co.uk/uk/ulster/story.jsp?story=612525)
-2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/4280713.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/4280713.stm)
+2. [Independent](http://news.independent.co.uk/uk/ulster/story.jsp?story=612525)
 
 ### Related:
 

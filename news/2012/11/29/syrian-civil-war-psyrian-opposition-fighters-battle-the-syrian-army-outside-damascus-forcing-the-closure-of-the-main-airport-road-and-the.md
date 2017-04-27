@@ -7,9 +7,9 @@ Syrian rebels battled forces loyal to President Bashar al-Assad just outside Dam
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/11/29/us-syria-crisis-idUSBRE8AJ1FK20121129)
+1. [Al Arabiya](http://english.alarabiya.net/articles/2012/11/29/252513.html)
 2. [Bangkok Post](http://www99.bangkokpost.com/tech/computer/323797/syria-cut-off-from-internet-monitoring-firms)
-3. [Al Arabiya](http://english.alarabiya.net/articles/2012/11/29/252513.html)
+3. [Reuters](http://www.reuters.com/article/2012/11/29/us-syria-crisis-idUSBRE8AJ1FK20121129)
 
 ### Related:
 

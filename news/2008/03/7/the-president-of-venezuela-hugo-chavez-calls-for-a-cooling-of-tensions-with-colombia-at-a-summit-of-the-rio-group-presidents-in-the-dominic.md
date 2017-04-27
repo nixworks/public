@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20080307.wcrisis0307/BNStory/International/home)
-2. [AP via Google News](http://ap.google.com/article/ALeqM5igRW2ib_PTdNeoQNn6kOIuk8GGxQD8V8LFSO0)
+1. [AP via Google News](http://ap.google.com/article/ALeqM5igRW2ib_PTdNeoQNn6kOIuk8GGxQD8V8LFSO0)
+2. [The Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20080307.wcrisis0307/BNStory/International/home)
 
 ### Related:
 

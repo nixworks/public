@@ -8,9 +8,9 @@
 ### Source:
 
 1. [JOE](http://www.joe.ie/football/videos/video-greeces-goal-against-ireland-tonight-set-to-melancholic-music-0030493-1)
-2. [The Irish Times](http://www.irishtimes.com/sports/soccer/2012/1114/1224326605147.html)
+2. [New York Daily News](http://www.nydailynews.com/sports/more-sports/overhead-goal-caps-four-goal-match-article-1.1202215)
 3. [The Guardian](http://www.guardian.co.uk/football/2012/nov/15/zlatan-ibrahimovic-goal-sweden-england)
-4. [New York Daily News](http://www.nydailynews.com/sports/more-sports/overhead-goal-caps-four-goal-match-article-1.1202215)
+4. [The Irish Times](http://www.irishtimes.com/sports/soccer/2012/1114/1224326605147.html)
 
 ### Related:
 

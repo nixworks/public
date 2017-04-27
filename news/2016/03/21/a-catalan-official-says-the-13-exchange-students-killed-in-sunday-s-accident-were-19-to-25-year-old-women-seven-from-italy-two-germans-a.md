@@ -7,8 +7,8 @@ Spanish investigators were on Monday attempting to establish the cause of a week
 
 ### Source:
 
-1. [AP via ''the Washington Post](https://www.washingtonpost.com/world/europe/spain-7-of-13-student-bush-crash-victims-were-italian/2016/03/21/e5fcf894-ef45-11e5-a2a3-d4e9697917d1_story.html)
-2. [AFP via Yahoo! News](http://news.yahoo.com/7-italians-2-germans-among-spain-coach-crash-082422852.html)
+1. [AFP via Yahoo! News](http://news.yahoo.com/7-italians-2-germans-among-spain-coach-crash-082422852.html)
+2. [AP via ''the Washington Post](https://www.washingtonpost.com/world/europe/spain-7-of-13-student-bush-crash-victims-were-italian/2016/03/21/e5fcf894-ef45-11e5-a2a3-d4e9697917d1_story.html)
 
 ### Related:
 

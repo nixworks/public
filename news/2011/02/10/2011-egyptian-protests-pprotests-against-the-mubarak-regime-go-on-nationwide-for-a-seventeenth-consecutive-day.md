@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/2011210172519776830.html)
-2. [The Guardian](http://www.guardian.co.uk/world/blog/2011/feb/10/egypt-middleeast)
+1. [Al Jazeera](http://blogs.aljazeera.net/middle-east/2011/02/10/live-blog-feb-10-egypt-protests)
+2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/2011210172519776830.html)
 3. [The Guardian](http://www.guardian.co.uk/world/blog/2011/feb/10/egypt-hosni-mubarak-resignation-rumours)
-4. [Al Jazeera](http://blogs.aljazeera.net/middle-east/2011/02/10/live-blog-feb-10-egypt-protests)
+4. [The Guardian](http://www.guardian.co.uk/world/blog/2011/feb/10/egypt-middleeast)
 
 ### Related:
 

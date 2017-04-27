@@ -7,9 +7,9 @@ The sequel between John Isner and Nicolas Mahut was not as memorable as their hi
 
 ### Source:
 
-1. [USA Today](http://content.usatoday.com/communities/gameon/post/2011/06/wimbledon-live-blog-day-2-roger-federer-serena-williams/1)
-2. [ESPN](http://sports.espn.go.com/sports/tennis/wimbledon11/columns/story?columnist=garber_greg&id=6687954)
-3. [The New York Times](http://www.nytimes.com/2011/06/22/sports/tennis/wimbledon-2011-this-time-isner-makes-quick-work-of-mahut.html)
+1. [ESPN](http://sports.espn.go.com/sports/tennis/wimbledon11/columns/story?columnist=garber_greg&id=6687954)
+2. [The New York Times](http://www.nytimes.com/2011/06/22/sports/tennis/wimbledon-2011-this-time-isner-makes-quick-work-of-mahut.html)
+3. [USA Today](http://content.usatoday.com/communities/gameon/post/2011/06/wimbledon-live-blog-day-2-roger-federer-serena-williams/1)
 
 ### Related:
 

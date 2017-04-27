@@ -7,9 +7,9 @@ American Pharoah won the 141st Kentucky Derby in brilliant fashion at Churchill 
 
 ### Source:
 
-1. [Los Angeles Times](http://www.latimes.com/sports/la-sp-kentucky-derby-20150502-story.html)
-2. [The Guardian](http://www.theguardian.com/sport/2015/may/02/american-pharoah-wins-141st-kentucky-derby-at-churchill-downs-in-tight-finish)
-3. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-05-02-RAC-Kentucky-Derby/id-b2605451ae9647c0894e0b0667933eea)
+1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-05-02-RAC-Kentucky-Derby/id-b2605451ae9647c0894e0b0667933eea)
+2. [Los Angeles Times](http://www.latimes.com/sports/la-sp-kentucky-derby-20150502-story.html)
+3. [The Guardian](http://www.theguardian.com/sport/2015/may/02/american-pharoah-wins-141st-kentucky-derby-at-churchill-downs-in-tight-finish)
 
 ### Related:
 

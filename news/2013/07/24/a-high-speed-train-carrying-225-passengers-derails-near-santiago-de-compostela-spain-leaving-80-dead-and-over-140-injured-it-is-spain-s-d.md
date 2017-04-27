@@ -7,10 +7,10 @@ SPAIN-TRAIN/ (UPDATE 2):UPDATE 2-At least 20 killed as train derails in Spain-re
 
 ### Source:
 
-1. [Reuters](http://www.trust.org/item/20130724202631-hiqyo)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-23442018)
 2. [Bloomberg](http://www.bloomberg.com/news/2013-07-24/spanish-train-derailment-kills-45-47-people-feijoo-says-on-rtve.html)
-3. [BBC](http://www.bbc.co.uk/news/world-europe-23442018)
-4. [El Mundo](http://www.elmundo.es/elmundo/2013/07/24/espana/1374693824.html)
+3. [El Mundo](http://www.elmundo.es/elmundo/2013/07/24/espana/1374693824.html)
+4. [Reuters](http://www.trust.org/item/20130724202631-hiqyo)
 
 ### Related:
 

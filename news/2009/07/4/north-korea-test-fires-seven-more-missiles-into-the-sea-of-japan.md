@@ -8,8 +8,8 @@ North Korea launched seven ballistic missiles on Saturday morning, further escal
 ### Source:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/northkorea/5741600/North-Korea-marks-July-4-with-missile-tests.html)
-2. [Xinhua](http://news.xinhuanet.com/english/2009-07/04/content_11652099.htm)
-3. [The Korea Times](http://www.koreatimes.co.kr/www/news/nation/2009/07/113_47917.html)
+2. [The Korea Times](http://www.koreatimes.co.kr/www/news/nation/2009/07/113_47917.html)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-07/04/content_11652099.htm)
 
 ### Related:
 

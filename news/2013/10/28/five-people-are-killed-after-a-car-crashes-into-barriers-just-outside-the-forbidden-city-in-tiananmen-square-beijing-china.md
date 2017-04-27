@@ -7,8 +7,8 @@ Three killed as car ploughs into site of 1989 pro-democracy protests suppressed 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-china-24672291)
-2. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2013/10/fatal-accident-beijing-tiananmen-square-2013102863625560109.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2013/10/fatal-accident-beijing-tiananmen-square-2013102863625560109.html)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-china-24672291)
 
 ### Related:
 

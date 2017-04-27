@@ -7,8 +7,8 @@ The mishap occurred when the co-pilot of Mumbai-Hyderabad flight 619 mistook a s
 
 ### Source:
 
-1. [Press Trust of India via ''Business Standard](http://www.business-standard.com/article/current-affairs/air-india-technician-gets-sucked-into-plane-engine-dies-115121601336_1.html)
-2. [CNN](http://edition.cnn.com/2015/12/17/asia/air-india-engineer-sucked-into-plane-engine/index.html)
+1. [CNN](http://edition.cnn.com/2015/12/17/asia/air-india-engineer-sucked-into-plane-engine/index.html)
+2. [Press Trust of India via ''Business Standard](http://www.business-standard.com/article/current-affairs/air-india-technician-gets-sucked-into-plane-engine-dies-115121601336_1.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/africa/06/30/somalia.president.fighting/?fbid=Dxrzb6Q-4_O)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/10475590.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/10475590.stm)
+2. [CNN](http://edition.cnn.com/2010/WORLD/africa/06/30/somalia.president.fighting/?fbid=Dxrzb6Q-4_O)
 
 ### Related:
 

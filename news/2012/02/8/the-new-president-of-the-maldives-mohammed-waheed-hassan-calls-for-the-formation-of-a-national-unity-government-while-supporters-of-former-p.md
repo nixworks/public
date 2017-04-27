@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via ''Herald-Sun](http://www.heraldsun.com.au/news/breaking-news/maldives-leader-calls-for-unity-government/story-e6frf7jx-1226266100311)
-2. [AP via ''Christian Science Monitor](http://www.csmonitor.com/World/Latest-News-Wires/2012/0208/Maldives-president-asks-for-unity-while-rioting-rages-on-video)
+1. [AP via ''Christian Science Monitor](http://www.csmonitor.com/World/Latest-News-Wires/2012/0208/Maldives-president-asks-for-unity-while-rioting-rages-on-video)
+2. [AP via ''Herald-Sun](http://www.heraldsun.com.au/news/breaking-news/maldives-leader-calls-for-unity-government/story-e6frf7jx-1226266100311)
 
 ### Related:
 

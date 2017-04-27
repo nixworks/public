@@ -8,8 +8,8 @@
 ### Source:
 
 1. [AP via Detroit Free Press](http://www.freep.com/apps/pbcs.dll/article?AID=/20070329/NEWS07/70329029/1009)
-2. [Reuters](http://news.yahoo.com/s/nm/20070329/pl_nm/iraq_usa_congress_dc_5)
-3. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6505803.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6505803.stm)
+3. [Reuters](http://news.yahoo.com/s/nm/20070329/pl_nm/iraq_usa_congress_dc_5)
 
 ### Related:
 

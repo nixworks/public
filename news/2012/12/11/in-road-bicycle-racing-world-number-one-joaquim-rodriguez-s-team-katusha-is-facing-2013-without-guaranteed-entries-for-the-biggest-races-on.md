@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters via SBS](http://www.sbs.com.au/cyclingcentral/news/41087/saxo-tinkoff-survives-uci-worldtour-decision-at-katusha-s-expense)
-2. [Cycling News](http://www.cyclingnews.com/news/katusha-denied-2013-worldtour-licence)
+1. [Cycling News](http://www.cyclingnews.com/news/katusha-denied-2013-worldtour-licence)
+2. [Reuters via SBS](http://www.sbs.com.au/cyclingcentral/news/41087/saxo-tinkoff-survives-uci-worldtour-decision-at-katusha-s-expense)
 
 ### Related:
 

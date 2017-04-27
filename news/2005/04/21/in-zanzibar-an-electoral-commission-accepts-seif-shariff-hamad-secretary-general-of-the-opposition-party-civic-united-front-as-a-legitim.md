@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [IPPMEdia, Zanzibar](http://64.202.177.112/ipp/guardian/2005/04/21/37562.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/4464443.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4464443.stm)
+2. [IPPMEdia, Zanzibar](http://64.202.177.112/ipp/guardian/2005/04/21/37562.html)
 
 ### Related:
 

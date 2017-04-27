@@ -7,8 +7,8 @@ Italian architect Pier Carlo Bontempi has been selected as the 12th recipient of
 
 ### Source:
 
-1. [PRweb](http://www.prweb.com/releases/2014/03/prweb11690171.htm)
-2. [ArchDaily](http://www.archdaily.com/456165/pier-carlo-bontempi-named-2014-driehaus-laureate/)
+1. [ArchDaily](http://www.archdaily.com/456165/pier-carlo-bontempi-named-2014-driehaus-laureate/)
+2. [PRweb](http://www.prweb.com/releases/2014/03/prweb11690171.htm)
 
 ### Related:
 

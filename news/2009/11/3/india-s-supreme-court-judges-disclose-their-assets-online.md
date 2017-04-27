@@ -8,8 +8,8 @@
 ### Source:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ibUBx2x8TB_uZAqkldqmbsvLI1GA)
-2. [Indian Express](http://www.indianexpress.com/news/sc-judges-list-their-assets-for-the-people/536566/)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8339330.stm)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8339330.stm)
+3. [Indian Express](http://www.indianexpress.com/news/sc-judges-list-their-assets-for-the-people/536566/)
 
 ### Related:
 

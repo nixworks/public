@@ -7,8 +7,8 @@ The country&#39;s two most senior Catholic clergymen have met meeting Pope Bened
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0605/breaking50.htm)
-2. [RTÉ](http://www.rte.ie/news/2009/0605/abuse.html)
+1. [RTÉ](http://www.rte.ie/news/2009/0605/abuse.html)
+2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0605/breaking50.htm)
 
 ### Related:
 

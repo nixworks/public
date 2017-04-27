@@ -7,8 +7,8 @@ Police in Venezuela search for a soldier who shot dead two officers and wounded 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11050286)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jVa-R6Ft0Omx8FAWSYY0FCBYXZwAD9HO8CR80)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jVa-R6Ft0Omx8FAWSYY0FCBYXZwAD9HO8CR80)
+2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11050286)
 
 ### Related:
 

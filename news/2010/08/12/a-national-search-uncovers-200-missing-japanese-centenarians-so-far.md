@@ -8,8 +8,8 @@ Nearly 200 Japanese centenarians are missing, according to a national audit carr
 ### Source:
 
 1. [AFP via France24](http://www.france24.com/en/20100812-nearly-200-japans-oldest-citizens-missing)
-2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=126&art_id=nw20100812081608189C721133)
-3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10949562)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10949562)
+3. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=126&art_id=nw20100812081608189C721133)
 4. [Japan Today](http://www.japantoday.com/category/national/view/38-of-47-prefectures-checking-whereabouts-of-elderly)
 
 ### Related:

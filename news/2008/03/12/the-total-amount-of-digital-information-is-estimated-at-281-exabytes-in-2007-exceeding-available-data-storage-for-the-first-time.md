@@ -7,5 +7,5 @@
 
 ### Source:
 
-1. [IDC via EMC](http://www.emc.com/digital_universe)
-2. [Ars Technica](http://arstechnica.com/news.ars/post/20080312-study-amount-of-digital-info-global-storage-capacity.html)
+1. [Ars Technica](http://arstechnica.com/news.ars/post/20080312-study-amount-of-digital-info-global-storage-capacity.html)
+2. [IDC via EMC](http://www.emc.com/digital_universe)

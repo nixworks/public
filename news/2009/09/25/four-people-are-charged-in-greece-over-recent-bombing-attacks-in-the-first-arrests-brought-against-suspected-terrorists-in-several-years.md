@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=3&art_id=nw20090925135838586C554192)
-2. [Canadian Press](http://www.google.com/hostednews/canadianpress/article/ALeqM5jhVC4thvCOZqGNWBW-u1cvrzepoA)
+1. [Canadian Press](http://www.google.com/hostednews/canadianpress/article/ALeqM5jhVC4thvCOZqGNWBW-u1cvrzepoA)
+2. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=3&art_id=nw20090925135838586C554192)
 
 ### Related:
 

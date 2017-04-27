@@ -7,8 +7,8 @@ WASHINGTON (AP) — David Gilkey, a veteran news photographer and video editor f
 
 ### Source:
 
-1. [Corporation for Public Broadcasting](http://www.cpb.org/pressroom/cpb-presents-edward-r-murrow-award-nprs-david-gilkey-and-ofeibea-quist-arcton)
-2. [AP](http://bigstory.ap.org/article/088a6746efbe4446ad90fa6840b79175/veteran-npr-journalist-translator-killed-afghanistan)
+1. [AP](http://bigstory.ap.org/article/088a6746efbe4446ad90fa6840b79175/veteran-npr-journalist-translator-killed-afghanistan)
+2. [Corporation for Public Broadcasting](http://www.cpb.org/pressroom/cpb-presents-edward-r-murrow-award-nprs-david-gilkey-and-ofeibea-quist-arcton)
 3. [NPR](http://www.npr.org/sections/thetwo-way/2016/06/05/480859153/npr-photographer-interpreter-killed-in-afghanistan)
 
 ### Related:

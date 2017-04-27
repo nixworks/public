@@ -7,13 +7,13 @@ Fighting escalates in the Libyan port of Misrata and elsewhere as government for
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-13107131)
-2. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/After-Nato-push-Libya-rebels-on-the-ascent/articleshow/8002873.cms)
-3. [The Guardian](http://www.guardian.co.uk/world/2011/apr/16/bashar-al-assad-syria)
-4. [Syrian Arab News Agency](http://www.sana.sy/eng/21/2011/04/17/341983.htm)
-5. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/20114161511286268.html9)
-6. [Al Arabiya](http://english.alarabiya.net/articles/2011/04/16/145642.html)
-7. [Al Arabiya](http://english.alarabiya.net/articles/2011/04/16/145638.html)
+1. [Al Arabiya](http://english.alarabiya.net/articles/2011/04/16/145638.html)
+2. [Al Arabiya](http://english.alarabiya.net/articles/2011/04/16/145642.html)
+3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/20114161511286268.html9)
+4. [BBC](http://www.bbc.co.uk/news/world-africa-13107131)
+5. [Syrian Arab News Agency](http://www.sana.sy/eng/21/2011/04/17/341983.htm)
+6. [The Guardian](http://www.guardian.co.uk/world/2011/apr/16/bashar-al-assad-syria)
+7. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/After-Nato-push-Libya-rebels-on-the-ascent/articleshow/8002873.cms)
 
 ### Related:
 

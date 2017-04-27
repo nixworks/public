@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Winnipeg Sun](http://www.canoe.ca/NewsStand/WinnipegSun/News/2005/02/09/925056-sun.html)
-2. [Canada.Com](http://www.canada.com/news/national/story.html?id=27c45868-c3be-46f2-842e-e9dbb5cee69c)
+1. [Canada.Com](http://www.canada.com/news/national/story.html?id=27c45868-c3be-46f2-842e-e9dbb5cee69c)
+2. [Winnipeg Sun](http://www.canoe.ca/NewsStand/WinnipegSun/News/2005/02/09/925056-sun.html)
 
 ### Related:
 

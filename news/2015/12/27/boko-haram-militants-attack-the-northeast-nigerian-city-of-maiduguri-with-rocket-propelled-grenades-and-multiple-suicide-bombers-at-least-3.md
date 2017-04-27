@@ -7,8 +7,8 @@ A wave of attacks by female suicide bombers in north-eastern Nigeria kills more 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-35189041)
-2. [AP via ''The Washington Post](https://www.washingtonpost.com/world/africa/boko-haram-attacks-northeast-nigerian-city-many-killed/2015/12/27/66d61546-acfb-11e5-b281-43c0b56f61fa_story.html)
+1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/africa/boko-haram-attacks-northeast-nigerian-city-many-killed/2015/12/27/66d61546-acfb-11e5-b281-43c0b56f61fa_story.html)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-35189041)
 
 ### Related:
 

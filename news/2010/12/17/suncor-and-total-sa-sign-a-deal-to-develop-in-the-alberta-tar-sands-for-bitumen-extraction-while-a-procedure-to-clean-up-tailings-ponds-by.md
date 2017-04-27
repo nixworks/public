@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Globe and Mail](http://www.theglobeandmail.com/globe-investor/suncor-total-team-up-on-oil-sands/article1841763/)
-2. [Calgary Herald](http://www.calgaryherald.com/business/Alberta+energy+watchdog+approves+oilsands+tailings+cleanup+plans/3994594/story.html)
+1. [Calgary Herald](http://www.calgaryherald.com/business/Alberta+energy+watchdog+approves+oilsands+tailings+cleanup+plans/3994594/story.html)
+2. [Globe and Mail](http://www.theglobeandmail.com/globe-investor/suncor-total-team-up-on-oil-sands/article1841763/)
 3. [Reuters Africa](http://af.reuters.com/article/commoditiesNews/idAFLDE6BG0EZ20101217)
 
 ### Related:

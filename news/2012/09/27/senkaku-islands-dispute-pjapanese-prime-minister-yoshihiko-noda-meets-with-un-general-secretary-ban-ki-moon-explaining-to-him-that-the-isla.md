@@ -7,16 +7,16 @@ Mobs had wrecked the buildings in southwest Hunan province and stolen stock. -AF
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/world/2012-09/26/c_123766533.htm)
-2. [Xinhua](http://news.xinhuanet.com/english/china/2012-09/27/c_131877673.htm)
-3. [NHK World](http://www3.nhk.or.jp/daily/english/20120927_24.html)
-4. [NHK World](http://www3.nhk.or.jp/daily/english/20120928_01.html)
-5. [Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120927p2a00m0na004000c.html)
-6. [Kyodo News via ''Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120927p2g00m0dm093000c.html)
-7. [Kyodo News via ''Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120927p2g00m0dm086000c.html)
-8. [Yomiuri Shimbun](http://www.yomiuri.co.jp/dy/national/T120927004054.htm)
-9. [AFP via AsiaOne](http://www.asiaone.com/News/AsiaOne%2BNews/Asia/Story/A1Story20120927-374156.html)
-10. [NHK World](http://www3.nhk.or.jp/daily/english/20120927_12.html)
+1. [AFP via AsiaOne](http://www.asiaone.com/News/AsiaOne%2BNews/Asia/Story/A1Story20120927-374156.html)
+2. [Kyodo News via ''Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120927p2g00m0dm086000c.html)
+3. [Kyodo News via ''Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120927p2g00m0dm093000c.html)
+4. [Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120927p2a00m0na004000c.html)
+5. [NHK World](http://www3.nhk.or.jp/daily/english/20120927_12.html)
+6. [NHK World](http://www3.nhk.or.jp/daily/english/20120927_24.html)
+7. [NHK World](http://www3.nhk.or.jp/daily/english/20120928_01.html)
+8. [Xinhua](http://news.xinhuanet.com/english/china/2012-09/27/c_131877673.htm)
+9. [Xinhua](http://news.xinhuanet.com/english/world/2012-09/26/c_123766533.htm)
+10. [Yomiuri Shimbun](http://www.yomiuri.co.jp/dy/national/T120927004054.htm)
 
 ### Related:
 

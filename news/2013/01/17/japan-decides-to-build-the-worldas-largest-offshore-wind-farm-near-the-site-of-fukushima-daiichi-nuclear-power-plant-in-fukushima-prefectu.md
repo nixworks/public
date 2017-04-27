@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [New Scientist](http://www.newscientist.com/article/dn23082-japan-to-build-worlds-largest-offshore-wind-farm.html)
-2. [EcoSeed](http://www.ecoseed.org/renewables/wind/offshore-wind/15991-japan-to-build-the-world-s-largest-offshore-wind-farm)
+1. [EcoSeed](http://www.ecoseed.org/renewables/wind/offshore-wind/15991-japan-to-build-the-world-s-largest-offshore-wind-farm)
+2. [New Scientist](http://www.newscientist.com/article/dn23082-japan-to-build-worlds-largest-offshore-wind-farm.html)
 
 ### Related:
 

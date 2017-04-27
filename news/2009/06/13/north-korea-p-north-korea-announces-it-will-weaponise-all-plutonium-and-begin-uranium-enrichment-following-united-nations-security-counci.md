@@ -7,9 +7,9 @@ Pyongyang threatens increased nuclear activity and military action after UN vote
 
 ### Source:
 
-1. [BBC News](http://news.bbc.co.uk/1/hi/world/asia-pacific/8098484.stm)
-2. [Telstra Bigpond News](http://bigpondnews.com/articles/TopStories/2009/06/13/Sth_Korea_moves_troops_to_norths_border_341730.html?ref=BPNT)
-3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/06/200961361534368421.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/06/200961361534368421.html)
+2. [BBC News](http://news.bbc.co.uk/1/hi/world/asia-pacific/8098484.stm)
+3. [Telstra Bigpond News](http://bigpondnews.com/articles/TopStories/2009/06/13/Sth_Korea_moves_troops_to_norths_border_341730.html?ref=BPNT)
 
 ### Related:
 

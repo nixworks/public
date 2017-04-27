@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Channel 4 News](http://www.channel4.com/news/articles/world/asia_pacific/sri+lanka+video+aposappears+authenticapos/3491637)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8446849.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8446849.stm)
+2. [Channel 4 News](http://www.channel4.com/news/articles/world/asia_pacific/sri+lanka+video+aposappears+authenticapos/3491637)
 
 ### Related:
 

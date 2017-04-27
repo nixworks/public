@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2015/03/07/africa/mali-bar-shooting/index.html)
-2. [AFP via BDlive](http://www.bdlive.co.za/africa/africannews/2015/03/07/five-dead-in-suspected-terror-attack-in-mali-nightclub)
+1. [AFP via BDlive](http://www.bdlive.co.za/africa/africannews/2015/03/07/five-dead-in-suspected-terror-attack-in-mali-nightclub)
+2. [CNN](http://edition.cnn.com/2015/03/07/africa/mali-bar-shooting/index.html)
 
 ### Related:
 

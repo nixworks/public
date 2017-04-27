@@ -7,8 +7,8 @@ The Voyager-1 probe may be beyond our Sun’s influence, but Nasa will not yet o
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/science-environment-21866532)
-2. [AGU](http://www.agu.org/news/press/pr_archives/2013/2013-11.shtml)
+1. [AGU](http://www.agu.org/news/press/pr_archives/2013/2013-11.shtml)
+2. [BBC](http://www.bbc.co.uk/news/science-environment-21866532)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The US Federal Bureau of Investigation on Tuesday released hundreds of pages fro
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/culture/music/michael-jackson/6868744/FBI-releases-Michael-Jackson-files.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/8427248.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/8427248.stm)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/culture/music/michael-jackson/6868744/FBI-releases-Michael-Jackson-files.html)
 
 ### Related:
 

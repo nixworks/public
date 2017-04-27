@@ -7,9 +7,9 @@ The Greek public broadcaster ERT is to close down almost immediately, the govern
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2013/jun/11/state-broadcaster-ert-shut-down-greece)
-2. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/06/2013611172646413743.html)
-3. [Euronews](http://www.euronews.com/2013/06/11/greek-public-television-ert-closes-down/)
+1. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/06/2013611172646413743.html)
+2. [Euronews](http://www.euronews.com/2013/06/11/greek-public-television-ert-closes-down/)
+3. [The Guardian](http://www.guardian.co.uk/world/2013/jun/11/state-broadcaster-ert-shut-down-greece)
 
 ### Related:
 

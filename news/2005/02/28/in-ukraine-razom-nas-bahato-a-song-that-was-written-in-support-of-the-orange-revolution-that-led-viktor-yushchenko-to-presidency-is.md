@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4304043.stm)
-2. [Forum, Ukraine](http://eng.for-ua.com/news/?id=179)
-3. [Doteurovision](http://www.doteurovision.com/phpnews/news.php?action=fullnews&id=635)
+2. [Doteurovision](http://www.doteurovision.com/phpnews/news.php?action=fullnews&id=635)
+3. [Forum, Ukraine](http://eng.for-ua.com/news/?id=179)
 
 ### Related:
 

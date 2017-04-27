@@ -7,8 +7,8 @@ Militants have launched a toxic gas attack near the international airport in the
 
 ### Source:
 
-1. [South Front](https://southfront.org/militants-used-toxic-gas-near-aleppo-airport-report/)
-2. [AP](http://bigstory.ap.org/article/fab6efc20da84824b542166ccab34f3d/violence-northern-syria-kills-12)
+1. [AP](http://bigstory.ap.org/article/fab6efc20da84824b542166ccab34f3d/violence-northern-syria-kills-12)
+2. [South Front](https://southfront.org/militants-used-toxic-gas-near-aleppo-airport-report/)
 
 ### Related:
 

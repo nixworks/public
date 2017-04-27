@@ -8,10 +8,10 @@ The United Nations council unanimously passed a resolution aimed at shoring up c
 ### Source:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jgipm0XJZREav4IStxO6HzUn0nAwD9ATP44G0)
-2. [Hindustan Times](http://www.hindustantimes.com/News/world/UNSC-adopts-N-resolution-asks-non-NPT-states-to-join-treaty/Article1-457658.aspx)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8272396.stm)
 3. [China Daily](http://www.chinadaily.com.cn/world/2009-09/24/content_8733432.htm)
-4. [New York Times](http://www.nytimes.com/2009/09/25/world/25prexy.html?hp)
-5. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8272396.stm)
+4. [Hindustan Times](http://www.hindustantimes.com/News/world/UNSC-adopts-N-resolution-asks-non-NPT-states-to-join-treaty/Article1-457658.aspx)
+5. [New York Times](http://www.nytimes.com/2009/09/25/world/25prexy.html?hp)
 
 ### Related:
 

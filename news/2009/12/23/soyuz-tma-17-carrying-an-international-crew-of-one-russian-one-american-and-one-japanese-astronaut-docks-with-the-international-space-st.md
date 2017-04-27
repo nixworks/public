@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/science/20091223/157329535.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/science/nature/8427575.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/8427575.stm)
+2. [RIA Novosti](http://en.rian.ru/science/20091223/157329535.html)
 
 ### Related:
 

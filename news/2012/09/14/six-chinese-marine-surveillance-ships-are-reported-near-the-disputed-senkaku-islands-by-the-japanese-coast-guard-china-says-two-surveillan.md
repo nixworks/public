@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [AFP via France 24](http://www.france24.com/en/20120914-six-china-ships-near-disputed-isles-japan-coastguard)
-2. [RIA Novosti](http://en.rian.ru/world/20120914/175947420.html)
-3. [Xinhua](http://news.xinhuanet.com/english/china/2012-09/14/c_131849375.htm)
-4. [ (Kyodo](http://english.kyodonews.jp/news/2012/09/182267.html)
+1. [ (Kyodo](http://english.kyodonews.jp/news/2012/09/182267.html)
+2. [AFP via France 24](http://www.france24.com/en/20120914-six-china-ships-near-disputed-isles-japan-coastguard)
+3. [RIA Novosti](http://en.rian.ru/world/20120914/175947420.html)
+4. [Xinhua](http://news.xinhuanet.com/english/china/2012-09/14/c_131849375.htm)
 
 ### Related:
 

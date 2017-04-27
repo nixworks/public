@@ -9,8 +9,8 @@
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5j-TaOEAeQhMmj-GCWQ1A7_UhZjnA)
 2. [Hindustan Times](http://www.hindustantimes.com/world-news/nepal/Maoists-hold-mass-protest/Article1-475498.aspx)
-3. [Xinhua](http://news.xinhuanet.com/english/2009-11/12/content_12441018.htm)
-4. [The Himalayan Times](http://www.thehimalayantimes.com/fullNews.php?headline=50+injured+as+police%2C+Maoists+clash&NewsID=46503)
+3. [The Himalayan Times](http://www.thehimalayantimes.com/fullNews.php?headline=50+injured+as+police%2C+Maoists+clash&NewsID=46503)
+4. [Xinhua](http://news.xinhuanet.com/english/2009-11/12/content_12441018.htm)
 
 ### Related:
 

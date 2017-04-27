@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USGS](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/ustwbh.php)
-2. [CNN](http://www.cnn.com/2006/US/10/15/hawaii.quake.ap/index.html)
+1. [CNN](http://www.cnn.com/2006/US/10/15/hawaii.quake.ap/index.html)
+2. [USGS](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/ustwbh.php)
 
 ### Related:
 

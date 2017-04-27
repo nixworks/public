@@ -7,8 +7,8 @@ SANAA, Yemen â€“ Airstrikes carried out by a Saudi-led coalition against Yemenâ€
 
 ### Source:
 
-1. [Xinhuanet](http://news.xinhuanet.com/english/2015-09/19/c_134640220.htm)
-2. [AP via ''Orange County Register](http://www.ocregister.com/articles/yemen-683685-sanaa-airstrikes.html)
+1. [AP via ''Orange County Register](http://www.ocregister.com/articles/yemen-683685-sanaa-airstrikes.html)
+2. [Xinhuanet](http://news.xinhuanet.com/english/2015-09/19/c_134640220.htm)
 
 ### Related:
 

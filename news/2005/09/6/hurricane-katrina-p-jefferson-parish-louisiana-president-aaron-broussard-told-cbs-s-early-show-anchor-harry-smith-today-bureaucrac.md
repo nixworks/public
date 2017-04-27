@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [EditorAndPublisher.com](http://www.editorandpublisher.com/eandp/news/article_display.jsp?vnu_content_id=1001054719)
-2. [News Busters](http://newsbusters.org/comment/reply/978)
-3. [Al Jazeera](http://english.aljazeera.net/NR/exeres/9A8844CD-9E3F-461E-9751-C8485E06FD43.htm)
+1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/9A8844CD-9E3F-461E-9751-C8485E06FD43.htm)
+2. [EditorAndPublisher.com](http://www.editorandpublisher.com/eandp/news/article_display.jsp?vnu_content_id=1001054719)
+3. [News Busters](http://newsbusters.org/comment/reply/978)
 
 ### Related:
 

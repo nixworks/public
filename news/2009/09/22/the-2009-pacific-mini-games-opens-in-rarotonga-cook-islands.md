@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Scoop.co.nz](http://pacific.scoop.co.nz/2009/09/pacific-mini-games-ready-to-blast-off/)
-2. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=49246)
+1. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=49246)
+2. [Scoop.co.nz](http://pacific.scoop.co.nz/2009/09/pacific-mini-games-ready-to-blast-off/)
 
 ### Related:
 

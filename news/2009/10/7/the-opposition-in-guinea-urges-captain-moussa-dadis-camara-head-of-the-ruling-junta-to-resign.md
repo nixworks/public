@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/world/story/2009/10/07/guinea-camara-opposition-talks-junta.html)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601116&sid=aeoljh9OU6Rk)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601116&sid=aeoljh9OU6Rk)
+2. [CBC](http://www.cbc.ca/world/story/2009/10/07/guinea-camara-opposition-talks-junta.html)
 
 ### Related:
 

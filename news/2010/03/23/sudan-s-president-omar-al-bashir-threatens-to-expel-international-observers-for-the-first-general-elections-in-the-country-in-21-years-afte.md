@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2010/mar/23/sudan-president-bashir-election-observers)
-2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/03/20103237950965487.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/03/20103237950965487.html)
+2. [The Guardian](http://www.guardian.co.uk/world/2010/mar/23/sudan-president-bashir-election-observers)
 
 ### Related:
 

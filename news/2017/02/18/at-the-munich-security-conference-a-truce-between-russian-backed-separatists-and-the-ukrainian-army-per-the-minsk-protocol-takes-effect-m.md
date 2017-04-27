@@ -7,8 +7,8 @@ Russia, Ukraine and allies agree to ensure peace in eastern Ukraine as Kremlin i
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2017/02/18/world/ukraine-ceasefire-russia/)
-2. [Al Jazeera](http://www.aljazeera.com/news/2017/02/ukraine-truce-renewed-munich-security-conference-170218184052360.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/2017/02/ukraine-truce-renewed-munich-security-conference-170218184052360.html)
+2. [CNN](http://www.cnn.com/2017/02/18/world/ukraine-ceasefire-russia/)
 
 ### Related:
 

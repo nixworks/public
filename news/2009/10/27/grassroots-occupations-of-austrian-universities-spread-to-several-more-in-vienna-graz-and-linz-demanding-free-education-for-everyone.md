@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Austrian Times](http://austriantimes.at/news/General_News/2009-10-27/17580/Minister_rejects_forced_student_eviction)
-2. [CNN iReport](http://www.ireport.com/docs/DOC-346433)
-3. [Boston Herald](http://bostonherald.com/news/international/europe/view.bg?articleid=1207400)
+2. [Boston Herald](http://bostonherald.com/news/international/europe/view.bg?articleid=1207400)
+3. [CNN iReport](http://www.ireport.com/docs/DOC-346433)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Syria Online](http://www.syriaonline.sy/?f=Details&pageid=3306&catid=21)
-2. [AFP via Yahoo! News](http://news.yahoo.com/sunni-sheikh-killed-north-lebanon-clashes-060459040.html)
+1. [AFP via Yahoo! News](http://news.yahoo.com/sunni-sheikh-killed-north-lebanon-clashes-060459040.html)
+2. [Syria Online](http://www.syriaonline.sy/?f=Details&pageid=3306&catid=21)
 
 ### Related:
 

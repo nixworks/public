@@ -7,9 +7,9 @@ More than a million people take part in a rally in north-eastern Spain seeking g
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/world/europe/Catalans-rally-in-Barcelona-for-greater-autonomy-within-Spain/articleshow/6153278.cms)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jzBcvEgVXvM39v1U16fSCNkHQmIA)
-3. [BBC News](http://news.bbc.co.uk/2/hi/world/europe/10588494.stm)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jzBcvEgVXvM39v1U16fSCNkHQmIA)
+2. [BBC News](http://news.bbc.co.uk/2/hi/world/europe/10588494.stm)
+3. [Times of India](http://timesofindia.indiatimes.com/world/europe/Catalans-rally-in-Barcelona-for-greater-autonomy-within-Spain/articleshow/6153278.cms)
 
 ### Related:
 

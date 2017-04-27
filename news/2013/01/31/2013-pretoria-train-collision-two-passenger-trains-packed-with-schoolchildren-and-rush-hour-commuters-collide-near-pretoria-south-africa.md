@@ -8,8 +8,8 @@ At least 300 people, including many schoolchildren, are injured when two passeng
 ### Source:
 
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5jo_h8TpWkNb9izUJ-V4asxqtBFBA)
-2. [Reuters](http://www.reuters.com/article/2013/01/31/us-safrica-train-idUSBRE90U0C620130131)
-3. [BBC](http://www.bbc.co.uk/news/world-africa-21274511)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-21274511)
+3. [Reuters](http://www.reuters.com/article/2013/01/31/us-safrica-train-idUSBRE90U0C620130131)
 
 ### Related:
 

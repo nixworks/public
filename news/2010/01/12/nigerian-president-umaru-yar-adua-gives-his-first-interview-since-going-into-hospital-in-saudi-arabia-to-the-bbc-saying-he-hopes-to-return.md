@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Vanguard](http://www.vanguardngr.com/2010/01/12/yar%E2%80%99adua-speaks-at-last/)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8453321.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8453321.stm)
+2. [Vanguard](http://www.vanguardngr.com/2010/01/12/yar%E2%80%99adua-speaks-at-last/)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Trade unions have announced plans for a second national strike in public sector 
 
 ### Source:
 
-1. [Irish Independent](http://www.independent.ie/national-news/striking-workers-head-north-to-shop-1952527.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/8375745.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8375745.stm)
+2. [Irish Independent](http://www.independent.ie/national-news/striking-workers-head-north-to-shop-1952527.html)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1124/breaking10.htm)
 
 ### Related:

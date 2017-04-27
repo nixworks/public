@@ -7,5 +7,5 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2009-09/02/content_11985384.htm)
-2. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=48866)
+1. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=48866)
+2. [Xinhua](http://news.xinhuanet.com/english/2009-09/02/content_11985384.htm)

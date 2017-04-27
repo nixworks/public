@@ -7,9 +7,9 @@ At least 39 people have been killed after gunmen burst into a shopping centre in
 
 ### Source:
 
-1. [France 24](http://www.france24.com/en/breaking/20130921-gunbattle-breaks-out-shopping-mall-kenyan-capital-nairobi?ns_campaign=al_en&ns_mchannel=email_marketing&ns_source=AL_20130921_1246&ns_linkname=20130921_breaking_news&ns_fee=0&f24_member_id=1080960490882)
-2. [RTE](http://www.rte.ie/news/2013/0921/475630-kenya-attack/)
-3. [CNN](http://www.cnn.com/2013/09/21/world/africa/kenya-mall-gunbattle/index.html)
+1. [CNN](http://www.cnn.com/2013/09/21/world/africa/kenya-mall-gunbattle/index.html)
+2. [France 24](http://www.france24.com/en/breaking/20130921-gunbattle-breaks-out-shopping-mall-kenyan-capital-nairobi?ns_campaign=al_en&ns_mchannel=email_marketing&ns_source=AL_20130921_1246&ns_linkname=20130921_breaking_news&ns_fee=0&f24_member_id=1080960490882)
+3. [RTE](http://www.rte.ie/news/2013/0921/475630-kenya-attack/)
 
 ### Related:
 

@@ -7,8 +7,8 @@ North Korea is banning Malaysians from leaving the country.
 
 ### Source:
 
-1. [Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/pyongyang-bans-malaysians-from-leaving-north-korea-kcna/3574402.html)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-39189381)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-39189381)
+2. [Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/pyongyang-bans-malaysians-from-leaving-north-korea-kcna/3574402.html)
 
 ### Related:
 

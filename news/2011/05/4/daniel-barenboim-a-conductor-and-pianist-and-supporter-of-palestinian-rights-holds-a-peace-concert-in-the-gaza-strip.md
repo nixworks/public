@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/LandedPages/SearchResults.aspx?q=barenboim)
-2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,15047709,00.html)
+1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,15047709,00.html)
+2. [The Jerusalem Post](http://www.jpost.com/LandedPages/SearchResults.aspx?q=barenboim)
 
 ### Related:
 

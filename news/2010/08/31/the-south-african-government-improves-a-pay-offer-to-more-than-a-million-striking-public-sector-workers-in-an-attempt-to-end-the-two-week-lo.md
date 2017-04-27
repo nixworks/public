@@ -7,9 +7,9 @@ South African government negotiators have improved their pay offer to civil serv
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/africa/08/31/south.africa.strike/#fbid=Dxrzb6Q-4_O&wom=false)
+1. [AllAfrica.com](http://allafrica.com/stories/201008310211.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-11136354)
-3. [AllAfrica.com](http://allafrica.com/stories/201008310211.html)
+3. [CNN](http://edition.cnn.com/2010/WORLD/africa/08/31/south.africa.strike/#fbid=Dxrzb6Q-4_O&wom=false)
 
 ### Related:
 

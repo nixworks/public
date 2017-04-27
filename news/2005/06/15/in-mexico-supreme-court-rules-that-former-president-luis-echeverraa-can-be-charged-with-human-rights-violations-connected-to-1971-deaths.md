@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=aVcLl8UVsl3A&refer=latin_america)
-2. [El Universal](http://www2.eluniversal.com.mx/pls/impreso/noticia.html?id_nota=10853&tabla=miami)
-3. [BBC](http://news.bbc.co.uk/2/hi/americas/4097528.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4097528.stm)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=aVcLl8UVsl3A&refer=latin_america)
+3. [El Universal](http://www2.eluniversal.com.mx/pls/impreso/noticia.html?id_nota=10853&tabla=miami)
 
 ### Related:
 

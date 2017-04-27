@@ -7,9 +7,9 @@ A Uganda MP accuses soldiers of carrying out torture and killings in a campaign 
 
 ### Source:
 
-1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE67F0HD20100816)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-10996764)
-3. [Daily Monitor](http://www.monitor.co.ug/News/National/-/688334/977288/-/x3biuk/-/)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-10996764)
+2. [Daily Monitor](http://www.monitor.co.ug/News/National/-/688334/977288/-/x3biuk/-/)
+3. [Reuters](http://af.reuters.com/article/topNews/idAFJOE67F0HD20100816)
 
 ### Related:
 

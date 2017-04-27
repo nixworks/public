@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [MosNews](http://www.mosnews.com/news/2005/07/18/ukrainegai.shtml)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/4694199.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4694199.stm)
+2. [MosNews](http://www.mosnews.com/news/2005/07/18/ukrainegai.shtml)
 
 ### Related:
 

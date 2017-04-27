@@ -7,9 +7,9 @@ Days after a U.S. naval ship sailed by, Chinese officials released photographs o
 
 ### Source:
 
-1. [Sydney Morning Herald](http://www.smh.com.au/world/south-china-sea-us-to-increase-freedom-of-navigation-patrols-as-china-responds-20151103-gkpi6m.html)
-2. [International Business Times](http://www.ibtimes.com/south-china-sea-dispute-2015-armed-chinese-fighter-jets-train-over-controversial-2164263)
-3. [Reuters](http://in.reuters.com/article/2015/11/03/transcanada-keystone-idINL1N12X2K220151103)
+1. [International Business Times](http://www.ibtimes.com/south-china-sea-dispute-2015-armed-chinese-fighter-jets-train-over-controversial-2164263)
+2. [Reuters](http://in.reuters.com/article/2015/11/03/transcanada-keystone-idINL1N12X2K220151103)
+3. [Sydney Morning Herald](http://www.smh.com.au/world/south-china-sea-us-to-increase-freedom-of-navigation-patrols-as-china-responds-20151103-gkpi6m.html)
 
 ### Related:
 

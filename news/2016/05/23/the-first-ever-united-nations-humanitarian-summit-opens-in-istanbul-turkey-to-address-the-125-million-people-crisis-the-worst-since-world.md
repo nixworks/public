@@ -7,8 +7,8 @@ Global leaders met in Istanbul on Monday to tackle a &quot;broken&quot; humanita
 
 ### Source:
 
-1. [Reuters](http://in.reuters.com/article/humanitarian-summit-idINKCN0YE1JV)
-2. [AP via ''Deseret News](http://www.deseretnews.com/article/765686665/World-Humanitarian-Summit-opens-in-Istanbul-to-tackle-crisis.html)
+1. [AP via ''Deseret News](http://www.deseretnews.com/article/765686665/World-Humanitarian-Summit-opens-in-Istanbul-to-tackle-crisis.html)
+2. [Reuters](http://in.reuters.com/article/humanitarian-summit-idINKCN0YE1JV)
 
 ### Related:
 

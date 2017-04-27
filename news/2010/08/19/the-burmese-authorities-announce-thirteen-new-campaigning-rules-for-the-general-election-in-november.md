@@ -7,8 +7,8 @@ Military-ruled Myanmar Thursday announced restrictions on campaigning for Novemb
 
 ### Source:
 
-1. [Sify](http://sify.com/news/myanmar-announces-restrictions-on-election-campaigning-news-international-kitlEecgejc.html)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/08/2010819145827219488.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/08/2010819145827219488.html)
+2. [Sify](http://sify.com/news/myanmar-announces-restrictions-on-election-campaigning-news-international-kitlEecgejc.html)
 
 ### Related:
 

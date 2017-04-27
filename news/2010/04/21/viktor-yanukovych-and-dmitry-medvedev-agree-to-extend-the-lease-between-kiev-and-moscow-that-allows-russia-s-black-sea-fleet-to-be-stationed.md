@@ -7,8 +7,8 @@ The Kremlin has scored a major diplomatic victory, striking a deal that will all
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/russia/7615790/Russias-Black-Sea-Fleet-to-stay-in-Ukraine-until-2042.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/8635345.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8635345.stm)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/russia/7615790/Russias-Black-Sea-Fleet-to-stay-in-Ukraine-until-2042.html)
 3. [The Guardian](http://www.guardian.co.uk/world/2010/apr/21/ukraine-black-sea-fleet-russia)
 
 ### Related:

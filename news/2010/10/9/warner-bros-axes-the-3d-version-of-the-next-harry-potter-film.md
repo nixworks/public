@@ -7,8 +7,8 @@ Warner Bros Studios says it is cancelling the 3D conversion of the next Harry Po
 
 ### Source:
 
-1. [Daily Mail](http://www.dailymail.co.uk/tvshowbiz/article-1319031/Harry-Potter-Deathly-Hallows-3D-release-cancelled.html?ITO=1490)
-2. [BBC](http://www.bbc.co.uk/news/uk-11506354)
+1. [BBC](http://www.bbc.co.uk/news/uk-11506354)
+2. [Daily Mail](http://www.dailymail.co.uk/tvshowbiz/article-1319031/Harry-Potter-Deathly-Hallows-3D-release-cancelled.html?ITO=1490)
 
 ### Related:
 

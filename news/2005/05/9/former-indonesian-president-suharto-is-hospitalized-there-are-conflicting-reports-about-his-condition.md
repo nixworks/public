@@ -8,9 +8,9 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4528511.stm)
-2. [Laksamana](http://www.laksamana.net/vnews.cfm?ncat=2&news_id=8132)
-3. [Forbes](http://www.forbes.com/business/feeds/afx/2005/05/09/afx2008591.html)
-4. [Jakarta Post](http://www.thejakartapost.com/detaillatestnews.asp?fileid=20050509113611&irec=10)
+2. [Forbes](http://www.forbes.com/business/feeds/afx/2005/05/09/afx2008591.html)
+3. [Jakarta Post](http://www.thejakartapost.com/detaillatestnews.asp?fileid=20050509113611&irec=10)
+4. [Laksamana](http://www.laksamana.net/vnews.cfm?ncat=2&news_id=8132)
 
 ### Related:
 

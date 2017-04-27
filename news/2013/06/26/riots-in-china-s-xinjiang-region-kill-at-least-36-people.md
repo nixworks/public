@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Australian](http://www.theaustralian.com.au/news/breaking-news/riots-in-chinas-xinjiang-region-kill-27/story-fn3dxix6-1226670276075)
-2. [NBC News](http://worldnews.nbcnews.com/_news/2013/06/26/19149980-report-36-killed-after-knife-gang-attacks-china-police-station#comments)
+1. [NBC News](http://worldnews.nbcnews.com/_news/2013/06/26/19149980-report-36-killed-after-knife-gang-attacks-china-police-station#comments)
+2. [The Australian](http://www.theaustralian.com.au/news/breaking-news/riots-in-chinas-xinjiang-region-kill-27/story-fn3dxix6-1226670276075)
 
 ### Related:
 

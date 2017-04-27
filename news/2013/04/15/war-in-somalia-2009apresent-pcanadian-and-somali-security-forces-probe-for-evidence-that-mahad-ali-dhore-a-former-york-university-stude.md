@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Star](http://www.thestar.com/news/world/2013/04/14/somalia_militants_attack_mogadishu_courthouse.html)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-22153911)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-22153911)
+2. [The Star](http://www.thestar.com/news/world/2013/04/14/somalia_militants_attack_mogadishu_courthouse.html)
 
 ### Related:
 

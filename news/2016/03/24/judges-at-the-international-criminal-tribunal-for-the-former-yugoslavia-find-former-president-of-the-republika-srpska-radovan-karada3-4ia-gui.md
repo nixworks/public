@@ -7,8 +7,8 @@ Wartime leader of Bosnian Serbs found guilty of 10 of 11 charges at internationa
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/world/2016/mar/24/radovan-karadzic-criminally-responsible-for-genocide-at-srebenica)
-2. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/bosnian-serb-leader-karadzic-faces-hague-courts-verdict/27632392.html)
+1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/bosnian-serb-leader-karadzic-faces-hague-courts-verdict/27632392.html)
+2. [The Guardian](http://www.theguardian.com/world/2016/mar/24/radovan-karadzic-criminally-responsible-for-genocide-at-srebenica)
 
 ### Related:
 

@@ -7,8 +7,8 @@ A multiple bomb attack by Islamic State militants in Libya has killed at least 4
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-31549280)
-2. [AP](http://bigstory.ap.org/article/6a1521109720422a8787bd06a0cc75da/officials-death-toll-massive-suicide-car-bombings-eastern)
+1. [AP](http://bigstory.ap.org/article/6a1521109720422a8787bd06a0cc75da/officials-death-toll-massive-suicide-car-bombings-eastern)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-31549280)
 
 ### Related:
 

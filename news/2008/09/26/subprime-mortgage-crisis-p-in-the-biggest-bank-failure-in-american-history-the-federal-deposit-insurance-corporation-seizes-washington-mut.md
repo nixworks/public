@@ -7,8 +7,8 @@ Washington Mutual was seized by federal regulators in what is the largest bank f
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2008/09/26/business/26wamu.html)
-2. [FDIC](http://www.fdic.gov/news/news/press/2008/pr08085.html)
+1. [FDIC](http://www.fdic.gov/news/news/press/2008/pr08085.html)
+2. [The New York Times](http://www.nytimes.com/2008/09/26/business/26wamu.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The scientists involved in crafting the panel’s climate reports need to be mor
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/frontpage/2010/0831/1224277911810.html)
-2. [The New York Times](http://www.nytimes.com/2010/08/31/world/31nations.html?_r=1&partner=rss&emc=rss)
-3. [Aljazeera](http://english.aljazeera.net/weather/2010/08/201083016481428168.html)
-4. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10670085)
-5. [InterAcademy Council news release 30.August.2010](http://reviewipcc.interacademycouncil.net/ReportNewsRelease.html)
+1. [Aljazeera](http://english.aljazeera.net/weather/2010/08/201083016481428168.html)
+2. [InterAcademy Council news release 30.August.2010](http://reviewipcc.interacademycouncil.net/ReportNewsRelease.html)
+3. [The Irish Times](http://www.irishtimes.com/newspaper/frontpage/2010/0831/1224277911810.html)
+4. [The New York Times](http://www.nytimes.com/2010/08/31/world/31nations.html?_r=1&partner=rss&emc=rss)
+5. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10670085)

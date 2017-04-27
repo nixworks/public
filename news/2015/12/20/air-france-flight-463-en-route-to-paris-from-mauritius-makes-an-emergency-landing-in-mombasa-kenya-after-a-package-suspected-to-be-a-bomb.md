@@ -7,9 +7,9 @@ A Kenyan police official says an Air France flight from Mauritius to Paris has b
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-kenya-airlines-airfrance-idUSKBN0U307C20151220)
-2. [AP via News24](http://www.news24.com/News24/World/News/air-france-flight-forced-to-land-in-kenya-over-bomb-scare-20151220-2)
-3. [CNN](http://edition.cnn.com/2015/12/20/africa/air-france-flight-emergency-landing-kenya/index.html)
+1. [AP via News24](http://www.news24.com/News24/World/News/air-france-flight-forced-to-land-in-kenya-over-bomb-scare-20151220-2)
+2. [CNN](http://edition.cnn.com/2015/12/20/africa/air-france-flight-emergency-landing-kenya/index.html)
+3. [Reuters](http://www.reuters.com/article/us-kenya-airlines-airfrance-idUSKBN0U307C20151220)
 
 ### Related:
 

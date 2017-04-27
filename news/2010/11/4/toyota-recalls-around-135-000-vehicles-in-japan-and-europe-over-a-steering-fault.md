@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Financial Times](http://www.ft.com/cms/s/0/284e7598-e802-11df-b158-00144feab49a.html)
-2. [Bloomberg](http://www.bloomberg.com/news/2010-11-04/toyota-recalls-71-000-cars-in-europe-for-steering-wheel-defect.html)
+1. [Bloomberg](http://www.bloomberg.com/news/2010-11-04/toyota-recalls-71-000-cars-in-europe-for-steering-wheel-defect.html)
+2. [Financial Times](http://www.ft.com/cms/s/0/284e7598-e802-11df-b158-00144feab49a.html)
 
 ### Related:
 

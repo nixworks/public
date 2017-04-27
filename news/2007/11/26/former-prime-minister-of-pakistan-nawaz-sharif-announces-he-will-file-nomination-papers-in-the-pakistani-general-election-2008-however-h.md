@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Canadian Press via Google News](http://canadianpress.google.com/article/ALeqM5hM5-mPiQRPbl5UtaZsykYVwHeCJA)
-2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7112550.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7112550.stm)
+2. [Canadian Press via Google News](http://canadianpress.google.com/article/ALeqM5hM5-mPiQRPbl5UtaZsykYVwHeCJA)
 
 ### Related:
 

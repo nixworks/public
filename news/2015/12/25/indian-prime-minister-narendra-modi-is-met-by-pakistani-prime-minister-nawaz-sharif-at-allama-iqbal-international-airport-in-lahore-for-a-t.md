@@ -7,8 +7,8 @@ In yet another unannounced stopover, Prime Minister Narendra Modi landed in Laho
 
 ### Source:
 
-1. [The Hindu](http://www.thehindu.com/news/modi-stuns-all-with-surprise-stopover-in-lahore-following-unannounced-stop-in-kabul/article8029007.ece)
-2. [CNN](http://www.cnn.com/2015/12/25/asia/india-pm-visits-pakistan/)
+1. [CNN](http://www.cnn.com/2015/12/25/asia/india-pm-visits-pakistan/)
+2. [The Hindu](http://www.thehindu.com/news/modi-stuns-all-with-surprise-stopover-in-lahore-following-unannounced-stop-in-kabul/article8029007.ece)
 
 ### Related:
 

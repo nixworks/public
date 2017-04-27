@@ -7,9 +7,9 @@ Former&#x20;South&#x20;African&#x20;President&#x20;Thabo&#x20;Mbeki&#x20;is&#x20
 
 ### Source:
 
-1. [France 24](http://www.france24.com/en/20101205-ivory-coast-mbeki-holds-crisis-talks-gbagbo-ouattara-election-dispute)
-2. [Times Live South Africa](http://www.timeslive.co.za/world/article799275.ece/Mbeki-to-mediate-in-Ivory-Coast)
-3. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/12/201012515239370715.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/12/201012515239370715.html)
+2. [France 24](http://www.france24.com/en/20101205-ivory-coast-mbeki-holds-crisis-talks-gbagbo-ouattara-election-dispute)
+3. [Times Live South Africa](http://www.timeslive.co.za/world/article799275.ece/Mbeki-to-mediate-in-Ivory-Coast)
 
 ### Related:
 

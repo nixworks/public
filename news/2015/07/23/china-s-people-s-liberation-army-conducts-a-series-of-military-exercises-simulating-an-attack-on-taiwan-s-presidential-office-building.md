@@ -7,9 +7,9 @@ This is pretty scary if you&#039;re Taiwanese.
 
 ### Source:
 
-1. [Wall Street Journal](http://blogs.wsj.com/chinarealtime/2015/07/23/palace-intrigue-chinese-soldiers-storm-replica-of-taiwan-presidential-office/)
+1. [Focus Taiwan](http://focustaiwan.tw/news/aipl/201507220031.aspx)
 2. [Quartz](http://qz.com/461110/video-a-chinese-military-drill-simulates-an-attack-on-taiwans-presidential-office/)
-3. [Focus Taiwan](http://focustaiwan.tw/news/aipl/201507220031.aspx)
+3. [Wall Street Journal](http://blogs.wsj.com/chinarealtime/2015/07/23/palace-intrigue-chinese-soldiers-storm-replica-of-taiwan-presidential-office/)
 
 ### Related:
 

@@ -7,9 +7,9 @@ A year ago, NASA successfully slammed a spent Centaur rocket into Cabeus Crater,
 
 ### Source:
 
-1. [Universe Today](http://www.universetoday.com/76329/water-on-the-moon-and-much-much-more-latest-lcross-results/)
-2. [New York Times](http://www.nytimes.com/2010/10/22/science/space/22moon.html)
-3. [The Register](http://www.theregister.co.uk/2010/10/22/moon_water_nasa/)
+1. [New York Times](http://www.nytimes.com/2010/10/22/science/space/22moon.html)
+2. [The Register](http://www.theregister.co.uk/2010/10/22/moon_water_nasa/)
+3. [Universe Today](http://www.universetoday.com/76329/water-on-the-moon-and-much-much-more-latest-lcross-results/)
 
 ### Related:
 

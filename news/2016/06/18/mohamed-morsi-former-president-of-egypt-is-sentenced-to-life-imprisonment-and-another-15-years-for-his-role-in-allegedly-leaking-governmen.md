@@ -7,8 +7,8 @@ Death sentences upheld for six defendants, as ex-president and aides receive 25-
 
 ### Source:
 
-1. [Daily News Egypt](http://www.dailynewsegypt.com/2016/06/18/morsi-sentenced-to-life-in-qatar-espionage-case/)
-2. [Al-Jazeera](http://www.aljazeera.com/news/2016/06/egypt-espionage-case-160618062408884.html)
+1. [Al-Jazeera](http://www.aljazeera.com/news/2016/06/egypt-espionage-case-160618062408884.html)
+2. [Daily News Egypt](http://www.dailynewsegypt.com/2016/06/18/morsi-sentenced-to-life-in-qatar-espionage-case/)
 
 ### Related:
 

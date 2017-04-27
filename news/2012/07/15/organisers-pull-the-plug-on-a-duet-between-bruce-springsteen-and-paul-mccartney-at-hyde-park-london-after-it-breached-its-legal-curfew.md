@@ -7,10 +7,10 @@ Fans and members of Bruce Springsteen&#039;s E-Street Band were left angered aft
 
 ### Source:
 
-1. [Philadelphia Daily News](http://www.philly.com/philly/entertainment/20120716_Springsteen__McCartney_silently_duet.html?cmpid=138887484)
-2. [The Daily Telegraph](http://www.telegraph.co.uk/culture/music/music-news/9401505/Hard-Rock-Calling-2012-Police-state-pulls-the-plug-on-The-Boss-and-The-Beatle.html)
-3. [Irish Independent](http://www.independent.ie/entertainment/music/bruce-springsteen-and-paul-mccartney-unplugged-in-full-flow-during-uk-gig-3168782.html)
-4. [Scottish Daily Record](http://www.dailyrecord.co.uk/showbiz/music-news/2012/07/16/bruce-springsteen-sideman-blasts-london-jobsworths-as-the-boss-paul-mccartney-are-cut-off-in-their-prime-86908-23909069/)
+1. [Irish Independent](http://www.independent.ie/entertainment/music/bruce-springsteen-and-paul-mccartney-unplugged-in-full-flow-during-uk-gig-3168782.html)
+2. [Philadelphia Daily News](http://www.philly.com/philly/entertainment/20120716_Springsteen__McCartney_silently_duet.html?cmpid=138887484)
+3. [Scottish Daily Record](http://www.dailyrecord.co.uk/showbiz/music-news/2012/07/16/bruce-springsteen-sideman-blasts-london-jobsworths-as-the-boss-paul-mccartney-are-cut-off-in-their-prime-86908-23909069/)
+4. [The Daily Telegraph](http://www.telegraph.co.uk/culture/music/music-news/9401505/Hard-Rock-Calling-2012-Police-state-pulls-the-plug-on-The-Boss-and-The-Beatle.html)
 
 ### Related:
 

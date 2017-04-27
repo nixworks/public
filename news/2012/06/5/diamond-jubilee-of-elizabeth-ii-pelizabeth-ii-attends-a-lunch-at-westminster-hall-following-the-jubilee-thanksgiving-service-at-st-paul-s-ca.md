@@ -8,8 +8,8 @@ Four days of Diamond Jubilee events culminate in an appearance by the Queen on t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-18327711)
-2. [BBC](http://www.bbc.co.uk/news/uk-politics-18329526)
-3. [BBC](http://www.bbc.co.uk/news/uk-18333624)
+2. [BBC](http://www.bbc.co.uk/news/uk-18333624)
+3. [BBC](http://www.bbc.co.uk/news/uk-politics-18329526)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Zambia National Broadcasting Corporation](http://www.znbc.co.zm/media/news/viewnews.cgi?category=9&id=1258387382)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8362853.stm)
-3. [The Post](http://www.postzambia.com/post-read_article.php?articleId=2020)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8362853.stm)
+2. [The Post](http://www.postzambia.com/post-read_article.php?articleId=2020)
+3. [Zambia National Broadcasting Corporation](http://www.znbc.co.zm/media/news/viewnews.cgi?category=9&id=1258387382)
 
 ### Related:
 

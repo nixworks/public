@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8143570.stm)
-2. [The Times of India](http://timesofindia.indiatimes.com/World/World/Myanmar-Suu-Kyis-trial-resumes/articleshow/4761423.cms)
-3. [The Guardian](http://www.guardian.co.uk/world/2009/jul/10/aung-san-suu-kyi-trial)
+2. [The Guardian](http://www.guardian.co.uk/world/2009/jul/10/aung-san-suu-kyi-trial)
+3. [The Times of India](http://timesofindia.indiatimes.com/World/World/Myanmar-Suu-Kyis-trial-resumes/articleshow/4761423.cms)
 
 ### Related:
 

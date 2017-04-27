@@ -7,8 +7,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [AP via Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/world/6631253.html)
-2. [ABC](http://abcnews.go.com/International/wireStory?id=8636218)
+1. [ABC](http://abcnews.go.com/International/wireStory?id=8636218)
+2. [AP via Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/world/6631253.html)
 
 ### Related:
 

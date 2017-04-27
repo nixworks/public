@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Expatica](http://www.expatica.com/source/site_article.asp?subchannel_id=26&story_id=16014&name=Rumsfeld+scraps+Munich+visitover+%27war+crimes%27+probe)
-2. [DW](http://www.dw-world.de/dw/article/0,1564,1465263,00.html)
+1. [DW](http://www.dw-world.de/dw/article/0,1564,1465263,00.html)
+2. [Expatica](http://www.expatica.com/source/site_article.asp?subchannel_id=26&story_id=16014&name=Rumsfeld+scraps+Munich+visitover+%27war+crimes%27+probe)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [UEFA](http://www.uefa.com/uefa/footballfirst/matchorganisation/disciplinary/news/newsid=1824355.html)
-2. [BBC](http://www.bbc.co.uk/sport/0/football/18476818)
+1. [BBC](http://www.bbc.co.uk/sport/0/football/18476818)
+2. [UEFA](http://www.uefa.com/uefa/footballfirst/matchorganisation/disciplinary/news/newsid=1824355.html)
 
 ### Related:
 

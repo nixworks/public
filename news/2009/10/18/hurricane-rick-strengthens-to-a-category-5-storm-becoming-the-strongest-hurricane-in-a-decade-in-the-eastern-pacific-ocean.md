@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Straits Times](http://www.straitstimes.com/Breaking%2BNews/World/Story/STIStory_443690.html)
-2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gVWjsPEiqe1tEu2mhBIRaxxGi8owD9BDD6J80)
-3. [CNN](http://edition.cnn.com/2009/WORLD/americas/10/18/hurricane.weather/index.html)
+1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gVWjsPEiqe1tEu2mhBIRaxxGi8owD9BDD6J80)
+2. [CNN](http://edition.cnn.com/2009/WORLD/americas/10/18/hurricane.weather/index.html)
+3. [Straits Times](http://www.straitstimes.com/Breaking%2BNews/World/Story/STIStory_443690.html)
 
 ### Related:
 

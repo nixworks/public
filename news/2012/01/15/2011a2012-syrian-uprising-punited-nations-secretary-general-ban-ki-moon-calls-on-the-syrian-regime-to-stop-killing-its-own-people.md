@@ -7,8 +7,8 @@ United Nations Secretary-General Ban Ki-Moon Sunday called on Syria’s Presiden
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/world/middle-east/assad-offers-an-amnesty-to-the-criminals-of-the-syrian-uprising-6290176.html)
-2. [Daily Star Lebanon](http://www.dailystar.com.lb/News/Politics/2012/Jan-16/159991-ban-calls-on-assad-to-stop-killing-his-own-people.ashx#axzz1jZlcnlKj)
+1. [Daily Star Lebanon](http://www.dailystar.com.lb/News/Politics/2012/Jan-16/159991-ban-calls-on-assad-to-stop-killing-his-own-people.ashx#axzz1jZlcnlKj)
+2. [The Independent](http://www.independent.co.uk/news/world/middle-east/assad-offers-an-amnesty-to-the-criminals-of-the-syrian-uprising-6290176.html)
 
 ### Related:
 

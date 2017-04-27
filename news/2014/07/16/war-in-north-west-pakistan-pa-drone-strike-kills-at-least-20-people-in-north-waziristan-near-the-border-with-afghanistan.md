@@ -7,8 +7,8 @@ The unmanned aircraft targeted a house and a vehicle in the area.
 
 ### Source:
 
-1. [Pakistan Express Tribune](http://tribune.com.pk/story/736367/drone-strike-in-north-waziristan-kills-15/)
-2. [PTI via Business Standard](http://www.business-standard.com/article/international/pak-army-kills-35-fleeing-militants-in-air-attacks-114071600425_1.html)
+1. [PTI via Business Standard](http://www.business-standard.com/article/international/pak-army-kills-35-fleeing-militants-in-air-attacks-114071600425_1.html)
+2. [Pakistan Express Tribune](http://tribune.com.pk/story/736367/drone-strike-in-north-waziristan-kills-15/)
 
 ### Related:
 

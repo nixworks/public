@@ -7,8 +7,8 @@ A series of small explosions kill at least one person outside a provincial offic
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/11/06/us-china-explosions-idUSBRE9A502Q20131106)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-china-24830724)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-china-24830724)
+2. [Reuters](http://www.reuters.com/article/2013/11/06/us-china-explosions-idUSBRE9A502Q20131106)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Moscow Times](http://www.themoscowtimes.com/news/article/scientology-literature-declared-extremist/439845.html)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jUJK_3YqRLgnDtnGzEF_rEp2lkDQ?docId=f4bd741df1ca4130a85405f1cbda5ca2)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jUJK_3YqRLgnDtnGzEF_rEp2lkDQ?docId=f4bd741df1ca4130a85405f1cbda5ca2)
+2. [The Moscow Times](http://www.themoscowtimes.com/news/article/scientology-literature-declared-extremist/439845.html)
 
 ### Related:
 

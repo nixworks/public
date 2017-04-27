@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RTHK](http://rthk.hk/rthk/news/englishnews/news.htm?hightlight&20121002&56&873428)
-2. [CNN](http://www.cnn.com/2012/10/01/world/asia/china-ferry-crash/index.html?hpt=hp_t1)
+1. [CNN](http://www.cnn.com/2012/10/01/world/asia/china-ferry-crash/index.html?hpt=hp_t1)
+2. [RTHK](http://rthk.hk/rthk/news/englishnews/news.htm?hightlight&20121002&56&873428)
 
 ### Related:
 

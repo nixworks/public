@@ -7,12 +7,12 @@
 
 ### Source:
 
-1. [Reuters South Africa](http://af.reuters.com/article/chadNews/idAFLDE6150AE20100206?feedType=RSS&feedName=chadNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FAfricaChadNews+%28News+%2F+Africa+%2F+Chad+News%29)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/8502173.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/8502173.stm)
+2. [CNN](http://us.cnn.com/2010/WORLD/africa/02/06/chad.aid.worker.released/index.html?hpt=T2)
 3. [CTV News](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20100206/aid_worker_100206/20100206?hub=World)
-4. [CNN](http://us.cnn.com/2010/WORLD/africa/02/06/chad.aid.worker.released/index.html?hpt=T2)
-5. [news.com.au](http://www.news.com.au/breaking-news/world/kidnappers-free-darfur-red-cross-worker/story-e6frfkui-1225827495247)
-6. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/breakingnews/world/view/20100207-251751/Kidnappers-free-Red-Cross-worker-held-in-Darfur)
+4. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/breakingnews/world/view/20100207-251751/Kidnappers-free-Red-Cross-worker-held-in-Darfur)
+5. [Reuters South Africa](http://af.reuters.com/article/chadNews/idAFLDE6150AE20100206?feedType=RSS&feedName=chadNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FAfricaChadNews+%28News+%2F+Africa+%2F+Chad+News%29)
+6. [news.com.au](http://www.news.com.au/breaking-news/world/kidnappers-free-darfur-red-cross-worker/story-e6frfkui-1225827495247)
 
 ### Related:
 

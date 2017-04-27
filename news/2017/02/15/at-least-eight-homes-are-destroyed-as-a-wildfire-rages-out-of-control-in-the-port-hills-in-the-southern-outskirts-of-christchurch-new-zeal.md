@@ -7,8 +7,8 @@ Paul Askin has spent many years fearing terrible news about his son Steve. - New
 
 ### Source:
 
-1. [The New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11801538)
-2. [Stuff](http://www.stuff.co.nz/the-press/news/89420865/Homes-destroyed-hundreds-evacuated-as-Christchurch-Port-Hills-fire-rage-out-of-control)
+1. [Stuff](http://www.stuff.co.nz/the-press/news/89420865/Homes-destroyed-hundreds-evacuated-as-Christchurch-Port-Hills-fire-rage-out-of-control)
+2. [The New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11801538)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.dailytelegraph.com.au/news/nsw/sydney-heatwave-catastrophic-fire-danger-leaves-residents-ready-to-flee/news-story/8ce8a33939e5a7d4b07e876f9acdfffa)
-2. [NSW Rural Fire Service](http://www.rfs.nsw.gov.au/fire-information/major-fire-updates/mfu?id=863)
+1. [NSW Rural Fire Service](http://www.rfs.nsw.gov.au/fire-information/major-fire-updates/mfu?id=863)
+2. [The Daily Telegraph](http://www.dailytelegraph.com.au/news/nsw/sydney-heatwave-catastrophic-fire-danger-leaves-residents-ready-to-flee/news-story/8ce8a33939e5a7d4b07e876f9acdfffa)
 
 ### Related:
 

@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/breakingnews/nation/view/20100511-269426/Imelda-Marcos-wins-big)
-2. [Philippine Star](http://www.philstar.com/Article.aspx?articleId=574540&publicationSubCategoryId=63)
-3. [GMA News](http://www.gmanews.tv/eleksyon2010/story/news/190811/arroyo-proclaimed-as-pampanga-congresswoman)
-4. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/topstories/topstories/view/20100512-269597/Roxas-Binay-camps-trade-barbs-as-VP-race-heats-up)
+1. [GMA News](http://www.gmanews.tv/eleksyon2010/story/news/190811/arroyo-proclaimed-as-pampanga-congresswoman)
+2. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/breakingnews/nation/view/20100511-269426/Imelda-Marcos-wins-big)
+3. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/topstories/topstories/view/20100512-269597/Roxas-Binay-camps-trade-barbs-as-VP-race-heats-up)
+4. [Philippine Star](http://www.philstar.com/Article.aspx?articleId=574540&publicationSubCategoryId=63)
 
 ### Related:
 

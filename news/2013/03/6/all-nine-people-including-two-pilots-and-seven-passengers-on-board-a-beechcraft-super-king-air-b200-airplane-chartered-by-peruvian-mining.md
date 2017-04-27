@@ -7,8 +7,8 @@ All nine people on board an airplane chartered by a small Peruvian mining compan
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/03/06/us-peru-planecrash-idUSBRE9251EI20130306)
-2. [MARSA](http://www.marsa.com.pe/Documents/Publicaciones/Notas%20de%20Prensa/COMUNICADO%20DE%20PRENSA%202.pdf)
+1. [MARSA](http://www.marsa.com.pe/Documents/Publicaciones/Notas%20de%20Prensa/COMUNICADO%20DE%20PRENSA%202.pdf)
+2. [Reuters](http://www.reuters.com/article/2013/03/06/us-peru-planecrash-idUSBRE9251EI20130306)
 
 ### Related:
 

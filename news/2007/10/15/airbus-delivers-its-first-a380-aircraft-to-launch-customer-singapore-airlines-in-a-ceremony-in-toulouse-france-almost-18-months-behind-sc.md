@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters UK](http://investing.reuters.co.uk/news/articleinvesting.aspx?type=allBreakingNews&storyID=2007-10-15T081044Z_01_L15255936_RTRIDST_0_AIRBUS-UPDATE-1-PIX-TV.XML)
-2. [BBC News](http://news.bbc.co.uk/2/hi/business/7043812.stm)
+1. [BBC News](http://news.bbc.co.uk/2/hi/business/7043812.stm)
+2. [Reuters UK](http://investing.reuters.co.uk/news/articleinvesting.aspx?type=allBreakingNews&storyID=2007-10-15T081044Z_01_L15255936_RTRIDST_0_AIRBUS-UPDATE-1-PIX-TV.XML)
 
 ### Related:
 

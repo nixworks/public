@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2008/WORLD/asiapcf/04/23/srilanka.battle/)
-2. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7364226.stm)
+1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7364226.stm)
+2. [CNN](http://edition.cnn.com/2008/WORLD/asiapcf/04/23/srilanka.battle/)
 
 ### Related:
 

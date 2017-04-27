@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/health/8435955.stm)
-2. [Sleep](http://www.journalsleep.org/ViewAbstract.aspx?pid=27679)
-3. [CBC](http://www.cbc.ca/health/story/2009/12/31/sleep-teens-bedtime-depression.html)
+2. [CBC](http://www.cbc.ca/health/story/2009/12/31/sleep-teens-bedtime-depression.html)
+3. [Sleep](http://www.journalsleep.org/ViewAbstract.aspx?pid=27679)
 
 ### Related:
 

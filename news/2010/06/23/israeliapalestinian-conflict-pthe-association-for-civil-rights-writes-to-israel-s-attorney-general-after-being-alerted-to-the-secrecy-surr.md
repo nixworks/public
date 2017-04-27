@@ -7,13 +7,13 @@ JERUSALEM: Speculation was widespread in Israel last night over the identity of 
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10373179.stm)
-2. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/33-greeks-to-sue-israeli-officials-over-gaza-flotilla-raid-1.297930)
-3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/23/c_13363702.htm)
-4. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3909614,00.html)
+1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/2010623114558557329.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10373179.stm)
+3. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/33-greeks-to-sue-israeli-officials-over-gaza-flotilla-raid-1.297930)
+4. [Jewish Telegraphic Agency](http://www.jta.org/news/article/2010/06/23/2739740/swedish-dockworkers-boycott-israeli-ships)
 5. [The Sydney Morning Herald](http://www.smh.com.au/world/uproar-in-israel-over-top-secret-prisoner-20100622-yvok.html)
-6. [Jewish Telegraphic Agency](http://www.jta.org/news/article/2010/06/23/2739740/swedish-dockworkers-boycott-israeli-ships)
-7. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/2010623114558557329.html)
+6. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/23/c_13363702.htm)
+7. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3909614,00.html)
 
 ### Related:
 

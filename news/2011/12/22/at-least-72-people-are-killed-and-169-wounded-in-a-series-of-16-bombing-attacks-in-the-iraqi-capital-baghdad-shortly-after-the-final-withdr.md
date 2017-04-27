@@ -7,8 +7,8 @@ A wave of apparently co-ordinated bomb attacks in the Iraqi capital, Baghdad, ki
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2011/12/22/world/meast/iraq-violence/index.html?hpt=imi_c1)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-16297707)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-16297707)
+2. [CNN](http://www.cnn.com/2011/12/22/world/meast/iraq-violence/index.html?hpt=imi_c1)
 
 ### Related:
 

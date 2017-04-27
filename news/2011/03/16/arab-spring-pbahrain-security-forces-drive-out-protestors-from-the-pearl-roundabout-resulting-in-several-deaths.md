@@ -7,13 +7,13 @@ Curfew enforced, several dead and hundreds injured as security forces use tanks 
 
 ### Source:
 
-1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4043057,00.html)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/201131643831976772.html)
-3. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/03/201131692353456943.html)
-4. [Reuters](http://af.reuters.com/article/topNews/idAFJOE72F08X20110316?sp=true)
+1. [Ahram Online](http://english.ahram.org.eg/NewsContent/2/8/7833/World/Region/Syrian-security-forces-disperse-demo-near-interior.aspx)
+2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/03/201131692353456943.html)
+3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/201131643831976772.html)
+4. [BBC](http://www.bbc.co.uk/news/world-africa-12756874)
 5. [BBC](http://www.bbc.co.uk/news/world-middle-east-12757394)
-6. [BBC](http://www.bbc.co.uk/news/world-africa-12756874)
-7. [Ahram Online](http://english.ahram.org.eg/NewsContent/2/8/7833/World/Region/Syrian-security-forces-disperse-demo-near-interior.aspx)
+6. [Reuters](http://af.reuters.com/article/topNews/idAFJOE72F08X20110316?sp=true)
+7. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4043057,00.html)
 
 ### Related:
 

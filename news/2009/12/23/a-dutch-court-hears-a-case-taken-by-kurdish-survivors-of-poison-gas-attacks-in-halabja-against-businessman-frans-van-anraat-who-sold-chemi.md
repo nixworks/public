@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Radio Nederland Wereldomroep](http://www.rnw.nl/int-justice/article/kurdish-victims-demand-compensation)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/8428641.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8428641.stm)
+2. [Radio Nederland Wereldomroep](http://www.rnw.nl/int-justice/article/kurdish-victims-demand-compensation)
 
 ### Related:
 

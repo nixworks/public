@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/07/2009744535184893.html)
-2. [Bangkok Post](http://www.bangkokpost.com/news/world/147934/burma-junta-blocks-un-chief-from-meeting-suu-kyi)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8134061.stm)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8134061.stm)
+3. [Bangkok Post](http://www.bangkokpost.com/news/world/147934/burma-junta-blocks-un-chief-from-meeting-suu-kyi)
 
 ### Related:
 

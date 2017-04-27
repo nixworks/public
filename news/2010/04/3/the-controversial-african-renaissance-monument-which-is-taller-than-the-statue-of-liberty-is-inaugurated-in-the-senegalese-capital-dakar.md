@@ -8,10 +8,10 @@
 ### Source:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hqJurZzLGbwBPrHaFg6oVd8SYY4Q)
-2. [The Guardian](http://www.guardian.co.uk/world/2010/apr/04/senegal-african-renaissance-statue)
-3. [CNN](http://edition.cnn.com/2010/WORLD/africa/04/03/senegal.statue/?hpt=T2)
-4. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/04/201043101020481723.html)
-5. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8601382.stm)
+2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/04/201043101020481723.html)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8601382.stm)
+4. [CNN](http://edition.cnn.com/2010/WORLD/africa/04/03/senegal.statue/?hpt=T2)
+5. [The Guardian](http://www.guardian.co.uk/world/2010/apr/04/senegal-african-renaissance-statue)
 
 ### Related:
 

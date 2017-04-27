@@ -8,7 +8,7 @@ Hockey India is investigating claims of sexual harassment of junior female playe
 ### Source:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-south-asia-10712961)
-2. [The Daily Telegraph](http://www.telegraph.co.uk/sport/othersports/hockey/7902249/Hockey-India-investigate-sexual-harassment-claims.html)
-3. [NDTV](http://www.ndtv.com/article/sports/i-ll-be-exonerated-but-do-not-want-to-continue-kaushik-38771)
-4. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-sport/sex-scandal-rocks-indian-womens-team-20100722-10lgv.html)
-5. [The Hindu](http://www.thehindu.com/sport/article526812.ece)
+2. [NDTV](http://www.ndtv.com/article/sports/i-ll-be-exonerated-but-do-not-want-to-continue-kaushik-38771)
+3. [The Daily Telegraph](http://www.telegraph.co.uk/sport/othersports/hockey/7902249/Hockey-India-investigate-sexual-harassment-claims.html)
+4. [The Hindu](http://www.thehindu.com/sport/article526812.ece)
+5. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-sport/sex-scandal-rocks-indian-womens-team-20100722-10lgv.html)

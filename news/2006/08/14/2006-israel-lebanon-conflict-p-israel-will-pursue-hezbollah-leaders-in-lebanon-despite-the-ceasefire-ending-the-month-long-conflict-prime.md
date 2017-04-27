@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2006/WORLD/meast/08/13/mideast.main/index.html)
-2. [BBC NEWS](http://news.bbc.co.uk/1/hi/world/middle_east/4789569.stm)
-3. [BBC NEWS](http://news.bbc.co.uk/1/hi/world/middle_east/4791125.stm)
+1. [BBC NEWS](http://news.bbc.co.uk/1/hi/world/middle_east/4789569.stm)
+2. [BBC NEWS](http://news.bbc.co.uk/1/hi/world/middle_east/4791125.stm)
+3. [CNN](http://edition.cnn.com/2006/WORLD/meast/08/13/mideast.main/index.html)
 
 ### Related:
 

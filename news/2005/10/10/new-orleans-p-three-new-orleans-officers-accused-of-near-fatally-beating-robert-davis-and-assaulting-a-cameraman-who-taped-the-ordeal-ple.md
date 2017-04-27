@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Yahoo](http://news.yahoo.com/s/ap/20051010/ap_on_re_us/new_orleans_taped_beating)
-2. [Reuters](http://news.yahoo.com/s/ap/20051010/ap_on_re_us/new_orleans_police;_ylt=AgitrJK0dgxu8MWvq1H3RfGs0NUE;_ylu=X3oDMTA3MjBwMWtkBHNlYwM3MTg-)
+1. [Reuters](http://news.yahoo.com/s/ap/20051010/ap_on_re_us/new_orleans_police;_ylt=AgitrJK0dgxu8MWvq1H3RfGs0NUE;_ylu=X3oDMTA3MjBwMWtkBHNlYwM3MTg-)
+2. [Yahoo](http://news.yahoo.com/s/ap/20051010/ap_on_re_us/new_orleans_taped_beating)
 
 ### Related:
 

@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8355008.stm)
-2. [Telegraph Nepal](http://www.telegraphnepal.com/news_det.php?news_id=6618)
-3. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=29&art_id=nw20091111095435274C792651)
+2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=29&art_id=nw20091111095435274C792651)
+3. [Telegraph Nepal](http://www.telegraphnepal.com/news_det.php?news_id=6618)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=65279)
-2. [AP via ''Chicago  Tribune](http://www.chicagotribune.com/news/nationworld/sns-ap-as-samoa-dateline,0,2803590.story)
+1. [AP via ''Chicago  Tribune](http://www.chicagotribune.com/news/nationworld/sns-ap-as-samoa-dateline,0,2803590.story)
+2. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=65279)
 
 ### Related:
 

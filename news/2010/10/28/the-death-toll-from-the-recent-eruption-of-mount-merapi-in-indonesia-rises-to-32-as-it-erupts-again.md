@@ -7,10 +7,10 @@ Rescue crews and relief workers are losing hope of finding survivors after a tsu
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/world/story/2010/10/28/indonesia-tsunami-search.html)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11646905)
-3. [Jakarta Globe](http://www.thejakartaglobe.com/indonesia/indonesia-tsunami-death-toll-hits-343-questions-over-warning-system/403682)
-4. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/10/28/indonesia.volcano/index.html?eref=edition)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11646905)
+2. [CBC](http://www.cbc.ca/world/story/2010/10/28/indonesia-tsunami-search.html)
+3. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/10/28/indonesia.volcano/index.html?eref=edition)
+4. [Jakarta Globe](http://www.thejakartaglobe.com/indonesia/indonesia-tsunami-death-toll-hits-343-questions-over-warning-system/403682)
 
 ### Related:
 

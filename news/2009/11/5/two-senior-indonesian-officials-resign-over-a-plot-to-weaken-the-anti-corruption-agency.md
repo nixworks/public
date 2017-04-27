@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Jakarta Post](http://www.thejakartapost.com/news/2009/11/05/deputy-attorney-general-resigns-kpk-scandal-escalates.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/11/200911561953891251.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8343786.stm)
-3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/11/200911561953891251.html)
+3. [Jakarta Post](http://www.thejakartapost.com/news/2009/11/05/deputy-attorney-general-resigns-kpk-scandal-escalates.html)
 
 ### Related:
 

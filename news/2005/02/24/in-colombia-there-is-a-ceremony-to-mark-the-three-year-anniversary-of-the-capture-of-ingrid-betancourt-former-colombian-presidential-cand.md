@@ -7,8 +7,8 @@ Read the latest national and world news on Newsday. All the top stores, latest v
 
 ### Source:
 
-1. [Newsday](http://www.newsday.com/news/nationworld/world/wire/sns-ap-france-colombia-betancourt,0,907598.story?coll=sns-ap-world-headlines)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/4293075.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4293075.stm)
+2. [Newsday](http://www.newsday.com/news/nationworld/world/wire/sns-ap-france-colombia-betancourt,0,907598.story?coll=sns-ap-world-headlines)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The official site of the international governing body of football with news, nat
 
 ### Source:
 
-1. [FIFA](http://www.fifa.com/worldfootball/clubfootball/news/newsid=1991152.html)
-2. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1306769/coach-gigi-delneri-sacked-by-genoa-after-defeat)
+1. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1306769/coach-gigi-delneri-sacked-by-genoa-after-defeat)
+2. [FIFA](http://www.fifa.com/worldfootball/clubfootball/news/newsid=1991152.html)
 
 ### Related:
 

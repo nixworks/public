@@ -7,9 +7,9 @@ Ruling coalition breaks up as Social Democrats quit to protest sacking of minist
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/10/2009101143414514993.html)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iFtWnM3B6q6ICv3m4_nZNMSMZW5Q)
-3. [Adevarul](http://www.adevarul.ro/articole/social-democrat-ministers-quit-coalition-government-splits.html)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iFtWnM3B6q6ICv3m4_nZNMSMZW5Q)
+2. [Adevarul](http://www.adevarul.ro/articole/social-democrat-ministers-quit-coalition-government-splits.html)
+3. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/10/2009101143414514993.html)
 
 ### Related:
 

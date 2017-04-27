@@ -7,8 +7,8 @@ Racing authorities in Victoria, South Australia, Western Australia and Tasmania 
 
 ### Source:
 
-1. [ABC News](http://www.abc.net.au/news/stories/2007/08/25/2015088.htm)
-2. [ABC News Australia](http://www.abc.net.au/news/stories/2007/08/25/2015018.htm)
+1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/08/25/2015018.htm)
+2. [ABC News](http://www.abc.net.au/news/stories/2007/08/25/2015088.htm)
 
 ### Related:
 

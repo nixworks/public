@@ -7,8 +7,8 @@ The Mainland Affairs Council (MAC) yesterday urged the Chinese government to dem
 
 ### Source:
 
-1. [Taipei Times](http://www.taipeitimes.com/News/taiwan/archives/2016/08/05/2003652491)
-2. [Focus Taiwan](http://focustaiwan.tw/news/acs/201608040030.aspx)
+1. [Focus Taiwan](http://focustaiwan.tw/news/acs/201608040030.aspx)
+2. [Taipei Times](http://www.taipeitimes.com/News/taiwan/archives/2016/08/05/2003652491)
 
 ### Related:
 

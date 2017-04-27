@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/01/29/us-kazakhstan-aircrash-idUSBRE90S0AM20130129)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-21243203)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-21243203)
+2. [Reuters](http://www.reuters.com/article/2013/01/29/us-kazakhstan-aircrash-idUSBRE90S0AM20130129)
 
 ### Related:
 

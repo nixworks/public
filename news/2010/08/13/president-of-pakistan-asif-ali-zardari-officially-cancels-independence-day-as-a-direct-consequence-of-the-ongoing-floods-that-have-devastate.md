@@ -7,9 +7,9 @@ President cancels independence day festivities as country braces for more floods
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10968127)
-2. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/2010813183228537830.html)
-3. [Associated Press of Pakistan](http://www.app.com.pk/en_/index.php?option=com_content&task=view&id=113058&Itemid=1)
+1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/2010813183228537830.html)
+2. [Associated Press of Pakistan](http://www.app.com.pk/en_/index.php?option=com_content&task=view&id=113058&Itemid=1)
+3. [BBC](http://www.bbc.co.uk/news/world-south-asia-10968127)
 
 ### Related:
 

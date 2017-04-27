@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2010/jan/13/uganda-anti-gay-bill-president)
-2. [New Vision](http://www.newvision.co.ug/D/8/12/706894)
+1. [New Vision](http://www.newvision.co.ug/D/8/12/706894)
+2. [The Guardian](http://www.guardian.co.uk/world/2010/jan/13/uganda-anti-gay-bill-president)
 
 ### Related:
 

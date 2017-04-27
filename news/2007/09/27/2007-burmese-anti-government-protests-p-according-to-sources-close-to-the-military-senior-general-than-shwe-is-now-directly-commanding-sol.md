@@ -7,14 +7,14 @@
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/topNews/idUKBKK11029420070927)
-2. [CNN](http://edition.cnn.com/2007/WORLD/asiapcf/09/27/myanmar.protests/index.html?eref=rss_world)
-3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/7015544.stm)
-4. [Times of India](http://timesofindia.indiatimes.com/World/9_killed_11_injured_as_Myanmar_soldiers_fire_at_protesters/articleshow/2409685.cms)
-5. [Mizzima News](http://www.mizzima.com/MizzimaNews/News/2007/Sep/98-Sep-2007.html)
-6. [AP and Reuters via Sydney Morning Herald](http://www.smh.com.au/news/world/burma-crackdown-monks-radied/2007/09/27/1190486434469.html?page=fullpage#contentSwap1)
+1. [AP and Reuters via Sydney Morning Herald](http://www.smh.com.au/news/world/burma-crackdown-monks-radied/2007/09/27/1190486434469.html?page=fullpage#contentSwap1)
+2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/7015544.stm)
+3. [CNN](http://edition.cnn.com/2007/WORLD/asiapcf/09/27/myanmar.protests/index.html?eref=rss_world)
+4. [Mizzima News](http://www.mizzima.com/MizzimaNews/News/2007/Sep/98-Sep-2007.html)
+5. [Mizzima News](http://www.mizzima.com/MizzimaNews/News/2007/Sep/Today-demonstration.html)
+6. [Reuters](http://uk.reuters.com/article/topNews/idUKBKK11029420070927)
 7. [Reuters](http://www.reuters.com/article/asiaCrisis/idUSSP301270)
-8. [Mizzima News](http://www.mizzima.com/MizzimaNews/News/2007/Sep/Today-demonstration.html)
+8. [Times of India](http://timesofindia.indiatimes.com/World/9_killed_11_injured_as_Myanmar_soldiers_fire_at_protesters/articleshow/2409685.cms)
 
 ### Related:
 

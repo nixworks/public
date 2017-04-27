@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Manila Bulletin](http://www.mb.com.ph/MAIN2005061236854.html)
-2. [ABS-CBN](http://www.abs-cbnnews.com/storypage.aspx?StoryID=7785)
+1. [ABS-CBN](http://www.abs-cbnnews.com/storypage.aspx?StoryID=7785)
+2. [Manila Bulletin](http://www.mb.com.ph/MAIN2005061236854.html)
 
 ### Related:
 

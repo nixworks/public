@@ -7,9 +7,9 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Hindustan Times](http://www.hindustantimes.com/news/7598_1309071,000500020003.htm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8109586)
-3. [AsiaMedia](http://www.asiamedia.ucla.edu/article.asp?parentid=22713)
+1. [AsiaMedia](http://www.asiamedia.ucla.edu/article.asp?parentid=22713)
+2. [Hindustan Times](http://www.hindustantimes.com/news/7598_1309071,000500020003.htm)
+3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8109586)
 
 ### Related:
 

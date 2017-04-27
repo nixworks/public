@@ -7,8 +7,8 @@ U.S. Secretary of State John Kerry accused Russian agents and special forces on 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2014/04/08/us-ukraine-crisis-idUSBREA370RU20140408)
-2. [CNN](http://edition.cnn.com/2014/04/08/world/europe/ukraine-crisis/index.html?eref=edition)
+1. [CNN](http://edition.cnn.com/2014/04/08/world/europe/ukraine-crisis/index.html?eref=edition)
+2. [Reuters](http://www.reuters.com/article/2014/04/08/us-ukraine-crisis-idUSBREA370RU20140408)
 
 ### Related:
 

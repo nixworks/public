@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/skynews/Home/UK-News/Homophobic-Attack-Trainee-Police-Officer-James-Parkes-Fighting-For-Life-After-Attack-In-Liverpool/Article/200910415418126)
-2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/merseyside/8326810.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/merseyside/8326810.stm)
+2. [Sky News](http://news.sky.com/skynews/Home/UK-News/Homophobic-Attack-Trainee-Police-Officer-James-Parkes-Fighting-For-Life-After-Attack-In-Liverpool/Article/200910415418126)
 
 ### Related:
 

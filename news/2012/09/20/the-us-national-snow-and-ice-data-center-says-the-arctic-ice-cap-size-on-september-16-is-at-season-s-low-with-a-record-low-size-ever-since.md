@@ -7,8 +7,8 @@ On Sunday, by an area about the size of Texas, Arctic sea ice extent shrunk belo
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/blogs/capital-weather-gang/post/arctic-sea-ice-extent-reaches-record-shattering-minimum/2012/09/19/fe373130-027d-11e2-8102-ebee9c66e190_blog.html)
-2. [NSIDC](http://nsidc.org/arcticseaicenews/)
+1. [NSIDC](http://nsidc.org/arcticseaicenews/)
+2. [Washington Post](http://www.washingtonpost.com/blogs/capital-weather-gang/post/arctic-sea-ice-extent-reaches-record-shattering-minimum/2012/09/19/fe373130-027d-11e2-8102-ebee9c66e190_blog.html)
 
 ### Related:
 

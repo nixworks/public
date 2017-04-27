@@ -8,9 +8,9 @@
 ### Source:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jTg7x7snBEMQtr6aJWU_5ZAPbwkgD9AUV7V00)
-2. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2009/09/26/38/0401000000AEN20090926002600315F.HTML)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8276063.stm)
 3. [Xinhua](http://news.xinhuanet.com/english/2009-09/26/content_12114092.htm)
-4. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8276063.stm)
+4. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2009/09/26/38/0401000000AEN20090926002600315F.HTML)
 
 ### Related:
 

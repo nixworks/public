@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AllAfrica.com](http://allafrica.com/stories/201001070833.html)
-2. [KBC](http://www.kbc.co.ke/story.asp?ID=61812)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hF9xszCO54HWaepb_VDOXdSFvNGQ)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hF9xszCO54HWaepb_VDOXdSFvNGQ)
+2. [AllAfrica.com](http://allafrica.com/stories/201001070833.html)
+3. [KBC](http://www.kbc.co.ke/story.asp?ID=61812)
 
 ### Related:
 

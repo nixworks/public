@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2009/01/04/world/middleeast/04mideast.html?_r=1&hp)
-2. [BBC News](http://news.bbc.co.uk/2/hi/middle_east/7809959.stm)
+1. [BBC News](http://news.bbc.co.uk/2/hi/middle_east/7809959.stm)
+2. [New York Times](http://www.nytimes.com/2009/01/04/world/middleeast/04mideast.html?_r=1&hp)
 
 ### Related:
 

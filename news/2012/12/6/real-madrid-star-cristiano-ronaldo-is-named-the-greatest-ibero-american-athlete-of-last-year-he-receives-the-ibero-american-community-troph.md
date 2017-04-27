@@ -7,8 +7,8 @@ See all the latest Real Madrid news about the football team including all the ga
 
 ### Source:
 
-1. [Real Madrid](http://www.realmadrid.com/cs/Satellite/en/Actualidad_Primer_Equipo_en/1330130084950/noticia/Noticia/Cristiano_Ronaldo:_%E2%80%9CI_want_to_dedicate_this_award_to_all_Real_Madrid_fans%E2%80%9D.htm)
-2. [Daily Mail](http://www.dailymail.co.uk/sport/football/article-2243969/Cristiano-Ronaldo-named-Ibero-American-Athlete-Year.html)
+1. [Daily Mail](http://www.dailymail.co.uk/sport/football/article-2243969/Cristiano-Ronaldo-named-Ibero-American-Athlete-Year.html)
+2. [Real Madrid](http://www.realmadrid.com/cs/Satellite/en/Actualidad_Primer_Equipo_en/1330130084950/noticia/Noticia/Cristiano_Ronaldo:_%E2%80%9CI_want_to_dedicate_this_award_to_all_Real_Madrid_fans%E2%80%9D.htm)
 
 ### Related:
 

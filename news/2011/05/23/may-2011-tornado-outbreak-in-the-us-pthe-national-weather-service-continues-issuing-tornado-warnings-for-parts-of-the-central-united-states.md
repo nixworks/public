@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Joplin Globe](http://www.joplinglobe.com/local/x1934378461/Death-toll-hits-116)
+1. [ABC 27](http://www.abc27.com/story/14700766/911-operators)
 2. [Cincinnati.com](http://news.cincinnati.com/article/20110523/NEWS01/305230018/)
-3. [NOAA](http://www.spc.noaa.gov/products/watch/ww0335.html)
-4. [ABC 27](http://www.abc27.com/story/14700766/911-operators)
+3. [Joplin Globe](http://www.joplinglobe.com/local/x1934378461/Death-toll-hits-116)
+4. [NOAA](http://www.spc.noaa.gov/products/watch/ww0335.html)
 
 ### Related:
 

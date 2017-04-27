@@ -7,11 +7,11 @@ IN WHAT was one of the most bland ceremonies in Golden Globes history, the most 
 
 ### Source:
 
-1. [News Limited](http://www.news.com.au/entertainment/awards/golden-globes/golden-globes-2017-winners-speeches-and-highlights-from-the-show/news-story/e4d42e9e7f3910cba07a371a9b67f44a)
-2. [Golden Globes](http://www.goldenglobes.com/trivia-0)
-3. [Variety](http://variety.com/2017/film/news/golden-globes-2017-live-blog-1201954490/)
-4. [Los Angeles Times](http://www.latimes.com/entertainment/la-et-golden-globes-2017-live-la-la-land-breaks-record-for-most-1483935005-htmlstory.html)
-5. [Los Angeles Times](http://www.latimes.com/entertainment/la-et-golden-globes-2017-live-updates-htmlstory.html)
+1. [Golden Globes](http://www.goldenglobes.com/trivia-0)
+2. [Los Angeles Times](http://www.latimes.com/entertainment/la-et-golden-globes-2017-live-la-la-land-breaks-record-for-most-1483935005-htmlstory.html)
+3. [Los Angeles Times](http://www.latimes.com/entertainment/la-et-golden-globes-2017-live-updates-htmlstory.html)
+4. [News Limited](http://www.news.com.au/entertainment/awards/golden-globes/golden-globes-2017-winners-speeches-and-highlights-from-the-show/news-story/e4d42e9e7f3910cba07a371a9b67f44a)
+5. [Variety](http://variety.com/2017/film/news/golden-globes-2017-live-blog-1201954490/)
 
 ### Related:
 

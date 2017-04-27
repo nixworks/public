@@ -7,9 +7,9 @@ Mohamed Bouazizi, the 26-year-old unemployed man whose self-immolation sparked n
 
 ### Source:
 
-1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE70408420110105)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gvlq0htygTTMcYuT3WFYVP70ooKw?docId=CNG.e2087db1933744ecf1316369eb2684df.481)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/201115101926215588.html)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gvlq0htygTTMcYuT3WFYVP70ooKw?docId=CNG.e2087db1933744ecf1316369eb2684df.481)
+3. [Reuters](http://af.reuters.com/article/topNews/idAFJOE70408420110105)
 
 ### Related:
 

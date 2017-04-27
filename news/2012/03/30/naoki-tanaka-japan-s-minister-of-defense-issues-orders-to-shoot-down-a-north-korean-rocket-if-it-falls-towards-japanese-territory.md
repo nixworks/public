@@ -7,8 +7,8 @@ Tokyo deploys missile defence systems and says it will intercept North Korean ro
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/03/2012330605360577.html)
-2. [AFP via News Limited](http://www.news.com.au/world/satellite-image-shows-n-korea-rocket-activity/story-e6frfkyi-1226314397852)
+1. [AFP via News Limited](http://www.news.com.au/world/satellite-image-shows-n-korea-rocket-activity/story-e6frfkyi-1226314397852)
+2. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/03/2012330605360577.html)
 
 ### Related:
 

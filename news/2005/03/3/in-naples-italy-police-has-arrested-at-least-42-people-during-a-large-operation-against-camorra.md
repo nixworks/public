@@ -8,8 +8,8 @@
 ### Source:
 
 1. [AGI](http://www.agi.it/english/news.pl?doc=200503031143-1039-RT1-CRO-0-NF11&page=0&id=agionline-eng.oggitalia)
-2. [News.Com.Au](http://www.news.com.au/story/0,10117,12435787-23109,00.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/europe/4314945.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/europe/4314945.stm)
+3. [News.Com.Au](http://www.news.com.au/story/0,10117,12435787-23109,00.html)
 
 ### Related:
 

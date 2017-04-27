@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/homepageCrisis/idUSLD714190._CH_.2400)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/11/20091113133153733615.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/11/20091113133153733615.html)
+2. [Reuters](http://www.reuters.com/article/homepageCrisis/idUSLD714190._CH_.2400)
 
 ### Related:
 

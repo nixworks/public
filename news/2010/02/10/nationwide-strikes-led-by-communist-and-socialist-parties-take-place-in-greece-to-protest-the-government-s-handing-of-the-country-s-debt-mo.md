@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8507551.stm)
-2. [Al Jazeera](http://www.dw-world.de/dw/article/0,,5233958,00.html)
+1. [Al Jazeera](http://www.dw-world.de/dw/article/0,,5233958,00.html)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8507551.stm)
 
 ### Related:
 

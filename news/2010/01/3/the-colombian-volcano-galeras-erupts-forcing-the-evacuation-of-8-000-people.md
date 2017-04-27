@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [TVNZ](http://tvnz.co.nz/world-news/evacuation-after-colombia-volcano-erupts-3323350)
-2. [Colombia Reports](http://colombiareports.com/colombia-news/news/7515-galeras-volcano-erupts.html)
+1. [Colombia Reports](http://colombiareports.com/colombia-news/news/7515-galeras-volcano-erupts.html)
+2. [TVNZ](http://tvnz.co.nz/world-news/evacuation-after-colombia-volcano-erupts-3323350)
 
 ### Related:
 

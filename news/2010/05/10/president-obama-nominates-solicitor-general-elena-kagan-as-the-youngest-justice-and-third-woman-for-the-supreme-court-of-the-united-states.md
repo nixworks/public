@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/news/washington/judicial/2010-05-10-kagan-picked_N.htm)
-2. [The Times](http://www.timesonline.co.uk/tol/news/world/us_and_americas/article7122007.ece)
+1. [The Times](http://www.timesonline.co.uk/tol/news/world/us_and_americas/article7122007.ece)
+2. [USA Today](http://www.usatoday.com/news/washington/judicial/2010-05-10-kagan-picked_N.htm)
 
 ### Related:
 

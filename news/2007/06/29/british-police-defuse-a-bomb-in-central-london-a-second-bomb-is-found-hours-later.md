@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20070629.wukbomb2_0629/BNStory/International/home)
-2. [CNN](http://www.cnn.com/2007/WORLD/europe/06/29/london.bomb.reut/index.html?section=cnn_latest)
+1. [CNN](http://www.cnn.com/2007/WORLD/europe/06/29/london.bomb.reut/index.html?section=cnn_latest)
+2. [The Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20070629.wukbomb2_0629/BNStory/International/home)
 
 ### Related:
 

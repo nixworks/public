@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Tuoitre](http://www.tuoitrenews.vn/cmlink/tuoitrenews/lifestyle/india-girl-crowned-miss-earth-2010-1.16125)
-2. [OneIndia](http://news.oneindia.in/2010/12/05/india-nicole-faria-wins-miss-earth-2010-crown.html)
+1. [OneIndia](http://news.oneindia.in/2010/12/05/india-nicole-faria-wins-miss-earth-2010-crown.html)
+2. [Tuoitre](http://www.tuoitrenews.vn/cmlink/tuoitrenews/lifestyle/india-girl-crowned-miss-earth-2010-1.16125)
 
 ### Related:
 

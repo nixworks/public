@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Television New Zealand](https://www.tvnz.co.nz/one-news/world/large-7-9-earthquake-in-papua-new-guinea-sparks-tsunami-warning-nz)
-2. [Reuters](http://www.reuters.com/article/us-papua-quake-idUSKBN1460CF)
+1. [Reuters](http://www.reuters.com/article/us-papua-quake-idUSKBN1460CF)
+2. [Television New Zealand](https://www.tvnz.co.nz/one-news/world/large-7-9-earthquake-in-papua-new-guinea-sparks-tsunami-warning-nz)
 
 ### Related:
 

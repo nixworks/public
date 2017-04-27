@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Times of Israel](http://www.timesofisrael.com/8-syrian-refugees-gunned-down-trying-to-enter-turkey/)
-2. [AP](http://bigstory.ap.org/article/2f834ca0edea4fd284cd8cff8c9e5063/activists-say-8-syrians-killed-trying-cross-turkey)
+1. [AP](http://bigstory.ap.org/article/2f834ca0edea4fd284cd8cff8c9e5063/activists-say-8-syrians-killed-trying-cross-turkey)
+2. [The Times of Israel](http://www.timesofisrael.com/8-syrian-refugees-gunned-down-trying-to-enter-turkey/)
 
 ### Related:
 

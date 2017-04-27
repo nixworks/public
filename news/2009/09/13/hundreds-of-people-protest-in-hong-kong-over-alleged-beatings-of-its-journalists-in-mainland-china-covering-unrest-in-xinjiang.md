@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Straits Times](http://www.straitstimes.com/Breaking%2BNews/Asia/Story/STIStory_429235.html)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8253036.stm)
 2. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/news.htm?englishnews&20090913&56&611853)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8253036.stm)
+3. [Straits Times](http://www.straitstimes.com/Breaking%2BNews/Asia/Story/STIStory_429235.html)
 
 ### Related:
 

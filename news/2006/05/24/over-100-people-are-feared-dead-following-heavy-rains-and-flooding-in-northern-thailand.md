@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Irrawaddy News](http://www.irrawaddy.org/aviewer.asp?a=5780&z=154)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/5010994.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/5010994.stm)
+2. [Irrawaddy News](http://www.irrawaddy.org/aviewer.asp?a=5780&z=154)
 
 ### Related:
 

@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [Press TV](http://www.presstv.ir/detail.aspx?id=133319&sectionid=351020203)
-2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-07/04/c_13383134.htm)
-3. [CNN](http://edition.cnn.com/2010/WORLD/meast/07/04/lebanon.grand.ayatollah/?hpt=T2)
+1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/07/20107354240249363.html)
+2. [CNN](http://edition.cnn.com/2010/WORLD/meast/07/04/lebanon.grand.ayatollah/?hpt=T2)
+3. [Press TV](http://www.presstv.ir/detail.aspx?id=133319&sectionid=351020203)
 4. [RTÉ](http://www.rte.ie/news/2010/0704/fadlallahmh.html)
-5. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/07/20107354240249363.html)
+5. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-07/04/c_13383134.htm)
 
 ### Related:
 

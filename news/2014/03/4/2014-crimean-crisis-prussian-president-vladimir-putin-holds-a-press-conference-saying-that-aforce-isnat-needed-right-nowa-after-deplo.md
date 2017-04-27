@@ -9,8 +9,8 @@ Russian President has reportedly ordered an end to army drills in western Russia
 
 1. [Dagens Næringsliv](http://www.dn.no/forsiden/utenriks/article2776082.ece)
 2. [Reuters](http://www.reuters.com/article/2014/03/04/us-ukraine-crisis-idUSBREA1Q1E820140304)
-3. [Times of India](http://timesofindia.indiatimes.com/world/europe/Viktor-Yanukovych-requested-troops-in-Crimea-Russia/articleshow/31374200.cms)
-4. [Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/russia/10674812/Vladimir-Putin-orders-troops-near-Ukraine-border-to-return-to-bases.html)
+3. [Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/russia/10674812/Vladimir-Putin-orders-troops-near-Ukraine-border-to-return-to-bases.html)
+4. [Times of India](http://timesofindia.indiatimes.com/world/europe/Viktor-Yanukovych-requested-troops-in-Crimea-Russia/articleshow/31374200.cms)
 
 ### Related:
 

@@ -8,8 +8,8 @@ Follow minute-by-minute commentary of the Premier League game between Chelsea an
 ### Source:
 
 1. [ESPN](http://soccernet.espn.go.com/blog/_/name/astonvilla/id/323)
-2. [The Guardian](http://www.guardian.co.uk/football/2012/dec/23/chelsea-rafael-benitez)
-3. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/teams/chelsea/9763774/Chelsea-v-Aston-Villa-live.html)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/teams/chelsea/9763774/Chelsea-v-Aston-Villa-live.html)
+3. [The Guardian](http://www.guardian.co.uk/football/2012/dec/23/chelsea-rafael-benitez)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Ukraine faces a looming debt default after the country&#x27;s finance ministry s
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/business-35132258)
-2. [AP via ABC news](http://www.nbcnews.com/business/economy/ukraine-russia-we-cant-pay-3-billion-debt-we-owe-n482371)
+1. [AP via ABC news](http://www.nbcnews.com/business/economy/ukraine-russia-we-cant-pay-3-billion-debt-we-owe-n482371)
+2. [BBC](http://www.bbc.com/news/business-35132258)
 
 ### Related:
 

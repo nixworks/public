@@ -7,13 +7,13 @@ The parliamentary elections in Syria will be held on April 13, 2016, said a stat
 
 ### Source:
 
-1. [TeleSUR](http://www.telesurtv.net/english/news/Syria-Parliamentary-Elections-in-Assad-Controlled-Areas-20160411-0039.html)
-2. [RT](https://www.rt.com/news/333290-syria-assad-general-election/)
+1. [RT](https://www.rt.com/news/333290-syria-assad-general-election/)
+2. [TeleSUR](http://www.telesurtv.net/english/news/Syria-Parliamentary-Elections-in-Assad-Controlled-Areas-20160411-0039.html)
 
 ### Related:
 
 1. [ Syrian parliamentary election, 2007: Syria's ruling coalition, the Baath Party-led National Progressive Front, wins the vast majority of seats in the People's Council, with the opposition boycotting the process claiming it as a farce. ](/news/2007/04/26/syrian-parliamentary-election-2007-syria-s-ruling-coalition-the-baath-party-led-national-progressive-front-wins-the-vast-majority-of-se.md) _Context: People's Council of Syria, Syria_
-2. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also 5 Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-5-peshmerga-fighters-are-killed-during-a-tu.md) _Context: Syria_
+2. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also five Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey also claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-five-peshmerga-fighters-are-killed-during-a.md) _Context: Syria_
 3. [According to the Russian Defence Ministry, two of its soldiers have been killed by a mortar attack in Syria while another was wounded. The ministry did not specify when or where the attack occurred. ](/news/2017/04/11/according-to-the-russian-defence-ministry-two-of-its-soldiers-have-been-killed-by-a-mortar-attack-in-syria-while-another-was-wounded-the-m.md) _Context: Syria_
 4. [According to the Syrian Observatory for Human Rights, multiple suspected U.S.-led coalition air raids kill at least 23 civilians in the village of al-Matab in northern Syria. ](/news/2017/03/9/according-to-the-syrian-observatory-for-human-rights-multiple-suspected-u-s-led-coalition-air-raids-kill-at-least-23-civilians-in-the-vill.md) _Context: Syria_
 5. [The United States Marine Corps' 11th Marine Expeditionary Unit arrives in Syria ahead of a Syrian Democratic Forces operation to take control of ISIL's de facto capital of Raqqa. ](/news/2017/03/8/the-united-states-marine-corps-11th-marine-expeditionary-unit-arrives-in-syria-ahead-of-a-syrian-democratic-forces-operation-to-take-contro.md) _Context: Syria_

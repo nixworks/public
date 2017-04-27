@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Vancouver Sun](http://www.vancouversun.com/technology/Facebook+founder+meets+with+Baidu+during+China+holiday/4003614/story.html)
-2. [AP via CBS News](http://www.cbsnews.com/stories/2010/12/20/ap/business/main7167023.shtml)
+1. [AP via CBS News](http://www.cbsnews.com/stories/2010/12/20/ap/business/main7167023.shtml)
+2. [Guardian](http://www.guardian.co.uk/)
 3. [Inquirer via AFP](http://newsinfo.inquirer.net/breakingnews/infotech/view/20101220-310065/Facebook-founder-meets-with-Baidu-during-China-holiday)
-4. [Guardian](http://www.guardian.co.uk/)
+4. [Vancouver Sun](http://www.vancouversun.com/technology/Facebook+founder+meets+with+Baidu+during+China+holiday/4003614/story.html)
 
 ### Related:
 

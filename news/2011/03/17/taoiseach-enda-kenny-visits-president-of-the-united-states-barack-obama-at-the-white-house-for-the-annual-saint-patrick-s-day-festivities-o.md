@@ -7,11 +7,11 @@ US President Barack Obama has said he will visit Ireland in May.
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/skynews/Home/World-News/Barack-Obama-Will-Visit-Ireland-In-May-US-President-Announces-After-Meeting-With-Enda-Kenny/Article/201103315954376?lpos=World_News_First_Home_Article_Teaser_Region_3&lid=ARTICLE_15954376_Barack_Obama_Will_Visit_Ireland_In_May%2C_US_President_Announces_After_Meeting_With_Enda_Kenny)
-2. [RTÉ](http://www.rte.ie/news/2011/0317/kenny.html)
-3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0317/breaking27.html)
-4. [AP via ''Chicago Tribune](http://www.chicagotribune.com/news/local/breaking/chibrknews-obama-on-st-pats-day-announces-trip-to-ireland-20110317,0,2489256.story)
-5. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-12773056)
+1. [AP via ''Chicago Tribune](http://www.chicagotribune.com/news/local/breaking/chibrknews-obama-on-st-pats-day-announces-trip-to-ireland-20110317,0,2489256.story)
+2. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-12773056)
+3. [RTÉ](http://www.rte.ie/news/2011/0317/kenny.html)
+4. [Sky News](http://news.sky.com/skynews/Home/World-News/Barack-Obama-Will-Visit-Ireland-In-May-US-President-Announces-After-Meeting-With-Enda-Kenny/Article/201103315954376?lpos=World_News_First_Home_Article_Teaser_Region_3&lid=ARTICLE_15954376_Barack_Obama_Will_Visit_Ireland_In_May%2C_US_President_Announces_After_Meeting_With_Enda_Kenny)
+5. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0317/breaking27.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Belizetimes] [http://new.channel5belize.com/#a1 Belize channel 5] [http://www.7newsbelize.com/ Belize channel 7] [http://www.amandala.com.bz/index.php?story=404 (Amandala](http://www.belizetimes.bz/news/story/3933.shtml)
-2. [Belizean](http://www.belizean.com/mt-static/archives/2005/01/civil_unrest_in.html)
+1. [Belizean](http://www.belizean.com/mt-static/archives/2005/01/civil_unrest_in.html)
+2. [Belizetimes] [http://new.channel5belize.com/#a1 Belize channel 5] [http://www.7newsbelize.com/ Belize channel 7] [http://www.amandala.com.bz/index.php?story=404 (Amandala](http://www.belizetimes.bz/news/story/3933.shtml)
 
 ### Related:
 

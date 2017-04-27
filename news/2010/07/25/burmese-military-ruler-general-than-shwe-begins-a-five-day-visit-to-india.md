@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Times of India](http://timesofindia.indiatimes.com/india/Myanmar-military-chief-Than-Shwe-on-goodwill-visit-to-India-/articleshow/6213507.cms)
-2. [BBC](http://www.bbc.co.uk/news/world-south-asia-10742638)
+1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10742638)
+2. [The Times of India](http://timesofindia.indiatimes.com/india/Myanmar-military-chief-Than-Shwe-on-goodwill-visit-to-India-/articleshow/6213507.cms)
 
 ### Related:
 

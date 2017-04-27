@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2005/WORLD/europe/05/04/british.election/index.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/vote_2005/frontpage/4514981.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/vote_2005/frontpage/4514981.stm)
+2. [CNN](http://www.cnn.com/2005/WORLD/europe/05/04/british.election/index.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Eight Hong Kong tourists killed in 11-hour standoff in the Philippine capital.
 
 ### Source:
 
-1. [Philippine Inquirer](http://newsinfo.inquirer.net/breakingnews/metro/view/20100823-288424/Hostage-taker-killed-as-drama-ends)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/08/201082313340806606.html)
-3. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/08/23/philippines.bus.hostages/index.html?iref=NS1#fbid=Dxrzb6Q-4_O&wom=false)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/08/201082313340806606.html)
+2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/08/23/philippines.bus.hostages/index.html?iref=NS1#fbid=Dxrzb6Q-4_O&wom=false)
+3. [Philippine Inquirer](http://newsinfo.inquirer.net/breakingnews/metro/view/20100823-288424/Hostage-taker-killed-as-drama-ends)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Social Democratic Party won 46 percent of votes, according to preliminary result
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2016/12/12/business/international/christine-lagarde-trial-imf-france.html)
-2. [Al Jazeera](http://www.aljazeera.com/news/2016/12/romania-polls-psd-161212062951523.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/2016/12/romania-polls-psd-161212062951523.html)
+2. [New York Times](http://www.nytimes.com/2016/12/12/business/international/christine-lagarde-trial-imf-france.html)
 
 ### Related:
 

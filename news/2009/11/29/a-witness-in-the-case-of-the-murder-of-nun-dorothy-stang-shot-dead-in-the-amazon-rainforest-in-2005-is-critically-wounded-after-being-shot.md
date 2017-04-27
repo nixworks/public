@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Canadian Press](http://www.google.com/hostednews/canadianpress/article/ALeqM5jd9o7v6pjVQzv286jS7lgGJq64oQ)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8384974.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8384974.stm)
+2. [Canadian Press](http://www.google.com/hostednews/canadianpress/article/ALeqM5jd9o7v6pjVQzv286jS7lgGJq64oQ)
 
 ### Related:
 

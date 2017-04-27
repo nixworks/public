@@ -7,8 +7,8 @@ Ten people have been killed and dozens injured in Australia&#39;s worst rail cra
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2007/0605/australia.html?rss)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6721407.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6721407.stm)
+2. [RTÉ](http://www.rte.ie/news/2007/0605/australia.html?rss)
 
 ### Related:
 

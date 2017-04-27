@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2012/10/28/world/meast/syria-civil-war/index.html?hpt=hp_t2)
-2. [CNN](http://edition.cnn.com/2012/10/27/world/asia/al-qaeda-kidnap-threat/index.html?hpt=imi_c2)
+1. [CNN](http://edition.cnn.com/2012/10/27/world/asia/al-qaeda-kidnap-threat/index.html?hpt=imi_c2)
+2. [CNN](http://edition.cnn.com/2012/10/28/world/meast/syria-civil-war/index.html?hpt=hp_t2)
 3. [Reuters](http://www.trust.org/alertnet/news/syria-air-force-bombs-cities-truce-practically-over/)
 
 ### Related:

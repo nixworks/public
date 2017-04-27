@@ -7,9 +7,9 @@ The Turkish Airlines plane carrying 256 people landed safely in Halifax, Nova Sc
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/news/us-news/plane-headed-u-s-turkey-diverted-due-bomb-scare-n467736)
-2. [Reuters](http://www.reuters.com/article/2015/11/22/us-canada-turkey-flight-idUSKCN0TB04Y20151122#qOyZ1frh9kI22M1o.97)
-3. [International Business Times](http://www.ibtimes.com/turkish-airlines-flight-new-york-istanbul-diverted-mid-air-over-possible-bomb-threat-2195215)
+1. [International Business Times](http://www.ibtimes.com/turkish-airlines-flight-new-york-istanbul-diverted-mid-air-over-possible-bomb-threat-2195215)
+2. [NBC News](http://www.nbcnews.com/news/us-news/plane-headed-u-s-turkey-diverted-due-bomb-scare-n467736)
+3. [Reuters](http://www.reuters.com/article/2015/11/22/us-canada-turkey-flight-idUSKCN0TB04Y20151122#qOyZ1frh9kI22M1o.97)
 
 ### Related:
 

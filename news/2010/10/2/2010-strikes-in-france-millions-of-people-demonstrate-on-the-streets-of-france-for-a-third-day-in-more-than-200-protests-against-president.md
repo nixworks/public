@@ -7,8 +7,8 @@ Hundreds of thousands of people across France take part in the third day of demo
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/idUKLDE69106D20101002?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FUKBankingFinancial+%28News+%2F+UK+%2F+Financial+Services+and+Real+Estate%29)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-11460050)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-11460050)
+2. [Reuters](http://uk.reuters.com/article/idUKLDE69106D20101002?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FUKBankingFinancial+%28News+%2F+UK+%2F+Financial+Services+and+Real+Estate%29)
 3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/03/c_13540442.htm)
 
 ### Related:

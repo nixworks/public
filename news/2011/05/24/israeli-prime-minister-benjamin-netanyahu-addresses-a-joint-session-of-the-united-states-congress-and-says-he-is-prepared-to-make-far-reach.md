@@ -7,8 +7,8 @@ Israeli Prime Minister Benjamin Netanyahu told a joint meeting of the U.S. Congr
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=222023)
-2. [CNN](http://www.cnn.com/2011/WORLD/meast/05/24/us.netanyahu.speech/index.html?hpt=C2)
+1. [CNN](http://www.cnn.com/2011/WORLD/meast/05/24/us.netanyahu.speech/index.html?hpt=C2)
+2. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=222023)
 
 ### Related:
 

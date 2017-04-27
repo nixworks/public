@@ -7,10 +7,10 @@ News and opinion from The Times &amp; The Sunday Times
 
 ### Source:
 
-1. [BBC:''In Pictures](http://news.bbc.co.uk/1/hi/in_pictures/8409444.stm)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8410414.stm)
-3. [The Times](http://www.timesonline.co.uk/tol/news/environment/copenhagen/article6954981.ece)
-4. [AP](http://www.google.com/hostednews/ap/article/ALeqM5i9TuMrvrknh-ZXwqmZ2N-48kff3wD9CIGCHO2)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5i9TuMrvrknh-ZXwqmZ2N-48kff3wD9CIGCHO2)
+2. [BBC:''In Pictures](http://news.bbc.co.uk/1/hi/in_pictures/8409444.stm)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8410414.stm)
+4. [The Times](http://www.timesonline.co.uk/tol/news/environment/copenhagen/article6954981.ece)
 
 ### Related:
 

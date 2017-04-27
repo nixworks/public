@@ -8,9 +8,9 @@ Roza Otunbayeva will govern the strife-torn country until December 31, 2011.
 ### Source:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h3CVHh-BVyVuqj2RmTHiEyrASstQ)
-2. [The Hindu](http://www.thehindu.com/news/international/article498547.ece)
-3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-07/03/c_13381959.htm)
-4. [Aljazeera](http://english.aljazeera.net/news/asia/2010/07/20107354430455179.html)
+2. [Aljazeera](http://english.aljazeera.net/news/asia/2010/07/20107354430455179.html)
+3. [The Hindu](http://www.thehindu.com/news/international/article498547.ece)
+4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-07/03/c_13381959.htm)
 
 ### Related:
 

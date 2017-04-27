@@ -7,8 +7,8 @@ The 17-story Plasco building in central Tehran has collapsed after a fire engulf
 
 ### Source:
 
-1. [Deutsche Welle](http://www.dw.com/en/irans-oldest-high-rise-tower-collapses-in-fire/a-37186503)
-2. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2017-01-19-ML-Iran-Fire/id-8fc552ddb97a4e0b88ba3971650b1eee)
+1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2017-01-19-ML-Iran-Fire/id-8fc552ddb97a4e0b88ba3971650b1eee)
+2. [Deutsche Welle](http://www.dw.com/en/irans-oldest-high-rise-tower-collapses-in-fire/a-37186503)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Rappler](http://www.rappler.com/nation/137550-duterte-death-penalty-hang-criminals)
-2. [Rappler](http://www.rappler.com/nation/137528-rise-drug-suspect-killings-duterte-presidency)
+1. [Rappler](http://www.rappler.com/nation/137528-rise-drug-suspect-killings-duterte-presidency)
+2. [Rappler](http://www.rappler.com/nation/137550-duterte-death-penalty-hang-criminals)
 
 ### Related:
 

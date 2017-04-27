@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/news/2010-08-11/fifa-is-investigating-treatment-of-north-korea-world-cup-squad-afp-says.html)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10935521)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10935521)
+2. [Bloomberg](http://www.bloomberg.com/news/2010-08-11/fifa-is-investigating-treatment-of-north-korea-world-cup-squad-afp-says.html)
 
 ### Related:
 

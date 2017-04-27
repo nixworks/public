@@ -7,9 +7,9 @@ Former Pakistani military ruler Pervez Musharraf says that his forces trained mi
 
 ### Source:
 
-1. [The Asian Age](http://www.asianage.com/international/we-trained-militant-groups-against-india-musharraf-934)
-2. [BBC](http://www.bbc.co.uk/news/world-south-asia-11474618)
-3. [Der Spiegel](http://www.spiegel.de/international/world/0,1518,721110,00.html)
+1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11474618)
+2. [Der Spiegel](http://www.spiegel.de/international/world/0,1518,721110,00.html)
+3. [The Asian Age](http://www.asianage.com/international/we-trained-militant-groups-against-india-musharraf-934)
 
 ### Related:
 

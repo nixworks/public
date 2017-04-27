@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Physics Org](http://phys.org/news/2016-12-year-eve-extra.html)
-2. [BBC](http://www.bbc.com/news/uk-38470682)
+1. [BBC](http://www.bbc.com/news/uk-38470682)
+2. [Physics Org](http://phys.org/news/2016-12-year-eve-extra.html)
 
 ### Related:
 

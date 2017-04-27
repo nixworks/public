@@ -7,12 +7,12 @@ Exxon Mobil Corp and Rosneft signed an agreement to extract oil and gas from the
 
 ### Source:
 
-1. [Wall Street Journal](http://online.wsj.com/article/SB10001424053111904199404576540350519892620.html)
-2. [Bloomberg](http://www.bloomberg.com/news/2011-08-31/exxon-rosneft-to-unveil-joint-international-projects-by-2012.html)
-3. [Reuters](http://www.reuters.com/article/2011/08/30/us-rosneft-exxon-idUSTRE77T2OM20110830)
-4. [Washington Post](http://www.washingtonpost.com/business/putin-says-exxon-rosneft-projects-may-reach-500-billion/2011/08/31/gIQAjFYcrJ_video.html)
-5. [Forbes](http://www.forbes.com/sites/christopherhelman/2011/08/31/rosneft-deal-shows-exxon-to-be-the-only-supermajor-with-heft-in-russia/)
-6. [New York Times](http://www.nytimes.com/2011/08/31/business/global/exxon-and-rosneft-partner-in-russian-oil-deal.html)
+1. [Bloomberg](http://www.bloomberg.com/news/2011-08-31/exxon-rosneft-to-unveil-joint-international-projects-by-2012.html)
+2. [Forbes](http://www.forbes.com/sites/christopherhelman/2011/08/31/rosneft-deal-shows-exxon-to-be-the-only-supermajor-with-heft-in-russia/)
+3. [New York Times](http://www.nytimes.com/2011/08/31/business/global/exxon-and-rosneft-partner-in-russian-oil-deal.html)
+4. [Reuters](http://www.reuters.com/article/2011/08/30/us-rosneft-exxon-idUSTRE77T2OM20110830)
+5. [Wall Street Journal](http://online.wsj.com/article/SB10001424053111904199404576540350519892620.html)
+6. [Washington Post](http://www.washingtonpost.com/business/putin-says-exxon-rosneft-projects-may-reach-500-billion/2011/08/31/gIQAjFYcrJ_video.html)
 
 ### Related:
 

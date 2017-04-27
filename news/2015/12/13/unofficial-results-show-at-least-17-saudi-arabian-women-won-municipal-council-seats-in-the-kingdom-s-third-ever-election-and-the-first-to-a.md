@@ -7,9 +7,9 @@ Saudi Arabians voted 17 women into public office in municipal elections in the c
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/saudi-election-idUSKBN0TW08G20151213#56BeaUQh7ioGvHfu.97)
-2. [Daily Pakistan](http://en.dailypakistan.com.pk/world/17-saudi-women-win-historic-local-council-polls/)
-3. [NPR](http://www.npr.org/sections/thetwo-way/2015/12/13/459554429/saudi-arabia-elects-its-first-woman-to-municipal-council)
+1. [Daily Pakistan](http://en.dailypakistan.com.pk/world/17-saudi-women-win-historic-local-council-polls/)
+2. [NPR](http://www.npr.org/sections/thetwo-way/2015/12/13/459554429/saudi-arabia-elects-its-first-woman-to-municipal-council)
+3. [Reuters](http://www.reuters.com/article/saudi-election-idUSKBN0TW08G20151213#56BeaUQh7ioGvHfu.97)
 
 ### Related:
 

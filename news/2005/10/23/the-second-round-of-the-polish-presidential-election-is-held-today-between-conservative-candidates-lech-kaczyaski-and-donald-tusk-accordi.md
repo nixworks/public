@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=axNhYnPPI47c&refer=top_world_news)
-2. [AFP](http://uk.news.yahoo.com/23102005/323/poland-elects-conservative-kaczynski-president-exit-polls.html)
+1. [AFP](http://uk.news.yahoo.com/23102005/323/poland-elects-conservative-kaczynski-president-exit-polls.html)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=axNhYnPPI47c&refer=top_world_news)
 
 ### Related:
 

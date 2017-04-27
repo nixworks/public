@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [International Herald Tribune](http://www.iht.com/articles/2008/06/11/europe/kosovo.php)
-2. [B-92](http://www.b92.net/eng/news/politics-article.php?yyyy=2008&mm=06&dd=11&nav_id=51011)
+1. [B-92](http://www.b92.net/eng/news/politics-article.php?yyyy=2008&mm=06&dd=11&nav_id=51011)
+2. [International Herald Tribune](http://www.iht.com/articles/2008/06/11/europe/kosovo.php)
 
 ### Related:
 

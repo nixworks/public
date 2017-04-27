@@ -7,9 +7,9 @@ The fury of a thunderstorm cooled the parched Gangetic Plains but left 41 dead a
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-05/21/c_13887024.htm)
-2. [Rediff](http://www.rediff.com/news/report/thunderstorms-create-havoc-in-up-kill-42/20110521.htm)
-3. [Times of India](http://timesofindia.indiatimes.com/india/Thunderstorm-kills-41-in-Uttar-Pradesh/articleshow/8487758.cms)
+1. [Rediff](http://www.rediff.com/news/report/thunderstorms-create-havoc-in-up-kill-42/20110521.htm)
+2. [Times of India](http://timesofindia.indiatimes.com/india/Thunderstorm-kills-41-in-Uttar-Pradesh/articleshow/8487758.cms)
+3. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-05/21/c_13887024.htm)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4160157.stm)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4159521.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4159521.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4160157.stm)
 3. [Boston Globe](http://www.boston.com/news/world/middleeast/articles/2005/01/09/us_military_admits_bombing_wrong_house_near_mosul?pg=2)
 
 ### Related:

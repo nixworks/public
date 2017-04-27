@@ -7,8 +7,8 @@ Despite the media framing people who commit violent crimes as having mental illn
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Health_News/2016/06/07/Study-People-with-mental-illnesses-rarely-commit-violent-acts/4261465327697/?spt=hs&or=hn)
-2. [Health Affairs](http://content.healthaffairs.org/content/35/6/1121.abstract?=right)
+1. [Health Affairs](http://content.healthaffairs.org/content/35/6/1121.abstract?=right)
+2. [UPI](http://www.upi.com/Health_News/2016/06/07/Study-People-with-mental-illnesses-rarely-commit-violent-acts/4261465327697/?spt=hs&or=hn)
 
 ### Related:
 

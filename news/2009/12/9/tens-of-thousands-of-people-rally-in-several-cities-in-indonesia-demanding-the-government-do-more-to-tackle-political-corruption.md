@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2009-12/09/content_12617997.htm)
+1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/12/09/indonesia.protests/)
 2. [Jakarta Post](http://www.thejakartapost.com/news/2009/12/09/corruption-rallies-end-peacefully-jakarta.html)
-3. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/12/09/indonesia.protests/)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-12/09/content_12617997.htm)
 
 ### Related:
 

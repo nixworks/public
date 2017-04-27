@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [xinhua](http://news.xinhuanet.com/english/2005-11/03/content_3724772.htm)
-2. [Reuters](http://www.alertnet.org/thenews/newsdesk/L02432612.htm)
+1. [Reuters](http://www.alertnet.org/thenews/newsdesk/L02432612.htm)
+2. [xinhua](http://news.xinhuanet.com/english/2005-11/03/content_3724772.htm)
 
 ### Related:
 

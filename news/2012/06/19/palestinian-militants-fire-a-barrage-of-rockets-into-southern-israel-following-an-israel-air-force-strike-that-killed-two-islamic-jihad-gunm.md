@@ -7,9 +7,9 @@ Fresh air raids on Gaza military targets, after Hamas fighters fire 45 rockets a
 
 ### Source:
 
-1. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-4244543,00.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/2012619131729685366.html)
 2. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=274432)
-3. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/2012619131729685366.html)
+3. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-4244543,00.html)
 
 ### Related:
 

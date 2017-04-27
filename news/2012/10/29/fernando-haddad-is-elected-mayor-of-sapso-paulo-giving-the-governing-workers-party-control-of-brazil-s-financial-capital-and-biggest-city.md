@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-brazil-election-20121029,0,3941494.story)
-2. [BBC](http://www.bbc.co.uk/news/world-latin-america-20120676)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-20120676)
+2. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-brazil-election-20121029,0,3941494.story)
 
 ### Related:
 

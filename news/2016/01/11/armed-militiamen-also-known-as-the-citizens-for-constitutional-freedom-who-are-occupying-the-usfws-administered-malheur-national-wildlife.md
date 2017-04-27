@@ -7,8 +7,8 @@ Local support is waning with people in the town of Burns expressing dismay at me
 
 ### Source:
 
-1. [The Oregonian](http://www.oregonlive.com/oregon-standoff/2016/01/oregon_standoff_bundy_militant.html)
-2. [The Guardian](http://www.theguardian.com/us-news/2016/jan/12/bundy-militia-fence-oregon-wildlife-refuge-protest-escalates)
+1. [The Guardian](http://www.theguardian.com/us-news/2016/jan/12/bundy-militia-fence-oregon-wildlife-refuge-protest-escalates)
+2. [The Oregonian](http://www.oregonlive.com/oregon-standoff/2016/01/oregon_standoff_bundy_militant.html)
 
 ### Related:
 

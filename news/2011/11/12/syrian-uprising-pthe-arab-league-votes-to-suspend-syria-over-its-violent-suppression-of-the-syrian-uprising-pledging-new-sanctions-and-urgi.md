@@ -8,9 +8,9 @@ In a surprisingly sharp move, the Arab League voted Saturday to suspend Syria ov
 ### Source:
 
 1. [AP via NDTV](http://www.ndtv.com/article/world/arab-league-suspends-syria-calls-on-army-to-stop-killings-149299)
-2. [The Washington Post](http://www.washingtonpost.com/world/syria-suspended-from-arab-league/2011/11/12/gIQAvqGxEN_story.html)
-3. [Reuters](http://af.reuters.com/article/commoditiesNews/idAFL5E7MC16S20111112)
-4. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=245351)
+2. [Reuters](http://af.reuters.com/article/commoditiesNews/idAFL5E7MC16S20111112)
+3. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=245351)
+4. [The Washington Post](http://www.washingtonpost.com/world/syria-suspended-from-arab-league/2011/11/12/gIQAvqGxEN_story.html)
 
 ### Related:
 

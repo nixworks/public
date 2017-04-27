@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Jakarta Post](http://www.thejakartapost.com/news/2009/10/24/strong-earthquake-jolts-maluku.html)
-2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gCeFe6qrUA2J6TpqBUjMoyp8nthAD9BHI0FO0)
+1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gCeFe6qrUA2J6TpqBUjMoyp8nthAD9BHI0FO0)
+2. [Jakarta Post](http://www.thejakartapost.com/news/2009/10/24/strong-earthquake-jolts-maluku.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Egyptian Chronicles](http://egyptianchronicles.blogspot.com/2011/05/we-are-all-hamza-ali-el-khatib-syrias.html?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+EgyptianChronicles+%28Egyptian+chronicles%29&utm_content=Twitter)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/201152791250989274.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/201152791250989274.html)
+2. [Egyptian Chronicles](http://egyptianchronicles.blogspot.com/2011/05/we-are-all-hamza-ali-el-khatib-syrias.html?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+EgyptianChronicles+%28Egyptian+chronicles%29&utm_content=Twitter)
 
 ### Related:
 

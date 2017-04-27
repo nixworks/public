@@ -7,8 +7,8 @@ More than 50,000 people attend the beatification in Sicily of Don Giuseppe Pugli
 
 ### Source:
 
-1. [Herald Sun](http://www.heraldsun.com.au/news/breaking-news/thousands-at-mass-for-italys-mafia-martyr/story-fni0xqll-1226650537013)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-22664822)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-22664822)
+2. [Herald Sun](http://www.heraldsun.com.au/news/breaking-news/thousands-at-mass-for-italys-mafia-martyr/story-fni0xqll-1226650537013)
 
 ### Related:
 

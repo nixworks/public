@@ -7,9 +7,9 @@ Australia captain Ponting shocked at claims as ICC expected to look into 82 Test
 
 ### Source:
 
-1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/cricket/england/8953417.stm)
-2. [AFP via France24](http://www.france24.com/en/20100830-sports-chiefs-vow-swift-action-fixing-scandal)
-3. [Aljazeera](http://english.aljazeera.net/sport/2010/08/201083071226470364.html)
+1. [AFP via France24](http://www.france24.com/en/20100830-sports-chiefs-vow-swift-action-fixing-scandal)
+2. [Aljazeera](http://english.aljazeera.net/sport/2010/08/201083071226470364.html)
+3. [BBC Sport](http://news.bbc.co.uk/sport2/hi/cricket/england/8953417.stm)
 4. [The Guardian](http://www.guardian.co.uk/sport/2010/aug/31/pakistan-england-spot-fixing)
 
 ### Related:

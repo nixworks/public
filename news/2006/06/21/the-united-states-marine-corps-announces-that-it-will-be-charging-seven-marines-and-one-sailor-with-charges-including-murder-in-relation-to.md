@@ -7,8 +7,8 @@ Get the latest Chicago local news and US & World news. See recent updates on pol
 
 ### Source:
 
-1. [NBC](http://www.nbc5.com/news/9404359/detail.html?rss=chi&psp=nationalnews)
-2. [CNN](http://edition.cnn.com/2006/WORLD/meast/06/21/salaheddin)
+1. [CNN](http://edition.cnn.com/2006/WORLD/meast/06/21/salaheddin)
+2. [NBC](http://www.nbc5.com/news/9404359/detail.html?rss=chi&psp=nationalnews)
 
 ### Related:
 

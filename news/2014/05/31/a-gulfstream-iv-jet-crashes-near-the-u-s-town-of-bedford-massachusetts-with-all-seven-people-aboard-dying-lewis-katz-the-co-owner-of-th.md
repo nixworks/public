@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Philly.com](http://www.philly.com/philly/news/20140602_Lewis_Katz__co-owner_of_The_Inquirer__dies_in_plane_crash.html)
-2. [CNN](http://edition.cnn.com/2014/06/01/us/massachusetts-plane-crash/index.html)
+1. [CNN](http://edition.cnn.com/2014/06/01/us/massachusetts-plane-crash/index.html)
+2. [Philly.com](http://www.philly.com/philly/news/20140602_Lewis_Katz__co-owner_of_The_Inquirer__dies_in_plane_crash.html)
 
 ### Related:
 

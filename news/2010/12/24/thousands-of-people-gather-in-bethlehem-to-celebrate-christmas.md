@@ -7,8 +7,8 @@ Pope Benedict calls on Christians to join God in love as he delivers his traditi
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12076575)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/2010122414059219895.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/2010122414059219895.html)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12076575)
 
 ### Related:
 

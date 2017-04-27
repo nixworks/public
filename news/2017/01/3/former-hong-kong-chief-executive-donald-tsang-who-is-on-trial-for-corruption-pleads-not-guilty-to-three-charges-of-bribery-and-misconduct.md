@@ -7,9 +7,9 @@ HONG KONG (AFP, REUTERS) – Hong Kong’s former leader Donald Tsang, who ended
 
 ### Source:
 
-1. [South China Morning Post](http://www.scmp.com/news/hong-kong/law-crime/article/2058839/ex-hong-kong-leader-donald-tsang-pleads-not-guilty-bribery)
-2. [AFP, Reuters via ''The Straits Times](http://www.straitstimes.com/asia/east-asia/former-hong-kong-chief-executive-donald-tsang-goes-on-trial-for-corruption)
-3. [BBC News](http://www.bbc.com/news/world-asia-china-38493542)
+1. [AFP, Reuters via ''The Straits Times](http://www.straitstimes.com/asia/east-asia/former-hong-kong-chief-executive-donald-tsang-goes-on-trial-for-corruption)
+2. [BBC News](http://www.bbc.com/news/world-asia-china-38493542)
+3. [South China Morning Post](http://www.scmp.com/news/hong-kong/law-crime/article/2058839/ex-hong-kong-leader-donald-tsang-pleads-not-guilty-bribery)
 
 ### Related:
 

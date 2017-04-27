@@ -7,8 +7,8 @@ Israel has widened access to a revered Jewish site in the heart of the Jerusalem
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/world/middle-east/israel-clears-out-disputed-site-in-muslim-quarter-2185019.html)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5i9rBOHfziK8f31Ajx_t713uzBOTg?docId=CNG.ae397daff87cc1e47b63c5af72d5b9ae.811)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5i9rBOHfziK8f31Ajx_t713uzBOTg?docId=CNG.ae397daff87cc1e47b63c5af72d5b9ae.811)
+2. [The Independent](http://www.independent.co.uk/news/world/middle-east/israel-clears-out-disputed-site-in-muslim-quarter-2185019.html)
 
 ### Related:
 

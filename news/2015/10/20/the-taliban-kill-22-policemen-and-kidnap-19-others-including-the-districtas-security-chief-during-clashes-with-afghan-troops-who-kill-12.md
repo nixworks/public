@@ -7,9 +7,9 @@ Taliban forces advanced on the capital of the volatile southern Afghan province 
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2015/10/21/world/asia/afghanistan-taliban-police-ghormach.html?_r=0)
-2. [Reuters](http://www.reuters.com/article/2015/10/20/us-afghanistan-fighting-idUSKCN0SE1VQ20151020)
-3. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=2398477&CategoryId=12395)
+1. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=2398477&CategoryId=12395)
+2. [New York Times](http://www.nytimes.com/2015/10/21/world/asia/afghanistan-taliban-police-ghormach.html?_r=0)
+3. [Reuters](http://www.reuters.com/article/2015/10/20/us-afghanistan-fighting-idUSKCN0SE1VQ20151020)
 
 ### Related:
 

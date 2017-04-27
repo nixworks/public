@@ -7,8 +7,8 @@ Novak Djokovic and Roger Federer will meet in Sunday’s U.S. Open men’s final
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/sport/live/2015/sep/13/us-open-2015-novak-djokovic-v-roger-federer-mens-singles-final-live)
-2. [International Business Times](http://www.ibtimes.com/us-open-mens-final-2015-start-time-tv-channel-live-stream-info-roger-federer-vs-novak-2094229)
+1. [International Business Times](http://www.ibtimes.com/us-open-mens-final-2015-start-time-tv-channel-live-stream-info-roger-federer-vs-novak-2094229)
+2. [The Guardian](http://www.theguardian.com/sport/live/2015/sep/13/us-open-2015-novak-djokovic-v-roger-federer-mens-singles-final-live)
 
 ### Related:
 

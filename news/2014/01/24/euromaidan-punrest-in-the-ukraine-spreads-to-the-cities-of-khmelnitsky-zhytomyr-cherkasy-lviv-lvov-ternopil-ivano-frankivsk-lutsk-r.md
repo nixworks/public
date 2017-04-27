@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2014/01/25/world/europe/ukraine-protests.html?_r=0)
-2. [National Post](http://news.nationalpost.com/2014/01/23/ukraine-protesters-storm-office-and-force-regional-governor-to-resign-as-demonstrations-continue-in-smouldering-kyiv/)
+1. [National Post](http://news.nationalpost.com/2014/01/23/ukraine-protesters-storm-office-and-force-regional-governor-to-resign-as-demonstrations-continue-in-smouldering-kyiv/)
+2. [New York Times](http://www.nytimes.com/2014/01/25/world/europe/ukraine-protests.html?_r=0)
 
 ### Related:
 

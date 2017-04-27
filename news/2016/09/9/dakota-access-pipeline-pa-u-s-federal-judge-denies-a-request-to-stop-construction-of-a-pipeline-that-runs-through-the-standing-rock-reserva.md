@@ -7,8 +7,8 @@ But federal authorities quickly said the pipeline near a lake will not go forwar
 
 ### Source:
 
-1. [The Los Angeles Times](http://www.latimes.com/nation/la-na-north-dakota-pipeline-20160909-snap-story.html)
-2. [NBC](http://www.nbcnews.com/news/us-news/amp/federal-judge-denies-tribe-s-request-halt-dakota-access-pipeline-n645616)
+1. [NBC](http://www.nbcnews.com/news/us-news/amp/federal-judge-denies-tribe-s-request-halt-dakota-access-pipeline-n645616)
+2. [The Los Angeles Times](http://www.latimes.com/nation/la-na-north-dakota-pipeline-20160909-snap-story.html)
 
 ### Related:
 

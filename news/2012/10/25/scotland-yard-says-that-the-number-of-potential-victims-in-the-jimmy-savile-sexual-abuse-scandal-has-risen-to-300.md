@@ -7,8 +7,8 @@ Police investigating the Jimmy Savile abuse scandal are now dealing with around 
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/media/2012/oct/25/jimmy-savile-bbc-director-general)
-2. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/crime/jimmy-savile/9633678/Jimmy-Savile-300-victims-400-lines-of-inquiry-130-interviews.html)
+1. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/crime/jimmy-savile/9633678/Jimmy-Savile-300-victims-400-lines-of-inquiry-130-interviews.html)
+2. [The Guardian](http://www.guardian.co.uk/media/2012/oct/25/jimmy-savile-bbc-director-general)
 
 ### Related:
 

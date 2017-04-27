@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Yonhap](http://english.yonhapnews.co.kr/national/2010/01/27/33/0301000000AEN20100127004100315F.HTML)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8482251.stm)
 2. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/North-Korea-fires-artillery-South-Korea-responds-Officials/articleshow/5503321.cms)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8482251.stm)
+3. [Yonhap](http://english.yonhapnews.co.kr/national/2010/01/27/33/0301000000AEN20100127004100315F.HTML)
 
 ### Related:
 

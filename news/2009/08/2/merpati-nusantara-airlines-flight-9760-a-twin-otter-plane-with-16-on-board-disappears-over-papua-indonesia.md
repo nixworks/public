@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Bernama](http://www.bernama.com/bernama/v5/newsgeneral.php?id=429699)
-2. [Japan Today](http://www.japantoday.com/category/world/view/plane-carrying-16-disappears-in-indonesia)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ivTj9M_FysEvB3r1UXJ93tNm_ccA)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ivTj9M_FysEvB3r1UXJ93tNm_ccA)
+2. [Bernama](http://www.bernama.com/bernama/v5/newsgeneral.php?id=429699)
+3. [Japan Today](http://www.japantoday.com/category/world/view/plane-carrying-16-disappears-in-indonesia)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Stratfor](http://www.stratfor.com/products/premium/read_article.php?id=288387)
-2. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=126&art_id=nw20070510102241408C609778)
+1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=126&art_id=nw20070510102241408C609778)
+2. [Stratfor](http://www.stratfor.com/products/premium/read_article.php?id=288387)
 
 ### Related:
 

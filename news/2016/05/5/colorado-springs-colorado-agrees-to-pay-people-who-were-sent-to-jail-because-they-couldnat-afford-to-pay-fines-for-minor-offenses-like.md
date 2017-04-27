@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Colorado Independent](http://www.coloradoindependent.com/159181/colorado-springs-debtors-prisons)
-2. [AP via ''The Washington Post](https://www.washingtonpost.com/national/colorado-city-to-pay-those-sent-to-jail-over-court-fines/2016/05/05/432e52f2-1303-11e6-a9b5-bf703a5a7191_story.html)
+1. [AP via ''The Washington Post](https://www.washingtonpost.com/national/colorado-city-to-pay-those-sent-to-jail-over-court-fines/2016/05/05/432e52f2-1303-11e6-a9b5-bf703a5a7191_story.html)
+2. [The Colorado Independent](http://www.coloradoindependent.com/159181/colorado-springs-debtors-prisons)
 
 ### Related:
 

@@ -7,8 +7,8 @@ A judge in Belfast has ruled that journalist Suzanne Breen does not have to hand
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2009/0618/breens.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8107230.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8107230.stm)
+2. [RTÉ](http://www.rte.ie/news/2009/0618/breens.html)
 
 ### Related:
 

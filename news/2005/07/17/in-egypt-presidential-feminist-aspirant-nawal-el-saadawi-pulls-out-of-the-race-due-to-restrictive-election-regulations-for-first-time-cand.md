@@ -7,8 +7,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-07-16T141408Z_01_N16704258_RTRIDST_0_INTERNATIONAL-EGYPT-PRESIDENCY-DC.XML)
-2. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/25128CED-C5D6-48DF-BAF9-EEFCDBE2A1FA.htm)
+1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/25128CED-C5D6-48DF-BAF9-EEFCDBE2A1FA.htm)
+2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-07-16T141408Z_01_N16704258_RTRIDST_0_INTERNATIONAL-EGYPT-PRESIDENCY-DC.XML)
 
 ### Related:
 

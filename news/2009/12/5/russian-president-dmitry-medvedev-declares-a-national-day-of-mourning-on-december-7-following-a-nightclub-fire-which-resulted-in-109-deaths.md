@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2009-12/05/content_12595553.htm)
-2. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=14609468&PageNum=0)
+1. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=14609468&PageNum=0)
+2. [Xinhua](http://news.xinhuanet.com/english/2009-12/05/content_12595553.htm)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [T&T Express](http://www.trinidadexpress.com/index.pl/article_news?id=153641644)
-2. [Radio Jamaica](http://www.radiojamaica.com/news/story.php?category=2&story=24317)
+1. [Radio Jamaica](http://www.radiojamaica.com/news/story.php?category=2&story=24317)
+2. [T&T Express](http://www.trinidadexpress.com/index.pl/article_news?id=153641644)
 
 ### Related:
 

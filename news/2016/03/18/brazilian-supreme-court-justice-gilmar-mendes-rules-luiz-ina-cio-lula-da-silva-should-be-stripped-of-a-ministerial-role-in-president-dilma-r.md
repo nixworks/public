@@ -7,12 +7,12 @@ A top judge in Brazil ruled on Friday that Luiz Inacio Lula da Silva should be s
 
 ### Source:
 
-1. [Toronto Star](http://www.thestar.com/news/world/2016/03/18/brazil-impeachment-gains-speed-as-lulas-job-challenged-in-court.html)
-2. [The Washington Post](https://www.washingtonpost.com/world/big-crowds-demonstrate-in-brazil-in-solidarity-with-embattled-government/2016/03/18/a893a9ca-ed11-11e5-a9ce-681055c7a05f_story.html)
-3. [Reuters via Swiss Broadcasting Corporation](http://www.swissinfo.ch/eng/reuters/brazil-lower-house-launches-impeachment-process-for-rousseff/42029958)
+1. [Fox News Latino](http://latino.foxnews.com/latino/news/2016/03/18/turmoil-on-streets-brazil-as-pro-and-anti-government-protesters-face-off/)
+2. [Reuters via Swiss Broadcasting Corporation](http://www.swissinfo.ch/eng/reuters/brazil-lower-house-launches-impeachment-process-for-rousseff/42029958)
+3. [Reuters](http://www.reuters.com/article/us-brazil-politics-idUSKCN0WK1IF)
 4. [The Globe and  Mail](http://www.theglobeandmail.com/news/world/brazilian-protesters-hit-with-water-cannons-tear-gas-as-impeachment-session-starts/article29288144/)
-5. [Fox News Latino](http://latino.foxnews.com/latino/news/2016/03/18/turmoil-on-streets-brazil-as-pro-and-anti-government-protesters-face-off/)
-6. [Reuters](http://www.reuters.com/article/us-brazil-politics-idUSKCN0WK1IF)
+5. [The Washington Post](https://www.washingtonpost.com/world/big-crowds-demonstrate-in-brazil-in-solidarity-with-embattled-government/2016/03/18/a893a9ca-ed11-11e5-a9ce-681055c7a05f_story.html)
+6. [Toronto Star](http://www.thestar.com/news/world/2016/03/18/brazil-impeachment-gains-speed-as-lulas-job-challenged-in-court.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [PRV](http://www.prv.se/In-English/News/The-London-Agreement-has-entered-into-force/)
-2. [EPO](http://www.epo.org/patents/law/legal-texts/london-agreement/status.html)
+1. [EPO](http://www.epo.org/patents/law/legal-texts/london-agreement/status.html)
+2. [PRV](http://www.prv.se/In-English/News/The-London-Agreement-has-entered-into-force/)
 
 ### Related:
 

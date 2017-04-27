@@ -7,8 +7,8 @@ THE broadcasting of a young cadet having sex at the Australian Defence Force Aca
 
 ### Source:
 
-1. [The Sydney Morning Herald](http://www.smh.com.au/national/adf-no-school-for-scandal-houston-20110408-1d7ro.html)
-2. [The Sydney Morning Herald](http://media.smh.com.au/selections/adf-rocked-by-more-sex-abuse-claims-2294981.html)
+1. [The Sydney Morning Herald](http://media.smh.com.au/selections/adf-rocked-by-more-sex-abuse-claims-2294981.html)
+2. [The Sydney Morning Herald](http://www.smh.com.au/national/adf-no-school-for-scandal-houston-20110408-1d7ro.html)
 
 ### Related:
 

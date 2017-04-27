@@ -7,9 +7,9 @@ Jacoby Jones lights up the Superdome as Baltimore edge out San Francisco, and su
 
 ### Source:
 
-1. [Mercury News](http://www.mercurynews.com/sports/ci_22512473/power-outage-halts-super-bowl-2013)
-2. [ (''The Washington Post](http://www.washingtonpost.com/sports/super-bowl-2013-joe-flacco-ray-lewis-and-ravens-hold-on-to-beat-49ers-34-31/2013/02/03/a570fbf4-6e7e-11e2-aa58-243de81040ba_story.html/)
-3. [BBC](http://www.bbc.co.uk/sport/0/american-football/21318296)
+1. [ (''The Washington Post](http://www.washingtonpost.com/sports/super-bowl-2013-joe-flacco-ray-lewis-and-ravens-hold-on-to-beat-49ers-34-31/2013/02/03/a570fbf4-6e7e-11e2-aa58-243de81040ba_story.html/)
+2. [BBC](http://www.bbc.co.uk/sport/0/american-football/21318296)
+3. [Mercury News](http://www.mercurynews.com/sports/ci_22512473/power-outage-halts-super-bowl-2013)
 
 ### Related:
 

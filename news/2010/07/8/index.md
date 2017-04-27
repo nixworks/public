@@ -28,7 +28,7 @@ _Context: Amnesty International, Gaza Strip, Israel, Israeli blockade, consumer 
 _Context: Canadian, David Lloyd Johnston, Governor General, Michaëlle Jean, University of Waterloo_
 
 ### [United States Republican Party Chairman Michael Steele again resist calls for him to step down after he asserted that the War in Afghanistan was a "war of Obama's choosing". ](/news/2010/07/8/united-states-republican-party-chairman-michael-steele-again-resist-calls-for-him-to-step-down-after-he-asserted-that-the-war-in-afghanistan.md)
-_Context: Michael Steele, Republican, U.S., War in Afghanistan (2001–present)_
+_Context: Michael Steele, Republican, United States, War in Afghanistan (2001–present)_
 
 ### [US federal judge Joseph Louis Tauro, in two separate cases,  rules that a federal ban against gay marriage is unconstitutional, as it interferes with a state's right to define marriage. ](/news/2010/07/8/us-federal-judge-joseph-louis-tauro-in-two-separate-cases-rules-that-a-federal-ban-against-gay-marriage-is-unconstitutional-as-it-interf.md)
 A U.S. judge in Boston has ruled that a federal gay marriage ban is unconstitutional because it interferes with the right of a state to define marriage.
@@ -43,7 +43,7 @@ _Context: Grim Sleeper, Los Angeles Police_
 BT and TalkTalk seek a judicial review of the Digital Economy Act, saying it was rushed and could curb basic rights.
 
 ### [10 people uncovered by the FBI as Russian spies plead guilty in court to conspiracy to act as foreign agents. [http://news.bbc.co.uk/2/hi/world/us_and_canada/10563622.stm (BBC News)]The spies are sentenced to time served, and deported from the United States in exchange for 4 people imprisoned for alleged contact with Western intelligence bodies. [http://www.msnbc.msn.com/id/38122348/ns/us_news-security/ (MSNBC)].](/news/2010/07/8/10-people-uncovered-by-the-fbi-as-russian-spies-plead-guilty-in-court-to-conspiracy-to-act-as-foreign-agents-http-news-bbc-co-uk-2-hi-wo.md)
-_Context: Federal Bureau of Investigations, Russia, Russian Spy Ring in the United States, U.S._
+_Context: Federal Bureau of Investigations, Russia, Russian Spy Ring in the United States, United States_
 
 ### [Johannes Mehserle is found guilty of involuntary manslaughter for the killing of Oscar Grant in 2009. ](/news/2010/07/8/johannes-mehserle-is-found-guilty-of-involuntary-manslaughter-for-the-killing-of-oscar-grant-in-2009.md)
 The involuntary manslaughter conviction of a white former transit officer in the death of an unarmed black man set the stage for a sentencing that could be just as explosive as the trial. 

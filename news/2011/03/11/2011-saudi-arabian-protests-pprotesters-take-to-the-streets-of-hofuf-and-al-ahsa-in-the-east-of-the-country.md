@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Wall Street Journal](http://online.wsj.com/article/SB10001424052748703597804576194153264855440.html)
-2. [Reuters](http://af.reuters.com/article/energyOilNews/idAFLDE72A02Z20110311)
+1. [Reuters](http://af.reuters.com/article/energyOilNews/idAFLDE72A02Z20110311)
+2. [Wall Street Journal](http://online.wsj.com/article/SB10001424052748703597804576194153264855440.html)
 
 ### Related:
 

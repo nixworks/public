@@ -7,9 +7,9 @@ Catherine Ashton calls for a political process to end violence between opponents
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Top_News/World-News/2013/07/30/Ashton-says-Morsi-is-fine-Muslim-Brotherhood-to-protest/UPI-32201375180871/?dailybrief)
+1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/egypt/10208258/Egypt-Mohamed-Morsi-supporters-call-for-million-man-march-against-military.html)
 2. [The Times of Israel](http://www.timesofisrael.com/top-eu-diplomat-says-egypts-morsi-doing-well/)
-3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/egypt/10208258/Egypt-Mohamed-Morsi-supporters-call-for-million-man-march-against-military.html)
+3. [UPI](http://www.upi.com/Top_News/World-News/2013/07/30/Ashton-says-Morsi-is-fine-Muslim-Brotherhood-to-protest/UPI-32201375180871/?dailybrief)
 
 ### Related:
 

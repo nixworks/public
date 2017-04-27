@@ -7,12 +7,12 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Haaretz](http://www.haaretz.com/hasen/spages/735911.html)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5154838.stm)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5162062.stm)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5154838.stm)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5163072.stm)
 4. [Getty](http://editorial.gettyimages.com/source/search/details_pop.aspx?iid=714013262)
-5. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2006-07-09T132337Z_01_L04812837_RTRUKOC_0_US-MIDEAST.xml)
-6. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5163072.stm)
+5. [Haaretz](http://www.haaretz.com/hasen/spages/735911.html)
+6. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2006-07-09T132337Z_01_L04812837_RTRUKOC_0_US-MIDEAST.xml)
 
 ### Related:
 

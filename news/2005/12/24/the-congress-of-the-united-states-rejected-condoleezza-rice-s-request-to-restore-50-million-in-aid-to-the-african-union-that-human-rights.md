@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [UN](http://www.un.org/apps/news/story.asp?NewsID=16981&Cr=Sudan&Cr1=)
-2. [Herald News Daily](http://www.heraldnewsdaily.com/stories/news-00115568.html)
+1. [Herald News Daily](http://www.heraldnewsdaily.com/stories/news-00115568.html)
+2. [UN](http://www.un.org/apps/news/story.asp?NewsID=16981&Cr=Sudan&Cr1=)
 
 ### Related:
 

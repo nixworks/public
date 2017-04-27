@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://af.reuters.com/article/kenyaNews/idAFLDE69I2B820101019)
-2. [Daily Nation](http://www.nation.co.ke/News/politics/Kenya%20minister%20suspended%20over%20fraud%20case/-/1064/1035980/-/ic7vawz/-/)
+1. [Daily Nation](http://www.nation.co.ke/News/politics/Kenya%20minister%20suspended%20over%20fraud%20case/-/1064/1035980/-/ic7vawz/-/)
+2. [Reuters](http://af.reuters.com/article/kenyaNews/idAFLDE69I2B820101019)
 
 ### Related:
 

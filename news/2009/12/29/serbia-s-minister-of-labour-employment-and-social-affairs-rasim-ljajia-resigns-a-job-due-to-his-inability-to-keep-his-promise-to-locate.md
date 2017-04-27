@@ -8,8 +8,8 @@ The Serbian minister responsible for helping the U.N. war crimes tribunal track 
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8433947.stm)
-2. [Reuters](http://uk.reuters.com/article/idUKTRE5BS1JH20091229)
-3. [Houston Chronicle](http://www.chron.com/disp/story.mpl/world/6790392.html)
+2. [Houston Chronicle](http://www.chron.com/disp/story.mpl/world/6790392.html)
+3. [Reuters](http://uk.reuters.com/article/idUKTRE5BS1JH20091229)
 
 ### Related:
 

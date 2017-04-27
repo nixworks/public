@@ -7,9 +7,9 @@ RIO DE JANEIRO (AP) — A new elevated bike path that was heralded as a top lega
 
 ### Source:
 
-1. [Hindustan Times](http://www.hindustantimes.com/world/elevated-bike-lane-for-rio-olympics-collapses-killing-at-least-2/story-WrfggNlpf4mzCr4A14dBGI.html)
-2. [AP](http://bigstory.ap.org/article/c6782f6aeee84005a1b2d8ac621e596a/bike-lane-brazil-built-ahead-olympics-collapses)
-3. [AP² via CBS News](http://www.cbsnews.com/news/brazil-bicycle-lane-collapse-olympics-host-city-rio-de-janeiro/)
+1. [AP](http://bigstory.ap.org/article/c6782f6aeee84005a1b2d8ac621e596a/bike-lane-brazil-built-ahead-olympics-collapses)
+2. [AP² via CBS News](http://www.cbsnews.com/news/brazil-bicycle-lane-collapse-olympics-host-city-rio-de-janeiro/)
+3. [Hindustan Times](http://www.hindustantimes.com/world/elevated-bike-lane-for-rio-olympics-collapses-killing-at-least-2/story-WrfggNlpf4mzCr4A14dBGI.html)
 
 ### Related:
 

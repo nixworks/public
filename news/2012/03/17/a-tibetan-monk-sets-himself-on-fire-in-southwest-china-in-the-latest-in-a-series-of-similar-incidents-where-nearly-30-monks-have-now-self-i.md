@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/world/china/Another-Tibetan-monk-self-immolates-in-anti-China-protest/articleshow/12303102.cms)
-2. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_778624.html)
+1. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_778624.html)
+2. [Times of India](http://timesofindia.indiatimes.com/world/china/Another-Tibetan-monk-self-immolates-in-anti-China-protest/articleshow/12303102.cms)
 
 ### Related:
 

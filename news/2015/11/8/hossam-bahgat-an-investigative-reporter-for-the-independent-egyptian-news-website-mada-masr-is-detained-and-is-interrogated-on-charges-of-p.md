@@ -7,8 +7,8 @@ Hossam Bahgat&#039;s recent investigative reporting has prominently featured the
 
 ### Source:
 
-1. [NPR](http://www.npr.org/sections/thetwo-way/2015/11/08/455247165/egyptian-journalist-hossam-bahgat-detained-over-investigative-story)
-2. [Middle East Eye](http://www.middleeasteye.net/news/egyptian-military-intelligence-charges-leading-journalist-1746819402)
+1. [Middle East Eye](http://www.middleeasteye.net/news/egyptian-military-intelligence-charges-leading-journalist-1746819402)
+2. [NPR](http://www.npr.org/sections/thetwo-way/2015/11/08/455247165/egyptian-journalist-hossam-bahgat-detained-over-investigative-story)
 
 ### Related:
 

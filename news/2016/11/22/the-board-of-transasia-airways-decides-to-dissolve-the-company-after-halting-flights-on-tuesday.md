@@ -7,8 +7,8 @@ Taiwanese carrier TransAsia Airways Corp. decided to close down operations after
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2016/11/22/business/international/transasia-crash-taiwan-shuts-down.html?_r=0)
-2. [Bloomberg](http://www.bloomberg.com/news/articles/2016-11-22/transasia-halts-flights-for-day-without-reason-as-trading-probed)
+1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-11-22/transasia-halts-flights-for-day-without-reason-as-trading-probed)
+2. [The New York Times](http://www.nytimes.com/2016/11/22/business/international/transasia-crash-taiwan-shuts-down.html?_r=0)
 3. [The Wall Street Journal](http://www.wsj.com/articles/transasia-airways-closes-down-1479799620)
 
 ### Related:

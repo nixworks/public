@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Jakarta Globe](http://thejakartaglobe.com/news/authorities-say-poachers-who-killed-tiger-at-jambi-zoo-were-professionals/325516)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8217408.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8217408.stm)
+2. [Jakarta Globe](http://thejakartaglobe.com/news/authorities-say-poachers-who-killed-tiger-at-jambi-zoo-were-professionals/325516)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Business Week](http://www.businessweek.com/ap/financialnews/D9GD29580.htm)
-2. [Austrian Independent](http://austrianindependent.com/news/General_News/2010-06-17/3188/Newspaper_icon_Hans_Dichand_dies)
+1. [Austrian Independent](http://austrianindependent.com/news/General_News/2010-06-17/3188/Newspaper_icon_Hans_Dichand_dies)
+2. [Business Week](http://www.businessweek.com/ap/financialnews/D9GD29580.htm)
 3. [The Hindu](http://beta.thehindu.com/news/international/article469994.ece)
 
 ### Related:

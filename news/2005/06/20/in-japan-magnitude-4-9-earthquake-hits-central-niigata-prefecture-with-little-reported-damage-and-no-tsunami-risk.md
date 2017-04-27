@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/T146838.htm)
-2. [Japan Today](http://japantoday.com/e/?content=news&cat=9&id=340874)
+1. [Japan Today](http://japantoday.com/e/?content=news&cat=9&id=340874)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/T146838.htm)
 
 ### Related:
 

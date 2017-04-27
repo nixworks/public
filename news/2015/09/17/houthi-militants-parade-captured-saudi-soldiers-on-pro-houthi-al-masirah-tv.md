@@ -7,8 +7,8 @@ Shiite Huthi rebels in Yemen claim to have captured several troops from Saudi Ar
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/2015/09/17/uk-yemen-security-idUKKCN0RH1BR20150917)
-2. [AFP via Yahoo](http://news.yahoo.com/yemen-rebels-claim-capture-saudi-troops-show-one-095354516.html)
+1. [AFP via Yahoo](http://news.yahoo.com/yemen-rebels-claim-capture-saudi-troops-show-one-095354516.html)
+2. [Reuters](http://uk.reuters.com/article/2015/09/17/uk-yemen-security-idUKKCN0RH1BR20150917)
 
 ### Related:
 

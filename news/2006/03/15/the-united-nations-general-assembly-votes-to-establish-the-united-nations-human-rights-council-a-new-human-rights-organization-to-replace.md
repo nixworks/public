@@ -7,8 +7,8 @@ The 191-member U.N. General Assembly has approved, despite U.S. objection, the c
 
 ### Source:
 
-1. [United Press International](http://www.upi.com/InternationalIntelligence/view.php?StoryID=20060315-010515-6434r)
-2. [Reuters.uk](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2006-03-15T063517Z_01_N14224220_RTRUKOC_0_UK-RIGHTS-UN-USA.xml&archived=False)
+1. [Reuters.uk](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2006-03-15T063517Z_01_N14224220_RTRUKOC_0_UK-RIGHTS-UN-USA.xml&archived=False)
+2. [United Press International](http://www.upi.com/InternationalIntelligence/view.php?StoryID=20060315-010515-6434r)
 
 ### Related:
 

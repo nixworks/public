@@ -7,8 +7,8 @@ Thousands of computer users may be without Internet access Monday after a deadli
 
 ### Source:
 
-1. [Yahoo! News](http://news.yahoo.com/blogs/lookout/blackout-monday-dns-changer-know-155840354.html)
-2. [The Guardian](http://www.guardian.co.uk/technology/2012/jul/09/dnschanger-malware?newsfeed=true)
+1. [The Guardian](http://www.guardian.co.uk/technology/2012/jul/09/dnschanger-malware?newsfeed=true)
+2. [Yahoo! News](http://news.yahoo.com/blogs/lookout/blackout-monday-dns-changer-know-155840354.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/americas/12/24/ecuador.wreck/)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hxCd7dKccXE25MuPBjkIMTeR4IPQ?docId=CNG.d098c347831522dec5fb7fd9eb073ef0.5c1)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hxCd7dKccXE25MuPBjkIMTeR4IPQ?docId=CNG.d098c347831522dec5fb7fd9eb073ef0.5c1)
+2. [CNN](http://edition.cnn.com/2010/WORLD/americas/12/24/ecuador.wreck/)
 
 ### Related:
 

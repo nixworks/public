@@ -7,9 +7,9 @@ Government forces and opponents of President Bashar al-Assad clashed in cities a
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/02/14/us-syria-idUSL5E8DB0BH20120214)
-2. [AP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/un-resolution-would-condemn-syrian-regime-20120215-1t4y9.html)
-3. [Gulf News](http://gulfnews.com/news/region/syria/china-says-it-will-not-protect-syrian-regime-1.980962)
+1. [AP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/un-resolution-would-condemn-syrian-regime-20120215-1t4y9.html)
+2. [Gulf News](http://gulfnews.com/news/region/syria/china-says-it-will-not-protect-syrian-regime-1.980962)
+3. [Reuters](http://www.reuters.com/article/2012/02/14/us-syria-idUSL5E8DB0BH20120214)
 
 ### Related:
 

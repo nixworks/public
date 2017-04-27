@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/americas/7107217.stm)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/7106756.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/7106756.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/americas/7107217.stm)
 
 ### Related:
 

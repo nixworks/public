@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Sports News](http://www.sportsnewsireland.com/gaa/all-ireland-senior-hurling-final-replay-preview-and-live-score-updates-128639/)
-2. [Irish Examiner](http://www.irishexaminer.com/breakingnews/sport/galway-kilkenny-dublin-and-tipperary-prepare-for-historic-replays-568758.html)
-3. [RTÉ Sport](http://www.rte.ie/sport/gaa/hurling/2012/0930/339700-live-all-ireland-hurling-finals/)
+1. [Irish Examiner](http://www.irishexaminer.com/breakingnews/sport/galway-kilkenny-dublin-and-tipperary-prepare-for-historic-replays-568758.html)
+2. [RTÉ Sport](http://www.rte.ie/sport/gaa/hurling/2012/0930/339700-live-all-ireland-hurling-finals/)
+3. [Sports News](http://www.sportsnewsireland.com/gaa/all-ireland-senior-hurling-final-replay-preview-and-live-score-updates-128639/)
 
 ### Related:
 

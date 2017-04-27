@@ -8,8 +8,8 @@ Reviled on the Maidan, members of the &ldquo;Berkut&rdquo; are offered sanctuary
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2014/02/26/world/europe/ukraine-politics/)
-2. [Washington Post](http://www.washingtonpost.com/world/crimean-city-offers-refuge-to-police-who-battled-protesters-in-ukraine-capital/2014/02/26/ad105a78-9ec3-11e3-9ba6-800d1192d08b_story.html)
-3. [Ministry of Defence](http://www.mil.gov.ua/index.php?lang=ua&part=news&sub=read&id=32728)
+2. [Ministry of Defence](http://www.mil.gov.ua/index.php?lang=ua&part=news&sub=read&id=32728)
+3. [Washington Post](http://www.washingtonpost.com/world/crimean-city-offers-refuge-to-police-who-battled-protesters-in-ukraine-capital/2014/02/26/ad105a78-9ec3-11e3-9ba6-800d1192d08b_story.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [IOM](http://www.iom.int/jahia/Jahia/media/press-briefing-notes/pbnAF/cache/offonce?entryId=29821)
-2. [BBC](http://www.bbc.co.uk/news/world-south-asia-13966076)
+1. [BBC](http://www.bbc.co.uk/news/world-south-asia-13966076)
+2. [IOM](http://www.iom.int/jahia/Jahia/media/press-briefing-notes/pbnAF/cache/offonce?entryId=29821)
 
 ### Related:
 

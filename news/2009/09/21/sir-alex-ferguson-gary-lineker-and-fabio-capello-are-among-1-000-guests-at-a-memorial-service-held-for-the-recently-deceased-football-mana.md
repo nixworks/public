@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/sports/soccer/2009-09-21-1408159171_x.htm)
+1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/football-stars-pay-final-tribute-to-sir-bobby-20090922-fyqr.html)
 2. [The Times](http://www.timesonline.co.uk/tol/sport/football/international/article6842948.ece)
-3. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/football-stars-pay-final-tribute-to-sir-bobby-20090922-fyqr.html)
+3. [USA Today](http://www.usatoday.com/sports/soccer/2009-09-21-1408159171_x.htm)
 
 ### Related:
 

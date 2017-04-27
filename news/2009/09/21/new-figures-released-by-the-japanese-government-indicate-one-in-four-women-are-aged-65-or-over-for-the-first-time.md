@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Mainichi Shimbun](http://mdn.mainichi.jp/mdnnews/news/20090921p2a00m0na014000c.html)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jVBVBm_bBDfvqMS9IFZtXwCcOmvQ)
 2. [Japan Today](http://www.japantoday.com/category/national/view/1-in-4-women-in-japan-now-aged-65-or-older-govt-estimate)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jVBVBm_bBDfvqMS9IFZtXwCcOmvQ)
+3. [Mainichi Shimbun](http://mdn.mainichi.jp/mdnnews/news/20090921p2a00m0na014000c.html)
 
 ### Related:
 

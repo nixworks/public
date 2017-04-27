@@ -7,9 +7,9 @@ Shoichi Nakagawa was forced to step down in February after accusations of drunke
 
 ### Source:
 
-1. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6860536.ece)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/10/20091043375284638.html)
 2. [Japan Today](http://www.japantoday.com/category/politics/view/ex-finance-minister-nakagawa-found-dead-at-tokyo-home)
-3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/10/20091043375284638.html)
+3. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6860536.ece)
 
 ### Related:
 

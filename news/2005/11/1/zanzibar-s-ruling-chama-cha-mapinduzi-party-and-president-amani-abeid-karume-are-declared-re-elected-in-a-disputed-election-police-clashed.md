@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-11-01T145159Z_01_YUE149880_RTRUKOC_0_UK-TANZANIA-ZANZIBAR.xml&archived=False)
+1. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-5384636,00.html)
 2. [Reuters](http://today.reuters.co.uk/news/NewsArticle.aspx?type=worldNews&storyID=2005-11-01T125539Z_01_YUE146410_RTRUKOT_0_TEXT0.xml&related=true)
-3. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-5384636,00.html)
+3. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-11-01T145159Z_01_YUE149880_RTRUKOC_0_UK-TANZANIA-ZANZIBAR.xml&archived=False)
 
 ### Related:
 

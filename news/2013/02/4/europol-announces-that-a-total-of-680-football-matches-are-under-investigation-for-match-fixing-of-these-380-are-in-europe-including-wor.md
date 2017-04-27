@@ -7,10 +7,10 @@ A Champions League tie played in England is one of 680 matches investigators bel
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/football/2013/feb/04/europol-investigation-football-matchfixing)
-2. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1326556/investigation-unveils-scale-of-match-fixing)
-3. [CNN](http://www.cnn.com/2013/02/04/sport/football/match-fixing-champions-league-football)
-4. [BBC](http://www.bbc.co.uk/sport/0/football/21319807)
+1. [BBC](http://www.bbc.co.uk/sport/0/football/21319807)
+2. [CNN](http://www.cnn.com/2013/02/04/sport/football/match-fixing-champions-league-football)
+3. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1326556/investigation-unveils-scale-of-match-fixing)
+4. [The Guardian](http://www.guardian.co.uk/football/2013/feb/04/europol-investigation-football-matchfixing)
 
 ### Related:
 

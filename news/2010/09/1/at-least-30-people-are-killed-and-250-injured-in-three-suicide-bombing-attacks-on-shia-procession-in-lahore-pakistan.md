@@ -7,12 +7,12 @@ At least 25 people are killed and more than 170 are injured in three bomb blasts
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/01/c_13473891.htm)
+1. [Arab News](http://arabnews.com/world/article122857.ece)
 2. [BBC](http://www.bbc.co.uk/news/world-south-asia-11152128)
-3. [Arab News](http://arabnews.com/world/article122857.ece)
+3. [DAWN](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/front-page/06-religious-procession-attacked-in-lahore-triple-terror-blasts-leave-27-dead-290-rs-02)
 4. [The Guardian](http://www.guardian.co.uk/world/2010/sep/01/pakistan-religion)
-5. [DAWN](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/front-page/06-religious-procession-attacked-in-lahore-triple-terror-blasts-leave-27-dead-290-rs-02)
-6. [The Times of India](http://timesofindia.indiatimes.com/world/pakistan/20-killed-170-injured-in-Lahore-suicide-blasts/articleshow/6475837.cms)
+5. [The Times of India](http://timesofindia.indiatimes.com/world/pakistan/20-killed-170-injured-in-Lahore-suicide-blasts/articleshow/6475837.cms)
+6. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/01/c_13473891.htm)
 
 ### Related:
 

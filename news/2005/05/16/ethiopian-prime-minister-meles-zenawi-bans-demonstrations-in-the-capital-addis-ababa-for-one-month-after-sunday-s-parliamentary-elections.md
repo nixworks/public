@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Forbes](http://www.forbes.com/home/feeds/afx/2005/05/15/afx2028176.html)
-2. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1705441,00.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/africa/4549589.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4549589.stm)
+2. [Forbes](http://www.forbes.com/home/feeds/afx/2005/05/15/afx2028176.html)
+3. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1705441,00.html)
 
 ### Related:
 

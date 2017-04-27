@@ -7,10 +7,10 @@ Two comets will safely fly past Earth next week, giving scientists the chance to
 
 ### Source:
 
-1. [NASA](https://www.nasa.gov/feature/jpl/a-tail-of-two-comets)
-2. [Virtual Telescope Project](http://www.virtualtelescope.eu/webtv/)
+1. [Christian Science Monitor](http://www.csmonitor.com/Science/2016/0319/Twin-comets-will-buzz-by-Earth-but-not-too-close)
+2. [NASA](https://www.nasa.gov/feature/jpl/a-tail-of-two-comets)
 3. [Science Alert](http://www.sciencealert.com/two-comets-will-make-the-closest-flyby-of-earth-since-1770-this-week)
-4. [Christian Science Monitor](http://www.csmonitor.com/Science/2016/0319/Twin-comets-will-buzz-by-Earth-but-not-too-close)
+4. [Virtual Telescope Project](http://www.virtualtelescope.eu/webtv/)
 
 ### Related:
 

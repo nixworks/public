@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2009/0609/peshawar.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8092147.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8092147.stm)
+2. [RTÉ](http://www.rte.ie/news/2009/0609/peshawar.html)
 
 ### Related:
 

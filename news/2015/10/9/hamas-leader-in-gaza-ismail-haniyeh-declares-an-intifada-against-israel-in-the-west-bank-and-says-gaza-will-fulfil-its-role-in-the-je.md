@@ -7,12 +7,12 @@ In one of the bloodiest days since last year&#039;s Gaza war, Israeli troops kil
 
 ### Source:
 
-1. [Reuters](http://in.reuters.com/article/2015/10/09/israel-palestinians-idINKCN0S319W20151009)
-2. [Washington Post](https://www.washingtonpost.com/world/middle_east/the-latest-israel-sets-age-limit-on-jerusalem-holy-site/2015/10/09/1d74107a-6e52-11e5-91eb-27ad15c2b723_story.html)
-3. [CNN](http://www.cnn.com/2015/10/09/middleeast/israeli-palestinian-violence/)
-4. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/israel/11923095/Islamist-group-Hamas-calls-for-another-intifada-as-violence-spreads-to-Gaza-Strip.html)
-5. [AP via WHDH TV](http://www.whdh.com/story/30222598/the-latest-palestinian-envoy-to-un-wants-emergency-meeting)
-6. [The Guardian](http://www.theguardian.com/world/2015/oct/09/hamas-leader-gaza-declares-intifada-deadly-attacks-continue)
+1. [AP via WHDH TV](http://www.whdh.com/story/30222598/the-latest-palestinian-envoy-to-un-wants-emergency-meeting)
+2. [CNN](http://www.cnn.com/2015/10/09/middleeast/israeli-palestinian-violence/)
+3. [Reuters](http://in.reuters.com/article/2015/10/09/israel-palestinians-idINKCN0S319W20151009)
+4. [The Guardian](http://www.theguardian.com/world/2015/oct/09/hamas-leader-gaza-declares-intifada-deadly-attacks-continue)
+5. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/israel/11923095/Islamist-group-Hamas-calls-for-another-intifada-as-violence-spreads-to-Gaza-Strip.html)
+6. [Washington Post](https://www.washingtonpost.com/world/middle_east/the-latest-israel-sets-age-limit-on-jerusalem-holy-site/2015/10/09/1d74107a-6e52-11e5-91eb-27ad15c2b723_story.html)
 
 ### Related:
 

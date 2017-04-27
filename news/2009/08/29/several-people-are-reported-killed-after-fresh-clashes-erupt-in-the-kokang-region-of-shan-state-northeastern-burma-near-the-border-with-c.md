@@ -9,8 +9,8 @@ Clashes between military and Shan state militia force thousands to flee to China
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gaS4NOB2jmkI6M2kJJ3-QBnOfEWQ)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/08/200982954251542273.html)
-3. [Times of India](http://timesofindia.indiatimes.com/NEWS/World/China/Fresh-violence-near-China-Myanmar-border/articleshow/4948974.cms)
-4. [Global Times](http://world.globaltimes.cn/asia-pacific/2009-08/462324.html)
+3. [Global Times](http://world.globaltimes.cn/asia-pacific/2009-08/462324.html)
+4. [Times of India](http://timesofindia.indiatimes.com/NEWS/World/China/Fresh-violence-near-China-Myanmar-border/articleshow/4948974.cms)
 
 ### Related:
 

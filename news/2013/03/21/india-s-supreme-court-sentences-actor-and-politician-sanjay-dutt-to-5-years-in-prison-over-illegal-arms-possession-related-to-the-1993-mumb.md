@@ -7,8 +7,8 @@ SC upheld the conviction of Sanjay Dutt in the Mumbai serial blasts case and sen
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/india/Sanjay-Dutt-gets-5-years-in-jail-in-1993-Mumbai-blasts-case/articleshow/19104492.cms)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-india-21873316)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-india-21873316)
+2. [Times of India](http://timesofindia.indiatimes.com/india/Sanjay-Dutt-gets-5-years-in-jail-in-1993-Mumbai-blasts-case/articleshow/19104492.cms)
 
 ### Related:
 

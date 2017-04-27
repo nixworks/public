@@ -9,8 +9,8 @@
 
 1. [BBC](http://www.bbc.co.uk/caribbean/news/story/2005/06/050630_haitikilled.shtml)
 2. [DemocracyNow.org](http://www.democracynow.org/article.pl?sid=05/07/11/1351253&mode=thread&tid=25)
-3. [RBN](http://play.rbn.com/?url=demnow/demnow/demand/2005/july/video/dnB20050711a.rm&proto=rtsp&start=43:19)
-4. [HaitiAction](http://www.haitiaction.net/)
+3. [HaitiAction](http://www.haitiaction.net/)
+4. [RBN](http://play.rbn.com/?url=demnow/demnow/demand/2005/july/video/dnB20050711a.rm&proto=rtsp&start=43:19)
 5. [RealPlayer](http://www.real.com/realplayer.html?pageid=broadBandHomePage&pageregion=A1&src=realhome_bb_0_3_1_0_0_1&pcode=rn&opage=realhome_bb)
 
 ### Related:

@@ -7,8 +7,8 @@ American tech giant Amazon promised to create 15,000 new full-time jobs across E
 
 ### Source:
 
-1. [Euronews](http://www.euronews.com/2017/02/20/amazon-to-add-15000-jobs-across-europe-5000-in-britain)
-2. [AndroidHeadlines.com](https://www.androidheadlines.com/2017/02/amazon-creating-15000-new-european-jobs-2017.html)
+1. [AndroidHeadlines.com](https://www.androidheadlines.com/2017/02/amazon-creating-15000-new-european-jobs-2017.html)
+2. [Euronews](http://www.euronews.com/2017/02/20/amazon-to-add-15000-jobs-across-europe-5000-in-britain)
 
 ### Related:
 

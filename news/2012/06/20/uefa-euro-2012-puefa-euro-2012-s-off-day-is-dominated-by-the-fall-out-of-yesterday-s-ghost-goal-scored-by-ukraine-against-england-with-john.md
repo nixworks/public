@@ -7,10 +7,10 @@ Uefa&#039;s chief refereeing officer Pierluigi Collina on Wednesday said that a 
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/picturegalleries/9342803/Euro-2012-England-v-Ukraine-in-pictures.html?frame=2253500#?frame=2253504)
+1. [Reuters via Yahoo!](http://uk.eurosport.yahoo.com/news/ukraines-woes-dominate-rest-day-190905635--sow.html)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/competitions/euro-2012/9344475/Euro-2012-Ukraine-goal-crossed-the-line-and-should-have-been-given-says-Uefa-referee-chief-Pierluigi-Collina.html)
-3. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/teams/italy/9340743/Italy-coach-Cesare-Prandelli-dedicates-Antonio-Cassanos-goal-against-Republic-of-Ireland-to-Uefa-president-Michel-Platini.html)
-4. [Reuters via Yahoo!](http://uk.eurosport.yahoo.com/news/ukraines-woes-dominate-rest-day-190905635--sow.html)
+3. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/picturegalleries/9342803/Euro-2012-England-v-Ukraine-in-pictures.html?frame=2253500#?frame=2253504)
+4. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/teams/italy/9340743/Italy-coach-Cesare-Prandelli-dedicates-Antonio-Cassanos-goal-against-Republic-of-Ireland-to-Uefa-president-Michel-Platini.html)
 
 ### Related:
 

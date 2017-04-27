@@ -7,8 +7,8 @@ MÃ©decins Sans FrontiÃ¨res (MSF) is an international, independent, medical human
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/02/20102185194229798.html)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jD4n4hOqW8tWUUtNanpXraa_66GA)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jD4n4hOqW8tWUUtNanpXraa_66GA)
+2. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/02/20102185194229798.html)
 3. [Médecins Sans Frontières](http://www.msf.org/msfinternational/invoke.cfm?objectid=E0337804-15C5-F00A-25381936FFCDE91A&component=toolkit.pressrelease&method=full_html)
 
 ### Related:

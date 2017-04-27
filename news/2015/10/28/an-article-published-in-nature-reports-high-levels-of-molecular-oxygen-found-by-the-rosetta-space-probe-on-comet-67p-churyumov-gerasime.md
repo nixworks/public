@@ -7,10 +7,10 @@ The Rosetta spacecraft has detected significant levels of molecular oxygen comin
 
 ### Source:
 
-1. [Radio New Zealand Online](http://www.radionz.co.nz/news/world/288301/comet-gives-clues-to-earth%27s-beginning)
-2. [Nature'' Press Release](http://www.nature.com/news/rosetta-sniffs-oxygen-around-comet-67p-1.18658#/b1)
-3. [BBC Online](http://www.bbc.com/news/science-environment-34660576)
-4. [Nature'' Article Synopsis](http://www.nature.com/nature/journal/v526/n7575/full/nature15707.html)
+1. [BBC Online](http://www.bbc.com/news/science-environment-34660576)
+2. [Nature'' Article Synopsis](http://www.nature.com/nature/journal/v526/n7575/full/nature15707.html)
+3. [Nature'' Press Release](http://www.nature.com/news/rosetta-sniffs-oxygen-around-comet-67p-1.18658#/b1)
+4. [Radio New Zealand Online](http://www.radionz.co.nz/news/world/288301/comet-gives-clues-to-earth%27s-beginning)
 
 ### Related:
 

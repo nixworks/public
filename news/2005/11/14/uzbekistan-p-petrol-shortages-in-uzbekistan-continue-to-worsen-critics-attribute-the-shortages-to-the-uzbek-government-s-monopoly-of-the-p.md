@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://news.yahoo.com/s/ap/20051114/ap_on_re_eu/uzbekistan_uprising_trial;_ylt=AhtrrU1ln_USfghRcFkG_rIEtbAF;_ylu=X3oDMTBiMW04NW9mBHNlYwMlJVRPUCUl)
-2. [Reuters](http://news.bbc.co.uk/2/hi/asia-pacific/4424476.stm)
+1. [Reuters](http://news.bbc.co.uk/2/hi/asia-pacific/4424476.stm)
+2. [Reuters](http://news.yahoo.com/s/ap/20051114/ap_on_re_eu/uzbekistan_uprising_trial;_ylt=AhtrrU1ln_USfghRcFkG_rIEtbAF;_ylu=X3oDMTBiMW04NW9mBHNlYwMlJVRPUCUl)
 
 ### Related:
 

@@ -7,8 +7,8 @@ More than 100 people are reported killed in clashes at a protest held by support
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2013/jul/27/egypt-muslim-brotherhood-morsi-supporters-killed)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-23474645)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-23474645)
+2. [The Guardian](http://www.guardian.co.uk/world/2013/jul/27/egypt-muslim-brotherhood-morsi-supporters-killed)
 
 ### Related:
 

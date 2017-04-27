@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Kyiv Post](http://www.kyivpost.com/content/ukraine/montenegro-iceland-norway-albania-join-eu-sanctions-against-those-who-threaten-ukraines-sovereignty-343141.html)
-2. [AP via Fox News](http://www.foxnews.com/world/2014/04/11/nato-chief-visits-bulgaria-calls-on-russia-to-pull-back-its-troops-from-ukraine/)
+1. [AP via Fox News](http://www.foxnews.com/world/2014/04/11/nato-chief-visits-bulgaria-calls-on-russia-to-pull-back-its-troops-from-ukraine/)
+2. [Kyiv Post](http://www.kyivpost.com/content/ukraine/montenegro-iceland-norway-albania-join-eu-sanctions-against-those-who-threaten-ukraines-sovereignty-343141.html)
 
 ### Related:
 

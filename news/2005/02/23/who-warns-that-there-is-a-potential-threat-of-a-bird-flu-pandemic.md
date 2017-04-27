@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [VOA](http://www.voanews.com/english/2005-02-23-voa18.cfm)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4289637.stm)
-3. [CNN](http://edition.cnn.com/2005/HEALTH/conditions/02/22/bird.flu.asia/)
-4. [Reuters](http://olympics.reuters.com/newsArticle.jhtml?type=topNews&storyID=7695500)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4289637.stm)
+2. [CNN](http://edition.cnn.com/2005/HEALTH/conditions/02/22/bird.flu.asia/)
+3. [Reuters](http://olympics.reuters.com/newsArticle.jhtml?type=topNews&storyID=7695500)
+4. [VOA](http://www.voanews.com/english/2005-02-23-voa18.cfm)
 
 ### Related:
 

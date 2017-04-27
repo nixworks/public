@@ -7,10 +7,10 @@ Activists say more than 250 Syrians have been killed so far this month as the po
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2011/11/11/world/meast/yemen-unrest/index.html?hpt=wo_c2)
-2. [MSNBC](http://www.msnbc.msn.com/id/45252656/ns/world_news-mideast_n_africa/#.Tr8xpz2VrUB)
-3. [CBC](http://www.cbc.ca/news/world/story/2011/11/11/syria-death-toll.html)
-4. [Al-Arabiya](http://english.alarabiya.net/articles/2011/11/11/176529.html)
+1. [Al-Arabiya](http://english.alarabiya.net/articles/2011/11/11/176529.html)
+2. [CBC](http://www.cbc.ca/news/world/story/2011/11/11/syria-death-toll.html)
+3. [CNN](http://www.cnn.com/2011/11/11/world/meast/yemen-unrest/index.html?hpt=wo_c2)
+4. [MSNBC](http://www.msnbc.msn.com/id/45252656/ns/world_news-mideast_n_africa/#.Tr8xpz2VrUB)
 
 ### Related:
 

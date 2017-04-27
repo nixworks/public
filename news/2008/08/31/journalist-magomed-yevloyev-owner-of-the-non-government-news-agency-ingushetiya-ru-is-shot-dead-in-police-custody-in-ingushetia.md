@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/7590719.stm)
-2. [The Australian](http://www.theaustralian.news.com.au/story/0,25197,24272873-12377,00.html)
-3. [AP](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2008/08/31/international/i072332D67.DTL&tsp=1)
+1. [AP](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2008/08/31/international/i072332D67.DTL&tsp=1)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/7590719.stm)
+3. [The Australian](http://www.theaustralian.news.com.au/story/0,25197,24272873-12377,00.html)
 
 ### Related:
 

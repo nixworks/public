@@ -8,8 +8,8 @@ Government report criticises Netanyahu decision-making in 2010 naval raid on Gaz
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/201261392543333854.html)
-2. [The Times of Israel](http://www.timesofisrael.com/state-comptroller-to-submit-special-report-on-mavi-marmara-failures/)
-3. [BBC](http://www.bbc.co.uk/news/world-middle-east-18428785)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-18428785)
+3. [The Times of Israel](http://www.timesofisrael.com/state-comptroller-to-submit-special-report-on-mavi-marmara-failures/)
 
 ### Related:
 

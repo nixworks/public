@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NEXT](http://234next.com/csp/cms/sites/Next/News/Metro/Crime/5568103-146/story.csp)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8680569.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8680569.stm)
+2. [NEXT](http://234next.com/csp/cms/sites/Next/News/Metro/Crime/5568103-146/story.csp)
 
 ### Related:
 

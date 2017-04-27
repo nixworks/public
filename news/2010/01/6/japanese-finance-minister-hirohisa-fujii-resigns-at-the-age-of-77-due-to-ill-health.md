@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Kyodo](http://home.kyodo.co.jp/modules/fstStory/index.php?storyid=478942)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8442743.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8442743.stm)
+2. [Kyodo](http://home.kyodo.co.jp/modules/fstStory/index.php?storyid=478942)
 
 ### Related:
 

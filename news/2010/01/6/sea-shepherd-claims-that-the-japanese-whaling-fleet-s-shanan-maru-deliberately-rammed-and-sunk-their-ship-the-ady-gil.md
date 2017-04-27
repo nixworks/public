@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [euronews](http://www.euronews.net/2010/01/06/anti-whalers-say-protest-boat-sunk-by-japanese/)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5j2jlXp3kBCu-OIBIbAwYzBWrLyzg)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5j2jlXp3kBCu-OIBIbAwYzBWrLyzg)
+2. [euronews](http://www.euronews.net/2010/01/06/anti-whalers-say-protest-boat-sunk-by-japanese/)
 
 ### Related:
 

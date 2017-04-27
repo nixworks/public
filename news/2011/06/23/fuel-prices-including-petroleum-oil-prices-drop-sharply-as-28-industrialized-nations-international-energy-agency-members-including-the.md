@@ -8,8 +8,8 @@ A surprise move to tap government oil reserves could slash painfully high gasoli
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/2011-06-23/crude-gasoline-heating-oil-drop-on-iea-release-oil-products.html)
-2. [Los Angeles Times](http://www.latimes.com/business/la-fi-oil-economy-20110624,0,3865384.story)
-3. [CNN Money](http://money.cnn.com/2011/06/23/markets/oil_prices/?hpt=po_bn1)
+2. [CNN Money](http://money.cnn.com/2011/06/23/markets/oil_prices/?hpt=po_bn1)
+3. [Los Angeles Times](http://www.latimes.com/business/la-fi-oil-economy-20110624,0,3865384.story)
 4. [USA Today](http://www.usatoday.com/money/industries/energy/2011-06-23-oil-prices_n.htm)
 
 ### Related:

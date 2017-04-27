@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Macau News](http://www.macaunews.com.mo/index.php?option=com_content&task=view&id=1181&Itemid=45)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gO5xiMEXysr22hNqrZPIlOGTt_5g?docId=CNG.4bf876aedad10423b2ba2a9c7e0cdc33.711)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gO5xiMEXysr22hNqrZPIlOGTt_5g?docId=CNG.4bf876aedad10423b2ba2a9c7e0cdc33.711)
+2. [Macau News](http://www.macaunews.com.mo/index.php?option=com_content&task=view&id=1181&Itemid=45)
 3. [Reuters](http://www.reuters.com/article/idUSTRE70Q3ED20110127)
 
 ### Related:

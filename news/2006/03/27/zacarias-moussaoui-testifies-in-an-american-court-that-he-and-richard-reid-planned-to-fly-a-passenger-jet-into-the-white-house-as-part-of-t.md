@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Channel 4 News](http://www.channel4.com/news/content/news-storypage.jsp?id=981947)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4850988.stm)
 2. [CNN](http://www.cnn.com/2006/LAW/03/27/moussaoui/index.html)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4850988.stm)
+3. [Channel 4 News](http://www.channel4.com/news/content/news-storypage.jsp?id=981947)
 
 ### Related:
 

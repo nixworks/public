@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2009-11/06/content_12396754.htm)
-2. [Press Trust of India](http://www.ptinews.com/news/364226_Truck-ploughs-into-crowd-in-China--19-dead--official)
-3. [RIA Novosti](http://en.rian.ru/world/20091106/156729307.html)
+1. [Press Trust of India](http://www.ptinews.com/news/364226_Truck-ploughs-into-crowd-in-China--19-dead--official)
+2. [RIA Novosti](http://en.rian.ru/world/20091106/156729307.html)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-11/06/content_12396754.htm)
 
 ### Related:
 

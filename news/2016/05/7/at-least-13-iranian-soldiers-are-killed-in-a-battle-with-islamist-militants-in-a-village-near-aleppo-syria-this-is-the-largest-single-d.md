@@ -7,9 +7,9 @@ By Bozorgmehr SharafedinDUBAI (Reuters) -...
 
 ### Source:
 
-1. [Retuers](http://in.reuters.com/article/us-mideast-crisis-syria-idINKCN0XY0JV)
+1. [Business Insider](http://www.businessinsider.com/r-iran-says-several-of-its-soldiers-killed-near-aleppo-2016-5)
 2. [NDTV](http://www.ndtv.com/world-news/13-iranian-revolutionary-guards-killed-in-syria-report-1403967)
-3. [Business Insider](http://www.businessinsider.com/r-iran-says-several-of-its-soldiers-killed-near-aleppo-2016-5)
+3. [Retuers](http://in.reuters.com/article/us-mideast-crisis-syria-idINKCN0XY0JV)
 
 ### Related:
 

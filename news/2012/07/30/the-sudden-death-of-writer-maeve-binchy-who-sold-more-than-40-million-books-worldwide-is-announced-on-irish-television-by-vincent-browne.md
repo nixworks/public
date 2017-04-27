@@ -7,5 +7,5 @@ Sad news this evening as Ireland&#8217;s most well-known novelist has passed awa
 
 ### Source:
 
-1. [The Journal](http://www.thejournal.ie/beloved-irish-writer-maeve-binchy-has-died-aged-72-538914-Jul2012/)
-2. [RTE](http://www.rte.ie/news/2012/0730/writer-maeve-binchy-dies-aged-72.html)
+1. [RTE](http://www.rte.ie/news/2012/0730/writer-maeve-binchy-dies-aged-72.html)
+2. [The Journal](http://www.thejournal.ie/beloved-irish-writer-maeve-binchy-has-died-aged-72-538914-Jul2012/)

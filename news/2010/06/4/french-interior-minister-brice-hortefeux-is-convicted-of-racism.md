@@ -7,10 +7,10 @@ A&#x20;French&#x20;court&#x20;fined&#x20;Interior&#x20;Minister&#x20;Brice&#x20;
 
 ### Source:
 
-1. [France24](http://www.france24.com/en/20100604-interior-minister-found-guilty-racism-fined-750-euros-hortefeux-france)
+1. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10242356.stm)
 2. [Financial Times](http://www.ft.com/cms/s/db8b922c-6ff2-11df-8698-00144feabdc0,Authorised=false.html?_i_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2Fdb8b922c-6ff2-11df-8698-00144feabdc0.html&_i_referer=http%3A%2F%2Fnews.bbc.co.uk%2F2%2Fhi%2Fworld%2Feurope%2F10242356.stm)
-3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/france/7804212/French-interior-minister-fined-for-racist-remarks.html)
-4. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10242356.stm)
+3. [France24](http://www.france24.com/en/20100604-interior-minister-found-guilty-racism-fined-750-euros-hortefeux-france)
+4. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/france/7804212/French-interior-minister-fined-for-racist-remarks.html)
 
 ### Related:
 

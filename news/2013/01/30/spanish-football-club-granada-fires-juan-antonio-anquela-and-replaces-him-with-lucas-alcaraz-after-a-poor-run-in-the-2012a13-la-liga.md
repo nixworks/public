@@ -7,9 +7,9 @@ Spanish strugglers Granada CF have sacked coach Juan Antonio Anquela, with Lucas
 
 ### Source:
 
-1. [UEFA](http://www.uefa.com/memberassociations/association=esp/news/newsid=1915037.html)
-2. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1319251/granada-bring-in-alcaraz-to-replace-sacked-anquela)
-3. [FIFA](http://www.fifa.com/worldfootball/clubfootball/news/newsid=1998045.html)
+1. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1319251/granada-bring-in-alcaraz-to-replace-sacked-anquela)
+2. [FIFA](http://www.fifa.com/worldfootball/clubfootball/news/newsid=1998045.html)
+3. [UEFA](http://www.uefa.com/memberassociations/association=esp/news/newsid=1915037.html)
 
 ### Related:
 

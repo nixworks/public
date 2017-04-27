@@ -7,8 +7,8 @@ Ireland has been declared free of a cattle disease, which cost the country milli
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0701/breaking61.htm)
-2. [RTÉ](http://www.rte.ie/news/2009/0701/farming.html)
+1. [RTÉ](http://www.rte.ie/news/2009/0701/farming.html)
+2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0701/breaking61.htm)
 
 ### Related:
 

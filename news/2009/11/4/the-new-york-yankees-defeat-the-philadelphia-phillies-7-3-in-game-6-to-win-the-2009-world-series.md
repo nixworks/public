@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The New York Times](http://bats.blogs.nytimes.com/2009/11/04/live-analysis-world-series-game-6-phillies-at-yankees/?hp)
-2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5j8win7x_jGdFjEwYQYIeV_M03g6AD9BP5M6G2)
+1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5j8win7x_jGdFjEwYQYIeV_M03g6AD9BP5M6G2)
+2. [The New York Times](http://bats.blogs.nytimes.com/2009/11/04/live-analysis-world-series-game-6-phillies-at-yankees/?hp)
 
 ### Related:
 

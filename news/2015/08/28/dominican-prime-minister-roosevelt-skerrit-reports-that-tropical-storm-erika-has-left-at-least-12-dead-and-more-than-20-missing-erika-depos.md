@@ -7,9 +7,9 @@ TAMPAMeteorologists may have remained divided Friday evening on the fate of Trop
 
 ### Source:
 
-1. [The Miami Herald](http://www.miamiherald.com/news/weather/hurricane/article32615610.html)
-2. [The Tampa Bay Times](http://www.tampabay.com/news/weather/hurricanes/forecast-track-for-tropical-storm-erika-moves-westward-into-florida-but/2243159)
-3. [CNN](http://www.cnn.com/2015/08/28/us/tropical-weather-erika/)
+1. [CNN](http://www.cnn.com/2015/08/28/us/tropical-weather-erika/)
+2. [The Miami Herald](http://www.miamiherald.com/news/weather/hurricane/article32615610.html)
+3. [The Tampa Bay Times](http://www.tampabay.com/news/weather/hurricanes/forecast-track-for-tropical-storm-erika-moves-westward-into-florida-but/2243159)
 
 ### Related:
 

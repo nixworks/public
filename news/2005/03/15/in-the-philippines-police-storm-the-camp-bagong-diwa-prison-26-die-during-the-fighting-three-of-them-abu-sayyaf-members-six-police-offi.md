@@ -7,10 +7,10 @@ Get the latest breaking news and top news headlines at Reuters.com
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=a0HrSL3NqNY0&refer=top_world_news)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=7900407)
-3. [Sun Star, Manila](http://www.sunstar.com.ph/static/net/2005/03/15/death.toll.in.taguig.jail.crisis.26.html)
-4. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4349471.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4349471.stm)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=a0HrSL3NqNY0&refer=top_world_news)
+3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=7900407)
+4. [Sun Star, Manila](http://www.sunstar.com.ph/static/net/2005/03/15/death.toll.in.taguig.jail.crisis.26.html)
 
 ### Related:
 

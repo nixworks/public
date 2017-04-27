@@ -7,11 +7,11 @@ Palestinian in Turkish Embassy &quot;threatened to blow up building.&quot;
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/18/c_13449517.htm)
-2. [Haaretz](http://www.haaretz.com/print-edition/news/palestinian-shot-after-seeking-asylum-in-turkish-embassy-in-ta-1.308665)
-3. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/08/201081717214451776.html)
-4. [BBC](http://www.bbc.co.uk/news/world-middle-east-11008022)
-5. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=185097)
+1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/08/201081717214451776.html)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11008022)
+3. [Haaretz](http://www.haaretz.com/print-edition/news/palestinian-shot-after-seeking-asylum-in-turkish-embassy-in-ta-1.308665)
+4. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=185097)
+5. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/18/c_13449517.htm)
 
 ### Related:
 

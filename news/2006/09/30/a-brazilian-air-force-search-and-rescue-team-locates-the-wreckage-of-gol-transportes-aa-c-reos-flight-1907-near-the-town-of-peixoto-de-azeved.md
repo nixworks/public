@@ -7,9 +7,9 @@ Prosecutors could charge two American pilots of an executive jet with manslaught
 
 ### Source:
 
-1. [Globo, Portuguese](http://g1.globo.com/Noticias/Brasil/0,,AA1291906-5598,00.html)
-2. [Reuters](http://www.alertnet.org/thenews/newsdesk/N29226741.htm)
-3. [AP](http://www.msnbc.msn.com/id/15067143/)
+1. [AP](http://www.msnbc.msn.com/id/15067143/)
+2. [Globo, Portuguese](http://g1.globo.com/Noticias/Brasil/0,,AA1291906-5598,00.html)
+3. [Reuters](http://www.alertnet.org/thenews/newsdesk/N29226741.htm)
 
 ### Related:
 

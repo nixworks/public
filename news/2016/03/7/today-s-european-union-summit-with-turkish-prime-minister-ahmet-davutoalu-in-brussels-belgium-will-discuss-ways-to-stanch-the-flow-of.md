@@ -7,14 +7,14 @@ The EU holds a key summit with Turkey on tackling the refugee crisis, as the Tur
 
 ### Source:
 
-1. [Voice of America](http://www.voanews.com/content/eu-looks-to-turkey-to-ease-migrant-crisis/3222611.html)
+1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/europe/eu-leaders-to-press-turkey-back-greece-at-migrant-summit/2016/03/07/254d4e06-e440-11e5-a9ce-681055c7a05f_story.html)
 2. [AP via ABC News](http://abcnews.go.com/International/wireStory/doctors-borders-opens-migrant-camp-france-37464390)
-3. [Kathimerini](http://www.ekathimerini.com/206691/article/ekathimerini/news/eu-set-to-propose-more-greece-aid-as-balkan-route-now-closed)
-4. [CNN](http://www.cnn.com/2016/03/07/europe/europe-migrant-crisis-summit/)
-5. [AP via ''The Washington Post](https://www.washingtonpost.com/world/europe/eu-leaders-to-press-turkey-back-greece-at-migrant-summit/2016/03/07/254d4e06-e440-11e5-a9ce-681055c7a05f_story.html)
-6. [Summit website](http://www.consilium.europa.eu/en/meetings/international-summit/2016/07/)
-7. [BBC](http://www.bbc.com/news/world-europe-35741494)
-8. [Business Day](http://www.bdlive.co.za/world/europe/2016/03/07/eu-leaders-press-turkey-to-help-ease-migrant-crisis)
+3. [BBC](http://www.bbc.com/news/world-europe-35741494)
+4. [Business Day](http://www.bdlive.co.za/world/europe/2016/03/07/eu-leaders-press-turkey-to-help-ease-migrant-crisis)
+5. [CNN](http://www.cnn.com/2016/03/07/europe/europe-migrant-crisis-summit/)
+6. [Kathimerini](http://www.ekathimerini.com/206691/article/ekathimerini/news/eu-set-to-propose-more-greece-aid-as-balkan-route-now-closed)
+7. [Summit website](http://www.consilium.europa.eu/en/meetings/international-summit/2016/07/)
+8. [Voice of America](http://www.voanews.com/content/eu-looks-to-turkey-to-ease-migrant-crisis/3222611.html)
 
 ### Related:
 

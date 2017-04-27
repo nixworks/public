@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2015/03/07/europe/russia-nemtsov-murder-arrest/index.html)
-2. [AP](http://bigstory.ap.org/article/a371bf8eabce499495e2b6bcd578d3aa/nemtsov-killing-suspects-whereabouts-unknown)
+1. [AP](http://bigstory.ap.org/article/a371bf8eabce499495e2b6bcd578d3aa/nemtsov-killing-suspects-whereabouts-unknown)
+2. [CNN](http://www.cnn.com/2015/03/07/europe/russia-nemtsov-murder-arrest/index.html)
 
 ### Related:
 

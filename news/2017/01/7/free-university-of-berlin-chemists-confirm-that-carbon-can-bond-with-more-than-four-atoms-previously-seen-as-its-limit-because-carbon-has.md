@@ -7,8 +7,8 @@ This molecule doesn&#039;t play by the rules.
 
 ### Source:
 
-1. [Science News](https://www.sciencenews.org/article/carbon-can-exceed-four-bond-limit)
-2. [ (ZME Science](https://www.zmescience.com/science/news-science/carbon-six-bond-molecule/)
+1. [ (ZME Science](https://www.zmescience.com/science/news-science/carbon-six-bond-molecule/)
+2. [Science News](https://www.sciencenews.org/article/carbon-can-exceed-four-bond-limit)
 
 ### Related:
 

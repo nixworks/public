@@ -7,13 +7,13 @@ Another 200 people died in clashes with Uzbekistan security forces on top of 500
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2005/WORLD/asiapcf/05/16/uzbekistan.unrest/)
-2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L16708160.htm)
-3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4549873.stm)
-4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8505718)
-5. [CBC](http://www.cbc.ca/world/story/2005/05/16/uzbekistan050516.html)
-6. [Moscow Times](http://www.moscowtimes.ru/stories/2005/05/16/003.html)
-7. [IHT](http://www.iht.com/articles/2005/05/16/artsevents/web.0516uzbek.php)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4549873.stm)
+2. [CBC](http://www.cbc.ca/world/story/2005/05/16/uzbekistan050516.html)
+3. [CNN](http://edition.cnn.com/2005/WORLD/asiapcf/05/16/uzbekistan.unrest/)
+4. [IHT](http://www.iht.com/articles/2005/05/16/artsevents/web.0516uzbek.php)
+5. [Moscow Times](http://www.moscowtimes.ru/stories/2005/05/16/003.html)
+6. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L16708160.htm)
+7. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8505718)
 
 ### Related:
 

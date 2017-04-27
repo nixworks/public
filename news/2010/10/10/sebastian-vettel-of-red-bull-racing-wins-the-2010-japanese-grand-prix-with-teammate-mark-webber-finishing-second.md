@@ -7,8 +7,8 @@ Red Bulls Sebastian Vettel won the Japanese Grand Prix on Sunday ahead of team-m
 
 ### Source:
 
-1. [Sky Sports](http://www.skysports.com/story/0,19528,12475_6437002,00.html)
-2. [Fox Sports](http://www.foxsports.com.au/motor-sports/red-bulls-sebastian-vettel-wins-japanese-grand-prix-with-teammate-mark-webber-second/story-e6frf3z3-1225936805127)
+1. [Fox Sports](http://www.foxsports.com.au/motor-sports/red-bulls-sebastian-vettel-wins-japanese-grand-prix-with-teammate-mark-webber-second/story-e6frf3z3-1225936805127)
+2. [Sky Sports](http://www.skysports.com/story/0,19528,12475_6437002,00.html)
 
 ### Related:
 

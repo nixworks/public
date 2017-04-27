@@ -7,8 +7,8 @@ Paul and Rachel Chandler fly to Kenya after huge ransom is reportedly paid to en
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2010/nov/14/paul-rachel-chandler-released-somali-pirates)
-2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/11/201011147544682396.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/11/201011147544682396.html)
+2. [The Guardian](http://www.guardian.co.uk/world/2010/nov/14/paul-rachel-chandler-released-somali-pirates)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [ABC](http://www.abc.net.au/news/newsitems/200508/s1447219.htm)
-2. [365gay.com](http://www.365gay.com/newscon05/08/082605fiji.htm)
+1. [365gay.com](http://www.365gay.com/newscon05/08/082605fiji.htm)
+2. [ABC](http://www.abc.net.au/news/newsitems/200508/s1447219.htm)
 
 ### Related:
 

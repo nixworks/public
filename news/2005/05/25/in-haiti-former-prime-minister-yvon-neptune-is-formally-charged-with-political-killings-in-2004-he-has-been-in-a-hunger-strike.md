@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4581219.stm)
-2. [Jamaica Observer](http://www.jamaicaobserver.com/news/html/20050525T200000-0500_81150_OBS_FORMER_HAITI_PREMIER_GETS_HIS_DAY_IN_COURT.asp)
-3. [Caribbean Net News](http://www.caribbeannetnews.com/2005/05/26/judge.shtml)
+2. [Caribbean Net News](http://www.caribbeannetnews.com/2005/05/26/judge.shtml)
+3. [Jamaica Observer](http://www.jamaicaobserver.com/news/html/20050525T200000-0500_81150_OBS_FORMER_HAITI_PREMIER_GETS_HIS_DAY_IN_COURT.asp)
 
 ### Related:
 

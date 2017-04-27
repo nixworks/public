@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Voice Of Russia](http://english.ruvr.ru/2013_01_20/Mine-accident-in-Russia-s-Kemerovo-region-at-least-4-dead/)
-2. [RIA Novosti](http://en.rian.ru/russia/20130120/178898641/Four-Dead-in-Russian-Coal-Mine-Accident.html)
+1. [RIA Novosti](http://en.rian.ru/russia/20130120/178898641/Four-Dead-in-Russian-Coal-Mine-Accident.html)
+2. [Voice Of Russia](http://english.ruvr.ru/2013_01_20/Mine-accident-in-Russia-s-Kemerovo-region-at-least-4-dead/)
 
 ### Related:
 

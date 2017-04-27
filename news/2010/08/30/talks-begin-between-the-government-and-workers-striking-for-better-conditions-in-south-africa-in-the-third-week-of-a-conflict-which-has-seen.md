@@ -7,9 +7,9 @@ The South African government begins talks with striking workers after President 
 
 ### Source:
 
-1. [TIMES Live](http://www.timeslive.co.za/business/article630645.ece/Government-silent-on-public-service-strike-offer)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-11129079)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE67T2S920100830?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FUKTopNews+%28News+%2F+UK+%2F+Top+News%29)
-3. [BBC](http://www.bbc.co.uk/news/world-africa-11129079)
+3. [TIMES Live](http://www.timeslive.co.za/business/article630645.ece/Government-silent-on-public-service-strike-offer)
 
 ### Related:
 

@@ -7,13 +7,13 @@ Australian stocks staged a spectacular recovery today, reversing a massive slide
 
 ### Source:
 
-1. [Yonhap](http://english.yonhapnews.co.kr/business/2011/08/09/42/0503000000AEN20110809003400320F.HTML)
-2. [News Limited](http://www.news.com.au/business/australia-faces-market-test-of-nerves/story-e6frfm1i-1226111305525)
-3. [Market Watch](http://www.marketwatch.com/story/hong-kong-shares-plunge-to-enter-bear-territory-2011-08-08)
+1. [Bloomberg](http://www.bloomberg.com/news/2011-08-09/australia-dollar-drops-below-1-01-first-time-since-march-as-stocks-slide.html)
+2. [Market Watch](http://www.marketwatch.com/story/hong-kong-shares-plunge-to-enter-bear-territory-2011-08-08)
+3. [News Limited](http://www.news.com.au/business/australia-faces-market-test-of-nerves/story-e6frfm1i-1226111305525)
 4. [Reuters](http://www.reuters.com/article/2011/08/09/australia-cba-idUSL3E7J83MT20110809)
-5. [Bloomberg](http://www.bloomberg.com/news/2011-08-09/australia-dollar-drops-below-1-01-first-time-since-march-as-stocks-slide.html)
-6. [Sydney Morning Herald](http://www.smh.com.au/business/markets/shares-in-free-fall-amid-global-panic-20110809-1ijzf.html)
-7. [Wall Street Journal](http://online.wsj.com/article/BT-CO-20110809-721856.html)
+5. [Sydney Morning Herald](http://www.smh.com.au/business/markets/shares-in-free-fall-amid-global-panic-20110809-1ijzf.html)
+6. [Wall Street Journal](http://online.wsj.com/article/BT-CO-20110809-721856.html)
+7. [Yonhap](http://english.yonhapnews.co.kr/business/2011/08/09/42/0503000000AEN20110809003400320F.HTML)
 
 ### Related:
 

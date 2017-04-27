@@ -7,8 +7,8 @@ Albertans go the polls today following an election campaign that quickly became 
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/2012/04/24/canada-alberta-election-idUKL2E8FO0E120120424)
-2. [CBC](http://www.cbc.ca/news/canada/albertavotes2012/story/2012/04/22/albertavotes2012-election-day.html)
+1. [CBC](http://www.cbc.ca/news/canada/albertavotes2012/story/2012/04/22/albertavotes2012-election-day.html)
+2. [Reuters](http://uk.reuters.com/article/2012/04/24/canada-alberta-election-idUKL2E8FO0E120120424)
 
 ### Related:
 

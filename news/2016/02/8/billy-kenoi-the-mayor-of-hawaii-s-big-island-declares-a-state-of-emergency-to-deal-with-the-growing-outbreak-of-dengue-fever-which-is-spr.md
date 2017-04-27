@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-hawaii-dengue-idUSKCN0VI0G2)
-2. [Huffington Post](http://www.huffingtonpost.com/entry/hawaii-dengue-emergency_us_56b92060e4b04f9b57dadece)
+1. [Huffington Post](http://www.huffingtonpost.com/entry/hawaii-dengue-emergency_us_56b92060e4b04f9b57dadece)
+2. [Reuters](http://www.reuters.com/article/us-hawaii-dengue-idUSKCN0VI0G2)
 
 ### Related:
 

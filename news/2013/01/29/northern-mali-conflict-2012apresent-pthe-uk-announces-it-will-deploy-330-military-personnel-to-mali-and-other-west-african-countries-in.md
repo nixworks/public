@@ -8,8 +8,8 @@ The UK is to deploy about 330 military personnel to Mali and West Africa to supp
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21240676)
-2. [France 24](http://www.france24.com/en/20130128-mali-kidal-tuareg-rebels-mnla-control-last-major-northern-malian-city)
-3. [CNN](http://edition.cnn.com/2013/01/29/world/africa/mali-military-offensive)
+2. [CNN](http://edition.cnn.com/2013/01/29/world/africa/mali-military-offensive)
+3. [France 24](http://www.france24.com/en/20130128-mali-kidal-tuareg-rebels-mnla-control-last-major-northern-malian-city)
 
 ### Related:
 

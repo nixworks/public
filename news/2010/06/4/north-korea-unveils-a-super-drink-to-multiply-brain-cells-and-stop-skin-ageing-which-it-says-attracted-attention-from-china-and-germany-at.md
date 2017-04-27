@@ -7,9 +7,9 @@ North Korea announces the development of a &quot;super drink&quot; that, it says
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/northkorea/7804677/North-Korea-creates-super-drink.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10237314.stm)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE6531GD20100604)
-3. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10237314.stm)
+3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/northkorea/7804677/North-Korea-creates-super-drink.html)
 
 ### Related:
 

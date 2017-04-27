@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2012/01/06/world/meast/syria-unrest/?hpt=hp_t3)
-2. [Al Arabiya](http://english.alarabiya.net/articles/2012/01/06/186757.html)
+1. [Al Arabiya](http://english.alarabiya.net/articles/2012/01/06/186757.html)
+2. [CNN](http://www.cnn.com/2012/01/06/world/meast/syria-unrest/?hpt=hp_t3)
 
 ### Related:
 

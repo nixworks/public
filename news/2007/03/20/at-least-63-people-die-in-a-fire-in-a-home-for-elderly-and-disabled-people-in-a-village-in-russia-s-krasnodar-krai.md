@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via CNN](http://edition.cnn.com/2007/WORLD/europe/03/20/russia.fire.ap/index.html)
-2. [AFP via Independent Online South Africa](http://www.iol.co.za/index.php?set_id=1&click_id=24&art_id=nw20070320050250267C968575)
+1. [AFP via Independent Online South Africa](http://www.iol.co.za/index.php?set_id=1&click_id=24&art_id=nw20070320050250267C968575)
+2. [AP via CNN](http://edition.cnn.com/2007/WORLD/europe/03/20/russia.fire.ap/index.html)
 
 ### Related:
 

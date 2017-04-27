@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [therawstory](http://rawstory.com/news/2008/McCain_asked_about_PNAC_and_911_0710.html)
-2. [Current.com](http://current.com/items/89092164_mccain_asked_about_pnac_and_9_11_at_town_hall)
+1. [Current.com](http://current.com/items/89092164_mccain_asked_about_pnac_and_9_11_at_town_hall)
+2. [therawstory](http://rawstory.com/news/2008/McCain_asked_about_PNAC_and_911_0710.html)
 
 ### Related:
 

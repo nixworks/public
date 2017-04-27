@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/americas/8123126.stm)
-2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20090626/ap_on_re_la_am_ca/lt_honduras_constitution)
+1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20090626/ap_on_re_la_am_ca/lt_honduras_constitution)
+2. [BBC](http://news.bbc.co.uk/2/hi/americas/8123126.stm)
 3. [Dow Jones via NASDAQ](http://www.nasdaq.com/aspx/stock-market-news-story.aspx?storyid=200906281618dowjonesdjonline000280&title=honduras-congress-names-micheletti-president)
 
 ### Related:

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Monsters and Critics](http://news.monstersandcritics.com/europe/news/article_1336243.php/Another_Czech_village_rejects_US_radar_in_a_local_referendum)
-2. [Ceske Noviny](http://www.ceskenoviny.cz/news/index_view.php?id=264107)
+1. [Ceske Noviny](http://www.ceskenoviny.cz/news/index_view.php?id=264107)
+2. [Monsters and Critics](http://news.monstersandcritics.com/europe/news/article_1336243.php/Another_Czech_village_rejects_US_radar_in_a_local_referendum)
 
 ### Related:
 

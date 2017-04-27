@@ -7,11 +7,11 @@ Three Israeli border police were injured when they were hit by a car in the occu
 
 ### Source:
 
-1. [The Daily Star](http://www.dailystar.com.lb/Article.aspx?id=321129&link=News/Middle-East/2015/Nov-01/321129-3-israelis-police-hurt-in-west-bank-car-ramming-attack-police.ashx)
+1. [AFP via Yahoo News](http://news.yahoo.com/3-israeli-police-reported-hurt-west-bank-car-180154542.html)
 2. [Al Jazeera](http://america.aljazeera.com/articles/2015/10/31/israeli-forces-shoot-palestinian-who-allegedly-wielding-knife.html)
 3. [Haaretz](http://www.haaretz.com/israel-news/.premium-1.683193)
 4. [Reuters](http://www.reuters.com/article/2015/11/01/us-israel-palestinians-idUSKCN0SQ21H20151101)
-5. [AFP via Yahoo News](http://news.yahoo.com/3-israeli-police-reported-hurt-west-bank-car-180154542.html)
+5. [The Daily Star](http://www.dailystar.com.lb/Article.aspx?id=321129&link=News/Middle-East/2015/Nov-01/321129-3-israelis-police-hurt-in-west-bank-car-ramming-attack-police.ashx)
 
 ### Related:
 

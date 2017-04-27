@@ -7,9 +7,9 @@ After 36 rounds of non-stop action and three close decisions throughout their ri
 
 ### Source:
 
-1. [ESPN](http://espn.go.com/boxing/story/_/id/8723391/manny-pacquiao-juan-manuel-marquez-seek-closure-fight-no-4)
-2. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5iYwCLx3wDzaIQqRCKz_pgH0iClbg)
-3. [BBC](http://www.bbc.co.uk/sport/0/boxing/20630465)
+1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5iYwCLx3wDzaIQqRCKz_pgH0iClbg)
+2. [BBC](http://www.bbc.co.uk/sport/0/boxing/20630465)
+3. [ESPN](http://espn.go.com/boxing/story/_/id/8723391/manny-pacquiao-juan-manuel-marquez-seek-closure-fight-no-4)
 
 ### Related:
 

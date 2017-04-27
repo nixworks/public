@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Euronews](http://www.euronews.net/2009/09/18/walesa-backs-ireland-s-lisbon-referendum-yes/)
-2. [The Times](http://www.timesonline.co.uk/tol/news/world/ireland/article6840682.ece)
-3. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2009/0919/1224254861207.html)
+2. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2009/0919/1224254861207.html)
+3. [The Times](http://www.timesonline.co.uk/tol/news/world/ireland/article6840682.ece)
 
 ### Related:
 

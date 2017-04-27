@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Business Green](http://www.businessgreen.com/bg/news/3007442/article-50-uk-confirms-plans-to-pull-out-of-euratom-after-brexit)
-2. [ARD](http://www.tagesschau.de/ausland/brexit-453.html)
+1. [ARD](http://www.tagesschau.de/ausland/brexit-453.html)
+2. [Business Green](http://www.businessgreen.com/bg/news/3007442/article-50-uk-confirms-plans-to-pull-out-of-euratom-after-brexit)
 
 ### Related:
 

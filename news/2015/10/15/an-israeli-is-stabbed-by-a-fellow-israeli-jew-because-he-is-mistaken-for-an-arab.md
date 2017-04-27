@@ -7,8 +7,8 @@ Uri Rezken, the victim of a stabbing attack in Kiryat Ata, in Haifa, Israel, des
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/world/video/2015/oct/15/israeli-stabbing-victim-i-was-mistaken-for-arab-in-hate-attack-video)
-2. [New York Times](http://www.nytimes.com/2015/10/16/world/middleeast/jewish-man-stabbed-by-fellow-israeli-in-botched-revenge-attack-denounces-ethnic-violence.html)
+1. [New York Times](http://www.nytimes.com/2015/10/16/world/middleeast/jewish-man-stabbed-by-fellow-israeli-in-botched-revenge-attack-denounces-ethnic-violence.html)
+2. [The Guardian](http://www.theguardian.com/world/video/2015/oct/15/israeli-stabbing-victim-i-was-mistaken-for-arab-in-hate-attack-video)
 
 ### Related:
 

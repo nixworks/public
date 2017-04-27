@@ -7,8 +7,8 @@ Unidentified attackers hacked to death a university teacher in northwestern Bang
 
 ### Source:
 
-1. [Hindustan Times](http://www.hindustantimes.com/world/professor-hacked-to-death-near-home-in-bangladesh-in-latest-attacks/story-spHgh3C0iaxtEqkP6mpbAN.html)
-2. [AFP via Yahoo!](http://finance.yahoo.com/news/group-claims-responsibility-killing-bangladesh-professor-150151288.html)
+1. [AFP via Yahoo!](http://finance.yahoo.com/news/group-claims-responsibility-killing-bangladesh-professor-150151288.html)
+2. [Hindustan Times](http://www.hindustantimes.com/world/professor-hacked-to-death-near-home-in-bangladesh-in-latest-attacks/story-spHgh3C0iaxtEqkP6mpbAN.html)
 
 ### Related:
 

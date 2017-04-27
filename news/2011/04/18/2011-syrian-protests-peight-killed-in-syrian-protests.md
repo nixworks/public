@@ -7,8 +7,8 @@ Get the latest BBC News from the Middle East: breaking news, features, analysis 
 
 ### Source:
 
-1. [Haaretz](http://www.haaretz.com/news/international/report-senior-syria-officer-assassinated-over-unwillingness-to-open-fire-at-protesters-1.356660)
-2. [BBC](http://www.bbc.co.uk/news/world/middle_east/)
+1. [BBC](http://www.bbc.co.uk/news/world/middle_east/)
+2. [Haaretz](http://www.haaretz.com/news/international/report-senior-syria-officer-assassinated-over-unwillingness-to-open-fire-at-protesters-1.356660)
 3. [Haaretz](http://www.haaretz.com/news/international/syria-city-boiling-after-security-forces-reportedly-kill-12-protesters-1.356647)
 
 ### Related:

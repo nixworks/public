@@ -7,8 +7,8 @@ A case has been registered against unknown persons at the Aram Bagh police stati
 
 ### Source:
 
-1. [The Express Tribune](http://tribune.com.pk/story/568528/5-killed-12-injured-in-karachi-blast/)
-2. [Dawn](http://dawn.com/news/1020899/at-least-nine-killed-as-shc-judge-targeted-in-karachi-bomb-attack)
+1. [Dawn](http://dawn.com/news/1020899/at-least-nine-killed-as-shc-judge-targeted-in-karachi-bomb-attack)
+2. [The Express Tribune](http://tribune.com.pk/story/568528/5-killed-12-injured-in-karachi-blast/)
 
 ### Related:
 

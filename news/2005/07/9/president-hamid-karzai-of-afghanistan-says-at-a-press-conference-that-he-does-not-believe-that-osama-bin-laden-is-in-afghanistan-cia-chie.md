@@ -7,8 +7,8 @@ Osama bin Laden is not in Afghanistan, President Hamid Karzai says.
 
 ### Source:
 
-1. [CNN](https://web.archive.org/web/20100105021333/http://www.cnn.com/2005/US/06/20/goss.bin.laden/)
-2. [Al-Jazeera](http://www.aljazeera.com/archive/2005/07/20084913255215107.html)
+1. [Al-Jazeera](http://www.aljazeera.com/archive/2005/07/20084913255215107.html)
+2. [CNN](https://web.archive.org/web/20100105021333/http://www.cnn.com/2005/US/06/20/goss.bin.laden/)
 
 ### Related:
 

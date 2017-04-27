@@ -7,8 +7,8 @@ Marit Bjoergen secured her 12th world title on Saturday in Val di Fiemme, Italy 
 
 ### Source:
 
-1. [Eurosport](http://uk.eurosport.yahoo.com/news/cross-country-skiing-olsson-takes-remarkable-gold-val-142435302.html)
-2. [CBC](http://www.cbc.ca/sports/olympics/story/2013/03/02/sp-x-country-marit-bjoergen.html)
+1. [CBC](http://www.cbc.ca/sports/olympics/story/2013/03/02/sp-x-country-marit-bjoergen.html)
+2. [Eurosport](http://uk.eurosport.yahoo.com/news/cross-country-skiing-olsson-takes-remarkable-gold-val-142435302.html)
 
 ### Related:
 

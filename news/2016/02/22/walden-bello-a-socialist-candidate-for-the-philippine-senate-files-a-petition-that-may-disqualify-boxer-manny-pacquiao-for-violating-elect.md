@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/aponline/2016/02/22/world/asia/ap-as-philippines-pacquiao.html)
+1. [Fox Sports](http://www.foxsports.com/boxing/story/manny-pacquiao-philippine-senator-candidate-petition-stop-boxing-timothy-bradley-match-unfair-publicity-022216)
 2. [Rappler](http://www.rappler.com/nation/politics/elections/2016/123283-manny-pacquiao-bradley-comelec-bello)
-3. [Fox Sports](http://www.foxsports.com/boxing/story/manny-pacquiao-philippine-senator-candidate-petition-stop-boxing-timothy-bradley-match-unfair-publicity-022216)
+3. [The New York Times](http://www.nytimes.com/aponline/2016/02/22/world/asia/ap-as-philippines-pacquiao.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5g_X0-uBOvSPzA7CpiXbTKH-4e0QgD9E5DIQ80)
-2. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=352993&CategoryId=14090)
+1. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=352993&CategoryId=14090)
+2. [The Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5g_X0-uBOvSPzA7CpiXbTKH-4e0QgD9E5DIQ80)
 
 ### Related:
 

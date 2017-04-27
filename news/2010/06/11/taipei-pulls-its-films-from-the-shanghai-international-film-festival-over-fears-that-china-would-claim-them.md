@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Asiaone](http://news.asiaone.com/News/Latest%2BNews/Asia/Story/A1Story20100611-221675.html)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iOcXsaaEfKSxZJFswzP-dBrQmjLgD9G8T2H80)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iOcXsaaEfKSxZJFswzP-dBrQmjLgD9G8T2H80)
+2. [Asiaone](http://news.asiaone.com/News/Latest%2BNews/Asia/Story/A1Story20100611-221675.html)
 
 ### Related:
 

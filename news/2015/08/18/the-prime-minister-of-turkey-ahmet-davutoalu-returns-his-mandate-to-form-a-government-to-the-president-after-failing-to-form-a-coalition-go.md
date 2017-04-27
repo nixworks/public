@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The News Hub](https://www.the-newshub.com/politics/turkey-close-to-snap-election-as-erdogans-party-fails-to-find-coalition-partner)
-2. [BBC](http://www.bbc.com/news/world-europe-33972120)
+1. [BBC](http://www.bbc.com/news/world-europe-33972120)
+2. [The News Hub](https://www.the-newshub.com/politics/turkey-close-to-snap-election-as-erdogans-party-fails-to-find-coalition-partner)
 
 ### Related:
 

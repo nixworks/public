@@ -7,9 +7,9 @@ The interim government of Kyrgyzstan declares a state of emergency in the southe
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/asia_pacific/10127928.stm)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hbaJ4FKRgvRUjqmBoyfYUmpG0vJgD9FPSVCG0)
-3. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/05/2010519112828272905.html)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hbaJ4FKRgvRUjqmBoyfYUmpG0vJgD9FPSVCG0)
+2. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/05/2010519112828272905.html)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/asia_pacific/10127928.stm)
 
 ### Related:
 

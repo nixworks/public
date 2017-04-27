@@ -8,8 +8,8 @@ Qualifier between Serbia and Albania was abandoned on Tuesday following a brawl 
 ### Source:
 
 1. [BBC](http://www.bbc.com/sport/0/football/29604464)
-2. [The Sydney Morning Herald](http://www.smh.com.au/sport/soccer/serbias-euro-2016-qualifier-with-albania-abandoned-after-brawl-20141015-1165e9.html)
-3. [Independent](http://www.independent.ie/sport/soccer/international-soccer/brother-of-albanian-prime-minister-arrested-after-flag-stunt-causes-mass-brawl-on-pitch-30664963.html)
+2. [Independent](http://www.independent.ie/sport/soccer/international-soccer/brother-of-albanian-prime-minister-arrested-after-flag-stunt-causes-mass-brawl-on-pitch-30664963.html)
+3. [The Sydney Morning Herald](http://www.smh.com.au/sport/soccer/serbias-euro-2016-qualifier-with-albania-abandoned-after-brawl-20141015-1165e9.html)
 
 ### Related:
 

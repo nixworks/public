@@ -8,13 +8,13 @@ Israel advocacy group StandWithUs to surprise the European convoy at sea.
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/meast/05/28/gaza.protest/)
-2. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=176695)
-3. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3895506,00.html)
-4. [Reuters](http://www.reuters.com/article/idUSTRE64R4TD20100528)
-5. [The Australian](http://www.theaustralian.com.au/news/world/israelis-take-to-seas-to-avoid-pr-disaster-over-gaza-activist-flotilla/story-e6frg6so-1225872718470)
-6. [The Guardian](http://www.guardian.co.uk/world/2010/may/28/israeli-navy-activists-gaza-blockade)
+2. [Reuters](http://www.reuters.com/article/idUSTRE64R4TD20100528)
+3. [The Australian](http://www.theaustralian.com.au/news/world/israelis-take-to-seas-to-avoid-pr-disaster-over-gaza-activist-flotilla/story-e6frg6so-1225872718470)
+4. [The Guardian](http://www.guardian.co.uk/world/2010/may/28/israeli-navy-activists-gaza-blockade)
+5. [The Hindu](http://beta.thehindu.com/news/international/article440416.ece)
+6. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=176695)
 7. [The Sydney Morning Herald](http://www.smh.com.au/world/uncertainty-reigns-as-blockade-breakers-set-off-20100528-wlgg.html)
-8. [The Hindu](http://beta.thehindu.com/news/international/article440416.ece)
+8. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3895506,00.html)
 
 ### Related:
 

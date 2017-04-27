@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters](http://af.reuters.com/article/energyOilNews/idAFSGE68K0D420100921?sp=true)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gk3wdMIkq8L96kd_dHSTGEdc7MXQ)
-3. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/20100921/news_20100921_56_700027.htm)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gk3wdMIkq8L96kd_dHSTGEdc7MXQ)
+2. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/20100921/news_20100921_56_700027.htm)
+3. [Reuters](http://af.reuters.com/article/energyOilNews/idAFSGE68K0D420100921?sp=true)
 
 ### Related:
 

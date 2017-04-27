@@ -7,8 +7,8 @@ Ted Dawe’s Into the River is banned from shops, schools and distribution acros
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/world/2015/sep/07/new-zealand-bans-into-the-river-teenage-novel-outcry-christian-group)
-2. [Radio New Zealand Online](http://www.radionz.co.nz/news/national/283651/school-librarians-nonplussed-by-ban)
+1. [Radio New Zealand Online](http://www.radionz.co.nz/news/national/283651/school-librarians-nonplussed-by-ban)
+2. [The Guardian](http://www.theguardian.com/world/2015/sep/07/new-zealand-bans-into-the-river-teenage-novel-outcry-christian-group)
 
 ### Related:
 

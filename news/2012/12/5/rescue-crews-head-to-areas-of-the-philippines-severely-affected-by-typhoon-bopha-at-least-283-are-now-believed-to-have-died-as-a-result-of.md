@@ -7,10 +7,10 @@ The death toll from a powerful storm battering the southern Philippines rises to
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2012/12/06/world/asia/typhoon-said-to-have-killed-hundreds-in-philippines.html?ref=world)
-2. [The Weather Channel](http://www.weather.com/news/typhoon-bopha-20121203)
-3. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/12/201212553732512410.html)
-4. [BBC](http://www.bbc.co.uk/news/world-asia-20604423)
+1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/12/201212553732512410.html)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-20604423)
+3. [New York Times](http://www.nytimes.com/2012/12/06/world/asia/typhoon-said-to-have-killed-hundreds-in-philippines.html?ref=world)
+4. [The Weather Channel](http://www.weather.com/news/typhoon-bopha-20121203)
 
 ### Related:
 

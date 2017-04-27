@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSN1623004620100516?type=marketsNews)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hrDOg_FNp6Oe8QXQpyz3gfYJaJGAD9FNPN4O2)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hrDOg_FNp6Oe8QXQpyz3gfYJaJGAD9FNPN4O2)
+2. [Reuters](http://www.reuters.com/article/idUSN1623004620100516?type=marketsNews)
 
 ### Related:
 

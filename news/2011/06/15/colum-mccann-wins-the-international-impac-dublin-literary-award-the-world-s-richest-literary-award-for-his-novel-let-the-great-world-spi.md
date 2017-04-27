@@ -7,8 +7,8 @@ Irish author Colum McCann wins the International Impac Dublin Literary Award for
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0615/breaking34.html)
-2. [BBC](http://www.bbc.co.uk/news/entertainment-arts-13778903)
+1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-13778903)
+2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0615/breaking34.html)
 
 ### Related:
 

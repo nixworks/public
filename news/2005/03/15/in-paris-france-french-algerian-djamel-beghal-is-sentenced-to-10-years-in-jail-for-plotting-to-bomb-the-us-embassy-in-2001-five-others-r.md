@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-03-15T165756Z_01_HOP547898_RTRUKOC_0_SECURITY-FRANCE-USA.xml)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4350525.stm)
 2. [IHT](http://www.iht.com/articles/2005/03/15/europe/web.0315france2.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/europe/4350525.stm)
+3. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-03-15T165756Z_01_HOP547898_RTRUKOC_0_SECURITY-FRANCE-USA.xml)
 
 ### Related:
 

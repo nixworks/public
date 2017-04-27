@@ -7,8 +7,8 @@ Swedish Social Democrat leader Stefan Lofven says he is ready to start coalition
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-europe-29195683)
-2. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-09-14-EU--Sweden-Election/id-7935f03d511e43b49259e884c4eb9b2c)
+1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-09-14-EU--Sweden-Election/id-7935f03d511e43b49259e884c4eb9b2c)
+2. [BBC](http://www.bbc.com/news/world-europe-29195683)
 
 ### Related:
 

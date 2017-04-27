@@ -7,8 +7,8 @@ The Syrian opposition reverses its decision to boycott international talks in Ro
 
 ### Source:
 
-1. [Christian Science Monitor](http://www.csmonitor.com/World/terrorism-security/2013/0225/In-shift-Syrian-regime-says-it-s-ready-to-talk-to-rebels)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-21577875)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21577875)
+2. [Christian Science Monitor](http://www.csmonitor.com/World/terrorism-security/2013/0225/In-shift-Syrian-regime-says-it-s-ready-to-talk-to-rebels)
 
 ### Related:
 

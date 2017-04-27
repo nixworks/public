@@ -7,8 +7,8 @@ At least six people are dead and 17 injured after militants attack parliament in
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/europe/10/19/chechnya.parliament.attack/index.html?eref=edition)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-11571673?utm_source=twitterfeed&utm_medium=twitter)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-11571673?utm_source=twitterfeed&utm_medium=twitter)
+2. [CNN](http://edition.cnn.com/2010/WORLD/europe/10/19/chechnya.parliament.attack/index.html?eref=edition)
 3. [RIA Novosti](http://en.rian.ru/russia/20101019/161010477.html)
 
 ### Related:

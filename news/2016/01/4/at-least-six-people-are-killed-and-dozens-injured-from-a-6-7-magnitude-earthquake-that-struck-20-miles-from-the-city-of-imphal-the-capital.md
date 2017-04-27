@@ -7,9 +7,9 @@ One person was reported dead and a dozen more people were injured after the quak
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/news/world/6-8-magnitude-earthquake-recorded-near-india-myanmar-border-n489501?cid=sm_tw&hootPostID=59bb1855b696023bda0ed83fba3e15a8)
-2. [AFP via Yahoo! News](http://news.yahoo.com/strong-6-8-quake-hits-near-india-myanmar-234201956.html;_ylt=AwrXgyJNAopWNSkA4mvQtDMD;_ylu=X3oDMTByb2lvbXVuBGNvbG8DZ3ExBHBvcwMxBHZ0aWQDBHNlYwNzcg--)
-3. [Ap](http://bigstory.ap.org/article/dfa3e5bb0aed487a843a35e3a1e3e10c/67-magnitude-quake-hits-indias-northeast)
+1. [AFP via Yahoo! News](http://news.yahoo.com/strong-6-8-quake-hits-near-india-myanmar-234201956.html;_ylt=AwrXgyJNAopWNSkA4mvQtDMD;_ylu=X3oDMTByb2lvbXVuBGNvbG8DZ3ExBHBvcwMxBHZ0aWQDBHNlYwNzcg--)
+2. [Ap](http://bigstory.ap.org/article/dfa3e5bb0aed487a843a35e3a1e3e10c/67-magnitude-quake-hits-indias-northeast)
+3. [NBC News](http://www.nbcnews.com/news/world/6-8-magnitude-earthquake-recorded-near-india-myanmar-border-n489501?cid=sm_tw&hootPostID=59bb1855b696023bda0ed83fba3e15a8)
 4. [The Times of India](http://timesofindia.indiatimes.com/india/1-dead-35-injured-after-massive-earthquake-jolts-northeastern-India/articleshow/50432055.cms?)
 
 ### Related:

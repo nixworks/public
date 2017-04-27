@@ -7,8 +7,8 @@ Polls Voters in Manitoba are set to elect their next government on Tuesday.
 
 ### Source:
 
-1. [Montreal Gazette](http://www.montrealgazette.com/sports/fourth+majority+Manitoba/5502604/story.html)
-2. [CBC](http://www.cbc.ca/news/canada/manitoba/story/2011/10/03/mbvotes-polls-111004.html)
+1. [CBC](http://www.cbc.ca/news/canada/manitoba/story/2011/10/03/mbvotes-polls-111004.html)
+2. [Montreal Gazette](http://www.montrealgazette.com/sports/fourth+majority+Manitoba/5502604/story.html)
 
 ### Related:
 

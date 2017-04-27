@@ -7,8 +7,8 @@ A magnitude 6.6 earthquake struck Tottori prefecture in western Japan, causing p
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-10-21/magnitude-6-6-quake-hits-western-japan-causing-strong-shaking)
-2. [BNO News](http://bnonews.com/news/index.php/news/id5355)
+1. [BNO News](http://bnonews.com/news/index.php/news/id5355)
+2. [Bloomberg](http://www.bloomberg.com/news/articles/2016-10-21/magnitude-6-6-quake-hits-western-japan-causing-strong-shaking)
 
 ### Related:
 

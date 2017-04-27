@@ -8,8 +8,8 @@ Clergyman arrested in February was previously shown in video released by regime 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-northkorea-canada-pastor-idUSKBN0TZ0CI20151216)
-2. [Xinhua News Agency](http://news.xinhuanet.com/english/2015-12/16/c_134922727.htm)
-3. [The Guardian](http://www.theguardian.com/world/2015/dec/16/hyeon-soo-lim-canadian-pastor-given-life-sentence-in-north-korea)
+2. [The Guardian](http://www.theguardian.com/world/2015/dec/16/hyeon-soo-lim-canadian-pastor-given-life-sentence-in-north-korea)
+3. [Xinhua News Agency](http://news.xinhuanet.com/english/2015-12/16/c_134922727.htm)
 
 ### Related:
 

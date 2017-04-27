@@ -7,8 +7,8 @@ Almost a million people have been evacuated from southeastern China as authoriti
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/5998497/Million-flee-as-typhoon-approaches-China.html)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jFKvDArPWzZ5d5uaSisoexNPI_mQ)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jFKvDArPWzZ5d5uaSisoexNPI_mQ)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/5998497/Million-flee-as-typhoon-approaches-China.html)
 3. [Xinhua](http://news.xinhuanet.com/english/2009-08/09/content_11851097.htm)
 
 ### Related:

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Daily Yomiuri](http://www.yomiuri.co.jp/dy/national/T110116002288.htm)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iihKMTMTzvlonCH80l5RiCF40OLw?docId=CNG.a694aad25f7218a1040371556827843b.251)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iihKMTMTzvlonCH80l5RiCF40OLw?docId=CNG.a694aad25f7218a1040371556827843b.251)
+2. [Daily Yomiuri](http://www.yomiuri.co.jp/dy/national/T110116002288.htm)
 
 ### Related:
 

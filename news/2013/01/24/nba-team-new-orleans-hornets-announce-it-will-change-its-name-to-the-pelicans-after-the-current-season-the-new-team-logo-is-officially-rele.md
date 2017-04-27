@@ -7,9 +7,9 @@ New Orleans changing its NBA nickname from Hornets to Pelicans was not a secret.
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/sports/nba/2013/01/24/new-orleans-hornets-pelicans/1862181/)
+1. [Bleacher Report](http://bleacherreport.com/articles/1499897-grading-the-official-new-orleans-pelicans-logo)
 2. [ESPN](http://espn.go.com/nba/story/_/id/8874159/report-new-orleans-hornets-change-name-pelicans-thursday)
-3. [Bleacher Report](http://bleacherreport.com/articles/1499897-grading-the-official-new-orleans-pelicans-logo)
+3. [USA Today](http://www.usatoday.com/story/sports/nba/2013/01/24/new-orleans-hornets-pelicans/1862181/)
 
 ### Related:
 

@@ -7,8 +7,8 @@ King Abdullah announces $10.7 billion in pay raises, job creation and loan forgi
 
 ### Source:
 
-1. [IOL](http://www.iol.co.za/news/world/saudi-arabia-s-king-returns-to-country-1.1031163)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/2011223105328424268.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/2011223105328424268.html)
+2. [IOL](http://www.iol.co.za/news/world/saudi-arabia-s-king-returns-to-country-1.1031163)
 
 ### Related:
 

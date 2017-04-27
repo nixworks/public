@@ -7,10 +7,10 @@ PM orders panel to freeze deliberations on construction in capital.
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=171705)
-2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/israel/7514285/Israel-spits-in-Obamas-eye-by-announcing-new-settlements-in-east-Jerusalem.html)
-3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/03/2010324131416372358.html)
-4. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8585483.stm)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/03/2010324131416372358.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8585483.stm)
+3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/israel/7514285/Israel-spits-in-Obamas-eye-by-announcing-new-settlements-in-east-Jerusalem.html)
+4. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=171705)
 5. [The Times](http://www.timesonline.co.uk/tol/news/world/middle_east/article7074436.ece)
 
 ### Related:

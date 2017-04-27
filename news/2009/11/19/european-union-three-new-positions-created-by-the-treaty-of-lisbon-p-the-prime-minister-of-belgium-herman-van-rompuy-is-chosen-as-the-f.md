@@ -7,9 +7,9 @@ Gordon Brown insisted tonight that Britain would remain a powerful voice in Brus
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/europe/8367589.stm)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5h9YSN1_JnLKgPuRouHX-hlSg8OQg)
 2. [BBC News](http://www.independent.co.uk/news/world/europe/baroness-ashton-becomes-europes-first-foreign-minister-1823742.html)
-3. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5h9YSN1_JnLKgPuRouHX-hlSg8OQg)
+3. [BBC](http://news.bbc.co.uk/2/hi/europe/8367589.stm)
 
 ### Related:
 

@@ -7,8 +7,8 @@ A woman in China is sentenced to a year in a labour camp after posting a message
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/11/18/china.tweet.punishment/?hpt=T2)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11784603)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11784603)
+2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/11/18/china.tweet.punishment/?hpt=T2)
 
 ### Related:
 

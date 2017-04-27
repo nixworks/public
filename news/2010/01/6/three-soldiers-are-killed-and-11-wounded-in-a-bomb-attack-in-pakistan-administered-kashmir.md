@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Press Trust of India](http://www.ptinews.com/news/454916_Three-soldiers-killed--11-hurt-in-suicide-attack-in-PoK)
-2. [Xinhua](http://news.xinhuanet.com/english/2010-01/06/content_12764384.htm)
-3. [Associated Press of Pakistan](http://www.app.com.pk/en_/index.php?option=com_content&task=view&id=93295&Itemid=1)
+1. [Associated Press of Pakistan](http://www.app.com.pk/en_/index.php?option=com_content&task=view&id=93295&Itemid=1)
+2. [Press Trust of India](http://www.ptinews.com/news/454916_Three-soldiers-killed--11-hurt-in-suicide-attack-in-PoK)
+3. [Xinhua](http://news.xinhuanet.com/english/2010-01/06/content_12764384.htm)
 
 ### Related:
 

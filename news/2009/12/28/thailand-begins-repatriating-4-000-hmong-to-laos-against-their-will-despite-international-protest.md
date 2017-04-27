@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bangkok Post](http://www.bangkokpost.com/news/asia/163776/thailand-starts-deporting-hmong-to-laos)
-2. [BBC News](http://news.bbc.co.uk/1/hi/world/asia-pacific/8432094.stm)
+1. [BBC News](http://news.bbc.co.uk/1/hi/world/asia-pacific/8432094.stm)
+2. [Bangkok Post](http://www.bangkokpost.com/news/asia/163776/thailand-starts-deporting-hmong-to-laos)
 
 ### Related:
 

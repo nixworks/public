@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BNO News](http://bnonews.com/news/index.php/news/id3860)
-2. [Aviation Safety Network](https://aviation-safety.net/database/record.php?id=20160315-0)
+1. [Aviation Safety Network](https://aviation-safety.net/database/record.php?id=20160315-0)
+2. [BNO News](http://bnonews.com/news/index.php/news/id3860)
 
 ### Related:
 

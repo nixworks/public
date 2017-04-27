@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2008-08/24/content_9671752.htm)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aAZ3Z09bWoXI&refer=home)
 2. [CNN](http://edition.cnn.com/2008/WORLD/europe/08/24/russia.georgia/index.html)
-3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aAZ3Z09bWoXI&refer=home)
+3. [Xinhua](http://news.xinhuanet.com/english/2008-08/24/content_9671752.htm)
 
 ### Related:
 

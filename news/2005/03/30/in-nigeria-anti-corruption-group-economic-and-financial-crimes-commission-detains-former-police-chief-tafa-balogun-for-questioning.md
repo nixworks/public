@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Vanguard, Nigeria](http://www.vanguardngr.com/articles/2002/headline/f130032005.html)
-2. [AllAfrica](http://allafrica.com/stories/200503300435.html)
-3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/IRIN/ef5128b45ebe4b71d7461468f4c7a137.htm)
+1. [AllAfrica](http://allafrica.com/stories/200503300435.html)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/IRIN/ef5128b45ebe4b71d7461468f4c7a137.htm)
+3. [Vanguard, Nigeria](http://www.vanguardngr.com/articles/2002/headline/f130032005.html)
 
 ### Related:
 

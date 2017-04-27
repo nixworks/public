@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/7000214.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8676351.stm)
 2. [CBS News](http://www.cbsnews.com/stories/2010/05/11/world/main6472827.shtml)
-3. [Radio Free Europe](http://www.rferl.org/content/Swedish_Muhammad_Cartoonist_Attacked_At_Lecture/2039201.html)
-4. [BBC](http://news.bbc.co.uk/2/hi/europe/8676351.stm)
+3. [Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/7000214.html)
+4. [Radio Free Europe](http://www.rferl.org/content/Swedish_Muhammad_Cartoonist_Attacked_At_Lecture/2039201.html)
 
 ### Related:
 

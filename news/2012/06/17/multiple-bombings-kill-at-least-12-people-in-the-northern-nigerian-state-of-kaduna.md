@@ -7,8 +7,8 @@ At least 36 people are killed in multiple blasts at several churches in northern
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-18475853)
-2. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/06/20126179452530898.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/06/20126179452530898.html)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-18475853)
 
 ### Related:
 

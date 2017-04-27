@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [ESPN](http://soccernet.espn.go.com/match/_/id/359768)
-2. [CNN](http://www.cnn.com/2013/01/24/sport/football/football-barcelona-real-madrid-malaga/)
+1. [CNN](http://www.cnn.com/2013/01/24/sport/football/football-barcelona-real-madrid-malaga/)
+2. [ESPN](http://soccernet.espn.go.com/match/_/id/359768)
 
 ### Related:
 

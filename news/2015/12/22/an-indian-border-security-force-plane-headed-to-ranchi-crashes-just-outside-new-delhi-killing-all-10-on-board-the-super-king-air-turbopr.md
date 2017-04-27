@@ -7,8 +7,8 @@ An aircraft crashed into a wall and burst into flames in Dwarka area, on the out
 
 ### Source:
 
-1. [Reuters](http://in.reuters.com/article/india-dwarka-crash-idINKBN0U50IO20151222)
-2. [AP via Fox News](http://www.foxnews.com/world/2015/12/22/indian-paramilitary-plane-crashes-killing-all-10-aboard.html)
+1. [AP via Fox News](http://www.foxnews.com/world/2015/12/22/indian-paramilitary-plane-crashes-killing-all-10-aboard.html)
+2. [Reuters](http://in.reuters.com/article/india-dwarka-crash-idINKBN0U50IO20151222)
 
 ### Related:
 

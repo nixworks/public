@@ -7,9 +7,9 @@ Bogota accuses Caracas of blowing up pedestrian bridges between two countries.
 
 ### Source:
 
-1. [Colombia Reports](http://colombiareports.com/colombia-news/news/6955-venezuelan-army-destroyed-two-bridges-in-colombia-ombudsman.html)
-2. [El Universal](http://english.eluniversal.com/2009/11/19/en_pol_esp_venezuelan-vp:-colom_19A3084531.shtml)
-3. [Al Jazeera](http://english.aljazeera.net/news/americas/2009/11/2009112004914250182.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/americas/2009/11/2009112004914250182.html)
+2. [Colombia Reports](http://colombiareports.com/colombia-news/news/6955-venezuelan-army-destroyed-two-bridges-in-colombia-ombudsman.html)
+3. [El Universal](http://english.eluniversal.com/2009/11/19/en_pol_esp_venezuelan-vp:-colom_19A3084531.shtml)
 
 ### Related:
 

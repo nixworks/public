@@ -7,11 +7,11 @@ Live text commentary as Chelsea beat Bayern Munich on penalties in the Champions
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/sport/0/football/18131939)
-2. [The Sydney Morning Herald](http://www.smh.com.au/sport/football/chelseas-old-guard-go-from-hasbeens-to-european-champions-20120520-1yyhf.html)
-3. [BBC](http://www.bbc.co.uk/sport/0/football/18044378)
-4. [Al Jazeera](http://www.aljazeera.com/sport/football/2012/05/201251921404127487.html)
-5. [The Guardian](http://www.guardian.co.uk/football/2012/may/19/champions-league-final-chelsea-bayern-live)
+1. [Al Jazeera](http://www.aljazeera.com/sport/football/2012/05/201251921404127487.html)
+2. [BBC](http://www.bbc.co.uk/sport/0/football/18044378)
+3. [BBC](http://www.bbc.co.uk/sport/0/football/18131939)
+4. [The Guardian](http://www.guardian.co.uk/football/2012/may/19/champions-league-final-chelsea-bayern-live)
+5. [The Sydney Morning Herald](http://www.smh.com.au/sport/football/chelseas-old-guard-go-from-hasbeens-to-european-champions-20120520-1yyhf.html)
 
 ### Related:
 

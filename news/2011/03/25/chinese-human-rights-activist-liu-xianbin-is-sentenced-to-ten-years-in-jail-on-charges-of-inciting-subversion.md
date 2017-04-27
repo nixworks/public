@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_649138.html)
-2. [AP via ''The Statesman](http://www.statesman.com/news/nation/china-sentences-democracy-activist-to-10-years-1347993.html)
+1. [AP via ''The Statesman](http://www.statesman.com/news/nation/china-sentences-democracy-activist-to-10-years-1347993.html)
+2. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_649138.html)
 
 ### Related:
 

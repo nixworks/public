@@ -7,8 +7,8 @@ A wave of car bombs and shootings across Iraq killed at least 36 people on Sunda
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/09/15/us-iraq-violence-idUSBRE98E04I20130915)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/09/201391584310296354.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/09/201391584310296354.html)
+2. [Reuters](http://www.reuters.com/article/2013/09/15/us-iraq-violence-idUSBRE98E04I20130915)
 
 ### Related:
 

@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Chessbase](http://www.chessbase.com/newsdetail.asp?newsid=6027)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5g1QmAdxADzyQCWyLLzs2N63owZEA)
-3. [TIME](http://www.time.com/time/world/article/0,8599,1948809,00.html)
-4. [Reuters](http://www.reuters.com/article/idUSTRE5BT17H20091230)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5g1QmAdxADzyQCWyLLzs2N63owZEA)
+2. [Chessbase](http://www.chessbase.com/newsdetail.asp?newsid=6027)
+3. [Reuters](http://www.reuters.com/article/idUSTRE5BT17H20091230)
+4. [TIME](http://www.time.com/time/world/article/0,8599,1948809,00.html)
 
 ### Related:
 

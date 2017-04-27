@@ -7,8 +7,8 @@ More than 100 Russian skinheads have attacked a music festival in central Russia
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/russia/20100830/160387766.html)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-11127706)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-11127706)
+2. [RIA Novosti](http://en.rian.ru/russia/20100830/160387766.html)
 
 ### Related:
 

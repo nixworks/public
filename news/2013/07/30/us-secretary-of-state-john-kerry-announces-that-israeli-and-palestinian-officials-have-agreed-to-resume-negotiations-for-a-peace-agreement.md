@@ -7,8 +7,8 @@ Israelis and Palestinians will aim to reach a final-status agreement to end thei
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/Diplomacy-and-Politics/Kerry-Sides-will-meet-again-to-continue-talks-within-two-weeks-321546)
-2. [CNN](http://www.cnn.com/2013/07/30/world/meast/mideast-peace/index.html?hpt=wo_c2)
+1. [CNN](http://www.cnn.com/2013/07/30/world/meast/mideast-peace/index.html?hpt=wo_c2)
+2. [The Jerusalem Post](http://www.jpost.com/Diplomacy-and-Politics/Kerry-Sides-will-meet-again-to-continue-talks-within-two-weeks-321546)
 3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/israel/10212073/Israelis-and-Palestinians-aim-for-final-status-peace-deal-in-nine-months.html)
 
 ### Related:

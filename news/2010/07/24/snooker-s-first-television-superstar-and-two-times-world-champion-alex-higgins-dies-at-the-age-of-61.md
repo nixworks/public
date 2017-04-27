@@ -7,12 +7,12 @@ Alex Higgins&rsquo; contribution to snooker can be measured in many ways &ndash;
 
 ### Source:
 
-1. [Hindustan Times](http://www.hindustantimes.com/Former-snooker-world-champion-Alex-Higgins-dies/Article1-577308.aspx)
-2. [RTÉ](http://www.rte.ie/news/2010/0724/higginsa.html)
-3. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10661101)
-4. [The Guardian](http://www.guardian.co.uk/sport/2010/jul/25/alex-higgins-dies-aged-61)
-5. [The Daily Telegraph](http://www.telegraph.co.uk/sport/othersports/snooker/7908747/Alex-Higginss-popularity-down-to-rare-magnetism-says-Steve-Davis.html)
-6. [BBC](http://news.bbc.co.uk/sport2/hi/other_sports/snooker/8852042.stm)
+1. [BBC](http://news.bbc.co.uk/sport2/hi/other_sports/snooker/8852042.stm)
+2. [Hindustan Times](http://www.hindustantimes.com/Former-snooker-world-champion-Alex-Higgins-dies/Article1-577308.aspx)
+3. [RTÉ](http://www.rte.ie/news/2010/0724/higginsa.html)
+4. [The Daily Telegraph](http://www.telegraph.co.uk/sport/othersports/snooker/7908747/Alex-Higginss-popularity-down-to-rare-magnetism-says-Steve-Davis.html)
+5. [The Guardian](http://www.guardian.co.uk/sport/2010/jul/25/alex-higgins-dies-aged-61)
+6. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10661101)
 
 ### Related:
 

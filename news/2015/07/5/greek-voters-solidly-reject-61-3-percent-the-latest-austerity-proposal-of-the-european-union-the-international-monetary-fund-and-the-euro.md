@@ -7,11 +7,11 @@ Greeks have been voting today on whether or not to accept the proposals put to t
 
 ### Source:
 
-1. [To Vima](http://www.tovima.gr/en/article/?aid=719819)
-2. [The Guardian](http://www.theguardian.com/world/ng-interactive/2015/jul/05/live-results-greek-referendum)
-3. [Bloomberg](http://www.bloomberg.com/news/articles/2015-07-05/merkel-hollande-call-for-summit-of-euro-area-leaders-on-greece)
-4. [Sky News](http://www.skynews.com.au/news/top-stories/2015/07/05/split-greece-teeters-on-brink.html)
-5. [Reuters](http://www.reuters.com/article/2015/07/05/us-eurozone-greece-celebrations-idUSKCN0PF14V20150705)
+1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-07-05/merkel-hollande-call-for-summit-of-euro-area-leaders-on-greece)
+2. [Reuters](http://www.reuters.com/article/2015/07/05/us-eurozone-greece-celebrations-idUSKCN0PF14V20150705)
+3. [Sky News](http://www.skynews.com.au/news/top-stories/2015/07/05/split-greece-teeters-on-brink.html)
+4. [The Guardian](http://www.theguardian.com/world/ng-interactive/2015/jul/05/live-results-greek-referendum)
+5. [To Vima](http://www.tovima.gr/en/article/?aid=719819)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Times](http://www.timesonline.co.uk/tol/news/world/middle_east/article6699852.ece)
-2. [Haaretz](http://www.haaretz.com/hasen/spages/1099844.html)
+1. [Haaretz](http://www.haaretz.com/hasen/spages/1099844.html)
+2. [The Times](http://www.timesonline.co.uk/tol/news/world/middle_east/article6699852.ece)
 
 ### Related:
 

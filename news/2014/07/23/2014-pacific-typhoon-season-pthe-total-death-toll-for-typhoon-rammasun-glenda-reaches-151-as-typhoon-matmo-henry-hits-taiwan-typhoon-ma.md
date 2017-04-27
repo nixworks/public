@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Dow Jones via ''The Australian](http://www.theaustralian.com.au/business/aviation/bad-weather-likely-brought-down-transasia-flight-ge222-in-penghu/story-e6frg95x-1226999585547?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheAustralianNewsNDM+%28The+Australian+%7C+News+%7C%29)
-2. [AP via ''Washington Post](http://www.washingtonpost.com/world/asia_pacific/typhoon-kills-11-in-vietnam-china-deaths-up-to-33/2014/07/21/a0a32cba-113d-11e4-ac56-773e54a65906_story.html)
+1. [AP via ''Washington Post](http://www.washingtonpost.com/world/asia_pacific/typhoon-kills-11-in-vietnam-china-deaths-up-to-33/2014/07/21/a0a32cba-113d-11e4-ac56-773e54a65906_story.html)
+2. [Dow Jones via ''The Australian](http://www.theaustralian.com.au/business/aviation/bad-weather-likely-brought-down-transasia-flight-ge222-in-penghu/story-e6frg95x-1226999585547?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheAustralianNewsNDM+%28The+Australian+%7C+News+%7C%29)
 
 ### Related:
 

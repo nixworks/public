@@ -7,8 +7,8 @@ Greece recalls its ambassador to Austria amid sharp divisions among EU states ov
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-europe-migrants-greece-austria-idUSKCN0VY1OP)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-35658776)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-35658776)
+2. [Reuters](http://www.reuters.com/article/us-europe-migrants-greece-austria-idUSKCN0VY1OP)
 
 ### Related:
 

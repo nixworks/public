@@ -7,8 +7,8 @@ A Greek-owned cargo ship and a British-flagged chemical tanker have been seized,
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2009/12/30/world/africa/30piracy.html)
-2. [CNN](http://edition.cnn.com/2009/WORLD/africa/12/29/somalia.pirates.capture/)
+1. [CNN](http://edition.cnn.com/2009/WORLD/africa/12/29/somalia.pirates.capture/)
+2. [New York Times](http://www.nytimes.com/2009/12/30/world/africa/30piracy.html)
 
 ### Related:
 

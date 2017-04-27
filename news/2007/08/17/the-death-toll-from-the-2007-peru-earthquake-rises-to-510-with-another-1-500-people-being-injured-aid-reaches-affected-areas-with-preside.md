@@ -8,8 +8,8 @@
 ### Source:
 
 1. [AP via Forbes](http://www.forbes.com/feeds/ap/2007/08/17/ap4031444.html)
-2. [The Scotsman](http://thescotsman.scotsman.com/international.cfm?id=1308492007)
-3. [AP via the International Herald Tribune](http://www.iht.com/articles/ap/2007/08/18/america/LA-GEN-Peru-Prison-Escape.php)
+2. [AP via the International Herald Tribune](http://www.iht.com/articles/ap/2007/08/18/america/LA-GEN-Peru-Prison-Escape.php)
+3. [The Scotsman](http://thescotsman.scotsman.com/international.cfm?id=1308492007)
 
 ### Related:
 

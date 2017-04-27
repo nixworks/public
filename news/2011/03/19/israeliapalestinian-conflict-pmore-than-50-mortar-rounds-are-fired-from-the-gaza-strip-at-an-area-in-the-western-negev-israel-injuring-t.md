@@ -8,9 +8,9 @@ Hamas military wing claims responsibility for more than 50 mortar shells fired a
 ### Source:
 
 1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/idf-kills-two-palestinian-terrorists-near-gaza-border-1.350301)
-2. [UPI](http://www.upi.com/Top_News/World-News/2011/03/19/Hamas-breaks-up-rally-attacks-the-press/UPI-31221300554368/)
+2. [Ma'an News Agency](http://www.maannews.net/eng/ViewDetails.aspx?ID=369897)
 3. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=213035)
-4. [Ma'an News Agency](http://www.maannews.net/eng/ViewDetails.aspx?ID=369897)
+4. [UPI](http://www.upi.com/Top_News/World-News/2011/03/19/Hamas-breaks-up-rally-attacks-the-press/UPI-31221300554368/)
 5. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4044337,00.html)
 
 ### Related:

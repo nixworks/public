@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Press Trust of India](http://www.ptinews.com/news/326703_2-Prithvi-II-missiles-testfired-within-5-min)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8301964.stm)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=108452&sectionid=351020402)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8301964.stm)
+3. [Press Trust of India](http://www.ptinews.com/news/326703_2-Prithvi-II-missiles-testfired-within-5-min)
 
 ### Related:
 

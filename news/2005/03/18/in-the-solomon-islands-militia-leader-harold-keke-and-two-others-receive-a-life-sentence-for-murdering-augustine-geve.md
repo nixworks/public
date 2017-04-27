@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Solomon Star](http://www.solomonstarnews.com/drupal-4.4.1/?q=node/view/1612)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4360299.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4360299.stm)
+2. [Solomon Star](http://www.solomonstarnews.com/drupal-4.4.1/?q=node/view/1612)
 
 ### Related:
 

@@ -7,8 +7,8 @@ China warned residents across a large part of its north on Friday to prepare for
 
 ### Source:
 
-1. [South China Morning Post](http://www.scmp.com/news/china/policies-politics/article/1892504/airpocalypse-iii-worst-smog-year-headed-northern-china)
-2. [Reuters](http://in.reuters.com/article/us-china-pollution-idINKBN0U102Z20151218)
+1. [Reuters](http://in.reuters.com/article/us-china-pollution-idINKBN0U102Z20151218)
+2. [South China Morning Post](http://www.scmp.com/news/china/policies-politics/article/1892504/airpocalypse-iii-worst-smog-year-headed-northern-china)
 
 ### Related:
 

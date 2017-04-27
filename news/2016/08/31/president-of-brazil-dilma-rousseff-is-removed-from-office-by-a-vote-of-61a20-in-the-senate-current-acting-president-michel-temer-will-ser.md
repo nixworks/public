@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2016/08/31/americas/brazil-rousseff-impeachment-vote)
-2. [BBC](http://www.bbc.com/news/world-latin-america-37237513)
+1. [BBC](http://www.bbc.com/news/world-latin-america-37237513)
+2. [CNN](http://www.cnn.com/2016/08/31/americas/brazil-rousseff-impeachment-vote)
 
 ### Related:
 

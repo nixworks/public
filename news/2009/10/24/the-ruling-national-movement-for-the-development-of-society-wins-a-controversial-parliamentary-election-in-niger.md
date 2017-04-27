@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [African Press Agency](http://www.apanews.net/apa.php?page=show_article_eng&id_article=109696)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jQjWU7cHBxY0p5wPaaOFk-o-MsRA)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jQjWU7cHBxY0p5wPaaOFk-o-MsRA)
+2. [African Press Agency](http://www.apanews.net/apa.php?page=show_article_eng&id_article=109696)
 
 ### Related:
 

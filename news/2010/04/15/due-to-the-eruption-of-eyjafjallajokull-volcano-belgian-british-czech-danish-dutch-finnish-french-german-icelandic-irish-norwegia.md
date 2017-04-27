@@ -8,8 +8,8 @@ The Irish Aviation Authority has announced that it is lifting restrictions on fl
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8621407.stm)
-2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0415/breaking2.html)
-3. [RTÉ](http://www.rte.ie/news/2010/0415/travelthursday.html)
+2. [RTÉ](http://www.rte.ie/news/2010/0415/travelthursday.html)
+3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0415/breaking2.html)
 4. [euronews](http://www.euronews.net/2010/04/15/uk-flights-grounded-by-cloud-of-volcanic-ash/)
 
 ### Related:

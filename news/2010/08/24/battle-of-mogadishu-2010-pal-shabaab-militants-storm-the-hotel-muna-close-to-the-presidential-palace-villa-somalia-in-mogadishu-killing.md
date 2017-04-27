@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [euronews](http://www.euronews.net/2010/08/24/somali-gunmen-storm-hotel-kill-15-lawmakers/)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iF9DIZfmNU_YnMcgCBz4opuO5B6A)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-11068805)
 3. [New York Times](http://www.nytimes.com/2010/08/25/world/africa/25somalia.html?src=mv)
-4. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iF9DIZfmNU_YnMcgCBz4opuO5B6A)
+4. [euronews](http://www.euronews.net/2010/08/24/somali-gunmen-storm-hotel-kill-15-lawmakers/)
 
 ### Related:
 

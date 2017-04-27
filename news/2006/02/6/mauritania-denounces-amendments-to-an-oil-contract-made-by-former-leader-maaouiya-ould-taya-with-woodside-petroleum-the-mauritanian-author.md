@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Radio France International](http://www.rfi.fr/actufr/articles/074/article_41704.asp)
-2. [BBC](http://news.bbc.co.uk/1/hi/business/4684836.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/business/4684836.stm)
+2. [Radio France International](http://www.rfi.fr/actufr/articles/074/article_41704.asp)
 
 ### Related:
 

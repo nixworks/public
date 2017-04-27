@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Guardian Unlimited](http://www.guardian.co.uk/worldlatest/story/0,1280,-5100113,00.html)
-2. [Standard, Kenya](http://www.eastandard.net/hm_news/news.php?articleid=23806)
-3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L26425333.htm)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L26425333.htm)
+3. [Standard, Kenya](http://www.eastandard.net/hm_news/news.php?articleid=23806)
 
 ### Related:
 

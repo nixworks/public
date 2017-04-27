@@ -7,10 +7,10 @@ The senator’s car failed to stop despite repeated warnings from police, accord
 
 ### Source:
 
-1. [Press TV](http://www.presstv.ir/detail.aspx?id=114455&sectionid=351020403)
-2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8427650.stm)
-3. [The New York Times](http://www.nytimes.com/2009/12/24/world/asia/24afghan.html)
-4. [CBC News](http://www.cbc.ca/world/story/2009/12/23/afghanistan-lawmaker-killed.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8427650.stm)
+2. [CBC News](http://www.cbc.ca/world/story/2009/12/23/afghanistan-lawmaker-killed.html)
+3. [Press TV](http://www.presstv.ir/detail.aspx?id=114455&sectionid=351020403)
+4. [The New York Times](http://www.nytimes.com/2009/12/24/world/asia/24afghan.html)
 
 ### Related:
 

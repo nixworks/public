@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [IOL](http://www.iol.co.za/index.php?from=rss_Africa&set_id=1&click_id=68&art_id=nw20090714170404979C832009)
-2. [Sowetan](http://www.sowetan.co.za/News/Article.aspx?id=1033503)
-3. [BBC](http://news.bbc.co.uk/2/hi/africa/8153003.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/8153003.stm)
+2. [IOL](http://www.iol.co.za/index.php?from=rss_Africa&set_id=1&click_id=68&art_id=nw20090714170404979C832009)
+3. [Sowetan](http://www.sowetan.co.za/News/Article.aspx?id=1033503)
 
 ### Related:
 

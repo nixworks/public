@@ -7,9 +7,9 @@ Up to 116 properties have been destroyed by fire at Wye River and Separation Cre
 
 ### Source:
 
-1. [Sky News](http://www.skynews.com.au/news/top-stories/2015/12/26/vic-fire-crews-battle-huge-fire-overnight.html)
-2. [The Guardian](http://www.theguardian.com/australia-news/2015/dec/26/great-ocean-road-bushfire-destroys-more-than-50-homes)
-3. [BBC](http://www.bbc.com/news/world-australia-35179209)
+1. [BBC](http://www.bbc.com/news/world-australia-35179209)
+2. [Sky News](http://www.skynews.com.au/news/top-stories/2015/12/26/vic-fire-crews-battle-huge-fire-overnight.html)
+3. [The Guardian](http://www.theguardian.com/australia-news/2015/dec/26/great-ocean-road-bushfire-destroys-more-than-50-homes)
 
 ### Related:
 

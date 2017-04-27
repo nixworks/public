@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE70O0BR20110125)
-2. [Bloomberg](http://www.bloomberg.com/news/2011-01-25/pirates-seize-german-ship-beluga-nomination-off-somalia-coast.html)
+1. [Bloomberg](http://www.bloomberg.com/news/2011-01-25/pirates-seize-german-ship-beluga-nomination-off-somalia-coast.html)
+2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE70O0BR20110125)
 
 ### Related:
 

@@ -7,8 +7,8 @@ A Saudi soldier died in a gunbattle with militants in the western Taif region ou
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-saudi-security-idUSKCN0XZ07D)
-2. [FOX News](http://www.foxnews.com/world/2016/05/08/saudi-policeman-killed-in-shootout-with-militants.html)
+1. [FOX News](http://www.foxnews.com/world/2016/05/08/saudi-policeman-killed-in-shootout-with-militants.html)
+2. [Reuters](http://www.reuters.com/article/us-saudi-security-idUSKCN0XZ07D)
 
 ### Related:
 

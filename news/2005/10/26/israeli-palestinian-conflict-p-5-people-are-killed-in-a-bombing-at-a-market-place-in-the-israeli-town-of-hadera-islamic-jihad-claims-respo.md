@@ -7,8 +7,8 @@ Terror returns to Israel’s cities: Suicide bomber strikes in market in Hadera,
 
 ### Source:
 
-1. [YNETnews](http://www.ynetnews.com/articles/0,7340,L-3159743,00.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4379052.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4379052.stm)
+2. [YNETnews](http://www.ynetnews.com/articles/0,7340,L-3159743,00.html)
 
 ### Related:
 

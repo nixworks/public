@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2011/jan/14/berlusconi-investigated-teenage-prostitution-case)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/01/2011114124929346350.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/01/2011114124929346350.html)
+2. [The Guardian](http://www.guardian.co.uk/world/2011/jan/14/berlusconi-investigated-teenage-prostitution-case)
 
 ### Related:
 

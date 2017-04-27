@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters](http://olympics.reuters.com/news/NewsArticle.aspx?type=topNews&storyID=2005-08-07T034753Z_01_L07564962_RTRIDST_0_NEWS-RUSSIA-SUBMARINE-DC.XML)
-2. [Guardian](http://www.guardian.co.uk/uklatest/story/0,1271,-5195476,00.html)
-3. [RIAN - in Russian](http://www.rian.ru/trend/escape_bathyscaphe_050805)
+1. [Guardian](http://www.guardian.co.uk/uklatest/story/0,1271,-5195476,00.html)
+2. [RIAN - in Russian](http://www.rian.ru/trend/escape_bathyscaphe_050805)
+3. [Reuters](http://olympics.reuters.com/news/NewsArticle.aspx?type=topNews&storyID=2005-08-07T034753Z_01_L07564962_RTRIDST_0_NEWS-RUSSIA-SUBMARINE-DC.XML)
 
 ### Related:
 

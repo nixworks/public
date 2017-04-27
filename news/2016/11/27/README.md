@@ -4,7 +4,7 @@
 The Syrian army said it had taken control of an important district in rebel-held eastern Aleppo on Saturday after fierce fighting, with rebels blaming intense air strikes and lack of hospitals for their collapsing frontline.
 
 ### [Turkish Armed Forces  claim that an Islamic State of Iraq and the Levant rocket attack on Turkish-backed Syrian rebel forces caused symptoms of chemical weapons in 22 soldiers. ](/news/2016/11/27/turkish-armed-forces-claim-that-an-islamic-state-of-iraq-and-the-levant-rocket-attack-on-turkish-backed-syrian-rebel-forces-caused-symptoms.md)
-_Context: Islamic State of Iraq and the Levant, Syria, Turkey–ISIL conflict, Turkish troops_
+_Context: ISIL, Syria, Turkey–ISIL conflict, Turkish troops_
 
 ### [An Israeli Army patrol kills four ISIL-affiliated militants after they open fire from positions in Syria near the Golan Heights. ](/news/2016/11/27/an-israeli-army-patrol-kills-four-isil-affiliated-militants-after-they-open-fire-from-positions-in-syria-near-the-golan-heights.md)
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com

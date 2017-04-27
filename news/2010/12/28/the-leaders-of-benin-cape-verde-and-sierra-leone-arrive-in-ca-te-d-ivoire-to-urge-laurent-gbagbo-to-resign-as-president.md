@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [euronews](http://www.euronews.net/2010/12/28/african-leaders-plead-with-gbagbo-to-quit/)
-2. [CNN](http://edition.cnn.com/2010/WORLD/africa/12/28/ivory.coast.conflict/)
+1. [CNN](http://edition.cnn.com/2010/WORLD/africa/12/28/ivory.coast.conflict/)
+2. [euronews](http://www.euronews.net/2010/12/28/african-leaders-plead-with-gbagbo-to-quit/)
 
 ### Related:
 

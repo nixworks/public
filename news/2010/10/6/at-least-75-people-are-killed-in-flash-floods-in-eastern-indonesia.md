@@ -7,8 +7,8 @@ At least 75 people have been killed and many are missing after flash floods and 
 
 ### Source:
 
-1. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_587283.html)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/201010672430476943.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/201010672430476943.html)
+2. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_587283.html)
 
 ### Related:
 

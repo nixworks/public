@@ -7,8 +7,8 @@ Verizon Communications Inc. plans to make a first-round bid for Yahoo Inc.’s W
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-yahoo-bids-verizon-idUSKCN0X42JG)
-2. [Bloomberg News](http://www.bloomberg.com/news/articles/2016-04-07/verizon-said-to-proceed-with-yahoo-bid-as-google-weighs-offer)
+1. [Bloomberg News](http://www.bloomberg.com/news/articles/2016-04-07/verizon-said-to-proceed-with-yahoo-bid-as-google-weighs-offer)
+2. [Reuters](http://www.reuters.com/article/us-yahoo-bids-verizon-idUSKCN0X42JG)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [US NO](http://www.usno.navy.mil/NOOC/nmfc-ph/RSS/jtwc/warnings/wp0811web.txt)
-2. [Kyodo](http://english.kyodonews.jp/news/2011/07/103842.html)
-3. [PhilStar](http://www.philstar.com/Article.aspx?articleId=708119&publicationSubCategoryId=200)
+1. [Kyodo](http://english.kyodonews.jp/news/2011/07/103842.html)
+2. [PhilStar](http://www.philstar.com/Article.aspx?articleId=708119&publicationSubCategoryId=200)
+3. [US NO](http://www.usno.navy.mil/NOOC/nmfc-ph/RSS/jtwc/warnings/wp0811web.txt)
 
 ### Related:
 

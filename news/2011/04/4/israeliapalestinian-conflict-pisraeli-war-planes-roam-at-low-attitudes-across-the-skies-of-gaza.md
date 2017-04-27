@@ -7,12 +7,12 @@ Prominent Israeli filmmaker and peace activist was the son of a Jewish mother an
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=215100)
-2. [J Post](http://www.jpost.com/NationalNews/Article.aspx?id=215116)
-3. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4052000,00.html)
-4. [BBC](http://www.bbc.co.uk/news/world-middle-east-12963475)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12957071)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12963475)
+3. [J Post](http://www.jpost.com/NationalNews/Article.aspx?id=215116)
+4. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=215100)
 5. [WAFA](http://english.wafa.ps/index.php?action=detail&id=15783)
-6. [BBC](http://www.bbc.co.uk/news/world-middle-east-12957071)
+6. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4052000,00.html)
 
 ### Related:
 

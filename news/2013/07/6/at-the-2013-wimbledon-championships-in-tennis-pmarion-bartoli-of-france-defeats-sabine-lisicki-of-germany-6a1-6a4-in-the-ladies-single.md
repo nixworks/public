@@ -7,8 +7,8 @@ Ever since she was a kid, practicing until midnight with her father, Marion Bart
 
 ### Source:
 
-1. [BBC Sport](http://www.bbc.co.uk/sport/0/tennis/23213966)
-2. [AP via ESPN](http://espn.go.com/tennis/wimbledon13/story/_/id/9454395/2013-wimbledon-marion-bartoli-claims-final-straight-sets)
+1. [AP via ESPN](http://espn.go.com/tennis/wimbledon13/story/_/id/9454395/2013-wimbledon-marion-bartoli-claims-final-straight-sets)
+2. [BBC Sport](http://www.bbc.co.uk/sport/0/tennis/23213966)
 
 ### Related:
 

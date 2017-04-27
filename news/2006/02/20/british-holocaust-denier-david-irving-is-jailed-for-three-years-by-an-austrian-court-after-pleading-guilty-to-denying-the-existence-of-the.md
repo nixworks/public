@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Independent](http://news.independent.co.uk/europe/article346727.ece)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4733820.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4733820.stm)
+2. [The Independent](http://news.independent.co.uk/europe/article346727.ece)
 
 ### Related:
 

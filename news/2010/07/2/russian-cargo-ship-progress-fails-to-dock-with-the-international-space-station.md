@@ -7,9 +7,9 @@ The Russian cargo ship Progress fails to dock with the International Space Stati
 
 ### Source:
 
-1. [France24](http://www.france24.com/en/20100702-russian-cargo-ship-fails-dock-with-iss-mission-control)
+1. [BBC](http://news.bbc.co.uk/2/hi/science_and_environment/10495309.stm)
 2. [Fox News](http://www.foxnews.com/scitech/2010/07/02/russian-spaceship-control-near-space-station/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Flatest+%28Text+-+Latest+Headlines%29)
-3. [BBC](http://news.bbc.co.uk/2/hi/science_and_environment/10495309.stm)
+3. [France24](http://www.france24.com/en/20100702-russian-cargo-ship-fails-dock-with-iss-mission-control)
 
 ### Related:
 

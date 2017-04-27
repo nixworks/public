@@ -7,11 +7,11 @@ The ambushing of the Prime Minister with the names of rumoured Tory paedophiles 
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/media/tv-radio/itv-faces-ofcom-investigation-after-phillip-schofield-ambushes-david-cameron-with-internetsourced-paedophile-list-during-live-broadcast-of-this-morning-8300240.html)
+1. [BBC](http://www.bbc.co.uk/news/uk-politics-20265581)
 2. [Statement](http://www.twitlonger.com/show/juld91)
 3. [The Daily Telegraph](http://blogs.telegraph.co.uk/news/tomchiversscience/100188747/david-cameron-phillip-schofield-and-mob-justice-in-the-age-of-the-internet/)
 4. [The Daily Telegraph](http://www.telegraph.co.uk/news/politics/9667947/BBC-in-chaos-as-abuse-victim-says-Lord-McAlpine-was-not-my-attacker.html)
-5. [BBC](http://www.bbc.co.uk/news/uk-politics-20265581)
+5. [The Independent](http://www.independent.co.uk/news/media/tv-radio/itv-faces-ofcom-investigation-after-phillip-schofield-ambushes-david-cameron-with-internetsourced-paedophile-list-during-live-broadcast-of-this-morning-8300240.html)
 
 ### Related:
 

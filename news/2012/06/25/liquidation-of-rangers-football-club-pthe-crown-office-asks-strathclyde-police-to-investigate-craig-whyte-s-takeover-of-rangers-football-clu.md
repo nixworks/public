@@ -7,11 +7,11 @@ A newco Rangers will be refused admittance to the Scottish Premier League, with 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/sport/0/football/18577192)
-2. [The Guardian](http://www.guardian.co.uk/football/2012/jun/25/rangers-craig-whyte-police-investigation?newsfeed=true)
-3. [GOAL](http://www.goal.com/en-gb/news/2932/spl/2012/06/25/3199845/aberdeen-the-latest-club-to-oppose-newco-rangers-spl?source=breakingnews)
-4. [BBC](http://www.bbc.co.uk/news/uk-scotland-glasgow-west-18582965)
-5. [Daily Record](http://www.dailyrecord.co.uk/football/spl/2012/06/25/rangers-in-crisis-newco-club-consigned-to-life-outside-spl-as-aberdeen-inverness-confirm-they-will-vote-against-readmission-86908-23900717/)
+1. [BBC](http://www.bbc.co.uk/news/uk-scotland-glasgow-west-18582965)
+2. [BBC](http://www.bbc.co.uk/sport/0/football/18577192)
+3. [Daily Record](http://www.dailyrecord.co.uk/football/spl/2012/06/25/rangers-in-crisis-newco-club-consigned-to-life-outside-spl-as-aberdeen-inverness-confirm-they-will-vote-against-readmission-86908-23900717/)
+4. [GOAL](http://www.goal.com/en-gb/news/2932/spl/2012/06/25/3199845/aberdeen-the-latest-club-to-oppose-newco-rangers-spl?source=breakingnews)
+5. [The Guardian](http://www.guardian.co.uk/football/2012/jun/25/rangers-craig-whyte-police-investigation?newsfeed=true)
 
 ### Related:
 

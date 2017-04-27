@@ -7,6 +7,6 @@ Police are looking for the shooter, who is believed to still be on the grounds o
 
 ### Source:
 
-1. [The Washington Post](http://www.washingtonpost.com/local/police-search-for-active-shooter-on-grounds-of-washington-navy-yard-in-southeast-dc/2013/09/16/b1d72b9a-1ecb-11e3-b7d1-7153ad47b549_story.html)
-2. [CNN](http://www.cnn.com/2013/09/16/us/dc-navy-yard-gunshots/index.html?hpt=hp_t1)
-3. [NBC](http://usnews.nbcnews.com/_news/2013/09/16/20522196-gunman-opens-fire-at-navy-yard-in-washington-several-wounded-officials-say?lite)
+1. [CNN](http://www.cnn.com/2013/09/16/us/dc-navy-yard-gunshots/index.html?hpt=hp_t1)
+2. [NBC](http://usnews.nbcnews.com/_news/2013/09/16/20522196-gunman-opens-fire-at-navy-yard-in-washington-several-wounded-officials-say?lite)
+3. [The Washington Post](http://www.washingtonpost.com/local/police-search-for-active-shooter-on-grounds-of-washington-navy-yard-in-southeast-dc/2013/09/16/b1d72b9a-1ecb-11e3-b7d1-7153ad47b549_story.html)

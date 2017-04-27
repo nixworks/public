@@ -8,9 +8,9 @@ Kenya begins registering all mobile phone numbers in a bid to cut crime, with un
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10366235.stm)
-2. [TMC Net](http://africa.tmcnet.com/news/2010/06/21/4859040.htm)
-3. [Daily Nation](http://www.nation.co.ke/News/Kenya%20race%20to%20list%20mobile%20phone%20owners/-/1056/943288/-/a7bs87z/-/)
-4. [Kenya Broadcasting Corporation](http://www.kbc.co.ke/story.asp?ID=64759)
+2. [Daily Nation](http://www.nation.co.ke/News/Kenya%20race%20to%20list%20mobile%20phone%20owners/-/1056/943288/-/a7bs87z/-/)
+3. [Kenya Broadcasting Corporation](http://www.kbc.co.ke/story.asp?ID=64759)
+4. [TMC Net](http://africa.tmcnet.com/news/2010/06/21/4859040.htm)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/bongos-body-arrives-in-gabon-20090612-c55o.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/8094606.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/8094606.stm)
+2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/bongos-body-arrives-in-gabon-20090612-c55o.html)
 
 ### Related:
 

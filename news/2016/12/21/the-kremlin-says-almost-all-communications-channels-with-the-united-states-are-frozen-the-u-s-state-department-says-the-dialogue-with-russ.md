@@ -7,8 +7,8 @@ The Kremlin said on Wednesday almost all communications channels between Russia 
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/aponline/2016/12/21/world/europe/ap-eu-russia-us.html?_r=0)
-2. [Reuters](http://www.reuters.com/article/us-russia-usa-peskov-idUSKBN14A1LJ)
+1. [Reuters](http://www.reuters.com/article/us-russia-usa-peskov-idUSKBN14A1LJ)
+2. [The New York Times](http://www.nytimes.com/aponline/2016/12/21/world/europe/ap-eu-russia-us.html?_r=0)
 
 ### Related:
 

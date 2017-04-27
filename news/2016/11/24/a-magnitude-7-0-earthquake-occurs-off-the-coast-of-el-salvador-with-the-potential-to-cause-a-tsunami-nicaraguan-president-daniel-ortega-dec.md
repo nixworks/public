@@ -7,9 +7,9 @@ A strong quake shook Central America&#x27;s Pacific coast as a hurricane barrele
 
 ### Source:
 
-1. [Reuters via Yahoo! Canada](https://ca.news.yahoo.com/magnitude-7-2-quake-strikes-off-pacific-coast-185650857.html)
-2. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/us10007c4w#executive)
-3. [Reuters via NBC News](http://www.nbcnews.com/news/world/magnitude-7-offshore-quake-shakes-central-america-hurricane-hits-n688091)
+1. [Reuters via NBC News](http://www.nbcnews.com/news/world/magnitude-7-offshore-quake-shakes-central-america-hurricane-hits-n688091)
+2. [Reuters via Yahoo! Canada](https://ca.news.yahoo.com/magnitude-7-2-quake-strikes-off-pacific-coast-185650857.html)
+3. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/us10007c4w#executive)
 
 ### Related:
 

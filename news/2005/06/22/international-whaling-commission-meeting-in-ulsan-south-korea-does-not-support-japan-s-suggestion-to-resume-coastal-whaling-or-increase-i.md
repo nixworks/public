@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Japan Today](http://www.japantoday.com/e/?content=news&cat=1&id=341246)
-2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/154232/1/.html)
+1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/154232/1/.html)
+2. [Japan Today](http://www.japantoday.com/e/?content=news&cat=1&id=341246)
 3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/SEO348341.htm)
 
 ### Related:

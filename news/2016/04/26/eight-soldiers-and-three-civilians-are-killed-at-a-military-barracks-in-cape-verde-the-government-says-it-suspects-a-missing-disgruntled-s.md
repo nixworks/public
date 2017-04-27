@@ -7,8 +7,8 @@ Eleven men were shot dead in Cape Verde on Tuesday, including eight soldiers, a 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-capeverde-killings-idUSKCN0XN2LA)
-2. [AP via Fox News](http://www.foxnews.com/world/2016/04/26/reports-11-found-dead-at-military-barracks-in-cape-verde1.html)
+1. [AP via Fox News](http://www.foxnews.com/world/2016/04/26/reports-11-found-dead-at-military-barracks-in-cape-verde1.html)
+2. [Reuters](http://www.reuters.com/article/us-capeverde-killings-idUSKCN0XN2LA)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2006/0930/ahernb.html)
-2. [Irish Times](http://home.eircom.net/content/irelandcom/topstories/8995843?view=Eircomnet)
+1. [Irish Times](http://home.eircom.net/content/irelandcom/topstories/8995843?view=Eircomnet)
+2. [RTÉ](http://www.rte.ie/news/2006/0930/ahernb.html)
 
 ### Related:
 

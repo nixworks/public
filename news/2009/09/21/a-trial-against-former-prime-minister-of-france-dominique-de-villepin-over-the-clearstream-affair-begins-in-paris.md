@@ -8,8 +8,8 @@ France&#39;s most politically charged trial in years is under way with former pr
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8266001.stm)
-2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/france/6211765/Clearstream-Frances-trial-of-the-century-begins.html)
-3. [RTÉ](http://www.rte.ie/news/2009/0921/devillepin.html)
+2. [RTÉ](http://www.rte.ie/news/2009/0921/devillepin.html)
+3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/france/6211765/Clearstream-Frances-trial-of-the-century-begins.html)
 4. [The Guardian](http://www.guardian.co.uk/world/2009/sep/20/sarkozy-de-villepin-clearstream-trial)
 
 ### Related:

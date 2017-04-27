@@ -8,8 +8,8 @@
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/05/24/timor.tension.ap/)
-2. [Daily Telegraph](http://dailytelegraph.news.com.au/story/0,20281,19241482-5001028,00.html)
-3. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/05/24/timor.tension/)
+2. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/05/24/timor.tension/)
+3. [Daily Telegraph](http://dailytelegraph.news.com.au/story/0,20281,19241482-5001028,00.html)
 
 ### Related:
 

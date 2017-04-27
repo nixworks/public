@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/news/2010-09-19/thai-police-boost-patrols-as-pro-thaksin-protesters-mark-coup-anniversary.html)
-2. [Bangkok Post](http://www.bangkokpost.com/news/politics/197055/red-shirts-begin-activities-in-capital)
+1. [Bangkok Post](http://www.bangkokpost.com/news/politics/197055/red-shirts-begin-activities-in-capital)
+2. [Bloomberg](http://www.bloomberg.com/news/2010-09-19/thai-police-boost-patrols-as-pro-thaksin-protesters-mark-coup-anniversary.html)
 
 ### Related:
 

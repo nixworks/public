@@ -8,8 +8,8 @@ Stocks closed near session lows Friday, with all three major averages posting th
 ### Source:
 
 1. [CNBC](http://www.cnbc.com/id/47474749)
-2. [The New York Times](http://dealbook.nytimes.com/2012/05/18/facebook-opens-at-42-05-in-debut-but-falls-quickly/)
-3. [Los Angeles Times](http://www.latimes.com/business/la-fi-facebook-pricing-20120518,0,3426310.story)
+2. [Los Angeles Times](http://www.latimes.com/business/la-fi-facebook-pricing-20120518,0,3426310.story)
+3. [The New York Times](http://dealbook.nytimes.com/2012/05/18/facebook-opens-at-42-05-in-debut-but-falls-quickly/)
 
 ### Related:
 

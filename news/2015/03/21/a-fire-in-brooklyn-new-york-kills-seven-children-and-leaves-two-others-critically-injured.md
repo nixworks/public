@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2015/03/22/nyregion/7-children-die-in-brooklyn-fire.html?hp&action=click&pgtype=Homepage&module=a-lede-package-region&region=top-news&WT.nav=top-news&_r=0)
-2. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-03-21-US--Fatal%20Brooklyn%20Fire/id-1905c189ad5e4e7ebb2af40fce4559dd)
+1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-03-21-US--Fatal%20Brooklyn%20Fire/id-1905c189ad5e4e7ebb2af40fce4559dd)
+2. [The New York Times](http://www.nytimes.com/2015/03/22/nyregion/7-children-die-in-brooklyn-fire.html?hp&action=click&pgtype=Homepage&module=a-lede-package-region&region=top-news&WT.nav=top-news&_r=0)
 
 ### Related:
 

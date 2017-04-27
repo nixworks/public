@@ -7,8 +7,8 @@ An airplane powered solely by the sun landed safely in Seville in Spain early on
 
 ### Source:
 
-1. [Reuters²](http://www.reuters.com/article/us-solar-plane-idUSKCN0Z60P3)
-2. [Reuters](http://www.reuters.com/article/us-solar-plane-seville-landing-idUSKCN0Z90GB)
+1. [Reuters](http://www.reuters.com/article/us-solar-plane-seville-landing-idUSKCN0Z90GB)
+2. [Reuters²](http://www.reuters.com/article/us-solar-plane-idUSKCN0Z60P3)
 
 ### Related:
 

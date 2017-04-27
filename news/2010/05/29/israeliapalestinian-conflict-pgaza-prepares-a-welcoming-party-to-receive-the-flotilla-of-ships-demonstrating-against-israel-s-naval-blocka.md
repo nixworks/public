@@ -7,12 +7,12 @@ Ships carrying 10,000 tonnes of supplies and hundreds of pro-Palestinian activis
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/05/2010529135051790862.html)
-2. [The Age](http://news.theage.com.au/breaking-news-world/flotilla-bound-for-gaza-delayed-20100530-wmt1.html)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gOaZz4RblGxPDwLCDY2eXZT7s4HQ)
-4. [The Australian](http://www.theaustralian.com.au/news/world/israelis-take-to-seas-to-avoid-pr-disaster-over-gaza-activist-flotilla/story-e6frg6so-1225872718470)
-5. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-05/29/c_13322935.htm)
-6. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10191106.stm)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gOaZz4RblGxPDwLCDY2eXZT7s4HQ)
+2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/05/2010529135051790862.html)
+3. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10191106.stm)
+4. [The Age](http://news.theage.com.au/breaking-news-world/flotilla-bound-for-gaza-delayed-20100530-wmt1.html)
+5. [The Australian](http://www.theaustralian.com.au/news/world/israelis-take-to-seas-to-avoid-pr-disaster-over-gaza-activist-flotilla/story-e6frg6so-1225872718470)
+6. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-05/29/c_13322935.htm)
 
 ### Related:
 

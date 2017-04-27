@@ -28,7 +28,7 @@ _Context: Goodluck Jonathan, Nigeria, Umaru Yar'Adua_
 _Context: India, Islam, Kashmir, gunbattle_
 
 ### [2 die and 2 are wounded in an attack on an aid vehicle near the village of Dembia in the Central African Republic. ](/news/2010/05/7/2-die-and-2-are-wounded-in-an-attack-on-an-aid-vehicle-near-the-village-of-dembia-in-the-central-african-republic.md)
-_Context: Central African Republic, Dembia_
+_Context: Central-African, Dembia_
 
 ### [2 Egyptian peacekeepers are killed and 3 are injured by gunmen near Edd al-Fursan, South Darfur. ](/news/2010/05/7/2-egyptian-peacekeepers-are-killed-and-3-are-injured-by-gunmen-near-edd-al-fursan-south-darfur.md)
 _Context: Edd al-Fursan, Egypt, South Darfur_

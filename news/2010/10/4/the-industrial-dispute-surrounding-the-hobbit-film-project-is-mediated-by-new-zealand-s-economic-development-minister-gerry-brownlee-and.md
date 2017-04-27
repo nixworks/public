@@ -7,8 +7,8 @@ Two senior ministers have made themselves available to mediate in the industrial
 
 ### Source:
 
-1. [The New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10678126)
-2. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11465248)
+1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11465248)
+2. [The New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10678126)
 
 ### Related:
 

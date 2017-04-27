@@ -7,8 +7,8 @@ Australian and English doctors want more investigations of a virus that has stru
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/sport/2010/10/201010620591849865.html)
-2. [ Sky News](http://news.sky.com/skynews/Home/World-News/Stomach-Virus-For-Swimmers-At-Commonwealth-Games-Urgent-Tests-On-Delhi-Swimming-Pools/Article/201010115753774?lpos=World_News_First_Home_Article_Teaser_Region_0&lid=ARTICLE_15753774_Stomach_Virus_For_Swimmers_At_Commonwealth_Games%3A_Urgent_Tests_On_Delhi_Swimming_Pools)
+1. [ Sky News](http://news.sky.com/skynews/Home/World-News/Stomach-Virus-For-Swimmers-At-Commonwealth-Games-Urgent-Tests-On-Delhi-Swimming-Pools/Article/201010115753774?lpos=World_News_First_Home_Article_Teaser_Region_0&lid=ARTICLE_15753774_Stomach_Virus_For_Swimmers_At_Commonwealth_Games%3A_Urgent_Tests_On_Delhi_Swimming_Pools)
+2. [Al Jazeera](http://english.aljazeera.net/sport/2010/10/201010620591849865.html)
 3. [The Guardian](http://www.guardian.co.uk/sport/2010/oct/07/commonwealth-games-swimmers-illness)
 
 ### Related:

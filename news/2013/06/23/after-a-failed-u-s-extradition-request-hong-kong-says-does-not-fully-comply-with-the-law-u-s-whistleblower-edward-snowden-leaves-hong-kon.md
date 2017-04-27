@@ -7,8 +7,8 @@ Former US intelligence contractor reportedly arrives in Moscow and applies for a
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/global/2013/jun/23/edward-snowden-leaves-hong-kong-moscow-live)
-2. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2013/06/2013623852190647.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2013/06/2013623852190647.html)
+2. [The Guardian](http://www.guardian.co.uk/global/2013/jun/23/edward-snowden-leaves-hong-kong-moscow-live)
 
 ### Related:
 

@@ -7,16 +7,16 @@ Syrian president delivers first public speech since security forces curbed anti-
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2011/03/31/us-libya-idUSTRE7270JP20110331?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jLp7ILl5z7A0YHkWUH_Z9MakzstQ?docId=CNG.bf43a8bfb9e123d8b6ae8eff6f21f438.01)
-3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/20113308737507793.html)
-4. [Global Voices Online](http://globalvoicesonline.org/2011/03/30/bahrain-prominent-blogger-mahmood-al-yousif-arrested/)
-5. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/03/2011330151017941970.html)
-6. [AFP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5i2o71SMIJXSrVZ0_c1YGFF3f9FjQ?docId=7509659cced442db8fd0196081ad31b9)
-7. [BBC](http://www.bbc.co.uk/news/world-africa-12915959)
-8. [The Independent](http://www.independent.co.uk/news/world/middle-east/bahrain-targets-wounded-protesters-2257497.html)
-9. [UN Human Rights Watch](http://www.hrw.org/en/news/2011/03/30/bahrain-wounded-protesters-beaten-detained)
-10. [Al Jazeera](http://blogs.aljazeera.net/live/africa/libya-live-blog-march-30)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jLp7ILl5z7A0YHkWUH_Z9MakzstQ?docId=CNG.bf43a8bfb9e123d8b6ae8eff6f21f438.01)
+2. [AFP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5i2o71SMIJXSrVZ0_c1YGFF3f9FjQ?docId=7509659cced442db8fd0196081ad31b9)
+3. [Al Jazeera](http://blogs.aljazeera.net/live/africa/libya-live-blog-march-30)
+4. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/03/2011330151017941970.html)
+5. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/20113308737507793.html)
+6. [BBC](http://www.bbc.co.uk/news/world-africa-12915959)
+7. [Global Voices Online](http://globalvoicesonline.org/2011/03/30/bahrain-prominent-blogger-mahmood-al-yousif-arrested/)
+8. [Reuters](http://www.reuters.com/article/2011/03/31/us-libya-idUSTRE7270JP20110331?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+9. [The Independent](http://www.independent.co.uk/news/world/middle-east/bahrain-targets-wounded-protesters-2257497.html)
+10. [UN Human Rights Watch](http://www.hrw.org/en/news/2011/03/30/bahrain-wounded-protesters-beaten-detained)
 11. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2011/03/syrian-president-speaks-to-country-amid-widespread-protests/1)
 
 ### Related:

@@ -7,9 +7,9 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/156880/1/.html)
-2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-07-08T054905Z_01_N08361179_RTRIDST_0_INTERNATIONAL-PHILIPPINES-DC.XML)
-3. [ABS-CBN](http://www.abs-cbnnews.com/storypage.aspx?StoryId=9900)
+1. [ABS-CBN](http://www.abs-cbnnews.com/storypage.aspx?StoryId=9900)
+2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/156880/1/.html)
+3. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-07-08T054905Z_01_N08361179_RTRIDST_0_INTERNATIONAL-PHILIPPINES-DC.XML)
 
 ### Related:
 

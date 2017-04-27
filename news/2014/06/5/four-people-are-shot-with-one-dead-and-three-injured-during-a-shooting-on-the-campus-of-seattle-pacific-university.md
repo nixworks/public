@@ -7,5 +7,5 @@ A gunman opened fire inside a building on the campus of a small university near 
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/news/post-nation/wp/2014/06/05/shooting-at-seattle-pacific-university/?wpisrc=al_national)
-2. [CNN](http://www.cnn.com/2014/06/05/justice/seattle-campus-shooting/index.html)
+1. [CNN](http://www.cnn.com/2014/06/05/justice/seattle-campus-shooting/index.html)
+2. [Washington Post](http://www.washingtonpost.com/news/post-nation/wp/2014/06/05/shooting-at-seattle-pacific-university/?wpisrc=al_national)

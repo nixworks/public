@@ -8,9 +8,9 @@ Swedish prosecutors have withdrawn an arrest warrant for WikiLeaks founder Julia
 ### Source:
 
 1. [AP via ''The Independent](http://www.independent.co.uk/news/world/europe/arrest-warrant-for-wikileaks-founder-withdrawn-2058469.html)
-2. [Channel 4](http://www.channel4.com/news/articles/world/europe/wikileaks+founder+assange+accused+of+rape/3750082)
+2. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/2010821153010551757.html)
 3. [CNN](http://www.cnn.com/2010/WORLD/europe/08/21/sweden.wikileaks.charge/?hpt=T2)
-4. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/2010821153010551757.html)
+4. [Channel 4](http://www.channel4.com/news/articles/world/europe/wikileaks+founder+assange+accused+of+rape/3750082)
 
 ### Related:
 

@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Press TV](http://www.presstv.ir/usdetail/245249.html)
-2. [Voice of America](http://blogs.voanews.com/breaking-news/2012/06/08/us-military-judge-refuses-to-dismiss-wikileaks-charges/)
-3. [The Guardian](http://www.guardian.co.uk/world/2012/jun/08/bradley-manning-fails-military-judge?newsfeed=true)
+2. [The Guardian](http://www.guardian.co.uk/world/2012/jun/08/bradley-manning-fails-military-judge?newsfeed=true)
+3. [Voice of America](http://blogs.voanews.com/breaking-news/2012/06/08/us-military-judge-refuses-to-dismiss-wikileaks-charges/)
 
 ### Related:
 

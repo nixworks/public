@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [SBS](http://www9.sbs.com.au/theworldnews/region.php?id=130843&region=5)
-2. [Reuters](http://www.alertnet.org/thenews/newsdesk/L20857016.htm)
+1. [Reuters](http://www.alertnet.org/thenews/newsdesk/L20857016.htm)
+2. [SBS](http://www9.sbs.com.au/theworldnews/region.php?id=130843&region=5)
 
 ### Related:
 

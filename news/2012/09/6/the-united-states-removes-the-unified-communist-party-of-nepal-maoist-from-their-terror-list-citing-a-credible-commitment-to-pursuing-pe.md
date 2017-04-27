@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [Telegraph Nepal](http://www.telegraphnepal.com/headline/2012-05-29/mohan-baidya-explodes-says-nepal-pm-has-no-right-to-remain-in-govt)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gy243uFwiHQCBAS0j6E4qQ4vliWQ?docId=CNG.701f0036c82b4da1dc6e79c3d9850943.3d1)
-3. [Times of India](http://articles.timesofindia.indiatimes.com/2012-06-18/delhi/32298403_1_nepal-s-maoists-nepal-maoists-maoist-cadres)
-4. [Xinhua](http://news.xinhuanet.com/english/world/2012-06/19/c_131663675.htm)
-5. [State Department](http://www.state.gov/r/pa/prs/ps/2012/09/197411.htm)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gy243uFwiHQCBAS0j6E4qQ4vliWQ?docId=CNG.701f0036c82b4da1dc6e79c3d9850943.3d1)
+2. [State Department](http://www.state.gov/r/pa/prs/ps/2012/09/197411.htm)
+3. [Telegraph Nepal](http://www.telegraphnepal.com/headline/2012-05-29/mohan-baidya-explodes-says-nepal-pm-has-no-right-to-remain-in-govt)
+4. [Times of India](http://articles.timesofindia.indiatimes.com/2012-06-18/delhi/32298403_1_nepal-s-maoists-nepal-maoists-maoist-cadres)
+5. [Xinhua](http://news.xinhuanet.com/english/world/2012-06/19/c_131663675.htm)
 
 ### Related:
 

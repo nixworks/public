@@ -7,8 +7,8 @@ A rush-hour train derails on the Moscow metro, killing 21 people, the Russian au
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-europe-28306458)
-2. [AP via ''Daily Mail](http://www.dailymail.co.uk/wires/ap/article-2692561/10-dead-Moscow-subway-train-derailment.html)
+1. [AP via ''Daily Mail](http://www.dailymail.co.uk/wires/ap/article-2692561/10-dead-Moscow-subway-train-derailment.html)
+2. [BBC](http://www.bbc.com/news/world-europe-28306458)
 
 ### Related:
 

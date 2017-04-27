@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [Kyiv Post](http://www.kyivpost.com/content/ukraine/ukrainian-military-say-have-taken-over-novy-svet-358421.html)
-2. [The New York Times](http://www.nytimes.com/2014/07/30/world/europe/european-sanctions-russia.html?ref=europe)
-3. [Sky News Australia](http://www.skynews.com.au/news/top-stories/2014/07/29/afp--dutch-police-abandon-mh17-site-attempt.html)
-4. [Moscow Times](http://www.themoscowtimes.com/news/article/most-russians-think-western-powers-caused-ukraine-crisis/504224.html)
-5. [Kyiv Post](http://www.kyivpost.com/content/ukraine/ukrainian-government-forces-liberate-stepanivka-in-luhansk-region-358369.html)
+1. [Kyiv Post](http://www.kyivpost.com/content/ukraine/ukrainian-government-forces-liberate-stepanivka-in-luhansk-region-358369.html)
+2. [Kyiv Post](http://www.kyivpost.com/content/ukraine/ukrainian-military-say-have-taken-over-novy-svet-358421.html)
+3. [Moscow Times](http://www.themoscowtimes.com/news/article/most-russians-think-western-powers-caused-ukraine-crisis/504224.html)
+4. [Sky News Australia](http://www.skynews.com.au/news/top-stories/2014/07/29/afp--dutch-police-abandon-mh17-site-attempt.html)
+5. [The New York Times](http://www.nytimes.com/2014/07/30/world/europe/european-sanctions-russia.html?ref=europe)
 
 ### Related:
 

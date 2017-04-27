@@ -7,10 +7,10 @@ Suicide bombers target game in northern town of Tal Afar, leaving at least 25 de
 
 ### Source:
 
-1. [France24](http://www.france24.com/en/20100514-iraq-suicide-blast-football-match-stadium-north-tal-afar)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/05/2010514161932327374.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8683642.stm)
-3. [Xinhuanet](http://news.xinhuanet.com/english2010/world/2010-05/15/c_13295336.htm)
-4. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/05/2010514161932327374.html)
+3. [France24](http://www.france24.com/en/20100514-iraq-suicide-blast-football-match-stadium-north-tal-afar)
+4. [Xinhuanet](http://news.xinhuanet.com/english2010/world/2010-05/15/c_13295336.htm)
 
 ### Related:
 
@@ -23,4 +23,4 @@ Suicide bombers target game in northern town of Tal Afar, leaving at least 25 de
 7. [ Iraqi insurgency: Suicide bombers kill 22 people and wound 26 in the city of Tal Afar in northern Iraq. ](/news/2006/11/24/iraqi-insurgency-suicide-bombers-kill-22-people-and-wound-26-in-the-city-of-tal-afar-in-northern-iraq.md) _Context: Iraq, Tal Afar_
 8. [Occupation of Iraq:Some 60 U.S. soldiers and a handful of Iraqis are injured in Tal Afar, west of Mosul, when a pre-dawn car bomb explodes at an entrance to an army base. ](/news/2003/12/9/occupation-of-iraq-psome-60-u-s-soldiers-and-a-handful-of-iraqis-are-injured-in-tal-afar-west-of-mosul-when-a-pre-dawn-car-bomb-explodes.md) _Context: Iraq, Tal Afar_
 9. [The United Nations announces expansion of civilian camps for people fleeing Mosul, following resumption of airstrikes  on ISIL-held portions of the Iraqi city. ](/news/2017/04/4/the-united-nations-announces-expansion-of-civilian-camps-for-people-fleeing-mosul-following-resumption-of-airstrikes-on-isil-held-portions.md) _Context: Iraq_
-10. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also 5 Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-5-peshmerga-fighters-are-killed-during-a-tu.md) _Context: Iraq_
+10. [The pro-government Popular Mobilization Forces militia takes control of the mostly destroyed ancient city of Hatra in Iraq's Nineveh Governorate, following clashes with ISIL, who seized the ruins in 2014. ](/news/2017/04/26/the-pro-government-popular-mobilization-forces-militia-takes-control-of-the-mostly-destroyed-ancient-city-of-hatra-in-iraq-s-nineveh-governo.md) _Context: Iraq_

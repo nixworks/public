@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Scotsman](http://news.scotsman.com/world/Russia-kills-20-in-battles.6069672.jp)
-2. [The Star](http://thestar.com.my/news/story.asp?file=/2010/2/13/worldupdates/2010-02-12T223159Z_01_NOOTR_RTRMDNC_0_-460923-4&sec=Worldupdates)
-3. [BBC](http://news.bbc.co.uk/2/hi/europe/8512367.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8512367.stm)
+2. [The Scotsman](http://news.scotsman.com/world/Russia-kills-20-in-battles.6069672.jp)
+3. [The Star](http://thestar.com.my/news/story.asp?file=/2010/2/13/worldupdates/2010-02-12T223159Z_01_NOOTR_RTRMDNC_0_-460923-4&sec=Worldupdates)
 
 ### Related:
 

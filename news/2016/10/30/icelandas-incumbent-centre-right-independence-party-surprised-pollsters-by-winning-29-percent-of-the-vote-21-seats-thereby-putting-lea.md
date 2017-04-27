@@ -8,12 +8,12 @@ The Pirates — formed just four years ago — had polled between 18 and 30 perc
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-10-30/pirate-party-surge-falls-short-as-icelanders-back-stability)
-2. [The Guardian](https://www.theguardian.com/world/2016/oct/30/iceland-elections-ruling-centre-right-party-pirate-party)
-3. [NPR](http://www.npr.org/sections/thetwo-way/2016/10/30/499973354/women-win-30-seats-in-icelands-parliament-more-than-any-party)
-4. [The Independent](http://www.independent.co.uk/news/world/europe/iceland-prime-minister-resigns-sigurdur-ingi-johannsson-pirate-party-a7387846.html)
+2. [Iceland Review](http://icelandreview.com/news/2016/10/29/election-facts)
+3. [NBC News](http://www.nbcnews.com/news/world/iceland-s-radical-pirate-party-falls-short-parliamentary-election-n675516)
+4. [NPR](http://www.npr.org/sections/thetwo-way/2016/10/30/499973354/women-win-30-seats-in-icelands-parliament-more-than-any-party)
 5. [New York](http://nymag.com/thecut/2016/10/women-now-make-up-almost-half-of-icelands-parliament.html)
-6. [NBC News](http://www.nbcnews.com/news/world/iceland-s-radical-pirate-party-falls-short-parliamentary-election-n675516)
-7. [Iceland Review](http://icelandreview.com/news/2016/10/29/election-facts)
+6. [The Guardian](https://www.theguardian.com/world/2016/oct/30/iceland-elections-ruling-centre-right-party-pirate-party)
+7. [The Independent](http://www.independent.co.uk/news/world/europe/iceland-prime-minister-resigns-sigurdur-ingi-johannsson-pirate-party-a7387846.html)
 
 ### Related:
 

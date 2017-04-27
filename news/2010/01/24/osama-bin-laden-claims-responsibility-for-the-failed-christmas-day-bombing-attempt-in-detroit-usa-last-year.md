@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [VOA](http://www1.voanews.com/english/news/middle-east/Bin-Laden-Claims-Responsibility-for-Christmas-Day-Bombing-Attempt-82543452.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8477413.stm)
 2. [The New York Times](http://www.nytimes.com/reuters/2010/01/24/world/international-us-binladen-plane.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8477413.stm)
+3. [VOA](http://www1.voanews.com/english/news/middle-east/Bin-Laden-Claims-Responsibility-for-Christmas-Day-Bombing-Attempt-82543452.html)
 
 ### Related:
 

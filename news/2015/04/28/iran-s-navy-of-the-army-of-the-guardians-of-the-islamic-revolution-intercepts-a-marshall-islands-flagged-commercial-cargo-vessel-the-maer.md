@@ -7,8 +7,8 @@ Iranian Revolutionary Guard Corps ships intercepted a Marshall Islands-flagged c
 
 ### Source:
 
-1. [Yahoo! Politics](https://www.yahoo.com/politics/iran-diverts-marshall-islands-cargo-ship-in-strait-117610409431.html)
-2. [CNN](http://www.cnn.com/2015/04/28/politics/iran-seizes-commercial-ship-u-s-official-says-no-americans-on-board)
+1. [CNN](http://www.cnn.com/2015/04/28/politics/iran-seizes-commercial-ship-u-s-official-says-no-americans-on-board)
+2. [Yahoo! Politics](https://www.yahoo.com/politics/iran-diverts-marshall-islands-cargo-ship-in-strait-117610409431.html)
 
 ### Related:
 

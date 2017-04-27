@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters](http://go.reuters.com/newsArticle.jhtml?type=worldNews&storyID=13335339&src=rss/worldNews)
+1. [BBC NEWS](http://news.bbc.co.uk/1/hi/world/middle_east/5299938.stm)
 2. [Haaretz](http://haaretz.com/hasen/spages/756381.html)
-3. [BBC NEWS](http://news.bbc.co.uk/1/hi/world/middle_east/5299938.stm)
+3. [Reuters](http://go.reuters.com/newsArticle.jhtml?type=worldNews&storyID=13335339&src=rss/worldNews)
 
 ### Related:
 

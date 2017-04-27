@@ -7,9 +7,9 @@ Slovenia began erecting a razor wire fence along parts of its border with Croati
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/11/11/us-europe-migrants-slovenia-idUSKCN0T00I120151111)
-2. [Bloomberg](http://www.bloomberg.com/news/articles/2015-11-11/sweden-resorts-to-temporary-border-controls-amid-refugee-crisis)
-3. [Newsweek](http://europe.newsweek.com/sweden-introduces-border-checks-control-refugee-flow-336427)
+1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-11-11/sweden-resorts-to-temporary-border-controls-amid-refugee-crisis)
+2. [Newsweek](http://europe.newsweek.com/sweden-introduces-border-checks-control-refugee-flow-336427)
+3. [Reuters](http://www.reuters.com/article/2015/11/11/us-europe-migrants-slovenia-idUSKCN0T00I120151111)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RadioFree Europe](http://www.rferl.org/content/Thai_Authorities_Declare_State_Of_Emergency/1607069.html)
-2. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/04/12/thailand.protests/index.html)
+1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/04/12/thailand.protests/index.html)
+2. [RadioFree Europe](http://www.rferl.org/content/Thai_Authorities_Declare_State_Of_Emergency/1607069.html)
 
 ### Related:
 

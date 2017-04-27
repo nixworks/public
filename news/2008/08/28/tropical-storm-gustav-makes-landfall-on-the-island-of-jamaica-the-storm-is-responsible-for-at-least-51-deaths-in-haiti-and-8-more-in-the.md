@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2008/WORLD/weather/08/28/gustav/index.html)
-2. [AP via MarketWatch](http://www.marketwatch.com/news/story/tropical-storm-hanna-marks-eighth/story.aspx?guid=%7B8939DC45-ED69-480A-8F6A-252353E10300%7D&dist=msr_1)
+1. [AP via MarketWatch](http://www.marketwatch.com/news/story/tropical-storm-hanna-marks-eighth/story.aspx?guid=%7B8939DC45-ED69-480A-8F6A-252353E10300%7D&dist=msr_1)
+2. [CNN](http://www.cnn.com/2008/WORLD/weather/08/28/gustav/index.html)
 
 ### Related:
 

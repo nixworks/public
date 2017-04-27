@@ -7,13 +7,13 @@
 
 ### Source:
 
-1. [Al Arabiya](http://www.alarabiya.net/articles/2011/02/25/139234.html)
-2. [AFP via ''Melbourne Herald-Sun](http://www.heraldsun.com.au/news/breaking-news/libyas-un-ambassador-mohammed-shalgham-defects/story-e6frf7jx-1226012395580)
-3. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/02/2011225165641323716.html)
-4. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2011/02/gadhafi-makes-surprise-appearance-in-tripolis-green-square/1)
+1. [AFP via ''Melbourne Herald-Sun](http://www.heraldsun.com.au/news/breaking-news/libyas-un-ambassador-mohammed-shalgham-defects/story-e6frf7jx-1226012395580)
+2. [Al Arabiya](http://www.alarabiya.net/articles/2011/02/25/139145.html)
+3. [Al Arabiya](http://www.alarabiya.net/articles/2011/02/25/139234.html)
+4. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/02/2011225165641323716.html)
 5. [Los Angeles Times](http://latimesblogs.latimes.com/washington/2011/02/gaddafi-obama-libya-sanctions.html)
-6. [Al Arabiya](http://www.alarabiya.net/articles/2011/02/25/139145.html)
-7. [MSNBC](http://www.msnbc.msn.com/id/41779850)
+6. [MSNBC](http://www.msnbc.msn.com/id/41779850)
+7. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2011/02/gadhafi-makes-surprise-appearance-in-tripolis-green-square/1)
 
 ### Related:
 

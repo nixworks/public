@@ -7,9 +7,9 @@ A 23-hour terror siege that left Lal Chowk, the bustling centre of Jammu and Kas
 
 ### Source:
 
-1. [Sify](http://sify.com/news/23-hour-Srinagar-siege-ends-Pakistani-among-two-terrorists-killed-news-kbht4bhahhi.html)
-2. [Indian Express](http://www.indianexpress.com/news/the-indian-leaders-are-vigilant/564444/)
-3. [New York Times](http://www.nytimes.com/2010/01/08/world/asia/08kashmir.html)
+1. [Indian Express](http://www.indianexpress.com/news/the-indian-leaders-are-vigilant/564444/)
+2. [New York Times](http://www.nytimes.com/2010/01/08/world/asia/08kashmir.html)
+3. [Sify](http://sify.com/news/23-hour-Srinagar-siege-ends-Pakistani-among-two-terrorists-killed-news-kbht4bhahhi.html)
 
 ### Related:
 

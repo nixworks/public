@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Indian Express](http://www.indianexpress.com/news/jk-avalanche-rescue-operations-called-off-17-jawans-1-officer-die/577123/)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8504034.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8504034.stm)
+2. [Indian Express](http://www.indianexpress.com/news/jk-avalanche-rescue-operations-called-off-17-jawans-1-officer-die/577123/)
 
 ### Related:
 

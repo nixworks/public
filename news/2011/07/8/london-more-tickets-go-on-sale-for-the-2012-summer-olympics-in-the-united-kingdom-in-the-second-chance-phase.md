@@ -7,8 +7,8 @@ People who obtained tickets for the 2012 Olympics in the first round sale get an
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/uk-14066068)
-2. [AP via ''USA Today](http://www.usatoday.com/sports/olympics/2011-07-08-3604674859_x.htm)
+1. [AP via ''USA Today](http://www.usatoday.com/sports/olympics/2011-07-08-3604674859_x.htm)
+2. [BBC](http://www.bbc.co.uk/news/uk-14066068)
 
 ### Related:
 

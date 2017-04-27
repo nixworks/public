@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11817685)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/11/201011234324435340.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/11/201011234324435340.html)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11817685)
 
 ### Related:
 

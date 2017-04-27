@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Reuters](http://olympics.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7375821)
-2. [ITAR-TASS](http://www.tass.ru/eng/level2.html?NewsID=1658745&PageNum=0)
-3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=aLwNCPkUqOo0&refer=europe)
-4. [BBC](http://news.bbc.co.uk/2/hi/europe/4190161.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4190161.stm)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=aLwNCPkUqOo0&refer=europe)
+3. [ITAR-TASS](http://www.tass.ru/eng/level2.html?NewsID=1658745&PageNum=0)
+4. [Reuters](http://olympics.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7375821)
 
 ### Related:
 

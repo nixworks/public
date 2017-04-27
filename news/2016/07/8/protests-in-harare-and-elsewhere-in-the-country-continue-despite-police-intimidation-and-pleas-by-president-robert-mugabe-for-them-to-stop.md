@@ -7,11 +7,11 @@ Zimbabwe&#x27;s President Robert Mugabe on Friday blamed sanctions by Western co
 
 ### Source:
 
-1. [Ventures Africa](https://venturesafrica.com/zimbabwe-and-mugabe-till-death-do-them-part-literally/)
-2. [Voice of America Zimbabwe](http://www.voazimbabwe.com/a/protest-leaders-defiant-as-police-orders/3409664.html)
-3. [AFP via Yahoo! News](https://www.yahoo.com/news/govt-workers-not-payed-due-west-sanctions-says-183704292.html)
-4. [AP via ''The Washington Post](https://www.washingtonpost.com/world/africa/zimbabwe-leader-blames-wests-sanctions-for-late-salaries/2016/07/08/d1378f0a-4535-11e6-a76d-3550dba926ac_story.html)
-5. [Reuters via CNBC Africa](http://www.cnbcafrica.com/news/southern-africa/2016/07/08/zimbabwe-social-media-anti-mugabe-protests/)
+1. [AFP via Yahoo! News](https://www.yahoo.com/news/govt-workers-not-payed-due-west-sanctions-says-183704292.html)
+2. [AP via ''The Washington Post](https://www.washingtonpost.com/world/africa/zimbabwe-leader-blames-wests-sanctions-for-late-salaries/2016/07/08/d1378f0a-4535-11e6-a76d-3550dba926ac_story.html)
+3. [Reuters via CNBC Africa](http://www.cnbcafrica.com/news/southern-africa/2016/07/08/zimbabwe-social-media-anti-mugabe-protests/)
+4. [Ventures Africa](https://venturesafrica.com/zimbabwe-and-mugabe-till-death-do-them-part-literally/)
+5. [Voice of America Zimbabwe](http://www.voazimbabwe.com/a/protest-leaders-defiant-as-police-orders/3409664.html)
 
 ### Related:
 

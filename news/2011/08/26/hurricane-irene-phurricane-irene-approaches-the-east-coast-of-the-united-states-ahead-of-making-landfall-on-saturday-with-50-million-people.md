@@ -7,16 +7,16 @@ Hurricane Irene was bearing down on North Carolina Thursday on track to make lan
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/2011/08/26/us-storm-irene-idUKTRE77K01820110826)
-2. [CBS News](http://www.cbsnews.com/8301-503544_162-20097834-503544.html)
-3. [BBC](http://www.bbc.co.uk/news/world-us-canada-14669374)
-4. [International Business Times](http://www.ibtimes.com/articles/204559/20110826/hurricane-irene-nyc.htm)
-5. [WRAL](http://www.wral.com/weather/story/10046861/)
-6. [AP via YouTube](http://www.youtube.com/watch?v=eJDVJuOBf4g&feature=uploademail)
+1. [AP via ''San Luis Obispo Tribune](http://www.sanluisobispo.com/2011/08/26/1731223/baltimore-mayor-declares-state.html)
+2. [AP via NJ.com](http://www.nj.com/news/index.ssf/2011/08/atlantic_city_casinos_are_clos.html)
+3. [AP via YouTube](http://www.youtube.com/watch?v=eJDVJuOBf4g&feature=uploademail)
+4. [BBC](http://www.bbc.co.uk/news/world-us-canada-14669374)
+5. [CBS News](http://www.cbsnews.com/8301-503544_162-20097834-503544.html)
+6. [Daily Mail](http://www.dailymail.co.uk/news/article-2030153/Hurricane-Irene-cancels-Martin-Luther-King-Jr-celebration.html?ito=feeds-newsxml)
 7. [Fox News](http://www.foxnews.com/weather/2011/08/25/connecticut-governor-declares-state-emergency-ahead-irene/)
-8. [AP via NJ.com](http://www.nj.com/news/index.ssf/2011/08/atlantic_city_casinos_are_clos.html)
-9. [Daily Mail](http://www.dailymail.co.uk/news/article-2030153/Hurricane-Irene-cancels-Martin-Luther-King-Jr-celebration.html?ito=feeds-newsxml)
-10. [AP via ''San Luis Obispo Tribune](http://www.sanluisobispo.com/2011/08/26/1731223/baltimore-mayor-declares-state.html)
+8. [International Business Times](http://www.ibtimes.com/articles/204559/20110826/hurricane-irene-nyc.htm)
+9. [Reuters](http://uk.reuters.com/article/2011/08/26/us-storm-irene-idUKTRE77K01820110826)
+10. [WRAL](http://www.wral.com/weather/story/10046861/)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11539342)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jpFylLkCiUTq9Kat88Bo5ujCVAgQD9IRA2Q00?docId=D9IRA2Q00)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jpFylLkCiUTq9Kat88Bo5ujCVAgQD9IRA2Q00?docId=D9IRA2Q00)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11539342)
 3. [Jakarta Post](http://www.thejakartapost.com/news/2010/10/14/court-ruling-ends-govt%E2%80%99s-authority-ban-books.html)
 
 ### Related:

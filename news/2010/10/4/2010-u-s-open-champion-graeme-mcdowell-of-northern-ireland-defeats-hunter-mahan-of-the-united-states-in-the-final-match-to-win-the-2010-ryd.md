@@ -7,10 +7,10 @@ All the latest Golf News, Results &amp; Fixtures, brought to you as it happens, 
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/sports/golf/2010/1004/1224280375151.html)
-2. [BBC Sport](http://news.bbc.co.uk/sport2/hi/golf/9056244.stm)
+1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/golf/9056244.stm)
+2. [RTÉ Sport](http://www.rte.ie/sport/golf/2010/1004/rydercup1.html)
 3. [Sky News](http://news.sky.com/skynews/Home/UK-News/Ryder-Cup-Europe-Win-Back-The-Cup-At-Celtic-Manor-After-Historic-Finale/Article/201010115751052?lpos=UK_News_Carousel_Region_2&lid=ARTICLE_15751052_Ryder_Cup%3A_Europe_Win_Back_The_Cup_At_Celtic_Manor_After_Historic_Finale)
-4. [RTÉ Sport](http://www.rte.ie/sport/golf/2010/1004/rydercup1.html)
+4. [The Irish Times](http://www.irishtimes.com/sports/golf/2010/1004/1224280375151.html)
 
 ### Related:
 

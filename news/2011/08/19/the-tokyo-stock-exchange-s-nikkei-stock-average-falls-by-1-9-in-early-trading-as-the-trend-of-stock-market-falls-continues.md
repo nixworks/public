@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Wall Street Journal](http://online.wsj.com/article/SB10001424053111903596904576517032557747932.html)
-2. [AAP via ''The Australian](http://www.theaustralian.com.au/business/markets/all-ordinaries-tumbles-44pc-after-wall-street-rout/story-e6frg916-1226118294956)
+1. [AAP via ''The Australian](http://www.theaustralian.com.au/business/markets/all-ordinaries-tumbles-44pc-after-wall-street-rout/story-e6frg916-1226118294956)
+2. [Wall Street Journal](http://online.wsj.com/article/SB10001424053111903596904576517032557747932.html)
 
 ### Related:
 

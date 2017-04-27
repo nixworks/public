@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Malaysian Star](http://biz.thestar.com.my/news/story.asp?file=/2005/4/5/business/10581841&sec=business)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000081&sid=aJYGCExCIPJU&refer=australia)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000081&sid=aJYGCExCIPJU&refer=australia)
+2. [Malaysian Star](http://biz.thestar.com.my/news/story.asp?file=/2005/4/5/business/10581841&sec=business)
 3. [Radio Australia](http://www.abc.net.au/ra/news/stories/s1340187.htm)
 
 ### Related:

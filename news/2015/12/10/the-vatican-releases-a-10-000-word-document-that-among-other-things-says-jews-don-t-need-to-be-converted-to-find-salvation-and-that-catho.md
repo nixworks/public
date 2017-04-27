@@ -7,8 +7,8 @@ Catholics should not try to convert Jews and should work with them to fight anti
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-pope-jews-idUSKBN0TT1BK20151210#bdz0KPLr1Y8xfUAR.97)
-2. [NPR](http://www.npr.org/sections/thetwo-way/2015/12/10/459223058/catholics-should-not-try-to-convert-jews-vatican-commission-says)
+1. [NPR](http://www.npr.org/sections/thetwo-way/2015/12/10/459223058/catholics-should-not-try-to-convert-jews-vatican-commission-says)
+2. [Reuters](http://www.reuters.com/article/us-pope-jews-idUSKBN0TT1BK20151210#bdz0KPLr1Y8xfUAR.97)
 3. [Vatican-full text](http://www.news.va/en/news/vatican-issues-new-document-on-christian-jewish-di)
 
 ### Related:

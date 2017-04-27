@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/news.htm?hightlight&20090907&56&610244)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hikHmIcsFQBIw5XM43Wly5Eo0kqA)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hikHmIcsFQBIw5XM43Wly5Eo0kqA)
+2. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/news.htm?hightlight&20090907&56&610244)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Villanova put together one of the most dominating performances we saw all season
 
 ### Source:
 
-1. [Toronto Sun](http://www.torontosun.com/2016/04/03/north-carolina-crushes-orange)
-2. [NBC Sports](http://collegebasketball.nbcsports.com/2016/04/02/villanova-title-game-beat-oklahoma-44-points/)
+1. [NBC Sports](http://collegebasketball.nbcsports.com/2016/04/02/villanova-title-game-beat-oklahoma-44-points/)
+2. [Toronto Sun](http://www.torontosun.com/2016/04/03/north-carolina-crushes-orange)
 
 ### Related:
 

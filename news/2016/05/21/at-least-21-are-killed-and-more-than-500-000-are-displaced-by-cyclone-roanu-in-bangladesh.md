@@ -7,12 +7,12 @@ A cyclone battered coastal Bangladesh on Saturday, killing at least 21 people an
 
 ### Source:
 
-1. [Washington Post](https://www.washingtonpost.com/world/asia_pacific/73-dead-scores-missing-in-weeklong-sri-lanka-storms/2016/05/21/a54d42ec-1f4f-11e6-82c2-a7dcb313287d_story.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/2016/05/cyclone-roanu-wreaks-havoc-approaches-bangladesh-160521083413304.html)
 2. [Press Trust of India via ''Business Standard](http://www.newsjs.com/url.php?p=http://www.business-standard.com/article/pti-stories/71-killed-127-missing-as-foreign-aid-reaches-flood-hit-lanka-116052100531_1.html)
 3. [Reuters](http://www.reuters.com/article/us-cyclone-bangladesh-idUSKCN0YC08E)
-4. [The Guardian](http://www.theguardian.com/world/2016/may/21/sri-lanka-landslides-torrential-rains)
-5. [The Daily Star](http://www.thedailystar.net/country/storm-kills-2-bhola-1227433)
-6. [Al Jazeera](http://www.aljazeera.com/news/2016/05/cyclone-roanu-wreaks-havoc-approaches-bangladesh-160521083413304.html)
+4. [The Daily Star](http://www.thedailystar.net/country/storm-kills-2-bhola-1227433)
+5. [The Guardian](http://www.theguardian.com/world/2016/may/21/sri-lanka-landslides-torrential-rains)
+6. [Washington Post](https://www.washingtonpost.com/world/asia_pacific/73-dead-scores-missing-in-weeklong-sri-lanka-storms/2016/05/21/a54d42ec-1f4f-11e6-82c2-a7dcb313287d_story.html)
 7. [bd24new.com](http://bdnews24.com/bangladesh/2016/05/21/cyclone-roanu-claims-19-lives-in-seven-bangladesh-districts)
 
 ### Related:

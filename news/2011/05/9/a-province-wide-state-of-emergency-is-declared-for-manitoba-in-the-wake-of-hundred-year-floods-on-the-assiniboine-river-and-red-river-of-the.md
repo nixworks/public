@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Canadian Press](http://www.google.com/hostednews/canadianpress/article/ALeqM5iwiWqdGZXp9QEP_dojKRmMHf3NmA?docId=6799222)
+1. [CJOB 68](http://www.cjob.com/News/Local/Story.aspx?ID=1414873)
 2. [CTV](http://winnipeg.ctv.ca/servlet/an/local/CTVNews/20110510/wpg_brandon_evac_flood_110510/20110510/?hub=WinnipegHome)
-3. [CJOB 68](http://www.cjob.com/News/Local/Story.aspx?ID=1414873)
+3. [The Canadian Press](http://www.google.com/hostednews/canadianpress/article/ALeqM5iwiWqdGZXp9QEP_dojKRmMHf3NmA?docId=6799222)
 
 ### Related:
 

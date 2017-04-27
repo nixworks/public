@@ -7,13 +7,13 @@ Russian President Vladimir Putin has requested the use of Russian military force
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-europe-26400035)
-2. [CNN](http://edition.cnn.com/2014/02/28/politics/obama-remarks-on-ukraine/index.html)
-3. [BBC](http://www.bbc.com/news/world-europe-26400597)
-4. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-03-01-Ukraine/id-35029fd202ca4404a1b86a5c7241a47a)
-5. [Associated Press](http://www.cnbc.com/id/101449482)
-6. [Russia Today](http://rt.com/news/russia-troops-ukraine-possible-359/)
-7. [CNN](http://edition.cnn.com/video/data/2.0/video/world/2014/03/01/newday-pleitgen-russia-okays-troops-ukraine.cnn.html)
+1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-03-01-Ukraine/id-35029fd202ca4404a1b86a5c7241a47a)
+2. [Associated Press](http://www.cnbc.com/id/101449482)
+3. [BBC](http://www.bbc.com/news/world-europe-26400035)
+4. [BBC](http://www.bbc.com/news/world-europe-26400597)
+5. [CNN](http://edition.cnn.com/2014/02/28/politics/obama-remarks-on-ukraine/index.html)
+6. [CNN](http://edition.cnn.com/video/data/2.0/video/world/2014/03/01/newday-pleitgen-russia-okays-troops-ukraine.cnn.html)
+7. [Russia Today](http://rt.com/news/russia-troops-ukraine-possible-359/)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [UN News](http://www.un.org/News/Press/docs/2009/sc9654.doc.htm)
-2. [France24](http://www.france24.com/en/20090509-un-slams-rebel-attacks-eastern-chad-assault-military-security-council)
+1. [France24](http://www.france24.com/en/20090509-un-slams-rebel-attacks-eastern-chad-assault-military-security-council)
+2. [UN News](http://www.un.org/News/Press/docs/2009/sc9654.doc.htm)
 
 ### Related:
 

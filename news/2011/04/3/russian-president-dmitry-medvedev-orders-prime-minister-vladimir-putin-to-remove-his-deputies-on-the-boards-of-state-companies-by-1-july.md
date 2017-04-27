@@ -7,9 +7,9 @@ Russian President DmitryMedvedev ordered Prime Minister Vladimir Putin to &quot;
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/russia/20110402/163339220.html)
-2. [Reuters](http://www.reuters.com/article/2011/04/02/russia-companies-idUSLDE73104L20110402)
-3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12949853)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12949853)
+2. [RIA Novosti](http://en.rian.ru/russia/20110402/163339220.html)
+3. [Reuters](http://www.reuters.com/article/2011/04/02/russia-companies-idUSLDE73104L20110402)
 
 ### Related:
 

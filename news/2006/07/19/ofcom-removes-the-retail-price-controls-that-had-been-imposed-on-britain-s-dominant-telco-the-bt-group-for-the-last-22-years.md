@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/business/5194216.stm)
-2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=topNews&storyID=2006-07-19T093923Z_01_WLA0768_RTRUKOC_0_UK-TELECOMS-BT.xml)
-3. [LSE](http://www.lse.co.uk/FinanceNews.asp?shareprice=&ArticleRef=20678&ArticleHeadline=UK_Ofcom_removes_retail_price_controls_on_BT_line_rental_and_calls)
+2. [LSE](http://www.lse.co.uk/FinanceNews.asp?shareprice=&ArticleRef=20678&ArticleHeadline=UK_Ofcom_removes_retail_price_controls_on_BT_line_rental_and_calls)
+3. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=topNews&storyID=2006-07-19T093923Z_01_WLA0768_RTRUKOC_0_UK-TELECOMS-BT.xml)
 
 ### Related:
 

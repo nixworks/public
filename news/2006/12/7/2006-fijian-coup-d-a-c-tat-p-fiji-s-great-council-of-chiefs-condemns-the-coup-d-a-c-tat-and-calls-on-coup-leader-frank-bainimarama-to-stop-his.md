@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Fiji Times](http://www.fijitimes.com/story.aspx?id=53107)
-2. [ABC News Australia](http://www.abc.net.au/news/newsitems/200612/s1806199.htm)
-3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6216208.stm)
+1. [ABC News Australia](http://www.abc.net.au/news/newsitems/200612/s1806199.htm)
+2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6216208.stm)
+3. [Fiji Times](http://www.fijitimes.com/story.aspx?id=53107)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Pope Benedict SVI has accepted the resignation of a German bishop who has been a
 
 ### Source:
 
-1. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/05/08/AR2010050801109.html?hpid=moreheadlines)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8669747.stm)
 2. [RTÉ](http://www.rte.ie/news/2010/0508/abuse.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/europe/8669747.stm)
+3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/05/08/AR2010050801109.html?hpid=moreheadlines)
 
 ### Related:
 

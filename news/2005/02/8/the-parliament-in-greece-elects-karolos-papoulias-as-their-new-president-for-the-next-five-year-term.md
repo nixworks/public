@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/articles/A9610-2005Feb8.html)
-2. [Seattle Post-Intelligencer](http://seattlepi.com/national/apeurope_story.asp?category=1103&slug=Greece%20President)
+1. [Seattle Post-Intelligencer](http://seattlepi.com/national/apeurope_story.asp?category=1103&slug=Greece%20President)
+2. [Washington Post](http://www.washingtonpost.com/wp-dyn/articles/A9610-2005Feb8.html)
 
 ### Related:
 

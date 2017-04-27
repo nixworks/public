@@ -7,8 +7,8 @@ The move comes a day after opponents of Bashar al-Assad were given Syria seat at
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2013/03/28/world/middleeast/syrias-developments.html)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/03/201332801947829802.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/03/201332801947829802.html)
+2. [The New York Times](http://www.nytimes.com/2013/03/28/world/middleeast/syrias-developments.html)
 
 ### Related:
 

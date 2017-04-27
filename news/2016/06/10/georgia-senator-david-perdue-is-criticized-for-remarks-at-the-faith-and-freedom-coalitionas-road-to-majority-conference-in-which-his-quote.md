@@ -7,8 +7,8 @@ Georgia Sen. David Perdue said people should pray for President Barack Obama, th
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Top_News/US/2016/06/10/Sen-David-Perdue-tells-faith-event-Pray-Obamas-days-are-few/2071465585306/?spt=hs&or=tn_us)
-2. [The Daily Beast](http://www.thedailybeast.com/articles/2016/06/10/gop-senator-david-perdue-jokes-about-praying-for-obama-s-death.html)
+1. [The Daily Beast](http://www.thedailybeast.com/articles/2016/06/10/gop-senator-david-perdue-jokes-about-praying-for-obama-s-death.html)
+2. [UPI](http://www.upi.com/Top_News/US/2016/06/10/Sen-David-Perdue-tells-faith-event-Pray-Obamas-days-are-few/2071465585306/?spt=hs&or=tn_us)
 
 ### Related:
 

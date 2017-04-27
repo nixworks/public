@@ -7,11 +7,11 @@ Eggs have been thrown at Bank of Ireland&#39;s Chairman and CEO at the Annual Ge
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0615/breaking26.html)
-2. [BBC](http://www.bbc.co.uk/news/business-13782172)
-3. [RTÉ](http://www.rte.ie/news/2011/0615/boi.html)
-4. [The Wall Street Journal](http://online.wsj.com/article/BT-CO-20110615-705506.html)
-5. [The Guardian](http://www.guardian.co.uk/business/2011/jun/15/bank-of-ireland-agm-investors-pensioners-anger)
+1. [BBC](http://www.bbc.co.uk/news/business-13782172)
+2. [RTÉ](http://www.rte.ie/news/2011/0615/boi.html)
+3. [The Guardian](http://www.guardian.co.uk/business/2011/jun/15/bank-of-ireland-agm-investors-pensioners-anger)
+4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0615/breaking26.html)
+5. [The Wall Street Journal](http://online.wsj.com/article/BT-CO-20110615-705506.html)
 
 ### Related:
 

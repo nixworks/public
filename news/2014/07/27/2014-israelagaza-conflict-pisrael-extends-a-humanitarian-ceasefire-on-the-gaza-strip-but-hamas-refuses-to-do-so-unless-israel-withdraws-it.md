@@ -7,9 +7,9 @@ The new move came after a crisis meeting of Israeli cabinet late night
 
 ### Source:
 
-1. [PTI via ''Business Standard](http://www.business-standard.com/article/pti-stories/israel-extends-gaza-ceasefire-for-24-hours-114072700062_1.html)
-2. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/1.607348)
-3. [NBC News](http://www.nbcnews.com/storyline/middle-east-unrest/israel-resume-fighting-gaza-truce-breaks-down-official-n165916)
+1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/1.607348)
+2. [NBC News](http://www.nbcnews.com/storyline/middle-east-unrest/israel-resume-fighting-gaza-truce-breaks-down-official-n165916)
+3. [PTI via ''Business Standard](http://www.business-standard.com/article/pti-stories/israel-extends-gaza-ceasefire-for-24-hours-114072700062_1.html)
 
 ### Related:
 

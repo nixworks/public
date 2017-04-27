@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-06-26T081513Z_01_MOL567730_RTRUKOC_0_BULGARIA-ELECTION.xml)
-2. [Int'l Herald Tribune](http://www.iht.com/articles/2005/06/26/news/bulgaria.php)
+1. [Int'l Herald Tribune](http://www.iht.com/articles/2005/06/26/news/bulgaria.php)
+2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-06-26T081513Z_01_MOL567730_RTRUKOC_0_BULGARIA-ELECTION.xml)
 
 ### Related:
 

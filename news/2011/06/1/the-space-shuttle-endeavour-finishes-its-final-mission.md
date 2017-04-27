@@ -7,9 +7,9 @@ The US space shuttle Endeavour brings its 19-year operational career to a close 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/science-environment-13601008)
-2. [Reuters via Times South Africa](http://www.timeslive.co.za/scitech/article1095969.ece/Endeavour-lands-in-Florida)
-3. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5i85AojloPsLtsge52pGbZRWyVLTQ?docId=c57664afd4bc48e3a90c38c7c67c4eb8)
+1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5i85AojloPsLtsge52pGbZRWyVLTQ?docId=c57664afd4bc48e3a90c38c7c67c4eb8)
+2. [BBC](http://www.bbc.co.uk/news/science-environment-13601008)
+3. [Reuters via Times South Africa](http://www.timeslive.co.za/scitech/article1095969.ece/Endeavour-lands-in-Florida)
 
 ### Related:
 

@@ -7,16 +7,16 @@
 
 ### Source:
 
-1. [Kyodo News via ''The Japan Times](http://www.japantimes.co.jp/text/nn20120925a2.html)
-2. [Kyodo News via ''Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120924p2g00m0dm084000c.html)
-3. [Kyodo News, AFP, and Jiji Press via ''The Japan Times](http://www.yomiuri.co.jp/dy/national/T120923002948.htm)
-4. [Yomiuri Shimbun](http://www.yomiuri.co.jp/dy/national/T120924003925.htm)
-5. [Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120924p2a00m0na013000c.html)
-6. [Jiji Press via ''Mainichi Shimbun](http://www.yomiuri.co.jp/dy/national/T120923003119.htm)
-7. [Kyodo News via ''Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120924p2g00m0dm029000c.html)
-8. [Yomiuri Shimbun](http://www.yomiuri.co.jp/dy/national/T120924003927.htm)
-9. [Bangkok Post](http://www.bangkokpost.com/news/asia/313830/taiwan-flotilla-leaves-for-disputed-islands)
-10. [Kyodo News via ''Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120924p2g00m0dm027000c.html)
+1. [Bangkok Post](http://www.bangkokpost.com/news/asia/313830/taiwan-flotilla-leaves-for-disputed-islands)
+2. [Jiji Press via ''Mainichi Shimbun](http://www.yomiuri.co.jp/dy/national/T120923003119.htm)
+3. [Kyodo News via ''Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120924p2g00m0dm027000c.html)
+4. [Kyodo News via ''Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120924p2g00m0dm029000c.html)
+5. [Kyodo News via ''Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120924p2g00m0dm084000c.html)
+6. [Kyodo News via ''The Japan Times](http://www.japantimes.co.jp/text/nn20120925a2.html)
+7. [Kyodo News, AFP, and Jiji Press via ''The Japan Times](http://www.yomiuri.co.jp/dy/national/T120923002948.htm)
+8. [Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120924p2a00m0na013000c.html)
+9. [Yomiuri Shimbun](http://www.yomiuri.co.jp/dy/national/T120924003925.htm)
+10. [Yomiuri Shimbun](http://www.yomiuri.co.jp/dy/national/T120924003927.htm)
 
 ### Related:
 

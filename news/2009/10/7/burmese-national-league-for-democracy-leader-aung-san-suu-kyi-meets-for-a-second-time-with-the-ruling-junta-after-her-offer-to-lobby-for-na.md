@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE59621L20091007)
-2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gs16E0Y8T8w9Edy1yiDa2nXqxwkwD9B65FD80)
-3. [New Light of Myanmar](http://diplomacymonitor.com/stu/dma1.nsf/uh/cc28A178F8957B48FF85257649001197BA)
+1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gs16E0Y8T8w9Edy1yiDa2nXqxwkwD9B65FD80)
+2. [New Light of Myanmar](http://diplomacymonitor.com/stu/dma1.nsf/uh/cc28A178F8957B48FF85257649001197BA)
+3. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE59621L20091007)
 
 ### Related:
 

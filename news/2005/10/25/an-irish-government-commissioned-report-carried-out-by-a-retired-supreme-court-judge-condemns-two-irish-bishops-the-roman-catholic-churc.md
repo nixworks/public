@@ -7,8 +7,8 @@ The report of the Ferns Inquiry says that it identified more than 100 allegation
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2005/1025/ferns.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4376328.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4376328.stm)
+2. [RTÉ](http://www.rte.ie/news/2005/1025/ferns.html)
 
 ### Related:
 

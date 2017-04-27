@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/athletics/8808738.stm)
-2. [The Star](http://thestar.com.my/sports/story.asp?file=/2010/7/13/sports/6651717&sec=sports)
-3. [France24](http://www.france24.com/en/20100712-semenya-not-african-championship-team-report)
+2. [France24](http://www.france24.com/en/20100712-semenya-not-african-championship-team-report)
+3. [The Star](http://thestar.com.my/sports/story.asp?file=/2010/7/13/sports/6651717&sec=sports)
 
 ### Related:
 

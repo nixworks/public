@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [One India](http://news.oneindia.in/2011/01/29/suukyi-appeals-for-democracy-growth-in-myanmar-atdavos-aid0126.html)
-2. [BBC](http://www.bbc.co.uk/news/business-12312559)
+1. [BBC](http://www.bbc.co.uk/news/business-12312559)
+2. [One India](http://news.oneindia.in/2011/01/29/suukyi-appeals-for-democracy-growth-in-myanmar-atdavos-aid0126.html)
 
 ### Related:
 

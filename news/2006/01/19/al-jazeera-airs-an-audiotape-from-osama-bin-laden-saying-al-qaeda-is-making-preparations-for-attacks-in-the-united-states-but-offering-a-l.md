@@ -7,8 +7,8 @@ The CIA confirmed Thursday that an audiotape claiming al-Qaida is making prepara
 
 ### Source:
 
-1. [MSNBC](http://www.msnbc.msn.com/id/10924015/)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4629858.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4629858.stm)
+2. [MSNBC](http://www.msnbc.msn.com/id/10924015/)
 
 ### Related:
 

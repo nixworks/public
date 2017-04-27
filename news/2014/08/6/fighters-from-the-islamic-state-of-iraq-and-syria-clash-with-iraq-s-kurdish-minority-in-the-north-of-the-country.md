@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2014/08/06/us-iraq-security-kurds-idUSKBN0G60U520140806)
+1. [AP via ''Modesto Bee](http://www.modbee.com/2014/08/06/3474270/airstrike-kills-60-militants-in.html)
 2. [AP via Yahoo! News](http://news.yahoo.com/iraq-tv-airstrike-kills-60-suspected-militants-154938647.html)
-3. [AP via ''Modesto Bee](http://www.modbee.com/2014/08/06/3474270/airstrike-kills-60-militants-in.html)
+3. [Reuters](http://www.reuters.com/article/2014/08/06/us-iraq-security-kurds-idUSKBN0G60U520140806)
 
 ### Related:
 

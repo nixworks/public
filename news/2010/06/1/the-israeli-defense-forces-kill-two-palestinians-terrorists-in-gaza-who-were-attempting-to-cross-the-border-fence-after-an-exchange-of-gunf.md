@@ -8,8 +8,8 @@ Infiltrators shot dead in exchange of fire with IDF soldiers.
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/201061135822164378.html)
-2. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=177148)
-3. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=177098)
+2. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=177098)
+3. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=177148)
 
 ### Related:
 

@@ -7,5 +7,5 @@
 
 ### Source:
 
-1. [Journal article](http://jid.oxfordjournals.org/content/early/2015/04/15/infdis.jiv231.abstract?sid=d9adfc3d-75cc-4f8f-b379-7936f028fa34)
-2. [Harvard Medical School](http://hms.harvard.edu/news/babyproofing-bacteremia)
+1. [Harvard Medical School](http://hms.harvard.edu/news/babyproofing-bacteremia)
+2. [Journal article](http://jid.oxfordjournals.org/content/early/2015/04/15/infdis.jiv231.abstract?sid=d9adfc3d-75cc-4f8f-b379-7936f028fa34)

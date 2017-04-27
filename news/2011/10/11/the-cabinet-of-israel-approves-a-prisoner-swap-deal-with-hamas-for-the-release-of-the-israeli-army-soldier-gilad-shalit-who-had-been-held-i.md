@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4134416,00.html)
-2. [Xinhuanet](http://news.xinhuanet.com/english2010/world/2011-10/12/c_131185670.htm)
+1. [Xinhuanet](http://news.xinhuanet.com/english2010/world/2011-10/12/c_131185670.htm)
+2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4134416,00.html)
 
 ### Related:
 

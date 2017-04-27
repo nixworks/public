@@ -7,8 +7,8 @@ News of Cardinal George&apos;s death on Friday brought reaction from fellow reli
 
 ### Source:
 
-1. [Chicago Tribune](http://www.chicagotribune.com/news/local/breaking/ct-cardinal-george-reaction-met-0418-20150417-story.html)
-2. [Archdiocese of Chicago](http://www.archchicago.org/pdf/Statement%20from%20Archbishop%20041715.pdf)
+1. [Archdiocese of Chicago](http://www.archchicago.org/pdf/Statement%20from%20Archbishop%20041715.pdf)
+2. [Chicago Tribune](http://www.chicagotribune.com/news/local/breaking/ct-cardinal-george-reaction-met-0418-20150417-story.html)
 
 ### Related:
 

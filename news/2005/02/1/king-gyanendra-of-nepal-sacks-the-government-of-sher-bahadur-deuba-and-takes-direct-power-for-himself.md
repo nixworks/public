@@ -7,8 +7,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7492904)
-2. [Rediff](http://www.rediff.com/news/2005/feb/01nepal.htm)
+1. [Rediff](http://www.rediff.com/news/2005/feb/01nepal.htm)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7492904)
 
 ### Related:
 

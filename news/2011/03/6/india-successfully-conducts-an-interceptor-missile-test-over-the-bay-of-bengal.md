@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_642079.html)
-2. [Indian Express](http://www.indianexpress.com/news/india-testfires-interceptor-missile/758570/)
+1. [Indian Express](http://www.indianexpress.com/news/india-testfires-interceptor-missile/758570/)
+2. [The Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_642079.html)
 
 ### Related:
 

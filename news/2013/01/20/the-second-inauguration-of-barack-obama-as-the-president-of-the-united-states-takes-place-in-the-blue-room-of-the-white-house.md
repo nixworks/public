@@ -7,9 +7,9 @@ Barack Obama is officially sworn in for his second term as US president in a sma
 
 ### Source:
 
-1. [USA Today](http://content.usatoday.com/communities/theoval/post/2012/03/2013-inaugural-ceremony-to-be-pushed-back-a-day/1)
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-21106159)
 2. [Reuters](http://www.reuters.com/article/2013/01/20/us-usa-inauguration-sworn-idUSBRE90J0CU20130120)
-3. [BBC](http://www.bbc.co.uk/news/world-us-canada-21106159)
+3. [USA Today](http://content.usatoday.com/communities/theoval/post/2012/03/2013-inaugural-ceremony-to-be-pushed-back-a-day/1)
 
 ### Related:
 

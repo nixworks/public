@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [New England Journal of Medicine](http://content.nejm.org/cgi/content/short/357/4/328)
-2. [CNN](http://edition.cnn.com/2007/US/07/25/death.cat.ap/)
+1. [CNN](http://edition.cnn.com/2007/US/07/25/death.cat.ap/)
+2. [New England Journal of Medicine](http://content.nejm.org/cgi/content/short/357/4/328)
 
 ### Related:
 

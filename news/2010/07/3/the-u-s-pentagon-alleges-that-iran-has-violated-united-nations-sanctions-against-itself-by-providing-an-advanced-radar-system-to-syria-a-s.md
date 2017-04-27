@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [FOX](http://liveshots.blogs.foxnews.com/2010/07/01/iran-sent-defense-radar-system-to-syria/)
-2. [CNN](http://edition.cnn.com/2010/WORLD/meast/07/01/us.iran.syria.radar/)
+1. [CNN](http://edition.cnn.com/2010/WORLD/meast/07/01/us.iran.syria.radar/)
+2. [FOX](http://liveshots.blogs.foxnews.com/2010/07/01/iran-sent-defense-radar-system-to-syria/)
 
 ### Related:
 

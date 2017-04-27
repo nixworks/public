@@ -8,8 +8,8 @@ Russia announces new military exercises on its border with Ukraine, after Kiev o
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-27138300)
-2. [Reuters](http://www.reuters.com/article/2014/04/24/us-ukraine-crisis-idUSBREA3L11A20140424)
-3. [Reuters via Yahoo! News](http://news.yahoo.com/russia-says-respond-ukraine-interests-attacked-051534882--finance.html)
+2. [Reuters via Yahoo! News](http://news.yahoo.com/russia-says-respond-ukraine-interests-attacked-051534882--finance.html)
+3. [Reuters](http://www.reuters.com/article/2014/04/24/us-ukraine-crisis-idUSBREA3L11A20140424)
 
 ### Related:
 

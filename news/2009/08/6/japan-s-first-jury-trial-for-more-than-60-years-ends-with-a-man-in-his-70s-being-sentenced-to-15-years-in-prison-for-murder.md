@@ -7,11 +7,11 @@ Japan’s first jury trial in more than a half century concluded as a panel of t
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8188447.stm)
-2. [ABC News](http://abcnews.go.com/International/wireStory?id=8264031)
-3. [The New York Times](http://www.nytimes.com/2009/08/07/world/asia/07japan.html?partner=MOREOVERNEWS&ei=5040)
-4. [The Guardian](http://www.guardian.co.uk/world/2009/aug/06/japan-jury-trial-murder)
-5. [The Independent](http://www.independent.co.uk/news/world/asia/praise-for-new-japanese-jury-system-1768198.html)
+1. [ABC News](http://abcnews.go.com/International/wireStory?id=8264031)
+2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8188447.stm)
+3. [The Guardian](http://www.guardian.co.uk/world/2009/aug/06/japan-jury-trial-murder)
+4. [The Independent](http://www.independent.co.uk/news/world/asia/praise-for-new-japanese-jury-system-1768198.html)
+5. [The New York Times](http://www.nytimes.com/2009/08/07/world/asia/07japan.html?partner=MOREOVERNEWS&ei=5040)
 
 ### Related:
 

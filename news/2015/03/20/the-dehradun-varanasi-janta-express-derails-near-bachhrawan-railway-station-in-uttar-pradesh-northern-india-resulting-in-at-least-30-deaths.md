@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Zee News](http://zeenews.india.com/news/uttar-pradesh/30-killed-150-injured-as-dehradun-varanasi-janta-express-derails-in-up_1564645.html)
-2. [AP via Yahoo News](http://news.yahoo.com/passenger-train-derails-north-india-killing-6-people-053901645.html)
+1. [AP via Yahoo News](http://news.yahoo.com/passenger-train-derails-north-india-killing-6-people-053901645.html)
+2. [Zee News](http://zeenews.india.com/news/uttar-pradesh/30-killed-150-injured-as-dehradun-varanasi-janta-express-derails-in-up_1564645.html)
 
 ### Related:
 

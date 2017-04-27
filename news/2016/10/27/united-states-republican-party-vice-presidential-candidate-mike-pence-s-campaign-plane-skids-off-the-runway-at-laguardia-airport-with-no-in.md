@@ -7,9 +7,9 @@ The aircraft slid off the runway during rainy conditions.
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-usa-election-pence-idUSKCN12S007?il=0)
+1. [ABC](http://abcnews.go.com/Politics/mike-pence-plane-skids-off-runway-nycs-laguardia/story?id=43120056)
 2. [CNN](http://www.cnn.com/2016/10/27/politics/plane-carrying-pence-skids-off-runway/?sr=google_news)
-3. [ABC](http://abcnews.go.com/Politics/mike-pence-plane-skids-off-runway-nycs-laguardia/story?id=43120056)
+3. [Reuters](http://www.reuters.com/article/us-usa-election-pence-idUSKCN12S007?il=0)
 
 ### Related:
 

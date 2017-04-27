@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Radio New Zealand](http://www.rnzi.com/pages/news.php?op=read&id=30550)
-2. [AP via Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/03/04/AR2007030401098.html)
+1. [AP via Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/03/04/AR2007030401098.html)
+2. [Radio New Zealand](http://www.rnzi.com/pages/news.php?op=read&id=30550)
 
 ### Related:
 

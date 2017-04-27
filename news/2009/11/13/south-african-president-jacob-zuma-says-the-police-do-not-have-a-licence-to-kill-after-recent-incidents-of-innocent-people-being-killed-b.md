@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Eyewitness News](http://www.eyewitnessnews.co.za/articleprog.aspx?id=26303)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8359516.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8359516.stm)
+2. [Eyewitness News](http://www.eyewitnessnews.co.za/articleprog.aspx?id=26303)
 
 ### Related:
 

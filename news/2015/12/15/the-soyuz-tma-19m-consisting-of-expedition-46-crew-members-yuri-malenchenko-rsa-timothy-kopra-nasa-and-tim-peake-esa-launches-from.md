@@ -7,8 +7,8 @@ British astronaut arrives at ISS in Russian Soyuz rocket after Commander Yuri Ma
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/science/space/12050401/Tim-Peake-launch-Britains-first-astronaut-blasts-off-for-International-Space-Station-live.html)
-2. [Bay News 9](http://www.baynews9.com/content/news/baynews9/news/article.html/content/news/articles/cfn/2015/12/15/three_launch_for_iss.html)
+1. [Bay News 9](http://www.baynews9.com/content/news/baynews9/news/article.html/content/news/articles/cfn/2015/12/15/three_launch_for_iss.html)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/news/science/space/12050401/Tim-Peake-launch-Britains-first-astronaut-blasts-off-for-International-Space-Station-live.html)
 
 ### Related:
 

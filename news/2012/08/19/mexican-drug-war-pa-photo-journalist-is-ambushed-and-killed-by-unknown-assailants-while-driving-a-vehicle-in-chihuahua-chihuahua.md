@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Proceso](http://translate.google.com/translate?sl=auto&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&layout=2&eotf=1&u=http%3A%2F%2Fwww.proceso.com.mx%2F%3Fp%3D317511&act=url)
-2. [Milenio](http://translate.google.com/translate?sl=auto&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&layout=2&eotf=1&u=http%3A%2F%2Fwww.milenio.com%2Fcdb%2Fdoc%2Fnoticias2011%2F88bb6fc5edd1ab4f8c0d5060c02bd5e7&act=url)
+1. [Milenio](http://translate.google.com/translate?sl=auto&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&layout=2&eotf=1&u=http%3A%2F%2Fwww.milenio.com%2Fcdb%2Fdoc%2Fnoticias2011%2F88bb6fc5edd1ab4f8c0d5060c02bd5e7&act=url)
+2. [Proceso](http://translate.google.com/translate?sl=auto&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&layout=2&eotf=1&u=http%3A%2F%2Fwww.proceso.com.mx%2F%3Fp%3D317511&act=url)
 
 ### Related:
 

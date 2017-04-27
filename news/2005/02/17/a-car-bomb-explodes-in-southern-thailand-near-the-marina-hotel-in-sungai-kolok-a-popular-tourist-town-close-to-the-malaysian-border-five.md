@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Yahoo!](http://news.yahoo.com/news?tmpl=story&u=/ap/20050217/ap_on_re_as/thailand_violence)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4274169.stm)
-3. [Boston Globe](http://www.boston.com/news/world/asia/articles/2005/02/17/car_bomb_kills_5_injures_40_in_thai_tourist_town/)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4274169.stm)
+2. [Boston Globe](http://www.boston.com/news/world/asia/articles/2005/02/17/car_bomb_kills_5_injures_40_in_thai_tourist_town/)
+3. [Yahoo!](http://news.yahoo.com/news?tmpl=story&u=/ap/20050217/ap_on_re_as/thailand_violence)
 
 ### Related:
 

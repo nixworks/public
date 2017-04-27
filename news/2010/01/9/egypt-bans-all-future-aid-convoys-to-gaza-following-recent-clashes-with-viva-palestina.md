@@ -7,8 +7,8 @@ No convoys to be allowed passage in future following clashes over Viva Palestina
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/01/201019125026677911.html)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gXa9s0yDE1qF4IG6sriIfXfc1Oew)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gXa9s0yDE1qF4IG6sriIfXfc1Oew)
+2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/01/201019125026677911.html)
 
 ### Related:
 

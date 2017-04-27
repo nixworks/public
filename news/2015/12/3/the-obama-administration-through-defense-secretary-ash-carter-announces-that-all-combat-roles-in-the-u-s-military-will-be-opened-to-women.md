@@ -7,8 +7,8 @@ The Pentagon&#8217;s revolutionary move to open all direct land combat jobs to w
 
 ### Source:
 
-1. [The Washington Times](http://www.washingtontimes.com/news/2015/dec/3/ash-carter-promises-same-standards-for-women-in-co/)
-2. [CNN](http://www.cnn.com/2015/12/03/politics/u-s-military-women-combat-positions/)
+1. [CNN](http://www.cnn.com/2015/12/03/politics/u-s-military-women-combat-positions/)
+2. [The Washington Times](http://www.washingtontimes.com/news/2015/dec/3/ash-carter-promises-same-standards-for-women-in-co/)
 
 ### Related:
 

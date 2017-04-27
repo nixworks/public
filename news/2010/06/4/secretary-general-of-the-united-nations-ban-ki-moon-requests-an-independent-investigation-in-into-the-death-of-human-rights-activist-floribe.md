@@ -7,8 +7,8 @@ UN chief Ban Ki-Moon calls for an independent investigation in DR Congo into the
 
 ### Source:
 
-1. [IOL](http://www.iol.co.za/index.php?from=rss_Central%20Africa&set_id=1&click_id=136&art_id=nw20100603221539603C616396)
-2. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10236747.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10236747.stm)
+2. [IOL](http://www.iol.co.za/index.php?from=rss_Central%20Africa&set_id=1&click_id=136&art_id=nw20100603221539603C616396)
 3. [People's Daily Online](http://english.peopledaily.com.cn/90001/90777/90856/7012216.html)
 
 ### Related:

@@ -7,8 +7,8 @@ Analysts expect a close runoff to be followed by demonstrations and legal manoeu
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/world/europe/ukraine-goes-to-polls-after-vitriolic-campaign-1891513.html)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/02/20102713817663102.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/02/20102713817663102.html)
+2. [The Independent](http://www.independent.co.uk/news/world/europe/ukraine-goes-to-polls-after-vitriolic-campaign-1891513.html)
 
 ### Related:
 

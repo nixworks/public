@@ -19,7 +19,7 @@ The so-called Islamic State group says it is responsible for decapitating a seni
 _Context:  Macedonia, Afghan, European migrant crisis, Greece_
 
 ### [Germany is considering sending troops to Tunisia to help train the Tunisian Army in the fight against Islamist militants, particularly ISIL who control territory in neighboring Libya. ](/news/2016/02/21/germany-is-considering-sending-troops-to-tunisia-to-help-train-the-tunisian-army-in-the-fight-against-islamist-militants-particularly-isil.md)
-_Context: Germany, Insurgency in the Maghreb (2002–present), Islamic State of Iraq and the Levant, Libya, Tunisia, army, radical Islamists_
+_Context: Germany, ISIL, Insurgency in the Maghreb (2002–present), Libya, Tunisia, army, radical Islamists_
 
 ### [U.S. Secretary of State John Kerry says  a tentative  ceasefire agreement  reached with Russian Foreign Minister Sergey Lavrov  is now being presented  to the opposing forces. ](/news/2016/02/21/u-s-secretary-of-state-john-kerry-says-a-tentative-ceasefire-agreement-reached-with-russian-foreign-minister-sergey-lavrov-is-now-being.md)
 Explosions rip through Homs and Damascus suburb as world leaders attempt to get all warring parties to end hostilities for a bit
@@ -52,7 +52,7 @@ The London Mayor says he did not want to go against David Cameron but after &quo
 _Context: Ashraf Rifi, Hezbollah, Lebanon_
 
 ### [The European Union and the United States advise interim Macedonian Prime Minister Emil Dimitriev to postpone elections scheduled for April 24, 2016. ](/news/2016/02/21/the-european-union-and-the-united-states-advise-interim-macedonian-prime-minister-emil-dimitriev-to-postpone-elections-scheduled-for-april-2.md)
-_Context:  Macedonia, Emil Dimitriev, European Union, Macedonian parliamentary election, 2016, Prime Minister, U.S._
+_Context:  Macedonia, Emil Dimitriev, European Union, Macedonian parliamentary election, 2016, Prime Minister, United States_
 
 ### [According to exit polls, Bolivian voters reject a constitutional amendment that would have permitted President Evo Morales to stand for a fourth term in office. His current term expires in 2020. ](/news/2016/02/21/according-to-exit-polls-bolivian-voters-reject-a-constitutional-amendment-that-would-have-permitted-president-evo-morales-to-stand-for-a-fo.md)
 With more than 80% of votes counted, President Evo Morales of Bolivia is losing a referendum that would allow him to seek a fourth consecutive term.

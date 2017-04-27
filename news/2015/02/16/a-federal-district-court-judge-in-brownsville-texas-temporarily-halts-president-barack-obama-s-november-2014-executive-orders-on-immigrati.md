@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [WhiteHouse.gov](http://www.whitehouse.gov/the-press-office/2015/02/17/statement-press-secretary-state-texas-v-united-states-america-0)
-2. [Reuters](http://www.reuters.com/article/2015/02/17/us-usa-immigration-idUSKBN0LL0AT20150217)
-3. [The New York Times](http://www.nytimes.com/2015/02/18/us/obama-immigration-policy-halted-by-federal-judge-in-texas.html?_r=0)
+1. [Reuters](http://www.reuters.com/article/2015/02/17/us-usa-immigration-idUSKBN0LL0AT20150217)
+2. [The New York Times](http://www.nytimes.com/2015/02/18/us/obama-immigration-policy-halted-by-federal-judge-in-texas.html?_r=0)
+3. [WhiteHouse.gov](http://www.whitehouse.gov/the-press-office/2015/02/17/statement-press-secretary-state-texas-v-united-states-america-0)
 
 ### Related:
 

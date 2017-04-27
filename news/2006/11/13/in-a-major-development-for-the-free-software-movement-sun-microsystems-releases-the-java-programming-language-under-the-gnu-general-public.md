@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [ZDNET](http://blogs.zdnet.com/BTL/index.php?p=3937)
-2. [BBC](http://news.bbc.co.uk/1/hi/technology/6144748.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/technology/6144748.stm)
+2. [ZDNET](http://blogs.zdnet.com/BTL/index.php?p=3937)
 
 ### Related:
 

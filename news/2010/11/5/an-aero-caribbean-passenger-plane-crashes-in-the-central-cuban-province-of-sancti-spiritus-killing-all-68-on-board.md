@@ -7,8 +7,8 @@ A Cuban passenger plane crashes in the centre of the country killing all 68 peop
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/americas/11/04/cuba.plane.crash/index.html?eref=edition)
-2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11700265)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11700265)
+2. [CNN](http://edition.cnn.com/2010/WORLD/americas/11/04/cuba.plane.crash/index.html?eref=edition)
 
 ### Related:
 

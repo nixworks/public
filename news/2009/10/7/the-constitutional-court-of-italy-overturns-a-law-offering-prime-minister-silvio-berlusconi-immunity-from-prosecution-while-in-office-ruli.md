@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8295716.stm)
+1. [Adnkronos](http://www.adnkronos.com/AKI/English/Politics/?id=3.0.3849262745)
 2. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/10/2009107162326332602.html)
-3. [Adnkronos](http://www.adnkronos.com/AKI/English/Politics/?id=3.0.3849262745)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8295716.stm)
 
 ### Related:
 

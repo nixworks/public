@@ -7,9 +7,9 @@ Suicide bombing and rocket attacks as delegates discuss plan for reconciliation.
 
 ### Source:
 
-1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/06/20106244135950477.html)
+1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hvWEqwq3CrRvaQCmt21MfoYhjZJQD9G2VAGG0)
 2. [AP via Palm Beach Post](http://www.palmbeachpost.com/news/world/gunfire-heard-near-afghan-peace-conference-721777.html)
-3. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hvWEqwq3CrRvaQCmt21MfoYhjZJQD9G2VAGG0)
+3. [Aljazeera](http://english.aljazeera.net/news/asia/2010/06/20106244135950477.html)
 
 ### Related:
 

@@ -7,10 +7,10 @@ The 2016 Tony Awards took place on Sunday, with &#8220;Hamilton&#8221; emerging 
 
 ### Source:
 
-1. [Otago Daily Times](http://www.odt.co.nz/entertainment/theatre/386700/hamilton-sweeps-tonys-11-awards)
-2. [Variety](http://variety.com/2016/legit/awards/2016-tony-awards-winner-list-hamilton-american-psycho-amazing-grace-1201792508/)
-3. [Forbes](http://www.forbes.com/sites/leeseymour/2016/06/12/tony-award-winners-2016-complete-list-vs-predictions-updated-live/#38656ee9367c)
-4. [Los Angeles Times](http://www.latimes.com/entertainment/arts/la-et-cm-tony-winners-20160609-snap-story.html)
+1. [Forbes](http://www.forbes.com/sites/leeseymour/2016/06/12/tony-award-winners-2016-complete-list-vs-predictions-updated-live/#38656ee9367c)
+2. [Los Angeles Times](http://www.latimes.com/entertainment/arts/la-et-cm-tony-winners-20160609-snap-story.html)
+3. [Otago Daily Times](http://www.odt.co.nz/entertainment/theatre/386700/hamilton-sweeps-tonys-11-awards)
+4. [Variety](http://variety.com/2016/legit/awards/2016-tony-awards-winner-list-hamilton-american-psycho-amazing-grace-1201792508/)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://www.globaltimes.cn/content/769634.shtml)
-2. [CELA](http://www.cela-wrestling.com/)
+1. [CELA](http://www.cela-wrestling.com/)
+2. [Xinhua](http://www.globaltimes.cn/content/769634.shtml)
 
 ### Related:
 

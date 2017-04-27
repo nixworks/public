@@ -7,8 +7,8 @@ ARA News ALEPPO – At least 3o civilians were killed and dozens wounded in the 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/09/21/us-mideast-crisis-syria-drones-idUSKCN0RL1CI20150921)
-2. [Ara News](http://aranews.net/2015/09/pro-assad-forces-target-aleppo-public-market-with-missiles-dozens-killed/)
+1. [Ara News](http://aranews.net/2015/09/pro-assad-forces-target-aleppo-public-market-with-missiles-dozens-killed/)
+2. [Reuters](http://www.reuters.com/article/2015/09/21/us-mideast-crisis-syria-drones-idUSKCN0RL1CI20150921)
 
 ### Related:
 

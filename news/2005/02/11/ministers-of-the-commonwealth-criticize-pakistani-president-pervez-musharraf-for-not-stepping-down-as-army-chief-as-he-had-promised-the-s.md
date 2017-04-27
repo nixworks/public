@@ -8,9 +8,9 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4258199.stm)
-2. [NDTV](http://www.ndtv.com/morenews/showmorestory.asp?slug=US+criticizes+Musharraf's+'dual+role'&id=68370)
-3. [Sify](http://headlines.sify.com/news/fullstory.php?id=13669340)
-4. [Daily Times, Pakistan](http://www.dailytimes.com.pk/default.asp?page=story_13-2-2005_pg1_3)
+2. [Daily Times, Pakistan](http://www.dailytimes.com.pk/default.asp?page=story_13-2-2005_pg1_3)
+3. [NDTV](http://www.ndtv.com/morenews/showmorestory.asp?slug=US+criticizes+Musharraf's+'dual+role'&id=68370)
+4. [Sify](http://headlines.sify.com/news/fullstory.php?id=13669340)
 
 ### Related:
 

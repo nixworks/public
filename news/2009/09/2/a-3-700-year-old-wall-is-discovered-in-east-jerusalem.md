@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2009-09/02/content_11985716.htm)
-2. [USA Today](http://www.usatoday.com/tech/science/discoveries/2009-09-02-isreal-archeology-fortification_N.htm)
-3. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8235041.stm)
-4. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20090902/archaeologists_jerusalem_090902/20090902?hub=SciTech)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8235041.stm)
+2. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20090902/archaeologists_jerusalem_090902/20090902?hub=SciTech)
+3. [USA Today](http://www.usatoday.com/tech/science/discoveries/2009-09-02-isreal-archeology-fortification_N.htm)
+4. [Xinhua](http://news.xinhuanet.com/english/2009-09/02/content_11985716.htm)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Martin Gould made a century in the deciding frame to beat Ali Carter 3-2 in the 
 
 ### Source:
 
-1. [World Snooker](http://www.worldsnooker.com/page/NewsArticles/0,,13165~3118150,00.html)
-2. [SnookerHQ](http://snookerhq.com/2013/03/22/gould-wins-championship-league/)
+1. [SnookerHQ](http://snookerhq.com/2013/03/22/gould-wins-championship-league/)
+2. [World Snooker](http://www.worldsnooker.com/page/NewsArticles/0,,13165~3118150,00.html)
 
 ### Related:
 

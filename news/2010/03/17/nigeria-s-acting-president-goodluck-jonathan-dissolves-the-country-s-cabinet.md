@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-03/18/c_13215091.htm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8573178.stm)
 2. [The Punch](http://www.punchng.com/Articl.aspx?theartic=Art2010031717494846)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8573178.stm)
+3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-03/18/c_13215091.htm)
 
 ### Related:
 

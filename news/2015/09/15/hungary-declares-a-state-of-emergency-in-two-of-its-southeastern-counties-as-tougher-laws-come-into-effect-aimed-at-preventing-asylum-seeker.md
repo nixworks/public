@@ -7,8 +7,8 @@ Hungary declares a state of emergency in two southern counties as tough new laws
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-europe-34252812)
-2. [AP via U.S. News & World Report](http://www.usnews.com/news/world/articles/2015/09/15/hungary-set-to-deploy-army-to-stop-migrants-at-border)
+1. [AP via U.S. News & World Report](http://www.usnews.com/news/world/articles/2015/09/15/hungary-set-to-deploy-army-to-stop-migrants-at-border)
+2. [BBC](http://www.bbc.com/news/world-europe-34252812)
 
 ### Related:
 

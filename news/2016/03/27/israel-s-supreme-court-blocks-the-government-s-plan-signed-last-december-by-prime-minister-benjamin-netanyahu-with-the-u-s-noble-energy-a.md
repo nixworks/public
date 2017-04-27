@@ -8,8 +8,8 @@ The gas deal signed by Prime Minister Benjamin Netanyahu last December with US a
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/518f246087d34784956bd01c77010dbc/israels-supreme-court-shoots-down-gas-deal)
-2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4783787,00.html)
-3. [Reuters](http://www.reuters.com/article/us-israel-natgas-court-idUSKCN0WT0J6)
+2. [Reuters](http://www.reuters.com/article/us-israel-natgas-court-idUSKCN0WT0J6)
+3. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4783787,00.html)
 
 ### Related:
 

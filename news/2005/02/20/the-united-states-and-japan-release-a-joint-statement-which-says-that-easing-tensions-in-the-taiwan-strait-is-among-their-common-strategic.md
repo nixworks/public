@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2005-02/20/content_2596290.htm)
+1. [NY Times](http://www.nytimes.com/2005/02/21/international/asia/21china.html)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=politicsNews&storyID=7679773)
-3. [NY Times](http://www.nytimes.com/2005/02/21/international/asia/21china.html)
+3. [Xinhua](http://news.xinhuanet.com/english/2005-02/20/content_2596290.htm)
 
 ### Related:
 

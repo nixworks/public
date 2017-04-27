@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NineMSN](http://news.ninemsn.com.au/world/8462448/us-drone-kills-six-militants-in-pakistan)
-2. [AP via ''The Guardian](http://www.guardian.co.uk/world/2012/may/05/drone-strike-pakistan-kills-nine)
+1. [AP via ''The Guardian](http://www.guardian.co.uk/world/2012/may/05/drone-strike-pakistan-kills-nine)
+2. [NineMSN](http://news.ninemsn.com.au/world/8462448/us-drone-kills-six-militants-in-pakistan)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Pakistan ex-military ruler Pervez Musharraf apologises for &quot;negative&quot; 
 
 ### Source:
 
-1. [Dawn](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/pakistan/03-musharraf-prepares-comeback-bid-with-new-party-ss-02)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/10/201010164531436629.html)
-3. [BBC](http://www.bbc.co.uk/news/world-south-asia-11450507)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/10/201010164531436629.html)
+2. [BBC](http://www.bbc.co.uk/news/world-south-asia-11450507)
+3. [Dawn](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/pakistan/03-musharraf-prepares-comeback-bid-with-new-party-ss-02)
 
 ### Related:
 

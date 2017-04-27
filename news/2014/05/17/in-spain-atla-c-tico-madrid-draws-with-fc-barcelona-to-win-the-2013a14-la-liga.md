@@ -7,8 +7,8 @@ Arsenal fans have lined the streets of north London for the team&#x27;s victory 
 
 ### Source:
 
-1. [ITV](http://www.itv.com/news/story/2014-05-17/arsenal-take-on-hull-city-in-fa-cup-final/)
-2. [France 24](http://www.france24.com/en/breaking/20140517-football-atletico-madrid-draws-barcelona-win-spanish-league-title/?ns_campaign=al_en&ns_mchannel=email_marketing&ns_source=AL_20140517_2034&ns_linkname=20140517_breaking_news&ns_fee=0&f24_member_id=1080960490882)
+1. [France 24](http://www.france24.com/en/breaking/20140517-football-atletico-madrid-draws-barcelona-win-spanish-league-title/?ns_campaign=al_en&ns_mchannel=email_marketing&ns_source=AL_20140517_2034&ns_linkname=20140517_breaking_news&ns_fee=0&f24_member_id=1080960490882)
+2. [ITV](http://www.itv.com/news/story/2014-05-17/arsenal-take-on-hull-city-in-fa-cup-final/)
 3. [L'Équipe](http://www.lequipe.fr/Football/Actualites/Borussia-bayern-0-2-ap/466168)
 
 ### Related:

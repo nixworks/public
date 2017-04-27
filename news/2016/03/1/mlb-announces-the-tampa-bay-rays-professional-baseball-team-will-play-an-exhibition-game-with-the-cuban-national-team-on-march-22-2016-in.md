@@ -7,8 +7,8 @@ U.S. President Barack Obama is expected to be in attendance as the Rays travel t
 
 ### Source:
 
-1. [Tampa Bay Times](http://www.tampabay.com/blogs/rays/rays-trip-to-cuba-for-march-22-exhibition-finally-set/2267520)
-2. [ESPN](http://espn.go.com/mlb/story/_/id/14879877/president-barack-obama-expected-attend-exhibition-game-cuba)
+1. [ESPN](http://espn.go.com/mlb/story/_/id/14879877/president-barack-obama-expected-attend-exhibition-game-cuba)
+2. [Tampa Bay Times](http://www.tampabay.com/blogs/rays/rays-trip-to-cuba-for-march-22-exhibition-finally-set/2267520)
 
 ### Related:
 

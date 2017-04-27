@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-07/21/c_13408743.htm)
-2. [AFP](http://ca.news.yahoo.com/s/afp/100722/world/china_environment_oil_pollution)
+1. [AFP](http://ca.news.yahoo.com/s/afp/100722/world/china_environment_oil_pollution)
+2. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-07/21/c_13408743.htm)
 
 ### Related:
 

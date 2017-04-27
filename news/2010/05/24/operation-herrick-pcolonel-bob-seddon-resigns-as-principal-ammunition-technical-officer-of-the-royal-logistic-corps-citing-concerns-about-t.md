@@ -7,10 +7,10 @@ Colonel Bob Seddon, Britain&rsquo;s senior bomb disposal officer, has resigned h
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/afghanistan/7758021/Top-bomb-disposal-officer-in-Afghanistan-resigns.html)
-2. [Hindustan Times](http://www.hindustantimes.com/Army-s-chief-bomb-officer-resigns-over-Afghanistan/H1-Article1-547742.aspx)
-3. [Reuters](http://uk.reuters.com/article/idUKTRE64N3G320100524)
-4. [Sky News](http://news.sky.com/skynews/Home/UK-News/Armys-Top-Bomb-Disposal-Officer-Colonel-Bob-Seddon-Quits-Over-Pressures-In-Afghanistan/Article/201005415637065?lpos=UK_News_News_Your_Way_Region_0&lid=NewsYourWay_ARTICLE_15637065_Armys_Top_Bomb_Disposal_Officer_Colonel_Bob_Seddon_Quits_Over_Pressures_In_Afghanistan)
+1. [Hindustan Times](http://www.hindustantimes.com/Army-s-chief-bomb-officer-resigns-over-Afghanistan/H1-Article1-547742.aspx)
+2. [Reuters](http://uk.reuters.com/article/idUKTRE64N3G320100524)
+3. [Sky News](http://news.sky.com/skynews/Home/UK-News/Armys-Top-Bomb-Disposal-Officer-Colonel-Bob-Seddon-Quits-Over-Pressures-In-Afghanistan/Article/201005415637065?lpos=UK_News_News_Your_Way_Region_0&lid=NewsYourWay_ARTICLE_15637065_Armys_Top_Bomb_Disposal_Officer_Colonel_Bob_Seddon_Quits_Over_Pressures_In_Afghanistan)
+4. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/afghanistan/7758021/Top-bomb-disposal-officer-in-Afghanistan-resigns.html)
 5. [The Hindu](http://beta.thehindu.com/news/international/article436928.ece)
 
 ### Related:

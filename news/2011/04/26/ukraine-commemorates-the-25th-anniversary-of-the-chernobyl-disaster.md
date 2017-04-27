@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-13190411)
-2. [AP via ''Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/7536666.html)
-3. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/04/20114261370629175.html)
+1. [AP via ''Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/7536666.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/04/20114261370629175.html)
+3. [BBC](http://www.bbc.co.uk/news/world-europe-13190411)
 
 ### Related:
 

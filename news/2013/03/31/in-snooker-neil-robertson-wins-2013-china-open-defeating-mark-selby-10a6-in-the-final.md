@@ -7,8 +7,8 @@ Neil Robertson captures his first title of the season with a 10-6 win over Mark 
 
 ### Source:
 
-1. [China.org.cn](http://www.china.org.cn/sports/2013-04/01/content_28412601.htm)
-2. [BBC](http://www.bbc.co.uk/sport/0/snooker/21988562)
+1. [BBC](http://www.bbc.co.uk/sport/0/snooker/21988562)
+2. [China.org.cn](http://www.china.org.cn/sports/2013-04/01/content_28412601.htm)
 
 ### Related:
 

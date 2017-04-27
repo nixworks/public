@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [WMUR](http://www.wmur.com/news/41-people-stranded-on-cannon-mountain-aerial-tramway/37992900)
-2. [AP via seattlepi.com](http://www.seattlepi.com/news/us/article/48-people-rescued-from-stuck-tram-cars-at-ski-6830685.php)
+1. [AP via seattlepi.com](http://www.seattlepi.com/news/us/article/48-people-rescued-from-stuck-tram-cars-at-ski-6830685.php)
+2. [WMUR](http://www.wmur.com/news/41-people-stranded-on-cannon-mountain-aerial-tramway/37992900)
 
 ### Related:
 

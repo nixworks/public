@@ -7,8 +7,8 @@ Swiss businessman Max Goeldi, at the centre of a long-running row, is released f
 
 ### Source:
 
-1. [France24](http://www.france24.com/en/20100610-tripoli-libya-swiss-businessman-max-goeldi-released-libyan-prison)
-2. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10290009.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10290009.stm)
+2. [France24](http://www.france24.com/en/20100610-tripoli-libya-swiss-businessman-max-goeldi-released-libyan-prison)
 
 ### Related:
 

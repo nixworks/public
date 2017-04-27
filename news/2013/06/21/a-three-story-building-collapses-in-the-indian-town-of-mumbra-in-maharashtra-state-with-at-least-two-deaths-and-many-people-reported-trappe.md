@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [IBN Live](http://ibnlive.in.com/news/thane-building-collapses-in-mumbra-3-people-rescued/400497-3-237.html)
-2. [Hindustan Times](http://www.hindustantimes.com/India-news/Mumbai/Mumbai-Two-dead-more-trapped-in-latest-Thane-building-collapse/Article1-1079959.aspx)
+1. [Hindustan Times](http://www.hindustantimes.com/India-news/Mumbai/Mumbai-Two-dead-more-trapped-in-latest-Thane-building-collapse/Article1-1079959.aspx)
+2. [IBN Live](http://ibnlive.in.com/news/thane-building-collapses-in-mumbra-3-people-rescued/400497-3-237.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601085&sid=arNaiuHTXLbs&refer=europe)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601085&sid=a1sZsKZ32kvU&refer=europe)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601085&sid=a1sZsKZ32kvU&refer=europe)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601085&sid=arNaiuHTXLbs&refer=europe)
 3. [The Times](http://business.timesonline.co.uk/tol/business/markets/article4772350.ece)
 
 ### Related:

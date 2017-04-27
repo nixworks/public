@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7404603.stm)
-2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080516/ap_on_re_af/zimbabwe)
+1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080516/ap_on_re_af/zimbabwe)
+2. [BBC News](http://news.bbc.co.uk/2/hi/africa/7404603.stm)
 
 ### Related:
 

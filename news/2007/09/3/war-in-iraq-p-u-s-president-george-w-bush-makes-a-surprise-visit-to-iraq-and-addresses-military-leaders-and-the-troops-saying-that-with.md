@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Yahoo! News](http://news.yahoo.com/s/nm/20070903/ts_nm/iraq_dc)
-2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/6977065.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/6977065.stm)
+2. [Yahoo! News](http://news.yahoo.com/s/nm/20070903/ts_nm/iraq_dc)
 
 ### Related:
 

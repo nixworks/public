@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/latestCrisis/idUSN10417054)
-2. [CNN](http://edition.cnn.com/2009/WORLD/americas/09/12/guatemala.child.abduction/index.html)
+1. [CNN](http://edition.cnn.com/2009/WORLD/americas/09/12/guatemala.child.abduction/index.html)
+2. [Reuters](http://www.reuters.com/article/latestCrisis/idUSN10417054)
 
 ### Related:
 

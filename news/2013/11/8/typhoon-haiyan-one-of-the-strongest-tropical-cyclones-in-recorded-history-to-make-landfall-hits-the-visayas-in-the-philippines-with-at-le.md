@@ -7,9 +7,9 @@ One of the strongest typhoons ever to hit land has slammed the Philippines, forc
 
 ### Source:
 
-1. [Zee News](http://zeenews.india.com/news/world/live-typhoon-haiyan-slams-philippines-3-dead_888570.html)
-2. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5i6hiTnh6zxmugm6WSQborXCaVqtQ?docId=5871c0e2-c850-4669-966c-f6dd75ec4599)
-3. [BBC News](http://www.bbc.co.uk/news/world-asia-24846813)
+1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5i6hiTnh6zxmugm6WSQborXCaVqtQ?docId=5871c0e2-c850-4669-966c-f6dd75ec4599)
+2. [BBC News](http://www.bbc.co.uk/news/world-asia-24846813)
+3. [Zee News](http://zeenews.india.com/news/world/live-typhoon-haiyan-slams-philippines-3-dead_888570.html)
 
 ### Related:
 

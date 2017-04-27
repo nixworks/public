@@ -9,8 +9,8 @@
 
 1. [BBC profile](http://news.bbc.co.uk/2/hi/africa/4120168.stm)
 2. [News24](http://www.news24.com/News24/South_Africa/Politics/0,,2-7-12_1725296,00.html)
-3. [SABC](http://www.sabcnews.com/south_africa/education/0,2172,107034,00.html)
-4. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp;:42ba539c:d267697b3043d549?type=topNews&localeKey=en_ZA&storyID=8868200)
+3. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp;:42ba539c:d267697b3043d549?type=topNews&localeKey=en_ZA&storyID=8868200)
+4. [SABC](http://www.sabcnews.com/south_africa/education/0,2172,107034,00.html)
 
 ### Related:
 

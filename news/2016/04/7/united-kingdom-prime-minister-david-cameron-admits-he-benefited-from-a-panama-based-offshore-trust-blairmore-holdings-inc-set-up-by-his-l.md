@@ -7,9 +7,9 @@ PM sold stake in Blairmore investment fund, which featured in Panama Papers, for
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/news/2016/apr/07/david-cameron-admits-he-profited-fathers-offshore-fund-panama-papers)
-2. [The New York Times](http://www.nytimes.com/aponline/2016/04/07/world/europe/ap-offshore-accounts-investigation-the-latest.html?_r=0)
-3. [AP via ''The Washington Post](https://www.washingtonpost.com/business/uks-cameron-says-he-did-profit-from-dads-offshore-holdings/2016/04/07/7114cc60-fcff-11e5-813a-90ab563f0dde_story.html)
+1. [AP via ''The Washington Post](https://www.washingtonpost.com/business/uks-cameron-says-he-did-profit-from-dads-offshore-holdings/2016/04/07/7114cc60-fcff-11e5-813a-90ab563f0dde_story.html)
+2. [The Guardian](http://www.theguardian.com/news/2016/apr/07/david-cameron-admits-he-profited-fathers-offshore-fund-panama-papers)
+3. [The New York Times](http://www.nytimes.com/aponline/2016/04/07/world/europe/ap-offshore-accounts-investigation-the-latest.html?_r=0)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Turkish Weekly](http://www.turkishweekly.net/news.php?id=8331)
+1. [Guardian](http://www.guardian.co.uk/cyprus/story/0,11551,1462237,00.html)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8202829)
-3. [Guardian](http://www.guardian.co.uk/cyprus/story/0,11551,1462237,00.html)
+3. [Turkish Weekly](http://www.turkishweekly.net/news.php?id=8331)
 
 ### Related:
 

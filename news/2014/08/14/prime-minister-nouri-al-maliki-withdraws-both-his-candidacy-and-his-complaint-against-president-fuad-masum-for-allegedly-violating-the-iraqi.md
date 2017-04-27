@@ -7,8 +7,8 @@ Iraqi Prime Minister Nouri Maliki resigns to end a political crisis in Baghdad, 
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-middle-east-28798033)
-2. [AP via Fox News](http://www.foxnews.com/world/2014/08/14/iraq-al-maliki-to-back-new-prime-minister-officials-say/)
+1. [AP via Fox News](http://www.foxnews.com/world/2014/08/14/iraq-al-maliki-to-back-new-prime-minister-officials-say/)
+2. [BBC](http://www.bbc.com/news/world-middle-east-28798033)
 
 ### Related:
 

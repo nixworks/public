@@ -8,9 +8,9 @@ A giant girl figure is seen during the second day of a street theater performanc
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8288375.stm?ls)
-2. [Xinhua](http://news.xinhuanet.com/english/2009-10/04/content_12179093.htm)
-3. [Jamaica Gleaner](http://www.jamaica-gleaner.com/gleaner/20091003/life/life6.html#)
-4. [Reuters](http://www.reuters.com/article/yourView/idUS6da7e3f6fc9a1f9c0207d567df1df10420091002)
+2. [Jamaica Gleaner](http://www.jamaica-gleaner.com/gleaner/20091003/life/life6.html#)
+3. [Reuters](http://www.reuters.com/article/yourView/idUS6da7e3f6fc9a1f9c0207d567df1df10420091002)
+4. [Xinhua](http://news.xinhuanet.com/english/2009-10/04/content_12179093.htm)
 
 ### Related:
 

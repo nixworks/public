@@ -7,9 +7,9 @@ For decades, scientists have puzzled over bizarre circles in the Namibian landsc
 
 ### Source:
 
-1. [The Atlantic](http://www.theatlantic.com/science/archive/2016/03/mysterious-fairy-circles-australia-namibia/473625/)
-2. [The Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2016/03/15/dragons-aliens-bugs-scientists-may-have-solved-the-mystery-of-the-deserts-fairy-circles/?wpmm=1&wpisrc=nl_mix)
-3. [PNAS](http://www.pnas.org/content/early/2016/03/09/1522130113)
+1. [PNAS](http://www.pnas.org/content/early/2016/03/09/1522130113)
+2. [The Atlantic](http://www.theatlantic.com/science/archive/2016/03/mysterious-fairy-circles-australia-namibia/473625/)
+3. [The Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2016/03/15/dragons-aliens-bugs-scientists-may-have-solved-the-mystery-of-the-deserts-fairy-circles/?wpmm=1&wpisrc=nl_mix)
 
 ### Related:
 

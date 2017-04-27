@@ -7,10 +7,10 @@ Sydney has shivered through its coldest June day in 27 years, with the mercury p
 
 ### Source:
 
-1. [The Age](http://www.theage.com.au/victoria/city-marks-coldest-day-in-two-years-20100629-zhjf.html?autostart=1)
-2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/sydney-has-coldest-june-day-in-27-years-20100629-zija.html)
-3. [Herald Sun](http://www.heraldsun.com.au/news/breaking-news/melbourne-on-track-for-coldest-day/story-e6frf7jx-1225885700085)
-4. [Ballarat Courier](http://www.thecourier.com.au/news/local/news/general/ballarat-records-coldest-day-in-a-decade/1871994.aspx)
+1. [Ballarat Courier](http://www.thecourier.com.au/news/local/news/general/ballarat-records-coldest-day-in-a-decade/1871994.aspx)
+2. [Herald Sun](http://www.heraldsun.com.au/news/breaking-news/melbourne-on-track-for-coldest-day/story-e6frf7jx-1225885700085)
+3. [The Age](http://www.theage.com.au/victoria/city-marks-coldest-day-in-two-years-20100629-zhjf.html?autostart=1)
+4. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/sydney-has-coldest-june-day-in-27-years-20100629-zija.html)
 
 ### Related:
 

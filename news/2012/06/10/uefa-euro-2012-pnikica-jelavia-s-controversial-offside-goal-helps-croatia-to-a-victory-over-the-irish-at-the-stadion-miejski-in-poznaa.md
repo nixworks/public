@@ -9,9 +9,9 @@ Giovanni Trapattoni laments costly offside decision as the Republic of Ireland l
 
 1. [Al Jazeera](http://www.aljazeera.com/sport/football/2012/06/201261018353295216.html)
 2. [BBC](http://www.bbc.co.uk/sport/0/football/18180099)
-3. [GOAL](http://www.goal.com/en-gb/news/3284/euro-2012/2012/06/11/3164318/trapattoni-laments-costly-offside-decision-as-the-republic)
-4. [RTÉ](http://www.rte.ie/sport/soccer/euro-2012-ireland/2012/0610/324356-live-republic-of-ireland-v-croatia/)
-5. [BBC](http://www.bbc.co.uk/sport/0/football/18388042)
+3. [BBC](http://www.bbc.co.uk/sport/0/football/18388042)
+4. [GOAL](http://www.goal.com/en-gb/news/3284/euro-2012/2012/06/11/3164318/trapattoni-laments-costly-offside-decision-as-the-republic)
+5. [RTÉ](http://www.rte.ie/sport/soccer/euro-2012-ireland/2012/0610/324356-live-republic-of-ireland-v-croatia/)
 6. [The Guardian](http://www.guardian.co.uk/football/2012/jun/11/euro-2012-croatia-giovanni-trapattoni?newsfeed=true)
 
 ### Related:

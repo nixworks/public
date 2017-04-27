@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Scotsman](http://news.scotsman.com/world/50-children-missing-as-mud.6122954.jp)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/8549742.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/8549742.stm)
+2. [The Scotsman](http://news.scotsman.com/world/50-children-missing-as-mud.6122954.jp)
 
 ### Related:
 

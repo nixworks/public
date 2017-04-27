@@ -7,10 +7,10 @@ Israel approves the construction of hundreds of homes for Jewish settlers in the
 
 ### Source:
 
-1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4041216,00.html)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5ipKit5ZWTjrAKBPK9TsO92AHRg7Q?docId=CNG.b805aff6c27f0198bb74cd3263c88566.401)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12725487)
 3. [JTA](http://www.jta.org/news/article/2011/03/13/3086373/assailant-kills-parents-3-children-in-settlement)
-4. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5ipKit5ZWTjrAKBPK9TsO92AHRg7Q?docId=CNG.b805aff6c27f0198bb74cd3263c88566.401)
+4. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4041216,00.html)
 
 ### Related:
 

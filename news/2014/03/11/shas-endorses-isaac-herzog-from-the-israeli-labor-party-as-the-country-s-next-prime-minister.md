@@ -7,8 +7,8 @@ During a special meeting, Shas head says opposition&#8217;s main goal is to topp
 
 ### Source:
 
-1. [Times of Israel](http://www.timesofisrael.com/aryeh-deri-endorses-isaac-herzog-for-prime-minister/)
-2. [AlJazeera](http://www.aljazeera.com/news/middleeast/2014/03/israel-new-law-kills-minority-representation-2014311165373497.html)
+1. [AlJazeera](http://www.aljazeera.com/news/middleeast/2014/03/israel-new-law-kills-minority-representation-2014311165373497.html)
+2. [Times of Israel](http://www.timesofisrael.com/aryeh-deri-endorses-isaac-herzog-for-prime-minister/)
 
 ### Related:
 

@@ -7,10 +7,10 @@ Pope Benedict XVI declines to accept the resignations of two Irish bishops who s
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2010/aug/11/pope-rejects-resignation-irish-bishops)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-10941653)
 2. [RTÉ](http://www.rte.ie/news/2010/0811/abuse.html)
-3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0811/breaking38.html?via=rel)
-4. [BBC](http://www.bbc.co.uk/news/world-europe-10941653)
+3. [The Guardian](http://www.guardian.co.uk/world/2010/aug/11/pope-rejects-resignation-irish-bishops)
+4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0811/breaking38.html?via=rel)
 5. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/08/11/AR2010081102265.html)
 
 ### Related:

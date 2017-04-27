@@ -8,8 +8,8 @@ German Chancellor Angela Merkelâ€™s chief of staff urged a time-out in Britainâ€
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-politics-eu-referendum-36644211?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
-2. [Daily Mail](http://www.dailymail.co.uk/news/article-3661258/Bitter-Brexit-losers-gang-scupper-EU-pull-17-million-voted-for.html)
-3. [Bloomberg](http://www.bloomberg.com/news/articles/2016-06-26/give-u-k-leaders-time-to-rethink-brexit-vote-merkel-aide-says)
+2. [Bloomberg](http://www.bloomberg.com/news/articles/2016-06-26/give-u-k-leaders-time-to-rethink-brexit-vote-merkel-aide-says)
+3. [Daily Mail](http://www.dailymail.co.uk/news/article-3661258/Bitter-Brexit-losers-gang-scupper-EU-pull-17-million-voted-for.html)
 4. [The Guardian](http://www.theguardian.com/politics/2016/jun/26/labour-shadow-cabinet-resignations-jeremy-corbyn-who-has-gone)
 
 ### Related:

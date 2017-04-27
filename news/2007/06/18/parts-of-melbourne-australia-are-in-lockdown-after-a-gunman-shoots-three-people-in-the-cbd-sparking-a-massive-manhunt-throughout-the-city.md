@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Age](http://www.theage.com.au/news/national/one-dead-gunman-at-large/2007/06/18/1182018971854.html)
-2. [ABC](http://abc.net.au/news/stories/2007/06/18/1953862.htm)
+1. [ABC](http://abc.net.au/news/stories/2007/06/18/1953862.htm)
+2. [The Age](http://www.theage.com.au/news/national/one-dead-gunman-at-large/2007/06/18/1182018971854.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=197300)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/11/20101129153620490258.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11868589)
-3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/11/20101129153620490258.html)
+3. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=197300)
 
 ### Related:
 

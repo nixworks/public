@@ -8,8 +8,8 @@
 ### Source:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5gkx-3oYeFwuWKCusr2jrojs98w8wD8VSICQG0)
-2. [CNN](http://www.cnn.com/2008/WORLD/meast/04/06/iraq.main/index.html)
-3. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080406/ap_on_re_mi_ea/iraq)
+2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080406/ap_on_re_mi_ea/iraq)
+3. [CNN](http://www.cnn.com/2008/WORLD/meast/04/06/iraq.main/index.html)
 
 ### Related:
 

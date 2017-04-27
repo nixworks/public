@@ -7,9 +7,9 @@ Pope Benedict XVI&#39;s outdoor mass at Fatima has taken place amid heavy rain d
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2010/0513/pope.html)
-2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/huge-crowd-at-fatima-message-of-support-for-pope-church-20100513-v01o.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/europe/8679848.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8679848.stm)
+2. [RTÉ](http://www.rte.ie/news/2010/0513/pope.html)
+3. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/huge-crowd-at-fatima-message-of-support-for-pope-church-20100513-v01o.html)
 
 ### Related:
 

@@ -7,11 +7,11 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Mizzima News](http://www.mizzima.com/archives/news-in-2005/news-in-feb/16-February%2005-16.htm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?storyID=7655502&type=worldNews)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4272759.stm)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=aGFsqT9kVqi8&refer=asia)
 3. [DVB](http://english.dvb.no/news.php?id=4076)
-4. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4272759.stm)
-5. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=aGFsqT9kVqi8&refer=asia)
+4. [Mizzima News](http://www.mizzima.com/archives/news-in-2005/news-in-feb/16-February%2005-16.htm)
+5. [Reuters](http://www.reuters.com/newsArticle.jhtml?storyID=7655502&type=worldNews)
 
 ### Related:
 

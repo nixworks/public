@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/meast/11/19/iran.human.rights/)
-2. [ (Sify](http://sify.com/news/iran-s-hr-boss-justifies-stoning-calls-un-censure-politicisation-of-human-rights-news-international-kltoakbeije.html)
+1. [ (Sify](http://sify.com/news/iran-s-hr-boss-justifies-stoning-calls-un-censure-politicisation-of-human-rights-news-international-kltoakbeije.html)
+2. [CNN](http://edition.cnn.com/2010/WORLD/meast/11/19/iran.human.rights/)
 3. [UK Press Association](http://www.google.com/hostednews/ukpress/article/ALeqM5h8QCV1ulSiwn-Q0Gggg4UyiBDD4A?docId=N0154381290133734667A)
 
 ### Related:

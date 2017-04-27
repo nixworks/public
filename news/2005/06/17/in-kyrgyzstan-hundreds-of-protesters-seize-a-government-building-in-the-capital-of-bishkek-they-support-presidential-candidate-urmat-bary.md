@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/world/20050617/40537268.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4102294.stm)
-3. [CNN](http://edition.cnn.com/2005/WORLD/asiapcf/06/17/kyrgystan.protest.ap/)
-4. [Guardian Unlimited](http://www.guardian.co.uk/worldlatest/story/0,1280,-5080511,00.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4102294.stm)
+2. [CNN](http://edition.cnn.com/2005/WORLD/asiapcf/06/17/kyrgystan.protest.ap/)
+3. [Guardian Unlimited](http://www.guardian.co.uk/worldlatest/story/0,1280,-5080511,00.html)
+4. [RIA Novosti](http://en.rian.ru/world/20050617/40537268.html)
 
 ### Related:
 

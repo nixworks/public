@@ -7,8 +7,8 @@ Cristiano Ronaldo scores the match-winning goal as Portugal power past Czech Rep
 
 ### Source:
 
-1. [New York Daily News](http://www.nydailynews.com/sports/euro-2012/euro-2012-tensions-french-squad-awaken-2010-world-cup-demons-les-blues-article-1.1099853)
-2. [BBC](http://www.bbc.co.uk/sport/0/football/18355069)
+1. [BBC](http://www.bbc.co.uk/sport/0/football/18355069)
+2. [New York Daily News](http://www.nydailynews.com/sports/euro-2012/euro-2012-tensions-french-squad-awaken-2010-world-cup-demons-les-blues-article-1.1099853)
 
 ### Related:
 

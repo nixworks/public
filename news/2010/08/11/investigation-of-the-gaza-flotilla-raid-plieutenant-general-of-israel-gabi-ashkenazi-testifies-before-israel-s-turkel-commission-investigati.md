@@ -7,11 +7,11 @@ Israeli army offiocial tell inquiry that troops were right to use live ammunitio
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/12/c_13440685.htm)
-2. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/08/2010810235229619632.html)
-3. [The Guardian](http://www.guardian.co.uk/world/2010/aug/11/israel-military-chief-flotilla-testimony)
-4. [Haaretz](http://www.haaretz.com/print-edition/news/ashkenazi-next-time-idf-will-use-snipers-to-halt-gaza-bound-flotillas-1.307435)
-5. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/08/201081110353151553.html)
+1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/08/2010810235229619632.html)
+2. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/08/201081110353151553.html)
+3. [Haaretz](http://www.haaretz.com/print-edition/news/ashkenazi-next-time-idf-will-use-snipers-to-halt-gaza-bound-flotillas-1.307435)
+4. [The Guardian](http://www.guardian.co.uk/world/2010/aug/11/israel-military-chief-flotilla-testimony)
+5. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/12/c_13440685.htm)
 
 ### Related:
 

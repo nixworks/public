@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N27328575.htm)
-2. [Indymedia Chiapas - Spanish and English](http://chiapas.indymedia.org/)
+1. [Indymedia Chiapas - Spanish and English](http://chiapas.indymedia.org/)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N27328575.htm)
 
 ### Related:
 

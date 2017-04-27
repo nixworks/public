@@ -7,8 +7,8 @@ Election commission calls for patience as announcement of contested election res
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/africa/12/02/ivory.coast.election/index.html?hpt=T2)
-2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/12/201012201816213764.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/12/201012201816213764.html)
+2. [CNN](http://edition.cnn.com/2010/WORLD/africa/12/02/ivory.coast.election/index.html?hpt=T2)
 
 ### Related:
 

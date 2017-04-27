@@ -8,10 +8,10 @@ The Israeli president briefly fainted on stage while speaking at an event in Tel
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/09/2009912213131638763.html)
-2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/09/12/AR2009091202028.html)
-3. [Reuters](http://www.reuters.com/article/latestCrisis/idUSMAC273201)
-4. [RTÉ](http://www.rte.ie/news/2009/0912/peress.html)
-5. [Haaretz](http://www.haaretz.com/hasen/spages/1114124.html)
+2. [Haaretz](http://www.haaretz.com/hasen/spages/1114124.html)
+3. [RTÉ](http://www.rte.ie/news/2009/0912/peress.html)
+4. [Reuters](http://www.reuters.com/article/latestCrisis/idUSMAC273201)
+5. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/09/12/AR2009091202028.html)
 
 ### Related:
 

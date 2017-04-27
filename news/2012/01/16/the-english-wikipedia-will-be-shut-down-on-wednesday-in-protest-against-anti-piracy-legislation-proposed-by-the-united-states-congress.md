@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Wikimedia Foundation](http://wikimediafoundation.org/wiki/English_Wikipedia_anti-SOPA_blackout)
-2. [The Guardian](http://www.guardian.co.uk/technology/2012/jan/16/wikipedia-sopa-blackout-slammed-twitter?newsfeed=true)
+1. [The Guardian](http://www.guardian.co.uk/technology/2012/jan/16/wikipedia-sopa-blackout-slammed-twitter?newsfeed=true)
+2. [Wikimedia Foundation](http://wikimediafoundation.org/wiki/English_Wikipedia_anti-SOPA_blackout)
 
 ### Related:
 

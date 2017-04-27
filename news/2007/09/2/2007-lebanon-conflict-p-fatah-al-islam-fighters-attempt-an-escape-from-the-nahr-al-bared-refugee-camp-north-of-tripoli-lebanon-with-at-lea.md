@@ -7,10 +7,10 @@ BARED, Lebanon (Reuters) - Lebanese troops on Sunday seized control of a Palesti
 
 ### Source:
 
-1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/09/03/2021871.htm)
+1. [AFP via Google](http://afp.google.com/article/ALeqM5iuG-euaqZY2LFCWhoBUjcagqj0ow)
 2. [CNN](http://edition.cnn.com/2007/WORLD/meast/09/02/lebanon.unrest/index.html?eref=rss_topstories)
-3. [Reuters](http://www.reuters.com/article/topNews/idUSL0242725220070902?feedType=RSS&feedName=topNews)
-4. [AFP via Google](http://afp.google.com/article/ALeqM5iuG-euaqZY2LFCWhoBUjcagqj0ow)
+3. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/09/03/2021871.htm)
+4. [Reuters](http://www.reuters.com/article/topNews/idUSL0242725220070902?feedType=RSS&feedName=topNews)
 
 ### Related:
 

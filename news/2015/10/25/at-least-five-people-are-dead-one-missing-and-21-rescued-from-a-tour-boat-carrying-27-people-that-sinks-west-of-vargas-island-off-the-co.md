@@ -7,9 +7,9 @@ A massive search-and-rescue effort was launched after the vessel made a mayday c
 
 ### Source:
 
-1. [CTV](http://bc.ctvnews.ca/fatalities-reported-after-tour-boat-sinks-off-tofino-b-c-1.2627096)
-2. [Canadian Broadcasting Corporation](http://www.cbc.ca/news/canada/british-columbia/tour-vessel-sinks-off-tofino-with-fatalities-1.3288191)
-3. [CNN](http://www.abc.net.au/news/2015-10-26/four-dead-after-whale-watching-boat-sinks-off-canada/6884952)
+1. [CNN](http://www.abc.net.au/news/2015-10-26/four-dead-after-whale-watching-boat-sinks-off-canada/6884952)
+2. [CTV](http://bc.ctvnews.ca/fatalities-reported-after-tour-boat-sinks-off-tofino-b-c-1.2627096)
+3. [Canadian Broadcasting Corporation](http://www.cbc.ca/news/canada/british-columbia/tour-vessel-sinks-off-tofino-with-fatalities-1.3288191)
 
 ### Related:
 

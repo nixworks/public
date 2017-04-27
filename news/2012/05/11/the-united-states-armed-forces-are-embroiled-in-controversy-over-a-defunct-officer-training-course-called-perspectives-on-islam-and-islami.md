@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [Wired](http://www.wired.com/dangerroom/2012/05/dempsey-islam-irresponsible/)
-2. [Democracy Now](http://www.democracynow.org/2012/5/11/headlines/pentagon_course_taught_total_war_against_islam)
-3. [AP via ''The Guardian](http://www.guardian.co.uk/world/2012/may/11/us-military-course-islam-enemy)
+1. [AP via ''The Guardian](http://www.guardian.co.uk/world/2012/may/11/us-military-course-islam-enemy)
+2. [BBC](http://www.bbc.co.uk/news/world-us-canada-18032968)
+3. [Democracy Now](http://www.democracynow.org/2012/5/11/headlines/pentagon_course_taught_total_war_against_islam)
 4. [San Francisco Gate](http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2012/05/10/MN931OGF4H.DTL)
-5. [BBC](http://www.bbc.co.uk/news/world-us-canada-18032968)
+5. [Wired](http://www.wired.com/dangerroom/2012/05/dempsey-islam-irresponsible/)
 
 ### Related:
 

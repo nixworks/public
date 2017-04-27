@@ -7,9 +7,9 @@ Boeing has taken its first test flight of its 787 Dreamliner since problems with
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Business_News/2013/02/09/Dreamliner-undergoes-test-flight/UPI-18951360465087/)
-2. [USA Today](http://www.usatoday.com/story/todayinthesky/2013/02/10/dreamliner-test-flight/1906307/)
-3. [Slash Gear](http://www.slashgear.com/boeing-completes-first-787-test-flight-following-battery-investigation-10268746/)
+1. [Slash Gear](http://www.slashgear.com/boeing-completes-first-787-test-flight-following-battery-investigation-10268746/)
+2. [UPI](http://www.upi.com/Business_News/2013/02/09/Dreamliner-undergoes-test-flight/UPI-18951360465087/)
+3. [USA Today](http://www.usatoday.com/story/todayinthesky/2013/02/10/dreamliner-test-flight/1906307/)
 
 ### Related:
 

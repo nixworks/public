@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Times Online](http://www.timesonline.co.uk/tol/news/world/africa/article7132335.ece)
-2. [CNN](http://edition.cnn.com/2010/WORLD/africa/05/20/sierra.leone.naomi.campbell.subpoena/)
+1. [CNN](http://edition.cnn.com/2010/WORLD/africa/05/20/sierra.leone.naomi.campbell.subpoena/)
+2. [Times Online](http://www.timesonline.co.uk/tol/news/world/africa/article7132335.ece)
 
 ### Related:
 

@@ -8,8 +8,8 @@ Court grants bail to man suspected of links to killing of Hamas leader in Dubai.
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/2010813182321926976.html)
-2. [Haaretz](http://www.haaretz.com/news/international/alleged-mossad-spy-granted-bail-in-germany-can-return-to-israel-if-he-wants-1.307899?localLinksEnabled=false)
-3. [BBC](http://www.bbc.co.uk/news/world-europe-10967808)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-10967808)
+3. [Haaretz](http://www.haaretz.com/news/international/alleged-mossad-spy-granted-bail-in-germany-can-return-to-israel-if-he-wants-1.307899?localLinksEnabled=false)
 
 ### Related:
 

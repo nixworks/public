@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.canada.com/reginaleaderpost/news/story.html?id=b734aa11-313e-4052-b538-e652c366cd12)
-2. [NASA](http://www.nasa.gov/mission_pages/shuttle/launch/landing_blog.html)
+1. [NASA](http://www.nasa.gov/mission_pages/shuttle/launch/landing_blog.html)
+2. [Reuters](http://www.canada.com/reginaleaderpost/news/story.html?id=b734aa11-313e-4052-b538-e652c366cd12)
 
 ### Related:
 

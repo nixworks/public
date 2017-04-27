@@ -7,10 +7,10 @@ A lorry strikes a crowd amid Bastille Day celebrations in the French city of Nic
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-europe-36801763)
-2. [Reuters](http://www.reuters.com/article/us-france-crash-idUSKCN0ZU2K7)
-3. [Sputnik News](http://sputniknews.com/europe/20160715/1043001482/hollande-emergency.html)
-4. [BBC News](http://www.bbc.com/news/world-europe-36800730)
+1. [BBC News](http://www.bbc.com/news/world-europe-36800730)
+2. [BBC](http://www.bbc.com/news/world-europe-36801763)
+3. [Reuters](http://www.reuters.com/article/us-france-crash-idUSKCN0ZU2K7)
+4. [Sputnik News](http://sputniknews.com/europe/20160715/1043001482/hollande-emergency.html)
 
 ### Related:
 

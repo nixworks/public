@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via ''USA Today](http://www.usatoday.com/news/washington/2008-05-09-rice-lebanon_N.htm)
-2. [AFP via News Limited](http://www.news.com.au/story/0,10117,23670682-401,00.html)
+1. [AFP via News Limited](http://www.news.com.au/story/0,10117,23670682-401,00.html)
+2. [AP via ''USA Today](http://www.usatoday.com/news/washington/2008-05-09-rice-lebanon_N.htm)
 
 ### Related:
 

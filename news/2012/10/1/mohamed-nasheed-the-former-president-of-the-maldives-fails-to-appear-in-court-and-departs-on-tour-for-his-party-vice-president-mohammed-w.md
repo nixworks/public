@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Haveeru](http://www.haveeru.com.mv/news/44856)
-2. [Haveeru](http://www.haveeru.com.mv/news/44854)
+1. [Haveeru](http://www.haveeru.com.mv/news/44854)
+2. [Haveeru](http://www.haveeru.com.mv/news/44856)
 
 ### Related:
 

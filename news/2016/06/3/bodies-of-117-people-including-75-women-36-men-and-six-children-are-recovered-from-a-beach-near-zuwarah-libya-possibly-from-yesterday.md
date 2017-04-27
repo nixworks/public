@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [U.S. News & World Report](http://www.usnews.com/news/articles/2016-06-03/migrants-rescued-in-greece-more-than-100-dead-in-libya)
-2. [CNN](http://www.cnn.com/2016/06/03/europe/europe-migrants-boat-capsize/)
+1. [CNN](http://www.cnn.com/2016/06/03/europe/europe-migrants-boat-capsize/)
+2. [U.S. News & World Report](http://www.usnews.com/news/articles/2016-06-03/migrants-rescued-in-greece-more-than-100-dead-in-libya)
 
 ### Related:
 

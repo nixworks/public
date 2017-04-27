@@ -7,8 +7,8 @@ Residents in northern Burundi are on alert after the discovery of 14 bodies, som
 
 ### Source:
 
-1. [News24](http://www.news24.com/Africa/News/14-bodies-found-in-Burundian-river-20100922)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jshUTNlE5mO2KsKaxhSMi7f1uXCA)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jshUTNlE5mO2KsKaxhSMi7f1uXCA)
+2. [News24](http://www.news24.com/Africa/News/14-bodies-found-in-Burundian-river-20100922)
 
 ### Related:
 

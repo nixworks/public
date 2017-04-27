@@ -7,9 +7,9 @@ Nicolas Maduro, the hand-picked successor of the late Venezuelan leader Hugo Cha
 
 ### Source:
 
-1. [The Hindu](http://www.thehindu.com/news/international/world/nicolas-maduro-to-lead-venezuela/article4619355.ece)
+1. [Al Jazeera](http://www.aljazeera.com/news/americas/2013/04/201341535328847410.html)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-22149202)
-3. [Al Jazeera](http://www.aljazeera.com/news/americas/2013/04/201341535328847410.html)
+3. [The Hindu](http://www.thehindu.com/news/international/world/nicolas-maduro-to-lead-venezuela/article4619355.ece)
 
 ### Related:
 

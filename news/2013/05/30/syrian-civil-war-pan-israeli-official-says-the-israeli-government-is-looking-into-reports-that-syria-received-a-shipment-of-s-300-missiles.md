@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/Breaking-News/Syrian-rebels-plead-for-help-as-army-pounds-Qusair-314836)
-2. [CNN](http://edition.cnn.com/2013/05/30/world/meast/syria-civil-war/index.html)
+1. [CNN](http://edition.cnn.com/2013/05/30/world/meast/syria-civil-war/index.html)
+2. [The Jerusalem Post](http://www.jpost.com/Breaking-News/Syrian-rebels-plead-for-help-as-army-pounds-Qusair-314836)
 3. [The Jerusalem Post](http://www.jpost.com/Middle-East/Assad-says-Syria-received-first-S-300-shipment-from-Russia-314820)
 
 ### Related:

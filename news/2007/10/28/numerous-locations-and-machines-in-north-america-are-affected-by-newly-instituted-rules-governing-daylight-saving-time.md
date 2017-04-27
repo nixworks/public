@@ -7,9 +7,9 @@ Baltimore, Maryland issues tickets to legally parked motorists after smart parki
 
 ### Source:
 
-1. [tcpalm.com](http://www.tcpalm.com/news/2007/oct/29/your-computers-clock-correct-extended-daylight-sav/)
-2. [thenewspaper.com](http://www.thenewspaper.com/news/20/2041.asp)
-3. [seattlepi.com](http://blog.seattlepi.nwsource.com/energy/archives/124602.asp)
+1. [seattlepi.com](http://blog.seattlepi.nwsource.com/energy/archives/124602.asp)
+2. [tcpalm.com](http://www.tcpalm.com/news/2007/oct/29/your-computers-clock-correct-extended-daylight-sav/)
+3. [thenewspaper.com](http://www.thenewspaper.com/news/20/2041.asp)
 
 ### Related:
 

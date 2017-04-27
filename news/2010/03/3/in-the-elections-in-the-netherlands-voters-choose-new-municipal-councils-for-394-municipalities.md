@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Nederland Kiest](http://gr2010.nlkiest.nl/)
-2. [NOS](http://nos.nl/dossier/133681-nederland-kiest/)
+1. [NOS](http://nos.nl/dossier/133681-nederland-kiest/)
+2. [Nederland Kiest](http://gr2010.nlkiest.nl/)
 
 ### Related:
 

@@ -7,8 +7,8 @@ This is their first World Series win since 1985.
 
 ### Source:
 
-1. [Fox Sports](http://www.foxsports.com/)
-2. [ESPN](http://espn.go.com/mlb/playoffs2015/story/_/id/14034579/salvador-perez-kansas-city-royals-named-world-series-mvp)
+1. [ESPN](http://espn.go.com/mlb/playoffs2015/story/_/id/14034579/salvador-perez-kansas-city-royals-named-world-series-mvp)
+2. [Fox Sports](http://www.foxsports.com/)
 3. [Huffington Post](http://www.huffingtonpost.com.au/entry/royals-win-2015-world-series_5636dae8e4b063179912c9a0?utm_source=Alert-sports&adsSiteOverride=au&section=australia&utm_content=FullStory&utm_campaign=110215&ncid=newsltushpmg00000003&ir=Sports&utm_medium=email)
 
 ### Related:

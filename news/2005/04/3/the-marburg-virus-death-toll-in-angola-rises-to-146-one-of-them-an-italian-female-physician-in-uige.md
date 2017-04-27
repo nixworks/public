@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4407461.stm)
-2. [Recombinomics](http://www.recombinomics.com/News/04030501/Marburg_Pace.html)
-3. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1684580,00.html)
+2. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1684580,00.html)
+3. [Recombinomics](http://www.recombinomics.com/News/04030501/Marburg_Pace.html)
 
 ### Related:
 

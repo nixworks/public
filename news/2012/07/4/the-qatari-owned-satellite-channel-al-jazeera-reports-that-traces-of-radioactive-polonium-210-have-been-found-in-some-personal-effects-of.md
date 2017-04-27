@@ -7,9 +7,9 @@ Ramallah sources say remains of former chairman will be exhumed following report
 
 ### Source:
 
-1. [YNet News](http://www.ynetnews.com/articles/0,7340,L-4251223,00.html)
+1. [CNN](http://www.cnn.com/2012/07/04/world/meast/switzerland-arafat-polonium/index.html?hpt=wo_c2)
 2. [Huffington Post](http://www.huffingtonpost.com/2012/07/03/yassir-arafat-poisoned_n_1647477.html)
-3. [CNN](http://www.cnn.com/2012/07/04/world/meast/switzerland-arafat-polonium/index.html?hpt=wo_c2)
+3. [YNet News](http://www.ynetnews.com/articles/0,7340,L-4251223,00.html)
 
 ### Related:
 

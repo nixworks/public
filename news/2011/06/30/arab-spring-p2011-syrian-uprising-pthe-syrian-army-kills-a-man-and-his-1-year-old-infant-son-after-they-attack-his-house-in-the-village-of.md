@@ -8,10 +8,10 @@ Syrian tanks and helicopters opened fire and killed at least two civilians as th
 ### Source:
 
 1. [AP via ''San Jose Mercury News](http://www.mercurynews.com/news/ci_18383338?nclick_check=1)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-13979632)
+2. [Al Jazeera](http://blogs.aljazeera.net/liveblog/syria-jun-30-2011-0358)
 3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/20116306330136695.html)
-4. [CNN](http://www.cnn.com/2011/WORLD/meast/06/30/syria.unrest/index.html)
-5. [Al Jazeera](http://blogs.aljazeera.net/liveblog/syria-jun-30-2011-0358)
+4. [BBC](http://www.bbc.co.uk/news/world-europe-13979632)
+5. [CNN](http://www.cnn.com/2011/WORLD/meast/06/30/syria.unrest/index.html)
 6. [Reuters via Alertnet](http://www.trust.org/alertnet/news/egypt-court-to-rule-on-activist-death-sept-24)
 
 ### Related:

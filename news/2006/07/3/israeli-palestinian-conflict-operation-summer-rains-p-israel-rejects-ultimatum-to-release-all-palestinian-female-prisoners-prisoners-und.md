@@ -7,9 +7,9 @@ Russian Foreign Minister Lavrov urges Palestinians to stop attacks on Israeli ci
 
 ### Source:
 
-1. [Haaretz](http://www.haaretz.com/hasen/spages/734055.html)
-2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3270510,00.html)
-3. [Haaretz](http://www.haaretz.com/hasen/spages/733789.html)
+1. [Haaretz](http://www.haaretz.com/hasen/spages/733789.html)
+2. [Haaretz](http://www.haaretz.com/hasen/spages/734055.html)
+3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3270510,00.html)
 
 ### Related:
 

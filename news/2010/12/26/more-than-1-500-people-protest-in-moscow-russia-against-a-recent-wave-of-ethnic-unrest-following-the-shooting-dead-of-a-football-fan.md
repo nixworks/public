@@ -7,8 +7,8 @@ More than 1,500 stage protest in central Moscow against xenophobia following wav
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/russia/20101226/161937941.html)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/2010122613366662630.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/2010122613366662630.html)
+2. [RIA Novosti](http://en.rian.ru/russia/20101226/161937941.html)
 
 ### Related:
 

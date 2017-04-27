@@ -7,11 +7,11 @@ Find out who won, and who lost, at the 2013 Academy Awards.
 
 ### Source:
 
-1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2013-02-24-US-Oscars-List/id-21f5b835db0c457a846d76111e8ef8ec)
-2. [BBC](http://www.bbc.co.uk/news/entertainment-arts-20973004)
-3. [CNN](http://www.cnn.com/2013/02/24/showbiz/movies/oscars-main)
-4. [Reuters](http://www.reuters.com/article/2013/02/25/oscars-bestactor-idUSL1N0BM7ZK20130225)
-5. [AFP via ''The Australian](http://www.theaustralian.com.au/arts/in-depth/jennifer-lawrence-daniel-day-lewis-win-acting-oscars/story-e6frgdgx-1226585053624)
+1. [AFP via ''The Australian](http://www.theaustralian.com.au/arts/in-depth/jennifer-lawrence-daniel-day-lewis-win-acting-oscars/story-e6frgdgx-1226585053624)
+2. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2013-02-24-US-Oscars-List/id-21f5b835db0c457a846d76111e8ef8ec)
+3. [BBC](http://www.bbc.co.uk/news/entertainment-arts-20973004)
+4. [CNN](http://www.cnn.com/2013/02/24/showbiz/movies/oscars-main)
+5. [Reuters](http://www.reuters.com/article/2013/02/25/oscars-bestactor-idUSL1N0BM7ZK20130225)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AP via ''Winnipeg Free Press](http://www.winnipegfreepress.com/world/suicide-blast-in-somalia-national-theatre-during-ceremony-deaths-injuries-feared-146063765.html)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-17609047)
-3. [AP via ''Atlanta Journal Constitution](http://www.ajc.com/news/nation-world/2-somalia-sport-officials-1406492.html)
+1. [AP via ''Atlanta Journal Constitution](http://www.ajc.com/news/nation-world/2-somalia-sport-officials-1406492.html)
+2. [AP via ''Winnipeg Free Press](http://www.winnipegfreepress.com/world/suicide-blast-in-somalia-national-theatre-during-ceremony-deaths-injuries-feared-146063765.html)
+3. [BBC](http://www.bbc.co.uk/news/world-africa-17609047)
 
 ### Related:
 

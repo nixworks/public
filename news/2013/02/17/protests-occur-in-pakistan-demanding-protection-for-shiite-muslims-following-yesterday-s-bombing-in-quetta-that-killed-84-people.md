@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Ary News](http://www.arynews.tv/english/newsdetail.asp?nid=70203)
-2. [AFP via Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1254828/1/.html)
+1. [AFP via Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1254828/1/.html)
+2. [Ary News](http://www.arynews.tv/english/newsdetail.asp?nid=70203)
 
 ### Related:
 

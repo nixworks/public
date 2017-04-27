@@ -7,9 +7,9 @@ Pope Benedict called on Islamic countries in the Middle East on Sunday to guaran
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE69N0ID20101024)
-2. [Sify](http://sify.com/news/urgent-need-for-peace-in-middle-east-pope-news-international-kkyrOhggibb.html)
-3. [BBC](http://www.bbc.co.uk/news/world-europe-11616109)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-11616109)
+2. [Reuters](http://www.reuters.com/article/idUSTRE69N0ID20101024)
+3. [Sify](http://sify.com/news/urgent-need-for-peace-in-middle-east-pope-news-international-kkyrOhggibb.html)
 
 ### Related:
 

@@ -8,8 +8,8 @@ The 2014 Sochi Olympic Games are a little under a year away and on Sunday the me
 ### Source:
 
 1. [Eurohockey](http://eurohockey.com/article/2315-austria-latvia-and-slovenia-advance-to-sochi-after-weekend-olympic-qualifiers.html)
-2. [Yahoo! Sports](http://sports.yahoo.com/blogs/nhl-puck-daddy/sochi-2014-austria-latvia-slovenia-earn-final-spots-141345934--nhl.html)
-3. [Reuters](http://www.reuters.com/article/2013/02/10/olympics-ice-hockey-qualifiers-idUSL4N0BA0DD20130210)
+2. [Reuters](http://www.reuters.com/article/2013/02/10/olympics-ice-hockey-qualifiers-idUSL4N0BA0DD20130210)
+3. [Yahoo! Sports](http://sports.yahoo.com/blogs/nhl-puck-daddy/sochi-2014-austria-latvia-slovenia-earn-final-spots-141345934--nhl.html)
 
 ### Related:
 

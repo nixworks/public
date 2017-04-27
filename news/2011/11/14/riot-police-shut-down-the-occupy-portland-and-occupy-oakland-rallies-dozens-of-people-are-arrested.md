@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10765993)
-2. [BBC](http://www.bbc.co.uk/news/world-us-canada-15715256)
-3. [Los Angeles Times](http://latimesblogs.latimes.com/lanow/2011/11/32-arrested-at-occupy-oakland-camp.html)
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-15715256)
+2. [Los Angeles Times](http://latimesblogs.latimes.com/lanow/2011/11/32-arrested-at-occupy-oakland-camp.html)
+3. [New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10765993)
 
 ### Related:
 

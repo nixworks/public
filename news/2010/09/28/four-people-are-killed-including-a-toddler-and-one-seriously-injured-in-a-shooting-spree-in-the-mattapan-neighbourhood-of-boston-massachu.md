@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/29/c_13534428.htm)
-2. [CNN](http://edition.cnn.com/2010/CRIME/09/28/massachusetts.fatal.shooting/)
+1. [CNN](http://edition.cnn.com/2010/CRIME/09/28/massachusetts.fatal.shooting/)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/29/c_13534428.htm)
 
 ### Related:
 

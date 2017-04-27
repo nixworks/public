@@ -8,14 +8,14 @@ Authorities struggling to restore order in southern region where ethnic violence
 ### Source:
 
 1. [24](http://eng.24.kg/politic/2010/06/13/12002.html)
-2. [TVNZ](http://tvnz.co.nz/world-news/slaughter-in-kyrgyz-city-3585947)
-3. [swissinfo](http://www.swissinfo.ch/eng/news/international/Ethnic_riots_kill_83_in_Kyrgyzstan.html?cid=9083286)
-4. [presstv.ir](http://www.presstv.ir/detail.aspx?id=130256&sectionid=351020406)
-5. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/13/c_13349146.htm)
-6. [trtenglish](http://www.trtenglish.com/trtinternational/en/newsDetail.aspx?HaberKodu=8a07aa35-2883-47ff-a8e1-9c48a959d2b7)
-7. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/06/13/kyrgyz.violence/?hpt=T1)
-8. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10304165.stm)
-9. [Aljazeera](http://english.aljazeera.net/news/asia/2010/06/201061395414693625.html)
+2. [Aljazeera](http://english.aljazeera.net/news/asia/2010/06/201061395414693625.html)
+3. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10304165.stm)
+4. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/06/13/kyrgyz.violence/?hpt=T1)
+5. [TVNZ](http://tvnz.co.nz/world-news/slaughter-in-kyrgyz-city-3585947)
+6. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/13/c_13349146.htm)
+7. [presstv.ir](http://www.presstv.ir/detail.aspx?id=130256&sectionid=351020406)
+8. [swissinfo](http://www.swissinfo.ch/eng/news/international/Ethnic_riots_kill_83_in_Kyrgyzstan.html?cid=9083286)
+9. [trtenglish](http://www.trtenglish.com/trtinternational/en/newsDetail.aspx?HaberKodu=8a07aa35-2883-47ff-a8e1-9c48a959d2b7)
 
 ### Related:
 

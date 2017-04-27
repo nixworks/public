@@ -7,9 +7,9 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2005/WORLD/americas/03/16/pinochet.funds/)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7914175)
-3. [BBC](http://news.bbc.co.uk/2/hi/americas/4352905.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4352905.stm)
+2. [CNN](http://edition.cnn.com/2005/WORLD/americas/03/16/pinochet.funds/)
+3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7914175)
 
 ### Related:
 

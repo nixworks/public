@@ -7,10 +7,10 @@ Authorities in central Japan have ordered tens of thousands to flee their homes 
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-asia-34205879)
+1. [AP via U.S. News & World Report](http://www.usnews.com/news/world/articles/2015/09/10/1-missing-in-japan-floods-as-heavy-rain-overflows-rivers)
 2. [Al Jazeera English Online](http://www.aljazeera.com/news/2015/09/japanese-city-submerged-river-bursts-banks-150910061924837.html)
-3. [Radio NZ Online](http://www.radionz.co.nz/news/world/283845/flooding,-landslides-in-central-japan)
-4. [AP via U.S. News & World Report](http://www.usnews.com/news/world/articles/2015/09/10/1-missing-in-japan-floods-as-heavy-rain-overflows-rivers)
+3. [BBC](http://www.bbc.com/news/world-asia-34205879)
+4. [Radio NZ Online](http://www.radionz.co.nz/news/world/283845/flooding,-landslides-in-central-japan)
 
 ### Related:
 

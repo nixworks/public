@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AP via Guardian Unlimited](http://www.guardian.co.uk/worldlatest/story/0,,-6734676,00.html)
-2. [AP via IHT](http://www.iht.com/articles/ap/2007/06/25/america/NA-GEN-US-Supreme-Court-Bong-Hits.php)
-3. [AP via Guardian Unlimited](http://www.guardian.co.uk/worldlatest/story/0,,-6734595,00.html)
+1. [AP via Guardian Unlimited](http://www.guardian.co.uk/worldlatest/story/0,,-6734595,00.html)
+2. [AP via Guardian Unlimited](http://www.guardian.co.uk/worldlatest/story/0,,-6734676,00.html)
+3. [AP via IHT](http://www.iht.com/articles/ap/2007/06/25/america/NA-GEN-US-Supreme-Court-Bong-Hits.php)
 
 ### Related:
 

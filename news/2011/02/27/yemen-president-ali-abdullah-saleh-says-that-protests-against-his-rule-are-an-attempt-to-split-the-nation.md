@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Al Arabiya](http://www.alarabiya.net/articles/2011/02/27/139430.html)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5inL78d7pU3CXk6UQ7q7Na7l5Hiug?docId=CNG.1de1d43eba079baba9d7893981d8c7a1.321)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5inL78d7pU3CXk6UQ7q7Na7l5Hiug?docId=CNG.1de1d43eba079baba9d7893981d8c7a1.321)
+2. [Al Arabiya](http://www.alarabiya.net/articles/2011/02/27/139430.html)
 
 ### Related:
 

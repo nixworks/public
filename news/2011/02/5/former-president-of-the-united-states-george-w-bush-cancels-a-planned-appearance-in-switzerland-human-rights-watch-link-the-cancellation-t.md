@@ -7,9 +7,9 @@ Plans for former United States President George Bush to visit Switzerland next w
 
 ### Source:
 
-1. [Reuters](http://betaus.mobile.reuters.com/article/idUSTRE7141CU20110205?WT.tsrc=Social%20Media&ca=rdt)
-2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,14820489,00.html)
-3. [Radio New Zealand](http://www.radionz.co.nz/news/world/67885/swiss-visit-by-bush-cancelled)
+1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,14820489,00.html)
+2. [Radio New Zealand](http://www.radionz.co.nz/news/world/67885/swiss-visit-by-bush-cancelled)
+3. [Reuters](http://betaus.mobile.reuters.com/article/idUSTRE7141CU20110205?WT.tsrc=Social%20Media&ca=rdt)
 
 ### Related:
 

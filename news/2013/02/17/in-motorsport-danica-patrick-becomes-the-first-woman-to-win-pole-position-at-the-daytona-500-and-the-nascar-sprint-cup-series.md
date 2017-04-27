@@ -7,8 +7,8 @@ Danica Patrick has won the Daytona 500 pole, becoming the first woman to secure 
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2013/02/17/sport/daytona-500-qualifying)
-2. [AP via ESPN](http://espn.go.com/racing/nascar/cup/story/_/id/8956961/danica-patrick-first-woman-win-daytona-500-pole)
+1. [AP via ESPN](http://espn.go.com/racing/nascar/cup/story/_/id/8956961/danica-patrick-first-woman-win-daytona-500-pole)
+2. [CNN](http://www.cnn.com/2013/02/17/sport/daytona-500-qualifying)
 
 ### Related:
 

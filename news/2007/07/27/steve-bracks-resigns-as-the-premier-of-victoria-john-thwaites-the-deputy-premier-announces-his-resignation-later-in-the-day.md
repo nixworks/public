@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sydney Morning Herald](http://www.smh.com.au/news/national/victorian-premier-bracks-resigns/2007/07/27/1185339210114.html?s_cid=rss_news)
-2. [Sydney Morning Herald](http://www.smh.com.au/news/national/now-deputy-premier-resigns/2007/07/27/1185339223105.html?s_cid=rss_news)
+1. [Sydney Morning Herald](http://www.smh.com.au/news/national/now-deputy-premier-resigns/2007/07/27/1185339223105.html?s_cid=rss_news)
+2. [Sydney Morning Herald](http://www.smh.com.au/news/national/victorian-premier-bracks-resigns/2007/07/27/1185339210114.html?s_cid=rss_news)
 
 ### Related:
 

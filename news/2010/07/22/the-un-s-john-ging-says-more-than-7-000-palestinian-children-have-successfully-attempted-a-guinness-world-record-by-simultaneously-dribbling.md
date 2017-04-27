@@ -8,9 +8,9 @@
 ### Source:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5giuWVbdpeN0OT4-iuGU3rlgoUlbQD9H478380)
-2. [People's Daily](http://english.peopledaily.com.cn/90001/90779/90870/7075815.html)
-3. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=35394&Cr=gaza&Cr1=)
-4. [CNN](http://edition.cnn.com/2010/WORLD/meast/07/22/gaza.basketball.record/)
+2. [CNN](http://edition.cnn.com/2010/WORLD/meast/07/22/gaza.basketball.record/)
+3. [People's Daily](http://english.peopledaily.com.cn/90001/90779/90870/7075815.html)
+4. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=35394&Cr=gaza&Cr1=)
 
 ### Related:
 

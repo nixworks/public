@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [MSNBC](http://worldnews.msnbc.msn.com/_news/2012/06/29/12479205-assad-forces-bombard-northern-towns-as-170-tanks-mass-near-major-city-syrian-rebels-say?lite)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/201262817158947278.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/201262817158947278.html)
+2. [MSNBC](http://worldnews.msnbc.msn.com/_news/2012/06/29/12479205-assad-forces-bombard-northern-towns-as-170-tanks-mass-near-major-city-syrian-rebels-say?lite)
 
 ### Related:
 

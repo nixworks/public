@@ -7,8 +7,8 @@ Stephane Peterhansel clinched his 11th Dakar Rally victory with a calm run to th
 
 ### Source:
 
-1. [Autosport](http://www.autosport.com/news/report.php/id/105199)
-2. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5ie5UaLaN2yThRdePXYZsCmBqsfcQ)
+1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5ie5UaLaN2yThRdePXYZsCmBqsfcQ)
+2. [Autosport](http://www.autosport.com/news/report.php/id/105199)
 
 ### Related:
 

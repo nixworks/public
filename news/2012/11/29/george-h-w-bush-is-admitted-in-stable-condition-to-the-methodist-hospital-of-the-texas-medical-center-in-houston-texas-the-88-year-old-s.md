@@ -8,9 +8,9 @@ Former president, 88, has been in the hospital for a week battling a cough; cond
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/8301-34222_162-57556182-10391739/george-h.w-bush-hospitalization-draws-concern/)
-2. [NBC News](http://usnews.nbcnews.com/_news/2012/11/29/15543363-former-president-george-hw-bush-88-hospitalized-with-bronchitis)
-3. [CNN](http://politicalticker.blogs.cnn.com/2012/11/29/former-president-george-h-w-bush-hospitalized/)
-4. [Fox News](http://www.foxnews.com/politics/2012/11/29/former-president-george-hw-bush-reportedly-hospitalized-in-houston-for/)
+2. [CNN](http://politicalticker.blogs.cnn.com/2012/11/29/former-president-george-h-w-bush-hospitalized/)
+3. [Fox News](http://www.foxnews.com/politics/2012/11/29/former-president-george-hw-bush-reportedly-hospitalized-in-houston-for/)
+4. [NBC News](http://usnews.nbcnews.com/_news/2012/11/29/15543363-former-president-george-hw-bush-88-hospitalized-with-bronchitis)
 
 ### Related:
 

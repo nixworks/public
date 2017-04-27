@@ -7,9 +7,9 @@ Thousands flee across the Burmese border to escape clashes between troops and et
 
 ### Source:
 
-1. [Bangkok Post](http://www.bangkokpost.com/news/local/205368/fighting-on-thai-burma-border-injures-three-thais)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/11/2010118479326824.html)
-3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11708237)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/11/2010118479326824.html)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11708237)
+3. [Bangkok Post](http://www.bangkokpost.com/news/local/205368/fighting-on-thai-burma-border-injures-three-thais)
 
 ### Related:
 

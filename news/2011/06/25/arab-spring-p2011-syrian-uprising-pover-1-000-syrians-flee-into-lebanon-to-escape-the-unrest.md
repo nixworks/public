@@ -7,14 +7,14 @@ A group of Libyan football figures, including members of the national team, tell
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2011/jun/25/syria-border-turkey-president-assad)
-2. [CNN](http://www.cnn.com/2011/WORLD/africa/06/25/libya.soccer.defections/index.html)
+1. [AFP via Al Jazeera](http://blogs.aljazeera.net/liveblog/syria-jun-25-2011-2331)
+2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/201162593534638336.html)
 3. [BBC News](http://www.bbc.co.uk/news/world-middle-east-13917291)
-4. [AFP via Al Jazeera](http://blogs.aljazeera.net/liveblog/syria-jun-25-2011-2331)
-5. [CNN](http://www.cnn.com/2011/WORLD/meast/06/25/syria.unrest/index.html)
-6. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/201162593534638336.html)
-7. [The Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=226473)
-8. [BBC](http://www.bbc.co.uk/news/world-africa-13913954)
+4. [BBC](http://www.bbc.co.uk/news/world-africa-13913954)
+5. [CNN](http://www.cnn.com/2011/WORLD/africa/06/25/libya.soccer.defections/index.html)
+6. [CNN](http://www.cnn.com/2011/WORLD/meast/06/25/syria.unrest/index.html)
+7. [The Guardian](http://www.guardian.co.uk/world/2011/jun/25/syria-border-turkey-president-assad)
+8. [The Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=226473)
 
 ### Related:
 

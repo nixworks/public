@@ -7,5 +7,5 @@
 
 ### Source:
 
-1. [Japan Today](http://www.japantoday.com/category/politics/view/justice-minister-to-step-down-over-gaffe)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11808242)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11808242)
+2. [Japan Today](http://www.japantoday.com/category/politics/view/justice-minister-to-step-down-over-gaffe)

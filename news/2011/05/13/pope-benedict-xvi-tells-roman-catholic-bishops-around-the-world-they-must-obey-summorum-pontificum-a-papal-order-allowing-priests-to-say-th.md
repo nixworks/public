@@ -7,8 +7,8 @@ The Vatican told Catholic bishops around the world on Friday they had to obey a 
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/world/vatican-issues-instructions-for-old-mass-warns-against-questioning-papal-authority/2011/05/13/AFBQSI2G_story.html)
-2. [Reuters](http://www.reuters.com/article/2011/05/13/us-pope-latin-idUSTRE74C29120110513)
+1. [Reuters](http://www.reuters.com/article/2011/05/13/us-pope-latin-idUSTRE74C29120110513)
+2. [Washington Post](http://www.washingtonpost.com/world/vatican-issues-instructions-for-old-mass-warns-against-questioning-papal-authority/2011/05/13/AFBQSI2G_story.html)
 
 ### Related:
 

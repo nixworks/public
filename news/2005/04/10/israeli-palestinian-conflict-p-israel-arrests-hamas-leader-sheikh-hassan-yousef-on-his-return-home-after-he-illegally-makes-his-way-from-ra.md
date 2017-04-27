@@ -7,12 +7,12 @@
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/5027FA54-B20A-4914-BC75-E7DBC49367FD.htm)
-2. [Haaretz](http://www.haaretz.com/hasen/spages/563123.html)
+1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/13C96025-4D49-4C36-8705-BAC0C079E788.htm)
+2. [Al Jazeera](http://english.aljazeera.net/NR/exeres/5027FA54-B20A-4914-BC75-E7DBC49367FD.htm)
 3. [Al Jazeera](http://english.aljazeera.net/NR/exeres/FE5205CE-3950-4FEC-B21A-2D238708F74B.htm)
-4. [UPI](http://feeds.bignewsnetwork.com/?sid=a3e65d51d114273b)
-5. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4429421.stm)
-6. [Al Jazeera](http://english.aljazeera.net/NR/exeres/13C96025-4D49-4C36-8705-BAC0C079E788.htm)
+4. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4429421.stm)
+5. [Haaretz](http://www.haaretz.com/hasen/spages/563123.html)
+6. [UPI](http://feeds.bignewsnetwork.com/?sid=a3e65d51d114273b)
 
 ### Related:
 

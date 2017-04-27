@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/africa/12/05/nigeria.offensive/)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jObAfUq00aYzWa_N1lPgHl3rASgw?docId=CNG.300799038873fcbfc322eddd94cc181d.251)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jObAfUq00aYzWa_N1lPgHl3rASgw?docId=CNG.300799038873fcbfc322eddd94cc181d.251)
+2. [CNN](http://edition.cnn.com/2010/WORLD/africa/12/05/nigeria.offensive/)
 
 ### Related:
 

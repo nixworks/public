@@ -8,9 +8,9 @@ On Thursday, small businesses around the country—many of them restaurants—ar
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-lausd-phone-message-20170215-story.html)
-2. [The Philadelphia Inquirer](http://www.philly.com/philly/news/pennsylvania/A-Day-Without-Immigrtants-Redux.html)
-3. [Reuters](http://www.reuters.com/article/us-usta-immigration-protest-idUSKBN15V19M)
-4. [The Atlantic](https://www.theatlantic.com/business/archive/2017/02/day-without-immigrants/516969/)
+2. [Reuters](http://www.reuters.com/article/us-usta-immigration-protest-idUSKBN15V19M)
+3. [The Atlantic](https://www.theatlantic.com/business/archive/2017/02/day-without-immigrants/516969/)
+4. [The Philadelphia Inquirer](http://www.philly.com/philly/news/pennsylvania/A-Day-Without-Immigrtants-Redux.html)
 
 ### Related:
 

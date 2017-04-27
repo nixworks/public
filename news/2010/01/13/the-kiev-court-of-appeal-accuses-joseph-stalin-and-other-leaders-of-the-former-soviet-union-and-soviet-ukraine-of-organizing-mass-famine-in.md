@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/exsoviet/20100113/157536602.html)
-2. [Kyiv Post](http://www.kyivpost.com/news/city/detail/56954/)
+1. [Kyiv Post](http://www.kyivpost.com/news/city/detail/56954/)
+2. [RIA Novosti](http://en.rian.ru/exsoviet/20100113/157536602.html)
 3. [RT](http://rt.com/Politics/2010-01-14/holodomor-famine-stalin-ukraine.html)
 
 ### Related:

@@ -8,8 +8,8 @@ Russia announced it would begin withdrawing forces from Georgia on Monday after 
 ### Source:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/europe/7566199.stm)
-2. [Sky News](http://news.sky.com/skynews/Home/World-News/Russian-Forces-In-Georgia-Digging-In-Despite-Dmitry-Medvedev-Agreeing-To-Ceasefire-Agreement/Article/200808315080534?lpos=World%2BNews_2&lid=ARTICLE_15080534_Russian%2BForces%2BIn%2BGeorgia%2BDigging%2BIn%2BDespite%2BDmitry%2BMedvedev%2BAgreeing%2BTo%2BCeasefire%2BAgreement)
-3. [Reuters](http://www.reuters.com/article/newsOne/idUSL768040420080817)
+2. [Reuters](http://www.reuters.com/article/newsOne/idUSL768040420080817)
+3. [Sky News](http://news.sky.com/skynews/Home/World-News/Russian-Forces-In-Georgia-Digging-In-Despite-Dmitry-Medvedev-Agreeing-To-Ceasefire-Agreement/Article/200808315080534?lpos=World%2BNews_2&lid=ARTICLE_15080534_Russian%2BForces%2BIn%2BGeorgia%2BDigging%2BIn%2BDespite%2BDmitry%2BMedvedev%2BAgreeing%2BTo%2BCeasefire%2BAgreement)
 
 ### Related:
 

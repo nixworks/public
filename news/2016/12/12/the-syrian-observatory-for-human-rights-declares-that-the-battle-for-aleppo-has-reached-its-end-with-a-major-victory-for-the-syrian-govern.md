@@ -7,13 +7,13 @@ The battle for Aleppo has reached its end, the Syrian Observatory for Human Righ
 
 ### Source:
 
-1. [Hindustan Times](http://www.hindustantimes.com/world-news/air-strikes-kill-34-civilians-in-is-held-syrian-villages-monitor/story-8t05cdD3g8YUA3SyZk3WIO.html)
-2. [Times of Israel](http://www.timesofisrael.com/liveblog_entry/raids-kill-34-civilians-in-is-held-syria-villages-monitor/)
-3. [BBC](http://www.bbc.com/news/world-middle-east-38297986#)
-4. [Middle East Monitor](https://www.middleeastmonitor.com/20161212-russia-syria-fail-to-dislodge-daesh-from-palmyra/)
-5. [BBC](http://www.bbc.com/news/world-middle-east-38301629)
+1. [BBC](http://www.bbc.com/news/world-middle-east-38297986#)
+2. [BBC](http://www.bbc.com/news/world-middle-east-38301629)
+3. [Euronews](http://www.euronews.com/2016/12/12/aleppo-battle-reaches-its-end-in-devastating-blow-to-rebels)
+4. [Hindustan Times](http://www.hindustantimes.com/world-news/air-strikes-kill-34-civilians-in-is-held-syrian-villages-monitor/story-8t05cdD3g8YUA3SyZk3WIO.html)
+5. [Middle East Monitor](https://www.middleeastmonitor.com/20161212-russia-syria-fail-to-dislodge-daesh-from-palmyra/)
 6. [Reuters](http://uk.reuters.com/article/uk-mideast-crisis-syria-russia-idUKKBN1412GU?il=0)
-7. [Euronews](http://www.euronews.com/2016/12/12/aleppo-battle-reaches-its-end-in-devastating-blow-to-rebels)
+7. [Times of Israel](http://www.timesofisrael.com/liveblog_entry/raids-kill-34-civilians-in-is-held-syria-villages-monitor/)
 
 ### Related:
 

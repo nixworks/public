@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/egypt-on-alert-after-embassy-attack-20110911-1k3pi.html)
-2. [Businessweek.com](http://www.businessweek.com/news/2011-09-10/egypt-declares-state-of-emergency-after-israeli-embassy-struck.html)
+1. [Businessweek.com](http://www.businessweek.com/news/2011-09-10/egypt-declares-state-of-emergency-after-israeli-embassy-struck.html)
+2. [Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/egypt-on-alert-after-embassy-attack-20110911-1k3pi.html)
 
 ### Related:
 

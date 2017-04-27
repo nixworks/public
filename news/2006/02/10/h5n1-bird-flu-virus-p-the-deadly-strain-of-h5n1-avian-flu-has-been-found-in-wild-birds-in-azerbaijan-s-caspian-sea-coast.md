@@ -7,8 +7,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/world/story/2006/02/10/avian-azerbaijan.html)
-2. [ABC](http://abcnews.go.com/International/wireStory?id=1596667)
+1. [ABC](http://abcnews.go.com/International/wireStory?id=1596667)
+2. [CBC](http://www.cbc.ca/world/story/2006/02/10/avian-azerbaijan.html)
 
 ### Related:
 

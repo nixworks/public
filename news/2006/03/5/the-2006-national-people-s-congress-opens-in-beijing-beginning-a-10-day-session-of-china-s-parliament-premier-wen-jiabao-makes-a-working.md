@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [People's Daily](http://english.people.com.cn/200603/05/eng20060305_247909.html)
-2. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/03/05/china.parliament/)
+1. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/03/05/china.parliament/)
+2. [People's Daily](http://english.people.com.cn/200603/05/eng20060305_247909.html)
 
 ### Related:
 

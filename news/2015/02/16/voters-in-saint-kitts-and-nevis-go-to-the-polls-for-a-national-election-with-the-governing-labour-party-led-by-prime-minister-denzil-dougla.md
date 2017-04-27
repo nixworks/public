@@ -7,9 +7,9 @@ An alliance of three opposition parties won parliamentary elections in St. Kitts
 
 ### Source:
 
-1. [St Kitts and Nevis Observer](http://www.thestkittsnevisobserver.com/2015/02/13/election-day.html)
-2. [Stabroek News](http://www.stabroeknews.com/2015/news/stories/02/17/caricom-concerned-st-kitts-elections-supervisor-withholding-results-preliminary-count/)
-3. [Latin American Herald Tribune](http://laht.com/article.asp?ArticleId=2374518&CategoryId=14092)
+1. [Latin American Herald Tribune](http://laht.com/article.asp?ArticleId=2374518&CategoryId=14092)
+2. [St Kitts and Nevis Observer](http://www.thestkittsnevisobserver.com/2015/02/13/election-day.html)
+3. [Stabroek News](http://www.stabroeknews.com/2015/news/stories/02/17/caricom-concerned-st-kitts-elections-supervisor-withholding-results-preliminary-count/)
 
 ### Related:
 

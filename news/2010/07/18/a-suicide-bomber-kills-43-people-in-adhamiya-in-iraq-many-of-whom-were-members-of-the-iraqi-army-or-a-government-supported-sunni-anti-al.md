@@ -7,9 +7,9 @@ Read the latest World and International news headlines from Sky News Australia. 
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2010/jul/18/iraq-security-forces-suicide-bomber)
+1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/07/20107187948524335.html)
 2. [Sky News Australia](http://www.skynews.com.au/world/article.aspx?id=486777&articleID=)
-3. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/07/20107187948524335.html)
+3. [The Guardian](http://www.guardian.co.uk/world/2010/jul/18/iraq-security-forces-suicide-bomber)
 
 ### Related:
 

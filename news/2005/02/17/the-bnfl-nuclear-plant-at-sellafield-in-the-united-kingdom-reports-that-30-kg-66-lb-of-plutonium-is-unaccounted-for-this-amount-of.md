@@ -8,8 +8,8 @@ News and opinion from The Times &amp; The Sunday Times
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/4272691.stm)
-2. [The Times](http://www.timesonline.co.uk/article/0,,2-1488564,00.html)
-3. [ITV](http://www.itv.com/news/index_1355711.html)
+2. [ITV](http://www.itv.com/news/index_1355711.html)
+3. [The Times](http://www.timesonline.co.uk/article/0,,2-1488564,00.html)
 
 ### Related:
 

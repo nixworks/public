@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Voice of America](http://www.voanews.com/english/news/usa/Obama-to-Address-Congress-on-Jobs-Plan-129418133.html)
-2. [Wall Street Journal](http://online.wsj.com/article/SB10001424053111904103404576559062901863074.html?mod=e2tw)
-3. [Bloomberg](http://www.bloomberg.com/news/2011-09-06/obama-said-to-plan-more-than-300-billion-for-jobs-to-boost-u-s-economy.html)
+1. [Bloomberg](http://www.bloomberg.com/news/2011-09-06/obama-said-to-plan-more-than-300-billion-for-jobs-to-boost-u-s-economy.html)
+2. [Voice of America](http://www.voanews.com/english/news/usa/Obama-to-Address-Congress-on-Jobs-Plan-129418133.html)
+3. [Wall Street Journal](http://online.wsj.com/article/SB10001424053111904103404576559062901863074.html?mod=e2tw)
 
 ### Related:
 

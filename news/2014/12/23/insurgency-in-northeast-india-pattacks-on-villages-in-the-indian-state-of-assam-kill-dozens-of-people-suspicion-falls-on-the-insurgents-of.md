@@ -8,9 +8,9 @@
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2014/12/deaths-reported-northeast-india-attack-20141223151344571967.html)
-2. [NBC News](http://www.nbcnews.com/news/world/india-imposes-curfew-after-attackers-kill-dozens-sectarian-violence-n274156)
-3. [NDTV](http://www.ndtv.com/article/india/43-people-killed-by-suspected-militants-assam-on-red-alert-638924)
-4. [Euronews](http://www.euronews.com/newswires/2856144-tribal-guerrillas-kill-33-in-wave-of-attacks-in-northeast-india/)
+2. [Euronews](http://www.euronews.com/newswires/2856144-tribal-guerrillas-kill-33-in-wave-of-attacks-in-northeast-india/)
+3. [NBC News](http://www.nbcnews.com/news/world/india-imposes-curfew-after-attackers-kill-dozens-sectarian-violence-n274156)
+4. [NDTV](http://www.ndtv.com/article/india/43-people-killed-by-suspected-militants-assam-on-red-alert-638924)
 
 ### Related:
 

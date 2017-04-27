@@ -7,12 +7,12 @@ China steps up its campaign to try to discredit the Nobel committee, ahead of th
 
 ### Source:
 
-1. [Colombia Reports](http://colombiareports.com/colombia-news/news/13328-colombia-to-be-present-at-nobel-prize-ceremony-w-radio.html)
-2. [Hindustan Times](http://www.hindustantimes.com/Chinese-peace-prize-ahead-of-Nobel-ceremony/Article1-636331.aspx)
-3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11957724)
-4. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2010/12/10/2003490553)
-5. [Times of India](http://timesofindia.indiatimes.com/world/europe/Whos-staying-away-from-Nobel-ceremony/articleshow/7072455.cms)
-6. [Malaysia Star](http://thestar.com.my/news/story.asp?file=/2010/12/9/worldupdates/2010-12-09T163525Z_01_NOOTR_RTRMDNC_0_-534540-1&sec=Worldupdates)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11957724)
+2. [Colombia Reports](http://colombiareports.com/colombia-news/news/13328-colombia-to-be-present-at-nobel-prize-ceremony-w-radio.html)
+3. [Hindustan Times](http://www.hindustantimes.com/Chinese-peace-prize-ahead-of-Nobel-ceremony/Article1-636331.aspx)
+4. [Malaysia Star](http://thestar.com.my/news/story.asp?file=/2010/12/9/worldupdates/2010-12-09T163525Z_01_NOOTR_RTRMDNC_0_-534540-1&sec=Worldupdates)
+5. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2010/12/10/2003490553)
+6. [Times of India](http://timesofindia.indiatimes.com/world/europe/Whos-staying-away-from-Nobel-ceremony/articleshow/7072455.cms)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://in.reuters.com/article/idINIndia-53406020101207)
-2. [Hindustan Times](http://www.hindustantimes.com/1-killed-many-injured-in-Varanasi-bomb-blast/Article1-635578.aspx)
+1. [Hindustan Times](http://www.hindustantimes.com/1-killed-many-injured-in-Varanasi-bomb-blast/Article1-635578.aspx)
+2. [Reuters](http://in.reuters.com/article/idINIndia-53406020101207)
 
 ### Related:
 

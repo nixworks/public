@@ -7,8 +7,8 @@ Labour retains the South Shields parliamentary seat with a reduced majority as t
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/uk-politics-22393094)
-2. [BBC]¶The UK Independence Party wins 140 seats, achieving 25% of the votes in areas where it fielded candidates, the party's most significant results to date. [http://www.bbc.co.uk/news/uk-politics-22382098 (BBC](http://www.bbc.co.uk/news/uk-politics-21240025)
+1. [BBC]¶The UK Independence Party wins 140 seats, achieving 25% of the votes in areas where it fielded candidates, the party's most significant results to date. [http://www.bbc.co.uk/news/uk-politics-22382098 (BBC](http://www.bbc.co.uk/news/uk-politics-21240025)
+2. [BBC](http://www.bbc.co.uk/news/uk-politics-22393094)
 
 ### Related:
 

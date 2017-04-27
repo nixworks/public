@@ -7,10 +7,10 @@ A homicide truck bomb exploded on a major bridge in Baghdad early Thursday, kill
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6548337.stm)
-2. [News Limited](http://www.news.com.au/story/0,10117,21549463-2,00.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6547361.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6548337.stm)
 3. [FOX](http://www.foxnews.com/story/0,2933,265451,00.html)
-4. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6547361.stm)
+4. [News Limited](http://www.news.com.au/story/0,10117,21549463-2,00.html)
 
 ### Related:
 

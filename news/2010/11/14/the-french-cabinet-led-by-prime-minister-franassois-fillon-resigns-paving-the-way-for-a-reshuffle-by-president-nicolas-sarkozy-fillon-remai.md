@@ -7,9 +7,9 @@ Following&#x20;the&#x20;resignation&#x20;of&#x20;the&#x20;government&#x20;over&#
 
 ### Source:
 
-1. [France 24](http://www.france24.com/en/20101114-sarkozy-fillon-prime-minister-government-cabinet-france-ump-politics)
+1. [Al-Jazeera](http://english.aljazeera.net//news/europe/2010/11/2010111419412771606.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-11751493)
-3. [Al-Jazeera](http://english.aljazeera.net//news/europe/2010/11/2010111419412771606.html)
+3. [France 24](http://www.france24.com/en/20101114-sarkozy-fillon-prime-minister-government-cabinet-france-ump-politics)
 
 ### Related:
 

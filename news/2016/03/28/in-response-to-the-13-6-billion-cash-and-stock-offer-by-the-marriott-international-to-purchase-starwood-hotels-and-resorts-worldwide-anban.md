@@ -8,9 +8,9 @@ Starwood Hotels and Resorts Worldwide Inc. announced Monday it approved an impro
 ### Source:
 
 1. [AP](http://bigstory.ap.org/article/6f8bc9df96724ddebae77b9623cfcc0e/starwood-receives-sweetened-15b-bid-anbang-led-group)
-2. [The Washington Post](https://www.washingtonpost.com/business/capitalbusiness/marriott-gets-outbid--again--for-starwood-hotels/2016/03/28/496cb012-f4f1-11e5-8b23-538270a1ca31_story.html?hpid=hp_local-news_no-name%3Ahomepage%2Fstory)
-3. [UPI](http://www.upi.com/Business_News/2016/03/21/Starwood-agrees-to-increased-136B-merger-deal-with-Marriott/7721458570373/?spt=sec&or=bn)
-4. [Reuters](http://www.reuters.com/article/us-starwood-m-a-anbang-idUSKCN0WU11V)
+2. [Reuters](http://www.reuters.com/article/us-starwood-m-a-anbang-idUSKCN0WU11V)
+3. [The Washington Post](https://www.washingtonpost.com/business/capitalbusiness/marriott-gets-outbid--again--for-starwood-hotels/2016/03/28/496cb012-f4f1-11e5-8b23-538270a1ca31_story.html?hpid=hp_local-news_no-name%3Ahomepage%2Fstory)
+4. [UPI](http://www.upi.com/Business_News/2016/03/21/Starwood-agrees-to-increased-136B-merger-deal-with-Marriott/7721458570373/?spt=sec&or=bn)
 
 ### Related:
 

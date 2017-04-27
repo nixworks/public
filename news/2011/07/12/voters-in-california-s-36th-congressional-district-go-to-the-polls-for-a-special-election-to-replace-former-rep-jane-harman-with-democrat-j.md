@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Politico](http://www.politico.com/blogs/davidcatanese/0711/CA36_Hahn_leads_Huey_by_8.html)
-2. [AP via ''Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/7650982.html)
+1. [AP via ''Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/7650982.html)
+2. [Politico](http://www.politico.com/blogs/davidcatanese/0711/CA36_Hahn_leads_Huey_by_8.html)
 
 ### Related:
 

@@ -8,8 +8,8 @@ Palestinian militants for the first time fired a longer-range Russian-made Katyu
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4855056.stm)
-2. [MSNBC](http://msnbc.msn.com/id/12052666/)
-3. [JPost](http://fr.jpost.com/servlet/Satellite?cid=1143498754886&pagename=JPost/JPArticle/ShowFull)
+2. [JPost](http://fr.jpost.com/servlet/Satellite?cid=1143498754886&pagename=JPost/JPArticle/ShowFull)
+3. [MSNBC](http://msnbc.msn.com/id/12052666/)
 
 ### Related:
 

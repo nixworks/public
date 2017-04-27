@@ -7,9 +7,9 @@ A powerful earthquake struck off the coast of Japan, causing a tsunami. Here&#03
 
 ### Source:
 
-1. [News Corp via the ''West Australian](https://au.news.yahoo.com/thewest/latest/a/33285854/1m-tsunami-wave-hits-nuclear-station/#page1)
-2. [weather.com](https://weather.com/news/news/japan-earthquake-fukushima-tsunami-warning)
-3. [BBC](http://www.bbc.co.uk/news/world-asia-38059371)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-38059371)
+2. [News Corp via the ''West Australian](https://au.news.yahoo.com/thewest/latest/a/33285854/1m-tsunami-wave-hits-nuclear-station/#page1)
+3. [weather.com](https://weather.com/news/news/japan-earthquake-fukushima-tsunami-warning)
 
 ### Related:
 

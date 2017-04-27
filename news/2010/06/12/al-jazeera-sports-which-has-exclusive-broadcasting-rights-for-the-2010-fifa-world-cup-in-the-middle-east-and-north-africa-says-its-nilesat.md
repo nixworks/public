@@ -7,9 +7,9 @@ Al Jazeera Sport vows legal action over disruption of World Cup opening game tel
 
 ### Source:
 
-1. [IOL](http://www.iol.co.za/index.php?click_id=19&art_id=nw20100612103213201C179194&set_id=)
-2. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/2010612134143244810.html)
-3. [Gulf News](http://gulfnews.com/sport/football/al-jazeera-says-its-world-cup-kick-off-broadcast-sabotaged-1.640071)
+1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/2010612134143244810.html)
+2. [Gulf News](http://gulfnews.com/sport/football/al-jazeera-says-its-world-cup-kick-off-broadcast-sabotaged-1.640071)
+3. [IOL](http://www.iol.co.za/index.php?click_id=19&art_id=nw20100612103213201C179194&set_id=)
 4. [The National](http://www.thenational.ae/apps/pbcs.dll/article?AID=/20100612/NATIONAL/100619939/1138/FOREIGN)
 
 ### Related:

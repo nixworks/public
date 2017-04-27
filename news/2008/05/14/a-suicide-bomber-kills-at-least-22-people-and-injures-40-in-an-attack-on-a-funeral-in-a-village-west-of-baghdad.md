@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC News](http://news.bbc.co.uk/2/hi/middle_east/7401634.stm)
-2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080514/ap_on_re_mi_ea/iraq_080510181438)
+1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080514/ap_on_re_mi_ea/iraq_080510181438)
+2. [BBC News](http://news.bbc.co.uk/2/hi/middle_east/7401634.stm)
 
 ### Related:
 

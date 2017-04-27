@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/EVIU-6ACKQC?OpenDocument)
-2. [AllAfrica](http://allafrica.com/stories/200503100939.html)
+1. [AllAfrica](http://allafrica.com/stories/200503100939.html)
+2. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/EVIU-6ACKQC?OpenDocument)
 3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/IRIN/7d7634fe6c29039614c34f6ef008dda4.htm)
 
 ### Related:

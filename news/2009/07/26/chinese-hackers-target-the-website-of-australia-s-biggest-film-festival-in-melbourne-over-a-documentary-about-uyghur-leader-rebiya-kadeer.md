@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2009/jul/26/rebiya-kadeer-melbourne-film-china)
+1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8169123.stm)
 2. [France 24](http://www.france24.com/en/20090726-uighur-film-festival-australia-site-defaced-chinese-hacker-cinema-internet)
-3. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8169123.stm)
+3. [The Guardian](http://www.guardian.co.uk/world/2009/jul/26/rebiya-kadeer-melbourne-film-china)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://story.news.yahoo.com/news?tmpl=story&cid=586&e=5&u=/nm/20050408/wl_nm/mexico_dc)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/4420765.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4420765.stm)
+2. [Reuters](http://story.news.yahoo.com/news?tmpl=story&cid=586&e=5&u=/nm/20050408/wl_nm/mexico_dc)
 
 ### Related:
 

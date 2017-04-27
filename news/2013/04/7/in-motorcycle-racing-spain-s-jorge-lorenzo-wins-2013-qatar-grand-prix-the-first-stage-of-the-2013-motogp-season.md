@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2013/04/07/sport/motorsport/lorenzo-rossi-marquez-motogp-motorsport)
-2. [AP via ESPN](http://espn.go.com/racing/story/_/id/9145145/jorge-lorenzo-wins-season-opening-motogp-event-doha)
+1. [AP via ESPN](http://espn.go.com/racing/story/_/id/9145145/jorge-lorenzo-wins-season-opening-motogp-event-doha)
+2. [CNN](http://www.cnn.com/2013/04/07/sport/motorsport/lorenzo-rossi-marquez-motogp-motorsport)
 
 ### Related:
 

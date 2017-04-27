@@ -7,9 +7,9 @@ EU ministers hold emergency talks today on tightening border checks after the ki
 
 ### Source:
 
-1. [The Irish Independent](http://www.independent.ie/world-news/europe/balkan-chaos-as-borders-shut-to-economic-migrants-only-34218315.html)
+1. [AFP via NDTV](http://www.ndtv.com/world-news/european-union-ministers-to-discuss-border-controls-after-paris-attacks-1245516)
 2. [Sky News](http://news.sky.com/story/1590914/paris-killers-used-refugee-crisis-to-slip-in)
-3. [AFP via NDTV](http://www.ndtv.com/world-news/european-union-ministers-to-discuss-border-controls-after-paris-attacks-1245516)
+3. [The Irish Independent](http://www.independent.ie/world-news/europe/balkan-chaos-as-borders-shut-to-economic-migrants-only-34218315.html)
 
 ### Related:
 

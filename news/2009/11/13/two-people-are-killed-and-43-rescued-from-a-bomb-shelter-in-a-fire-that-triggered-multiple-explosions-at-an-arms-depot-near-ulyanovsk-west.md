@@ -7,8 +7,8 @@ Thirty-five people missing after series of blasts at depot outside city of Ulyan
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/europe/8359359.stm)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/11/20091113152154116348.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/11/20091113152154116348.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/europe/8359359.stm)
 3. [RIA Novosti](http://en.rian.ru/russia/20091113/156825516.html)
 
 ### Related:

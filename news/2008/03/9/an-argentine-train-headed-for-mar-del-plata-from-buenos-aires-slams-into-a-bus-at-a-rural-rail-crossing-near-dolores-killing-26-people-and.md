@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua News Agency](http://news.xinhuanet.com/english/2008-03/10/content_7756884.htm)
-2. [Gaulia](http://www.gaulia.com)
+1. [Gaulia](http://www.gaulia.com)
+2. [Xinhua News Agency](http://news.xinhuanet.com/english/2008-03/10/content_7756884.htm)
 
 ### Related:
 

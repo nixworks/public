@@ -7,10 +7,10 @@ At&#x20;least&#x20;four&#x20;people&#x20;have&#x20;died&#x20;in&#x20;protests&am
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-11150063)
-2. [RFI](http://www.english.rfi.fr/africa/20100901-least-three-die-mozambique-protests)
-3. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE6800F520100901)
-4. [Aljazeera](http://english.aljazeera.net/news/africa/2010/09/201091135823503484.html)
+1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/09/201091135823503484.html)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-11150063)
+3. [RFI](http://www.english.rfi.fr/africa/20100901-least-three-die-mozambique-protests)
+4. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE6800F520100901)
 
 ### Related:
 

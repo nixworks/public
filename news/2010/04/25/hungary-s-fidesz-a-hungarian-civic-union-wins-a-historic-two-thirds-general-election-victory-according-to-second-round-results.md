@@ -7,9 +7,9 @@ Hungary&#039;s centre-right opposition has won a two-thirds general election vic
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/world/story/2010/04/25/fidesz-hungary.html?ref=rss)
-2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/hungary/7632990/Hungarys-conservative-opposition-wins-landslide-election.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/europe/8642456.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8642456.stm)
+2. [CBC](http://www.cbc.ca/world/story/2010/04/25/fidesz-hungary.html?ref=rss)
+3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/hungary/7632990/Hungarys-conservative-opposition-wins-landslide-election.html)
 
 ### Related:
 

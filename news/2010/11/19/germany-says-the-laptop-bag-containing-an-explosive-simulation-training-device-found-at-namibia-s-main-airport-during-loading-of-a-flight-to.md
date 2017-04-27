@@ -7,8 +7,8 @@ A dummy bomb that sparked an international terror alert was made by an 80-year-o
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE6AI1V820101119)
-2. [MSNBC](http://www.msnbc.msn.com/id/40270827/ns/world_news-europe)
+1. [MSNBC](http://www.msnbc.msn.com/id/40270827/ns/world_news-europe)
+2. [Reuters](http://www.reuters.com/article/idUSTRE6AI1V820101119)
 
 ### Related:
 

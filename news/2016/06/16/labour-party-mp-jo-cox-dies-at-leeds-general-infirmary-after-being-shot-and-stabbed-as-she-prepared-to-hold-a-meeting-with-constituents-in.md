@@ -7,11 +7,11 @@ British lawmaker Jo Cox died after being shot and stabbed in her constituency.
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/uk-england-36550304)
-2. [Reuters](http://www.reuters.com/article/us-britain-politics-attack-idUSKCN0Z21LS)
+1. [ABC News](http://abcnews.go.com/International/british-politician-reportedly-shot-town-hall-meeting/story?id=39902607)
+2. [BBC](http://www.bbc.com/news/uk-england-36550304)
 3. [NBC News](http://www.nbcnews.com/news/world/jo-cox-british-lawmaker-shot-stabbed-yorkshire-reports-n593581)
-4. [The Guardian](https://www.theguardian.com/uk-news/2016/jun/16/labour-mp-jo-cox-shot-in-west-yorkshire)
-5. [ABC News](http://abcnews.go.com/International/british-politician-reportedly-shot-town-hall-meeting/story?id=39902607)
+4. [Reuters](http://www.reuters.com/article/us-britain-politics-attack-idUSKCN0Z21LS)
+5. [The Guardian](https://www.theguardian.com/uk-news/2016/jun/16/labour-mp-jo-cox-shot-in-west-yorkshire)
 
 ### Related:
 

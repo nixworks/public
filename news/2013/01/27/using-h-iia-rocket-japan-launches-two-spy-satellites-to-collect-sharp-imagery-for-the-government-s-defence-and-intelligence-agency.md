@@ -7,8 +7,8 @@ Japan launched two spy satellites Sunday to collect sharp imagery for the govern
 
 ### Source:
 
-1. [Space.com](http://www.space.com/19503-japan-spy-satellites-launch.html)
-2. [China Daily](http://europe.chinadaily.com.cn/world/2013-01/27/content_16178572.htm)
+1. [China Daily](http://europe.chinadaily.com.cn/world/2013-01/27/content_16178572.htm)
+2. [Space.com](http://www.space.com/19503-japan-spy-satellites-launch.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Democratic Progressive party candidate Tsai Ing-wen looks certain to win preside
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/world/2016/jan/15/taiwan-elections-polls-predict-ruling-party-will-pay-for-close-ties-to-repressive-beijing)
+1. [BBC](http://www.bbc.com/news/world-asia-35333647)
 2. [CNN](http://www.cnn.com/2016/01/16/asia/taiwan-election/)
-3. [BBC](http://www.bbc.com/news/world-asia-35333647)
+3. [The Guardian](http://www.theguardian.com/world/2016/jan/15/taiwan-elections-polls-predict-ruling-party-will-pay-for-close-ties-to-repressive-beijing)
 
 ### Related:
 

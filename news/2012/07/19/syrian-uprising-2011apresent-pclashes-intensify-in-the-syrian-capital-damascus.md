@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/07/2012719144626794335.html)
-2. [Newstrack India](http://www.newstrackindia.com/newsdetails/2012/07/19/275-Clashes-intensifies-in-Syrian-capital-after-killing-of-top-officials-.html)
-3. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=42513&Cr=Syria&Cr1=)
-4. [Al Arabiya](http://english.alarabiya.net/articles/2012/07/19/227324.html)
+1. [Al Arabiya](http://english.alarabiya.net/articles/2012/07/19/227324.html)
+2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/07/2012719144626794335.html)
+3. [Newstrack India](http://www.newstrackindia.com/newsdetails/2012/07/19/275-Clashes-intensifies-in-Syrian-capital-after-killing-of-top-officials-.html)
+4. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=42513&Cr=Syria&Cr1=)
 
 ### Related:
 

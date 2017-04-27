@@ -7,13 +7,13 @@ Iranian President Mahmoud Ahmadinejad has said the Holocaust was a &#39;myth&#39
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8262273.stm)
-2. [Reuters](http://www.reuters.com/article/topNews/idUSTRE58H4WE20090918)
-3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/09/200991875246806121.html)
-4. [The Guardian](http://www.guardian.co.uk/world/2009/sep/18/opposition-protests-iran-quds-day)
-5. [RTÉ](http://www.rte.ie/news/2009/0918/iran.html)
-6. [Xinhua](http://news.xinhuanet.com/english/2009-09/18/content_12075949.htm)
-7. [Press TV](http://www.presstv.ir/detail.aspx?id=106528&sectionid=351020101)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/09/200991875246806121.html)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8262273.stm)
+3. [Press TV](http://www.presstv.ir/detail.aspx?id=106528&sectionid=351020101)
+4. [RTÉ](http://www.rte.ie/news/2009/0918/iran.html)
+5. [Reuters](http://www.reuters.com/article/topNews/idUSTRE58H4WE20090918)
+6. [The Guardian](http://www.guardian.co.uk/world/2009/sep/18/opposition-protests-iran-quds-day)
+7. [Xinhua](http://news.xinhuanet.com/english/2009-09/18/content_12075949.htm)
 8. [Xinhua](http://news.xinhuanet.com/english/2009-09/18/content_12076522.htm)
 
 ### Related:

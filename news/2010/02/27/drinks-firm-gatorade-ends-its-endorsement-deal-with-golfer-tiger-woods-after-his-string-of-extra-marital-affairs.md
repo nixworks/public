@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Times](http://www.timesonline.co.uk/tol/sport/golf/article7043576.ece)
-2. [BBC](http://news.bbc.co.uk/2/hi/business/8540167.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/business/8540167.stm)
+2. [The Times](http://www.timesonline.co.uk/tol/sport/golf/article7043576.ece)
 
 ### Related:
 

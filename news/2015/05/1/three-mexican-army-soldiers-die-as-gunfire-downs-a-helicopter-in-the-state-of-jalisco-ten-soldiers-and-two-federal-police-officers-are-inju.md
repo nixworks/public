@@ -7,8 +7,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [AP via ABC News America](http://abcnews.go.com/International/wireStory/burning-vehicles-block-roads-guadalajara-mexico-30736145)
-2. [AP via ''Washington Post](http://www.washingtonpost.com/world/the_americas/mayoral-candidate-slain-in-mexicos-troubled-guerrero-state/2015/05/01/8d5a24b0-f07b-11e4-8050-839e9234b303_story.html)
+1. [AP via ''Washington Post](http://www.washingtonpost.com/world/the_americas/mayoral-candidate-slain-in-mexicos-troubled-guerrero-state/2015/05/01/8d5a24b0-f07b-11e4-8050-839e9234b303_story.html)
+2. [AP via ABC News America](http://abcnews.go.com/International/wireStory/burning-vehicles-block-roads-guadalajara-mexico-30736145)
 
 ### Related:
 

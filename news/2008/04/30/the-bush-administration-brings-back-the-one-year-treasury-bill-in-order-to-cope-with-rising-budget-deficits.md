@@ -8,8 +8,8 @@ Economic growth expanded only modestly in the first three months of the year, re
 ### Source:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5jzmiF42GtsVMqoFqRdkshmthmoeAD90CA1900)
-2. [The Telegraph](http://www.telegraph.co.uk/money/main.jhtml?xml=/money/2008/04/30/bcnfed330.xml)
-3. [The New York Times](http://www.nytimes.com/2008/04/30/business/30econ-web.html)
+2. [The New York Times](http://www.nytimes.com/2008/04/30/business/30econ-web.html)
+3. [The Telegraph](http://www.telegraph.co.uk/money/main.jhtml?xml=/money/2008/04/30/bcnfed330.xml)
 
 ### Related:
 

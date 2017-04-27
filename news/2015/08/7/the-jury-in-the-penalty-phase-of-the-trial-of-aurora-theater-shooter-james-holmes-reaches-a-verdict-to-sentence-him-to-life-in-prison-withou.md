@@ -7,9 +7,9 @@ A Colorado jury sentenced movie rampage gunman James Holmes to life in prison on
 
 ### Source:
 
-1. [WABC](http://abc7.com/news/colorado-theater-shooter-sentenced-to-life-in-prison-without-parole/911146/)
+1. [AP](http://bigstory.ap.org/article/2effba7a46d24acb8d31a6e59cad20f0/jury-reaches-decision-colorado-theater-shooters-sentence)
 2. [Reuters](http://www.reuters.com/article/2015/08/07/us-usa-shooting-denver-idUSKCN0QC1X020150807)
-3. [AP](http://bigstory.ap.org/article/2effba7a46d24acb8d31a6e59cad20f0/jury-reaches-decision-colorado-theater-shooters-sentence)
+3. [WABC](http://abc7.com/news/colorado-theater-shooter-sentenced-to-life-in-prison-without-parole/911146/)
 
 ### Related:
 

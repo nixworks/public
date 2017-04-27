@@ -7,8 +7,8 @@ A new translation of the Bible updates the religious text with modern technology
 
 ### Source:
 
-1. [The Guardian](https://www.theguardian.com/technology/2016/may/30/emoji-bible-arrived-god-king-james)
-2. [New York Daily News](http://www.nydailynews.com/life-style/bible-emoji-translates-scripture-pictures-millennials-article-1.2654804)
+1. [New York Daily News](http://www.nydailynews.com/life-style/bible-emoji-translates-scripture-pictures-millennials-article-1.2654804)
+2. [The Guardian](https://www.theguardian.com/technology/2016/may/30/emoji-bible-arrived-god-king-james)
 3. [UPI](http://www.upi.com/Odd_News/2016/05/31/Bible-translated-into-emojis-for-millennials/7741464723388/?spt=hs&or=on)
 
 ### Related:

@@ -8,8 +8,8 @@ People who have fled the drought in Somalia to camps near the capital Mogadishu 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-14165509)
-2. [The Guardian](http://www.guardian.co.uk/global-development/2011/jul/15/dadaab-drought-refugee-camp-kenya)
-3. [Reuters](http://uk.reuters.com/article/2011/07/15/us-africa-drought-idUKTRE76E2XH20110715?feedType=RSS&feedName=healthNews)
+2. [Reuters](http://uk.reuters.com/article/2011/07/15/us-africa-drought-idUKTRE76E2XH20110715?feedType=RSS&feedName=healthNews)
+3. [The Guardian](http://www.guardian.co.uk/global-development/2011/jul/15/dadaab-drought-refugee-camp-kenya)
 
 ### Related:
 

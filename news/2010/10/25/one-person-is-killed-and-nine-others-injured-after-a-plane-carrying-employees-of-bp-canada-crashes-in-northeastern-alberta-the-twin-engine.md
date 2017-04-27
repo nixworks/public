@@ -7,10 +7,10 @@ BP Canada employees aboard aircraft that went down near Conklin
 
 ### Source:
 
-1. [Globe and mail](http://www.theglobeandmail.com/news/national/plane-carrying-oil-workers-crash-lands-in-northern-alberta-at-least-1-dead/article1772073/)
-2. [Calgary Herald](http://www.calgaryherald.com/news/dead+nine+hurt+northern+Alberta+plane+crash+carrying+Canada+oilpatch/3724414/story.html)
+1. [Calgary Herald](http://www.calgaryherald.com/news/dead+nine+hurt+northern+Alberta+plane+crash+carrying+Canada+oilpatch/3724414/story.html)
+2. [Canada](http://www.canada.com/news/dead+hurt+northern+Alberta+plane+crash/3723305/story.html)
 3. [Edmonton Journal](http://www.edmontonjournal.com/news/dead+nine+hurt+northern+Alberta+plane+crash/3723180/story.html)
-4. [Canada](http://www.canada.com/news/dead+hurt+northern+Alberta+plane+crash/3723305/story.html)
+4. [Globe and mail](http://www.theglobeandmail.com/news/national/plane-carrying-oil-workers-crash-lands-in-northern-alberta-at-least-1-dead/article1772073/)
 
 ### Related:
 

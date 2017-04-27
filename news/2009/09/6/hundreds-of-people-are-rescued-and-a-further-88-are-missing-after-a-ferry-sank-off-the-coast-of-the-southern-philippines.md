@@ -8,9 +8,9 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8240224.stm)
-2. [Xinhua](http://news.xinhuanet.com/english/2009-09/06/content_12003038.htm)
-3. [Philippine Inquirer](http://newsinfo.inquirer.net/breakingnews/regions/view/20090906-223813/Tilting-ship-in-Zambo-sinks)
-4. [Reuters](http://www.reuters.com/article/latestCrisis/idUSMAN456276)
+2. [Philippine Inquirer](http://newsinfo.inquirer.net/breakingnews/regions/view/20090906-223813/Tilting-ship-in-Zambo-sinks)
+3. [Reuters](http://www.reuters.com/article/latestCrisis/idUSMAN456276)
+4. [Xinhua](http://news.xinhuanet.com/english/2009-09/06/content_12003038.htm)
 
 ### Related:
 

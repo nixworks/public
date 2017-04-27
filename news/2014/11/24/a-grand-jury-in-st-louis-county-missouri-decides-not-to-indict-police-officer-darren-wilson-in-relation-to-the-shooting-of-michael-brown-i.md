@@ -7,9 +7,9 @@ Schools were closed, a police command center was in place and a St. Louis County
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/nation/2014/11/24/ferguson-grand-jury-deliberations/19474907/)
-2. [Washington Post](http://www.washingtonpost.com/politics/grand-jury-reaches-decision-in-case-of-ferguson-officer/2014/11/24/de48e7e4-71d7-11e4-893f-86bd390a3340_story.html?wpisrc=al_national)
-3. [CNN](http://edition.cnn.com/2014/11/24/justice/ferguson-grand-jury/index.html?eref=edition)
+1. [CNN](http://edition.cnn.com/2014/11/24/justice/ferguson-grand-jury/index.html?eref=edition)
+2. [USA Today](http://www.usatoday.com/story/news/nation/2014/11/24/ferguson-grand-jury-deliberations/19474907/)
+3. [Washington Post](http://www.washingtonpost.com/politics/grand-jury-reaches-decision-in-case-of-ferguson-officer/2014/11/24/de48e7e4-71d7-11e4-893f-86bd390a3340_story.html?wpisrc=al_national)
 
 ### Related:
 

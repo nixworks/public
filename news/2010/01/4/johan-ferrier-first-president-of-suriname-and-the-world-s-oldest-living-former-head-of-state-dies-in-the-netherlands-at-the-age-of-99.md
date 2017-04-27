@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Winnipeg Free Press](http://www.winnipegfreepress.com/world/breakingnews/80621337.html)
-2. [Radio Netherlands Worldwide](http://www.rnw.nl/english/article/ex-surinam-president-johan-ferrier-dies-aged-99)
+1. [Radio Netherlands Worldwide](http://www.rnw.nl/english/article/ex-surinam-president-johan-ferrier-dies-aged-99)
+2. [Winnipeg Free Press](http://www.winnipegfreepress.com/world/breakingnews/80621337.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NHK World](http://www3.nhk.or.jp/daily/english/20120808_31.html)
-2. [Bloomberg](http://www.bloomberg.com/news/2012-08-08/noda-fends-off-japan-election-call-in-confirming-sales-tax-deal.html)
+1. [Bloomberg](http://www.bloomberg.com/news/2012-08-08/noda-fends-off-japan-election-call-in-confirming-sales-tax-deal.html)
+2. [NHK World](http://www3.nhk.or.jp/daily/english/20120808_31.html)
 
 ### Related:
 

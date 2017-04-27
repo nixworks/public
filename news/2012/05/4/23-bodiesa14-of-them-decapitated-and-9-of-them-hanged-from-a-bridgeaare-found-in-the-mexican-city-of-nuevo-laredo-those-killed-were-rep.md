@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Huffington Post](http://www.huffingtonpost.com/huff-wires/20120504/lt-mexico-journalist-killing/)
-2. [Yahoo! News](http://news.yahoo.com/nine-bodies-hung-bridge-northern-mexico-174942376.html)
-3. [Houston Chronicle](http://www.chron.com/news/houston-texas/article/More-journalists-murdered-in-Mexico-3533501.php)
+1. [Houston Chronicle](http://www.chron.com/news/houston-texas/article/More-journalists-murdered-in-Mexico-3533501.php)
+2. [The Huffington Post](http://www.huffingtonpost.com/huff-wires/20120504/lt-mexico-journalist-killing/)
+3. [Yahoo! News](http://news.yahoo.com/nine-bodies-hung-bridge-northern-mexico-174942376.html)
 
 ### Related:
 

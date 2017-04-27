@@ -8,8 +8,8 @@ Foreign Minister Ahmet Davutoglu continues to demand apology for flotilla raid, 
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/meast/12/25/turkey.israel.relations/)
-2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4004237,00.html)
-3. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=200957)
+2. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=200957)
+3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4004237,00.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The New York Daily News](http://www.nydailynews.com/news/national/u-s-fight-texas-syrian-refugees-article-1.2455566)
-2. [AP via ''The Washington Post](https://www.washingtonpost.com/national/key-moments-in-texas-fight-over-syrian-refugees/2015/12/04/a0236c2c-9ac2-11e5-aca6-1ae3be6f06d2_story.html)
+1. [AP via ''The Washington Post](https://www.washingtonpost.com/national/key-moments-in-texas-fight-over-syrian-refugees/2015/12/04/a0236c2c-9ac2-11e5-aca6-1ae3be6f06d2_story.html)
+2. [The New York Daily News](http://www.nydailynews.com/news/national/u-s-fight-texas-syrian-refugees-article-1.2455566)
 
 ### Related:
 

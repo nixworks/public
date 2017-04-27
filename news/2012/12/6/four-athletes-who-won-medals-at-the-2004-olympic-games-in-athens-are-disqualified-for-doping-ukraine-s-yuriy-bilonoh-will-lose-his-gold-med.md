@@ -7,10 +7,10 @@ Four 2004 Athens Olympic medallists have been stripped of their medals after tes
 
 ### Source:
 
-1. [RT](http://rt.com/sport/olympic-medals-2004-doping-391/)
+1. [BBC](http://www.bbc.co.uk/sport/0/olympics/20614290)
 2. [Fox News](http://latino.foxnews.com/latino/sports/2012/12/05/4-olympic-athletes-lose-medals-for-doping-at-2004-games/)
 3. [IOC](http://www.olympic.org/news/ioc-disqualifies-four-medallists-from-athens-2004-following-further-analysis-of-stored-samples/184931)
-4. [BBC](http://www.bbc.co.uk/sport/0/olympics/20614290)
+4. [RT](http://rt.com/sport/olympic-medals-2004-doping-391/)
 
 ### Related:
 

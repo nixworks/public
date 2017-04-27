@@ -8,8 +8,8 @@ Prince Albert II of Monaco and his fiancée Charlene Wittstock today began a thr
 ### Source:
 
 1. [Irish Independent](http://www.independent.ie/national-news/president-hosts-state-dinner-as-albert-ii-arrives-for-visit-2608228.html)
-2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0404/breaking3.html)
-3. [RTÉ](http://www.rte.ie/news/2011/0404/monaco.html)
+2. [RTÉ](http://www.rte.ie/news/2011/0404/monaco.html)
+3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0404/breaking3.html)
 
 ### Related:
 

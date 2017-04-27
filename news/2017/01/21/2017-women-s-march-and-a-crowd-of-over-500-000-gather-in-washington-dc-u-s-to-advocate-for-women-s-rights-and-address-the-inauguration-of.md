@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The New York Times](https://www.nytimes.com/2017/01/21/us/womens-march.html?)
+1. [Daily Mail](http://www.dailymail.co.uk/news/article-4142950/Thousands-women-head-Washington-protest-Trump.html)
 2. [L.A. Times](http://www.latimes.com/nation/la-na-pol-womens-march-live-organizers-up-their-crowd-estimate-for-1485012450-htmlstory.html)
-3. [Daily Mail](http://www.dailymail.co.uk/news/article-4142950/Thousands-women-head-Washington-protest-Trump.html)
+3. [The New York Times](https://www.nytimes.com/2017/01/21/us/womens-march.html?)
 4. [The New York Times](https://www.nytimes.com/interactive/2017/01/17/us/womens-march.html)
 
 ### Related:

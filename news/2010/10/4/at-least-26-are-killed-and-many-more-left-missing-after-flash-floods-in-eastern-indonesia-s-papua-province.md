@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Jakarta News](http://www.jakartanews.net/story/693425)
-2. [Deccan Chronicle'' via AP](http://www.deccanchronicle.com/international/13-killed-dozens-missing-indonesian-floods-officials-747)
+1. [Deccan Chronicle'' via AP](http://www.deccanchronicle.com/international/13-killed-dozens-missing-indonesian-floods-officials-747)
+2. [Jakarta News](http://www.jakartanews.net/story/693425)
 
 ### Related:
 

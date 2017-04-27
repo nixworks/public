@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=86&art_id=nw20091228222131433C959956)
-2. [The Guardian Nigeria](http://www.ngrguardiannews.com/news/article01/indexn2_html?pdate=291209&ptitle=Religious%20mayhem%20claims%2030%20in%20Bauchi)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jC403ckf_xzVl9EMH-UTd4lKh7Jg)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jC403ckf_xzVl9EMH-UTd4lKh7Jg)
+2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=86&art_id=nw20091228222131433C959956)
+3. [The Guardian Nigeria](http://www.ngrguardiannews.com/news/article01/indexn2_html?pdate=291209&ptitle=Religious%20mayhem%20claims%2030%20in%20Bauchi)
 
 ### Related:
 

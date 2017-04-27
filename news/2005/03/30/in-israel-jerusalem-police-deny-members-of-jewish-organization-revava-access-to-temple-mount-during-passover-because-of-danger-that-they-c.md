@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1112066445934)
-2. [Arutz Sheva](http://www.israelnn.com/news.php3?id=79297)
+1. [Arutz Sheva](http://www.israelnn.com/news.php3?id=79297)
+2. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1112066445934)
 
 ### Related:
 

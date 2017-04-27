@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8429370.stm)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jWoYYemT-cwhtoILiDyTfTxdPXvA)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jWoYYemT-cwhtoILiDyTfTxdPXvA)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8429370.stm)
 3. [Yemen News Agency](http://www.sabanews.net/en/news201434.htm)
 
 ### Related:

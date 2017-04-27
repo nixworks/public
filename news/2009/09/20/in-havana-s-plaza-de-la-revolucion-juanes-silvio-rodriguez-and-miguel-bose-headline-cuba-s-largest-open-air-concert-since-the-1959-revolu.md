@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8265177.stm)
-2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jjPq22GvQrQscxHfi5FGRTLOAlMgD9AR6CH00)
+1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jjPq22GvQrQscxHfi5FGRTLOAlMgD9AR6CH00)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8265177.stm)
 3. [Granma](http://www.granma.cu/ingles/2009/septiembre/domingo20/palabras-i.html)
 
 ### Related:

@@ -7,12 +7,12 @@ US President George W Bush has welcomed the death penalty verdict in Saddam Huss
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2006/WORLD/meast/11/04/dujail.saddam/index.html)
+1. [BBC News](http://news.bbc.co.uk/1/hi/world/middle_east/6117910.stm)
 2. [BBC News](http://news.bbc.co.uk/2/hi/middle_east/6117796.stm)
-3. [RTÉ News](http://www.rte.ie/news/2006/1105/husseins.html?rss)
+3. [CNN](http://www.cnn.com/2006/WORLD/meast/11/04/dujail.saddam/index.html)
 4. [CNN](http://www.cnn.com/2006/WORLD/meast/11/05/hussein.world.reax/index.html)
-5. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=topNews&storyid=2006-11-05T155212Z_01_L05205474_RTRUKOT_0_TEXT0.xml&WTmodLoc=NewsArt-L1-RelatedNews-3)
-6. [BBC News](http://news.bbc.co.uk/1/hi/world/middle_east/6117910.stm)
+5. [RTÉ News](http://www.rte.ie/news/2006/1105/husseins.html?rss)
+6. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=topNews&storyid=2006-11-05T155212Z_01_L05205474_RTRUKOT_0_TEXT0.xml&WTmodLoc=NewsArt-L1-RelatedNews-3)
 
 ### Related:
 

@@ -7,12 +7,12 @@ Protest leaders claim command of capital after deadly anti-government clashes, r
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/exsoviet/20100407/158466963.html)
-2. [RIA Novosti](http://en.rian.ru/world/20100407/158466764.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8606504.stm)
-4. [Russia Today](http://www.rt.com/Top_News/2010-04-07/kyrgyz-president-flees-country.html)
-5. [Kyrgyz National Informational Agency](http://www.kabar.kg/en/news/2010/04/07/15501.html)
-6. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/04/201047164717764440.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/04/201047164717764440.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8606504.stm)
+3. [Kyrgyz National Informational Agency](http://www.kabar.kg/en/news/2010/04/07/15501.html)
+4. [RIA Novosti](http://en.rian.ru/exsoviet/20100407/158466963.html)
+5. [RIA Novosti](http://en.rian.ru/world/20100407/158466764.html)
+6. [Russia Today](http://www.rt.com/Top_News/2010-04-07/kyrgyz-president-flees-country.html)
 7. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-04/07/c_13241258.htm)
 
 ### Related:

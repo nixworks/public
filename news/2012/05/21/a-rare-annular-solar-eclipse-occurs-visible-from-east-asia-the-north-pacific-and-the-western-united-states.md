@@ -8,8 +8,8 @@ Sky watchers in parts of Asia have glimpsed an annular solar eclipse as the moon
 ### Source:
 
 1. [AAP via SBS News](http://www.sbs.com.au/news/article/1652081/Solar-eclipse-viewed-over-Asia)
-2. [BBC](http://www.bbc.co.uk/news/science-environment-18120081)
-3. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/05/201252023221141226.html)
+2. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/05/201252023221141226.html)
+3. [BBC](http://www.bbc.co.uk/news/science-environment-18120081)
 
 ### Related:
 

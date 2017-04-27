@@ -7,8 +7,8 @@ A ripped condom given to Swedish police by one of Julian Assange’s accusers do
 
 ### Source:
 
-1. [RT](http://rt.com/news/assange-condom-no-dna-277/)
-2. [IANS via ''Deccan Herald](http://www.deccanherald.com/content/279089/assange-sex-case-no-dna.html)
+1. [IANS via ''Deccan Herald](http://www.deccanherald.com/content/279089/assange-sex-case-no-dna.html)
+2. [RT](http://rt.com/news/assange-condom-no-dna-277/)
 
 ### Related:
 

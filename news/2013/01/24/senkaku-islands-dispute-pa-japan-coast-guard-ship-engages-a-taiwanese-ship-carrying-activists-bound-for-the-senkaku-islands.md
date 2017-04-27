@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Asahi Shimbun](http://ajw.asahi.com/article/behind_news/social_affairs/AJ201301240073)
+1. [CNN](http://www.cnn.com/2013/01/24/world/asia/japan-taiwant-diputed-islands)
 2. [China Daily](http://africa.chinadaily.com.cn/china/2013-01/25/content_16172578.htm)
-3. [CNN](http://www.cnn.com/2013/01/24/world/asia/japan-taiwant-diputed-islands)
+3. [The Asahi Shimbun](http://ajw.asahi.com/article/behind_news/social_affairs/AJ201301240073)
 
 ### Related:
 

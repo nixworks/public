@@ -7,8 +7,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8473354)
-2. [IHT](http://www.iht.com/articles/2005/05/12/news/turkey.php)
+1. [IHT](http://www.iht.com/articles/2005/05/12/news/turkey.php)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8473354)
 3. [Zaman Online, Turkey](http://www.zaman.com/?bl=hotnews&alt=&trh=20050512&hn=19441)
 
 ### Related:

@@ -7,10 +7,10 @@ Get the latest breaking news and top news headlines at Reuters.com
 
 ### Source:
 
-1. [Daily Star, Lebanon](http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=2&article_id=15489)
-2. [Al-Jazeera](http://www.aljazeera.com/me.asp?service_ID=8639)
-3. [Zaman Online](http://www.zaman.com/?bl=international&alt=&trh=20050530&hn=20115)
-4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8635979)
+1. [Al-Jazeera](http://www.aljazeera.com/me.asp?service_ID=8639)
+2. [Daily Star, Lebanon](http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=2&article_id=15489)
+3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8635979)
+4. [Zaman Online](http://www.zaman.com/?bl=international&alt=&trh=20050530&hn=20115)
 
 ### Related:
 

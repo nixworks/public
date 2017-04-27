@@ -7,10 +7,10 @@ Bolton Wanderers midfielder Fabrice Muamba collapses on the pitch during an FA C
 
 ### Source:
 
-1. [IBN](http://ibnlive.in.com/news/andrea-pirlo-dedicates-juventus-win-to-muamba/240360-5-21.html)
-2. [Sky](http://news.sky.com/home/uk-news/article/16191101)
-3. [The Guardian](http://www.guardian.co.uk/football/2012/mar/17/fa-cup-tottenham-bolton-mbm?INTCMP=ILCNETTXT3487)
-4. [BBC](http://www.bbc.co.uk/sport/0/football/17417973)
+1. [BBC](http://www.bbc.co.uk/sport/0/football/17417973)
+2. [IBN](http://ibnlive.in.com/news/andrea-pirlo-dedicates-juventus-win-to-muamba/240360-5-21.html)
+3. [Sky](http://news.sky.com/home/uk-news/article/16191101)
+4. [The Guardian](http://www.guardian.co.uk/football/2012/mar/17/fa-cup-tottenham-bolton-mbm?INTCMP=ILCNETTXT3487)
 
 ### Related:
 

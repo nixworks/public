@@ -7,11 +7,11 @@ TOKYO -- The conservative party that dominated post-war Japan is back in power a
 
 ### Source:
 
-1. [Los Angeles Times](http://www.latimes.com/news/world/worldnow/la-fg-wn-japan-conservatives-landslide-election-20121216,0,5391869.story)
+1. [ABC News America](http://abcnews.go.com/blogs/headlines/2012/12/japan-poised-for-another-leader-as-weary-voters-head-to-polls/)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-20745165)
-3. [ABC News America](http://abcnews.go.com/blogs/headlines/2012/12/japan-poised-for-another-leader-as-weary-voters-head-to-polls/)
+3. [BBC](http://www.bbc.co.uk/news/world-asia-20747496)
 4. [CNN](http://edition.cnn.com/2012/12/16/world/asia/japan-election/index.html)
-5. [BBC](http://www.bbc.co.uk/news/world-asia-20747496)
+5. [Los Angeles Times](http://www.latimes.com/news/world/worldnow/la-fg-wn-japan-conservatives-landslide-election-20121216,0,5391869.story)
 
 ### Related:
 

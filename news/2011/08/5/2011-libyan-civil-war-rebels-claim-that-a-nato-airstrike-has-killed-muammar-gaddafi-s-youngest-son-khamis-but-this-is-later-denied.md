@@ -7,9 +7,9 @@ Rebel spokesman says Libyan army commander Khamis Gaddafi killed in NATO airstri
 
 ### Source:
 
-1. [MSNBC](http://www.msnbc.msn.com/id/44031003/ns/world_news-mideast_n_africa/)
-2. [Reuters](http://www.reuters.com/article/2011/08/05/libya-son-denial-idUSLDE7740GV20110805)
-3. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/08/20118575531382740.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/08/20118575531382740.html)
+2. [MSNBC](http://www.msnbc.msn.com/id/44031003/ns/world_news-mideast_n_africa/)
+3. [Reuters](http://www.reuters.com/article/2011/08/05/libya-son-denial-idUSLDE7740GV20110805)
 
 ### Related:
 

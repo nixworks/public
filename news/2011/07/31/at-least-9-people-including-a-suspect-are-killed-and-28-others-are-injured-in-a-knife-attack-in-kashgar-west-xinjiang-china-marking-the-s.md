@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Washington Post](http://www.washingtonpost.com/world/asia-pacific/7-dead-22-injured-in-northwest-china-after-knife-bearing-men-hijack-truck-and-attack-crowd/2011/07/31/gIQA1AbRkI_story.html)
-2. [CRI](http://english.cri.cn/6909/2011/08/01/1781s651239.htm)
+1. [CRI](http://english.cri.cn/6909/2011/08/01/1781s651239.htm)
+2. [The Washington Post](http://www.washingtonpost.com/world/asia-pacific/7-dead-22-injured-in-northwest-china-after-knife-bearing-men-hijack-truck-and-attack-crowd/2011/07/31/gIQA1AbRkI_story.html)
 3. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-07/31/c_131020413.htm)
 
 ### Related:

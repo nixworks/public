@@ -7,9 +7,9 @@ The U.S. Coast Guard continued searching Sunday for a cargo ship that went missi
 
 ### Source:
 
-1. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/050232.shtml)
+1. [ABC News](http://abcnews.go.com/International/debris-field-found-search-us-cargo-ship-el/story?id=34236660)
 2. [AP via Orlando 6](http://www.clickorlando.com/weather/power-outages-reported-as-hurricane-joaquin-lashes-bermuda/35652596)
-3. [ABC News](http://abcnews.go.com/International/debris-field-found-search-us-cargo-ship-el/story?id=34236660)
+3. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/050232.shtml)
 4. [USA Today](http://www.usatoday.com/story/news/nation/2015/10/03/cargo-ship-hurricane-joaquin-missing-coast-guard/73279228/)
 
 ### Related:

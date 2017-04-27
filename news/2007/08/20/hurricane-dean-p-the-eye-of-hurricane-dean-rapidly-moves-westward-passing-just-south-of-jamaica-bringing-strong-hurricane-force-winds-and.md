@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2007/US/08/19/storms/index.html)
+1. [AP via Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/08/20/AR2007082001376.html)
 2. [AP via the Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/world/5070529.html)
-3. [Reuters](http://www.reuters.com/article/topNews/idUSLAU66395620070821?feedType=RSS&feedName=topNews)
-4. [AP via Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/08/20/AR2007082001376.html)
+3. [CNN](http://edition.cnn.com/2007/US/08/19/storms/index.html)
+4. [Reuters](http://www.reuters.com/article/topNews/idUSLAU66395620070821?feedType=RSS&feedName=topNews)
 
 ### Related:
 

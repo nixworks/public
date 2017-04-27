@@ -7,5 +7,5 @@ Japanese scientists say they&#39;ve taken the first photographs of one of the mo
 
 ### Source:
 
-1. [National Geographic](http://news.nationalgeographic.com/news/2005/09/0927_050927_giant_squid.html)
-2. [MSNBC <nowiki>[with pictures]</nowiki>](http://msnbc.msn.com/id/9503272/)
+1. [MSNBC <nowiki>[with pictures]</nowiki>](http://msnbc.msn.com/id/9503272/)
+2. [National Geographic](http://news.nationalgeographic.com/news/2005/09/0927_050927_giant_squid.html)

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N20251561.htm)
-2. [CBC](http://www.cbc.ca/canada/story/2005/04/20/strong050420.html)
+1. [CBC](http://www.cbc.ca/canada/story/2005/04/20/strong050420.html)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N20251561.htm)
 
 ### Related:
 
@@ -20,5 +20,5 @@
 6. [ John Howard, Prime Minister of Australia denies being aware of an Australian company giving "kick-backs" to Saddam Hussein during the United Nations' Oil for food programme. ](/news/2006/04/13/john-howard-prime-minister-of-australia-denies-being-aware-of-an-australian-company-giving-kick-backs-to-saddam-hussein-during-the-unite.md) _Context: United Nations, oil-for-food_
 7. [ Benon Sevan, head of the United Nations' oil-for-food program, resigns before the publication of a report that is expected to accuse him of corruption. He blames Kofi Annan for "sacrificing" him and denies all charges ](/news/2005/08/8/benon-sevan-head-of-the-united-nations-oil-for-food-program-resigns-before-the-publication-of-a-report-that-is-expected-to-accuse-him-of.md) _Context: United Nations, oil-for-food_
 8. [The United Nations announces expansion of civilian camps for people fleeing Mosul, following resumption of airstrikes  on ISIL-held portions of the Iraqi city. ](/news/2017/04/4/the-united-nations-announces-expansion-of-civilian-camps-for-people-fleeing-mosul-following-resumption-of-airstrikes-on-isil-held-portions.md) _Context: United Nations_
-9. [At least 17 new mass graves are discovered  by United Nations investigators in Kasai-Central, Democratic Republic of the Congo, mostly around the town of Tshimbulu. ](/news/2017/04/19/at-least-17-new-mass-graves-are-discovered-by-united-nations-investigators-in-kasaa-central-democratic-republic-of-the-congo-mostly-arou.md) _Context: United Nations_
-10. [American pipeline operator Williams Partners has agreed to sell an olefins plant in Louisiana to Canadian chemical company Nova Chemicals for $2.1 billion. ](/news/2017/04/17/american-pipeline-operator-williams-partners-has-agreed-to-sell-an-olefins-plant-in-louisiana-to-canadian-chemical-company-nova-chemicals-fo.md) _Context: Canadian_
+9. [The United Nations MONUSCO reports that 20 Chowe-Pende community members have been killed in clashes with the Lulua-Luba community in Kasai-Central, Democratic Republic of Congo. ](/news/2017/04/26/the-united-nations-monusco-reports-that-20-chowe-pende-community-members-have-been-killed-in-clashes-with-the-lulua-luba-community-in-kasaa.md) _Context: United Nations_
+10. [At least 17 new mass graves are discovered  by United Nations investigators in Kasai-Central, Democratic Republic of the Congo, mostly around the town of Tshimbulu. ](/news/2017/04/19/at-least-17-new-mass-graves-are-discovered-by-united-nations-investigators-in-kasaa-central-democratic-republic-of-the-congo-mostly-arou.md) _Context: United Nations_

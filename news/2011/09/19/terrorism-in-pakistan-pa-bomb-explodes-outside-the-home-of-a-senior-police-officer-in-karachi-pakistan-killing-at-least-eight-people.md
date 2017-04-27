@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AP via NineMSN](http://news.ninemsn.com.au/world/8303997/karachi-bomb-kills-4)
-2. [Daily Times](http://www.dailytimes.com.pk/default.asp?page=2011%5C09%5C20%5Cstory_20-9-2011_pg1_2)
-3. [AFP via ''Dawn](http://www.dawn.com/2011/09/19/heavy-bomb-blast-in-karachi.html)
+1. [AFP via ''Dawn](http://www.dawn.com/2011/09/19/heavy-bomb-blast-in-karachi.html)
+2. [AP via NineMSN](http://news.ninemsn.com.au/world/8303997/karachi-bomb-kills-4)
+3. [Daily Times](http://www.dailytimes.com.pk/default.asp?page=2011%5C09%5C20%5Cstory_20-9-2011_pg1_2)
 
 ### Related:
 

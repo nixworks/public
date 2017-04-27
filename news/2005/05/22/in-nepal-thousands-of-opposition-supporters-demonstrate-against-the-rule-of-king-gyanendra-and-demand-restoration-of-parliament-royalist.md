@@ -8,8 +8,8 @@
 ### Source:
 
 1. [ABC](http://www.abc.net.au/news/newsitems/200505/s1374299.htm)
-2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/DEL142214.htm)
-3. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4570987.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4570987.stm)
+3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/DEL142214.htm)
 4. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/B153352.htm)
 
 ### Related:

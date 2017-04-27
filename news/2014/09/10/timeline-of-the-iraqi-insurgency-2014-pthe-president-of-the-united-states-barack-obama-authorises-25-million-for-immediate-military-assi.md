@@ -7,8 +7,8 @@ President Barack Obama authorized $25 million in &quot;immediate military assist
 
 ### Source:
 
-1. [Washington Examiner](http://washingtonexaminer.com/obama-relentless-campaign-to-destroy-isis/article/2553190#!)
-2. [Reuters](http://www.reuters.com/article/2014/09/10/us-iraq-crisis-obama-militaryaid-idUSKBN0H52BH20140910)
+1. [Reuters](http://www.reuters.com/article/2014/09/10/us-iraq-crisis-obama-militaryaid-idUSKBN0H52BH20140910)
+2. [Washington Examiner](http://washingtonexaminer.com/obama-relentless-campaign-to-destroy-isis/article/2553190#!)
 
 ### Related:
 

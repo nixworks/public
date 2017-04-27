@@ -7,8 +7,8 @@ SANAA, Yemen (AP) — The warring parties in Yemen have agreed to a 72-hour ceas
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-yemen-security-idUSKCN12I2GX)
-2. [AP](http://bigstory.ap.org/article/07bd4b085e334b6e88199b81c92656a5/un-announces-agreement-72-hour-yemen-cease-fire)
+1. [AP](http://bigstory.ap.org/article/07bd4b085e334b6e88199b81c92656a5/un-announces-agreement-72-hour-yemen-cease-fire)
+2. [Reuters](http://www.reuters.com/article/us-yemen-security-idUSKCN12I2GX)
 
 ### Related:
 

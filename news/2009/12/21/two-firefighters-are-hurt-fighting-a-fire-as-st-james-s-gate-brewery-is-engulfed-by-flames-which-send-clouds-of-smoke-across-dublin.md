@@ -7,9 +7,9 @@ Two members of Dublin Fire Brigade are being treated in hospital following a fir
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/skynews/Home/Guinness-Blaze-At-Dublin-Drinks-Giant-Factory-Sparks-Major-Rescue-Operation/Article/200912315505858?lpos=Home_Top_Stories_Header_2&lid=ARTICLE_15505858_Guinness%3A_Blaze_At_Dublin_Drinks_Giant_Factory_Sparks_Major_Rescue_Operation_)
+1. [RTÉ](http://www.rte.ie/news/2009/1221/guinness.html)
 2. [Reuters](http://www.reuters.com/article/idUSLDE5BK1SE20091221?type=marketsNews)
-3. [RTÉ](http://www.rte.ie/news/2009/1221/guinness.html)
+3. [Sky News](http://news.sky.com/skynews/Home/Guinness-Blaze-At-Dublin-Drinks-Giant-Factory-Sparks-Major-Rescue-Operation/Article/200912315505858?lpos=Home_Top_Stories_Header_2&lid=ARTICLE_15505858_Guinness%3A_Blaze_At_Dublin_Drinks_Giant_Factory_Sparks_Major_Rescue_Operation_)
 
 ### Related:
 

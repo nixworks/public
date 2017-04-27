@@ -8,10 +8,10 @@
 ### Source:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h-GZ62Ed20fcfS0Q_f45Uvz-3Flg)
-2. [Manilla Bulletin](http://www.mb.com.ph/articles/277484/twelve-killed-mogadishu-rebels-attack-lawmakers-meeting)
+2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5g7OaI4_kjeHA-o4UhlmP7vlWmrrwD9I98R880)
 3. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/09/2010916165140506179.html)
-4. [AP](http://www.google.com/hostednews/ap/article/ALeqM5g7OaI4_kjeHA-o4UhlmP7vlWmrrwD9I98R880)
-5. [CNN](http://edition.cnn.com/2010/WORLD/africa/09/16/somalia.shelling/)
+4. [CNN](http://edition.cnn.com/2010/WORLD/africa/09/16/somalia.shelling/)
+5. [Manilla Bulletin](http://www.mb.com.ph/articles/277484/twelve-killed-mogadishu-rebels-attack-lawmakers-meeting)
 
 ### Related:
 

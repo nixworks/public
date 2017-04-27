@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Wall Street Journal](http://online.wsj.com/article/BT-CO-20091214-707449.html)
-2. [The Inquirer](http://www.theinquirer.net/inquirer/news/1566126/teliasonera-launches-4g-services)
+1. [The Inquirer](http://www.theinquirer.net/inquirer/news/1566126/teliasonera-launches-4g-services)
+2. [Wall Street Journal](http://online.wsj.com/article/BT-CO-20091214-707449.html)
 
 ### Related:
 

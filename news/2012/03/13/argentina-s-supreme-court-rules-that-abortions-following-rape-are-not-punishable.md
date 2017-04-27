@@ -7,8 +7,8 @@ The Supreme Court has ratified today a ruling of a Chubut&rsquo;s court authoriz
 
 ### Source:
 
-1. [Inquirer](http://newsinfo.inquirer.net/161233/argentina-court-okays-abortion-in-cases-of-rape)
-2. [Buenos Aires Herald](http://www.buenosairesherald.com/article/95266/sc-ratifies-abortion-authorization-in-case-of-rape-)
+1. [Buenos Aires Herald](http://www.buenosairesherald.com/article/95266/sc-ratifies-abortion-authorization-in-case-of-rape-)
+2. [Inquirer](http://newsinfo.inquirer.net/161233/argentina-court-okays-abortion-in-cases-of-rape)
 
 ### Related:
 

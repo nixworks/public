@@ -7,14 +7,14 @@ No injuries or major damage after massive barrage targets north, Jerusalem, and 
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-middle-east-28205090#)
-2. [The Times of Israel](http://www.timesofisrael.com/israel-pounds-dozens-of-gaza-targets-in-major-counteroffensive)
-3. [AP](http://www.apnewsarchive.com/2014/Israeli-army-launches-offensive-operation-on-Gaza-Strip-to-quell-rocket-attacks/id-83befce5948e44b68d9604c39806ce33)
+1. [AP](http://www.apnewsarchive.com/2014/Israeli-army-launches-offensive-operation-on-Gaza-Strip-to-quell-rocket-attacks/id-83befce5948e44b68d9604c39806ce33)
+2. [BBC](http://www.bbc.com/news/world-middle-east-28205090#)
+3. [The Times of Israel](http://www.timesofisrael.com/israel-pounds-dozens-of-gaza-targets-in-major-counteroffensive)
 
 ### Related:
 
 1. [Gaza-Israel conflict:Five people are injured on the Gaza Strip in an Israel Air Force raid following Palestinian militants firing a rocket towards Ashkelon. ](/news/2014/01/16/gazaaisrael-conflict-pfive-people-are-injured-on-the-gaza-strip-in-an-israel-air-force-raid-following-palestinian-militants-firing-a-rocke.md) _Context: Gaza–Israel conflict, Palestinian rocket attacks on Israel_
-2. [Prime Minister of Israel Benjamin Netanyahu cancels a visit with the foreign minister of Germany Sigmar Gabriel after the latter's refusal to cancel a meeting with the Israel Defense Forces veterans NGO Breaking the Silence. ](/news/2017/04/25/prime-minister-of-israel-benjamin-netanyahu-cancels-a-visit-with-the-foreign-minister-of-germany-sigmar-gabriel-after-the-latter-s-refusal-t.md) _Context: Benjamin Netanyahu_
+2. [Prime Minister of Israel Benjamin Netanyahu cancels a visit with the foreign minister of Germany Sigmar Gabriel after the latter's refusal to cancel a meeting with the Israel Defense Forces veterans NGO Breaking the Silence saying the group "slanders IDF soldiers as war criminals"](/news/2017/04/25/prime-minister-of-israel-benjamin-netanyahu-cancels-a-visit-with-the-foreign-minister-of-germany-sigmar-gabriel-after-the-latter-s-refusal-t.md) _Context: Benjamin Netanyahu_
 3. [At least four Palestinians are injured following Israeli air strikes in Gaza that were reportedly in response to rockets launched into southern Israel by Hamas. ](/news/2017/02/28/at-least-four-palestinians-are-injured-following-israeli-air-strikes-in-gaza-that-were-reportedly-in-response-to-rockets-launched-into-south.md) _Context: Gaza–Israel conflict_
 4. [Israeli Prime Minister Benjamin Netanyahu blames the Islamic State for the attack that killed four soldiers and injured 15 others in East Jerusalem. ](/news/2017/01/9/israeli-prime-minister-benjamin-netanyahu-blames-the-islamic-state-for-the-attack-that-killed-four-soldiers-and-injured-15-others-in-east-je.md) _Context: Benjamin Netanyahu_
 5. [Israeli Prime Minister Benjamin Netanyahu calls the latest peace-conference "useless". ](/news/2017/01/17/israeli-prime-minister-benjamin-netanyahu-calls-the-latest-peace-conference-useless.md) _Context: Benjamin Netanyahu_

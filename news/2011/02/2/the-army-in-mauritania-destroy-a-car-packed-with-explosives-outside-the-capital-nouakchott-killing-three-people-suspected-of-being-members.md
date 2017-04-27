@@ -7,8 +7,8 @@ Mauritanian soldiers fire on a car packed with explosives, killing three suspect
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-12344931)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iZbkDXhCi1XFJfO7G4Xi-ioNjovA?docId=CNG.8c92962f42ad9eaed99e60f1dd4aadf9.2d1)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iZbkDXhCi1XFJfO7G4Xi-ioNjovA?docId=CNG.8c92962f42ad9eaed99e60f1dd4aadf9.2d1)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-12344931)
 
 ### Related:
 

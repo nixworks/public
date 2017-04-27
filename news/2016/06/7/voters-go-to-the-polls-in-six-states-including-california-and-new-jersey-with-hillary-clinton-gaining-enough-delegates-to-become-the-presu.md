@@ -7,11 +7,11 @@ U.S. presidential candidates Hillary Clinton and Donald Trump kicked off a fierc
 
 ### Source:
 
-1. [Fox News](http://www.foxnews.com/politics/2016/06/07/clinton-clinches-democratic-presidential-nomination-fox-news-projects.html)
-2. [Reuters](http://www.reuters.com/article/us-usa-election-clinton-idUSKCN0YS0Y4)
-3. [AP](http://hosted.ap.org/dynamic/stories/U/US_2016_ELECTION_NEW_JERSEY_GOP?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
-4. [ (NMPolitics.net](http://nmpolitics.net/index/2016/06/clinton-wins-nm-becomes-presumptive-dem-nominee/)
-5. [AP²](http://bigstory.ap.org/article/a6c31e9a7791497b8950a3e3d3d40de4/history-hand-clinton-faces-voters-presumptive-nominee)
+1. [ (NMPolitics.net](http://nmpolitics.net/index/2016/06/clinton-wins-nm-becomes-presumptive-dem-nominee/)
+2. [AP](http://hosted.ap.org/dynamic/stories/U/US_2016_ELECTION_NEW_JERSEY_GOP?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+3. [AP²](http://bigstory.ap.org/article/a6c31e9a7791497b8950a3e3d3d40de4/history-hand-clinton-faces-voters-presumptive-nominee)
+4. [Fox News](http://www.foxnews.com/politics/2016/06/07/clinton-clinches-democratic-presidential-nomination-fox-news-projects.html)
+5. [Reuters](http://www.reuters.com/article/us-usa-election-clinton-idUSKCN0YS0Y4)
 
 ### Related:
 

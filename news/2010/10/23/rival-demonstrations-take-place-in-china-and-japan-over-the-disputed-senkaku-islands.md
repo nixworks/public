@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_594419.html)
-2. [CP](http://www.google.com/hostednews/canadianpress/article/ALeqM5infpmoMXGbYwaYYxh2Pfb_iaueuw?docId=4918927)
+1. [CP](http://www.google.com/hostednews/canadianpress/article/ALeqM5infpmoMXGbYwaYYxh2Pfb_iaueuw?docId=4918927)
+2. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_594419.html)
 
 ### Related:
 

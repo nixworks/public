@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-03-17T124525Z_01_ZWE726807_RTRUKOC_0_UTILITIES-RUSSIA-SHOOTING.xml)
-2. [Interfax](http://www.interfax.ru/e/B/politics/28.html?id_issue=11257109)
-3. [RIA Novosti](http://en.rian.ru/rian/index.cfm?prd_id=160&msg_id=5465951&startrow=1&date=2005-03-17&do_alert=0)
+1. [Interfax](http://www.interfax.ru/e/B/politics/28.html?id_issue=11257109)
+2. [RIA Novosti](http://en.rian.ru/rian/index.cfm?prd_id=160&msg_id=5465951&startrow=1&date=2005-03-17&do_alert=0)
+3. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-03-17T124525Z_01_ZWE726807_RTRUKOC_0_UTILITIES-RUSSIA-SHOOTING.xml)
 
 ### Related:
 

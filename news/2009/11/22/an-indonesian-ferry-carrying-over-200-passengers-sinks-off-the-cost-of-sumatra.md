@@ -8,8 +8,8 @@
 ### Source:
 
 1. [AFP via News Limited](http://www.news.com.au/story/0,23599,26384321-1702,00.html)
-2. [Jakarta Post](http://www.thejakartapost.com/news/2009/11/22/indonesian-ferry-sinks-15-dead-some-230-rescued.html)
-3. [China Daily](http://www.chinadaily.com.cn/world/2009-11/22/content_9019455.htm)
+2. [China Daily](http://www.chinadaily.com.cn/world/2009-11/22/content_9019455.htm)
+3. [Jakarta Post](http://www.thejakartapost.com/news/2009/11/22/indonesian-ferry-sinks-15-dead-some-230-rescued.html)
 
 ### Related:
 

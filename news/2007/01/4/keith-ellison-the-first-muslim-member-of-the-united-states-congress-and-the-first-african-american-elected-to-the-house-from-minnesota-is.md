@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/60982C59-0A12-47B1-BB79-DAD9BF3C201C.htm)
-2. [AP via The Guardian](http://www.guardian.co.uk/uslatest/story/0,,-6323406,00.html)
+1. [AP via The Guardian](http://www.guardian.co.uk/uslatest/story/0,,-6323406,00.html)
+2. [Al Jazeera](http://english.aljazeera.net/NR/exeres/60982C59-0A12-47B1-BB79-DAD9BF3C201C.htm)
 3. [Asian Tribune](http://www.asiantribune.com/index.php?q=node/3995)
 4. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20070104/congress_quran_070104/20070104)
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/politics/2011/jan/20/alan-johnson-resigns-shadow-chancellor)
-2. [BBC](http://www.bbc.co.uk/news/uk-politics-12242397)
+1. [BBC](http://www.bbc.co.uk/news/uk-politics-12242397)
+2. [The Guardian](http://www.guardian.co.uk/politics/2011/jan/20/alan-johnson-resigns-shadow-chancellor)
 
 ### Related:
 

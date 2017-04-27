@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sveriges Radio](http://sverigesradio.se/sida/artikel.aspx?programid=83&artikel=5540446)
-2. [Göteborgs-Tidningen](http://www.gp.se/ekonomi/1.1682317-saabs-forre-vd-brottsmisstankt)
+1. [Göteborgs-Tidningen](http://www.gp.se/ekonomi/1.1682317-saabs-forre-vd-brottsmisstankt)
+2. [Sveriges Radio](http://sverigesradio.se/sida/artikel.aspx?programid=83&artikel=5540446)
 
 ### Related:
 

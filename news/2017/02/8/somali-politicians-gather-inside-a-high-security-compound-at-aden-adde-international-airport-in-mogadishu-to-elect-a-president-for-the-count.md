@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](https://www.theguardian.com/world/2017/feb/08/somalia-goes-to-polls-president-mohamud)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-38904663)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-38904663)
+2. [The Guardian](https://www.theguardian.com/world/2017/feb/08/somalia-goes-to-polls-president-mohamud)
 
 ### Related:
 

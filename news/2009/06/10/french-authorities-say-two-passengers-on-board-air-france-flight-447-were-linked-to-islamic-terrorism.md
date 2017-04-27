@@ -8,8 +8,8 @@ Search crews have now recovered 41 bodies from an area in the Atlantic where an 
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0610/airfrance.html)
-2. [Sky News](http://news.sky.com/skynews/Home/World-News/Terror-Names-Linked-To-Doomed-Flight-AF-447-Two-Passengers-Shared-Names-Of-Radical-Muslims/Article/200906215300405?lpos=World_News_Carousel_Region_0&lid=ARTICLE_15300405_Terror_Names_Linked_To_Doomed_Flight_AF_447%3A_Two_Passengers_Shared_Names_Of_Radical_Muslims)
-3. [Reuters through Yahoo news](http://news.yahoo.com/s/nm/20090610/ts_nm/us_france_plane)
+2. [Reuters through Yahoo news](http://news.yahoo.com/s/nm/20090610/ts_nm/us_france_plane)
+3. [Sky News](http://news.sky.com/skynews/Home/World-News/Terror-Names-Linked-To-Doomed-Flight-AF-447-Two-Passengers-Shared-Names-Of-Radical-Muslims/Article/200906215300405?lpos=World_News_Carousel_Region_0&lid=ARTICLE_15300405_Terror_Names_Linked_To_Doomed_Flight_AF_447%3A_Two_Passengers_Shared_Names_Of_Radical_Muslims)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L2917587.htm)
-2. [B92](http://www.b92.net/english/news/index.php?&nav_category=&nav_id=32323&order=priority&style=headlines)
+1. [B92](http://www.b92.net/english/news/index.php?&nav_category=&nav_id=32323&order=priority&style=headlines)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L2917587.htm)
 
 ### Related:
 

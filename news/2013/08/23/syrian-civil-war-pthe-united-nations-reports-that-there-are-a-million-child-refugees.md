@@ -7,8 +7,8 @@ The longer chemical weapons inspectors wait in a Damascus luxury hotel for permi
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/08/22/us-syria-crisis-chemical-analysis-idUSBRE97L10020130822)
-2. [AP via Fox News](http://www.foxnews.com/world/2013/08/23/syrian-child-refugees-reaches1-million-mark-un-says/)
+1. [AP via Fox News](http://www.foxnews.com/world/2013/08/23/syrian-child-refugees-reaches1-million-mark-un-says/)
+2. [Reuters](http://www.reuters.com/article/2013/08/22/us-syria-crisis-chemical-analysis-idUSBRE97L10020130822)
 
 ### Related:
 

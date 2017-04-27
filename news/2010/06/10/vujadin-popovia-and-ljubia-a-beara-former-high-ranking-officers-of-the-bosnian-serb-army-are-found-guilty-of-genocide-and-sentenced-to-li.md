@@ -7,8 +7,8 @@ UN court delivers life sentence to two men involved in the Srebrenica massacre.
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/06/2010610113051144755.html)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gowDanLRdWnFtAvKrqJZh9QbSlawD9G8CBIO3)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gowDanLRdWnFtAvKrqJZh9QbSlawD9G8CBIO3)
+2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/06/2010610113051144755.html)
 
 ### Related:
 

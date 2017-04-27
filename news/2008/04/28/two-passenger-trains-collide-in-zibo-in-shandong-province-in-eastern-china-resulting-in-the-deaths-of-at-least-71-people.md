@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [UK Press Association via Google News](http://ukpress.google.com/article/ALeqM5jYlsiot5Xw0TSwx5PN7uYdgLqYiA)
+1. [AFP via Google News](http://afp.google.com/article/ALeqM5iz9MdH4SmynUQyTkC6Q9XNiVHbgA)
 2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080428/ap_on_re_as/china_train_crash)
-3. [AFP via Google News](http://afp.google.com/article/ALeqM5iz9MdH4SmynUQyTkC6Q9XNiVHbgA)
+3. [UK Press Association via Google News](http://ukpress.google.com/article/ALeqM5jYlsiot5Xw0TSwx5PN7uYdgLqYiA)
 
 ### Related:
 

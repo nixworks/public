@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/157697/1/.html)
-2. [Borneo Bulletin](http://www.brunei-online.com/bb/tue/jul12b4.htm)
+1. [Borneo Bulletin](http://www.brunei-online.com/bb/tue/jul12b4.htm)
+2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/157697/1/.html)
 
 ### Related:
 

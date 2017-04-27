@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [CBC Sports](http://www.cbc.ca/sports/baseball/story/2010/08/14/sp-baseballshooting.html)
-2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-sport/shooting-in-venezuela-suspends-baseball-20100814-123sa.html)
+1. [BBC News](http://www.bbc.co.uk/news/world-latin-america-10977679)
+2. [CBC Sports](http://www.cbc.ca/sports/baseball/story/2010/08/14/sp-baseballshooting.html)
 3. [Reuters](http://www.reuters.com/article/idUSTRE67D14W20100814?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FsportsNews+%28News+%2F+US+%2F+Sports%29)
-4. [BBC News](http://www.bbc.co.uk/news/world-latin-america-10977679)
+4. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-sport/shooting-in-venezuela-suspends-baseball-20100814-123sa.html)
 
 ### Related:
 

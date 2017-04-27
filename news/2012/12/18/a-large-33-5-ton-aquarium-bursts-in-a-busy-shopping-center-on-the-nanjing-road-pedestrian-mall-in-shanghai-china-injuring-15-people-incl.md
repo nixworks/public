@@ -7,9 +7,9 @@ Shanghai, China &#8211; Several people were reportedly injured when a shark tank
 
 ### Source:
 
-1. [RT](http://rt.com/news/shanghai-explosion-tank-sharks-815/)
-2. [The Inquisitr](http://www.inquisitr.com/450257/shark-tank-bursts-at-shanghai-shopping-center-video/)
-3. [East Day](http://english.eastday.com/e/121219/u1a7072406.html)
+1. [East Day](http://english.eastday.com/e/121219/u1a7072406.html)
+2. [RT](http://rt.com/news/shanghai-explosion-tank-sharks-815/)
+3. [The Inquisitr](http://www.inquisitr.com/450257/shark-tank-bursts-at-shanghai-shopping-center-video/)
 
 ### Related:
 

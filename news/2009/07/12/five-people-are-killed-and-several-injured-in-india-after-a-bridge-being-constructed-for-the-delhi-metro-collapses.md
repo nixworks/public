@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8146362.stm)
-2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5h00UNGeKcIley2uxzOV0-lPAsuoQD99CSM4O0)
+1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5h00UNGeKcIley2uxzOV0-lPAsuoQD99CSM4O0)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8146362.stm)
 3. [Indian Express](http://www.indianexpress.com/news/5-killed-as-underconstruction-metro-bridge-collapses/488367/)
 
 ### Related:

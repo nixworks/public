@@ -8,8 +8,8 @@ Get the latest breaking news and top news headlines at Reuters.com
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4511761.stm)
-2. [Reuters AlertNet](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8370228)
-3. [Jakarta Post](http://www.thejakartapost.com/detailheadlines.asp?fileid=20050504.A06&irec=5)
+2. [Jakarta Post](http://www.thejakartapost.com/detailheadlines.asp?fileid=20050504.A06&irec=5)
+3. [Reuters AlertNet](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8370228)
 
 ### Related:
 

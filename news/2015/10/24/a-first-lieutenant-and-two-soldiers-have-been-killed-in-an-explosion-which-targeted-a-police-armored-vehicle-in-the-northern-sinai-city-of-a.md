@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NY Times](http://www.nytimes.com/aponline/2015/10/24/world/middleeast/ap-ml-egypt-explosion.html?_r=0)
-2. [AFP via Bangkok Post](http://www.bangkokpost.com/news/world/742044/islamist-candidate-in-egypt-elections-shot-dead-in-sinai)
+1. [AFP via Bangkok Post](http://www.bangkokpost.com/news/world/742044/islamist-candidate-in-egypt-elections-shot-dead-in-sinai)
+2. [NY Times](http://www.nytimes.com/aponline/2015/10/24/world/middleeast/ap-ml-egypt-explosion.html?_r=0)
 3. [Reuters](http://www.reuters.com/article/2015/10/24/us-egypt-election-militants-idUSKCN0SI0O520151024)
 
 ### Related:

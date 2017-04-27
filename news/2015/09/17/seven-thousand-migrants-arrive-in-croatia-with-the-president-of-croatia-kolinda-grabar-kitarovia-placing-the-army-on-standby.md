@@ -7,9 +7,9 @@ Croatia lost control of its border with Serbia on Thursday, unable to deny the s
 
 ### Source:
 
-1. [WA Today](http://www.watoday.com.au/world/migrant-crisis/migrant-crisis-over-7000-migrants-enter-croatia-president-readies-army-to-respond-20150917-gjpdvn.html)
+1. [Australian Broadcasting Corporation](http://www.abc.net.au/news/2015-09-17/eu-parliament-backs-refugee-relocation-plan/6785092)
 2. [EuroNews](http://www.euronews.com/2015/09/17/meps-back-eu-migrant-relocation-plan/)
-3. [Australian Broadcasting Corporation](http://www.abc.net.au/news/2015-09-17/eu-parliament-backs-refugee-relocation-plan/6785092)
+3. [WA Today](http://www.watoday.com.au/world/migrant-crisis/migrant-crisis-over-7000-migrants-enter-croatia-president-readies-army-to-respond-20150917-gjpdvn.html)
 
 ### Related:
 

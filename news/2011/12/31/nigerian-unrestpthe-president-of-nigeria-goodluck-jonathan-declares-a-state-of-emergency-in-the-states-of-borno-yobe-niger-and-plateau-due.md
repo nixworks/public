@@ -7,10 +7,10 @@ Nigeria has declared a state of emergency and closed parts of the country&#039;s
 
 ### Source:
 
-1. [The Nation](http://www.thenationonlineng.net/2011/index.php/news-update/31740-jonathan-declares-state-of-emergency-in-borno-yobe-plateau-and-niger-states.html)
-2. [The Sun](http://www.sunnewsonline.com/webpages/news/national/2012/jan/01/national-01-01-2012-001.html)
-3. [Reuters via Yahoo! News](http://old.news.yahoo.com/s/nm/20111231/wl_nm/us_nigeria_clashes)
-4. [AFP via ABC News Australia](http://www.abc.net.au/news/2012-01-01/nigeria-declares-state-of-emergency/3753958)
+1. [AFP via ABC News Australia](http://www.abc.net.au/news/2012-01-01/nigeria-declares-state-of-emergency/3753958)
+2. [Reuters via Yahoo! News](http://old.news.yahoo.com/s/nm/20111231/wl_nm/us_nigeria_clashes)
+3. [The Nation](http://www.thenationonlineng.net/2011/index.php/news-update/31740-jonathan-declares-state-of-emergency-in-borno-yobe-plateau-and-niger-states.html)
+4. [The Sun](http://www.sunnewsonline.com/webpages/news/national/2012/jan/01/national-01-01-2012-001.html)
 
 ### Related:
 

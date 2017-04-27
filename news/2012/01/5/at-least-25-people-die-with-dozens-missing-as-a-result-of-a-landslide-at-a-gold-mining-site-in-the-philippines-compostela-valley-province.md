@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2012/01/04/world/asia/philippines-landslide/)
-2. [AP via MSNBC](http://www.msnbc.msn.com/id/45878481#.TwUmUdWt5Bk)
+1. [AP via MSNBC](http://www.msnbc.msn.com/id/45878481#.TwUmUdWt5Bk)
+2. [CNN](http://edition.cnn.com/2012/01/04/world/asia/philippines-landslide/)
 
 ### Related:
 

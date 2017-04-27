@@ -7,10 +7,10 @@ At least four people were killed across Syria on Sunday, the Local Coordination 
 
 ### Source:
 
-1. [Haaretz](http://www.haaretz.com/news/middle-east/syria-activists-call-for-mass-protests-as-school-year-begins-1.385128)
-2. [AP via ''The Guardian](http://www.guardian.co.uk/world/2011/sep/18/yemeni-protesters-fired-on)
-3. [BBC](http://www.bbc.co.uk/news/world-africa-14962623)
-4. [CNN](http://edition.cnn.com/2011/WORLD/meast/09/18/syria.unrest/)
+1. [AP via ''The Guardian](http://www.guardian.co.uk/world/2011/sep/18/yemeni-protesters-fired-on)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-14962623)
+3. [CNN](http://edition.cnn.com/2011/WORLD/meast/09/18/syria.unrest/)
+4. [Haaretz](http://www.haaretz.com/news/middle-east/syria-activists-call-for-mass-protests-as-school-year-begins-1.385128)
 
 ### Related:
 

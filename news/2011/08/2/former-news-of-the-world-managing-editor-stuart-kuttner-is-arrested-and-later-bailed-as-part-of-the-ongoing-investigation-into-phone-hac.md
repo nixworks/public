@@ -7,8 +7,8 @@ A 71-year-old man, thought to be ex-News of the World executive Stuart Kuttner, 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/uk-england-london-14370398)
-2. [BBC](http://www.bbc.co.uk/news/uk-14375688)
+1. [BBC](http://www.bbc.co.uk/news/uk-14375688)
+2. [BBC](http://www.bbc.co.uk/news/uk-england-london-14370398)
 
 ### Related:
 

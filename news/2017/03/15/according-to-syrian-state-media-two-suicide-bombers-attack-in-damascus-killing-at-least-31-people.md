@@ -7,9 +7,9 @@ Blasts at restaurant in Syrian capital and at the Palace of Justice follow anoth
 
 ### Source:
 
-1. [The Guardian](https://www.theguardian.com/world/2017/mar/15/damascus-suicide-bombing-dozens-killed-syria-reports-say)
-2. [The New Indian Express](http://www.newindianexpress.com/world/2017/mar/15/air-strike-in-syria-leaves-at-least-21-dead-including-14-children-sources-1581706.html)
-3. [Al Masdar News](https://www.almasdarnews.com/article/breaking-second-terrorist-attack-rips-damascus-6th-anniversary-syrian-uprising/)
+1. [Al Masdar News](https://www.almasdarnews.com/article/breaking-second-terrorist-attack-rips-damascus-6th-anniversary-syrian-uprising/)
+2. [The Guardian](https://www.theguardian.com/world/2017/mar/15/damascus-suicide-bombing-dozens-killed-syria-reports-say)
+3. [The New Indian Express](http://www.newindianexpress.com/world/2017/mar/15/air-strike-in-syria-leaves-at-least-21-dead-including-14-children-sources-1581706.html)
 
 ### Related:
 

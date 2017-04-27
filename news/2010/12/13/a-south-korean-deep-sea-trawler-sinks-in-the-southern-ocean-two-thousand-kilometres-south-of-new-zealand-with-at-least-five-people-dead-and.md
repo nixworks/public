@@ -7,9 +7,9 @@ More than 20 fishermen are feared dead in icy waters after a South Korean deep-s
 
 ### Source:
 
-1. [Yonhap](http://english.yonhapnews.co.kr/national/2010/12/13/19/0301000000AEN20101213006300315F.HTML)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11980392)
-3. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/12/12/antarctica.ship.sinks/index.html?eref=edition)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11980392)
+2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/12/12/antarctica.ship.sinks/index.html?eref=edition)
+3. [Yonhap](http://english.yonhapnews.co.kr/national/2010/12/13/19/0301000000AEN20101213006300315F.HTML)
 
 ### Related:
 
@@ -20,6 +20,6 @@ More than 20 fishermen are feared dead in icy waters after a South Korean deep-s
 5. [Hyundai (Sonata and Santa Fe) and Kia (Optima, Sorento, and Sportage) are recalling 1.5 million cars, over 1.3 million in United States and 170,000 in South Korea, over an engine defect. ](/news/2017/04/7/hyundai-sonata-and-santa-fe-and-kia-optima-sorento-and-sportage-are-recalling-1-5-million-cars-over-1-3-million-in-united-states-and.md) _Context: South Korea_
 6. [Severe flooding caused by Cyclone Debbie forces the evacuation of Edgecumbe, New Zealand, and nearby areas. ](/news/2017/04/6/severe-flooding-caused-by-cyclone-debbie-forces-the-evacuation-of-edgecumbe-new-zealand-and-nearby-areas.md) _Context: New Zealand_
 7. [North Korea fires a medium-range ballistic missile about 60 kilometers (37 miles) into its eastern waters, in the direction of Japan according to United States and South Korean officials. ](/news/2017/04/5/north-korea-fires-a-medium-range-ballistic-missile-about-60-kilometers-37-miles-into-its-eastern-waters-in-the-direction-of-japan-accordi.md) _Context: South Korea_
-8. [ United States Vice President Mike Pence visits Alaska, where he meets with Governor Bill Walker and discusses stationing F-35 squadrons in the state. Pence is beginning a 10-day trip to South Korea, Australia, Indonesia and Japan. ](/news/2017/04/15/united-states-vice-president-mike-pence-visits-alaska-where-he-meets-with-governor-bill-walker-and-discusses-stationing-f-35-squadrons-in.md) _Context: South Korea_
-9. [A state of emergency is declared and coastal areas are evacuated in the Coromandel Peninsula as Cyclone Cook sweeps across the North Island of New Zealand. ](/news/2017/04/13/a-state-of-emergency-is-declared-and-coastal-areas-are-evacuated-in-the-coromandel-peninsula-as-cyclone-cook-sweeps-across-the-north-island.md) _Context: New Zealand_
-10. [Authorities cannot contact the South Korean cargo freighter ''Stellar Daisy''. It is believed that the ship sunk off the coast of Uruguay. ](/news/2017/04/1/authorities-cannot-contact-the-south-korean-cargo-freighter-stellar-daisy-it-is-believed-that-the-ship-sunk-off-the-coast-of-uruguay.md) _Context: South Korea_
+8. [The United States deploys parts of its Terminal High Altitude Area Defense in South Korea amidst high tension caused by North Korea's escalation of its missile and nuclear weapons programs. ](/news/2017/04/26/the-united-states-deploys-parts-of-its-terminal-high-altitude-area-defense-in-south-korea-amidst-high-tension-caused-by-north-korea-s-escala.md) _Context: South Korea_
+9. [ United States Vice President Mike Pence visits Alaska, where he meets with Governor Bill Walker and discusses stationing F-35 squadrons in the state. Pence is beginning a 10-day trip to South Korea, Australia, Indonesia and Japan. ](/news/2017/04/15/united-states-vice-president-mike-pence-visits-alaska-where-he-meets-with-governor-bill-walker-and-discusses-stationing-f-35-squadrons-in.md) _Context: South Korea_
+10. [A state of emergency is declared and coastal areas are evacuated in the Coromandel Peninsula as Cyclone Cook sweeps across the North Island of New Zealand. ](/news/2017/04/13/a-state-of-emergency-is-declared-and-coastal-areas-are-evacuated-in-the-coromandel-peninsula-as-cyclone-cook-sweeps-across-the-north-island.md) _Context: New Zealand_

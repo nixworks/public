@@ -7,20 +7,20 @@
 
 ### Source:
 
-1. [US Department of State](http://www.state.gov/r/pa/ei/pix/b/eur/18737.htm)
-2. [Marine Corps Times](http://www.marinecorpstimes.com/news/2008/08/military_georgia_080808w/)
-3. [Kommersant](http://www.kommersant.com/p-13072/r_527/South_Ossetia/)
-4. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article4497878.ece)
-5. [NewsRu](http://newsru.com/russia/10aug2008/genocid_med.html)
-6. [US Embassy in Georgia](http://www.georgia.usembassy.gov/gtep.html)
-7. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=a6z1.HFQFr4E)
-8. [AP via Google News](http://ap.google.com/article/ALeqM5hV2N6fVKS5slf10A13Dj_uIdaZ4QD92F8V580)
-9. [AP via Google News](http://ap.google.com/article/ALeqM5gQYe039zkquHxitiI6u4M_TRr_BAD92F4I300)
-10. [AP via Google News](http://ap.google.com/article/ALeqM5gqI_T1AcjbA1Q67UBE01lvcAdQdQD92FAKR80)
+1. [AFP via Lloyds](http://www.lloyds.com/dj/DowJonesArticle.aspx?id=400216)
+2. [AP via Google News](http://ap.google.com/article/ALeqM5gQYe039zkquHxitiI6u4M_TRr_BAD92F4I300)
+3. [AP via Google News](http://ap.google.com/article/ALeqM5gqI_T1AcjbA1Q67UBE01lvcAdQdQD92FAKR80)
+4. [AP via Google News](http://ap.google.com/article/ALeqM5hV2N6fVKS5slf10A13Dj_uIdaZ4QD92F8V580)
+5. [APA](http://en.apa.az/news.php?id=86495)
+6. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=a6z1.HFQFr4E)
+7. [Kommersant](http://www.kommersant.com/p-13072/r_527/South_Ossetia/)
+8. [Marine Corps Times](http://www.marinecorpstimes.com/news/2008/08/military_georgia_080808w/)
+9. [NewsRu](http://newsru.com/russia/10aug2008/genocid_med.html)
+10. [RussiaToday](http://www.russiatoday.ru/news/news/28765)
 11. [The President of Russia](http://kremlin.ru/eng/text/themes/2008/08/081043_205025.shtml)
-12. [APA](http://en.apa.az/news.php?id=86495)
-13. [AFP via Lloyds](http://www.lloyds.com/dj/DowJonesArticle.aspx?id=400216)
-14. [RussiaToday](http://www.russiatoday.ru/news/news/28765)
+12. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article4497878.ece)
+13. [US Department of State](http://www.state.gov/r/pa/ei/pix/b/eur/18737.htm)
+14. [US Embassy in Georgia](http://www.georgia.usembassy.gov/gtep.html)
 
 ### Related:
 

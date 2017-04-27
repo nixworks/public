@@ -7,11 +7,11 @@ At least 42 dead and 180 injured in pair of suicide attacks in Pakistani city.
 
 ### Source:
 
-1. [The News International](http://www.thenews.com.pk/updates.asp?id=107738)
+1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/07/20107118495127825.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/world/south_asia/10483453.stm)
-3. [Aljazeera](http://english.aljazeera.net/news/asia/2010/07/20107118495127825.html)
-4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-07/02/c_13379840.htm)
-5. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/07/01/pakistan.explosions/index.html?hpt=T2&fbid=-uCkBzksHva)
+3. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/07/01/pakistan.explosions/index.html?hpt=T2&fbid=-uCkBzksHva)
+4. [The News International](http://www.thenews.com.pk/updates.asp?id=107738)
+5. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-07/02/c_13379840.htm)
 
 ### Related:
 

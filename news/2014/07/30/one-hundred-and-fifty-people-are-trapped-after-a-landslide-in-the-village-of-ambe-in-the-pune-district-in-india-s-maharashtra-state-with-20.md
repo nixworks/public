@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Hindu](http://www.thehindu.com/news/national/nearly-150-feared-trapped-in-landslide-in-pune/article6263770.ece)
-2. [IBN Live](http://ibnlive.in.com/news/150-people-trapped-under-debris-in-punes-ambe-village-rescue-work-on/489193-3-237.html)
+1. [IBN Live](http://ibnlive.in.com/news/150-people-trapped-under-debris-in-punes-ambe-village-rescue-work-on/489193-3-237.html)
+2. [The Hindu](http://www.thehindu.com/news/national/nearly-150-feared-trapped-in-landslide-in-pune/article6263770.ece)
 
 ### Related:
 

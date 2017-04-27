@@ -7,9 +7,9 @@ The group of nine North Koreans entered the Danish Embassy in Hanoi seeking poli
 
 ### Source:
 
-1. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1065304&lang=eng_news)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8272482.stm)
 2. [New York Times](http://www.nytimes.com/2009/09/25/world/asia/25korea.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8272482.stm)
+3. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1065304&lang=eng_news)
 
 ### Related:
 

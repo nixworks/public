@@ -7,9 +7,9 @@ Both jailed members of Russian punk protest band Pussy Riot, whose imprisonment 
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/music/2013/dec/23/pussy-riot-maria-alyokhina-released)
-2. [The New York Times](http://www.nytimes.com/2013/12/24/world/europe/member-of-russian-punk-band-freed-under-amnesty-law.html?_r=0)
-3. [BBC](http://www.bbc.co.uk/news/world-europe-25490067)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-25490067)
+2. [The Guardian](http://www.theguardian.com/music/2013/dec/23/pussy-riot-maria-alyokhina-released)
+3. [The New York Times](http://www.nytimes.com/2013/12/24/world/europe/member-of-russian-punk-band-freed-under-amnesty-law.html?_r=0)
 
 ### Related:
 

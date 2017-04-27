@@ -7,8 +7,8 @@ Whereabouts of alleged drug kingpin still unknown as security forces continue hu
 
 ### Source:
 
-1. [Montreal Gazette](http://www.montrealgazette.com/news/Jamaica+police+death+toll/3078392/story.html)
-2. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/05/2010524193557883583.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/05/2010524193557883583.html)
+2. [Montreal Gazette](http://www.montrealgazette.com/news/Jamaica+police+death+toll/3078392/story.html)
 
 ### Related:
 

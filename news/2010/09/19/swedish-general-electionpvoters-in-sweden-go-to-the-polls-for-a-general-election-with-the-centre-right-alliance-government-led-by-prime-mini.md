@@ -9,8 +9,8 @@
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5h0NkGlaOT14FW0hes2NJl1907y3QD9IB53TO0)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-11367622)
-3. [EuroNews](http://www.euronews.net/2010/09/18/centre-right-favourites-to-take-swedish-general-election/)
-4. [CNN](http://edition.cnn.com/2010/WORLD/europe/09/19/sweden.election/?hpt=T1)
+3. [CNN](http://edition.cnn.com/2010/WORLD/europe/09/19/sweden.election/?hpt=T1)
+4. [EuroNews](http://www.euronews.net/2010/09/18/centre-right-favourites-to-take-swedish-general-election/)
 
 ### Related:
 

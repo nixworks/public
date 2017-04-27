@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Swissinfo](http://www.swissinfo.org/sen/swissinfo.html?siteSect=106&sid=5620973)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=aNVDCLdnIrSU&refer=europe)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=aNVDCLdnIrSU&refer=europe)
+2. [Swissinfo](http://www.swissinfo.org/sen/swissinfo.html?siteSect=106&sid=5620973)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/africa/6633529.stm)
-2. [AP via CNN](http://edition.cnn.com/2007/WORLD/africa/05/07/kenya.plane.ap/index.html)
+1. [AP via CNN](http://edition.cnn.com/2007/WORLD/africa/05/07/kenya.plane.ap/index.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/6633529.stm)
 
 ### Related:
 

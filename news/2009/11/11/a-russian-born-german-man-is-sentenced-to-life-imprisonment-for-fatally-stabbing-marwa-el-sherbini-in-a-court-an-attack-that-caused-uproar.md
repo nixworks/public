@@ -7,9 +7,9 @@ The case of an Egyptian woman who had been stabbed to death in front of her husb
 
 ### Source:
 
-1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,4881747,00.html)
-2. [NY Times](http://www.nytimes.com/2009/11/12/world/europe/12germany.html)
-3. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jLVEj9NpxSbA9S_Qg4F4N-S48GCgD9BTCQTO0)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jLVEj9NpxSbA9S_Qg4F4N-S48GCgD9BTCQTO0)
+2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,4881747,00.html)
+3. [NY Times](http://www.nytimes.com/2009/11/12/world/europe/12germany.html)
 
 ### Related:
 

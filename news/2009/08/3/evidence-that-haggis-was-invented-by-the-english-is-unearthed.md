@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [News.com.au](http://www.news.com.au/story/0,23599,25873732-38200,00.html?from=public_rss)
-2. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=29&art_id=nw20090803003456332C455826)
+1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=29&art_id=nw20090803003456332C455826)
+2. [News.com.au](http://www.news.com.au/story/0,23599,25873732-38200,00.html?from=public_rss)
 
 ### Related:
 

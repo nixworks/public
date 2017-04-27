@@ -7,9 +7,9 @@ Parliament passes an austerity plan to slash $40bn off national debt, with 155 M
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/blog/2011/jun/29/greece-austerity-vote-demonstrations)
-2. [The Wall Street Journal](http://www.ft.com/cms/s/0/dc0337d0-a24d-11e0-bb06-00144feabdc0.html#axzz1Qg1FF3Ga)
-3. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/06/2011629131116123332.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/06/2011629131116123332.html)
+2. [The Guardian](http://www.guardian.co.uk/world/blog/2011/jun/29/greece-austerity-vote-demonstrations)
+3. [The Wall Street Journal](http://www.ft.com/cms/s/0/dc0337d0-a24d-11e0-bb06-00144feabdc0.html#axzz1Qg1FF3Ga)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Protesters clashed with the police on Friday night after a white former transit 
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2010/11/06/us/06transit.html?partner=rss&emc=rss)
-2. [CNN](http://www.cnn.com/2010/CRIME/11/06/california.subway.shooting.sentencing/index.html)
+1. [CNN](http://www.cnn.com/2010/CRIME/11/06/california.subway.shooting.sentencing/index.html)
+2. [New York Times](http://www.nytimes.com/2010/11/06/us/06transit.html?partner=rss&emc=rss)
 
 ### Related:
 
@@ -20,5 +20,5 @@ Protesters clashed with the police on Friday night after a white former transit 
 6. [Approximately 300 people are arrested in the US city of Oakland, California during Occupy Oakland protests. ](/news/2012/01/28/approximately-300-people-are-arrested-in-the-us-city-of-oakland-california-during-occupy-oakland-protests.md) _Context: California, Oakland, California_
 7. [Seven people, including a toddler, are shot while recording a music video in Oakland, California. ](/news/2011/11/29/seven-people-including-a-toddler-are-shot-while-recording-a-music-video-in-oakland-california.md) _Context: California, Oakland, California_
 8. [ Four police officers are killed in Oakland, California, United States. ](/news/2009/03/22/four-police-officers-are-killed-in-oakland-california-united-states.md) _Context: California, Oakland, California_
-9. [California courts invalidate the executive order withholding funds from sanctuary cities. ](/news/2017/04/25/california-courts-invalidate-the-executive-order-withholding-funds-from-sanctuary-cities.md) _Context: California_
-10. [An affiliate of the NRA sues California for alleged discrimination. ](/news/2017/04/25/an-affiliate-of-the-nra-sues-california-for-alleged-discrimination.md) _Context: California_
+9. [The United States test launch a Minuteman III missile from California to the Marshall Islands. ](/news/2017/04/26/the-united-states-test-launch-a-minuteman-iii-missile-from-california-to-the-marshall-islands.md) _Context: California_
+10. [A speculative study hypothesizes that a species of ''Homo'' may have lived in California 130,000 years ago. ](/news/2017/04/26/a-speculative-study-hypothesizes-that-a-species-of-homo-may-have-lived-in-california-130-000-years-ago.md) _Context: California_

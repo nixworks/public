@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [M&C News](http://news.monstersandcritics.com/northamerica/article_1051562.php/Senate_approves_avian_flu_vaccine_funding)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4292426.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4292426.stm)
+2. [M&C News](http://news.monstersandcritics.com/northamerica/article_1051562.php/Senate_approves_avian_flu_vaccine_funding)
 
 ### Related:
 

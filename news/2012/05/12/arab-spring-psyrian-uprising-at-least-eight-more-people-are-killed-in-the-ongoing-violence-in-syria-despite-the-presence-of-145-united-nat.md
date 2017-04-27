@@ -7,8 +7,8 @@ Several people reported dead in latest clashes even as number of UN monitors cha
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/05/201251216373162138.html)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/05/20125120655116284.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/05/20125120655116284.html)
+2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/05/201251216373162138.html)
 
 ### Related:
 

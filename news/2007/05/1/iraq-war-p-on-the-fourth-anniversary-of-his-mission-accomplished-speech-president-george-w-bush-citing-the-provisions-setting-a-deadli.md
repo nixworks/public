@@ -7,10 +7,10 @@ The president rejects legislation to pull U.S. troops out of Iraq, calling it &q
 
 ### Source:
 
-1. [Reuters via  News Limited](http://www.news.com.au/story/0,23599,21654706-2,00.html)
-2. [AP via Denver Post](http://origin.denverpost.com/extremes/ci_5793368)
+1. [AP via Denver Post](http://origin.denverpost.com/extremes/ci_5793368)
+2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6613357.stm)
 3. [CNN](http://edition.cnn.com/2007/POLITICS/05/01/congress.iraq/index.html)
-4. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6613357.stm)
+4. [Reuters via  News Limited](http://www.news.com.au/story/0,23599,21654706-2,00.html)
 
 ### Related:
 

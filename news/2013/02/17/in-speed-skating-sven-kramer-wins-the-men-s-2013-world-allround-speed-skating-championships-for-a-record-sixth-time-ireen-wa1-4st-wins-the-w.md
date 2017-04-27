@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [NRC.nl](http://www.nrc.nl/nieuws/2013/02/17/wust-na-1-500-meter-nog-rianter-aan-de-leiding-op-wk/)
+1. [Eurosport](http://uk.eurosport.yahoo.com/news/speed-skating-kramer-wust-double-dutch-delight-165716593.html)
 2. [Le Matin](http://www.lematin.ch/sports/depeches/vitesse--mondiaux2013-allround-sven-kramer-histoire/story/17488140)
-3. [Eurosport](http://uk.eurosport.yahoo.com/news/speed-skating-kramer-wust-double-dutch-delight-165716593.html)
+3. [NRC.nl](http://www.nrc.nl/nieuws/2013/02/17/wust-na-1-500-meter-nog-rianter-aan-de-leiding-op-wk/)
 
 ### Related:
 

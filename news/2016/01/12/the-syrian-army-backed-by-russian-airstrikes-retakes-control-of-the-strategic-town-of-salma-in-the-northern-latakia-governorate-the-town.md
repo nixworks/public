@@ -7,9 +7,9 @@ Syria&#x27;s army and allied forces on Tuesday took full control from rebel grou
 
 ### Source:
 
-1. [Médecins Sans Frontières](http://www.msf.org/article/syria-siege-and-starvation-madaya-immediate-medical-evacuations-and-medical-resupply)
-2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-idUSKCN0UP0VM20160113)
-3. [AFP via Yahoo](http://news.yahoo.com/syrian-army-enters-rebel-bastion-latakia-province-monitor-110734427.html)
+1. [AFP via Yahoo](http://news.yahoo.com/syrian-army-enters-rebel-bastion-latakia-province-monitor-110734427.html)
+2. [Médecins Sans Frontières](http://www.msf.org/article/syria-siege-and-starvation-madaya-immediate-medical-evacuations-and-medical-resupply)
+3. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-idUSKCN0UP0VM20160113)
 
 ### Related:
 

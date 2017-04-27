@@ -7,8 +7,8 @@ More than 100 people are missing and about 230 are rescued after a ferry sinks o
 
 ### Source:
 
-1. [News Limited via the ''Herald-Sun](http://www.heraldsun.com.au/news/world/png-ferry-in-trouble-350-feared-missing/story-e6frf7lf-1226260778012)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-16848536)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-16848536)
+2. [News Limited via the ''Herald-Sun](http://www.heraldsun.com.au/news/world/png-ferry-in-trouble-350-feared-missing/story-e6frf7lf-1226260778012)
 
 ### Related:
 

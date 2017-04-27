@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/01/02/us-greece-politics-idUSKBN0KB0VD20150102)
-2. [Al Jazeera](http://www.aljazeera.com/news/europe/2015/01/greece-george-papandreou-new-party-2015146210586284.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/europe/2015/01/greece-george-papandreou-new-party-2015146210586284.html)
+2. [Reuters](http://www.reuters.com/article/2015/01/02/us-greece-politics-idUSKBN0KB0VD20150102)
 
 ### Related:
 

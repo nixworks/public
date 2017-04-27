@@ -7,9 +7,9 @@ Sky News Australia has the top stories in news online from Australia and the res
 
 ### Source:
 
-1. [Sky News Australia](http://www.skynews.com.au/topstories/article.aspx?id=822340)
-2. [AP](http://hosted2.ap.org/APDefault/*/Article_2012-12-02-Afghanistan/id-795312eb3c984f9398c30789a67090f1)
-3. [BBC](http://www.bbc.co.uk/news/world-asia-20571640)
+1. [AP](http://hosted2.ap.org/APDefault/*/Article_2012-12-02-Afghanistan/id-795312eb3c984f9398c30789a67090f1)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-20571640)
+3. [Sky News Australia](http://www.skynews.com.au/topstories/article.aspx?id=822340)
 
 ### Related:
 

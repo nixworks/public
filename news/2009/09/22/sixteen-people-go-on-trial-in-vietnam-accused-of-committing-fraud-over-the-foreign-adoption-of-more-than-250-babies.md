@@ -8,8 +8,8 @@ Sixteen Vietnamese doctors, nurses and officials sold 266 babies for overseas ad
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8269121.stm)
-2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/vietnam/6218586/Vietnamese-doctors-sold-babies-for-overseas-adoptions.html)
-3. [Miami Herald](http://www.miamiherald.com/news/world/AP/story/1245248.html)
+2. [Miami Herald](http://www.miamiherald.com/news/world/AP/story/1245248.html)
+3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/vietnam/6218586/Vietnamese-doctors-sold-babies-for-overseas-adoptions.html)
 
 ### Related:
 

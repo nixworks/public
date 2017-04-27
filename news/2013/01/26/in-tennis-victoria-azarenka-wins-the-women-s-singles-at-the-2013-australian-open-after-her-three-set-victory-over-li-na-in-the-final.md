@@ -7,8 +7,8 @@ Victoria Azarenka retains her Australian Open title and kept hold of the world n
 
 ### Source:
 
-1. [ESPN](http://espn.go.com/tennis/aus13/story/_/id/8883841/australian-open-victoria-azarenka-defeats-li-na-second-straight-title)
-2. [BBC](http://www.bbc.co.uk/sport/0/tennis/21211185)
+1. [BBC](http://www.bbc.co.uk/sport/0/tennis/21211185)
+2. [ESPN](http://espn.go.com/tennis/aus13/story/_/id/8883841/australian-open-victoria-azarenka-defeats-li-na-second-straight-title)
 
 ### Related:
 

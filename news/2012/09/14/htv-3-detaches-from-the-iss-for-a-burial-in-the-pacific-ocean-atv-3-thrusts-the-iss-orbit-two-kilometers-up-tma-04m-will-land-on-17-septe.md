@@ -8,8 +8,8 @@
 ### Source:
 
 1. [ESA](http://www.esa.int/esaMI/ATV/SEMWX432VBF_0.html)
-2. [RIA](http://en.rian.ru/science/20120914/175948498.html)
-3. [RIA Novosti](http://en.rian.ru/science/20120914/175946121.html)
+2. [RIA Novosti](http://en.rian.ru/science/20120914/175946121.html)
+3. [RIA](http://en.rian.ru/science/20120914/175948498.html)
 
 ### Related:
 

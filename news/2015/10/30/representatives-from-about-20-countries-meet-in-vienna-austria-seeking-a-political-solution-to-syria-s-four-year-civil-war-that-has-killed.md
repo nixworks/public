@@ -7,8 +7,8 @@ Dozens killed as diplomats seek political solution to end four-year civil war.
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/world/2015/10/30/fresh-bloodshed-syria-envoys-seek-peace-vienna/74865354/)
-2. [Payvand.com](http://www.payvand.com/news/15/oct/1160.html)
+1. [Payvand.com](http://www.payvand.com/news/15/oct/1160.html)
+2. [USA Today](http://www.usatoday.com/story/news/world/2015/10/30/fresh-bloodshed-syria-envoys-seek-peace-vienna/74865354/)
 
 ### Related:
 

@@ -7,10 +7,10 @@ Settlers questioned in connection with attack at site where Christians believe J
 
 ### Source:
 
-1. [i24](http://www.i24news.tv/en/news/israel/diplomacy-defense/75285-150618-israel-5th-century-church-set-on-fire-in-suspected-hate-crime)
-2. [Times of Israel](http://www.timesofisrael.com/police-nab-over-a-dozen-suspects-in-church-torching/)
-3. [Haaretz](http://www.haaretz.com/news/israel/.premium-1.661848)
-4. [BBC](http://www.bbc.com/news/world-middle-east-33183150)
+1. [BBC](http://www.bbc.com/news/world-middle-east-33183150)
+2. [Haaretz](http://www.haaretz.com/news/israel/.premium-1.661848)
+3. [Times of Israel](http://www.timesofisrael.com/police-nab-over-a-dozen-suspects-in-church-torching/)
+4. [i24](http://www.i24news.tv/en/news/israel/diplomacy-defense/75285-150618-israel-5th-century-church-set-on-fire-in-suspected-hate-crime)
 
 ### Related:
 

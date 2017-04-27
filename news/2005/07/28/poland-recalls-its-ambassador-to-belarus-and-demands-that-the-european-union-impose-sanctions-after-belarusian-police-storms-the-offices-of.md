@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [IHT](http://www.iht.com/articles/2005/07/28/news/poland.php)
-2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L28516781.htm)
-3. [EUobserver](http://euobserver.com/?sid=9&aid=19657)
+1. [EUobserver](http://euobserver.com/?sid=9&aid=19657)
+2. [IHT](http://www.iht.com/articles/2005/07/28/news/poland.php)
+3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L28516781.htm)
 
 ### Related:
 

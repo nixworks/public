@@ -7,8 +7,8 @@ A tsunami warning issued after a shallow magnitude-7.0 earthquake struck the Van
 
 ### Source:
 
-1. [ABC News](http://www.abc.net.au/news/2016-04-29/vanuatu-7-quake-tsunami-alert-cancelled/7369254)
-2. [9 News Australia](http://www.9news.com.au/world/2016/04/29/05/46/powerful-earthquake-hits-vanuatu)
+1. [9 News Australia](http://www.9news.com.au/world/2016/04/29/05/46/powerful-earthquake-hits-vanuatu)
+2. [ABC News](http://www.abc.net.au/news/2016-04-29/vanuatu-7-quake-tsunami-alert-cancelled/7369254)
 
 ### Related:
 

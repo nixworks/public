@@ -7,8 +7,8 @@ Three countries to hold joint military exercises in April, agree to cooperate on
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-12/24/c_13663635.htm)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/12/201012241303321628.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/12/201012241303321628.html)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-12/24/c_13663635.htm)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Reading have sacked manager Brian McDermott following a dismal run of results th
 
 ### Source:
 
-1. [Sky Sports](http://www1.skysports.com/football/news/11673/8557626/Reading-sack-manager-Brian-McDermott)
-2. [AP via ''USA Today](http://www.usatoday.com/story/sports/soccer/2013/03/11/reading-fires-manager-brian-mcdermott/1979349/)
+1. [AP via ''USA Today](http://www.usatoday.com/story/sports/soccer/2013/03/11/reading-fires-manager-brian-mcdermott/1979349/)
+2. [Sky Sports](http://www1.skysports.com/football/news/11673/8557626/Reading-sack-manager-Brian-McDermott)
 
 ### Related:
 

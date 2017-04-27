@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=173525)
-2. [Sky News](http://news.sky.com/skynews/Home/World-News/Israel-US-President-Barack-Obama-Insists-Ties-Are-Strong-On-62nd-Anniversary-Of-The-State/Article/201004315609813?lpos=World_News_First_Home_Article_Teaser_Region_3&lid=ARTICLE_15609813_Israel%3A_US_President_Barack_Obama_Insists_Ties_Are_Strong_On_62nd_Anniversary_Of_The_State)
+1. [Sky News](http://news.sky.com/skynews/Home/World-News/Israel-US-President-Barack-Obama-Insists-Ties-Are-Strong-On-62nd-Anniversary-Of-The-State/Article/201004315609813?lpos=World_News_First_Home_Article_Teaser_Region_3&lid=ARTICLE_15609813_Israel%3A_US_President_Barack_Obama_Insists_Ties_Are_Strong_On_62nd_Anniversary_Of_The_State)
+2. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=173525)
 
 ### Related:
 

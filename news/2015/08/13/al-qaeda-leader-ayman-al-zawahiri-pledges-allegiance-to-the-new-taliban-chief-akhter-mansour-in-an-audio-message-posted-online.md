@@ -7,8 +7,8 @@ Al-Qaeda leader Ayman al-Zawahiri pledges allegiance to the new Afghan Taliban c
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/08/13/us-afghanistan-taliban-qaeda-idUSKCN0QI1FO20150813)
-2. [BBC](http://www.bbc.com/news/world-asia-33907666)
+1. [BBC](http://www.bbc.com/news/world-asia-33907666)
+2. [Reuters](http://www.reuters.com/article/2015/08/13/us-afghanistan-taliban-qaeda-idUSKCN0QI1FO20150813)
 
 ### Related:
 

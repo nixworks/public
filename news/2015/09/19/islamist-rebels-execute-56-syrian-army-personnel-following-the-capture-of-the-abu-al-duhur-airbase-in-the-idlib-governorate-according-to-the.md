@@ -7,8 +7,8 @@ Islamist insurgents shoot dead 56 members of Syrian government forces in a mass 
 
 ### Source:
 
-1. [The News Hub](https://www.the-newshub.com/international/al-qaeda-captures-key-base-in-syria-and-carries-out-mass-executions-of-prisoners)
-2. [Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/11876573/Militants-execute-56-Syrian-regime-soldiers-at-captured-airbase.html)
+1. [Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/11876573/Militants-execute-56-Syrian-regime-soldiers-at-captured-airbase.html)
+2. [The News Hub](https://www.the-newshub.com/international/al-qaeda-captures-key-base-in-syria-and-carries-out-mass-executions-of-prisoners)
 
 ### Related:
 

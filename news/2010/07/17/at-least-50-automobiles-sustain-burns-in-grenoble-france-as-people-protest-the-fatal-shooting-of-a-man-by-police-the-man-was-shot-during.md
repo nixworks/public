@@ -7,12 +7,12 @@ The French government vows to restore order after rioting in the eastern city of
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/france/7896688/Riots-in-Grenoble-after-police-shooting.html)
-2. [News24.com](http://www.news24.com/World/News/French-minister-vows-crackdown-20100717)
-3. [The Age](http://news.theage.com.au/breaking-news-world/riots-erupt-in-french-city-of-grenoble-20100718-10fig.html)
-4. [Aljazeera](http://english.aljazeera.net/news/europe/2010/07/2010717154841133160.html)
-5. [BBC](http://www.bbc.co.uk/news/world-europe-10674539)
-6. [Reuters](http://uk.reuters.com/article/idUKTRE66G0NC20100717?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FUKWorldNews+%28News+%2F+UK+%2F+World+News%29)
+1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/07/2010717154841133160.html)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-10674539)
+3. [News24.com](http://www.news24.com/World/News/French-minister-vows-crackdown-20100717)
+4. [Reuters](http://uk.reuters.com/article/idUKTRE66G0NC20100717?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FUKWorldNews+%28News+%2F+UK+%2F+World+News%29)
+5. [The Age](http://news.theage.com.au/breaking-news-world/riots-erupt-in-french-city-of-grenoble-20100718-10fig.html)
+6. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/france/7896688/Riots-in-Grenoble-after-police-shooting.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2009/dec/17/nude-mary-joseph-new-zealand)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8417963.stm)
-3. [Japan Today](http://www.japantoday.com/category/world/view/nz-churchs-joseph-and-mary-billboard-stirs-debate)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8417963.stm)
+2. [Japan Today](http://www.japantoday.com/category/world/view/nz-churchs-joseph-and-mary-billboard-stirs-debate)
+3. [The Guardian](http://www.guardian.co.uk/world/2009/dec/17/nude-mary-joseph-new-zealand)
 
 ### Related:
 

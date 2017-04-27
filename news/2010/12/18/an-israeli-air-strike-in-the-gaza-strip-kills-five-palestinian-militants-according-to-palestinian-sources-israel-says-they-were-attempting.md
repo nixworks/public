@@ -7,9 +7,9 @@ An Israeli air strike kills five people in the Gaza Strip, Palestinian and Israe
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=200036)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12029802)
-3. [CNN](http://www.cnn.com/2010/WORLD/meast/12/18/gaza.israel.strike/)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12029802)
+2. [CNN](http://www.cnn.com/2010/WORLD/meast/12/18/gaza.israel.strike/)
+3. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=200036)
 
 ### Related:
 

@@ -7,8 +7,8 @@ KATMANDU, Nepal (AP) — A Nepal Airlines plane with 18 people on board flying i
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/world/2014/02/16/nepal-plane-missing/5534523/)
-2. [New York Times](http://www.nytimes.com/2014/02/17/world/asia/nepal-plane-crash.html?partner=rss&emc=rss)
+1. [New York Times](http://www.nytimes.com/2014/02/17/world/asia/nepal-plane-crash.html?partner=rss&emc=rss)
+2. [USA Today](http://www.usatoday.com/story/news/world/2014/02/16/nepal-plane-missing/5534523/)
 
 ### Related:
 

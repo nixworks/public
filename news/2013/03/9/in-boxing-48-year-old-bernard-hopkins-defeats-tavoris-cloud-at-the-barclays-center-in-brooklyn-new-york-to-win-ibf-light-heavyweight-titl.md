@@ -7,8 +7,8 @@ Bernard Hopkins became the oldest boxer to win a major title on Saturday night, 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/03/10/us-boxing-hopkins-idUSBRE92902H20130310)
-2. [ESPN](http://espn.go.com/boxing/story/_/id/9036402/bernard-hopkins-beats-tavoris-cloud-become-oldest-boxer-win-major-title)
+1. [ESPN](http://espn.go.com/boxing/story/_/id/9036402/bernard-hopkins-beats-tavoris-cloud-become-oldest-boxer-win-major-title)
+2. [Reuters](http://www.reuters.com/article/2013/03/10/us-boxing-hopkins-idUSBRE92902H20130310)
 
 ### Related:
 

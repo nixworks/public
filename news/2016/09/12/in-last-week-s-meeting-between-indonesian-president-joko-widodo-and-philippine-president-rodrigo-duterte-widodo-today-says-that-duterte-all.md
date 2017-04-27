@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Philippine Daily Inquirer](http://globalnation.inquirer.net/144607/duterte-has-given-the-green-light-for-mary-janes-execution-widodo)
-2. [Manila Bulletin](http://www.mb.com.ph/pinol-duterte-asked-for-clemency-on-veloso-case/)
+1. [Manila Bulletin](http://www.mb.com.ph/pinol-duterte-asked-for-clemency-on-veloso-case/)
+2. [Philippine Daily Inquirer](http://globalnation.inquirer.net/144607/duterte-has-given-the-green-light-for-mary-janes-execution-widodo)
 
 ### Related:
 

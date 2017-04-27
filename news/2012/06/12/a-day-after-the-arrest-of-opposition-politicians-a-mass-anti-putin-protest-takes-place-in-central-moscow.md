@@ -7,10 +7,10 @@ Tough new Kremlin measures against protests may have emboldened rather than dete
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-18405306)
-2. [The New York Times](http://www.nytimes.com/2012/06/13/world/europe/anti-putin-demonstrators-gather-in-moscow.html)
-3. [AP via ''Time](http://world.time.com/2012/06/12/thousands-show-up-at-anti-putin-protest-in-moscow/)
-4. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/06/201261293938264131.html)
+1. [AP via ''Time](http://world.time.com/2012/06/12/thousands-show-up-at-anti-putin-protest-in-moscow/)
+2. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/06/201261293938264131.html)
+3. [BBC](http://www.bbc.co.uk/news/world-europe-18405306)
+4. [The New York Times](http://www.nytimes.com/2012/06/13/world/europe/anti-putin-demonstrators-gather-in-moscow.html)
 
 ### Related:
 

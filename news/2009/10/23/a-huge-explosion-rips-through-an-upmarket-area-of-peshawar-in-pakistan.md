@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Yahoo News](http://news.yahoo.com/s/afp/20091023/wl_afp/pakistanunrest)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5g-mOyk8-qbKzUNI6lUsFWv49jogQ)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5g-mOyk8-qbKzUNI6lUsFWv49jogQ)
+2. [Yahoo News](http://news.yahoo.com/s/afp/20091023/wl_afp/pakistanunrest)
 
 ### Related:
 

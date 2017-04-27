@@ -7,12 +7,12 @@ Ten people in the US are held and charged with spying for Russia, but Moscow say
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2010/jun/29/fbi-breaks-up-alleged-russian-spy-ring-deep-cover)
-2. [New York Times](http://www.nytimes.com/2010/06/29/world/europe/29spy.html)
-3. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2010/06/10-russian-agents-in-us-accused-of-spying/1)
-4. [Aljazeera](http://english.aljazeera.net/news/americas/2010/06/2010628211436339938.html)
-5. [BBC](http://news.bbc.co.uk/2/hi/world/us_and_canada/10442223.stm)
-6. [MSNBC](http://firstread.msnbc.msn.com/_news/2010/06/28/4577421-ten-arrested-accused-of-spying-for-russia)
+1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/06/2010628211436339938.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/world/us_and_canada/10442223.stm)
+3. [MSNBC](http://firstread.msnbc.msn.com/_news/2010/06/28/4577421-ten-arrested-accused-of-spying-for-russia)
+4. [New York Times](http://www.nytimes.com/2010/06/29/world/europe/29spy.html)
+5. [The Guardian](http://www.guardian.co.uk/world/2010/jun/29/fbi-breaks-up-alleged-russian-spy-ring-deep-cover)
+6. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2010/06/10-russian-agents-in-us-accused-of-spying/1)
 
 ### Related:
 

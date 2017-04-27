@@ -7,8 +7,8 @@ Sepp Blatter is to resign as president of Fifa amid a corruption scandal and is 
 
 ### Source:
 
-1. [RTÉ News](http://www.rte.ie/sport/soccer/2015/0602/705421-sepp-blatter/)
-2. [BBC](http://www.bbc.com/sport/0/football/32982449)
+1. [BBC](http://www.bbc.com/sport/0/football/32982449)
+2. [RTÉ News](http://www.rte.ie/sport/soccer/2015/0602/705421-sepp-blatter/)
 
 ### Related:
 

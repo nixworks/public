@@ -7,8 +7,8 @@ Rebels shot down a Syrian government warplane over western Syria on Saturday, re
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/world/2016/mar/12/syrian-government-calls-bashar-al-assad-a-red-line-in-peace-talks)
-2. [Reuters via Yahoo! News](http://news.yahoo.com/syria-rebels-shot-down-warplane-170059577.html)
+1. [Reuters via Yahoo! News](http://news.yahoo.com/syria-rebels-shot-down-warplane-170059577.html)
+2. [The Guardian](http://www.theguardian.com/world/2016/mar/12/syrian-government-calls-bashar-al-assad-a-red-line-in-peace-talks)
 
 ### Related:
 

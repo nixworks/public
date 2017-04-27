@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1251804504656&pagename=JPost%2FJPArticle%2FShowFull)
-2. [CNN](http://edition.cnn.com/2009/WORLD/meast/09/07/israel.settlements.barak.construction/)
+1. [CNN](http://edition.cnn.com/2009/WORLD/meast/09/07/israel.settlements.barak.construction/)
+2. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1251804504656&pagename=JPost%2FJPArticle%2FShowFull)
 
 ### Related:
 

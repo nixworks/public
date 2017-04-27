@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [NYT via Seattle Times](http://seattletimes.nwsource.com/html/nationworld/2002677060_wiki11.html)
+1. [BBC](http://news.bbc.co.uk/1/hi/technology/4520678.stm)
 2. [CNN](http://edition.cnn.com/2005/US/12/11/wikipedia.ap/index.html)
-3. [BBC](http://news.bbc.co.uk/1/hi/technology/4520678.stm)
+3. [NYT via Seattle Times](http://seattletimes.nwsource.com/html/nationworld/2002677060_wiki11.html)
 
 ### Related:
 

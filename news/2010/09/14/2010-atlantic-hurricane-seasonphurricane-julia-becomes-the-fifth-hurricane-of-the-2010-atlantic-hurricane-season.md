@@ -7,8 +7,8 @@ Tropical Storm Julia grew tohurricane strength over the far eastern Atlantic Oce
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSN1423075120100914)
-2. [CNN](http://edition.cnn.com/2010/WORLD/americas/09/14/tropical.weather/index.html?hpt=T2)
+1. [CNN](http://edition.cnn.com/2010/WORLD/americas/09/14/tropical.weather/index.html?hpt=T2)
+2. [Reuters](http://www.reuters.com/article/idUSN1423075120100914)
 
 ### Related:
 

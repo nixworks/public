@@ -7,9 +7,9 @@ Researchers at MIT have discovered a new state of matter with a new kind of magn
 
 ### Source:
 
-1. [The Register](http://www.theregister.co.uk/2012/12/21/quantum_spin_liquid_mit_research/)
+1. [Extreme Tech](http://www.extremetech.com/extreme/143782-mit-discovers-a-new-state-of-matter-a-new-kind-of-magnetism)
 2. [Red Orbit](http://www.redorbit.com/news/science/1112752884/magnetism-mit-quantum-spin-liquid-herbertsmithite-122112/)
-3. [Extreme Tech](http://www.extremetech.com/extreme/143782-mit-discovers-a-new-state-of-matter-a-new-kind-of-magnetism)
+3. [The Register](http://www.theregister.co.uk/2012/12/21/quantum_spin_liquid_mit_research/)
 
 ### Related:
 

@@ -8,8 +8,8 @@ Images broadcast by Milenio showed smoke rising from the scorched ground and fir
 ### Source:
 
 1. [AP and NBC News](http://www.nbcnews.com/news/world/60-hurt-explosion-rips-fireworks-market-outside-mexico-city-n698476?cid=eml_nbn_20161220)
-2. [CNN](http://edition.cnn.com/2016/12/20/americas/mexico-fireworks-explosion/index.html)
-3. [CBS Local](http://newyork.cbslocal.com/2016/12/20/12-killed-after-explosion-rips-through-mexico-fireworks-market/)
+2. [CBS Local](http://newyork.cbslocal.com/2016/12/20/12-killed-after-explosion-rips-through-mexico-fireworks-market/)
+3. [CNN](http://edition.cnn.com/2016/12/20/americas/mexico-fireworks-explosion/index.html)
 
 ### Related:
 

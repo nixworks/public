@@ -7,9 +7,9 @@ Cairo (AP) -- The Saudi-led military coalition declared a 48-hour ceasefire in Y
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-yemen-security-idUSKBN13E088?il=0)
-2. [Bloomberg](http://www.bloomberg.com/news/articles/2016-11-19/saudi-led-coalition-declares-48-hour-ceasefire-in-yemen)
-3. [Reuters, AFP via Breaking News](http://www.breakingnews.com/item/2016/11/19/saudi-led-coalition-will-start-48-hour-ceasefire/)
+1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-11-19/saudi-led-coalition-declares-48-hour-ceasefire-in-yemen)
+2. [Reuters, AFP via Breaking News](http://www.breakingnews.com/item/2016/11/19/saudi-led-coalition-will-start-48-hour-ceasefire/)
+3. [Reuters](http://www.reuters.com/article/us-yemen-security-idUSKBN13E088?il=0)
 
 ### Related:
 

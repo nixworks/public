@@ -7,9 +7,9 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7337004)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4177135.stm)
 2. [CNN](http://www.cnn.com/2005/WORLD/asiapcf/01/15/china.zhao/index.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4177135.stm)
+3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7337004)
 
 ### Related:
 

@@ -7,10 +7,10 @@ Philippine Islands President Gloria Arroyo has declared a &quot;state of calamit
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/10/02/philippines.typhoon/)
-2. [The Chosun Ilbo](http://english.chosun.com/site/data/html_dir/2009/10/03/2009100300031.html)
-3. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5i6eatUwlDQQIHZiKqXjLHTmQSrogD9B34K500)
-4. [Philippine Inquirer](http://newsinfo.inquirer.net/inquirerheadlines/nation/view/20091003-228061/RP-in-state-of-calamity)
+1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5i6eatUwlDQQIHZiKqXjLHTmQSrogD9B34K500)
+2. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/10/02/philippines.typhoon/)
+3. [Philippine Inquirer](http://newsinfo.inquirer.net/inquirerheadlines/nation/view/20091003-228061/RP-in-state-of-calamity)
+4. [The Chosun Ilbo](http://english.chosun.com/site/data/html_dir/2009/10/03/2009100300031.html)
 
 ### Related:
 

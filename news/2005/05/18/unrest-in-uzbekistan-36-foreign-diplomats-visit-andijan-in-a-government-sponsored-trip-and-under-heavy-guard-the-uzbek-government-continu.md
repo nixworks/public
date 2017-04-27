@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Forbes](http://www.forbes.com/business/feeds/afx/2005/05/18/afx2036917.html)
-2. [Mosnews](http://www.mosnews.com/news/2005/05/18/karimovdenies.shtml)
-3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4558759.stm)
-4. [IHT](http://www.iht.com/articles/2005/05/18/news/uzbek.php)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4558759.stm)
+2. [Forbes](http://www.forbes.com/business/feeds/afx/2005/05/18/afx2036917.html)
+3. [IHT](http://www.iht.com/articles/2005/05/18/news/uzbek.php)
+4. [Mosnews](http://www.mosnews.com/news/2005/05/18/karimovdenies.shtml)
 
 ### Related:
 

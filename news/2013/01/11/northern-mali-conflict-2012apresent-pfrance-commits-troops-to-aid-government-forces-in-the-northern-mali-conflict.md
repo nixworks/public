@@ -7,10 +7,10 @@ France answered an urgent plea from the government of its former colony to help 
 
 ### Source:
 
-1. [The Washington Post](http://www.washingtonpost.com/world/africa/frances-hollande-sends-troops-to-mali/2013/01/11/21be77ae-5c0f-11e2-9fa9-5fbdc9530eb9_story.html)
+1. [Reuters](http://www.reuters.com/article/2013/01/11/us-mali-rebels-idUSBRE90912Q20130111)
 2. [The Guardian](http://www.guardian.co.uk/world/2013/jan/11/france-intervene-mali-conflict)
-3. [Reuters](http://www.reuters.com/article/2013/01/11/us-mali-rebels-idUSBRE90912Q20130111)
-4. [The New York Times](http://www.nytimes.com/2013/01/12/world/africa/mali-islamist-rebels-france.html)
+3. [The New York Times](http://www.nytimes.com/2013/01/12/world/africa/mali-islamist-rebels-france.html)
+4. [The Washington Post](http://www.washingtonpost.com/world/africa/frances-hollande-sends-troops-to-mali/2013/01/11/21be77ae-5c0f-11e2-9fa9-5fbdc9530eb9_story.html)
 
 ### Related:
 

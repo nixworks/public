@@ -7,10 +7,10 @@ The Obama administration intends to use some of the billions of dollars in froze
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=219331)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/05/20115504324476248.html)
 2. [Reuters Alertnet](http://www.trust.org/alertnet/news/libyan-mortar-rounds-land-near-tunisia-border-town)
-3. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/05/20115504324476248.html)
-4. [The Australian](http://www.theaustralian.com.au/news/breaking-news/us-to-tap-gaddafi-billions-to-aid-rebels/story-fn3dxity-1226050770901)
+3. [The Australian](http://www.theaustralian.com.au/news/breaking-news/us-to-tap-gaddafi-billions-to-aid-rebels/story-fn3dxity-1226050770901)
+4. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=219331)
 5. [Washington Post](http://www.washingtonpost.com/national/rome-meeting-on-libya-to-discuss-how-to-improve-rebels-finances/2011/05/04/AF5njTsF_story.html?wpisrc=al_national)
 
 ### Related:

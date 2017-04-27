@@ -7,8 +7,8 @@ Syrian government forces shelled the city of Homs, resident opposition activists
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2012/04/15/world/meast/syria-unrest/index.html?hpt=imi_c2)
-2. [Buenos Aires Herald](http://www.buenosairesherald.com/article/98256/clashes-in-syria-as-un-ceasefire-monitors-due-)
+1. [Buenos Aires Herald](http://www.buenosairesherald.com/article/98256/clashes-in-syria-as-un-ceasefire-monitors-due-)
+2. [CNN](http://www.cnn.com/2012/04/15/world/meast/syria-unrest/index.html?hpt=imi_c2)
 
 ### Related:
 

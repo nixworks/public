@@ -7,8 +7,8 @@ Manila prepares for the worst as fourth storm in last two months makes landfall.
 
 ### Source:
 
-1. [Philippine Inquirier](http://newsinfo.inquirer.net/inquirerheadlines/nation/view/20091031-233199/Santi-quick-but-intense)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/10/20091030175956683522.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/10/20091030175956683522.html)
+2. [Philippine Inquirier](http://newsinfo.inquirer.net/inquirerheadlines/nation/view/20091031-233199/Santi-quick-but-intense)
 
 ### Related:
 

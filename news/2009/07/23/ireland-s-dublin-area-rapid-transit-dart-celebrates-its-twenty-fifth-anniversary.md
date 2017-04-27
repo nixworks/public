@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/opinion/2009/0724/1224251232656.html)
-2. [Irish Independent](http://www.independent.ie/national-news/symbol-of-dublin-proving-its-critics-wrong-25-years-on-1838249.html)
+1. [Irish Independent](http://www.independent.ie/national-news/symbol-of-dublin-proving-its-critics-wrong-25-years-on-1838249.html)
+2. [The Irish Times](http://www.irishtimes.com/newspaper/opinion/2009/0724/1224251232656.html)
 
 ### Related:
 

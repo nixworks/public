@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_650626.html)
-2. [Bangkok Post](http://www.bangkokpost.com/news/asia/229205/china-charges-two-amid-jasmine-crackdown)
+1. [Bangkok Post](http://www.bangkokpost.com/news/asia/229205/china-charges-two-amid-jasmine-crackdown)
+2. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_650626.html)
 3. [Times Online Sri Lanka](http://www.sundaytimes.lk/index.php/world-news/5968-china-charges-two-amid-jasmine-crackdown)
 
 ### Related:

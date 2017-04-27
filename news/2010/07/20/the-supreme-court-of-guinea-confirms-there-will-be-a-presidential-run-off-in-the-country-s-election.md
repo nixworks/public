@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-07/19/c_13405053.htm)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-10707406)
-3. [Miami Herald](http://www.miamiherald.com/2010/07/20/1739231/court-guinea-presidential-vote.html)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-10707406)
+2. [Miami Herald](http://www.miamiherald.com/2010/07/20/1739231/court-guinea-presidential-vote.html)
+3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-07/19/c_13405053.htm)
 
 ### Related:
 

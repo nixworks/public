@@ -8,9 +8,9 @@ Bangladesh&#39;s finance minister has downplayed the impact of last week&#39;s f
 ### Source:
 
 1. [AFP via News24](http://www.news24.com/news24/World/News/Generators-blamed-for-building-collapse-20130503)
-2. [CNN](http://edition.cnn.com/2013/05/03/world/asia/bangladesh-building-collapse/index.html?hpt=ias_c1)
-3. [AP via News24](http://www.news24.com/news24/World/News/Minister-says-collapse-not-serious-20130503-2)
-4. [BBC](http://www.bbc.co.uk/news/world-asia-22404461)
+2. [AP via News24](http://www.news24.com/news24/World/News/Minister-says-collapse-not-serious-20130503-2)
+3. [BBC](http://www.bbc.co.uk/news/world-asia-22404461)
+4. [CNN](http://edition.cnn.com/2013/05/03/world/asia/bangladesh-building-collapse/index.html?hpt=ias_c1)
 
 ### Related:
 

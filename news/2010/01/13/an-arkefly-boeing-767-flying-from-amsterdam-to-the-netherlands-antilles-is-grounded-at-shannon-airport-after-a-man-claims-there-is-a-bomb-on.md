@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Radio Netherlands Worldwide](http://www.rnw.nl/english/article/bomb-alert-halts-amsterdam-caribbean-flight)
-2. [RTÉ](http://www.rte.ie/news/2010/0113/shannon.html)
+1. [RTÉ](http://www.rte.ie/news/2010/0113/shannon.html)
+2. [Radio Netherlands Worldwide](http://www.rnw.nl/english/article/bomb-alert-halts-amsterdam-caribbean-flight)
 3. [The Australian](http://www.theaustralian.com.au/news/breaking-news/plane-diverted-to-ireland-after-dutch-man-cries-bomb-reports/story-fn3dxity-1225819023759)
 
 ### Related:

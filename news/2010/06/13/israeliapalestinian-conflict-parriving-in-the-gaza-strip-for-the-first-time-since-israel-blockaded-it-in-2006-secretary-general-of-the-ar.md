@@ -7,15 +7,15 @@ Defense Ministry reports that Barak will remain in Israel until team of experts 
 
 ### Source:
 
-1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3904272,00.html)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gAgYu3awPKnUoQkw8TkRThHzo6GAD9GA9RNO0)
 2. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/201061321535573808.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10305902.stm)
-4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/13/c_13348760.htm)
-5. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gAgYu3awPKnUoQkw8TkRThHzo6GAD9GA9RNO0)
-6. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/201061372414655594.html)
+3. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/201061372414655594.html)
+4. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10305902.stm)
+5. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=178276)
+6. [The News International](http://www.thenews.com.pk/updates.asp?id=106587)
 7. [Voice of America](http://www1.voanews.com/english/news/human-rights/Arab-League-Chief-Makes-First-Visit-to-Gaza-96242154.html)
-8. [The News International](http://www.thenews.com.pk/updates.asp?id=106587)
-9. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=178276)
+8. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/13/c_13348760.htm)
+9. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3904272,00.html)
 10. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3904449,00.html)
 
 ### Related:

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2005/WORLD/americas/12/26/canada.shooting.ap/index.html)
-2. [CBC](http://www.cbc.ca/ottawa/story/ot-shooting20051228.html)
+1. [CBC](http://www.cbc.ca/ottawa/story/ot-shooting20051228.html)
+2. [CNN](http://www.cnn.com/2005/WORLD/americas/12/26/canada.shooting.ap/index.html)
 
 ### Related:
 

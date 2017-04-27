@@ -7,9 +7,9 @@ New Zealand has suffered its first combat fatality in Afghanistan since its smal
 
 ### Source:
 
-1. [The New Zealand Herald](http://www.nzherald.co.nz/politics/news/article.cfm?c_id=280&objectid=10663712&ref=rss)
-2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/08/03/AR2010080306966.html)
-3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10863400)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10863400)
+2. [The New Zealand Herald](http://www.nzherald.co.nz/politics/news/article.cfm?c_id=280&objectid=10663712&ref=rss)
+3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/08/03/AR2010080306966.html)
 
 ### Related:
 

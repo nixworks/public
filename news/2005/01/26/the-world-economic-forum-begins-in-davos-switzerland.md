@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Forbes](http://www.forbes.com/business/feeds/ap/2005/01/25/ap1780523.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/business/4206769.stm)
 2. [CNN](http://www.cnn.com/2005/WORLD/europe/01/25/davos.advancer.ap/)
-3. [BBC](http://news.bbc.co.uk/2/hi/business/4206769.stm)
+3. [Forbes](http://www.forbes.com/business/feeds/ap/2005/01/25/ap1780523.html)
 4. [SwissInfo](http://www.swissinfo.org/sen/swissinfo.html?siteSect=106&sid=5492954)
 
 ### Related:

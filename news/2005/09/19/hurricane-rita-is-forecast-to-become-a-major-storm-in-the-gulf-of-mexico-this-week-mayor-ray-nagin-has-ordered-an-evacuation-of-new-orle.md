@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20050919_nagin_neworleans_050918/?hub=CTVNewsAt11)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/4262442.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4262442.stm)
+2. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20050919_nagin_neworleans_050918/?hub=CTVNewsAt11)
 3. [KHON.com](http://khon.com/khon/display.cfm?storyID=7329)
 
 ### Related:

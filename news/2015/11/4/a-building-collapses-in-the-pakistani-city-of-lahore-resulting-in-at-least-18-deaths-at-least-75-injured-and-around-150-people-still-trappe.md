@@ -7,9 +7,9 @@ At&#x20;least&#x20;18&#x20;people&#x20;were&#x20;killed&#x20;and&#x20;up&#x20;to
 
 ### Source:
 
-1. [BBC Online](http://www.bbc.com/news/world-asia-34729589)
-2. [AFP via France24](http://www.france24.com/en/20151104-pakistan-deadly-factory-collapse-near-lahore?ns_campaign=reseaux_sociaux&ns_source=twitter&ns_mchannel=social&ns_linkname=editorial&aef_campaign_ref=partage_aef&aef_campaign_date=2015-11-04&dlvrit=66745)
-3. [Al Jazeera English](http://www.aljazeera.com/news/2015/11/dead-factory-collapses-pakistan-lahore-151104145754335.html)
+1. [AFP via France24](http://www.france24.com/en/20151104-pakistan-deadly-factory-collapse-near-lahore?ns_campaign=reseaux_sociaux&ns_source=twitter&ns_mchannel=social&ns_linkname=editorial&aef_campaign_ref=partage_aef&aef_campaign_date=2015-11-04&dlvrit=66745)
+2. [Al Jazeera English](http://www.aljazeera.com/news/2015/11/dead-factory-collapses-pakistan-lahore-151104145754335.html)
+3. [BBC Online](http://www.bbc.com/news/world-asia-34729589)
 
 ### Related:
 

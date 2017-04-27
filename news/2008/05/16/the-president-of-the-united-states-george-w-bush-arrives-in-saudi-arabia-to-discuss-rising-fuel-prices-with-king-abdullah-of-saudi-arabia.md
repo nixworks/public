@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601103&sid=afAsd.eNt1DQ&refer=us)
-2. [AP via Google News](http://ap.google.com/article/ALeqM5hkf--m78S6F3LZAcz4sVHGGCQSTgD90MKBIO0)
+1. [AP via Google News](http://ap.google.com/article/ALeqM5hkf--m78S6F3LZAcz4sVHGGCQSTgD90MKBIO0)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601103&sid=afAsd.eNt1DQ&refer=us)
 
 ### Related:
 

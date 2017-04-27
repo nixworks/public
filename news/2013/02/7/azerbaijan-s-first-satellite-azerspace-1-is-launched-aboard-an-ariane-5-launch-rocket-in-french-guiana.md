@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Trend.az](http://en.trend.az/news/politics/2117231.html)
-2. [RFERL](http://www.rferl.org/content/azerbaijan-satellite-launch--telecommunications/24895830.html)
+1. [RFERL](http://www.rferl.org/content/azerbaijan-satellite-launch--telecommunications/24895830.html)
+2. [Trend.az](http://en.trend.az/news/politics/2117231.html)
 
 ### Related:
 

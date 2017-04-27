@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/03/2011319174733727477.html)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5imPTFixkG47Y44ZniAQVv4wC6UGw?docId=CNG.301dc17b5d60dc6790da1726987ffe7d.c71)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5imPTFixkG47Y44ZniAQVv4wC6UGw?docId=CNG.301dc17b5d60dc6790da1726987ffe7d.c71)
+2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/03/2011319174733727477.html)
 3. [Reuters](http://www.reuters.com/article/2011/03/19/yemen-idUSLDE72I09820110319)
 
 ### Related:

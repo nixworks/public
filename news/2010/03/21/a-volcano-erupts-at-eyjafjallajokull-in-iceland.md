@@ -7,10 +7,10 @@ A volcano in the area of the Eyjafallajoekull glacier in Iceland erupted and for
 
 ### Source:
 
-1. [Herald Sun](http://www.heraldsun.com.au/news/breaking-news/hundreds-evacuated-after-volcano-erupts/story-e6frf7jx-1225843382083)
-2. [RUV, Iceland](http://www.ruv.is/frett/information-eruption-english)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8578576.stm)
+2. [Herald Sun](http://www.heraldsun.com.au/news/breaking-news/hundreds-evacuated-after-volcano-erupts/story-e6frf7jx-1225843382083)
 3. [RTÉ](http://www.rte.ie/news/2010/0321/iceland.html)
-4. [BBC](http://news.bbc.co.uk/2/hi/europe/8578576.stm)
+4. [RUV, Iceland](http://www.ruv.is/frett/information-eruption-english)
 
 ### Related:
 

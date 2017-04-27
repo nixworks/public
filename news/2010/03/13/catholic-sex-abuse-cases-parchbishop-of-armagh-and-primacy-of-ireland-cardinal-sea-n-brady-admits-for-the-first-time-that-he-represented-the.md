@@ -8,8 +8,8 @@ Cardinal Sean Brady represented the Church at meetings when two victims of Fr Br
 ### Source:
 
 1. [RTÉ](http://www.rte.ie/news/2010/0313/abuse1.html)
-2. [Wall Street Journal](http://online.wsj.com/article/SB10001424052748703447104575118071623303944.html?mod=WSJ_hpp_sections_world)
-3. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10631809)
+2. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10631809)
+3. [Wall Street Journal](http://online.wsj.com/article/SB10001424052748703447104575118071623303944.html?mod=WSJ_hpp_sections_world)
 
 ### Related:
 

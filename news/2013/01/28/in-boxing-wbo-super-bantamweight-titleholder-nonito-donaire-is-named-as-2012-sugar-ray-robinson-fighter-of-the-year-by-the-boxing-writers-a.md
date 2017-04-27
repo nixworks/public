@@ -7,8 +7,8 @@ Junior featherweight titleholder Nonito Donaire, who had a dominant 2012 campaig
 
 ### Source:
 
-1. [GMA News](http://www.gmanetwork.com/news/story/292348/sports/boxing/bwaa-fighter-of-the-year-award-tops-of-donaire-s-2012-accomplishments)
-2. [ESPN](http://espn.go.com/boxing/story/_/id/8889100/nonito-donaire-captures-bwaa-fighter-year-honors)
+1. [ESPN](http://espn.go.com/boxing/story/_/id/8889100/nonito-donaire-captures-bwaa-fighter-year-honors)
+2. [GMA News](http://www.gmanetwork.com/news/story/292348/sports/boxing/bwaa-fighter-of-the-year-award-tops-of-donaire-s-2012-accomplishments)
 
 ### Related:
 

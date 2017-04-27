@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/01/13/japan.cabinet/index.html?eref=edition)
-2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20110114/ap_on_bi_ge/as_japan_politics)
+1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20110114/ap_on_bi_ge/as_japan_politics)
+2. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/01/13/japan.cabinet/index.html?eref=edition)
 
 ### Related:
 

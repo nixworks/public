@@ -7,9 +7,9 @@ Traces of cocaine were the likely trigger that led to the death of Irish broadca
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2010/1210/ryang.html)
-2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1210/breaking32.html?via=mr)
-3. [BBC](http://www.bbc.co.uk/news/world-europe-11969126)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-11969126)
+2. [RTÉ](http://www.rte.ie/news/2010/1210/ryang.html)
+3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1210/breaking32.html?via=mr)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The repeal will go nowhere in the Senate; sets up talking points for election se
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/news/washington/story/2012-07-11/house-repeal-health-care-law/56152618/1)
-2. [CBS News](http://www.cbsnews.com/8301-503544_162-57470521-503544/house-passes-health-care-repeal-again/)
+1. [CBS News](http://www.cbsnews.com/8301-503544_162-57470521-503544/house-passes-health-care-repeal-again/)
+2. [USA Today](http://www.usatoday.com/news/washington/story/2012-07-11/house-repeal-health-care-law/56152618/1)
 
 ### Related:
 

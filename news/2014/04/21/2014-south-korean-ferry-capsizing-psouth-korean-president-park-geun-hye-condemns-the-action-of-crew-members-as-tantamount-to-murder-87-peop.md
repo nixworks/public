@@ -7,8 +7,8 @@ JINDO, South Korea -- South Korean President Park Geun-hye on Monday likened the
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2014/04/21/us-korea-ship-idUSBREA3F01Y20140421)
-2. [KDVR](http://kdvr.com/2014/04/21/four-more-south-korea-ferry-crew-members-arrested-death-toll-at-64-238-missing/)
+1. [KDVR](http://kdvr.com/2014/04/21/four-more-south-korea-ferry-crew-members-arrested-death-toll-at-64-238-missing/)
+2. [Reuters](http://www.reuters.com/article/2014/04/21/us-korea-ship-idUSBREA3F01Y20140421)
 
 ### Related:
 

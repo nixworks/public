@@ -8,10 +8,10 @@
 ### Source:
 
 1. [Business Wire](http://www.businesswire.com/portal/site/google/index.jsp?ndmViewId=news_view&newsId=20080110006236&newsLang=en)
-2. [CNN](http://edition.cnn.com/2008/POLITICS/01/10/kerry.obama/index.html?iref=mpstoryview)
-3. [The Hill](http://thehill.com/campaign-2008/kucinich-wants-new-hampshire-recount-2008-01-10.html)
-4. [CNN](http://edition.cnn.com/2008/POLITICS/01/09/richardson.out/index.html)
-5. [FOX News](http://youdecide08.foxnews.com/2008/01/10/gop-candidates-debate-in-strategic-state-of-south-carolina/)
+2. [CNN](http://edition.cnn.com/2008/POLITICS/01/09/richardson.out/index.html)
+3. [CNN](http://edition.cnn.com/2008/POLITICS/01/10/kerry.obama/index.html?iref=mpstoryview)
+4. [FOX News](http://youdecide08.foxnews.com/2008/01/10/gop-candidates-debate-in-strategic-state-of-south-carolina/)
+5. [The Hill](http://thehill.com/campaign-2008/kucinich-wants-new-hampshire-recount-2008-01-10.html)
 
 ### Related:
 

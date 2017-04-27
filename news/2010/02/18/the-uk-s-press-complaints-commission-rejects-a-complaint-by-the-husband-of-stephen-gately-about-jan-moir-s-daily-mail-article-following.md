@@ -7,8 +7,8 @@ A complaint that a newspaper article about the death of Stephen Gately was inacc
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2010/0218/gatelys.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8521105.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8521105.stm)
+2. [RTÉ](http://www.rte.ie/news/2010/0218/gatelys.html)
 
 ### Related:
 

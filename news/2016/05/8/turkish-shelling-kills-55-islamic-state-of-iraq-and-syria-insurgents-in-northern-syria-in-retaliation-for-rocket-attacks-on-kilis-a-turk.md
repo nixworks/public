@@ -7,9 +7,9 @@ Turkish shelling killed 55 Islamic State insurgents in northern Syria on Saturda
 
 ### Source:
 
-1. [The Telegraph (UK](http://www.telegraph.co.uk/news/2016/05/07/three-spanish-journalists-released-in-syria-by-al-qaeda-group-af/)
-2. [Daily Progress](http://www.dailyprogress.com/news/world/wire/report-turkey-attacks-is-in-syria-militants-killed/article_4b13cd44-6a6b-5be8-91ba-5d4b5cf3af2b.html)
-3. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-turkey-idUSKCN0XZ05R)
+1. [Daily Progress](http://www.dailyprogress.com/news/world/wire/report-turkey-attacks-is-in-syria-militants-killed/article_4b13cd44-6a6b-5be8-91ba-5d4b5cf3af2b.html)
+2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-turkey-idUSKCN0XZ05R)
+3. [The Telegraph (UK](http://www.telegraph.co.uk/news/2016/05/07/three-spanish-journalists-released-in-syria-by-al-qaeda-group-af/)
 
 ### Related:
 

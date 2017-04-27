@@ -7,8 +7,8 @@ British writer Jon McGregor has won the &euro;100,000 ($131,000 Cdn) 2012 Intern
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/books/2012/jun/13/jon-mcgregor-wins-impac-literary-award)
-2. [CBC News](http://www.cbc.ca/news/arts/story/2012/06/13/impac-dublin-award.html)
+1. [CBC News](http://www.cbc.ca/news/arts/story/2012/06/13/impac-dublin-award.html)
+2. [The Guardian](http://www.guardian.co.uk/books/2012/jun/13/jon-mcgregor-wins-impac-literary-award)
 
 ### Related:
 

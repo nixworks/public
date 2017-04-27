@@ -7,8 +7,8 @@ Briton Peter Higgs and Belgian François Englert have won the 2013 Nobel Prize i
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/science/2013/oct/08/nobel-prize-in-physics-live-blog)
-2. [CNN](http://www.cnn.com/2013/10/08/world/europe/sweden-nobel-prize-physics/index.html)
+1. [CNN](http://www.cnn.com/2013/10/08/world/europe/sweden-nobel-prize-physics/index.html)
+2. [The Guardian](http://www.theguardian.com/science/2013/oct/08/nobel-prize-in-physics-live-blog)
 
 ### Related:
 

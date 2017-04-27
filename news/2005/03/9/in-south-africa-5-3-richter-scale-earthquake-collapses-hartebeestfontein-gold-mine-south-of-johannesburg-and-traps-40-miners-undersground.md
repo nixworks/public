@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-03-10T014942Z_01_DEN958510_RTRUKOC_0_QUAKE-SAFRICA-TRAPPED.xml)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4333307.stm)
 2. [IOL](http://www.iol.co.za/index.php?set_id=14&click_id=14&art_id=vn20050310065519208C414430)
-3. [BBC](http://news.bbc.co.uk/2/hi/africa/4333307.stm)
+3. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-03-10T014942Z_01_DEN958510_RTRUKOC_0_QUAKE-SAFRICA-TRAPPED.xml)
 
 ### Related:
 

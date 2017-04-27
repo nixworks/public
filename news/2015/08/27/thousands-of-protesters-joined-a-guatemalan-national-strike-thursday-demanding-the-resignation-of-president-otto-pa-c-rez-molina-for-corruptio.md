@@ -7,8 +7,8 @@ An estimated 70,000 protesters filled a central plaza in Guatemala City on Thurs
 
 ### Source:
 
-1. [The Bayou Buzz](http://www.bayoubuzz.com/politics/us-politics/item/979815-guatemalan-supreme-court-approves-motion-to-impeach-president)
-2. [Bloomberg](http://www.bloomberg.com/news/articles/2015-08-27/guatemala-protesters-call-national-strike-to-force-president-out)
+1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-08-27/guatemala-protesters-call-national-strike-to-force-president-out)
+2. [The Bayou Buzz](http://www.bayoubuzz.com/politics/us-politics/item/979815-guatemalan-supreme-court-approves-motion-to-impeach-president)
 3. [The Weather Space](http://theweatherspace.com/2015/08/28/123039-several-more-guatemalan-ministers-resign-amid-scandal/)
 
 ### Related:

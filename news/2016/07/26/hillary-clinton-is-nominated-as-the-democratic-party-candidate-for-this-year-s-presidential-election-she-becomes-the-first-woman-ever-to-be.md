@@ -7,14 +7,14 @@ Follow live updates from the second night of the DNC with Bill Clinton speaking 
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/politics/2016-election/hillary-clinton-becomes-first-female-nominee-major-u-s-political-n617406)
-2. [The Sacramento Bee](http://www.sacbee.com/news/politics-government/national-politics/article91664227.html)
-3. [Time](http://time.com/4422472/dnc-hillary-clinton-livestream/)
-4. [CNN](http://www.cnn.com/2016/07/26/politics/democratic-convention-roll-call-day-two/index.html)
-5. [The Guardian](https://www.theguardian.com/us-news/live/2016/jul/26/democratic-convention-day-two-clinton-nominee-sanders)
-6. [NPR](http://www.npr.org/2016/07/26/487550122/bill-clinton-to-headline-second-day-of-the-democratic-national-convention)
-7. [The Chicago Sun Times](http://chicago.suntimes.com/news/day-2-dem-convention-meryl-streep-lena-dunham-america-fererra/)
-8. [CBS](http://www.cbsnews.com/news/democratic-convention-speakers-tuesday/)
+1. [CBS](http://www.cbsnews.com/news/democratic-convention-speakers-tuesday/)
+2. [CNN](http://www.cnn.com/2016/07/26/politics/democratic-convention-roll-call-day-two/index.html)
+3. [NBC News](http://www.nbcnews.com/politics/2016-election/hillary-clinton-becomes-first-female-nominee-major-u-s-political-n617406)
+4. [NPR](http://www.npr.org/2016/07/26/487550122/bill-clinton-to-headline-second-day-of-the-democratic-national-convention)
+5. [The Chicago Sun Times](http://chicago.suntimes.com/news/day-2-dem-convention-meryl-streep-lena-dunham-america-fererra/)
+6. [The Guardian](https://www.theguardian.com/us-news/live/2016/jul/26/democratic-convention-day-two-clinton-nominee-sanders)
+7. [The Sacramento Bee](http://www.sacbee.com/news/politics-government/national-politics/article91664227.html)
+8. [Time](http://time.com/4422472/dnc-hillary-clinton-livestream/)
 
 ### Related:
 

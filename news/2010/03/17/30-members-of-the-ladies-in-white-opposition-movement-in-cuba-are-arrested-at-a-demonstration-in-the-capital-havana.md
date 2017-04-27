@@ -7,8 +7,8 @@ Female relatives of dissidents heckled during march outside Havana, then removed
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/03/2010317185732764932.html)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i3ZMMMiCI6SNVTHfaSflxU1AuDng)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i3ZMMMiCI6SNVTHfaSflxU1AuDng)
+2. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/03/2010317185732764932.html)
 3. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8573447.stm)
 
 ### Related:

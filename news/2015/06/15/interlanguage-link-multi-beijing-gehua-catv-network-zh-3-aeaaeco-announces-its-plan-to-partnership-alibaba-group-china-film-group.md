@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/06/14/alibaba-video-idUSKBN0OU0NC20150614)
-2. [Forbes](http://www.forbes.com/sites/robcain/2015/06/16/announcement-of-chinas-netflix-may-be-the-death-blow-for-netflix-in-china/)
+1. [Forbes](http://www.forbes.com/sites/robcain/2015/06/16/announcement-of-chinas-netflix-may-be-the-death-blow-for-netflix-in-china/)
+2. [Reuters](http://www.reuters.com/article/2015/06/14/alibaba-video-idUSKBN0OU0NC20150614)
 
 ### Related:
 

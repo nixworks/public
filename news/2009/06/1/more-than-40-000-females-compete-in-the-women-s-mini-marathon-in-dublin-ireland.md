@@ -7,8 +7,8 @@ Over 40,000 women took part in the Women&rsquo;s mini-marathon this afternoon wh
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0601/breaking4.html?via=mr)
-2. [Evening Herald](http://www.herald.ie/national-news/herald-girl-leads-charge-as-40000-cross-the-finish-line-1757378.html)
+1. [Evening Herald](http://www.herald.ie/national-news/herald-girl-leads-charge-as-40000-cross-the-finish-line-1757378.html)
+2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0601/breaking4.html?via=mr)
 
 ### Related:
 

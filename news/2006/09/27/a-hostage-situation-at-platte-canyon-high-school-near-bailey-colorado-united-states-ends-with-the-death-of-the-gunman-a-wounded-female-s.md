@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [KCNC/AP](http://cbs4denver.com/topstories/local_story_270191531.html)
-2. [CNN](http://www.cnn.com/2006/US/09/27/school.shooting/index.html)
+1. [CNN](http://www.cnn.com/2006/US/09/27/school.shooting/index.html)
+2. [KCNC/AP](http://cbs4denver.com/topstories/local_story_270191531.html)
 
 ### Related:
 

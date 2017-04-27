@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Antara](http://www.antara.co.id/en/news/1271326121/n-jakarta-rioting-kills-three-public-order-officers)
-2. [Ninemsn](http://news.ninemsn.com.au/article.aspx?id=1040034)
-3. [Jakarta Post](http://www.thejakartaglobe.com/home/police-dispatch-600-officers-to-maintain-order-in-north-jakarta/369612)
+2. [Jakarta Post](http://www.thejakartaglobe.com/home/police-dispatch-600-officers-to-maintain-order-in-north-jakarta/369612)
+3. [Ninemsn](http://news.ninemsn.com.au/article.aspx?id=1040034)
 
 ### Related:
 

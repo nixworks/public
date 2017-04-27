@@ -7,8 +7,8 @@ President Barack Obama announces plans for a $1bn fund to increase US military d
 
 ### Source:
 
-1. [Euronews](http://www.euronews.com/2014/06/03/us-to-step-up-military-presence-in-european-reassurance-initiative/)
-2. [BBC](http://www.bbc.com/news/world-europe-27671691)
+1. [BBC](http://www.bbc.com/news/world-europe-27671691)
+2. [Euronews](http://www.euronews.com/2014/06/03/us-to-step-up-military-presence-in-european-reassurance-initiative/)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Residents form a human chain in a bid to halt troops from sweeping into the coas
 
 ### Source:
 
-1. [Reuters via Alertnet](http://www.trust.org/alertnet/news/syrian-army-storms-banias-sunni-districts-rights-source)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/20115765059910917.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/20115765059910917.html)
+2. [Reuters via Alertnet](http://www.trust.org/alertnet/news/syrian-army-storms-banias-sunni-districts-rights-source)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Militants in north-west Pakistan have killed at least 20 of the paramilitaries t
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/world/2012-12/30/c_132071458.htm)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-20865888)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-20865888)
+2. [Xinhua](http://news.xinhuanet.com/english/world/2012-12/30/c_132071458.htm)
 
 ### Related:
 

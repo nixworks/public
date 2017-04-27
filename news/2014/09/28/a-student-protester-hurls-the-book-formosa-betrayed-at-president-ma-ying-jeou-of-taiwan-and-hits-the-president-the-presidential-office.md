@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Focus Taiwan](http://focustaiwan.tw/news/aipl/201409260037.aspx)
-2. [AFP via Rappler](http://www.rappler.com/world/regions/asia-pacific/70351-taiwan-student-hurls-book-president-protest-vs-china)
+1. [AFP via Rappler](http://www.rappler.com/world/regions/asia-pacific/70351-taiwan-student-hurls-book-president-protest-vs-china)
+2. [Focus Taiwan](http://focustaiwan.tw/news/aipl/201409260037.aspx)
 
 ### Related:
 

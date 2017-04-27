@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE71D0KE20110214)
-2. [Business Week](http://www.businessweek.com/news/2011-02-14/ugandan-rebels-kill-12-in-congo-s-north-kivu-local-leader-says.html)
+1. [Business Week](http://www.businessweek.com/news/2011-02-14/ugandan-rebels-kill-12-in-congo-s-north-kivu-local-leader-says.html)
+2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE71D0KE20110214)
 
 ### Related:
 

@@ -8,8 +8,8 @@
 ### Source:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5j_3dBUSSdAJk0YUCUK9nuHD5Nx1w?docId=CNG.fafa389301c44ec0c24e47a77141ac18.261)
-2. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-11/22/c_13616772.htm)
-3. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/20101122/news_20101122_56_714437.htm)
+2. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/20101122/news_20101122_56_714437.htm)
+3. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-11/22/c_13616772.htm)
 
 ### Related:
 

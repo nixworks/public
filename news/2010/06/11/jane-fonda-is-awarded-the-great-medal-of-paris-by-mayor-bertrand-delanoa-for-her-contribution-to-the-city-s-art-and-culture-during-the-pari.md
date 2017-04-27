@@ -7,7 +7,7 @@ Paris Mayor Bertrand Delanoe presented American actress Jane Fonda with the city
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/entertainment_and_arts/10292223.stm)
-2. [The Canadian Press](http://www.google.com/hostednews/canadianpress/article/ALeqM5jJrZ3SWHAkXD-omcdrGXQqBORXOA)
-3. [AFP](http://www.youtube.com/watch?v=RIugahGbkg4)
-4. [NPR](http://www.npr.org/templates/story/story.php?storyId=127741925)
+1. [AFP](http://www.youtube.com/watch?v=RIugahGbkg4)
+2. [BBC](http://news.bbc.co.uk/2/hi/entertainment_and_arts/10292223.stm)
+3. [NPR](http://www.npr.org/templates/story/story.php?storyId=127741925)
+4. [The Canadian Press](http://www.google.com/hostednews/canadianpress/article/ALeqM5jJrZ3SWHAkXD-omcdrGXQqBORXOA)

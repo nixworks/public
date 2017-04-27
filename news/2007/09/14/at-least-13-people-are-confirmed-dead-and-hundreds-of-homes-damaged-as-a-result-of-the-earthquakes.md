@@ -7,8 +7,8 @@ At least 13 people have been confirmed dead and hundreds of homes damaged as rel
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6994386.stm)
-2. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/09/14/2033267.htm)
+1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/09/14/2033267.htm)
+2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6994386.stm)
 
 ### Related:
 

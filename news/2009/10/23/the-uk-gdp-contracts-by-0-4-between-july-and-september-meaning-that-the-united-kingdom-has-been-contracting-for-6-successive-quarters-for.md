@@ -7,8 +7,8 @@ New figures show the British economy shrank unexpectedly in the third quarter of
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2009/1023/ukeconomy.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/business/8321970.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/business/8321970.stm)
+2. [RTÉ](http://www.rte.ie/news/2009/1023/ukeconomy.html)
 
 ### Related:
 

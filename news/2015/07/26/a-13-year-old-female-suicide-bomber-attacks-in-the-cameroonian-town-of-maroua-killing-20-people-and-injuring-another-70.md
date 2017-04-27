@@ -7,8 +7,8 @@ Officials in northern Cameroon have ordered the closure of mosques and Islamic s
 
 ### Source:
 
-1. [Voice of America](http://www.voanews.com/content/fresh-attack-in-cameroon-kills-at-least-20/2878923.html)
-2. [AP via Fox News](http://www.foxnews.com/world/2015/07/26/officials-order-mosques-closed-beggars-off-streets-in-north-cameroon-after/)
+1. [AP via Fox News](http://www.foxnews.com/world/2015/07/26/officials-order-mosques-closed-beggars-off-streets-in-north-cameroon-after/)
+2. [Voice of America](http://www.voanews.com/content/fresh-attack-in-cameroon-kills-at-least-20/2878923.html)
 
 ### Related:
 

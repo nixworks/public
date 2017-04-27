@@ -8,8 +8,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### Source:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/thousands-brazil-rally-demand-presidents-impeachment-35746679)
-2. [Reuters](http://www.reuters.com/article/us-brazil-rousseff-protests-idUSKBN0TW0L420151213#BexMrEXvCoGOV1XO.97)
-3. [Reuters-Congress](http://www.reuters.com/article/us-brazil-corruption-rousseff-idUSKBN0TL2XN20151203#Gu6IhBgAp0ZaULP8.97)
+2. [Reuters-Congress](http://www.reuters.com/article/us-brazil-corruption-rousseff-idUSKBN0TL2XN20151203#Gu6IhBgAp0ZaULP8.97)
+3. [Reuters](http://www.reuters.com/article/us-brazil-rousseff-protests-idUSKBN0TW0L420151213#BexMrEXvCoGOV1XO.97)
 
 ### Related:
 

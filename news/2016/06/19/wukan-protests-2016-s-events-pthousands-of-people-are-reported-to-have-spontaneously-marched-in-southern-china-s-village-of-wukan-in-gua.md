@@ -7,10 +7,10 @@ Police have locked down a village in southern China to ward off fresh anti-corru
 
 ### Source:
 
-1. [The Scotsman](http://www.scotsman.com/news/world/chinese-police-take-control-of-village-ahead-of-protests-1-4158549)
+1. [ (''South China Morning Post](http://www.scmp.com/news/china/policies-politics/article/1977349/villagers-china-vow-press-ahead-land-seizures-protest#)
 2. [AP](http://bigstory.ap.org/article/fc4b2c90b3fa4c26https://en.wikipedia.org/w/index.php?title=Portal:Current_events/2016_June_19&action=edit&editintro=Portal:Current_events/Edit_instructions#86d6597ec307dd90/chinese-villagers-protest-after-police-detain-elected)
-3. [U.S. News & World Report](http://www.usnews.com/news/world/articles/2016-06-18/police-smother-chinese-village-ahead-of-planned-protest)
-4. [ (''South China Morning Post](http://www.scmp.com/news/china/policies-politics/article/1977349/villagers-china-vow-press-ahead-land-seizures-protest#)
+3. [The Scotsman](http://www.scotsman.com/news/world/chinese-police-take-control-of-village-ahead-of-protests-1-4158549)
+4. [U.S. News & World Report](http://www.usnews.com/news/world/articles/2016-06-18/police-smother-chinese-village-ahead-of-planned-protest)
 
 ### Related:
 

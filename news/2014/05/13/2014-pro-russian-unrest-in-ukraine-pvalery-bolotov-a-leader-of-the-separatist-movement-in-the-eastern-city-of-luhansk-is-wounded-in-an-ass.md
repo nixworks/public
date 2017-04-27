@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2014/05/13/world/europe/ukraine-crisis/index.html?hpt=wo_c2)
-2. [Official Journal](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.137.01.0003.01.ENG)
+1. [AP via Netscape](http://isp.netscape.com/news/world/story/1001/20140513/G1527)
+2. [CNN](http://www.cnn.com/2014/05/13/world/europe/ukraine-crisis/index.html?hpt=wo_c2)
 3. [Kyiv Post](http://www.kyivpost.com/content/ukraine/taruta-says-separatists-republic-does-not-exist-vows-to-hold-presidential-elections-in-donetsk-oblast-347598.html)
-4. [AP via Netscape](http://isp.netscape.com/news/world/story/1001/20140513/G1527)
+4. [Official Journal](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.137.01.0003.01.ENG)
 
 ### Related:
 

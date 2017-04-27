@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSSGE7050A320110106)
+1. [Bloomberg](http://www.bloomberg.com/news/2011-01-06/pakistan-prime-minister-cancels-fuel-price-increase-to-save-his-government.html)
 2. [Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/7368446.html)
-3. [Bloomberg](http://www.bloomberg.com/news/2011-01-06/pakistan-prime-minister-cancels-fuel-price-increase-to-save-his-government.html)
+3. [Reuters](http://www.reuters.com/article/idUSSGE7050A320110106)
 
 ### Related:
 

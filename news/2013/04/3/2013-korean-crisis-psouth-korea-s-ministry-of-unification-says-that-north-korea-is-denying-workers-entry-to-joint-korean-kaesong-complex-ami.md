@@ -7,10 +7,10 @@ South Korean workers denied entry to Kaesong joint border complex for second day
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2013/04/20134304954907439.html)
-2. [Reuters](http://www.reuters.com/article/2013/04/03/us-korea-north-guam-idUSBRE9320YQ20130403)
-3. [AP via ''The Globe and Mail](http://www.theglobeandmail.com/news/world/north-korea-approves-nuclear-strike-on-us/article10735512/)
-4. [BBC](http://www.bbc.co.uk/news/world-asia-22011207)
+1. [AP via ''The Globe and Mail](http://www.theglobeandmail.com/news/world/north-korea-approves-nuclear-strike-on-us/article10735512/)
+2. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2013/04/20134304954907439.html)
+3. [BBC](http://www.bbc.co.uk/news/world-asia-22011207)
+4. [Reuters](http://www.reuters.com/article/2013/04/03/us-korea-north-guam-idUSBRE9320YQ20130403)
 
 ### Related:
 

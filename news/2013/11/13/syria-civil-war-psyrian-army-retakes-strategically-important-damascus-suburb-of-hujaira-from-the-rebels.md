@@ -7,9 +7,9 @@ Forces loyal to President Bashar al-Assad captured the southern Damascus suburb 
 
 ### Source:
 
-1. [Maan News](http://www.maannews.net/eng/ViewDetails.aspx?ID=646859)
-2. [Reuters](http://www.reuters.com/article/2013/11/13/us-syria-crisis-damascus-idUSBRE9AC0IC20131113)
-3. [BBC](http://www.bbc.co.uk/news/world-middle-east-24918265)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-24918265)
+2. [Maan News](http://www.maannews.net/eng/ViewDetails.aspx?ID=646859)
+3. [Reuters](http://www.reuters.com/article/2013/11/13/us-syria-crisis-damascus-idUSBRE9AC0IC20131113)
 
 ### Related:
 

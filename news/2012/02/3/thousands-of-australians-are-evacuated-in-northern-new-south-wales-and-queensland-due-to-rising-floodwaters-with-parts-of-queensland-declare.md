@@ -7,8 +7,8 @@ A state disaster has been declared as floods rise across southeast Qld with the 
 
 ### Source:
 
-1. [AAP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/state-flood-disaster-declared-in-qld-20120203-1qwxg.html)
-2. [AAP via ''Melbourne Herald-Sun](http://www.heraldsun.com.au/news/more-news/thousands-evacuated-as-flooding-devastates-northwest-nsw-towns-moree-wee-waa-harrington-manning-point-and-gunnedah/story-fn7x8me2-1226261459480)
+1. [AAP via ''Melbourne Herald-Sun](http://www.heraldsun.com.au/news/more-news/thousands-evacuated-as-flooding-devastates-northwest-nsw-towns-moree-wee-waa-harrington-manning-point-and-gunnedah/story-fn7x8me2-1226261459480)
+2. [AAP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/state-flood-disaster-declared-in-qld-20120203-1qwxg.html)
 
 ### Related:
 

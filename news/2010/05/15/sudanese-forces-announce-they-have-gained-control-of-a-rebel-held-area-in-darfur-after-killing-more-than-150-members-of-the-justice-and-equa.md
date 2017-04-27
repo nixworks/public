@@ -7,11 +7,11 @@ More than 150 fighters reported dead as clashes cast further doubt on peace talk
 
 ### Source:
 
-1. [The Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Sudan-army-seizes-Darfur-rebel-bastion-kills-108-spokesman-/articleshow/5934367.cms)
-2. [France24](http://www.france24.com/en/20100515-sudan-darfur-army-rebel-jebel-moon-justice-equality-movement)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gHmShkRA51sEpsS8nvt-5VBQAzygD9FNC7Q00)
+2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/05/201051552310293415.html)
 3. [BBC](http://news.bbc.co.uk/2/hi/africa/8684544.stm)
-4. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gHmShkRA51sEpsS8nvt-5VBQAzygD9FNC7Q00)
-5. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/05/201051552310293415.html)
+4. [France24](http://www.france24.com/en/20100515-sudan-darfur-army-rebel-jebel-moon-justice-equality-movement)
+5. [The Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Sudan-army-seizes-Darfur-rebel-bastion-kills-108-spokesman-/articleshow/5934367.cms)
 
 ### Related:
 

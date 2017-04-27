@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2011/WORLD/meast/03/23/yemen.protests/)
-2. [The Guardian](http://www.guardian.co.uk/world/2011/mar/23/yemen-emergency-laws-protests)
-3. [Al-Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/2011321164113728994.html)
+1. [Al-Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/2011321164113728994.html)
+2. [CNN](http://www.cnn.com/2011/WORLD/meast/03/23/yemen.protests/)
+3. [The Guardian](http://www.guardian.co.uk/world/2011/mar/23/yemen-emergency-laws-protests)
 
 ### Related:
 

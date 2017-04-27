@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/world/middle_east/yemen-military-says-us-drone-kills-6-al-qaida-fighters-in-countrys-lawless-south/2012/05/12/gIQAjEXlKU_story.html)
-2. [Huffington Post](http://www.huffingtonpost.com/2012/05/12/yemen-us-drone-strikes_n_1511986.html)
+1. [Huffington Post](http://www.huffingtonpost.com/2012/05/12/yemen-us-drone-strikes_n_1511986.html)
+2. [Washington Post](http://www.washingtonpost.com/world/middle_east/yemen-military-says-us-drone-kills-6-al-qaida-fighters-in-countrys-lawless-south/2012/05/12/gIQAjEXlKU_story.html)
 
 ### Related:
 

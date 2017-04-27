@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/politics/3959337.html)
-2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=topNews&storyID=2006-06-11T030958Z_01_N10232278_RTRUKOC_0_UK-SECURITY-GUANTANAMO.xml&archived=False)
+1. [CNN](http://edition.cnn.com/2006/WORLD/americas/06/11/guantanamo.suicides/)
+2. [Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/politics/3959337.html)
 3. [New Zealand Herald](http://www.nzherald.co.nz/section/story.cfm?c_id=2&ObjectID=10386049)
-4. [CNN](http://edition.cnn.com/2006/WORLD/americas/06/11/guantanamo.suicides/)
+4. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=topNews&storyID=2006-06-11T030958Z_01_N10232278_RTRUKOC_0_UK-SECURITY-GUANTANAMO.xml&archived=False)
 
 ### Related:
 

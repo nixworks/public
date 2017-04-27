@@ -7,8 +7,8 @@ An avalanche Monday killed seven Japanese high school students and a teacher on 
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2017/03/27/asia/japan-avalanche-students/index.html)
-2. [AFP via Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/six-students-feared-dead-in-japan-avalanche/3628188.html)
+1. [AFP via Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/six-students-feared-dead-in-japan-avalanche/3628188.html)
+2. [CNN](http://edition.cnn.com/2017/03/27/asia/japan-avalanche-students/index.html)
 
 ### Related:
 

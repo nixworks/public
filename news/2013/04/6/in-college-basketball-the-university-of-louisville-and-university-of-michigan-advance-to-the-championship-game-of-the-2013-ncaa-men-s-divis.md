@@ -7,8 +7,8 @@ Get a recap of the Wichita State Shockers vs. Louisville Cardinals basketball ga
 
 ### Source:
 
-1. [ESPN](http://scores.espn.go.com/ncb/recap?gameId=330960097)
-2. [AP via ESPN](http://scores.espn.go.com/ncb/recap?gameId=330960130)
+1. [AP via ESPN](http://scores.espn.go.com/ncb/recap?gameId=330960130)
+2. [ESPN](http://scores.espn.go.com/ncb/recap?gameId=330960097)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters via Mineweb](http://www.mineweb.com/mineweb/view/mineweb/en/page31?oid=109354&sn=Detail&pid=31)
-2. [BBC](http://www.bbc.co.uk/news/world-latin-america-10897327)
-3. [Mining Weekly](http://www.miningweekly.com/article/rescuers-struggle-to-reach-trapped-miners-in-chile-2010-08-06)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-10897327)
+2. [Mining Weekly](http://www.miningweekly.com/article/rescuers-struggle-to-reach-trapped-miners-in-chile-2010-08-06)
+3. [Reuters via Mineweb](http://www.mineweb.com/mineweb/view/mineweb/en/page31?oid=109354&sn=Detail&pid=31)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Times](http://www.timesonline.co.uk/tol/sport/football/international/article7140268.ece)
-2. [RTÉ](http://www.rte.ie/sport/soccer/2010/0529/newzealand_serbia.html)
+1. [RTÉ](http://www.rte.ie/sport/soccer/2010/0529/newzealand_serbia.html)
+2. [The Times](http://www.timesonline.co.uk/tol/sport/football/international/article7140268.ece)
 
 ### Related:
 

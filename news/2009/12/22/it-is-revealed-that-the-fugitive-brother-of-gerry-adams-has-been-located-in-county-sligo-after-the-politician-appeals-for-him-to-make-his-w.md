@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2009/1222/adams.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8427516.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8427516.stm)
+2. [RTÉ](http://www.rte.ie/news/2009/1222/adams.html)
 
 ### Related:
 

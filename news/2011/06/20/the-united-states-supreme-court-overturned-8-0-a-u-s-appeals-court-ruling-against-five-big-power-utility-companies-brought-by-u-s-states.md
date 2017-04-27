@@ -7,12 +7,12 @@ Court said climate change regulation is the business of the federal government, 
 
 ### Source:
 
-1. [Scientific American](http://www.scientificamerican.com/article.cfm?id=supreme-court-rejects-global-warmin)
-2. [Reuters](http://www.reuters.com/article/2011/06/20/us-usa-climate-lawsuit-idUSTRE75J3JR20110620)
-3. [MLive.com](http://www.mlive.com/environment/index.ssf/2011/06/post_62.html)
-4. [CBS News](http://www.cbsnews.com/8301-503544_162-20072702-503544.html)
-5. [USA Today](http://content.usatoday.com/communities/greenhouse/post/2011/06/supreme-court-backs-obama-epa-states-climate-change/1)
-6. [PBS NewsHour](http://www.pbs.org/newshour/updates/law/jan-june11/scotus_06-20.html)
+1. [CBS News](http://www.cbsnews.com/8301-503544_162-20072702-503544.html)
+2. [MLive.com](http://www.mlive.com/environment/index.ssf/2011/06/post_62.html)
+3. [PBS NewsHour](http://www.pbs.org/newshour/updates/law/jan-june11/scotus_06-20.html)
+4. [Reuters](http://www.reuters.com/article/2011/06/20/us-usa-climate-lawsuit-idUSTRE75J3JR20110620)
+5. [Scientific American](http://www.scientificamerican.com/article.cfm?id=supreme-court-rejects-global-warmin)
+6. [USA Today](http://content.usatoday.com/communities/greenhouse/post/2011/06/supreme-court-backs-obama-epa-states-climate-change/1)
 
 ### Related:
 

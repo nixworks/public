@@ -7,9 +7,9 @@ German Chancellor Angela Merkel sought on Saturday to temper pressure from Paris
 
 ### Source:
 
-1. [Reuters](http://in.reuters.com/article/britain-eu-split-wrapup-idINKCN0ZB095)
-2. [AP via ''Daily Mail](http://www.dailymail.co.uk/wires/ap/article-3659515/Diplomats-EUs-founding-6-meet-Berlin-talk-Brexit.html)
-3. [BBC](http://www.bbc.com/news/uk-politics-eu-referendum-36629646#)
+1. [AP via ''Daily Mail](http://www.dailymail.co.uk/wires/ap/article-3659515/Diplomats-EUs-founding-6-meet-Berlin-talk-Brexit.html)
+2. [BBC](http://www.bbc.com/news/uk-politics-eu-referendum-36629646#)
+3. [Reuters](http://in.reuters.com/article/britain-eu-split-wrapup-idINKCN0ZB095)
 
 ### Related:
 

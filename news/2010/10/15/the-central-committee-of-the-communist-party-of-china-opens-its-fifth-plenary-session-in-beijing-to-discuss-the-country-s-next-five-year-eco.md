@@ -7,8 +7,8 @@ Party officials gather to outline five-year economic and social development plan
 
 ### Source:
 
-1. [China Daily](http://www.chinadaily.com.cn/china/2010-10/15/content_11414675.htm)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/201010156250141967.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/201010156250141967.html)
+2. [China Daily](http://www.chinadaily.com.cn/china/2010-10/15/content_11414675.htm)
 
 ### Related:
 

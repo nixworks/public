@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [SINA](http://news.sina.com.cn/c/2007-03-31/235812663223.shtml)
-2. [CCTV](http://www.cctv.com/english/20070330/101880.shtml)
+1. [CCTV](http://www.cctv.com/english/20070330/101880.shtml)
+2. [SINA](http://news.sina.com.cn/c/2007-03-31/235812663223.shtml)
 
 ### Related:
 

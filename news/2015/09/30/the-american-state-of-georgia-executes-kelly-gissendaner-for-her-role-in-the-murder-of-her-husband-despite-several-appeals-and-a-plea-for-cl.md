@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via News 12](http://www.wrdw.com/home/headlines/Lawyers-file-330037431.html)
-2. [ (''Daily Mail](http://www.dailymail.co.uk/news/article-3253938/Georgia-woman-set-die-parole-board-refuse-minute-plea-clemency-despite-Pope-Francis-calls-halt-execution.html)
+1. [ (''Daily Mail](http://www.dailymail.co.uk/news/article-3253938/Georgia-woman-set-die-parole-board-refuse-minute-plea-clemency-despite-Pope-Francis-calls-halt-execution.html)
+2. [AP via News 12](http://www.wrdw.com/home/headlines/Lawyers-file-330037431.html)
 
 ### Related:
 

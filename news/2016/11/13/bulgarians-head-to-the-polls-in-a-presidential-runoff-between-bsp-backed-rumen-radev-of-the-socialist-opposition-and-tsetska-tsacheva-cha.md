@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [novinite.com](http://www.novinite.com/articles/177385/Turnout+in+Bulgaria's+Runoff+at+13%3A00+Slightly+Higher+Than+in+1st+Round)
-2. [Reuters](http://www.reuters.com/article/us-bulgaria-election-exitpoll-idUSKBN1380Q7)
+1. [Reuters](http://www.reuters.com/article/us-bulgaria-election-exitpoll-idUSKBN1380Q7)
+2. [novinite.com](http://www.novinite.com/articles/177385/Turnout+in+Bulgaria's+Runoff+at+13%3A00+Slightly+Higher+Than+in+1st+Round)
 
 ### Related:
 

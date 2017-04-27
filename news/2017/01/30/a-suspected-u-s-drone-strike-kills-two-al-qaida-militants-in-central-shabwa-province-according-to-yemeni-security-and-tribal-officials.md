@@ -8,8 +8,8 @@ A suspected U.S. drone strike killed two men believed to be al-Qaeda militants i
 ### Source:
 
 1. [ (AP](http://bigstory.ap.org/article/84826a60ddb1489199ac6ed1458afa25/suspected-us-drone-kills-2-alleged-al-qaida-yemen-fighters)
-2. [Fox News](http://www.foxnews.com/world/2017/01/30/iran-backed-houthi-rebels-attack-saudi-warship-in-red-sea.html)
-3. [CBC News](http://www.cbc.ca/news/world/united-states-yemen-suspected-drone-1.3957800)
+2. [CBC News](http://www.cbc.ca/news/world/united-states-yemen-suspected-drone-1.3957800)
+3. [Fox News](http://www.foxnews.com/world/2017/01/30/iran-backed-houthi-rebels-attack-saudi-warship-in-red-sea.html)
 
 ### Related:
 

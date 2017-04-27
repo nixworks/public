@@ -7,8 +7,8 @@ CARACAS: Venezuela is sending 15,000 soldiers to the border with Colombia, sayin
 
 ### Source:
 
-1. [The Sydney Morning Herald](http://www.smh.com.au/world/chavez-orders-troops-to-border-20091106-i25s.html)
-2. [The Scotsman](http://news.scotsman.com/world/Chavez-troops-sent-to-Colombia.5804115.jp)
+1. [The Scotsman](http://news.scotsman.com/world/Chavez-troops-sent-to-Colombia.5804115.jp)
+2. [The Sydney Morning Herald](http://www.smh.com.au/world/chavez-orders-troops-to-border-20091106-i25s.html)
 
 ### Related:
 

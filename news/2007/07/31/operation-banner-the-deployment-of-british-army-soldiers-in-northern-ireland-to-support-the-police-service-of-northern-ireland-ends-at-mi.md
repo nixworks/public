@@ -7,8 +7,8 @@ The Minister for Foreign Affairs, Dermot Ahern, has welcomed the ending of Briti
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2007/0731/north.html?rss)
-2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/6923342.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/6923342.stm)
+2. [RTÉ](http://www.rte.ie/news/2007/0731/north.html?rss)
 
 ### Related:
 

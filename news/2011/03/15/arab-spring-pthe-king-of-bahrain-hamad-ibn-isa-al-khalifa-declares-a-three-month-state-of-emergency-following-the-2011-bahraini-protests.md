@@ -7,13 +7,13 @@ Four men have been arrested for the murder of an Al Jazeera journalist, and rebe
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/world/africa/libyan-rebels-arrest-gaddafi-death-squad-that-killed-journalist-2241876.html#)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12749674)
-3. [Reuters via Alertnet](http://www.trust.org/alertnet/news/riot-in-moroccos-phosphates-city-over-jobs?utm_source=twitterfeed&utm_medium=twitter)
-4. [Sify India](http://www.sify.com/news/protests-in-yemen-after-attack-on-oil-pipeline-news-international-ldpvkojgdci.html)
-5. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/20113151296156152.html)
-6. [Al Arabiya](http://www.alarabiya.net/articles/2011/03/15/141576.html)
-7. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hrQWVGuiq7ZMP9eK1wFoD2Vw02ZA?docId=CNG.16e67dbc9289e73ea18d9b4a850113e8.4b1)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hrQWVGuiq7ZMP9eK1wFoD2Vw02ZA?docId=CNG.16e67dbc9289e73ea18d9b4a850113e8.4b1)
+2. [Al Arabiya](http://www.alarabiya.net/articles/2011/03/15/141576.html)
+3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/20113151296156152.html)
+4. [BBC](http://www.bbc.co.uk/news/world-middle-east-12749674)
+5. [Reuters via Alertnet](http://www.trust.org/alertnet/news/riot-in-moroccos-phosphates-city-over-jobs?utm_source=twitterfeed&utm_medium=twitter)
+6. [Sify India](http://www.sify.com/news/protests-in-yemen-after-attack-on-oil-pipeline-news-international-ldpvkojgdci.html)
+7. [The Independent](http://www.independent.co.uk/news/world/africa/libyan-rebels-arrest-gaddafi-death-squad-that-killed-journalist-2241876.html#)
 
 ### Related:
 

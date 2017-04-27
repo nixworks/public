@@ -7,14 +7,14 @@ Hosni Mubarak has reportedly suffered a stroke in prison and is reportedly &#034
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/egypt/9343042/Hosni-Mubarak-has-stroke-in-prison.html)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/20126191465269424.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/20126191465269424.html)
+2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/2012619193851869222.html)
 3. [BBC](http://www.bbc.co.uk/news/world-middle-east-18510201)
-4. [MSNBC](http://worldnews.msnbc.msn.com/_news/2012/06/19/12294230-russian-shipment-of-attack-helicopters-for-syria-halted-off-scotland?lite)
-5. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9339933/Britain-stops-Russian-ship-carrying-attack-helicopters-for-Syria.html)
-6. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/2012619193851869222.html)
-7. [BBC](http://www.bbc.co.uk/news/world-middle-east-18515556)
-8. [CNN](http://news.blogs.cnn.com/2012/06/19/mubarak-revived-after-cardiac-arrest-spokesman-says/?hpt=hp_t1)
+4. [BBC](http://www.bbc.co.uk/news/world-middle-east-18515556)
+5. [CNN](http://news.blogs.cnn.com/2012/06/19/mubarak-revived-after-cardiac-arrest-spokesman-says/?hpt=hp_t1)
+6. [MSNBC](http://worldnews.msnbc.msn.com/_news/2012/06/19/12294230-russian-shipment-of-attack-helicopters-for-syria-halted-off-scotland?lite)
+7. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/egypt/9343042/Hosni-Mubarak-has-stroke-in-prison.html)
+8. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9339933/Britain-stops-Russian-ship-carrying-attack-helicopters-for-Syria.html)
 
 ### Related:
 

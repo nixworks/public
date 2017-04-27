@@ -7,9 +7,9 @@ Iceland&#39;s president has said he will not sign a bill to compensate the Briti
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2010/0105/iceland.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/business/8441312.stm)
-3. [Iceland Review](http://icelandreview.com/icelandreview/daily_news/?cat_id=16539&ew_0_a_id=356059)
+1. [BBC](http://news.bbc.co.uk/2/hi/business/8441312.stm)
+2. [Iceland Review](http://icelandreview.com/icelandreview/daily_news/?cat_id=16539&ew_0_a_id=356059)
+3. [RTÉ](http://www.rte.ie/news/2010/0105/iceland.html)
 
 ### Related:
 

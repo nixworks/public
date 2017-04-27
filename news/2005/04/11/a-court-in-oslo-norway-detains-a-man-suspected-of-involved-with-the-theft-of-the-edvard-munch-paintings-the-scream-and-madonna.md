@@ -7,8 +7,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=entertainmentNews&storyID=2005-04-11T190042Z_01_L11525640_RTRIDST_0_ENTERTAINMENT-NORWAY-MUNCH-DC.XML)
-2. [Afternposten](http://www.aftenposten.no/english/local/article1014681.ece)
+1. [Afternposten](http://www.aftenposten.no/english/local/article1014681.ece)
+2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=entertainmentNews&storyID=2005-04-11T190042Z_01_L11525640_RTRIDST_0_ENTERTAINMENT-NORWAY-MUNCH-DC.XML)
 
 ### Related:
 

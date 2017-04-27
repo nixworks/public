@@ -8,8 +8,8 @@ Get the latest breaking news and top news headlines at Reuters.com
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4571957.stm)
-2. [World Peace Herald](http://www.wpherald.com/storyview.php?StoryID=20050522-071209-4844r)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8567509)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8567509)
+3. [World Peace Herald](http://www.wpherald.com/storyview.php?StoryID=20050522-071209-4844r)
 
 ### Related:
 

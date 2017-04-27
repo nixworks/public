@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/news/us-news/oakland-warehouse-fire-survivors-describe-escape-blaze-confirmed-death-toll-n691711?cid=eml_nbn_20161204)
-2. [ABC News](http://abcnews.go.com/US/24-bodies-recovered-oakland-warehouse-fire-search-20/story?id=43964350)
+1. [ABC News](http://abcnews.go.com/US/24-bodies-recovered-oakland-warehouse-fire-search-20/story?id=43964350)
+2. [NBC News](http://www.nbcnews.com/news/us-news/oakland-warehouse-fire-survivors-describe-escape-blaze-confirmed-death-toll-n691711?cid=eml_nbn_20161204)
 
 ### Related:
 

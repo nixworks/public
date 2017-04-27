@@ -7,10 +7,10 @@ Fifty-five people were drowned,or missing and presumed to have drowned, after an
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/12/20/somalia-boat-idUSL5E8NKCOY20121220)
+1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/12/2012122016474559137.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-20801092)
 3. [CNN](http://www.cnn.com/2012/12/20/world/somalia-boat-deaths/)
-4. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/12/2012122016474559137.html)
+4. [Reuters](http://www.reuters.com/article/2012/12/20/somalia-boat-idUSL5E8NKCOY20121220)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [New Ratings](http://www.newratings.com/new2/beta/article_682782.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4242299.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4242299.stm)
+2. [New Ratings](http://www.newratings.com/new2/beta/article_682782.html)
 
 ### Related:
 

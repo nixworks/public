@@ -7,9 +7,9 @@ Europe&#39;s football website, UEFA.com, is the official site of UEFA, the Union
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/sport/football/36696772)
-2. [UEFA official](http://www.uefa.com/uefaeuro/season=2016/matches/round=2000451/match=2017907/index.html)
-3. [ABC News Australia](http://www.abc.net.au/news/2016-07-11/portugal-claims-euro-2016-glory-thanks-to-eder-extra-time-goal/7585076)
+1. [ABC News Australia](http://www.abc.net.au/news/2016-07-11/portugal-claims-euro-2016-glory-thanks-to-eder-extra-time-goal/7585076)
+2. [BBC](http://www.bbc.com/sport/football/36696772)
+3. [UEFA official](http://www.uefa.com/uefaeuro/season=2016/matches/round=2000451/match=2017907/index.html)
 
 ### Related:
 

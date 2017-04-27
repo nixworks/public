@@ -7,9 +7,9 @@ An explosion has rocked an Iraqi ministry of defence complex that three weeks ag
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2010/09/06/world/middleeast/06iraq.html)
+1. [AFP via the ''Melbourne Age](http://news.theage.com.au/breaking-news-world/big-explosion-rocks-central-baghdad-20100905-14vx4.html)
 2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hwK_CSpBxsNuVUEaDuOwmSSCiqGwD9I206400)
-3. [AFP via the ''Melbourne Age](http://news.theage.com.au/breaking-news-world/big-explosion-rocks-central-baghdad-20100905-14vx4.html)
+3. [New York Times](http://www.nytimes.com/2010/09/06/world/middleeast/06iraq.html)
 
 ### Related:
 

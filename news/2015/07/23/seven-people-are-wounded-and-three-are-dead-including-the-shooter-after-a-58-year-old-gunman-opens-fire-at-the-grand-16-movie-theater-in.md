@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NBC](http://www.nbcnews.com/=news/us-news/two-killed-least-six-injured-louisiana-theater-shooting-n397586)
-2. [CNN](http://www.cnn.com/2015/07/23/us/louisiana-theater-shooting/index.html)
+1. [CNN](http://www.cnn.com/2015/07/23/us/louisiana-theater-shooting/index.html)
+2. [NBC](http://www.nbcnews.com/=news/us-news/two-killed-least-six-injured-louisiana-theater-shooting-n397586)
 
 ### Related:
 

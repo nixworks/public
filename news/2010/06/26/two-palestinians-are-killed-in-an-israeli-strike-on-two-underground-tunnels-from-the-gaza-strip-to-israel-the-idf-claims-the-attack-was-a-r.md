@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/06/25/AR2010062504787.html)
-2. [Arab News](http://arabnews.com/middleeast/article73467.ece)
+1. [Arab News](http://arabnews.com/middleeast/article73467.ece)
+2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/06/25/AR2010062504787.html)
 
 ### Related:
 

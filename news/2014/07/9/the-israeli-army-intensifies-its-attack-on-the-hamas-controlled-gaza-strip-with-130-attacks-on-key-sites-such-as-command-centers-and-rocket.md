@@ -7,8 +7,8 @@ Israel vows to ramp up warplane strikes against Hamas militants, as the death to
 
 ### Source:
 
-1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-07-09-ML-Israel-Palestinians/id-44ae872d6e9f4729ba5c105fef035094)
-2. [ABC News Australia](http://www.abc.net.au/news/2014-07-09/dozens-dead-as-israel-launches-air-strikes-on-gaza/5585562)
+1. [ABC News Australia](http://www.abc.net.au/news/2014-07-09/dozens-dead-as-israel-launches-air-strikes-on-gaza/5585562)
+2. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-07-09-ML-Israel-Palestinians/id-44ae872d6e9f4729ba5c105fef035094)
 
 ### Related:
 

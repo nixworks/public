@@ -7,11 +7,11 @@ West Virginia election results from the 2016 general election.
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/elections/results/west-virginia)
-2. [New York Daily News](http://www.nydailynews.com/news/politics/bernie-sanders-poised-primary-win-west-virginia-article-1.2630672)
-3. [Washington Examiner](http://www.washingtonexaminer.com/trump-triumphs-in-west-virginia-nebraska/article/2590967)
-4. [BBC](http://www.bbc.com/news/election-us-2016-36263245)
-5. [Lincoln Journal Star](http://journalstar.com/news/state-and-regional/govt-and-politics/after-losing-spotlight-nebraska-looks-at-earlier-primary/article_be243a8f-cb35-5e29-a016-51d65d0dcda3.html)
+1. [BBC](http://www.bbc.com/news/election-us-2016-36263245)
+2. [Lincoln Journal Star](http://journalstar.com/news/state-and-regional/govt-and-politics/after-losing-spotlight-nebraska-looks-at-earlier-primary/article_be243a8f-cb35-5e29-a016-51d65d0dcda3.html)
+3. [New York Daily News](http://www.nydailynews.com/news/politics/bernie-sanders-poised-primary-win-west-virginia-article-1.2630672)
+4. [New York Times](http://www.nytimes.com/elections/results/west-virginia)
+5. [Washington Examiner](http://www.washingtonexaminer.com/trump-triumphs-in-west-virginia-nebraska/article/2590967)
 
 ### Related:
 

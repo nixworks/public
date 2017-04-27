@@ -7,8 +7,8 @@ Russian President Vladimir Putinis set to sign a nuclear energy deal with Austra
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/oilRpt/idUKSYD12741720070906)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=a4_nr875KEVQ&refer=home)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=a4_nr875KEVQ&refer=home)
+2. [Reuters](http://uk.reuters.com/article/oilRpt/idUKSYD12741720070906)
 3. [Sydney Morning Herald](http://www.smh.com.au/news/World/Bush-offers-North-Korea-peace-treaty/2007/09/07/1188783483678.html)
 
 ### Related:

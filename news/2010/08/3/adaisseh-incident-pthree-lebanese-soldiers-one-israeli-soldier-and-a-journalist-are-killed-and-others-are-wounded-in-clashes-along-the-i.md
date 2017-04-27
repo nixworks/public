@@ -7,14 +7,14 @@ Three Lebanese soldiers, a senior Israeli officer and a journalist are killed in
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10851692)
-2. [The Guardian](http://www.guardian.co.uk/world/2010/aug/03/lebanon-israel-border-violence-soldiers)
-3. [Gulf Daily News](http://www.gulf-daily-news.com/NewsDetails.aspx?storyid=283929)
-4. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5h0yxsuvp3eCPj3vaR3ellp3NvwdA)
-5. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/security-council-weighs-lebanon-clash-20100804-115o5.html)
-6. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/08/20108310240207599.html)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5h0yxsuvp3eCPj3vaR3ellp3NvwdA)
+2. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/08/20108310240207599.html)
+3. [BBC](http://www.bbc.co.uk/news/world-middle-east-10851692)
+4. [Gulf Daily News](http://www.gulf-daily-news.com/NewsDetails.aspx?storyid=283929)
+5. [The Guardian](http://www.guardian.co.uk/world/2010/aug/03/lebanon-israel-border-violence-soldiers)
+6. [The Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=183546)
 7. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=183536)
-8. [The Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=183546)
+8. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/security-council-weighs-lebanon-clash-20100804-115o5.html)
 
 ### Related:
 

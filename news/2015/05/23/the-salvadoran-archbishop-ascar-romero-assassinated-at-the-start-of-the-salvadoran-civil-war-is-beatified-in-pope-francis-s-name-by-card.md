@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Vatican](http://www.microsofttranslator.com/BV.aspx?ref=IE8Activity&a=http%3A%2F%2Fw2.vatican.va%2Fcontent%2Ffrancesco%2Fes%2Fletters%2F2015%2Fdocuments%2Fpapa-francesco_20150523_lettera-beatificazione-romero.html)
-2. [White House](https://www.whitehouse.gov/the-press-office/2015/05/23/statement-president-beatification-archbishop-oscar-romero)
-3. [CNN](http://www.cnn.com/2015/05/23/americas/el-salvador-archbishop-oscar-romero-beatification/index.html)
+1. [CNN](http://www.cnn.com/2015/05/23/americas/el-salvador-archbishop-oscar-romero-beatification/index.html)
+2. [Vatican](http://www.microsofttranslator.com/BV.aspx?ref=IE8Activity&a=http%3A%2F%2Fw2.vatican.va%2Fcontent%2Ffrancesco%2Fes%2Fletters%2F2015%2Fdocuments%2Fpapa-francesco_20150523_lettera-beatificazione-romero.html)
+3. [White House](https://www.whitehouse.gov/the-press-office/2015/05/23/statement-president-beatification-archbishop-oscar-romero)
 
 ### Related:
 

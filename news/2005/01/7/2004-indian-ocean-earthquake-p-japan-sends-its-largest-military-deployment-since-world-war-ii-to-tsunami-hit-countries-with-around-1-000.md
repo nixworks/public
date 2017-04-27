@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CNN](http://money.cnn.com/2005/01/07/technology/tsunami_scams/)
+1. [CNA](http://www.channelnewsasia.com/stories/afp_asiapacific/view/126202/1/.html)
 2. [CNA](http://www.channelnewsasia.com/stories/eastasia/view/126205/1/.html)
-3. [CNA](http://www.channelnewsasia.com/stories/afp_asiapacific/view/126202/1/.html)
+3. [CNN](http://money.cnn.com/2005/01/07/technology/tsunami_scams/)
 
 ### Related:
 

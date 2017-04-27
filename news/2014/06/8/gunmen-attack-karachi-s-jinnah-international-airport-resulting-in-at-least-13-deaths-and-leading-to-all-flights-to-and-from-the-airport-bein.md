@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-asia-27757264)
-2. [AP via Yahoo! News](http://news.yahoo.com/pakistan-siege-karachi-airport-ends-13-dead-000619772.html)
+1. [AP via Yahoo! News](http://news.yahoo.com/pakistan-siege-karachi-airport-ends-13-dead-000619772.html)
+2. [BBC](http://www.bbc.com/news/world-asia-27757264)
 
 ### Related:
 

@@ -7,8 +7,8 @@ It projects 702 million people or 9.6% of the world’s population will be livin
 
 ### Source:
 
-1. [Time](http://time.com/4060895/world-bank-extreme-poverty/)
-2. [The Guardian](http://www.theguardian.com/society/2015/oct/05/world-bank-extreme-poverty-to-fall-below-10-of-world-population-for-first-time)
+1. [The Guardian](http://www.theguardian.com/society/2015/oct/05/world-bank-extreme-poverty-to-fall-below-10-of-world-population-for-first-time)
+2. [Time](http://time.com/4060895/world-bank-extreme-poverty/)
 
 ### Related:
 

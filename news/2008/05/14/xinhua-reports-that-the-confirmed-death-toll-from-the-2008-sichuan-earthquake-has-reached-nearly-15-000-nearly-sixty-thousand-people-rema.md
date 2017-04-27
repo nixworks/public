@@ -7,9 +7,9 @@ Two thousand Chinese soldiers are working to plug an &#034;extremely dangerous&#
 
 ### Source:
 
-1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/1955181/China-earthquake-Race-to-plug-dam-as-death-toll-rises-to-15,000.html)
+1. [AP via Google News](http://ap.google.com/article/ALeqM5gBr_dOzJ9Pnc_U9gSgtTgE-cR-KwD90LBK6O2)
 2. [AP via Google News](http://ap.google.com/article/ALeqM5gBr_dOzJ9Pnc_U9gSgtTgE-cR-KwD90LEMMG2)
-3. [AP via Google News](http://ap.google.com/article/ALeqM5gBr_dOzJ9Pnc_U9gSgtTgE-cR-KwD90LBK6O2)
+3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/1955181/China-earthquake-Race-to-plug-dam-as-death-toll-rises-to-15,000.html)
 
 ### Related:
 

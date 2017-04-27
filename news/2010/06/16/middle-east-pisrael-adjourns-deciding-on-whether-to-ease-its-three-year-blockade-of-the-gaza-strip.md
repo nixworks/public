@@ -7,18 +7,18 @@ Security cabinet adjourns meeting on allowing entry of building materials and ot
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=178594)
-2. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/0617/1224272698932.html)
-3. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/turkish-flotilla-organizers-planning-to-dispatch-more-gaza-aid-ships-1.296590)
-4. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/201061651947386938.html)
-5. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=178617)
-6. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=178620)
-7. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=178592)
-8. [Haaretz](http://www.haaretz.com/news/national/riots-in-jaffa-as-ultra-orthodox-jews-protest-graves-desecration-1.296555)
-9. [The Daily Star](http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=2&article_id=116032#axzz0r4AhoZYS)
-10. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3906281,00.html)
-11. [CNN](http://edition.cnn.com/2010/WORLD/europe/06/15/france.station.ordered.off.air/index.html)
-12. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/2010616133259580447.html)
+1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/2010616133259580447.html)
+2. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/201061651947386938.html)
+3. [CNN](http://edition.cnn.com/2010/WORLD/europe/06/15/france.station.ordered.off.air/index.html)
+4. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/turkish-flotilla-organizers-planning-to-dispatch-more-gaza-aid-ships-1.296590)
+5. [Haaretz](http://www.haaretz.com/news/national/riots-in-jaffa-as-ultra-orthodox-jews-protest-graves-desecration-1.296555)
+6. [The Daily Star](http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=2&article_id=116032#axzz0r4AhoZYS)
+7. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/0617/1224272698932.html)
+8. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=178620)
+9. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=178592)
+10. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=178594)
+11. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=178617)
+12. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3906281,00.html)
 
 ### Related:
 

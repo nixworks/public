@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [MSN News](http://news.sympatico.msn.ctv.ca/TopStories/ContentPosting.aspx?newsitemid=CTVNews%2f20070106%2fstorm_aftermath_070106&feedname=CTV-TOPSTORIES_V2&showbyline=True)
-2. [CTV.ca](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20070105/roof_collapse_070105)
+1. [CTV.ca](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20070105/roof_collapse_070105)
+2. [MSN News](http://news.sympatico.msn.ctv.ca/TopStories/ContentPosting.aspx?newsitemid=CTVNews%2f20070106%2fstorm_aftermath_070106&feedname=CTV-TOPSTORIES_V2&showbyline=True)
 
 ### Related:
 

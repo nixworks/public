@@ -7,5 +7,5 @@ China recently denied a request from a U.S. aircraft carrier for a port visit in
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2016/04/29/politics/us-aircraft-carrier-denied-entry-into-hong-kong-port/)
-2. [AP via ''USA Today](http://www.usatoday.com/story/news/world/2016/04/30/china-rejects-hong-kong-port-call-us-aircraft-carrier/83741484/)
+1. [AP via ''USA Today](http://www.usatoday.com/story/news/world/2016/04/30/china-rejects-hong-kong-port-call-us-aircraft-carrier/83741484/)
+2. [CNN](http://edition.cnn.com/2016/04/29/politics/us-aircraft-carrier-denied-entry-into-hong-kong-port/)

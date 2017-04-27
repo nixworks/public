@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [euronews](http://www.euronews.net/2010/05/29/insulin-provider-pulls-out-of-greece-in-price-cut-row/)
-2. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10189367.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10189367.stm)
+2. [euronews](http://www.euronews.net/2010/05/29/insulin-provider-pulls-out-of-greece-in-price-cut-row/)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Visiting leader Khaled Meshal used a Hamas anniversary rally to restate
 
 ### Source:
 
-1. [The Washington Post](http://www.washingtonpost.com/world/middle_east/hamas-leader-khaled-meshal-denounces-israel-at-anniversary-rally-in-gaza/2012/12/08/b311c70c-4179-11e2-a2d9-822f58ac9fd5_story.html)
-2. [The Guardian](http://www.guardian.co.uk/world/2012/dec/07/gaza-prepares-welcome-hamas-leader)
+1. [The Guardian](http://www.guardian.co.uk/world/2012/dec/07/gaza-prepares-welcome-hamas-leader)
+2. [The Washington Post](http://www.washingtonpost.com/world/middle_east/hamas-leader-khaled-meshal-denounces-israel-at-anniversary-rally-in-gaza/2012/12/08/b311c70c-4179-11e2-a2d9-822f58ac9fd5_story.html)
 
 ### Related:
 

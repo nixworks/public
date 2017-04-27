@@ -7,9 +7,9 @@ All the latest news and match reports at the 2017 US Open Tennis Championships.
 
 ### Source:
 
-1. [US Open](http://www.usopen.org/en_US/news/articles/2015-09-12/pennetta_wins_first_grand_slam_singles_title_announces_retirement.html?chip=5?promo=media_wall)
-2. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-09-12-TEN--US%20Open-Lookahead/id-836ae74d2f7b489f9206cce3f428a680)
-3. [BBC](http://www.bbc.com/sport/live/tennis/34008441)
+1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-09-12-TEN--US%20Open-Lookahead/id-836ae74d2f7b489f9206cce3f428a680)
+2. [BBC](http://www.bbc.com/sport/live/tennis/34008441)
+3. [US Open](http://www.usopen.org/en_US/news/articles/2015-09-12/pennetta_wins_first_grand_slam_singles_title_announces_retirement.html?chip=5?promo=media_wall)
 
 ### Related:
 

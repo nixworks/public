@@ -7,8 +7,8 @@ Israeli legislators reject attempt to prevent demolition of outpost built on Pal
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18344116)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/20126685312849270.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/20126685312849270.html)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-18344116)
 
 ### Related:
 

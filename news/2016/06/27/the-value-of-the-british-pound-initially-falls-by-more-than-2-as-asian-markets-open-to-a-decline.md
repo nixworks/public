@@ -7,10 +7,10 @@ U.S. stocks closed about 1.5 percent lower or more Monday, extending Friday&#039
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-global-markets-idUSKCN0ZC14U)
-2. [The Guardian](https://www.theguardian.com/business/live/2016/jun/27/pound-shares-markets-brexit-crisis-osborne-lew-business-live)
-3. [CNBC](http://www.cnbc.com/2016/06/27/us-markets.html)
-4. [Poundsterlinglive](https://www.poundsterlinglive.com/usd/5095-pound-to-dollar-exchange-rate-222311)
+1. [CNBC](http://www.cnbc.com/2016/06/27/us-markets.html)
+2. [Poundsterlinglive](https://www.poundsterlinglive.com/usd/5095-pound-to-dollar-exchange-rate-222311)
+3. [Reuters](http://www.reuters.com/article/us-global-markets-idUSKCN0ZC14U)
+4. [The Guardian](https://www.theguardian.com/business/live/2016/jun/27/pound-shares-markets-brexit-crisis-osborne-lew-business-live)
 
 ### Related:
 

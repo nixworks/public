@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Israeli MFA](http://www.mfa.gov.il/MFA/Terrorism-+Obstacle+to+Peace/Terrorism+and+Islamic+Fundamentalism-/IDF+aerial+attack+against+terror+cell+en+route+to+launch+Katyushas+13-Jun-2006.htm)
-2. [CNN](http://www.cnn.com/2006/WORLD/meast/06/16/gaza.strike/index.html)
+1. [CNN](http://www.cnn.com/2006/WORLD/meast/06/16/gaza.strike/index.html)
+2. [Israeli MFA](http://www.mfa.gov.il/MFA/Terrorism-+Obstacle+to+Peace/Terrorism+and+Islamic+Fundamentalism-/IDF+aerial+attack+against+terror+cell+en+route+to+launch+Katyushas+13-Jun-2006.htm)
 
 ### Related:
 

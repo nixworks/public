@@ -7,8 +7,8 @@ Vancouver-based Lucara Diamond Corp. has failed to sell the tennis-ball sized di
 
 ### Source:
 
-1. [CBC News](http://www.cbc.ca/news/business/lesedi-la-rona-diamond-auction-1.3658464)
-2. [BBC](http://www.bbc.com/news/uk-england-london-36668388)
+1. [BBC](http://www.bbc.com/news/uk-england-london-36668388)
+2. [CBC News](http://www.cbc.ca/news/business/lesedi-la-rona-diamond-auction-1.3658464)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Clashes between Nigerian Shia pilgrims and the police in Kano state kill nine pe
 
 ### Source:
 
-1. [BBC News](http://www.bbc.com/news/world-africa-37975158)
-2. [Al-Jazeera](http://www.aljazeera.com/news/2016/11/nigeria-deaths-kano-police-clash-shia-muslims-161114153510342.html)
+1. [Al-Jazeera](http://www.aljazeera.com/news/2016/11/nigeria-deaths-kano-police-clash-shia-muslims-161114153510342.html)
+2. [BBC News](http://www.bbc.com/news/world-africa-37975158)
 
 ### Related:
 

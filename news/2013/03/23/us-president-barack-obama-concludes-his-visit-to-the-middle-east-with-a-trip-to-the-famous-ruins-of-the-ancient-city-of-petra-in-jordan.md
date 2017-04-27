@@ -7,8 +7,8 @@ US President Barack Obama ends his visit to the Middle East with a trip to the f
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/news/world/story/2013/03/23/obama-petra-jordan.html)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-21909614)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21909614)
+2. [CBC](http://www.cbc.ca/news/world/story/2013/03/23/obama-petra-jordan.html)
 3. [CNN](http://www.cnn.com/2013/03/23/politics/mideast-obama-trip)
 
 ### Related:

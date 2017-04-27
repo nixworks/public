@@ -7,8 +7,8 @@ At least 10 people have been injured after several tourists and a BBC crew were 
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/world/europe/mount-etna-eruption-injured-bbc-crew-tourists-explosion-sicily-a7633286.html)
-2. [Reuters](http://www.reuters.com/article/us-italy-etna-idUSKBN16N270)
+1. [Reuters](http://www.reuters.com/article/us-italy-etna-idUSKBN16N270)
+2. [The Independent](http://www.independent.co.uk/news/world/europe/mount-etna-eruption-injured-bbc-crew-tourists-explosion-sicily-a7633286.html)
 
 ### Related:
 

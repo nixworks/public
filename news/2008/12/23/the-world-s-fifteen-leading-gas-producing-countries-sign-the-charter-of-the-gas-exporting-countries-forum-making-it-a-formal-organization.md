@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [RFE/RL](http://www.rferl.org/content/NaturalGas_Producers_Meeting_In_Moscow_To_Finalize_Forum/1362739.html)
-2. [Xinhua](http://news.xinhuanet.com/english/2008-12/24/content_10552504.htm)
-3. [RBC](http://top.rbc.ru/economics/23/12/2008/270661.shtml)
-4. [BBC](http://news.bbc.co.uk/2/hi/europe/7796806.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/7796806.stm)
+2. [RBC](http://top.rbc.ru/economics/23/12/2008/270661.shtml)
+3. [RFE/RL](http://www.rferl.org/content/NaturalGas_Producers_Meeting_In_Moscow_To_Finalize_Forum/1362739.html)
+4. [Xinhua](http://news.xinhuanet.com/english/2008-12/24/content_10552504.htm)
 
 ### Related:
 

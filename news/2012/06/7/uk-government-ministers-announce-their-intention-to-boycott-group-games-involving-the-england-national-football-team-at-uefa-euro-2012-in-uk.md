@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2012/jun/07/euro-2012-boycott-ukraine-uk-government)
-2. [BBC](http://www.bbc.co.uk/news/uk-politics-18351326)
+1. [BBC](http://www.bbc.co.uk/news/uk-politics-18351326)
+2. [The Guardian](http://www.guardian.co.uk/world/2012/jun/07/euro-2012-boycott-ukraine-uk-government)
 
 ### Related:
 

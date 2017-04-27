@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20070818/hurricane_dean_070818/20070819?hub=World)
-2. [AP via Forbes](http://www.forbes.com/feeds/ap/2007/08/19/ap4033842.html)
+1. [AP via Forbes](http://www.forbes.com/feeds/ap/2007/08/19/ap4033842.html)
+2. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20070818/hurricane_dean_070818/20070819?hub=World)
 
 ### Related:
 

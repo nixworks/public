@@ -8,8 +8,8 @@ NASA&#039;s Mars rover Curiosity has seen evidence of water-bearing minerals in 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-21340279)
-2. [NASA](http://www.nasa.gov/mission_pages/msl/news/msl20130318.html)
-3. [JPL](http://www.jpl.nasa.gov/spaceimages/details.php?id=PIA16795)
+2. [JPL](http://www.jpl.nasa.gov/spaceimages/details.php?id=PIA16795)
+3. [NASA](http://www.nasa.gov/mission_pages/msl/news/msl20130318.html)
 
 ### Related:
 

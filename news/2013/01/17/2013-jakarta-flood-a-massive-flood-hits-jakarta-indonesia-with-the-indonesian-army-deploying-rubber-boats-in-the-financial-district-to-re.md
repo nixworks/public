@@ -8,8 +8,8 @@ At least four people die and thousands are evacuated as flooding hits parts of t
 ### Source:
 
 1. [AP via USA Today](http://www.usatoday.com/story/news/world/2013/01/17/indonesia-floods/1841813/)
-2. [Reuters](http://www.reuters.com/article/2013/01/17/indonesia-floods-idUSL4N0AM37B20130117)
-3. [BBC](http://www.bbc.co.uk/news/world-asia-21054769)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-21054769)
+3. [Reuters](http://www.reuters.com/article/2013/01/17/indonesia-floods-idUSL4N0AM37B20130117)
 
 ### Related:
 

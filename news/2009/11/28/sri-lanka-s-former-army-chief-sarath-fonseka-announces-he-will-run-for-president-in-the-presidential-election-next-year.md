@@ -7,8 +7,8 @@ Sarath Fonseka says he plans to contest presidential polls - Sri Lanka&#039;s fo
 
 ### Source:
 
-1. [Daily News & Analysis](http://www.dnaindia.com/world/report_sarath-fonseka-says-he-plans-to-contest-presidential-polls_1317734)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gHs7-c9V0-ZPeSlGARPSrcBvIRWA)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gHs7-c9V0-ZPeSlGARPSrcBvIRWA)
+2. [Daily News & Analysis](http://www.dnaindia.com/world/report_sarath-fonseka-says-he-plans-to-contest-presidential-polls_1317734)
 
 ### Related:
 

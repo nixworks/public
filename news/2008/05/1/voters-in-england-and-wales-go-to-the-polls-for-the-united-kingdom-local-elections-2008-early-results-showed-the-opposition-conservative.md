@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Telegraph](http://www.telegraph.co.uk/news/newstopics/localelections2008/1919672/Local-elections-2008-Labour-takes-a-local-election-hammering.html)
-2. [The Telegraph](http://www.telegraph.co.uk/news/newstopics/localelections2008/1915828/Local-Election-2008-Tories-eyeing-Labour's-northern-heartlands.html)
+1. [The Telegraph](http://www.telegraph.co.uk/news/newstopics/localelections2008/1915828/Local-Election-2008-Tories-eyeing-Labour's-northern-heartlands.html)
+2. [The Telegraph](http://www.telegraph.co.uk/news/newstopics/localelections2008/1919672/Local-elections-2008-Labour-takes-a-local-election-hammering.html)
 
 ### Related:
 

@@ -7,5 +7,5 @@ A three-panel oil painting by artist Zhang Xiaogang sells for 79m Hong Kong doll
 
 ### Source:
 
-1. [The Hindu](http://www.thehindu.com/news/international/article1598473.ece)
-2. [BBC](http://www.bbc.co.uk/news/entertainment-arts-12954871)
+1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-12954871)
+2. [The Hindu](http://www.thehindu.com/news/international/article1598473.ece)

@@ -7,9 +7,9 @@ The surprise announcement appeared to be an effort to alleviate the domestic unr
 
 ### Source:
 
-1. [NYT](http://www.nytimes.com/2007/11/09/world/europe/09georgia.html?_r=1&ref=world&oref=slogin)
-2. [VOA](http://www.voanews.com/english/2007-11-08-voa21.cfm)
-3. [IHT](http://www.iht.com/articles/2007/11/08/europe/georgia.php)
+1. [IHT](http://www.iht.com/articles/2007/11/08/europe/georgia.php)
+2. [NYT](http://www.nytimes.com/2007/11/09/world/europe/09georgia.html?_r=1&ref=world&oref=slogin)
+3. [VOA](http://www.voanews.com/english/2007-11-08-voa21.cfm)
 
 ### Related:
 

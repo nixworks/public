@@ -7,8 +7,8 @@ A deadly shooting has occurred in the city of Imatra in South-East Finland. Poli
 
 ### Source:
 
-1. [YLE](http://yle.fi/uutiset/osasto/news/three_dead_in_imatra_shooting/9333761)
-2. [AP](http://bigstory.ap.org/article/d07a75abf05a4161b970ed70269df6ec/3-dead-finland-shooting-southeastern-town)
+1. [AP](http://bigstory.ap.org/article/d07a75abf05a4161b970ed70269df6ec/3-dead-finland-shooting-southeastern-town)
+2. [YLE](http://yle.fi/uutiset/osasto/news/three_dead_in_imatra_shooting/9333761)
 
 ### Related:
 

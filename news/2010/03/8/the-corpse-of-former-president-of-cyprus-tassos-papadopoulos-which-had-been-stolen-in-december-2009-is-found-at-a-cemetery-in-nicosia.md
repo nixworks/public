@@ -7,9 +7,9 @@ The body of Tassos Papadopoulos, the former Greek Cypriot president, could have 
 
 ### Source:
 
-1. [Miami Herald](http://www.miamiherald.com/2010/03/08/1519043/cyprus-police-say-found-corpse.html)
-2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/cyprus/7401083/Body-of-former-Greek-Cypriot-president-found-after-three-months.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/europe/8556757.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8556757.stm)
+2. [Miami Herald](http://www.miamiherald.com/2010/03/08/1519043/cyprus-police-say-found-corpse.html)
+3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/cyprus/7401083/Body-of-former-Greek-Cypriot-president-found-after-three-months.html)
 
 ### Related:
 

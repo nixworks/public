@@ -7,8 +7,8 @@ Baba Ramdev goes on indefinite fast in New Delhi to press the government for tou
 
 ### Source:
 
-1. [Hindustan Times](http://www.hindustantimes.com/News-Feed/newdelhi/Police-break-up-camp-remove-Baba-disperse-supporters/Article1-705883.aspx)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia/2011/06/2011645229345153.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia/2011/06/2011645229345153.html)
+2. [Hindustan Times](http://www.hindustantimes.com/News-Feed/newdelhi/Police-break-up-camp-remove-Baba-disperse-supporters/Article1-705883.aspx)
 
 ### Related:
 

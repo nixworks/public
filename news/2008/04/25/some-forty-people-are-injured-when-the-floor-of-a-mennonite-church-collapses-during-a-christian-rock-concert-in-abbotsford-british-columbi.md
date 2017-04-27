@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CTV](http://www.ctvbc.ca/servlet/an/local/CTVNews/20080426/church_floor_080426/20080426/?hub=BritishColumbiaHome)
-2. [CBC](http://www.cbc.ca/canada/british-columbia/story/2008/04/25/bc-abbotsford-church-collapse.html)
+1. [CBC](http://www.cbc.ca/canada/british-columbia/story/2008/04/25/bc-abbotsford-church-collapse.html)
+2. [CTV](http://www.ctvbc.ca/servlet/an/local/CTVNews/20080426/church_floor_080426/20080426/?hub=BritishColumbiaHome)
 
 ### Related:
 

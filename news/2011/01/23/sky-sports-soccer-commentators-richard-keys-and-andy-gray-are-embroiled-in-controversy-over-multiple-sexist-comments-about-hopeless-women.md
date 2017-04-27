@@ -8,9 +8,9 @@ Andy Gray and Richard Keys, the Sky Sports presenters, were forced to apologise 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-12263398)
-2. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/competitions/premier-league/8277518/Sky-Sports-presenters-Andy-Gray-and-Richard-Keys-say-sorry-after-mocking-lineswoman-during-Liverpool-victory.html)
-3. [The Guardian](http://www.guardian.co.uk/global/2011/jan/23/sky-presenters-sexist-remarks-female-official)
-4. [Press Association via Google News](http://www.google.com/hostednews/ukpress/article/ALeqM5iYlKIs9Bz9oYtkxh5N3ObR3fl-iA?docId=N0317121295826704751A)
+2. [Press Association via Google News](http://www.google.com/hostednews/ukpress/article/ALeqM5iYlKIs9Bz9oYtkxh5N3ObR3fl-iA?docId=N0317121295826704751A)
+3. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/competitions/premier-league/8277518/Sky-Sports-presenters-Andy-Gray-and-Richard-Keys-say-sorry-after-mocking-lineswoman-during-Liverpool-victory.html)
+4. [The Guardian](http://www.guardian.co.uk/global/2011/jan/23/sky-presenters-sexist-remarks-female-official)
 
 ### Related:
 

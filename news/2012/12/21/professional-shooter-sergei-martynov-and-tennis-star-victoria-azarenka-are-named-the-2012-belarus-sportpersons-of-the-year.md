@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sport Panorama](http://sportpanorama.by/content/advanced/16941/)
-2. [Grodno News](http://grodnonews.by/ru/0/14042/news)
+1. [Grodno News](http://grodnonews.by/ru/0/14042/news)
+2. [Sport Panorama](http://sportpanorama.by/content/advanced/16941/)
 
 ### Related:
 

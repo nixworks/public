@@ -7,8 +7,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Reuters](http://today.reuters.com/investing/financeArticle.aspx?type=governmentFilingsNews&storyID=URI:urn:newsml:reuters.com:20050712:MTFH33730_2005-07-12_01-08-59_N11517222:1)
-2. [Forbes](http://www.forbes.com/business/feeds/afx/2005/07/11/afx2133002.html)
+1. [Forbes](http://www.forbes.com/business/feeds/afx/2005/07/11/afx2133002.html)
+2. [Reuters](http://today.reuters.com/investing/financeArticle.aspx?type=governmentFilingsNews&storyID=URI:urn:newsml:reuters.com:20050712:MTFH33730_2005-07-12_01-08-59_N11517222:1)
 
 ### Related:
 

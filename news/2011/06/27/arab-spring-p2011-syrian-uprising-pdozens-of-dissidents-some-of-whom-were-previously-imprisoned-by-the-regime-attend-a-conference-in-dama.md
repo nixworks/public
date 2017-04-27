@@ -7,12 +7,12 @@ Government says framework for national dialogue to be set and constitutional cha
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2011/WORLD/africa/06/27/libya.war/index.html?hpt=wo_c2)
-2. [CNN](http://www.cnn.com/2011/WORLD/meast/06/27/bahrain.medics/index.html)
+1. [AFP via France 24](http://www.france24.com/en/20110627-international-criminal-court-rule-icc-hague-gaddafi-arrest-warrant-senussi-al-islam?ns_campaign=nl_obs_en&ns_mchannel=email_marketing&ns_source=BOWE_26_20110627&ns_linkname=20110627_international_criminal_court_rule_icc_hague&ns_fee=0&f24_member_id=1043505976770)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-13924828)
 3. [CBS News](http://www.cbsnews.com/8301-503543_162-20074583-503543.html?tag=stack)
-4. [AFP via France 24](http://www.france24.com/en/20110627-international-criminal-court-rule-icc-hague-gaddafi-arrest-warrant-senussi-al-islam?ns_campaign=nl_obs_en&ns_mchannel=email_marketing&ns_source=BOWE_26_20110627&ns_linkname=20110627_international_criminal_court_rule_icc_hague&ns_fee=0&f24_member_id=1043505976770)
-5. [The Jerusalem Post](http://www.jpost.com/VideoArticles/Video/Article.aspx?id=226824)
-6. [BBC](http://www.bbc.co.uk/news/world-middle-east-13924828)
+4. [CNN](http://www.cnn.com/2011/WORLD/africa/06/27/libya.war/index.html?hpt=wo_c2)
+5. [CNN](http://www.cnn.com/2011/WORLD/meast/06/27/bahrain.medics/index.html)
+6. [The Jerusalem Post](http://www.jpost.com/VideoArticles/Video/Article.aspx?id=226824)
 
 ### Related:
 

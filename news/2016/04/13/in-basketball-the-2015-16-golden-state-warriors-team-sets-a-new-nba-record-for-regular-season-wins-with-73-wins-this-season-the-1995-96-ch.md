@@ -7,8 +7,8 @@ Stephen Curry and the Warriors stand alone in NBA history after a historic 73-9 
 
 ### Source:
 
-1. [Washington Post](https://www.washingtonpost.com/sports/wizards/the-latest-ex-bulls-c-wennington-not-pulling-for-warriors/2016/04/13/7f336192-01d4-11e6-8bb1-f124a43f84dc_story.html)
-2. [Washington Post](https://www.washingtonpost.com/news/sports/wp/2016/04/14/golden-state-warriors-break-1995-96-chicago-bulls-wins-record/?wpisrc=al_alert-COMBO-sports%252Bnation)
+1. [Washington Post](https://www.washingtonpost.com/news/sports/wp/2016/04/14/golden-state-warriors-break-1995-96-chicago-bulls-wins-record/?wpisrc=al_alert-COMBO-sports%252Bnation)
+2. [Washington Post](https://www.washingtonpost.com/sports/wizards/the-latest-ex-bulls-c-wennington-not-pulling-for-warriors/2016/04/13/7f336192-01d4-11e6-8bb1-f124a43f84dc_story.html)
 
 ### Related:
 

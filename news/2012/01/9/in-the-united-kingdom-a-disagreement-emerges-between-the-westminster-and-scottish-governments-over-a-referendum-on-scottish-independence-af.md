@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/home/politics/article/16145034)
-2. [BBC](http://www.bbc.co.uk/news/uk-politics-16463961)
+1. [BBC](http://www.bbc.co.uk/news/uk-politics-16463961)
+2. [Sky News](http://news.sky.com/home/politics/article/16145034)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN Money](http://money.cnn.com/2008/09/11/news/economy/gas_prices/index.htm)
-2. [CNN Money](http://money.cnn.com/2008/09/11/markets/oil/index.htm)
+1. [CNN Money](http://money.cnn.com/2008/09/11/markets/oil/index.htm)
+2. [CNN Money](http://money.cnn.com/2008/09/11/news/economy/gas_prices/index.htm)
 
 ### Related:
 

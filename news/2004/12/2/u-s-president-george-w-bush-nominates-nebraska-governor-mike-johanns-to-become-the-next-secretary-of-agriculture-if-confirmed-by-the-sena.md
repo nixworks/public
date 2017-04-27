@@ -7,8 +7,8 @@ Get the latest breaking news and top news headlines at Reuters.com
 
 ### Source:
 
-1. [Transcript](http://www.washingtonpost.com/wp-dyn/articles/A28542-2004Dec2.html)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6980412)
+1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6980412)
+2. [Transcript](http://www.washingtonpost.com/wp-dyn/articles/A28542-2004Dec2.html)
 
 ### Related:
 

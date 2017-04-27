@@ -7,9 +7,9 @@ A Cork woman arrived back in her native city today after becoming the first Iris
 
 ### Source:
 
-1. [RTÉ Sport](http://www.rte.ie/sport/swimming/2009/0921/cumminsl.html)
-2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0921/breaking65.htm)
-3. [Kent Online](http://www.kentonline.co.uk/kentonline/news/2009/september/21/irish_womans_corking_effort.aspx)
+1. [Kent Online](http://www.kentonline.co.uk/kentonline/news/2009/september/21/irish_womans_corking_effort.aspx)
+2. [RTÉ Sport](http://www.rte.ie/sport/swimming/2009/0921/cumminsl.html)
+3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0921/breaking65.htm)
 
 ### Related:
 

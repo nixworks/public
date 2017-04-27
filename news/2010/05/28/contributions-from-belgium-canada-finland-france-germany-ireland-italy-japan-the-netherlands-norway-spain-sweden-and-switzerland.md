@@ -8,9 +8,9 @@ Bank cancels $36m in remaining debt to help Haiti recover from devastating earth
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/05/201052815164722306.html)
-2. [The New York Times](http://www.nytimes.com/2010/05/29/world/americas/29briefs-haiti.html)
+2. [CNN](http://edition.cnn.com/2010/WORLD/americas/05/28/haiti.world.bank.debt.canceled/)
 3. [Reuters](http://www.reuters.com/article/idUSN2818522520100528)
-4. [CNN](http://edition.cnn.com/2010/WORLD/americas/05/28/haiti.world.bank.debt.canceled/)
+4. [The New York Times](http://www.nytimes.com/2010/05/29/world/americas/29briefs-haiti.html)
 
 ### Related:
 

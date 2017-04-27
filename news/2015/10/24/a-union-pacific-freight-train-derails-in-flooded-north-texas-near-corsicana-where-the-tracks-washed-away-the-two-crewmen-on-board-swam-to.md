@@ -7,8 +7,8 @@ San Antonio man missing after being swept into drainage ditch while walking his 
 
 ### Source:
 
-1. [WFAA blog](http://www.wfaa.com/story/weather/2015/10/24/weather-blog-rain/74523686/)
-2. [CBS News](http://www.cbsnews.com/news/texas-floods-union-pacific-train-derails-as-rains-soak-state/)
+1. [CBS News](http://www.cbsnews.com/news/texas-floods-union-pacific-train-derails-as-rains-soak-state/)
+2. [WFAA blog](http://www.wfaa.com/story/weather/2015/10/24/weather-blog-rain/74523686/)
 
 ### Related:
 

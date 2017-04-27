@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [US News & World Report](http://www.usnews.com/news/newsgram/articles/2013/04/17/ricin-scare-senate-offices-evacuated-obama-mailed-suspicious-substance)
+1. [CNN](http://www.cnn.com/2013/04/17/politics/tainted-letter-intercepted/)
 2. [The Huffington Post](http://www.huffingtonpost.com/2013/04/17/suspicious-package-capitol_n_3101249.html)
-3. [CNN](http://www.cnn.com/2013/04/17/politics/tainted-letter-intercepted/)
+3. [US News & World Report](http://www.usnews.com/news/newsgram/articles/2013/04/17/ricin-scare-senate-offices-evacuated-obama-mailed-suspicious-substance)
 
 ### Related:
 

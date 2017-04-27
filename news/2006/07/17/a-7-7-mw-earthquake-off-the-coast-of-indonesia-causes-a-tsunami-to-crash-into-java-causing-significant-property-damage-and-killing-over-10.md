@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/news/world/2006-07-17-quake_x.htm)
+1. [Associated Press](http://www.foxnews.com/story/0,2933,203914,00.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/5186844.stm)
-3. [Associated Press](http://www.foxnews.com/story/0,2933,203914,00.html)
-4. [CBS News](http://www.cbsnews.com/stories/2006/07/17/world/main1807316.shtml)
+3. [CBS News](http://www.cbsnews.com/stories/2006/07/17/world/main1807316.shtml)
+4. [USA Today](http://www.usatoday.com/news/world/2006-07-17-quake_x.htm)
 
 ### Related:
 

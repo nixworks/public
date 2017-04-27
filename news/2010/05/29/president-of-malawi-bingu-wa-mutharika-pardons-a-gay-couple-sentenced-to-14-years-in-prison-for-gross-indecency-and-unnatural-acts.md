@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Hindustan Times](http://www.hindustantimes.com/Malawi-president-pardons-jailed-gay-couple/Article1-550378.aspx)
-2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-05/29/c_13322913.htm)
-3. [CNN](http://edition.cnn.com/2010/WORLD/africa/05/29/malawi.gay.couple/index.html)
-4. [BBC](http://news.bbc.co.uk/2/hi/africa/10190653.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/10190653.stm)
+2. [CNN](http://edition.cnn.com/2010/WORLD/africa/05/29/malawi.gay.couple/index.html)
+3. [Hindustan Times](http://www.hindustantimes.com/Malawi-president-pardons-jailed-gay-couple/Article1-550378.aspx)
+4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-05/29/c_13322913.htm)
 
 ### Related:
 

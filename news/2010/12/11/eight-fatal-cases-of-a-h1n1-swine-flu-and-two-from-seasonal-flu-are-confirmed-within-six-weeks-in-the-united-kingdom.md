@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Daily Mail](http://www.dailymail.co.uk/health/article-1337882/Swine-flu-Ten-deaths-raise-fears-new-epidemic.html)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i5vdhrvBxgerVyZefzGOxYMlH_-w)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i5vdhrvBxgerVyZefzGOxYMlH_-w)
+2. [Daily Mail](http://www.dailymail.co.uk/health/article-1337882/Swine-flu-Ten-deaths-raise-fears-new-epidemic.html)
 
 ### Related:
 

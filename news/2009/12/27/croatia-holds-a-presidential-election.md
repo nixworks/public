@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC News](http://news.bbc.co.uk/1/hi/world/europe/8431508.stm)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gjaudeumQMqJ5IJdRR3k0xNpkwfw)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gjaudeumQMqJ5IJdRR3k0xNpkwfw)
+2. [BBC News](http://news.bbc.co.uk/1/hi/world/europe/8431508.stm)
 
 ### Related:
 

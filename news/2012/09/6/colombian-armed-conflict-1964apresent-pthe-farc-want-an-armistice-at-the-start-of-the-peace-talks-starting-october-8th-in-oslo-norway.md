@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Montreal Gazette](http://www.montrealgazette.com/news/Colombias+FARC+guerrilla+group+names+negotiators+Oslo+peace+talks/7199953/story.html)
+1. [Cubasi](http://news.cubasi.cu/index.php?option=com_k2&view=item&id=1883:colombia-names-team-for-talks-with-farc-rebels)
 2. [EPE, RFR via ''Reformatorisch Dagblad](http://translate.google.com/translate?sl=nl&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&layout=2&eotf=1&u=http%3A%2F%2Fwww.refdag.nl%2Fnieuws%2Fbuitenland%2Ffarc_wil_bestand_bij_start_onderhandelingen_1_672636&act=url)
-3. [Cubasi](http://news.cubasi.cu/index.php?option=com_k2&view=item&id=1883:colombia-names-team-for-talks-with-farc-rebels)
+3. [Montreal Gazette](http://www.montrealgazette.com/news/Colombias+FARC+guerrilla+group+names+negotiators+Oslo+peace+talks/7199953/story.html)
 
 ### Related:
 

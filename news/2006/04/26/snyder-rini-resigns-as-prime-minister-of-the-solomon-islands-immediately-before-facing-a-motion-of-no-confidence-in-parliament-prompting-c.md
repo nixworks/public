@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [VoA](http://voanews.com/english/2006-04-26-voa8.cfm)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4945090.stm)
-3. [NZ Herald](http://www.nzherald.co.nz/section/story.cfm?c_id=2&ObjectID=10379008)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4945090.stm)
+2. [NZ Herald](http://www.nzherald.co.nz/section/story.cfm?c_id=2&ObjectID=10379008)
+3. [VoA](http://voanews.com/english/2006-04-26-voa8.cfm)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/russia/20120721/174715444.html)
-2. [Kremlin.ru](http://www.kremlin.ru/acts/16041)
+1. [Kremlin.ru](http://www.kremlin.ru/acts/16041)
+2. [RIA Novosti](http://en.rian.ru/russia/20120721/174715444.html)
 3. [The Washington Post](http://www.washingtonpost.com/business/putin-signs-protocol-for-russia-to-join-world-trade-organization/2012/07/21/gJQAYM5O0W_story.html)
 
 ### Related:

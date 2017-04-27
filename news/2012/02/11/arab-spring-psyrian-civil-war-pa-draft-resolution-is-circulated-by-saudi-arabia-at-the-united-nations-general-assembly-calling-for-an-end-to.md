@@ -7,15 +7,15 @@ Several wounded in second day of violence involving supporters and opponents of 
 
 ### Source:
 
-1. [Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=257400)
-2. [Associated Press](http://www.washingtonpost.com/world/middle-east/bahrain-rights-activist-says-2-americans-detained-in-crackdowns-before-uprising-anniversary/2012/02/11/gIQADaMT6Q_story.html)
-3. [AFP](http://www.france24.com/en/20120211-bahrain-forces-tear-gas-shiite-led-protests)
-4. [China Radio International](http://english.cri.cn/6966/2012/02/11/2941s680500.htm)
-5. [News Limited](http://www.news.com.au/breaking-news/aussie-journo-us-student-arrested-in-egypt/story-e6frfku0-1226268760774)
-6. [BBC](http://www.bbc.co.uk/news/world-middle-east-16994374)
-7. [BBC](http://www.bbc.co.uk/news/world-middle-east-16995279)
-8. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/02/201221164950683693.html)
-9. [Al-Jazeera](http://blogs.aljazeera.com/liveblog/egypt-feb-12-2012-0110)
+1. [AFP](http://www.france24.com/en/20120211-bahrain-forces-tear-gas-shiite-led-protests)
+2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/02/201221164950683693.html)
+3. [Al-Jazeera](http://blogs.aljazeera.com/liveblog/egypt-feb-12-2012-0110)
+4. [Associated Press](http://www.washingtonpost.com/world/middle-east/bahrain-rights-activist-says-2-americans-detained-in-crackdowns-before-uprising-anniversary/2012/02/11/gIQADaMT6Q_story.html)
+5. [BBC](http://www.bbc.co.uk/news/world-middle-east-16994374)
+6. [BBC](http://www.bbc.co.uk/news/world-middle-east-16995279)
+7. [China Radio International](http://english.cri.cn/6966/2012/02/11/2941s680500.htm)
+8. [Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=257400)
+9. [News Limited](http://www.news.com.au/breaking-news/aussie-journo-us-student-arrested-in-egypt/story-e6frfku0-1226268760774)
 
 ### Related:
 

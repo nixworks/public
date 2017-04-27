@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2014/12/01/world/asia/protesters-storm-hong-kong-leaders-office-as-movement-flags.html?_r=0)
-2. [AP via Fox News](http://www.foxnews.com/world/2014/12/01/dozens-arrested-after-hong-kong-protesters-clash-with-police/)
+1. [AP via Fox News](http://www.foxnews.com/world/2014/12/01/dozens-arrested-after-hong-kong-protesters-clash-with-police/)
+2. [New York Times](http://www.nytimes.com/2014/12/01/world/asia/protesters-storm-hong-kong-leaders-office-as-movement-flags.html?_r=0)
 
 ### Related:
 

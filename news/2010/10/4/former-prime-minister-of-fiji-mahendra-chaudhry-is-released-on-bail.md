@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Indian Express](http://www.indianexpress.com/news/fiji-opposition-leader-released-says-will-fight-charges/692278/)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11460749)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11460749)
+2. [Indian Express](http://www.indianexpress.com/news/fiji-opposition-leader-released-says-will-fight-charges/692278/)
 
 ### Related:
 

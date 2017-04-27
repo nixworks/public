@@ -7,9 +7,9 @@ Dozens of people were arrested and several injured after violent clashes between
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/7489008/English-Defence-League-and-anti-fascist-protesters-clash-in-Bolton.html)
-2. [The Times](http://www.timesonline.co.uk/tol/news/uk/crime/article7069609.ece)
-3. [BBC](http://news.bbc.co.uk/1/hi/england/manchester/8577777.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/england/manchester/8577777.stm)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/7489008/English-Defence-League-and-anti-fascist-protesters-clash-in-Bolton.html)
+3. [The Times](http://www.timesonline.co.uk/tol/news/uk/crime/article7069609.ece)
 
 ### Related:
 

@@ -7,8 +7,8 @@ A suicide bomber said to be aged 12 kills four people in east Afghanistan, one o
 
 ### Source:
 
-1. [The Australian](http://www.theaustralian.com.au/news/world/taliban-use-child-12-in-suicide-mission-as-part-of-new-wave-of-attacks/story-e6frg6so-1226048171603)
-2. [BBC](http://www.bbc.co.uk/news/world-south-asia-13252786)
+1. [BBC](http://www.bbc.co.uk/news/world-south-asia-13252786)
+2. [The Australian](http://www.theaustralian.com.au/news/world/taliban-use-child-12-in-suicide-mission-as-part-of-new-wave-of-attacks/story-e6frg6so-1226048171603)
 
 ### Related:
 

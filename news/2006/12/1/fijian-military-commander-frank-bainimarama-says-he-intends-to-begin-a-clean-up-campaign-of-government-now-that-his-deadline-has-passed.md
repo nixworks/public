@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NZ Herald](http://www.nzherald.co.nz/section/story.cfm?c_id=2&ObjectID=10413232)
-2. [ABC News Australia](http://www.abc.net.au/news/newsitems/200612/s1802222.htm)
+1. [ABC News Australia](http://www.abc.net.au/news/newsitems/200612/s1802222.htm)
+2. [NZ Herald](http://www.nzherald.co.nz/section/story.cfm?c_id=2&ObjectID=10413232)
 
 ### Related:
 

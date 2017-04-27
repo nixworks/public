@@ -7,8 +7,8 @@ Three suicide attacks have hit an island on Lake Chad, killing at least 27 peopl
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-africa-35015556)
-2. [Al Jazeera](http://www.aljazeera.com/news/2015/12/triple-suicide-blast-kills-dozens-lake-chad-island-151205143809638.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/2015/12/triple-suicide-blast-kills-dozens-lake-chad-island-151205143809638.html)
+2. [BBC](http://www.bbc.com/news/world-africa-35015556)
 
 ### Related:
 

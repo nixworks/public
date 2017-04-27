@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Spengler Cup](http://www.spenglercup.ch/news/news-tagesgeschehen/news-ausgewaehlt/items/team-canada-stuermt-souveraen-zum-spengler-cup-titel)
+1. [HockeyFans.at](http://www.hockeyfans.at/c/6/hockeyfansat/n/44298/spengler-cup--kanada-triumphiert-mit-kantersieg-%C3%BCber-davos.html)
 2. [NZZ.ch](http://www.nzz.ch/aktuell/sport/spengler-cup/hc-davos-im-final-chancenlos-1.17916007)
-3. [HockeyFans.at](http://www.hockeyfans.at/c/6/hockeyfansat/n/44298/spengler-cup--kanada-triumphiert-mit-kantersieg-%C3%BCber-davos.html)
+3. [Spengler Cup](http://www.spenglercup.ch/news/news-tagesgeschehen/news-ausgewaehlt/items/team-canada-stuermt-souveraen-zum-spengler-cup-titel)
 
 ### Related:
 

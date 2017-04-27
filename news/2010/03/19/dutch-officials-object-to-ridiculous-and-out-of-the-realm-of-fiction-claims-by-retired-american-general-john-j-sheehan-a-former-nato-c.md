@@ -7,8 +7,8 @@ Former US general says 1995 massacre due in part to Dutch army allowing gay troo
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/world/story/2010/03/19/dutch-gay-troops.html?ref=rss&loomia_si=t0:a16:g4:r3:c0:b0)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/03/2010319133515778679.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/03/2010319133515778679.html)
+2. [CBC](http://www.cbc.ca/world/story/2010/03/19/dutch-gay-troops.html?ref=rss&loomia_si=t0:a16:g4:r3:c0:b0)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/northamerica/usa/7478738/Gay-Dutch-soldiers-responsible-for-Srebrenica-massacre-says-US-general.html)
 
 ### Related:

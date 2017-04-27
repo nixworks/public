@@ -13,7 +13,7 @@ _Context: Al-Awamiyah, Eastern Province, Nimr al-Nimr_
 Islamic State militants attacked checkpoints near the Libyan oil port of Es Sider for a second day on Tuesday and an oil storage tank in the port was set on fire by a long-range rocket, a spokesman for the security guards said.
 
 ### [The Islamic State, following Saudi Arabia's  execution of 47 people on Saturday,  threatens to destroy Saudi Arabia's Tarfiya  and al-Ha'ir Prisons holding Al-Qaeda and ISIL supporters. ](/news/2016/01/5/the-islamic-state-following-saudi-arabia-s-execution-of-47-people-on-saturday-threatens-to-destroy-saudi-arabia-s-tarfiya-and-al-ha-ir.md)
-_Context: Islamic State of Iraq and the Levant, Saudi Arabia, al-Ha'ir Prison, al-Qaida_
+_Context: ISIL, Saudi Arabia, al-Ha'ir Prison, al-Qaida_
 
 ### [A bus catches fire in the Chinese city of Yinchuan resulting in at least 14 deaths and over 30 injured. ](/news/2016/01/5/a-bus-catches-fire-in-the-chinese-city-of-yinchuan-resulting-in-at-least-14-deaths-and-over-30-injured.md)
 A Chinese man upset over a financial dispute set fire to a moving bus and fled as the flames trapped people inside, killing 17 of them and injuring 32, authorities and state media said.
@@ -34,7 +34,7 @@ _Context: Gao Jin, Ground Force, Li Zuocheng, Liu Fulian, People's Liberation Ar
 _Context: Deputy Communist Party Secretary, Lu Xiwen_
 
 ### [On January 18, 2016, the British Parliament will debate a petition, signed by more than 560,000 people, calling for the Home Secretary to ban United States Republican Party presidential candidate Donald Trump from entering the United Kingdom because of 'hate speech' that is unacceptable behavior, non-conducive to the public good. The  conclusion reached by the lawmakers will not be binding on the UK government. ](/news/2016/01/5/on-january-18-2016-the-british-parliament-will-debate-a-petition-signed-by-more-than-560-000-people-calling-for-the-home-secretary-to-ba.md)
-_Context: 2016 U.S. presidential election, British, British Parliament, Donald Trump, Home Secretary, Republican Party presidential candidate, U.S., United Kingdom, hate speech_
+_Context: 2016 U.S. presidential election, British, British Parliament, Donald Trump, Home Secretary, Republican Party presidential candidate, United Kingdom, United States, hate speech_
 
 ### [The United Kingdom's Prime Minister David Cameron announces he will suspend collective responsibility ahead of the referendum on the country's EU membership, allowing ministers to campaign for the UK to leave the European Union. A member of his cabinet was reportedly due to resign over the issue within 24 hours. ](/news/2016/01/5/the-united-kingdom-s-prime-minister-david-cameron-announces-he-will-suspend-collective-responsibility-ahead-of-the-referendum-on-the-country.md)
 The Prime Minister announces that he will suspend collective responsibility ahead of the referendum amid fears in Downing Street that Chris Grayling was planning to resign over the issue

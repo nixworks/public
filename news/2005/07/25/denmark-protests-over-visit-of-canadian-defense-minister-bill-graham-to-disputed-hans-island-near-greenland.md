@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/canada/story/2005/07/25/hansisland050725.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/4715245.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4715245.stm)
+2. [CBC](http://www.cbc.ca/canada/story/2005/07/25/hansisland050725.html)
 
 ### Related:
 

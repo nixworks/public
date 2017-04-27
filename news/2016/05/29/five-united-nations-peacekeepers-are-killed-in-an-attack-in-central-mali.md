@@ -7,8 +7,8 @@ Five United Nations peacekeepers were killed and one other seriously injured in 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-mali-security-un-idUSKCN0YK0M8)
-2. [NY Times](http://www.nytimes.com/aponline/2016/05/29/world/africa/ap-af-mali-violence.html?_r=1)
+1. [NY Times](http://www.nytimes.com/aponline/2016/05/29/world/africa/ap-af-mali-violence.html?_r=1)
+2. [Reuters](http://www.reuters.com/article/us-mali-security-un-idUSKCN0YK0M8)
 
 ### Related:
 

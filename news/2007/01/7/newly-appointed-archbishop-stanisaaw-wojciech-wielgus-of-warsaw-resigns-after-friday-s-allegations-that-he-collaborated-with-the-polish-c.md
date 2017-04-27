@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/news/articlenews.aspx?type=worldNews&storyID=2007-01-07T102505Z_01_L07772881_RTRUKOC_0_UK-POLAND-CHURCH.xml&WTmodLoc=HP-C3-World-2)
-2. [BBC News](http://news.bbc.co.uk/1/hi/world/europe/6238165.stm)
+1. [BBC News](http://news.bbc.co.uk/1/hi/world/europe/6238165.stm)
+2. [Reuters](http://today.reuters.co.uk/news/articlenews.aspx?type=worldNews&storyID=2007-01-07T102505Z_01_L07772881_RTRUKOC_0_UK-POLAND-CHURCH.xml&WTmodLoc=HP-C3-World-2)
 
 ### Related:
 

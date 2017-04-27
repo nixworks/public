@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Philippine Inquirer](http://newsinfo.inquirer.net/breakingnews/nation/view/20091113-235993/Arroyo-signs-anti-torture-bill-into-law)
-2. [Bangkok Post](http://www.bangkokpost.com/news/asia/159985/philippines-leader-signs-act-outlawing-torture)
+1. [Bangkok Post](http://www.bangkokpost.com/news/asia/159985/philippines-leader-signs-act-outlawing-torture)
+2. [Philippine Inquirer](http://newsinfo.inquirer.net/breakingnews/nation/view/20091113-235993/Arroyo-signs-anti-torture-bill-into-law)
 
 ### Related:
 

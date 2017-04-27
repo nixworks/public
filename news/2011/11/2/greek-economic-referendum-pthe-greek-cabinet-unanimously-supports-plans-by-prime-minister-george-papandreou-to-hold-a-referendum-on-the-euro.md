@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Wall Street Journal](http://online.wsj.com/article/BT-CO-20111102-722798.html)
-2. [AP via Newser](http://www.newser.com/article/d9qo9hfg0/greek-govt-spokesman-cabinet-backs-papandreou-referendum-to-be-held-as-soon-as-possible.html)
-3. [Market Watch](http://www.marketwatch.com/story/sarkozy-says-greece-aid-awaits-plan-adoption-2011-11-02?link=MW_latest_news)
+1. [AP via Newser](http://www.newser.com/article/d9qo9hfg0/greek-govt-spokesman-cabinet-backs-papandreou-referendum-to-be-held-as-soon-as-possible.html)
+2. [Market Watch](http://www.marketwatch.com/story/sarkozy-says-greece-aid-awaits-plan-adoption-2011-11-02?link=MW_latest_news)
+3. [Wall Street Journal](http://online.wsj.com/article/BT-CO-20111102-722798.html)
 
 ### Related:
 

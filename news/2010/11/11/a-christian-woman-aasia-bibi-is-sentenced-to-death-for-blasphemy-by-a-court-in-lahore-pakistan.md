@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [National Post](http://www.nationalpost.com/news/world/Christian+woman+sentenced+death+blasphemy+Pakistan/3816025/story.html)
-2. [Daily Times](http://www.dailytimes.com.pk/default.asp?page=2010\11\12\story_12-11-2010_pg1_4)
+1. [Daily Times](http://www.dailytimes.com.pk/default.asp?page=2010\11\12\story_12-11-2010_pg1_4)
+2. [National Post](http://www.nationalpost.com/news/world/Christian+woman+sentenced+death+blasphemy+Pakistan/3816025/story.html)
 
 ### Related:
 

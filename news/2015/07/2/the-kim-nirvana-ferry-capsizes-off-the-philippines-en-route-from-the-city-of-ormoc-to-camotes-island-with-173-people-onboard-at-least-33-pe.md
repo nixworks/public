@@ -7,8 +7,8 @@ The death toll from the ferry that capsized in the central Philippines rises to 
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-asia-33358610)
-2. [ (AFP via ABC Online](http://www.abc.net.au/news/2015-07-02/ferry-with-173-on-board-capsizes-in-philippines-coast-guard/6591142)
+1. [ (AFP via ABC Online](http://www.abc.net.au/news/2015-07-02/ferry-with-173-on-board-capsizes-in-philippines-coast-guard/6591142)
+2. [BBC](http://www.bbc.com/news/world-asia-33358610)
 
 ### Related:
 

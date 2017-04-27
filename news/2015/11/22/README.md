@@ -10,7 +10,7 @@ At least 14 militants who had sworn allegiance to Islamic State have been killed
 Belgian police sealed off streets in the centre of Brussels during raids late on Sunday night. Armed officers mounted several security operations –
 
 ### [Islamic State militants counter-attack in Iraq's Saladin province and seize locations west, north and south of Baiji, home to Iraq's largest oil refinery. In addition, the militants attack oilfields west of Tikrit, capture parts of the town of Seiniyah, portions of Mak'houl Mountain, and an abandoned fertilizer plant. ](/news/2015/11/22/islamic-state-militants-counter-attack-in-iraq-s-saladin-province-and-seize-locations-west-north-and-south-of-baiji-home-to-iraq-s-largest.md)
-_Context: Baiji, Iraq, Iraqi Civil War (2014–present), Islamic State of Iraq and the Levant, Saladin province, Salahuddin campaign, Tikrit_
+_Context: Baiji, ISIL, Iraq, Iraqi Civil War (2014–present), Saladin province, Salahuddin campaign, Tikrit_
 
 ### [A Palestinian terrorist fatally stabs a 21-year-old Israeli woman at the Gush Etzion junction in the West Bank; the attacker is shot and killed by Israeli soldiers.  ](/news/2015/11/22/a-palestinian-terrorist-fatally-stabs-a-21-year-old-israeli-woman-at-the-gush-etzion-junction-in-the-west-bank-the-attacker-is-shot-and-kil.md)
 Earlier, Palestinian taxi driver tries to stab Israeli after failing to run over pedestrians near Jerusalem; 16-year-old Palestinian girl tries to stab Israelis near Itamar, run over by former head of Samaria regional council, and shot dead.
@@ -49,7 +49,7 @@ _Context: Kim Young-sam, President, Seoul, South Korea_
 _Context: Cairo, Egypt, Egyptian parliamentary election, 2015_
 
 ### [United States President Barack Obama orders an assessment of whether intelligence reports from U.S. Central Command were changed by supervisory military personnel before formal submission to present a more optimistic picture of the American military campaign against Daesh (Islamic State). The Pentagon's Office of the Inspector General investigators seized emails from military servers over the last few weeks. ](/news/2015/11/22/united-states-president-barack-obama-orders-an-assessment-of-whether-intelligence-reports-from-u-s-central-command-were-changed-by-supervis.md)
-_Context: Barack Obama, CENTCOM, Islamic State of Iraq and the Levant, Pentagon's Office of the Inspector General, U.S. President, U.S. military personnel_
+_Context: Barack Obama, CENTCOM, ISIL, Pentagon's Office of the Inspector General, U.S. President, U.S. military personnel_
 
 ### [Nola, a 41-year-old female northern white rhino, dies at the San Diego Zoo Safari Park. She was euthanized after her health took a turn for the worse. Nola was rescued from violent poaching in the southern savanna woodlands of Sudan and came to the park in 1989. Only three animals of this endangered species are known left in the world. ](/news/2015/11/22/nola-a-41-year-old-female-northern-white-rhino-dies-at-the-san-diego-zoo-safari-park-she-was-euthanized-after-her-health-took-a-turn-for.md)
 The 41-year-old rhino has been under veterinary care for a bacterial infection and age-related health issues. Her condition took a turn for the worse over the weekend and the San Diego Zoo Safari Park team “made the difficult decision to euthanize her.”

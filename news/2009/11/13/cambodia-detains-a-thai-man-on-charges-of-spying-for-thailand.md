@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Times Live South Africa](http://www.timeslive.co.za/news/world/article193235.ece)
-2. [Bangkok Post](http://www.bangkokpost.com/news/local/27395/no-overflight-for-thaksin-jet-thai-on-spy-charge)
-3. [Sina](http://english.sina.com/world/p/2009/1112/285135.html)
+1. [Bangkok Post](http://www.bangkokpost.com/news/local/27395/no-overflight-for-thaksin-jet-thai-on-spy-charge)
+2. [Sina](http://english.sina.com/world/p/2009/1112/285135.html)
+3. [Times Live South Africa](http://www.timeslive.co.za/news/world/article193235.ece)
 
 ### Related:
 

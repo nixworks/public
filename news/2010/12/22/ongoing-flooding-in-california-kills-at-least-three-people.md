@@ -7,6 +7,6 @@ Flood waters on Tuesday ripped through a retirement community in northwestern Ar
 
 ### Source:
 
-1. [New York Daily News](http://www.nydailynews.com/news/galleries/california_rain_storms_state_of_emergency/california_rain_storms_state_of_emergency.html)
-2. [Hereald Sun](http://www.heraldsun.com.au/news/breaking-news/womans-body-pulled-from-california-flood-waters-as-rain-subsides/story-e6frf7jx-1225975748528)
-3. [MSNBC](http://www.msnbc.msn.com/id/40770785/ns/weather/)
+1. [Hereald Sun](http://www.heraldsun.com.au/news/breaking-news/womans-body-pulled-from-california-flood-waters-as-rain-subsides/story-e6frf7jx-1225975748528)
+2. [MSNBC](http://www.msnbc.msn.com/id/40770785/ns/weather/)
+3. [New York Daily News](http://www.nydailynews.com/news/galleries/california_rain_storms_state_of_emergency/california_rain_storms_state_of_emergency.html)

@@ -9,11 +9,11 @@ More than 260 people are reported killed after a major earthquake hits north-eas
 
 1. [AP](http://bigstory.ap.org/article/f92c69a9afaa45c698d9b3892a02996f/latest-strong-afghan-earthquake-felt-across-south-asia)
 2. [BBC](http://www.bbc.com/news/world-asia-34636269)
-3. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/us10003re5#general_summary)
-4. [Dawn](http://www.dawn.com/news/1215519/75-magnitude-earthquake-strikes-pakistan-at-least-31-dead)
-5. [Reuters](http://www.reuters.com/article/2015/10/26/earthquake-afghanistan-idUSL3N12Q3C520151026)
-6. [L.A. Times](http://www.latimes.com/world/afghanistan-pakistan/la-fg-afghan-earthquake-20151026-story.html)
-7. [Financial Express](http://www.financialexpress.com/article/miscellaneous/earthquake-hits-delhi/156913/)
+3. [Dawn](http://www.dawn.com/news/1215519/75-magnitude-earthquake-strikes-pakistan-at-least-31-dead)
+4. [Financial Express](http://www.financialexpress.com/article/miscellaneous/earthquake-hits-delhi/156913/)
+5. [L.A. Times](http://www.latimes.com/world/afghanistan-pakistan/la-fg-afghan-earthquake-20151026-story.html)
+6. [Reuters](http://www.reuters.com/article/2015/10/26/earthquake-afghanistan-idUSL3N12Q3C520151026)
+7. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/us10003re5#general_summary)
 
 ### Related:
 

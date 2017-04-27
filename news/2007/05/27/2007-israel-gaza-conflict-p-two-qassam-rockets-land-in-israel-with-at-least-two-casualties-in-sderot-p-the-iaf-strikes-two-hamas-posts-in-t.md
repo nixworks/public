@@ -7,8 +7,8 @@ A Hamas rocket attack from Gaza killed a man in Israel on Sunday and Prime Minis
 
 ### Source:
 
-1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3404813,00.html)
-2. [Reuters](http://www.reuters.com/article/newsOne/idUSL2719466620070527)
+1. [Reuters](http://www.reuters.com/article/newsOne/idUSL2719466620070527)
+2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3404813,00.html)
 
 ### Related:
 

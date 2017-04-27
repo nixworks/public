@@ -7,8 +7,8 @@ Comments by a Syrian exile opposition leader were made to feed fears of a rebel 
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2013/02/10/world/middleeast/cabinet-shift-within-syria-seems-aimed-at-economy.html)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/02/201329142739910513.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/02/201329142739910513.html)
+2. [The New York Times](http://www.nytimes.com/2013/02/10/world/middleeast/cabinet-shift-within-syria-seems-aimed-at-economy.html)
 
 ### Related:
 

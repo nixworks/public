@@ -8,8 +8,8 @@ Irish airspace will close from 7am tomorrow because of an ash cloud drifting dow
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8658738.stm)
-2. [RTÉ](http://www.rte.ie/news/2010/0503/ash.html)
-3. [Herald Sun](http://www.heraldsun.com.au/news/breaking-news/ireland-britain-eye-new-ash-flight-bans/story-e6frf7jx-1225861819060)
+2. [Herald Sun](http://www.heraldsun.com.au/news/breaking-news/ireland-britain-eye-new-ash-flight-bans/story-e6frf7jx-1225861819060)
+3. [RTÉ](http://www.rte.ie/news/2010/0503/ash.html)
 
 ### Related:
 

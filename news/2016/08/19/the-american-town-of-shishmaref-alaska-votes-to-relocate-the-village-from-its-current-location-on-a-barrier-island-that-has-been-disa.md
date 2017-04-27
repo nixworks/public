@@ -7,8 +7,8 @@ The unofficial results show a majority in favor of relocating.
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2016/08/20/us/shishmaref-alaska-elocate-vote-climate-change.html?_r=0&module=ArrowsNav&contentCollection=U.S.&action=keypress&region=FixedLeft&pgtype=article)
-2. [ABC News](http://abcnews.go.com/US/leaving-ancestral-home-alaska-village-votes-move-due/story?id=41482755)
+1. [ABC News](http://abcnews.go.com/US/leaving-ancestral-home-alaska-village-votes-move-due/story?id=41482755)
+2. [The New York Times](http://www.nytimes.com/2016/08/20/us/shishmaref-alaska-elocate-vote-climate-change.html?_r=0&module=ArrowsNav&contentCollection=U.S.&action=keypress&region=FixedLeft&pgtype=article)
 
 ### Related:
 

@@ -8,7 +8,7 @@ Hundreds of protesters gathered in Taipei early on Friday calling for the educat
 ### Source:
 
 1. [AFP via Yahoo](http://news.yahoo.com/student-protester-suicide-deepens-political-row-taiwan-181837575.html)
-2. [Los Angeles Times](http://www.latimes.com/world/asia/la-fg-taiwan-students-protest-20150731-story.html)
-3. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2015/07/31/2003624291)
-4. [BBC](http://www.bbc.com/news/world-asia-33731411)
-5. [AP via Yahoo](http://news.yahoo.com/student-protesters-sit-taiwan-education-ministry-070214072.html)
+2. [AP via Yahoo](http://news.yahoo.com/student-protesters-sit-taiwan-education-ministry-070214072.html)
+3. [BBC](http://www.bbc.com/news/world-asia-33731411)
+4. [Los Angeles Times](http://www.latimes.com/world/asia/la-fg-taiwan-students-protest-20150731-story.html)
+5. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2015/07/31/2003624291)

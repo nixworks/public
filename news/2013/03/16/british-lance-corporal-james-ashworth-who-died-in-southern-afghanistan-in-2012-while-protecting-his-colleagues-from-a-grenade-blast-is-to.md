@@ -7,8 +7,8 @@ A British soldier who died in southern Afghanistan last year as he protected his
 
 ### Source:
 
-1. [The Telegraph](http://www.telegraph.co.uk/news/newsvideo/9937973/Parents-of-Lance-Corporal-James-Ashworth-pay-tribute-to-Victoria-Cross-hero.html)
-2. [BBC](http://www.bbc.co.uk/news/uk-21810581)
+1. [BBC](http://www.bbc.co.uk/news/uk-21810581)
+2. [The Telegraph](http://www.telegraph.co.uk/news/newsvideo/9937973/Parents-of-Lance-Corporal-James-Ashworth-pay-tribute-to-Victoria-Cross-hero.html)
 
 ### Related:
 

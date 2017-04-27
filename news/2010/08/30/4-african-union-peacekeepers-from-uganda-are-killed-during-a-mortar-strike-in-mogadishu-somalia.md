@@ -7,8 +7,8 @@ Four&#x20;Ugandan&#x20;peacekeepers&#x20;were&#x20;killed&#x20;in&#x20;Mogadishu
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-11131813)
-2. [AFP via France24](http://www.france24.com/en/20100830-four-ugandan-peacekeepers-killed-fresh-clashes-somalia-al-shabaab)
+1. [AFP via France24](http://www.france24.com/en/20100830-four-ugandan-peacekeepers-killed-fresh-clashes-somalia-al-shabaab)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-11131813)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Paul Murphy TD has been released from garda custody, following his arrest this m
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/news/politics/arrest-of-paul-murphy-and-others-described-as-way-over-the-top-1.2096687)
+1. [Independent.IE](http://www.independent.ie/irish-news/paul-murphy-td-didnt-think-government-would-be-stupid-enough-to-arrest-him-partner-30975943.html)
 2. [The Irish Times](http://www.irishtimes.com/news/crime-and-law/paul-murphy-says-arrest-designed-to-damage-anti-water-charges-movement-1.2096680)
-3. [Independent.IE](http://www.independent.ie/irish-news/paul-murphy-td-didnt-think-government-would-be-stupid-enough-to-arrest-him-partner-30975943.html)
+3. [The Irish Times](http://www.irishtimes.com/news/politics/arrest-of-paul-murphy-and-others-described-as-way-over-the-top-1.2096687)
 
 ### Related:
 

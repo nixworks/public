@@ -7,8 +7,8 @@ An explosion at a mosque in the Syrian capital on Thursday killed at least 42 pe
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/03/21/us-syria-crisis-blast-idUSBRE92K0X520130321)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/03/2013321174113479353.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/03/2013321174113479353.html)
+2. [Reuters](http://www.reuters.com/article/2013/03/21/us-syria-crisis-blast-idUSBRE92K0X520130321)
 
 ### Related:
 

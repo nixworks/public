@@ -7,8 +7,8 @@ Powerful Typhoon Koppu hit the northern Philippines early Sunday, the country&#x
 
 ### Source:
 
-1. [AP via NBC News](http://www.nbcnews.com/news/weather/super-typhoon-koppu-weakens-still-threatens-philippines-n446666)
-2. [AFP via Yahoo](http://news.yahoo.com/typhoon-koppu-makes-landfall-philippines-weather-agency-224614277.html)
+1. [AFP via Yahoo](http://news.yahoo.com/typhoon-koppu-makes-landfall-philippines-weather-agency-224614277.html)
+2. [AP via NBC News](http://www.nbcnews.com/news/weather/super-typhoon-koppu-weakens-still-threatens-philippines-n446666)
 3. [The Inquirer](http://newsinfo.inquirer.net/732220/thousands-evacuated-stranded-in-ports-no-casualties-reported-ndrrmc)
 4. [UPI](http://www.upi.com/Top_News/World-News/2015/10/18/At-least-1-dead-6-missing-in-Philippines-typhoon/3721445171449/?spt=sec&or=tn)
 

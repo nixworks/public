@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sky News Australia](http://www.skynews.com.au/news/top-stories/2014/06/25/nine-dead-as-ukraine-helicopter-downed.html)
-2. [Reuters](http://www.trust.org/item/20140624100954-ig604)
+1. [Reuters](http://www.trust.org/item/20140624100954-ig604)
+2. [Sky News Australia](http://www.skynews.com.au/news/top-stories/2014/06/25/nine-dead-as-ukraine-helicopter-downed.html)
 
 ### Related:
 

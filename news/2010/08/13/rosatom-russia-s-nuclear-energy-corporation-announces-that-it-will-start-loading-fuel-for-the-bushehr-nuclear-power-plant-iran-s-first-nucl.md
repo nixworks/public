@@ -7,8 +7,8 @@ Iran is set to acquire its first civilian nuclear power plant following Russiaâ€
 
 ### Source:
 
-1. [The Hindu](http://www.thehindu.com/news/international/article568543.ece)
-2. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/08/2010813145028423645.html)
+1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/08/2010813145028423645.html)
+2. [The Hindu](http://www.thehindu.com/news/international/article568543.ece)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Philippine Inquirier](http://newsinfo.inquirer.net/inquirerheadlines/nation/view/20091101-233347/Fast-furious-Santi-hits-Metro-S-Luzon-11-dead)
-2. [CNN](http://edition.cnn.com/2009/WORLD/weather/11/01/philippines.typhoon/)
+1. [CNN](http://edition.cnn.com/2009/WORLD/weather/11/01/philippines.typhoon/)
+2. [Philippine Inquirier](http://newsinfo.inquirer.net/inquirerheadlines/nation/view/20091101-233347/Fast-furious-Santi-hits-Metro-S-Luzon-11-dead)
 
 ### Related:
 

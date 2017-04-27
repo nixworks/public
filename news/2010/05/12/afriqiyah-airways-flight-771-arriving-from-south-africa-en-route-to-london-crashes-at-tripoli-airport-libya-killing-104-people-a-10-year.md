@@ -7,9 +7,9 @@ Minister says Dutch child is the sole survivor as up to 103 people are killed at
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/05/2010512731621627.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8676758.stm)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h4olBn5MsRXoRA5Bc8r5hGloVunQ)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h4olBn5MsRXoRA5Bc8r5hGloVunQ)
+2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/05/2010512731621627.html)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8676758.stm)
 
 ### Related:
 

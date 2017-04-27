@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2005/07/18/2003263979)
-2. [Japan Today](http://www.japantoday.com/e/?content=news&cat=1&id=343758)
-3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=atEPZoAUjEro&refer=top_world_news)
-4. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/158448/1/.html)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=atEPZoAUjEro&refer=top_world_news)
+2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/158448/1/.html)
+3. [Japan Today](http://www.japantoday.com/e/?content=news&cat=1&id=343758)
+4. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2005/07/18/2003263979)
 
 ### Related:
 

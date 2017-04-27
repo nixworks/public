@@ -7,5 +7,5 @@
 
 ### Source:
 
-1. [Seattle Herald](http://www.heraldnet.com/stories/06/08/16/100wir_port4.cfm)
-2. [AP](http://www.breitbart.com/news/2006/08/16/D8JHON2O1.html)
+1. [AP](http://www.breitbart.com/news/2006/08/16/D8JHON2O1.html)
+2. [Seattle Herald](http://www.heraldnet.com/stories/06/08/16/100wir_port4.cfm)

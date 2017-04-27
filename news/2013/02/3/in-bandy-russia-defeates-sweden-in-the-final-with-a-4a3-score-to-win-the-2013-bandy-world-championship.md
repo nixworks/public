@@ -7,9 +7,9 @@ Russia has reclaimed the world bandy crown beating reigning holders Sweden in th
 
 ### Source:
 
-1. [World Bandy](http://www.worldbandy.com/news.asp?newsid=454)
-2. [RT](http://rt.com/sport/russia-wins-world-bandy-champs-354/)
-3. [The Local](http://www.thelocal.se/45980/20130204/)
+1. [RT](http://rt.com/sport/russia-wins-world-bandy-champs-354/)
+2. [The Local](http://www.thelocal.se/45980/20130204/)
+3. [World Bandy](http://www.worldbandy.com/news.asp?newsid=454)
 
 ### Related:
 

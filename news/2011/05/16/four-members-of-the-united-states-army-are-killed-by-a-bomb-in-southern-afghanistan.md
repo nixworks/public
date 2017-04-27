@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via NPR](http://www.npr.org/templates/story/story.php?storyId=136364527)
-2. [AP via ''Anchorage Daily News](http://www.adn.com/2011/05/16/1865919/three-alaska-based-soldiers-die.html#ixzz1MZEATnAH)
+1. [AP via ''Anchorage Daily News](http://www.adn.com/2011/05/16/1865919/three-alaska-based-soldiers-die.html#ixzz1MZEATnAH)
+2. [AP via NPR](http://www.npr.org/templates/story/story.php?storyId=136364527)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Webindia123](http://news.webindia123.com/news/Articles/Asia/20071125/832406.html)
+1. [France24 News](http://www.france24.com/france24Public/en/news/world/20071125-russia-garry-kasparov-arrested-moscow-opposition-protest.html)
 2. [RIA Novosti](http://en.rian.ru/russia/20071124/89427826.html)
-3. [France24 News](http://www.france24.com/france24Public/en/news/world/20071125-russia-garry-kasparov-arrested-moscow-opposition-protest.html)
+3. [Webindia123](http://news.webindia123.com/news/Articles/Asia/20071125/832406.html)
 
 ### Related:
 

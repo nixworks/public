@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-12/24/c_13662147.htm)
-2. [Colombia Reports](http://www.colombiareports.com/colombia-news/news/13493-20-missing-after-north-colombia-landslide.html)
+1. [Colombia Reports](http://www.colombiareports.com/colombia-news/news/13493-20-missing-after-north-colombia-landslide.html)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-12/24/c_13662147.htm)
 
 ### Related:
 

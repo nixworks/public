@@ -7,12 +7,12 @@ The collector who sold a rare signed copy of Hitler&rsquo;s Mein Kampf at auctio
 
 ### Source:
 
-1. [Evening Herald](http://www.herald.ie/world-news/signed-mein-kampf-sells-for-euro24400-1859956.html)
-2. [The Guardian](http://www.guardian.co.uk/world/2009/aug/13/adolf-hitler-mein-kampf-auction)
-3. [Toronto Star](http://www.thestar.com/news/world/article/681118)
-4. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/shropshire/8200691.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/shropshire/8200691.stm)
+2. [Evening Herald](http://www.herald.ie/world-news/signed-mein-kampf-sells-for-euro24400-1859956.html)
+3. [The Guardian](http://www.guardian.co.uk/world/2009/aug/13/adolf-hitler-mein-kampf-auction)
+4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0814/breaking41.htm)
 5. [The New York Times](http://www.nytimes.com/2009/08/14/world/europe/14briefs-britainauction.html)
-6. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0814/breaking41.htm)
+6. [Toronto Star](http://www.thestar.com/news/world/article/681118)
 
 ### Related:
 

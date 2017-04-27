@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-philippines-blast-idUSKCN11824W)
-2. [ABS-CBN](http://news.abs-cbn.com/news/09/02/16/davao-blast-death-toll-rises-to-14-67-others-hurt)
-3. [ABS-CBN](http://news.abs-cbn.com/news/09/03/16/abu-sayyaf-owns-up-to-davao-blast-warns-of-more-attacks)
+1. [ABS-CBN](http://news.abs-cbn.com/news/09/02/16/davao-blast-death-toll-rises-to-14-67-others-hurt)
+2. [ABS-CBN](http://news.abs-cbn.com/news/09/03/16/abu-sayyaf-owns-up-to-davao-blast-warns-of-more-attacks)
+3. [Reuters](http://www.reuters.com/article/us-philippines-blast-idUSKCN11824W)
 
 ### Related:
 

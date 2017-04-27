@@ -7,8 +7,8 @@ Bonnie Raines: Like Snowden, we broke laws to reveal something that was more dan
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2014/01/07/us/burglars-who-took-on-fbi-abandon-shadows.html?hp&pagewanted=all)
-2. [New York Magazine](http://nymag.com/daily/intelligencer/2014/01/activists-confess-to-1971-fbi-office-burglary.html)
+1. [New York Magazine](http://nymag.com/daily/intelligencer/2014/01/activists-confess-to-1971-fbi-office-burglary.html)
+2. [New York Times](http://www.nytimes.com/2014/01/07/us/burglars-who-took-on-fbi-abandon-shadows.html?hp&pagewanted=all)
 3. [The Guardian](http://www.theguardian.com/commentisfree/2014/jan/07/fbi-1971-burglary-hold-government-accountable)
 
 ### Related:

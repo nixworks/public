@@ -7,9 +7,9 @@ India&#39;s largest aluminum producer announces plans to acquire Atlanta-based c
 
 ### Source:
 
-1. [NYTimes](http://www.nytimes.com/2007/02/12/business/worldbusiness/12alum.html)
+1. [BusinessWeek](http://www.businessweek.com/globalbiz/content/feb2007/gb20070212_419116.htm)
 2. [Forbes](http://www.forbes.com/2007/02/11/mergers-acquisitions-aluminum-biz-cx_0211hindalco.html)
-3. [BusinessWeek](http://www.businessweek.com/globalbiz/content/feb2007/gb20070212_419116.htm)
+3. [NYTimes](http://www.nytimes.com/2007/02/12/business/worldbusiness/12alum.html)
 
 ### Related:
 

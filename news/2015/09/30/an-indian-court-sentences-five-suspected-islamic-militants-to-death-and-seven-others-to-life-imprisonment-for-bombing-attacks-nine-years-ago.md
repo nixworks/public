@@ -7,9 +7,9 @@ A court sentenced five men to death and jailed seven for life on Wednesday for p
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-asia-india-34398810)
-2. [Reuters](http://in.reuters.com/article/2015/09/30/india-blast-sentence-mumbai-train-idINKCN0RU0KZ20150930)
-3. [AP via ABC News](http://abcnews.go.com/International/wireStory/court-death-mumbai-train-bombings-years-ago-34142525)
+1. [AP via ABC News](http://abcnews.go.com/International/wireStory/court-death-mumbai-train-bombings-years-ago-34142525)
+2. [BBC](http://www.bbc.com/news/world-asia-india-34398810)
+3. [Reuters](http://in.reuters.com/article/2015/09/30/india-blast-sentence-mumbai-train-idINKCN0RU0KZ20150930)
 
 ### Related:
 

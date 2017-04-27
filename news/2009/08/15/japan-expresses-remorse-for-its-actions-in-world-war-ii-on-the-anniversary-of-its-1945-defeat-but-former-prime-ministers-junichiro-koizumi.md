@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Straits Times](http://www.straitstimes.com/Breaking%2BNews/Asia/Story/STIStory_417113.html)
-2. [Mainichi Daily News](http://mdn.mainichi.jp/mdnnews/news/20090815p2a00m0na019000c.html)
+1. [Mainichi Daily News](http://mdn.mainichi.jp/mdnnews/news/20090815p2a00m0na019000c.html)
+2. [The Straits Times](http://www.straitstimes.com/Breaking%2BNews/Asia/Story/STIStory_417113.html)
 
 ### Related:
 

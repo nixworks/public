@@ -7,9 +7,9 @@ Air Chief Marshal Sir Jock Stirrup is to quit as head of the armed forces in the
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/13/c_13349158.htm)
-2. [BBC](http://news.bbc.co.uk/2/hi/politics/10303009.stm)
-3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0613/breaking19.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/politics/10303009.stm)
+2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0613/breaking19.html)
+3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/13/c_13349158.htm)
 
 ### Related:
 

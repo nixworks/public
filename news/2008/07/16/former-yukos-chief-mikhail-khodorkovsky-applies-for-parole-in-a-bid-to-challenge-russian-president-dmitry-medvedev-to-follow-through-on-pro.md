@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The International Herald Tribune](http://www.iht.com/articles/2008/07/16/europe/moscow.php)
-2. [AP via Google News](http://ap.google.com/article/ALeqM5iWavqRQsHH6JDam8OxyVkK6sSytQD91V4T3G0)
+1. [AP via Google News](http://ap.google.com/article/ALeqM5iWavqRQsHH6JDam8OxyVkK6sSytQD91V4T3G0)
+2. [The International Herald Tribune](http://www.iht.com/articles/2008/07/16/europe/moscow.php)
 
 ### Related:
 

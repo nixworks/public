@@ -7,8 +7,8 @@ A police officer has been killed in a car bomb blast near Bilbao, in Spain&#39;s
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2009/0619/spain.html)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jTg6ukozl01MP0Ts792vFSF1sc3gD98TNRUG0)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jTg6ukozl01MP0Ts792vFSF1sc3gD98TNRUG0)
+2. [RTÉ](http://www.rte.ie/news/2009/0619/spain.html)
 
 ### Related:
 

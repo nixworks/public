@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Independent](http://news.independent.co.uk/uk/politics/article2786096.ece)
-2. [Reuters via News Limited](http://www.news.com.au/story/0,10117,22106603-401,00.html)
+1. [Reuters via News Limited](http://www.news.com.au/story/0,10117,22106603-401,00.html)
+2. [The Independent](http://news.independent.co.uk/uk/politics/article2786096.ece)
 
 ### Related:
 

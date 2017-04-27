@@ -7,8 +7,8 @@ Russian President Dmitry Medvedev says voluntary &quot;chemical castration&quot;
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/society/20110510/163954369.html)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-13348779)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-13348779)
+2. [RIA Novosti](http://en.rian.ru/society/20110510/163954369.html)
 
 ### Related:
 

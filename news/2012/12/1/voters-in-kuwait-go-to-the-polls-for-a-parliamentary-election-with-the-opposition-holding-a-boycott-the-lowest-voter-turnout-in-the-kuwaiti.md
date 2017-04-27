@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2012/dec/02/kuwait-election-turnout-opposition-boycott)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-20571958)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20571958)
+2. [The Guardian](http://www.guardian.co.uk/world/2012/dec/02/kuwait-election-turnout-opposition-boycott)
 
 ### Related:
 

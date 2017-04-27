@@ -7,8 +7,8 @@ Dr. Earl Bradley, 56, a popular Delaware pediatrician, is facing at least 33 fel
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2010/CRIME/02/22/delaware.pediatrician/?hpt=Sbin)
-2. [ABC](http://abcnews.go.com/WN/delaware-pediatrician-earl-bradley-accused-sexually-abusing-young/story?id=9418371)
+1. [ABC](http://abcnews.go.com/WN/delaware-pediatrician-earl-bradley-accused-sexually-abusing-young/story?id=9418371)
+2. [CNN](http://www.cnn.com/2010/CRIME/02/22/delaware.pediatrician/?hpt=Sbin)
 
 ### Related:
 

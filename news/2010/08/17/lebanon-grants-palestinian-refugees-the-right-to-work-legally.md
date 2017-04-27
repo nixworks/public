@@ -7,8 +7,8 @@ The Lebanese parliament finally passes a law allowing the 400,000 Palestinian re
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11004945)
-2. [Arab News](http://arabnews.com/opinion/editorial/article106060.ece)
+1. [Arab News](http://arabnews.com/opinion/editorial/article106060.ece)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11004945)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Cage bought the $276k skull from a Beverly Hills Gallery in 2007.
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/life/2015/12/22/nicolas-cage-returns-stolen-dinosaur-skull-mongolian-government/77743080/)
-2. [Reuters](http://www.msn.com/en-us/movies/celebrity/actor-nicolas-cage-returns-stolen-dinosaur-skull-he-bought/ar-BBnNWxx?li=BBnb7Kz&ocid=iehp)
+1. [Reuters](http://www.msn.com/en-us/movies/celebrity/actor-nicolas-cage-returns-stolen-dinosaur-skull-he-bought/ar-BBnNWxx?li=BBnb7Kz&ocid=iehp)
+2. [USA Today](http://www.usatoday.com/story/life/2015/12/22/nicolas-cage-returns-stolen-dinosaur-skull-mongolian-government/77743080/)
 
 ### Related:
 

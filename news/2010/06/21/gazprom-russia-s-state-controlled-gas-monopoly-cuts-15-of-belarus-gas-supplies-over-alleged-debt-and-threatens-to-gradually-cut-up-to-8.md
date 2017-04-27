@@ -7,8 +7,8 @@ Supply may be reduced by as much as 85 per cent in row over $192m unpaid debt.
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/europe/10362731.stm)
-2. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/201062153922225505.html)
+1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/201062153922225505.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/europe/10362731.stm)
 
 ### Related:
 

@@ -7,12 +7,12 @@ All the latest GAA News, Results &amp; Fixtures, brought to you as it happens, i
 
 ### Source:
 
-1. [RTÉ Sport](http://www.rte.ie/sport/gaa/championship/2010/1030/ireland_australia_rules.html)
-2. [The Sydney Morning Herald](http://www.smh.com.au/afl/afl-news/australia-reclaims-cormac-mcanallen-trophy-20101031-178kg.html)
-3. [The Irish Times](http://www.irishtimes.com/sports/gaa/2010/1030/1224282364878.html)
-4. [ABC News](http://www.abc.net.au/news/stories/2010/10/31/3052927.htm)
-5. [BBC Sport](http://news.bbc.co.uk/sport2/hi/northern_ireland/gaelic_games/9141964.stm)
-6. [Sky Sports](http://www.skysports.com/story/0,19528,12194_6475898,00.html)
+1. [ABC News](http://www.abc.net.au/news/stories/2010/10/31/3052927.htm)
+2. [BBC Sport](http://news.bbc.co.uk/sport2/hi/northern_ireland/gaelic_games/9141964.stm)
+3. [RTÉ Sport](http://www.rte.ie/sport/gaa/championship/2010/1030/ireland_australia_rules.html)
+4. [Sky Sports](http://www.skysports.com/story/0,19528,12194_6475898,00.html)
+5. [The Irish Times](http://www.irishtimes.com/sports/gaa/2010/1030/1224282364878.html)
+6. [The Sydney Morning Herald](http://www.smh.com.au/afl/afl-news/australia-reclaims-cormac-mcanallen-trophy-20101031-178kg.html)
 
 ### Related:
 

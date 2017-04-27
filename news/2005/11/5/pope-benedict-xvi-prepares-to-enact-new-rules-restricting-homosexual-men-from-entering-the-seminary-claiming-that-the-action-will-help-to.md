@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Gazette-Times](http://www.gazettetimes.com/articles/2005/10/21/news/religion/satrel03.txt)
-2. [Yahoo](http://news.yahoo.com/s/afp/20051105/ts_alt_afp/britainusvaticanpope_051105211201)
-3. [ABC](http://www.abc.net.au/news/newsitems/200511/s1498743.htm)
+1. [ABC](http://www.abc.net.au/news/newsitems/200511/s1498743.htm)
+2. [Gazette-Times](http://www.gazettetimes.com/articles/2005/10/21/news/religion/satrel03.txt)
+3. [Yahoo](http://news.yahoo.com/s/afp/20051105/ts_alt_afp/britainusvaticanpope_051105211201)
 
 ### Related:
 

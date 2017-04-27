@@ -8,8 +8,8 @@ A number of people were injured outside the DÃ¡il tonight after a disturbance br
 ### Source:
 
 1. [Irish Independent](http://www.independent.ie/national-news/gardai-bring-out-batons-as-breakaway-protesters-try-to-storm-leinster-house-2176173.html)
-2. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2010/0512/1224270210953.html)
-3. [RTÉ](http://www.rte.ie/news/2010/0511/dail.html)
+2. [RTÉ](http://www.rte.ie/news/2010/0511/dail.html)
+3. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2010/0512/1224270210953.html)
 
 ### Related:
 

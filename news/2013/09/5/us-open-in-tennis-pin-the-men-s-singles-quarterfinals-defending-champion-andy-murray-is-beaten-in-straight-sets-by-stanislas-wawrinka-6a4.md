@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via ESPN](http://espn.go.com/tennis/usopen13/story/_/id/9638938/stanislas-wawrinka-crushes-andy-murray)
-2. [AP via ESPN](http://espn.go.com/tennis/usopen13/story/_/id/9638232/2103-us-open-bob-mike-bryan-upset-semifinals)
+1. [AP via ESPN](http://espn.go.com/tennis/usopen13/story/_/id/9638232/2103-us-open-bob-mike-bryan-upset-semifinals)
+2. [AP via ESPN](http://espn.go.com/tennis/usopen13/story/_/id/9638938/stanislas-wawrinka-crushes-andy-murray)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/russia/20110126/162311278.html)
-2. [CNN](http://edition.cnn.com/2011/WORLD/europe/01/26/russia.airport.explosions/index.html)
+1. [CNN](http://edition.cnn.com/2011/WORLD/europe/01/26/russia.airport.explosions/index.html)
+2. [RIA Novosti](http://en.rian.ru/russia/20110126/162311278.html)
 
 ### Related:
 

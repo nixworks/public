@@ -8,8 +8,8 @@ A Papuan separatist leader shot dead by Indonesian police was behind a string of
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8415484.stm)
-2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/slain-papua-leader-behind-aussie-death-20091217-kxu0.html)
-3. [The Jakarta Globe](http://thejakartaglobe.com/home/we-had-to-kill-kelly-kwalik-say-indonesia-police/347909)
+2. [The Jakarta Globe](http://thejakartaglobe.com/home/we-had-to-kill-kelly-kwalik-say-indonesia-police/347909)
+3. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/slain-papua-leader-behind-aussie-death-20091217-kxu0.html)
 
 ### Related:
 

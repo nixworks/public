@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Daily Times, Pakistan](http://www.dailytimes.com.pk/default.asp?page=story_14-3-2005_pg7_41)
-2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4346163.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4346163.stm)
+2. [Daily Times, Pakistan](http://www.dailytimes.com.pk/default.asp?page=story_14-3-2005_pg7_41)
 
 ### Related:
 

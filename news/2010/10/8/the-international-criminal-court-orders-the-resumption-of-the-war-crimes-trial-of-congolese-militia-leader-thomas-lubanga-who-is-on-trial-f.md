@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/europe/10/08/netherlands.icc.congo/?hpt=T2)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iRI2OIYp8VNh-2PEnBtM2K6mGMcw?docId=CNG.e4bfcb376f8ac09d47b6d71b8feac4c4.a81)
-3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/201010814536512360.html)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iRI2OIYp8VNh-2PEnBtM2K6mGMcw?docId=CNG.e4bfcb376f8ac09d47b6d71b8feac4c4.a81)
+2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/201010814536512360.html)
+3. [CNN](http://edition.cnn.com/2010/WORLD/europe/10/08/netherlands.icc.congo/?hpt=T2)
 
 ### Related:
 

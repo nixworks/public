@@ -8,10 +8,10 @@ Tens of thousands of Nepalese who spent the night under a chilly sky were jolted
 ### Source:
 
 1. [CBC](http://www.cbc.ca/news/world/nepal-earthquake-kills-more-than-1-800-people-1.3048792)
-2. [New York Times](http://www.nytimes.com/2015/04/27/world/asia/nepal-earthquake-katmandu.html?_r=0)
-3. [CNN](http://edition.cnn.com/2015/04/25/asia/nepal-earthquake-7-5-magnitude/)
-4. [Reuters via ''Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3055925/Earthquake-aftershock-hits-Nepal-India-magnitude-6-7.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490)
-5. [NBC News](http://www.nbcnews.com/storyline/nepal-earthquake/nepal-earthquake-mount-everest-avalanche-wounded-get-rescue-choppers-n348451)
+2. [CNN](http://edition.cnn.com/2015/04/25/asia/nepal-earthquake-7-5-magnitude/)
+3. [NBC News](http://www.nbcnews.com/storyline/nepal-earthquake/nepal-earthquake-mount-everest-avalanche-wounded-get-rescue-choppers-n348451)
+4. [New York Times](http://www.nytimes.com/2015/04/27/world/asia/nepal-earthquake-katmandu.html?_r=0)
+5. [Reuters via ''Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3055925/Earthquake-aftershock-hits-Nepal-India-magnitude-6-7.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The world has finally reached &quot;the beginning of the end&quot; of the AIDS p
 
 ### Source:
 
-1. [U.S. Presidential Proclamation](http://m.whitehouse.gov/the-press-office/2014/11/29/presidential-proclamation-world-aids-day-2014)
-2. [Reuters](http://in.reuters.com/article/2014/12/01/health-aids-idINKCN0JF14320141201)
+1. [Reuters](http://in.reuters.com/article/2014/12/01/health-aids-idINKCN0JF14320141201)
+2. [U.S. Presidential Proclamation](http://m.whitehouse.gov/the-press-office/2014/11/29/presidential-proclamation-world-aids-day-2014)
 
 ### Related:
 

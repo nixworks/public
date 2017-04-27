@@ -8,8 +8,8 @@ US president releases email and online video announcing his intention to stand f
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2011/04/201144112718582657.html)
-2. [CNN](http://politicalticker.blogs.cnn.com/2011/04/04/breaking-obama-launches-re-election-bid/)
-3. [BBC](http://www.bbc.co.uk/news/world-us-canada-12957690)
+2. [BBC](http://www.bbc.co.uk/news/world-us-canada-12957690)
+3. [CNN](http://politicalticker.blogs.cnn.com/2011/04/04/breaking-obama-launches-re-election-bid/)
 4. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-04/04/c_13812841.htm)
 
 ### Related:

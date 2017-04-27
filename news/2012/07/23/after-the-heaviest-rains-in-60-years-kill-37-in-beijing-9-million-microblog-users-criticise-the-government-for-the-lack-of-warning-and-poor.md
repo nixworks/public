@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/07/23/uk-china-beijing-weather-idUSLNE86M00S20120723)
-2. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/07/201272345638914990.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/07/201272345638914990.html)
+2. [Reuters](http://www.reuters.com/article/2012/07/23/uk-china-beijing-weather-idUSLNE86M00S20120723)
 
 ### Related:
 

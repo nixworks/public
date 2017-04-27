@@ -7,8 +7,8 @@ A sharp increase in killings of criminal suspects since the election of Rodrigo 
 
 ### Source:
 
-1. [The Wall Street Journal](http://www.wsj.com/articles/in-rodrigo-dutertes-philippines-suspects-have-the-right-to-remain-silentforever-1467224121)
-2. [The Manila Bulletin](http://www.mb.com.ph/pnp-activates-task-force-for-duterte-robredo-inauguration-on-thursday/)
+1. [The Manila Bulletin](http://www.mb.com.ph/pnp-activates-task-force-for-duterte-robredo-inauguration-on-thursday/)
+2. [The Wall Street Journal](http://www.wsj.com/articles/in-rodrigo-dutertes-philippines-suspects-have-the-right-to-remain-silentforever-1467224121)
 
 ### Related:
 

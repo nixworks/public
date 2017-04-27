@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/sports/football/top-stories/Thousands-protest-at-Togo-Cup-ban/articleshow/5543225.cms)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8502068.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8502068.stm)
+2. [Times of India](http://timesofindia.indiatimes.com/sports/football/top-stories/Thousands-protest-at-Togo-Cup-ban/articleshow/5543225.cms)
 
 ### Related:
 

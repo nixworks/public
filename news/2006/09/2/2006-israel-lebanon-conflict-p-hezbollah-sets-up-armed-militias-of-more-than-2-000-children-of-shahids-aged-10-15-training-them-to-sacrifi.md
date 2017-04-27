@@ -7,8 +7,8 @@ In the days following the war in Lebanon, newspapers from the Arab world report 
 
 ### Source:
 
-1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3298695,00.html)
-2. [CNN](http://edition.cnn.com/2006/WORLD/meast/09/02/lebanon.un/index.html?section=cnn_latest)
+1. [CNN](http://edition.cnn.com/2006/WORLD/meast/09/02/lebanon.un/index.html?section=cnn_latest)
+2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3298695,00.html)
 
 ### Related:
 

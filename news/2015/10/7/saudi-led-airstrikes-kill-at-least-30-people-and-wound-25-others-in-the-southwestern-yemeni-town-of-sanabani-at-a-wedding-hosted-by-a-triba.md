@@ -7,8 +7,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2015/10/08/middleeast/yemen-violence/index.html)
-2. [AP via ABC News](http://abcnews.go.com/International/wireStory/yemen-forces-capture-rebel-outpost-key-province-34318572)
+1. [AP via ABC News](http://abcnews.go.com/International/wireStory/yemen-forces-capture-rebel-outpost-key-province-34318572)
+2. [CNN](http://edition.cnn.com/2015/10/08/middleeast/yemen-violence/index.html)
 3. [The New York Times](http://www.nytimes.com/2015/10/08/world/middleeast/yemen-airsrike-said-to-kill-23-at-a-wedding.html)
 
 ### Related:

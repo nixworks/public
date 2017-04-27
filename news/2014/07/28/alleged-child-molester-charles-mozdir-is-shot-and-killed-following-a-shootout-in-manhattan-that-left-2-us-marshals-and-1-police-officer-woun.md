@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2014/07/28/justice/the-hunt-suspect-killed/)
-2. [Boston Herald](http://bostonherald.com/news_opinion/national/2014/07/suspect_dead_2_marshals_and_cop_wounded_in_nyc)
+1. [Boston Herald](http://bostonherald.com/news_opinion/national/2014/07/suspect_dead_2_marshals_and_cop_wounded_in_nyc)
+2. [CNN](http://www.cnn.com/2014/07/28/justice/the-hunt-suspect-killed/)
 
 ### Related:
 

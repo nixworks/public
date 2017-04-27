@@ -7,9 +7,9 @@ Sacking of Urumqui Communist party chief Li Zhi follows fresh ethnic unrest in r
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8239591.stm)
-2. [Xinhua](http://news.xinhuanet.com/english/2009-09/05/content_12001223.htm)
-3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/09/20099510166606363.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/09/20099510166606363.html)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8239591.stm)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-09/05/content_12001223.htm)
 
 ### Related:
 

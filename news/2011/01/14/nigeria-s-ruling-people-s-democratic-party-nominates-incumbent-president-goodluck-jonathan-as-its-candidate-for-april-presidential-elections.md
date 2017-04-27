@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Africa News](http://www.africanews.com/site/Nigeria_Goodluck_Jonathan_wins_PDP_primary/list_messages/37048)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hHJOKAdmy_h9TX-Z-8HvrcBRVHUQ?docId=CNG.cf47aa2fba1edb73982e4c0e962bed14.4f1)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hHJOKAdmy_h9TX-Z-8HvrcBRVHUQ?docId=CNG.cf47aa2fba1edb73982e4c0e962bed14.4f1)
+2. [Africa News](http://www.africanews.com/site/Nigeria_Goodluck_Jonathan_wins_PDP_primary/list_messages/37048)
 
 ### Related:
 

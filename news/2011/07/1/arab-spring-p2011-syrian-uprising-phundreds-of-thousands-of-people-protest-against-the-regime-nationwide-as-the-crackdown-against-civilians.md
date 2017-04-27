@@ -7,14 +7,14 @@ Hundreds of thousands of people reportedly stage fresh anti-government protests 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-13997322)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/20117112504223572.html)
-3. [MSNBC](http://www.msnbc.msn.com/id/43590958)
-4. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/07/20117171321504965.html)
-5. [BBC](http://www.bbc.co.uk/news/world-middle-east-13988701)
-6. [Reuters](http://af.reuters.com/article/commoditiesNews/idAFLDE7600JZ20110701)
-7. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/201171141613329512.html)
-8. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/07/201171181812716313.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/07/201171181812716313.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/07/20117171321504965.html)
+3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/20117112504223572.html)
+4. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/201171141613329512.html)
+5. [BBC](http://www.bbc.co.uk/news/world-africa-13997322)
+6. [BBC](http://www.bbc.co.uk/news/world-middle-east-13988701)
+7. [MSNBC](http://www.msnbc.msn.com/id/43590958)
+8. [Reuters](http://af.reuters.com/article/commoditiesNews/idAFLDE7600JZ20110701)
 
 ### Related:
 

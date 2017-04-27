@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Voice of America](http://www.voanews.com/content/un-security-council-expected-to-approve-iran-nuclear-deal/2870048.html)
-2. [Reuters](http://www.reuters.com/article/2015/07/20/us-iran-nuclear-un-idUSKCN0PU1BH20150720)
+1. [Reuters](http://www.reuters.com/article/2015/07/20/us-iran-nuclear-un-idUSKCN0PU1BH20150720)
+2. [Voice of America](http://www.voanews.com/content/un-security-council-expected-to-approve-iran-nuclear-deal/2870048.html)
 
 ### Related:
 

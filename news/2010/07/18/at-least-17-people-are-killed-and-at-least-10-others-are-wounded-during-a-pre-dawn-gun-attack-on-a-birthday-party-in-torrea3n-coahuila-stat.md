@@ -7,8 +7,8 @@ Gunmen attack partygoers in the north Mexican city of Torreon, leaving 17 people
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-latin-america-10678960)
-2. [Aljazeera](http://english.aljazeera.net/news/americas/2010/07/2010718192615575301.html)
+1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/07/2010718192615575301.html)
+2. [BBC](http://www.bbc.co.uk/news/world-latin-america-10678960)
 
 ### Related:
 

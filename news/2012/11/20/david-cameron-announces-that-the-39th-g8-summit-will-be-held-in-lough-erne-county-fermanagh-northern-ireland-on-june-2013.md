@@ -7,9 +7,9 @@ County Fermanagh in Northern Ireland is to host the next G8 summit of world lead
 
 ### Source:
 
-1. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/cameron-confirms-g8-summit-for-fermanagh-574885.html)
-2. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-20407937)
-3. [Democrat](http://www.donegaldemocrat.ie/news/local/obama-and-putin-s-g8-meeting-in-fermanagh-to-boost-donegal-tourism-1-4503490)
+1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-20407937)
+2. [Democrat](http://www.donegaldemocrat.ie/news/local/obama-and-putin-s-g8-meeting-in-fermanagh-to-boost-donegal-tourism-1-4503490)
+3. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/cameron-confirms-g8-summit-for-fermanagh-574885.html)
 
 ### Related:
 

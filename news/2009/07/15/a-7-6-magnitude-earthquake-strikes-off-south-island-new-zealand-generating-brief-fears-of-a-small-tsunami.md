@@ -8,9 +8,9 @@ Officials are today checking for damage after a huge earthquake rocked parts of 
 ### Source:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gLE5Mss9oMr_dpRNOuQ19HacFrRQD99ES3SG0)
-2. [USGS](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2009jcap.php)
+2. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10584761)
 3. [RTÉ](http://www.rte.ie/news/2009/0715/newzealand.html)
-4. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10584761)
+4. [USGS](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2009jcap.php)
 
 ### Related:
 

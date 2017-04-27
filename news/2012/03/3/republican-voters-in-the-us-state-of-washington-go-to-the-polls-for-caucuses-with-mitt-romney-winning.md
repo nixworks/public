@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [MSNBC](http://elections.msnbc.msn.com/ns/politics/2012/washington/republican/caucus/#.T1K584fxo48)
-2. [AP via ''Houston Chronicle](http://www.chron.com/news/article/Mitt-Romney-wins-Washington-state-GOP-caucuses-3378916.php)
+1. [AP via ''Houston Chronicle](http://www.chron.com/news/article/Mitt-Romney-wins-Washington-state-GOP-caucuses-3378916.php)
+2. [MSNBC](http://elections.msnbc.msn.com/ns/politics/2012/washington/republican/caucus/#.T1K584fxo48)
 
 ### Related:
 

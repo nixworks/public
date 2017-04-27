@@ -8,8 +8,8 @@ Frontpage | New Straits Times : Authoritative source for Malaysia latest news on
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/newsitems/200703/s1883174.htm)
-2. [CBC](http://www.cbc.ca/world/story/2007/03/15/us-iraq.html)
-3. [AFP via New Straits Times](http://www.nst.com.my/Current_News/nst/AfpNews/200703280706051175036765.91/afp)
+2. [AFP via New Straits Times](http://www.nst.com.my/Current_News/nst/AfpNews/200703280706051175036765.91/afp)
+3. [CBC](http://www.cbc.ca/world/story/2007/03/15/us-iraq.html)
 
 ### Related:
 

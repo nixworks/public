@@ -8,8 +8,8 @@ Passenger and cargo traffic was halted after Thai border police heard gunfire, f
 ### Source:
 
 1. [The New York Times](http://www.nytimes.com/2011/10/11/world/asia/china-suspends-boat-traffic-on-mekong.html)
-2. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-10/11/c_131185545.htm)
-3. [The Wall Street Journal](http://online.wsj.com/article/SB10001424052970204450804576622800519874000.html)
+2. [The Wall Street Journal](http://online.wsj.com/article/SB10001424052970204450804576622800519874000.html)
+3. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-10/11/c_131185545.htm)
 
 ### Related:
 

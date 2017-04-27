@@ -7,8 +7,8 @@ People Before Profit candidate Richard Boyd-Barrett, running under the United Le
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2011/0228/election.html)
-2. [Evening Echo](http://www.eveningecho.ie/news/ireland/hanafin-loses-out-to-boyd-barrett-in-dun-laoghaire-495322.html)
+1. [Evening Echo](http://www.eveningecho.ie/news/ireland/hanafin-loses-out-to-boyd-barrett-in-dun-laoghaire-495322.html)
+2. [RTÉ](http://www.rte.ie/news/2011/0228/election.html)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0227/breaking16.html)
 
 ### Related:

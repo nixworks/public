@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/02/23/us-mali-rebels-chad-idUSBRE91M00420130223)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-21555898)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-21555898)
+2. [Reuters](http://www.reuters.com/article/2013/02/23/us-mali-rebels-chad-idUSBRE91M00420130223)
 
 ### Related:
 

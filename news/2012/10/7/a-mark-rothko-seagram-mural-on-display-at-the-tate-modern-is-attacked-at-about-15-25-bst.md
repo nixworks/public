@@ -7,9 +7,9 @@ A man who claims responsibility for defacing a painting by Mark Rothko at the Ta
 
 ### Source:
 
-1. [Yellowism](http://www.thisisyellowism.com/)
-2. [BBC](http://www.bbc.com/news/uk-england-london-19866004)
-3. [The Guardian](http://www.guardian.co.uk/artanddesign/2012/oct/07/rothko-painting-defaced-tate-modern)
+1. [BBC](http://www.bbc.com/news/uk-england-london-19866004)
+2. [The Guardian](http://www.guardian.co.uk/artanddesign/2012/oct/07/rothko-painting-defaced-tate-modern)
+3. [Yellowism](http://www.thisisyellowism.com/)
 
 ### Related:
 

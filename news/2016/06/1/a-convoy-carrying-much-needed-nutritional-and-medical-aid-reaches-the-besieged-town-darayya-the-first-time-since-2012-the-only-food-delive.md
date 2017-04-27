@@ -8,10 +8,10 @@ The besieged Syrian town of Daraya, a rebel-held suburb of Damascus where Presid
 ### Source:
 
 1. [AP via ''The New York Times](http://www.nytimes.com/aponline/2016/06/01/world/middleeast/ap-syria-the-latest.html)
-2. [BBC](http://www.bbc.com/news/world-middle-east-36424105)
-3. [Australian Associated Press via News.com.au](http://www.news.com.au/world/breaking-news/syrian-opposition-proposes-ramadan-truce/news-story/e41c27e1fdc9b0d2b21f112b8e1ea7e2)
-4. [Reuters](http://in.reuters.com/article/mideast-crisis-syria-ceasefire-idINKCN0YN46H)
-5. [NPR](http://www.npr.org/sections/thetwo-way/2016/06/01/480306743/1st-aid-convoy-since-2012-arrives-in-besieged-damascus-suburb)
+2. [Australian Associated Press via News.com.au](http://www.news.com.au/world/breaking-news/syrian-opposition-proposes-ramadan-truce/news-story/e41c27e1fdc9b0d2b21f112b8e1ea7e2)
+3. [BBC](http://www.bbc.com/news/world-middle-east-36424105)
+4. [NPR](http://www.npr.org/sections/thetwo-way/2016/06/01/480306743/1st-aid-convoy-since-2012-arrives-in-besieged-damascus-suburb)
+5. [Reuters](http://in.reuters.com/article/mideast-crisis-syria-ceasefire-idINKCN0YN46H)
 
 ### Related:
 

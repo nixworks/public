@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/usb000px6r#summary)
-2. [CBC News](http://www.cbc.ca/m/news/#!/content/1.2620109/)
+1. [CBC News](http://www.cbc.ca/m/news/#!/content/1.2620109/)
+2. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/usb000px6r#summary)
 
 ### Related:
 

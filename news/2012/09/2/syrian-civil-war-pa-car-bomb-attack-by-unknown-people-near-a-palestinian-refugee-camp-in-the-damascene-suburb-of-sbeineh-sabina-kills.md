@@ -7,10 +7,10 @@ A car bomb blew up near a Palestinian refugee camp in a suburb of Damascus, kill
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/world/2012-09/02/c_131822806.htm)
-2. [The Daily Star](http://www.dailystar.com.lb/News/Middle-East/2012/Sep-02/186422-syria-blast-in-damascus-suburb-kills-15.ashx#axzz25JVYcYgh)
-3. [Bloomberg via ''Business Week](http://www.businessweek.com/news/2012-09-01/syrian-forces-clash-with-rebels-near-airbases-as-fighting-rages)
-4. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/09/20129212533972856.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/09/20129212533972856.html)
+2. [Bloomberg via ''Business Week](http://www.businessweek.com/news/2012-09-01/syrian-forces-clash-with-rebels-near-airbases-as-fighting-rages)
+3. [The Daily Star](http://www.dailystar.com.lb/News/Middle-East/2012/Sep-02/186422-syria-blast-in-damascus-suburb-kills-15.ashx#axzz25JVYcYgh)
+4. [Xinhua](http://news.xinhuanet.com/english/world/2012-09/02/c_131822806.htm)
 
 ### Related:
 

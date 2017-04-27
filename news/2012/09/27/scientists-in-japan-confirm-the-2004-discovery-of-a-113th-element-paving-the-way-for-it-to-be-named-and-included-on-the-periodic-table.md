@@ -7,8 +7,8 @@ Japanese researchers claim success after nine years of searching.
 
 ### Source:
 
-1. [Nature##](http://www.nature.com/news/element-113-at-last-1.11499)
-2. [Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120927p2a00m0na011000c.html)
+1. [Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120927p2a00m0na011000c.html)
+2. [Nature##](http://www.nature.com/news/element-113-at-last-1.11499)
 
 ### Related:
 

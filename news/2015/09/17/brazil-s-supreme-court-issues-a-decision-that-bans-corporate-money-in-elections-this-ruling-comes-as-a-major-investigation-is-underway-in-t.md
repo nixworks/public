@@ -7,8 +7,8 @@ BRASILIA - Brazil&#039;s Supreme Court decided on Thursday to ban corporate dona
 
 ### Source:
 
-1. [Singapore Today Online](http://www.todayonline.com/world/brazils-top-court-bans-corporate-money-election-campaigns)
-2. [AP via Fox News](http://www.foxnews.com/world/2015/09/17/brazil-top-court-bans-corporate-campaign-contributions-amid-scandal-involving/)
+1. [AP via Fox News](http://www.foxnews.com/world/2015/09/17/brazil-top-court-bans-corporate-campaign-contributions-amid-scandal-involving/)
+2. [Singapore Today Online](http://www.todayonline.com/world/brazils-top-court-bans-corporate-money-election-campaigns)
 
 ### Related:
 
@@ -21,4 +21,4 @@ BRASILIA - Brazil&#039;s Supreme Court decided on Thursday to ban corporate dona
 7. [The Brazilian Supreme Federal Court issues a long-time awaited order to arrest for bribery 12 former top officials who had served under ex-president Lula, in one of the nation's biggest corruption cases. ](/news/2013/11/15/the-brazilian-supreme-federal-court-issues-a-long-time-awaited-order-to-arrest-for-bribery-12-former-top-officials-who-had-served-under-ex-p.md) _Context: Brazil, Supreme Court Justice_
 8. [Extradition of Cesare Battisti:Italian communist militant Cesare Battisti is freed from jail in Brazil after the Brazilian Constitutional Court rules against extraditing him to face charges in Italy. ](/news/2011/06/9/extradition-of-cesare-battisti-pitalian-communist-militant-cesare-battisti-is-freed-from-jail-in-brazil-after-the-brazilian-constitutional-c.md) _Context: Brazil, Supreme Court Justice_
 9. [The Brazilian Supreme Federal Court unanimously rules in favour of extending to same-sex couples the same rights of existing civil unions. ](/news/2011/05/5/the-brazilian-supreme-federal-court-unanimously-rules-in-favour-of-extending-to-same-sex-couples-the-same-rights-of-existing-civil-unions.md) _Context: Brazil, Supreme Court Justice_
-10. [In Paraguay, around 50 armed men, allegedly belonging to the Brazil-based First Capital Command criminal gang, storm a security vault and police headquarters in Ciudad del Este, escaping with around $6 million in a daring cross-border raid. ](/news/2017/04/25/in-paraguay-around-50-armed-men-allegedly-belonging-to-the-brazil-based-first-capital-command-criminal-gang-storm-a-security-vault-and-po.md) _Context: Brazil_
+10. [In Paraguay, around 50 armed men, allegedly belonging to the Brazil-based Primeiro Comando da Capital criminal gang, storm a security vault and police headquarters in Ciudad del Este, escaping with around $6 million in a daring cross-border raid. ](/news/2017/04/24/in-paraguay-around-50-armed-men-allegedly-belonging-to-the-brazil-based-primeiro-comando-da-capital-criminal-gang-storm-a-security-vault.md) _Context: Brazil_

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Aljazeera](http://english.aljazeera.net/sport/worldcup2010/2010/06/20106616216700124.html)
-2. [BBC](http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/8724848.stm)
-3. [AP](http://www.google.com/hostednews/ap/article/ALeqM5ik1hjYn9txBv0wqC2l0KTfmnT1lAD9G5SFAO0)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5ik1hjYn9txBv0wqC2l0KTfmnT1lAD9G5SFAO0)
+2. [Aljazeera](http://english.aljazeera.net/sport/worldcup2010/2010/06/20106616216700124.html)
+3. [BBC](http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/8724848.stm)
 
 ### Related:
 

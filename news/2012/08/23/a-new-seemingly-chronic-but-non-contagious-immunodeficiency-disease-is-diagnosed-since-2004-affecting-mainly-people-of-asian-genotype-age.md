@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Washington Post](http://www.washingtonpost.com/national/health-science/new-immune-system-disease-found-in-asians-causes-aids-like-symptoms-in-people-without-hiv/2012/08/22/e1b7eeee-ec95-11e1-866f-60a00f604425_story.html)
-2. [The Voice of Russia](http://english.ruvr.ru/2012_08_23/New-AIDS-like-mystery-disease/)
+1. [The Voice of Russia](http://english.ruvr.ru/2012_08_23/New-AIDS-like-mystery-disease/)
+2. [The Washington Post](http://www.washingtonpost.com/national/health-science/new-immune-system-disease-found-in-asians-causes-aids-like-symptoms-in-people-without-hiv/2012/08/22/e1b7eeee-ec95-11e1-866f-60a00f604425_story.html)
 
 ### Related:
 

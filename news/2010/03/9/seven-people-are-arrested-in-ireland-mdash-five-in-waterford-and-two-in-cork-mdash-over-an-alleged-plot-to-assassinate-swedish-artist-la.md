@@ -7,9 +7,9 @@ Seven people have been arrested in the southeast by gardaí investigating a cons
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/europe/03/09/ireland.arrests/index.html)
-2. [RTÉ](http://www.rte.ie/news/2010/0309/waterford.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/europe/8558022.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8558022.stm)
+2. [CNN](http://edition.cnn.com/2010/WORLD/europe/03/09/ireland.arrests/index.html)
+3. [RTÉ](http://www.rte.ie/news/2010/0309/waterford.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [El Universal](http://english.eluniversal.com/2009/08/14/en_pol_esp_venezuelan-media-wor_14A2619923.shtml)
-2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5io5U81m5QgoA6mr9a50X9eIHuQqQD9A2VM2O1)
+1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5io5U81m5QgoA6mr9a50X9eIHuQqQD9A2VM2O1)
+2. [El Universal](http://english.eluniversal.com/2009/08/14/en_pol_esp_venezuelan-media-wor_14A2619923.shtml)
 
 ### Related:
 

@@ -7,12 +7,12 @@
 
 ### Source:
 
-1. [thisislondon.co.uk](http://www.thisislondon.co.uk/news/article-23433407-details/Black+Monday+as+biggest+FTSE+crash+since+911+wipes+off+nearly+%A360bn+in+shares/article.do)
-2. [MarketWatch](http://www.marketwatch.com/News/Story/stocks-europe-crushed-over-fears/story.aspx?guid=%7BC1BF4ED4%2D51EE%2D43FE%2DBA34%2DCBC2B04D4E69%7D)
-3. [CBC](http://www.cbc.ca/money/story/2008/01/21/worldstocklosses.html)
+1. [BBC News](http://news.bbc.co.uk/2/hi/business/7199552.stm)
+2. [CBC](http://www.cbc.ca/money/story/2008/01/21/worldstocklosses.html)
+3. [MarketWatch](http://www.marketwatch.com/News/Story/stocks-europe-crushed-over-fears/story.aspx?guid=%7BC1BF4ED4%2D51EE%2D43FE%2DBA34%2DCBC2B04D4E69%7D)
 4. [MarketWatch](http://www.marketwatch.com/News/Story/us-recession-fears-spark-deep/story.aspx?guid=%7BFA34EC4F%2DFFF6%2D4BEE%2DAF28%2DE41F832BF4AC%7D)
-5. [BBC News](http://news.bbc.co.uk/2/hi/business/7199552.stm)
-6. [MarketWatch](http://www.marketwatch.com/news/story/stock-futures-pointing-sharp-losses/story.aspx?guid=%7B9A894790%2D5D69%2D48C6%2D8303%2D18EE41CA5D1C%7D)
+5. [MarketWatch](http://www.marketwatch.com/news/story/stock-futures-pointing-sharp-losses/story.aspx?guid=%7B9A894790%2D5D69%2D48C6%2D8303%2D18EE41CA5D1C%7D)
+6. [thisislondon.co.uk](http://www.thisislondon.co.uk/news/article-23433407-details/Black+Monday+as+biggest+FTSE+crash+since+911+wipes+off+nearly+%A360bn+in+shares/article.do)
 
 ### Related:
 

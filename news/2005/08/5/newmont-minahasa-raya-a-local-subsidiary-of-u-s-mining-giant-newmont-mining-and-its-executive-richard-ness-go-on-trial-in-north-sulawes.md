@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Forbes](http://www.forbes.com/home/feeds/ap/2005/08/05/ap2174327.html)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=a4OPKx4HzbvI&refer=asia)
 2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/161630/1/.html)
-3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=a4OPKx4HzbvI&refer=asia)
+3. [Forbes](http://www.forbes.com/home/feeds/ap/2005/08/05/ap2174327.html)
 
 ### Related:
 

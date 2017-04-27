@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Radio Netherlands Worldwide](http://www.rnw.nl/english/article/ingushetian-human-rights-activist-gunned-down)
-2. [Xinhua](http://news.xinhuanet.com/english/2009-10/25/content_12324622.htm)
-3. [RIA Novosti](http://en.rian.ru/russia/20091025/156583833.html)
+1. [RIA Novosti](http://en.rian.ru/russia/20091025/156583833.html)
+2. [Radio Netherlands Worldwide](http://www.rnw.nl/english/article/ingushetian-human-rights-activist-gunned-down)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-10/25/content_12324622.htm)
 
 ### Related:
 

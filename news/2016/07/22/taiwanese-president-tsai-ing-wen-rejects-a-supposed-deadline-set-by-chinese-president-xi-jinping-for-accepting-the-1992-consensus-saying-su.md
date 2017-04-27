@@ -7,8 +7,8 @@ The People&rsquo;s Republic has cut off official communications with the island.
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/opinions/2016/07/21/44b0a1a4-4e25-11e6-a422-83ab49ed5e6a_story.html)
-2. [Focus Taiwan](http://focustaiwan.tw/news/aipl/201607220006.aspx)
+1. [Focus Taiwan](http://focustaiwan.tw/news/aipl/201607220006.aspx)
+2. [The Washington Post](https://www.washingtonpost.com/opinions/2016/07/21/44b0a1a4-4e25-11e6-a422-83ab49ed5e6a_story.html)
 
 ### Related:
 

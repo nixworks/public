@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Forbes](http://www.forbes.com/business/feeds/afx/2005/06/27/afx2113164.html)
-2. [Business Week](http://www.businessweek.com/ap/financialnews/D8AVTENG1.htm?campaign_id=apn_home_down)
+1. [Business Week](http://www.businessweek.com/ap/financialnews/D8AVTENG1.htm?campaign_id=apn_home_down)
+2. [Forbes](http://www.forbes.com/business/feeds/afx/2005/06/27/afx2113164.html)
 3. [IHT](http://iht.com/articles/2005/06/27/business/rhodia.php)
 
 ### Related:

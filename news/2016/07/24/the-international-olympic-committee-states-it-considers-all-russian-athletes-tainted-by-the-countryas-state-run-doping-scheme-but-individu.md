@@ -7,9 +7,9 @@ The IOC is leaving it up to global federations to decide which Russian athletes 
 
 ### Source:
 
-1. [rt.com](https://www.rt.com/sport/352982-ioc-hands-russia-lifeline/)
+1. [AP & NBC News](http://www.nbcnews.com/news/sports/international-olympic-committee-decides-against-complete-ban-russian-athletes-n615661)
 2. [The New York Times](http://www.nytimes.com/2016/07/25/sports/olympics/rio-russia-ban-doping.html?_r=0)
-3. [AP & NBC News](http://www.nbcnews.com/news/sports/international-olympic-committee-decides-against-complete-ban-russian-athletes-n615661)
+3. [rt.com](https://www.rt.com/sport/352982-ioc-hands-russia-lifeline/)
 
 ### Related:
 

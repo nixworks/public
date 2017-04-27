@@ -25,7 +25,7 @@ _Context: Bajaur, Federally Administered Tribal Areas, Pakistan Army_
 _Context: Malaysia, Malaysia Today, Raja Petra Kamarudin, Sin Chew Jit Poh, Teresa Kok, indefinite detention without trial_
 
 ### [ The United States-led coalition claims to kill at least 10 militants in fighting in Afghanistan. ](/news/2008/09/12/the-united-states-led-coalition-claims-to-kill-at-least-10-militants-in-fighting-in-afghanistan.md)
-_Context: Afghan, U.S._
+_Context: Afghan, United States_
 
 ### [ The Prime Minister of New Zealand Helen Clark calls an election for November 8. ](/news/2008/09/12/the-prime-minister-of-new-zealand-helen-clark-calls-an-election-for-november-8.md)
 _Context: Helen Clark, November 8, Prime Minister, wins a majority of seats_

@@ -7,12 +7,12 @@ Killing Of Palestinian Schoolgirl, 10, Sparks Renewed Violence
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4222595.stm)
-2. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1107228084937&p=1078027574097)
-3. [Al Jazeera](http://english.aljazeera.net/NR/exeres/2211A473-A8A6-462C-A913-577DC5DD9F55.htm)
-4. [Reuters](http://story.news.yahoo.com/news?tmpl=story&cid=564&ncid=564&e=1&u=/nm/20050131/ts_nm/mideast_dc_242)
-5. [Haaretz](http://www.haaretz.com/hasen/spages/534451.html)
-6. [CBS](http://www.cbsnews.com/stories/2005/02/02/world/main671061.shtml)
+1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/2211A473-A8A6-462C-A913-577DC5DD9F55.htm)
+2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4222595.stm)
+3. [CBS](http://www.cbsnews.com/stories/2005/02/02/world/main671061.shtml)
+4. [Haaretz](http://www.haaretz.com/hasen/spages/534451.html)
+5. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1107228084937&p=1078027574097)
+6. [Reuters](http://story.news.yahoo.com/news?tmpl=story&cid=564&ncid=564&e=1&u=/nm/20050131/ts_nm/mideast_dc_242)
 
 ### Related:
 

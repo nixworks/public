@@ -7,9 +7,9 @@ Loyalist Syrian forces killed at least 30 army deserters in an ambush on the Dam
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/03/12/us-syria-crisis-ambush-idUSBRE92B0NT20130312)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21760459)
 2. [Reuters](http://www.reuters.com/article/2013/03/11/us-syria-crisis-homs-idUSBRE92A08320130311)
-3. [BBC](http://www.bbc.co.uk/news/world-middle-east-21760459)
+3. [Reuters](http://www.reuters.com/article/2013/03/12/us-syria-crisis-ambush-idUSBRE92B0NT20130312)
 
 ### Related:
 

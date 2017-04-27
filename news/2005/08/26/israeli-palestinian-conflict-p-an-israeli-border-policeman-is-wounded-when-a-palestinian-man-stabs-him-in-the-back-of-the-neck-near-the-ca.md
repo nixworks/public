@@ -8,9 +8,9 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4188216.stm)
-2. [The Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1125022804201)
+2. [Ha'aretz](http://www.haaretz.com/hasen/spages/617414.html)
 3. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-08-26T072222Z_01_YUE626490_RTRUKOC_0_UK-MIDEAST-STABBING.xml)
-4. [Ha'aretz](http://www.haaretz.com/hasen/spages/617414.html)
+4. [The Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1125022804201)
 
 ### Related:
 

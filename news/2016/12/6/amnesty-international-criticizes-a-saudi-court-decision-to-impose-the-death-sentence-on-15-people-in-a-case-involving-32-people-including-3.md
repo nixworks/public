@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/aponline/2016/12/06/world/middleeast/ap-ml-saudi-iran.html?_r=0)
-2. [Amnesty](https://www.amnesty.org/en/latest/news/2016/12/saudi-arabia-mass-death-sentences-in-spy-trial-a-travesty-of-justice/)
+1. [Amnesty](https://www.amnesty.org/en/latest/news/2016/12/saudi-arabia-mass-death-sentences-in-spy-trial-a-travesty-of-justice/)
+2. [The New York Times](http://www.nytimes.com/aponline/2016/12/06/world/middleeast/ap-ml-saudi-iran.html?_r=0)
 
 ### Related:
 

@@ -8,8 +8,8 @@ Clashes between ethnic Uighurs and Han Chinese in western China left more than 2
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/11/2009119115451405418.html)
-2. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/news.htm?main&20091109&56&625483)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8350360.stm)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8350360.stm)
+3. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/news.htm?main&20091109&56&625483)
 
 ### Related:
 

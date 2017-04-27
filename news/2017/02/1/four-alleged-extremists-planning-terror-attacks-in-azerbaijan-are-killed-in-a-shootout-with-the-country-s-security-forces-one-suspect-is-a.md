@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-azerbaijan-security-idUSKBN15G40H?il=0)
-2. [Radio Free Europe/Radio Liberty](http://www.rferl.org/a/azerbaijan-four-terrorists-killed-shootout/28271554.html)
+1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/a/azerbaijan-four-terrorists-killed-shootout/28271554.html)
+2. [Reuters](http://www.reuters.com/article/us-azerbaijan-security-idUSKBN15G40H?il=0)
 
 ### Related:
 

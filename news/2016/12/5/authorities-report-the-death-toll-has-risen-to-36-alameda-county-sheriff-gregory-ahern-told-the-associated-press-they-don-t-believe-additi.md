@@ -7,8 +7,8 @@ Death toll hits 36 in state’s worst structure fire since 1906 The toll in what
 
 ### Source:
 
-1. [San Francisco Chronicle](http://www.sfgate.com/bayarea/article/Death-toll-from-Oakland-warehouse-fire-rises-to-36-10691827.php)
-2. [AP via ''Arizona Daily Star](http://tucson.com/news/national/the-latest-sheriff-says-more-bodies-not-likely-in-fire/article_2f1d48a3-e856-5493-9c96-4a6b1dd5b562.html)
+1. [AP via ''Arizona Daily Star](http://tucson.com/news/national/the-latest-sheriff-says-more-bodies-not-likely-in-fire/article_2f1d48a3-e856-5493-9c96-4a6b1dd5b562.html)
+2. [San Francisco Chronicle](http://www.sfgate.com/bayarea/article/Death-toll-from-Oakland-warehouse-fire-rises-to-36-10691827.php)
 
 ### Related:
 

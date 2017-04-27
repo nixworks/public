@@ -10,8 +10,8 @@
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4387191.stm)
 2. [Haaretz](http://www.haaretz.com/hasen/spages/557471.html)
 3. [Haaretz](http://www.haaretz.com/hasen/spages/557744.html)
-4. [IDF](http://www1.idf.il/DOVER/site/mainpage.asp?sl=EN&id=7&docid=38936.EN)
-5. [Haaretz](http://www.haaretz.com/hasen/spages/557950.html)
+4. [Haaretz](http://www.haaretz.com/hasen/spages/557950.html)
+5. [IDF](http://www1.idf.il/DOVER/site/mainpage.asp?sl=EN&id=7&docid=38936.EN)
 
 ### Related:
 

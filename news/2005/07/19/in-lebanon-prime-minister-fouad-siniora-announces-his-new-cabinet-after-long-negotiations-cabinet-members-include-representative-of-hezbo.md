@@ -7,10 +7,10 @@ After three weeks of political squabbling over key posts Lebanon&#39;s Prime Min
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4697587.stm)
-2. [Daily Star](http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=2&article_id=16919)
-3. [Monday Morning, Lebanon](http://www.mmorning.com/articleC.asp?Article=2649&CategoryID=2)
-4. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/80426F68-BD36-4CEB-8299-8AB0D5369C9F.htm)
+1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/80426F68-BD36-4CEB-8299-8AB0D5369C9F.htm)
+2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4697587.stm)
+3. [Daily Star](http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=2&article_id=16919)
+4. [Monday Morning, Lebanon](http://www.mmorning.com/articleC.asp?Article=2649&CategoryID=2)
 
 ### Related:
 

@@ -8,9 +8,9 @@ Afghan President Hamid Karzai will give private security firms operating in the 
 ### Source:
 
 1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/afghanistan-to-shut-down-security-firms-20100816-126ur.html)
-2. [Reuters](http://www.reuters.com/article/idUSTRE67F2TY20100816)
+2. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/2010816104813959499.html)
 3. [BBC](http://www.bbc.co.uk/news/world-us-canada-10991690)
-4. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/2010816104813959499.html)
+4. [Reuters](http://www.reuters.com/article/idUSTRE67F2TY20100816)
 5. [The New York Times](http://atwar.blogs.nytimes.com/2010/08/16/general-mcchrystal-accepts-teaching-post-at-yale/?partner=rss&emc=rss)
 6. [Voice of America](http://www1.voanews.com/english/news/Gates-Petraeus-Differ-on-Flexibility-of-Afghan-Exit-100750549.html)
 

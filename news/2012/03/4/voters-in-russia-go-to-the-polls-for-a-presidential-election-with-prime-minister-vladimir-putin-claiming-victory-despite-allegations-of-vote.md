@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Radio Free Europe](http://www.rferl.org/content/article/24503746.html)
-2. [AP via Fox News](http://www.foxnews.com/world/2012/03/04/russians-head-to-polls-in-presidential-elections-expected-to-return-putin-to/)
+1. [AP via Fox News](http://www.foxnews.com/world/2012/03/04/russians-head-to-polls-in-presidential-elections-expected-to-return-putin-to/)
+2. [Radio Free Europe](http://www.rferl.org/content/article/24503746.html)
 
 ### Related:
 

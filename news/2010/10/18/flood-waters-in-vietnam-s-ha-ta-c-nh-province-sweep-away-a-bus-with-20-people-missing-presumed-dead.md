@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Vietnam News](http://vietnamnews.vnanet.vn/Social-Isssues/204768/Floods-leave-21-dead-or-missing.html)
-2. [Canadian Press via Google News](http://www.google.com/hostednews/canadianpress/article/ALeqM5jd54MoSY48q7Kne6nxE2i3cvIraA?docId=4867033)
+1. [Canadian Press via Google News](http://www.google.com/hostednews/canadianpress/article/ALeqM5jd54MoSY48q7Kne6nxE2i3cvIraA?docId=4867033)
+2. [Vietnam News](http://vietnamnews.vnanet.vn/Social-Isssues/204768/Floods-leave-21-dead-or-missing.html)
 
 ### Related:
 

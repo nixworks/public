@@ -7,8 +7,8 @@ Relatives of the 52 victims of the 7 July 2005 bombings in London have marked th
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2009/0707/london.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8137265.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8137265.stm)
+2. [RTÉ](http://www.rte.ie/news/2009/0707/london.html)
 
 ### Related:
 

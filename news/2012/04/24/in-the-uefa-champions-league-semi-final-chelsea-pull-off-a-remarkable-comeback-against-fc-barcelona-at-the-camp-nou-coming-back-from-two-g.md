@@ -7,9 +7,9 @@ Chelsea claimed a stunning draw against Barcelona at the Camp Nou to book their 
 
 ### Source:
 
-1. [RTE](http://www.rte.ie/sport/soccer/2012/0424/318345-live-updates-barcelona-v-chelsea/)
-2. [The Guardian](http://www.guardian.co.uk/football/2012/apr/24/barcelona-chelsea-champions-league-live-mbm)
-3. [BBC](http://www.bbc.co.uk/sport/0/football/17832531)
+1. [BBC](http://www.bbc.co.uk/sport/0/football/17832531)
+2. [RTE](http://www.rte.ie/sport/soccer/2012/0424/318345-live-updates-barcelona-v-chelsea/)
+3. [The Guardian](http://www.guardian.co.uk/football/2012/apr/24/barcelona-chelsea-champions-league-live-mbm)
 
 ### Related:
 

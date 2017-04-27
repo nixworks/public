@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=politicsNews&storyID=8232161)
-2. [NY Times](http://www.nytimes.com/2005/04/19/politics/19cnd-bolton.html?hp&ex=1113969600&en=f8772edeba476df8&ei=5094&partner=homepage)
+1. [NY Times](http://www.nytimes.com/2005/04/19/politics/19cnd-bolton.html?hp&ex=1113969600&en=f8772edeba476df8&ei=5094&partner=homepage)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=politicsNews&storyID=8232161)
 
 ### Related:
 

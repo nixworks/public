@@ -7,8 +7,8 @@ The House intelligence chairman Devin Nunes is now himself under scrutiny from a
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/powerpost/house-intelligence-chairman-devin-nunes-recuses-himself-from-russia-probe/2017/04/06/8122b5bc-1ad2-11e7-855e-4824bbb5d748_story.html?utm_term=.68b0bbbe3477)
-2. [BBC](http://www.bbc.com/news/world-us-canada-39515098)
+1. [BBC](http://www.bbc.com/news/world-us-canada-39515098)
+2. [The Washington Post](https://www.washingtonpost.com/powerpost/house-intelligence-chairman-devin-nunes-recuses-himself-from-russia-probe/2017/04/06/8122b5bc-1ad2-11e7-855e-4824bbb5d748_story.html?utm_term=.68b0bbbe3477)
 
 ### Related:
 

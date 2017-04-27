@@ -7,9 +7,9 @@ Bayern Munich clinch the Bundesliga title with six games to spare after a win 1-
 
 ### Source:
 
-1. [UEFA](http://www.uefa.com/memberassociations/association=ger/news/newsid=1938006.html)
-2. [BBC](http://www.bbc.co.uk/sport/0/football/22053686)
-3. [Goal.com](http://www.goal.com/en-gb/news/3275/bundesliga/2013/04/06/3882809/breaking-news-bayern-munich-seal-bundesliga-title)
+1. [BBC](http://www.bbc.co.uk/sport/0/football/22053686)
+2. [Goal.com](http://www.goal.com/en-gb/news/3275/bundesliga/2013/04/06/3882809/breaking-news-bayern-munich-seal-bundesliga-title)
+3. [UEFA](http://www.uefa.com/memberassociations/association=ger/news/newsid=1938006.html)
 
 ### Related:
 

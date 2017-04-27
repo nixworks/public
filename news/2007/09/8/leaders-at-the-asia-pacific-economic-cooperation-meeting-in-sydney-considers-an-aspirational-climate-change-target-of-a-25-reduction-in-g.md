@@ -7,8 +7,8 @@ The biggest march scheduled during the APEC summit has ended in central Sydney w
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601081&sid=a7BkPOtjOcZo&refer=australia)
-2. [ABC News Australia](http://www.abc.net.au/news/stories/2007/09/08/2027564.htm)
+1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/09/08/2027564.htm)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601081&sid=a7BkPOtjOcZo&refer=australia)
 
 ### Related:
 

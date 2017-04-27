@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [VOA](http://www.voanews.com/english/2005-10-30-voa7.cfm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4383940.stm)
 2. [Scotsman](http://news.scotsman.com/latest.cfm?id=2169692005)
-3. [BBC](http://news.bbc.co.uk/2/hi/americas/4383940.stm)
+3. [VOA](http://www.voanews.com/english/2005-10-30-voa7.cfm)
 
 ### Related:
 

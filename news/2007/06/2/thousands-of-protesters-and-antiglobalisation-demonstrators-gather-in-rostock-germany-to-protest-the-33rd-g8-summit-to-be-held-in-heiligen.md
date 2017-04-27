@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/skynews/article/0,,30200-1268733,00.html)
-2. [Chicago Tribune](http://www.chicagotribune.com/business/ats-ap_business10jun02,0,4309430.story?coll=sns-business-headlines)
+1. [Chicago Tribune](http://www.chicagotribune.com/business/ats-ap_business10jun02,0,4309430.story?coll=sns-business-headlines)
+2. [Sky News](http://news.sky.com/skynews/article/0,,30200-1268733,00.html)
 
 ### Related:
 

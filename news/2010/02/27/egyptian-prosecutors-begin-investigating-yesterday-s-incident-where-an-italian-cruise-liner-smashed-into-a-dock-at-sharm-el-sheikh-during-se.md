@@ -7,8 +7,8 @@ An Italian luxury cruise ship crashed into a pier at the Red Sea port of Sharm E
 
 ### Source:
 
-1. [Gulfnews](http://gulfnews.com/news/region/egypt/egypt-investigates-costa-crew-over-pier-crash-1.589533)
-2. [ABC News](http://abcnews.go.com/Travel/egypt-cruise-ship-accident-kills-crew/story?id=9954182)
+1. [ABC News](http://abcnews.go.com/Travel/egypt-cruise-ship-accident-kills-crew/story?id=9954182)
+2. [Gulfnews](http://gulfnews.com/news/region/egypt/egypt-investigates-costa-crew-over-pier-crash-1.589533)
 3. [Herald Sun](http://www.heraldsun.com.au/news/breaking-news/three-killed-in-egypt-cruise-ship-crash/story-e6frf7jx-1225834929818)
 
 ### Related:

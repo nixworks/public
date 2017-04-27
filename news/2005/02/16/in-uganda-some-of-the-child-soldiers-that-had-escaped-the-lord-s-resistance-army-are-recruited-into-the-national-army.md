@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [World Peace Herald](http://www.wpherald.com/storyview.php?StoryID=20050215-103855-1077r)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/4266789.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4266789.stm)
+2. [World Peace Herald](http://www.wpherald.com/storyview.php?StoryID=20050215-103855-1077r)
 
 ### Related:
 

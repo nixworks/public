@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [VOA](http://www1.voanews.com/english/news/africa/Explosions-Hallmark-of-Al-Qaeda-Says-Somali-Official--92638284.html)
-2. [CNN](http://edition.cnn.com/2010/WORLD/africa/05/01/somalia.attack/)
+1. [CNN](http://edition.cnn.com/2010/WORLD/africa/05/01/somalia.attack/)
+2. [VOA](http://www1.voanews.com/english/news/africa/Explosions-Hallmark-of-Al-Qaeda-Says-Somali-Official--92638284.html)
 
 ### Related:
 

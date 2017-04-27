@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [ChessBase](http://www.chessbase.com/newsdetail.asp?newsid=8744)
-2. [FIDE](http://ratings.fide.com/top.phtml?list=men)
-3. [ABC.es](http://www.abc.es/agencias/noticia.asp?noticia=1324537)
+1. [ABC.es](http://www.abc.es/agencias/noticia.asp?noticia=1324537)
+2. [ChessBase](http://www.chessbase.com/newsdetail.asp?newsid=8744)
+3. [FIDE](http://ratings.fide.com/top.phtml?list=men)
 
 ### Related:
 

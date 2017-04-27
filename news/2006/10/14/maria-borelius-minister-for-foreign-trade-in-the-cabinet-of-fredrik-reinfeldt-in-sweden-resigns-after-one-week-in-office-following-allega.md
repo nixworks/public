@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2006/WORLD/europe/10/14/sweden.minister.reut/index.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/6051220.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/6051220.stm)
+2. [CNN](http://www.cnn.com/2006/WORLD/europe/10/14/sweden.minister.reut/index.html)
 
 ### Related:
 

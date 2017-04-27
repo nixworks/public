@@ -7,8 +7,8 @@ Prosecutors charged two San Francisco sheriff’s deputies and a former deputy T
 
 ### Source:
 
-1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-sf-deputies-charged-20160301-story.html)
-2. [AP via Fox News](http://www.foxnews.com/us/2016/03/02/2-california-sheriffs-deputies-charged-with-organizing-inmate-fight-club.html)
+1. [AP via Fox News](http://www.foxnews.com/us/2016/03/02/2-california-sheriffs-deputies-charged-with-organizing-inmate-fight-club.html)
+2. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-sf-deputies-charged-20160301-story.html)
 
 ### Related:
 

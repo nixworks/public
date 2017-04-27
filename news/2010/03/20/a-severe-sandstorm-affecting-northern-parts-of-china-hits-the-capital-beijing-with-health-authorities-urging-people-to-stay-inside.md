@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [China Daily](http://www.chinadaily.com.cn/china/2010-03/20/content_9617579.htm)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8577806.stm)
-3. [Bernama](http://www.bernama.com/bernama/v5/newsindex.php?id=484029)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8577806.stm)
+2. [Bernama](http://www.bernama.com/bernama/v5/newsindex.php?id=484029)
+3. [China Daily](http://www.chinadaily.com.cn/china/2010-03/20/content_9617579.htm)
 
 ### Related:
 

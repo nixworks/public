@@ -7,15 +7,15 @@
 
 ### Source:
 
-1. [BBC News](http://news.bbc.co.uk/2/hi/europe/7555858.stm)
-2. [AFP via Google News](http://afp.google.com/article/ALeqM5i7D6UiotbkskzEQpcmAQmmoMIMIw)
-3. [Reuters](http://www.reuters.com/article/topNews/idUSLC65989020080812)
-4. [AP via ''Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1218446184578&pagename=JPost%2FJPArticle%2FShowFull)
+1. [AFP via Google News](http://afp.google.com/article/ALeqM5i7D6UiotbkskzEQpcmAQmmoMIMIw)
+2. [AP via ''Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1218446184578&pagename=JPost%2FJPArticle%2FShowFull)
+3. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080810/ap_on_re_eu/georgia_south_ossetia_abkhazia)
+4. [BBC News](http://news.bbc.co.uk/2/hi/europe/7555858.stm)
 5. [CNN](http://edition.cnn.com/2008/WORLD/europe/08/12/georgia.russia.war/index.html)
-6. [Novy Region](http://www.nr2.ru/south/190935.html)
-7. [Reuters](http://blogs.reuters.com/trail08/2008/08/13/georgia-on-my-mind-mccain/)
-8. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080810/ap_on_re_eu/georgia_south_ossetia_abkhazia)
-9. [InterFax](http://interfax.ru/politics/txt.asp?id=26711)
+6. [InterFax](http://interfax.ru/politics/txt.asp?id=26711)
+7. [Novy Region](http://www.nr2.ru/south/190935.html)
+8. [Reuters](http://blogs.reuters.com/trail08/2008/08/13/georgia-on-my-mind-mccain/)
+9. [Reuters](http://www.reuters.com/article/topNews/idUSLC65989020080812)
 
 ### Related:
 

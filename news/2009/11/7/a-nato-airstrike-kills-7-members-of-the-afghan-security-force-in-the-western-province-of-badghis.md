@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/11/07/afghanistan.airstrike.probe/)
-2. [Bangkok Post](http://www.bangkokpost.com/news/world/159400/nato-strike-kills-7-afghan-security-forces-kabul)
+1. [Bangkok Post](http://www.bangkokpost.com/news/world/159400/nato-strike-kills-7-afghan-security-forces-kabul)
+2. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/11/07/afghanistan.airstrike.probe/)
 
 ### Related:
 

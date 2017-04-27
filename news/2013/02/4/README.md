@@ -31,7 +31,7 @@ _Context: Areva, France, Mahamadou Issoufou, Niger, President of Niger, uranium 
 Ex-cabinet minister Chris Huhne resigns as an MP after admitting he perverted the course of justice over claims his ex-wife took speeding points for him.
 
 ### [Three people are injured after a stabbing on a subway platform in the Parsons/Archer subway station in Queens, New York City, United States. ](/news/2013/02/4/three-people-are-injured-after-a-stabbing-on-a-subway-platform-in-the-parsons-archer-subway-station-in-queens-new-york-city-united-states.md)
-_Context: New York's, Parsons/Archer subway station, Queens, U.S._
+_Context: New York's, Parsons/Archer subway station, Queens, United States_
 
 ### [The death of Jimmy Lee Dykes results in the end of the 2013 Alabama bunker hostage crisis. ](/news/2013/02/4/the-death-of-jimmy-lee-dykes-results-in-the-end-of-the-2013-alabama-bunker-hostage-crisis.md)
 Authorities rescue five-year-old boy held in a bunker for seven days.

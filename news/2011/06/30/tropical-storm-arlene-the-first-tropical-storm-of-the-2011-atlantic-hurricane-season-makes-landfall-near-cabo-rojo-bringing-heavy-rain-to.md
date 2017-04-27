@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [National Hurricane Centre](http://www.nhc.noaa.gov/#ARLENE)
-2. [AP via ''Houston Chronicle](http://www.chron.com/news/specials/hurricane/)
+1. [AP via ''Houston Chronicle](http://www.chron.com/news/specials/hurricane/)
+2. [National Hurricane Centre](http://www.nhc.noaa.gov/#ARLENE)
 
 ### Related:
 

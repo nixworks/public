@@ -7,14 +7,14 @@
 
 ### Source:
 
-1. [AP via MSNBC](http://www.msnbc.msn.com/id/41741662)
-2. [Sky News](http://news.sky.com/skynews/Home/World-News/Libya-The-UK-And-Other-Nations-Are-Evacuating-Foreigners-Trapped-Amid-Ongoing-Civil-Unrest/Article/201102415939265?lpos=World_News_Carousel_Region_0&lid=ARTICLE_15939265_Libya:_The_UK_And_Other_Nations_Are_Evacuating_Foreigners_Trapped_Amid_Ongoing_Civil_Unrest)
-3. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5j0xcyeoFf5QlwojljcxaaxQ1z4uQ?docId=CNG.867dcb3d94702f9df32e0fdbe6185a98.2a1)
-4. [AP via Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/02/23/AR2011022302133.html)
-5. [African Press Agency](http://www.apanews.net/apa.php?page=show_article_eng&id_article=141288)
-6. [Al Jazeera](http://blogs.aljazeera.net/africa/2011/02/22/live-blog-libya-feb-23)
-7. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/02/2011223125256699145.html)
-8. [Reuters](http://af.reuters.com/article/topNews/idAFJOE71M00N20110223?sp=true)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5j0xcyeoFf5QlwojljcxaaxQ1z4uQ?docId=CNG.867dcb3d94702f9df32e0fdbe6185a98.2a1)
+2. [AP via MSNBC](http://www.msnbc.msn.com/id/41741662)
+3. [AP via Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/02/23/AR2011022302133.html)
+4. [African Press Agency](http://www.apanews.net/apa.php?page=show_article_eng&id_article=141288)
+5. [Al Jazeera](http://blogs.aljazeera.net/africa/2011/02/22/live-blog-libya-feb-23)
+6. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/02/2011223125256699145.html)
+7. [Reuters](http://af.reuters.com/article/topNews/idAFJOE71M00N20110223?sp=true)
+8. [Sky News](http://news.sky.com/skynews/Home/World-News/Libya-The-UK-And-Other-Nations-Are-Evacuating-Foreigners-Trapped-Amid-Ongoing-Civil-Unrest/Article/201102415939265?lpos=World_News_Carousel_Region_0&lid=ARTICLE_15939265_Libya:_The_UK_And_Other_Nations_Are_Evacuating_Foreigners_Trapped_Amid_Ongoing_Civil_Unrest)
 
 ### Related:
 

@@ -7,8 +7,8 @@ An Indonesian man who said that God did not exist in a posting on a Facebook pag
 
 ### Source:
 
-1. [The Jakarta Globe](http://www.thejakartaglobe.com/news/dismay-after-indonesian-atheist-charged-with-blasphemy/492622)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-16644141)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-16644141)
+2. [The Jakarta Globe](http://www.thejakartaglobe.com/news/dismay-after-indonesian-atheist-charged-with-blasphemy/492622)
 
 ### Related:
 

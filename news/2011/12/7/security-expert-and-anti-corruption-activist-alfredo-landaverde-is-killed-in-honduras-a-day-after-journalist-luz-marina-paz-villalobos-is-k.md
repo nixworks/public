@@ -7,8 +7,8 @@ After two high-profile killings this week, legislators approved a decree late We
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2011/dec/09/honduras-bans-motorcycle-passengers-shootings)
-2. [NY Times](http://www.nytimes.com/2011/12/09/world/americas/honduras-killings-prompt-a-ban-on-motorcycles-carrying-passengers.html)
+1. [NY Times](http://www.nytimes.com/2011/12/09/world/americas/honduras-killings-prompt-a-ban-on-motorcycles-carrying-passengers.html)
+2. [The Guardian](http://www.guardian.co.uk/world/2011/dec/09/honduras-bans-motorcycle-passengers-shootings)
 
 ### Related:
 

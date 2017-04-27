@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE69R0HL20101028?feedType=RSS&feedName=topNews&rpc=401&sp=true)
-2. [Kenya Broadcasting Corporation](http://www.kbc.co.ke/news.asp?nid=67246)
+1. [Kenya Broadcasting Corporation](http://www.kbc.co.ke/news.asp?nid=67246)
+2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE69R0HL20101028?feedType=RSS&feedName=topNews&rpc=401&sp=true)
 
 ### Related:
 

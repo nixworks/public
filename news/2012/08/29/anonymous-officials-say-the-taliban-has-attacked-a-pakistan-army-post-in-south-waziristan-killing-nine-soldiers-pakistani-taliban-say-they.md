@@ -7,8 +7,8 @@ Taliban militants attacked an army post near the Afghan border in Pakistan&#x27;
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-19407661)
-2. [AP via Yahoo! News](http://news.yahoo.com/militants-attack-pakistan-army-post-kill-9-troops-065810980.html)
+1. [AP via Yahoo! News](http://news.yahoo.com/militants-attack-pakistan-army-post-kill-9-troops-065810980.html)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-19407661)
 
 ### Related:
 

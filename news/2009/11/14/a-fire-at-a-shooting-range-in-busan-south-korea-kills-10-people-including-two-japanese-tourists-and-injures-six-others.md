@@ -7,9 +7,9 @@ A fire that swept through a South Korean indoor shooting range killed at least 1
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Top_News/International/2009/11/14/Shooting-range-fire-kills-at-least-10/UPI-88721258204462/)
-2. [Japan Today](http://www.japantoday.com/category/national/view/7-japanese-among-10-killed-in-fire-at-s-korea-shooting-range)
-3. [Korea Times](http://www.koreatimes.co.kr/www/news/nation/2009/11/113_55493.html)
+1. [Japan Today](http://www.japantoday.com/category/national/view/7-japanese-among-10-killed-in-fire-at-s-korea-shooting-range)
+2. [Korea Times](http://www.koreatimes.co.kr/www/news/nation/2009/11/113_55493.html)
+3. [UPI](http://www.upi.com/Top_News/International/2009/11/14/Shooting-range-fire-kills-at-least-10/UPI-88721258204462/)
 
 ### Related:
 

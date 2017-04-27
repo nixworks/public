@@ -7,10 +7,10 @@ Malik and Mubasher Bukhari
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2016/03/27/asia/pakistan-lahore-deadly-blast/index.html)
+1. [AP](http://bigstory.ap.org/article/72e6954d7c1a4c259e2ab1ee5879d658/latest-bomb-blast-pakistan-park-kills-44-wounds-91)
 2. [Al Jazeera](http://www.aljazeera.com/news/2016/03/deadly-blast-hits-pakistan-lahore-160327143110195.html)
-3. [Reuters](http://www.reuters.com/article/us-pakistan-blast-idUSKCN0WT0HR)
-4. [AP](http://bigstory.ap.org/article/72e6954d7c1a4c259e2ab1ee5879d658/latest-bomb-blast-pakistan-park-kills-44-wounds-91)
+3. [CNN](http://www.cnn.com/2016/03/27/asia/pakistan-lahore-deadly-blast/index.html)
+4. [Reuters](http://www.reuters.com/article/us-pakistan-blast-idUSKCN0WT0HR)
 
 ### Related:
 

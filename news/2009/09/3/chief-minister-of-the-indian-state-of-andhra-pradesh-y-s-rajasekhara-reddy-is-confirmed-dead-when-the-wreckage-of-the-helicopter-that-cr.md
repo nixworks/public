@@ -7,10 +7,10 @@ YSR Reddy &amp; 4 others have died in a chopper crash, PMO said. Chopper mystery
 
 ### Source:
 
-1. [Economic Times](http://economictimes.indiatimes.com/Politics/Nation/Andhra-Pradesh-CM-dead-in-chopper-crash-PMO-sources/articleshow/4966949.cms)
+1. [BBC](http://news.bbc.co.uk/2/hi/8235115.stm)
 2. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/09/03/india.politician/index.html)
-3. [Press Trust of India](http://www.ptinews.com/news/262770_YSR-dies-in-helicopter-crash)
-4. [BBC](http://news.bbc.co.uk/2/hi/8235115.stm)
+3. [Economic Times](http://economictimes.indiatimes.com/Politics/Nation/Andhra-Pradesh-CM-dead-in-chopper-crash-PMO-sources/articleshow/4966949.cms)
+4. [Press Trust of India](http://www.ptinews.com/news/262770_YSR-dies-in-helicopter-crash)
 
 ### Related:
 

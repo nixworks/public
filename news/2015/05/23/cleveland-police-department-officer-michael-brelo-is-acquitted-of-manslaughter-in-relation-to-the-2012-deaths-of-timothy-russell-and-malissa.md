@@ -7,9 +7,9 @@ Cleveland police officer Michael Brelo was acquitted Saturday of manslaughter ch
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/us-news/2015/may/23/cleveland-officer-not-guilty-shot-137-times-police)
+1. [Los Angeles Times'' via WA Today](http://www.watoday.com.au/world/us-police-officer-michael-brelo-found-not-guilty-in-killings-that-followed-2012-car-chase-20150523-gh8ack.html)
 2. [Newsnet](http://www.newsnet5.com/news/local-news/cleveland-metro/more-arrested-on-e-4th-street-in-cleveland-during-protests-over-michel-brelo-acquittal)
-3. [Los Angeles Times'' via WA Today](http://www.watoday.com.au/world/us-police-officer-michael-brelo-found-not-guilty-in-killings-that-followed-2012-car-chase-20150523-gh8ack.html)
+3. [The Guardian](http://www.theguardian.com/us-news/2015/may/23/cleveland-officer-not-guilty-shot-137-times-police)
 
 ### Related:
 

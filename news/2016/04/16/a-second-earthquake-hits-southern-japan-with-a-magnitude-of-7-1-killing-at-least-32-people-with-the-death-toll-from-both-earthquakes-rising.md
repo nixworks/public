@@ -8,12 +8,12 @@ OZU, Japan (AP) — The latest on the earthquakes in Japan (all times local): 1:
 ### Source:
 
 1. [AFP via Yahoo! News](https://in.news.yahoo.com/japan-quake-kills-one-sparks-212410223.html)
-2. [UPI](http://www.upi.com/Business_News/2016/04/16/Japan-quake-causes-Sony-others-to-shut-down-plants-in-region/2711460834197/?spt=hts&or=1)
-3. [The Japan Times](http://www.japantimes.co.jp/news/2016/04/16/national/small-eruption-seen-on-mount-aso-after-latest-quakes/#.VxGgE3pRJFQ)
-4. [AP](http://bigstory.ap.org/article/1e9c481b9b9f4282a439c4c1660fd215/latest-abe-warns-rains-may-bring-more-misery)
-5. [AP via Yahoo! News](https://www.yahoo.com/news/twin-quakes-kills-least-29-051640797.html?ref=gs)
-6. [USA Today](http://www.usatoday.com/story/news/world/2016/04/15/aftershocks-rock-japan-after-magnitude-65-quake/83072544/)
-7. [AP](http://hosted.ap.org/dynamic/stories/A/AS_JAPAN_EARTHQUAKE_THE_LATEST_ASOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [AP via Yahoo! News](https://www.yahoo.com/news/twin-quakes-kills-least-29-051640797.html?ref=gs)
+3. [AP](http://bigstory.ap.org/article/1e9c481b9b9f4282a439c4c1660fd215/latest-abe-warns-rains-may-bring-more-misery)
+4. [AP](http://hosted.ap.org/dynamic/stories/A/AS_JAPAN_EARTHQUAKE_THE_LATEST_ASOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+5. [The Japan Times](http://www.japantimes.co.jp/news/2016/04/16/national/small-eruption-seen-on-mount-aso-after-latest-quakes/#.VxGgE3pRJFQ)
+6. [UPI](http://www.upi.com/Business_News/2016/04/16/Japan-quake-causes-Sony-others-to-shut-down-plants-in-region/2711460834197/?spt=hts&or=1)
+7. [USA Today](http://www.usatoday.com/story/news/world/2016/04/15/aftershocks-rock-japan-after-magnitude-65-quake/83072544/)
 
 ### Related:
 

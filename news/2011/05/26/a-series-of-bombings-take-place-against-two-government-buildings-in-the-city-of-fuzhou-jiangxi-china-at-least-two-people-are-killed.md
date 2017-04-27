@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13556366)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5i57WYFqEn4bLlTbY-Lfu9gn4SEoQ?docId=CNG.925fb1bc06c719f0ccd4c0a6da4f9506.251)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5i57WYFqEn4bLlTbY-Lfu9gn4SEoQ?docId=CNG.925fb1bc06c719f0ccd4c0a6da4f9506.251)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13556366)
 
 ### Related:
 

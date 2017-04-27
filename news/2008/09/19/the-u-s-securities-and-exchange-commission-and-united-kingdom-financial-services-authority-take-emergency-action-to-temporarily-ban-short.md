@@ -8,8 +8,8 @@ The Treasury said it would back the funds temporarily up to $50 billion to ensur
 ### Source:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5j1qYpENSJmaTaTiLWSUFodScpFTwD939NEMG0)
-2. [The New York Times](http://www.nytimes.com/2008/09/20/business/economy/20cndleadall.html)
-3. [The New York Times](http://www.nytimes.com/2008/09/20/business/20moneys.html)
+2. [The New York Times](http://www.nytimes.com/2008/09/20/business/20moneys.html)
+3. [The New York Times](http://www.nytimes.com/2008/09/20/business/economy/20cndleadall.html)
 
 ### Related:
 

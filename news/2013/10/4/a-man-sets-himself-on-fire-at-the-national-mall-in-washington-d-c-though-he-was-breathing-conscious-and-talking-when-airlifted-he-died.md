@@ -7,9 +7,9 @@ Authorities are still trying to identify the man who immolated himself in front 
 
 ### Source:
 
-1. [Huffington Post](http://www.huffingtonpost.com/2013/10/04/man-sets-self-on-fire-national-mall_n_4046249.html)
-2. [Washington Post](http://www.washingtonpost.com/local/man-who-set-himself-on-fire-on-mall-dies/2013/10/05/2fc2932e-2ddf-11e3-b139-029811dbb57f_story.html?tid=auto_complete)
-3. [AP via ''San Francisco Chronicle](http://www.sfgate.com/news/us/article/Man-sets-himself-on-fire-on-the-National-Mall-4870018.php)
+1. [AP via ''San Francisco Chronicle](http://www.sfgate.com/news/us/article/Man-sets-himself-on-fire-on-the-National-Mall-4870018.php)
+2. [Huffington Post](http://www.huffingtonpost.com/2013/10/04/man-sets-self-on-fire-national-mall_n_4046249.html)
+3. [Washington Post](http://www.washingtonpost.com/local/man-who-set-himself-on-fire-on-mall-dies/2013/10/05/2fc2932e-2ddf-11e3-b139-029811dbb57f_story.html?tid=auto_complete)
 
 ### Related:
 

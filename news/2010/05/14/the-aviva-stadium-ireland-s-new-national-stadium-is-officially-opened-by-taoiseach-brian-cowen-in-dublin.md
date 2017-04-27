@@ -7,8 +7,8 @@ The collective gasp the IRFU and FAI had hoped for when showing the media around
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/idUKLDE64D1UV20100514)
-2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8683419.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8683419.stm)
+2. [Reuters](http://uk.reuters.com/article/idUKLDE64D1UV20100514)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0514/breaking47.html?via=mr)
 
 ### Related:

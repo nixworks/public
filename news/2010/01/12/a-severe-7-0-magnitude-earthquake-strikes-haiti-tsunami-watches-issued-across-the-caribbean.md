@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20100112/haiti_earthquake_100112/20100112?hub=TopStoriesV2)
-2. [USGS](http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/us2010rja6.php)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8455629.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8455629.stm)
+2. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20100112/haiti_earthquake_100112/20100112?hub=TopStoriesV2)
+3. [USGS](http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/us2010rja6.php)
 
 ### Related:
 

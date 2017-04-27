@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5j794twyjYyjeOIdsKWwzCUhsgvUAD9A8UR7G2)
-2. [Press TV](http://www.presstv.ir/detail.aspx?id=104360&sectionid=351020404)
-3. [GBC](http://gbcghana.com/news/27677detail.html)
+2. [GBC](http://gbcghana.com/news/27677detail.html)
+3. [Press TV](http://www.presstv.ir/detail.aspx?id=104360&sectionid=351020404)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [LA Times](http://www.latimes.com/news/nationworld/nation/la-na-scotus10oct10,0,129162.story?coll=la-home-nation)
-2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,2144,2815568,00.html)
+1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,2144,2815568,00.html)
+2. [LA Times](http://www.latimes.com/news/nationworld/nation/la-na-scotus10oct10,0,129162.story?coll=la-home-nation)
 
 ### Related:
 

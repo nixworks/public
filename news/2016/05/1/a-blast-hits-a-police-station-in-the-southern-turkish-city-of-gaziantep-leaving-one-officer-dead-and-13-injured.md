@@ -8,8 +8,8 @@ A suicide bomber kills two policemen in south-eastern Turkey, in an attack offic
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-36181138)
-2. [Reuters](http://www.reuters.com/article/us-turkey-blast-idUSKCN0XS0VJ)
-3. [CNN](http://edition.cnn.com/2016/05/01/europe/turkey-blast-police-gaziantep/index.html?eref=edition)
+2. [CNN](http://edition.cnn.com/2016/05/01/europe/turkey-blast-police-gaziantep/index.html?eref=edition)
+3. [Reuters](http://www.reuters.com/article/us-turkey-blast-idUSKCN0XS0VJ)
 
 ### Related:
 

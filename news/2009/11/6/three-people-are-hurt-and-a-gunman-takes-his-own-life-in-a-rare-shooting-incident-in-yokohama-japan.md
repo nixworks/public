@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Daily Yomiuri](http://hosted.ap.org/dynamic/stories/A/AS_JAPAN_SHOOTING_ASOL-?SITE=YOMIURI&SECTION=HOSTED_ASIA&TEMPLATE=ap_national.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8345953.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8345953.stm)
+2. [Daily Yomiuri](http://hosted.ap.org/dynamic/stories/A/AS_JAPAN_SHOOTING_ASOL-?SITE=YOMIURI&SECTION=HOSTED_ASIA&TEMPLATE=ap_national.html)
 
 ### Related:
 

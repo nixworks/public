@@ -7,8 +7,8 @@ French conservatives vote on a presidential candidate, with ex-President Sarkozy
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-france-election-idUSKBN13F04E)
-2. [BBC](http://www.bbc.com/news/world-europe-38040847)
+1. [BBC](http://www.bbc.com/news/world-europe-38040847)
+2. [Reuters](http://www.reuters.com/article/us-france-election-idUSKBN13F04E)
 
 ### Related:
 

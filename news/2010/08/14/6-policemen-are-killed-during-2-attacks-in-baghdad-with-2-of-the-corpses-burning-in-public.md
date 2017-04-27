@@ -7,8 +7,8 @@ Attacks on checkpoints leave at least six officers dead in Baghdad.
 
 ### Source:
 
-1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/08/201081418191769392.html)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iwk632eid4pnvyX40jL4PPhcYieA)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iwk632eid4pnvyX40jL4PPhcYieA)
+2. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/08/201081418191769392.html)
 
 ### Related:
 

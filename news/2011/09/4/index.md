@@ -16,7 +16,7 @@ _Context: Free Democrats, German, Greens, Landtag of Mecklenburg-Vorpommern, Soc
 _Context: Buffalo wing, Sonya Thomas_
 
 ### [2011 World Championships in Athletics:The United States tops the medal count at the World Championships. ](/news/2011/09/4/2011-world-championships-in-athletics-pthe-united-states-tops-the-medal-count-at-the-world-championships.md)
-_Context: 2011, U.S._
+_Context: 2011, United States_
 
 ### [The Emperor penguin who was washed up on a New Zealand beach in June is released back into the Southern Ocean. ](/news/2011/09/4/the-emperor-penguin-who-was-washed-up-on-a-new-zealand-beach-in-june-is-released-back-into-the-southern-ocean.md)
 An emperor penguin known as Happy Feet is released into the ocean south of New Zealand after being found washed up on a beach in June.

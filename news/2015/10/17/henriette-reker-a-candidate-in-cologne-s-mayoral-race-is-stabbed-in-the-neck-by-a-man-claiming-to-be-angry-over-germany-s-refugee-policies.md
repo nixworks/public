@@ -7,8 +7,8 @@ BERLIN — A candidate to be mayor of the German city of Cologne was stabbed and
 
 ### Source:
 
-1. [Today Online](http://www.todayonline.com/world/europe/german-mayoral-candidate-wounded-knife-attack?singlepage=true)
-2. [BBC](http://www.bbc.com/news/world-europe-34561531)
+1. [BBC](http://www.bbc.com/news/world-europe-34561531)
+2. [Today Online](http://www.todayonline.com/world/europe/german-mayoral-candidate-wounded-knife-attack?singlepage=true)
 
 ### Related:
 

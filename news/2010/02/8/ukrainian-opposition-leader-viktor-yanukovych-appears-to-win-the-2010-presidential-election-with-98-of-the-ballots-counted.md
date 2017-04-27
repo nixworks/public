@@ -7,9 +7,9 @@ Russia’s preferred candidate is the apparent winner, but the starkly contested
 
 ### Source:
 
-1. [The Hindu](http://beta.thehindu.com/news/international/article103148.ece)
-2. [The New York Times](http://www.nytimes.com/2010/02/09/world/europe/09ukraine.html)
-3. [Kyiv Post](http://www.kyivpost.com/news/politics/detail/59032/)
+1. [Kyiv Post](http://www.kyivpost.com/news/politics/detail/59032/)
+2. [The Hindu](http://beta.thehindu.com/news/international/article103148.ece)
+3. [The New York Times](http://www.nytimes.com/2010/02/09/world/europe/09ukraine.html)
 
 ### Related:
 

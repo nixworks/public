@@ -7,15 +7,15 @@
 
 ### Source:
 
-1. [Global Times](http://opinion.huanqiu.com/1152/2012-09/3131163.html)
-2. [Kyodo News via ''The Japan Times](http://www.japantimes.co.jp/text/nn20120918x1.html)
-3. [The Japan Times](http://www.japantimes.co.jp/text/nn20120918x2.html)
-4. [The Japan Times](http://www.japantimes.co.jp/text/nn20120918x3.html)
-5. [Los Angeles Times](http://latimesblogs.latimes.com/world_now/2012/09/japanese-business-close-in-china-in-face-of-protests.html)
-6. [AFP via ''The Australian](http://www.theaustralian.com.au/news/world/anti-japan-protests-rock-china-on-anniversary/story-e6frg6so-1226476633270)
-7. [Kyodo News via ''Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120918p2g00m0in079000c.html)
-8. [Yomiuri Shimbun](http://www.yomiuri.co.jp/dy/national/T120918003823.htm)
-9. [Kyodo News via ''The Japan Times](http://www.japantimes.co.jp/text/nn20120918a5.html)
+1. [AFP via ''The Australian](http://www.theaustralian.com.au/news/world/anti-japan-protests-rock-china-on-anniversary/story-e6frg6so-1226476633270)
+2. [Global Times](http://opinion.huanqiu.com/1152/2012-09/3131163.html)
+3. [Kyodo News via ''Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120918p2g00m0in079000c.html)
+4. [Kyodo News via ''The Japan Times](http://www.japantimes.co.jp/text/nn20120918a5.html)
+5. [Kyodo News via ''The Japan Times](http://www.japantimes.co.jp/text/nn20120918x1.html)
+6. [Los Angeles Times](http://latimesblogs.latimes.com/world_now/2012/09/japanese-business-close-in-china-in-face-of-protests.html)
+7. [The Japan Times](http://www.japantimes.co.jp/text/nn20120918x2.html)
+8. [The Japan Times](http://www.japantimes.co.jp/text/nn20120918x3.html)
+9. [Yomiuri Shimbun](http://www.yomiuri.co.jp/dy/national/T120918003823.htm)
 
 ### Related:
 

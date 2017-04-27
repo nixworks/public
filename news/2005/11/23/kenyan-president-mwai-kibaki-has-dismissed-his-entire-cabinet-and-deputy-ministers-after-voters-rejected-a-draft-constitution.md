@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-11-23T162355Z_01_WRI359012_RTRUKOC_0_UK-KENYA-REFERENDUM.xml)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/4463262.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/4463262.stm)
+2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-11-23T162355Z_01_WRI359012_RTRUKOC_0_UK-KENYA-REFERENDUM.xml)
 
 ### Related:
 

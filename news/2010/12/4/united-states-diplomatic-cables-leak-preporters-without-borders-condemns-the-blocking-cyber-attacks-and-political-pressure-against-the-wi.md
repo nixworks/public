@@ -7,12 +7,12 @@ American payment service provider cuts relationship, as whistle-blower struggles
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/201012415822722373.html)
-2. [Wikileaks Facebook's fan page] recently grew by about 100,000 fans daily, going from 300,000 to 700,000 fans in 4 days.[http://www.beehivecity.com/hightech/wikileaks-supporters-embrace-twitter-facebook-as-accounts-boom114012132/ (Beehivecity.com](http://www.facebook.com/wikileaks?v=wall)
-3. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/12/201012416730850792.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/12/201012416730850792.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/201012415822722373.html)
+3. [BBC](http://www.bbc.co.uk/news/uk-11917398)
 4. [The Age](http://www.theage.com.au/world/berlusconiputin-ties-set-off-us-alarm-bells-20101203-18jqy.html)
 5. [The New York Times](http://www.nytimes.com/2010/12/05/world/asia/05wikileaks-china.html?_r=1&emc=na)
-6. [BBC](http://www.bbc.co.uk/news/uk-11917398)
+6. [Wikileaks Facebook's fan page] recently grew by about 100,000 fans daily, going from 300,000 to 700,000 fans in 4 days.[http://www.beehivecity.com/hightech/wikileaks-supporters-embrace-twitter-facebook-as-accounts-boom114012132/ (Beehivecity.com](http://www.facebook.com/wikileaks?v=wall)
 
 ### Related:
 

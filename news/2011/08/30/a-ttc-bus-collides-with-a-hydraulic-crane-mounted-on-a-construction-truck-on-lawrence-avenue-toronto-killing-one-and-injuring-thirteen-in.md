@@ -8,8 +8,8 @@ TTC vehicle and crane truck crash near Lawrence and DVP
 ### Source:
 
 1. [Globe and Mail](http://www.theglobeandmail.com/news/national/toronto/one-dead-9-hurt-in-ttc-bus-collision/article2147364/)
-2. [Vancouver Sun](http://www.vancouversun.com/dead+after+Toronto+crash/5329395/story.html)
-3. [The Hamilton Spectator](http://www.thespec.com/news/ontario/article/587039--toronto-bus-crash-kills-one-injures-13)
+2. [The Hamilton Spectator](http://www.thespec.com/news/ontario/article/587039--toronto-bus-crash-kills-one-injures-13)
+3. [Vancouver Sun](http://www.vancouversun.com/dead+after+Toronto+crash/5329395/story.html)
 
 ### Related:
 

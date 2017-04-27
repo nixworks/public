@@ -7,9 +7,9 @@ Twin blasts at a snooker hall in the south-western Pakistani city of Quetta kill
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2013/jan/10/pakistan-billiard-hall-bombs)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-20969443)
-3. [CBC News](http://www.cbc.ca/news/world/story/2013/01/10/pakistan.html)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-20969443)
+2. [CBC News](http://www.cbc.ca/news/world/story/2013/01/10/pakistan.html)
+3. [The Guardian](http://www.guardian.co.uk/world/2013/jan/10/pakistan-billiard-hall-bombs)
 
 ### Related:
 

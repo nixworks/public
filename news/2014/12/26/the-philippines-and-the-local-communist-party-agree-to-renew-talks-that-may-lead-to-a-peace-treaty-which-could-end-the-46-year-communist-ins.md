@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Daily Mail](http://www.dailymail.co.uk/wires/afp/article-2887400/Philippine-communist-rebels-say-peace-talks-resume-soon.html)
-2. [Channel News Asia](http://www.channelnewsasia.com/mobile/asiapacific/peace-talks-with/1550294.html)
+1. [Channel News Asia](http://www.channelnewsasia.com/mobile/asiapacific/peace-talks-with/1550294.html)
+2. [The Daily Mail](http://www.dailymail.co.uk/wires/afp/article-2887400/Philippine-communist-rebels-say-peace-talks-resume-soon.html)
 
 ### Related:
 

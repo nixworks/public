@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-22077834)
-2. [Reuters](http://www.reuters.com/article/2013/04/09/us-iran-quake-idUSBRE9380HA20130409)
-3. [CNN](http://www.cnn.com/2013/04/09/world/meast/iran-earthquake)
+2. [CNN](http://www.cnn.com/2013/04/09/world/meast/iran-earthquake)
+3. [Reuters](http://www.reuters.com/article/2013/04/09/us-iran-quake-idUSBRE9380HA20130409)
 
 ### Related:
 

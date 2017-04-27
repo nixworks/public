@@ -7,8 +7,8 @@ Jim McGuinness&rsquo;s team serve notice that thet have retained their hunger
 
 ### Source:
 
-1. [The Score](http://www.thescore.ie/donegal-tyrone-live-925647-May2013/)
-2. [The Irish Times](http://www.irishtimes.com/sport/gaelic-games/gaelic-football/donegal-sweep-aside-tyrone-and-make-a-powerful-statement-of-summer-intent-1.1406999)
+1. [The Irish Times](http://www.irishtimes.com/sport/gaelic-games/gaelic-football/donegal-sweep-aside-tyrone-and-make-a-powerful-statement-of-summer-intent-1.1406999)
+2. [The Score](http://www.thescore.ie/donegal-tyrone-live-925647-May2013/)
 
 ### Related:
 

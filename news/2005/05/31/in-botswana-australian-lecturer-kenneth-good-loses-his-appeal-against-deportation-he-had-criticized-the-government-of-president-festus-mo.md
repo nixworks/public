@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [SABC](http://www.sabcnews.com/africa/southern_africa/0,2172,105627,00.html)
-2. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp;:429c78ce:24f4873596beed1?type=topNews&localeKey=en_ZA&storyID=8653507)
-3. [Republic of Botswana](http://www.gov.bw/cgi-bin/news.cgi?d=20050601&i=State_prevails_over_Good)
-4. [BBC](http://news.bbc.co.uk/2/hi/africa/4597053.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4597053.stm)
+2. [Republic of Botswana](http://www.gov.bw/cgi-bin/news.cgi?d=20050601&i=State_prevails_over_Good)
+3. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp;:429c78ce:24f4873596beed1?type=topNews&localeKey=en_ZA&storyID=8653507)
+4. [SABC](http://www.sabcnews.com/africa/southern_africa/0,2172,105627,00.html)
 
 ### Related:
 

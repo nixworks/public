@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [The Wall Street Journal](http://online.wsj.com/article/BT-CO-20090708-703945.html)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601100&sid=aasUT7jU_bd8)
 2. [Financial Times](http://www.ft.com/cms/s/0/3bc0a53c-6b9f-11de-9320-00144feabdc0.html)
 3. [Reuters](http://uk.reuters.com/article/idUKL871023920090708?sp=true)
-4. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601100&sid=aasUT7jU_bd8)
+4. [The Wall Street Journal](http://online.wsj.com/article/BT-CO-20090708-703945.html)
 
 ### Related:
 

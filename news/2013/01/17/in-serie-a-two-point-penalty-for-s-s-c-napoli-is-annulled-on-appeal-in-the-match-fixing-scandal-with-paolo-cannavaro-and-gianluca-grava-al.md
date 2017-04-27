@@ -7,8 +7,8 @@ Napoli have seen their two-point deduction erased, while Paolo Cannavaro and Gia
 
 ### Source:
 
-1. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1302853/napoli-win-appeal-over-match-fixing-charge)
-2. [AFP via Yahoo!](http://sg.sports.yahoo.com/news/napoli-win-two-point-deduction-appeal-194217256--sow.html)
+1. [AFP via Yahoo!](http://sg.sports.yahoo.com/news/napoli-win-two-point-deduction-appeal-194217256--sow.html)
+2. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1302853/napoli-win-appeal-over-match-fixing-charge)
 3. [Goal.com](http://www.goal.com/en-gb/news/3276/serie-a/2013/01/17/3679835/napoli-match-fixing-point-deduction-defensive-duos-bans)
 
 ### Related:

@@ -8,12 +8,12 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/1/shared/election2010/results/constituency/701.stm)
-2. [BBC](http://news.bbc.co.uk/1/shared/election2010/results/constituency/d38.stm)
-3. [BBC](http://news.bbc.co.uk/1/shared/election2010/results/constituency/d66.stm)
-4. [BBC](http://news.bbc.co.uk/1/shared/election2010/results/constituency/a69.stm)
-5. [BBC](http://news.bbc.co.uk/1/shared/election2010/results/constituency/a06.stm)
-6. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/0508/1224269946095.html)
-7. [RTÉ](http://www.rte.ie/news/2010/0507/nielection.html)
+2. [BBC](http://news.bbc.co.uk/1/shared/election2010/results/constituency/a06.stm)
+3. [BBC](http://news.bbc.co.uk/1/shared/election2010/results/constituency/a69.stm)
+4. [BBC](http://news.bbc.co.uk/1/shared/election2010/results/constituency/d38.stm)
+5. [BBC](http://news.bbc.co.uk/1/shared/election2010/results/constituency/d66.stm)
+6. [RTÉ](http://www.rte.ie/news/2010/0507/nielection.html)
+7. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/0508/1224269946095.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Serbian Prime Minister Aleksandar Vucic’s Progressive Party won a majority in 
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-04-23/ex-milosevic-ally-poised-for-easy-win-in-serbian-snap-elections)
-2. [AP via ''The Washington Post](https://www.washingtonpost.com/national/serbias-general-election-tests-eu-bid-amid-far-right-surge/2016/04/24/f3b4275c-09ec-11e6-bfed-ef65dff5970d_story.html)
+1. [AP via ''The Washington Post](https://www.washingtonpost.com/national/serbias-general-election-tests-eu-bid-amid-far-right-surge/2016/04/24/f3b4275c-09ec-11e6-bfed-ef65dff5970d_story.html)
+2. [Bloomberg](http://www.bloomberg.com/news/articles/2016-04-23/ex-milosevic-ally-poised-for-easy-win-in-serbian-snap-elections)
 
 ### Related:
 

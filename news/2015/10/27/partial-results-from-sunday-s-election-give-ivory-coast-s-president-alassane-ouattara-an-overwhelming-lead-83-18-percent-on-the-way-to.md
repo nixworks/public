@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Abidjan.net](http://www.abidjan.net/ELECTIONS/presidentielle/2015/resultats.html)
-2. [Reuters](http://www.reuters.com/article/2015/10/28/us-ivorycoast-election-idUSKCN0SL2VI20151028)
-3. [Financial Times](http://www.ft.com/cms/s/0/6d5d7084-7c91-11e5-98fb-5a6d4728f74e.html#axzz3ppfjCGEj)
+2. [Financial Times](http://www.ft.com/cms/s/0/6d5d7084-7c91-11e5-98fb-5a6d4728f74e.html#axzz3ppfjCGEj)
+3. [Reuters](http://www.reuters.com/article/2015/10/28/us-ivorycoast-election-idUSKCN0SL2VI20151028)
 
 ### Related:
 

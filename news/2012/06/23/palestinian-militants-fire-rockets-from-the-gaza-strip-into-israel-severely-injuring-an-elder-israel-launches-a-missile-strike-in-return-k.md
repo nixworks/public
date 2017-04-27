@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=274891)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-18562213)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18562213)
+2. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=274891)
 
 ### Related:
 

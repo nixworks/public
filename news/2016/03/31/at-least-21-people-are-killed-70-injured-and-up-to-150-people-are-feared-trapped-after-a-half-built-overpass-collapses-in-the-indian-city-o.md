@@ -7,8 +7,8 @@ Three more bodies were recovered from under the debris of the flyover that colla
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/news/world/kolkata-overpass-collapse-kills-least-14-scores-feared-trapped-n548361)
-2. [Indian Express](http://indianexpress.com/article/india/india-news-india/kolkata-under-construction-bridge-collapses-several-feared-dead-latest-updates/)
+1. [Indian Express](http://indianexpress.com/article/india/india-news-india/kolkata-under-construction-bridge-collapses-several-feared-dead-latest-updates/)
+2. [NBC News](http://www.nbcnews.com/news/world/kolkata-overpass-collapse-kills-least-14-scores-feared-trapped-n548361)
 
 ### Related:
 

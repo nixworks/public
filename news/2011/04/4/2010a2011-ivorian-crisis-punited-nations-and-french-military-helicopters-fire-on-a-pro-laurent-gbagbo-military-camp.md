@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://af.reuters.com/article/ivoryCoastNews/idAFLDE73322Z20110404)
-2. [AP](http://hosted.ap.org/dynamic/stories/A/AF_IVORY_COAST?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2011-04-04-20-03-28)
+1. [AP](http://hosted.ap.org/dynamic/stories/A/AF_IVORY_COAST?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2011-04-04-20-03-28)
+2. [Reuters](http://af.reuters.com/article/ivoryCoastNews/idAFLDE73322Z20110404)
 
 ### Related:
 

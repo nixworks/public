@@ -7,10 +7,10 @@ Italy has fined Ryanair 3 million euros for failing to help passengers after can
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSLDE64E05Y20100515?type=marketsNews)
-2. [BBC](http://news.bbc.co.uk/2/hi/business/8684683.stm)
-3. [Wikinews](http://en.wikinews.org/wiki/European_airline_Ryanair_fined_over_ash-triggered_flight_cancellations?dpl_id=183637)
-4. [Radio New Zealand](http://www.radionz.co.nz/news/stories/2010/05/16/1248041f4a02)
+1. [BBC](http://news.bbc.co.uk/2/hi/business/8684683.stm)
+2. [Radio New Zealand](http://www.radionz.co.nz/news/stories/2010/05/16/1248041f4a02)
+3. [Reuters](http://www.reuters.com/article/idUSLDE64E05Y20100515?type=marketsNews)
+4. [Wikinews](http://en.wikinews.org/wiki/European_airline_Ryanair_fined_over_ash-triggered_flight_cancellations?dpl_id=183637)
 5. [euronews](http://www.euronews.net/2010/05/15/italy-imposes-heavy-fine-on-ryanair/)
 
 ### Related:

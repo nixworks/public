@@ -7,8 +7,8 @@ From newly charted astronomical anomalies at the far reaches of the universe to 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=scienceNews&storyID=7802630)
-2. [CBC](http://www.cbc.ca/health/story/2005/03/03/hobbits050303.html)
+1. [CBC](http://www.cbc.ca/health/story/2005/03/03/hobbits050303.html)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=scienceNews&storyID=7802630)
 
 ### Related:
 

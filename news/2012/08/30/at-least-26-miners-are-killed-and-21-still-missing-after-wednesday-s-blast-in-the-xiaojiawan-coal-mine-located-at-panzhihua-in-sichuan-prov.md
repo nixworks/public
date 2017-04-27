@@ -7,8 +7,8 @@ An explosion in a Chinese coal mine killed 26 miners and 21 others were still un
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/08/30/us-china-mine-idUSBRE87T0S520120830)
-2. [Bloomberg Businessweek](http://www.businessweek.com/ap/2012-08-30/19-killed-in-coal-mine-blast-in-southwest-china)
+1. [Bloomberg Businessweek](http://www.businessweek.com/ap/2012-08-30/19-killed-in-coal-mine-blast-in-southwest-china)
+2. [Reuters](http://www.reuters.com/article/2012/08/30/us-china-mine-idUSBRE87T0S520120830)
 
 ### Related:
 

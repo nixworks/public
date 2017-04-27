@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [IOL](http://www.iol.co.za/sport/cycling/cyclist-handed-12-year-doping-ban-1.1280062)
-2. [BBC](http://www.bbc.co.uk/sport/0/cycling/17775015)
+1. [BBC](http://www.bbc.co.uk/sport/0/cycling/17775015)
+2. [IOL](http://www.iol.co.za/sport/cycling/cyclist-handed-12-year-doping-ban-1.1280062)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Long-running US cartoon The Simpsons is to return for its 23rd series, Fox Telev
 
 ### Source:
 
-1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2010/11/12/3064676.htm)
-2. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11741823)
+1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11741823)
+2. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2010/11/12/3064676.htm)
 
 ### Related:
 

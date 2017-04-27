@@ -7,11 +7,11 @@ News organizations including The New York Times, the Los Angeles Times, CNN and 
 
 ### Source:
 
-1. [AP](http://bigstory.ap.org/article/9d04bb7ccf60468987c582b4ee9c7e24/white-house-bars-major-news-outlets-media-gaggle)
-2. [The Hill'' via MSN.Com](http://www.msn.com/en-us/news/politics/media-slams-limited-wh-press-access/ar-AAnksZB?ocid=edgsp)
-3. [The New York Times](https://www.nytimes.com/2017/02/24/us/politics/white-house-sean-spicer-briefing.html?_r=0)
-4. [ (NBC News](http://www.nbcnews.com/politics/white-house/white-house-excludes-several-outlets-press-gaggle-n725366)
-5. [Reuters](http://www.reuters.com/article/us-usa-trump-media-idUSKBN1632JG?il=0)
+1. [ (NBC News](http://www.nbcnews.com/politics/white-house/white-house-excludes-several-outlets-press-gaggle-n725366)
+2. [AP](http://bigstory.ap.org/article/9d04bb7ccf60468987c582b4ee9c7e24/white-house-bars-major-news-outlets-media-gaggle)
+3. [Reuters](http://www.reuters.com/article/us-usa-trump-media-idUSKBN1632JG?il=0)
+4. [The Hill'' via MSN.Com](http://www.msn.com/en-us/news/politics/media-slams-limited-wh-press-access/ar-AAnksZB?ocid=edgsp)
+5. [The New York Times](https://www.nytimes.com/2017/02/24/us/politics/white-house-sean-spicer-briefing.html?_r=0)
 
 ### Related:
 

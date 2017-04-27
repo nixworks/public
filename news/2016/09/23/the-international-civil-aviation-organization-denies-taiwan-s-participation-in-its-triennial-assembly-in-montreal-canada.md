@@ -7,8 +7,8 @@ A U.N. aviation agency has snubbed Taiwan by not inviting it to its assembly in 
 
 ### Source:
 
-1. [The Taipei Times](http://www.taipeitimes.com/News/front/archives/2016/09/24/2003655812)
-2. [Reuters](http://www.reuters.com/article/us-taiwan-china-idUSKCN11T08P)
+1. [Reuters](http://www.reuters.com/article/us-taiwan-china-idUSKCN11T08P)
+2. [The Taipei Times](http://www.taipeitimes.com/News/front/archives/2016/09/24/2003655812)
 
 ### Related:
 

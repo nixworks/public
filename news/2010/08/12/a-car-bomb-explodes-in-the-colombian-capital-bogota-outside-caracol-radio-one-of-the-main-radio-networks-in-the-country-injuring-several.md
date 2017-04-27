@@ -8,8 +8,8 @@ Nine people injured by a car bomb planted outside a radio station in Bogota.
 ### Source:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hB4P7UUGsLNmFp0oUyksHevzz02wD9HI6CDG0)
-2. [Colombia Reports](http://colombiareports.com/colombia-news/news/11302-bomb-blast-rattles-bogota-radio-station.html)
-3. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/2010812125348956495.html)
+2. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/2010812125348956495.html)
+3. [Colombia Reports](http://colombiareports.com/colombia-news/news/11302-bomb-blast-rattles-bogota-radio-station.html)
 4. [The Guardian](http://www.guardian.co.uk/world/2010/aug/12/colombia-car-bomb-bogota)
 
 ### Related:

@@ -7,9 +7,9 @@ Nicolas Maduro says ‘Washington is activating measures at the request of Venez
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-venezuela-politics-idUSKCN0Y501X)
+1. [BBC](http://www.bbc.com/news/world-latin-america-35329617)
 2. [Guardian](http://www.theguardian.com/world/2016/may/14/venezuela-president-declares-60-day-state-of-emergency-blaming-us-for-instability)
-3. [BBC](http://www.bbc.com/news/world-latin-america-35329617)
+3. [Reuters](http://www.reuters.com/article/us-venezuela-politics-idUSKCN0Y501X)
 
 ### Related:
 

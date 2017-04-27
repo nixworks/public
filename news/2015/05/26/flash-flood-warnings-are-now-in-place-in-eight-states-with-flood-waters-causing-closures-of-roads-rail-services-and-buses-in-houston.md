@@ -7,9 +7,9 @@ An unprecedented downpour of torrential rain triggered &quot;extremely dangerous
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/news/weather/waterlogged-texas-plains-under-threat-fresh-round-thunderstorms-n364456)
+1. [AP via News24](http://www.news24.com/news24/World/News/30-missing-as-flood-waters-rise-in-Texas-20150526)
 2. [AP](http://bigstory.ap.org/article/9e7dbcf964604043857ab202426419aa/latest-recovery-cleanup-set-begin-texas-mexico)
-3. [AP via News24](http://www.news24.com/news24/World/News/30-missing-as-flood-waters-rise-in-Texas-20150526)
+3. [NBC News](http://www.nbcnews.com/news/weather/waterlogged-texas-plains-under-threat-fresh-round-thunderstorms-n364456)
 
 ### Related:
 

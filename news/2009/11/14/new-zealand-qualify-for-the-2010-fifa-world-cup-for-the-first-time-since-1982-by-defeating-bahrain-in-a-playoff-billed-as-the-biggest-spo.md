@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/sport2/hi/football/internationals/8360167.stm)
-2. [Arabnews](http://www.arabnews.com/?page=8&section=0&article=128476&d=15&m=11&y=2009)
+1. [Arabnews](http://www.arabnews.com/?page=8&section=0&article=128476&d=15&m=11&y=2009)
+2. [BBC](http://news.bbc.co.uk/sport2/hi/football/internationals/8360167.stm)
 
 ### Related:
 

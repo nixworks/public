@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CBC News](http://www.cbc.ca/technology/story/2010/05/25/pacman-google.html?ref=rss)
-2. [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-1281317/Google-Pac-Man-game-eats-million-hours-work-time.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/technology/10153286.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/technology/10153286.stm)
+2. [CBC News](http://www.cbc.ca/technology/story/2010/05/25/pacman-google.html?ref=rss)
+3. [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-1281317/Google-Pac-Man-game-eats-million-hours-work-time.html)
 
 ### Related:
 

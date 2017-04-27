@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [New York Sun](http://www.nysun.com/article/30527)
-2. [FOX news](http://www.fox12news.com/Global/story.asp?S=4734568)
+1. [FOX news](http://www.fox12news.com/Global/story.asp?S=4734568)
+2. [New York Sun](http://www.nysun.com/article/30527)
 
 ### Related:
 

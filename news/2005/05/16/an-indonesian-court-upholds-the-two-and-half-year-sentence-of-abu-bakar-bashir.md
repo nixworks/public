@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/SP153659.htm)
-2. [Laksamana](http://www.laksamana.net/vnews.cfm?ncat=45&news_id=8153)
+1. [Laksamana](http://www.laksamana.net/vnews.cfm?ncat=45&news_id=8153)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/SP153659.htm)
 
 ### Related:
 

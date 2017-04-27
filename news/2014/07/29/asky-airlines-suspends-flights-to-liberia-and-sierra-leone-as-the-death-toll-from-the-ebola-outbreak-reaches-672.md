@@ -7,8 +7,8 @@ A West African airline halts flights to Liberia and Sierra Leone amid concern ab
 
 ### Source:
 
-1. [Reuters via ABC Australia](http://www.abc.net.au/news/2014-07-30/ebola-fighting-doctor-sheik-umar-khan-dies-from-virus/5633914)
-2. [BBC](http://www.bbc.com/news/world-africa-28550906?ocid=socialflow_twitter)
+1. [BBC](http://www.bbc.com/news/world-africa-28550906?ocid=socialflow_twitter)
+2. [Reuters via ABC Australia](http://www.abc.net.au/news/2014-07-30/ebola-fighting-doctor-sheik-umar-khan-dies-from-virus/5633914)
 
 ### Related:
 

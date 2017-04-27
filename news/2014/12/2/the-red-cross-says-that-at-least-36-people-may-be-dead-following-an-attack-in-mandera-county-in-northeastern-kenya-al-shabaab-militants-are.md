@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters via ''New York Times](http://www.nytimes.com/reuters/2014/12/02/world/africa/02reuters-kenya-attacks.html?partner=rss&emc=rss&smid=tw-nytimesworld&_r=0)
-2. [Bloomberg via ''Business Week](http://www.businessweek.com/news/2014-12-02/kenya-red-cross-says-36-feared-dead-after-attack-in-northeast)
+1. [Bloomberg via ''Business Week](http://www.businessweek.com/news/2014-12-02/kenya-red-cross-says-36-feared-dead-after-attack-in-northeast)
+2. [Reuters via ''New York Times](http://www.nytimes.com/reuters/2014/12/02/world/africa/02reuters-kenya-attacks.html?partner=rss&emc=rss&smid=tw-nytimesworld&_r=0)
 
 ### Related:
 

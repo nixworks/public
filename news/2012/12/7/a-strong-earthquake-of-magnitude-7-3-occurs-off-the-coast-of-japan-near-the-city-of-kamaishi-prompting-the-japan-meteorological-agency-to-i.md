@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-20638696)
-2. [ENS](http://ens-newswire.com/2012/12/07/magnitude-7-3-earthquake-shakes-northeast-japan/)
-3. [Dow Jones via ''Wall Street Journal](http://online.wsj.com/article/SB10001424127887324640104578164561908122342.html)
+2. [Dow Jones via ''Wall Street Journal](http://online.wsj.com/article/SB10001424127887324640104578164561908122342.html)
+3. [ENS](http://ens-newswire.com/2012/12/07/magnitude-7-3-earthquake-shakes-northeast-japan/)
 4. [Reuters](http://uk.reuters.com/article/2012/12/07/us-japan-quake-idUKBRE8B607Z20121207)
 
 ### Related:

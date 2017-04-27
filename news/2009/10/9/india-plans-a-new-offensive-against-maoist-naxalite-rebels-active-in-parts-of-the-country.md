@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Outlook India](http://news.outlookindia.com/item.aspx?667442)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hNYvlFxq9KRZeTwOdobge6kRj3Jg)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hNYvlFxq9KRZeTwOdobge6kRj3Jg)
+2. [Outlook India](http://news.outlookindia.com/item.aspx?667442)
 
 ### Related:
 

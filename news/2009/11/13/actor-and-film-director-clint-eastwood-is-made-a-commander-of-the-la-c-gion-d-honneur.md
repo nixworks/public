@@ -8,8 +8,8 @@ Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, c
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/Entertainment/wireStory?id=9077579)
-2. [Xinhua](http://news.xinhuanet.com/english/2009-11/13/content_12452546.htm)
-3. [Gulf Daily News](http://www.gulf-daily-news.com/NewsDetails.aspx?storyid=263945)
+2. [Gulf Daily News](http://www.gulf-daily-news.com/NewsDetails.aspx?storyid=263945)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-11/13/content_12452546.htm)
 
 ### Related:
 

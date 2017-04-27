@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/01/23/us-jordan-elections-polls-idUSBRE90M09G20130123)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-21158713)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21158713)
+2. [Reuters](http://www.reuters.com/article/2013/01/23/us-jordan-elections-polls-idUSBRE90M09G20130123)
 
 ### Related:
 

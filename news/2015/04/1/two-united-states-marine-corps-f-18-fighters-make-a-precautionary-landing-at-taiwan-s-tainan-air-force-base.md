@@ -7,8 +7,8 @@ The emergency landing of two U.S. Marine Corps F-18 fighter jets on the island o
 
 ### Source:
 
-1. [The Washington Times](http://www.washingtontimes.com/news/2015/apr/1/inside-the-ring-marine-fighter-jet-landing-on-taiw/)
-2. [Focus Taiwan](http://focustaiwan.tw/news/aipl/201504010018.aspx)
+1. [Focus Taiwan](http://focustaiwan.tw/news/aipl/201504010018.aspx)
+2. [The Washington Times](http://www.washingtontimes.com/news/2015/apr/1/inside-the-ring-marine-fighter-jet-landing-on-taiw/)
 
 ### Related:
 

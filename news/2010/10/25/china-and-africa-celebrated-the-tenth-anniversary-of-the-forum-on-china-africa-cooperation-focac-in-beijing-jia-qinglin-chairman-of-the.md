@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [gov.cn](http://www.gov.cn/misc/2010-10/26/content_1730212.htm)
-2. [China Gate](http://en.chinagate.cn/development/international/2010-10/26/content_21200038_2.htm)
+1. [China Gate](http://en.chinagate.cn/development/international/2010-10/26/content_21200038_2.htm)
+2. [gov.cn](http://www.gov.cn/misc/2010-10/26/content_1730212.htm)
 
 ### Related:
 

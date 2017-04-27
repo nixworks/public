@@ -7,9 +7,9 @@ Gunmen in police uniforms kidnapped five Britons in Baghdad on Tuesday and the d
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/topNews/idUKKAR93772920070529?src=052907_1230_TOPSTORY_westerners_kidnapped_in_iraq)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/6700319.stm)
-3. [CNN](http://edition.cnn.com/2007/WORLD/meast/05/29/iraq.main/)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/6700319.stm)
+2. [CNN](http://edition.cnn.com/2007/WORLD/meast/05/29/iraq.main/)
+3. [Reuters](http://uk.reuters.com/article/topNews/idUKKAR93772920070529?src=052907_1230_TOPSTORY_westerners_kidnapped_in_iraq)
 
 ### Related:
 

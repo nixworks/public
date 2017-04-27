@@ -7,9 +7,9 @@ The UN human rights chief has ramped up pressure on the Syrian president, accusi
 
 ### Source:
 
-1. [AP via ''Herald-Tribune](http://www.heraldtribune.com/article/20120213/API/1202130568)
-2. [Reuters](http://www.reuters.com/article/2012/02/13/us-syria-idUSL5E8DB0BH20120213)
-3. [ABC News Australia](http://www.abc.net.au/news/2012-02-14/un-accuses-syria-of-human-rights-abuses/3828268)
+1. [ABC News Australia](http://www.abc.net.au/news/2012-02-14/un-accuses-syria-of-human-rights-abuses/3828268)
+2. [AP via ''Herald-Tribune](http://www.heraldtribune.com/article/20120213/API/1202130568)
+3. [Reuters](http://www.reuters.com/article/2012/02/13/us-syria-idUSL5E8DB0BH20120213)
 
 ### Related:
 

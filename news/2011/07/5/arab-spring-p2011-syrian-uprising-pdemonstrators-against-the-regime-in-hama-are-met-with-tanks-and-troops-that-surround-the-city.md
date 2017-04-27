@@ -8,12 +8,12 @@ At least 16 people reported killed by Syrian forces in city that has become foca
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/07/201175111239347361.html)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-14029397)
-3. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/07/2011755223504921.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/07/2011755223504921.html)
+3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/20117575942416758.html)
 4. [Al Jazeera](http://www.bbc.co.uk/news/world-africa-14037358)
-5. [BBC](http://www.bbc.co.uk/news/world-middle-east-14035274)
-6. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/20117575942416758.html)
-7. [BBC](http://www.bbc.co.uk/news/world-middle-east-14032765)
+5. [BBC](http://www.bbc.co.uk/news/world-middle-east-14029397)
+6. [BBC](http://www.bbc.co.uk/news/world-middle-east-14032765)
+7. [BBC](http://www.bbc.co.uk/news/world-middle-east-14035274)
 
 ### Related:
 

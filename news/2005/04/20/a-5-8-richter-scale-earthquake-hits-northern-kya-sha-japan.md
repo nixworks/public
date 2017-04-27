@@ -7,10 +7,10 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8231215)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000101&sid=a543A.2kPLKU&refer=japan)
 2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/143504/1/.html)
 3. [Japan Today](http://www.japantoday.com/e/?content=news&cat=1&id=334772)
-4. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000101&sid=a543A.2kPLKU&refer=japan)
+4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8231215)
 
 ### Related:
 

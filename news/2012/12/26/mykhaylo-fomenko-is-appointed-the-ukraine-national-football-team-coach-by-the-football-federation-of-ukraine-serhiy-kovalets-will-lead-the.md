@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Kyiv Post](http://www.kyivpost.com/content/sport/ukraines-football-federation-taps-fomenko-to-coach-national-team-318175.html)
-2. [Bigmir.Net](http://sport.bigmir.net/football/countryteam/1561588-Sergej-Kovalec---glavnyj-trener-molodezhnoj-sbornoj-Ukrainy)
+1. [Bigmir.Net](http://sport.bigmir.net/football/countryteam/1561588-Sergej-Kovalec---glavnyj-trener-molodezhnoj-sbornoj-Ukrainy)
+2. [Kyiv Post](http://www.kyivpost.com/content/sport/ukraines-football-federation-taps-fomenko-to-coach-national-team-318175.html)
 
 ### Related:
 

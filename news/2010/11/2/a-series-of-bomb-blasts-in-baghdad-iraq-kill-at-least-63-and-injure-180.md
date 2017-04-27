@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-11/03/c_13588026.htm)
-2. [CNN](http://edition.cnn.com/2010/WORLD/meast/11/02/iraq.baghdad.blasts/index.html?eref=edition)
+1. [CNN](http://edition.cnn.com/2010/WORLD/meast/11/02/iraq.baghdad.blasts/index.html?eref=edition)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-11/03/c_13588026.htm)
 
 ### Related:
 

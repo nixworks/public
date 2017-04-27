@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [IRIN](http://www.irinnews.org/report.asp?ReportID=45666&SelectRegion=West_Africa)
-2. [Nigeria World](http://nigeriaworld.com/feature/publication/arowolaju/022005.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/africa/4283245.stm)
-4. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/IRIN/7736a0b214fc5f889182858479d1797c.htm)
-5. [AllAfrica](http://allafrica.com/stories/200502210349.html)
+1. [AllAfrica](http://allafrica.com/stories/200502210349.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/4283245.stm)
+3. [IRIN](http://www.irinnews.org/report.asp?ReportID=45666&SelectRegion=West_Africa)
+4. [Nigeria World](http://nigeriaworld.com/feature/publication/arowolaju/022005.html)
+5. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/IRIN/7736a0b214fc5f889182858479d1797c.htm)
 
 ### Related:
 

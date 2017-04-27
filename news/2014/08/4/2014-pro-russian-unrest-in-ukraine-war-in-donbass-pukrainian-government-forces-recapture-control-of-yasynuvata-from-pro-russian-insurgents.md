@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/world/europe/ukrainian-military-urges-donetsk-residents-to-evacuate-clearing-way-for-advance/2014/08/04/4d060f6c-1bcb-11e4-82f9-2cd6fa8da5c4_story.html)
-2. [Reuters](http://ca.reuters.com/article/topNews/idCAKBN0G40YI20140804)
+1. [Reuters](http://ca.reuters.com/article/topNews/idCAKBN0G40YI20140804)
+2. [Washington Post](http://www.washingtonpost.com/world/europe/ukrainian-military-urges-donetsk-residents-to-evacuate-clearing-way-for-advance/2014/08/04/4d060f6c-1bcb-11e4-82f9-2cd6fa8da5c4_story.html)
 
 ### Related:
 

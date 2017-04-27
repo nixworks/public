@@ -7,8 +7,8 @@ RT&Eacute; has extended sympathy to Ryan Tubridy and his family following the de
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2013/0131/1224329469912.html)
-2. [Irish Independent](http://www.independent.ie/entertainment/tv-radio/blast-from-the-past-pat-kenny-to-host-late-late-show-as-ryan-tubridy-mourns-passing-of-father-3371005.html)
+1. [Irish Independent](http://www.independent.ie/entertainment/tv-radio/blast-from-the-past-pat-kenny-to-host-late-late-show-as-ryan-tubridy-mourns-passing-of-father-3371005.html)
+2. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2013/0131/1224329469912.html)
 
 ### Related:
 

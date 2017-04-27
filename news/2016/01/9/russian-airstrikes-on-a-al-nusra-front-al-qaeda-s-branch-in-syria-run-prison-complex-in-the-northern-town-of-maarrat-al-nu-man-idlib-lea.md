@@ -7,8 +7,8 @@ Most of those killed were rebels imprisoned by Al Nusra, while other victims inc
 
 ### Source:
 
-1. [The National](http://www.thenational.ae/world/middle-east/russian-air-strikes-on-jabhat-al-nusra-prison-kill-39-people)
-2. [AFP via ''Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3391919/Nearly-60-dead-Russia-raids-Qaeda-run-Syria-jail-monitor.html)
+1. [AFP via ''Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3391919/Nearly-60-dead-Russia-raids-Qaeda-run-Syria-jail-monitor.html)
+2. [The National](http://www.thenational.ae/world/middle-east/russian-air-strikes-on-jabhat-al-nusra-prison-kill-39-people)
 
 ### Related:
 

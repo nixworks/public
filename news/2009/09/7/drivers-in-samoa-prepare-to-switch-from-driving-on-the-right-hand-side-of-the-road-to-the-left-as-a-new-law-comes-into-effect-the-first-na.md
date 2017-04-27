@@ -8,8 +8,8 @@ SYDNEY (Reuters Life!) - Samoa is about to become the first nation in nearly 40 
 ### Source:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gHv9dCCKAr79WLVGpt2eyB2NJoFQD9AIDGM00)
-2. [Reuters](http://www.reuters.com/article/lifestyleMolt/idUSTRE5861QV20090907)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8240992.stm)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8240992.stm)
+3. [Reuters](http://www.reuters.com/article/lifestyleMolt/idUSTRE5861QV20090907)
 
 ### Related:
 

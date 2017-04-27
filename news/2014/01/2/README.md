@@ -1,7 +1,7 @@
 ## [2014-01-2](/news/2014/01/2/index.md)
 
 ### [Iraqi insurgency (post-U.S. withdrawal):Armed tribesmen and ISIS militants control the Iraqi cities of Fallujah and Ramadi, after days of violence that erupted as a protest camp was removed. ](/news/2014/01/2/iraqi-insurgency-post-u-s-withdrawal-parmed-tribesmen-and-isis-militants-control-the-iraqi-cities-of-fallujah-and-ramadi-after-days-of-v.md)
-_Context: Fallujah, Iraqi insurgency (post-U.S. withdrawal), Islamic State of Iraq and the Levant, Ramadi_
+_Context: Fallujah, ISIL, Iraqi insurgency (post-U.S. withdrawal), Ramadi_
 
 ### [Syrian Civil War spillover in Lebanon:Five people are killed and 20 wounded in a car bomb which hit a southern suburb of the Lebanese capital Beirut. ](/news/2014/01/2/syrian-civil-war-spillover-in-lebanon-pfive-people-are-killed-and-20-wounded-in-a-car-bomb-which-hit-a-southern-suburb-of-the-lebanese-capit.md)
 A car bomb explodes in a southern suburb of the Lebanese capital Beirut, killing at least five people and injuring more than 60.

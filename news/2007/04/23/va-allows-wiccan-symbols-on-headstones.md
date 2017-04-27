@@ -7,8 +7,8 @@ After a lawsuit advocating the usage of Wiccan pentacles on headstones, the US D
 
 ### Source:
 
-1. [Fox](http://www.foxnews.com/story/0,2933,267887,00.html)
-2. [CNN](http://www.cnn.com/2007/US/04/23/wiccan.grave.ap/index.html)
+1. [CNN](http://www.cnn.com/2007/US/04/23/wiccan.grave.ap/index.html)
+2. [Fox](http://www.foxnews.com/story/0,2933,267887,00.html)
 
 ### Related:
 

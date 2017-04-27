@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Reuters](http://olympics.reuters.com/newsArticle.jhtml?type=domesticNews&storyID=7717404)
+1. [CNN](http://www.cnn.com/2005/TECH/02/23/canada.us.missile.defense.ap/)
 2. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/1109178137996_104587337/?hub=CTVNewsAt11)
-3. [Xinhua](http://news.xinhuanet.com/english/2005-02/24/content_2613106.htm)
-4. [CNN](http://www.cnn.com/2005/TECH/02/23/canada.us.missile.defense.ap/)
+3. [Reuters](http://olympics.reuters.com/newsArticle.jhtml?type=domesticNews&storyID=7717404)
+4. [Xinhua](http://news.xinhuanet.com/english/2005-02/24/content_2613106.htm)
 
 ### Related:
 

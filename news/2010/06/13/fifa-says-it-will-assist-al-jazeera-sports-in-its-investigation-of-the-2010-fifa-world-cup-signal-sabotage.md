@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Zimbabwean](http://www.thezimbabwean.co.uk/index.php?option=com_content&view=article&id=31774:fifa-appalled-at-jamming-of-al-jazeera&catid=27:sports-news&Itemid=35)
+1. [Business Week](http://www.businessweek.com/news/2010-06-13/fifa-to-help-al-jazeera-probe-world-cup-sabotage-update1-.html)
 2. [Hindustan Times](http://www.hindustantimes.com/FIFA-vows-to-help-al-Jazeera-stop-WC-black-outs/Article1-557137.aspx)
-3. [Business Week](http://www.businessweek.com/news/2010-06-13/fifa-to-help-al-jazeera-probe-world-cup-sabotage-update1-.html)
+3. [The Zimbabwean](http://www.thezimbabwean.co.uk/index.php?option=com_content&view=article&id=31774:fifa-appalled-at-jamming-of-al-jazeera&catid=27:sports-news&Itemid=35)
 
 ### Related:
 

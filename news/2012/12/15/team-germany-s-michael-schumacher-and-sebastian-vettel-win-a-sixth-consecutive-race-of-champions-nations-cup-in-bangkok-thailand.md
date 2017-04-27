@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Motorsport](http://www.motorsport.com/general/news/team-germany-wins-6th-roc-nations-cup-title-in-thailand/)
-2. [Autosport](http://www.autosport.com/news/report.php/id/104840)
+1. [Autosport](http://www.autosport.com/news/report.php/id/104840)
+2. [Motorsport](http://www.motorsport.com/general/news/team-germany-wins-6th-roc-nations-cup-title-in-thailand/)
 
 ### Related:
 

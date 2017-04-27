@@ -7,8 +7,8 @@ A&#x20;French&#x20;court&#x20;approved&#x20;Wednesday&#x20;the&#x20;transfer&#x2
 
 ### Source:
 
-1. [The East African](http://www.theeastafrican.co.ke/news/-/2558/1046172/-/omvax3z/-/)
-2. [RFI](http://www.english.rfi.fr/africa/20101103-french-court-approves-extradition-icc-rwandan-rebel-leader)
+1. [RFI](http://www.english.rfi.fr/africa/20101103-french-court-approves-extradition-icc-rwandan-rebel-leader)
+2. [The East African](http://www.theeastafrican.co.ke/news/-/2558/1046172/-/omvax3z/-/)
 
 ### Related:
 

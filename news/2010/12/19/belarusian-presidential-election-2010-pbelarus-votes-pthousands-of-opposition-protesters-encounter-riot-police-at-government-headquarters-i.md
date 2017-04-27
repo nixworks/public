@@ -8,9 +8,9 @@ Thousands of opposition protesters in Belarus try to storm the main government b
 ### Source:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5ia-a58-gbzBtHfZ2GRJoDlm2U-vw?docId=CNG.e3e5f80d414a6156c689824808235ca9.851)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-12029814)
-3. [Monsters and Critics](http://www.monstersandcritics.com/news/europe/news/article_1606764.php/Three-presidential-candidates-in-Belarus-detained-Extra)
-4. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/20101219214011562622.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/20101219214011562622.html)
+3. [BBC](http://www.bbc.co.uk/news/world-europe-12029814)
+4. [Monsters and Critics](http://www.monstersandcritics.com/news/europe/news/article_1606764.php/Three-presidential-candidates-in-Belarus-detained-Extra)
 
 ### Related:
 

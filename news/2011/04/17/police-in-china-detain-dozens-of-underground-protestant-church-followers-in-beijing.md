@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Hong Kong Standard](http://www.thestandard.com.hk/news_detail.asp?we_cat=3&art_id=110222&sid=32064369&con_type=1&d_str=20110418&fc=10)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iLyWWBWo7jSKZsWbfA-xSO1JcqNw?docId=CNG.1fadce69d7428ade496268a62ebd3821.2e1)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iLyWWBWo7jSKZsWbfA-xSO1JcqNw?docId=CNG.1fadce69d7428ade496268a62ebd3821.2e1)
+2. [Hong Kong Standard](http://www.thestandard.com.hk/news_detail.asp?we_cat=3&art_id=110222&sid=32064369&con_type=1&d_str=20110418&fc=10)
 
 ### Related:
 

@@ -7,8 +7,8 @@ European Central Bank increases eurozone interest rates for the first time since
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/business-12997333)
-2. [Al Jazeera](http://english.aljazeera.net/business/2011/04/201147121149491983.html)
+1. [Al Jazeera](http://english.aljazeera.net/business/2011/04/201147121149491983.html)
+2. [BBC](http://www.bbc.co.uk/news/business-12997333)
 
 ### Related:
 

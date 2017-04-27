@@ -7,8 +7,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-07-26T231526Z_01_N26199559_RTRIDST_0_INTERNATIONAL-CHILE-PINOCHET-DC.XML)
-2. [International Justice Tribune](http://www.justicetribune.com/article_uk.php?id=3090)
+1. [International Justice Tribune](http://www.justicetribune.com/article_uk.php?id=3090)
+2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-07-26T231526Z_01_N26199559_RTRIDST_0_INTERNATIONAL-CHILE-PINOCHET-DC.XML)
 
 ### Related:
 

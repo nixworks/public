@@ -8,8 +8,8 @@
 ### Source:
 
 1. [ESPN](http://soccernet.espn.go.com/world-cup/story/_/id/769996/ce/uk/&cc=5739)
-2. [RTÉ](http://www.rte.ie/sport/soccer/2010/0412/henryt_france.html)
-3. [Metro](http://www.metro.co.uk/sport/football/821371-thierry-henry-may-miss-world-cup-if-he-doesnt-play-regularly-for-barcelona)
+2. [Metro](http://www.metro.co.uk/sport/football/821371-thierry-henry-may-miss-world-cup-if-he-doesnt-play-regularly-for-barcelona)
+3. [RTÉ](http://www.rte.ie/sport/soccer/2010/0412/henryt_france.html)
 
 ### Related:
 

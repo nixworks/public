@@ -7,8 +7,8 @@ California Chrome is just one victory away from becoming the first Triple Crown 
 
 ### Source:
 
-1. [Yahoo! Sports](https://sports.yahoo.com/blogs/the-turnstile/tk-160352472.html)
-2. [The Guardian](http://www.theguardian.com/sport/2014/may/17/olympic-glory-lockinge-newbury-frankie-dettori)
+1. [The Guardian](http://www.theguardian.com/sport/2014/may/17/olympic-glory-lockinge-newbury-frankie-dettori)
+2. [Yahoo! Sports](https://sports.yahoo.com/blogs/the-turnstile/tk-160352472.html)
 
 ### Related:
 

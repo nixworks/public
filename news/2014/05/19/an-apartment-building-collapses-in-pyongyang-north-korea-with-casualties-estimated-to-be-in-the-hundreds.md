@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/world/2014/may/18/north-korea--rare-apology-collapse-apartment-building)
-2. [CNN](http://www.cnn.com/2014/05/18/world/asia/north-korea-building-collapse/index.html?sr=fb051814nkbuildingcollapse9astorylink)
+1. [CNN](http://www.cnn.com/2014/05/18/world/asia/north-korea-building-collapse/index.html?sr=fb051814nkbuildingcollapse9astorylink)
+2. [The Guardian](http://www.theguardian.com/world/2014/may/18/north-korea--rare-apology-collapse-apartment-building)
 
 ### Related:
 

@@ -8,8 +8,8 @@ Col Muammar Gaddafi last night reportedly vowed death or victory in the fight ag
 ### Source:
 
 1. [Reuters via the ''New York Times](http://www.nytimes.com/reuters/2011/08/24/world/africa/news-us-libya-nuclear-heinonen.html?_r=1&hp)
-2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-43249,00.html)
-3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/libya/8719315/Libya-Col-Gaddafi-vows-death-or-victory.html)
+2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/libya/8719315/Libya-Col-Gaddafi-vows-death-or-victory.html)
+3. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-43249,00.html)
 
 ### Related:
 

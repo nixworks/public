@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2012/10/26/world/asia/myanmar-unrest/index.html)
-2. [Al-Arabiya](http://english.alarabiya.net/articles/2012/10/27/246133.html)
+1. [Al-Arabiya](http://english.alarabiya.net/articles/2012/10/27/246133.html)
+2. [CNN](http://edition.cnn.com/2012/10/26/world/asia/myanmar-unrest/index.html)
 
 ### Related:
 

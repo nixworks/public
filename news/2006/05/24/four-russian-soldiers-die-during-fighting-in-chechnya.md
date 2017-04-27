@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [MosNews](http://www.mosnews.com/news/2006/05/24/newsfromchechnya.shtml)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/5012338.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/5012338.stm)
+2. [MosNews](http://www.mosnews.com/news/2006/05/24/newsfromchechnya.shtml)
 
 ### Related:
 

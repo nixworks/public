@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Laureus](http://www.laureus.com/news/laureus-world-sports-awards-2013-winners)
-2. [BBC](http://www.bbc.co.uk/sport/0/athletics/21752713)
+1. [BBC](http://www.bbc.co.uk/sport/0/athletics/21752713)
+2. [Laureus](http://www.laureus.com/news/laureus-world-sports-awards-2013-winners)
 
 ### Related:
 

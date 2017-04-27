@@ -9,11 +9,11 @@ Moussa Sissoko crowns a superb home debut by scoring twice as Newcastle come bac
 
 1. [AP via Fox Sports](http://msn.foxsports.com/foxsoccer/seriea/story/roma-fires-zdenek-zeman-after-poor-results-020213)
 2. [BBC](http://www.bbc.co.uk/sport/0/football/21209228)
-3. [FIFA](http://www.fifa.com/worldfootball/clubfootball/news/newsid=2000216.html)
-4. [Shakhtar](http://shakhtar.com/en/news/25353)
-5. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1323868/roma-part-company-with-zdenek-zeman?cc=5739)
-6. [Copa del Sol](http://www.copadelsol.org/matches-results)
-7. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1325427/ronaldo-own-goal-dooms-real-madrid-at-granada)
+3. [Copa del Sol](http://www.copadelsol.org/matches-results)
+4. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1323868/roma-part-company-with-zdenek-zeman?cc=5739)
+5. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1325427/ronaldo-own-goal-dooms-real-madrid-at-granada)
+6. [FIFA](http://www.fifa.com/worldfootball/clubfootball/news/newsid=2000216.html)
+7. [Shakhtar](http://shakhtar.com/en/news/25353)
 
 ### Related:
 

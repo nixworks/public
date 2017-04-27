@@ -8,8 +8,8 @@ US scientists draw controversy as they claim to have fulfilled the decades-long 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/science-environment-38768683)
-2. [Scientific American](https://www.scientificamerican.com/article/doubts-cloud-claims-of-metallic-hydrogen/)
-3. [Chemistry World](https://www.chemistryworld.com/news/metallic-hydrogen-claim-faces-fiery-scrutiny/2500300.article)
+2. [Chemistry World](https://www.chemistryworld.com/news/metallic-hydrogen-claim-faces-fiery-scrutiny/2500300.article)
+3. [Scientific American](https://www.scientificamerican.com/article/doubts-cloud-claims-of-metallic-hydrogen/)
 
 ### Related:
 

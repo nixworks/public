@@ -7,9 +7,9 @@ BERLIN (AP) — Police say they&#39;re checking a suspicious object found during
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-germany-security-chancellory-idUSKBN0UK0UZ20160106)
+1. [AP via ''USA Today](http://www.usatoday.com/story/news/world/2016/01/06/suspicious-object-merkel-office/78344530/)
 2. [Al Arabia](http://english.alarabiya.net/en/News/world/2016/01/06/Merkel-s-office-sealed-off-due-to-suspicious-package.html)
-3. [AP via ''USA Today](http://www.usatoday.com/story/news/world/2016/01/06/suspicious-object-merkel-office/78344530/)
+3. [Reuters](http://www.reuters.com/article/us-germany-security-chancellory-idUSKBN0UK0UZ20160106)
 
 ### Related:
 

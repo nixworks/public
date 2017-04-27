@@ -8,8 +8,8 @@ Rescuers have saved 14 of the 67 people who were on board a floating oil rig whi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-16235095)
-2. [VoA](http://www.voanews.com/english/news/europe/2-Dead-51-Missing-in-Russia-Oil-Platform-Accident-135819773.html)
-3. [RT](http://rt.com/news/drilling-rig-overturns-okhotsk-073/)
+2. [RT](http://rt.com/news/drilling-rig-overturns-okhotsk-073/)
+3. [VoA](http://www.voanews.com/english/news/europe/2-Dead-51-Missing-in-Russia-Oil-Platform-Accident-135819773.html)
 
 ### Related:
 

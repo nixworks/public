@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/skynews/Home/World-News/Nigeria-President-Umaru-YarAdua-Has-Died-At-The-Age-Of-58/Article/201005115626233?lpos=World_News_First_Home_Article_Teaser_Region_0&lid=ARTICLE_15626233_Nigeria_President_Umaru_YarAdua_Has_Died_At_The_Age_Of_58)
-2. [CNN](http://edition.cnn.com/2010/WORLD/africa/05/05/nigeria.president.dead/index.html?hpt=T1)
+1. [CNN](http://edition.cnn.com/2010/WORLD/africa/05/05/nigeria.president.dead/index.html?hpt=T1)
+2. [Sky News](http://news.sky.com/skynews/Home/World-News/Nigeria-President-Umaru-YarAdua-Has-Died-At-The-Age-Of-58/Article/201005115626233?lpos=World_News_First_Home_Article_Teaser_Region_0&lid=ARTICLE_15626233_Nigeria_President_Umaru_YarAdua_Has_Died_At_The_Age_Of_58)
 
 ### Related:
 

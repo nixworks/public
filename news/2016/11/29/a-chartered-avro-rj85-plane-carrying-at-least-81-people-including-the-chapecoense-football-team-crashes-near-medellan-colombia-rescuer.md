@@ -7,9 +7,9 @@ A plane carrying a Brazilian football team crashes in Colombia, killing 71 peopl
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/world/americas/colombia-plane-crash-rescuers-find-survivors-brazilian-football-team-chapecoense-a7444926.html)
-2. [AP via MSN](http://www.msn.com/en-au/news/world/plane-with-brazilian-soccer-team-crashes-in-colombia/ar-AAkTcet?li=AAgfYrC&ocid=UP94DHP)
-3. [BBC](http://www.bbc.co.uk/news/world-latin-america-38140981)
+1. [AP via MSN](http://www.msn.com/en-au/news/world/plane-with-brazilian-soccer-team-crashes-in-colombia/ar-AAkTcet?li=AAgfYrC&ocid=UP94DHP)
+2. [BBC](http://www.bbc.co.uk/news/world-latin-america-38140981)
+3. [The Independent](http://www.independent.co.uk/news/world/americas/colombia-plane-crash-rescuers-find-survivors-brazilian-football-team-chapecoense-a7444926.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Spanish police have boarded a boat operated by a US company which Madrid believe
 
 ### Source:
 
-1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/07/13/1977436.htm)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/6896645.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/6896645.stm)
+2. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/07/13/1977436.htm)
 
 ### Related:
 

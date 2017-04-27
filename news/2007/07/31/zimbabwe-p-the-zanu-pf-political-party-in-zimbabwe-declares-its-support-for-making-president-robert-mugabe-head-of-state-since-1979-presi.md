@@ -7,8 +7,8 @@ Prices in Zimbabwe could be 1,000 times higher at the end of this year than they
 
 ### Source:
 
-1. [IRIN](http://www.alertnet.org/thenews/newsdesk/IRIN/66478b0329060d01cb861bd7e711d2fc.htm)
-2. [ABC](http://www.abc.net.au/news/stories/2007/08/01/1993515.htm)
+1. [ABC](http://www.abc.net.au/news/stories/2007/08/01/1993515.htm)
+2. [IRIN](http://www.alertnet.org/thenews/newsdesk/IRIN/66478b0329060d01cb861bd7e711d2fc.htm)
 
 ### Related:
 

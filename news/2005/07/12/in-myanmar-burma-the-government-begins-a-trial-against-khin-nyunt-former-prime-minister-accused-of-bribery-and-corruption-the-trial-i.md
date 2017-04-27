@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Irrawaddy](http://www.irrawaddy.org/aviewer.asp?a=4793&z=153)
-2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/157544/1/.html)
+1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/157544/1/.html)
+2. [Irrawaddy](http://www.irrawaddy.org/aviewer.asp?a=4793&z=153)
 
 ### Related:
 

@@ -7,8 +7,8 @@ In a 5-4 decision, the justices struck down a Louisiana law, ruling that it woul
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2008/06/26/washington/26scotuscnd.html)
-2. [AFP via Google News](http://afp.google.com/article/ALeqM5jSJlMcSWuKWGUGc9odGpuNXDQCcg)
+1. [AFP via Google News](http://afp.google.com/article/ALeqM5jSJlMcSWuKWGUGc9odGpuNXDQCcg)
+2. [The New York Times](http://www.nytimes.com/2008/06/26/washington/26scotuscnd.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [SLBC](http://www.slbc.lk/index.php/component/content/article/1-latest-news/1039-the-government-thoroughly-condemns-the-programme-transmitted-through-the-channel-four-television-of-britain-against-sri-lanka-)
-2. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/08/26/sri.lanka.killings/)
+1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/08/26/sri.lanka.killings/)
+2. [SLBC](http://www.slbc.lk/index.php/component/content/article/1-latest-news/1039-the-government-thoroughly-condemns-the-programme-transmitted-through-the-channel-four-television-of-britain-against-sri-lanka-)
 3. [The Guardian](http://www.guardian.co.uk/world/2009/aug/26/sri-lanka-tamil-video-footage)
 
 ### Related:

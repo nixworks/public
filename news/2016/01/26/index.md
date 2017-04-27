@@ -4,7 +4,7 @@
 Syrian pro-government forces captured a strategic southern rebel town close to the Jordanian border after weeks of fighting, a monitor said on Tuesday. The Syrian Observatory for Human Rights said regime troops and allied militia including fighters from Lebanon&#x27;s Hezbollah movement and Iranian officers
 
 ### [A U.S. drone strike kills at least 6 ISIL militants in Afghanistan's Nangarhar Province, according to the Afghan defense ministry. ](/news/2016/01/26/a-u-s-drone-strike-kills-at-least-6-isil-militants-in-afghanistan-s-nangarhar-province-according-to-the-afghan-defense-ministry.md)
-_Context: Afghan, Islamic State of Iraq and the Levant, Nangarhar, War in Afghanistan_
+_Context: Afghan, ISIL, Nangarhar, War in Afghanistan_
 
 ### [French taxidrivers, air traffic controllers and school teachers go on strike over working conditions and competition from non-traditional services such as Uber. ](/news/2016/01/26/french-taxidrivers-air-traffic-controllers-and-school-teachers-go-on-strike-over-working-conditions-and-competition-from-non-traditional-se.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

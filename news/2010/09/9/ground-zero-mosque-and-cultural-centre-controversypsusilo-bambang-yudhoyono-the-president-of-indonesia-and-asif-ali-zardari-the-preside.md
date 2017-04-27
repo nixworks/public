@@ -7,13 +7,13 @@ Barack Obama has condemned an American pastor&rsquo;s plan to burn copies of the
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-us-canada-11255366)
-2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/northamerica/usa/barackobama/7991123/Muslim-world-pressures-Obama-to-stop-Koran-burning.html)
-3. [MSNBC](http://www.msnbc.msn.com/id/39074573/ns/politics-white_house/?GT1=43001)
-4. [The Wall Street Journal](http://online.wsj.com/article/APef704daf959241389c22301948b8685c.html)
+1. [AP via ''Minneapolis Star-Tribune](http://www.startribune.com/business/102567884.html?elr=KArks:DCiU1OiP:DiiUiD3aPc:_Yyc:aUU)
+2. [BBC](http://www.bbc.co.uk/news/world-us-canada-11255366)
+3. [CNN](http://www.cnn.com/2010/US/09/09/florida.quran.burning/index.html?hpt=T1)
+4. [MSNBC](http://www.msnbc.msn.com/id/39074573/ns/politics-white_house/?GT1=43001)
 5. [MSNBC](http://www.msnbc.msn.com/id/39074573/ns/politics/)
-6. [CNN](http://www.cnn.com/2010/US/09/09/florida.quran.burning/index.html?hpt=T1)
-7. [AP via ''Minneapolis Star-Tribune](http://www.startribune.com/business/102567884.html?elr=KArks:DCiU1OiP:DiiUiD3aPc:_Yyc:aUU)
+6. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/northamerica/usa/barackobama/7991123/Muslim-world-pressures-Obama-to-stop-Koran-burning.html)
+7. [The Wall Street Journal](http://online.wsj.com/article/APef704daf959241389c22301948b8685c.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Blast hits crowd of people in restive west, officials blame a minority Uighur.
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/08/2010819102454243887.html)
-2. [AP](http://news.yahoo.com/s/ap/20100819/ap_on_re_as/as_china_xinjiang_explosion)
+1. [AP](http://news.yahoo.com/s/ap/20100819/ap_on_re_as/as_china_xinjiang_explosion)
+2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/08/2010819102454243887.html)
 
 ### Related:
 

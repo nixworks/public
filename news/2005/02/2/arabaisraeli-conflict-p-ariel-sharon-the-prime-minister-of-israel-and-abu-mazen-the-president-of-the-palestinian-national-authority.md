@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://story.news.yahoo.com/news?tmpl=story&cid=574&ncid=721&e=1&u=/nm/20050202/wl_nm/mideast_abbas_iran_dc)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4229007.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4229007.stm)
+2. [Reuters](http://story.news.yahoo.com/news?tmpl=story&cid=574&ncid=721&e=1&u=/nm/20050202/wl_nm/mideast_abbas_iran_dc)
 
 ### Related:
 

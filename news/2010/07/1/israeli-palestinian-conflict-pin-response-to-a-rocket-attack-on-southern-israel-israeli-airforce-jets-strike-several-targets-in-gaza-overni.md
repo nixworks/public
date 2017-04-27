@@ -7,14 +7,14 @@ Methodist Church rejects products from the West Bank.
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=180043)
-2. [Arab News](http://arabnews.com/middleeast/article76940.ece)
-3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-07/01/c_13378118.htm)
-4. [The Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=180050)
-5. [Aljazeera](http://english.aljazeera.net/news/americas/2010/07/201071135823889640.html)
-6. [Israel National News](http://www.israelnationalnews.com/News/news.aspx/138347)
-7. [Arab News](http://arabnews.com/middleeast/article76394.ece)
-8. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=180008)
+1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/07/201071135823889640.html)
+2. [Arab News](http://arabnews.com/middleeast/article76394.ece)
+3. [Arab News](http://arabnews.com/middleeast/article76940.ece)
+4. [Israel National News](http://www.israelnationalnews.com/News/news.aspx/138347)
+5. [The Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=180050)
+6. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=180043)
+7. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=180008)
+8. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-07/01/c_13378118.htm)
 
 ### Related:
 

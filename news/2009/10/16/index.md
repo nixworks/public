@@ -4,7 +4,7 @@
 _Context: Botswana, general election_
 
 ### [ The United States records a budget deficit of $1.42 trillion. ](/news/2009/10/16/the-united-states-records-a-budget-deficit-of-1-42-trillion.md)
-_Context: U.S., budget deficits_
+_Context: United States, budget deficits_
 
 ### [ Stephen Gately: The surviving members of Boyzone fly to Majorca to escort the body of Stephen Gately home to Dublin.  ](/news/2009/10/16/stephen-gately-p-the-surviving-members-of-boyzone-fly-to-majorca-to-escort-the-body-of-stephen-gately-home-to-dublin.md)
 Stephen Gately&#39;s body has arrived at the Church of St Laurence O&#39;Toole, accompanied by his family, partner Andrew Cowles and the other members of Boyzone.

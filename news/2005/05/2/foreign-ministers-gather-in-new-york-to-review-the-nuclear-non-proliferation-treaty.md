@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4504737.stm)
-2. [Wired](http://wireservice.wired.com/wired/story.asp?section=Breaking&storyId=1027475&tw=wn_wire_story)
-3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N01243531.htm)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N01243531.htm)
+3. [Wired](http://wireservice.wired.com/wired/story.asp?section=Breaking&storyId=1027475&tw=wn_wire_story)
 
 ### Related:
 

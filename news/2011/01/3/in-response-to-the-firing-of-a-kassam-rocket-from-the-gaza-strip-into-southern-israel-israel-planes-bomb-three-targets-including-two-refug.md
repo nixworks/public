@@ -7,8 +7,8 @@ The air force hit three targets in the Strip including weapons factory; IDF says
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=201829)
-2. [ABC News](http://www.abc.net.au/news/stories/2011/01/03/3105148.htm)
+1. [ABC News](http://www.abc.net.au/news/stories/2011/01/03/3105148.htm)
+2. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=201829)
 
 ### Related:
 

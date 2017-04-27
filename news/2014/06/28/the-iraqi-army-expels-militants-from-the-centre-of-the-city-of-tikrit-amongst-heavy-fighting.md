@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/2014/06/28/uk-syria-crisis-iraq-border-idUKKBN0F30BK20140628)
-2. [New York Times](http://www.nytimes.com/2014/06/29/world/middleeast/iraqi-army-gains-in-fight-to-retake-tikrit.html?partner=rss&emc=rss)
+1. [New York Times](http://www.nytimes.com/2014/06/29/world/middleeast/iraqi-army-gains-in-fight-to-retake-tikrit.html?partner=rss&emc=rss)
+2. [Reuters](http://uk.reuters.com/article/2014/06/28/uk-syria-crisis-iraq-border-idUKKBN0F30BK20140628)
 
 ### Related:
 

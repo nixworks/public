@@ -8,8 +8,8 @@ Shanghai bids farewell to the World Expo, a six-month extravaganza which drew 72
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11660298)
-2. [euronews](http://www.euronews.net/2010/10/31/china-closes-successful-world-expo/)
-3. [China Daily](http://www.chinadaily.com.cn/china/2010-10/31/content_11481447.htm)
+2. [China Daily](http://www.chinadaily.com.cn/china/2010-10/31/content_11481447.htm)
+3. [euronews](http://www.euronews.net/2010/10/31/china-closes-successful-world-expo/)
 
 ### Related:
 

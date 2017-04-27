@@ -7,16 +7,16 @@ Hour-by-hour news, analysis, exit polls and results throughout the day of the co
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2016/02/29/politics/super-tuesday-republicans-democrats-vote/)
-2. [New York Times](http://www.nytimes.com/elections/results/arkansasv)
-3. [New York Times](http://www.nytimes.com/elections/results)
-4. [Vox](http://www.vox.com/2016/3/1/11143522/trump-wins-virginia-primary-results-super-tuesday-2016)
-5. [New York Times](https://en.wikipedia.org/w/index.php?title=Portal:Current_events/2016_March_1&action=edit&editintro=Portal:Current_events/Edit_instructions)
-6. [Alaska](http://www.nbcnews.com/politics/2016-election/primaries/AK)
-7. [New York Post](http://nypost.com/2016/03/01/super-tuesdays-winners-and-losers-state-by-state/?utm_medium=email&utm_campaign=NY%2520Post%2520Breaking%2520News&utm_source=Sailthru&utm_term=breakingnews_exclusives)
-8. [BBC](http://www.bbc.com/news/election-us-2016-35655400)
+1. [Alaska](http://www.nbcnews.com/politics/2016-election/primaries/AK)
+2. [BBC](http://www.bbc.com/news/election-us-2016-35655400)
+3. [CNN](http://www.cnn.com/2016/02/29/politics/super-tuesday-republicans-democrats-vote/)
+4. [New York Post](http://nypost.com/2016/03/01/super-tuesdays-winners-and-losers-state-by-state/?utm_medium=email&utm_campaign=NY%2520Post%2520Breaking%2520News&utm_source=Sailthru&utm_term=breakingnews_exclusives)
+5. [New York Times](http://www.nytimes.com/elections/results)
+6. [New York Times](http://www.nytimes.com/elections/results/arkansasv)
+7. [New York Times](https://en.wikipedia.org/w/index.php?title=Portal:Current_events/2016_March_1&action=edit&editintro=Portal:Current_events/Edit_instructions)
+8. [Oregon Live](http://www.oregonlive.com/today/index.ssf/2016/03/super_tuesday_2016_analysis_li.html)
 9. [The Washington Post](https://www.washingtonpost.com/politics/on-a-fateful-super-tuesday-polls-have-opened-across-the-south-and-new-england/2016/03/01/995c7ec4-df64-11e5-846c-10191d1fc4ec_story.html)
-10. [Oregon Live](http://www.oregonlive.com/today/index.ssf/2016/03/super_tuesday_2016_analysis_li.html)
+10. [Vox](http://www.vox.com/2016/3/1/11143522/trump-wins-virginia-primary-results-super-tuesday-2016)
 
 ### Related:
 

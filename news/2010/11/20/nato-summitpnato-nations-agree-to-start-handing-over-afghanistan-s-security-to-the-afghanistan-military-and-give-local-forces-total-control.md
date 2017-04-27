@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/11/20/AR2010112002542.html)
-2. [Associated Press](http://hosted2.ap.org/apdefault/2e515285f07040df999bd6b670db791c/Article_2010-11-20-EU-NATO-Summit/id-86f71e1e32b6409693e9d2e8578b7d59)
+1. [Associated Press](http://hosted2.ap.org/apdefault/2e515285f07040df999bd6b670db791c/Article_2010-11-20-EU-NATO-Summit/id-86f71e1e32b6409693e9d2e8578b7d59)
+2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/11/20/AR2010112002542.html)
 
 ### Related:
 

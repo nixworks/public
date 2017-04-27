@@ -7,14 +7,14 @@ Former Green Party presidential candidate Jill Stein on Thursday launched a bid 
 
 ### Source:
 
-1. [The Boston Globe](https://www.bostonglobe.com/2016/11/25/jill-stein-eyes-fundraising-goal-for-recount/XZmSjx33sil5BjBPFDOCCM/story.html)
-2. [The Japan Times](http://www.japantimes.co.jp/news/2016/11/25/world/politics-diplomacy-world/green-party-leader-jill-stein-seeks-vote-recount-rust-belt/)
-3. [CBS](http://www.cbsnews.com/news/donald-trump-kellyanne-conway-mitt-romney-cabinet-secretary-of-state/)
-4. [CNN](http://www.cnn.com/2016/11/24/politics/kellyanne-conway-romney-tweets/)
-5. [The Washington Examiner](http://www.washingtonexaminer.com/green-party-officials-file-for-a-presidential-vote-recount-in-wisconsin/article/2608194)
-6. [The Washington Post](https://www.washingtonpost.com/national/trump-says-hes-trying-to-get-carrier-to-keep-jobs-in-us/2016/11/25/69dbb872-b2ea-11e6-bc2d-19b3d759cfe7_story.html)
-7. [NBC](http://www.nbcnews.com/politics/2016-election/trump-taps-k-t-mcfarland-national-security-post-donald-mcgahn-n688341)
-8. [Refinery29](http://www.refinery29.uk/2016/11/131024/jill-stein-recount-election-2016)
+1. [CBS](http://www.cbsnews.com/news/donald-trump-kellyanne-conway-mitt-romney-cabinet-secretary-of-state/)
+2. [CNN](http://www.cnn.com/2016/11/24/politics/kellyanne-conway-romney-tweets/)
+3. [NBC](http://www.nbcnews.com/politics/2016-election/trump-taps-k-t-mcfarland-national-security-post-donald-mcgahn-n688341)
+4. [Refinery29](http://www.refinery29.uk/2016/11/131024/jill-stein-recount-election-2016)
+5. [The Boston Globe](https://www.bostonglobe.com/2016/11/25/jill-stein-eyes-fundraising-goal-for-recount/XZmSjx33sil5BjBPFDOCCM/story.html)
+6. [The Japan Times](http://www.japantimes.co.jp/news/2016/11/25/world/politics-diplomacy-world/green-party-leader-jill-stein-seeks-vote-recount-rust-belt/)
+7. [The Washington Examiner](http://www.washingtonexaminer.com/green-party-officials-file-for-a-presidential-vote-recount-in-wisconsin/article/2608194)
+8. [The Washington Post](https://www.washingtonpost.com/national/trump-says-hes-trying-to-get-carrier-to-keep-jobs-in-us/2016/11/25/69dbb872-b2ea-11e6-bc2d-19b3d759cfe7_story.html)
 
 ### Related:
 

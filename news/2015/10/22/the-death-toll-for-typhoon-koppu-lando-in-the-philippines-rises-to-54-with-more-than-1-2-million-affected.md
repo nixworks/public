@@ -7,8 +7,8 @@ Agriculture continues to suffer the biggest loss, with damage already pegged at 
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/world/2015/oct/22/typhoon-koppu-death-toll-reaches-54-as-philippines-battles-devastating-floods)
-2. [Rappler](http://www.rappler.com/nation/110222-typhoon-lando-ndrrmc-toll-october-22)
+1. [Rappler](http://www.rappler.com/nation/110222-typhoon-lando-ndrrmc-toll-october-22)
+2. [The Guardian](http://www.theguardian.com/world/2015/oct/22/typhoon-koppu-death-toll-reaches-54-as-philippines-battles-devastating-floods)
 
 ### Related:
 

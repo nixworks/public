@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Star](http://www.thestar.com/specialsections/article/681313)
-2. [Canadian Press](http://www.google.com/hostednews/canadianpress/article/ALeqM5goQiaBbqXxrO0u4rs5vu6VZdsxnw)
+1. [Canadian Press](http://www.google.com/hostednews/canadianpress/article/ALeqM5goQiaBbqXxrO0u4rs5vu6VZdsxnw)
+2. [The Star](http://www.thestar.com/specialsections/article/681313)
 
 ### Related:
 

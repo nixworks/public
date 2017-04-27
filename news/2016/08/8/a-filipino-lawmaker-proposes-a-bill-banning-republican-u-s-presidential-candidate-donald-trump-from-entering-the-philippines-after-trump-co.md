@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/news/worldviews/wp/2016/08/08/lawmaker-calls-for-donald-trump-to-be-banned-from-the-philippines/)
-2. [Rappler](http://www.rappler.com/nation/142364-joey-salceda-house-resolution-ban-donald-trump-enter-philippines)
+1. [Rappler](http://www.rappler.com/nation/142364-joey-salceda-house-resolution-ban-donald-trump-enter-philippines)
+2. [The Washington Post](https://www.washingtonpost.com/news/worldviews/wp/2016/08/08/lawmaker-calls-for-donald-trump-to-be-banned-from-the-philippines/)
 
 ### Related:
 

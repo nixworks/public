@@ -7,8 +7,8 @@ After pulling out because of a knee injury, the world record holder, Haile Gebrs
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2010/11/08/sports/08men.html?hp)
-2. [New York Times](http://www.nytimes.com/2010/11/08/sports/08haile.html?hp)
+1. [New York Times](http://www.nytimes.com/2010/11/08/sports/08haile.html?hp)
+2. [New York Times](http://www.nytimes.com/2010/11/08/sports/08men.html?hp)
 3. [New York Times](http://www.nytimes.com/2010/11/08/sports/08womens.html?hp)
 
 ### Related:

@@ -7,8 +7,8 @@ Brazil’s impeachment saga took a bizarre twist on Monday after Vice President 
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-04-11/brazil-s-vp-practices-national-unity-speech-in-leaked-audio)
-2. [AP via ''The Washington Post](https://www.washingtonpost.com/politics/congress/brazil-congressional-committee-votes-in-favor-of-impeachment/2016/04/11/9d27fbac-0046-11e6-8bb1-f124a43f84dc_story.html)
+1. [AP via ''The Washington Post](https://www.washingtonpost.com/politics/congress/brazil-congressional-committee-votes-in-favor-of-impeachment/2016/04/11/9d27fbac-0046-11e6-8bb1-f124a43f84dc_story.html)
+2. [Bloomberg](http://www.bloomberg.com/news/articles/2016-04-11/brazil-s-vp-practices-national-unity-speech-in-leaked-audio)
 
 ### Related:
 

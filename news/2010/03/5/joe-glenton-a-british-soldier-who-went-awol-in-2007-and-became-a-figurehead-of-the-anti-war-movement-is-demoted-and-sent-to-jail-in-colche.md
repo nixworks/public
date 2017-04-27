@@ -9,8 +9,8 @@ A soldier who went absent without leave rather than serve a second tour in Afgha
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/8551245.stm)
 2. [CNN](http://edition.cnn.com/2010/WORLD/europe/03/05/uk.afghanistan.court/)
-3. [The Guardian](http://www.guardian.co.uk/uk/2010/mar/05/anti-war-soldier-jailed-afghanistan)
-4. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/afghanistan/7376547/Soldier-who-went-awol-and-missed-Afghanistan-tour-jailed.html)
+3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/afghanistan/7376547/Soldier-who-went-awol-and-missed-Afghanistan-tour-jailed.html)
+4. [The Guardian](http://www.guardian.co.uk/uk/2010/mar/05/anti-war-soldier-jailed-afghanistan)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/uk/2013/may/04/nigel-evans-arrested-sex-assault-claims)
-2. [Daily Mail](http://www.dailymail.co.uk/news/article-2319485/Deputy-Speaker-arrested-gay-rape-Police-swoop-Bercow-deputys-home-sex-attacks-men.html)
+1. [Daily Mail](http://www.dailymail.co.uk/news/article-2319485/Deputy-Speaker-arrested-gay-rape-Police-swoop-Bercow-deputys-home-sex-attacks-men.html)
+2. [The Guardian](http://www.guardian.co.uk/uk/2013/may/04/nigel-evans-arrested-sex-assault-claims)
 
 ### Related:
 

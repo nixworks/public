@@ -7,12 +7,12 @@ Requests for information from the Murphy Commission &ldquo;offended many in the 
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2010/1211/abuse.html)
-2. [The Guardian](http://www.guardian.co.uk/world/2010/dec/10/wikileaks-vatican-child-sex-abuse-investigation)
-3. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/2010121152615567263.html)
-4. [The Guardian](http://www.guardian.co.uk/world/2010/dec/10/wikileaks-pope-anglicans-catholics)
-5. [BBC](http://www.bbc.co.uk/news/uk-11974543)
-6. [TODAY''online](http://www.todayonline.com/World/EDC101211-0000195/Hacktivists-threaten-websites-if-Assange-is-extradited)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/2010121152615567263.html)
+2. [BBC](http://www.bbc.co.uk/news/uk-11974543)
+3. [RTÉ](http://www.rte.ie/news/2010/1211/abuse.html)
+4. [TODAY''online](http://www.todayonline.com/World/EDC101211-0000195/Hacktivists-threaten-websites-if-Assange-is-extradited)
+5. [The Guardian](http://www.guardian.co.uk/world/2010/dec/10/wikileaks-pope-anglicans-catholics)
+6. [The Guardian](http://www.guardian.co.uk/world/2010/dec/10/wikileaks-vatican-child-sex-abuse-investigation)
 7. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1211/breaking3.html?via=mr)
 
 ### Related:

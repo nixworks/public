@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NPR](http://www.npr.org/templates/story/story.php?storyId=5081540)
-2. [NPR.org ](http://www.npr.org/documents/2006/jan/abramoff_charges.pdf)
+1. [NPR.org ](http://www.npr.org/documents/2006/jan/abramoff_charges.pdf)
+2. [NPR](http://www.npr.org/templates/story/story.php?storyId=5081540)
 
 ### Related:
 

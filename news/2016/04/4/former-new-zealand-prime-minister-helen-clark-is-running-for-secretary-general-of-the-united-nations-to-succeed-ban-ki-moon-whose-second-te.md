@@ -7,8 +7,8 @@ Clark announces candidacy in New York in push to succeed Ban Ki-moon and become 
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/world/2016/apr/05/helen-clark-former-new-zealand-prime-minister-confirms-bid-for-united-nations-top-job)
-2. [AP via ''The Washington Post](https://www.washingtonpost.com/world/europe/ex-new-zealand-leader-clark-announces-bid-for-top-un-post/2016/04/04/3b29ebb4-fac3-11e5-813a-90ab563f0dde_story.html)
+1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/europe/ex-new-zealand-leader-clark-announces-bid-for-top-un-post/2016/04/04/3b29ebb4-fac3-11e5-813a-90ab563f0dde_story.html)
+2. [The Guardian](http://www.theguardian.com/world/2016/apr/05/helen-clark-former-new-zealand-prime-minister-confirms-bid-for-united-nations-top-job)
 
 ### Related:
 

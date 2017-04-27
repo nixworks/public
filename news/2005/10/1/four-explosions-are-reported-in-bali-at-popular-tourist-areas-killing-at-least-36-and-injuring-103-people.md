@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4300274.stm)
-2. [WRKO](http://hosted.ap.org/dynamic/stories/I/INDONESIA_BLASTS?SITE=WRKO&TEMPLATE=DEFAULT&SECTION=HOME)
-3. [CNN](http://www.cnn.com/2005/WORLD/asiapcf/10/01/bali.blasts.ap/index.html)
+2. [CNN](http://www.cnn.com/2005/WORLD/asiapcf/10/01/bali.blasts.ap/index.html)
+3. [WRKO](http://hosted.ap.org/dynamic/stories/I/INDONESIA_BLASTS?SITE=WRKO&TEMPLATE=DEFAULT&SECTION=HOME)
 
 ### Related:
 

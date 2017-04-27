@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE6075IB20100108)
-2. [Toronto Star](http://www.thestar.com/news/world/article/748396--man-arrested-on-dubai-bound-plane-at-heathrow)
-3. [Sky News](http://news.sky.com/skynews/Home/UK-News/Heathrow-Airport-Security-Alert-On-Plane/Article/201001215517515?lpos=UK_News_First_UK_News_Article_Teaser_Region_0&lid=ARTICLE_15517515_Heathrow_Airport%3A_Security_Alert_On_Plane)
+2. [Sky News](http://news.sky.com/skynews/Home/UK-News/Heathrow-Airport-Security-Alert-On-Plane/Article/201001215517515?lpos=UK_News_First_UK_News_Article_Teaser_Region_0&lid=ARTICLE_15517515_Heathrow_Airport%3A_Security_Alert_On_Plane)
+3. [Toronto Star](http://www.thestar.com/news/world/article/748396--man-arrested-on-dubai-bound-plane-at-heathrow)
 
 ### Related:
 

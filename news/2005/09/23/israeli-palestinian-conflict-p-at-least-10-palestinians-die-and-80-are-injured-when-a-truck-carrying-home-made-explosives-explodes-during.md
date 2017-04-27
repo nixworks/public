@@ -7,14 +7,14 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1127442022033)
-2. [Ha'aretz](http://www.haaretz.com/hasen/spages/628573.html)
-3. [The Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1127442021863)
-4. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4274400.stm)
-5. [ABC News](http://abcnews.go.com/International/wireStory?id=1153369)
+1. [ABC News](http://abcnews.go.com/International/wireStory?id=1153369)
+2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4274214.stm)
+3. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4274400.stm)
+4. [Ha'aretz](http://www.haaretz.com/hasen/spages/628573.html)
+5. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1127442022033)
 6. [Reuters](http://www.alertnet.org/thenews/newsdesk/N22382704.htm)
 7. [Sydney Morning Herald](http://www.smh.com.au/news/world/border-wait-leads-to-risky-births/2005/09/23/1126982230870.html)
-8. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4274214.stm)
+8. [The Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1127442021863)
 
 ### Related:
 

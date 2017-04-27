@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Yahoo France - AFP](http://fr.news.yahoo.com/050206/202/499xj.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/4241001.stm)
-3. [CBC](http://www.cbc.ca/cp/world/050207/w020750.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4241001.stm)
+2. [CBC](http://www.cbc.ca/cp/world/050207/w020750.html)
+3. [Yahoo France - AFP](http://fr.news.yahoo.com/050206/202/499xj.html)
 
 ### Related:
 

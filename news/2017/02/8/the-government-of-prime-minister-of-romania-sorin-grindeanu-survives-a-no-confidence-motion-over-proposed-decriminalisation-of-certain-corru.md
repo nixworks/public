@@ -7,9 +7,9 @@ Motion follows biggest protests in decades against decree that would have decrim
 
 ### Source:
 
-1. [The Romania Journal](http://www.romaniajournal.ro/constitutional-court-rejects-ombudsmans-appeal-over-eo-13/)
-2. [AP](http://hosted.ap.org/dynamic/stories/E/EU_ROMANIA_POLITICS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
-3. [Al Jazeera](http://www.aljazeera.com/news/2017/02/sdp-led-government-survives-confidence-vote-170208140726449.html)
+1. [AP](http://hosted.ap.org/dynamic/stories/E/EU_ROMANIA_POLITICS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [Al Jazeera](http://www.aljazeera.com/news/2017/02/sdp-led-government-survives-confidence-vote-170208140726449.html)
+3. [The Romania Journal](http://www.romaniajournal.ro/constitutional-court-rejects-ombudsmans-appeal-over-eo-13/)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Thousands of commuters around the world went to work today without their trouser
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/people/news/brief-encounter-pants-off-subway-day-goes-global-1864691.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/8451565.stm)
-3. [Ottawa Citizen](http://www.ottawacitizen.com/health/Pantless+commuters+take+subways+urban+stunt/2428713/story.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/8451565.stm)
+2. [Ottawa Citizen](http://www.ottawacitizen.com/health/Pantless+commuters+take+subways+urban+stunt/2428713/story.html)
+3. [The Independent](http://www.independent.co.uk/news/people/news/brief-encounter-pants-off-subway-day-goes-global-1864691.html)
 
 ### Related:
 

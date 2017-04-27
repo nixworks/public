@@ -7,8 +7,8 @@ Reuters.com is your online source for the latest U.S. news stories from coast to
 
 ### Source:
 
-1. [Houston Chronicle](http://www.chron.com/cs/CDA/ssistory.mpl/world/3054650)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/4293041.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4293041.stm)
+2. [Houston Chronicle](http://www.chron.com/cs/CDA/ssistory.mpl/world/3054650)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=domesticNews&storyID=7717278)
 
 ### Related:

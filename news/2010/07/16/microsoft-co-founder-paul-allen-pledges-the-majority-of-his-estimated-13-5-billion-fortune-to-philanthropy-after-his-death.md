@@ -7,8 +7,8 @@ Microsoft co-founder Paul Allen says he will commit most of his estimated $13.5b
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/technology/microsoft/7893609/Microsoft-co-founder-Paul-Allen-gives-away-half-of-his-fortune.html)
-2. [BBC](http://www.bbc.co.uk/news/business-10655764)
+1. [BBC](http://www.bbc.co.uk/news/business-10655764)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/technology/microsoft/7893609/Microsoft-co-founder-Paul-Allen-gives-away-half-of-his-fortune.html)
 
 ### Related:
 

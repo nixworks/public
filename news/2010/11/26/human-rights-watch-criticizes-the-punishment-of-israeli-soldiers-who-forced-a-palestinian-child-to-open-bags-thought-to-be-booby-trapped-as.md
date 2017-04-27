@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Press TV](http://presstv.com/detail/152777.html)
-2. [Human Rights Watch](http://www.hrw.org/en/news/2010/11/26/israel-soldiers-punishment-using-boy-human-shield-inadequate)
+1. [Human Rights Watch](http://www.hrw.org/en/news/2010/11/26/israel-soldiers-punishment-using-boy-human-shield-inadequate)
+2. [Press TV](http://presstv.com/detail/152777.html)
 
 ### Related:
 

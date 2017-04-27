@@ -7,8 +7,8 @@ The Organisation for Economic Co-operation and Development slashed its growth fo
 
 ### Source:
 
-1. [VOA News](http://www.voanews.com/english/2005_05-24voa108.cfm)
-2. [The Telegraph](http://www.telegraph.co.uk/finance/markets/2916274/Eurozone-woes-blamed-for-slowdown-in-global-growth.html)
+1. [The Telegraph](http://www.telegraph.co.uk/finance/markets/2916274/Eurozone-woes-blamed-for-slowdown-in-global-growth.html)
+2. [VOA News](http://www.voanews.com/english/2005_05-24voa108.cfm)
 
 ### Related:
 

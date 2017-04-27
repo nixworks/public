@@ -7,18 +7,18 @@ Police believe they have found the body of a gunman suspected of shooting 12 peo
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/03/c_13330977.htm)
-2. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/20106214389905844.html)
-3. [STV](http://news.stv.tv/scotland/180893-coronation-street-taken-off-air-following-cumbria-shooting/)
-4. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-britain-rampage-20100603,0,5060185.story)
-5. [The Guardian](http://www.guardian.co.uk/uk/2010/jun/02/gunman-sought-person-shot-dead-whitehaven)
-6. [The Times](http://www.timesonline.co.uk/tol/news/uk/crime/article7142413.ece#cid=OTC-RSS&attr=797084)
-7. [Cumbria Police](http://www.cumbria.police.uk/news/latest-news/urgent-public-message-shots-fired-in-whitehaven)
-8. [RTÉ](http://www.rte.ie/news/2010/0602/cumbria.html)
-9. [Daily Mail](http://www.dailymail.co.uk/news/article-1283465/Lake-District-shooting-TWELVE-people-gunned-rampaging-Derrick-Bird-turned-weapon-himself.html?ito=feeds-newsxml)
-10. [BBC](http://news.bbc.co.uk/1/hi/england/10214661.stm)
-11. [TIME](http://newsfeed.time.com/2010/06/02/body-found-as-12-dead-in-u-k-shooting-massacre/)
-12. [Digital Spy](http://www.digitalspy.co.uk/soaps/s3/coronation-street/news/a223177/tonights-corrie-pulled-from-schedules.html)
+1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/20106214389905844.html)
+2. [BBC](http://news.bbc.co.uk/1/hi/england/10214661.stm)
+3. [Cumbria Police](http://www.cumbria.police.uk/news/latest-news/urgent-public-message-shots-fired-in-whitehaven)
+4. [Daily Mail](http://www.dailymail.co.uk/news/article-1283465/Lake-District-shooting-TWELVE-people-gunned-rampaging-Derrick-Bird-turned-weapon-himself.html?ito=feeds-newsxml)
+5. [Digital Spy](http://www.digitalspy.co.uk/soaps/s3/coronation-street/news/a223177/tonights-corrie-pulled-from-schedules.html)
+6. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-britain-rampage-20100603,0,5060185.story)
+7. [RTÉ](http://www.rte.ie/news/2010/0602/cumbria.html)
+8. [STV](http://news.stv.tv/scotland/180893-coronation-street-taken-off-air-following-cumbria-shooting/)
+9. [TIME](http://newsfeed.time.com/2010/06/02/body-found-as-12-dead-in-u-k-shooting-massacre/)
+10. [The Guardian](http://www.guardian.co.uk/uk/2010/jun/02/gunman-sought-person-shot-dead-whitehaven)
+11. [The Times](http://www.timesonline.co.uk/tol/news/uk/crime/article7142413.ece#cid=OTC-RSS&attr=797084)
+12. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/03/c_13330977.htm)
 
 ### Related:
 

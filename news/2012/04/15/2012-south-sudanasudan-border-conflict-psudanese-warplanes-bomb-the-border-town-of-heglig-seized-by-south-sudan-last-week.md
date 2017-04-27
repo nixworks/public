@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE83E00C20120415)
-2. [CNN](http://www.cnn.com/2012/04/14/world/africa/sudan-violence/index.html?hpt=wo_bn7)
+1. [CNN](http://www.cnn.com/2012/04/14/world/africa/sudan-violence/index.html?hpt=wo_bn7)
+2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE83E00C20120415)
 
 ### Related:
 

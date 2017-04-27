@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Press TV](http://www.presstv.ir/detail/166284.html)
-2. [AHN](http://www.allheadlinenews.com/briefs/articles/90035735?Clashes%20re-start%20in%20northern%20Somalia%20as%20Somaliland%20troops%20attack%20local%20clan%20militias)
+1. [AHN](http://www.allheadlinenews.com/briefs/articles/90035735?Clashes%20re-start%20in%20northern%20Somalia%20as%20Somaliland%20troops%20attack%20local%20clan%20militias)
+2. [Press TV](http://www.presstv.ir/detail/166284.html)
 
 ### Related:
 

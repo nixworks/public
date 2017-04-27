@@ -7,9 +7,9 @@ Barack Obama takes the oath of office in Washington DC to inaugurate his second 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/01/21/us-usa-inauguration-idUSBRE90I04I20130121)
-2. [AP](http://hosted.ap.org/dynamic/stories/U/US_OBAMA_INAUGURATION)
-3. [BBC](http://www.bbc.co.uk/news/world-us-canada-21115349)
+1. [AP](http://hosted.ap.org/dynamic/stories/U/US_OBAMA_INAUGURATION)
+2. [BBC](http://www.bbc.co.uk/news/world-us-canada-21115349)
+3. [Reuters](http://www.reuters.com/article/2013/01/21/us-usa-inauguration-idUSBRE90I04I20130121)
 
 ### Related:
 

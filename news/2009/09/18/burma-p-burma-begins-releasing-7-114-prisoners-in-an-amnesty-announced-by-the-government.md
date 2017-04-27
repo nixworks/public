@@ -7,11 +7,11 @@ It is not known if political detainees are among the 7,114 prisoners due to be r
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8262175.stm)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hUWldouqQgO9AgCD-WKY-o5Tt-xA)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/09/200991804654921820.html)
-3. [The Straits Times](http://www.straitstimes.com/Breaking%2BNews/SE%2BAsia/Story/STIStory_431509.html)
-4. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hUWldouqQgO9AgCD-WKY-o5Tt-xA)
-5. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5iCrk3lf8VHAA4vSqllC6wi6UVNzgD9APLNMO2)
+3. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5iCrk3lf8VHAA4vSqllC6wi6UVNzgD9APLNMO2)
+4. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8262175.stm)
+5. [The Straits Times](http://www.straitstimes.com/Breaking%2BNews/SE%2BAsia/Story/STIStory_431509.html)
 
 ### Related:
 

@@ -8,8 +8,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 ### Source:
 
 1. [CBC](http://www.cbc.ca/world/story/2005/02/23/iraq-abuse050223.html)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7715116)
-3. [Guardian](http://www.guardian.co.uk/Iraq/Story/0,2763,1424058,00.html)
+2. [Guardian](http://www.guardian.co.uk/Iraq/Story/0,2763,1424058,00.html)
+3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7715116)
 
 ### Related:
 

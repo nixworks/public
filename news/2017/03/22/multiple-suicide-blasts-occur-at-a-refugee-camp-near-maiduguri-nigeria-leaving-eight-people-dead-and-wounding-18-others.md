@@ -7,8 +7,8 @@ A total of eight people including five suicide bombers have been killed in multi
 
 ### Source:
 
-1. [All Africa](http://allafrica.com/stories/201703220404.html)
-2. [Al Jazeera](http://www.aljazeera.com/news/2017/03/multiple-bomb-blasts-rock-nigeria-maiduguri-170322074812422.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/2017/03/multiple-bomb-blasts-rock-nigeria-maiduguri-170322074812422.html)
+2. [All Africa](http://allafrica.com/stories/201703220404.html)
 
 ### Related:
 

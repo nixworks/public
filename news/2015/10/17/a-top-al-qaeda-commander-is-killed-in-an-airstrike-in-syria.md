@@ -7,8 +7,8 @@ An airstrike has killed a top al-Qaeda commander and two other fighters in Syria
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/nation-now/2015/10/17/al-qaeda-commander-killed-airstrike-syria/74117978/)
-2. [Reuters](http://www.reuters.com/article/2015/10/17/us-mideast-crisis-syria-idUSKCN0SB0E220151017)
+1. [Reuters](http://www.reuters.com/article/2015/10/17/us-mideast-crisis-syria-idUSKCN0SB0E220151017)
+2. [USA Today](http://www.usatoday.com/story/news/nation-now/2015/10/17/al-qaeda-commander-killed-airstrike-syria/74117978/)
 
 ### Related:
 

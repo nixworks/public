@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [NBC News](http://worldnews.nbcnews.com/_news/2014/01/28/22478912-ukraine-anti-protest-laws-repealed-pm-offers-to-resign)
-2. [New York Times](http://www.nytimes.com/2014/01/29/world/europe/ukraine-prime-minister-resign.html?_r=0)
-3. [CBC](http://www.cbc.ca/news/world/ukraine-prime-minister-mykola-azarov-submits-resignation-1.2513611)
-4. [BBC](http://www.bbc.co.uk/news/world-europe-25932352)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-25932352)
+2. [CBC](http://www.cbc.ca/news/world/ukraine-prime-minister-mykola-azarov-submits-resignation-1.2513611)
+3. [NBC News](http://worldnews.nbcnews.com/_news/2014/01/28/22478912-ukraine-anti-protest-laws-repealed-pm-offers-to-resign)
+4. [New York Times](http://www.nytimes.com/2014/01/29/world/europe/ukraine-prime-minister-resign.html?_r=0)
 
 ### Related:
 

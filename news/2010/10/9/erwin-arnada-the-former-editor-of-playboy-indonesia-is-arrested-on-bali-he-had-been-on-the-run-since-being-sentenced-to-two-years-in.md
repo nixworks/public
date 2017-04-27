@@ -7,8 +7,8 @@ Police have arrested the former editor of Indonesian Playboy, Erwin Arnada, to f
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11507376)
-2. [AFP via ''Philippine Daily Inquirer](http://showbizandstyle.inquirer.net/breakingnews/breakingnews/view/20101009-296840/Indonesia-picks-up-Playboy-editor-to-face-sentence)
+1. [AFP via ''Philippine Daily Inquirer](http://showbizandstyle.inquirer.net/breakingnews/breakingnews/view/20101009-296840/Indonesia-picks-up-Playboy-editor-to-face-sentence)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11507376)
 
 ### Related:
 

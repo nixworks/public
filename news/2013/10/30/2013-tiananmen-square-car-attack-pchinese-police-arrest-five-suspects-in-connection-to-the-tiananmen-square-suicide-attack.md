@@ -7,8 +7,8 @@ Police say they found machetes and flag with &#x27;extreme religious content&#x2
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/world/2013/oct/30/tiananmen-square-crash-five-held-beijing)
-2. [Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/10414264/China-captures-five-suspects-over-Tiananmen-Square-terror-attack.html)
+1. [Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/10414264/China-captures-five-suspects-over-Tiananmen-Square-terror-attack.html)
+2. [The Guardian](http://www.theguardian.com/world/2013/oct/30/tiananmen-square-crash-five-held-beijing)
 
 ### Related:
 

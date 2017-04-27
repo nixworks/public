@@ -7,8 +7,8 @@ The UN Security Council has condemned a deadly attack on a South Korean warship 
 
 ### Source:
 
-1. [United Nations](http://www.un.org/News/Press/docs/2010/sc9975.doc.htm)
-2. [CBC](http://www.cbc.ca/politics/story/2010/07/09/un-korea009.html)
+1. [CBC](http://www.cbc.ca/politics/story/2010/07/09/un-korea009.html)
+2. [United Nations](http://www.un.org/News/Press/docs/2010/sc9975.doc.htm)
 
 ### Related:
 

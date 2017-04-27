@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=ayY8nfaP2L0U&refer=latin_america)
-2. [Forbes](http://www.forbes.com/technology/ebusiness/feeds/ap/2005/02/11/ap1822476.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/americas/4263025.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4263025.stm)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=ayY8nfaP2L0U&refer=latin_america)
+3. [Forbes](http://www.forbes.com/technology/ebusiness/feeds/ap/2005/02/11/ap1822476.html)
 
 ### Related:
 

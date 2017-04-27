@@ -7,10 +7,10 @@ Hundreds of Han Chinese demonstrate in Urumqui against syringe attacks, state me
 
 ### Source:
 
-1. [Swissinfo](http://www.swissinfo.ch/eng/news/international/Protesters_demand_Xinjiang_leader_step_down.html?siteSect=143&sid=11163961&cKey=1251974270000&ty=ti)
-2. [People's Daily](http://english.people.com.cn/90001/90776/90882/6747798.html)
-3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/09/200993101354185321.html)
-4. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8235305.stm)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/09/200993101354185321.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8235305.stm)
+3. [People's Daily](http://english.people.com.cn/90001/90776/90882/6747798.html)
+4. [Swissinfo](http://www.swissinfo.ch/eng/news/international/Protesters_demand_Xinjiang_leader_step_down.html?siteSect=143&sid=11163961&cKey=1251974270000&ty=ti)
 
 ### Related:
 

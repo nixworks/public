@@ -7,8 +7,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=oddlyEnoughNews&storyID=2005-08-03T152635Z_01_L03412961_RTRIDST_0_ODD-MUNCH-THEFT-DC.XML)
-2. [Aftenposten](http://www.aftenposten.no/english/local/article1090377.ece)
+1. [Aftenposten](http://www.aftenposten.no/english/local/article1090377.ece)
+2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=oddlyEnoughNews&storyID=2005-08-03T152635Z_01_L03412961_RTRIDST_0_ODD-MUNCH-THEFT-DC.XML)
 
 ### Related:
 

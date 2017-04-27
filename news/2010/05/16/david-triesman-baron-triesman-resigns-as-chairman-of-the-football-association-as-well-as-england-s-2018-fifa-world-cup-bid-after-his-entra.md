@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Mail on Sunday](http://www.dailymail.co.uk/news/article-1278706/FA-chief-Lord-Triesman-Spain-bid-bribe-World-Cup-referees.html)
-2. [BBC](http://news.bbc.co.uk/sport2/hi/football/8685009.stm)
+1. [BBC](http://news.bbc.co.uk/sport2/hi/football/8685009.stm)
+2. [The Mail on Sunday](http://www.dailymail.co.uk/news/article-1278706/FA-chief-Lord-Triesman-Spain-bid-bribe-World-Cup-referees.html)
 3. [The Scotsman](http://news.scotsman.com/uk/England-2018-World-Cup-quest.6298158.jp)
 
 ### Related:

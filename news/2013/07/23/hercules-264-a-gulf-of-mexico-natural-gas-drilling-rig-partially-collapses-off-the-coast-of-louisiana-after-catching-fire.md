@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Wall Street Journal](http://online.wsj.com/article/PR-CO-20130724-913628.html)
-2. [NBC](http://usnews.nbcnews.com/_news/2013/07/24/19652537-gulf-rig-partially-collapses-as-fire-rages)
+1. [NBC](http://usnews.nbcnews.com/_news/2013/07/24/19652537-gulf-rig-partially-collapses-as-fire-rages)
+2. [Wall Street Journal](http://online.wsj.com/article/PR-CO-20130724-913628.html)
 
 ### Related:
 

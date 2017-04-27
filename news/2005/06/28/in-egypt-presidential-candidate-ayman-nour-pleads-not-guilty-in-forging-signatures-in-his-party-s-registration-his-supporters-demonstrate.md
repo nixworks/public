@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/64E4A476-568F-4AC2-B33E-18E65CF3D8D5.htm)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4629573.stm)
-3. [Arab News](http://www.arabnews.com/?page=4&section=0&article=66111&d=29&m=6&y=2005)
+2. [Arab News](http://www.arabnews.com/?page=4&section=0&article=66111&d=29&m=6&y=2005)
+3. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4629573.stm)
 4. [Reuters](http://www.reuters.co.za/locales/c_newsArticle.jsp;:42c158a6:a54829d0c0afc2a5?type=topNews&localeKey=en_ZA&storyID=8915473)
 
 ### Related:

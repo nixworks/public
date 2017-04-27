@@ -7,8 +7,8 @@ AT LEAST 14 people have been killed and about 30 injured when a passenger train 
 
 ### Source:
 
-1. [IBN Live](http://ibnlive.in.com/news/ap-hampi-express-collides-with-goods-train-6-dead/260072-3.html)
-2. [AAP via News Limited](http://www.news.com.au/breaking-news/indian-train-crash-leaves-14-dead-30-injured/story-e6frfku0-1226363494649)
+1. [AAP via News Limited](http://www.news.com.au/breaking-news/indian-train-crash-leaves-14-dead-30-injured/story-e6frfku0-1226363494649)
+2. [IBN Live](http://ibnlive.in.com/news/ap-hampi-express-collides-with-goods-train-6-dead/260072-3.html)
 
 ### Related:
 

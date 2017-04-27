@@ -7,8 +7,8 @@ Manning convicted of five violations of Espionage Act and numerous other charges
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/world/2013/jul/30/bradley-manning-wikileaks-judge-verdict)
-2. [CNN](http://edition.cnn.com/2013/07/30/justice/manning-court-martial/index.html?eref=edition)
+1. [CNN](http://edition.cnn.com/2013/07/30/justice/manning-court-martial/index.html?eref=edition)
+2. [The Guardian](http://www.theguardian.com/world/2013/jul/30/bradley-manning-wikileaks-judge-verdict)
 
 ### Related:
 

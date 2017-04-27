@@ -7,8 +7,8 @@ At least 93 people killed across the country, many of them Shia pilgrims gathere
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18420488)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/20126135517423300.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/20126135517423300.html)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-18420488)
 
 ### Related:
 

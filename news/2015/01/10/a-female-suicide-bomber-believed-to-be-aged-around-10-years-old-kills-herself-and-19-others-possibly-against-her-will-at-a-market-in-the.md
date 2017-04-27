@@ -7,8 +7,8 @@ A female suicide bomber killed herself and 19 other people at a market in northe
 
 ### Source:
 
-1. [Wall Street Journal](http://www.wsj.com/articles/nigerian-market-hit-by-suicide-bomber-1420926209?mod=ask)
-2. [BBC](http://www.bbc.com/news/world-africa-30761963)
+1. [BBC](http://www.bbc.com/news/world-africa-30761963)
+2. [Wall Street Journal](http://www.wsj.com/articles/nigerian-market-hit-by-suicide-bomber-1420926209?mod=ask)
 
 ### Related:
 

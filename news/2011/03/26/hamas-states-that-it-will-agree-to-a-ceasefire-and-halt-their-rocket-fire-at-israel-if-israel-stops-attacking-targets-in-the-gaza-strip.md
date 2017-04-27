@@ -7,8 +7,8 @@ Militant groups in Gaza say that they will agree to a ceasefire with Israel if I
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=213925)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12872588?utm_source=twitterfeed&utm_medium=twitter)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12872588?utm_source=twitterfeed&utm_medium=twitter)
+2. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=213925)
 
 ### Related:
 

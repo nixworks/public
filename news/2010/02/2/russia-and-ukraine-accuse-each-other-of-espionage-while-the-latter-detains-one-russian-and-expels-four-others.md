@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/russia/20100202/157756528.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8494688.stm)
-3. [Kyiv Post](http://www.kyivpost.com/news/nation/detail/58497/)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8494688.stm)
+2. [Kyiv Post](http://www.kyivpost.com/news/nation/detail/58497/)
+3. [RIA Novosti](http://en.rian.ru/russia/20100202/157756528.html)
 
 ### Related:
 

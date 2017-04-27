@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [IHT](http://www.iht.com/articles/2005/06/13/news/kuwait.php)
-2. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/08F47AB3-2532-46DF-8B2B-B820EED35495.htm)
-3. [Arab News](http://www.arabnews.com/?page=4&section=0&article=65298&d=13&m=6&y=2005)
+1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/08F47AB3-2532-46DF-8B2B-B820EED35495.htm)
+2. [Arab News](http://www.arabnews.com/?page=4&section=0&article=65298&d=13&m=6&y=2005)
+3. [IHT](http://www.iht.com/articles/2005/06/13/news/kuwait.php)
 
 ### Related:
 

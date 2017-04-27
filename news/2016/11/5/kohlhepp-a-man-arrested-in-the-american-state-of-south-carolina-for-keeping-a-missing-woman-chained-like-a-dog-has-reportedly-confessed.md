@@ -7,8 +7,8 @@ Todd Kohlhepp, who is accused of holding Kala Brown captive and chained to stora
 
 ### Source:
 
-1. [CBS News](http://www.cbsnews.com/news/todd-kohlhepp-accused-of-kidnapping-kala-brown-confesses-to-2003-murders-sheriff-says/)
-2. [BBC](http://www.bbc.com/news/world-us-canada-37887546)
+1. [BBC](http://www.bbc.com/news/world-us-canada-37887546)
+2. [CBS News](http://www.cbsnews.com/news/todd-kohlhepp-accused-of-kidnapping-kala-brown-confesses-to-2003-murders-sheriff-says/)
 
 ### Related:
 

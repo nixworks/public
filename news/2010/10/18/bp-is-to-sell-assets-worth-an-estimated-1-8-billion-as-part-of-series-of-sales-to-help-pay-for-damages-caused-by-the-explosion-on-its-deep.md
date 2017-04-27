@@ -8,8 +8,8 @@ BP says it will sell some business interests in Vietnam and Venezuela for $1.8bn
 ### Source:
 
 1. [AOL News](http://www.aolnews.com/world/article/bp-unloads-assets-so-it-can-pay-for-gulf-of-mexico-oil-spill/19678106)
-2. [Bloomberg](http://www.bloomberg.com/news/2010-10-18/bp-asset-sales-so-far-rise-to-11-billion-may-do-19-billion-more-table-.html)
-3. [BBC](http://www.bbc.co.uk/news/business-11565383)
+2. [BBC](http://www.bbc.co.uk/news/business-11565383)
+3. [Bloomberg](http://www.bloomberg.com/news/2010-10-18/bp-asset-sales-so-far-rise-to-11-billion-may-do-19-billion-more-table-.html)
 
 ### Related:
 

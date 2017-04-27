@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2012/jun/05/al-qaida-abu-yahya-libi-pakistan)
-2. [AFP via NineMSN](http://news.ninemsn.com.au/world/8478135/us-drone-kills-15-militants-in-pakistan-o)
+1. [AFP via NineMSN](http://news.ninemsn.com.au/world/8478135/us-drone-kills-15-militants-in-pakistan-o)
+2. [The Guardian](http://www.guardian.co.uk/world/2012/jun/05/al-qaida-abu-yahya-libi-pakistan)
 
 ### Related:
 

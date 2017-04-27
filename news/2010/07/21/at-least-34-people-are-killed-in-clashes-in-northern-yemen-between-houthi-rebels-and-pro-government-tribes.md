@@ -7,8 +7,8 @@ Houthi rebels clash with government-allied tribesmen in north of country.
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10713713)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/07/201072134622962696.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/07/201072134622962696.html)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-10713713)
 
 ### Related:
 

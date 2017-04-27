@@ -7,9 +7,9 @@ Ya&#8217;alon warns ground operation may expand; heavy West Bank clashes after H
 
 ### Source:
 
-1. [Times of Israel](http://www.timesofisrael.com/two-killed-in-fierce-clashes-near-jerusalem-rocket-downed-over-eilat/)
+1. [New York](http://nymag.com/daily/intelligencer/2014/07/hamas-didnt-kidnap-the-israeli-teens-after-all.html)
 2. [The Guardian](http://www.theguardian.com/world/live/2014/jul/25/gaza-crisis-israel-strike-un-shelter-palestinian-protesters-west-bank-live-updates)
-3. [New York](http://nymag.com/daily/intelligencer/2014/07/hamas-didnt-kidnap-the-israeli-teens-after-all.html)
+3. [Times of Israel](http://www.timesofisrael.com/two-killed-in-fierce-clashes-near-jerusalem-rocket-downed-over-eilat/)
 
 ### Related:
 

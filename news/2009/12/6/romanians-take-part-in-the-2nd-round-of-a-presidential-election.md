@@ -7,8 +7,8 @@ Voting started in Romania&#39;s second round of presidential elections on Sunday
 
 ### Source:
 
-1. [HotNews.ro](http://english.hotnews.ro/stiri-top_news-6673011-voting-started-romania-presidential-elections.htm)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5go6LfJUJ_HGu-vU3pIkKgS6B8n3AD9CDNH6G0)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5go6LfJUJ_HGu-vU3pIkKgS6B8n3AD9CDNH6G0)
+2. [HotNews.ro](http://english.hotnews.ro/stiri-top_news-6673011-voting-started-romania-presidential-elections.htm)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [US News & World Report](http://www.usnews.com/news/articles/2013/03/19/syria-chemical-weapons-second-attack-damascus)
-2. [CNN](http://www.cnn.com/2013/03/18/world/meast/lebanon-syria-airstrikes)
+1. [CNN](http://www.cnn.com/2013/03/18/world/meast/lebanon-syria-airstrikes)
+2. [US News & World Report](http://www.usnews.com/news/articles/2013/03/19/syria-chemical-weapons-second-attack-damascus)
 
 ### Related:
 

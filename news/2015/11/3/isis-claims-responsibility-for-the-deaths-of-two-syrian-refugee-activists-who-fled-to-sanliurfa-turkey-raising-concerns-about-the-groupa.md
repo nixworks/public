@@ -7,12 +7,12 @@
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2015/11/03/world/europe/isis-is-said-to-have-killed-2-activists-in-turkey.html?ref=Europe)
-2. [Al-Arabiyah](http://english.alarabiya.net/en/News/middle-east/2015/11/03/Militants-stage-rare-attack-behind-Kurdish-front-line-in-northern-Iraq.html)
+1. [Al-Arabiyah](http://english.alarabiya.net/en/News/middle-east/2015/11/03/Militants-stage-rare-attack-behind-Kurdish-front-line-in-northern-Iraq.html)
+2. [New York Times](http://www.nytimes.com/2015/11/03/world/europe/isis-is-said-to-have-killed-2-activists-in-turkey.html?ref=Europe)
 
 ### Related:
 
-1. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also 5 Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-5-peshmerga-fighters-are-killed-during-a-tu.md) _Context: Iraq, Syria, Turkish_
+1. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also five Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey also claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-five-peshmerga-fighters-are-killed-during-a.md) _Context: Iraq, Syria, Turkish_
 2. [The Islamic State in Iraq and the Levant claims responsibility for the attack in what it claims is a response to Turkey's actions in neighbouring Syria. ](/news/2017/01/2/the-islamic-state-in-iraq-and-the-levant-claims-responsibility-for-the-attack-in-what-it-claims-is-a-response-to-turkey-s-actions-in-neighbo.md) _Context: Islamic State in Iraq and the Levant, Syria, Turkish_
 3. [Syrian Government forces enter Raqqa province, the joint capital of Islamic State in Iraq and the Levant. It is one of three simultaneous attacks in Iraq and Syria.  ](/news/2016/06/4/syrian-government-forces-enter-raqqa-province-the-joint-capital-of-islamic-state-in-iraq-and-the-levant-it-is-one-of-three-simultaneous-at.md) _Context: Iraq, Islamic State in Iraq and the Levant, Syria_
 4. [Police in northern Greece move  more than 400 Syrians and Iraqis by bus from a makeshift camp near the Macedonian border to a shelter near the northern city of Thessaloniki. More than 50,000 migrants remain stranded in Greece following European border closures, and the European Union's agreement with Turkey. ](/news/2016/06/13/police-in-northern-greece-move-more-than-400-syrians-and-iraqis-by-bus-from-a-makeshift-camp-near-the-macedonian-border-to-a-shelter-near-t.md) _Context: Iraq, Syria, Turkish_

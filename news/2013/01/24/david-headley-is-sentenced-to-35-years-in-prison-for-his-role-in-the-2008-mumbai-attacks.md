@@ -9,8 +9,8 @@ A US man, David Coleman Headley, is sentenced to 35 years in prison for his key 
 
 1. [AP via ABC News](http://abcnews.go.com/US/wireStory/american-mumbai-plotter-sentenced-chicago-18299695)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-21189374)
-3. [NDTV](http://www.ndtv.com/article/india/david-headley-has-no-right-to-live-relative-of-26-11-us-victims-321980)
-4. [Chicago Tribune](http://www.chicagotribune.com/news/local/breaking/chi-sentencing-today-for-chicago-man-in-mumbai-terror-attack-20130124,0,3301876.story)
+3. [Chicago Tribune](http://www.chicagotribune.com/news/local/breaking/chi-sentencing-today-for-chicago-man-in-mumbai-terror-attack-20130124,0,3301876.story)
+4. [NDTV](http://www.ndtv.com/article/india/david-headley-has-no-right-to-live-relative-of-26-11-us-victims-321980)
 
 ### Related:
 

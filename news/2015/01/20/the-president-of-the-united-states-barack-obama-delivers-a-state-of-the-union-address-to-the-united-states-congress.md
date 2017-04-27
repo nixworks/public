@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AP](http://bigstory.ap.org/article/a5cfd192b18b498e96675aa977478685/obama-state-union-america-turning-page)
-2. [AP](http://bigstory.ap.org/article/1800bf6744eb4b3f91a75817d54a2a46/fact-check-obama-claims-credit-incomplete-recovery)
-3. [AP](http://bigstory.ap.org/article/59521b2ecebd4215b1f125ecaa42b364/state-union-obama-aims-influence-2016-debate)
+1. [AP](http://bigstory.ap.org/article/1800bf6744eb4b3f91a75817d54a2a46/fact-check-obama-claims-credit-incomplete-recovery)
+2. [AP](http://bigstory.ap.org/article/59521b2ecebd4215b1f125ecaa42b364/state-union-obama-aims-influence-2016-debate)
+3. [AP](http://bigstory.ap.org/article/a5cfd192b18b498e96675aa977478685/obama-state-union-america-turning-page)
 
 ### Related:
 

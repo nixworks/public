@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6898991.ece)
-2. [Bangkok Post](http://www.bangkokpost.com/news/world/158837/two-charged-over-thai-king-health-rumours-police)
+1. [Bangkok Post](http://www.bangkokpost.com/news/world/158837/two-charged-over-thai-king-health-rumours-police)
+2. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6898991.ece)
 
 ### Related:
 

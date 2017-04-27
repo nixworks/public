@@ -7,15 +7,15 @@
 
 ### Source:
 
-1. [The Hindu](http://www.hindu.com/2006/08/07/stories/2006080705880100.htm)
-2. [USA Today](http://www.usatoday.com/news/world/2006-08-06-mideast-fighting_x.htm?csp=34)
-3. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=TopNews&storyID=2006-08-06T215602Z_01_L06301298_RTRUKOC_0_US-MIDEAST-REUTERS.xml&WTmodLoc=Home-C2-TopNews-TopNews-10)
-4. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-3287237,00.html)
-5. [Associated Press](http://www.syracuse.com/newsflash/international/index.ssf?/base/international-32/115485805538710.xml&storylist=international)
-6. [ABC News](http://abcnews.go.com/International/wireStory?id=2277861&CMP=OTC-RSSFeeds0312)
-7. [AP](http://www.thetandd.com/articles/2006/08/06/ap/headlines/d8jb3bbg0.txt)
-8. [al Jazeera](http://english.aljazeera.net/NR/exeres/1D329F29-B578-42F2-A9A5-993B4A9D549B.htm)
-9. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-3286966,00.html)
+1. [ABC News](http://abcnews.go.com/International/wireStory?id=2277861&CMP=OTC-RSSFeeds0312)
+2. [AP](http://www.thetandd.com/articles/2006/08/06/ap/headlines/d8jb3bbg0.txt)
+3. [Associated Press](http://www.syracuse.com/newsflash/international/index.ssf?/base/international-32/115485805538710.xml&storylist=international)
+4. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=TopNews&storyID=2006-08-06T215602Z_01_L06301298_RTRUKOC_0_US-MIDEAST-REUTERS.xml&WTmodLoc=Home-C2-TopNews-TopNews-10)
+5. [The Hindu](http://www.hindu.com/2006/08/07/stories/2006080705880100.htm)
+6. [USA Today](http://www.usatoday.com/news/world/2006-08-06-mideast-fighting_x.htm?csp=34)
+7. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-3286966,00.html)
+8. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-3287237,00.html)
+9. [al Jazeera](http://english.aljazeera.net/NR/exeres/1D329F29-B578-42F2-A9A5-993B4A9D549B.htm)
 
 ### Related:
 

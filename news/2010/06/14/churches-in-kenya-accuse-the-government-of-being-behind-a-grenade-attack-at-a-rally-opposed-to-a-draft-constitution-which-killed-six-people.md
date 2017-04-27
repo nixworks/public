@@ -7,9 +7,9 @@ Yes&#039; secretariat Monday condemned their &#039;No&#039; opponents for blamin
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/10311179.stm)
-2. [Daily Nation](http://www.nation.co.ke/Kenya%20Referendum/No%20team%20faulted%20for%20blaming%20opponents/-/926046/938582/-/jiockk/-/index.html)
-3. [AP](http://www.google.com/hostednews/ap/article/ALeqM5j6kjNKtAwyeNpbE2Zt8JSOIPISFgD9GB5EU80)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5j6kjNKtAwyeNpbE2Zt8JSOIPISFgD9GB5EU80)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/10311179.stm)
+3. [Daily Nation](http://www.nation.co.ke/Kenya%20Referendum/No%20team%20faulted%20for%20blaming%20opponents/-/926046/938582/-/jiockk/-/index.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ A fire started by an exploding gas canister kills at least 25 people in the Egyp
 
 ### Source:
 
-1. [Reuters via ''Egypt Independent](http://www.egyptindependent.com//news/update-1-fire-egypt-furniture-factory-kills-25)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-33697133)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-33697133)
+2. [Reuters via ''Egypt Independent](http://www.egyptindependent.com//news/update-1-fire-egypt-furniture-factory-kills-25)
 
 ### Related:
 

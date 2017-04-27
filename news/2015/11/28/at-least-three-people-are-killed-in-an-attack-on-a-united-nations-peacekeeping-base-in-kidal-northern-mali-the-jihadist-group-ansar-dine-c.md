@@ -7,8 +7,8 @@ At least three people have died in a gun and rocket attack on a camp for UN peac
 
 ### Source:
 
-1. [Euronews](http://www.euronews.com/2015/11/28/mali-un-peacekeepers-base-attacked-by-unidentified-gunmen/)
-2. [AFP via Yahoo! News](http://news.yahoo.com/jihadist-group-ansar-dine-claims-deadly-attack-un-184641376.html;_ylt=AwrC1Cl9.VlWCXEAMlLQtDMD;_ylu=X3oDMTByOHZyb21tBGNvbG8DYmYxBHBvcwMxBHZ0aWQDBHNlYwNzcg--)
+1. [AFP via Yahoo! News](http://news.yahoo.com/jihadist-group-ansar-dine-claims-deadly-attack-un-184641376.html;_ylt=AwrC1Cl9.VlWCXEAMlLQtDMD;_ylu=X3oDMTByOHZyb21tBGNvbG8DYmYxBHBvcwMxBHZ0aWQDBHNlYwNzcg--)
+2. [Euronews](http://www.euronews.com/2015/11/28/mali-un-peacekeepers-base-attacked-by-unidentified-gunmen/)
 
 ### Related:
 

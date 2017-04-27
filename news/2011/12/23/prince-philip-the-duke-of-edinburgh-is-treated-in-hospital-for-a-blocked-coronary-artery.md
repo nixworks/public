@@ -7,8 +7,8 @@ The Duke of Edinburgh receives treatment for a blocked coronary artery after suf
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2011/12/23/world/europe/uk-prince-philip/index.html?hpt=hp_t2)
-2. [BBC](http://www.bbc.co.uk/news/uk-16323794)
+1. [BBC](http://www.bbc.co.uk/news/uk-16323794)
+2. [CNN](http://www.cnn.com/2011/12/23/world/europe/uk-prince-philip/index.html?hpt=hp_t2)
 
 ### Related:
 

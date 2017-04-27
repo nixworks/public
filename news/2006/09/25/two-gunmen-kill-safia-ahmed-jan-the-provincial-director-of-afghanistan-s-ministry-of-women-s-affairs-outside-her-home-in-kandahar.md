@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/5376968.stm)
-2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20060925/ap_on_re_as/afghan_women_s_director_killed;_ylt=Ar.BXQzupdjFtdIBOmXpw7as0NUE;_ylu=X3oDMTA3OTB1amhuBHNlYwNtdHM-)
+1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20060925/ap_on_re_as/afghan_women_s_director_killed;_ylt=Ar.BXQzupdjFtdIBOmXpw7as0NUE;_ylu=X3oDMTA3OTB1amhuBHNlYwNtdHM-)
+2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/5376968.stm)
 
 ### Related:
 

@@ -7,12 +7,12 @@ Protests grow in the Greek capital, Athens, with buildings set alight as MPs vot
 
 ### Source:
 
-1. [Athens News](http://www.athensnews.gr/portal/1/53244)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-17003432)
-3. [CNN](http://edition.cnn.com/2012/02/12/world/europe/greece-debt-crisis/index.html?eref=edition)
-4. [Reuters](http://www.reuters.com/article/2012/02/13/us-greece-idUSTRE8120HI20120213)
-5. [AP via ''The Australian](http://www.theaustralian.com.au/business/in-depth/violence-as-greece-debates-austerity/story-fnawdwo8-1226269280730)
-6. [Ekathimerini](http://www.ekathimerini.com/4dcgi/_w_articles_wsite3_1_13/02/2012_427392)
+1. [AP via ''The Australian](http://www.theaustralian.com.au/business/in-depth/violence-as-greece-debates-austerity/story-fnawdwo8-1226269280730)
+2. [Athens News](http://www.athensnews.gr/portal/1/53244)
+3. [BBC](http://www.bbc.co.uk/news/world-europe-17003432)
+4. [CNN](http://edition.cnn.com/2012/02/12/world/europe/greece-debt-crisis/index.html?eref=edition)
+5. [Ekathimerini](http://www.ekathimerini.com/4dcgi/_w_articles_wsite3_1_13/02/2012_427392)
+6. [Reuters](http://www.reuters.com/article/2012/02/13/us-greece-idUSTRE8120HI20120213)
 
 ### Related:
 

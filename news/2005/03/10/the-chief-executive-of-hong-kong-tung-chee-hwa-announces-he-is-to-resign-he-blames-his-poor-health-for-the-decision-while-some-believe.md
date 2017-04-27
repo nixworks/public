@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Yahoo! Hong Kong](http://hk.news.yahoo.com/tung/index.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4335061.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4335061.stm)
+2. [Yahoo! Hong Kong](http://hk.news.yahoo.com/tung/index.html)
 
 ### Related:
 

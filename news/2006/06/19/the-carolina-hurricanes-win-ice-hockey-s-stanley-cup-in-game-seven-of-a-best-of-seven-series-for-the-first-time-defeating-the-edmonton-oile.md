@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/sports/hockey/cup/2006-06-19-edmonton-carolina-game-7_x.htm?csp=34)
-2. [CBC](http://www.cbc.ca/sports/hockey/stanleycup2006/storyview.html?/story/stanleycup2006/national/2006/06/19/oilers-hurricanes-nhl-final-seven.html)
+1. [CBC](http://www.cbc.ca/sports/hockey/stanleycup2006/storyview.html?/story/stanleycup2006/national/2006/06/19/oilers-hurricanes-nhl-final-seven.html)
+2. [USA Today](http://www.usatoday.com/sports/hockey/cup/2006-06-19-edmonton-carolina-game-7_x.htm?csp=34)
 
 ### Related:
 

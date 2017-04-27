@@ -7,14 +7,14 @@ News and opinion from The Times &amp; The Sunday Times
 
 ### Source:
 
-1. [China view](http://news.xinhuanet.com/english/2005-09/19/content_3514065.htm)
-2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2005/09/19/AR2005091900572_pf.html)
-3. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2005/09/20/AR2005092000246.html)
-4. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4259050.stm)
-5. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4263150.stm)
-6. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4260894.stm)
-7. [the Independent](http://news.independent.co.uk/world/middle_east/article313848.ece)
-8. [The Times](http://www.timesonline.co.uk/article/0,,7374-1788560,00.html)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4259050.stm)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4260894.stm)
+3. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4263150.stm)
+4. [China view](http://news.xinhuanet.com/english/2005-09/19/content_3514065.htm)
+5. [The Times](http://www.timesonline.co.uk/article/0,,7374-1788560,00.html)
+6. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2005/09/19/AR2005091900572_pf.html)
+7. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2005/09/20/AR2005092000246.html)
+8. [the Independent](http://news.independent.co.uk/world/middle_east/article313848.ece)
 
 ### Related:
 

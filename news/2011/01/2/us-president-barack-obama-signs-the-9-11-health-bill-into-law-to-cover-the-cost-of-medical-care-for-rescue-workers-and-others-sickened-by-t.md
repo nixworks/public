@@ -7,8 +7,8 @@ The $4.3 billion measure to aid rescue workers sickened after the 2001 terrorist
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2011/POLITICS/01/02/obama.9.11.bill/?hpt=T2)
-2. [ (''The New York Times](http://www.nytimes.com/2011/01/03/nyregion/03health.html?_r=1&partner=rss&emc=rss)
+1. [ (''The New York Times](http://www.nytimes.com/2011/01/03/nyregion/03health.html?_r=1&partner=rss&emc=rss)
+2. [CNN](http://edition.cnn.com/2011/POLITICS/01/02/obama.9.11.bill/?hpt=T2)
 
 ### Related:
 

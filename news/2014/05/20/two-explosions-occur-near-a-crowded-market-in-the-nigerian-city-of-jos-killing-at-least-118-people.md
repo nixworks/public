@@ -7,8 +7,8 @@ The bodies of at least 118 people have now been recovered from the sites of twin
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-africa-27493940)
-2. [AFP via Yahoo News Singapore](https://sg.news.yahoo.com/nigeria-car-bombing-death-toll-least-118-relief-201927056.html)
+1. [AFP via Yahoo News Singapore](https://sg.news.yahoo.com/nigeria-car-bombing-death-toll-least-118-relief-201927056.html)
+2. [BBC](http://www.bbc.com/news/world-africa-27493940)
 
 ### Related:
 

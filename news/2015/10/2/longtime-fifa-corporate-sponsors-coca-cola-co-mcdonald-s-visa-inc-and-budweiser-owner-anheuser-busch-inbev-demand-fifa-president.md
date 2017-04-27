@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/10/02/us-soccer-fifa-coca-cola-idUSKCN0RW27F20151002)
-2. [Irish Independent](http://www.independent.ie/world-news/europe/defiant-blatter-rejects-fifa-sponsors-calls-to-quit-31578785.html)
+1. [Irish Independent](http://www.independent.ie/world-news/europe/defiant-blatter-rejects-fifa-sponsors-calls-to-quit-31578785.html)
+2. [Reuters](http://www.reuters.com/article/2015/10/02/us-soccer-fifa-coca-cola-idUSKCN0RW27F20151002)
 
 ### Related:
 

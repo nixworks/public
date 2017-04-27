@@ -7,8 +7,8 @@ Chan, who won his third consecutive world title, apologized to fans for errors i
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/sports/olympics/2013/03/15/canada-patrick-chan-wins-world-championship/1992007/)
-2. [AP via ESPN](http://espn.go.com/olympics/figureskating/story/_/id/9059097/patrick-chan-wins-men-title-world-figure-skating-championships)
+1. [AP via ESPN](http://espn.go.com/olympics/figureskating/story/_/id/9059097/patrick-chan-wins-men-title-world-figure-skating-championships)
+2. [USA Today](http://www.usatoday.com/story/sports/olympics/2013/03/15/canada-patrick-chan-wins-world-championship/1992007/)
 
 ### Related:
 

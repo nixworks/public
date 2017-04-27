@@ -7,9 +7,9 @@ Voters go to the polls in three states on Tuesday in another set of Republican a
 
 ### Source:
 
-1. [caffeinatedthoughts.com](https://caffeinatedthoughts.com/2016/03/four-takeaways-gop-western-tuesday-arizona-utah/)
+1. [BBC](http://www.bbc.com/news/election-us-2016-35869785)
 2. [The Green Papers](http://www.thegreenpapers.com/P16/AS-D)
-3. [BBC](http://www.bbc.com/news/election-us-2016-35869785)
+3. [caffeinatedthoughts.com](https://caffeinatedthoughts.com/2016/03/four-takeaways-gop-western-tuesday-arizona-utah/)
 
 ### Related:
 

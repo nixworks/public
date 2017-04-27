@@ -7,13 +7,13 @@ CAIRO — Egypt’s embattled regime warned of a military crackdown on Wednesday
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/video/2011/feb/09/wael-ghonim-tahrir-square-video)
-2. [The Guardian](http://www.guardian.co.uk/world/2011/feb/09/egypt-army-detentions-torture-accused)
-3. [The Guardian](http://www.guardian.co.uk/news/blog/2011/feb/09/egypt-protests-live-updates-9-february)
-4. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/20112913546831171.html)
-5. [Al Jazeera](http://blogs.aljazeera.net/middle-east/2011/02/08/live-blog-feb-9-egypt-protests)
-6. [Khaleej Times](http://www.khaleejtimes.com/DisplayArticle09.asp?xfile=data/middleeast/2011/February/middleeast_February275.xml&section=middleeast)
-7. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/201129181744289932.html)
+1. [Al Jazeera](http://blogs.aljazeera.net/middle-east/2011/02/08/live-blog-feb-9-egypt-protests)
+2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/20112913546831171.html)
+3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/201129181744289932.html)
+4. [Khaleej Times](http://www.khaleejtimes.com/DisplayArticle09.asp?xfile=data/middleeast/2011/February/middleeast_February275.xml&section=middleeast)
+5. [The Guardian](http://www.guardian.co.uk/news/blog/2011/feb/09/egypt-protests-live-updates-9-february)
+6. [The Guardian](http://www.guardian.co.uk/world/2011/feb/09/egypt-army-detentions-torture-accused)
+7. [The Guardian](http://www.guardian.co.uk/world/video/2011/feb/09/wael-ghonim-tahrir-square-video)
 8. [Voice of America](http://www.voanews.com/english/news/middle-east/In-Egypt-Protesters-Government-Dig-In-115625749.html)
 
 ### Related:

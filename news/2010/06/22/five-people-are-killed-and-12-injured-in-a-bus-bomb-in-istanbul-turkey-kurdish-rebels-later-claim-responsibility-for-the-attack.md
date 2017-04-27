@@ -8,8 +8,8 @@ A roadside bomb blew up a bus carrying Turkish military personnel and their fami
 ### Source:
 
 1. [Anatolia News Agency](http://www.aa.com.tr/en/roadside-bomb-blast-kills-4-wounds-12-in-bus-carrying-soldiers-in-istanbul.html)
-2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/22/c_13363265.htm)
-3. [Reuters](http://www.reuters.com/article/idUSTRE65L0PA20100622)
+2. [Reuters](http://www.reuters.com/article/idUSTRE65L0PA20100622)
+3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/22/c_13363265.htm)
 
 ### Related:
 

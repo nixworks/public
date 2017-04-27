@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Financial Times](http://www.ft.com/intl/cms/s/0/9366ce44-0605-11e1-ad0e-00144feabdc0.html)
-2. [AP via ''Washington Post](http://www.washingtonpost.com/world/europe/greek-prime-minister-george-papandreou-calls-emergency-cabinet-meeting-for-thursday/2011/11/03/gIQAcgNrhM_story.html)
+1. [AP via ''Washington Post](http://www.washingtonpost.com/world/europe/greek-prime-minister-george-papandreou-calls-emergency-cabinet-meeting-for-thursday/2011/11/03/gIQAcgNrhM_story.html)
+2. [BBC News](http://www.bbc.co.uk/news/business-15567822)
 3. [CTV](http://www.ctvbc.ctv.ca/servlet/an/local/CTVNews/20111103/greece-george-papandreou-politics-referendum-bailout-debt-crisis-111103/20111103/?hub=BritishColumbiaHome)
-4. [BBC News](http://www.bbc.co.uk/news/business-15567822)
+4. [Financial Times](http://www.ft.com/intl/cms/s/0/9366ce44-0605-11e1-ad0e-00144feabdc0.html)
 
 ### Related:
 

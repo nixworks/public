@@ -7,10 +7,10 @@ Critics questioned the timing of a revelation by Russian state media on Monday o
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2012/02/28/world/europe/plot-to-kill-vladimir-putin-uncovered.html)
+1. [1TV.ru](http://www.1tv.ru/news/crime/200014)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-17176615)
 3. [Daily Mail](http://www.dailymail.co.uk/news/article-2107026/Vladimir-Putin-assassination-plot-Chechen-rebel-Adam-Osmayev-captured.html)
-4. [1TV.ru](http://www.1tv.ru/news/crime/200014)
+4. [New York Times](http://www.nytimes.com/2012/02/28/world/europe/plot-to-kill-vladimir-putin-uncovered.html)
 5. [Russia Today](http://rt.com/news/putin-assassination-attempt-thwarted-271/comments/)
 
 ### Related:

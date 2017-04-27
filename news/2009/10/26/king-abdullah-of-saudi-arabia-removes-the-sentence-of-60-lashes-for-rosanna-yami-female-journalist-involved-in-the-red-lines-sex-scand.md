@@ -7,9 +7,9 @@ Saskatoon-based visual artist Zachari Logan explores spaces in Saskatchewan that
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8326520.stm)
-2. [CBC](http://www.cbc.ca/arts/media/story/2009/10/26/saudi-tv-sex-talk-punish.html)
-3. [Al Arabiya](http://www.alarabiya.net/articles/2009/10/26/89298.html)
+1. [Al Arabiya](http://www.alarabiya.net/articles/2009/10/26/89298.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8326520.stm)
+3. [CBC](http://www.cbc.ca/arts/media/story/2009/10/26/saudi-tv-sex-talk-punish.html)
 
 ### Related:
 

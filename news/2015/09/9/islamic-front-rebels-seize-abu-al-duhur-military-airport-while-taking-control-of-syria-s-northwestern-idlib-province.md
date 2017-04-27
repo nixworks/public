@@ -7,10 +7,10 @@ A coalition of mainly Islamist Syrian rebels seize a key airbase in north-wester
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/09/09/us-mideast-crisis-syria-exclusive-idUSKCN0R91H720150909)
-2. [Al Jazeera English Online](http://www.aljazeera.com/news/2015/09/syrian-rebels-seize-government-air-base-idlib-nusra-150909081332853.html)
+1. [Al Jazeera English Online](http://www.aljazeera.com/news/2015/09/syrian-rebels-seize-government-air-base-idlib-nusra-150909081332853.html)
+2. [BBC](http://www.bbc.com/news/world-middle-east-34196438)
 3. [Reuters via Sydney Morning Herald](http://www.smh.com.au/world/syria-air-base-falls-to-rebels-troops-exit--state-tv-20150909-gjizkl.html)
-4. [BBC](http://www.bbc.com/news/world-middle-east-34196438)
+4. [Reuters](http://www.reuters.com/article/2015/09/09/us-mideast-crisis-syria-exclusive-idUSKCN0R91H720150909)
 
 ### Related:
 

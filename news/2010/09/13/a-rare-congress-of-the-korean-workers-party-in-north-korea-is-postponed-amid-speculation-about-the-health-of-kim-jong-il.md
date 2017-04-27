@@ -7,8 +7,8 @@ It seems Kim Jong-il ̔s poor health is the reason for the delay of North Korea 
 
 ### Source:
 
-1. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/20100913/news_20100913_56_698118.htm)
-2. [Arirang](http://www.arirang.co.kr/News/News_View.asp?nseq=106882&code=Ne2&category=2)
+1. [Arirang](http://www.arirang.co.kr/News/News_View.asp?nseq=106882&code=Ne2&category=2)
+2. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/20100913/news_20100913_56_698118.htm)
 3. [Voice of Russia](http://english.ruvr.ru/2010/09/13/20111108.html)
 
 ### Related:

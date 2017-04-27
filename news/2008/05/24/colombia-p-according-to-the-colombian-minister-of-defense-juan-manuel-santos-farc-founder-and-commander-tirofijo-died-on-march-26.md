@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Noticias24]¶ A [[May 2008 Colombia earthquake|5.9]] [[earthquake]] with its [[epicentre]] in the [[Department of Meta]] strikes the Central and West areas of the country; at least 11 people are killed with over 4000 injuries reported. [http://www.hindustantimes.com/StoryPage/StoryPage.aspx?id=ea977149-d577-4f39-ba97-ab46b26081cc&&Headline=Colombia+earthquake+toll+climbs+to+11 (Hindustan Times](http://www.noticias24.com/actualidad/?p=14563)
-2. [El Tiempo](http://www.eltiempo.com/conflicto/noticias/ARTICULO-WEB-NOTA_INTERIOR-4206410.html)
-3. [USGS](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2008skbn.php)
-4. [Semana](http://www.semana.com/wf_InfoArticulo.aspx?idArt=112103)
+1. [El Tiempo](http://www.eltiempo.com/conflicto/noticias/ARTICULO-WEB-NOTA_INTERIOR-4206410.html)
+2. [Noticias24]¶ A [[May 2008 Colombia earthquake|5.9]] [[earthquake]] with its [[epicentre]] in the [[Department of Meta]] strikes the Central and West areas of the country; at least 11 people are killed with over 4000 injuries reported. [http://www.hindustantimes.com/StoryPage/StoryPage.aspx?id=ea977149-d577-4f39-ba97-ab46b26081cc&&Headline=Colombia+earthquake+toll+climbs+to+11 (Hindustan Times](http://www.noticias24.com/actualidad/?p=14563)
+3. [Semana](http://www.semana.com/wf_InfoArticulo.aspx?idArt=112103)
+4. [USGS](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2008skbn.php)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The Tasmanian Aboriginal community are using National Aboriginal Islander Day Ob
 
 ### Source:
 
-1. [NAIDOC](http://www.naidoc.org.au/)
-2. [ABC](http://www.abc.net.au/news/stories/2010/07/05/2945127.htm)
+1. [ABC](http://www.abc.net.au/news/stories/2010/07/05/2945127.htm)
+2. [NAIDOC](http://www.naidoc.org.au/)
 
 ### Related:
 

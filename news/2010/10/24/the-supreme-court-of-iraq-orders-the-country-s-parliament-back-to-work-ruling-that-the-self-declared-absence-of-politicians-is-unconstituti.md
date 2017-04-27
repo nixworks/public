@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/24/c_13572957.htm)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11615047)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11615047)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/24/c_13572957.htm)
 
 ### Related:
 

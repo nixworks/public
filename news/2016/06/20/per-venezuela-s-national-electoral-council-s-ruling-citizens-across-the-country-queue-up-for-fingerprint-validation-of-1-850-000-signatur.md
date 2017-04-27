@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [TeleSUR](http://www.telesurtv.net/english/news/Venezuela-Begins-Validating-Recall-Referendum-Signatures--20160620-0012.html)
-2. [Reuters](http://www.reuters.com/article/us-venezuela-politics-idUSKCN0Z61ZX)
+1. [Reuters](http://www.reuters.com/article/us-venezuela-politics-idUSKCN0Z61ZX)
+2. [TeleSUR](http://www.telesurtv.net/english/news/Venezuela-Begins-Validating-Recall-Referendum-Signatures--20160620-0012.html)
 
 ### Related:
 

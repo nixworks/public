@@ -7,8 +7,8 @@ People in Liberia were voting for a new president Tuesday, choosing between a fo
 
 ### Source:
 
-1. [Scotsman](http://news.scotsman.com/latest.cfm?id=2208492005)
-2. [CBC](http://www.cbc.ca/world/story/2005/11/08/liberia-051107.html)
+1. [CBC](http://www.cbc.ca/world/story/2005/11/08/liberia-051107.html)
+2. [Scotsman](http://news.scotsman.com/latest.cfm?id=2208492005)
 
 ### Related:
 

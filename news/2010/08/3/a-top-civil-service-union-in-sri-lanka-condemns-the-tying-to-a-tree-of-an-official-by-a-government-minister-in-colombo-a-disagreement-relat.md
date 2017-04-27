@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [People's Daily](http://english.people.com.cn/90001/90777/90851/7091741.html)
-2. [BBC](http://www.bbc.co.uk/news/world-south-asia-10855838)
+1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10855838)
+2. [People's Daily](http://english.people.com.cn/90001/90777/90851/7091741.html)
 
 ### Related:
 

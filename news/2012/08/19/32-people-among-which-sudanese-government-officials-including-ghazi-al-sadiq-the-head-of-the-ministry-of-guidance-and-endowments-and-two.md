@@ -7,8 +7,8 @@ A Sudanese government minister and other officials die as a plane carrying some 
 
 ### Source:
 
-1. [SUNA](http://www.sunanews.net/english-latest-news/25118-martyrdom-of-32-persons-in-plane-crash-in-taludi-area.html)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-19310609)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-19310609)
+2. [SUNA](http://www.sunanews.net/english-latest-news/25118-martyrdom-of-32-persons-in-plane-crash-in-taludi-area.html)
 
 ### Related:
 

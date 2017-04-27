@@ -8,9 +8,9 @@ The Irish Bishops&#39; Conference has issued an apology to all those who were ab
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8401693.stm)
-2. [Javno](http://www.javno.com/en-world/vatican-envoy-apologises-over-irish-sex-abuse_285346)
-3. [RTÉ](http://www.rte.ie/news/2009/1209/abuse.html)
-4. [Irish Independent](http://www.independent.ie/national-news/papal-nuncio-says-sorry-for-vaticans-mistakes-1968143.html)
+2. [Irish Independent](http://www.independent.ie/national-news/papal-nuncio-says-sorry-for-vaticans-mistakes-1968143.html)
+3. [Javno](http://www.javno.com/en-world/vatican-envoy-apologises-over-irish-sex-abuse_285346)
+4. [RTÉ](http://www.rte.ie/news/2009/1209/abuse.html)
 
 ### Related:
 

@@ -8,8 +8,8 @@
 ### Source:
 
 1. [NZ election results](http://electionresults.govt.nz/)
-2. [SBS](http://www9.sbs.com.au/theworldnews/region.php?id=122041&region=2)
-3. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-09-30T233257Z_01_KRA083708_RTRUKOC_0_UK-NEWZEALAND-RESULT.xml&archived=False)
+2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-09-30T233257Z_01_KRA083708_RTRUKOC_0_UK-NEWZEALAND-RESULT.xml&archived=False)
+3. [SBS](http://www9.sbs.com.au/theworldnews/region.php?id=122041&region=2)
 
 ### Related:
 

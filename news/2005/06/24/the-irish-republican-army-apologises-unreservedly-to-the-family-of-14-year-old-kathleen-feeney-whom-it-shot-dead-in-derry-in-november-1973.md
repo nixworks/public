@@ -7,8 +7,8 @@ The Sinn Féin President, Gerry Adams, has said that he is fairly certain that t
 
 ### Source:
 
-1. [RTE](http://www.rte.ie/news/2005/0624/ira.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/northern_ireland/4618125.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/northern_ireland/4618125.stm)
+2. [RTE](http://www.rte.ie/news/2005/0624/ira.html)
 
 ### Related:
 

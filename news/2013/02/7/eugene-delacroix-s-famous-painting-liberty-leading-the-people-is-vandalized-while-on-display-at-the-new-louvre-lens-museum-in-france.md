@@ -7,9 +7,9 @@ A woman was seized by security guards after using marker pen to deface one of th
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/arts-entertainment/art/news/delacroix-liberty-painting-defaced-by-woman-with-marker-pen-at-louvre-exhibition-8487092.html)
-2. [France 3](http://nord-pas-de-calais.france3.fr/2013/02/07/louvre-lens-la-liberte-guidant-le-peuple-de-delacroix-ete-tague-l-encre-indelebile-196229.html)
-3. [Le Nouvel Observateur](http://tempsreel.nouvelobs.com/culture/20130207.OBS8227/la-liberte-guidant-le-peuple-de-delacroix-degradee-au-louvre-lens.html)
+1. [France 3](http://nord-pas-de-calais.france3.fr/2013/02/07/louvre-lens-la-liberte-guidant-le-peuple-de-delacroix-ete-tague-l-encre-indelebile-196229.html)
+2. [Le Nouvel Observateur](http://tempsreel.nouvelobs.com/culture/20130207.OBS8227/la-liberte-guidant-le-peuple-de-delacroix-degradee-au-louvre-lens.html)
+3. [The Independent](http://www.independent.co.uk/arts-entertainment/art/news/delacroix-liberty-painting-defaced-by-woman-with-marker-pen-at-louvre-exhibition-8487092.html)
 
 ### Related:
 

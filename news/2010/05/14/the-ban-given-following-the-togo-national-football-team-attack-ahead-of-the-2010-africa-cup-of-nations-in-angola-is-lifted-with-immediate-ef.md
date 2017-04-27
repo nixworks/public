@@ -7,9 +7,9 @@ A ban preventing Togo from competing at the next two African Nations Cups has be
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/international/7724332/Togos-African-Nations-Cup-ban-is-lifted.html)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iQBPvKpNOiVhRAPEN-khUyVOewqQ)
 2. [BBC](http://news.bbc.co.uk/sport2/hi/football/africa/8682511.stm)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iQBPvKpNOiVhRAPEN-khUyVOewqQ)
+3. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/international/7724332/Togos-African-Nations-Cup-ban-is-lifted.html)
 
 ### Related:
 

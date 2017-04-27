@@ -7,10 +7,10 @@ The Taliban has issued a warning to Afghans whose names might appear on the leak
 
 ### Source:
 
-1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/afghanistan/7917955/Wikileaks-Afghanistan-Taliban-hunting-down-informants.html)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5ghKrUMDIrxrE_o4bRHFj_I7WG_Qw)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5ghKrUMDIrxrE_o4bRHFj_I7WG_Qw)
+2. [Fox News](http://www.foxnews.com/us/2010/07/30/alleged-rogue-gi-sent-wikileaks-probe/)
 3. [The Guardian](http://www.guardian.co.uk/world/2010/jul/30/us-troops-deaths-afghanistan-marjah)
-4. [Fox News](http://www.foxnews.com/us/2010/07/30/alleged-rogue-gi-sent-wikileaks-probe/)
+4. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/afghanistan/7917955/Wikileaks-Afghanistan-Taliban-hunting-down-informants.html)
 
 ### Related:
 

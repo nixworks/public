@@ -7,10 +7,10 @@ Libyan leader Muammar Gaddafi is celebrating the 40th anniversary of the coup th
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/libya/6121837/Muammar-Gaddafi-hits-out-on-40th-anniversary-of-Libyan-coup.html)
+1. [Al Arabiya](http://www.alarabiya.net/articles/2009/09/01/83589.html)
 2. [RTÉ](http://www.rte.ie/news/2009/0901/libya.html#Scene_1)
-3. [The Guardian](http://www.guardian.co.uk/world/2009/sep/01/muammar-gaddafi-anniversary-celebrations)
-4. [Al Arabiya](http://www.alarabiya.net/articles/2009/09/01/83589.html)
+3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/libya/6121837/Muammar-Gaddafi-hits-out-on-40th-anniversary-of-Libyan-coup.html)
+4. [The Guardian](http://www.guardian.co.uk/world/2009/sep/01/muammar-gaddafi-anniversary-celebrations)
 
 ### Related:
 

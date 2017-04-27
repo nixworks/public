@@ -7,8 +7,8 @@ Jordanian warplanes have targeted and destroyed several vehicles trying to cross
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2014/04/16/us-syria-crisis-chemical-idUSBREA3F1MW20140416?feedType=RSS&feedName=topNews&utm_source=dlvr.it&utm_medium=twitter&dlvrit=992637)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-27047864)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-27047864)
+2. [Reuters](http://www.reuters.com/article/2014/04/16/us-syria-crisis-chemical-idUSBREA3F1MW20140416?feedType=RSS&feedName=topNews&utm_source=dlvr.it&utm_medium=twitter&dlvrit=992637)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Group of Eight leaders promised Friday to support new Arab democracies, accordin
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/world/20110527/164275804.html)
-2. [MSNBC](http://www.msnbc.msn.com/id/43190972/ns/world_news/)
+1. [MSNBC](http://www.msnbc.msn.com/id/43190972/ns/world_news/)
+2. [RIA Novosti](http://en.rian.ru/world/20110527/164275804.html)
 3. [Reuters](http://af.reuters.com/article/topNews/idAFJOE74Q0JR20110527?sp=true)
 
 ### Related:

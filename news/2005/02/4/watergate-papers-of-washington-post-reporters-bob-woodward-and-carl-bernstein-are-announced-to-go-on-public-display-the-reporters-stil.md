@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/articles/A61824-2005Feb3.html)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=politicsNews&storyID=7533015)
+1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=politicsNews&storyID=7533015)
+2. [Washington Post](http://www.washingtonpost.com/wp-dyn/articles/A61824-2005Feb3.html)
 
 ### Related:
 

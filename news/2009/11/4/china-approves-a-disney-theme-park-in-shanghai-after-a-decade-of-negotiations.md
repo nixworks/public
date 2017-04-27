@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6902338.ece)
-2. [China Daily](http://www.chinadaily.com.cn/china/2009-11/04/content_8915062.htm)
+1. [China Daily](http://www.chinadaily.com.cn/china/2009-11/04/content_8915062.htm)
+2. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6902338.ece)
 
 ### Related:
 

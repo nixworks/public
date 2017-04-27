@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Pakistan Observer](http://pakobserver.net/detailnews.asp?id=131879)
-2. [Boston Globe](http://www.boston.com/news/world/middleeast/articles/2011/12/25/yemenis_rally_denounce_killings_of_protesters/)
+1. [Boston Globe](http://www.boston.com/news/world/middleeast/articles/2011/12/25/yemenis_rally_denounce_killings_of_protesters/)
+2. [Pakistan Observer](http://pakobserver.net/detailnews.asp?id=131879)
 
 ### Related:
 

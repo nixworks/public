@@ -7,8 +7,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Reuters](http://today.reuters.com/News/newsArticle.aspx?type=topNews&storyID=2005-07-13T184122Z_01_N13657486_RTRIDST_0_NEWS-USA-COURT-REHNQUIST-DC.XML)
-2. [CNN](http://www.cnn.com/2005/POLITICS/07/13/rehnquist.health/)
+1. [CNN](http://www.cnn.com/2005/POLITICS/07/13/rehnquist.health/)
+2. [Reuters](http://today.reuters.com/News/newsArticle.aspx?type=topNews&storyID=2005-07-13T184122Z_01_N13657486_RTRIDST_0_NEWS-USA-COURT-REHNQUIST-DC.XML)
 
 ### Related:
 

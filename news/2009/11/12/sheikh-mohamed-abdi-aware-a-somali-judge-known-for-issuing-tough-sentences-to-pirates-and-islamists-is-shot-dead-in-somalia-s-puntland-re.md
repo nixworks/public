@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Press TV](http://www.presstv.ir/detail.aspx?id=111107&sectionid=351020501)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8356228.stm)
-3. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20091112122143431C712659)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8356228.stm)
+2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20091112122143431C712659)
+3. [Press TV](http://www.presstv.ir/detail.aspx?id=111107&sectionid=351020501)
 
 ### Related:
 

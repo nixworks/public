@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Reuters UK](http://today.reuters.co.uk/news/newsArticle.aspx?type=businessNews&storyID=2005-05-23T054604Z_01_CAS242766_RTRUKOC_0_BRITAIN-BBC.xml)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000102&sid=a.XRhuZrFlbg&refer=uk)
-3. [BBC](http://news.bbc.co.uk/2/hi/entertainment/4570237.stm)
-4. [BBC strike Q&A](http://news.bbc.co.uk/1/hi/entertainment/tv_and_radio/4536107.stm)
+1. [BBC strike Q&A](http://news.bbc.co.uk/1/hi/entertainment/tv_and_radio/4536107.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/entertainment/4570237.stm)
+3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000102&sid=a.XRhuZrFlbg&refer=uk)
+4. [Reuters UK](http://today.reuters.co.uk/news/newsArticle.aspx?type=businessNews&storyID=2005-05-23T054604Z_01_CAS242766_RTRUKOC_0_BRITAIN-BBC.xml)
 
 ### Related:
 

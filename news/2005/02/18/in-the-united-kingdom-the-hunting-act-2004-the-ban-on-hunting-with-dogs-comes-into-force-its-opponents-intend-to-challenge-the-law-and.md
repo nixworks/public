@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=topNews&storyID=2005-02-18T013540Z_01_HOP615052_RTRUKOC_0_BRITAIN-HUNTING-THURS.xml)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/politics/4275753.stm)
 2. [Politics.co.uk](http://www.politics.co.uk/domestic-policy/country-gears-up-hunting-ban-$7823663.htm)
-3. [BBC](http://news.bbc.co.uk/2/hi/uk_news/politics/4275753.stm)
+3. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=topNews&storyID=2005-02-18T013540Z_01_HOP615052_RTRUKOC_0_BRITAIN-HUNTING-THURS.xml)
 
 ### Related:
 

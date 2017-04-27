@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [News Australia](http://www.news.com.au/breaking-news/eight-killed-13-missing-in-flash-floods/story-e6frfku0-1225822740279)
-2. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1263147958761&pagename=JPost%2FJPArticle%2FShowFull)
+1. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1263147958761&pagename=JPost%2FJPArticle%2FShowFull)
+2. [News Australia](http://www.news.com.au/breaking-news/eight-killed-13-missing-in-flash-floods/story-e6frfku0-1225822740279)
 
 ### Related:
 

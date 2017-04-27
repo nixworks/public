@@ -7,9 +7,9 @@ Scores of Kenyan troops go on the rampage in the eastern town of Garissa, beatin
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Riot-in-Kenya-after-bus-bombing-kills-nine-in-capital/articleshow/17285247.cms)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-20401136)
 2. [Capital FM Kenya](http://www.capitalfm.co.ke/news/2012/11/gunmen-kill-three-soldiers-in-kenyas-northeast/)
-3. [BBC](http://www.bbc.co.uk/news/world-africa-20401136)
+3. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Riot-in-Kenya-after-bus-bombing-kills-nine-in-capital/articleshow/17285247.cms)
 
 ### Related:
 

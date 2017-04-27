@@ -7,15 +7,15 @@ Kansas awarding 40 delegates in the Republican primary race
 
 ### Source:
 
-1. [ABC News](http://abcnews.go.com/Politics/wireStory/donald-trump-wins-gop-presidential-primary-louisiana-37432187)
-2. [New York Times](http://www.nytimes.com/elections/results/kentucky)
-3. [Presidential Election News](http://www.uspresidentialelectionnews.com/2016-presidential-primary-schedule-calendar/)
-4. [ (CNN](http://edition.cnn.com/2016/03/05/politics/kansas-kentucky-louisiana-maine-nebraska-highlights/index.html)
-5. [CNN](http://edition.cnn.com/election/primaries/states/la/Rep)
-6. [Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2016/03/05/bernie-sanders-projected-to-win-the-democratic-caucuses-in-nebraska/)
-7. [The Guardian](http://www.theguardian.com/us-news/live/2016/mar/05/trump-clinton-sanders-michigan-maine-primary-caucuses)
-8. [CBS News](http://www.cbsnews.com/news/kansas-republican-caucus-results-live-updates/)
-9. [NOLA](http://www.nola.com/politics/index.ssf/2016/03/live_coverage_of_louisianas_20.html)
+1. [ (CNN](http://edition.cnn.com/2016/03/05/politics/kansas-kentucky-louisiana-maine-nebraska-highlights/index.html)
+2. [ABC News](http://abcnews.go.com/Politics/wireStory/donald-trump-wins-gop-presidential-primary-louisiana-37432187)
+3. [CBS News](http://www.cbsnews.com/news/kansas-republican-caucus-results-live-updates/)
+4. [CNN](http://edition.cnn.com/election/primaries/states/la/Rep)
+5. [NOLA](http://www.nola.com/politics/index.ssf/2016/03/live_coverage_of_louisianas_20.html)
+6. [New York Times](http://www.nytimes.com/elections/results/kentucky)
+7. [Presidential Election News](http://www.uspresidentialelectionnews.com/2016-presidential-primary-schedule-calendar/)
+8. [The Guardian](http://www.theguardian.com/us-news/live/2016/mar/05/trump-clinton-sanders-michigan-maine-primary-caucuses)
+9. [Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2016/03/05/bernie-sanders-projected-to-win-the-democratic-caucuses-in-nebraska/)
 
 ### Related:
 

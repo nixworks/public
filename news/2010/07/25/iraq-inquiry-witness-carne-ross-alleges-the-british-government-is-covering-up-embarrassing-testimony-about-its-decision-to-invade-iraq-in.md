@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Observer](http://www.guardian.co.uk/uk/2010/jul/25/chilcot-inquiry-iraq-cover-up-claim)
-2. [Channel 4](http://www.channel4.com/news/articles/uk/accusations+of+iraq+war+coverup/3723132)
+1. [Channel 4](http://www.channel4.com/news/articles/uk/accusations+of+iraq+war+coverup/3723132)
+2. [The Observer](http://www.guardian.co.uk/uk/2010/jul/25/chilcot-inquiry-iraq-cover-up-claim)
 
 ### Related:
 

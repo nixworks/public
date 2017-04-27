@@ -7,9 +7,9 @@ Hollywood actor George Clooney will receive an Emmy award for his humanitarian e
 
 ### Source:
 
-1. [News24](http://www.news24.com/Entertainment/CelebNews/Clooney-honoured-at-the-Emmys-20100721)
+1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-10712994)
 2. [Los Angeles Times](http://latimesblogs.latimes.com/showtracker/2010/07/george-clooney-to-receive-humanitarian-award-at-emmys.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+ShowTracker+%28L.A.+Times+-+Show+Tracker%29)
-3. [BBC](http://www.bbc.co.uk/news/entertainment-arts-10712994)
+3. [News24](http://www.news24.com/Entertainment/CelebNews/Clooney-honoured-at-the-Emmys-20100721)
 4. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/07/21/AR2010072101341.html?hpid=entnews)
 
 ### Related:

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-middle-east-33955894)
-2. [Al Jazeera](http://www.aljazeera.com/news/2015/08/egypt-adopts-controversial-anti-terror-law-150817042612693.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/2015/08/egypt-adopts-controversial-anti-terror-law-150817042612693.html)
+2. [BBC](http://www.bbc.com/news/world-middle-east-33955894)
 
 ### Related:
 

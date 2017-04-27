@@ -8,6 +8,6 @@
 ### Source:
 
 1. [APS Journals](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102)
-2. [Nature](http://www.nature.com/news/einstein-s-gravitational-waves-found-at-last-1.19361)
-3. [Guardian](https://www.theguardian.com/science/across-the-universe/live/2016/feb/11/gravitational-wave-announcement-latest-physics-einstein-ligo-black-holes-live)
+2. [Guardian](https://www.theguardian.com/science/across-the-universe/live/2016/feb/11/gravitational-wave-announcement-latest-physics-einstein-ligo-black-holes-live)
+3. [Nature](http://www.nature.com/news/einstein-s-gravitational-waves-found-at-last-1.19361)
 4. [New York Times](http://www.nytimes.com/2016/02/12/science/ligo-gravitational-waves-black-holes-einstein.html)

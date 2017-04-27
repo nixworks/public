@@ -7,14 +7,14 @@ Ex-Tunisian president and his wife were sentenced in absentia to 35 years in pri
 
 ### Source:
 
-1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-syria-protests-20110620,0,3278119.story)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-13843798)
-3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/201162013048808816.html)
-4. [BBC](http://www.bbc.co.uk/news/world-africa-13850227)
-5. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/06/2011620191756405734.html)
-6. [Reuters via ''The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0620/breaking115.html)
-7. [BBC](http://www.bbc.co.uk/news/world-middle-east-13845484)
-8. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/201162013102151508.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/06/2011620191756405734.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/201162013048808816.html)
+3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/201162013102151508.html)
+4. [BBC](http://www.bbc.co.uk/news/world-africa-13843798)
+5. [BBC](http://www.bbc.co.uk/news/world-africa-13850227)
+6. [BBC](http://www.bbc.co.uk/news/world-middle-east-13845484)
+7. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-syria-protests-20110620,0,3278119.story)
+8. [Reuters via ''The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0620/breaking115.html)
 
 ### Related:
 

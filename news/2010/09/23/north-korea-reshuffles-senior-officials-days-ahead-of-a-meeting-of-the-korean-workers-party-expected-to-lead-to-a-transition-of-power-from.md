@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Korea Herald](http://www.koreaherald.com/national/Detail.jsp?newsMLId=20100923000317)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5grQiZMFlccnxooOd9ptU3TjziyFA)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5grQiZMFlccnxooOd9ptU3TjziyFA)
+2. [Korea Herald](http://www.koreaherald.com/national/Detail.jsp?newsMLId=20100923000317)
 
 ### Related:
 

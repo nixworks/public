@@ -8,8 +8,8 @@ PA forces douse the flames and disperse some hundred rioters, who caused heavy d
 ### Source:
 
 1. [Jerusalem Post](http://www.jpost.com/Breaking-News/Abbas-condemns-Palestinian-torching-of-Josephs-Tomb-vows-investigation-426174)
-2. [Times of Israel](http://www.timesofisrael.com/palestinians-try-to-set-fire-to-josephs-tomb-in-nablus/?utm_source=dlvr.it&utm_medium=twitter)
-3. [Reuters](http://www.reuters.com/article/2015/10/16/us-israel-palestinians-idUSKCN0SA0GY20151016)
+2. [Reuters](http://www.reuters.com/article/2015/10/16/us-israel-palestinians-idUSKCN0SA0GY20151016)
+3. [Times of Israel](http://www.timesofisrael.com/palestinians-try-to-set-fire-to-josephs-tomb-in-nablus/?utm_source=dlvr.it&utm_medium=twitter)
 
 ### Related:
 

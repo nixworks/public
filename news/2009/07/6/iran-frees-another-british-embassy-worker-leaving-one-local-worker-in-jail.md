@@ -7,8 +7,8 @@ Iran has released one of the last two British embassy employees detained in Tehr
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/gc08/idUSTRE5651H320090706)
-2. [CNN](http://edition.cnn.com/2009/WORLD/meast/07/06/iran.embassy.workers/index.html)
+1. [CNN](http://edition.cnn.com/2009/WORLD/meast/07/06/iran.embassy.workers/index.html)
+2. [Reuters](http://www.reuters.com/article/gc08/idUSTRE5651H320090706)
 
 ### Related:
 

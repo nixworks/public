@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [SwissInfo](http://www.swissinfo.org/sen/swissinfo.html?siteSect=111&sid=5520655)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/4242491.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4242491.stm)
+2. [SwissInfo](http://www.swissinfo.org/sen/swissinfo.html?siteSect=111&sid=5520655)
 
 ### Related:
 

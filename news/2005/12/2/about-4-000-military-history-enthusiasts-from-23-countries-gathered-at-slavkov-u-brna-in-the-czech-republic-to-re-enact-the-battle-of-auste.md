@@ -7,10 +7,10 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [Austerlitz2005.com](http://www.austerlitz2005.com/en/)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/4491668.stm)
-3. [AP via CBS](http://www.cbsnews.com/stories/2005/12/03/ap/world/mainD8E8TEC01.shtml)
-4. [AP via ABC](http://abcnews.go.com/International/wireStory?id=1369347)
+1. [AP via ABC](http://abcnews.go.com/International/wireStory?id=1369347)
+2. [AP via CBS](http://www.cbsnews.com/stories/2005/12/03/ap/world/mainD8E8TEC01.shtml)
+3. [Austerlitz2005.com](http://www.austerlitz2005.com/en/)
+4. [BBC](http://news.bbc.co.uk/2/hi/europe/4491668.stm)
 5. [BBC](http://news.bbc.co.uk/2/hi/in_pictures/4495616.stm)
 
 ### Related:

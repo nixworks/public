@@ -7,9 +7,9 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2005-03/07/content_2663379.htm)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aZsKheRy5A6c&refer=top_world_news)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7821864)
-3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aZsKheRy5A6c&refer=top_world_news)
+3. [Xinhua](http://news.xinhuanet.com/english/2005-03/07/content_2663379.htm)
 
 ### Related:
 

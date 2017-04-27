@@ -7,10 +7,10 @@ The head of the Democratic Party resigned on Sunday amid a furor over embarrassi
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/politics/hacked-emails-cast-doubt-on-hopes-for-party-unity-at-democratic-convention/2016/07/24/a446c260-51a9-11e6-b7de-dfe509430c39_story.html)
-2. [Reuters](http://www.reuters.com/article/us-usa-election-idUSKCN1040TO)
-3. [CNN](http://www.cnn.com/2016/07/22/politics/dnc-wikileaks-emails/)
-4. [Fox News](http://www.foxnews.com/politics/2016/07/23/wikileaks-dump-appears-to-show-dnc-favored-clinton-campaign.html)
+1. [CNN](http://www.cnn.com/2016/07/22/politics/dnc-wikileaks-emails/)
+2. [Fox News](http://www.foxnews.com/politics/2016/07/23/wikileaks-dump-appears-to-show-dnc-favored-clinton-campaign.html)
+3. [Reuters](http://www.reuters.com/article/us-usa-election-idUSKCN1040TO)
+4. [The Washington Post](https://www.washingtonpost.com/politics/hacked-emails-cast-doubt-on-hopes-for-party-unity-at-democratic-convention/2016/07/24/a446c260-51a9-11e6-b7de-dfe509430c39_story.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 ### Source:
 
-1. [United We Blog](http://www.blog.com.np/index.php?p=506)
+1. [NDTV](http://www.ndtv.com/template/template.asp?template=Nepalturmoil&slug=Deuba+held+in+Nepal&id=16766&callid=0&category=International)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/BOM201576.htm)
-3. [NDTV](http://www.ndtv.com/template/template.asp?template=Nepalturmoil&slug=Deuba+held+in+Nepal&id=16766&callid=0&category=International)
+3. [United We Blog](http://www.blog.com.np/index.php?p=506)
 
 ### Related:
 

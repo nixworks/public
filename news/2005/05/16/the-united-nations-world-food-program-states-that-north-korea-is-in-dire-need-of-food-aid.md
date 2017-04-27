@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Chosun Ilbo](http://english.chosun.com/w21data/html/news/200505/200505150006.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4553695.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4553695.stm)
+2. [Chosun Ilbo](http://english.chosun.com/w21data/html/news/200505/200505150006.html)
 
 ### Related:
 

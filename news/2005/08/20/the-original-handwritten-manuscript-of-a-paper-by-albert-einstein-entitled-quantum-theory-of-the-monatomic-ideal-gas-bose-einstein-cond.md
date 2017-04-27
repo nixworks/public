@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Leiden University](http://www.lorentz.leidenuniv.nl/history/Einstein_archive/)
-2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20050821/ap_on_sc/einstein_manuscript)
+1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20050821/ap_on_sc/einstein_manuscript)
+2. [Leiden University](http://www.lorentz.leidenuniv.nl/history/Einstein_archive/)
 
 ### Related:
 

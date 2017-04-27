@@ -9,8 +9,8 @@ Former Bosnian Serb leader Radovan Karadzic is expected to begin outlining his d
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/europe/03/01/netherlands.karadzic.trial/)
 2. [RTÉ](http://www.rte.ie/news/2010/0301/karadzic.html)
-3. [The Sydney Morning Herald](http://media.smh.com.au/world/world-news/trial-for-karadzic-resumes-1184400.html)
-4. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10629360)
+3. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10629360)
+4. [The Sydney Morning Herald](http://media.smh.com.au/world/world-news/trial-for-karadzic-resumes-1184400.html)
 
 ### Related:
 

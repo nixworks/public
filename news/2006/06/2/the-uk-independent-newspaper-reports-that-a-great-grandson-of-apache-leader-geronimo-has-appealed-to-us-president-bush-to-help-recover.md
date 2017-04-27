@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Newwest.net](http://www.newwest.net/index.php/city/article/8438/C110/L110)
-2. [Yale Alumni Magazine](http://www.yalealumnimagazine.com/issues/2006_05/notebook.html)
-3. [Independent](http://news.independent.co.uk/world/americas/article622744.ece)
+1. [Independent](http://news.independent.co.uk/world/americas/article622744.ece)
+2. [Newwest.net](http://www.newwest.net/index.php/city/article/8438/C110/L110)
+3. [Yale Alumni Magazine](http://www.yalealumnimagazine.com/issues/2006_05/notebook.html)
 
 ### Related:
 

@@ -7,10 +7,10 @@ Russia warned the West on Tuesday against unilateral action on Syria, a day afte
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/08/21/us-syria-crisis-idUSBRE8610SH20120821)
+1. [AP via ''The Washington Post](http://www.washingtonpost.com/world/asia_pacific/japanese-journalist-killed-covering-fighting-in-syria-body-transferred-to-turkey/2012/08/20/0c892482-eb27-11e1-866f-60a00f604425_story.html)
 2. [Hürriyet Daily News](http://www.hurriyetdailynews.com/asala-threatens-turkey-over-syria-.aspx?pageID=238&nID=28244&NewsCatID=359)
-3. [AP via ''The Washington Post](http://www.washingtonpost.com/world/asia_pacific/japanese-journalist-killed-covering-fighting-in-syria-body-transferred-to-turkey/2012/08/20/0c892482-eb27-11e1-866f-60a00f604425_story.html)
-4. [RIA Novosti](http://en.rian.ru/russia/20120817/175263636.html)
+3. [RIA Novosti](http://en.rian.ru/russia/20120817/175263636.html)
+4. [Reuters](http://www.reuters.com/article/2012/08/21/us-syria-crisis-idUSBRE8610SH20120821)
 
 ### Related:
 

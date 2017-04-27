@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Daily Mail](http://www.dailymail.co.uk/tvshowbiz/article-1295693/Zsa-Zsa-Gabor-condition-falling-bed-breaking-bones.html?ITO=1490)
-2. [KTLA](http://www.ktla.com/news/landing/ktla-gabor-broken-bones,0,2386023.story)
-3. [BBC](http://www.bbc.co.uk/news/world-us-canada-10675481)
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-10675481)
+2. [Daily Mail](http://www.dailymail.co.uk/tvshowbiz/article-1295693/Zsa-Zsa-Gabor-condition-falling-bed-breaking-bones.html?ITO=1490)
+3. [KTLA](http://www.ktla.com/news/landing/ktla-gabor-broken-bones,0,2386023.story)
 
 ### Related:
 

@@ -7,8 +7,8 @@ William Hague says his Burmese counterpart has vowed to free more political pris
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/world/2012-01/05/c_131343804.htm)
-2. [BBC](http://www.bbc.co.uk/news/uk-politics-16417704)
+1. [BBC](http://www.bbc.co.uk/news/uk-politics-16417704)
+2. [Xinhua](http://news.xinhuanet.com/english/world/2012-01/05/c_131343804.htm)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Austria plans to build a fence at the main border crossing used by migrants ente
 
 ### Source:
 
-1. [AP](http://bigstory.ap.org/article/ebe3ccdeca96427885e37713a88d8e73/latest-sweden-keep-asylum-centers-secret)
-2. [AP via ABC News](http://abcnews.go.com/International/wireStory/latest-sweden-asylum-centers-secret-34786612)
+1. [AP via ABC News](http://abcnews.go.com/International/wireStory/latest-sweden-asylum-centers-secret-34786612)
+2. [AP](http://bigstory.ap.org/article/ebe3ccdeca96427885e37713a88d8e73/latest-sweden-keep-asylum-centers-secret)
 3. [BBC](http://www.bbc.com/news/world-europe-34657187)
 
 ### Related:

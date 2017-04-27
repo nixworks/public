@@ -7,8 +7,8 @@ Asif Ali Zardari, the widower of slain former Prime Minister Benazir Bhutto and 
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2008/09/07/world/asia/07zardari.html)
-2. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7601671.stm)
+1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7601671.stm)
+2. [The New York Times](http://www.nytimes.com/2008/09/07/world/asia/07zardari.html)
 
 ### Related:
 

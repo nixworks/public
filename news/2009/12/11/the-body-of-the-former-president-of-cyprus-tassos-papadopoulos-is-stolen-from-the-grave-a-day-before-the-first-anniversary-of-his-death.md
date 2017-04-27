@@ -7,9 +7,9 @@ Grave robbers have stolen the remains of Tassos Papadopoulos, the former preside
 
 ### Source:
 
-1. [Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/cyprus/6786588/Body-of-Greek-Cypriot-president-stolen-from-grave.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8407552.stm)
 2. [Cyprus News Agency](http://www.cna.org.cy/website/english/announcedisplay2.asp?id=1)
-3. [BBC](http://news.bbc.co.uk/2/hi/europe/8407552.stm)
+3. [Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/cyprus/6786588/Body-of-Greek-Cypriot-president-stolen-from-grave.html)
 
 ### Related:
 

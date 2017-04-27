@@ -7,12 +7,12 @@ Confrontation between protesters and riot police marks journey of train to stora
 
 ### Source:
 
-1. [Huffington Post](http://www.huffingtonpost.com/kumi-naidoo/largest-mobilization-ever_b_780010.html)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/11/2010117144126704738.html)
-3. [The Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_600336.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/11/2010117144126704738.html)
+2. [BBC](http://www.bbc.co.uk/news/11706115)
+3. [Huffington Post](http://www.huffingtonpost.com/kumi-naidoo/largest-mobilization-ever_b_780010.html)
 4. [The Hindu](http://www.thehindu.com/news/international/article872600.ece)
-5. [euronews](http://www.euronews.net/2010/11/07/nuclear-waste-train-in-germany-despite-protests/)
-6. [BBC](http://www.bbc.co.uk/news/11706115)
+5. [The Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_600336.html)
+6. [euronews](http://www.euronews.net/2010/11/07/nuclear-waste-train-in-germany-despite-protests/)
 
 ### Related:
 

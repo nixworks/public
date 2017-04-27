@@ -7,9 +7,9 @@ The UN Security Council votes to end seven months of international military acti
 
 ### Source:
 
-1. [Montreal Gazette](http://www.montrealgazette.com/news/world/ends+mandate+NATO+operations+Libya/5617603/story.html)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-15481143)
 2. [CNN](http://www.cnn.com/2011/10/27/world/africa/libya-nato-icc/index.html)
-3. [BBC](http://www.bbc.co.uk/news/world-africa-15481143)
+3. [Montreal Gazette](http://www.montrealgazette.com/news/world/ends+mandate+NATO+operations+Libya/5617603/story.html)
 
 ### Related:
 

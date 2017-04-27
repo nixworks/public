@@ -7,8 +7,8 @@ Gunmen have kidnapped a British man working for an energy company in the restive
 
 ### Source:
 
-1. [Miami Herald](http://www.miamiherald.com/2013/06/12/3446779/scottish-man-abducted-in-indonesias.html)
-2. [Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/indonesia/10114842/Gunmen-kidnap-British-energy-worker-in-Indonesia.html)
+1. [Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/indonesia/10114842/Gunmen-kidnap-British-energy-worker-in-Indonesia.html)
+2. [Miami Herald](http://www.miamiherald.com/2013/06/12/3446779/scottish-man-abducted-in-indonesias.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ A human rights group has found a sharp rise in the number of civilians killed in
 
 ### Source:
 
-1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4205871,00.html)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/03/2012321125998938.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/03/2012321125998938.html)
+2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4205871,00.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The New York Times](http://mobile.nytimes.com/2014/09/11/world/asia/philippine-bill-would-set-up-autonomous-region-in-muslim-dominated-south.html?referrer=)
-2. [Channel News Asia](http://www.channelnewsasia.com/mobile/asiapacific/philippine-president/1355414.html)
+1. [Channel News Asia](http://www.channelnewsasia.com/mobile/asiapacific/philippine-president/1355414.html)
+2. [The New York Times](http://mobile.nytimes.com/2014/09/11/world/asia/philippine-bill-would-set-up-autonomous-region-in-muslim-dominated-south.html?referrer=)
 
 ### Related:
 

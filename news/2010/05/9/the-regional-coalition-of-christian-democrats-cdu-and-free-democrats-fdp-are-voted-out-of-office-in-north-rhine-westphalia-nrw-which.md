@@ -7,10 +7,10 @@ Chancellor Angela Merkel&#039;s ruling coalition was seriously weakened last nig
 
 ### Source:
 
-1. [Financial Times](http://www.ft.com/cms/s/7a717746-5b60-11df-85a3-00144feab49a,Authorised=false.html?_i_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2F7a717746-5b60-11df-85a3-00144feab49a.html%3Fftcamp%3Drss&_i_referer=http%3A%2F%2Fnews.bbc.co.uk%2F2%2Fhi%2Feurope%2F8670554.stm&ftcamp=rss)
-2. [The Independent](http://www.independent.co.uk/news/world/europe/spectre-of-greek-payout-brings-humiliating-defeat-for-chancellor-merkels-coalition-1970006.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/europe/8670554.stm)
-4. [The Guardian](http://www.guardian.co.uk/business/2010/may/09/angela-merkel-german-regional-election)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8670554.stm)
+2. [Financial Times](http://www.ft.com/cms/s/7a717746-5b60-11df-85a3-00144feab49a,Authorised=false.html?_i_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2F7a717746-5b60-11df-85a3-00144feab49a.html%3Fftcamp%3Drss&_i_referer=http%3A%2F%2Fnews.bbc.co.uk%2F2%2Fhi%2Feurope%2F8670554.stm&ftcamp=rss)
+3. [The Guardian](http://www.guardian.co.uk/business/2010/may/09/angela-merkel-german-regional-election)
+4. [The Independent](http://www.independent.co.uk/news/world/europe/spectre-of-greek-payout-brings-humiliating-defeat-for-chancellor-merkels-coalition-1970006.html)
 
 ### Related:
 

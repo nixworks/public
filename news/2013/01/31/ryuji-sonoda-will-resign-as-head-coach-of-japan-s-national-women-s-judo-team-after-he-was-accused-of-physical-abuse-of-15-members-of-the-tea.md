@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Asahi Shimbun](http://ajw.asahi.com/article/sports/topics/AJ201301310099)
-2. [NHK](http://www3.nhk.or.jp/daily/english/20130131_30.html)
+1. [NHK](http://www3.nhk.or.jp/daily/english/20130131_30.html)
+2. [The Asahi Shimbun](http://ajw.asahi.com/article/sports/topics/AJ201301310099)
 
 ### Related:
 

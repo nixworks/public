@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2007/WORLD/asiapcf/03/06/indonesia.plane/index.html?section=cnn_latest)
-2. [ABC News Australia](http://www.abc.net.au/news/newsitems/200703/s1865535.htm)
+1. [ABC News Australia](http://www.abc.net.au/news/newsitems/200703/s1865535.htm)
+2. [CNN](http://edition.cnn.com/2007/WORLD/asiapcf/03/06/indonesia.plane/index.html?section=cnn_latest)
 3. [The Age](http://www.theage.com.au/news/national/plane-blaze-aussies-feared-dead/2007/03/07/1173166757413.html)
 
 ### Related:

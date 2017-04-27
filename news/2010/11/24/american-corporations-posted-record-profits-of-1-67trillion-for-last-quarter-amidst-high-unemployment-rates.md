@@ -7,5 +7,5 @@
 
 ### Source:
 
-1. [Democracy Now!](http://www.democracynow.org/2010/11/24/headlines)
-2. [CNN](http://money.cnn.com/2010/11/24/news/economy/thebuzz/)
+1. [CNN](http://money.cnn.com/2010/11/24/news/economy/thebuzz/)
+2. [Democracy Now!](http://www.democracynow.org/2010/11/24/headlines)

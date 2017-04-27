@@ -7,10 +7,10 @@ The vote showed the broad popularity of President Rafael Correaâ€™s governmentâ€
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2013/02/18/world/americas/rafael-correa-wins-re-election-in-ecuador.html)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-21492470)
 2. [IOL News](http://www.iol.co.za/news/world/charismatic-correa-cruises-to-victory-1.1472581)
-3. [BBC](http://www.bbc.co.uk/news/world-latin-america-21492470)
-4. [Reuters](http://www.reuters.com/article/2013/02/17/us-ecuador-election-idUSBRE91G01K20130217)
+3. [Reuters](http://www.reuters.com/article/2013/02/17/us-ecuador-election-idUSBRE91G01K20130217)
+4. [The New York Times](http://www.nytimes.com/2013/02/18/world/americas/rafael-correa-wins-re-election-in-ecuador.html)
 
 ### Related:
 

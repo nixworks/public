@@ -7,11 +7,11 @@ Sixteen people are killed when a coach carrying Russian tourists crashes off a b
 
 ### Source:
 
-1. [Hürriyet Daily News & Economic Review](http://www.hurriyetdailynews.com/n.php?n=visa-removal-to-boost-russian-visitor-numbers-2010-05-25)
-2. [Today's Zaman](http://www.todayszaman.com/tz-web/news-211202-101-15-die-25-injured-as-bus-carrying-russian-tourists-plunges-off-bridge.html)
-3. [CBS News](http://www.cbsnews.com/stories/2010/05/25/world/main6516654.shtml)
-4. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10151869.stm)
-5. [RIA Novosti](http://en.rian.ru/russia/20100525/159149311.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10151869.stm)
+2. [CBS News](http://www.cbsnews.com/stories/2010/05/25/world/main6516654.shtml)
+3. [Hürriyet Daily News & Economic Review](http://www.hurriyetdailynews.com/n.php?n=visa-removal-to-boost-russian-visitor-numbers-2010-05-25)
+4. [RIA Novosti](http://en.rian.ru/russia/20100525/159149311.html)
+5. [Today's Zaman](http://www.todayszaman.com/tz-web/news-211202-101-15-die-25-injured-as-bus-carrying-russian-tourists-plunges-off-bridge.html)
 
 ### Related:
 

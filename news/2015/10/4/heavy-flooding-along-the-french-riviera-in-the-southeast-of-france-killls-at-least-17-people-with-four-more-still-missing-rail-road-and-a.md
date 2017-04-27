@@ -8,8 +8,8 @@ Violent storms and flooding along the French Riviera have killed at least 17 peo
 ### Source:
 
 1. [AFP via Yahoo News](http://news.yahoo.com/12-dead-heavy-flooding-french-riviera-officials-021738690.html)
-2. [Sky News](http://news.sky.com/story/1563567/flash-floods-on-french-riviera-up-to-16-dead)
-3. [Euro News](http://www.euronews.com/2015/10/05/french-riviera-declared-disaster-zone-after-deadly-flash-floods/)
+2. [Euro News](http://www.euronews.com/2015/10/05/french-riviera-declared-disaster-zone-after-deadly-flash-floods/)
+3. [Sky News](http://news.sky.com/story/1563567/flash-floods-on-french-riviera-up-to-16-dead)
 
 ### Related:
 

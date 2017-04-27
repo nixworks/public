@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/europe/4230569.stm)
-2. [Athens News Agency](http://www.ana.gr/anaweb/user/showplain?maindoc=2560496&service=10)
+1. [Athens News Agency](http://www.ana.gr/anaweb/user/showplain?maindoc=2560496&service=10)
+2. [BBC](http://news.bbc.co.uk/2/hi/europe/4230569.stm)
 
 ### Related:
 

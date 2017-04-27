@@ -25,7 +25,7 @@ MP Naomi Long condemns those who put up the flag off Island Street, accusing the
 _Context: Martin Schulz, President of the European Parliament, Social Democratic Party of Germany_
 
 ### [The Council of Representatives of Iraq is due to meet for the first time since recent elections to try and counter the surge made by the Islamic State of Iraq and the Levant. However, the meeting is delayed due to a lack of quorum. ](/news/2014/07/1/the-council-of-representatives-of-iraq-is-due-to-meet-for-the-first-time-since-recent-elections-to-try-and-counter-the-surge-made-by-the-isl.md)
-_Context: Iraqi Parliament, Islamic State of Iraq and the Levant, elections_
+_Context: ISIL, Iraqi Parliament, elections_
 
 ### [The Cabinet of Japan lifts a ban on the Japan Self-Defense Forces fighting overseas. The move is aimed towards defending allied countries. ](/news/2014/07/1/the-cabinet-of-japan-lifts-a-ban-on-the-japan-self-defense-forces-fighting-overseas-the-move-is-aimed-towards-defending-allied-countries.md)
 Cabinet approves changes to pacifist constitution allowing Japan&#039;s military to fight overseas for the first time since WWII.

@@ -8,8 +8,8 @@ Dissident feared dead or held in secret by security forces says he is with famil
 ### Source:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iMThf6N_SL9oW2ediYR0DN57J0XgD9ENLPHG0)
-2. [BBC](http://news.bbc.co.uk/1/hi/in_depth/8591566.stm)
-3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/03/2010328181848451664.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/03/2010328181848451664.html)
+3. [BBC](http://news.bbc.co.uk/1/hi/in_depth/8591566.stm)
 
 ### Related:
 

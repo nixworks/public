@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/4722925.stm)
-2. [East African](http://www.nationmedia.com/eastafrican/current/News/Regional2507200514.htm)
-3. [AllAfrica](http://allafrica.com/stories/200507270884.html)
+1. [AllAfrica](http://allafrica.com/stories/200507270884.html)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/4722925.stm)
+3. [East African](http://www.nationmedia.com/eastafrican/current/News/Regional2507200514.htm)
 4. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/IRIN/aafc4b032395ef7fa4424dbc01a1f9b2.htm)
 
 ### Related:

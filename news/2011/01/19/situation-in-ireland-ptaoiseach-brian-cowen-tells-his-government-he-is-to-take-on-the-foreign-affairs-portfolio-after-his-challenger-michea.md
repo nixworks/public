@@ -7,9 +7,9 @@ Irish prime minister Brian Cowen has told the government he will be taking on th
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0119/breaking60.html)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-12225944)
-3. [RTÉ](http://www.rte.ie/news/2011/0119/harneym.html)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-12225944)
+2. [RTÉ](http://www.rte.ie/news/2011/0119/harneym.html)
+3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0119/breaking60.html)
 
 ### Related:
 

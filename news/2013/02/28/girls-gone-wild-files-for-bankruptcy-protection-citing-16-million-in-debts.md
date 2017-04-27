@@ -7,8 +7,8 @@ The company behind the &quot;Girls Gone Wild&quot; video series featuring scanti
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/arts-entertainment/films/news/soft-porn-company-girls-gone-wild-files-for-bankruptcy-over-16-million-debt-8516188.html)
-2. [Reuters](http://www.reuters.com/article/2013/03/01/entertainment-us-usa-girlsgonewild-idUSBRE92000J20130301)
+1. [Reuters](http://www.reuters.com/article/2013/03/01/entertainment-us-usa-girlsgonewild-idUSBRE92000J20130301)
+2. [The Independent](http://www.independent.co.uk/arts-entertainment/films/news/soft-porn-company-girls-gone-wild-files-for-bankruptcy-over-16-million-debt-8516188.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Congress proclaims Rodrigo Duterte as president-elect and Leni Robredo as vice p
 
 ### Source:
 
-1. [CNN Philippines](http://cnnphilippines.com/news/2016/05/30/congress-proclamation-president-rodrigo-duterte-vice-president-leni-robredo.html)
-2. [AP via ''The Olympian](http://www.theolympian.com/news/nation-world/article80743862.html)
+1. [AP via ''The Olympian](http://www.theolympian.com/news/nation-world/article80743862.html)
+2. [CNN Philippines](http://cnnphilippines.com/news/2016/05/30/congress-proclamation-president-rodrigo-duterte-vice-president-leni-robredo.html)
 
 ### Related:
 

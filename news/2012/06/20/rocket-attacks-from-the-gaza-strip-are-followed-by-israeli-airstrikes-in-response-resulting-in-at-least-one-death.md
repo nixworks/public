@@ -7,8 +7,8 @@ Fresh air raid leaves one Palestinian dead, after Hamas fighters fired 45 rocket
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/2012620114047378384.html)
-2. [AP via ''The Washington Post](http://www.washingtonpost.com/world/middle_east/rocket-attacks-from-gaza-draw-israeli-airstrike/2012/06/20/gJQAjMkLpV_story.html)
+1. [AP via ''The Washington Post](http://www.washingtonpost.com/world/middle_east/rocket-attacks-from-gaza-draw-israeli-airstrike/2012/06/20/gJQAjMkLpV_story.html)
+2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/2012620114047378384.html)
 
 ### Related:
 

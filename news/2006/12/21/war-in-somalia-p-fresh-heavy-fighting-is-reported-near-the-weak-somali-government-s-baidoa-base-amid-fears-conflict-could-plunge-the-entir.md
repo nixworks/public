@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/africa/6199239.stm)
-2. [Aljazeera](http://english.aljazeera.net/NR/exeres/4D68D416-D7E0-4830-9C93-FF759F17707C.htm)
+1. [Aljazeera](http://english.aljazeera.net/NR/exeres/4D68D416-D7E0-4830-9C93-FF759F17707C.htm)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/6199239.stm)
 
 ### Related:
 

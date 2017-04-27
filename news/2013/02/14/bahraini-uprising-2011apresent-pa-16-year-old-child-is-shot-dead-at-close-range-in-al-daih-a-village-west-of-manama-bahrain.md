@@ -7,9 +7,9 @@ Teenager and policeman killed during rallies to mark two years of anti-governmen
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21450053)
-2. [Gulf Daily News](http://www.gulf-daily-news.com/NewsDetails.aspx?storyid=347467)
-3. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/02/201321472234468101.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/02/201321472234468101.html)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-21450053)
+3. [Gulf Daily News](http://www.gulf-daily-news.com/NewsDetails.aspx?storyid=347467)
 
 ### Related:
 

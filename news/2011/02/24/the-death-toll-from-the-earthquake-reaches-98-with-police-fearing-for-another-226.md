@@ -8,8 +8,8 @@ The death toll from the Christchurch earthquake is now 98 with police holding gr
 ### Source:
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10708400)
-2. [Sydney Morning Herald](http://www.smh.com.au/world/quake-death-toll-now-98-with-200-more-missing-pm-20110224-1b5uz.html)
-3. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10708428)
+2. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10708428)
+3. [Sydney Morning Herald](http://www.smh.com.au/world/quake-death-toll-now-98-with-200-more-missing-pm-20110224-1b5uz.html)
 
 ### Related:
 

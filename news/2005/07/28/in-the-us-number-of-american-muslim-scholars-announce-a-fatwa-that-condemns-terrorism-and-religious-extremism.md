@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [U.S State Department](http://usinfo.state.gov/usinfo/Archive/2005/Jul/28-997738.html)
-2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N28360873.htm)
+1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N28360873.htm)
+2. [U.S State Department](http://usinfo.state.gov/usinfo/Archive/2005/Jul/28-997738.html)
 
 ### Related:
 

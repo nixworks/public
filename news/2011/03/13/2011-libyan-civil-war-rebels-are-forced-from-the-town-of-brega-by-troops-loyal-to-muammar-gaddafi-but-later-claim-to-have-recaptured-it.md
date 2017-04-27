@@ -7,11 +7,11 @@ Forces loyal to Libyan leader Muammar Gaddafi reportedly seize control of the ea
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-12726032)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/201131375850321229.html)
 2. [Al-Jazeera](http://blogs.aljazeera.net/live/africa/libya-live-blog-march-13)
-3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/201131375850321229.html)
-4. [Reuters](http://www.reuters.com/article/2011/03/13/us-yemen-idUSTRE72C0Y320110313?feedType=RSS&feedName=topNews&WT.tsrc=Social%20Media&WT.z_smid=twtr-reuters_TopNews&WT.z_smid_dest=Twitter)
-5. [Reuters](http://www.reuters.com/article/2011/03/13/us-bahrain-protest-financial-idUSTRE72C0R620110313)
+3. [BBC](http://www.bbc.co.uk/news/world-africa-12726032)
+4. [Reuters](http://www.reuters.com/article/2011/03/13/us-bahrain-protest-financial-idUSTRE72C0R620110313)
+5. [Reuters](http://www.reuters.com/article/2011/03/13/us-yemen-idUSTRE72C0Y320110313?feedType=RSS&feedName=topNews&WT.tsrc=Social%20Media&WT.z_smid=twtr-reuters_TopNews&WT.z_smid_dest=Twitter)
 
 ### Related:
 

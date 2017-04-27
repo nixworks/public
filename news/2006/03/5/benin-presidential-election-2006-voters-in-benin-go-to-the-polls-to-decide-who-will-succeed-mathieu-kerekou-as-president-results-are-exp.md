@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Scotsman](http://thescotsman.scotsman.com/international.cfm?id=336242006)
-2. [VOA](http://www.voanews.com/english/2006-03-05-voa22.cfm)
-3. [Reuters](http://za.today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2006-03-05T132302Z_01_ALL532525_RTRIDST_0_OZATP-BENIN-ELECTION-20060305.XML)
+1. [Reuters](http://za.today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2006-03-05T132302Z_01_ALL532525_RTRIDST_0_OZATP-BENIN-ELECTION-20060305.XML)
+2. [Scotsman](http://thescotsman.scotsman.com/international.cfm?id=336242006)
+3. [VOA](http://www.voanews.com/english/2006-03-05-voa22.cfm)
 
 ### Related:
 

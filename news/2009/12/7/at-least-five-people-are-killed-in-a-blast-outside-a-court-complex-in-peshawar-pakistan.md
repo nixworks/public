@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Hindustan Times](http://www.hindustantimes.com/5-killed-50-hurt-in-suicide-attack-outside-Peshawar-court/H1-Article1-483835.aspx)
-2. [Financial Times](http://www.ft.com/cms/s/0/0a150016-e311-11de-b965-00144feab49a.html)
+1. [Financial Times](http://www.ft.com/cms/s/0/0a150016-e311-11de-b965-00144feab49a.html)
+2. [Hindustan Times](http://www.hindustantimes.com/5-killed-50-hurt-in-suicide-attack-outside-Peshawar-court/H1-Article1-483835.aspx)
 
 ### Related:
 

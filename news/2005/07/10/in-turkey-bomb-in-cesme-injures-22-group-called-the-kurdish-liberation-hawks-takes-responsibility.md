@@ -7,13 +7,13 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-07-11T005006Z_01_N10291286_RTRIDST_0_INTERNATIONAL-TURKEY-BLAST-DC.XML)
-2. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/F44F9BF7-B18C-4668-BDFD-120D3D6519D0.htm)
+1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/F44F9BF7-B18C-4668-BDFD-120D3D6519D0.htm)
+2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-07-11T005006Z_01_N10291286_RTRIDST_0_INTERNATIONAL-TURKEY-BLAST-DC.XML)
 3. [Zaman Online](http://www.zaman.com/?bl=hotnews&alt=&trh=20050711&hn=21562)
 
 ### Related:
 
-1. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also 5 Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-5-peshmerga-fighters-are-killed-during-a-tu.md) _Context: Turkish_
+1. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also five Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey also claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-five-peshmerga-fighters-are-killed-during-a.md) _Context: Turkish_
 2. [The European Commission, based on the  Organization for Security and Co-operation in Europe report, calls on Turkey to launch an investigation into allegations of referendum voting irregularities. ](/news/2017/04/18/the-european-commission-based-on-the-organization-for-security-and-co-operation-in-europe-report-calls-on-turkey-to-launch-an-investigati.md) _Context: Turkish_
 3. [A police Sikorsky S-70 helicopter crashes in Tunceli Province, Turkey, killing 12 people. ](/news/2017/04/18/a-police-sikorsky-s-70-helicopter-crashes-in-tunceli-province-turkey-killing-12-people.md) _Context: Turkish_
 4. [Voters in Turkey go to the polls for a referendum that seeks to replace the country's parliamentary system with an executive presidency, thereby giving President Recep Tayyip Erdogan sweeping new powers. Erdogan's AK Party has claimed victory while the opposition CHP has said that it will challenge the result. ](/news/2017/04/16/voters-in-turkey-go-to-the-polls-for-a-referendum-that-seeks-to-replace-the-country-s-parliamentary-system-with-an-executive-presidency-the.md) _Context: Turkish_

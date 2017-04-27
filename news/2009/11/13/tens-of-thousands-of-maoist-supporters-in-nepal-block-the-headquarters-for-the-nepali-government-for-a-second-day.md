@@ -7,8 +7,8 @@ Maoist demonstrators blockade government offices in Kathmandu for second day.
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/11/2009111383741301332.html)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iR4gZZbN7vn2vV08Q5EcZW5Sa4zQD9BUHMUG1)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iR4gZZbN7vn2vV08Q5EcZW5Sa4zQD9BUHMUG1)
+2. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/11/2009111383741301332.html)
 
 ### Related:
 

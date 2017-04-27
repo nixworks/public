@@ -7,9 +7,9 @@ The massive disruption of flights into and out of Sydney has caused economic cha
 
 ### Source:
 
-1. [The Australian](http://www.theaustralian.news.com.au/story/0,25197,26113952-5006784,00.html)
-2. [The Canberra Times](http://www.canberratimes.com.au/news/local/news/general/dust-hail-and-deluge/1630629.aspx)
-3. [ABC News](http://www.abc.net.au/news/stories/2009/09/23/2694051.htm?section=australia)
+1. [ABC News](http://www.abc.net.au/news/stories/2009/09/23/2694051.htm?section=australia)
+2. [The Australian](http://www.theaustralian.news.com.au/story/0,25197,26113952-5006784,00.html)
+3. [The Canberra Times](http://www.canberratimes.com.au/news/local/news/general/dust-hail-and-deluge/1630629.aspx)
 
 ### Related:
 

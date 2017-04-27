@@ -7,8 +7,8 @@ At least two people killed in industrial town of Sohar as police clash with anti
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12590588)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/2011227112850852905.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/2011227112850852905.html)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12590588)
 
 ### Related:
 

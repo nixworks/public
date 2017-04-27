@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/china/2013-02/02/c_132147048.htm)
+1. [China Daily](http://usa.chinadaily.com.cn/china/2013-02/02/content_16196123.htm)
 2. [Global Times](http://www.globaltimes.cn/content/759742.shtml)
-3. [China Daily](http://usa.chinadaily.com.cn/china/2013-02/02/content_16196123.htm)
+3. [Xinhua](http://news.xinhuanet.com/english/china/2013-02/02/c_132147048.htm)
 
 ### Related:
 

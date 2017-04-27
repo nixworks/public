@@ -7,8 +7,8 @@ SALEM, North Carolina (Reuters) - A university in Greensboro, North Carolina, li
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/04/12/us-usa-school-lockdown-idUSBRE93B0NR20130412)
-2. [AP via CBS News](http://www.cbsnews.com/8301-201_162-57579306/nc-college-lifts-lockdown-after-report-of-armed-man/)
+1. [AP via CBS News](http://www.cbsnews.com/8301-201_162-57579306/nc-college-lifts-lockdown-after-report-of-armed-man/)
+2. [Reuters](http://www.reuters.com/article/2013/04/12/us-usa-school-lockdown-idUSBRE93B0NR20130412)
 
 ### Related:
 

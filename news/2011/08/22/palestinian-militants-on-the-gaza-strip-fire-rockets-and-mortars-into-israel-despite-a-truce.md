@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2011/08/22/us-palestinians-israel-truce-idUSTRE77L1EU20110822?feedType=RSS&feedName=topNews&dlvrit=59363)
-2. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5jVvD6SveNRseB1kz2CY_TW1bFtbw?docId=8e2941c6f4e74503b4508f7b935b8e24)
+1. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5jVvD6SveNRseB1kz2CY_TW1bFtbw?docId=8e2941c6f4e74503b4508f7b935b8e24)
+2. [Reuters](http://www.reuters.com/article/2011/08/22/us-palestinians-israel-truce-idUSTRE77L1EU20110822?feedType=RSS&feedName=topNews&dlvrit=59363)
 
 ### Related:
 

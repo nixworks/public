@@ -7,8 +7,8 @@ Greek rescuers searched for two French tourists missing after the evacuation of 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSL0643714720070406)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/6532235.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/6532235.stm)
+2. [Reuters](http://www.reuters.com/article/worldNews/idUSL0643714720070406)
 
 ### Related:
 

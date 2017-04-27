@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [IBN Live](http://ibnlive.in.com/news/haiti-prison-unrest-three-inmates-dead/133236-2.html?from=tn)
-2. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/10/2010101845722786994.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/10/2010101845722786994.html)
+2. [IBN Live](http://ibnlive.in.com/news/haiti-prison-unrest-three-inmates-dead/133236-2.html?from=tn)
 
 ### Related:
 

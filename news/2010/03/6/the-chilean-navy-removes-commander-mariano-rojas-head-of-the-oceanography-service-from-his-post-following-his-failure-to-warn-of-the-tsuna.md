@@ -7,10 +7,10 @@ The Chilean government announced that it removed Commander Mariano Rojas over th
 
 ### Source:
 
-1. [The Times](http://www.timesonline.co.uk/tol/news/world/us_and_americas/article7051999.ece)
+1. [RTÉ](http://www.rte.ie/news/2010/0306/chile.html)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/southamerica/chile/7380673/Chile-sacks-oceanography-chief-over-failure-to-issue-tsunami-warnings.html)
 3. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10630298)
-4. [RTÉ](http://www.rte.ie/news/2010/0306/chile.html)
+4. [The Times](http://www.timesonline.co.uk/tol/news/world/us_and_americas/article7051999.ece)
 
 ### Related:
 

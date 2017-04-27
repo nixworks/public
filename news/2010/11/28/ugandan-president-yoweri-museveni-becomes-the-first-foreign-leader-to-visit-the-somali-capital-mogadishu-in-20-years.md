@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Daily Nation](http://www.nation.co.ke/News/africa/Museveni%20in%20suprise%20visit%20to%20Mogadishu/-/1066/1062258/-/pcvcwiz/-/)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ipxj79bhmun-PY0NL--nVsQLmqSQ?docId=CNG.050a9c8c5fd91a430d7e435fcc325b90.941)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ipxj79bhmun-PY0NL--nVsQLmqSQ?docId=CNG.050a9c8c5fd91a430d7e435fcc325b90.941)
+2. [Daily Nation](http://www.nation.co.ke/News/africa/Museveni%20in%20suprise%20visit%20to%20Mogadishu/-/1066/1062258/-/pcvcwiz/-/)
 
 ### Related:
 

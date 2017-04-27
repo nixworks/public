@@ -7,10 +7,10 @@ Australian pop group Men at Work have been ordered to hand over five per cent of
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/music/2010/jul/06/men-at-work-down-under)
-2. [BBC](http://news.bbc.co.uk/2/hi/entertainment_and_arts/10518787.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/entertainment_and_arts/10518787.stm)
+2. [Sky News](http://news.sky.com/skynews/Home/Showbiz-News/Men-At-Work-Told-They-Will-Not-Have-To-Pay-Out-As-Much-Money-As-Feared-For-Plagiarising-Song/Article/201007115660187?lpos=Showbiz_News_News_Your_Way_Region_6&lid=NewsYourWay_ARTICLE_15660187_Men_At_Work_Told_T)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/australiaandthepacific/australia/7874200/Men-At-Work-ordered-to-hand-over-royalties-from-stolen-hit-Down-Under.html)
-4. [Sky News](http://news.sky.com/skynews/Home/Showbiz-News/Men-At-Work-Told-They-Will-Not-Have-To-Pay-Out-As-Much-Money-As-Feared-For-Plagiarising-Song/Article/201007115660187?lpos=Showbiz_News_News_Your_Way_Region_6&lid=NewsYourWay_ARTICLE_15660187_Men_At_Work_Told_T)
+4. [The Guardian](http://www.guardian.co.uk/music/2010/jul/06/men-at-work-down-under)
 
 ### Related:
 

@@ -7,9 +7,9 @@ New Zealand anti-whaling activist Peter Bethune has pleaded guilty to four charg
 
 ### Source:
 
-1. [The Jakarta Post](http://www.thejakartapost.com/news/2010/05/27/antiwhaling-activist-pleads-guilty-4-charges.html)
-2. [ABC](http://www.abc.net.au/news/stories/2010/05/27/2910900.htm?section=world)
-3. [Radio New Zealand](http://www.radionz.co.nz/news/stories/2010/05/27/124804c6ab9e)
+1. [ABC](http://www.abc.net.au/news/stories/2010/05/27/2910900.htm?section=world)
+2. [Radio New Zealand](http://www.radionz.co.nz/news/stories/2010/05/27/124804c6ab9e)
+3. [The Jakarta Post](http://www.thejakartapost.com/news/2010/05/27/antiwhaling-activist-pleads-guilty-4-charges.html)
 
 ### Related:
 

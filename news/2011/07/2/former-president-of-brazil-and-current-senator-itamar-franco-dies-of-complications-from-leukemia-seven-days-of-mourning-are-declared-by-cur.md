@@ -7,8 +7,8 @@ Former Brazilian President Itamar Franco died Saturday morning from complication
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2011/WORLD/americas/07/02/brazil.former.president/index.html?eref=edition_americas)
-2. [BBC](http://www.bbc.co.uk/news/world-latin-america-14004407)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-14004407)
+2. [CNN](http://edition.cnn.com/2011/WORLD/americas/07/02/brazil.former.president/index.html?eref=edition_americas)
 
 ### Related:
 

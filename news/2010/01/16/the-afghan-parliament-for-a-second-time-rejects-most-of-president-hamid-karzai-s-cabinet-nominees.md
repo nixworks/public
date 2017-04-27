@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Hindu](http://beta.thehindu.com/news/international/article81197.ece)
-2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/01/16/afghanistan.karzai.cabinet/)
+1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/01/16/afghanistan.karzai.cabinet/)
+2. [The Hindu](http://beta.thehindu.com/news/international/article81197.ece)
 
 ### Related:
 

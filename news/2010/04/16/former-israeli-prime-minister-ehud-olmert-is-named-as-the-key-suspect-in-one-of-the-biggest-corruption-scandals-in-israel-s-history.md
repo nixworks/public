@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Times](http://www.timesonline.co.uk/tol/news/world/middle_east/article7099077.ece)
-2. [Voice of America](http://www1.voanews.com/english/news/middle-east/Former-Israeli-PM-Implicated-in-Bribery-Scandal--91026449.html)
-3. [Ha'aretz](http://www.haaretz.com/hasen/spages/1163609.html)
+1. [Ha'aretz](http://www.haaretz.com/hasen/spages/1163609.html)
+2. [The Times](http://www.timesonline.co.uk/tol/news/world/middle_east/article7099077.ece)
+3. [Voice of America](http://www1.voanews.com/english/news/middle-east/Former-Israeli-PM-Implicated-in-Bribery-Scandal--91026449.html)
 
 ### Related:
 

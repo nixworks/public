@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Al-Jazeera](http://english.aljazeera.net/news/europe/2011/05/201152663829832350.html)
-2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5iIXgBSM07qiLdtug6Iu5Futq7Ygw?docId=2e534a18b17347b3a4d5dda8628d4f6c)
+1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5iIXgBSM07qiLdtug6Iu5Futq7Ygw?docId=2e534a18b17347b3a4d5dda8628d4f6c)
+2. [Al-Jazeera](http://english.aljazeera.net/news/europe/2011/05/201152663829832350.html)
 
 ### Related:
 

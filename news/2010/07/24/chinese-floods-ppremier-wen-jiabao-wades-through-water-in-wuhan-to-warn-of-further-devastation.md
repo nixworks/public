@@ -7,8 +7,8 @@ Large parts of south and central China, already been ravaged by floods, face eve
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10749892)
-2. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/07/201072435320990152.html)
+1. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/07/201072435320990152.html)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10749892)
 
 ### Related:
 

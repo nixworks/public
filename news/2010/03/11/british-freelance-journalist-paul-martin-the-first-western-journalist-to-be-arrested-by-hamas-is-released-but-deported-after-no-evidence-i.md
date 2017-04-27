@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Times](http://www.timesonline.co.uk/tol/news/world/middle_east/article7058987.ece)
-2. [CBC](http://www.cbc.ca/world/story/2010/03/11/uk-journalist-freed.html)
+1. [CBC](http://www.cbc.ca/world/story/2010/03/11/uk-journalist-freed.html)
+2. [The Times](http://www.timesonline.co.uk/tol/news/world/middle_east/article7058987.ece)
 
 ### Related:
 

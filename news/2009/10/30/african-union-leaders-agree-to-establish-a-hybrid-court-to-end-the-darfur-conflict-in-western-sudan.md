@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8333531.stm)
-2. [Sudan Tribune](http://www.sudantribune.com/spip.php?article32956)
-3. [Le Mali en ligne](http://www.afriquejet.com/news/africa-news/nigeria:-au-backs-%27hybrid-court%27-to-try-darfur-crimes-2009103037258.html)
+2. [Le Mali en ligne](http://www.afriquejet.com/news/africa-news/nigeria:-au-backs-%27hybrid-court%27-to-try-darfur-crimes-2009103037258.html)
+3. [Sudan Tribune](http://www.sudantribune.com/spip.php?article32956)
 
 ### Related:
 

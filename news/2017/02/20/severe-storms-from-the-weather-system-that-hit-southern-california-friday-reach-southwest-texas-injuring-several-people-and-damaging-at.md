@@ -7,8 +7,8 @@ A family of five hid under a mattress as tornado-like winds howled over their ho
 
 ### Source:
 
-1. [Weather Channel](https://weather.com/news/news/severe-weather-texas-impacts)
-2. [USA Today](http://www.usatoday.com/story/weather/2017/02/20/tornado-san-antonio-texas-storms/98149254/)
+1. [USA Today](http://www.usatoday.com/story/weather/2017/02/20/tornado-san-antonio-texas-storms/98149254/)
+2. [Weather Channel](https://weather.com/news/news/severe-weather-texas-impacts)
 
 ### Related:
 

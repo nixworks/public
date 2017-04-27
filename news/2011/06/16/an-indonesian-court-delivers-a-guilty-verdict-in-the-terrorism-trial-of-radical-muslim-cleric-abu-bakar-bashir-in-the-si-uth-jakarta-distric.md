@@ -7,9 +7,9 @@ Indonesian cleric Abu Bakar Bashir has been found guilty of inciting and organis
 
 ### Source:
 
-1. [Sydney Morning Herald](http://www.smh.com.au/world/terror-leader-abu-bakar-bashir-found-guilty-20110616-1g4yk.html)
-2. [ABC News Online](http://www.abc.net.au/news/stories/2011/06/16/3245363.htm?section=justin)
-3. [Jakarta Post](http://www.thejakartapost.com/news/2011/06/16/baasyir-supporters-stream-flock-court-hear-verdict.html)
+1. [ABC News Online](http://www.abc.net.au/news/stories/2011/06/16/3245363.htm?section=justin)
+2. [Jakarta Post](http://www.thejakartapost.com/news/2011/06/16/baasyir-supporters-stream-flock-court-hear-verdict.html)
+3. [Sydney Morning Herald](http://www.smh.com.au/world/terror-leader-abu-bakar-bashir-found-guilty-20110616-1g4yk.html)
 
 ### Related:
 

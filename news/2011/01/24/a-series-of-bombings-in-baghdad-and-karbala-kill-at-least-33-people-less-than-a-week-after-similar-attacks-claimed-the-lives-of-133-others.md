@@ -7,8 +7,8 @@ Two separate bomb attacks targeting Shia pilgrims in the Iraqi city of Karbala h
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2011/WORLD/meast/01/24/iraq.violence/index.html)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12264386)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12264386)
+2. [CNN](http://www.cnn.com/2011/WORLD/meast/01/24/iraq.violence/index.html)
 
 ### Related:
 

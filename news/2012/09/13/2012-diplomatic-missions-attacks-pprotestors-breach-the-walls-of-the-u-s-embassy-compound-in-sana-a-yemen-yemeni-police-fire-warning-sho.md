@@ -7,15 +7,15 @@ Protests against an anti-Islam film made in the US spread, as angry crowds gathe
 
 ### Source:
 
-1. [AP via (''Columbus Dispatch](http://www.dispatch.com/content/stories/national_world/2012/09/13/who-is-responsible-for-the-film.html)
-2. [CNN](http://www.cnn.com/2012/09/13/world/africa/libya-us-ambassador-killed/index.html?hpt=hp_t2)
+1. [AFP by Google](http://www.google.com/hostednews/afp/article/ALeqM5id7YYC1GLslCf7ZvMhqVz5S9b5wg?docId=CNG.fca805b1df739dff1339acedb5926c31.161)
+2. [AP via ''Detroit News](http://www.detroitnews.com/article/20120913/NATION/209130453/1361/Libya-says-attacks-a-2-part-militant-assault)
 3. [AP via ''Politico](http://www.politico.com/news/stories/0912/81158.html?hp=r5)
-4. [AFP by Google](http://www.google.com/hostednews/afp/article/ALeqM5id7YYC1GLslCf7ZvMhqVz5S9b5wg?docId=CNG.fca805b1df739dff1339acedb5926c31.161)
-5. [Reuters](http://www.reuters.com/article/2012/09/13/us-germany-usa-consulate-idUSBRE88C0KG20120913)
-6. [Wall Street Journal](http://online.wsj.com/article/SB10000872396390443884104577647691429314660.html)
-7. [BBC](http://www.bbc.co.uk/news/world-africa-19584734)
-8. [AP via ''Detroit News](http://www.detroitnews.com/article/20120913/NATION/209130453/1361/Libya-says-attacks-a-2-part-militant-assault)
-9. [Wall Street Journal](http://online.wsj.com/article/SB10000872396390443524904577649891086383820.html)
+4. [AP via (''Columbus Dispatch](http://www.dispatch.com/content/stories/national_world/2012/09/13/who-is-responsible-for-the-film.html)
+5. [BBC](http://www.bbc.co.uk/news/world-africa-19584734)
+6. [CNN](http://www.cnn.com/2012/09/13/world/africa/libya-us-ambassador-killed/index.html?hpt=hp_t2)
+7. [Reuters](http://www.reuters.com/article/2012/09/13/us-germany-usa-consulate-idUSBRE88C0KG20120913)
+8. [Wall Street Journal](http://online.wsj.com/article/SB10000872396390443524904577649891086383820.html)
+9. [Wall Street Journal](http://online.wsj.com/article/SB10000872396390443884104577647691429314660.html)
 10. [Youtube](https://www.youtube.com/watch?v=LoBwR9KEGUc)
 
 ### Related:

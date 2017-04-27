@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1189411455013&pagename=JPost%2FJPArticle%2FShowFull)
-2. [CNN](http://edition.cnn.com/2007/WORLD/europe/09/20/france.iran/index.html)
+1. [CNN](http://edition.cnn.com/2007/WORLD/europe/09/20/france.iran/index.html)
+2. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1189411455013&pagename=JPost%2FJPArticle%2FShowFull)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Police in northern Mexico find 10 decapitated bodies in the city of Torreon, bel
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-latin-america-18778011)
-2. [BBC](http://www.bbc.co.uk/news/world-latin-america-14095580)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-14095580)
+2. [BBC](http://www.bbc.co.uk/news/world-latin-america-18778011)
 
 ### Related:
 

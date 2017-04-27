@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/europe/04/22/northern.ireland.explosion/?hpt=T2)
-2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8638902.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8638902.stm)
+2. [CNN](http://edition.cnn.com/2010/WORLD/europe/04/22/northern.ireland.explosion/?hpt=T2)
 3. [People's Daily Online](http://english.people.com.cn/90001/90777/90853/6960810.html)
 4. [The Guardian](http://www.guardian.co.uk/uk/2010/apr/23/northernireland-uksecurity)
 

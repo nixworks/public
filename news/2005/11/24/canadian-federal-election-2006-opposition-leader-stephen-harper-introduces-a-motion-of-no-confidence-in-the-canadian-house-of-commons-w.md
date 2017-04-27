@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/canada/story/2005/11/24/ottawa-politics051124.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/4467536.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4467536.stm)
+2. [CBC](http://www.cbc.ca/canada/story/2005/11/24/ottawa-politics051124.html)
 
 ### Related:
 

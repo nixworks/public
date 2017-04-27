@@ -7,8 +7,8 @@ A fire destroyed on Saturday 82,000 snake specimens, considered the largest coll
 
 ### Source:
 
-1. [MercoPress](http://en.mercopress.com/2010/05/17/fire-destroys-the-world-s-major-collection-of-tropical-serpents)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8685921.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8685921.stm)
+2. [MercoPress](http://en.mercopress.com/2010/05/17/fire-destroys-the-world-s-major-collection-of-tropical-serpents)
 
 ### Related:
 

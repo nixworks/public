@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2015/06/05/world/nigeria-explosion/index.html?eref=edition)
-2. [AP](http://bigstory.ap.org/article/107487d354534eef97878c3f8b063a70/official-31-killed-38-injured-bomb-northeast-nigeria)
+1. [AP](http://bigstory.ap.org/article/107487d354534eef97878c3f8b063a70/official-31-killed-38-injured-bomb-northeast-nigeria)
+2. [CNN](http://edition.cnn.com/2015/06/05/world/nigeria-explosion/index.html?eref=edition)
 
 ### Related:
 

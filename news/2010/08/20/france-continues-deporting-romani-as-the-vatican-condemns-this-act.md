@@ -7,9 +7,9 @@ France was preparing to repatriate nearly another 140 Roma, a day after almost 1
 
 ### Source:
 
-1. [News24](http://www.news24.com/World/News/Vatican-slams-France-over-Roma-20100820)
-2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/france/7955651/France-to-repatriate-140-more-Roma.html)
-3. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/2010820104949237253.html)
+1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/2010820104949237253.html)
+2. [News24](http://www.news24.com/World/News/Vatican-slams-France-over-Roma-20100820)
+3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/france/7955651/France-to-repatriate-140-more-Roma.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [AP via NBC News-update](http://www.nbcnews.com/news/world/muammar-gaddafis-son-kidnapped-released-lebanon-n478821)
-2. [AP via ABC News](http://abcnews.go.com/International/wireStory/son-late-libyan-leader-gadhafi-kidnapped-lebanon-35721493)
+1. [AP via ABC News](http://abcnews.go.com/International/wireStory/son-late-libyan-leader-gadhafi-kidnapped-lebanon-35721493)
+2. [AP via NBC News-update](http://www.nbcnews.com/news/world/muammar-gaddafis-son-kidnapped-released-lebanon-n478821)
 3. [Epoch Times](http://www.theepochtimes.com/n3/1917587-muammar-gaddafis-son-hannibal-kidnapped-in-lebanon-reports/)
 
 ### Related:

@@ -8,10 +8,10 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4271011.stm)
-2. [VOA News](http://www.voanews.com/english/2005-02-16voa110.cfm)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7651210)
-4. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-4804808,00.html)
-5. [Reuters](http://olympics.reuters.com/newsArticle.jhtml?type=topNews&storyID=7649393)
+2. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-4804808,00.html)
+3. [Reuters](http://olympics.reuters.com/newsArticle.jhtml?type=topNews&storyID=7649393)
+4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7651210)
+5. [VOA News](http://www.voanews.com/english/2005-02-16voa110.cfm)
 
 ### Related:
 
@@ -24,4 +24,4 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 7. [ According to some reports, Ariel Sharon, the Prime Minister of Israel, put the Israeli Defense Force on high alert for possible airstrikes against Iranian nuclear facilities. Sharon's office, however, denied this or that they had any plans to do so. ](/news/2005/12/11/according-to-some-reports-ariel-sharon-the-prime-minister-of-israel-put-the-israeli-defense-force-on-high-alert-for-possible-airstrikes.md) _Context: Iran, nuclear power plants_
 8. [ Russia agrees to sell fuel to Iran for development of a nuclear reactor, stating that tough safeguards will be enacted to prevent any diversion to a nuclear weapons programme. ](/news/2005/02/27/russia-agrees-to-sell-fuel-to-iran-for-development-of-a-nuclear-reactor-stating-that-tough-safeguards-will-be-enacted-to-prevent-any-diver.md) _Context: Iran, nuclear reactor_
 9. [A 6.1 magnitude earthquake struck northeast Iran near the city of Mashhad, kills 1 person and at that least four were injured. ](/news/2017/04/5/a-6-1-magnitude-earthquake-struck-northeast-iran-near-the-city-of-mashhad-kills-1-person-and-at-that-least-four-were-injured.md) _Context: Iran_
-10. [Arms trader Jacques Monsieur is to defend himself again at a Brussels court against accusations of arms trafficking to Libya, Chad, Guinea-Bissau, Pakistan and Iran between 2006 and 2009. ](/news/2017/04/21/arms-trader-jacques-monsieur-is-to-defend-himself-again-at-a-brussels-court-against-accusations-of-arms-trafficking-to-libya-chad-guinea-b.md) _Context: Iran_
+10. [At least ten Iranian border guards are killed in an ambush in the southeastern Sistan and Baluchestan Province on the border with Pakistan. Sunni militant group Jaish ul-Adl claims responsibility. ](/news/2017/04/26/at-least-ten-iranian-border-guards-are-killed-in-an-ambush-in-the-southeastern-sistan-and-baluchestan-province-on-the-border-with-pakistan.md) _Context: Iran_

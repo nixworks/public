@@ -8,8 +8,8 @@ Archaeologists said a bone flute and two fragments of ivory flutes discovered la
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8117915.stm)
-2. [The New York Times](http://www.nytimes.com/2009/06/25/science/25flute.html?_r=1&partner=rss&emc=rss)
-3. [National Geographic](http://news.nationalgeographic.com/news/2009/06/090624-bone-flute-oldest-instrument.html)
+2. [National Geographic](http://news.nationalgeographic.com/news/2009/06/090624-bone-flute-oldest-instrument.html)
+3. [The New York Times](http://www.nytimes.com/2009/06/25/science/25flute.html?_r=1&partner=rss&emc=rss)
 
 ### Related:
 

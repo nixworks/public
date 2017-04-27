@@ -4,7 +4,7 @@
 By Seyhmus Cakan DIYARBAKIR, Turkey (Reuters) - Turkish military helicopters killed 12 Kurdish militants in strikes near the southeastern border with Syria on Wednesday, security sources said, in a conflict becoming increasingly intertwined with developments in Turkey&#x27;s war-torn neighbor. The Cobra
 
 ### [Senior Libyan military officials say French special forces are on the ground in Benghazi helping Libyan National Army troops fight ISIL militants. They said that the French forces, along with American and British teams, are setting up an operations room inside Benina International Airport in Benina. The French defense ministry declined to comment, citing a policy not to comment on special forces' activities. ](/news/2016/02/24/senior-libyan-military-officials-say-french-special-forces-are-on-the-ground-in-benghazi-helping-libyan-national-army-troops-fight-isil-mili.md)
-_Context: Benghazi, Benina, Benina International Airport, British, France, French defense ministry, Islamic State of Iraq and the Levant, Libya, Libyan Civil War (2014–present), Libyan National Army, U.S. special forces, special forces_
+_Context: Benghazi, Benina, Benina International Airport, British, France, French defense ministry, ISIL, Libya, Libyan Civil War (2014–present), Libyan National Army, U.S. special forces, special forces_
 
 ### [Gunmen attack a Malian military checkpoint in the town of Lere, near the Mauritanian border with Mali, killing at least three soldiers and wounding two others. ](/news/2016/02/24/gunmen-attack-a-malian-military-checkpoint-in-the-town-of-la-c-ra-c-near-the-mauritanian-border-with-mali-killing-at-least-three-soldiers-and.md)
 Gunmen attacked a checkpoint southwest of the Malian town of Timbuktu overnight killing three soldiers and wounding two others, a soldier in the town said on Wednesday.
@@ -13,7 +13,7 @@ Gunmen attacked a checkpoint southwest of the Malian town of Timbuktu overnight 
 The UAE is a key partner in the Saudi-led coalition which has been bombing Houthi positions in Yemen since March last year
 
 ### [Two months after Egypt's Civil Aviation Ministry ruled out terrorism in Flight 9268's crash, President Abdel Fattah el-Sisi admits an ISIS bomb downed the Russian passenger jet. The terrorist group's Sinai Peninsula Branch claimed responsibility  shortly after the incident. ](/news/2016/02/24/two-months-after-egypt-s-civil-aviation-ministry-ruled-out-terrorism-in-flight-9268-s-crash-president-abdel-fattah-el-sisi-admits-an-isis-b.md)
-_Context: Abdel Fattah el-Sisi, Civil Aviation Ministry, Egypt, Egyptian President, Flight 9268, ISIL's Sinai branch, Islamic State of Iraq and the Levant, Russia, terrorism_
+_Context: Abdel Fattah el-Sisi, Civil Aviation Ministry, Egypt, Egyptian President, Flight 9268, ISIL, ISIL's Sinai branch, Russia, terrorism_
 
 ### [The 2016 Brit Awards are held at The O2 in London with James Bay, Adele, Tame Impala, Justin Bieber, Bjork, and Coldplay all winning their respective categories. Adele won four awards in total. ](/news/2016/02/24/the-2016-brit-awards-are-held-at-the-o2-in-london-with-james-bay-adele-tame-impala-justin-bieber-bjork-and-coldplay-all-winning-their-r.md)
 Catch up on all the action from this year’s Brit awards, at the O2 Arena in London

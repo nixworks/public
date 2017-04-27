@@ -7,9 +7,9 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8872790)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4123850.stm)
 2. [Nation Online, Malawai (about proposed impeachment](http://www.nationmalawi.com/articles.asp?articleID=11017)
-3. [BBC](http://news.bbc.co.uk/2/hi/africa/4123850.stm)
+3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8872790)
 
 ### Related:
 

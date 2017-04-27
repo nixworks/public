@@ -8,8 +8,8 @@ Resident of Libyan city calls for help, saying hospitals are overwhelmed by numb
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/video/africa/2011/02/201121917030797417.html)
-2. [Sky News](http://news.sky.com/skynews/Home/World-News/Libya-Gaddafi-Protest-Deaths-Exiled-Libyans-Claim-Up-To-120-Killed-In-Three-Days/Article/201102315936808?lpos=World_News_Top_Stories_Header_1&lid=ARTICLE_15936808_Libya_Gaddafi_Protest_Deaths:_Exiled_Libyans_Claim_Up_To_120_Killed_In_Three_Days)
-3. [Human Rights Watch](http://www.hrw.org/node/96622)
+2. [Human Rights Watch](http://www.hrw.org/node/96622)
+3. [Sky News](http://news.sky.com/skynews/Home/World-News/Libya-Gaddafi-Protest-Deaths-Exiled-Libyans-Claim-Up-To-120-Killed-In-Three-Days/Article/201102315936808?lpos=World_News_Top_Stories_Header_1&lid=ARTICLE_15936808_Libya_Gaddafi_Protest_Deaths:_Exiled_Libyans_Claim_Up_To_120_Killed_In_Three_Days)
 
 ### Related:
 

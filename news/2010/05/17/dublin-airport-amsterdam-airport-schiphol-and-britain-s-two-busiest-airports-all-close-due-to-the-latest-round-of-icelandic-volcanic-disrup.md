@@ -7,9 +7,9 @@ The Irish Aviation Authority has said Dublin Airport will remain closed until at
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2010/0516/travel.html)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/05/201051623287545889.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8685913.stm)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/05/201051623287545889.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8685913.stm)
+3. [RTÉ](http://www.rte.ie/news/2010/0516/travel.html)
 
 ### Related:
 

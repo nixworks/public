@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [PhysOrg](http://www.physorg.com/news69155101.html)
-2. [Aftenposten](http://www.aftenposten.no/english/local/article1346411.ece)
+1. [Aftenposten](http://www.aftenposten.no/english/local/article1346411.ece)
+2. [PhysOrg](http://www.physorg.com/news69155101.html)
 
 ### Related:
 

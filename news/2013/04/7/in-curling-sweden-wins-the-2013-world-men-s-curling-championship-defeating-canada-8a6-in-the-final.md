@@ -7,8 +7,8 @@ Niklas Edin came up with the double take-out in the 10th end to run Canada out o
 
 ### Source:
 
-1. [Curling.ca](http://www.curling.ca/blog/2013/04/07/sweden-wins-gold-at-2013-ford-worlds/)
-2. [CBS](http://www.cbc.ca/sports/curling/story/2013/04/07/sp-cur-worlds-sweden.html)
+1. [CBS](http://www.cbc.ca/sports/curling/story/2013/04/07/sp-cur-worlds-sweden.html)
+2. [Curling.ca](http://www.curling.ca/blog/2013/04/07/sweden-wins-gold-at-2013-ford-worlds/)
 
 ### Related:
 

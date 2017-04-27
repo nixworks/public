@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [News24](http://www.alertnet.org/thenews/newsdesk/L15707620.htm)
-2. [Amnesty International](http://news.amnesty.org/index/ENGAFR460042005)
+1. [Amnesty International](http://news.amnesty.org/index/ENGAFR460042005)
+2. [News24](http://www.alertnet.org/thenews/newsdesk/L15707620.htm)
 
 ### Related:
 

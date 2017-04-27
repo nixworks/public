@@ -7,8 +7,8 @@ HONG KONG - Actor Jackie Chan&#039;s son Jaycee Chan and Taiwanese actor Kai Ko 
 
 ### Source:
 
-1. [The Straits Times](http://www.straitstimes.com/lifestyle/movies/story/jackie-chans-son-jaycee-and-taiwan-star-kai-ko-arrested-beijing-over-drugs-re)
-2. [New York Times](http://sinosphere.blogs.nytimes.com/2014/08/18/son-of-jackie-chan-arrested-on-drug-related-charges-chinese-media-report/?_php=true&_type=blogs&_r=0)
+1. [New York Times](http://sinosphere.blogs.nytimes.com/2014/08/18/son-of-jackie-chan-arrested-on-drug-related-charges-chinese-media-report/?_php=true&_type=blogs&_r=0)
+2. [The Straits Times](http://www.straitstimes.com/lifestyle/movies/story/jackie-chans-son-jaycee-and-taiwan-star-kai-ko-arrested-beijing-over-drugs-re)
 
 ### Related:
 

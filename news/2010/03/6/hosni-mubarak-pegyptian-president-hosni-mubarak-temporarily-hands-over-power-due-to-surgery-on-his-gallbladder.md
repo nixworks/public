@@ -7,9 +7,9 @@ Hosni Mubarak had temporarily handed over power to PM before his gallbladder ope
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/03/05/AR2010030503660.html)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i2cChAAsyUj9-onq_qwZq2Krhjsg)
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/03/20103611115174357.html)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i2cChAAsyUj9-onq_qwZq2Krhjsg)
+3. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/03/05/AR2010030503660.html)
 
 ### Related:
 

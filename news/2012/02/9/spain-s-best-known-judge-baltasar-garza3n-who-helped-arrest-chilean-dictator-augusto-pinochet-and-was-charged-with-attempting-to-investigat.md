@@ -8,8 +8,8 @@ Judge found guilty of ordering illegal recordings in corruption case and suspend
 ### Source:
 
 1. [Aljazeera](http://www.aljazeera.com/news/europe/2012/02/20122913177208508.html)
-2. [The Guardian](http://www.guardian.co.uk/world/2012/feb/09/baltasar-garzon-guilty-wiretapping-spain)
-3. [BBC](http://www.bbc.co.uk/news/world-16965790)
+2. [BBC](http://www.bbc.co.uk/news/world-16965790)
+3. [The Guardian](http://www.guardian.co.uk/world/2012/feb/09/baltasar-garzon-guilty-wiretapping-spain)
 
 ### Related:
 

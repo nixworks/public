@@ -7,8 +7,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1712766,00.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/4590307.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4590307.stm)
+2. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1712766,00.html)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8633480)
 
 ### Related:

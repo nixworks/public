@@ -7,8 +7,8 @@ A UK town associated with the railways and the motor car will now be officially 
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/uk/this-britain/swindon-twinned-with-disney-world-1835889.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/england/wiltshire/8399996.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/england/wiltshire/8399996.stm)
+2. [The Independent](http://www.independent.co.uk/news/uk/this-britain/swindon-twinned-with-disney-world-1835889.html)
 
 ### Related:
 

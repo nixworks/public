@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-yahoo-m-a-verizon-idUSKCN1040U9)
-2. [Los Angeles Times](http://www.latimes.com/business/la-fi-verizon-yahoo-20160724-snap-story.html)
+1. [Los Angeles Times](http://www.latimes.com/business/la-fi-verizon-yahoo-20160724-snap-story.html)
+2. [Reuters](http://www.reuters.com/article/us-yahoo-m-a-verizon-idUSKCN1040U9)
 
 ### Related:
 

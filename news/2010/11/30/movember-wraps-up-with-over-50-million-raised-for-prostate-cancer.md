@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Movember](http://ca.movember.com/momoney/)
-2. [Leader-Post](http://www.leaderpost.com/health/Month+moustache+hair+raising+success/3907961/story.html)
+1. [Leader-Post](http://www.leaderpost.com/health/Month+moustache+hair+raising+success/3907961/story.html)
+2. [Movember](http://ca.movember.com/momoney/)
 
 ### Related:
 

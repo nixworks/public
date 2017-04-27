@@ -7,8 +7,8 @@ The estimated 2 to 3,000 protesters camped out in Cannon Ball, North Dakota, to 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-north-dakota-pipeline-idUSKBN13N2EU)
-2. [NBC News](http://www.nbcnews.com/storyline/dakota-pipeline-protests/north-dakota-governor-orders-pipeline-protesters-leave-citing-winter-weather-n689366)
+1. [NBC News](http://www.nbcnews.com/storyline/dakota-pipeline-protests/north-dakota-governor-orders-pipeline-protesters-leave-citing-winter-weather-n689366)
+2. [Reuters](http://www.reuters.com/article/us-north-dakota-pipeline-idUSKBN13N2EU)
 
 ### Related:
 

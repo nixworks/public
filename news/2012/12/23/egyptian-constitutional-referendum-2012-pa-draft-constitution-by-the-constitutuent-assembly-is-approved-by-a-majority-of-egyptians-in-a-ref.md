@@ -7,11 +7,11 @@ Egyptians appear to have voted in favour of a deeply divisive new constitution, 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20832242)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-20829911)
-3. [AP](http://hosted2.ap.org/APDefault/*/Article_2012-12-23-Egypt/id-15f444327e42423f85773a413d93802e)
-4. [Reuters](http://www.reuters.com/article/2012/12/23/us-egypt-politics-idUSBRE8BL03X20121223)
-5. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/12/20121222235450446212.html)
+1. [AP](http://hosted2.ap.org/APDefault/*/Article_2012-12-23-Egypt/id-15f444327e42423f85773a413d93802e)
+2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/12/20121222235450446212.html)
+3. [BBC](http://www.bbc.co.uk/news/world-middle-east-20829911)
+4. [BBC](http://www.bbc.co.uk/news/world-middle-east-20832242)
+5. [Reuters](http://www.reuters.com/article/2012/12/23/us-egypt-politics-idUSBRE8BL03X20121223)
 
 ### Related:
 

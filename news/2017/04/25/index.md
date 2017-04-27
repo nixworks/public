@@ -30,8 +30,8 @@ One of Africas longest-surviving rebel groups, the LRA has terrorised parts of c
 ### [An affiliate of the NRA sues California for alleged discrimination. ](/news/2017/04/25/an-affiliate-of-the-nra-sues-california-for-alleged-discrimination.md)
 The national gun lobbying group on Monday filed a lawsuit aimed at overturning a sweeping set of bills signed into law last year by California Gov. Jerry Brown.
 
-### [California courts invalidate the executive order withholding federal funds from sanctuary cities. ](/news/2017/04/25/california-courts-invalidate-the-executive-order-withholding-federal-funds-from-sanctuary-cities.md)
-_Context: California, Immigration policy of Donald Trump, executive order, sanctuary cities_
+### [U.S. District Court Judge William Orrick rules that President Donald Trump's executive order withholding federal funds from sanctuary cities is unconstitutional. ](/news/2017/04/25/u-s-district-court-judge-william-orrick-rules-that-president-donald-trump-s-executive-order-withholding-federal-funds-from-sanctuary-cities.md)
+_Context: Donald Trump, Immigration policy of Donald Trump, William Orrick, executive order, sanctuary cities_
 
 ## [Previous Day...](/news/2017/04/24/index.md)
 

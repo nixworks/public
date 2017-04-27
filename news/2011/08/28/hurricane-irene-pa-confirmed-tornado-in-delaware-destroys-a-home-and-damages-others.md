@@ -7,10 +7,10 @@ President Obama issued a state of emergency for Maryland on Saturday as the stat
 
 ### Source:
 
-1. [AFP via ''Sydney Morning Herald](http://www.smh.com.au/world/nine-dead-as-ny-cops-irenes-fury-20110828-1jg8c.html)
-2. [International Business Times](http://www.ibtimes.com/articles/204894/20110827/hurricane-irene-maryland-ocean-city-baltimore.htm)
-3. [ABC News](http://abcnews.go.com/US/hurricane-irene-tornadoes-watches-virginia-delaware-maryland-jersey/story?id=14395257)
-4. [CNN](http://edition.cnn.com/2011/US/08/28/irene.vermont/index.html)
+1. [ABC News](http://abcnews.go.com/US/hurricane-irene-tornadoes-watches-virginia-delaware-maryland-jersey/story?id=14395257)
+2. [AFP via ''Sydney Morning Herald](http://www.smh.com.au/world/nine-dead-as-ny-cops-irenes-fury-20110828-1jg8c.html)
+3. [CNN](http://edition.cnn.com/2011/US/08/28/irene.vermont/index.html)
+4. [International Business Times](http://www.ibtimes.com/articles/204894/20110827/hurricane-irene-maryland-ocean-city-baltimore.htm)
 
 ### Related:
 

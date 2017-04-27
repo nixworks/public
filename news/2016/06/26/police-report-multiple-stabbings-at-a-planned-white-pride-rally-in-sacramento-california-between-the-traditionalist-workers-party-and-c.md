@@ -7,8 +7,8 @@ Gathering of many West Coast white supremacist groups in Sacramento took sudden 
 
 ### Source:
 
-1. [CBS News](http://www.cbsnews.com/news/mass-casualty-stabbings-nazi-rally-sacramento-california/)
-2. [ABC News](http://abcnews.go.com/US/rally-turns-violent-sacramento-police-stabbed/story?id=40146465)
+1. [ABC News](http://abcnews.go.com/US/rally-turns-violent-sacramento-police-stabbed/story?id=40146465)
+2. [CBS News](http://www.cbsnews.com/news/mass-casualty-stabbings-nazi-rally-sacramento-california/)
 
 ### Related:
 

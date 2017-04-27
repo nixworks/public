@@ -70,7 +70,7 @@ Folks, our live coverage of state elections in Uttar Pradesh, Uttarakhand, Punja
 The head of the Pakistani Taliban has removed his deputy commander, the militant group confirms to the BBC, the latest sign of a growing power struggle.
 
 ### [The United States Congress votes to restore higher tariffs against the People's Republic of China and other nations that allegedly subsidize exports to the United States. ](/news/2012/03/6/the-united-states-congress-votes-to-restore-higher-tariffs-against-the-people-s-republic-of-china-and-other-nations-that-allegedly-subsidize.md)
-_Context: China's, U.S., U.S. Congress, import tariffs_
+_Context: China's, U.S. Congress, United States, import tariffs_
 
 ### [The Parliament of New South Wales officially appoints Bob Carr as a member of the Australian Senate filling a casual vacancy left by the resignation of Mark Arbib. ](/news/2012/03/6/the-parliament-of-new-south-wales-officially-appoints-bob-carr-as-a-member-of-the-australian-senate-filling-a-casual-vacancy-left-by-the-res.md)
 Despite earlier heckling from a protester, Bob Carr is officially endorsed by the NSW Parliament to fill the Senate vacancy left by Mark Arbib.

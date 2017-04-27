@@ -7,8 +7,8 @@ Several hundred Arabs, Asians and Africans tired of waiting for buses broke thro
 
 ### Source:
 
-1. [AP via Global News](http://globalnews.ca/news/2206924/migrants-break-through-hungary-police-lines-near-serb-border/)
-2. [AP via ABC News](http://abcnews.go.com/International/wireStory/latest-germany-budgets-66-billion-support-migrants-33578643)
+1. [AP via ABC News](http://abcnews.go.com/International/wireStory/latest-germany-budgets-66-billion-support-migrants-33578643)
+2. [AP via Global News](http://globalnews.ca/news/2206924/migrants-break-through-hungary-police-lines-near-serb-border/)
 
 ### Related:
 

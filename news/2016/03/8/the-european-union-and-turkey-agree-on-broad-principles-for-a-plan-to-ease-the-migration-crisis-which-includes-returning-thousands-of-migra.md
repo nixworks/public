@@ -7,11 +7,11 @@ The EU and Turkey agree principles of a deal on the migrant crisis that includes
 
 ### Source:
 
-1. [Voice of America](http://www.voanews.com/content/european-union-turkey-agree-details-migrant-accord/3224260.html)
+1. [BBC](http://www.bbc.com/news/world-europe-35749837)
 2. [Los Angeles Times](http://www.latimes.com/world/europe/la-fg-europe-turkey-migrants-20160309-story.html)
-3. [BBC](http://www.bbc.com/news/world-europe-35749837)
-4. [March 17-18, 2016, EU agenda](http://www.consilium.europa.eu/en/meetings/european-council/2016/03/17-18/)
-5. [Reuters](http://www.reuters.com/article/us-europe-migrants-idUSKCN0WA1D4)
+3. [March 17-18, 2016, EU agenda](http://www.consilium.europa.eu/en/meetings/european-council/2016/03/17-18/)
+4. [Reuters](http://www.reuters.com/article/us-europe-migrants-idUSKCN0WA1D4)
+5. [Voice of America](http://www.voanews.com/content/european-union-turkey-agree-details-migrant-accord/3224260.html)
 
 ### Related:
 

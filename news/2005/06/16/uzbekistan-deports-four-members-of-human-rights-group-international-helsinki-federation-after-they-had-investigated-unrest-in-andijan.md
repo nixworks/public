@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/HRW/5822632af4c4c448ca8c838ca533a34d.htm)
-2. [Mosnews](http://www.mosnews.com/news/2005/06/16/hrgroupuzbekistan.shtml)
+1. [Mosnews](http://www.mosnews.com/news/2005/06/16/hrgroupuzbekistan.shtml)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/HRW/5822632af4c4c448ca8c838ca533a34d.htm)
 
 ### Related:
 

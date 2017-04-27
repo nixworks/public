@@ -7,12 +7,12 @@ French police arrested 11 people suspected of having links to Al Qaeda in a pre-
 
 ### Source:
 
-1. [Alertnet](http://www.alertnet.org/thenews/newsdesk/IBO446911.htm)
-2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/02/13/AR2007021301199.html)
+1. [AP via International Herald Tribune](http://www.iht.com/articles/ap/2007/02/14/africa/ME-GEN-Iraq-Helicopter-Down.php)
+2. [Alertnet](http://www.alertnet.org/thenews/newsdesk/IBO446911.htm)
 3. [BBC](http://news.bbc.co.uk/1/hi/world/americas/6354667.stm)
-4. [AP via International Herald Tribune](http://www.iht.com/articles/ap/2007/02/14/africa/ME-GEN-Iraq-Helicopter-Down.php)
-5. [BBC](http://news.bbc.co.uk/1/hi/world/americas/6360469.stm)
-6. [Fox](http://www.foxnews.com/story/0,2933,251859,00.html)
+4. [BBC](http://news.bbc.co.uk/1/hi/world/americas/6360469.stm)
+5. [Fox](http://www.foxnews.com/story/0,2933,251859,00.html)
+6. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/02/13/AR2007021301199.html)
 
 ### Related:
 

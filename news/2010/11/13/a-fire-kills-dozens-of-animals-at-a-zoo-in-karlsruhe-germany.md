@@ -7,8 +7,8 @@ A fire at a zoo in the German city of Karlsruhe leaves 26 animals dead, includin
 
 ### Source:
 
-1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,6227080,00.html)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-11751065)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-11751065)
+2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,6227080,00.html)
 
 ### Related:
 

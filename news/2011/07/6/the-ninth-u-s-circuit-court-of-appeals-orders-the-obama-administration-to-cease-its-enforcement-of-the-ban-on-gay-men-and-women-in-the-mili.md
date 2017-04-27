@@ -7,8 +7,8 @@ A US appeals court orders an immediate end to a ban on gay men and women serving
 
 ### Source:
 
-1. [Daily Mail](http://www.dailymail.co.uk/news/article-2011984/Dont-ask-dont-tell-stopped-immediately-rule-appeal-judges.html)
-2. [BBC](http://www.bbc.co.uk/news/world-us-canada-14056365)
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-14056365)
+2. [Daily Mail](http://www.dailymail.co.uk/news/article-2011984/Dont-ask-dont-tell-stopped-immediately-rule-appeal-judges.html)
 
 ### Related:
 

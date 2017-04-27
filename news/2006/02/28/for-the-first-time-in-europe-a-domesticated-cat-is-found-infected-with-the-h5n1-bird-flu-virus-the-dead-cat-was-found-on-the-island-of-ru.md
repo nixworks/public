@@ -7,9 +7,9 @@ Get the latest health&nbsp;news, diet &amp; fitness information, medical researc
 
 ### Source:
 
-1. [Handelsblatt](http://www.handelsblatt.com/news/Default.aspx?_p=204493&_t=ft&_b=1041647)
-2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L28468688.htm)
-3. [AP](http://abcnews.go.com/Health/wireStory?id=1670496)
+1. [AP](http://abcnews.go.com/Health/wireStory?id=1670496)
+2. [Handelsblatt](http://www.handelsblatt.com/news/Default.aspx?_p=204493&_t=ft&_b=1041647)
+3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L28468688.htm)
 
 ### Related:
 

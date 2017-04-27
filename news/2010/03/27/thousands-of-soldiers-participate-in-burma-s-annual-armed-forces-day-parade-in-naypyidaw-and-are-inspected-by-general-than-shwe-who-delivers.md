@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [IOL](http://www.iol.co.za/index.php?from=rss_Asia&set_id=1&click_id=126&art_id=nw20100327115017879C958747)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8590387.stm)
-3. [Bangkok Post](http://www.bangkokpost.com/news/asia/172917/burma-leader-issues-election-warning-at-military-parade)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8590387.stm)
+2. [Bangkok Post](http://www.bangkokpost.com/news/asia/172917/burma-leader-issues-election-warning-at-military-parade)
+3. [IOL](http://www.iol.co.za/index.php?from=rss_Asia&set_id=1&click_id=126&art_id=nw20100327115017879C958747)
 
 ### Related:
 

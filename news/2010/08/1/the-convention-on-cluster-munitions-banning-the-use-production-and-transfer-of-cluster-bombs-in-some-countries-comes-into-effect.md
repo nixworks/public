@@ -7,9 +7,9 @@ A new global treaty banning cluster munitions enters into force, hailed by campa
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-10829976)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iQZuxYYQyqbWw8iAzAo_-GwYR_8A)
 2. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/20108161921618518.html)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iQZuxYYQyqbWw8iAzAo_-GwYR_8A)
+3. [BBC](http://www.bbc.co.uk/news/world-10829976)
 
 ### Related:
 

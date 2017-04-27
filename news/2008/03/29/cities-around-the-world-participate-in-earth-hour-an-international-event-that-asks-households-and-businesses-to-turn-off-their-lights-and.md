@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Reuters via Yahoo! News](http://news.yahoo.com/s/nm/20080330/ts_nm/climate_lights_dc_4;_ylt=Ajw2nz_xGdo0eRAoVJFD_4Vg.3QA)
-2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080330/ap_on_re_eu/world_lights_out_17;_ylt=Amkt_RtLr3IKENBbYilgfQRg.3QA)
-3. [Toronto Star](http://www.thestar.com/earthhour)
-4. [Reuters via Yahoo! News](http://news.yahoo.com/s/nm/climate_lights_dc)
+1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080330/ap_on_re_eu/world_lights_out_17;_ylt=Amkt_RtLr3IKENBbYilgfQRg.3QA)
+2. [Reuters via Yahoo! News](http://news.yahoo.com/s/nm/20080330/ts_nm/climate_lights_dc_4;_ylt=Ajw2nz_xGdo0eRAoVJFD_4Vg.3QA)
+3. [Reuters via Yahoo! News](http://news.yahoo.com/s/nm/climate_lights_dc)
+4. [Toronto Star](http://www.thestar.com/earthhour)
 
 ### Related:
 

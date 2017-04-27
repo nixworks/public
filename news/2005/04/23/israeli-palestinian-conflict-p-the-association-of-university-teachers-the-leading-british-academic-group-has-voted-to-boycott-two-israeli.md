@@ -7,10 +7,10 @@ Palestinians suspected of attempting to carry out terror attack apparently illeg
 
 ### Source:
 
-1. [Guardian](http://observer.guardian.co.uk/uk_news/story/0,6903,1469015,00.html)
-2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3076684,00.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/education/4472169.stm)
+2. [Guardian](http://observer.guardian.co.uk/uk_news/story/0,6903,1469015,00.html)
 3. [Haaretz](http://www.haaretz.com/hasen/spages/568452.html)
-4. [BBC](http://news.bbc.co.uk/2/hi/uk_news/education/4472169.stm)
+4. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3076684,00.html)
 
 ### Related:
 

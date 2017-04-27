@@ -7,9 +7,9 @@ Gunmen shot dead at least 29 people in Pakistan&#039;s commercial hub Karachi, d
 
 ### Source:
 
-1. [Reuters via ABC News Online](http://www.abc.net.au/news/stories/2010/10/18/3040627.htm)
-2. [UPI](http://www.upi.com/Top_News/World-News/2010/10/17/New-Karachi-violence-kills-33/UPI-16911287361950/)
-3. [India Times](http://timesofindia.indiatimes.com/world/pakistan/14-killed-40-injured-in-Karachi-by-election-violence/articleshow/6761830.cms)
+1. [India Times](http://timesofindia.indiatimes.com/world/pakistan/14-killed-40-injured-in-Karachi-by-election-violence/articleshow/6761830.cms)
+2. [Reuters via ABC News Online](http://www.abc.net.au/news/stories/2010/10/18/3040627.htm)
+3. [UPI](http://www.upi.com/Top_News/World-News/2010/10/17/New-Karachi-violence-kills-33/UPI-16911287361950/)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Journalists say they were attacked while investigating reports of the burial of 
 
 ### Source:
 
-1. [Miami Herald](http://www.miamiherald.com/2014/08/27/4311704/government-held-ukraine-town-hit.html)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-28951319)
 2. [BBC](http://www.bbc.com/news/world-europe-28949582)
-3. [BBC](http://www.bbc.co.uk/news/world-europe-28951319)
+3. [Miami Herald](http://www.miamiherald.com/2014/08/27/4311704/government-held-ukraine-town-hit.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Tens of thousands of Cambodians pour onto the streets for the funeral procession
 
 ### Source:
 
-1. [Fox News](http://www.foxnews.com/world/2016/07/24/thousands-attend-funeral-for-slain-critic-cambodia-leader.html)
-2. [ABC News](http://abcnews.go.com/International/wireStory/thousands-attend-funeral-slain-critic-cambodia-leader-40830585)
-3. [Australian Broadcasting Corporation](http://www.abc.net.au/news/2016-07-24/thousands-attend-funeral-of-murdered-cambodian-activist/7656298)
+1. [ABC News](http://abcnews.go.com/International/wireStory/thousands-attend-funeral-slain-critic-cambodia-leader-40830585)
+2. [Australian Broadcasting Corporation](http://www.abc.net.au/news/2016-07-24/thousands-attend-funeral-of-murdered-cambodian-activist/7656298)
+3. [Fox News](http://www.foxnews.com/world/2016/07/24/thousands-attend-funeral-for-slain-critic-cambodia-leader.html)
 
 ### Related:
 

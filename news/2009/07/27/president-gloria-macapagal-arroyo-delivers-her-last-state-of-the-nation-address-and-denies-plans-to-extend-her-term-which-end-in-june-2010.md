@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Philippine Daily Inquirer](http://sona.inquirer.net/view.php?db=1&article=20090728-217574)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8170807.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8170807.stm)
+2. [Philippine Daily Inquirer](http://sona.inquirer.net/view.php?db=1&article=20090728-217574)
 
 ### Related:
 

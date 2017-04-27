@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13400296)
-2. [AP via ''Salon](http://www.salon.com/wires/allwires/2011/05/14/D9N76V280_as_singapore_politics/index.html)
+1. [AP via ''Salon](http://www.salon.com/wires/allwires/2011/05/14/D9N76V280_as_singapore_politics/index.html)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13400296)
 3. [China Daily](http://www.chinadaily.com.cn/world/2011-05/14/content_12511975.htm)
 
 ### Related:

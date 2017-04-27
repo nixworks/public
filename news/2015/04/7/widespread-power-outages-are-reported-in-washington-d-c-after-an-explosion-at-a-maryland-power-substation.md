@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2015/04/07/politics/power-outage-washington-dc/)
-2. [ABC 6](http://6abc.com/news/power-plant-explosion-blamed-for-dc-power-outages/637726/)
+1. [ABC 6](http://6abc.com/news/power-plant-explosion-blamed-for-dc-power-outages/637726/)
+2. [CNN](http://edition.cnn.com/2015/04/07/politics/power-outage-washington-dc/)
 
 ### Related:
 

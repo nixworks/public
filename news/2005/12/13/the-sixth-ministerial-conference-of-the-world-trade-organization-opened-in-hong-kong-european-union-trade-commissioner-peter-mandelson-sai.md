@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters via Yahoo](http://news.yahoo.com/s/nm/20051213/wl_nm/trade_wto_dc)
+1. [AP via Yahoo](http://news.yahoo.com/s/ap/20051213/ap_on_bi_ge/wto_meeting)
 2. [BBC](http://news.bbc.co.uk/2/hi/business/4522794.stm)
-3. [AP via Yahoo](http://news.yahoo.com/s/ap/20051213/ap_on_bi_ge/wto_meeting)
+3. [Reuters via Yahoo](http://news.yahoo.com/s/nm/20051213/wl_nm/trade_wto_dc)
 
 ### Related:
 

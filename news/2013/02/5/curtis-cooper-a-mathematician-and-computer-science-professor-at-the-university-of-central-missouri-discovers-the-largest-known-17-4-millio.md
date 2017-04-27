@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [New Scientist](http://www.newscientist.com/article/dn23138-new-17milliondigit-monster-is-largest-known-prime.html)
-2. [GIMPS](http://mersenne.org/various/57885161.htm)
+1. [GIMPS](http://mersenne.org/various/57885161.htm)
+2. [New Scientist](http://www.newscientist.com/article/dn23138-new-17milliondigit-monster-is-largest-known-prime.html)
 
 ### Related:
 

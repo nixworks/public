@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/news/2013-02-19/japan-export-gain-fails-to-prevent-trade-deficit-reaching-record.html)
-2. [AP via ''Time](http://world.time.com/2013/02/19/japan-posts-record-17-4b-trade-deficit-in-jan/)
+1. [AP via ''Time](http://world.time.com/2013/02/19/japan-posts-record-17-4b-trade-deficit-in-jan/)
+2. [Bloomberg](http://www.bloomberg.com/news/2013-02-19/japan-export-gain-fails-to-prevent-trade-deficit-reaching-record.html)
 
 ### Related:
 

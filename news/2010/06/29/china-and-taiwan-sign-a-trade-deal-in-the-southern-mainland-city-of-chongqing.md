@@ -7,13 +7,13 @@ China can maintain its grip on Tibet &quot;forever&quot;, a senior official said
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2010/06/30/technology/30google.html?src=busln)
-2. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-06/29/c_13375674.htm)
-3. [Focus Taiwan News Channel](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?Type=aECO&ID=201006290018)
-4. [BBC](http://news.bbc.co.uk/1/hi/business/10443648.stm)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iqPBHPOf1TAzuYWjtNOMekvUYA-Q)
+2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jNBZS2vVaZRizlxh4UH8KE88u5bgD9GKNTSO0)
+3. [BBC](http://news.bbc.co.uk/1/hi/business/10443648.stm)
+4. [Focus Taiwan News Channel](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?Type=aECO&ID=201006290018)
 5. [Reuters](http://in.reuters.com/article/idINIndia-49748220100629?loomia_ow=t0:s0:a49:g43:r1:c0.166667:b35290692:z0)
-6. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iqPBHPOf1TAzuYWjtNOMekvUYA-Q)
-7. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jNBZS2vVaZRizlxh4UH8KE88u5bgD9GKNTSO0)
+6. [The New York Times](http://www.nytimes.com/2010/06/30/technology/30google.html?src=busln)
+7. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-06/29/c_13375674.htm)
 
 ### Related:
 

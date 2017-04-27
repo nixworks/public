@@ -7,8 +7,8 @@ CROSS RIVER State government has condemned the deplorable and tragic communal cl
 
 ### Source:
 
-1. [Vanguard Nigeria](http://www.vanguardngr.com/2010/10/communal-clash-c-river-imposes-curfew-on-warring-areas/)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-11628577)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-11628577)
+2. [Vanguard Nigeria](http://www.vanguardngr.com/2010/10/communal-clash-c-river-imposes-curfew-on-warring-areas/)
 
 ### Related:
 

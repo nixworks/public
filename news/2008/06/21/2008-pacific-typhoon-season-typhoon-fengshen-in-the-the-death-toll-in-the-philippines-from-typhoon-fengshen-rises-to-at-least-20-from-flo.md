@@ -8,8 +8,8 @@ More than 800 people were missing on Monday after a Philippine ferry capsized in
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/asiaCompanyAndMarkets/idINMAN2671720080622)
-2. [Xinhua](http://news.xinhuanet.com/english/2008-06/21/content_8414202.htm)
-3. [Reuters](http://www.reuters.com/article/worldNews/idUSMAN9076220080622)
+2. [Reuters](http://www.reuters.com/article/worldNews/idUSMAN9076220080622)
+3. [Xinhua](http://news.xinhuanet.com/english/2008-06/21/content_8414202.htm)
 
 ### Related:
 

@@ -7,8 +7,8 @@ An air strike hit a hospital in the rebel-held Syrian village of Awaijel, west o
 
 ### Source:
 
-1. [CBS News](http://www.cbsnews.com/news/russia-denies-new-aleppo-airstrikes-syria-trump-putin-call/)
-2. [Al Jazeera](http://www.aljazeera.com/news/2016/11/syria-war-aleppo-pounded-air-strikes-pause-ends-161115112526848.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/2016/11/syria-war-aleppo-pounded-air-strikes-pause-ends-161115112526848.html)
+2. [CBS News](http://www.cbsnews.com/news/russia-denies-new-aleppo-airstrikes-syria-trump-putin-call/)
 3. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-hospital-idUSKBN13A0PJ)
 
 ### Related:

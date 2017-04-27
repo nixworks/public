@@ -7,8 +7,8 @@ Eman al-Obeidy, who garnered worldwide attention for her vocal rape allegations 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2011/05/08/us-libya-idUSTRE7270JP20110508)
-2. [CNN](http://www.cnn.com/2011/WORLD/africa/05/08/libya.rape.case/index.html)
+1. [CNN](http://www.cnn.com/2011/WORLD/africa/05/08/libya.rape.case/index.html)
+2. [Reuters](http://www.reuters.com/article/2011/05/08/us-libya-idUSTRE7270JP20110508)
 
 ### Related:
 

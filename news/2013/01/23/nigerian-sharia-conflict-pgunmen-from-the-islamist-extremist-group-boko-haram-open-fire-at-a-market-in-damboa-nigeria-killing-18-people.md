@@ -7,12 +7,12 @@ Five people were hacked to death on Wednesday in Maiduguri in northeastern Niger
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-21162787)
-2. [Reuters](http://www.reuters.com/article/2013/01/22/us-nigeria-violence-idUSBRE90L0P020130122)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iIPcg-cEAaxELsX8y3OJcGiSvAmA)
+2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iZ6Xwd-uXr4ub0g8_GmnubMh7f2g)
 3. [AP via Yahoo! News](http://news.yahoo.com/3-beheaded-5-others-killed-northeast-nigeria-175004441.html)
-4. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iZ6Xwd-uXr4ub0g8_GmnubMh7f2g)
-5. [Reuters](http://www.reuters.com/article/2013/01/23/us-nigeria-violence-idUSBRE90M15520130123)
-6. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iIPcg-cEAaxELsX8y3OJcGiSvAmA)
+4. [BBC](http://www.bbc.co.uk/news/world-africa-21162787)
+5. [Reuters](http://www.reuters.com/article/2013/01/22/us-nigeria-violence-idUSBRE90L0P020130122)
+6. [Reuters](http://www.reuters.com/article/2013/01/23/us-nigeria-violence-idUSBRE90M15520130123)
 
 ### Related:
 

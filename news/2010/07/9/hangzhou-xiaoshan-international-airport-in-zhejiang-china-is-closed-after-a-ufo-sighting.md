@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Shanghai Daily](http://www.shanghaidaily.com/sp/article/2010/201007/20100710/article_442652.htm)
-2. [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-1293395/Chinese-airport-closed-UFO-spotted-city.html)
+1. [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-1293395/Chinese-airport-closed-UFO-spotted-city.html)
+2. [Shanghai Daily](http://www.shanghaidaily.com/sp/article/2010/201007/20100710/article_442652.htm)
 3. [oneindia](http://news.oneindia.in/2010/07/09/china-ufo-sighting-airport-radar-glowing-object.html)
 
 ### Related:

@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11189609)
-2. [Kyiv Post](http://www.kyivpost.com/news/russia/detail/81105/)
-3. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=24&art_id=nw20100904175309614C736503)
+2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=24&art_id=nw20100904175309614C736503)
+3. [Kyiv Post](http://www.kyivpost.com/news/russia/detail/81105/)
 
 ### Related:
 

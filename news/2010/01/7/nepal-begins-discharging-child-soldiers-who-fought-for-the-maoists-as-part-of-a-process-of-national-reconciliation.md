@@ -8,8 +8,8 @@ Teary-eyed but hopeful of a bright future, more than 200 former Maoist child sol
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE6061UF20100107)
-2. [The Rising Nepal](http://www.gorkhapatra.org.np/rising.detail.php?article_id=29243&cat_id=4)
-3. [The Guardian](http://www.guardian.co.uk/world/2010/jan/07/nepal-starts-releasing-child-soldiers)
+2. [The Guardian](http://www.guardian.co.uk/world/2010/jan/07/nepal-starts-releasing-child-soldiers)
+3. [The Rising Nepal](http://www.gorkhapatra.org.np/rising.detail.php?article_id=29243&cat_id=4)
 
 ### Related:
 

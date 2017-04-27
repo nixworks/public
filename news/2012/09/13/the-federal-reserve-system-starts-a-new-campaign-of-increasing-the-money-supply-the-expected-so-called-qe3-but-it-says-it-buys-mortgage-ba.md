@@ -7,8 +7,8 @@ The Federal Reserve opened a new chapter in its efforts to stimulate the America
 
 ### Source:
 
-1. [San Francisco Chronicle](http://www.sfgate.com/business/bloomberg/article/Fed-Undertakes-QE3-With-40-Billion-in-MBS-3863144.php)
-2. [New York Times](http://www.nytimes.com/2012/09/14/business/economy/fed-announces-new-round-of-bond-buying-to-spur-growth.html?_r=1&pagewanted=all)
+1. [New York Times](http://www.nytimes.com/2012/09/14/business/economy/fed-announces-new-round-of-bond-buying-to-spur-growth.html?_r=1&pagewanted=all)
+2. [San Francisco Chronicle](http://www.sfgate.com/business/bloomberg/article/Fed-Undertakes-QE3-With-40-Billion-in-MBS-3863144.php)
 
 ### Related:
 

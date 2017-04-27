@@ -7,8 +7,8 @@ A section of a bridge under construction in southern Vietnam collapsed Wednesday
 
 ### Source:
 
-1. [Fox News](http://www.foxnews.com/story/0,2933,298068,00.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/7013711.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/7013711.stm)
+2. [Fox News](http://www.foxnews.com/story/0,2933,298068,00.html)
 3. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/09/26/2044287.htm)
 
 ### Related:

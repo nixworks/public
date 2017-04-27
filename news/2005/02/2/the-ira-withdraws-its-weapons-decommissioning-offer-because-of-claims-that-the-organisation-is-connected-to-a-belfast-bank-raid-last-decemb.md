@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/4231951.stm)
-2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/4231753.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/4231753.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/4231951.stm)
 3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aHZ8othznuXE&refer=top_world_news)
 4. [Ireland Online](http://212.2.162.45/news/story.asp?j=108802780&p=yx88x336x&n=108803389)
 5. [Reuters](http://olympics.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7518536)

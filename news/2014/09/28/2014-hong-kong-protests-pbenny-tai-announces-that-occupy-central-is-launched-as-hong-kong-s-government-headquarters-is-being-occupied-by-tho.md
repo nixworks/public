@@ -7,8 +7,8 @@ Tens of thousands join mass civil disobedience over voting rights as authorities
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/world/2014/sep/28/hong-kong-clashes-kick-start-plans-activists-blockade-city)
-2. [Reuters UK](http://uk.reuters.com/article/2014/09/28/uk-hongkong-china-idUKKCN0HN04020140928)
+1. [Reuters UK](http://uk.reuters.com/article/2014/09/28/uk-hongkong-china-idUKKCN0HN04020140928)
+2. [The Guardian](http://www.theguardian.com/world/2014/sep/28/hong-kong-clashes-kick-start-plans-activists-blockade-city)
 
 ### Related:
 

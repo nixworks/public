@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11662623)
-2. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=374776&CategoryId=14090)
-3. [CNN](http://edition.cnn.com/2010/WORLD/americas/10/31/brazil.elections/index.html?eref=edition)
+2. [CNN](http://edition.cnn.com/2010/WORLD/americas/10/31/brazil.elections/index.html?eref=edition)
+3. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=374776&CategoryId=14090)
 
 ### Related:
 

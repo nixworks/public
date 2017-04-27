@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2010/03/25/science/25human.html?src=me)
-2. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/8583254.stm)
-3. [Nature](http://www.nature.com/news/2010/100324/full/464472a.html)
+1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/8583254.stm)
+2. [Nature](http://www.nature.com/news/2010/100324/full/464472a.html)
+3. [The New York Times](http://www.nytimes.com/2010/03/25/science/25human.html?src=me)
 
 ### Related:
 

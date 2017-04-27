@@ -7,8 +7,8 @@ A Ghana-born doctor is elected mayor of a town in Slovenia - apparently breaking
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2010/oct/25/peter-bossman-first-black-major-eastern-europe-slovenia)
-2. [BBC News](http://www.bbc.co.uk/news/world-europe-11616879)
+1. [BBC News](http://www.bbc.co.uk/news/world-europe-11616879)
+2. [The Guardian](http://www.guardian.co.uk/world/2010/oct/25/peter-bossman-first-black-major-eastern-europe-slovenia)
 
 ### Related:
 

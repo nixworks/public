@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/nm/20101128/wl_nm/us_haiti_elections)
-2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gj5MukzW1APM4N2yHDGQZcTi4Rnw?docId=4ed2a7014d2049a5ba9feb331de69070)
-3. [Voice of America](http://www.voanews.com/english/news/Turnout-Remains-Big-Question-in-Haiti-Election-110911359.html)
-4. [Reuters](http://www.reuters.com/article/idUSN2814515320101128)
+1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gj5MukzW1APM4N2yHDGQZcTi4Rnw?docId=4ed2a7014d2049a5ba9feb331de69070)
+2. [AP via Yahoo! News](http://news.yahoo.com/s/nm/20101128/wl_nm/us_haiti_elections)
+3. [Reuters](http://www.reuters.com/article/idUSN2814515320101128)
+4. [Voice of America](http://www.voanews.com/english/news/Turnout-Remains-Big-Question-in-Haiti-Election-110911359.html)
 
 ### Related:
 

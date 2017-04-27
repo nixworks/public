@@ -7,8 +7,8 @@ AT least three people have been killed and 150 wounded as the Libyan capital Tri
 
 ### Source:
 
-1. [CNN](http://news.blogs.cnn.com/2011/05/23/smoke-seen-rising-from-gadhafi-compound-after-airstrikes/)
-2. [AFP via News Limited](http://www.news.com.au/world/three-dead-as-nato-planes-hit-tripoli/story-e6frfkyi-1226061800965?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+com%2Fnewscomautopstoriesndm+%28NEWS.com.au+%7C+Top+Stories%29)
+1. [AFP via News Limited](http://www.news.com.au/world/three-dead-as-nato-planes-hit-tripoli/story-e6frfkyi-1226061800965?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+com%2Fnewscomautopstoriesndm+%28NEWS.com.au+%7C+Top+Stories%29)
+2. [CNN](http://news.blogs.cnn.com/2011/05/23/smoke-seen-rising-from-gadhafi-compound-after-airstrikes/)
 
 ### Related:
 

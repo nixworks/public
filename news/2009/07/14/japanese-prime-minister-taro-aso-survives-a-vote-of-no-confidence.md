@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Mainichi Daily News](http://mdn.mainichi.jp/mdnnews/national/news/20090714p2g00m0dm026000c.html)
-2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hlQO-kyvIEyrc0I90V5l0LFN7JTwD99E3NT00)
+1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hlQO-kyvIEyrc0I90V5l0LFN7JTwD99E3NT00)
+2. [Mainichi Daily News](http://mdn.mainichi.jp/mdnnews/national/news/20090714p2g00m0dm026000c.html)
 
 ### Related:
 

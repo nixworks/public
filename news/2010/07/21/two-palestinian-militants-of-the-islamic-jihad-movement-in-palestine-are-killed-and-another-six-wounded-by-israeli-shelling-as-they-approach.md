@@ -7,10 +7,10 @@ Top Islamic Jihad militant killed as Israeli tanks fire at militants after recei
 
 ### Source:
 
-1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/israeli-fire-kills-two-in-gaza-medics-20100722-10lg9.html)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-10717185)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10717185)
+2. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/2-palestinians-killed-as-idf-clashes-with-militants-near-gaza-border-1.303253)
 3. [The Guardian](http://www.guardian.co.uk/world/2010/jul/21/israeli-shell-kills-palestinian)
-4. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/2-palestinians-killed-as-idf-clashes-with-militants-near-gaza-border-1.303253)
+4. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/israeli-fire-kills-two-in-gaza-medics-20100722-10lg9.html)
 
 ### Related:
 

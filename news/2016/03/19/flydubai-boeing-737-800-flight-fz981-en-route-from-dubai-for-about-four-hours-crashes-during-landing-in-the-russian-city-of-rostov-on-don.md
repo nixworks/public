@@ -7,9 +7,9 @@ Flydubai flight FZ981 has crashed in the southern Russian city of Rostov-on-Don 
 
 ### Source:
 
-1. [RT](https://www.rt.com/news/336185-boeing-crash-dubai-rostov/)
-2. [Reuters](http://www.reuters.com/article/us-russia-crash-idUSKCN0WL036)
-3. [Airways News](http://airwaysnews.com/blog/2016/03/18/flydubai-flight-981-crash/)
+1. [Airways News](http://airwaysnews.com/blog/2016/03/18/flydubai-flight-981-crash/)
+2. [RT](https://www.rt.com/news/336185-boeing-crash-dubai-rostov/)
+3. [Reuters](http://www.reuters.com/article/us-russia-crash-idUSKCN0WL036)
 
 ### Related:
 

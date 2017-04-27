@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_628891.html)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iNsipQcwjDPVQW2XIXUVMOh2pphg?docId=CNG.4bf876aedad10423b2ba2a9c7e0cdc33.671)
-3. [AFP via Info Vietnam](http://en.www.info.vn/world-and-region/asia-and-asian/18650-10-die-in-fall-from-philippine-skyscraper-.html)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iNsipQcwjDPVQW2XIXUVMOh2pphg?docId=CNG.4bf876aedad10423b2ba2a9c7e0cdc33.671)
+2. [AFP via Info Vietnam](http://en.www.info.vn/world-and-region/asia-and-asian/18650-10-die-in-fall-from-philippine-skyscraper-.html)
+3. [The Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_628891.html)
 
 ### Related:
 

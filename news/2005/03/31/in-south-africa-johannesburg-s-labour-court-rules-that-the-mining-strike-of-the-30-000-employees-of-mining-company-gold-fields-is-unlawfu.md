@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [SA](http://news.bbc.co.uk/2/hi/business/4399241.stm)
+1. [BusinessWeek, SA](http://www.businessweek.com/ap/financialnews/D89630700.htm?campaign_id=apn_home_down)
 2. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp?type=businessNews&localeKey=en_ZA&storyID=8050922)
-3. [BusinessWeek, SA](http://www.businessweek.com/ap/financialnews/D89630700.htm?campaign_id=apn_home_down)
+3. [SA](http://news.bbc.co.uk/2/hi/business/4399241.stm)
 
 ### Related:
 

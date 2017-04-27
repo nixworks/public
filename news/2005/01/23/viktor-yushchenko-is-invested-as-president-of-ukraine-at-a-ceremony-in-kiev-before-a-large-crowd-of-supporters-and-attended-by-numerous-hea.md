@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/europe/4198957.stm)
-2. [AP](http://story.news.yahoo.com/news?tmpl=story&e=1&u=/ap/20050123/ap_on_re_eu/ukraine_president)
+1. [AP](http://story.news.yahoo.com/news?tmpl=story&e=1&u=/ap/20050123/ap_on_re_eu/ukraine_president)
+2. [BBC](http://news.bbc.co.uk/2/hi/europe/4198957.stm)
 
 ### Related:
 

@@ -7,11 +7,11 @@ BEIRUT: The shepherd abducted by the Israeli Army was returned to Lebanon Thursd
 
 ### Source:
 
-1. [The Daily Star](http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=2&article_id=123657#axzz1Ayc7nI1n)
-2. [Press TV](http://www.presstv.ir/detail/159886.html)
+1. ["Haaretz"](http://www.haaretz.com/news/diplomacy-defense/lebanon-slams-israel-for-arrest-of-lebanese-citizen-1.336678)
+2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jildFx79nf59AveZJZbXh0mja16g?docId=CNG.a1580f1f6cc9ea5d5f547946e48f475f.71)
 3. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/idf-troops-on-alert-following-collapse-of-lebanon-government-1.336788)
-4. ["Haaretz"](http://www.haaretz.com/news/diplomacy-defense/lebanon-slams-israel-for-arrest-of-lebanese-citizen-1.336678)
-5. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jildFx79nf59AveZJZbXh0mja16g?docId=CNG.a1580f1f6cc9ea5d5f547946e48f475f.71)
+4. [Press TV](http://www.presstv.ir/detail/159886.html)
+5. [The Daily Star](http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=2&article_id=123657#axzz1Ayc7nI1n)
 
 ### Related:
 

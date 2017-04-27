@@ -7,8 +7,8 @@ FBI agents arrest a Bangladeshi man for plotting to detonate what he thought was
 
 ### Source:
 
-1. [CNN](http://news.blogs.cnn.com/2012/10/17/man-arrested-in-plot-to-blow-up-federal-reserve-bank-in-new-york/)
-2. [BBC](http://www.bbc.co.uk/news/world-us-canada-19985987)
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-19985987)
+2. [CNN](http://news.blogs.cnn.com/2012/10/17/man-arrested-in-plot-to-blow-up-federal-reserve-bank-in-new-york/)
 
 ### Related:
 

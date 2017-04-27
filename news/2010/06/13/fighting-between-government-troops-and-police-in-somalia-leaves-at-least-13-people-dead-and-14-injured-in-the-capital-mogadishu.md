@@ -7,8 +7,8 @@ Fighting between government troops and police leaves 13 dead and 14 injured in c
 
 ### Source:
 
-1. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE65C0NO20100613)
-2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/06/201061395330895893.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/06/201061395330895893.html)
+2. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE65C0NO20100613)
 
 ### Related:
 

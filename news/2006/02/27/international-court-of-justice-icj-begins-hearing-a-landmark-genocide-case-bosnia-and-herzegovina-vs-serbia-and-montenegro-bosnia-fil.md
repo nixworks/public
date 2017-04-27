@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=topNews&storyID=2006-02-27T124822Z_01_L24724981_RTRUKOC_0_UK-WARCRIMES-BOSNIA-SERBIAMONTENEGRO.xml)
-2. [ICJ press release](http://www.icj-cij.org/icjwww/ipresscom/ipress2006/ipresscom_2006-09_bhy_20060227.htm)
+1. [ICJ press release](http://www.icj-cij.org/icjwww/ipresscom/ipress2006/ipresscom_2006-09_bhy_20060227.htm)
+2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=topNews&storyID=2006-02-27T124822Z_01_L24724981_RTRUKOC_0_UK-WARCRIMES-BOSNIA-SERBIAMONTENEGRO.xml)
 
 ### Related:
 

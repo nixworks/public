@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Yahoo](http://news.yahoo.com/news?tmpl=story&u=/afp/20050727/ts_afp/usspaceshuttledebris_050727223131)
-2. [SpaceDaily](http://www.spacedaily.com/news/shuttle-05zzzi.html)
+1. [SpaceDaily](http://www.spacedaily.com/news/shuttle-05zzzi.html)
+2. [Yahoo](http://news.yahoo.com/news?tmpl=story&u=/afp/20050727/ts_afp/usspaceshuttledebris_050727223131)
 
 ### Related:
 

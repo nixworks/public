@@ -7,9 +7,9 @@ At least eight people drowned when a small boat carrying dozens of migrants from
 
 ### Source:
 
-1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20090920225823356C781200)
-2. [Xinhua](http://news.xinhuanet.com/english/2009-09/20/content_12083963.htm)
-3. [ABC](http://www.abc.net.au/news/stories/2009/09/20/2691011.htm?section=world)
+1. [ABC](http://www.abc.net.au/news/stories/2009/09/20/2691011.htm?section=world)
+2. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20090920225823356C781200)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-09/20/content_12083963.htm)
 
 ### Related:
 

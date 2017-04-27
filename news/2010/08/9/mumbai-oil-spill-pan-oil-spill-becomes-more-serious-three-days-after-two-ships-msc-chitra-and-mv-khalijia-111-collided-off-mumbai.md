@@ -7,9 +7,9 @@ Panama ship MSC Chitra, which collided with MSC Khalijia off Mumbai harbour on S
 
 ### Source:
 
-1. [The Times of India](http://timesofindia.indiatimes.com/city/mumbai/Mumbai-oil-spill-continues-300-containers-tumbled-into-water-so-far/articleshow/6280073.cms)
+1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/20108911255536150.html)
 2. [BBC](http://www.bbc.co.uk/news/world-south-asia-10912989)
-3. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/20108911255536150.html)
+3. [The Times of India](http://timesofindia.indiatimes.com/city/mumbai/Mumbai-oil-spill-continues-300-containers-tumbled-into-water-so-far/articleshow/6280073.cms)
 
 ### Related:
 

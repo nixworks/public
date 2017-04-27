@@ -7,10 +7,10 @@ A clearer picture of Omar Ismail Mostefai, one of the Bataclan attackers, is sta
 
 ### Source:
 
-1. [Fox News](http://www.foxnews.com/world/2015/11/15/one-paris-attacker-reportedly-identified-as-ismael-omar-mostefai/)
-2. [Reuters](http://in.reuters.com/article/2015/11/15/france-shooting-idINKCN0T40F420151115)
-3. [AP](http://hosted.ap.org/dynamic/stories/E/EU_FRANCE_PARIS_ATTACKS_THE_LATEST?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2015-11-15-14-28-24)
-4. [BBC](http://www.bbc.com/news/world-europe-34827541)
+1. [AP](http://hosted.ap.org/dynamic/stories/E/EU_FRANCE_PARIS_ATTACKS_THE_LATEST?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2015-11-15-14-28-24)
+2. [BBC](http://www.bbc.com/news/world-europe-34827541)
+3. [Fox News](http://www.foxnews.com/world/2015/11/15/one-paris-attacker-reportedly-identified-as-ismael-omar-mostefai/)
+4. [Reuters](http://in.reuters.com/article/2015/11/15/france-shooting-idINKCN0T40F420151115)
 
 ### Related:
 

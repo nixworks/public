@@ -7,8 +7,8 @@ As many as 50 people have died in crimewave, according to local reports, as Espi
 
 ### Source:
 
-1. [The Guardian](https://www.theguardian.com/world/2017/feb/06/brazil-police-strike-crimewave-troops-espirito-santo)
-2. [Reuters](http://www.reuters.com/article/us-brazil-violence-espirito-santo-idUSKBN15L26A)
+1. [Reuters](http://www.reuters.com/article/us-brazil-violence-espirito-santo-idUSKBN15L26A)
+2. [The Guardian](https://www.theguardian.com/world/2017/feb/06/brazil-police-strike-crimewave-troops-espirito-santo)
 
 ### Related:
 

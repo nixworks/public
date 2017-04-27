@@ -7,8 +7,8 @@ Pyongyang launches what appears to be two medium-range ballistic missiles weeks 
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/story/1662062/north-korea-fires-ballistic-missile-into-sea)
-2. [CNN](http://www.cnn.com/2016/03/17/asia/north-korea-missile-launch/index.html)
+1. [CNN](http://www.cnn.com/2016/03/17/asia/north-korea-missile-launch/index.html)
+2. [Sky News](http://news.sky.com/story/1662062/north-korea-fires-ballistic-missile-into-sea)
 
 ### Related:
 

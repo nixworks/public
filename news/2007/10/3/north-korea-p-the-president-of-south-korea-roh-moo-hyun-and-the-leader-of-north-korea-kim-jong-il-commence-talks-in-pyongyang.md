@@ -7,9 +7,9 @@ The deal sets a timetable for North Korea to disable all of its nuclear faciliti
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSSEO13450620071003?feedType=RSS&feedName=topNews)
-2. [CNN](http://edition.cnn.com/2007/WORLD/asiapcf/10/03/koreas.summit/?iref=mpstoryview)
-3. [NYT](http://www.nytimes.com/2007/10/04/world/asia/04diplo.html?hp)
+1. [CNN](http://edition.cnn.com/2007/WORLD/asiapcf/10/03/koreas.summit/?iref=mpstoryview)
+2. [NYT](http://www.nytimes.com/2007/10/04/world/asia/04diplo.html?hp)
+3. [Reuters](http://www.reuters.com/article/topNews/idUSSEO13450620071003?feedType=RSS&feedName=topNews)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/health/8447851.stm)
-2. [ANSAmed](http://www.ansamed.info/en/top/ME13.XAM12193.html)
+1. [ANSAmed](http://www.ansamed.info/en/top/ME13.XAM12193.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/health/8447851.stm)
 
 ### Related:
 

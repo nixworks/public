@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bangkok Post](http://www.bangkokpost.com/breaking_news/breakingnews.php?id=99290)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/5022626.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/5022626.stm)
+2. [Bangkok Post](http://www.bangkokpost.com/breaking_news/breakingnews.php?id=99290)
 
 ### Related:
 

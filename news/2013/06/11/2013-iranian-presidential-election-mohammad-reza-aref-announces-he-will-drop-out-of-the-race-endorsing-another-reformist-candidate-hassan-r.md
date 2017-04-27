@@ -7,8 +7,8 @@ Mohammad Reza Aref throws supports behind the only centrist candidate in preside
 
 ### Source:
 
-1. [PressTV](http://www.presstv.ir/detail/2013/06/11/308317/aref-drops-out-of-presidential-race/)
-2. [CBS](http://www.cbsnews.com/8301-202_162-57588663/iran-pro-reform-candidate-mohammad-reza-aref-withdraws-from-election-to-boost-centrists-campaign/)
+1. [CBS](http://www.cbsnews.com/8301-202_162-57588663/iran-pro-reform-candidate-mohammad-reza-aref-withdraws-from-election-to-boost-centrists-campaign/)
+2. [PressTV](http://www.presstv.ir/detail/2013/06/11/308317/aref-drops-out-of-presidential-race/)
 
 ### Related:
 

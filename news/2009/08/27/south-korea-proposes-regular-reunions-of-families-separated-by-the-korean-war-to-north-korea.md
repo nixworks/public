@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jjz-1FsdSMQjYDWp3qoa60B4b_jwD9AB48BG0)
-2. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2009/08/27/97/0401000000AEN20090827006900315F.HTML)
-3. [Times of India](http://timesofindia.indiatimes.com/news/world/rest-of-world/SKorea-presses-NKorea-for-more-reunions/articleshow/4939812.cms)
+2. [Times of India](http://timesofindia.indiatimes.com/news/world/rest-of-world/SKorea-presses-NKorea-for-more-reunions/articleshow/4939812.cms)
+3. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2009/08/27/97/0401000000AEN20090827006900315F.HTML)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Canadian Press via ''Winnipeg Free Press](http://www.winnipegfreepress.com/canada/breakingnews/124763414.html)
-2. [BBC](http://www.bbc.co.uk/news/uk-13979606)
+1. [BBC](http://www.bbc.co.uk/news/uk-13979606)
+2. [Canadian Press via ''Winnipeg Free Press](http://www.winnipegfreepress.com/canada/breakingnews/124763414.html)
 
 ### Related:
 

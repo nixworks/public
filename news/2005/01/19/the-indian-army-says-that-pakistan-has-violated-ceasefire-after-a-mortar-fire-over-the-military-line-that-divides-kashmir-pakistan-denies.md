@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4186547.stm)
-2. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/SP75863.htm)
-3. [ExpressIndia](http://www.expressindia.com/fullstory.php?newsid=40921)
+2. [ExpressIndia](http://www.expressindia.com/fullstory.php?newsid=40921)
+3. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/SP75863.htm)
 
 ### Related:
 

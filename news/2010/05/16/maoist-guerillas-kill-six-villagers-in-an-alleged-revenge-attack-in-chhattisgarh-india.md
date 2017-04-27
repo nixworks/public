@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=126&art_id=nw20100516100313861C452316)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jZkSPT5PFJ8RooKIE6sHFMC34zTg)
-3. [Hindustan Times](http://www.hindustantimes.com/Six-civilians-two-Maoists-killed-in-Chhattisgarh/H1-Article3-544342.aspx)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jZkSPT5PFJ8RooKIE6sHFMC34zTg)
+2. [Hindustan Times](http://www.hindustantimes.com/Six-civilians-two-Maoists-killed-in-Chhattisgarh/H1-Article3-544342.aspx)
+3. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=126&art_id=nw20100516100313861C452316)
 
 ### Related:
 

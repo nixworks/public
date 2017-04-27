@@ -7,8 +7,8 @@ Seven men convicted of armed robbery have been executed in southern Saudi Arabia
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2013/03/13/world/meast/saudi-executions-beheading/)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-21767667)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21767667)
+2. [CNN](http://edition.cnn.com/2013/03/13/world/meast/saudi-executions-beheading/)
 
 ### Related:
 

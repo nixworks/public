@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSLDE63Q14D20100427?type=marketsNews)
-2. [Earthtimes](http://www.earthtimes.org/articles/show/320777,russia-and-norway-agree-on-new-border-in-arctic-seas.html)
+1. [Earthtimes](http://www.earthtimes.org/articles/show/320777,russia-and-norway-agree-on-new-border-in-arctic-seas.html)
+2. [Reuters](http://www.reuters.com/article/idUSLDE63Q14D20100427?type=marketsNews)
 
 ### Related:
 

@@ -7,10 +7,10 @@ Saudi Arabia is sending troops and fighter jets to Turkey&#039;s Incirlik milita
 
 ### Source:
 
-1. [Reuters](http://in.reuters.com/article/mideast-crisis-syria-turkey-shelling-idINKCN0VM0QB)
-2. [AP via ''Observer–Reporter](http://www.observer-reporter.com/20160213/syria_truce_hopes_dim_as_fighting_rages)
-3. [The Independent](http://www.independent.co.uk/news/world/middle-east/saudi-arabia-sends-troops-and-fighter-jets-to-military-base-in-turkey-ahead-of-intervention-against-a6871611.html)
-4. [Reuters](http://in.reuters.com/article/mideast-crisis-syria-idINKCN0VN03B)
+1. [AP via ''Observer–Reporter](http://www.observer-reporter.com/20160213/syria_truce_hopes_dim_as_fighting_rages)
+2. [Reuters](http://in.reuters.com/article/mideast-crisis-syria-idINKCN0VN03B)
+3. [Reuters](http://in.reuters.com/article/mideast-crisis-syria-turkey-shelling-idINKCN0VM0QB)
+4. [The Independent](http://www.independent.co.uk/news/world/middle-east/saudi-arabia-sends-troops-and-fighter-jets-to-military-base-in-turkey-ahead-of-intervention-against-a6871611.html)
 
 ### Related:
 

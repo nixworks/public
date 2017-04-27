@@ -7,13 +7,13 @@ The Syrian army recaptures the strategic town of Deir Attiyeh, less than a week 
 
 ### Source:
 
-1. [SBS](http://www.sbs.com.au/news/article/2013/11/29/syrian-refugees-top-three-million-mark-un)
-2. [One News](http://tvnz.co.nz/world-news/us-offers-destroy-syrian-chemical-weapons-sea-5733869)
-3. [ABC](http://abcnews.go.com/International/wireStory/syria-give-power-peace-talks-21026873)
-4. [BBC](http://www.bbc.co.uk/news/world-middle-east-25146980)
-5. [Daily Star](http://www.dailystar.com.lb/News/Middle-East/2013/Nov-28/239226-syria-army-retakes-deir-attiyeh-town-near-damascus-tv.ashx)
-6. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gHxSAHeg07q811lwZJSe76HfFljA?docId=808ac4a9-842a-4b72-82b7-6e6453c74851&hl=en=en)
-7. [Reuters](http://www.reuters.com/article/2013/11/28/us-russia-embassy-shelling-idUSBRE9AR0J320131128)
+1. [ABC](http://abcnews.go.com/International/wireStory/syria-give-power-peace-talks-21026873)
+2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gHxSAHeg07q811lwZJSe76HfFljA?docId=808ac4a9-842a-4b72-82b7-6e6453c74851&hl=en=en)
+3. [BBC](http://www.bbc.co.uk/news/world-middle-east-25146980)
+4. [Daily Star](http://www.dailystar.com.lb/News/Middle-East/2013/Nov-28/239226-syria-army-retakes-deir-attiyeh-town-near-damascus-tv.ashx)
+5. [One News](http://tvnz.co.nz/world-news/us-offers-destroy-syrian-chemical-weapons-sea-5733869)
+6. [Reuters](http://www.reuters.com/article/2013/11/28/us-russia-embassy-shelling-idUSBRE9AR0J320131128)
+7. [SBS](http://www.sbs.com.au/news/article/2013/11/29/syrian-refugees-top-three-million-mark-un)
 
 ### Related:
 

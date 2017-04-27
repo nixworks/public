@@ -7,10 +7,10 @@ Libyan artefacts taken to Britain in the 1950s have been returned home and go on
 
 ### Source:
 
-1. [Daily Mail](http://www.dailymail.co.uk/news/worldnews/article-1281959/British-families-return-ancient-artefacts-taken-Libya-World-War-Two.html?ITO=1490&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+dailymail%2Fhome+%28Home+%7C+Mail+Online%29)
-2. [News24.com](http://www.news24.com/Africa/News/Britons-return-Libyan-antiquities-20100527)
-3. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10175793.stm)
-4. [IOL](http://www.iol.co.za/index.php?from=rss_Discovery&set_id=1&click_id=588&art_id=nw20100527103643287C120664)
+1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10175793.stm)
+2. [Daily Mail](http://www.dailymail.co.uk/news/worldnews/article-1281959/British-families-return-ancient-artefacts-taken-Libya-World-War-Two.html?ITO=1490&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+dailymail%2Fhome+%28Home+%7C+Mail+Online%29)
+3. [IOL](http://www.iol.co.za/index.php?from=rss_Discovery&set_id=1&click_id=588&art_id=nw20100527103643287C120664)
+4. [News24.com](http://www.news24.com/Africa/News/Britons-return-Libyan-antiquities-20100527)
 
 ### Related:
 

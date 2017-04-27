@@ -7,9 +7,9 @@ A government minister apologised on Monday after he appeared to suggest that cro
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/politics/2010/jun/28/jeremy-hunt-hillsborough-gaffe-apology)
-2. [BBC](http://news.bbc.co.uk/2/hi/uk/10441575.stm)
-3. [Reuters](http://uk.reuters.com/article/idUKTRE65R3IS20100628)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk/10441575.stm)
+2. [Reuters](http://uk.reuters.com/article/idUKTRE65R3IS20100628)
+3. [The Guardian](http://www.guardian.co.uk/politics/2010/jun/28/jeremy-hunt-hillsborough-gaffe-apology)
 
 ### Related:
 

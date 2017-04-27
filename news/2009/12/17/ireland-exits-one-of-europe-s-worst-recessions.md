@@ -7,9 +7,9 @@ GDP grew slightly during the third quarter but the Central Statistics Office (CS
 
 ### Source:
 
-1. [France 24](http://www.france24.com/en/node/4950596)
-2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1217/breaking35.htm)
-3. [BBC](http://news.bbc.co.uk/2/hi/business/8417611.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/business/8417611.stm)
+2. [France 24](http://www.france24.com/en/node/4950596)
+3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1217/breaking35.htm)
 
 ### Related:
 

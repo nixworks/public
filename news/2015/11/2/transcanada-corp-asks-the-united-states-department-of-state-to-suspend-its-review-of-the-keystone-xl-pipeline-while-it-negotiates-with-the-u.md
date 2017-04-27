@@ -7,8 +7,8 @@ Faced with dimming prospects for approval, the Canadian company behind the propo
 
 ### Source:
 
-1. [The Globe and Mail](http://www.theglobeandmail.com/report-on-business/transcanada-requests-suspension-of-keystone-xl-permit-wsj/article27073904/)
-2. [Reuters](http://www.reuters.com/article/2015/11/03/us-transcanada-keystone-idUSKCN0SR2J320151103)
+1. [Reuters](http://www.reuters.com/article/2015/11/03/us-transcanada-keystone-idUSKCN0SR2J320151103)
+2. [The Globe and Mail](http://www.theglobeandmail.com/report-on-business/transcanada-requests-suspension-of-keystone-xl-permit-wsj/article27073904/)
 
 ### Related:
 

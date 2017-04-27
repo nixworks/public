@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [People's Daily](http://english.people.com.cn/90001/90777/90855/6818974.html)
-2. [Times LIVE](http://www.timeslive.co.za/news/africa/article202816.ece)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8370875.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8370875.stm)
+2. [People's Daily](http://english.people.com.cn/90001/90777/90855/6818974.html)
+3. [Times LIVE](http://www.timeslive.co.za/news/africa/article202816.ece)
 
 ### Related:
 

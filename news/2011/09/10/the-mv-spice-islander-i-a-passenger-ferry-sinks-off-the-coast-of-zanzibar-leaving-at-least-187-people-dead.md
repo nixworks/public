@@ -7,8 +7,8 @@ At least 187 people are killed, but 620 are rescued after a ship carrying at lea
 
 ### Source:
 
-1. [Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/tanzania/8754213/350-missing-as-ferry-capsizes-in-Tanzania.html)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-14864400)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-14864400)
+2. [Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/tanzania/8754213/350-missing-as-ferry-capsizes-in-Tanzania.html)
 
 ### Related:
 

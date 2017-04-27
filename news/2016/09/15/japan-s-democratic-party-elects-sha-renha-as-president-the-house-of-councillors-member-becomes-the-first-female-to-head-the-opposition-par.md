@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The New York Times](http://mobile.nytimes.com/2016/09/16/world/asia/japan-renho-murata-democratic-party.html)
-2. [The Japan Times](http://the-japan-news.com/news/article/0003216812)
+1. [The Japan Times](http://the-japan-news.com/news/article/0003216812)
+2. [The New York Times](http://mobile.nytimes.com/2016/09/16/world/asia/japan-renho-murata-democratic-party.html)
 
 ### Related:
 

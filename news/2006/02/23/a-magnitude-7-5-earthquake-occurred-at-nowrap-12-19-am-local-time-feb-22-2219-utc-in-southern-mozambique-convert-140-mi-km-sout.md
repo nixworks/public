@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USGS](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/usjlca.php)
-2. [AP](http://www.forbes.com/technology/feeds/ap/2006/02/23/ap2548300.html)
+1. [AP](http://www.forbes.com/technology/feeds/ap/2006/02/23/ap2548300.html)
+2. [USGS](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/usjlca.php)
 
 ### Related:
 

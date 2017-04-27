@@ -7,8 +7,8 @@ The Supreme Court dismisses a bid by WikiLeaks founder Julian Assange to reopen 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-18446295)
-2. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/06/201261416143994495.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/06/201261416143994495.html)
+2. [BBC](http://www.bbc.co.uk/news/world-18446295)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Gunmen walked into a Shiite mosque in the Afghan capital on Tuesday and opened f
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Top_News/World-News/2016/10/11/At-least-14-killed-by-gunmen-in-Kabul-mosque-at-start-of-Ashura/9921476204127/?spt=hs&or=tn_int)
-2. [Reuters](http://www.reuters.com/article/us-afghanistan-attacks-idUSKCN12B2E1)
+1. [Reuters](http://www.reuters.com/article/us-afghanistan-attacks-idUSKCN12B2E1)
+2. [UPI](http://www.upi.com/Top_News/World-News/2016/10/11/At-least-14-killed-by-gunmen-in-Kabul-mosque-at-start-of-Ashura/9921476204127/?spt=hs&or=tn_int)
 
 ### Related:
 

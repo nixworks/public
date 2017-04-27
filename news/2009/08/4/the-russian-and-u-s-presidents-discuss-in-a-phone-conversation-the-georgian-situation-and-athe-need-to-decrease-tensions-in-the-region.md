@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [Rustavi2](http://rustavi2.com/news/news_text.php?id_news=33020&pg=1&im=main&ct=0&wth=)
-2. [Civil](http://www.civil.ge/eng/article.php?id=21331)
-3. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jEiy78W9ItqeJtR-QG_72065oWnQ)
-4. [Civil](http://www.civil.ge/eng/article.php?id=21330)
-5. [Rustavi 2](http://rustavi2.com/news/news_text.php?id_news=33033&pg=1&im=main&ct=0&wth=)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jEiy78W9ItqeJtR-QG_72065oWnQ)
+2. [Civil](http://www.civil.ge/eng/article.php?id=21330)
+3. [Civil](http://www.civil.ge/eng/article.php?id=21331)
+4. [Rustavi 2](http://rustavi2.com/news/news_text.php?id_news=33033&pg=1&im=main&ct=0&wth=)
+5. [Rustavi2](http://rustavi2.com/news/news_text.php?id_news=33020&pg=1&im=main&ct=0&wth=)
 
 ### Related:
 

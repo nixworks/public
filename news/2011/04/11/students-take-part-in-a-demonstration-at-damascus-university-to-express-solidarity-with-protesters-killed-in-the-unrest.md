@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Press TV](http://www.presstv.ir/detail/174298.html)
+1. [Al Bawaba](http://www1.albawaba.com/node/368736)
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/2011411143055997548.html)
-3. [Al Bawaba](http://www1.albawaba.com/node/368736)
-4. [Haaretz](http://www.haaretz.com/news/international/student-killed-after-syria-forces-attack-damascus-university-protest-1.355380)
+3. [Haaretz](http://www.haaretz.com/news/international/student-killed-after-syria-forces-attack-damascus-university-protest-1.355380)
+4. [Press TV](http://www.presstv.ir/detail/174298.html)
 
 ### Related:
 

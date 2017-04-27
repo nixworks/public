@@ -7,8 +7,8 @@ Thai riot police clashed with protesters in the capital on Tuesday, injuring 69 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE4957GT20081007)
-2. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7658245.stm)
+1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7658245.stm)
+2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE4957GT20081007)
 
 ### Related:
 

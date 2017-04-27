@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/aponline/2009/12/27/world/AP-Piracy.html)
-2. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/12/2009122845026554844.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/12/2009122845026554844.html)
+2. [The New York Times](http://www.nytimes.com/aponline/2009/12/27/world/AP-Piracy.html)
 
 ### Related:
 

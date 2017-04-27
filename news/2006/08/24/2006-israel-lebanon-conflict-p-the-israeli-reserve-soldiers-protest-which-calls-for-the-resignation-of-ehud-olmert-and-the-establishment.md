@@ -7,12 +7,12 @@ Reservists hold rally outside PM’s Office in Jerusalem, call on Olmert, Peretz
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/5283660.stm)
-2. [Al Jazeera](http://english.aljazeera.net/NR/exeres/880D485C-1805-44CE-9D17-AF64D6E375F9.htm)
-3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3295083,00.html)
-4. [Human Rights Watch](http://hrw.org/english/docs/2006/08/17/lebano14026.htm)
-5. [Al Jazeera](http://english.aljazeera.net/NR/exeres/4FA4A2BE-2A7D-479E-A480-95E8E9F0D095.htm)
-6. [AFP via Al Nahar](http://www.naharnet.com/domino/tn/NewsDesk.nsf/getstory?openform&44DCCE0B33BC4AA1C22571D4005B0AB2)
+1. [AFP via Al Nahar](http://www.naharnet.com/domino/tn/NewsDesk.nsf/getstory?openform&44DCCE0B33BC4AA1C22571D4005B0AB2)
+2. [Al Jazeera](http://english.aljazeera.net/NR/exeres/4FA4A2BE-2A7D-479E-A480-95E8E9F0D095.htm)
+3. [Al Jazeera](http://english.aljazeera.net/NR/exeres/880D485C-1805-44CE-9D17-AF64D6E375F9.htm)
+4. [BBC](http://news.bbc.co.uk/1/hi/world/europe/5283660.stm)
+5. [Human Rights Watch](http://hrw.org/english/docs/2006/08/17/lebano14026.htm)
+6. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3295083,00.html)
 
 ### Related:
 

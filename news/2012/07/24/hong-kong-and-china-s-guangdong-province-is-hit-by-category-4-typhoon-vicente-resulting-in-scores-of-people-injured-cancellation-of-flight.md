@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/07/24/us-hongkong-typhoon-idUSBRE86N02620120724)
-2. [AAP via ''Herald Sun](http://www.heraldsun.com.au/news/breaking-news/hong-kong-battens-down-for-typhoon/story-e6frf7k6-1226433447412)
+1. [AAP via ''Herald Sun](http://www.heraldsun.com.au/news/breaking-news/hong-kong-battens-down-for-typhoon/story-e6frf7k6-1226433447412)
+2. [Reuters](http://www.reuters.com/article/2012/07/24/us-hongkong-typhoon-idUSBRE86N02620120724)
 
 ### Related:
 

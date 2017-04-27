@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USA Today|AP](http://www.usatoday.com/news/world/2005-01-08-sub_x.htm)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/4157517.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4157517.stm)
+2. [USA Today|AP](http://www.usatoday.com/news/world/2005-01-08-sub_x.htm)
 
 ### Related:
 

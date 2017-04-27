@@ -7,19 +7,19 @@ China on Tuesday summoned the Japanese Ambassador here and warned it would take 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/09/11/us-japan-china-idUSBRE88A1K820120911)
-2. [Xinhua](http://news.xinhuanet.com/english/china/2012-09/11/c_131842695.htm)
-3. [Daily Yomiuri](http://www.yomiuri.co.jp/dy/national/T120911004030.htm)
-4. [CNA via ''Focus Taiwan](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?Type=aALL&ID=201209110006)
-5. [Asahi Shimbun](http://ajw.asahi.com/article/behind_news/politics/AJ201208200068)
+1. [Asahi Shimbun](http://ajw.asahi.com/article/behind_news/politics/AJ201208200068)
+2. [Bloomberg](http://www.bloomberg.com/news/2012-09-10/china-summons-japan-ambassador-to-protest-islands-sovereignty.html)
+3. [CNA via ''Focus Taiwan](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?Type=aALL&ID=201209110006)
+4. [CNN](http://edition.cnn.com/2012/09/11/world/asia/china-japan-islands-dispute/index.html?eref=edition)
+5. [Daily Yomiuri](http://www.yomiuri.co.jp/dy/national/T120911004030.htm)
 6. [Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120911p2g00m0dm074000c.html)
-7. [The Japan Times](http://www.japantimes.co.jp/text/nn20120911x1.html)
-8. [Bloomberg](http://www.bloomberg.com/news/2012-09-10/china-summons-japan-ambassador-to-protest-islands-sovereignty.html)
-9. [The Japan Times](http://www.japantimes.co.jp/text/nn20120911a3.html)
-10. [Xinhua](http://news.xinhuanet.com/english/china/2012-09/11/c_131843507.htm)
-11. [The Hindu](http://www.thehindu.com/news/international/article3885997.ece)
-12. [CNN](http://edition.cnn.com/2012/09/11/world/asia/china-japan-islands-dispute/index.html?eref=edition)
-13. [RTTNews](http://www.rttnews.com/1962947/japan-nationalizes-disputed-islands-in-east-china-sea.aspx?type=pn&utm_source=google&utm_campaign=sitemap)
+7. [RTTNews](http://www.rttnews.com/1962947/japan-nationalizes-disputed-islands-in-east-china-sea.aspx?type=pn&utm_source=google&utm_campaign=sitemap)
+8. [Reuters](http://www.reuters.com/article/2012/09/11/us-japan-china-idUSBRE88A1K820120911)
+9. [The Hindu](http://www.thehindu.com/news/international/article3885997.ece)
+10. [The Japan Times](http://www.japantimes.co.jp/text/nn20120911a3.html)
+11. [The Japan Times](http://www.japantimes.co.jp/text/nn20120911x1.html)
+12. [Xinhua](http://news.xinhuanet.com/english/china/2012-09/11/c_131842695.htm)
+13. [Xinhua](http://news.xinhuanet.com/english/china/2012-09/11/c_131843507.htm)
 
 ### Related:
 

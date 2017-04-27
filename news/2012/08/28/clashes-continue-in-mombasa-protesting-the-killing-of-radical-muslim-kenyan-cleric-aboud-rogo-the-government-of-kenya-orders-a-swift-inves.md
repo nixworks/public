@@ -7,8 +7,8 @@ Two Kenyan police officers and a civilian were killed when rioters hurled a gren
 
 ### Source:
 
-1. [coastweek.com](http://www.coastweek.com/3534_rogo_04.htm)
-2. [Reuters](http://www.reuters.com/article/2012/08/28/uk-kenya-riots-idUSLNE87Q01020120828)
+1. [Reuters](http://www.reuters.com/article/2012/08/28/uk-kenya-riots-idUSLNE87Q01020120828)
+2. [coastweek.com](http://www.coastweek.com/3534_rogo_04.htm)
 
 ### Related:
 

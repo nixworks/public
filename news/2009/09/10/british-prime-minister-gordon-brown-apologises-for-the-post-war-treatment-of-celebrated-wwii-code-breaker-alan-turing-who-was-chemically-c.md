@@ -7,11 +7,11 @@ British Prime Minister Gordon Brown apologized Friday for the &quot;inhumane&quo
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/6170089/Gordon-Brown-issues-posthumous-apology-to-Bletchley-Park-codebreaker.html)
-2. [The New York Times](http://www.nytimes.com/2009/09/11/world/europe/11briefs-turingbrf.html?_r=1)
+1. [CBC](http://www.cbc.ca/technology/story/2009/09/11/brown-turing-apology011.html)
+2. [Downing St](http://www.number10.gov.uk/Page20571)
 3. [Reuters India](http://in.reuters.com/article/entertainmentNews/idINIndia-42388920090911)
-4. [CBC](http://www.cbc.ca/technology/story/2009/09/11/brown-turing-apology011.html)
-5. [Downing St](http://www.number10.gov.uk/Page20571)
+4. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/6170089/Gordon-Brown-issues-posthumous-apology-to-Bletchley-Park-codebreaker.html)
+5. [The New York Times](http://www.nytimes.com/2009/09/11/world/europe/11briefs-turingbrf.html?_r=1)
 
 ### Related:
 

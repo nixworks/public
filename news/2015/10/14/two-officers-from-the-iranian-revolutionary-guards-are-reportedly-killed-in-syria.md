@@ -7,8 +7,8 @@ Troops have joined the Syrian regime&#039;s military forces and Hizbollah allies
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/10/14/us-mideast-crisis-usa-russia-idUSKCN0S82GH20151014?feedType=RSS&feedName=newsOne&google_editors_picks=true)
-2. [Al Arabiya](http://english.alarabiya.net/en/News/middle-east/2015/10/14/Two-Iranian-Revolutionary-Guards-officers-reportedly-killed-in-Syria-.html)
+1. [Al Arabiya](http://english.alarabiya.net/en/News/middle-east/2015/10/14/Two-Iranian-Revolutionary-Guards-officers-reportedly-killed-in-Syria-.html)
+2. [Reuters](http://www.reuters.com/article/2015/10/14/us-mideast-crisis-usa-russia-idUSKCN0S82GH20151014?feedType=RSS&feedName=newsOne&google_editors_picks=true)
 3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/11930415/Thousands-of-Iranian-troops-arrive-in-Syria-for-Aleppo-offensive.html)
 
 ### Related:

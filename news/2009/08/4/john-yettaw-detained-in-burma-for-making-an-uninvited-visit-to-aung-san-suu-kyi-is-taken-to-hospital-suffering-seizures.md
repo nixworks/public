@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/08/04/yettaw.hospitalized/)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jqswjMyad1iFY58_U_hI5WrmWGZw)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8182774.stm)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jqswjMyad1iFY58_U_hI5WrmWGZw)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8182774.stm)
+3. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/08/04/yettaw.hospitalized/)
 
 ### Related:
 

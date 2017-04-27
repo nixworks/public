@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4465411.stm)
-2. [The Standard](http://www.thestandard.com.hk/stdn/std/World/GD20Wd04.html)
-3. [CNA](http://www.channelnewsasia.com/stories/singaporelocalnews/view/143548/1/.html)
+2. [CNA](http://www.channelnewsasia.com/stories/singaporelocalnews/view/143548/1/.html)
+3. [The Standard](http://www.thestandard.com.hk/stdn/std/World/GD20Wd04.html)
 
 ### Related:
 

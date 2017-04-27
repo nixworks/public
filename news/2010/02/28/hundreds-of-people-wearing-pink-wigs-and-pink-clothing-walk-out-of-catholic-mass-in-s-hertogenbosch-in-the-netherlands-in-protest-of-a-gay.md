@@ -7,8 +7,8 @@ Hundreds of people walked out of a Catholic church in the Netherlands Sunday to 
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Top_News/International/2010/02/28/Communion-dispute-sparks-protest/UPI-58151267406021/)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/8542285.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8542285.stm)
+2. [UPI](http://www.upi.com/Top_News/International/2010/02/28/Communion-dispute-sparks-protest/UPI-58151267406021/)
 
 ### Related:
 

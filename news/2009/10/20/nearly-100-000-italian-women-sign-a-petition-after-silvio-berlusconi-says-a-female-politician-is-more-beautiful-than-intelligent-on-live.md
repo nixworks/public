@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/newsOne/idUSTRE59J3F520091020)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/8317397.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8317397.stm)
+2. [Reuters](http://www.reuters.com/article/newsOne/idUSTRE59J3F520091020)
 
 ### Related:
 

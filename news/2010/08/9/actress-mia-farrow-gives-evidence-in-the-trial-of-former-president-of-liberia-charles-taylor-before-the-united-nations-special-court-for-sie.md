@@ -7,9 +7,9 @@ Noami Campbell&#039;s former agent, is to take the stand in The Hague at the war
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/world/europe/witnesses-contradict-campbells-diamond-evidence-2047508.html)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-10917347)
-3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/liberia/7934063/Charles-Taylor-war-crimes-trial-as-it-happens.html)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-10917347)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/liberia/7934063/Charles-Taylor-war-crimes-trial-as-it-happens.html)
+3. [The Independent](http://www.independent.co.uk/news/world/europe/witnesses-contradict-campbells-diamond-evidence-2047508.html)
 
 ### Related:
 

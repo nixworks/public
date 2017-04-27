@@ -7,8 +7,8 @@ A powerful storm battered Northern California with torrential rains and widespre
 
 ### Source:
 
-1. [LA Times](http://www.latimes.com/news/science/la-me-storm1jan01,1,7398730.story?coll=la-news-science)
-2. [AP via Yahoo!](http://news.yahoo.com/s/ap/20060101/ap_on_re_us/western_storms;_ylt=An3Qgc8icbPJv_QotYovzU5vzwcF;_ylu=X3oDMTA5aHJvMDdwBHNlYwN5bmNhdA--)
+1. [AP via Yahoo!](http://news.yahoo.com/s/ap/20060101/ap_on_re_us/western_storms;_ylt=An3Qgc8icbPJv_QotYovzU5vzwcF;_ylu=X3oDMTA5aHJvMDdwBHNlYwN5bmNhdA--)
+2. [LA Times](http://www.latimes.com/news/science/la-me-storm1jan01,1,7398730.story?coll=la-news-science)
 
 ### Related:
 

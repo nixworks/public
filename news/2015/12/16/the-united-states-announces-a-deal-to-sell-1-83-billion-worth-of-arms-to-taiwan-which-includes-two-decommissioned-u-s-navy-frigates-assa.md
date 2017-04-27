@@ -7,9 +7,9 @@ The Obama administration has announced a $1.83bn (£1.22bn) arms sale to Taiwan,
 
 ### Source:
 
-1. [Financial Times](http://www.ft.com/intl/cms/s/0/a5fa0b54-a424-11e5-873f-68411a84f346.html)
-2. [RT](https://www.rt.com/usa/326164-taiwan-weapons-china-angry/)
-3. [BBC News](http://www.bbc.com/news/world-us-canada-35115507?)
+1. [BBC News](http://www.bbc.com/news/world-us-canada-35115507?)
+2. [Financial Times](http://www.ft.com/intl/cms/s/0/a5fa0b54-a424-11e5-873f-68411a84f346.html)
+3. [RT](https://www.rt.com/usa/326164-taiwan-weapons-china-angry/)
 
 ### Related:
 

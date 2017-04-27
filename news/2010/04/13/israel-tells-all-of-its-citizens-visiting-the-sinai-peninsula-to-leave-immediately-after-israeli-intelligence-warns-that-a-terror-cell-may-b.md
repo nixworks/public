@@ -7,8 +7,8 @@ Israel on Tuesday night issued an urgent warning of impending terrorist attacks 
 
 ### Source:
 
-1. [Yahoo! News](http://news.yahoo.com/s/ap/20100413/ap_on_re_mi_ea/ml_israel_egypt)
-2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/egypt/7587223/Israel-issues-urgent-warning-of-terrorist-attacks-in-Sinai.html)
+1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/egypt/7587223/Israel-issues-urgent-warning-of-terrorist-attacks-in-Sinai.html)
+2. [Yahoo! News](http://news.yahoo.com/s/ap/20100413/ap_on_re_mi_ea/ml_israel_egypt)
 
 ### Related:
 

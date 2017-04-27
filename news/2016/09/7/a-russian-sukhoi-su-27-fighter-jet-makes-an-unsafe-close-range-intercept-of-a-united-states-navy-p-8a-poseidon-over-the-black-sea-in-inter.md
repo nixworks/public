@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Voice of America](http://www.voanews.com/a/us-accuses-rusia-aerial-intercept-black-sea/3497831.html)
-2. [CNN](http://edition.cnn.com/2016/09/07/politics/russia-us-jet-intercept/index.html)
+1. [CNN](http://edition.cnn.com/2016/09/07/politics/russia-us-jet-intercept/index.html)
+2. [Voice of America](http://www.voanews.com/a/us-accuses-rusia-aerial-intercept-black-sea/3497831.html)
 
 ### Related:
 

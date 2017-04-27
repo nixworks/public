@@ -7,8 +7,8 @@ It is the first major assault since the government and communist rebels agreed t
 
 ### Source:
 
-1. [Philippine Star](http://www.philstar.com/Article.aspx?articleId=651003&publicationSubCategoryId=200)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/01/201112483340318856.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/01/201112483340318856.html)
+2. [Philippine Star](http://www.philstar.com/Article.aspx?articleId=651003&publicationSubCategoryId=200)
 
 ### Related:
 

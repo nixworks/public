@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L17692324.htm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4553757.stm)
 2. [Moscow Times](http://www.themoscowtimes.com/stories/2005/05/18/012.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/europe/4553757.stm)
+3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L17692324.htm)
 
 ### Related:
 

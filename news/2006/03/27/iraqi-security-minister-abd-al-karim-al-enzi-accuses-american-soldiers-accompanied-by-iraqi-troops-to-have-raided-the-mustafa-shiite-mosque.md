@@ -7,8 +7,8 @@ News and opinion from The Times &amp; The Sunday Times
 
 ### Source:
 
-1. [Times](http://www.timesonline.co.uk/article/0,,7374-2106068,00.html)
-2. [Palestine Chronicle](http://www.palestinechronicle.com/story.php?sid=033106220004)
+1. [Palestine Chronicle](http://www.palestinechronicle.com/story.php?sid=033106220004)
+2. [Times](http://www.timesonline.co.uk/article/0,,7374-2106068,00.html)
 
 ### Related:
 

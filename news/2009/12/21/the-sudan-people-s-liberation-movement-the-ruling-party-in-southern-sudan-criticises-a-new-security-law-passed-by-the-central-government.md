@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sudan Tribune](http://www.sudantribune.com/spip.php?article33534)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8424201.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8424201.stm)
+2. [Sudan Tribune](http://www.sudantribune.com/spip.php?article33534)
 
 ### Related:
 

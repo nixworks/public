@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Times Live](http://www.timeslive.co.za/world/article857182.ece/Vietnams-two-top-leaders-step-down)
-2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5g3FZQAnyy9nQYsSvvpzlYX02iwag?docId=36acba63a7614e05b13f6a463dedf37b)
+1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5g3FZQAnyy9nQYsSvvpzlYX02iwag?docId=36acba63a7614e05b13f6a463dedf37b)
+2. [Times Live](http://www.timeslive.co.za/world/article857182.ece/Vietnams-two-top-leaders-step-down)
 
 ### Related:
 

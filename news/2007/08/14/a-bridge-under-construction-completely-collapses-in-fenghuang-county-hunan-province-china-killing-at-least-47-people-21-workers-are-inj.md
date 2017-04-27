@@ -8,8 +8,8 @@
 ### Source:
 
 1. [ChinaDaily](http://www.chinadaily.com.cn/china/2007-08/17/content_6032581.htm)
-2. [Yahoo](http://news.yahoo.com/s/ap/20070815/ap_on_re_as/china_bridge_collapse;_ylt=ApYiPc3.r98hhpWMJ6dUXwMBxg8F)
-3. [Xinhua](http://news.xinhuanet.com/newscenter/2007-08/16/content_6545045.htm)
+2. [Xinhua](http://news.xinhuanet.com/newscenter/2007-08/16/content_6545045.htm)
+3. [Yahoo](http://news.yahoo.com/s/ap/20070815/ap_on_re_as/china_bridge_collapse;_ylt=ApYiPc3.r98hhpWMJ6dUXwMBxg8F)
 
 ### Related:
 

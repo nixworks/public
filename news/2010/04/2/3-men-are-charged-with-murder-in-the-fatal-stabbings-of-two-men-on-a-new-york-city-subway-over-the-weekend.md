@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [CKOY](http://www.kcoy.com/global/story.asp?s=12245955)
-2. [AP](http://www.boston.com/news/nation/articles/2010/04/02/3_charged_with_murder_in_fatal_ny_subway_stabbings/)
-3. [The New York Times](http://www.nytimes.com/aponline/2010/04/02/us/AP-US-Subway-Stabbings.html)
-4. [CBS](http://www.cbsnews.com/stories/2010/04/02/ap/national/main6355951.shtml)
+1. [AP](http://www.boston.com/news/nation/articles/2010/04/02/3_charged_with_murder_in_fatal_ny_subway_stabbings/)
+2. [CBS](http://www.cbsnews.com/stories/2010/04/02/ap/national/main6355951.shtml)
+3. [CKOY](http://www.kcoy.com/global/story.asp?s=12245955)
+4. [The New York Times](http://www.nytimes.com/aponline/2010/04/02/us/AP-US-Subway-Stabbings.html)
 
 ### Related:
 

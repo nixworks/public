@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [The Mercury](http://www.themercury.co.za/?fSectionId=3535&fArticleId=vn20100811072840743C433618&fFeed=sportnews)
-2. [BBC Sport](http://news.bbc.co.uk/sport2/hi/athletics/8901613.stm)
+1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/athletics/8901613.stm)
+2. [Herald Sun](http://www.heraldsun.com.au/sport/athletics/usain-bolt-out-for-rest-of-year/story-e6frfgkx-1225903728647)
 3. [Jamaica Observer](http://www.jamaicaobserver.com/Bolt-pulls-plug-on-2010-season_7870568)
-4. [Herald Sun](http://www.heraldsun.com.au/sport/athletics/usain-bolt-out-for-rest-of-year/story-e6frfgkx-1225903728647)
+4. [The Mercury](http://www.themercury.co.za/?fSectionId=3535&fArticleId=vn20100811072840743C433618&fFeed=sportnews)
 
 ### Related:
 

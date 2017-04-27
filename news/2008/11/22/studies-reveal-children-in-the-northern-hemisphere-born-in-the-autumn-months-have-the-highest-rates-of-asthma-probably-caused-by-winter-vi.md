@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [U.S. News & World Report](http://health.usnews.com/articles/health/healthday/2008/11/21/autumn-babies-more-prone-to-asthma.html)
-2. [AJRCCM study](http://dx.doi.org/10.1164/rccm.200804-579OC)
+1. [AJRCCM study](http://dx.doi.org/10.1164/rccm.200804-579OC)
+2. [U.S. News & World Report](http://health.usnews.com/articles/health/healthday/2008/11/21/autumn-babies-more-prone-to-asthma.html)
 
 ### Related:
 

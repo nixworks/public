@@ -8,8 +8,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4495975.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8340185)
-3. [Periodico26](http://www.periodico26.cu/english_new/cuba/chavez280405.htm)
+2. [Periodico26](http://www.periodico26.cu/english_new/cuba/chavez280405.htm)
+3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8340185)
 
 ### Related:
 

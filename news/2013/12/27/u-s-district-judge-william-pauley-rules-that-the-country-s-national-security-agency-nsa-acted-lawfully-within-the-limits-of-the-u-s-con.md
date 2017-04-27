@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NBC](http://usnews.nbcnews.com/_news/2013/12/27/22072205-new-york-federal-judge-rules-nsa-phone-surveillance-is-legal?lite)
-2. [CNN](http://www.cnn.com/2013/12/27/justice/nsa-ruling/index.html)
+1. [CNN](http://www.cnn.com/2013/12/27/justice/nsa-ruling/index.html)
+2. [NBC](http://usnews.nbcnews.com/_news/2013/12/27/22072205-new-york-federal-judge-rules-nsa-phone-surveillance-is-legal?lite)
 
 ### Related:
 

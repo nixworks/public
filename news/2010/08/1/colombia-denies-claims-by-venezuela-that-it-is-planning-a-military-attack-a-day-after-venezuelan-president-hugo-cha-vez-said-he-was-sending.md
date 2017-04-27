@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/01/c_13424953.htm)
-2. [CNN](http://edition.cnn.com/2010/WORLD/americas/08/01/venezuela.colombia.troops/#fbid=Dxrzb6Q-4_O)
+1. [CNN](http://edition.cnn.com/2010/WORLD/americas/08/01/venezuela.colombia.troops/#fbid=Dxrzb6Q-4_O)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/01/c_13424953.htm)
 
 ### Related:
 

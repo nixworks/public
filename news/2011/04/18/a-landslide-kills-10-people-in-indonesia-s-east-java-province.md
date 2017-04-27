@@ -7,8 +7,8 @@ A landslide killed at least 10 people and injured seven in Indonesia’s East Ja
 
 ### Source:
 
-1. [The Hindu](http://www.thehindu.com/news/international/article1705923.ece)
-2. [Jakarta Post](http://www.thejakartaglobe.com/home/landslide-kills-10-in-east-java/436054)
+1. [Jakarta Post](http://www.thejakartaglobe.com/home/landslide-kills-10-in-east-java/436054)
+2. [The Hindu](http://www.thehindu.com/news/international/article1705923.ece)
 
 ### Related:
 

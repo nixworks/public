@@ -7,8 +7,8 @@ The conservative Republican&#x27;s days in office could be numbered as the state
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/news/us-news/impeachment-hearings-alabama-love-gov-begin-n744646)
-2. [Business Insider](http://www.businessinsider.com/robert-bentley-alabama-governor-jail-resigning-impeachment-2017-4)
+1. [Business Insider](http://www.businessinsider.com/robert-bentley-alabama-governor-jail-resigning-impeachment-2017-4)
+2. [NBC News](http://www.nbcnews.com/news/us-news/impeachment-hearings-alabama-love-gov-begin-n744646)
 3. [WHNT](http://whnt.com/2017/04/10/lt-gov-kay-ivey-to-become-alabamas-second-female-governor/)
 
 ### Related:

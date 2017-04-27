@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-05-05T133350Z_01_MCC548781_RTRUKOC_0_KAZAKHSTAN-NEWSPAPER.xml)
-2. [PolitInfo](http://www.politinfo.com/articles/article_2005_05_5_4735.html)
+1. [PolitInfo](http://www.politinfo.com/articles/article_2005_05_5_4735.html)
+2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-05-05T133350Z_01_MCC548781_RTRUKOC_0_KAZAKHSTAN-NEWSPAPER.xml)
 
 ### Related:
 

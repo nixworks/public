@@ -9,8 +9,8 @@ Al Jazeera demands information from Syria on whereabouts of journalist missing s
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/20115211460620208.html)
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/201152182235900733.html)
-3. [The Australian](http://www.theaustralian.com.au/news/world/hundreds-arrested-in-syria-sweep/story-e6frg6so-1226048141796)
-4. [Herald Sun](http://www.heraldsun.com.au/news/world/russia-china-act-as-roadblocks-to-un-action-against-syria-as-internal-support-for-the-baath-party-crumbles/story-e6frf7lf-1226046248969)
+3. [Herald Sun](http://www.heraldsun.com.au/news/world/russia-china-act-as-roadblocks-to-un-action-against-syria-as-internal-support-for-the-baath-party-crumbles/story-e6frf7lf-1226046248969)
+4. [The Australian](http://www.theaustralian.com.au/news/world/hundreds-arrested-in-syria-sweep/story-e6frg6so-1226048141796)
 
 ### Related:
 

@@ -8,8 +8,8 @@ Two minor earthquakes, measuring 1.5 and 1.7 on the Richter scale, have occurred
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/foyle_and_west/8484078.stm)
-2. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2010/0109/1224261976932.html?via=mr)
-3. [RTÉ](http://www.rte.ie/news/2010/0127/donegal.html)
+2. [RTÉ](http://www.rte.ie/news/2010/0127/donegal.html)
+3. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2010/0109/1224261976932.html?via=mr)
 
 ### Related:
 

@@ -7,10 +7,10 @@ Residents blame aluminium company for toxic spill that killed four people and de
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-11498884)
-2. [Sky News](http://news.sky.com/skynews/Home/World-News/Five-People-Now-Dead-In-Hungarian-Red-Sludge-Spill-Which-Is-As-Large-As-BP-Oil-Disaster/Article/201010215754376?lpos=World_News_Carousel_Region_0&lid=ARTICLE_15754376_Five_People_Now_Dead_In_Hungarian_Red_Sludge_Spill_Which_Is_As_Large_As_BP_Oil_Disaster_)
-3. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/10/2010108101937223371.html)
-4. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/10/2010108410145825.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/10/2010108101937223371.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/10/2010108410145825.html)
+3. [BBC](http://www.bbc.co.uk/news/world-europe-11498884)
+4. [Sky News](http://news.sky.com/skynews/Home/World-News/Five-People-Now-Dead-In-Hungarian-Red-Sludge-Spill-Which-Is-As-Large-As-BP-Oil-Disaster/Article/201010215754376?lpos=World_News_Carousel_Region_0&lid=ARTICLE_15754376_Five_People_Now_Dead_In_Hungarian_Red_Sludge_Spill_Which_Is_As_Large_As_BP_Oil_Disaster_)
 
 ### Related:
 

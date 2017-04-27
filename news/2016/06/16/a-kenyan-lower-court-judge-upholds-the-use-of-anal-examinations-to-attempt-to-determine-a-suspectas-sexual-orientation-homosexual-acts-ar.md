@@ -7,8 +7,8 @@ MOMBASA, Kenya (AP) — A Kenyan court on Thursday upheld the use of anal examin
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/news/worldviews/wp/2016/06/16/kenyan-court-rules-anal-exams-to-test-sexual-orientation-are-legal/)
-2. [AP](http://www.bigstory.ap.org/article/9e8b0edfbca54b08b70dfde154306c31/kenya-judge-upholds-use-anal-probes-define-sexuality)
+1. [AP](http://www.bigstory.ap.org/article/9e8b0edfbca54b08b70dfde154306c31/kenya-judge-upholds-use-anal-probes-define-sexuality)
+2. [The Washington Post](https://www.washingtonpost.com/news/worldviews/wp/2016/06/16/kenyan-court-rules-anal-exams-to-test-sexual-orientation-are-legal/)
 
 ### Related:
 

@@ -7,9 +7,9 @@ All the latest GAA News, Results &amp; Fixtures, brought to you as it happens, i
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/sports/gaa/2010/0919/1224279243109.html)
+1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/northern_ireland/gaelic_games/9011135.stm)
 2. [RTÉ Sport](http://www.rte.ie/sport/gaa/championship/2010/0919/cork_down1.html)
-3. [BBC Sport](http://news.bbc.co.uk/sport2/hi/northern_ireland/gaelic_games/9011135.stm)
+3. [The Irish Times](http://www.irishtimes.com/sports/gaa/2010/0919/1224279243109.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [China Daily](http://www.chinadaily.com.cn/english/doc/2005-03/21/content_426672.htm)
-2. [CNN](http://edition.cnn.com/2005/WORLD/asiapcf/03/20/rice.china/)
+1. [CNN](http://edition.cnn.com/2005/WORLD/asiapcf/03/20/rice.china/)
+2. [China Daily](http://www.chinadaily.com.cn/english/doc/2005-03/21/content_426672.htm)
 
 ### Related:
 

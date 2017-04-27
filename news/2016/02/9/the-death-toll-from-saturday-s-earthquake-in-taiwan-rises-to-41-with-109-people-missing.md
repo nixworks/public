@@ -7,9 +7,9 @@ A local court in the southern Taiwan city of Tainan ruled on Tuesday to take int
 
 ### Source:
 
-1. [Focus Taiwan](http://focustaiwan.tw/news/asoc/201602090009.aspx)
-2. [Reuters](http://in.reuters.com/article/quake-taiwan-arrest-warrant-developer-idINKCN0VI0E5)
-3. [AP via ''The Washington Post](https://www.washingtonpost.com/world/asia_pacific/developers-of-toppled-taiwan-building-detained/2016/02/09/d6b61188-cfa9-11e5-90d3-34c2c42653ac_story.html)
+1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/asia_pacific/developers-of-toppled-taiwan-building-detained/2016/02/09/d6b61188-cfa9-11e5-90d3-34c2c42653ac_story.html)
+2. [Focus Taiwan](http://focustaiwan.tw/news/asoc/201602090009.aspx)
+3. [Reuters](http://in.reuters.com/article/quake-taiwan-arrest-warrant-developer-idINKCN0VI0E5)
 
 ### Related:
 

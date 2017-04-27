@@ -7,10 +7,10 @@ Thai renegade general who was shot last week dies in hospital as Bangkok standof
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/world/story/2010/05/17/thailand-red-shirt-army.html)
-2. [Bangkok Post](http://www.bangkokpost.com/news/local/178205/reds-defy-deadline-rally-continues)
-3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/05/201051735137704967.html)
-4. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8685971.stm)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/05/201051735137704967.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8685971.stm)
+3. [Bangkok Post](http://www.bangkokpost.com/news/local/178205/reds-defy-deadline-rally-continues)
+4. [CBC](http://www.cbc.ca/world/story/2010/05/17/thailand-red-shirt-army.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/sports/soccer/2010-01-28-1024235142_x.htm)
-2. [magharebia.com](http://www.magharebia.com/cocoon/awi/xhtml1/en_GB/features/awi/articles/2010/01/28/feature-03)
-3. [BBC](http://news.bbc.co.uk/sport2/hi/football/africa/8483733.stm)
+1. [BBC](http://news.bbc.co.uk/sport2/hi/football/africa/8483733.stm)
+2. [USA Today](http://www.usatoday.com/sports/soccer/2010-01-28-1024235142_x.htm)
+3. [magharebia.com](http://www.magharebia.com/cocoon/awi/xhtml1/en_GB/features/awi/articles/2010/01/28/feature-03)
 
 ### Related:
 

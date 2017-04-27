@@ -7,9 +7,9 @@ The communist rebellion lives in the so-called Timber and Mining Corridor of the
 
 ### Source:
 
-1. [Rappler](http://www.rappler.com/newsbreak/in-depth/105272-lumad-eastern-mindanao-war)
-2. [Mindanao News](http://www.mindanews.com/top-stories/2015/09/09/4-year-old-lumad-bakwit-dies-house-senate-urge-probe-on-lumad-killings/)
-3. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/720733/4-year-old-girl-who-fled-from-surigao-sur-fighting-dies-of-asthma)
+1. [Mindanao News](http://www.mindanews.com/top-stories/2015/09/09/4-year-old-lumad-bakwit-dies-house-senate-urge-probe-on-lumad-killings/)
+2. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/720733/4-year-old-girl-who-fled-from-surigao-sur-fighting-dies-of-asthma)
+3. [Rappler](http://www.rappler.com/newsbreak/in-depth/105272-lumad-eastern-mindanao-war)
 
 ### Related:
 

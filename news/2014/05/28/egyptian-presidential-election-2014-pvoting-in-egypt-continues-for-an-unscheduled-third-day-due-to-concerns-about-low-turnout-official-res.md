@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-middle-east-27614776)
+1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-05-28-ML-Egypt/id-91132191d565478f9ce8a5662a32e214)
 2. [BBC](http://www.bbc.com/news/world-middle-east-27593509)
-3. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-05-28-ML-Egypt/id-91132191d565478f9ce8a5662a32e214)
+3. [BBC](http://www.bbc.com/news/world-middle-east-27614776)
 
 ### Related:
 

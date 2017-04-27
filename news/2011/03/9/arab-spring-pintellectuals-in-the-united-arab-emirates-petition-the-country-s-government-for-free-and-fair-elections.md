@@ -7,12 +7,12 @@ Mostly Shia protesters demand changes to naturalisation policy, which they say f
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/20113917595654981.html)
-2. [IOL](http://www.iol.co.za/news/africa/tunisia-disbands-party-of-ousted-president-1.1038723)
-3. [The National](http://www.thenational.ae/news/worldwide/middle-east/protests-over-citizenship-for-sunnis-from-abroad-shake-bahrain)
-4. [Al Arabiya](http://www.alarabiya.net/articles/2011/03/09/140866.html)
+1. [Al Arabiya](http://www.alarabiya.net/articles/2011/03/09/140866.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/03/201139204839521962.html)
+3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/20113917595654981.html)
+4. [IOL](http://www.iol.co.za/news/africa/tunisia-disbands-party-of-ousted-president-1.1038723)
 5. [New York Times](http://www.nytimes.com/reuters/2011/03/09/world/international-us-uae-petition.html?_r=1&ref=world)
-6. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/03/201139204839521962.html)
+6. [The National](http://www.thenational.ae/news/worldwide/middle-east/protests-over-citizenship-for-sunnis-from-abroad-shake-bahrain)
 
 ### Related:
 

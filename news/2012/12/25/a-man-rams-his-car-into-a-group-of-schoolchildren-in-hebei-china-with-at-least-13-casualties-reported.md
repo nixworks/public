@@ -8,9 +8,9 @@ A Chinese man has rammed his car into a group of schoolchildren and attempted to
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-20841390)
-2. [The New York Times](http://www.nytimes.com/2012/12/26/world/asia/chinese-driver-runs-down-students.html)
-3. [RTHK](http://rthk.hk/rthk/news/englishnews/20121225/news_20121225_56_891621.htm)
-4. [South China Morning Post](http://www.scmp.com/news/china/article/1112632/hebei-man-drives-car-students-injuring-13)
+2. [RTHK](http://rthk.hk/rthk/news/englishnews/20121225/news_20121225_56_891621.htm)
+3. [South China Morning Post](http://www.scmp.com/news/china/article/1112632/hebei-man-drives-car-students-injuring-13)
+4. [The New York Times](http://www.nytimes.com/2012/12/26/world/asia/chinese-driver-runs-down-students.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/africa/6627485.stm)
-2. [AP via USA Today](http://www.usatoday.com/news/world/2007-05-05-kenya-missing-plane_N.htm?csp=34)
+1. [AP via USA Today](http://www.usatoday.com/news/world/2007-05-05-kenya-missing-plane_N.htm?csp=34)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/6627485.stm)
 
 ### Related:
 

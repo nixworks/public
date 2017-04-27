@@ -8,8 +8,8 @@ Syria and its allies aim to drive rebels from Aleppo before Donald Trump takes o
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-airstrikes-idUSKBN13O15S?il=0)
-2. [The Guardian](http://guardian.ng/news/errors-led-to-coalition-strike-on-syria-forces-pentagon/)
-3. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-idUSKBN13O1SU)
+2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-idUSKBN13O1SU)
+3. [The Guardian](http://guardian.ng/news/errors-led-to-coalition-strike-on-syria-forces-pentagon/)
 
 ### Related:
 

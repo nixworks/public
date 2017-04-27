@@ -7,8 +7,8 @@ Powerful explosion hits Grozny but details on casualties remain unclear.
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/world/story/2010/06/30/chechnya-blast-grozny.html)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/06/2010630143814967221.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/06/2010630143814967221.html)
+2. [CBC](http://www.cbc.ca/world/story/2010/06/30/chechnya-blast-grozny.html)
 3. [RIA Novosti](http://en.rian.ru/russia/20100630/159641943.html)
 
 ### Related:

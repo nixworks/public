@@ -8,8 +8,8 @@ Fifa has given fines to both Holland and Spain for poor discipline during the Wo
 ### Source:
 
 1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/football/8881092.stm)
-2. [The Monitor'' - Uganda](http://www.monitor.co.ug/Sports/Soccer/-/690266/970244/-/14n7w6rz/-/index.html)
-3. [Sky Sports](http://www.skysports.com/story/0,19528,11095_6292868,00.html)
+2. [Sky Sports](http://www.skysports.com/story/0,19528,11095_6292868,00.html)
+3. [The Monitor'' - Uganda](http://www.monitor.co.ug/Sports/Soccer/-/690266/970244/-/14n7w6rz/-/index.html)
 
 ### Related:
 

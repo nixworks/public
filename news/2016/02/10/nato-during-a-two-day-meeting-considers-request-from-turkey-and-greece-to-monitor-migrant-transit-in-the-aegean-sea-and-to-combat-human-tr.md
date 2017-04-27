@@ -7,8 +7,8 @@ Turkey and Greece have agreed to ask for a NATO mission to monitor refugee flows
 
 ### Source:
 
-1. [Reuters](http://in.reuters.com/article/europe-migrants-idINKCN0VJ2S3)
-2. [Deutsche Welle](http://www.dw.com/en/nato-to-consider-request-to-help-turkey-with-refugee-flow-to-greece/a-19036476)
+1. [Deutsche Welle](http://www.dw.com/en/nato-to-consider-request-to-help-turkey-with-refugee-flow-to-greece/a-19036476)
+2. [Reuters](http://in.reuters.com/article/europe-migrants-idINKCN0VJ2S3)
 
 ### Related:
 

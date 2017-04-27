@@ -7,8 +7,8 @@ The withdrawal of the Slovenian commission candidate clears the way for a new no
 
 ### Source:
 
-1. [Slovenia Times](http://www.sloveniatimes.com/the-end-for-alenka-bratusek)
-2. [EU Observer](http://euobserver.com/political/125991)
+1. [EU Observer](http://euobserver.com/political/125991)
+2. [Slovenia Times](http://www.sloveniatimes.com/the-end-for-alenka-bratusek)
 
 ### Related:
 

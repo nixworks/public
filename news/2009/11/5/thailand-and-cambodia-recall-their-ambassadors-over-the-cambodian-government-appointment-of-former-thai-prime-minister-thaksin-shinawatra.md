@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2009-11/05/content_12395491.htm)
-2. [Thai News Agency](http://enews.mcot.net/view.php?id=12651)
+1. [Thai News Agency](http://enews.mcot.net/view.php?id=12651)
+2. [Xinhua](http://news.xinhuanet.com/english/2009-11/05/content_12395491.htm)
 
 ### Related:
 

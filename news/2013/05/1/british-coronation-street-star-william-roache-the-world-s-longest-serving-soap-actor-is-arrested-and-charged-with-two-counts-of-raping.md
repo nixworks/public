@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/uk/2013/may/01/bill-roache-charged-rape-1967)
-2. [TVNZ](http://tvnz.co.nz/world-news/coro-star-william-roache-faces-two-rape-charges-5424726)
+1. [TVNZ](http://tvnz.co.nz/world-news/coro-star-william-roache-faces-two-rape-charges-5424726)
+2. [The Guardian](http://www.guardian.co.uk/uk/2013/may/01/bill-roache-charged-rape-1967)
 
 ### Related:
 

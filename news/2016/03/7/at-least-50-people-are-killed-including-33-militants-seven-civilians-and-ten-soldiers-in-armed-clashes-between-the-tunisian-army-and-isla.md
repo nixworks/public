@@ -7,9 +7,9 @@ Dozens of Islamist fighters stormed through the Tunisian town of Ben Guerdan nea
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-tunisia-security-idUSKCN0W90J6)
+1. [ (Al-Jazeera](http://www.aljazeera.com/news/2016/03/tunisia-ben-gardane-clashes-160307070914234.html)
 2. [AFP via Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3480104/Three-civilians-19-dead-Tunisia-fighting.html)
-3. [ (Al-Jazeera](http://www.aljazeera.com/news/2016/03/tunisia-ben-gardane-clashes-160307070914234.html)
+3. [Reuters](http://www.reuters.com/article/us-tunisia-security-idUSKCN0W90J6)
 
 ### Related:
 

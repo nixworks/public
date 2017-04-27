@@ -7,8 +7,8 @@ For a few, high-profile hours on Sunday, Boeing&#8217;s new 787 Dreamliner captu
 
 ### Source:
 
-1. [MSNBC](http://www.msnbc.msn.com/id/19665201/)
-2. [BBC](http://news.bbc.co.uk/2/hi/business/6281582.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/business/6281582.stm)
+2. [MSNBC](http://www.msnbc.msn.com/id/19665201/)
 
 ### Related:
 

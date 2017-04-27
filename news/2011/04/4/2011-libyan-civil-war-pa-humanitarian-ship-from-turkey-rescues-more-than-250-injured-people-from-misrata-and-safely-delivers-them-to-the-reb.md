@@ -7,9 +7,9 @@ A Turkish humanitarian ship carrying more than 250 injured people from the Libya
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-12953538)
-2. [Christian Science Monitor](http://www.csmonitor.com/World/Middle-East/2011/0404/Italy-rejects-Qaddafi-recognizes-Libyan-rebel-government)
-3. [AGI](http://www.agi.it/english-version/world/elenco-notizie/201104041852-pol-ren1085-kuwait_to_recognize_libyan_government_in_benghazi)
+1. [AGI](http://www.agi.it/english-version/world/elenco-notizie/201104041852-pol-ren1085-kuwait_to_recognize_libyan_government_in_benghazi)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-12953538)
+3. [Christian Science Monitor](http://www.csmonitor.com/World/Middle-East/2011/0404/Italy-rejects-Qaddafi-recognizes-Libyan-rebel-government)
 4. [The Independent](http://www.independent.co.uk/news/world/africa/libyan-foreign-minister-flies-to-greece-on-peace-mission-2261406.html)
 
 ### Related:

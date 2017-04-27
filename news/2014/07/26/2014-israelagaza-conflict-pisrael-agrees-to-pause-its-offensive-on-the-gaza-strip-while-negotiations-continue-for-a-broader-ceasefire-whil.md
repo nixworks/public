@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2014/07/26/world/middleeast/israel-gaza-strip.html)
+1. [AFP via Manila Bulletin](http://www.mb.com.ph/35-bodies-pulled-from-gaza-rubble-as-toll-tops-900-medics/)
 2. [Fox News](http://www.foxnews.com/world/2014/07/26/official-says-israel-leaning-toward-extending-gaza-truce/)
-3. [AFP via Manila Bulletin](http://www.mb.com.ph/35-bodies-pulled-from-gaza-rubble-as-toll-tops-900-medics/)
+3. [New York Times](http://www.nytimes.com/2014/07/26/world/middleeast/israel-gaza-strip.html)
 
 ### Related:
 

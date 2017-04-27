@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua News Agency via Global Post](http://www.globalpost.com/article/6707307/2015/12/17/afghanistans-wto-membership-approved-after-11-years-talks)
-2. [Channel News Asia](http://www.channelnewsasia.com/news/business/afghanistan-joins-world/2357102.html)
+1. [Channel News Asia](http://www.channelnewsasia.com/news/business/afghanistan-joins-world/2357102.html)
+2. [Xinhua News Agency via Global Post](http://www.globalpost.com/article/6707307/2015/12/17/afghanistans-wto-membership-approved-after-11-years-talks)
 
 ### Related:
 

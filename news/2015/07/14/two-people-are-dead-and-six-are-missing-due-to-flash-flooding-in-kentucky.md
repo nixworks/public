@@ -7,8 +7,8 @@ One person was killed and several others were missing as a band of severe thunde
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/news/us-news/thunderstorms-roll-across-midwest-1-dead-kentucky-flood-n391616)
-2. [Fox News](http://www.foxnews.com/weather/2015/07/14/2-dead-6-missing-in-eastern-kentucky-floods/)
+1. [Fox News](http://www.foxnews.com/weather/2015/07/14/2-dead-6-missing-in-eastern-kentucky-floods/)
+2. [NBC News](http://www.nbcnews.com/news/us-news/thunderstorms-roll-across-midwest-1-dead-kentucky-flood-n391616)
 
 ### Related:
 

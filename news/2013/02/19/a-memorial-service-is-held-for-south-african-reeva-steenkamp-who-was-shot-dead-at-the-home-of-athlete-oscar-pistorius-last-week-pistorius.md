@@ -7,8 +7,8 @@ Adam Steenkamp, the brother of Reeva Steenkamp, says her family wants to remembe
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2013/feb/19/oscar-pistorius-weeps-riveting-testimony)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-21501839)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-21501839)
+2. [The Guardian](http://www.guardian.co.uk/world/2013/feb/19/oscar-pistorius-weeps-riveting-testimony)
 
 ### Related:
 

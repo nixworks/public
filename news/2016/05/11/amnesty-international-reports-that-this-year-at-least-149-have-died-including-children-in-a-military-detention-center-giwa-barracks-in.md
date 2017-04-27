@@ -7,8 +7,8 @@ We are Amnesty International UK. We work to protect men, women and children wher
 
 ### Source:
 
-1. [VOA News](http://www.voanews.com/content/amnesty-over-140-dead-in-nigeria-military-detention/3324731.html)
-2. [Amnesty](https://www.amnesty.org.uk/press-releases/nigeria-babies-among-149-dead-horrific-conditions-giwa-barracks-new-briefing)
+1. [Amnesty](https://www.amnesty.org.uk/press-releases/nigeria-babies-among-149-dead-horrific-conditions-giwa-barracks-new-briefing)
+2. [VOA News](http://www.voanews.com/content/amnesty-over-140-dead-in-nigeria-military-detention/3324731.html)
 
 ### Related:
 

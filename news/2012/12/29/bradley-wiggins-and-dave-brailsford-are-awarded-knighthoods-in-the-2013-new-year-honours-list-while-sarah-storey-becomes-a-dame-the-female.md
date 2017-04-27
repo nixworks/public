@@ -8,8 +8,8 @@ Knighthoods for Wiggo and DB, Sarah Storey made a Dame; honours too for other Lo
 ### Source:
 
 1. [Road.cc](http://road.cc/content/news/72542-wiggins-brailsford-and-storey-lead-cycling-names-new-years-honours-list)
-2. [The Guardian](http://www.guardian.co.uk/uk/2012/dec/29/new-year-honours-storey-wiggins)
-3. [The Daily Telegraph](http://www.telegraph.co.uk/sport/olympics/9770216/New-Year-Honours-2013-we-have-to-work-harder-for-recognition-says-Paralympian-David-Weir.html)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/sport/olympics/9770216/New-Year-Honours-2013-we-have-to-work-harder-for-recognition-says-Paralympian-David-Weir.html)
+3. [The Guardian](http://www.guardian.co.uk/uk/2012/dec/29/new-year-honours-storey-wiggins)
 
 ### Related:
 

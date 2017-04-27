@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://za.today.reuters.com/news/NewsArticle.aspx?type=topNews&storyID=2005-11-14T131155Z_01_BAN442217_RTRIDST_0_OZATP-UGANDA-POLITICIAN-20051114.XML)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/4435490.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4435490.stm)
+2. [Reuters](http://za.today.reuters.com/news/NewsArticle.aspx?type=topNews&storyID=2005-11-14T131155Z_01_BAN442217_RTRIDST_0_OZATP-UGANDA-POLITICIAN-20051114.XML)
 
 ### Related:
 

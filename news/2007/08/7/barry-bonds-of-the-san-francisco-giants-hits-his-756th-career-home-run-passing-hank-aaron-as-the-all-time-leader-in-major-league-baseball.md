@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [MLB.com](http://mlb.mlb.com/news/article.jsp?ymd=20070806&content_id=2133618&vkey=news_mlb&fext=.jsp&c_id=mlb)
-2. [BBC](http://news.bbc.co.uk/sport2/hi/other_sports/baseball/6936213.stm)
+1. [BBC](http://news.bbc.co.uk/sport2/hi/other_sports/baseball/6936213.stm)
+2. [MLB.com](http://mlb.mlb.com/news/article.jsp?ymd=20070806&content_id=2133618&vkey=news_mlb&fext=.jsp&c_id=mlb)
 
 ### Related:
 

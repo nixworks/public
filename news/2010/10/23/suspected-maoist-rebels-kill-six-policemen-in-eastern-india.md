@@ -7,9 +7,9 @@ Rebels blamed for landmine blast that killed six officers in eastern Indian stat
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/city/patna/5-cops-die-as-Maoists-strike-ahead-of-Phase-II/articleshow/6795806.cms)
+1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hTL7vdy8hdzG_eSP56slBkZcbjeQ?docId=377849a34ebd447eb3a736d68ab752a5)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/10/2010102314428629615.html)
-3. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hTL7vdy8hdzG_eSP56slBkZcbjeQ?docId=377849a34ebd447eb3a736d68ab752a5)
+3. [Times of India](http://timesofindia.indiatimes.com/city/patna/5-cops-die-as-Maoists-strike-ahead-of-Phase-II/articleshow/6795806.cms)
 
 ### Related:
 

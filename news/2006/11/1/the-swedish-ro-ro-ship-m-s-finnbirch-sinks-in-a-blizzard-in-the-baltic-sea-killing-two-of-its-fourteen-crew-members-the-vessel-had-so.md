@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters](http://www.alertnet.org/thenews/newsdesk/L01593689.htm)
+1. [CNN](http://www.cnn.com/2006/WORLD/europe/11/01/sweden.freighter.ap/index.html)
 2. [Helsingin Sanomat](http://www.hs.fi/ulkomaat/artikkeli/Rahtilaiva+kaatui+ja+upposi+myrskyss%C3%A4+Ruotsin+vesill%C3%A4/1135222715571)
-3. [CNN](http://www.cnn.com/2006/WORLD/europe/11/01/sweden.freighter.ap/index.html)
+3. [Reuters](http://www.alertnet.org/thenews/newsdesk/L01593689.htm)
 
 ### Related:
 

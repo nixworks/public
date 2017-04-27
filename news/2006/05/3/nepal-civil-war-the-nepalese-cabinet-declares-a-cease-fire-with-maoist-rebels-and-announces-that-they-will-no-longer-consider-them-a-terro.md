@@ -7,8 +7,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyid=2006-05-03T153837Z_01_DEL94940_RTRUKOC_0_US-NEPAL.xml)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/4969422.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/4969422.stm)
+2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyid=2006-05-03T153837Z_01_DEL94940_RTRUKOC_0_US-NEPAL.xml)
 
 ### Related:
 

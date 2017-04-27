@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Matangi Tonga](http://www.matangitonga.to/article/tonganews/outerislands/20090809_ashika_93missing.shtml)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601081&sid=asG3cRSA4CvU)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601081&sid=asG3cRSA4CvU)
+2. [Matangi Tonga](http://www.matangitonga.to/article/tonganews/outerislands/20090809_ashika_93missing.shtml)
 
 ### Related:
 

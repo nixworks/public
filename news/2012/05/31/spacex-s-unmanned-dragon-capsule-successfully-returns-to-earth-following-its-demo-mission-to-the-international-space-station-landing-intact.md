@@ -8,8 +8,8 @@ The SpaceX Dragon capsule successfully came down in the Pacific Ocean.
 ### Source:
 
 1. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5grpUD0qIl5L-gNliMHBc-E_S8fiQ?docId=e9dcaf97edc04dc5ae4d586e64552b10)
-2. [USA Today](http://www.usatoday.com/tech/science/space/story/2012-05-31/spacex-dragon-capsule-return/55295594/1)
-3. [NASA](http://www.nasa.gov/exploration/commercial/cargo/spacex_rss_feed_collection_archive_1.html)
+2. [NASA](http://www.nasa.gov/exploration/commercial/cargo/spacex_rss_feed_collection_archive_1.html)
+3. [USA Today](http://www.usatoday.com/tech/science/space/story/2012-05-31/spacex-dragon-capsule-return/55295594/1)
 
 ### Related:
 

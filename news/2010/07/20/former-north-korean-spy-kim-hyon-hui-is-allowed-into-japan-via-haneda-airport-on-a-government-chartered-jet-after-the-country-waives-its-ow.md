@@ -9,8 +9,8 @@ A former North Korean spy who blew up a plane killing 115 people is in Japan to 
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10693662)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/jul/20/north-korea-spy-japan-abductions)
-3. [iAfrica](http://news.iafrica.com/worldnews/2540211.htm)
-4. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/north-korean-spy-meets-families-in-japan-20100720-10j9a.html)
+3. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/north-korean-spy-meets-families-in-japan-20100720-10j9a.html)
+4. [iAfrica](http://news.iafrica.com/worldnews/2540211.htm)
 
 ### Related:
 

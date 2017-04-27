@@ -7,8 +7,8 @@ German Chancellor Angela Merkel - on a visit to Athens - praises Greece for prog
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2012/10/09/world/europe/greece-merkel-visit/index.html?hpt=hp_t3)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-19879584)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-19879584)
+2. [CNN](http://www.cnn.com/2012/10/09/world/europe/greece-merkel-visit/index.html?hpt=hp_t3)
 
 ### Related:
 

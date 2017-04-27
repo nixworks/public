@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via NineMSN](http://news.ninemsn.com.au/world/8290652/japanese-prime-minister-expected-to-resign)
-2. [AP via ''San Jose Mercury News](http://www.mercurynews.com/news/ci_18760300?nclick_check=1)
+1. [AP via ''San Jose Mercury News](http://www.mercurynews.com/news/ci_18760300?nclick_check=1)
+2. [AP via NineMSN](http://news.ninemsn.com.au/world/8290652/japanese-prime-minister-expected-to-resign)
 
 ### Related:
 

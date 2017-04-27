@@ -8,8 +8,8 @@ Police officer is stabbed in Parliament and a women among several people struck 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-39355940)
-2. [Sky News](http://news.sky.com/story/gunshots-outside-parliament-8211-several-injured-10810680)
-3. [Fox News](http://www.foxnews.com/world/2017/03/22/uk-parliament-terror-attack-5-people-killed-including-cop-and-alleged-assailant-in-sick-and-depraved-act.html)
+2. [Fox News](http://www.foxnews.com/world/2017/03/22/uk-parliament-terror-attack-5-people-killed-including-cop-and-alleged-assailant-in-sick-and-depraved-act.html)
+3. [Sky News](http://news.sky.com/story/gunshots-outside-parliament-8211-several-injured-10810680)
 
 ### Related:
 

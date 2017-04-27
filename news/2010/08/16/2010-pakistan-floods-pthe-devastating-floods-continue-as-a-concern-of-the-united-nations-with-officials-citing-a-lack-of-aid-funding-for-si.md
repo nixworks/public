@@ -7,9 +7,9 @@ As officials struggle with immediate response to the disaster, concerns are grow
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2010/08/17/world/asia/17pstan.html?hp)
-2. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/2010816112835740506.html)
-3. [BBC](http://www.bbc.co.uk/news/world-south-asia-10984477)
+1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/2010816112835740506.html)
+2. [BBC](http://www.bbc.co.uk/news/world-south-asia-10984477)
+3. [New York Times](http://www.nytimes.com/2010/08/17/world/asia/17pstan.html?hp)
 
 ### Related:
 
@@ -21,5 +21,5 @@ As officials struggle with immediate response to the disaster, concerns are grow
 6. [The United Nations estimates that four million people have become homeless as a result of the 2010 Pakistan floods; Secretary-General of the United Nations Ban Ki-moon, speaking in New York, states that the floods are a "slow-motion tsunami" as he calls for more funds to assist those affected. ](/news/2010/08/19/the-united-nations-estimates-that-four-million-people-have-become-homeless-as-a-result-of-the-2010-pakistan-floods-secretary-general-of-the.md) _Context: United Nations, devastating floods_
 7. [2010 Pakistan floods:The United Nations launches a major appeal for assistance dealing with the ongoing floods that have devastated Pakistan. ](/news/2010/08/12/2010-pakistan-floods-pthe-united-nations-launches-a-major-appeal-for-assistance-dealing-with-the-ongoing-floods-that-have-devastated-pakista.md) _Context: United Nations, devastating floods_
 8. [The United Nations announces expansion of civilian camps for people fleeing Mosul, following resumption of airstrikes  on ISIL-held portions of the Iraqi city. ](/news/2017/04/4/the-united-nations-announces-expansion-of-civilian-camps-for-people-fleeing-mosul-following-resumption-of-airstrikes-on-isil-held-portions.md) _Context: United Nations_
-9. [At least 17 new mass graves are discovered  by United Nations investigators in Kasai-Central, Democratic Republic of the Congo, mostly around the town of Tshimbulu. ](/news/2017/04/19/at-least-17-new-mass-graves-are-discovered-by-united-nations-investigators-in-kasaa-central-democratic-republic-of-the-congo-mostly-arou.md) _Context: United Nations_
-10. [At least 110 people have died of starvation in the drought-hit region of Bay, Somalia, in the past 48 hours, according to Prime Minister Hassan Ali Khayre. This comes as the United Nations and various non-governmental organizations are warning of potential famine in the country. ](/news/2017/03/4/at-least-110-people-have-died-of-starvation-in-the-drought-hit-region-of-bay-somalia-in-the-past-48-hours-according-to-prime-minister-has.md) _Context: United Nations_
+9. [The United Nations MONUSCO reports that 20 Chowe-Pende community members have been killed in clashes with the Lulua-Luba community in Kasai-Central, Democratic Republic of Congo. ](/news/2017/04/26/the-united-nations-monusco-reports-that-20-chowe-pende-community-members-have-been-killed-in-clashes-with-the-lulua-luba-community-in-kasaa.md) _Context: United Nations_
+10. [At least 17 new mass graves are discovered  by United Nations investigators in Kasai-Central, Democratic Republic of the Congo, mostly around the town of Tshimbulu. ](/news/2017/04/19/at-least-17-new-mass-graves-are-discovered-by-united-nations-investigators-in-kasaa-central-democratic-republic-of-the-congo-mostly-arou.md) _Context: United Nations_

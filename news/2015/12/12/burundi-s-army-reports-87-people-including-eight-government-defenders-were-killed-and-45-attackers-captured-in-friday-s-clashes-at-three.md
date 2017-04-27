@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-burundi-unrest-idUSKBN0TV08D20151212#AAyzzFziOmv2hi3U.97)
-2. [AFP via Global Post](http://www.globalpost.com/article/6704225/2015/12/12/87-killed-burundi-clashes)
+1. [AFP via Global Post](http://www.globalpost.com/article/6704225/2015/12/12/87-killed-burundi-clashes)
+2. [Reuters](http://www.reuters.com/article/us-burundi-unrest-idUSKBN0TV08D20151212#AAyzzFziOmv2hi3U.97)
 
 ### Related:
 

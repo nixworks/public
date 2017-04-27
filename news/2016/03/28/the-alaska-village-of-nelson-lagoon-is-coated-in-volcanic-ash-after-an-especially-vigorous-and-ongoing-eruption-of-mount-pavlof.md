@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [KTUU-TV](http://www.ktuu.com/news/news/pavlof-eruption-alaska-village-covered-in-ash-20-flights-cancelled/38732402)
-2. [Alaska Dispatch News](http://www.adn.com/article/20160328/volcanic-eruption-covers-alaska-village-ash-launches-lava-sky)
+1. [Alaska Dispatch News](http://www.adn.com/article/20160328/volcanic-eruption-covers-alaska-village-ash-launches-lava-sky)
+2. [KTUU-TV](http://www.ktuu.com/news/news/pavlof-eruption-alaska-village-covered-in-ash-20-flights-cancelled/38732402)
 
 ### Related:
 

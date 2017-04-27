@@ -7,9 +7,9 @@ SAN FRACISCO (AFP) Google will next year step up testing of its Internet-beaming
 
 ### Source:
 
-1. [Google](https://googleblog.blogspot.com/2015/10/indonesia-loon-internet.html)
+1. [AFP via Khmer Times](http://www.khmertimeskh.com/news/17285/google----loon----internet-balloons-set-for-indonesian-skies/)
 2. [AP via Chicago Tribune](http://www.chicagotribune.com/bluesky/technology/sns-bc-us--alphabet-internet-balloons-20151028-story.html)
-3. [AFP via Khmer Times](http://www.khmertimeskh.com/news/17285/google----loon----internet-balloons-set-for-indonesian-skies/)
+3. [Google](https://googleblog.blogspot.com/2015/10/indonesia-loon-internet.html)
 4. [ZDNET](http://www.zdnet.com/article/google-balloon-fleet-to-broadcast-internet-to-17000-indonesian-islands/)
 
 ### Related:

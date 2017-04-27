@@ -7,12 +7,12 @@ Gulf Arab countries must end their sponsorship system for migrant workers that l
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/04/201041815842200467.html)
-2. [Reuters India](http://in.reuters.com/article/topNews/idINIndia-47815720100419)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iSkhpKvGZ0xXi1Dmr3EvdDIqV-rQ)
-4. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/04/18/AR2010041801528.html)
-5. [UPI](http://www.upi.com/Top_News/US/2010/04/18/McCain-calls-for-sanctions-against-Iran/UPI-66431271628180/)
-6. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8629493.stm)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iSkhpKvGZ0xXi1Dmr3EvdDIqV-rQ)
+2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/04/201041815842200467.html)
+3. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8629493.stm)
+4. [Reuters India](http://in.reuters.com/article/topNews/idINIndia-47815720100419)
+5. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/04/18/AR2010041801528.html)
+6. [UPI](http://www.upi.com/Top_News/US/2010/04/18/McCain-calls-for-sanctions-against-Iran/UPI-66431271628180/)
 
 ### Related:
 

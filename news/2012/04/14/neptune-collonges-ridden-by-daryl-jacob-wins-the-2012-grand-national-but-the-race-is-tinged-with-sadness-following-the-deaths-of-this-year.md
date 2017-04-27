@@ -7,5 +7,5 @@ Neptune Collonges became the first grey winner of the John Smith&rsquo;s Grand N
 
 ### Source:
 
-1. [The Telegraph](http://www.telegraph.co.uk/sport/horseracing/9204740/Grand-National-2012-Neptune-Collonges-ridden-by-Daryl-Jacob-beats-Sunnyhillboy-in-a-photo-finish-at-Aintree.html)
-2. [The Guardian](http://www.guardian.co.uk/sport/2012/apr/14/neptune-collonges-grand-national-2012)
+1. [The Guardian](http://www.guardian.co.uk/sport/2012/apr/14/neptune-collonges-grand-national-2012)
+2. [The Telegraph](http://www.telegraph.co.uk/sport/horseracing/9204740/Grand-National-2012-Neptune-Collonges-ridden-by-Daryl-Jacob-beats-Sunnyhillboy-in-a-photo-finish-at-Aintree.html)

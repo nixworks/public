@@ -7,9 +7,9 @@ Magnus Carlsen has won the 2012 London Chess Classic after an exceptional tourna
 
 ### Source:
 
-1. [ChessVibes](http://www.chessvibes.com/reports/carlsen-beats-kasparovs-rating-record-in-london)
+1. [Chess News](http://www.chess.com/news/magnus-carlsen-wins-the-2012-london-chess-classic-5115)
 2. [ChessBase](http://www.chessbase.com/newsdetail.asp?newsid=8700)
-3. [Chess News](http://www.chess.com/news/magnus-carlsen-wins-the-2012-london-chess-classic-5115)
+3. [ChessVibes](http://www.chessvibes.com/reports/carlsen-beats-kasparovs-rating-record-in-london)
 
 ### Related:
 

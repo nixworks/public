@@ -7,8 +7,8 @@ A vast and well-preserved labyrinth of storehouses, schools and courtyards in Al
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2012/09/30/world/middleeast/fire-sweeps-through-ancient-souk-of-aleppo-citys-soul.html)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/09/2012929134847878682.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/09/2012929134847878682.html)
+2. [New York Times](http://www.nytimes.com/2012/09/30/world/middleeast/fire-sweeps-through-ancient-souk-of-aleppo-citys-soul.html)
 
 ### Related:
 

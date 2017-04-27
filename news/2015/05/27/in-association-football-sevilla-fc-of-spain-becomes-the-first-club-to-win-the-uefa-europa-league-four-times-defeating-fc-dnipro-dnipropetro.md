@@ -7,8 +7,8 @@ Dnipro Dnipropetrovsk winger Matheus Nascimento collapses during the Europa Leag
 
 ### Source:
 
-1. [SM](http://www.sportsmole.co.uk/football/sevilla/europa-league/news/matheus-collapses-in-europa-league-final_225228.html)
-2. [CNN](http://edition.cnn.com/2015/05/27/football/europa-league-final-sevilla-dnipro-football-news/index.html?eref=edition)
+1. [CNN](http://edition.cnn.com/2015/05/27/football/europa-league-final-sevilla-dnipro-football-news/index.html?eref=edition)
+2. [SM](http://www.sportsmole.co.uk/football/sevilla/europa-league/news/matheus-collapses-in-europa-league-final_225228.html)
 
 ### Related:
 

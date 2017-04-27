@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [IHT](http://www.iht.com/articles/2005/12/28/news/germany.php)
-2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,2144,1839155,00.html)
+1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,2144,1839155,00.html)
+2. [IHT](http://www.iht.com/articles/2005/12/28/news/germany.php)
 
 ### Related:
 

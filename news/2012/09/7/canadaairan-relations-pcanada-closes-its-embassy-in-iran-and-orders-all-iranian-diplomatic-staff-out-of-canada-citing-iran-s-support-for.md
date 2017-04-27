@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Justice for Victims of Terrorism Act]. [http://www.cbc.ca/news/politics/story/2012/09/07/pol-baird-canada-iran-embassy.html (CBC](http://laws-lois.justice.gc.ca/eng/acts/J-2.5/page-1.html)
-2. [Communiqué](http://www.international.gc.ca/media/aff/news-communiques/2012/09/07a.aspx?lang=eng&view=d)
+1. [Communiqué](http://www.international.gc.ca/media/aff/news-communiques/2012/09/07a.aspx?lang=eng&view=d)
+2. [Justice for Victims of Terrorism Act]. [http://www.cbc.ca/news/politics/story/2012/09/07/pol-baird-canada-iran-embassy.html (CBC](http://laws-lois.justice.gc.ca/eng/acts/J-2.5/page-1.html)
 
 ### Related:
 

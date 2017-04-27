@@ -7,9 +7,9 @@ Ceremonies are held in Seoul to mark the 60th anniversary of the outbreak of the
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2010/jun/25/korean-war-haven-south-defectors-north)
-2. [Yonhap](http://english.yonhapnews.co.kr/national/2010/06/25/88/0301000000AEN20100625007600315F.HTML)
-3. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10410542.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10410542.stm)
+2. [The Guardian](http://www.guardian.co.uk/world/2010/jun/25/korean-war-haven-south-defectors-north)
+3. [Yonhap](http://english.yonhapnews.co.kr/national/2010/06/25/88/0301000000AEN20100625007600315F.HTML)
 
 ### Related:
 

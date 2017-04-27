@@ -7,8 +7,8 @@ The Crown Princess, owned by Princess Cruises, listed heavily due to a steering 
 
 ### Source:
 
-1. [News.com.au](http://www.news.com.au/story/0,10117,19849953-38198,00.html)
-2. [FoxNews.com](http://www.foxnews.com/story/0,2933,204274,00.html)
+1. [FoxNews.com](http://www.foxnews.com/story/0,2933,204274,00.html)
+2. [News.com.au](http://www.news.com.au/story/0,10117,19849953-38198,00.html)
 
 ### Related:
 

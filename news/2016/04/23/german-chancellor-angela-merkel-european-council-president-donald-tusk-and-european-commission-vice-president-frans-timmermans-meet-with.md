@@ -7,8 +7,8 @@ European Council President Donald Tusk has praised Turkey’s treatment of refug
 
 ### Source:
 
-1. [Journal of Turkish Weekly](http://www.turkishweekly.net/2016/04/23/news/no-migrant-readmission-agreement-without-visa-liberalization-turkish-pm/)
-2. [Hürriyet Daily News](http://www.hurriyetdailynews.com/merkel-eu-officials-arrive-in-turkeys-gaziantep-to-discuss-migrant-crisis.aspx?pageID=238&nID=98236&NewsCatID=341)
+1. [Hürriyet Daily News](http://www.hurriyetdailynews.com/merkel-eu-officials-arrive-in-turkeys-gaziantep-to-discuss-migrant-crisis.aspx?pageID=238&nID=98236&NewsCatID=341)
+2. [Journal of Turkish Weekly](http://www.turkishweekly.net/2016/04/23/news/no-migrant-readmission-agreement-without-visa-liberalization-turkish-pm/)
 3. [Reuters](http://in.reuters.com/article/europe-migrants-turkey-germany-idINKCN0XK0JN)
 
 ### Related:

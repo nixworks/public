@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2011/03/18/japan-idUSL3E7EH2SM20110318)
-2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20110318/ap_on_bi_ge/as_japan_earthquake)
+1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20110318/ap_on_bi_ge/as_japan_earthquake)
+2. [Reuters](http://www.reuters.com/article/2011/03/18/japan-idUSL3E7EH2SM20110318)
 
 ### Related:
 

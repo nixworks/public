@@ -7,9 +7,9 @@ Euro zone finance ministers gave Greece two weeks from Monday to approve further
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2011/06/20/us-eurozone-idUSTRE75J04R20110620?feedType=RSS&feedName=businessNews&dlvrit=56943)
+1. [Al Jazeera](http://english.aljazeera.net/video/europe/2011/06/201162045839742523.html)
 2. [BBC](http://www.bbc.co.uk/news/uk-politics-13839381)
-3. [Al Jazeera](http://english.aljazeera.net/video/europe/2011/06/201162045839742523.html)
+3. [Reuters](http://www.reuters.com/article/2011/06/20/us-eurozone-idUSTRE75J04R20110620?feedType=RSS&feedName=businessNews&dlvrit=56943)
 
 ### Related:
 

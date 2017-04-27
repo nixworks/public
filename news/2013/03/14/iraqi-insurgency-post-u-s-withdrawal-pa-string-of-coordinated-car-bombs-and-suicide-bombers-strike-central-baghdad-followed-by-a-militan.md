@@ -7,8 +7,8 @@ Coordinated blasts killed at least 25 people in the heart of Baghdad on Thursday
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/03/14/us-iraq-violence-idUSBRE92D0HX20130314)
-2. [CNN](http://edition.cnn.com/2013/03/14/world/meast/iraq-bombings)
+1. [CNN](http://edition.cnn.com/2013/03/14/world/meast/iraq-bombings)
+2. [Reuters](http://www.reuters.com/article/2013/03/14/us-iraq-violence-idUSBRE92D0HX20130314)
 
 ### Related:
 

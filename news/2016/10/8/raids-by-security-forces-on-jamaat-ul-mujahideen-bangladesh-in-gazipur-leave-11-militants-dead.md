@@ -7,9 +7,9 @@ Bangladeshi security officials have killed 11 suspected militants of the banned 
 
 ### Source:
 
-1. [The Voice of America News](http://www.voanews.com/a/bangladesh-forces-kill-11-suspected-militant-group-members/3542099.html)
-2. [Reuters](http://in.reuters.com/article/bangladesh-dhaka-cafe-militants-idINKCN1280AA)
-3. [The Hindustan Times](http://www.hindustantimes.com/world-news/11-jmb-militants-killed-in-raids-in-bangladesh/story-dWQ6UgXwUCgj9PyBMhIumM.html)
+1. [Reuters](http://in.reuters.com/article/bangladesh-dhaka-cafe-militants-idINKCN1280AA)
+2. [The Hindustan Times](http://www.hindustantimes.com/world-news/11-jmb-militants-killed-in-raids-in-bangladesh/story-dWQ6UgXwUCgj9PyBMhIumM.html)
+3. [The Voice of America News](http://www.voanews.com/a/bangladesh-forces-kill-11-suspected-militant-group-members/3542099.html)
 
 ### Related:
 

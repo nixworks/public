@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [JTA](http://www.jta.org/page_view_story.asp?intarticleid=17510&intcategoryid=4)
-2. [JTA](http://www.jta.org/page_view_breaking_story.asp?intid=6567&ref=daily_briefing)
+1. [JTA](http://www.jta.org/page_view_breaking_story.asp?intid=6567&ref=daily_briefing)
+2. [JTA](http://www.jta.org/page_view_story.asp?intarticleid=17510&intcategoryid=4)
 
 ### Related:
 

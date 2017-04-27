@@ -7,12 +7,12 @@ U.S. President George W. Bush on Saturday approved a pre-landfall emergency decl
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/6953423.stm)
+1. [AP via IHT](http://www.iht.com/articles/ap/2007/08/18/america/LA-GEN-Mexico-Hurricane-Dean.php)
 2. [BBC](http://news.bbc.co.uk/2/hi/americas/6952580.stm)
-3. [Reuters](http://www.reuters.com/article/topNews/idUSN1821403420070818?feedType=RSS&feedName=topNews)
-4. [RTT News](http://www.rttnews.com/FOREX/gblnews.asp?date=08/18/2007&item=6)
-5. [AP via IHT](http://www.iht.com/articles/ap/2007/08/18/america/LA-GEN-Mexico-Hurricane-Dean.php)
-6. [La Prensa](http://www.plenglish.com/article.asp?ID=%7B5CF13A10-CD15-4B5D-8E0E-266279EA571A%7D)&language=EN)
+3. [BBC](http://news.bbc.co.uk/2/hi/science/nature/6953423.stm)
+4. [La Prensa](http://www.plenglish.com/article.asp?ID=%7B5CF13A10-CD15-4B5D-8E0E-266279EA571A%7D)&language=EN)
+5. [RTT News](http://www.rttnews.com/FOREX/gblnews.asp?date=08/18/2007&item=6)
+6. [Reuters](http://www.reuters.com/article/topNews/idUSN1821403420070818?feedType=RSS&feedName=topNews)
 
 ### Related:
 

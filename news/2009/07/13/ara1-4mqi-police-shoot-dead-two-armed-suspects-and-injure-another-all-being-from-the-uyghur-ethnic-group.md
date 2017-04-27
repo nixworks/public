@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2009-07/13/content_11702598.htm)
+1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5j794twyjYyjeOIdsKWwzCUhsgvUAD99DHL600)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8147657.stm)
-3. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5j794twyjYyjeOIdsKWwzCUhsgvUAD99DHL600)
-4. [ChinaDaily](http://www.chinadaily.com.cn/china/2009-07/13/content_8423095.htm)
+3. [ChinaDaily](http://www.chinadaily.com.cn/china/2009-07/13/content_8423095.htm)
+4. [Xinhua](http://news.xinhuanet.com/english/2009-07/13/content_11702598.htm)
 
 ### Related:
 

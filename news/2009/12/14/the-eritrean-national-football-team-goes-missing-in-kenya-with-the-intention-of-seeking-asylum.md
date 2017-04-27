@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Jimma Times](http://www.jimmatimes.com/article/Latest_News/Latest_News/Eritreas_national_team_reportedly_defects_in_Kenya/33075)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5g597NzDJhD9NKdqoqa9hod7-LqIQ)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8412651.stm)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5g597NzDJhD9NKdqoqa9hod7-LqIQ)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8412651.stm)
+3. [Jimma Times](http://www.jimmatimes.com/article/Latest_News/Latest_News/Eritreas_national_team_reportedly_defects_in_Kenya/33075)
 
 ### Related:
 

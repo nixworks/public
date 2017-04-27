@@ -7,8 +7,8 @@ The deaths of an Israeli laborer and a Palestinian toddler were the latest in a 
 
 ### Source:
 
-1. [The Times of Israel](http://www.timesofisrael.com/israeli-man-severely-wounded-by-sniper-fire-from-gaza/)
-2. [The New York Times](http://www.nytimes.com/2013/12/25/world/middleeast/israeli-palestinian-violence.html?_r=0)
+1. [The New York Times](http://www.nytimes.com/2013/12/25/world/middleeast/israeli-palestinian-violence.html?_r=0)
+2. [The Times of Israel](http://www.timesofisrael.com/israeli-man-severely-wounded-by-sniper-fire-from-gaza/)
 
 ### Related:
 

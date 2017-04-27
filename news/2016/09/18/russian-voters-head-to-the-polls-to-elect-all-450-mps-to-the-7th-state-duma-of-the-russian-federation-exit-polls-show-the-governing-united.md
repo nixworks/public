@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Duran](http://theduran.com/first-exit-polls-russia-election-point-another-win-putin-party/)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-37382850)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-37382850)
+2. [The Duran](http://theduran.com/first-exit-polls-russia-election-point-another-win-putin-party/)
 
 ### Related:
 

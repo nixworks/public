@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [New Nation, Bangladesh](http://nation.ittefaq.com/artman/publish/article_17033.shtml)
-2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4367359.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4367359.stm)
+2. [New Nation, Bangladesh](http://nation.ittefaq.com/artman/publish/article_17033.shtml)
 
 ### Related:
 

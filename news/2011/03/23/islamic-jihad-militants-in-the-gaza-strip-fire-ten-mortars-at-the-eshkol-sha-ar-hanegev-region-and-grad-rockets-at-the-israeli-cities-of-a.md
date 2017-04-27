@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=213412)
-2. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/gaza-militants-fire-grad-rocket-at-be-er-sheva-following-idf-strike-1.351301?localLinksEnabled=false)
-3. [The Australian](http://www.theaustralian.com.au/news/world/islamic-jihad-hits-beersheba/story-e6frg6so-1226027009316)
+1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/gaza-militants-fire-grad-rocket-at-be-er-sheva-following-idf-strike-1.351301?localLinksEnabled=false)
+2. [The Australian](http://www.theaustralian.com.au/news/world/islamic-jihad-hits-beersheba/story-e6frg6so-1226027009316)
+3. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=213412)
 
 ### Related:
 

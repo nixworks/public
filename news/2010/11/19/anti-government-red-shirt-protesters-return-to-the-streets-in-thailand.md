@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Thai News Agency](http://www.mcot.net/cfcustom/cache_page/131804.html)
-2. [Reuters](http://www.reuters.com/article/idUSTRE6AI14Q20101119)
+1. [Reuters](http://www.reuters.com/article/idUSTRE6AI14Q20101119)
+2. [Thai News Agency](http://www.mcot.net/cfcustom/cache_page/131804.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20091017/seized_vessel_091017/20091017?hub=Canada)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5g_qqgAwqbaDvyKvPeZPf24VipQoA)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5g_qqgAwqbaDvyKvPeZPf24VipQoA)
+2. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20091017/seized_vessel_091017/20091017?hub=Canada)
 
 ### Related:
 

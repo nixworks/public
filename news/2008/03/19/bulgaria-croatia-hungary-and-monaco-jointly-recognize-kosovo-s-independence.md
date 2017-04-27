@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Ministry of Foreign Affairs, Bulgaria](http://www.mfa.bg/en/index.php?option=com_content&task=view&id=8853&Itemid=217)
-2. [AFP via Google News](http://afp.google.com/article/ALeqM5jQMQ3pd4KwdjIKCNSuhSp01ZiStw)
-3. [Balkan Insight](http://www.balkaninsight.com/en/main/news/8741/)
+1. [AFP via Google News](http://afp.google.com/article/ALeqM5jQMQ3pd4KwdjIKCNSuhSp01ZiStw)
+2. [Balkan Insight](http://www.balkaninsight.com/en/main/news/8741/)
+3. [Ministry of Foreign Affairs, Bulgaria](http://www.mfa.bg/en/index.php?option=com_content&task=view&id=8853&Itemid=217)
 
 ### Related:
 

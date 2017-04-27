@@ -7,10 +7,10 @@ Israel maintains air strikes on Gaza and militants continue to fire rockets into
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20386755)
-2. [HaAretz](http://www.haaretz.com/news/diplomacy-defense/netanyahu-to-foreign-leaders-will-accept-comprehensive-ceasefire-if-the-rocket-fire-stops.premium-1.478664/netanyahu-to-foreign-leaders-will-accept-comprehensive-ceasefire-if-the-rocket-fire-stops.premium-1.478664)
-3. [NBC News](http://worldnews.nbcnews.com/_news/2012/11/18/15252420-netanyahu-israel-prepared-for-significant-expansion-of-gaza-operation?lite)
-4. [BBC](http://www.bbc.co.uk/news/world-middle-east-20383001)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20383001)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-20386755)
+3. [HaAretz](http://www.haaretz.com/news/diplomacy-defense/netanyahu-to-foreign-leaders-will-accept-comprehensive-ceasefire-if-the-rocket-fire-stops.premium-1.478664/netanyahu-to-foreign-leaders-will-accept-comprehensive-ceasefire-if-the-rocket-fire-stops.premium-1.478664)
+4. [NBC News](http://worldnews.nbcnews.com/_news/2012/11/18/15252420-netanyahu-israel-prepared-for-significant-expansion-of-gaza-operation?lite)
 5. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=292424)
 
 ### Related:

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Mosnews](http://www.mosnews.com/news/2005/03/21/warsawdudayev.shtml)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/4370493.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4370493.stm)
+2. [Mosnews](http://www.mosnews.com/news/2005/03/21/warsawdudayev.shtml)
 3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L21413282.htm)
 
 ### Related:

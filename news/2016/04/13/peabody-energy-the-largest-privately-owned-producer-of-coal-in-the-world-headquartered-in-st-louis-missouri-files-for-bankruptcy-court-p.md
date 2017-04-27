@@ -7,8 +7,8 @@ Leading global coal producer Peabody Energy Corp BTU.N filed for U.S. bankruptcy
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-peabody-energy-bankruptcy-idUSKCN0XA0E7)
-2. [ABC News Australia](http://www.abc.net.au/news/2016-04-13/peabody-energy-files-for-bankruptcy-protection/7324534)
+1. [ABC News Australia](http://www.abc.net.au/news/2016-04-13/peabody-energy-files-for-bankruptcy-protection/7324534)
+2. [Reuters](http://www.reuters.com/article/us-peabody-energy-bankruptcy-idUSKCN0XA0E7)
 
 ### Related:
 

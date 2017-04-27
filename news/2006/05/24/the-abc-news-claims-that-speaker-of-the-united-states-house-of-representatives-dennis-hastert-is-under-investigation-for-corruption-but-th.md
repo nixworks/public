@@ -7,8 +7,8 @@ Get up to the minute breaking political news and in-depth analysis on ABCNews.co
 
 ### Source:
 
-1. [ABC](http://www.abcnews.go.com/Politics/wireStory?id=2001422)
-2. [ABC News](http://abcnews.go.com/Politics/wireStory?id=1999490&CMP=OTC-RSSFeeds0312)
+1. [ABC News](http://abcnews.go.com/Politics/wireStory?id=1999490&CMP=OTC-RSSFeeds0312)
+2. [ABC](http://www.abcnews.go.com/Politics/wireStory?id=2001422)
 3. [UPI](http://www.upi.com/NewsTrack/view.php?StoryID=20060524-071351-4881r)
 
 ### Related:

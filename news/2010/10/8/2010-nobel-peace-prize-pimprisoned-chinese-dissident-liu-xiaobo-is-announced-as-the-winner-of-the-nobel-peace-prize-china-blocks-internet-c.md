@@ -7,12 +7,12 @@
 
 ### Source:
 
-1. [The Hindu](http://www.thehindu.com/news/international/article819886.ece?homepage=true)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/10/20101081305576754.html)
-3. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-10/08/c_13547668.htm)
-4. [The New York Times](http://www.nytimes.com/2010/10/09/world/09nobel.html?_r=1&hp)
-5. [RIA Novosti](http://en.rian.ru/world/20101008/160880969.html)
-6. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/10/08/china.internet/)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/10/20101081305576754.html)
+2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/10/08/china.internet/)
+3. [RIA Novosti](http://en.rian.ru/world/20101008/160880969.html)
+4. [The Hindu](http://www.thehindu.com/news/international/article819886.ece?homepage=true)
+5. [The New York Times](http://www.nytimes.com/2010/10/09/world/09nobel.html?_r=1&hp)
+6. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-10/08/c_13547668.htm)
 
 ### Related:
 

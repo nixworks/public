@@ -7,12 +7,12 @@ Almost 50 Iranian pilgrims have been kidnapped near a Shia shrine in Syria, repo
 
 ### Source:
 
-1. [The Huffington Post](http://www.huffingtonpost.com/huff-wires/20120804/ml-bahrain/)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-19127920)
-3. [MSN](http://news.uk.msn.com/world/articles.aspx?cp-documentid=250806214)
-4. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/08/20128472859450737.html)
-5. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/08/2012831604665629.html)
-6. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/08/20128495147443610.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/08/2012831604665629.html)
+2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/08/20128472859450737.html)
+3. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/08/20128495147443610.html)
+4. [BBC](http://www.bbc.co.uk/news/world-middle-east-19127920)
+5. [MSN](http://news.uk.msn.com/world/articles.aspx?cp-documentid=250806214)
+6. [The Huffington Post](http://www.huffingtonpost.com/huff-wires/20120804/ml-bahrain/)
 
 ### Related:
 

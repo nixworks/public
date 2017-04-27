@@ -7,8 +7,8 @@ Thirty-five people have been killed in an explosion at Moscow’s Domodedovo air
 
 ### Source:
 
-1. [Russia Today](http://rt.com/news/deadly-blast-moscows-domodedovo/)
-2. [Reuters](http://www.reuters.com/article/idUSTRE70N2TQ20110124)
+1. [Reuters](http://www.reuters.com/article/idUSTRE70N2TQ20110124)
+2. [Russia Today](http://rt.com/news/deadly-blast-moscows-domodedovo/)
 
 ### Related:
 

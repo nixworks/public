@@ -7,8 +7,8 @@ Scientists in South Africa have discovered a new human-like species, which could
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/science-environment-34192447)
-2. [Al Jazeera English Online](http://www.aljazeera.com/news/2015/09/long-lost-relative-researchers-find-human-species-150910090000956.html)
+1. [Al Jazeera English Online](http://www.aljazeera.com/news/2015/09/long-lost-relative-researchers-find-human-species-150910090000956.html)
+2. [BBC](http://www.bbc.com/news/science-environment-34192447)
 
 ### Related:
 

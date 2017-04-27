@@ -7,10 +7,10 @@ Hurricane Joaquin was upgraded to an &quot;extremely dangerous&quot; Category 4 
 
 ### Source:
 
-1. [Nassau Tribune](http://www.tribune242.com/news/2015/oct/01/rising-floodwaters-trap-residents-southern-bahamas/)
-2. [UPI](http://www.upi.com/Top_News/US/2015/10/01/Hurricane-Joaquin-extremely-dangerous-category-4-130-mph-winds/1881443689925/?spt=hts&or=2)
-3. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/012045.shtml)
-4. [Reuters](http://www.reuters.com/article/2015/10/01/us-storm-joaquin-idUSKCN0RV3NW20151001)
+1. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/012045.shtml)
+2. [Nassau Tribune](http://www.tribune242.com/news/2015/oct/01/rising-floodwaters-trap-residents-southern-bahamas/)
+3. [Reuters](http://www.reuters.com/article/2015/10/01/us-storm-joaquin-idUSKCN0RV3NW20151001)
+4. [UPI](http://www.upi.com/Top_News/US/2015/10/01/Hurricane-Joaquin-extremely-dangerous-category-4-130-mph-winds/1881443689925/?spt=hts&or=2)
 
 ### Related:
 

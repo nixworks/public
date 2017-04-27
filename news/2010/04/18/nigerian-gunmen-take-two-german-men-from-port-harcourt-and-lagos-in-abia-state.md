@@ -7,10 +7,10 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [IOL](http://www.iol.co.za/index.php?from=rss_West%20Africa&set_id=1&click_id=86&art_id=nw20100418230756891C994404)
-2. [France24](http://www.france24.com/en/20100418-two-germans-kidnapped-southeastern-nigeria-source)
-3. [BBC](http://news.bbc.co.uk/2/hi/africa/8628854.stm)
-4. [ABC News](http://abcnews.go.com/International/wireStory?id=10408988)
+1. [ABC News](http://abcnews.go.com/International/wireStory?id=10408988)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/8628854.stm)
+3. [France24](http://www.france24.com/en/20100418-two-germans-kidnapped-southeastern-nigeria-source)
+4. [IOL](http://www.iol.co.za/index.php?from=rss_West%20Africa&set_id=1&click_id=86&art_id=nw20100418230756891C994404)
 
 ### Related:
 

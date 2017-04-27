@@ -7,14 +7,14 @@ The Israeli foreign ministry on Sunday rejected as &quot;ludicrous&quot; suggest
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=226736)
+1. [CNN](http://www.cnn.com/2011/WORLD/meast/06/26/israel.gaza.flotilla/index.html)
 2. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/gaza-flotilla-organizers-israel-is-pressuring-greece-to-halt-ships-departure-1.369851)
-3. [CNN](http://www.cnn.com/2011/WORLD/meast/06/26/israel.gaza.flotilla/index.html)
+3. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=226736)
 4. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-06/27/c_13952661.htm)
 
 ### Related:
 
-1. [Prime Minister of Israel Benjamin Netanyahu cancels a visit with the foreign minister of Germany Sigmar Gabriel after the latter's refusal to cancel a meeting with the Israel Defense Forces veterans NGO Breaking the Silence. ](/news/2017/04/25/prime-minister-of-israel-benjamin-netanyahu-cancels-a-visit-with-the-foreign-minister-of-germany-sigmar-gabriel-after-the-latter-s-refusal-t.md) _Context: Benjamin Netanyahu, Israel Defense Forces, Prime Minister of Israel_
+1. [Prime Minister of Israel Benjamin Netanyahu cancels a visit with the foreign minister of Germany Sigmar Gabriel after the latter's refusal to cancel a meeting with the Israel Defense Forces veterans NGO Breaking the Silence saying the group "slanders IDF soldiers as war criminals"](/news/2017/04/25/prime-minister-of-israel-benjamin-netanyahu-cancels-a-visit-with-the-foreign-minister-of-germany-sigmar-gabriel-after-the-latter-s-refusal-t.md) _Context: Benjamin Netanyahu, Israel Defense Forces, Prime Minister of Israel_
 2. [The Attorney General of Israel Avichai Mandelblit orders a criminal investigation of Israeli Prime Minister Benjamin Netanyahu for alleged corruption in two different cases. ](/news/2016/12/28/the-attorney-general-of-israel-avichai-mandelblit-orders-a-criminal-investigation-of-israeli-prime-minister-benjamin-netanyahu-for-alleged-c.md) _Context: Benjamin Netanyahu, Israel, Prime Minister of Israel_
 3. [Israeli  Prime Minister Benjamin Netanyahu asks  Yisrael Beiteinu party leader and  former Foreign Minister  Avigdor Lieberman to be Defense Minister. Current defense minister and former army chief of staff Moshe Ya'alon's role in the future government is unclear. Leiberman is known for his hawkish and uncompromising views. ](/news/2016/05/19/israeli-prime-minister-benjamin-netanyahu-asks-yisrael-beiteinu-party-leader-and-former-foreign-minister-avigdor-lieberman-to-be-defense.md) _Context: Benjamin Netanyahu, Israel, Prime Minister of Israel_
 4. [The Prime Minister of Israel Benjamin Netanyahu vows that the Israeli-occupied Golan Heights, recognized as part of Syria, will forever stay in the country's hands and called on the international community to recognize Israeli sovereignty over the area. ](/news/2016/04/17/the-prime-minister-of-israel-benjamin-netanyahu-vows-that-the-israeli-occupied-golan-heights-recognized-as-part-of-syria-will-forever-stay.md) _Context: Benjamin Netanyahu, Israel, Prime Minister of Israel_

@@ -7,8 +7,8 @@ First Ebola vaccine trial starts on African soil; Hagel to discuss Ebola with Ce
 
 ### Source:
 
-1. [Haaretz](http://www.haaretz.com/news/world/1.620053)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-29577175)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-29577175)
+2. [Haaretz](http://www.haaretz.com/news/world/1.620053)
 
 ### Related:
 

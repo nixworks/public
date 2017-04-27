@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [SABC](http://www.sabcnews.com/africa/southern_africa/0,2172,97324,00.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/4239145.stm)
-3. [IOL, SA](http://www.iol.co.za/index.php?set_id=1&click_id=84&art_id=vn20050207064947534C277512)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4239145.stm)
+2. [IOL, SA](http://www.iol.co.za/index.php?set_id=1&click_id=84&art_id=vn20050207064947534C277512)
+3. [SABC](http://www.sabcnews.com/africa/southern_africa/0,2172,97324,00.html)
 
 ### Related:
 

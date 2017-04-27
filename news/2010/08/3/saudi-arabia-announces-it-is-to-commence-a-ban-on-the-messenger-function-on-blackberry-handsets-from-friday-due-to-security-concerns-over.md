@@ -7,8 +7,8 @@ The authorities in Saudi Arabia tell telecoms firms to block the messenger funct
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/business-10860491)
-2. [Arab News](http://arabnews.com/economy/article95022.ece)
+1. [Arab News](http://arabnews.com/economy/article95022.ece)
+2. [BBC](http://www.bbc.co.uk/news/business-10860491)
 3. [Reuters](http://www.reuters.com/article/idUSLDE6720WQ20100803)
 
 ### Related:

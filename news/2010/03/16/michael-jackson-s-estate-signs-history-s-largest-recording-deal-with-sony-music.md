@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/skynews/Home/Showbiz-News/Estate-Of-Michael-Jackson-Signs-Record-Breaking-Deal-Worth-Millions-With-Sony/Article/201003315574570?lpos=Showbiz_News_News_Your_Way_Region_8&lid=NewsYourWay_ARTICLE_15574570_Estate_Of_Michael_Jackson_Signs_R)
-2. [The Times](http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/music/article7063490.ece)
-3. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8569481.stm)
-4. [The Guardian](http://www.guardian.co.uk/music/2010/mar/16/michael-jackson-sony-250m-deal)
+1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8569481.stm)
+2. [Sky News](http://news.sky.com/skynews/Home/Showbiz-News/Estate-Of-Michael-Jackson-Signs-Record-Breaking-Deal-Worth-Millions-With-Sony/Article/201003315574570?lpos=Showbiz_News_News_Your_Way_Region_8&lid=NewsYourWay_ARTICLE_15574570_Estate_Of_Michael_Jackson_Signs_R)
+3. [The Guardian](http://www.guardian.co.uk/music/2010/mar/16/michael-jackson-sony-250m-deal)
+4. [The Times](http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/music/article7063490.ece)
 
 ### Related:
 

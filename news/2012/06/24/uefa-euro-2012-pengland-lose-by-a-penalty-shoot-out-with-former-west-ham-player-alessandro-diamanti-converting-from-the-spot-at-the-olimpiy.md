@@ -7,11 +7,11 @@ England are once again knocked out on penalties as the Azzuri make it through to
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/sport/0/football/18566816)
-2. [AFP via NDTV](http://sports.ndtv.com/euro-2012/news/item/192371-euro-2012-samir-nasri-targets-journalist-in-foul-mouthed-tirade)
-3. [BBC](http://www.bbc.co.uk/sport/0/football/17875864)
-4. [Al Jazeera](http://www.aljazeera.com/sport/football/2012/06/2012624202355965588.html)
-5. [Al Jazeera](http://www.aljazeera.com/sport/football/2012/06/2012624115629746225.html)
+1. [AFP via NDTV](http://sports.ndtv.com/euro-2012/news/item/192371-euro-2012-samir-nasri-targets-journalist-in-foul-mouthed-tirade)
+2. [Al Jazeera](http://www.aljazeera.com/sport/football/2012/06/2012624115629746225.html)
+3. [Al Jazeera](http://www.aljazeera.com/sport/football/2012/06/2012624202355965588.html)
+4. [BBC](http://www.bbc.co.uk/sport/0/football/17875864)
+5. [BBC](http://www.bbc.co.uk/sport/0/football/18566816)
 6. [BBC](http://www.bbc.co.uk/sport/0/football/18572424)
 
 ### Related:

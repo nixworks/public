@@ -7,10 +7,10 @@ Member of Popular Front&#39;s military wing killed by army after firing mortar s
 
 ### Source:
 
-1. [Press TV](http://www.presstv.ir/detail.aspx?id=132433&sectionid=351020202)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hSyCbiZcw2XUDyeLs4obqIqXNWJg)
 2. [JTA](http://www.jta.org/news/article/2010/06/28/2739816/gazan-palestinian-killed-in-israeli-air-strike)
-3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3912075,00.html)
-4. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hSyCbiZcw2XUDyeLs4obqIqXNWJg)
+3. [Press TV](http://www.presstv.ir/detail.aspx?id=132433&sectionid=351020202)
+4. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3912075,00.html)
 
 ### Related:
 

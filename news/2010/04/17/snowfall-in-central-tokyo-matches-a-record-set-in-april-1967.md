@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Japan Times](http://search.japantimes.co.jp/cgi-bin/nn20100418a3.html)
-2. [MSN Malaysia](http://news.malaysia.msn.com/regional/article.aspx?cp-documentid=4034377)
+1. [MSN Malaysia](http://news.malaysia.msn.com/regional/article.aspx?cp-documentid=4034377)
+2. [The Japan Times](http://search.japantimes.co.jp/cgi-bin/nn20100418a3.html)
 
 ### Related:
 

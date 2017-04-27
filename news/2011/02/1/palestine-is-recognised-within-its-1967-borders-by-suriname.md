@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Maan News](http://www.maannews.net/eng/ViewDetails.aspx?ID=356264)
-2. [Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=206289)
+1. [Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=206289)
+2. [Maan News](http://www.maannews.net/eng/ViewDetails.aspx?ID=356264)
 
 ### Related:
 

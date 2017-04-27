@@ -7,8 +7,8 @@ More than 40 people are arrested after rioting saw police attacked, buildings lo
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/uk-england-london-14435251)
-2. [AFP via ''Hindustan Times](http://www.hindustantimes.com/Blazes-looting-after-London-police-shooting-protest/Article1-730371.aspx)
+1. [AFP via ''Hindustan Times](http://www.hindustantimes.com/Blazes-looting-after-London-police-shooting-protest/Article1-730371.aspx)
+2. [BBC](http://www.bbc.co.uk/news/uk-england-london-14435251)
 3. [The Guardian](http://www.guardian.co.uk/uk/blog/2011/aug/07/tottenham-riots-police-duggan-live)
 4. [The Telegraph](http://www.telegraph.co.uk/news/uknews/crime/8687177/Tottenham-riot-live.html)
 

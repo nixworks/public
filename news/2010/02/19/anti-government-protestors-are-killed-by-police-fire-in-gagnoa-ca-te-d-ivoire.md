@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/02/19/AR2010021901880.html)
-2. [Reuters South Africa](http://af.reuters.com/article/topNews/idAFJOE61I0FK20100219)
+1. [Reuters South Africa](http://af.reuters.com/article/topNews/idAFJOE61I0FK20100219)
+2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/02/19/AR2010021901880.html)
 
 ### Related:
 

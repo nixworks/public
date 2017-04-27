@@ -8,18 +8,18 @@ Irish airspace reopened and transatlantic flights from Dublin resumed earlier to
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/04/201041692933434631.html)
-2. [Los Angeles Times](http://www.latimes.com/technology/sns-ap-eu-norway-prime-minister-ipad,0,6981809.story)
+2. [BBC](http://news.bbc.co.uk/1/hi/business/8624663.stm)
 3. [BBC](http://news.bbc.co.uk/1/hi/health/8624806.stm)
-4. [New York Daily News](http://www.nydailynews.com/news/world/2010/04/16/2010-04-16_volcanic_ash_strands_norway_prime_minister_jens_stotlenberg_in_nyc_airport_so_he.html)
-5. [Reuters](http://www.reuters.com/article/idUSWLB270820100416?type=marketsNews)
-6. [Barcelona Reporter](http://www.barcelonareporter.com/index.php?/news/comments/ryanair_flights_cancelled_from_17_04_2010_till_until_1300hrs_19th_april_lis/1704100740pm)
-7. [Irish Independent](http://www.independent.ie/national-news/thousands-grounded-until-next-week-2141959.html)
-8. [Sky News](http://news.sky.com/skynews/Home/UK-News/Volcano-Ash-Cloud-Flight-Restrictions-Will-Continue-Until-1am-Sat-NATS-Warns-After-Iceland-Eruption/Article/201004315604129?lpos=UK_News_Top_Stories_Header_0&lid=ARTICLE_15604129_Volcano_Ash_Cloud_Flight_Restrictions_Will_Continue_Until_1am_Sat%2C_NATS_Warns_After_Iceland_Eruption)
-9. [BBC](http://news.bbc.co.uk/1/hi/uk/8623806.stm)
-10. [CNN](http://edition.cnn.com/2010/TRAVEL/04/16/iceland.flights.volcano/index.html)
-11. [BBC](http://news.bbc.co.uk/1/hi/business/8624663.stm)
-12. [CNN](http://edition.cnn.com/2010/TECH/ptech/04/16/volcano.ash.norway.ipad/)
-13. [RTÉ](http://www.rte.ie/news/2010/0416/travel.html)
+4. [BBC](http://news.bbc.co.uk/1/hi/uk/8623806.stm)
+5. [Barcelona Reporter](http://www.barcelonareporter.com/index.php?/news/comments/ryanair_flights_cancelled_from_17_04_2010_till_until_1300hrs_19th_april_lis/1704100740pm)
+6. [CNN](http://edition.cnn.com/2010/TECH/ptech/04/16/volcano.ash.norway.ipad/)
+7. [CNN](http://edition.cnn.com/2010/TRAVEL/04/16/iceland.flights.volcano/index.html)
+8. [Irish Independent](http://www.independent.ie/national-news/thousands-grounded-until-next-week-2141959.html)
+9. [Los Angeles Times](http://www.latimes.com/technology/sns-ap-eu-norway-prime-minister-ipad,0,6981809.story)
+10. [New York Daily News](http://www.nydailynews.com/news/world/2010/04/16/2010-04-16_volcanic_ash_strands_norway_prime_minister_jens_stotlenberg_in_nyc_airport_so_he.html)
+11. [RTÉ](http://www.rte.ie/news/2010/0416/travel.html)
+12. [Reuters](http://www.reuters.com/article/idUSWLB270820100416?type=marketsNews)
+13. [Sky News](http://news.sky.com/skynews/Home/UK-News/Volcano-Ash-Cloud-Flight-Restrictions-Will-Continue-Until-1am-Sat-NATS-Warns-After-Iceland-Eruption/Article/201004315604129?lpos=UK_News_Top_Stories_Header_0&lid=ARTICLE_15604129_Volcano_Ash_Cloud_Flight_Restrictions_Will_Continue_Until_1am_Sat%2C_NATS_Warns_After_Iceland_Eruption)
 
 ### Related:
 

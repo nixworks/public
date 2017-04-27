@@ -7,7 +7,7 @@ Residents of Harasta say entrances blocked by elite forces as foreign minister g
 _Context: Bingu wa Mutharika, Malawi, President_
 
 ### [Iranian Ali Aghazadeh Dafsari claims that Revolutionary Guard forces shot down a U.S. spy drone over the Fordo located uranium enrichment facility. ](/news/2011/07/20/iranian-ali-aghazadeh-dafsari-claims-that-revolutionary-guard-forces-shot-down-a-u-s-spy-drone-over-the-fordo-located-uranium-enrichment-fa.md)
-_Context: Ali Aghazadeh Dafsari, Fordo, Iran, Iranian Revolutionary guards, U.S., uranium enrichment_
+_Context: Ali Aghazadeh Dafsari, Fordo, Iran, Iranian Revolutionary guards, United States, uranium enrichment_
 
 ### [Up to 80 people, including soldiers, are arrested in Guinea after a failed assassination attempt on President Alpha Conde on 19 July. ](/news/2011/07/20/up-to-80-people-including-soldiers-are-arrested-in-guinea-after-a-failed-assassination-attempt-on-president-alpha-conda-c-on-19-july.md)
 _Context: Alpha Condé's, Guinea, President_

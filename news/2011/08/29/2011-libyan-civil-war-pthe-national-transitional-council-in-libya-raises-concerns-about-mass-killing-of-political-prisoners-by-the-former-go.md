@@ -7,10 +7,10 @@ As many as 50,000 political prisoners may still be trapped in underground jails 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-14709896)
-2. [AM via ABC News Online](http://www.abc.net.au/news/2011-08-29/50000-political-prisoners-missing-in-libya/2860402?section=world)
-3. [Reuters](http://ca.reuters.com/article/topNews/idCATRE77A2Y920110829)
-4. [AP via France 24](http://www.france24.com/en/20110828-libya-evidence-mass-killings-found-tripoli-gaddafi?ns_campaign=nl_quot_en&amp;ns_mchannel=email_marketing&amp;ns_source=NLQ_20110829&amp;f24_member_id=&amp;ns_linkname=node_5237945&amp;ns_fee=0)
+1. [AM via ABC News Online](http://www.abc.net.au/news/2011-08-29/50000-political-prisoners-missing-in-libya/2860402?section=world)
+2. [AP via France 24](http://www.france24.com/en/20110828-libya-evidence-mass-killings-found-tripoli-gaddafi?ns_campaign=nl_quot_en&amp;ns_mchannel=email_marketing&amp;ns_source=NLQ_20110829&amp;f24_member_id=&amp;ns_linkname=node_5237945&amp;ns_fee=0)
+3. [BBC](http://www.bbc.co.uk/news/world-africa-14709896)
+4. [Reuters](http://ca.reuters.com/article/topNews/idCATRE77A2Y920110829)
 
 ### Related:
 

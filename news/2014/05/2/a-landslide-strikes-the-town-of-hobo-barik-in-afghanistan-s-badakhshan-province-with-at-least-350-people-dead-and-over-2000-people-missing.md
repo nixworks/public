@@ -7,8 +7,8 @@ A landslide triggered by heavy rains buried a village in northeastern Afghanista
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/world/2014/05/02/afghanistan-landslide/8607051/)
-2. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-05-02-Afghanistan-Landslide/id-a12d2e538369414fbad43e4af30ad96a)
+1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-05-02-Afghanistan-Landslide/id-a12d2e538369414fbad43e4af30ad96a)
+2. [USA Today](http://www.usatoday.com/story/news/world/2014/05/02/afghanistan-landslide/8607051/)
 
 ### Related:
 

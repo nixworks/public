@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.reuters.com/article/2015/09/28/us-spain-catalonia-idUSKCN0RQ0RN20150928)
-2. [AP via U.S. News & World Report](http://www.usnews.com/news/world/articles/2015/09/28/spain-catalan-secession-parties-triumph-but-face-problems)
+1. [AP via U.S. News & World Report](http://www.usnews.com/news/world/articles/2015/09/28/spain-catalan-secession-parties-triumph-but-face-problems)
+2. [BBC](http://www.reuters.com/article/2015/09/28/us-spain-catalonia-idUSKCN0RQ0RN20150928)
 
 ### Related:
 

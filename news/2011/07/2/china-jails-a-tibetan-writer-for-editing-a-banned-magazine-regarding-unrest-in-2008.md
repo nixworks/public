@@ -7,8 +7,8 @@ A Tibetan writer was sentenced to four years in jail last month after helping ed
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14001956)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jzZQCl0IStRvLQas7a_zg26B_GfA?docId=CNG.34a11628a7892b6c861a8ffb743aafa7.631)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jzZQCl0IStRvLQas7a_zg26B_GfA?docId=CNG.34a11628a7892b6c861a8ffb743aafa7.631)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14001956)
 3. [Reuters](http://www.reuters.com/article/2011/07/02/us-china-tibet-writer-idUSTRE7610GJ20110702)
 
 ### Related:

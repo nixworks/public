@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/idUKTRE64P46S20100526)
-2. [The Times](http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/music/festivals/article7137140.ece)
+1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8706700.stm)
+2. [CBC](http://www.cbc.ca/arts/music/story/2010/05/26/gorillaz-glastonbury.html)
 3. [RTÉ](http://www.rte.ie/arts/2010/0526/u2.html)
-4. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8706700.stm)
-5. [CBC](http://www.cbc.ca/arts/music/story/2010/05/26/gorillaz-glastonbury.html)
+4. [Reuters](http://uk.reuters.com/article/idUKTRE64P46S20100526)
+5. [The Times](http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/music/festivals/article7137140.ece)
 
 ### Related:
 

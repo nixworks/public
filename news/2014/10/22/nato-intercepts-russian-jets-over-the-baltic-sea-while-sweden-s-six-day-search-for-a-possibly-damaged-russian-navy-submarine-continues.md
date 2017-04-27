@@ -7,9 +7,9 @@ Sweden could use weapons in the search for a suspected foreign submarine near th
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-europe-29721461)
-2. [Europe Online Magazine](http://en.europeonline-magazine.eu/swedish-search-for-alleged-mystery-submarine-enters-new-phase_360737.html)
-3. [AP via ''Daily Telegraph](http://www.dailytelegraph.com.au/news/world/nato-intercepts-russian-jets-over-baltic-sea-as-sweden-continues-search-for-a-suspected-damaged-submarine/story-fni0xs63-1227098799704?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+dailytelegraphtopstoriesndm+%28Daily+Telegraph+%7C+T)
+1. [AP via ''Daily Telegraph](http://www.dailytelegraph.com.au/news/world/nato-intercepts-russian-jets-over-baltic-sea-as-sweden-continues-search-for-a-suspected-damaged-submarine/story-fni0xs63-1227098799704?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+dailytelegraphtopstoriesndm+%28Daily+Telegraph+%7C+T)
+2. [BBC](http://www.bbc.com/news/world-europe-29721461)
+3. [Europe Online Magazine](http://en.europeonline-magazine.eu/swedish-search-for-alleged-mystery-submarine-enters-new-phase_360737.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ NATO and Russia on Saturday resumed formal cooperation on broad security threats
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE55Q0TZ20090627)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/06/2009627165310578387.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/06/2009627165310578387.html)
+2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE55Q0TZ20090627)
 
 ### Related:
 

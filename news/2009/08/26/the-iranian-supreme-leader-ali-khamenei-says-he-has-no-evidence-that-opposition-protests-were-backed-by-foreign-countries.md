@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8223606.stm)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gKJiDk412Q1-rheXyVWSKcKKsyQg)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gKJiDk412Q1-rheXyVWSKcKKsyQg)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8223606.stm)
 3. [Press TV](http://www.presstv.ir/detail.aspx?id=104567&sectionid=351020101)
 
 ### Related:

@@ -7,8 +7,8 @@ Heavy rainfall caused the banks of the Mocoa River and three tributaries to over
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-colombia-landslide-idUSKBN1733HY)
-2. [Hindustan Times](http://www.hindustantimes.com/world-news/over-90-people-killed-in-colombia-landslides/story-gkjdvRNu2M6zhuDQYJUd3K.html)
+1. [Hindustan Times](http://www.hindustantimes.com/world-news/over-90-people-killed-in-colombia-landslides/story-gkjdvRNu2M6zhuDQYJUd3K.html)
+2. [Reuters](http://www.reuters.com/article/us-colombia-landslide-idUSKBN1733HY)
 
 ### Related:
 

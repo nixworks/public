@@ -7,8 +7,8 @@ North Korea reportedly held a meeting earlier this month aimed at hampering the 
 
 ### Source:
 
-1. [Korea Times](http://www.koreatimes.co.kr/www/news/nation/2010/09/113_73409.html)
-2. [Arirang News](http://www.arirang.co.kr/News/News_View.asp?nseq=107186&code=Ne2&category=2)
+1. [Arirang News](http://www.arirang.co.kr/News/News_View.asp?nseq=107186&code=Ne2&category=2)
+2. [Korea Times](http://www.koreatimes.co.kr/www/news/nation/2010/09/113_73409.html)
 
 ### Related:
 

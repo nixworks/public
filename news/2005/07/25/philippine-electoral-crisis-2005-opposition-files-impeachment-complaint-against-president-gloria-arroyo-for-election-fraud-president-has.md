@@ -7,12 +7,12 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Manila Bulletin](http://www.mb.com.ph/MAIN2005072340046.html)
-2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/159677/1/.html)
-3. [Sun Star](http://www.sunstar.com.ph/static/net/2005/07/25/40.solons.file.impeachment.complaint.against.arroyo.html)
-4. [SABC](http://www.sabcnews.com/world/asia1pacific/0,2172,108989,00.html)
-5. [Reuters](http://today.reuters.com/business/newsarticle.aspx?type=tnBusinessNews&storyID=nMAN249395&imageid=&cap=)
-6. [Philstar](http://www.philstar.com/philstar/News200507239801.htm)
+1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/159677/1/.html)
+2. [Manila Bulletin](http://www.mb.com.ph/MAIN2005072340046.html)
+3. [Philstar](http://www.philstar.com/philstar/News200507239801.htm)
+4. [Reuters](http://today.reuters.com/business/newsarticle.aspx?type=tnBusinessNews&storyID=nMAN249395&imageid=&cap=)
+5. [SABC](http://www.sabcnews.com/world/asia1pacific/0,2172,108989,00.html)
+6. [Sun Star](http://www.sunstar.com.ph/static/net/2005/07/25/40.solons.file.impeachment.complaint.against.arroyo.html)
 
 ### Related:
 

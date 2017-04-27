@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters via Yahoo!](http://sports.yahoo.com/news/soccer-romanian-munteanu-named-mordovia-coach-124848302--sow.html)
-2. [R-Sport](http://en.rsport.ru/football/20121228/637481275.html)
+1. [R-Sport](http://en.rsport.ru/football/20121228/637481275.html)
+2. [Reuters via Yahoo!](http://sports.yahoo.com/news/soccer-romanian-munteanu-named-mordovia-coach-124848302--sow.html)
 
 ### Related:
 

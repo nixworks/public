@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [Yemen Observer](http://www.yobserver.com/front-page/10019814.html)
-2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_world/view/1085440/1/.html)
-3. [ (Reuters](http://www.reuters.com/article/idUSTRE69516E20101006?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+reuters/topNews+(News+/+US+/+Top+News))
-4. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gERk8MGfLbRsdOpUdiDd92gbUD7g?docId=CNG.1e1a9fce48fee772c40344d3f21d3cc9.2b1)
-5. [Reuters via the ''New York Times](http://www.nytimes.com/reuters/2010/10/06/world/international-uk-yemen-omv-gunman.html?_r=1&partner=rss&emc=rss)
+1. [ (Reuters](http://www.reuters.com/article/idUSTRE69516E20101006?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+reuters/topNews+(News+/+US+/+Top+News))
+2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gERk8MGfLbRsdOpUdiDd92gbUD7g?docId=CNG.1e1a9fce48fee772c40344d3f21d3cc9.2b1)
+3. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_world/view/1085440/1/.html)
+4. [Reuters via the ''New York Times](http://www.nytimes.com/reuters/2010/10/06/world/international-uk-yemen-omv-gunman.html?_r=1&partner=rss&emc=rss)
+5. [Yemen Observer](http://www.yobserver.com/front-page/10019814.html)
 
 ### Related:
 

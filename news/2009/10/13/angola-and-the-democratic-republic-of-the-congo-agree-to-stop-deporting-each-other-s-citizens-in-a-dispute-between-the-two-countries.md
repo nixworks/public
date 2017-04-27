@@ -7,8 +7,8 @@ Both countries had forced out each other’s citizens; some had fled war, while 
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2009/10/14/world/africa/14angola.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8304282.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8304282.stm)
+2. [The New York Times](http://www.nytimes.com/2009/10/14/world/africa/14angola.html)
 
 ### Related:
 

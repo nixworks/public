@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-11/03/c_13588034.htm)
-2. [BBC](http://www.bbc.co.uk/news/uk-politics-11670247)
+1. [BBC](http://www.bbc.co.uk/news/uk-politics-11670247)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-11/03/c_13588034.htm)
 
 ### Related:
 

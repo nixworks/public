@@ -9,8 +9,8 @@
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4402326.stm)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4402502.stm)
-3. [The Guardian](http://www.guardian.co.uk/israel/Story/0,2763,1607450,00.html)
-4. [Haaretz] [http://news.bbc.co.uk/2/hi/middle_east/4402502.stm (BBC](http://www.haaretz.com/hasen/spages/641578.html)
+3. [Haaretz] [http://news.bbc.co.uk/2/hi/middle_east/4402502.stm (BBC](http://www.haaretz.com/hasen/spages/641578.html)
+4. [The Guardian](http://www.guardian.co.uk/israel/Story/0,2763,1607450,00.html)
 
 ### Related:
 

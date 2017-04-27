@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [euronews](http://www.euronews.net/2009/11/24/eu-telecoms-reforms-enter-force-in-december/)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gtFO00mW0L6De13E0vfo_9W6XRjQ)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gtFO00mW0L6De13E0vfo_9W6XRjQ)
+2. [euronews](http://www.euronews.net/2009/11/24/eu-telecoms-reforms-enter-force-in-december/)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Protesters&#x20;have&#x20;called&#x20;for&#x20;&quot;a&#x20;day&#x20;of&#x20;ang
 
 ### Source:
 
-1. [France 24](http://www.france24.com/en/20110203-syria-democracy-protests-facebook-twitter-friday-prayers-egypt)
-2. [CP via Google News](http://www.google.com/hostednews/canadianpress/article/ALeqM5hFHMKFa4GUqWoKwUBD6VLjfmKWWg?docId=5852175)
+1. [CP via Google News](http://www.google.com/hostednews/canadianpress/article/ALeqM5hFHMKFa4GUqWoKwUBD6VLjfmKWWg?docId=5852175)
+2. [France 24](http://www.france24.com/en/20110203-syria-democracy-protests-facebook-twitter-friday-prayers-egypt)
 
 ### Related:
 

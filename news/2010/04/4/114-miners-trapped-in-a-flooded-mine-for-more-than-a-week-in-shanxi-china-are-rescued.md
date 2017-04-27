@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-04/05/c_13237300.htm)
-2. [AP](http://www.nytimes.com/aponline/2010/04/05/world/AP-AS-China-Mine-Flood.html)
+1. [AP](http://www.nytimes.com/aponline/2010/04/05/world/AP-AS-China-Mine-Flood.html)
+2. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-04/05/c_13237300.htm)
 
 ### Related:
 

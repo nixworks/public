@@ -7,8 +7,8 @@ A super typhoon slammed into China on Friday killing one person, as the governme
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2014/07/18/us-china-typhoon-idUSKBN0FN0BM20140718)
-2. [Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/3-reported-killed-as-roof/1270872.html?cid=FBINT)
+1. [Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/3-reported-killed-as-roof/1270872.html?cid=FBINT)
+2. [Reuters](http://www.reuters.com/article/2014/07/18/us-china-typhoon-idUSKBN0FN0BM20140718)
 
 ### Related:
 

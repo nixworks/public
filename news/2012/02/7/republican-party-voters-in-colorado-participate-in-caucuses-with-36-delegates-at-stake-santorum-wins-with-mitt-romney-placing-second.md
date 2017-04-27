@@ -7,14 +7,14 @@ US conservative Rick Santorum wins races for the Republican presidential nominat
 
 ### Source:
 
-1. [NPR](http://www.npr.org/2012/02/06/146453136/voters-gear-up-for-minnesota-caucuses)
+1. [9 News](http://www.9news.com/news/article/247404/222/Busy-day-for-candidates-before-Tuesdays-Colorado-caucus)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-16938713)
 3. [Denver Post](http://www.denverpost.com/breakingnews/ci_19914772)
 4. [Fox News](http://www.foxnews.com/politics/2012/02/07/santorum-romney-gingrich-paul-colorado-minnesota-missouri-republican/)
-5. [Reuters](http://www.reuters.com/article/2012/02/08/us-usa-campaign-idUSTRE80Q2AQ20120208?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
-6. [The Guardian](http://www.guardian.co.uk/world/2012/feb/07/colorado-minnesota-missouri-results-live)
-7. [Joplin Globe](http://www.joplinglobe.com/local/x2009901121/Missouri-primary-may-be-dim-indicator-at-best)
-8. [9 News](http://www.9news.com/news/article/247404/222/Busy-day-for-candidates-before-Tuesdays-Colorado-caucus)
+5. [Joplin Globe](http://www.joplinglobe.com/local/x2009901121/Missouri-primary-may-be-dim-indicator-at-best)
+6. [NPR](http://www.npr.org/2012/02/06/146453136/voters-gear-up-for-minnesota-caucuses)
+7. [Reuters](http://www.reuters.com/article/2012/02/08/us-usa-campaign-idUSTRE80Q2AQ20120208?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+8. [The Guardian](http://www.guardian.co.uk/world/2012/feb/07/colorado-minnesota-missouri-results-live)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Die Welt](https://www.welt.de/vermischtes/article159947230/Tote-Studentin-Verdaechtiger-ist-17-jaehriger-Fluechtling.html)
-2. [Der Spiegel](http://www.spiegel.de/panorama/justiz/getoetete-studentin-in-freiburg-tatverdaechtiger-moerder-ist-erst-17-a-1124301.html)
+1. [Der Spiegel](http://www.spiegel.de/panorama/justiz/getoetete-studentin-in-freiburg-tatverdaechtiger-moerder-ist-erst-17-a-1124301.html)
+2. [Die Welt](https://www.welt.de/vermischtes/article159947230/Tote-Studentin-Verdaechtiger-ist-17-jaehriger-Fluechtling.html)
 
 ### Related:
 

@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/11/201011298230409478.html)
-2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-11/29/c_13627188.htm)
-3. [Thai News Agency](http://www.mcot.net/cfcustom/cache_page/136330.html)
+2. [Thai News Agency](http://www.mcot.net/cfcustom/cache_page/136330.html)
+3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-11/29/c_13627188.htm)
 
 ### Related:
 

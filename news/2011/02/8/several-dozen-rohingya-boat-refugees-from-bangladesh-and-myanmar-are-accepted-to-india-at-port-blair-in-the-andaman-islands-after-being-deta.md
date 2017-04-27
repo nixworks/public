@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-12413528)
-2. [The Ecologist](http://www.theecologist.org/News/news_round_up/761761/photo_story_bangladeshs_climate_refugees.html)
-3. [The Canadian Press](http://www.google.com/hostednews/canadianpress/article/ALeqM5joTrPSZHVWqmdA2ELtsLipxdYNHQ)
+2. [The Canadian Press](http://www.google.com/hostednews/canadianpress/article/ALeqM5joTrPSZHVWqmdA2ELtsLipxdYNHQ)
+3. [The Ecologist](http://www.theecologist.org/News/news_round_up/761761/photo_story_bangladeshs_climate_refugees.html)
 
 ### Related:
 

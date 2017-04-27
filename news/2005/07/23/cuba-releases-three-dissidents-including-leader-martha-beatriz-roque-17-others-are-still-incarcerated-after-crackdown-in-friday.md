@@ -7,8 +7,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-07-23T232804Z_01_N23514984_RTRIDST_0_INTERNATIONAL-CUBA-DISSIDENTS-DC.XML)
-2. [Cubanet](http://www.cubanet.org/CNews/y05/jul05/25e8.htm)
+1. [Cubanet](http://www.cubanet.org/CNews/y05/jul05/25e8.htm)
+2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-07-23T232804Z_01_N23514984_RTRIDST_0_INTERNATIONAL-CUBA-DISSIDENTS-DC.XML)
 
 ### Related:
 

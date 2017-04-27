@@ -7,7 +7,7 @@ A new record was set for the world&#039;s most expensive printed book at an auct
 
 ### Source:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/eu_britain_rare_book)
-2. [The Guardian](http://www.guardian.co.uk/books/2010/dec/07/world-most-expensive-book-sold)
-3. [AFP via ''The Straits Times](http://www.straitstimes.com/BreakingNews/Lifestyle/Story/STIStory_611573.html)
+1. [AFP via ''The Straits Times](http://www.straitstimes.com/BreakingNews/Lifestyle/Story/STIStory_611573.html)
+2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/eu_britain_rare_book)
+3. [The Guardian](http://www.guardian.co.uk/books/2010/dec/07/world-most-expensive-book-sold)
 4. [The Independent](http://www.independent.co.uk/arts-entertainment/books/news/worlds-most-costly-book-sells-for-1637m-2154061.html)

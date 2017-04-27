@@ -7,12 +7,12 @@ A U.S. call for NATO to launch direct attacks on the drugs trade fueling the Tal
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE4983OQ20081009)
-2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE4980BC20081009)
-3. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7662127.stm)
-4. [AFP via Yahoo News](http://news.yahoo.com/s/afp/20081009/wl_sthasia_afp/afghanistanunrest;_ylt=AphIZVDDDiXvgbEJduZZykkBxg8F)
-5. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7660835.stm)
-6. [AP via Yahoo News](http://news.yahoo.com/s/ap/20081009/ap_on_re_as/as_pakistan)
+1. [AFP via Yahoo News](http://news.yahoo.com/s/afp/20081009/wl_sthasia_afp/afghanistanunrest;_ylt=AphIZVDDDiXvgbEJduZZykkBxg8F)
+2. [AP via Yahoo News](http://news.yahoo.com/s/ap/20081009/ap_on_re_as/as_pakistan)
+3. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7660835.stm)
+4. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7662127.stm)
+5. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE4980BC20081009)
+6. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE4983OQ20081009)
 
 ### Related:
 

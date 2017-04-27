@@ -9,8 +9,8 @@ A senior aide to PresidentBarack Obama did not rule out on Wednesday the eventua
 
 1. [Reuters](http://www.reuters.com/article/2012/08/08/syria-usa-idUSL2E8J8CNO20120808)
 2. [Reuters](http://www.reuters.com/article/2012/08/09/us-syria-crisis-idUSBRE8610SH20120809)
-3. [The Voice of Russia](http://english.ruvr.ru/2012_08_08/Russian-ambassador-to-attend-Syria-meeting-in-Tehran/)
-4. [The Moscow Times](http://www.themoscowtimes.com/news/article/russian-general-denies-being-killed-in-syria/466290.html)
+3. [The Moscow Times](http://www.themoscowtimes.com/news/article/russian-general-denies-being-killed-in-syria/466290.html)
+4. [The Voice of Russia](http://english.ruvr.ru/2012_08_08/Russian-ambassador-to-attend-Syria-meeting-in-Tehran/)
 
 ### Related:
 

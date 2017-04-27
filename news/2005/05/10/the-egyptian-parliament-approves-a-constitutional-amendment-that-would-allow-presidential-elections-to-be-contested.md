@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4531903.stm)
-2. [Arab News](http://www.arabnews.com/?page=4&section=0&article=63581&d=11&m=5&y=2005)
+1. [Arab News](http://www.arabnews.com/?page=4&section=0&article=63581&d=11&m=5&y=2005)
+2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4531903.stm)
 3. [IHT](http://www.iht.com/articles/2005/05/11/news/egypt.php)
 
 ### Related:

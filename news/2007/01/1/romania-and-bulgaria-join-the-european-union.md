@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [IHT](http://www.iht.com/articles/ap/2007/01/01/europe/EU_GEN_Bulgaria_Romania_EU.php)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/6222673.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/6222673.stm)
+2. [IHT](http://www.iht.com/articles/ap/2007/01/01/europe/EU_GEN_Bulgaria_Romania_EU.php)
 
 ### Related:
 

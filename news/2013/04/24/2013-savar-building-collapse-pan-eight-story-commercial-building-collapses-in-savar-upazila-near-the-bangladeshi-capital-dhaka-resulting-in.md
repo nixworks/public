@@ -7,8 +7,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [Daily Mail](http://www.dailymail.co.uk/news/article-2313974/Eight-story-building-collapses-Bangladesh-killing-32-people-trapping-scores-mountain-rubble.html)
-2. [AP via ABC News](http://abcnews.go.com/International/wireStory/bangladesh-building-collapse-kills-traps-19027864)
+1. [AP via ABC News](http://abcnews.go.com/International/wireStory/bangladesh-building-collapse-kills-traps-19027864)
+2. [Daily Mail](http://www.dailymail.co.uk/news/article-2313974/Eight-story-building-collapses-Bangladesh-killing-32-people-trapping-scores-mountain-rubble.html)
 3. [Reuters via ''Sydney Morning Herald](http://www.smh.com.au/world/bangladesh-building-collapse-kills-25-20130424-2ieji.html)
 
 ### Related:

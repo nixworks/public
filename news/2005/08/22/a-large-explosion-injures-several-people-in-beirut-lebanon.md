@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2005/WORLD/meast/08/22/beirut.blast/index.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4175120.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4175120.stm)
+2. [CNN](http://www.cnn.com/2005/WORLD/meast/08/22/beirut.blast/index.html)
 
 ### Related:
 

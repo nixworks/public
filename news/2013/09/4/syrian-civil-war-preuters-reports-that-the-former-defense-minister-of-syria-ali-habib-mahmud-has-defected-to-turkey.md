@@ -7,8 +7,8 @@ A Russian expert report shows a makeshift weapon used in a chemical attack near 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/09/04/us-syria-crisis-russia-weapon-idUSBRE9830ZA20130904)
-2. [Reuters](http://www.reuters.com/article/2013/09/04/us-syria-crisis-defection-idUSBRE9830O420130904?feedType=RSS&feedName=topNews&utm_source=dlvr.it&utm_medium=twitter&dlvrit=992637)
+1. [Reuters](http://www.reuters.com/article/2013/09/04/us-syria-crisis-defection-idUSBRE9830O420130904?feedType=RSS&feedName=topNews&utm_source=dlvr.it&utm_medium=twitter&dlvrit=992637)
+2. [Reuters](http://www.reuters.com/article/2013/09/04/us-syria-crisis-russia-weapon-idUSBRE9830ZA20130904)
 3. [Reuters](http://www.reuters.com/article/2013/09/04/us-syria-crisis-usa-vote-idUSBRE9830XG20130904)
 
 ### Related:

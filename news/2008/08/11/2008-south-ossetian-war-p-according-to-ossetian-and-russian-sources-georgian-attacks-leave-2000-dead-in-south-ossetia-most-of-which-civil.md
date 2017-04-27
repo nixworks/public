@@ -7,13 +7,13 @@
 
 ### Source:
 
-1. [CNN via YouTube](http://www.youtube.com/watch?v=EOTjtO7bMyY)
-2. [Ars Technica](http://arstechnica.com/news.ars/post/20080811-georgian-government-websites-attacked-by-russian-hackers.html)
-3. [The New York Times](http://www.nytimes.com/2008/08/12/world/europe/12georgia.html)
-4. [Al Jazeera](http://english.aljazeera.net/news/europe/2008/08/2008810135036728694.html)
+1. [AFP via News.Com.Au](http://www.news.com.au/story/0,23599,24159851-23109,00.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/europe/2008/08/2008810135036728694.html)
+3. [Ars Technica](http://arstechnica.com/news.ars/post/20080811-georgian-government-websites-attacked-by-russian-hackers.html)
+4. [CNN via YouTube](http://www.youtube.com/watch?v=EOTjtO7bMyY)
 5. [CNN](http://edition.cnn.com/2008/WORLD/europe/08/11/georgia.president/index.html)
-6. [AFP via News.Com.Au](http://www.news.com.au/story/0,23599,24159851-23109,00.html)
-7. [The Guardian](http://www.guardian.co.uk/world/2008/aug/10/georgia.russia4)
+6. [The Guardian](http://www.guardian.co.uk/world/2008/aug/10/georgia.russia4)
+7. [The New York Times](http://www.nytimes.com/2008/08/12/world/europe/12georgia.html)
 
 ### Related:
 

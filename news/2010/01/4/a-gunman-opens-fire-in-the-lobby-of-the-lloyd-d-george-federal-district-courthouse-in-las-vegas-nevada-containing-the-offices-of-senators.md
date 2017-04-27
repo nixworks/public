@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NY Daily News](http://www.nydailynews.com/news/national/2010/01/04/2010-01-04_2_federal_marshals_shot_inside_las_vegas_federal_courthouse.html)
-2. [KRSO](http://www.ksro.com/news/article.aspx?id=1750613)
+1. [KRSO](http://www.ksro.com/news/article.aspx?id=1750613)
+2. [NY Daily News](http://www.nydailynews.com/news/national/2010/01/04/2010-01-04_2_federal_marshals_shot_inside_las_vegas_federal_courthouse.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The National Hurricane Center upgraded Matthew to a hurricane Thursday afternoon
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Top_News/US/2016/09/29/Matthew-becomes-hurricane-heads-to-Jamaica-Cuba-Bahamas/2481475152719/?spt=sec&or=tn)
-2. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/292351.shtml)
+1. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/292351.shtml)
+2. [UPI](http://www.upi.com/Top_News/US/2016/09/29/Matthew-becomes-hurricane-heads-to-Jamaica-Cuba-Bahamas/2481475152719/?spt=sec&or=tn)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Guardian](http://media.guardian.co.uk/site/story/0,14173,1583757,00.html)
-2. [Bloomberg](http://quote.bloomberg.com/apps/news?pid=10000006&sid=a8Oz4Q5TzDYs&refer=home)
+1. [Bloomberg](http://quote.bloomberg.com/apps/news?pid=10000006&sid=a8Oz4Q5TzDYs&refer=home)
+2. [Guardian](http://media.guardian.co.uk/site/story/0,14173,1583757,00.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Hungarian authorities evacuate the village of Kolontar amid fears of a second wa
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/skynews/Home/World-News/Toxic-Mud-Leak-In-Hungary-Causes-Evacuation-Of-Town-Of-Kolontar/Article/201010215754870?lpos=World_News_Carousel_Region_0&lid=ARTICLE_15754870_Toxic_Mud_Leak_In_Hungary_Causes_Evacuation_Of_Town_Of_Kolontar)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-11506713)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-11506713)
+2. [Sky News](http://news.sky.com/skynews/Home/World-News/Toxic-Mud-Leak-In-Hungary-Causes-Evacuation-Of-Town-Of-Kolontar/Article/201010215754870?lpos=World_News_Carousel_Region_0&lid=ARTICLE_15754870_Toxic_Mud_Leak_In_Hungary_Causes_Evacuation_Of_Town_Of_Kolontar)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080211/ap_on_el_pr/maine_caucuses_13;_ylt=AmU3eQZcua93EW9bQBFzmsUE1vAI)
-2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080211/ap_on_el_pr/clinton_campaign_manager_11;_ylt=Am6MJDOiN8dpPrNIYcf_8MME1vAI)
+1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080211/ap_on_el_pr/clinton_campaign_manager_11;_ylt=Am6MJDOiN8dpPrNIYcf_8MME1vAI)
+2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080211/ap_on_el_pr/maine_caucuses_13;_ylt=AmU3eQZcua93EW9bQBFzmsUE1vAI)
 
 ### Related:
 

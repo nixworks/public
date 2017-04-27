@@ -7,9 +7,9 @@ The Belgian region of Wallonia rejected new amendments to a planned EU-Canada fr
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2016/10/21/world/europe/brexit-migration-walloons-eus-list-of-crises-keeps-growing.html?_r=0)
-2. [NASDAQ](http://www.nasdaq.com/article/eu-calls-emergency-meeting-to-save-canadian-free-trade-deal-cm696011)
-3. [Reuters](http://www.reuters.com/article/us-eu-canada-trade-idUSKCN12K1Z3)
+1. [NASDAQ](http://www.nasdaq.com/article/eu-calls-emergency-meeting-to-save-canadian-free-trade-deal-cm696011)
+2. [Reuters](http://www.reuters.com/article/us-eu-canada-trade-idUSKCN12K1Z3)
+3. [The New York Times](http://www.nytimes.com/2016/10/21/world/europe/brexit-migration-walloons-eus-list-of-crises-keeps-growing.html?_r=0)
 
 ### Related:
 
@@ -22,4 +22,4 @@ The Belgian region of Wallonia rejected new amendments to a planned EU-Canada fr
 7. [The Prime Minister of Canada and the European Union tentatively sign a free trade and copyright agreement. ](/news/2013/10/18/the-prime-minister-of-canada-and-the-european-union-tentatively-sign-a-free-trade-and-copyright-agreement.md) _Context: Comprehensive Economic and Trade Agreement, European Union_
 8. [European Union leaders agree to reform of the Treaty of Lisbon to keep member states budget deficits in line at a two-day summit in Brussels, Belgium. ](/news/2010/10/29/european-union-leaders-agree-to-reform-of-the-treaty-of-lisbon-to-keep-member-states-budget-deficits-in-line-at-a-two-day-summit-in-brussels.md) _Context: Belgium, European Union_
 9. [ Leaders of the European Union meet in Brussels, Belgium with climate change and energy security dominating the agenda. ](/news/2008/03/13/leaders-of-the-european-union-meet-in-brussels-belgium-with-climate-change-and-energy-security-dominating-the-agenda.md) _Context: Belgium, European Union_
-10. [Investigative journalism on court-released internal email reveals that Monsanto influenced scientific research enabling the European Union approval to market glyphosate. ](/news/2017/04/25/investigative-journalism-on-court-released-internal-email-reveals-that-monsanto-influenced-scientific-research-enabling-the-european-union-a.md) _Context: European Union_
+10. [The Democratic Republic of the Congo suspends its military cooperation with Belgium. ](/news/2017/04/13/the-democratic-republic-of-the-congo-suspends-its-military-cooperation-with-belgium.md) _Context: Belgium_

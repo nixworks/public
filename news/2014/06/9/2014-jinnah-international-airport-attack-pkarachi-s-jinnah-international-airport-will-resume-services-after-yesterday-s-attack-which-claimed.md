@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Wall Street Journal](http://online.wsj.com/articles/gunmen-attack-karachi-airport-1402301470?mod=ask)
-2. [Sky News Australia](http://www.skynews.com.au/news/top-stories/2014/06/09/pakistan-airport-attack-leaves-21-dead.html)
+1. [Sky News Australia](http://www.skynews.com.au/news/top-stories/2014/06/09/pakistan-airport-attack-leaves-21-dead.html)
+2. [Wall Street Journal](http://online.wsj.com/articles/gunmen-attack-karachi-airport-1402301470?mod=ask)
 
 ### Related:
 

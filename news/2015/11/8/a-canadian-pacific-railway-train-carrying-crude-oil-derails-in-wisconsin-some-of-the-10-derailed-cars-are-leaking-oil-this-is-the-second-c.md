@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [WBAY](http://wbay.com/2015/11/08/wisconsin-train-derailment-leaks-ethanol-into-the-mississippi-river/)
-2. [AP via Houston Chronicle](http://www.chron.com/news/science/article/Train-derailment-spilled-thousands-of-gallons-of-6618225.php)
+1. [AP via Houston Chronicle](http://www.chron.com/news/science/article/Train-derailment-spilled-thousands-of-gallons-of-6618225.php)
+2. [WBAY](http://wbay.com/2015/11/08/wisconsin-train-derailment-leaks-ethanol-into-the-mississippi-river/)
 
 ### Related:
 

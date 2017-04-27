@@ -7,9 +7,9 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [Al-Arabiya](http://www.alarabiya.net/articles/2011/02/17/138093.html)
-2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE71H0QO20110218)
-3. [AP via ABC News America](http://abcnews.go.com/International/wireStory?id=12953255)
+1. [AP via ABC News America](http://abcnews.go.com/International/wireStory?id=12953255)
+2. [Al-Arabiya](http://www.alarabiya.net/articles/2011/02/17/138093.html)
+3. [Reuters](http://af.reuters.com/article/topNews/idAFJOE71H0QO20110218)
 
 ### Related:
 

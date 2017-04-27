@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [China Daily](http://www.chinadaily.com.cn/olympics/2008-08/14/content_6935552.htm)
-2. [AP via Google News](http://ap.google.com/article/ALeqM5ipLDlGWXrx7rQG9GLjvBDvyiXXLgD92HQO000)
+1. [AP via Google News](http://ap.google.com/article/ALeqM5ipLDlGWXrx7rQG9GLjvBDvyiXXLgD92HQO000)
+2. [China Daily](http://www.chinadaily.com.cn/olympics/2008-08/14/content_6935552.htm)
 
 ### Related:
 

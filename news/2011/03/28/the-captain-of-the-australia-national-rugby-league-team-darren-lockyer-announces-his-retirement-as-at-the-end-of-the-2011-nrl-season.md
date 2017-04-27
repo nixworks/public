@@ -7,8 +7,8 @@ Brisbane Broncos captain Darren Lockyer will hang up the boots at the end of the
 
 ### Source:
 
-1. [Melbourne Herald-Sun](http://www.heraldsun.com.au/sport/nrl/darren-lockyer-announces-retirement-at-end-of-nrl-season/story-e6frfgbo-1226029373898)
-2. [Brisbane Times](http://www.brisbanetimes.com.au/rugby-league/league-news/darren-lockyer-to-call-it-quits-20110328-1ccsr.html)
+1. [Brisbane Times](http://www.brisbanetimes.com.au/rugby-league/league-news/darren-lockyer-to-call-it-quits-20110328-1ccsr.html)
+2. [Melbourne Herald-Sun](http://www.heraldsun.com.au/sport/nrl/darren-lockyer-announces-retirement-at-end-of-nrl-season/story-e6frfgbo-1226029373898)
 
 ### Related:
 

@@ -7,9 +7,9 @@ For the first time, researchers have found a person in the United States carryin
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/news/to-your-health/wp/2016/05/26/the-superbug-that-doctors-have-been-dreading-just-reached-the-u-s/?hpid=hp_rhp-top-table-main_tyh-superbug-255pm%3Ahomepage%2Fstory)
+1. [Antimicrobial Agents and Chemotherapy](http://aac.asm.org/content/early/2016/05/25/AAC.01103-16.full.pdf+html)
 2. [National Geographic](http://phenomena.nationalgeographic.com/2016/05/26/colistin-r-9/)
-3. [Antimicrobial Agents and Chemotherapy](http://aac.asm.org/content/early/2016/05/25/AAC.01103-16.full.pdf+html)
+3. [The Washington Post](https://www.washingtonpost.com/news/to-your-health/wp/2016/05/26/the-superbug-that-doctors-have-been-dreading-just-reached-the-u-s/?hpid=hp_rhp-top-table-main_tyh-superbug-255pm%3Ahomepage%2Fstory)
 
 ### Related:
 

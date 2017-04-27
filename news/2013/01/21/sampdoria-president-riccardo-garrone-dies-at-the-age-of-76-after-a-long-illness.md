@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Forza](http://forzaitalianfootball.com/2013/01/sampdoria-president-riccardo-garrone-passes-away/)
-2. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1308324/sampdoria-president-riccardo-garrone-dies)
-3. [Football Italia](http://www.football-italia.net/29769/sampdoria-chief-garrone-dies)
+1. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1308324/sampdoria-president-riccardo-garrone-dies)
+2. [Football Italia](http://www.football-italia.net/29769/sampdoria-chief-garrone-dies)
+3. [Forza](http://forzaitalianfootball.com/2013/01/sampdoria-president-riccardo-garrone-passes-away/)
 
 ### Related:
 

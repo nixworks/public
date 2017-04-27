@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6611245.stm)
-2. [AP via International Herald Tribute](http://www.iht.com/articles/ap/2007/05/01/asia/AS-GEN-Macau-May-Day.php)
+1. [AP via International Herald Tribute](http://www.iht.com/articles/ap/2007/05/01/asia/AS-GEN-Macau-May-Day.php)
+2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6611245.stm)
 
 ### Related:
 

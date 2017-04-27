@@ -7,8 +7,8 @@ All 22 people travelling in a small passenger plane that crashed in Nepal are de
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/12/15/nepal.plane.crash/)
-2. [BBC](http://www.bbc.co.uk/news/world-south-asia-12000786)
+1. [BBC](http://www.bbc.co.uk/news/world-south-asia-12000786)
+2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/12/15/nepal.plane.crash/)
 
 ### Related:
 

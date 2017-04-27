@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Voice of America](http://www1.voanews.com/english/news/middle-east/Regional-Summit-Leaders-Denounce-Israeli-Raid-on-Aid-Flotilla-95874019.html)
-2. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/201068165042815907.html)
+1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/201068165042815907.html)
+2. [Voice of America](http://www1.voanews.com/english/news/middle-east/Regional-Summit-Leaders-Denounce-Israeli-Raid-on-Aid-Flotilla-95874019.html)
 3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/09/c_13340397.htm)
 
 ### Related:

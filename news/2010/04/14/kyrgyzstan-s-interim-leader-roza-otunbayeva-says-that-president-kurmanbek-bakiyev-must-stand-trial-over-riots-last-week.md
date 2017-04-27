@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/world/europe/Ousted-Kyrgyz-president-must-stand-trial-New-leader/articleshow/5802494.cms)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/04/201041482412294846.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/04/201041482412294846.html)
+2. [Times of India](http://timesofindia.indiatimes.com/world/europe/Ousted-Kyrgyz-president-must-stand-trial-New-leader/articleshow/5802494.cms)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Alexei Navalny, a key figure in rallies that swept Russia after disputed parliam
 
 ### Source:
 
-1. [RIA Novosti](http://en.ria.ru/russia/20111221/170398178.html)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-16279939)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-16279939)
+2. [RIA Novosti](http://en.ria.ru/russia/20111221/170398178.html)
 
 ### Related:
 

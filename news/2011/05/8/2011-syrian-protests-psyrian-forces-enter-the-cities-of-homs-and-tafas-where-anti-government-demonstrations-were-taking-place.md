@@ -7,8 +7,8 @@ Syrian security forces enter the city of Homs making a number of arrests, as nat
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-13327815)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/20115891758964745.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/20115891758964745.html)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-13327815)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Italian Prime Minister Matteo Renzi looks to have suffered a heavy defeat in the
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-italy-referendum-idUSKBN13T019)
+1. [BBC](http://www.bbc.com/news/world-europe-38204189#)
 2. [Reuters via ABC News Australia](http://www.abc.net.au/news/2016-12-05/italy-pm-renzi-heading-for-heavy-referendum-defeat-exit-polls/8092082)
-3. [BBC](http://www.bbc.com/news/world-europe-38204189#)
+3. [Reuters](http://www.reuters.com/article/us-italy-referendum-idUSKBN13T019)
 
 ### Related:
 

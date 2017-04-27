@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8452477.stm)
-2. [Hindustan Times](http://www.hindustantimes.com/Prison-vacated-for-Mel-Gibson-film/H1-Article1-496247.aspx)
-3. [CBC News](http://www.cbc.ca/arts/film/story/2010/01/11/gibson-mexico-prison-veracruz.html)
+2. [CBC News](http://www.cbc.ca/arts/film/story/2010/01/11/gibson-mexico-prison-veracruz.html)
+3. [Hindustan Times](http://www.hindustantimes.com/Prison-vacated-for-Mel-Gibson-film/H1-Article1-496247.aspx)
 
 ### Related:
 

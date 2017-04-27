@@ -7,8 +7,8 @@ Two men are arrested in counter-terrorism raids in Sydney after police thwarted 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-australia-security-idUSKBN0U60CL20151223)
-2. [Australian Broadcasting Corporation](http://www.abc.net.au/news/2015-12-23/two-charged-after-sydney-counter-terrorism-raids/7049918)
+1. [Australian Broadcasting Corporation](http://www.abc.net.au/news/2015-12-23/two-charged-after-sydney-counter-terrorism-raids/7049918)
+2. [Reuters](http://www.reuters.com/article/us-australia-security-idUSKBN0U60CL20151223)
 
 ### Related:
 

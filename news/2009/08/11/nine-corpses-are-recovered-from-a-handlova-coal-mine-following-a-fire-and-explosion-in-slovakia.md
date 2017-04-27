@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [TSAR](http://www.tasr.sk/30.axd?k=20090811TBB00579)
-2. [Irish Independent](http://www.independent.ie/breaking-news/world-news/europe/nine-bodies-found-after-slovakia-mine-blast-1856884.html)
+1. [Irish Independent](http://www.independent.ie/breaking-news/world-news/europe/nine-bodies-found-after-slovakia-mine-blast-1856884.html)
+2. [TSAR](http://www.tasr.sk/30.axd?k=20090811TBB00579)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Vietnam jailed six people on Friday for advocating democracy after similar sente
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Top_News/Special/2009/10/09/Vietnam-clamps-down-on-democracy-activists/UPI-48301255093200/)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8299406.stm)
 2. [Reuters India](http://in.reuters.com/article/worldNews/idINIndia-43040520091009)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8299406.stm)
+3. [UPI](http://www.upi.com/Top_News/Special/2009/10/09/Vietnam-clamps-down-on-democracy-activists/UPI-48301255093200/)
 
 ### Related:
 

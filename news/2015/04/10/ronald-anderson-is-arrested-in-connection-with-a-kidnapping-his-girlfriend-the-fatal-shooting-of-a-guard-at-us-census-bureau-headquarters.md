@@ -7,8 +7,8 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ### Source:
 
-1. [abcnews](http://abcnews.go.com/US/wireStory/guard-shot-census-bureau-suspect-shot-chase-30214262)
-2. [Fox News](http://www.foxnews.com/us/2015/04/10/man-shot-critically-injured-at-census-bureau/)
+1. [Fox News](http://www.foxnews.com/us/2015/04/10/man-shot-critically-injured-at-census-bureau/)
+2. [abcnews](http://abcnews.go.com/US/wireStory/guard-shot-census-bureau-suspect-shot-chase-30214262)
 
 ### Related:
 

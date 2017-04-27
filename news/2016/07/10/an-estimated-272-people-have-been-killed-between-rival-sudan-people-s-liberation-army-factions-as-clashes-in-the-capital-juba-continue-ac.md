@@ -7,8 +7,8 @@ South Sudan is &quot;back to war&quot;, a spokesman for the vice-president tells
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-africa-36758013)
-2. [Al Jazeera](http://www.aljazeera.com/news/2016/07/south-sudan-fighting-gunfire-erupts-juba-160710064423699.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/2016/07/south-sudan-fighting-gunfire-erupts-juba-160710064423699.html)
+2. [BBC](http://www.bbc.com/news/world-africa-36758013)
 
 ### Related:
 

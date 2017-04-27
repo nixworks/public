@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Local](http://www.thelocal.se/21058/20090802/)
-2. [Stockholm News](http://www.stockholmnews.com/more.aspx?NID=3691)
+1. [Stockholm News](http://www.stockholmnews.com/more.aspx?NID=3691)
+2. [The Local](http://www.thelocal.se/21058/20090802/)
 
 ### Related:
 

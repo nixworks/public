@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [World News](http://worldnews.nbcnews.com/_news/2013/12/05/17500450-nelson-mandela-dead-at-95)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-25249520)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-25249520)
+2. [World News](http://worldnews.nbcnews.com/_news/2013/12/05/17500450-nelson-mandela-dead-at-95)
 
 ### Related:
 

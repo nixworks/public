@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Deccan Chronicle](http://www.deccanchronicle.com/international/27-killed-karachi-poll-violence-376)
-2. [Dawn](http://public.dawn.com/2010/11/06/four-killed-in-firing-incidents-in-karachi.html)
+1. [Dawn](http://public.dawn.com/2010/11/06/four-killed-in-firing-incidents-in-karachi.html)
+2. [The Deccan Chronicle](http://www.deccanchronicle.com/international/27-killed-karachi-poll-violence-376)
 
 ### Related:
 

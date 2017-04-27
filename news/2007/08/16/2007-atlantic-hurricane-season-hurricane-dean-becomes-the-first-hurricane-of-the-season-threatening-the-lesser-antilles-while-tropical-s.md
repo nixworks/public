@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2007/US/08/16/storms/index.html?eref=rss_topstories)
-2. [AP via the Guardian](http://www.guardian.co.uk/worldlatest/story/0,,-6858449,00.html)
+1. [AP via the Guardian](http://www.guardian.co.uk/worldlatest/story/0,,-6858449,00.html)
+2. [CNN](http://edition.cnn.com/2007/US/08/16/storms/index.html?eref=rss_topstories)
 
 ### Related:
 

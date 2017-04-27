@@ -7,8 +7,8 @@ Singapore’s long-governing People’s Action Party (PAP) won an absolute parli
 
 ### Source:
 
-1. [Channel NewsAsia](http://www.ge.sg/stories/elections2/view/1081840/1/GE-A-new-chapter-has-opened-says-George-Yeo)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/05/2011570548316405.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/05/2011570548316405.html)
+2. [Channel NewsAsia](http://www.ge.sg/stories/elections2/view/1081840/1/GE-A-new-chapter-has-opened-says-George-Yeo)
 3. [Straits Times](http://www.straitstimes.com/GeneralElection/News/Story/STIStory_665888.html)
 4. [The Hindu](http://www.thehindu.com/news/international/article1999574.ece)
 

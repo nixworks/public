@@ -7,9 +7,9 @@ One man has been killed and two others taken to hospital during a shooting at a 
 
 ### Source:
 
-1. [Stuff.co.nz](http://www.stuff.co.nz/world/australia/77620675/Sydney-shooting-Police-still-negotiating-with-gunman-after-triple-shooting)
-2. [The Sydney Morning Herald](http://www.smh.com.au/nsw/police-ambulances-rush-to-scene-of-shooting-in-sydneys-south-20160307-gnc6zf.html)
-3. [Sky News via KLFM](http://www.klfm967.co.uk/news/world-news/1908521/reports-of-hostages-after-australia-shooting/)
+1. [Sky News via KLFM](http://www.klfm967.co.uk/news/world-news/1908521/reports-of-hostages-after-australia-shooting/)
+2. [Stuff.co.nz](http://www.stuff.co.nz/world/australia/77620675/Sydney-shooting-Police-still-negotiating-with-gunman-after-triple-shooting)
+3. [The Sydney Morning Herald](http://www.smh.com.au/nsw/police-ambulances-rush-to-scene-of-shooting-in-sydneys-south-20160307-gnc6zf.html)
 
 ### Related:
 

@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Al-Arabiya](http://english.alarabiya.net/en/News/middle-east/2015/07/04/ISIS-teens-execute-25-soldiers-in-Syria-s-Palmyra-.html)
-2. [ALJazeera](http://www.aljazeera.com/news/2015/07/kurdish-fighters-advance-isil-held-raqqa-150704053125806.html)
-3. [Fox News via Associated Press](http://www.foxnews.com/world/2015/07/04/mosque-bombing-in-northern-syria-kills-15-members-al-qaida-affiliate/)
-4. [Al-Arabiyah](http://english.alarabiya.net/en/News/middle-east/2015/07/04/Syrian-army-and-Hezbollah-launch-major-assault-on-border-city-.html)
+1. [ALJazeera](http://www.aljazeera.com/news/2015/07/kurdish-fighters-advance-isil-held-raqqa-150704053125806.html)
+2. [Al-Arabiyah](http://english.alarabiya.net/en/News/middle-east/2015/07/04/Syrian-army-and-Hezbollah-launch-major-assault-on-border-city-.html)
+3. [Al-Arabiya](http://english.alarabiya.net/en/News/middle-east/2015/07/04/ISIS-teens-execute-25-soldiers-in-Syria-s-Palmyra-.html)
+4. [Fox News via Associated Press](http://www.foxnews.com/world/2015/07/04/mosque-bombing-in-northern-syria-kills-15-members-al-qaida-affiliate/)
 
 ### Related:
 

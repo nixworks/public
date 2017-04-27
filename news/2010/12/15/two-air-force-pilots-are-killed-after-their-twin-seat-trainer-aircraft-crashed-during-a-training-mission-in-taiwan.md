@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_614123.html)
-2. [Focus Taiwan](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?Type=aALL&ID=201012150020)
+1. [Focus Taiwan](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?Type=aALL&ID=201012150020)
+2. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_614123.html)
 
 ### Related:
 

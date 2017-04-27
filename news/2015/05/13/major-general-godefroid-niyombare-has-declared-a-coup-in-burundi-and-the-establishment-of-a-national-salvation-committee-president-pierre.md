@@ -7,10 +7,10 @@ A coup is launched in Burundi to try to overthrow President Pierre Nkurunziza, a
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-africa-32732793)
-2. [BBC](http://www.bbc.com/news/world-africa-32724083)
-3. [BBC](http://www.bbc.com/news/world-africa-32717494)
-4. [AFP via News24](http://www.news24.com/news24/Africa/News/Burundi-airport-borders-closed-after-coup-attempt-20150513)
+1. [AFP via News24](http://www.news24.com/news24/Africa/News/Burundi-airport-borders-closed-after-coup-attempt-20150513)
+2. [BBC](http://www.bbc.com/news/world-africa-32717494)
+3. [BBC](http://www.bbc.com/news/world-africa-32724083)
+4. [BBC](http://www.bbc.com/news/world-africa-32732793)
 
 ### Related:
 

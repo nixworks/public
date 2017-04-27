@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Thai News Agency](http://www.mcot.net/content/33448)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/03/201031733210935382.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/03/201031733210935382.html)
+2. [Thai News Agency](http://www.mcot.net/content/33448)
 
 ### Related:
 

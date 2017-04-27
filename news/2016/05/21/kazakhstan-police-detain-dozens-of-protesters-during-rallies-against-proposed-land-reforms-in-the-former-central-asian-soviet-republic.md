@@ -7,8 +7,8 @@ Police block protests in major cities over reforms the opposition says will lead
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/2016/05/dozens-detained-kazakhstan-land-reform-protests-160521132802863.html)
-2. [AP](http://bigstory.ap.org/article/c9b9cd12154949d98b184798be3daa2b/kazakhstan-arrests-organizers-attempted-protests)
+1. [AP](http://bigstory.ap.org/article/c9b9cd12154949d98b184798be3daa2b/kazakhstan-arrests-organizers-attempted-protests)
+2. [Al Jazeera](http://www.aljazeera.com/news/2016/05/dozens-detained-kazakhstan-land-reform-protests-160521132802863.html)
 
 ### Related:
 

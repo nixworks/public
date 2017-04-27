@@ -7,8 +7,8 @@ The FIA World Rally Championship belongs to the master class of Rally racing. Th
 
 ### Source:
 
-1. [WRC](http://www.wrc.com/news/wrc-wrap-ogier-reigns-supreme/?fid=18378)
-2. [Autosport](http://www.autosport.com/news/report.php/id/105939)
+1. [Autosport](http://www.autosport.com/news/report.php/id/105939)
+2. [WRC](http://www.wrc.com/news/wrc-wrap-ogier-reigns-supreme/?fid=18378)
 
 ### Related:
 

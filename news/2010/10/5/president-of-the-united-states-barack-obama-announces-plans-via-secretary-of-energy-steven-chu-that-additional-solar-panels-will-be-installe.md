@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5iMUnrmqM-z3tMC3a3JZRFIqrJKHQD9ILKU4O0)
-2. [The Washington Post](http://voices.washingtonpost.com/44/2010/10/white-house-goes-solar.html)
-3. [Asian Tribune](http://www.asiantribune.com/news/2010/09/29/climate-conscious-maldives-prez-adopt-solar-energy)
+1. [Asian Tribune](http://www.asiantribune.com/news/2010/09/29/climate-conscious-maldives-prez-adopt-solar-energy)
+2. [The Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5iMUnrmqM-z3tMC3a3JZRFIqrJKHQD9ILKU4O0)
+3. [The Washington Post](http://voices.washingtonpost.com/44/2010/10/white-house-goes-solar.html)
 
 ### Related:
 

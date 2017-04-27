@@ -8,8 +8,8 @@ Demonstrators hold signs reading “stop US-supported occupation,&quot; “Veto 
 ### Source:
 
 1. [International Middle East Media Center](http://www.imemc.org/article/60673)
-2. [The Jerusalem Post](http://www.jpost.com/NationalNews/Article.aspx?id=208943)
-3. [Palestine News Network](http://english.pnn.ps/index.php?option=com_content&task=view&id=9581)
+2. [Palestine News Network](http://english.pnn.ps/index.php?option=com_content&task=view&id=9581)
+3. [The Jerusalem Post](http://www.jpost.com/NationalNews/Article.aspx?id=208943)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/skynews/Home/Business/Readers-Digest-In-Administration-Publishing-Firm-Struggled-In-Digital-Age/Article/201002315551299?lpos=Business_News_Your_Way_Region_6&lid=NewsYourWay_ARTICLE_15551299_Readers_Digest_In_Administration%3A_Publishi)
-2. [BBC](http://news.bbc.co.uk/2/hi/business/8520243.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/business/8520243.stm)
+2. [Sky News](http://news.sky.com/skynews/Home/Business/Readers-Digest-In-Administration-Publishing-Firm-Struggled-In-Digital-Age/Article/201002315551299?lpos=Business_News_Your_Way_Region_6&lid=NewsYourWay_ARTICLE_15551299_Readers_Digest_In_Administration%3A_Publishi)
 
 ### Related:
 

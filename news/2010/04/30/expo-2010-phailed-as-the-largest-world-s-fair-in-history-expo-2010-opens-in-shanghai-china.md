@@ -9,12 +9,12 @@
 
 1. [China.com](http://news.china.com.cn/txt/2010-04/30/content_19942198.htm)
 2. [China.org](http://www.china.org.cn/photos/2010-04/30/content_19938313.htm)
-3. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-04/30/c_13273575.htm)
-4. [Sina](http://english.sina.com/china/p/2010/0429/317250.html)
-5. [People](http://english.people.com.cn/90001/90776/90883/6969016.html)
-6. [Financial Times](http://www.ft.com/cms/s/0/4845520a-53f0-11df-aba0-00144feab49a.html)
+3. [Financial Times](http://www.ft.com/cms/s/0/4845520a-53f0-11df-aba0-00144feab49a.html)
+4. [People](http://english.people.com.cn/90001/90776/90883/6969016.html)
+5. [Shanghai Daily](http://expo.shanghaidaily.com/news_detail.asp?id=435747)
+6. [Sina](http://english.sina.com/china/p/2010/0429/317250.html)
 7. [The Times of Malta](http://www.timesofmalta.com/articles/view/20100430/local/president-george-abela-injured-in-china)
-8. [Shanghai Daily](http://expo.shanghaidaily.com/news_detail.asp?id=435747)
+8. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-04/30/c_13273575.htm)
 
 ### Related:
 

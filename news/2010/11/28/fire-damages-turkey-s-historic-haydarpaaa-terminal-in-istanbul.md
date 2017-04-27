@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [euronews](http://www.euronews.net/nocomment/2010/11/29/fire-in-istanbuls-haydarpasha-railway-station/)
-2. [Today's Zaman](http://www.todayszaman.com/news-228209-fire-damages-historic-haydarpasa-railway-station.html)
+1. [Today's Zaman](http://www.todayszaman.com/news-228209-fire-damages-historic-haydarpasa-railway-station.html)
+2. [euronews](http://www.euronews.net/nocomment/2010/11/29/fire-in-istanbuls-haydarpasha-railway-station/)
 
 ### Related:
 

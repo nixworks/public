@@ -7,11 +7,11 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [insidethegames](http://www.insidethegames.biz/articles/1035934/brazilian-sports-minister-officially-steps-down-and-is-replaced-by-leyser)
-2. [Reuters²](http://www.reuters.com/article/us-brazil-politics-protests-idUSKCN0WX2RI?mod=related&channelName=worldNews)
-3. [Reuters](http://www.reuters.com/article/us-brazil-politics-lula-idUSKCN0WX2L5)
+1. [AP via ABC news](http://abcnews.go.com/International/wireStory/brazils-sports-minister-resigns-presidents-office-38055272)
+2. [Reuters](http://www.reuters.com/article/us-brazil-politics-lula-idUSKCN0WX2L5)
+3. [Reuters²](http://www.reuters.com/article/us-brazil-politics-protests-idUSKCN0WX2RI?mod=related&channelName=worldNews)
 4. [The Rio Times](http://riotimesonline.com/brazil-news/rio-sports/brazils-sports-minister-resigns-months-before-the-olympics/)
-5. [AP via ABC news](http://abcnews.go.com/International/wireStory/brazils-sports-minister-resigns-presidents-office-38055272)
+5. [insidethegames](http://www.insidethegames.biz/articles/1035934/brazilian-sports-minister-officially-steps-down-and-is-replaced-by-leyser)
 
 ### Related:
 

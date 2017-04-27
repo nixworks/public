@@ -7,9 +7,9 @@ Thousands of supporters of former premier Thaksin Shinawatra rallied on Monday o
 
 ### Source:
 
-1. [Thai News Agency](http://enews.mcot.net/view.php?id=13652)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/01/201011194949662661.html)
-3. [Reuters](http://www.reuters.com/article/idUSTRE60A13F20100111)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/01/201011194949662661.html)
+2. [Reuters](http://www.reuters.com/article/idUSTRE60A13F20100111)
+3. [Thai News Agency](http://enews.mcot.net/view.php?id=13652)
 
 ### Related:
 

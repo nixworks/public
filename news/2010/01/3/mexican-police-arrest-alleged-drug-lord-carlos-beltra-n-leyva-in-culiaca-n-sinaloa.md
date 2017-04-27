@@ -8,8 +8,8 @@
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/americas/01/02/mexico.drug.boss.captured/)
-2. [The Guardian](http://www.guardian.co.uk/world/2010/jan/03/mexico-arrests-carlos-beltran-leyva)
-3. [People's Daily](http://english.people.com.cn/90001/90777/90852/6858035.html)
+2. [People's Daily](http://english.people.com.cn/90001/90777/90852/6858035.html)
+3. [The Guardian](http://www.guardian.co.uk/world/2010/jan/03/mexico-arrests-carlos-beltran-leyva)
 
 ### Related:
 

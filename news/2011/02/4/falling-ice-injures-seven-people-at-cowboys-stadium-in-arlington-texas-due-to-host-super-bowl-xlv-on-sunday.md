@@ -7,8 +7,8 @@ Breaking News News - get the latest from the Dallas News. Read it here first.
 
 ### Source:
 
-1. [Washington Post](http://voices.washingtonpost.com/crime-scene/tom-jackman/albert-haynesworth-charged-in.html)
-2. [Dallas News](http://www.dallasnews.com/sports/super-bowl/local/20110204-falling-ice-at-cowboys-stadium-injures-7-one-critically.ece)
+1. [Dallas News](http://www.dallasnews.com/sports/super-bowl/local/20110204-falling-ice-at-cowboys-stadium-injures-7-one-critically.ece)
+2. [Washington Post](http://voices.washingtonpost.com/crime-scene/tom-jackman/albert-haynesworth-charged-in.html)
 
 ### Related:
 

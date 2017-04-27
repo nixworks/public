@@ -7,8 +7,8 @@ A tornado ripped through a busy shopping centre in the north Auckland suburb of 
 
 ### Source:
 
-1. [New Zealand Stuff](http://www.stuff.co.nz/national/4956336)
-2. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10723156)
+1. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10723156)
+2. [New Zealand Stuff](http://www.stuff.co.nz/national/4956336)
 3. [News Limited](http://www.news.com.au/world/one-person-killed-in-auckland-as-tornado-hits-new-zealand/story-e6frfkyi-1226049142526)
 4. [TV New Zealand](http://tvnz.co.nz/national-news/one-person-reported-dead-tornado-strikes-auckland-4152830)
 

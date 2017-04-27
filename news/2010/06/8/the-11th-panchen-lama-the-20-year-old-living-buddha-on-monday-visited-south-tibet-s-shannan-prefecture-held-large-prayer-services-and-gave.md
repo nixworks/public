@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Tibet culture](http://en.tibetculture.net/index/lnews/201006/t20100608_589266.htm)
-2. [tibet.cn](http://eng.tibet.cn/09index/xwtt/201006/t20100608_589048.htm)
-3. [Chinamil](http://eng.chinamil.com.cn/news-channels/2010-06/08/content_4234854.htm)
+1. [Chinamil](http://eng.chinamil.com.cn/news-channels/2010-06/08/content_4234854.htm)
+2. [Tibet culture](http://en.tibetculture.net/index/lnews/201006/t20100608_589266.htm)
+3. [tibet.cn](http://eng.tibet.cn/09index/xwtt/201006/t20100608_589048.htm)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The leader of a terrorist organisation that plotted to wage violent jihad in Aus
 
 ### Source:
 
-1. [Herald Sun](http://www.heraldsun.com.au/news/national/benbrika-loses-court-appeal/story-e6frf7l6-1225943235000)
-2. [ABC Melbourne](http://www.abc.net.au/news/stories/2010/10/25/3047217.htm?site=melbourne)
+1. [ABC Melbourne](http://www.abc.net.au/news/stories/2010/10/25/3047217.htm?site=melbourne)
+2. [Herald Sun](http://www.heraldsun.com.au/news/national/benbrika-loses-court-appeal/story-e6frf7l6-1225943235000)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Kenya Broadcasting Corporation](http://www.kbc.co.ke/story.asp?ID=60790)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jOZD2l7bZvKv9goSz8SXKcAoaO3AD9BPGRKG0)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jOZD2l7bZvKv9goSz8SXKcAoaO3AD9BPGRKG0)
+2. [Kenya Broadcasting Corporation](http://www.kbc.co.ke/story.asp?ID=60790)
 
 ### Related:
 

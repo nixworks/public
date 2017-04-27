@@ -7,8 +7,8 @@ At least 10 people have been killed in an explosion in southern Sri Lanka.
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/skynews/Home/World-News/Sri-Lanka-Suicide-Bombing-Minister-Injured-And-Many-Feared-Killed-In-Attack/Article/200903215238074?lpos=World_News_First_World_News_Article_Teaser_Region_0&lid=ARTICLE_15238074_Sri_Lanka_Suicide_Bombing%2C_Minister_Injured_And_Many_Feared_Killed_In_Attack)
-2. [ABC News Australia](http://www.abc.net.au/news/stories/2009/03/10/2512496.htm?section=world)
+1. [ABC News Australia](http://www.abc.net.au/news/stories/2009/03/10/2512496.htm?section=world)
+2. [Sky News](http://news.sky.com/skynews/Home/World-News/Sri-Lanka-Suicide-Bombing-Minister-Injured-And-Many-Feared-Killed-In-Attack/Article/200903215238074?lpos=World_News_First_World_News_Article_Teaser_Region_0&lid=ARTICLE_15238074_Sri_Lanka_Suicide_Bombing%2C_Minister_Injured_And_Many_Feared_Killed_In_Attack)
 
 ### Related:
 

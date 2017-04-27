@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/12/09/us-romania-politics-idUSBRE8B80DF20121209)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-20656359)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-20656359)
+2. [Reuters](http://www.reuters.com/article/2012/12/09/us-romania-politics-idUSBRE8B80DF20121209)
 
 ### Related:
 

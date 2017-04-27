@@ -7,8 +7,8 @@ Three protesters in Bahrain have been jailed from five to 15 years on charges of
 
 ### Source:
 
-1. [RT](http://rt.com/news/bahrain-court-protesters-jailed-168/)
-2. [Gulf News](http://gulfnews.com/news/gulf/bahrain/bahrain-court-jails-3-protesters-lawyer-1.1192240)
+1. [Gulf News](http://gulfnews.com/news/gulf/bahrain/bahrain-court-jails-3-protesters-lawyer-1.1192240)
+2. [RT](http://rt.com/news/bahrain-court-protesters-jailed-168/)
 
 ### Related:
 

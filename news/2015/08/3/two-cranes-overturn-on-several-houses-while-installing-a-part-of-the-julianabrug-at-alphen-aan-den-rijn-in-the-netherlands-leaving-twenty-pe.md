@@ -7,8 +7,8 @@ Two cranes restoring a bridge in the central Dutch town of Alphen aan den Rijn c
 
 ### Source:
 
-1. [The Netherlands Times](http://www.nltimes.nl/2015/08/03/video-one-victime-rescued-many-hurt-in-crane-collapse/)
-2. [BBC](http://www.bbc.com/news/world-europe-33762806)
+1. [BBC](http://www.bbc.com/news/world-europe-33762806)
+2. [The Netherlands Times](http://www.nltimes.nl/2015/08/03/video-one-victime-rescued-many-hurt-in-crane-collapse/)
 
 ### Related:
 

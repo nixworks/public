@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-4943377,00.html)
-2. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1113704365040)
-3. [Herald Sun](http://www.heraldsun.news.com.au/common/story_page/0,5478,15004137%255E663,00.html)
+2. [Herald Sun](http://www.heraldsun.news.com.au/common/story_page/0,5478,15004137%255E663,00.html)
+3. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1113704365040)
 
 ### Related:
 

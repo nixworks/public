@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The New York Times](https://www.nytimes.com/2017/02/24/world/middleeast/israel-human-rights-watch-visa.html)
-2. [CNN](http://www.cnn.com/2017/02/24/middleeast/israel-human-rights-watch/)
+1. [CNN](http://www.cnn.com/2017/02/24/middleeast/israel-human-rights-watch/)
+2. [The New York Times](https://www.nytimes.com/2017/02/24/world/middleeast/israel-human-rights-watch-visa.html)
 
 ### Related:
 

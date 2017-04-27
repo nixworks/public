@@ -8,9 +8,9 @@ Repercussions of Japan&#39;s triple disaster came into clearer focus Monday afte
 ### Source:
 
 1. [AP via ''Dayton Daily News](http://www.daytondailynews.com/news/nation-world-news/japan-officials-radioactive-iodine-above-government-limit-found-in-fukushima-drinking-water-1112296.html?cxtype=rss_nation-world)
-2. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-03/19/c_13787559.htm)
+2. [AP via MSNBC](http://www.msnbc.msn.com/id/42162299/ns/health/?utm_content=News+Msnbc&utm_source=twitterfeed&utm_medium=twitter)
 3. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/03/19/japan.nuclear.reactors/index.html?eref=rss_topstories&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+Top+Stories%29&utm_content=Google+Feedfetcher)
-4. [AP via MSNBC](http://www.msnbc.msn.com/id/42162299/ns/health/?utm_content=News+Msnbc&utm_source=twitterfeed&utm_medium=twitter)
+4. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-03/19/c_13787559.htm)
 
 ### Related:
 

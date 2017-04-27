@@ -7,9 +7,9 @@ Pope Benedict XVI&#39;s second-in-command has urged Catholics in Ireland not to 
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2010/0215/abuse.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/02/201021420236176854.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/8515595.stm)
-3. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/02/201021420236176854.html)
+3. [RTÉ](http://www.rte.ie/news/2010/0215/abuse.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE64E20I20100515)
-2. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/05/201051523842435760.html)
-3. [El Universal](http://www.eluniversal.com.mx/notas/680619.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/05/201051523842435760.html)
+2. [El Universal](http://www.eluniversal.com.mx/notas/680619.html)
+3. [Reuters](http://www.reuters.com/article/idUSTRE64E20I20100515)
 
 ### Related:
 

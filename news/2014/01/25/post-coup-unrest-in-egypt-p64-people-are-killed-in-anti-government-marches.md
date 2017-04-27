@@ -8,8 +8,8 @@ At least 49 people are killed in clashes in Egypt as rallies mark the anniversar
 ### Source:
 
 1. [Al-Ahram](http://english.ahram.org.eg/NewsContent/1/64/92710/Egypt/Politics-/Death-toll-from-uprising-anniversary-climbs-to-,-m.aspx)
-2. [Reuters](http://www.reuters.com/article/2014/01/25/us-egypt-protests-idUSBREA0O08Q20140125)
-3. [BBC](http://www.bbc.co.uk/news/world-middle-east-25888916)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-25888916)
+3. [Reuters](http://www.reuters.com/article/2014/01/25/us-egypt-protests-idUSBREA0O08Q20140125)
 
 ### Related:
 

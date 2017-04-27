@@ -7,11 +7,11 @@ WASHINGTON (AP) — In a narrow victory for affirmative action, the Supreme Cour
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/news/us-news/supreme-court-tie-dooms-obama-immigration-policy-n582961)
-2. [AP](http://bigstory.ap.org/article/87f9c6ae0150469f9204b5d79c7dc7ad/texas-affirmative-action-plan-survives-supreme-court-review)
-3. [The New York Times](http://www.nytimes.com/2016/06/24/us/politics/supreme-court-affirmative-action-university-of-texas.html?_r=0)
-4. [The New York Times](http://www.nytimes.com/2016/06/24/us/supreme-court-immigration-obama-dapa.html?_r=0)
-5. [Reuters](http://www.reuters.com/article/us-usa-court-affirmativeaction-idUSKCN0Z91N3)
+1. [AP](http://bigstory.ap.org/article/87f9c6ae0150469f9204b5d79c7dc7ad/texas-affirmative-action-plan-survives-supreme-court-review)
+2. [NBC News](http://www.nbcnews.com/news/us-news/supreme-court-tie-dooms-obama-immigration-policy-n582961)
+3. [Reuters](http://www.reuters.com/article/us-usa-court-affirmativeaction-idUSKCN0Z91N3)
+4. [The New York Times](http://www.nytimes.com/2016/06/24/us/politics/supreme-court-affirmative-action-university-of-texas.html?_r=0)
+5. [The New York Times](http://www.nytimes.com/2016/06/24/us/supreme-court-immigration-obama-dapa.html?_r=0)
 
 ### Related:
 

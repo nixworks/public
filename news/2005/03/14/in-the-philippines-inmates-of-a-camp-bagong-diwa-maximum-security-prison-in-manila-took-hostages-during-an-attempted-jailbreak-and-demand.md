@@ -7,8 +7,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Sun Star, Manila](http://www.sunstar.com.ph/static/net/2005/03/14/standoff.in.bicutan.jail.continues.(3.01.p.m.).html)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7888152)
+1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7888152)
+2. [Sun Star, Manila](http://www.sunstar.com.ph/static/net/2005/03/14/standoff.in.bicutan.jail.continues.(3.01.p.m.).html)
 
 ### Related:
 

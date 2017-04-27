@@ -7,9 +7,9 @@ Government collapses following disagreement on date for withdrawing troops.
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/europe/8525742.stm)
-2. [Radio Netherlands Worldwide](http://www.rnw.nl/english/article/dutch-government-falls-over-afghanistan-mission)
-3. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/02/201022033131334896.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/02/201022033131334896.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/europe/8525742.stm)
+3. [Radio Netherlands Worldwide](http://www.rnw.nl/english/article/dutch-government-falls-over-afghanistan-mission)
 
 ### Related:
 

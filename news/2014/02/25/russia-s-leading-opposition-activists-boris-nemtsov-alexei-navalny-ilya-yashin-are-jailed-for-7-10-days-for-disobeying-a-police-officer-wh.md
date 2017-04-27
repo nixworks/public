@@ -8,9 +8,9 @@ While a crowd outside the court chanted “freedom” and “shame”, a judge i
 ### Source:
 
 1. [Euronews](http://www.euronews.com/2014/02/24/anti-putin-demonstrators-given-prison-terms-for-2012-moscow-riot/)
-2. [The Moscow Times](http://www.themoscowtimes.com/news/article/navalny-jailed-for-7-days-for-disobeying-police-at-bolotnaya-protest/495210.html)
-3. [RAPSI](http://rapsinews.com/judicial_news/20140225/270809006.html)
-4. [RFE/RL](http://www.rferl.org/content/russia-opposition-figures-charges/25276568.html)
+2. [RAPSI](http://rapsinews.com/judicial_news/20140225/270809006.html)
+3. [RFE/RL](http://www.rferl.org/content/russia-opposition-figures-charges/25276568.html)
+4. [The Moscow Times](http://www.themoscowtimes.com/news/article/navalny-jailed-for-7-days-for-disobeying-police-at-bolotnaya-protest/495210.html)
 
 ### Related:
 

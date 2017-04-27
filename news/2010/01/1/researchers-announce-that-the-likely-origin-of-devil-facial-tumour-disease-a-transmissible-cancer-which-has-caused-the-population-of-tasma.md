@@ -7,7 +7,7 @@ New findings suggest that the facial tumor disease afflicting the species can be
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2010/01/01/science/01devil.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/science/nature/8433645.stm)
-3. [Time](http://www.time.com/time/health/article/0,8599,1950787,00.html?xid=rss-topstories)
-4. [Science](http://www.sciencemag.org/cgi/content/short/327/5961/84/)
+1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/8433645.stm)
+2. [New York Times](http://www.nytimes.com/2010/01/01/science/01devil.html)
+3. [Science](http://www.sciencemag.org/cgi/content/short/327/5961/84/)
+4. [Time](http://www.time.com/time/health/article/0,8599,1950787,00.html?xid=rss-topstories)

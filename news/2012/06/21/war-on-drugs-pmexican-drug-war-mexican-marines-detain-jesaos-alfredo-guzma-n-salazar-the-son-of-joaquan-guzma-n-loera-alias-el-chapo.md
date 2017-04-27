@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Washington Post](http://www.washingtonpost.com/world/the_americas/mexico-marines-detain-a-son-of-most-wanted-mexican-drug-lord/2012/06/21/gJQAtVN3sV_story.html)
-2. [RT](http://www.rt.com/news/uruguay-marijuana-sell-users-323)
+1. [RT](http://www.rt.com/news/uruguay-marijuana-sell-users-323)
+2. [The Washington Post](http://www.washingtonpost.com/world/the_americas/mexico-marines-detain-a-son-of-most-wanted-mexican-drug-lord/2012/06/21/gJQAtVN3sV_story.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Polls give Merkel ratings of about 70%. The sky-high popularity doesn&#39;t exte
 
 ### Source:
 
-1. [AP via USA Today](http://www.usatoday.com/story/news/world/2013/09/22/merkel-germany-election-parliament/2848881/)
-2. [AFP via ''The Australian](http://www.theaustralian.com.au/news/world/german-chancellor-angela-merkels-party-re-elected-with-absolute-majority/story-e6frg6so-1226724874524)
+1. [AFP via ''The Australian](http://www.theaustralian.com.au/news/world/german-chancellor-angela-merkels-party-re-elected-with-absolute-majority/story-e6frg6so-1226724874524)
+2. [AP via USA Today](http://www.usatoday.com/story/news/world/2013/09/22/merkel-germany-election-parliament/2848881/)
 
 ### Related:
 

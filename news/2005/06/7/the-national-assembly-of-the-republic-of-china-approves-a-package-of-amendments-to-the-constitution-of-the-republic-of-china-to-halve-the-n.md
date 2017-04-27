@@ -7,8 +7,8 @@ Democratic Progressive Party (DPP) Chairman Su Tseng-chang (蘇貞昌) said yest
 
 ### Source:
 
-1. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2005/06/07/2003258257)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8712780)
+1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8712780)
+2. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2005/06/07/2003258257)
 3. [TaiwanNews](http://www.etaiwannews.com/Editorial/2005/06/07/1118113122.htm)
 
 ### Related:

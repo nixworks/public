@@ -7,8 +7,8 @@ Former Republic of Ireland midfielder Kevin Sheedy has been diagnosed with bowel
 
 ### Source:
 
-1. [RTE](http://www.rte.ie/sport/soccer/international/2012/0822/334507-kevin-sheedy-diagnosed-with-cancer/)
-2. [Irish Independent](http://www.independent.ie/national-news/italia-90-hero-kevin-sheedy-diagnosed-with-bowel-cancer-3207878.html)
+1. [Irish Independent](http://www.independent.ie/national-news/italia-90-hero-kevin-sheedy-diagnosed-with-bowel-cancer-3207878.html)
+2. [RTE](http://www.rte.ie/sport/soccer/international/2012/0822/334507-kevin-sheedy-diagnosed-with-cancer/)
 
 ### Related:
 

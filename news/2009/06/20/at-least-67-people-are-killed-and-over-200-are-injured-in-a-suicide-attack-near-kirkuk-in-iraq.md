@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2009/0620/iraq.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8110807.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8110807.stm)
+2. [RTÉ](http://www.rte.ie/news/2009/0620/iraq.html)
 
 ### Related:
 

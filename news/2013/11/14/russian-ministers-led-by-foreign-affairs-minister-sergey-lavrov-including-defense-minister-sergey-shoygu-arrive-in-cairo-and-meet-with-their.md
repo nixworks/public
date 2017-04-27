@@ -7,8 +7,8 @@ Both sides hail talks between a high-level Russian delegation and Egyptian minis
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/11/14/us-egypt-russia-idUSBRE9AD0JM20131114)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-24936509)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-24936509)
+2. [Reuters](http://www.reuters.com/article/2013/11/14/us-egypt-russia-idUSBRE9AD0JM20131114)
 
 ### Related:
 

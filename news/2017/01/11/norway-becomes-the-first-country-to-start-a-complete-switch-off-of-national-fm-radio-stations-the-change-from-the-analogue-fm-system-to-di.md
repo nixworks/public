@@ -7,8 +7,8 @@ From this week, Norway will start switching off its national FM network, forcing
 
 ### Source:
 
-1. [New Scientist](https://www.newscientist.com/article/2117569-norway-is-first-country-to-turn-off-fm-radio-and-go-digital-only/)
-2. [BBC](http://www.bbc.com/news/world-europe-38578050)
+1. [BBC](http://www.bbc.com/news/world-europe-38578050)
+2. [New Scientist](https://www.newscientist.com/article/2117569-norway-is-first-country-to-turn-off-fm-radio-and-go-digital-only/)
 
 ### Related:
 

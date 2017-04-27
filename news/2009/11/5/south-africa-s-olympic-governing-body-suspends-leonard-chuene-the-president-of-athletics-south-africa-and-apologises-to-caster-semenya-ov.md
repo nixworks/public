@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Times](http://www.timesonline.co.uk/tol/sport/more_sport/athletics/article6904459.ece)
-2. [BBC](http://news.bbc.co.uk/sport2/hi/athletics/8344591.stm)
+1. [BBC](http://news.bbc.co.uk/sport2/hi/athletics/8344591.stm)
+2. [The Times](http://www.timesonline.co.uk/tol/sport/more_sport/athletics/article6904459.ece)
 
 ### Related:
 

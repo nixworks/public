@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_PAKISTAN_ATTACK?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2012-07-12-00-59-32)
-2. [AFP via Yahoo! News](http://news.yahoo.com/gunmen-kill-8-pakistani-police-lahore-raid-police-031355130.html)
+1. [AFP via Yahoo! News](http://news.yahoo.com/gunmen-kill-8-pakistani-police-lahore-raid-police-031355130.html)
+2. [AP](http://hosted.ap.org/dynamic/stories/A/AS_PAKISTAN_ATTACK?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2012-07-12-00-59-32)
 
 ### Related:
 

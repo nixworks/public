@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Judges Decision in Full](http://news.bbc.co.uk/1/shared/bsp/hi/pdfs/10_03_05_agentorange.pdf)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/4336941.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4336941.stm)
+2. [Judges Decision in Full](http://news.bbc.co.uk/1/shared/bsp/hi/pdfs/10_03_05_agentorange.pdf)
 
 ### Related:
 

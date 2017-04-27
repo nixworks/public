@@ -7,8 +7,8 @@ Fernando Lopez plans to close his three local Los Angeles-area Oaxacan restauran
 
 ### Source:
 
-1. [Los Angeles Times](http://www.latimes.com/business/la-fi-mayday28apr28,1,6551283.story?coll=la-headlines-business)
-2. [CNN](http://www.cnn.com/2006/US/04/28/boycott/)
+1. [CNN](http://www.cnn.com/2006/US/04/28/boycott/)
+2. [Los Angeles Times](http://www.latimes.com/business/la-fi-mayday28apr28,1,6551283.story?coll=la-headlines-business)
 
 ### Related:
 

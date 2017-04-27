@@ -7,8 +7,8 @@ Annotations by GM Sam Shankland The 2013 Candidates Tournament will live long in
 
 ### Source:
 
-1. [ChessVibes](http://www.chessvibes.com/reports/carlsen-kramnik-both-lose-in-final-round-carlsen-wins-fide-candidates)
-2. [Chess News](http://www.chess.com/news/candiates-tournament---the-result-4297)
+1. [Chess News](http://www.chess.com/news/candiates-tournament---the-result-4297)
+2. [ChessVibes](http://www.chessvibes.com/reports/carlsen-kramnik-both-lose-in-final-round-carlsen-wins-fide-candidates)
 
 ### Related:
 

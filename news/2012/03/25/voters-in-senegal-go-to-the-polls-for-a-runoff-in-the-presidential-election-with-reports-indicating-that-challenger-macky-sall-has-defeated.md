@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Voice of America](http://www.voanews.com/english/news/Vote-Counting-Underway-in-Senegal-Presidential-Runoff-Election-144159515.html)
-2. [CNN](http://edition.cnn.com/2012/03/25/world/africa/senegal-elections/)
+1. [CNN](http://edition.cnn.com/2012/03/25/world/africa/senegal-elections/)
+2. [Voice of America](http://www.voanews.com/english/news/Vote-Counting-Underway-in-Senegal-Presidential-Runoff-Election-144159515.html)
 
 ### Related:
 

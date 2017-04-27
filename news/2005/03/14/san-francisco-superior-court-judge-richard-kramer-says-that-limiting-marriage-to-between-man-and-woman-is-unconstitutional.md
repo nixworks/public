@@ -7,9 +7,9 @@ Get the latest breaking news and top news headlines at Reuters.com
 
 ### Source:
 
-1. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/c/archive/2005/03/15/SAMESEX.TMP)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4349201.stm)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=7898872)
-3. [BBC](http://news.bbc.co.uk/2/hi/americas/4349201.stm)
+3. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/c/archive/2005/03/15/SAMESEX.TMP)
 
 ### Related:
 

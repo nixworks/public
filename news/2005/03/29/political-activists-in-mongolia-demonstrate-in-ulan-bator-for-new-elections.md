@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Taipei Times](http://www.taipeitimes.com/News/world/archives/2005/03/30/2003248361)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4389623.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4389623.stm)
+2. [Taipei Times](http://www.taipeitimes.com/News/world/archives/2005/03/30/2003248361)
 
 ### Related:
 

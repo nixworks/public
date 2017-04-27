@@ -7,9 +7,9 @@ Katusha take their place alongside 18 original WorldTour squads
 
 ### Source:
 
-1. [Velonation](http://www.velonation.com/News/ID/13972/UCI-announces-it-will-increase-number-of-WorldTour-teams-to-nineteen-for-2013-season.aspx)
+1. [Cycling Weekly](http://www.cyclingweekly.co.uk/news/latest/536965/katusha-granted-worldtour-licence-by-uci.html)
 2. [RCUK](http://roadcyclinguk.com/news/racing-news/uci-confirm-19-teams-for-2013-worldtour.html)
-3. [Cycling Weekly](http://www.cyclingweekly.co.uk/news/latest/536965/katusha-granted-worldtour-licence-by-uci.html)
+3. [Velonation](http://www.velonation.com/News/ID/13972/UCI-announces-it-will-increase-number-of-WorldTour-teams-to-nineteen-for-2013-season.aspx)
 
 ### Related:
 

@@ -8,8 +8,8 @@
 ### Source:
 
 1. [AllAfrica](http://allafrica.com/stories/200504280083.html)
-2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/IRIN/274e00f6b504b972c331bb5a90d9fc24.htm)
-3. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=136&art_id=qw111469176324B265)
+2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=136&art_id=qw111469176324B265)
+3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/IRIN/274e00f6b504b972c331bb5a90d9fc24.htm)
 
 ### Related:
 

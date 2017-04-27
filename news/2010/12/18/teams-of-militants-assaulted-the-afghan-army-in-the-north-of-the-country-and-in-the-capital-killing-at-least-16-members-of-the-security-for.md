@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-12/19/c_13655863.htm)
-2. [The New York Times](http://www.nytimes.com/aponline/2010/12/18/world/asia/AP-AS-Afghanistan.html?_r=1&hp)
+1. [The New York Times](http://www.nytimes.com/aponline/2010/12/18/world/asia/AP-AS-Afghanistan.html?_r=1&hp)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-12/19/c_13655863.htm)
 
 ### Related:
 

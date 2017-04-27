@@ -7,8 +7,8 @@ The leader of the Pakistani Taliban, Hakimullah Mehsud, has been killed in a dro
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/2013/11/01/uk-pakistan-drone-strike-idUKBRE9A00OI20131101)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-24776363)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-24776363)
+2. [Reuters](http://uk.reuters.com/article/2013/11/01/uk-pakistan-drone-strike-idUKBRE9A00OI20131101)
 
 ### Related:
 

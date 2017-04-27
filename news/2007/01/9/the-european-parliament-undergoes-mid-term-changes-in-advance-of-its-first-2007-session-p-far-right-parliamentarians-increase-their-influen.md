@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [EUX.TV](http://www.eux.tv/article.aspx?articleId=2106)
-2. [EUObserver](http://euobserver.com/9/23223)
+1. [EUObserver](http://euobserver.com/9/23223)
+2. [EUX.TV](http://www.eux.tv/article.aspx?articleId=2106)
 
 ### Related:
 

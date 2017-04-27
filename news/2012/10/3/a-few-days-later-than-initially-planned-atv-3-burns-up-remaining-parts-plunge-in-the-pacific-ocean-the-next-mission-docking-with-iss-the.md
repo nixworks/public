@@ -8,9 +8,9 @@ News and updates on Europe&#039;s Service Module for NASA&#039;s Orion spacecraf
 ### Source:
 
 1. [Antares](http://www.orbital.com/Antares/)
-2. [RIA Novosti](http://en.rian.ru/science/20121003/176373944.html)
+2. [ESA](http://blogs.esa.int/atv/)
 3. [NASA](http://www.nasaspaceflight.com/2012/10/europes-atv-3-fiery-plunge-back-atmosphere/)
-4. [ESA](http://blogs.esa.int/atv/)
+4. [RIA Novosti](http://en.rian.ru/science/20121003/176373944.html)
 
 ### Related:
 

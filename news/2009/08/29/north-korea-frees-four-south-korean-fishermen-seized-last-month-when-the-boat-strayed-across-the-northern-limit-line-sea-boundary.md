@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [JoongAng Daily](http://joongangdaily.joins.com/article/view.asp?aid=2909406)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8228175.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8228175.stm)
+2. [JoongAng Daily](http://joongangdaily.joins.com/article/view.asp?aid=2909406)
 
 ### Related:
 

@@ -43,7 +43,7 @@ _Context: 10,000 meters, Africa, American record, Chris Solinsky_
 John Higgins, the snooker world champion, has allegedly been caught agreeing to take a &pound;261,000 bribe to fix matches.
 
 ### [Roman Polanski speaks out about his possible extradition to the United States after several months of silence. ](/news/2010/05/2/roman-polanski-speaks-out-about-his-possible-extradition-to-the-united-states-after-several-months-of-silence.md)
-_Context: Roman Polanski, U.S._
+_Context: Roman Polanski, United States_
 
 ### [Japanese supercentenarian and oldest living person in the world Kama Chinen dies 8 days short of 115 and leaves French supercentenarian Eugenie Blanchard as the oldest living person.](/news/2010/05/2/japanese-supercentenarian-and-oldest-living-person-in-the-world-kama-chinen-dies-8-days-short-of-115-and-leaves-french-supercentenarian-euga.md)
 _Context: Eugénie Blanchard, Kama Chinen_

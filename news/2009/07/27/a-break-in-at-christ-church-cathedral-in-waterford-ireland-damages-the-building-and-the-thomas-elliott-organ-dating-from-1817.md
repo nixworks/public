@@ -7,8 +7,8 @@ Garda&iacute; in Waterford are investigating after a significant amount of damag
 
 ### Source:
 
-1. [Sunday Tribune](http://www.tribune.ie/breakingnews/article/2009/jul/27/thieves-damage-ceiling-of-waterford-cathedral/)
-2. [RTÉ](http://www.rte.ie/news/2009/0727/waterford.html)
+1. [RTÉ](http://www.rte.ie/news/2009/0727/waterford.html)
+2. [Sunday Tribune](http://www.tribune.ie/breakingnews/article/2009/jul/27/thieves-damage-ceiling-of-waterford-cathedral/)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0727/breaking38.htm)
 
 ### Related:

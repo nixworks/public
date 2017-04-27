@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Rustavi2](http://rustavi2.com/news/news_text.php?id_news=28470&pg=1&im=main&ct=0&wth=)
-2. [Kasparov.ru](http://www.kasparov.ru/material.php?id=4904ADEA7B19C)
+1. [Kasparov.ru](http://www.kasparov.ru/material.php?id=4904ADEA7B19C)
+2. [Rustavi2](http://rustavi2.com/news/news_text.php?id_news=28470&pg=1&im=main&ct=0&wth=)
 
 ### Related:
 

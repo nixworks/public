@@ -7,11 +7,11 @@ Political leaders back reconciliation with Syria as thousands remember former PM
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/world/middle-east/beirut-grinds-to-a-standstill-in-honour-of-hariris-memory-1899554.html)
-2. [CBC](http://www.cbc.ca/world/story/2010/02/14/beirut-demonstration-rafik-hariri.html)
-3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/02/201021485334979638.html)
-4. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/0215/1224264467353.html)
-5. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8514727.stm)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/02/201021485334979638.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8514727.stm)
+3. [CBC](http://www.cbc.ca/world/story/2010/02/14/beirut-demonstration-rafik-hariri.html)
+4. [The Independent](http://www.independent.co.uk/news/world/middle-east/beirut-grinds-to-a-standstill-in-honour-of-hariris-memory-1899554.html)
+5. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/0215/1224264467353.html)
 
 ### Related:
 

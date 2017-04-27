@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4030592,00.html)
-2. [Arab News](http://arabnews.com/middleeast/article275646.ece)
+1. [Arab News](http://arabnews.com/middleeast/article275646.ece)
+2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4030592,00.html)
 
 ### Related:
 

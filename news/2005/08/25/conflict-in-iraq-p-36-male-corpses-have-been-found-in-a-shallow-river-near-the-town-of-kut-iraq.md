@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [New Kerala](http://www.newkerala.com/news.php?action=fullnews&id=17067)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4184300.stm)
 2. [CNN](http://www.cnn.com/2005/WORLD/meast/08/25/shiite.violence/)
-3. [Standard](http://www.thestandard.com.hk/stdn/std/World/GH26Wd02.html)
-4. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4184300.stm)
+3. [New Kerala](http://www.newkerala.com/news.php?action=fullnews&id=17067)
+4. [Standard](http://www.thestandard.com.hk/stdn/std/World/GH26Wd02.html)
 
 ### Related:
 

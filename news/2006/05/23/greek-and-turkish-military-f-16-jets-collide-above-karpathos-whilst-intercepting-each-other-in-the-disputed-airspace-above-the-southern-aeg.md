@@ -7,13 +7,13 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2006-05-23T134238Z_01_L23774801_RTRUKOC_0_US-GREECE-TURKEY.xml&archived=False)
+1. [BBC](http://news.bbc.co.uk/1/low/world/europe/5008178.stm)
 2. [CNN](http://edition.cnn.com/2006/WORLD/europe/05/23/greece.crash.reut/)
-3. [BBC](http://news.bbc.co.uk/1/low/world/europe/5008178.stm)
+3. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2006-05-23T134238Z_01_L23774801_RTRUKOC_0_US-GREECE-TURKEY.xml&archived=False)
 
 ### Related:
 
-1. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also 5 Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-5-peshmerga-fighters-are-killed-during-a-tu.md) _Context: Turkish_
+1. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also five Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey also claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-five-peshmerga-fighters-are-killed-during-a.md) _Context: Turkish_
 2. [ General Akin Ozturk,  Turkish Air Force chief until August 2015, confesses  to planning last week's attempted coup d'etat, according to the state-run Anadolu News Agency. ](/news/2016/07/18/general-aka-n-azta1-4rk-turkish-air-force-chief-until-august-2015-confesses-to-planning-last-week-s-attempted-coup-d-a-c-tat-according-to.md) _Context: Turkish_
 3. [Turkish Air Force bombs Kurdistan Workers' Party targets in northern Iraq and southeastern Turkey killing at least 27 militants. ](/news/2016/06/5/turkish-air-force-bombs-kurdistan-workers-party-targets-in-northern-iraq-and-southeastern-turkey-killing-at-least-27-militants.md) _Context: Turkish_
 4. [  EgyptAir Flight 804 between Paris and Cairo disappears with 56 passengers and 10 crew onboard. The plane was at 37,000 feet when it disappeared ten minutes before entering Egyptian airspace over the Mediterranean Sea. It is later reported to have crashed off the Greek island of Karpathos. Locals reported seeing a fireball. ](/news/2016/05/19/egyptair-flight-804-between-paris-and-cairo-disappears-with-56-passengers-and-10-crew-onboard-the-plane-was-at-37-000-feet-when-it-disapp.md) _Context: Karpathos_

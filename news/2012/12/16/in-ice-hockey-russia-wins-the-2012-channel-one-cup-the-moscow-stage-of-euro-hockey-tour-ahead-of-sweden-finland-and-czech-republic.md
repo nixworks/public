@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RT](http://rt.com/sport/hockey/russia-perfect-channel-cup-152/)
-2. [RIA Novosti](http://en.ria.ru/sports/20121216/178197701.html)
+1. [RIA Novosti](http://en.ria.ru/sports/20121216/178197701.html)
+2. [RT](http://rt.com/sport/hockey/russia-perfect-channel-cup-152/)
 
 ### Related:
 

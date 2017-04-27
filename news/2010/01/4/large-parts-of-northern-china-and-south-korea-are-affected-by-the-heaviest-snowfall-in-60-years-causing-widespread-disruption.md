@@ -7,8 +7,8 @@ Record high snowfall blanketed the central part of the Korean peninsula on the f
 
 ### Source:
 
-1. [Korea Times](http://www.koreatimes.co.kr/www/news/nation/2010/01/117_58405.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8438871.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8438871.stm)
+2. [Korea Times](http://www.koreatimes.co.kr/www/news/nation/2010/01/117_58405.html)
 3. [People's Daily](http://english.people.com.cn/90001/90776/90882/6858078.html)
 
 ### Related:

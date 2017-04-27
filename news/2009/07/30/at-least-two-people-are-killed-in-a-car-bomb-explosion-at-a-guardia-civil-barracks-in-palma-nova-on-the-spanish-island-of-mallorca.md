@@ -7,11 +7,11 @@ At least two people have been killed in an explosion at a civil guard barracks o
 
 ### Source:
 
-1. [Daily Mail](http://www.dailymail.co.uk/news/worldnews/article-1203213/BREAKING-NEWS-Bomb-explosion-Majorca-holiday-destination.html)
-2. [Straits Times](http://www.straitstimes.com/Breaking%2BNews/World/Story/STIStory_410278.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8177008.stm)
-4. [BBC](http://news.bbc.co.uk/2/hi/europe/8176601.stm)
-5. [RTÉ](http://www.rte.ie/news/2009/0730/majorca.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8176601.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8177008.stm)
+3. [Daily Mail](http://www.dailymail.co.uk/news/worldnews/article-1203213/BREAKING-NEWS-Bomb-explosion-Majorca-holiday-destination.html)
+4. [RTÉ](http://www.rte.ie/news/2009/0730/majorca.html)
+5. [Straits Times](http://www.straitstimes.com/Breaking%2BNews/World/Story/STIStory_410278.html)
 
 ### Related:
 

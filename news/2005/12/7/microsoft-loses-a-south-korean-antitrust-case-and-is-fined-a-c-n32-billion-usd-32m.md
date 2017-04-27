@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://news.yahoo.com/s/nm/20051207/tc_nm/korea_microsoft_dc)
-2. [BBC](http://news.bbc.co.uk/2/hi/business/4505698.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/business/4505698.stm)
+2. [Reuters](http://news.yahoo.com/s/nm/20051207/tc_nm/korea_microsoft_dc)
 
 ### Related:
 

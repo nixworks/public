@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-russia-un-churkin-idUSKBN15Z1UU)
-2. [New York Daily News](http://www.nydailynews.com/new-york/russian-ambassador-vitaly-churkin-dies-nyc-heart-attack-article-1.2977372)
+1. [New York Daily News](http://www.nydailynews.com/new-york/russian-ambassador-vitaly-churkin-dies-nyc-heart-attack-article-1.2977372)
+2. [Reuters](http://www.reuters.com/article/us-russia-un-churkin-idUSKBN15Z1UU)
 
 ### Related:
 

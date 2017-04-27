@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Independent](http://news.independent.co.uk/world/politics/story.jsp?story=626479)
+1. [Amnesty International](http://news.amnesty.org/index/ENGACT500112005)
 2. [BBC](http://news.bbc.co.uk/2/hi/americas/4409857.stm)
-3. [Amnesty International](http://news.amnesty.org/index/ENGACT500112005)
+3. [Independent](http://news.independent.co.uk/world/politics/story.jsp?story=626479)
 
 ### Related:
 

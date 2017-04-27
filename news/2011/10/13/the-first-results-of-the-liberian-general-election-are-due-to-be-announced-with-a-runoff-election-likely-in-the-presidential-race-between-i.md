@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [VOA](http://www.voanews.com/english/news/africa/Liberias-Sirleaf-Leads-Early-Election-Tally-131802988.html)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-15271680)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-15271680)
+2. [VOA](http://www.voanews.com/english/news/africa/Liberias-Sirleaf-Leads-Early-Election-Tally-131802988.html)
 
 ### Related:
 

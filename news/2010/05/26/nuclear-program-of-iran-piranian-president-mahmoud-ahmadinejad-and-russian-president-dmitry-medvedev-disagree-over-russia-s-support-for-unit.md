@@ -7,8 +7,8 @@ Iran and Russia clashed on Wednesday over Kremlin support for draft U.N. sanctio
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSLDE64P0VV20100526)
-2. [Buenos Aires Herald](http://www.buenosairesherald.com/BreakingNews/View/34310)
+1. [Buenos Aires Herald](http://www.buenosairesherald.com/BreakingNews/View/34310)
+2. [Reuters](http://www.reuters.com/article/idUSLDE64P0VV20100526)
 
 ### Related:
 

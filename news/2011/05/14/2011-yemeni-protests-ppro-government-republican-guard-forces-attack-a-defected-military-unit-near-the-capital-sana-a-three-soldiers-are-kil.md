@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-05/14/c_13874334.htm)
-2. [Reuters](http://www.reuters.com/article/2011/05/14/us-yemen-idUSTRE73L1PP20110514)
+1. [Reuters](http://www.reuters.com/article/2011/05/14/us-yemen-idUSTRE73L1PP20110514)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-05/14/c_13874334.htm)
 
 ### Related:
 

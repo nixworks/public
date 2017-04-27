@@ -7,9 +7,9 @@ Naples mayors reject a government offer to indefinitely freeze the opening of a 
 
 ### Source:
 
-1. [Reuters via ''Arab News](http://arabnews.com/world/article169049.ece)
-2. [The Guardian](http://www.guardian.co.uk/world/2010/oct/24/naples-rubbish-waste-dump-riots)
-3. [BBC](http://www.bbc.co.uk/news/world-europe-11615969)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-11615969)
+2. [Reuters via ''Arab News](http://arabnews.com/world/article169049.ece)
+3. [The Guardian](http://www.guardian.co.uk/world/2010/oct/24/naples-rubbish-waste-dump-riots)
 
 ### Related:
 

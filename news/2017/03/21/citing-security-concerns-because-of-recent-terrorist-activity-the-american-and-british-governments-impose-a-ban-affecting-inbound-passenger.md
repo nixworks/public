@@ -7,8 +7,8 @@ Airlines flying directly from eight countries to the U.S. must stop passengers f
 
 ### Source:
 
-1. [CNN](http://money.cnn.com/2017/03/21/news/airline-electronics-ban-middle-east-africa/index.html?iid=hp-toplead-intl)
-2. [BBC](http://www.bbc.com/news/world-us-canada-39333424)
+1. [BBC](http://www.bbc.com/news/world-us-canada-39333424)
+2. [CNN](http://money.cnn.com/2017/03/21/news/airline-electronics-ban-middle-east-africa/index.html?iid=hp-toplead-intl)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Colombia said Friday that three people had died after contracting the Zika virus
 
 ### Source:
 
-1. [AFP via ''Daily Star](http://www.dailystar.com.lb/News/World/2016/Feb-05/335887-three-die-in-colombia-after-contracting-zika-developing-nerve-disorder-official.ashx)
-2. [ABC News](http://abcnews.go.com/Health/zika-virus-outbreak-updates-pregnant-woman-puerto-rico/story?id=36737501)
+1. [ABC News](http://abcnews.go.com/Health/zika-virus-outbreak-updates-pregnant-woman-puerto-rico/story?id=36737501)
+2. [AFP via ''Daily Star](http://www.dailystar.com.lb/News/World/2016/Feb-05/335887-three-die-in-colombia-after-contracting-zika-developing-nerve-disorder-official.ashx)
 
 ### Related:
 

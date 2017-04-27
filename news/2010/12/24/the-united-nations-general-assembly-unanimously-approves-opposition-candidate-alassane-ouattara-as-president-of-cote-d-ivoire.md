@@ -7,8 +7,8 @@ State television in Ivory Coast goes off air outside the main city, Abidjan, ami
 
 ### Source:
 
-1. [The Hindu](http://www.thehindu.com/news/international/article974135.ece)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-12074006)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-12074006)
+2. [The Hindu](http://www.thehindu.com/news/international/article974135.ece)
 
 ### Related:
 

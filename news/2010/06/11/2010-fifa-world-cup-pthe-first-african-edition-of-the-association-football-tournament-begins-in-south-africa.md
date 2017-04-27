@@ -7,13 +7,13 @@ Nelson Mandela is not attending the opening game of the World Cup today followin
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2010/06/12/world/africa/12mandela.html?src=me)
-2. [Aljazeera](http://english.aljazeera.net/news/africa/2010/06/20106111236232545.html)
-3. [The Guardian](http://www.guardian.co.uk/world/2010/jun/11/nelson-mandela-grandaughter-drunk-driver)
-4. [The National](http://www.thenational.ae/apps/pbcs.dll/article?AID=/20100611/NATIONAL/100619957/1133/opinion)
-5. [Gulf News](http://gulfnews.com/sport/football/technical-issues-mar-broadcast-of-world-cup-opening-match-in-uae-and-arab-world-1.639874)
-6. [RTÉ](http://www.rte.ie/news/2010/0611/worldcup.html)
-7. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10292883.stm)
+1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/06/20106111236232545.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10292883.stm)
+3. [Gulf News](http://gulfnews.com/sport/football/technical-issues-mar-broadcast-of-world-cup-opening-match-in-uae-and-arab-world-1.639874)
+4. [RTÉ](http://www.rte.ie/news/2010/0611/worldcup.html)
+5. [The Guardian](http://www.guardian.co.uk/world/2010/jun/11/nelson-mandela-grandaughter-drunk-driver)
+6. [The National](http://www.thenational.ae/apps/pbcs.dll/article?AID=/20100611/NATIONAL/100619957/1133/opinion)
+7. [The New York Times](http://www.nytimes.com/2010/06/12/world/africa/12mandela.html?src=me)
 
 ### Related:
 

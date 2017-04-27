@@ -7,10 +7,10 @@ Announcement comes as new video emerges purporting to show opposition fighters a
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/11/2012111911381329715.html)
-2. [Pan Armenian](http://www.panarmenian.net/eng/news/133038/)
-3. [AFP via Al Arabiya](http://english.alarabiya.net/articles/2012/11/21/251049.html)
-4. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5i-qVeEInoOTVkMbHe--041BmmeFw)
+1. [AFP via Al Arabiya](http://english.alarabiya.net/articles/2012/11/21/251049.html)
+2. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5i-qVeEInoOTVkMbHe--041BmmeFw)
+3. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/11/2012111911381329715.html)
+4. [Pan Armenian](http://www.panarmenian.net/eng/news/133038/)
 
 ### Related:
 

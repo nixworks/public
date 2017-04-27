@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://news.yahoo.com/s/nm/20080530/wl_nm/myanmar_cyclone_dc_7)
-2. [AFP](http://www.afp.com/english/news/stories/newsmlmmd.1cebf6f158502af90ba9af1994566057.7b1.html)
+1. [AFP](http://www.afp.com/english/news/stories/newsmlmmd.1cebf6f158502af90ba9af1994566057.7b1.html)
+2. [Reuters](http://news.yahoo.com/s/nm/20080530/wl_nm/myanmar_cyclone_dc_7)
 3. [VOA](http://www.voanews.com/english/2008-05-30-voa67.cfm)
 
 ### Related:

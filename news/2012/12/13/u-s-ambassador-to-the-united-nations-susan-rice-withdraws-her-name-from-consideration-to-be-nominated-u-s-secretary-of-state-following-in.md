@@ -7,8 +7,8 @@ Susan Rice has withdrawn her name for consideration to be nominated for secretar
 
 ### Source:
 
-1. [MSNBC](http://tv.msnbc.com/2012/12/13/susan-rice-withdraws-from-contention-to-be-secretary-of-state/)
-2. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/12/20121213205034736533.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/12/20121213205034736533.html)
+2. [MSNBC](http://tv.msnbc.com/2012/12/13/susan-rice-withdraws-from-contention-to-be-secretary-of-state/)
 
 ### Related:
 

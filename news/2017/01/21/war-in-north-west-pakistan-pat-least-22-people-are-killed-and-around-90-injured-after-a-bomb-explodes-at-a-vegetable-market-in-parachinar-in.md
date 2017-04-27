@@ -7,12 +7,12 @@ The blast happened at the time when dozens of people were busy shopping in the v
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/2017/01/deadly-blast-rocks-market-pakistan-northwest-170121050027278.html)
-2. [Bernama via AstroAwan](http://english.astroawani.com/malaysia-news/6-killed-30-injured-blast-hits-vegetable-market-nw-pakistan-129724)
-3. [Reuters](http://www.reuters.com/article/us-pakistan-blast-idUSKBN15507W)
-4. [Radio Pakistan](http://www.radio.gov.pk/21-Jan-2017/6-killed-30-injured-in-parachinar-blast)
-5. [Dawn News](http://www.dawn.com/news/1309800/several-injured-in-blast-at-parachinar-market)
-6. [AP](http://hosted.ap.org/dynamic/stories/A/AS_PAKISTAN?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_PAKISTAN?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [Al Jazeera](http://www.aljazeera.com/news/2017/01/deadly-blast-rocks-market-pakistan-northwest-170121050027278.html)
+3. [Bernama via AstroAwan](http://english.astroawani.com/malaysia-news/6-killed-30-injured-blast-hits-vegetable-market-nw-pakistan-129724)
+4. [Dawn News](http://www.dawn.com/news/1309800/several-injured-in-blast-at-parachinar-market)
+5. [Radio Pakistan](http://www.radio.gov.pk/21-Jan-2017/6-killed-30-injured-in-parachinar-blast)
+6. [Reuters](http://www.reuters.com/article/us-pakistan-blast-idUSKBN15507W)
 
 ### Related:
 

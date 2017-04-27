@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Los Angeles Times](http://latimesblogs.latimes.com/olympics_blog/2008/08/shooting-czech.html)
-2. [BBC News](http://news.bbc.co.uk/sport2/hi/olympics/weightlifting/7550829.stm)
+1. [BBC News](http://news.bbc.co.uk/sport2/hi/olympics/weightlifting/7550829.stm)
+2. [Los Angeles Times](http://latimesblogs.latimes.com/olympics_blog/2008/08/shooting-czech.html)
 
 ### Related:
 

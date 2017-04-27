@@ -7,8 +7,8 @@ Thousands of people are forced to flee as two volcanos erupt in Guatemala and Ec
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/world/story/2010/05/29/volcanos-ecuador-guatemala.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/latin_america/10189054.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/latin_america/10189054.stm)
+2. [CBC](http://www.cbc.ca/world/story/2010/05/29/volcanos-ecuador-guatemala.html)
 
 ### Related:
 

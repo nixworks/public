@@ -8,8 +8,8 @@ Three people have been shot dead at their family home in Thailand.
 ### Source:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gsprXhM1mBp11qHYailM8HW_5cww)
-2. [RTÉ](http://www.rte.ie/news/2009/1204/thailand.html)
-3. [Bernama](http://www.bernama.com/bernama/v5/newsindex.php?id=460000)
+2. [Bernama](http://www.bernama.com/bernama/v5/newsindex.php?id=460000)
+3. [RTÉ](http://www.rte.ie/news/2009/1204/thailand.html)
 
 ### Related:
 

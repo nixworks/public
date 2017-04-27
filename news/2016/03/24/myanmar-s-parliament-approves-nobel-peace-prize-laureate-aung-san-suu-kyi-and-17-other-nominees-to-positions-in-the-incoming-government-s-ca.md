@@ -7,10 +7,10 @@ Myanmar’s parliament approved Aung San Suu Kyi and 17 other nominees to take p
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-03-24/myanmar-s-parliament-approves-suu-kyi-for-cabinet-position)
+1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/asia_pacific/amnesty-to-suu-kyi-government-break-cycle-of-repression/2016/03/24/33f6bdfe-f181-11e5-a2a3-d4e9697917d1_story.html)
 2. [Amnesty International](http://www.amnestyusa.org/news/press-releases/new-government-in-myanmar-must-break-vicious-cycle-of-repression-and-political-arrests)
-3. [USA Tday](http://www.usatoday.com/story/news/world/2016/03/24/myanmar-amnesty-international-report-political-prisoners/82171192/)
-4. [AP via ''The Washington Post](https://www.washingtonpost.com/world/asia_pacific/amnesty-to-suu-kyi-government-break-cycle-of-repression/2016/03/24/33f6bdfe-f181-11e5-a2a3-d4e9697917d1_story.html)
+3. [Bloomberg](http://www.bloomberg.com/news/articles/2016-03-24/myanmar-s-parliament-approves-suu-kyi-for-cabinet-position)
+4. [USA Tday](http://www.usatoday.com/story/news/world/2016/03/24/myanmar-amnesty-international-report-political-prisoners/82171192/)
 
 ### Related:
 

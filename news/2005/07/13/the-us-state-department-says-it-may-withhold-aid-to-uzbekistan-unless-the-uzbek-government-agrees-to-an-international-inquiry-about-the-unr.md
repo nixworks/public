@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Baku Today](http://www.bakutoday.net/view.php?d=14061)
-2. [Eurasianet](http://www.eurasianet.org/departments/insight/articles/eav071305.shtml)
-3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L13132565.htm)
-4. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4681479.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4681479.stm)
+2. [Baku Today](http://www.bakutoday.net/view.php?d=14061)
+3. [Eurasianet](http://www.eurasianet.org/departments/insight/articles/eav071305.shtml)
+4. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L13132565.htm)
 
 ### Related:
 

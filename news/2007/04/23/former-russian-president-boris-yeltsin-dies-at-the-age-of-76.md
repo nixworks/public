@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2007/WORLD/europe/04/23/russia.yeltsin/index.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/6584481.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/6584481.stm)
+2. [CNN](http://www.cnn.com/2007/WORLD/europe/04/23/russia.yeltsin/index.html)
 
 ### Related:
 

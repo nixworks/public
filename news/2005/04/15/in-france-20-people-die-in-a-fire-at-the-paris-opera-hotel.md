@@ -7,8 +7,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8190598)
-2. [CNN](http://edition.cnn.com/2005/WORLD/europe/04/15/france.fire/)
+1. [CNN](http://edition.cnn.com/2005/WORLD/europe/04/15/france.fire/)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8190598)
 
 ### Related:
 

@@ -7,8 +7,8 @@ At least 46 people have been killed in a landslide triggered by heavy rains in n
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2009/0809/india.html)
-2. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/08/09/india.mudslides/index.html)
+1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/08/09/india.mudslides/index.html)
+2. [RTÉ](http://www.rte.ie/news/2009/0809/india.html)
 
 ### Related:
 

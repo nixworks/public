@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2006/WORLD/asiapcf/07/12/mumbai.blasts/index.html)
-2. [Associated Press](http://www.breitbart.com/news/2006/07/12/D8IQFV480.html)
+1. [Associated Press](http://www.breitbart.com/news/2006/07/12/D8IQFV480.html)
+2. [CNN](http://www.cnn.com/2006/WORLD/asiapcf/07/12/mumbai.blasts/index.html)
 
 ### Related:
 

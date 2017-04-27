@@ -7,9 +7,9 @@ A magnitude 7.0 earthquake hit off the southern coast of Japan, the U.S. Geologi
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/11/13/us-quake-japan-idUSKCN0T22FS20151113#0hdzh8z8OPw1GjTy.97)
-2. [AFP via Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/strong-7-0-magnitude/2259554.html)
-3. [AP via Marysville Appeal-Democrat](http://www.appeal-democrat.com/news/regional_news/asia/usgs-magnitude--earthquake-strikes-southwest-of-japan/article_cdca7f6b-5a53-55ee-a760-974ac4600afd.html)
+1. [AFP via Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/strong-7-0-magnitude/2259554.html)
+2. [AP via Marysville Appeal-Democrat](http://www.appeal-democrat.com/news/regional_news/asia/usgs-magnitude--earthquake-strikes-southwest-of-japan/article_cdca7f6b-5a53-55ee-a760-974ac4600afd.html)
+3. [Reuters](http://www.reuters.com/article/2015/11/13/us-quake-japan-idUSKCN0T22FS20151113#0hdzh8z8OPw1GjTy.97)
 
 ### Related:
 

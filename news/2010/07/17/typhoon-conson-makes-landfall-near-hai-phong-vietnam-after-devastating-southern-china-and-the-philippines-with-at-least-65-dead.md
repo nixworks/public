@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NDCC](http://www.ndcc.gov.ph/attachments/052_NDCC%20Update%20Sitrep%20No%2014%20as%20of%2017%20July%202010%203PM.pdf)
-2. [JTWC](http://www.webcitation.org/5rI8qAaAo)
+1. [JTWC](http://www.webcitation.org/5rI8qAaAo)
+2. [NDCC](http://www.ndcc.gov.ph/attachments/052_NDCC%20Update%20Sitrep%20No%2014%20as%20of%2017%20July%202010%203PM.pdf)
 
 ### Related:
 

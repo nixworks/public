@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Arab News](http://www.arabnews.com/?page=1&section=0&article=62065&d=13&m=4&y=2005)
-2. [Al Jazeera](http://www.aljazeera.com/me.asp?service_ID=7898)
+1. [Al Jazeera](http://www.aljazeera.com/me.asp?service_ID=7898)
+2. [Arab News](http://www.arabnews.com/?page=1&section=0&article=62065&d=13&m=4&y=2005)
 3. [Middle East Online](http://www.middle-east-online.com/english/?id=13208)
 
 ### Related:

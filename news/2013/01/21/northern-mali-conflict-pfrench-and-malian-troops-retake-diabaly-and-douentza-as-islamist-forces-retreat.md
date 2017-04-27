@@ -7,8 +7,8 @@ French and Malian troops seize the key Malian towns of Diabaly and Douentza from
 
 ### Source:
 
-1. [France 24](http://www.france24.com/en/20130121-french-malian-troops-advance-diabaly-france-aims-total-reconquest)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-21121262)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-21121262)
+2. [France 24](http://www.france24.com/en/20130121-french-malian-troops-advance-diabaly-france-aims-total-reconquest)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-03/03/c_13758223.htm)
-2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,14885757,00.html)
+1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,14885757,00.html)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-03/03/c_13758223.htm)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Rescuers drill right through to the underground chamber where 33 miners are trap
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSN0925972620101010?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+reuters/topNews+(News+/+US+/+Top+News)
-2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11506710)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11506710)
+2. [Reuters](http://www.reuters.com/article/idUSN0925972620101010?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+reuters/topNews+(News+/+US+/+Top+News)
 
 ### Related:
 

@@ -7,10 +7,10 @@ As BP continued its effort to gain control of its untamed deep-sea well, Preside
 
 ### Source:
 
-1. [Reuters](http://mobile.reuters.com/mobile/m/FullArticle/CTOP/ntopNews_uUSTRE6430AR20100528)
+1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/05/20105271336357600.html)
 2. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/la-na-oil-spill-20100528,0,2239808.story)
-3. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/05/20105271336357600.html)
-4. [Los Angeles Times](http://www.latimes.com/news/nationworld/nation/la-na-oil-spill-20100528,0,1234921.story)
+3. [Los Angeles Times](http://www.latimes.com/news/nationworld/nation/la-na-oil-spill-20100528,0,1234921.story)
+4. [Reuters](http://mobile.reuters.com/mobile/m/FullArticle/CTOP/ntopNews_uUSTRE6430AR20100528)
 
 ### Related:
 

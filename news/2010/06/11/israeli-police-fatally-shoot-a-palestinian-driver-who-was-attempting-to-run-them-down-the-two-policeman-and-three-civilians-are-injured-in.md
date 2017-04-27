@@ -7,8 +7,8 @@ Tensions have been running high since an Israeli commando raid last month on a T
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2010/06/12/world/middleeast/12mideast.html)
-2. [Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=178177)
+1. [Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=178177)
+2. [The New York Times](http://www.nytimes.com/2010/06/12/world/middleeast/12mideast.html)
 
 ### Related:
 

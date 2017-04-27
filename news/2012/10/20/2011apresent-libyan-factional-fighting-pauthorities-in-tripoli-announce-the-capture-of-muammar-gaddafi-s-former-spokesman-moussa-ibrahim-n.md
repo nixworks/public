@@ -7,9 +7,9 @@ A senior Libyan official casts doubt on an earlier statement that Moussa Ibrahim
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2012/oct/20/khamis-gaddafi-killed-bani-walid-muammar)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-20016076)
 2. [Reuters](http://www.trust.org/alertnet/news/libya-govt-says-former-gaddafi-spokesman-captured/)
-3. [BBC](http://www.bbc.co.uk/news/world-africa-20016076)
+3. [The Guardian](http://www.guardian.co.uk/world/2012/oct/20/khamis-gaddafi-killed-bani-walid-muammar)
 
 ### Related:
 

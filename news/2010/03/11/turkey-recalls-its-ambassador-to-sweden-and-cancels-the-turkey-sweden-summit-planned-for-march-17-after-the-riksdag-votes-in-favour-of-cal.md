@@ -8,9 +8,9 @@ Turkey has recalled its ambassador from Sweden after its parliament voted to bra
 ### Source:
 
 1. [Armenian Weekly](http://www.armenianweekly.com/2010/03/11/turkey-recalls-ambassador-to-sweden/)
-2. [Radio Netherlands Worldwide](http://www.rnw.nl/english/article/swedish-mps-enrage-turkey)
+2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5345756,00.html)
 3. [RTÉ](http://www.rte.ie/news/2010/0311/armenia.html)
-4. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5345756,00.html)
+4. [Radio Netherlands Worldwide](http://www.rnw.nl/english/article/swedish-mps-enrage-turkey)
 5. [Reuters](http://www.reuters.com/article/idUSTRE62A4ZX20100311)
 
 ### Related:

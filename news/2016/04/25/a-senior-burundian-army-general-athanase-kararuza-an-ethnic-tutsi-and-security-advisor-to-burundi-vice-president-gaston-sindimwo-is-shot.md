@@ -7,8 +7,8 @@ A prosecutor said that she had seen reports of killings, disappearances, impriso
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/world/icc-to-investigate-past-years-deadly-violence-in-burundi/2016/04/25/48b8af66-0b14-11e6-a6b6-2e6de3695b0e_story.html)
-2. [AFP via Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3557388/Tutsi-general-killed-Burundi-attack.html)
+1. [AFP via Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3557388/Tutsi-general-killed-Burundi-attack.html)
+2. [The Washington Post](https://www.washingtonpost.com/world/icc-to-investigate-past-years-deadly-violence-in-burundi/2016/04/25/48b8af66-0b14-11e6-a6b6-2e6de3695b0e_story.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [Interfax Russia](http://www.interfax.ru/e/B/politics/28.html?id_issue=11502894)
-2. [Seattle Post Intelligencer](http://www.seattlepi.com/national/1103AP_Ukraine_Supermarket_Blasts.html)
-3. [ABC](http://abcnews.go.com/International/wireStory?id=1877154)
+1. [ABC](http://abcnews.go.com/International/wireStory?id=1877154)
+2. [Interfax Russia](http://www.interfax.ru/e/B/politics/28.html?id_issue=11502894)
+3. [Seattle Post Intelligencer](http://www.seattlepi.com/national/1103AP_Ukraine_Supermarket_Blasts.html)
 
 ### Related:
 

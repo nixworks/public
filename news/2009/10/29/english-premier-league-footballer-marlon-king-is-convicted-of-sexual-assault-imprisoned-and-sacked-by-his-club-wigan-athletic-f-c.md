@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Times](http://www.timesonline.co.uk/tol/sport/football/premier_league/wigan/article6895815.ece)
-2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/london/8332029.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/london/8332029.stm)
+2. [The Times](http://www.timesonline.co.uk/tol/sport/football/premier_league/wigan/article6895815.ece)
 
 ### Related:
 

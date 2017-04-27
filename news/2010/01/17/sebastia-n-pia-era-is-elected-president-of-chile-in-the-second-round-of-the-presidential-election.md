@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Top_News/International/2010/01/17/Leftists-gain-in-polls-as-Chile-votes/UPI-99311263745761/)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/8464136.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/8464136.stm)
+2. [UPI](http://www.upi.com/Top_News/International/2010/01/17/Leftists-gain-in-polls-as-Chile-votes/UPI-99311263745761/)
 
 ### Related:
 

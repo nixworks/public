@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNTV](http://english.cntv.cn/program/newsupdate/20101110/105321.shtml)
-2. [AP via ''Atlanta Journal-Constitution](http://www.ajc.com/news/nation-world/blasts-hit-baghdads-christian-734690.html)
+1. [AP via ''Atlanta Journal-Constitution](http://www.ajc.com/news/nation-world/blasts-hit-baghdads-christian-734690.html)
+2. [CNTV](http://english.cntv.cn/program/newsupdate/20101110/105321.shtml)
 
 ### Related:
 

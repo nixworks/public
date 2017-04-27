@@ -7,8 +7,8 @@ An Iranian man is charged with arms trafficking in a Nigerian court, in connecti
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-11843366)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gmEeWNy7YOVg0l9lxf1aguUqhZjg?docId=CNG.8a715e6abb8e8888f916a64a424e6b92.cd1)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gmEeWNy7YOVg0l9lxf1aguUqhZjg?docId=CNG.8a715e6abb8e8888f916a64a424e6b92.cd1)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-11843366)
 
 ### Related:
 

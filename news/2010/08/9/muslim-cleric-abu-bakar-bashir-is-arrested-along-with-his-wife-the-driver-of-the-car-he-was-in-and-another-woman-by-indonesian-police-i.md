@@ -7,10 +7,10 @@ The controversial Muslim cleric, Abu Bakar Ba’asyir, is arrested in Indonesia 
 
 ### Source:
 
-1. [Herald Sun](http://www.heraldsun.com.au/news/world/jemaah-islamiahs-co-founder-abu-bakar-bashir-held-on-terror-links/story-e6frf7lf-1225903026081)
-2. [The Sydney Morning Herald](http://www.smh.com.au/world/bashir-arrested-in-terrorism-investigation-20100809-11ssy.html)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10910310)
+2. [Herald Sun](http://www.heraldsun.com.au/news/world/jemaah-islamiahs-co-founder-abu-bakar-bashir-held-on-terror-links/story-e6frf7lf-1225903026081)
 3. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE67807P20100809)
-4. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10910310)
+4. [The Sydney Morning Herald](http://www.smh.com.au/world/bashir-arrested-in-terrorism-investigation-20100809-11ssy.html)
 
 ### Related:
 

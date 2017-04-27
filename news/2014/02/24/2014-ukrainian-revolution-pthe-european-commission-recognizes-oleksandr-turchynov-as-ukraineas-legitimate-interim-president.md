@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/2014/02/24/ukraine-crisis-cbank-idUKL6N0LT3JV20140224)
+1. [AP via Fox News](http://www.foxnews.com/world/2014/02/24/ukraine-new-leaders-order-arrest-president-yanukovych/)
 2. [DPA via Europe Online](http://en.europeonline-magazine.eu/extra-eu-recognizes-turchynov-as-interim-president_322130.html)
-3. [AP via Fox News](http://www.foxnews.com/world/2014/02/24/ukraine-new-leaders-order-arrest-president-yanukovych/)
+3. [Reuters](http://uk.reuters.com/article/2014/02/24/ukraine-crisis-cbank-idUKL6N0LT3JV20140224)
 
 ### Related:
 

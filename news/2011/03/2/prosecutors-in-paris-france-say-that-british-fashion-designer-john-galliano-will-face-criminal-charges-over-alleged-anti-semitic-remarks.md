@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Telegraph](http://fashion.telegraph.co.uk/columns/belinda-white/TMG8357757/John-Galliano-to-stand-trial.html)
-2. [Newscore via ''New York Post](http://www.nypost.com/p/news/national/john_galliano_denies_anti_semitism_C4b7UkK80L3CWhdW2oh6yH)
+1. [Newscore via ''New York Post](http://www.nypost.com/p/news/national/john_galliano_denies_anti_semitism_C4b7UkK80L3CWhdW2oh6yH)
+2. [The Telegraph](http://fashion.telegraph.co.uk/columns/belinda-white/TMG8357757/John-Galliano-to-stand-trial.html)
 
 ### Related:
 

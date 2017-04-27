@@ -7,11 +7,11 @@ Programme to extend free schooling to 10 million children at a cost of $38bn.
 
 ### Source:
 
-1. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article7085141.ece)
-2. [The Hindu](http://beta.thehindu.com/news/national/article337111.ece?homepage=true)
-3. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/04/2010419346263100.html)
-4. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8598167.stm)
-5. [Press TV](http://www.presstv.ir/detail.aspx?id=122226&sectionid=351020402)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/04/2010419346263100.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8598167.stm)
+3. [Press TV](http://www.presstv.ir/detail.aspx?id=122226&sectionid=351020402)
+4. [The Hindu](http://beta.thehindu.com/news/national/article337111.ece?homepage=true)
+5. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article7085141.ece)
 
 ### Related:
 

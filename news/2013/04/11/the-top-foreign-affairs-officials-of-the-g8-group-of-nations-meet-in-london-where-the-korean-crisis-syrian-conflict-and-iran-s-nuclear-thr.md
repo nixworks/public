@@ -7,8 +7,8 @@ Western and Middle Eastern nations trying to help the Syrian opposition in its w
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/04/10/us-g8-foreign-ministers-preview-idUSBRE9390FR20130410)
-2. [BBC](http://www.bbc.co.uk/news/uk-politics-22103753)
+1. [BBC](http://www.bbc.co.uk/news/uk-politics-22103753)
+2. [Reuters](http://www.reuters.com/article/2013/04/10/us-g8-foreign-ministers-preview-idUSBRE9390FR20130410)
 
 ### Related:
 

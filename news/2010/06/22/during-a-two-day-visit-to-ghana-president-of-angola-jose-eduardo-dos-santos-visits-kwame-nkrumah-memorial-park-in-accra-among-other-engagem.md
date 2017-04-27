@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Ghana Broadcasting Corporation](http://gbcghana.com/news/35132detail.html)
-2. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/politica/2010/5/25/Angola-and-Ghana-set-technical-meeting-for-August,b1dcbaaf-44f5-4843-bc9c-02d69b7fc1cf.html)
+1. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/politica/2010/5/25/Angola-and-Ghana-set-technical-meeting-for-August,b1dcbaaf-44f5-4843-bc9c-02d69b7fc1cf.html)
+2. [Ghana Broadcasting Corporation](http://gbcghana.com/news/35132detail.html)
 
 ### Related:
 

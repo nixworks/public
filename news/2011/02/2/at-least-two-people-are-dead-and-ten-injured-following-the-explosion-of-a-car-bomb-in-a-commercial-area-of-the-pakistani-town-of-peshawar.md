@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=206326)
-2. [AP via ''Atlanta Journal Constitution](http://www.ajc.com/news/nation-world/bomb-kills-2-wounds-824355.html)
+1. [AP via ''Atlanta Journal Constitution](http://www.ajc.com/news/nation-world/bomb-kills-2-wounds-824355.html)
+2. [Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=206326)
 
 ### Related:
 

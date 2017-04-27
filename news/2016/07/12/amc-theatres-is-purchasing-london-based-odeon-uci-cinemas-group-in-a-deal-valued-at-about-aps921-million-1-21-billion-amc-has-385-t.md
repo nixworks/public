@@ -7,8 +7,8 @@ LOS ANGELES (AP) — The owner of the AMC Theatre chain is buying European movie
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/money/2016/07/12/amc-odeon-carmike-cinemas/86980178/)
-2. [AP](http://bigstory.ap.org/article/80e462c00b78481ba5cf8572087b9b46/amc-theatres-buying-europes-odeon-uci-121b-deal)
+1. [AP](http://bigstory.ap.org/article/80e462c00b78481ba5cf8572087b9b46/amc-theatres-buying-europes-odeon-uci-121b-deal)
+2. [USA Today](http://www.usatoday.com/story/money/2016/07/12/amc-odeon-carmike-cinemas/86980178/)
 
 ### Related:
 

@@ -7,11 +7,11 @@ JERUSALEM: Israel&#039;s Prime Minister, Benjamin Netanyahu, is expected to assi
 
 ### Source:
 
-1. [The Sydney Morning Herald](http://www.smh.com.au/world/netanyahu-to-shift-blame-over-deadly-raid-on-gaza-flotilla-20100808-11q7t.html)
-2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/israel/7933946/Benjamin-Netanyahu-to-testify-at-Gaza-flotilla-raid-inquiry.html)
-3. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=184136)
-4. [BBC](http://www.bbc.co.uk/news/world-middle-east-10910082)
-5. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/08/20108971927270517.html)
+1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/08/20108971927270517.html)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-10910082)
+3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/israel/7933946/Benjamin-Netanyahu-to-testify-at-Gaza-flotilla-raid-inquiry.html)
+4. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=184136)
+5. [The Sydney Morning Herald](http://www.smh.com.au/world/netanyahu-to-shift-blame-over-deadly-raid-on-gaza-flotilla-20100808-11q7t.html)
 
 ### Related:
 

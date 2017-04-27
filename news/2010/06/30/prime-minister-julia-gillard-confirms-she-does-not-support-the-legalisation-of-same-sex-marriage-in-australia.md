@@ -7,8 +7,8 @@ It seems unlikely the Christian lobby will lay out the red carpet and the intern
 
 ### Source:
 
-1. [The Sydney Morning Herald](http://www.smh.com.au/opinion/pm-tells-it-as-she-sees-it-on-the-god-issue-20100629-zjad.html)
-2. [Ninemsn](http://news.ninemsn.com.au/national/1078473/gillard-does-not-support-gay-marriage)
+1. [Ninemsn](http://news.ninemsn.com.au/national/1078473/gillard-does-not-support-gay-marriage)
+2. [The Sydney Morning Herald](http://www.smh.com.au/opinion/pm-tells-it-as-she-sees-it-on-the-god-issue-20100629-zjad.html)
 
 ### Related:
 

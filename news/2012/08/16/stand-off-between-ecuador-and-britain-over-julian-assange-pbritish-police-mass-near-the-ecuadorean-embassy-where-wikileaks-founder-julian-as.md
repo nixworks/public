@@ -7,13 +7,13 @@ Britain on Wednesday warned Ecuador that it could raid its London embassy if Qui
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2012/08/17/world/americas/ecuador-to-let-assange-stay-in-its-embassy.html?hp)
-2. [The Guardian](http://www.guardian.co.uk/media/2012/aug/16/julian-assange-political-asylum-ecuador)
+1. [AAP via ''The Sydney Morning Herald](http://www.smh.com.au/world/arrests-outside-ecuadors-london-embassy-20120816-24bg7.html)
+2. [AFP/AP/PA via ''The Sydney Morning Herald](http://www.smh.com.au/opinion/political-news/uk-police-raid-assanges-embassy-refuge-20120816-249pe.html)
 3. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/08/2012815234651368597.html)
 4. [BBC](http://www.bbc.co.uk/news/world-asia-19278302#)
 5. [Reuters](http://www.reuters.com/article/2012/08/15/us-wikileaks-assange-ecuador-idUSBRE87E16N20120815)
-6. [AAP via ''The Sydney Morning Herald](http://www.smh.com.au/world/arrests-outside-ecuadors-london-embassy-20120816-24bg7.html)
-7. [AFP/AP/PA via ''The Sydney Morning Herald](http://www.smh.com.au/opinion/political-news/uk-police-raid-assanges-embassy-refuge-20120816-249pe.html)
+6. [The Guardian](http://www.guardian.co.uk/media/2012/aug/16/julian-assange-political-asylum-ecuador)
+7. [The New York Times](http://www.nytimes.com/2012/08/17/world/americas/ecuador-to-let-assange-stay-in-its-embassy.html?hp)
 
 ### Related:
 

@@ -7,10 +7,10 @@ One person in four worldwide paid a bribe during the past year, according to stu
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-11954667)
-2. [Transparency International](http://www.transparency.org/news_room/latest_news/press_releases/2010/2010_12_09_gcb2010_en)
-3. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/20101297627332580.html)
-4. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,6311113,00.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/20101297627332580.html)
+2. [BBC](http://www.bbc.co.uk/news/world-11954667)
+3. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,6311113,00.html)
+4. [Transparency International](http://www.transparency.org/news_room/latest_news/press_releases/2010/2010_12_09_gcb2010_en)
 
 ### Related:
 

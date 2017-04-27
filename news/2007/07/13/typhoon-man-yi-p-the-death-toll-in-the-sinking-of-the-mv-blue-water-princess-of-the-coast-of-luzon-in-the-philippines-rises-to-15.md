@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters via News Limited](http://www.news.com.au/story/0,10117,22067623-401,00.html)
-2. [Fox News](http://www.foxnews.com/story/0,2933,289167,00.html)
+1. [Fox News](http://www.foxnews.com/story/0,2933,289167,00.html)
+2. [Reuters via News Limited](http://www.news.com.au/story/0,10117,22067623-401,00.html)
 
 ### Related:
 

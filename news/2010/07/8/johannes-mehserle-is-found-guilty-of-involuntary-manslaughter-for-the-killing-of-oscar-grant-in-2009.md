@@ -7,8 +7,8 @@ The involuntary manslaughter conviction of a white former transit officer in the
 
 ### Source:
 
-1. [MSNBC](http://www.msnbc.msn.com/id/38156983/ns/us_news-crime_and_courts/)
-2. [CNN](http://www.cnn.com/2010/CRIME/07/08/subway.shooting.trial.verdict/index.html?hpt=T1)
+1. [CNN](http://www.cnn.com/2010/CRIME/07/08/subway.shooting.trial.verdict/index.html?hpt=T1)
+2. [MSNBC](http://www.msnbc.msn.com/id/38156983/ns/us_news-crime_and_courts/)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Before Nyquist&#39;s brilliance was evident, it wasn&#39;t obvious to the expert
 
 ### Source:
 
-1. [Courier-Journal'' via ''USA Today](http://www.usatoday.com/story/sports/horseracing/2016/05/20/kentucky-derby-champ-preakness-favorite-nyquist-hidden-plain-sight/84673552/)
+1. [AP](http://bigstory.ap.org/article/40d52b0f22b8468286d32df4febc9b85/winner-1st-race-preakness-day-collapses-dies)
 2. [CBS  Sports](http://www.cbssports.com/general/news/2016-preakness-stakes-results-live-blog-post-time-horses-complete-field/)
-3. [AP](http://bigstory.ap.org/article/40d52b0f22b8468286d32df4febc9b85/winner-1st-race-preakness-day-collapses-dies)
+3. [Courier-Journal'' via ''USA Today](http://www.usatoday.com/story/sports/horseracing/2016/05/20/kentucky-derby-champ-preakness-favorite-nyquist-hidden-plain-sight/84673552/)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Korea Herald](http://www.koreaherald.com/national/Detail.jsp?newsMLId=20101012000687)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5j0kZX2R1LzOXsS2FKkUiOaxKB_JQD9IQ3KP00?docId=D9IQ3KP00)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5j0kZX2R1LzOXsS2FKkUiOaxKB_JQD9IQ3KP00?docId=D9IQ3KP00)
+2. [Korea Herald](http://www.koreaherald.com/national/Detail.jsp?newsMLId=20101012000687)
 3. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/20101012/news_20101012_56_704403.htm)
 
 ### Related:

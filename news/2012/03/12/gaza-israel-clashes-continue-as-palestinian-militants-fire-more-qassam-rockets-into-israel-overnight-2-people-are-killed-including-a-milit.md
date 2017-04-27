@@ -7,9 +7,9 @@ Terrorists launch 31 rockets into Israel, causing damages, lightly injuring 2 in
 
 ### Source:
 
-1. [Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=261522)
-2. [Reuters via the ''Chicago Tribune](http://www.chicagotribune.com/news/sns-rt-us-palestinians-israelbre82b07r-20120311,0,1899410.story)
-3. [Al-Arabiya](http://english.alarabiya.net/articles/2012/03/12/200092.html)
+1. [Al-Arabiya](http://english.alarabiya.net/articles/2012/03/12/200092.html)
+2. [Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=261522)
+3. [Reuters via the ''Chicago Tribune](http://www.chicagotribune.com/news/sns-rt-us-palestinians-israelbre82b07r-20120311,0,1899410.story)
 
 ### Related:
 

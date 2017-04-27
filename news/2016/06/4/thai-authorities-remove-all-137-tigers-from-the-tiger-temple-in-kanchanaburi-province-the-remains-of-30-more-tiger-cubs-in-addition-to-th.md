@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2016/06/04/asia/thailand-temple-tigers-removed/)
-2. [Bangkok Post](http://www.bangkokpost.com/news/general/999625/30-more-dead-cubs-found)
+1. [Bangkok Post](http://www.bangkokpost.com/news/general/999625/30-more-dead-cubs-found)
+2. [CNN](http://www.cnn.com/2016/06/04/asia/thailand-temple-tigers-removed/)
 
 ### Related:
 

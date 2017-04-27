@@ -8,8 +8,8 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 ### Source:
 
 1. [AP via Boston Globe](http://www.boston.com/news/world/europe/articles/2007/03/07/lawmakers_vote_to_reform_house_of_lords/)
-2. [Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/03/07/nlord107.xml)
-3. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/6420965.stm)
+2. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/6420965.stm)
+3. [Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/03/07/nlord107.xml)
 
 ### Related:
 

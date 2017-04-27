@@ -7,11 +7,11 @@ A Labour MP was recovering well from an operation on stab wounds this morning af
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/uk/crime/woman-21-arrested-over-stabbing-of-labour-mp-1973948.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/london/8683596.stm)
 2. [Fox News](http://liveshots.blogs.foxnews.com/2010/05/14/british-mp-stabbed-by-a-constituent/?test=latestnews)
 3. [RTÉ](http://www.rte.ie/news/2010/0514/timmss.html)
-4. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/london/8683596.stm)
-5. [Sky News](http://news.sky.com/skynews/Home/UK-News/Stephen-Timms-Labour-MP-Stabbed-During-Constituency-Surgery-In-Beckton-East-London/Article/201005215632162?lpos=UK_News_Top_Stories_Header_0&lid=ARTICLE_15632162_Stephen_Timms%2C_Labour_MP%2C_Stabbed_During_Constituency_Surgery_In_Beckton%2C_East_London__)
+4. [Sky News](http://news.sky.com/skynews/Home/UK-News/Stephen-Timms-Labour-MP-Stabbed-During-Constituency-Surgery-In-Beckton-East-London/Article/201005215632162?lpos=UK_News_Top_Stories_Header_0&lid=ARTICLE_15632162_Stephen_Timms%2C_Labour_MP%2C_Stabbed_During_Constituency_Surgery_In_Beckton%2C_East_London__)
+5. [The Independent](http://www.independent.co.uk/news/uk/crime/woman-21-arrested-over-stabbing-of-labour-mp-1973948.html)
 
 ### Related:
 

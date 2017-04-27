@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [MSN](http://www.msn.com/en-us/video/wonder/3-d-printers-can-now-make-hair/vi-BBmMUt3?ocid=iehp)
+1. [CMU](http://engineering.cmu.edu/media/feature/2015/10_23_feinberg_paper.html)
 2. [CMU](http://www.cmu.edu/news/stories/archives/2015/october/3-D-printer-hair.html)
-3. [CMU](http://engineering.cmu.edu/media/feature/2015/10_23_feinberg_paper.html)
+3. [MSN](http://www.msn.com/en-us/video/wonder/3-d-printers-can-now-make-hair/vi-BBmMUt3?ocid=iehp)
 
 ### Related:
 

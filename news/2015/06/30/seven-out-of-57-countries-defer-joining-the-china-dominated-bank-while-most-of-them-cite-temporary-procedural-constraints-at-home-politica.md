@@ -7,8 +7,8 @@ The Philippines has put off signing an agreement to join the China-led Asian Inf
 
 ### Source:
 
-1. [The Wall Steet Journal](http://www.wsj.com/articles/BL-CJB-27215)
-2. [The Philippine Star](http://www.philstar.com/headlines/2015/06/30/1471603/government-defers-signing-deal-join-china-led-bank)
+1. [The Philippine Star](http://www.philstar.com/headlines/2015/06/30/1471603/government-defers-signing-deal-join-china-led-bank)
+2. [The Wall Steet Journal](http://www.wsj.com/articles/BL-CJB-27215)
 
 ### Related:
 

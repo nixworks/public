@@ -7,9 +7,9 @@ Israeli tanks enter the northern Gaza Strip, sparking fighting that kills one Pa
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=204194)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12217404)
-3. [Tehran Times](http://www.tehrantimes.com/index_View.asp?code=234390)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12217404)
+2. [Tehran Times](http://www.tehrantimes.com/index_View.asp?code=234390)
+3. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=204194)
 
 ### Related:
 

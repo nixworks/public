@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Transparency.org](http://cpi.transparency.org/cpi2011/results/)
-2. [CNN.com](http://www.cnn.com/2011/12/03/world/corruption-perceptions-index/index.html?hpt=hp_t3)
+1. [CNN.com](http://www.cnn.com/2011/12/03/world/corruption-perceptions-index/index.html?hpt=hp_t3)
+2. [Transparency.org](http://cpi.transparency.org/cpi2011/results/)
 
 ### Related:
 

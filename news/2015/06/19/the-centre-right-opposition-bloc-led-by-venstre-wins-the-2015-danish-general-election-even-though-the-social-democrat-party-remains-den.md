@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [U.S. News & World Report](http://www.usnews.com/news/world/articles/2015/06/18/left-right-are-neck-and-neck-as-danes-vote-in-elections)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-33171549)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-33171549)
+2. [U.S. News & World Report](http://www.usnews.com/news/world/articles/2015/06/18/left-right-are-neck-and-neck-as-danes-vote-in-elections)
 
 ### Related:
 

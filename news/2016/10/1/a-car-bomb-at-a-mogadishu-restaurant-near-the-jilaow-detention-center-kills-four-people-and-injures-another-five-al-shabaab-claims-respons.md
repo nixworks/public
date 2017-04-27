@@ -7,9 +7,9 @@ Somali Islamist group al Shabaab bombed a restaurant frequented by members of th
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2016/10/01/africa/somalia-mogadishu-car-bomb-prison/)
-2. [Reuters](http://www.reuters.com/article/us-somalia-attacks-idUSKCN12137X)
-3. [BBC](http://www.bbc.com/news/world-africa-37514149)
+1. [BBC](http://www.bbc.com/news/world-africa-37514149)
+2. [CNN](http://www.cnn.com/2016/10/01/africa/somalia-mogadishu-car-bomb-prison/)
+3. [Reuters](http://www.reuters.com/article/us-somalia-attacks-idUSKCN12137X)
 
 ### Related:
 

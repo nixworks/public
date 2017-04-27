@@ -7,9 +7,9 @@ The head of the German Bishop&#39;s Conference Archbishop, Robert Zollitsch, has
 
 ### Source:
 
-1. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1186365&lang=eng_news)
-2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5275175,00.html)
-3. [RTÉ](http://www.rte.ie/news/2010/0222/abuse.html)
+1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5275175,00.html)
+2. [RTÉ](http://www.rte.ie/news/2010/0222/abuse.html)
+3. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1186365&lang=eng_news)
 
 ### Related:
 

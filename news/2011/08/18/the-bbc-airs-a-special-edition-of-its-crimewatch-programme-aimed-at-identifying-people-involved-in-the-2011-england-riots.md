@@ -7,8 +7,8 @@ A man who bravely tried to prevent a group of rioters from looting a mobile phon
 
 ### Source:
 
-1. [The Telegraph](http://www.telegraph.co.uk/news/uknews/crime/8709138/London-riots-CCTV-shows-thugs-blasting-man-defending-shop-with-fire-extinguisher.html)
-2. [The Guardian](http://www.yourlocalguardian.co.uk/news/9205324.Police_release_shocking_fire_extinguisher_attack_footage/)
+1. [The Guardian](http://www.yourlocalguardian.co.uk/news/9205324.Police_release_shocking_fire_extinguisher_attack_footage/)
+2. [The Telegraph](http://www.telegraph.co.uk/news/uknews/crime/8709138/London-riots-CCTV-shows-thugs-blasting-man-defending-shop-with-fire-extinguisher.html)
 
 ### Related:
 

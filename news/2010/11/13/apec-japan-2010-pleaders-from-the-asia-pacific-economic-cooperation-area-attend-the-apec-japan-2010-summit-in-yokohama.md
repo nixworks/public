@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Japan Times](http://search.japantimes.co.jp/cgi-bin/nb20101113a1.html)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iOzOwJNcjEe7lmLmVuLiYOyMwSFw?docId=3303b63c8af54522bcd5f56e08417ad9)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iOzOwJNcjEe7lmLmVuLiYOyMwSFw?docId=3303b63c8af54522bcd5f56e08417ad9)
+2. [Japan Times](http://search.japantimes.co.jp/cgi-bin/nb20101113a1.html)
 3. [NPR](http://www.npr.org/templates/story/story.php?storyId=131289084)
 
 ### Related:

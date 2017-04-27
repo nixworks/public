@@ -7,14 +7,14 @@ At least 28 people are killed in the US states of Indiana, Kentucky and Ohio, as
 
 ### Source:
 
-1. [MSNBC](http://usnews.msnbc.msn.com/_news/2012/03/02/10561066-tornadoes-slice-paths-across-alabama-indiana-and-tennesse)
+1. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5jULu0xs8juzjgYzRZG1vm51PsM6w?docId=abadd580361d4fc094f6bf4e3ddb5631)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-17236495)
-3. [CNN](http://www.cnn.com/2012/03/02/us/severe-weather/index.html?hpt=hp_t1)
-4. [The New York Times](http://thelede.blogs.nytimes.com/2012/03/02/powerful-storms-hit-towns-in-indiana/)
-5. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5jULu0xs8juzjgYzRZG1vm51PsM6w?docId=abadd580361d4fc094f6bf4e3ddb5631)
-6. [USA Today](http://www.usatoday.com/weather/storms/tornadoes/story/2012-03-02/severe-storms-tornadoes-south/53332072/1)
-7. [CNN](http://us.cnn.com/2012/03/02/us/severe-weather/index.html)
-8. [Courier-Journal](http://www.courier-journal.com/article/20120302/NEWS01/303020055/Kentucky-declares-emergency-Damage-widespread-Marysville-Ind-)
+3. [CNN](http://us.cnn.com/2012/03/02/us/severe-weather/index.html)
+4. [CNN](http://www.cnn.com/2012/03/02/us/severe-weather/index.html?hpt=hp_t1)
+5. [Courier-Journal](http://www.courier-journal.com/article/20120302/NEWS01/303020055/Kentucky-declares-emergency-Damage-widespread-Marysville-Ind-)
+6. [MSNBC](http://usnews.msnbc.msn.com/_news/2012/03/02/10561066-tornadoes-slice-paths-across-alabama-indiana-and-tennesse)
+7. [The New York Times](http://thelede.blogs.nytimes.com/2012/03/02/powerful-storms-hit-towns-in-indiana/)
+8. [USA Today](http://www.usatoday.com/weather/storms/tornadoes/story/2012-03-02/severe-storms-tornadoes-south/53332072/1)
 
 ### Related:
 

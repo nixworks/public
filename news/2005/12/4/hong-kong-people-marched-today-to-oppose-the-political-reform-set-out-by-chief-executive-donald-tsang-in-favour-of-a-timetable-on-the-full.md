@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2005-12/04/content_3876230.htm)
-2. [AP via Yahoo!News](http://news.yahoo.com/s/ap/20051205/ap_on_re_as/hong_kong_democracy_protest)
-3. [NYTimes](http://www.nytimes.com/2005/12/05/international/asia/05hong.html)
+1. [AP via Yahoo!News](http://news.yahoo.com/s/ap/20051205/ap_on_re_as/hong_kong_democracy_protest)
+2. [NYTimes](http://www.nytimes.com/2005/12/05/international/asia/05hong.html)
+3. [Xinhua](http://news.xinhuanet.com/english/2005-12/04/content_3876230.htm)
 
 ### Related:
 

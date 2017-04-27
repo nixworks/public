@@ -7,8 +7,8 @@ Brazilian man’s recovery from multiple brain tumours attributed by panel of ex
 
 ### Source:
 
-1. [Reuters via ''The Hindu](http://www.thehindu.com/news/international/mother-teresa-to-be-made-catholic-saint-in-september-paper/article8004016.ece)
-2. [Agence France-Presse via ''The Guardian](http://www.theguardian.com/news/2015/dec/18/mother-teresa-to-become-saint-after-pope-recognises-miracle-report)
+1. [Agence France-Presse via ''The Guardian](http://www.theguardian.com/news/2015/dec/18/mother-teresa-to-become-saint-after-pope-recognises-miracle-report)
+2. [Reuters via ''The Hindu](http://www.thehindu.com/news/international/mother-teresa-to-be-made-catholic-saint-in-september-paper/article8004016.ece)
 
 ### Related:
 

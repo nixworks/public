@@ -7,8 +7,8 @@ Former U.S. House Speaker Dennis Hastert pleaded guilty on Wednesday to a federa
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/10/28/us-usa-crime-hastert-idUSKCN0SM17Z20151028)
-2. [AP via ABC News](http://abcnews.go.com/Politics/wireStory/timeline-events-dennis-hasterts-life-career-34799633)
+1. [AP via ABC News](http://abcnews.go.com/Politics/wireStory/timeline-events-dennis-hasterts-life-career-34799633)
+2. [Reuters](http://www.reuters.com/article/2015/10/28/us-usa-crime-hastert-idUSKCN0SM17Z20151028)
 
 ### Related:
 

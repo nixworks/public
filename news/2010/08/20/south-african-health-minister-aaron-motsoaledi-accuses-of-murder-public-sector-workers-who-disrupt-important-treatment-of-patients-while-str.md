@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [News24](http://www.news24.com/SouthAfrica/News/Govt-takes-hard-line-on-disruptive-strikers-20100820)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-11041892)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-11041892)
+2. [News24](http://www.news24.com/SouthAfrica/News/Govt-takes-hard-line-on-disruptive-strikers-20100820)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2009-12/10/content_12625059.htm)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jfFE9AGpPsUPu-piajwMInBXifAQ)
 2. [Thai News Agency](http://enews.mcot.net/view.php?id=13207)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jfFE9AGpPsUPu-piajwMInBXifAQ)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-12/10/content_12625059.htm)
 
 ### Related:
 

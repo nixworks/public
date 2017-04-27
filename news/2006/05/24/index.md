@@ -29,7 +29,7 @@ _Context: Dili, East Timor, East Timorese army_
 _Context: Atatürk International Airport, Istanbul, Turkish_
 
 ### [ President of Mexico Vicente Fox begins a tour of the United States in Salt Lake City by criticizing a proposed border wall. This comes amid the U.S. Senate passing a sweeping immigration bill. [http://news.yahoo.com/s/ap/20060523/ap_on_re_us/us_fox_visit_11;_ylt=Ak6VI6_GWm8p29y3g7pcJAkdl.0A;_ylu=X3oDMTBiMW04NW9mBHNlYwMlJVRPUCUl (AP via Yahoo!)] [http://news.yahoo.com/s/ap/20060524/ap_on_go_ca_st_pe/immigration_26;_ylt=Ags18swU_uP6Rs0jkyCi_mBQuk0A;_ylu=X3oDMTBiMW04NW9mBHNlYwMlJVRPUCUl (AP)] [http://www.latimes.com/news/nationworld/nation/la-na-fox24may24,1,3193193.story?coll=la-headlines-nation (LA Times)].](/news/2006/05/24/president-of-mexico-vicente-fox-begins-a-tour-of-the-united-states-in-salt-lake-city-by-criticizing-a-proposed-border-wall-this-comes-amid.md)
-_Context: President, Salt Lake City, U.S., Vicente Fox, illegal worker_
+_Context: President, Salt Lake City, United States, Vicente Fox, illegal worker_
 
 ## [Previous Day...](/news/2006/05/23/index.md)
 

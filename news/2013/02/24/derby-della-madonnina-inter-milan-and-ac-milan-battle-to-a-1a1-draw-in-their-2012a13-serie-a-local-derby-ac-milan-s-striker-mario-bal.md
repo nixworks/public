@@ -7,8 +7,8 @@ Inter Milan are fined 50,000 euros after their fans are found guilty of racial a
 
 ### Source:
 
-1. [Goal.com](http://www.goal.com/en-gb/match/88301/inter-vs-ac-milan/report)
-2. [BBC](http://www.bbc.co.uk/sport/0/football/21573346)
+1. [BBC](http://www.bbc.co.uk/sport/0/football/21573346)
+2. [Goal.com](http://www.goal.com/en-gb/match/88301/inter-vs-ac-milan/report)
 
 ### Related:
 

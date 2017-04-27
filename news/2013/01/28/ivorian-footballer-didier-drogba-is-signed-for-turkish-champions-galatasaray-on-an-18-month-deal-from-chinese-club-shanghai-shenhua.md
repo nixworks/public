@@ -7,9 +7,9 @@ Galatasaray says it has reached a deal to sign former Chelsea forward Didier Dro
 
 ### Source:
 
-1. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1317016/drogba-signs-galatasaray)
-2. [Fox News](http://www.foxnews.com/sports/2013/01/28/drogba-set-to-join-galatasaray/)
-3. [AP via USA Today](http://www.usatoday.com/story/sports/mls/2013/01/28/didier-drogba-galatasaray-turkey-wesley-sneijder/1871145/)
+1. [AP via USA Today](http://www.usatoday.com/story/sports/mls/2013/01/28/didier-drogba-galatasaray-turkey-wesley-sneijder/1871145/)
+2. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1317016/drogba-signs-galatasaray)
+3. [Fox News](http://www.foxnews.com/sports/2013/01/28/drogba-set-to-join-galatasaray/)
 
 ### Related:
 
@@ -20,6 +20,6 @@ Galatasaray says it has reached a deal to sign former Chelsea forward Didier Dro
 5. [Fans clash in Istanbul, Turkey, as Galatasaray draw with Fenerbahce S.K. to secure their 18th Turkish football title. ](/news/2012/05/12/fans-clash-in-istanbul-turkey-as-galatasaray-draw-with-fenerbahasse-s-k-to-secure-their-18th-turkish-football-title.md) _Context: Turkish, association football_
 6. [Chelsea stun title holders Barcelona with a 1-0 win UEFA Champions League semi-final first-leg match in London, Ivorian footballer Didier Drogba scoring the only goal of the game. ](/news/2012/04/18/chelsea-stun-title-holders-barcelona-with-a-1-0-win-uefa-champions-league-semi-final-first-leg-match-in-london-ivorian-footballer-didier-dr.md) _Context: Côte d'Ivoire, Didier Drogba_
 7. [Prime Minister of Norway Erna Solberg meets with Premier of the People's Republic of China Li Keqiang in Beijing to announce the end of a diplomatic freeze between the countries and the resumption of free trade negotiations between China and Norway. ](/news/2017/04/7/prime-minister-of-norway-erna-solberg-meets-with-premier-of-the-people-s-republic-of-china-li-keqiang-in-beijing-to-announce-the-end-of-a-di.md) _Context: China_
-8. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also 5 Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-5-peshmerga-fighters-are-killed-during-a-tu.md) _Context: Turkish_
+8. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also five Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey also claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-five-peshmerga-fighters-are-killed-during-a.md) _Context: Turkish_
 9. [China launches its first cargo spacecraft, the Tianzhou 1, carried by a Long March 7 rocket. ](/news/2017/04/20/china-launches-its-first-cargo-spacecraft-the-tianzhou-1-carried-by-a-long-march-7-rocket.md) _Context: China_
 10. [The European Commission, based on the  Organization for Security and Co-operation in Europe report, calls on Turkey to launch an investigation into allegations of referendum voting irregularities. ](/news/2017/04/18/the-european-commission-based-on-the-organization-for-security-and-co-operation-in-europe-report-calls-on-turkey-to-launch-an-investigati.md) _Context: Turkish_

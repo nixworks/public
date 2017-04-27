@@ -7,9 +7,9 @@ Greek voters have dealt a blow to eurozone hopes that Athens will stick to its a
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/05/201256165643443598.html)
-2. [Bloomberg](http://www.bloomberg.com/news/2012-05-05/greece-votes-in-elections-with-euro-future-at-stake.html)
-3. [AFP via ''Sydney Morning Herald](http://www.smh.com.au/world/greek-voters-reject-eurozone-austerity-20120507-1y7km.html)
+1. [AFP via ''Sydney Morning Herald](http://www.smh.com.au/world/greek-voters-reject-eurozone-austerity-20120507-1y7km.html)
+2. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/05/201256165643443598.html)
+3. [Bloomberg](http://www.bloomberg.com/news/2012-05-05/greece-votes-in-elections-with-euro-future-at-stake.html)
 
 ### Related:
 

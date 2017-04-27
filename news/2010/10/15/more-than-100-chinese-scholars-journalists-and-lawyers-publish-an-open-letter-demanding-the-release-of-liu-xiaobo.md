@@ -8,8 +8,8 @@ China&#039;s leaders faced fresh calls for freedom of speech on Friday after gro
 ### Source:
 
 1. [IOL](http://www.iol.co.za/news/world/activists-urge-china-to-release-liu-1.686434)
-2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/8065888/China-leaders-face-increased-pressure-for-freedom-of-speech.html)
-3. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/20101016/news_20101016_56_705507.htm)
+2. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/20101016/news_20101016_56_705507.htm)
+3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/8065888/China-leaders-face-increased-pressure-for-freedom-of-speech.html)
 
 ### Related:
 

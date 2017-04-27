@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-16852065)
-2. [AP via ''Courier Mail](http://www.couriermail.com.au/news/breaking-news/scores-die-in-icy-weather-across-europe/story-e6freonf-1226260176255)
+1. [AP via ''Courier Mail](http://www.couriermail.com.au/news/breaking-news/scores-die-in-icy-weather-across-europe/story-e6freonf-1226260176255)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-16852065)
 
 ### Related:
 

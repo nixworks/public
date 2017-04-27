@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Yemen News Agency](http://www.sabanews.net/en/news201672.htm)
-2. [Reuters](http://www.reuters.com/article/idUSTRE5BQ0U920091227)
+1. [Reuters](http://www.reuters.com/article/idUSTRE5BQ0U920091227)
+2. [Yemen News Agency](http://www.sabanews.net/en/news201672.htm)
 
 ### Related:
 

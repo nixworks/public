@@ -7,8 +7,8 @@ A planned home for asylum applicants has burned down in the Germany state of Sax
 
 ### Source:
 
-1. [Deutsche Welle](http://www.dw.com/en/planned-refugee-shelter-in-eastern-german-town-of-bautzen-set-on-fire/a-19063792)
-2. [Deutsche Welle](http://www.dw.com/en/german-lawmakers-condemn-anti-refugee-right-wing-extremism-in-saxony/a-19071065)
+1. [Deutsche Welle](http://www.dw.com/en/german-lawmakers-condemn-anti-refugee-right-wing-extremism-in-saxony/a-19071065)
+2. [Deutsche Welle](http://www.dw.com/en/planned-refugee-shelter-in-eastern-german-town-of-bautzen-set-on-fire/a-19063792)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [GOAL](http://www.goal.com/en-gb/match/92452/germany-vs-sweden/play-by-play)
-2. [BBC](http://www.bbc.co.uk/sport/0/football/19966932)
+1. [BBC](http://www.bbc.co.uk/sport/0/football/19966932)
+2. [GOAL](http://www.goal.com/en-gb/match/92452/germany-vs-sweden/play-by-play)
 
 ### Related:
 

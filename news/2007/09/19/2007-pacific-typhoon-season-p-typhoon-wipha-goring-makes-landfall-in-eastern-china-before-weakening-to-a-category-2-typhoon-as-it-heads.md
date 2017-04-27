@@ -7,8 +7,8 @@ Typhoon Wipha lost strength after crossing the eastern coast of China on Wednesd
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSPEK17790220070919?feedType=RSS&feedName=topNews)
-2. [News Limited](http://www.news.com.au/story/0,23599,22449672-401,00.html)
+1. [News Limited](http://www.news.com.au/story/0,23599,22449672-401,00.html)
+2. [Reuters](http://www.reuters.com/article/topNews/idUSPEK17790220070919?feedType=RSS&feedName=topNews)
 
 ### Related:
 

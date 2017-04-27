@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC video](http://news.bbc.co.uk/media/news_web/video/40760000/bb/40760471_bb_16x9.asx)
-2. [CNN](http://edition.cnn.com/2005/US/01/24/suicidal.gitmo/index.html)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4204027.stm)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4204027.stm)
+3. [CNN](http://edition.cnn.com/2005/US/01/24/suicidal.gitmo/index.html)
 
 ### Related:
 

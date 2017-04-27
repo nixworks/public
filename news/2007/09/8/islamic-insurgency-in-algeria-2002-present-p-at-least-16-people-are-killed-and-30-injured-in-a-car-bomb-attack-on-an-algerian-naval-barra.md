@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://in.reuters.com/article/worldNews/idINIndia-29419120070909)
-2. [AFP via Google](http://afp.google.com/article/ALeqM5gzCTyHCzYMmRuSfcYKYhiBJWSNYg)
+1. [AFP via Google](http://afp.google.com/article/ALeqM5gzCTyHCzYMmRuSfcYKYhiBJWSNYg)
+2. [Reuters](http://in.reuters.com/article/worldNews/idINIndia-29419120070909)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Group says Abdullah al-Asiri crossed over from Yemen to carry out attack on inte
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8229581.stm)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/08/200983091051611545.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/08/200983091051611545.html)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8229581.stm)
 
 ### Related:
 

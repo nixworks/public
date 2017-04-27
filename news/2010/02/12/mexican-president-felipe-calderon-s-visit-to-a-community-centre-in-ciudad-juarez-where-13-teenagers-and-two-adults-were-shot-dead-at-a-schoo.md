@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8511904.stm)
-2. [Radio Netherlands Worldwide](http://www.rnw.nl/english/article/mexican-president-pledges-aid-ciudad-ju%C3%A1rez)
-3. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=352323&CategoryId=14091)
+2. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=352323&CategoryId=14091)
+3. [Radio Netherlands Worldwide](http://www.rnw.nl/english/article/mexican-president-pledges-aid-ciudad-ju%C3%A1rez)
 
 ### Related:
 

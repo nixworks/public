@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2009-08/16/content_11892151.htm)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8204072.stm)
-3. [RIA Novosti](http://en.rian.ru/russia/20090816/155824125.html)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8204072.stm)
+2. [RIA Novosti](http://en.rian.ru/russia/20090816/155824125.html)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-08/16/content_11892151.htm)
 
 ### Related:
 

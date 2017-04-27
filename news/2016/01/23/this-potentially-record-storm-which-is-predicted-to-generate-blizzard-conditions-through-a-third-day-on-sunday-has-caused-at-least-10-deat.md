@@ -7,9 +7,9 @@ The storm effectively shut down New York City and D.C., while dumping as much as
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/storyline/monster-storm/monster-blizzard-leaves-least-10-dead-it-pummels-east-coast-n502776)
-2. [Reuters](http://www.reuters.com/article/us-usa-weather-idUSKCN0V107L)
-3. [ESPN](http://espn.go.com/mens-college-basketball/story/_/id/14630661/bus-duquesne-dukes-men-basketball-team-stranded-pa-turnpike)
+1. [ESPN](http://espn.go.com/mens-college-basketball/story/_/id/14630661/bus-duquesne-dukes-men-basketball-team-stranded-pa-turnpike)
+2. [NBC News](http://www.nbcnews.com/storyline/monster-storm/monster-blizzard-leaves-least-10-dead-it-pummels-east-coast-n502776)
+3. [Reuters](http://www.reuters.com/article/us-usa-weather-idUSKCN0V107L)
 
 ### Related:
 

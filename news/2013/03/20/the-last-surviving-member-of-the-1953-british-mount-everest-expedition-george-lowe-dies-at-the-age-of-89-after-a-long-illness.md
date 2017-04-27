@@ -7,6 +7,6 @@
 
 ### Source:
 
-1. [Voice of America](http://www.voanews.com/content/everest-mountaineer-george-lowe-dies-at-89/1626680.html)
+1. [Huffington Post](http://www.huffingtonpost.com/2013/03/22/george-lowe-dead-mount-everest-climber-obituary_n_2930909.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2013/mar/22/george-lowe-last-everest-pioneer-dies)
-3. [Huffington Post](http://www.huffingtonpost.com/2013/03/22/george-lowe-dead-mount-everest-climber-obituary_n_2930909.html)
+3. [Voice of America](http://www.voanews.com/content/everest-mountaineer-george-lowe-dies-at-89/1626680.html)

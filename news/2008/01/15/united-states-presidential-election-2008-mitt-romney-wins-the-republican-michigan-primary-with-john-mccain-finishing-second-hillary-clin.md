@@ -7,10 +7,10 @@ The pressure&#39;s on for Republicans to show staying power in a presidential pr
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2008/POLITICS/01/15/michigan.primary/index.html)
-2. [MSNBC](http://www.msnbc.msn.com/id/22681318/)
+1. [AP via Google News](http://ap.google.com/article/ALeqM5gbZxmFSV3nNUYvtSSKacQb7wkpkQD8U6MM7O0)
+2. [CNN](http://www.cnn.com/2008/POLITICS/01/15/michigan.primary/index.html)
 3. [Canadian Press via Google News](http://canadianpress.google.com/article/ALeqM5jrzOhVVStnVEVe07H85DOjAt3Ymg)
-4. [AP via Google News](http://ap.google.com/article/ALeqM5gbZxmFSV3nNUYvtSSKacQb7wkpkQD8U6MM7O0)
+4. [MSNBC](http://www.msnbc.msn.com/id/22681318/)
 
 ### Related:
 

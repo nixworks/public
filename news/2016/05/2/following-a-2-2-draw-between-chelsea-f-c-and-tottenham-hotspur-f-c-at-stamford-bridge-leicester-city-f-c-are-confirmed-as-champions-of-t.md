@@ -7,8 +7,8 @@ Leicester City have completed one of the most remarkable triumphs in sporting hi
 
 ### Source:
 
-1. [Sky Sports](http://www.skysports.com/football/news/11712/10267194/leicester-city-confirmed-as-201516-premier-league-champions)
-2. [BBC](http://www.bbc.com/sport/football/35988673)
+1. [BBC](http://www.bbc.com/sport/football/35988673)
+2. [Sky Sports](http://www.skysports.com/football/news/11712/10267194/leicester-city-confirmed-as-201516-premier-league-champions)
 
 ### Related:
 

@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/02/27/AR2006022700580.html)
-2. [Taipei Times](http://www.taipeitimes.com/News/taiwan/archives/2006/02/27/2003294860)
-3. [China Daily](http://www.chinadaily.com.cn/english/doc/2006-02/27/content_524427.htm)
-4. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4753974.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4753974.stm)
+2. [China Daily](http://www.chinadaily.com.cn/english/doc/2006-02/27/content_524427.htm)
+3. [Taipei Times](http://www.taipeitimes.com/News/taiwan/archives/2006/02/27/2003294860)
+4. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/02/27/AR2006022700580.html)
 
 ### Related:
 

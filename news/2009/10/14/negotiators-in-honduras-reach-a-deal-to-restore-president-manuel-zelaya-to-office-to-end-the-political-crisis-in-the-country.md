@@ -7,9 +7,9 @@ Opponents in the political standoff in Honduras appear to have reached a comprom
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2009-10/15/content_12234378.htm)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i6u0qJXVKmnGMC0Nxk6gry1enTxg)
 2. [CBC](http://www.cbc.ca/sports/story/2009/10/14/honduras-possible-deal-president.html)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i6u0qJXVKmnGMC0Nxk6gry1enTxg)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-10/15/content_12234378.htm)
 
 ### Related:
 

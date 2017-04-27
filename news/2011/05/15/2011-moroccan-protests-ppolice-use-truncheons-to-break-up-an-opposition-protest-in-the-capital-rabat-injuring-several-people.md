@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE74E07N20110515)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5ijmvh8NR11R4W378hqyiVDrfB_Jg?docId=CNG.dd035276a74a1dfc4910aded0e7a6b3b.5a1)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5ijmvh8NR11R4W378hqyiVDrfB_Jg?docId=CNG.dd035276a74a1dfc4910aded0e7a6b3b.5a1)
+2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE74E07N20110515)
 
 ### Related:
 

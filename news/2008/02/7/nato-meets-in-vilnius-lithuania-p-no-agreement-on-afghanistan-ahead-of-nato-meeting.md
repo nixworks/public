@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Presszoom](http://presszoom.com/story_143339.html)
-2. [AFP via Google News](http://afp.google.com/article/ALeqM5ghw0b8kmbA8iuyMyapW8LeRALRdg)
+1. [AFP via Google News](http://afp.google.com/article/ALeqM5ghw0b8kmbA8iuyMyapW8LeRALRdg)
+2. [Presszoom](http://presszoom.com/story_143339.html)
 
 ### Related:
 

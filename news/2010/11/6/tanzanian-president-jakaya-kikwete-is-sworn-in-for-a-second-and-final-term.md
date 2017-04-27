@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-11/06/c_13594153.htm)
-2. [Daily Nation](http://www.nation.co.ke/News/africa/Kikwete%20sworn%20in%20for%20last%20term%20/-/1066/1048404/-/owesf0z/-/)
+1. [Daily Nation](http://www.nation.co.ke/News/africa/Kikwete%20sworn%20in%20for%20last%20term%20/-/1066/1048404/-/owesf0z/-/)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-11/06/c_13594153.htm)
 
 ### Related:
 

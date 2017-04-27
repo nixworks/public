@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RIA](http://en.ria.ru/crime/20120806/175020664.html)
-2. [RIA](http://en.ria.ru/crime/20120806/175017648.html)
+1. [RIA](http://en.ria.ru/crime/20120806/175017648.html)
+2. [RIA](http://en.ria.ru/crime/20120806/175020664.html)
 
 ### Related:
 

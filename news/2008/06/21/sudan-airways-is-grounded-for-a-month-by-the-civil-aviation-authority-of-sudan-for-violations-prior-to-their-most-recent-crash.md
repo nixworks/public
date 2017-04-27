@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.tiscali.co.uk/news/newswire.php/news/reuters/2008/06/21/world/sudan-grounds-national-airline.html&template=/news/feeds/story-template-reuters.html)
-2. [BBC News](http://news.bbc.co.uk/1/hi/world/africa/7467423.stm)
+1. [BBC News](http://news.bbc.co.uk/1/hi/world/africa/7467423.stm)
+2. [Reuters](http://www.tiscali.co.uk/news/newswire.php/news/reuters/2008/06/21/world/sudan-grounds-national-airline.html&template=/news/feeds/story-template-reuters.html)
 
 ### Related:
 

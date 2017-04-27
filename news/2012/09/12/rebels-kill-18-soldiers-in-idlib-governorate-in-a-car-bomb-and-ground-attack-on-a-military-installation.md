@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [SANA](http://sana.sy/eng/22/2012/09/12/441119.htm)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iwXx_3WzxeVtkx7hqYHTEierPZXQ?docId=CNG.1476c9a50ef002a2a8738bf599960fbe.1e1)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iwXx_3WzxeVtkx7hqYHTEierPZXQ?docId=CNG.1476c9a50ef002a2a8738bf599960fbe.1e1)
+2. [SANA](http://sana.sy/eng/22/2012/09/12/441119.htm)
 
 ### Related:
 

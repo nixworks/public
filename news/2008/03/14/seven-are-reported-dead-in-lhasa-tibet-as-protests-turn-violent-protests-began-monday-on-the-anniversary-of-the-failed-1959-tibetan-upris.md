@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2008/WORLD/asiapcf/03/14/tibet.unrest/index.html)
-2. [AP via the ''Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/world/5621545.html)
+1. [AP via the ''Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/world/5621545.html)
+2. [CNN](http://www.cnn.com/2008/WORLD/asiapcf/03/14/tibet.unrest/index.html)
 
 ### Related:
 

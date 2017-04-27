@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Press TV](http://www.presstv.ir/detail/165779.html)
-2. [American Independent](http://americanindependent.com/170062/anti-war-protester-seized-claims-he-was-bloodied-by-guards-at-clinton-address-about-free-speech)
+1. [American Independent](http://americanindependent.com/170062/anti-war-protester-seized-claims-he-was-bloodied-by-guards-at-clinton-address-about-free-speech)
+2. [Press TV](http://www.presstv.ir/detail/165779.html)
 
 ### Related:
 

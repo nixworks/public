@@ -7,8 +7,8 @@ ALL trading on the Australian stock exchange has been halted indefinitely.
 
 ### Source:
 
-1. [News Limited](http://www.news.com.au/business/markets/asx-trading-suspended-indefinitely/story-e6frfm30-1226178084572)
-2. [Herald-Sun](http://www.heraldsun.com.au/business/asx-halts-trade-on-technical-problems/story-fn7j19iv-1226178115823)
+1. [Herald-Sun](http://www.heraldsun.com.au/business/asx-halts-trade-on-technical-problems/story-fn7j19iv-1226178115823)
+2. [News Limited](http://www.news.com.au/business/markets/asx-trading-suspended-indefinitely/story-e6frfm30-1226178084572)
 
 ### Related:
 

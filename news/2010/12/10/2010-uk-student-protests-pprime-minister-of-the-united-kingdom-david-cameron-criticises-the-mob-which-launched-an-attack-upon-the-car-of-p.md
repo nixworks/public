@@ -7,14 +7,14 @@ Inquiries launched into royal security and alleged beating of student a day afte
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/uk/2010/dec/10/schoolboy-quizzed-cameron-office-picket)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/2010121015447963288.html)
-3. [Sky News](http://news.sky.com/skynews/Home/UK-News/Tuition-Fees-Protests-Student-Alfie-Meadows-In-Three-Hour-Operation-Afte-Being-Hit-With-A-Truncheon/Article/201012215851232?lpos=UK_News_Top_Stories_Header_4&lid=ARTICLE_15851232_Tuition_Fees_Protests:_Student_Alfie_Meadows_In_Three-Hour_Operation_Afte_Being_Hit_With_A_Truncheon)
-4. [BBC](http://www.bbc.co.uk/news/uk-11972771)
-5. [The Guardian](http://www.guardian.co.uk/education/2010/dec/10/royal-car-attack-cameron-charles)
-6. [The Guardian](http://www.guardian.co.uk/world/2010/dec/10/student-operation-tuition-fees-protest?intcmp=239)
-7. [CNN](http://edition.cnn.com/2010/WORLD/europe/12/10/uk.tuition.protests/)
-8. [Daily Mail](http://www.dailymail.co.uk/news/article-1337468/Tuition-fees-protest-Alfie-Meadows-emergency-brain-surgery-beaten-police.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/2010121015447963288.html)
+2. [BBC](http://www.bbc.co.uk/news/uk-11972771)
+3. [CNN](http://edition.cnn.com/2010/WORLD/europe/12/10/uk.tuition.protests/)
+4. [Daily Mail](http://www.dailymail.co.uk/news/article-1337468/Tuition-fees-protest-Alfie-Meadows-emergency-brain-surgery-beaten-police.html)
+5. [Sky News](http://news.sky.com/skynews/Home/UK-News/Tuition-Fees-Protests-Student-Alfie-Meadows-In-Three-Hour-Operation-Afte-Being-Hit-With-A-Truncheon/Article/201012215851232?lpos=UK_News_Top_Stories_Header_4&lid=ARTICLE_15851232_Tuition_Fees_Protests:_Student_Alfie_Meadows_In_Three-Hour_Operation_Afte_Being_Hit_With_A_Truncheon)
+6. [The Guardian](http://www.guardian.co.uk/education/2010/dec/10/royal-car-attack-cameron-charles)
+7. [The Guardian](http://www.guardian.co.uk/uk/2010/dec/10/schoolboy-quizzed-cameron-office-picket)
+8. [The Guardian](http://www.guardian.co.uk/world/2010/dec/10/student-operation-tuition-fees-protest?intcmp=239)
 
 ### Related:
 

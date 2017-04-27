@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Aviation Herald](http://avherald.com/h?article=4a675f56&opt=0)
-2. [CNN](http://edition.cnn.com/2017/03/20/africa/south-sudan-crash/index.html)
+1. [CNN](http://edition.cnn.com/2017/03/20/africa/south-sudan-crash/index.html)
+2. [The Aviation Herald](http://avherald.com/h?article=4a675f56&opt=0)
 
 ### Related:
 

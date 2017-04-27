@@ -7,8 +7,8 @@ Pakistan becomes the 98th state to formally recognise Kosovo as an independent c
 
 ### Source:
 
-1. [The Times of India](http://timesofindia.indiatimes.com/world/pakistan/Pakistan-government-recognises-Republic-of-Kosovo/articleshow/17752448.cms)
-2. [The Express Tribune](http://tribune.com.pk/story/483808/pakistan-formally-recognises-the-republic-of-kosovo/)
+1. [The Express Tribune](http://tribune.com.pk/story/483808/pakistan-formally-recognises-the-republic-of-kosovo/)
+2. [The Times of India](http://timesofindia.indiatimes.com/world/pakistan/Pakistan-government-recognises-Republic-of-Kosovo/articleshow/17752448.cms)
 
 ### Related:
 

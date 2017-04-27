@@ -7,8 +7,8 @@ Latest environmental news, features and updates. Pictures, video and more.
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/earth/copenhagen-climate-change-confe/6678469/Climategate-University-of-East-Anglia-U-turn-in-climate-change-row.html)
-2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5ikaqlFpp9jCRHWN0zNuamKXfyeMgD9C441LG0)
+1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5ikaqlFpp9jCRHWN0zNuamKXfyeMgD9C441LG0)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/earth/copenhagen-climate-change-confe/6678469/Climategate-University-of-East-Anglia-U-turn-in-climate-change-row.html)
 
 ### Related:
 

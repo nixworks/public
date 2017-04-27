@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4200543.stm)
-2. [Reuters](http://www.alertnet.org/thenews/newsdesk/L23434409.htm)
-3. [Haaretz](http://www.haaretz.com/hasen/spages/530897.html)
+2. [Haaretz](http://www.haaretz.com/hasen/spages/530897.html)
+3. [Reuters](http://www.alertnet.org/thenews/newsdesk/L23434409.htm)
 
 ### Related:
 

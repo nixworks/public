@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [MSNBC](http://technolog.msnbc.msn.com/_news/2011/09/22/7902425-facebook-timeline-tells-story-of-your-life)
-2. [CNN](http://www.cnn.com/2011/09/22/tech/social-media/facebook-announcement-f8/index.html)
+1. [CNN](http://www.cnn.com/2011/09/22/tech/social-media/facebook-announcement-f8/index.html)
+2. [MSNBC](http://technolog.msnbc.msn.com/_news/2011/09/22/7902425-facebook-timeline-tells-story-of-your-life)
 
 ### Related:
 

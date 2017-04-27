@@ -9,8 +9,8 @@ Presidential electoral campaigning suspended as fresh clashes between rival fact
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/09/20109121155208384.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-11277621)
-3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/northamerica/usa/7997547/Kentucky-man-goes-on-rampage-after-egg-breakfast.html)
-4. [Japan Today](http://www.japantoday.com/category/world/view/6-dead-in-eastern-kentucky-shooting)
+3. [Japan Today](http://www.japantoday.com/category/world/view/6-dead-in-eastern-kentucky-shooting)
+4. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/northamerica/usa/7997547/Kentucky-man-goes-on-rampage-after-egg-breakfast.html)
 
 ### Related:
 

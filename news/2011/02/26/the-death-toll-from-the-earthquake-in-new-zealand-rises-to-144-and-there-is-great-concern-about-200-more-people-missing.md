@@ -7,9 +7,9 @@ Violent aftershocks hampered desperate efforts to find survivors in quake-hit Ch
 
 ### Source:
 
-1. [TV New Zealand](http://tvnz.co.nz/national-news/live-updates-christchurch-earthquake-day-five-4040854)
+1. [Reuters](http://uk.reuters.com/article/2011/02/26/uk-newzealand-quake-idUKTRE71L04920110226)
 2. [TV New Zealand](http://tvnz.co.nz/national-news/aftershocks-trigger-more-evacuations-4041351?ref=rss)
-3. [Reuters](http://uk.reuters.com/article/2011/02/26/uk-newzealand-quake-idUKTRE71L04920110226)
+3. [TV New Zealand](http://tvnz.co.nz/national-news/live-updates-christchurch-earthquake-day-five-4040854)
 
 ### Related:
 

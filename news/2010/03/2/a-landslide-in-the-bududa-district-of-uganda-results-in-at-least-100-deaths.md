@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [New Vision](http://www.newvision.co.ug/D/10/10/711645)
-2. [BBC News](http://news.bbc.co.uk/1/hi/world/africa/8545005.stm)
+1. [BBC News](http://news.bbc.co.uk/1/hi/world/africa/8545005.stm)
+2. [New Vision](http://www.newvision.co.ug/D/10/10/711645)
 
 ### Related:
 

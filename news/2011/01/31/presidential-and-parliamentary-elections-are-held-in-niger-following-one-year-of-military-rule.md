@@ -7,8 +7,8 @@ Niger&amp;&#x23;039&#x3B;s&#x20;junta&#x20;leader&#x20;Salou&#x20;Djibo&#x20;cal
 
 ### Source:
 
-1. [Times LIVE](http://www.timeslive.co.za/africa/article883387.ece/Polls-open-in-Niger-presidential-vote)
-2. [RFI](http://www.english.rfi.fr/africa/20110131-niger-goes-polls-elect-new-leader)
+1. [RFI](http://www.english.rfi.fr/africa/20110131-niger-goes-polls-elect-new-leader)
+2. [Times LIVE](http://www.timeslive.co.za/africa/article883387.ece/Polls-open-in-Niger-presidential-vote)
 
 ### Related:
 

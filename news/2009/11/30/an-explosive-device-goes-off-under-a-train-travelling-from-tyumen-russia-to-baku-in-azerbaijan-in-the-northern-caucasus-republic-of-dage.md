@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/russia/20091130/157036318.html)
-2. [Azeri Press Agency](http://en.apa.az/news.php?id=111729)
+1. [Azeri Press Agency](http://en.apa.az/news.php?id=111729)
+2. [RIA Novosti](http://en.rian.ru/russia/20091130/157036318.html)
 3. [Times of India](http://timesofindia.indiatimes.com/world/europe/Railway-blast-in-Russias-Dagestan-Report/articleshow/5284367.cms)
 
 ### Related:

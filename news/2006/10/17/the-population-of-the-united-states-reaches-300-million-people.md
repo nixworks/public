@@ -7,5 +7,5 @@ Census figures show that for first time in history, married couples are in the m
 
 ### Source:
 
-1. [NPR: Talk of the Nation](http://www.npr.org/templates/story/story.php?storyId=6284154)
-2. [CNN](http://www.cnn.com/2006/US/10/17/300.million.over/index.html)
+1. [CNN](http://www.cnn.com/2006/US/10/17/300.million.over/index.html)
+2. [NPR: Talk of the Nation](http://www.npr.org/templates/story/story.php?storyId=6284154)

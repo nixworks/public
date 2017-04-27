@@ -7,8 +7,8 @@ Calls to halt negotiations with Ankara angers the country&#039;s leader, who war
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/story/erdogan-threatens-to-open-turkeys-border-with-europe-to-migrants-10671408)
-2. [Al Jazeera](http://www.aljazeera.com/news/2016/11/turkey-threatens-eu-refugee-surge-161125123835003.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/2016/11/turkey-threatens-eu-refugee-surge-161125123835003.html)
+2. [Sky News](http://news.sky.com/story/erdogan-threatens-to-open-turkeys-border-with-europe-to-migrants-10671408)
 
 ### Related:
 

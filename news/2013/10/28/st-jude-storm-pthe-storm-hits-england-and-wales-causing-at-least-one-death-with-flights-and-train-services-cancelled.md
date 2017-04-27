@@ -7,8 +7,8 @@ So-called St. Jude storm lashes the U.K. with heavy rains and high winds; people
 
 ### Source:
 
-1. [BBC](http://worldnews.nbcnews.com/_news/2013/10/27/21196097-hurricane-force-st-jude-storm-to-hit-britain-at-rush-hour-forecasters-warn?lite)
-2. [AP via CBS News](http://www.cbsnews.com/8301-202_162-57609522/britain-being-slammed-by-one-of-worst-storms-in-years/)
+1. [AP via CBS News](http://www.cbsnews.com/8301-202_162-57609522/britain-being-slammed-by-one-of-worst-storms-in-years/)
+2. [BBC](http://worldnews.nbcnews.com/_news/2013/10/27/21196097-hurricane-force-st-jude-storm-to-hit-britain-at-rush-hour-forecasters-warn?lite)
 
 ### Related:
 

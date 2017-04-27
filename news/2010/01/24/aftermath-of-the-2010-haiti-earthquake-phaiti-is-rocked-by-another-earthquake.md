@@ -7,12 +7,12 @@ An earthquake measuring 4.7 in magnitude hit Haiti on Sunday afternoon, accordin
 
 ### Source:
 
-1. [TVNZ](http://tvnz.co.nz/world-news/aftershock-hits-haiti-3341614)
-2. [RTÉ](http://www.rte.ie/news/2010/0124/haiti.html)
-3. [France24](http://www.france24.com/en/20100122-celebrities-telethon-fundraiser-mtv-hope-for-haiti-clooney-dicaprio-bataclan-zenith)
-4. [CNN](http://edition.cnn.com/2010/SPORT/football/01/24/africa.nations.ivory.coast.ghana/)
-5. [CBC News](http://www.cbc.ca/world/story/2010/01/24/haiti-smallquake.html)
-6. [BBC](http://news.bbc.co.uk/2/hi/americas/8477770.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/8477770.stm)
+2. [CBC News](http://www.cbc.ca/world/story/2010/01/24/haiti-smallquake.html)
+3. [CNN](http://edition.cnn.com/2010/SPORT/football/01/24/africa.nations.ivory.coast.ghana/)
+4. [France24](http://www.france24.com/en/20100122-celebrities-telethon-fundraiser-mtv-hope-for-haiti-clooney-dicaprio-bataclan-zenith)
+5. [RTÉ](http://www.rte.ie/news/2010/0124/haiti.html)
+6. [TVNZ](http://tvnz.co.nz/world-news/aftershock-hits-haiti-3341614)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Zim Observer](http://www.zimobserver.com/newsdetail.asp?article_id=1009)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4284689.stm)
 2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=topNews&storyID=2005-02-21T133223Z_01_CHA146479_RTRUKOC_0_ZIMBABWE-EU.xml)
-3. [BBC](http://news.bbc.co.uk/2/hi/africa/4284689.stm)
+3. [Zim Observer](http://www.zimobserver.com/newsdetail.asp?article_id=1009)
 
 ### Related:
 

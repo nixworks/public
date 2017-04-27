@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [IRIN](http://www.irinnews.org/report.asp?ReportID=53330&SelectRegion=West_Africa&SelectCountry=CHAD-SUDAN)
-2. [CNN](http://www.cnn.com/2006/WORLD/africa/05/12/ChadRebels.reut/index.html?section=cnn_latest)
+1. [CNN](http://www.cnn.com/2006/WORLD/africa/05/12/ChadRebels.reut/index.html?section=cnn_latest)
+2. [IRIN](http://www.irinnews.org/report.asp?ReportID=53330&SelectRegion=West_Africa&SelectCountry=CHAD-SUDAN)
 
 ### Related:
 

@@ -9,14 +9,14 @@ Heavy gunfire reported in the southern Syrian city of Daraa as anti-government p
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hh8V8FxqXOfgJlTK72FmQH7jS19Q?docId=CNG.bd4326a710cbe97b7421d5ca4ebf2793.211)
 2. [Al Jazeera](http://blogs.aljazeera.net/live/middle-east/syria-live-blog-march-25)
-3. [CNN](http://edition.cnn.com/2011/WORLD/meast/03/25/yemen.unrest/)
+3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/2011325111849716101.html)
 4. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/201132517059876641.html)
 5. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/internacional/2011/2/12/Syrians-mass-for-demos-reporters-banned-from-city,4656698f-3997-4975-8fc3-ff1bf7cf9f51.html)
-6. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/2011325111849716101.html)
-7. [Wall Street Journal](http://online.wsj.com/article/SB10001424052748703696704576222613775328014.html?mod=googlenews_wsj)
-8. [BBC](http://www.bbc.co.uk/news/world-middle-east-12858972)
+6. [BBC](http://www.bbc.co.uk/news/world-middle-east-12857360)
+7. [BBC](http://www.bbc.co.uk/news/world-middle-east-12858972)
+8. [CNN](http://edition.cnn.com/2011/WORLD/meast/03/25/yemen.unrest/)
 9. [The Guardian](http://www.guardian.co.uk/world/2011/mar/25/libya-rebels-yvonne-fletcher-murder)
-10. [BBC](http://www.bbc.co.uk/news/world-middle-east-12857360)
+10. [Wall Street Journal](http://online.wsj.com/article/SB10001424052748703696704576222613775328014.html?mod=googlenews_wsj)
 
 ### Related:
 

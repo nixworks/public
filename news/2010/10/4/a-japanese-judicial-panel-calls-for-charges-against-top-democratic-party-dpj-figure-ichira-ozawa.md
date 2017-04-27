@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bangkok Post](http://www.bangkokpost.com/news/asia/199605/japan-hadow-shogun-faces-funding-scandal-case)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11464313)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11464313)
+2. [Bangkok Post](http://www.bangkokpost.com/news/asia/199605/japan-hadow-shogun-faces-funding-scandal-case)
 
 ### Related:
 

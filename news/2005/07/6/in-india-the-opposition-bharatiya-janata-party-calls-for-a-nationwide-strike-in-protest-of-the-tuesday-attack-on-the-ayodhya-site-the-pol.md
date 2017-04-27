@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4654593.stm)
-2. [Newindpress](http://www.newindpress.com/NewsItems.asp?ID=IEH20050705082751&Page=H&Title=Top+Stories&Topic=-401)
-3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=aF8QHNF5Wmx8&refer=asia)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=aF8QHNF5Wmx8&refer=asia)
+3. [Newindpress](http://www.newindpress.com/NewsItems.asp?ID=IEH20050705082751&Page=H&Title=Top+Stories&Topic=-401)
 4. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/DEL253882.htm)
 
 ### Related:

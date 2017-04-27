@@ -7,8 +7,8 @@ A man and a woman have been killed in a shooting in a car park outside a kinderg
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/skynews/Home/World-News/Norway-School-Shooting-Two-People-Have-Been-Shot-At-A-School-In-Norway/Article/200901415208972?lpos=World_News_Top_Stories_Header_3&lid=ARTICLE_15208972_Norway_School_Shooting%3A_Two_People_Have_Been_Shot_At_A_School_In_Norway)
-2. [RTE News](http://www.rte.ie/news/2009/0123/norway.html)
+1. [RTE News](http://www.rte.ie/news/2009/0123/norway.html)
+2. [Sky News](http://news.sky.com/skynews/Home/World-News/Norway-School-Shooting-Two-People-Have-Been-Shot-At-A-School-In-Norway/Article/200901415208972?lpos=World_News_Top_Stories_Header_3&lid=ARTICLE_15208972_Norway_School_Shooting%3A_Two_People_Have_Been_Shot_At_A_School_In_Norway)
 
 ### Related:
 

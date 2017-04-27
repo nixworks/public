@@ -7,8 +7,8 @@ France confirms an Algerian jihadist group linked to IS has beheaded 55-year-old
 
 ### Source:
 
-1. [The New York Times](http://mobile.nytimes.com/2014/09/25/world/middleeast/iraq-militants-destroy-historic-church.html?_r=0&referrer=)
-2. [BBC](http://www.bbc.com/news/world-africa-29352537)
+1. [BBC](http://www.bbc.com/news/world-africa-29352537)
+2. [The New York Times](http://mobile.nytimes.com/2014/09/25/world/middleeast/iraq-militants-destroy-historic-church.html?_r=0&referrer=)
 
 ### Related:
 

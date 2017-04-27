@@ -7,9 +7,9 @@ European Court of Human Rights rules that German citizen was an innocent victim 
 
 ### Source:
 
-1. [ECHR](http://hudoc.echr.coe.int/sites/fra-press/pages/search.aspx?i=003-4196815-4975517)
-2. [The Guardian](http://www.guardian.co.uk/law/2012/dec/13/cia-tortured-sodomised-terror-suspect)
-3. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/12/20121213144859463814.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/12/20121213144859463814.html)
+2. [ECHR](http://hudoc.echr.coe.int/sites/fra-press/pages/search.aspx?i=003-4196815-4975517)
+3. [The Guardian](http://www.guardian.co.uk/law/2012/dec/13/cia-tortured-sodomised-terror-suspect)
 
 ### Related:
 

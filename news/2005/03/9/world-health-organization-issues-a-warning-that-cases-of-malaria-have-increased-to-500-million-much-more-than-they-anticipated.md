@@ -7,9 +7,9 @@ Keep your mind and body sharp with the latest health and fitness news and inform
 
 ### Source:
 
-1. [Scientific American](http://www.sciam.com/article.cfm?chanID=sa003&articleID=0000834E-6EF7-122F-AEF783414B7F0000)
+1. [BBC](http://news.bbc.co.uk/1/hi/health/4332921.stm)
 2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=healthNews&storyID=7854731)
-3. [BBC](http://news.bbc.co.uk/1/hi/health/4332921.stm)
+3. [Scientific American](http://www.sciam.com/article.cfm?chanID=sa003&articleID=0000834E-6EF7-122F-AEF783414B7F0000)
 
 ### Related:
 

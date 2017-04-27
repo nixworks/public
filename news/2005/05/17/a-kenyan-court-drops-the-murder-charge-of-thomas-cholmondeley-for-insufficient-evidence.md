@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp;:4289bf40:191553b023eba253?type=topNews&localeKey=en_ZA&storyID=8514322)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4554183.stm)
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=87&art_id=qw1116323640815B253)
-3. [BBC](http://news.bbc.co.uk/2/hi/africa/4554183.stm)
+3. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp;:4289bf40:191553b023eba253?type=topNews&localeKey=en_ZA&storyID=8514322)
 
 ### Related:
 

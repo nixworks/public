@@ -7,10 +7,10 @@ Indonesian president Susilo Bambang Yudhoyono arrives in Australia for talks on 
 
 ### Source:
 
-1. [The Age](http://www.theage.com.au/opinion/editorial/sby-visit-shows-need-for-closer-partnership-20100308-psm7.html)
-2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/yudhoyono-to-begin-threeday-visit-20100309-pt15.html)
+1. [ABC News](http://www.abc.net.au/news/stories/2010/03/09/2840124.htm?section=justin)
+2. [The Age](http://www.theage.com.au/opinion/editorial/sby-visit-shows-need-for-closer-partnership-20100308-psm7.html)
 3. [The Australian](http://www.theaustralian.com.au/news/world/we-should-do-more-for-indonesia/story-e6frg6ux-1225837936178)
-4. [ABC News](http://www.abc.net.au/news/stories/2010/03/09/2840124.htm?section=justin)
+4. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/yudhoyono-to-begin-threeday-visit-20100309-pt15.html)
 
 ### Related:
 

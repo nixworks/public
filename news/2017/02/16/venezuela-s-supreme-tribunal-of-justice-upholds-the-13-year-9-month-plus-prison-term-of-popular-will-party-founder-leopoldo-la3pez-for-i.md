@@ -7,8 +7,8 @@ President Donald Trump on Wednesday called on Venezuela to release opposition le
 
 ### Source:
 
-1. [Latin American Herald Tribune](http://laht.com/article.asp?CategoryId=10717&ArticleId=2431305)
-2. [Heavy.com](http://heavy.com/news/2017/02/leopoldo-lopez-donald-trump-venezuela-who-is-bio-wife-lilian-tintori-twitter-release-political-prisoner-marco-rubio/)
+1. [Heavy.com](http://heavy.com/news/2017/02/leopoldo-lopez-donald-trump-venezuela-who-is-bio-wife-lilian-tintori-twitter-release-political-prisoner-marco-rubio/)
+2. [Latin American Herald Tribune](http://laht.com/article.asp?CategoryId=10717&ArticleId=2431305)
 3. [Reuters](http://mobile.reuters.com/article/idUSKBN15V01F)
 
 ### Related:

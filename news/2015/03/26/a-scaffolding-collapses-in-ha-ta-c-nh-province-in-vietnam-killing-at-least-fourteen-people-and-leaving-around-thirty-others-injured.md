@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/03/26/vietnam-accident-idUSL3N0WS03R20150326)
-2. [AP](http://bigstory.ap.org/article/775ed273bceb40cabfd2f53a314b19c4/14-killed-scaffolding-collapse-central-vietnam)
+1. [AP](http://bigstory.ap.org/article/775ed273bceb40cabfd2f53a314b19c4/14-killed-scaffolding-collapse-central-vietnam)
+2. [Reuters](http://www.reuters.com/article/2015/03/26/vietnam-accident-idUSL3N0WS03R20150326)
 
 ### Related:
 

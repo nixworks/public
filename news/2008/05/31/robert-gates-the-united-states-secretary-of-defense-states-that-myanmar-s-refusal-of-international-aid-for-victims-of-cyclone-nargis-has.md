@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [VOA](http://www.voanews.com/english/2008-05-31-voa1.cfm)
-2. [AP via Google News](http://ap.google.com/article/ALeqM5hgz0bXAym7a1ffyOuvyA-IKvnLIgD910ALNO0)
+1. [AP via Google News](http://ap.google.com/article/ALeqM5hgz0bXAym7a1ffyOuvyA-IKvnLIgD910ALNO0)
+2. [VOA](http://www.voanews.com/english/2008-05-31-voa1.cfm)
 
 ### Related:
 

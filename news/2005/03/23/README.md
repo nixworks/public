@@ -28,7 +28,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: Scottish Episcopal Church_
 
 ### [ In the Central African Republic, the spokesman of Andr Kolingba, former military ruler, says that yesterday's shootout outside his house was an assassination attempt. Kolingba has called for an annulment of the results of the presidential elections. ](/news/2005/03/23/in-the-central-african-republic-the-spokesman-of-andre-kolingba-former-military-ruler-says-that-yesterday-s-shootout-outside-his-house-w.md)
-_Context: André Kolingba, Central African Republic_
+_Context: André Kolingba, Central-African_
 
 ### [ In Cambodia, 16 prisoners die during a jailbreak in the province of Kampong Cham; 30 others escape. ](/news/2005/03/23/in-cambodia-16-prisoners-die-during-a-jailbreak-in-the-province-of-kampong-cham-30-others-escape.md)
 _Context: Cambodia, Kampong Cham_

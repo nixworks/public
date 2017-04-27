@@ -7,10 +7,10 @@ The incident took place at the 500-year-old Devi Temple at Puttingal of Paravur 
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/city/thiruvananthapuram/Massive-fire-kills-over-60-at-Puttingal-temple-in-Kerala/articleshow/51761625.cms?)
+1. [BBC](http://www.bbc.com/news/world-asia-india-36008741)
 2. [Indian Express](http://indianexpress.com/article/india/india-news-india/kerala-kollam-temple-fire-live-updates/)
-3. [inquisitr](http://www.inquisitr.com/2979505/puttingal-temple-fire-kerala/)
-4. [BBC](http://www.bbc.com/news/world-asia-india-36008741)
+3. [Times of India](http://timesofindia.indiatimes.com/city/thiruvananthapuram/Massive-fire-kills-over-60-at-Puttingal-temple-in-Kerala/articleshow/51761625.cms?)
+4. [inquisitr](http://www.inquisitr.com/2979505/puttingal-temple-fire-kerala/)
 
 ### Related:
 

@@ -7,11 +7,11 @@ Libyan leader Moammar Gadhafi vowed Tuesday that &quot;we will not surrender,&qu
 
 ### Source:
 
-1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE7560FB20110607?sp=true)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/06/20116716385680354.html)
 2. [CNN](http://www.cnn.com/2011/WORLD/africa/06/07/libya.war/index.html)
-3. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=224090)
-4. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/06/20116716385680354.html)
-5. [The Daily Mail](http://www.dailymail.co.uk/news/article-2000261/Libya-Tripoli-blasted-successive-Nato-attacks-rare-daytime-strikes.html)
+3. [Reuters](http://af.reuters.com/article/topNews/idAFJOE7560FB20110607?sp=true)
+4. [The Daily Mail](http://www.dailymail.co.uk/news/article-2000261/Libya-Tripoli-blasted-successive-Nato-attacks-rare-daytime-strikes.html)
+5. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=224090)
 
 ### Related:
 

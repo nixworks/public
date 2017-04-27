@@ -7,8 +7,8 @@ AN AGREED all-party motion of censure against former minister Michael Lowry will
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2011/0331/1224293433992.html)
-2. [The Irish Times](http://www.irishtimes.com/newspaper/frontpage/2011/0331/1224293434460.html)
+1. [The Irish Times](http://www.irishtimes.com/newspaper/frontpage/2011/0331/1224293434460.html)
+2. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2011/0331/1224293433992.html)
 
 ### Related:
 

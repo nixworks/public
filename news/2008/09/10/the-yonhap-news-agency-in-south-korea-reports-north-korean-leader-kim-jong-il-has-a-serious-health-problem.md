@@ -8,9 +8,9 @@ North Korean leader Kim Jong Il is reported to be in failing health. North Korea
 ### Source:
 
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5j2zReXndGtxbEQ9gsY3SWxImKHHw)
-2. [Reuters](http://www.reuters.com/article/topNews/idUSSEO30199920080910)
+2. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7607513.stm)
 3. [NPR](http://www.npr.org/templates/story/story.php?storyId=94449410)
-4. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7607513.stm)
+4. [Reuters](http://www.reuters.com/article/topNews/idUSSEO30199920080910)
 
 ### Related:
 

@@ -7,9 +7,9 @@ In the wake of questions of accuracy, a survey by the science journal Nature fin
 
 ### Source:
 
-1. [NPR](http://www.npr.org/templates/story/story.php?storyId=5055388)
-2. [Nature](http://www.nature.com/news/2005/051212/full/438900a.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/technology/4530930.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/technology/4530930.stm)
+2. [NPR](http://www.npr.org/templates/story/story.php?storyId=5055388)
+3. [Nature](http://www.nature.com/news/2005/051212/full/438900a.html)
 
 ### Related:
 

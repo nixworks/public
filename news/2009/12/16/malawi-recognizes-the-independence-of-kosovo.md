@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [New Kosova Report](http://www.newkosovareport.com/200912162137/Politics/Malawi-recognizes-Kosovo-independence.html)
-2. [Kosovo Foreign ministry](http://www.ks-gov.net/MPJ/?page=1,4,404)
+1. [Kosovo Foreign ministry](http://www.ks-gov.net/MPJ/?page=1,4,404)
+2. [New Kosova Report](http://www.newkosovareport.com/200912162137/Politics/Malawi-recognizes-Kosovo-independence.html)
 
 ### Related:
 

@@ -7,10 +7,10 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Chicago SunTimes](http://www.suntimes.com/output/terror/cst-nws-cell20.html)
-2. [Guardian](http://www.guardian.co.uk/september11/story/0,11209,1552975,00.html)
-3. [Reuters](http://today.reuters.com/business/newsarticle.aspx?type=tnBusinessNews&storyID=nL19618150)
-4. [CBC](http://www.cbc.ca/world/story/2005/08/19/Moroccan_convicted050819.html)
+1. [CBC](http://www.cbc.ca/world/story/2005/08/19/Moroccan_convicted050819.html)
+2. [Chicago SunTimes](http://www.suntimes.com/output/terror/cst-nws-cell20.html)
+3. [Guardian](http://www.guardian.co.uk/september11/story/0,11209,1552975,00.html)
+4. [Reuters](http://today.reuters.com/business/newsarticle.aspx?type=tnBusinessNews&storyID=nL19618150)
 
 ### Related:
 

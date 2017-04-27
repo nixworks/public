@@ -7,8 +7,8 @@ Police in New Zealand name nine people, including four foreigners, who died when
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11186173)
-2. [ABC News Online](http://www.abc.net.au/news/stories/2010/09/04/3002625.htm)
+1. [ABC News Online](http://www.abc.net.au/news/stories/2010/09/04/3002625.htm)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11186173)
 
 ### Related:
 

@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/8132823.stm)
-2. [Reuters](http://uk.reuters.com/article/idUKL345766620090703?sp=true)
-3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601116&sid=a3Ug7flkzUM8)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601116&sid=a3Ug7flkzUM8)
+3. [Reuters](http://uk.reuters.com/article/idUKL345766620090703?sp=true)
 
 ### Related:
 

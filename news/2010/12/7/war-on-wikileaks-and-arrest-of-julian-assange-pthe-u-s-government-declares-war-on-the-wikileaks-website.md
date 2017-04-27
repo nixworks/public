@@ -7,14 +7,14 @@ The U.S. and Other Governments Are Attempting to Bring Down WikiLeaks and Its Fo
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/uk-11937110)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/2010127151439124591.html)
-3. [The Guardian](http://www.guardian.co.uk/media/2010/dec/07/wikileaks-cables-julian-assange-arrest?intcmp=239)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/2010127151439124591.html)
+2. [BBC](http://www.bbc.co.uk/news/uk-11937110)
+3. [CBS News](http://www.cbsnews.com/8301-503543_162-20024811-503543.html)
 4. [Reuters](http://www.reuters.com/article/idUSTRE6B669H20101207)
-5. [CBS News](http://www.cbsnews.com/8301-503543_162-20024811-503543.html)
-6. [The Guardian](http://www.guardian.co.uk/world/2010/dec/07/wikileaks-joe-lieberman-new-york-times-investigated?intcmp=239)
-7. [The Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_611610.html)
-8. [The Guardian](http://www.guardian.co.uk/media/2010/dec/07/assange-bail-request-refused-wikileaks?intcmp=239)
+5. [The Guardian](http://www.guardian.co.uk/media/2010/dec/07/assange-bail-request-refused-wikileaks?intcmp=239)
+6. [The Guardian](http://www.guardian.co.uk/media/2010/dec/07/wikileaks-cables-julian-assange-arrest?intcmp=239)
+7. [The Guardian](http://www.guardian.co.uk/world/2010/dec/07/wikileaks-joe-lieberman-new-york-times-investigated?intcmp=239)
+8. [The Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_611610.html)
 
 ### Related:
 

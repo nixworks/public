@@ -7,8 +7,8 @@ One of more than 1000 aftershocks has cut off a key route into earthquake-strick
 
 ### Source:
 
-1. [Radio New Zealand](http://www.radionz.co.nz/news/world/311918/rescuers-begin-pulling-out-of-italy-quake-hit-towns)
-2. [CNN](http://edition.cnn.com/2016/08/26/europe/italy-earthquake/index.html)
+1. [CNN](http://edition.cnn.com/2016/08/26/europe/italy-earthquake/index.html)
+2. [Radio New Zealand](http://www.radionz.co.nz/news/world/311918/rescuers-begin-pulling-out-of-italy-quake-hit-towns)
 
 ### Related:
 

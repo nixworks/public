@@ -7,9 +7,9 @@ Israeli and German politicians weigh in on uproar over Nobel laureate&#8217;s po
 
 ### Source:
 
-1. [The Times of Israel](http://www.timesofisrael.com/german-fm-grass-poem-is-absurd/)
+1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/interior-minister-declares-gunter-grass-persona-non-grata-in-israel-1.423239)
 2. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=265291)
-3. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/interior-minister-declares-gunter-grass-persona-non-grata-in-israel-1.423239)
+3. [The Times of Israel](http://www.timesofisrael.com/german-fm-grass-poem-is-absurd/)
 
 ### Related:
 

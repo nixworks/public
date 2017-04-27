@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/7097561.stm)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/7096883.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/7096883.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/7097561.stm)
 
 ### Related:
 

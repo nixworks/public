@@ -7,8 +7,8 @@ The Commonwealth on Saturday pledged itself towards an &quot;ambitious&quot;, le
 
 ### Source:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/commonwealth-wants-ambitious-legally-binding-cop21-result-193050489.html;_ylt=AwrC1DESAlpWJzUAuXnQtDMD;_ylu=X3oDMTByOHZyb21tBGNvbG8DYmYxBHBvcwMxBHZ0aWQDBHNlYwNzcg--)
-2. [AFP via Yahoo! News](http://news.yahoo.com/britain-host-next-commonwealth-summit-2018-194149814.html;_ylt=AwrC1CoqDlpWxQUA0cvQtDMD;_ylu=X3oDMTByOHZyb21tBGNvbG8DYmYxBHBvcwMxBHZ0aWQDBHNlYwNzcg--)
+1. [AFP via Yahoo! News](http://news.yahoo.com/britain-host-next-commonwealth-summit-2018-194149814.html;_ylt=AwrC1CoqDlpWxQUA0cvQtDMD;_ylu=X3oDMTByOHZyb21tBGNvbG8DYmYxBHBvcwMxBHZ0aWQDBHNlYwNzcg--)
+2. [AFP via Yahoo! News](http://news.yahoo.com/commonwealth-wants-ambitious-legally-binding-cop21-result-193050489.html;_ylt=AwrC1DESAlpWJzUAuXnQtDMD;_ylu=X3oDMTByOHZyb21tBGNvbG8DYmYxBHBvcwMxBHZ0aWQDBHNlYwNzcg--)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Prosecutors on Wednesday dropped all charges against three Baltimore police offi
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/news/us-news/prosecutors-drop-remaining-charges-against-officers-freddie-gray-case-n617811)
-2. [Baltimore Sun](http://www.baltimoresun.com/news/maryland/freddie-gray/bs-md-ci-miller-pretrial-motions-20160727-story.html)
+1. [Baltimore Sun](http://www.baltimoresun.com/news/maryland/freddie-gray/bs-md-ci-miller-pretrial-motions-20160727-story.html)
+2. [NBC News](http://www.nbcnews.com/news/us-news/prosecutors-drop-remaining-charges-against-officers-freddie-gray-case-n617811)
 
 ### Related:
 

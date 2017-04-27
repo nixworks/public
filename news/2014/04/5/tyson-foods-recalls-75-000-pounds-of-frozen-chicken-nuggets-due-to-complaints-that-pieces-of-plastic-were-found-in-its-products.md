@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USDA](http://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/recall-case-archive/archive/2014/recall-021-2014-release)
-2. [KTVU](http://www.ktvu.com/news/news/local/tyson-foods-recalls-chicken-nuggets/nfSb2/)
+1. [KTVU](http://www.ktvu.com/news/news/local/tyson-foods-recalls-chicken-nuggets/nfSb2/)
+2. [USDA](http://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/recall-case-archive/archive/2014/recall-021-2014-release)
 
 ### Related:
 

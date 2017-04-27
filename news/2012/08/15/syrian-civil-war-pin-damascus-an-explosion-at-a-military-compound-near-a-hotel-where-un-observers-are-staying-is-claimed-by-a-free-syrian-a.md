@@ -7,11 +7,11 @@ Spokesperson of Free Syrian Army unit that planned Damascus bombings tells Al Ja
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/08/15/us-syria-crisis-idUSBRE8610SH20120815)
-2. [UNHCR](http://www.ohchr.org/Documents/HRBodies/HRCouncil/PRCoISyria15082012_en.pdf)
-3. [Al-Jazeera](http://www.aljazeera.com/news/middleeast/2012/08/20128156451195915.html)
-4. [Daily Star Lebanon](http://www.dailystar.com.lb/News/Local-News/2012/Aug-15/184782-saudi-arabia-calls-on-all-its-citizens-to-leave-lebanon-immediately.ashx#axzz23eJPmhNh)
-5. [CNN](http://edition.cnn.com/2012/08/15/world/meast/syria-unrest/index.html?hpt=hp_t1)
+1. [Al-Jazeera](http://www.aljazeera.com/news/middleeast/2012/08/20128156451195915.html)
+2. [CNN](http://edition.cnn.com/2012/08/15/world/meast/syria-unrest/index.html?hpt=hp_t1)
+3. [Daily Star Lebanon](http://www.dailystar.com.lb/News/Local-News/2012/Aug-15/184782-saudi-arabia-calls-on-all-its-citizens-to-leave-lebanon-immediately.ashx#axzz23eJPmhNh)
+4. [Reuters](http://www.reuters.com/article/2012/08/15/us-syria-crisis-idUSBRE8610SH20120815)
+5. [UNHCR](http://www.ohchr.org/Documents/HRBodies/HRCouncil/PRCoISyria15082012_en.pdf)
 
 ### Related:
 

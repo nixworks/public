@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Haaretz](http://news.haaretz.co.il/hasen/spages/647757.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4455356.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4455356.stm)
+2. [Haaretz](http://news.haaretz.co.il/hasen/spages/647757.html)
 
 ### Related:
 
@@ -21,4 +21,4 @@
 7. [ Former Prime Minister of Israel, Binyamin Netanyahu, has declared his intention to challenge Ariel Sharon for leadership of the Likud party. ](/news/2005/08/30/former-prime-minister-of-israel-binyamin-netanyahu-has-declared-his-intention-to-challenge-ariel-sharon-for-leadership-of-the-likud-party.md) _Context: Ariel Sharon, Likud, Prime Minister of Israel_
 8. [ Omri Sharon, son of the Prime Minister of Israel, Ariel Sharon, has been formally indicted on charges of corruption following allegations concerning Ariel Sharon's bid to become leader of the Likud party in 1999. ](/news/2005/08/28/omri-sharon-son-of-the-prime-minister-of-israel-ariel-sharon-has-been-formally-indicted-on-charges-of-corruption-following-allegations-c.md) _Context: Ariel Sharon, Likud, Prime Minister of Israel_
 9. [Israeli Prime Minister Ariel Sharon ends the Likud-led coalition after he fires ministers from the secular Shinui party, which voted to defeat the annual budget over subsidies to religious parties. ](/news/2004/12/1/israeli-prime-minister-ariel-sharon-ends-the-likud-led-coalition-after-he-fires-ministers-from-the-secular-shinui-party-which-voted-to-defe.md) _Context: Ariel Sharon, Likud, Prime Minister of Israel_
-10. [Prime Minister of Israel Benjamin Netanyahu cancels a visit with the foreign minister of Germany Sigmar Gabriel after the latter's refusal to cancel a meeting with the Israel Defense Forces veterans NGO Breaking the Silence. ](/news/2017/04/25/prime-minister-of-israel-benjamin-netanyahu-cancels-a-visit-with-the-foreign-minister-of-germany-sigmar-gabriel-after-the-latter-s-refusal-t.md) _Context: Benjamin Netanyahu, Prime Minister of Israel_
+10. [Prime Minister of Israel Benjamin Netanyahu cancels a visit with the foreign minister of Germany Sigmar Gabriel after the latter's refusal to cancel a meeting with the Israel Defense Forces veterans NGO Breaking the Silence saying the group "slanders IDF soldiers as war criminals"](/news/2017/04/25/prime-minister-of-israel-benjamin-netanyahu-cancels-a-visit-with-the-foreign-minister-of-germany-sigmar-gabriel-after-the-latter-s-refusal-t.md) _Context: Benjamin Netanyahu, Prime Minister of Israel_

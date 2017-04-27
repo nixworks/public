@@ -7,8 +7,8 @@ American correspondent Marie Colvin and French photographer Remi Ochlik were kil
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/02/22/us-syria-journalists-idUSTRE81L0FU20120222)
-2. [Al Arabiya](http://english.alarabiya.net/articles/2012/02/22/196325.html)
+1. [Al Arabiya](http://english.alarabiya.net/articles/2012/02/22/196325.html)
+2. [Reuters](http://www.reuters.com/article/2012/02/22/us-syria-journalists-idUSTRE81L0FU20120222)
 
 ### Related:
 

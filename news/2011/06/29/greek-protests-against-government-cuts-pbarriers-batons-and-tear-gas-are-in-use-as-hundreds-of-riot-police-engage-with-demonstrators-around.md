@@ -7,8 +7,8 @@ Greek MPs vote in favour of unpopular austerity measures aimed at saving the cou
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/blog/2011/jun/29/greece-austerity-vote-demonstrations?intcmp=239#block-35)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-13960947)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-13960947)
+2. [The Guardian](http://www.guardian.co.uk/world/blog/2011/jun/29/greece-austerity-vote-demonstrations?intcmp=239#block-35)
 3. [The Guardian](http://www.guardian.co.uk/world/gallery/2011/jun/29/athens-riots-greek-general-strike-in-pictures)
 
 ### Related:

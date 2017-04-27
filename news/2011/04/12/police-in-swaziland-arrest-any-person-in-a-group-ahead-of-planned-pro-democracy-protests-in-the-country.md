@@ -7,8 +7,8 @@ Thirteen activists have been arrested on their way to Swaziland’s main city Ma
 
 ### Source:
 
-1. [News24 South Africa](http://www.news24.com/Africa/News/13-Swazi-activists-held-ahead-of-protest-20110412)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-13046740)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-13046740)
+2. [News24 South Africa](http://www.news24.com/Africa/News/13-Swazi-activists-held-ahead-of-protest-20110412)
 
 ### Related:
 

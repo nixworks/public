@@ -7,8 +7,8 @@ Canada Border Services Agency has confirmed an 18-year-old Toronto student has b
 
 ### Source:
 
-1. [The Montreal Gazette](http://www.montrealgazette.com/news/Toronto+student+deported+Mexico/4050103/story.html)
-2. [Globe and Mail](http://www.theglobeandmail.com/news/national/toronto/toronto-teen-deported-to-mexico-cbsa-confirms/article1855577/)
+1. [Globe and Mail](http://www.theglobeandmail.com/news/national/toronto/toronto-teen-deported-to-mexico-cbsa-confirms/article1855577/)
+2. [The Montreal Gazette](http://www.montrealgazette.com/news/Toronto+student+deported+Mexico/4050103/story.html)
 
 ### Related:
 

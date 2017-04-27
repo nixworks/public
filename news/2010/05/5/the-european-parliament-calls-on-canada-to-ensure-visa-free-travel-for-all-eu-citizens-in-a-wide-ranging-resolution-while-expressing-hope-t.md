@@ -7,9 +7,9 @@ Press releases and news articles on the work of the European Parliament
 
 ### Source:
 
-1. [Isria](http://www.isria.com/pages/5_May_2010_264.php)
-2. [MSNBC](http://www.msnbc.msn.com/id/20823590/)
-3. [Europarl](http://www.europarl.europa.eu/news/expert/infopress_page/030-74110-125-05-19-903-20100504IPR74108-05-05-2010-2010-false/default_en.htm)
+1. [Europarl](http://www.europarl.europa.eu/news/expert/infopress_page/030-74110-125-05-19-903-20100504IPR74108-05-05-2010-2010-false/default_en.htm)
+2. [Isria](http://www.isria.com/pages/5_May_2010_264.php)
+3. [MSNBC](http://www.msnbc.msn.com/id/20823590/)
 
 ### Related:
 

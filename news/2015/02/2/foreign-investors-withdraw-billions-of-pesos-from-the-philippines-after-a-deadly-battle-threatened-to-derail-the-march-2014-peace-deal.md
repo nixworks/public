@@ -7,8 +7,8 @@ COTABATO, Philippines (AFP) - A bloodbath in the southern Philippines has placed
 
 ### Source:
 
-1. [The Straits Times](http://www.straitstimes.com/news/asia/south-east-asia/story/philippines-carnage-scaring-away-investors-business-group-20150202)
-2. [Agence France Presse via Yahoo! News](https://ph.news.yahoo.com/philippines-carnage-scaring-away-investors-business-group-040202711--finance.html)
+1. [Agence France Presse via Yahoo! News](https://ph.news.yahoo.com/philippines-carnage-scaring-away-investors-business-group-040202711--finance.html)
+2. [The Straits Times](http://www.straitstimes.com/news/asia/south-east-asia/story/philippines-carnage-scaring-away-investors-business-group-20150202)
 
 ### Related:
 

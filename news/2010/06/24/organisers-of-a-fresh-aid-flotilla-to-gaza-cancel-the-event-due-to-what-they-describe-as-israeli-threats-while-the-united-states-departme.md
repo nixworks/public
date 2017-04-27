@@ -7,8 +7,8 @@ Iran flotilla organizers note Israel sees vessels from Iran, Lebanon as &#39;sig
 
 ### Source:
 
-1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3910416,00.html)
-2. [Haaretz](http://www.haaretz.com/news/international/iranian-aid-flotilla-cancelled-won-t-sail-to-gaza-1.298165)
+1. [Haaretz](http://www.haaretz.com/news/international/iranian-aid-flotilla-cancelled-won-t-sail-to-gaza-1.298165)
+2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3910416,00.html)
 
 ### Related:
 

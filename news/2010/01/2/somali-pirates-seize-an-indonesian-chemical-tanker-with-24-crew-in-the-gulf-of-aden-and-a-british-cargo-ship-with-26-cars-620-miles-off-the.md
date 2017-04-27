@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [RTT News](http://www.rttnews.com/ArticleView.aspx?Id=1169169&SMap=1)
-2. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Somali-pirates-hijack-India-bound-chemical-tanker/articleshow/5404159.cms)
-3. [BBC](http://news.bbc.co.uk/2/hi/africa/8437581.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/8437581.stm)
+2. [RTT News](http://www.rttnews.com/ArticleView.aspx?Id=1169169&SMap=1)
+3. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Somali-pirates-hijack-India-bound-chemical-tanker/articleshow/5404159.cms)
 
 ### Related:
 

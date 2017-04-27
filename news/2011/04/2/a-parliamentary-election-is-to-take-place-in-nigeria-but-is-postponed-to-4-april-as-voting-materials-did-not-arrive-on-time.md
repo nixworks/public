@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Pana Press](http://www.panapress.com/Nigeria-2011--Nigeria-votes--15-766859-30-lang2-index.html)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iOUt5VfA0H8PArf9rSt4Gsxz7HCA?docId=CNG.4108f2c88cec9676e4c2e8f803029cac.181)
-3. [CNN](http://edition.cnn.com/2011/WORLD/africa/04/02/nigeria.election/)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iOUt5VfA0H8PArf9rSt4Gsxz7HCA?docId=CNG.4108f2c88cec9676e4c2e8f803029cac.181)
+2. [CNN](http://edition.cnn.com/2011/WORLD/africa/04/02/nigeria.election/)
+3. [Pana Press](http://www.panapress.com/Nigeria-2011--Nigeria-votes--15-766859-30-lang2-index.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ A man is arrested in the Swedish city of Malmo over a series of gun attacks over
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/europe/11/07/sweden.shootings.suspect/index.html?hpt=T1)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-11706369)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-11706369)
+2. [CNN](http://edition.cnn.com/2010/WORLD/europe/11/07/sweden.shootings.suspect/index.html?hpt=T1)
 
 ### Related:
 

@@ -7,9 +7,9 @@ An Israeli military court convicts two Israeli soldiers for using a Palestinian 
 
 ### Source:
 
-1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/idf-soldiers-convicted-of-using-11-year-old-as-human-shield-in-gaza-1.316867)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jOA8PZfX5Yu7dFgFfT5Rdq3JqaWg?docId=CNG.23111bf2d9c2a75f1ce1e14c0bcb1919.861)
-3. [BBC](http://www.bbc.co.uk/news/world-middle-east-11462635)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jOA8PZfX5Yu7dFgFfT5Rdq3JqaWg?docId=CNG.23111bf2d9c2a75f1ce1e14c0bcb1919.861)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11462635)
+3. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/idf-soldiers-convicted-of-using-11-year-old-as-human-shield-in-gaza-1.316867)
 
 ### Related:
 

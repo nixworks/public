@@ -7,8 +7,8 @@ Voters have the final say on Sunday on a reform of the occupational pension sche
 
 ### Source:
 
-1. [Swissinfo](http://www.swissinfo.ch/eng/politics/internal_affairs/Pensions_and_animal_rights_top_ballot_sheets.html?cid=8399444)
-2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5326260,00.html)
+1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5326260,00.html)
+2. [Swissinfo](http://www.swissinfo.ch/eng/politics/internal_affairs/Pensions_and_animal_rights_top_ballot_sheets.html?cid=8399444)
 
 ### Related:
 

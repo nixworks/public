@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/world/20091029/156635672.html)
-2. [Xinhua](http://news.xinhuanet.com/english/2009-10/29/content_12356483.htm)
-3. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=87&art_id=nw20091029120222196C714505)
+1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=87&art_id=nw20091029120222196C714505)
+2. [RIA Novosti](http://en.rian.ru/world/20091029/156635672.html)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-10/29/content_12356483.htm)
 
 ### Related:
 

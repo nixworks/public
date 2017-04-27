@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CNN-IBN](http://ibnlive.in.com/news/pepsi-bottling-group-inc-to-cut-over-3000-jobs/78435-7.html)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=newsarchive&sid=aLOQtPdEdwOo)
 2. [CNN-IBN](http://ibnlive.in.com/news/depressing-times-hsbc-set-to-shed-500-jobs-in-asia/78415-7.html?from=search)
-3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=newsarchive&sid=aLOQtPdEdwOo)
+3. [CNN-IBN](http://ibnlive.in.com/news/pepsi-bottling-group-inc-to-cut-over-3000-jobs/78435-7.html)
 4. [Forbes](http://www.istockanalyst.com/article/viewiStockNews+articleid_2795052.html)
 
 ### Related:

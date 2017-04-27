@@ -7,8 +7,8 @@ with Brussels reporting by James Franey Riot police in Brussels on Sunday deploy
 
 ### Source:
 
-1. [Euronews](http://www.euronews.com/2016/03/27/brussels-police-use-water-cannon-against-far-right-demonstrators/)
-2. [BBC](http://www.bbc.com/news/world-europe-35907469)
+1. [BBC](http://www.bbc.com/news/world-europe-35907469)
+2. [Euronews](http://www.euronews.com/2016/03/27/brussels-police-use-water-cannon-against-far-right-demonstrators/)
 
 ### Related:
 

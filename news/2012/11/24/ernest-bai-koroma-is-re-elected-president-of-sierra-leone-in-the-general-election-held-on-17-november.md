@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2012/nov/24/sierra-leone-ernest-bai-koroma-president)
-2. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5icJi2877VmRajmIfzJtBmb7lQjIA)
+1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5icJi2877VmRajmIfzJtBmb7lQjIA)
+2. [The Guardian](http://www.guardian.co.uk/world/2012/nov/24/sierra-leone-ernest-bai-koroma-president)
 
 ### Related:
 

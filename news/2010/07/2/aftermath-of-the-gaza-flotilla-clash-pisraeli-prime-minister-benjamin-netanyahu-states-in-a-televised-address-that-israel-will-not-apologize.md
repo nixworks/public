@@ -9,8 +9,8 @@ Israeli Prime Minister Benjamin Netanyahu has ruled out any apology from his cou
 
 1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/israeli-minister-denies-promising-turkey-compensation-for-gaza-flotilla-victims-1.299634)
 2. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/netanyahu-no-apology-no-compensation-to-turkey-over-gaza-flotilla-1.299749)
-3. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/israel-wont-apologise-for-boarding-ship-20100703-zukn.html)
-4. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/0703/1224273901108.html)
+3. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/0703/1224273901108.html)
+4. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/israel-wont-apologise-for-boarding-ship-20100703-zukn.html)
 
 ### Related:
 

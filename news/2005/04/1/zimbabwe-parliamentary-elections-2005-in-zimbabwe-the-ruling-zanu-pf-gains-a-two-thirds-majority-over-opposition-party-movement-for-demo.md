@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [News24](http://www.news24.com/News24/Africa/Zimbabwe/Home/0,,2-11-1662,00.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/4399501.stm)
-3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=ay.W2xaTXYb4&refer=top_world_news)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4399501.stm)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=ay.W2xaTXYb4&refer=top_world_news)
+3. [News24](http://www.news24.com/News24/Africa/Zimbabwe/Home/0,,2-11-1662,00.html)
 
 ### Related:
 

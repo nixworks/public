@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/2011612101331904689.html)
-2. [The Guardian](http://www.guardian.co.uk/world/2011/jun/13/syrian-troops-target-villagers-turkish-border)
-3. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hnNTMRLkKccGvUa-UHnGMoXMxNHw?docId=CNG.e59fc62cfa8bb03e475fc4d96b489512.921)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hnNTMRLkKccGvUa-UHnGMoXMxNHw?docId=CNG.e59fc62cfa8bb03e475fc4d96b489512.921)
+2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/2011612101331904689.html)
+3. [The Guardian](http://www.guardian.co.uk/world/2011/jun/13/syrian-troops-target-villagers-turkish-border)
 
 ### Related:
 

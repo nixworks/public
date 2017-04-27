@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L05556775.htm)
-2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-07-05T211639Z_01_KNE576586_RTRUKOC_0_SUDAN-DARFUR-TALKS.xml)
-3. [BBC](http://news.bbc.co.uk/2/hi/africa/4654305.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4654305.stm)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L05556775.htm)
+3. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-07-05T211639Z_01_KNE576586_RTRUKOC_0_SUDAN-DARFUR-TALKS.xml)
 
 ### Related:
 

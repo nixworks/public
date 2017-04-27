@@ -7,9 +7,9 @@ A meteorite streaked across the sky and exploded over central Russia on Friday, 
 
 ### Source:
 
-1. [RT](http://rt.com/news/meteorite-crash-urals-chelyabinsk-283/)
-2. [Reuters](http://www.reuters.com/article/2013/02/15/us-russia-meteorite-idUSBRE91E05Z20130215)
-3. [BBC](http://www.bbc.co.uk/news/world-europe-21468116)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-21468116)
+2. [RT](http://rt.com/news/meteorite-crash-urals-chelyabinsk-283/)
+3. [Reuters](http://www.reuters.com/article/2013/02/15/us-russia-meteorite-idUSBRE91E05Z20130215)
 
 ### Related:
 

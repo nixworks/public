@@ -7,8 +7,8 @@ The Lennar Corporation asking for an implosion permit for Candlestick Park, but 
 
 ### Source:
 
-1. [KGO](http://abc7news.com/news/bayview-residents-oppose-candlestick-implosion/463324/)
-2. [Boston Herald](http://www.bostonherald.com/sports/red_sox_mlb/clubhouse_insider/2015/01/pedro_martinez_elected_to_hall_of_fame)
+1. [Boston Herald](http://www.bostonherald.com/sports/red_sox_mlb/clubhouse_insider/2015/01/pedro_martinez_elected_to_hall_of_fame)
+2. [KGO](http://abc7news.com/news/bayview-residents-oppose-candlestick-implosion/463324/)
 
 ### Related:
 

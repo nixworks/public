@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BD Today](http://www.bdtoday.net/english/newsdetail/detail/200/5855)
-2. [AP via ''Miami Herald](http://www.miamiherald.com/2013/05/10/3390356/bangladesh-factory-collapse-death.html)
+1. [AP via ''Miami Herald](http://www.miamiherald.com/2013/05/10/3390356/bangladesh-factory-collapse-death.html)
+2. [BD Today](http://www.bdtoday.net/english/newsdetail/detail/200/5855)
 
 ### Related:
 

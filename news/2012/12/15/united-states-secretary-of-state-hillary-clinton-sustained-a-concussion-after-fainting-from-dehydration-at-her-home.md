@@ -7,8 +7,8 @@ Secretary of State Hillary Rodham Clinton sustained a concussion after fainting 
 
 ### Source:
 
-1. [The Washington Post](http://www.washingtonpost.com/world/national-security/hillary-clinton-gets-concussion-after-fainting/2012/12/15/bf33f62c-46f1-11e2-9648-a2c323a991d6_story.html)
-2. [CNN](http://www.cnn.com/2012/12/15/us/us-hillary-clinton-concussion/index.html)
+1. [CNN](http://www.cnn.com/2012/12/15/us/us-hillary-clinton-concussion/index.html)
+2. [The Washington Post](http://www.washingtonpost.com/world/national-security/hillary-clinton-gets-concussion-after-fainting/2012/12/15/bf33f62c-46f1-11e2-9648-a2c323a991d6_story.html)
 
 ### Related:
 

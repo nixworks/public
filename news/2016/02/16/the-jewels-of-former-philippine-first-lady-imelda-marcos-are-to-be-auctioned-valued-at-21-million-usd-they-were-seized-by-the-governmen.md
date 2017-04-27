@@ -7,8 +7,8 @@ A $21m collection of jewellery that once belonged to the former first lady of th
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2016/02/16/luxury/imelda-marcos-jewelery-auction/)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-35583699)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-35583699)
+2. [CNN](http://www.cnn.com/2016/02/16/luxury/imelda-marcos-jewelery-auction/)
 
 ### Related:
 

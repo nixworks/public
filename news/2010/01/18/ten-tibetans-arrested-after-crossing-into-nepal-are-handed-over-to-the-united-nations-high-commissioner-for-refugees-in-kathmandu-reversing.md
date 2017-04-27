@@ -7,8 +7,8 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 
 ### Source:
 
-1. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1158632&lang=eng_news)
-2. [Republica](http://www.myrepublica.com/portal/index.php?action=news_details&news_id=14206)
+1. [Republica](http://www.myrepublica.com/portal/index.php?action=news_details&news_id=14206)
+2. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1158632&lang=eng_news)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Royal palace issues rare statement raising fears for the health of King Bhumibol
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-thailand-king-idUSKCN1290R8)
-2. [Al Jazeera](http://www.aljazeera.com/news/2016/10/thai-king-bhumibol-adulyadej-condition-stable-treatment-161009210509941.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/2016/10/thai-king-bhumibol-adulyadej-condition-stable-treatment-161009210509941.html)
+2. [Reuters](http://www.reuters.com/article/us-thailand-king-idUSKCN1290R8)
 
 ### Related:
 

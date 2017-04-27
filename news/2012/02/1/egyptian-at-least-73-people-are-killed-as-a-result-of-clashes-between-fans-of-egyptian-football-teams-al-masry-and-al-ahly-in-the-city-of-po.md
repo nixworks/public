@@ -7,10 +7,10 @@ At least 74 people are killed and many injured in clashes between rival football
 
 ### Source:
 
-1. [Seattle Post-Intelligencer](http://www.seattlepi.com/news/article/Egypt-soccer-fans-rush-field-after-game-74-dead-2918124.php)
-2. [ABC News Australia](http://www.abc.net.au/news/2012-02-02/dozens-dead-after-egypt-soccer-raid/3806126/?site=melbourne)
+1. [ABC News Australia](http://www.abc.net.au/news/2012-02-02/dozens-dead-after-egypt-soccer-raid/3806126/?site=melbourne)
+2. [AFP via News Limited](http://www.news.com.au/world/egypt-football-violence-kills-73-medics/story-e6frfkyi-1226260171443)
 3. [BBC](http://www.bbc.co.uk/news/world-middle-east-16845841)
-4. [AFP via News Limited](http://www.news.com.au/world/egypt-football-violence-kills-73-medics/story-e6frfkyi-1226260171443)
+4. [Seattle Post-Intelligencer](http://www.seattlepi.com/news/article/Egypt-soccer-fans-rush-field-after-game-74-dead-2918124.php)
 
 ### Related:
 

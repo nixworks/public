@@ -7,8 +7,8 @@ Actor Sir Patrick Stewart pays tribute to a former teacher as he is knighted by 
 
 ### Source:
 
-1. [The Boston Globe](http://www.boston.com/ae/movies/articles/2010/06/02/go_boldly_to_the_palace____and_arise_sir_patrick/)
-2. [BBC](http://news.bbc.co.uk/2/hi/entertainment_and_arts/10217872.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/entertainment_and_arts/10217872.stm)
+2. [The Boston Globe](http://www.boston.com/ae/movies/articles/2010/06/02/go_boldly_to_the_palace____and_arise_sir_patrick/)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/newsvideo/7798521/Patrick-Stewart-knighted.html)
 
 ### Related:

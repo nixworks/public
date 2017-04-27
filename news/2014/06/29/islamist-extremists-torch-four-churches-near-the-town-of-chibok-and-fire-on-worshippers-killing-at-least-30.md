@@ -7,8 +7,8 @@ Suspected Islamic extremists sprayed gunfire at worshippers and torched four chu
 
 ### Source:
 
-1. [Bloomberg via Business Week](http://www.businessweek.com/news/2014-06-29/boko-haram-suspected-in-church-attacks-that-kill-30-in-nigeria)
-2. [Associated Press vis CTV](http://www.ctvnews.ca/world/gunmen-in-nigeria-torch-4-churches-fire-on-worshippers-1.1891611)
+1. [Associated Press vis CTV](http://www.ctvnews.ca/world/gunmen-in-nigeria-torch-4-churches-fire-on-worshippers-1.1891611)
+2. [Bloomberg via Business Week](http://www.businessweek.com/news/2014-06-29/boko-haram-suspected-in-church-attacks-that-kill-30-in-nigeria)
 
 ### Related:
 

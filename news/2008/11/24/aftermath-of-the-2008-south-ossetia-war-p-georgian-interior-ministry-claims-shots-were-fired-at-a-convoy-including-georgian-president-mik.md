@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2008/11/23/AR2008112300789.html?hpid=sec-world)
-2. [Reuters UK](http://uk.reuters.com/article/europeCrisis/idUKROB565526)
-3. [Moscow Times](http://www.moscowtimes.ru/article/600/42/372635.htm)
-4. [CNN-IBN](http://ibnlive.in.com/news/gunshots-fired-at-georgian-polish-presidents/78858-2.html?from=rssfeed)
+1. [CNN-IBN](http://ibnlive.in.com/news/gunshots-fired-at-georgian-polish-presidents/78858-2.html?from=rssfeed)
+2. [Moscow Times](http://www.moscowtimes.ru/article/600/42/372635.htm)
+3. [Reuters UK](http://uk.reuters.com/article/europeCrisis/idUKROB565526)
+4. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2008/11/23/AR2008112300789.html?hpid=sec-world)
 
 ### Related:
 

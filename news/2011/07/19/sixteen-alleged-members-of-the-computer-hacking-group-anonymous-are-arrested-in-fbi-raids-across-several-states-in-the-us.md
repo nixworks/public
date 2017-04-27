@@ -7,8 +7,8 @@ Fourteen people have been arrested as part of an ongoing operation targeting the
 
 ### Source:
 
-1. [US Department of Justice](http://www.justice.gov/opa/pr/2011/July/11-opa-944.html)
-2. [CNN](http://www.cnn.com/2011/CRIME/07/19/new.york.anonymous.warrants/index.html)
+1. [CNN](http://www.cnn.com/2011/CRIME/07/19/new.york.anonymous.warrants/index.html)
+2. [US Department of Justice](http://www.justice.gov/opa/pr/2011/July/11-opa-944.html)
 
 ### Related:
 

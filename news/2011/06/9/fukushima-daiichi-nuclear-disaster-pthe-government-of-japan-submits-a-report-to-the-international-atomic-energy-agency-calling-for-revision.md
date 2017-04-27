@@ -8,8 +8,8 @@
 ### Source:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hN5CAoTM6uoho8Mod6VuDvwwPA7A?docId=CNG.6d7b64b15cc5338d6789f1f0d36d57e2.2c1)
-2. [Yomiuri Daichiri](http://www.yomiuri.co.jp/dy/national/T110608006170.htm)
-3. [Kyodo News](http://english.kyodonews.jp/news/2011/06/96025.html)
+2. [Kyodo News](http://english.kyodonews.jp/news/2011/06/96025.html)
+3. [Yomiuri Daichiri](http://www.yomiuri.co.jp/dy/national/T110608006170.htm)
 
 ### Related:
 

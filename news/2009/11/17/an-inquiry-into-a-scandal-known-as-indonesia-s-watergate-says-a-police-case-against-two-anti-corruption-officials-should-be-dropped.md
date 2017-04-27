@@ -8,8 +8,8 @@ Charges against two Indonesian anti-corruption officials should be dropped, a pr
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8364804.stm)
-2. [UPI](http://www.upi.com/Top_News/International/2009/11/17/Indonesia-Drop-charges-against-watchdogs/UPI-60081258490045/)
-3. [Jakarta Post](http://www.thejakartapost.com/news/2009/11/17/ago-police-refuse-comment-inquiry-report.html)
+2. [Jakarta Post](http://www.thejakartapost.com/news/2009/11/17/ago-police-refuse-comment-inquiry-report.html)
+3. [UPI](http://www.upi.com/Top_News/International/2009/11/17/Indonesia-Drop-charges-against-watchdogs/UPI-60081258490045/)
 
 ### Related:
 

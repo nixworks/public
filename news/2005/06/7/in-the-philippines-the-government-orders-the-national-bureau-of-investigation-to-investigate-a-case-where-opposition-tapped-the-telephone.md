@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Manila Bulletin](http://www.mb.com.ph/MAIN2005060736366.html)
-2. [ABS-CBN](http://www.abs-cbnnews.com/topofthehour.aspx?StoryId=7252)
-3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=amK0GFjTLz7o&refer=asia)
+1. [ABS-CBN](http://www.abs-cbnnews.com/topofthehour.aspx?StoryId=7252)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=amK0GFjTLz7o&refer=asia)
+3. [Manila Bulletin](http://www.mb.com.ph/MAIN2005060736366.html)
 
 ### Related:
 

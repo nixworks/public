@@ -7,8 +7,8 @@ The move gives the rebels access to $30 billion in frozen Libyan assets in the U
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2011/07/16/world/africa/16libya.html?_r=1&hp)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-14164517)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-14164517)
+2. [The New York Times](http://www.nytimes.com/2011/07/16/world/africa/16libya.html?_r=1&hp)
 
 ### Related:
 

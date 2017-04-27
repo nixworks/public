@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/nation/2013/05/17/conn-train-collision/2216527/)
-2. [CNN](http://www.cnn.com/2013/05/17/us/connecticut-train-derails/index.html)
+1. [CNN](http://www.cnn.com/2013/05/17/us/connecticut-train-derails/index.html)
+2. [USA Today](http://www.usatoday.com/story/news/nation/2013/05/17/conn-train-collision/2216527/)
 
 ### Related:
 

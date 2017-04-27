@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Cycling News](http://www.cyclingnews.com/liege-bastogne-liege/results)
-2. [BBC](http://www.bbc.co.uk/sport/0/cycling/22241871)
+1. [BBC](http://www.bbc.co.uk/sport/0/cycling/22241871)
+2. [Cycling News](http://www.cyclingnews.com/liege-bastogne-liege/results)
 
 ### Related:
 

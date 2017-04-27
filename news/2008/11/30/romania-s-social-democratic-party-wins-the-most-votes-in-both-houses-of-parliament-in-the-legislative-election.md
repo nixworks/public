@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [VoA](http://www.voanews.com/english/2008-11-30-voa3.cfm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601085&sid=a1lsWBpm6RiQ&refer=europe)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601085&sid=a1lsWBpm6RiQ&refer=europe)
+2. [VoA](http://www.voanews.com/english/2008-11-30-voa3.cfm)
 
 ### Related:
 

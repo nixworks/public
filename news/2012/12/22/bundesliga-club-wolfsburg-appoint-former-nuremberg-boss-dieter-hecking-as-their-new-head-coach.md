@@ -7,8 +7,8 @@ The official site of the international governing body of football with news, nat
 
 ### Source:
 
-1. [FIFA](http://www.fifa.com/worldfootball/clubfootball/news/newsid=1976628.html)
-2. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1274147)
+1. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1274147)
+2. [FIFA](http://www.fifa.com/worldfootball/clubfootball/news/newsid=1976628.html)
 
 ### Related:
 

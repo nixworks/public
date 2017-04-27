@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Financial Times](http://www.ft.com/cms/s/0/a2317d5e-72ed-11df-9161-00144feabdc0.html)
-2. [CNN](http://edition.cnn.com/2010/WORLD/europe/06/08/spain.austerity.strike/?hpt=Sbin)
+1. [CNN](http://edition.cnn.com/2010/WORLD/europe/06/08/spain.austerity.strike/?hpt=Sbin)
+2. [Financial Times](http://www.ft.com/cms/s/0/a2317d5e-72ed-11df-9161-00144feabdc0.html)
 
 ### Related:
 

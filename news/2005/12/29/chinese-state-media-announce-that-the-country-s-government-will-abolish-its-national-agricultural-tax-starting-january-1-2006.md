@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://za.today.reuters.com/news/newsArticle.aspx?type=businessNews&storyID=2005-12-29T090827Z_01_BAN933059_RTRIDST_0_OZABS-CHINA-TAX-20051229.XML)
-2. [China Daily](http://www.chinadaily.com.cn/english/doc/2005-12/29/content_507775.htm)
+1. [China Daily](http://www.chinadaily.com.cn/english/doc/2005-12/29/content_507775.htm)
+2. [Reuters](http://za.today.reuters.com/news/newsArticle.aspx?type=businessNews&storyID=2005-12-29T090827Z_01_BAN933059_RTRIDST_0_OZABS-CHINA-TAX-20051229.XML)
 
 ### Related:
 

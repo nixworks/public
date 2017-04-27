@@ -7,8 +7,8 @@ Roscommon-Leitrim South Fine Gael TD Denis Naughten has voted against the Govern
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2011/0706/roscommon.html)
-2. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/naughten-votes-against-govt-in-roscommon-hospital-dail-motion-511794.html)
+1. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/naughten-votes-against-govt-in-roscommon-hospital-dail-motion-511794.html)
+2. [RTÉ](http://www.rte.ie/news/2011/0706/roscommon.html)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0706/breaking33.html)
 
 ### Related:

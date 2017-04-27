@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [newsinenglish.no](http://www.newsinenglish.no/2015/12/20/more-avalanches-threaten-svalbard/)
-2. [AP via CBS News](http://www.cbsnews.com/news/deadly-avalanche-norway-arctic-svalbard-archipelago/)
+1. [AP via CBS News](http://www.cbsnews.com/news/deadly-avalanche-norway-arctic-svalbard-archipelago/)
+2. [newsinenglish.no](http://www.newsinenglish.no/2015/12/20/more-avalanches-threaten-svalbard/)
 
 ### Related:
 

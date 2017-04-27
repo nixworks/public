@@ -7,9 +7,9 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aea9GKQWrPjg&refer=top_world_news)
-2. [DVC, Ukraine](http://zadonbass.org/en/news/message.html?id=11435)
-3. [BBC](http://news.bbc.co.uk/2/hi/europe/4308681.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4308681.stm)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aea9GKQWrPjg&refer=top_world_news)
+3. [DVC, Ukraine](http://zadonbass.org/en/news/message.html?id=11435)
 4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7776318)
 
 ### Related:

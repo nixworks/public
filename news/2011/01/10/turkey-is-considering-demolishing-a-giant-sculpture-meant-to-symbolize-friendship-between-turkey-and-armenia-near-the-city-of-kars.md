@@ -7,8 +7,8 @@ The Turkish government is reportedly considering demolishing a giant sculpture m
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-12150661)
-2. [AsiaOne](http://news.asiaone.com/News/AsiaOne%2BNews/World/Story/A1Story20110110-257462.html)
+1. [AsiaOne](http://news.asiaone.com/News/AsiaOne%2BNews/World/Story/A1Story20110110-257462.html)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-12150661)
 3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/01/10/AR2011011001350.html)
 
 ### Related:
@@ -17,7 +17,7 @@ The Turkish government is reportedly considering demolishing a giant sculpture m
 2. [The President of Armenia accuses Turkey of "destroying" a bid to normalize relations between the two countries, who are locked in a dispute over the mass killings of Armenians by Ottoman Turks during World War I. ](/news/2011/01/17/the-president-of-armenia-accuses-turkey-of-destroying-a-bid-to-normalize-relations-between-the-two-countries-who-are-locked-in-a-dispute.md) _Context: Turkish, reconciliation_
 3. [ Armenia and Turkey normalise their relationship when their foreign ministers sign an accord in Zurich, Switzerland. ](/news/2009/10/10/armenia-and-turkey-normalise-their-relationship-when-their-foreign-ministers-sign-an-accord-in-zurich-switzerland.md) _Context: Turkish, reconciliation_
 4. [ Turkey announces it is to establish formal diplomatic relations with Armenia on October 10. ](/news/2009/09/27/turkey-announces-it-is-to-establish-formal-diplomatic-relations-with-armenia-on-october-10.md) _Context: Turkish, reconciliation_
-5. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also 5 Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-5-peshmerga-fighters-are-killed-during-a-tu.md) _Context: Turkish_
+5. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also five Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey also claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-five-peshmerga-fighters-are-killed-during-a.md) _Context: Turkish_
 6. [The European Commission, based on the  Organization for Security and Co-operation in Europe report, calls on Turkey to launch an investigation into allegations of referendum voting irregularities. ](/news/2017/04/18/the-european-commission-based-on-the-organization-for-security-and-co-operation-in-europe-report-calls-on-turkey-to-launch-an-investigati.md) _Context: Turkish_
 7. [A police Sikorsky S-70 helicopter crashes in Tunceli Province, Turkey, killing 12 people. ](/news/2017/04/18/a-police-sikorsky-s-70-helicopter-crashes-in-tunceli-province-turkey-killing-12-people.md) _Context: Turkish_
 8. [Voters in Turkey go to the polls for a referendum that seeks to replace the country's parliamentary system with an executive presidency, thereby giving President Recep Tayyip Erdogan sweeping new powers. Erdogan's AK Party has claimed victory while the opposition CHP has said that it will challenge the result. ](/news/2017/04/16/voters-in-turkey-go-to-the-polls-for-a-referendum-that-seeks-to-replace-the-country-s-parliamentary-system-with-an-executive-presidency-the.md) _Context: Turkish_

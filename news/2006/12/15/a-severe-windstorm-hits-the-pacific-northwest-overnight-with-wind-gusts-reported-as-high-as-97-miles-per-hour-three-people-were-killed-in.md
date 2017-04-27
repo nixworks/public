@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Oregonlive](http://www.oregonlive.com/newslogs/oregonian/index.ssf?/mtlogs/olive_oregonian_news/archives/2006_12.html#215831)
-2. [Bellingham Herald](http://www.bellinghamherald.com/102/story/44024.html)
+1. [Bellingham Herald](http://www.bellinghamherald.com/102/story/44024.html)
+2. [Oregonlive](http://www.oregonlive.com/newslogs/oregonian/index.ssf?/mtlogs/olive_oregonian_news/archives/2006_12.html#215831)
 
 ### Related:
 

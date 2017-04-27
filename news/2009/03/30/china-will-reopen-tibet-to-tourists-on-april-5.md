@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2009-03/30/content_11096662.htm)
-2. [Bangkok Post](http://www.bangkokpost.com/news/asia/139055/china-to-reopen-tibet-to-foreign-tourists)
+1. [Bangkok Post](http://www.bangkokpost.com/news/asia/139055/china-to-reopen-tibet-to-foreign-tourists)
+2. [Xinhua](http://news.xinhuanet.com/english/2009-03/30/content_11096662.htm)
 
 ### Related:
 

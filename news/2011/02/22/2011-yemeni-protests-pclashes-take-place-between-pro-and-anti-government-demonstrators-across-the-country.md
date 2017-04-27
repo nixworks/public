@@ -7,8 +7,8 @@ Armed supporters of Yemen&#039;s government have shot dead two students who were
 
 ### Source:
 
-1. [AFP via SBS](http://www.sbs.com.au/news/article/1489267/Yemeni-students-shot-in-demonstration)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hR07hGGKQKLlHY9UX1bhhrm2TCyg?docId=CNG.fe923605159ddf42b506b51390842eaa.231)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hR07hGGKQKLlHY9UX1bhhrm2TCyg?docId=CNG.fe923605159ddf42b506b51390842eaa.231)
+2. [AFP via SBS](http://www.sbs.com.au/news/article/1489267/Yemeni-students-shot-in-demonstration)
 
 ### Related:
 

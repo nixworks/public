@@ -7,8 +7,8 @@ Al-Shabab sends 11 truckloads of armed fighters to Mogadishu after declaring fin
 
 ### Source:
 
-1. [Press TV](http://www.presstv.ir/detail/140217.html)
-2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/08/20108279334991422.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/08/20108279334991422.html)
+2. [Press TV](http://www.presstv.ir/detail/140217.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/10/20/us-france-politics-lepen-idUSKCN0SE1XS20151020)
-2. [Al Jazeera](http://america.aljazeera.com/articles/2015/10/20/french-prosecutor-calls-to-drop-racism-charges-against-far-right-leader.html)
+1. [Al Jazeera](http://america.aljazeera.com/articles/2015/10/20/french-prosecutor-calls-to-drop-racism-charges-against-far-right-leader.html)
+2. [Reuters](http://www.reuters.com/article/2015/10/20/us-france-politics-lepen-idUSKCN0SE1XS20151020)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BadgerHerald](http://badgerherald.com/news/2005/10/14/uw_calls_nuclear_lab.php)
-2. [ABC](http://abcnews.go.com/Technology/LooseNukes/)
+1. [ABC](http://abcnews.go.com/Technology/LooseNukes/)
+2. [BadgerHerald](http://badgerherald.com/news/2005/10/14/uw_calls_nuclear_lab.php)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Joint Typhoon Warning Center](http://www.webcitation.org/5pqOKYnYc)
-2. [IndiaServer.com](http://www.india-server.com/news/andhra-cyclone-laila-10000-evacuated-10-26781.html)
+1. [IndiaServer.com](http://www.india-server.com/news/andhra-cyclone-laila-10000-evacuated-10-26781.html)
+2. [Joint Typhoon Warning Center](http://www.webcitation.org/5pqOKYnYc)
 
 ### Related:
 

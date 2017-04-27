@@ -7,9 +7,9 @@ Typhoon expected to hit coast on Sunday, as volcano spews ash over central provi
 
 ### Source:
 
-1. [Reuters via ABC News Online](http://www.abc.net.au/news/2015-05-10/typhoon-noul-makes-landfall-in-philippines-as-category-five/6458686)
+1. [Al-Jazeera](http://www.aljazeera.com/news/asia-pacific/2015/05/150509061947184.html)
 2. [Reuters via ''Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3075265/Thousands-stranded-strong-typhoon-nears-Philippines.html)
-3. [Al-Jazeera](http://www.aljazeera.com/news/asia-pacific/2015/05/150509061947184.html)
+3. [Reuters via ABC News Online](http://www.abc.net.au/news/2015-05-10/typhoon-noul-makes-landfall-in-philippines-as-category-five/6458686)
 
 ### Related:
 

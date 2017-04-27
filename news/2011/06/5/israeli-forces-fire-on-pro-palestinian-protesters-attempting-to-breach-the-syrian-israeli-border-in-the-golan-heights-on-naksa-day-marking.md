@@ -7,11 +7,11 @@ Israel was accused of shooting dead as many as 20 protesters on Sunday after Pal
 
 ### Source:
 
-1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/israel/8558216/20-dead-as-Israeli-troops-fire-on-Golan-Heights-protesters.html)
-2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4078644,00.html)
-3. [AP via Forbes](http://www.forbes.com/feeds/ap/2011/06/05/general-ml-israel-palestinians_8500914.html)
-4. [Al-Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/20116591150521659.html)
-5. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=223669)
+1. [AP via Forbes](http://www.forbes.com/feeds/ap/2011/06/05/general-ml-israel-palestinians_8500914.html)
+2. [Al-Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/20116591150521659.html)
+3. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=223669)
+4. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/israel/8558216/20-dead-as-Israeli-troops-fire-on-Golan-Heights-protesters.html)
+5. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4078644,00.html)
 
 ### Related:
 

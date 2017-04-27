@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/news/2011-11-02/alexis-jenni-wins-goncourt-france-s-top-literary-award-for-war-art-book.html)
-2. [BBC](http://www.bbc.co.uk/news/entertainment-arts-15555789)
+1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-15555789)
+2. [Bloomberg](http://www.bloomberg.com/news/2011-11-02/alexis-jenni-wins-goncourt-france-s-top-literary-award-for-war-art-book.html)
 
 ### Related:
 

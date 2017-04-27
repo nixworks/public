@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-13787681)
-2. [Al Jazeera](http://blogs.aljazeera.net/liveblog/libya-jun-16-2011-0645)
+1. [Al Jazeera](http://blogs.aljazeera.net/liveblog/libya-jun-16-2011-0645)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-13787681)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Acts of self-immolation spreads through North Africa and Middle East after suici
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12204999)
-2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/20111179413130528.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/20111179413130528.html)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12204999)
 3. [Reuters](http://af.reuters.com/article/topNews/idAFJOE70G08320110117?sp=true)
 
 ### Related:

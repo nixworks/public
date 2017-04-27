@@ -7,8 +7,8 @@ REVERE — A rare tornado roared through this seaside city with terrifying force
 
 ### Source:
 
-1. [NWS](https://nwschat.weather.gov/p.php?pid=201407282110-KBOX-NOUS41-PNSBOX)
-2. [Boston Globe](http://www.bostonglobe.com/metro/2014/07/28/severe-thunderstorm-warning-issued-boston-area/niu44DD0yg1PiTCbOsVyXL/story.html)
+1. [Boston Globe](http://www.bostonglobe.com/metro/2014/07/28/severe-thunderstorm-warning-issued-boston-area/niu44DD0yg1PiTCbOsVyXL/story.html)
+2. [NWS](https://nwschat.weather.gov/p.php?pid=201407282110-KBOX-NOUS41-PNSBOX)
 
 ### Related:
 

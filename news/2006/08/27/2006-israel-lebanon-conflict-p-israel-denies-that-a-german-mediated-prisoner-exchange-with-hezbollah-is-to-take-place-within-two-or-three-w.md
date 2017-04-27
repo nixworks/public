@@ -8,9 +8,9 @@ DURING THE RECENT month-long war between Hezbollah and Israel, U.N. peacekeeping
 ### Source:
 
 1. [AFP via Al Nahar](http://www.naharnet.com/domino/tn/NewsDesk.nsf/getstory?openform&93F6FB6B14761BE8C22571D7002BE416)
-2. [Haaretz](http://www.haaretz.com/hasen/spages/755360.html)
-3. [Weekly Standard](http://www.weeklystandard.com/Content/Public/Articles/000/000/012/622bqwjn.asp)
-4. [Al Jazeera](http://english.aljazeera.net/NR/exeres/DB97B096-210F-4DC4-84AC-6DCD4813F411.htm)
+2. [Al Jazeera](http://english.aljazeera.net/NR/exeres/DB97B096-210F-4DC4-84AC-6DCD4813F411.htm)
+3. [Haaretz](http://www.haaretz.com/hasen/spages/755360.html)
+4. [Weekly Standard](http://www.weeklystandard.com/Content/Public/Articles/000/000/012/622bqwjn.asp)
 
 ### Related:
 

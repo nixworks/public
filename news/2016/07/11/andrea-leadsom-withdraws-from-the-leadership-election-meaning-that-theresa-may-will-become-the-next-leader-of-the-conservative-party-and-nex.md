@@ -7,8 +7,8 @@ Rolling coverage of the day’s political developments as they happen, including
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/politics/blog/live/2016/jul/11/andrea-leadsom-apologises-to-theresa-may-politics-live)
-2. [BBC](http://www.bbc.com/news/uk-politics-36768148)
+1. [BBC](http://www.bbc.com/news/uk-politics-36768148)
+2. [The Guardian](http://www.theguardian.com/politics/blog/live/2016/jul/11/andrea-leadsom-apologises-to-theresa-may-politics-live)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE62R0DS20100328)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gzRFuIFuhDvG4ZgZiBe0235uQevQD9ENISO00)
-3. [RT](http://rt.com/Top_News/2010-03-28/firts-step-time-reform.html)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gzRFuIFuhDvG4ZgZiBe0235uQevQD9ENISO00)
+2. [RT](http://rt.com/Top_News/2010-03-28/firts-step-time-reform.html)
+3. [Reuters](http://www.reuters.com/article/idUSTRE62R0DS20100328)
 4. [The Moscow Times](http://www.themoscowtimes.com/news/article/regions-edge-toward-moscow-time/402585.html)
 
 ### Related:

@@ -7,8 +7,8 @@ A US teenager who intended to blow up his school will be charged with attempted 
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2013/05/26/justice/oregon-teen-bomb-plot/index.html?hpt=hp_t3)
-2. [AP via News24](http://www.news24.com/news24/World/News/US-school-attack-foiled-20130526)
+1. [AP via News24](http://www.news24.com/news24/World/News/US-school-attack-foiled-20130526)
+2. [CNN](http://edition.cnn.com/2013/05/26/justice/oregon-teen-bomb-plot/index.html?hpt=hp_t3)
 
 ### Related:
 

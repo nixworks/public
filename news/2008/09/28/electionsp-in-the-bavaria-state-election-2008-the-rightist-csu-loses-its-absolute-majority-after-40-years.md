@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Voice of America](http://voanews.com/english/2008-09-29-voa4.cfm)
-2. [Reuters via ''The Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20080927.wbelarus0927/BNStory/International/home)
-3. [Deutsche Welle](http://www.dw-world.de/dw/article/0,2144,3676808,00.html)
-4. [AFP](http://www.afp.com/english/news/stories/newsmlmmd.49a009e41d6df1ad48bec810cd48a5cc.2e1.html)
+1. [AFP](http://www.afp.com/english/news/stories/newsmlmmd.49a009e41d6df1ad48bec810cd48a5cc.2e1.html)
+2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,2144,3676808,00.html)
+3. [Reuters via ''The Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20080927.wbelarus0927/BNStory/International/home)
+4. [Voice of America](http://voanews.com/english/2008-09-29-voa4.cfm)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Religious non-profits want exemption from Obamacare&#39;s &#39;contraceptive man
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-usa-court-contraception-idUSKCN0WP0A9)
-2. [USA Today](http://www.usatoday.com/story/news/politics/2016/03/23/supreme-court-little-sisters-religious-freedom-contraceptive-mandate/82135678/)
-3. [NPR](http://www.npr.org/sections/health-shots/2016/03/23/471599946/supreme-court-takes-up-birth-control-access-yet-again)
+1. [NPR](http://www.npr.org/sections/health-shots/2016/03/23/471599946/supreme-court-takes-up-birth-control-access-yet-again)
+2. [Reuters](http://www.reuters.com/article/us-usa-court-contraception-idUSKCN0WP0A9)
+3. [USA Today](http://www.usatoday.com/story/news/politics/2016/03/23/supreme-court-little-sisters-religious-freedom-contraceptive-mandate/82135678/)
 
 ### Related:
 

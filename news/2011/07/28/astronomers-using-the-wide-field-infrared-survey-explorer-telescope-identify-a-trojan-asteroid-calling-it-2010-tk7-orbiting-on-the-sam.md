@@ -7,8 +7,8 @@ Astronomers detect an asteroid not far from Earth, moving in the same orbit arou
 
 ### Source:
 
-1. [Nature](http://www.nature.com/nature/journal/v475/n7357/full/nature10233.html)
-2. [BBC](http://www.bbc.co.uk/news/science-environment-14307987)
+1. [BBC](http://www.bbc.co.uk/news/science-environment-14307987)
+2. [Nature](http://www.nature.com/nature/journal/v475/n7357/full/nature10233.html)
 
 ### Related:
 

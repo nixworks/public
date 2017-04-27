@@ -7,8 +7,8 @@ South Carolina Gov. Nikki Haley signed into law a bill that removes the Confeder
 
 ### Source:
 
-1. [NBC](http://www.nbcnews.com/storyline/confederate-flag-furor/gov-haley-sign-bill-removing-confederate-flag-n389231)
-2. [AP via ABC News America](http://abcnews.go.com/US/wireStory/confederate-flags-fate-hands-south-carolina-house-32293269)
+1. [AP via ABC News America](http://abcnews.go.com/US/wireStory/confederate-flags-fate-hands-south-carolina-house-32293269)
+2. [NBC](http://www.nbcnews.com/storyline/confederate-flag-furor/gov-haley-sign-bill-removing-confederate-flag-n389231)
 
 ### Related:
 

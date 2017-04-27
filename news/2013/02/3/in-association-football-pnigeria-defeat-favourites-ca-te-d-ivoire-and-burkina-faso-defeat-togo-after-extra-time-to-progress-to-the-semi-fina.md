@@ -8,18 +8,18 @@ Sunday Mba scored the winner for Nigeria as title favourites Ivory Coast crash o
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/sport/football/2013/02/201323174423597805.html)
-2. [The Australian](http://www.theaustralian.com.au/sport/sergio-aguero-equaliser-gives-manchester-city-scarcely-deserved-point/story-e6frg7mf-1226569752585)
+2. [Al Jazeera](http://www.aljazeera.com/sport/football/2013/02/201323191427297183.html)
 3. [Al Jazeera](http://www.aljazeera.com/sport/football/2013/02/201323212252484439.html)
-4. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1325686/la-liga:-lionel-messi,-victor-valdes-rescue-point-for-barcelona)
-5. [FIFA](http://www.fifa.com/u20worldcup/news/newsid=2000727/index.html)
+4. [BBC](http://www.bbc.co.uk/sport/0/football/21294547)
+5. [BBC](http://www.bbc.co.uk/sport/0/football/21317508)
 6. [CNN](http://www.cnn.com/2013/02/03/sport/football/messi-barcelona-balotelli-milan-football/)
-7. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1326355/two-goal-balotelli-the-hero-in-milan-debut)
-8. [The Guardian](http://www.guardian.co.uk/football/2013/feb/03/valencia-barcelona-la-liga-messi-goal)
-9. [Al Jazeera](http://www.aljazeera.com/sport/football/2013/02/201323191427297183.html)
-10. [BBC](http://www.bbc.co.uk/sport/0/football/21294547)
-11. [BBC](http://www.bbc.co.uk/sport/0/football/21317508)
-12. [CONMEBOL](http://conmebol.com//sudamericanosub20/Colombia-campeon-del-Sub-20-2013-20130203-0001.html)
-13. [Reuters](http://www.reuters.com/article/2013/02/03/uk-soccer-italy-balotelli-idUKBRE9120DY20130203)
+7. [CONMEBOL](http://conmebol.com//sudamericanosub20/Colombia-campeon-del-Sub-20-2013-20130203-0001.html)
+8. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1325686/la-liga:-lionel-messi,-victor-valdes-rescue-point-for-barcelona)
+9. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1326355/two-goal-balotelli-the-hero-in-milan-debut)
+10. [FIFA](http://www.fifa.com/u20worldcup/news/newsid=2000727/index.html)
+11. [Reuters](http://www.reuters.com/article/2013/02/03/uk-soccer-italy-balotelli-idUKBRE9120DY20130203)
+12. [The Australian](http://www.theaustralian.com.au/sport/sergio-aguero-equaliser-gives-manchester-city-scarcely-deserved-point/story-e6frg7mf-1226569752585)
+13. [The Guardian](http://www.guardian.co.uk/football/2013/feb/03/valencia-barcelona-la-liga-messi-goal)
 
 ### Related:
 

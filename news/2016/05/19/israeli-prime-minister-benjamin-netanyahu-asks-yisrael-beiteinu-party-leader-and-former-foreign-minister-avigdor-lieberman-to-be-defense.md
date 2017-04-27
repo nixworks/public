@@ -7,8 +7,8 @@ Binyamin Netanyahu makes U-turn to offer hard-right politician key cabinet job a
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/world/2016/may/19/israeli-pm-asks-avigdor-lieberman-to-be-defence-minister-shock-move)
-2. [Israel Hayom](http://www.israelhayom.com/site/newsletter_article.php?id=33795)
+1. [Israel Hayom](http://www.israelhayom.com/site/newsletter_article.php?id=33795)
+2. [The Guardian](http://www.theguardian.com/world/2016/may/19/israeli-pm-asks-avigdor-lieberman-to-be-defence-minister-shock-move)
 
 ### Related:
 

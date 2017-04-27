@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [SBS](http://www.sbs.com.au/news/article/1491757/Residents-evacuated-from-NZ-suburbs)
-2. [News Talk ZB](http://www.newstalkzb.co.nz/newsdetail1.asp?storyID=191514)
+1. [News Talk ZB](http://www.newstalkzb.co.nz/newsdetail1.asp?storyID=191514)
+2. [SBS](http://www.sbs.com.au/news/article/1491757/Residents-evacuated-from-NZ-suburbs)
 
 ### Related:
 

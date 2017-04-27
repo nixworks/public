@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNBC](http://www.cnbc.com/2015/09/09/the-associated-press-german-court-halts-airline-strike-after-1000-flights-nixed.html)
-2. [AP via US News & World Report](http://www.usnews.com/news/business/articles/2015/09/09/1-000-lufthansa-flights-canceled-in-pilot-strike)
+1. [AP via US News & World Report](http://www.usnews.com/news/business/articles/2015/09/09/1-000-lufthansa-flights-canceled-in-pilot-strike)
+2. [CNBC](http://www.cnbc.com/2015/09/09/the-associated-press-german-court-halts-airline-strike-after-1000-flights-nixed.html)
 
 ### Related:
 

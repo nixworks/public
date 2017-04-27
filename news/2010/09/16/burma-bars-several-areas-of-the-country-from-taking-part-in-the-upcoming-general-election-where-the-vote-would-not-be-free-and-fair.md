@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/20100917/news_20100917_56_699024.htm)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11334399)
 2. [Mizzima](http://www.mizzima.com/news/breaking-and-news-brief/4370-elections-not-viable-in-some-ethnic-areas-poll-watchdog.html)
-3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11334399)
+3. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/20100917/news_20100917_56_699024.htm)
 
 ### Related:
 

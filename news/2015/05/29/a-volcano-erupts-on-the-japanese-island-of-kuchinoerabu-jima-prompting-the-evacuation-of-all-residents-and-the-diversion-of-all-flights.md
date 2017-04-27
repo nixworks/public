@@ -7,8 +7,8 @@ Mount Shindake explodes without warning off Kagoshima, forcing residents of Kuch
 
 ### Source:
 
-1. [Kyodo via ''Japan Times](http://www.japantimes.co.jp/news/2015/05/29/national/volcano-erupts-isle-kagoshima-prompting-evacuation-order/#.VWfE5NyUd8E)
-2. [GMA Network](http://www.gmanetwork.com/news/story/495014/news/world/volcano-erupts-on-japanese-island-evacuation-ordered-airlines-diverted)
+1. [GMA Network](http://www.gmanetwork.com/news/story/495014/news/world/volcano-erupts-on-japanese-island-evacuation-ordered-airlines-diverted)
+2. [Kyodo via ''Japan Times](http://www.japantimes.co.jp/news/2015/05/29/national/volcano-erupts-isle-kagoshima-prompting-evacuation-order/#.VWfE5NyUd8E)
 
 ### Related:
 

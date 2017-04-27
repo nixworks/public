@@ -1,7 +1,7 @@
 ## [2009-02-13](/news/2009/02/13/index.md)
 
 ### [ The United States Congress approves the American Recovery and Reinvestment Act of 2009.  ](/news/2009/02/13/the-united-states-congress-approves-the-american-recovery-and-reinvestment-act-of-2009.md)
-_Context: American Recovery and Reinvestment Act, U.S., U.S. Congress_
+_Context: American Recovery and Reinvestment Act, U.S. Congress, United States_
 
 ### [ Zimbabwe's Republic Police charge Roy Bennett of the Movement for Democratic Change with treason. ](/news/2009/02/13/zimbabwe-s-republic-police-charge-roy-bennett-of-the-movement-for-democratic-change-with-treason.md)
 _Context: Movement for Democratic Change, Roy Bennett, Zimbabwe, police, treason_
@@ -25,7 +25,7 @@ _Context: A$, Australia, Australian Senate, economy of Australia, stimulus packa
 _Context: Gaza Strip, Hamas, Israel, Israel Defense Forces, aid, grenade_
 
 ### [ Germany's Max Planck Institute for Evolutionary Anthropology and the United States' 454 Life Sciences map the Neanderthal genome.  ](/news/2009/02/13/germany-s-max-planck-institute-for-evolutionary-anthropology-and-the-united-states-454-life-sciences-map-the-neanderthal-genome.md)
-_Context: 454 Life Sciences, Germany, Max Planck Institute for Evolutionary Anthropology, Neanderthal, U.S., genome, map_
+_Context: 454 Life Sciences, Germany, Max Planck Institute for Evolutionary Anthropology, Neanderthal, United States, genome, map_
 
 ### [ Lloyds Banking Group warns that HBOS wil register a loss of PS8.5 billion for 2008. ](/news/2009/02/13/lloyds-banking-group-warns-that-hbos-wil-register-a-loss-of-aps8-5-billion-for-2008.md)
 _Context: 2008, HBOS, Lloyds Banking Group, £_

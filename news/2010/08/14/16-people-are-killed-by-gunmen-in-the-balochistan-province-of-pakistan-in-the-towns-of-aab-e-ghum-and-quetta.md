@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Voice of America](http://www1.voanews.com/english/news/asia/Gunmen-Kill-10-in-Pakistan-Bus-Attack-100681449.html)
-2. [BBC](http://www.bbc.co.uk/news/world-south-asia-10975606)
+1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10975606)
+2. [Voice of America](http://www1.voanews.com/english/news/asia/Gunmen-Kill-10-in-Pakistan-Bus-Attack-100681449.html)
 
 ### Related:
 

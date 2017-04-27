@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/world/china/Several-killed-in-police-station-attack-in-Chinas-restive-province-bordering-Pakistan/articleshow/9273172.cms)
-2. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-07/18/c_13992884.htm)
-3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14186163)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14186163)
+2. [Times of India](http://timesofindia.indiatimes.com/world/china/Several-killed-in-police-station-attack-in-Chinas-restive-province-bordering-Pakistan/articleshow/9273172.cms)
+3. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-07/18/c_13992884.htm)
 
 ### Related:
 

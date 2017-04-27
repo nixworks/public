@@ -7,8 +7,8 @@ Turkey vowed on Monday to &quot;completely cleanse&quot; Islamic State militants
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-turkey-blast-idUSKCN10V0TG)
-2. [Reuters via ''New York Times](http://www.nytimes.com/reuters/2016/08/20/world/europe/20reuters-turkey-blast.html?ref=world)
+1. [Reuters via ''New York Times](http://www.nytimes.com/reuters/2016/08/20/world/europe/20reuters-turkey-blast.html?ref=world)
+2. [Reuters](http://www.reuters.com/article/us-turkey-blast-idUSKCN10V0TG)
 
 ### Related:
 

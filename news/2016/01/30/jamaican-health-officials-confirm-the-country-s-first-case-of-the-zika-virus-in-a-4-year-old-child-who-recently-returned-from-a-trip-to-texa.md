@@ -7,8 +7,8 @@ Health minister says 4-year-old showed symptoms after returning from trip to Tex
 
 ### Source:
 
-1. [USA TODAY](http://www.usatoday.com/story/news/2016/01/30/jamaica-reports-first-case-zika-virus/79563246/)
-2. [Reuters](http://in.reuters.com/article/us-health-zika-colombia-idINKCN0V80UK)
+1. [Reuters](http://in.reuters.com/article/us-health-zika-colombia-idINKCN0V80UK)
+2. [USA TODAY](http://www.usatoday.com/story/news/2016/01/30/jamaica-reports-first-case-zika-virus/79563246/)
 
 ### Related:
 

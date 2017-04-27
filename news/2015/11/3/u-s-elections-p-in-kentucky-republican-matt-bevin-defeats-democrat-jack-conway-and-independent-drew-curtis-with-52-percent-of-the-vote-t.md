@@ -7,19 +7,19 @@ Republican Matt Bevin, a businessman and Tea Party favorite, beat Democrat Jack 
 
 ### Source:
 
-1. [Detroit News](http://www.detroitnews.com/story/news/local/michigan/2015/11/03/flint-mayor-water-problems/75126158/)
-2. [AP](http://bigstory.ap.org/article/41cc5dfd7f7d4e7ea0cb7f3a3dc9cd18/republican-matt-bevin-elected-governor-kentucky-0)
+1. [AP via CBSLocal.com](http://newyork.cbslocal.com/2015/11/03/bridgeport-mayor-race-election-day/)
+2. [AP via Huffington Post](http://www.huffingtonpost.com/entry/jefferson-county-recall_5637869be4b063179912fb82)
 3. [AP via Huffington Post](http://www.huffingtonpost.com/entry/phil-bryant-wins-reelection-mississippi_5637e18be4b027f9b969c3bf)
-4. [Fox News](http://www.foxnews.com/politics/2015/11/03/republican-matt-bevin-elected-governor-kentucky-2nd-republican-governor-in-4/)
-5. [AP via Huffington Post](http://www.huffingtonpost.com/entry/jefferson-county-recall_5637869be4b063179912fb82)
-6. [Hartford Courant](http://www.courant.com/community/bridgeport/hc-bridgeport-ct-joe-ganim-mary-jane-foster-1104-20151103-story.html)
-7. [Los Angeles Times](http://www.latimes.com/nation/la-na-ohio-marijuana-results-20151103-story.html)
-8. [AP via Washington Post](https://www.washingtonpost.com/national/religion/latest-voters-reject-houston-lgbt-nondiscrimination-measure/2015/11/03/b62bcdfe-82a1-11e5-8bd2-680fff868306_story.html)
-9. [MLive Media](http://www.mlive.com/news/flint/index.ssf/2015/09/flint_mayoral_challenger_calls.html)
-10. [AP](http://bigstory.ap.org/article/9e4d7ad8d8884799a69fb07c815672a9/voters-oust-flint-mayor-amid-citys-water-problems)
-11. [Texas Tribune](https://www.texastribune.org/2015/11/03/houston-anti-discrimination-ordinance-early-voting/)
-12. [Washington Post](https://www.washingtonpost.com/local/education/conservative-school-board-members-ousted-in-bitter-colorado-battle/2015/11/04/a0b640ca-82a2-11e5-8ba6-cec48b74b2a7_story.html)
-13. [AP via CBSLocal.com](http://newyork.cbslocal.com/2015/11/03/bridgeport-mayor-race-election-day/)
+4. [AP via Washington Post](https://www.washingtonpost.com/national/religion/latest-voters-reject-houston-lgbt-nondiscrimination-measure/2015/11/03/b62bcdfe-82a1-11e5-8bd2-680fff868306_story.html)
+5. [AP](http://bigstory.ap.org/article/41cc5dfd7f7d4e7ea0cb7f3a3dc9cd18/republican-matt-bevin-elected-governor-kentucky-0)
+6. [AP](http://bigstory.ap.org/article/9e4d7ad8d8884799a69fb07c815672a9/voters-oust-flint-mayor-amid-citys-water-problems)
+7. [Detroit News](http://www.detroitnews.com/story/news/local/michigan/2015/11/03/flint-mayor-water-problems/75126158/)
+8. [Fox News](http://www.foxnews.com/politics/2015/11/03/republican-matt-bevin-elected-governor-kentucky-2nd-republican-governor-in-4/)
+9. [Hartford Courant](http://www.courant.com/community/bridgeport/hc-bridgeport-ct-joe-ganim-mary-jane-foster-1104-20151103-story.html)
+10. [Los Angeles Times](http://www.latimes.com/nation/la-na-ohio-marijuana-results-20151103-story.html)
+11. [MLive Media](http://www.mlive.com/news/flint/index.ssf/2015/09/flint_mayoral_challenger_calls.html)
+12. [Texas Tribune](https://www.texastribune.org/2015/11/03/houston-anti-discrimination-ordinance-early-voting/)
+13. [Washington Post](https://www.washingtonpost.com/local/education/conservative-school-board-members-ousted-in-bitter-colorado-battle/2015/11/04/a0b640ca-82a2-11e5-8ba6-cec48b74b2a7_story.html)
 
 ### Related:
 

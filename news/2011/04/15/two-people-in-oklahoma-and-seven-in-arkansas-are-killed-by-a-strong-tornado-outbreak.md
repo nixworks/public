@@ -7,10 +7,10 @@ Three days of severe storms leave 24 people dead in the US south, with the Carol
 
 ### Source:
 
-1. [CNN](http://us.cnn.com/2011/US/04/15/severe.weather/)
-2. [BBC](http://www.bbc.co.uk/news/world-us-canada-13099230)
-3. [UPI](http://www.upi.com/Top_News/US/2011/04/15/More-deaths-reported-as-storms-sweep-Dixie/UPI-99161302877416/)
-4. [NewsOK](http://www.newsok.com/oklahoma-tornadoes-two-people-dead-in-atoka-county-twister/article/3558714?custom_click=headlines_widget)
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-13099230)
+2. [CNN](http://us.cnn.com/2011/US/04/15/severe.weather/)
+3. [NewsOK](http://www.newsok.com/oklahoma-tornadoes-two-people-dead-in-atoka-county-twister/article/3558714?custom_click=headlines_widget)
+4. [UPI](http://www.upi.com/Top_News/US/2011/04/15/More-deaths-reported-as-storms-sweep-Dixie/UPI-99161302877416/)
 
 ### Related:
 

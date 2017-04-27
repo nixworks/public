@@ -7,8 +7,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [Jane's](http://articles.janes.com/articles/Janes-Infantry-Weapons/PG-2-40-mm-High-Explosive-Anti-Tank-HEAT-round-Russian-Federation.html)
-2. [AP via ABC News](http://abcnews.go.com/International/wireStory/boys-die-break-rocket-cambodia-17198523#.UE2SFlGZh8E)
+1. [AP via ABC News](http://abcnews.go.com/International/wireStory/boys-die-break-rocket-cambodia-17198523#.UE2SFlGZh8E)
+2. [Jane's](http://articles.janes.com/articles/Janes-Infantry-Weapons/PG-2-40-mm-High-Explosive-Anti-Tank-HEAT-round-Russian-Federation.html)
 
 ### Related:
 

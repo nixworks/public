@@ -8,9 +8,9 @@ The White House clashed Monday with a large group of American diplomats who are 
 ### Source:
 
 1. [AP via ''Law Vegas Review-Journal](http://www.reviewjournal.com/news/politics-and-government/us-diplomats-challenge-trump-travel-ban)
-2. [CNN](http://www.cnn.com/2017/01/30/politics/career-diplomats-dissent-memo/)
-3. [The New York Times](https://www.nytimes.com/2017/01/30/us/politics/trump-immigration-ban-memo.html?_r=0)
-4. [BBC](http://www.bbc.com/news/world-us-canada-38805944)
+2. [BBC](http://www.bbc.com/news/world-us-canada-38805944)
+3. [CNN](http://www.cnn.com/2017/01/30/politics/career-diplomats-dissent-memo/)
+4. [The New York Times](https://www.nytimes.com/2017/01/30/us/politics/trump-immigration-ban-memo.html?_r=0)
 
 ### Related:
 

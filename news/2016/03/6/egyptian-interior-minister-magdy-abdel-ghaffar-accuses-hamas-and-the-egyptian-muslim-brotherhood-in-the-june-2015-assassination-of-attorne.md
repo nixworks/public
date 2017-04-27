@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=2407154&CategoryId=12395)
-2. [Debkafile](http://www.debka.com/newsupdatepopup/15326/Egypt-accuses-Hamas-of-hand-in-chief-prosecutor%C3%A2%E2%82%AC%E2%84%A2s-assassination)
+1. [Debkafile](http://www.debka.com/newsupdatepopup/15326/Egypt-accuses-Hamas-of-hand-in-chief-prosecutor%C3%A2%E2%82%AC%E2%84%A2s-assassination)
+2. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=2407154&CategoryId=12395)
 
 ### Related:
 

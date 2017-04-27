@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Le Monde](http://www.lemonde.fr/europe/article/2012/08/28/la-justice-francaise-ouvre-une-instruction-pour-assassinat-sur-yasser-arafat_1752431_3214.html)
-2. [CNN](http://www.cnn.com/2012/08/28/world/europe/france-arafat-inquiry/index.html?hpt=hp_t3)
+1. [CNN](http://www.cnn.com/2012/08/28/world/europe/france-arafat-inquiry/index.html?hpt=hp_t3)
+2. [Le Monde](http://www.lemonde.fr/europe/article/2012/08/28/la-justice-francaise-ouvre-une-instruction-pour-assassinat-sur-yasser-arafat_1752431_3214.html)
 
 ### Related:
 

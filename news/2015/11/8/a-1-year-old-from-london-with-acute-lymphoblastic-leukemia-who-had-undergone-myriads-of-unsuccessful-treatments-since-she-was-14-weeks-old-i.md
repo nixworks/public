@@ -7,9 +7,9 @@ Five months ago, Layla Richards&apos;s parents were told that their infant daugh
 
 ### Source:
 
-1. [Nature](http://www.nature.com/news/leukaemia-success-heralds-wave-of-gene-editing-therapies-1.18737)
-2. [Bangkok Post](http://www.bangkokpost.com/learning/easy/758976/miracle-treatment-saves-baby-cancer-victim)
-3. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/ct-leukemia-cell-treatment-20151106-story.html)
+1. [Bangkok Post](http://www.bangkokpost.com/learning/easy/758976/miracle-treatment-saves-baby-cancer-victim)
+2. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/ct-leukemia-cell-treatment-20151106-story.html)
+3. [Nature](http://www.nature.com/news/leukaemia-success-heralds-wave-of-gene-editing-therapies-1.18737)
 
 ### Related:
 

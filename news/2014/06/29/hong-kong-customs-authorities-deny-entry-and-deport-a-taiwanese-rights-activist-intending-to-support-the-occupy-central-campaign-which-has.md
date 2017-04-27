@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Focus Taiwan](http://focustaiwan.tw/news/asoc/201406290016.aspx)
-2. [AFP via Yahoo](http://au.news.yahoo.com/world/a/24344513/hong-kong-democracy-poll-closes-with-nearly-800-000-votes-organisers/)
+1. [AFP via Yahoo](http://au.news.yahoo.com/world/a/24344513/hong-kong-democracy-poll-closes-with-nearly-800-000-votes-organisers/)
+2. [Focus Taiwan](http://focustaiwan.tw/news/asoc/201406290016.aspx)
 
 ### Related:
 

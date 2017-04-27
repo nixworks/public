@@ -7,8 +7,8 @@ A ban on the use of Blackberry phones to send and receive messages is being roll
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10888954)
-2. [BBC](http://www.bbc.co.uk/news/technology-10896653)
+1. [BBC](http://www.bbc.co.uk/news/technology-10896653)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-10888954)
 
 ### Related:
 

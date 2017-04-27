@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8300714.stm)
-2. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/africa/2009/9/42/Guinea-strike-call-over-killings,6bfc85fe-0331-491b-a22d-69000ea667f8.html)
+1. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/africa/2009/9/42/Guinea-strike-call-over-killings,6bfc85fe-0331-491b-a22d-69000ea667f8.html)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8300714.stm)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Philippine Inquirer](http://newsinfo.inquirer.net/topstories/topstories/view/20091204-240054/Firearms-found-enough-to-supply-a-battalionPNP-chief)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5g1F3rK2Tld9m648edA-eshNZBSogD9CCFOHG0)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5g1F3rK2Tld9m648edA-eshNZBSogD9CCFOHG0)
+2. [Philippine Inquirer](http://newsinfo.inquirer.net/topstories/topstories/view/20091204-240054/Firearms-found-enough-to-supply-a-battalionPNP-chief)
 
 ### Related:
 

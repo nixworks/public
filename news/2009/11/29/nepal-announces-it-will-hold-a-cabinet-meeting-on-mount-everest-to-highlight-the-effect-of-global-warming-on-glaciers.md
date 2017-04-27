@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Himalayan Times](http://www.thehimalayantimes.com/fullNews.php?headline=Cabinet+to+meet+at+Gorakshep&NewsID=196679)
-2. [Xinhua](http://news.xinhuanet.com/english/2009-11/29/content_12559265.htm)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8385170.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8385170.stm)
+2. [The Himalayan Times](http://www.thehimalayantimes.com/fullNews.php?headline=Cabinet+to+meet+at+Gorakshep&NewsID=196679)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-11/29/content_12559265.htm)
 
 ### Related:
 

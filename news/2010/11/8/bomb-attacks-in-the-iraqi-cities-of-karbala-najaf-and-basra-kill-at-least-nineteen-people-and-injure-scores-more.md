@@ -7,8 +7,8 @@ Bomb attacks on Shia targets in Karbala, Najaf and Basra in Iraq leave at least 
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/meast/11/08/iraq.violence/index.html?eref=edition)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11713811)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11713811)
+2. [CNN](http://edition.cnn.com/2010/WORLD/meast/11/08/iraq.violence/index.html?eref=edition)
 
 ### Related:
 

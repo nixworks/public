@@ -7,8 +7,8 @@ Former England striker Michael Owen announces he is to retire from football at t
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/football/2013/mar/19/michael-owen-to-retire-from-football)
-2. [BBC](http://www.bbc.co.uk/sport/0/football/21839361)
+1. [BBC](http://www.bbc.co.uk/sport/0/football/21839361)
+2. [The Guardian](http://www.guardian.co.uk/football/2013/mar/19/michael-owen-to-retire-from-football)
 
 ### Related:
 

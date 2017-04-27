@@ -7,10 +7,10 @@ Jailed Kurdish rebel leader Abdullah Ocalan calls a truce and urges his fighters
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2013/mar/21/pkk-leader-ocalan-declares-ceasefire)
+1. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/03/2013321112138974573.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-21874427)
-3. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/03/2013321112138974573.html)
-4. [CNN](http://www.cnn.com/2013/03/21/world/meast/turkey-kurdish-leader)
+3. [CNN](http://www.cnn.com/2013/03/21/world/meast/turkey-kurdish-leader)
+4. [The Guardian](http://www.guardian.co.uk/world/2013/mar/21/pkk-leader-ocalan-declares-ceasefire)
 
 ### Related:
 

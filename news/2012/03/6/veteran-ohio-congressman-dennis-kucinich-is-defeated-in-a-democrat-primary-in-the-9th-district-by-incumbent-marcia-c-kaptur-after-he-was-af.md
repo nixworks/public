@@ -7,8 +7,8 @@ The incumbents are defeated in dramatic fashion.
 
 ### Source:
 
-1. [Politico](http://www.politico.com/news/stories/0312/73713.html)
-2. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5iJHdEiqKlWYoURuJM-yP0jpr4Rkw?docId=054818bacd5a4d969cb46be71bd56277)
+1. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5iJHdEiqKlWYoURuJM-yP0jpr4Rkw?docId=054818bacd5a4d969cb46be71bd56277)
+2. [Politico](http://www.politico.com/news/stories/0312/73713.html)
 
 ### Related:
 

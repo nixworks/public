@@ -7,8 +7,8 @@ North Korea has now developed a hydrogen bomb and can use it along with nuclear 
 
 ### Source:
 
-1. [RT](https://www.rt.com/news/325300-north-korea-hydrogen-bomb/)
-2. [BBC](http://www.bbc.com/news/world-asia-35060035)
+1. [BBC](http://www.bbc.com/news/world-asia-35060035)
+2. [RT](https://www.rt.com/news/325300-north-korea-hydrogen-bomb/)
 
 ### Related:
 

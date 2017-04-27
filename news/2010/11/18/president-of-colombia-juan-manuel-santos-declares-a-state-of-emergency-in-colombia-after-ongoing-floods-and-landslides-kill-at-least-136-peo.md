@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Colombia Reports](http://colombiareports.com/colombia-news/news/12996-colombia-declares-state-of-public-calamity-over-rains.html)
-2. [CNN](http://edition.cnn.com/2010/WORLD/americas/11/19/colombia.rain.calamity/)
+1. [CNN](http://edition.cnn.com/2010/WORLD/americas/11/19/colombia.rain.calamity/)
+2. [Colombia Reports](http://colombiareports.com/colombia-news/news/12996-colombia-declares-state-of-public-calamity-over-rains.html)
 3. [Momento24](http://momento24.com/en/2010/11/19/colombia-declared-state-of-public-calamity-due-to-the-heavy-rains/)
 
 ### Related:

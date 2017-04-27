@@ -7,8 +7,8 @@ Rescue workers scrabbled through earth and rubble on Saturday in search of survi
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/10/03/us-guatemala-mudslide-idUSKCN0RW1Q620151003)
-2. [BBC](http://www.bbc.com/news/world-latin-america-34431285)
+1. [BBC](http://www.bbc.com/news/world-latin-america-34431285)
+2. [Reuters](http://www.reuters.com/article/2015/10/03/us-guatemala-mudslide-idUSKCN0RW1Q620151003)
 
 ### Related:
 

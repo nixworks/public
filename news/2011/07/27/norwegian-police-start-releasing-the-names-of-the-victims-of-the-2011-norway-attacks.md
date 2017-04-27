@@ -7,8 +7,8 @@ Norway&#x27;s&#x20;Prime&#x20;Minister&#x20;Jens&#x20;Stoltenberg&#x20;said&#x20
 
 ### Source:
 
-1. [Reuters via France 24](http://www.france24.com/en/20110727-norway-pm-vows-security-review-after-massacre-mourning-stoltenberg)
-2. [AP via News Limited](http://www.news.com.au/world/oslo-police-release-names-of-norway-bomb-and-massacre-victims/story-e6frfkz9-1226102486916)
+1. [AP via News Limited](http://www.news.com.au/world/oslo-police-release-names-of-norway-bomb-and-massacre-victims/story-e6frfkz9-1226102486916)
+2. [Reuters via France 24](http://www.france24.com/en/20110727-norway-pm-vows-security-review-after-massacre-mourning-stoltenberg)
 
 ### Related:
 

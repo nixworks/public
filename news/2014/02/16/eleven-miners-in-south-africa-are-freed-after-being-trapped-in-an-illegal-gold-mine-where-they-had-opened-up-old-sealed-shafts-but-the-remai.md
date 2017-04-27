@@ -7,5 +7,5 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2014/02/16/world/africa/south-africa-mine-rescue/)
-2. [Bloomberg](http://www.bloomberg.com/news/2014-02-16/rescue-begins-for-illegal-gold-diggers-in-old-south-african-mine.html)
+1. [Bloomberg](http://www.bloomberg.com/news/2014-02-16/rescue-begins-for-illegal-gold-diggers-in-old-south-african-mine.html)
+2. [CNN](http://www.cnn.com/2014/02/16/world/africa/south-africa-mine-rescue/)

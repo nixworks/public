@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article4380397.ece)
-2. [CNN](http://edition.cnn.com/2008/WORLD/asiapcf/07/22/india.nuclearvote.ap/index.html)
+1. [CNN](http://edition.cnn.com/2008/WORLD/asiapcf/07/22/india.nuclearvote.ap/index.html)
+2. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article4380397.ece)
 
 ### Related:
 

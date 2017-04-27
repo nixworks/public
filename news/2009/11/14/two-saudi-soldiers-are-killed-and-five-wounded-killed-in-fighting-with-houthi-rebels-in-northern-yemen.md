@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Press TV](http://www.presstv.ir/detail.aspx?id=111261&sectionid=351020206)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h3C84WjYxLlFWA4h15ep2lz6KC3g)
 2. [Al-Sharq al-Awsat](http://www.asharq-e.com/news.asp?section=1&id=18806)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h3C84WjYxLlFWA4h15ep2lz6KC3g)
+3. [Press TV](http://www.presstv.ir/detail.aspx?id=111261&sectionid=351020206)
 
 ### Related:
 

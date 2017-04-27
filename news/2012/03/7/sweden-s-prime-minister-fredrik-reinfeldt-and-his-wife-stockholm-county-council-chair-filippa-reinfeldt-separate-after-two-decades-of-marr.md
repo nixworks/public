@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/world/europe/swedish-prime-minister-reinfeldt-announces-split-from-wife/2012/03/07/gIQAtywWxR_story.html)
-2. [CBS News](http://www.cbsnews.com/8301-501714_162-57392754/swedish-prime-minister-announces-split-from-wife/)
-3. [The Local](http://www.thelocal.se/39544/20120307/)
+1. [CBS News](http://www.cbsnews.com/8301-501714_162-57392754/swedish-prime-minister-announces-split-from-wife/)
+2. [The Local](http://www.thelocal.se/39544/20120307/)
+3. [Washington Post](http://www.washingtonpost.com/world/europe/swedish-prime-minister-reinfeldt-announces-split-from-wife/2012/03/07/gIQAtywWxR_story.html)
 
 ### Related:
 

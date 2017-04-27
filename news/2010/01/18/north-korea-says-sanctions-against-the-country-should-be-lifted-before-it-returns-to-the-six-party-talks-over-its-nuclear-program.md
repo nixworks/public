@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Thai News Agency](http://enews.mcot.net/view.php?id=13778)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8465341.stm)
-3. [Joongang Daily](http://joongangdaily.joins.com/article/view.asp?aid=2915493)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8465341.stm)
+2. [Joongang Daily](http://joongangdaily.joins.com/article/view.asp?aid=2915493)
+3. [Thai News Agency](http://enews.mcot.net/view.php?id=13778)
 
 ### Related:
 

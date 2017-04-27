@@ -10,8 +10,8 @@
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-10854595)
 2. [Canada.com](http://www.canada.com/technology/Baird+takes+pains+sensationalize+airport+niqab+video/3355601/story.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+canwest%2FF56+%28canada.com+Top+Stories%29)
 3. [Daily Star](http://www.dailystar.co.uk/news/view/147550/Airport-burka-security-blunder/)
-4. [South China Morning Post](http://www.scmp.com/vgn-ext-templating/v/index.jsp?vgnextoid=0c6ba627ee73a210VgnVCM100000360a0a0aRCRD&s=news)
-5. [Ottawa Citizen](http://www.ottawacitizen.com/life/Failure+check+veiled+travellers+disturbs+Baird/3351771/story.html)
+4. [Ottawa Citizen](http://www.ottawacitizen.com/life/Failure+check+veiled+travellers+disturbs+Baird/3351771/story.html)
+5. [South China Morning Post](http://www.scmp.com/vgn-ext-templating/v/index.jsp?vgnextoid=0c6ba627ee73a210VgnVCM100000360a0a0aRCRD&s=news)
 
 ### Related:
 

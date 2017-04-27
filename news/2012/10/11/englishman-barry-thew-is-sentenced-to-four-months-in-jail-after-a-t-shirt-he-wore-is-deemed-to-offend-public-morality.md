@@ -7,8 +7,8 @@ A man who wore a T-shirt with offensive comments referring to the killing of two
 
 ### Source:
 
-1. [Spiked](http://www.spiked-online.com/site/article/12956/)
-2. [BBC](http://www.bbc.co.uk/news/uk-england-manchester-19911943)
+1. [BBC](http://www.bbc.co.uk/news/uk-england-manchester-19911943)
+2. [Spiked](http://www.spiked-online.com/site/article/12956/)
 
 ### Related:
 

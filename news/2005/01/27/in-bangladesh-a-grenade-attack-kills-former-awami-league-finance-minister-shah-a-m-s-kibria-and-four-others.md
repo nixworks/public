@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/129590/1/.html)
-2. [CNN](http://edition.cnn.com/2005/WORLD/asiapcf/01/27/bangladesh.attack/)
+1. [CNN](http://edition.cnn.com/2005/WORLD/asiapcf/01/27/bangladesh.attack/)
+2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/129590/1/.html)
 
 ### Related:
 

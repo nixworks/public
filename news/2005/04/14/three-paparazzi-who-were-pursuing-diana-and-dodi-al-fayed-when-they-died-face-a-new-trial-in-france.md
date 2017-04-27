@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [IHT](http://www.iht.com/articles/2005/04/13/news/briefs.html)
-2. [Reuters UK](http://today.reuters.co.uk/News/newsArticle.aspx?type=topNews&storyID=2005-04-13T181926Z_01_HOP365934_RTRUKOC_0_FRANCE-DIANA-PAPARAZZI.xml)
-3. [BBC](http://news.bbc.co.uk/2/hi/uk_news/4442659.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/4442659.stm)
+2. [IHT](http://www.iht.com/articles/2005/04/13/news/briefs.html)
+3. [Reuters UK](http://today.reuters.co.uk/News/newsArticle.aspx?type=topNews&storyID=2005-04-13T181926Z_01_HOP365934_RTRUKOC_0_FRANCE-DIANA-PAPARAZZI.xml)
 
 ### Related:
 

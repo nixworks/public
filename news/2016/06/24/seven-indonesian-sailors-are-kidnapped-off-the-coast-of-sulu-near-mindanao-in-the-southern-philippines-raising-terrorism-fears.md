@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/aponline/2016/06/24/world/asia/ap-as-indonesia-philippines-hostages.html)
-2. [Philippine Daily Inquirer](http://globalnation.inquirer.net/140404/authorities-verifying-report-asg-abducted-indonesian-sailors-anew)
+1. [Philippine Daily Inquirer](http://globalnation.inquirer.net/140404/authorities-verifying-report-asg-abducted-indonesian-sailors-anew)
+2. [The New York Times](http://www.nytimes.com/aponline/2016/06/24/world/asia/ap-as-indonesia-philippines-hostages.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ A breakthrough in Minsk as Putin announces a ceasefire deal following marathon t
 
 ### Source:
 
-1. [Euronews](http://www.euronews.com/2015/02/12/breakthrough-in-minsk-as-leaders-agree-to-ceasefire-deal-on-ukraine/)
-2. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-02-12-EU--Ukraine/id-fee6a94c6c3c4ac8b2f7f9d95026f20c)
+1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-02-12-EU--Ukraine/id-fee6a94c6c3c4ac8b2f7f9d95026f20c)
+2. [Euronews](http://www.euronews.com/2015/02/12/breakthrough-in-minsk-as-leaders-agree-to-ceasefire-deal-on-ukraine/)
 
 ### Related:
 

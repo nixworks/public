@@ -7,10 +7,10 @@ At least 13 people were killed on Wednesday when three suicide bombers blew them
 
 ### Source:
 
-1. [Voice of America](http://www.voanews.com/content/cameroon-closes-border-markets-after-boko-haram-attack/3164544.html)
+1. [AFP via Yahoo](http://news.yahoo.com/nigeria-suicide-blasts-kill-10-chibok-145159362.html)
 2. [Reuters](http://www.reuters.com/article/us-nigeria-violence-idUSKCN0V522Q)
 3. [The News](http://thenewsnigeria.com.ng/2016/01/suicide-bombing-cameroon-shuts-border-markets-with-nigeria/)
-4. [AFP via Yahoo](http://news.yahoo.com/nigeria-suicide-blasts-kill-10-chibok-145159362.html)
+4. [Voice of America](http://www.voanews.com/content/cameroon-closes-border-markets-after-boko-haram-attack/3164544.html)
 
 ### Related:
 

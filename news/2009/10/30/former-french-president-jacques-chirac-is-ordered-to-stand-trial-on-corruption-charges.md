@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [France 24](http://www.france24.com/en/20091030-court-action-chirac-justice-france-fraud-paris-major-public-rpr?autoplay=)
-2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,4840140,00.html)
+1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,4840140,00.html)
+2. [France 24](http://www.france24.com/en/20091030-court-action-chirac-justice-france-fraud-paris-major-public-rpr?autoplay=)
 
 ### Related:
 

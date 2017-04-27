@@ -7,8 +7,8 @@ Former IDF officer was sentenced in absentia to 11 years in prison for training 
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/ArtsAndCulture/Entertainment/Article.aspx?id=205572)
-2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5h75FQrj8dya-QlyS0G9FE3fWnuVg?docId=ed08824f0d334eff96d2167f381ec6b8)
+1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5h75FQrj8dya-QlyS0G9FE3fWnuVg?docId=ed08824f0d334eff96d2167f381ec6b8)
+2. [The Jerusalem Post](http://www.jpost.com/ArtsAndCulture/Entertainment/Article.aspx?id=205572)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [DNA India](http://www.dnaindia.com/india/commentary_live-5-blasts-in-pune-6th-bomb-diffused-ammonium-nitrate-9-volt-batteries-used_1722867)
-2. [CNN-IBN](http://ibnlive.in.com/news/three-minor-blasts-in-pune-one-injured/277267-3-237.html)
+1. [CNN-IBN](http://ibnlive.in.com/news/three-minor-blasts-in-pune-one-injured/277267-3-237.html)
+2. [DNA India](http://www.dnaindia.com/india/commentary_live-5-blasts-in-pune-6th-bomb-diffused-ammonium-nitrate-9-volt-batteries-used_1722867)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NY Times](http://www.nytimes.com/aponline/2016/02/08/world/asia/ap-as-afghanistan.html?_r=0)
-2. [Appeal Democrat](http://www.appeal-democrat.com/news/regional_news/asia/suicide-bombing-in-northern-afghanistan-kills-soldiers/article_ac5ceb5c-df0d-5b15-bb8b-70c101e9cf69.html)
+1. [Appeal Democrat](http://www.appeal-democrat.com/news/regional_news/asia/suicide-bombing-in-northern-afghanistan-kills-soldiers/article_ac5ceb5c-df0d-5b15-bb8b-70c101e9cf69.html)
+2. [NY Times](http://www.nytimes.com/aponline/2016/02/08/world/asia/ap-as-afghanistan.html?_r=0)
 
 ### Related:
 

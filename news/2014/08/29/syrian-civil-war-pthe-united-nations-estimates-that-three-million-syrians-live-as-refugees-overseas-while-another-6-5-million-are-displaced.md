@@ -7,8 +7,8 @@ Three million Syrian refugees will have registered in neighboring countries as o
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/world/2014/aug/29/syria-rebels-filipino-un-peacekeepers-golan-heights)
-2. [Reuters](http://www.reuters.com/article/2014/08/29/us-syria-crisis-refugees-idUSKBN0GT0AX20140829?feedType=RSS&feedName=topNews)
+1. [Reuters](http://www.reuters.com/article/2014/08/29/us-syria-crisis-refugees-idUSKBN0GT0AX20140829?feedType=RSS&feedName=topNews)
+2. [The Guardian](http://www.theguardian.com/world/2014/aug/29/syria-rebels-filipino-un-peacekeepers-golan-heights)
 
 ### Related:
 

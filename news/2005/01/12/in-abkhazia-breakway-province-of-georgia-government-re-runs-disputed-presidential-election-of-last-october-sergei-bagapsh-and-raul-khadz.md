@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Interfax](http://www.interfax.ru/e/B/0/28.html?id_issue=10738360)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/4166707.stm)
-3. [ITAR-TASS](http://www.tass.ru/eng/level2.html?NewsID=1633364&PageNum=0)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4166707.stm)
+2. [ITAR-TASS](http://www.tass.ru/eng/level2.html?NewsID=1633364&PageNum=0)
+3. [Interfax](http://www.interfax.ru/e/B/0/28.html?id_issue=10738360)
 
 ### Related:
 

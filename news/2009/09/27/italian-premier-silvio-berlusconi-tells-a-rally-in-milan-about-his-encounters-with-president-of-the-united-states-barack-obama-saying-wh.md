@@ -7,8 +7,8 @@ Silvio Berlusconi, Italy&#039;s gaffe-prone prime minister, has again referred t
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/italy/6237409/Silvio-Berlusconi-calls-Barack-Obama-tanned---again.html)
-2. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=3&art_id=nw20090927223141133C260445)
+1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=3&art_id=nw20090927223141133C260445)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/italy/6237409/Silvio-Berlusconi-calls-Barack-Obama-tanned---again.html)
 
 ### Related:
 

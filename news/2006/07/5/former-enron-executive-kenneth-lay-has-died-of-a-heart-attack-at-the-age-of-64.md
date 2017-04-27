@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=topNews&storyID=2006-07-05T141013Z_01_N05271279_RTRUKOC_0_UK-ENRON-LAY.xml)
-2. [KTRK](http://abclocal.go.com/ktrk/story?section=local&id=4335719)
+1. [KTRK](http://abclocal.go.com/ktrk/story?section=local&id=4335719)
+2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=topNews&storyID=2006-07-05T141013Z_01_N05271279_RTRUKOC_0_UK-ENRON-LAY.xml)
 
 ### Related:
 

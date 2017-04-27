@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/home/article/16077002)
-2. [Bloomberg](http://www.bloomberg.com/news/2011-09-26/asia-stocks-drop-led-by-japan-as-europe-debt-crisis-spurs-growth-concern.html)
+1. [Bloomberg](http://www.bloomberg.com/news/2011-09-26/asia-stocks-drop-led-by-japan-as-europe-debt-crisis-spurs-growth-concern.html)
+2. [BusinessWeek](http://www.businessweek.com/news/2011-09-25/japanese-australian-stock-futures-decline-on-europe-concern.html)
 3. [IBN](http://ibnlive.in.com/news/asian-markets-drop-as-investors-unload-stocks/187461-7.html)
-4. [BusinessWeek](http://www.businessweek.com/news/2011-09-25/japanese-australian-stock-futures-decline-on-europe-concern.html)
+4. [Sky News](http://news.sky.com/home/article/16077002)
 
 ### Related:
 

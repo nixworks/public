@@ -8,8 +8,8 @@ Islamabad, Nov 21 (IANS) At least six suspected militants were killed Sunday in 
 ### Source:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jgBKMj7y6iBAtC06lfHDccSQBBSA?docId=58e302431b2e406cb4c45026642840a7)
-2. [Sify](http://sify.com/news/drone-attack-kills-six-in-pakistan-news-international-klvvalceidf.html)
-3. [DNA India](http://www.dnaindia.com/world/report_six-killed-in-us-drone-strike-in-pakistan-s-tribal-belt_1470020)
+2. [DNA India](http://www.dnaindia.com/world/report_six-killed-in-us-drone-strike-in-pakistan-s-tribal-belt_1470020)
+3. [Sify](http://sify.com/news/drone-attack-kills-six-in-pakistan-news-international-klvvalceidf.html)
 
 ### Related:
 

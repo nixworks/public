@@ -7,8 +7,8 @@ Twenty-one people, including four children and six women, were killed when a min
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/10/16/us-syria-crisis-idUSBRE99E0IK20131016)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-24548415)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-24548415)
+2. [Reuters](http://www.reuters.com/article/2013/10/16/us-syria-crisis-idUSBRE99E0IK20131016)
 
 ### Related:
 

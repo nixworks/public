@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/meast/05/23/israel.vanunu.jailed/)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hoEb6ipwnbIUrk3cWmZYTPbeSSvwD9FSEGE80)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hoEb6ipwnbIUrk3cWmZYTPbeSSvwD9FSEGE80)
+2. [CNN](http://edition.cnn.com/2010/WORLD/meast/05/23/israel.vanunu.jailed/)
 
 ### Related:
 

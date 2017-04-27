@@ -8,8 +8,8 @@ A new nonprofit foundation headed by the first private space traveler, Dennis Ti
 ### Source:
 
 1. [Popular Mechanics](http://www.popularmechanics.com/science/space/moon-mars/the-crazy-plan-to-fly-two-humans-to-mars-in-2018-15152667)
-2. [The Telegraph](http://www.telegraph.co.uk/science/space/9898569/Billionaire-Dennis-Tito-unveils-plan-to-send-married-couple-to-Mars.html)
-3. [The Guardian](http://www.guardian.co.uk/science/2013/feb/27/mars-mission-plan-dennis-tito)
+2. [The Guardian](http://www.guardian.co.uk/science/2013/feb/27/mars-mission-plan-dennis-tito)
+3. [The Telegraph](http://www.telegraph.co.uk/science/space/9898569/Billionaire-Dennis-Tito-unveils-plan-to-send-married-couple-to-Mars.html)
 
 ### Related:
 

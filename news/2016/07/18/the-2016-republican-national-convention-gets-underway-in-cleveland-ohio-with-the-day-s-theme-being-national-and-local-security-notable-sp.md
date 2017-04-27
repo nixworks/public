@@ -8,8 +8,8 @@ Several protests took place in Cleveland on the opening day of the Republican Na
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/Politics/note-republican-national-convention-2016-kicks-off-cleveland/story?id=40661336)
-2. [UPI](http://www.upi.com/Top_News/US/2016/07/18/Demonstrators-peaceful-on-first-day-of-GOP-convention/3091468862640/?spt=hrs&or=2)
-3. [CNN](http://www.cnn.com/2016/07/19/politics/melania-trump-michelle-obama-speech/)
+2. [CNN](http://www.cnn.com/2016/07/19/politics/melania-trump-michelle-obama-speech/)
+3. [UPI](http://www.upi.com/Top_News/US/2016/07/18/Demonstrators-peaceful-on-first-day-of-GOP-convention/3091468862640/?spt=hrs&or=2)
 
 ### Related:
 

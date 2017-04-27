@@ -7,12 +7,12 @@
 
 ### Source:
 
-1. [Rustavi 2](http://rustavi2.com/news/news_text.php?id_news=28146&pg=1&im=main&ct=0&wth=)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601085&sid=a0dI7R_Mcfdk&refer=europe)
 2. [CNN](http://www.cnn.com/2008/WORLD/europe/10/03/georgia.bombing.ap/index.html)
 3. [Civil Georgia](http://www.civil.ge/eng/article.php?id=19662)
-4. [Rustavi 2](http://rustavi2.com/news/news_text.php?id_news=28148&pg=1&im=main&ct=0&wth=)
-5. [Civil Georgia](http://www.civil.ge/eng/article.php?id=19668)
-6. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601085&sid=a0dI7R_Mcfdk&refer=europe)
+4. [Civil Georgia](http://www.civil.ge/eng/article.php?id=19668)
+5. [Rustavi 2](http://rustavi2.com/news/news_text.php?id_news=28146&pg=1&im=main&ct=0&wth=)
+6. [Rustavi 2](http://rustavi2.com/news/news_text.php?id_news=28148&pg=1&im=main&ct=0&wth=)
 
 ### Related:
 

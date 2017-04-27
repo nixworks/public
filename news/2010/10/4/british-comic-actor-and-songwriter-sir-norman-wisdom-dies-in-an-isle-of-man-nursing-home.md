@@ -7,8 +7,8 @@ Sir Norman Wisdom, famous for his slapstick film roles, has died at the age of 9
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/culture/2010/oct/05/norman-wisdom-dies-aged-95?utm_source=twitterfeed&utm_medium=twitter)
-2. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11473192)
+1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11473192)
+2. [The Guardian](http://www.guardian.co.uk/culture/2010/oct/05/norman-wisdom-dies-aged-95?utm_source=twitterfeed&utm_medium=twitter)
 
 ### Related:
 

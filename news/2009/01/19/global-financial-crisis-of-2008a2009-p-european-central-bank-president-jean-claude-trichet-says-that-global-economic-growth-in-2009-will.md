@@ -7,9 +7,9 @@ Royal Bank of Scotland, one of Britain&#039;s biggest banks, was yesterday drive
 
 ### Source:
 
-1. [Telegraph](http://www.telegraph.co.uk/finance/newsbysector/banksandfinance/4292334/Royal-Bank-of-Scotland-driven-to-the-brink-of-nationalisation.html)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601085&sid=a2QNtDY.VxPM&refer=europe)
 2. [Sky News](http://news.sky.com/skynews/Home/Business/Chancellor-Alistair-Darling-To-Stake-Billions-On-A-Second-Bank-Bail-Out/Article/200901315205821?lpos=Business_Top_Stories_Header_1&lid=ARTICLE_15205821_Chancellor_Alistair_Darling_To_Stake_Billions_On_A_Second_Bank_Bail-Out)
-3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601085&sid=a2QNtDY.VxPM&refer=europe)
+3. [Telegraph](http://www.telegraph.co.uk/finance/newsbysector/banksandfinance/4292334/Royal-Bank-of-Scotland-driven-to-the-brink-of-nationalisation.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [VOA News](http://www.voanews.com/english/2005-05-25-voa88.cfm)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4577877.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4577877.stm)
+2. [VOA News](http://www.voanews.com/english/2005-05-25-voa88.cfm)
 
 ### Related:
 

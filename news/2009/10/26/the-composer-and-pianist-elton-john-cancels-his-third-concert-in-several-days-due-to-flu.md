@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/culture/music/music-news/6425727/Sir-Elton-John-pulls-out-of-second-concert-due-to-illness.html#)
-2. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8326898.stm)
-3. [CBC](http://www.cbc.ca/arts/music/story/2009/10/24/john-cancelled-concerts.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8326898.stm)
+2. [CBC](http://www.cbc.ca/arts/music/story/2009/10/24/john-cancelled-concerts.html)
+3. [The Daily Telegraph](http://www.telegraph.co.uk/culture/music/music-news/6425727/Sir-Elton-John-pulls-out-of-second-concert-due-to-illness.html#)
 
 ### Related:
 

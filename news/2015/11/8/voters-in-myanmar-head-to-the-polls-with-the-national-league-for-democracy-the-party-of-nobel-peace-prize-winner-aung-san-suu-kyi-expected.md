@@ -7,8 +7,8 @@ Voters across the former military dictatorship of Myanmar went to the polls Sund
 
 ### Source:
 
-1. [Los Angeles Times](http://www.latimes.com/world/asia/la-fg-voters-head-to-polls-in-former-military-dictatorship-of-myanmar-20151107-story.html)
-2. [Ahmedabad Mirror](http://www.ahmedabadmirror.com/news/world/Myanmar-vote-count-begins-on-Suu-Kyis-day-of-destiny/articleshow/49716295.cms)
+1. [Ahmedabad Mirror](http://www.ahmedabadmirror.com/news/world/Myanmar-vote-count-begins-on-Suu-Kyis-day-of-destiny/articleshow/49716295.cms)
+2. [Los Angeles Times](http://www.latimes.com/world/asia/la-fg-voters-head-to-polls-in-former-military-dictatorship-of-myanmar-20151107-story.html)
 
 ### Related:
 

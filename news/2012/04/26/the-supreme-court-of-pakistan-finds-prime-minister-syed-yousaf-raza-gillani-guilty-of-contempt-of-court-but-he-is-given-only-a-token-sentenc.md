@@ -7,8 +7,8 @@ Gilani held guilty of contempt but will not be arrested
 
 ### Source:
 
-1. [NDTV](http://www.ndtv.com/blog/show/contempt-case-gilani-to-appear-in-pakistan-supreme-court-202423)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-17848796#)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-17848796#)
+2. [NDTV](http://www.ndtv.com/blog/show/contempt-case-gilani-to-appear-in-pakistan-supreme-court-202423)
 
 ### Related:
 

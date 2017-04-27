@@ -7,8 +7,8 @@ After talks fail, governor announces Puerto Rico will not make nearly $370 milli
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-05-01/puerto-rico-will-default-on-government-development-bank-debt)
-2. [AP via CBS News](http://www.cbsnews.com/news/puerto-rico-to-default-on-370-million-debt-payments/)
+1. [AP via CBS News](http://www.cbsnews.com/news/puerto-rico-to-default-on-370-million-debt-payments/)
+2. [Bloomberg](http://www.bloomberg.com/news/articles/2016-05-01/puerto-rico-will-default-on-government-development-bank-debt)
 
 ### Related:
 

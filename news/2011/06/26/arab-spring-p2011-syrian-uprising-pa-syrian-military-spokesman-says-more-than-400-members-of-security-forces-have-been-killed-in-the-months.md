@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2011/WORLD/meast/06/26/syria.unrest/index.html?hpt=wo_c1)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-13921665)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-13921665)
+2. [CNN](http://www.cnn.com/2011/WORLD/meast/06/26/syria.unrest/index.html?hpt=wo_c1)
 3. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/report-hezbollah-moves-missiles-from-syria-to-lebanon-fearing-fall-of-assad-regime-1.369586)
 
 ### Related:

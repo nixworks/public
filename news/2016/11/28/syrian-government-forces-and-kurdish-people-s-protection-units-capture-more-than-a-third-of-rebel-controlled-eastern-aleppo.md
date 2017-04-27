@@ -7,11 +7,11 @@ Syrian government forces capture more than a third of rebel-held territory in ea
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Top_News/World-News/2016/11/28/Syrian-military-captures-part-of-rebel-held-Aleppo-as-civilians-flee/5691480322346)
-2. [The New York Times](http://www.nytimes.com/2016/11/28/world/middleeast/aleppo-syria.html?_r=0)
-3. [Anadolu Agency](http://aa.com.tr/en/middle-east/turkish-air-force-kills-11-daesh-terrorists-in-aleppo/695296)
-4. [BBC](http://www.bbc.com/news/world-middle-east-38128370)
-5. [South Front](https://southfront.org/militants-evacuate-from-khan-al-shih-hand-over-town-and-military-equipment-to-syrian-army/)
+1. [Anadolu Agency](http://aa.com.tr/en/middle-east/turkish-air-force-kills-11-daesh-terrorists-in-aleppo/695296)
+2. [BBC](http://www.bbc.com/news/world-middle-east-38128370)
+3. [South Front](https://southfront.org/militants-evacuate-from-khan-al-shih-hand-over-town-and-military-equipment-to-syrian-army/)
+4. [The New York Times](http://www.nytimes.com/2016/11/28/world/middleeast/aleppo-syria.html?_r=0)
+5. [UPI](http://www.upi.com/Top_News/World-News/2016/11/28/Syrian-military-captures-part-of-rebel-held-Aleppo-as-civilians-flee/5691480322346)
 
 ### Related:
 
@@ -22,6 +22,6 @@ Syrian government forces capture more than a third of rebel-held territory in ea
 5. [A triple truck-bomb attack on the Kurdish YPG militia-controlled town of Tell Tamer in Syria's northeast Al-Hasakah Governorate leaves as many as 50 people dead and 80 others wounded. The Islamic State of Iraq and the Levant claims responsibility for the attacks, saying in an online statement that three of its fighters driving three separate vehicles had detonated the suicide bombs targeting "bases" belonging to Kurdish fighters. ](/news/2015/12/11/a-triple-truck-bomb-attack-on-the-kurdish-ypg-militia-controlled-town-of-tell-tamer-in-syria-s-northeast-al-hasakah-governorate-leaves-as-ma.md) _Context: Kurdish, Syrian Civil War, YPG_
 6. [U.S. cargo planes airdrop small arms ammunition and other supplies to Syrian rebels, including Kurdish groups such as YPG, in northern Syria. ](/news/2015/10/12/u-s-cargo-planes-airdrop-small-arms-ammunition-and-other-supplies-to-syrian-rebels-including-kurdish-groups-such-as-ypg-in-northern-syria.md) _Context: Kurdish, Syrian Civil War, YPG_
 7. [Syrian civil war:Rebels clash with the Syrian military at an army base protecting Aleppo's international airport. The opposition claims that 40 Syrian soldiers were killed in the fighting, as large parts of the base are overrun. ](/news/2013/02/13/syrian-civil-war-prebels-clash-with-the-syrian-military-at-an-army-base-protecting-aleppo-s-international-airport-the-opposition-claims-tha.md) _Context: Aleppo, Syrian Armed Forces, Syrian Civil War_
-8. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also 5 Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-5-peshmerga-fighters-are-killed-during-a-tu.md) _Context: Kurdish, YPG_
+8. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also five Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey also claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-five-peshmerga-fighters-are-killed-during-a.md) _Context: Kurdish, YPG_
 9. [A car bomb strikes a convoy of buses near Aleppo which were carrying evacuees from the pro-government towns of Al-Fu'ah and Kafriya. Over 100 people are killed. ](/news/2017/04/15/a-car-bomb-strikes-a-convoy-of-buses-near-aleppo-which-were-carrying-evacuees-from-the-pro-government-towns-of-al-fu-ah-and-kafriya-over-10.md) _Context: Aleppo, Syrian Civil War_
 10. [An unknown perpetrator carries out an airstrike on a mosque in the rebel-held village of al-Jineh near Aleppo, killing at least 42 people. ](/news/2017/03/16/an-unknown-perpetrator-carries-out-an-airstrike-on-a-mosque-in-the-rebel-held-village-of-al-jineh-near-aleppo-killing-at-least-42-people.md) _Context: Aleppo, Syrian Civil War_

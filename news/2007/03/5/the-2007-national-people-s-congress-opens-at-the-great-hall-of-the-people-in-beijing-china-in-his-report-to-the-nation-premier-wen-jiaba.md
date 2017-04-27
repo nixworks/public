@@ -7,8 +7,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2007/BUSINESS/03/04/china.economy.ap/)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6418225.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6418225.stm)
+2. [CNN](http://edition.cnn.com/2007/BUSINESS/03/04/china.economy.ap/)
 3. [China Daily](http://www.chinadaily.com.cn/bizchina/2007-03/05/content_819489.htm)
 4. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyID=2007-03-05T010222Z_01_PEK277354_RTRUKOC_0_US-CHINA-PARLIAMENT-WEN.xml&WTmodLoc=NewsHome-C3-worldNews-2)
 

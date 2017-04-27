@@ -7,8 +7,8 @@ Turkey evacuated its military personnel protecting the Tomb of Süleyman Şah in
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2015/02/22/world/europe/turkish-military-enters-syria-to-evacuate-soldiers-guarding-tomb-reports-say.html?partner=socialflow&smid=tw-nytimes&_r=0)
-2. [Hurriyet Daily News](http://www.hurriyetdailynews.com/Default.aspx?pageID=238&nID=78662&NewsCatID=352)
+1. [Hurriyet Daily News](http://www.hurriyetdailynews.com/Default.aspx?pageID=238&nID=78662&NewsCatID=352)
+2. [New York Times](http://www.nytimes.com/2015/02/22/world/europe/turkish-military-enters-syria-to-evacuate-soldiers-guarding-tomb-reports-say.html?partner=socialflow&smid=tw-nytimes&_r=0)
 
 ### Related:
 

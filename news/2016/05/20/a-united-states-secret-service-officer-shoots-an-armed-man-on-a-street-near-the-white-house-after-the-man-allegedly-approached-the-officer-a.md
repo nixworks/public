@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2016/05/20/politics/u-s-park-police-shooting-near-white-house/index.html)
-2. [AP via Yahoo! News](https://www.yahoo.com/news/white-house-alert-shooting-street-outside-195303849.html?ref=gs)
+1. [AP via Yahoo! News](https://www.yahoo.com/news/white-house-alert-shooting-street-outside-195303849.html?ref=gs)
+2. [CNN](http://edition.cnn.com/2016/05/20/politics/u-s-park-police-shooting-near-white-house/index.html)
 
 ### Related:
 

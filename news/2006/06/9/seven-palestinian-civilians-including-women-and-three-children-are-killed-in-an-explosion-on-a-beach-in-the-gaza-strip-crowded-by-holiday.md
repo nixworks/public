@@ -7,14 +7,14 @@ After meeting with Israel&#39;s UN Ambassador Danny Gillerman, Secretary General
 
 ### Source:
 
-1. [Guardian](http://www.guardian.co.uk/israel/Story/0,,1796691,00.html)
-2. [Reuters](http://www.alertnet.org/thenews/newsdesk/L12267868.htm)
-3. [New York Times](http://www.nytimes.com/2006/06/09/world/middleeast/09cnd-mideast.html)
-4. [BBC](http://news.bbc.co.uk/2/hi/middle_east/5066768.stm)
-5. [The Australian](http://www.theaustralian.news.com.au/story/0,29867,19465042-2703.html)
-6. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3263509,00.html)
-7. [Haaretz](http://www.haaretz.com/hasen/spages/726162.html)
-8. [Süddeutsche Zeitung](http://www.sueddeutsche.de/ausland/artikel/315/78237)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/5066768.stm)
+2. [Guardian](http://www.guardian.co.uk/israel/Story/0,,1796691,00.html)
+3. [Haaretz](http://www.haaretz.com/hasen/spages/726162.html)
+4. [New York Times](http://www.nytimes.com/2006/06/09/world/middleeast/09cnd-mideast.html)
+5. [Reuters](http://www.alertnet.org/thenews/newsdesk/L12267868.htm)
+6. [Süddeutsche Zeitung](http://www.sueddeutsche.de/ausland/artikel/315/78237)
+7. [The Australian](http://www.theaustralian.news.com.au/story/0,29867,19465042-2703.html)
+8. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3263509,00.html)
 
 ### Related:
 

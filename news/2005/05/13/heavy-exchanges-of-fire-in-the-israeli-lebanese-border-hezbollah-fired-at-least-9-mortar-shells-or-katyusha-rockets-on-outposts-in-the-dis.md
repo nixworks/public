@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Haaretz](http://www.haaretz.com/hasen/spages/575761.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4545143.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4545143.stm)
+2. [Haaretz](http://www.haaretz.com/hasen/spages/575761.html)
 
 ### Related:
 

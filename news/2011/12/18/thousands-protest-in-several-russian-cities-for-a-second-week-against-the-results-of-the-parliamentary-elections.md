@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.ria.ru/russia/20111218/170344770.html)
-2. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5jy8RybMXb-cwJ9a5sNECIezkL_Kw?docId=5a6ef89aba6f44f2ba845c047053c6d8)
+1. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5jy8RybMXb-cwJ9a5sNECIezkL_Kw?docId=5a6ef89aba6f44f2ba845c047053c6d8)
+2. [RIA Novosti](http://en.ria.ru/russia/20111218/170344770.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Pope Benedict XVI becomes the first pontiff to resign in nearly 600 years, sayin
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2013/feb/11/pope-benedict-xvi-resigns-age)
-2. [BBC](http://www.bbc.co.uk/news/world-21411304)
+1. [BBC](http://www.bbc.co.uk/news/world-21411304)
+2. [The Guardian](http://www.guardian.co.uk/world/2013/feb/11/pope-benedict-xvi-resigns-age)
 3. [The New York Times](http://www.nytimes.com/2013/02/12/world/europe/pope-benedict-xvi-says-he-will-retire.html)
 
 ### Related:

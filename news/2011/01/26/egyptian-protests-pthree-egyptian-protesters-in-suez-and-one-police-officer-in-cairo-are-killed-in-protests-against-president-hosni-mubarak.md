@@ -7,11 +7,11 @@ More than 500 demonstrators arrested as thousands return to streets in protest o
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-12283849)
-2. [The Guardian](http://www.guardian.co.uk/world/audio/2011/jan/26/egypt-violence-jack-shenker-arrest-audio)
-3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/201112663450547321.html)
-4. [Bloomberg](http://www.bloomberg.com/news/2011-01-25/egyptian-policeman-two-people-killed-in-cairo-protest-inspired-by-tunisia.html)
-5. [CNN](http://edition.cnn.com/2011/WORLD/africa/01/26/egypt.protests/index.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/201112663450547321.html)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-12283849)
+3. [Bloomberg](http://www.bloomberg.com/news/2011-01-25/egyptian-policeman-two-people-killed-in-cairo-protest-inspired-by-tunisia.html)
+4. [CNN](http://edition.cnn.com/2011/WORLD/africa/01/26/egypt.protests/index.html)
+5. [The Guardian](http://www.guardian.co.uk/world/audio/2011/jan/26/egypt-violence-jack-shenker-arrest-audio)
 6. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-01/26/c_13707868.htm)
 
 ### Related:

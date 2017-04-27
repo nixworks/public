@@ -7,9 +7,9 @@ Gov. Mary Fallin (R) has not said if she plans to sign the bill.
 
 ### Source:
 
-1. [Washington Post](https://www.washingtonpost.com/news/post-nation/wp/2016/05/19/oklahoma-legislature-passes-bill-making-it-a-felony-to-perform-abortions/)
+1. [CNN](http://www.cnn.com/2016/05/20/politics/oklahoma-governor-vetoes-bill-that-would-criminalize-abortion/)
 2. [NY Times](http://www.nytimes.com/2016/05/20/us/oklahoma-bill-abortion-doctors.html?_r=0)
-3. [CNN](http://www.cnn.com/2016/05/20/politics/oklahoma-governor-vetoes-bill-that-would-criminalize-abortion/)
+3. [Washington Post](https://www.washingtonpost.com/news/post-nation/wp/2016/05/19/oklahoma-legislature-passes-bill-making-it-a-felony-to-perform-abortions/)
 
 ### Related:
 

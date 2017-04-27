@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/m/touch/sports/sports-soccer/story/2012/07/10/palestinian-soccer-player-freed-hunger-strike.html)
-2. [Bloomberg](http://www.businessweek.com/ap/2012-07-10/hunger-striking-palestinian-soccer-player-released)
+1. [Bloomberg](http://www.businessweek.com/ap/2012-07-10/hunger-striking-palestinian-soccer-player-released)
+2. [CBC](http://www.cbc.ca/m/touch/sports/sports-soccer/story/2012/07/10/palestinian-soccer-player-freed-hunger-strike.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ A large cluster of objects in space look like something you would &quot;expect a
 
 ### Source:
 
-1. [Independent](http://www.independent.co.uk/news/world/forget-water-on-mars-astronomers-may-have-just-found-giant-alien-megastructures-orbiting-a-star-near-a6693886.html)
-2. [Discovery News](http://news.discovery.com/space/alien-life-exoplanets/has-kepler-discovered-an-alien-megastructure-151014.htm)
+1. [Discovery News](http://news.discovery.com/space/alien-life-exoplanets/has-kepler-discovered-an-alien-megastructure-151014.htm)
+2. [Independent](http://www.independent.co.uk/news/world/forget-water-on-mars-astronomers-may-have-just-found-giant-alien-megastructures-orbiting-a-star-near-a6693886.html)
 
 ### Related:
 

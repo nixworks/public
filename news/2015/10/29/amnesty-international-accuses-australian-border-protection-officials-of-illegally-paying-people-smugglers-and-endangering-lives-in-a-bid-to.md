@@ -7,9 +7,9 @@ Amnesty International has accused Australian border protection officials of ille
 
 ### Source:
 
-1. [Sky News via Fox News](http://www.foxnews.com/world/2015/10/29/human-rights-group-accuses-australia-paying-smugglers-to-turn-refugee-boats-around/)
+1. [AI](https://www.amnesty.org/en/press-releases/2015/10/australia-damning-evidence-of-officials-involvement-in-transnational-crime-uncovered/)
 2. [International Business Times](http://www.ibtimes.com/australia-paid-people-smugglers-turn-back-refugee-boats-committed-transnational-crime-2161546)
-3. [AI](https://www.amnesty.org/en/press-releases/2015/10/australia-damning-evidence-of-officials-involvement-in-transnational-crime-uncovered/)
+3. [Sky News via Fox News](http://www.foxnews.com/world/2015/10/29/human-rights-group-accuses-australia-paying-smugglers-to-turn-refugee-boats-around/)
 
 ### Related:
 

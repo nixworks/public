@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-01-29/three-u-s-contractors-said-killed-in-kabul-airport-shooting)
-2. [AP](http://bigstory.ap.org/article/ac09f1ab3f0f48cf9e5fc326591d21d8/taliban-bomb-kills-4-attack-kills-11-afghanistan)
+1. [AP](http://bigstory.ap.org/article/ac09f1ab3f0f48cf9e5fc326591d21d8/taliban-bomb-kills-4-attack-kills-11-afghanistan)
+2. [Bloomberg](http://www.bloomberg.com/news/articles/2015-01-29/three-u-s-contractors-said-killed-in-kabul-airport-shooting)
 
 ### Related:
 

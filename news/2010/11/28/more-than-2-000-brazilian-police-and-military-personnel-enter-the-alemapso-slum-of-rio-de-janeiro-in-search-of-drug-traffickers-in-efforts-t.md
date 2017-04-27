@@ -7,9 +7,9 @@ Security forces seized control of a violent slum, claiming victory in a weeklong
 
 ### Source:
 
-1. [Voice of America](http://www.voanews.com/english/news/Brazil-Police-Military-Invade-Rios-Drug-Gang-Haven-110932584.html)
+1. [CNN](http://edition.cnn.com/2010/WORLD/americas/11/28/brazil.rio.violence/?hpt=T2)
 2. [The New York Times](http://www.nytimes.com/2010/11/29/world/americas/29brazil.html?src=mv)
-3. [CNN](http://edition.cnn.com/2010/WORLD/americas/11/28/brazil.rio.violence/?hpt=T2)
+3. [Voice of America](http://www.voanews.com/english/news/Brazil-Police-Military-Invade-Rios-Drug-Gang-Haven-110932584.html)
 
 ### Related:
 

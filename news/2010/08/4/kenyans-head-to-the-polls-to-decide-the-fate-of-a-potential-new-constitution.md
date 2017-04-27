@@ -8,9 +8,9 @@ Counting is under way in Kenya after a poll on political reform which seems to h
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/08/201084134156498556.html)
-2. [CNN](http://edition.cnn.com/2010/WORLD/africa/08/04/kenya.elections/index.html?hpt=T2)
-3. [Reuters](http://uk.reuters.com/article/idUKTRE6730EN20100804?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FUKWorldNews+%28News+%2F+UK+%2F+World+News%29)
-4. [BBC](http://www.bbc.co.uk/news/world-africa-10856761)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-10856761)
+3. [CNN](http://edition.cnn.com/2010/WORLD/africa/08/04/kenya.elections/index.html?hpt=T2)
+4. [Reuters](http://uk.reuters.com/article/idUKTRE6730EN20100804?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FUKWorldNews+%28News+%2F+UK+%2F+World+News%29)
 
 ### Related:
 

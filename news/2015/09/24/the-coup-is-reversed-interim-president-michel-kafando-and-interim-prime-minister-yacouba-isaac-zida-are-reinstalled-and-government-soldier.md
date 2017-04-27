@@ -7,9 +7,9 @@ The president of Burkina Faso was back in charge on Wednesday and said he would 
 
 ### Source:
 
-1. [Big News Network](http://www.bignewsnetwork.com/news/237041027/coup-reversal-restores-calm-in-burkina-faso)
-2. [Reuters](http://www.reuters.com/article/2015/09/24/us-burkina-army-president-idUSKCN0RN0U120150924)
-3. [AP via ''Washington Post](http://www.washingtonpost.com/world/africa/soldiers-leave-capital-burkina-faso-returns-to-calm/2015/09/24/fff67d9c-631d-11e5-8475-781cc9851652_story.html)
+1. [AP via ''Washington Post](http://www.washingtonpost.com/world/africa/soldiers-leave-capital-burkina-faso-returns-to-calm/2015/09/24/fff67d9c-631d-11e5-8475-781cc9851652_story.html)
+2. [Big News Network](http://www.bignewsnetwork.com/news/237041027/coup-reversal-restores-calm-in-burkina-faso)
+3. [Reuters](http://www.reuters.com/article/2015/09/24/us-burkina-army-president-idUSKCN0RN0U120150924)
 
 ### Related:
 

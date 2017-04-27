@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2009/nov/03/former-kgb-agent-shot-dead)
-2. [RIA Novosti](http://en.rian.ru/russia/20091102/156688225.html)
+1. [RIA Novosti](http://en.rian.ru/russia/20091102/156688225.html)
+2. [The Guardian](http://www.guardian.co.uk/world/2009/nov/03/former-kgb-agent-shot-dead)
 
 ### Related:
 

@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/film/2010/mar/03/hurt-locker-producer-oscars-ban)
+1. [ABC News](http://abcnews.go.com/Entertainment/war-hero-sues-makers-hurt-locker-stealing-identity/story?id=9999266)
 2. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8546775.stm)
 3. [CNN](http://www.cnn.com/2010/SHOWBIZ/Movies/03/03/hurt.locker.producer.oscars/)
-4. [ABC News](http://abcnews.go.com/Entertainment/war-hero-sues-makers-hurt-locker-stealing-identity/story?id=9999266)
+4. [The Guardian](http://www.guardian.co.uk/film/2010/mar/03/hurt-locker-producer-oscars-ban)
 
 ### Related:
 

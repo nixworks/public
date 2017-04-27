@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Business Week](http://www.businessweek.com/news/2010-08-26/u2-s-bono-jams-with-dissident-russian-rocker-hails-gorbachev.html)
-2. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11095761)
+1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11095761)
+2. [Business Week](http://www.businessweek.com/news/2010-08-26/u2-s-bono-jams-with-dissident-russian-rocker-hails-gorbachev.html)
 3. [RIA Novosti](http://en.rian.ru/society/20100826/160349226.html)
 
 ### Related:

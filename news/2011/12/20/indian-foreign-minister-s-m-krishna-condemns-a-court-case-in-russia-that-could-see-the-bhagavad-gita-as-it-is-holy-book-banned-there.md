@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [The Statesman](http://www.thestatesman.net/index.php?option=com_content&view=article&id=393903&catid=36)
-2. [The Economic Times](http://articles.economictimes.indiatimes.com/2011-12-20/news/30538106_1_bhagavad-gita-alexander-kadakin-russian-court)
-3. [BBC](http://www.bbc.co.uk/news/world-asia-india-16260767)
-4. [Hindustan Times](http://www.hindustantimes.com/India-news/NewDelhi/Declare-Bhagavad-Gita-as-national-book-demands-BJP/Article1-784744.aspx)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-india-16260767)
+2. [Hindustan Times](http://www.hindustantimes.com/India-news/NewDelhi/Declare-Bhagavad-Gita-as-national-book-demands-BJP/Article1-784744.aspx)
+3. [The Economic Times](http://articles.economictimes.indiatimes.com/2011-12-20/news/30538106_1_bhagavad-gita-alexander-kadakin-russian-court)
+4. [The Statesman](http://www.thestatesman.net/index.php?option=com_content&view=article&id=393903&catid=36)
 
 ### Related:
 

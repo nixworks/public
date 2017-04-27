@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [PressTV](http://www.presstv.ir/detail/162674.html)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5j8aELSIP1Ic1m-gIMa3Z2VFYmeVw?docId=CNG.30ff0b57ab72bd5eaa39bfcd8d0f2119.251)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5j8aELSIP1Ic1m-gIMa3Z2VFYmeVw?docId=CNG.30ff0b57ab72bd5eaa39bfcd8d0f2119.251)
+2. [PressTV](http://www.presstv.ir/detail/162674.html)
 
 ### Related:
 

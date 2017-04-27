@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [East African Standard](http://www.eastandard.net/hm_news/news.php?articleid=13159)
-2. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/EVIU-69KPH8?OpenDocument)
-3. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp;:420f4882:f89e7c7922363d7?type=topNews&localeKey=en_ZA&storyID=7611450)
-4. [BBC](http://news.bbc.co.uk/2/hi/africa/4262949.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4262949.stm)
+2. [East African Standard](http://www.eastandard.net/hm_news/news.php?articleid=13159)
+3. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/EVIU-69KPH8?OpenDocument)
+4. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp;:420f4882:f89e7c7922363d7?type=topNews&localeKey=en_ZA&storyID=7611450)
 
 ### Related:
 

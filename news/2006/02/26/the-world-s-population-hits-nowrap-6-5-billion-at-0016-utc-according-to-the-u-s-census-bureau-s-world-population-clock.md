@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USCB](http://www.census.gov/main/www/popclock.html)
-2. [Toronto Star](http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&pubid=968163964505&cid=1140826029712&col=968705899037&call_page=TS_News&call_pageid=968332188492&call_pagepath=News/News)
+1. [Toronto Star](http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&pubid=968163964505&cid=1140826029712&col=968705899037&call_page=TS_News&call_pageid=968332188492&call_pagepath=News/News)
+2. [USCB](http://www.census.gov/main/www/popclock.html)
 
 ### Related:
 

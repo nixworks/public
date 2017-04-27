@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sydney Morning Herald](http://www.smh.com.au/news/world/climber-walks-into-base-camp/2006/05/27/1148524925275.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/5019288.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/5019288.stm)
+2. [Sydney Morning Herald](http://www.smh.com.au/news/world/climber-walks-into-base-camp/2006/05/27/1148524925275.html)
 
 ### Related:
 

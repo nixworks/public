@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/HMYT-6CHNEC?OpenDocument)
-2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/IRIN/533a2e1308af8bbfcc43c877933b835e.htm)
-3. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1707219,00.html)
+1. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1707219,00.html)
+2. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/HMYT-6CHNEC?OpenDocument)
+3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/IRIN/533a2e1308af8bbfcc43c877933b835e.htm)
 
 ### Related:
 

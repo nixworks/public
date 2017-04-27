@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Seattle Times](http://seattletimes.com/html/nationworld/2019013216_apeugeorgiamilitants.html)
-2. [RIA Novosti](http://en.ria.ru/russia/20120829/175501559.html)
+1. [RIA Novosti](http://en.ria.ru/russia/20120829/175501559.html)
+2. [The Seattle Times](http://seattletimes.com/html/nationworld/2019013216_apeugeorgiamilitants.html)
 
 ### Related:
 

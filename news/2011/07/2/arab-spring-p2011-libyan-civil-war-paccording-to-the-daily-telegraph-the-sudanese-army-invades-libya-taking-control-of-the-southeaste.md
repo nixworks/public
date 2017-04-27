@@ -7,13 +7,13 @@ The Sudanese army has seized a town in southern Libya that is the gateway to oil
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-14000995)
-2. [Syrian Arab News Agency](http://www.sana.sy/eng/21/2011/07/02/355963.htm)
-3. [BBC](http://www.bbc.co.uk/news/world-africa-14003786?utm_source=twitterfeed&utm_medium=twitter)
-4. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/libya/8611199/Sudanese-army-seizes-southern-Libyan-town.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/2011729129878700.html)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-14003786?utm_source=twitterfeed&utm_medium=twitter)
+3. [BBC](http://www.bbc.co.uk/news/world-middle-east-14000995)
+4. [Gulf News](http://gulfnews.com/news/region/syria/assad-sacks-governor-of-syrian-flashpoint-city-hama-state-tv-1.831577)
 5. [Reuters](http://ca.reuters.com/article/topNews/idCATRE76019220110702?sp=true)
-6. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/2011729129878700.html)
-7. [Gulf News](http://gulfnews.com/news/region/syria/assad-sacks-governor-of-syrian-flashpoint-city-hama-state-tv-1.831577)
+6. [Syrian Arab News Agency](http://www.sana.sy/eng/21/2011/07/02/355963.htm)
+7. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/libya/8611199/Sudanese-army-seizes-southern-Libyan-town.html)
 
 ### Related:
 

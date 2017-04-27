@@ -7,11 +7,11 @@ A stampede at a railway station in Allahabad killed at least 36 Hindu pilgrims o
 
 ### Source:
 
-1. [Hindustan Times](http://www.hindustantimes.com/India-news/NewDelhi/4-feared-dead-in-rail-overbridge-collapse-in-Allahabad-PM-assures-all-possible-help/Article1-1009641.aspx)
-2. [The Hindu](http://www.thehindu.com/news/states/other-states/at-least-10-dead-in-allahabad-railway-station-stampede/article4400418.ece)
-3. [Reuters](http://www.reuters.com/article/2013/02/11/kumbh-mela-stampede-allahabad-update-idINDEE91907I20130211)
-4. [BBC](http://www.bbc.co.uk/news/world-asia-india-21395425)
-5. [CNN](http://edition.cnn.com/2013/02/10/world/asia/india-stampede-deaths)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-india-21395425)
+2. [CNN](http://edition.cnn.com/2013/02/10/world/asia/india-stampede-deaths)
+3. [Hindustan Times](http://www.hindustantimes.com/India-news/NewDelhi/4-feared-dead-in-rail-overbridge-collapse-in-Allahabad-PM-assures-all-possible-help/Article1-1009641.aspx)
+4. [Reuters](http://www.reuters.com/article/2013/02/11/kumbh-mela-stampede-allahabad-update-idINDEE91907I20130211)
+5. [The Hindu](http://www.thehindu.com/news/states/other-states/at-least-10-dead-in-allahabad-railway-station-stampede/article4400418.ece)
 
 ### Related:
 

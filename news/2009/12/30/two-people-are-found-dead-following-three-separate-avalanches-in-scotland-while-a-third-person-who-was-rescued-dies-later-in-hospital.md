@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Press Association](http://www.google.com/hostednews/ukpress/article/ALeqM5goM5jhhBUYkvn5NImh-lWgObRy8A)
-2. [BBC](http://news.bbc.co.uk/1/hi/scotland/highlands_and_islands/8434825.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/scotland/highlands_and_islands/8434825.stm)
+2. [The Press Association](http://www.google.com/hostednews/ukpress/article/ALeqM5goM5jhhBUYkvn5NImh-lWgObRy8A)
 
 ### Related:
 

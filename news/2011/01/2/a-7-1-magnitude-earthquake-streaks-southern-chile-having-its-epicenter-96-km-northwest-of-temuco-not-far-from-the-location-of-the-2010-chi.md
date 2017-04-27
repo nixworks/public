@@ -7,8 +7,8 @@ A 7.1-magnitude earthquake has struck central Chile, sending tens of thousands o
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2011/WORLD/americas/01/02/chile.earthquake/?hpt=T2)
-2. [CBC](http://www.cbc.ca/world/story/2011/01/02/chile-earthquake.html)
+1. [CBC](http://www.cbc.ca/world/story/2011/01/02/chile-earthquake.html)
+2. [CNN](http://edition.cnn.com/2011/WORLD/americas/01/02/chile.earthquake/?hpt=T2)
 3. [Radio Australia News](http://www.radioaustralianews.net.au/stories/201101/3105248.htm?desktop)
 
 ### Related:

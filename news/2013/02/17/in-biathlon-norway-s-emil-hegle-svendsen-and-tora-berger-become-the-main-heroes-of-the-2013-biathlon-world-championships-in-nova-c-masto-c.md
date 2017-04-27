@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [IBU](http://www3.biathlonworld.com/en/press_releases.html/do/detail?presse=1865)
-2. [Biathlon WC2013](http://www.biathlonnmnm.cz/en/clanek-norwegian-reign-confirmed-moravec-fourth-again-194.html)
+1. [Biathlon WC2013](http://www.biathlonnmnm.cz/en/clanek-norwegian-reign-confirmed-moravec-fourth-again-194.html)
+2. [IBU](http://www3.biathlonworld.com/en/press_releases.html/do/detail?presse=1865)
 
 ### Related:
 

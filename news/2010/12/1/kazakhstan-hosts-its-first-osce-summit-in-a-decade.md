@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [euronews](http://www.euronews.net/2010/12/01/osce-meets-in-kazakhstan/)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gWSWUPTYvrS9HXJQoOxEGx0Ck_Tg?docId=CNG.8f87b22ed229ce8a572883bc0e564dac.581)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gWSWUPTYvrS9HXJQoOxEGx0Ck_Tg?docId=CNG.8f87b22ed229ce8a572883bc0e564dac.581)
+2. [euronews](http://www.euronews.net/2010/12/01/osce-meets-in-kazakhstan/)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2010/08/17/MNEE1EUOIF.DTL)
-2. [BBC](http://www.bbc.co.uk/news/world-us-canada-10994651)
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-10994651)
+2. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2010/08/17/MNEE1EUOIF.DTL)
 
 ### Related:
 

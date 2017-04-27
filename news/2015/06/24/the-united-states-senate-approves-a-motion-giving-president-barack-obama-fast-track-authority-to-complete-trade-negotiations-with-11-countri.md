@@ -7,8 +7,8 @@ The Senate today gave final approval to the trade promotion authority bill by a 
 
 ### Source:
 
-1. [The Hagstrom Report via Tri-State Livestock News](http://www.tsln.com/news/16964210-113/senate-approves-tpa-and-taa-bills)
-2. [CNBC](http://www.cnbc.com/id/102785680)
+1. [CNBC](http://www.cnbc.com/id/102785680)
+2. [The Hagstrom Report via Tri-State Livestock News](http://www.tsln.com/news/16964210-113/senate-approves-tpa-and-taa-bills)
 3. [US Senate Democrats](http://democrats.senate.gov/2015/06/24/wrap-up-for-wednesday-june-24-2015/#.VZJ0n4fbK70)
 
 ### Related:

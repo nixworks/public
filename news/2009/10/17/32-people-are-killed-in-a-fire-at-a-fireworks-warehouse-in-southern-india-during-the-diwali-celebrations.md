@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Hindustan Times](http://www.hindustantimes.com/32-killed-in-godown-blaze-in-Tamil-Nadu/H1-Article1-466278.aspx)
-2. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/10/17/india.fireworks.deaths/)
+1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/10/17/india.fireworks.deaths/)
+2. [Hindustan Times](http://www.hindustantimes.com/32-killed-in-godown-blaze-in-Tamil-Nadu/H1-Article1-466278.aspx)
 
 ### Related:
 

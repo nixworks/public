@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2009-03/09/content_10977834.htm)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hdJvMRFwriJwIaVQxWnkQpVoq0KQ)
-3. [CNN](http://edition.cnn.com/2009/WORLD/africa/03/09/egypt.cargo.ship/)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hdJvMRFwriJwIaVQxWnkQpVoq0KQ)
+2. [CNN](http://edition.cnn.com/2009/WORLD/africa/03/09/egypt.cargo.ship/)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-03/09/content_10977834.htm)
 
 ### Related:
 

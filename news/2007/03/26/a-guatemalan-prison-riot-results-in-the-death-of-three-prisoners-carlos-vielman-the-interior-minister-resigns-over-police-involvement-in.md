@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/03/27/AR2007032700194.html)
-2. [AP via the Ottawa Recorder](http://www.newsone.ca/ottawarecorder/ViewArticle.aspx?id=9466&source=2)
+1. [AP via the Ottawa Recorder](http://www.newsone.ca/ottawarecorder/ViewArticle.aspx?id=9466&source=2)
+2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/03/27/AR2007032700194.html)
 
 ### Related:
 

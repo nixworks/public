@@ -7,9 +7,9 @@ In a landmark ruling a Kenya court rules that prisoners will be allowed to vote 
 
 ### Source:
 
-1. [Daily Nation](http://www.nation.co.ke/Referendum/Prisoners%20to%20register%20for%20Kenya%20referendum,%20rules%20court/-/926046/944844/-/tbeyagz/-/index.html)
-2. [KBC](http://www.kbc.co.ke/story.asp?ID=64811)
-3. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10395633.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10395633.stm)
+2. [Daily Nation](http://www.nation.co.ke/Referendum/Prisoners%20to%20register%20for%20Kenya%20referendum,%20rules%20court/-/926046/944844/-/tbeyagz/-/index.html)
+3. [KBC](http://www.kbc.co.ke/story.asp?ID=64811)
 
 ### Related:
 

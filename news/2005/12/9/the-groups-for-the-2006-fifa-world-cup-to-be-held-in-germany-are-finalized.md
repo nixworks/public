@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/football/world_cup_2006/4466032.stm)
-2. [Globe&Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20051210.wxwcup1210/BNStory/Sports/)
-3. [ChicagoTribune](http://www.chicagotribune.com/sports/soccer/cs-051209cup,1,6510915.story?coll=chi-sportsnew-hed&ctrack=1&cset=true)
+2. [ChicagoTribune](http://www.chicagotribune.com/sports/soccer/cs-051209cup,1,6510915.story?coll=chi-sportsnew-hed&ctrack=1&cset=true)
+3. [Globe&Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20051210.wxwcup1210/BNStory/Sports/)
 4. [SI](http://sportsillustrated.cnn.com/2005/writers/grant_wahl/12/09/cup.draw/)
 
 ### Related:

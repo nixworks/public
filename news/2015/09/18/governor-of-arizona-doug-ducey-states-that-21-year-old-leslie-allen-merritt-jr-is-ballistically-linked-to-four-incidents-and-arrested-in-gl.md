@@ -7,15 +7,15 @@ Arizona Governor Doug Ducey says the the suspect in the Phoenix freeway shooting
 
 ### Source:
 
-1. [HEAVY](http://heavy.com/news/2015/09/leslie-allen-merritt-arizona-highway-shooter-shootings-suspect-charged-arrested-phoenix-highway-10-shootings-sniper-gunman-swat-domestic-terrorism-bullets-cars-trucks-dps-ducey/)
+1. [ABC News](http://abcnews.go.com/US/wireStory/man-released-questioning-phoenix-freeway-shootings-33864489)
 2. [ABC15](http://www.abc15.com/news/region-phoenix-metro/central-phoenix/ducey-freeway-shooting-suspect-in-custody)
-3. [Yahoo News](http://news.yahoo.com/phoenix-freeway-shooting-suspect-im-wrong-guy-184734525.html#)
-4. [ABC News](http://abcnews.go.com/US/wireStory/man-released-questioning-phoenix-freeway-shootings-33864489)
-5. [NBC News](http://www.nbcnews.com/news/us-news/arizona-freeway-shooting-suspect-leslie-allen-merritt-held-1-million-n430196)
-6. [CNN](http://www.cnn.com/2015/09/19/us/phoenix-arizona-i-10-shootings-arrest/)
-7. [AZ Central](http://www.azcentral.com/story/news/local/phoenix/breaking/2015/09/18/doug-ducey-phoenix-freeway-shootings-suspect-custody/72439462/)
+3. [AZ Central](http://www.azcentral.com/story/news/local/phoenix/breaking/2015/09/18/doug-ducey-phoenix-freeway-shootings-suspect-custody/72439462/)
+4. [CNN](http://www.cnn.com/2015/09/19/us/phoenix-arizona-i-10-shootings-arrest/)
+5. [HEAVY](http://heavy.com/news/2015/09/leslie-allen-merritt-arizona-highway-shooter-shootings-suspect-charged-arrested-phoenix-highway-10-shootings-sniper-gunman-swat-domestic-terrorism-bullets-cars-trucks-dps-ducey/)
+6. [KOB](http://www.kob.com/article/stories/s3910893.shtml#.VfzQ4orF-nA)
+7. [NBC News](http://www.nbcnews.com/news/us-news/arizona-freeway-shooting-suspect-leslie-allen-merritt-held-1-million-n430196)
 8. [Q13FOX](http://q13fox.com/2015/09/18/we-got-him-suspect-arrested-in-i-10-shootings-in-phoenix-governor-says/)
-9. [KOB](http://www.kob.com/article/stories/s3910893.shtml#.VfzQ4orF-nA)
+9. [Yahoo News](http://news.yahoo.com/phoenix-freeway-shooting-suspect-im-wrong-guy-184734525.html#)
 
 ### Related:
 

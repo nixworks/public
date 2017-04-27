@@ -7,8 +7,8 @@ Some 29 people, 20 of them women, were killed on Saturday evening in an apartmen
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2014/07/12/us-iraq-security-apartment-idUSKBN0FH0TJ20140712?feedType=RSS&feedName=topNews)
-2. [AFP via ''Daily Star](http://www.dailystar.com.lb/News/Middle-East/2014/Jul-12/263628-kirkuk-bombings-kill-28-as-kurds-seize-oil-fields.ashx#axzz37J2PNI00)
+1. [AFP via ''Daily Star](http://www.dailystar.com.lb/News/Middle-East/2014/Jul-12/263628-kirkuk-bombings-kill-28-as-kurds-seize-oil-fields.ashx#axzz37J2PNI00)
+2. [Reuters](http://www.reuters.com/article/2014/07/12/us-iraq-security-apartment-idUSKBN0FH0TJ20140712?feedType=RSS&feedName=topNews)
 
 ### Related:
 

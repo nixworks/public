@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8243148.stm)
-2. [USGS](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2009lgbw.php#details)
-3. [The Georgian Times](http://www.geotimes.ge/index.php?m=home&newsid=18181)
+2. [The Georgian Times](http://www.geotimes.ge/index.php?m=home&newsid=18181)
+3. [USGS](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2009lgbw.php#details)
 
 ### Related:
 

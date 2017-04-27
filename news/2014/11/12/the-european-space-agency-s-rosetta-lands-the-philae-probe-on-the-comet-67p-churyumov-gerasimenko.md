@@ -7,8 +7,8 @@ Even before the Philae landing probe approaches the surface of Comet 67P/Churyum
 
 ### Source:
 
-1. [Washington Post](http://apps.washingtonpost.com/g/page/national/for-rosetta-a-comet-up-close/1450/)
-2. [BBC](http://www.bbc.co.uk/news/science-environment-30026398)
+1. [BBC](http://www.bbc.co.uk/news/science-environment-30026398)
+2. [Washington Post](http://apps.washingtonpost.com/g/page/national/for-rosetta-a-comet-up-close/1450/)
 
 ### Related:
 

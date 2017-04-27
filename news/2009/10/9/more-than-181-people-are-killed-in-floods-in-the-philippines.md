@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Landslides-kill-over-90-in-north-Philippines-Officials/articleshow/5104512.cms)
-2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=126&art_id=nw20091009130905941C599642)
+1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=126&art_id=nw20091009130905941C599642)
+2. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Landslides-kill-over-90-in-north-Philippines-Officials/articleshow/5104512.cms)
 
 ### Related:
 

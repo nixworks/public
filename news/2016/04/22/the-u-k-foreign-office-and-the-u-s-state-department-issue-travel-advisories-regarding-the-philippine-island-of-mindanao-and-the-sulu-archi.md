@@ -7,8 +7,8 @@ THE forthcoming May 9 national and local elections have prompted the Foreign and
 
 ### Source:
 
-1. [Sun Star Cebu](http://www.sunstar.com.ph/manila/local-news/2016/04/22/uk-issues-travel-advisory-vs-philippines-469376)
-2. [Rappler](http://www.rappler.com/nation/130363-us-warning-americans-mindanao)
+1. [Rappler](http://www.rappler.com/nation/130363-us-warning-americans-mindanao)
+2. [Sun Star Cebu](http://www.sunstar.com.ph/manila/local-news/2016/04/22/uk-issues-travel-advisory-vs-philippines-469376)
 
 ### Related:
 

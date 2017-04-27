@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Sydney Morning Herald](http://www.smh.com.au/world/china-gets-tough-as-vietnam-claims-disputed-islands-20120622-20th6.html)
-2. [Philippine Daily Inquirer](http://globalnation.inquirer.net/40967/china-urges-philippines-to-refrain-from-stirring-public-opinion)
+1. [Philippine Daily Inquirer](http://globalnation.inquirer.net/40967/china-urges-philippines-to-refrain-from-stirring-public-opinion)
+2. [The Sydney Morning Herald](http://www.smh.com.au/world/china-gets-tough-as-vietnam-claims-disputed-islands-20120622-20th6.html)
 
 ### Related:
 

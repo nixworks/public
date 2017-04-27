@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Radio-Canada](http://www.radio-canada.ca/nouvelles/International/2011/05/16/003-drogue-guatemala-tuerie.shtml)
-2. [NPR](http://www.npr.org/2011/05/16/136340063/massacre-in-northern-guatemala-leaves-27-dead)
+1. [NPR](http://www.npr.org/2011/05/16/136340063/massacre-in-northern-guatemala-leaves-27-dead)
+2. [Radio-Canada](http://www.radio-canada.ca/nouvelles/International/2011/05/16/003-drogue-guatemala-tuerie.shtml)
 
 ### Related:
 

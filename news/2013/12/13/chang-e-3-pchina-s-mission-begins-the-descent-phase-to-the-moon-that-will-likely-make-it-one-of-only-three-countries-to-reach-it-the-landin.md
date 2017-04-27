@@ -7,8 +7,8 @@ All systems appear to be “GO” for the world’s first attempt to soft land a
 
 ### Source:
 
-1. [Universe Today](http://www.universetoday.com/107169/chinas-change-3-moon-rover-descends-to-lower-orbit-sets-up-historic-soft-landing/)
-2. [CNN](http://www.cnn.com/2013/12/13/world/asia/china-moon-landing/)
+1. [CNN](http://www.cnn.com/2013/12/13/world/asia/china-moon-landing/)
+2. [Universe Today](http://www.universetoday.com/107169/chinas-change-3-moon-rover-descends-to-lower-orbit-sets-up-historic-soft-landing/)
 
 ### Related:
 

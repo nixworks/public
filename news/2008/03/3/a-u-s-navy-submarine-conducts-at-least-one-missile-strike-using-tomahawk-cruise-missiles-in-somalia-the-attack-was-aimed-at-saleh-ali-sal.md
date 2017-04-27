@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2008/WORLD/africa/03/04/somalia.us/index.html)
+1. [AFP via Google News](http://afp.google.com/article/ALeqM5ih46u1V-hSRuzDd5ZyfayaBE5Y2Q)
 2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/somalia;_ylt=Aj4XTqj8b8ZEijeABXGDEtGs0NUE)
-3. [AFP via Google News](http://afp.google.com/article/ALeqM5ih46u1V-hSRuzDd5ZyfayaBE5Y2Q)
+3. [CNN](http://www.cnn.com/2008/WORLD/africa/03/04/somalia.us/index.html)
 
 ### Related:
 

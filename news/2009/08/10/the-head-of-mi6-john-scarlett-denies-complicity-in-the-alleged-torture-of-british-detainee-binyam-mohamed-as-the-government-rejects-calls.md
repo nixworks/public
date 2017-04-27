@@ -7,9 +7,9 @@ An inquiry into allegations of UK complicity in torture has been rejected by the
 
 ### Source:
 
-1. [The Times](http://www.timesonline.co.uk/tol/news/uk/article6789733.ece)
-2. [BBC](http://news.bbc.co.uk/1/hi/uk/8188307.stm)
-3. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/politics/lawandorder/6004491/Torture-claims-no-British-Government-inquiry.html)
+1. [BBC](http://news.bbc.co.uk/1/hi/uk/8188307.stm)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/politics/lawandorder/6004491/Torture-claims-no-British-Government-inquiry.html)
+3. [The Times](http://www.timesonline.co.uk/tol/news/uk/article6789733.ece)
 
 ### Related:
 

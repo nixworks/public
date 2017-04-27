@@ -7,9 +7,9 @@ Medical workers in the city of Aden in southern Yemen say two explosions there h
 
 ### Source:
 
-1. [Voice of Russia](http://english.ruvr.ru/2010/10/12/25436416.html)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/10/2010101121103332192.html)
-3. [BBC](http://www.bbc.co.uk/news/world-middle-east-11521093)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/10/2010101121103332192.html)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11521093)
+3. [Voice of Russia](http://english.ruvr.ru/2010/10/12/25436416.html)
 
 ### Related:
 

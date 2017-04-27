@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [News Day](http://www.newsday.com/news/world/another-round-of-protests-in-brazilian-cities-1.5501273)
-2. [BBC](http://www.bbc.co.uk/news/world-latin-america-22946736)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-22946736)
+2. [News Day](http://www.newsday.com/news/world/another-round-of-protests-in-brazilian-cities-1.5501273)
 
 ### Related:
 

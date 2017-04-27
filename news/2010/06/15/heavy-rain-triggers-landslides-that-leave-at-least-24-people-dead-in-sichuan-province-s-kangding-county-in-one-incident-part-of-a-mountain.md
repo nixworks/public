@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [news.com.pk](http://thenews.com.pk/updates.asp?id=106672)
-2. [China Dialy](http://www.chinadaily.com.cn/china/2010-06/15/content_9978919.htm)
+1. [China Dialy](http://www.chinadaily.com.cn/china/2010-06/15/content_9978919.htm)
+2. [news.com.pk](http://thenews.com.pk/updates.asp?id=106672)
 
 ### Related:
 

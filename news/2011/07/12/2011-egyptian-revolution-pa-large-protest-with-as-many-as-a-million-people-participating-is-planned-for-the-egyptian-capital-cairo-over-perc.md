@@ -7,13 +7,13 @@ Thousands of Egyptians are protesting in Cairo to demand faster political reform
 
 ### Source:
 
-1. [News 24](http://www.news24.com/Africa/News/Egypt-number-plate-ministers-jailed-20110712)
-2. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=228717)
-3. [Gulf News](http://gulfnews.com/news/region/egypt/egyptian-protesters-unimpressed-by-promised-changes-1.837349)
+1. [AFP via France 24](http://www.france24.com/en/20110712-french-national-assembly-approves-military-operation-libya-nato)
+2. [AP via MSNBC](http://www.msnbc.msn.com/id/43719969/ns/world_news-mideast_n_africa/)
+3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/2011712141530691382.html)
 4. [BBC](http://www.bbc.co.uk/news/world-middle-east-14128073)
-5. [AFP via France 24](http://www.france24.com/en/20110712-french-national-assembly-approves-military-operation-libya-nato)
-6. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/2011712141530691382.html)
-7. [AP via MSNBC](http://www.msnbc.msn.com/id/43719969/ns/world_news-mideast_n_africa/)
+5. [Gulf News](http://gulfnews.com/news/region/egypt/egyptian-protesters-unimpressed-by-promised-changes-1.837349)
+6. [News 24](http://www.news24.com/Africa/News/Egypt-number-plate-ministers-jailed-20110712)
+7. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=228717)
 
 ### Related:
 

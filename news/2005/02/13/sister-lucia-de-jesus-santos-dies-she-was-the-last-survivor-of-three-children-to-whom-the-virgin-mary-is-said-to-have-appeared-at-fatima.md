@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Daily Telegraph](http://dailytelegraph.news.com.au/story.jsp?sectionid=1274&storyid=2659083)
-2. [CNN](http://edition.cnn.com/2005/WORLD/europe/02/13/portugal.fatima.reut/)
+1. [CNN](http://edition.cnn.com/2005/WORLD/europe/02/13/portugal.fatima.reut/)
+2. [Daily Telegraph](http://dailytelegraph.news.com.au/story.jsp?sectionid=1274&storyid=2659083)
 3. [Scotsman](http://news.scotsman.com/latest.cfm?id=4128739)
 
 ### Related:

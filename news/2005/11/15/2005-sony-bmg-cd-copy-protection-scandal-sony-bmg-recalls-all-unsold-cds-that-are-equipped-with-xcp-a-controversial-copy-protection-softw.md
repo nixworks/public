@@ -7,10 +7,10 @@ Get breaking business news, financial news, technology news and updates on marke
 
 ### Source:
 
-1. [Reuters](http://today.reuters.com/News/newsArticle.aspx?type=technologyNews&storyID=2005-11-16T100906Z_01_RID636392_RTRUKOC_0_US-SONYBMG-RECALL.xml)
+1. [BBC](http://news.bbc.co.uk/1/hi/technology/4441928.stm)
 2. [FT](http://news.ft.com/cms/s/e9e41f72-56f4-11da-b98c-00000e25118c.html)
-3. [BBC](http://news.bbc.co.uk/1/hi/technology/4441928.stm)
-4. [NBC4](http://www.nbc4.com/technology/5338178/detail.html)
+3. [NBC4](http://www.nbc4.com/technology/5338178/detail.html)
+4. [Reuters](http://today.reuters.com/News/newsArticle.aspx?type=technologyNews&storyID=2005-11-16T100906Z_01_RID636392_RTRUKOC_0_US-SONYBMG-RECALL.xml)
 5. [vnunet.com](http://www.vnunet.com/vnunet/news/2146053/sony-backs-root-kit-anti-piracy)
 
 ### Related:

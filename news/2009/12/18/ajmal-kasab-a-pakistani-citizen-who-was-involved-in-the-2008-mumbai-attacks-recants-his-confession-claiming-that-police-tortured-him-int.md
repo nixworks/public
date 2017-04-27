@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Press Trust Of India](http://www.hindustantimes.com/News-Feed/mumbai/Kasab-denies-taking-part-in-Mumbai-terror-attacks/Article1-487949.aspx)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hz0C0SXcxgP0NxzlqGA_EI57FBkQD9CLKT102)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hz0C0SXcxgP0NxzlqGA_EI57FBkQD9CLKT102)
+2. [Press Trust Of India](http://www.hindustantimes.com/News-Feed/mumbai/Kasab-denies-taking-part-in-Mumbai-terror-attacks/Article1-487949.aspx)
 
 ### Related:
 

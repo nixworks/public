@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=13&art_id=iol1263366105281S621)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jxTLzs7LQ7toyoAbN2Bcq_f6zddg)
-3. [Discovery News](http://news.discovery.com/animals/dinosaur-sized-shark-kills-tourist.html)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jxTLzs7LQ7toyoAbN2Bcq_f6zddg)
+2. [Discovery News](http://news.discovery.com/animals/dinosaur-sized-shark-kills-tourist.html)
+3. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=13&art_id=iol1263366105281S621)
 
 ### Related:
 

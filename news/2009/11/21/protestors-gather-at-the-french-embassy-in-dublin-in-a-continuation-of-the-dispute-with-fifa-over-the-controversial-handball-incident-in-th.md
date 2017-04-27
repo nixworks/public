@@ -7,8 +7,8 @@ A group of Irish soccer supporters gathered at the French Embassy in Dublin this
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2009/1121/ireland.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/8372123.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8372123.stm)
+2. [RTÉ](http://www.rte.ie/news/2009/1121/ireland.html)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1122/breaking7.htm)
 
 ### Related:

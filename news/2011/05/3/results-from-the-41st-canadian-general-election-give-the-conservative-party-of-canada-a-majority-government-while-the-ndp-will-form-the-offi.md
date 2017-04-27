@@ -7,11 +7,11 @@ The Conservative Party will again govern Canada, this time with a majority, foll
 
 ### Source:
 
-1. [NYT](http://www.nytimes.com/2011/05/03/world/americas/03canada.html)
-2. [BBC](http://www.bbc.co.uk/news/world-us-canada-13259484)
-3. [Globe and Mail](http://www.theglobeandmail.com/news/politics/)
-4. [CBC](http://www.cbc.ca/news/politics/)
-5. [CNN](http://edition.cnn.com/2011/WORLD/americas/05/03/canada.election/)
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-13259484)
+2. [CBC](http://www.cbc.ca/news/politics/)
+3. [CNN](http://edition.cnn.com/2011/WORLD/americas/05/03/canada.election/)
+4. [Globe and Mail](http://www.theglobeandmail.com/news/politics/)
+5. [NYT](http://www.nytimes.com/2011/05/03/world/americas/03canada.html)
 
 ### Related:
 

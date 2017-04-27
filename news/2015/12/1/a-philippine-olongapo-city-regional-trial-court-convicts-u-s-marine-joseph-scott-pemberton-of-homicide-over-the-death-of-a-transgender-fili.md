@@ -7,9 +7,9 @@ The court convicted U.S. Marine Joseph Scott Pemberton of the lesser charge of h
 
 ### Source:
 
-1. [Buzzfeed](http://www.buzzfeed.com/meredithtalusan/us-marine-is-guilty#.db5baRMGD)
-2. [Rappler](http://www.rappler.com/nation/114533-pemberton-ruling-jennifer-laude)
-3. [BBC](http://www.bbc.com/news/world-asia-34971925)
+1. [BBC](http://www.bbc.com/news/world-asia-34971925)
+2. [Buzzfeed](http://www.buzzfeed.com/meredithtalusan/us-marine-is-guilty#.db5baRMGD)
+3. [Rappler](http://www.rappler.com/nation/114533-pemberton-ruling-jennifer-laude)
 
 ### Related:
 

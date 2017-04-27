@@ -10,7 +10,7 @@ _Context: Beijing Olympiad, China, East Turkestan Islamic Movement, Xinjiang, te
 _Context: CENTCOM, David Petraeus, Multinational Force Iraq, Raymond T. Odierno, Senator_
 
 ### [ Iran: The United States Secretary of State Condoleezza Rice warns Iran that it should have no doubt that the United States will defend its allies including Israel. ](/news/2008/07/10/iran-p-the-united-states-secretary-of-state-condoleezza-rice-warns-iran-that-it-should-have-no-doubt-that-the-united-states-will-defend-its.md)
-_Context: Condoleezza Rice, Iran, Israel, U.S., United States Secretary of State_
+_Context: Condoleezza Rice, Iran, Israel, United States, United States Secretary of State_
 
 ### [ Georgia recalls its ambassador from Moscow after Russian fighters entered Georgian airspace. ](/news/2008/07/10/georgia-recalls-its-ambassador-from-moscow-after-russian-fighters-entered-georgian-airspace.md)
 _Context: Georgia, Moscow, Russia, recalls_

@@ -7,9 +7,9 @@ Assembly Minority Leader Peter Barca filed a complaint Thursday with the Dane Co
 
 ### Source:
 
-1. [The Capital Times](http://host.madison.com/ct/news/local/govt-and-politics/article_edd8ffae-4b3f-11e0-9f0f-001cc4c03286.html)
+1. [AP via ''Courier Post Online](http://www.courierpostonline.com/article/20110310/NEWS05/110310052/-1/VARSITY0323/Wis-lawmakers-cut-public-worker-bargaining-rights)
 2. [CNN](http://www.cnn.com/video/?on.cnn=1&launchLivePlayer=true&stream=1)
-3. [AP via ''Courier Post Online](http://www.courierpostonline.com/article/20110310/NEWS05/110310052/-1/VARSITY0323/Wis-lawmakers-cut-public-worker-bargaining-rights)
+3. [The Capital Times](http://host.madison.com/ct/news/local/govt-and-politics/article_edd8ffae-4b3f-11e0-9f0f-001cc4c03286.html)
 
 ### Related:
 

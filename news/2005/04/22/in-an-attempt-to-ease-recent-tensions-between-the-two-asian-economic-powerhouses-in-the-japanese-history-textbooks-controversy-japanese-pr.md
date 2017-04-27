@@ -7,11 +7,11 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Japan Today](http://www.japantoday.com/e/?content=news&cat=9&id=335039)
-2. [Telegraph UK](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2005/04/23/wjapan23.xml&sSheet=/news/2005/04/23/ixnewstop.html)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8260899)
-4. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=a9Maq0YTvPUQ&refer=top_world_news)
-5. [Guardian Unlimited](http://www.guardian.co.uk/japan/story/0,7369,1468519,00.html)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=a9Maq0YTvPUQ&refer=top_world_news)
+2. [Guardian Unlimited](http://www.guardian.co.uk/japan/story/0,7369,1468519,00.html)
+3. [Japan Today](http://www.japantoday.com/e/?content=news&cat=9&id=335039)
+4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8260899)
+5. [Telegraph UK](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2005/04/23/wjapan23.xml&sSheet=/news/2005/04/23/ixnewstop.html)
 
 ### Related:
 

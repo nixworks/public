@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [PTI](http://www.ptinews.com/news/1082667_Seventeen-killed-in-road-mishap)
-2. [PTI'' via Mathrubhumi](http://www.mathrubhumi.com/english/story.php?id=100118)
+1. [PTI'' via Mathrubhumi](http://www.mathrubhumi.com/english/story.php?id=100118)
+2. [PTI](http://www.ptinews.com/news/1082667_Seventeen-killed-in-road-mishap)
 
 ### Related:
 

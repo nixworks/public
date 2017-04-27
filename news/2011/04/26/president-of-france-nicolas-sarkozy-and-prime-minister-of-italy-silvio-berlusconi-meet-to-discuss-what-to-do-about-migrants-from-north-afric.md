@@ -7,8 +7,8 @@ Sarkozy and Berlusconi call on EU to change the Schengen treaty following row ov
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-13189682)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/04/2011426133426296195.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/04/2011426133426296195.html)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-13189682)
 
 ### Related:
 

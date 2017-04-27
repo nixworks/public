@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://money.cnn.com/2007/01/09/technology/apple_jobs/index.htm?cnn=yes)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aDENdA6FCxQg&refer=home)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aDENdA6FCxQg&refer=home)
+2. [CNN](http://money.cnn.com/2007/01/09/technology/apple_jobs/index.htm?cnn=yes)
 3. [InfoWorld](http://www.infoworld.com/article/07/01/09/HNiphoneappletv_1.html)
 4. [Wired News](http://www.wired.com/news/culture/mac/0,72447-0.html)
 

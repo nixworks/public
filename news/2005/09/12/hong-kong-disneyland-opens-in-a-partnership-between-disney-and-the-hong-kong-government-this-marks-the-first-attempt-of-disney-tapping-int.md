@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://money.cnn.com/2005/09/12/news/fortune500/hongkongdisney/)
-2. [BBC](http://news.bbc.co.uk/2/hi/business/4236718.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/business/4236718.stm)
+2. [CNN](http://money.cnn.com/2005/09/12/news/fortune500/hongkongdisney/)
 
 ### Related:
 

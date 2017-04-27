@@ -7,8 +7,8 @@ Thousands of people have fled their homes in Assam after fighting between indige
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/india/Nineteen-dead-50000-flee-as-violence-grips-Assam/articleshow/15109436.cms)
-2. [Reuters](http://in.reuters.com/article/2012/07/23/india-violence-assam-flood-idINDEE86M03J20120723?feedType=RSS&feedName=globalCoverage2)
+1. [Reuters](http://in.reuters.com/article/2012/07/23/india-violence-assam-flood-idINDEE86M03J20120723?feedType=RSS&feedName=globalCoverage2)
+2. [Times of India](http://timesofindia.indiatimes.com/india/Nineteen-dead-50000-flee-as-violence-grips-Assam/articleshow/15109436.cms)
 
 ### Related:
 

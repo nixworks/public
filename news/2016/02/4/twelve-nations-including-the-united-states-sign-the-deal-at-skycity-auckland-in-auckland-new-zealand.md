@@ -7,8 +7,8 @@ The long-awaited Trans Pacific Partnership, one of the biggest multinational tra
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Top_News/World-News/2016/02/03/US-11-nations-sign-contested-Trans-Pacific-trade-deal-Sanders-vows-to-kill-it-if-elected/3911454547462/)
-2. [BBC](http://www.bbc.com/news/business-35480600)
+1. [BBC](http://www.bbc.com/news/business-35480600)
+2. [UPI](http://www.upi.com/Top_News/World-News/2016/02/03/US-11-nations-sign-contested-Trans-Pacific-trade-deal-Sanders-vows-to-kill-it-if-elected/3911454547462/)
 
 ### Related:
 

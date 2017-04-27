@@ -7,9 +7,9 @@ Group’s leader, Abu Mohammad al-Jolani, says move is aimed at ‘removing excu
 
 ### Source:
 
-1. [Huffington Post](http://www.huffingtonpost.com/entry/assad-amnesty-syria_us_5799d334e4b01180b531cc93)
-2. [The Guardian](https://www.theguardian.com/world/2016/jul/28/al-qaida-syria-nusra-split-terror-network)
-3. [CBS News](http://www.cbsnews.com/news/russia-announces-humanitarian-operation-in-besieged-aleppo/)
+1. [CBS News](http://www.cbsnews.com/news/russia-announces-humanitarian-operation-in-besieged-aleppo/)
+2. [Huffington Post](http://www.huffingtonpost.com/entry/assad-amnesty-syria_us_5799d334e4b01180b531cc93)
+3. [The Guardian](https://www.theguardian.com/world/2016/jul/28/al-qaida-syria-nusra-split-terror-network)
 
 ### Related:
 

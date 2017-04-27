@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [IHT](http://www.iht.com/articles/ap/2007/01/01/business/EU_FIN_ECO_Slovenia_Euro.php)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/6222115.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/6222115.stm)
+2. [IHT](http://www.iht.com/articles/ap/2007/01/01/business/EU_FIN_ECO_Slovenia_Euro.php)
 
 ### Related:
 

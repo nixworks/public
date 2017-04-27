@@ -7,8 +7,8 @@ Russia says it has tested the world&#039;s most powerful vacuum bomb.
 
 ### Source:
 
-1. [Lenta.ru (in Russian](http://www.lenta.ru/articles/2007/09/12/bomb/)
-2. [ABC News Australia](http://www.abc.net.au/news/stories/2007/09/12/2030378.htm)
+1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/09/12/2030378.htm)
+2. [Lenta.ru (in Russian](http://www.lenta.ru/articles/2007/09/12/bomb/)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://za.today.reuters.com/news/NewsArticle.aspx?type=topNews&storyID=2007-03-13T062631Z_01_BAN323137_RTRIDST_0_OZATP-MAURITANIA-ELECTION-20070313.XML)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/6442029.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/6442029.stm)
+2. [Reuters](http://za.today.reuters.com/news/NewsArticle.aspx?type=topNews&storyID=2007-03-13T062631Z_01_BAN323137_RTRIDST_0_OZATP-MAURITANIA-ELECTION-20070313.XML)
 3. [Xinhua via People's Daily](http://english.people.com.cn/200703/12/eng20070312_356803.html)
 
 ### Related:

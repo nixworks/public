@@ -7,8 +7,8 @@ The PAs of Nigella Lawson and Charles Saatchi were spending an average of £76,0
 
 ### Source:
 
-1. [Sydney Morning Herald](http://www.smh.com.au/lifestyle/celebrity/nigella-lawson-personal-assistants-treated-worse-than-filipino-slaves-court-told-20131129-2yeyy.html)
-2. [BBC](http://www.bbc.co.uk/news/uk-england-london-25137624)
+1. [BBC](http://www.bbc.co.uk/news/uk-england-london-25137624)
+2. [Sydney Morning Herald](http://www.smh.com.au/lifestyle/celebrity/nigella-lawson-personal-assistants-treated-worse-than-filipino-slaves-court-told-20131129-2yeyy.html)
 
 ### Related:
 

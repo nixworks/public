@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2014/01/17/world/asia/thailand-protests/index.html?eref=edition)
-2. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-01-17-Thailand-Politics/id-1794cf90406c4aab84749dd6f1520c7f)
+1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-01-17-Thailand-Politics/id-1794cf90406c4aab84749dd6f1520c7f)
+2. [CNN](http://edition.cnn.com/2014/01/17/world/asia/thailand-protests/index.html?eref=edition)
 
 ### Related:
 

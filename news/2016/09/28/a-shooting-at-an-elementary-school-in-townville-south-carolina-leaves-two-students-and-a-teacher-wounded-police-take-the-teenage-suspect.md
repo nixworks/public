@@ -7,9 +7,9 @@ One of the students was in critical condition and the suspected attacker was in 
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/news/us-news/shooting-injuries-reported-south-carolina-elementary-school-n656181)
-2. [The Washington Post](https://www.washingtonpost.com/news/post-nation/wp/2016/09/28/shooting-reported-at-south-carolina-elementary-school/?utm_term=.d2d8374ce5fd)
-3. [Greenville Online](http://www.greenvilleonline.com/story/news/crime/2016/10/01/jacob-hall-townville-elementary-shooting-victim-has-died/91395546/)
+1. [Greenville Online](http://www.greenvilleonline.com/story/news/crime/2016/10/01/jacob-hall-townville-elementary-shooting-victim-has-died/91395546/)
+2. [NBC News](http://www.nbcnews.com/news/us-news/shooting-injuries-reported-south-carolina-elementary-school-n656181)
+3. [The Washington Post](https://www.washingtonpost.com/news/post-nation/wp/2016/09/28/shooting-reported-at-south-carolina-elementary-school/?utm_term=.d2d8374ce5fd)
 
 ### Related:
 

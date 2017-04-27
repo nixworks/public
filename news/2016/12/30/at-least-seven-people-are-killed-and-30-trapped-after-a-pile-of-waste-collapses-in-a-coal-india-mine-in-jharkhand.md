@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-india-mine-collapse-idUSKBN14J0F0)
-2. [CNN](http://edition.cnn.com/2016/12/30/asia/mine-collapse-india/index.html)
+1. [CNN](http://edition.cnn.com/2016/12/30/asia/mine-collapse-india/index.html)
+2. [Reuters](http://www.reuters.com/article/us-india-mine-collapse-idUSKBN14J0F0)
 
 ### Related:
 

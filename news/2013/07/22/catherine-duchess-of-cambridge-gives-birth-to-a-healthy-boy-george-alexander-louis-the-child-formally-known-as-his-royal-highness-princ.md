@@ -7,10 +7,10 @@ The Duke and Duchess of Cambridge name their son George Alexander Louis, Kensing
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2013/07/12/world/europe/royal-baby-live-updates/index.html?hpt=hp_c1)
-2. [New Zealand Stuff](http://www.stuff.co.nz/world/europe/8949694/Duchess-of-Cambridge-goes-into-labour)
-3. [The Guardian](http://www.guardian.co.uk/uk-news/2013/jul/24/prince-george-alexander-louis-royal-baby)
-4. [BBC](http://www.bbc.co.uk/news/uk-23443504)
+1. [BBC](http://www.bbc.co.uk/news/uk-23443504)
+2. [CNN](http://edition.cnn.com/2013/07/12/world/europe/royal-baby-live-updates/index.html?hpt=hp_c1)
+3. [New Zealand Stuff](http://www.stuff.co.nz/world/europe/8949694/Duchess-of-Cambridge-goes-into-labour)
+4. [The Guardian](http://www.guardian.co.uk/uk-news/2013/jul/24/prince-george-alexander-louis-royal-baby)
 
 ### Related:
 

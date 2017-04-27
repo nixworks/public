@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Standard, Kenya](https://web.archive.org/web/20050204233243/http://www.eastandard.net/hm_news/news.php?articleid=12143)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/4222655.stm)
-3. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp?type=topNews&localeKey=en_ZA&storyID=7494172)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4222655.stm)
+2. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp?type=topNews&localeKey=en_ZA&storyID=7494172)
+3. [Standard, Kenya](https://web.archive.org/web/20050204233243/http://www.eastandard.net/hm_news/news.php?articleid=12143)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Researchers have used X-ray techniques to uncover the cause of death of a 700-ye
 
 ### Source:
 
-1. [Fox News](http://www.foxnews.com/story/0,2933,594404,00.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fhealth+%28Text+-+Health%29)
-2. [BBC](http://news.bbc.co.uk/2/hi/health/10286267.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/health/10286267.stm)
+2. [Fox News](http://www.foxnews.com/story/0,2933,594404,00.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fhealth+%28Text+-+Health%29)
 3. [The Star](http://www.thestar.co.za/index.php?fArticleId=5510264)
 
 ### Related:

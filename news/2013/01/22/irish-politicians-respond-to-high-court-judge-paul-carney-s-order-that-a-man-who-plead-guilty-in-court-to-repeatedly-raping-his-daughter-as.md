@@ -7,8 +7,8 @@ The prime minister of the Irish Republic says he hopes other rape victims will n
 
 ### Source:
 
-1. [Irish Independent](http://www.independent.ie/national-news/taoiseach-hopes-rape-victims-will-not-be-discouraged-by-patrick-obrien-case-3362383.html)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-21151193)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-21151193)
+2. [Irish Independent](http://www.independent.ie/national-news/taoiseach-hopes-rape-victims-will-not-be-discouraged-by-patrick-obrien-case-3362383.html)
 
 ### Related:
 

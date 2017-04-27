@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Reuters](http://www.trust.org/item/20140724180345-xplag/)
-2. [The Australian](http://www.theaustralian.com.au/in-depth/mh17/investigators-find-huge-piece-of-mh17-jet-in-ukraine-wood/story-fno88it0-1227001432692)
-3. [Kyiv Post](http://www.kyivpost.com/content/ukraine/ukraine-advances-after-heavy-fighting-357839.html)
-4. [Kyiv Post](http://www.kyivpost.com/content/ukraine/ukrainian-troops-enter-lysychansk-357777.html)
+1. [Kyiv Post](http://www.kyivpost.com/content/ukraine/ukraine-advances-after-heavy-fighting-357839.html)
+2. [Kyiv Post](http://www.kyivpost.com/content/ukraine/ukrainian-troops-enter-lysychansk-357777.html)
+3. [Reuters](http://www.trust.org/item/20140724180345-xplag/)
+4. [The Australian](http://www.theaustralian.com.au/in-depth/mh17/investigators-find-huge-piece-of-mh17-jet-in-ukraine-wood/story-fno88it0-1227001432692)
 
 ### Related:
 

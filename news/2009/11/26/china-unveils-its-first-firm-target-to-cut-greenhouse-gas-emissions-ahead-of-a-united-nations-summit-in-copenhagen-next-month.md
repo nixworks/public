@@ -7,9 +7,9 @@ Harrison and Chris Buckley
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2009-11/26/content_12544181.htm)
-2. [Reuters](http://www.reuters.com/article/newsOne/idUSTRE5AP11H20091126)
-3. [The Times](http://www.timesonline.co.uk/tol/news/environment/article6933127.ece)
+1. [Reuters](http://www.reuters.com/article/newsOne/idUSTRE5AP11H20091126)
+2. [The Times](http://www.timesonline.co.uk/tol/news/environment/article6933127.ece)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-11/26/content_12544181.htm)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Iranian lawmakers approved three new ministers on Tuesday, signaling support for
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-iran-politics-cabinet-idUSKBN12W4AJ?feedType=RSS&feedName=worldNews)
-2. [PressTV](http://www.presstv.ir/Detail/2016/11/01/491659/Iran-Parliament-Hassan-Rouhani-Massoud-Soltanifar-Fakhroddin-Ahmadi-Danesh-Ashtiani-Reza-Salehi-Amiri)
+1. [PressTV](http://www.presstv.ir/Detail/2016/11/01/491659/Iran-Parliament-Hassan-Rouhani-Massoud-Soltanifar-Fakhroddin-Ahmadi-Danesh-Ashtiani-Reza-Salehi-Amiri)
+2. [Reuters](http://www.reuters.com/article/us-iran-politics-cabinet-idUSKBN12W4AJ?feedType=RSS&feedName=worldNews)
 
 ### Related:
 

@@ -7,8 +7,8 @@ A gunman opened fire on a campaign rally near Taipei yesterday, killing one man 
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/world/asia/shooting-mars-taiwan-local-elections-2145025.html)
-2. [Focus Taiwan News Channel](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?Type=aIPL&ID=201011270001)
+1. [Focus Taiwan News Channel](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?Type=aIPL&ID=201011270001)
+2. [The Independent](http://www.independent.co.uk/news/world/asia/shooting-mars-taiwan-local-elections-2145025.html)
 
 ### Related:
 

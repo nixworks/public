@@ -8,8 +8,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4408607.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8075313)
-3. [Kosovareport commentary](http://kosovareport.blogspot.com/2005/04/top-serb-war-crimes-suspect-arrives-at.html)
+2. [Kosovareport commentary](http://kosovareport.blogspot.com/2005/04/top-serb-war-crimes-suspect-arrives-at.html)
+3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8075313)
 
 ### Related:
 

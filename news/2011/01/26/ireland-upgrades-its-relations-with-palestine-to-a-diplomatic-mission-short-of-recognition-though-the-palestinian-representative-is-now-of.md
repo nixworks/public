@@ -7,8 +7,8 @@ Ireland upgrades Palestinian mission in Dublin to embassy in all but name; Israe
 
 ### Source:
 
-1. [Israel Today](http://www.israeltoday.co.il/NewsItem/tabid/178/nid/22629/Default.aspx)
-2. [Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/local-national/republic-of-ireland/republic-of-irelands-palestine-upgrade-strains-israeli-relations-15064227.html)
+1. [Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/local-national/republic-of-ireland/republic-of-irelands-palestine-upgrade-strains-israeli-relations-15064227.html)
+2. [Israel Today](http://www.israeltoday.co.il/NewsItem/tabid/178/nid/22629/Default.aspx)
 
 ### Related:
 

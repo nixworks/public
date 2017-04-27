@@ -7,8 +7,8 @@ The blast occurred in Diyarbakir near a building used by police.
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/world/2016/11/04/deaths-injuries-car-bombing-turkey/93279568/)
-2. [NPR](http://www.npr.org/sections/thetwo-way/2016/11/04/500644676/car-bomb-kills-8-in-turkey-after-pro-kurdish-legislators-detained-for-questionin)
+1. [NPR](http://www.npr.org/sections/thetwo-way/2016/11/04/500644676/car-bomb-kills-8-in-turkey-after-pro-kurdish-legislators-detained-for-questionin)
+2. [USA Today](http://www.usatoday.com/story/news/world/2016/11/04/deaths-injuries-car-bombing-turkey/93279568/)
 
 ### Related:
 
@@ -21,4 +21,4 @@ The blast occurred in Diyarbakir near a building used by police.
 7. [Kurdish-Turkish conflict:Jailed Kurdistan Workers' Party leader Abdullah Ocalan makes historic calls for dialogue with Turkey after almost thirty years of violent conflict. ](/news/2013/03/21/kurdishaturkish-conflict-pjailed-kurdistan-workers-party-leader-abdullah-acalan-makes-historic-calls-for-dialogue-with-turkey-after-almo.md) _Context: Kurdish–Turkish conflict, Turkish_
 8. [Kurdish-Turkish conflict:Two people are injured in explosions at Turkey's justice ministry and the headquarters of the governing AK Party in Ankara. ](/news/2013/03/19/kurdishaturkish-conflict-ptwo-people-are-injured-in-explosions-at-turkey-s-justice-ministry-and-the-headquarters-of-the-governing-ak-party.md) _Context: Kurdish–Turkish conflict, Turkish_
 9. [Kurdish-Turkish conflict:Kurdish rebels release eight Turkish citizens that had been held captive for two years. ](/news/2013/03/13/kurdishaturkish-conflict-pkurdish-rebels-release-eight-turkish-citizens-that-had-been-held-captive-for-two-years.md) _Context: Kurdish–Turkish conflict, Turkish_
-10. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also 5 Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-5-peshmerga-fighters-are-killed-during-a-tu.md) _Context: Turkish_
+10. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also five Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey also claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-five-peshmerga-fighters-are-killed-during-a.md) _Context: Turkish_

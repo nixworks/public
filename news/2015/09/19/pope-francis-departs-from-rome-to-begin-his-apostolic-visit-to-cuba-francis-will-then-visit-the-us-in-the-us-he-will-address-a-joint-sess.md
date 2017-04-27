@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [USCCB](http://www.usccb.org/about/leadership/holy-see/francis/papal-visit-2015/index.cfm)
-2. [Vatican](http://w2.vatican.va/content/francesco/it/events/event.dir.html/content/vaticanevents/it/2015/9/19/cubausaonu.html)
-3. [The New York Times](http://www.nytimes.com/2015/09/19/world/europe/pope-francis.html)
+1. [The New York Times](http://www.nytimes.com/2015/09/19/world/europe/pope-francis.html)
+2. [USCCB](http://www.usccb.org/about/leadership/holy-see/francis/papal-visit-2015/index.cfm)
+3. [Vatican](http://w2.vatican.va/content/francesco/it/events/event.dir.html/content/vaticanevents/it/2015/9/19/cubausaonu.html)
 
 ### Related:
 

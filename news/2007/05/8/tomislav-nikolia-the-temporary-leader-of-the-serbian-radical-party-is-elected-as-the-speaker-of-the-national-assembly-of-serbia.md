@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/europe/6633801.stm)
-2. [AP via CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20070507/serbia_politics_070507/20070507?hub=World)
+1. [AP via CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20070507/serbia_politics_070507/20070507?hub=World)
+2. [BBC](http://news.bbc.co.uk/2/hi/europe/6633801.stm)
 
 ### Related:
 

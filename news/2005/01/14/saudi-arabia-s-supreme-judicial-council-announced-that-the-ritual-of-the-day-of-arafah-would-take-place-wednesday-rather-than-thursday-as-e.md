@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/saudi/story/0,11599,1392816,00.html)
-2. [Arabicnews.com](http://www.arabicnews.com/ansub/Daily/Day/050115/2005011511.html)
+1. [Arabicnews.com](http://www.arabicnews.com/ansub/Daily/Day/050115/2005011511.html)
+2. [The Guardian](http://www.guardian.co.uk/saudi/story/0,11599,1392816,00.html)
 
 ### Related:
 

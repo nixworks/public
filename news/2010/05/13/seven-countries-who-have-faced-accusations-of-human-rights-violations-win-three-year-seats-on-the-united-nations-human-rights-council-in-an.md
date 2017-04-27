@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Guatemala Times](http://www.guatemala-times.com/news/world/1567-human-rights-groups-oppose-un-human-rights-council-seats-for-qaddafis-libya-angola-mauritania-qatar-malaysia.html)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gZdLKJ1DpWlvYd0Jh0EKv9h-ynAQD9FM4CEG0)
-3. [Reuters Canada](http://ca.reuters.com/article/topNews/idCATRE64C5DM20100513)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gZdLKJ1DpWlvYd0Jh0EKv9h-ynAQD9FM4CEG0)
+2. [Reuters Canada](http://ca.reuters.com/article/topNews/idCATRE64C5DM20100513)
+3. [The Guatemala Times](http://www.guatemala-times.com/news/world/1567-human-rights-groups-oppose-un-human-rights-council-seats-for-qaddafis-libya-angola-mauritania-qatar-malaysia.html)
 
 ### Related:
 

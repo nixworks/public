@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Fox News](http://www.foxnews.com/politics/2013/06/18/nsa-chief-defends-surveillance-says-helped-prevent-terror-more-than-50-times/)
-2. [CNN](http://www.cnn.com/2013/06/18/politics/nsa-leaks/index.html)
+1. [CNN](http://www.cnn.com/2013/06/18/politics/nsa-leaks/index.html)
+2. [Fox News](http://www.foxnews.com/politics/2013/06/18/nsa-chief-defends-surveillance-says-helped-prevent-terror-more-than-50-times/)
 
 ### Related:
 

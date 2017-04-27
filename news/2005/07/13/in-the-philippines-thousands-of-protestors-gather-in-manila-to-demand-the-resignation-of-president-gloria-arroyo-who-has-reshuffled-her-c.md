@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sun Star](http://www.sunstar.com.ph/static/net/2005/07/13/police.military.brace.for.massive.anti.arroyo.protest.(9.40.a.m.).html)
-2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-07-13T063936Z_01_HO305287_RTRUKOC_0_PHILIPPINES.xml)
+1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-07-13T063936Z_01_HO305287_RTRUKOC_0_PHILIPPINES.xml)
+2. [Sun Star](http://www.sunstar.com.ph/static/net/2005/07/13/police.military.brace.for.massive.anti.arroyo.protest.(9.40.a.m.).html)
 
 ### Related:
 

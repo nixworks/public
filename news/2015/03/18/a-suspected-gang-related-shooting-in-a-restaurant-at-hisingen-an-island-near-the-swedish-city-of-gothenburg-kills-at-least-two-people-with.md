@@ -7,8 +7,8 @@ Two men were killed and many others injured in a suspected gang-related shooting
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/03/19/us-sweden-shooting-idUSKBN0MF09S20150319)
-2. [BBC](http://www.bbc.com/news/world-europe-31957453)
+1. [BBC](http://www.bbc.com/news/world-europe-31957453)
+2. [Reuters](http://www.reuters.com/article/2015/03/19/us-sweden-shooting-idUSKBN0MF09S20150319)
 
 ### Related:
 

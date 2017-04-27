@@ -8,8 +8,8 @@ Foreign Minister Ahmet Davutoglu urges Israel not to stop next Gaza-bound flotil
 ### Source:
 
 1. [AP via Google News](http://www.google.com/hostednews/canadianpress/article/ALeqM5i_HTIKQFnREcLgIM1Lgz5X38DpGQ?docId=6668105)
-2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4060617,00.html)
-3. [Radio Netherlands Worldwide](http://www.rnw.nl/english/bulletin/rosenthal-don%E2%80%99t-join-gaza-flotilla)
+2. [Radio Netherlands Worldwide](http://www.rnw.nl/english/bulletin/rosenthal-don%E2%80%99t-join-gaza-flotilla)
+3. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4060617,00.html)
 
 ### Related:
 

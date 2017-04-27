@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=57833)
-2. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=57819)
+1. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=57819)
+2. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=57833)
 
 ### Related:
 

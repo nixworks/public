@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2009-07/16/content_11716570.htm)
-2. [BBC](http://news.bbc.co.uk/2/hi/business/8153138.stm)
-3. [China Daily](http://www.chinadaily.com.cn/china/2009-07/16/content_8435778.htm)
+1. [BBC](http://news.bbc.co.uk/2/hi/business/8153138.stm)
+2. [China Daily](http://www.chinadaily.com.cn/china/2009-07/16/content_8435778.htm)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-07/16/content_11716570.htm)
 
 ### Related:
 

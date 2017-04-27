@@ -7,11 +7,11 @@ Slovakia was haunted by its past yesterday after far-right militants who have do
 
 ### Source:
 
-1. [Daily Times](http://www.dailytimes.com.pk/foreign/07-Mar-2016/slovakia-s-fico-wins-but-coalition-difficult-in-fragmented-vote)
-2. [The Washington Post](https://www.washingtonpost.com/world/slovakia-in-shock-over-far-right-partys-parliament-election-success/2016/03/06/658b1a72-e3d5-11e5-bc08-3e03a5b41910_story.html)
-3. [ (AP via ''Daily Sabah](http://www.dailysabah.com/europe/2016/03/07/anti-migrant-fico-wins-slovakias-election-neo-nazis-gain-seats)
-4. [Irish Independent](http://www.independent.ie/world-news/europe/surprise-wins-for-far-right-in-slovakia-34516970.html)
-5. [Reuters via Azerbaijan State News Agency ](http://azertag.az/en/xeber/933250)
+1. [ (AP via ''Daily Sabah](http://www.dailysabah.com/europe/2016/03/07/anti-migrant-fico-wins-slovakias-election-neo-nazis-gain-seats)
+2. [Daily Times](http://www.dailytimes.com.pk/foreign/07-Mar-2016/slovakia-s-fico-wins-but-coalition-difficult-in-fragmented-vote)
+3. [Irish Independent](http://www.independent.ie/world-news/europe/surprise-wins-for-far-right-in-slovakia-34516970.html)
+4. [Reuters via Azerbaijan State News Agency ](http://azertag.az/en/xeber/933250)
+5. [The Washington Post](https://www.washingtonpost.com/world/slovakia-in-shock-over-far-right-partys-parliament-election-success/2016/03/06/658b1a72-e3d5-11e5-bc08-3e03a5b41910_story.html)
 
 ### Related:
 

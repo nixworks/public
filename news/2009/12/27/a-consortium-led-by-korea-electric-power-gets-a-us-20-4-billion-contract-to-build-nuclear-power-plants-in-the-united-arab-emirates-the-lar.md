@@ -7,8 +7,8 @@ A consortium led by the Korea Electric Power Corp. won a $40 billion contract Su
 
 ### Source:
 
-1. [The Wall Street Journal](http://online.wsj.com/article/BT-CO-20091227-702726.html)
-2. [Korea Times](http://www.koreatimes.co.kr/www/news/nation/2009/12/117_58017.html)
+1. [Korea Times](http://www.koreatimes.co.kr/www/news/nation/2009/12/117_58017.html)
+2. [The Wall Street Journal](http://online.wsj.com/article/BT-CO-20091227-702726.html)
 
 ### Related:
 

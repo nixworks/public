@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8578029.stm)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/03/20103201028429755.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/03/20103201028429755.html)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8578029.stm)
 3. [RIA Novosti](http://en.rian.ru/russia/20100320/158261835.html)
 
 ### Related:

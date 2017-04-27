@@ -7,9 +7,9 @@ Two former allies of New Jersey Governor Chris Christie were convicted of joinin
 
 ### Source:
 
-1. [New York Daily News](http://www.nydailynews.com/new-york/christie-associates-found-guilty-roles-bridgegate-article-1.2858140)
-2. [The New York Times](http://www.nytimes.com/2016/11/05/nyregion/bridgegate-conviction.html)
-3. [Bloomberg](http://www.bloomberg.com/politics/articles/2016-11-04/christie-allies-guilty-of-plotting-bridge-jams-to-punish-mayor)
+1. [Bloomberg](http://www.bloomberg.com/politics/articles/2016-11-04/christie-allies-guilty-of-plotting-bridge-jams-to-punish-mayor)
+2. [New York Daily News](http://www.nydailynews.com/new-york/christie-associates-found-guilty-roles-bridgegate-article-1.2858140)
+3. [The New York Times](http://www.nytimes.com/2016/11/05/nyregion/bridgegate-conviction.html)
 
 ### Related:
 

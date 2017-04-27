@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [Spiegel](http://translate.google.com/translate?u=http%3A%2F%2Fwww.spiegel.de%2Fpolitik%2Fdeutschland%2F0%2C1518%2C487262%2C00.html&langpair=de%7Cen&hl=en&ie=UTF8)
-2. [The Guardian](http://www.guardian.co.uk/russia/article/0,,2098256,00.html)
-3. [Indymedia](http://www.indymedia.org.uk/en/2007/06/372797.html)
-4. [Press Association via the Guardian](http://www.guardian.co.uk/uklatest/story/0,,-6691506,00.html)
-5. [AP via the Guardian](http://www.guardian.co.uk/worldlatest/story/0,,-6690625,00.html)
+1. [AP via the Guardian](http://www.guardian.co.uk/worldlatest/story/0,,-6690625,00.html)
+2. [Indymedia](http://www.indymedia.org.uk/en/2007/06/372797.html)
+3. [Press Association via the Guardian](http://www.guardian.co.uk/uklatest/story/0,,-6691506,00.html)
+4. [Spiegel](http://translate.google.com/translate?u=http%3A%2F%2Fwww.spiegel.de%2Fpolitik%2Fdeutschland%2F0%2C1518%2C487262%2C00.html&langpair=de%7Cen&hl=en&ie=UTF8)
+5. [The Guardian](http://www.guardian.co.uk/russia/article/0,,2098256,00.html)
 
 ### Related:
 

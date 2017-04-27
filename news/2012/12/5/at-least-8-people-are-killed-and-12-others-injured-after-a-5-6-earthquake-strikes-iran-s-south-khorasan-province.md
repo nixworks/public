@@ -7,8 +7,8 @@ At least five people have been killed and several injured by a 5.5 magnitude ear
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/12/05/us-quake-iran-idUSBRE8B413520121205)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-20617496)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20617496)
+2. [Reuters](http://www.reuters.com/article/2012/12/05/us-quake-iran-idUSBRE8B413520121205)
 
 ### Related:
 

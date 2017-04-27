@@ -7,9 +7,9 @@ Syrian President Bashar al-Assad has ordered troops not to fire on pro-democracy
 
 ### Source:
 
-1. [Buenos Aires Herald](http://www.buenosairesherald.com/article/66907/syrias-assad-reported-to-have-ordered-no-shooting)
+1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gR_t8lQfdxC9_XuOgNIg5aB8qOxA?docId=b2135663d47c409a8de30ca188294224)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-13391828)
-3. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gR_t8lQfdxC9_XuOgNIg5aB8qOxA?docId=b2135663d47c409a8de30ca188294224)
+3. [Buenos Aires Herald](http://www.buenosairesherald.com/article/66907/syrias-assad-reported-to-have-ordered-no-shooting)
 
 ### Related:
 

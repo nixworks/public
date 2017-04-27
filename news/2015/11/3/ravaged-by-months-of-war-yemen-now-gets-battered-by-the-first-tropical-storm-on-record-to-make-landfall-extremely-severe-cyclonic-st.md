@@ -7,8 +7,8 @@ The Yemen Post newspaper described the city of Al Mukallah as being &#x201c;unde
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2015/11/03/middleeast/yemen-tropical-cyclone-chapala/)
-2. [Abu Dhabi Media](http://www.thenational.ae/world/middle-east/enormous-damage-as-yemen-hit-by-worst-cyclone-in-decades)
+1. [Abu Dhabi Media](http://www.thenational.ae/world/middle-east/enormous-damage-as-yemen-hit-by-worst-cyclone-in-decades)
+2. [CNN](http://www.cnn.com/2015/11/03/middleeast/yemen-tropical-cyclone-chapala/)
 
 ### Related:
 

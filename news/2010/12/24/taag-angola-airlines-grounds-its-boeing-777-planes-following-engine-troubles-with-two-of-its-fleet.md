@@ -7,8 +7,8 @@ The Angolan national airline grounds its fleet of three Boeing 777 aircraft afte
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-12075276)
-2. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/transporte/2010/11/51/Angolan-flag-carrier-suspends-flight-with-777-200-airplanes,bb83ae41-63c8-4ad6-9dc4-c4294e0b4e79.html)
+1. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/transporte/2010/11/51/Angolan-flag-carrier-suspends-flight-with-777-200-airplanes,bb83ae41-63c8-4ad6-9dc4-c4294e0b4e79.html)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-12075276)
 
 ### Related:
 

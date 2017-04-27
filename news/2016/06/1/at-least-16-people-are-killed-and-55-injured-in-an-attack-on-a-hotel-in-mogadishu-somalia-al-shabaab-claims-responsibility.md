@@ -8,11 +8,11 @@ A suicide car bomber crashed into a gate outside a hotel frequented by lawmakers
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2016/06/01/africa/somalia-mogadishu-ambassador-hotel-siege/index.html)
-2. [Reuters](http://www.reuters.com/article/us-somalia-security-idUSKCN0YO0E5)
-3. [VOA News](http://www.voanews.com/content/militant-behind-2015-garissa-attack-killed-in-somalia/3356923.html)
-4. [FOX News](http://www.foxnews.com/world/2016/06/01/al-shabaab-commander-killed-in-us-airstrike-in-somalia.html)
-5. [Washington Times](http://www.washingtontimes.com/news/2016/jun/1/abdullahi-daud-key-al-shabaab-leader-killed-us-air/)
-6. [Reuters](http://www.reuters.com/article/us-somalia-security-idUSKCN0YN4TF)
+2. [FOX News](http://www.foxnews.com/world/2016/06/01/al-shabaab-commander-killed-in-us-airstrike-in-somalia.html)
+3. [Reuters](http://www.reuters.com/article/us-somalia-security-idUSKCN0YN4TF)
+4. [Reuters](http://www.reuters.com/article/us-somalia-security-idUSKCN0YO0E5)
+5. [VOA News](http://www.voanews.com/content/militant-behind-2015-garissa-attack-killed-in-somalia/3356923.html)
+6. [Washington Times](http://www.washingtontimes.com/news/2016/jun/1/abdullahi-daud-key-al-shabaab-leader-killed-us-air/)
 
 ### Related:
 

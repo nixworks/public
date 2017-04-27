@@ -7,9 +7,9 @@ Sky News Australia has the top stories in news online from Australia and the res
 
 ### Source:
 
-1. [Sky News Australia](http://www.skynews.com.au/topstories/article.aspx?id=619353)
+1. [AAP via ''Herald-Sun](http://www.heraldsun.com.au/news/breaking-news/nato-apologises-for-afghan-civilian-deaths/story-e6frf7jx-1226065628868)
 2. [Reuters via MSNBC](http://www.msnbc.msn.com/id/38533837)
-3. [AAP via ''Herald-Sun](http://www.heraldsun.com.au/news/breaking-news/nato-apologises-for-afghan-civilian-deaths/story-e6frf7jx-1226065628868)
+3. [Sky News Australia](http://www.skynews.com.au/topstories/article.aspx?id=619353)
 
 ### Related:
 

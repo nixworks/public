@@ -7,9 +7,9 @@ The United Nations UNCTAD agencyissued a gloomy outlook for the Palestinian econ
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/09/05/palestine-economy-idUSL6E8K5HUB20120905)
-2. [AFP via MSN Philippines](http://news.ph.msn.com/business/palestinian-economic-outlook-bleak-un-report-warns-1)
-3. [ReliefWeb](http://reliefweb.int/report/occupied-palestinian-territory/report-unctad-assistance-palestinian-people-developments-2)
+1. [AFP via MSN Philippines](http://news.ph.msn.com/business/palestinian-economic-outlook-bleak-un-report-warns-1)
+2. [ReliefWeb](http://reliefweb.int/report/occupied-palestinian-territory/report-unctad-assistance-palestinian-people-developments-2)
+3. [Reuters](http://www.reuters.com/article/2012/09/05/palestine-economy-idUSL6E8K5HUB20120905)
 
 ### Related:
 

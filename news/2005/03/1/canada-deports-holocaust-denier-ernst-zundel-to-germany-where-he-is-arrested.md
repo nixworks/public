@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/1109683146179_5/?hub=CTVNewsAt11)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4310087.stm)
 2. [CNews](http://cnews.canoe.ca/CNEWS/Law/2005/03/01/946547-cp.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/americas/4310087.stm)
+3. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/1109683146179_5/?hub=CTVNewsAt11)
 4. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L01328692.htm)
 
 ### Related:

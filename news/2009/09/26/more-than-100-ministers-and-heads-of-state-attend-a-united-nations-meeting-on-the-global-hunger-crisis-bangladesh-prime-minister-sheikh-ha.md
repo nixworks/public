@@ -8,8 +8,8 @@ The Minister of State with responsibility for Overseas Development has delivered
 ### Source:
 
 1. [Bangldesh News](http://bdnews24.com/details.php?id=143572&cid=2)
-2. [Xinhua](http://news.xinhuanet.com/english/2009-09/27/content_12115738.htm)
-3. [RTÉ](http://www.rte.ie/news/2009/0927/powerp.html)
+2. [RTÉ](http://www.rte.ie/news/2009/0927/powerp.html)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-09/27/content_12115738.htm)
 
 ### Related:
 

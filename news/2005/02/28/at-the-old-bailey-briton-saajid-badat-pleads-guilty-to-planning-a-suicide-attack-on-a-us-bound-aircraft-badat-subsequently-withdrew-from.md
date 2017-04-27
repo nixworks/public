@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/england/gloucestershire/4304223.stm)
-2. [AFP](http://story.news.yahoo.com/news?tmpl=story&u=/afp/20050228/ts_afp/britainattacksplane_050228122402)
+1. [AFP](http://story.news.yahoo.com/news?tmpl=story&u=/afp/20050228/ts_afp/britainattacksplane_050228122402)
+2. [BBC](http://news.bbc.co.uk/1/hi/england/gloucestershire/4304223.stm)
 
 ### Related:
 

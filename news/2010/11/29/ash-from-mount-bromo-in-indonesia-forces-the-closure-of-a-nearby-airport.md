@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Ash-from-Indonesian-volcano-forces-airport-to-shut/articleshow/7010188.cms)
-2. [Bernama](http://www.bernama.com/bernama/v5/newsworld.php?id=546347)
+1. [Bernama](http://www.bernama.com/bernama/v5/newsworld.php?id=546347)
+2. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Ash-from-Indonesian-volcano-forces-airport-to-shut/articleshow/7010188.cms)
 
 ### Related:
 

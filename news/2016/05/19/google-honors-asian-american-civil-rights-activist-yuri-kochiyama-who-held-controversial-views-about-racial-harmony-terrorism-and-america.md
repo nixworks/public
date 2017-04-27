@@ -7,8 +7,8 @@ Kochiyama embraced far-leftist protesters and even terrorist organizations.
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2016/05/19/google-commemorates-a-very-controversial-civil-rights-figure-yuri-kochiyama/)
-2. [Democracy Now](http://www.democracynow.org/2016/5/19/headlines/today_is_95th_birthday_of_late_civil_rights_activist_yuri_kockiyama)
+1. [Democracy Now](http://www.democracynow.org/2016/5/19/headlines/today_is_95th_birthday_of_late_civil_rights_activist_yuri_kockiyama)
+2. [The Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2016/05/19/google-commemorates-a-very-controversial-civil-rights-figure-yuri-kochiyama/)
 
 ### Related:
 

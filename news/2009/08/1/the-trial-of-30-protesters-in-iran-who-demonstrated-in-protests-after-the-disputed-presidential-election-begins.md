@@ -7,9 +7,9 @@ Activists face charges of rioting in wake of disputed presidential vote.
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8179470.stm)
-2. [Press TV](http://www.presstv.ir/detail.aspx?id=102172&sectionid=351020101#foc)
-3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/08/20098151815415827.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/08/20098151815415827.html)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8179470.stm)
+3. [Press TV](http://www.presstv.ir/detail.aspx?id=102172&sectionid=351020101#foc)
 
 ### Related:
 

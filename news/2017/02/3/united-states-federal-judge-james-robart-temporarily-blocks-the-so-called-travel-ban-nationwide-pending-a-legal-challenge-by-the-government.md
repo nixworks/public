@@ -7,15 +7,15 @@ The temporary restraining order issued by a federal judge halts implementation o
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-usa-trump-immigration-idUSKBN15I1CM?il=0)
-2. [The Guardian](https://www.theguardian.com/us-news/2017/feb/03/trump-travel-ban-temporarily-blocked-nationwide)
-3. [The Nordic Page](http://www.tnp.no/norway/panorama/5453-former-prime-minister-of-norway-held-back-at-us-airport)
-4. [Global News](http://globalnews.ca/news/3227202/us-airlines-free-to-board-travellers-previously-barred-by-trump-travel-ban/)
-5. [The New York Times](https://www.nytimes.com/2017/02/03/world/europe/kjell-magne-bondevik-norway-dulles.html?_r=0)
-6. [NBC News](http://www.nbcnews.com/news/us-news/over-100-000-visas-have-been-revoked-immigration-ban-justice-n716121)
+1. [Global News](http://globalnews.ca/news/3227202/us-airlines-free-to-board-travellers-previously-barred-by-trump-travel-ban/)
+2. [NBC News](http://www.nbcnews.com/news/us-news/over-100-000-visas-have-been-revoked-immigration-ban-justice-n716121)
+3. [NBC News](http://www.nbcnews.com/news/us-news/u-s-judge-temporarily-blocks-trump-immigration-order-nationwide-n716706)
+4. [Reuters](http://www.reuters.com/article/us-usa-trump-immigration-idUSKBN15I1CM?il=0)
+5. [Reuters](http://www.reuters.com/article/us-usa-trump-immigration-justice-idUSKBN15J06Y)
+6. [The Guardian](https://www.theguardian.com/us-news/2017/feb/03/trump-travel-ban-temporarily-blocked-nationwide)
 7. [The New York Times](https://www.nytimes.com/2017/02/03/us/visa-ban-legal-challenge.html?_r=0)
-8. [NBC News](http://www.nbcnews.com/news/us-news/u-s-judge-temporarily-blocks-trump-immigration-order-nationwide-n716706)
-9. [Reuters](http://www.reuters.com/article/us-usa-trump-immigration-justice-idUSKBN15J06Y)
+8. [The New York Times](https://www.nytimes.com/2017/02/03/world/europe/kjell-magne-bondevik-norway-dulles.html?_r=0)
+9. [The Nordic Page](http://www.tnp.no/norway/panorama/5453-former-prime-minister-of-norway-held-back-at-us-airport)
 
 ### Related:
 

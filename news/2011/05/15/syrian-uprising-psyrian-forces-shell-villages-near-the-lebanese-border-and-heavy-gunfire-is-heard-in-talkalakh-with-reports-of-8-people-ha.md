@@ -7,9 +7,9 @@ Lebanon tries to seal northern border with Syria to &quot;prevent illegal entry&
 
 ### Source:
 
-1. [The Australian](http://www.theaustralian.com.au/news/world/syria-in-crackdown-on-women/story-e6frg6so-1226056347761)
-2. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=220652)
-3. [CNN](http://www.cnn.com/2011/WORLD/meast/05/15/lebanon.syria.conflict/index.html)
+1. [CNN](http://www.cnn.com/2011/WORLD/meast/05/15/lebanon.syria.conflict/index.html)
+2. [The Australian](http://www.theaustralian.com.au/news/world/syria-in-crackdown-on-women/story-e6frg6so-1226056347761)
+3. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=220652)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/news/2010-10-14/niger-s-abdoulaye-badie-second-in-command-in-junta-has-been-arrested.html)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jVMQKv3fbGjLdcrYG_ybh-Sp-QBA?docId=CNG.c490a34eb4dcbad86bdef9d80c9704cf.271)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jVMQKv3fbGjLdcrYG_ybh-Sp-QBA?docId=CNG.c490a34eb4dcbad86bdef9d80c9704cf.271)
+2. [Bloomberg](http://www.bloomberg.com/news/2010-10-14/niger-s-abdoulaye-badie-second-in-command-in-junta-has-been-arrested.html)
 
 ### Related:
 

@@ -7,12 +7,12 @@ Capping one of the tightest races in recent Academy Awards history, director Ste
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2014/03/03/oscars-bestactor-idUSW1N0BP02D20140303)
+1. [LA Times](http://www.latimes.com/entertainment/envelope/moviesnow/la-et-mn-oscars-2014-animated-feature-winner-20140228,0,1617710.story#axzz2v0XwOcXT)
 2. [Los Angeles Times](http://www.latimes.com/entertainment/envelope/moviesnow/la-et-mn-oscars-2014-cate-blanchett-best-actress-20140226,0,386009.story)
 3. [Los Angeles Times](http://www.latimes.com/entertainment/envelope/moviesnow/la-et-oscars-2014-12-years-slave-wins-best-picture-20140226,0,410016.story#axzz2us9i7ug3)
-4. [euronews](http://www.euronews.com/2014/03/03/oscars-2014-gravity-dominate-awards-as-12-years-a-slave-takes-best-film/)
-5. [LA Times](http://www.latimes.com/entertainment/envelope/moviesnow/la-et-mn-oscars-2014-animated-feature-winner-20140228,0,1617710.story#axzz2v0XwOcXT)
-6. [Reuters](http://in.reuters.com/article/2014/03/03/us-oscars-foreignlanguage-idINBREA2205120140303)
+4. [Reuters](http://in.reuters.com/article/2014/03/03/us-oscars-foreignlanguage-idINBREA2205120140303)
+5. [Reuters](http://www.reuters.com/article/2014/03/03/oscars-bestactor-idUSW1N0BP02D20140303)
+6. [euronews](http://www.euronews.com/2014/03/03/oscars-2014-gravity-dominate-awards-as-12-years-a-slave-takes-best-film/)
 
 ### Related:
 

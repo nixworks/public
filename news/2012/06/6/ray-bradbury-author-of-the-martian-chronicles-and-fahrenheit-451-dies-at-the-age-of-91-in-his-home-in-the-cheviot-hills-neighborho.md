@@ -7,9 +7,9 @@ The imaginative evocations of the future in Mr. Bradbury’s science fiction ref
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2012/06/07/books/ray-bradbury-popularizer-of-science-fiction-dies-at-91.html?_r=1)
+1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/06/20126616739745760.html)
 2. [The Guardian](http://www.guardian.co.uk/books/2012/jun/06/ray-bradbury-sci-fi-author-dies)
-3. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/06/20126616739745760.html)
+3. [The New York Times](http://www.nytimes.com/2012/06/07/books/ray-bradbury-popularizer-of-science-fiction-dies-at-91.html?_r=1)
 
 ### Related:
 

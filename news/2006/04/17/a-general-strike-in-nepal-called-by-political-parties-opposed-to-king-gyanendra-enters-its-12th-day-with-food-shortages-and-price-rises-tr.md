@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/04/17/nepal.ap/index.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4915108.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4915108.stm)
+2. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/04/17/nepal.ap/index.html)
 
 ### Related:
 

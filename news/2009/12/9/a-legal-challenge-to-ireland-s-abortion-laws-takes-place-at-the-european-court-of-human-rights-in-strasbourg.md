@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2009/1209/abortion.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8403013.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8403013.stm)
+2. [RTÉ](http://www.rte.ie/news/2009/1209/abortion.html)
 
 ### Related:
 

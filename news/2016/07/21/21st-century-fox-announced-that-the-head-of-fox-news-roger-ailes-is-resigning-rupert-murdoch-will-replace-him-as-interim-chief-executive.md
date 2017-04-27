@@ -7,9 +7,9 @@ Fox News chief Roger Ailes is leaving the network following sexual harassment al
 
 ### Source:
 
-1. [Mediaite](http://www.mediaite.com/online/breaking-roger-ailes-has-officially-resigned-from-fox-news/)
-2. [New York Post](http://nypost.com/2016/07/21/roger-ailes-resigns-from-fox-news/?utm_medium=email&utm_campaign=NY%2520Post%2520Breaking%2520News&utm_source=Sailthru&utm_term=breakingnews_exclusives)
-3. [CNN](http://money.cnn.com/2016/07/21/media/roger-ailes-leaves-fox-news/index.html)
+1. [CNN](http://money.cnn.com/2016/07/21/media/roger-ailes-leaves-fox-news/index.html)
+2. [Mediaite](http://www.mediaite.com/online/breaking-roger-ailes-has-officially-resigned-from-fox-news/)
+3. [New York Post](http://nypost.com/2016/07/21/roger-ailes-resigns-from-fox-news/?utm_medium=email&utm_campaign=NY%2520Post%2520Breaking%2520News&utm_source=Sailthru&utm_term=breakingnews_exclusives)
 
 ### Related:
 

@@ -7,10 +7,10 @@ French President Francois Hollande blamed the &quot;cowardly acts&quot; on ISIS-
 
 ### Source:
 
-1. [Haaretz](http://www.haaretz.com/world-news/europe/1.733380)
-2. [NBC News](http://www.nbcnews.com/news/world/armed-hostage-siege-church-near-rouen-france-reports-n616801?cid=eml_nbn_20160726)
+1. [BBC](http://www.bbc.com/news/world-europe-36892785#)
+2. [Haaretz](http://www.haaretz.com/world-news/europe/1.733380)
 3. [Local](http://www.thelocal.fr/20160726/france-church-attackers-claimed-to-be-from-islamic-state)
-4. [BBC](http://www.bbc.com/news/world-europe-36892785#)
+4. [NBC News](http://www.nbcnews.com/news/world/armed-hostage-siege-church-near-rouen-france-reports-n616801?cid=eml_nbn_20160726)
 
 ### Related:
 

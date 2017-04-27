@@ -7,9 +7,9 @@ Latest environmental news, features and updates. Pictures, video and more.
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/earth/main.jhtml?view=DETAILS&grid=&xml=/earth/2008/06/25/scifossil125.xml)
+1. [BBC News](http://news.bbc.co.uk/1/hi/sci/tech/7473470.stm)
 2. [Science News](http://www.sciencenews.org/view/generic/id/33623/title/Fossil_helps_document_shift_from_sea_to_land)
-3. [BBC News](http://news.bbc.co.uk/1/hi/sci/tech/7473470.stm)
+3. [The Daily Telegraph](http://www.telegraph.co.uk/earth/main.jhtml?view=DETAILS&grid=&xml=/earth/2008/06/25/scifossil125.xml)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/indepth/2010-04/17/c_13255091.htm)
-2. [CNN](http://edition.cnn.com/2010/WORLD/africa/04/18/uganda.teen.king/index.html)
+1. [CNN](http://edition.cnn.com/2010/WORLD/africa/04/18/uganda.teen.king/index.html)
+2. [Xinhua](http://news.xinhuanet.com/english2010/indepth/2010-04/17/c_13255091.htm)
 
 ### Related:
 

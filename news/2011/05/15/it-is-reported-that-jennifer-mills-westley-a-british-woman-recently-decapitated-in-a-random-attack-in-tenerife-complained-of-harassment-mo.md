@@ -7,9 +7,9 @@ The Bulgarian man accused of stabbing and beheading a UK woman in a shop on the 
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2011/may/14/woman-beheaded-tenerife-sought-aid-attack)
-2. [BBC](http://www.bbc.co.uk/news/uk-13403303)
-3. [CNN](http://www.cnn.com/2011/WORLD/europe/05/15/spain.supermarket.beheading/index.html)
+1. [BBC](http://www.bbc.co.uk/news/uk-13403303)
+2. [CNN](http://www.cnn.com/2011/WORLD/europe/05/15/spain.supermarket.beheading/index.html)
+3. [The Guardian](http://www.guardian.co.uk/world/2011/may/14/woman-beheaded-tenerife-sought-aid-attack)
 
 ### Related:
 

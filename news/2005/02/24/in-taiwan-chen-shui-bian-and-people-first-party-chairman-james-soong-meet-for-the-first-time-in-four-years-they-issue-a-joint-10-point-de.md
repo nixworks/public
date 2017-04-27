@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [United Evening News](http://english.www.gov.tw/index.jsp?id=11&recid=103953&viewdate=0)
-2. [Reuters](http://www.alertnet.org/thenews/newsdesk/TP243766.htm)
+1. [Reuters](http://www.alertnet.org/thenews/newsdesk/TP243766.htm)
+2. [United Evening News](http://english.www.gov.tw/index.jsp?id=11&recid=103953&viewdate=0)
 
 ### Related:
 

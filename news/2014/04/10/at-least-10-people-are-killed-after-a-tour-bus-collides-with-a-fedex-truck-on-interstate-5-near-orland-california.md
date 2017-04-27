@@ -7,8 +7,8 @@ As many as 10 people were killed and dozens injured Thursday when a charter bus 
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/nation/2014/04/10/calif-crash-9-killed/7579275/)
-2. [CNN](http://www.cnn.com/2014/04/10/us/california-bus-crash/index.html?hpt=hp_t2)
+1. [CNN](http://www.cnn.com/2014/04/10/us/california-bus-crash/index.html?hpt=hp_t2)
+2. [USA Today](http://www.usatoday.com/story/news/nation/2014/04/10/calif-crash-9-killed/7579275/)
 
 ### Related:
 

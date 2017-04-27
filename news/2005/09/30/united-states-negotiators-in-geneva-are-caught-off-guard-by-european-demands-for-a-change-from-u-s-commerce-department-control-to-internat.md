@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [openDemocracy](http://www.opendemocracy.net/globalization-accountability/cyberspace_2832.jsp)
-2. [International Herald Tribune](http://www.iht.com/articles/2005/09/29/business/net.php)
+1. [International Herald Tribune](http://www.iht.com/articles/2005/09/29/business/net.php)
+2. [openDemocracy](http://www.opendemocracy.net/globalization-accountability/cyberspace_2832.jsp)
 
 ### Related:
 

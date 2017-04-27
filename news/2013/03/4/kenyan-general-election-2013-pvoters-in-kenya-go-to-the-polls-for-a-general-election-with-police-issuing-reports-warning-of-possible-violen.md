@@ -7,10 +7,10 @@ At least four Kenyan police officers, deployed to keep the peace in a tense pres
 
 ### Source:
 
-1. [RTE](http://www.rte.ie/news/2013/0304/371921-kenya-elections/)
-2. [Reuters](http://www.reuters.com/article/2013/03/04/us-kenya-elections-mombasa-idUSBRE92301Y20130304)
-3. [AP via ''Business Week](http://www.businessweek.com/ap/2013-03-03/kenyans-pray-for-peace-on-day-before-elections)
-4. [BBC](http://www.bbc.co.uk/news/world-africa-21651267)
+1. [AP via ''Business Week](http://www.businessweek.com/ap/2013-03-03/kenyans-pray-for-peace-on-day-before-elections)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-21651267)
+3. [RTE](http://www.rte.ie/news/2013/0304/371921-kenya-elections/)
+4. [Reuters](http://www.reuters.com/article/2013/03/04/us-kenya-elections-mombasa-idUSBRE92301Y20130304)
 
 ### Related:
 

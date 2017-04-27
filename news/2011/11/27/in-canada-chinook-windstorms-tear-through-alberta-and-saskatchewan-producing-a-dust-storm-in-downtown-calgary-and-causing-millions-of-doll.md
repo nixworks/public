@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [Metro News](http://www.metronews.ca/calgary/local/article/1035649--wind-swept-residents-report-near-misses)
+1. [Calgary Herald](http://www.calgaryherald.com/going+unpredictable+winter+Calgary+weather/5781620/story.html)
 2. [Medicine Hat News](http://www.medicinehatnews.com/front-page-news/battling-a-30-foot-wall-of-flame-11292011.html)
-3. [National Post](http://news.nationalpost.com/2011/11/28/lufthansa-flight-makes-dramatic-landing-in-149kmh-calgary-windstorm/)
+3. [Metro News](http://www.metronews.ca/calgary/local/article/1035649--wind-swept-residents-report-near-misses)
 4. [Montreal Gazette](http://www.montrealgazette.com/news/calgary/Monitoring+system+predicted+storm+mobilized+emergency+crews/5780260/story.html)
-5. [Calgary Herald](http://www.calgaryherald.com/going+unpredictable+winter+Calgary+weather/5781620/story.html)
+5. [National Post](http://news.nationalpost.com/2011/11/28/lufthansa-flight-makes-dramatic-landing-in-149kmh-calgary-windstorm/)
 
 ### Related:
 

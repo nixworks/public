@@ -7,8 +7,8 @@ Four private papers in Zimbabwe, including one previously banned, are granted li
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/africa/05/27/zimbabwe.newspapers.free.press/index.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10170565.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10170565.stm)
+2. [CNN](http://edition.cnn.com/2010/WORLD/africa/05/27/zimbabwe.newspapers.free.press/index.html)
 
 ### Related:
 

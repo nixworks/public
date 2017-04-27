@@ -8,8 +8,8 @@ Chavez says deal, along with another with Russian firms, will produce 900,000 ba
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2009/09/200991741755683835.html)
-2. [MarketWatch](http://www.marketwatch.com/story/venezuela-china-agree-16-billion-oil-deal-2009-09-17)
-3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601086&sid=aR9vgkncL_A4)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601086&sid=aR9vgkncL_A4)
+3. [MarketWatch](http://www.marketwatch.com/story/venezuela-china-agree-16-billion-oil-deal-2009-09-17)
 
 ### Related:
 

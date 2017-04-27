@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [biorXiv](http://biorxiv.org/content/early/2016/05/26/055699)
-2. [The New York Times](http://www.nytimes.com/2016/05/28/health/cancer-study-radiation-cellphones.html)
+1. [The New York Times](http://www.nytimes.com/2016/05/28/health/cancer-study-radiation-cellphones.html)
+2. [biorXiv](http://biorxiv.org/content/early/2016/05/26/055699)
 
 ### Related:
 

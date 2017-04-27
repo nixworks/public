@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2009-10/07/content_12190222.htm)
-2. [The Times](http://www.timesonline.co.uk/tol/news/science/space/article6864286.ece)
-3. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/8291905.stm)
-4. [NASA](http://www.nasa.gov/mission_pages/spitzer/news/spitzer-20091006.html)
+1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/8291905.stm)
+2. [NASA](http://www.nasa.gov/mission_pages/spitzer/news/spitzer-20091006.html)
+3. [The Times](http://www.timesonline.co.uk/tol/news/science/space/article6864286.ece)
+4. [Xinhua](http://news.xinhuanet.com/english/2009-10/07/content_12190222.htm)
 
 ### Related:
 

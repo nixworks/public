@@ -7,8 +7,8 @@ Sudan has set November 14 as the start date for voter registration in a historic
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-11479776)
-2. [AFP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/sudan-sets-timetable-for-referendum-20101006-166h4.html)
+1. [AFP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/sudan-sets-timetable-for-referendum-20101006-166h4.html)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-11479776)
 
 ### Related:
 

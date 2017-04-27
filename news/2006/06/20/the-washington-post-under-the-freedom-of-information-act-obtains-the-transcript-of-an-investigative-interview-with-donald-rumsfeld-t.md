@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/06/19/AR2006061901090.html)
-2. [     (The RawStory](http://www.rawstory.com/showarticle.php?src=http%3A%2F%2Fwww.washingtonpost.com%2Fwp-dyn%2Fcontent%2Farticle%2F2006%2F06%2F19%2FAR2006061901090_pf.html)
+1. [     (The RawStory](http://www.rawstory.com/showarticle.php?src=http%3A%2F%2Fwww.washingtonpost.com%2Fwp-dyn%2Fcontent%2Farticle%2F2006%2F06%2F19%2FAR2006061901090_pf.html)
+2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/06/19/AR2006061901090.html)
 
 ### Related:
 

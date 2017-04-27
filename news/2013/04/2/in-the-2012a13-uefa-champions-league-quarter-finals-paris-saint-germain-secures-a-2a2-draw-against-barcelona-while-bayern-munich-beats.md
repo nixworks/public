@@ -7,8 +7,8 @@ Zlatan Ibrahimovic scores as Paris St-Germain draw with his former side Barcelon
 
 ### Source:
 
-1. [UEFA](http://www.uefa.com/uefachampionsleague/season=2013/matches/round=2000349/match=2009603/index.html)
-2. [BBC](http://www.bbc.co.uk/sport/0/football/21989995)
+1. [BBC](http://www.bbc.co.uk/sport/0/football/21989995)
+2. [UEFA](http://www.uefa.com/uefachampionsleague/season=2013/matches/round=2000349/match=2009603/index.html)
 
 ### Related:
 

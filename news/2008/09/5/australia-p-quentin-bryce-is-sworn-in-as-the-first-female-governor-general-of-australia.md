@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sydney Morning Herald](http://www.smh.com.au/news/national/nathan-rees-confirmed-as-new-nsw-premier/2008/09/05/1220121494217.html)
-2. [AAP via ''The Melbourne Age](http://news.theage.com.au/national/bryce-sworn-in-as-governorgeneral-20080905-4a21.html)
+1. [AAP via ''The Melbourne Age](http://news.theage.com.au/national/bryce-sworn-in-as-governorgeneral-20080905-4a21.html)
+2. [Sydney Morning Herald](http://www.smh.com.au/news/national/nathan-rees-confirmed-as-new-nsw-premier/2008/09/05/1220121494217.html)
 
 ### Related:
 

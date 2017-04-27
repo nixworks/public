@@ -7,8 +7,8 @@ The United States and China have agreed on a draft resolution that would expand 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-northkorea-nuclear-un-idUSKCN0VX2T5)
-2. [AFP via ''Bangkok Post](http://www.bangkokpost.com/news/asia/876448/us-china-agree-on-un-north-korea-resolution-whouse)
+1. [AFP via ''Bangkok Post](http://www.bangkokpost.com/news/asia/876448/us-china-agree-on-un-north-korea-resolution-whouse)
+2. [Reuters](http://www.reuters.com/article/us-northkorea-nuclear-un-idUSKCN0VX2T5)
 
 ### Related:
 

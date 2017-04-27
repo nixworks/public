@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [SOS](http://www.soschildrensvillages.org.uk/charity-news/six-villages-wayne-rooney.htm)
-2. [FIFA/SOS Ambassador] for [[Scotland]] (joining [[Wayne Rooney]] for England](http://www.soschildrensvillages.org.uk/charity-news/six-villages-ambassadors.htm)
+1. [FIFA/SOS Ambassador] for [[Scotland]] (joining [[Wayne Rooney]] for England](http://www.soschildrensvillages.org.uk/charity-news/six-villages-ambassadors.htm)
+2. [SOS](http://www.soschildrensvillages.org.uk/charity-news/six-villages-wayne-rooney.htm)
 
 ### Related:
 

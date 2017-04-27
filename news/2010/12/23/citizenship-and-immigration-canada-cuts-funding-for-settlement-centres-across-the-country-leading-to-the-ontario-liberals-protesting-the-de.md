@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [Toronto Star](http://www.thestar.com/news/article/911205--funding-axed-for-toronto-immigrant-agencies)
+1. [CTV](http://www.ctv.ca/CTVNews/TopStories/20101223/immigrant-services-funding-cut-reaction-101223/)
 2. [Calgary Herald](http://www.calgaryherald.com/Saint+Nick+pops+citizenship+event/4017898/story.html)
-3. [CTV](http://www.ctv.ca/CTVNews/TopStories/20101223/immigrant-services-funding-cut-reaction-101223/)
+3. [Globe and Mail](http://www.theglobeandmail.com/news/politics/ontario-hit-hard-by-federal-cuts-to-immigrant-settlement-centres/article1848219/)
 4. [National Post](http://news.nationalpost.com/2010/12/22/santa-claus-a-canadian-immigration-minister-reaffirms/)
-5. [Globe and Mail](http://www.theglobeandmail.com/news/politics/ontario-hit-hard-by-federal-cuts-to-immigrant-settlement-centres/article1848219/)
+5. [Toronto Star](http://www.thestar.com/news/article/911205--funding-axed-for-toronto-immigrant-agencies)
 
 ### Related:
 

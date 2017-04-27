@@ -7,8 +7,8 @@ T-Mobile and Sprint are exempt, because they&#39;re less likely to hit their sub
 
 ### Source:
 
-1. [PC Magazine](http://www.pcmag.com/news/343220/netflix-throttling-video-streams-for-most-mobile-users)
-2. [C|net](http://www.cnet.com/news/netflix-admits-throttling-video-speeds-on-at-t-verizon/)
+1. [C|net](http://www.cnet.com/news/netflix-admits-throttling-video-speeds-on-at-t-verizon/)
+2. [PC Magazine](http://www.pcmag.com/news/343220/netflix-throttling-video-streams-for-most-mobile-users)
 
 ### Related:
 

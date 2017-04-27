@@ -7,9 +7,9 @@ The earthquake that struck central Italy on Wednesday has killed at least 247 pe
 
 ### Source:
 
-1. [AP via ''San Diego Union Tribune](http://www.sandiegouniontribune.com/news/2016/aug/23/mayor-of-quake-hit-amatrice-in-italy-says/)
-2. [BBC News](http://www.bbc.com/news/world-europe-37171953)
-3. [ANSA](http://www.ansa.it/english/news/general_news/2016/08/24/at-least-21-dead-in-6.0-earthquake_63a1ac6f-acc9-4639-a8d9-718bf6415bb9.html)
+1. [ANSA](http://www.ansa.it/english/news/general_news/2016/08/24/at-least-21-dead-in-6.0-earthquake_63a1ac6f-acc9-4639-a8d9-718bf6415bb9.html)
+2. [AP via ''San Diego Union Tribune](http://www.sandiegouniontribune.com/news/2016/aug/23/mayor-of-quake-hit-amatrice-in-italy-says/)
+3. [BBC News](http://www.bbc.com/news/world-europe-37171953)
 4. [The Telegraph](http://www.telegraph.co.uk/news/2016/08/24/italy-quake-64-magnitude-tremor-rocks-perugia/)
 5. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/us10006g7d#dyfi)
 

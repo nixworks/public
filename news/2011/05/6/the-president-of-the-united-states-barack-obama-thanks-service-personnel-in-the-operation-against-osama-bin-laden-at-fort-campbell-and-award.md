@@ -7,13 +7,13 @@ Following is an abridged version of the text of the statement issued by Al Qaeda
 
 ### Source:
 
-1. [MSNBC](http://www.msnbc.msn.com/id/21134540/vp/42934612#42934612)
-2. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/05/06/bin.laden.qaeda.comment/index.html)
-3. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/05/06/bin.laden.main/index.html)
-4. [The Australian](http://www.theaustralian.com.au/al-qaida-confirms-bin-laden-death-vows-revenge/story-fn8ljzlv-1226051459984)
-5. [Reuters](http://www.reuters.com/article/2011/05/06/us-binladen-qaeda-confirmation-text-idUSTRE74563U20110506)
-6. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/05/07/afghanistan.taliban.bin.laden/index.html)
-7. [AP via AL.com](http://www.al.com/newsflash/index.ssf/story/obama-meets-with-troops-who-raided-bin/ee242de662734855aed47c0e7eb4af82)
+1. [AP via AL.com](http://www.al.com/newsflash/index.ssf/story/obama-meets-with-troops-who-raided-bin/ee242de662734855aed47c0e7eb4af82)
+2. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/05/06/bin.laden.main/index.html)
+3. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/05/06/bin.laden.qaeda.comment/index.html)
+4. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/05/07/afghanistan.taliban.bin.laden/index.html)
+5. [MSNBC](http://www.msnbc.msn.com/id/21134540/vp/42934612#42934612)
+6. [Reuters](http://www.reuters.com/article/2011/05/06/us-binladen-qaeda-confirmation-text-idUSTRE74563U20110506)
+7. [The Australian](http://www.theaustralian.com.au/al-qaida-confirms-bin-laden-death-vows-revenge/story-fn8ljzlv-1226051459984)
 
 ### Related:
 

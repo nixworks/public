@@ -7,11 +7,11 @@ Greek unions stage mass protests in Thessaloniki but Prime Minister George Papan
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-11271058)
-2. [CNN](http://edition.cnn.com/2010/WORLD/europe/09/11/greece.shoe.throwing/#fbid=RCnunUQxXyc&wom=false)
-3. [The Times of India](http://timesofindia.indiatimes.com/world/europe/Man-hurls-shoe-at-Greek-PM-over-cutbacks/articleshow/6538898.cms)
-4. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/09/2010911175338432116.html)
-5. [The Guardian](http://www.guardian.co.uk/world/2010/sep/12/greek-greece-papandreou-austerity)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/09/2010911175338432116.html)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-11271058)
+3. [CNN](http://edition.cnn.com/2010/WORLD/europe/09/11/greece.shoe.throwing/#fbid=RCnunUQxXyc&wom=false)
+4. [The Guardian](http://www.guardian.co.uk/world/2010/sep/12/greek-greece-papandreou-austerity)
+5. [The Times of India](http://timesofindia.indiatimes.com/world/europe/Man-hurls-shoe-at-Greek-PM-over-cutbacks/articleshow/6538898.cms)
 
 ### Related:
 

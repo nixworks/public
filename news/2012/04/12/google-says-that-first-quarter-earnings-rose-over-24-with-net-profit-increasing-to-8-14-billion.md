@@ -7,8 +7,8 @@ Plus: a lot of talk about Android.
 
 ### Source:
 
-1. [Google](http://investor.google.com/earnings/2012/Q1_google_earnings.html)
-2. [Business Insider](http://www.businessinsider.com/live-google-earnings-2012-4)
+1. [Business Insider](http://www.businessinsider.com/live-google-earnings-2012-4)
+2. [Google](http://investor.google.com/earnings/2012/Q1_google_earnings.html)
 
 ### Related:
 

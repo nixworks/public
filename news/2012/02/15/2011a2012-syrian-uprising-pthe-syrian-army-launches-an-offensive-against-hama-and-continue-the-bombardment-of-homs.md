@@ -8,8 +8,8 @@ Syrian opposition leaders and the West have scorned a new offer by President Bas
 ### Source:
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/46392655)
-2. [Reuters](http://uk.reuters.com/article/2012/02/15/uk-syria-idUKL6E8C52E220120215)
-3. [Al Arabiya](http://english.alarabiya.net/articles/2012/02/15/194728.html)
+2. [Al Arabiya](http://english.alarabiya.net/articles/2012/02/15/194728.html)
+3. [Reuters](http://uk.reuters.com/article/2012/02/15/uk-syria-idUKL6E8C52E220120215)
 
 ### Related:
 

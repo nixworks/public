@@ -7,6 +7,6 @@ Top NASA scientists have hosed down claims from a colleague that fossils of alie
 
 ### Source:
 
-1. [The Star](http://www.thestar.com/news/world/article/949667--fossilized-bacteria-found-on-meteorites-nasa-scientist)
+1. [ABC News](http://www.abc.net.au/news/stories/2011/03/08/3157645.htm)
 2. [Daily Times](http://www.dailytimes.com.pk/default.asp?page=2011\03\07\story_7-3-2011_pg9_3)
-3. [ABC News](http://www.abc.net.au/news/stories/2011/03/08/3157645.htm)
+3. [The Star](http://www.thestar.com/news/world/article/949667--fossilized-bacteria-found-on-meteorites-nasa-scientist)

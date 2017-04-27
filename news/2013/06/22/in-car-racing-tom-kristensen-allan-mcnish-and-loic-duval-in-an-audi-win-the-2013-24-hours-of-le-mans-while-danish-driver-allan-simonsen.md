@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/sport/2013/jun/22/danish-allen-simonsen-killed-le-mans)
-2. [Speed Channel](http://auto-racing.speedtv.com/article/le-mans-audi-wins-frantic-lm24/)
+1. [Speed Channel](http://auto-racing.speedtv.com/article/le-mans-audi-wins-frantic-lm24/)
+2. [The Guardian](http://www.guardian.co.uk/sport/2013/jun/22/danish-allen-simonsen-killed-le-mans)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [DallasBusinessJournal](http://dallas.bizjournals.com/dallas/stories/2005/10/10/daily57.html?jst=b_ln_hl)
-2. [ (BusinessWire](http://home.businesswire.com/portal/site/google/index.jsp?ndmViewId=news_view&newsId=20050913005978&newsLang=en)
-3. [CNN](http://www.cnn.com/2005/US/10/12/katrina.hospital/)
+1. [ (BusinessWire](http://home.businesswire.com/portal/site/google/index.jsp?ndmViewId=news_view&newsId=20050913005978&newsLang=en)
+2. [CNN](http://www.cnn.com/2005/US/10/12/katrina.hospital/)
+3. [DallasBusinessJournal](http://dallas.bizjournals.com/dallas/stories/2005/10/10/daily57.html?jst=b_ln_hl)
 
 ### Related:
 

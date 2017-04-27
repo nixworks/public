@@ -7,8 +7,8 @@ UNITED NATIONSâ€”The U.N. General Assembly on Thursday officially appointed AntÃ
 
 ### Source:
 
-1. [The Wall Street Journal](http://www.wsj.com/articles/u-n-general-assembly-appoints-antonio-guterres-as-next-secretary-general-1476399026)
-2. [BBC](http://www.bbc.com/news/world-37648265)
+1. [BBC](http://www.bbc.com/news/world-37648265)
+2. [The Wall Street Journal](http://www.wsj.com/articles/u-n-general-assembly-appoints-antonio-guterres-as-next-secretary-general-1476399026)
 
 ### Related:
 

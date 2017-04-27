@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [DailyIndia.com](http://www.dailyindia.com/show/364139.php)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iilMtR9g5hSyRNk2zOksdSXX90nA)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iilMtR9g5hSyRNk2zOksdSXX90nA)
+2. [DailyIndia.com](http://www.dailyindia.com/show/364139.php)
 
 ### Related:
 

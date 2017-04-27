@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/news.htm?englishnews&20100224&56&649275)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8533752.stm)
 2. [My Sin Chew](http://www.mysinchew.com/node/35540)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8533752.stm)
+3. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/news.htm?englishnews&20100224&56&649275)
 
 ### Related:
 

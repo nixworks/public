@@ -8,9 +8,9 @@ Three bomb disposal experts killed by Allied explosive dropped more than 60 year
 ### Source:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gRgBy0UJ5MVcA2bYj6HNRMrWo56w)
-2. [The Times of India](http://timesofindia.indiatimes.com/World/Europe/3-killed-trying-to-disarm-WWII-era-bomb-in-Germany/articleshow/6004520.cms)
-3. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/20106213138298153.html)
-4. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10212890.stm)
+2. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/20106213138298153.html)
+3. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10212890.stm)
+4. [The Times of India](http://timesofindia.indiatimes.com/World/Europe/3-killed-trying-to-disarm-WWII-era-bomb-in-Germany/articleshow/6004520.cms)
 
 ### Related:
 

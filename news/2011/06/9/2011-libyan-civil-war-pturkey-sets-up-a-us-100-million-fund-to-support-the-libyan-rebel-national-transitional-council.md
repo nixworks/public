@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE7580F920110609)
-2. [Reuters](http://af.reuters.com/article/libyaNews/idAFLDE7581UC20110609)
+1. [Reuters](http://af.reuters.com/article/libyaNews/idAFLDE7581UC20110609)
+2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE7580F920110609)
 3. [The Guardian](http://www.guardian.co.uk/world/2011/jun/08/gaddafi-forces-libya-britain-nato)
 
 ### Related:

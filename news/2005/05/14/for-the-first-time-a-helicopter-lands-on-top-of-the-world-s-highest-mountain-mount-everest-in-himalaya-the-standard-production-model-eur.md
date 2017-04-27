@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [National Geographic](http://www.nationalgeographic.com/adventure/0509/whats_new/helicopter_everest.html)
-2. [MountEverest.net](http://www.mounteverest.net/story/MysteryChopperlandsontopofEverestMay242005.shtml)
+1. [MountEverest.net](http://www.mounteverest.net/story/MysteryChopperlandsontopofEverestMay242005.shtml)
+2. [National Geographic](http://www.nationalgeographic.com/adventure/0509/whats_new/helicopter_everest.html)
 
 ### Related:
 

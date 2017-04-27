@@ -7,9 +7,9 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 
 ### Source:
 
-1. [TaiwanNews](http://www.etaiwannews.com/World/2005/09/10/1126323391.htm)
+1. [New Zealand Herald](http://www.nzherald.co.nz/section/story.cfm?c_id=1&ObjectID=10344915)
 2. [TVNZ](http://www.tvnz.co.nz/view/page/576182/609854)
-3. [New Zealand Herald](http://www.nzherald.co.nz/section/story.cfm?c_id=1&ObjectID=10344915)
+3. [TaiwanNews](http://www.etaiwannews.com/World/2005/09/10/1126323391.htm)
 
 ### Related:
 

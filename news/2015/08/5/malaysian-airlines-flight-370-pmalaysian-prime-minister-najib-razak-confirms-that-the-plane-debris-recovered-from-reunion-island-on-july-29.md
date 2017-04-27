@@ -8,10 +8,10 @@ An aircraft part found on Reunion Island was from missing Flight MH370, says Mal
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-33794012)
-2. [Nine News - Australia](http://www.9news.com.au/world/2015/08/06/03/54/part-of-aircraft-wing-found-on-reunion-island-is-from-mh370)
-3. [UPI](http://www.upi.com/Top_News/World-News/2015/08/05/French-begin-examination-of-suspected-MH370-wing-part/5081438792192/)
+2. [Deutsche Welle](http://www.dw.com/en/examination-of-suspected-mh370-wing-piece-underway-in-france/a-18629495)
+3. [Nine News - Australia](http://www.9news.com.au/world/2015/08/06/03/54/part-of-aircraft-wing-found-on-reunion-island-is-from-mh370)
 4. [Reuters via MSN](http://www.msn.com/en-us/news/world/malaysian-pm-part-from-mh370/ar-BBlqQKG?ocid=spartanntp)
-5. [Deutsche Welle](http://www.dw.com/en/examination-of-suspected-mh370-wing-piece-underway-in-france/a-18629495)
+5. [UPI](http://www.upi.com/Top_News/World-News/2015/08/05/French-begin-examination-of-suspected-MH370-wing-part/5081438792192/)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The final US Airways flight is heading from San Francisco to Philadelphia, makin
 
 ### Source:
 
-1. [The Christian Science Monitor](http://www.csmonitor.com/Business/2015/1017/End-of-an-era-The-final-flight-of-US-Airways)
-2. [AP via WSAW](http://www.wsaw.com/home/headlines/US-Airways-makes-final-flight-following-merger--333548441.html)
+1. [AP via WSAW](http://www.wsaw.com/home/headlines/US-Airways-makes-final-flight-following-merger--333548441.html)
+2. [The Christian Science Monitor](http://www.csmonitor.com/Business/2015/1017/End-of-an-era-The-final-flight-of-US-Airways)
 
 ### Related:
 

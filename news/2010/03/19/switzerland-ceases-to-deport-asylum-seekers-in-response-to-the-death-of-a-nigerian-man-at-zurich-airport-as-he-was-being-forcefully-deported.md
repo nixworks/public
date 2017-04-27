@@ -7,11 +7,11 @@ BERLIN - Switzerland has halted all repatriation flights for rejected asylum see
 
 ### Source:
 
-1. [THISDAY](http://www.thisdayonline.com/nview.php?id=169011)
-2. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10633234)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8576085.stm)
+2. [THISDAY](http://www.thisdayonline.com/nview.php?id=169011)
 3. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1206767&lang=eng_news)
-4. [The Scotsman](http://news.scotsman.com/world/Asylum-seeker-dies-while-boarding.6165159.jp)
-5. [BBC](http://news.bbc.co.uk/2/hi/europe/8576085.stm)
+4. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10633234)
+5. [The Scotsman](http://news.scotsman.com/world/Asylum-seeker-dies-while-boarding.6165159.jp)
 
 ### Related:
 

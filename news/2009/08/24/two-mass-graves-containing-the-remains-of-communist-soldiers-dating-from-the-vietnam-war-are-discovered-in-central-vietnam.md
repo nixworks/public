@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Straits Times](http://www.straitstimes.com/Breaking%2BNews/SE%2BAsia/Story/STIStory_420695.html)
-2. [China Daily](http://www.chinadaily.com.cn/world/2009-08/24/content_8608544.htm)
+1. [China Daily](http://www.chinadaily.com.cn/world/2009-08/24/content_8608544.htm)
+2. [The Straits Times](http://www.straitstimes.com/Breaking%2BNews/SE%2BAsia/Story/STIStory_420695.html)
 
 ### Related:
 

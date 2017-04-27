@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/artanddesign/2013/mar/17/toyo-ito-2013-pritzker-prize)
-2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hmA-RRWT6MHreIt2-ID26Pr6RXFw)
+1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hmA-RRWT6MHreIt2-ID26Pr6RXFw)
+2. [The Guardian](http://www.guardian.co.uk/artanddesign/2013/mar/17/toyo-ito-2013-pritzker-prize)
 
 ### Related:
 

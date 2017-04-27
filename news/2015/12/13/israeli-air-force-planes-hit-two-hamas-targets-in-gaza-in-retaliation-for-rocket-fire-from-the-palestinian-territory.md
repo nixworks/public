@@ -7,8 +7,8 @@ The Air Force struck two Hamas infrastructure targets in Gaza overnight in react
 
 ### Source:
 
-1. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-4738813,00.html)
-2. [The Times of Isarel](http://www.timesofisrael.com/israeli-jets-strike-gaza-after-rocket-attack/)
+1. [The Times of Isarel](http://www.timesofisrael.com/israeli-jets-strike-gaza-after-rocket-attack/)
+2. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-4738813,00.html)
 
 ### Related:
 

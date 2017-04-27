@@ -7,9 +7,9 @@ Authorities shut schools and suspended fishing and ferry services in the central
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-philippines-typhoon-idUSKBN0TW0WX20151213#Xg7Zhx8SAMlA5PBt.97)
-2. [AP via ''Columbus Ledger-Enquirer](http://www.ledger-enquirer.com/news/nation-world/article49621565.html)
-3. [AccuWeather](http://www.accuweather.com/en/weather-news/melor-to-threaten-philippines/54139705)
+1. [AP via ''Columbus Ledger-Enquirer](http://www.ledger-enquirer.com/news/nation-world/article49621565.html)
+2. [AccuWeather](http://www.accuweather.com/en/weather-news/melor-to-threaten-philippines/54139705)
+3. [Reuters](http://www.reuters.com/article/us-philippines-typhoon-idUSKBN0TW0WX20151213#Xg7Zhx8SAMlA5PBt.97)
 
 ### Related:
 

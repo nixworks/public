@@ -7,8 +7,8 @@ Democracy leader’s party will now be able to push through legislation, form a 
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/world/2015/nov/13/aung-san-suu-kyi-wins-myanmar-landmark-election)
-2. [The Economist](http://www.economist.com/news/asia/21678474-its-official-miss-suu-kyis-national-league-democracy-will-choose-next-president-not)
+1. [The Economist](http://www.economist.com/news/asia/21678474-its-official-miss-suu-kyis-national-league-democracy-will-choose-next-president-not)
+2. [The Guardian](http://www.theguardian.com/world/2015/nov/13/aung-san-suu-kyi-wins-myanmar-landmark-election)
 
 ### Related:
 

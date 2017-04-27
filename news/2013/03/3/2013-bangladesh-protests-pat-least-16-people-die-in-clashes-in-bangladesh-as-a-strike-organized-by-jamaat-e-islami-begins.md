@@ -7,8 +7,8 @@ At least 16 people die in continuing violence in Bangladesh as a strike called o
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/03/03/us-bangladesh-violence-idUSBRE92203M20130303)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-21646233)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-21646233)
+2. [Reuters](http://www.reuters.com/article/2013/03/03/us-bangladesh-violence-idUSBRE92203M20130303)
 
 ### Related:
 

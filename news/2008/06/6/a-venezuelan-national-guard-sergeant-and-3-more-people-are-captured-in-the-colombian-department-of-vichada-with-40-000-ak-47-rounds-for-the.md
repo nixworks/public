@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Noticias24](http://www.noticias24.com/actualidad/?p=14976)
-2. [El Tiempo](http://www.eltiempo.com/justicia/2008-06-06/ARTICULO-WEB-NOTA_INTERIOR-4239309.html)
+1. [El Tiempo](http://www.eltiempo.com/justicia/2008-06-06/ARTICULO-WEB-NOTA_INTERIOR-4239309.html)
+2. [Noticias24](http://www.noticias24.com/actualidad/?p=14976)
 
 ### Related:
 

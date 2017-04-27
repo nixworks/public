@@ -7,8 +7,8 @@ Turkish Prime Minister Tayyip Erdogan said on Friday almost all leaders at the G
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/10289837/Syria-crisis-Barack-Obama-faces-growing-opposition-to-airstrikes-as-he-arrives-for-G20.html)
-2. [Reuters](http://www.reuters.com/article/2013/09/06/us-syria-crisis-turkey-idUSBRE9850MX20130906)
+1. [Reuters](http://www.reuters.com/article/2013/09/06/us-syria-crisis-turkey-idUSBRE9850MX20130906)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/10289837/Syria-crisis-Barack-Obama-faces-growing-opposition-to-airstrikes-as-he-arrives-for-G20.html)
 
 ### Related:
 

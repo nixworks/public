@@ -7,9 +7,9 @@ Jerry Sandusky released an audio statement on Penn State radio on the eve of his
 
 ### Source:
 
-1. [The Patriot News](http://www.pennlive.com/midstate/index.ssf/2012/10/jerry_sandusky_sentencing_hear.html)
+1. [AP via ''Boston Globe](http://www.bostonglobe.com/sports/2012/10/08/jerry-sandusky-speaks-before-sentencing-hearing/lk6oiUxf90q74yYoisBHIJ/story.html)
 2. [CNN](http://www.cnn.com/2012/10/09/justice/pennsylvania-sandusky-sentencing/index.html)
-3. [AP via ''Boston Globe](http://www.bostonglobe.com/sports/2012/10/08/jerry-sandusky-speaks-before-sentencing-hearing/lk6oiUxf90q74yYoisBHIJ/story.html)
+3. [The Patriot News](http://www.pennlive.com/midstate/index.ssf/2012/10/jerry_sandusky_sentencing_hear.html)
 
 ### Related:
 

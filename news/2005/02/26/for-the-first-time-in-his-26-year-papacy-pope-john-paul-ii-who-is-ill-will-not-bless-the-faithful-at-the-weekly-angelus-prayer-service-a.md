@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://olympics.reuters.com/newsArticle.jhtml?type=topNews&storyID=7748114)
-2. [Calcutta Telegraph](http://www.telegraphindia.com/1050227/asp/foreign/story_4430844.asp)
+1. [Calcutta Telegraph](http://www.telegraphindia.com/1050227/asp/foreign/story_4430844.asp)
+2. [Reuters](http://olympics.reuters.com/newsArticle.jhtml?type=topNews&storyID=7748114)
 3. [The Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-4828104,00.html)
 
 ### Related:

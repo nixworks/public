@@ -7,9 +7,9 @@ Pakistan lodged a strong protest with the United States over what it called an u
 
 ### Source:
 
-1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7447608.stm)
-2. [Reuters](http://www.reuters.com/article/topNews/idUSISL17728520080611)
-3. [AP via Google News](http://ap.google.com/article/ALeqM5jkKFU8CvHoLV5ont_58iLTVBWLVQD917P8L80)
+1. [AP via Google News](http://ap.google.com/article/ALeqM5jkKFU8CvHoLV5ont_58iLTVBWLVQD917P8L80)
+2. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7447608.stm)
+3. [Reuters](http://www.reuters.com/article/topNews/idUSISL17728520080611)
 
 ### Related:
 

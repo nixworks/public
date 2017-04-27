@@ -7,9 +7,9 @@ Yukio Hatoyama promises to take aggressive stance on global climate change.
 
 ### Source:
 
-1. [Japan Today](http://www.japantoday.com/category/politics/view/hatoyama-reiterates-goal-of-25-emission-cuts-by-2020)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/09/20099771059232213.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/8241016.stm)
-3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/09/20099771059232213.html)
+3. [Japan Today](http://www.japantoday.com/category/politics/view/hatoyama-reiterates-goal-of-25-emission-cuts-by-2020)
 
 ### Related:
 

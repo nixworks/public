@@ -7,9 +7,9 @@ Social networking site shut down over caricatures of Prophet Mohammed.
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/world/south_asia/10192755.stm)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ju8Kku2aAuieZmu1g3uUvBOFpHNA)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/05/20105307578310974.html)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ju8Kku2aAuieZmu1g3uUvBOFpHNA)
+3. [BBC](http://news.bbc.co.uk/2/hi/world/south_asia/10192755.stm)
 
 ### Related:
 

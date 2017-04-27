@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2008/WORLD/asiapcf/12/24/china.gas/index.html?eref=edition_asia)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/7799103.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/7799103.stm)
+2. [CNN](http://edition.cnn.com/2008/WORLD/asiapcf/12/24/china.gas/index.html?eref=edition_asia)
 
 ### Related:
 

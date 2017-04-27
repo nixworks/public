@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/business/scottish-economist-angus-deaton-wins-nobel-economics-prize/2015/10/12/9dad5124-70d3-11e5-ba14-318f8e87a2fc_story.html)
-2. [Huffington Post](http://www.huffingtonpost.com/entry/2015-nobel-prize-economics_561b6395e4b0e66ad4c8660e)
+1. [Huffington Post](http://www.huffingtonpost.com/entry/2015-nobel-prize-economics_561b6395e4b0e66ad4c8660e)
+2. [Washington Post](http://www.washingtonpost.com/business/scottish-economist-angus-deaton-wins-nobel-economics-prize/2015/10/12/9dad5124-70d3-11e5-ba14-318f8e87a2fc_story.html)
 
 ### Related:
 

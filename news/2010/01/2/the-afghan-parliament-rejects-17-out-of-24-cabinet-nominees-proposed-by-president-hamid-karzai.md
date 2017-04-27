@@ -7,8 +7,8 @@ Afghan president Hamid Karzai has suffered a stinging rebuke with the rejection 
 
 ### Source:
 
-1. [Hürriyet](http://www.hurriyetdailynews.com/n.php?n=afghan-parliament-rejects-most-of-karzais-cabinet-nominees-2010-01-02)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/01/201012111935617946.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/01/201012111935617946.html)
+2. [Hürriyet](http://www.hurriyetdailynews.com/n.php?n=afghan-parliament-rejects-most-of-karzais-cabinet-nominees-2010-01-02)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/afghanistan/6924731/Blow-for-Afghan-President-Hamid-Karzai-as-MPs-reject-most-of-his-cabinet-nominees.html)
 
 ### Related:

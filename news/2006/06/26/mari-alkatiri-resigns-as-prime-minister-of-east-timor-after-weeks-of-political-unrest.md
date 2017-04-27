@@ -7,8 +7,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Reuters](http://today.reuters.com/News/newsArticle.aspx?type=worldNews&storyID=2006-06-26T032905Z_01_SP8189_RTRUKOC_0_US-TIMOR.xml)
-2. [Melbourne Herald Sun](http://www.heraldsun.news.com.au/common/story_page/0,5478,19591368%255E661,00.html)
+1. [Melbourne Herald Sun](http://www.heraldsun.news.com.au/common/story_page/0,5478,19591368%255E661,00.html)
+2. [Reuters](http://today.reuters.com/News/newsArticle.aspx?type=worldNews&storyID=2006-06-26T032905Z_01_SP8189_RTRUKOC_0_US-TIMOR.xml)
 
 ### Related:
 

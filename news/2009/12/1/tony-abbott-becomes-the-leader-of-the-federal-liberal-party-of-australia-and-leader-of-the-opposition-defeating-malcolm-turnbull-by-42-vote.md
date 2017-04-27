@@ -7,8 +7,8 @@ New Liberal leader Tony Abbott has promised to take the fight to the Government 
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8387653.stm)
-2. [ABC News Australia](http://www.abc.net.au/news/stories/2009/12/01/2758345.htm?section=business)
+1. [ABC News Australia](http://www.abc.net.au/news/stories/2009/12/01/2758345.htm?section=business)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8387653.stm)
 
 ### Related:
 

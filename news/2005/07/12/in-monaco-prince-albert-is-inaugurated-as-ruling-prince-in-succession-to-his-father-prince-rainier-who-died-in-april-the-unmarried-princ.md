@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4674109.stm)
-2. [Mail&Guardian](http://www.mg.co.za/articlePage.aspx?articleid=245198&area=/breaking_news/breaking_news__international_news/)
-3. [CNN](http://www.cnn.com/2005/WORLD/europe/07/12/albert.monaco.ap/index.html)
+2. [CNN](http://www.cnn.com/2005/WORLD/europe/07/12/albert.monaco.ap/index.html)
+3. [Mail&Guardian](http://www.mg.co.za/articlePage.aspx?articleid=245198&area=/breaking_news/breaking_news__international_news/)
 
 ### Related:
 

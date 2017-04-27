@@ -8,8 +8,8 @@ The Spanish government has rejected a statement by the Basque separatist group E
 ### Source:
 
 1. [AFP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/spain-rejects-eta-ceasefire-offer-20100927-15sno.html)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-11414320)
-3. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/09/201092615611273210.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/09/201092615611273210.html)
+3. [BBC](http://www.bbc.co.uk/news/world-europe-11414320)
 
 ### Related:
 

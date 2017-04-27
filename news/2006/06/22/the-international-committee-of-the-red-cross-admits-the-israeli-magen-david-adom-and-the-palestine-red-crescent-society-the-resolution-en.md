@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2006/WORLD/asiapcf/06/22/israel.redcross.ap/index.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/5104680.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/5104680.stm)
+2. [CNN](http://www.cnn.com/2006/WORLD/asiapcf/06/22/israel.redcross.ap/index.html)
 
 ### Related:
 

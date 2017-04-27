@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,15150852,00.html)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-13753422)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-13753422)
+2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,15150852,00.html)
 
 ### Related:
 

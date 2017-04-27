@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Boxing Scene](http://www.boxingscene.com/teenage-boxer-collapses-dies-bout-jakarta--61805)
-2. [Bangkok Post](http://www.bangkokpost.com/breakingnews/333015/indonesian-boxer-17-dies-after-fight)
+1. [Bangkok Post](http://www.bangkokpost.com/breakingnews/333015/indonesian-boxer-17-dies-after-fight)
+2. [Boxing Scene](http://www.boxingscene.com/teenage-boxer-collapses-dies-bout-jakarta--61805)
 3. [Delfi Sport](http://sport.delfi.ee/news/voitlussport/poks/jube-video-17-aastane-profipoksija-suri-matsi-ajal-saadud-vigastustesse.d?id=65588064)
 
 ### Related:

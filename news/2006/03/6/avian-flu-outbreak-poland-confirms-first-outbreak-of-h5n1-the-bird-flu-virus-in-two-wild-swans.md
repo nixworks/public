@@ -7,8 +7,8 @@ The first Polish case of H5 bird flu has been found in two swans found dead on t
 
 ### Source:
 
-1. [News-Medical Net](http://www.news-medical.net/?id=16348)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/4777832.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4777832.stm)
+2. [News-Medical Net](http://www.news-medical.net/?id=16348)
 
 ### Related:
 

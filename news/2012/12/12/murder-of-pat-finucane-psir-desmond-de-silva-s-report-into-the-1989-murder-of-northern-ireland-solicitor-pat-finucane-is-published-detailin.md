@@ -7,11 +7,11 @@ A review into the murder of Belfast solicitor Pat Finucane in 1989 has found tha
 
 ### Source:
 
-1. [Irish Independent](http://www.independent.ie/national-news/british-agents-facilitated-the-murder-of-pat-finucane-3324832.html)
-2. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-20662412)
-3. [The Guardian](http://www.guardian.co.uk/uk/2012/dec/12/pat-finucane-family-report-sham)
+1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-20662412)
+2. [Irish Independent](http://www.independent.ie/national-news/british-agents-facilitated-the-murder-of-pat-finucane-3324832.html)
+3. [Irish Independent](http://www.independent.ie/national-news/video-cameron-sorry-at-shocking-collusion-in-finucane-murder-3324553.html)
 4. [RTÉ](http://www.rte.ie/news/2012/1212/pat-finucane-review.html)
-5. [Irish Independent](http://www.independent.ie/national-news/video-cameron-sorry-at-shocking-collusion-in-finucane-murder-3324553.html)
+5. [The Guardian](http://www.guardian.co.uk/uk/2012/dec/12/pat-finucane-family-report-sham)
 
 ### Related:
 

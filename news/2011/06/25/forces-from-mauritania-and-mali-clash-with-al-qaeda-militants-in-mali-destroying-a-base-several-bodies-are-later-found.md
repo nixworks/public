@@ -7,8 +7,8 @@ BAMAKO (AFP) - A number of bodies have been recovered after a Mauritanian army r
 
 ### Source:
 
-1. [Focus Information Agency](http://www.focus-fen.net/index.php?id=n253125)
-2. [CNN](http://www.cnn.com/2011/WORLD/africa/06/26/mauritania.al.qaeda/index.html)
+1. [CNN](http://www.cnn.com/2011/WORLD/africa/06/26/mauritania.al.qaeda/index.html)
+2. [Focus Information Agency](http://www.focus-fen.net/index.php?id=n253125)
 3. [Modern Ghana](http://www.modernghana.com/news/336547/1/bodies-found-after-mauritanian-raid-on-mali-al-qae.html)
 
 ### Related:

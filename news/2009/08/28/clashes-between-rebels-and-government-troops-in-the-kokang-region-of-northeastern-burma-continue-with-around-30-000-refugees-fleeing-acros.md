@@ -7,9 +7,9 @@ Fresh fighting has erupted between Myanmar forces and an armed ethnic group in t
 
 ### Source:
 
-1. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6813718.ece)
+1. [China Daily](http://www.chinadaily.com.cn/world/2009-08/29/content_8630621.htm)
 2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE57R35Q20090828)
-3. [China Daily](http://www.chinadaily.com.cn/world/2009-08/29/content_8630621.htm)
+3. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6813718.ece)
 
 ### Related:
 

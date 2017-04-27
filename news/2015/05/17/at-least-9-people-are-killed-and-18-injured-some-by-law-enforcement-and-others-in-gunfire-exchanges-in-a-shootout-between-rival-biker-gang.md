@@ -7,9 +7,9 @@ Eighteen people wounded as gunfire erupts near Interstate 35; local police serge
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/us-news/2015/may/17/biker-gang-shooting-waco-texas)
+1. [Austin American-Statesman](http://www.statesman.com/news/news/local/biker-gang-shootout-leaves-nine-dead-in-waco/nmJCC/?ecmp=statesman_social_twitter_2014_sfp)
 2. [KWTX](http://www.kwtx.com/home/headlines/Waco-Shooting-Near-Twin-Peaks-In-Waco-304043711.html)
-3. [Austin American-Statesman](http://www.statesman.com/news/news/local/biker-gang-shootout-leaves-nine-dead-in-waco/nmJCC/?ecmp=statesman_social_twitter_2014_sfp)
+3. [The Guardian](http://www.theguardian.com/us-news/2015/may/17/biker-gang-shooting-waco-texas)
 
 ### Related:
 

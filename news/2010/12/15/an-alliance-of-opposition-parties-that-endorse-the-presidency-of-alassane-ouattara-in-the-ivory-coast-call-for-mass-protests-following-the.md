@@ -7,8 +7,8 @@ Ouattara’s camp asks supporters to help them take over state television and go
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2010/12/15/world/africa/15briefs-IvoryCoast.html?src=twrhp)
-2. [Africa Review](http://www.africareview.com/News/-/979180/1072742/-/i7ikn5z/-/)
+1. [Africa Review](http://www.africareview.com/News/-/979180/1072742/-/i7ikn5z/-/)
+2. [New York Times](http://www.nytimes.com/2010/12/15/world/africa/15briefs-IvoryCoast.html?src=twrhp)
 
 ### Related:
 

@@ -7,9 +7,9 @@ At least nine people die after heavy snowfall hits the northern Japanese island 
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2013/03/04/world/asia/japan-snow-deaths)
-2. [The Guardian](http://www.guardian.co.uk/world/2013/mar/01/japan-record-snowfall-not-deepest-ever)
-3. [BBC](http://www.bbc.co.uk/news/world-asia-21657589)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-21657589)
+2. [CNN](http://www.cnn.com/2013/03/04/world/asia/japan-snow-deaths)
+3. [The Guardian](http://www.guardian.co.uk/world/2013/mar/01/japan-record-snowfall-not-deepest-ever)
 
 ### Related:
 

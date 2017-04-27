@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [SANA](http://sana.sy/eng/337/2012/09/01/439090.htm)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-19448107)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-19448107)
+2. [SANA](http://sana.sy/eng/337/2012/09/01/439090.htm)
 
 ### Related:
 

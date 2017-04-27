@@ -8,12 +8,12 @@ Poland has earmarked 2 billion zlotys ($590 million) from budget reserves to hel
 ### Source:
 
 1. [RIA Novosti](http://en.rian.ru/world/20100525/159154709.html)
-2. [Voice of America](http://www1.voanews.com/english/news/europe/Polish-PM-Promises-Relief-for-Flood-Victims-94867949.html)
-3. [The Hindu](http://beta.thehindu.com/news/international/article438324.ece)
+2. [Reuters](http://www.reuters.com/article/idUSTRE64O4F220100525)
+3. [Sky News](http://news.sky.com/skynews/Home/World-News/Poland-Floods-Germany-On-Flood-Alert-After-Severe-Polish-Flooding-Risks-Damage-On-Border/Article/201005415638174?lpos=World_News_First_Home_Article_Teaser_Region_6&lid=ARTICLE_15638174_Poland_Floods%3A_Germany_On_Flood_Alert_After_Severe_Polish_Flooding_Risks_Damage_On_Border)
 4. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/poland/7764347/Beavers-responsible-for-Polands-flooding.html)
-5. [Reuters](http://www.reuters.com/article/idUSTRE64O4F220100525)
-6. [The Guardian](http://www.guardian.co.uk/world/2010/may/24/warsaw-vistula-river-flood-poland)
-7. [Sky News](http://news.sky.com/skynews/Home/World-News/Poland-Floods-Germany-On-Flood-Alert-After-Severe-Polish-Flooding-Risks-Damage-On-Border/Article/201005415638174?lpos=World_News_First_Home_Article_Teaser_Region_6&lid=ARTICLE_15638174_Poland_Floods%3A_Germany_On_Flood_Alert_After_Severe_Polish_Flooding_Risks_Damage_On_Border)
+5. [The Guardian](http://www.guardian.co.uk/world/2010/may/24/warsaw-vistula-river-flood-poland)
+6. [The Hindu](http://beta.thehindu.com/news/international/article438324.ece)
+7. [Voice of America](http://www1.voanews.com/english/news/europe/Polish-PM-Promises-Relief-for-Flood-Victims-94867949.html)
 
 ### Related:
 

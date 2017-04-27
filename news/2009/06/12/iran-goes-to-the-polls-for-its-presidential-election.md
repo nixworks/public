@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8096411.stm)
-2. [AFP via Yahoo](http://news.yahoo.com/s/afp/20090611/wl_afp/iranvote_20090611193526;_ylt=AqSrjIBl2juKUx5_o6KmY2uFOrgF;_ylu=X3oDMTJmMTFqZnJwBGFzc2V0A2FmcC8yMDA5MDYxMS9pcmFudm90ZQRwb3MDMwRzZWMDeW5fcGFnaW5hdGVfc3VtbWFyeV9saXN0BHNsawNpcmFuZ2VhcnN1cGY-)
+1. [AFP via Yahoo](http://news.yahoo.com/s/afp/20090611/wl_afp/iranvote_20090611193526;_ylt=AqSrjIBl2juKUx5_o6KmY2uFOrgF;_ylu=X3oDMTJmMTFqZnJwBGFzc2V0A2FmcC8yMDA5MDYxMS9pcmFudm90ZQRwb3MDMwRzZWMDeW5fcGFnaW5hdGVfc3VtbWFyeV9saXN0BHNsawNpcmFuZ2VhcnN1cGY-)
+2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8096411.stm)
 
 ### Related:
 

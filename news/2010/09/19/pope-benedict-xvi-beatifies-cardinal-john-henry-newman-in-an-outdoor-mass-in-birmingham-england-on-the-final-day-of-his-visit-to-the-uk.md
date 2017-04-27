@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/uk-11360529)
-2. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20100919/wl_afp/vaticanpopebritain)
+1. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20100919/wl_afp/vaticanpopebritain)
+2. [BBC](http://www.bbc.co.uk/news/uk-11360529)
 
 ### Related:
 

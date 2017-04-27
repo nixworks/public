@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [National Hurricane Center](http://www.nhc.noaa.gov/archive/2006/al06/al062006.public_a.027.shtml?)
-2. [CNN](http://www.cnn.com/2006/WEATHER/09/10/bermuda.tropical.ap/index.html?section=cnn_latest)
+1. [CNN](http://www.cnn.com/2006/WEATHER/09/10/bermuda.tropical.ap/index.html?section=cnn_latest)
+2. [National Hurricane Center](http://www.nhc.noaa.gov/archive/2006/al06/al062006.public_a.027.shtml?)
 
 ### Related:
 

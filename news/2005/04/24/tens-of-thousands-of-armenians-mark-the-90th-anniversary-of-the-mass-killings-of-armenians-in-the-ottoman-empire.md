@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.alertnet.org/thenews/newsdesk/L24647754.htm)
-2. [CBC](http://www.cbc.ca/cp/world/050424/w042406.html)
+1. [CBC](http://www.cbc.ca/cp/world/050424/w042406.html)
+2. [Reuters](http://www.alertnet.org/thenews/newsdesk/L24647754.htm)
 
 ### Related:
 

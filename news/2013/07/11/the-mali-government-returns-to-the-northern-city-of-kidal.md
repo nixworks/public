@@ -7,8 +7,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/world/africa/mali-government-officials-return-to-key-northern-city-of-kidal-16-months-after-rebel-takeover/2013/07/11/9d58ed66-ea4b-11e2-818e-aa29e855f3ab_story.html)
-2. [ABC](http://abcnews.go.com/International/wireStory/malis-government-returns-key-northern-city-19640398#.Ud7y3tL2aSo)
+1. [ABC](http://abcnews.go.com/International/wireStory/malis-government-returns-key-northern-city-19640398#.Ud7y3tL2aSo)
+2. [Washington Post](http://www.washingtonpost.com/world/africa/mali-government-officials-return-to-key-northern-city-of-kidal-16-months-after-rebel-takeover/2013/07/11/9d58ed66-ea4b-11e2-818e-aa29e855f3ab_story.html)
 
 ### Related:
 

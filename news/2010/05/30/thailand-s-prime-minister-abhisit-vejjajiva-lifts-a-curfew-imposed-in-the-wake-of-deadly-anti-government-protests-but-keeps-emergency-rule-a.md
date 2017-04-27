@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Australian](http://www.theaustralian.com.au/news/world/thailand-seems-back-to-normal-says-pm/story-e6frg6so-1225873216699)
-2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/05/30/thailand.protests/index.html)
+1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/05/30/thailand.protests/index.html)
+2. [The Australian](http://www.theaustralian.com.au/news/world/thailand-seems-back-to-normal-says-pm/story-e6frg6so-1225873216699)
 
 ### Related:
 

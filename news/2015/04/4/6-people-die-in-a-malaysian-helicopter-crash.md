@@ -7,8 +7,8 @@ A helicopter crashed outside Kuala Lumpur on Saturday, killing all six people on
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/news/world/malaysia-helicopter-crash-kills-6-including-ex-ambassador-to-the-us-1.3021242)
-2. [ABC](http://abcnews.go.com/International/wireStory/helicopter-crash-malaysia-kills-board-30097627)
+1. [ABC](http://abcnews.go.com/International/wireStory/helicopter-crash-malaysia-kills-board-30097627)
+2. [CBC](http://www.cbc.ca/news/world/malaysia-helicopter-crash-kills-6-including-ex-ambassador-to-the-us-1.3021242)
 
 ### Related:
 

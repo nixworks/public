@@ -7,9 +7,9 @@ Hillary Rodham Clinton threw up a roadblock to Barack Obama&#8217;s path to the 
 
 ### Source:
 
-1. [MSNBC](http://www.msnbc.msn.com/id/23463159/)
+1. [ABC News](http://abcnews.go.com/Politics/Vote2008/story?id=4279807&page=1)
 2. [CNN](http://www.cnn.com/2008/POLITICS/03/04/march.4.contests/index.html)
-3. [ABC News](http://abcnews.go.com/Politics/Vote2008/story?id=4279807&page=1)
+3. [MSNBC](http://www.msnbc.msn.com/id/23463159/)
 
 ### Related:
 

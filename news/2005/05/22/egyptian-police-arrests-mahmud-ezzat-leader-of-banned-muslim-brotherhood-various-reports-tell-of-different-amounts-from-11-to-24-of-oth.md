@@ -8,8 +8,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### Source:
 
 1. [ABC](http://abcnews.go.com/International/wireStory?id=779533)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4570421.stm)
-3. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/C6C7EBAE-D886-40D3-B747-6B08C0994124.htm)
+2. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/C6C7EBAE-D886-40D3-B747-6B08C0994124.htm)
+3. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4570421.stm)
 
 ### Related:
 

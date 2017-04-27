@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/N19639243.htm)
-2. [Jamaica Observer](http://www.jamaicaobserver.com/news/html/20050119T200000-0500_73538_OBS_CUBA_TO_BAN_SMOKING_IN_PUBLIC_PLACES_.asp)
+1. [Jamaica Observer](http://www.jamaicaobserver.com/news/html/20050119T200000-0500_73538_OBS_CUBA_TO_BAN_SMOKING_IN_PUBLIC_PLACES_.asp)
+2. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/N19639243.htm)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The Supreme Court handed abortion rights advocates a victory Friday by blocking 
 
 ### Source:
 
-1. [AFP via GlobalPost](http://www.globalpost.com/article/6742171/2016/03/04/supreme-court-blocks-louisiana-abortion-restrictions)
-2. [ (''Los Angeles Times](http://www.latimes.com/nation/la-na-court-louisiana-abortion-20160304-story.html)
+1. [ (''Los Angeles Times](http://www.latimes.com/nation/la-na-court-louisiana-abortion-20160304-story.html)
+2. [AFP via GlobalPost](http://www.globalpost.com/article/6742171/2016/03/04/supreme-court-blocks-louisiana-abortion-restrictions)
 
 ### Related:
 

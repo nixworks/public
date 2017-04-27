@@ -7,8 +7,8 @@ CARACAS, Venezuela (AP) — Venezuela&#039;s supreme court has struck down an at
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-latin-america-36136282)
-2. [AP](http://bigstory.ap.org/article/7500fe4e4e5c40d685aff626c1af6a64/venezuela-court-blocks-bid-cut-short-presidents-term)
+1. [AP](http://bigstory.ap.org/article/7500fe4e4e5c40d685aff626c1af6a64/venezuela-court-blocks-bid-cut-short-presidents-term)
+2. [BBC](http://www.bbc.com/news/world-latin-america-36136282)
 
 ### Related:
 

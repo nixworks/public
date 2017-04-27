@@ -7,8 +7,8 @@ Harry Redknapp is the new Queens Park Rangers manager after the club finally dec
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/sport/football/premier-league/harry-redknapp-appointed-qpr-manager-after-club-sacks-mark-hughes-8346721.html)
-2. [The Guardian](http://www.guardian.co.uk/football/2012/nov/23/mark-hughes-sacked-by-qpr)
+1. [The Guardian](http://www.guardian.co.uk/football/2012/nov/23/mark-hughes-sacked-by-qpr)
+2. [The Independent](http://www.independent.co.uk/sport/football/premier-league/harry-redknapp-appointed-qpr-manager-after-club-sacks-mark-hughes-8346721.html)
 
 ### Related:
 

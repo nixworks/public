@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The National](http://www.thenational.ae/apps/pbcs.dll/article?AID=/20091103/NATIONAL/711029853/1138/opinion)
-2. [Philippine Inquirer](http://newsinfo.inquirer.net/breakingnews/world/view/20091103-233856/Dubai-to-appoint-female-muftis-in-2010--report)
+1. [Philippine Inquirer](http://newsinfo.inquirer.net/breakingnews/world/view/20091103-233856/Dubai-to-appoint-female-muftis-in-2010--report)
+2. [The National](http://www.thenational.ae/apps/pbcs.dll/article?AID=/20091103/NATIONAL/711029853/1138/opinion)
 
 ### Related:
 

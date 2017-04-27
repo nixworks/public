@@ -7,9 +7,9 @@ The gunman, disguised as a tourist, pulled out a Kalashnikov hidden in an umbrel
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/story/1508894/attack-on-tourist-hotel-in-tunisia-reports)
-2. [USA Today](http://www.usatoday.com/story/news/world/2015/06/26/tunisia-gunman-attack-resort-town-british-tourists/29321371/)
-3. [BBC](http://www.bbc.com/news/world-africa-33287978)
+1. [BBC](http://www.bbc.com/news/world-africa-33287978)
+2. [Sky News](http://news.sky.com/story/1508894/attack-on-tourist-hotel-in-tunisia-reports)
+3. [USA Today](http://www.usatoday.com/story/news/world/2015/06/26/tunisia-gunman-attack-resort-town-british-tourists/29321371/)
 
 ### Related:
 

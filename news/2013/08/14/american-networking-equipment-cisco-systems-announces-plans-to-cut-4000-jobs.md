@@ -7,8 +7,8 @@ Network equipment maker Cisco Systems Inc is cutting 4,000 jobs, or 5 percent of
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/08/15/us-cisco-results-idUSBRE97D16W20130815)
-2. [Fox News](http://www.foxnews.com/world/2013/08/14/indian-naval-submarine-sinks-catches-fire/)
+1. [Fox News](http://www.foxnews.com/world/2013/08/14/indian-naval-submarine-sinks-catches-fire/)
+2. [Reuters](http://www.reuters.com/article/2013/08/15/us-cisco-results-idUSBRE97D16W20130815)
 
 ### Related:
 

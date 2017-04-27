@@ -8,15 +8,15 @@ Intense gunfire was heard in the center of the Libyan capital Tripoli before daw
 ### Source:
 
 1. [AP via Forbes](http://www.forbes.com/feeds/ap/2011/03/06/general-af-libya_8341053.html)
-2. [The Guardian](http://www.guardian.co.uk/world/blog/2011/mar/06/arab-and-middle-east-protests-libya)
-3. [Sky News](http://news.sky.com/skynews/Article/201103115946506)
-4. [Al Jazeera](http://blogs.aljazeera.net/live/africa/libya-live-blog-march-6-0)
-5. [The Guardian](http://www.guardian.co.uk/world/2011/mar/06/gunfire-in-tripoli-gaddafi-libya)
-6. [MSNBC](http://www.msnbc.msn.com/id/41931757/ns/world_news-mideastn_africa/?utm_content=News+Msnbc&utm_source=twitterfeed&utm_medium=twitter)
-7. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-03/06/c_13764110.htm)
-8. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/libya/8363260/Libya-Fierce-battle-for-Zawiyah-amid-claims-Gaddafis-tanks-fired-on-residential-areas.html)
-9. [The Guardian](http://www.guardian.co.uk/world/2011/mar/06/sas-diplomatic-mission-in-libya?utm_source=guardian+UK&utm_medium=twitter)
-10. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/2011362186155924.html)
+2. [Al Jazeera](http://blogs.aljazeera.net/live/africa/libya-live-blog-march-6-0)
+3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/2011362186155924.html)
+4. [MSNBC](http://www.msnbc.msn.com/id/41931757/ns/world_news-mideastn_africa/?utm_content=News+Msnbc&utm_source=twitterfeed&utm_medium=twitter)
+5. [Sky News](http://news.sky.com/skynews/Article/201103115946506)
+6. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/libya/8363260/Libya-Fierce-battle-for-Zawiyah-amid-claims-Gaddafis-tanks-fired-on-residential-areas.html)
+7. [The Guardian](http://www.guardian.co.uk/world/2011/mar/06/gunfire-in-tripoli-gaddafi-libya)
+8. [The Guardian](http://www.guardian.co.uk/world/2011/mar/06/sas-diplomatic-mission-in-libya?utm_source=guardian+UK&utm_medium=twitter)
+9. [The Guardian](http://www.guardian.co.uk/world/blog/2011/mar/06/arab-and-middle-east-protests-libya)
+10. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-03/06/c_13764110.htm)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Chile win Copa America for the first time in their history after a 4-1 victory o
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/football/live/2015/jul/04/copa-america-2015-final-chile-argentina-live)
-2. [BBC](http://www.bbc.com/sport/live/football/32838240)
+1. [BBC](http://www.bbc.com/sport/live/football/32838240)
+2. [The Guardian](http://www.theguardian.com/football/live/2015/jul/04/copa-america-2015-final-chile-argentina-live)
 
 ### Related:
 

@@ -7,5 +7,5 @@ California police have detained a suspect in a shooting at the Tule River Indian
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/12/09/us-usa-california-shooting-idUSBRE8B80DC20121209)
-2. [Fox News](http://www.foxnews.com/us/2012/12/09/3-dead-4-wounded-in-shooting-at-california-reservation/)
+1. [Fox News](http://www.foxnews.com/us/2012/12/09/3-dead-4-wounded-in-shooting-at-california-reservation/)
+2. [Reuters](http://www.reuters.com/article/2012/12/09/us-usa-california-shooting-idUSBRE8B80DC20121209)

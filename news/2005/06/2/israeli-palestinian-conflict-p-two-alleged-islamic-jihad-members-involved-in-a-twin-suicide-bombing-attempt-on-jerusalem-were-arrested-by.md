@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Haaretz](http://www.haaretz.com/hasen/spages/583771.html)
-2. [Haaretz](http://www.haaretz.com/hasen/spages/583367.html)
+1. [Haaretz](http://www.haaretz.com/hasen/spages/583367.html)
+2. [Haaretz](http://www.haaretz.com/hasen/spages/583771.html)
 
 ### Related:
 

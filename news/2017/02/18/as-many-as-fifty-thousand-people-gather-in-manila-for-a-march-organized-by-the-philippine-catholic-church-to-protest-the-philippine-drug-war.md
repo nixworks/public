@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [International Business Times](http://www.ibtimes.co.uk/tens-thousands-filipino-catholics-protest-against-death-penalty-dutertes-drug-war-1607241)
-2. [Fox News](http://www.foxnews.com/world/2017/02/18/philippine-catholics-rally-vs-drug-killings-death-penalty.html)
+1. [Fox News](http://www.foxnews.com/world/2017/02/18/philippine-catholics-rally-vs-drug-killings-death-penalty.html)
+2. [International Business Times](http://www.ibtimes.co.uk/tens-thousands-filipino-catholics-protest-against-death-penalty-dutertes-drug-war-1607241)
 
 ### Related:
 

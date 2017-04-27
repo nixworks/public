@@ -7,11 +7,11 @@ Get a recap of the Louisville Cardinals vs. California Golden Bears basketball g
 
 ### Source:
 
-1. [ESPN](http://scores.espn.go.com/ncw/recap?gameId=330970087)
-2. [AP via ESPN](http://espn.go.com/mens-college-basketball/story/_/id/9144974/drury-hits-free-throws-take-division-ii-championship)
-3. [The Atlanta Journal-Constitution](http://www.ajc.com/news/sports/amherst-wins-diii-national-title/nXFjw/)
-4. [AP via ESPN](http://scores.espn.go.com/ncw/recap?gameId=330970025)
-5. [CBS](http://www.cbssports.com/collegebasketball/story/22027763/amherst-beats-mary-hardinbaylor-for-division-iii-title)
+1. [AP via ESPN](http://espn.go.com/mens-college-basketball/story/_/id/9144974/drury-hits-free-throws-take-division-ii-championship)
+2. [AP via ESPN](http://scores.espn.go.com/ncw/recap?gameId=330970025)
+3. [CBS](http://www.cbssports.com/collegebasketball/story/22027763/amherst-beats-mary-hardinbaylor-for-division-iii-title)
+4. [ESPN](http://scores.espn.go.com/ncw/recap?gameId=330970087)
+5. [The Atlanta Journal-Constitution](http://www.ajc.com/news/sports/amherst-wins-diii-national-title/nXFjw/)
 
 ### Related:
 

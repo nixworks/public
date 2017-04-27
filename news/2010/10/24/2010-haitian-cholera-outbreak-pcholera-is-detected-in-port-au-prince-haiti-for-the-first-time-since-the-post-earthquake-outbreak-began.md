@@ -7,9 +7,9 @@ At least five cases of the disease discovered in Port-au-Prince, but UN official
 
 ### Source:
 
-1. [The Wall Street Journal](http://online.wsj.com/article/SB10001424052702303864404575572691625613642.html)
-2. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/10/20101024021144915.html)
-3. [BBC](http://www.bbc.co.uk/news/world-latin-america-11614639)
+1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/10/20101024021144915.html)
+2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11614639)
+3. [The Wall Street Journal](http://online.wsj.com/article/SB10001424052702303864404575572691625613642.html)
 
 ### Related:
 

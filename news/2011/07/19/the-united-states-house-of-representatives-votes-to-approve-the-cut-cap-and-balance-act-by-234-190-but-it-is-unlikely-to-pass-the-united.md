@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/business/economy/house-pursues-balanced-budget-bill-need-for-backup-plan-acknowledged/2011/07/19/gIQAaz0vNI_story.html?wpisrc=al_politics)
-2. [CNN Political Ticker](http://politicalticker.blogs.cnn.com/2011/07/19/breaking-house-passes-cut-cap-and-balance-bill/)
+1. [CNN Political Ticker](http://politicalticker.blogs.cnn.com/2011/07/19/breaking-house-passes-cut-cap-and-balance-bill/)
+2. [Washington Post](http://www.washingtonpost.com/business/economy/house-pursues-balanced-budget-bill-need-for-backup-plan-acknowledged/2011/07/19/gIQAaz0vNI_story.html?wpisrc=al_politics)
 
 ### Related:
 

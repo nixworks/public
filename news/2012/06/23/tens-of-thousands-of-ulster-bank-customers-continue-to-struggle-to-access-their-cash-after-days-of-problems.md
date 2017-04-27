@@ -7,9 +7,9 @@ THE Central Bank may next week decide to launch a full-scale probe into the IT m
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2012/0623/breaking2.html)
+1. [Evening Herald](http://www.herald.ie/news/ulster-bank-faces-probe-as-100000-are-left-without-cash-3147299.html)
 2. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/central-bank-closely-monitoring-ulster-payments-situation-556320.html)
-3. [Evening Herald](http://www.herald.ie/news/ulster-bank-faces-probe-as-100000-are-left-without-cash-3147299.html)
+3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2012/0623/breaking2.html)
 
 ### Related:
 

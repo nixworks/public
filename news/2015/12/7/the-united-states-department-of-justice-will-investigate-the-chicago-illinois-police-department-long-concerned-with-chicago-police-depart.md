@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2015/12/07/us/justice-dept-expected-to-investigate-chicago-police-after-laquan-mcdonald-case.html?_r=0)
-2. [CNN](http://www.cnn.com/2015/12/07/us/chicago-police-shooting-ronald-johnson/index.html)
+1. [CNN](http://www.cnn.com/2015/12/07/us/chicago-police-shooting-ronald-johnson/index.html)
+2. [New York Times](http://www.nytimes.com/2015/12/07/us/justice-dept-expected-to-investigate-chicago-police-after-laquan-mcdonald-case.html?_r=0)
 
 ### Related:
 

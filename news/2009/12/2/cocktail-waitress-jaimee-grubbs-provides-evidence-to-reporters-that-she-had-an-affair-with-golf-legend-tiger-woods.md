@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Sun](http://www.thesun.co.uk/sol/homepage/news/2753973/Waitress-Jaimee-Grubbs-claims-affair-with-Tiger-Woods.html)
+1. [Huffington Post](http://www.huffingtonpost.com/2009/12/02/tiger-woods-apology-i-reg_n_376779.html)
 2. [Radaronline](http://www.radaronline.com/exclusives/2009/12/tiger-woods-sexual-text-messages-new-cheating-scandal-girl)
-3. [Huffington Post](http://www.huffingtonpost.com/2009/12/02/tiger-woods-apology-i-reg_n_376779.html)
+3. [The Sun](http://www.thesun.co.uk/sol/homepage/news/2753973/Waitress-Jaimee-Grubbs-claims-affair-with-Tiger-Woods.html)
 
 ### Related:
 

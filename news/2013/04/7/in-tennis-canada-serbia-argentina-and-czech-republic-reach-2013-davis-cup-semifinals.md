@@ -7,8 +7,8 @@ Argentina will face defending champions Czech Republic after they eliminated Kaz
 
 ### Source:
 
-1. [Tennis Connected](http://tennisconnected.com/home/2013/04/07/canada-serbia-argentina-and-kazakhstan-reach-davis-cup-semifinals/)
-2. [AFP via NDTV](http://sports.ndtv.com/tennis/news/205979-argentina-serbia-reach-davis-cup-semifinals)
+1. [AFP via NDTV](http://sports.ndtv.com/tennis/news/205979-argentina-serbia-reach-davis-cup-semifinals)
+2. [Tennis Connected](http://tennisconnected.com/home/2013/04/07/canada-serbia-argentina-and-kazakhstan-reach-davis-cup-semifinals/)
 
 ### Related:
 

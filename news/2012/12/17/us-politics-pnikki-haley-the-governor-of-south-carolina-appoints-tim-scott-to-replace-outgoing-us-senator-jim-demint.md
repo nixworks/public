@@ -7,8 +7,8 @@ Gov. Nikki Haley of South Carolina on Monday appointed GOP Congressman Tim Scott
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/blogs/the-fix/wp/2012/12/17/hawaii-sen-daniel-inouye-dies-at-age-88/)
-2. [ (Time](http://swampland.time.com/2012/12/17/tim-scott-tapped-for-south-carolina-senate-seat/)
+1. [ (Time](http://swampland.time.com/2012/12/17/tim-scott-tapped-for-south-carolina-senate-seat/)
+2. [Washington Post](http://www.washingtonpost.com/blogs/the-fix/wp/2012/12/17/hawaii-sen-daniel-inouye-dies-at-age-88/)
 
 ### Related:
 

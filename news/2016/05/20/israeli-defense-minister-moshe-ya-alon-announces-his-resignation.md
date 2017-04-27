@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [FOX News](http://www.foxnews.com/world/2016/05/20/israeli-defense-minister-resigns-cites-lack-trust-in-netanyahu.html)
-2. [NY Times](http://www.nytimes.com/2016/05/21/world/middleeast/moshe-yaalon-israeli-defense-minister-resigns.html?_r=0)
-3. [BBC](http://www.bbc.com/news/world-middle-east-36340185)
+1. [BBC](http://www.bbc.com/news/world-middle-east-36340185)
+2. [FOX News](http://www.foxnews.com/world/2016/05/20/israeli-defense-minister-resigns-cites-lack-trust-in-netanyahu.html)
+3. [NY Times](http://www.nytimes.com/2016/05/21/world/middleeast/moshe-yaalon-israeli-defense-minister-resigns.html?_r=0)
 
 ### Related:
 

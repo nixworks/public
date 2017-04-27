@@ -8,8 +8,8 @@ Independent TD Catherine Murphy has spoken in the Dáil about the business relat
 ### Source:
 
 1. [Broadsheet](http://www.broadsheet.ie/2015/05/28/redacteds-1-25-interest-rate/)
-2. [UP Report](http://theupreport.org/2015/05/28/catherine-murphy-td-exposes-what-rte-wont/)
-3. [RTE](http://www.rte.ie/news/2015/0528/704498-dail-leaders/)
+2. [RTE](http://www.rte.ie/news/2015/0528/704498-dail-leaders/)
+3. [UP Report](http://theupreport.org/2015/05/28/catherine-murphy-td-exposes-what-rte-wont/)
 
 ### Related:
 

@@ -7,10 +7,10 @@ Scottish justice minister says Libya had agreed to give convict low-key receptio
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2009-08/24/content_11937958.htm)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/08/2009824141339595745.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/scotland/8216897.stm)
 3. [The Guardian](http://www.guardian.co.uk/uk/2009/aug/24/macaskill-defends-megrahi-release-lockerbie)
-4. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/08/2009824141339595745.html)
+4. [Xinhua](http://news.xinhuanet.com/english/2009-08/24/content_11937958.htm)
 
 ### Related:
 

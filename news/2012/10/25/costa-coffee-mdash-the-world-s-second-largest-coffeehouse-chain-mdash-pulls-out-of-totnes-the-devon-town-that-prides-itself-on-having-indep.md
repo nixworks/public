@@ -8,8 +8,8 @@ Costa Coffee, given approval to open in Totnes, pulls out after &quot;recognisin
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-devon-20079092)
-2. [The Huffington Post](http://www.huffingtonpost.co.uk/2012/10/25/costa-retreats-from-totne_n_2015248.html?utm_hp_ref=uk)
-3. [ITV](http://www.itv.com/news/westcountry/2012-10-25/totnes-businesses-say-no-to-costa/)
+2. [ITV](http://www.itv.com/news/westcountry/2012-10-25/totnes-businesses-say-no-to-costa/)
+3. [The Huffington Post](http://www.huffingtonpost.co.uk/2012/10/25/costa-retreats-from-totne_n_2015248.html?utm_hp_ref=uk)
 
 ### Related:
 

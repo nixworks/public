@@ -8,8 +8,8 @@ Europe is beginning its own investigations, although the iPhone and iPad have be
 ### Source:
 
 1. [The Guardian](http://www.guardian.co.uk/technology/2011/apr/22/iphone-android-location-based-services)
-2. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-04/23/c_13842001.htm)
-3. [The New York Times](http://www.nytimes.com/2011/04/22/technology/22data.html?partner=rss&emc=rss)
+2. [The New York Times](http://www.nytimes.com/2011/04/22/technology/22data.html?partner=rss&emc=rss)
+3. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-04/23/c_13842001.htm)
 
 ### Related:
 

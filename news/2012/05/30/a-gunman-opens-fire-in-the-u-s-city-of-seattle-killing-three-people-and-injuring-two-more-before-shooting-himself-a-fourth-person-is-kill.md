@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [King 5](http://www.king5.com/news/local/Triple-shooting-in-northeast-Seattle-155756215.html)
-2. [AP via ''Washington Post](http://www.washingtonpost.com/national/gunman-kills-2-at-seattle-cafe-wounds-3-police-search-for-suspect-on-the-loose/2012/05/30/gJQAfpvF2U_story.html)
+1. [AP via ''Washington Post](http://www.washingtonpost.com/national/gunman-kills-2-at-seattle-cafe-wounds-3-police-search-for-suspect-on-the-loose/2012/05/30/gJQAfpvF2U_story.html)
+2. [King 5](http://www.king5.com/news/local/Triple-shooting-in-northeast-Seattle-155756215.html)
 3. [Seattle Times](http://seattletimes.nwsource.com/html/localnews/2018316552_roosevelt31m.html)
 
 ### Related:

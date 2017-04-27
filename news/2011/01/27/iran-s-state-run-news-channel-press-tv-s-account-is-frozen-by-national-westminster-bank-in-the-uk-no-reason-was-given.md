@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Zee News](http://www.zeenews.com/news683454.html)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5g24PklvrgnE7HmfPis3uomNU_PYg?docId=CNG.32ed027d9136847068e1420850fb9209.fe1)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5g24PklvrgnE7HmfPis3uomNU_PYg?docId=CNG.32ed027d9136847068e1420850fb9209.fe1)
+2. [Zee News](http://www.zeenews.com/news683454.html)
 
 ### Related:
 

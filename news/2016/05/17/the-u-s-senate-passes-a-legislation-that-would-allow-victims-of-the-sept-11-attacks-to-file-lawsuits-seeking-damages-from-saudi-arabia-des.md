@@ -7,9 +7,9 @@ The Senate passed legislation Tuesday that would allow families of Sept. 11 vict
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-saudi-usa-congress-idUSKCN0Y8239)
+1. [LA Times](http://www.latimes.com/nation/nationnow/la-na-saudi-arabia-legislation-20160517-snap-story.html)
 2. [NY Times](http://www.nytimes.com/2016/05/18/us/politics/senate-passes-bill-that-would-expose-saudi-arabia-to-legal-jeopardy-over-9-11.html)
-3. [LA Times](http://www.latimes.com/nation/nationnow/la-na-saudi-arabia-legislation-20160517-snap-story.html)
+3. [Reuters](http://www.reuters.com/article/us-saudi-usa-congress-idUSKCN0Y8239)
 
 ### Related:
 

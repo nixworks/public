@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/skynews/Home/World-News/Pakistan-Shootings-Near-Cricket-Ground-As-Sri-Lanka-Team-Pass-Reuters-Reports-Three-Police-Killed/Article/200903115232972?lpos=World_News_First_World_News_Article_Teaser_Region_0&lid=ARTICLE_15232972_Pakistan%3A_Shootings_Near_Cricket_Ground_As_Sri_Lanka_Team_Pass%2C_Reuters_Reports_Three_Police_Killed)
-2. [BBC](http://news.bbc.co.uk/2/hi/in_depth/7920260.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/in_depth/7920260.stm)
+2. [Sky News](http://news.sky.com/skynews/Home/World-News/Pakistan-Shootings-Near-Cricket-Ground-As-Sri-Lanka-Team-Pass-Reuters-Reports-Three-Police-Killed/Article/200903115232972?lpos=World_News_First_World_News_Article_Teaser_Region_0&lid=ARTICLE_15232972_Pakistan%3A_Shootings_Near_Cricket_Ground_As_Sri_Lanka_Team_Pass%2C_Reuters_Reports_Three_Police_Killed)
 
 ### Related:
 

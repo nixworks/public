@@ -7,8 +7,8 @@ Afghanistan said on Wednesday that Mullah Omar, the elusive leader of the Taliba
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/07/29/us-afghanistan-taliban-idUSKCN0Q312X20150729)
-2. [BBC](http://www.bbc.com/news/world-asia-33703097)
+1. [BBC](http://www.bbc.com/news/world-asia-33703097)
+2. [Reuters](http://www.reuters.com/article/2015/07/29/us-afghanistan-taliban-idUSKCN0Q312X20150729)
 
 ### Related:
 

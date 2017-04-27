@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [VOA](http://www.voanews.com/english/2005-08-22-voa41.cfm)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4173760.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4173760.stm)
+2. [VOA](http://www.voanews.com/english/2005-08-22-voa41.cfm)
 
 ### Related:
 

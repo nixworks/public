@@ -7,8 +7,8 @@ At least 13 people were killed and 36 others were wounded when gunmen attacked t
 
 ### Source:
 
-1. [Fox News](http://www.foxnews.com/world/2016/08/24/gunfire-reportedly-heard-at-american-university-afghanistan.html)
-2. [CNN](http://www.cnn.com/2016/08/24/asia/kabul-afghanistan-american-university-blast-gunshots-heard/)
+1. [CNN](http://www.cnn.com/2016/08/24/asia/kabul-afghanistan-american-university-blast-gunshots-heard/)
+2. [Fox News](http://www.foxnews.com/world/2016/08/24/gunfire-reportedly-heard-at-american-university-afghanistan.html)
 
 ### Related:
 

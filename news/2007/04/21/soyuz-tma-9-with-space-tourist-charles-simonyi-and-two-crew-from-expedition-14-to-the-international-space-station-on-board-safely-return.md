@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2007-04/21/content_6008774.htm)
-2. [BBC](http://news.bbc.co.uk/2/hi/science/nature/6578835.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/6578835.stm)
+2. [Xinhua](http://news.xinhuanet.com/english/2007-04/21/content_6008774.htm)
 
 ### Related:
 

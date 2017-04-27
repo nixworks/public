@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [FOX News](http://www.foxnews.com/story/0,2933,201297,00.html)
-2. [CBS News Alert](http://www.kfmb.com/stories/story.55131.html)
+1. [CBS News Alert](http://www.kfmb.com/stories/story.55131.html)
+2. [FOX News](http://www.foxnews.com/story/0,2933,201297,00.html)
 
 ### Related:
 

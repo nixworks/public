@@ -8,8 +8,8 @@ Community leaders and politicians speak of their shock and sadness after a woman
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-wales-20012639)
-2. [Western Mail](http://www.walesonline.co.uk/cardiffonline/cardiff-news/2012/10/19/cardiff-hit-and-run-tributes-for-karina-menzies-spread-throughout-capital-91466-32069101/)
-3. [The Guardian](http://www.guardian.co.uk/uk/2012/oct/19/woman-killed-cardiff-hit-run)
+2. [The Guardian](http://www.guardian.co.uk/uk/2012/oct/19/woman-killed-cardiff-hit-run)
+3. [Western Mail](http://www.walesonline.co.uk/cardiffonline/cardiff-news/2012/10/19/cardiff-hit-and-run-tributes-for-karina-menzies-spread-throughout-capital-91466-32069101/)
 
 ### Related:
 

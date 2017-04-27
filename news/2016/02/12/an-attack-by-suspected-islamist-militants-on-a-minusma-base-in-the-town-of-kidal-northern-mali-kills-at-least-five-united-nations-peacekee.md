@@ -7,8 +7,8 @@ Five U.N. peacekeepers were killed when their base in northern Mali was hit by m
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-mali-attacks-idUSKCN0VL0RP)
-2. [AFP via Al Arabiya](http://english.alarabiya.net/en/News/africa/2016/02/12/Two-U-N-soldiers-killed-in-Mali-attack-.html)
+1. [AFP via Al Arabiya](http://english.alarabiya.net/en/News/africa/2016/02/12/Two-U-N-soldiers-killed-in-Mali-attack-.html)
+2. [Reuters](http://www.reuters.com/article/us-mali-attacks-idUSKCN0VL0RP)
 
 ### Related:
 

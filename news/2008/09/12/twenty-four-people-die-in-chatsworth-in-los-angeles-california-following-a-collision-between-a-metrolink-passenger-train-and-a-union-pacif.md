@@ -7,8 +7,8 @@ Rescue teams worked frantically into this morning after a Metrolink passenger tr
 
 ### Source:
 
-1. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2008/09/12/national/a201133D68.DTL)
-2. [Los Angeles Times](http://www.latimes.com/news/local/la-me-traincrash13-2008sep13,0,2874450.story)
+1. [Los Angeles Times](http://www.latimes.com/news/local/la-me-traincrash13-2008sep13,0,2874450.story)
+2. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2008/09/12/national/a201133D68.DTL)
 
 ### Related:
 

@@ -8,8 +8,8 @@
 ### Source:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5ingATA3SLzrdRiQuy_jbZjNGpoRQD9C8CURG0)
-2. [Xinhua](http://news.xinhuanet.com/english/2009-11/28/content_12553394.htm)
-3. [Bernama](http://www.bernama.com/bernama/v5/newsworld.php?id=458469)
+2. [Bernama](http://www.bernama.com/bernama/v5/newsworld.php?id=458469)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-11/28/content_12553394.htm)
 
 ### Related:
 

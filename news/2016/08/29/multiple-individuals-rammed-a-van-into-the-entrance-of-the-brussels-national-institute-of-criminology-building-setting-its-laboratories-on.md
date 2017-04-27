@@ -7,8 +7,8 @@ Attackers ram a car through the gates of a Brussels crime laboratory before star
 
 ### Source:
 
-1. [BNO News](http://bnonews.com/news/index.php/news/id5077)
-2. [BBC](http://www.bbc.com/news/world-europe-37211788)
+1. [BBC](http://www.bbc.com/news/world-europe-37211788)
+2. [BNO News](http://bnonews.com/news/index.php/news/id5077)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Four Canadian soldiers and Calgary Herald reporter Michelle Lang were killed in 
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/world/story/2009/12/30/kandahar-soldiers.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8435502.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8435502.stm)
+2. [CBC](http://www.cbc.ca/world/story/2009/12/30/kandahar-soldiers.html)
 
 ### Related:
 

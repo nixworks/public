@@ -7,8 +7,8 @@ One person was killed and at least 20 homes destroyed after a weekend tornado th
 
 ### Source:
 
-1. [KSN](http://www.ksn.com/news/local/story/One-dead-after-suspected-tornado-hits-Reading/lfDVUdGAukyFP037owBEZQ.cspx)
-2. [CNN](http://www.cnn.com/2011/US/05/22/kansas.weather/)
+1. [CNN](http://www.cnn.com/2011/US/05/22/kansas.weather/)
+2. [KSN](http://www.ksn.com/news/local/story/One-dead-after-suspected-tornado-hits-Reading/lfDVUdGAukyFP037owBEZQ.cspx)
 
 ### Related:
 

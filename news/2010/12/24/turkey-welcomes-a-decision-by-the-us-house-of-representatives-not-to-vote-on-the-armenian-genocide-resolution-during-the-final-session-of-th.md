@@ -7,8 +7,8 @@ Turkish Foreign Minister Ahmet Davutoglu Thursday evening hailed a decision by t
 
 ### Source:
 
-1. [Winnipeg Free Press](http://www.winnipegfreepress.com/world/breakingnews/turkey-welcomes-us-decision-not-to-take-up-armenian-genocide-resolution-112371744.html)
-2. [Asbarez](http://asbarez.com/90745/turkish-foreign-minister-welcomes-house-failure-to-schedule-genocide-bill/)
+1. [Asbarez](http://asbarez.com/90745/turkish-foreign-minister-welcomes-house-failure-to-schedule-genocide-bill/)
+2. [Winnipeg Free Press](http://www.winnipegfreepress.com/world/breakingnews/turkey-welcomes-us-decision-not-to-take-up-armenian-genocide-resolution-112371744.html)
 
 ### Related:
 

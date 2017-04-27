@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2012/12/13/world/asia/japan-china-disputed-islands/index.html)
-2. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/12/201212138729196598.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/12/201212138729196598.html)
+2. [CNN](http://edition.cnn.com/2012/12/13/world/asia/japan-china-disputed-islands/index.html)
 
 ### Related:
 

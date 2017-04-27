@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2010/aug/08/mordechai-vanunu-israel-prison-release)
-2. [Haaretz](http://www.haaretz.com/print-edition/news/whistle-blower-vanunu-leaves-prison-asks-to-leave-country-1.306833)
+1. [Haaretz](http://www.haaretz.com/print-edition/news/whistle-blower-vanunu-leaves-prison-asks-to-leave-country-1.306833)
+2. [The Guardian](http://www.guardian.co.uk/world/2010/aug/08/mordechai-vanunu-israel-prison-release)
 
 ### Related:
 

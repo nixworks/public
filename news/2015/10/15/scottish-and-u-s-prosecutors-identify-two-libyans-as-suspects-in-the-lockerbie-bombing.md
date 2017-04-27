@@ -7,8 +7,8 @@ Scottish prosecutors believe two individuals were involved along with Abdelbaset
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/uk-news/2015/oct/15/lockerbie-bombing-two-libyans-suspects-pan-am-103)
-2. [CNN](http://edition.cnn.com/2015/10/15/europe/lockerbie-pan-am-flight-103/index.html)
+1. [CNN](http://edition.cnn.com/2015/10/15/europe/lockerbie-pan-am-flight-103/index.html)
+2. [The Guardian](http://www.theguardian.com/uk-news/2015/oct/15/lockerbie-bombing-two-libyans-suspects-pan-am-103)
 
 ### Related:
 

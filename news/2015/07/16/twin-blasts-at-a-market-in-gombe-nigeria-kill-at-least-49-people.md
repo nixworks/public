@@ -7,8 +7,8 @@ At least 49 people in Nigeria shopping ahead of Eid celebrations have been kille
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/07/16/us-niger-violence-idUSKCN0PQ2FM20150716)
-2. [BBC](http://www.bbc.com/news/world-africa-33556924)
+1. [BBC](http://www.bbc.com/news/world-africa-33556924)
+2. [Reuters](http://www.reuters.com/article/2015/07/16/us-niger-violence-idUSKCN0PQ2FM20150716)
 
 ### Related:
 

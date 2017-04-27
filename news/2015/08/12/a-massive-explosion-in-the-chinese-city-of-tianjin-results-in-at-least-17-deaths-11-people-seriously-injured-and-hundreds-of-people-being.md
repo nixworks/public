@@ -7,8 +7,8 @@ At least 17 people are killed and hundreds injured, state media report, as huge 
 
 ### Source:
 
-1. [CCTV](http://www.cctv-america.com/2015/08/12/explosion-reported-in-tianjin-china)
-2. [BBC](http://www.bbc.com/news/world-asia-china-33896292)
+1. [BBC](http://www.bbc.com/news/world-asia-china-33896292)
+2. [CCTV](http://www.cctv-america.com/2015/08/12/explosion-reported-in-tianjin-china)
 3. [NBC News](http://www.nbcnews.com/news/world/blast-rocks-chinese-city-tianjin-dozens-reported-injured-n408626)
 
 ### Related:

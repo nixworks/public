@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Peoples' Daily Online](http://english.people.com.cn/200611/08/eng20061108_319651.html)
-2. [BBC News](http://news.bbc.co.uk/2/hi/health/6128220.stm)
+1. [BBC News](http://news.bbc.co.uk/2/hi/health/6128220.stm)
+2. [Peoples' Daily Online](http://english.people.com.cn/200611/08/eng20061108_319651.html)
 
 ### Related:
 

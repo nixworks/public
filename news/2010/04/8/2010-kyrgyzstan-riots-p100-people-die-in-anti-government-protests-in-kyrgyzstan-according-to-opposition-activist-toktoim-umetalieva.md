@@ -7,10 +7,10 @@ OPPONENTS of President Kurmanbek Bakiyev took control overnight of Kyrgyzstan af
 
 ### Source:
 
-1. [News.com.au](http://www.news.com.au/breaking-news/forty-seven-dead-in-kyrgyzstan-riots/story-e6frfku0-1225851169304)
-2. [Arab News](http://arabnews.com/world/article40300.ece)
-3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8609775.stm)
-4. [Kyrgyz National Informational Agency](http://www.kabar.kg/en/news/2010/04/08/15609.html)
+1. [Arab News](http://arabnews.com/world/article40300.ece)
+2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8609775.stm)
+3. [Kyrgyz National Informational Agency](http://www.kabar.kg/en/news/2010/04/08/15609.html)
+4. [News.com.au](http://www.news.com.au/breaking-news/forty-seven-dead-in-kyrgyzstan-riots/story-e6frfku0-1225851169304)
 5. [The New York Times](http://www.nytimes.com/2010/04/09/world/asia/09bishkek.html)
 
 ### Related:

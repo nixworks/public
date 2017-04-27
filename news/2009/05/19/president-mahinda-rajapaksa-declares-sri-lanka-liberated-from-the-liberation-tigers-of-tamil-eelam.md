@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE54I0J420090519)
-2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8056752.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8056752.stm)
+2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE54I0J420090519)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Jakarta Post](http://www.thejakartapost.com/news/2009/12/04/death-toll-nightclub-fire-rises-15.html)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gijjNXP8q5lneQns7oohXGPHntwg)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8396299.stm)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gijjNXP8q5lneQns7oohXGPHntwg)
+3. [Jakarta Post](http://www.thejakartapost.com/news/2009/12/04/death-toll-nightclub-fire-rises-15.html)
 
 ### Related:
 

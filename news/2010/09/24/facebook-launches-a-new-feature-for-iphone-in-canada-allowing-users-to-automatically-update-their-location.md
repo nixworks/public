@@ -7,8 +7,8 @@ Facebook has launched its Places feature in Canada, which allows users to &quot;
 
 ### Source:
 
-1. [Tehran Times](http://www.tehrantimes.com/index_View.asp?code=227065)
-2. [CBC](http://www.cbc.ca/technology/story/2010/09/24/facebook-places-privacy.html)
+1. [CBC](http://www.cbc.ca/technology/story/2010/09/24/facebook-places-privacy.html)
+2. [Tehran Times](http://www.tehrantimes.com/index_View.asp?code=227065)
 
 ### Related:
 

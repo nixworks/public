@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [BBC News](http://news.bbc.co.uk/2/hi/europe/7334545.stm)
-2. [AP via ''The International Herald Tribune](http://www.iht.com/articles/ap/2008/04/08/europe/EU-GEN-OLY-France-Olympic-Torch.php)
-3. [Beijing 2008](http://torchrelay.beijing2008.cn/en/news/headlines/n214296388.shtml?loc=interstitialskip)
-4. [AP via ''Denver Post](http://www.denverpost.com/nuggets/ci_8834272)
-5. [ABC News](http://blogs.abcnews.com/politicalradar/2008/04/clinton-calls-o.html)
+1. [ABC News](http://blogs.abcnews.com/politicalradar/2008/04/clinton-calls-o.html)
+2. [AP via ''Denver Post](http://www.denverpost.com/nuggets/ci_8834272)
+3. [AP via ''The International Herald Tribune](http://www.iht.com/articles/ap/2008/04/08/europe/EU-GEN-OLY-France-Olympic-Torch.php)
+4. [BBC News](http://news.bbc.co.uk/2/hi/europe/7334545.stm)
+5. [Beijing 2008](http://torchrelay.beijing2008.cn/en/news/headlines/n214296388.shtml?loc=interstitialskip)
 
 ### Related:
 

@@ -7,22 +7,22 @@ Moamar Gaddafi&#039;s capital falls to rebel forces as his heir is captured and 
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/libya/8716171/Libya-Col-Gaddafi-could-flee-to-Venezuela-or-Cuba.html)
-2. [Washington Post](http://www.washingtonpost.com/world/middle-east/libyan-rebels-converging-on-tripoli/2011/08/21/gIQAbF3RUJ_story.html?wpisrc=al_national)
-3. [TABNAK](http://www.tabnak.ir/fa/news/185241/%D8%B1%D9%87%D8%A8%D8%B1-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8%DB%8C%D9%88%D9%86-%D8%B1%DA%98%DB%8C%D9%85-%D9%82%D8%B0%D8%A7%D9%81%DB%8C-%D8%B3%D9%82%D9%88%D8%B7-%DA%A9%D8%B1%D8%AF)
-4. [-و-عکس-قذافی-هم-رفت (TABNAK](http://www.tabnak.ir/fa/news/185265/فیل�)
-5. [Huffington Post](http://www.huffingtonpost.com/2011/08/22/libya-rebels-gaddafi-seif-al-islam_n_932796.html)
-6. [IRNA](http://www.irna.ir/NewsShow.aspx?NID=30530213)
-7. [Farsnews](http://farsnews.org/newstext.php?nn=13900531090652)
-8. [Reuters](http://af.reuters.com/article/commoditiesNews/idAFP6E7J502P20110822)
-9. [Press TV](http://www.presstv.ir/detail/195139.html)
-10. [TABNAK](http://www.tabnak.ir/fa/news/185288/%D8%B3%DB%8C%D9%81-%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85-%D9%82%D8%B0%D8%A7%D9%81%DB%8C-%D8%A8%D9%87-%D9%84%D8%A7%D9%87%D9%87-%D9%85%DB%8C-%D8%B1%D9%88%D8%AF)
-11. [Yahoo! News](http://news.yahoo.com/libyan-rebels-advance-edge-tripoli-202939434.html)
-12. [Evening Standard](http://www.thisislondon.co.uk/standard/article-23980236-gaddafi-son-could-face-war-crime-charges-within-weeks.do)
-13. [ABC News Australia](http://www.abc.net.au/news/2011-08-22/rebels-take-tripoli-as-gaddafi-heir-arrested/2849914/?site=melbourne)
-14. [AFP/Reuters via ABC News Online](http://www.abc.net.au/news/2011-08-22/heavy-fighting-in-central-tripoli/2850532)
-15. [-قذافی-سقوط-کرد (TABNAK](http://www.tabnak.ir/fa/news/185241/رهبر-انقلابیون-رژی�)
-16. [Press TV](http://www.presstv.ir/detail/195134.html)
+1. [-قذافی-سقوط-کرد (TABNAK](http://www.tabnak.ir/fa/news/185241/رهبر-انقلابیون-رژی�)
+2. [-و-عکس-قذافی-هم-رفت (TABNAK](http://www.tabnak.ir/fa/news/185265/فیل�)
+3. [ABC News Australia](http://www.abc.net.au/news/2011-08-22/rebels-take-tripoli-as-gaddafi-heir-arrested/2849914/?site=melbourne)
+4. [AFP/Reuters via ABC News Online](http://www.abc.net.au/news/2011-08-22/heavy-fighting-in-central-tripoli/2850532)
+5. [Evening Standard](http://www.thisislondon.co.uk/standard/article-23980236-gaddafi-son-could-face-war-crime-charges-within-weeks.do)
+6. [Farsnews](http://farsnews.org/newstext.php?nn=13900531090652)
+7. [Huffington Post](http://www.huffingtonpost.com/2011/08/22/libya-rebels-gaddafi-seif-al-islam_n_932796.html)
+8. [IRNA](http://www.irna.ir/NewsShow.aspx?NID=30530213)
+9. [Press TV](http://www.presstv.ir/detail/195134.html)
+10. [Press TV](http://www.presstv.ir/detail/195139.html)
+11. [Reuters](http://af.reuters.com/article/commoditiesNews/idAFP6E7J502P20110822)
+12. [TABNAK](http://www.tabnak.ir/fa/news/185241/%D8%B1%D9%87%D8%A8%D8%B1-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8%DB%8C%D9%88%D9%86-%D8%B1%DA%98%DB%8C%D9%85-%D9%82%D8%B0%D8%A7%D9%81%DB%8C-%D8%B3%D9%82%D9%88%D8%B7-%DA%A9%D8%B1%D8%AF)
+13. [TABNAK](http://www.tabnak.ir/fa/news/185288/%D8%B3%DB%8C%D9%81-%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85-%D9%82%D8%B0%D8%A7%D9%81%DB%8C-%D8%A8%D9%87-%D9%84%D8%A7%D9%87%D9%87-%D9%85%DB%8C-%D8%B1%D9%88%D8%AF)
+14. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/libya/8716171/Libya-Col-Gaddafi-could-flee-to-Venezuela-or-Cuba.html)
+15. [Washington Post](http://www.washingtonpost.com/world/middle-east/libyan-rebels-converging-on-tripoli/2011/08/21/gIQAbF3RUJ_story.html?wpisrc=al_national)
+16. [Yahoo! News](http://news.yahoo.com/libyan-rebels-advance-edge-tripoli-202939434.html)
 
 ### Related:
 

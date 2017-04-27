@@ -7,8 +7,8 @@ Russian President Vladimir Putin has ordered Defense Minister Sergey Shoigu to s
 
 ### Source:
 
-1. [RT](https://www.rt.com/news/335554-putin-orders-syria-withdrawal/)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-35807689)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-35807689)
+2. [RT](https://www.rt.com/news/335554-putin-orders-syria-withdrawal/)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2009/02/11/washington/11web-stim.html?_r=1&hp)
-2. [CNN](http://edition.cnn.com/2009/POLITICS/02/09/stimulus.plan/index.html)
+1. [CNN](http://edition.cnn.com/2009/POLITICS/02/09/stimulus.plan/index.html)
+2. [New York Times](http://www.nytimes.com/2009/02/11/washington/11web-stim.html?_r=1&hp)
 
 ### Related:
 

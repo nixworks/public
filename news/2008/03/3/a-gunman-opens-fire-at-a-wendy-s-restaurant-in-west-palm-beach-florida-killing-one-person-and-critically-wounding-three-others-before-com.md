@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080303/ap_on_re_us/wendy_s_shooting)
-2. [ABC News](http://abcnews.go.com/US/story?id=4378769)
+1. [ABC News](http://abcnews.go.com/US/story?id=4378769)
+2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080303/ap_on_re_us/wendy_s_shooting)
 
 ### Related:
 

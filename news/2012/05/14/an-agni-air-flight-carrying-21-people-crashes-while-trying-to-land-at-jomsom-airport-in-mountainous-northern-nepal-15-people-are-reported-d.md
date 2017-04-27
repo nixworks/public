@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [AP via ''Huffington Post](http://www.huffingtonpost.com/2012/05/14/nepal-plane-crash_n_1513692.html)
-2. [Indian Express](http://www.indianexpress.com/news/nepal-plane-crash-4-indians-among-14-ki.../949091/)
-3. ["The News"](http://www.thenews.com.pk/article-48939-Plane-carrying-21-crashes-in-Nepal)
+1. ["The News"](http://www.thenews.com.pk/article-48939-Plane-carrying-21-crashes-in-Nepal)
+2. [AP via ''Huffington Post](http://www.huffingtonpost.com/2012/05/14/nepal-plane-crash_n_1513692.html)
+3. [Indian Express](http://www.indianexpress.com/news/nepal-plane-crash-4-indians-among-14-ki.../949091/)
 
 ### Related:
 

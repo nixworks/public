@@ -7,8 +7,8 @@ Riga Castle has been badly damaged by fire. The historical building, which is lo
 
 ### Source:
 
-1. [Russia Today](http://rt.com/news/fire-latvian-residence-castle-058/)
-2. [EuroNews](http://www.euronews.com/2013/06/21/riga-castle-damaged-in-blaze/)
+1. [EuroNews](http://www.euronews.com/2013/06/21/riga-castle-damaged-in-blaze/)
+2. [Russia Today](http://rt.com/news/fire-latvian-residence-castle-058/)
 
 ### Related:
 

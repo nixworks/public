@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sud Ouest](http://www.sudouest.fr/2010/09/28/oleron-17-frappee-par-un-tremblement-de-terre-197177-1584.php)
-2. [Le Télégramme](http://www.letelegramme.com/ig/generales/france-monde/france/oleron-un-seisme-secoue-l-ile-ni-degats-ni-victimes-28-09-2010-1064880.php)
+1. [Le Télégramme](http://www.letelegramme.com/ig/generales/france-monde/france/oleron-un-seisme-secoue-l-ile-ni-degats-ni-victimes-28-09-2010-1064880.php)
+2. [Sud Ouest](http://www.sudouest.fr/2010/09/28/oleron-17-frappee-par-un-tremblement-de-terre-197177-1584.php)
 
 ### Related:
 

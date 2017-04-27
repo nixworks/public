@@ -7,9 +7,9 @@ A plan to approve new West Bank construction before a building freeze drew prote
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2009/09/05/world/middleeast/05mideast.html?hp)
+1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5ioi_0jtO9RjMwPNRoXNCndRPRq3gD9AGE0TO0)
 2. [Ha'aretz](http://www.haaretz.com/hasen/spages/1112443.html)
-3. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5ioi_0jtO9RjMwPNRoXNCndRPRq3gD9AGE0TO0)
+3. [New York Times](http://www.nytimes.com/2009/09/05/world/middleeast/05mideast.html?hp)
 
 ### Related:
 

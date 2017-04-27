@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_599272.html)
+1. [Canadian Press](http://www.google.com/hostednews/canadianpress/article/ALeqM5ixTqsiMHn8aXr0KJ9U_BrHHHzwBA?docId=5030735)
 2. [Phnom Penh Post](http://www.phnompenhpost.com/index.php/2010110444492/National-news/freedom-park-inaugurated.html)
-3. [Canadian Press](http://www.google.com/hostednews/canadianpress/article/ALeqM5ixTqsiMHn8aXr0KJ9U_BrHHHzwBA?docId=5030735)
+3. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_599272.html)
 
 ### Related:
 

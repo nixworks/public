@@ -7,10 +7,10 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Jakarta Post](http://www.thejakartapost.com/detaillatestnews.asp?fileid=20050717181514&irec=0)
-2. [Reuters](http://today.reuters.com/news/NewsArticle.aspx?type=worldNews&storyID=2005-07-17T123227Z_01_N17104836_RTRIDST_0_INTERNATIONAL-INDONESIA-ACEH-DC.XML)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4691937.stm)
+2. [Jakarta Post](http://www.thejakartapost.com/detaillatestnews.asp?fileid=20050717181514&irec=0)
 3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/JAK99458.htm)
-4. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4691937.stm)
+4. [Reuters](http://today.reuters.com/news/NewsArticle.aspx?type=worldNews&storyID=2005-07-17T123227Z_01_N17104836_RTRIDST_0_INTERNATIONAL-INDONESIA-ACEH-DC.XML)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Authorities have raised the death toll to 121 in the chemical warehouse explosio
 
 ### Source:
 
-1. [Xinhua via icrossChina](http://www.icrosschina.com/news/2015/0822/17319.shtml)
-2. [AP via Fox News](http://www.foxnews.com/world/2015/08/22/death-toll-rises-to-121-in-china-port-explosion-as-fears-linger-over-chemical/)
+1. [AP via Fox News](http://www.foxnews.com/world/2015/08/22/death-toll-rises-to-121-in-china-port-explosion-as-fears-linger-over-chemical/)
+2. [Xinhua via icrossChina](http://www.icrosschina.com/news/2015/0822/17319.shtml)
 
 ### Related:
 

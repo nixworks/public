@@ -7,9 +7,9 @@ UNDP regional centre in Colombo shut following days of angry protests over war-c
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/world/south-asia/UN-recalls-Sri-Lanka-representative-amid-war-crimes-row/articleshow/6144516.cms)
-2. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=35269&Cr=sri+lanka&Cr1=)
-3. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/07/2010781724916736.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/07/2010781724916736.html)
+2. [Times of India](http://timesofindia.indiatimes.com/world/south-asia/UN-recalls-Sri-Lanka-representative-amid-war-crimes-row/articleshow/6144516.cms)
+3. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=35269&Cr=sri+lanka&Cr1=)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2008/09/08/AR2008090802449_pf.html)
-2. [Newstin](http://www.newstin.com/tag/us/76513010)
+1. [Newstin](http://www.newstin.com/tag/us/76513010)
+2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2008/09/08/AR2008090802449_pf.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/health/2010-09/08/c_13484979.htm)
-2. [India Vision](http://www.indiavision.com/news/article/health/117895)
+1. [India Vision](http://www.indiavision.com/news/article/health/117895)
+2. [Xinhua](http://news.xinhuanet.com/english2010/health/2010-09/08/c_13484979.htm)
 
 ### Related:
 

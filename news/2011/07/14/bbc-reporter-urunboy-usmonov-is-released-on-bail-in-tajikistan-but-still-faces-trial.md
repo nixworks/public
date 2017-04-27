@@ -7,9 +7,9 @@ A BBC reporter held last month in Tajikistan on charges of belonging to a banned
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/2011/07/14/uk-tajikistan-reporter-idUKTRE76D3C420110714?feedType=RSS&feedName=topNews)
-2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/tajikistan/8638080/Tajikistan-frees-jailed-BBC-reporter.html)
-3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14154303)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14154303)
+2. [Reuters](http://uk.reuters.com/article/2011/07/14/uk-tajikistan-reporter-idUKTRE76D3C420110714?feedType=RSS&feedName=topNews)
+3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/tajikistan/8638080/Tajikistan-frees-jailed-BBC-reporter.html)
 4. [The Guardian](http://www.guardian.co.uk/media/greenslade/2011/jul/14/press-freedom-tajikistan)
 
 ### Related:

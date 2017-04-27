@@ -7,8 +7,8 @@ Cadel&#x20;Evans,&#x20;a&#x20;two-time&#x20;runner-up&#x20;at&#x20;the&#x20;Tour
 
 ### Source:
 
-1. [Herald Sun](http://www.heraldsun.com.au/sport/tour-de-france/cadel-evans-to-become-first-australian-to-win-the-tour-de-france/story-fn8s9i81-1226100674840)
-2. [AP via France24](http://www.france24.com/en/20110724-sport-cycling-australia-cadel-evans-wins-tour-de-france)
+1. [AP via France24](http://www.france24.com/en/20110724-sport-cycling-australia-cadel-evans-wins-tour-de-france)
+2. [Herald Sun](http://www.heraldsun.com.au/sport/tour-de-france/cadel-evans-to-become-first-australian-to-win-the-tour-de-france/story-fn8s9i81-1226100674840)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The jets were assigned to Strike Fighter Squadron 211 at Oceana Naval Air Statio
 
 ### Source:
 
-1. [Virginian Pilot](http://pilotonline.com/news/military/local/navy-two-f-a--s-crash-in-atlantic-ocean/article_bbffcdd9-0820-5603-aa9f-2e2120dbfd6a.html)
-2. [UPI](http://www.upi.com/Top_News/US/2016/05/26/US-fighter-jets-crash-off-North-Carolina-coast-4-on-board-rescued/3471464279219/?spt=hs&or=tn_us)
+1. [UPI](http://www.upi.com/Top_News/US/2016/05/26/US-fighter-jets-crash-off-North-Carolina-coast-4-on-board-rescued/3471464279219/?spt=hs&or=tn_us)
+2. [Virginian Pilot](http://pilotonline.com/news/military/local/navy-two-f-a--s-crash-in-atlantic-ocean/article_bbffcdd9-0820-5603-aa9f-2e2120dbfd6a.html)
 
 ### Related:
 

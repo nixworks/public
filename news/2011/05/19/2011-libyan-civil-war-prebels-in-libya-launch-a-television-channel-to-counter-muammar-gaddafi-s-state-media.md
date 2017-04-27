@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://af.reuters.com/article/libyaNews/idAFLDE74I1CX20110519?sp=true)
-2. [C News](http://cnews.canoe.ca/CNEWS/World/2011/05/19/pf-18169386.html)
+1. [C News](http://cnews.canoe.ca/CNEWS/World/2011/05/19/pf-18169386.html)
+2. [Reuters](http://af.reuters.com/article/libyaNews/idAFLDE74I1CX20110519?sp=true)
 
 ### Related:
 

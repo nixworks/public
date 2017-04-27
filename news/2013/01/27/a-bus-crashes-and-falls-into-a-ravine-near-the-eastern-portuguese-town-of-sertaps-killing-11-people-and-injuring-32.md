@@ -7,9 +7,9 @@ At least 10 people die and more than 30 are injured after a bus crashes from a r
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Top_News/World-News/2013/01/27/Bus-crash-in-Portugal-kills-11/UPI-79651359303576)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-21218838)
 2. [Reuters](http://www.reuters.com/article/2013/01/27/portugal-crash-idUSL5N0AW21420130127)
-3. [BBC](http://www.bbc.co.uk/news/world-europe-21218838)
+3. [UPI](http://www.upi.com/Top_News/World-News/2013/01/27/Bus-crash-in-Portugal-kills-11/UPI-79651359303576)
 
 ### Related:
 

@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2009-11/27/content_12551387.htm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8382486.stm)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=112310&sectionid=351020104)
 3. [RIA Novosti](http://en.rian.ru/world/20091127/157009157.html)
-4. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8382486.stm)
+4. [Xinhua](http://news.xinhuanet.com/english/2009-11/27/content_12551387.htm)
 
 ### Related:
 

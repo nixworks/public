@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Farm Futures](http://farmfutures.com/story-trade-promotion-authority-taa-signed-law-0-129367)
-2. [AP](http://bigstory.ap.org/article/266b2f2d0c5141f28a5e6c763decec2d/obama-signs-trade-worker-assistance-bills-law)
-3. [Brownfield](http://brownfieldagnews.com/2015/06/29/president-obama-signs-tpa-taa/)
+1. [AP](http://bigstory.ap.org/article/266b2f2d0c5141f28a5e6c763decec2d/obama-signs-trade-worker-assistance-bills-law)
+2. [Brownfield](http://brownfieldagnews.com/2015/06/29/president-obama-signs-tpa-taa/)
+3. [Farm Futures](http://farmfutures.com/story-trade-promotion-authority-taa-signed-law-0-129367)
 
 ### Related:
 

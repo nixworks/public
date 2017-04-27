@@ -7,8 +7,8 @@ UKIP MEP Godfrey Bloom is ordered out of the chamber of the European Parliament 
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/world/europe/mep-kicked-out-over-fascist-jibe-2142484.html)
-2. [BBC](http://www.bbc.co.uk/news/uk-politics-11828319)
+1. [BBC](http://www.bbc.co.uk/news/uk-politics-11828319)
+2. [The Independent](http://www.independent.co.uk/news/world/europe/mep-kicked-out-over-fascist-jibe-2142484.html)
 
 ### Related:
 

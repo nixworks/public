@@ -7,9 +7,9 @@ Jailed Chinese dissident Liu Xiaobo was awarded the Nobel Peace Prize in a cerem
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTOE6B106320101210?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+reuters/topNews+(News+/+US+/+Top+News))
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/201012913925451679.html)
-3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11966449)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/201012913925451679.html)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11966449)
+3. [Reuters](http://www.reuters.com/article/idUSTOE6B106320101210?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+reuters/topNews+(News+/+US+/+Top+News))
 
 ### Related:
 

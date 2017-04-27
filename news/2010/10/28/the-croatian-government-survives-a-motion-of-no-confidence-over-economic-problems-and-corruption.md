@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSLDE69R08G20101028)
-2. [Bloomberg](http://www.bloomberg.com/news/2010-10-28/croatian-premier-kosor-survives-no-confidence-vote-after-15-hour-debate.html)
+1. [Bloomberg](http://www.bloomberg.com/news/2010-10-28/croatian-premier-kosor-survives-no-confidence-vote-after-15-hour-debate.html)
+2. [Reuters](http://www.reuters.com/article/idUSLDE69R08G20101028)
 
 ### Related:
 

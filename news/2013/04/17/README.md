@@ -1,7 +1,7 @@
 ## [2013-04-17](/news/2013/04/17/index.md)
 
 ### [War in North-West Pakistan:A United States drone attack kills at least five people in the Pakistani city of Wana, located in the South Waziristan Agency. ](/news/2013/04/17/war-in-north-west-pakistan-pa-united-states-drone-attack-kills-at-least-five-people-in-the-pakistani-city-of-wana-located-in-the-south-wazi.md)
-_Context: Pakistan, South Waziristan, U.S., Wana, War in North-West Pakistan, drones launch_
+_Context: Pakistan, South Waziristan, United States, Wana, War in North-West Pakistan, drones launch_
 
 ### [Arab-Israeli conflict:Two rockets fired from Egypt's Sinai Peninsula hit the Israeli resort of Eilat, but land in open areas, causing no damage. Three more rockets hit open areas in neighboring Jordan. ](/news/2013/04/17/arabaisraeli-conflict-ptwo-rockets-fired-from-egypt-s-sinai-peninsula-hit-the-israeli-resort-of-eilat-but-land-in-open-areas-causing-no.md)
 _Context: Arab–Israeli conflict, Egypt, Eilat, Israel, Jordan, Sinai_
@@ -46,7 +46,7 @@ _Context: Henrique Capriles, National Electoral Council, Venezuela, last month's
 A bill to legalise same-sex marriage has passed into law after its third reading in Parliament tonight, after months of emotional debate, parliamentary submissions, and passionate - New Zealand Herald
 
 ### [A proposal to tighten gun control in the United States fails in a Senate vote. ](/news/2013/04/17/a-proposal-to-tighten-gun-control-in-the-united-states-fails-in-a-senate-vote.md)
-_Context: Gun politics in the United States, U.S., United States Senate_
+_Context: Gun politics in the United States, United States, United States Senate_
 
 ### [In horse racing, the owners and trainer Peter Moody announce the retirement of Australian Thoroughbred racehorse Black Caviar undefeated over 25 races, the second-most of all time. ](/news/2013/04/17/in-horse-racing-the-owners-and-trainer-peter-moody-announce-the-retirement-of-australian-thoroughbred-racehorse-black-caviar-undefeated-ove.md)
 Unbeaten Australian mare Black Caviar is to be retired after winning 25 consecutive races during a four-year career.

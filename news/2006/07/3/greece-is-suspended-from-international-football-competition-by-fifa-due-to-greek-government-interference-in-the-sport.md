@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [FIFA.com](http://www.fifa.com/en/media/index/0,1369,118144,00.html?articleid=118144)
-2. [BBC](http://news.bbc.co.uk/sport1/hi/football/internationals/5141866.stm)
+1. [BBC](http://news.bbc.co.uk/sport1/hi/football/internationals/5141866.stm)
+2. [FIFA.com](http://www.fifa.com/en/media/index/0,1369,118144,00.html?articleid=118144)
 
 ### Related:
 

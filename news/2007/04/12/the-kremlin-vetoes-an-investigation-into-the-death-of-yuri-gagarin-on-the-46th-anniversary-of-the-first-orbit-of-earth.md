@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [MOSNEWS](http://www.mosnews.com/news/2007/04/12/gagarininjuiry.shtml)
-2. [Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/world-news/article2442171.ece)
+1. [Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/world-news/article2442171.ece)
+2. [MOSNEWS](http://www.mosnews.com/news/2007/04/12/gagarininjuiry.shtml)
 
 ### Related:
 

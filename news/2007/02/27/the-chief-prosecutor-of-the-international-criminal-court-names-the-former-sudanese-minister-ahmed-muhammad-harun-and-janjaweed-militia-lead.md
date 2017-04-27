@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [VOA](http://voanews.com/english/2007-02-27-voa37.cfm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/6402363.stm)
 2. [CNN](http://edition.cnn.com/2007/WORLD/europe/02/27/sudan.darfur.reut/index.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/africa/6402363.stm)
+3. [VOA](http://voanews.com/english/2007-02-27-voa37.cfm)
 
 ### Related:
 

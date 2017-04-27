@@ -7,8 +7,8 @@ The fire broke out at a building known as the Ghost Ship which was being used as
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/news/us-news/least-9-dead-others-missing-after-california-warehouse-fire-official-n691511?cid=eml_nbn_20161203)
-2. [East Bay Times](http://www.eastbaytimes.com/2016/12/03/oakland-massive-fire-at-live-work-space-in-fruitvale-district/)
+1. [East Bay Times](http://www.eastbaytimes.com/2016/12/03/oakland-massive-fire-at-live-work-space-in-fruitvale-district/)
+2. [NBC News](http://www.nbcnews.com/news/us-news/least-9-dead-others-missing-after-california-warehouse-fire-official-n691511?cid=eml_nbn_20161203)
 
 ### Related:
 

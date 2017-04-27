@@ -7,15 +7,15 @@ Electricity eyed in fire in which 22 others injured, hospitalized in Adana provi
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-turkey-fire-idUSKBN13O2O9?il=0)
+1. [Anadolu Agency](http://aa.com.tr/en/turkey/dorm-fire-kills-12-in-southern-turkey/695816)
 2. [Daily Sabah](http://www.dailysabah.com/nation/2016/11/29/fire-breaks-out-in-girls-dorm-in-southern-turkey-11-students-and-one-worker-killed)
 3. [Hürriyet Daily News](http://www.hurriyetdailynews.com/eight-students-killed-in-fire-at-dormitory-in-turkeys-adana-report.aspx?pageID=238&nID=106726&NewsCatID=341)
-4. [Anadolu Agency](http://aa.com.tr/en/turkey/dorm-fire-kills-12-in-southern-turkey/695816)
+4. [Reuters](http://www.reuters.com/article/us-turkey-fire-idUSKBN13O2O9?il=0)
 
 ### Related:
 
 1. [A suspected car bomb outside the office of the governor of the southern Turkish province of Adana kills at least two people and injures 16. ](/news/2016/11/24/a-suspected-car-bomb-outside-the-office-of-the-governor-of-the-southern-turkish-province-of-adana-kills-at-least-two-people-and-injures-16.md) _Context: Adana Province, Turkish_
-2. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also 5 Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-5-peshmerga-fighters-are-killed-during-a-tu.md) _Context: Turkish_
+2. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also five Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey also claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-five-peshmerga-fighters-are-killed-during-a.md) _Context: Turkish_
 3. [The European Commission, based on the  Organization for Security and Co-operation in Europe report, calls on Turkey to launch an investigation into allegations of referendum voting irregularities. ](/news/2017/04/18/the-european-commission-based-on-the-organization-for-security-and-co-operation-in-europe-report-calls-on-turkey-to-launch-an-investigati.md) _Context: Turkish_
 4. [A police Sikorsky S-70 helicopter crashes in Tunceli Province, Turkey, killing 12 people. ](/news/2017/04/18/a-police-sikorsky-s-70-helicopter-crashes-in-tunceli-province-turkey-killing-12-people.md) _Context: Turkish_
 5. [Voters in Turkey go to the polls for a referendum that seeks to replace the country's parliamentary system with an executive presidency, thereby giving President Recep Tayyip Erdogan sweeping new powers. Erdogan's AK Party has claimed victory while the opposition CHP has said that it will challenge the result. ](/news/2017/04/16/voters-in-turkey-go-to-the-polls-for-a-referendum-that-seeks-to-replace-the-country-s-parliamentary-system-with-an-executive-presidency-the.md) _Context: Turkish_

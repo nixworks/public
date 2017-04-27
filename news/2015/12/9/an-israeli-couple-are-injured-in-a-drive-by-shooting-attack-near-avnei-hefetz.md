@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [The Times of Israel](http://www.timesofisrael.com/2-israelis-hurt-1-seriously-in-west-bank-shooting-attack/)
-2. [The Jerusalem Post](http://www.jpost.com/Arab-Israeli-Conflict/WATCH-IDF-Palestinian-youth-clash-in-Bethlehem-436698)
-3. [The Jerusalem Post](http://www.jpost.com/Arab-Israeli-Conflict/BREAKING-Two-Israelis-wounded-in-stabbing-attack-in-Hebron-area-436777)
-4. [Al Jazeera](http://www.aljazeera.com/news/2015/12/israeli-soldiers-kill-palestinian-teenager-bethlehem-151209045309733.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/2015/12/israeli-soldiers-kill-palestinian-teenager-bethlehem-151209045309733.html)
+2. [The Jerusalem Post](http://www.jpost.com/Arab-Israeli-Conflict/BREAKING-Two-Israelis-wounded-in-stabbing-attack-in-Hebron-area-436777)
+3. [The Jerusalem Post](http://www.jpost.com/Arab-Israeli-Conflict/WATCH-IDF-Palestinian-youth-clash-in-Bethlehem-436698)
+4. [The Times of Israel](http://www.timesofisrael.com/2-israelis-hurt-1-seriously-in-west-bank-shooting-attack/)
 
 ### Related:
 

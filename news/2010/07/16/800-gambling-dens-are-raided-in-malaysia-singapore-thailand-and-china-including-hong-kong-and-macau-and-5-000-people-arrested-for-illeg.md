@@ -7,8 +7,8 @@ Police in four countries arrest 5000 people for illegal betting on the World Cup
 
 ### Source:
 
-1. [BBC News](http://www.bbc.co.uk/news/world-asia-pacific-10660322)
-2. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/07/2010716133256691384.html)
+1. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/07/2010716133256691384.html)
+2. [BBC News](http://www.bbc.co.uk/news/world-asia-pacific-10660322)
 
 ### Related:
 

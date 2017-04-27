@@ -7,8 +7,8 @@ The United States took complete charge of Kandahar Thursday, formally ending ove
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/world/asia-pacific/canada-ends-combat-operations-in-afghanistan-shifts-focus-to-training/2011/07/07/gIQAUIbx1H_story.html?tid=sm_twitter_washingtonpost)
-2. [CBC News](http://www.cbc.ca/news/canada/story/2011/07/07/kandahar-final-handover.html)
+1. [CBC News](http://www.cbc.ca/news/canada/story/2011/07/07/kandahar-final-handover.html)
+2. [Washington Post](http://www.washingtonpost.com/world/asia-pacific/canada-ends-combat-operations-in-afghanistan-shifts-focus-to-training/2011/07/07/gIQAUIbx1H_story.html?tid=sm_twitter_washingtonpost)
 
 ### Related:
 

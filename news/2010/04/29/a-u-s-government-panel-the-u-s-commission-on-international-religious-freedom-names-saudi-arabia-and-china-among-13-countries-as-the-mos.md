@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/news/religion/2010-04-28-religious-freedom_N.htm)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iRY9c6i4wtQ_UIFeZwsAY9CL56_AD9FCG9EG1)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iRY9c6i4wtQ_UIFeZwsAY9CL56_AD9FCG9EG1)
+2. [USA Today](http://www.usatoday.com/news/religion/2010-04-28-religious-freedom_N.htm)
 3. [VOA](http://www1.voanews.com/english/news/africa/US-Commission-Cites-13-Nations-for-Violating-Religious-Freedoms-92444889.html)
 
 ### Related:

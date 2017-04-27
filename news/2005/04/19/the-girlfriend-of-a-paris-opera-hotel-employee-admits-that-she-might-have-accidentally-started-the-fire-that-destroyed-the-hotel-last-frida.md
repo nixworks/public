@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Scotsman](http://news.scotsman.com/latest.cfm?id=4419152)
+1. [IHT](http://www.iht.com/articles/2005/04/19/europe/web.0419paris.html)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L19548685.htm)
-3. [IHT](http://www.iht.com/articles/2005/04/19/europe/web.0419paris.html)
+3. [Scotsman](http://news.scotsman.com/latest.cfm?id=4419152)
 
 ### Related:
 

@@ -7,8 +7,8 @@ After sweeping Midwest, storm system and tornadoes cause multiple fatalities in 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2011/04/17/us-weather-tornadoes-idUSTRE73F22I20110417)
-2. [CBS News](http://www.cbsnews.com/stories/2011/04/16/national/main20054646.shtml)
+1. [CBS News](http://www.cbsnews.com/stories/2011/04/16/national/main20054646.shtml)
+2. [Reuters](http://www.reuters.com/article/2011/04/17/us-weather-tornadoes-idUSTRE73F22I20110417)
 
 ### Related:
 

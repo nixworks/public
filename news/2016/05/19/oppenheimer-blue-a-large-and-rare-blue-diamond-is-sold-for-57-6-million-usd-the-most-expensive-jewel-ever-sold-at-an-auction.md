@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Swiss Info](http://www.swissinfo.ch/eng/blue-diamond-sells-for--58-million--highest-gem-auction-price/42163914)
-2. [Reuters](http://www.reuters.com/article/us-art-diamond-idUSKCN0Y92R4)
+1. [Reuters](http://www.reuters.com/article/us-art-diamond-idUSKCN0Y92R4)
+2. [Swiss Info](http://www.swissinfo.ch/eng/blue-diamond-sells-for--58-million--highest-gem-auction-price/42163914)
 
 ### Related:
 

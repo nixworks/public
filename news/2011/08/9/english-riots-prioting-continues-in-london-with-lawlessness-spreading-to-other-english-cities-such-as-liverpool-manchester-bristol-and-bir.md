@@ -7,12 +7,12 @@ Rioting has spread across London with cars and buildings set alight on a third n
 
 ### Source:
 
-1. [Al-Jazeera](http://english.aljazeera.net/news/europe/2011/08/2011881845588629.html)
-2. [BBC](http://www.bbc.co.uk/news/uk-england-london-14450248)
-3. [The Guardian](http://www.guardian.co.uk/football/2011/aug/09/england-holland-off-london-riots)
-4. [The Australian](http://www.theaustralian.com.au/news/world/police-on-streets-as-britain-burns/story-e6frg6so-1226112164851)
-5. [AP via ''Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/7690652.html)
-6. [BBC](http://www.bbc.co.uk/news/uk-politics-14454516)
+1. [AP via ''Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/7690652.html)
+2. [Al-Jazeera](http://english.aljazeera.net/news/europe/2011/08/2011881845588629.html)
+3. [BBC](http://www.bbc.co.uk/news/uk-england-london-14450248)
+4. [BBC](http://www.bbc.co.uk/news/uk-politics-14454516)
+5. [The Australian](http://www.theaustralian.com.au/news/world/police-on-streets-as-britain-burns/story-e6frg6so-1226112164851)
+6. [The Guardian](http://www.guardian.co.uk/football/2011/aug/09/england-holland-off-london-riots)
 
 ### Related:
 

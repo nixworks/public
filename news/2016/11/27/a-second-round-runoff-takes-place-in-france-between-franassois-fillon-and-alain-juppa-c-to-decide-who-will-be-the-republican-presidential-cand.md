@@ -7,10 +7,10 @@ Francois Fillon looks set to win the French Republican primaries.
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/story/francois-fillon-leads-alain-juppe-in-french-presidential-primary-10675189)
+1. [Euronews](http://www.euronews.com/2016/11/27/francois-fillon-gains-695-in-the-first-partial-votes-of-the-french-republican-primaries)
 2. [Reuters](http://www.reuters.com/article/us-france-election-idUSKBN13M001?feedType=RSS&feedName=newsOne)
-3. [The Guardian](https://www.theguardian.com/world/2016/nov/27/francois-fillon-on-course-to-win-french-primary-to-be-candidate-for-the-right)
-4. [Euronews](http://www.euronews.com/2016/11/27/francois-fillon-gains-695-in-the-first-partial-votes-of-the-french-republican-primaries)
+3. [Sky News](http://news.sky.com/story/francois-fillon-leads-alain-juppe-in-french-presidential-primary-10675189)
+4. [The Guardian](https://www.theguardian.com/world/2016/nov/27/francois-fillon-on-course-to-win-french-primary-to-be-candidate-for-the-right)
 
 ### Related:
 

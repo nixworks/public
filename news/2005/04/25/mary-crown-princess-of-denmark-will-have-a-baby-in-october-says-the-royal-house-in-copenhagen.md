@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Royal House](http://kongehuset.dk/artikel.php?id=68632)
-2. [Danmarks Radio](http://www.dr.dk/nyheder/indland/article.jhtml?articleID=249817)
+1. [Danmarks Radio](http://www.dr.dk/nyheder/indland/article.jhtml?articleID=249817)
+2. [Royal House](http://kongehuset.dk/artikel.php?id=68632)
 
 ### Related:
 

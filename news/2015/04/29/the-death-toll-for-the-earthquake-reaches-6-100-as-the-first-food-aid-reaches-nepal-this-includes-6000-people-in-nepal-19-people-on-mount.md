@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2015-04/29/c_134195629.htm)
-2. [AP via ''Daily Mail](http://www.dailymail.co.uk/wires/ap/article-3060296/Nepal-quake-toll-tops-5-000-aid-reach-area-near-epicenter.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490)
+1. [AP via ''Daily Mail](http://www.dailymail.co.uk/wires/ap/article-3060296/Nepal-quake-toll-tops-5-000-aid-reach-area-near-epicenter.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490)
+2. [Xinhua](http://news.xinhuanet.com/english/2015-04/29/c_134195629.htm)
 
 ### Related:
 

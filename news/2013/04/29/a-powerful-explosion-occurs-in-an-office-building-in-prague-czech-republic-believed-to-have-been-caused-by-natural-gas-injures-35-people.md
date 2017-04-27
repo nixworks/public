@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NBC News](http://worldnews.nbcnews.com/_news/2013/04/29/17968426-dozens-injured-others-feared-buried-after-explosion-in-prague?lite)
-2. [AP via ''Vancouver Sun](http://www.vancouversun.com/news/world/Powerful+blast+Czech+capital+damages+downtown+building+injures/8308886/story.html)
+1. [AP via ''Vancouver Sun](http://www.vancouversun.com/news/world/Powerful+blast+Czech+capital+damages+downtown+building+injures/8308886/story.html)
+2. [NBC News](http://worldnews.nbcnews.com/_news/2013/04/29/17968426-dozens-injured-others-feared-buried-after-explosion-in-prague?lite)
 
 ### Related:
 

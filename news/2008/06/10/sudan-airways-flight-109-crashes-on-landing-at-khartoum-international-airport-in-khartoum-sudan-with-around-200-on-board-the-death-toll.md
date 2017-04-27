@@ -7,9 +7,9 @@ Officials say confirmed death toll from Khartoum plane crash now 28, not 120 as 
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2008/WORLD/africa/06/10/sudan.plane/index.html)
-2. [AFP/Reuters via ABC News](http://www.abc.net.au/news/stories/2008/06/11/2270969.htm)
-3. [BBC News](http://news.bbc.co.uk/2/hi/africa/7447243.stm)
+1. [AFP/Reuters via ABC News](http://www.abc.net.au/news/stories/2008/06/11/2270969.htm)
+2. [BBC News](http://news.bbc.co.uk/2/hi/africa/7447243.stm)
+3. [CNN](http://www.cnn.com/2008/WORLD/africa/06/10/sudan.plane/index.html)
 
 ### Related:
 

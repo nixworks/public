@@ -7,8 +7,8 @@ A Saudi prince accused of beating his servant to death in a London hotel will no
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/uk-england-london-11552937)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5it-psGvTjN-dadrszWCq2irEDbmQ?docId=CNG.143fec7a691447afd1dc38855c6aba83.991)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5it-psGvTjN-dadrszWCq2irEDbmQ?docId=CNG.143fec7a691447afd1dc38855c6aba83.991)
+2. [BBC](http://www.bbc.co.uk/news/uk-england-london-11552937)
 
 ### Related:
 

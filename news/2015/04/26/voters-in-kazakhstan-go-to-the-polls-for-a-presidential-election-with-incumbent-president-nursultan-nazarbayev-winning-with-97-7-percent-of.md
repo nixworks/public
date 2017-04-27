@@ -7,8 +7,8 @@ Kazakhstan&#039;s President Nursultan Nazarbayev has won re-election with 97.7 p
 
 ### Source:
 
-1. [NDTV](http://www.ndtv.com/world-news/kazakh-president-nursultan-nazarbayev-wins-re-election-with-97-7-per-cent-votes-official-758410)
-2. [AP via ''Daily Mail](http://www.dailymail.co.uk/wires/ap/article-3055772/Kazakhstan-goes-polls-president-expected-win.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490)
+1. [AP via ''Daily Mail](http://www.dailymail.co.uk/wires/ap/article-3055772/Kazakhstan-goes-polls-president-expected-win.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490)
+2. [NDTV](http://www.ndtv.com/world-news/kazakh-president-nursultan-nazarbayev-wins-re-election-with-97-7-per-cent-votes-official-758410)
 
 ### Related:
 

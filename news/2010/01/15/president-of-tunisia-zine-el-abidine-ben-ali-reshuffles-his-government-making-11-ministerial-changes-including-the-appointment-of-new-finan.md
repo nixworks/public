@@ -9,8 +9,8 @@
 
 1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=85&art_id=nw20100114222757335C306852)
 2. [Middle East Online](http://www.middle-east-online.com/english/?id=36663)
-3. [Xinhua](http://news.xinhuanet.com/english/2010-01/14/content_12805816.htm)
-4. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE60E02S20100115)
+3. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE60E02S20100115)
+4. [Xinhua](http://news.xinhuanet.com/english/2010-01/14/content_12805816.htm)
 
 ### Related:
 

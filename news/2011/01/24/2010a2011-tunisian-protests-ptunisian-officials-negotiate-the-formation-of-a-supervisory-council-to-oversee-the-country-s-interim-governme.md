@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [VOA](http://www.voanews.com/english/news/africa/Police-Fire-Tear-Gas-at-Tunisian-Protesters-114471949.html)
-2. [CNN](http://www.cnn.com/2011/WORLD/americas/01/24/tunisia.canada.ben.ali/index.html)
+1. [CNN](http://www.cnn.com/2011/WORLD/americas/01/24/tunisia.canada.ben.ali/index.html)
+2. [VOA](http://www.voanews.com/english/news/africa/Police-Fire-Tear-Gas-at-Tunisian-Protesters-114471949.html)
 
 ### Related:
 

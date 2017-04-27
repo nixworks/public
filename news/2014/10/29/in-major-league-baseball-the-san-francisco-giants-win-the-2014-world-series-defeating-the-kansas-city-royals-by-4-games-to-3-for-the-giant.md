@@ -7,8 +7,8 @@ MLB World Series minute-by-minute report: The San Francisco Giants are champions
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/sport/live/2014/oct/29/san-francisco-giants-v-kansas-city-royals-2014-world-series-live-game-7)
-2. [AP](http://hosted.ap.org/dynamic/stories/B/BBO_WORLD_SERIES_MVP?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+1. [AP](http://hosted.ap.org/dynamic/stories/B/BBO_WORLD_SERIES_MVP?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [The Guardian](http://www.theguardian.com/sport/live/2014/oct/29/san-francisco-giants-v-kansas-city-royals-2014-world-series-live-game-7)
 
 ### Related:
 

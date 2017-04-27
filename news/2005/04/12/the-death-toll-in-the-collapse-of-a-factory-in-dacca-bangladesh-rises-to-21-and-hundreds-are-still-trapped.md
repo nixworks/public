@@ -7,8 +7,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8146307)
-2. [New Kerala](http://www.newkerala.com/news-daily/news/features.php?action=fullnews&id=96671)
+1. [New Kerala](http://www.newkerala.com/news-daily/news/features.php?action=fullnews&id=96671)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8146307)
 
 ### Related:
 

@@ -7,9 +7,9 @@ The governor of Hawaii declared a state of emergency in an effort to free up fun
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Health_News/2015/10/17/Governor-of-Hawaii-declares-state-of-emergency-to-help-homeless/4711445124043/)
+1. [Hawaii](http://governor.hawaii.gov/newsroom/governors-office-news-release-governor-ige-signs-emergency-proclamation-to-address-homelessness-statewide/)
 2. [Reuters](http://www.reuters.com/article/2015/10/18/us-usa-hawaii-homelessness-idUSKCN0SC00P20151018)
-3. [Hawaii](http://governor.hawaii.gov/newsroom/governors-office-news-release-governor-ige-signs-emergency-proclamation-to-address-homelessness-statewide/)
+3. [UPI](http://www.upi.com/Health_News/2015/10/17/Governor-of-Hawaii-declares-state-of-emergency-to-help-homeless/4711445124043/)
 
 ### Related:
 

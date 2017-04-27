@@ -7,9 +7,9 @@ Beijing accuses search giant of breaking promises to abide by Chinese laws.
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8582233.stm)
-2. [China Daily](http://www.chinadaily.com.cn/china/2010-03/23/content_9625554.htm)
-3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/03/201032355749465978.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/03/201032355749465978.html)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8582233.stm)
+3. [China Daily](http://www.chinadaily.com.cn/china/2010-03/23/content_9625554.htm)
 
 ### Related:
 

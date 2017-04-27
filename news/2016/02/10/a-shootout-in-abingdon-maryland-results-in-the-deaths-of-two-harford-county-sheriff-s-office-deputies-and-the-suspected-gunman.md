@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [WBAL TV](http://www.wbaltv.com/news/harford-county-deputies-involved-in-shooting/37921210)
-2. [CNN](http://www.cnn.com/2016/02/10/us/maryland-shooting-deputies-killed/)
+1. [CNN](http://www.cnn.com/2016/02/10/us/maryland-shooting-deputies-killed/)
+2. [WBAL TV](http://www.wbaltv.com/news/harford-county-deputies-involved-in-shooting/37921210)
 
 ### Related:
 

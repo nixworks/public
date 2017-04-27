@@ -7,8 +7,8 @@ Military launches campaigns in three provinces as foreign governments reopen emb
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/world/us/Yemen-steps-up-raids-US-opens-mission/articleshow/5414547.cms)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/01/201015132832598600.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/01/201015132832598600.html)
+2. [Times of India](http://timesofindia.indiatimes.com/world/us/Yemen-steps-up-raids-US-opens-mission/articleshow/5414547.cms)
 
 ### Related:
 

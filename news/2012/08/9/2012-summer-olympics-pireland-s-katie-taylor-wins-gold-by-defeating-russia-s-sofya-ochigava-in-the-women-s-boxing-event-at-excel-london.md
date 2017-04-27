@@ -7,12 +7,12 @@ Ireland&#39;s Katie Taylor completed a lifetime dream by winning an Olympic gold
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/sport/olympics/boxing/2012/0809/332880-boxing-katie-taylor-wins-gold/)
-2. [BBC Sport](http://www.bbc.co.uk/sport/0/olympics/18913924)
-3. [The Leader](http://www.leaderlive.co.uk/news/115184/jade-clinches-olympic-glory.aspx)
-4. [BBC Sport](http://www.bbc.co.uk/sport/0/olympics/18914380)
-5. [BBC](http://www.bbc.co.uk/sport/0/olympics/18914012)
-6. [Los Angeles Times](http://www.latimes.com/sports/olympics/olympicsnow/la-sp-on-usain-bolt-200-meters-20120809,0,1208081.story)
+1. [BBC Sport](http://www.bbc.co.uk/sport/0/olympics/18913924)
+2. [BBC Sport](http://www.bbc.co.uk/sport/0/olympics/18914380)
+3. [BBC](http://www.bbc.co.uk/sport/0/olympics/18914012)
+4. [Los Angeles Times](http://www.latimes.com/sports/olympics/olympicsnow/la-sp-on-usain-bolt-200-meters-20120809,0,1208081.story)
+5. [RTÉ](http://www.rte.ie/sport/olympics/boxing/2012/0809/332880-boxing-katie-taylor-wins-gold/)
+6. [The Leader](http://www.leaderlive.co.uk/news/115184/jade-clinches-olympic-glory.aspx)
 
 ### Related:
 

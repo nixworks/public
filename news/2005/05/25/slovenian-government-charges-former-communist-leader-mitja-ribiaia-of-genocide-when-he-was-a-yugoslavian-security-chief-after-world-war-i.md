@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L25600183.htm)
-2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/politics/4581197.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/politics/4581197.stm)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L25600183.htm)
 
 ### Related:
 

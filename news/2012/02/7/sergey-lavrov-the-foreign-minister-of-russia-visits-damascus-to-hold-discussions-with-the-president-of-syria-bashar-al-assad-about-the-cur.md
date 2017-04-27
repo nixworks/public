@@ -7,12 +7,12 @@ Russia won a promise from Syrian President Bashar al-Assad on Tuesday to bring a
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/02/07/us-syria-idUSTRE80S08620120207)
+1. [AFP via ''the Australian](http://www.theaustralian.com.au/in-depth/middle-east-in-turmoil/russia-has-extracted-a-commitment-from-syria-to-end-bloodshed-as-bombings-continue-in-homs/story-fn7ycml4-1226265345036)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-16932556)
-3. [AFP via ''the Australian](http://www.theaustralian.com.au/in-depth/middle-east-in-turmoil/russia-has-extracted-a-commitment-from-syria-to-end-bloodshed-as-bombings-continue-in-homs/story-fn7ycml4-1226265345036)
-4. [Sky News](http://news.sky.com/home/world-news/article/16164544)
-5. [The Guardian](http://www.guardian.co.uk/world/2012/feb/07/syrian-homs-siege-genocidal-say-residents)
-6. [Reuters](http://www.reuters.com/article/2012/02/07/us-france-syria-idUSTRE8160YH20120207)
+3. [Reuters](http://www.reuters.com/article/2012/02/07/us-france-syria-idUSTRE8160YH20120207)
+4. [Reuters](http://www.reuters.com/article/2012/02/07/us-syria-idUSTRE80S08620120207)
+5. [Sky News](http://news.sky.com/home/world-news/article/16164544)
+6. [The Guardian](http://www.guardian.co.uk/world/2012/feb/07/syrian-homs-siege-genocidal-say-residents)
 
 ### Related:
 

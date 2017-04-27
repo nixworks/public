@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/europe/4366911.stm)
-2. [CASCFEN](http://www.cascfen.org/contents.php?cid=159)
-3. [Azertag](http://www.azertag.com/en/index.shtml?language=english&catid=&news_year=&news_month=&news_day=&newsid=101116&themes_viewing=&themes_page=&themeid=&news_page=)
+1. [Azertag](http://www.azertag.com/en/index.shtml?language=english&catid=&news_year=&news_month=&news_day=&newsid=101116&themes_viewing=&themes_page=&themeid=&news_page=)
+2. [BBC](http://news.bbc.co.uk/2/hi/europe/4366911.stm)
+3. [CASCFEN](http://www.cascfen.org/contents.php?cid=159)
 
 ### Related:
 

@@ -7,13 +7,13 @@ Irish airports remained open today, but there is disruption in some parts of sou
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/travel/travelnews/7695668/Volcanic-ash-threatens-more-flight-disruption.html)
-2. [The Times of India](http://timesofindia.indiatimes.com/World/Europe/Ash-delays-reroutes-trans-Atlantic-flights-/articleshow/5906704.cms)
-3. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/05/201058142748988447.html)
-4. [CBC](http://www.cbc.ca/world/story/2010/05/08/ash-cloud-travel-disrupted-again.html#ixzz0nM1PKTy8)
-5. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/essex/8669765.stm)
-6. [RTÉ](http://www.rte.ie/news/2010/0508/travel.html)
-7. [RTÉ](http://www.rte.ie/news/2010/0508/travelupdates.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/05/201058142748988447.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/essex/8669765.stm)
+3. [CBC](http://www.cbc.ca/world/story/2010/05/08/ash-cloud-travel-disrupted-again.html#ixzz0nM1PKTy8)
+4. [RTÉ](http://www.rte.ie/news/2010/0508/travel.html)
+5. [RTÉ](http://www.rte.ie/news/2010/0508/travelupdates.html)
+6. [The Daily Telegraph](http://www.telegraph.co.uk/travel/travelnews/7695668/Volcanic-ash-threatens-more-flight-disruption.html)
+7. [The Times of India](http://timesofindia.indiatimes.com/World/Europe/Ash-delays-reroutes-trans-Atlantic-flights-/articleshow/5906704.cms)
 
 ### Related:
 

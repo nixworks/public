@@ -7,9 +7,9 @@ The 88,000 residents who fled a wildfire that has ravaged the Canadian oil town 
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/world/2016/05/04/over-80000-evacuated-fires-threaten-canada-town/83912738/)
+1. [Métro](http://www.metronews.ca/news/canada/2016/05/04/red-cross-encouraging-people-to-donate-funds-to-fort-mcmurry.html)
 2. [Reuters](http://www.reuters.com/article/us-canada-wildfire-fortmcmurray-idUSKCN0XU2D8)
-3. [Métro](http://www.metronews.ca/news/canada/2016/05/04/red-cross-encouraging-people-to-donate-funds-to-fort-mcmurry.html)
+3. [USA Today](http://www.usatoday.com/story/news/world/2016/05/04/over-80000-evacuated-fires-threaten-canada-town/83912738/)
 
 ### Related:
 

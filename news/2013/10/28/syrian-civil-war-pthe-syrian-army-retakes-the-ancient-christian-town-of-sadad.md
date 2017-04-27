@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Huffington Post](http://www.huffingtonpost.com/2013/10/28/sadad-syria-christian-town_n_4169456.html)
-2. [Press TV](http://www.presstv.ir/detail/2013/10/28/331721/syria-army-retakes-christian-town/)
+1. [Press TV](http://www.presstv.ir/detail/2013/10/28/331721/syria-army-retakes-christian-town/)
+2. [The Huffington Post](http://www.huffingtonpost.com/2013/10/28/sadad-syria-christian-town_n_4169456.html)
 
 ### Related:
 

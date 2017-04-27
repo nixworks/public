@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/weather/2009/feb/04/srilanka-terrorism)
+1. [AFP via ''The Australian](http://www.theaustralian.news.com.au/story/0,25197,25003516-12335,00.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7867743.stm)
-3. [AFP via ''The Australian](http://www.theaustralian.news.com.au/story/0,25197,25003516-12335,00.html)
+3. [The Guardian](http://www.guardian.co.uk/weather/2009/feb/04/srilanka-terrorism)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [Reuters](http://bigstory.ap.org/article/12-die-flooding-bulgaria-after-heavy-rain)
-2. [ABC News](http://abcnews.go.com/International/wireStory/10-die-flooding-bulgaria-heavy-rain-24220254)
+1. [ABC News](http://abcnews.go.com/International/wireStory/10-die-flooding-bulgaria-heavy-rain-24220254)
+2. [Reuters](http://bigstory.ap.org/article/12-die-flooding-bulgaria-after-heavy-rain)
 
 ### Related:
 

@@ -7,8 +7,8 @@ President Barack Obama has unwittingly waded into a military legal tangle by dec
 
 ### Source:
 
-1. [MSNBC](http://www.msnbc.msn.com/id/42770631/ns/us_news-security/)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iASLv67aFb5qNHFoQusuvdtoHekA?docId=CNG.4ca73c977c97b97262beb69ade7fe67f.a1)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iASLv67aFb5qNHFoQusuvdtoHekA?docId=CNG.4ca73c977c97b97262beb69ade7fe67f.a1)
+2. [MSNBC](http://www.msnbc.msn.com/id/42770631/ns/us_news-security/)
 
 ### Related:
 

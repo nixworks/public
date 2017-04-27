@@ -7,8 +7,8 @@ Ugandan police on Thursday blocked opposition leader Kizza Besigye from driving 
 
 ### Source:
 
-1. [Daily Monitor](http://www.monitor.co.ug/News/National/-/688334/1165696/-/c1hcfpz/-/)
-2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gDWxx5KGbUkUatZbLp8l9A3fnCtA?docId=2acf982140664183bb5d9dd6a898c6e3)
+1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gDWxx5KGbUkUatZbLp8l9A3fnCtA?docId=2acf982140664183bb5d9dd6a898c6e3)
+2. [Daily Monitor](http://www.monitor.co.ug/News/National/-/688334/1165696/-/c1hcfpz/-/)
 
 ### Related:
 

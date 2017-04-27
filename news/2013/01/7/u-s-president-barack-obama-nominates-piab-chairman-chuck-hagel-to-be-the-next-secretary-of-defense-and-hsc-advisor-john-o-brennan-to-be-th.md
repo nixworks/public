@@ -7,9 +7,9 @@ President Obama names Chuck Hagel to head the Pentagon and terrorism adviser Joh
 
 ### Source:
 
-1. [The Washington Post](http://www.washingtonpost.com/politics/whitehouse/obama-picks-chuck-hagel-as-next-defense-secretary-setting-up-likely-confirmation-fight/2013/01/07/2dc9e916-58a4-11e2-b8b2-0d18a64c8dfa_story.html)
-2. [AP](http://hosted.ap.org/dynamic/stories/U/US_OBAMA_NATIONAL_SECURITY)
-3. [BBC](http://www.bbc.co.uk/news/world-us-canada-20934638)
+1. [AP](http://hosted.ap.org/dynamic/stories/U/US_OBAMA_NATIONAL_SECURITY)
+2. [BBC](http://www.bbc.co.uk/news/world-us-canada-20934638)
+3. [The Washington Post](http://www.washingtonpost.com/politics/whitehouse/obama-picks-chuck-hagel-as-next-defense-secretary-setting-up-likely-confirmation-fight/2013/01/07/2dc9e916-58a4-11e2-b8b2-0d18a64c8dfa_story.html)
 
 ### Related:
 

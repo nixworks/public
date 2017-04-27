@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/20108322910182928.html)
-2. [Daily Mail](http://www.dailymail.co.uk/news/worldnews/article-1299895/Assasination-Pakistani-politician-sparks-clashes-kill-40.html?ITO=1490)
-3. [AP via ''The Guardian](http://www.guardian.co.uk/world/2010/aug/03/pakistan-political-violence-dozens-dead)
+1. [AP via ''The Guardian](http://www.guardian.co.uk/world/2010/aug/03/pakistan-political-violence-dozens-dead)
+2. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/20108322910182928.html)
+3. [Daily Mail](http://www.dailymail.co.uk/news/worldnews/article-1299895/Assasination-Pakistani-politician-sparks-clashes-kill-40.html?ITO=1490)
 4. [Reuters](http://uk.reuters.com/article/idUKTRE6720IR20100803?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FUKTopNews+%28News+%2F+UK+%2F+Top+News%29)
 
 ### Related:

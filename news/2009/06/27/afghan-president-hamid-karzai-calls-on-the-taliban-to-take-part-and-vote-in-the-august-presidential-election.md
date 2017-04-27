@@ -7,8 +7,8 @@ The Afghan president urged the militants to refrain from disrupting the national
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2009-06/27/content_11611371.htm)
-2. [New York Times](http://www.nytimes.com/2009/06/28/world/asia/28afghan.html?ref=world)
+1. [New York Times](http://www.nytimes.com/2009/06/28/world/asia/28afghan.html?ref=world)
+2. [Xinhua](http://news.xinhuanet.com/english/2009-06/27/content_11611371.htm)
 
 ### Related:
 

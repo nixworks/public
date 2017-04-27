@@ -7,8 +7,8 @@ Ukrainian government forces have conducted a series of successful offensives in 
 
 ### Source:
 
-1. [Kyiv Post](http://www.kyivpost.com/content/ukraine/american-donbas-battalion-member-dies-in-fierce-fighting-near-donetsk-city-361285.html)
-2. [Interfax](http://en.interfax.com.ua/news/general/218873.html)
+1. [Interfax](http://en.interfax.com.ua/news/general/218873.html)
+2. [Kyiv Post](http://www.kyivpost.com/content/ukraine/american-donbas-battalion-member-dies-in-fierce-fighting-near-donetsk-city-361285.html)
 
 ### Related:
 

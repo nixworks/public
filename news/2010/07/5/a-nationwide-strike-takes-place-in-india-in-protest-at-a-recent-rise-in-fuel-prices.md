@@ -7,9 +7,9 @@ Bharat bandh on Monday partially disrupted economic activities with commodity ma
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/India/India-lost-Rs-13000-crore-in-todays-bandh/articleshow/6131833.cms)
+1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/07/05/india.strikes/?hpt=T2&fbid=Dxrzb6Q-4_O)
 2. [New York Times](http://www.nytimes.com/2010/07/06/business/global/06rupee.html)
-3. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/07/05/india.strikes/?hpt=T2&fbid=Dxrzb6Q-4_O)
+3. [Times of India](http://timesofindia.indiatimes.com/India/India-lost-Rs-13000-crore-in-todays-bandh/articleshow/6131833.cms)
 
 ### Related:
 

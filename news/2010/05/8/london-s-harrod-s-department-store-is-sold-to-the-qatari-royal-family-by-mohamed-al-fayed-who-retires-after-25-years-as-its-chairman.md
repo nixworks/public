@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/europe/05/08/uk.harrods.sale/)
-2. [The Times](http://business.timesonline.co.uk/tol/business/industry_sectors/retailing/article7120443.ece)
+1. [Al Jazeera](http://english.aljazeera.net/business/2010/05/20105813475659574.html)
+2. [CNN](http://edition.cnn.com/2010/WORLD/europe/05/08/uk.harrods.sale/)
 3. [RTÉ](http://www.rte.ie/news/2010/0508/harrods.html)
-4. [Al Jazeera](http://english.aljazeera.net/business/2010/05/20105813475659574.html)
+4. [The Times](http://business.timesonline.co.uk/tol/business/industry_sectors/retailing/article7120443.ece)
 
 ### Related:
 

@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Sun Star](http://www.sunstar.com.ph/static/ceb/2005/06/22/news/bunye.won.t.name.voices.html)
-2. [Channel News Asia](http://www.channelnewsasia.com/stories/analysis/view/153847/1/.html)
-3. [INQ7, Philippines](http://news.inq7.net/breaking/index.php?index=1&story_id=41052)
-4. [Manila Times](http://www.manilatimes.net/national/2005/jun/21/yehey/top_stories/20050621top1.html)
+1. [Channel News Asia](http://www.channelnewsasia.com/stories/analysis/view/153847/1/.html)
+2. [INQ7, Philippines](http://news.inq7.net/breaking/index.php?index=1&story_id=41052)
+3. [Manila Times](http://www.manilatimes.net/national/2005/jun/21/yehey/top_stories/20050621top1.html)
+4. [Sun Star](http://www.sunstar.com.ph/static/ceb/2005/06/22/news/bunye.won.t.name.voices.html)
 
 ### Related:
 

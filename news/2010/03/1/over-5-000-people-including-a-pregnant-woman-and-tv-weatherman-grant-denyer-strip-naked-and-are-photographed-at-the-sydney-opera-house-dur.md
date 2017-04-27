@@ -7,10 +7,10 @@ AN impressive 5200 people have shed their clothes to pose naked for renowned pho
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE6203AL20100301)
-2. [news.com.au](http://www.news.com.au/national/thousands-gather-for-naked-spencer-tunick-opera-house-photos/story-e6frfkvr-1225835477514)
-3. [CBC](http://www.cbc.ca/arts/artdesign/story/2010/03/01/tunick-sydney-opera-house.html)
-4. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8542350.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8542350.stm)
+2. [CBC](http://www.cbc.ca/arts/artdesign/story/2010/03/01/tunick-sydney-opera-house.html)
+3. [Reuters](http://www.reuters.com/article/idUSTRE6203AL20100301)
+4. [news.com.au](http://www.news.com.au/national/thousands-gather-for-naked-spencer-tunick-opera-house-photos/story-e6frfkvr-1225835477514)
 
 ### Related:
 

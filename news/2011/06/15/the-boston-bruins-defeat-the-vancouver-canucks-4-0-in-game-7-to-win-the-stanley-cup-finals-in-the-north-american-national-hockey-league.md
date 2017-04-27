@@ -7,14 +7,14 @@ It took a small army of police over two hours but the chaos in downtown Vancouve
 
 ### Source:
 
-1. [The Province](http://www.theprovince.com/sports/Georgia+Homer+declared+illegal+assembly+zone+falls+viaduct+outside+Rogers+Arena/4953623/story.html)
+1. [Boston Globe](http://www.boston.com/sports/hockey/bruins/extras/bruins_blog/2011/06/live_blog_bruin_4.html)
 2. [CP24](http://www.cp24.com/servlet/an/local/CTVNews/20110615/110615_riot/20110616/?hub=CP24Home)
-3. [Reuters via ABC News Online](http://www.abc.net.au/news/stories/2011/06/16/3245634.htm?section=world)
-4. [CTV British Columbia](http://www.ctvbc.ctv.ca/servlet/an/local/CTVNews/20110615/bc_stanley_cup_riot_110615/20110615/?hub=BritishColumbiaHome)
-5. [National Post](http://sports.nationalpost.com/2011/06/15/bruins-top-canucks-to-win-stanley-cup/)
-6. [The Globe and Mail](http://www.theglobeandmail.com/news/national/british-columbia/riot-sparks-busiest-night-in-20-years-at-vancouver-hospital/article2063884/)
-7. [Boston Globe](http://www.boston.com/sports/hockey/bruins/extras/bruins_blog/2011/06/live_blog_bruin_4.html)
-8. [New York Times](http://slapshot.blogs.nytimes.com/2011/06/15/live-blogging-game-7-of-the-stanley-cup-finals/?smid=fb-nytimes&WT.mc_id=SP-SM-E-FB-SM-LIN-BWS-061511-NYT-NA&WT.mc_ev=click)
+3. [CTV British Columbia](http://www.ctvbc.ctv.ca/servlet/an/local/CTVNews/20110615/bc_stanley_cup_riot_110615/20110615/?hub=BritishColumbiaHome)
+4. [National Post](http://sports.nationalpost.com/2011/06/15/bruins-top-canucks-to-win-stanley-cup/)
+5. [New York Times](http://slapshot.blogs.nytimes.com/2011/06/15/live-blogging-game-7-of-the-stanley-cup-finals/?smid=fb-nytimes&WT.mc_id=SP-SM-E-FB-SM-LIN-BWS-061511-NYT-NA&WT.mc_ev=click)
+6. [Reuters via ABC News Online](http://www.abc.net.au/news/stories/2011/06/16/3245634.htm?section=world)
+7. [The Globe and Mail](http://www.theglobeandmail.com/news/national/british-columbia/riot-sparks-busiest-night-in-20-years-at-vancouver-hospital/article2063884/)
+8. [The Province](http://www.theprovince.com/sports/Georgia+Homer+declared+illegal+assembly+zone+falls+viaduct+outside+Rogers+Arena/4953623/story.html)
 9. [The Vancouver Sun](http://www.vancouversun.com/sports/Premier+Clark+says+those+responsible+Vancouver+riots+will+hunted+down/4959609/story.html)
 
 ### Related:

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Philippine Star](http://www.philstar.com/nation/2017/04/04/1687753/magnitude-5.4-quake-strikes-batangas-shakes-metro-manila)
-2. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/886638/look-5-4-magnitude-quake-damage-in-batangas)
+1. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/886638/look-5-4-magnitude-quake-damage-in-batangas)
+2. [The Philippine Star](http://www.philstar.com/nation/2017/04/04/1687753/magnitude-5.4-quake-strikes-batangas-shakes-metro-manila)
 
 ### Related:
 

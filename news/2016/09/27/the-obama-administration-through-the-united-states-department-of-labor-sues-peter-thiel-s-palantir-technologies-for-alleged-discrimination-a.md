@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-palantir-tech-discrimination-lawsuit-idUSKCN11W2DA)
-2. [BBC](http://www.bbc.com/news/technology-37484830)
+1. [BBC](http://www.bbc.com/news/technology-37484830)
+2. [Reuters](http://www.reuters.com/article/us-palantir-tech-discrimination-lawsuit-idUSKCN11W2DA)
 
 ### Related:
 

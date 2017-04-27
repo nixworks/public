@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Huffington Post](http://www.huffingtonpost.com/2013/05/30/japan-gmo-wheat-food-concerns_n_3357240.html)
-2. [Associated Press via ''The Washington Post](http://www.washingtonpost.com/business/usda-says-unapproved-genetically-engineered-wheat-discovered-in-oregon-field/2013/05/30/2975da22-c902-11e2-9cd9-3b9a22a4000a_story.html)
+1. [Associated Press via ''The Washington Post](http://www.washingtonpost.com/business/usda-says-unapproved-genetically-engineered-wheat-discovered-in-oregon-field/2013/05/30/2975da22-c902-11e2-9cd9-3b9a22a4000a_story.html)
+2. [The Huffington Post](http://www.huffingtonpost.com/2013/05/30/japan-gmo-wheat-food-concerns_n_3357240.html)
 
 ### Related:
 

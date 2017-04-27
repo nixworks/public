@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2016/12/13/opinion/gambias-jammeh-weighs-whether-to-be-or-not-to-be-a-dictator.html?_r=0)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-38302533)
-3. [BBC](http://www.bbc.com/news/world-africa-38306325)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-38302533)
+2. [BBC](http://www.bbc.com/news/world-africa-38306325)
+3. [The New York Times](http://www.nytimes.com/2016/12/13/opinion/gambias-jammeh-weighs-whether-to-be-or-not-to-be-a-dictator.html?_r=0)
 
 ### Related:
 

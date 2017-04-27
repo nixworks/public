@@ -7,8 +7,8 @@ Greek MPs approve tough economic measures required to enable an €86bn eurozone
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-europe-33535205)
-2. [AP via ''New York Times](http://www.nytimes.com/aponline/2015/07/15/world/europe/ap-eu-greece-bailout.html?_r=0)
+1. [AP via ''New York Times](http://www.nytimes.com/aponline/2015/07/15/world/europe/ap-eu-greece-bailout.html?_r=0)
+2. [BBC](http://www.bbc.com/news/world-europe-33535205)
 
 ### Related:
 

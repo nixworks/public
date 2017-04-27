@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Ya Libnan](http://www.yalibnan.com/2010/08/13/iranian-tv-series-the-christ-canceled-in-lebanon/)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iuIxoyTFypG5lWnZhYzAvkE0GTew)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iuIxoyTFypG5lWnZhYzAvkE0GTew)
+2. [Ya Libnan](http://www.yalibnan.com/2010/08/13/iranian-tv-series-the-christ-canceled-in-lebanon/)
 
 ### Related:
 

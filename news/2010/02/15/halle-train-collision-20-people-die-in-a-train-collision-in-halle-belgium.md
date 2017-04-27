@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Flanders News](http://www.deredactie.be/cm/vrtnieuws.english/news/100215_train1)
-2. [WSJ](http://online.wsj.com/article/SB10001424052748704431404575066773916348634.html?mod=WSJEUROPE_hpp_LEFTTopStories)
-3. [BBC](http://news.bbc.co.uk/2/hi/europe/8515855.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8515855.stm)
+2. [Flanders News](http://www.deredactie.be/cm/vrtnieuws.english/news/100215_train1)
+3. [WSJ](http://online.wsj.com/article/SB10001424052748704431404575066773916348634.html?mod=WSJEUROPE_hpp_LEFTTopStories)
 
 ### Related:
 

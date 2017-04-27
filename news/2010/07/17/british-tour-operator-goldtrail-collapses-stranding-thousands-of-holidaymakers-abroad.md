@@ -7,5 +7,5 @@ British tour operator Goldtrail collapses, leaving thousands of holidaymakers ab
 
 ### Source:
 
-1. [The Age](http://news.theage.com.au/breaking-news-world/uk-tour-group-broke-with-tourists-abroad-20100717-10eqr.html)
-2. [BBC](http://www.bbc.co.uk/news/uk-10671063)
+1. [BBC](http://www.bbc.co.uk/news/uk-10671063)
+2. [The Age](http://news.theage.com.au/breaking-news-world/uk-tour-group-broke-with-tourists-abroad-20100717-10eqr.html)

@@ -7,10 +7,10 @@ Burma&#39;s opposition leader Aung San Suu Kyi has lodged an appeal against her 
 
 ### Source:
 
-1. [Wall Street Journal](http://online.wsj.com/article/SB125196376381582563.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8235314.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8235314.stm)
+2. [Bangkok Post](http://www.bangkokpost.com/news/asia/153383/burma-suu-kyi-appeals-against-conviction)
 3. [RTÉ](http://www.rte.ie/news/2009/0903/burma.html)
-4. [Bangkok Post](http://www.bangkokpost.com/news/asia/153383/burma-suu-kyi-appeals-against-conviction)
+4. [Wall Street Journal](http://online.wsj.com/article/SB125196376381582563.html)
 
 ### Related:
 

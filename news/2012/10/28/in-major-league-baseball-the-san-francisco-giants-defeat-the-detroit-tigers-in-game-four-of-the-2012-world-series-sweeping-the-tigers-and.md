@@ -7,8 +7,8 @@ Marco Scutaro singled home the tiebreaking run in the 10th inning, and the Giant
 
 ### Source:
 
-1. [ESPN](http://scores.espn.go.com/mlb/recap?gameId=321028106)
-2. [ESPN](http://espn.go.com/mlb/playoffs/2012/story/_/id/8568080/pablo-sandoval-wins-world-series-mvp)
+1. [ESPN](http://espn.go.com/mlb/playoffs/2012/story/_/id/8568080/pablo-sandoval-wins-world-series-mvp)
+2. [ESPN](http://scores.espn.go.com/mlb/recap?gameId=321028106)
 
 ### Related:
 

@@ -8,8 +8,8 @@ JOHANNESBURG (AFP) - The International Criminal Court (ICC) has called for South
 ### Source:
 
 1. [AFP via ''Straits-Times](http://www.straitstimes.com/news/world/more-world-stories/story/international-criminal-court-calls-south-africa-arrest-sudans-pr)
-2. [News24](http://www.news24.com/news24/SouthAfrica/News/Court-grants-interim-order-preventing-Al-Bashir-from-leaving-SA-20150614)
-3. [News24](http://www.news24.com/news24/SouthAfrica/News/Al-Bashir-arrest-application-postponed-to-Monday-20150614)
+2. [News24](http://www.news24.com/news24/SouthAfrica/News/Al-Bashir-arrest-application-postponed-to-Monday-20150614)
+3. [News24](http://www.news24.com/news24/SouthAfrica/News/Court-grants-interim-order-preventing-Al-Bashir-from-leaving-SA-20150614)
 
 ### Related:
 

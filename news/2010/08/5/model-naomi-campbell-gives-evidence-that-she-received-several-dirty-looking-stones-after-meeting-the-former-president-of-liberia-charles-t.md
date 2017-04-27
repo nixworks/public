@@ -7,9 +7,9 @@ Model Naomi Campbell tells a court she was given &quot;dirty stones&quot; soon a
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/law/2010/aug/05/naomi-campbell-court-blood-diamonds)
+1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/20108582052876765.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-10875811)
-3. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/20108582052876765.html)
+3. [The Guardian](http://www.guardian.co.uk/law/2010/aug/05/naomi-campbell-court-blood-diamonds)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Metrorail service will not be available from midnight Tuesday to 5 a.m. Thursday
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/local/trafficandcommuting/washington-braces-for-full-day-of-metro-shutdown-to-deal-with-safety-concerns/2016/03/16/42324598-eb3f-11e5-b0fd-073d5930a7b7_story.html?hpid=hp_rhp-top-table-low_metro-620a%3Ahomepage%2Fstory)
-2. [The Washington Times](http://www.washingtontimes.com/news/2016/mar/15/metrorail-close-all-day-wednesday/)
-3. [CBS News](http://www.cbsnews.com/news/dc-commuters-facing-subway-shutdown-metromageddon/)
+1. [CBS News](http://www.cbsnews.com/news/dc-commuters-facing-subway-shutdown-metromageddon/)
+2. [The Washington Post](https://www.washingtonpost.com/local/trafficandcommuting/washington-braces-for-full-day-of-metro-shutdown-to-deal-with-safety-concerns/2016/03/16/42324598-eb3f-11e5-b0fd-073d5930a7b7_story.html?hpid=hp_rhp-top-table-low_metro-620a%3Ahomepage%2Fstory)
+3. [The Washington Times](http://www.washingtontimes.com/news/2016/mar/15/metrorail-close-all-day-wednesday/)
 
 ### Related:
 

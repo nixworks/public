@@ -7,8 +7,8 @@ At Least 47 People Killed as Villages Devastated by Falling Boulders, Residents 
 
 ### Source:
 
-1. [CBS](http://www.cbsnews.com/stories/2010/09/20/world/main6883376.shtml?tag=stack)
-2. [AP via KansasCity](http://www.kansascity.com/2010/09/20/2235665/landslides-monsoon-floods-kill.html)
+1. [AP via KansasCity](http://www.kansascity.com/2010/09/20/2235665/landslides-monsoon-floods-kill.html)
+2. [CBS](http://www.cbsnews.com/stories/2010/09/20/world/main6883376.shtml?tag=stack)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Press Trust of India](http://www.ptinews.com/news/250488_Decision-of-SC-judges-to-declare-assets-welcomed)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8223745.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8223745.stm)
+2. [Press Trust of India](http://www.ptinews.com/news/250488_Decision-of-SC-judges-to-declare-assets-welcomed)
 
 ### Related:
 

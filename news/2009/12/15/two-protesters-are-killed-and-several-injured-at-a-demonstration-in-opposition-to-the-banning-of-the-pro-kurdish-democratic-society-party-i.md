@@ -8,8 +8,8 @@
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/europe/12/15/turkey.kurds/)
-2. [Xinhua](http://news.xinhuanet.com/english/2009-12/15/content_12652707.htm)
-3. [Today's Zaman](http://www.todayszaman.com/tz-web/news-195603-two-dead-in-illegal-demonstrations-in-mus.html)
+2. [Today's Zaman](http://www.todayszaman.com/tz-web/news-195603-two-dead-in-illegal-demonstrations-in-mus.html)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-12/15/content_12652707.htm)
 
 ### Related:
 

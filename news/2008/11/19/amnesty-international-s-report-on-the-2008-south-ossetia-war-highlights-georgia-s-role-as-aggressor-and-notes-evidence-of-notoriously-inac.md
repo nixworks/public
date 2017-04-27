@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Amnesty International](http://www.amnesty.org/en/library/asset/EUR04/005/2008/en/d9908665-ab55-11dd-a4cd-bfa0fdea9647/eur040052008eng.pdf)
-2. [AP via CBS](http://www.cbsnews.com/stories/2008/11/18/ap/europe/main4613145.shtml)
+1. [AP via CBS](http://www.cbsnews.com/stories/2008/11/18/ap/europe/main4613145.shtml)
+2. [Amnesty International](http://www.amnesty.org/en/library/asset/EUR04/005/2008/en/d9908665-ab55-11dd-a4cd-bfa0fdea9647/eur040052008eng.pdf)
 
 ### Related:
 

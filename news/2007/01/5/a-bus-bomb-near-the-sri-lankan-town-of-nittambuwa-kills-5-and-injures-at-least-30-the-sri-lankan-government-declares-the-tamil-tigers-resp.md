@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [UPI](http://www.upi.com/NewsTrack/view.php?StoryID=20070105-071725-2677r)
-2. [BBC News](http://news.bbc.co.uk/1/hi/world/south_asia/6234797.stm)
+1. [BBC News](http://news.bbc.co.uk/1/hi/world/south_asia/6234797.stm)
+2. [UPI](http://www.upi.com/NewsTrack/view.php?StoryID=20070105-071725-2677r)
 
 ### Related:
 

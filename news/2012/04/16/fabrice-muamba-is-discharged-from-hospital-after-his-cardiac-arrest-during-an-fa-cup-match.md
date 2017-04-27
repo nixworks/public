@@ -7,8 +7,8 @@ Bolton Wanderers midfielder Fabrice Muamba pays tribute to the London Chest Hosp
 
 ### Source:
 
-1. [East African Standard](http://www.standardmedia.co.ke/sports/InsidePage.php?id=2000056400&cid=38&story=Muamba%20discharged%20from%20hospital)
-2. [BBC](http://www.bbc.co.uk/sport/0/football/17733022)
+1. [BBC](http://www.bbc.co.uk/sport/0/football/17733022)
+2. [East African Standard](http://www.standardmedia.co.ke/sports/InsidePage.php?id=2000056400&cid=38&story=Muamba%20discharged%20from%20hospital)
 
 ### Related:
 

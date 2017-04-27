@@ -7,8 +7,8 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 
 ### Source:
 
-1. [Hurriyet Daily News](http://www.hurriyetdailynews.com/n.php?n=turkey-launches-incursion-into-iraq-2011-10-19)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-15363865)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-15363865)
+2. [Hurriyet Daily News](http://www.hurriyetdailynews.com/n.php?n=turkey-launches-incursion-into-iraq-2011-10-19)
 
 ### Related:
 

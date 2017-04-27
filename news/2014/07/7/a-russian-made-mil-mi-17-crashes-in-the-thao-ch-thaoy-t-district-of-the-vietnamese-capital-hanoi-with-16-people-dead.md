@@ -7,8 +7,8 @@ A military helicopter has crashed close to the Vietnamese capital of Hanoi, kill
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-asia-28190360)
-2. [AFP via GlobalPost](http://www.globalpost.com/dispatch/news/afp/140707/helicopter-crashes-vietnam-capital-hanoi)
+1. [AFP via GlobalPost](http://www.globalpost.com/dispatch/news/afp/140707/helicopter-crashes-vietnam-capital-hanoi)
+2. [BBC](http://www.bbc.com/news/world-asia-28190360)
 
 ### Related:
 

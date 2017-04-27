@@ -7,5 +7,5 @@ uring a Vietnamese league match in February, Song Lam Nghe An defender Tran Dinh
 
 ### Source:
 
-1. [Yahoo!](http://sports.yahoo.com/blogs/soccer-dirty-tackle/dtotd--vietnamese-defener-given-28-match-ban-for-breaking-opponent-s-leg-145420565.html)
-2. [BBC](http://www.bbc.com/sport/0/football/26464186)
+1. [BBC](http://www.bbc.com/sport/0/football/26464186)
+2. [Yahoo!](http://sports.yahoo.com/blogs/soccer-dirty-tackle/dtotd--vietnamese-defener-given-28-match-ban-for-breaking-opponent-s-leg-145420565.html)

@@ -7,12 +7,12 @@ Borussia Dortmund score twice in injury time to snatch a dramatic Champions Leag
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/football/2013/apr/09/real-madrid-galatasaray-champions-league)
+1. [BBC](http://www.bbc.co.uk/sport/0/football/22070025)
 2. [BBC](http://www.bbc.co.uk/sport/0/football/22070501)
-3. [BBC](http://www.bbc.co.uk/sport/0/football/22070025)
-4. [UEFA](http://www.uefa.com/uefachampionsleague/season=2013/matches/round=2000349/match=2009607/index.html)
+3. [The Guardian](http://www.guardian.co.uk/football/2013/apr/09/borussia-dortmund-malaga-live-mbm-report)
+4. [The Guardian](http://www.guardian.co.uk/football/2013/apr/09/real-madrid-galatasaray-champions-league)
 5. [UEFA](http://www.uefa.com/uefachampionsleague/season=2013/matches/round=2000349/match=2009606/index.html)
-6. [The Guardian](http://www.guardian.co.uk/football/2013/apr/09/borussia-dortmund-malaga-live-mbm-report)
+6. [UEFA](http://www.uefa.com/uefachampionsleague/season=2013/matches/round=2000349/match=2009607/index.html)
 
 ### Related:
 

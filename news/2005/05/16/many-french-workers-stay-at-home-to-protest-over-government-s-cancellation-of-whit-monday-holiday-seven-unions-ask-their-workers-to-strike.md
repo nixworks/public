@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=aWEwt2KynJ_M&refer=europe)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/4550353.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4550353.stm)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=aWEwt2KynJ_M&refer=europe)
 3. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-05-15T124800Z_01_MOL546014_RTRUKOC_0_FRANCE-HOLIDAY.xml)
 
 ### Related:

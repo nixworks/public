@@ -7,8 +7,8 @@ Warplanes target PKK bases a day after deadly clashes between rebels and the arm
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-07/02/c_13381077.htm)
-2. [Aljazeera](http://english.aljazeera.net/news/europe/2010/07/20107295817588507.html)
+1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/07/20107295817588507.html)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-07/02/c_13381077.htm)
 
 ### Related:
 

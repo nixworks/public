@@ -7,8 +7,8 @@ TTP spokesman denies carrying out attack, Saudi condemns &#039;criminal&#039; at
 
 ### Source:
 
-1. [Pakistan Express-Tribune](http://tribune.com.pk/story/169692/driver-of-saudi-consulate-car-shot-dead/)
-2. [AP via MSNBC](http://www.msnbc.msn.com/id/43043138)
+1. [AP via MSNBC](http://www.msnbc.msn.com/id/43043138)
+2. [Pakistan Express-Tribune](http://tribune.com.pk/story/169692/driver-of-saudi-consulate-car-shot-dead/)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Herald Sun](http://www.news.com.au/heraldsun/story/0,21985,22248229-5005961,00.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/business/6946425.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/business/6946425.stm)
+2. [Herald Sun](http://www.news.com.au/heraldsun/story/0,21985,22248229-5005961,00.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Al-Arabiya](http://english.alarabiya.net/articles/2012/06/11/219861.html)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/20126119752562267.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/20126119752562267.html)
+2. [Al-Arabiya](http://english.alarabiya.net/articles/2012/06/11/219861.html)
 
 ### Related:
 

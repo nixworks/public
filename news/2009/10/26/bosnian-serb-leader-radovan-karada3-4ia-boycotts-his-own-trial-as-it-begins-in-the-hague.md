@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2009/oct/26/radovan-karadzic-war-crimes-trial)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/8325096.stm)
-3. [The Australian](http://www.theaustralian.news.com.au/story/0,25197,26263309-2703,00.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8325096.stm)
+2. [The Australian](http://www.theaustralian.news.com.au/story/0,25197,26263309-2703,00.html)
+3. [The Guardian](http://www.guardian.co.uk/world/2009/oct/26/radovan-karadzic-war-crimes-trial)
 
 ### Related:
 

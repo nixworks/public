@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/06/19/AR2010061900626.html?hpid=moreheadlines)
-2. [China Daily](http://www.chinadaily.com.cn/world/2010-06/19/content_9993017.htm)
+1. [China Daily](http://www.chinadaily.com.cn/world/2010-06/19/content_9993017.htm)
+2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/06/19/AR2010061900626.html?hpid=moreheadlines)
 
 ### Related:
 

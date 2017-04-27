@@ -7,11 +7,11 @@ More details of the missing miners emerge as police wait until it is safe to beg
 
 ### Source:
 
-1. [Sydney Morning Herald](http://www.smh.com.au/world/i-know-all-of-those-men-personally-workers-trapped-as-blast-rips-through-mine-20101119-180z1.html)
-2. [Stuff.co.nz](http://www.stuff.co.nz/national/4365223/Rescuers-wait-on-final-all-clear-to-enter-mine)
-3. [The Australian](http://www.theaustralian.com.au/news/feared-trapped-underground-in-new-zealand-coal-mine-explosion/story-e6frg6n6-1225956621200)
-4. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20101119/wl_asia_afp/nzealandminingexplosion)
-5. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11793926)
+1. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20101119/wl_asia_afp/nzealandminingexplosion)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11793926)
+3. [Stuff.co.nz](http://www.stuff.co.nz/national/4365223/Rescuers-wait-on-final-all-clear-to-enter-mine)
+4. [Sydney Morning Herald](http://www.smh.com.au/world/i-know-all-of-those-men-personally-workers-trapped-as-blast-rips-through-mine-20101119-180z1.html)
+5. [The Australian](http://www.theaustralian.com.au/news/feared-trapped-underground-in-new-zealand-coal-mine-explosion/story-e6frg6n6-1225956621200)
 
 ### Related:
 

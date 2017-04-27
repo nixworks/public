@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Kantipur](http://www.ekantipur.com/2009/12/20/top-stories/Maoist-enforced-banda-cripples-life-across-nation-Ministers-vehicle-vandalised/304797/)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gcZQrIeohKTI1MpzHlhn5eI4DxTg)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gcZQrIeohKTI1MpzHlhn5eI4DxTg)
+2. [Kantipur](http://www.ekantipur.com/2009/12/20/top-stories/Maoist-enforced-banda-cripples-life-across-nation-Ministers-vehicle-vandalised/304797/)
 
 ### Related:
 

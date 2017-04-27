@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://news.yahoo.com/s/ap/israel_west_bank;_ylt=AocYUme9kT5woKQPZGHHnZWs0NUE;_ylu=X3oDMTA2Z2szazkxBHNlYwN0bQ--)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4465694.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4465694.stm)
+2. [Reuters](http://news.yahoo.com/s/ap/israel_west_bank;_ylt=AocYUme9kT5woKQPZGHHnZWs0NUE;_ylu=X3oDMTA2Z2szazkxBHNlYwN0bQ--)
 
 ### Related:
 

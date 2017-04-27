@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/americas/10/24/tropical.weather/index.html?eref=edition)
-2. [AP via Yahoo](http://news.yahoo.com/s/ap/20101025/ap_on_re_us/tropical_weather)
-3. [Reuters](http://www.reuters.com/article/idUSN2420133720101024)
-4. [AP](http://hosted.ap.org/dynamic/stories/T/TROPICAL_WEATHER?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
+1. [AP via Yahoo](http://news.yahoo.com/s/ap/20101025/ap_on_re_us/tropical_weather)
+2. [AP](http://hosted.ap.org/dynamic/stories/T/TROPICAL_WEATHER?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
+3. [CNN](http://edition.cnn.com/2010/WORLD/americas/10/24/tropical.weather/index.html?eref=edition)
+4. [Reuters](http://www.reuters.com/article/idUSN2420133720101024)
 
 ### Related:
 

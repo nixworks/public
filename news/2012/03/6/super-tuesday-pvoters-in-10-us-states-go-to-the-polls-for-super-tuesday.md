@@ -7,16 +7,16 @@ For those of us who have never been held hostage, now we know what it feels like
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/politics/tennessee-primary-results-rick-santorum-declared-winner/2012/03/05/gIQAukOivR_story.html)
-2. [Los Angeles Times](http://www.latimes.com/news/politics/la-pn-georgia-gop-primary-20120306,0,2853785.story)
-3. [Chicago Tribune](http://www.chicagotribune.com/news/politics/la-pn-idaho-gop-caucuses-20120306,0,2478947.story)
-4. [Chicago Tribune](http://www.chicagotribune.com/news/la-pn-virginia-gop-primary-20120306,0,3841404.story)
-5. [Los Angeles Times](http://www.latimes.com/news/politics/la-pn-romney-wins-vermont-primary-20120306,0,7740240.story)
-6. [CNN](http://edition.cnn.com/2012/03/06/politics/super-tuesday/index.html?hpt=hp_t1)
-7. [AP via ''Washington Post](http://www.washingtonpost.com/politics/gingrich-wins-home-state-of-ga-in-first-of-10-states-voting-super-tuesday/2012/03/06/gIQAVJGYvR_story.html)
+1. [AP via ''Washington Post](http://www.washingtonpost.com/politics/gingrich-wins-home-state-of-ga-in-first-of-10-states-voting-super-tuesday/2012/03/06/gIQAVJGYvR_story.html)
+2. [CNN](http://edition.cnn.com/2012/03/06/politics/super-tuesday/index.html?hpt=hp_t1)
+3. [Chicago Tribune](http://www.chicagotribune.com/news/la-pn-virginia-gop-primary-20120306,0,3841404.story)
+4. [Chicago Tribune](http://www.chicagotribune.com/news/politics/la-pn-idaho-gop-caucuses-20120306,0,2478947.story)
+5. [Los Angeles Times](http://www.latimes.com/news/politics/la-pn-georgia-gop-primary-20120306,0,2853785.story)
+6. [Los Angeles Times](http://www.latimes.com/news/politics/la-pn-romney-wins-vermont-primary-20120306,0,7740240.story)
+7. [Reuters via Fox Business News](http://www.foxbusiness.com/politics/2012/03/06/gingrich-wins-republican-primary-in-georgia/)
 8. [Washington Post](http://www.washingtonpost.com/politics/massachusetts-primary-results-mitt-romney-declared-winner/2012/03/05/gIQAd1QcvR_story.html)
-9. [Washington Times](http://www.washingtontimes.com/news/2012/mar/4/curl-super-tuesday-more-stupor-tuesday/)
-10. [Reuters via Fox Business News](http://www.foxbusiness.com/politics/2012/03/06/gingrich-wins-republican-primary-in-georgia/)
+9. [Washington Post](http://www.washingtonpost.com/politics/tennessee-primary-results-rick-santorum-declared-winner/2012/03/05/gIQAukOivR_story.html)
+10. [Washington Times](http://www.washingtontimes.com/news/2012/mar/4/curl-super-tuesday-more-stupor-tuesday/)
 
 ### Related:
 

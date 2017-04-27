@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-5242377,00.html)
-2. [AP](http://news.yahoo.com/s/ap/20050829/ap_on_re_us/hurricane_katrina_6;_ylt=Am1WzRXNxE0cszPQ.Fi81kcbLisB;_ylu=X3oDMTBiMW04NW9mBHNlYwMlJVRPUCUl)
-3. [Canadian Press, via Canada.com](http://www.canada.com/news/world/story.html?id=f00acd41-5b2b-46fd-a722-a6d76ba1b3ad)
+1. [AP](http://news.yahoo.com/s/ap/20050829/ap_on_re_us/hurricane_katrina_6;_ylt=Am1WzRXNxE0cszPQ.Fi81kcbLisB;_ylu=X3oDMTBiMW04NW9mBHNlYwMlJVRPUCUl)
+2. [Canadian Press, via Canada.com](http://www.canada.com/news/world/story.html?id=f00acd41-5b2b-46fd-a722-a6d76ba1b3ad)
+3. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-5242377,00.html)
 
 ### Related:
 

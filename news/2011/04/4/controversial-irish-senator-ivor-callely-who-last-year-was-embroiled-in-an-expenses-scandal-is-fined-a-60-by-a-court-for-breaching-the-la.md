@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0404/breaking28.html)
+1. [RTÉ](http://www.rte.ie/news/2011/0404/callelyi.html)
 2. [TV3](http://www.tv3.ie/article.php?article_id=56745&locID=1.2&pagename=news)
-3. [RTÉ](http://www.rte.ie/news/2011/0404/callelyi.html)
+3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0404/breaking28.html)
 
 ### Related:
 

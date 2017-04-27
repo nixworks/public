@@ -7,8 +7,8 @@ UPDATED: Deputy Prime Minister and Green Party co-leader Åsa Romson has told Th
 
 ### Source:
 
-1. [The Local](http://www.thelocal.se/20160419/swedens-deputy-pm-defends-911-accident-gaffe)
-2. [Daily Mail](http://www.dailymail.co.uk/news/article-3547291/Sweden-s-deputy-PM-sparks-outcry-describing-9-11-Twin-Towers-attack-September-11-accidents.html)
+1. [Daily Mail](http://www.dailymail.co.uk/news/article-3547291/Sweden-s-deputy-PM-sparks-outcry-describing-9-11-Twin-Towers-attack-September-11-accidents.html)
+2. [The Local](http://www.thelocal.se/20160419/swedens-deputy-pm-defends-911-accident-gaffe)
 
 ### Related:
 

@@ -7,12 +7,12 @@ Georgian Army units appeared in Gori for the first time since they retreated und
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2008/08/24/world/europe/24georgia.html)
-2. [BBC News](http://news.bbc.co.uk/2/hi/europe/7578250.stm)
-3. [The Independent](http://www.independent.co.uk/news/world/europe/russia-troops-still-in-georgia-after-pullout-906704.html)
-4. [CNN](http://edition.cnn.com/2008/WORLD/europe/08/23/russia.georgia.withdrawal/index.html)
-5. [Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20080823.wgeorrussia0823/BNStory/International)
-6. [BBC News](http://news.bbc.co.uk/2/hi/europe/7578726.stm)
+1. [BBC News](http://news.bbc.co.uk/2/hi/europe/7578250.stm)
+2. [BBC News](http://news.bbc.co.uk/2/hi/europe/7578726.stm)
+3. [CNN](http://edition.cnn.com/2008/WORLD/europe/08/23/russia.georgia.withdrawal/index.html)
+4. [Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20080823.wgeorrussia0823/BNStory/International)
+5. [The Independent](http://www.independent.co.uk/news/world/europe/russia-troops-still-in-georgia-after-pullout-906704.html)
+6. [The New York Times](http://www.nytimes.com/2008/08/24/world/europe/24georgia.html)
 
 ### Related:
 

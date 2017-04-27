@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Reuters](http://www.guardian.co.uk/worldlatest/story/0,1280,-5363484,00.html)
-2. [theStar](http://thestar.com.my/news/story.asp?file=/2005/10/23/worldupdates/2005-10-23T120612Z_01_NOOTR_RTRJONC_0_-220602-4&sec=Worldupdates)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/africa/4368516.stm)
-4. [CNN](http://www.cnn.com/2005/WORLD/africa/10/23/nigeria.plane/index.html)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/4368516.stm)
+2. [CNN](http://www.cnn.com/2005/WORLD/africa/10/23/nigeria.plane/index.html)
+3. [Reuters](http://www.guardian.co.uk/worldlatest/story/0,1280,-5363484,00.html)
+4. [theStar](http://thestar.com.my/news/story.asp?file=/2005/10/23/worldupdates/2005-10-23T120612Z_01_NOOTR_RTRJONC_0_-220602-4&sec=Worldupdates)
 
 ### Related:
 

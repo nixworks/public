@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSL1477322720070915?feedType=RSS&feedName=topNews)
-2. [ (CNN](http://edition.cnn.com/2007/US/09/14/pace.iraq/index.html?eref=rss_us)
+1. [ (CNN](http://edition.cnn.com/2007/US/09/14/pace.iraq/index.html?eref=rss_us)
+2. [Reuters](http://www.reuters.com/article/topNews/idUSL1477322720070915?feedType=RSS&feedName=topNews)
 
 ### Related:
 

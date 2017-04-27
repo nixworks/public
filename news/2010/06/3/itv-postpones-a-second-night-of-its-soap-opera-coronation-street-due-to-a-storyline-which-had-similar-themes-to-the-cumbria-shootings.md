@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/media/2010/jun/03/tv-ratings-coronation-street)
-2. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8719224.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8719224.stm)
+2. [The Guardian](http://www.guardian.co.uk/media/2010/jun/03/tv-ratings-coronation-street)
 
 ### Related:
 

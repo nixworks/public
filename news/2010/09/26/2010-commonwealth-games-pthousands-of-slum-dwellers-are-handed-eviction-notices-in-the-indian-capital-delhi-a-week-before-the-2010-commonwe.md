@@ -8,8 +8,8 @@
 ### Source:
 
 1. [TV New Zealand](http://tvnz.co.nz/commonwealth-games/delhi-slum-dwellers-handed-eviction-notices-3801503)
-2. [The Indian Express](http://www.indianexpress.com/news/akhils-woes-a-fourhour-wait-a-broken-bed/688148/)
-3. [The Deccan Chronicle](http://www.deccanchronicle.com/sports/akhil%E2%80%99s-bed-village-collapses-413)
+2. [The Deccan Chronicle](http://www.deccanchronicle.com/sports/akhil%E2%80%99s-bed-village-collapses-413)
+3. [The Indian Express](http://www.indianexpress.com/news/akhils-woes-a-fourhour-wait-a-broken-bed/688148/)
 
 ### Related:
 

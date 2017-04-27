@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/scotland/6257846.stm)
-2. [Reuters via Canada.com](http://www.canada.com/topics/news/world/story.html?id=a469eb24-62e7-43a4-a038-14cce2d2c9d1&k=82275)
-3. [BBC](http://news.bbc.co.uk/2/hi/uk_news/scotland/6257194.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/scotland/6257194.stm)
+3. [Reuters via Canada.com](http://www.canada.com/topics/news/world/story.html?id=a469eb24-62e7-43a4-a038-14cce2d2c9d1&k=82275)
 
 ### Related:
 

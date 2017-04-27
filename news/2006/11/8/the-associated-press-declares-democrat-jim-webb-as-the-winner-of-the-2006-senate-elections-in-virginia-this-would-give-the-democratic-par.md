@@ -7,12 +7,12 @@ Democrat Amy Klobuchar sailed to an easy victory in the U.S. Senate race Tuesday
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2006/POLITICS/11/08/election.main/index.html)
-2. [Yahoo](http://news.yahoo.com/s/ap/20061109/ap_on_el_se/democrats_senate)
-3. [Minnesota Public Radio](http://minnesota.publicradio.org/display/web/2006/11/07/kloken)
-4. [AP via MSNBC](http://www.msnbc.msn.com/id/15623951/)
-5. [AP](http://hosted.ap.org/dynamic/stories/R/RUMSFELD_RESIGNS?SITE=TXHAR&SECTION=HOME&TEMPLATE=DEFAULT)
-6. [AP via Kane County Chronicle](http://www.kcchronicle.com/MainSection/296664502305545.php)
+1. [AP via Kane County Chronicle](http://www.kcchronicle.com/MainSection/296664502305545.php)
+2. [AP via MSNBC](http://www.msnbc.msn.com/id/15623951/)
+3. [AP](http://hosted.ap.org/dynamic/stories/R/RUMSFELD_RESIGNS?SITE=TXHAR&SECTION=HOME&TEMPLATE=DEFAULT)
+4. [CNN](http://edition.cnn.com/2006/POLITICS/11/08/election.main/index.html)
+5. [Minnesota Public Radio](http://minnesota.publicradio.org/display/web/2006/11/07/kloken)
+6. [Yahoo](http://news.yahoo.com/s/ap/20061109/ap_on_el_se/democrats_senate)
 
 ### Related:
 

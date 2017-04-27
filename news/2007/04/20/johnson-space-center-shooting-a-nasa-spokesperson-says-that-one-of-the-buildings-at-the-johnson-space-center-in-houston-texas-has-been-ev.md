@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/americas/6578167.stm)
-2. [AFP via ABC News Australia](http://www.abc.net.au/news/newsitems/200704/s1903160.htm)
+1. [AFP via ABC News Australia](http://www.abc.net.au/news/newsitems/200704/s1903160.htm)
+2. [BBC](http://news.bbc.co.uk/2/hi/americas/6578167.stm)
 3. [CNN](http://www.cnn.com/2007/US/04/20/nasa.gunfire/index.html)
 
 ### Related:

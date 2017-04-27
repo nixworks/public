@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [National Geographic News](http://news.nationalgeographic.com/news/2009/11/091119-dinosaurs-crocodiles-missions.html)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hRNvZn0XR0CBEJlkpkEkxnJC2NbQD9C2NPFG0)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hRNvZn0XR0CBEJlkpkEkxnJC2NbQD9C2NPFG0)
+2. [National Geographic News](http://news.nationalgeographic.com/news/2009/11/091119-dinosaurs-crocodiles-missions.html)
 3. [Times Online](http://www.timesonline.co.uk/tol/news/science/biology_evolution/article6923503.ece)
 
 ### Related:

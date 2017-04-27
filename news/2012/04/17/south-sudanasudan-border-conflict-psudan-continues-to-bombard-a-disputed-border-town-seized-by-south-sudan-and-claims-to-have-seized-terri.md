@@ -7,9 +7,9 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ### Source:
 
-1. [Times Live](http://www.timeslive.co.za/news/2012/04/17/khartoum-declares-all-out-war)
-2. [ABC News](http://abcnews.go.com/US/wireStory/sudan-intensifies-bombing-disputed-town-16151981#.T4zLeqt5GSo)
-3. [The Independent](http://www.independent.co.uk/news/world/africa/southern-sudan-stronghold-seized-as-border-clashes-escalate-7648301.html)
+1. [ABC News](http://abcnews.go.com/US/wireStory/sudan-intensifies-bombing-disputed-town-16151981#.T4zLeqt5GSo)
+2. [The Independent](http://www.independent.co.uk/news/world/africa/southern-sudan-stronghold-seized-as-border-clashes-escalate-7648301.html)
+3. [Times Live](http://www.timeslive.co.za/news/2012/04/17/khartoum-declares-all-out-war)
 
 ### Related:
 

@@ -7,17 +7,17 @@ Jeddah Summary Court sends copy of lawsuit filed against writer to justice minis
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/israel/7476318/Israeli-aircraft-strike-targets-in-Gaza-after-rocket-attack-kills.html)
-2. [The Daily Star](http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=2&article_id=112971)
-3. [Arab News](http://arabnews.com/saudiarabia/article31830.ece)
-4. [The New York Times](http://www.nytimes.com/2010/03/19/world/middleeast/19gaza.html?src=me)
-5. [The Hindu](http://www.hindu.com/2010/03/20/stories/2010032066591800.htm)
+1. [Arab News](http://arabnews.com/saudiarabia/article31830.ece)
+2. [Arabian Business News](http://www.arabianbusiness.com/584088-saudi-blasphemy-case-filed-against-writer--paper)
+3. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8577492.stm)
+4. [Ha'aretz](http://www.haaretz.com/hasen/spages/1157651.html)
+5. [Press TV](http://www.presstv.ir/detail.aspx?id=121211&sectionid=351020203)
 6. [Russia Today](http://www.rt.com/Top_News/2010-03-19/middle-east-quartet-talks.html)
-7. [Ha'aretz](http://www.haaretz.com/hasen/spages/1157651.html)
-8. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-03/20/c_13218005.htm)
-9. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8577492.stm)
-10. [Press TV](http://www.presstv.ir/detail.aspx?id=121211&sectionid=351020203)
-11. [Arabian Business News](http://www.arabianbusiness.com/584088-saudi-blasphemy-case-filed-against-writer--paper)
+7. [The Daily Star](http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=2&article_id=112971)
+8. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/israel/7476318/Israeli-aircraft-strike-targets-in-Gaza-after-rocket-attack-kills.html)
+9. [The Hindu](http://www.hindu.com/2010/03/20/stories/2010032066591800.htm)
+10. [The New York Times](http://www.nytimes.com/2010/03/19/world/middleeast/19gaza.html?src=me)
+11. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-03/20/c_13218005.htm)
 
 ### Related:
 

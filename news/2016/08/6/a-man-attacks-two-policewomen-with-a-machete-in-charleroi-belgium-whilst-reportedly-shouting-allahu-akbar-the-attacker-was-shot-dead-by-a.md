@@ -7,8 +7,8 @@ Two Belgian policewomen on guard outside a police station in the city of Charler
 
 ### Source:
 
-1. [Telegraph](http://www.telegraph.co.uk/news/2016/08/06/belgian-police-officers-injured-in-machete-attack/)
-2. [Bloomberg](http://www.bloomberg.com/politics/articles/2016-08-06/machete-attack-on-police-may-be-terrorism-belgian-premier-says)
+1. [Bloomberg](http://www.bloomberg.com/politics/articles/2016-08-06/machete-attack-on-police-may-be-terrorism-belgian-premier-says)
+2. [Telegraph](http://www.telegraph.co.uk/news/2016/08/06/belgian-police-officers-injured-in-machete-attack/)
 
 ### Related:
 

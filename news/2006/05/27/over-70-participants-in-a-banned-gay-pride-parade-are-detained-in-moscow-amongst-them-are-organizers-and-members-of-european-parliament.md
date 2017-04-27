@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2006/WORLD/europe/05/27/russia.gayrights.ap/index.html?section=cnn_latest)
-2. [RIA Novosti](http://en.rian.ru/russia/20060527/48699608.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/europe/5023466.stm)
-4. [Interfax](http://www.interfax-religion.com/?act=news&div=1490)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/5023466.stm)
+2. [CNN](http://www.cnn.com/2006/WORLD/europe/05/27/russia.gayrights.ap/index.html?section=cnn_latest)
+3. [Interfax](http://www.interfax-religion.com/?act=news&div=1490)
+4. [RIA Novosti](http://en.rian.ru/russia/20060527/48699608.html)
 
 ### Related:
 

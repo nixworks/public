@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [France 24](http://www.france24.com/en/20080920-eight-dead-attacks-pakistan-army-convoys)
-2. [AP via Google News](http://ap.google.com/article/ALeqM5jM_dFZu6OlJGY-syTjldIu-BXZeAD93AL9200)
+1. [AP via Google News](http://ap.google.com/article/ALeqM5jM_dFZu6OlJGY-syTjldIu-BXZeAD93AL9200)
+2. [France 24](http://www.france24.com/en/20080920-eight-dead-attacks-pakistan-army-convoys)
 
 ### Related:
 

@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/world/europe/7259327.stm)
-2. [Reuters](http://www.reuters.com/article/topNews/idUSL2087155420080221?feedType=RSS&feedName=topNews)
-3. [BBC News](http://news.bbc.co.uk/2/hi/europe/7256158.stm)
+2. [BBC News](http://news.bbc.co.uk/2/hi/europe/7256158.stm)
+3. [Reuters](http://www.reuters.com/article/topNews/idUSL2087155420080221?feedType=RSS&feedName=topNews)
 4. [The Age](http://news.theage.com.au/belgrades-us-embassy-burned-body-found/20080222-1tsd.html)
 
 ### Related:

@@ -7,8 +7,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8918761)
-2. [Canada.Com](http://www.canada.com/news/national/story.html?id=15f86f17-fe96-449d-a423-eb668529737c)
+1. [Canada.Com](http://www.canada.com/news/national/story.html?id=15f86f17-fe96-449d-a423-eb668529737c)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8918761)
 
 ### Related:
 

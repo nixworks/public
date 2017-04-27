@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters via Trust](http://www.trust.org/item/20150914010212-zyw68/)
-2. [CNN](http://www.cnn.com/2015/09/14/travel/aso-volcano-erupts-japan-flights/)
+1. [CNN](http://www.cnn.com/2015/09/14/travel/aso-volcano-erupts-japan-flights/)
+2. [Reuters via Trust](http://www.trust.org/item/20150914010212-zyw68/)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Israel sets a tax sanction on the Palestinian Authority in the latest retaliator
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/2014/04/11/uk-palestinian-israel-annexation-idUKBREA391HA20140411)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-26982166)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-26982166)
+2. [Reuters](http://uk.reuters.com/article/2014/04/11/uk-palestinian-israel-annexation-idUKBREA391HA20140411)
 
 ### Related:
 

@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [Al-Jazeera](http://blogs.aljazeera.net/liveblog/Libya)
-2. [MSNBC](http://worldblog.msnbc.msn.com/_news/2011/08/21/7435311-obama-gadhafis-regime-has-reached-a-tipping-point)
-3. [BBC](http://www.bbc.co.uk/news/world-africa-14610722)
-4. [Al-Jazeera](http://blogs.aljazeera.net/liveblog/libya-aug-21-2011-0436)
-5. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/gaddafi-surfaces-after-rebels-advance-20110821-1j4b5.html)
+1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/gaddafi-surfaces-after-rebels-advance-20110821-1j4b5.html)
+2. [Al-Jazeera](http://blogs.aljazeera.net/liveblog/Libya)
+3. [Al-Jazeera](http://blogs.aljazeera.net/liveblog/libya-aug-21-2011-0436)
+4. [BBC](http://www.bbc.co.uk/news/world-africa-14610722)
+5. [MSNBC](http://worldblog.msnbc.msn.com/_news/2011/08/21/7435311-obama-gadhafis-regime-has-reached-a-tipping-point)
 6. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-08/21/c_131063447.htm)
 
 ### Related:

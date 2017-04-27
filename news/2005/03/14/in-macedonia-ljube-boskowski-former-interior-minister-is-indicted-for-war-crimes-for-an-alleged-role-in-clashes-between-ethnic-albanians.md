@@ -7,8 +7,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [RFE](http://www.rferl.org/featuresarticle/2005/03/61047b70-c241-40ee-9595-114a63f922a4.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/4348347.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4348347.stm)
+2. [RFE](http://www.rferl.org/featuresarticle/2005/03/61047b70-c241-40ee-9595-114a63f922a4.html)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?storyID=7894709&type=worldNews)
 
 ### Related:

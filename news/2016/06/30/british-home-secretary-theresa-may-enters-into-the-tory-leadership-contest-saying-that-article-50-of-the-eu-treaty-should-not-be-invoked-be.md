@@ -7,8 +7,8 @@ British Home Secretary Theresa May announced her candidacy for the U.K. Conserva
 
 ### Source:
 
-1. [Wall Street Journal](http://www.wsj.com/articles/theresa-may-joins-race-to-replace-david-cameron-1467275742)
-2. [BBC](http://www.bbc.com/news/uk-politics-36672591)
+1. [BBC](http://www.bbc.com/news/uk-politics-36672591)
+2. [Wall Street Journal](http://www.wsj.com/articles/theresa-may-joins-race-to-replace-david-cameron-1467275742)
 
 ### Related:
 

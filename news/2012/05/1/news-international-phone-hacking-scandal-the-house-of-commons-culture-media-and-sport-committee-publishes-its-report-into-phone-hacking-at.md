@@ -7,8 +7,8 @@ Rupert Murdoch exhibited &quot;wilful blindness&quot; to what was going on in hi
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/uk-politics-17898029)
-2. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/05/20125110498452985.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/05/20125110498452985.html)
+2. [BBC](http://www.bbc.co.uk/news/uk-politics-17898029)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Michael Jackson spoke out Sunday against leaks in his child-molestation case, re
 
 ### Source:
 
-1. [LA Times](http://www.latimes.com/news/local/la-me-statement31jan31,0,8135.story?coll=la-home-headlines)
-2. [CNN](http://edition.cnn.com/2005/LAW/01/30/jackson.trial/)
+1. [CNN](http://edition.cnn.com/2005/LAW/01/30/jackson.trial/)
+2. [LA Times](http://www.latimes.com/news/local/la-me-statement31jan31,0,8135.story?coll=la-home-headlines)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=peopleNews&storyID=7476417)
 
 ### Related:

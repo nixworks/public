@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE6A00AT20101101)
-2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/11/01/russia.kuril.islands/index.html?eref=edition)
+1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/11/01/russia.kuril.islands/index.html?eref=edition)
+2. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE6A00AT20101101)
 
 ### Related:
 

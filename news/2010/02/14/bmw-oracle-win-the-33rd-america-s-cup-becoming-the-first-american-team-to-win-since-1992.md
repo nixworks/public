@@ -7,6 +7,6 @@
 
 ### Source:
 
-1. [TVNZ](http://tvnz.co.nz/sailing-news/america-s-cup-returns-3364368)
-2. [BBC](http://news.bbc.co.uk/sport2/hi/other_sports/sailing/8515368.stm)
+1. [BBC](http://news.bbc.co.uk/sport2/hi/other_sports/sailing/8515368.stm)
+2. [TVNZ](http://tvnz.co.nz/sailing-news/america-s-cup-returns-3364368)
 3. [saling.org/wordcup/news](http://www.sailing.org/worldcup/news/31647.php)

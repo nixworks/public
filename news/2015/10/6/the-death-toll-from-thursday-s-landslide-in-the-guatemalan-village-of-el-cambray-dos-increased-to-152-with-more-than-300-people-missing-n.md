@@ -7,9 +7,9 @@ Hopes are fading in Guatemala of more survivors of a landslide on the outskirts 
 
 ### Source:
 
-1. [Press TV](http://www.presstv.ir/Detail/2015/10/06/432210/Guatemala-mudslide-Alejandro-Maldonado-Guatemala-City-)
-2. [Reuters](http://www.reuters.com/article/2015/10/06/us-guatemala-mudslide-idUSKCN0RZ2AV20151006)
-3. [BBC](http://www.bbc.com/news/world-latin-america-34440822)
+1. [BBC](http://www.bbc.com/news/world-latin-america-34440822)
+2. [Press TV](http://www.presstv.ir/Detail/2015/10/06/432210/Guatemala-mudslide-Alejandro-Maldonado-Guatemala-City-)
+3. [Reuters](http://www.reuters.com/article/2015/10/06/us-guatemala-mudslide-idUSKCN0RZ2AV20151006)
 
 ### Related:
 

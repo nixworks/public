@@ -7,10 +7,10 @@ Israel&#39;s military said it started deploying hundreds of soldiers to cities W
 
 ### Source:
 
-1. [The Times of Israel](http://www.timesofisrael.com/terrorist-stabs-woman-70-outside-jerusalem-bus-station/)
+1. [AP via Denver Post](http://www.denverpost.com/breakingnews/ci_28966924/israeli-military-begins-deploying-cities-stop-attacks?source=rss)
 2. [Jerusalem Post](http://www.jpost.com/Arab-Israeli-Conflict/Attempted-stabbing-attack-by-Old-Citys-Damascus-Gate-in-Jerusalem-424936)
-3. [USA Today](http://www.usatoday.com/story/news/world/2015/10/14/troops-assist-israeli-police/73913338/)
-4. [AP via Denver Post](http://www.denverpost.com/breakingnews/ci_28966924/israeli-military-begins-deploying-cities-stop-attacks?source=rss)
+3. [The Times of Israel](http://www.timesofisrael.com/terrorist-stabs-woman-70-outside-jerusalem-bus-station/)
+4. [USA Today](http://www.usatoday.com/story/news/world/2015/10/14/troops-assist-israeli-police/73913338/)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Haaretz](http://www.haaretz.com/news/international/brazil-recognizes-palestinian-state-1.328840)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/201012504256198565.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/201012504256198565.html)
+2. [Haaretz](http://www.haaretz.com/news/international/brazil-recognizes-palestinian-state-1.328840)
 
 ### Related:
 

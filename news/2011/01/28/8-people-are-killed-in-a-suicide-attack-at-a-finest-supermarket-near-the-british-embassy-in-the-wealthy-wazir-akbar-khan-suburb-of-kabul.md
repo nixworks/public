@@ -7,8 +7,8 @@ Eight people have died in a suicide attack at a supermarket popular with foreign
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-south-asia-12307463)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia/2011/01/2011128131933750123.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia/2011/01/2011128131933750123.html)
+2. [BBC](http://www.bbc.co.uk/news/world-south-asia-12307463)
 
 ### Related:
 

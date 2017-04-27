@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bernama](http://www.bernama.com/bernama/v5/newsgeneral.php?id=602093)
-2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jd2YcSjbAvO7MmbXvW7pnL6gumIw?docId=cc386ad34caf41cbb8583c3d58c90230)
+1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jd2YcSjbAvO7MmbXvW7pnL6gumIw?docId=cc386ad34caf41cbb8583c3d58c90230)
+2. [Bernama](http://www.bernama.com/bernama/v5/newsgeneral.php?id=602093)
 
 ### Related:
 

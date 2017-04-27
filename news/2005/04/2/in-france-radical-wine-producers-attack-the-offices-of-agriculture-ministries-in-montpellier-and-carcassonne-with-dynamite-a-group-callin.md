@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Independent](http://news.independent.co.uk/europe/story.jsp?story=625568)
-2. [BBC](http://www.couponmountain.ca/index.html)
+1. [BBC](http://www.couponmountain.ca/index.html)
+2. [Independent](http://news.independent.co.uk/europe/story.jsp?story=625568)
 3. [WineNews, SA](http://news.wine.co.za/News/News.aspx?NEWSID=6764&Source=HomePage)
 
 ### Related:

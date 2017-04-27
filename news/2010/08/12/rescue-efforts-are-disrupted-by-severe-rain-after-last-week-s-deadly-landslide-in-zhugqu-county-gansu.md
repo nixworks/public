@@ -7,9 +7,9 @@ Heavy rain in north-west China is disrupting rescue efforts after a huge landsli
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10948723)
-2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/rain-piles-misery-on-china-flood-region-20100812-120q9.html)
-3. [AFP via France24](http://www.france24.com/en/20100812-heavy-rain-hampers-search-rescue-efforts-china-zhouqu-gansu-mudslides)
+1. [AFP via France24](http://www.france24.com/en/20100812-heavy-rain-hampers-search-rescue-efforts-china-zhouqu-gansu-mudslides)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10948723)
+3. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/rain-piles-misery-on-china-flood-region-20100812-120q9.html)
 
 ### Related:
 

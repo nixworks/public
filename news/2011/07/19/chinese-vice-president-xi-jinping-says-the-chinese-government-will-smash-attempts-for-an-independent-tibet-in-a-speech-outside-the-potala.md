@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Journal of Turkish Weekly](http://www.turkishweekly.net/news/119521/chinese-vp-pledges-accelerated-development-in-tibet.html)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14205998)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14205998)
+2. [Journal of Turkish Weekly](http://www.turkishweekly.net/news/119521/chinese-vp-pledges-accelerated-development-in-tibet.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ News and opinion from The Times &amp; The Sunday Times
 
 ### Source:
 
-1. [Times Online](http://www.timesonline.co.uk/article/0,,3-2055668,00.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/4744284.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/4744284.stm)
+2. [Times Online](http://www.timesonline.co.uk/article/0,,3-2055668,00.html)
 
 ### Related:
 

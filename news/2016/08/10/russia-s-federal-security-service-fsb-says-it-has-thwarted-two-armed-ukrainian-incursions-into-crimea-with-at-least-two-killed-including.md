@@ -7,8 +7,8 @@ Vladimir Putin accused Ukraine on Wednesday of using terrorist tactics to try to
 
 ### Source:
 
-1. [The Guardian](https://www.theguardian.com/world/2016/aug/10/russia-accuses-ukraine-of-armed-crimea-incursion)
-2. [Reuters](http://www.reuters.com/article/us-ukraine-crisis-crimea-attack-idUSKCN10L1EE)
+1. [Reuters](http://www.reuters.com/article/us-ukraine-crisis-crimea-attack-idUSKCN10L1EE)
+2. [The Guardian](https://www.theguardian.com/world/2016/aug/10/russia-accuses-ukraine-of-armed-crimea-incursion)
 
 ### Related:
 

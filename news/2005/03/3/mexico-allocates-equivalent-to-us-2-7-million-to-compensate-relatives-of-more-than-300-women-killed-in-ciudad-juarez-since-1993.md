@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [KLTV](http://www.kltv.com/Global/story.asp?S=3024154)
-2. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=13507&Cr=Mexico&Cr1=)
-3. [BBC](http://news.bbc.co.uk/2/hi/americas/4316479.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4316479.stm)
+2. [KLTV](http://www.kltv.com/Global/story.asp?S=3024154)
+3. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=13507&Cr=Mexico&Cr1=)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Straits Times](http://www.straitstimes.com/BreakingNews/Money/Story/STIStory_476726.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/business/8455851.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/business/8455851.stm)
+2. [The Straits Times](http://www.straitstimes.com/BreakingNews/Money/Story/STIStory_476726.html)
 
 ### Related:
 

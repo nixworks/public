@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Top_News/Special/2010/11/01/Myanmar-sets-penalty-for-election-boycott/UPI-35101288622974/)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11668310)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11668310)
+2. [UPI](http://www.upi.com/Top_News/Special/2010/11/01/Myanmar-sets-penalty-for-election-boycott/UPI-35101288622974/)
 
 ### Related:
 

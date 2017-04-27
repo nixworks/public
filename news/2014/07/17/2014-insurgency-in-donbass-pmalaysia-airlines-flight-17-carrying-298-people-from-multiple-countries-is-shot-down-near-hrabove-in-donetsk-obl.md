@@ -7,9 +7,9 @@ A Malaysian airliner was shot down over eastern Ukraine by militants on Thursday
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2014/07/17/us-ukraine-crash-airplane-idUSKBN0FM1TU20140717)
-2. [Sky News Australia](http://www.skynews.com.au/news/world/europe/2014/07/17/kiev-says-russia-shot-down-ukrainian-jet.html)
-3. [BBC](http://www.bbc.com/news/world-europe-28354856)
+1. [BBC](http://www.bbc.com/news/world-europe-28354856)
+2. [Reuters](http://www.reuters.com/article/2014/07/17/us-ukraine-crash-airplane-idUSKBN0FM1TU20140717)
+3. [Sky News Australia](http://www.skynews.com.au/news/world/europe/2014/07/17/kiev-says-russia-shot-down-ukrainian-jet.html)
 
 ### Related:
 

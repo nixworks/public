@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Wafa](http://www.wafa.ps/ar_page.aspx?id=LXNbv6a697490282544aLXNbv6)
-2. [Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3685801/Hidden-angel-mosaic-Bethlehem-shrine-sees-light.html)
+1. [Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3685801/Hidden-angel-mosaic-Bethlehem-shrine-sees-light.html)
+2. [Wafa](http://www.wafa.ps/ar_page.aspx?id=LXNbv6a697490282544aLXNbv6)
 
 ### Related:
 

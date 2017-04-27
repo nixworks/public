@@ -7,9 +7,9 @@ Simple instructions for the first-time voter, and a refresher for the rest of us
 
 ### Source:
 
-1. [The Times of Israel](http://www.timesofisrael.com/elections-2015-a-users-guide/)
-2. [AP via Fox News](http://www.foxnews.com/world/2015/03/17/exit-polls-in-israeli-national-election-show-no-clear-winners/)
-3. [The New York Times](http://www.nytimes.com/2015/03/18/world/middleeast/israel-election-netanyahu-herzog.html)
+1. [AP via Fox News](http://www.foxnews.com/world/2015/03/17/exit-polls-in-israeli-national-election-show-no-clear-winners/)
+2. [The New York Times](http://www.nytimes.com/2015/03/18/world/middleeast/israel-election-netanyahu-herzog.html)
+3. [The Times of Israel](http://www.timesofisrael.com/elections-2015-a-users-guide/)
 
 ### Related:
 

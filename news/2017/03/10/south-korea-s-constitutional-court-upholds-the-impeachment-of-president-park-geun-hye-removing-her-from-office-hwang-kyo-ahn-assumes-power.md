@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-southkorea-politics-idUSKBN16H066)
-2. [CNN](http://www.cnn.com/2017/03/10/asia/south-korea-president-park-geun-hye-impeachment/index.html)
+1. [CNN](http://www.cnn.com/2017/03/10/asia/south-korea-president-park-geun-hye-impeachment/index.html)
+2. [Reuters](http://www.reuters.com/article/us-southkorea-politics-idUSKBN16H066)
 
 ### Related:
 

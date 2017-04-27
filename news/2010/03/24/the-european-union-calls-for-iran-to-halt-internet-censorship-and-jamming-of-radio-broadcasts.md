@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Voice of America](http://www1.voanews.com/english/news/europe/EU-Calls-for-Iran-to-Halt-Internet-Censorship-Jamming-88874627.html)
-2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/eu-vows-to-act-on-iranian-censorship-20100323-qrje.html)
+1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/eu-vows-to-act-on-iranian-censorship-20100323-qrje.html)
+2. [Voice of America](http://www1.voanews.com/english/news/europe/EU-Calls-for-Iran-to-Halt-Internet-Censorship-Jamming-88874627.html)
 
 ### Related:
 

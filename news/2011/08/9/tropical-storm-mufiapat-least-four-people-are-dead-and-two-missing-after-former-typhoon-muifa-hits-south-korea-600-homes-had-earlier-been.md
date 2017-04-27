@@ -7,9 +7,9 @@ Typhoon Muifa, which traveled north along the West Sea on Monday carrying winds 
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/08/09/korea.tropical.storm/index.html)
-2. [Chosun Ilbo](http://english.chosun.com/site/data/html_dir/2011/08/09/2011080900454.html)
-3. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5j82OJXuHTVp6H-oSOnXMKHEmJeAQ?docId=CNG.acce424d93fc8a31839fc35f83f0dae3.5c1)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5j82OJXuHTVp6H-oSOnXMKHEmJeAQ?docId=CNG.acce424d93fc8a31839fc35f83f0dae3.5c1)
+2. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/08/09/korea.tropical.storm/index.html)
+3. [Chosun Ilbo](http://english.chosun.com/site/data/html_dir/2011/08/09/2011080900454.html)
 
 ### Related:
 

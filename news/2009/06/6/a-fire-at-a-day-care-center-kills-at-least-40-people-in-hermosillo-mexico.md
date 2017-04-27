@@ -7,9 +7,9 @@ A fast-moving fire killed 31 children in a day care center in northern Mexico de
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2009/0606/mexico.html)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8086690.stm)
 2. [Fox](http://www.foxnews.com/story/0,2933,525289,00.html)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8086690.stm)
+3. [RTÉ](http://www.rte.ie/news/2009/0606/mexico.html)
 
 ### Related:
 

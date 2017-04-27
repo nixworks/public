@@ -7,8 +7,8 @@ Two trains collide on the Warsaw-Krakow mainline in southern Poland, leaving 16 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-17248735)
-2. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5hrC06gXHrV-s9NWbNnJjOIViCHmg?docId=ead9d813b3c342b096a00d70e4e91c63)
+1. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5hrC06gXHrV-s9NWbNnJjOIViCHmg?docId=ead9d813b3c342b096a00d70e4e91c63)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-17248735)
 3. [Reuters via MSNBC](http://www.msnbc.msn.com/id/46615364#.T1LFyofxo48)
 
 ### Related:

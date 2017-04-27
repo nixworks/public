@@ -9,8 +9,8 @@
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4161837.stm)
 2. [NigeriaWorld](http://nigeriaworld.com/feature/publication/akukwe/010305.html)
-3. [Vanguard](http://www.vanguardngr.com/articles/2002/columns/c211012005.html)
-4. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/L10431127.htm)
+3. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/L10431127.htm)
+4. [Vanguard](http://www.vanguardngr.com/articles/2002/columns/c211012005.html)
 
 ### Related:
 

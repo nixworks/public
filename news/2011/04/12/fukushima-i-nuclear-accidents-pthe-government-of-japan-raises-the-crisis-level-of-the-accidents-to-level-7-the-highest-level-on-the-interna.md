@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters via Yahoo! News](http://news.yahoo.com/s/nm/20110412/ts_nm/us_japan)
-2. [NHK](http://www3.nhk.or.jp/daily/english/12_05.html)
+1. [NHK](http://www3.nhk.or.jp/daily/english/12_05.html)
+2. [Reuters via Yahoo! News](http://news.yahoo.com/s/nm/20110412/ts_nm/us_japan)
 3. [Reuters](http://www.reuters.com/article/2011/04/12/us-japan-idUSTRE72A0SS20110412?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
 
 ### Related:

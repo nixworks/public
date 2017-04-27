@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4183267.stm)
-2. [Melbourne Herald Sun](http://www.heraldsun.news.com.au/common/story_page/0,5478,11979884%255E1702,00.html)
-3. [ABC](http://www.abc.net.au/pm/content/2005/s1284214.htm)
+1. [ABC](http://www.abc.net.au/pm/content/2005/s1284214.htm)
+2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4183267.stm)
+3. [Melbourne Herald Sun](http://www.heraldsun.news.com.au/common/story_page/0,5478,11979884%255E1702,00.html)
 
 ### Related:
 

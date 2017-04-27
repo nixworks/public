@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Reuters](http://www.alertnet.org/thenews/newsdesk/IRIN/5327e5bda78f0d84e6ef882c73edee3c.htm)
-2. [AllAfrica](http://allafrica.com/stories/200503070993.html)
+1. [AllAfrica](http://allafrica.com/stories/200503070993.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/4325763.stm)
 3. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/EVIU-6A9L32?OpenDocument)
-4. [BBC](http://news.bbc.co.uk/2/hi/africa/4325763.stm)
+4. [Reuters](http://www.alertnet.org/thenews/newsdesk/IRIN/5327e5bda78f0d84e6ef882c73edee3c.htm)
 
 ### Related:
 

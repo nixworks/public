@@ -7,8 +7,8 @@ Three Palestinians were shot dead after attacking Israeli soldiers with knives i
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/10/27/us-israel-palestinians-idUSKCN0SL1QY20151027)
-2. [Israel Hayom](http://www.israelhayom.com/site/newsletter_article.php?id=29251)
+1. [Israel Hayom](http://www.israelhayom.com/site/newsletter_article.php?id=29251)
+2. [Reuters](http://www.reuters.com/article/2015/10/27/us-israel-palestinians-idUSKCN0SL1QY20151027)
 
 ### Related:
 

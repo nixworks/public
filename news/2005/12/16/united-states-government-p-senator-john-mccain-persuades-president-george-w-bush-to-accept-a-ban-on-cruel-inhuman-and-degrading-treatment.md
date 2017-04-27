@@ -8,9 +8,9 @@
 ### Source:
 
 1. [AP](http://news.yahoo.com/s/ap/20051216/ap_on_go_co/patriot_act_51;_ylt=AkI.i.VuohyczX51A0fBI10Tv5UB;_ylu=X3oDMTBiMW04NW9mBHNlYwMlJVRPUCUl)
-2. [AP](http://news.yahoo.com/s/ap/20051216/ap_on_re_us/congress_detainees;_ylt=AnAR7AsXR_HpR3iZ2bhpakayFz4D;_ylu=X3oDMTA5aHJvMDdwBHNlYwN5bmNhdA--)
+2. [AP](http://news.yahoo.com/s/ap/20051216/ap_on_go_pr_wh/bush_nsa_18;_ylt=AucLSvaLl5Y9dgfpLTmABaHB4FkB;_ylu=X3oDMTBiMW04NW9mBHNlYwMlJVRPUCUl)
 3. [AP](http://news.yahoo.com/s/ap/20051216/ap_on_go_pr_wh/congress_detainees;_ylt=AolVn_0hwD2vUgQ6OT5zgG6yFz4D;_ylu=X3oDMTA5aHJvMDdwBHNlYwN5bmNhdA--)
-4. [AP](http://news.yahoo.com/s/ap/20051216/ap_on_go_pr_wh/bush_nsa_18;_ylt=AucLSvaLl5Y9dgfpLTmABaHB4FkB;_ylu=X3oDMTBiMW04NW9mBHNlYwMlJVRPUCUl)
+4. [AP](http://news.yahoo.com/s/ap/20051216/ap_on_re_us/congress_detainees;_ylt=AnAR7AsXR_HpR3iZ2bhpakayFz4D;_ylu=X3oDMTA5aHJvMDdwBHNlYwN5bmNhdA--)
 
 ### Related:
 

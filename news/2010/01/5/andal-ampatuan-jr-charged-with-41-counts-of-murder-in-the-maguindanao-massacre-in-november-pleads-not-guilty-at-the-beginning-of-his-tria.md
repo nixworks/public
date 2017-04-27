@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/01/05/philippines.murder.trial/)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gq61Sd3gtb4XVLAaacRAFPqrCP3Q)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gq61Sd3gtb4XVLAaacRAFPqrCP3Q)
+2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/01/05/philippines.murder.trial/)
 3. [Philippine Inquirer](http://newsinfo.inquirer.net/breakingnews/nation/view/20100105-245611/Ampatuan-pleads-not-guilty-to-41-counts-of-murder)
 
 ### Related:

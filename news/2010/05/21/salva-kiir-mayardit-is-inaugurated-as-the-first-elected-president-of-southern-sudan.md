@@ -8,8 +8,8 @@ Following&#x20;last&#x20;month&#x2019;s&#x20;elections,&#x20;when&#x20;he&#x20;w
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8696881.stm)
-2. [he Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/05/21/AR2010052101898.html)
-3. [France24](http://www.france24.com/en/20100521-sudan-south-leader-sworn-salva-kiir-president)
+2. [France24](http://www.france24.com/en/20100521-sudan-south-leader-sworn-salva-kiir-president)
+3. [he Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/05/21/AR2010052101898.html)
 
 ### Related:
 

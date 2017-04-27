@@ -8,8 +8,8 @@ Mexican singer Sergio Vega, known as El Shaka, who sang about drugs, is shot dea
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/latin_america/10429934.stm)
-2. [UPI](http://www.upi.com/Entertainment_News/Music/2010/06/28/Mexican-singer-Vega-shot-dead-at-40/UPI-36351277735113/)
-3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/centralamericaandthecaribbean/mexico/7858163/Mexican-singer-El-Shaka-murdered-hours-after-denying-death.html)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/centralamericaandthecaribbean/mexico/7858163/Mexican-singer-El-Shaka-murdered-hours-after-denying-death.html)
+3. [UPI](http://www.upi.com/Entertainment_News/Music/2010/06/28/Mexican-singer-Vega-shot-dead-at-40/UPI-36351277735113/)
 
 ### Related:
 

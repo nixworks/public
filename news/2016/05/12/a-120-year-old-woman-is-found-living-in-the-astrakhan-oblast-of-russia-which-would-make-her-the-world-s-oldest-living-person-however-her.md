@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Wave 3](http://www.wave3.com/story/31964061/worlds-oldest-person-dies-in-new-york-at-age-116)
-2. [TASS](http://tass.ru/en/society/875306)
+1. [TASS](http://tass.ru/en/society/875306)
+2. [Wave 3](http://www.wave3.com/story/31964061/worlds-oldest-person-dies-in-new-york-at-age-116)
 
 ### Related:
 

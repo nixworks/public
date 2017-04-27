@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-brazil-politics-idUSKCN0XB1XH)
-2. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2016-04-15-LT--Brazil-Political%20Crisis/id-317fc9e21dab465eb5e047ddb7c4cf48)
+1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2016-04-15-LT--Brazil-Political%20Crisis/id-317fc9e21dab465eb5e047ddb7c4cf48)
+2. [Reuters](http://www.reuters.com/article/us-brazil-politics-idUSKCN0XB1XH)
 
 ### Related:
 

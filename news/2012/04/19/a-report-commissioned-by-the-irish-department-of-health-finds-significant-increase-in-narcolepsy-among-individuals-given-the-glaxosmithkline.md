@@ -7,8 +7,8 @@ An official report has concluded that an increase in the sleep disorder narcolep
 
 ### Source:
 
-1. [RTE](http://www.rte.ie/news/2012/0419/narcolepsy.html)
-2. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/flu-vaccine-linked-to-narcolepsy-548238.html)
+1. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/flu-vaccine-linked-to-narcolepsy-548238.html)
+2. [RTE](http://www.rte.ie/news/2012/0419/narcolepsy.html)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2012/0419/breaking44.html)
 
 ### Related:

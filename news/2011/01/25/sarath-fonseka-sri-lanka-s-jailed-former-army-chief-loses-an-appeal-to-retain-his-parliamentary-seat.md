@@ -7,8 +7,8 @@ A court martial is part of the legal system, and a conviction by it will attract
 
 ### Source:
 
-1. [The Hindu](http://www.thehindu.com/news/international/article1124527.ece)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/01/201112542852405127.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/01/201112542852405127.html)
+2. [The Hindu](http://www.thehindu.com/news/international/article1124527.ece)
 
 ### Related:
 

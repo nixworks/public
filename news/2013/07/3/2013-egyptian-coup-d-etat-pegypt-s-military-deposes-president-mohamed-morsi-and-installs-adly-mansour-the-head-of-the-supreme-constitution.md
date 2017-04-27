@@ -7,9 +7,9 @@ Mohamed Morsi rejected a military ultimatum to strike a deal with his opponents 
 
 ### Source:
 
-1. [The Times of Israel](http://www.timesofisrael.com/egyptian-leaders-meet-to-plan-post-morsi-transition/)
-2. [CNN](http://www.cnn.com/2013/07/03/world/meast/egypt-protests/index.html?hpt=hp_t1)
-3. [The Independent](http://www.independent.co.uk/news/world/africa/egypt-protests-military-coup-under-way-as-time-runs-out-for-mohamed-morsi-8683985.html)
+1. [CNN](http://www.cnn.com/2013/07/03/world/meast/egypt-protests/index.html?hpt=hp_t1)
+2. [The Independent](http://www.independent.co.uk/news/world/africa/egypt-protests-military-coup-under-way-as-time-runs-out-for-mohamed-morsi-8683985.html)
+3. [The Times of Israel](http://www.timesofisrael.com/egyptian-leaders-meet-to-plan-post-morsi-transition/)
 
 ### Related:
 

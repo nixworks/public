@@ -7,8 +7,8 @@ While the measles outbreak in the Philippines is already stemmed, Canada is just
 
 ### Source:
 
-1. [The Toronto Star](http://www.thestar.com/life/health_wellness/2014/02/10/measles_outbreak_in_philippines_slowly_spreading_to_canada.html)
-2. [The Philippine Star](http://www.philstar.com/headlines/2014/02/12/1289532/measles-philippines-spreading-canada)
+1. [The Philippine Star](http://www.philstar.com/headlines/2014/02/12/1289532/measles-philippines-spreading-canada)
+2. [The Toronto Star](http://www.thestar.com/life/health_wellness/2014/02/10/measles_outbreak_in_philippines_slowly_spreading_to_canada.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Straits Times](http://www.straitstimes.com/Breaking%2BNews/SE%2BAsia/Story/STIStory_431022.html)
-2. [Gulf News](http://www.gulfnews.com/world/Myanmar/10349727.html)
-3. [Philippine Star](http://www.philstar.com/Article.aspx?articleId=506072&publicationSubCategoryId=200)
+1. [Gulf News](http://www.gulfnews.com/world/Myanmar/10349727.html)
+2. [Philippine Star](http://www.philstar.com/Article.aspx?articleId=506072&publicationSubCategoryId=200)
+3. [Straits Times](http://www.straitstimes.com/Breaking%2BNews/SE%2BAsia/Story/STIStory_431022.html)
 
 ### Related:
 

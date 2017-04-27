@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Top_News/World-News/2011/01/13/China-hotel-fire-kills-10/UPI-18351294920988/)
-2. [Shanghai Daily](http://www.shanghaidaily.com/sp/article/2011/201101/20110113/article_461434.htm)
+1. [Shanghai Daily](http://www.shanghaidaily.com/sp/article/2011/201101/20110113/article_461434.htm)
+2. [UPI](http://www.upi.com/Top_News/World-News/2011/01/13/China-hotel-fire-kills-10/UPI-18351294920988/)
 
 ### Related:
 

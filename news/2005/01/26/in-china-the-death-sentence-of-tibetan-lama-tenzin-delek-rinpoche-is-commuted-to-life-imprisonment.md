@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Human Rights Watch](http://hrw.org/english/docs/2005/01/25/china10071_txt.htm)
-2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/HRW/38b8dcae458535ecc369327b3376595d.htm)
-3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4208179.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4208179.stm)
+2. [Human Rights Watch](http://hrw.org/english/docs/2005/01/25/china10071_txt.htm)
+3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/HRW/38b8dcae458535ecc369327b3376595d.htm)
 
 ### Related:
 

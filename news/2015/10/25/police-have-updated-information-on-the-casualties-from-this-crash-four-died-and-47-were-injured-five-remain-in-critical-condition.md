@@ -7,10 +7,10 @@ A toddler was among four people killed when an allegedly inebriated woman drove 
 
 ### Source:
 
-1. [Q13 Fox](http://q13fox.com/2015/10/25/oklahoma-state-homecoming-crash-4-killed-47-hurt-including-many-children-infants/)
-2. [USA Today](http://www.usatoday.com/story/news/2015/10/25/victims-of-oklahoma-state-homecoming-parade-crash-identified/74583002/)
-3. [KFOR](http://kfor.com/2015/10/25/attorney-for-osu-homecoming-parade-crash-suspect-says-miss-chambers-suffers-from-a-mental-illness/)
-4. [Lethbridge Herald](http://lethbridgeherald.com/news/world-news/2015/10/25/the-latest-victim-describes-chaos-after-fatal-car-crash-at-oklahoma-state-university-parade/)
+1. [KFOR](http://kfor.com/2015/10/25/attorney-for-osu-homecoming-parade-crash-suspect-says-miss-chambers-suffers-from-a-mental-illness/)
+2. [Lethbridge Herald](http://lethbridgeherald.com/news/world-news/2015/10/25/the-latest-victim-describes-chaos-after-fatal-car-crash-at-oklahoma-state-university-parade/)
+3. [Q13 Fox](http://q13fox.com/2015/10/25/oklahoma-state-homecoming-crash-4-killed-47-hurt-including-many-children-infants/)
+4. [USA Today](http://www.usatoday.com/story/news/2015/10/25/victims-of-oklahoma-state-homecoming-parade-crash-identified/74583002/)
 
 ### Related:
 

@@ -7,12 +7,12 @@
 
 ### Source:
 
-1. [The New York Times](http://dealbook.blogs.nytimes.com/2008/09/14/aig-seeks-fed-aid-to-survive/index.html)
-2. [The Wall Street Journal](http://online.wsj.com/article/SB122142278543033525.html)
-3. [The New York Times](http://dealbook.blogs.nytimes.com/2008/09/15/lehman-says-it-will-file-for-bankruptcy-2/)
-4. [AFP via Google News](http://afp.google.com/article/ALeqM5hxEeaW4uGo086bAifTpKwz-qW1Cw)
-5. [AP via ''Minneapolis St-Paul Tribune](http://www.startribune.com/business/28377589.html)
-6. [The New York Times](http://dealbook.blogs.nytimes.com/2008/09/14/bank-of-america-in-talks-to-buy-merrill-lynch/index.html)
+1. [AFP via Google News](http://afp.google.com/article/ALeqM5hxEeaW4uGo086bAifTpKwz-qW1Cw)
+2. [AP via ''Minneapolis St-Paul Tribune](http://www.startribune.com/business/28377589.html)
+3. [The New York Times](http://dealbook.blogs.nytimes.com/2008/09/14/aig-seeks-fed-aid-to-survive/index.html)
+4. [The New York Times](http://dealbook.blogs.nytimes.com/2008/09/14/bank-of-america-in-talks-to-buy-merrill-lynch/index.html)
+5. [The New York Times](http://dealbook.blogs.nytimes.com/2008/09/15/lehman-says-it-will-file-for-bankruptcy-2/)
+6. [The Wall Street Journal](http://online.wsj.com/article/SB122142278543033525.html)
 
 ### Related:
 

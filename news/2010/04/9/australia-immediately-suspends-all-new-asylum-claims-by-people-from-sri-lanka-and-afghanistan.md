@@ -7,13 +7,13 @@ Australia has suspended processing new claims for asylum from Afghans and Sri La
 
 ### Source:
 
-1. [France24](http://www.france24.com/en/20100409-australia-blocks-afghan-sri-lankan-asylum-seekers)
-2. [The Times](http://www.timesonline.co.uk/tol/news/world/article7092776.ece#cid=OTC-RSS&attr=797093)
-3. [The Guardian](http://www.guardian.co.uk/world/2010/apr/09/australia-refugees-afghanistan-sri-lanka)
-4. [The Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Australia-stops-accepting-new-Afghan-Sri-Lankan-asylum-seekers/articleshow/5776602.cms)
-5. [Reuters](http://www.reuters.com/article/idUSTRE6380QU20100409)
-6. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/04/20104941746310232.html)
-7. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8610679.stm)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/04/20104941746310232.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8610679.stm)
+3. [France24](http://www.france24.com/en/20100409-australia-blocks-afghan-sri-lankan-asylum-seekers)
+4. [Reuters](http://www.reuters.com/article/idUSTRE6380QU20100409)
+5. [The Guardian](http://www.guardian.co.uk/world/2010/apr/09/australia-refugees-afghanistan-sri-lanka)
+6. [The Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Australia-stops-accepting-new-Afghan-Sri-Lankan-asylum-seekers/articleshow/5776602.cms)
+7. [The Times](http://www.timesonline.co.uk/tol/news/world/article7092776.ece#cid=OTC-RSS&attr=797093)
 
 ### Related:
 

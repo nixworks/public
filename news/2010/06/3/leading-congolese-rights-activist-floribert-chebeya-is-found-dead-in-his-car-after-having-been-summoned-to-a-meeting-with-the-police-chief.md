@@ -8,10 +8,10 @@ Congolese rights activist Floribert Chebeya is found dead in his car after havin
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10223564.stm)
-2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/06/03/AR2010060300782.html)
-3. [news24.com](http://www.news24.com/Africa/News/DRC-rights-activist-found-dead-20100603)
-4. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20100603002106713C953075)
-5. [Reuters](http://uk.reuters.com/article/idUKLDE6512AA._CH_.2420)
+2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20100603002106713C953075)
+3. [Reuters](http://uk.reuters.com/article/idUKLDE6512AA._CH_.2420)
+4. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/06/03/AR2010060300782.html)
+5. [news24.com](http://www.news24.com/Africa/News/DRC-rights-activist-found-dead-20100603)
 
 ### Related:
 

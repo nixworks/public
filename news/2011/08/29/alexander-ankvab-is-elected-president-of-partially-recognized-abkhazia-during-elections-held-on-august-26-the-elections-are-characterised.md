@@ -7,9 +7,9 @@ Observers said the results would not alter politics in a rebel enclave of Georgi
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2011/08/28/world/europe/28abkhaz.html?_r=3&partner=rss&emc=rss)
-2. [Washington Post](http://www.washingtonpost.com/world/europe/breakaway-georgian-republic-of-abkhazia-goes-to-polls-to-elect-new-president/2011/08/26/gIQAsiQtfJ_story.html)
-3. [Taz](http://www.taz.de/Praesidentenwahl-in-Abchasien/!77048/)
+1. [Taz](http://www.taz.de/Praesidentenwahl-in-Abchasien/!77048/)
+2. [The New York Times](http://www.nytimes.com/2011/08/28/world/europe/28abkhaz.html?_r=3&partner=rss&emc=rss)
+3. [Washington Post](http://www.washingtonpost.com/world/europe/breakaway-georgian-republic-of-abkhazia-goes-to-polls-to-elect-new-president/2011/08/26/gIQAsiQtfJ_story.html)
 
 ### Related:
 

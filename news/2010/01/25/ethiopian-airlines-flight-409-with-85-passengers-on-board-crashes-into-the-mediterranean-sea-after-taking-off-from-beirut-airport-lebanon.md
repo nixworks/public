@@ -7,8 +7,8 @@ Aircraft carrying 90 people plunges into Mediterranean Sea.
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/8478060.stm)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/01/20101252742591787.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/01/20101252742591787.html)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/8478060.stm)
 
 ### Related:
 

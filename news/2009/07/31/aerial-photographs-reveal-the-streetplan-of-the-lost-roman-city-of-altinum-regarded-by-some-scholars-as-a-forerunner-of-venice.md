@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/8177529.stm)
-2. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article6734110.ece)
-3. [Der Spiegel](http://www.spiegel.de/international/europe/0,1518,639482,00.html)
+2. [Der Spiegel](http://www.spiegel.de/international/europe/0,1518,639482,00.html)
+3. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article6734110.ece)
 
 ### Related:
 

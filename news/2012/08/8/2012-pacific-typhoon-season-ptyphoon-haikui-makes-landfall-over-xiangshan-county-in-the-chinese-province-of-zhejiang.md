@@ -7,11 +7,11 @@ Nineteen people are now known to have died in severe floods in the Philippines, 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-19174538#)
-2. [CNN](http://edition.cnn.com/2012/08/07/world/asia/china-tropical-storm/index.html?eref=edition)
-3. [INQUIRER.net](http://newsinfo.inquirer.net/244953/9-luzon-areas-placed-under-state-of-calamity)
-4. [The Philippine STAR](http://www.philstar.com/nation/article.aspx?publicationsubcategoryid=63&articleid=835933)
-5. [ABS-CBNnews.com](http://www.abs-cbnnews.com/nation/08/08/12/11-areas-mm-luzon-under-state-calamity)
+1. [ABS-CBNnews.com](http://www.abs-cbnnews.com/nation/08/08/12/11-areas-mm-luzon-under-state-calamity)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-19174538#)
+3. [CNN](http://edition.cnn.com/2012/08/07/world/asia/china-tropical-storm/index.html?eref=edition)
+4. [INQUIRER.net](http://newsinfo.inquirer.net/244953/9-luzon-areas-placed-under-state-of-calamity)
+5. [The Philippine STAR](http://www.philstar.com/nation/article.aspx?publicationsubcategoryid=63&articleid=835933)
 
 ### Related:
 

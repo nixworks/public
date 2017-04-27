@@ -7,8 +7,8 @@ At least 19 Taliban insurgents are killed after they launched an attack on a com
 
 ### Source:
 
-1. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE69T0M020101030)
-2. [BBC](http://www.bbc.co.uk/news/world-south-asia-11657981)
+1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11657981)
+2. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE69T0M020101030)
 3. [The Australian](http://www.theaustralian.com.au/news/breaking-news/eighty-taliban-killed-in-failed-attack-on-nato-base/story-fn3dxity-1225945643521)
 
 ### Related:

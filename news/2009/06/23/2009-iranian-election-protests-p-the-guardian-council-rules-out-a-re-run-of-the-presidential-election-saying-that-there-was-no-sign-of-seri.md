@@ -7,10 +7,10 @@ UK expels two Iranian diplomats after similar expulsions by Tehran in spat over 
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8115358.stm)
-2. [The Guardian](http://www.guardian.co.uk/world/2009/jun/23/iran-football-protest-ban)
-3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/06/200962374448861297.html)
-4. [Reuters](http://www.reuters.com/article/gc08/idUSTRE55M3GI20090623)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/06/200962374448861297.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8115358.stm)
+3. [Reuters](http://www.reuters.com/article/gc08/idUSTRE55M3GI20090623)
+4. [The Guardian](http://www.guardian.co.uk/world/2009/jun/23/iran-football-protest-ban)
 
 ### Related:
 

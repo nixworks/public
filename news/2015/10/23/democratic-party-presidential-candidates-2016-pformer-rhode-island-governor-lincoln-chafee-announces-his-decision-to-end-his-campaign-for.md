@@ -8,10 +8,10 @@ The withdrawal of Lincoln Chafee caps a winnowing week for the Democratic conten
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/politics/articles/2015-10-23/jeb-bush-orders-across-the-board-pay-cuts-for-struggling-campaign)
-2. [Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2015/10/23/jeb-bush-shakes-up-his-struggling-campaign-with-major-spending-cuts/)
-3. [NBC News](http://www.nbcnews.com/politics/2016-election/lincoln-chafee-drops-out-democratic-presidential-race-n449871)
-4. [Christian Science Monitor](http://www.csmonitor.com/USA/Politics/Decoder/2015/1023/Lincoln-Chafee-drops-out-of-presidential-race.-Who-s-next)
-5. [Miami Herald](http://www.miamiherald.com/news/politics-government/elections-2016/jeb-bush/article41192604.html)
+2. [Christian Science Monitor](http://www.csmonitor.com/USA/Politics/Decoder/2015/1023/Lincoln-Chafee-drops-out-of-presidential-race.-Who-s-next)
+3. [Miami Herald](http://www.miamiherald.com/news/politics-government/elections-2016/jeb-bush/article41192604.html)
+4. [NBC News](http://www.nbcnews.com/politics/2016-election/lincoln-chafee-drops-out-democratic-presidential-race-n449871)
+5. [Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2015/10/23/jeb-bush-shakes-up-his-struggling-campaign-with-major-spending-cuts/)
 
 ### Related:
 

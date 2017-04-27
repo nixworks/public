@@ -7,8 +7,8 @@ A 40-plus page document based on hundreds of pages of research into the shooting
 
 ### Source:
 
-1. [News 12 Connecticut](http://connecticut.news12.com/news/sandy-hook-elementary-school-shooting-summary-report-to-be-released-today-1.6492131)
-2. [CNN](http://www.cnn.com/2013/11/25/justice/sandy-hook-shooting-report/index.html?hpt=hp_t2)
+1. [CNN](http://www.cnn.com/2013/11/25/justice/sandy-hook-shooting-report/index.html?hpt=hp_t2)
+2. [News 12 Connecticut](http://connecticut.news12.com/news/sandy-hook-elementary-school-shooting-summary-report-to-be-released-today-1.6492131)
 
 ### Related:
 

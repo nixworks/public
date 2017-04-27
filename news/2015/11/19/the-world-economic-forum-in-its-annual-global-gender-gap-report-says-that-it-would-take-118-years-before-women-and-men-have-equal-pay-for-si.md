@@ -7,9 +7,9 @@ Almost no progress on wage equality around the globe in past seven years, accord
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/lifeandstyle/2015/nov/18/women-will-get-equal-pay-in-118-years-wef-gender-parity)
-2. [The Huffington Post](http://www.huffingtonpost.com/entry/there-are-27-countries-better-at-gender-equality-than-the-us_564cb447e4b031745cef15d8)
-3. [BBC](http://www.bbc.com/news/world-europe-34842471)
+1. [BBC](http://www.bbc.com/news/world-europe-34842471)
+2. [The Guardian](http://www.theguardian.com/lifeandstyle/2015/nov/18/women-will-get-equal-pay-in-118-years-wef-gender-parity)
+3. [The Huffington Post](http://www.huffingtonpost.com/entry/there-are-27-countries-better-at-gender-equality-than-the-us_564cb447e4b031745cef15d8)
 
 ### Related:
 

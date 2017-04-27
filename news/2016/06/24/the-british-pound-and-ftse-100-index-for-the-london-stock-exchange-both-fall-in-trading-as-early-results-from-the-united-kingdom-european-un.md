@@ -7,13 +7,13 @@ Jeremy Corbyn has appeared to compare Israel to &quot;various self-styled Islami
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2016/06/25/business/dealbook/brexit-asian-stocks-bonds.html?smid=tw-nytimes&smtyp=cur&_r=1)
-2. [The Telegraph](http://www.telegraph.co.uk/news/2016/06/23/eu-referendum-will-it-be-brexit-exit-poll-and-results-live/)
+1. [Bloomberg](http://www.bloomberg.com/news/live-blog/2016-05-05/brexit-live-results-of-uk-s-eu-referendum)
+2. [CNBC](http://www.cnbc.com/2016/06/23/us-markets.html)
 3. [CNBC](http://www.cnbc.com/2016/06/24/us-markets.html)
 4. [NBC](http://www.nbcnews.com/storyline/brexit-referendum/brexit-backlash-dow-opens-down-more-520-points-markets-reel-n598286)
-5. [Bloomberg](http://www.bloomberg.com/news/live-blog/2016-05-05/brexit-live-results-of-uk-s-eu-referendum)
-6. [CNBC](http://www.cnbc.com/2016/06/23/us-markets.html)
-7. [Reuters](http://in.reuters.com/article/usa-stocks-idINL1N19G2I3)
+5. [New York Times](http://www.nytimes.com/2016/06/25/business/dealbook/brexit-asian-stocks-bonds.html?smid=tw-nytimes&smtyp=cur&_r=1)
+6. [Reuters](http://in.reuters.com/article/usa-stocks-idINL1N19G2I3)
+7. [The Telegraph](http://www.telegraph.co.uk/news/2016/06/23/eu-referendum-will-it-be-brexit-exit-poll-and-results-live/)
 
 ### Related:
 

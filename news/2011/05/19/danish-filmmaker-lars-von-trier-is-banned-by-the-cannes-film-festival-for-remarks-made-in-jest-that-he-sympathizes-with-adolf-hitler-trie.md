@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/film/2011/may/19/cannes-film-festival-2011-lars-von-trier-banned)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5ga452JRxmj1dNY8Pan429Afh3sig?docId=df8f9cbde00e418d80ae5966386f77aa)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5ga452JRxmj1dNY8Pan429Afh3sig?docId=df8f9cbde00e418d80ae5966386f77aa)
+2. [The Guardian](http://www.guardian.co.uk/film/2011/may/19/cannes-film-festival-2011-lars-von-trier-banned)
 
 ### Related:
 

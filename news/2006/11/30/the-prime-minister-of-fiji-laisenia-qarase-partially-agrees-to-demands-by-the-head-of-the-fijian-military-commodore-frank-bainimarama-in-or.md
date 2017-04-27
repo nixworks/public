@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [News Limited](http://www.news.com.au/heraldsun/story/0,21985,20848041-5005961,00.html)
-2. [ABC News Australia and AFP](http://www.abc.net.au/news/newsitems/200611/s1801433.htm)
+1. [ABC News Australia and AFP](http://www.abc.net.au/news/newsitems/200611/s1801433.htm)
+2. [News Limited](http://www.news.com.au/heraldsun/story/0,21985,20848041-5005961,00.html)
 
 ### Related:
 

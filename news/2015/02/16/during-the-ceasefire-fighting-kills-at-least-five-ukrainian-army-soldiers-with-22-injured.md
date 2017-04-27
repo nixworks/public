@@ -7,8 +7,8 @@ A two-day-old truce in Ukraine was at risk of collapsing Monday as fighting rage
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2015/02/16/europe/ukraine-conflict/index.html)
-2. [AFP via Yahoo! News](http://news.yahoo.com/ukraine-under-fire-112-times-despite-ceasefire-093855014.html)
+1. [AFP via Yahoo! News](http://news.yahoo.com/ukraine-under-fire-112-times-despite-ceasefire-093855014.html)
+2. [CNN](http://edition.cnn.com/2015/02/16/europe/ukraine-conflict/index.html)
 
 ### Related:
 

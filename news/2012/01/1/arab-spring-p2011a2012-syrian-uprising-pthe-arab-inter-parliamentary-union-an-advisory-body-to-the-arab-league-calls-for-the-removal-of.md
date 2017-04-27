@@ -7,9 +7,9 @@ Arab League observers face calls for their immediate withdrawal, while divisions
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-16379727)
-2. [CNN](http://www.cnn.com/2011/12/31/world/meast/syria-unrest/index.html?hpt=wo_c1)
-3. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/01/201211125540595255.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/01/201211125540595255.html)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-16379727)
+3. [CNN](http://www.cnn.com/2011/12/31/world/meast/syria-unrest/index.html?hpt=wo_c1)
 4. [Reuters](http://uk.reuters.com/article/2012/01/01/uk-bahrain-protest-idUKTRE8000AV20120101)
 
 ### Related:

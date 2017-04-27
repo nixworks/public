@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Dominion Post'' via New Zealand Stuff](http://www.stuff.co.nz/dominion-post/news/politics/election-2011/6041261/MMP-holds-on-after-200-000-votes-counted)
+1. [NZ Stuff](http://www.stuff.co.nz/national/6039845/Election-2011-Kiwis-have-their-say)
 2. [Television New Zealand](http://tvnz.co.nz/election-2011/awesome-win-national-john-key-4573748)
-3. [NZ Stuff](http://www.stuff.co.nz/national/6039845/Election-2011-Kiwis-have-their-say)
+3. [The Dominion Post'' via New Zealand Stuff](http://www.stuff.co.nz/dominion-post/news/politics/election-2011/6041261/MMP-holds-on-after-200-000-votes-counted)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Military says two tunnels targeted while witnesses report several other explosio
 
 ### Source:
 
-1. [Haaretz](http://www.haaretz.com/hasen/spages/1139336.html)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/01/2010121275652585.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/01/2010121275652585.html)
+2. [Haaretz](http://www.haaretz.com/hasen/spages/1139336.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2011/WORLD/africa/04/05/ivory.coast.unrest/index.html)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-12967610)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-12967610)
+2. [CNN](http://www.cnn.com/2011/WORLD/africa/04/05/ivory.coast.unrest/index.html)
 
 ### Related:
 

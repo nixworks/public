@@ -7,12 +7,12 @@ President Obama vowed Thursday that Americans will move beyond the Boston Marath
 
 ### Source:
 
-1. [Los Angeles Times](http://www.latimes.com/news/politics/la-pn-obama-boston-marathon-attack-memorial-20130418,0,283840.story)
-2. [Reuters](http://www.reuters.com/article/2013/04/19/us-usa-mit-gunshots-idUSBRE93I04520130419)
+1. [ABC News Australia](http://www.abc.net.au/news/2013-04-19/reports-of-gunshots-at-mit-building/4639494)
+2. [BBC](http://www.bbc.co.uk/news/world-us-canada-22211190)
 3. [FBI](http://www.fbi.gov/news/updates-on-investigation-into-multiple-explosions-in-boston/photos)
-4. [BBC](http://www.bbc.co.uk/news/world-us-canada-22211190)
+4. [Los Angeles Times](http://www.latimes.com/news/politics/la-pn-obama-boston-marathon-attack-memorial-20130418,0,283840.story)
 5. [Reuters](http://www.reuters.com/article/2013/04/18/us-usa-explosions-boston-idUSBRE93F06T20130418)
-6. [ABC News Australia](http://www.abc.net.au/news/2013-04-19/reports-of-gunshots-at-mit-building/4639494)
+6. [Reuters](http://www.reuters.com/article/2013/04/19/us-usa-mit-gunshots-idUSBRE93I04520130419)
 
 ### Related:
 

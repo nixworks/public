@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2009-09/09/content_12023043.htm)
-2. [Yonhap](http://english.yonhapnews.co.kr/national/2009/09/09/40/0302000000AEN20090909008000315F.HTML)
-3. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gLbEZ4_yLz8WPYhom2CwwzKLGa2AD9AJMT1G1)
+1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gLbEZ4_yLz8WPYhom2CwwzKLGa2AD9AJMT1G1)
+2. [Xinhua](http://news.xinhuanet.com/english/2009-09/09/content_12023043.htm)
+3. [Yonhap](http://english.yonhapnews.co.kr/national/2009/09/09/40/0302000000AEN20090909008000315F.HTML)
 
 ### Related:
 

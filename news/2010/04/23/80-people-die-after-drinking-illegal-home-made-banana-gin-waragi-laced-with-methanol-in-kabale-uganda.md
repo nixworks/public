@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [TMC](http://www.tmcnet.com/usubmit/2010/04/23/4746686.htm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/8640731.stm)
 2. [News24](http://www.news24.com/Africa/News/Methanollaced-gin-kills-80-20100423)
-3. [BBC](http://news.bbc.co.uk/2/hi/africa/8640731.stm)
+3. [TMC](http://www.tmcnet.com/usubmit/2010/04/23/4746686.htm)
 
 ### Related:
 

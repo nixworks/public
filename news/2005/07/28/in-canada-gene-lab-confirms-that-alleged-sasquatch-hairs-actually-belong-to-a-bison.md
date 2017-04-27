@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=oddlyEnoughNews&storyID=2005-07-28T204249Z_01_YUE874524_RTRIDST_0_OUKOE-ODD-CANADA-SASQUATCH.XML)
-2. [CBC](http://www.cbc.ca/canada/story/2005/07/28/sasquatchtesting0727.html)
+1. [CBC](http://www.cbc.ca/canada/story/2005/07/28/sasquatchtesting0727.html)
+2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=oddlyEnoughNews&storyID=2005-07-28T204249Z_01_YUE874524_RTRIDST_0_OUKOE-ODD-CANADA-SASQUATCH.XML)
 
 ### Related:
 

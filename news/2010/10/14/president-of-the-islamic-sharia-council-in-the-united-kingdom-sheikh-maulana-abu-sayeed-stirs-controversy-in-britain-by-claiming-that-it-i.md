@@ -7,8 +7,8 @@ A leading Muslim cleric has sparked controversy in Britain by claiming that it i
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/uk/home-news/rape-impossible-in-marriage-says-muslim-cleric-2106161.html)
-2. [MSNBC](http://www.msnbc.msn.com/id/39664344/ns/world_news-europe)
+1. [MSNBC](http://www.msnbc.msn.com/id/39664344/ns/world_news-europe)
+2. [The Independent](http://www.independent.co.uk/news/uk/home-news/rape-impossible-in-marriage-says-muslim-cleric-2106161.html)
 
 ### Related:
 

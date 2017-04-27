@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Top_News/2009/06/12/India-plans-to-pull-army-from-Kashmir/UPI-96051244809008/)
-2. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6485349.ece)
+1. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6485349.ece)
+2. [UPI](http://www.upi.com/Top_News/2009/06/12/India-plans-to-pull-army-from-Kashmir/UPI-96051244809008/)
 
 ### Related:
 

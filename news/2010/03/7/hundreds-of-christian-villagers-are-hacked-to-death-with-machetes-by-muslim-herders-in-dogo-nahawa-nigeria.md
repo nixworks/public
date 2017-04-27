@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8554304.stm)
-2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/03/07/AR2010030701020.html)
-3. [Reuters](http://uk.reuters.com/article/idUKLDE6260AW20100307)
+2. [Reuters](http://uk.reuters.com/article/idUKLDE6260AW20100307)
+3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/03/07/AR2010030701020.html)
 
 ### Related:
 

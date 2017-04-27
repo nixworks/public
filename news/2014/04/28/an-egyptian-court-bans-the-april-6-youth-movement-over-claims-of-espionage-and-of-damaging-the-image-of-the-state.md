@@ -7,5 +7,5 @@ CAIRO (Reuters) - An Egyptian court on Monday banned a pro-democracy movement th
 
 ### Source:
 
-1. [Chicago Tribune](http://www.chicagotribune.com/news/sns-rt-us-egypt-brotherhood-april6-20140428,0,7459703.story)
-2. [Al-Ahram](http://english.ahram.org.eg/NewsContent/1/64/99998/Egypt/Politics-/BREAKING-Egypt-court-bans-April--over-espionage-cl.aspx)
+1. [Al-Ahram](http://english.ahram.org.eg/NewsContent/1/64/99998/Egypt/Politics-/BREAKING-Egypt-court-bans-April--over-espionage-cl.aspx)
+2. [Chicago Tribune](http://www.chicagotribune.com/news/sns-rt-us-egypt-brotherhood-april6-20140428,0,7459703.story)

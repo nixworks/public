@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [SwissInfo](http://www.swissinfo.org/sen/swissinfo.html?siteSect=106&sid=5569069)
-2. [NZZ](http://www.nzz.ch/2005/03/01/eng/article5569069.html)
+1. [NZZ](http://www.nzz.ch/2005/03/01/eng/article5569069.html)
+2. [SwissInfo](http://www.swissinfo.org/sen/swissinfo.html?siteSect=106&sid=5569069)
 
 ### Related:
 

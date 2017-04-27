@@ -7,8 +7,8 @@ Rebels kill three Indian peacekeepers in a night-time ambush at a base in the ea
 
 ### Source:
 
-1. [Hindustan Times](http://www.hindustantimes.com/Three-Indian-soldiers-killed-in-rebels-attack-in-Congo/Article1-588538.aspx)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-11010206)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-11010206)
+2. [Hindustan Times](http://www.hindustantimes.com/Three-Indian-soldiers-killed-in-rebels-attack-in-Congo/Article1-588538.aspx)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Irish Examiner](http://www.examiner.ie/ireland/last-orders--92940.html)
-2. [Belfast Telegraph](http://www.belfasttelegraph.co.uk/breaking-news/ireland/historic-cork-brewery-closes-doors-for-final-time-14319420.html)
+1. [Belfast Telegraph](http://www.belfasttelegraph.co.uk/breaking-news/ireland/historic-cork-brewery-closes-doors-for-final-time-14319420.html)
+2. [Irish Examiner](http://www.examiner.ie/ireland/last-orders--92940.html)
 
 ### Related:
 

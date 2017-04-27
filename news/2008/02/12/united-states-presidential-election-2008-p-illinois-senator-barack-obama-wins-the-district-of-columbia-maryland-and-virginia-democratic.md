@@ -7,9 +7,9 @@ Barack Obama extended his winning streak over Hillary Rodham Clinton, while John
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2008/02/12/us/politics/12cnd-campaign.html)
-2. [CNN](http://edition.cnn.com/''2006''/POLITICS/02/12/potomac.primaries/index.html)
-3. [The New York Times](http://www.nytimes.com/''2006''/02/12/us/politics/12cnd-campaign.html)
+1. [CNN](http://edition.cnn.com/''2006''/POLITICS/02/12/potomac.primaries/index.html)
+2. [The New York Times](http://www.nytimes.com/''2006''/02/12/us/politics/12cnd-campaign.html)
+3. [The New York Times](http://www.nytimes.com/2008/02/12/us/politics/12cnd-campaign.html)
 
 ### Related:
 

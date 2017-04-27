@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/arts/2009/1218/wogant.html)
-2. [BBC highlights](http://news.bbc.co.uk/2/hi/entertainment/8420392.stm)
+1. [BBC highlights](http://news.bbc.co.uk/2/hi/entertainment/8420392.stm)
+2. [RTÉ](http://www.rte.ie/arts/2009/1218/wogant.html)
 3. [The Times](http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/tv_and_radio/article6961514.ece)
 
 ### Related:

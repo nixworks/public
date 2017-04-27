@@ -7,8 +7,8 @@ One person is dead after a devastating explosion levelled a house in Mississauga
 
 ### Source:
 
-1. [CP24](http://www.cp24.com/news/too-early-to-tell-what-caused-deadly-mississauga-house-explosion-ofm-1.2966223)
-2. [CBC News](http://www.cbc.ca/news/canada/toronto/mississauga-house-explosion-1.3656811)
+1. [CBC News](http://www.cbc.ca/news/canada/toronto/mississauga-house-explosion-1.3656811)
+2. [CP24](http://www.cp24.com/news/too-early-to-tell-what-caused-deadly-mississauga-house-explosion-ofm-1.2966223)
 
 ### Related:
 

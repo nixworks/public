@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Rediff](http://www.rediff.com/news/report/dead-as-truck-falls-into-gorge-in-himachal/20110303.htm)
-2. [AP via Breitbart](http://www.breitbart.com/article.php?id=D9LNIQUG1&show_article=1)
+1. [AP via Breitbart](http://www.breitbart.com/article.php?id=D9LNIQUG1&show_article=1)
+2. [Rediff](http://www.rediff.com/news/report/dead-as-truck-falls-into-gorge-in-himachal/20110303.htm)
 
 ### Related:
 

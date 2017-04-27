@@ -7,8 +7,8 @@ Former congressman Jesse Jackson Jr. was charged Friday with misusing $750,000 i
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/nation/2013/02/15/jesse-jackson-jr-guilty-investigation/1909149/)
-2. [Chicago Tribune](http://www.chicagotribune.com/news/local/breaking/chi-jackson-charges-20130215,0,319725.story)
+1. [Chicago Tribune](http://www.chicagotribune.com/news/local/breaking/chi-jackson-charges-20130215,0,319725.story)
+2. [USA Today](http://www.usatoday.com/story/news/nation/2013/02/15/jesse-jackson-jr-guilty-investigation/1909149/)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/news/articlenews.aspx?type=topNews&storyid=2007-07-04T005448Z_01_MAC374393_RTRUKOC_0_UK-PALESTINIANS-JOURNALIST-FREED.xml)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6267928.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6267928.stm)
+2. [Reuters](http://today.reuters.co.uk/news/articlenews.aspx?type=topNews&storyid=2007-07-04T005448Z_01_MAC374393_RTRUKOC_0_UK-PALESTINIANS-JOURNALIST-FREED.xml)
 
 ### Related:
 

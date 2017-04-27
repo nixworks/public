@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CBC News](http://www.cbc.ca/news/world/story/2011/06/28/gaza-flotilla-sabotage.html)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/2011628101331334709.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/2011628101331334709.html)
+2. [CBC News](http://www.cbc.ca/news/world/story/2011/06/28/gaza-flotilla-sabotage.html)
 
 ### Related:
 

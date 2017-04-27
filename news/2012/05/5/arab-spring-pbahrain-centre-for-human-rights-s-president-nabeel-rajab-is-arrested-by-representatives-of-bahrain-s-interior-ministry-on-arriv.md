@@ -7,8 +7,8 @@ Nabeel Rajab has been arrested on the eve of his court appearance.
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17967253)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/05/20125520402817287.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/05/20125520402817287.html)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-17967253)
 3. [Wall Street Journal](http://online.wsj.com/article/SB10001424052702304752804577386260333212548.html)
 
 ### Related:

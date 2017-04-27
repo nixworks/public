@@ -7,8 +7,8 @@ Two Egyptian army officers and five jihadist militants have been killed in a gun
 
 ### Source:
 
-1. [NPR](http://www.npr.org/templates/story/story.php?storyId=291317298)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-26643502)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-26643502)
+2. [NPR](http://www.npr.org/templates/story/story.php?storyId=291317298)
 
 ### Related:
 

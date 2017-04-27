@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Press Release](http://www.secular.org/news/pete_stark_070312.html)
-2. [AP via Guardian.co.uk](http://www.guardian.co.uk/worldlatest/story/0,,-6477632,00.html)
+1. [AP via Guardian.co.uk](http://www.guardian.co.uk/worldlatest/story/0,,-6477632,00.html)
+2. [Press Release](http://www.secular.org/news/pete_stark_070312.html)
 
 ### Related:
 

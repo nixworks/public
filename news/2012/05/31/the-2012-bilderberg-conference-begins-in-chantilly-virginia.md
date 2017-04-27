@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2012/may/30/bilderberg-2012-technocrats-are-rising)
-2. [RT](http://rt.com/usa/news/bilderberg-event-conference-jones-717/)
+1. [RT](http://rt.com/usa/news/bilderberg-event-conference-jones-717/)
+2. [The Guardian](http://www.guardian.co.uk/world/2012/may/30/bilderberg-2012-technocrats-are-rising)
 
 ### Related:
 

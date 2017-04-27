@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/skynews/Home/World-News/Train-Crash-Kills-Dozens-In-Republic-Of-Congo-Speed-Blamed-For-Derailment-In-Central-Africa/Article/201006415653497?lpos=World_News_First_World_News_Article_Teaser_Region_4&lid=ARTICLE_15653497_Train_Crash_Kills_Dozens_In_Republic_Of_Congo%3A_Speed_Blamed_For_Derailment_In_Central_Africa)
-2. [TVNZ](http://tvnz.co.nz/world-news/around-50-killed-in-congo-train-crash-3605395)
-3. [DNA](http://www.dnaindia.com/world/report_around-50-killed-in-congo-train-crash-source_1399810)
-4. [Dawn](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/world/19-republic-of-congo-train-crash-kills-at-least-48-hh-03)
+1. [DNA](http://www.dnaindia.com/world/report_around-50-killed-in-congo-train-crash-source_1399810)
+2. [Dawn](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/world/19-republic-of-congo-train-crash-kills-at-least-48-hh-03)
+3. [Sky News](http://news.sky.com/skynews/Home/World-News/Train-Crash-Kills-Dozens-In-Republic-Of-Congo-Speed-Blamed-For-Derailment-In-Central-Africa/Article/201006415653497?lpos=World_News_First_World_News_Article_Teaser_Region_4&lid=ARTICLE_15653497_Train_Crash_Kills_Dozens_In_Republic_Of_Congo%3A_Speed_Blamed_For_Derailment_In_Central_Africa)
+4. [TVNZ](http://tvnz.co.nz/world-news/around-50-killed-in-congo-train-crash-3605395)
 
 ### Related:
 

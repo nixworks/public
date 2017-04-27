@@ -7,10 +7,10 @@ The EU agrees to impose sanctions on Ukrainian officials &quot;responsible for v
 
 ### Source:
 
-1. [RIA Novosty](http://en.ria.ru/world/20140220/187724983/Kiev-Mayor-Quits-Ruling-Party-Amid-Deadly-Clashes.html)
-2. [Associated Press](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-02-20-Ukraine-Protests/id-7bf870c59a964e70ad7b70a1f73dc0f5)
+1. [Associated Press](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-02-20-Ukraine-Protests/id-7bf870c59a964e70ad7b70a1f73dc0f5)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-26280710#)
 3. [Kiev Post](http://www.kyivpost.com/content/kyiv/euromaidan-rallies-in-ukraine-feb-19-live-updates-337098.html)
-4. [BBC](http://www.bbc.co.uk/news/world-europe-26280710#)
+4. [RIA Novosty](http://en.ria.ru/world/20140220/187724983/Kiev-Mayor-Quits-Ruling-Party-Amid-Deadly-Clashes.html)
 
 ### Related:
 

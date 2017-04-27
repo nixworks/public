@@ -7,8 +7,8 @@ Chicago voters on Tuesday will decide whether Mayor Rahm Emanuel collects a majo
 
 ### Source:
 
-1. [Chicago Tribune](http://www.chicagotribune.com/news/local/politics/ct-chicago-mayor-race-met-0224-20150223-story.html)
-2. [AP](http://hosted.ap.org/dynamic/stories/U/US_CHICAGO_MAYOR_ELECTION?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+1. [AP](http://hosted.ap.org/dynamic/stories/U/US_CHICAGO_MAYOR_ELECTION?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [Chicago Tribune](http://www.chicagotribune.com/news/local/politics/ct-chicago-mayor-race-met-0224-20150223-story.html)
 
 ### Related:
 

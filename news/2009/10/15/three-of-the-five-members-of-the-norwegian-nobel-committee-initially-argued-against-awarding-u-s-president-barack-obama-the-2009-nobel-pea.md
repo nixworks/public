@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Primary source: Verdens Gang](http://www.vg.no/nyheter/innenriks/artikkel.php?artid=569016)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gOy7GLcrP7iQja3yU5Zu4BHMqFdw)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gOy7GLcrP7iQja3yU5Zu4BHMqFdw)
+2. [Primary source: Verdens Gang](http://www.vg.no/nyheter/innenriks/artikkel.php?artid=569016)
 
 ### Related:
 

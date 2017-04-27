@@ -7,8 +7,8 @@ An extra-alarm fire destroyed hundreds of apartemnts Wednesday evening in comple
 
 ### Source:
 
-1. [NJ.com](http://www.nj.com/bergen/index.ssf/2015/01/yankees_announcer_loses_everything_in_devastating.html)
-2. [CBS](http://newyork.cbslocal.com/2015/01/21/fire-rips-through-apartment-complex-in-edgewater-new-jersey/)
+1. [CBS](http://newyork.cbslocal.com/2015/01/21/fire-rips-through-apartment-complex-in-edgewater-new-jersey/)
+2. [NJ.com](http://www.nj.com/bergen/index.ssf/2015/01/yankees_announcer_loses_everything_in_devastating.html)
 
 ### Related:
 

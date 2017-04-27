@@ -7,10 +7,10 @@ Troops and police loyal to Ivory Coast leader Laurent Gbagbo have sealed off sta
 
 ### Source:
 
-1. [News24](http://www.news24.com/Africa/News/Ivory-Coast-state-TV-under-tight-guard-20101216)
+1. [AP via NJ](http://www.nj.com/newsflash/index.ssf/story/at-least-15-dead-in-ivory-coast/e76d7f4b1fd948d69a62874253aa92be)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-12007523)
-3. [Vibe Ghana](http://vibeghana.com/2010/12/16/fight-over-ivory-coast-national-tv-station/)
-4. [AP via NJ](http://www.nj.com/newsflash/index.ssf/story/at-least-15-dead-in-ivory-coast/e76d7f4b1fd948d69a62874253aa92be)
+3. [News24](http://www.news24.com/Africa/News/Ivory-Coast-state-TV-under-tight-guard-20101216)
+4. [Vibe Ghana](http://vibeghana.com/2010/12/16/fight-over-ivory-coast-national-tv-station/)
 
 ### Related:
 

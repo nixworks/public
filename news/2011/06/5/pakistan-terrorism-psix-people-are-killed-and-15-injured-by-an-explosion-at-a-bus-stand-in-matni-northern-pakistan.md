@@ -7,9 +7,9 @@ Six people were killed and 15 were injured from an explosion at a bus stand the 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-south-asia-13662773)
-2. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/06/05/pakistan.blast/index.html)
-3. [AP via ''Houston Chronicle](http://www.chron.com/default/article/Bombings-kill-24-people-in-northwest-Pakistan-1410326.php)
+1. [AP via ''Houston Chronicle](http://www.chron.com/default/article/Bombings-kill-24-people-in-northwest-Pakistan-1410326.php)
+2. [BBC](http://www.bbc.co.uk/news/world-south-asia-13662773)
+3. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/06/05/pakistan.blast/index.html)
 
 ### Related:
 
@@ -22,4 +22,4 @@ Six people were killed and 15 were injured from an explosion at a bus stand the 
 7. [Terrorism in Pakistan:A suspected militant suicide bombing at a court and prison complex in the Pakistani city of Peshawar kills at least 4 people and injures 47 others. ](/news/2013/03/18/terrorism-in-pakistan-pa-suspected-militant-suicide-bombing-at-a-court-and-prison-complex-in-the-pakistani-city-of-peshawar-kills-at-least-4.md) _Context: Pakistan, Terrorism in Pakistan_
 8. [Terrorism in Pakistan:A bomb explodes outside the home of a senior police officer in Karachi, Pakistan, killing at least eight people. ](/news/2011/09/19/terrorism-in-pakistan-pa-bomb-explodes-outside-the-home-of-a-senior-police-officer-in-karachi-pakistan-killing-at-least-eight-people.md) _Context: Pakistan, Terrorism in Pakistan_
 9. [ Terrorism in Pakistan: A car bomb explodes outside a KFC outlet in Karachi, Pakistan around 08:45 (UTC+5). At least three people are killed and eight others wounded. ](/news/2005/11/15/terrorism-in-pakistan-a-car-bomb-explodes-outside-a-kfc-outlet-in-karachi-pakistan-around-08-45-utc-5-at-least-three-people-are-killed.md) _Context: Pakistan, Terrorism in Pakistan_
-10. [Pakistan's opposition interrupts Parliament's scheduled session demanding   Prime Minister Nawaz Sharif resign during the investigation of his finances, per Thursday's Supreme Court ruling. ](/news/2017/04/21/pakistan-s-opposition-interrupts-parliament-s-scheduled-session-demanding-prime-minister-nawaz-sharif-resign-during-the-investigation-of-h.md) _Context: Pakistan_
+10. [At least ten Iranian border guards are killed in an ambush in the southeastern Sistan and Baluchestan Province on the border with Pakistan. Sunni militant group Jaish ul-Adl claims responsibility. ](/news/2017/04/26/at-least-ten-iranian-border-guards-are-killed-in-an-ambush-in-the-southeastern-sistan-and-baluchestan-province-on-the-border-with-pakistan.md) _Context: Pakistan_

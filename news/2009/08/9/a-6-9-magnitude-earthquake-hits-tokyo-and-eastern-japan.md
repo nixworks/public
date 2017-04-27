@@ -7,8 +7,8 @@ A strong earthquake with a preliminary magnitude of 6.9 jolted central Japan on 
 
 ### Source:
 
-1. [Press Association](http://www.google.com/hostednews/ukpress/article/ALeqM5gRq5ct08njtJ2AX91nBTzSL5xLvA)
-2. [Nikkei](http://www.nni.nikkei.co.jp/e/fr/tnks/Nni20090809D09JF489.htm)
+1. [Nikkei](http://www.nni.nikkei.co.jp/e/fr/tnks/Nni20090809D09JF489.htm)
+2. [Press Association](http://www.google.com/hostednews/ukpress/article/ALeqM5gRq5ct08njtJ2AX91nBTzSL5xLvA)
 3. [Reuters](http://www.reuters.com/article/newsOne/idUSTRE5780MP20090809)
 
 ### Related:

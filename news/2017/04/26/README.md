@@ -6,6 +6,9 @@ The scale of the damage done by IS militants to the site - featured in The Exorc
 ### [At least ten Iranian border guards are killed in an ambush in the southeastern Sistan and Baluchestan Province on the border with Pakistan. Sunni militant group Jaish ul-Adl claims responsibility. ](/news/2017/04/26/at-least-ten-iranian-border-guards-are-killed-in-an-ambush-in-the-southeastern-sistan-and-baluchestan-province-on-the-border-with-pakistan.md)
 Sunni militant group Jaish al-Adl claims responsibility for killing of guards in Sistan-Baluchestan province
 
+### [The United Nations MONUSCO reports that 20 Chowe-Pende community members have been killed in clashes with the Lulua-Luba community in Kasai-Central, Democratic Republic of Congo. ](/news/2017/04/26/the-united-nations-monusco-reports-that-20-chowe-pende-community-members-have-been-killed-in-clashes-with-the-lulua-luba-community-in-kasaa.md)
+Latest violence between Lulua-Luba and Chow-Pende communities extends eight months of bloodshed.
+
 ### [American film director Jonathan Demme, winner of the Academy Award for Best Director for ''The Silence of the Lambs'', dies of complications from esophageal cancer. ](/news/2017/04/26/american-film-director-jonathan-demme-winner-of-the-academy-award-for-best-director-for-the-silence-of-the-lambs-dies-of-complications.md)
 _Context: Academy Award for Best Director, Jonathan Demme, The Silence of the Lambs, esophageal cancer_
 

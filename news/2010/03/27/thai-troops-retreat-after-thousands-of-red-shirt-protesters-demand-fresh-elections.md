@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE62Q0C120100327)
-2. [Bangkok Post](http://www.bangkokpost.com/news/asia/172969/thai-troops-retreat-in-face-of-80000-protesters)
+1. [Bangkok Post](http://www.bangkokpost.com/news/asia/172969/thai-troops-retreat-in-face-of-80000-protesters)
+2. [Reuters](http://www.reuters.com/article/idUSTRE62Q0C120100327)
 
 ### Related:
 

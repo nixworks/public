@@ -7,8 +7,8 @@ As Mark Durkan steps down after nine years as the leader of the SDLP, Noel McAda
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/weekend/2010/0206/1224263870656.html)
-2. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/politics/no-more-mr-nice-guy-as-mark-durkan-era-ends-14668762.html)
+1. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/politics/no-more-mr-nice-guy-as-mark-durkan-era-ends-14668762.html)
+2. [The Irish Times](http://www.irishtimes.com/newspaper/weekend/2010/0206/1224263870656.html)
 
 ### Related:
 

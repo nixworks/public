@@ -7,8 +7,8 @@ Human&#x20;traffickers&#x20;have&#x20;kidnapped&#x20;at&#x20;least&#x20;17&#x20;
 
 ### Source:
 
-1. [RFI](http://www.english.rfi.fr/americas/20100902-least-17-migrants-kidnapped-mexico)
-2. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/09/2010923934396140.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/09/2010923934396140.html)
+2. [RFI](http://www.english.rfi.fr/americas/20100902-least-17-migrants-kidnapped-mexico)
 
 ### Related:
 

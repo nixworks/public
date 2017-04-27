@@ -7,9 +7,9 @@ Oscar Pistorius has made history by becoming the first double amputee to compete
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/sport/olympics/london-2012/9450469/Oscar-Pistorius-makes-Olympic-history.html)
-2. [BBC Sport](http://www.bbc.co.uk/sport/0/olympics/19125093)
-3. [Chicago Tribune](http://www.chicagotribune.com/sports/olympics/sns-rt-us-oly-athl-atm20w-barrondobre8730m5-20120804,0,269748.story)
+1. [BBC Sport](http://www.bbc.co.uk/sport/0/olympics/19125093)
+2. [Chicago Tribune](http://www.chicagotribune.com/sports/olympics/sns-rt-us-oly-athl-atm20w-barrondobre8730m5-20120804,0,269748.story)
+3. [The Daily Telegraph](http://www.telegraph.co.uk/sport/olympics/london-2012/9450469/Oscar-Pistorius-makes-Olympic-history.html)
 
 ### Related:
 

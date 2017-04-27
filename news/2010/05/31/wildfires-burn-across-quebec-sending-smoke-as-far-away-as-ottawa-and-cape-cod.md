@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CBC News](http://www.cbc.ca/canada/montreal/story/2010/05/31/quebec-forest-fires.html)
-2. [Boston Herald](http://bostonherald.com/news/regional/view/20100531smoke_hanging_on_cape_and_region_a_canadian_import/srvc=home&position=6)
+1. [Boston Herald](http://bostonherald.com/news/regional/view/20100531smoke_hanging_on_cape_and_region_a_canadian_import/srvc=home&position=6)
+2. [CBC News](http://www.cbc.ca/canada/montreal/story/2010/05/31/quebec-forest-fires.html)
 
 ### Related:
 

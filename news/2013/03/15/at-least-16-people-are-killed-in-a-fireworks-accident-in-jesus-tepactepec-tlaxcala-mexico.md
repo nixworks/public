@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2013/03/16/world/americas/mexico-religious-explosion/)
-2. [BBC](http://www.bbc.co.uk/news/world-latin-america-21810389)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-21810389)
+2. [CNN](http://www.cnn.com/2013/03/16/world/americas/mexico-religious-explosion/)
 
 ### Related:
 

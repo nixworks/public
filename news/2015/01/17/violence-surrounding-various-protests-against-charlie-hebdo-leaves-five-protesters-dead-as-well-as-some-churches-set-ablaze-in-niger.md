@@ -7,8 +7,8 @@ Second day of violence in Niger as protests continue
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-30863159)
-2. [AFP via ''The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/niger/11353264/Five-dead-in-Charlie-Hebdo-riots-in-Niger.html)
+1. [AFP via ''The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/niger/11353264/Five-dead-in-Charlie-Hebdo-riots-in-Niger.html)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-30863159)
 
 ### Related:
 

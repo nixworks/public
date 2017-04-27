@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Gulf News](http://www.gulf-news.com/Articles/WorldNF.asp?ArticleID=193766)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4453730.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4453730.stm)
+2. [Gulf News](http://www.gulf-news.com/Articles/WorldNF.asp?ArticleID=193766)
 
 ### Related:
 

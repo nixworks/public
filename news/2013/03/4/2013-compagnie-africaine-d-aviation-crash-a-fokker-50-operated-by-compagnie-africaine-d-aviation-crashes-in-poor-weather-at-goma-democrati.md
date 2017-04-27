@@ -7,9 +7,9 @@ Dozens of people have died after a plane crashed into a residential area of Goma
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/news/2013-03-04/congo-plane-crashes-on-landing-at-goma-airport-in-north-kivu.html)
-2. [News24](http://www.news24.com/news24/Africa/News/Dozens-killed-in-DRC-plane-crash-20130304)
-3. [BBC](http://www.bbc.co.uk/news/world-africa-21660308)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-21660308)
+2. [Bloomberg](http://www.bloomberg.com/news/2013-03-04/congo-plane-crashes-on-landing-at-goma-airport-in-north-kivu.html)
+3. [News24](http://www.news24.com/news24/Africa/News/Dozens-killed-in-DRC-plane-crash-20130304)
 4. [Reuters](http://www.reuters.com/article/2013/03/04/us-congo-democratic-crash-idUSBRE9230UD20130304)
 
 ### Related:

@@ -7,8 +7,8 @@ Get a recap of the Oklahoma City Thunder vs. Miami Heat basketball game.
 
 ### Source:
 
-1. [Wall Street Journal](http://online.wsj.com/article/SB10001424052702304765304577481540670656900.html)
-2. [ESPN](http://scores.espn.go.com/nba/recap?gameId=320621014)
+1. [ESPN](http://scores.espn.go.com/nba/recap?gameId=320621014)
+2. [Wall Street Journal](http://online.wsj.com/article/SB10001424052702304765304577481540670656900.html)
 
 ### Related:
 

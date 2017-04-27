@@ -7,9 +7,9 @@ French actor Gerard Depardieu says he is handing back his French passport after 
 
 ### Source:
 
-1. [The Washington Post](http://www.washingtonpost.com/business/president-salutes-french-entrepreneurs-who-stay-after-actor-depardieu-fuels-tax-exile-debate/2012/12/17/a45458f4-4874-11e2-8af9-9b50cb4605a7_story.html)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-20750593)
-3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/france/9750433/Belgium-says-it-will-not-be-scapegoat-over-Gerard-Depardieu.html)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-20750593)
+2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/france/9750433/Belgium-says-it-will-not-be-scapegoat-over-Gerard-Depardieu.html)
+3. [The Washington Post](http://www.washingtonpost.com/business/president-salutes-french-entrepreneurs-who-stay-after-actor-depardieu-fuels-tax-exile-debate/2012/12/17/a45458f4-4874-11e2-8af9-9b50cb4605a7_story.html)
 
 ### Related:
 

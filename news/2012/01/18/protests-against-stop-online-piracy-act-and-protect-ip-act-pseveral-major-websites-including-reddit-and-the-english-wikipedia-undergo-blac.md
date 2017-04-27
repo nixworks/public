@@ -7,10 +7,10 @@ With a Web-wide protest on Wednesday that includes a shutdown of Wikipedia, the 
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/business/six-us-lawmakers-abandon-anti-piracy-bills-as-google-protests/2012/01/18/gIQAzBHz8P_story.html?tid=pm_business_pop)
-2. [BBC](http://www.bbc.co.uk/news/world-us-canada-16623831)
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-16623831)
+2. [New York Times](http://www.nytimes.com/2012/01/18/technology/web-wide-protest-over-two-antipiracy-bills.html)
 3. [O'Reilly Radar](http://radar.oreilly.com/2012/01/the-week-the-web-changed-washi.html)
-4. [New York Times](http://www.nytimes.com/2012/01/18/technology/web-wide-protest-over-two-antipiracy-bills.html)
+4. [Washington Post](http://www.washingtonpost.com/business/six-us-lawmakers-abandon-anti-piracy-bills-as-google-protests/2012/01/18/gIQAzBHz8P_story.html?tid=pm_business_pop)
 
 ### Related:
 

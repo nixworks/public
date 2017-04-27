@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Solomon Star](http://www.solomonstarnews.com/news/national/7640-sikua-out-of-race)
-2. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=55432)
+1. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=55432)
+2. [Solomon Star](http://www.solomonstarnews.com/news/national/7640-sikua-out-of-race)
 
 ### Related:
 

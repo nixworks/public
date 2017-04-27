@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_765194.html)
-2. [CNN](http://edition.cnn.com/2012/02/10/world/asia/china-tibet-sackings/index.html)
+1. [CNN](http://edition.cnn.com/2012/02/10/world/asia/china-tibet-sackings/index.html)
+2. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_765194.html)
 
 ### Related:
 

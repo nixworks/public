@@ -7,8 +7,8 @@ Tony Blair says he &quot;regrets&quot; the loss of life in Iraq but urges the We
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/uk-politics-12246410)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/01/2011121132710269378.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/01/2011121132710269378.html)
+2. [BBC](http://www.bbc.co.uk/news/uk-politics-12246410)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USGS](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2007gybt.php)
-2. [Reuters](http://www.reuters.com/article/worldNews/idUSL0650378120070906)
+1. [Reuters](http://www.reuters.com/article/worldNews/idUSL0650378120070906)
+2. [USGS](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2007gybt.php)
 
 ### Related:
 

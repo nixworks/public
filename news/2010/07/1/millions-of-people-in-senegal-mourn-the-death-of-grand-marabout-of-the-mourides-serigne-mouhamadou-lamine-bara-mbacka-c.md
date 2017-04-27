@@ -7,8 +7,8 @@ Hundreds of thousands of Senegalese are expected at ceremonies to mourn the lead
 
 ### Source:
 
-1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gLSPnB2oZVcoqP6jUGIIdyo0bqMgD9GM69A80)
-2. [ABC News](http://abcnews.go.com/International/wireStory?id=11061408)
+1. [ABC News](http://abcnews.go.com/International/wireStory?id=11061408)
+2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gLSPnB2oZVcoqP6jUGIIdyo0bqMgD9GM69A80)
 3. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10478394.stm)
 
 ### Related:

@@ -7,8 +7,8 @@ Three people are dead after storms moved through Rosalie early Wednesday morning
 
 ### Source:
 
-1. [WAFF](http://www.waff.com/story/33822385/3-people-dead-in-rosalie-from-storms)
-2. [NBC News](http://www.nbcnews.com/news/weather/alabama-tornado-slams-church-daycare-center-least-3-dead-n689986?cid=eml_nbn_20161130)
+1. [NBC News](http://www.nbcnews.com/news/weather/alabama-tornado-slams-church-daycare-center-least-3-dead-n689986?cid=eml_nbn_20161130)
+2. [WAFF](http://www.waff.com/story/33822385/3-people-dead-in-rosalie-from-storms)
 
 ### Related:
 

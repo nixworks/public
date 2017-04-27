@@ -7,9 +7,9 @@ RACINE &mdash; In a crucial election that swings control of the state Senate to 
 
 ### Source:
 
-1. [Journal Times](http://www.journaltimes.com/news/local/govt-and-politics/elections/as-republicans-see-victory-wanggaard-in-razor-thin-lead-over/article_90a8c3ae-af76-11e1-ba46-0019bb2963f4.html)
-2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gfznn-et4_9kLIqa1wT07vn4cQGQ?docId=bf43d4fe9a094302871c3d69ea55bafc)
-3. [CBS News](http://www.cbsnews.com/8301-503544_162-57447954-503544/wisconsin-recall-walker-opens-slight-lead-as-votes-are-counted/)
+1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gfznn-et4_9kLIqa1wT07vn4cQGQ?docId=bf43d4fe9a094302871c3d69ea55bafc)
+2. [CBS News](http://www.cbsnews.com/8301-503544_162-57447954-503544/wisconsin-recall-walker-opens-slight-lead-as-votes-are-counted/)
+3. [Journal Times](http://www.journaltimes.com/news/local/govt-and-politics/elections/as-republicans-see-victory-wanggaard-in-razor-thin-lead-over/article_90a8c3ae-af76-11e1-ba46-0019bb2963f4.html)
 4. [Madison.com](http://host.madison.com/ct/news/local/govt-and-politics/politiscope/madison-politiscope-democrats-claim-the-state-senate---does/article_debae2ee-afa2-11e1-803d-0019bb2963f4.html)
 
 ### Related:

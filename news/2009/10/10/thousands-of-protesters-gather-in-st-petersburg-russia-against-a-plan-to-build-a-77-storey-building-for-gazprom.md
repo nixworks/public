@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2009/oct/11/medvedev-urged-to-ban-tower)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5j6Myb2rfInoJAj7n7URsBAUHIIZg)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5j6Myb2rfInoJAj7n7URsBAUHIIZg)
+2. [The Guardian](http://www.guardian.co.uk/world/2009/oct/11/medvedev-urged-to-ban-tower)
 
 ### Related:
 

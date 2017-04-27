@@ -7,10 +7,10 @@ Footage posted online showed officer striking pro-Palestinian activist in face d
 
 ### Source:
 
-1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4216891,00.html)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/04/201241682449825487.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/04/201241682449825487.html)
+2. [Los Angeles Times](http://latimesblogs.latimes.com/world_now/2012/04/israeli-officer-video.html)
 3. [Toronto Star](http://www.thestar.com/news/world/article/1162387--israeli-beating-of-pro-palestinian-activist-causes-uproar)
-4. [Los Angeles Times](http://latimesblogs.latimes.com/world_now/2012/04/israeli-officer-video.html)
+4. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4216891,00.html)
 
 ### Related:
 

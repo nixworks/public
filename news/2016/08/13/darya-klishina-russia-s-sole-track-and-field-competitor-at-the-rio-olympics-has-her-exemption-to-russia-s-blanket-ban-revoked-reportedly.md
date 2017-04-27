@@ -7,8 +7,8 @@ Three trips to the top of the podium on Saturday clinched the milestone.
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/sports/olympics/rio-2016/2016/08/13/usa-1000th-medal-medley-relay-swimming/88697594/)
-2. [Reuters](http://www.reuters.com/article/us-olympics-rio-russia-klishina-idUSKCN10O0QV)
+1. [Reuters](http://www.reuters.com/article/us-olympics-rio-russia-klishina-idUSKCN10O0QV)
+2. [USA Today](http://www.usatoday.com/story/sports/olympics/rio-2016/2016/08/13/usa-1000th-medal-medley-relay-swimming/88697594/)
 
 ### Related:
 

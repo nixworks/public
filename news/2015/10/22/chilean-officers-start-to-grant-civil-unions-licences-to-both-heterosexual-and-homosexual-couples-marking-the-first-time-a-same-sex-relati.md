@@ -7,8 +7,8 @@ A new law comes into force in Chile granting unmarried heterosexual and same-sex
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/world/2015/oct/21/chile-same-sex-civil-unions-legal)
-2. [BBC](http://www.bbc.com/news/world-latin-america-34602629)
+1. [BBC](http://www.bbc.com/news/world-latin-america-34602629)
+2. [The Guardian](http://www.theguardian.com/world/2015/oct/21/chile-same-sex-civil-unions-legal)
 
 ### Related:
 

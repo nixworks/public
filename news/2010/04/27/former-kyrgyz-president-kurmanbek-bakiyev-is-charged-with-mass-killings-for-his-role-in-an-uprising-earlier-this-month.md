@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/04/27/AR2010042700592.html)
-2. [RIA Novosti](http://en.rian.ru/exsoviet/20100427/158763449.html)
+1. [RIA Novosti](http://en.rian.ru/exsoviet/20100427/158763449.html)
+2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/04/27/AR2010042700592.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Hindu](http://beta.thehindu.com/news/national/article435464.ece)
-2. [Economic Times](http://economictimes.indiatimes.com/news/politics/nation/Maoists-kill-five-people-in-Bihar/articleshow/5961420.cms)
+1. [Economic Times](http://economictimes.indiatimes.com/news/politics/nation/Maoists-kill-five-people-in-Bihar/articleshow/5961420.cms)
+2. [The Hindu](http://beta.thehindu.com/news/national/article435464.ece)
 
 ### Related:
 

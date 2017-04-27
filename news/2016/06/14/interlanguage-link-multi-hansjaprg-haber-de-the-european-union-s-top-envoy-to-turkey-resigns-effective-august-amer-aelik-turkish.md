@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-europe-turkey-envoy-idUSKCN0Z00U9)
-2. [Prensa Latina](http://www.plenglish.com/index.php?option=com_content&task=view&id=4974181&Itemid=1)
+1. [Prensa Latina](http://www.plenglish.com/index.php?option=com_content&task=view&id=4974181&Itemid=1)
+2. [Reuters](http://www.reuters.com/article/us-europe-turkey-envoy-idUSKCN0Z00U9)
 
 ### Related:
 

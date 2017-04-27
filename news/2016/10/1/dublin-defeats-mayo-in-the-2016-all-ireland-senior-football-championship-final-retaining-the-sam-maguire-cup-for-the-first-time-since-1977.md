@@ -7,8 +7,8 @@ Defending champions Dublin held out a strong Mayo side to claim their 26th All-I
 
 ### Source:
 
-1. [Sky](http://www.skysports.com/gaa/gaelic-football/news/30543/10601299/dublin-defeat-mayo-to-retain-sam-maguire)
-2. [BBC](http://www.bbc.com/sport/gaelic-games/37525042)
+1. [BBC](http://www.bbc.com/sport/gaelic-games/37525042)
+2. [Sky](http://www.skysports.com/gaa/gaelic-football/news/30543/10601299/dublin-defeat-mayo-to-retain-sam-maguire)
 
 ### Related:
 

@@ -7,10 +7,10 @@ The sharemarket took investors on another roller-coaster ride today, but in the 
 
 ### Source:
 
-1. [CNBC](http://www.cnbc.com/id/44632796)
-2. [Sky News](http://news.sky.com/home/business/article/16075478)
-3. [Sydney Morning Herald](http://www.smh.com.au/business/markets/live-blog-asx-braces-as-world-markets-slump-20110923-1knx4.html)
-4. [Bloomberg](http://www.bloomberg.com/news/2011-09-23/asian-stocks-drop-as-global-equities-enter-bear-market-euro-oil-rebound.html)
+1. [Bloomberg](http://www.bloomberg.com/news/2011-09-23/asian-stocks-drop-as-global-equities-enter-bear-market-euro-oil-rebound.html)
+2. [CNBC](http://www.cnbc.com/id/44632796)
+3. [Sky News](http://news.sky.com/home/business/article/16075478)
+4. [Sydney Morning Herald](http://www.smh.com.au/business/markets/live-blog-asx-braces-as-world-markets-slump-20110923-1knx4.html)
 
 ### Related:
 

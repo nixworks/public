@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Financial Times](http://www.ft.com/cms/s/0/4b4f06b4-f854-11de-beb8-00144feab49a.html)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jPpEM4KLit7-vHIXEfS1v-zglSRQ)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jPpEM4KLit7-vHIXEfS1v-zglSRQ)
+2. [Financial Times](http://www.ft.com/cms/s/0/4b4f06b4-f854-11de-beb8-00144feab49a.html)
 
 ### Related:
 

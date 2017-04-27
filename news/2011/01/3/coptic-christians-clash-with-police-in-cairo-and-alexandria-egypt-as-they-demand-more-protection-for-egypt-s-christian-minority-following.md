@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4008052,00.html)
-2. [Los Angeles Times](http://www.latimes.com/news/local/la-me-coptic-christians-20110103,0,7451665.story)
+1. [Los Angeles Times](http://www.latimes.com/news/local/la-me-coptic-christians-20110103,0,7451665.story)
+2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4008052,00.html)
 
 ### Related:
 

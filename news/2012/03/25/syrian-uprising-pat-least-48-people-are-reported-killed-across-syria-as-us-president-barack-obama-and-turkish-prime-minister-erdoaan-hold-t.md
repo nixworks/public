@@ -8,8 +8,8 @@
 ### Source:
 
 1. [CNN](http://www.cnn.com/2012/03/25/world/meast/syria-unrest/index.html?hpt=wo_c1)
-2. [The Bangkok Post](http://www.bangkokpost.com/news/world/285942/obama-pledges-non-lethal-aid-for-syria-rebels)
-3. [News24](http://www.news24.com/World/News/Blasts-shake-Homs-Syria-rebels-hit-back-20120325)
+2. [News24](http://www.news24.com/World/News/Blasts-shake-Homs-Syria-rebels-hit-back-20120325)
+3. [The Bangkok Post](http://www.bangkokpost.com/news/world/285942/obama-pledges-non-lethal-aid-for-syria-rebels)
 
 ### Related:
 

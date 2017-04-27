@@ -8,11 +8,11 @@
 ### Source:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2016/04/17/at-least-28-killed-in-powerful-magnitude-7-8-earthquake-ecuador-vice-president-says.html)
-2. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/us20005j32#general)
-3. [BBC](http://www.bbc.com/news/world-latin-america-36065551?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
-4. [The Straits Times](http://www.straitstimes.com/world/americas/powerful-74-earthquake-rocks-ecuador-usgs)
-5. [BNO News](http://bnonews.com/news/index.php/news/id4133)
-6. [Reuters via NBC News](http://www.nbcnews.com/news/world/7-8-magnitude-earthquake-hits-near-ecuador-s-coast-usgs-n557181)
+2. [BBC](http://www.bbc.com/news/world-latin-america-36065551?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+3. [BNO News](http://bnonews.com/news/index.php/news/id4133)
+4. [Reuters via NBC News](http://www.nbcnews.com/news/world/7-8-magnitude-earthquake-hits-near-ecuador-s-coast-usgs-n557181)
+5. [The Straits Times](http://www.straitstimes.com/world/americas/powerful-74-earthquake-rocks-ecuador-usgs)
+6. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/us20005j32#general)
 
 ### Related:
 

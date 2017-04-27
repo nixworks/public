@@ -7,9 +7,9 @@ Police fire into the air to disperse protesters throwing stones and smashing up 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-12168175)
+1. [AFP via SBS](http://www.sbs.com.au/news/article/1464492/Up-to-fifty-killed-in-Tunisia-unrest)
 2. [Al Jazeera](http://english.aljazeera.net/video/africa/2011/01/2011111214716877786.html)
-3. [AFP via SBS](http://www.sbs.com.au/news/article/1464492/Up-to-fifty-killed-in-Tunisia-unrest)
+3. [BBC](http://www.bbc.co.uk/news/world-africa-12168175)
 
 ### Related:
 

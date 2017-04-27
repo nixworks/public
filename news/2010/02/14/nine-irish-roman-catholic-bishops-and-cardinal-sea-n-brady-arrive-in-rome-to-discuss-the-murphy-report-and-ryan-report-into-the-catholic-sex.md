@@ -7,8 +7,8 @@ Members of the Irish Catholic hierarchy are in Rome in advance of their meeting 
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2010/0214/abuse.html)
-2. [Gulf Times](http://www.gulf-times.com/site/topics/article.asp?cu_no=2&item_no=342784&version=1&template_id=38&parent_id=20)
+1. [Gulf Times](http://www.gulf-times.com/site/topics/article.asp?cu_no=2&item_no=342784&version=1&template_id=38&parent_id=20)
+2. [RTÉ](http://www.rte.ie/news/2010/0214/abuse.html)
 3. [Reuters](http://www.reuters.com/article/idUSTRE61D13J20100214)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/weekend/2010/0213/1224264326892.html)
 

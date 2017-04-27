@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2009-09/03/content_11990303.htm)
-2. [The Syndey Morning Herald](http://news.smh.com.au/breaking-news-world/china-approves-homegrown-swine-flu-vaccine-20090903-f9cr.html)
+1. [The Syndey Morning Herald](http://news.smh.com.au/breaking-news-world/china-approves-homegrown-swine-flu-vaccine-20090903-f9cr.html)
+2. [Xinhua](http://news.xinhuanet.com/english/2009-09/03/content_11990303.htm)
 
 ### Related:
 

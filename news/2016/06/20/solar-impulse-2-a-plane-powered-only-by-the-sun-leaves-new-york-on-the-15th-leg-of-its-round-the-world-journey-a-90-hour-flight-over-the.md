@@ -7,8 +7,8 @@ An airplane powered solely by energy from the sun headed across the Atlantic ear
 
 ### Source:
 
-1. [Reuters²](http://www.reuters.com/article/us-solar-plane-idUSKCN0Z60P3)
-2. [Business Standard](http://www.business-standard.com/article/news-ians/solar-plane-begins-trans-atlantic-flight-116062000957_1.html)
+1. [Business Standard](http://www.business-standard.com/article/news-ians/solar-plane-begins-trans-atlantic-flight-116062000957_1.html)
+2. [Reuters²](http://www.reuters.com/article/us-solar-plane-idUSKCN0Z60P3)
 
 ### Related:
 

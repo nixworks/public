@@ -7,9 +7,9 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [Independent](http://news.independent.co.uk/world/americas/story.jsp?story=631171)
-2. [ABC](http://abcnews.go.com/International/wireStory?id=686262)
-3. [BBC](http://news.bbc.co.uk/2/hi/americas/4463551.stm)
+1. [ABC](http://abcnews.go.com/International/wireStory?id=686262)
+2. [BBC](http://news.bbc.co.uk/2/hi/americas/4463551.stm)
+3. [Independent](http://news.independent.co.uk/world/americas/story.jsp?story=631171)
 
 ### Related:
 

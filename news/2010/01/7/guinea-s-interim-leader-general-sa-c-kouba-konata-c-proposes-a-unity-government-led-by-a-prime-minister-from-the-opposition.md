@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2010/jan/07/guinea-unity-government-camara-shooting)
-2. [African Press Agency](http://www.apanews.net/apa.php?page=show_article_eng&id_article=115089)
+1. [African Press Agency](http://www.apanews.net/apa.php?page=show_article_eng&id_article=115089)
+2. [The Guardian](http://www.guardian.co.uk/world/2010/jan/07/guinea-unity-government-camara-shooting)
 
 ### Related:
 

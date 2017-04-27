@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Australia Network News](http://australianetworknews.com/stories/200908/2669022.htm?desktop)
-2. [Bangkok Post](http://www.bangkokpost.com/news/asia/152806/more-fighting-feared-as-thousands-flee-burma)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5imvwVVfP4W77LNGI1NfuFvOUvAuQ)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5imvwVVfP4W77LNGI1NfuFvOUvAuQ)
+2. [Australia Network News](http://australianetworknews.com/stories/200908/2669022.htm?desktop)
+3. [Bangkok Post](http://www.bangkokpost.com/news/asia/152806/more-fighting-feared-as-thousands-flee-burma)
 
 ### Related:
 

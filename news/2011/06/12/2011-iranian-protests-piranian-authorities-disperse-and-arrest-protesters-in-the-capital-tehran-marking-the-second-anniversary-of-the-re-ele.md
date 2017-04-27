@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/news/world/story/2011/06/12/iran-opposition-death.html)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jpIwGbFUtLcINm-Vx1K4bfREGbCw?docId=CNG.b7019a130f1e32ef787343ebff49380f.301)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jpIwGbFUtLcINm-Vx1K4bfREGbCw?docId=CNG.b7019a130f1e32ef787343ebff49380f.301)
+2. [CBC](http://www.cbc.ca/news/world/story/2011/06/12/iran-opposition-death.html)
 
 ### Related:
 

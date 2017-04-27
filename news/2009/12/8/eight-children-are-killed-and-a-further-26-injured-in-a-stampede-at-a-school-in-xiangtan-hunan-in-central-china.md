@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Indian Express](http://www.indianexpress.com/news/8-killed--26-injured-in-China-school-stampede/551461)
-2. [China Daily](http://www.chinadaily.com.cn/china/2009-12/08/content_9138262.htm)
+1. [China Daily](http://www.chinadaily.com.cn/china/2009-12/08/content_9138262.htm)
+2. [Indian Express](http://www.indianexpress.com/news/8-killed--26-injured-in-China-school-stampede/551461)
 3. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6948299.ece)
 
 ### Related:

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [El Tiempo](http://www.eltiempo.com/politica/2007-02-19/ARTICULO-WEB-NOTA_INTERIOR-3445001.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/6376359.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/6376359.stm)
+2. [El Tiempo](http://www.eltiempo.com/politica/2007-02-19/ARTICULO-WEB-NOTA_INTERIOR-3445001.html)
 
 ### Related:
 

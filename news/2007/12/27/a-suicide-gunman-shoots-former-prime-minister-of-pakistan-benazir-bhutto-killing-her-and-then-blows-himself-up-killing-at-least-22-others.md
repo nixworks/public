@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7161489.stm)
-2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20071227/ap_on_re_as/pakistan)
+1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20071227/ap_on_re_as/pakistan)
+2. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7161489.stm)
 
 ### Related:
 

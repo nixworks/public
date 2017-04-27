@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AFP via Yahoo!](http://story.news.yahoo.com/news?tmpl=story&cid=1511&ncid=1511&e=6&u=/afp/20050426/wl_afp/togovote_050426121759)
-2. [AFP via Yahoo! France](http://fr.news.yahoo.com/050426/202/4duqv.html)
+1. [AFP via Yahoo! France](http://fr.news.yahoo.com/050426/202/4duqv.html)
+2. [AFP via Yahoo!](http://story.news.yahoo.com/news?tmpl=story&cid=1511&ncid=1511&e=6&u=/afp/20050426/wl_afp/togovote_050426121759)
 
 ### Related:
 

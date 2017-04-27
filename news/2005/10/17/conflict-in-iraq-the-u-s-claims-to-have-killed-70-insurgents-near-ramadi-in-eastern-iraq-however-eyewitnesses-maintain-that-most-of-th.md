@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [LA Times](http://www.latimes.com/news/nationworld/world/la-fg-bombing18oct18,0,4206175.story?coll=la-story-footer&track=morenews)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4349032.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4349032.stm)
+2. [LA Times](http://www.latimes.com/news/nationworld/world/la-fg-bombing18oct18,0,4206175.story?coll=la-story-footer&track=morenews)
 
 ### Related:
 

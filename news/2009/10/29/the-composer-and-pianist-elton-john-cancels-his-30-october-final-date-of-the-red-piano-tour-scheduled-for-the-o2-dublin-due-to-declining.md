@@ -8,8 +8,8 @@ Elton John (62) has pulled out of his Dublin concert tomorrow night after suffer
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8333938.stm)
-2. [Irish Independent](http://www.independent.ie/entertainment/news-gossip/elton-john-cancels-gig-at-the-o2-1928379.html)
-3. [Evening Herald](http://www.herald.ie/entertainment/music/the-show-wonrsquot-go-on-as-elton-cancels-gig-at-the-o2-1928377.html)
+2. [Evening Herald](http://www.herald.ie/entertainment/music/the-show-wonrsquot-go-on-as-elton-cancels-gig-at-the-o2-1928377.html)
+3. [Irish Independent](http://www.independent.ie/entertainment/news-gossip/elton-john-cancels-gig-at-the-o2-1928379.html)
 
 ### Related:
 

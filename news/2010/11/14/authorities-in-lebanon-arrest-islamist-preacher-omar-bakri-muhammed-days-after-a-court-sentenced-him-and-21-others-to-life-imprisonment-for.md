@@ -8,8 +8,8 @@ A radical Muslim cleric who once cheered the Sept. 11 terror attacks on the Unit
 ### Source:
 
 1. [Lebanese National News Agency](http://www.nna-leb.gov.lb/phpfolder/loadpage.php?page=E17.html)
-2. [UPI](http://www.upi.com/Top_News/World-News/2010/11/14/Radical-cleric-arrested-in-Lebanon/UPI-28431289747858/)
-3. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE6AD1SN20101114)
+2. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE6AD1SN20101114)
+3. [UPI](http://www.upi.com/Top_News/World-News/2010/11/14/Radical-cleric-arrested-in-Lebanon/UPI-28431289747858/)
 
 ### Related:
 

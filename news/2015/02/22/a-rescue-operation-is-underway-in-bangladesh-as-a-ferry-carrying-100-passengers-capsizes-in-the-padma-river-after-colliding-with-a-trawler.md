@@ -7,9 +7,9 @@ At least 39 people died in Bangladesh on Sunday when a passenger ferry capsized 
 
 ### Source:
 
-1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_BANGLADESH_FERRY_CAPSIZE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
-2. [CNN](http://edition.cnn.com/2015/02/22/asia/bangladesh-ferry-accident/index.html)
-3. [AAP via SBS](http://www.sbs.com.au/news/article/2015/02/23/death-toll-rises-bangladesh-ferry-disaster)
+1. [AAP via SBS](http://www.sbs.com.au/news/article/2015/02/23/death-toll-rises-bangladesh-ferry-disaster)
+2. [AP](http://hosted.ap.org/dynamic/stories/A/AS_BANGLADESH_FERRY_CAPSIZE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+3. [CNN](http://edition.cnn.com/2015/02/22/asia/bangladesh-ferry-accident/index.html)
 4. [Reuters](http://www.reuters.com/article/2015/02/22/us-bangladesh-ferry-idUSKBN0LQ05R20150222?feedType=RSS&feedName=worldNews)
 
 ### Related:

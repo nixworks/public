@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Yahoo/AFP](http://news.yahoo.com/s/afp/20051025/ts_afp/iraq_051025110145&printer=1)
-2. [DOD](http://www.defenselink.mil/releases/2005/nr20051025-4982.html)
+1. [DOD](http://www.defenselink.mil/releases/2005/nr20051025-4982.html)
+2. [Yahoo/AFP](http://news.yahoo.com/s/afp/20051025/ts_afp/iraq_051025110145&printer=1)
 
 ### Related:
 

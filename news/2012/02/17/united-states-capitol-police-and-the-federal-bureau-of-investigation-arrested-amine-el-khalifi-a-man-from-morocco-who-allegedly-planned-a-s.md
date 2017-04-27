@@ -7,8 +7,8 @@ The FBI and the U.S. Capitol Police arrested a man Friday after a lengthy invest
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/world/national-security/federal-agents-arrest-man-who-allegedly-planned-suicide-bombing-on-us-capitol/2012/02/17/gIQAtYZ7JR_story.html)
-2. [CNN](http://www.cnn.com/2012/02/17/justice/us-dc-security-threat-arrest/index.html?hpt=hp_t1)
+1. [CNN](http://www.cnn.com/2012/02/17/justice/us-dc-security-threat-arrest/index.html?hpt=hp_t1)
+2. [Washington Post](http://www.washingtonpost.com/world/national-security/federal-agents-arrest-man-who-allegedly-planned-suicide-bombing-on-us-capitol/2012/02/17/gIQAtYZ7JR_story.html)
 
 ### Related:
 

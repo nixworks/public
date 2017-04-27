@@ -7,8 +7,8 @@ High winds, heavy snow and torrential rain bring major disruption to roads, trai
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/uk/home-news/storm-doris-woman-killed-latest-wolverhampton-city-centre-high-street-gale-force-winds-rain-extreme-a7595331.html)
-2. [The Guardian](https://www.theguardian.com/uk-news/2017/feb/23/flights-cancelled-as-storm-doris-arrives)
+1. [The Guardian](https://www.theguardian.com/uk-news/2017/feb/23/flights-cancelled-as-storm-doris-arrives)
+2. [The Independent](http://www.independent.co.uk/news/uk/home-news/storm-doris-woman-killed-latest-wolverhampton-city-centre-high-street-gale-force-winds-rain-extreme-a7595331.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/news/articlenews.aspx?type=worldNews&storyID=2007-01-07T204640Z_01_L05456997_RTRUKOC_0_UK-SOMALIA-CONFLICT.xml&WTmodLoc=HP-C3-World-2)
-2. [AP via ABC News](http://abcnews.go.com/International/wireStory?id=2776889&CMP=OTC-RSSFeeds0312)
-3. [BBC](http://news.bbc.co.uk/2/hi/africa/6239035.stm)
+1. [AP via ABC News](http://abcnews.go.com/International/wireStory?id=2776889&CMP=OTC-RSSFeeds0312)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/6239035.stm)
+3. [Reuters](http://today.reuters.co.uk/news/articlenews.aspx?type=worldNews&storyID=2007-01-07T204640Z_01_L05456997_RTRUKOC_0_UK-SOMALIA-CONFLICT.xml&WTmodLoc=HP-C3-World-2)
 
 ### Related:
 

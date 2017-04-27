@@ -7,8 +7,8 @@ A Carnival cruise ship in the Caribbean is operating on emergency power in the w
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/cruiselog/2013/02/10/carnival-triumph-cruise-fire/1907187/)
-2. [ABC News](http://abcnews.go.com/blogs/lifestyle/2013/02/carnival-cruise-ship-stranded-near-mexico/)
+1. [ABC News](http://abcnews.go.com/blogs/lifestyle/2013/02/carnival-cruise-ship-stranded-near-mexico/)
+2. [USA Today](http://www.usatoday.com/story/cruiselog/2013/02/10/carnival-triumph-cruise-fire/1907187/)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Scientists at the Large Hadron Collider say the particle outlined in July 2012 l
 
 ### Source:
 
-1. [CERN](http://home.web.cern.ch/about/updates/2013/03/new-results-indicate-new-particle-higgs-boson)
-2. [BBC](http://www.bbc.co.uk/news/science-environment-21785205)
+1. [BBC](http://www.bbc.co.uk/news/science-environment-21785205)
+2. [CERN](http://home.web.cern.ch/about/updates/2013/03/new-results-indicate-new-particle-higgs-boson)
 
 ### Related:
 

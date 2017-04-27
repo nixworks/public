@@ -7,8 +7,8 @@ Israeli authorities said Tuesday that two Palestinians suspected of taking part 
 
 ### Source:
 
-1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-09-23-ML--Israel-Syria/id-f0ac6d45fe364b0fb0990c5698f1683c)
-2. [AP via Fox News](http://www.foxnews.com/world/2014/09/23/israel-says-two-palestinian-suspects-in-abduction-murder-die-in-shootout/)
+1. [AP via Fox News](http://www.foxnews.com/world/2014/09/23/israel-says-two-palestinian-suspects-in-abduction-murder-die-in-shootout/)
+2. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-09-23-ML--Israel-Syria/id-f0ac6d45fe364b0fb0990c5698f1683c)
 
 ### Related:
 

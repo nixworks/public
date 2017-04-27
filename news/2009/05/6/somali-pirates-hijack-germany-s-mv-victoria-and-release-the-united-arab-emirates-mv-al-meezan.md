@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters via ''Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/05/06/AR2009050600976.html)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601100&sid=aNbig_Ctrvco&refer=germany)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601100&sid=aNbig_Ctrvco&refer=germany)
+2. [Reuters via ''Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/05/06/AR2009050600976.html)
 
 ### Related:
 

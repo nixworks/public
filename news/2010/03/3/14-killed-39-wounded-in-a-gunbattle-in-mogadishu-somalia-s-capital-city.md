@@ -7,8 +7,8 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 
 ### Source:
 
-1. [Stuff](http://www.stuff.co.nz/world/africa/3401916/14-killed-in-Mogadishu-gunbattle)
-2. [Hurriyet](http://www.hurriyetdailynews.com/wires.php?id=3671952_somalia-mogadishu-somalia-14-killed-as-artillery-gunbattle-rages-in-somali-capital-govt-troops-attack-insurgent-area)
+1. [Hurriyet](http://www.hurriyetdailynews.com/wires.php?id=3671952_somalia-mogadishu-somalia-14-killed-as-artillery-gunbattle-rages-in-somali-capital-govt-troops-attack-insurgent-area)
+2. [Stuff](http://www.stuff.co.nz/world/africa/3401916/14-killed-in-Mogadishu-gunbattle)
 
 ### Related:
 

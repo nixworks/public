@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/06/27/AR2010062701754.html?hpid=sec-world)
-2. [Voice of America](http://www1.voanews.com/english/news/World-Leaders-Return-From-G20-Summit-with-Pledge-to-Slash-Deficits-97304899.html)
-3. [Forbes](http://www.forbes.com/feeds/ap/2010/06/28/general-energy-world-summit_7724393.html?boxes=Homepagebusinessnews)
+1. [Forbes](http://www.forbes.com/feeds/ap/2010/06/28/general-energy-world-summit_7724393.html?boxes=Homepagebusinessnews)
+2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/06/27/AR2010062701754.html?hpid=sec-world)
+3. [Voice of America](http://www1.voanews.com/english/news/World-Leaders-Return-From-G20-Summit-with-Pledge-to-Slash-Deficits-97304899.html)
 
 ### Related:
 

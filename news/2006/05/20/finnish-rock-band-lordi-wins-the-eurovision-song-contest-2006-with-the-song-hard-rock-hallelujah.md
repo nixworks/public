@@ -7,6 +7,6 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2006/SHOWBIZ/Music/05/20/eurovision.ap/)
-2. [BBC](http://news.bbc.co.uk/1/hi/entertainment/4998186.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/entertainment/4998186.stm)
+2. [CNN](http://edition.cnn.com/2006/SHOWBIZ/Music/05/20/eurovision.ap/)
 3. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=entertainmentNews&storyID=2006-05-20T221457Z_01_L20368297_RTRUKOC_0_UK-LEISURE-EUROVISION-WINNER.xml)

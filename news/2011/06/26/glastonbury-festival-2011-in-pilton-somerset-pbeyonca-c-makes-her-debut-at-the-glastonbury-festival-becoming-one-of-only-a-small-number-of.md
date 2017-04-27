@@ -7,10 +7,10 @@ US star Beyonce makes her debut at Glastonbury, bringing the three-day festival 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/uk-england-somerset-13918856)
-2. [The Guardian](http://www.guardian.co.uk/music/2011/jun/27/beyonce-glastonbury-2011-review)
+1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-13919280)
+2. [BBC](http://www.bbc.co.uk/news/uk-england-somerset-13918856)
 3. [The Guardian](http://www.guardian.co.uk/music/2011/jun/26/senior-tory-glastonbury-christopher-shale)
-4. [BBC](http://www.bbc.co.uk/news/entertainment-arts-13919280)
+4. [The Guardian](http://www.guardian.co.uk/music/2011/jun/27/beyonce-glastonbury-2011-review)
 
 ### Related:
 

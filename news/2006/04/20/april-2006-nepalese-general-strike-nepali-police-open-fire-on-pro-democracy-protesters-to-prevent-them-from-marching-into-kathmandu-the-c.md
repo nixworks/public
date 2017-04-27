@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2006-04-20T103657Z_01_L1969978_RTRUKOC_0_UK-NEPAL.xml)
-2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4927556.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4927556.stm)
+2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2006-04-20T103657Z_01_L1969978_RTRUKOC_0_UK-NEPAL.xml)
 
 ### Related:
 

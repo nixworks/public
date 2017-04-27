@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2009/WORLD/europe/11/17/czech.velvet.revolution.1989/)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8363827.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8363827.stm)
+2. [CNN](http://edition.cnn.com/2009/WORLD/europe/11/17/czech.velvet.revolution.1989/)
 
 ### Related:
 

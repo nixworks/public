@@ -7,8 +7,8 @@ Go to NBCNews.com for breaking news, videos, and the latest top stories in world
 
 ### Source:
 
-1. [Reuters via NBC](http://www.nbcnews.com/#/news/weather/typhoon-rammasun-wallops-philippines-leaving-least-ten-dead-n156181)
-2. [CNN](http://edition.cnn.com/2014/07/15/world/asia/philippines-typhoon-rammasun/)
+1. [CNN](http://edition.cnn.com/2014/07/15/world/asia/philippines-typhoon-rammasun/)
+2. [Reuters via NBC](http://www.nbcnews.com/#/news/weather/typhoon-rammasun-wallops-philippines-leaving-least-ten-dead-n156181)
 
 ### Related:
 

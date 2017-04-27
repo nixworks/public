@@ -7,11 +7,11 @@ Typhoon Haitang, which brought tremendous rainfall and caused dozens of casualti
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2005-07/20/content_3243247.htm)
-2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/158824/1/.html)
+1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/158824/1/.html)
+2. [People's Daily](http://english.people.com.cn/200507/20/eng20050720_197216.html)
 3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/PEK324099.htm)
 4. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2005/07/20/2003264219)
-5. [People's Daily](http://english.people.com.cn/200507/20/eng20050720_197216.html)
+5. [Xinhua](http://news.xinhuanet.com/english/2005-07/20/content_3243247.htm)
 
 ### Related:
 

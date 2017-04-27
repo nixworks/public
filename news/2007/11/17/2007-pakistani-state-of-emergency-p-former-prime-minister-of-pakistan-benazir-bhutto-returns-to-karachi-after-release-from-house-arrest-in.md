@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7099122.stm)
-2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7099567.stm)
-3. [All Things Pakistan](http://pakistaniat.com/2007/11/17/pakistan-media-crackdown-geo-and-ary-silenced/)
+1. [All Things Pakistan](http://pakistaniat.com/2007/11/17/pakistan-media-crackdown-geo-and-ary-silenced/)
+2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7099122.stm)
+3. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7099567.stm)
 
 ### Related:
 

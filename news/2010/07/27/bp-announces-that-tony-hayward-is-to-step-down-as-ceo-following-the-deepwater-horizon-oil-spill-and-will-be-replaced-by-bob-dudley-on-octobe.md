@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [TV New Zealand](http://tvnz.co.nz/world-news/bp-ceo-tony-hayward-has-stepped-down-3675696)
-2. [Bloomberg](http://www.bloomberg.com/news/2010-07-27/bp-reports-record-quarterly-loss-on-oil-spill-as-dudley-replaces-hayward.html)
+1. [Bloomberg](http://www.bloomberg.com/news/2010-07-27/bp-reports-record-quarterly-loss-on-oil-spill-as-dudley-replaces-hayward.html)
+2. [TV New Zealand](http://tvnz.co.nz/world-news/bp-ceo-tony-hayward-has-stepped-down-3675696)
 
 ### Related:
 

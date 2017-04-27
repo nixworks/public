@@ -7,10 +7,10 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8765686)
-2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L08712352.htm)
-3. [IHT](http://www.iht.com/articles/2005/06/12/news/italy.php)
-4. [BBC](http://news.bbc.co.uk/2/hi/europe/4086296.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4086296.stm)
+2. [IHT](http://www.iht.com/articles/2005/06/12/news/italy.php)
+3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L08712352.htm)
+4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8765686)
 
 ### Related:
 

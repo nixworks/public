@@ -7,10 +7,10 @@ Tens of thousands of pilgrims have flocked to one of Christianity&#39;s most pop
 
 ### Source:
 
-1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/pope-recalls-john-paul-fatima-shooting-20100513-uye5.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/8678056.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8678056.stm)
+2. [France24](http://www.france24.com/en/20100512-vast-crowd-cheers-pope-arrival-fatima)
 3. [RTÉ](http://www.rte.ie/news/2010/0512/pope.html)
-4. [France24](http://www.france24.com/en/20100512-vast-crowd-cheers-pope-arrival-fatima)
+4. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/pope-recalls-john-paul-fatima-shooting-20100513-uye5.html)
 
 ### Related:
 

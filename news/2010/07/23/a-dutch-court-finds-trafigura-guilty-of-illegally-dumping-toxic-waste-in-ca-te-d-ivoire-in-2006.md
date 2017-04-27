@@ -7,8 +7,8 @@ A Dutch court finds multinational firm Trafigura guilty of illegally exporting t
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2010/jul/23/trafigura-dutch-fine-waste-export)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-10735255)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-10735255)
+2. [The Guardian](http://www.guardian.co.uk/world/2010/jul/23/trafigura-dutch-fine-waste-export)
 
 ### Related:
 

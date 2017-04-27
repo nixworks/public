@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sina](http://english.sina.com/world/2012/0908/504552.html)
-2. [Bokhdi](http://bokhdinews.af/english/internal/7845-Afghans-commemorate-late-resistance-leader-Masoud)
+1. [Bokhdi](http://bokhdinews.af/english/internal/7845-Afghans-commemorate-late-resistance-leader-Masoud)
+2. [Sina](http://english.sina.com/world/2012/0908/504552.html)
 3. [The Frontier Post](http://www.thefrontierpost.com/news/7916/)
 
 ### Related:

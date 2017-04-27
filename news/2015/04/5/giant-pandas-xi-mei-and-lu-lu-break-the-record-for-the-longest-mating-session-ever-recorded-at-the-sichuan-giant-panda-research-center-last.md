@@ -7,5 +7,5 @@ Mating session between Xi Mei and Lu Lu lasted 18 minutes and three seconds and 
 
 ### Source:
 
-1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/11516700/Giant-pandas-in-China-set-record-for-longest-recorded-sex-session.html)
-2. [The Strait Times](http://www.straitstimes.com/news/asia/east-asia/story/pandas-breaks-record-mating-session-18-minutes-broadcast-online-20150405)
+1. [The Strait Times](http://www.straitstimes.com/news/asia/east-asia/story/pandas-breaks-record-mating-session-18-minutes-broadcast-online-20150405)
+2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/11516700/Giant-pandas-in-China-set-record-for-longest-recorded-sex-session.html)

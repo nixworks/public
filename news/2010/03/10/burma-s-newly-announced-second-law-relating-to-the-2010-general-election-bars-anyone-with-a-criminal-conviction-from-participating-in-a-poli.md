@@ -7,9 +7,9 @@ Military announces election law disqualifying anyone convicted of a crime.
 
 ### Source:
 
-1. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_500270.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/03/2010310513981448.html)
 2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/03/10/myanmar.election.law/)
-3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/03/2010310513981448.html)
+3. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_500270.html)
 
 ### Related:
 

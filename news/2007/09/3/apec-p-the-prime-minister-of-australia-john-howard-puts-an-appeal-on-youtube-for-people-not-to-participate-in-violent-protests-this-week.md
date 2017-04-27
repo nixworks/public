@@ -7,8 +7,8 @@ The Sydney Morning Herald 404 Page
 
 ### Source:
 
-1. [ABC News Australia](http://abc.net.au/news/stories/2007/09/03/2022283.htm)
-2. [AAP via the Sydney Morning Herald](http://www.smh.com.au/news/National/PM-spruiks-APEC-via-YouTube/2007/09/03/1188671827620.html)
+1. [AAP via the Sydney Morning Herald](http://www.smh.com.au/news/National/PM-spruiks-APEC-via-YouTube/2007/09/03/1188671827620.html)
+2. [ABC News Australia](http://abc.net.au/news/stories/2007/09/03/2022283.htm)
 3. [AP via International Herald Tribune](http://www.iht.com/articles/ap/2007/09/03/asia/AS-GEN-APEC.php)
 
 ### Related:

@@ -8,9 +8,9 @@ The Libyan Government has pitched a tent in suburban New York that leader Muamma
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8270450.stm)
-2. [The Sydney Morning Herald](http://www.smh.com.au/world/gadhafis-trump-card-a-tent-in-new-york-20090923-g1oz.html)
-3. [South China Morning Post](http://www.scmp.com/vgn-ext-templating/v/index.jsp?vgnextoid=ae43ca15365e3210VgnVCM100000360a0a0aRCRD&s=News&ss=Asia+%26+World)
-4. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10599135&ref=rss)
+2. [South China Morning Post](http://www.scmp.com/vgn-ext-templating/v/index.jsp?vgnextoid=ae43ca15365e3210VgnVCM100000360a0a0aRCRD&s=News&ss=Asia+%26+World)
+3. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10599135&ref=rss)
+4. [The Sydney Morning Herald](http://www.smh.com.au/world/gadhafis-trump-card-a-tent-in-new-york-20090923-g1oz.html)
 5. [The Times](http://www.timesonline.co.uk/tol/news/world/us_and_americas/article6845459.ece#cid=OTC-RSS&attr=797093)
 
 ### Related:

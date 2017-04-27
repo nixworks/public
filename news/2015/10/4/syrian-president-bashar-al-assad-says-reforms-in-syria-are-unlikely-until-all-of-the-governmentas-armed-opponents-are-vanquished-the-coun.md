@@ -7,9 +7,9 @@ A 2,000-year-old Roman arch of triumph in the ancient city of Palmyra in Syria h
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/world/middle_east/assad-says-no-peace-settlement-until-war-against-terrorists-is-won/2015/10/04/2ec11b7c-6914-11e5-bdb6-6861f4521205_story.html)
+1. [AP](http://hosted.ap.org/dynamic/stories/M/ML_SYRIA_ISLAMIC_STATE_DESTROYING_HERITAGE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [The Independent](http://www.independent.co.uk/news/world/middle-east/palmyra-isis-destroys-roman-triumphal-arch-in-ancient-syrian-city-a6679526.html)
-3. [AP](http://hosted.ap.org/dynamic/stories/M/ML_SYRIA_ISLAMIC_STATE_DESTROYING_HERITAGE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+3. [The Washington Post](https://www.washingtonpost.com/world/middle_east/assad-says-no-peace-settlement-until-war-against-terrorists-is-won/2015/10/04/2ec11b7c-6914-11e5-bdb6-6861f4521205_story.html)
 
 ### Related:
 

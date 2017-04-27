@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/reuters/2016/05/10/world/americas/10reuters-brazil-politics.html?ref=world&_r=0)
-2. [India.Com](http://www.india.com/news/world/brazils-senate-debates-impeaching-cornered-dilma-rousseff-1178928/)
+1. [India.Com](http://www.india.com/news/world/brazils-senate-debates-impeaching-cornered-dilma-rousseff-1178928/)
+2. [New York Times](http://www.nytimes.com/reuters/2016/05/10/world/americas/10reuters-brazil-politics.html?ref=world&_r=0)
 
 ### Related:
 

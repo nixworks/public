@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20060123/nairobi_building_060123/20060123?hub=TopStories)
-2. [Sky News](http://www.sky.com/skynews/article/0,,30000-1210041,00.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/africa/4639532.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4639532.stm)
+2. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20060123/nairobi_building_060123/20060123?hub=TopStories)
+3. [Sky News](http://www.sky.com/skynews/article/0,,30000-1210041,00.html)
 
 ### Related:
 

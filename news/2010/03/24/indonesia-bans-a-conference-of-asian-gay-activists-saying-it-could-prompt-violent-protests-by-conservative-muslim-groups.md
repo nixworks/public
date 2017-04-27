@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/aponline/2010/03/24/world/AP-AS-Indonesia-Gay-Conference.html?_r=2&ref=newsThe)
+1. [AsiaOne](http://news.asiaone.com/News/Latest%2BNews/Asia/Story/A1Story20100324-206553.html)
 2. [Jakarta Post](http://www.thejakartapost.com/news/2010/03/24/association-decries-police-ban-conference.html)
-3. [AsiaOne](http://news.asiaone.com/News/Latest%2BNews/Asia/Story/A1Story20100324-206553.html)
+3. [The New York Times](http://www.nytimes.com/aponline/2010/03/24/world/AP-AS-Indonesia-Gay-Conference.html?_r=2&ref=newsThe)
 
 ### Related:
 

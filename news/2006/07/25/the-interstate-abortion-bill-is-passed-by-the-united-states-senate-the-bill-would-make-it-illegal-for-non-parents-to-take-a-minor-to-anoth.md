@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/07/25/AR2006072501197_pf.html)
-2. [Congress Record, Not yet updated](http://www.congress.gov/cgi-bin/bdquery/z?d109:S.403:)
+1. [Congress Record, Not yet updated](http://www.congress.gov/cgi-bin/bdquery/z?d109:S.403:)
+2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/07/25/AR2006072501197_pf.html)
 
 ### Related:
 

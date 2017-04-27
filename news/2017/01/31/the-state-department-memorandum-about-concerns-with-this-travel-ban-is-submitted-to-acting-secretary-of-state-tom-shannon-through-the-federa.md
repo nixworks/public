@@ -7,8 +7,8 @@ About 900 State Department officials so far have signed an internal memo protest
 
 ### Source:
 
-1. [The New York Times](https://www.nytimes.com/2017/01/31/world/americas/state-dept-dissent-cable-trump-immigration-order.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=a-lede-package-region&region=top-news&WT.nav=top-news&_r=0)
-2. [Reuters and AFP-JIJI via ''The Japan Times](http://www.japantimes.co.jp/news/2017/02/01/world/politics-diplomacy-world/900-state-department-officials-sign-unprecedented-protest-memo-travel-ban/#.WJGG0oWcHIU)
+1. [Reuters and AFP-JIJI via ''The Japan Times](http://www.japantimes.co.jp/news/2017/02/01/world/politics-diplomacy-world/900-state-department-officials-sign-unprecedented-protest-memo-travel-ban/#.WJGG0oWcHIU)
+2. [The New York Times](https://www.nytimes.com/2017/01/31/world/americas/state-dept-dissent-cable-trump-immigration-order.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=a-lede-package-region&region=top-news&WT.nav=top-news&_r=0)
 3. [Voice of America](http://www.voanews.com/a/over-a-thousand-state-dept-personnel-officially-dissent-to-immigration-order/3700399.html)
 
 ### Related:

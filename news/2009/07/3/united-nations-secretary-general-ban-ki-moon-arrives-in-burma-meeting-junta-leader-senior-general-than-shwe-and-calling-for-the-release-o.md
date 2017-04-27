@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bangkok Post](http://www.bangkokpost.com/news/world/147864/un-chief-meets-burma-leaders-to-discuss-suu-kyi)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8131869.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8131869.stm)
+2. [Bangkok Post](http://www.bangkokpost.com/news/world/147864/un-chief-meets-burma-leaders-to-discuss-suu-kyi)
 
 ### Related:
 

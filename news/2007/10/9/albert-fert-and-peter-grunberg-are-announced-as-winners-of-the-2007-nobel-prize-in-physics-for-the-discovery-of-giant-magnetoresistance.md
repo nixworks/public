@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/tech/science/2007-10-09-nobel-physics_N.htm)
-2. [Nobelprize.org](http://nobelprize.org/nobel_prizes/physics/laureates/2007/)
+1. [Nobelprize.org](http://nobelprize.org/nobel_prizes/physics/laureates/2007/)
+2. [USA Today](http://www.usatoday.com/tech/science/2007-10-09-nobel-physics_N.htm)
 
 ### Related:
 

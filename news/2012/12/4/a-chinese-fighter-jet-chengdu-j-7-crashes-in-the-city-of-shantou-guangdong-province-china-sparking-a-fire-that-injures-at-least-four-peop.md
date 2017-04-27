@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bangkok Post](http://www.bangkokpost.com/news/asia/324631/four-injured-in-china-fighter-jet-crash-government)
-2. [AP via ''The Guardian](http://www.guardian.co.uk/world/feedarticle/10556400)
+1. [AP via ''The Guardian](http://www.guardian.co.uk/world/feedarticle/10556400)
+2. [Bangkok Post](http://www.bangkokpost.com/news/asia/324631/four-injured-in-china-fighter-jet-crash-government)
 
 ### Related:
 

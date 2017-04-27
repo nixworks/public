@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [FOX](http://www.foxsports.com.au/story/0,8659,21837659-23212,00.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/6714545.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/6714545.stm)
+2. [FOX](http://www.foxsports.com.au/story/0,8659,21837659-23212,00.html)
 
 ### Related:
 

@@ -9,8 +9,8 @@ In Wyoming, Romney won seven delegates. Santorum gained three and Paul one.
 
 1. [National Journal](http://www.nationaljournal.com/2012-presidential-campaign/romney-wins-guam-delegates-20120309?mrefid=election2012)
 2. [USA Today](http://www.usatoday.com/news/politics/story/2012-03-10/kansas-wyoming-caucuses/53463578/1)
-3. [Washington Post](http://www.washingtonpost.com/world/romney-wins-in-northern-marianas-caucus-with-gop-chairmans-endorsement-picks-up-9-delegates/2012/03/10/gIQA9S322R_story.html)
-4. [Wall Street Journal](http://online.wsj.com/article/SB10001424052970204781804577273720613236292.html?mod=googlenews_wsj)
+3. [Wall Street Journal](http://online.wsj.com/article/SB10001424052970204781804577273720613236292.html?mod=googlenews_wsj)
+4. [Washington Post](http://www.washingtonpost.com/world/romney-wins-in-northern-marianas-caucus-with-gop-chairmans-endorsement-picks-up-9-delegates/2012/03/10/gIQA9S322R_story.html)
 
 ### Related:
 

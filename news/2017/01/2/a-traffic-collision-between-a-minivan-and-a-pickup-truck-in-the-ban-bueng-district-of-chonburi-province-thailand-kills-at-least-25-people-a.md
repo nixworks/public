@@ -7,8 +7,8 @@ Two toddlers among the victims of crash involving a minivan and a pick-up truck 
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2017/01/02/asia/thailand-highway-crash/index.html)
-2. [Al Jazeera](http://www.aljazeera.com/news/2017/01/massive-road-accident-kills-25-people-thailand-170102140942688.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/2017/01/massive-road-accident-kills-25-people-thailand-170102140942688.html)
+2. [CNN](http://edition.cnn.com/2017/01/02/asia/thailand-highway-crash/index.html)
 
 ### Related:
 

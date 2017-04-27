@@ -8,12 +8,12 @@ Severe storms blowing across the Southeast killed at least five people in Georgi
 ### Source:
 
 1. [11 Alive](http://www.11alive.com/news/article/185683/3/Atlanta-storms-spawn-possible-Gilmer-County-tornado-kill-8-people)
-2. [WDSU](http://www.wdsu.com/r/27371422/detail.html)
-3. [Reuters](http://www.reuters.com/article/2011/04/05/us-weather-deaths-idUSTRE7343R820110405?feedType=RSS&feedName=domesticNews)
-4. [The Tennesseean](http://www.tennessean.com/article/20110405/NEWS21/104050326/-1/MTCN06/Storms-leave-trail-fear-damage-across-much-TN)
-5. [LEX18](http://www.lex18.com/news/seven-reportedly-hurt-at-hopkinsville-plant)
+2. [Huffington Post](http://www.huffingtonpost.com/2011/04/04/nashville-tornado-tennessee_n_844651.html)
+3. [LEX18](http://www.lex18.com/news/seven-reportedly-hurt-at-hopkinsville-plant)
+4. [Reuters](http://www.reuters.com/article/2011/04/05/us-weather-deaths-idUSTRE7343R820110405?feedType=RSS&feedName=domesticNews)
+5. [The Tennesseean](http://www.tennessean.com/article/20110405/NEWS21/104050326/-1/MTCN06/Storms-leave-trail-fear-damage-across-much-TN)
 6. [The Weather Space](http://www.theweatherspace.com/news/TWS-04_05_2011_mondayreports.html)
-7. [Huffington Post](http://www.huffingtonpost.com/2011/04/04/nashville-tornado-tennessee_n_844651.html)
+7. [WDSU](http://www.wdsu.com/r/27371422/detail.html)
 
 ### Related:
 

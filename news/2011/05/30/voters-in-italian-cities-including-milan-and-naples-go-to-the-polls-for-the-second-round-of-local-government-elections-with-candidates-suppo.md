@@ -8,8 +8,8 @@ Italian Prime Minister Silvio Berlusconi loses the key cities of Milan and Naple
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13591870)
-2. [Voice of America](http://www.voanews.com/english/news/europe/Berlusconi-Party-Defeated-in-Key-Italian-Mayoral-Elections-122832384.html)
-3. [Bloomberg BusinessWeek](http://www.businessweek.com/news/2011-05-30/berlusconi-s-grip-on-power-shaken-after-local-election-defeat.html)
+2. [Bloomberg BusinessWeek](http://www.businessweek.com/news/2011-05-30/berlusconi-s-grip-on-power-shaken-after-local-election-defeat.html)
+3. [Voice of America](http://www.voanews.com/english/news/europe/Berlusconi-Party-Defeated-in-Key-Italian-Mayoral-Elections-122832384.html)
 
 ### Related:
 

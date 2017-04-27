@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Radio Polonia](http://www.radio.com.pl/polonia/article.asp?tId=23863&j=2)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/4084324.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4084324.stm)
+2. [Radio Polonia](http://www.radio.com.pl/polonia/article.asp?tId=23863&j=2)
 
 ### Related:
 

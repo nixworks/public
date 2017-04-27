@@ -7,9 +7,9 @@ Cuba has agreed to move political prisoners held in far-off jails to facilities 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE64M06420100523)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/latin_america/10144419.stm)
 2. [Press Trust of India](http://www.ptinews.com/news/664407_Cuba-to-move-prisoners--treat-sick--hunger-striker)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/latin_america/10144419.stm)
+3. [Reuters](http://www.reuters.com/article/idUSTRE64M06420100523)
 
 ### Related:
 

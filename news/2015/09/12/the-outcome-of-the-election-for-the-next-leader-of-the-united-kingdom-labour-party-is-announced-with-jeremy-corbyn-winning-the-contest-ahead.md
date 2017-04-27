@@ -7,8 +7,8 @@ Jeremy Corbyn records extraordinary victory in Labour leadership election with m
 
 ### Source:
 
-1. [The Telegraph](http://www.telegraph.co.uk/news/politics/labour/11860227/labour-leadership-election-results.html)
-2. [Evening Standard](http://www.standard.co.uk/news/uk/labour-leadership-jeremy-corbyn-snatches-partys-top-job-beating-2001-odds-a2945926.html)
+1. [Evening Standard](http://www.standard.co.uk/news/uk/labour-leadership-jeremy-corbyn-snatches-partys-top-job-beating-2001-odds-a2945926.html)
+2. [The Telegraph](http://www.telegraph.co.uk/news/politics/labour/11860227/labour-leadership-election-results.html)
 
 ### Related:
 

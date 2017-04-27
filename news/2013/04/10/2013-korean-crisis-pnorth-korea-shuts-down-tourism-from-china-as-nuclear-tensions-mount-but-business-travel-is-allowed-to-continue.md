@@ -7,8 +7,8 @@ The biggest border crossing between North Korea and China has been closed to tou
 
 ### Source:
 
-1. [AFP via Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/s-korea-raises-alert/633702.html)
-2. [AFP via ''Brisbane Times](http://www.brisbanetimes.com.au/world/north-korea-closes-china-border-to-tourists-20130410-2hkpv.html)
+1. [AFP via ''Brisbane Times](http://www.brisbanetimes.com.au/world/north-korea-closes-china-border-to-tourists-20130410-2hkpv.html)
+2. [AFP via Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/s-korea-raises-alert/633702.html)
 3. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2013/04/10/49/0401000000AEN20130410007352320F.HTML)
 
 ### Related:

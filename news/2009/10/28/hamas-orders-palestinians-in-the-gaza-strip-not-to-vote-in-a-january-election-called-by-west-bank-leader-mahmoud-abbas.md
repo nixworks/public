@@ -7,9 +7,9 @@ Interior ministry tells Gazans not to co-operate with elections called by presid
 
 ### Source:
 
-1. [Press TV](http://www.presstv.ir/detail.aspx?id=109885&sectionid=351020202)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/10/20091028134049478750.html)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8330743.stm)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/10/20091028134049478750.html)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8330743.stm)
+3. [Press TV](http://www.presstv.ir/detail.aspx?id=109885&sectionid=351020202)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The war crimes court at The Hague found Congolese warlord Thomas Lubanga Dyilo g
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/03/14/us-court-lubanga-idUSBRE82D0J620120314?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-17356339)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-17356339)
+2. [Reuters](http://www.reuters.com/article/2012/03/14/us-court-lubanga-idUSBRE82D0J620120314?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
 
 ### Related:
 

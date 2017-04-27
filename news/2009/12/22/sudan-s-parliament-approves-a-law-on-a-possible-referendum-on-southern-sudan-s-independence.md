@@ -7,8 +7,8 @@ South Sudanese MPs walk out of parliament as bill paves way for independence vot
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/12/2009122214635825837.html)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jT0Fog3PFj_fX6g0SNQHomSPB3ng)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jT0Fog3PFj_fX6g0SNQHomSPB3ng)
+2. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/12/2009122214635825837.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ SAN JUAN, Puerto Rico (AP) — Hillary Clinton overwhelmed Bernie Sanders in Pue
 
 ### Source:
 
-1. [AP](http://bigstory.ap.org/article/5d564d5293994178a96e81994589eedf/puerto-rico-votes-clinton-closes-dem-nomination)
-2. [AP via ''U.S. News & World Report](http://www.usnews.com/news/politics/articles/2016-06-05/puerto-rico-votes-as-clinton-closes-in-on-dem-nomination)
+1. [AP via ''U.S. News & World Report](http://www.usnews.com/news/politics/articles/2016-06-05/puerto-rico-votes-as-clinton-closes-in-on-dem-nomination)
+2. [AP](http://bigstory.ap.org/article/5d564d5293994178a96e81994589eedf/puerto-rico-votes-clinton-closes-dem-nomination)
 3. [CNN](http://edition.cnn.com/2016/06/05/politics/puerto-rico-democratic-primary-hillary-clinton-bernie-sanders/)
 4. [NPR](http://www.npr.org/2016/06/05/480848352/clinton-wins-puerto-rico-primary-now-just-shy-of-clinching-nomination)
 

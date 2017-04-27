@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [SR International](http://www.sr.se/cgi-bin/International/nyhetssidor/artikel.asp?ProgramID=2054&Nyheter=&artikel=1960590)
-2. [Dagens Nyheter](http://www.dn.se/DNet/jsp/polopoly.jsp?d=2204&a=753028)
+1. [Dagens Nyheter](http://www.dn.se/DNet/jsp/polopoly.jsp?d=2204&a=753028)
+2. [SR International](http://www.sr.se/cgi-bin/International/nyhetssidor/artikel.asp?ProgramID=2054&Nyheter=&artikel=1960590)
 
 ### Related:
 

@@ -7,8 +7,8 @@ A third uninvited guest made it into a White House state dinner in honor of the 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE6033VS20100104)
-2. [Associated Press](http://www.breitbart.com/article.php?id=D9D159K80&show_article=1)
+1. [Associated Press](http://www.breitbart.com/article.php?id=D9D159K80&show_article=1)
+2. [Reuters](http://www.reuters.com/article/idUSTRE6033VS20100104)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Time](http://time.com/78080/pope-canonization-preparation/)
-2. [CNN](http://edition.cnn.com/2014/04/27/world/pope-canonization/?hpt=hp_t2)
+1. [CNN](http://edition.cnn.com/2014/04/27/world/pope-canonization/?hpt=hp_t2)
+2. [Time](http://time.com/78080/pope-canonization-preparation/)
 
 ### Related:
 

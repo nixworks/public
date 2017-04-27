@@ -7,8 +7,8 @@ The popular multi-platform, note-taking web application Evernote has had its mas
 
 ### Source:
 
-1. [ZD Net](http://www.zdnet.com/evernote-hacked-forces-password-reset-7000012045/)
-2. [PC Magazine](http://www.pcmag.com/article2/0,2817,2416157,00.asp)
+1. [PC Magazine](http://www.pcmag.com/article2/0,2817,2416157,00.asp)
+2. [ZD Net](http://www.zdnet.com/evernote-hacked-forces-password-reset-7000012045/)
 
 ### Related:
 

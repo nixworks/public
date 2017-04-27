@@ -7,8 +7,8 @@ Overwhelming support and record turnout among black voters and her best showing 
 
 ### Source:
 
-1. [AL.com](http://www.al.com/news/index.ssf/2016/02/south_carolina_democratic_prim.html)
-2. [ABC](http://abcnews.go.com/Politics/live-south-carolina-democratic-primary-exit-poll-analysis/story?id=37241467)
+1. [ABC](http://abcnews.go.com/Politics/live-south-carolina-democratic-primary-exit-poll-analysis/story?id=37241467)
+2. [AL.com](http://www.al.com/news/index.ssf/2016/02/south_carolina_democratic_prim.html)
 3. [The Guardian](http://www.theguardian.com/us-news/live/2016/feb/27/south-carolina-democratic-primary-hillary-clinton-bernie-sanders-campaign-live)
 
 ### Related:

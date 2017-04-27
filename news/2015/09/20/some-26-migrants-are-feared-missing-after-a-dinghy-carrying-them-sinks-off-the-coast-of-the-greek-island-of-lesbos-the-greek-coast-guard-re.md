@@ -7,10 +7,10 @@ The Italian coastguard has said nearly 4,700 migrants were rescued from boats in
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-europe-34307745)
-2. [RTE](http://www.rte.ie/news/2015/0920/729049-migrants/)
-3. [i24 News](http://www.i24news.tv/en/news/international/86378-150920-13-000-migrants-arrive-in-austria-aid-agency)
-4. [AP via WSB-TV2](http://www.wsbtv.com/news/ap/top-news/greek-coast-guard-searching-for-26-missing-migrant/nnjZ8/)
+1. [AP via WSB-TV2](http://www.wsbtv.com/news/ap/top-news/greek-coast-guard-searching-for-26-missing-migrant/nnjZ8/)
+2. [BBC](http://www.bbc.com/news/world-europe-34307745)
+3. [RTE](http://www.rte.ie/news/2015/0920/729049-migrants/)
+4. [i24 News](http://www.i24news.tv/en/news/international/86378-150920-13-000-migrants-arrive-in-austria-aid-agency)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Asylum seekers involved in a wild brawl on Christmas Island are being threatened
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8373560.stm)
-2. [Xinhua](http://news.xinhuanet.com/english/2009-11/23/content_12525172.htm)
-3. [ABC News](http://www.abc.net.au/news/stories/2009/11/23/2751302.htm?section=australia)
+1. [ABC News](http://www.abc.net.au/news/stories/2009/11/23/2751302.htm?section=australia)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8373560.stm)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-11/23/content_12525172.htm)
 
 ### Related:
 

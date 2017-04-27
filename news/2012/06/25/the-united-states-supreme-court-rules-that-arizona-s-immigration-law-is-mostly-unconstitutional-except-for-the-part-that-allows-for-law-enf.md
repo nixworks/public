@@ -7,8 +7,8 @@ US supreme court strikes down some provisions of a controversial immigration law
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2012/06/25/politics/scotus-arizona-law/index.html?hpt=hp_t1)
-2. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/06/201262515920306680.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/06/201262515920306680.html)
+2. [CNN](http://www.cnn.com/2012/06/25/politics/scotus-arizona-law/index.html?hpt=hp_t1)
 
 ### Related:
 

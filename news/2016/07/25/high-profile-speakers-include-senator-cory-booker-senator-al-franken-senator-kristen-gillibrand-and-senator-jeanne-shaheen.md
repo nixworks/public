@@ -7,10 +7,10 @@ Democrats are kicking off their convention with a prime-time lineup of some of t
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/news/post-politics/paloma/the-daily-trail/2016/07/25/the-daily-trail-breaking-apparently-the-revolution-will-be-televised-after-all/57967e084acce2050515b979/)
-2. [ABC News](http://abcnews.go.com/Politics/bernie-sanders-booed-supporters-ahead-democratic-national-convention/story?id=40857311)
-3. [CNN](https://amp.cnn.com/cnn/2016/07/25/politics/democratic-convention-celebrities-dnc-katy-perry-demi-lovato-rosario-dawson/index.html)
-4. [Los Angeles Times](http://www.latimes.com/nation/politics/trailguide/la-na-democratic-convention-2016-live-keynote-address-by-elizabeth-warren-1469443430-htmlstory.html)
+1. [ABC News](http://abcnews.go.com/Politics/bernie-sanders-booed-supporters-ahead-democratic-national-convention/story?id=40857311)
+2. [CNN](https://amp.cnn.com/cnn/2016/07/25/politics/democratic-convention-celebrities-dnc-katy-perry-demi-lovato-rosario-dawson/index.html)
+3. [Los Angeles Times](http://www.latimes.com/nation/politics/trailguide/la-na-democratic-convention-2016-live-keynote-address-by-elizabeth-warren-1469443430-htmlstory.html)
+4. [The Washington Post](https://www.washingtonpost.com/news/post-politics/paloma/the-daily-trail/2016/07/25/the-daily-trail-breaking-apparently-the-revolution-will-be-televised-after-all/57967e084acce2050515b979/)
 5. [Variety](http://variety.com/2016/music/news/paul-simon-demi-lovato-democratic-national-convention-1201822403/)
 
 ### Related:

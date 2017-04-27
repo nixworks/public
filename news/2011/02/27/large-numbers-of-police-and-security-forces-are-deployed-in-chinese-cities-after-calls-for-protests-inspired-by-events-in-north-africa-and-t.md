@@ -7,8 +7,8 @@ Beijing: Security was stepped up here today to check strolling protests called b
 
 ### Source:
 
-1. [Sify India](http://www.sify.com/news/security-stepped-up-to-check-strolling-protests-in-china-news-international-lc1sadjcfdc.html)
-2. [Financial Times](http://www.ft.com/cms/s/0/e7a66d8a-422d-11e0-8b34-00144feabdc0.html?ftcamp=rss)
+1. [Financial Times](http://www.ft.com/cms/s/0/e7a66d8a-422d-11e0-8b34-00144feabdc0.html?ftcamp=rss)
+2. [Sify India](http://www.sify.com/news/security-stepped-up-to-check-strolling-protests-in-china-news-international-lc1sadjcfdc.html)
 
 ### Related:
 

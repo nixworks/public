@@ -7,8 +7,8 @@ A railroad bridge collapsed on Friday over a creek in southern New Jersey, causi
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/11/30/us-usa-train-derailment-idUSBRE8AT0PF20121130)
-2. [NY Daily News](http://www.nydailynews.com/news/national/train-derails-n-spills-toxic-chemicals-article-1.1210839)
+1. [NY Daily News](http://www.nydailynews.com/news/national/train-derails-n-spills-toxic-chemicals-article-1.1210839)
+2. [Reuters](http://www.reuters.com/article/2012/11/30/us-usa-train-derailment-idUSBRE8AT0PF20121130)
 
 ### Related:
 

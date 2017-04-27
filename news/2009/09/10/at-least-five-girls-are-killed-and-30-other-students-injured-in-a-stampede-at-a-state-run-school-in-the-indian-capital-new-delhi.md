@@ -7,8 +7,8 @@ Five girls have been killed in a stampede at a school in the Indian capital, New
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2009/0910/india.html)
-2. [ABC](http://www.abc.net.au/news/stories/2009/09/10/2682571.htm?section=justin)
+1. [ABC](http://www.abc.net.au/news/stories/2009/09/10/2682571.htm?section=justin)
+2. [RTÉ](http://www.rte.ie/news/2009/0910/india.html)
 
 ### Related:
 

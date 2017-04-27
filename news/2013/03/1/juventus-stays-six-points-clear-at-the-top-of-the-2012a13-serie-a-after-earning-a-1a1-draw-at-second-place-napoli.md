@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Goal.com](http://www.goal.com/en-us/match/88312/napoli-vs-juventus/report)
-2. [CNN](http://www.cnn.com/2013/03/01/sport/football/football-serie-a-juventus-napoli/)
+1. [CNN](http://www.cnn.com/2013/03/01/sport/football/football-serie-a-juventus-napoli/)
+2. [Goal.com](http://www.goal.com/en-us/match/88312/napoli-vs-juventus/report)
 
 ### Related:
 

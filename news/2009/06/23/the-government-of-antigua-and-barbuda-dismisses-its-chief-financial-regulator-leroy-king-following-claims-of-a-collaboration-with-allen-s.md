@@ -7,8 +7,8 @@ The Antigua and Barbuda government has dismissed its chief financial regulator, 
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2009/06/24/business/global/24stanford.html?ref=global)
-2. [RTÉ](http://www.rte.ie/news/2009/0623/antigua.html)
+1. [RTÉ](http://www.rte.ie/news/2009/0623/antigua.html)
+2. [The New York Times](http://www.nytimes.com/2009/06/24/business/global/24stanford.html?ref=global)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Baghdad was hit by two suicide bombers on Thursday in an alleged attack by ISIS 
 
 ### Source:
 
-1. [Headlines & Global News](http://www.hngn.com/articles/130738/20150917/baghdad-suicide-bomb-attacks-kill-21-over-70-wounded.htm)
-2. [BBC](http://www.bbc.com/news/world-middle-east-34277021)
+1. [BBC](http://www.bbc.com/news/world-middle-east-34277021)
+2. [Headlines & Global News](http://www.hngn.com/articles/130738/20150917/baghdad-suicide-bomb-attacks-kill-21-over-70-wounded.htm)
 
 ### Related:
 

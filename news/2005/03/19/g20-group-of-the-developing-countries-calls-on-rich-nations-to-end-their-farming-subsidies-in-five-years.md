@@ -7,10 +7,10 @@ Business news & Financial news from Reuters.com.
 
 ### Source:
 
-1. [Business Week](http://www.businessweek.com/ap/financialnews/D88U25K01.htm?campaign_id=apn_home_down)
+1. [BBC](http://news.bbc.co.uk/2/hi/business/4361109.stm)
 2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=aoeM4iSNt5X0&refer=latin_america)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?storyID=7950003&type=businessNews)
-4. [BBC](http://news.bbc.co.uk/2/hi/business/4361109.stm)
+3. [Business Week](http://www.businessweek.com/ap/financialnews/D88U25K01.htm?campaign_id=apn_home_down)
+4. [Reuters](http://www.reuters.com/newsArticle.jhtml?storyID=7950003&type=businessNews)
 
 ### Related:
 

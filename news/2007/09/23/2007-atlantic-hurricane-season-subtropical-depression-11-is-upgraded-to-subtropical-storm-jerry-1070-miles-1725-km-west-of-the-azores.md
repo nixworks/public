@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NOAA](http://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/231427.shtml)
-2. [AP via ABC News America](http://www.abcnews.go.com/US/wireStory?id=3639643)
+1. [AP via ABC News America](http://www.abcnews.go.com/US/wireStory?id=3639643)
+2. [NOAA](http://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/231427.shtml)
 
 ### Related:
 

@@ -7,9 +7,9 @@ The former New York police commissioner who was in charge at the time of the 9/1
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/northamerica/usa/7266098/New-Yorks-911-police-chief-jailed-for-tax-fraud.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/8522921.stm)
 2. [Boston Globe](http://www.boston.com/news/nation/articles/2010/02/18/ex_nyc_police_boss_kerik_to_be_sentenced_for_lying/)
-3. [BBC](http://news.bbc.co.uk/2/hi/americas/8522921.stm)
+3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/northamerica/usa/7266098/New-Yorks-911-police-chief-jailed-for-tax-fraud.html)
 
 ### Related:
 

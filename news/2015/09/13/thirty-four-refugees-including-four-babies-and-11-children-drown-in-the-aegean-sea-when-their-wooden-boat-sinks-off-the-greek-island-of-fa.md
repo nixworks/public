@@ -7,8 +7,8 @@ Thirty-four refugees, almost half of them babies and children, drowned when thei
 
 ### Source:
 
-1. [Xinhua News Agency](http://news.xinhuanet.com/english/2015-09/14/c_134620218.htm)
-2. [Sydney Morning Herald](http://www.smh.com.au/world/migrant-crisis/thirtyfour-refugees-including-babies-children-drown-as-boat-capsizes-off-greek-island-20150913-gjlpr3.html)
+1. [Sydney Morning Herald](http://www.smh.com.au/world/migrant-crisis/thirtyfour-refugees-including-babies-children-drown-as-boat-capsizes-off-greek-island-20150913-gjlpr3.html)
+2. [Xinhua News Agency](http://news.xinhuanet.com/english/2015-09/14/c_134620218.htm)
 
 ### Related:
 

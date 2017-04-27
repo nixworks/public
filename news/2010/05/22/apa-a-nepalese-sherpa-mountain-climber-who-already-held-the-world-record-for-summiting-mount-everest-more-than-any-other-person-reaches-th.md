@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/sports/2010-05/22/c_13309941.htm)
+1. [Asian Tribune](http://www.asiantribune.com/news/2010/05/23/apa-conquers-mt-everest-20th-times-breaks-his-own-previous-record)
 2. [Press Trust of India](http://www.ptinews.com/news/663776_Nepali-Sherpa-climbs-Everest-for-a-record-20th-time)
-3. [Asian Tribune](http://www.asiantribune.com/news/2010/05/23/apa-conquers-mt-everest-20th-times-breaks-his-own-previous-record)
+3. [Xinhua](http://news.xinhuanet.com/english2010/sports/2010-05/22/c_13309941.htm)
 
 ### Related:
 

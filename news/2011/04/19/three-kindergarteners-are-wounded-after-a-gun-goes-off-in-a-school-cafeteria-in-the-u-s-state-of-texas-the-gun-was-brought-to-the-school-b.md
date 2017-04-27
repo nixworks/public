@@ -7,12 +7,12 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2011/apr/19/houston-nursery-school-gun-pupils-injured)
-2. [AP via ''Los Angeles Times](http://www.latimes.com/news/nationworld/nation/la-naw-houston-school-shooting-20110420,0,3686141.story?track=rss)
-3. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/breakingnews/world/view/20110420-332163/Kindergartener-brings-gun-to-Texas-school-3-hurt)
-4. [Houston ABC 13](http://abclocal.go.com/ktrk/story?section=news/local&id=8081909)
-5. [BBC](http://www.bbc.co.uk/news/world-us-canada-13135269)
-6. [South Africa Star](http://www.thestar.co.za/child-brings-gun-to-texas-school-1.1059127)
+1. [AP via ''Los Angeles Times](http://www.latimes.com/news/nationworld/nation/la-naw-houston-school-shooting-20110420,0,3686141.story?track=rss)
+2. [BBC](http://www.bbc.co.uk/news/world-us-canada-13135269)
+3. [Houston ABC 13](http://abclocal.go.com/ktrk/story?section=news/local&id=8081909)
+4. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/breakingnews/world/view/20110420-332163/Kindergartener-brings-gun-to-Texas-school-3-hurt)
+5. [South Africa Star](http://www.thestar.co.za/child-brings-gun-to-texas-school-1.1059127)
+6. [The Guardian](http://www.guardian.co.uk/world/2011/apr/19/houston-nursery-school-gun-pupils-injured)
 
 ### Related:
 

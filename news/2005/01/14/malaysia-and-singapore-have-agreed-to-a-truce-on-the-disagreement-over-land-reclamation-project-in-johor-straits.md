@@ -8,8 +8,8 @@
 ### Source:
 
 1. [CNA](http://www.channelnewsasia.com/stories/singaporelocalnews/view/127247/1/.html)
-2. [Reuters](http://www.alertnet.org/thenews/newsdesk/KLR293424.htm)
-3. [Malaysian Star](http://thestar.com.my/news/story.asp?file=/2005/1/14/nation/9900068&sec=nation)
+2. [Malaysian Star](http://thestar.com.my/news/story.asp?file=/2005/1/14/nation/9900068&sec=nation)
+3. [Reuters](http://www.alertnet.org/thenews/newsdesk/KLR293424.htm)
 
 ### Related:
 

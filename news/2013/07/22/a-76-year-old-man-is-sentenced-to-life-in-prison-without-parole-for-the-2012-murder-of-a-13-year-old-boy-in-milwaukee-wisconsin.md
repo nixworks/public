@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Huffington Post](http://www.huffingtonpost.com/2013/07/17/john-henry-spooner-video-darius-simmons_n_3612378.html)
-2. [AP](http://www.sfgate.com/news/crime/article/Wis-man-who-killed-neighbor-teen-gets-life-term-4678937.php)
+1. [AP](http://www.sfgate.com/news/crime/article/Wis-man-who-killed-neighbor-teen-gets-life-term-4678937.php)
+2. [Huffington Post](http://www.huffingtonpost.com/2013/07/17/john-henry-spooner-video-darius-simmons_n_3612378.html)
 
 ### Related:
 

@@ -7,11 +7,11 @@ Stocks slid for a fourth straight day on Monday, leaving the Dow below 10,000 fo
 
 ### Source:
 
-1. [NASDAQ](http://www.nasdaq.com/aspxcontent/NewsStory.aspx?cpath=20081006\ACQRTT200810061546RTTRADERUSEQUITY_1313.htm&&mypage=newsheadlines&title=Paulson%20Taps%20Former%20Goldman%20Sachs%20Exec%20To%20Be%20In%20Charge%20Of%20Bailout)
-2. [BBC News](http://news.bbc.co.uk/1/hi/business/7655288.stm)
-3. [Reuters](http://www.reuters.com/article/hotStocksNews/idUSTRE4952D220081006)
+1. [BBC News](http://news.bbc.co.uk/1/hi/business/7655288.stm)
+2. [MarketWatch](http://www.marketwatch.com/news/story/dow-ends-off-lows-after/story.aspx?guid=%7B4BD4FBDA%2DE4B1%2D4144%2DB0DE%2D796E5F0CAC06%7D)
+3. [NASDAQ](http://www.nasdaq.com/aspxcontent/NewsStory.aspx?cpath=20081006\ACQRTT200810061546RTTRADERUSEQUITY_1313.htm&&mypage=newsheadlines&title=Paulson%20Taps%20Former%20Goldman%20Sachs%20Exec%20To%20Be%20In%20Charge%20Of%20Bailout)
 4. [New York Times](http://www.nytimes.com/2008/10/07/business/economy/07lehman.html?hp)
-5. [MarketWatch](http://www.marketwatch.com/news/story/dow-ends-off-lows-after/story.aspx?guid=%7B4BD4FBDA%2DE4B1%2D4144%2DB0DE%2D796E5F0CAC06%7D)
+5. [Reuters](http://www.reuters.com/article/hotStocksNews/idUSTRE4952D220081006)
 
 ### Related:
 

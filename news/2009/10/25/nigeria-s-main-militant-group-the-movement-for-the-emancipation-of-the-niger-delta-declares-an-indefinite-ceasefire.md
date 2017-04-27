@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2009-10/25/content_12323083.htm)
+1. [African Press Agency](http://www.apanews.net/apa.php?page=show_article_eng&id_article=109825)
 2. [NEXT](http://234next.com/csp/cms/sites/Next/Home/5473824-146/MEND_declares_indefinite_ceasefire__.csp)
-3. [African Press Agency](http://www.apanews.net/apa.php?page=show_article_eng&id_article=109825)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-10/25/content_12323083.htm)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Eurozone finance ministers agree a 10bn-euro (£8.7bn) bailout package for Cypru
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2013/mar/16/cyprus-eurozone-bailout-anger)
-2. [BBC](http://www.bbc.co.uk/news/business-21797888)
-3. [RTÉ News](http://www.rte.ie/news/2013/0316/376965-cyprus-bailout/)
+1. [BBC](http://www.bbc.co.uk/news/business-21797888)
+2. [RTÉ News](http://www.rte.ie/news/2013/0316/376965-cyprus-bailout/)
+3. [The Guardian](http://www.guardian.co.uk/world/2013/mar/16/cyprus-eurozone-bailout-anger)
 
 ### Related:
 

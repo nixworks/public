@@ -7,10 +7,10 @@ Prime Minister Shinzo Abe aims to resolve a sensitive issue fraying relations wi
 
 ### Source:
 
-1. [The Nikkei](http://asia.nikkei.com/Politics-Economy/International-Relations/Tokyo-eyes-new-fund-to-assist-comfort-women)
-2. [The Korea Times](http://www.koreatimes.co.kr/www/news/nation/2015/12/116_194042.html)
-3. [Reuters](http://www.reuters.com/article/us-japan-southkorea-idUSKBN0U801P20151225)
-4. [Bloomberg](http://www.bloomberg.com/news/articles/2015-12-25/abe-bids-to-reconcile-with-park-by-end-of-anniversary-year)
+1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-12-25/abe-bids-to-reconcile-with-park-by-end-of-anniversary-year)
+2. [Reuters](http://www.reuters.com/article/us-japan-southkorea-idUSKBN0U801P20151225)
+3. [The Korea Times](http://www.koreatimes.co.kr/www/news/nation/2015/12/116_194042.html)
+4. [The Nikkei](http://asia.nikkei.com/Politics-Economy/International-Relations/Tokyo-eyes-new-fund-to-assist-comfort-women)
 
 ### Related:
 

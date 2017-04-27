@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Japan Today](http://www.japantoday.com/category/politics/view/kan-calls-for-calm-after-weekend-of-anti-japan-protests-in-china)
-2. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20101018/wl_afp/japanchinadiplomacydispute)
+1. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20101018/wl_afp/japanchinadiplomacydispute)
+2. [Japan Today](http://www.japantoday.com/category/politics/view/kan-calls-for-calm-after-weekend-of-anti-japan-protests-in-china)
 
 ### Related:
 

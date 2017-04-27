@@ -7,10 +7,10 @@ IN the estimation of the Sydney Peace Foundation, Australian Wikileaks founder J
 
 ### Source:
 
-1. [Daily Nation](http://www.nation.co.ke/News/world/-/1068/1100512/-/4hq8axz/-/)
-2. [News Limited](http://www.news.com.au/breaking-news/julian-assange-awarded-sydney-peace-medal/story-e6frfku0-1225998732639)
-3. [Reuters](http://af.reuters.com/article/egyptNews/idAFLDE7111KE20110202)
-4. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/02/201122184159731783.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/02/201122184159731783.html)
+2. [Daily Nation](http://www.nation.co.ke/News/world/-/1068/1100512/-/4hq8axz/-/)
+3. [News Limited](http://www.news.com.au/breaking-news/julian-assange-awarded-sydney-peace-medal/story-e6frfku0-1225998732639)
+4. [Reuters](http://af.reuters.com/article/egyptNews/idAFLDE7111KE20110202)
 
 ### Related:
 

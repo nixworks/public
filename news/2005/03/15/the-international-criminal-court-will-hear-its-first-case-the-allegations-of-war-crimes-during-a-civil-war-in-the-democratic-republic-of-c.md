@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Daily Times](http://www.dailytimes.com.pk/default.asp?page=story_14-3-2005_pg4_10)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/4349567.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4349567.stm)
+2. [Daily Times](http://www.dailytimes.com.pk/default.asp?page=story_14-3-2005_pg4_10)
 
 ### Related:
 

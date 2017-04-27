@@ -7,10 +7,10 @@ A FRENCH Muslim woman has been fined for driving while wearing a full-face veil,
 
 ### Source:
 
-1. [iAfrica](http://news.iafrica.com/worldnews/2374800.htm)
-2. [news.com.au](http://www.news.com.au/world/muslim-woman-fined-for-driving-veiled-in-france/story-e6frfkyi-1225857680454)
-3. [BBC](http://news.bbc.co.uk/2/hi/europe/8641070.stm)
-4. [Expatica France](http://www.expatica.com/fr/news/local_news/furore-over-french-muslim-woman-fined-for-driving-veiled_62274.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8641070.stm)
+2. [Expatica France](http://www.expatica.com/fr/news/local_news/furore-over-french-muslim-woman-fined-for-driving-veiled_62274.html)
+3. [iAfrica](http://news.iafrica.com/worldnews/2374800.htm)
+4. [news.com.au](http://www.news.com.au/world/muslim-woman-fined-for-driving-veiled-in-france/story-e6frfkyi-1225857680454)
 
 ### Related:
 

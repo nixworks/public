@@ -8,10 +8,10 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/6218333.stm)
-2. [Scotsman](http://thescotsman.scotsman.com/international.cfm?id=1928862006)
-3. [Reuters](http://www.alertnet.org/thenews/newsdesk/N29294082.htm)
-4. [NatlGeog](http://news.nationalgeographic.com/news/2006/12/061229-arctic-ice.html)
-5. [CBC](http://www.cbc.ca/canada/story/2006/12/28/tech-ellesmereiceshelfcollapse-20061228.html)
+2. [CBC](http://www.cbc.ca/canada/story/2006/12/28/tech-ellesmereiceshelfcollapse-20061228.html)
+3. [NatlGeog](http://news.nationalgeographic.com/news/2006/12/061229-arctic-ice.html)
+4. [Reuters](http://www.alertnet.org/thenews/newsdesk/N29294082.htm)
+5. [Scotsman](http://thescotsman.scotsman.com/international.cfm?id=1928862006)
 
 ### Related:
 

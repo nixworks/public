@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Mercury](http://www.themercury.co.za/?fSectionId=&fArticleId=nw20100307173840545C210082)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/8554340.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8554340.stm)
+2. [The Mercury](http://www.themercury.co.za/?fSectionId=&fArticleId=nw20100307173840545C210082)
 
 ### Related:
 

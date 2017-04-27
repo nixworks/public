@@ -7,10 +7,10 @@ A militant group linked to al Qaeda has claimed responsibility for suicide car b
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE63818620100409)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8611178.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8611178.stm)
+2. [France24](http://www.france24.com/en/20100409-al-qaeda-iraq-claims-baghdad-embassy-bombings)
 3. [People's Daily Online](http://english.people.com.cn/90001/90777/90854/6946033.html)
-4. [France24](http://www.france24.com/en/20100409-al-qaeda-iraq-claims-baghdad-embassy-bombings)
+4. [Reuters](http://www.reuters.com/article/idUSTRE63818620100409)
 
 ### Related:
 

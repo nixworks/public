@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Financial Times](http://www.ft.com/cms/s/0/cd0861de-63c4-11de-a818-00144feabdc0.html)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/06/200962881141633165.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/06/200962881141633165.html)
+2. [Financial Times](http://www.ft.com/cms/s/0/cd0861de-63c4-11de-a818-00144feabdc0.html)
 
 ### Related:
 

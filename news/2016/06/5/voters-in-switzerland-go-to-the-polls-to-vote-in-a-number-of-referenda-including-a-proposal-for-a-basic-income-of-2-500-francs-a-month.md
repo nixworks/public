@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-europe-36454060)
-2. [AP via ''Daily Mail](http://www.dailymail.co.uk/wires/ap/article-3625344/Handout-no-Swiss-mull-2-500-monthly-income-all.html)
+1. [AP via ''Daily Mail](http://www.dailymail.co.uk/wires/ap/article-3625344/Handout-no-Swiss-mull-2-500-monthly-income-all.html)
+2. [BBC](http://www.bbc.com/news/world-europe-36454060)
 
 ### Related:
 

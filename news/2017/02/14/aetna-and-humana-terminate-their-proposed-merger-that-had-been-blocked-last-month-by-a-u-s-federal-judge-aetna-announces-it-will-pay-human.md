@@ -7,8 +7,8 @@ The two healthcare giants said they were no longer pursuing the deal. A federal 
 
 ### Source:
 
-1. [NPR](http://www.npr.org/sections/thetwo-way/2017/02/14/515167491/aetna-and-humana-call-off-merger-after-court-decision)
-2. [Forbes](http://www.forbes.com/sites/brucejapsen/2017/02/14/aetna-gives-up-on-merger-will-pay-humana-1b-breakup-fee/#4b72d60b150a)
+1. [Forbes](http://www.forbes.com/sites/brucejapsen/2017/02/14/aetna-gives-up-on-merger-will-pay-humana-1b-breakup-fee/#4b72d60b150a)
+2. [NPR](http://www.npr.org/sections/thetwo-way/2017/02/14/515167491/aetna-and-humana-call-off-merger-after-court-decision)
 
 ### Related:
 

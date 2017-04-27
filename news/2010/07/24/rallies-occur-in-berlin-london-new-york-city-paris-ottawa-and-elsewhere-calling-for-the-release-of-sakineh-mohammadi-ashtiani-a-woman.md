@@ -7,8 +7,8 @@ Protesters around the world rally in support of jailed woman facing execution fo
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10748228)
-2. [Aljazeera](http://english.aljazeera.net/news/europe/2010/07/201072417330239647.html)
+1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/07/201072417330239647.html)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-10748228)
 
 ### Related:
 

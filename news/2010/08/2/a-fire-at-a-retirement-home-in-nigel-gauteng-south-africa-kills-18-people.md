@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Times Live South Africa](http://www.timeslive.co.za/local/article581498.ece/Elderly-lose-everything-in-Nigel-fire)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-10835045)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-10835045)
+2. [Times Live South Africa](http://www.timeslive.co.za/local/article581498.ece/Elderly-lose-everything-in-Nigel-fire)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE71Q01D20110227)
-2. [Canadian Press via Google News](http://www.google.com/hostednews/canadianpress/article/ALeqM5jAOZ1COy0NUZgWNZgWFMI768L9tw?docId=6083866)
+1. [Canadian Press via Google News](http://www.google.com/hostednews/canadianpress/article/ALeqM5jAOZ1COy0NUZgWNZgWFMI768L9tw?docId=6083866)
+2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE71Q01D20110227)
 
 ### Related:
 

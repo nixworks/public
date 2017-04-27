@@ -7,8 +7,8 @@ Acting with minutes to spare, President Obama approved a four-year extension of 
 
 ### Source:
 
-1. [Los Angeles Times](http://www.latimes.com/news/nationworld/nation/la-na-patriot-act-20110527,0,7749454.story)
-2. [AP via ''Atlanta Journal Constitution](http://www.ajc.com/news/nation-world/obama-signs-patriot-act-958299.html)
+1. [AP via ''Atlanta Journal Constitution](http://www.ajc.com/news/nation-world/obama-signs-patriot-act-958299.html)
+2. [Los Angeles Times](http://www.latimes.com/news/nationworld/nation/la-na-patriot-act-20110527,0,7749454.story)
 
 ### Related:
 

@@ -8,8 +8,8 @@ The Russian Air Force base in Latakia will be reinforced with S-400 SAM system, 
 ### Source:
 
 1. [Daily Sabah](http://www.dailysabah.com/syrian-crisis/2015/11/25/russian-airstrikes-target-aid-convoy-in-northwestern-syrian-town-of-azaz-seven-reportedly-killed)
-2. [Reuters](http://uk.reuters.com/article/2015/11/25/uk-mideast-crisis-syria-trucks-idUKKBN0TE22S20151125)
-3. [RT](https://www.rt.com/news/323379-s400-russia-syria-airbase/)
+2. [RT](https://www.rt.com/news/323379-s400-russia-syria-airbase/)
+3. [Reuters](http://uk.reuters.com/article/2015/11/25/uk-mideast-crisis-syria-trucks-idUKKBN0TE22S20151125)
 
 ### Related:
 

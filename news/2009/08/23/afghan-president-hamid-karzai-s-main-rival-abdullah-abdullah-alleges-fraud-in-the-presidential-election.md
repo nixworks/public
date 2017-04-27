@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2009-08/23/content_11931599.htm)
+1. [The Guardian](http://www.guardian.co.uk/world/2009/aug/23/afghanistan-election-abdullah-karzai-fraud)
 2. [The Times of India](http://timesofindia.indiatimes.com/news/world/south-asia/Abdullah-accuses-Karzai-of-rigging-Afghan-vote/articleshow/4924509.cms)
-3. [The Guardian](http://www.guardian.co.uk/world/2009/aug/23/afghanistan-election-abdullah-karzai-fraud)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-08/23/content_11931599.htm)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [US Soccer](http://www.ussoccer.com/News/Mens-National-Team/2011/01/US-MNT-Match-against-Egypt-Canceled.aspx)
-2. [CNN International](http://edition.cnn.com/2011/SPORT/football/01/31/football.united.states.egypt/)
+1. [CNN International](http://edition.cnn.com/2011/SPORT/football/01/31/football.united.states.egypt/)
+2. [US Soccer](http://www.ussoccer.com/News/Mens-National-Team/2011/01/US-MNT-Match-against-Egypt-Canceled.aspx)
 
 ### Related:
 

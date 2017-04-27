@@ -16,7 +16,7 @@ Researchers working in Gabon and Congo have identified three species of fruit ba
 _Context: 2005 Atlantic hurricane season, Hurricane Epsilon, hurricane, tropical cyclone_
 
 ### [ Kenneth Boyd becomes the 1000th person to be executed in the United States since the re-introduction of capital punishment in 1976. ](/news/2005/12/2/kenneth-boyd-becomes-the-1000th-person-to-be-executed-in-the-united-states-since-the-re-introduction-of-capital-punishment-in-1976.md)
-_Context: Capital punishment in the United States, Kenneth Boyd, U.S., death penalty_
+_Context: Capital punishment in the United States, Kenneth Boyd, United States, death penalty_
 
 ### [ Australian Van Tuong Nguyen is executed by hanging in Singapore for drug trafficking. ](/news/2005/12/2/australian-van-tuong-nguyen-is-executed-by-hanging-in-singapore-for-drug-trafficking.md)
 _Context: Australia, Singapore, Van Tuong Nguyen, drug trafficking, executed by hanging_

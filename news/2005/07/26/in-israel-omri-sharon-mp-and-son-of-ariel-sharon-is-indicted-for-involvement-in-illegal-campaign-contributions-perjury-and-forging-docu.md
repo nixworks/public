@@ -7,10 +7,10 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1122344275548)
-2. [Arutz Sheva](http://www.israelnationalnews.com/news.php3?id=86551)
-3. [Reuters](http://today.reuters.com/News/newsArticle.aspx?type=topNews&storyID=2005-07-26T193616Z_01_N2654200_RTRIDST_0_NEWS-ISRAEL-INDICTMENT-DC.XML)
-4. [Haaretz](http://www.haaretzdaily.com/hasen/spages/605039.html)
+1. [Arutz Sheva](http://www.israelnationalnews.com/news.php3?id=86551)
+2. [Haaretz](http://www.haaretzdaily.com/hasen/spages/605039.html)
+3. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1122344275548)
+4. [Reuters](http://today.reuters.com/News/newsArticle.aspx?type=topNews&storyID=2005-07-26T193616Z_01_N2654200_RTRIDST_0_NEWS-ISRAEL-INDICTMENT-DC.XML)
 
 ### Related:
 

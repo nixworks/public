@@ -7,8 +7,8 @@ Storm makes landfall as heavy seas hamper oil clean-up efforts in Gulf of Mexico
 
 ### Source:
 
-1. [National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCUAT1+shtml/010158.shtml)
-2. [Aljazeera](http://english.aljazeera.net/news/americas/2010/07/2010711184185602.html)
+1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/07/2010711184185602.html)
+2. [National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCUAT1+shtml/010158.shtml)
 3. [The Australian](http://www.theaustralian.com.au/news/world/hurricane-alex-gathers-strength-in-guld-of-mexico-frustrating-oil-cleanup/story-e6frg6so-1225886574177)
 
 ### Related:

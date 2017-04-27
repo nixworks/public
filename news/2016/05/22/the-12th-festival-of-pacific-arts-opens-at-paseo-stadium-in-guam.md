@@ -7,8 +7,8 @@ The 12th Festival of Pacific Arts kicked off yesterday with thousands of island 
 
 ### Source:
 
-1. [Pacific Daily News](http://www.guampdn.com/story/news/2016/05/22/canoe-arrivals-mark-beginning-festpac/84734934/)
-2. [Guam Daily Post](http://www.postguam.com/news/local/th-festpac-kicks-off/article_3ecc65c4-2009-11e6-9577-9313a566f82e.html)
+1. [Guam Daily Post](http://www.postguam.com/news/local/th-festpac-kicks-off/article_3ecc65c4-2009-11e6-9577-9313a566f82e.html)
+2. [Pacific Daily News](http://www.guampdn.com/story/news/2016/05/22/canoe-arrivals-mark-beginning-festpac/84734934/)
 
 ### Related:
 

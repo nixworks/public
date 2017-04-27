@@ -7,9 +7,9 @@ At least 30 people killed and 80 wounded in car bomb at market in Diyala provinc
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10140321.stm)
-2. [Channel 4 News](http://www.channel4.com/news/articles/world/22+killed+in+iraqi+market+blast/3655667)
-3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/05/2010521181110799207.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/05/2010521181110799207.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10140321.stm)
+3. [Channel 4 News](http://www.channel4.com/news/articles/world/22+killed+in+iraqi+market+blast/3655667)
 
 ### Related:
 
@@ -22,4 +22,4 @@ At least 30 people killed and 80 wounded in car bomb at market in Diyala provinc
 7. [ At least 28 people are killed after a suicide bombing in the province of Diyala, Iraq. ](/news/2008/08/26/at-least-28-people-are-killed-after-a-suicide-bombing-in-the-province-of-diyala-iraq.md) _Context: Diyala Governorate, Iraq_
 8. [ At least 30 Shia pilgrims heading to the city of Karbala for Arbaeen die as a suicide bomber attacks a caf in Balad Ruz in Iraq's eastern Diyala Governorate. ](/news/2007/03/7/at-least-30-shia-pilgrims-heading-to-the-city-of-karbala-for-arbaeen-die-as-a-suicide-bomber-attacks-a-cafe-in-balad-ruz-in-iraq-s-eastern.md) _Context: Diyala Governorate, Iraq_
 9. [The United Nations announces expansion of civilian camps for people fleeing Mosul, following resumption of airstrikes  on ISIL-held portions of the Iraqi city. ](/news/2017/04/4/the-united-nations-announces-expansion-of-civilian-camps-for-people-fleeing-mosul-following-resumption-of-airstrikes-on-isil-held-portions.md) _Context: Iraq_
-10. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also 5 Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-5-peshmerga-fighters-are-killed-during-a-tu.md) _Context: Iraq_
+10. [The pro-government Popular Mobilization Forces militia takes control of the mostly destroyed ancient city of Hatra in Iraq's Nineveh Governorate, following clashes with ISIL, who seized the ruins in 2014. ](/news/2017/04/26/the-pro-government-popular-mobilization-forces-militia-takes-control-of-the-mostly-destroyed-ancient-city-of-hatra-in-iraq-s-nineveh-governo.md) _Context: Iraq_

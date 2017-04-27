@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Eurosport](http://uk.eurosport.yahoo.com/news/biathlon-fourcade-takes-world-cup-win-sochi-132908326.html)
-2. [AP via CBC](http://www.cbc.ca/sports/story/2013/03/09/sp-olympics-martin-fourcade-win-world-cup.html)
+1. [AP via CBC](http://www.cbc.ca/sports/story/2013/03/09/sp-olympics-martin-fourcade-win-world-cup.html)
+2. [Eurosport](http://uk.eurosport.yahoo.com/news/biathlon-fourcade-takes-world-cup-win-sochi-132908326.html)
 
 ### Related:
 

@@ -7,10 +7,10 @@ A large protest in northwest Syria was the latest to turn deadly, as Syrian secu
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/skynews/Home/World-News/President-Saleh-Arrives-In-Saudi-Arabia-For-Treatment-After-Fridays-Rocket-Attack/Article/201106116005702?lpos=World_News_Top_Stories_Header_3&lid=ARTICLE_16005702_President_Saleh_Arrives_In_Saudi_Arabia_For_Treatment_After_Fridays_Rocket_Attack)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jta59ZDMxfvBhPdfZUYR-SygjsnA?docId=CNG.2758b2fb780648c8d34ac969510e4d6a.b1)
 2. [AP via Yahoo News](http://news.yahoo.com/s/ap/20110605/ap_on_re_mi_ea/ml_yemen;_ylt=AoyT3GAHcOhTweg2RoD39_us0NUE;_ylu=X3oDMTM4dThkMW1uBGFzc2V0A2FwLzIwMTEwNjA1L21sX3llbWVuBGNjb2RlA21vc3Rwb3B1bGFyBGNwb3MDMQRwb3MDMgRwdANob21lX2Nva2UEc2VjA3luX3RvcF9zdG9yeQRzbGsDZ3VubWVuYXR0YWNr)
 3. [CNN](http://edition.cnn.com/2011/WORLD/meast/06/05/syria.fighting/)
-4. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jta59ZDMxfvBhPdfZUYR-SygjsnA?docId=CNG.2758b2fb780648c8d34ac969510e4d6a.b1)
+4. [Sky News](http://news.sky.com/skynews/Home/World-News/President-Saleh-Arrives-In-Saudi-Arabia-For-Treatment-After-Fridays-Rocket-Attack/Article/201106116005702?lpos=World_News_Top_Stories_Header_3&lid=ARTICLE_16005702_President_Saleh_Arrives_In_Saudi_Arabia_For_Treatment_After_Fridays_Rocket_Attack)
 
 ### Related:
 

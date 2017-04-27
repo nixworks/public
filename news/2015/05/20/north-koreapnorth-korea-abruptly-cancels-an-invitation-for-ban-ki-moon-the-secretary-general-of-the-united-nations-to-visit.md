@@ -7,8 +7,8 @@ North Korea has cancelled an invitation to Ban Ki-moon to visit an industrial zo
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2015/05/20/asia/north-korea-nuclear-weapons/)
-2. [AFP via ''Sydney Morning Herald](http://www.smh.com.au/world/north-korea-cancels-uns-ban-kimoon-visit-20150520-gh5lln.html)
+1. [AFP via ''Sydney Morning Herald](http://www.smh.com.au/world/north-korea-cancels-uns-ban-kimoon-visit-20150520-gh5lln.html)
+2. [CNN](http://edition.cnn.com/2015/05/20/asia/north-korea-nuclear-weapons/)
 
 ### Related:
 

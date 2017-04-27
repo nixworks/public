@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-02/19/c_13739110.htm)
-2. [AP via Atlanta Journal Constitution](http://www.ajc.com/news/nation-world/house-blocks-federal-aid-844689.html)
+1. [AP via Atlanta Journal Constitution](http://www.ajc.com/news/nation-world/house-blocks-federal-aid-844689.html)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-02/19/c_13739110.htm)
 
 ### Related:
 

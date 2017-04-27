@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Fox News](http://www.foxnews.com/weather/2013/09/13/3-dead-in-colorado-floods/?cmpid=NL_morninghl)
-2. [9 News](http://www.9news.com/rss/article/355149/339/4-killed-80-unaccounted-for-in-Colorado-floods?utm_source=twitterfeed&utm_medium=twitter)
+1. [9 News](http://www.9news.com/rss/article/355149/339/4-killed-80-unaccounted-for-in-Colorado-floods?utm_source=twitterfeed&utm_medium=twitter)
+2. [Fox News](http://www.foxnews.com/weather/2013/09/13/3-dead-in-colorado-floods/?cmpid=NL_morninghl)
 
 ### Related:
 

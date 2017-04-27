@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Ria Novosti](http://en.rian.ru/russia/20120829/175503267.html)
-2. [Al-Arabiya](http://english.alarabiya.net/articles/2012/08/29/234883.html)
+1. [Al-Arabiya](http://english.alarabiya.net/articles/2012/08/29/234883.html)
+2. [Ria Novosti](http://en.rian.ru/russia/20120829/175503267.html)
 3. [Xinhua](http://news.xinhuanet.com/english/world/2012-08/29/c_123647372.htm)
 
 ### Related:

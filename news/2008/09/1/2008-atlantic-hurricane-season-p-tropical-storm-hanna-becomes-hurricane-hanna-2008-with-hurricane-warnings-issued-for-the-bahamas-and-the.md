@@ -8,8 +8,8 @@ Tropical Storm Hanna knocked out power to the southern Bahamas on Wednesday and 
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/26496933/)
-2. [UPI](http://www.upi.com/Top_News/2008/09/01/Gustav_weakens_to_tropical_storm/UPI-30601220263816/)
-3. [Miami Herald](http://www.miamiherald.com/news/broward/breaking-news/story/667427.html)
+2. [Miami Herald](http://www.miamiherald.com/news/broward/breaking-news/story/667427.html)
+3. [UPI](http://www.upi.com/Top_News/2008/09/01/Gustav_weakens_to_tropical_storm/UPI-30601220263816/)
 
 ### Related:
 

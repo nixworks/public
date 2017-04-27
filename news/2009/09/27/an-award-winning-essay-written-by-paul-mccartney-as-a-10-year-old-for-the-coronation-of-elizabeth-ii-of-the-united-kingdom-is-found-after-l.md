@@ -7,11 +7,11 @@ The book voted off the competition third was...
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/arts/music/story/2009/09/27/mccartney-essay-library.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8277008.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8277008.stm)
+2. [CBC](http://www.cbc.ca/arts/music/story/2009/09/27/mccartney-essay-library.html)
 3. [NME](http://www.nme.com/news/paul-mccartney/47532)
-4. [The Sunday Times](http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/music/beatles/article6850826.ece)
-5. [The Guardian](http://www.guardian.co.uk/music/2009/sep/27/paul-mccartney-schoolboy-essay-found)
+4. [The Guardian](http://www.guardian.co.uk/music/2009/sep/27/paul-mccartney-schoolboy-essay-found)
+5. [The Sunday Times](http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/music/beatles/article6850826.ece)
 
 ### Related:
 

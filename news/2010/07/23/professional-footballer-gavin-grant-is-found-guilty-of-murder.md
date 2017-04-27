@@ -7,5 +7,5 @@ Former Millwall, Bradford and Wycombe striker Gavin Grant is convicted of murder
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/uk/crime/footballer-gavin-grant-guilty-of-gun-murder-2033950.html)
-2. [BBC](http://www.bbc.co.uk/news/uk-england-london-10744897)
+1. [BBC](http://www.bbc.co.uk/news/uk-england-london-10744897)
+2. [The Independent](http://www.independent.co.uk/news/uk/crime/footballer-gavin-grant-guilty-of-gun-murder-2033950.html)

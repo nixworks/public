@@ -7,8 +7,8 @@ Mayor of Dallas city announces emergency after mosquito-borne West Nile virus cl
 
 ### Source:
 
-1. [Dallas News](http://www.dallasnews.com/news/community-news/dallas/headlines/20120815-aerial-spraying-for-west-nile-to-start-at-10-tonight-in-dallas-park-cities.ece)
-2. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/08/2012815224318379485.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/08/2012815224318379485.html)
+2. [Dallas News](http://www.dallasnews.com/news/community-news/dallas/headlines/20120815-aerial-spraying-for-west-nile-to-start-at-10-tonight-in-dallas-park-cities.ece)
 3. [Los Angeles Times](http://www.latimes.com/news/nation/nationnow/la-na-nn-dallas-west-nile-spray-20120816,0,607038.story)
 
 ### Related:

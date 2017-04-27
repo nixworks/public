@@ -8,12 +8,12 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8542337.stm)
-2. [Reuters](http://www.reuters.com/article/idUSTRE61R29O20100228)
-3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/02/28/AR2010022801935.html)
-4. [Herald Sun](http://www.heraldsun.com.au/news/world/massive-statue-of-king-tutankhamuns-grand-father-the-pharoah-amenhotep-iii-found-in-luxor-egypt/story-e6frf7lf-1225835454820)
-5. [Xinhua](http://news.xinhuanet.com/english2010/sci/2010-03/01/c_13191935.htm)
-6. [France24](http://www.france24.com/en/20100228-statue-head-king-tuts-grandfather-found-luxor)
-7. [The Scotsman](http://news.scotsman.com/world/Head-of-massive-pharaoh-statue.6111536.jp)
+2. [France24](http://www.france24.com/en/20100228-statue-head-king-tuts-grandfather-found-luxor)
+3. [Herald Sun](http://www.heraldsun.com.au/news/world/massive-statue-of-king-tutankhamuns-grand-father-the-pharoah-amenhotep-iii-found-in-luxor-egypt/story-e6frf7lf-1225835454820)
+4. [Reuters](http://www.reuters.com/article/idUSTRE61R29O20100228)
+5. [The Scotsman](http://news.scotsman.com/world/Head-of-massive-pharaoh-statue.6111536.jp)
+6. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/02/28/AR2010022801935.html)
+7. [Xinhua](http://news.xinhuanet.com/english2010/sci/2010-03/01/c_13191935.htm)
 
 ### Related:
 

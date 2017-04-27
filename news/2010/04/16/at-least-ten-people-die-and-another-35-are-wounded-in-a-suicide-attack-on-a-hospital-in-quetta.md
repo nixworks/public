@@ -7,10 +7,10 @@ At least eight people killed and 35 wounded in explosion in Quetta in Balochista
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/skynews/Home/World-News/Quetta-Pakistan-Suicide-Bomb-Attack-At-Civil-Hospital-Kills-At-Least-10-People/Article/201004315604345?lpos=World_News_First_Home_Article_Teaser_Region_3&lid=ARTICLE_15604345_Quetta%2C_Pakistan%3A_Suicide_Bomb_)
-2. [The Times of India](http://timesofindia.indiatimes.com/world/pakistan/Suicide-blast-at-Pakistan-hospital-kills-8/articleshow/5815685.cms)
-3. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8624338.stm)
-4. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/04/2010416681216329.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/04/2010416681216329.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8624338.stm)
+3. [Sky News](http://news.sky.com/skynews/Home/World-News/Quetta-Pakistan-Suicide-Bomb-Attack-At-Civil-Hospital-Kills-At-Least-10-People/Article/201004315604345?lpos=World_News_First_Home_Article_Teaser_Region_3&lid=ARTICLE_15604345_Quetta%2C_Pakistan%3A_Suicide_Bomb_)
+4. [The Times of India](http://timesofindia.indiatimes.com/world/pakistan/Suicide-blast-at-Pakistan-hospital-kills-8/articleshow/5815685.cms)
 
 ### Related:
 

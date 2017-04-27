@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE6771JW20100808)
-2. [BBC](http://www.bbc.co.uk/news/world-latin-america-10909638)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-10909638)
+2. [Reuters](http://www.reuters.com/article/idUSTRE6771JW20100808)
 
 ### Related:
 

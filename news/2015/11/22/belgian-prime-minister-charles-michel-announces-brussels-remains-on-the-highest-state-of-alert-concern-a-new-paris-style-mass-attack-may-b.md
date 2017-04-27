@@ -7,9 +7,9 @@ Belgian police sealed off streets in the centre of Brussels during raids late on
 
 ### Source:
 
-1. [Fox News](http://www.foxnews.com/world/2015/11/22/belgian-authorities-arrest-six-in-anti-terror-raids/)
-2. [CBC](http://www.cbc.ca/news/world/brussels-high-alert-1.3329976)
-3. [EuroNews](http://www.euronews.com/2015/11/22/brussels-remains-on-high-alert-multiple-operations-underway-across-belgium/)
+1. [CBC](http://www.cbc.ca/news/world/brussels-high-alert-1.3329976)
+2. [EuroNews](http://www.euronews.com/2015/11/22/brussels-remains-on-high-alert-multiple-operations-underway-across-belgium/)
+3. [Fox News](http://www.foxnews.com/world/2015/11/22/belgian-authorities-arrest-six-in-anti-terror-raids/)
 4. [Reuters via Yahoo News](http://news.yahoo.com/belgium-maintains-maximum-security-alert-status-brussels-093047636.html)
 
 ### Related:

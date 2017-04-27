@@ -7,8 +7,8 @@ VATICAN CITY (AP) — A Vatican court declared Thursday it had no jurisdiction t
 
 ### Source:
 
-1. [Catholic News](http://www.catholicnews.com/services/englishnews/2016/vatileaks-citing-freedom-of-press-vatican-court-acquits-journalists.cfm)
-2. [AP](http://bigstory.ap.org/article/b8863e02a4a0482baac8b1c33389a864/vatican-judges-weigh-fate-5-accused-leaks-scandal)
+1. [AP](http://bigstory.ap.org/article/b8863e02a4a0482baac8b1c33389a864/vatican-judges-weigh-fate-5-accused-leaks-scandal)
+2. [Catholic News](http://www.catholicnews.com/services/englishnews/2016/vatileaks-citing-freedom-of-press-vatican-court-acquits-journalists.cfm)
 3. [The Guardian](https://www.theguardian.com/world/2016/jul/07/vatileaks-journalists-cleared-vatican-court-trial-catholic-church)
 
 ### Related:

@@ -7,9 +7,9 @@ Former PM and general was polarising figure who backed Jewish settlements but pu
 
 ### Source:
 
-1. [BBC News](http://www.bbc.co.uk/news/world-middle-east-25696601)
-2. [International Business Times](http://www.ibtimes.co.uk/ariel-sharons-legacy-king-israel-or-butcher-beirut-1430839)
-3. [ABC NEWS](http://abcnews.go.com/International/ariel-sharon-dead-85/story?id=17360488)
+1. [ABC NEWS](http://abcnews.go.com/International/ariel-sharon-dead-85/story?id=17360488)
+2. [BBC News](http://www.bbc.co.uk/news/world-middle-east-25696601)
+3. [International Business Times](http://www.ibtimes.co.uk/ariel-sharons-legacy-king-israel-or-butcher-beirut-1430839)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://af.reuters.com/article/energyOilNews/idAFL4N0PJ02Q20140708)
-2. [AFP via Yahoo! news Australia](https://au.news.yahoo.com/world/a/24404571/japan-issues-highest-alert-over-typhoon-neoguri/)
+1. [AFP via Yahoo! news Australia](https://au.news.yahoo.com/world/a/24404571/japan-issues-highest-alert-over-typhoon-neoguri/)
+2. [Reuters](http://af.reuters.com/article/energyOilNews/idAFL4N0PJ02Q20140708)
 
 ### Related:
 

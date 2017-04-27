@@ -28,7 +28,7 @@ _Context: Ethiopia, Islamic Courts Union, Somalia, alleged military action_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ General George William Casey Jr., the top United States commander in Iraq has said it will take 12 to 18 months before Iraqi security forces are ready to take over in the country. ](/news/2006/10/25/general-george-william-casey-jr-the-top-united-states-commander-in-iraq-has-said-it-will-take-12-to-18-months-before-iraqi-security-force.md)
-_Context: General, George William Casey Jr., Iraq, U.S._
+_Context: General, George William Casey Jr., Iraq, United States_
 
 ### [ South Korean Unification Minister Lee Jong-Seok resigns. Defence Minister Yoon Kwang-Ung had resigned earlier in the week with the President of South Korea Roh Moo-Hyun expected to announce changes in his foreign policy and defence advisers soon. ](/news/2006/10/25/south-korean-unification-minister-lee-jong-seok-resigns-defence-minister-yoon-kwang-ung-had-resigned-earlier-in-the-week-with-the-presiden.md)
 _Context: Lee Jong-Seok, President, Roh Moo-hyun, South Korea, Yoon Kwang-Ung_

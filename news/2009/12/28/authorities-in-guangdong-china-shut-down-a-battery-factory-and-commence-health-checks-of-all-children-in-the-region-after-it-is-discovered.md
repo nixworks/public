@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Hindustan Times](http://www.hindustantimes.com/News-Feed/restofasia/Chinese-plant-shut-40-kids-poisoned/Article1-491379.aspx)
-2. [China Daily](http://www.chinadaily.com.cn/china/2009-12/28/content_9237870.htm)
+1. [China Daily](http://www.chinadaily.com.cn/china/2009-12/28/content_9237870.htm)
+2. [Hindustan Times](http://www.hindustantimes.com/News-Feed/restofasia/Chinese-plant-shut-40-kids-poisoned/Article1-491379.aspx)
 3. [The Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_471252.html)
 
 ### Related:

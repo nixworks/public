@@ -7,14 +7,14 @@ Turkish IHH activist, Viva Palestina organizer set to speak in New York at event
 
 ### Source:
 
-1. [Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=178460)
-2. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/2010615114624953775.html)
+1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/2010615114624953775.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10319210.stm)
 3. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10311653.stm)
-4. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10319210.stm)
-5. [Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=178446)
-6. [euronews](http://www.euronews.net/2010/06/15/ireland-to-expel-israeli-diplomat/)
+4. [Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=178446)
+5. [Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=178460)
+6. [RTÉ](http://www.rte.ie/news/2010/0615/dubai.html)
 7. [The Globe and Mail](http://www.theglobeandmail.com/news/world/europe/ireland-tells-israel-to-withdraw-staffer-over-dubai-hit/article1604382/)
-8. [RTÉ](http://www.rte.ie/news/2010/0615/dubai.html)
+8. [euronews](http://www.euronews.net/2010/06/15/ireland-to-expel-israeli-diplomat/)
 
 ### Related:
 

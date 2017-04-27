@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000101&sid=alb50jep82uw&refer=japan)
-2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/162104/1/.html)
-3. [Japan Today](http://www.japantoday.com/e/?content=news&cat=&id=345683)
-4. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4130456.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4130456.stm)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000101&sid=alb50jep82uw&refer=japan)
+3. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/162104/1/.html)
+4. [Japan Today](http://www.japantoday.com/e/?content=news&cat=&id=345683)
 
 ### Related:
 

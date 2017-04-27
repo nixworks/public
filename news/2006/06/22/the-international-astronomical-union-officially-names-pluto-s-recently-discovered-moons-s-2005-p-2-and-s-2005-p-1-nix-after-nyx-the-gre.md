@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [SMH](http://www.smh.com.au/news/science/plutos-moons-finally-get-names/2006/06/22/1150845299808.html)
-2. [National Geographic](http://news.nationalgeographic.com/news/2006/06/060623-pluto.html)
+1. [National Geographic](http://news.nationalgeographic.com/news/2006/06/060623-pluto.html)
+2. [SMH](http://www.smh.com.au/news/science/plutos-moons-finally-get-names/2006/06/22/1150845299808.html)
 
 ### Related:
 

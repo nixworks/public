@@ -7,8 +7,8 @@ A popular South Korean actor and singer is found dead at his home in Seoul after
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10459061.stm)
-2. [AsiaOne](http://news.asiaone.com/News/Latest%2BNews/Showbiz/Story/A1Story20100630-224536.html)
+1. [AsiaOne](http://news.asiaone.com/News/Latest%2BNews/Showbiz/Story/A1Story20100630-224536.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10459061.stm)
 3. [TODAYonline](http://www.todayonline.com/World/Worldinbrief/EDC100701-0000095/Popular-South-Korean-actor-singer-commits-suicide)
 4. [The Vancouver Sun](http://www.vancouversun.com/news/South+Korean+star+Park+Yong+found+dead+home/3220709/story.html)
 

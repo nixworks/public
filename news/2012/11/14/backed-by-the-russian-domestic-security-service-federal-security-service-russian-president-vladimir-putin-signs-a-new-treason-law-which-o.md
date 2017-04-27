@@ -7,8 +7,8 @@ Russia enacted a new treason law on Wednesday, alarming opponents of President V
 
 ### Source:
 
-1. [Reuters](http://in.reuters.com/article/2012/11/14/russia-putin-treason-idINDEE8AD0D220121114)
-2. [Daily Times](http://www.dailytimes.com.pk/default.asp?page=2012%5C11%5C15%5Cstory_15-11-2012_pg4_1)
+1. [Daily Times](http://www.dailytimes.com.pk/default.asp?page=2012%5C11%5C15%5Cstory_15-11-2012_pg4_1)
+2. [Reuters](http://in.reuters.com/article/2012/11/14/russia-putin-treason-idINDEE8AD0D220121114)
 
 ### Related:
 

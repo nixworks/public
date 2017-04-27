@@ -8,12 +8,12 @@ India denounced Thursday &quot;racist&quot; and &quot;unacceptable&quot; remarks
 ### Source:
 
 1. [AFP via NDTV](http://www.ndtv.com/article/commonwealth%20games/india-slams-nz-tv-anchor-s-racist-dikshit-remarks-57812?trendingnow)
-2. [The New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10678805)
-3. [Indian Weekender](http://www.indianweekender.co.nz/Pages/ArticleDetails/51/1583/Comment/Hes-had-breakfast-now-put-him-out-to-pasture)
-4. [The New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10678740)
-5. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/07/c_13545883.htm)
-6. [TVNZ](http://tvnz.co.nz/national-news/india-calls-in-high-commissioner-over-henry-remarks-3825750)
-7. [Radio New Zealand](http://www.radionz.co.nz/news/national/58842/india-summons-nz-envoy-over-henry%27s-%27racist-remarks%27)
+2. [Indian Weekender](http://www.indianweekender.co.nz/Pages/ArticleDetails/51/1583/Comment/Hes-had-breakfast-now-put-him-out-to-pasture)
+3. [Radio New Zealand](http://www.radionz.co.nz/news/national/58842/india-summons-nz-envoy-over-henry%27s-%27racist-remarks%27)
+4. [TVNZ](http://tvnz.co.nz/national-news/india-calls-in-high-commissioner-over-henry-remarks-3825750)
+5. [The New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10678740)
+6. [The New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10678805)
+7. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/07/c_13545883.htm)
 
 ### Related:
 

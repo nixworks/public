@@ -7,9 +7,9 @@ At least 900 activists are arrested for trying to disrupt corporate and lobby gr
 
 ### Source:
 
-1. [Economic Times](http://economictimes.indiatimes.com/Developmental-Issues/Violence-breaks-out-at-Copenhagen-climate-protests-/articleshow/5331244.cms)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/12/200912121272173258.html)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8409331.stm)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/12/200912121272173258.html)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8409331.stm)
+3. [Economic Times](http://economictimes.indiatimes.com/Developmental-Issues/Violence-breaks-out-at-Copenhagen-climate-protests-/articleshow/5331244.cms)
 
 ### Related:
 

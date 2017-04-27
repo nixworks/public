@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/bondsNews/idUST22387120090210)
-2. [Moscow Times](http://www.moscowtimes.ru/article/1010/42/374376.htm)
+1. [Moscow Times](http://www.moscowtimes.ru/article/1010/42/374376.htm)
+2. [Reuters](http://www.reuters.com/article/bondsNews/idUST22387120090210)
 
 ### Related:
 

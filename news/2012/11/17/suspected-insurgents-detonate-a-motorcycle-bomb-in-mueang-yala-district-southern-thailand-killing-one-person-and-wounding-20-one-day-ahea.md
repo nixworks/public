@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/world/asia_pacific/motorcycle-bomb-kills-1-wounds-20-in-southern-thailand-ahead-of-obamas-visit/2012/11/16/f9903d6e-306f-11e2-af17-67abba0676e2_story.html)
-2. [Bangkok Post](http://www.bangkokpost.com/breakingnews/321727/yala-bomb-attack-kills-one)
+1. [Bangkok Post](http://www.bangkokpost.com/breakingnews/321727/yala-bomb-attack-kills-one)
+2. [Washington Post](http://www.washingtonpost.com/world/asia_pacific/motorcycle-bomb-kills-1-wounds-20-in-southern-thailand-ahead-of-obamas-visit/2012/11/16/f9903d6e-306f-11e2-af17-67abba0676e2_story.html)
 
 ### Related:
 

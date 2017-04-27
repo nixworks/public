@@ -8,9 +8,9 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4453239.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8203844)
-3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=aW0rqP4ayfII&refer=europe)
-4. [EITB](http://www.eitb24.com/noticia_en.php?id=53944)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=aW0rqP4ayfII&refer=europe)
+3. [EITB](http://www.eitb24.com/noticia_en.php?id=53944)
+4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8203844)
 
 ### Related:
 

@@ -31,7 +31,7 @@ _Context: Puri, Ratha-Yatra, stampede_
 US police say they are evaluating claims that Hollywood star Mel Gibson allegedly hit ex-girlfriend Oksana Grigorieva.
 
 ### [The Washington, D.C.-based global lender International Monetary Fund halts funds to the Bank of Central African States (BEAC) used by oil-producing nations in Central Africa, impacting on the Republic of the Congo and the Central African Republic. ](/news/2010/07/13/the-washington-d-c-based-global-lender-international-monetary-fund-halts-funds-to-the-bank-of-central-african-states-beac-used-by-oil-pr.md)
-_Context: Bank of Central African States, Central African Republic, International Monetary Fund, Republic of the Congo_
+_Context: Bank of Central African States, Central-African, International Monetary Fund, Republic of the Congo_
 
 ### [The EU announces that Estonia is to become the seventeenth member of the euro on 1 January 2011. ](/news/2010/07/13/the-eu-announces-that-estonia-is-to-become-the-seventeenth-member-of-the-euro-on-1-january-2011.md)
 European Union finance ministers gave the final approval today to Estonia joining the euro zone from the start of 2011 and set&hellip;

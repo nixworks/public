@@ -7,9 +7,9 @@ With unemployment at its highest level in 20 years, Portugal went to the polls y
 
 ### Source:
 
-1. [Trend News Agency](http://en.trend.az/regions/world/europe/1548038.html)
-2. [euronews](http://www.euronews.net/2009/09/28/portuguese-elections-results/)
-3. [The Independent](http://www.independent.co.uk/news/world/europe/portugal-keeps-socialists-in-power-despite-slump-1794269.html)
+1. [The Independent](http://www.independent.co.uk/news/world/europe/portugal-keeps-socialists-in-power-despite-slump-1794269.html)
+2. [Trend News Agency](http://en.trend.az/regions/world/europe/1548038.html)
+3. [euronews](http://www.euronews.net/2009/09/28/portuguese-elections-results/)
 
 ### Related:
 

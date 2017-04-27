@@ -8,8 +8,8 @@
 ### Source:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gp_pCGEHXHD2Z7NytSakOD3obt-w)
-2. [Xinhua](http://news.xinhuanet.com/english/2009-11/14/content_12452761.htm)
-3. [Today's Zaman](http://www.todayszaman.com/tz-web/news-192902-solution-process-officially-beginsbr-govt-unveils-details-of-democratization-initiative-at-parliament.html)
+2. [Today's Zaman](http://www.todayszaman.com/tz-web/news-192902-solution-process-officially-beginsbr-govt-unveils-details-of-democratization-initiative-at-parliament.html)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-11/14/content_12452761.htm)
 
 ### Related:
 

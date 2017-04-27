@@ -7,8 +7,8 @@ Rudolph W. Giuliani endorsed Senator John McCain for the Republican nomination. 
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2008/POLITICS/01/30/edwards/index.html)
-2. [CNN](http://edition.cnn.com/2008/POLITICS/01/30/debate.main/index.html)
+1. [CNN](http://edition.cnn.com/2008/POLITICS/01/30/debate.main/index.html)
+2. [CNN](http://edition.cnn.com/2008/POLITICS/01/30/edwards/index.html)
 3. [The New York Times](http://www.nytimes.com/2008/01/30/us/politics/30cnd-campaign.html)
 
 ### Related:

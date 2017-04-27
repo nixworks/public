@@ -7,9 +7,9 @@ Parliament approves law with stoning punishment for adultery, despite opposition
 
 ### Source:
 
-1. [Jakarta Post](http://www.thejakartapost.com/news/2009/09/14/indonesia039s-aceh-passes-law-stoning-death.html)
-2. [The Guardian](http://www.guardian.co.uk/world/2009/sep/14/indonesia-aceh-adultery-stoning-death)
-3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/09/200991418142587643.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/09/200991418142587643.html)
+2. [Jakarta Post](http://www.thejakartapost.com/news/2009/09/14/indonesia039s-aceh-passes-law-stoning-death.html)
+3. [The Guardian](http://www.guardian.co.uk/world/2009/sep/14/indonesia-aceh-adultery-stoning-death)
 
 ### Related:
 

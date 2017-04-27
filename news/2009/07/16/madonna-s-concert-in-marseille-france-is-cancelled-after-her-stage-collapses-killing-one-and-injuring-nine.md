@@ -7,14 +7,14 @@ A French city official says an upcoming Madonna concert in Marseille has been ca
 
 ### Source:
 
-1. [Pravda](http://english.pravda.ru/news//16-07-2009/108198-Madonna-0)
-2. [The Telegraph](http://www.telegraph.co.uk/news/newstopics/celebritynews/5845357/Madonna-concert-stage-collapses-in-Marseille-killing-one-and-injuring-eight.html)
-3. [Japan Today](http://www.japantoday.com/category/world/view/stage-for-madonnas-concert-in-marseille-collapses-1-dead)
+1. [AFP](http://news.yahoo.com/s/afp/20090716/ennew_afp/entertainmentfranceaccidentpeoplemadonna_20090716184346;_ylt=AlDMTH_hVN.SsTOZSXn.IM2FOrgF;_ylu=X3oDMTNmdWdzc2FlBGFzc2V0A2FmcC8yMDA5MDcxNi9lbnRlcnRhaW5tZW50ZnJhbmNlYWNjaWRlbnRwZW9wbGVtYWRvbm5hBHBvcwM5BHNlYwN5)
+2. [BBC](http://news.bbc.co.uk/2/hi/europe/8154643.stm)
+3. [Boston Globe](http://www.boston.com/news/world/europe/articles/2009/07/16/stage_for_french_madonna_show_collapses_1_dead/)
 4. [CBC](http://www.cbc.ca/world/story/2009/07/16/madonna-concert-stage-collapse.html)
-5. [Boston Globe](http://www.boston.com/news/world/europe/articles/2009/07/16/stage_for_french_madonna_show_collapses_1_dead/)
+5. [Japan Today](http://www.japantoday.com/category/world/view/stage-for-madonnas-concert-in-marseille-collapses-1-dead)
 6. [MSNBC](http://www.msnbc.msn.com/id/31946694/ns/entertainment-music/)
-7. [AFP](http://news.yahoo.com/s/afp/20090716/ennew_afp/entertainmentfranceaccidentpeoplemadonna_20090716184346;_ylt=AlDMTH_hVN.SsTOZSXn.IM2FOrgF;_ylu=X3oDMTNmdWdzc2FlBGFzc2V0A2FmcC8yMDA5MDcxNi9lbnRlcnRhaW5tZW50ZnJhbmNlYWNjaWRlbnRwZW9wbGVtYWRvbm5hBHBvcwM5BHNlYwN5)
-8. [BBC](http://news.bbc.co.uk/2/hi/europe/8154643.stm)
+7. [Pravda](http://english.pravda.ru/news//16-07-2009/108198-Madonna-0)
+8. [The Telegraph](http://www.telegraph.co.uk/news/newstopics/celebritynews/5845357/Madonna-concert-stage-collapses-in-Marseille-killing-one-and-injuring-eight.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [VOV News.vn](http://english.vovnews.vn/Home/Antistate-instigator-receives-harsh-sentence/200912/111276.vov)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hd-bobbIzZyQFFzKAzXSEFcdr_PQ)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hd-bobbIzZyQFFzKAzXSEFcdr_PQ)
+2. [VOV News.vn](http://english.vovnews.vn/Home/Antistate-instigator-receives-harsh-sentence/200912/111276.vov)
 
 ### Related:
 

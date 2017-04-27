@@ -8,8 +8,8 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2005/WORLD/asiapcf/06/20/whaling.meeting/)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8833514)
-3. [Japan Today](http://www.japantoday.com/e/?content=news&cat=1&id=340879)
+2. [Japan Today](http://www.japantoday.com/e/?content=news&cat=1&id=340879)
+3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8833514)
 
 ### Related:
 

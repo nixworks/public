@@ -25,7 +25,7 @@ Former Minnesota governor Tim Pawlenty&rsquo;s decision to drop out of the Repub
 _Context: Jhala Nath Khanal, Nepal, Prime Minister_
 
 ### [American golfer Keegan Bradley wins the United States 2011 PGA Championship at the Atlanta Athletic Club, defeating Jason Dufner in a playoff. ](/news/2011/08/14/american-golfer-keegan-bradley-wins-the-united-states-2011-pga-championship-at-the-atlanta-athletic-club-defeating-jason-dufner-in-a-playof.md)
-_Context: 2011 PGA Championship, American, Atlanta Athletic Club, Jason Dufner, Keegan Bradley, U.S._
+_Context: 2011 PGA Championship, American, Atlanta Athletic Club, Jason Dufner, Keegan Bradley, United States_
 
 ## [Previous Day...](/news/2011/08/13/index.md)
 

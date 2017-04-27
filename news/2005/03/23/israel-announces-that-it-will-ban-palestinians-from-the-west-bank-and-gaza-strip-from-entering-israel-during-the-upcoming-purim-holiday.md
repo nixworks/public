@@ -7,8 +7,8 @@ Israel has banned the entry of Palestinians from the West Bank and Gaza during t
 
 ### Source:
 
-1. [RTE](http://www.rte.ie/news/2005/0323/mideast.html)
-2. [People's Daily](http://english.people.com.cn/200503/23/eng20050323_177869.html)
+1. [People's Daily](http://english.people.com.cn/200503/23/eng20050323_177869.html)
+2. [RTE](http://www.rte.ie/news/2005/0323/mideast.html)
 
 ### Related:
 

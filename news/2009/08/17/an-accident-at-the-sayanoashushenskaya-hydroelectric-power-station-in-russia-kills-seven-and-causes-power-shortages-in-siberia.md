@@ -7,8 +7,8 @@ Eight people are dead and 54 still unaccounted for after an accident at a hydroe
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE57G0M120090817)
-2. [RTÉ](http://www.rte.ie/news/2009/0817/siberia.html)
+1. [RTÉ](http://www.rte.ie/news/2009/0817/siberia.html)
+2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE57G0M120090817)
 
 ### Related:
 

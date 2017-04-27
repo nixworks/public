@@ -8,8 +8,8 @@ A suicide bomber carried out an attack at a train station in the southern Russia
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-25541019)
-2. [Reuters](http://www.reuters.com/article/2013/12/29/us-russia-blast-idUSBRE9BS02S20131229)
-3. [CNN](http://www.cnn.com/2013/12/29/world/europe/russia-train-station-explosion/index.html?hpt=hp_t1)
+2. [CNN](http://www.cnn.com/2013/12/29/world/europe/russia-train-station-explosion/index.html?hpt=hp_t1)
+3. [Reuters](http://www.reuters.com/article/2013/12/29/us-russia-blast-idUSBRE9BS02S20131229)
 
 ### Related:
 

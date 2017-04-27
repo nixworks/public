@@ -7,8 +7,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2014/01/13/world/asia/china-explosion/)
-2. [ABC News](http://abcnews.go.com/International/wireStory/south-china-explosion-harms-18-deaths-21511067)
+1. [ABC News](http://abcnews.go.com/International/wireStory/south-china-explosion-harms-18-deaths-21511067)
+2. [CNN](http://www.cnn.com/2014/01/13/world/asia/china-explosion/)
 
 ### Related:
 

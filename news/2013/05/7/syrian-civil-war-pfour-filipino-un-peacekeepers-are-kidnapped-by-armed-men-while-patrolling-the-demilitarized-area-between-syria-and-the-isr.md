@@ -7,8 +7,8 @@ Four Filipino UN peacekeepers are seized while patrolling the demilitarised area
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-22435393)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/05/20135714319338927.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/05/20135714319338927.html)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-22435393)
 
 ### Related:
 

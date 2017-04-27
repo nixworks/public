@@ -7,9 +7,9 @@ ISTANBUL (AP) — A car bomb hit a police vehicle in Istanbul during the morning
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-turkey-blast-idUSKCN0YT0FB)
-2. [The Daily Star](http://www.thedailystar.net/frontpage/bomb-attack-cops-kills-11-istanbul-1236040)
-3. [AP](http://bigstory.ap.org/article/366603b622bf423db8756226ed803762/state-tv-says-bomb-attack-targets-police-vehicle-istanbul)
+1. [AP](http://bigstory.ap.org/article/366603b622bf423db8756226ed803762/state-tv-says-bomb-attack-targets-police-vehicle-istanbul)
+2. [Reuters](http://www.reuters.com/article/us-turkey-blast-idUSKCN0YT0FB)
+3. [The Daily Star](http://www.thedailystar.net/frontpage/bomb-attack-cops-kills-11-istanbul-1236040)
 4. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=54161#.V1c4-74Rsl0)
 
 ### Related:

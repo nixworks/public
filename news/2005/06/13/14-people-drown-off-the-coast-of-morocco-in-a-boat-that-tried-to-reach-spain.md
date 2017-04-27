@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/europe/4090016.stm)
-2. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/7FED172A-04FE-4CD4-855A-01E6AC0A2FBE.htm)
+1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/7FED172A-04FE-4CD4-855A-01E6AC0A2FBE.htm)
+2. [BBC](http://news.bbc.co.uk/2/hi/europe/4090016.stm)
 
 ### Related:
 

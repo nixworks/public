@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/technology-10951607)
-2. [Aljazeera](http://english.aljazeera.net/business/2010/08/2010812143513776296.html)
+1. [Aljazeera](http://english.aljazeera.net/business/2010/08/2010812143513776296.html)
+2. [BBC](http://www.bbc.co.uk/news/technology-10951607)
 
 ### Related:
 

@@ -7,9 +7,9 @@ The best opinions, comments and analysis from The Telegraph.
 
 ### Source:
 
-1. [apologises] for offence caused when it used the headline: "Should [[Homosexuality|homosexuals]] face execution?" [http://news.theage.com.au/breaking-news-world/bbc-apologises-over-gay-execution-debate-20091218-l0p4.html (''The Age](http://www.bbc.co.uk/blogs/theeditors/2009/12/africa_debate.html)
+1. [The Daily Telegraph](http://blogs.telegraph.co.uk/culture/michaelwhite/100005629/how-dare-the-bbc-run-a-debate-on-whether-murdering-homosexuals-is-acceptable/)
 2. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10616187)
-3. [The Daily Telegraph](http://blogs.telegraph.co.uk/culture/michaelwhite/100005629/how-dare-the-bbc-run-a-debate-on-whether-murdering-homosexuals-is-acceptable/)
+3. [apologises] for offence caused when it used the headline: "Should [[Homosexuality|homosexuals]] face execution?" [http://news.theage.com.au/breaking-news-world/bbc-apologises-over-gay-execution-debate-20091218-l0p4.html (''The Age](http://www.bbc.co.uk/blogs/theeditors/2009/12/africa_debate.html)
 
 ### Related:
 

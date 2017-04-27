@@ -7,11 +7,11 @@ The first trial at Guantanamo Bay under US President Barack Obama is suspended a
 
 ### Source:
 
-1. [France24](http://www.france24.com/en/20100813-canadian-detainee-omar-khadr-trial-delayed-lawyer-faints-courtroom-jackson-guantanamo)
+1. [Aljazeera](http://english.aljazeera.net//news/americas/2010/08/201081313222388417.html)
 2. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/201081302542266108.html)
-3. [The Independent](http://www.independent.co.uk/news/world/americas/guantanamo-critic-removed-from-jury-2051286.html)
-4. [Aljazeera](http://english.aljazeera.net//news/americas/2010/08/201081313222388417.html)
-5. [BBC](http://www.bbc.co.uk/news/world-us-canada-10968610)
+3. [BBC](http://www.bbc.co.uk/news/world-us-canada-10968610)
+4. [France24](http://www.france24.com/en/20100813-canadian-detainee-omar-khadr-trial-delayed-lawyer-faints-courtroom-jackson-guantanamo)
+5. [The Independent](http://www.independent.co.uk/news/world/americas/guantanamo-critic-removed-from-jury-2051286.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [NASA Spaceflight](http://www.nasaspaceflight.com/2012/12/soyuz-tma-07m-three-new-crewmembers-iss/)
-2. [Reuters](http://www.reuters.com/article/2012/12/19/kazakhstan-space-launch-idUSL5E8NJ8BK20121219)
-3. [CNet](http://news.cnet.com/8301-11386_3-57559952-76/soyuz-blasts-off-for-space-station-with-three-man-crew/)
+1. [CNet](http://news.cnet.com/8301-11386_3-57559952-76/soyuz-blasts-off-for-space-station-with-three-man-crew/)
+2. [NASA Spaceflight](http://www.nasaspaceflight.com/2012/12/soyuz-tma-07m-three-new-crewmembers-iss/)
+3. [Reuters](http://www.reuters.com/article/2012/12/19/kazakhstan-space-launch-idUSL5E8NJ8BK20121219)
 
 ### Related:
 

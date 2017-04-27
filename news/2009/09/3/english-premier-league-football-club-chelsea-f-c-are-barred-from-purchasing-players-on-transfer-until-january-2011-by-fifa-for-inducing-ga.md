@@ -7,8 +7,8 @@ Fifa have banned Chelsea from registering any new players until 2011 following t
 
 ### Source:
 
-1. [The Sun](http://www.thesun.co.uk/sol/homepage/sport/football/2622461/John-Terry-is-shocked-by-Chelseas-transfer-ban.html)
-2. [Sky Sports](http://www.skysports.com/story/0,19528,11661_5535793,00.html)
+1. [Sky Sports](http://www.skysports.com/story/0,19528,11661_5535793,00.html)
+2. [The Sun](http://www.thesun.co.uk/sol/homepage/sport/football/2622461/John-Terry-is-shocked-by-Chelseas-transfer-ban.html)
 
 ### Related:
 

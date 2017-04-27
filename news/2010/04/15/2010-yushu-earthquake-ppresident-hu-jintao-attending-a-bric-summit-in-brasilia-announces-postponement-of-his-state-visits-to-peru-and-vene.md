@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-04/15/c_13252419.htm)
-2. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-04/15/c_13253328.htm)
+1. [ABC](http://abcnews.go.com/International/slideshow/China-Earthquake-10370202)
+2. [Bernama](http://www.bernama.com/bernama/v5/newsgeneral.php?id=490726)
 3. [The Hindu](http://beta.thehindu.com/news/international/article397699.ece)
-4. [Bernama](http://www.bernama.com/bernama/v5/newsgeneral.php?id=490726)
-5. [ABC](http://abcnews.go.com/International/slideshow/China-Earthquake-10370202)
+4. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-04/15/c_13252419.htm)
+5. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-04/15/c_13253328.htm)
 
 ### Related:
 

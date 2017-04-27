@@ -7,11 +7,11 @@ European leaders held an emergency summit Sunday to find ways of easing the plig
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/world/2015/oct/26/eu-and-balkan-leaders-agree-migration-plan)
-2. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/ct-europe-migrants-20151025-story.html)
+1. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/ct-europe-migrants-20151025-story.html)
+2. [Daily Mail](http://www.dailymail.co.uk/news/article-3289223/EU-weeks-away-falling-apart-Dire-warning-countries-battle-cope-influx-migrants.html)
 3. [Radio New Zealand](http://www.radionz.co.nz/news/world/288016/emergency-eu-talks-on-migrant-crisis-begin)
-4. [Daily Mail](http://www.dailymail.co.uk/news/article-3289223/EU-weeks-away-falling-apart-Dire-warning-countries-battle-cope-influx-migrants.html)
-5. [Reuters](http://www.reuters.com/article/2015/10/26/us-europe-migrants-plan-idUSKCN0SJ12L20151026)
+4. [Reuters](http://www.reuters.com/article/2015/10/26/us-europe-migrants-plan-idUSKCN0SJ12L20151026)
+5. [The Guardian](http://www.theguardian.com/world/2015/oct/26/eu-and-balkan-leaders-agree-migration-plan)
 
 ### Related:
 

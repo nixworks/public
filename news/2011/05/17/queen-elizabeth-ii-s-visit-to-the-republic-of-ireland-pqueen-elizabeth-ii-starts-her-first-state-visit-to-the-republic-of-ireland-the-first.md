@@ -7,11 +7,11 @@ The Queen is due to begin the first visit to the Republic of Ireland by a Britis
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/queen-elizabeth-II/8517911/The-Queen-in-Ireland-bombs-found-hours-before-historic-state-visit.html)
+1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-13420053?utm_source=twitterfeed&utm_medium=twitter)
 2. [RTÉ](http://www.rte.ie/news/2011/0517/queen_tracker.html)
-3. [The Guardian](http://www.guardian.co.uk/uk/blog/2011/may/17/queen-visit-ireland-live)
-4. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-13420053?utm_source=twitterfeed&utm_medium=twitter)
-5. [Sky News](http://news.sky.com/skynews/Home/World-News/Video-Queen-In-Ireland-Irish-Police-Say-Bomb-Threat-Will-Not-Make-Them-Alter-Security-Measures/Article/201105315993434?lpos=World_News_Carousel_Region_0&lid=ARTICLE_15993434_Video%2C_Queen_In_Ireland%3A_Irish_Police_Say_Bomb_Threat_Will_Not_Make_Them_Alter_Security_Measures)
+3. [Sky News](http://news.sky.com/skynews/Home/World-News/Video-Queen-In-Ireland-Irish-Police-Say-Bomb-Threat-Will-Not-Make-Them-Alter-Security-Measures/Article/201105315993434?lpos=World_News_Carousel_Region_0&lid=ARTICLE_15993434_Video%2C_Queen_In_Ireland%3A_Irish_Police_Say_Bomb_Threat_Will_Not_Make_Them_Alter_Security_Measures)
+4. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/queen-elizabeth-II/8517911/The-Queen-in-Ireland-bombs-found-hours-before-historic-state-visit.html)
+5. [The Guardian](http://www.guardian.co.uk/uk/blog/2011/may/17/queen-visit-ireland-live)
 
 ### Related:
 

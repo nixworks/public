@@ -7,8 +7,8 @@ Stocks drift in a narrow range as the New York Stock Exchange reopens after two-
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/10/31/us-markets-stocks-idUSBRE89T0LN20121031)
-2. [CNN Money](http://money.cnn.com/2012/10/31/investing/stocks-markets/index.html?hpt=hp_t3)
+1. [CNN Money](http://money.cnn.com/2012/10/31/investing/stocks-markets/index.html?hpt=hp_t3)
+2. [Reuters](http://www.reuters.com/article/2012/10/31/us-markets-stocks-idUSBRE89T0LN20121031)
 
 ### Related:
 

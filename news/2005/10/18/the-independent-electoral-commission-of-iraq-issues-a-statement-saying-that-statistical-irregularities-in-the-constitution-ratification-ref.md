@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4351680.stm)
-2. [New York Times](http://fairuse.1accesshost.com/news5/nyt5.htm)
-3. [MTV](http://www.mtv.com/news/articles/1511658/20051018/index.jhtml?headlines=true)
+2. [MTV](http://www.mtv.com/news/articles/1511658/20051018/index.jhtml?headlines=true)
+3. [New York Times](http://fairuse.1accesshost.com/news5/nyt5.htm)
 
 ### Related:
 

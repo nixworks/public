@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2017/04/18/europe/france-election-le-pen-macron/index.html)
-2. [BBC](http://www.bbc.com/news/world-europe-39625509)
+1. [BBC](http://www.bbc.com/news/world-europe-39625509)
+2. [CNN](http://www.cnn.com/2017/04/18/europe/france-election-le-pen-macron/index.html)
 
 ### Related:
 

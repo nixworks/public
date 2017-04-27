@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Contra Costa Times](http://www.contracostatimes.com/mld/cctimes/news/nation/16532527.htm)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/6293649.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/6293649.stm)
+2. [Contra Costa Times](http://www.contracostatimes.com/mld/cctimes/news/nation/16532527.htm)
 
 ### Related:
 

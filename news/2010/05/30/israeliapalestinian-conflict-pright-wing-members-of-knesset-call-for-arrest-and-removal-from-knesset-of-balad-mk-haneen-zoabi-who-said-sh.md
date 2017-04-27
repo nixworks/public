@@ -7,14 +7,14 @@ Activists aboard an aid flotilla say they have left Cyprus and will reach Gaza o
 
 ### Source:
 
-1. [BreakingNews.ie](http://www.breakingnews.ie/ireland/cypriot-authorities-prevent-tds-from-joining-gaza-flotilla-459728.html)
-2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-05/30/c_13323985.htm)
-3. [RTÉ](http://www.rte.ie/news/2010/0530/gaza.html)
-4. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/05/2010530162851573107.html)
-5. [Voice of America](http://www1.voanews.com/english/news/middle-east/Humanitarian-Ships-Continue-Journey-to-Gaza-Strip-Israel-to-Prevent-95212999.html)
-6. [Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=176881)
-7. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/kazakhstan/7786400/Pro-Palestinian-activists-set-sail-for-Gaza.html)
-8. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10193249.stm)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/05/2010530162851573107.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10193249.stm)
+3. [BreakingNews.ie](http://www.breakingnews.ie/ireland/cypriot-authorities-prevent-tds-from-joining-gaza-flotilla-459728.html)
+4. [Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=176881)
+5. [RTÉ](http://www.rte.ie/news/2010/0530/gaza.html)
+6. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/kazakhstan/7786400/Pro-Palestinian-activists-set-sail-for-Gaza.html)
+7. [Voice of America](http://www1.voanews.com/english/news/middle-east/Humanitarian-Ships-Continue-Journey-to-Gaza-Strip-Israel-to-Prevent-95212999.html)
+8. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-05/30/c_13323985.htm)
 
 ### Related:
 

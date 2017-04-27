@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/09/21/bhutan.quake/)
-2. [BBS](http://www.bbs.com.bt/Earthquake%20hits%20Bhutan.html)
-3. [Indian Express](http://www.indianexpress.com/news/earthquake-kills-at-least-7-in-bhutan-shakes-assam/519737/)
-4. [Malaysia Star](http://thestar.com.my/news/story.asp?file=/2009/9/21/apworld/20090921173152&sec=apworld)
-5. [Earth Times](http://www.earthtimes.org/articles/show/286603,seven-dead-as-quake-rocks-bhutan-india-and-tibet--summary.html)
+1. [BBS](http://www.bbs.com.bt/Earthquake%20hits%20Bhutan.html)
+2. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/09/21/bhutan.quake/)
+3. [Earth Times](http://www.earthtimes.org/articles/show/286603,seven-dead-as-quake-rocks-bhutan-india-and-tibet--summary.html)
+4. [Indian Express](http://www.indianexpress.com/news/earthquake-kills-at-least-7-in-bhutan-shakes-assam/519737/)
+5. [Malaysia Star](http://thestar.com.my/news/story.asp?file=/2009/9/21/apworld/20090921173152&sec=apworld)
 
 ### Related:
 

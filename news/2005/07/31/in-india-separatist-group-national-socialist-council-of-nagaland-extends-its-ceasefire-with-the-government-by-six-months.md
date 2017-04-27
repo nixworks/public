@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Newindpress](http://www.newindpress.com/NewsItems.asp?ID=IEP20050731105452&Page=P&Title=States&Topic=0)
-2. [India Daily](http://www.indiadaily.com/editorial/3871.asp)
+1. [India Daily](http://www.indiadaily.com/editorial/3871.asp)
+2. [Newindpress](http://www.newindpress.com/NewsItems.asp?ID=IEP20050731105452&Page=P&Title=States&Topic=0)
 3. [Reuters India](http://in.today.reuters.com/news/NewsArticle.aspx?type=topNews&storyID=2005-07-31T120832Z_01_NOOTR_RTRJONC_0_India-211148-1.xml)
 
 ### Related:

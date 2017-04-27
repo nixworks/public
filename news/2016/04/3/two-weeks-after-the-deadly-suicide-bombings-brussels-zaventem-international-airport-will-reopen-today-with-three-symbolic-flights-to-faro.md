@@ -7,8 +7,8 @@ BRUSSELS, Belgium - Brussels Airport said it will partially reopen on Sunday, 12
 
 ### Source:
 
-1. [The Jewish Press](http://www.jewishpress.com/news/breaking-news/brussels-airport-to-reopen-with-symbolic-flights-only/2016/04/02/)
-2. [AsiaOne](http://news.asiaone.com/news/world/bomb-hit-brussels-airport-reopen-sunday-security-boost)
+1. [AsiaOne](http://news.asiaone.com/news/world/bomb-hit-brussels-airport-reopen-sunday-security-boost)
+2. [The Jewish Press](http://www.jewishpress.com/news/breaking-news/brussels-airport-to-reopen-with-symbolic-flights-only/2016/04/02/)
 
 ### Related:
 

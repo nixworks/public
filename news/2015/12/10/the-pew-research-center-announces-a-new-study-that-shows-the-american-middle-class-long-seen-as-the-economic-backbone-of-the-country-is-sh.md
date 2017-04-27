@@ -7,9 +7,9 @@ The number of Americans living in middle-income households fell from 61 percent 
 
 ### Source:
 
-1. [Pew Research Center](http://www.pewsocialtrends.org/2015/12/09/the-american-middle-class-is-losing-ground/)
-2. [Christian Science Monitor](http://www.csmonitor.com/USA/USA-Update/2015/1210/The-Middle-Class-is-shrinking-Does-it-matter)
-3. [Headlines & Global News](http://www.hngn.com/articles/159139/20151210/pew-middle-class-shrinking-longer-constitutes-majority.htm)
+1. [Christian Science Monitor](http://www.csmonitor.com/USA/USA-Update/2015/1210/The-Middle-Class-is-shrinking-Does-it-matter)
+2. [Headlines & Global News](http://www.hngn.com/articles/159139/20151210/pew-middle-class-shrinking-longer-constitutes-majority.htm)
+3. [Pew Research Center](http://www.pewsocialtrends.org/2015/12/09/the-american-middle-class-is-losing-ground/)
 
 ### Related:
 

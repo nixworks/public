@@ -7,5 +7,5 @@
 
 ### Source:
 
-1. [SPF](http://www.spf.gov.sg/mic/2007/070414_podied.htm)
-2. [CNA](http://www.channelnewsasia.com/stories/singaporelocalnews/view/270334/1/.html)
+1. [CNA](http://www.channelnewsasia.com/stories/singaporelocalnews/view/270334/1/.html)
+2. [SPF](http://www.spf.gov.sg/mic/2007/070414_podied.htm)

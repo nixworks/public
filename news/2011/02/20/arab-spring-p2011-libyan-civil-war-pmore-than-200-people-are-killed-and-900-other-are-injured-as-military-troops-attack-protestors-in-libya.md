@@ -7,19 +7,19 @@ Details emerge of massive casualties in the Libyan city of Benghazi, where docto
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/2011/02/20/uk-libya-protests-idUKTRE71G0AW20110220?pageNumber=2)
+1. [Afrol News](http://www.afrol.com/articles/37370)
 2. [Al Arabiya](http://www.alarabiya.net/articles/2011/02/19/138343.html)
-3. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/02/201122013428971616.html)
-4. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/2011220132734826964.html)
+3. [Al Jazeera](http://blogs.aljazeera.net/middle-east/2011/02/17/live-blog-libya#)
+4. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/02/201122013428971616.html)
 5. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/02/20112206386812127.html)
-6. [Al Jazeera](http://blogs.aljazeera.net/middle-east/2011/02/17/live-blog-libya#)
-7. [BBC](http://www.bbc.co.uk/news/world-africa-12517327)
-8. [Reuters via London South East](http://www.lse.co.uk/FinanceNews.asp?ArticleCode=r2q88tjiooucut9&ArticleHeadline=Libya_tribal_chief_threatens_to_block_oil_exports_Jazeera)
+6. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/2011220132734826964.html)
+7. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/20112206279487320.html)
+8. [BBC](http://www.bbc.co.uk/news/world-africa-12517327)
 9. [BBC](http://www.bbc.co.uk/news/world-africa-12518116)
 10. [CBC](http://www.cbc.ca/news/world/story/2011/02/20/libya-protests.html)
-11. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/20112206279487320.html)
-12. [Sky News](http://news.sky.com/skynews/Article/201102115937134)
-13. [Afrol News](http://www.afrol.com/articles/37370)
+11. [Reuters via London South East](http://www.lse.co.uk/FinanceNews.asp?ArticleCode=r2q88tjiooucut9&ArticleHeadline=Libya_tribal_chief_threatens_to_block_oil_exports_Jazeera)
+12. [Reuters](http://uk.reuters.com/article/2011/02/20/uk-libya-protests-idUKTRE71G0AW20110220?pageNumber=2)
+13. [Sky News](http://news.sky.com/skynews/Article/201102115937134)
 
 ### Related:
 

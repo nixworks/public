@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [JTA](http://www.jta.org/news/article/2010/11/14/2741728/8000-falash-mura-to-come-to-israel)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11753909)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11753909)
+2. [JTA](http://www.jta.org/news/article/2010/11/14/2741728/8000-falash-mura-to-come-to-israel)
 
 ### Related:
 

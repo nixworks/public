@@ -7,8 +7,8 @@ Merck &amp; Co. suffered a serious blow Friday when it lost the first wrongful d
 
 ### Source:
 
-1. [MSNBC](http://www.msnbc.msn.com/id/9006921/)
-2. [CNN](http://www.money.cnn.com/2005/08/19/news/fortune500/vioxx/index.htm)
+1. [CNN](http://www.money.cnn.com/2005/08/19/news/fortune500/vioxx/index.htm)
+2. [MSNBC](http://www.msnbc.msn.com/id/9006921/)
 
 ### Related:
 

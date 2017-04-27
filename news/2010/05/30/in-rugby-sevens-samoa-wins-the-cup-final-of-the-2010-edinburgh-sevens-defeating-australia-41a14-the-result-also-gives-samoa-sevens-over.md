@@ -7,5 +7,5 @@
 
 ### Source:
 
-1. [Samoa Observer](http://pidp.eastwestcenter.org/pireport/2010/June/06-01-01.htm)
-2. [International Rugby Board](http://www.irb.com/irbsevens/edition=10/news/newsid=2037818.html#samoa+edinburgh+sevens+world+series)
+1. [International Rugby Board](http://www.irb.com/irbsevens/edition=10/news/newsid=2037818.html#samoa+edinburgh+sevens+world+series)
+2. [Samoa Observer](http://pidp.eastwestcenter.org/pireport/2010/June/06-01-01.htm)

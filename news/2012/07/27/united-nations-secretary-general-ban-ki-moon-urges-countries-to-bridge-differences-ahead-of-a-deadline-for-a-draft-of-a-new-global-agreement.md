@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Miami Herald](http://www.miamiherald.com/2012/07/27/2916514/un-states-fail-to-reach-global.html)
-2. [BBC](http://www.bbc.co.uk/news/world-us-canada-19008740)
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-19008740)
+2. [Miami Herald](http://www.miamiherald.com/2012/07/27/2916514/un-states-fail-to-reach-global.html)
 
 ### Related:
 

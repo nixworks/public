@@ -7,8 +7,8 @@ More than 100 are feared killed as a military transport plane crashes in a resid
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-asia-33323419)
-2. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-06-30-AS--Indonesia-Military%20Plane%20Crash/id-43471b119ddf44d084a1eb646fbd5e91)
+1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-06-30-AS--Indonesia-Military%20Plane%20Crash/id-43471b119ddf44d084a1eb646fbd5e91)
+2. [BBC](http://www.bbc.com/news/world-asia-33323419)
 3. [NBC News](http://www.nbcnews.com/news/world/indonesia-military-plane-crashes-hotel-dozens-killed-n384201)
 
 ### Related:

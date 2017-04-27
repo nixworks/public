@@ -7,8 +7,8 @@ Museveni confident of a fourth term while opposition threatens mass protests if 
 
 ### Source:
 
-1. [Bangkok Post](http://www.bangkokpost.com/breakingnews/222269/uganda-vote-set-to-extend-museveni-25-year-rule)
-2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/02/201121818435518664.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/02/201121818435518664.html)
+2. [Bangkok Post](http://www.bangkokpost.com/breakingnews/222269/uganda-vote-set-to-extend-museveni-25-year-rule)
 
 ### Related:
 

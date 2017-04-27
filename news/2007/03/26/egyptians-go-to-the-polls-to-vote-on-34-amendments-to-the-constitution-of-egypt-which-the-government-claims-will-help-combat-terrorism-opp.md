@@ -7,8 +7,8 @@ Issues of politics were overshadowed by more basic concerns, like lack of jobs, 
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2007/03/26/world/africa/26egypt.html?_r=1&oref=slogin)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6498573.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6498573.stm)
+2. [New York Times](http://www.nytimes.com/2007/03/26/world/africa/26egypt.html?_r=1&oref=slogin)
 
 ### Related:
 

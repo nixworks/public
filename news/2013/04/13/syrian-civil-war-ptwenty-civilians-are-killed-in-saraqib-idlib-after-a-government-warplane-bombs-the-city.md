@@ -7,10 +7,10 @@ The British press has released details of the use of chemical weapons in the Syr
 
 ### Source:
 
-1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/report-british-scientists-find-evidence-chemical-weapons-were-used-in-syria-1.515242)
-2. [The Times of Israel](http://www.timesofisrael.com/soil-sample-proves-chemical-weapons-used-in-syria/)
-3. [Euronews](http://www.euronews.com/2013/04/13/chemical-weapons-used-in-syria-according-to-british-newspaper-sources/)
-4. [AP via CBC News](http://www.cbc.ca/news/world/story/2013/04/13/syria-attack.html)
+1. [AP via CBC News](http://www.cbc.ca/news/world/story/2013/04/13/syria-attack.html)
+2. [Euronews](http://www.euronews.com/2013/04/13/chemical-weapons-used-in-syria-according-to-british-newspaper-sources/)
+3. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/report-british-scientists-find-evidence-chemical-weapons-were-used-in-syria-1.515242)
+4. [The Times of Israel](http://www.timesofisrael.com/soil-sample-proves-chemical-weapons-used-in-syria/)
 
 ### Related:
 

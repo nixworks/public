@@ -7,8 +7,8 @@ China denies claims by the UN that hundreds of Tibetan monks may have been detai
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13711551)
-2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jJks0wohZxC8OgMZHoMq9MsGpZFQ?docId=3240006430e14a02a8df78f6c6e45185)
+1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jJks0wohZxC8OgMZHoMq9MsGpZFQ?docId=3240006430e14a02a8df78f6c6e45185)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13711551)
 
 ### Related:
 

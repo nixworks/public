@@ -7,10 +7,10 @@ Thirty-three&#x20;Chilean&#x20;miners&#x20;trapped&#x20;more&#x20;than&#x20;two&
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11054376)
-2. [Reuters via France24](http://www.france24.com/en/20100822-miners-trapped-two-weeks-still-alive-send-message-Chile)
-3. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5i075ahoJZZkuwcSyRJcUkUDZKuFQD9HOOM6G0)
-4. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/2010822202238700399.html)
+1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5i075ahoJZZkuwcSyRJcUkUDZKuFQD9HOOM6G0)
+2. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/2010822202238700399.html)
+3. [BBC](http://www.bbc.co.uk/news/world-latin-america-11054376)
+4. [Reuters via France24](http://www.france24.com/en/20100822-miners-trapped-two-weeks-still-alive-send-message-Chile)
 
 ### Related:
 

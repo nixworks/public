@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/world/china/18-killed-in-China-coal-mine-fire/articleshow/5415487.cms)
-2. [Xinhua](http://news.xinhuanet.com/english/2010-01/06/content_12764355.htm)
-3. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE6050YX20100106)
-4. [Press TV](http://www.presstv.ir/detail.aspx?id=115519&sectionid=351020404)
+1. [Press TV](http://www.presstv.ir/detail.aspx?id=115519&sectionid=351020404)
+2. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE6050YX20100106)
+3. [Times of India](http://timesofindia.indiatimes.com/world/china/18-killed-in-China-coal-mine-fire/articleshow/5415487.cms)
+4. [Xinhua](http://news.xinhuanet.com/english/2010-01/06/content_12764355.htm)
 
 ### Related:
 

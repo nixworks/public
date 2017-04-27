@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Los Angeles Times](http://www.latimes.com/sports/la-sp-0421-ncaa-gymnastics-20130421,0,3882689.story)
-2. [AP via ESPN](http://espn.go.com/college-sports/story/_/id/9195398/michigan-wolverines-win-fifth-ncaa-men-gymnastics-title)
+1. [AP via ESPN](http://espn.go.com/college-sports/story/_/id/9195398/michigan-wolverines-win-fifth-ncaa-men-gymnastics-title)
+2. [Los Angeles Times](http://www.latimes.com/sports/la-sp-0421-ncaa-gymnastics-20130421,0,3882689.story)
 
 ### Related:
 

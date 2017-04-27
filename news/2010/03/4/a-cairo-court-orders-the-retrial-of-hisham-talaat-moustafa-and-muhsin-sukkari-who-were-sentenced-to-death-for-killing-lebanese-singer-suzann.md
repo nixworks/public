@@ -8,10 +8,10 @@ An Egyptian property tycoon, who was sentenced to death for murdering his former
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8549214.stm)
-2. [The Guardian](http://www.guardian.co.uk/world/2010/mar/04/egyptian-billionaire-retrial-popstar-murder)
-3. [The Los Angeles Times](http://www.latimes.com/news/la-fgw-lebanon-singer5-2010mar05,0,6332886.story?track=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+latimes%2Fnews+%28L.A.+Times+-+Top+News%29)
-4. [Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/6896625.html)
-5. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/egypt/7367719/Egyptian-tycoon-faces-retrial-for-murdering-Lebanese-pop-star.html)
+2. [Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/6896625.html)
+3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/egypt/7367719/Egyptian-tycoon-faces-retrial-for-murdering-Lebanese-pop-star.html)
+4. [The Guardian](http://www.guardian.co.uk/world/2010/mar/04/egyptian-billionaire-retrial-popstar-murder)
+5. [The Los Angeles Times](http://www.latimes.com/news/la-fgw-lebanon-singer5-2010mar05,0,6332886.story?track=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+latimes%2Fnews+%28L.A.+Times+-+Top+News%29)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Deadly clashes erupt between Mauritanian troops and militants linked to al-Qaeda
 
 ### Source:
 
-1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20100918191334499C315274)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-11354029)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-11354029)
+2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20100918191334499C315274)
 
 ### Related:
 

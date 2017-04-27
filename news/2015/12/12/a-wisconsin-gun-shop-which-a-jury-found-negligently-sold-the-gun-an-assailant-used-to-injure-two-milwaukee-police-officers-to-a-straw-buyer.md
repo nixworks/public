@@ -7,8 +7,8 @@ A Milwaukee gun store will pay $1 million to settle a case with two police offic
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-wisconsin-guns-idUSKBN0TV01820151212)
-2. [AP via  seattlepi.com](http://www.seattlepi.com/news/crime/article/Wisconsin-gun-shop-to-pay-1M-to-settle-officers-6694184.php)
+1. [AP via  seattlepi.com](http://www.seattlepi.com/news/crime/article/Wisconsin-gun-shop-to-pay-1M-to-settle-officers-6694184.php)
+2. [Reuters](http://www.reuters.com/article/us-wisconsin-guns-idUSKBN0TV01820151212)
 
 ### Related:
 

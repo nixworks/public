@@ -7,6 +7,6 @@
 
 ### Source:
 
-1. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/breakingnews/world/view/20100115-247523/Police-block-Chinas-first-gay-pageant-organizers)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8461643.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8461643.stm)
+2. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/breakingnews/world/view/20100115-247523/Police-block-Chinas-first-gay-pageant-organizers)
 3. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6989681.ece#cid=OTC-RSS&attr=797093)

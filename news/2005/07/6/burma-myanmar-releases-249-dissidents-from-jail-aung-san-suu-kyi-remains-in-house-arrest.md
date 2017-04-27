@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Democratic Voice of Burma](http://english.dvb.no/news.php?id=5106)
-2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/156455/1/.html)
+1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/156455/1/.html)
+2. [Democratic Voice of Burma](http://english.dvb.no/news.php?id=5106)
 
 ### Related:
 

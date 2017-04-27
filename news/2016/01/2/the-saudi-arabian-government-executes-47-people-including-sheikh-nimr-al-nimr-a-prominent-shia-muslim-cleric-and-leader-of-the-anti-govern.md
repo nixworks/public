@@ -7,11 +7,11 @@ Prominent Shia cleric Sheikh Nimr al-Nimr is among 47 people executed for terror
 
 ### Source:
 
-1. [Reuters](http://mobile.reuters.com/article/idUSKBN0UG03B20160102)
-2. [The New York Times](http://www.nytimes.com/2016/01/03/world/middleeast/saudi-arabia-executes-47-sheikh-nimr-shiite-cleric.html?_r=0)
-3. [BBC](http://www.bbc.com/news/world-middle-east-35213244)
-4. [Indian Express](http://indianexpress.com/article/world/world-news/saudi-arabia-executes-47-terrorists-including-shiite-cleric-sheikh-nimr-al-nimr/)
-5. [ (The Nation](http://nation.com.pk/international/02-Jan-2016/saudi-arabia-executes-sheikh-nimr-al-nimr)
+1. [ (The Nation](http://nation.com.pk/international/02-Jan-2016/saudi-arabia-executes-sheikh-nimr-al-nimr)
+2. [BBC](http://www.bbc.com/news/world-middle-east-35213244)
+3. [Indian Express](http://indianexpress.com/article/world/world-news/saudi-arabia-executes-47-terrorists-including-shiite-cleric-sheikh-nimr-al-nimr/)
+4. [Reuters](http://mobile.reuters.com/article/idUSKBN0UG03B20160102)
+5. [The New York Times](http://www.nytimes.com/2016/01/03/world/middleeast/saudi-arabia-executes-47-sheikh-nimr-shiite-cleric.html?_r=0)
 
 ### Related:
 

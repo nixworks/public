@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Myanmar-Supreme-Court-rejects-Suu-Kyi-appeal-Official/articleshow/5618124.cms)
+1. [CBC](http://www.cbc.ca/world/story/2010/02/25/burma-suu-kyi025.html)
 2. [MSN Philippines](http://news.ph.msn.com/regional/article.aspx?cp-documentid=3911539)
-3. [CBC](http://www.cbc.ca/world/story/2010/02/25/burma-suu-kyi025.html)
+3. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Myanmar-Supreme-Court-rejects-Suu-Kyi-appeal-Official/articleshow/5618124.cms)
 
 ### Related:
 

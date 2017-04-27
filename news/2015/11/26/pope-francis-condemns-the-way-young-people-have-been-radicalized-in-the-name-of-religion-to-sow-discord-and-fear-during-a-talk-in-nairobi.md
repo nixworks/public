@@ -7,8 +7,8 @@ He also called for a &ldquo;new culture&rdquo; of sustainable development that w
 
 ### Source:
 
-1. [Washington Post](https://www.washingtonpost.com/world/pope-francis-condemns-radicalization-of-youth-in-name-of-religion/2015/11/26/3e1bfe0e-915d-11e5-befa-99ceebcbb272_story.html?wpmm=1&wpisrc=nl_headlines)
-2. [CNN](http://www.cnn.com/2015/11/26/africa/kenya-pope-francis-trip-main/)
+1. [CNN](http://www.cnn.com/2015/11/26/africa/kenya-pope-francis-trip-main/)
+2. [Washington Post](https://www.washingtonpost.com/world/pope-francis-condemns-radicalization-of-youth-in-name-of-religion/2015/11/26/3e1bfe0e-915d-11e5-befa-99ceebcbb272_story.html?wpmm=1&wpisrc=nl_headlines)
 
 ### Related:
 

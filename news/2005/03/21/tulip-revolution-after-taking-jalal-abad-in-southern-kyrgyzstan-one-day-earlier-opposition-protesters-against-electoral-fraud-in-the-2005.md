@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/L21422712.htm)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4365945.stm)
-3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4367319.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4365945.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4367319.stm)
+3. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/L21422712.htm)
 
 ### Related:
 

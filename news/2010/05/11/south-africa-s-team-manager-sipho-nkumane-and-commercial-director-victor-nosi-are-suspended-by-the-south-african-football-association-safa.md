@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bangkok Post](http://www.bangkokpost.com/news/sports/177572/s-african-football-officials-suspended)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/8675013.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/8675013.stm)
+2. [Bangkok Post](http://www.bangkokpost.com/news/sports/177572/s-african-football-officials-suspended)
 
 ### Related:
 

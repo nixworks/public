@@ -7,8 +7,8 @@ The University of Papua New Guinea obtains an injunction to stop protests, after
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-papua-protests-idUSKCN0YU2PI)
-2. [BBC](http://www.bbc.com/news/world-asia-36486004)
+1. [BBC](http://www.bbc.com/news/world-asia-36486004)
+2. [Reuters](http://www.reuters.com/article/us-papua-protests-idUSKCN0YU2PI)
 
 ### Related:
 

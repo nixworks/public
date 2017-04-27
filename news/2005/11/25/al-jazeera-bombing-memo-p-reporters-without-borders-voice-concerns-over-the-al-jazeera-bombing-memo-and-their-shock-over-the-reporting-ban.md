@@ -7,9 +7,9 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ### Source:
 
-1. [New Kerala](http://www.newkerala.com/news.php?action=fullnews&id=56941)
-2. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/4469044.stm)
-3. [Daily Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2005/11/25/ujaz.xml&sSheet=/portal/2005/11/25/ixportaltop.html)
+1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/4469044.stm)
+2. [Daily Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2005/11/25/ujaz.xml&sSheet=/portal/2005/11/25/ixportaltop.html)
+3. [New Kerala](http://www.newkerala.com/news.php?action=fullnews&id=56941)
 
 ### Related:
 

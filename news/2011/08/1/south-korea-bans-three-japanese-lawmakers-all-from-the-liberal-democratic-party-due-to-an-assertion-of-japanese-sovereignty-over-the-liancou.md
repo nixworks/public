@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Yonhap](http://english.yonhapnews.co.kr/news/2011/08/01/33/0200000000AEN20110801004100315F.HTML)
-2. [Mainichi Shimbun](http://mdn.mainichi.jp/mdnnews/news/20110801p2g00m0dm006000c.html)
+1. [Mainichi Shimbun](http://mdn.mainichi.jp/mdnnews/news/20110801p2g00m0dm006000c.html)
+2. [Yonhap](http://english.yonhapnews.co.kr/news/2011/08/01/33/0200000000AEN20110801004100315F.HTML)
 
 ### Related:
 

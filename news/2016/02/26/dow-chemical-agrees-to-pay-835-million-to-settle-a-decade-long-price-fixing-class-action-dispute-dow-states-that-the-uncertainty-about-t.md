@@ -7,8 +7,8 @@ Dow Chemical Co. agreed to pay US$835 million to settle a decade-long lawsuit on
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-usa-court-classactions-idUSKCN0VZ2TF)
-2. [Reuters via ''Winnipeg Sun](http://www.winnipegsun.com/2016/02/26/dow-chemical-settles-price-fixing-case)
+1. [Reuters via ''Winnipeg Sun](http://www.winnipegsun.com/2016/02/26/dow-chemical-settles-price-fixing-case)
+2. [Reuters](http://www.reuters.com/article/us-usa-court-classactions-idUSKCN0VZ2TF)
 
 ### Related:
 

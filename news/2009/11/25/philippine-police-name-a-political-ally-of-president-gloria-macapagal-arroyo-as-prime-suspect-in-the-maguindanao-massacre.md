@@ -7,8 +7,8 @@ MANILA - Police on Wednesday named a political ally of President Gloria Arroyo a
 
 ### Source:
 
-1. [Philippine Daily Inquirer](http://politics.inquirer.net/view.php?db=1&article=20091124-238071)
-2. [ABS-CBN News](http://www.abs-cbnnews.com/nation/11/25/09/police-name-ampatuan-jr-top-suspect-massacre)
+1. [ABS-CBN News](http://www.abs-cbnnews.com/nation/11/25/09/police-name-ampatuan-jr-top-suspect-massacre)
+2. [Philippine Daily Inquirer](http://politics.inquirer.net/view.php?db=1&article=20091124-238071)
 
 ### Related:
 

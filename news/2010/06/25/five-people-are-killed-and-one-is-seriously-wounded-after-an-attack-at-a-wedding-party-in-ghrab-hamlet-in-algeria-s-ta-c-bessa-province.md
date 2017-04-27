@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=85&art_id=nw20100625185300165C882825)
-2. [Hindustan Times](http://www.hindustantimes.com/Five-killed-in-attack-on-wedding-party-in-Algeria/Article1-563334.aspx)
+1. [Hindustan Times](http://www.hindustantimes.com/Five-killed-in-attack-on-wedding-party-in-Algeria/Article1-563334.aspx)
+2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=85&art_id=nw20100625185300165C882825)
 3. [Reuters Africa](http://af.reuters.com/article/algeriaNews/idAFLDE65O1T120100625)
 
 ### Related:

@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [Time](http://www.time.com/time/world/article/0,8599,1913370,00.html)
-2. [The Moscow Tkmes](http://www.moscowtimes.ru/article/1010/42/379976.htm)
-3. [BBC](http://news.bbc.co.uk/2/hi/europe/8173649.stm)
-4. [Boston Globe](http://www.boston.com/news/world/europe/articles/2009/07/28/moldova_to_decide_its_future_direction_in_election/)
-5. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE56S63R20090729?feedType=RSS&feedName=worldNews)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8173649.stm)
+2. [Boston Globe](http://www.boston.com/news/world/europe/articles/2009/07/28/moldova_to_decide_its_future_direction_in_election/)
+3. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE56S63R20090729?feedType=RSS&feedName=worldNews)
+4. [The Moscow Tkmes](http://www.moscowtimes.ru/article/1010/42/379976.htm)
+5. [Time](http://www.time.com/time/world/article/0,8599,1913370,00.html)
 
 ### Related:
 

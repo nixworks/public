@@ -7,8 +7,8 @@ Latest news and information about the European Parliament
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/russia/20091022/156556061.html)
-2. [EP press release](http://www.europarl.europa.eu/news/public/story_page/015-62806-292-10-43-902-20091020STO62805-2009-19-10-2009/default_en.htm)
+1. [EP press release](http://www.europarl.europa.eu/news/public/story_page/015-62806-292-10-43-902-20091020STO62805-2009-19-10-2009/default_en.htm)
+2. [RIA Novosti](http://en.rian.ru/russia/20091022/156556061.html)
 3. [euronews](http://www.euronews.net/2009/10/22/russian-ngo-wins-eu-human-rights-prize/)
 
 ### Related:

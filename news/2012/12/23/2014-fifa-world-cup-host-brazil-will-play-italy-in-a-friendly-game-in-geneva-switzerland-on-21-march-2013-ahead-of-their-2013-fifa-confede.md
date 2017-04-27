@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Goal.com](http://www.goal.com/en-gb/news/2557/news/2012/12/21/3620416/brazil-announce-italy-friendly-in-march)
-2. [ESPN](http://soccernet.espn.go.com/conversation?id=1272455)
+1. [ESPN](http://soccernet.espn.go.com/conversation?id=1272455)
+2. [Goal.com](http://www.goal.com/en-gb/news/2557/news/2012/12/21/3620416/brazil-announce-italy-friendly-in-march)
 
 ### Related:
 

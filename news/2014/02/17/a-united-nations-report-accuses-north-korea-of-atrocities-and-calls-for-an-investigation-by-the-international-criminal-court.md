@@ -7,8 +7,8 @@ UN-mandated report says leaders, including Kim Jong-un, complicit in exterminati
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-26220304)
-2. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2014/02/nk-leaders-accused-crimes-against-humanity-2014217131956791816.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2014/02/nk-leaders-accused-crimes-against-humanity-2014217131956791816.html)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-26220304)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/sport/gaa/championship/2009/0906/kilkenny_tipperary_.html)
-2. [Irish Independent](http://www.independent.ie/national-news/heroes-return-to-catcalls-of-gimme-five-1880548.html)
+1. [Irish Independent](http://www.independent.ie/national-news/heroes-return-to-catcalls-of-gimme-five-1880548.html)
+2. [RTÉ](http://www.rte.ie/sport/gaa/championship/2009/0906/kilkenny_tipperary_.html)
 
 ### Related:
 

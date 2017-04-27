@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Ghana Broadcasting Corporation](http://www.gbcghana.com/index.php?id=1.959642)
-2. [Naharnet](http://www.naharnet.com/stories/en/46193-red-crescent-worker-among-56-killed-in-syria)
-3. [CNN](http://edition.cnn.com/2012/07/11/world/meast/syria-unrest/index.html)
+1. [CNN](http://edition.cnn.com/2012/07/11/world/meast/syria-unrest/index.html)
+2. [Ghana Broadcasting Corporation](http://www.gbcghana.com/index.php?id=1.959642)
+3. [Naharnet](http://www.naharnet.com/stories/en/46193-red-crescent-worker-among-56-killed-in-syria)
 4. [Reuters](http://www.reuters.com/article/2012/07/11/us-syria-crisis-idUSBRE8610SH20120711)
 
 ### Related:

@@ -8,9 +8,9 @@ Thousands of mourners turned out Saturday for funerals for 15 of the people kill
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8612812.stm)
-2. [Financial Times](http://www.ft.com/cms/s/9cc466f4-44a0-11df-9615-00144feab49a,Authorised=false.html?_i_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2F9cc466f4-44a0-11df-9615-00144feab49a.html%3Fftcamp%3Drss&_i_referer=http%3A%2F%2Fnews.bbc.co.uk%2F2%2Fhi%2Fasia-pacific%2F8612812.stm&ftcamp=rss)
-3. [UPI](http://www.upi.com/Top_News/US/2010/04/10/Thousands-mourn-Kyrgyzstan-victims/UPI-49331270903592/)
-4. [CNEWS](http://cnews.canoe.ca/CNEWS/World/2010/04/10/13536021-reuters.html)
+2. [CNEWS](http://cnews.canoe.ca/CNEWS/World/2010/04/10/13536021-reuters.html)
+3. [Financial Times](http://www.ft.com/cms/s/9cc466f4-44a0-11df-9615-00144feab49a,Authorised=false.html?_i_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2F9cc466f4-44a0-11df-9615-00144feab49a.html%3Fftcamp%3Drss&_i_referer=http%3A%2F%2Fnews.bbc.co.uk%2F2%2Fhi%2Fasia-pacific%2F8612812.stm&ftcamp=rss)
+4. [UPI](http://www.upi.com/Top_News/US/2010/04/10/Thousands-mourn-Kyrgyzstan-victims/UPI-49331270903592/)
 
 ### Related:
 

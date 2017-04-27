@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [SABC](http://www.sabcnews.com/africa/west_africa/0,2172,137489,00.html)
-2. [Xinhua](http://news.xinhuanet.com/english/2006-10/29/content_5264649.htm)
-3. [CNN](http://edition.cnn.com/2006/WORLD/africa/10/29/nigeria.crash/)
-4. [Reuters](http://www.alertnet.org/thenews/newsdesk/L29881419.htm)
-5. [CBS](http://cbs3.com/topstories/topstories_story_302082204.html)
+1. [CBS](http://cbs3.com/topstories/topstories_story_302082204.html)
+2. [CNN](http://edition.cnn.com/2006/WORLD/africa/10/29/nigeria.crash/)
+3. [Reuters](http://www.alertnet.org/thenews/newsdesk/L29881419.htm)
+4. [SABC](http://www.sabcnews.com/africa/west_africa/0,2172,137489,00.html)
+5. [Xinhua](http://news.xinhuanet.com/english/2006-10/29/content_5264649.htm)
 
 ### Related:
 

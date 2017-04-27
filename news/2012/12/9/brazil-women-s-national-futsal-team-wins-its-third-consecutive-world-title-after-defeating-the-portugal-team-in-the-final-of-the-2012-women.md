@@ -7,14 +7,14 @@
 
 ### Source:
 
-1. [LPF](http://www.fpf.pt/portal/page/portal/PORTAL_FUTEBOL/SELECCOES/SELECCOES_FUTSAL/FEMININAA/MUNDIAL)
-2. [FutsalGlobal](http://www.futsalglobal.com.pt/noticias/feminino/mundial-feminino/brasil-conquista-o-tri-e-acaba-com-sonho-luso)
-3. [FutsalPlanet](http://www.futsalplanet.com/news/news-01.asp?id=17004)
+1. [FutsalGlobal](http://www.futsalglobal.com.pt/noticias/feminino/mundial-feminino/brasil-conquista-o-tri-e-acaba-com-sonho-luso)
+2. [FutsalPlanet](http://www.futsalplanet.com/news/news-01.asp?id=17004)
+3. [LPF](http://www.fpf.pt/portal/page/portal/PORTAL_FUTEBOL/SELECCOES/SELECCOES_FUTSAL/FEMININAA/MUNDIAL)
 
 ### Related:
 
 1. [Reigning champions Brazil and host Portugal will play in the final of the 2012 Women's Futsal World Tournament after they beat Russia and Spain in the semifinals respectively. ](/news/2012/12/8/reigning-champions-brazil-and-host-portugal-will-play-in-the-final-of-the-2012-women-s-futsal-world-tournament-after-they-beat-russia-and-sp.md) _Context: 2012 Women's Futsal World Tournament, Brazil, Portuguese, world title_
-2. [In Paraguay, around 50 armed men, allegedly belonging to the Brazil-based First Capital Command criminal gang, storm a security vault and police headquarters in Ciudad del Este, escaping with around $6 million in a daring cross-border raid. ](/news/2017/04/25/in-paraguay-around-50-armed-men-allegedly-belonging-to-the-brazil-based-first-capital-command-criminal-gang-storm-a-security-vault-and-po.md) _Context: Brazil_
+2. [In Paraguay, around 50 armed men, allegedly belonging to the Brazil-based Primeiro Comando da Capital criminal gang, storm a security vault and police headquarters in Ciudad del Este, escaping with around $6 million in a daring cross-border raid. ](/news/2017/04/24/in-paraguay-around-50-armed-men-allegedly-belonging-to-the-brazil-based-primeiro-comando-da-capital-criminal-gang-storm-a-security-vault.md) _Context: Brazil_
 3. [A small Swiss-owned plane crashes in the Portuguese village of Tires, west of Lisbon, killing at least five people. ](/news/2017/04/17/a-small-swiss-owned-plane-crashes-in-the-portuguese-village-of-tires-west-of-lisbon-killing-at-least-five-people.md) _Context: Portuguese_
 4. [SpaceX successfully launches the EchoStar 23 satellite, a Direct-to-home television broadcast services for Brazil, into a geosynchronous transfer orbit, using the fully expendable version of their Falcon 9 launch vehicle. ](/news/2017/03/16/spacex-successfully-launches-the-echostar-23-satellite-a-direct-to-home-television-broadcast-services-for-brazil-into-a-geosynchronous-tra.md) _Context: Brazil_
 5. [A judge in Peru issues an arrest warrant for former President Alejandro Toledo for allegedly receiving US$20 million in bribes from Odebrecht, a Brazilian construction company, in exchange for a contract deal to build a transoceanic highway between Brazil and the Peruvian coast. Toledo denies any wrongdoing. ](/news/2017/02/10/a-judge-in-peru-issues-an-arrest-warrant-for-former-president-alejandro-toledo-for-allegedly-receiving-us-20-million-in-bribes-from-odebrech.md) _Context: Brazil_

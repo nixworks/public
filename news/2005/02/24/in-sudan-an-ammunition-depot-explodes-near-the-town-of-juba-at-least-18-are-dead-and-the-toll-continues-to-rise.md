@@ -7,8 +7,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/africa/4291747.stm)
-2. [ABC](http://abcnews.go.com/International/wireStory?id=525378)
+1. [ABC](http://abcnews.go.com/International/wireStory?id=525378)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/4291747.stm)
 
 ### Related:
 

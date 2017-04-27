@@ -8,5 +8,5 @@ One or more shooters are believed to be on the loose, armed and dangerous, after
 ### Source:
 
 1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2016-04-22-US--Ohio%20Shootings/id-de31e5d00f7e493e9cc1d09294a14300)
-2. [Fox News](http://www.foxnews.com/us/2016/04/22/shooting-reportedly-kills-7-at-ohio-home.html)
-3. [AP²](http://bigstory.ap.org/article/c3f22bbf68d5427c97a40e6e212e7d61/shootings-multiple-fatalities-reported-southern-ohio)
+2. [AP²](http://bigstory.ap.org/article/c3f22bbf68d5427c97a40e6e212e7d61/shootings-multiple-fatalities-reported-southern-ohio)
+3. [Fox News](http://www.foxnews.com/us/2016/04/22/shooting-reportedly-kills-7-at-ohio-home.html)

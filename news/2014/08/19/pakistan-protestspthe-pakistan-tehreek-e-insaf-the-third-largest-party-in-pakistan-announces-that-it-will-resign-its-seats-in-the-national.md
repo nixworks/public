@@ -7,8 +7,8 @@ Imran Khan&#039;s opposition party will resign its seats in Pakistan&#039;s nati
 
 ### Source:
 
-1. [Reuters via Radio Australia](http://www.abc.net.au/news/2014-08-19/imran-khan-party-to-resign-parliamentary-seats/5679826)
-2. [LBC](http://www.lbcgroup.tv/news/172892/lbci-news)
+1. [LBC](http://www.lbcgroup.tv/news/172892/lbci-news)
+2. [Reuters via Radio Australia](http://www.abc.net.au/news/2014-08-19/imran-khan-party-to-resign-parliamentary-seats/5679826)
 
 ### Related:
 

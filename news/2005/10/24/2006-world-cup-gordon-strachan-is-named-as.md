@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [FIFA/SOS Ambassador] for [[Scotland]] (joining [[Wayne Rooney]] for England](http://www.soschildrensvillages.org.uk/charity-news/six-villages-ambassadors.htm)
-2. [SOS Children's Villages](http://www.soschildrensvillages.org.uk/charity-news/six-villages-celtic.htm)
-3. [Celtic FC](http://www.celticfc.co.uk/)
+1. [Celtic FC](http://www.celticfc.co.uk/)
+2. [FIFA/SOS Ambassador] for [[Scotland]] (joining [[Wayne Rooney]] for England](http://www.soschildrensvillages.org.uk/charity-news/six-villages-ambassadors.htm)
+3. [SOS Children's Villages](http://www.soschildrensvillages.org.uk/charity-news/six-villages-celtic.htm)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Reuters.com is your online source for the latest U.S. news stories from coast to
 
 ### Source:
 
-1. [Forbes](http://www.forbes.com/home/feeds/ap/2005/03/31/ap1918201.html)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=ax2A0kCkyE6M&refer=europe)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=ax2A0kCkyE6M&refer=europe)
+2. [Forbes](http://www.forbes.com/home/feeds/ap/2005/03/31/ap1918201.html)
 3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=domesticNews&storyID=8050902)
 
 ### Related:
@@ -22,4 +22,4 @@ Reuters.com is your online source for the latest U.S. news stories from coast to
 7. [ The 148 members of the World Trade Organization officially appoint the former European Union Trade Commissioner, Pascal Lamy, as its 5th Director-General. ](/news/2005/05/27/the-148-members-of-the-world-trade-organization-officially-appoint-the-former-european-union-trade-commissioner-pascal-lamy-as-its-5th-di.md) _Context: European Union, World Trade Organization_
 8. [Facing the threat of a trade war, U.S. President George W. Bush lifts 20-month-old tariffs on foreign steel. Within minutes of the announcement, the European Union announces that it is lifting its threat of sanctions on $2.2 billion of U.S. products that would have taken effect in mid-December based on a ruling from the World Trade Organization that the tariffs were in violation of global trade rules. [http://story.news.yahoo.com/news?tmpl=story&cid=544&e=1&u=/ap/20031204/ap_on_go_pr_wh/bush_steel]](/news/2003/12/4/facing-the-threat-of-a-trade-war-u-s-president-george-w-bush-lifts-20-month-old-tariffs-on-foreign-steel-within-minutes-of-the-announcem.md) _Context: European Union, World Trade Organization_
 9. [ The European Union accuses tobacco company R. J. Reynolds of selling black market cigarettes to drug traffickers and mobsters from Italy, Russia, Colombia and the Balkans.](/news/2002/10/30/the-european-union-accuses-tobacco-company-r-j-reynolds-of-selling-black-market-cigarettes-to-drug-traffickers-and-mobsters-from-italy-r.md) _Context: European Union, cigarette_
-10. [Investigative journalism on court-released internal email reveals that Monsanto influenced scientific research enabling the European Union approval to market glyphosate. ](/news/2017/04/25/investigative-journalism-on-court-released-internal-email-reveals-that-monsanto-influenced-scientific-research-enabling-the-european-union-a.md) _Context: European Union_
+10. [American pipeline operator Williams Partners has agreed to sell an olefins plant in Louisiana to Canadian chemical company Nova Chemicals for $2.1 billion. ](/news/2017/04/17/american-pipeline-operator-williams-partners-has-agreed-to-sell-an-olefins-plant-in-louisiana-to-canadian-chemical-company-nova-chemicals-fo.md) _Context: Canadian_

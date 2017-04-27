@@ -7,8 +7,8 @@ Head of Commonwealth Games says event will go ahead, but warns that New Delhi ha
 
 ### Source:
 
-1. [Reuters](http://in.reuters.com/article/idINIndia-51731820100925)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/09/201092555729610909.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/09/201092555729610909.html)
+2. [Reuters](http://in.reuters.com/article/idINIndia-51731820100925)
 
 ### Related:
 

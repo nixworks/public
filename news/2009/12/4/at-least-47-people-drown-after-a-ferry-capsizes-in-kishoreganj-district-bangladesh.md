@@ -8,8 +8,8 @@
 ### Source:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5itnH5E4-g0hPZ0T1e2OMPM3VPsQQ)
-2. [The Daily Star](http://www.thedailystar.net/newDesign/latest_news.php?nid=20917)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8394891.stm)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8394891.stm)
+3. [The Daily Star](http://www.thedailystar.net/newDesign/latest_news.php?nid=20917)
 
 ### Related:
 

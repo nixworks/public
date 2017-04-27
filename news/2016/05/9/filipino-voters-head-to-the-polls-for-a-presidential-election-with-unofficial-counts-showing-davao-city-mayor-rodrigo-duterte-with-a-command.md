@@ -7,8 +7,8 @@ MANILA, Philippines (AP) — A brash and tough-talking mayor who has pledged to 
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2016/05/08/asia/philippines-election/)
-2. [AP](http://bigstory.ap.org/article/6ce5c8dc2b3a4e55b3c2d6dcb4234404/philippine-officials-voting-president-vice-president-other)
+1. [AP](http://bigstory.ap.org/article/6ce5c8dc2b3a4e55b3c2d6dcb4234404/philippine-officials-voting-president-vice-president-other)
+2. [CNN](http://edition.cnn.com/2016/05/08/asia/philippines-election/)
 
 ### Related:
 

@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8655711.stm)
-2. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article7113822.ece)
-3. [Sky News](http://news.sky.com/skynews/Home/World-News/Greece-May-Day-Protests-Police-Fire-Tear-Gas-In-Thessaloniki-And-Thousands-On-Streets-Of-Athens/Article/201005115623513?f=rss)
+2. [Sky News](http://news.sky.com/skynews/Home/World-News/Greece-May-Day-Protests-Police-Fire-Tear-Gas-In-Thessaloniki-And-Thousands-On-Streets-Of-Athens/Article/201005115623513?f=rss)
+3. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article7113822.ece)
 
 ### Related:
 

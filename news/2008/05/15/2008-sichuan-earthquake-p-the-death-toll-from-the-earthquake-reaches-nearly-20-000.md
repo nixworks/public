@@ -7,8 +7,8 @@ The Sichuan earthquake may eventually claim as many as 50,000 lives, the Chinese
 
 ### Source:
 
-1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/1957454/China-earthquake-Exodus-begins-from-Sichuan.html)
-2. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7402460.stm)
+1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7402460.stm)
+2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/1957454/China-earthquake-Exodus-begins-from-Sichuan.html)
 
 ### Related:
 

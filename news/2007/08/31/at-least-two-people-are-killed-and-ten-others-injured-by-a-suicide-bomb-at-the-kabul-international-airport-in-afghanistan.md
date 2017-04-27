@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Voice of America](http://www.voanews.com/english/2007-08-31-voa43.cfm)
+1. [AFP via Google News](http://afp.google.com/article/ALeqM5gGpIWA_LUlbWY1DqiARUs8EzHsTg)
 2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6971708.stm)
-3. [AFP via Google News](http://afp.google.com/article/ALeqM5gGpIWA_LUlbWY1DqiARUs8EzHsTg)
+3. [Voice of America](http://www.voanews.com/english/2007-08-31-voa43.cfm)
 
 ### Related:
 

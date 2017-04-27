@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/aponline/2016/04/18/world/asia/ap-as-philippines-australia-rape-remark.html?_r=0)
-2. [Rappler](http://www.rappler.com/nation/politics/elections/2016/129888-australia-rodrigo-duterte-rape-joke)
+1. [Rappler](http://www.rappler.com/nation/politics/elections/2016/129888-australia-rodrigo-duterte-rape-joke)
+2. [The New York Times](http://www.nytimes.com/aponline/2016/04/18/world/asia/ap-as-philippines-australia-rape-remark.html?_r=0)
 
 ### Related:
 

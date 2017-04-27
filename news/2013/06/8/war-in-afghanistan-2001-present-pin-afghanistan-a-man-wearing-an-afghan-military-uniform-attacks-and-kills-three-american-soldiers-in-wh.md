@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Voice of America](http://www.voanews.com/content/3-killed-in-afghan-insider-attack/1677823.html)
-2. [NBC](http://worldnews.nbcnews.com/_news/2013/06/08/18846323-three-americans-killed-in-afghanistan-insider-attack-officials-say?lite=)
+1. [NBC](http://worldnews.nbcnews.com/_news/2013/06/08/18846323-three-americans-killed-in-afghanistan-insider-attack-officials-say?lite=)
+2. [Voice of America](http://www.voanews.com/content/3-killed-in-afghan-insider-attack/1677823.html)
 
 ### Related:
 

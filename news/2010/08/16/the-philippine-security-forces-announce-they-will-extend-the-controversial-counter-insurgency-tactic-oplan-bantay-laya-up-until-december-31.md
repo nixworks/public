@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Philippine Star](http://www.philstar.com/Article.aspx?articleId=603286&publicationSubCategoryId=200)
-2. [GMA News](http://www.gmanews.tv/story/198625/afp-extends-battle-plan-linked-to-extra-judicial-killings)
-3. [The Philippine Daily Inquirer](http://newsinfo.inquirer.net/inquirerheadlines/nation/view/20100816-287037/Counterinsurgency-plan-blamed-for-killings-extended)
+1. [GMA News](http://www.gmanews.tv/story/198625/afp-extends-battle-plan-linked-to-extra-judicial-killings)
+2. [The Philippine Daily Inquirer](http://newsinfo.inquirer.net/inquirerheadlines/nation/view/20100816-287037/Counterinsurgency-plan-blamed-for-killings-extended)
+3. [The Philippine Star](http://www.philstar.com/Article.aspx?articleId=603286&publicationSubCategoryId=200)
 
 ### Related:
 

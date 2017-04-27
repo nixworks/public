@@ -7,9 +7,9 @@ Uhuru Kenyatta was sworn in as Kenyan president on Tuesday, presenting Western s
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/04/09/us-kenya-elections-inauguration-idUSBRE93806B20130409)
+1. [AP via ABC News](http://abcnews.go.com/International/wireStory/kenya-inaugurates-uhuru-kenyatta-president-18911554)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-22074481)
-3. [AP via ABC News](http://abcnews.go.com/International/wireStory/kenya-inaugurates-uhuru-kenyatta-president-18911554)
+3. [Reuters](http://www.reuters.com/article/2013/04/09/us-kenya-elections-inauguration-idUSBRE93806B20130409)
 
 ### Related:
 

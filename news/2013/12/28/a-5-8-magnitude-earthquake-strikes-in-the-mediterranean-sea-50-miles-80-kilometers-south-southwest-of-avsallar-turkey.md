@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/usc000ltax#summary)
-2. [CNN](http://www.cnn.com/2013/12/28/world/europe/turkey-earthquake/index.html?hpt=hp_t2)
+1. [CNN](http://www.cnn.com/2013/12/28/world/europe/turkey-earthquake/index.html?hpt=hp_t2)
+2. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/usc000ltax#summary)
 
 ### Related:
 
@@ -19,6 +19,6 @@
 5. [A 6.0 magnitude earthquake strikes near the Aegean Sea resort of Oludeniz in southern Turkey, resulting in dozens of injuries especially in the city of Fethiye. ](/news/2012/06/10/a-6-0-magnitude-earthquake-strikes-near-the-aegean-sea-resort-of-ala1-4deniz-in-southern-turkey-resulting-in-dozens-of-injuries-especially-i.md) _Context: Turkish, earthquake_
 6. [A magnitude 5.7 earthquake hits Van, Turkey, leading to the collapse of numerous buildings. The tremor comes in the wake of last month's destructive 7.1 magnitude earthquake. ](/news/2011/11/9/a-magnitude-5-7-earthquake-hits-van-turkey-leading-to-the-collapse-of-numerous-buildings-the-tremor-comes-in-the-wake-of-last-month-s-des.md) _Context: Turkish, earthquake_
 7. [Prime Minister of Israel Benjamin Netanyahu, speaking alongside Silvio Berlusconi in Italy where he is rallying opposition to the possible recognition of a Palestinian state, expresses a wish for improved relations with Turkey after last year's killing of Turks by Israeli commandos during the Gaza flotilla raid in international waters of the Mediterranean Sea. ](/news/2011/06/13/prime-minister-of-israel-benjamin-netanyahu-speaking-alongside-silvio-berlusconi-in-italy-where-he-is-rallying-opposition-to-the-possible-r.md) _Context: Mediterranean Sea, Turkish_
-8. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also 5 Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-5-peshmerga-fighters-are-killed-during-a-tu.md) _Context: Turkish_
+8. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also five Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey also claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-five-peshmerga-fighters-are-killed-during-a.md) _Context: Turkish_
 9. [The European Commission, based on the  Organization for Security and Co-operation in Europe report, calls on Turkey to launch an investigation into allegations of referendum voting irregularities. ](/news/2017/04/18/the-european-commission-based-on-the-organization-for-security-and-co-operation-in-europe-report-calls-on-turkey-to-launch-an-investigati.md) _Context: Turkish_
 10. [A police Sikorsky S-70 helicopter crashes in Tunceli Province, Turkey, killing 12 people. ](/news/2017/04/18/a-police-sikorsky-s-70-helicopter-crashes-in-tunceli-province-turkey-killing-12-people.md) _Context: Turkish_

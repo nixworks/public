@@ -7,8 +7,8 @@ About 100 people are getting treatment in various hospitals, according to interi
 
 ### Source:
 
-1. [FOX News](http://www.foxnews.com/world/2016/12/12/turkey-bombing-235-people-detained-in-anti-terrorism-raids.html)
-2. [Anadolu Agency](http://aa.com.tr/en/todays-headlines/death-toll-in-istanbul-terror-attack-rises-to-44/703825)
+1. [Anadolu Agency](http://aa.com.tr/en/todays-headlines/death-toll-in-istanbul-terror-attack-rises-to-44/703825)
+2. [FOX News](http://www.foxnews.com/world/2016/12/12/turkey-bombing-235-people-detained-in-anti-terrorism-raids.html)
 3. [Reuters](http://reut.rs/2gQa5Nf)
 
 ### Related:

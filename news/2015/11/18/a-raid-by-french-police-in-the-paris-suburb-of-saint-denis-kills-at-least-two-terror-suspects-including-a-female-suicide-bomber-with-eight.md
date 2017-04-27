@@ -7,13 +7,13 @@ SAINT-DENIS, France — A woman blew herself up in a Paris suburb early Wednesda
 
 ### Source:
 
-1. [The International Business Times](http://www.ibtimes.com/after-paris-attacks-alleged-isis-supporters-stab-jewish-teacher-marseilles-2190887)
+1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-11-18-EU--Paris%20Attacks/id-27f5a133efff4c4aa8a238b61d14082a)
 2. [CNN](http://edition.cnn.com/2015/11/18/world/paris-attacks/index.html)
 3. [France 24](http://www.france24.com/en/breaking/20151118-least-two-suspects-killed-several-arrested-police-raids-outside-paris-judicial-sources-say/?ns_campaign=al_en&ns_mchannel=email_marketing&ns_source=AL_20151118_0914&ns_linkname=20151118_breaking_news&ns_fee=0&f24_member_id=1080960490882)
-4. [Time](http://time.com/4119686/jewish-teacher-stabbed-france/)
-5. [NBC News](http://www.nbcnews.com/storyline/paris-terror-attacks/paris-attacks-2-dead-7-arrested-during-saint-denis-raid-n465331)
-6. [The Independent](http://www.independent.co.uk/news/world/europe/paris-attack-abdelhamid-abaaoud-suggested-as-the-mastermind-behind-terror-atrocities-killed-a6739556.html)
-7. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-11-18-EU--Paris%20Attacks/id-27f5a133efff4c4aa8a238b61d14082a)
+4. [NBC News](http://www.nbcnews.com/storyline/paris-terror-attacks/paris-attacks-2-dead-7-arrested-during-saint-denis-raid-n465331)
+5. [The Independent](http://www.independent.co.uk/news/world/europe/paris-attack-abdelhamid-abaaoud-suggested-as-the-mastermind-behind-terror-atrocities-killed-a6739556.html)
+6. [The International Business Times](http://www.ibtimes.com/after-paris-attacks-alleged-isis-supporters-stab-jewish-teacher-marseilles-2190887)
+7. [Time](http://time.com/4119686/jewish-teacher-stabbed-france/)
 
 ### Related:
 

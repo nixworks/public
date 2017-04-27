@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Manila Bulletin](http://www.mb.com.ph/uproar-over-naia-bullet-mess-widens/)
-2. [BBC](http://www.bbc.com/news/world-asia-34671118)
+1. [BBC](http://www.bbc.com/news/world-asia-34671118)
+2. [Manila Bulletin](http://www.mb.com.ph/uproar-over-naia-bullet-mess-widens/)
 
 ### Related:
 

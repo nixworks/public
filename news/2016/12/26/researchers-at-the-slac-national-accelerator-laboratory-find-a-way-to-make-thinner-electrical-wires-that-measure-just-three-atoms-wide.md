@@ -7,8 +7,8 @@ SLAC National Accelerator Laboratory is a U.S. Department of Energy (DOE) Office
 
 ### Source:
 
-1. [SLAC](https://www6.slac.stanford.edu/news/2016-12-26-researchers-use-worlds-smallest-diamonds-make-wires-three-atoms-wide.aspx)
-2. [Phys.org](http://phys.org/news/2016-12-world-smallest-diamonds-wires-atoms.html)
+1. [Phys.org](http://phys.org/news/2016-12-world-smallest-diamonds-wires-atoms.html)
+2. [SLAC](https://www6.slac.stanford.edu/news/2016-12-26-researchers-use-worlds-smallest-diamonds-make-wires-three-atoms-wide.aspx)
 
 ### Related:
 

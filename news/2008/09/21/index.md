@@ -13,7 +13,7 @@ _Context: China's, adulterated milk products and infant formula_
 _Context: Borut Pahor, Slovenia, Social Democrats, parliamentary election_
 
 ### [ The United States wins the Ryder Cup for the first time since 1999. ](/news/2008/09/21/the-united-states-wins-the-ryder-cup-for-the-first-time-since-1999.md)
-_Context: 1999, Ryder Cup, U.S._
+_Context: 1999, Ryder Cup, United States_
 
 ### [ Israeli Prime Minister Ehud Olmert officially submits his resignation to President Shimon Peres. Foreign Minister Tzipi Livni begins talks on forming a new government. ](/news/2008/09/21/israeli-prime-minister-ehud-olmert-officially-submits-his-resignation-to-president-shimon-peres-foreign-minister-tzipi-livni-begins-talks.md)
 _Context: Ehud Olmert, Foreign Affairs Minister, Israel, President, Prime Minister of Israel, Shimon Peres, Tzipi Livni_

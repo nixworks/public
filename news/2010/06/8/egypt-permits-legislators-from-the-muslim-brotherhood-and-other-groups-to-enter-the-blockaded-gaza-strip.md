@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://af.reuters.com/article/egyptNews/idAFLDE6571UO20100608)
-2. [Arab News](http://arabnews.com/middleeast/article62979.ece)
+1. [Arab News](http://arabnews.com/middleeast/article62979.ece)
+2. [Reuters](http://af.reuters.com/article/egyptNews/idAFLDE6571UO20100608)
 
 ### Related:
 

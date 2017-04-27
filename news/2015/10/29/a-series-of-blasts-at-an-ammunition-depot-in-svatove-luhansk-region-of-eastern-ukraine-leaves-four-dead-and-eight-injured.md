@@ -7,8 +7,8 @@ The bodies of two soldiers who died as the result of a fire at an ammunition dep
 
 ### Source:
 
-1. [Kyiv Post](http://www.kyivpost.com/content/ukraine/international-committee-of-red-cross-hundreds-of-people-affected-by-explosion-of-ammunition-depot-401077.html)
-2. [Interfax](http://en.interfax.com.ua/news/general/301051.html)
+1. [Interfax](http://en.interfax.com.ua/news/general/301051.html)
+2. [Kyiv Post](http://www.kyivpost.com/content/ukraine/international-committee-of-red-cross-hundreds-of-people-affected-by-explosion-of-ammunition-depot-401077.html)
 
 ### Related:
 

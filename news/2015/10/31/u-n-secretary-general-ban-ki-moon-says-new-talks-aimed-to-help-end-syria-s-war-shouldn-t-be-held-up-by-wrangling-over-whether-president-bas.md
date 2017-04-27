@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP](http://bigstory.ap.org/article/c7ecd30e37a5445da99b76bffa159dc5/ban-talks-syria-shouldnt-be-held-over-assads-future)
-2. [AP](http://bigstory.ap.org/article/5d0c063fb347430a9a7ddc64002bb617/saudi-fm-assads-future-among-sticking-points-syria-deal)
+1. [AP](http://bigstory.ap.org/article/5d0c063fb347430a9a7ddc64002bb617/saudi-fm-assads-future-among-sticking-points-syria-deal)
+2. [AP](http://bigstory.ap.org/article/c7ecd30e37a5445da99b76bffa159dc5/ban-talks-syria-shouldnt-be-held-over-assads-future)
 
 ### Related:
 

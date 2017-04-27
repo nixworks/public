@@ -7,9 +7,9 @@ Hope drained out of this mountain valley Saturday as thousands of homeless resid
 
 ### Source:
 
-1. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/05/17/MNSU10OGD0.DTL)
+1. [AP via Forbes](http://www.forbes.com/feeds/ap/2008/05/18/ap5022517.html)
 2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aeYJbesWy_5g&refer=home)
-3. [AP via Forbes](http://www.forbes.com/feeds/ap/2008/05/18/ap5022517.html)
+3. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/05/17/MNSU10OGD0.DTL)
 
 ### Related:
 

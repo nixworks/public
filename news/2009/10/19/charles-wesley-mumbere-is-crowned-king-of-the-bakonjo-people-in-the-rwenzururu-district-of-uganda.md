@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NPR](http://www.npr.org/templates/story/story.php?storyId=113939398)
-2. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5iCEB3inPCtJ6dBPnPj5EHv3RqsLQD9BEB4U00)
+1. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5iCEB3inPCtJ6dBPnPj5EHv3RqsLQD9BEB4U00)
+2. [NPR](http://www.npr.org/templates/story/story.php?storyId=113939398)
 
 ### Related:
 

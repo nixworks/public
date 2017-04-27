@@ -13,7 +13,7 @@ _Context: Afghan, Arsala Rahmani, Kabul_
 Army opens new offensive against al-Qaeda in the Arab Peninsula, while at least 10 suspected fighters killed in strikes.
 
 ### [The Ugandan army captures Caesar Achellam, a senior commander of the militant Lord's Resistance Army, in the Central African Republic. ](/news/2012/05/13/the-ugandan-army-captures-caesar-achellam-a-senior-commander-of-the-militant-lord-s-resistance-army-in-the-central-african-republic.md)
-_Context: Central African Republic, Lord's Resistance Army, Ugandan soldier_
+_Context: Central-African, Lord's Resistance Army, Ugandan soldier_
 
 ### [Torrential rainfall and flooding in China's Hunan Province destroys a bridge and 3,500 homes, leading to the evacuation of 28,000 people in Pingjiang County. ](/news/2012/05/13/torrential-rainfall-and-flooding-in-china-s-hunan-province-destroys-a-bridge-and-3-500-homes-leading-to-the-evacuation-of-28-000-people-in.md)
 _Context: China, Hunan Province, Pingjiang County_

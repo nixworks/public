@@ -7,8 +7,8 @@ KABUL, Afghanistan (AP) — Militants stormed a building housing an internationa
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-asia-37283543)
-2. [AP](http://bigstory.ap.org/article/730cf6d989da45279d7d7e5db142fcea/twin-bombings-near-afghanistans-defense-ministry-kill-5)
+1. [AP](http://bigstory.ap.org/article/730cf6d989da45279d7d7e5db142fcea/twin-bombings-near-afghanistans-defense-ministry-kill-5)
+2. [BBC](http://www.bbc.com/news/world-asia-37283543)
 
 ### Related:
 

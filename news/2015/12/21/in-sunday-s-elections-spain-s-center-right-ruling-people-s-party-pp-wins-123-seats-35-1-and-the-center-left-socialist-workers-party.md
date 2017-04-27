@@ -7,10 +7,10 @@ Political fragmentation will lead to either a fragile government or an early ret
 
 ### Source:
 
-1. [Stratfor](https://www.stratfor.com/analysis/spains-elections-yield-unsettled-landscape#)
-2. [International Business Times](http://www.ibtimes.com/spain-elections-2015-popular-party-wins-greatest-influence-national-government-poised-2233806)
-3. [Fortune](http://fortune.com/2015/12/21/spain-election-results/)
-4. [BBC](http://www.bbc.com/news/world-europe-27918094)
+1. [BBC](http://www.bbc.com/news/world-europe-27918094)
+2. [Fortune](http://fortune.com/2015/12/21/spain-election-results/)
+3. [International Business Times](http://www.ibtimes.com/spain-elections-2015-popular-party-wins-greatest-influence-national-government-poised-2233806)
+4. [Stratfor](https://www.stratfor.com/analysis/spains-elections-yield-unsettled-landscape#)
 
 ### Related:
 

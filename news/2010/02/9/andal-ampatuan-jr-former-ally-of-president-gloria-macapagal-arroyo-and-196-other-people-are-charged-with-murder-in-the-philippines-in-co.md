@@ -7,8 +7,8 @@ MANILA, Philippines - The Department of Justice on Tuesday recommended the filin
 
 ### Source:
 
-1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iNJaC3hTn25jWZFp-yHVtwC-oGvA)
-2. [ABS-CBN News](http://www.abs-cbnnews.com/nation/02/09/10/doj-oks-murder-raps-vs-ampatuan-sr-196-others)
+1. [ABS-CBN News](http://www.abs-cbnnews.com/nation/02/09/10/doj-oks-murder-raps-vs-ampatuan-sr-196-others)
+2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iNJaC3hTn25jWZFp-yHVtwC-oGvA)
 
 ### Related:
 

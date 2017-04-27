@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/ousiv/idUSTRE57P15720090826)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601068&sid=a_ShyXuPrnxE)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601068&sid=a_ShyXuPrnxE)
+2. [Reuters](http://www.reuters.com/article/ousiv/idUSTRE57P15720090826)
 
 ### Related:
 

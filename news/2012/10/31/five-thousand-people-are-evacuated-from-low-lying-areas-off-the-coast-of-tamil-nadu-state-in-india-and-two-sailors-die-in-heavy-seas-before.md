@@ -7,8 +7,8 @@ Cyclone Nilam today swept across north Tamil Nadu coast near Mahabalipuram leavi
 
 ### Source:
 
-1. [The Times of India](http://timesofindia.indiatimes.com/india/Two-dead-as-Cyclone-Nilam-crosses-Tamil-Nadu-coast/articleshow/17037812.cms)
-2. [CNN](http://www.cnn.com/2012/10/31/world/asia/india/index.html?hpt=wo_c2)
+1. [CNN](http://www.cnn.com/2012/10/31/world/asia/india/index.html?hpt=wo_c2)
+2. [The Times of India](http://timesofindia.indiatimes.com/india/Two-dead-as-Cyclone-Nilam-crosses-Tamil-Nadu-coast/articleshow/17037812.cms)
 
 ### Related:
 

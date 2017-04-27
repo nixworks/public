@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aYSwevowRthQ&refer=top_world_news)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/4625135.stm)
-3. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp?type=businessNews&localeKey=en_ZA&storyID=8897504)
-4. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=13&art_id=qw111985434172B236)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4625135.stm)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aYSwevowRthQ&refer=top_world_news)
+3. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=13&art_id=qw111985434172B236)
+4. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp?type=businessNews&localeKey=en_ZA&storyID=8897504)
 
 ### Related:
 

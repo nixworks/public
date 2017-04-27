@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [News and Observer](http://blogs.newsobserver.com/business/conagra-laying-off-234-workers-in-garner-as-it-prepares-to-close-slim-jim-plant)
-2. [ABC Local](http://abclocal.go.com/wtvd/story?section=news/local&id=7971221)
+1. [ABC Local](http://abclocal.go.com/wtvd/story?section=news/local&id=7971221)
+2. [News and Observer](http://blogs.newsobserver.com/business/conagra-laying-off-234-workers-in-garner-as-it-prepares-to-close-slim-jim-plant)
 
 ### Related:
 

@@ -8,13 +8,13 @@ Sky News Australia has the top stories in news online from Australia and the res
 ### Source:
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/37588615)
-2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/06/09/AR2010060901648.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/world/south_asia/10280157.stm)
-4. [BNO News](http://wireupdate.com/wires/6216/nato-helicopter-crashes-in-southern-afghanistan-2/)
+2. [BBC](http://news.bbc.co.uk/2/hi/world/south_asia/10280157.stm)
+3. [BNO News](http://wireupdate.com/wires/6216/nato-helicopter-crashes-in-southern-afghanistan-2/)
+4. [Chinamil](http://eng.chinamil.com.cn/news-channels/international-military-news/2010-06/09/content_4236165.htm)
 5. [People.cn](http://english.people.com.cn/90001/90777/90851/7018815.html)
-6. [Chinamil](http://eng.chinamil.com.cn/news-channels/international-military-news/2010-06/09/content_4236165.htm)
-7. [thisislondon](http://www.thisislondon.co.uk/standard/article-23724738-dead-soldiers-return-home-from-afghanistan.do)
-8. [Sky News](http://www.skynews.com.au/topstories/article.aspx?id=471523&articleID=1517380)
+6. [Sky News](http://www.skynews.com.au/topstories/article.aspx?id=471523&articleID=1517380)
+7. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/06/09/AR2010060901648.html)
+8. [thisislondon](http://www.thisislondon.co.uk/standard/article-23724738-dead-soldiers-return-home-from-afghanistan.do)
 
 ### Related:
 

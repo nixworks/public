@@ -7,9 +7,9 @@ The wedding had been authorized by Judge Gabriela Seijas
 
 ### Source:
 
-1. [Buenos Aires Herald](http://www.buenosairesherald.com/BreakingNews/View/18767)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jPei0ALuKJAqO5T0lWbqq1060X7Q)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8387602.stm)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jPei0ALuKJAqO5T0lWbqq1060X7Q)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8387602.stm)
+3. [Buenos Aires Herald](http://www.buenosairesherald.com/BreakingNews/View/18767)
 
 ### Related:
 

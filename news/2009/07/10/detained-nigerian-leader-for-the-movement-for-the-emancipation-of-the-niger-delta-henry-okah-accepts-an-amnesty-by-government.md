@@ -7,8 +7,8 @@ To this end, President Umaru Yarâ€™Adua who was delighted by this developme
 
 ### Source:
 
-1. [Vanguard](http://www.vanguardngr.com/2009/07/10/okah-accepts-amnesty-yaradua-orders-release/)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8143195.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8143195.stm)
+2. [Vanguard](http://www.vanguardngr.com/2009/07/10/okah-accepts-amnesty-yaradua-orders-release/)
 
 ### Related:
 

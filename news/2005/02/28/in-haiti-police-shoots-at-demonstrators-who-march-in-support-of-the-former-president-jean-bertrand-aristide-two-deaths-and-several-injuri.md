@@ -7,10 +7,10 @@ At least 2 killed during pro-Aristide demonstration in Haiti.
 
 ### Source:
 
-1. [Reuters](http://www.alertnet.org/thenews/newsdesk/N28288180.htm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4306493.stm)
 2. [CBC](http://www.cbc.ca/world/story/2005/02/28/haiti050228.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/americas/4306493.stm)
-4. [LATimes](http://www.latimes.com/news/nationworld/world/la-fg-ushaiti1mar01,1,16424.story?coll=la-headlines-world&ctrack=1&cset=true)
+3. [LATimes](http://www.latimes.com/news/nationworld/world/la-fg-ushaiti1mar01,1,16424.story?coll=la-headlines-world&ctrack=1&cset=true)
+4. [Reuters](http://www.alertnet.org/thenews/newsdesk/N28288180.htm)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Sun-Herald](http://www.smh.com.au/news/world/five-killed-shopping/2008/02/03/1201973717973.html?s_cid=rss_news)
-2. [AP via ''The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2008/02/02/AR2008020201222.html)
+1. [AP via ''The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2008/02/02/AR2008020201222.html)
+2. [The Sun-Herald](http://www.smh.com.au/news/world/five-killed-shopping/2008/02/03/1201973717973.html?s_cid=rss_news)
 
 ### Related:
 

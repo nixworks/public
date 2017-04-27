@@ -7,9 +7,9 @@ Israeli PM Benjamin Netanyahu and US President Barack Obama hold White House tal
 
 ### Source:
 
-1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3916011,00.html)
-2. [BBC News](http://news.bbc.co.uk/2/hi/world/middle_east/10518109.stm)
-3. [CNN](http://edition.cnn.com/2010/POLITICS/07/06/obama.netanyahu.meeting/index.html?eref=edition&fbid=4I1tbJn2BPy)
+1. [BBC News](http://news.bbc.co.uk/2/hi/world/middle_east/10518109.stm)
+2. [CNN](http://edition.cnn.com/2010/POLITICS/07/06/obama.netanyahu.meeting/index.html?eref=edition&fbid=4I1tbJn2BPy)
+3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3916011,00.html)
 
 ### Related:
 

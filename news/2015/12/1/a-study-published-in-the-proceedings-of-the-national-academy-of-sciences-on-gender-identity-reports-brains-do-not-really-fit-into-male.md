@@ -7,9 +7,9 @@ National Academy of Sciences
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/news/speaking-of-science/wp/2015/12/01/brains-arent-actually-male-or-female-new-study-suggests/?wpmm=1&wpisrc=nl_evening)
-2. [Daphna Joel](http://people.socsci.tau.ac.il/mu/daphnajoel/)
-3. [The Proceedings of the National Academy of Sciences](http://www.pnas.org/content/early/2015/11/24/1509654112.abstract)
+1. [Daphna Joel](http://people.socsci.tau.ac.il/mu/daphnajoel/)
+2. [The Proceedings of the National Academy of Sciences](http://www.pnas.org/content/early/2015/11/24/1509654112.abstract)
+3. [The Washington Post](https://www.washingtonpost.com/news/speaking-of-science/wp/2015/12/01/brains-arent-actually-male-or-female-new-study-suggests/?wpmm=1&wpisrc=nl_evening)
 
 ### Related:
 

@@ -8,8 +8,8 @@
 ### Source:
 
 1. [CNN](http://www.cnn.com/2010/POLITICS/05/03/un.ahmadinejad/index.html)
-2. [USA Today](http://www.usatoday.com/news/world/2010-05-03-nuclear-conference-un_N.htm)
-3. [Chicago Tribune](http://www.chicagotribune.com/news/sns-ap-un-nuclear-treaty,0,722200.story)
+2. [Chicago Tribune](http://www.chicagotribune.com/news/sns-ap-un-nuclear-treaty,0,722200.story)
+3. [USA Today](http://www.usatoday.com/news/world/2010-05-03-nuclear-conference-un_N.htm)
 
 ### Related:
 

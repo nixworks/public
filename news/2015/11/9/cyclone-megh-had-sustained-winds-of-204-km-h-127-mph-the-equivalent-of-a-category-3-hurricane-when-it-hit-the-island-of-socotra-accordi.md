@@ -8,11 +8,11 @@ Cyclone Megh slammed into the Yemeni island of Socotra with winds of 127 mph on 
 ### Source:
 
 1. [AFP via Yahoo](http://news.yahoo.com/second-cyclone-kills-6-yemen-island-203101338.html)
-2. [United States Naval Observatory](http://www.usno.navy.mil/NOOC/nmfc-ph/RSS/jtwc/warnings/io0515web.txt)
-3. [Al Jazeera](http://www.aljazeera.com/news/2015/11/panic-cyclone-hits-yemen-week-deadly-weather-151108081019982.html)
+2. [Al Jazeera](http://www.aljazeera.com/news/2015/11/panic-cyclone-hits-yemen-week-deadly-weather-151108081019982.html)
+3. [Regional Specialized Meteorological Center](http://www.rsmcnewdelhi.imd.gov.in/images/bulletin/rsmc.pdf)
 4. [Reuters](http://www.reuters.com/article/2015/11/08/us-yemen-cyclone-idUSKCN0SX0TD20151108#x3ZfgHQ8zQJ5rsA8.97)
 5. [USA Today](http://www.usatoday.com/story/weather/2015/11/08/cyclone-megh-yemen-socotra/75411872/)
-6. [Regional Specialized Meteorological Center](http://www.rsmcnewdelhi.imd.gov.in/images/bulletin/rsmc.pdf)
+6. [United States Naval Observatory](http://www.usno.navy.mil/NOOC/nmfc-ph/RSS/jtwc/warnings/io0515web.txt)
 
 ### Related:
 

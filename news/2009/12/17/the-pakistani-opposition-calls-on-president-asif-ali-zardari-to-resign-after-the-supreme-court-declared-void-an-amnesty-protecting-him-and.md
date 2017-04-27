@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/12/2009121765458321966.html)
-2. [Hindustan Times](http://www.hindustantimes.com/Pakistan-opposition-calls-on-Zardari-to-quit/H1-Article1-487553.aspx)
-3. [Dawn](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/pakistan/04-Zardari-NRO-ruling-qs-02)
+2. [Dawn](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/pakistan/04-Zardari-NRO-ruling-qs-02)
+3. [Hindustan Times](http://www.hindustantimes.com/Pakistan-opposition-calls-on-Zardari-to-quit/H1-Article1-487553.aspx)
 
 ### Related:
 

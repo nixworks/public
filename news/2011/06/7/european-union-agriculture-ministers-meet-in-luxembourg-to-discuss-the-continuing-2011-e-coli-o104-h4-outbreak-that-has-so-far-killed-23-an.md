@@ -7,8 +7,8 @@ The EU health commissioner says the E. coli outbreak that has killed 22 is limit
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2011/WORLD/europe/06/07/europe.e.coli/index.html)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-13677348)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-13677348)
+2. [CNN](http://www.cnn.com/2011/WORLD/europe/06/07/europe.e.coli/index.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Ethiopia rejects claim by rebel group that government forces killed 71 civilians
 
 ### Source:
 
-1. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE65A3WI20100611)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5giIypTDuzd8OX3AtTHd5CvwPu8FQ)
-3. [Aljazeera](http://english.aljazeera.net/news/africa/2010/06/2010611183955633200.html)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5giIypTDuzd8OX3AtTHd5CvwPu8FQ)
+2. [Aljazeera](http://english.aljazeera.net/news/africa/2010/06/2010611183955633200.html)
+3. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE65A3WI20100611)
 
 ### Related:
 

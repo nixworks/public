@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Al Arabiya](http://www.alarabiya.net/articles/2010/08/17/116922.html)
-2. [The Guardian](http://www.guardian.co.uk/world/2010/aug/18/ground-zero-mosque-republican-attacks)
-3. [New York Post](http://www.nypost.com/p/news/local/gov_to_meet_on_mosque_move_ZiSFdJrD5kqi7p4XFT4TBO)
+2. [New York Post](http://www.nypost.com/p/news/local/gov_to_meet_on_mosque_move_ZiSFdJrD5kqi7p4XFT4TBO)
+3. [The Guardian](http://www.guardian.co.uk/world/2010/aug/18/ground-zero-mosque-republican-attacks)
 
 ### Related:
 

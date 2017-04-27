@@ -7,14 +7,14 @@ French prosecutors said on Saturday that three coordinated teams of gunmen and s
 
 ### Source:
 
-1. [CBS News](http://www.cbsnews.com/news/paris-attack-survivors-use-facebook-safety-check-porteouverte/)
-2. [ABC News Australia](http://www.abc.net.au/news/2015-11-15/details-emerge-about-paris-attackers-syrian-passport-found/6941864)
+1. [ABC News Australia](http://www.abc.net.au/news/2015-11-15/details-emerge-about-paris-attackers-syrian-passport-found/6941864)
+2. [CBS News](http://www.cbsnews.com/news/paris-attack-survivors-use-facebook-safety-check-porteouverte/)
 3. [RT](https://www.rt.com/news/322051-poland-rejects-refugee-quota/)
-4. [The Guardian](http://www.theguardian.com/world/live/2015/nov/13/shootings-reported-in-eastern-paris-live#block-56469c90e4b0ced428cb2822)
-5. [Reuters via Channel News Asia](http://www.channelnewsasia.com/news/world/france-s-hollande-cancels/2259848.html)
-6. [The Jerusalem Post](http://www.jpost.com/International/ISIS-claims-responsibility-for-Paris-terror-attacks-433023)
-7. [Reuters](http://www.reuters.com/article/2015/11/14/us-france-shooting-idUSKCN0T22IU20151114?feedType=RSS&feedName=topNews)
-8. [Reuters](http://www.reuters.com/article/2015/11/14/us-france-shooting-greece-idUSKCN0T312W20151114)
+4. [Reuters via Channel News Asia](http://www.channelnewsasia.com/news/world/france-s-hollande-cancels/2259848.html)
+5. [Reuters](http://www.reuters.com/article/2015/11/14/us-france-shooting-greece-idUSKCN0T312W20151114)
+6. [Reuters](http://www.reuters.com/article/2015/11/14/us-france-shooting-idUSKCN0T22IU20151114?feedType=RSS&feedName=topNews)
+7. [The Guardian](http://www.theguardian.com/world/live/2015/nov/13/shootings-reported-in-eastern-paris-live#block-56469c90e4b0ced428cb2822)
+8. [The Jerusalem Post](http://www.jpost.com/International/ISIS-claims-responsibility-for-Paris-terror-attacks-433023)
 
 ### Related:
 

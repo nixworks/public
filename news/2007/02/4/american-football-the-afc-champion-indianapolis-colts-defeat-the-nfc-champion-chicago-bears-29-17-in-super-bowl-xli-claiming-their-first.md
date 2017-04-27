@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CBS Sport](http://www.sportsline.com/nfl/gamecenter/live/NFL_20070204_IND@CHI)
-2. [BBC Sport](http://news.bbc.co.uk/sport2/hi/other_sports/american_football/6330397.stm)
+1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/other_sports/american_football/6330397.stm)
+2. [CBS Sport](http://www.sportsline.com/nfl/gamecenter/live/NFL_20070204_IND@CHI)
 
 ### Related:
 

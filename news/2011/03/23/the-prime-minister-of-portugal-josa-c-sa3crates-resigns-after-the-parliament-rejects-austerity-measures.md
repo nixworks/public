@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://in.reuters.com/article/2011/03/24/idINIndia-55834020110324?feedType=RSS&feedName=businessNews&utm_source=Reuters+India&utm_medium=twitter&utm_campaign=Feed%3A+reuters%2FINbusinessNews+%28News+%2F+IN+%2F+Business+News%29&utm_content=Google+International)
-2. [AP via ''The Star](http://www.thestar.com/business/article/959736--opposition-parties-defeat-portugal-s-austerity-measures?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=DTN+Canada%3A)
+1. [AP via ''The Star](http://www.thestar.com/business/article/959736--opposition-parties-defeat-portugal-s-austerity-measures?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=DTN+Canada%3A)
+2. [Reuters](http://in.reuters.com/article/2011/03/24/idINIndia-55834020110324?feedType=RSS&feedName=businessNews&utm_source=Reuters+India&utm_medium=twitter&utm_campaign=Feed%3A+reuters%2FINbusinessNews+%28News+%2F+IN+%2F+Business+News%29&utm_content=Google+International)
 
 ### Related:
 

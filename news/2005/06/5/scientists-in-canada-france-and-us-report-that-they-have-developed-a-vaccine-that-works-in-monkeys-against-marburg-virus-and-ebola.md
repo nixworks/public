@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Medical News Today](http://www.medicalnewstoday.com/medicalnews.php?newsid=25668)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/4612339.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4612339.stm)
+2. [Medical News Today](http://www.medicalnewstoday.com/medicalnews.php?newsid=25668)
 3. [Science Daily](http://www.sciencedaily.com/upi/index.php?feed=Science&article=UPI-1-20050605-22395300-bc-canada-ebolavaccine.xml)
 
 ### Related:

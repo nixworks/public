@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Daily Nation](http://www.nation.co.ke/News/-/1056/676018/-/uo2xtw/-/)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8322055.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8322055.stm)
+2. [Daily Nation](http://www.nation.co.ke/News/-/1056/676018/-/uo2xtw/-/)
 
 ### Related:
 

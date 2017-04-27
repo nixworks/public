@@ -7,8 +7,8 @@ A Texas jury on Wednesday found former Republican House Majority Leader Tom DeLa
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE6AN6O520101125)
-2. [CNN](http://edition.cnn.com/2010/CRIME/11/24/us.delay.verdict/index.html?eref=edition)
+1. [CNN](http://edition.cnn.com/2010/CRIME/11/24/us.delay.verdict/index.html?eref=edition)
+2. [Reuters](http://www.reuters.com/article/idUSTRE6AN6O520101125)
 
 ### Related:
 

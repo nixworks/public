@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The National Post](http://news.nationalpost.com/2012/02/10/wang-lijun-disappears/)
-2. [Globe and Mail](http://www.theglobeandmail.com/news/politics/brewing-china-scandal-offers-harper-a-sino-reality-check/article2334141/)
+1. [Globe and Mail](http://www.theglobeandmail.com/news/politics/brewing-china-scandal-offers-harper-a-sino-reality-check/article2334141/)
+2. [The National Post](http://news.nationalpost.com/2012/02/10/wang-lijun-disappears/)
 
 ### Related:
 

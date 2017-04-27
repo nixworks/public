@@ -7,8 +7,8 @@ Police clash with protesters as urban poor seek better living conditions.
 
 ### Source:
 
-1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5ieHj49_JC6vdfUAvGOOJdJIHOwSwD9BAA8KO0)
-2. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/10/2009101316543054590.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/10/2009101316543054590.html)
+2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5ieHj49_JC6vdfUAvGOOJdJIHOwSwD9BAA8KO0)
 
 ### Related:
 

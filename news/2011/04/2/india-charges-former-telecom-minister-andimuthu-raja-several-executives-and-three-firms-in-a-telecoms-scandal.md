@@ -7,8 +7,8 @@ Attorney General GE Vahanvati and corporate lobbyist Niira Radia have been named
 
 ### Source:
 
-1. [The Times of India](http://timesofindia.indiatimes.com/india/Raja-conspired-with-bureaucrats-industrialists-in-2G-scam-CBI/articleshow/7852233.cms)
-2. [Reuters](http://af.reuters.com/article/reunionNews/idAFL4E7F201J20110402?sp=true)
+1. [Reuters](http://af.reuters.com/article/reunionNews/idAFL4E7F201J20110402?sp=true)
+2. [The Times of India](http://timesofindia.indiatimes.com/india/Raja-conspired-with-bureaucrats-industrialists-in-2G-scam-CBI/articleshow/7852233.cms)
 
 ### Related:
 

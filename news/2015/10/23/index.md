@@ -7,7 +7,7 @@ It is not clear at this point if the attack was a suicide bombing or not.
 The dead and injured were shifted to Civil Hospital Jacobabad, where an emergency has been declared.
 
 ### [Islamic State fighters take control of a section of road running between the towns of Khanaser and Ithriya, southeast of Aleppo, according to a monitoring group. This threatens the Syrian army's only supply route into the city. ](/news/2015/10/23/islamic-state-fighters-take-control-of-a-section-of-road-running-between-the-towns-of-khanaser-and-ithriya-southeast-of-aleppo-according-t.md)
-_Context: Aleppo, Islamic State of Iraq and the Levant, Khanaser, Syrian Army, Syrian Civil War, Syrian Observatory for Human Rights_
+_Context: Aleppo, ISIL, Khanaser, Syrian Army, Syrian Civil War, Syrian Observatory for Human Rights_
 
 ### [At least nine people are killed and dozens injured in the eastern Libyan city of Benghazi after several mortar shells hit a protest against a UN proposal for a unity government to end the four-year long crisis in the country. ](/news/2015/10/23/at-least-nine-people-are-killed-and-dozens-injured-in-the-eastern-libyan-city-of-benghazi-after-several-mortar-shells-hit-a-protest-against.md)
 _Context: Benghazi, Libya, Libyan Civil War (2014–present), Libyan Crisis (2011–present), Mortar, United Nations_
@@ -28,7 +28,7 @@ Mexico&#039;s president has warned residents not to lower their guard after Hurr
 Coach carrying pensioners on a day trip collides with truck, causing ‘gigantic blaze’ near town 40 miles east of Bordeaux
 
 ### [Kuwait and France sealed a deal whereby the Gulf nation will upgrade its defense capabilities with $2.8 billion worth of military equipment. Defense experts cite the ongoing conflict in Iraqi Civil War, the June 2015 terror attack claimed by ISIS in Kuwait City, and a reluctance by the U.S. to supply Kuwait as reasons for the deal. ](/news/2015/10/23/kuwait-and-france-sealed-a-deal-whereby-the-gulf-nation-will-upgrade-its-defense-capabilities-with-2-8-billion-worth-of-military-equipment.md)
-_Context: France, Gulf Arab states, ISIS, Iraqi Civil War (2014–present), June 2015 terror attack, Kuwait, Kuwait City, U.S._
+_Context: France, Gulf Arab states, ISIS, Iraqi Civil War (2014–present), June 2015 terror attack, Kuwait, Kuwait City, United States_
 
 ### [The president of Zimbabwe, Robert Mugabe, is awarded the Confucius Peace Prize, sometimes characterized as a Chinese alternative to the Nobel Peace Prize. ](/news/2015/10/23/the-president-of-zimbabwe-robert-mugabe-is-awarded-the-confucius-peace-prize-sometimes-characterized-as-a-chinese-alternative-to-the-nobe.md)
 Confucius peace prize chairman defends decision to give award to leader accused of using systematic violence and torture to maintain grip on power

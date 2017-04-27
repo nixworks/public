@@ -7,8 +7,8 @@ China holds a national day of mourning on Sunday for victims of mudslides in the
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10975066)
-2. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/08/201081441551265226.html)
+1. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/08/201081441551265226.html)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10975066)
 3. [China Daily](http://www.chinadaily.com.cn/china/2010-08/14/content_11152742.htm)
 
 ### Related:

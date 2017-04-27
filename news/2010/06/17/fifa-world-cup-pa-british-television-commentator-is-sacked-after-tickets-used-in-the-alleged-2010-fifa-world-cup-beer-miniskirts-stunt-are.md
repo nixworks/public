@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [The Sydney Morning Herald](http://www.smh.com.au/world-cup-2010/world-cup-news/commentator-sacked-as-fifa-clamps-down-over-beer-miniskirts-stunt-20100616-ydo9.html)
-2. [ABC Online](http://www.abc.net.au/news/stories/2010/06/18/2930214.htm?site=sport&section=football)
+1. [ABC Online](http://www.abc.net.au/news/stories/2010/06/18/2930214.htm?site=sport&section=football)
+2. [Fifa World Cup](http://www.fifa.com/live/competitions/worldcup/matchday=7/day=1/match=300061457/index.html)
 3. [Reuters Africa](http://af.reuters.com/article/sportsNews/idAFJOE65G0QH20100617)
-4. [Fifa World Cup](http://www.fifa.com/live/competitions/worldcup/matchday=7/day=1/match=300061457/index.html)
+4. [The Sydney Morning Herald](http://www.smh.com.au/world-cup-2010/world-cup-news/commentator-sacked-as-fifa-clamps-down-over-beer-miniskirts-stunt-20100616-ydo9.html)
 
 ### Related:
 

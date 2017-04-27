@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/2016/07/17/reports-baton-rouge-police-officers-shot/87218884/)
-2. [BBC](http://www.bbc.co.uk/news/world-us-canada-36820782)
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-36820782)
+2. [USA Today](http://www.usatoday.com/story/news/2016/07/17/reports-baton-rouge-police-officers-shot/87218884/)
 
 ### Related:
 

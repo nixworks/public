@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Thai News Agency](http://www.mcot.net/cfcustom/cache_page/111411.html)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hq5HELgWxusIbLhHARc5yBCxfsYA?docId=CNG.9c785ad010af3908e94058c220f5a603.331)
 2. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_587248.html)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hq5HELgWxusIbLhHARc5yBCxfsYA?docId=CNG.9c785ad010af3908e94058c220f5a603.331)
+3. [Thai News Agency](http://www.mcot.net/cfcustom/cache_page/111411.html)
 
 ### Related:
 

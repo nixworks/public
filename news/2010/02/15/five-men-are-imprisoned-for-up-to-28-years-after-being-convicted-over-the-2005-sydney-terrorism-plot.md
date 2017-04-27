@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [ninemsn](http://news.ninemsn.com.au/article.aspx?id=1012537)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8515632.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8515632.stm)
+2. [ninemsn](http://news.ninemsn.com.au/article.aspx?id=1012537)
 
 ### Related:
 

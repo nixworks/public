@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/09/17/indonesia.terror.raid/)
-2. [Jakarta Post](http://www.thejakartapost.com/news/2009/09/17/police-confirm-noordin%E2%80%99s-death.html)
-3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/09/200991783135850613.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/09/200991783135850613.html)
+2. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/09/17/indonesia.terror.raid/)
+3. [Jakarta Post](http://www.thejakartapost.com/news/2009/09/17/police-confirm-noordin%E2%80%99s-death.html)
 
 ### Related:
 

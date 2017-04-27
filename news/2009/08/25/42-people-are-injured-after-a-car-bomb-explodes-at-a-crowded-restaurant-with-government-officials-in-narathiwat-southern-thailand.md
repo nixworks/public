@@ -7,8 +7,8 @@ A car bomb has ripped through a restaurant packed with government officials, inj
 
 ### Source:
 
-1. [The Age](http://www.theage.com.au/world/thai-car-bomb-injures-42-20090825-ey2b.html)
-2. [Bangkok Post](http://www.bangkokpost.com/news/local/152617/car-bomb-wounds-42-in-south-army)
+1. [Bangkok Post](http://www.bangkokpost.com/news/local/152617/car-bomb-wounds-42-in-south-army)
+2. [The Age](http://www.theage.com.au/world/thai-car-bomb-injures-42-20090825-ey2b.html)
 
 ### Related:
 

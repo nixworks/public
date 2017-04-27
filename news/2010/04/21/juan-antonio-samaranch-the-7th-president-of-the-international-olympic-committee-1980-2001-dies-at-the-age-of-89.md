@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/SPORT/04/21/olympics.samaranch.dies/index.html?eref=rss_topstories&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+Top+Stories%29)
-2. [BBC](http://news.bbc.co.uk/sport2/hi/olympic_games/8634243.stm)
+1. [BBC](http://news.bbc.co.uk/sport2/hi/olympic_games/8634243.stm)
+2. [CNN](http://edition.cnn.com/2010/SPORT/04/21/olympics.samaranch.dies/index.html?eref=rss_topstories&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+Top+Stories%29)
 3. [ESPN](http://sports.espn.go.com/espn/wire?section=oly&id=5121594)
 
 ### Related:

@@ -7,8 +7,8 @@ Freezing weather and snow paralyse northern Mexico, which is experiencing its lo
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-latin-america-12370717)
-2. [AP via Sun-Sentinel](http://www.sun-sentinel.com/news/nationworld/sns-ap-lt-mexico-frigid-weather-animals,0,645438.story)
+1. [AP via Sun-Sentinel](http://www.sun-sentinel.com/news/nationworld/sns-ap-lt-mexico-frigid-weather-animals,0,645438.story)
+2. [BBC](http://www.bbc.co.uk/news/world-latin-america-12370717)
 
 ### Related:
 

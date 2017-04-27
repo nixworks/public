@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/city/lucknow/UP-residents-shaken-up-by-mild-quake-tremor/articleshow/10030535.cms)
-2. [The Australian](http://www.theaustralian.com.au/news/world/indian-earthquake-kills-19/story-e6frg6so-1226140593200)
-3. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/09/18/india.earthquake/)
-4. [Bangladesh News 24 Hours](http://bdnews24.com/details.php?id=206404&cid=2)
+1. [Bangladesh News 24 Hours](http://bdnews24.com/details.php?id=206404&cid=2)
+2. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/09/18/india.earthquake/)
+3. [The Australian](http://www.theaustralian.com.au/news/world/indian-earthquake-kills-19/story-e6frg6so-1226140593200)
+4. [Times of India](http://timesofindia.indiatimes.com/city/lucknow/UP-residents-shaken-up-by-mild-quake-tremor/articleshow/10030535.cms)
 
 ### Related:
 

@@ -7,10 +7,10 @@ Officials with the Pawnee County Emergency Management say buildings there suffer
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2016/09/04/us/earthquake-ties-record-for-strongest-in-oklahoma-history.html?_r=0)
-2. [KOTV 6](http://www.news9.com/story/33008800/state-responds-to-56-earthquake)
-3. [CNN](http://www.cnn.com/2016/09/03/us/oklahoma-earthquake/)
-4. [KOKI-TV](http://www.fox23.com/news/pawnee-building-collapses-during-massive-earthquake/436463982)
+1. [CNN](http://www.cnn.com/2016/09/03/us/oklahoma-earthquake/)
+2. [KOKI-TV](http://www.fox23.com/news/pawnee-building-collapses-during-massive-earthquake/436463982)
+3. [KOTV 6](http://www.news9.com/story/33008800/state-responds-to-56-earthquake)
+4. [The New York Times](http://www.nytimes.com/2016/09/04/us/earthquake-ties-record-for-strongest-in-oklahoma-history.html?_r=0)
 
 ### Related:
 

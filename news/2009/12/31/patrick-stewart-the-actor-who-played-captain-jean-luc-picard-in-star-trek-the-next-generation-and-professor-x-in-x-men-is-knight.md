@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [News10](http://www.news10.net/life/entertainment/story.aspx?storyid=72503&catid=37)
-2. [CNN](http://www.cnn.com/2009/SHOWBIZ/Movies/12/30/patrick.stewart.knighthood/)
+1. [CNN](http://www.cnn.com/2009/SHOWBIZ/Movies/12/30/patrick.stewart.knighthood/)
+2. [News10](http://www.news10.net/life/entertainment/story.aspx?storyid=72503&catid=37)
 3. [The Guardian](http://www.guardian.co.uk/uk/2009/dec/31/new-year-honours-list)
 
 ### Related:

@@ -7,10 +7,10 @@ Swedish divers find 30 bottles of champagne in a shipwreck believed to date from
 
 ### Source:
 
-1. [News24.com](http://www.news24.com/SciTech/News/Divers-find-fabulous-vintage-bubbly-20100717)
-2. [The Independent](http://www.independent.co.uk/news/world/europe/divers-find-oldest-champagne-in-baltic-wreck-2029007.html)
-3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0717/breaking6.html)
-4. [BBC](http://www.bbc.co.uk/news/world-europe-10673322)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-10673322)
+2. [News24.com](http://www.news24.com/SciTech/News/Divers-find-fabulous-vintage-bubbly-20100717)
+3. [The Independent](http://www.independent.co.uk/news/world/europe/divers-find-oldest-champagne-in-baltic-wreck-2029007.html)
+4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0717/breaking6.html)
 
 ### Related:
 

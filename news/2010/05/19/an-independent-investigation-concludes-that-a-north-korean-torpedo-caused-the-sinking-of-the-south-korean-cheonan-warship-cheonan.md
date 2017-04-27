@@ -8,9 +8,9 @@ The independent investigation into the sinking of the Cheonan has concluded that
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia_pacific/10124939.stm)
-2. [DailyNK](http://www.dailynk.com/english/read.php?cataId=nk00100&num=6392)
-3. [Yonhap](http://english.yonhapnews.co.kr/national/2010/05/19/49/0301000000AEN20100519007300315F.HTML)
-4. [China Daily](http://www.chinadaily.com.cn/world/2010-05/19/content_9868705.htm)
+2. [China Daily](http://www.chinadaily.com.cn/world/2010-05/19/content_9868705.htm)
+3. [DailyNK](http://www.dailynk.com/english/read.php?cataId=nk00100&num=6392)
+4. [Yonhap](http://english.yonhapnews.co.kr/national/2010/05/19/49/0301000000AEN20100519007300315F.HTML)
 
 ### Related:
 
@@ -23,4 +23,4 @@ The independent investigation into the sinking of the Cheonan has concluded that
 7. [A South Korean Navy ship named the Cheonan, carrying more than 100 personnel sinks near the Northern Limit Line in waters off the country's west coast near North Korea. [http://english.yonhapnews.co.kr/national/2010/03/27/13/0301000000AEN20100327000100315F.HTML (Yonhap)] [http://news.bbc.co.uk/2/hi/asia-pacific/8589507.stm (BBC)] [http://www.rte.ie/news/2010/0326/korea.html (RTE)] [http://timesofindia.indiatimes.com/world/rest-of-world/South-Korea-navy-ship-sunk-near-North-Korea-border-Military/articleshow/5728798.cms (''The Times of India'')] An international team of investigators attributes the attack to a torpedo fired by a North Korean submarine. [http://www.timesonline.co.uk/tol/news/world/asia/article7131533.ece (The Times)].](/news/2010/03/26/a-south-korean-navy-ship-named-the-cheonan-carrying-more-than-100-personnel-sinks-near-the-northern-limit-line-in-waters-off-the-country-s.md) _Context: North Korea, sinking_
 8. [The United States Pacific Command deploys warships, including the USS ''Carl Vinson'', to move towards the Korean Peninsula following North Korea's recent tests with weapons of mass destruction and opposition to the Sharyat missile strike. North Korea is also reclassified as a state sponsor of terrorism. ](/news/2017/04/9/the-united-states-pacific-command-deploys-warships-including-the-uss-carl-vinson-to-move-towards-the-korean-peninsula-following-north.md) _Context: North Korea_
 9. [North Korea fires a medium-range ballistic missile about 60 kilometers (37 miles) into its eastern waters, in the direction of Japan according to United States and South Korean officials. ](/news/2017/04/5/north-korea-fires-a-medium-range-ballistic-missile-about-60-kilometers-37-miles-into-its-eastern-waters-in-the-direction-of-japan-accordi.md) _Context: North Korea_
-10. [Yonhap reports that North Korea has detained a U.S. citizen as he sought to leave the country. ](/news/2017/04/23/yonhap-reports-that-north-korea-has-detained-a-u-s-citizen-as-he-sought-to-leave-the-country.md) _Context: North Korea_
+10. [The United States deploys parts of its Terminal High Altitude Area Defense in South Korea amidst high tension caused by North Korea's escalation of its missile and nuclear weapons programs. ](/news/2017/04/26/the-united-states-deploys-parts-of-its-terminal-high-altitude-area-defense-in-south-korea-amidst-high-tension-caused-by-north-korea-s-escala.md) _Context: North Korea_

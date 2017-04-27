@@ -7,9 +7,9 @@ Arab, left-wing MKs fume as bill allowing small communities to reject residents 
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=213396)
-2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4046440,00.html)
-3. [BBC](http://www.bbc.co.uk/news/world-middle-east-12837953)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12837953)
+2. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=213396)
+3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4046440,00.html)
 
 ### Related:
 

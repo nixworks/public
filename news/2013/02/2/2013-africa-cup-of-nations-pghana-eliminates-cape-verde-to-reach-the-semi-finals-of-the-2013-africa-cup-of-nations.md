@@ -7,8 +7,8 @@ Ghana reach the semi-finals of the Africa Cup of Nations after Mubarak Wakaso sc
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/sport/0/football/21294418)
-2. [BBC](http://www.bbc.co.uk/sport/0/football/21294305)
+1. [BBC](http://www.bbc.co.uk/sport/0/football/21294305)
+2. [BBC](http://www.bbc.co.uk/sport/0/football/21294418)
 
 ### Related:
 

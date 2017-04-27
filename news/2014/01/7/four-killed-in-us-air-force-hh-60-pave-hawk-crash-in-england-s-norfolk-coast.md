@@ -7,8 +7,8 @@ An investigation is underway after four crew members were killed when a US milit
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/aviation/10557518/Helicopter-crash-four-killed-on-US-military-training-mission-in-north-Norfolk.html)
-2. [BBC](http://www.bbc.co.uk/news/uk-25646978)
+1. [BBC](http://www.bbc.co.uk/news/uk-25646978)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/news/aviation/10557518/Helicopter-crash-four-killed-on-US-military-training-mission-in-north-Norfolk.html)
 3. [The Independent](http://www.independent.co.uk/news/uk/home-news/norfolk-helicopter-crash-four-crew-killed-as-us-air-force-craft-crashes-into-cley-marshland-9045188.html)
 
 ### Related:

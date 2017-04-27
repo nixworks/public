@@ -7,9 +7,9 @@ An estimated 49,000 people attended the National Ploughing Championship today.
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2009/0922/ploughing.html)
-2. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2009/0921/1224254908525.html)
-3. [Irish Independent](http://www.independent.ie/farming/ploughing-championships/motorists-warned-of-twohour-delay-on-trip-to-plough-festival-1892629.html)
+1. [Irish Independent](http://www.independent.ie/farming/ploughing-championships/motorists-warned-of-twohour-delay-on-trip-to-plough-festival-1892629.html)
+2. [RTÉ](http://www.rte.ie/news/2009/0922/ploughing.html)
+3. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2009/0921/1224254908525.html)
 
 ### Related:
 

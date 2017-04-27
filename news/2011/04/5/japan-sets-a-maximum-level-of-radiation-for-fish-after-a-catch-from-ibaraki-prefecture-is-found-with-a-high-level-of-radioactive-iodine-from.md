@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Kyodo](http://english.kyodonews.jp/news/2011/04/83353.html)
-2. [AP](http://hosted.ap.org/dynamic/stories/A/AS_JAPAN_EARTHQUAKE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2011-04-05-05-34-50)
+1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_JAPAN_EARTHQUAKE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2011-04-05-05-34-50)
+2. [Kyodo](http://english.kyodonews.jp/news/2011/04/83353.html)
 
 ### Related:
 

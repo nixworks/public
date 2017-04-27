@@ -7,8 +7,8 @@ The Obama administration rejected calls for a nationwide moratorium on housing f
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE69B3BH20101013)
-2. [MSNBC](http://www.msnbc.msn.com/id/39632729/ns/business-real_estate/)
+1. [MSNBC](http://www.msnbc.msn.com/id/39632729/ns/business-real_estate/)
+2. [Reuters](http://www.reuters.com/article/idUSTRE69B3BH20101013)
 
 ### Related:
 

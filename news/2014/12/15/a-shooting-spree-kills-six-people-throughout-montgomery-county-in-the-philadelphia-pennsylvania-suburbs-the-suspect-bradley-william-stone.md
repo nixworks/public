@@ -7,8 +7,8 @@ Investigators are releasing new details about the murder spree in Montgomery Cou
 
 ### Source:
 
-1. [WPVI-TV](http://6abc.com/news/montco-shootings-4th-scene-in-pennsburg;-suspect-barricade-in-souderton/436923/)
-2. [Philadelphia Inquirer](http://www.philly.com/philly/news/20141216_Manhunt_continues_after_6_die_in_shooting_spree.html)
+1. [Philadelphia Inquirer](http://www.philly.com/philly/news/20141216_Manhunt_continues_after_6_die_in_shooting_spree.html)
+2. [WPVI-TV](http://6abc.com/news/montco-shootings-4th-scene-in-pennsburg;-suspect-barricade-in-souderton/436923/)
 
 ### Related:
 

@@ -7,8 +7,8 @@ A portrait of actor Hugo Weaving by Sydney artist Del Kathryn Barton has won thi
 
 ### Source:
 
-1. [The Australian Financial Review](http://www.afr.com/p/national/del_kathryn_barton_wins_an_archibald_RZ2m5XkHB1yePpv88lruGJ)
-2. [ABC News Australia](http://www.abc.net.au/news/2013-03-22/archibald-prize-winner-declared/4588148)
+1. [ABC News Australia](http://www.abc.net.au/news/2013-03-22/archibald-prize-winner-declared/4588148)
+2. [The Australian Financial Review](http://www.afr.com/p/national/del_kathryn_barton_wins_an_archibald_RZ2m5XkHB1yePpv88lruGJ)
 3. [Vogue Australia](http://www.vogue.com.au/culture/arts/del+kathryn+barton+wins+archibald+prize,22835)
 
 ### Related:

@@ -7,10 +7,10 @@ A local staff member of the United Nations in Myanmar and three of her family me
 
 ### Source:
 
-1. [Reuters via News Limited](http://www.news.com.au/story/0,10117,22526329-401,00.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/7025357.stm)
 2. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,,-6968737,00.html)
 3. [NYT](http://www.nytimes.com/2007/10/04/world/asia/04myanmar.html)
-4. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/7025357.stm)
+4. [Reuters via News Limited](http://www.news.com.au/story/0,10117,22526329-401,00.html)
 
 ### Related:
 

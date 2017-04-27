@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Business Report](http://www.busrep.co.za/index.php?fSectionId=&fArticleId=2419333)
-2. [SwissInfo](http://www.swissinfo.org/sen/swissinfo.html?siteSect=107&sid=5552697)
-3. [Independent](http://news.independent.co.uk/business/news/story.jsp?story=613517)
+2. [Independent](http://news.independent.co.uk/business/news/story.jsp?story=613517)
+3. [SwissInfo](http://www.swissinfo.org/sen/swissinfo.html?siteSect=107&sid=5552697)
 
 ### Related:
 

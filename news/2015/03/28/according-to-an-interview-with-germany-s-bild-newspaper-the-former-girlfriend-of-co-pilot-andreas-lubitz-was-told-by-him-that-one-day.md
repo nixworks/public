@@ -7,8 +7,8 @@ The co-pilot of the Germanwings Airbus which crashed in the French Alps predicte
 
 ### Source:
 
-1. [Guardian](http://www.theguardian.com/world/2015/mar/28/germanwings-crash-service-held-for-victims-near-impact-zone)
-2. [BBC](http://www.bbc.com/news/world-europe-32098578)
+1. [BBC](http://www.bbc.com/news/world-europe-32098578)
+2. [Guardian](http://www.theguardian.com/world/2015/mar/28/germanwings-crash-service-held-for-victims-near-impact-zone)
 
 ### Related:
 

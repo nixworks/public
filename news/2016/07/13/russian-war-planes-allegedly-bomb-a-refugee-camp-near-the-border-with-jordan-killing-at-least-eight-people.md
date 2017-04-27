@@ -7,8 +7,8 @@ Jets bombed a Syrian refugee camp on the border with Jordan, killing at least ei
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-airstrikes-idUSKCN0ZT1PI)
-2. [BBC](http://www.bbc.com/news/world-middle-east-36781770)
+1. [BBC](http://www.bbc.com/news/world-middle-east-36781770)
+2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-airstrikes-idUSKCN0ZT1PI)
 
 ### Related:
 

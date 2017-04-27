@@ -8,9 +8,9 @@
 ### Source:
 
 1. [Japan Today](http://www.japantoday.com/e/?content=news&cat=7&id=353130)
-2. [Reuters](http://www.alertnet.org/thenews/newsdesk/SP156704.htm)
+2. [Kantipuronline](http://www.kantipuronline.com/kolnews.php?&nid=55332)
 3. [NepalNews](http://www.nepalnews.com/archive/2005/oct/oct24/news04.php)
-4. [Kantipuronline](http://www.kantipuronline.com/kolnews.php?&nid=55332)
+4. [Reuters](http://www.alertnet.org/thenews/newsdesk/SP156704.htm)
 
 ### Related:
 

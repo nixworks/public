@@ -7,8 +7,8 @@ A suicide attack on a Turkish embassy vehicle in the Afghan capital, Kabul, kill
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/news/world/suicide-bomb-attack-turkish-embassy-vehicle-kills-one-kabul-n313086)
-2. [BBC](http://www.bbc.com/news/world-south-asia-31635709?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+1. [BBC](http://www.bbc.com/news/world-south-asia-31635709?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+2. [NBC News](http://www.nbcnews.com/news/world/suicide-bomb-attack-turkish-embassy-vehicle-kills-one-kabul-n313086)
 
 ### Related:
 

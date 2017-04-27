@@ -7,8 +7,8 @@ Pakistan players Salman Butt and Mohammad Amir had their provisional suspensions
 
 ### Source:
 
-1. [Reuters](http://in.reuters.com/article/idINIndia-52570820101031)
-2. [BBC](http://news.bbc.co.uk/sport2/hi/cricket/other_international/pakistan/9143040.stm)
+1. [BBC](http://news.bbc.co.uk/sport2/hi/cricket/other_international/pakistan/9143040.stm)
+2. [Reuters](http://in.reuters.com/article/idINIndia-52570820101031)
 
 ### Related:
 

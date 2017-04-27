@@ -7,9 +7,9 @@ East African leaders have called for 20,000 troops to be deployed across Somalia
 
 ### Source:
 
-1. [BBC News](http://news.bbc.co.uk/1/hi/world/africa/10505311.stm)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hFjYsulph5aBVy1E8BwpZKDsQCyQ)
 2. [AllAfrica.com](http://allafrica.com/stories/201007060463.html)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hFjYsulph5aBVy1E8BwpZKDsQCyQ)
+3. [BBC News](http://news.bbc.co.uk/1/hi/world/africa/10505311.stm)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/world/2015-01/19/c_133928165.htm)
-2. [Reuters](http://www.reuters.com/article/2015/01/18/us-mideast-crisis-israel-syria-idUSKBN0KR0K620150118)
+1. [Reuters](http://www.reuters.com/article/2015/01/18/us-mideast-crisis-israel-syria-idUSKBN0KR0K620150118)
+2. [Xinhua](http://news.xinhuanet.com/english/world/2015-01/19/c_133928165.htm)
 
 ### Related:
 

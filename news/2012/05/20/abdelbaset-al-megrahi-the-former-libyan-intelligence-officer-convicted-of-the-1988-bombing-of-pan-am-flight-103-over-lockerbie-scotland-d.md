@@ -7,8 +7,8 @@ Lockerbie bomber Abdelbaset al-Megrahi dies at home in Tripoli, nearly three yea
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-18137896)
-2. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/05/201252012581955868.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/05/201252012581955868.html)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-18137896)
 
 ### Related:
 

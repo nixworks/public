@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Saudi Gazette](http://www.saudigazette.com.sa/index.cfm?method=home.regcon&contentid=20130117149560)
+1. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1301696/saudi-arabia-sack-coach-frank-rijkaard)
 2. [Goal.com](http://www.goal.com/en-us/news/105/main/2013/01/17/3677395/saudi-arabia-sack-rijkaard-as-coach)
-3. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1301696/saudi-arabia-sack-coach-frank-rijkaard)
+3. [Saudi Gazette](http://www.saudigazette.com.sa/index.cfm?method=home.regcon&contentid=20130117149560)
 
 ### Related:
 

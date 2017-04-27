@@ -8,10 +8,10 @@ A journalist, 22, was sentenced for her connection to a Lebanese TV show in whic
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8324117.stm)
-2. [The New York Times](http://www.nytimes.com/2009/10/25/world/middleeast/25saudi.html)
-3. [CNN](http://edition.cnn.com/2009/WORLD/meast/10/24/saudi.sex.braggart.journalist/)
+2. [CNN](http://edition.cnn.com/2009/WORLD/meast/10/24/saudi.sex.braggart.journalist/)
+3. [Radio Netherlands Worldwide](http://www.rnw.nl/english/article/journalist-sentenced-lashes-saudi-arabia)
 4. [Reuters](http://www.reuters.com/article/latestCrisis/idUSLO592546)
-5. [Radio Netherlands Worldwide](http://www.rnw.nl/english/article/journalist-sentenced-lashes-saudi-arabia)
+5. [The New York Times](http://www.nytimes.com/2009/10/25/world/middleeast/25saudi.html)
 
 ### Related:
 

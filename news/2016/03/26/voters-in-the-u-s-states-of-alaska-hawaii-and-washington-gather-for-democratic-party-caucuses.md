@@ -7,8 +7,8 @@ Bernie Sanders pushed for a trifecta of wins in Saturday&#8217;s Democratic pres
 
 ### Source:
 
-1. [Washington Times](http://www.washingtontimes.com/news/2016/mar/26/bernie-sanders-seeks-caucus-trifecta-win-close-del/)
-2. [U.S. News & World Report](http://www.usnews.com/news/us/articles/2016-03-26/the-latest-bustling-caucus-sites-in-washington-state)
+1. [U.S. News & World Report](http://www.usnews.com/news/us/articles/2016-03-26/the-latest-bustling-caucus-sites-in-washington-state)
+2. [Washington Times](http://www.washingtontimes.com/news/2016/mar/26/bernie-sanders-seeks-caucus-trifecta-win-close-del/)
 
 ### Related:
 

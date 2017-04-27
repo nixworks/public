@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CSN Philly](http://www.csnphilly.com/baseball-philadelphia-phillies/news/Phils-Manuel-reach-milestones-in-dramati?blockID=569218&feedID=693)
-2. [AP via ''Wall Street Journal](http://online.wsj.com/article/AP0406ee64c0454cf494d23a9ac9dbde53.html)
-3. [Atlanta Journal Constitution](http://www.ajc.com/sports/atlanta-braves/braves-complete-collapse-out-1191030.html)
+1. [AP via ''Wall Street Journal](http://online.wsj.com/article/AP0406ee64c0454cf494d23a9ac9dbde53.html)
+2. [Atlanta Journal Constitution](http://www.ajc.com/sports/atlanta-braves/braves-complete-collapse-out-1191030.html)
+3. [CSN Philly](http://www.csnphilly.com/baseball-philadelphia-phillies/news/Phils-Manuel-reach-milestones-in-dramati?blockID=569218&feedID=693)
 
 ### Related:
 

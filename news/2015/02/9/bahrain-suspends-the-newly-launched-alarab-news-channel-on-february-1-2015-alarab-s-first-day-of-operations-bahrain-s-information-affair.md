@@ -7,8 +7,8 @@ Gulf kingdom orders closure of pan-Arab news channel launched last week after it
 
 ### Source:
 
-1. [The Nation'' (Pakistan](http://nation.com.pk/international/10-Feb-2015/bahrain-suspends-ksa-owned-news-channel)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2015/02/bahrain-suspends-newly-launched-alarab-news-channel-150209155209829.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2015/02/bahrain-suspends-newly-launched-alarab-news-channel-150209155209829.html)
+2. [The Nation'' (Pakistan](http://nation.com.pk/international/10-Feb-2015/bahrain-suspends-ksa-owned-news-channel)
 
 ### Related:
 

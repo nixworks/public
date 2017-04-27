@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sify, India](http://sify.com/news/fullstory.php?id=13686504)
-2. [Deccan Herald](http://www.deccanherald.com/deccanherald/mar052005/i1.asp)
+1. [Deccan Herald](http://www.deccanherald.com/deccanherald/mar052005/i1.asp)
+2. [Sify, India](http://sify.com/news/fullstory.php?id=13686504)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp;:422bf4b8:3a732d409d842f4?type=topNews&localeKey=en_ZA&storyID=7821197)
-2. [Morocco Times](http://www.moroccotimes.com/paper/article.asp?idr=2&id=4499)
+1. [Morocco Times](http://www.moroccotimes.com/paper/article.asp?idr=2&id=4499)
+2. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp;:422bf4b8:3a732d409d842f4?type=topNews&localeKey=en_ZA&storyID=7821197)
 
 ### Related:
 

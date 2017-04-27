@@ -4,7 +4,7 @@
 _Context: Ukrainian military, War in Donbass, pro-Russian separatists, since Sunday_
 
 ### [ The Russian Defence Ministry says six Russian bombers  hit ISIL positions in Syria's Deir ez-Zor Governorate. ](/news/2017/01/30/the-russian-defence-ministry-says-six-russian-bombers-hit-isil-positions-in-syria-s-deir-ez-zor-governorate.md)
-_Context: Deir ez-Zor Governorate, Islamic State of Iraq and the Levant, Russian Defence Ministry, Russian military intervention, Syria_
+_Context: Deir ez-Zor Governorate, ISIL, Russian Defence Ministry, Russian military intervention, Syria_
 
 ### [At least two police officers and three suspected militants are killed during a gunfight in Shali, Chechnya. ](/news/2017/01/30/at-least-two-police-officers-and-three-suspected-militants-are-killed-during-a-gunfight-in-shali-chechnya.md)
 _Context: Chechnya, Insurgency in the North Caucasus, Shali, police officers_
@@ -31,7 +31,7 @@ _Context: Gorno-Badakhshan, Tajikistan_
 The petition suggested it should be canceled &quot;because it would cause embarrassment&quot; to Queen Elizabeth II.
 
 ### [The Iraqi Parliament votes in favour of a reciprocal travel ban on U.S. citizens if U.S. President Donald Trump's executive order barring citizens of Iraq and six other Muslim-majority countries is not reversed. The Iraqi travel ban will not be implemented while tens of thousands of U.S. soldiers and contractors are involved in the fight against ISIL. ](/news/2017/01/30/the-iraqi-parliament-votes-in-favour-of-a-reciprocal-travel-ban-on-u-s-citizens-if-u-s-president-donald-trump-s-executive-order-barring-ci.md)
-_Context: ISIL, Iraq, Iraqi Parliament, Iraq–United States relations, U.S., executive order_
+_Context: ISIL, Iraq, Iraqi Parliament, Iraq–United States relations, United States, executive order_
 
 ### [Philippine President Rodrigo Duterte suspends the war on drugs so  resources can focus on ridding "corrupt" officers from the Philippine National Police. The ''cause celebre'' is the kidnapping and strangulation of South Korean businessman  Jee Ick-joo last October. ](/news/2017/01/30/philippine-president-rodrigo-duterte-suspends-the-war-on-drugs-so-resources-can-focus-on-ridding-acorrupta-officers-from-the-philippine.md)
 The Philippine police are to suspend their controversial war on drugs until &ldquo;corrupt&rdquo; officers can be rooted out, the chief of the force said on Monday, following the killing of a South Korean businessman.

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [International Water Power and Dam Construction](http://www.waterpowermagazine.com/story.asp?sectionCode=130&storyCode=2027551)
-2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4391251.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4391251.stm)
+2. [International Water Power and Dam Construction](http://www.waterpowermagazine.com/story.asp?sectionCode=130&storyCode=2027551)
 3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/SP187390.htm)
 
 ### Related:

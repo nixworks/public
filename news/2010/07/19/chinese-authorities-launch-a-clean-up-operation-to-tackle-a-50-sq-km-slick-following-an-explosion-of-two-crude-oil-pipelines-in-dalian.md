@@ -8,8 +8,8 @@ China launches an operation to clean up an oil spill in the Yellow Sea after two
 ### Source:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hmbbqtW_wP_pjgzJuHY0orw0bPkQ)
-2. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-07/19/c_13404870.htm)
-3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10680630)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10680630)
+3. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-07/19/c_13404870.htm)
 
 ### Related:
 

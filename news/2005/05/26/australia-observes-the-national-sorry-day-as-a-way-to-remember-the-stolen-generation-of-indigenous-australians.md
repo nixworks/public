@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Radio Australia](http://www.abc.net.au/ra/news/stories/s1377237.htm)
-2. [ABC AU](http://www.abc.net.au/news/newsitems/200505/s1377194.htm)
-3. [National Indigenous Times](http://www.nit.com.au/breakingNews/story.aspx?id=5024)
+1. [ABC AU](http://www.abc.net.au/news/newsitems/200505/s1377194.htm)
+2. [National Indigenous Times](http://www.nit.com.au/breakingNews/story.aspx?id=5024)
+3. [Radio Australia](http://www.abc.net.au/ra/news/stories/s1377237.htm)
 
 ### Related:
 

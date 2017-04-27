@@ -7,8 +7,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=peopleNews&storyID=2005-03-22T012550Z_01_N21348368_RTRIDST_0_PEOPLE-JAPAN-FISCHER-DC.XML)
-2. [NDTV](http://www.ndtv.com/sports/showsports.asp?sportname=Report&story=Iceland+grants+citizenship+to+Fischer&id=21824)
+1. [NDTV](http://www.ndtv.com/sports/showsports.asp?sportname=Report&story=Iceland+grants+citizenship+to+Fischer&id=21824)
+2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=peopleNews&storyID=2005-03-22T012550Z_01_N21348368_RTRIDST_0_PEOPLE-JAPAN-FISCHER-DC.XML)
 
 ### Related:
 

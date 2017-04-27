@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Moscos Times](http://www.themoscowtimes.com/stories/2005/04/01/014.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/4399187.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4399187.stm)
+2. [Moscos Times](http://www.themoscowtimes.com/stories/2005/04/01/014.html)
 
 ### Related:
 

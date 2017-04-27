@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Mosnews](http://www.mosnews.com/news/2005/10/18/newbirdflu.shtml)
-2. [CNN](http://edition.cnn.com/2005/HEALTH/conditions/10/19/birdflu.macedonia/)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4356392.stm)
-4. [AP/Canada.com](http://www.canada.com/health/story.html?id=b6170d93-4b36-462b-90f7-f67c6a7add6d)
+1. [AP/Canada.com](http://www.canada.com/health/story.html?id=b6170d93-4b36-462b-90f7-f67c6a7add6d)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4356392.stm)
+3. [CNN](http://edition.cnn.com/2005/HEALTH/conditions/10/19/birdflu.macedonia/)
+4. [Mosnews](http://www.mosnews.com/news/2005/10/18/newbirdflu.shtml)
 
 ### Related:
 

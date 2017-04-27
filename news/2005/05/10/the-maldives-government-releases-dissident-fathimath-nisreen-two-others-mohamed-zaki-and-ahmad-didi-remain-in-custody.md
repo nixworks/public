@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4532191.stm)
-2. [Reporters Without Borders](http://www.rsf.org/article.php3?id_article=13720)
-3. [Minivan News, Maldives](http://www.minivannews.com/news/news.php?id=643)
+2. [Minivan News, Maldives](http://www.minivannews.com/news/news.php?id=643)
+3. [Reporters Without Borders](http://www.rsf.org/article.php3?id_article=13720)
 
 ### Related:
 

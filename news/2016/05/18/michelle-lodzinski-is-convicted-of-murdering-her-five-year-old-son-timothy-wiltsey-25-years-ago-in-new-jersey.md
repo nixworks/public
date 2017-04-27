@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2016/05/19/nyregion/woman-found-guilty-of-murder-in-1991-death-of-son-5-timothy-wiltsey.html)
-2. [AP via Chicago Tribune](http://www.chicagotribune.com/news/sns-bc-us--cold-case-mother-20160518-story.html)
+1. [AP via Chicago Tribune](http://www.chicagotribune.com/news/sns-bc-us--cold-case-mother-20160518-story.html)
+2. [The New York Times](http://www.nytimes.com/2016/05/19/nyregion/woman-found-guilty-of-murder-in-1991-death-of-son-5-timothy-wiltsey.html)
 3. [USA Today](http://www.usatoday.com/story/news/nation-now/2016/05/18/michelle-lodzinski-guilty-murdering-son/84542028/)
 
 ### Related:

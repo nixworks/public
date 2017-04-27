@@ -8,8 +8,8 @@
 ### Source:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5ha6FJ6JRsaJkvGnvppty2USWW8UAD9C56ONG0)
-2. [Philippine Inquirer](http://newsinfo.inquirer.net/breakingnews/nation/view/20091123-237934/Wife-of-gubernatorial-bet-35-killed-in-Maguindanao)
-3. [GMA News](http://www.gmanews.tv/story/177644/maguindanao-poll-related-massacre-claims-at-least-36-lives)
+2. [GMA News](http://www.gmanews.tv/story/177644/maguindanao-poll-related-massacre-claims-at-least-36-lives)
+3. [Philippine Inquirer](http://newsinfo.inquirer.net/breakingnews/nation/view/20091123-237934/Wife-of-gubernatorial-bet-35-killed-in-Maguindanao)
 
 ### Related:
 

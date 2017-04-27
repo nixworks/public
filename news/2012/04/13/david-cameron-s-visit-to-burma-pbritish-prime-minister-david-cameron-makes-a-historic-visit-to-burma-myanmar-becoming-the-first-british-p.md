@@ -7,8 +7,8 @@ The Prime Minister David Cameron today called for sanctions against Burma to be 
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/uk/politics/david-cameron-arrives-in-burma-for-historic-visit-7642782.html)
-2. [BBC](http://www.bbc.co.uk/news/uk-politics-17698526)
+1. [BBC](http://www.bbc.co.uk/news/uk-politics-17698526)
+2. [The Independent](http://www.independent.co.uk/news/uk/politics/david-cameron-arrives-in-burma-for-historic-visit-7642782.html)
 
 ### Related:
 

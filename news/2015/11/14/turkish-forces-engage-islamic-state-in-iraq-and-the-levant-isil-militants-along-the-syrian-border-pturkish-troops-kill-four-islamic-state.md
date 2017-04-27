@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Daily Sabah](http://www.dailysabah.com/politics/2015/11/14/security-forces-kill-4-isis-members-detain-13-in-southeast-turkey)
-2. [Al Jazeera](http://america.aljazeera.com/articles/2015/11/15/suicide-bomb-in-turkey-injures-5-police-officers.html)
+1. [Al Jazeera](http://america.aljazeera.com/articles/2015/11/15/suicide-bomb-in-turkey-injures-5-police-officers.html)
+2. [Daily Sabah](http://www.dailysabah.com/politics/2015/11/14/security-forces-kill-4-isis-members-detain-13-in-southeast-turkey)
 
 ### Related:
 

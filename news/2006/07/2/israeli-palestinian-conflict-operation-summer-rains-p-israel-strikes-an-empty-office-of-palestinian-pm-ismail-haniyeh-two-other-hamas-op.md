@@ -7,12 +7,12 @@ In weekly cabinet meeting, Olmert states &#39;Hamas members won&#39;t be nabbed 
 
 ### Source:
 
-1. [Haaretz](http://www.haaretz.com/hasen/spages/733634.html)
-2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3269992,00.html)
-3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3270237,00.html)
-4. [Haaretz](http://www.haaretz.com/hasen/spages/733592.html)
-5. [BBC](http://news.bbc.co.uk/2/hi/middle_east/5137768.stm)
-6. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3269958,00.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/5137768.stm)
+2. [Haaretz](http://www.haaretz.com/hasen/spages/733592.html)
+3. [Haaretz](http://www.haaretz.com/hasen/spages/733634.html)
+4. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3269958,00.html)
+5. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3269992,00.html)
+6. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3270237,00.html)
 
 ### Related:
 

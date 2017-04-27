@@ -7,8 +7,8 @@ Brain-eating amoeba are blamed in the death of a 21-year-old California woman. H
 
 ### Source:
 
-1. [Reno Gazette-Journal](http://www.rgj.com/story/news/2015/07/01/death-brain-eating-amoeba-reported-renown/29585859/)
-2. [Inquisitr.com](http://www.inquisitr.com/2220431/brain-eating-amoeba/)
+1. [Inquisitr.com](http://www.inquisitr.com/2220431/brain-eating-amoeba/)
+2. [Reno Gazette-Journal](http://www.rgj.com/story/news/2015/07/01/death-brain-eating-amoeba-reported-renown/29585859/)
 
 ### Related:
 

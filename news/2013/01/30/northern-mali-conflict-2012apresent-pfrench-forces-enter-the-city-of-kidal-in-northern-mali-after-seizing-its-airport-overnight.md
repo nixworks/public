@@ -8,8 +8,8 @@ French forces say they have entered Kidal in northern Mali, the last major town 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21256781)
-2. [Reuters](http://www.reuters.com/article/2013/01/30/us-mali-rebels-idUSBRE90S0OV20130130)
-3. [France 24](http://www.france24.com/en/20130130-french-troops-poised-take-kidal-airport-mali)
+2. [France 24](http://www.france24.com/en/20130130-french-troops-poised-take-kidal-airport-mali)
+3. [Reuters](http://www.reuters.com/article/2013/01/30/us-mali-rebels-idUSBRE90S0OV20130130)
 
 ### Related:
 

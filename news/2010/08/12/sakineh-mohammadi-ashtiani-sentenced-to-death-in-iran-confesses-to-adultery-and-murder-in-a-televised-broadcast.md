@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2010/aug/12/sakineh-mohammadi-ashtiani-confesses-murder-iran)
-2. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE67B18220100812?sp=true)
+1. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE67B18220100812?sp=true)
+2. [The Guardian](http://www.guardian.co.uk/world/2010/aug/12/sakineh-mohammadi-ashtiani-confesses-murder-iran)
 
 ### Related:
 

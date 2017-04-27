@@ -8,10 +8,10 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8317853.stm)
-2. [Euronews](http://www.euronews.net/2009/10/21/six-freed-as-supermarket-siege-ends-safely/)
-3. [Jakarta Globe](http://thejakartaglobe.com/afp/six-hostages-in-paris-suburb-hold-up/336784)
+2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_world/view/1012788/1/.html)
+3. [Euronews](http://www.euronews.net/2009/10/21/six-freed-as-supermarket-siege-ends-safely/)
 4. [Ghana Broadcasting Corporation](http://gbcghana.com/news/29009detail.html)
-5. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_world/view/1012788/1/.html)
+5. [Jakarta Globe](http://thejakartaglobe.com/afp/six-hostages-in-paris-suburb-hold-up/336784)
 
 ### Related:
 

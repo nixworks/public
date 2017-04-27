@@ -7,8 +7,8 @@ Dozens of Afghan schoolgirls fell ill after a suspected poison gas attack on the
 
 ### Source:
 
-1. [Japan Today](http://www.japantoday.com/category/world/view/80-afghan-schoolgirls-sick-in-one-week-poison-feared)
-2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8642806.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8642806.stm)
+2. [Japan Today](http://www.japantoday.com/category/world/view/80-afghan-schoolgirls-sick-in-one-week-poison-feared)
 3. [Reuters](http://uk.reuters.com/article/idUKTRE63O0EX20100425)
 
 ### Related:

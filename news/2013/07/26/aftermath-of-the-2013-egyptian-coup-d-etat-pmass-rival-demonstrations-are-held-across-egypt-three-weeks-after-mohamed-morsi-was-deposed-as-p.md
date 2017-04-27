@@ -7,10 +7,10 @@ Millions attend rival rallies; fighting begins after pro-military protesters bur
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-23472072)
-2. [Al-Jazeera](http://blogs.aljazeera.com/liveblog/topic/egypt-21121)
-3. [Times of Israel](http://www.timesofisrael.com/eleven-injured-in-egypt-clashes/)
-4. [Reuters](http://www.reuters.com/article/2013/07/25/us-egypt-protests-idUSBRE96O11Z20130725)
+1. [Al-Jazeera](http://blogs.aljazeera.com/liveblog/topic/egypt-21121)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-23472072)
+3. [Reuters](http://www.reuters.com/article/2013/07/25/us-egypt-protests-idUSBRE96O11Z20130725)
+4. [Times of Israel](http://www.timesofisrael.com/eleven-injured-in-egypt-clashes/)
 
 ### Related:
 

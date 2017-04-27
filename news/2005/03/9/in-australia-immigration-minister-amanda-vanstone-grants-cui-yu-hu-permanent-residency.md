@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [News.com.au](http://www.news.com.au/story/0,10117,12488085-1243,00.html)
+1. [Australian](http://www.theaustralian.news.com.au/common/story_page/0,5744,12490323%255E1702,00.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4328063.stm)
-3. [Australian](http://www.theaustralian.news.com.au/common/story_page/0,5744,12490323%255E1702,00.html)
+3. [News.com.au](http://www.news.com.au/story/0,10117,12488085-1243,00.html)
 
 ### Related:
 

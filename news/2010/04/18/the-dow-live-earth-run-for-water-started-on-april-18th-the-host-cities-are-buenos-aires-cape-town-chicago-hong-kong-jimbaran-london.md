@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/world/americas/gore-takes-cash-for-water-campaign-from-chemical-firm-1947723.html)
-2. [Live Earth](http://liveearth.org/run)
+1. [Live Earth](http://liveearth.org/run)
+2. [The Independent](http://www.independent.co.uk/news/world/americas/gore-takes-cash-for-water-campaign-from-chemical-firm-1947723.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/articles/A54542-2005Feb25.html)
-2. [Seattle Times](http://seattletimes.nwsource.com/html/health/2002190836_birdflu26.html)
+1. [Seattle Times](http://seattletimes.nwsource.com/html/health/2002190836_birdflu26.html)
+2. [Washington Post](http://www.washingtonpost.com/wp-dyn/articles/A54542-2005Feb25.html)
 
 ### Related:
 
@@ -19,6 +19,6 @@
 5. [ China closes all Beijing poultry markets. Authorities ordered all live poultry markets in China's capital to close immediately and went door-to-door seizing chickens and ducks from private homes, as the government dramatically ramped up its fight against avian influenza today. ](/news/2005/11/7/china-closes-all-beijing-poultry-markets-authorities-ordered-all-live-poultry-markets-in-china-s-capital-to-close-immediately-and-went-doo.md) _Context: Avian flu virus, poultry_
 6. [ WHO warns that there is a potential threat of a bird flu pandemic ](/news/2005/02/23/who-warns-that-there-is-a-potential-threat-of-a-bird-flu-pandemic.md) _Context: Avian flu virus, pandemic_
 7. [The United Nations announces expansion of civilian camps for people fleeing Mosul, following resumption of airstrikes  on ISIL-held portions of the Iraqi city. ](/news/2017/04/4/the-united-nations-announces-expansion-of-civilian-camps-for-people-fleeing-mosul-following-resumption-of-airstrikes-on-isil-held-portions.md) _Context: United Nations_
-8. [At least 17 new mass graves are discovered  by United Nations investigators in Kasai-Central, Democratic Republic of the Congo, mostly around the town of Tshimbulu. ](/news/2017/04/19/at-least-17-new-mass-graves-are-discovered-by-united-nations-investigators-in-kasaa-central-democratic-republic-of-the-congo-mostly-arou.md) _Context: United Nations_
-9. [At least 110 people have died of starvation in the drought-hit region of Bay, Somalia, in the past 48 hours, according to Prime Minister Hassan Ali Khayre. This comes as the United Nations and various non-governmental organizations are warning of potential famine in the country. ](/news/2017/03/4/at-least-110-people-have-died-of-starvation-in-the-drought-hit-region-of-bay-somalia-in-the-past-48-hours-according-to-prime-minister-has.md) _Context: United Nations_
-10. [The United Nations drop sanctions on Gulbuddin Hekmatyar after his Hezb-e Islami faction and the Afghan government reached a deal in September. Hekmatyar is granted immunity in exchange for his abandoning violence and supporting the Constitution of Afghanistan. ](/news/2017/02/4/the-united-nations-drop-sanctions-on-gulbuddin-hekmatyar-after-his-hezb-e-islami-faction-and-the-afghan-government-reached-a-deal-in-septemb.md) _Context: United Nations_
+8. [The United Nations MONUSCO reports that 20 Chowe-Pende community members have been killed in clashes with the Lulua-Luba community in Kasai-Central, Democratic Republic of Congo. ](/news/2017/04/26/the-united-nations-monusco-reports-that-20-chowe-pende-community-members-have-been-killed-in-clashes-with-the-lulua-luba-community-in-kasaa.md) _Context: United Nations_
+9. [At least 17 new mass graves are discovered  by United Nations investigators in Kasai-Central, Democratic Republic of the Congo, mostly around the town of Tshimbulu. ](/news/2017/04/19/at-least-17-new-mass-graves-are-discovered-by-united-nations-investigators-in-kasaa-central-democratic-republic-of-the-congo-mostly-arou.md) _Context: United Nations_
+10. [At least 110 people have died of starvation in the drought-hit region of Bay, Somalia, in the past 48 hours, according to Prime Minister Hassan Ali Khayre. This comes as the United Nations and various non-governmental organizations are warning of potential famine in the country. ](/news/2017/03/4/at-least-110-people-have-died-of-starvation-in-the-drought-hit-region-of-bay-somalia-in-the-past-48-hours-according-to-prime-minister-has.md) _Context: United Nations_

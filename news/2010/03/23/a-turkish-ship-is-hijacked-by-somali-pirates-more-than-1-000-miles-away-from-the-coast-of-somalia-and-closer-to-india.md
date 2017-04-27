@@ -8,8 +8,8 @@
 ### Source:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gB7YMEDuCwwY9ncDOtPAkEI4-H2wD9EK8VQ80)
-2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-03/23/c_13222015.htm)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8583027.stm)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8583027.stm)
+3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-03/23/c_13222015.htm)
 
 ### Related:
 

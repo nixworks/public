@@ -7,8 +7,8 @@ Tens of thousands of people across Indian-administered Kashmir join protests aga
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11271883)
-2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hBXPDmyP-c6weMoMhNOEZLM75DhAD9I5A4CO1)
+1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hBXPDmyP-c6weMoMhNOEZLM75DhAD9I5A4CO1)
+2. [BBC](http://www.bbc.co.uk/news/world-south-asia-11271883)
 
 ### Related:
 

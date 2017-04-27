@@ -7,9 +7,9 @@ Tens of thousands of people take to the streets for the second major protest aga
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/09/201092383449360925.html)
-2. [France 24](http://www.france24.com/en/20100922-france-faces-fresh-wave-strikes-over-pensions-reform-sarkozy-transport-protests)
-3. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5iIZ9stJbSIK2tq3_6BaIvJuN_DUwD9IDIE6O3)
+1. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5iIZ9stJbSIK2tq3_6BaIvJuN_DUwD9IDIE6O3)
+2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/09/201092383449360925.html)
+3. [France 24](http://www.france24.com/en/20100922-france-faces-fresh-wave-strikes-over-pensions-reform-sarkozy-transport-protests)
 
 ### Related:
 

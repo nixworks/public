@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/news/world/europe/ukraine-rivals-agree-compromise-deal-1.1700000)
-2. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-02-22-Ukraine-Protests/id-a4a24aa7720242b5bc8935e765e32d22)
+1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-02-22-Ukraine-Protests/id-a4a24aa7720242b5bc8935e765e32d22)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-26306511)
 3. [Kyiv Post](http://www.kyivpost.com/content/ukraine/parliament-speaker-turchynov-ready-to-resign-for-coalition-government-creation-337362.html)
-4. [USA Today](http://www.usatoday.com/story/news/world/2014/02/22/ukraine-protests-kiev-president/5723135/)
-5. [BBC](http://www.bbc.co.uk/news/world-europe-26306511)
+4. [The Irish Times](http://www.irishtimes.com/news/world/europe/ukraine-rivals-agree-compromise-deal-1.1700000)
+5. [USA Today](http://www.usatoday.com/story/news/world/2014/02/22/ukraine-protests-kiev-president/5723135/)
 
 ### Related:
 

@@ -8,8 +8,8 @@ The Palestinian cabinet will tender resignations Monday after which Prime Minist
 ### Source:
 
 1. [AP via Palm Beach Post](http://www.palmbeachpost.com/news/world/palestinian-authority-cabinet-resigns-1252292.html)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12445001)
-3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/2011213204323828560.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/2011213204323828560.html)
+3. [BBC](http://www.bbc.co.uk/news/world-middle-east-12445001)
 4. [Reuters](http://www.reuters.com/article/2011/02/13/us-palestinians-reshuffle-idUSTRE71C21020110213)
 
 ### Related:

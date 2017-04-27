@@ -7,8 +7,8 @@ Reuters.com for the weird, oddly enough stories.
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=oddlyEnoughNews&storyID=7973839)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/4372563.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4372563.stm)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=oddlyEnoughNews&storyID=7973839)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2006/WORLD/asiapcf/03/26/afghan.convert/)
-2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4847342.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4847342.stm)
+2. [CNN](http://www.cnn.com/2006/WORLD/asiapcf/03/26/afghan.convert/)
 
 ### Related:
 

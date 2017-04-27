@@ -8,9 +8,9 @@
 ### Source:
 
 1. [Financial Times](http://news.ft.com/cms/s/be653520-64eb-11da-8cff-0000779e2340.html)
-2. [Xinhua](http://news.xinhuanet.com/english/2005-12/05/content_3876645.htm)
-3. [Forbes](http://www.forbes.com/home/feeds/afx/2005/12/04/afx2367815.html)
-4. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-5456416,00.html)
+2. [Forbes](http://www.forbes.com/home/feeds/afx/2005/12/04/afx2367815.html)
+3. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-5456416,00.html)
+4. [Xinhua](http://news.xinhuanet.com/english/2005-12/05/content_3876645.htm)
 
 ### Related:
 

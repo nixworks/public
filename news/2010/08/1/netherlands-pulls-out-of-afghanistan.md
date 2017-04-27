@@ -7,8 +7,8 @@ Dutch&#x20;troops&#x20;ended&#x20;their&#x20;four-year&#x20;mission&#x20;in&#x20
 
 ### Source:
 
-1. [rfi](http://www.english.rfi.fr/asia-pacific/20100801-netherlands-pulls-out-afghanistan/)
-2. [AFP via Focus net](http://www.focus-fen.net/index.php?id=n227095)
+1. [AFP via Focus net](http://www.focus-fen.net/index.php?id=n227095)
+2. [rfi](http://www.english.rfi.fr/asia-pacific/20100801-netherlands-pulls-out-afghanistan/)
 
 ### Related:
 

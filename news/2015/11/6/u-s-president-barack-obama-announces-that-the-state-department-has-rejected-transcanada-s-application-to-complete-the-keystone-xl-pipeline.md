@@ -7,9 +7,9 @@ Environmentalists rejoice as US president says pipeline from Canada wouldn&#39;t
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2015/11/07/us/obama-expected-to-reject-construction-of-keystone-xl-oil-pipeline.html)
-2. [Al Jazeera English](http://www.aljazeera.com/news/2015/11/obama-rejects-construction-canada-proposed-pipeline-151106183617333.html)
-3. [NPR](http://www.npr.org/sections/thetwo-way/2015/11/06/455007054/president-obama-expected-to-reject-keystone-xl-plan-friday)
+1. [Al Jazeera English](http://www.aljazeera.com/news/2015/11/obama-rejects-construction-canada-proposed-pipeline-151106183617333.html)
+2. [NPR](http://www.npr.org/sections/thetwo-way/2015/11/06/455007054/president-obama-expected-to-reject-keystone-xl-plan-friday)
+3. [New York Times](http://www.nytimes.com/2015/11/07/us/obama-expected-to-reject-construction-of-keystone-xl-oil-pipeline.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Hindu](http://beta.thehindu.com/news/international/article94934.ece)
-2. [Daily News](http://www.dailynews.lk/2010/01/26/pol01.asp)
+1. [Daily News](http://www.dailynews.lk/2010/01/26/pol01.asp)
+2. [The Hindu](http://beta.thehindu.com/news/international/article94934.ece)
 3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-01/26/c_13151011.htm)
 
 ### Related:

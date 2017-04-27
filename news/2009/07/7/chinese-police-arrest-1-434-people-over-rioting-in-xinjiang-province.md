@@ -7,13 +7,13 @@ Rival ethnic Uighur and Han Chinese groups take to streets defying security crac
 
 ### Source:
 
-1. [Al-Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/07/20097725217198672.html)
-2. [Xinhua](http://news.xinhuanet.com/english/2009-07/07/content_11664739.htm)
-3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8137824.stm)
-4. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6656359.ece)
-5. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/07/2009778234472244.html)
-6. [South African Star](http://www.thestar.co.za/index.php?fArticleId=5071043)
-7. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8137432.stm)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/07/2009778234472244.html)
+2. [Al-Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/07/20097725217198672.html)
+3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8137432.stm)
+4. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8137824.stm)
+5. [South African Star](http://www.thestar.co.za/index.php?fArticleId=5071043)
+6. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6656359.ece)
+7. [Xinhua](http://news.xinhuanet.com/english/2009-07/07/content_11664739.htm)
 8. [Xinhua](http://news.xinhuanet.com/english/2009-07/07/content_11666941.htm)
 
 ### Related:

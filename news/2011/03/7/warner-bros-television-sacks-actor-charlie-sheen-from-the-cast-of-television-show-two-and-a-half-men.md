@@ -7,8 +7,8 @@ Warner Bros. has just fired Charlie Sheen from &quot;Two and a Half Men.&quot;Wa
 
 ### Source:
 
-1. [TMZ](http://www.tmz.com/2011/03/07/charlie-sheen-two-and-a-half-men-tv-fired-letter-warner-bros-television/)
-2. [Sky News](http://news.sky.com/skynews/Article/201103115947691)
+1. [Sky News](http://news.sky.com/skynews/Article/201103115947691)
+2. [TMZ](http://www.tmz.com/2011/03/07/charlie-sheen-two-and-a-half-men-tv-fired-letter-warner-bros-television/)
 
 ### Related:
 

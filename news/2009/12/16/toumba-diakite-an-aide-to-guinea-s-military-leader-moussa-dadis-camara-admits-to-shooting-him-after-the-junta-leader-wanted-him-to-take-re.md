@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2009-12/16/content_12658142.htm)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iAVjutFiNxMjNLZd6fFZMANVHAXgD9CKCPOO0)
-3. [Ghana Broadcasting Corporation](http://gbcghana.com/news/30161detail.html)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iAVjutFiNxMjNLZd6fFZMANVHAXgD9CKCPOO0)
+2. [Ghana Broadcasting Corporation](http://gbcghana.com/news/30161detail.html)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-12/16/content_12658142.htm)
 
 ### Related:
 

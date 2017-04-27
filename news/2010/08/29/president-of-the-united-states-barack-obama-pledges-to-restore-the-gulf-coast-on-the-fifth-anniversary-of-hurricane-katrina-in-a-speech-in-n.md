@@ -7,8 +7,8 @@ U.S. President Barack Obama pledged Sunday to finish restoring the Gulf Coast ar
 
 ### Source:
 
-1. [Reuters via ''Toronto Sun](http://www.torontosun.com/news/world/2010/08/29/15179506-reuters.html)
-2. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/2010829181725610541.html)
+1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/2010829181725610541.html)
+2. [Reuters via ''Toronto Sun](http://www.torontosun.com/news/world/2010/08/29/15179506-reuters.html)
 
 ### Related:
 

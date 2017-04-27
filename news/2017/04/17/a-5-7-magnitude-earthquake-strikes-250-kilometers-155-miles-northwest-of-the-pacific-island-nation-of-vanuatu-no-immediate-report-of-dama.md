@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us10008i97#executive)
-2. [The New Daily](http://thenewdaily.com.au/news/world/2017/04/17/vanuatu-earthquake/)
+1. [The New Daily](http://thenewdaily.com.au/news/world/2017/04/17/vanuatu-earthquake/)
+2. [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us10008i97#executive)
 
 ### Related:
 

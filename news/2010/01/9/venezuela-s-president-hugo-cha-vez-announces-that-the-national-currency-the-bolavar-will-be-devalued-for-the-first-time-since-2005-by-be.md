@@ -7,8 +7,8 @@ Devaluation and setting of double exchange rate is attempt to improve export lev
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/business/8449721.stm)
-2. [Al Jazeera](http://english.aljazeera.net/business/2010/01/20101913615836221.html)
+1. [Al Jazeera](http://english.aljazeera.net/business/2010/01/20101913615836221.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/business/8449721.stm)
 
 ### Related:
 

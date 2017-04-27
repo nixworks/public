@@ -7,8 +7,8 @@ The annual meeting of the World Economic Forum officially kicked off Wednesday i
 
 ### Source:
 
-1. [WEF](http://www.weforum.org/events/world-economic-forum-annual-meeting-2013)
-2. [USA Today](http://www.usatoday.com/story/money/business/2013/01/23/davos-2013/1857807/)
+1. [USA Today](http://www.usatoday.com/story/money/business/2013/01/23/davos-2013/1857807/)
+2. [WEF](http://www.weforum.org/events/world-economic-forum-annual-meeting-2013)
 
 ### Related:
 

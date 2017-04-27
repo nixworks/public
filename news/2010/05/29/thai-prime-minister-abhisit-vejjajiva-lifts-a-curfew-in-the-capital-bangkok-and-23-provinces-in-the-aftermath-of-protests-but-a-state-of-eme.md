@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Bernama](http://www.bernama.com/bernama/v5/newspolitic.php?id=502046)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5g3j-vAVG1fg3kEfnogTiH8_4EXvwD9G0GG0G2)
-3. [Bangkok Post](http://www.bangkokpost.com/news/local/179532/pm-abhisit-govt-to-lift-curfew)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5g3j-vAVG1fg3kEfnogTiH8_4EXvwD9G0GG0G2)
+2. [Bangkok Post](http://www.bangkokpost.com/news/local/179532/pm-abhisit-govt-to-lift-curfew)
+3. [Bernama](http://www.bernama.com/bernama/v5/newspolitic.php?id=502046)
 
 ### Related:
 

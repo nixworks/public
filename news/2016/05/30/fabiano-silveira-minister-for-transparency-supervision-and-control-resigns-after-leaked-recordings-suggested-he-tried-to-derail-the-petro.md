@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-brazil-corruption-idUSKCN0YL1SB)
-2. [BBC](http://www.bbc.com/news/world-latin-america-36414882)
+1. [BBC](http://www.bbc.com/news/world-latin-america-36414882)
+2. [Reuters](http://www.reuters.com/article/us-brazil-corruption-idUSKCN0YL1SB)
 
 ### Related:
 

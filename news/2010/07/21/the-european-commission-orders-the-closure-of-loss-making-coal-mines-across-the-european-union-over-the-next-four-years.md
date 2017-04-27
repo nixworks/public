@@ -7,8 +7,8 @@ Loss-making coal mines across the EU will have to close over the next four years
 
 ### Source:
 
-1. [CNBC](http://www.cnbc.com/id/38340524?__source=RSS*tag*&par=RSS)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-10713164)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-10713164)
+2. [CNBC](http://www.cnbc.com/id/38340524?__source=RSS*tag*&par=RSS)
 
 ### Related:
 

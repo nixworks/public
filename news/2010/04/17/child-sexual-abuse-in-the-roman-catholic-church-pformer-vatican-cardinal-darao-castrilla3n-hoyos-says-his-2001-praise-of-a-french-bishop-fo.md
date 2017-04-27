@@ -7,12 +7,12 @@ A cardinal who congratulated a French bishop for hiding a sexually abusive pries
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2010/0417/abuse.html)
-2. [The Times of India](http://timesofindia.indiatimes.com/world/europe/Cardinal-justifies-praise-for-French-bishops-silence-over-abusive-priest/articleshow/5826601.cms)
-3. [The New York Times](http://www.nytimes.com/2010/04/18/world/europe/18pope.html)
-4. [Reuters](http://www.reuters.com/article/idUSTRE63G1SH20100417)
-5. [BBC](http://news.bbc.co.uk/2/hi/europe/8627429.stm)
-6. [The Observer](http://www.guardian.co.uk/world/2010/apr/18/pope-cover-up-aide-took-blame-munich)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8627429.stm)
+2. [RTÉ](http://www.rte.ie/news/2010/0417/abuse.html)
+3. [Reuters](http://www.reuters.com/article/idUSTRE63G1SH20100417)
+4. [The New York Times](http://www.nytimes.com/2010/04/18/world/europe/18pope.html)
+5. [The Observer](http://www.guardian.co.uk/world/2010/apr/18/pope-cover-up-aide-took-blame-munich)
+6. [The Times of India](http://timesofindia.indiatimes.com/world/europe/Cardinal-justifies-praise-for-French-bishops-silence-over-abusive-priest/articleshow/5826601.cms)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2016/10/28/us/bundy-brothers-acquitted-in-takeover-of-oregon-wildlife-refuge.html)
-2. [BBC](http://www.bbc.com/news/world-us-canada-37795012)
+1. [BBC](http://www.bbc.com/news/world-us-canada-37795012)
+2. [New York Times](http://www.nytimes.com/2016/10/28/us/bundy-brothers-acquitted-in-takeover-of-oregon-wildlife-refuge.html)
 
 ### Related:
 

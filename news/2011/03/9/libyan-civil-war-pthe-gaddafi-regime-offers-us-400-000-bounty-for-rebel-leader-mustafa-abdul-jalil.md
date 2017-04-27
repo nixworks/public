@@ -7,15 +7,15 @@ Squatters have taken over a London house thought to belong to Saif al-Islam Gadd
 
 ### Source:
 
-1. [Haaretz](http://www.haaretz.com/news/international/libyan-authorities-offer-bounty-for-key-rebel-leader-1.348170)
-2. [Huffington Post](http://www.huffingtonpost.com/2011/03/09/gaddafi-oil-libya-news_n_833544.html)
-3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/libya/8372139/Libya-BBC-crew-beaten-and-given-mock-executions.html)
-4. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5geVGM9M2CuvL3bfriihOrSlA7bBQ?docId=bc26a21c302d45dd9ce18b8c9cd14e54)
-5. [RIA Novosti](http://en.rian.ru/world/20110309/162928578.html)
-6. [UPI](http://www.upi.com/Top_News/Special/2011/03/09/Egypt-aids-Libyan-rebels-against-Gadhafi/UPI-42161299696518/)
-7. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/03/201139138156335.html)
-8. [BBC](http://www.bbc.co.uk/news/uk-12692565)
-9. [Daily Mirror](http://www.mirror.co.uk/news/top-stories/2011/03/03/egyptian-special-forces-secretly-storm-libya-115875-22962119/)
+1. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5geVGM9M2CuvL3bfriihOrSlA7bBQ?docId=bc26a21c302d45dd9ce18b8c9cd14e54)
+2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/03/201139138156335.html)
+3. [BBC](http://www.bbc.co.uk/news/uk-12692565)
+4. [Daily Mirror](http://www.mirror.co.uk/news/top-stories/2011/03/03/egyptian-special-forces-secretly-storm-libya-115875-22962119/)
+5. [Haaretz](http://www.haaretz.com/news/international/libyan-authorities-offer-bounty-for-key-rebel-leader-1.348170)
+6. [Huffington Post](http://www.huffingtonpost.com/2011/03/09/gaddafi-oil-libya-news_n_833544.html)
+7. [RIA Novosti](http://en.rian.ru/world/20110309/162928578.html)
+8. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/libya/8372139/Libya-BBC-crew-beaten-and-given-mock-executions.html)
+9. [UPI](http://www.upi.com/Top_News/Special/2011/03/09/Egypt-aids-Libyan-rebels-against-Gadhafi/UPI-42161299696518/)
 
 ### Related:
 

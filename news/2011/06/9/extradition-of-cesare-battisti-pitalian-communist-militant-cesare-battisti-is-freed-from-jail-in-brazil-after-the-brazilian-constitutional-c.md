@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-latin-america-13708698)
-2. [AFP via News 24](http://www.france24.com/en/20110609-brazil-supreme-court-reject-request-extradite-far-left-militant-battisti-italy?ns_campaign=nl_quot_en&amp;ns_mchannel=email_marketing&amp;ns_source=NLQ_20110609&amp;f24_member_id=&amp;ns_linkname=node_5207265&amp;ns_fee=0)
+1. [AFP via News 24](http://www.france24.com/en/20110609-brazil-supreme-court-reject-request-extradite-far-left-militant-battisti-italy?ns_campaign=nl_quot_en&amp;ns_mchannel=email_marketing&amp;ns_source=NLQ_20110609&amp;f24_member_id=&amp;ns_linkname=node_5207265&amp;ns_fee=0)
+2. [BBC](http://www.bbc.co.uk/news/world-latin-america-13708698)
 
 ### Related:
 

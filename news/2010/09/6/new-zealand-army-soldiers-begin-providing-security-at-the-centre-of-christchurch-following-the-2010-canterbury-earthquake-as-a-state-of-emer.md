@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20100906/ap_on_re_as/as_new_zealand_earthquake)
-2. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20100906/wl_asia_afp/nzealandquake)
+1. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20100906/wl_asia_afp/nzealandquake)
+2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20100906/ap_on_re_as/as_new_zealand_earthquake)
 
 ### Related:
 

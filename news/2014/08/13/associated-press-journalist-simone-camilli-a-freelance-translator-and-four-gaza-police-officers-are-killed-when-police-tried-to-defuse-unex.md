@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Memri](http://www.memritv.org/clip/en/4417.htm)
-2. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-08-13-ML-Obit-Camilli/id-b8fd98c1954b4f448aee5200889d71ce)
+1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-08-13-ML-Obit-Camilli/id-b8fd98c1954b4f448aee5200889d71ce)
+2. [Memri](http://www.memritv.org/clip/en/4417.htm)
 3. [The Daily Mail](http://www.dailymail.co.uk/news/article-2723784/Journalist-Simone-Camilli-6-killed-Palestinian-bomb-unit-dismantle-Israeli-missile.html)
 
 ### Related:

@@ -7,9 +7,9 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8069867)
+1. [IHT](http://www.iht.com/articles/2005/04/03/news/resign.html)
 2. [Moscow Times](http://www.themoscowtimes.com/stories/2005/04/04/015.html)
-3. [IHT](http://www.iht.com/articles/2005/04/03/news/resign.html)
+3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8069867)
 
 ### Related:
 

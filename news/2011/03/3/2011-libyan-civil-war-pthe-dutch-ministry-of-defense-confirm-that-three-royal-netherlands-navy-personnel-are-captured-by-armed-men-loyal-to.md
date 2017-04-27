@@ -7,15 +7,15 @@ The son of a retired Libyan academic fears the worst for his father and three br
 
 ### Source:
 
-1. [Reuters via CNBC](http://www.cnbc.com/id/41882123)
+1. [ABC News Australia](http://www.abc.net.au/news/stories/2011/03/03/3154179.htm)
 2. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20110304/pl_afp/libyaunrestpoliticsusobama)
-3. [ABC News Australia](http://www.abc.net.au/news/stories/2011/03/03/3154179.htm)
-4. [CNN](http://edition.cnn.com/2011/WORLD/meast/03/03/libya.netherlands.sailors/index.html?hpt=T2)
-5. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-03/03/c_13759456.htm)
-6. [AP via ''Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/03/03/AR2011030303957.html)
-7. [BBC](http://www.bbc.co.uk/news/world-africa-12632482)
+3. [AP via ''Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/03/03/AR2011030303957.html)
+4. [BBC](http://www.bbc.co.uk/news/uk-12642636)
+5. [BBC](http://www.bbc.co.uk/news/world-africa-12632482)
+6. [CNN](http://edition.cnn.com/2011/WORLD/meast/03/03/libya.netherlands.sailors/index.html?hpt=T2)
+7. [Reuters via CNBC](http://www.cnbc.com/id/41882123)
 8. [The Guardian](http://www.guardian.co.uk/education/2011/mar/03/lse-director-resigns-gaddafi-scandal)
-9. [BBC](http://www.bbc.co.uk/news/uk-12642636)
+9. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-03/03/c_13759456.htm)
 
 ### Related:
 

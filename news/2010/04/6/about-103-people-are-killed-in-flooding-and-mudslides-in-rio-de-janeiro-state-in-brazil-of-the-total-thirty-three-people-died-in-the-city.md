@@ -7,11 +7,11 @@ Torrential rain leads to mudslides, leaving at least 95 dead in Rio de Janeiro s
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/04/201046151148528719.html)
-2. [[[O Estado de S. Paulo]]](http://www.estadao.com.br/noticias/geral,maior-temporal-em-44-anos-no-rj-ja-causou-103-mortes,534623,0.htm)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5i3lzkJbjU27HrIF8LBB2DAuM3g-gD9ETMID82)
+2. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/04/201046151148528719.html)
 3. [BBC](http://news.bbc.co.uk/2/hi/americas/8605386.stm)
-4. [AP](http://www.google.com/hostednews/ap/article/ALeqM5i3lzkJbjU27HrIF8LBB2DAuM3g-gD9ETMID82)
-5. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-04/06/c_13239687.htm)
+4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-04/06/c_13239687.htm)
+5. [[[O Estado de S. Paulo]]](http://www.estadao.com.br/noticias/geral,maior-temporal-em-44-anos-no-rj-ja-causou-103-mortes,534623,0.htm)
 
 ### Related:
 

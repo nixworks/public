@@ -7,8 +7,8 @@ Hamas passes new law ordering gender segregation in schools that will go into ef
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/04/02/us-palestinians-hamas-idUSBRE93101Z20130402)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/04/201342101959704457.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/04/201342101959704457.html)
+2. [Reuters](http://www.reuters.com/article/2013/04/02/us-palestinians-hamas-idUSBRE93101Z20130402)
 
 ### Related:
 

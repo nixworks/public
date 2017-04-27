@@ -7,8 +7,8 @@ The latest spill may have polluted drinking water in Montana but is not expected
 
 ### Source:
 
-1. [National Geographic](http://news.nationalgeographic.com/news/energy/2015/01/150120-oil-spills-into-yellowstone-river/)
-2. [LA Times](http://www.latimes.com/nation/la-na-yellowstone-river-oil-spill-20150120-story.html)
+1. [LA Times](http://www.latimes.com/nation/la-na-yellowstone-river-oil-spill-20150120-story.html)
+2. [National Geographic](http://news.nationalgeographic.com/news/energy/2015/01/150120-oil-spills-into-yellowstone-river/)
 
 ### Related:
 

@@ -7,8 +7,8 @@ New Likud leader addresses ruling party activists following primaries win, says 
 
 ### Source:
 
-1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3187360,00.html)
-2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3187017,00.html)
+1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3187017,00.html)
+2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3187360,00.html)
 
 ### Related:
 

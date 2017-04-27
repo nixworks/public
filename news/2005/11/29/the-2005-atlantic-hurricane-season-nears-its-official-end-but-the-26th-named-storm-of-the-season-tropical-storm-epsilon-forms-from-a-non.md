@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [US NHC](http://www.nhc.noaa.gov/archive/2005/dis/al292005.discus.001.shtml?)
-2. [CNN](http://www.cnn.com/2005/WEATHER/11/29/hurricane.season.ender/index.html)
+1. [CNN](http://www.cnn.com/2005/WEATHER/11/29/hurricane.season.ender/index.html)
+2. [US NHC](http://www.nhc.noaa.gov/archive/2005/dis/al292005.discus.001.shtml?)
 
 ### Related:
 

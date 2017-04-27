@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [IPS news](http://www.ipsnews.net/news.asp?idnews=30399)
-2. [USA Today](http://www.usatoday.com/news/world/iraq/2005-09-24-airborneaccused_x.htm)
+1. [Human Rights Watch](http://www.hrw.org/english/docs/2005/09/25/usint11776.htm)
+2. [IPS news](http://www.ipsnews.net/news.asp?idnews=30399)
 3. [NYT](http://www.nytimes.com/2005/09/24/politics/24abuse.html)
-4. [Human Rights Watch](http://www.hrw.org/english/docs/2005/09/25/usint11776.htm)
+4. [USA Today](http://www.usatoday.com/news/world/iraq/2005-09-24-airborneaccused_x.htm)
 
 ### Related:
 

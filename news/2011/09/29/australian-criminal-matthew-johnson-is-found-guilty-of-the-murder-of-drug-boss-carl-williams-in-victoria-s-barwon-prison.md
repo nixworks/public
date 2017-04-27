@@ -7,8 +7,8 @@ After three days of deliberations, a jury finds Matthew Johnson guilty of murder
 
 ### Source:
 
-1. [Melbourne Herald-Sun](http://www.heraldsun.com.au/news/more-news/matthew-charles-johnson-found-guilty-of-murdering-carl-williams/story-fn7x8me2-1226147988229)
-2. [ABC News Australia](http://www.abc.net.au/news/2011-09-29/matthew-johnson-murder-verdict/3025324?WT.mc_id=newsmail)
+1. [ABC News Australia](http://www.abc.net.au/news/2011-09-29/matthew-johnson-murder-verdict/3025324?WT.mc_id=newsmail)
+2. [Melbourne Herald-Sun](http://www.heraldsun.com.au/news/more-news/matthew-charles-johnson-found-guilty-of-murdering-carl-williams/story-fn7x8me2-1226147988229)
 
 ### Related:
 

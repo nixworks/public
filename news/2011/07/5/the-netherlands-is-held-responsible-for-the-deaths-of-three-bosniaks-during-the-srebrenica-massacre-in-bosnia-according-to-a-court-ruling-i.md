@@ -7,9 +7,9 @@ The Dutch state was responsible for the deaths of three Bosniaks in the 1995 Sre
 
 ### Source:
 
-1. [Reuters via ''The Guardian](http://www.guardian.co.uk/world/2011/jul/05/dutch-state-responsible-srebrenica-deaths)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/07/20117585931325737.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-14026218)
-3. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/07/20117585931325737.html)
+3. [Reuters via ''The Guardian](http://www.guardian.co.uk/world/2011/jul/05/dutch-state-responsible-srebrenica-deaths)
 
 ### Related:
 

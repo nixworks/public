@@ -7,8 +7,8 @@ Authorities arrested 27 people accused of operating a terror cell in the Western
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2011/01/06/world/africa/06morocco.html?_r=1&src=mv)
-2. [NPR](http://www.npr.org/2011/01/05/132681227/morocco-says-it-dismantled-terrorist-cell)
+1. [NPR](http://www.npr.org/2011/01/05/132681227/morocco-says-it-dismantled-terrorist-cell)
+2. [The New York Times](http://www.nytimes.com/2011/01/06/world/africa/06morocco.html?_r=1&src=mv)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters via Yahoo!](http://sports.yahoo.com/news/soccer-messi-scores-300th-goal-barcelona-202654314--sow.html)
-2. [Goal.com](http://www.goal.com/en-gb/news/3277/la-liga/2013/02/28/3757171/breaking-news-messi-scores-300th-barcelona-goal)
+1. [Goal.com](http://www.goal.com/en-gb/news/3277/la-liga/2013/02/28/3757171/breaking-news-messi-scores-300th-barcelona-goal)
+2. [Reuters via Yahoo!](http://sports.yahoo.com/news/soccer-messi-scores-300th-goal-barcelona-202654314--sow.html)
 
 ### Related:
 

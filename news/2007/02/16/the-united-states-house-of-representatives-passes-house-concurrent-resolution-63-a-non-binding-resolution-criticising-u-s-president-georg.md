@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Clerk.House.gov](http://clerk.house.gov/evs/2007/index.asp)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/americas/6368985.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/6368985.stm)
+2. [Clerk.House.gov](http://clerk.house.gov/evs/2007/index.asp)
 
 ### Related:
 

@@ -7,15 +7,15 @@ Bishop of Waterford &amp; Lismore Dr William Lee has described as &#39;seriously
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2010/0325/abuse.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/03/201032591253155272.html)
 2. [BBC News](http://news.bbc.co.uk/2/hi/americas/8587082.stm)
-3. [L'Osservatore Romano](http://www.vatican.va/news_services/or/or_quo/text.html#4)
-4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0325/breaking8.html)
-5. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8586608.stm)
-6. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/03/201032591253155272.html)
-7. [CNN](http://edition.cnn.com/2010/WORLD/europe/03/25/ireland.church.abuse/?hpt=T2)
-8. [BBC News](http://news.bbc.co.uk/2/hi/americas/8588294.stm)
-9. [The Hindu](http://beta.thehindu.com/news/international/article304891.ece)
+3. [BBC News](http://news.bbc.co.uk/2/hi/americas/8588294.stm)
+4. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8586608.stm)
+5. [CNN](http://edition.cnn.com/2010/WORLD/europe/03/25/ireland.church.abuse/?hpt=T2)
+6. [L'Osservatore Romano](http://www.vatican.va/news_services/or/or_quo/text.html#4)
+7. [RTÉ](http://www.rte.ie/news/2010/0325/abuse.html)
+8. [The Hindu](http://beta.thehindu.com/news/international/article304891.ece)
+9. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0325/breaking8.html)
 10. [The New York Times](http://www.nytimes.com/2010/03/26/world/europe/26vatican.html)
 
 ### Related:

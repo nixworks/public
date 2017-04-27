@@ -7,8 +7,8 @@ Saudi Arabia signaled on Tuesday that the breach in its relations with Iran woul
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/world/kuwait-becomes-latest-saudi-ally-to-downgrade-ties-with-iran/2016/01/05/de6b1792-b321-11e5-8abc-d09392edc612_story.html)
-2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-un-idUSKBN0UJ1P520160105)
+1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-un-idUSKBN0UJ1P520160105)
+2. [The Washington Post](https://www.washingtonpost.com/world/kuwait-becomes-latest-saudi-ally-to-downgrade-ties-with-iran/2016/01/05/de6b1792-b321-11e5-8abc-d09392edc612_story.html)
 
 ### Related:
 

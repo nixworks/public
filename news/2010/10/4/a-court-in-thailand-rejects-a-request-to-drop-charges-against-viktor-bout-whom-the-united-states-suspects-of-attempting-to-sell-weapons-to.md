@@ -7,8 +7,8 @@ A Thai court rejects a request to drop charges against suspected Russian arms sm
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/04/c_13542331.htm)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11464306)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11464306)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/04/c_13542331.htm)
 
 ### Related:
 

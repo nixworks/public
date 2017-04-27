@@ -7,8 +7,8 @@ NSA whistleblower Edward Snowden has been granted temporary asylum in Russia and
 
 ### Source:
 
-1. [RT](http://rt.com/news/snowden-entry-papers-russia-902/)
-2. [CNN](http://www.cnn.com/2013/08/01/us/nsa-snowden/index.html?hpt=hp_t1)
+1. [CNN](http://www.cnn.com/2013/08/01/us/nsa-snowden/index.html?hpt=hp_t1)
+2. [RT](http://rt.com/news/snowden-entry-papers-russia-902/)
 
 ### Related:
 

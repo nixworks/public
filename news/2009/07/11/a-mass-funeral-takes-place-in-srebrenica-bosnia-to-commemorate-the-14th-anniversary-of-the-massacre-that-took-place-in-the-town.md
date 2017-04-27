@@ -7,8 +7,8 @@ Ceremony held to mark anniversary of worst massacre in Europe since World War II
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/homepageCrisis/idUSLA645690._CH_.2400)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/07/2009711154151207496.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/07/2009711154151207496.html)
+2. [Reuters](http://www.reuters.com/article/homepageCrisis/idUSLA645690._CH_.2400)
 3. [The Hindu](http://www.hindu.com/thehindu/holnus/003200907111776.htm)
 
 ### Related:

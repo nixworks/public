@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/africa/6167209.stm)
-2. [AP](http://www.iht.com/articles/ap/2006/12/10/africa/AF_POL_Madagascar_Elections.php)
+1. [AP](http://www.iht.com/articles/ap/2006/12/10/africa/AF_POL_Madagascar_Elections.php)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/6167209.stm)
 
 ### Related:
 

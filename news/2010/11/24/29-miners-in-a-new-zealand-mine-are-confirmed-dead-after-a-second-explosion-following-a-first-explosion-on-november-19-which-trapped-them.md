@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sydney Daily Telegraph](http://www.dailytelegraph.com.au/news/all-29-men-dead-as-second-explosion-rocks-mine/story-e6freuy9-1225960241426?referrer=email&source=DT_email_nl&emcmp=DT&emchn=Newsletter&emlist=Member)
-2. [3 News](http://www.3news.co.nz/Pike-River-second-explosion-no-survivors/tabid/423/articleID/187811/Default.aspx)
+1. [3 News](http://www.3news.co.nz/Pike-River-second-explosion-no-survivors/tabid/423/articleID/187811/Default.aspx)
+2. [Sydney Daily Telegraph](http://www.dailytelegraph.com.au/news/all-29-men-dead-as-second-explosion-rocks-mine/story-e6freuy9-1225960241426?referrer=email&source=DT_email_nl&emcmp=DT&emchn=Newsletter&emlist=Member)
 3. [TVNZ](http://tvnz.co.nz/national-news/all-miners-dead-police-confirm-3909675)
 
 ### Related:

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-05/24/c_13311703.htm)
-2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/05/24/clinton.china.visit/index.html?hpt=T2)
+1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/05/24/clinton.china.visit/index.html?hpt=T2)
+2. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-05/24/c_13311703.htm)
 
 ### Related:
 

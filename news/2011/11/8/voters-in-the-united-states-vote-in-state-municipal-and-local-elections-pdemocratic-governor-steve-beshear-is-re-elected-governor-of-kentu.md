@@ -8,9 +8,9 @@ After months of campaigning and talking to local residents, initial poll results
 ### Source:
 
 1. [Ahwatukee Foothills News](http://www.ahwatukee.com/news/article_c65a8f18-0a8b-11e1-bb0a-001cc4c03286.html)
-2. [Tucson Sentinel](http://www.tucsonsentinel.com/local/report/110811_election/democrats-sweeping-tucson-election/)
-3. [CNN](http://politicalticker.blogs.cnn.com/2011/11/08/beshear-easily-wins-re-election-in-kentucky/)
-4. [Jackson Clarion Ledger](http://www.clarionledger.com/article/20111108/NEWS04/111108037/Bryant-defeats-DuPree-Miss-governor-s-race?odyssey=nav%7Chead)
+2. [CNN](http://politicalticker.blogs.cnn.com/2011/11/08/beshear-easily-wins-re-election-in-kentucky/)
+3. [Jackson Clarion Ledger](http://www.clarionledger.com/article/20111108/NEWS04/111108037/Bryant-defeats-DuPree-Miss-governor-s-race?odyssey=nav%7Chead)
+4. [Tucson Sentinel](http://www.tucsonsentinel.com/local/report/110811_election/democrats-sweeping-tucson-election/)
 
 ### Related:
 

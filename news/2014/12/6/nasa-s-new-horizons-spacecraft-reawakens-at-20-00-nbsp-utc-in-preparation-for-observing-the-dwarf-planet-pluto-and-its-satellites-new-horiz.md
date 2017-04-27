@@ -7,8 +7,8 @@ On December 6th, New Horizons spacecraft awakened from its final electronic hibe
 
 ### Source:
 
-1. [L.A. Times](http://www.latimes.com/science/sciencenow/la-sci-sn-pluto-new-horizons-hibernation-nasa-20141205-story.html)
-2. [C-Net](http://www.cnet.com/uk/news/nasas-new-horizons-awakens-for-meeting-with-pluto/)
+1. [C-Net](http://www.cnet.com/uk/news/nasas-new-horizons-awakens-for-meeting-with-pluto/)
+2. [L.A. Times](http://www.latimes.com/science/sciencenow/la-sci-sn-pluto-new-horizons-hibernation-nasa-20141205-story.html)
 3. [Sky and Telescope](http://www.skyandtelescope.com/astronomy-news/new-horizons-awakens-12062014/)
 
 ### Related:

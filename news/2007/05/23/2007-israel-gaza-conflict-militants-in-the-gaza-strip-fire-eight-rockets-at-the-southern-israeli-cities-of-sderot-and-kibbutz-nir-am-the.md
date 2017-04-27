@@ -7,8 +7,8 @@ Following relatively quiet day in southern Israel, two Qassams land south of Ash
 
 ### Source:
 
-1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3403677,00.html)
-2. [Reuters](http://www.reuters.com/article/worldNews/idUSL1731780720070523)
+1. [Reuters](http://www.reuters.com/article/worldNews/idUSL1731780720070523)
+2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3403677,00.html)
 
 ### Related:
 

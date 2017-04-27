@@ -7,8 +7,8 @@ Twenty-four people died after a leak caused a deadly petrochemical plant blast, 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-mexico-pemex-idUSKCN0XH2N2)
-2. [AP](http://bigstory.ap.org/article/2fc052b98c0d407081c9749158f75a01/24-dead-mexico-petrochemical-plant-blast-8-still-missing)
+1. [AP](http://bigstory.ap.org/article/2fc052b98c0d407081c9749158f75a01/24-dead-mexico-petrochemical-plant-blast-8-still-missing)
+2. [Reuters](http://www.reuters.com/article/us-mexico-pemex-idUSKCN0XH2N2)
 
 ### Related:
 

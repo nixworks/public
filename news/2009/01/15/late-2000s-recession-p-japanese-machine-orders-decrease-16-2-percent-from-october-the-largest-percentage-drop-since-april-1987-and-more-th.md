@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Wall Street Journal](http://online.wsj.com/article/SB123202619330785485.html?mod=googlenews_wsj)
-2. [MarketWatch](http://www.marketwatch.com/news/story/Japanese-machinery-orders-fall-most/story.aspx?guid=%7B631D536C%2D001F%2D4858%2DB6D9%2DB5E3D956F2EB%7D)
+1. [MarketWatch](http://www.marketwatch.com/news/story/Japanese-machinery-orders-fall-most/story.aspx?guid=%7B631D536C%2D001F%2D4858%2DB6D9%2DB5E3D956F2EB%7D)
+2. [Wall Street Journal](http://online.wsj.com/article/SB123202619330785485.html?mod=googlenews_wsj)
 
 ### Related:
 

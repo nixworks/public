@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [news.com.au](http://www.news.com.au/breaking-news/world/indian-guru-in-critical-condition/story-e6frfkui-1226034245243)
+1. [AFP via ''The Asian Age](http://www.asianage.com/india/sai-baba-critical-826)
 2. [BBC](http://www.bbc.co.uk/news/world-south-asia-12968238)
 3. [The Times of India](http://timesofindia.indiatimes.com/india/Sathya-Sai-Baba-critical-stays-on-ventilator/articleshow/7870585.cms)
-4. [AFP via ''The Asian Age](http://www.asianage.com/india/sai-baba-critical-826)
+4. [news.com.au](http://www.news.com.au/breaking-news/world/indian-guru-in-critical-condition/story-e6frfkui-1226034245243)
 
 ### Related:
 

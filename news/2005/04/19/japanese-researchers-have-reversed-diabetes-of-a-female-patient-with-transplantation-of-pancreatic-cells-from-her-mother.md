@@ -7,9 +7,9 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Medical News Today](http://www.medicalnewstoday.com/medicalnews.php?newsid=23068)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?storyID=8218439&type=worldNews)
-3. [Forbes](http://www.forbes.com/lifestyle/health/feeds/hscout/2005/04/18/hscout525217.html)
+1. [Forbes](http://www.forbes.com/lifestyle/health/feeds/hscout/2005/04/18/hscout525217.html)
+2. [Medical News Today](http://www.medicalnewstoday.com/medicalnews.php?newsid=23068)
+3. [Reuters](http://www.reuters.com/newsArticle.jhtml?storyID=8218439&type=worldNews)
 
 ### Related:
 

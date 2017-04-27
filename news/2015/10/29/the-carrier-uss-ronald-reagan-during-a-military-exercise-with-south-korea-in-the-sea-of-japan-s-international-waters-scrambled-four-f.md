@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/10/29/us-usa-russia-defense-idUSKCN0SN20E20151029)
-2. [CNN](http://www.cnn.com/2015/10/29/politics/us-aircraft-carrier-russian-plane-encounter/)
+1. [CNN](http://www.cnn.com/2015/10/29/politics/us-aircraft-carrier-russian-plane-encounter/)
+2. [Reuters](http://www.reuters.com/article/2015/10/29/us-usa-russia-defense-idUSKCN0SN20E20151029)
 
 ### Related:
 

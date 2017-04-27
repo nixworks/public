@@ -8,8 +8,8 @@ Novosti) About 100 people, including several prominent opposition leaders, have 
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8490978.stm)
-2. [The Moscow Times](http://www.themoscowtimes.com/news/article/thousands-decry-putin-as-public-anger-swells/398704.html)
-3. [Sify](http://sify.com/news/moscow-police-detain-about-100-protesters-news-international-kcbcacgjaeg.html)
+2. [Sify](http://sify.com/news/moscow-police-detain-about-100-protesters-news-international-kcbcacgjaeg.html)
+3. [The Moscow Times](http://www.themoscowtimes.com/news/article/thousands-decry-putin-as-public-anger-swells/398704.html)
 
 ### Related:
 

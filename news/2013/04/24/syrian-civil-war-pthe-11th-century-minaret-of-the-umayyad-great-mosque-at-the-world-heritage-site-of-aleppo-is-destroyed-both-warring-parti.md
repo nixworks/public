@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-22283746)
-2. [AP via The Guardian](http://www.guardian.co.uk/world/2013/apr/24/minaret-historic-syrian-mosque-destroyed-aleppo)
+1. [AP via The Guardian](http://www.guardian.co.uk/world/2013/apr/24/minaret-historic-syrian-mosque-destroyed-aleppo)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-22283746)
 
 ### Related:
 

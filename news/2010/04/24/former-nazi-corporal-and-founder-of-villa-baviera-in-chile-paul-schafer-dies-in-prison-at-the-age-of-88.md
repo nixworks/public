@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/breakingnews/world/view/20100425-266297/Ex-Nazi-Paul-Schaefer-dead-in-Chile-prison)
-2. [France24](http://www.france24.com/en/20100424-ex-nazi-paul-schaefer-dies-88-chile-child-sex-abuse)
-3. [BBC](http://news.bbc.co.uk/2/hi/americas/8641882.stm)
-4. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5503076,00.html?maca=en-rss-en-all-1573-rdf)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/8641882.stm)
+2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5503076,00.html?maca=en-rss-en-all-1573-rdf)
+3. [France24](http://www.france24.com/en/20100424-ex-nazi-paul-schaefer-dies-88-chile-child-sex-abuse)
+4. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/breakingnews/world/view/20100425-266297/Ex-Nazi-Paul-Schaefer-dead-in-Chile-prison)
 
 ### Related:
 

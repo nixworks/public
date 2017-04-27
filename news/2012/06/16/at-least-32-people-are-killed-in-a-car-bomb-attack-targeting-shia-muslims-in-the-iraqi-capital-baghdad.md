@@ -7,8 +7,8 @@ Two separate car bomb attacks targeting Shia Muslim pilgrims in the Iraqi capita
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2012/06/16/world/meast/iraq-violence/index.html?hpt=hp_t2)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-18470403)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18470403)
+2. [CNN](http://www.cnn.com/2012/06/16/world/meast/iraq-violence/index.html?hpt=hp_t2)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Bangkok Post](http://www.bangkokpost.com/topstories/topstories.php?id=132387)
-2. [Nation Multimedia](http://www.nationmultimedia.com/2008/12/01/politics/politics_30089870.php)
-3. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7757866.stm)
+1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7757866.stm)
+2. [Bangkok Post](http://www.bangkokpost.com/topstories/topstories.php?id=132387)
+3. [Nation Multimedia](http://www.nationmultimedia.com/2008/12/01/politics/politics_30089870.php)
 
 ### Related:
 

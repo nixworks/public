@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://in.reuters.com/article/2012/03/27/libya-clashes-idINDEE82Q0KA20120327)
-2. [Al Arabiya](http://english.alarabiya.net/articles/2012/03/27/203567.html?PHPSESSID=pbj03cfmtteu3cov7jekmq3nh7)
+1. [Al Arabiya](http://english.alarabiya.net/articles/2012/03/27/203567.html?PHPSESSID=pbj03cfmtteu3cov7jekmq3nh7)
+2. [Reuters](http://in.reuters.com/article/2012/03/27/libya-clashes-idINDEE82Q0KA20120327)
 
 ### Related:
 

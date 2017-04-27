@@ -7,8 +7,8 @@ Two students died and two others were hurt along with their bus driver Tuesday m
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/09/15/us-usa-houston-bus-idUSKCN0RF1LR20150915)
-2. [Houston Chronicle](http://www.chron.com/houston/article/School-crash-along-South-Loop-6505292.php)
+1. [Houston Chronicle](http://www.chron.com/houston/article/School-crash-along-South-Loop-6505292.php)
+2. [Reuters](http://www.reuters.com/article/2015/09/15/us-usa-houston-bus-idUSKCN0RF1LR20150915)
 
 ### Related:
 

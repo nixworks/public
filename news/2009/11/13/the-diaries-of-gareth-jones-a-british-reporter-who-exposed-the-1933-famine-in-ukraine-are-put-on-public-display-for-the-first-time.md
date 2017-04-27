@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/wales/8359029.stm)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jp3RmOWBug3DV2S3i7Jge22_livgD9BUMVJG1)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jp3RmOWBug3DV2S3i7Jge22_livgD9BUMVJG1)
+2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/wales/8359029.stm)
 
 ### Related:
 

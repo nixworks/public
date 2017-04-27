@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2013/01/08/showbiz/uk-amy-winehouse-inquest/)
-2. [AFP via France 24](http://www.france24.com/en/20130108-new-amy-winehouse-inquest-due-be-heard)
+1. [AFP via France 24](http://www.france24.com/en/20130108-new-amy-winehouse-inquest-due-be-heard)
+2. [CNN](http://www.cnn.com/2013/01/08/showbiz/uk-amy-winehouse-inquest/)
 
 ### Related:
 

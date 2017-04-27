@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Radio Netherlands Worldwide](http://www.rnw.nl/english/article/two-french-journalists-abducted-afghanistan)
-2. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/12/31/afghanistan.kidnap.journalists/)
+1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/12/31/afghanistan.kidnap.journalists/)
+2. [Radio Netherlands Worldwide](http://www.rnw.nl/english/article/two-french-journalists-abducted-afghanistan)
 3. [Sky News](http://news.sky.com/skynews/Home/World-News/Two-French-TV-Journalists-Kidnapped-In-Afghanistan-Reporters-Abducted-By-Taliban-Militants/Article/200912415511848?lpos=World_News_Carousel_Region_3&lid=ARTICLE_15511848_Two_French_TV_Journalists_Kidnapped_In_Afghanistan%3A_Reporters_Abducted_By_Taliban_Militants)
 
 ### Related:

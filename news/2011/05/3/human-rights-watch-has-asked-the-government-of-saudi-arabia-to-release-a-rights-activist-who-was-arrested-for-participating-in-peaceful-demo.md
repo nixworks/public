@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [VOA News](http://www.voanews.com/english/news/middle-east/Rights-Group-Calls-on-Saudis-to-Release-Activist----121151244.html)
-2. [Bloomberg News](http://www.bloomberg.com/news/2011-05-03/saudi-arabia-police-arrest-activist-for-demonstration-hrw-says.html)
+1. [Bloomberg News](http://www.bloomberg.com/news/2011-05-03/saudi-arabia-police-arrest-activist-for-demonstration-hrw-says.html)
+2. [VOA News](http://www.voanews.com/english/news/middle-east/Rights-Group-Calls-on-Saudis-to-Release-Activist----121151244.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Helicopter downed and 12 people killed in clashes between police and drug gangs.
 
 ### Source:
 
-1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5juJkPto0-dv9ljbU9X3KkYwqlggwD9BD4TNG0)
-2. [Brazzil Mag](http://www.brazzilmag.com/content/view/11320/1/)
-3. [Al Jazeera](http://english.aljazeera.net/news/americas/2009/10/20091017223152228529.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/americas/2009/10/20091017223152228529.html)
+2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5juJkPto0-dv9ljbU9X3KkYwqlggwD9BD4TNG0)
+3. [Brazzil Mag](http://www.brazzilmag.com/content/view/11320/1/)
 
 ### Related:
 

@@ -8,8 +8,8 @@ Colombians vote in a presidential election to replace Alvaro Uribe, who is stand
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/05/201053021227564469.html)
-2. [Colombia Reports](http://colombiareports.com/colombia-news/2010-elections/9982-santos-wins-1st-round-election.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/world/latin_america/10192004.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/world/latin_america/10192004.stm)
+3. [Colombia Reports](http://colombiareports.com/colombia-news/2010-elections/9982-santos-wins-1st-round-election.html)
 4. [Philippine Daily Inquirer](http://politics.inquirer.net/politics/view/20100530-272899/Colombians-head-for-polls-amid-tight-race-for-president)
 
 ### Related:

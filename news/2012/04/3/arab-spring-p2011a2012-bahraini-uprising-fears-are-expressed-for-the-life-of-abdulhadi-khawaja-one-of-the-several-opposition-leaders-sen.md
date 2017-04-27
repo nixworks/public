@@ -7,10 +7,10 @@ Thousands of protesters in Mauritania hold demonstrations across the capital, No
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2012/04/03/world/meast/bahrain-activist-hunger-strike/?hpt=hp_t3)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-17606002)
-3. [Los Angeles Times](http://latimesblogs.latimes.com/world_now/2012/04/bahrain-hunger-striker-fear-for-life.html)
-4. [BBC](http://www.bbc.co.uk/news/world-middle-east-17602136)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-17606002)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-17602136)
+3. [CNN](http://edition.cnn.com/2012/04/03/world/meast/bahrain-activist-hunger-strike/?hpt=hp_t3)
+4. [Los Angeles Times](http://latimesblogs.latimes.com/world_now/2012/04/bahrain-hunger-striker-fear-for-life.html)
 
 ### Related:
 

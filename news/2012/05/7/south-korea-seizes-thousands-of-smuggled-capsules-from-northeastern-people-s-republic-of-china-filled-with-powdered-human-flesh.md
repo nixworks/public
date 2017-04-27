@@ -8,8 +8,8 @@ Officials seize thousands of smuggled capsules containing powdered flesh of fetu
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/05/201257142432164324.html)
-2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/southkorea/9250438/Pills-filled-with-powdered-human-baby-flesh-found-by-customs-officials.html)
-3. [IOL](http://www.iol.co.za/news/world/s-korea-seizes-pills-made-from-dead-babies-1.1290736)
+2. [IOL](http://www.iol.co.za/news/world/s-korea-seizes-pills-made-from-dead-babies-1.1290736)
+3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/southkorea/9250438/Pills-filled-with-powdered-human-baby-flesh-found-by-customs-officials.html)
 
 ### Related:
 

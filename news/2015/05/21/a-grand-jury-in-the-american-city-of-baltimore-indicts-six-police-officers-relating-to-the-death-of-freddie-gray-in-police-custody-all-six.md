@@ -7,8 +7,8 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ### Source:
 
-1. [AP via ABC News America](http://abcnews.go.com/US/wireStory/prosecutor-grand-jury-indicts-officers-police-custody-death-31217363)
-2. [ABC2](http://www.abc2news.com/news/breaking-news/6-baltimore-police-officers-in-freddie-gray-case-indicted)
+1. [ABC2](http://www.abc2news.com/news/breaking-news/6-baltimore-police-officers-in-freddie-gray-case-indicted)
+2. [AP via ABC News America](http://abcnews.go.com/US/wireStory/prosecutor-grand-jury-indicts-officers-police-custody-death-31217363)
 
 ### Related:
 

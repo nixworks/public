@@ -7,8 +7,8 @@ The jailed leaders of Peru&#039;s Shining Path rebels got married in a maximum-s
 
 ### Source:
 
-1. [Reuters via ''The Independent](http://www.independent.co.uk/news/world/americas/rebel-leaders-marry-behind-bars-2058294.html)
-2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11045251)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11045251)
+2. [Reuters via ''The Independent](http://www.independent.co.uk/news/world/americas/rebel-leaders-marry-behind-bars-2058294.html)
 
 ### Related:
 

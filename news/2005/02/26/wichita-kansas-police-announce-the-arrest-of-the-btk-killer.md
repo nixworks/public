@@ -8,8 +8,8 @@
 ### Source:
 
 1. [CNN](http://www.cnn.com/2005/US/02/26/btk.investigation/index.html)
-2. [Wichita Eagle](http://www.kansas.com/mld/kansas/11000748.htm)
-3. [The BBC](http://news.bbc.co.uk/2/hi/americas/4301023.stm)
+2. [The BBC](http://news.bbc.co.uk/2/hi/americas/4301023.stm)
+3. [Wichita Eagle](http://www.kansas.com/mld/kansas/11000748.htm)
 
 ### Related:
 

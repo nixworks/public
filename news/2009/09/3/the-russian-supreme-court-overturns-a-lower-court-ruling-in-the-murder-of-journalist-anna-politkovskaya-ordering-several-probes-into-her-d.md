@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/russia/20090903/156008948.html)
-2. [CNN](http://edition.cnn.com/2009/WORLD/europe/09/03/russia.journalist.probe/)
+1. [CNN](http://edition.cnn.com/2009/WORLD/europe/09/03/russia.journalist.probe/)
+2. [RIA Novosti](http://en.rian.ru/russia/20090903/156008948.html)
 
 ### Related:
 

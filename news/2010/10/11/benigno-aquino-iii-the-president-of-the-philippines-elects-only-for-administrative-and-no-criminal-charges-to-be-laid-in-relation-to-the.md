@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Philippines Star](http://www.philstar.com/Article.aspx?articleId=620208&publicationSubCategoryId=63)
-2. [Philippines Daily Enquirer](http://newsinfo.inquirer.net/inquirerheadlines/nation/view/20101012-297221/No-criminal-charges-over-hostage-fiasco)
+1. [Philippines Daily Enquirer](http://newsinfo.inquirer.net/inquirerheadlines/nation/view/20101012-297221/No-criminal-charges-over-hostage-fiasco)
+2. [Philippines Star](http://www.philstar.com/Article.aspx?articleId=620208&publicationSubCategoryId=63)
 
 ### Related:
 

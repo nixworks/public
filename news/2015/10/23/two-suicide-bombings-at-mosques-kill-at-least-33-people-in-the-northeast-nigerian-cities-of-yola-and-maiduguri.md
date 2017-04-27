@@ -7,10 +7,10 @@ It is not clear at this point if the attack was a suicide bombing or not.
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/10/23/us-nigeria-violence-idUSKCN0SH0RX20151023)
-2. [AFP via Yahoo](http://news.yahoo.com/27-dead-96-wounded-yola-ne-nigeria-mosque-162312484.html)
+1. [AFP via Yahoo](http://news.yahoo.com/27-dead-96-wounded-yola-ne-nigeria-mosque-162312484.html)
+2. [Media24](http://www.news24.com/Africa/News/Two-blasts-rip-through-mosques-in-NE-Nigeria-20151023)
 3. [Premium Times](http://www.premiumtimesng.com/news/191949-twin-bomb-blasts-hit-maiduguri-mosque-kill-many.html)
-4. [Media24](http://www.news24.com/Africa/News/Two-blasts-rip-through-mosques-in-NE-Nigeria-20151023)
+4. [Reuters](http://www.reuters.com/article/2015/10/23/us-nigeria-violence-idUSKCN0SH0RX20151023)
 
 ### Related:
 

@@ -7,10 +7,10 @@ Consumer spending rose in January after falling for a record six straight months
 
 ### Source:
 
-1. [MarketWatch](http://www.marketwatch.com/news/story/dow-industrials-below-7000-mark/story.aspx?guid=%7B180A1E70%2D30C5%2D44D2%2D919E%2D06AC086B0754%7D&siteid=bnbh)
+1. [AP via MSNBC](http://www.msnbc.msn.com/id/29463435/)
 2. [Dow Jones via CNNMoney](http://money.cnn.com/news/newsfeeds/articles/djf500/200903020703DOWJONESDJONLINE000234_FORTUNE5.htm)
-3. [AP via MSNBC](http://www.msnbc.msn.com/id/29463435/)
-4. [IHT](http://www.iht.com/articles/ap/2009/03/02/business/EU-Sweden-Salary-Cuts.php)
+3. [IHT](http://www.iht.com/articles/ap/2009/03/02/business/EU-Sweden-Salary-Cuts.php)
+4. [MarketWatch](http://www.marketwatch.com/news/story/dow-industrials-below-7000-mark/story.aspx?guid=%7B180A1E70%2D30C5%2D44D2%2D919E%2D06AC086B0754%7D&siteid=bnbh)
 
 ### Related:
 

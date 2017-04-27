@@ -7,8 +7,8 @@ Pro-democracy leader takes oath to enter parliament, marking historic developmen
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/05/20125213629935697.html)
-2. [AP via ''Washington Post](http://www.washingtonpost.com/world/asia_pacific/myanmar-set-to-begin-new-political-era-as-suu-kyi-poised-to-be-sworn-in-to-parliament/2012/05/01/gIQAxGEDvT_story.html)
+1. [AP via ''Washington Post](http://www.washingtonpost.com/world/asia_pacific/myanmar-set-to-begin-new-political-era-as-suu-kyi-poised-to-be-sworn-in-to-parliament/2012/05/01/gIQAxGEDvT_story.html)
+2. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/05/20125213629935697.html)
 
 ### Related:
 

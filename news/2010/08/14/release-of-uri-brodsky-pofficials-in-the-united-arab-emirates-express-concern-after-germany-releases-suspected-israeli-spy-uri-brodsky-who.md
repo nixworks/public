@@ -7,8 +7,8 @@ Uri Brodsky released on bail following his extradition from Poland to Germany on
 
 ### Source:
 
-1. [Haaretz](http://www.haaretz.com/print-edition/news/suspected-mossad-agent-lands-in-israel-after-released-in-germany-1.308057)
-2. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/08/2010814165442266646.html)
+1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/08/2010814165442266646.html)
+2. [Haaretz](http://www.haaretz.com/print-edition/news/suspected-mossad-agent-lands-in-israel-after-released-in-germany-1.308057)
 
 ### Related:
 

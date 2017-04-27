@@ -7,19 +7,19 @@ Al-Qaeda mastermind Osama Bin Laden has been killed in a US operation in Pakista
 
 ### Source:
 
-1. [CBS News](http://www.cbsnews.com/stories/2011/05/01/national/main20058786.shtml)
-2. [BBC](http://www.bbc.co.uk/news/world-us-canada-13256676)
-3. [News Limited](http://www.news.com.au/world/osama-bin-laden-dead-us-has-the-body/story-fn8ljm6z-1226048335673?referrer=email&source=eDM_newspulse&emcmp=Newspulse&emchn=Newsletter&emlist=Member)
-4. [SBS Television](http://www.sbs.com.au/news/article/1529821/Osa-Bin-Laden-reportedly-dead)
-5. [CNN](http://news.blogs.cnn.com/2011/05/01/obama-to-make-statment-tonight-subject-unknown/)
-6. [Inquirer](http://newsinfo.inquirer.net/breakingnews/world/view/20110502-334180/US-issues-global-travel-alert-after-bin-Ladens-death)
-7. [ABC News](http://abcnews.go.com/Blotter/osama-bin-laden-killed/story?id=13505703)
-8. [ABC News](http://blogs.abcnews.com/thenote/2011/05/former-presidents-george-w-bush-bill-clinton-issue-statements-on-osama-bin-laden-death.html)
-9. [InsideTV](http://insidetv.ew.com/2011/05/01/osama-bin-laden-dead/)
-10. [The Guardian](http://www.guardian.co.uk/world/2011/may/02/osama-bin-laden-dead-obama)
+1. [ABC News](http://abcnews.go.com/Blotter/osama-bin-laden-killed/story?id=13505703)
+2. [ABC News](http://blogs.abcnews.com/thenote/2011/05/former-presidents-george-w-bush-bill-clinton-issue-statements-on-osama-bin-laden-death.html)
+3. [BBC](http://www.bbc.co.uk/news/world-us-canada-13256676)
+4. [Boston Herald](http://www.bostonherald.com/news/us_politics/view.bg?articleid=1334872)
+5. [CBS News](http://www.cbsnews.com/stories/2011/05/01/national/main20058786.shtml)
+6. [CNN](http://news.blogs.cnn.com/2011/05/01/obama-to-make-statment-tonight-subject-unknown/)
+7. [Inquirer](http://newsinfo.inquirer.net/breakingnews/world/view/20110502-334180/US-issues-global-travel-alert-after-bin-Ladens-death)
+8. [InsideTV](http://insidetv.ew.com/2011/05/01/osama-bin-laden-dead/)
+9. [News Limited](http://www.news.com.au/world/osama-bin-laden-dead-us-has-the-body/story-fn8ljm6z-1226048335673?referrer=email&source=eDM_newspulse&emcmp=Newspulse&emchn=Newsletter&emlist=Member)
+10. [Reuters](http://www.reuters.com/article/2011/05/02/obama-binladen-bush-idUSWNA744620110502)
 11. [Reuters](http://www.reuters.com/article/2011/05/02/us-obama-binladen-son-idUSTRE7410T520110502?feedType=RSS&feedName=topNews)
-12. [Reuters](http://www.reuters.com/article/2011/05/02/obama-binladen-bush-idUSWNA744620110502)
-13. [Boston Herald](http://www.bostonherald.com/news/us_politics/view.bg?articleid=1334872)
+12. [SBS Television](http://www.sbs.com.au/news/article/1529821/Osa-Bin-Laden-reportedly-dead)
+13. [The Guardian](http://www.guardian.co.uk/world/2011/may/02/osama-bin-laden-dead-obama)
 
 ### Related:
 

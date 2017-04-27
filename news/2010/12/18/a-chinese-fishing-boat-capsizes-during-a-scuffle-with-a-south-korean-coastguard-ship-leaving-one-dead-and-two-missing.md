@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1099944/1/.html)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5ibO9E4jBOaNVFyk-LI_TCCQbRDBg?docId=8ad015587c064618aa95f973b1a6fa8d)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5ibO9E4jBOaNVFyk-LI_TCCQbRDBg?docId=8ad015587c064618aa95f973b1a6fa8d)
+2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1099944/1/.html)
 
 ### Related:
 

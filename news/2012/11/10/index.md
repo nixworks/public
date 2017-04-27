@@ -19,7 +19,7 @@ _Context: IUPUI_
 Two members of ruling Al-Sabah family were arrested after writing tweets sympathetic to opposition groups.
 
 ### [The president of the Central African Republic Francois Bozize orders the detention of his son after he refuses to pay a hotel bill. ](/news/2012/11/10/the-president-of-the-central-african-republic-franassois-boziza-c-orders-the-detention-of-his-son-after-he-refuses-to-pay-a-hotel-bill.md)
-_Context: Central African Republic, François Bozizé_
+_Context: Central-African, François Bozizé_
 
 ### [George Entwistle steps down as Director-General of the BBC following the ''Newsnight'' child abuse broadcast row. ](/news/2012/11/10/george-entwistle-steps-down-as-director-general-of-the-bbc-following-the-newsnight-child-abuse-broadcast-row.md)
 The BBC&rsquo;s director-general has dramatically quit over the corporation&rsquo;s smearing of an innocent politician as a paedophile.

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [TVNZ](http://tvnz.co.nz/world-news/immigrants-riot-in-southern-italy-after-attack-3326508)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hvRupy5Lo9UXV34VsoQCmSMBCOpQ)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hvRupy5Lo9UXV34VsoQCmSMBCOpQ)
+2. [TVNZ](http://tvnz.co.nz/world-news/immigrants-riot-in-southern-italy-after-attack-3326508)
 
 ### Related:
 

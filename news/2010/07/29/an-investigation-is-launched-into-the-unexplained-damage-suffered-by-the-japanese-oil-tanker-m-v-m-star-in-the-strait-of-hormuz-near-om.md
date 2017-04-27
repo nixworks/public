@@ -7,8 +7,8 @@ Officials investigate damage to a Japanese oil tanker in the Strait of Hormuz, a
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10803239)
-2. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/07/2010729151751119208.html)
+1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/07/2010729151751119208.html)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-10803239)
 
 ### Related:
 

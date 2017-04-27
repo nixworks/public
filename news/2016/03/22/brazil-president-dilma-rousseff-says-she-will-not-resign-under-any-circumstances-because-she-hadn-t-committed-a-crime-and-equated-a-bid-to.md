@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Yahoo7](https://au.news.yahoo.com/world/a/31149721/brazils-lula-victim-of-intimidation-campaign-foundation/)
-2. [Reuters](http://www.reuters.com/article/us-brazil-politics-idUSKCN0WO2LU)
+1. [Reuters](http://www.reuters.com/article/us-brazil-politics-idUSKCN0WO2LU)
+2. [Yahoo7](https://au.news.yahoo.com/world/a/31149721/brazils-lula-victim-of-intimidation-campaign-foundation/)
 
 ### Related:
 

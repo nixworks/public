@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Yonhap](http://english.yonhapnews.co.kr/news/2015/05/13/0200000000AEN20150513002800315.html)
-2. [CNN](http://edition.cnn.com/2015/05/13/asia/north-korea-executes-defense-chief/index.html)
+1. [CNN](http://edition.cnn.com/2015/05/13/asia/north-korea-executes-defense-chief/index.html)
+2. [Yonhap](http://english.yonhapnews.co.kr/news/2015/05/13/0200000000AEN20150513002800315.html)
 
 ### Related:
 

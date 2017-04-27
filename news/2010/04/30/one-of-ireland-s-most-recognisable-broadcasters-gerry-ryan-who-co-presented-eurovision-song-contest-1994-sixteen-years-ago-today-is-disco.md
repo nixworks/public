@@ -8,10 +8,10 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8655079.stm)
-2. [Vancouver Sun](http://www.vancouversun.com/entertainment/Irish+broadcaster+Gerry+Ryan+dies/2971485/story.html)
+2. [Sky News](http://news.sky.com/skynews/Home/World-News/Gerry-Ryan-Top-RTE-Irish-Television-And-Radio-Host-Found-Dead-At-His-Home-In-Dublin/Article/201004415623205?lpos=World_News_News_Your_Way_Region_8&lid=NewsYourWay_ARTICLE_15623205_Gerry_Ryan%2C_Top_RTE_Irish_Television_And_Radio_Host_Found_Dead_At_His_Home_In_Dublin)
 3. [The Guardian](http://www.guardian.co.uk/world/2010/apr/30/irish-broadcaster-gerry-ryan-dead)
-4. [esctoday.com](http://www.esctoday.com/news/read/15618)
-5. [Sky News](http://news.sky.com/skynews/Home/World-News/Gerry-Ryan-Top-RTE-Irish-Television-And-Radio-Host-Found-Dead-At-His-Home-In-Dublin/Article/201004415623205?lpos=World_News_News_Your_Way_Region_8&lid=NewsYourWay_ARTICLE_15623205_Gerry_Ryan%2C_Top_RTE_Irish_Television_And_Radio_Host_Found_Dead_At_His_Home_In_Dublin)
+4. [Vancouver Sun](http://www.vancouversun.com/entertainment/Irish+broadcaster+Gerry+Ryan+dies/2971485/story.html)
+5. [esctoday.com](http://www.esctoday.com/news/read/15618)
 
 ### Related:
 

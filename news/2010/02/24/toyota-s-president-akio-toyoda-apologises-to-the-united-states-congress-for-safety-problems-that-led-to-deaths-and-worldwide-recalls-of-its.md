@@ -7,9 +7,9 @@ Akio Toyoda assured lawmakers that Toyota was moving to fix problems that led to
 
 ### Source:
 
-1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_world_business/view/1039555/1/.html)
-2. [New York Times](http://www.nytimes.com/2010/02/25/business/global/25toyota.html?hp)
-3. [BBC](http://news.bbc.co.uk/1/hi/business/8533352.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/business/8533352.stm)
+2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_world_business/view/1039555/1/.html)
+3. [New York Times](http://www.nytimes.com/2010/02/25/business/global/25toyota.html?hp)
 
 ### Related:
 

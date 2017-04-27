@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE73N2KM20110425)
-2. [NPR](http://www.npr.org/templates/story/story.php?storyId=135690136)
+1. [NPR](http://www.npr.org/templates/story/story.php?storyId=135690136)
+2. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE73N2KM20110425)
 
 ### Related:
 

@@ -7,10 +7,10 @@ World-class artists and musicians are being put off coming to Britain by the &ld
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/immigration/8599638/World-class-artists-put-off-coming-to-Britain-by-intrusive-points-based-immigration-system.html)
-2. [The Guardian](http://www.guardian.co.uk/commentisfree/2011/jun/27/britain-persecutes-visiting-artists-visa)
-3. [BBC](http://www.bbc.co.uk/news/entertainment-arts-13927454)
-4. [The Economic Times](http://economictimes.indiatimes.com/news/nri/visa-and-immigration/salman-rushdie-others-protest-uk-immigration-rules/articleshow/9013399.cms)
+1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-13927454)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/immigration/8599638/World-class-artists-put-off-coming-to-Britain-by-intrusive-points-based-immigration-system.html)
+3. [The Economic Times](http://economictimes.indiatimes.com/news/nri/visa-and-immigration/salman-rushdie-others-protest-uk-immigration-rules/articleshow/9013399.cms)
+4. [The Guardian](http://www.guardian.co.uk/commentisfree/2011/jun/27/britain-persecutes-visiting-artists-visa)
 
 ### Related:
 

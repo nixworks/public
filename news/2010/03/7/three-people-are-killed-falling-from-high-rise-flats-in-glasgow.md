@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [The Times](http://www.timesonline.co.uk/tol/news/uk/article7053000.ece)
-2. [The Guardian](http://www.guardian.co.uk/uk/2010/mar/07/glasgow-flats-deaths-suicide-suspected)
-3. [Sky News](http://news.sky.com/skynews/Home/UK-News/Glasgow-Three-Asylum-Seekers-Dead-After-Falling-From-Springburn-Block-Of-Flats/Article/201003115568950?lpos=UK_News_Top_Stories_Header_2&lid=ARTICLE_15568950_Glasgow%3A_Three_Asylum_Seekers_Dead_After_Falling_From_Springburn_Block_Of_Flats_)
-4. [BBC](http://news.bbc.co.uk/2/hi/uk_news/scotland/glasgow_and_west/8554333.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/scotland/glasgow_and_west/8554333.stm)
+2. [Sky News](http://news.sky.com/skynews/Home/UK-News/Glasgow-Three-Asylum-Seekers-Dead-After-Falling-From-Springburn-Block-Of-Flats/Article/201003115568950?lpos=UK_News_Top_Stories_Header_2&lid=ARTICLE_15568950_Glasgow%3A_Three_Asylum_Seekers_Dead_After_Falling_From_Springburn_Block_Of_Flats_)
+3. [The Guardian](http://www.guardian.co.uk/uk/2010/mar/07/glasgow-flats-deaths-suicide-suspected)
+4. [The Times](http://www.timesonline.co.uk/tol/news/uk/article7053000.ece)
 
 ### Related:
 

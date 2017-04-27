@@ -7,10 +7,10 @@ The Pakistan Taliban launch their deadliest attack ever, leaving 132 children an
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2014/12/17/world/asia/taliban-attack-pakistani-school.html?_r=0)
+1. [BBC](http://www.bbc.com/news/world-asia-30491435)
 2. [International Business Times](http://www.ibtimes.co.uk/peshawar-school-attack-pakistan-authorities-claim-victory-after-killing-all-six-taliban-militants-1479785)
-3. [BBC](http://www.bbc.com/news/world-asia-30491435)
-4. [Reuters](http://www.reuters.com/article/2014/12/16/us-pakistan-school-idUSKBN0JU0JO20141216)
+3. [Reuters](http://www.reuters.com/article/2014/12/16/us-pakistan-school-idUSKBN0JU0JO20141216)
+4. [The New York Times](http://www.nytimes.com/2014/12/17/world/asia/taliban-attack-pakistani-school.html?_r=0)
 
 ### Related:
 

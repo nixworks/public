@@ -7,8 +7,8 @@ A plane crashes in the west of the Democratic Republic of Congo, killing 20 peop
 
 ### Source:
 
-1. [Yahoo](http://news.yahoo.com/s/ap/20100825/ap_on_re_af/af_congo_plane_crash)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-11087817)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-11087817)
+2. [Yahoo](http://news.yahoo.com/s/ap/20100825/ap_on_re_af/af_congo_plane_crash)
 
 ### Related:
 

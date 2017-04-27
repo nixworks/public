@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Global Edmonton](http://www.globaltvedmonton.com/Edmonton+police+face+hostage+situation+after+with+enters+building/2128249/story.html)
-2. [CTV Edmonton](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20091021/edmonton_hostages_091021/20091021?hub=TopStoriesV2)
+1. [CTV Edmonton](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20091021/edmonton_hostages_091021/20091021?hub=TopStoriesV2)
+2. [Global Edmonton](http://www.globaltvedmonton.com/Edmonton+police+face+hostage+situation+after+with+enters+building/2128249/story.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Wired](http://wireservice.wired.com/wired/story.asp?section=Breaking&storyId=993704&tw=wn_wire_story)
-2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/133577/1/.html)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=politicsNews&storyID=7684438)
+1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/133577/1/.html)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=politicsNews&storyID=7684438)
+3. [Wired](http://wireservice.wired.com/wired/story.asp?section=Breaking&storyId=993704&tw=wn_wire_story)
 
 ### Related:
 

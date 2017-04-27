@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [IHT](http://www.iht.com/articles/2005/11/09/news/alpha.php)
-2. [AP](http://www.washingtonpost.com/wp-dyn/content/article/2005/11/09/AR2005110901281.html)
+1. [AP](http://www.washingtonpost.com/wp-dyn/content/article/2005/11/09/AR2005110901281.html)
+2. [IHT](http://www.iht.com/articles/2005/11/09/news/alpha.php)
 
 ### Related:
 

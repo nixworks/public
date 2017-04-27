@@ -7,6 +7,6 @@
 
 ### Source:
 
-1. [MSN](http://now.msn.com/sharmeka-moffitt-set-on-fire-in-louisiana)
-2. [Shreveport Times](http://www.shreveporttimes.com/article/20121023/NEWS01/121023011/Winnsboro-attack-victim-remains-critical-condition?odyssey=tab|topnews|text|FRONTPAGE)
-3. [MSN](http://now.msn.com/sharmeka-moffitt-lousiana-woman-may-have-faked-hate-crime?)
+1. [MSN](http://now.msn.com/sharmeka-moffitt-lousiana-woman-may-have-faked-hate-crime?)
+2. [MSN](http://now.msn.com/sharmeka-moffitt-set-on-fire-in-louisiana)
+3. [Shreveport Times](http://www.shreveporttimes.com/article/20121023/NEWS01/121023011/Winnsboro-attack-victim-remains-critical-condition?odyssey=tab|topnews|text|FRONTPAGE)

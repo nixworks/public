@@ -8,8 +8,8 @@
 ### Source:
 
 1. [CNN](http://www.cnn.com/2013/11/17/us/weather/index.html?hpt=hp_t1)
-2. [Peoria Journal Star](http://www.pjstar.com/article/20131117/NEWS/131119271)
-3. [NBC News](http://usnews.nbcnews.com/_news/2013/11/17/21503619-scores-of-tornadoes-kill-4-injure-at-least-37-in-midwest?lite)
+2. [NBC News](http://usnews.nbcnews.com/_news/2013/11/17/21503619-scores-of-tornadoes-kill-4-injure-at-least-37-in-midwest?lite)
+3. [Peoria Journal Star](http://www.pjstar.com/article/20131117/NEWS/131119271)
 
 ### Related:
 

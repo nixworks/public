@@ -7,20 +7,20 @@ Ukrainian President Viktor Yushchenko has condemned Russia&#39;s &#39;unacceptab
 
 ### Source:
 
-1. [Rustavi 2](http://rustavi2.com/news/news_text.php?id_news=27640&pg=1&im=main&ct=0&wth=)
-2. [Civil Georgia](http://www.civil.ge/eng/article.php?id=19316)
-3. [CNN](http://edition.cnn.com/2008/WORLD/europe/08/27/russia.georgia/index.html)
-4. [USA Today](http://blogs.usatoday.com/ondeadline/2008/08/french-diplomat.html)
-5. [Moscow Times](http://www.themoscowtimes.com/article/600/42/370449.htm)
-6. [Xinhua](http://www.chinadaily.com.cn/world/2008-08/27/content_6976203.htm)
-7. [The Guardian](http://www.guardian.co.uk/politics/2008/aug/27/foreignpolicy.conservatives)
-8. [Sky News](http://news.sky.com/skynews/Home/World-News/Ukraine-David-Miliband-Says-Russia-Has-A-Responsibility-Not-To-Start-A-New-Cold-War/Article/200808415087570?lpos=World%2BNews_3&lid=ARTICLE_15087570_Ukraine%253A%2BDavid%2BMiliband%2BSays%2BRussia%2BHas%2BA%2B%2527Responsibility%2527%2BNot%2BTo%2BStart%2BA%2BNew%2BCold%2BWar)
-9. [BBC News](http://news.bbc.co.uk/2/hi/europe/7583782.stm)
-10. [The Independent](http://www.independent.co.uk/news/world/europe/miliband-warns-russia-against-starting-a-new-cold-war-909861.html)
-11. [RTE](http://www.rte.ie/news/2008/0827/ukraine.html)
-12. [Forbes](http://www.forbes.com/feeds/ap/2008/08/27/ap5363620.html)
-13. [Civil](http://www.civil.ge/eng/article.php?id=19317)
-14. [Moscow Times](http://www.themoscowtimes.com/article/600/42/370448.htm)
+1. [BBC News](http://news.bbc.co.uk/2/hi/europe/7583782.stm)
+2. [CNN](http://edition.cnn.com/2008/WORLD/europe/08/27/russia.georgia/index.html)
+3. [Civil Georgia](http://www.civil.ge/eng/article.php?id=19316)
+4. [Civil](http://www.civil.ge/eng/article.php?id=19317)
+5. [Forbes](http://www.forbes.com/feeds/ap/2008/08/27/ap5363620.html)
+6. [Moscow Times](http://www.themoscowtimes.com/article/600/42/370448.htm)
+7. [Moscow Times](http://www.themoscowtimes.com/article/600/42/370449.htm)
+8. [RTE](http://www.rte.ie/news/2008/0827/ukraine.html)
+9. [Rustavi 2](http://rustavi2.com/news/news_text.php?id_news=27640&pg=1&im=main&ct=0&wth=)
+10. [Sky News](http://news.sky.com/skynews/Home/World-News/Ukraine-David-Miliband-Says-Russia-Has-A-Responsibility-Not-To-Start-A-New-Cold-War/Article/200808415087570?lpos=World%2BNews_3&lid=ARTICLE_15087570_Ukraine%253A%2BDavid%2BMiliband%2BSays%2BRussia%2BHas%2BA%2B%2527Responsibility%2527%2BNot%2BTo%2BStart%2BA%2BNew%2BCold%2BWar)
+11. [The Guardian](http://www.guardian.co.uk/politics/2008/aug/27/foreignpolicy.conservatives)
+12. [The Independent](http://www.independent.co.uk/news/world/europe/miliband-warns-russia-against-starting-a-new-cold-war-909861.html)
+13. [USA Today](http://blogs.usatoday.com/ondeadline/2008/08/french-diplomat.html)
+14. [Xinhua](http://www.chinadaily.com.cn/world/2008-08/27/content_6976203.htm)
 
 ### Related:
 

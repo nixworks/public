@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Daily Monitor](http://www.monitor.co.ug/artman/publish/news/Uganda_to_free_Somali_deputy_defense_minister_92531.shtml)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jWu96xWZ3g7YBOMqDezMBBxK1nOA)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jWu96xWZ3g7YBOMqDezMBBxK1nOA)
+2. [Daily Monitor](http://www.monitor.co.ug/artman/publish/news/Uganda_to_free_Somali_deputy_defense_minister_92531.shtml)
 
 ### Related:
 

@@ -7,8 +7,8 @@ An incident at the Fessenheim nuclear facility in France in 2014 was more seriou
 
 ### Source:
 
-1. [Deutsche Welle](http://www.dw.com/en/reports-fessenheim-nuclear-accident-played-down-by-authorities/a-19093477)
-2. [AP via ABC News](http://abcnews.go.com/International/wireStory/germany-demands-closure-french-nuclear-plant-border-37392778)
+1. [AP via ABC News](http://abcnews.go.com/International/wireStory/germany-demands-closure-french-nuclear-plant-border-37392778)
+2. [Deutsche Welle](http://www.dw.com/en/reports-fessenheim-nuclear-accident-played-down-by-authorities/a-19093477)
 
 ### Related:
 

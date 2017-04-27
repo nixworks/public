@@ -7,8 +7,8 @@ The U.N. Security Council unanimously adopted a resolution Monday demanding inte
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2014/07/21/us-ukraine-crisis-airplane-idUSKBN0FQ0K420140721?feedType=RSS&feedName=topNews)
-2. [AP via Fox News](http://www.foxnews.com/world/2014/07/21/malaysia-air-crash-un-approves-resolution-calling-for-probe/)
+1. [AP via Fox News](http://www.foxnews.com/world/2014/07/21/malaysia-air-crash-un-approves-resolution-calling-for-probe/)
+2. [Reuters](http://www.reuters.com/article/2014/07/21/us-ukraine-crisis-airplane-idUSKBN0FQ0K420140721?feedType=RSS&feedName=topNews)
 3. [Washington Post](http://www.washingtonpost.com/world/ukraine-military-renews-assault-on-rebels-in-region-where-passenger-jet-was-downed/2014/07/21/86cd2a12-10b0-11e4-98ee-daea85133bc9_story.html?wpisrc=al_national)
 
 ### Related:

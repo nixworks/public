@@ -7,5 +7,5 @@ A stampede of pilgrims returning from one of India&#039;s most popular Hindu fes
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/india/Sabarimala-stampede-kills-over-100-scores-injured/articleshow/7287925.cms)
-2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/india/8261037/Indian-temple-stampede-kills-over-100.html)
+1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/india/8261037/Indian-temple-stampede-kills-over-100.html)
+2. [Times of India](http://timesofindia.indiatimes.com/india/Sabarimala-stampede-kills-over-100-scores-injured/articleshow/7287925.cms)

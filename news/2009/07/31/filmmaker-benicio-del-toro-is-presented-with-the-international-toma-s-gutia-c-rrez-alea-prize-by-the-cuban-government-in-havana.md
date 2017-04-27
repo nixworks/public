@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/reuters/2009/07/31/arts/entertainment-us-havana.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8177736.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8177736.stm)
+2. [The New York Times](http://www.nytimes.com/reuters/2009/07/31/arts/entertainment-us-havana.html)
 
 ### Related:
 

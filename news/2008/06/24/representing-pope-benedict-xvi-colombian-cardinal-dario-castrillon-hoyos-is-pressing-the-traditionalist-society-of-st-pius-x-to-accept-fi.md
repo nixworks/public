@@ -8,8 +8,8 @@ A chief provider and curator of Catholic information on the web since 1996. Our 
 ### Source:
 
 1. [CNS](http://www.catholicnews.com/data/stories/cns/0803360.htm)
-2. [The New Liturgical Movement](http://thenewliturgicalmovement.blogspot.com/2008/06/tornielli-agreement-between-holy-see.html)
-3. [Catholic World News](http://www.cwnews.com/news/viewstory.cfm?recnum=59284)
+2. [Catholic World News](http://www.cwnews.com/news/viewstory.cfm?recnum=59284)
+3. [The New Liturgical Movement](http://thenewliturgicalmovement.blogspot.com/2008/06/tornielli-agreement-between-holy-see.html)
 
 ### Related:
 

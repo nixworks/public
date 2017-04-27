@@ -7,8 +7,8 @@ A grand jury has charged&nbsp;him with dozens of new counts for his alleged role
 
 ### Source:
 
-1. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/03/04/AR2011030403727.html?wpisrc=nl_natlalert)
-2. [Politico](http://www.politico.com/news/stories/0311/50683.html)
+1. [Politico](http://www.politico.com/news/stories/0311/50683.html)
+2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/03/04/AR2011030403727.html?wpisrc=nl_natlalert)
 
 ### Related:
 

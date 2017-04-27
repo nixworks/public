@@ -8,8 +8,8 @@ Deadly attack in volatile southwestern province followed small arms fire on US M
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2011/05/2011529102045125188.html)
-2. [BBC](http://www.bbc.co.uk/news/world-south-asia-13589193)
-3. [BBC](http://www.bbc.co.uk/news/world-south-asia-13587968)
+2. [BBC](http://www.bbc.co.uk/news/world-south-asia-13587968)
+3. [BBC](http://www.bbc.co.uk/news/world-south-asia-13589193)
 
 ### Related:
 

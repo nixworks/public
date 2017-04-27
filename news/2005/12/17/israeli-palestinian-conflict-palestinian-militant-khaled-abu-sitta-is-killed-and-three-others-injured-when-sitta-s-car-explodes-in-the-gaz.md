@@ -8,9 +8,9 @@ IDF forces spot three Palestinians approaching Gaza security fence; one terroris
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4538580.stm)
-2. [Y-Net](http://www.ynetnews.com/articles/0,7340,L-3185785,00.html)
+2. [Haaretz](http://www.haaretz.com/hasen/spages/657969.html)
 3. [Reuters](http://today.reuters.com/news/NewsArticle.aspx?type=topNews&storyID=2005-12-17T173924Z_01_KNE763550_RTRUKOT_0_TEXT0.xml&related=true)
-4. [Haaretz](http://www.haaretz.com/hasen/spages/657969.html)
+4. [Y-Net](http://www.ynetnews.com/articles/0,7340,L-3185785,00.html)
 
 ### Related:
 

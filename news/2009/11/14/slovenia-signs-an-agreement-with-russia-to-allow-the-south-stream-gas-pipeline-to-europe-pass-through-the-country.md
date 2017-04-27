@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=14531469&PageNum=0)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601085&sid=aKJI8Ras.5l8)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601085&sid=aKJI8Ras.5l8)
+2. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=14531469&PageNum=0)
 
 ### Related:
 

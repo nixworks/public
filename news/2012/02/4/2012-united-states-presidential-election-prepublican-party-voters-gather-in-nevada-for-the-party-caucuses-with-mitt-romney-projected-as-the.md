@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [WLBZ](http://www.wlbz2.com/news/article/188158/3/Maine-Republican-Caucus-underway)
+1. [NBC News](http://nbcpolitics.msnbc.msn.com/_news/2012/02/04/10319217-romney-wins-nevada-caucus-solidifying-momentum)
 2. [The Guardian](http://www.guardian.co.uk/commentisfree/cifamerica/2012/feb/03/polling-nevada-caucus?newsfeed=true)
-3. [NBC News](http://nbcpolitics.msnbc.msn.com/_news/2012/02/04/10319217-romney-wins-nevada-caucus-solidifying-momentum)
+3. [WLBZ](http://www.wlbz2.com/news/article/188158/3/Maine-Republican-Caucus-underway)
 
 ### Related:
 

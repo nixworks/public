@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/B609461.htm)
-2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/156870/1/.html)
+1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/156870/1/.html)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/B609461.htm)
 3. [Science Daily](http://www.sciencedaily.com/upi/?feed=TopNews&article=UPI-1-20050708-00025900-bc-philippines-birdflu.xml)
 
 ### Related:

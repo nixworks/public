@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Global Times](http://china.globaltimes.cn/society/2010-01/497474.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8451289.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8451289.stm)
+2. [Global Times](http://china.globaltimes.cn/society/2010-01/497474.html)
 
 ### Related:
 

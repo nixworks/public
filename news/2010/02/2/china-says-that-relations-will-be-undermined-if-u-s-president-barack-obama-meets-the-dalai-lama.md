@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/politics/story/2010/02/02/china-us-dalai-lama.html)
-2. [China Daily](http://www.chinadaily.com.cn/china/2010-02/02/content_9415162.htm)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8492608.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8492608.stm)
+2. [CBC](http://www.cbc.ca/politics/story/2010/02/02/china-us-dalai-lama.html)
+3. [China Daily](http://www.chinadaily.com.cn/china/2010-02/02/content_9415162.htm)
 
 ### Related:
 

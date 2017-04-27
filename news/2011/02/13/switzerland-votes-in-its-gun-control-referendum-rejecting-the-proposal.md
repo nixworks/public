@@ -7,8 +7,8 @@ Voters in Switzerland - where gun suicide rates are high - reject proposed tight
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-12441834)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/02/2011213115710819915.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/02/2011213115710819915.html)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-12441834)
 
 ### Related:
 

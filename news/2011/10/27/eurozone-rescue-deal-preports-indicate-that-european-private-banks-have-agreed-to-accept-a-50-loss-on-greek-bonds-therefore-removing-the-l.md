@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via ''USA Today](http://www.usatoday.com/money/world/story/2011-10-26/eurozone/50945554/1)
-2. [AP via ''Atlanta Journal-Constitution](http://www.ajc.com/business/eu-official-banks-agree-1210215.html)
+1. [AP via ''Atlanta Journal-Constitution](http://www.ajc.com/business/eu-official-banks-agree-1210215.html)
+2. [AP via ''USA Today](http://www.usatoday.com/money/world/story/2011-10-26/eurozone/50945554/1)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Five people have been left dead and 100,000 forced to leave their homes in Malay
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/world/asia/floods-in-malaysia-leave-five-dead-and-100000-displaced-9946091.html)
-2. [Bangkok Post](http://www.bangkokpost.com/news/general/452460/at-least-eight-dead-in-southern-thailand-floods)
+1. [Bangkok Post](http://www.bangkokpost.com/news/general/452460/at-least-eight-dead-in-southern-thailand-floods)
+2. [The Independent](http://www.independent.co.uk/news/world/asia/floods-in-malaysia-leave-five-dead-and-100000-displaced-9946091.html)
 
 ### Related:
 

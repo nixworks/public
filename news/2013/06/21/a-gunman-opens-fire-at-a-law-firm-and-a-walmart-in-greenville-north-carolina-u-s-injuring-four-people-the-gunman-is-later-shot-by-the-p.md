@@ -7,8 +7,8 @@ A man with a shotgun wounded one person at a Greenville, N.C., law firm on Frida
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/nation/2013/06/21/north-carolina-walmart-shooting-greenville/2446961/)
-2. [CBS News](http://www.cbsnews.com/8301-504083_162-57590482-504083/north-carolina-shooting-4-injured-near-greenville-n.c-wal-mart-suspect-in-custody-report-says/)
+1. [CBS News](http://www.cbsnews.com/8301-504083_162-57590482-504083/north-carolina-shooting-4-injured-near-greenville-n.c-wal-mart-suspect-in-custody-report-says/)
+2. [USA Today](http://www.usatoday.com/story/news/nation/2013/06/21/north-carolina-walmart-shooting-greenville/2446961/)
 
 ### Related:
 

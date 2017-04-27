@@ -7,8 +7,8 @@ French&#x20;air&#x20;traffic&#x20;controllers&#x20;have&#x20;gone&#x20;on&#x20;s
 
 ### Source:
 
-1. [Reuters India](http://in.reuters.com/article/idINIndia-50288320100721)
-2. [France 24](http://www.france24.com/en/20100721-air-traffic-controllers-strike-unified-european-airspace-france-paris-aviation)
+1. [France 24](http://www.france24.com/en/20100721-air-traffic-controllers-strike-unified-european-airspace-france-paris-aviation)
+2. [Reuters India](http://in.reuters.com/article/idINIndia-50288320100721)
 3. [euronews](http://www.euronews.net/2010/07/21/french-air-traffic-controllers-go-on-strike/)
 
 ### Related:

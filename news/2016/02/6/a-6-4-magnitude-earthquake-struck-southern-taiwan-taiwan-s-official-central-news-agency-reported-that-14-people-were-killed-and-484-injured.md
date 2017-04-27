@@ -7,11 +7,11 @@ A powerful magnitude 6.4 earthquake strikes southern Taiwan near the city of Tai
 
 ### Source:
 
-1. [AP](http://bigstory.ap.org/article/adfd0fa83b494e45bed17161672a6bb5/64-magnitude-earthquake-strikes-southern-taiwan)
-2. [Metro](http://metro.co.uk/2016/02/05/dramatic-pics-emerge-of-earthquake-in-taiwan-5665164/)
-3. [CNN](http://edition.cnn.com/2016/02/06/asia/taiwan-earthquake/index.html)
-4. [AP](http://hosted.ap.org/dynamic/stories/A/AS_TAIWAN_EARTHQUAKE_THE_LATEST_ASOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
-5. [AFP/Reuters via ABC News Australia](http://www.abc.net.au/news/2016-02-06/magnitude-6.4-earthquake-hits-southern-taiwan/7145756?WT.mc_id=newsmail)
+1. [AFP/Reuters via ABC News Australia](http://www.abc.net.au/news/2016-02-06/magnitude-6.4-earthquake-hits-southern-taiwan/7145756?WT.mc_id=newsmail)
+2. [AP](http://bigstory.ap.org/article/adfd0fa83b494e45bed17161672a6bb5/64-magnitude-earthquake-strikes-southern-taiwan)
+3. [AP](http://hosted.ap.org/dynamic/stories/A/AS_TAIWAN_EARTHQUAKE_THE_LATEST_ASOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+4. [CNN](http://edition.cnn.com/2016/02/06/asia/taiwan-earthquake/index.html)
+5. [Metro](http://metro.co.uk/2016/02/05/dramatic-pics-emerge-of-earthquake-in-taiwan-5665164/)
 
 ### Related:
 

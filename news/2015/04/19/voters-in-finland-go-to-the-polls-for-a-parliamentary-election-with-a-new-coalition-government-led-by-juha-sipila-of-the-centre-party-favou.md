@@ -7,8 +7,8 @@ Finns are tipped to oust apro-European and pro-NATO prime minister in elections 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/04/19/finland-election-idUSL5N0XE1GM20150419)
-2. [New York Times](http://www.nytimes.com/2015/04/20/world/europe/finnish-opposition-wins-vote.html)
+1. [New York Times](http://www.nytimes.com/2015/04/20/world/europe/finnish-opposition-wins-vote.html)
+2. [Reuters](http://www.reuters.com/article/2015/04/19/finland-election-idUSL5N0XE1GM20150419)
 
 ### Related:
 

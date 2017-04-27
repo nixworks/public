@@ -7,8 +7,8 @@ Thousands march outside Manama while police use sound bombs to disperse a smalle
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17761698)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/04/201241812371021925.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/04/201241812371021925.html)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-17761698)
 
 ### Related:
 

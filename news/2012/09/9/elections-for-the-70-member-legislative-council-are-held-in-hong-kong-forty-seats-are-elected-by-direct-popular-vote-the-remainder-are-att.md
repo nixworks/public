@@ -8,9 +8,9 @@ The Hong Kong government backs down over plans to force schoolchildren to take C
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-19529867)
-2. [Xinhua](http://news.xinhuanet.com/english/china/2012-09/09/c_131837151.htm)
+2. [Pakistan Today](http://www.pakistantoday.com.pk/2012/09/10/news/foreign/hong-kong-votes-in-crucial-legislative-polls/)
 3. [Washington Post](http://www.washingtonpost.com/world/asia_pacific/hong-kong-votes-in-key-elections-that-will-help-shape-future-democracy-plans/2012/09/09/fe3b2b0c-fa47-11e1-a0a1-b07778c66e04_story.html)
-4. [Pakistan Today](http://www.pakistantoday.com.pk/2012/09/10/news/foreign/hong-kong-votes-in-crucial-legislative-polls/)
+4. [Xinhua](http://news.xinhuanet.com/english/china/2012-09/09/c_131837151.htm)
 
 ### Related:
 

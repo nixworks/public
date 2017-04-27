@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [TSN](http://www.tsn.ca/canadian_hockey/story/?id=420287)
-2. [IIHF](http://www.worldwomen2013.com/en/news/gold/)
+1. [IIHF](http://www.worldwomen2013.com/en/news/gold/)
+2. [TSN](http://www.tsn.ca/canadian_hockey/story/?id=420287)
 
 ### Related:
 

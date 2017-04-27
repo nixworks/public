@@ -8,8 +8,8 @@ A judge on Thursday sentenced the founder of Peregrine Financial Group to 50 yea
 ### Source:
 
 1. [NASDAQ](http://www.nasdaq.com/article/peregrine-ceo-gets-50-years-in-prison-20130131-01301)
-2. [USA Today](http://www.usatoday.com/story/news/nation/2013/01/31/iowa-brokerage-embezzlement-wasendorf/1880679/)
-3. [Reuters](http://www.reuters.com/article/2013/01/31/us-peregrince-financial-wasendorf-idUSBRE90U14820130131)
+2. [Reuters](http://www.reuters.com/article/2013/01/31/us-peregrince-financial-wasendorf-idUSBRE90U14820130131)
+3. [USA Today](http://www.usatoday.com/story/news/nation/2013/01/31/iowa-brokerage-embezzlement-wasendorf/1880679/)
 
 ### Related:
 

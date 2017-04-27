@@ -16,7 +16,7 @@ Ivory&#x20;Coast&#x20;strongman&#x20;Laurent&#x20;Gbagbo&#x20;has&#x20;been&#x20
 Libyan rebels rejected an African Union peace plan on Monday because it did not address their main demand that Muammar Gaddafi quit and because it proposed reforming a ruling system they want removed.
 
 ### [Fighting between rebels and government forces kill 27 people in the Central African Republic. ](/news/2011/04/11/fighting-between-rebels-and-government-forces-kill-27-people-in-the-central-african-republic.md)
-_Context: Central African Republic_
+_Context: Central-African_
 
 ### [The French law banning the burqa and niqab comes into effect. ](/news/2011/04/11/the-french-law-banning-the-burqa-and-niqab-comes-into-effect.md)
 FRANCE has officially banned women from wearing full-face veils in public places, with a controversial new law coming into effect today.

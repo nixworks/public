@@ -7,10 +7,10 @@ French&#x20;protesters&#x20;engaged&#x20;in&#x20;a&#x20;sixth&#x20;day&#x20;of&#
 
 ### Source:
 
-1. [Reuters via France 24](http://www.france24.com/en/20101019-french-strikers-marchers-test-sarkozy-pensions-france-unions)
-2. [AP](http://hosted.ap.org/dynamic/stories/E/EU_FRANCE_RETIREMENT_STRIKES?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
-3. [BBC](http://www.bbc.co.uk/news/world-europe-11578674)
-4. [CNN](http://edition.cnn.com/2010/WORLD/europe/10/19/france.strike/?hpt=T1)
+1. [AP](http://hosted.ap.org/dynamic/stories/E/EU_FRANCE_RETIREMENT_STRIKES?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-11578674)
+3. [CNN](http://edition.cnn.com/2010/WORLD/europe/10/19/france.strike/?hpt=T1)
+4. [Reuters via France 24](http://www.france24.com/en/20101019-french-strikers-marchers-test-sarkozy-pensions-france-unions)
 
 ### Related:
 

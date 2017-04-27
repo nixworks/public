@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8367831.stm)
-2. [Xinhua](http://news.xinhuanet.com/english/2009-11/19/content_12493267.htm)
-3. [RIA Novosti](http://en.rian.ru/russia/20091119/156901575.html)
+2. [RIA Novosti](http://en.rian.ru/russia/20091119/156901575.html)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-11/19/content_12493267.htm)
 
 ### Related:
 

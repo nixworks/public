@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2015/06/04/world/europe/eastern-ukraine-fighting-breaks-out-near-donetsk.html?module=WatchingPortal&region=c-column-middle-span-region&pgType=Homepage&action=click&mediaId=wide&state=standard&contentPlacement=2&version=internal&contentCollection=www.nytimes.com&contentId=http%3A%2F%2Fwww.nytimes.com%2F2015%2F06%2F04%2Fworld%2Feurope%2Feastern-ukraine-fighting-breaks-out-near-donetsk.html&eventName=Watching-article-click)
-2. [AFP via Yahoo! News](https://in.news.yahoo.com/ukrainian-army-accuses-rebels-launching-132643578.html)
+1. [AFP via Yahoo! News](https://in.news.yahoo.com/ukrainian-army-accuses-rebels-launching-132643578.html)
+2. [New York Times](http://www.nytimes.com/2015/06/04/world/europe/eastern-ukraine-fighting-breaks-out-near-donetsk.html?module=WatchingPortal&region=c-column-middle-span-region&pgType=Homepage&action=click&mediaId=wide&state=standard&contentPlacement=2&version=internal&contentCollection=www.nytimes.com&contentId=http%3A%2F%2Fwww.nytimes.com%2F2015%2F06%2F04%2Fworld%2Feurope%2Feastern-ukraine-fighting-breaks-out-near-donetsk.html&eventName=Watching-article-click)
 
 ### Related:
 

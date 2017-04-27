@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2008/POLITICS/01/03/iowa.caucuses/index.html)
-2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080104/ap_po/dodd)
-3. [BBC News](http://news.bbc.co.uk/2/hi/americas/7170064.stm)
+1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080104/ap_po/dodd)
+2. [BBC News](http://news.bbc.co.uk/2/hi/americas/7170064.stm)
+3. [CNN](http://edition.cnn.com/2008/POLITICS/01/03/iowa.caucuses/index.html)
 
 ### Related:
 

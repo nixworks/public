@@ -7,8 +7,8 @@ The Palestinian Islamist group claimed that Egypt mediated a truce with Israel a
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/Arab-Israeli-Conflict/Hamas-says-truce-reached-with-Israel-to-end-fighting-along-Gaza-border-453147)
-2. [Reuters](http://www.reuters.com/article/us-israel-palestinians-idUSKCN0XV2G0)
+1. [Reuters](http://www.reuters.com/article/us-israel-palestinians-idUSKCN0XV2G0)
+2. [The Jerusalem Post](http://www.jpost.com/Arab-Israeli-Conflict/Hamas-says-truce-reached-with-Israel-to-end-fighting-along-Gaza-border-453147)
 
 ### Related:
 

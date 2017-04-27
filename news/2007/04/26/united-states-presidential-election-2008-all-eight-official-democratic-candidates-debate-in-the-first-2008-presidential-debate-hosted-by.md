@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [US News](http://www.usnews.com/usnews/news/articles/070426/26dems.htm)
-2. [AP via CBS](http://www.cbsnews.com/stories/2007/04/26/ap/politics/main2730539.shtml)
-3. [Huffington Post](http://www.huffingtonpost.com/lane-hudson/tonights-democratic-pres_b_46915.html)
+1. [AP via CBS](http://www.cbsnews.com/stories/2007/04/26/ap/politics/main2730539.shtml)
+2. [Huffington Post](http://www.huffingtonpost.com/lane-hudson/tonights-democratic-pres_b_46915.html)
+3. [US News](http://www.usnews.com/usnews/news/articles/070426/26dems.htm)
 
 ### Related:
 

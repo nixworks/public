@@ -7,9 +7,9 @@ Indian officials said elite troops crossed into Pakistan-ruled Kashmir on Thursd
 
 ### Source:
 
-1. [India Today](http://indiatoday.intoday.in/story/indian-army-crosses-loc-surgical-strikes-pakistani-territory/1/775983.html)
-2. [Reuters](http://www.reuters.com/article/us-pakistan-india-kashmir-idUSKCN11Z0IJ)
-3. [Dawn](http://www.dawn.com/news/1286881)
+1. [Dawn](http://www.dawn.com/news/1286881)
+2. [India Today](http://indiatoday.intoday.in/story/indian-army-crosses-loc-surgical-strikes-pakistani-territory/1/775983.html)
+3. [Reuters](http://www.reuters.com/article/us-pakistan-india-kashmir-idUSKCN11Z0IJ)
 
 ### Related:
 

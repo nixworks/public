@@ -7,8 +7,8 @@ Records from an anti-aging clinic in Miami list the names of baseball players --
 
 ### Source:
 
-1. [Miami New Times](http://www.miaminewtimes.com/2013-01-31/news/a-rod-and-doping-a-miami-clinic-supplies-drugs-to-sports-biggest-names/full/)
-2. [ESPN](http://espn.go.com/espn/otl/story/_/id/8893139/report-alex-rodriguez-others-miami-clinic-ped-lists)
+1. [ESPN](http://espn.go.com/espn/otl/story/_/id/8893139/report-alex-rodriguez-others-miami-clinic-ped-lists)
+2. [Miami New Times](http://www.miaminewtimes.com/2013-01-31/news/a-rod-and-doping-a-miami-clinic-supplies-drugs-to-sports-biggest-names/full/)
 
 ### Related:
 

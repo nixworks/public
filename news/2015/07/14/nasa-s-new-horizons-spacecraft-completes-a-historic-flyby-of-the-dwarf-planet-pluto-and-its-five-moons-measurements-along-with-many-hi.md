@@ -7,9 +7,9 @@ After over nine years of travel in deep space, NASA&#39;s New Horizons spacecraf
 
 ### Source:
 
-1. [official NASA page](http://solarsystem.nasa.gov/missions/profile.cfm?Sort=Alpha&Letter=N&Alias=New%20Horizons)
-2. [CNN](http://www.cnn.com/2015/07/14/us/nasa-new-horizons-pluto-flyby/index.html)
-3. [Gizmodo](http://www.gizmag.com/new-horizons-flyby-coverage/38363/?utm_source=Gizmag+Subscribers&utm_campaign=2f47f0138c-UA-2235360-4&utm_medium=email&utm_term=0_65b67362bd-2f47f0138c-91675269)
+1. [CNN](http://www.cnn.com/2015/07/14/us/nasa-new-horizons-pluto-flyby/index.html)
+2. [Gizmodo](http://www.gizmag.com/new-horizons-flyby-coverage/38363/?utm_source=Gizmag+Subscribers&utm_campaign=2f47f0138c-UA-2235360-4&utm_medium=email&utm_term=0_65b67362bd-2f47f0138c-91675269)
+3. [official NASA page](http://solarsystem.nasa.gov/missions/profile.cfm?Sort=Alpha&Letter=N&Alias=New%20Horizons)
 
 ### Related:
 

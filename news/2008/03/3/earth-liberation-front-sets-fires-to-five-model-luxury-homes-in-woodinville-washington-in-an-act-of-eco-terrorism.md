@@ -7,6 +7,6 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2008/CRIME/03/03/seattle.fire/index.html)
-2. [KIRO-TV](http://www.kirotv.com/news/15472392/detail.html)
-3. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080303/ap_on_re_us/luxury_homes_fire;_ylt=AptBxXBxitEJKj6lanzdgBVH2ocA)
+1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080303/ap_on_re_us/luxury_homes_fire;_ylt=AptBxXBxitEJKj6lanzdgBVH2ocA)
+2. [CNN](http://www.cnn.com/2008/CRIME/03/03/seattle.fire/index.html)
+3. [KIRO-TV](http://www.kirotv.com/news/15472392/detail.html)

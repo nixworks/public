@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [rising Nepal](http://www.gorkhapatra.org.np/pageloader.php?file=2005/07/27/topstories/main1)
+1. [Kantipur Online](http://www.kantipuronline.com/kolnews.php?&nid=46898)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/DEL75306.htm)
-3. [Kantipur Online](http://www.kantipuronline.com/kolnews.php?&nid=46898)
+3. [rising Nepal](http://www.gorkhapatra.org.np/pageloader.php?file=2005/07/27/topstories/main1)
 
 ### Related:
 

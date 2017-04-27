@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2008/WORLD/asiapcf/01/15/srilanka.blast/index.html)
-2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080116/ap_on_re_as/sri_lanka_bombing)
+1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080116/ap_on_re_as/sri_lanka_bombing)
+2. [CNN](http://www.cnn.com/2008/WORLD/asiapcf/01/15/srilanka.blast/index.html)
 
 ### Related:
 

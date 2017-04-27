@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Ottawa Citizen](http://www.ottawacitizen.com/news/Guinea+declares+state+emergency+death+toll+rises/3842829/story.html)
-2. [CNN](http://edition.cnn.com/2010/WORLD/africa/11/17/guinea.emergency/index.html?hpt=T2)
+1. [CNN](http://edition.cnn.com/2010/WORLD/africa/11/17/guinea.emergency/index.html?hpt=T2)
+2. [Ottawa Citizen](http://www.ottawacitizen.com/news/Guinea+declares+state+emergency+death+toll+rises/3842829/story.html)
 
 ### Related:
 

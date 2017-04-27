@@ -7,8 +7,8 @@ In a statement, the Iranian foreign ministry said that Iran was &quot;hoping it 
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/news/world/iran-says-seizure-cargo-ship-maersk-tigris-tied-debt-n351246)
-2. [AP via ABC News](http://abcnews.go.com/Politics/wireStory/us-navy-ships-accompany-us-flagged-ships-gulf-30707791)
+1. [AP via ABC News](http://abcnews.go.com/Politics/wireStory/us-navy-ships-accompany-us-flagged-ships-gulf-30707791)
+2. [NBC News](http://www.nbcnews.com/news/world/iran-says-seizure-cargo-ship-maersk-tigris-tied-debt-n351246)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NOAA](http://ptwc.weather.gov/text.php?id=pacific.TSUPAC.2014.11.15.0435)
-2. [AP](http://hosted.ap.org/dynamic/stories/A/AS_INDONESIA_EARTHQUAKE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_INDONESIA_EARTHQUAKE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [NOAA](http://ptwc.weather.gov/text.php?id=pacific.TSUPAC.2014.11.15.0435)
 
 ### Related:
 

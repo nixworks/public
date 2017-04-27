@@ -7,9 +7,9 @@ Frontpage | New Straits Times : Authoritative source for Malaysia latest news on
 
 ### Source:
 
-1. [New Straits Times](http://www.nst.com.my/Current_News/NST/articles/20100414182851/Article/index_html)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8619343.stm)
 2. [Economic Times](http://economictimes.indiatimes.com/news/news-by-industry/et-cetera/Chinese-crew-charged-over-ship-which-hit-Great-Barrier-Reef/articleshow/5801962.cms)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8619343.stm)
+3. [New Straits Times](http://www.nst.com.my/Current_News/NST/articles/20100414182851/Article/index_html)
 
 ### Related:
 

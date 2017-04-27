@@ -8,8 +8,8 @@ Laos approves a new prime minister after the surprise resignation of Bouasone Bo
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12072846)
-2. [Saigon Daily](http://www.saigon-gpdaily.com.vn/International/2010/12/88301/)
-3. [RFA](http://www.rfa.org/english/news/laos/resign-12232010182250.html)
+2. [RFA](http://www.rfa.org/english/news/laos/resign-12232010182250.html)
+3. [Saigon Daily](http://www.saigon-gpdaily.com.vn/International/2010/12/88301/)
 
 ### Related:
 

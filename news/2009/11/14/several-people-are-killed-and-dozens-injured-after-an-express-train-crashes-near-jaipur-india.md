@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [NDTV](http://www.ndtv.com/news/india/train_derails_near_jaipur_6_dead_21_injured.php)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8360104.stm)
 2. [Indian Express](http://www.indianexpress.com/news/six-killed-as-delhibound-mandore-express-derails/541372/)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8360104.stm)
+3. [NDTV](http://www.ndtv.com/news/india/train_derails_near_jaipur_6_dead_21_injured.php)
 
 ### Related:
 

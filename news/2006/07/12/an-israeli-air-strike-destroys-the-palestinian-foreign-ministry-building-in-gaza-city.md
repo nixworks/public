@@ -7,24 +7,24 @@ Senior wanted Palestinian terror suspect Muhammad Deif, commander of Hamas&#39; 
 
 ### Source:
 
-1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3274212,00.html)
-2. [Haaretz](http://www.haaretz.com/hasen/spages/737324.html)
+1. [AP](http://www.forbes.com/technology/feeds/ap/2006/07/12/ap2875344.html)
+2. [Asia Times](http://www.atimes.com/atimes/Middle_East/HG15Ak02.html)
 3. [Associated Press](http://hosted.ap.org/dynamic/stories/L/LEBANON_ISRAEL_CLASH?SITE=WIJAN&TEMPLATE=DEFAULT&SECTION=HOME)
-4. [iAfrica](http://iafrica.com/news/specialreport/middleeast/677341.htm)
+4. [BBC](http://news.bbc.co.uk/2/hi/middle_east/5175002.stm)
 5. [Bahrain News](http://english.bna.bh/?ID=47348)
-6. [Asia Times](http://www.atimes.com/atimes/Middle_East/HG15Ak02.html)
-7. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2006-07-12T122502Z_01_L12236669_RTRUKOC_0_US-MIDEAST-GAZA.xml)
-8. [Reuters](http://today.reuters.com/news/newsarticle.aspx?type=politicsNews&storyid=2006-07-12T180458Z_01_LA622138_RTRUKOC_0_US-MIDEAST-USA-KIDNAPPINGS.xml&src=rss&rpc=22)
-9. [Fox News](http://www.foxnews.com/story/0,2933,203166,00.html)
-10. [Haaretz](http://www.haaretz.com/hasen/pages/ShArt.jhtml?itemNo=737755)
+6. [Fox News](http://www.foxnews.com/story/0,2933,203166,00.html)
+7. [Haaretz](http://www.haaretz.com/hasen/pages/ShArt.jhtml?itemNo=737687)
+8. [Haaretz](http://www.haaretz.com/hasen/pages/ShArt.jhtml?itemNo=737755)
+9. [Haaretz](http://www.haaretz.com/hasen/spages/737324.html)
+10. [Haaretz](http://www.haaretz.com/hasen/spages/737634.html)
 11. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1150885984018&pagename=JPost%2FJPArticle%2FShowFull)
 12. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2006-07-12T115735Z_01_L11538533_RTRUKOC_0_US-MIDEAST.xml)
-13. [What Really Happened.com](http://www.whatreallyhappened.com/israeli_solders.html)
-14. [AP](http://www.forbes.com/technology/feeds/ap/2006/07/12/ap2875344.html)
-15. [Haaretz](http://www.haaretz.com/hasen/pages/ShArt.jhtml?itemNo=737687)
-16. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3274258,00.html)
-17. [Haaretz](http://www.haaretz.com/hasen/spages/737634.html)
-18. [BBC](http://news.bbc.co.uk/2/hi/middle_east/5175002.stm)
+13. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2006-07-12T122502Z_01_L12236669_RTRUKOC_0_US-MIDEAST-GAZA.xml)
+14. [Reuters](http://today.reuters.com/news/newsarticle.aspx?type=politicsNews&storyid=2006-07-12T180458Z_01_LA622138_RTRUKOC_0_US-MIDEAST-USA-KIDNAPPINGS.xml&src=rss&rpc=22)
+15. [What Really Happened.com](http://www.whatreallyhappened.com/israeli_solders.html)
+16. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3274212,00.html)
+17. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3274258,00.html)
+18. [iAfrica](http://iafrica.com/news/specialreport/middleeast/677341.htm)
 
 ### Related:
 

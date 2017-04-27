@@ -8,9 +8,9 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8528820.stm)
-2. [Sky News](http://news.sky.com/skynews/Home/Showbiz-News/Tim-Burtons-Alice-In-Wonderland-Boycotted-By-Odeon-And-Vue-Over-Dispute-With-Disney/Article/201002415557242?lpos=Showbiz_News_Third_UK_News_Article_Teaser_Region__0&lid=ARTICLE_15557242_Tim_Burtons_Alice_In_Wonderland_Boycotted_By_Odeon_And_Vue_Over_Dispute_With_Disney)
-3. [news.com.au](http://www.news.com.au/entertainment/movies/uk-cinemas-boycott-new-johnny-depp-film/story-e6frfmvr-1225833261051)
-4. [Digital Spy](http://www.digitalspy.co.uk/movies/news/a204692/odeon-confirms-alice-boycott.html)
+2. [Digital Spy](http://www.digitalspy.co.uk/movies/news/a204692/odeon-confirms-alice-boycott.html)
+3. [Sky News](http://news.sky.com/skynews/Home/Showbiz-News/Tim-Burtons-Alice-In-Wonderland-Boycotted-By-Odeon-And-Vue-Over-Dispute-With-Disney/Article/201002415557242?lpos=Showbiz_News_Third_UK_News_Article_Teaser_Region__0&lid=ARTICLE_15557242_Tim_Burtons_Alice_In_Wonderland_Boycotted_By_Odeon_And_Vue_Over_Dispute_With_Disney)
+4. [news.com.au](http://www.news.com.au/entertainment/movies/uk-cinemas-boycott-new-johnny-depp-film/story-e6frfmvr-1225833261051)
 
 ### Related:
 

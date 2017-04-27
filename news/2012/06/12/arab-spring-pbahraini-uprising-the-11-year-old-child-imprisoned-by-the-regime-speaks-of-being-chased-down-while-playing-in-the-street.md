@@ -7,8 +7,8 @@ Tunisia declares a curfew in eight regions, including the capital, after rioting
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-18416328)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/2012612162139131543.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/2012612162139131543.html)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-18416328)
 
 ### Related:
 

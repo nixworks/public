@@ -7,8 +7,8 @@ A dispatch from an international human rights organization criticized on Wednesd
 
 ### Source:
 
-1. [The Philippine Star](http://www.philstar.com/headlines/2015/09/09/1497798/aquino-hit-disappointingly-predictable-reaction-lumad-killings)
-2. [Rappler](http://www.rappler.com/newsbreak/in-depth/105272-lumad-eastern-mindanao-war)
+1. [Rappler](http://www.rappler.com/newsbreak/in-depth/105272-lumad-eastern-mindanao-war)
+2. [The Philippine Star](http://www.philstar.com/headlines/2015/09/09/1497798/aquino-hit-disappointingly-predictable-reaction-lumad-killings)
 
 ### Related:
 

@@ -8,8 +8,8 @@
 ### Source:
 
 1. [AFP via News Limited](http://www.news.com.au/story/0,23599,23862293-2,00.html)
-2. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7454283.stm)
-3. [AP via Forbes](http://www.forbes.com/feeds/ap/2008/06/14/ap5116735.html)
+2. [AP via Forbes](http://www.forbes.com/feeds/ap/2008/06/14/ap5116735.html)
+3. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7454283.stm)
 
 ### Related:
 

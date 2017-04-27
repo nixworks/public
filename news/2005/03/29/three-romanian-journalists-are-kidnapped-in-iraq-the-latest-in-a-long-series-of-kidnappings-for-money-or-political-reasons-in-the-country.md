@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Guardian](http://www.guardian.co.uk/Iraq/Story/0,2763,1447396,00.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4389391.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4389391.stm)
+2. [Guardian](http://www.guardian.co.uk/Iraq/Story/0,2763,1447396,00.html)
 
 ### Related:
 
@@ -18,7 +18,7 @@
 4. [ Ihab al-Sherif, Egypt's most senior envoy to Iraq is kidnapped by gunmen while buying a newspaper. He was to be promoted to ambassador, representing the first Arab nation to recognize the new Iraqi government. ](/news/2005/07/3/ihab-al-sherif-egypt-s-most-senior-envoy-to-iraq-is-kidnapped-by-gunmen-while-buying-a-newspaper-he-was-to-be-promoted-to-ambassador-rep.md) _Context: Iraq, kidnapped_
 5. [A freight train derails in Hunedoara County, Romania, killing both crew members on board. ](/news/2017/04/8/a-freight-train-derails-in-hunedoara-county-romania-killing-both-crew-members-on-board.md) _Context: Romania_
 6. [The United Nations announces expansion of civilian camps for people fleeing Mosul, following resumption of airstrikes  on ISIL-held portions of the Iraqi city. ](/news/2017/04/4/the-united-nations-announces-expansion-of-civilian-camps-for-people-fleeing-mosul-following-resumption-of-airstrikes-on-isil-held-portions.md) _Context: Iraq_
-7. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also 5 Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-5-peshmerga-fighters-are-killed-during-a-tu.md) _Context: Iraq_
-8. [An Iraqi airstrike near Al Qaim, Anbar province, Iraq, kills Ayad al-Jumaili, believed to be ISIL's second-in-command. ](/news/2017/04/1/an-iraqi-airstrike-near-al-qaim-anbar-province-iraq-kills-ayad-al-jumaili-believed-to-be-isil-s-second-in-command.md) _Context: Iraq_
-9. [A motorway bridge near Ancona, Italy, collapses killing two Italians and injuring two Romanian workers. The Italian highway agency links the collapse with a temporary structure that was designed to support it. ](/news/2017/03/9/a-motorway-bridge-near-ancona-italy-collapses-killing-two-italians-and-injuring-two-romanian-workers-the-italian-highway-agency-links-the.md) _Context: Romania_
-10. [Presidency of Donald Trump U.S. President Donald Trump signs a revised version of Executive Order 13769 eliminating Iraq from the order and reducing the indefinite suspension of Syrian refugees to 120 days. The order will be in effect on March 16, 2017. ](/news/2017/03/6/presidency-of-donald-trump-pu-s-president-donald-trump-signs-a-revised-version-of-executive-order-13769-eliminating-iraq-from-the-order-and.md) _Context: Iraq_
+7. [The pro-government Popular Mobilization Forces militia takes control of the mostly destroyed ancient city of Hatra in Iraq's Nineveh Governorate, following clashes with ISIL, who seized the ruins in 2014. ](/news/2017/04/26/the-pro-government-popular-mobilization-forces-militia-takes-control-of-the-mostly-destroyed-ancient-city-of-hatra-in-iraq-s-nineveh-governo.md) _Context: Iraq_
+8. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also five Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey also claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-five-peshmerga-fighters-are-killed-during-a.md) _Context: Iraq_
+9. [An Iraqi airstrike near Al Qaim, Anbar province, Iraq, kills Ayad al-Jumaili, believed to be ISIL's second-in-command. ](/news/2017/04/1/an-iraqi-airstrike-near-al-qaim-anbar-province-iraq-kills-ayad-al-jumaili-believed-to-be-isil-s-second-in-command.md) _Context: Iraq_
+10. [A motorway bridge near Ancona, Italy, collapses killing two Italians and injuring two Romanian workers. The Italian highway agency links the collapse with a temporary structure that was designed to support it. ](/news/2017/03/9/a-motorway-bridge-near-ancona-italy-collapses-killing-two-italians-and-injuring-two-romanian-workers-the-italian-highway-agency-links-the.md) _Context: Romania_

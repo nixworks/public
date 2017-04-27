@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [IslamOnline](http://www.islam-online.net/English/News/2005-01/17/article07.shtml)
-2. [Sudan Tribune](http://www.sudantribune.com/article.php3?id_article=7577)
-3. [BBC](http://news.bbc.co.uk/2/hi/africa/4180961.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4180961.stm)
+2. [IslamOnline](http://www.islam-online.net/English/News/2005-01/17/article07.shtml)
+3. [Sudan Tribune](http://www.sudantribune.com/article.php3?id_article=7577)
 
 ### Related:
 

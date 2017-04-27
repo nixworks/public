@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=aDA.aNi9Qogk&refer=latin_america)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/4681049.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4681049.stm)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=aDA.aNi9Qogk&refer=latin_america)
 
 ### Related:
 

@@ -7,8 +7,8 @@ A deal to sell Hummer stalled as the companies awaited approval from the Chinese
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE61N0S120100224)
-2. [New York Times](http://www.nytimes.com/2010/02/25/business/25hummer.html?hp)
+1. [New York Times](http://www.nytimes.com/2010/02/25/business/25hummer.html?hp)
+2. [Reuters](http://www.reuters.com/article/idUSTRE61N0S120100224)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Yemen News Agency](http://www.sabanews.net/en/news203721.htm)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/01/201012191034463280.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8471768.stm)
-3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/01/201012191034463280.html)
+3. [Yemen News Agency](http://www.sabanews.net/en/news203721.htm)
 
 ### Related:
 

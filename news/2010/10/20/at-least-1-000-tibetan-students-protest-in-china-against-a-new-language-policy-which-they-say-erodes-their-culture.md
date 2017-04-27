@@ -7,9 +7,9 @@ At least 1,000 Tibetan students in north-west China protest against new curbs on
 
 ### Source:
 
-1. [Turkish Weekly](http://www.turkishweekly.net/news/108760/tibetan-students-protest-being-taught-in-chinese.html)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11581189)
 2. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/20101021/news_20101021_56_706611.htm)
-3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11581189)
+3. [Turkish Weekly](http://www.turkishweekly.net/news/108760/tibetan-students-protest-being-taught-in-chinese.html)
 
 ### Related:
 

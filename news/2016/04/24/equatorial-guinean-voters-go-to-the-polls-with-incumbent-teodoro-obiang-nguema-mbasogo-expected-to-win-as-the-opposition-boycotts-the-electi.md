@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Voice of America](http://m.voanews.com/a/equatorial-guinea-goes-to-the-polls-sunday/3299721.html)
-2. [Al Jazeera](http://www.aljazeera.com/news/2016/04/equatorial-guinea-election-160424044551251.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/2016/04/equatorial-guinea-election-160424044551251.html)
+2. [Voice of America](http://m.voanews.com/a/equatorial-guinea-goes-to-the-polls-sunday/3299721.html)
 
 ### Related:
 

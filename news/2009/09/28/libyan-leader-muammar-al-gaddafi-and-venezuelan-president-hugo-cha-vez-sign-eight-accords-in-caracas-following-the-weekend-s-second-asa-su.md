@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2009-09/27/content_12115907.htm)
-2. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=344500&CategoryId=10717)
+1. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=344500&CategoryId=10717)
+2. [Xinhua](http://news.xinhuanet.com/english/2009-09/27/content_12115907.htm)
 
 ### Related:
 

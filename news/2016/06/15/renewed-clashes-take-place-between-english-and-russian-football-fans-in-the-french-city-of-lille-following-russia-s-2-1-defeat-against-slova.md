@@ -7,8 +7,8 @@ French riot police use teargas to disperse fans from city’s main square, with 
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/uk-36543468)
-2. [BBC](http://www.bbc.co.uk/news/uk-36543468)
+1. [BBC](http://www.bbc.co.uk/news/uk-36543468)
+2. [BBC](http://www.bbc.com/news/uk-36543468)
 3. [The Guardian](https://www.theguardian.com/football/2016/jun/15/england-and-russia-fans-brawl-in-lille-at-euro-2016)
 
 ### Related:

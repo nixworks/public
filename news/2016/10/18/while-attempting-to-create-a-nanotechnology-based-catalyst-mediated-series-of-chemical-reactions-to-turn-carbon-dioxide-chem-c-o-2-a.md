@@ -7,8 +7,8 @@ The process is cheap, efficient, and scalable, meaning it could soon be used to 
 
 ### Source:
 
-1. [The Oak Ridge National Laboratory](https://www.ornl.gov/news/nano-spike-catalysts-convert-carbon-dioxide-directly-ethanol)
-2. [Popular Mechanics](http://www.popularmechanics.com/science/green-tech/a23417/convert-co2-into-ethanol/)
+1. [Popular Mechanics](http://www.popularmechanics.com/science/green-tech/a23417/convert-co2-into-ethanol/)
+2. [The Oak Ridge National Laboratory](https://www.ornl.gov/news/nano-spike-catalysts-convert-carbon-dioxide-directly-ethanol)
 
 ### Related:
 

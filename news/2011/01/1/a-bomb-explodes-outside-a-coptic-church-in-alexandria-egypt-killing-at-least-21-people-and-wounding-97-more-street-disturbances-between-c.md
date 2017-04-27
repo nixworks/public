@@ -7,8 +7,8 @@ Egypt blames a suicide bomber with foreign links for a blast which killed at lea
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12101748)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/20111114553109742.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/20111114553109742.html)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12101748)
 
 ### Related:
 

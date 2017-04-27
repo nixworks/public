@@ -7,8 +7,8 @@ At least 14 people were killed after a bus carrying skiers flipped over a guardr
 
 ### Source:
 
-1. [Irish Independent](http://www.independent.ie/world-news/asia-pacific/at-least-14-people-killed-in-japanese-bus-crash-34366736.html)
-2. [Bloomberg](http://www.bloomberg.com/news/articles/2016-01-14/ski-bus-accident-kills-at-least-13-in-karuizawa-japan)
+1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-01-14/ski-bus-accident-kills-at-least-13-in-karuizawa-japan)
+2. [Irish Independent](http://www.independent.ie/world-news/asia-pacific/at-least-14-people-killed-in-japanese-bus-crash-34366736.html)
 
 ### Related:
 

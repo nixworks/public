@@ -7,15 +7,15 @@ Latest updates as Paris manhunt continues and France hits back at Islamic State 
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/storyline/paris-terror-attacks/paris-attacks-belgian-abdelhamid-abaaoud-reportedly-mastermind-n464081)
+1. [Associate Press via Military Times](http://www.militarytimes.com/story/military/2015/11/15/iraq-warned-of-attacks-before-paris-assault/75833046/)
 2. [Associated Press via Military.com](http://www.military.com/daily-news/2015/11/16/officials-no-credible-threats-target-us-after-paris-attacks.html)
-3. [Fox News](http://www.foxnews.com/world/2015/11/16/french-jets-target-isis-in-raqqa/)
-4. [The Independent](http://www.independent.co.uk/news/world/europe/france-attacks-mohamed-abdeslam-salah-abdeslam-fleeing-suspect-bataclan-a6736871.html)
-5. [The Guardian](http://www.theguardian.com/world/live/2015/nov/16/paris-attacks-france-airstrikes-isis-raqqa-syria-live)
-6. [USA Today](http://www.usatoday.com/story/news/politics/2015/11/16/alabama-refuses-syrian-refugees-paris-terror-attack/75857924/)
-7. [MSN](http://www.msn.com/en-us/news/world/anonymous-declares-war-on-isis-after-paris-attacks/ar-BBn3FZy?li=AAa0dzB&ocid=iehp)
-8. [CNN](http://edition.cnn.com/2015/11/15/world/paris-attacks/index.html)
-9. [Associate Press via Military Times](http://www.militarytimes.com/story/military/2015/11/15/iraq-warned-of-attacks-before-paris-assault/75833046/)
+3. [CNN](http://edition.cnn.com/2015/11/15/world/paris-attacks/index.html)
+4. [Fox News](http://www.foxnews.com/world/2015/11/16/french-jets-target-isis-in-raqqa/)
+5. [MSN](http://www.msn.com/en-us/news/world/anonymous-declares-war-on-isis-after-paris-attacks/ar-BBn3FZy?li=AAa0dzB&ocid=iehp)
+6. [NBC News](http://www.nbcnews.com/storyline/paris-terror-attacks/paris-attacks-belgian-abdelhamid-abaaoud-reportedly-mastermind-n464081)
+7. [The Guardian](http://www.theguardian.com/world/live/2015/nov/16/paris-attacks-france-airstrikes-isis-raqqa-syria-live)
+8. [The Independent](http://www.independent.co.uk/news/world/europe/france-attacks-mohamed-abdeslam-salah-abdeslam-fleeing-suspect-bataclan-a6736871.html)
+9. [USA Today](http://www.usatoday.com/story/news/politics/2015/11/16/alabama-refuses-syrian-refugees-paris-terror-attack/75857924/)
 
 ### Related:
 

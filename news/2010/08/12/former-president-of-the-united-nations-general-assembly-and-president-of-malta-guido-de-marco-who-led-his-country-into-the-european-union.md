@@ -8,10 +8,10 @@ Sitting at home taking in the sea views from the balcony, President Emeritus Gui
 ### Source:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gEww1LzcuyfByTahBZl8sY79CzwgD9HIOT8O0)
-2. [The Voice of Russia](http://english.ruvr.ru/2010/08/13/15557137.html)
-3. [The Times of Malta](http://www.timesofmalta.com/articles/view/20100812/local/born-again-de-marco-cherishing-life-anew)
-4. [Malta Today](http://www.maltatoday.com.mt/news/guido-de-marco/malta-mourns-guido-de-marco-dead-at-79-state-funeral-to-be-held-on-monday)
-5. [TVNZ](http://tvnz.co.nz/world-news/former-malta-president-marco-dies-79-3700244)
+2. [Malta Today](http://www.maltatoday.com.mt/news/guido-de-marco/malta-mourns-guido-de-marco-dead-at-79-state-funeral-to-be-held-on-monday)
+3. [TVNZ](http://tvnz.co.nz/world-news/former-malta-president-marco-dies-79-3700244)
+4. [The Times of Malta](http://www.timesofmalta.com/articles/view/20100812/local/born-again-de-marco-cherishing-life-anew)
+5. [The Voice of Russia](http://english.ruvr.ru/2010/08/13/15557137.html)
 
 ### Related:
 

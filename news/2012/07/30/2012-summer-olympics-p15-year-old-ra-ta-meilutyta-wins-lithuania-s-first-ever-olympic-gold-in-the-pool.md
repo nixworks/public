@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/sport/0/olympics/18906960)
-2. [Reuters](http://www.reuters.com/article/2012/07/30/oly-weig-wlm62k-day3-record-idUSL6E8IUJTU20120730)
-3. [CBS News](http://www.cbsnews.com/8301-33747_162-57481927/dana-vollmer-gets-gold-with-world-record-100-m-butterfly/)
+2. [CBS News](http://www.cbsnews.com/8301-33747_162-57481927/dana-vollmer-gets-gold-with-world-record-100-m-butterfly/)
+3. [Reuters](http://www.reuters.com/article/2012/07/30/oly-weig-wlm62k-day3-record-idUSL6E8IUJTU20120730)
 
 ### Related:
 

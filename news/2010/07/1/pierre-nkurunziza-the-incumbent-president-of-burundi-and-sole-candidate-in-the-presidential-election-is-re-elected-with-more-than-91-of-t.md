@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Xinhua via CPD](http://english.peopledaily.com.cn/90001/90777/90855/7049063.html)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hHl55epxpc6OXNZIfZR2cUw95iLw)
 2. [AfricaNews](http://www.africanews.com/site/Burundi_EU_concern_about_president_reelection/list_messages/33137)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hHl55epxpc6OXNZIfZR2cUw95iLw)
+3. [Xinhua via CPD](http://english.peopledaily.com.cn/90001/90777/90855/7049063.html)
 
 ### Related:
 

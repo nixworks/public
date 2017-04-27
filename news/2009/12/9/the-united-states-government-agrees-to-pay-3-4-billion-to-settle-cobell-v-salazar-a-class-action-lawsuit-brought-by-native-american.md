@@ -7,9 +7,9 @@ The Obama administration on Tuesday announced it would pay Native Americans $3.4
 
 ### Source:
 
-1. [Voice of America](http://www1.voanews.com/english/news/usa/US-Historic-Native-American-Lawsuit-08DEC09--78806322.html)
-2. [Xinhua](http://news.xinhuanet.com/english/2009-12/09/content_12617125.htm)
-3. [Los Angeles Times](http://www.latimes.com/news/nation-and-world/la-na-indian-settlement9-2009dec09,0,6296252.story)
+1. [Los Angeles Times](http://www.latimes.com/news/nation-and-world/la-na-indian-settlement9-2009dec09,0,6296252.story)
+2. [Voice of America](http://www1.voanews.com/english/news/usa/US-Historic-Native-American-Lawsuit-08DEC09--78806322.html)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-12/09/content_12617125.htm)
 
 ### Related:
 

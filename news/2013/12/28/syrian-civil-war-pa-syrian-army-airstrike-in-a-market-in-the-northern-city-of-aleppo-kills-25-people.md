@@ -7,8 +7,8 @@ A Syrian army air strike on a vegetable market in the northern city of Aleppo ki
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/2013/12/28/uk-syria-crisis-bombs-idUKBRE9BR05O20131228)
-2. [CNN](http://edition.cnn.com/2013/12/28/world/meast/syria-civil-war/index.html?hpt=imi_c2)
+1. [CNN](http://edition.cnn.com/2013/12/28/world/meast/syria-civil-war/index.html?hpt=imi_c2)
+2. [Reuters](http://uk.reuters.com/article/2013/12/28/uk-syria-crisis-bombs-idUKBRE9BR05O20131228)
 
 ### Related:
 

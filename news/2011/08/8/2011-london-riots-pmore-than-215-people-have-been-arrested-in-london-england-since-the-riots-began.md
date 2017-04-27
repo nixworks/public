@@ -7,13 +7,13 @@ Rioting has spread across London with cars and buildings set alight on a third n
 
 ### Source:
 
-1. [Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/local-national/uk/100-arrests-after-riots-and-looting-16033689.html)
-2. [AFP via ''Herald-Sun](http://www.heraldsun.com.au/news/world/london-burns-as-215-arrested-for-rioting/story-e6frf7lf-1226111344710)
+1. [AFP via ''Herald-Sun](http://www.heraldsun.com.au/news/world/london-burns-as-215-arrested-for-rioting/story-e6frf7lf-1226111344710)
+2. [BBC](http://www.bbc.co.uk/news/uk-14449675)
 3. [BBC](http://www.bbc.co.uk/news/uk-england-birmingham-14452468)
-4. [The Telegraph](http://www.telegraph.co.uk/news/uknews/crime/8689570/London-riots-Boris-Johnson-agrees-to-return-to-London.html)
-5. [BBC](http://www.bbc.co.uk/news/uk-england-london-14450248)
+4. [BBC](http://www.bbc.co.uk/news/uk-england-london-14450248)
+5. [Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/local-national/uk/100-arrests-after-riots-and-looting-16033689.html)
 6. [Daily Mail](http://www.dailymail.co.uk/news/article-2023554/LONDON-RIOTS-Third-night-violence-police-consider-banning-Notting-Hill-carnival.html)
-7. [BBC](http://www.bbc.co.uk/news/uk-14449675)
+7. [The Telegraph](http://www.telegraph.co.uk/news/uknews/crime/8689570/London-riots-Boris-Johnson-agrees-to-return-to-London.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Yahoo! News](http://sports.yahoo.com/ten/news?slug=reu-sharapovadc)
-2. [BBC](http://news.bbc.co.uk/sport2/hi/tennis/4147644.stm)
+1. [BBC](http://news.bbc.co.uk/sport2/hi/tennis/4147644.stm)
+2. [Yahoo! News](http://sports.yahoo.com/ten/news?slug=reu-sharapovadc)
 
 ### Related:
 

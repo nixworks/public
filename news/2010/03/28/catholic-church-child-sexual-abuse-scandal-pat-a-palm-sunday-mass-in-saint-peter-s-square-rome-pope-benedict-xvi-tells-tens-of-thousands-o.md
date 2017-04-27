@@ -7,13 +7,13 @@ Cardinal Seán Brady has said a parish priest in his diocese has agreed to take 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE62R1QW20100328)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8592111.stm)
 2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8591891.stm)
-3. [BBC](http://news.bbc.co.uk/2/hi/europe/8592111.stm)
-4. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2010/0329/1224267276645.html)
-5. [RTÉ](http://www.rte.ie/news/2010/0328/abuse.html)
-6. [The Observer](http://www.guardian.co.uk/world/2010/mar/28/pope-condemns-critics-catholic-sexual-abuse)
-7. [National Post](http://www.nationalpost.com/news/story.html?id=2736813&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+NP_Top_Stories+%28National+Post+-+Top+Stories%29)
+3. [National Post](http://www.nationalpost.com/news/story.html?id=2736813&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+NP_Top_Stories+%28National+Post+-+Top+Stories%29)
+4. [RTÉ](http://www.rte.ie/news/2010/0328/abuse.html)
+5. [Reuters](http://www.reuters.com/article/idUSTRE62R1QW20100328)
+6. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2010/0329/1224267276645.html)
+7. [The Observer](http://www.guardian.co.uk/world/2010/mar/28/pope-condemns-critics-catholic-sexual-abuse)
 
 ### Related:
 

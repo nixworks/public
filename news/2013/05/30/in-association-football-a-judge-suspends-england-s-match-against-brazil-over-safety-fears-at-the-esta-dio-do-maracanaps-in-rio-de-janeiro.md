@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/football/2013/may/30/england-brazil-friendly-doubt)
-2. [BBC](http://www.bbc.co.uk/sport/0/football/22724785)
+1. [BBC](http://www.bbc.co.uk/sport/0/football/22724785)
+2. [The Guardian](http://www.guardian.co.uk/football/2013/may/30/england-brazil-friendly-doubt)
 
 ### Related:
 

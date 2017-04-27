@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Korea Times](http://www.koreatimes.co.kr/www/news/art/2012/09/135_119443.html)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5j7kJ4tijKFu62NorIhS-E_SaU9PQ?docId=CNG.ab80c0f9479d1d133161b78f507ac559.831)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5j7kJ4tijKFu62NorIhS-E_SaU9PQ?docId=CNG.ab80c0f9479d1d133161b78f507ac559.831)
+2. [Korea Times](http://www.koreatimes.co.kr/www/news/art/2012/09/135_119443.html)
 
 ### Related:
 

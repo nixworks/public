@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Courier Mail](http://www.couriermail.com.au/news/queensland-facing-a-deadly-event-with-cyclone-yasi-anna-bligh/story-e6freon6-1225997904763)
-2. [Sydney Morning Herald](http://www.smh.com.au/environment/weather/yasi-upgraded-to-a-category-five-cyclone-20110201-1acgp.html)
-3. [Reuters via Yahoo! News](http://news.yahoo.com/s/nm/20110131/wl_nm/us_australia_cyclone)
+2. [Reuters via Yahoo! News](http://news.yahoo.com/s/nm/20110131/wl_nm/us_australia_cyclone)
+3. [Sydney Morning Herald](http://www.smh.com.au/environment/weather/yasi-upgraded-to-a-category-five-cyclone-20110201-1acgp.html)
 
 ### Related:
 

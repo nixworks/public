@@ -7,8 +7,8 @@ Bengaluru : A technique used globally for DNA-based identification of animal spe
 
 ### Source:
 
-1. [Nature India](http://www.natureasia.com/en/nindia/article/10.1038/nindia.2015.20)
-2. [IBN7](http://www.ibn7.com/biotech/item/86981-indian-scientists-peeved-over-credit-grab)
+1. [IBN7](http://www.ibn7.com/biotech/item/86981-indian-scientists-peeved-over-credit-grab)
+2. [Nature India](http://www.natureasia.com/en/nindia/article/10.1038/nindia.2015.20)
 
 ### Related:
 

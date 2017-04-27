@@ -7,8 +7,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3164437,00.html)
-2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-11-05T211503Z_01_WRI576465_RTRUKOC_0_US-MIDEAST-CHURCH.xml)
+1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-11-05T211503Z_01_WRI576465_RTRUKOC_0_US-MIDEAST-CHURCH.xml)
+2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3164437,00.html)
 
 ### Related:
 

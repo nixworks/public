@@ -8,8 +8,8 @@ As an aerial coordinator for Hollywood movies, helicopter pilot Alan Purwin has 
 ### Source:
 
 1. [IHT](http://www.iht.com/articles/2005/09/07/news/katrina.php)
-2. [Los Angeles Times](http://www.latimes.com/business/la-fi-heli5sep05,1,674864.story?coll=la-headlines-business&ctrack=1&cset=true)
-3. [Independent](http://news.independent.co.uk/world/americas/article311127.ece)
+2. [Independent](http://news.independent.co.uk/world/americas/article311127.ece)
+3. [Los Angeles Times](http://www.latimes.com/business/la-fi-heli5sep05,1,674864.story?coll=la-headlines-business&ctrack=1&cset=true)
 4. [TVNZ](http://tvnz.co.nz/view/page/411749/609605)
 5. [Yahoo](http://news.yahoo.com/news?tmpl=story&u=/ap/20050908/ap_on_go_pr_wh/katrina_washington)
 

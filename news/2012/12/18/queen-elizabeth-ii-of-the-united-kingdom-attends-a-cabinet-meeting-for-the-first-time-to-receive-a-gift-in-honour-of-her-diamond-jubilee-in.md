@@ -7,8 +7,8 @@ Part of the British Antarctic Territory is named in honour of the Queen, who als
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/story/1026909/queen-at-downing-street-for-cabinet-meeting)
-2. [BBC](http://www.bbc.co.uk/news/uk-politics-20757382)
+1. [BBC](http://www.bbc.co.uk/news/uk-politics-20757382)
+2. [Sky News](http://news.sky.com/story/1026909/queen-at-downing-street-for-cabinet-meeting)
 3. [The Guardian](http://www.guardian.co.uk/uk/2012/dec/18/queen-attends-cabinet-meeting)
 
 ### Related:

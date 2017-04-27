@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=aB7kOq6GW2Go&refer=asia)
-2. [Hi Pakistan](http://www.hipakistan.com/en/detail.php?newsId=en77245&F_catID=&f_type=source)
-3. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4365623.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4365623.stm)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=aB7kOq6GW2Go&refer=asia)
+3. [Hi Pakistan](http://www.hipakistan.com/en/detail.php?newsId=en77245&F_catID=&f_type=source)
 
 ### Related:
 

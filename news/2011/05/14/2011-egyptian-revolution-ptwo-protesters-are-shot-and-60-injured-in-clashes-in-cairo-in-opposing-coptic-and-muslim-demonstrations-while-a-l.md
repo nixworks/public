@@ -7,8 +7,8 @@ Violence erupted in the Cairo neighborhood of Maspero when pro-Coptic protesters
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2011/05/14/us-egypt-protesters-shooting-idUSTRE74D22F20110514)
-2. [CNN](http://www.cnn.com/2011/WORLD/africa/05/14/egypt.clashes/index.html)
+1. [CNN](http://www.cnn.com/2011/WORLD/africa/05/14/egypt.clashes/index.html)
+2. [Reuters](http://www.reuters.com/article/2011/05/14/us-egypt-protesters-shooting-idUSTRE74D22F20110514)
 
 ### Related:
 

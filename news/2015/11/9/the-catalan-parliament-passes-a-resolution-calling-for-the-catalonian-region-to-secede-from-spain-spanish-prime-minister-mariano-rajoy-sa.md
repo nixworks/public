@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Himalayan Times](http://thehimalayantimes.com/world/catalan-parliament-votes-to-secede-from-spain/)
+1. [AP](http://hosted.ap.org/dynamic/stories/E/EU_SPAIN_CATALONIA_INDEPENDENCE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [Reuters](http://www.reuters.com/article/2015/11/09/us-spain-catalonia-idUSKCN0SY15V20151109#KZdjDYWjUK051CeP.97)
-3. [AP](http://hosted.ap.org/dynamic/stories/E/EU_SPAIN_CATALONIA_INDEPENDENCE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+3. [The Himalayan Times](http://thehimalayantimes.com/world/catalan-parliament-votes-to-secede-from-spain/)
 
 ### Related:
 

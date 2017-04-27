@@ -7,9 +7,9 @@ Father of First Sergeant Yehuda Bassel shot dead in Gaza asks, &#39;why did they
 
 ### Source:
 
-1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3272252,00.html)
+1. [Haaretz](http://www.haaretz.com/hasen/spages/735455.html)
 2. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?c=JPArticle&cid=1150885922564&pagename=JPost%2FJPArticle%2FShowFull)
-3. [Haaretz](http://www.haaretz.com/hasen/spages/735455.html)
+3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3272252,00.html)
 4. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3272269,00.html)
 
 ### Related:

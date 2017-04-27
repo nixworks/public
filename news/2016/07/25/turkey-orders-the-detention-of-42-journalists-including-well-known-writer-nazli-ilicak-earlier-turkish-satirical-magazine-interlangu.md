@@ -8,8 +8,8 @@ Turkey ordered the detention of 42 journalists on Monday, broadcaster NTV report
 ### Source:
 
 1. [AI](https://www.amnesty.org/en/latest/news/2016/07/turkey-independent-monitors-must-be-allowed-to-access-detainees-amid-torture-allegations/)
-2. [NPR](http://www.npr.org/sections/thetwo-way/2016/07/25/487254277/amnesty-international-after-turkeys-failed-coup-some-detainees-are-tortured-rape)
-3. [CNN](http://www.cnn.com/2016/07/25/world/turkey-coup-attempt-aftermath/)
+2. [CNN](http://www.cnn.com/2016/07/25/world/turkey-coup-attempt-aftermath/)
+3. [NPR](http://www.npr.org/sections/thetwo-way/2016/07/25/487254277/amnesty-international-after-turkeys-failed-coup-some-detainees-are-tortured-rape)
 4. [Reuters](http://www.reuters.com/article/us-turkey-security-idUSKCN1051B0)
 
 ### Related:
@@ -23,4 +23,4 @@ Turkey ordered the detention of 42 journalists on Monday, broadcaster NTV report
 7. [Turkish authorities remove two dozen elected Kurdish mayors in southeast Turkey. ](/news/2016/09/12/turkish-authorities-remove-two-dozen-elected-kurdish-mayors-in-southeast-turkey.md) _Context: 2016 Turkish purges, Turkish_
 8. [Following yesterday's Constitutional Court of Turkey ruling that their rights had been violated, two Turkish journalists, jailed on terrorism charges,  are released after 92 days in prison. ](/news/2016/02/26/following-yesterday-s-constitutional-court-of-turkey-ruling-that-their-rights-had-been-violated-two-turkish-journalists-jailed-on-terroris.md) _Context: Turkish, journalist_
 9. [ The trial over the murder of Turkish-Armenian journalist Hrant Dink opens in Istanbul, Turkey. ](/news/2007/07/2/the-trial-over-the-murder-of-turkish-armenian-journalist-hrant-dink-opens-in-istanbul-turkey.md) _Context: Turkish, journalist_
-10. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also 5 Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-5-peshmerga-fighters-are-killed-during-a-tu.md) _Context: Turkish_
+10. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also five Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey also claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-five-peshmerga-fighters-are-killed-during-a.md) _Context: Turkish_

@@ -7,10 +7,10 @@ Police fire tear gas at anti-government demonstrators in Cairo as thousands call
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/global/blog/2011/jan/25/middleeast-tunisia)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/201112511362207742.html)
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/20111251711053608.html)
-3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/201112511362207742.html)
-4. [BBC](http://www.bbc.co.uk/news/world-africa-12272836)
+3. [BBC](http://www.bbc.co.uk/news/world-africa-12272836)
+4. [The Guardian](http://www.guardian.co.uk/global/blog/2011/jan/25/middleeast-tunisia)
 
 ### Related:
 

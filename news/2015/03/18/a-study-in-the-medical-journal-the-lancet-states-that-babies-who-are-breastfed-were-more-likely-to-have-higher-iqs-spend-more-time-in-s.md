@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Lancet](http://www.thelancet.com/journals/langlo/article/PIIS2214-109X(15)70002-1/abstract)
-2. [Quartz via MSN](http://www.msn.com/en-us/news/world/babies-who-breastfeed-have-higher-iqs-and-get-paid-more-as-adults/ar-BBilzJd)
+1. [Quartz via MSN](http://www.msn.com/en-us/news/world/babies-who-breastfeed-have-higher-iqs-and-get-paid-more-as-adults/ar-BBilzJd)
+2. [The Lancet](http://www.thelancet.com/journals/langlo/article/PIIS2214-109X(15)70002-1/abstract)
 
 ### Related:
 

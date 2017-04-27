@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Daily Nation Kenya](http://www.nation.co.ke/News/africa/Somali%20pirates%20hijack%20ship%20with%2018%20Filipinos%20on%20board:%20EU/-/1066/952282/-/964yaez/-/)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gB7YMEDuCwwY9ncDOtPAkEI4-H2wD9GOQN000)
 2. [BBC News](http://news.bbc.co.uk/1/hi/world/africa/10507680.stm)
-3. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gB7YMEDuCwwY9ncDOtPAkEI4-H2wD9GOQN000)
-4. [CNN](http://edition.cnn.com/2010/WORLD/africa/07/05/somalia.protests/index.html?hpt=T2&fbid=4I1tbJn2BPy)
+3. [CNN](http://edition.cnn.com/2010/WORLD/africa/07/05/somalia.protests/index.html?hpt=T2&fbid=4I1tbJn2BPy)
+4. [Daily Nation Kenya](http://www.nation.co.ke/News/africa/Somali%20pirates%20hijack%20ship%20with%2018%20Filipinos%20on%20board:%20EU/-/1066/952282/-/964yaez/-/)
 
 ### Related:
 

@@ -7,10 +7,10 @@ A painting of a windmill newly attributed to the Dutch master Vincent Van Gogh w
 
 ### Source:
 
-1. [The Times](http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/visual_arts/article7040100.ece)
+1. [CBC News](http://www.cbc.ca/arts/artdesign/story/2010/02/24/van-gogh-authenticated.html)
 2. [Reuters](http://www.reuters.com/article/idUSTRE61N48120100224)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/culture/art/art-news/7309108/The-man-who-cried-Van-Gogh-proved-right-after-all.html)
-4. [CBC News](http://www.cbc.ca/arts/artdesign/story/2010/02/24/van-gogh-authenticated.html)
+4. [The Times](http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/visual_arts/article7040100.ece)
 
 ### Related:
 

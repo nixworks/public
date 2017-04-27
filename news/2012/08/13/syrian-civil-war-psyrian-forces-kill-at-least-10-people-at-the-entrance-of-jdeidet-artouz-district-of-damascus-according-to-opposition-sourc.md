@@ -7,9 +7,9 @@ Rebels in eastern Syria said they downed a government fighter jet on Monday and 
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2012/08/13/world/meast/syria-unrest/index.html)
-2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9472628/Syrian-rebels-claim-to-have-downed-fighter-jet.html)
-3. [Arab News](http://www.arabnews.com/syria%E2%80%99s-un-human-rights-envoy-defects-geneva)
+1. [Arab News](http://www.arabnews.com/syria%E2%80%99s-un-human-rights-envoy-defects-geneva)
+2. [CNN](http://edition.cnn.com/2012/08/13/world/meast/syria-unrest/index.html)
+3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9472628/Syrian-rebels-claim-to-have-downed-fighter-jet.html)
 
 ### Related:
 

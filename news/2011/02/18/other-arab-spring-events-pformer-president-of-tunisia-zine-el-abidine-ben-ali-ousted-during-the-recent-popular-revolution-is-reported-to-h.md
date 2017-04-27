@@ -7,8 +7,8 @@ The 74-year-old ousted Tunisian president, exiled in Saudi Arabia, is said to be
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/02/201121814354399587.html)
-2. [AFP via ''The Australian](http://www.theaustralian.com.au/news/world/saudi-prince-talal-warns-of-uprising-threat/story-e6frg6so-1226008023428)
+1. [AFP via ''The Australian](http://www.theaustralian.com.au/news/world/saudi-prince-talal-warns-of-uprising-threat/story-e6frg6so-1226008023428)
+2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/02/201121814354399587.html)
 
 ### Related:
 

@@ -7,12 +7,12 @@ French President Francois Hollande has said Muslims are the &quot;main victims&q
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2015/01/09/europe/charlie-hebdo-paris-shooting/index.html)
-2. [Herald-Sun](http://www.heraldsun.com.au/news/world/charlie-hebdo-attack-shooting-at-paris-kosher-grocery/story-fni0xs61-1227180200292?from=herald+sun_rss)
-3. [AAP via SBS](http://www.sbs.com.au/news/storystream/charlie-hebdo-gunshots-car-chase-near-manhunt-gunmen)
-4. [CNBC](http://www.cnbc.com/id/102323454)
-5. [MSNBC](http://www.msnbc.com/msnbc/paris-suspects-cornered-hostage-charlie-hebdo)
-6. [BBC](http://www.bbc.com/news/world-europe-30752239)
+1. [AAP via SBS](http://www.sbs.com.au/news/storystream/charlie-hebdo-gunshots-car-chase-near-manhunt-gunmen)
+2. [BBC](http://www.bbc.com/news/world-europe-30752239)
+3. [CNBC](http://www.cnbc.com/id/102323454)
+4. [CNN](http://edition.cnn.com/2015/01/09/europe/charlie-hebdo-paris-shooting/index.html)
+5. [Herald-Sun](http://www.heraldsun.com.au/news/world/charlie-hebdo-attack-shooting-at-paris-kosher-grocery/story-fni0xs61-1227180200292?from=herald+sun_rss)
+6. [MSNBC](http://www.msnbc.com/msnbc/paris-suspects-cornered-hostage-charlie-hebdo)
 
 ### Related:
 

@@ -7,8 +7,8 @@ More than 85 rockets fired on Monday; Hamas claims responsibility for some of la
 
 ### Source:
 
-1. [Jerusalem Post](http://www.jpost.com/Middle-East/Hamas-claims-responsibility-for-rocket-fire-on-Israel-361830)
-2. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/1.603472?utm_source=dlvr.it&utm_medium=twitter)
+1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/1.603472?utm_source=dlvr.it&utm_medium=twitter)
+2. [Jerusalem Post](http://www.jpost.com/Middle-East/Hamas-claims-responsibility-for-rocket-fire-on-Israel-361830)
 
 ### Related:
 
@@ -17,7 +17,7 @@ More than 85 rockets fired on Monday; Hamas claims responsibility for some of la
 3. [Operation Protective Edge:Israel Defense Forces special forces raid a missile launch site in the Gaza Strip and destroy it. ](/news/2014/07/13/operation-protective-edge-pisrael-defense-forces-special-forces-raid-a-missile-launch-site-in-the-gaza-strip-and-destroy-it.md) _Context: Israel Defense Forces, Operation Protective Edge_
 4. [Operation Protective Edge:The death toll in the Gaza Strip since the beginning of Israeli air strikes reaches 120. The IAF has performed over 1,300 airstrikes since the beginning of the operation. ](/news/2014/07/12/operation-protective-edge-pthe-death-toll-in-the-gaza-strip-since-the-beginning-of-israeli-air-strikes-reaches-120-the-iaf-has-performed-ov.md) _Context: Israeli Air Force, Operation Protective Edge_
 5. [The Israeli Air Force attacks a training site of the Palestinian militant group Al Qassam brigades in the southern part of Gaza City in response to a rocket launched from the Gaza Strip at the Israeli southern communities in the Sdot Negev Regional Council in the southern district of Israel. Palestinians reported that three people were killed in the attack and three were wounded. ](/news/2011/03/16/the-israeli-air-force-attacks-a-training-site-of-the-palestinian-militant-group-al-qassam-brigades-in-the-southern-part-of-gaza-city-in-resp.md) _Context: Israeli Air Force, Izz ad-Din al-Qassam Brigades_
-6. [Prime Minister of Israel Benjamin Netanyahu cancels a visit with the foreign minister of Germany Sigmar Gabriel after the latter's refusal to cancel a meeting with the Israel Defense Forces veterans NGO Breaking the Silence. ](/news/2017/04/25/prime-minister-of-israel-benjamin-netanyahu-cancels-a-visit-with-the-foreign-minister-of-germany-sigmar-gabriel-after-the-latter-s-refusal-t.md) _Context: Israel Defense Forces_
+6. [Prime Minister of Israel Benjamin Netanyahu cancels a visit with the foreign minister of Germany Sigmar Gabriel after the latter's refusal to cancel a meeting with the Israel Defense Forces veterans NGO Breaking the Silence saying the group "slanders IDF soldiers as war criminals"](/news/2017/04/25/prime-minister-of-israel-benjamin-netanyahu-cancels-a-visit-with-the-foreign-minister-of-germany-sigmar-gabriel-after-the-latter-s-refusal-t.md) _Context: Israel Defense Forces_
 7. [The Israeli Air Force resumes bombing against suspected Hezbollah-related targets in Syria, with a fourth round of bombings occurring near military sites near Damascus. ](/news/2017/03/22/the-israeli-air-force-resumes-bombing-against-suspected-hezbollah-related-targets-in-syria-with-a-fourth-round-of-bombings-occurring-near-m.md) _Context: Israeli Air Force_
 8. [An Israeli Army tank kills a Palestinian teenager and wounds two others near the Gaza border. ](/news/2017/03/22/an-israeli-army-tank-kills-a-palestinian-teenager-and-wounds-two-others-near-the-gaza-border.md) _Context: Israel Defense Forces_
 9. [The Syrian Army shoots down an Israel Defense Forces (IDF) Skylark drone over Syria's Quneitra Governorate. ](/news/2017/03/20/the-syrian-army-shoots-down-an-israel-defense-forces-idf-skylark-drone-over-syria-s-quneitra-governorate.md) _Context: Israel Defense Forces_

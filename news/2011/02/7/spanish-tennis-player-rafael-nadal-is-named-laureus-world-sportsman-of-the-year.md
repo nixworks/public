@@ -7,9 +7,9 @@ The world tennis number one Rafael Nadal has been named world sportsman of the y
 
 ### Source:
 
-1. [The Australian](http://www.theaustralian.com.au/news/sport/spainish-armada-triumphs-at-laureus-awards/story-e6frg7mf-1226001950746)
+1. [Herald Sun](http://www.heraldsun.com.au/sport/gallery-e6frf9if-1226001933198?page=1)
 2. [Radio New Zealand](http://www.radionz.co.nz/news/sport/68000/nadal-and-vonn-win-laureus-awards)
-3. [Herald Sun](http://www.heraldsun.com.au/sport/gallery-e6frf9if-1226001933198?page=1)
+3. [The Australian](http://www.theaustralian.com.au/news/sport/spainish-armada-triumphs-at-laureus-awards/story-e6frg7mf-1226001950746)
 
 ### Related:
 

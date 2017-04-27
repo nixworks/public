@@ -7,8 +7,8 @@ Fears have been raised about democracy after the National Assembly was stripped 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-venezuela-politics-idUSKBN17122M)
-2. [BBC](http://www.bbc.com/news/world-latin-america-39449494)
+1. [BBC](http://www.bbc.com/news/world-latin-america-39449494)
+2. [Reuters](http://www.reuters.com/article/us-venezuela-politics-idUSKBN17122M)
 
 ### Related:
 

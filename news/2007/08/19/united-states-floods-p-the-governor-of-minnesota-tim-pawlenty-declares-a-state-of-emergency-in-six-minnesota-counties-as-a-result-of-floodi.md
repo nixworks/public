@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via West Central Tribune](http://www.wctrib.com/ap/index.cfm?page=view&id=D8R4GRRG1)
-2. [AP via Forbes](http://www.forbes.com/feeds/ap/2007/08/20/ap4034047.html)
+1. [AP via Forbes](http://www.forbes.com/feeds/ap/2007/08/20/ap4034047.html)
+2. [AP via West Central Tribune](http://www.wctrib.com/ap/index.cfm?page=view&id=D8R4GRRG1)
 3. [Reuters via New Zealand Herald](http://www.nzherald.co.nz/section/2/story.cfm?c_id=2&objectid=10458804)
 
 ### Related:

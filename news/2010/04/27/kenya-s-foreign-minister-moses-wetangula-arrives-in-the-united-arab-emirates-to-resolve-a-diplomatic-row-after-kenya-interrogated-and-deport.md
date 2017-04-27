@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Kenyan Standard](http://www.standardmedia.co.ke/sports/InsidePage.php?id=2000008528&cid=457)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8646155.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8646155.stm)
+2. [Kenyan Standard](http://www.standardmedia.co.ke/sports/InsidePage.php?id=2000008528&cid=457)
 
 ### Related:
 

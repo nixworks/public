@@ -8,9 +8,9 @@
 ### Source:
 
 1. [Bangkok Post](http://www.bangkokpost.com/news/asia/156587/suu-kyi-talks-sanctions-with-western-diplomats-us)
-2. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6867787.ece)
+2. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/10/09/myanmar.suukyi/)
 3. [Irish Examiner](http://www.examiner.ie/breakingnews/world/burmas-aung-san-suu-kyi-in-remarkable-form-429523.html)
-4. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/10/09/myanmar.suukyi/)
+4. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6867787.ece)
 
 ### Related:
 

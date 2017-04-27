@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=entertainmentNews&storyID=2005-05-26T151916Z_01_MOL655115_RTRUKOC_0_FRANCE-DUTCH-ARREST.xml)
-2. [Expatica](http://www.expatica.com/source/site_article.asp?subchannel_id=19&story_id=20434&name=Chechen+man+held+in+Van+Gogh+murder+investigation)
+1. [Expatica](http://www.expatica.com/source/site_article.asp?subchannel_id=19&story_id=20434&name=Chechen+man+held+in+Van+Gogh+murder+investigation)
+2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=entertainmentNews&storyID=2005-05-26T151916Z_01_MOL655115_RTRUKOC_0_FRANCE-DUTCH-ARREST.xml)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [France 24](http://www.france24.com/en/20091003-rebels-kill-six-government-soldiers-military-says-senegal-casamance-africa)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/8288676.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/8288676.stm)
+2. [France 24](http://www.france24.com/en/20091003-rebels-kill-six-government-soldiers-military-says-senegal-casamance-africa)
 
 ### Related:
 

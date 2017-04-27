@@ -7,10 +7,10 @@ Supreme Leader Ayatollah Ali Khamenei formally endorsed the second term presiden
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8180811.stm)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/08/20098334852945651.html)
-3. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE5720ST20090803)
-4. [Press TV](http://www.presstv.ir/detail.aspx?id=102345&sectionid=351020101)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/08/20098334852945651.html)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8180811.stm)
+3. [Press TV](http://www.presstv.ir/detail.aspx?id=102345&sectionid=351020101)
+4. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE5720ST20090803)
 
 ### Related:
 

@@ -8,8 +8,8 @@ The White House warns Syria it will take &quot;additional steps&quot; if Damascu
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-13304000)
-2. [The Australian](http://www.theaustralian.com.au/news/breaking-news/five-dead-in-syria-day-of-defiance/story-fn3dxity-1226051498960)
-3. [CNN](http://www.cnn.com/2011/WORLD/meast/05/06/syria.unrest/index.html)
+2. [CNN](http://www.cnn.com/2011/WORLD/meast/05/06/syria.unrest/index.html)
+3. [The Australian](http://www.theaustralian.com.au/news/breaking-news/five-dead-in-syria-day-of-defiance/story-fn3dxity-1226051498960)
 4. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=219544)
 
 ### Related:

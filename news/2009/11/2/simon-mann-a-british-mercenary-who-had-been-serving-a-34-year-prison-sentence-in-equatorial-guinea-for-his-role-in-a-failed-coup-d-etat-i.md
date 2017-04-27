@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2009/nov/02/simon-mann-pardoned-equatorial-guinea)
-2. [CNN](http://edition.cnn.com/2009/WORLD/africa/11/03/guinea.coup.pardon/)
+1. [CNN](http://edition.cnn.com/2009/WORLD/africa/11/03/guinea.coup.pardon/)
+2. [The Guardian](http://www.guardian.co.uk/world/2009/nov/02/simon-mann-pardoned-equatorial-guinea)
 
 ### Related:
 

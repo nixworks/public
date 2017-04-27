@@ -7,8 +7,8 @@ Edhi created a charitable empire out of nothing, masterminding Pakistan&rsquo;s 
 
 ### Source:
 
-1. [Pakistan Today](http://www.pakistantoday.com.pk/2016/07/08/national/edhi-sahib-put-on-ventilator-prayers-needed/)
-2. [Dawn News](http://www.dawn.com/news/1267583)
+1. [Dawn News](http://www.dawn.com/news/1267583)
+2. [Pakistan Today](http://www.pakistantoday.com.pk/2016/07/08/national/edhi-sahib-put-on-ventilator-prayers-needed/)
 
 ### Related:
 

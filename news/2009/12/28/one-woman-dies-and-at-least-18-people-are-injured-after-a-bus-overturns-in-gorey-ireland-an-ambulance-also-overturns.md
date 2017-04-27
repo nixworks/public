@@ -7,8 +7,8 @@ A woman in her 40s has been killed and 18 others injured after a minibus overtur
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2009/1228/rta.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8432787.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8432787.stm)
+2. [RTÉ](http://www.rte.ie/news/2009/1228/rta.html)
 
 ### Related:
 

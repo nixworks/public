@@ -7,5 +7,5 @@ The Senate will today conduct another round of ministerial screening as nominees
 
 ### Source:
 
-1. [thenationonlineng.ne](http://thenationonlineng.net/ministerial-screening-amaechis-response-to-senate/)
-2. [naij.com](https://www.naij.com/613666-nigerian-senate-continues-ministerial-screening-live-update-2.html)
+1. [naij.com](https://www.naij.com/613666-nigerian-senate-continues-ministerial-screening-live-update-2.html)
+2. [thenationonlineng.ne](http://thenationonlineng.net/ministerial-screening-amaechis-response-to-senate/)

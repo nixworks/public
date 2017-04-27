@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2012/feb/19/senegal-protests-president-abdoulaye-wade)
-2. [Africasia](http://www.africasia.com/services/news_africa/article.php?ID=CNG.0da26a67d1722e0e7b5d87bdd30d9048.a81)
+1. [Africasia](http://www.africasia.com/services/news_africa/article.php?ID=CNG.0da26a67d1722e0e7b5d87bdd30d9048.a81)
+2. [The Guardian](http://www.guardian.co.uk/world/2012/feb/19/senegal-protests-president-abdoulaye-wade)
 
 ### Related:
 

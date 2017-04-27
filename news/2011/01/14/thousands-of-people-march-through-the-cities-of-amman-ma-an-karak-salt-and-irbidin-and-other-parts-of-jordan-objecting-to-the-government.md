@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Press TV](http://www.presstv.ir/detail/160179.html)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iIn12gP42mT9OPGneUjyI_SlmP5w?docId=CNG.7f112945a269a13e0b728d52293b7648.791)
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/20111141219337111.html)
-3. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE70D3AQ20110114)
-4. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iIn12gP42mT9OPGneUjyI_SlmP5w?docId=CNG.7f112945a269a13e0b728d52293b7648.791)
+3. [Press TV](http://www.presstv.ir/detail/160179.html)
+4. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE70D3AQ20110114)
 
 ### Related:
 

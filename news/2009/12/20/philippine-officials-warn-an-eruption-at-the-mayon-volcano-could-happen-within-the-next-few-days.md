@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Manilla Bulletin](http://www.mb.com.ph/articles/234991/eruption-within-days)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hAsh86J3QWdxWNEaLHMmNk7dMbiQD9CN0JJ80)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hAsh86J3QWdxWNEaLHMmNk7dMbiQD9CN0JJ80)
+2. [Manilla Bulletin](http://www.mb.com.ph/articles/234991/eruption-within-days)
 
 ### Related:
 

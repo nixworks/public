@@ -8,11 +8,11 @@
 ### Source:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/world/europe/7649654.stm)
-2. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article4593424.ece)
-3. [USA Today](http://www.usatoday.com/news/world/2008-10-02-putin-georgia_N.htm?csp=34)
-4. [France24](http://www.france24.com/en/20081002-putin-slams-ukraine-over-georgia-arms-sales-amid-gas-talks)
-5. [Izvestia](http://www.izvestia.ru/investigation/article3121117/)
-6. [Bikilar.Az](http://news.bakililar.az/english_18469.html)
+2. [Bikilar.Az](http://news.bakililar.az/english_18469.html)
+3. [France24](http://www.france24.com/en/20081002-putin-slams-ukraine-over-georgia-arms-sales-amid-gas-talks)
+4. [Izvestia](http://www.izvestia.ru/investigation/article3121117/)
+5. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article4593424.ece)
+6. [USA Today](http://www.usatoday.com/news/world/2008-10-02-putin-georgia_N.htm?csp=34)
 
 ### Related:
 

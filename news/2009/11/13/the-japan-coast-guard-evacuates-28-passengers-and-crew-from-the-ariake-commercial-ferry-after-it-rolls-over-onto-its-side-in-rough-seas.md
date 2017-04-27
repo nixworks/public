@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Mainichi Shimbun](http://mdn.mainichi.jp/mdnnews/news/20091113p2a00m0na002000c.html)
-2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=126&art_id=nw20091113095413629C869292)
+1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=126&art_id=nw20091113095413629C869292)
+2. [Mainichi Shimbun](http://mdn.mainichi.jp/mdnnews/news/20091113p2a00m0na002000c.html)
 
 ### Related:
 

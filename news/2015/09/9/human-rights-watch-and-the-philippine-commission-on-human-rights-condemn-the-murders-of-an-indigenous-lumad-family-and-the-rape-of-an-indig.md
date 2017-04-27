@@ -7,9 +7,9 @@ A dispatch from an international human rights organization criticized on Wednesd
 
 ### Source:
 
-1. [The Philippine Star](http://www.philstar.com/headlines/2015/09/09/1497798/aquino-hit-disappointingly-predictable-reaction-lumad-killings)
+1. [Human Rights Watch](https://www.hrw.org/news/2015/09/08/dispatches-killings-philippine-tribal-members-spark-public-furor)
 2. [Rappler](http://www.rappler.com/newsbreak/in-depth/105272-lumad-eastern-mindanao-war)
-3. [Human Rights Watch](https://www.hrw.org/news/2015/09/08/dispatches-killings-philippine-tribal-members-spark-public-furor)
+3. [The Philippine Star](http://www.philstar.com/headlines/2015/09/09/1497798/aquino-hit-disappointingly-predictable-reaction-lumad-killings)
 
 ### Related:
 

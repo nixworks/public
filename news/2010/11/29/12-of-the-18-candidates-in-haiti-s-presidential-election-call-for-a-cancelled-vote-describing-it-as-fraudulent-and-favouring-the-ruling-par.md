@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11856118)
-2. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/11/201011295115818229.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/11/201011295115818229.html)
+2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11856118)
 
 ### Related:
 

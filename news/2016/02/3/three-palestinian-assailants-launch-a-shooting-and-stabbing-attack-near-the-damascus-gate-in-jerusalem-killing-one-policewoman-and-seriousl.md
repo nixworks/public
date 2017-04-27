@@ -7,8 +7,8 @@ Hadar Cohen of Or Yehuda succumbs to wounds in hospital, second officer in serio
 
 ### Source:
 
-1. [The Times of Israel](http://www.timesofisrael.com/border-police-officer-19-dies-after-jerusalem-terror-attack/)
-2. [AP](http://bigstory.ap.org/article/fb8c335ff2f24c0aa993115196424f8c/gazas-hamas-rulers-says-2-fighters-dead-tunnel-collapse)
+1. [AP](http://bigstory.ap.org/article/fb8c335ff2f24c0aa993115196424f8c/gazas-hamas-rulers-says-2-fighters-dead-tunnel-collapse)
+2. [The Times of Israel](http://www.timesofisrael.com/border-police-officer-19-dies-after-jerusalem-terror-attack/)
 
 ### Related:
 

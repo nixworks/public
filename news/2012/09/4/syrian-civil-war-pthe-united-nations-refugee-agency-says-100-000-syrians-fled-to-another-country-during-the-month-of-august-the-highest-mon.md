@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Voice of America](http://www.voanews.com/content/un-says-100-thousand-syrians-fled-in-august/1501178.html)
-2. [AP via Yahoo! News](http://news.yahoo.com/red-cross-chief-syria-fighting-rages-090507935.html)
+1. [AP via Yahoo! News](http://news.yahoo.com/red-cross-chief-syria-fighting-rages-090507935.html)
+2. [Voice of America](http://www.voanews.com/content/un-says-100-thousand-syrians-fled-in-august/1501178.html)
 
 ### Related:
 

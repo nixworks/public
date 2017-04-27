@@ -7,8 +7,8 @@ Pelicans guard Bryce Dejean-Jones, 23, has died of a gunshot wound to the abdome
 
 ### Source:
 
-1. [ESPN](http://espn.go.com/nba/story/_/id/15792680/new-orleans-pelicans-guard-bryce-dejean-jones-dies-gunshot-wound-abdomen)
-2. [Bleacher Report](http://bleacherreport.com/articles/2642958-bryce-dejean-jones-pelicans-guard-dies-at-age-23)
+1. [Bleacher Report](http://bleacherreport.com/articles/2642958-bryce-dejean-jones-pelicans-guard-dies-at-age-23)
+2. [ESPN](http://espn.go.com/nba/story/_/id/15792680/new-orleans-pelicans-guard-bryce-dejean-jones-dies-gunshot-wound-abdomen)
 
 ### Related:
 

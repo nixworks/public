@@ -7,9 +7,9 @@ A suicide bombing at an Iraqi army base north of Baghdad has killed at least 28 
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2008/07/16/world/middleeast/16iraq.html)
+1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080715/ap_on_re_mi_ea/iraq)
 2. [RTÉ](http://www.rte.ie/news/2008/0715/iraq.html)
-3. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080715/ap_on_re_mi_ea/iraq)
+3. [The New York Times](http://www.nytimes.com/2008/07/16/world/middleeast/16iraq.html)
 
 ### Related:
 

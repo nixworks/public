@@ -7,8 +7,8 @@ Politicians in Nepal fail for a third time to elect a new prime minister after b
 
 ### Source:
 
-1. [Indian Express](http://www.indianexpress.com/news/Another-day-of-voting--but-Nepal-fails-to-elect-PM/655239)
-2. [BBC](http://www.bbc.co.uk/news/world-south-asia-10847485)
+1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10847485)
+2. [Indian Express](http://www.indianexpress.com/news/Another-day-of-voting--but-Nepal-fails-to-elect-PM/655239)
 3. [Kantipur](http://www.ekantipur.com/2010/08/02/top-story/third-bid-to-pick-new-pm-fails-to-make-headway/319701/)
 
 ### Related:

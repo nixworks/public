@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Philippine Inquirer](http://newsinfo.inquirer.net/breakingnews/nation/view/20090927-227130/73-dead-more-than-300000-displaced-by-Ondoy)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8277018.stm)
 2. [China Daily](http://www.chinadaily.com.cn/world/2009-09/27/content_8743411.htm)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8277018.stm)
+3. [Philippine Inquirer](http://newsinfo.inquirer.net/breakingnews/nation/view/20090927-227130/73-dead-more-than-300000-displaced-by-Ondoy)
 
 ### Related:
 

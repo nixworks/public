@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://in.today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-08-17T154120Z_01_NOOTR_RTRJONC_0_India-212914-1.xml)
-2. [CNA](http://www.channelnewsasia.com/stories/singaporelocalnews/view/163595/1/.html)
+1. [CNA](http://www.channelnewsasia.com/stories/singaporelocalnews/view/163595/1/.html)
+2. [Reuters](http://in.today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-08-17T154120Z_01_NOOTR_RTRJONC_0_India-212914-1.xml)
 
 ### Related:
 

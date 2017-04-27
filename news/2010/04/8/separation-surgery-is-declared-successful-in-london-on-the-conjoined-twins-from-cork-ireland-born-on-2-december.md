@@ -7,12 +7,12 @@ A 14-hour operation to separate conjoined twins, Hassan and Hussein Benhaffaf fr
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/europe/04/08/uk.conjoined.twins/index.html)
-2. [Sky News](http://news.sky.com/skynews/Home/UK-News/Conjoined-Twins-Hassan-and-Hussein-Benhaffaf-Have-Been-Successfully-Separated-Great-Ormond-Street/Article/201004215597379?lpos=UK_News_Carousel_Region_1&lid=ARTICLE_15597379_Conjoined_Twins_Hassan_and_Hussein_Benhaffaf_Have_Been_Successfully_Separated%2C_Great_Ormond_Street)
+1. [BBC](http://news.bbc.co.uk/2/hi/health/8609487.stm)
+2. [CNN](http://edition.cnn.com/2010/WORLD/europe/04/08/uk.conjoined.twins/index.html)
 3. [Irish Examiner](http://www.examiner.ie/breakingnews/ireland/twins-stable-after-operation-453159.html)
-4. [The Daily Telegraph](http://www.telegraph.co.uk/health/healthnews/7567206/Conjoined-twins-successfully-separated.html)
-5. [RTÉ](http://www.rte.ie/news/2010/0408/benhaffaf.html)
-6. [BBC](http://news.bbc.co.uk/2/hi/health/8609487.stm)
+4. [RTÉ](http://www.rte.ie/news/2010/0408/benhaffaf.html)
+5. [Sky News](http://news.sky.com/skynews/Home/UK-News/Conjoined-Twins-Hassan-and-Hussein-Benhaffaf-Have-Been-Successfully-Separated-Great-Ormond-Street/Article/201004215597379?lpos=UK_News_Carousel_Region_1&lid=ARTICLE_15597379_Conjoined_Twins_Hassan_and_Hussein_Benhaffaf_Have_Been_Successfully_Separated%2C_Great_Ormond_Street)
+6. [The Daily Telegraph](http://www.telegraph.co.uk/health/healthnews/7567206/Conjoined-twins-successfully-separated.html)
 
 ### Related:
 

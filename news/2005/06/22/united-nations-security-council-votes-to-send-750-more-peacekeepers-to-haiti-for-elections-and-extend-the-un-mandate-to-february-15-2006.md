@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=14697&Cr=haiti&Cr1=)
-2. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/HMYT-6DLM46?OpenDocument)
+1. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/HMYT-6DLM46?OpenDocument)
+2. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=14697&Cr=haiti&Cr1=)
 
 ### Related:
 

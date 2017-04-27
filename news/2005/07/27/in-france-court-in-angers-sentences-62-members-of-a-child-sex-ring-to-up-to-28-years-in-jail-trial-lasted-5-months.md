@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-07-27T180301Z_01_KWA764934_RTRUKOC_0_FRANCE-PAEDOPHILES.xml)
-2. [Euronews](http://euronews.net/create_html.php?page=detail_info&article=301297&lng=1)
+1. [Euronews](http://euronews.net/create_html.php?page=detail_info&article=301297&lng=1)
+2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-07-27T180301Z_01_KWA764934_RTRUKOC_0_FRANCE-PAEDOPHILES.xml)
 
 ### Related:
 

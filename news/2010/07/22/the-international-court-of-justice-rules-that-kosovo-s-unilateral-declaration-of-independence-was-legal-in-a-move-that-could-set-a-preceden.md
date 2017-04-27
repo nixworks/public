@@ -7,9 +7,9 @@ Serbia rejects World Court ruling saying it will never recognise Kosovo independ
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2010/jul/22/kosovo-breakaway-serbia-legal-world-court)
+1. [Al-Jazeera](http://english.aljazeera.net/news/europe/2010/07/201072213840362357.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-10721897)
-3. [Al-Jazeera](http://english.aljazeera.net/news/europe/2010/07/201072213840362357.html)
+3. [The Guardian](http://www.guardian.co.uk/world/2010/jul/22/kosovo-breakaway-serbia-legal-world-court)
 
 ### Related:
 

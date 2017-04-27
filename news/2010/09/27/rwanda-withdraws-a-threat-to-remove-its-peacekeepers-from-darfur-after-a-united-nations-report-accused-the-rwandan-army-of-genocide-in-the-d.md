@@ -7,9 +7,9 @@ UN chief Ban Ki-moon thanks Rwanda for dropping its threat to withdraw peacekeep
 
 ### Source:
 
-1. [The East African](http://www.theeastafrican.co.ke/OpEd/letters/Rwanda%20committed%20to%20African%20peace/-/434756/1018348/-/4tqqbg/-/)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ilu2FiLQ_eAlFa-Jl065PDYBPsXw)
-3. [BBC](http://www.bbc.co.uk/news/world-africa-11417721)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ilu2FiLQ_eAlFa-Jl065PDYBPsXw)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-11417721)
+3. [The East African](http://www.theeastafrican.co.ke/OpEd/letters/Rwanda%20committed%20to%20African%20peace/-/434756/1018348/-/4tqqbg/-/)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/T348402.htm)
-2. [Mainichi Daily News](http://mdn.mainichi.co.jp/news/20050202p2a00m0dm004000c.html)
+1. [Mainichi Daily News](http://mdn.mainichi.co.jp/news/20050202p2a00m0dm004000c.html)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/T348402.htm)
 
 ### Related:
 

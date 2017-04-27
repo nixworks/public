@@ -7,10 +7,10 @@ A chief provider and curator of Catholic information on the web since 1996. Our 
 
 ### Source:
 
-1. [Catholic News Service](http://www.catholicnews.com/data/stories/cns/0501484.htm)
-2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=entertainmentNews&storyID=2005-03-15T180221Z_01_L15123548_RTRIDST_0_ENTERTAINMENT-ARTS-VATICAN-DAVINCI-DC.XML)
+1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/4350625.stm)
+2. [Catholic News Service](http://www.catholicnews.com/data/stories/cns/0501484.htm)
 3. [Catholic World News](http://www.cwnews.com/news/viewstory.cfm?recnum=35873)
-4. [BBC](http://news.bbc.co.uk/2/hi/entertainment/4350625.stm)
+4. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=entertainmentNews&storyID=2005-03-15T180221Z_01_L15123548_RTRIDST_0_ENTERTAINMENT-ARTS-VATICAN-DAVINCI-DC.XML)
 
 ### Related:
 

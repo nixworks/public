@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Los Angeles Times](http://latimesblogs.latimes.com/world_now/2012/05/deadly-earthquake-italy.html)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-18135898)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-18135898)
+2. [Los Angeles Times](http://latimesblogs.latimes.com/world_now/2012/05/deadly-earthquake-italy.html)
 
 ### Related:
 

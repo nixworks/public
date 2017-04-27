@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/1.609933)
-2. [BBC](http://www.bbc.com/news/world-middle-east-28738955)
+1. [BBC](http://www.bbc.com/news/world-middle-east-28738955)
+2. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/1.609933)
 
 ### Related:
 

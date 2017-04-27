@@ -7,8 +7,8 @@ The charter bus swerved into a support pole, apparently at full speed, and trapp
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/news/us-news/bus-crash-merced-california-kills-least-five-n621531)
-2. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-merced-county-bus-crash-20160802-snap-story.html)
+1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-merced-county-bus-crash-20160802-snap-story.html)
+2. [NBC News](http://www.nbcnews.com/news/us-news/bus-crash-merced-california-kills-least-five-n621531)
 
 ### Related:
 

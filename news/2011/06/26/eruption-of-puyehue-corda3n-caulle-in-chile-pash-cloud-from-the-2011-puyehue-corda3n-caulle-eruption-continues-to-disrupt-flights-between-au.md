@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Sydney Morning Herald](http://www.smh.com.au/travel/travel-news/ash-cloud-prevents-nz-flights-20110626-1gl9m.html)
-2. [AP via AM 1150](http://www.am1150.ca/News/World/Article.aspx?id=291451)
+1. [AP via AM 1150](http://www.am1150.ca/News/World/Article.aspx?id=291451)
+2. [The Sydney Morning Herald](http://www.smh.com.au/travel/travel-news/ash-cloud-prevents-nz-flights-20110626-1gl9m.html)
 
 ### Related:
 

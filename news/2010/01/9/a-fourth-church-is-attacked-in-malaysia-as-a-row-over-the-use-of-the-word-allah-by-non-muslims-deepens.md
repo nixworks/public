@@ -7,9 +7,9 @@ Arsonists in Malaysia struck a fourth church on Saturday as the government tried
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE6080MV20100109)
-2. [Sydney Morning Herald](http://www.smh.com.au/world/fourth-church-firebombed-20100109-m06k.html)
-3. [Malayasian Star](http://thestar.com.my/news/story.asp?file=/2010/1/9/nation/20100109161228&sec=nation)
+1. [Malayasian Star](http://thestar.com.my/news/story.asp?file=/2010/1/9/nation/20100109161228&sec=nation)
+2. [Reuters](http://www.reuters.com/article/idUSTRE6080MV20100109)
+3. [Sydney Morning Herald](http://www.smh.com.au/world/fourth-church-firebombed-20100109-m06k.html)
 
 ### Related:
 

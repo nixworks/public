@@ -7,10 +7,10 @@ Five-day strike to begin on Monday after union offer is rejected by airline.
 
 ### Source:
 
-1. [Wall Street Journal](http://online.wsj.com/article/SB10001424052748704226004575262540440791112.html?mod=rss_whats_news_us)
+1. [Al Jazeera](http://english.aljazeera.net/business/2010/2010/05/2010523192721186371.html)
 2. [The Australian](http://www.theaustralian.com.au/business/aviation/british-airways-to-cancel-flights-as-striking-union-seeks-concessions/story-e6frg95x-1225870353605)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/travel/travelnews/7756349/British-Airways-strike-on-as-talks-collapse.html)
-4. [Al Jazeera](http://english.aljazeera.net/business/2010/2010/05/2010523192721186371.html)
+4. [Wall Street Journal](http://online.wsj.com/article/SB10001424052748704226004575262540440791112.html?mod=rss_whats_news_us)
 
 ### Related:
 

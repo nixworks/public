@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Newt Gingrich Youtube Channel](http://www.youtube.com/watch?v=xRSz21Vedxc)
-2. [CNN](http://www.cnn.com/2011/POLITICS/05/11/gingrich/index.html?on.cnn=2)
+1. [CNN](http://www.cnn.com/2011/POLITICS/05/11/gingrich/index.html?on.cnn=2)
+2. [Newt Gingrich Youtube Channel](http://www.youtube.com/watch?v=xRSz21Vedxc)
 
 ### Related:
 

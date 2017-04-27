@@ -9,12 +9,12 @@ One of the biggest earthquakes in recorded history rocked Chile on Saturday, kil
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8540742.stm)
 2. [BBC](http://news.bbc.co.uk/2/hi/in_depth/8540289.stm)
-3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/southamerica/chile/7332468/Chile-earthquake-tsunami-hits-New-Zealand.html)
+3. [China Daily](http://www.chinadaily.com.cn/world/2010-02/27/content_9514234.htm)
 4. [Pacific Tsunami Warning Center](http://www.prh.noaa.gov/ptwc/messages/pacific/2010/pacific.2010.02.27.064454.txt)
-5. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/southamerica/chile/7333424/Chile-earthquake-Hawaii-braced-for-tsunami.html)
-6. [The Los Angeles Times](http://www.latimes.com/news/nation-and-world/la-fg-chile-earthquake28-2010feb28,0,2152464.story)
-7. [China Daily](http://www.chinadaily.com.cn/world/2010-02/27/content_9514234.htm)
-8. [Sky News](http://news.sky.com/skynews/Home/World-News/Chile-Earthquake-Measuring-88-On-The-Richter-Scale-Hits-Concepcion-And-Capital-Santiago/Article/201002415561008?lpos=World_News_Carousel_Region_0&lid=ARTICLE_15561008_Chile%3A_Earthquake_Measuring_8.8_On_The_Richter_Scale%2C_Hits_Concepcion_And_Capital_Santiago)
+5. [Sky News](http://news.sky.com/skynews/Home/World-News/Chile-Earthquake-Measuring-88-On-The-Richter-Scale-Hits-Concepcion-And-Capital-Santiago/Article/201002415561008?lpos=World_News_Carousel_Region_0&lid=ARTICLE_15561008_Chile%3A_Earthquake_Measuring_8.8_On_The_Richter_Scale%2C_Hits_Concepcion_And_Capital_Santiago)
+6. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/southamerica/chile/7332468/Chile-earthquake-tsunami-hits-New-Zealand.html)
+7. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/southamerica/chile/7333424/Chile-earthquake-Hawaii-braced-for-tsunami.html)
+8. [The Los Angeles Times](http://www.latimes.com/news/nation-and-world/la-fg-chile-earthquake28-2010feb28,0,2152464.story)
 
 ### Related:
 

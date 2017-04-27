@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://africa.reuters.com/top/news/usnBAN837755.html)
-2. [Herald Sun via Reuters](http://www.news.com.au/heraldsun/story/0,21985,21930034-5005961,00.html)
+1. [Herald Sun via Reuters](http://www.news.com.au/heraldsun/story/0,21985,21930034-5005961,00.html)
+2. [Reuters](http://africa.reuters.com/top/news/usnBAN837755.html)
 
 ### Related:
 

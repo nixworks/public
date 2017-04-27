@@ -8,8 +8,8 @@ SALEM, N.C. (Reuters) - A U.S. federal court on Tuesday set a March 15 deadline 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-north-carolina-gerrymander-idUSKBN13P0E4)
-2. [WCTI-TV](http://www.wcti12.com/news/state/the-latest-mccrory-still-resists-calls-to-concede-election_/192321074)
-3. [The New York Times](http://www.nytimes.com/2016/11/29/us/north-carolina-governor-race.html)
+2. [The New York Times](http://www.nytimes.com/2016/11/29/us/north-carolina-governor-race.html)
+3. [WCTI-TV](http://www.wcti12.com/news/state/the-latest-mccrory-still-resists-calls-to-concede-election_/192321074)
 
 ### Related:
 

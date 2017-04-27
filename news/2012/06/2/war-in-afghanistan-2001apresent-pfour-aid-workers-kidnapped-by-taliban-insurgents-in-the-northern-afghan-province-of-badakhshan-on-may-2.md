@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [ISAF](http://www.isaf.nato.int/article/isaf-releases/isaf-forces-rescue-four-civilians-from-taliban.html)
-2. [CNN](http://edition.cnn.com/2012/06/02/world/asia/afghanistan-kidnapping/index.html?hpt=hp_t3)
+1. [CNN](http://edition.cnn.com/2012/06/02/world/asia/afghanistan-kidnapping/index.html?hpt=hp_t3)
+2. [ISAF](http://www.isaf.nato.int/article/isaf-releases/isaf-forces-rescue-four-civilians-from-taliban.html)
 
 ### Related:
 

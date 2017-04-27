@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Caboodle.hu](http://www.caboodle.hu/nc/news/news_archive/single_page/article/11/shooting_spr/?cHash=145edd3d48)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8380822.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8380822.stm)
+2. [Caboodle.hu](http://www.caboodle.hu/nc/news/news_archive/single_page/article/11/shooting_spr/?cHash=145edd3d48)
 
 ### Related:
 

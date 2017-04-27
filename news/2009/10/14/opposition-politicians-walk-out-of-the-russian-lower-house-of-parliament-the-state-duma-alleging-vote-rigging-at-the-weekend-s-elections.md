@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Malaysia Star](http://thestar.com.my/news/story.asp?file=/2009/10/14/worldupdates/2009-10-14T141438Z_01_NOOTR_RTRMDNC_0_-431483-1&sec=Worldupdates)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8307709.stm)
-3. [RIA Novosti](http://en.rian.ru/russia/20091014/156463070.html)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8307709.stm)
+2. [RIA Novosti](http://en.rian.ru/russia/20091014/156463070.html)
+3. [The Malaysia Star](http://thestar.com.my/news/story.asp?file=/2009/10/14/worldupdates/2009-10-14T141438Z_01_NOOTR_RTRMDNC_0_-431483-1&sec=Worldupdates)
 
 ### Related:
 

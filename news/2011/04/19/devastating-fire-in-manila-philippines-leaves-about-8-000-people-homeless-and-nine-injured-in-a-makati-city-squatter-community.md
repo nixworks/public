@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Mindanao Examiner](http://www.mindanaoexaminer.com/news.php?news_id=20110419054542)
+1. [AP via Greenfield Daily Reporter](http://www.greenfieldreporter.com/view/story/3345734442094115ab1b7e89432af264/AS--Philippines-Big-Fire/)
 2. [Inquirer](http://newsinfo.inquirer.net/inquirerheadlines/metro/view/20110419-332144/Makati-fire-displaces-2500-families)
-3. [AP via Greenfield Daily Reporter](http://www.greenfieldreporter.com/view/story/3345734442094115ab1b7e89432af264/AS--Philippines-Big-Fire/)
+3. [Mindanao Examiner](http://www.mindanaoexaminer.com/news.php?news_id=20110419054542)
 
 ### Related:
 

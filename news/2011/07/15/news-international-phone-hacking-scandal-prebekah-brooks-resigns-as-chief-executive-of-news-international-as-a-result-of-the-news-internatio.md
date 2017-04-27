@@ -7,21 +7,21 @@ News&#x20;International&#x20;chief&#x20;Rebekah&#x20;Brooks&#x20;resigned&#x20;F
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/blog/2011/jul/15/catholicism-pope-benedict-xvi)
-2. [BBC](http://www.bbc.co.uk/news/world-us-canada-14170879)
-3. [AP via ABC News](http://abcnews.go.com/Technology/wireStory?id=14083348)
-4. [The Guardian](http://www.guardian.co.uk/media/2011/jul/15/david-cameron-andy-coulson-chequers-hosted)
-5. [BBC](http://www.bbc.co.uk/news/uk-14169737)
-6. [The Washington Post](http://www.washingtonpost.com/politics/congress/murdochs-refuse-then-agree-to-be-questioned-by-uk-parliament-fbi-opens-911-hacking-review/2011/07/15/gIQAwxNTFI_story.html?hpid=z1&wpisrc=al_national)
-7. [BBC](http://www.bbc.co.uk/news/uk-14169731)
-8. [AFP via France24](http://www.france24.com/en/20110715-uk-media-murdoch-news-international-rebekah-brooks-resigns)
-9. [The Independent](http://www.independent.co.uk/news/uk/crime/the-sun-enters-frame-as-jude-law-makes-new-hacking-claims-2314496.html)
+1. [AFP via France24](http://www.france24.com/en/20110715-uk-media-murdoch-news-international-rebekah-brooks-resigns)
+2. [AP via ABC News](http://abcnews.go.com/Technology/wireStory?id=14083348)
+3. [BBC](http://www.bbc.co.uk/news/uk-14169731)
+4. [BBC](http://www.bbc.co.uk/news/uk-14169737)
+5. [BBC](http://www.bbc.co.uk/news/world-latin-america-14162647)
+6. [BBC](http://www.bbc.co.uk/news/world-us-canada-14170879)
+7. [The Guardian](http://www.guardian.co.uk/media/2011/jul/15/david-cameron-andy-coulson-chequers-hosted)
+8. [The Guardian](http://www.guardian.co.uk/media/2011/jul/15/rebekah-brooks-resigns-phone-hacking-scandal)
+9. [The Guardian](http://www.guardian.co.uk/media/2011/jul/15/rupert-murdoch-gordon-brown-interview)
 10. [The Guardian](http://www.guardian.co.uk/media/interactive/2011/jul/15/rupert-murdoch-phone-hacking-apology-ad)
-11. [BBC](http://www.bbc.co.uk/news/world-latin-america-14162647)
-12. [The Guardian](http://www.guardian.co.uk/media/2011/jul/15/rebekah-brooks-resigns-phone-hacking-scandal)
+11. [The Guardian](http://www.guardian.co.uk/world/blog/2011/jul/15/catholicism-pope-benedict-xvi)
+12. [The Independent](http://www.independent.co.uk/news/uk/crime/the-sun-enters-frame-as-jude-law-makes-new-hacking-claims-2314496.html)
 13. [The New York Times](http://www.nytimes.com/2011/07/16/world/europe/16hacking.html?)
-14. [The Guardian](http://www.guardian.co.uk/media/2011/jul/15/rupert-murdoch-gordon-brown-interview)
-15. [The New York Times](http://www.nytimes.com/2011/07/16/world/europe/16hacking.html?hp)
+14. [The New York Times](http://www.nytimes.com/2011/07/16/world/europe/16hacking.html?hp)
+15. [The Washington Post](http://www.washingtonpost.com/politics/congress/murdochs-refuse-then-agree-to-be-questioned-by-uk-parliament-fbi-opens-911-hacking-review/2011/07/15/gIQAwxNTFI_story.html?hpid=z1&wpisrc=al_national)
 
 ### Related:
 

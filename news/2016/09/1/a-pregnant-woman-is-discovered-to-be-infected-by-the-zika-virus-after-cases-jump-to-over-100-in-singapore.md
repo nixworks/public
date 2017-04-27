@@ -7,8 +7,8 @@ Singapore, a city-state about two-thirds the size of Washington, D.C., has 115 c
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/storyline/zika-virus-outbreak/cdc-says-pregnant-women-should-avoid-zika-affected-singapore-n640681)
-2. [Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/malaysia-confirms-first-case-of-zika-infection-health-minister/3091280.html)
+1. [Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/malaysia-confirms-first-case-of-zika-infection-health-minister/3091280.html)
+2. [NBC News](http://www.nbcnews.com/storyline/zika-virus-outbreak/cdc-says-pregnant-women-should-avoid-zika-affected-singapore-n640681)
 
 ### Related:
 

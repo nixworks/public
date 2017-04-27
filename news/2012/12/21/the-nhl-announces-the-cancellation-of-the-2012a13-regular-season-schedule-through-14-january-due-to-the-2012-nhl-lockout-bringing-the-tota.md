@@ -7,9 +7,9 @@ With no end in sight to the 96-day-old NHL lockout, the league announced Thursda
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/sports/nhl/2012/12/20/nhl-lockout-canceling-games/1782863/)
+1. [ESPN](http://espn.go.com/nhl/story/_/id/8767262/nhl-cancels-additional-games-jan-14)
 2. [NHL](http://www.nhl.com/ice/news.htm?id=648084)
-3. [ESPN](http://espn.go.com/nhl/story/_/id/8767262/nhl-cancels-additional-games-jan-14)
+3. [USA Today](http://www.usatoday.com/story/sports/nhl/2012/12/20/nhl-lockout-canceling-games/1782863/)
 
 ### Related:
 

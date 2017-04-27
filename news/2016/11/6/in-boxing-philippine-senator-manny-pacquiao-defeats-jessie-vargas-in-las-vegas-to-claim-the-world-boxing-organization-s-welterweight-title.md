@@ -7,8 +7,8 @@ Round-by-round report: Manny Pacquiao challenged for – and claimed – Jessie 
 
 ### Source:
 
-1. [The Guardian](https://www.theguardian.com/sport/live/2016/nov/05/manny-pacquiao-jessie-vargas-fight-live)
-2. [AAP via Yahoo! News](https://au.news.yahoo.com/a/33120583/pacquiao-beats-vargas-to-claim-wbo-title/#page1)
+1. [AAP via Yahoo! News](https://au.news.yahoo.com/a/33120583/pacquiao-beats-vargas-to-claim-wbo-title/#page1)
+2. [The Guardian](https://www.theguardian.com/sport/live/2016/nov/05/manny-pacquiao-jessie-vargas-fight-live)
 
 ### Related:
 

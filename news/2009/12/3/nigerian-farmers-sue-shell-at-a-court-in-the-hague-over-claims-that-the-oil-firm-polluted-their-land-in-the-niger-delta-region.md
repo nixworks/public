@@ -7,9 +7,9 @@ Four Nigerian farmers will launch a ground-breaking pollution claim against oil 
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/business/news/farmers-sue-shell-over-oil-spills-in-niger-delta-1833087.html)
-2. [Forbes](http://www.forbes.com/feeds/ap/2009/12/03/general-energy-eu-netherlands-shell-sued_7180083.html)
-3. [NEXT](http://234next.com/csp/cms/sites/Next/News/National/5490664-146/Two_Nigerians_sue_Shell_at_The.csp)
+1. [Forbes](http://www.forbes.com/feeds/ap/2009/12/03/general-energy-eu-netherlands-shell-sued_7180083.html)
+2. [NEXT](http://234next.com/csp/cms/sites/Next/News/National/5490664-146/Two_Nigerians_sue_Shell_at_The.csp)
+3. [The Independent](http://www.independent.co.uk/news/business/news/farmers-sue-shell-over-oil-spills-in-niger-delta-1833087.html)
 
 ### Related:
 

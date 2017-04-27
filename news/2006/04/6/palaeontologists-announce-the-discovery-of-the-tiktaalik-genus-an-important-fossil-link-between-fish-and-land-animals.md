@@ -7,8 +7,8 @@ The 375 million-year-old fish fossil exhibits changes that anticipate the emerge
 
 ### Source:
 
-1. [Guardian](http://www.guardian.co.uk/science/story/0,,1747926,00.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/science/nature/4879672.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/4879672.stm)
+2. [Guardian](http://www.guardian.co.uk/science/story/0,,1747926,00.html)
 3. [New York Times](http://www.nytimes.com/2006/04/05/science/05cnd-fossil.html?hp&ex=1144296000&en=fe3427d67e965e46&ei=5094&partner=homepage)
 
 ### Related:

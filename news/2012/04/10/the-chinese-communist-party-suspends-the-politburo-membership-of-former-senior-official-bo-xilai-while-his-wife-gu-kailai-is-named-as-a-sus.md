@@ -7,8 +7,8 @@ The wife of Bo Xilai, who had been seen as one of the handful of rising leaders 
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/world/china/China-suspends-Bo-Xilai-from-Communist-Party-politburo-wife-suspected-of-murder/articleshow/12613421.cms)
-2. [New York Times](http://www.nytimes.com/2012/04/11/world/asia/detained-party-official-facing-ouster-from-politburo.html?hp)
+1. [New York Times](http://www.nytimes.com/2012/04/11/world/asia/detained-party-official-facing-ouster-from-politburo.html?hp)
+2. [Times of India](http://timesofindia.indiatimes.com/world/china/China-suspends-Bo-Xilai-from-Communist-Party-politburo-wife-suspected-of-murder/articleshow/12613421.cms)
 
 ### Related:
 

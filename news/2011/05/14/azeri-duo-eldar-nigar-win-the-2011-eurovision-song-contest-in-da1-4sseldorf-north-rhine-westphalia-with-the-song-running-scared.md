@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/ten/2011/0514/jedwardtracker.html)
+1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-13387886)
 2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,6525002,00.html)
-3. [BBC](http://www.bbc.co.uk/news/entertainment-arts-13387886)
+3. [RTÉ](http://www.rte.ie/ten/2011/0514/jedwardtracker.html)
 
 ### Related:
 

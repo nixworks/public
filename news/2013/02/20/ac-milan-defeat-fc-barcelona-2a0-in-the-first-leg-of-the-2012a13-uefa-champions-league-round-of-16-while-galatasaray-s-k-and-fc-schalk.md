@@ -7,8 +7,8 @@ Kevin-Prince Boateng and Sulley Muntari goals give AC Milan the advantage as the
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/football/2013/feb/20/galatasaray-schalke-champions-league-match-report)
-2. [BBC](http://www.bbc.co.uk/sport/0/football/21498968)
+1. [BBC](http://www.bbc.co.uk/sport/0/football/21498968)
+2. [The Guardian](http://www.guardian.co.uk/football/2013/feb/20/galatasaray-schalke-champions-league-match-report)
 
 ### Related:
 

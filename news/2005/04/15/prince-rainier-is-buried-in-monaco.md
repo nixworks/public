@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2005/WORLD/europe/04/14/monaco.funeral/)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/4446965.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4446965.stm)
+2. [CNN](http://edition.cnn.com/2005/WORLD/europe/04/14/monaco.funeral/)
 
 ### Related:
 

@@ -8,8 +8,8 @@ A suicide bomber tried to assassinate the head of Saudi Arabia’s antiterrorism
 ### Source:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jCT8DQitylyzMv_NflHTMQe_1B9gD9ABJD8G1)
-2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/08/27/AR2009082704189.html?wprss=rss_world/wires)
-3. [NY Times](http://www.nytimes.com/2009/08/29/world/middleeast/29saudi.html)
+2. [NY Times](http://www.nytimes.com/2009/08/29/world/middleeast/29saudi.html)
+3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/08/27/AR2009082704189.html?wprss=rss_world/wires)
 
 ### Related:
 

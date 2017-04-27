@@ -7,8 +7,8 @@ India refuses permission for the mining group Vedanta to extract bauxite in the 
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/business/india-business/Govt-rejects-Vedanta-mining-plan-on-green-worries/articleshow/6425009.cms)
-2. [BBC](http://www.bbc.co.uk/news/world-south-asia-11067678)
+1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11067678)
+2. [Times of India](http://timesofindia.indiatimes.com/business/india-business/Govt-rejects-Vedanta-mining-plan-on-green-worries/articleshow/6425009.cms)
 
 ### Related:
 

@@ -7,13 +7,13 @@
 
 ### Source:
 
-1. [Sydney Morning Herald](http://www.smh.com.au/news/world/fiji-coup-sees-us-halt-aid/2006/12/06/1165080979613.html?page=fullpage#contentSwap1)
-2. [Fiji Times](http://www.fijitimes.com/story.aspx?id=53030)
+1. [CNN](http://www.cnn.com/2006/WORLD/asiapcf/12/06/fiji.coup.ap/index.html)
+2. [Fiji Times](http://www.fijitimes.com/print.aspx?id=52994)
 3. [Fiji Times](http://www.fijitimes.com/story.aspx?id=53023)
-4. [The NZ Herald](http://www.nzherald.co.nz/section/story.cfm?c_id=2&ObjectID=10414033)
-5. [CNN](http://www.cnn.com/2006/WORLD/asiapcf/12/06/fiji.coup.ap/index.html)
-6. [Fiji Times](http://www.fijitimes.com/print.aspx?id=52994)
-7. [Fiji Times](http://www.fijitimes.com/story.aspx?id=53034)
+4. [Fiji Times](http://www.fijitimes.com/story.aspx?id=53030)
+5. [Fiji Times](http://www.fijitimes.com/story.aspx?id=53034)
+6. [Sydney Morning Herald](http://www.smh.com.au/news/world/fiji-coup-sees-us-halt-aid/2006/12/06/1165080979613.html?page=fullpage#contentSwap1)
+7. [The NZ Herald](http://www.nzherald.co.nz/section/story.cfm?c_id=2&ObjectID=10414033)
 
 ### Related:
 

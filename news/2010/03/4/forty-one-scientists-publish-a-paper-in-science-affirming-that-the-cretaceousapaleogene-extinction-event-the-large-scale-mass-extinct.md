@@ -7,8 +7,8 @@ A giant asteroid smashing into Earth is the only plausible explanation for the e
 
 ### Source:
 
-1. [Science](http://www.sciencemag.org/cgi/content/abstract/327/5970/1214)
-2. [Science](http://www.reuters.com/article/idUSTRE6233YW20100304)
+1. [Science](http://www.reuters.com/article/idUSTRE6233YW20100304)
+2. [Science](http://www.sciencemag.org/cgi/content/abstract/327/5970/1214)
 
 ### Related:
 

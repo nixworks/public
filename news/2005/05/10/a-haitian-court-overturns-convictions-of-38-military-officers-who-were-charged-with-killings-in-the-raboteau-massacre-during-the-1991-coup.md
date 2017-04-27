@@ -7,9 +7,9 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/americas/4531737.stm)
-2. [Jamaica Observer](http://www.jamaicaobserver.com/news/html/20050510T000000-0500_80211_OBS_HAITIAN_MILITARY_LEADERS_IN______COUP_KILLINGS_FREED.asp)
-3. [ABC](http://abcnews.go.com/International/wireStory?id=742990)
+1. [ABC](http://abcnews.go.com/International/wireStory?id=742990)
+2. [BBC](http://news.bbc.co.uk/2/hi/americas/4531737.stm)
+3. [Jamaica Observer](http://www.jamaicaobserver.com/news/html/20050510T000000-0500_80211_OBS_HAITIAN_MILITARY_LEADERS_IN______COUP_KILLINGS_FREED.asp)
 
 ### Related:
 

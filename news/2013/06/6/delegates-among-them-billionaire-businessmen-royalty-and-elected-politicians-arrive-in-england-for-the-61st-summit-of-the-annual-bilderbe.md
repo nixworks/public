@@ -7,9 +7,9 @@ Leading politicians and business people among some 130 attending conference
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/news/world/uk/bilderberg-delegates-meet-at-luxury-english-hotel-1.1419420)
-2. [RT](http://rt.com/news/bilderberg-2013-watford-uk-britain-327/)
-3. [The Guardian](http://www.guardian.co.uk/world/2013/jun/06/bilderberg-2013-day-one)
+1. [RT](http://rt.com/news/bilderberg-2013-watford-uk-britain-327/)
+2. [The Guardian](http://www.guardian.co.uk/world/2013/jun/06/bilderberg-2013-day-one)
+3. [The Irish Times](http://www.irishtimes.com/news/world/uk/bilderberg-delegates-meet-at-luxury-english-hotel-1.1419420)
 
 ### Related:
 

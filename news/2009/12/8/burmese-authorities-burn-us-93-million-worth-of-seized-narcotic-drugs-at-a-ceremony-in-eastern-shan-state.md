@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2009-12/08/content_12612880.htm)
-2. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Myanmar-destroys-seized-drugs-worth-93million/articleshow/5315270.cms)
+1. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Myanmar-destroys-seized-drugs-worth-93million/articleshow/5315270.cms)
+2. [Xinhua](http://news.xinhuanet.com/english/2009-12/08/content_12612880.htm)
 
 ### Related:
 

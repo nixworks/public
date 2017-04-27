@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=healthNews&storyID=2005-02-07T183837Z_01_N07575465_RTRIDST_0_HEALTH-CUBA-SMOKING-DC.XML)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/4241897.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4241897.stm)
+2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=healthNews&storyID=2005-02-07T183837Z_01_N07575465_RTRIDST_0_HEALTH-CUBA-SMOKING-DC.XML)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Admiral says some lives could have been spared had a warning been issued earlier
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/americas/8548152.stm)
-2. [The Independent](http://www.independent.co.uk/news/world/americas/quake-survivor-i-did-not-support-pinochet-but-now-we-could-do-with-him-1914917.html)
-3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/03/201033135219590999.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/03/201033135219590999.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/americas/8548152.stm)
+3. [The Independent](http://www.independent.co.uk/news/world/americas/quake-survivor-i-did-not-support-pinochet-but-now-we-could-do-with-him-1914917.html)
 
 ### Related:
 

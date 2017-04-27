@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reporters Without Borders](http://www.rsf.org/article.php3?id_article=26322)
-2. [CNN](http://edition.cnn.com/2008/WORLD/europe/03/24/torch.relay/index.html)
+1. [CNN](http://edition.cnn.com/2008/WORLD/europe/03/24/torch.relay/index.html)
+2. [Reporters Without Borders](http://www.rsf.org/article.php3?id_article=26322)
 
 ### Related:
 

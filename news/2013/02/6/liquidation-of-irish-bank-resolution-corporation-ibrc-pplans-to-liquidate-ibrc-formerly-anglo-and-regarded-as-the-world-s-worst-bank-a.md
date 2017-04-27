@@ -7,13 +7,13 @@ The Dáil is debating emergency legislation to wind up the Irish Bank Resolution
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/business/2013/feb/06/anglo-irish-on-brink-liquidation)
-2. [Examiner](http://www.irishexaminer.com/breakingnews/ireland/seanad-on-standby-amid-anglo-irish-bank-speculation-583859.html)
-3. [Irish Central](http://www.irishcentral.com/news/The-worlds-worst-bank-Anglo-Irishs-Dublin-HQ-to-be-converted-into-a-coffee-shop-189792391.html)
-4. [RTÉ News](http://www.rte.ie/news/2013/0206/366521-ecb-promissory-note-anglo/)
-5. [Examiner](http://www.irishexaminer.com/breakingnews/ireland/dail-prepares-to-vote-on-ibrc-liquidation-583883.html)
-6. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2013/0206/breaking55.html)
-7. [BBC](http://www.bbc.co.uk/news/business-21361339)
+1. [BBC](http://www.bbc.co.uk/news/business-21361339)
+2. [Examiner](http://www.irishexaminer.com/breakingnews/ireland/dail-prepares-to-vote-on-ibrc-liquidation-583883.html)
+3. [Examiner](http://www.irishexaminer.com/breakingnews/ireland/seanad-on-standby-amid-anglo-irish-bank-speculation-583859.html)
+4. [Irish Central](http://www.irishcentral.com/news/The-worlds-worst-bank-Anglo-Irishs-Dublin-HQ-to-be-converted-into-a-coffee-shop-189792391.html)
+5. [RTÉ News](http://www.rte.ie/news/2013/0206/366521-ecb-promissory-note-anglo/)
+6. [The Guardian](http://www.guardian.co.uk/business/2013/feb/06/anglo-irish-on-brink-liquidation)
+7. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2013/0206/breaking55.html)
 
 ### Related:
 

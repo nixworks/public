@@ -7,8 +7,8 @@ Journalist union pays $200 fine to release woman jailed for indecency.
 
 ### Source:
 
-1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jAZW89qny-VUhcZoGjzigD5oegKwD9AJAJDO0)
-2. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/09/200998152754685257.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/09/200998152754685257.html)
+2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jAZW89qny-VUhcZoGjzigD5oegKwD9AJAJDO0)
 
 ### Related:
 

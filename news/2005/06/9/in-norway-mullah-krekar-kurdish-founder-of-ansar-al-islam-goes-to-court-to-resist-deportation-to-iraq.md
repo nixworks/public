@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/BA0A8E8C-8813-41AF-B85A-BDCA7B4D9CAB.htm)
-2. [Kurdishmedia](http://www.kurdmedia.com/news.asp?id=7040)
-3. [Aftenposten](http://www.aftenposten.no/english/local/article1056170.ece)
+1. [Aftenposten](http://www.aftenposten.no/english/local/article1056170.ece)
+2. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/BA0A8E8C-8813-41AF-B85A-BDCA7B4D9CAB.htm)
+3. [Kurdishmedia](http://www.kurdmedia.com/news.asp?id=7040)
 
 ### Related:
 

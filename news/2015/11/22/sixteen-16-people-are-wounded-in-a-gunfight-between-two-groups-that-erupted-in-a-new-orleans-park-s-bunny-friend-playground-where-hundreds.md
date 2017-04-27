@@ -7,8 +7,8 @@ A weekend shootout that wounded 17 people, including a 10-year-old boy, in a New
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/11/23/us-louisiana-shooting-idUSKBN0TC06820151123#l1IkeJjFDtO8sOjP.97)
-2. [NOLA.com](http://www.nola.com/crime/index.ssf/2015/11/at_least_10_victims_of_bunny_f.html)
+1. [NOLA.com](http://www.nola.com/crime/index.ssf/2015/11/at_least_10_victims_of_bunny_f.html)
+2. [Reuters](http://www.reuters.com/article/2015/11/23/us-louisiana-shooting-idUSKBN0TC06820151123#l1IkeJjFDtO8sOjP.97)
 
 ### Related:
 

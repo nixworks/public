@@ -7,12 +7,12 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-03/28/c_13800624.htm)
-2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/03/201132681812362552.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/03/201132681812362552.html)
+2. [CNN](http://edition.cnn.com/2011/WORLD/meast/03/27/syria.unrest/?hpt=T2)
 3. [News24](http://www.news24.com/World/News/Nato-takes-over-Lybia-no-fly-zone-20110327)
 4. [Reuters](http://www.reuters.com/article/2011/03/27/us-syria-idUSTRE72N2MC20110327)
 5. [Taiwan News](http://www.taiwannews.com.tw/etn/news_content.php?id=1555035)
-6. [CNN](http://edition.cnn.com/2011/WORLD/meast/03/27/syria.unrest/?hpt=T2)
+6. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-03/28/c_13800624.htm)
 
 ### Related:
 

@@ -7,8 +7,8 @@ RAGING bushfires that destroyed 64 homes are contained and under control but res
 
 ### Source:
 
-1. [WA Today](http://www.watoday.com.au/environment/weather/twin-bushfires-rage-out-of-control-in-perth-suburbs-20110206-1ai22.html)
-2. [Perth Now](http://www.perthnow.com.au/news/western-australia/huge-blaze-sparks-evacuations-in-perths-northeast/story-e6frg143-1226001214279)
+1. [Perth Now](http://www.perthnow.com.au/news/western-australia/huge-blaze-sparks-evacuations-in-perths-northeast/story-e6frg143-1226001214279)
+2. [WA Today](http://www.watoday.com.au/environment/weather/twin-bushfires-rage-out-of-control-in-perth-suburbs-20110206-1ai22.html)
 
 ### Related:
 

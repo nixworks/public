@@ -8,9 +8,9 @@ Five-time Grand Slam winner Maria Sharapova reveals she failed a drugs test at t
 ### Source:
 
 1. [AP via ''The Times-Picayune](http://www.nola.com/sports/index.ssf/2016/03/maria_sharapova_admits_failing.html)
-2. [Reuters](http://www.reuters.com/article/us-tennis-sharapova-idUSKCN0W929E)
+2. [BBC](http://www.bbc.com/sport/tennis/35750285)
 3. [Fox Sports](http://www.foxsports.com/tennis/story/nike-maria-sharapova-suspends-deal-positive-drug-test-030716)
-4. [BBC](http://www.bbc.com/sport/tennis/35750285)
+4. [Reuters](http://www.reuters.com/article/us-tennis-sharapova-idUSKCN0W929E)
 
 ### Related:
 

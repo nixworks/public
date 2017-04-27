@@ -7,11 +7,11 @@ Victims of child abuse by Catholic priests in Italy have met for the first time,
 
 ### Source:
 
-1. [The Jakarta Post](http://www.thejakartapost.com/news/2010/09/25/italian-victims-pedophile-clerics-gather.html)
+1. [AP via ''The Age](http://news.theage.com.au/breaking-news-world/italian-pedophile-victims-seek-support-20100926-15rvt.html)
 2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/09/2010925183941335156.html)
 3. [BBC](http://www.bbc.co.uk/news/world-europe-11413050)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/0925/1224279656596.html)
-5. [AP via ''The Age](http://news.theage.com.au/breaking-news-world/italian-pedophile-victims-seek-support-20100926-15rvt.html)
+5. [The Jakarta Post](http://www.thejakartapost.com/news/2010/09/25/italian-victims-pedophile-clerics-gather.html)
 
 ### Related:
 

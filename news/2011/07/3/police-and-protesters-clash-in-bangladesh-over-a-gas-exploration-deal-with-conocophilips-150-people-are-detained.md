@@ -7,8 +7,8 @@ Police in Bangladesh clash with protesters during a strike against a gas explora
 
 ### Source:
 
-1. [Bangladesh News](http://www.bdnews24.com/details.php?id=199958&cid=3)
-2. [BBC](http://www.bbc.co.uk/news/world-south-asia-14006936)
+1. [BBC](http://www.bbc.co.uk/news/world-south-asia-14006936)
+2. [Bangladesh News](http://www.bdnews24.com/details.php?id=199958&cid=3)
 
 ### Related:
 

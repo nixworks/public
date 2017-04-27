@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Daily Times'' Pakistan](http://www.dailytimes.com.pk/default.asp?page=2009\11\28\story_28-11-2009_pg1_8)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5j36S4F9OudmOMKtFZAL75YCNo00Q)
-3. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/11/28/pakistan.amnesty.zardari/)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5j36S4F9OudmOMKtFZAL75YCNo00Q)
+2. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/11/28/pakistan.amnesty.zardari/)
+3. [Daily Times'' Pakistan](http://www.dailytimes.com.pk/default.asp?page=2009\11\28\story_28-11-2009_pg1_8)
 
 ### Related:
 

@@ -7,12 +7,12 @@ Russia formally recognized the independence of South Ossetia and Abkhazia in a c
 
 ### Source:
 
-1. [Warsaw Business Journal](http://www.wbj.pl/article-42326-moscow-recognizes-georgian-rebel-regions.html?typ=wbj)
-2. [The Local](http://www.thelocal.se/13948/20080826/)
+1. [AP via Google News](http://ap.google.com/article/ALeqM5gQYe039zkquHxitiI6u4M_TRr_BAD92Q3UP80)
+2. [Earth Times](http://www.earthtimes.org/articles/show/228066,russia-recognizes-independence-of-georgias-rebel-regions--2nd-update.html)
 3. [Rustavi 2](http://rustavi2.com/news/news_text.php?id_news=27608&pg=1&im=main&ct=0&wth=)
-4. [The New York Times](http://www.nytimes.com/2008/08/27/world/europe/27russia.html)
-5. [Earth Times](http://www.earthtimes.org/articles/show/228066,russia-recognizes-independence-of-georgias-rebel-regions--2nd-update.html)
-6. [AP via Google News](http://ap.google.com/article/ALeqM5gQYe039zkquHxitiI6u4M_TRr_BAD92Q3UP80)
+4. [The Local](http://www.thelocal.se/13948/20080826/)
+5. [The New York Times](http://www.nytimes.com/2008/08/27/world/europe/27russia.html)
+6. [Warsaw Business Journal](http://www.wbj.pl/article-42326-moscow-recognizes-georgian-rebel-regions.html?typ=wbj)
 
 ### Related:
 

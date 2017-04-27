@@ -7,12 +7,12 @@ After weeks of anticipation, speculation and debate, Euro 2012 finally gets unde
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/football/2012/jun/08/racist-chants-holland-uefa)
+1. [Al Jazeera](http://www.aljazeera.com/sport/football/2012/06/20126715512928466.html)
 2. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-18364819)
-3. [BBC](http://www.bbc.co.uk/sport/0/football/18363736)
+3. [BBC](http://www.bbc.co.uk/sport/0/football/18339071)
 4. [BBC](http://www.bbc.co.uk/sport/0/football/18355986)
-5. [Al Jazeera](http://www.aljazeera.com/sport/football/2012/06/20126715512928466.html)
-6. [BBC](http://www.bbc.co.uk/sport/0/football/18339071)
+5. [BBC](http://www.bbc.co.uk/sport/0/football/18363736)
+6. [The Guardian](http://www.guardian.co.uk/football/2012/jun/08/racist-chants-holland-uefa)
 
 ### Related:
 

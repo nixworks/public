@@ -7,8 +7,8 @@ The Facebook and Instagram ban applies to private, person-to-person sales of gun
 
 ### Source:
 
-1. [The Christian Science Monitor](http://www.csmonitor.com/USA/Society/2016/0130/Why-Facebook-is-banning-gun-sales-from-site)
-2. [CNBC](http://www.cnbc.com/2016/01/30/)
+1. [CNBC](http://www.cnbc.com/2016/01/30/)
+2. [The Christian Science Monitor](http://www.csmonitor.com/USA/Society/2016/0130/Why-Facebook-is-banning-gun-sales-from-site)
 
 ### Related:
 

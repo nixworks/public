@@ -8,9 +8,9 @@
 ### Source:
 
 1. [DPA via Monsters and Critics.com](http://news.monstersandcritics.com/europe/news/article_1379048.php/Alternative_Nobel_Prizes_awarded_to_peace_work_and_biodiversity)
-2. [The Right Livlihood Award.org](http://www.rightlivelihood.org/schmeiser.html)
+2. [Daily News](http://www.dailynews.lk/2007/11/08/fea01.asp)
 3. [Reuters](http://africa.reuters.com/top/news/usnBAN942432.html)
-4. [Daily News](http://www.dailynews.lk/2007/11/08/fea01.asp)
+4. [The Right Livlihood Award.org](http://www.rightlivelihood.org/schmeiser.html)
 
 ### Related:
 

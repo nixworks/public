@@ -7,9 +7,9 @@ Rivers as big as the Thames in England that may connect sub-glacial lakes have b
 
 ### Source:
 
-1. [nationalgeographic.com](http://news.nationalgeographic.com/news/2006/04/0419_060419_antarctica.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/4908292.stm)
-3. [MSNBC](http://www.msnbc.msn.com/id/12389073/from/RSS)
+1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/4908292.stm)
+2. [MSNBC](http://www.msnbc.msn.com/id/12389073/from/RSS)
+3. [nationalgeographic.com](http://news.nationalgeographic.com/news/2006/04/0419_060419_antarctica.html)
 
 ### Related:
 

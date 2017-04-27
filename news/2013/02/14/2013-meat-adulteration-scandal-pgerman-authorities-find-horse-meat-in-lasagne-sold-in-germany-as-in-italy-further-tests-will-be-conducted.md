@@ -7,9 +7,9 @@ Germany is the latest country to report horsemeat DNA in processed beef, as auth
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-21464052)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-21456388)
-3. [BBC](http://www.bbc.co.uk/news/uk-21466074)
+1. [BBC](http://www.bbc.co.uk/news/uk-21466074)
+2. [BBC](http://www.bbc.co.uk/news/world-21464052)
+3. [BBC](http://www.bbc.co.uk/news/world-europe-21456388)
 4. [CNN](http://edition.cnn.com/2013/02/14/world/europe/uk-horse-meat-probe)
 
 ### Related:

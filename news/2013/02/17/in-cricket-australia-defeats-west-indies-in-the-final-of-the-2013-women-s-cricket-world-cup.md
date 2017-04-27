@@ -7,8 +7,8 @@ Live Cricket News - Latest cricket updates, live cricket scores, cricket fan blo
 
 ### Source:
 
-1. [Cricket Country](http://www.cricketcountry.com/cricket-articles/ICC-Women-s-World-Cup-2013-Australia-beat-West-Indies-by-114-runs-in-final-to-win-tournament/23181)
-2. [BBC Sport](http://www.bbc.co.uk/sport/0/cricket/21473562)
+1. [BBC Sport](http://www.bbc.co.uk/sport/0/cricket/21473562)
+2. [Cricket Country](http://www.cricketcountry.com/cricket-articles/ICC-Women-s-World-Cup-2013-Australia-beat-West-Indies-by-114-runs-in-final-to-win-tournament/23181)
 
 ### Related:
 

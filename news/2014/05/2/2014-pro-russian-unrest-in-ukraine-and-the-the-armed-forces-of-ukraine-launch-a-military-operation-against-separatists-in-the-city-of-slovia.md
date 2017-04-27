@@ -8,8 +8,8 @@ Many rebels have been killed in a government offensive in east Ukraine, acting P
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-27259614#)
-2. [Express](http://www.express.co.uk/news/world/473754/Dozens-killed-by-smoke-as-Ukraine-moves-closer-to-civil-war)
-3. [CNN](http://edition.cnn.com/2014/05/02/world/europe/ukraine-crisis/index.html)
+2. [CNN](http://edition.cnn.com/2014/05/02/world/europe/ukraine-crisis/index.html)
+3. [Express](http://www.express.co.uk/news/world/473754/Dozens-killed-by-smoke-as-Ukraine-moves-closer-to-civil-war)
 
 ### Related:
 

@@ -7,10 +7,10 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8175563)
+1. [China Daily](http://www.chinadaily.com.cn/english/doc/2005-04/14/content_434024.htm)
 2. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-4936157,00.html)
 3. [People's Daily](http://english.people.com.cn/200504/14/eng20050414_181008.html)
-4. [China Daily](http://www.chinadaily.com.cn/english/doc/2005-04/14/content_434024.htm)
+4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8175563)
 
 ### Related:
 

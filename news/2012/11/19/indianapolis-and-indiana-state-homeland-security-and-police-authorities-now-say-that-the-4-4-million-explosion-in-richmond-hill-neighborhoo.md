@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Indianapolis Star](http://www.indystar.com/article/20121119/NEWS/121119040/Authorities-call-Richmond-Hill-explosion-homicide-case-seek-details-white-van?odyssey=tab%7Ctopnews%7Ctext%7CIndyStar.com&nclick_check=1)
-2. [MSN](http://news.msn.com/us/ind-home-explosion-now-homicide-investigation)
+1. [MSN](http://news.msn.com/us/ind-home-explosion-now-homicide-investigation)
+2. [The Indianapolis Star](http://www.indystar.com/article/20121119/NEWS/121119040/Authorities-call-Richmond-Hill-explosion-homicide-case-seek-details-white-van?odyssey=tab%7Ctopnews%7Ctext%7CIndyStar.com&nclick_check=1)
 
 ### Related:
 

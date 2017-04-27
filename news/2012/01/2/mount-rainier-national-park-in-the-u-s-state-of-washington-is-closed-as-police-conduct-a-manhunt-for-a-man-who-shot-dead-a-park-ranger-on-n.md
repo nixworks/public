@@ -7,9 +7,9 @@ Authorities close down Mount Rainier National Park to search for suspect believe
 
 ### Source:
 
-1. [CBS News Video](http://www.youtube.com/watch?v=p2SV_Hwpu-w)
-2. [CBS News](http://www.cbsnews.com/8301-201_162-57350762/park-ranger-killed-by-gunman-in-national-park/)
-3. [BBC](http://www.bbc.co.uk/news/world-us-canada-16387103)
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-16387103)
+2. [CBS News Video](http://www.youtube.com/watch?v=p2SV_Hwpu-w)
+3. [CBS News](http://www.cbsnews.com/8301-201_162-57350762/park-ranger-killed-by-gunman-in-national-park/)
 
 ### Related:
 

@@ -7,10 +7,10 @@ At least 345 people die in a stampede on a bridge during festival celebrations i
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE6AL5AV20101122?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
-2. [AP](http://hosted.ap.org/dynamic/stories/A/AS_CAMBODIA_STAMPEDE?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
-3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-11/23/c_13617617.htm)
-4. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11814894)
+1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_CAMBODIA_STAMPEDE?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11814894)
+3. [Reuters](http://www.reuters.com/article/idUSTRE6AL5AV20101122?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-11/23/c_13617617.htm)
 
 ### Related:
 

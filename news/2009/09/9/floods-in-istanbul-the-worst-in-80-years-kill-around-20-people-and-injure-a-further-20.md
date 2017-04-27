@@ -7,8 +7,8 @@ Flash floods killed 31 people in northwest Turkey, sweeping through the city of 
 
 ### Source:
 
-1. [Today's Zaman](http://www.todayszaman.com/tz-web/detaylar.do?load=detay&link=120671)
-2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE5883I620090909)
+1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE5883I620090909)
+2. [Today's Zaman](http://www.todayszaman.com/tz-web/detaylar.do?load=detay&link=120671)
 
 ### Related:
 

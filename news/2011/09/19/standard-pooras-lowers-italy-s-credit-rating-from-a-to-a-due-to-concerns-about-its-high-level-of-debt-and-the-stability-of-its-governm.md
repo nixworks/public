@@ -7,8 +7,8 @@ Standard and Poor&#039;s has downgraded its ratings on Italy, a major surprise t
 
 ### Source:
 
-1. [Reuters via ''Sydney Morning Herald](http://www.smh.com.au/business/world-business/sp-surprises-with-cut-to-italian-debt-rating-20110920-1kiiu.html)
-2. [Bloomberg](http://www.bloomberg.com/news/2011-09-19/italy-s-credit-rating-cut-one-level-to-a-by-s-p-as-government-debt-mounts.html)
+1. [Bloomberg](http://www.bloomberg.com/news/2011-09-19/italy-s-credit-rating-cut-one-level-to-a-by-s-p-as-government-debt-mounts.html)
+2. [Reuters via ''Sydney Morning Herald](http://www.smh.com.au/business/world-business/sp-surprises-with-cut-to-italian-debt-rating-20110920-1kiiu.html)
 
 ### Related:
 

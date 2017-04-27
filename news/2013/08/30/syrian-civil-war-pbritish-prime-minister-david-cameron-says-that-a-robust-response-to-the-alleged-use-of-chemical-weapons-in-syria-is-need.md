@@ -7,12 +7,12 @@ A &quot;robust response&quot; to the alleged use of chemical weapons in Syria is
 
 ### Source:
 
-1. [France 24](http://www.france24.com/en/20130830-syria-says-us-evidence-chemical-attack-fabricated)
+1. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/08/201383092454338355.html)
 2. [BBC](http://www.bbc.co.uk/news/uk-politics-23898551)
 3. [BBC](http://www.bbc.co.uk/news/world-middle-east-23906913)
-4. [The Guardian](http://www.theguardian.com/world/2013/aug/29/un-inspectors-syria-strikes)
-5. [Yahoo! News](http://ca.news.yahoo.com/u-n-analysis-syria-samples-could-two-weeks-215409317.html)
-6. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/08/201383092454338355.html)
+4. [France 24](http://www.france24.com/en/20130830-syria-says-us-evidence-chemical-attack-fabricated)
+5. [The Guardian](http://www.theguardian.com/world/2013/aug/29/un-inspectors-syria-strikes)
+6. [Yahoo! News](http://ca.news.yahoo.com/u-n-analysis-syria-samples-could-two-weeks-215409317.html)
 
 ### Related:
 

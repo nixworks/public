@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-26337693)
-2. [The Moscow Times](http://www.themoscowtimes.com/news/article/bolotnoye-suspects-get-prison-time/495164.html)
-3. [RFE/RL](http://www.rferl.org/content/a-specter-is-haunting-russia/25275752.html)
+2. [RFE/RL](http://www.rferl.org/content/a-specter-is-haunting-russia/25275752.html)
+3. [The Moscow Times](http://www.themoscowtimes.com/news/article/bolotnoye-suspects-get-prison-time/495164.html)
 
 ### Related:
 

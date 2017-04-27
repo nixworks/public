@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE66C0ME20100713)
-2. [BBC Sport](http://news.bbc.co.uk/sport2/hi/olympic_games/8816647.stm)
+1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/olympic_games/8816647.stm)
+2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE66C0ME20100713)
 
 ### Related:
 

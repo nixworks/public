@@ -7,8 +7,8 @@ Three Chinese astronauts launch on their Long March rocket for a 15-day mission 
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2013/06/11/world/asia/china-space-mission/index.html)
-2. [BBC](http://www.bbc.co.uk/news/science-environment-22843318)
+1. [BBC](http://www.bbc.co.uk/news/science-environment-22843318)
+2. [CNN](http://edition.cnn.com/2013/06/11/world/asia/china-space-mission/index.html)
 
 ### Related:
 

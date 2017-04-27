@@ -7,9 +7,9 @@ Human rights groups havecriticised sentences handed out on Monday to three low-r
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSL3E7CO0EK20110124)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/01/201112463525794602.html)
-3. [Jakarta Post](http://www.thejakartapost.com/news/2011/01/24/indonesia-torture-video-soldiers-jailed.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/01/201112463525794602.html)
+2. [Jakarta Post](http://www.thejakartapost.com/news/2011/01/24/indonesia-torture-video-soldiers-jailed.html)
+3. [Reuters](http://www.reuters.com/article/idUSL3E7CO0EK20110124)
 
 ### Related:
 

@@ -7,11 +7,11 @@ Gun attacks in two Mexican cities leave at least 39 people dead, police say.
 
 ### Source:
 
-1. [Toronto Sun](http://www.torontosun.com/news/world/2010/06/11/14347081.html)
-2. [Xinhua](http://news.xinhuanet.com/english2010/photo/2010-06/12/c_13346434.htm)
+1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/06/201061114221787507.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/world/latin_america/10296352.stm)
 3. [The AP](http://www.google.com/hostednews/ap/article/ALeqM5gMi5B2USfJStXxfqgWWr2xjRYpOgD9G95AI80)
-4. [Aljazeera](http://english.aljazeera.net/news/americas/2010/06/201061114221787507.html)
-5. [BBC](http://news.bbc.co.uk/2/hi/world/latin_america/10296352.stm)
+4. [Toronto Sun](http://www.torontosun.com/news/world/2010/06/11/14347081.html)
+5. [Xinhua](http://news.xinhuanet.com/english2010/photo/2010-06/12/c_13346434.htm)
 
 ### Related:
 

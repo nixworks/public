@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Science](http://www.sciencemag.org/site/special/btoy2012/)
-2. [Voice of America](http://www.voanews.com/content/higgs-boson-named-top-science-find-of-2012/1573789.html)
-3. [CNN](http://www.cnn.com/2012/12/28/tech/innovation/top-science-stories-2012/)
+1. [CNN](http://www.cnn.com/2012/12/28/tech/innovation/top-science-stories-2012/)
+2. [Science](http://www.sciencemag.org/site/special/btoy2012/)
+3. [Voice of America](http://www.voanews.com/content/higgs-boson-named-top-science-find-of-2012/1573789.html)
 
 ### Related:
 

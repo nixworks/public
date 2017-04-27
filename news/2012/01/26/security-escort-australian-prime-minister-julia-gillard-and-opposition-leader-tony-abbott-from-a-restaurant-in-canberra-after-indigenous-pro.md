@@ -7,8 +7,8 @@ About 200 protesters trapped Prime Minister Julia Gillard and Opposition Leader 
 
 ### Source:
 
-1. [Sydney Morning Herald](http://www.smh.com.au/national/pm---dragged-away-after-being-trapped-by--protesters-20120126-1qj1c.html)
-2. [CNN](http://edition.cnn.com/2012/01/26/world/australia-protests/?hpt=ias_c2)
+1. [CNN](http://edition.cnn.com/2012/01/26/world/australia-protests/?hpt=ias_c2)
+2. [Sydney Morning Herald](http://www.smh.com.au/national/pm---dragged-away-after-being-trapped-by--protesters-20120126-1qj1c.html)
 
 ### Related:
 

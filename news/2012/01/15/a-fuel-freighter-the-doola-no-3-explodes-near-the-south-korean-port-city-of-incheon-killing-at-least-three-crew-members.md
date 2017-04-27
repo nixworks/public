@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Los Angeles Times](http://latimesblogs.latimes.com/world_now/2012/01/north-korean-torpedoing-of-south-korean-ship-oil-ship-explosion-kills-five-crewmen.html)
-2. [CNN](http://www.cnn.com/2012/01/14/world/asia/south-korea-freighter/index.html?hpt=hp_t3)
+1. [CNN](http://www.cnn.com/2012/01/14/world/asia/south-korea-freighter/index.html?hpt=hp_t3)
+2. [Los Angeles Times](http://latimesblogs.latimes.com/world_now/2012/01/north-korean-torpedoing-of-south-korean-ship-oil-ship-explosion-kills-five-crewmen.html)
 3. [MSNBC](http://photoblog.msnbc.msn.com/_news/2012/01/15/10160862-oil-tanker-explosion-kills-5-off-coast-of-south-korea)
 
 ### Related:

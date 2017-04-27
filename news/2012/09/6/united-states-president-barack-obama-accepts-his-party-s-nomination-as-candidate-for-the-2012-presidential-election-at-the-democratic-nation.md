@@ -7,8 +7,8 @@ President Obama will accept the Democratic nomination for a second term inside t
 
 ### Source:
 
-1. [CNN](http://politicslive.cnn.com/Event/2012_Conventions_live_blog?hpt=hp_t1)
-2. [ABC News](http://abcnews.go.com/Politics/OTUS/president-obama-accept-nomination-tonight-democratic-national-convention/story?id=17164822)
+1. [ABC News](http://abcnews.go.com/Politics/OTUS/president-obama-accept-nomination-tonight-democratic-national-convention/story?id=17164822)
+2. [CNN](http://politicslive.cnn.com/Event/2012_Conventions_live_blog?hpt=hp_t1)
 
 ### Related:
 

@@ -7,10 +7,10 @@ Israeli warplanes raided at leasttwo targets in the Gaza Strip on Friday, Palest
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSLDE6AI19P20101119)
-2. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=196019)
-3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3987012,00.html)
-4. [JTA](http://www.jta.org/news/article/2010/11/19/2741823/rockets-launched-into-southern-israel)
+1. [JTA](http://www.jta.org/news/article/2010/11/19/2741823/rockets-launched-into-southern-israel)
+2. [Reuters](http://www.reuters.com/article/idUSLDE6AI19P20101119)
+3. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=196019)
+4. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3987012,00.html)
 
 ### Related:
 

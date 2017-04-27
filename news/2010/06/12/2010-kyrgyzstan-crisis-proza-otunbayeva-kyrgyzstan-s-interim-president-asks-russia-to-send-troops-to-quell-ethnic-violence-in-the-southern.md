@@ -8,11 +8,11 @@
 ### Source:
 
 1. [AP via ''Lethbridge Herald](http://www.lethbridgeherald.com/content/view/199332/112/)
-2. [Arab News](http://arabnews.com/world/article65049.ece)
-3. [Sky News](http://news.sky.com/skynews/Home/World-News/Kyrgyzstan-Appeals-For-Russian-Help-As-Ethnic-Fighting-Kills-At-Least-69-People/Article/201006215648290?lpos=World_News_Top_Stories_Header_3&lid=ARTICLE_15648290_Kyrgyzstan_Appeals_For_Russian_Help_As_Ethnic_Fighting_Kills_At_Least_69_People)
-4. [The Guardian](http://www.guardian.co.uk/world/2010/jun/12/kyrgyzstan-russia-help-ethnic-riots)
-5. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10302611.stm)
-6. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gkjV9bOL3ZoOkyDSTJyIqmIyKqJwD9G9PAHG0)
+2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gkjV9bOL3ZoOkyDSTJyIqmIyKqJwD9G9PAHG0)
+3. [Arab News](http://arabnews.com/world/article65049.ece)
+4. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10302611.stm)
+5. [Sky News](http://news.sky.com/skynews/Home/World-News/Kyrgyzstan-Appeals-For-Russian-Help-As-Ethnic-Fighting-Kills-At-Least-69-People/Article/201006215648290?lpos=World_News_Top_Stories_Header_3&lid=ARTICLE_15648290_Kyrgyzstan_Appeals_For_Russian_Help_As_Ethnic_Fighting_Kills_At_Least_69_People)
+6. [The Guardian](http://www.guardian.co.uk/world/2010/jun/12/kyrgyzstan-russia-help-ethnic-riots)
 7. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/12/c_13347621.htm)
 
 ### Related:

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Voice of Russia](http://voiceofrussia.com/news/2014_06_30/Second-Egypt-police-officer-killed-defusing-bomb-near-presidential-palace-9464/)
-2. [Reuters](http://www.reuters.com/article/2014/06/30/us-egypt-blast-idUSKBN0F50Q720140630)
+1. [Reuters](http://www.reuters.com/article/2014/06/30/us-egypt-blast-idUSKBN0F50Q720140630)
+2. [The Voice of Russia](http://voiceofrussia.com/news/2014_06_30/Second-Egypt-police-officer-killed-defusing-bomb-near-presidential-palace-9464/)
 
 ### Related:
 

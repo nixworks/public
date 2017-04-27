@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [Los Angeles Times](http://www.latimes.com/entertainment/news/la-et-jackson-cirque-20100421,0,1268283.story)
-2. [Xinhua](http://news.xinhuanet.com/english2010/entertainment/2010-04/21/c_13261175.htm)
-3. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8634153.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8634153.stm)
+2. [Financial Times](http://www.ft.com/cms/s/0/efe51e44-4cdb-11df-9977-00144feab49a.html)
+3. [Los Angeles Times](http://www.latimes.com/entertainment/news/la-et-jackson-cirque-20100421,0,1268283.story)
 4. [The Guardian](http://www.guardian.co.uk/music/2010/apr/21/michael-jackson-cirque-du-soleil)
-5. [Financial Times](http://www.ft.com/cms/s/0/efe51e44-4cdb-11df-9977-00144feab49a.html)
+5. [Xinhua](http://news.xinhuanet.com/english2010/entertainment/2010-04/21/c_13261175.htm)
 
 ### Related:
 

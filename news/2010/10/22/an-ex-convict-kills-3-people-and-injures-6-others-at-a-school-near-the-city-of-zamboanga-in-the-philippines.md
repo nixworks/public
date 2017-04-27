@@ -7,8 +7,8 @@ MANILA, Philippines (UPDATE 5) - An ex-convict went on a stabbing spree inside a
 
 ### Source:
 
-1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5js_HW7qaigL2AHa7_qY7i-VTihiA?docId=CNG.2f057538640f1e680daa7203d3609eff.131)
-2. [ABS-CBN News](http://www.abs-cbnnews.com/nation/regions/10/22/10/ex-convict-kills-2-zambo-school-attack)
+1. [ABS-CBN News](http://www.abs-cbnnews.com/nation/regions/10/22/10/ex-convict-kills-2-zambo-school-attack)
+2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5js_HW7qaigL2AHa7_qY7i-VTihiA?docId=CNG.2f057538640f1e680daa7203d3609eff.131)
 
 ### Related:
 

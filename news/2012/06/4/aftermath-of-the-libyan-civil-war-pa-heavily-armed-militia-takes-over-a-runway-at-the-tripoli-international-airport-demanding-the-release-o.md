@@ -7,8 +7,8 @@ Libyan security forces regain control of the main airport in Tripoli, after a mi
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/2012/06/04/uk-libya-trial-ukrainian-idUKBRE8530QT20120604)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-18324501)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-18324501)
+2. [Reuters](http://uk.reuters.com/article/2012/06/04/uk-libya-trial-ukrainian-idUKBRE8530QT20120604)
 
 ### Related:
 

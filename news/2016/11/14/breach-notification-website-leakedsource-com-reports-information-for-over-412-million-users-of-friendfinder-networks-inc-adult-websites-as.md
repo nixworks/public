@@ -7,9 +7,9 @@ Login credentials for over 412 million users of adult websites run by California
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-cyber-hack-friendfinder-idUSKBN13927N)
-2. [The Washington Post](https://www.washingtonpost.com/news/the-switch/wp/2016/11/14/adult-friendfinder-hit-with-one-of-the-biggest-data-breaches-ever-report-says/)
-3. [LeakedSource.com](https://www.leakedsource.com/blog/friendfinder)
+1. [LeakedSource.com](https://www.leakedsource.com/blog/friendfinder)
+2. [Reuters](http://www.reuters.com/article/us-cyber-hack-friendfinder-idUSKBN13927N)
+3. [The Washington Post](https://www.washingtonpost.com/news/the-switch/wp/2016/11/14/adult-friendfinder-hit-with-one-of-the-biggest-data-breaches-ever-report-says/)
 
 ### Related:
 

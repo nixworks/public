@@ -7,8 +7,8 @@ A magnitude 6.6 earthquake has hit south-western China, killing at least 192 peo
 
 ### Source:
 
-1. [RT](http://rt.com/news/china-earthquake-live-updates-129/)
-2. [China Daily](http://www.chinadaily.com.cn/china/2013sichuanquake/2013-04/20/content_16426485.htm)
+1. [China Daily](http://www.chinadaily.com.cn/china/2013sichuanquake/2013-04/20/content_16426485.htm)
+2. [RT](http://rt.com/news/china-earthquake-live-updates-129/)
 3. [Reuters](http://www.reuters.com/article/2013/04/20/china-earthquake-idUSL3N0D701E20130420)
 
 ### Related:

@@ -7,8 +7,8 @@ The nine slain followers of the town mayor killed in a police anti-narcotics ope
 
 ### Source:
 
-1. [The Philippine Star](http://www.philstar.com/nation/2016/10/28/1638270/2-security-killed-along-narco-mayor-just-hired-private-firm)
-2. [The New York Times](http://www.nytimes.com/2016/10/29/world/asia/philippines-duterte-mayor-police.html?_r=0)
+1. [The New York Times](http://www.nytimes.com/2016/10/29/world/asia/philippines-duterte-mayor-police.html?_r=0)
+2. [The Philippine Star](http://www.philstar.com/nation/2016/10/28/1638270/2-security-killed-along-narco-mayor-just-hired-private-firm)
 
 ### Related:
 

@@ -7,11 +7,11 @@ Conjoined twins Hassan and Hussein Benhaffaf from Cork are undergoing surgery to
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2010/0407/benhaffaf.html)
-2. [The Guardian](http://www.guardian.co.uk/uk/2010/apr/07/conjoined-twins-separation)
-3. [Arab News](http://arabnews.com/saudiarabia/article40394.ece)
+1. [Arab News](http://arabnews.com/saudiarabia/article40394.ece)
+2. [Irish Independent](http://www.independent.ie/national-news/mother-prays-for-her-little-fighters-ahead-of-last-battle-2126279.html)
+3. [RTÉ](http://www.rte.ie/news/2010/0407/benhaffaf.html)
 4. [The Daily Telegraph](http://www.telegraph.co.uk/health/healthnews/7561911/Conjoined-twins-to-be-separated-fact-file.html)
-5. [Irish Independent](http://www.independent.ie/national-news/mother-prays-for-her-little-fighters-ahead-of-last-battle-2126279.html)
+5. [The Guardian](http://www.guardian.co.uk/uk/2010/apr/07/conjoined-twins-separation)
 
 ### Related:
 

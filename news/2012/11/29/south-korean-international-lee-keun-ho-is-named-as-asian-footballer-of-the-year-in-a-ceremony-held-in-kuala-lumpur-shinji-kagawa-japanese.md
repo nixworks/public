@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Goal.com](http://www.goal.com/en/news/14/asia/2012/11/29/3565477/koreas-lee-keun-ho-named-afc-player-of-the-year-while-shinji)
-2. [AFC](http://www.the-afc.com/en/events/afc-annual-awards/40656-afc-asian-international-player-of-the-year-shinji-kagawa)
+1. [AFC](http://www.the-afc.com/en/events/afc-annual-awards/40656-afc-asian-international-player-of-the-year-shinji-kagawa)
+2. [Goal.com](http://www.goal.com/en/news/14/asia/2012/11/29/3565477/koreas-lee-keun-ho-named-afc-player-of-the-year-while-shinji)
 
 ### Related:
 

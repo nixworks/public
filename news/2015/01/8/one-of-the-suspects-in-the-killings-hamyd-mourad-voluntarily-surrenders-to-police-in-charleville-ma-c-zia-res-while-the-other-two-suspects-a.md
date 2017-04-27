@@ -7,8 +7,8 @@ After the attack on &#039;Charlie Hebdo,&#039; France’s Muslims brace for back
 
 ### Source:
 
-1. [ForeignPolicy.com](http://foreignpolicy.com/2015/01/09/islam-is-not-a-country-charlie-hebdo-muslims-france/)
-2. [CNN](http://edition.cnn.com/2015/01/07/europe/france-satire-magazine-gunfire/index.html)
+1. [CNN](http://edition.cnn.com/2015/01/07/europe/france-satire-magazine-gunfire/index.html)
+2. [ForeignPolicy.com](http://foreignpolicy.com/2015/01/09/islam-is-not-a-country-charlie-hebdo-muslims-france/)
 3. [The New York Times](http://www.nytimes.com/2015/01/08/world/europe/charlie-hebdo-paris-shooting.html?smid=tw-nytimes&_r=0)
 
 ### Related:

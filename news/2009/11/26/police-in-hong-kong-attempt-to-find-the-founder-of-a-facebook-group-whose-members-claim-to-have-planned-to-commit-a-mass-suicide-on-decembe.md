@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/elocal/news.htm?elocal&20091126&56&629378)
-2. [China Daily](http://www.chinadaily.com.cn/2009-11/26/content_9058550.htm)
-3. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=126&art_id=nw20091126065556764C505188)
+1. [China Daily](http://www.chinadaily.com.cn/2009-11/26/content_9058550.htm)
+2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=126&art_id=nw20091126065556764C505188)
+3. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/elocal/news.htm?elocal&20091126&56&629378)
 
 ### Related:
 

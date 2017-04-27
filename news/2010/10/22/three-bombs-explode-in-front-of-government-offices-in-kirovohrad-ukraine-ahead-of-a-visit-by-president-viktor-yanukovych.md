@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [People's Daily](http://english.peopledaily.com.cn/90001/90777/90853/7174840.html)
-2. [Kyiv Post](http://www.kyivpost.com/news/nation/detail/87193/)
+1. [Kyiv Post](http://www.kyivpost.com/news/nation/detail/87193/)
+2. [People's Daily](http://english.peopledaily.com.cn/90001/90777/90853/7174840.html)
 
 ### Related:
 

@@ -7,10 +7,10 @@ The death toll from the central Italy earthquake reaches 250, amid fears many mo
 
 ### Source:
 
-1. [Financial Times](https://www.ft.com/content/544c5d5e-6a8d-11e6-a0b1-d87a9fea034f)
-2. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/us20006trj#executive)
+1. [AFP via ABC News Australia](http://www.abc.net.au/news/2016-08-25/italys-earthquake-toll-rises-to-247/7785244)
+2. [Financial Times](https://www.ft.com/content/544c5d5e-6a8d-11e6-a0b1-d87a9fea034f)
 3. [USA Today](http://www.usatoday.com/story/news/world/2016/08/25/death-toll-italy-earthquake-rises-247/89323168/)
-4. [AFP via ABC News Australia](http://www.abc.net.au/news/2016-08-25/italys-earthquake-toll-rises-to-247/7785244)
+4. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/us20006trj#executive)
 
 ### Related:
 

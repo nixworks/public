@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/11/01/us-japan-china-idUSKCN0SQ1SY20151101)
-2. [New York Times](http://www.nytimes.com/2015/11/02/world/asia/china-japan-and-south-korea-conduct-first-trilateral-meeting-in-3-years.html)
+1. [New York Times](http://www.nytimes.com/2015/11/02/world/asia/china-japan-and-south-korea-conduct-first-trilateral-meeting-in-3-years.html)
+2. [Reuters](http://www.reuters.com/article/2015/11/01/us-japan-china-idUSKCN0SQ1SY20151101)
 
 ### Related:
 

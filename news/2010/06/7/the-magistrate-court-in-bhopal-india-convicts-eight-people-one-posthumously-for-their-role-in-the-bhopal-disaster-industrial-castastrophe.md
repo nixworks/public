@@ -8,9 +8,9 @@ Eight accused were sentenced to 2 years in jail in the 26-year-old case. Seven g
 ### Source:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5j2dF0b8DtsKtBQBiUC1yQeK4ASbQ)
-2. [Times of India](http://timesofindia.indiatimes.com/india/All-8-accused-convicted-in-Bhopal-gas-tragedy-case/articleshow/6018746.cms)
-3. [Aljazeera](http://english.aljazeera.net/news/asia/2010/06/2010675255855283.html)
-4. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8725140.stm)
+2. [Aljazeera](http://english.aljazeera.net/news/asia/2010/06/2010675255855283.html)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8725140.stm)
+4. [Times of India](http://timesofindia.indiatimes.com/india/All-8-accused-convicted-in-Bhopal-gas-tragedy-case/articleshow/6018746.cms)
 
 ### Related:
 

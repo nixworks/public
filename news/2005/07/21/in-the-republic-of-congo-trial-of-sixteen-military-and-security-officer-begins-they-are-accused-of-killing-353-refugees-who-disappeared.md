@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters](http://za.today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2005-07-22T063154Z_01_ALL223357_RTRIDST_0_OZATP-CONGO-TRIAL-20050722.XML)
-2. [World Peace Herald](http://www.wpherald.com/storyview.php?StoryID=20050719-021459-6052r)
-3. [BBC](http://news.bbc.co.uk/2/hi/africa/4705161.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4705161.stm)
+2. [Reuters](http://za.today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2005-07-22T063154Z_01_ALL223357_RTRIDST_0_OZATP-CONGO-TRIAL-20050722.XML)
+3. [World Peace Herald](http://www.wpherald.com/storyview.php?StoryID=20050719-021459-6052r)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Cuban President Raul Castro rules out wide-ranging market reforms but says more 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-latin-america-10834192)
-2. [People's Daily](http://english.peopledaily.com.cn/90001/90778/90858/7090266.html)
-3. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/internacional/2010/7/31/Raul-Castro-says-state-will-reduce-economic-role,38853b07-5b72-46ef-a49a-a470f126124d.html)
+1. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/internacional/2010/7/31/Raul-Castro-says-state-will-reduce-economic-role,38853b07-5b72-46ef-a49a-a470f126124d.html)
+2. [BBC](http://www.bbc.co.uk/news/world-latin-america-10834192)
+3. [People's Daily](http://english.peopledaily.com.cn/90001/90778/90858/7090266.html)
 
 ### Related:
 

@@ -7,11 +7,11 @@ A mass strike against plans to raise the retirement age in France has disrupted 
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/world/europe/french-unions-protest-at-pensions-reform-2009982.html)
-2. [RTÉ](http://www.rte.ie/news/2010/0624/france.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10401929.stm)
-4. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/201062495415526950.html)
-5. [The Age](http://news.theage.com.au/breaking-news-world/pension-reform-sparks-strike-in-france-20100625-z42c.html)
+1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/201062495415526950.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10401929.stm)
+3. [RTÉ](http://www.rte.ie/news/2010/0624/france.html)
+4. [The Age](http://news.theage.com.au/breaking-news-world/pension-reform-sparks-strike-in-france-20100625-z42c.html)
+5. [The Independent](http://www.independent.co.uk/news/world/europe/french-unions-protest-at-pensions-reform-2009982.html)
 
 ### Related:
 

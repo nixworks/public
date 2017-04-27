@@ -8,8 +8,8 @@ The Turkish Prime Minister blames Kurdish militants for a deadly car bombing in 
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/2016-02-18/turkeys-pm-blames-kurdish-militants-for-deadly-ankara-bombing/7182222)
-2. [Reuters](http://www.reuters.com/article/us-turkey-blast-diyarbakir-idUSKCN0VR0T4)
-3. [Haaretz](http://www.haaretz.com/middle-east-news/1.704037)
+2. [Haaretz](http://www.haaretz.com/middle-east-news/1.704037)
+3. [Reuters](http://www.reuters.com/article/us-turkey-blast-diyarbakir-idUSKCN0VR0T4)
 
 ### Related:
 

@@ -7,9 +7,9 @@ The leading opposition party, the Progressive Party of Working People, will have
 
 ### Source:
 
-1. [EU Observer](https://euobserver.com/political/133506)
-2. [TASS](http://tass.ru/en/world/877450)
-3. [Daily Sabah](http://www.dailysabah.com/europe/2016/05/23/ruling-conservatives-win-parliamentary-elections-in-greek-cyprus)
+1. [Daily Sabah](http://www.dailysabah.com/europe/2016/05/23/ruling-conservatives-win-parliamentary-elections-in-greek-cyprus)
+2. [EU Observer](https://euobserver.com/political/133506)
+3. [TASS](http://tass.ru/en/world/877450)
 
 ### Related:
 

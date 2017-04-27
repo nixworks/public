@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/africa/8472127.stm)
-2. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/politica/2010/0/3/Constituent-Assembly-approves-Angolan-Constitution,7c03e88b-4d2c-425f-bacd-caf923937062.html)
+1. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/politica/2010/0/3/Constituent-Assembly-approves-Angolan-Constitution,7c03e88b-4d2c-425f-bacd-caf923937062.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/8472127.stm)
 
 ### Related:
 

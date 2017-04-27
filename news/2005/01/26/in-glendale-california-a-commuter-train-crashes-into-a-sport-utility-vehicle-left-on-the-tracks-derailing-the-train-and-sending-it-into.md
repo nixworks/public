@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2005/US/01/26/train.survivors.ap/index.html)
-2. [CNN](http://www.cnn.com/2005/US/01/26/train.derailment/)
+1. [CNN](http://www.cnn.com/2005/US/01/26/train.derailment/)
+2. [CNN](http://www.cnn.com/2005/US/01/26/train.survivors.ap/index.html)
 
 ### Related:
 

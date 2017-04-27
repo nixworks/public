@@ -7,9 +7,9 @@ IDF raided Hebron to re-arrest Hamas members, including senior member who assist
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=202597)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12133918)
-3. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/idf-says-it-regrets-killing-civilian-in-hebron-raid-but-defends-operation-1.335781?localLinksEnabled=false)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12133918)
+2. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/idf-says-it-regrets-killing-civilian-in-hebron-raid-but-defends-operation-1.335781?localLinksEnabled=false)
+3. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=202597)
 
 ### Related:
 

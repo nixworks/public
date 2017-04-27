@@ -7,8 +7,8 @@ A Tunisian corporal shot dead seven of his comrades before himself being killed,
 
 ### Source:
 
-1. [AP via Fox News](http://www.foxnews.com/world/2015/05/25/tunisia-defense-ministry-soldier-killed-after-opening-fire-on-fellow-troops-at/)
-2. [AFP via News24](http://m.news24.com/news24/Africa/News/Soldier-kills-7-comrades-at-Tunis-barracks-ministry-20150525)
+1. [AFP via News24](http://m.news24.com/news24/Africa/News/Soldier-kills-7-comrades-at-Tunis-barracks-ministry-20150525)
+2. [AP via Fox News](http://www.foxnews.com/world/2015/05/25/tunisia-defense-ministry-soldier-killed-after-opening-fire-on-fellow-troops-at/)
 
 ### Related:
 

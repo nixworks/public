@@ -7,10 +7,10 @@ Sergent convicted of killing unarmed Iraqi man released from prison pending appe
 
 ### Source:
 
-1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/2010/06/20106155511376820.html)
-2. [Gulf News](http://gulfnews.com/news/world/usa/us-marine-released-in-iraqi-war-crimes-case-1.641373)
-3. [PA](http://www.google.com/hostednews/ukpress/article/ALeqM5gqW6xZ1CWrBadq7QVaAvIK-olp5w)
-4. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hAKPf49Q9s7SaG_xk_hZ15Du-xUgD9GBDP887)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hAKPf49Q9s7SaG_xk_hZ15Du-xUgD9GBDP887)
+2. [Aljazeera](http://english.aljazeera.net/news/americas/2010/2010/06/20106155511376820.html)
+3. [Gulf News](http://gulfnews.com/news/world/usa/us-marine-released-in-iraqi-war-crimes-case-1.641373)
+4. [PA](http://www.google.com/hostednews/ukpress/article/ALeqM5gqW6xZ1CWrBadq7QVaAvIK-olp5w)
 5. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/06/14/AR2010061405048.html)
 
 ### Related:

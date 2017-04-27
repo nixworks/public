@@ -1,7 +1,7 @@
 ## [2009-10-5](/news/2009/10/5/index.md)
 
 ### [ The United States Federal Trade Commission issues regulations for writers of blogs. ](/news/2009/10/5/the-united-states-federal-trade-commission-issues-regulations-for-writers-of-blogs.md)
-_Context: U.S., U.S. Federal Trade Commission, blogs_
+_Context: U.S. Federal Trade Commission, United States, blogs_
 
 ### [ The 2009 Nobel Prize in Medicine goes to Elizabeth H. Blackburn, Carol W. Greider, and Jack W. Szostak, "for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase". ](/news/2009/10/5/the-2009-nobel-prize-in-medicine-goes-to-elizabeth-h-blackburn-carol-w-greider-and-jack-w-szostak-for-the-discovery-of-how-chromosom.md)
 _Context: Carol W. Greider, Elizabeth H. Blackburn, Jack W. Szostak, Nobel Prize in Medicine, chromosome, enzyme, telomerase, telomere_
@@ -22,7 +22,7 @@ An explosion apparently caused by a suicide bomber in the lobby of the World Foo
 Roberto Micheletti cancels decree limiting freedom of speech, assembly and movement.
 
 ### [ United States President Barack Obama delays a meeting with the Dalai Lama until after a visit to China. ](/news/2009/10/5/united-states-president-barack-obama-delays-a-meeting-with-the-dalai-lama-until-after-a-visit-to-china.md)
-_Context: 14th Dalai Lama, Barack Obama, China's, U.S., U.S. President_
+_Context: 14th Dalai Lama, Barack Obama, China's, U.S. President, United States_
 
 ### [ The Deputy Chief Executive of France Tlcom, Louis-Pierre Wene, resigns over a series of suicides at the company. ](/news/2009/10/5/the-deputy-chief-executive-of-france-telecom-louis-pierre-wene-resigns-over-a-series-of-suicides-at-the-company.md)
 _Context: France Télécom, suicide_

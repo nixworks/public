@@ -8,8 +8,8 @@ The remains of more than 2,000 people believed to be German civilians killed at 
 ### Source:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2009/08/15/2656876.htm?section=justin)
-2. [Boston Globe](http://www.boston.com/news/world/europe/articles/2009/08/14/germans_poles_rebury_about_2000_wwii_remains/)
-3. [BBC](http://news.bbc.co.uk/2/hi/europe/8202210.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/europe/8202210.stm)
+3. [Boston Globe](http://www.boston.com/news/world/europe/articles/2009/08/14/germans_poles_rebury_about_2000_wwii_remains/)
 
 ### Related:
 

@@ -7,8 +7,8 @@ On a recent night in the Saudi capital, municipal council candidate Amal Badredi
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/news/world/first-women-elected-public-office-saudi-arabia-n479191)
-2. [Los Angeles Times](http://www.latimes.com/world/middleeast/la-fg-saudi-arabia-elections-20151211-story.html)
+1. [Los Angeles Times](http://www.latimes.com/world/middleeast/la-fg-saudi-arabia-elections-20151211-story.html)
+2. [NBC News](http://www.nbcnews.com/news/world/first-women-elected-public-office-saudi-arabia-n479191)
 
 ### Related:
 

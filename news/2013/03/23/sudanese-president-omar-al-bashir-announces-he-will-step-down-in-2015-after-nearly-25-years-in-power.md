@@ -7,8 +7,8 @@ Omar al-Bashir, Sudan&#039;s president and an indicted war criminal, said the pe
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/sudan/9947614/Sudans-president-said-he-intends-to-step-down-in-2015.html)
-2. [Daily Mail](http://www.dailymail.co.uk/news/article-2297548/Sudans-president-Omar-al-Bashir-accused-war-crimes-stand-down.html?ito=feeds-newsxml)
+1. [Daily Mail](http://www.dailymail.co.uk/news/article-2297548/Sudans-president-Omar-al-Bashir-accused-war-crimes-stand-down.html?ito=feeds-newsxml)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/sudan/9947614/Sudans-president-said-he-intends-to-step-down-in-2015.html)
 
 ### Related:
 

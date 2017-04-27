@@ -7,8 +7,8 @@ James Murdoch has resigned as chairman of News International a day after its par
 
 ### Source:
 
-1. [The Telegraph](http://www.telegraph.co.uk/news/uknews/phone-hacking/9114105/James-Murdoch-resigns-from-News-International-as-firm-admits-papers-could-be-sold-off.html)
-2. [Sydney Morning Herald](http://www.smh.com.au/business/james-murdoch-quits-as-hacking-claims-keep-coming-20120301-1u3xe.html)
+1. [Sydney Morning Herald](http://www.smh.com.au/business/james-murdoch-quits-as-hacking-claims-keep-coming-20120301-1u3xe.html)
+2. [The Telegraph](http://www.telegraph.co.uk/news/uknews/phone-hacking/9114105/James-Murdoch-resigns-from-News-International-as-firm-admits-papers-could-be-sold-off.html)
 
 ### Related:
 

@@ -8,9 +8,9 @@ The death toll from the cyclone in Burma could wind up climbing to between 68,83
 ### Source:
 
 1. [AFP via ''The Times of South Africa](http://www.thetimes.co.za/News/Article.aspx?id=7662970)
-2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080514/ap_on_re_as/myanmar_68;_ylt=AgUu3SW0m_JyE9mtBaV11gxn.3QA)
-3. [Reuters](http://www.reuters.com/article/latestCrisis/idUSBKK93030)
-4. [AP via Fox News](http://www.foxnews.com/story/0,2933,355538,00.html)
+2. [AP via Fox News](http://www.foxnews.com/story/0,2933,355538,00.html)
+3. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080514/ap_on_re_as/myanmar_68;_ylt=AgUu3SW0m_JyE9mtBaV11gxn.3QA)
+4. [Reuters](http://www.reuters.com/article/latestCrisis/idUSBKK93030)
 
 ### Related:
 

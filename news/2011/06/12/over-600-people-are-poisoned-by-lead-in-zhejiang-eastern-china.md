@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-06/12/c_13925110.htm)
-2. [Indian Express](http://www.indianexpress.com/news/over-600-people-sickened-by-lead-poisoning-in-china/802564/)
+1. [Indian Express](http://www.indianexpress.com/news/over-600-people-sickened-by-lead-poisoning-in-china/802564/)
+2. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-06/12/c_13925110.htm)
 
 ### Related:
 

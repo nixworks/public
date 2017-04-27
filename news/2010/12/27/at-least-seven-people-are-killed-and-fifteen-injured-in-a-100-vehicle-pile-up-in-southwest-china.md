@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [NDTV](http://www.ndtv.com/article/world/over-100-vehicle-pile-up-kills-7-in-china-75139)
-2. [People's Daily](http://english.peopledaily.com.cn/90001/90776/90882/7243386.html)
-3. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/12/27/china.traffic.collision/)
+1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/12/27/china.traffic.collision/)
+2. [NDTV](http://www.ndtv.com/article/world/over-100-vehicle-pile-up-kills-7-in-china-75139)
+3. [People's Daily](http://english.peopledaily.com.cn/90001/90776/90882/7243386.html)
 
 ### Related:
 

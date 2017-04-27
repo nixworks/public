@@ -7,8 +7,8 @@ Juan Manuel Santos will meet presidential predecessors to discuss peace with the
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-colombia-peace-idUSKCN12422P)
-2. [Deutsche Welle](http://www.dw.com/en/santos-will-meet-uribe-and-pastrana-to-talk-farc-peace/a-35958255)
+1. [Deutsche Welle](http://www.dw.com/en/santos-will-meet-uribe-and-pastrana-to-talk-farc-peace/a-35958255)
+2. [Reuters](http://www.reuters.com/article/us-colombia-peace-idUSKCN12422P)
 
 ### Related:
 

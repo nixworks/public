@@ -7,10 +7,10 @@ Nineteen countries boycott Nobel Peace Prize ceremony, following what committee 
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/world/story/2010/12/07/nobel-peace-prize-boycott.html)
-2. [MSN India](http://news.in.msn.com/international/article.aspx?cp-documentid=4670267)
-3. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/201012717240690770.html)
-4. [BBC](http://www.bbc.co.uk/news/world-europe-11935230)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/201012717240690770.html)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-11935230)
+3. [CBC](http://www.cbc.ca/world/story/2010/12/07/nobel-peace-prize-boycott.html)
+4. [MSN India](http://news.in.msn.com/international/article.aspx?cp-documentid=4670267)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/skynews/Home/World-News/Golf-Legend-Seve-Ballesteros-Dies-Aged-54-At-His-Home-In-Northern-Spain/Article/201105115987293)
-2. [AFP via Sport 24](http://www.sport24.co.za/Golf/Seve-Ballesteros-dies-20110507)
+1. [AFP via Sport 24](http://www.sport24.co.za/Golf/Seve-Ballesteros-dies-20110507)
+2. [Sky News](http://news.sky.com/skynews/Home/World-News/Golf-Legend-Seve-Ballesteros-Dies-Aged-54-At-His-Home-In-Northern-Spain/Article/201105115987293)
 
 ### Related:
 

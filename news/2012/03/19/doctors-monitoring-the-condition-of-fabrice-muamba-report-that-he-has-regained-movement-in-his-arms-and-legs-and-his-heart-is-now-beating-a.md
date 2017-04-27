@@ -7,12 +7,12 @@ Fabrice Muamba has regained movement in his arms and legs, and his heart is now 
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/teams/bolton-wanderers/9153518/Fabrice-Muamba-showing-small-signs-of-improvement-as-his-heart-beats-unaided.html)
-2. [Daily Mirror](http://www.mirrorfootball.co.uk/news/Distraught-Bolton-may-be-forced-to-withdraw-from-FA-Cup-article880357.html)
-3. [The Guardian](http://www.guardian.co.uk/football/2012/mar/19/fabrice-muamba-signs-improvement)
-4. [CNN](http://edition.cnn.com/2012/03/19/sport/football/football-muamba-bolton-improvement/index.html)
-5. [PA via ''The Guardian](http://www.guardian.co.uk/football/2012/mar/19/fabrice-muamba-blackburn-bolton-collapse)
-6. [Daily Mail](http://www.dailymail.co.uk/sport/football/article-2116903/Fabrice-Muamba-news-Bolton-consider-pulling-FA-Cup-fiancee-Shauna-leading-prayers.html)
+1. [CNN](http://edition.cnn.com/2012/03/19/sport/football/football-muamba-bolton-improvement/index.html)
+2. [Daily Mail](http://www.dailymail.co.uk/sport/football/article-2116903/Fabrice-Muamba-news-Bolton-consider-pulling-FA-Cup-fiancee-Shauna-leading-prayers.html)
+3. [Daily Mirror](http://www.mirrorfootball.co.uk/news/Distraught-Bolton-may-be-forced-to-withdraw-from-FA-Cup-article880357.html)
+4. [PA via ''The Guardian](http://www.guardian.co.uk/football/2012/mar/19/fabrice-muamba-blackburn-bolton-collapse)
+5. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/teams/bolton-wanderers/9153518/Fabrice-Muamba-showing-small-signs-of-improvement-as-his-heart-beats-unaided.html)
+6. [The Guardian](http://www.guardian.co.uk/football/2012/mar/19/fabrice-muamba-signs-improvement)
 
 ### Related:
 

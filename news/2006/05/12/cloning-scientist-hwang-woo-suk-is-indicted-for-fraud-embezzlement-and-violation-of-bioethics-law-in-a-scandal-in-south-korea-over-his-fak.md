@@ -7,9 +7,9 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Reuters](http://today.reuters.com/News/CrisesArticle.aspx?storyId=SEO267991)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4763973.stm)
 2. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/05/11/skorea.stemcells.ap/)
-3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4763973.stm)
+3. [Reuters](http://today.reuters.com/News/CrisesArticle.aspx?storyId=SEO267991)
 
 ### Related:
 

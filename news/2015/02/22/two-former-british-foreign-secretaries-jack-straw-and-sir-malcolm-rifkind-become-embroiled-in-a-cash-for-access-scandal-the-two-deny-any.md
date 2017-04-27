@@ -7,8 +7,8 @@ Two former foreign secretaries are exposed for their involvement in a new &ldquo
 
 ### Source:
 
-1. [The Telegraph](http://www.telegraph.co.uk/news/investigations/11411007/Jack-Straw-and-Sir-Malcolm-Rifkind-in-latest-cash-for-access-scandal.html)
-2. [BBC](http://www.bbc.com/news/uk-politics-31580374?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+1. [BBC](http://www.bbc.com/news/uk-politics-31580374?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
+2. [The Telegraph](http://www.telegraph.co.uk/news/investigations/11411007/Jack-Straw-and-Sir-Malcolm-Rifkind-in-latest-cash-for-access-scandal.html)
 
 ### Related:
 

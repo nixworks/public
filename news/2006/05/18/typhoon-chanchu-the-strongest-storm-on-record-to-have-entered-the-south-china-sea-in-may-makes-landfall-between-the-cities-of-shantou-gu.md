@@ -7,8 +7,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Source:
 
-1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2006-05-18T003141Z_01_PEK354222_RTRUKOC_0_US-WEATHER-CHINA.xml&archived=False)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4990632.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4990632.stm)
+2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2006-05-18T003141Z_01_PEK354222_RTRUKOC_0_US-WEATHER-CHINA.xml&archived=False)
 
 ### Related:
 

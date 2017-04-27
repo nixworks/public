@@ -7,6 +7,6 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/africa/4723757.stm)
-2. [KBC](http://www.kbc.co.ke/story.asp?ID=31368)
-3. [AllAfrica](http://allafrica.com/stories/200507280258.html)
+1. [AllAfrica](http://allafrica.com/stories/200507280258.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/4723757.stm)
+3. [KBC](http://www.kbc.co.ke/story.asp?ID=31368)

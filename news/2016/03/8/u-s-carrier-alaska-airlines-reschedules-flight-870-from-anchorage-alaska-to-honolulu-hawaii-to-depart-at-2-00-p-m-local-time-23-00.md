@@ -7,8 +7,8 @@ The departure time is being adjusted so passengers can get a rare look over the 
 
 ### Source:
 
-1. [KING-TV](http://www.king5.com/story/news/features/2016/03/07/alaska-airlines-flight-see-total-eclipse-36000-feet/81439796/)
-2. [Alaska Airlines](http://blog.alaskaair.com/alaska-airlines/news/eclipse-flight/)
+1. [Alaska Airlines](http://blog.alaskaair.com/alaska-airlines/news/eclipse-flight/)
+2. [KING-TV](http://www.king5.com/story/news/features/2016/03/07/alaska-airlines-flight-see-total-eclipse-36000-feet/81439796/)
 3. [NASA TV stream](http://www.nasa.gov/multimedia/nasatv/)
 4. [The Verge](http://www.theverge.com/2016/3/8/11175142/total-solar-eclipse-march-2016-time-live-stream)
 

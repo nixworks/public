@@ -7,8 +7,8 @@ Gunman entered public school in Brazilian city and opened fire with two handguns
 
 ### Source:
 
-1. [Folha de S.Paulo](http://www1.folha.uol.com.br/cotidiano/899413-homem-invade-escola-e-atira-contra-alunos-na-zona-oeste-do-rio.shtml)
-2. [Al Jazeera](http://english.aljazeera.net/news/americas/2011/04/20114713516443345.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/americas/2011/04/20114713516443345.html)
+2. [Folha de S.Paulo](http://www1.folha.uol.com.br/cotidiano/899413-homem-invade-escola-e-atira-contra-alunos-na-zona-oeste-do-rio.shtml)
 
 ### Related:
 

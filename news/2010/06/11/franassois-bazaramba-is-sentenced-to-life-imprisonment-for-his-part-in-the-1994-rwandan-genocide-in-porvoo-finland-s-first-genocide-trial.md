@@ -9,8 +9,8 @@ A finish court has found a Rwandan man guilty of taking part in the African coun
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/201061114131567652.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10294529.stm)
-3. [news24.com](http://www.news24.com/Africa/News/Rwandan-jailed-for-life-20100611)
-4. [Reuters](http://uk.reuters.com/article/idUKTRE65A25320100611)
+3. [Reuters](http://uk.reuters.com/article/idUKTRE65A25320100611)
+4. [news24.com](http://www.news24.com/Africa/News/Rwandan-jailed-for-life-20100611)
 
 ### Related:
 

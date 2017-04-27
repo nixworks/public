@@ -14,7 +14,7 @@ _Context: Guatemala, Rigoberta Menchú, racial discrimination_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ American newscaster Peter Jennings states that he has lung cancer and will begin chemotherapy. ](/news/2005/04/5/american-newscaster-peter-jennings-states-that-he-has-lung-cancer-and-will-begin-chemotherapy.md)
-_Context: Peter Jennings, U.S., chemotherapy, lung cancer_
+_Context: Peter Jennings, United States, chemotherapy, lung cancer_
 
 ### [ Rwandan official Aloys Mutabingwa, a representative at the International Criminal Tribunal for Rwanda, says that 100 Rwandans connected to the Rwandan genocide are "comfortably living in France". ](/news/2005/04/5/rwandan-official-aloys-mutabingwa-a-representative-at-the-international-criminal-tribunal-for-rwanda-says-that-100-rwandans-connected-to.md)
 _Context: Aloys Mutabingwa, France, International Criminal Tribunal for Rwanda, Rwanda, Rwandan Genocide_

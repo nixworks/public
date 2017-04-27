@@ -7,8 +7,8 @@ NAIROBI, Kenya (AP) — Suspected al-Shabab gunmen killed at least six people wh
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/2016/07/children-killed-attack-buses-northern-kenya-160701111427927.html)
-2. [AP](http://www.bigstory.ap.org/article/df8a0c558c314c6790cfcd3a06c15ecb/6-killed-extremist-attack-2-buses-say-kenyan-official)
+1. [AP](http://www.bigstory.ap.org/article/df8a0c558c314c6790cfcd3a06c15ecb/6-killed-extremist-attack-2-buses-say-kenyan-official)
+2. [Al Jazeera](http://www.aljazeera.com/news/2016/07/children-killed-attack-buses-northern-kenya-160701111427927.html)
 
 ### Related:
 

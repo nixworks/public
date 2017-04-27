@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0605/breaking6.htm)
-2. [RTÉ](http://www.rte.ie/news/2009/0605/election.html)
+1. [RTÉ](http://www.rte.ie/news/2009/0605/election.html)
+2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0605/breaking6.htm)
 
 ### Related:
 

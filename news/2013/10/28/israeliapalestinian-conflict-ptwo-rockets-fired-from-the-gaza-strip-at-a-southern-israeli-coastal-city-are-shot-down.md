@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/world/2013/oct/28/israel-shoots-down-rocket-gaza-strip)
-2. [Reuters](http://uk.reuters.com/article/2013/10/28/uk-palestinians-israel-violence-idUKBRE99R05U20131028)
+1. [Reuters](http://uk.reuters.com/article/2013/10/28/uk-palestinians-israel-violence-idUKBRE99R05U20131028)
+2. [The Guardian](http://www.theguardian.com/world/2013/oct/28/israel-shoots-down-rocket-gaza-strip)
 
 ### Related:
 

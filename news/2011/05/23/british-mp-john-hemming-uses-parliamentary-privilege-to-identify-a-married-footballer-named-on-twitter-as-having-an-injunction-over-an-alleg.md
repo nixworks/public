@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/politics/2011/may/23/ryan-giggs-named-footballer-injunction-row)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/05/2011523154240528728.html)
 2. [BBC](http://www.bbc.co.uk/news/uk-13503847)
-3. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/05/2011523154240528728.html)
+3. [The Guardian](http://www.guardian.co.uk/politics/2011/may/23/ryan-giggs-named-footballer-injunction-row)
 
 ### Related:
 

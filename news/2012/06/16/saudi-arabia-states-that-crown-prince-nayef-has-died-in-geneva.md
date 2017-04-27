@@ -7,8 +7,8 @@ Prince Nayef bin Abdulaziz Al Saud, next in line to the throne, has died abroad 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/06/16/us-saudi-crownprince-idUSBRE85F05Z20120616)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/2012616103457470447.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/2012616103457470447.html)
+2. [Reuters](http://www.reuters.com/article/2012/06/16/us-saudi-crownprince-idUSBRE85F05Z20120616)
 
 ### Related:
 

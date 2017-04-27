@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [SBS](http://www.sbs.com.au/news/article/1631781/Residents-hold-fears-for-Wagga-flood-levee)
-2. [Herald Sun](http://www.heraldsun.com.au/news/breaking-news/a-mob-drops-by-as-the-floods-worsen-across-nsw/story-e6frf7jx-1226290251704)
+1. [Herald Sun](http://www.heraldsun.com.au/news/breaking-news/a-mob-drops-by-as-the-floods-worsen-across-nsw/story-e6frf7jx-1226290251704)
+2. [SBS](http://www.sbs.com.au/news/article/1631781/Residents-hold-fears-for-Wagga-flood-levee)
 
 ### Related:
 

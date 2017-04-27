@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Discovery News](http://news.discovery.com/archaeology/largest-saqqara-tomb-discovered.html)
-2. [Xinhua](http://news.xinhuanet.com/english/2010-01/04/content_12754389.htm)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jF-fhEcgYuOpUvswTZMQbDoLojvQ)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jF-fhEcgYuOpUvswTZMQbDoLojvQ)
+2. [Discovery News](http://news.discovery.com/archaeology/largest-saqqara-tomb-discovered.html)
+3. [Xinhua](http://news.xinhuanet.com/english/2010-01/04/content_12754389.htm)
 
 ### Related:
 

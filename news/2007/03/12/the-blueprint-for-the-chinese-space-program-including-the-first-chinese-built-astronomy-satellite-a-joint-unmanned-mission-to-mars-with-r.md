@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2007-03/12/content_5832530.htm)
-2. [PTI via the Hindu](http://www.hindu.com/thehindu/holnus/008200703120941.htm)
+1. [PTI via the Hindu](http://www.hindu.com/thehindu/holnus/008200703120941.htm)
+2. [Xinhua](http://news.xinhuanet.com/english/2007-03/12/content_5832530.htm)
 
 ### Related:
 

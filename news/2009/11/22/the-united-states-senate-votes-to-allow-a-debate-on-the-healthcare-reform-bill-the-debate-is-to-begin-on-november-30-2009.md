@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2009/nov/22/healthcare-obama-administration)
-2. [Voice of America](http://www1.voanews.com/english/news/politics/Senate_Health_Care_vote-70720562.html)
-3. [MSNBC](http://firstread.msnbc.msn.com/archive/2009/11/21/2134031.aspx)
-4. [BBC News](http://news.bbc.co.uk/1/hi/world/americas/8372768.stm)
+1. [BBC News](http://news.bbc.co.uk/1/hi/world/americas/8372768.stm)
+2. [MSNBC](http://firstread.msnbc.msn.com/archive/2009/11/21/2134031.aspx)
+3. [The Guardian](http://www.guardian.co.uk/world/2009/nov/22/healthcare-obama-administration)
+4. [Voice of America](http://www1.voanews.com/english/news/politics/Senate_Health_Care_vote-70720562.html)
 
 ### Related:
 

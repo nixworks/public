@@ -7,9 +7,9 @@ Archaeologists unearth thousands of stone tools in North America they say predat
 
 ### Source:
 
-1. [Science](http://www.sciencemag.org/content/331/6024/1512.full?rss=1)
+1. [BBC](http://www.bbc.co.uk/news/science-environment-12851772)
 2. [Irish Times](http://www.irishtimes.com/newspaper/world/2011/0325/1224293044705.html)
-3. [BBC](http://www.bbc.co.uk/news/science-environment-12851772)
+3. [Science](http://www.sciencemag.org/content/331/6024/1512.full?rss=1)
 
 ### Related:
 

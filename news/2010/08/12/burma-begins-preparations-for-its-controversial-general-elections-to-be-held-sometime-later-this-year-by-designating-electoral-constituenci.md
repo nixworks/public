@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/20100813/news_20100813_56_690644.htm?)
-2. [Bangkok Post](http://www.bangkokpost.com/news/asia/190757/burma-designates-constituencies-for-rare-election)
+1. [Bangkok Post](http://www.bangkokpost.com/news/asia/190757/burma-designates-constituencies-for-rare-election)
+2. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/20100813/news_20100813_56_690644.htm?)
 
 ### Related:
 

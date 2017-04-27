@@ -7,9 +7,9 @@ Barclays Bank pays £290m in penalties and boss Bob Diamond gives up his bonus a
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/business/2012-06/28/c_123339718.htm)
+1. [BBC](http://www.bbc.co.uk/news/business-18612279)
 2. [CBS News](http://www.cbsnews.com/8301-505123_162-57462315/barclays-to-pay-$453m-for-attempting-to-manipulate-rates/)
-3. [BBC](http://www.bbc.co.uk/news/business-18612279)
+3. [Xinhua](http://news.xinhuanet.com/english/business/2012-06/28/c_123339718.htm)
 
 ### Related:
 

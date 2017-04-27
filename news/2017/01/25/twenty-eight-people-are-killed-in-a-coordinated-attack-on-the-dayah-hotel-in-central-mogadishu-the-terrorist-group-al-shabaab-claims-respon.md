@@ -7,8 +7,8 @@ Twenty-eight people were killed Wednesday when Al-Shabaab fighters attacked a po
 
 ### Source:
 
-1. [Yahoo](https://www.yahoo.com/news/least-seven-killed-mogadishu-hotel-attack-police-084256456.html)
-2. [Al Jazeera](http://www.aljazeera.com/news/2017/01/somalia-car-bomb-attack-targets-mogadishu-hotel-170125061508189.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/2017/01/somalia-car-bomb-attack-targets-mogadishu-hotel-170125061508189.html)
+2. [Yahoo](https://www.yahoo.com/news/least-seven-killed-mogadishu-hotel-attack-police-084256456.html)
 
 ### Related:
 

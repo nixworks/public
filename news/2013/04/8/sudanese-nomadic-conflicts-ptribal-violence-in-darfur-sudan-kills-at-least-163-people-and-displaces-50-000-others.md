@@ -7,8 +7,8 @@ Sudanese President Omar Hassan al-Bashir said on Friday he wanted peace and norm
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/04/12/us-sudan-south-idUSBRE93B0BZ20130412)
-2. [AllAfrica.com](http://allafrica.com/stories/201304090084.html)
+1. [AllAfrica.com](http://allafrica.com/stories/201304090084.html)
+2. [Reuters](http://www.reuters.com/article/2013/04/12/us-sudan-south-idUSBRE93B0BZ20130412)
 
 ### Related:
 

@@ -8,8 +8,8 @@ The Red Cross says that more than 1,200 people are confirmed dead as Haiyan, one
 ### Source:
 
 1. [RT](http://rt.com/news/typhoon-cyclone-dead-philippines-463/)
-2. [The New York Times](http://www.nytimes.com/2013/11/10/world/asia/philippines-typhoon.html?_r=0)
-3. [The Guardian](http://www.theguardian.com/world/2013/nov/09/typhoon-haiyan-death-philippines)
+2. [The Guardian](http://www.theguardian.com/world/2013/nov/09/typhoon-haiyan-death-philippines)
+3. [The New York Times](http://www.nytimes.com/2013/11/10/world/asia/philippines-typhoon.html?_r=0)
 4. [Tuoi Tre News](http://tuoitrenews.vn/society/14954/453000-soldiers-mobilized-to-cope-with-super-typhoon)
 
 ### Related:

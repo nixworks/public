@@ -7,9 +7,9 @@ The opposition in Venezuela wins a majority of seats in the National Assembly, o
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-latin-america-35019111)
-2. [BBC](http://www.cnn.com/2015/12/07/americas/venezuela-oelections/)
-3. [AP](http://bigstory.ap.org/article/2ef2bd1fe3a44373ac301bff918a76c5/venezuelas-opposition-wins-control-national-assembly)
+1. [AP](http://bigstory.ap.org/article/2ef2bd1fe3a44373ac301bff918a76c5/venezuelas-opposition-wins-control-national-assembly)
+2. [BBC](http://www.bbc.com/news/world-latin-america-35019111)
+3. [BBC](http://www.cnn.com/2015/12/07/americas/venezuela-oelections/)
 
 ### Related:
 

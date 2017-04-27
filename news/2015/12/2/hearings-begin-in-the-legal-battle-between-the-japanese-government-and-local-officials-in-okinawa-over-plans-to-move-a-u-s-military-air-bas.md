@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Financial Times](http://www.ft.com/intl/cms/s/0/0fb37722-71a0-11e5-ad6d-f4ed76f0900a.html#axzz3t8tlx3YV)
-2. [AP](http://bigstory.ap.org/article/773b54b3013246018cb2f9d48778141a/hearings-begin-over-battle-moving-us-base-okinawa)
+1. [AP](http://bigstory.ap.org/article/773b54b3013246018cb2f9d48778141a/hearings-begin-over-battle-moving-us-base-okinawa)
+2. [Financial Times](http://www.ft.com/intl/cms/s/0/0fb37722-71a0-11e5-ad6d-f4ed76f0900a.html#axzz3t8tlx3YV)
 
 ### Related:
 

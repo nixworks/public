@@ -7,8 +7,8 @@ President Barack Obama will join 9/11 survivors, rescuers and family members of 
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2014/05/16/nyregion/at-9-11-museum-dedication-remembrance-and-resilience.html)
-2. [PBS](http://www.pbs.org/newshour/rundown/obama-911-survivors-family-inaugurate-ground-zero-museum/)
+1. [PBS](http://www.pbs.org/newshour/rundown/obama-911-survivors-family-inaugurate-ground-zero-museum/)
+2. [The New York Times](http://www.nytimes.com/2014/05/16/nyregion/at-9-11-museum-dedication-remembrance-and-resilience.html)
 
 ### Related:
 

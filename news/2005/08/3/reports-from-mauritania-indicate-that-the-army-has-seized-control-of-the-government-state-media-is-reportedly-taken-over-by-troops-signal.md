@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4741243.stm)
-2. [afrol News](http://www.afrol.com/articles/16889)
-3. [Middle East Online](http://www.middle-east-online.com/english/?id=14184)
+2. [Middle East Online](http://www.middle-east-online.com/english/?id=14184)
+3. [afrol News](http://www.afrol.com/articles/16889)
 
 ### Related:
 

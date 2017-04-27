@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NOS](http://translate.google.com/translate?sl=nl&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&layout=2&eotf=1&u=http%3A%2F%2Fnos.nl%2Fliveblog%2F417626-live-de-verkiezingen-2012.html)
-2. [ANP via ''Google](http://www.google.nl/elections/ed/nl/results)
+1. [ANP via ''Google](http://www.google.nl/elections/ed/nl/results)
+2. [NOS](http://translate.google.com/translate?sl=nl&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&layout=2&eotf=1&u=http%3A%2F%2Fnos.nl%2Fliveblog%2F417626-live-de-verkiezingen-2012.html)
 3. [The Washington Post](http://www.washingtonpost.com/business/dutch-election-could-change-countrys-allegiances-in-eu-efforts-to-resolve-debt-crisis/2012/09/12/c077d5d4-fc97-11e1-98c6-ec0a0a93f8eb_story.html)
 
 ### Related:

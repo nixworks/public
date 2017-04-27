@@ -7,8 +7,8 @@ South 24 Parganas officials fear death toll could rise further
 
 ### Source:
 
-1. [The Hindu](http://www.thehindu.com/news/national/article2714355.ece)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-india-16174531)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-india-16174531)
+2. [The Hindu](http://www.thehindu.com/news/national/article2714355.ece)
 
 ### Related:
 

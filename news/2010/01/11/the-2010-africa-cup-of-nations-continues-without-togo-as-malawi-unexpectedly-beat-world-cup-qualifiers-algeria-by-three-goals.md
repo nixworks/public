@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/sport2/hi/football/africa/8451809.stm)
-2. [The Times](http://www.timesonline.co.uk/tol/sport/football/international/article6983942.ece)
-3. [Al Jazeera](http://english.aljazeera.net/sport/2010/01/2010111145814324791.html)
+1. [Al Jazeera](http://english.aljazeera.net/sport/2010/01/2010111145814324791.html)
+2. [BBC](http://news.bbc.co.uk/sport2/hi/football/africa/8451809.stm)
+3. [The Times](http://www.timesonline.co.uk/tol/sport/football/international/article6983942.ece)
 
 ### Related:
 

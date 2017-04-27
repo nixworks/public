@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [IHT](http://www.iht.com/articles/2005/12/09/news/china.php)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4517706.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4517706.stm)
+2. [IHT](http://www.iht.com/articles/2005/12/09/news/china.php)
 
 ### Related:
 

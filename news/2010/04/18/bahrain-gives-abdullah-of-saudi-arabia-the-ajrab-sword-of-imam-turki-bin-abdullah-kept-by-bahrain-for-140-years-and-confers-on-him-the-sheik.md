@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Gulf Daily News](http://www.gulf-daily-news.com/NewsDetails.aspx?storyid=276098)
+1. [Arab News](http://arabnews.com/saudiarabia/article44772.ece)
 2. [Bahrain News Agency](http://english.bna.bh/?ID=86533)
-3. [Arab News](http://arabnews.com/saudiarabia/article44772.ece)
+3. [Gulf Daily News](http://www.gulf-daily-news.com/NewsDetails.aspx?storyid=276098)
 
 ### Related:
 

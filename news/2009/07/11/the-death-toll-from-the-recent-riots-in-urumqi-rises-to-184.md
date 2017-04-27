@@ -8,8 +8,8 @@
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/07/11/china.uyghurs/)
-2. [NDTV](http://www.ndtv.com/news/world/death_toll_from_urumqi_riot_rises_to_184.php)
-3. [China Daily](http://www.chinadaily.com.cn/china/2009-07/11/content_8415245.htm)
+2. [China Daily](http://www.chinadaily.com.cn/china/2009-07/11/content_8415245.htm)
+3. [NDTV](http://www.ndtv.com/news/world/death_toll_from_urumqi_riot_rises_to_184.php)
 
 ### Related:
 

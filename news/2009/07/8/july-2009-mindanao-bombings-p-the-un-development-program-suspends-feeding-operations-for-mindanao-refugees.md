@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/inquirerheadlines/nation/view/20090708-214417/Cabinet-revamp-tied-to-emergency-rule)
-2. [GMA News](http://www.gmanews.tv/story/166928/Dahil-sa-mga-pagsabog-Pamamahagi-ng-pagkain-ng-UN-sa-Mindanao-ipinatigil)
+1. [GMA News](http://www.gmanews.tv/story/166928/Dahil-sa-mga-pagsabog-Pamamahagi-ng-pagkain-ng-UN-sa-Mindanao-ipinatigil)
+2. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/inquirerheadlines/nation/view/20090708-214417/Cabinet-revamp-tied-to-emergency-rule)
 
 ### Related:
 

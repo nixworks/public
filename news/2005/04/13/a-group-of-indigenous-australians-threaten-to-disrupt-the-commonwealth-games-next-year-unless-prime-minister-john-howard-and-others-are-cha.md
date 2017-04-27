@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Radio Australia](http://www.abc.net.au/ra/news/stories/s1344677.htm)
-2. [SBS](http://www9.sbs.com.au/theworldnews/region.php?id=109519&region=7)
-3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4440641.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4440641.stm)
+2. [Radio Australia](http://www.abc.net.au/ra/news/stories/s1344677.htm)
+3. [SBS](http://www9.sbs.com.au/theworldnews/region.php?id=109519&region=7)
 
 ### Related:
 

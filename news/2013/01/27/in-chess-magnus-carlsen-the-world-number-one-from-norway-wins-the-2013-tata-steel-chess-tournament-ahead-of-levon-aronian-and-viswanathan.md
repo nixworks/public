@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Tata Steel Chess](http://www.tatasteelchess.com/tournament/report/year/2013/round/13)
+1. [ChessBase](http://www.chessbase.com/newsdetail.asp?newsid=8806)
 2. [ChessNews](http://www.chess.com/news/magnus-carlsen-wins-tata-steel-2013-1412)
-3. [ChessBase](http://www.chessbase.com/newsdetail.asp?newsid=8806)
+3. [Tata Steel Chess](http://www.tatasteelchess.com/tournament/report/year/2013/round/13)
 
 ### Related:
 

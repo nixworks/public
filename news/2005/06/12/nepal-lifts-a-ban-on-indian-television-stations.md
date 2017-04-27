@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Deepika](http://www.deepikaglobal.com/ENG4_sub.asp?ccode=ENG4&newscode=107293)
-2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4085140.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4085140.stm)
+2. [Deepika](http://www.deepikaglobal.com/ENG4_sub.asp?ccode=ENG4&newscode=107293)
 
 ### Related:
 

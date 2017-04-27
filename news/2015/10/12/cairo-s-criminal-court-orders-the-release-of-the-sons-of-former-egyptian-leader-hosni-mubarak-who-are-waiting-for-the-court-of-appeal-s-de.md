@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/10/12/us-egypt-court-corruption-idUSKCN0S614620151012)
-2. [New York Daily News](http://www.nydailynews.com/news/world/egyptian-court-orders-ex-prez-hosni-mubarek-sons-released-article-1.2394620)
+1. [New York Daily News](http://www.nydailynews.com/news/world/egyptian-court-orders-ex-prez-hosni-mubarek-sons-released-article-1.2394620)
+2. [Reuters](http://www.reuters.com/article/2015/10/12/us-egypt-court-corruption-idUSKCN0S614620151012)
 
 ### Related:
 

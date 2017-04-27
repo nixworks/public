@@ -7,9 +7,9 @@ Egypt has begun building an underground wall up to 100ft deep along its border w
 
 ### Source:
 
-1. [The National](http://www.thenational.ae/apps/pbcs.dll/article?AID=/20091211/FOREIGN/712109838/1138/BUSINESS)
-2. [Xinhua](http://news.xinhuanet.com/english/2009-12/10/content_12625852.htm)
-3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/egypt/6780644/Egypt-digs-underground-wall-to-stop-Gaza-tunnels.html)
+1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/egypt/6780644/Egypt-digs-underground-wall-to-stop-Gaza-tunnels.html)
+2. [The National](http://www.thenational.ae/apps/pbcs.dll/article?AID=/20091211/FOREIGN/712109838/1138/BUSINESS)
+3. [Xinhua](http://news.xinhuanet.com/english/2009-12/10/content_12625852.htm)
 
 ### Related:
 

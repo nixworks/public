@@ -7,8 +7,8 @@ Bulgaria explained. Quality reporting and analyses tailored to the needs of fore
 
 ### Source:
 
-1. [Sofia Echo](http://www.sofiaecho.com/article/former-pm-confirms-kosovo-independence-declaration-date/id_27526/catid_68)
-2. [AFP via Google News](http://afp.google.com/article/ALeqM5h5SwIVTHxi8gh2ntMoBQ-na6KGFQ)
+1. [AFP via Google News](http://afp.google.com/article/ALeqM5h5SwIVTHxi8gh2ntMoBQ-na6KGFQ)
+2. [Sofia Echo](http://www.sofiaecho.com/article/former-pm-confirms-kosovo-independence-declaration-date/id_27526/catid_68)
 
 ### Related:
 

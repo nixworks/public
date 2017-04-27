@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/money/2017/01/05/sears-kmart-stores-closing/96195504/)
-2. [Bloomberg](https://www.bloomberg.com/news/articles/2017-01-05/stanley-to-buy-craftsman-brand-from-sears-for-about-900-million)
+1. [Bloomberg](https://www.bloomberg.com/news/articles/2017-01-05/stanley-to-buy-craftsman-brand-from-sears-for-about-900-million)
+2. [USA Today](http://www.usatoday.com/story/money/2017/01/05/sears-kmart-stores-closing/96195504/)
 
 ### Related:
 

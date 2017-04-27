@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Ha'aretz](http://www.haaretz.com/hasen/spages/560440.html)
-2. [Arutz Sheva](http://www.israelnn.com/news.php3?id=79495)
-3. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4407589.stm)
+1. [Arutz Sheva](http://www.israelnn.com/news.php3?id=79495)
+2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4407589.stm)
+3. [Ha'aretz](http://www.haaretz.com/hasen/spages/560440.html)
 
 ### Related:
 

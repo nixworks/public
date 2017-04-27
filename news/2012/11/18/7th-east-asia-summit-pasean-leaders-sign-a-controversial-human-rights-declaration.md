@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Global Post](http://www.globalpost.com/dispatch/news/regions/asia-pacific/121118/asean-leaders-sign-human-rights-declaration)
-2. [Financial Express Bangladesh](http://www.thefinancialexpress-bd.com/index.php?ref=MjBfMTFfMTlfMTJfMV8xN18xNTAzODM=)
+1. [Financial Express Bangladesh](http://www.thefinancialexpress-bd.com/index.php?ref=MjBfMTFfMTlfMTJfMV8xN18xNTAzODM=)
+2. [Global Post](http://www.globalpost.com/dispatch/news/regions/asia-pacific/121118/asean-leaders-sign-human-rights-declaration)
 3. [Radio Television Hong Kong](http://rthk.hk/rthk/news/englishnews/20121119/news_20121119_56_883756.htm)
 
 ### Related:

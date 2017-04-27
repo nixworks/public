@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [euronews](http://www.euronews.net/2010/01/30/italian-magistrates-protest-over-reforms/)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8489253.stm)
-3. [Reuters](http://www.reuters.com/article/idUSTRE60T1AS20100130)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8489253.stm)
+2. [Reuters](http://www.reuters.com/article/idUSTRE60T1AS20100130)
+3. [euronews](http://www.euronews.net/2010/01/30/italian-magistrates-protest-over-reforms/)
 
 ### Related:
 

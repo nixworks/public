@@ -7,9 +7,9 @@ Kathmandu, Dec 14 (IANS) The shadow of arrest and criminal charges darkened over
 
 ### Source:
 
-1. [Sify India](http://www.sify.com/news/ousted-nepal-crown-prince-in-police-custody-after-gun-brawl-news-international-kmopkfcghgj.html)
-2. [BBC](http://www.bbc.co.uk/news/world-south-asia-11988537)
-3. [Himalayan Times](http://www.thehimalayantimes.com/fullNews.php?headline=Ex-Crown+Prince+Paras+arrested+in+Pokhara&NewsID=269408)
+1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11988537)
+2. [Himalayan Times](http://www.thehimalayantimes.com/fullNews.php?headline=Ex-Crown+Prince+Paras+arrested+in+Pokhara&NewsID=269408)
+3. [Sify India](http://www.sify.com/news/ousted-nepal-crown-prince-in-police-custody-after-gun-brawl-news-international-kmopkfcghgj.html)
 
 ### Related:
 

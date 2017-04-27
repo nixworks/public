@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Euronews](http://euronews.net/index.php?page=info&article=440251&lng=1)
-2. [AFP via ABC News Australia](http://abc.net.au/news/stories/2007/08/31/2020134.htm?section=justin)
+1. [AFP via ABC News Australia](http://abc.net.au/news/stories/2007/08/31/2020134.htm?section=justin)
+2. [Euronews](http://euronews.net/index.php?page=info&article=440251&lng=1)
 
 ### Related:
 

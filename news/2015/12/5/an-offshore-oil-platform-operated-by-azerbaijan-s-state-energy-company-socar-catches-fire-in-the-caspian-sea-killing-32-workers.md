@@ -7,8 +7,8 @@ At least one worker was killed and 30 others were missing on Saturday after an A
 
 ### Source:
 
-1. [The Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3347170/32-Azeri-workers-die-fire-Caspian-Sea-oil-platform--committee-head.html)
-2. [CBC News](http://www.cbc.ca/news/world/azerbaijan-oilfield-fire-1.3352333)
+1. [CBC News](http://www.cbc.ca/news/world/azerbaijan-oilfield-fire-1.3352333)
+2. [The Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3347170/32-Azeri-workers-die-fire-Caspian-Sea-oil-platform--committee-head.html)
 
 ### Related:
 

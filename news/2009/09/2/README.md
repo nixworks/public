@@ -40,7 +40,7 @@ _Context: Afghan, Kabul, Laghman Province, Mihtarlam, Taliban_
 Two U.S. journalists held by North Korea for illegal entry admitted they crossed into the reclusive state, but said North Korean guards arrested them on the Chinese side of the border and dragged them back into the country.
 
 ### [ The death certificate of American pop star and entertainer Michael Jackson is amended to reflect his cause of death as homicide via "injection by another". ](/news/2009/09/2/the-death-certificate-of-american-pop-star-and-entertainer-michael-jackson-is-amended-to-reflect-his-cause-of-death-as-homicide-via-inject.md)
-_Context: Michael Jackson, U.S., death, homicide, injection, pop_
+_Context: Michael Jackson, United States, death, homicide, injection, pop_
 
 ### [ Ennama Asfari, the co-president of a Committee for the Respect of Freedoms in Western Sahara, is jailed for four months for insulting a policeman. ](/news/2009/09/2/ennama-asfari-the-co-president-of-a-committee-for-the-respect-of-freedoms-in-western-sahara-is-jailed-for-four-months-for-insulting-a-pol.md)
 _Context: Committee for the Respect of Freedoms, Ennama Asfari, Western Sahara_

@@ -8,8 +8,8 @@ Authorities raise alert level after intelligence reports of plot to hijack plane
 ### Source:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5j7rww2mRre78ajPtSTYIk06eWrpw)
-2. [Indian Express](http://www.indianexpress.com/news/idiots/570428/)
-3. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/01/201012272129628767.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/01/201012272129628767.html)
+3. [Indian Express](http://www.indianexpress.com/news/idiots/570428/)
 
 ### Related:
 

@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [Zim Online](http://www.zimonline.co.za/Article.aspx?ArticleId=5249)
+1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gYHXbfOf2rLdCpmblA5cGdxVBxdgD9BCFJ7G1)
 2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jd_JZmhdw6XWClfpenWt9g-dqNNAD9BC6MM00)
-3. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gYHXbfOf2rLdCpmblA5cGdxVBxdgD9BCFJ7G1)
+3. [Reuters](http://www.reuters.com/article/latestCrisis/idUSWEA5423)
 4. [Xinhua](http://news.xinhuanet.com/english/2009-10/16/content_12248834.htm)
-5. [Reuters](http://www.reuters.com/article/latestCrisis/idUSWEA5423)
+5. [Zim Online](http://www.zimonline.co.za/Article.aspx?ArticleId=5249)
 
 ### Related:
 

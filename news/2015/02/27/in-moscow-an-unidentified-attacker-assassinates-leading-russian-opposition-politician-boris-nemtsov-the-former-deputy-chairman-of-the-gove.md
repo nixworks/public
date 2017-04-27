@@ -7,8 +7,8 @@ A leading Russian opposition politician Boris Nemtsov has been shot dead in Mosc
 
 ### Source:
 
-1. [euronews](http://www.euronews.com/2015/02/27/russian-opposition-politician-boris-nemtsov-shot-dead-in-moscow/)
-2. [BBC](http://www.bbc.com/news/world-europe-31669061)
+1. [BBC](http://www.bbc.com/news/world-europe-31669061)
+2. [euronews](http://www.euronews.com/2015/02/27/russian-opposition-politician-boris-nemtsov-shot-dead-in-moscow/)
 
 ### Related:
 

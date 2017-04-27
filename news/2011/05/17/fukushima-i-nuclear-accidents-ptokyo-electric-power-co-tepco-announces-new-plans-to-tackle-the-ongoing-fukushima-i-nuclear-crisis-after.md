@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Japan Times](http://search.japantimes.co.jp/cgi-bin/nn20110517a2.html)
-2. [Yonhap](http://english.yonhapnews.co.kr/news/2011/05/17/0200000000AEN20110517002200315.HTML)
-3. [Nikkei](http://e.nikkei.com/e/fr/tnks/Nni20110516D16JFA22.htm)
+2. [Nikkei](http://e.nikkei.com/e/fr/tnks/Nni20110516D16JFA22.htm)
+3. [Yonhap](http://english.yonhapnews.co.kr/news/2011/05/17/0200000000AEN20110517002200315.HTML)
 
 ### Related:
 

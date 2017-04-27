@@ -7,9 +7,9 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 ### Source:
 
-1. [NDTV](http://www.ndtv.com/morenews/showmorestory.asp?slug=INS+Kadamba+commissioned+at+Karwar&id=73777)
+1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4596581.stm)
 2. [Hindu](http://www.hindu.com/2005/06/01/stories/2005060105071400.htm)
-3. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4596581.stm)
+3. [NDTV](http://www.ndtv.com/morenews/showmorestory.asp?slug=INS+Kadamba+commissioned+at+Karwar&id=73777)
 
 ### Related:
 

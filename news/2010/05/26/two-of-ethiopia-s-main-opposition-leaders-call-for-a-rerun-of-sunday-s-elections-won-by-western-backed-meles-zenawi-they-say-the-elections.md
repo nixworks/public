@@ -7,10 +7,10 @@ Ethiopian Prime Minister Meles Zenawi rejected opposition calls for a fresh elec
 
 ### Source:
 
-1. [The Hindu](http://beta.thehindu.com/news/international/article438850.ece)
-2. [Reuters](http://www.reuters.com/article/idUSTRE64P5IZ20100526)
-3. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/05/201052695612872212.html)
-4. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10162310.stm)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/05/201052695612872212.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10162310.stm)
+3. [Reuters](http://www.reuters.com/article/idUSTRE64P5IZ20100526)
+4. [The Hindu](http://beta.thehindu.com/news/international/article438850.ece)
 
 ### Related:
 

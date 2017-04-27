@@ -8,9 +8,9 @@
 ### Source:
 
 1. [AP via CNN](http://edition.cnn.com/)
-2. [RussiaToday](http://russiatoday.ru/news/news/16677)
-3. [Wired](http://blog.wired.com/defense/2007/11/georgia-police-.html)
-4. [Aljazeera](http://english.aljazeera.net/NR/exeres/7897465F-0A28-4A05-AF48-3965483D6038.htm)
+2. [Aljazeera](http://english.aljazeera.net/NR/exeres/7897465F-0A28-4A05-AF48-3965483D6038.htm)
+3. [RussiaToday](http://russiatoday.ru/news/news/16677)
+4. [Wired](http://blog.wired.com/defense/2007/11/georgia-police-.html)
 
 ### Related:
 

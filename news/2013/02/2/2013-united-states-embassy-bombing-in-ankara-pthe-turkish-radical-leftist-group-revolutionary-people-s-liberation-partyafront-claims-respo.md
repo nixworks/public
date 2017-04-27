@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NBC News](http://worldnews.nbcnews.com/_news/2013/02/02/16818679-report-turkish-far-left-group-claims-responsibility-for-us-embassy-attack)
-2. [CNN](http://www.cnn.com/2013/02/02/world/turkey-embassy-bombing)
+1. [CNN](http://www.cnn.com/2013/02/02/world/turkey-embassy-bombing)
+2. [NBC News](http://worldnews.nbcnews.com/_news/2013/02/02/16818679-report-turkish-far-left-group-claims-responsibility-for-us-embassy-attack)
 3. [Reuters](http://www.reuters.com/article/2013/02/02/us-turkey-usa-bomb-claim-idUSBRE91107R20130202)
 
 ### Related:

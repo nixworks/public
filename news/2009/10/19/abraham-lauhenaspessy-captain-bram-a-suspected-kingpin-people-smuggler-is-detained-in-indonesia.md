@@ -7,8 +7,8 @@ A PEOPLE-smuggling kingpin has been detained in Indonesia in a breakthrough in e
 
 ### Source:
 
-1. [The Sydney Morning Herald](http://www.smh.com.au/world/people-smuggler-snared-20091018-h2z0.html)
-2. [The Australian](http://www.theaustralian.news.com.au/story/0,25197,26228497-601,00.html)
+1. [The Australian](http://www.theaustralian.news.com.au/story/0,25197,26228497-601,00.html)
+2. [The Sydney Morning Herald](http://www.smh.com.au/world/people-smuggler-snared-20091018-h2z0.html)
 
 ### Related:
 

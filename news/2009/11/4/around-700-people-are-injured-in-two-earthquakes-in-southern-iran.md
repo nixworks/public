@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Times of India](http://edition.cnn.com/2009/WORLD/meast/11/04/iran.earthquake/)
-2. [Fars News Agency](http://english.farsnews.com/newstext.php?nn=8808130620)
+1. [Fars News Agency](http://english.farsnews.com/newstext.php?nn=8808130620)
+2. [Times of India](http://edition.cnn.com/2009/WORLD/meast/11/04/iran.earthquake/)
 
 ### Related:
 

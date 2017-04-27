@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Middle East Online](http://195.224.230.11/english/?id=12884)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4315837.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4315837.stm)
+2. [Middle East Online](http://195.224.230.11/english/?id=12884)
 
 ### Related:
 

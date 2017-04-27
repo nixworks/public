@@ -7,8 +7,8 @@ Kosovo and Gibraltar become the 210th and 211th members of Fifa and can enter Wo
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/sport/football/36290169)
-2. [AP vi ''Daily Mail](http://www.dailymail.co.uk/wires/ap/article-3589279/Senegalese-UN-official-appointed-FIFA-secretary-general.html)
+1. [AP vi ''Daily Mail](http://www.dailymail.co.uk/wires/ap/article-3589279/Senegalese-UN-official-appointed-FIFA-secretary-general.html)
+2. [BBC](http://www.bbc.com/sport/football/36290169)
 
 ### Related:
 

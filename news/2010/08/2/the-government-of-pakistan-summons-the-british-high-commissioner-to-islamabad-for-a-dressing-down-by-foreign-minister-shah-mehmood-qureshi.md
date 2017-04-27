@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10834909)
-2. [The Guardian](http://www.guardian.co.uk/world/2010/aug/02/pakistan-cameron-terrorism-zardari)
-3. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jvnRfecTYjIpVEarhF-h1eiFXhRA)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jvnRfecTYjIpVEarhF-h1eiFXhRA)
+2. [BBC](http://www.bbc.co.uk/news/world-south-asia-10834909)
+3. [The Guardian](http://www.guardian.co.uk/world/2010/aug/02/pakistan-cameron-terrorism-zardari)
 
 ### Related:
 

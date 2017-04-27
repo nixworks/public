@@ -7,9 +7,9 @@ Pope Francis celebrates Mass in the Philippine city of Tacloban, devastated by a
 
 ### Source:
 
-1. [BBC](http://m.bbc.com/news/world-asia-30859609)
-2. [CNN](http://www.cnn.com/2015/01/17/world/pope-philippines-visit-typhoon/)
-3. [AP via U-T San Diego](http://www.utsandiego.com/news/2015/jan/17/pope-braves-approaching-storm-to-comfort-typhoon/)
+1. [AP via U-T San Diego](http://www.utsandiego.com/news/2015/jan/17/pope-braves-approaching-storm-to-comfort-typhoon/)
+2. [BBC](http://m.bbc.com/news/world-asia-30859609)
+3. [CNN](http://www.cnn.com/2015/01/17/world/pope-philippines-visit-typhoon/)
 
 ### Related:
 

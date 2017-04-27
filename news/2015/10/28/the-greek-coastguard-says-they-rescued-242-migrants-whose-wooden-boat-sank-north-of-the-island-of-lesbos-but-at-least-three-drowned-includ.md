@@ -7,8 +7,8 @@ The Greek coastguard rescued 242 migrants when their wooden boat sank north of t
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/10/28/us-migrants-greece-shipwreck-idUSKCN0SM2MI20151028)
-2. [AP via CBS News](http://www.cbsnews.com/news/at-least-3-dead-242-rescued-after-migrant-boat-capsizes-off-greece/)
+1. [AP via CBS News](http://www.cbsnews.com/news/at-least-3-dead-242-rescued-after-migrant-boat-capsizes-off-greece/)
+2. [Reuters](http://www.reuters.com/article/2015/10/28/us-migrants-greece-shipwreck-idUSKCN0SM2MI20151028)
 
 ### Related:
 

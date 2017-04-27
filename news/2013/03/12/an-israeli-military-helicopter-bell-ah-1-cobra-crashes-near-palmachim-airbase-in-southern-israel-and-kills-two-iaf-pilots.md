@@ -7,8 +7,8 @@ An Israeli military helicopter crashes in southern Israel, killing the two pilot
 
 ### Source:
 
-1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/two-iaf-pilots-killed-in-helicopter-crash-in-southern-israel-1.508800)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-21751915)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21751915)
+2. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/two-iaf-pilots-killed-in-helicopter-crash-in-southern-israel-1.508800)
 3. [Reuters](http://www.reuters.com/article/2013/03/12/us-israel-crash-idUSBRE92B07E20130312)
 
 ### Related:

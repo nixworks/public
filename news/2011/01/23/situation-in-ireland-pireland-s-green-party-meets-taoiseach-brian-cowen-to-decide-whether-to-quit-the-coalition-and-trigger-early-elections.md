@@ -7,18 +7,18 @@ The Greens in the Republic of Ireland are to decide whether to leave the coaliti
 
 ### Source:
 
-1. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/o-cuiv-and-carey-get-vacant-ministerial-posts-490500.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/01/2011123161550912447.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-12261077)
-3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0123/breaking18.html)
-4. [RTÉ](http://www.rte.ie/news/2011/0123/politics1.html)
-5. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0123/breaking1.html)
-6. [Sunday Independent](http://www.independent.ie/national-news/cowen-bails-out-as-ff-hit-8pc-low-2507450.html)
-7. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/01/2011123161550912447.html)
+3. [BBC](http://www.bbc.co.uk/news/world-europe-12262486)
+4. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/o-cuiv-and-carey-get-vacant-ministerial-posts-490500.html)
+5. [RTÉ](http://www.rte.ie/news/2011/0123/politics.html)
+6. [RTÉ](http://www.rte.ie/news/2011/0123/politics1.html)
+7. [Sunday Independent](http://www.independent.ie/national-news/cowen-bails-out-as-ff-hit-8pc-low-2507450.html)
 8. [The Guardian](http://www.guardian.co.uk/world/2011/jan/23/ireland-green-party-meeting)
-9. [The Wall Street Journal](http://online.wsj.com/article/SB10001424052748704213404576099760598195684.html)
-10. [BBC](http://www.bbc.co.uk/news/world-europe-12262486)
+9. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0123/breaking1.html)
+10. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0123/breaking18.html)
 11. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0123/breaking33.html)
-12. [RTÉ](http://www.rte.ie/news/2011/0123/politics.html)
+12. [The Wall Street Journal](http://online.wsj.com/article/SB10001424052748704213404576099760598195684.html)
 
 ### Related:
 

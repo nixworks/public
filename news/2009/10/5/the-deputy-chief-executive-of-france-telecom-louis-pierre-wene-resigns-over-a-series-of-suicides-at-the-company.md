@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [euronews](http://www.euronews.net/2009/10/05/france-telecom-deputy-ceo-quits/)
-2. [CNN](http://edition.cnn.com/2009/BUSINESS/10/05/france.telecom.suicides.ft/)
+1. [CNN](http://edition.cnn.com/2009/BUSINESS/10/05/france.telecom.suicides.ft/)
+2. [euronews](http://www.euronews.net/2009/10/05/france-telecom-deputy-ceo-quits/)
 
 ### Related:
 

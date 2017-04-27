@@ -8,8 +8,8 @@ A replay of the controversial World Cup play-off match between France and the Re
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2009/SPORT/football/11/20/football.fifa.ireland.cowen/index.html)
-2. [Sky News](http://news.sky.com/skynews/Home/World-News/Hand-Of-Gaul-No-Replay-Of-Ireland-France-World-Cup-Play-Off-After-Henry-Handball-Says-Fifa/Article/200911315459101?lpos=World_News_News_Your_Way_Region_9&lid=NewsYourWay_ARTICLE_15459101_Hand_Of_Gaul%3A_No_Replay_Of_IrelandFrance_World_Cup_Play-Off_After_Henry_Handball%2C_Says_Fifa)
-3. [RTÉ](http://www.rte.ie/news/2009/1120/ireland.html)
+2. [RTÉ](http://www.rte.ie/news/2009/1120/ireland.html)
+3. [Sky News](http://news.sky.com/skynews/Home/World-News/Hand-Of-Gaul-No-Replay-Of-Ireland-France-World-Cup-Play-Off-After-Henry-Handball-Says-Fifa/Article/200911315459101?lpos=World_News_News_Your_Way_Region_9&lid=NewsYourWay_ARTICLE_15459101_Hand_Of_Gaul%3A_No_Replay_Of_IrelandFrance_World_Cup_Play-Off_After_Henry_Handball%2C_Says_Fifa)
 
 ### Related:
 

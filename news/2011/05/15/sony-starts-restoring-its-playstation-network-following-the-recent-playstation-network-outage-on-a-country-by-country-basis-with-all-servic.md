@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Australian](http://www.theaustralian.com.au/australian-it/japan-stalls-sony-playstation-restart/story-e6frgakx-1226056625499)
-2. [Reuters via MSNBC](http://today.msnbc.msn.com/id/33978506)
+1. [Reuters via MSNBC](http://today.msnbc.msn.com/id/33978506)
+2. [The Australian](http://www.theaustralian.com.au/australian-it/japan-stalls-sony-playstation-restart/story-e6frgakx-1226056625499)
 
 ### Related:
 

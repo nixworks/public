@@ -7,8 +7,8 @@ Military sources in Tajikistan say at least 25 soldiers have been killed in a he
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/07/c_13544878.htm)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11490167)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11490167)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/07/c_13544878.htm)
 
 ### Related:
 

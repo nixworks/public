@@ -7,8 +7,8 @@ Officials warn the number of dead could rise - as a witness describes the devast
 
 ### Source:
 
-1. [The Hindu](http://www.thehindu.com/news/cities/mumbai/fire-breaks-out-in-a-godown-in-mumbais-kandivali-area/article7957850.ece)
-2. [Sky News](http://news.sky.com/story/1601474/mumbai-slum-fire-destroys-1000-homes)
+1. [Sky News](http://news.sky.com/story/1601474/mumbai-slum-fire-destroys-1000-homes)
+2. [The Hindu](http://www.thehindu.com/news/cities/mumbai/fire-breaks-out-in-a-godown-in-mumbais-kandivali-area/article7957850.ece)
 
 ### Related:
 

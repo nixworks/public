@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-06/22/c_13944106.htm)
-2. [Berlingske](http://www.b.dk/politiko/danmark-anerkender-libyens-oproerere)
+1. [Berlingske](http://www.b.dk/politiko/danmark-anerkender-libyens-oproerere)
+2. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-06/22/c_13944106.htm)
 
 ### Related:
 

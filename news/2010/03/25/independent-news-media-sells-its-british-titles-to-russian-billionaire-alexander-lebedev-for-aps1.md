@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/media/2010/mar/05/lebedev-buys-independent-newspapers)
-2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0325/breaking61.html)
-3. [RTÉ](http://www.rte.ie/news/2010/0325/independent.html)
-4. [Reuters](http://www.reuters.com/article/idUSLDE62O1QP20100325)
+1. [RTÉ](http://www.rte.ie/news/2010/0325/independent.html)
+2. [Reuters](http://www.reuters.com/article/idUSLDE62O1QP20100325)
+3. [The Guardian](http://www.guardian.co.uk/media/2010/mar/05/lebedev-buys-independent-newspapers)
+4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0325/breaking61.html)
 
 ### Related:
 

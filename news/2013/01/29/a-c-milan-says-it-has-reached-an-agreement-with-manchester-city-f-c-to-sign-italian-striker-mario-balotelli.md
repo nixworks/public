@@ -7,9 +7,9 @@ Manchester City have agreed to sell Italian striker Mario Balotelli to AC Milan 
 
 ### Source:
 
-1. [Goal.com](http://www.goal.com/en-gb/news/2892/transfer-zone/2013/01/29/3710062/official-manchester-city-agree-balotelli-sale-to-milan)
-2. [The Guardian](http://www.guardian.co.uk/football/2013/jan/28/mario-balotelli-milan-loan-manchester-city)
-3. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1318066/man-city-sends-mario-balotelli-to-ac-milan,-milan-says)
+1. [ESPN](http://soccernet.espn.go.com/news/story/_/id/1318066/man-city-sends-mario-balotelli-to-ac-milan,-milan-says)
+2. [Goal.com](http://www.goal.com/en-gb/news/2892/transfer-zone/2013/01/29/3710062/official-manchester-city-agree-balotelli-sale-to-milan)
+3. [The Guardian](http://www.guardian.co.uk/football/2013/jan/28/mario-balotelli-milan-loan-manchester-city)
 
 ### Related:
 

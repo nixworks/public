@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://in.reuters.com/article/libya-security-idINKBN0U02FA20151217)
-2. [Al Arabiya](http://english.alarabiya.net/en/News/2015/12/17/Libyan-factions-meet-to-sign-U-N-peace-deal.html)
+1. [Al Arabiya](http://english.alarabiya.net/en/News/2015/12/17/Libyan-factions-meet-to-sign-U-N-peace-deal.html)
+2. [Reuters](http://in.reuters.com/article/libya-security-idINKBN0U02FA20151217)
 
 ### Related:
 

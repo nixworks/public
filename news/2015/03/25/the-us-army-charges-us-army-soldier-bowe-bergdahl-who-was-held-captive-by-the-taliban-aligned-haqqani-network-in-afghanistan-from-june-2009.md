@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [FOX News](http://www.foxnews.com/politics/2015/03/25/bergdahl-to-be-charged-with-desertion-official-says)
-2. [CNN](http://www.cnn.com/2015/03/25/politics/bowe-bergdahl-charges-decision/index.html)
+1. [CNN](http://www.cnn.com/2015/03/25/politics/bowe-bergdahl-charges-decision/index.html)
+2. [FOX News](http://www.foxnews.com/politics/2015/03/25/bergdahl-to-be-charged-with-desertion-official-says)
 
 ### Related:
 

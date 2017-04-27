@@ -7,8 +7,8 @@ An Afghan migrant has been shot dead after an incident near the southeastern Bul
 
 ### Source:
 
-1. [Yahoo](https://uk.news.yahoo.com/reports-bulgaria-border-guards-shoot-migrants-230210035.html#b486Pd5)
-2. [AFP via Channel News Asia](http://www.channelnewsasia.com/news/world/afghan-migrant-shot-dead/2196554.html)
+1. [AFP via Channel News Asia](http://www.channelnewsasia.com/news/world/afghan-migrant-shot-dead/2196554.html)
+2. [Yahoo](https://uk.news.yahoo.com/reports-bulgaria-border-guards-shoot-migrants-230210035.html#b486Pd5)
 
 ### Related:
 

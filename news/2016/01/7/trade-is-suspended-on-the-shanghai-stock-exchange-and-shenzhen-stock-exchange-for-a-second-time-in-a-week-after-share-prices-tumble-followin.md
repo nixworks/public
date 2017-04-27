@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Business Insider](http://www.businessinsider.com.au/chinas-currency-rout-is-rocking-markets-again-2016-1?wt=2)
-2. [Reuters](http://www.reuters.com/article/china-csrc-rules-idUSB9N14P03320160107)
-3. [Fox Business](http://www.foxbusiness.com/markets/2016/01/07/us-equity-futures-tumble/?intcmp=hplnws)
+2. [Fox Business](http://www.foxbusiness.com/markets/2016/01/07/us-equity-futures-tumble/?intcmp=hplnws)
+3. [Reuters](http://www.reuters.com/article/china-csrc-rules-idUSB9N14P03320160107)
 
 ### Related:
 

@@ -7,9 +7,9 @@ A suicide bomber on Thursday attacked a police training center in the predominan
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2011/05/06/world/middleeast/06hilla.html?_r=1)
-2. [Reuters via Yahoo News](http://news.yahoo.com/s/nm/20110505/wl_nm/us_iraq_violence_1;_ylt=AsZ2nLyZMjl_AsF4JrC5bVsUewgF;_ylu=X3oDMTE2dW90OTZhBHBvcwMxBHNlYwN5bi1yLWItbGVmdARzbGsDZXYtY2FyYm9tYmV4)
-3. [CNN](http://www.cnn.com/2011/WORLD/meast/05/05/iraq.violence/index.html)
+1. [CNN](http://www.cnn.com/2011/WORLD/meast/05/05/iraq.violence/index.html)
+2. [New York Times](http://www.nytimes.com/2011/05/06/world/middleeast/06hilla.html?_r=1)
+3. [Reuters via Yahoo News](http://news.yahoo.com/s/nm/20110505/wl_nm/us_iraq_violence_1;_ylt=AsZ2nLyZMjl_AsF4JrC5bVsUewgF;_ylu=X3oDMTE2dW90OTZhBHBvcwMxBHNlYwN5bi1yLWItbGVmdARzbGsDZXYtY2FyYm9tYmV4)
 
 ### Related:
 

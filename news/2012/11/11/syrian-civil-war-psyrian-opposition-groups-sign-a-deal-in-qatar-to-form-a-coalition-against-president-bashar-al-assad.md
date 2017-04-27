@@ -7,10 +7,10 @@ Syrian opposition groups havesigned an initial agreement to form a new coalition
 
 ### Source:
 
-1. [Khaleej Times](http://www.khaleejtimes.com/kt-article-display-1.asp?section=middleeast&xfile=data/middleeast/2012/November/middleeast_November165.xml)
-2. [Arutz Sheva](http://www.israelnationalnews.com/News/Flash.aspx/254439#.UKCvpYfs7cA)
-3. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4303853,00.html)
-4. [Reuters](http://www.reuters.com/article/2012/11/11/syria-crisis-doha-idUSL5E8MA2P720121111)
+1. [Arutz Sheva](http://www.israelnationalnews.com/News/Flash.aspx/254439#.UKCvpYfs7cA)
+2. [Khaleej Times](http://www.khaleejtimes.com/kt-article-display-1.asp?section=middleeast&xfile=data/middleeast/2012/November/middleeast_November165.xml)
+3. [Reuters](http://www.reuters.com/article/2012/11/11/syria-crisis-doha-idUSL5E8MA2P720121111)
+4. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4303853,00.html)
 
 ### Related:
 

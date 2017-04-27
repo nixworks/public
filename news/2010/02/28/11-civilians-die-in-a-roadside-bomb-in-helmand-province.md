@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/02/2010228133831513930.html)
-2. [RTÉ](http://www.rte.ie/news/2010/0228/afghanistan.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8541790.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8541790.stm)
+3. [RTÉ](http://www.rte.ie/news/2010/0228/afghanistan.html)
 4. [Reuters India](http://in.reuters.com/article/southAsiaNews/idINIndia-46544820100228?feedType=RSS&feedName=southAsiaNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FINsouthAsiaNews+%28News+%2F+IN+%2F+South+Asia+News%29)
 
 ### Related:

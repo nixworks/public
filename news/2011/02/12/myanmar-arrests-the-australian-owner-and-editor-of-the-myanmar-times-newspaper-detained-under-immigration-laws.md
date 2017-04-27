@@ -7,8 +7,8 @@ Ross Dunkley, the Australian owner of English-language newspaper Myanmar Times, 
 
 ### Source:
 
-1. [Bangkok Post](http://www.bangkokpost.com/news/asia/221216/myanmar-times-editor-in-chief-arrested)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12440879)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12440879)
+2. [Bangkok Post](http://www.bangkokpost.com/news/asia/221216/myanmar-times-editor-in-chief-arrested)
 
 ### Related:
 

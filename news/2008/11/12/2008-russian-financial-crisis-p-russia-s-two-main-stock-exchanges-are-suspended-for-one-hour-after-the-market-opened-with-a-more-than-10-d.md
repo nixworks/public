@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Interfax via OnNet.pl Biznes](http://biznes.onet.pl/7,1861037,wiadomosci.html)
-2. [Forbes](http://www.forbes.com/afxnewslimited/feeds/afx/2008/11/12/afx5681552.html)
+1. [Forbes](http://www.forbes.com/afxnewslimited/feeds/afx/2008/11/12/afx5681552.html)
+2. [Interfax via OnNet.pl Biznes](http://biznes.onet.pl/7,1861037,wiadomosci.html)
 
 ### Related:
 

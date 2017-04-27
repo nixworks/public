@@ -8,8 +8,8 @@ Mexico&#039;s president has warned residents not to lower their guard after Hurr
 ### Source:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/2015-10-24/hurricane-patricia-makes-landfall-in-mexico/6881718)
-2. [National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPEP5+shtml/211140.shtml)
-3. [NBC](http://www.nbcnews.com/news/weather/hurricane-patricia-races-mexicos-pacific-coast-potential-monster-n449731)
+2. [NBC](http://www.nbcnews.com/news/weather/hurricane-patricia-races-mexicos-pacific-coast-potential-monster-n449731)
+3. [National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPEP5+shtml/211140.shtml)
 4. [Reuters](http://www.trust.org/item/20151022183939-hmioy)
 
 ### Related:

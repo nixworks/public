@@ -7,12 +7,12 @@ Thai anti-government protesters have blockaded and shut down a second Bangkok ai
 
 ### Source:
 
-1. [Nation Multimedia](http://www.nationmultimedia.com/2008/11/27/business/business_30089600.php)
-2. [BangkokPost.com](http://www.bangkokpost.com/topstories/topstories.php?id=132341)
+1. [AFP via ABC](http://www.abc.net.au/news/stories/2008/11/27/2431132.htm)
+2. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7752012.stm)
 3. [Bangkok Post](http://www.bangkokpost.com/281108_News/28Nov2008_news03.php)
-4. [Nation Multimedia](http://www.nationmultimedia.com/2008/11/28/politics/politics_30089625.php)
-5. [AFP via ABC](http://www.abc.net.au/news/stories/2008/11/27/2431132.htm)
-6. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7752012.stm)
+4. [BangkokPost.com](http://www.bangkokpost.com/topstories/topstories.php?id=132341)
+5. [Nation Multimedia](http://www.nationmultimedia.com/2008/11/27/business/business_30089600.php)
+6. [Nation Multimedia](http://www.nationmultimedia.com/2008/11/28/politics/politics_30089625.php)
 
 ### Related:
 

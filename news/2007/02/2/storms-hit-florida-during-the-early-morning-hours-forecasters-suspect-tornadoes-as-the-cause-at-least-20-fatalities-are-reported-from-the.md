@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Sun-Sentinel](http://www.sun-sentinel.com/news/local/southflorida/orl-bk-weather02022007,0,1862774.story?coll=sfla-home-headlines)
-2. [CNN](http://www.cnn.com/2007/US/02/02/florida.storm/index.html)
+1. [CNN](http://www.cnn.com/2007/US/02/02/florida.storm/index.html)
+2. [The Sun-Sentinel](http://www.sun-sentinel.com/news/local/southflorida/orl-bk-weather02022007,0,1862774.story?coll=sfla-home-headlines)
 
 ### Related:
 

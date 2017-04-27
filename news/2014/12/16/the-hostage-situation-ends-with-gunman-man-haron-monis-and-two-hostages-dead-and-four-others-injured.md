@@ -7,8 +7,8 @@ Two hostages and the gunman at the centre of a 16-hour siege at a cafe in Sydney
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2014/12/15/world/asia/australia-sydney-hostage-situation/index.html?hpt=hp_t1)
-2. [ABC Australia](http://www.abc.net.au/news/2014-12-15/sydney-siege-hostages-cafe-martin-place-police-operation/5967232)
+1. [ABC Australia](http://www.abc.net.au/news/2014-12-15/sydney-siege-hostages-cafe-martin-place-police-operation/5967232)
+2. [CNN](http://www.cnn.com/2014/12/15/world/asia/australia-sydney-hostage-situation/index.html?hpt=hp_t1)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Syrian opposition and government forces battle for Homs; Kurdish leader killed
 
 ### Source:
 
-1. [Reiters](http://www.reuters.com/article/2013/07/30/us-syria-crisis-kurd-killing-idUSBRE96T0GW20130730)
-2. [ABC](http://abcnews.go.com/International/wireStory/syria-killed-homs-mortar-attack-19812057)
+1. [ABC](http://abcnews.go.com/International/wireStory/syria-killed-homs-mortar-attack-19812057)
+2. [Reiters](http://www.reuters.com/article/2013/07/30/us-syria-crisis-kurd-killing-idUSBRE96T0GW20130730)
 3. [The Times of Israel](http://www.timesofisrael.com/at-least-10-killed-in-homs-mortar-attack/)
 
 ### Related:

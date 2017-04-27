@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aINeYxM0jC48&refer=top_world_news)
-2. [New York Times](http://www.nytimes.com/2005/07/21/international/middleeast/21bandar.html)
-3. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/88B4E45D-06CD-4EAD-A5C4-0521114092A7.htm)
+1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/88B4E45D-06CD-4EAD-A5C4-0521114092A7.htm)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aINeYxM0jC48&refer=top_world_news)
+3. [New York Times](http://www.nytimes.com/2005/07/21/international/middleeast/21bandar.html)
 
 ### Related:
 

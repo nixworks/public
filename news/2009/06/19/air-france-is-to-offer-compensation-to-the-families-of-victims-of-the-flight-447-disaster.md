@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sky News](http://news.sky.com/skynews/Home/World-News/Air-France-To-Compensate-Families-Of-Crash-Victims-Of-Flight-447-Which-Disappeared-In-Atlantic/Article/200906315312243?lpos=World_News_First_World_News_Article_Teaser_Region_3&lid=ARTICLE_15312243_Air_France_To_Compensate_Families_Of_Crash_Victims_Of_Flight_447_Which_Disappeared_In_Atlantic)
-2. [Reuters](http://www.reuters.com/article/marketsNews/idUSLJ62065920090619)
+1. [Reuters](http://www.reuters.com/article/marketsNews/idUSLJ62065920090619)
+2. [Sky News](http://news.sky.com/skynews/Home/World-News/Air-France-To-Compensate-Families-Of-Crash-Victims-Of-Flight-447-Which-Disappeared-In-Atlantic/Article/200906315312243?lpos=World_News_First_World_News_Article_Teaser_Region_3&lid=ARTICLE_15312243_Air_France_To_Compensate_Families_Of_Crash_Victims_Of_Flight_447_Which_Disappeared_In_Atlantic)
 
 ### Related:
 

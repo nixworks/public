@@ -7,13 +7,13 @@ Pope Benedict XVI has begun a four-day trip to Portugal, during which he is like
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2010/0511/abuse.html)
-2. [Irish Independent](http://www.independent.ie/national-news/dark-forces-hiding-truth-over-abuse-says-martin-2174965.html)
-3. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/martin-in-hard-hitting-address-on-state-of-church-457170.html)
-4. [RTÉ](http://www.rte.ie/news/2010/0511/pope_portugal.html)
-5. [BBC](http://news.bbc.co.uk/2/hi/europe/8674350.stm)
-6. [BusinessWeek](http://www.businessweek.com/news/2010-05-11/irish-archbishop-says-some-want-abuse-truth-hidden-update1-.html)
-7. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8675152.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8674350.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8675152.stm)
+3. [BusinessWeek](http://www.businessweek.com/news/2010-05-11/irish-archbishop-says-some-want-abuse-truth-hidden-update1-.html)
+4. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/martin-in-hard-hitting-address-on-state-of-church-457170.html)
+5. [Irish Independent](http://www.independent.ie/national-news/dark-forces-hiding-truth-over-abuse-says-martin-2174965.html)
+6. [RTÉ](http://www.rte.ie/news/2010/0511/abuse.html)
+7. [RTÉ](http://www.rte.ie/news/2010/0511/pope_portugal.html)
 8. [The Guardian](http://www.guardian.co.uk/world/2010/may/11/pope-benedict-child-abuse-portugal)
 
 ### Related:

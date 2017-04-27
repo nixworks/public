@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [allAfrica.com](http://allafrica.com/stories/200607040050.html)
-2. [CNN](http://www.cnn.com/2006/WORLD/africa/07/03/chad.reut/index.html?section=cnn_latest)
+1. [CNN](http://www.cnn.com/2006/WORLD/africa/07/03/chad.reut/index.html?section=cnn_latest)
+2. [allAfrica.com](http://allafrica.com/stories/200607040050.html)
 
 ### Related:
 

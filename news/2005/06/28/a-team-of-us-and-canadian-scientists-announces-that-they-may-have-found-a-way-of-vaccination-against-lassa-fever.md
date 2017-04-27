@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=scienceNews&storyID=2005-06-28T000249Z_01_N27317021_RTRIDST_0_SCIENCE-HEALTH-LASSA-DC.XML)
-2. [BBC](http://news.bbc.co.uk/2/hi/health/4626637.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/health/4626637.stm)
+2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=scienceNews&storyID=2005-06-28T000249Z_01_N27317021_RTRIDST_0_SCIENCE-HEALTH-LASSA-DC.XML)
 
 ### Related:
 

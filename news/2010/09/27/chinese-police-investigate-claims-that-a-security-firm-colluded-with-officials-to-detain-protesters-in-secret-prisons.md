@@ -7,9 +7,9 @@ State media in China say police are checking claims that a security firm was pai
 
 ### Source:
 
-1. [China Economic Observer](http://www.eeo.com.cn/ens/homepage/briefs/2010/09/27/181849.shtml)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5imWnlnHjdcR3sLTlyankeEemuTbgD9IG4VJO0)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11420443)
-3. [AP](http://www.google.com/hostednews/ap/article/ALeqM5imWnlnHjdcR3sLTlyankeEemuTbgD9IG4VJO0)
+3. [China Economic Observer](http://www.eeo.com.cn/ens/homepage/briefs/2010/09/27/181849.shtml)
 
 ### Related:
 

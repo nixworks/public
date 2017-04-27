@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601085&sid=aHRgplwWoFT0)
-2. [realitatea - official final results](http://www.realitatea.net/final-results-–-basescu-wins-presidential-elections-with-50-33prc--of-romanians-votes--bec-says_690922.html)
-3. [Associated Press](http://ca.news.yahoo.com/s/capress/091207/world/eu_romania_presidential_elections)
+1. [Associated Press](http://ca.news.yahoo.com/s/capress/091207/world/eu_romania_presidential_elections)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601085&sid=aHRgplwWoFT0)
+3. [realitatea - official final results](http://www.realitatea.net/final-results-–-basescu-wins-presidential-elections-with-50-33prc--of-romanians-votes--bec-says_690922.html)
 
 ### Related:
 

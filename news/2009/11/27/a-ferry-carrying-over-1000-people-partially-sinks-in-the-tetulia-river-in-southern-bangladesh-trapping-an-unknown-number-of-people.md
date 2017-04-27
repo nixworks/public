@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8383715.stm)
-2. [The Daily Star](http://www.thedailystar.net/newDesign/latest_news.php?nid=20817)
-3. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=126&art_id=nw20091127201513162C843247)
+2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=126&art_id=nw20091127201513162C843247)
+3. [The Daily Star](http://www.thedailystar.net/newDesign/latest_news.php?nid=20817)
 
 ### Related:
 

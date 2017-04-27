@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/aponline/sports/AP-CYC-Tour-de-France.html?hp)
-2. [Fox News](http://www.foxnews.com/story/0,2933,290768,00.html)
+1. [Fox News](http://www.foxnews.com/story/0,2933,290768,00.html)
+2. [New York Times](http://www.nytimes.com/aponline/sports/AP-CYC-Tour-de-France.html?hp)
 
 ### Related:
 

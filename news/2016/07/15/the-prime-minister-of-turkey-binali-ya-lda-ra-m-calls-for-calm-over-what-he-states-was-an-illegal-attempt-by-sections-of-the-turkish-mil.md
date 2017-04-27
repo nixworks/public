@@ -7,11 +7,11 @@ Turkish president Recep Tayyip Erdogan was warned by world leaders on Sunday not
 
 ### Source:
 
-1. [Reuters via Trust](http://news.trust.org/item/20160716024151-60u31)
-2. [The Telegraph](http://www.telegraph.co.uk/news/2016/07/15/turkey-low-flying-jets-and-gunfire-heard-in-ankara1/)
-3. [NBC News](http://www.nbcnews.com/storyline/turkey-military-coup/attempt-coup-turkey-prime-minister-says-n610531?cid=eml_nbn_20160715)
-4. [Washington Post](https://www.washingtonpost.com/news/world/wp/2016/07/15/turkish-president-rejects-coup-attempt-urges-supporters-to-take-to-the-streets/?wpisrc=al_alert-COMBO-world%252Bnation)
-5. [CNBC](http://www.cnbc.com/2016/07/15/gunfire-heard-jets-seen-flying-in-turkish-capital-of-ankara.html)
+1. [CNBC](http://www.cnbc.com/2016/07/15/gunfire-heard-jets-seen-flying-in-turkish-capital-of-ankara.html)
+2. [NBC News](http://www.nbcnews.com/storyline/turkey-military-coup/attempt-coup-turkey-prime-minister-says-n610531?cid=eml_nbn_20160715)
+3. [Reuters via Trust](http://news.trust.org/item/20160716024151-60u31)
+4. [The Telegraph](http://www.telegraph.co.uk/news/2016/07/15/turkey-low-flying-jets-and-gunfire-heard-in-ankara1/)
+5. [Washington Post](https://www.washingtonpost.com/news/world/wp/2016/07/15/turkish-president-rejects-coup-attempt-urges-supporters-to-take-to-the-streets/?wpisrc=al_alert-COMBO-world%252Bnation)
 
 ### Related:
 

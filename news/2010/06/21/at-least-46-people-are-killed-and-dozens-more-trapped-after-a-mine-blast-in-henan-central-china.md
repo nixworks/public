@@ -7,9 +7,9 @@ Twenty-six rescued after explosion rips through coal mine in Henan province.
 
 ### Source:
 
-1. [China Daily](http://www.chinadaily.com.cn/china/2010-06/21/content_9995230.htm)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/06/201062132254682513.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia_pacific/10151705.stm)
-3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/06/201062132254682513.html)
+3. [China Daily](http://www.chinadaily.com.cn/china/2010-06/21/content_9995230.htm)
 
 ### Related:
 

@@ -7,9 +7,9 @@ News and opinion from The Times &amp; The Sunday Times
 
 ### Source:
 
-1. [Times](http://www.timesonline.co.uk/article/0,,2089-2535310,00.html)
-2. [Haaretz](http://www.haaretz.com/hasen/spages/810130.html)
-3. [The Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1167467674699&pagename=JPost%2FJPArticle%2FShowFull)
+1. [Haaretz](http://www.haaretz.com/hasen/spages/810130.html)
+2. [The Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1167467674699&pagename=JPost%2FJPArticle%2FShowFull)
+3. [Times](http://www.timesonline.co.uk/article/0,,2089-2535310,00.html)
 
 ### Related:
 

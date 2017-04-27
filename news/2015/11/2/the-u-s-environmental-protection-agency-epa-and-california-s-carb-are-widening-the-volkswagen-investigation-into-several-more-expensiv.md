@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://in.reuters.com/article/2015/11/02/volkswagen-usa-epa-idINKCN0SR28620151102)
-2. [Consumer Affairs](http://www.consumeraffairs.com/news/epa-more-vw-diesels-have-defeat-device-software-110215.html)
+1. [Consumer Affairs](http://www.consumeraffairs.com/news/epa-more-vw-diesels-have-defeat-device-software-110215.html)
+2. [Reuters](http://in.reuters.com/article/2015/11/02/volkswagen-usa-epa-idINKCN0SR28620151102)
 
 ### Related:
 

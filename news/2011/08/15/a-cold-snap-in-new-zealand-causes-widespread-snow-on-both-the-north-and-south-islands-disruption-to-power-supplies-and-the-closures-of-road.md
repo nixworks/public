@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2011/aug/15/new-zealand-snow-heaviest-years)
-2. [TV New Zealand](http://tvnz.co.nz/national-news/snow-storm-travel-chaos-spreads-4351436)
+1. [TV New Zealand](http://tvnz.co.nz/national-news/snow-storm-travel-chaos-spreads-4351436)
+2. [The Guardian](http://www.guardian.co.uk/world/2011/aug/15/new-zealand-snow-heaviest-years)
 
 ### Related:
 

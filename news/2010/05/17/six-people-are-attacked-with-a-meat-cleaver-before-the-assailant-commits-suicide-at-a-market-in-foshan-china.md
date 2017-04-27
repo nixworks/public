@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/05/17/china.cleaver.attack/)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5i9somIGFbMKtJf51_HeC8LWSBofwD9FOH9UG0)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5i9somIGFbMKtJf51_HeC8LWSBofwD9FOH9UG0)
+2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/05/17/china.cleaver.attack/)
 3. [Shanghai Daily](http://www.shanghaidaily.com/article/?id=437242&type=National)
 
 ### Related:

@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [CNN Money](http://money.cnn.com/2010/11/17/news/economy/climate_exchange/)
-2. [CNN Money](http://money.cnn.com/2010/11/17/news/economy/housing_starts/index.htm?hpt=T2)
-3. [Bloomberg](http://www.bloomberg.com/news/2010-11-17/mortgage-applications-in-u-s-post-biggest-drop-of-2010-on-borrowing-costs.html)
-4. [CNN Money](http://money.cnn.com/2010/11/17/news/economy/cpi_inflation/index.htm)
+1. [Bloomberg](http://www.bloomberg.com/news/2010-11-17/mortgage-applications-in-u-s-post-biggest-drop-of-2010-on-borrowing-costs.html)
+2. [CNN Money](http://money.cnn.com/2010/11/17/news/economy/climate_exchange/)
+3. [CNN Money](http://money.cnn.com/2010/11/17/news/economy/cpi_inflation/index.htm)
+4. [CNN Money](http://money.cnn.com/2010/11/17/news/economy/housing_starts/index.htm?hpt=T2)
 
 ### Related:
 

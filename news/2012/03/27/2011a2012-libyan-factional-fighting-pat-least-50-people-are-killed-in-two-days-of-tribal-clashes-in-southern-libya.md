@@ -7,8 +7,8 @@ THE Libyan government yesterday admitted it faces a national crisis amid an esca
 
 ### Source:
 
-1. [The Scotsman](http://www.scotsman.com/news/libya-facing-meltdown-as-armed-gangs-defy-ntc-rule-1-2199277)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5ix-IdDuq18348X79ZTdtG_1w91PA?docId=b20a208f34c9495b9c78747046268821)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5ix-IdDuq18348X79ZTdtG_1w91PA?docId=b20a208f34c9495b9c78747046268821)
+2. [The Scotsman](http://www.scotsman.com/news/libya-facing-meltdown-as-armed-gangs-defy-ntc-rule-1-2199277)
 
 ### Related:
 

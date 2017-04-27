@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/IRIN/a62d3d6d1b768a86fc053c9ef14896b9.htm)
-2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=86&art_id=qw1114143841405B232)
+1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=86&art_id=qw1114143841405B232)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/IRIN/a62d3d6d1b768a86fc053c9ef14896b9.htm)
 
 ### Related:
 

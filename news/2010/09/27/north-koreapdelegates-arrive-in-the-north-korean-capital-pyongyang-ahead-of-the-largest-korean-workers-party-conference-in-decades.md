@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2010/sep/27/kim-jong-un-north-korea)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/09/20109278920898276.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/09/20109278920898276.html)
+2. [The Guardian](http://www.guardian.co.uk/world/2010/sep/27/kim-jong-un-north-korea)
 
 ### Related:
 

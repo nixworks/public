@@ -7,9 +7,9 @@ The EgyptAir jet which crashed in the Mediterranean on Thursday sent a series of
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/world/live/2016/may/19/egyptair-plane-cairo-paris-live-updates)
-2. [The Telegraph](http://www.telegraph.co.uk/news/2016/05/19/egyptair-flight-from-paris-to-cairo-disappears-from-radar/)
-3. [Reuters](http://www.reuters.com/article/us-egyptair-airplane-idUSKCN0YA08W)
+1. [Reuters](http://www.reuters.com/article/us-egyptair-airplane-idUSKCN0YA08W)
+2. [The Guardian](http://www.theguardian.com/world/live/2016/may/19/egyptair-plane-cairo-paris-live-updates)
+3. [The Telegraph](http://www.telegraph.co.uk/news/2016/05/19/egyptair-flight-from-paris-to-cairo-disappears-from-radar/)
 
 ### Related:
 

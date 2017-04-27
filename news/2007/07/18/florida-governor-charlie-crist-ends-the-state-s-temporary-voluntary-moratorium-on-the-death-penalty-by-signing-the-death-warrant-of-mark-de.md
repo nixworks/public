@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [WKMG](http://www.local6.com/news/13705917/detail.html)
-2. [Orlando Sentinel](http://www.orlandosentinel.com/news/local/state/orl-bk-execution071807,0,5501788.story?coll=orl_tab01_layout)
+1. [Orlando Sentinel](http://www.orlandosentinel.com/news/local/state/orl-bk-execution071807,0,5501788.story?coll=orl_tab01_layout)
+2. [WKMG](http://www.local6.com/news/13705917/detail.html)
 
 ### Related:
 

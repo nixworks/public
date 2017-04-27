@@ -7,8 +7,8 @@ Two men are killed as storms cause damage and result in power cuts across many p
 
 ### Source:
 
-1. [Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/local-national/uk/britain-given-85mph-storm-warning-16098476.html)
-2. [BBC](http://www.bbc.co.uk/news/uk-16390088)
+1. [BBC](http://www.bbc.co.uk/news/uk-16390088)
+2. [Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/local-national/uk/britain-given-85mph-storm-warning-16098476.html)
 
 ### Related:
 

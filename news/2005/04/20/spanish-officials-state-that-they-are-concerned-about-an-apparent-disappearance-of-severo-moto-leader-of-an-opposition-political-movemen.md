@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/IRIN/b36f1c62f0b9439e47ec39f8298e7964.htm)
+1. [AllAfrica](http://allafrica.com/stories/200504200687.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/4464761.stm)
-3. [AllAfrica](http://allafrica.com/stories/200504200687.html)
+3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/IRIN/b36f1c62f0b9439e47ec39f8298e7964.htm)
 
 ### Related:
 

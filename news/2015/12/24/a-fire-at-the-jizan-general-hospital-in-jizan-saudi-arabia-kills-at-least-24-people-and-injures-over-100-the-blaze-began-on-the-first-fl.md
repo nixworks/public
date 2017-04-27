@@ -8,8 +8,8 @@ At least 25 killed and more than 100 injured in blaze in Jizan, which began on f
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/12/deadly-fire-rips-saudi-arabian-hospital-151224044501095.html)
-2. [Reuters](http://www.reuters.com/article/us-saudi-fire-idUSKBN0U70AI20151224)
-3. [Pakistan Today](http://www.pakistantoday.com.pk/2015/12/24/foreign/25-dead-in-saudi-hospital-fire/)
+2. [Pakistan Today](http://www.pakistantoday.com.pk/2015/12/24/foreign/25-dead-in-saudi-hospital-fire/)
+3. [Reuters](http://www.reuters.com/article/us-saudi-fire-idUSKBN0U70AI20151224)
 4. [The News Tribe](http://www.thenewstribe.com/2015/12/24/fire-engulfs-hospital-in-saudi-arabia-25-dead-107-injured/)
 
 ### Related:

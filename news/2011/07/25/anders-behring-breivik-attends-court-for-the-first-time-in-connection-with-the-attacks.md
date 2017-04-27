@@ -7,9 +7,9 @@ Norwegian police revised down the death toll from Friday&#039;s bomb and shootin
 
 ### Source:
 
-1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/norway/8661257/Norway-killings-police-revise-Norway-death-toll-to-76.html)
-2. [AFP via France24](http://www.france24.com/en/20110724-norway-shootings-andersa-behring-breivik-suspect-in-norwegian-killing-spree-faces-court?ns_campaign=nl_quot_en&amp;ns_mchannel=email_marketing&amp;ns_source=NLQ_20110725&amp;f24_member_id=&amp;ns_linkname=node_5225180&amp;ns_fee=0)
-3. [AP via ''Miami Herald](http://www.miamiherald.com/2011/07/24/2328840/norway-suspect-wanted-european.html)
+1. [AFP via France24](http://www.france24.com/en/20110724-norway-shootings-andersa-behring-breivik-suspect-in-norwegian-killing-spree-faces-court?ns_campaign=nl_quot_en&amp;ns_mchannel=email_marketing&amp;ns_source=NLQ_20110725&amp;f24_member_id=&amp;ns_linkname=node_5225180&amp;ns_fee=0)
+2. [AP via ''Miami Herald](http://www.miamiherald.com/2011/07/24/2328840/norway-suspect-wanted-european.html)
+3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/norway/8661257/Norway-killings-police-revise-Norway-death-toll-to-76.html)
 
 ### Related:
 

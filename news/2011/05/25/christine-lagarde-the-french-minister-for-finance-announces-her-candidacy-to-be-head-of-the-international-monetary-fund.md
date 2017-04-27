@@ -7,8 +7,8 @@ Since Dominique Strauss-Kahn resigned to fight sexual assault charges, Finance M
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2011/05/25/business/global/25fund.html)
-2. [CNN](http://www.cnn.com/2011/WORLD/europe/05/25/france.lagarde.imf/index.html?hpt=T2)
+1. [CNN](http://www.cnn.com/2011/WORLD/europe/05/25/france.lagarde.imf/index.html?hpt=T2)
+2. [New York Times](http://www.nytimes.com/2011/05/25/business/global/25fund.html)
 
 ### Related:
 

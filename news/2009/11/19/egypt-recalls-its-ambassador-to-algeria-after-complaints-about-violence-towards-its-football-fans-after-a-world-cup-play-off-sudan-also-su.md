@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8368446.stm)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jNVwKbtHQ2lLaQeH17foxUMCMoWw)
 2. [Al Bawaba](http://www.albawaba.com/en/news/257318)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jNVwKbtHQ2lLaQeH17foxUMCMoWw)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8368446.stm)
 
 ### Related:
 

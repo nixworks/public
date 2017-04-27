@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-04/11/c_13246385.htm)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5g3WcMZg434GxpT2e2PFulX7oTCGg)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/04/2010410163952637877.html)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5g3WcMZg434GxpT2e2PFulX7oTCGg)
+3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-04/11/c_13246385.htm)
 
 ### Related:
 

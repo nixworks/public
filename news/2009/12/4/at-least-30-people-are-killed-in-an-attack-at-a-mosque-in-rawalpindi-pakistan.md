@@ -8,8 +8,8 @@ At least 26 people killed as armed men stage attack in Pakistani garrison city.
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/12/20091249818864233.html)
-2. [Press Trust of India](http://www.ptinews.com/news/407682_35-killed--68-injured-in-Pak-mosque-attack)
-3. [Dawn](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/pakistan/04-blast-in--rawalpindi-qs-04)
+2. [Dawn](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/pakistan/04-blast-in--rawalpindi-qs-04)
+3. [Press Trust of India](http://www.ptinews.com/news/407682_35-killed--68-injured-in-Pak-mosque-attack)
 
 ### Related:
 

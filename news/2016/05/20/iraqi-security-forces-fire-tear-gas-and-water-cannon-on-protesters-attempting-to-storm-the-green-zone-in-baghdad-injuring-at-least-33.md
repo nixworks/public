@@ -7,9 +7,9 @@ Iraqi security forces fired tear gas, water cannons and live ammunition as prote
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-protests-idUSKCN0YB205)
-2. [WSJ](http://www.wsj.com/articles/protesters-police-clash-in-baghdad-1463764330)
-3. [Bloomberg](http://www.bloomberg.com/news/articles/2016-05-20/iraqi-forces-use-tear-gas-as-protesters-storm-abadi-power-center)
+1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-05-20/iraqi-forces-use-tear-gas-as-protesters-storm-abadi-power-center)
+2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-protests-idUSKCN0YB205)
+3. [WSJ](http://www.wsj.com/articles/protesters-police-clash-in-baghdad-1463764330)
 
 ### Related:
 

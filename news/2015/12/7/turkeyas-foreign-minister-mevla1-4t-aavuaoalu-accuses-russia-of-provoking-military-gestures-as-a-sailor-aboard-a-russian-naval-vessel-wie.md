@@ -7,8 +7,8 @@ Turkey accused Russia of a &quot;provocation&quot; on Sunday after a serviceman 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-turkey-russia-idUSKBN0TP0JW20151206#Zb6FGGqegmpT2WYE.97)
-2. [Radio Free Europe](http://www.rferl.org/content/turkey-russia-energy-alternatives/27409842.html)
+1. [Radio Free Europe](http://www.rferl.org/content/turkey-russia-energy-alternatives/27409842.html)
+2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-turkey-russia-idUSKBN0TP0JW20151206#Zb6FGGqegmpT2WYE.97)
 
 ### Related:
 

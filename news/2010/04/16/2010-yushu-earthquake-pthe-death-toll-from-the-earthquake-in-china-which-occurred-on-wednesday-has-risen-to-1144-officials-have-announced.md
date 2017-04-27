@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/04/15/china.quake/index.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8626131.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8626131.stm)
+2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/04/15/china.quake/index.html)
 
 ### Related:
 

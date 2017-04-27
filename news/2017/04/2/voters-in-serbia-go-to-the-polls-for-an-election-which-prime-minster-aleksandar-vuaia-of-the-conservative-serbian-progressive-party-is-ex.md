@@ -7,8 +7,8 @@ Conservative Prime Minister Aleksandar Vucic won Serbia&#039;s presidential elec
 
 ### Source:
 
-1. [Radio Free Europe/Radio Liberty](https://www.rferl.org/a/vucic-serbia-presidential-election/28404991.html)
-2. [CNBC](http://www.cnbc.com/2017/04/03/serbias-aleksandar-vucic-confirms-domination-with-presidential-win.html)
+1. [CNBC](http://www.cnbc.com/2017/04/03/serbias-aleksandar-vucic-confirms-domination-with-presidential-win.html)
+2. [Radio Free Europe/Radio Liberty](https://www.rferl.org/a/vucic-serbia-presidential-election/28404991.html)
 
 ### Related:
 

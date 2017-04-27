@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=3&art_id=nw20090913090501360C548940)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hrJljl18Zvn6do8KN-NfJpBHUNXQ)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hrJljl18Zvn6do8KN-NfJpBHUNXQ)
+2. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=3&art_id=nw20090913090501360C548940)
 3. [Kazakhstan News](http://www.kazakhstannews.net/story/542546)
 4. [RIA Novosti](http://en.rian.ru/exsoviet/20090913/156110641.html)
 

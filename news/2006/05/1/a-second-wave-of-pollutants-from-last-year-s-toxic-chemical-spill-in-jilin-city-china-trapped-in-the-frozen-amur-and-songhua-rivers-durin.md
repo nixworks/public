@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4961164.stm)
-2. [Guardian](http://www.guardian.co.uk/usa/story/0,,1765065,00.html)
-3. [CNN](http://www.cnn.com/2006/US/04/28/boycott/index.html)
+2. [CNN](http://www.cnn.com/2006/US/04/28/boycott/index.html)
+3. [Guardian](http://www.guardian.co.uk/usa/story/0,,1765065,00.html)
 
 ### Related:
 

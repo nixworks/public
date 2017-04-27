@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [San Francisco Chronicle](http://www.sfgate.com/news/article/Eccentric-billionaire-likely-to-lead-country-3912125.php)
-2. [Bloomberg via ''Business Week](http://www.businessweek.com/news/2012-10-01/georgian-president-saakashvili-suffers-surprise-election-setback)
+1. [Bloomberg via ''Business Week](http://www.businessweek.com/news/2012-10-01/georgian-president-saakashvili-suffers-surprise-election-setback)
+2. [San Francisco Chronicle](http://www.sfgate.com/news/article/Eccentric-billionaire-likely-to-lead-country-3912125.php)
 
 ### Related:
 

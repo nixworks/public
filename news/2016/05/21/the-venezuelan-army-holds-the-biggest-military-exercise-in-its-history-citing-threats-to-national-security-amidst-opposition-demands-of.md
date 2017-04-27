@@ -7,8 +7,8 @@ Venezuela is holding the biggest military exercise in its history this weekend, 
 
 ### Source:
 
-1. [Stratis Times](http://www.straitstimes.com/world/americas/military-on-high-alert-in-venezuela)
-2. [Bloomberg](http://www.bloomberg.com/news/articles/2016-05-21/venezuela-holds-war-games-as-opposition-demands-recall-vote)
+1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-05-21/venezuela-holds-war-games-as-opposition-demands-recall-vote)
+2. [Stratis Times](http://www.straitstimes.com/world/americas/military-on-high-alert-in-venezuela)
 
 ### Related:
 

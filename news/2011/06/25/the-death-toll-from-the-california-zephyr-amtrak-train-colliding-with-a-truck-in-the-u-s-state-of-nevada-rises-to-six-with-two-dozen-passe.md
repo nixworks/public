@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RGJ](http://www.rgj.com/article/20110625/NEWS/110624030/Amtrak+train+crash++28+passengers+unaccounted+for+--+but+not+necessarily+on+train+or+dead)
-2. [AP via Forbes](http://www.forbes.com/feeds/ap/2011/06/26/general-us-amtrak-truck-crash_8535476.html)
+1. [AP via Forbes](http://www.forbes.com/feeds/ap/2011/06/26/general-us-amtrak-truck-crash_8535476.html)
+2. [RGJ](http://www.rgj.com/article/20110625/NEWS/110624030/Amtrak+train+crash++28+passengers+unaccounted+for+--+but+not+necessarily+on+train+or+dead)
 
 ### Related:
 

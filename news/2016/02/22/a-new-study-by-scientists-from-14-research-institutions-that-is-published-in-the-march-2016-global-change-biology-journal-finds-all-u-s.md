@@ -8,8 +8,8 @@ Forests nationwide are feeling the heat from increasing drought and climate chan
 ### Source:
 
 1. [Eureka Alert](http://www.eurekalert.org/pub_releases/2016-02/du-nau022216.php)
-2. [Nature World News](http://www.natureworldnews.com/articles/20135/20160222/climate-change-united-states-forests-threatened-study.htm)
-3. [Global Change Biology](http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291365-2486)
+2. [Global Change Biology](http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291365-2486)
+3. [Nature World News](http://www.natureworldnews.com/articles/20135/20160222/climate-change-united-states-forests-threatened-study.htm)
 
 ### Related:
 

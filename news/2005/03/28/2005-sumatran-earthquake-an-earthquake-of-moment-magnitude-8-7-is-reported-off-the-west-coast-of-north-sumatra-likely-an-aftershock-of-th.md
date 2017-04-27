@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-4898004,00.html)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4388579.stm)
 2. [CBC](http://www.cbc.ca/world/story/2005/03/28/quake050328.html)
 3. [CNN](http://edition.cnn.com/2005/WORLD/asiapcf/03/28/indonesia.quake/index.html)
-4. [USGS](http://earthquake.usgs.gov/eqinthenews/2005/usweax/)
-5. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4388579.stm)
+4. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-4898004,00.html)
+5. [USGS](http://earthquake.usgs.gov/eqinthenews/2005/usweax/)
 
 ### Related:
 

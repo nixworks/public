@@ -7,11 +7,11 @@ Billed&#x20;as&#x20;the&#x20;largest&#x20;census&#x20;ever&#x20;attempted&#x20;i
 
 ### Source:
 
-1. [France24](http://www.france24.com/en/20100401-india-census-population-south-asia-government-patil)
-2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8598159.stm)
-3. [The Times of India](http://timesofindia.indiatimes.com/india/Counting-a-billion-India-begins-new-census-/articleshow/5749740.cms)
-4. [Bangkok Post](http://www.bangkokpost.com/news/asia/173432/counting-a-billion-india-begins-new-census)
-5. [The Guardian](http://www.guardian.co.uk/world/2010/apr/01/india-begins-census-billion-people)
+1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8598159.stm)
+2. [Bangkok Post](http://www.bangkokpost.com/news/asia/173432/counting-a-billion-india-begins-new-census)
+3. [France24](http://www.france24.com/en/20100401-india-census-population-south-asia-government-patil)
+4. [The Guardian](http://www.guardian.co.uk/world/2010/apr/01/india-begins-census-billion-people)
+5. [The Times of India](http://timesofindia.indiatimes.com/india/Counting-a-billion-India-begins-new-census-/articleshow/5749740.cms)
 
 ### Related:
 

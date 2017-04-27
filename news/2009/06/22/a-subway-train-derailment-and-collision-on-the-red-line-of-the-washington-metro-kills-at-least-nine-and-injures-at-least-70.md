@@ -7,8 +7,8 @@ WTOP brings you the latest news, traffic, and weather information for the Washin
 
 ### Source:
 
-1. [WTOP](http://www.wtop.com/?nid=25&sid=1702179)
-2. [NBC Washington](http://www.nbcwashington.com/news/local/Metro-Trains-Collide-Between-Takoma-Fort-Totten.html)
+1. [NBC Washington](http://www.nbcwashington.com/news/local/Metro-Trains-Collide-Between-Takoma-Fort-Totten.html)
+2. [WTOP](http://www.wtop.com/?nid=25&sid=1702179)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2005/WORLD/europe/03/07/norway.scream.ap/)
-2. [BBC](http://news.bbc.co.uk/2/hi/entertainment/4324775.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/4324775.stm)
+2. [CNN](http://edition.cnn.com/2005/WORLD/europe/03/07/norway.scream.ap/)
 
 ### Related:
 

@@ -7,13 +7,13 @@ Demonstrators angry over human rights investigation try to break into UN offices
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/07/06/sri.lanka.un.siege/index.html?eref=edition&fbid=4I1tbJn2BPy)
-2. [Bangkok Post](http://www.bangkokpost.com/news/local/185183/cabinet-extends-emergency-rule-in-capital-18-provinces)
-3. [Aljazeera](http://english.aljazeera.net/news/asia/2010/07/20107614954987737.html)
-4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-07/06/c_13386387.htm)
-5. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/07/06/pakistan.militant.slain/index.html?eref=edition&fbid=4I1tbJn2BPy)
+1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/07/20107614954987737.html)
+2. [Aljazeera](http://english.aljazeera.net/news/asia/2010/07/20107674337668209.html)
+3. [Bangkok Post](http://www.bangkokpost.com/news/local/185183/cabinet-extends-emergency-rule-in-capital-18-provinces)
+4. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/07/06/pakistan.militant.slain/index.html?eref=edition&fbid=4I1tbJn2BPy)
+5. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/07/06/sri.lanka.un.siege/index.html?eref=edition&fbid=4I1tbJn2BPy)
 6. [The Guardian](http://www.guardian.co.uk/world/2010/jul/06/thailand-extends-state-of-emergency)
-7. [Aljazeera](http://english.aljazeera.net/news/asia/2010/07/20107674337668209.html)
+7. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-07/06/c_13386387.htm)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2005/04/25/AR2005042501130.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/4481403.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4481403.stm)
+2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2005/04/25/AR2005042501130.html)
 
 ### Related:
 

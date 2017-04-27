@@ -7,8 +7,8 @@ Indonesia has declared a haze emergency in Sumatra&#039;s Riau province, as the 
 
 ### Source:
 
-1. [Channel News Asia](http://www.channelnewsasia.com/news/singapore/in-pictures-haze-on-sep/2125734.html?cid=twtcna)
-2. [AFP via ''Straits Times](http://www.straitstimes.com/asia/se-asia/riau-declares-emergency-as-haze-worsens)
+1. [AFP via ''Straits Times](http://www.straitstimes.com/asia/se-asia/riau-declares-emergency-as-haze-worsens)
+2. [Channel News Asia](http://www.channelnewsasia.com/news/singapore/in-pictures-haze-on-sep/2125734.html?cid=twtcna)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-latin-america-36409366)
-2. [AP via Sun MV](http://english.sun.mv/37838/)
+1. [AP via Sun MV](http://english.sun.mv/37838/)
+2. [BBC](http://www.bbc.co.uk/news/world-latin-america-36409366)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Gunman Raoul Moat told social workers he wanted to see a psychiatrist months bef
 
 ### Source:
 
-1. [ITN](http://itn.co.uk/7a92435cd7a7dea3dee744476e6c5a61.html)
-2. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/crime/7891137/Raoul-Moat-asked-social-workers-for-psychiatric-help-tapes-disclose.html)
-3. [BBC](http://www.bbc.co.uk/news/uk-england-10641225)
+1. [BBC](http://www.bbc.co.uk/news/uk-england-10641225)
+2. [ITN](http://itn.co.uk/7a92435cd7a7dea3dee744476e6c5a61.html)
+3. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/crime/7891137/Raoul-Moat-asked-social-workers-for-psychiatric-help-tapes-disclose.html)
 
 ### Related:
 

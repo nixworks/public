@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2011/WORLD/africa/01/26/tunisia.warrant/)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5g-LwuYrv8kNfnY_cE6P_9SnMC9Qg?docId=CNG.189a3a1fe5c8bba71806f5a7de2822bc.671)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5g-LwuYrv8kNfnY_cE6P_9SnMC9Qg?docId=CNG.189a3a1fe5c8bba71806f5a7de2822bc.671)
+2. [CNN](http://edition.cnn.com/2011/WORLD/africa/01/26/tunisia.warrant/)
 
 ### Related:
 

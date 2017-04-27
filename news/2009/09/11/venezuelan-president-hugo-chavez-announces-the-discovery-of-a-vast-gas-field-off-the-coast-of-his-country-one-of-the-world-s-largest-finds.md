@@ -7,8 +7,8 @@ Spain&rsquo;s biggest oil company Repsol-YPF announced on Friday the discovery o
 
 ### Source:
 
-1. [MercoPress](http://en.mercopress.com/2009/09/12/repsol-makes-huge-natural-gas-discovery-offshore-venezuela)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8251981.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8251981.stm)
+2. [MercoPress](http://en.mercopress.com/2009/09/12/repsol-makes-huge-natural-gas-discovery-offshore-venezuela)
 
 ### Related:
 

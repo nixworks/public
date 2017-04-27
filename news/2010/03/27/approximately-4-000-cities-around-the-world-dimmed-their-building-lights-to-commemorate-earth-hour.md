@@ -7,9 +7,9 @@ Europe&#39;s best known landmarks fall dark,&#160; following Sydney&#39;s Opera 
 
 ### Source:
 
-1. [MSNBC](http://www.msnbc.msn.com/id/36064095/ns/world_news-world_environment/)
-2. [Irish Examiner](http://www.irishexaminer.com/ireland/gormley-energy-crisis-earth-hour-clashes-with-tv-speech-114730.html)
-3. [Irish Independent](http://www.independent.ie/opinion/analysis/party-leader-locates-a-smoking-gun-to-shoot-himself-in-foot-2113997.html)
+1. [Irish Examiner](http://www.irishexaminer.com/ireland/gormley-energy-crisis-earth-hour-clashes-with-tv-speech-114730.html)
+2. [Irish Independent](http://www.independent.ie/opinion/analysis/party-leader-locates-a-smoking-gun-to-shoot-himself-in-foot-2113997.html)
+3. [MSNBC](http://www.msnbc.msn.com/id/36064095/ns/world_news-world_environment/)
 4. [RTÉ](http://www.rte.ie/news/2010/0327/greens.html)
 
 ### Related:

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Mainichi](http://mdn.mainichi-msn.co.jp/national/news/20060831p2a00m0na031000c.html)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601101&sid=a0fBizbRB.vU&refer=japan)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601101&sid=a0fBizbRB.vU&refer=japan)
+2. [Mainichi](http://mdn.mainichi-msn.co.jp/national/news/20060831p2a00m0na031000c.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ After almost a year of debate, NASA has accepted the idea that its Voyager 1 pro
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/science/where-does-solar-system-end-voyager-isnt-officially-there-yet-8C11142403)
-2. [BBC](http://www.bbc.co.uk/news/science-environment-24026153)
+1. [BBC](http://www.bbc.co.uk/news/science-environment-24026153)
+2. [NBC News](http://www.nbcnews.com/science/where-does-solar-system-end-voyager-isnt-officially-there-yet-8C11142403)
 
 ### Related:
 

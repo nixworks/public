@@ -7,8 +7,8 @@ Mitt Romney left Rick Santorum with a dwindling number of opportunities to shake
 
 ### Source:
 
-1. [National Journal](http://www.nationaljournal.com/2012-presidential-campaign/illinois-looking-like-fertile-ground-for-mitt-romney-20120319?page=1&mrefid=freehplead_1)
-2. [Fox News](http://www.foxnews.com/politics/2012/03/20/romney-seeks-to-cushion-delegate-lead-in-illinois/)
+1. [Fox News](http://www.foxnews.com/politics/2012/03/20/romney-seeks-to-cushion-delegate-lead-in-illinois/)
+2. [National Journal](http://www.nationaljournal.com/2012-presidential-campaign/illinois-looking-like-fertile-ground-for-mitt-romney-20120319?page=1&mrefid=freehplead_1)
 
 ### Related:
 

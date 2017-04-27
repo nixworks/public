@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/12/13/us-syria-crisis-russia-idUSBRE8BC0BW20121213/)
-2. [Reuters](http://www.reuters.com/article/2012/12/13/us-syria-crisis-bomb-idUSBRE8BC0A120121213)
+1. [Reuters](http://www.reuters.com/article/2012/12/13/us-syria-crisis-bomb-idUSBRE8BC0A120121213)
+2. [Reuters](http://www.reuters.com/article/2012/12/13/us-syria-crisis-russia-idUSBRE8BC0BW20121213/)
 
 ### Related:
 

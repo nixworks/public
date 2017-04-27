@@ -7,8 +7,8 @@ Former Israeli Prime Minister Ehud Olmert has gone on trial in Jerusalem on corr
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2009/0925/olmerte.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8274116.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8274116.stm)
+2. [RTÉ](http://www.rte.ie/news/2009/0925/olmerte.html)
 
 ### Related:
 

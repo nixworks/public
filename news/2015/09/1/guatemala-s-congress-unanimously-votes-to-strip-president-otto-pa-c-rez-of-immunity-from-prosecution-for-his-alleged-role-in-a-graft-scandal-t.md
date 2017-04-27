@@ -7,8 +7,8 @@ Guatemalan President Otto Perez Molina rejected accusations by the attorney gene
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/09/01/us-guatemala-corruption-immunity-idUSKCN0R14VL20150901)
-2. [Bloomberg](http://www.bloomberg.com/news/articles/2015-08-31/guatemalan-president-rejects-graft-claims-ahead-of-elections)
+1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-08-31/guatemalan-president-rejects-graft-claims-ahead-of-elections)
+2. [Reuters](http://www.reuters.com/article/2015/09/01/us-guatemala-corruption-immunity-idUSKCN0R14VL20150901)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/football/2013/mar/28/england-fans-racist-chanting-ferdinand)
-2. [Goal.com](http://www.goal.com/en-us/news/1786/fifa/2013/03/28/3861105/fifa-receives-complaint-over-racist-chants-from-england-fans)
+1. [Goal.com](http://www.goal.com/en-us/news/1786/fifa/2013/03/28/3861105/fifa-receives-complaint-over-racist-chants-from-england-fans)
+2. [The Guardian](http://www.guardian.co.uk/football/2013/mar/28/england-fans-racist-chanting-ferdinand)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sify](http://sify.com/news/fullstory.php?id=13921080)
-2. [Press Trust of India](http://www.ptinews.com/pti%5Cptisite.nsf/0/0B92E0DDD5E8D642652570620034B426?OpenDocument)
+1. [Press Trust of India](http://www.ptinews.com/pti%5Cptisite.nsf/0/0B92E0DDD5E8D642652570620034B426?OpenDocument)
+2. [Sify](http://sify.com/news/fullstory.php?id=13921080)
 
 ### Related:
 

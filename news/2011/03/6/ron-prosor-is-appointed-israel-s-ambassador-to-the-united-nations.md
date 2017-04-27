@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4038215,00.html)
-2. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/ron-prosor-named-israel-s-new-ambassador-to-the-un-1.347464)
+1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/ron-prosor-named-israel-s-new-ambassador-to-the-un-1.347464)
+2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4038215,00.html)
 
 ### Related:
 

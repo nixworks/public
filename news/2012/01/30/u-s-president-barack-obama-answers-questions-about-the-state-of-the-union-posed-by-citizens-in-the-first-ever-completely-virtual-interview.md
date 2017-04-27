@@ -7,10 +7,10 @@ Retired LAPD officer Stephen Downing submitted YouTube&#39;s most popular questi
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/01/31/idUS61868057620120131)
-2. [The White House](http://www.whitehouse.gov/blog/2012/01/30/president-obama-hangs-out-america)
-3. [Computerworld](http://www.computerworld.com/s/article/9223847/Obama_confronted_on_H_1B_use_during_Google_hangout_)
-4. [Mashable](http://mashable.com/2012/01/31/obama-hangout/)
+1. [Computerworld](http://www.computerworld.com/s/article/9223847/Obama_confronted_on_H_1B_use_during_Google_hangout_)
+2. [Mashable](http://mashable.com/2012/01/31/obama-hangout/)
+3. [Reuters](http://www.reuters.com/article/2012/01/31/idUS61868057620120131)
+4. [The White House](http://www.whitehouse.gov/blog/2012/01/30/president-obama-hangs-out-america)
 
 ### Related:
 

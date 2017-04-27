@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Minneapolis St-Paul Tribune](http://www.startribune.com/entertainment/117150808.html?page=2&c=y&utm_source=twitterfeed&utm_medium=twitter&utm_campaign=fashion+2)
-2. [AP via MSNBC](http://today.msnbc.msn.com/id/41848694/ns/today-today_fashion_and_beauty/?utm_source=twitterfeed&utm_medium=twitter)
+1. [AP via MSNBC](http://today.msnbc.msn.com/id/41848694/ns/today-today_fashion_and_beauty/?utm_source=twitterfeed&utm_medium=twitter)
+2. [Minneapolis St-Paul Tribune](http://www.startribune.com/entertainment/117150808.html?page=2&c=y&utm_source=twitterfeed&utm_medium=twitter&utm_campaign=fashion+2)
 
 ### Related:
 

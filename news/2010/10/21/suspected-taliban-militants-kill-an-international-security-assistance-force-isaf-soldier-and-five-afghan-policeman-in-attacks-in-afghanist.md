@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RTT News](http://www.rttnews.com/Content/GeneralNews.aspx?Id=1452085&SM=1)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iUckGgaU6wJdN67QvJx11685nSRQ?docId=CNG.51f9434115959292fde1e47fbba2fcc6.2c1)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iUckGgaU6wJdN67QvJx11685nSRQ?docId=CNG.51f9434115959292fde1e47fbba2fcc6.2c1)
+2. [RTT News](http://www.rttnews.com/Content/GeneralNews.aspx?Id=1452085&SM=1)
 
 ### Related:
 

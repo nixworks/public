@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [WalmartWatch](http://walmartwatch.com/docs/Susan_Chambers_Memo_to_Wal-Mart_Board.pdf)
-2. [NYT](http://www.nytimes.com/2005/10/26/business/26walmart.ready.html)
+1. [NYT](http://www.nytimes.com/2005/10/26/business/26walmart.ready.html)
+2. [WalmartWatch](http://walmartwatch.com/docs/Susan_Chambers_Memo_to_Wal-Mart_Board.pdf)
 
 ### Related:
 

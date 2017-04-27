@@ -7,10 +7,10 @@ Hundreds of Chinese migrant workers clash with police for a third consecutive ni
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2011/06/13/us-china-labour-unrest-idUSTRE75C0KM20110613)
-2. [China Daily](http://www.chinadaily.com.cn/cndy/2011-06/13/content_12679447.htm)
-3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13746989)
-4. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/la-fg-china-riot-pictures,0,4800764.photogallery)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13746989)
+2. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/la-fg-china-riot-pictures,0,4800764.photogallery)
+3. [China Daily](http://www.chinadaily.com.cn/cndy/2011-06/13/content_12679447.htm)
+4. [Reuters](http://www.reuters.com/article/2011/06/13/us-china-labour-unrest-idUSTRE75C0KM20110613)
 5. [The Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jBOAsw4XxYXQ4jVlyITeHQgWhoLw)
 
 ### Related:

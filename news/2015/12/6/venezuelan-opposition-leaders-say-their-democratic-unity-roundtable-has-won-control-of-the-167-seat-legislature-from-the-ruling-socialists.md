@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP](http://hosted.ap.org/dynamic/stories/L/LT_VENEZUELA_ELECTIONS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
-2. [AP](http://bigstory.ap.org/article/08f41ab3928b490f81647579ab2f1dcb/challenge-socialists-venezuelans-elect-legislature)
+1. [AP](http://bigstory.ap.org/article/08f41ab3928b490f81647579ab2f1dcb/challenge-socialists-venezuelans-elect-legislature)
+2. [AP](http://hosted.ap.org/dynamic/stories/L/LT_VENEZUELA_ELECTIONS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 3. [Reuters](http://www.reuters.com/article/us-venezuela-election-idUSKBN0TP03Y20151207#kBG7mf0wty4AB8cq.97)
 
 ### Related:

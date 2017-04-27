@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/4318340.stm)
-2. [Reuters](http://www.alertnet.org/thenews/newsdesk/MAC727404.htm)
-3. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4319388.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4319388.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/4318340.stm)
+3. [Reuters](http://www.alertnet.org/thenews/newsdesk/MAC727404.htm)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Vladimir Putin orders increase in airstrikes on Syria, and Egypt denies reports 
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/world/2015/nov/17/egypt-plane-crash-bomb-jet-russia-security-service)
+1. [Reuters](http://www.reuters.com/article/2015/11/17/us-egypt-crash-russia-blast-idUSKCN0T60PS20151117)
 2. [Reuters](http://www.reuters.com/article/2015/11/17/us-egypt-crash-russia-blast-idUSKCN0T60PS20151117#Hx23lyRXlafjcZZA.97)
-3. [Reuters](http://www.reuters.com/article/2015/11/17/us-egypt-crash-russia-blast-idUSKCN0T60PS20151117)
+3. [The Guardian](http://www.theguardian.com/world/2015/nov/17/egypt-plane-crash-bomb-jet-russia-security-service)
 
 ### Related:
 

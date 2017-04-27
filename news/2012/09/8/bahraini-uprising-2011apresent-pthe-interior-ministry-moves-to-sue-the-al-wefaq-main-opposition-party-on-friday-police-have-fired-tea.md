@@ -7,9 +7,9 @@ Dozens of anti-government protesters defied ban on unauthorised demonstrations t
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/09/08/us-bahrain-protest-arrests-idUSBRE88708120120908)
-2. [The Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=284298)
-3. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/09/20129852648330216.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/09/20129852648330216.html)
+2. [Reuters](http://www.reuters.com/article/2012/09/08/us-bahrain-protest-arrests-idUSBRE88708120120908)
+3. [The Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=284298)
 
 ### Related:
 

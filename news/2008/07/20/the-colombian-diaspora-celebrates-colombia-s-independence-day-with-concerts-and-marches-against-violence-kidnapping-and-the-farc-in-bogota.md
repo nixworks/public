@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [El Tiempo](http://www.eltiempo.com/colombia/20dejulio/home/por-liberacion-de-secuestrados-colombia-marcha-este-20-de-julio_4378633-1)
-2. [BBC News](http://news.bbc.co.uk/2/hi/americas/7515939.stm)
+1. [BBC News](http://news.bbc.co.uk/2/hi/americas/7515939.stm)
+2. [El Tiempo](http://www.eltiempo.com/colombia/20dejulio/home/por-liberacion-de-secuestrados-colombia-marcha-este-20-de-julio_4378633-1)
 
 ### Related:
 

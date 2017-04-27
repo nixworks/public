@@ -7,9 +7,9 @@ Thirteen soldiers and 10 civilians have died in an attack by Taliban militants o
 
 ### Source:
 
-1. [Los Angeles Times](http://www.latimes.com/news/world/worldnow/la-fg-wn-militants-attack-pakistan-20130202,0,5767158.story)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-21304011)
 2. [CNN](http://www.cnn.com/2013/02/02/world/asia/pakistan-violence)
-3. [BBC](http://www.bbc.co.uk/news/world-asia-21304011)
+3. [Los Angeles Times](http://www.latimes.com/news/world/worldnow/la-fg-wn-militants-attack-pakistan-20130202,0,5767158.story)
 
 ### Related:
 

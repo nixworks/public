@@ -7,8 +7,8 @@ But Researchers Say Habitat Destruction Threatens Survival of Caqueta Titi Monke
 
 ### Source:
 
-1. [ScienceNews](http://www.sciencenews.org/view/generic/id/62055/title/New_titi_monkey,_at_last)
-2. [CBS](http://www.cbsnews.com/stories/2010/08/13/tech/main6770325.shtml)
+1. [CBS](http://www.cbsnews.com/stories/2010/08/13/tech/main6770325.shtml)
+2. [ScienceNews](http://www.sciencenews.org/view/generic/id/62055/title/New_titi_monkey,_at_last)
 
 ### Related:
 

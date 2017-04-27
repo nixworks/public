@@ -7,9 +7,9 @@ Real Madrid seal the Spanish title with a 3-0 win over Athletic Bilbao, while Li
 
 ### Source:
 
-1. [National Post](http://sports.nationalpost.com/2012/05/02/lionel-messi-makes-history-with-hat-trick-in-barcelona-victory/)
+1. [BBC](http://www.bbc.co.uk/sport/0/football/17932028)
 2. [GOAL](http://www.goal.com/en-gb/news/3277/la-liga/2012/05/02/3076280/lionel-messi-equals-gerd-mullers-record-of-most-goals-in-a)
-3. [BBC](http://www.bbc.co.uk/sport/0/football/17932028)
+3. [National Post](http://sports.nationalpost.com/2012/05/02/lionel-messi-makes-history-with-hat-trick-in-barcelona-victory/)
 
 ### Related:
 

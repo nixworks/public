@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/news/world/2010-05-10-aquino-phillipines_N.htm)
-2. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/la-aa-phillipines-election-20100511,0,6544557.story)
+1. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/la-aa-phillipines-election-20100511,0,6544557.story)
+2. [USA Today](http://www.usatoday.com/news/world/2010-05-10-aquino-phillipines_N.htm)
 
 ### Related:
 

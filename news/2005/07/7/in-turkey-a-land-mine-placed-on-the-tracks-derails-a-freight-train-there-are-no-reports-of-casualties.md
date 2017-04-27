@@ -7,12 +7,12 @@
 
 ### Source:
 
-1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L07713234.htm)
-2. [NTV-MSNBC](http://www.ntvmsnbc.com/news/332265.asp)
+1. [NTV-MSNBC](http://www.ntvmsnbc.com/news/332265.asp)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L07713234.htm)
 
 ### Related:
 
-1. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also 5 Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-5-peshmerga-fighters-are-killed-during-a-tu.md) _Context: Turkish_
+1. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also five Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey also claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-five-peshmerga-fighters-are-killed-during-a.md) _Context: Turkish_
 2. [ A U.S. member of the OSCE monitoring mission is killed and two others injured after their vehicle drives over a land mine near Luhansk. ](/news/2017/04/23/a-u-s-member-of-the-osce-monitoring-mission-is-killed-and-two-others-injured-after-their-vehicle-drives-over-a-land-mine-near-luhansk.md) _Context: land mine_
 3. [The European Commission, based on the  Organization for Security and Co-operation in Europe report, calls on Turkey to launch an investigation into allegations of referendum voting irregularities. ](/news/2017/04/18/the-european-commission-based-on-the-organization-for-security-and-co-operation-in-europe-report-calls-on-turkey-to-launch-an-investigati.md) _Context: Turkish_
 4. [A police Sikorsky S-70 helicopter crashes in Tunceli Province, Turkey, killing 12 people. ](/news/2017/04/18/a-police-sikorsky-s-70-helicopter-crashes-in-tunceli-province-turkey-killing-12-people.md) _Context: Turkish_

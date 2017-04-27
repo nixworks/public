@@ -7,8 +7,8 @@ THE death toll from a 6.9-magnitude quake that hit the India-Nepal border has ri
 
 ### Source:
 
-1. [Voice of America](http://blogs.voanews.com/breaking-news/2011/09/21/himalayan-quake-death-toll-passes-100/)
-2. [News Limited](http://www.news.com.au/breaking-news/death-toll-in-india-quake-rises-to-98/story-e6frfku0-1226142722199)
+1. [News Limited](http://www.news.com.au/breaking-news/death-toll-in-india-quake-rises-to-98/story-e6frfku0-1226142722199)
+2. [Voice of America](http://blogs.voanews.com/breaking-news/2011/09/21/himalayan-quake-death-toll-passes-100/)
 
 ### Related:
 

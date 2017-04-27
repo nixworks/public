@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=123&art_id=nw20091017203204689C986218)
-2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5ixeFBxfLzaSjs8Mb8cuFmtPOT6-wD9BD3TRO0)
+1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5ixeFBxfLzaSjs8Mb8cuFmtPOT6-wD9BD3TRO0)
+2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=123&art_id=nw20091017203204689C986218)
 3. [Press TV](http://www.presstv.ir/detail.aspx?id=108935&sectionid=351020101)
 
 ### Related:

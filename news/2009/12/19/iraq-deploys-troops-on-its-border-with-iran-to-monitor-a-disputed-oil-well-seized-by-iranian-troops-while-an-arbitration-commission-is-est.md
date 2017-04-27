@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/12/20091219214812646131.html)
-2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hwK_CSpBxsNuVUEaDuOwmSSCiqGwD9CMKG4G1)
+1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hwK_CSpBxsNuVUEaDuOwmSSCiqGwD9CMKG4G1)
+2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/12/20091219214812646131.html)
 3. [Press TV](http://www.presstv.ir/detail.aspx?id=114179&sectionid=351020101)
 
 ### Related:

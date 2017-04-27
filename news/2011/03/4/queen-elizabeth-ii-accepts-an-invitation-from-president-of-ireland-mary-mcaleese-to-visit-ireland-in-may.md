@@ -7,9 +7,9 @@ The Queen is to make a state visit to the Irish Republic this year - the first b
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2011/0304/queen.html)
-2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0304/breaking54.html)
-3. [BBC](http://www.bbc.co.uk/news/uk-12650584)
+1. [BBC](http://www.bbc.co.uk/news/uk-12650584)
+2. [RTÉ](http://www.rte.ie/news/2011/0304/queen.html)
+3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0304/breaking54.html)
 
 ### Related:
 

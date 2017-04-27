@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-05/25/c_13314180.htm)
-2. [CaribbeanWorldNews](http://www.caribbeanworldnews.com/middle_top_news_detail.php?mid=3525)
+1. [CaribbeanWorldNews](http://www.caribbeanworldnews.com/middle_top_news_detail.php?mid=3525)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-05/25/c_13314180.htm)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Courier Mail](http://www.couriermail.com.au/news/queensland/southeast-queensland-expecting-up-to-300mm-of-rain-over-the-weekend-after-weather-causes-havoc-in-central-queensland/story-e6freoof-1226562163334)
-2. [AAP via NZ Yahoo!](http://nz.sports.yahoo.com/news/gladstone-homes-risk-flooding-222020683.html)
+1. [AAP via NZ Yahoo!](http://nz.sports.yahoo.com/news/gladstone-homes-risk-flooding-222020683.html)
+2. [Courier Mail](http://www.couriermail.com.au/news/queensland/southeast-queensland-expecting-up-to-300mm-of-rain-over-the-weekend-after-weather-causes-havoc-in-central-queensland/story-e6freoof-1226562163334)
 
 ### Related:
 

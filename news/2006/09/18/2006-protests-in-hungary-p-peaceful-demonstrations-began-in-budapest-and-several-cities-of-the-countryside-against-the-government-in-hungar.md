@@ -9,8 +9,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [ (BBC](http://news.bbc.co.uk/2/hi/europe/5354972.stm)
 2. [HVG](http://hvg.hu/english/20060919mtv.aspx)
-3. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=topNews&storyid=2006-09-19T063941Z_01_L18648256_RTRUKOC_0_US-HUNGARY.xml&src=rss)
-4. [Index.hu](http://index.hu)
+3. [Index.hu](http://index.hu)
+4. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=topNews&storyid=2006-09-19T063941Z_01_L18648256_RTRUKOC_0_US-HUNGARY.xml&src=rss)
 
 ### Related:
 

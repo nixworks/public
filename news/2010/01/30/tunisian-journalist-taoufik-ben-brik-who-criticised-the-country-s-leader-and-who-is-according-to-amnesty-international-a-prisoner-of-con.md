@@ -7,8 +7,8 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 
 ### Source:
 
-1. [France 24](http://www.france24.com/en/20100130-court-rejects-taoufik-ben-brik-appeal-jail-press-freedom)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/8488969.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/8488969.stm)
+2. [France 24](http://www.france24.com/en/20100130-court-rejects-taoufik-ben-brik-appeal-jail-press-freedom)
 3. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1169016&lang=eng_news)
 
 ### Related:

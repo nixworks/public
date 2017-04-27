@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8375591.stm)
-2. [Times of India](http://timesofindia.indiatimes.com/world/south-asia/Indians-throng-Nepals-Gadhimai-fair-for-animal-sacrifice/articleshow/5264701.cms)
-3. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/11/24/nepal.animal.sacrifice/)
+2. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/11/24/nepal.animal.sacrifice/)
+3. [Times of India](http://timesofindia.indiatimes.com/world/south-asia/Indians-throng-Nepals-Gadhimai-fair-for-animal-sacrifice/articleshow/5264701.cms)
 
 ### Related:
 

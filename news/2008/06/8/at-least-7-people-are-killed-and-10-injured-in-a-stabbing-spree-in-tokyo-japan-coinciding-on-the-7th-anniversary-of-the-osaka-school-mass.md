@@ -7,8 +7,8 @@ At least seven people have been killed in a stabbing frenzy in a crowded part of
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2008/0608/tokyo.html)
-2. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7442327.stm)
+1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7442327.stm)
+2. [RTÉ](http://www.rte.ie/news/2008/0608/tokyo.html)
 
 ### Related:
 

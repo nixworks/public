@@ -7,8 +7,8 @@ The Phoenix Suns parted ways with coach Alvin Gentry after the team&#39;s 13-28 
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/sports/nba/suns/2013/01/18/phoenix-suns-fire-alvin-gentry/1845677/)
-2. [ESPN](http://espn.go.com/nba/story/_/id/8857447/the-phoenix-suns-parted-ways-coach-alvin-gentry)
+1. [ESPN](http://espn.go.com/nba/story/_/id/8857447/the-phoenix-suns-parted-ways-coach-alvin-gentry)
+2. [USA Today](http://www.usatoday.com/story/sports/nba/suns/2013/01/18/phoenix-suns-fire-alvin-gentry/1845677/)
 
 ### Related:
 

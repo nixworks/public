@@ -7,8 +7,8 @@ At least 30 soldiers have been killed in southern Sudan during internal fighting
 
 ### Source:
 
-1. [Reuters](http://af.reuters.com/article/sudanNews/idAFLDE7150AV20110206)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-12375876)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-12375876)
+2. [Reuters](http://af.reuters.com/article/sudanNews/idAFLDE7150AV20110206)
 
 ### Related:
 

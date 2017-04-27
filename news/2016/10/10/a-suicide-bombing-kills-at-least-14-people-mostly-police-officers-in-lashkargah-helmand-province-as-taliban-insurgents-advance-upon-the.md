@@ -8,8 +8,8 @@ A suspected car bomb on Monday killed at least 10 police amid increased Taliban 
 ### Source:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/2016-10-12/gunman-kills-14-at-shrine-in-afghan-capital/7924388)
-2. [The Voice of America](http://www.voanews.com/a/afghanistan-suicide-car-bombing/3543921.html)
-3. [Reuters](http://www.reuters.com/article/us-afghanistan-blast-idUSKCN12A158)
+2. [Reuters](http://www.reuters.com/article/us-afghanistan-blast-idUSKCN12A158)
+3. [The Voice of America](http://www.voanews.com/a/afghanistan-suicide-car-bombing/3543921.html)
 
 ### Related:
 

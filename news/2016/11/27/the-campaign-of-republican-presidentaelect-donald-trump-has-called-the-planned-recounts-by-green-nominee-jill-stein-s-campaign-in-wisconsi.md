@@ -7,8 +7,8 @@ Republican President-elect Donald Trump says an impending recount of votes in Wi
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2016/11/27/donald-trumps-new-explanation-for-losing-the-popular-vote-a-twitter-born-conspiracy-theory/)
-2. [BBC](http://www.bbc.com/news/world-us-canada-38121264)
+1. [BBC](http://www.bbc.com/news/world-us-canada-38121264)
+2. [The Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2016/11/27/donald-trumps-new-explanation-for-losing-the-popular-vote-a-twitter-born-conspiracy-theory/)
 
 ### Related:
 

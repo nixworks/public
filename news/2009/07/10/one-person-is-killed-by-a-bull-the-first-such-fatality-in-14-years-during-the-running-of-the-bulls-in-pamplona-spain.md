@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [EITB](http://www.eitb.com/news/society/detail/190525/saddest-running-of-bulls-in-pamplona-one-dead/)
-2. [CNN](http://edition.cnn.com/2009/WORLD/europe/07/10/spain.pamplona.bulls.death/)
+1. [CNN](http://edition.cnn.com/2009/WORLD/europe/07/10/spain.pamplona.bulls.death/)
+2. [EITB](http://www.eitb.com/news/society/detail/190525/saddest-running-of-bulls-in-pamplona-one-dead/)
 3. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article6680241.ece)
 
 ### Related:

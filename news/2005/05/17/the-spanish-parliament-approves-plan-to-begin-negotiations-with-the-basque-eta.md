@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [IHT](http://www.iht.com/articles/2005/05/18/news/basque.php)
-2. [Guardian Unlimited](http://www.guardian.co.uk/spain/article/0,2763,1486497,00.html)
+1. [Guardian Unlimited](http://www.guardian.co.uk/spain/article/0,2763,1486497,00.html)
+2. [IHT](http://www.iht.com/articles/2005/05/18/news/basque.php)
 3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L17710877.htm)
 
 ### Related:

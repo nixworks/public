@@ -7,8 +7,8 @@ A convicted Scotland Yard constable awarded a coveted &quot;baton of honour&quot
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/uk/crime/former-met-police-officer-paul-flattley-jailed-for-selling-information-about-kate-middleton-and-john-terry-to-the-sun-8646046.html)
-2. [The Guardian](http://www.guardian.co.uk/uk/2013/jun/05/met-police-officer-sun)
+1. [The Guardian](http://www.guardian.co.uk/uk/2013/jun/05/met-police-officer-sun)
+2. [The Independent](http://www.independent.co.uk/news/uk/crime/former-met-police-officer-paul-flattley-jailed-for-selling-information-about-kate-middleton-and-john-terry-to-the-sun-8646046.html)
 
 ### Related:
 

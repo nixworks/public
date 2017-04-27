@@ -7,11 +7,11 @@ Tens of thousands of ultra-Orthodox Jews gathered in Jerusalem to protest a Supr
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=178759)
-2. [JTA](http://www.jta.org/news/article/2010/06/17/2739656/thousands-of-haredim-protest-in-jerusalem)
-3. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/2010617125258623745.html)
-4. [YnetNews](http://www.ynetnews.com/articles/0,7340,L-3906930,00.html)
-5. [Haaretz](http://www.haaretz.com/news/national/segregated-school-affair-fathers-arrive-in-jail-mothers-fail-to-show-1.296746)
+1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/2010617125258623745.html)
+2. [Haaretz](http://www.haaretz.com/news/national/segregated-school-affair-fathers-arrive-in-jail-mothers-fail-to-show-1.296746)
+3. [JTA](http://www.jta.org/news/article/2010/06/17/2739656/thousands-of-haredim-protest-in-jerusalem)
+4. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=178759)
+5. [YnetNews](http://www.ynetnews.com/articles/0,7340,L-3906930,00.html)
 
 ### Related:
 

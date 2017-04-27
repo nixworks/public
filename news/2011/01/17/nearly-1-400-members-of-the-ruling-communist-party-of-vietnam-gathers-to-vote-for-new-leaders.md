@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Saigon Daily](http://www.saigon-gpdaily.com.vn/National/Politics/2011/1/88947/)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h-TtiezWwU-DZzHaXfvf7MipoOPQ?docId=CNG.e240cfb3386ed1df294d36a84de9eef0.181)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h-TtiezWwU-DZzHaXfvf7MipoOPQ?docId=CNG.e240cfb3386ed1df294d36a84de9eef0.181)
+2. [Saigon Daily](http://www.saigon-gpdaily.com.vn/National/Politics/2011/1/88947/)
 
 ### Related:
 

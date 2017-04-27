@@ -7,10 +7,10 @@ North Korea issues another warning - this time to Seoul - a day after announcing
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2013/01/25/us-korea-north-idUSBRE90O0AJ20130125)
-2. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2013/01/201312591822380791.html)
-3. [Voice of America](http://www.voanews.com/content/north-korea-threatens-strong-physical-countermeasures-over-un-sanctions/1590610.html)
-4. [BBC](http://www.bbc.co.uk/news/world-asia-21191264)
+1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2013/01/201312591822380791.html)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-21191264)
+3. [Reuters](http://www.reuters.com/article/2013/01/25/us-korea-north-idUSBRE90O0AJ20130125)
+4. [Voice of America](http://www.voanews.com/content/north-korea-threatens-strong-physical-countermeasures-over-un-sanctions/1590610.html)
 
 ### Related:
 

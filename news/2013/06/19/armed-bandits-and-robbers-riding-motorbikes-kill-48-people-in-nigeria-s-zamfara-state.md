@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Ventura County Star](http://www.vcstar.com/news/2013/jun/19/armed-robbers-kill-48-in-northwest-nigeria/)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-22971516)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-22971516)
+2. [Ventura County Star](http://www.vcstar.com/news/2013/jun/19/armed-robbers-kill-48-in-northwest-nigeria/)
 
 ### Related:
 

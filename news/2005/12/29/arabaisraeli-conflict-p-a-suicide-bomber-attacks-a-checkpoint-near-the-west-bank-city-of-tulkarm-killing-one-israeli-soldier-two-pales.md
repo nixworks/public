@@ -10,8 +10,8 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 1. [CNN](http://www.cnn.com/2005/WORLD/meast/12/29/mideast.alqaeda.claim/)
 2. [Ha'aretz](http://www.haaretzdaily.com/hasen/spages/664070.html)
 3. [Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2005/12/30/wmid130.xml&sSheet=/news/2005/12/30/ixnewstop.html)
-4. [The New York Times](http://www.nytimes.com/2005/12/29/international/middleeast/29cnd-mideast.html)
-5. [The Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-122905mideast_lat,0,6610305.story?coll=la-story-footer&track=morenews)
+4. [The Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-122905mideast_lat,0,6610305.story?coll=la-story-footer&track=morenews)
+5. [The New York Times](http://www.nytimes.com/2005/12/29/international/middleeast/29cnd-mideast.html)
 
 ### Related:
 

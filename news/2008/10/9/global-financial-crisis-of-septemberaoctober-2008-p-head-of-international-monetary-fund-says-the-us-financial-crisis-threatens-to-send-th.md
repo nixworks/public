@@ -7,12 +7,12 @@ A late-day decline again pushed the markets down sharply, with the Dow falling m
 
 ### Source:
 
-1. [Deutsche Welle](http://www.dw-world.de/dw/function/0,2145,12215_cid_3703262,00.html)
-2. [ekathimerini](http://www.ekathimerini.com/4dcgi/_w_articles_economy_1_09/10/2008_101125)
-3. [New York Times](http://www.nytimes.com/2008/10/10/business/10markets.html?_r=1&hp&oref=slogin)
-4. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=ah7rLJahTxyA&refer=home)
-5. [Forbes](http://www.forbes.com/feeds/ap/2008/10/08/ap5524908.html)
-6. [ekathimerini](http://www.ekathimerini.com/4dcgi/_w_articles_economy_1_09/10/2008_101124)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=ah7rLJahTxyA&refer=home)
+2. [Deutsche Welle](http://www.dw-world.de/dw/function/0,2145,12215_cid_3703262,00.html)
+3. [Forbes](http://www.forbes.com/feeds/ap/2008/10/08/ap5524908.html)
+4. [New York Times](http://www.nytimes.com/2008/10/10/business/10markets.html?_r=1&hp&oref=slogin)
+5. [ekathimerini](http://www.ekathimerini.com/4dcgi/_w_articles_economy_1_09/10/2008_101124)
+6. [ekathimerini](http://www.ekathimerini.com/4dcgi/_w_articles_economy_1_09/10/2008_101125)
 
 ### Related:
 

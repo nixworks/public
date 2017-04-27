@@ -7,8 +7,8 @@ A group of &#39;murderous misfits&#39; planned to massacre as many people as pos
 
 ### Source:
 
-1. [Reuters via News24](http://www.news24.com/news24/World/News/Canadian-misfits-planned-Valentines-Day-massacre-20150214)
-2. [CBC](http://www.cbc.ca/news/canada/nova-scotia/randall-steven-shepherd-lindsay-kantha-souvannarath-charged-in-halifax-shooting-plot-1.2957685)
+1. [CBC](http://www.cbc.ca/news/canada/nova-scotia/randall-steven-shepherd-lindsay-kantha-souvannarath-charged-in-halifax-shooting-plot-1.2957685)
+2. [Reuters via News24](http://www.news24.com/news24/World/News/Canadian-misfits-planned-Valentines-Day-massacre-20150214)
 
 ### Related:
 

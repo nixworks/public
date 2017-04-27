@@ -7,8 +7,8 @@ The latest on the stand-off at a shopping centre in Nairobi as a siege enters in
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-24193284)
-2. [AFP via News24](http://www.news24.com/news24/Africa/News/Major-assault-ongoing-to-end-Kenya-mall-siege-20130922)
+1. [AFP via News24](http://www.news24.com/news24/Africa/News/Major-assault-ongoing-to-end-Kenya-mall-siege-20130922)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-24193284)
 
 ### Related:
 

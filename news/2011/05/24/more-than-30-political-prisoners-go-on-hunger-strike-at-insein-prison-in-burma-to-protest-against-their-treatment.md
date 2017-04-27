@@ -7,8 +7,8 @@ A group of Burmese political prisoners stage a hunger strike over living conditi
 
 ### Source:
 
-1. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_672069.html)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13503135)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13503135)
+2. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_672069.html)
 
 ### Related:
 

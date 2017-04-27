@@ -7,9 +7,9 @@ South African ex-President Nelson Mandela leaves a Johannesburg hospital and is 
 
 ### Source:
 
-1. [IOL](http://www.iol.co.za/news/south-africa/gauteng/mandela-back-home-1.1018332)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/201112874410168278.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-12306753)
-3. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/201112874410168278.html)
+3. [IOL](http://www.iol.co.za/news/south-africa/gauteng/mandela-back-home-1.1018332)
 
 ### Related:
 

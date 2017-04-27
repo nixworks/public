@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Washington Post](https://www.washingtonpost.com/news/acts-of-faith/wp/2015/11/05/mormon-church-to-exclude-children-of-same-sex-couples-from-getting-blessed-and-baptized-until-they-are-18/)
-2. [AP](http://bigstory.ap.org/article/0b92c9d24c44431ab3221608e98bd633/gay-mormon-church-members-say-new-rules-are-devastating)
+1. [AP](http://bigstory.ap.org/article/0b92c9d24c44431ab3221608e98bd633/gay-mormon-church-members-say-new-rules-are-devastating)
+2. [Washington Post](https://www.washingtonpost.com/news/acts-of-faith/wp/2015/11/05/mormon-church-to-exclude-children-of-same-sex-couples-from-getting-blessed-and-baptized-until-they-are-18/)
 
 ### Related:
 

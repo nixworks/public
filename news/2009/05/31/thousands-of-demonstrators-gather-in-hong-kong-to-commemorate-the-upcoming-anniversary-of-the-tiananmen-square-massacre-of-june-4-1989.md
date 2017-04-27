@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Straits Times](http://www.straitstimes.com/Breaking%2BNews/Asia/Story/STIStory_384041.html)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8075884.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8075884.stm)
+2. [Straits Times](http://www.straitstimes.com/Breaking%2BNews/Asia/Story/STIStory_384041.html)
 
 ### Related:
 

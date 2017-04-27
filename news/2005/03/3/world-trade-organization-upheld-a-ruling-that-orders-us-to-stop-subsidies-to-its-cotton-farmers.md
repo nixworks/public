@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000081&sid=aaFLdCfnAbgk&refer=australia)
-2. [BBC](http://news.bbc.co.uk/2/hi/business/4316671.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/business/4316671.stm)
+2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000081&sid=aaFLdCfnAbgk&refer=australia)
 3. [New York Times](http://www.nytimes.com/2005/03/04/business/worldbusiness/04cotton.html)
 
 ### Related:

@@ -7,8 +7,8 @@ A Boko Haram attack in a northeast Nigerian village left at least 151 people dea
 
 ### Source:
 
-1. [The Independent](http://www.independent.ie/world-news/africa/boko-haram-attack-on-nigerian-village-leaves-151-dead-31462214.html)
-2. [AFP via ''Times Live](http://www.timeslive.co.za/africa/2015/08/19/Up-to-150-drowned-shot-fleeing-Boko-Haram-ambush-in-Nigeria)
+1. [AFP via ''Times Live](http://www.timeslive.co.za/africa/2015/08/19/Up-to-150-drowned-shot-fleeing-Boko-Haram-ambush-in-Nigeria)
+2. [The Independent](http://www.independent.ie/world-news/africa/boko-haram-attack-on-nigerian-village-leaves-151-dead-31462214.html)
 
 ### Related:
 

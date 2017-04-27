@@ -8,8 +8,8 @@ Two major Israeli newspapers are reporting that rockets fired from Egypt have hi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20391558)
-2. [Weekly Standard](http://www.weeklystandard.com/blogs/report-rockets-fired-egypt-hit-israel_663502.html)
-3. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=292483)
+2. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=292483)
+3. [Weekly Standard](http://www.weeklystandard.com/blogs/report-rockets-fired-egypt-hit-israel_663502.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Winds will continue to challenge firefighters across North Central Washington. P
 
 ### Source:
 
-1. [The Seattle Times](http://www.seattletimes.com/seattle-news/northwest/friday-wildfire-update/)
-2. [FEMA](https://www.fema.gov/news-release/2015/08/21/president-obama-signs-washington-emergency-declaration)
+1. [FEMA](https://www.fema.gov/news-release/2015/08/21/president-obama-signs-washington-emergency-declaration)
+2. [The Seattle Times](http://www.seattletimes.com/seattle-news/northwest/friday-wildfire-update/)
 
 ### Related:
 

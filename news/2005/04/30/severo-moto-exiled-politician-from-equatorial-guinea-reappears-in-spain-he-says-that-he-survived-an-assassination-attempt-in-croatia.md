@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-04-30T195730Z_01_CAS071771_RTRUKOC_0_EQUITORIALGUINEA-DISAPPEARANCE.xml)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/4502723.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4502723.stm)
+2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-04-30T195730Z_01_CAS071771_RTRUKOC_0_EQUITORIALGUINEA-DISAPPEARANCE.xml)
 
 ### Related:
 

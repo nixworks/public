@@ -7,21 +7,21 @@ In&#x20;the&#x20;Algerian&#x20;capital&#x20;of&#x20;Algiers&#x20;on&#x20;Saturda
 
 ### Source:
 
-1. [Gulf Times](http://www.gulf-times.com/site/topics/article.asp?cu_no=2&item_no=415815&version=1&template_id=57&parent_id=56)
-2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/algeria/8320772/Algeria-shuts-down-internet-and-Facebook-as-protest-mounts.html)
-3. [Herald Sun](http://www.heraldsun.com.au/ipad/thousands-demonstrate-in-algeria/story-fn6s850w-1226005122586)
-4. [BBC](http://www.bbc.co.uk/news/world-middle-east-12438015)
-5. [Montreal Gazette](http://www.montrealgazette.com/news/Algerian+Montrealers+call+democracy/4272630/story.html)
-6. [The Guardian](http://www.guardian.co.uk/world/2011/feb/12/algerian-riot-police-protest-algiers)
-7. [France24](http://www.france24.com/en/20110212-algeria-protest-defy-ban-demonstration-clash-police-algiers-bouteflika-egypt)
-8. [euronews](http://www.youtube.com/watch?v=HltzgRQYjgM)
-9. [The New York Times](http://www.nytimes.com/2011/02/13/world/africa/13algeria.html)
-10. [CNN](http://ireport.cnn.com/docs/DOC-554533?ref=feeds%2Foncnn)
-11. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5igNMLCmsK4D_8o41M1TOo7kcTjdw?docId=CNG.4e201b9124c065f698a3b89b09e38576.1151)
-12. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/algeria/8320273/Algerian-protesters-clash-with-police.html)
-13. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-02/13/c_13729471.htm)
-14. [Al Jazeera](http://blogs.aljazeera.net/africa/2011/02/12/live-blog-feb-13-eye-algeria)
-15. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-02/12/c_13729299.htm)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5igNMLCmsK4D_8o41M1TOo7kcTjdw?docId=CNG.4e201b9124c065f698a3b89b09e38576.1151)
+2. [Al Jazeera](http://blogs.aljazeera.net/africa/2011/02/12/live-blog-feb-13-eye-algeria)
+3. [BBC](http://www.bbc.co.uk/news/world-middle-east-12438015)
+4. [CNN](http://ireport.cnn.com/docs/DOC-554533?ref=feeds%2Foncnn)
+5. [France24](http://www.france24.com/en/20110212-algeria-protest-defy-ban-demonstration-clash-police-algiers-bouteflika-egypt)
+6. [Gulf Times](http://www.gulf-times.com/site/topics/article.asp?cu_no=2&item_no=415815&version=1&template_id=57&parent_id=56)
+7. [Herald Sun](http://www.heraldsun.com.au/ipad/thousands-demonstrate-in-algeria/story-fn6s850w-1226005122586)
+8. [Montreal Gazette](http://www.montrealgazette.com/news/Algerian+Montrealers+call+democracy/4272630/story.html)
+9. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/algeria/8320273/Algerian-protesters-clash-with-police.html)
+10. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/algeria/8320772/Algeria-shuts-down-internet-and-Facebook-as-protest-mounts.html)
+11. [The Guardian](http://www.guardian.co.uk/world/2011/feb/12/algerian-riot-police-protest-algiers)
+12. [The New York Times](http://www.nytimes.com/2011/02/13/world/africa/13algeria.html)
+13. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-02/12/c_13729299.htm)
+14. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-02/13/c_13729471.htm)
+15. [euronews](http://www.youtube.com/watch?v=HltzgRQYjgM)
 
 ### Related:
 

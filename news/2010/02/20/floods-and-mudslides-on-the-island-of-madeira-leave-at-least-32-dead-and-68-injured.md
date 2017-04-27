@@ -7,8 +7,8 @@ At least 32 killed in floods and mudslides triggered by torrential rain in Madei
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/europe/8526288.stm)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/02/2010220174931512140.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/02/2010220174931512140.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/europe/8526288.stm)
 3. [Jersey Evening Post](http://www.thisisjersey.com/2010/02/20/over-30-reported-dead-in-madeira-mudslides/)
 
 ### Related:

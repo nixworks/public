@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Australian](http://www.theaustralian.com.au/news/nation/three-australian-soldiers-killed-seven-wounded-in-afghanistan-shooting/story-e6frg6nf-1226180612536)
-2. [CNN](http://www.cnn.com/2011/10/29/world/asia/afghanistan-nato-attack/)
+1. [CNN](http://www.cnn.com/2011/10/29/world/asia/afghanistan-nato-attack/)
+2. [The Australian](http://www.theaustralian.com.au/news/nation/three-australian-soldiers-killed-seven-wounded-in-afghanistan-shooting/story-e6frg6nf-1226180612536)
 
 ### Related:
 

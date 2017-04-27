@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/news/world/2010-05-11-pakistan-strikes_N.htm)
-2. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/la-fgw-pakistan-missiles-20100511,0,278402.story)
+1. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/la-fgw-pakistan-missiles-20100511,0,278402.story)
+2. [USA Today](http://www.usatoday.com/news/world/2010-05-11-pakistan-strikes_N.htm)
 
 ### Related:
 

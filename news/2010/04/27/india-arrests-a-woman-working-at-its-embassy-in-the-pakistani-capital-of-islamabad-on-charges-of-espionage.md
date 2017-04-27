@@ -7,8 +7,8 @@ Madhuri Gupta, a second secretary in the Indian High Commission in Islamabad, ha
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-04/27/c_13269841.htm)
-2. [Times of India](http://timesofindia.indiatimes.com/india/Indian-diplomat-held-for-passing-secrets-to-Pakistan/articleshow/5863761.cms)
+1. [Times of India](http://timesofindia.indiatimes.com/india/Indian-diplomat-held-for-passing-secrets-to-Pakistan/articleshow/5863761.cms)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-04/27/c_13269841.htm)
 
 ### Related:
 

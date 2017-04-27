@@ -7,8 +7,8 @@ The body of an 86-year-old woman has been recovered from the floodwaters into wh
 
 ### Source:
 
-1. [WA Today](http://www.watoday.com.au/nsw/nsw-storm-body-of-woman-recovered-after-car-swept-away-in-maitland-20150422-1mr5ew.html)
-2. [The Australian](http://www.theaustralian.com.au/news/nation/sydney-storms-wild-winds-rain-hit-nsw-for-third-day/story-e6frg6nf-1227314559837)
+1. [The Australian](http://www.theaustralian.com.au/news/nation/sydney-storms-wild-winds-rain-hit-nsw-for-third-day/story-e6frg6nf-1227314559837)
+2. [WA Today](http://www.watoday.com.au/nsw/nsw-storm-body-of-woman-recovered-after-car-swept-away-in-maitland-20150422-1mr5ew.html)
 3. [WA Today](http://www.watoday.com.au/nsw/sydney-storm-12-areas-declared-natural-disaster-zones-20150422-1mr4up.html)
 
 ### Related:

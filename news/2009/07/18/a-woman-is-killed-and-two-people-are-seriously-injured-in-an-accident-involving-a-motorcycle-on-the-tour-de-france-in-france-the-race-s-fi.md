@@ -7,8 +7,8 @@ A woman was killed in an accident involving a motorcycle on the Tour de France.
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2009/0718/france.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/8157409.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8157409.stm)
+2. [RTÉ](http://www.rte.ie/news/2009/0718/france.html)
 
 ### Related:
 

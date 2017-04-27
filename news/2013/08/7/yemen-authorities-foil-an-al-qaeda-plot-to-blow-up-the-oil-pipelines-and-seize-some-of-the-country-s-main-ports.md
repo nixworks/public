@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Radio Free Europe Radio Liberty](http://www.rferl.org/content/yemen-al-qaeda-foiled/25068888.html)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-23598516)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-23598516)
+2. [Radio Free Europe Radio Liberty](http://www.rferl.org/content/yemen-al-qaeda-foiled/25068888.html)
 
 ### Related:
 

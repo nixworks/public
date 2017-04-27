@@ -7,8 +7,8 @@ In a sudden address to the nation, Prime Minister Narendra Modi has announced th
 
 ### Source:
 
-1. [NDTV](http://www.ndtv.com/india-news/rs-500-and-rs-1-000-notes-are-now-just-paper-says-pm-modi-1622960?pfrom=home-lateststories)
-2. [BBC](http://www.bbc.com/news/business-37906742)
+1. [BBC](http://www.bbc.com/news/business-37906742)
+2. [NDTV](http://www.ndtv.com/india-news/rs-500-and-rs-1-000-notes-are-now-just-paper-says-pm-modi-1622960?pfrom=home-lateststories)
 
 ### Related:
 

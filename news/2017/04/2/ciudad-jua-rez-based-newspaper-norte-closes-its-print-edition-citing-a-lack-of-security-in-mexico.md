@@ -7,8 +7,8 @@ Norte editor tells readers the paper is closing because the safety of reporters 
 
 ### Source:
 
-1. [Guardian](https://www.theguardian.com/world/2017/apr/03/adios-mexican-newspaper-norte-closes-after-of-journalist)
-2. [AP via ABC](http://abcnews.go.com/International/wireStory/mexican-newspaper-closes-citing-insecurity-journalists-46525864)
+1. [AP via ABC](http://abcnews.go.com/International/wireStory/mexican-newspaper-closes-citing-insecurity-journalists-46525864)
+2. [Guardian](https://www.theguardian.com/world/2017/apr/03/adios-mexican-newspaper-norte-closes-after-of-journalist)
 
 ### Related:
 

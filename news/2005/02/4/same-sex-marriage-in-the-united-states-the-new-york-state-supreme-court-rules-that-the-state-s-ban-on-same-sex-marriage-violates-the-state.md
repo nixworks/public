@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2005/LAW/02/04/ny.gaymarriage.ap/index.html)
-2. [CBC](http://www.cbc.ca/world/story/2005/02/04/new-york-gay-marriage050204.html)
+1. [CBC](http://www.cbc.ca/world/story/2005/02/04/new-york-gay-marriage050204.html)
+2. [CNN](http://www.cnn.com/2005/LAW/02/04/ny.gaymarriage.ap/index.html)
 
 ### Related:
 

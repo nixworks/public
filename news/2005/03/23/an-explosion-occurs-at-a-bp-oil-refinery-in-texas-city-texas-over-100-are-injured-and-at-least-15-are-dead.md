@@ -8,8 +8,8 @@ Explosion said to have caused homes to shake homes as far as 5 miles away; over 
 ### Source:
 
 1. [BP](http://www.bp.com/genericarticle.do?categoryId=2012968&contentId=7005000)
-2. [Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20050323.wbp0323/BNStory/International/)
-3. [Fox News](http://www.foxnews.com/story/0,2933,151302,00.html)
+2. [Fox News](http://www.foxnews.com/story/0,2933,151302,00.html)
+3. [Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20050323.wbp0323/BNStory/International/)
 
 ### Related:
 

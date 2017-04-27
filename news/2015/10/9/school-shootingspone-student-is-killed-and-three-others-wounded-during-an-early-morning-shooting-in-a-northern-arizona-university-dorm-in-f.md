@@ -8,8 +8,8 @@ NAU Police Chief G.T. Fowler says the shooting stems from a conflict that develo
 ### Source:
 
 1. [Houston Chronicle](http://www.chron.com/houston/article/2-reportedly-shot-near-TSU-6561321.php)
-2. [New York Daily News](http://www.nydailynews.com/news/crime/1-dead-dorm-shooting-northern-arizona-university-article-1.2391149)
-3. [NPR](http://www.npr.org/sections/thetwo-way/2015/10/09/447112533/shooting-at-northern-arizona-university-campus-1-dead-3-injured)
+2. [NPR](http://www.npr.org/sections/thetwo-way/2015/10/09/447112533/shooting-at-northern-arizona-university-campus-1-dead-3-injured)
+3. [New York Daily News](http://www.nydailynews.com/news/crime/1-dead-dorm-shooting-northern-arizona-university-article-1.2391149)
 4. [Reuters](http://www.reuters.com/article/2015/10/09/us-usa-shooting-texas-idUSKCN0S322O20151009)
 
 ### Related:

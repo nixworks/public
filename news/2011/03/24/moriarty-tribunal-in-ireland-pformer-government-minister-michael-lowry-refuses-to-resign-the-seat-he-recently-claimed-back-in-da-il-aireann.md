@@ -7,12 +7,12 @@ Irish billionaire businessman Denis O&#039;Brien and a former Irish government m
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/finance/newsbysector/mediatechnologyandtelecoms/media/8399790/Denis-OBrien-paid-minister-to-help-secure-Irish-phone-licence.html)
-2. [The Irish Times](http://www.irishtimes.com/newspaper/opinion/2011/0324/1224292954590.html)
-3. [The Irish Times](http://www.irishtimes.com/newspaper/opinion/2011/0324/1224292954595.html)
-4. [Irish Central](http://www.irishcentral.com/story/roots/the_american_in_ireland/from-little-corrupt-acts-do-big-corrupt-acts-grow-118499624.html)
-5. [Irish Examiner](http://www.examiner.ie/ireland/lowry-refuses-to-resign-as-dpp-receives-findings-149203.html)
-6. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2011/0324/1224292956367.html)
+1. [Irish Central](http://www.irishcentral.com/story/roots/the_american_in_ireland/from-little-corrupt-acts-do-big-corrupt-acts-grow-118499624.html)
+2. [Irish Examiner](http://www.examiner.ie/ireland/lowry-refuses-to-resign-as-dpp-receives-findings-149203.html)
+3. [The Daily Telegraph](http://www.telegraph.co.uk/finance/newsbysector/mediatechnologyandtelecoms/media/8399790/Denis-OBrien-paid-minister-to-help-secure-Irish-phone-licence.html)
+4. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2011/0324/1224292956367.html)
+5. [The Irish Times](http://www.irishtimes.com/newspaper/opinion/2011/0324/1224292954590.html)
+6. [The Irish Times](http://www.irishtimes.com/newspaper/opinion/2011/0324/1224292954595.html)
 
 ### Related:
 

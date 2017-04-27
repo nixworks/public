@@ -7,11 +7,11 @@ A Syrian tribe has appealed to the West to save it from extermination at the han
 
 ### Source:
 
-1. [Reuters via ''Globe and Mail](http://www.theglobeandmail.com/news/world/syrian-planes-bomb-rebel-held-border-post-near-israel/article20231260/)
-2. [The Times](http://www.thetimes.co.uk/tto/news/world/middleeast/article4188866.ece)
-3. [Reuters](http://www.reuters.com/article/2014/08/29/us-syria-crisis-peacekeepers-un-idUSKBN0GS1SY20140829?feedType=RSS&feedName=topNews)
-4. [AP](http://bigstory.ap.org/article/fiji-says-43-soldiers-captured-golan-heights)
-5. [BBC](http://www.bbc.com/news/world-middle-east-28965959)
+1. [AP](http://bigstory.ap.org/article/fiji-says-43-soldiers-captured-golan-heights)
+2. [BBC](http://www.bbc.com/news/world-middle-east-28965959)
+3. [Reuters via ''Globe and Mail](http://www.theglobeandmail.com/news/world/syrian-planes-bomb-rebel-held-border-post-near-israel/article20231260/)
+4. [Reuters](http://www.reuters.com/article/2014/08/29/us-syria-crisis-peacekeepers-un-idUSKBN0GS1SY20140829?feedType=RSS&feedName=topNews)
+5. [The Times](http://www.thetimes.co.uk/tto/news/world/middleeast/article4188866.ece)
 
 ### Related:
 

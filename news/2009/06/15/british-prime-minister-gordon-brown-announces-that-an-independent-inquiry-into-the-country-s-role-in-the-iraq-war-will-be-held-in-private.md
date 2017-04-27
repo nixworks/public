@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/8100432.stm)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/06/200961514301331360.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/06/200961514301331360.html)
+2. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/8100432.stm)
 
 ### Related:
 

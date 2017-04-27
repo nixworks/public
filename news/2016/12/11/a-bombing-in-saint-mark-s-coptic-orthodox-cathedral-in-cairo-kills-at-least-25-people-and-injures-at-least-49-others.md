@@ -7,8 +7,8 @@ An explosion inside Cairo&#039;s Coptic cathedral has killed at least 25 people 
 
 ### Source:
 
-1. [Reuters via ABC](http://www.abc.net.au/news/2016-12-11/blast-near-cairo-coptic-cathedral-kills-at-least-20/8110762)
-2. [AP via ''Daily Mail](http://www.dailymail.co.uk/wires/ap/article-4021776/Blast-Egypts-main-Coptic-Christian-cathedral-kills-5.html)
+1. [AP via ''Daily Mail](http://www.dailymail.co.uk/wires/ap/article-4021776/Blast-Egypts-main-Coptic-Christian-cathedral-kills-5.html)
+2. [Reuters via ABC](http://www.abc.net.au/news/2016-12-11/blast-near-cairo-coptic-cathedral-kills-at-least-20/8110762)
 
 ### Related:
 

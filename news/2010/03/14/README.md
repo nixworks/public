@@ -16,7 +16,7 @@ Cardinal Séan Brady has defended his role in the Church&#39;s handling of child
 Israeli forces arrested a senior Hamas figure on Sunday after a raid in the town of Ramallah, the seat of the West Bank-based Palestinian government, the Israeli military said.
 
 ### [Two French Triangle workers who were kidnapped in Birao, Central African Republic last November are released in Darfur. ](/news/2010/03/14/two-french-triangle-workers-who-were-kidnapped-in-birao-central-african-republic-last-november-are-released-in-darfur.md)
-_Context: Birao, Central African Republic, Darfur_
+_Context: Birao, Central-African, Darfur_
 
 ### [Two people are killed and 30 injured when an avalanche hits a snowmobile competition in British Columbia, Western Canada. ](/news/2010/03/14/two-people-are-killed-and-30-injured-when-an-avalanche-hits-a-snowmobile-competition-in-british-columbia-western-canada.md)
 _Context: British Columbia, Western Canada, snowmobile_

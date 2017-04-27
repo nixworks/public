@@ -7,9 +7,9 @@ China and North Korea evacuate thousands of people from their homes after heavy 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11051028)
-2. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-08/22/c_13456270.htm)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jvDMGMPxvE0ITO4eYEgHTas3Qrcg)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jvDMGMPxvE0ITO4eYEgHTas3Qrcg)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11051028)
+3. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-08/22/c_13456270.htm)
 
 ### Related:
 

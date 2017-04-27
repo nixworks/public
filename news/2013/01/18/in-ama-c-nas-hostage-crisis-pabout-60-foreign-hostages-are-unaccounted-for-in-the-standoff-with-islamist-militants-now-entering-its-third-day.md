@@ -8,10 +8,10 @@ Hundreds of hostages have been freed from militants at a gas facility in Algeria
 ### Source:
 
 1. [AP via WPSD](http://www.wpsdlocal6.com/home/ticker/Algeria-60-hostages-dead-missing-in-standoff-187438671.html)
-2. [USA Today](http://www.usatoday.com/story/news/world/2013/01/18/algeria-hostage-crisis/1844217/)
-3. [BBC](http://www.bbc.co.uk/news/world-africa-21085590)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-21085590)
+3. [New York Daily News](http://www.nydailynews.com/news/world/algeria-hostage-crisis-continues-fighting-article-1.1242432)
 4. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/algeria/9811841/Algeria-hostage-crisis-militant-group-wanted-to-trade-US-hostages-for-Blind-Sheikh.html)
-5. [New York Daily News](http://www.nydailynews.com/news/world/algeria-hostage-crisis-continues-fighting-article-1.1242432)
+5. [USA Today](http://www.usatoday.com/story/news/world/2013/01/18/algeria-hostage-crisis/1844217/)
 
 ### Related:
 

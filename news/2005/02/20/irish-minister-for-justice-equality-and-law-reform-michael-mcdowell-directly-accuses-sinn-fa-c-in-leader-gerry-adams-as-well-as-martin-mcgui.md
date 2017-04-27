@@ -7,8 +7,8 @@ The Taoiseach, Bertie Ahern, has said he does not know who the members of the IR
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2005/0220/northpolitics.html)
-2. [Ireland Online](http://212.2.162.45/news/story.asp?j=134311558&p=y343yzz64&n=134312318)
+1. [Ireland Online](http://212.2.162.45/news/story.asp?j=134311558&p=y343yzz64&n=134312318)
+2. [RTÉ](http://www.rte.ie/news/2005/0220/northpolitics.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Antiwar](http://original.antiwar.com/updates/2012/06/04/blast-at-baghdad-shiite-office-kills-wounds-over-200/)
-2. [AP via ''The Brisbane Times](http://news.brisbanetimes.com.au/breaking-news-world/car-bomb-kills-13-in-baghdad-20120604-1zryg.html)
+1. [AP via ''The Brisbane Times](http://news.brisbanetimes.com.au/breaking-news-world/car-bomb-kills-13-in-baghdad-20120604-1zryg.html)
+2. [Antiwar](http://original.antiwar.com/updates/2012/06/04/blast-at-baghdad-shiite-office-kills-wounds-over-200/)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Opposition delays joining government pending reinstatement of electoral commissi
 
 ### Source:
 
-1. [Post Zambia](http://www.postzambia.com/post-read_article.php?articleId=6315)
-2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/02/2010224131949809375.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/02/2010224131949809375.html)
+2. [Post Zambia](http://www.postzambia.com/post-read_article.php?articleId=6315)
 
 ### Related:
 

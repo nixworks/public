@@ -7,9 +7,9 @@ North Korean leader Kim Jong Il was visiting China on Friday, a South Korean off
 
 ### Source:
 
-1. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2011/05/20/40/0401000000AEN20110520008000315F.HTML)
-2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/05/201152034659893769.html)
-3. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/05/20/china.kim.jong.il/)
+1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/05/201152034659893769.html)
+2. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/05/20/china.kim.jong.il/)
+3. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2011/05/20/40/0401000000AEN20110520008000315F.HTML)
 
 ### Related:
 

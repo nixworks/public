@@ -7,8 +7,8 @@ One of the most demonised patients in history - Gaetan Dugas - has been convinci
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2016/10/27/health/hiv-patient-zero-genetic-analysis.html?_r=0)
-2. [BBC](http://www.bbc.com/news/health-37767179)
+1. [BBC](http://www.bbc.com/news/health-37767179)
+2. [The New York Times](http://www.nytimes.com/2016/10/27/health/hiv-patient-zero-genetic-analysis.html?_r=0)
 
 ### Related:
 

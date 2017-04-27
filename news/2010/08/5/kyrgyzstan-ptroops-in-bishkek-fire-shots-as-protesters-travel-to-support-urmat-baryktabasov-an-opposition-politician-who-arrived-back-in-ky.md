@@ -7,10 +7,10 @@ Kyrgyz troops fire shots in the air to disperse protesters in Bishkek supporting
 
 ### Source:
 
-1. [China Daily](http://www.chinadaily.com.cn/world/2010-08/05/content_11105816.htm)
-2. [France24](http://www.france24.com/en/20100805-police-clash-with-protestors-after-attempted-coup-urmat-baryktobasov-kyrgyzstan)
-3. [UPI](http://www.upi.com/Top_News/Special/2010/08/05/Shots-fired-in-Kyrgyz-capital/UPI-80971281031235/)
-4. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10883854)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10883854)
+2. [China Daily](http://www.chinadaily.com.cn/world/2010-08/05/content_11105816.htm)
+3. [France24](http://www.france24.com/en/20100805-police-clash-with-protestors-after-attempted-coup-urmat-baryktobasov-kyrgyzstan)
+4. [UPI](http://www.upi.com/Top_News/Special/2010/08/05/Shots-fired-in-Kyrgyz-capital/UPI-80971281031235/)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Swimming Australia will replace Leigh Nugent as head coach after he offered his 
 
 ### Source:
 
-1. [The Australian](http://www.theaustralian.com.au/sport/interim-head-coach-for-swimming-australia-as-leigh-nugent-quits/story-e6frg7mf-1226601536852)
-2. [ABC News Australia](http://www.abc.net.au/news/2013-03-20/nugent-resigns-as-head-coach/4584292)
+1. [ABC News Australia](http://www.abc.net.au/news/2013-03-20/nugent-resigns-as-head-coach/4584292)
+2. [The Australian](http://www.theaustralian.com.au/sport/interim-head-coach-for-swimming-australia-as-leigh-nugent-quits/story-e6frg7mf-1226601536852)
 
 ### Related:
 

@@ -7,8 +7,8 @@ India on Thursday voted in favour of a US-sponsored censure motion against Sri L
 
 ### Source:
 
-1. [Economic Times of India](http://economictimes.indiatimes.com/news/politics/nation/unhrc-india-dilutes-censure-motion-before-voting-with-west-against-sri-lanka/articleshow/12375263.cms)
-2. [Daily Times of Pakistan](http://www.dailytimes.com.pk/default.asp?page=2012\03\23\story_23-3-2012_pg14_2)
+1. [Daily Times of Pakistan](http://www.dailytimes.com.pk/default.asp?page=2012\03\23\story_23-3-2012_pg14_2)
+2. [Economic Times of India](http://economictimes.indiatimes.com/news/politics/nation/unhrc-india-dilutes-censure-motion-before-voting-with-west-against-sri-lanka/articleshow/12375263.cms)
 
 ### Related:
 

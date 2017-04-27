@@ -7,8 +7,8 @@ At least five people die and thousands are rescued as &quot;historic&quot; flood
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/nightly-news/video/louisiana-flooding-emergency-at-least-7-dead-20-000-rescued-744759363666)
-2. [BBC](http://www.bbc.com/news/world-us-canada-37081934)
+1. [BBC](http://www.bbc.com/news/world-us-canada-37081934)
+2. [NBC News](http://www.nbcnews.com/nightly-news/video/louisiana-flooding-emergency-at-least-7-dead-20-000-rescued-744759363666)
 
 ### Related:
 

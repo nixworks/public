@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bangkok Post](http://www.bangkokpost.com/news/asia/155251/taiwan-court-rejects-ex-president-bail-bid-tv)
-2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hA1Z8MlHPhdXAe2_2z7zBBZhV99QD9ATNRQ80)
+1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hA1Z8MlHPhdXAe2_2z7zBBZhV99QD9ATNRQ80)
+2. [Bangkok Post](http://www.bangkokpost.com/news/asia/155251/taiwan-court-rejects-ex-president-bail-bid-tv)
 
 ### Related:
 

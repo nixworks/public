@@ -7,10 +7,10 @@ Germany sharply criticized Israel on Sunday for denying its development minister
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/21/c_13359684.htm)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iDhHezf3uwjNynPmA4yRr2d5kjIA)
-3. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3907973,00.html)
-4. [Reuters](http://www.reuters.com/article/idUSTRE65J1V020100620)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iDhHezf3uwjNynPmA4yRr2d5kjIA)
+2. [Reuters](http://www.reuters.com/article/idUSTRE65J1V020100620)
+3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/21/c_13359684.htm)
+4. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3907973,00.html)
 
 ### Related:
 

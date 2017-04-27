@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Jakarta Post](http://www.thejakartapost.com/news/2011/06/21/indonesia-%E2%80%98feels-cheated%E2%80%99-saudi-government.html)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13860097)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13860097)
+2. [Jakarta Post](http://www.thejakartapost.com/news/2011/06/21/indonesia-%E2%80%98feels-cheated%E2%80%99-saudi-government.html)
 
 ### Related:
 

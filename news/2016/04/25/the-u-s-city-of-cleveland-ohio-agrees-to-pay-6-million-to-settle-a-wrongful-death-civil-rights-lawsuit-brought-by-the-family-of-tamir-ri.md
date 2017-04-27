@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [NPR](http://www.npr.org/sections/thetwo-way/2016/04/25/475583746/cleveland-to-pay-6-million-to-settle-tamir-rice-lawsuit)
-2. [CNN](http://www.cnn.com/2015/12/28/us/tamir-rice-shooting/)
+1. [CNN](http://www.cnn.com/2015/12/28/us/tamir-rice-shooting/)
+2. [NPR](http://www.npr.org/sections/thetwo-way/2016/04/25/475583746/cleveland-to-pay-6-million-to-settle-tamir-rice-lawsuit)
 
 ### Related:
 

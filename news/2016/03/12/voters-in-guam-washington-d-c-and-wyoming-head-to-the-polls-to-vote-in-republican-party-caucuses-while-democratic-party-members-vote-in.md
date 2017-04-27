@@ -7,10 +7,10 @@ Texas Sen. Ted Cruz took the Wyoming GOP caucuses by a wide margin Saturday nigh
 
 ### Source:
 
-1. [The Guardian](http://www.theguardian.com/us-news/ng-interactive/2016/mar/12/primary-caucus-live-results-wyoming-washington-dc-election-2016)
+1. [CNN](http://edition.cnn.com/2016/03/11/politics/northern-mariana-islands-guam-dc-wyoming-saturday-vote/)
 2. [NBC News, New York Times'' via Breaking News](http://www.breakingnews.com/item/2016/03/13/hillary-clinton-wins-northern-mariana-islands-demo/)
-3. [CNN](http://edition.cnn.com/2016/03/11/politics/northern-mariana-islands-guam-dc-wyoming-saturday-vote/)
-4. [New York Post](http://nypost.com/2016/03/12/ted-cruz-wins-most-delegates-at-stake-in-wyoming/?utm_medium=email&utm_campaign=NY%2520Post%2520Breaking%2520News&utm_source=Sailthru&utm_term=breakingnews_exclusives)
+3. [New York Post](http://nypost.com/2016/03/12/ted-cruz-wins-most-delegates-at-stake-in-wyoming/?utm_medium=email&utm_campaign=NY%2520Post%2520Breaking%2520News&utm_source=Sailthru&utm_term=breakingnews_exclusives)
+4. [The Guardian](http://www.theguardian.com/us-news/ng-interactive/2016/mar/12/primary-caucus-live-results-wyoming-washington-dc-election-2016)
 
 ### Related:
 

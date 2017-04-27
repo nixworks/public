@@ -7,8 +7,8 @@ A state of emergency is declared in Guatemala where heavy rain has caused widesp
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2010/0905/guatemala.html)
-2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11189918)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11189918)
+2. [RTÉ](http://www.rte.ie/news/2010/0905/guatemala.html)
 
 ### Related:
 

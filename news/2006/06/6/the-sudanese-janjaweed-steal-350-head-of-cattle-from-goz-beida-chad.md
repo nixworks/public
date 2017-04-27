@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Voice of America](http://www.voanews.com/english/2006-06-06-voa17.cfm)
-2. [Mail and Guardian](http://www.mg.co.za/articlepage.aspx?area=/breaking_news/breaking_news__africa/&articleid=273709)
+1. [Mail and Guardian](http://www.mg.co.za/articlepage.aspx?area=/breaking_news/breaking_news__africa/&articleid=273709)
+2. [Voice of America](http://www.voanews.com/english/2006-06-06-voa17.cfm)
 
 ### Related:
 

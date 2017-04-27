@@ -7,8 +7,8 @@ Two men are due in court in the Irish Republic on Sunday afternoon following a m
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2010/1010/dissidents.html)
-2. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-11506983)
+1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-11506983)
+2. [RTÉ](http://www.rte.ie/news/2010/1010/dissidents.html)
 3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1009/breaking3.html)
 
 ### Related:

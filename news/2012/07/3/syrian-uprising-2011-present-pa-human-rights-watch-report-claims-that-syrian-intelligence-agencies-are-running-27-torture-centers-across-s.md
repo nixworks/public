@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters via Yahoo! News](http://news.yahoo.com/syria-running-27-torture-centers-rights-group-050836605.html)
-2. [CNN](http://edition.cnn.com/2012/07/03/world/meast/syria-torture-report/index.html?hpt=imi_t2)
+1. [CNN](http://edition.cnn.com/2012/07/03/world/meast/syria-torture-report/index.html?hpt=imi_t2)
+2. [Reuters via Yahoo! News](http://news.yahoo.com/syria-running-27-torture-centers-rights-group-050836605.html)
 
 ### Related:
 
@@ -21,4 +21,4 @@
 7. [Syrian uprising: At least 30 people die in a battle between Syrian government forces and rebel fighters in the town of Rastan. Reportedly, 23 of the dead are government soldiers. ](/news/2012/05/14/syrian-uprising-at-least-30-people-die-in-a-battle-between-syrian-government-forces-and-rebel-fighters-in-the-town-of-rastan-reportedly-2.md) _Context: Syria, Syrian uprising (2011-present)_
 8. [Syrian uprising: Two large explosions occur in quick succession in the embattled Syrian capital Damascus, with dozens of people reportedly killed or injured. ](/news/2012/05/10/syrian-uprising-two-large-explosions-occur-in-quick-succession-in-the-embattled-syrian-capital-damascus-with-dozens-of-people-reportedly-k.md) _Context: Syria, Syrian uprising (2011-present)_
 9. [2011 Syrian uprising: The Washington-based organisation Human Rights Watch accuses Syria of hiding hundreds of political detainees during a visit by Arab League monitors. ](/news/2011/12/28/2011-syrian-uprising-pthe-washington-based-organisation-human-rights-watch-accuses-syria-of-hiding-hundreds-of-political-detainees-during-a.md) _Context: Human Rights Watch, Syria_
-10. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also 5 Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-5-peshmerga-fighters-are-killed-during-a-tu.md) _Context: Syria_
+10. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also five Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey also claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-five-peshmerga-fighters-are-killed-during-a.md) _Context: Syria_

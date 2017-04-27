@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/aponline/2016/07/23/world/asia/ap-as-southeast-asian-meetings.html)
-2. [Reuters](http://www.reuters.com/article/us-southchinasea-ruling-asean-idUSKCN1030KU?il=0)
+1. [Reuters](http://www.reuters.com/article/us-southchinasea-ruling-asean-idUSKCN1030KU?il=0)
+2. [The New York Times](http://www.nytimes.com/aponline/2016/07/23/world/asia/ap-as-southeast-asian-meetings.html)
 
 ### Related:
 

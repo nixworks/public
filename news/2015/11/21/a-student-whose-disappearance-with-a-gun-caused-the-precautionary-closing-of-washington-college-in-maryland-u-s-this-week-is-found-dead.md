@@ -7,8 +7,8 @@ Please stay tuned to washcoll.edu/updates for information as it becomes availabl
 
 ### Source:
 
-1. [Washington Post](https://www.washingtonpost.com/local/public-safety/missing-washington-college-student-found-dead-in-pennsylvania/2015/11/21/d486fab8-90ab-11e5-acff-673ae92ddd2b_story.html)
-2. [Washington College](http://www.washcoll.edu/live/news/8305-campus-closed-due-to-threat)
+1. [Washington College](http://www.washcoll.edu/live/news/8305-campus-closed-due-to-threat)
+2. [Washington Post](https://www.washingtonpost.com/local/public-safety/missing-washington-college-student-found-dead-in-pennsylvania/2015/11/21/d486fab8-90ab-11e5-acff-673ae92ddd2b_story.html)
 
 ### Related:
 

@@ -8,8 +8,8 @@ Dozens of Afghan civilians were killed on Thursday in air strikes called in when
 ### Source:
 
 1. [NATO](http://www.rs.nato.int/article/press-releases/kunduz-casualty-release-nov.-3-2016.html)
-2. [VOA News](http://www.voanews.com/a/us-soldiers-killed-in-afghan-fighting/3577341.html)
-3. [Reuters](http://www.reuters.com/article/us-usa-afghanistan-casualty-idUSKBN12Y0PM)
+2. [Reuters](http://www.reuters.com/article/us-usa-afghanistan-casualty-idUSKBN12Y0PM)
+3. [VOA News](http://www.voanews.com/a/us-soldiers-killed-in-afghan-fighting/3577341.html)
 
 ### Related:
 

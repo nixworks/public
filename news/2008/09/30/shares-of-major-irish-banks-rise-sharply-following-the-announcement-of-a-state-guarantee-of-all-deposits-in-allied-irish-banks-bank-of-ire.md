@@ -7,8 +7,8 @@ The Irish stock market has reacted positively to the decision by the Government 
 
 ### Source:
 
-1. [RTÉ News](http://www.rte.ie/news/2008/0930/economy.html)
-2. [BBC News](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/7644798.stm)
+1. [BBC News](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/7644798.stm)
+2. [RTÉ News](http://www.rte.ie/news/2008/0930/economy.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ NASA&#039;s Voyager 1 spacecraft has entered a new region at the far reaches of 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/12/04/space-voyager-idUSL1E8N407F20121204)
-2. [NASA](http://www.nasa.gov/mission_pages/voyager/voyager20121203.html)
+1. [NASA](http://www.nasa.gov/mission_pages/voyager/voyager20121203.html)
+2. [Reuters](http://www.reuters.com/article/2012/12/04/space-voyager-idUSL1E8N407F20121204)
 
 ### Related:
 

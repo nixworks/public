@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/2011-06-27/dollar-gains-before-greek-austerity-vote-u-s-data-asia-stocks-oil-fall.html)
-2. [Reuters via Yahoo News](http://news.yahoo.com/s/nm/20110627/bs_nm/us_greece)
-3. [CNN](http://www.cnn.com/2011/BUSINESS/06/26/greece.cuts.ft/index.html)
+2. [CNN](http://www.cnn.com/2011/BUSINESS/06/26/greece.cuts.ft/index.html)
+3. [Reuters via Yahoo News](http://news.yahoo.com/s/nm/20110627/bs_nm/us_greece)
 
 ### Related:
 

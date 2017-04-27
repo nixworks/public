@@ -7,23 +7,23 @@ Syrian forces fired into the air on Monday to disperse a pro-democracy protest i
 
 ### Source:
 
-1. [Defense News](http://www.defensenews.com/story.php?i=6072204&c=AIR&s=TOP)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/03/201132681812362552.html)
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/2011328111747469782.html)
-3. [Haaretz](http://www.haaretz.com/news/international/syria-forces-open-fire-on-protesters-in-daraa-witness-says-1.352335)
-4. [Reuters](http://www.reuters.com/article/2011/03/28/us-syria-idUSTRE72N2MC20110328?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
-5. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/03/201132681812362552.html)
-6. [Washington Post](http://www.washingtonpost.com/politics/2011/03/28/AFgQsppB_story.html)
-7. [Reuters](http://uk.reuters.com/article/2011/03/28/uk-syria-reuters-idUKTRE72R3UG20110328)
-8. [Philippine Star](http://www.philstar.com/Article.aspx?articleId=670666&publicationSubCategoryId=200)
-9. [Reuters](http://www.reuters.com/article/2011/03/28/us-bahrain-arrests-idUSTRE72R41B20110328)
-10. [Sydney Morning Herald](http://www.smh.com.au/world/why-we-are-in-libya-obama-20110329-1ce1e.html?utm_source=twitterfeed&utm_medium=twitter)
-11. [Globe and Mail](http://www.theglobeandmail.com/news/national/canadian-general-to-lead-enforcement-of-libyas-no-fly-zone/article1956477/)
+3. [BBC](http://www.bbc.co.uk/news/world-middle-east-12881240)
+4. [CNN](http://edition.cnn.com/2011/WORLD/meast/03/27/syria.unrest/?hpt=T2)
+5. [Defense News](http://www.defensenews.com/story.php?i=6072204&c=AIR&s=TOP)
+6. [Globe and Mail](http://www.theglobeandmail.com/news/national/canadian-general-to-lead-enforcement-of-libyas-no-fly-zone/article1956477/)
+7. [Haaretz](http://www.haaretz.com/news/international/syria-forces-open-fire-on-protesters-in-daraa-witness-says-1.352335)
+8. [Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=214104&R=R3)
+9. [National Post](http://www.nationalpost.com/news/canada/Canadian+general+take+over+NATO+Libya+mission/4503682/story.html)
+10. [Philippine Star](http://www.philstar.com/Article.aspx?articleId=670666&publicationSubCategoryId=200)
+11. [Reuters](http://af.reuters.com/article/topNews/idAFJOE72R0FH20110328)
 12. [Reuters](http://uk.reuters.com/article/2011/03/28/uk-bahrain-kuwait-talks-idUKTRE72R2ZO20110328)
-13. [BBC](http://www.bbc.co.uk/news/world-middle-east-12881240)
-14. [Reuters](http://af.reuters.com/article/topNews/idAFJOE72R0FH20110328)
-15. [CNN](http://edition.cnn.com/2011/WORLD/meast/03/27/syria.unrest/?hpt=T2)
-16. [National Post](http://www.nationalpost.com/news/canada/Canadian+general+take+over+NATO+Libya+mission/4503682/story.html)
-17. [Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=214104&R=R3)
+13. [Reuters](http://uk.reuters.com/article/2011/03/28/uk-syria-reuters-idUKTRE72R3UG20110328)
+14. [Reuters](http://www.reuters.com/article/2011/03/28/us-bahrain-arrests-idUSTRE72R41B20110328)
+15. [Reuters](http://www.reuters.com/article/2011/03/28/us-syria-idUSTRE72N2MC20110328?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+16. [Sydney Morning Herald](http://www.smh.com.au/world/why-we-are-in-libya-obama-20110329-1ce1e.html?utm_source=twitterfeed&utm_medium=twitter)
+17. [Washington Post](http://www.washingtonpost.com/politics/2011/03/28/AFgQsppB_story.html)
 
 ### Related:
 

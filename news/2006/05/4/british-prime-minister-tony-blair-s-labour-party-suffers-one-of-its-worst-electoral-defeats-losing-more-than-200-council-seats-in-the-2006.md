@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=topNews&storyID=2006-05-05T063143Z_01_L04358582_RTRUKOC_0_UK-BRITAIN-BLAIR.xml)
-2. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/4969812.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/4969812.stm)
+2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=topNews&storyID=2006-05-05T063143Z_01_L04358582_RTRUKOC_0_UK-BRITAIN-BLAIR.xml)
 
 ### Related:
 

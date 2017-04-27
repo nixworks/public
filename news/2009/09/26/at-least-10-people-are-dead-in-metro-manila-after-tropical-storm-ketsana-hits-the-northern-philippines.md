@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Philippines Inquirer](http://newsinfo.inquirer.net/breakingnews/nation/view/20090926-227047/Floods-submerge-Metro-Manila-areas)
-2. [Philippine Star](http://www.philstar.com/Article.aspx?articleId=508807&publicationSubCategoryId=63)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8276347.stm)
-4. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iRUDyeGrHCZ6Bd9LyEdrne0FN6hA)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iRUDyeGrHCZ6Bd9LyEdrne0FN6hA)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8276347.stm)
+3. [Philippine Star](http://www.philstar.com/Article.aspx?articleId=508807&publicationSubCategoryId=63)
+4. [Philippines Inquirer](http://newsinfo.inquirer.net/breakingnews/nation/view/20090926-227047/Floods-submerge-Metro-Manila-areas)
 
 ### Related:
 

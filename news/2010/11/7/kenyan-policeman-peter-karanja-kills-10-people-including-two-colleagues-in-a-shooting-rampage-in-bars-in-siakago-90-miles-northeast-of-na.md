@@ -7,11 +7,11 @@ Police officer kills 10 people in shooting rampage near station outside Nairobi,
 
 ### Source:
 
-1. [The Deccan Chronicle](http://www.deccanchronicle.com/international/kenyan-cop-kills-10-shooting-rampage-985)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/11/201011781549310594.html)
 2. [CNN](http://edition.cnn.com/2010/WORLD/africa/11/07/kenya.police.shooting/index.html?hpt=T2)
 3. [China Daily](http://www.chinadaily.com.cn/world/2010-11/07/content_11513010.htm)
-4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-11/07/c_13595185.htm)
-5. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/11/201011781549310594.html)
+4. [The Deccan Chronicle](http://www.deccanchronicle.com/international/kenyan-cop-kills-10-shooting-rampage-985)
+5. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-11/07/c_13595185.htm)
 
 ### Related:
 

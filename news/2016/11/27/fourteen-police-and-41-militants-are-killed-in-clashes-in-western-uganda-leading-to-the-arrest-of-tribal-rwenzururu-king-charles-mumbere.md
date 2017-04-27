@@ -7,8 +7,8 @@ Police storm a palace and arrest a traditional king in Uganda over clashes that 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-uganda-security-idUSKBN13M0OG)
-2. [BBC](http://www.bbc.com/news/world-africa-38121581)
+1. [BBC](http://www.bbc.com/news/world-africa-38121581)
+2. [Reuters](http://www.reuters.com/article/us-uganda-security-idUSKBN13M0OG)
 3. [The New York Times](http://www.nytimes.com/aponline/2016/11/27/world/africa/ap-af-uganda-rebels.html)
 
 ### Related:

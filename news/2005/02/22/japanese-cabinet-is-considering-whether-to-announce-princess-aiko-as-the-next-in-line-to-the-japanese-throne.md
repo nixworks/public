@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/News/newsArticle.aspx?type=worldNews&storyID=2005-02-22T061526Z_01_HOL208902_RTRUKOC_0_JAPAN-ROYAL-SUCCESSION.xml)
-2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/132555/1/.html)
-3. [Japan Today](http://www.japantoday.com/e/?content=news&cat=9&id=328513)
+1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/132555/1/.html)
+2. [Japan Today](http://www.japantoday.com/e/?content=news&cat=9&id=328513)
+3. [Reuters](http://today.reuters.co.uk/News/newsArticle.aspx?type=worldNews&storyID=2005-02-22T061526Z_01_HOL208902_RTRUKOC_0_JAPAN-ROYAL-SUCCESSION.xml)
 
 ### Related:
 

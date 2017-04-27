@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [b92.net](http://www.b92.net/eng/news/region-article.php?yyyy=2008&mm=12&dd=23&nav_id=55932)
-2. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5h0Wm-sZhyz0P70iYL6u2suDW93OQD957UGKG0)
+1. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5h0Wm-sZhyz0P70iYL6u2suDW93OQD957UGKG0)
+2. [b92.net](http://www.b92.net/eng/news/region-article.php?yyyy=2008&mm=12&dd=23&nav_id=55932)
 
 ### Related:
 

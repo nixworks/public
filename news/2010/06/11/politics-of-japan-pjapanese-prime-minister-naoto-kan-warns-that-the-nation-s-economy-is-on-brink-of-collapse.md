@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Australian](http://www.theaustralian.com.au/news/world/japan-minister-quits-in-protest-after-three-days/story-e6frg6so-1225878620992)
-2. [The Guardian](http://www.guardian.co.uk/business/2010/jun/11/japan-naoto-kan-debt-warning)
-3. [BBC](http://news.bbc.co.uk/go/rss/-/1/hi/business/10290933.stm)
+1. [BBC](http://news.bbc.co.uk/go/rss/-/1/hi/business/10290933.stm)
+2. [The Australian](http://www.theaustralian.com.au/news/world/japan-minister-quits-in-protest-after-three-days/story-e6frg6so-1225878620992)
+3. [The Guardian](http://www.guardian.co.uk/business/2010/jun/11/japan-naoto-kan-debt-warning)
 
 ### Related:
 

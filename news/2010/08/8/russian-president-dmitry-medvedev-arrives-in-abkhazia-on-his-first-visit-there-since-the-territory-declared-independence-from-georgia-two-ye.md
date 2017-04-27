@@ -8,9 +8,9 @@ Russian President Dmitry Medvedev visits the breakaway Georgian region of Abkhaz
 ### Source:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ip-z7wfLR72Ul7--5HQVadvITQqw)
-2. [RIA Novosti](http://en.rian.ru/exsoviet/20100808/160115702.html)
-3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/08/c_13435381.htm)
-4. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10906144)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10906144)
+3. [RIA Novosti](http://en.rian.ru/exsoviet/20100808/160115702.html)
+4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/08/c_13435381.htm)
 
 ### Related:
 

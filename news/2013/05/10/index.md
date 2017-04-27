@@ -16,7 +16,7 @@ _Context: 2013 Savar building collapse_
 Taiwan demands an explanation from Manila after a fisherman was shot and killed in disputed waters by the Philippine coastguard.
 
 ### [After yesterday's attack, preserve park authorities discover that twenty-six elephants, including four calves, were killed by poachers in the Dzanga-Ndoki National Park in the Central African Republic. ](/news/2013/05/10/after-yesterday-s-attack-preserve-park-authorities-discover-that-twenty-six-elephants-including-four-calves-were-killed-by-poachers-in-th.md)
-_Context: Central African Republic, Dzanga-Ndoki National Park, elephant_
+_Context: Central-African, Dzanga-Ndoki National Park, elephant_
 
 ### [A paramedic in West, Texas, United States is arrested for possession of an explosive device, but authorities do not elaborate as to whether there is a connection to the deadly explosion last month at the town's fertilizer plant. ](/news/2013/05/10/a-paramedic-in-west-texas-united-states-is-arrested-for-possession-of-an-explosive-device-but-authorities-do-not-elaborate-as-to-whether.md)
 A paramedic in West, Texas, has been arrested for possession of an explosive device, but it was not immediately clear whether it was linked to the explosion at a fertiliser plant in the town.

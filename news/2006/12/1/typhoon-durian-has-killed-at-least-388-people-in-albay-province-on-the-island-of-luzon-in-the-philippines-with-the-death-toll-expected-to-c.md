@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2006/WEATHER/12/01/philippines.typhoon/index.html)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601080&sid=axIFFvG41Nrs)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601080&sid=axIFFvG41Nrs)
+2. [CNN](http://www.cnn.com/2006/WEATHER/12/01/philippines.typhoon/index.html)
 
 ### Related:
 

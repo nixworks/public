@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [France 24](http://www.france24.com/en/20090714-317-cars-burned-bastille-day-14-july-france-violence-vandalism)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8149362.stm)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8149362.stm)
+2. [France 24](http://www.france24.com/en/20090714-317-cars-burned-bastille-day-14-july-france-violence-vandalism)
 
 ### Related:
 

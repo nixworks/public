@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/trend/baksan_attack/)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/07/201072152627545668.html)
-3. [Canadian Press via Google News](http://www.google.com/hostednews/canadianpress/article/ALeqM5hYLT9WHY38xWhGXcpLD6qT762uoQ)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/07/201072152627545668.html)
+2. [Canadian Press via Google News](http://www.google.com/hostednews/canadianpress/article/ALeqM5hYLT9WHY38xWhGXcpLD6qT762uoQ)
+3. [RIA Novosti](http://en.rian.ru/trend/baksan_attack/)
 
 ### Related:
 

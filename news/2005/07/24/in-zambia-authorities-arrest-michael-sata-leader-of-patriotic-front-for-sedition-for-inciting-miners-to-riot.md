@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters SA](http://za.today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2005-07-24T151405Z_01_ALL454703_RTRIDST_0_OZATP-ZAMBIA-ARREST-20050724.XML)
-2. [AllAfrica](http://allafrica.com/stories/200507240031.html)
+1. [AllAfrica](http://allafrica.com/stories/200507240031.html)
+2. [Reuters SA](http://za.today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2005-07-24T151405Z_01_ALL454703_RTRIDST_0_OZATP-ZAMBIA-ARREST-20050724.XML)
 
 ### Related:
 

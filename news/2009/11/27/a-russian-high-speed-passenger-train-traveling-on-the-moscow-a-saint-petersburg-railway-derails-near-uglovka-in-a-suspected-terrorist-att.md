@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/russia/20091128/157014273.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/8383790.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8383790.stm)
+2. [RIA Novosti](http://en.rian.ru/russia/20091128/157014273.html)
 
 ### Related:
 

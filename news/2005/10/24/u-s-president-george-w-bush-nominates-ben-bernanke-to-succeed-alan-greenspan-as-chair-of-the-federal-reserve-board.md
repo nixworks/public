@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [New York Times](http://www.nytimes.com/2005/10/24/business/24cnd-fed.html?hp&ex=1130212800&en=22688e93d9f681c3&ei=5094&partner=homepage)
-2. [CNN](http://money.cnn.com/2005/10/24/commentary/column_hays/hays/)
+1. [CNN](http://money.cnn.com/2005/10/24/commentary/column_hays/hays/)
+2. [New York Times](http://www.nytimes.com/2005/10/24/business/24cnd-fed.html?hp&ex=1130212800&en=22688e93d9f681c3&ei=5094&partner=homepage)
 
 ### Related:
 

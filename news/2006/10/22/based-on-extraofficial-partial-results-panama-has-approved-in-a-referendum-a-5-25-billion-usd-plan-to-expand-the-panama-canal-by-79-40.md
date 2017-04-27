@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Real-Time counting of votes] [http://news.bbc.co.uk/2/hi/americas/6074106.stm (BBC News](http://www.tribunal-electoral.gob.pa/Referendum2006/WebAppElections/VersionIngles.aspx)
-2. [CNN](http://www.cnn.com/2006/WORLD/americas/10/22/panama.canal.ap/index.html)
+1. [CNN](http://www.cnn.com/2006/WORLD/americas/10/22/panama.canal.ap/index.html)
+2. [Real-Time counting of votes] [http://news.bbc.co.uk/2/hi/americas/6074106.stm (BBC News](http://www.tribunal-electoral.gob.pa/Referendum2006/WebAppElections/VersionIngles.aspx)
 
 ### Related:
 

@@ -7,19 +7,19 @@ A March 12 explosion at the earthquake-damaged Fukushima Daiichi nuclear power p
 
 ### Source:
 
-1. [Daily Mail](http://www.dailymail.co.uk/news/article-1365397/Japan-earthquake-tsunami-The-moment-apocalyptic-waves-drown-Rikuzentakata.html?ito=feeds-newsxml)
-2. [Sky News](http://news.sky.com/skynews/Article/201103115950844)
-3. [CNN](http://news.blogs.cnn.com/2011/03/12/japan-earthquake-live-blog-death-toll-rises-amid-widespread-destruction/)
-4. [AP via MSNBC](http://www.msnbc.msn.com/id/42044156/ns/world_news-asia-pacific/)
-5. [Kyodo](http://english.kyodonews.jp/news/2011/03/77065.html)
-6. [Reuters](http://www.reuters.com/article/2011/03/12/us-japan-quake-nuclear-us-analysis-idUSTRE72B04C20110312)
-7. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/03/11/japan.earthquake.color/index.html?eref=edition)
-8. [The Jakarta Globe](http://www.thejakartaglobe.com/afp/japan-quake-live-report/428579)
-9. [CTV News](http://calgary.ctv.ca/servlet/an/local/CTVNews/20110312/japan-earthquake-canada-110312/20110312/?hub=CalgaryHome)
-10. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2011/03/13/2003498052)
+1. [AP via MSNBC](http://www.msnbc.msn.com/id/42044156/ns/world_news-asia-pacific/)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12720219)
+3. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/03/11/japan.earthquake.color/index.html?eref=edition)
+4. [CNN](http://news.blogs.cnn.com/2011/03/12/japan-earthquake-live-blog-death-toll-rises-amid-widespread-destruction/)
+5. [CTV News](http://calgary.ctv.ca/servlet/an/local/CTVNews/20110312/japan-earthquake-canada-110312/20110312/?hub=CalgaryHome)
+6. [Daily Mail](http://www.dailymail.co.uk/news/article-1365397/Japan-earthquake-tsunami-The-moment-apocalyptic-waves-drown-Rikuzentakata.html?ito=feeds-newsxml)
+7. [Irish Examiner](http://www.examiner.ie/breakingnews/world/authorities-widen-evacuation-radius-around-stricken-nuclear-plant-496981.html)
+8. [Kyodo](http://english.kyodonews.jp/news/2011/03/77065.html)
+9. [Reuters](http://www.reuters.com/article/2011/03/12/us-japan-quake-nuclear-us-analysis-idUSTRE72B04C20110312)
+10. [Sky News](http://news.sky.com/skynews/Article/201103115950844)
 11. [Stratfor via ''Sydney Morning Herald](http://www.smh.com.au/world/nuclear-plant-blast-appears-to-have-caused-meltdown-20110313-1bsmk.html)
-12. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12720219)
-13. [Irish Examiner](http://www.examiner.ie/breakingnews/world/authorities-widen-evacuation-radius-around-stricken-nuclear-plant-496981.html)
+12. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2011/03/13/2003498052)
+13. [The Jakarta Globe](http://www.thejakartaglobe.com/afp/japan-quake-live-report/428579)
 14. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/03/11/AR2011031103673.html?wpisrc=nl_natlalert)
 
 ### Related:

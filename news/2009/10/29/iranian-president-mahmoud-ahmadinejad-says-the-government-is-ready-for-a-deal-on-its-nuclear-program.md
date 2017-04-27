@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Jewish Telegraphic Agency](http://jta.org/news/article/2009/10/29/1008818/ahmadinejad-iran-ready-for-nuclear-cooperation)
-2. [Times of India](http://timesofindia.indiatimes.com/world/middle-east/Irans-Ahmadinejad-says-conditions-ripe-for-nuclear-deal-/articleshow/5176891.cms)
-3. [Press TV](http://www.presstv.ir/detail.aspx?id=109930&sectionid=351020104)
+2. [Press TV](http://www.presstv.ir/detail.aspx?id=109930&sectionid=351020104)
+3. [Times of India](http://timesofindia.indiatimes.com/world/middle-east/Irans-Ahmadinejad-says-conditions-ripe-for-nuclear-deal-/articleshow/5176891.cms)
 
 ### Related:
 

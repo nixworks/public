@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [SwissInfo](http://www.swissinfo.org/sen/swissinfo.html?siteSect=106&sid=5730100&cKey=1114678983000)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4492359.stm)
 2. [NZZ](http://www.nzz.ch/2005/04/29/eng/article5732050.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/europe/4492359.stm)
+3. [SwissInfo](http://www.swissinfo.org/sen/swissinfo.html?siteSect=106&sid=5730100&cKey=1114678983000)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Passionately smashing every expectation.
 
 ### Source:
 
-1. [Buzzfeed](https://www.buzzfeed.com/davidmack/hamilton-the-musical-just-won-a-pulitzer-prize-for-lin-manue#.onWw9JEkD)
-2. [AP](http://hosted.ap.org/dynamic/stories/U/US_PULITZERS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+1. [AP](http://hosted.ap.org/dynamic/stories/U/US_PULITZERS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [Buzzfeed](https://www.buzzfeed.com/davidmack/hamilton-the-musical-just-won-a-pulitzer-prize-for-lin-manue#.onWw9JEkD)
 
 ### Related:
 

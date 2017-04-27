@@ -8,8 +8,8 @@ Security forces valiantly defeated suicide attack on Ghalani Camp: ISPR.
 ### Source:
 
 1. [Dawn](http://www.dawn.com/news/1298783/4-suicide-bombers-2-soldiers-killed-in-attack-on-fc-camp-in-mohmand)
-2. [VOA News](http://www.voanews.com/a/suicide-bombers-attack-pakistan-army-base/3612452.html)
-3. [Fox News](http://www.foxnews.com/world/2016/11/26/4-militants-2-soldiers-killed-in-mosque-attack-in-pakistan.html)
+2. [Fox News](http://www.foxnews.com/world/2016/11/26/4-militants-2-soldiers-killed-in-mosque-attack-in-pakistan.html)
+3. [VOA News](http://www.voanews.com/a/suicide-bombers-attack-pakistan-army-base/3612452.html)
 
 ### Related:
 

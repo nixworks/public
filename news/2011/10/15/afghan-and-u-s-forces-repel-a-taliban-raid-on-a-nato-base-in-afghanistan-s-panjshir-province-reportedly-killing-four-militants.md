@@ -7,8 +7,8 @@ Four militants are killed as their attack on a US base in the eastern Afghan reg
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/world/asia-pacific/afghan-us-forces-repel-taliban-raid-on-nato-base/2011/10/15/gIQATHpblL_story.html)
-2. [BBC](http://www.bbc.co.uk/news/world-south-asia-15319862)
+1. [BBC](http://www.bbc.co.uk/news/world-south-asia-15319862)
+2. [Washington Post](http://www.washingtonpost.com/world/asia-pacific/afghan-us-forces-repel-taliban-raid-on-nato-base/2011/10/15/gIQATHpblL_story.html)
 
 ### Related:
 

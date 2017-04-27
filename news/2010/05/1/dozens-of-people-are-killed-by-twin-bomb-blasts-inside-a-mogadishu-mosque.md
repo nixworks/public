@@ -7,11 +7,11 @@ Explosions took place as a leader of the al-Shabab anti-government group gave se
 
 ### Source:
 
-1. [The Times](http://www.timesonline.co.uk/tol/news/world/africa/article7113832.ece#cid=OTC-RSS&attr=797093)
-2. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2010/05/01/international/i040741D81.DTL&tsp=1)
-3. [BBC](http://news.bbc.co.uk/2/hi/africa/8655912.stm)
-4. [Reuters](http://uk.reuters.com/article/idUKTRE6400JK20100501)
-5. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/05/20105113351591462.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/05/20105113351591462.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/africa/8655912.stm)
+3. [Reuters](http://uk.reuters.com/article/idUKTRE6400JK20100501)
+4. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2010/05/01/international/i040741D81.DTL&tsp=1)
+5. [The Times](http://www.timesonline.co.uk/tol/news/world/africa/article7113832.ece#cid=OTC-RSS&attr=797093)
 
 ### Related:
 

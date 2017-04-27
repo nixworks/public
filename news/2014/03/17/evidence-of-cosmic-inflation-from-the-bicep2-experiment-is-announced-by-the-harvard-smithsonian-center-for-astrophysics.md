@@ -7,5 +7,5 @@ Scientists say they have found a signal left in the sky by the super-rapid expan
 
 ### Source:
 
-1. [Space](http://www.space.com/25078-universe-inflation-gravitational-waves-discovery.html)
-2. [BBC](http://www.bbc.co.uk/news/science-environment-26605974)
+1. [BBC](http://www.bbc.co.uk/news/science-environment-26605974)
+2. [Space](http://www.space.com/25078-universe-inflation-gravitational-waves-discovery.html)

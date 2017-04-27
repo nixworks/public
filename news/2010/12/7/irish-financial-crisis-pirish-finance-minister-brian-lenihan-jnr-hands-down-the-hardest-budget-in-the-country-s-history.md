@@ -7,17 +7,17 @@ The High Court has ordered the release of a man who was placed in custody this m
 
 ### Source:
 
-1. [The Irish Times](http://www.irishtimes.com/newspaper/frontpage/2010/1208/1224285029778.html)
-2. [Evening Herald](http://www.herald.ie/national-news/city-news/the-anglo-avenger-strikes-again-in-highrise-protest-2450875.html)
+1. [AP via Yahoo](http://news.yahoo.com/s/ap/20101207/ap_on_re_us/eu_ireland_financial_crisis)
+2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/2010127213537852423.html)
 3. [BBC](http://www.bbc.co.uk/news/business-11941337)
-4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1207/breaking76.html)
+4. [Evening Herald](http://www.herald.ie/national-news/city-news/the-anglo-avenger-strikes-again-in-highrise-protest-2450875.html)
 5. [Newstalk](http://www.newstalk.ie/2010/news/4bail-revoked-for-cherrypicker-protestor48/)
-6. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1207/breaking79.html)
-7. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1207/breaking67.html)
-8. [RTÉ](http://www.rte.ie/news/2010/1207/crane_protest.html)
-9. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/2010127213537852423.html)
-10. [The Guardian](http://www.guardian.co.uk/business/blog/2010/dec/07/ireland-budget-eurozone-debt-crisis?intcmp=239)
-11. [AP via Yahoo](http://news.yahoo.com/s/ap/20101207/ap_on_re_us/eu_ireland_financial_crisis)
+6. [RTÉ](http://www.rte.ie/news/2010/1207/crane_protest.html)
+7. [The Guardian](http://www.guardian.co.uk/business/blog/2010/dec/07/ireland-budget-eurozone-debt-crisis?intcmp=239)
+8. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1207/breaking67.html)
+9. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1207/breaking76.html)
+10. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1207/breaking79.html)
+11. [The Irish Times](http://www.irishtimes.com/newspaper/frontpage/2010/1208/1224285029778.html)
 
 ### Related:
 

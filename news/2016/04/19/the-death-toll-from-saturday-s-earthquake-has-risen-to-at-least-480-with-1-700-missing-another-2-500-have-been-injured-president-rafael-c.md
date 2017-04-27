@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CBS News](http://www.cbsnews.com/news/death-toll-nears-500-from-ecuador-earthquake/)
-2. [BBC](http://www.bbc.com/news/world-latin-america-36079014)
+1. [BBC](http://www.bbc.com/news/world-latin-america-36079014)
+2. [CBS News](http://www.cbsnews.com/news/death-toll-nears-500-from-ecuador-earthquake/)
 
 ### Related:
 

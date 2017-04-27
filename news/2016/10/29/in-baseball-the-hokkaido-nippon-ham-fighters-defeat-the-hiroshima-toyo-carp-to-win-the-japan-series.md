@@ -7,5 +7,5 @@ A pitcher getting it done on the mound and at the plate helped the Hokkaido Nipp
 
 ### Source:
 
-1. [The Japan Times](http://www.japantimes.co.jp/sports/2016/10/30/baseball/japanese-baseball/fighters-wrap-japan-series-title-dramatic-eighth-inning-fireworks/)
-2. [Kyodo News](http://kyodonews.net/news/2016/10/29/86060)
+1. [Kyodo News](http://kyodonews.net/news/2016/10/29/86060)
+2. [The Japan Times](http://www.japantimes.co.jp/sports/2016/10/30/baseball/japanese-baseball/fighters-wrap-japan-series-title-dramatic-eighth-inning-fireworks/)

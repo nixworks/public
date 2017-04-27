@@ -7,9 +7,9 @@ Doctors remove 13 nails and five needles from a Sri Lankan housemaid who said he
 
 ### Source:
 
-1. [Lanka Business Online](http://www.lankabusinessonline.com/fullstory.php?nid=1182485227)
+1. [Arab News](http://arabnews.com/saudiarabia/article116019.ece)
 2. [BBC](http://www.bbc.co.uk/news/world-south-asia-11109726)
-3. [Arab News](http://arabnews.com/saudiarabia/article116019.ece)
+3. [Lanka Business Online](http://www.lankabusinessonline.com/fullstory.php?nid=1182485227)
 
 ### Related:
 

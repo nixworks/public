@@ -7,14 +7,14 @@ More planes began taking off from airports across Europe on Tuesday after days o
 
 ### Source:
 
-1. [Irish Examiner](http://www.examiner.ie/breakingnews/ireland/ryanair-cancels-ireland-and-uk-flights-until-friday-454664.html#ixzz0leXhkal8)
-2. [The Wall Street Journal](http://online.wsj.com/article/BT-CO-20100420-709555.html?mod=WSJ_latestheadlines)
+1. [ABC News](http://abcnews.go.com/GMA/Eco/iceland-volcano-ash-airports-open-flights-eruption-clouds/story?id=10421864)
+2. [BBC](http://news.bbc.co.uk/1/hi/uk/8633597.stm)
 3. [BBC](http://news.bbc.co.uk/2/hi/europe/8631238.stm)
 4. [CNN](http://edition.cnn.com/2010/TRAVEL/04/20/volcano.ash/?hpt=T1)
-5. [BBC](http://news.bbc.co.uk/1/hi/uk/8633597.stm)
+5. [Irish Examiner](http://www.examiner.ie/breakingnews/ireland/ryanair-cancels-ireland-and-uk-flights-until-friday-454664.html#ixzz0leXhkal8)
 6. [Irish Independent](http://www.independent.ie/national-news/latest-travel-update-dublin-airport-to-remain-closed-until-7pm-2143984.html)
-7. [ABC News](http://abcnews.go.com/GMA/Eco/iceland-volcano-ash-airports-open-flights-eruption-clouds/story?id=10421864)
-8. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-volcano-travel-20100421,0,6446806.story)
+7. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-volcano-travel-20100421,0,6446806.story)
+8. [The Wall Street Journal](http://online.wsj.com/article/BT-CO-20100420-709555.html?mod=WSJ_latestheadlines)
 
 ### Related:
 

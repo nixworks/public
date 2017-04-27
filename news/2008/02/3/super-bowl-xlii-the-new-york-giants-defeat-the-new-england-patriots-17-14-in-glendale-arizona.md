@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The New York Times](http://fifthdown.blogs.nytimes.com/2008/02/03/open-thread-giants-vs-patriots-2/index.html)
-2. [ESPN](http://sports-ak.espn.go.com/nfl/playoffs07/series?series=nygnwe2007)
+1. [ESPN](http://sports-ak.espn.go.com/nfl/playoffs07/series?series=nygnwe2007)
+2. [The New York Times](http://fifthdown.blogs.nytimes.com/2008/02/03/open-thread-giants-vs-patriots-2/index.html)
 
 ### Related:
 

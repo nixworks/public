@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Yahoo France - AP](http://fr.news.yahoo.com/050212/5/49rm3.html)
-2. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-4796181,00.html)
+1. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-4796181,00.html)
+2. [Yahoo France - AP](http://fr.news.yahoo.com/050212/5/49rm3.html)
 
 ### Related:
 

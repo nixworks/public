@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [E Online](http://au.eonline.com/news/george_clooney_arrested_protesting/301719)
-2. [BBC](http://www.bbc.co.uk/news/world-us-canada-17403715)
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-17403715)
+2. [E Online](http://au.eonline.com/news/george_clooney_arrested_protesting/301719)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Things to do in Miami
 
 ### Source:
 
-1. [Miami Herald](http://www.miami.com/mld/miamiherald/14581043.htm)
-2. [Haaretz](http://www.haaretz.com/hasen/spages/715651.html)
-3. [Israel MFA](http://www.mfa.gov.il/MFA/Terrorism-+Obstacle+to+Peace/Terrorism+and+Islamic+Fundamentalism-/IDF+Naval+craft+seized+several+hundred+kg+of+explosives+14-May-2006.htm)
+1. [Haaretz](http://www.haaretz.com/hasen/spages/715651.html)
+2. [Israel MFA](http://www.mfa.gov.il/MFA/Terrorism-+Obstacle+to+Peace/Terrorism+and+Islamic+Fundamentalism-/IDF+Naval+craft+seized+several+hundred+kg+of+explosives+14-May-2006.htm)
+3. [Miami Herald](http://www.miami.com/mld/miamiherald/14581043.htm)
 4. [The Statesman](http://www.thestatesman.net/page.news.php?clid=8&theme=&usrsess=1&id=116290)
 
 ### Related:

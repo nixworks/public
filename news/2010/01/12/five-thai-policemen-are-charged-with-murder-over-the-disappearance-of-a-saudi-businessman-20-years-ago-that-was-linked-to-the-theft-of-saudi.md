@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8454240.stm)
-2. [Bangkok Post](http://www.bangkokpost.com/news/local/165089/suspects-in-al-ruwaili-case-indicted)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iw2r8RtBHrXgLk3jCD8urDbOi48w)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iw2r8RtBHrXgLk3jCD8urDbOi48w)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8454240.stm)
+3. [Bangkok Post](http://www.bangkokpost.com/news/local/165089/suspects-in-al-ruwaili-case-indicted)
 
 ### Related:
 

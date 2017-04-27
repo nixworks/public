@@ -7,8 +7,8 @@ Doctors Without Borders staff have left the hospital in the city of Kunduz, Afgh
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Top_News/World-News/2015/10/04/Doctors-Without-Borders-staff-leave-Kunduz-hospital-death-toll-rises/4711443970653/)
-2. [International Business Times](http://www.ibtimes.com/afghanistan-kunduz-airstrikes-are-nato-admission-war-crime-22-die-airstrikes-doctors-2126801)
+1. [International Business Times](http://www.ibtimes.com/afghanistan-kunduz-airstrikes-are-nato-admission-war-crime-22-die-airstrikes-doctors-2126801)
+2. [UPI](http://www.upi.com/Top_News/World-News/2015/10/04/Doctors-Without-Borders-staff-leave-Kunduz-hospital-death-toll-rises/4711443970653/)
 
 ### Related:
 

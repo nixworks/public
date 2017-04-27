@@ -7,14 +7,14 @@ The IAA has extended the closure of Irish airspace until 1pm on Sunday because o
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2010/0417/travel.html)
-2. [Reuters](http://www.reuters.com/article/idUSTRE63G1FH20100417)
-3. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0417/breaking2.html)
-4. [BBC](http://news.bbc.co.uk/1/hi/uk/8626686.stm)
-5. [Reuters](http://www.reuters.com/article/idUSLDE63G0FE20100417?type=marketsNews)
+1. [BBC](http://news.bbc.co.uk/1/hi/uk/8626686.stm)
+2. [RTÉ](http://www.rte.ie/news/2010/0417/travel.html)
+3. [Reuters](http://www.reuters.com/article/idUSLDE63G0FE20100417?type=marketsNews)
+4. [Reuters](http://www.reuters.com/article/idUSTRE63G1FH20100417)
+5. [The Guardian](http://www.guardian.co.uk/business/2010/apr/16/iceland-volcano-airline-industry-iata)
 6. [The Guardian](http://www.guardian.co.uk/world/2010/apr/17/volcano-in-iceland-ash-britain)
-7. [The Wall Street Journal](http://online.wsj.com/article/BT-CO-20100416-704497.html?mod=WSJ_latestheadlines)
-8. [The Guardian](http://www.guardian.co.uk/business/2010/apr/16/iceland-volcano-airline-industry-iata)
+7. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0417/breaking2.html)
+8. [The Wall Street Journal](http://online.wsj.com/article/BT-CO-20100416-704497.html?mod=WSJ_latestheadlines)
 
 ### Related:
 

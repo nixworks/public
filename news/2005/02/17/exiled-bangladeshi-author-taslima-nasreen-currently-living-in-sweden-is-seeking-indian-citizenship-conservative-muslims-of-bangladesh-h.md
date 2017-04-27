@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Hindustan Times](http://www.hindustantimes.com/news/181_1247212,00110004.htm)
-2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4274553.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4274553.stm)
+2. [Hindustan Times](http://www.hindustantimes.com/news/181_1247212,00110004.htm)
 
 ### Related:
 

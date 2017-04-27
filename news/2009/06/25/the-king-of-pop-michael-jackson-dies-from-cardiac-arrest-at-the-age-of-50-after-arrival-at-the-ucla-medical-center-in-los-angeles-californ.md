@@ -7,8 +7,8 @@ Get the latest news on celebrity scandals, engagements, and divorces! Check out 
 
 ### Source:
 
-1. [The Los Angeles Times](http://latimesblogs.latimes.com/lanow/2009/06/pop-star-michael-jackson-was-rushed-to-a-hospital-this-afternoon-by-los-angeles-fire-department-paramedics--capt-steve-ruda.html)
-2. [EOnline](http://www.eonline.com/uberblog/b131173_michael_jackson_pops_thrilling_king.html)
+1. [EOnline](http://www.eonline.com/uberblog/b131173_michael_jackson_pops_thrilling_king.html)
+2. [The Los Angeles Times](http://latimesblogs.latimes.com/lanow/2009/06/pop-star-michael-jackson-was-rushed-to-a-hospital-this-afternoon-by-los-angeles-fire-department-paramedics--capt-steve-ruda.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ The brother of Gabriel Garcia Marquez says the Colombian writer and Nobel laurea
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/books/2012/jul/07/gabriel-garcia-marquez-career-dementia)
-2. [BBC](http://www.bbc.co.uk/news/world-latin-america-18749389)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-18749389)
+2. [The Guardian](http://www.guardian.co.uk/books/2012/jul/07/gabriel-garcia-marquez-career-dementia)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/1117456722207_68/?hub=CTVNewsAt11)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000082&sid=abDHoYT7yuRg&refer=canada)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000082&sid=abDHoYT7yuRg&refer=canada)
+2. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/1117456722207_68/?hub=CTVNewsAt11)
 3. [Canada Newswire](http://www.newswire.ca/en/releases/archive/May2005/30/c5149.html)
 4. [Canada.Com](http://www.canada.com/health/story.html?id=9008f9b5-f869-4eba-bf26-f46954b69d7f)
 

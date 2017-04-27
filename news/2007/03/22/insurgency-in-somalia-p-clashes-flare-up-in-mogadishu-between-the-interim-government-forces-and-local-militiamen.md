@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Shabelle.net](http://www.shabelle.net/news/ne2604.htm)
-2. [Shabelle.net](http://www.shabelle.net/news/ne2603.htm)
+1. [Shabelle.net](http://www.shabelle.net/news/ne2603.htm)
+2. [Shabelle.net](http://www.shabelle.net/news/ne2604.htm)
 
 ### Related:
 

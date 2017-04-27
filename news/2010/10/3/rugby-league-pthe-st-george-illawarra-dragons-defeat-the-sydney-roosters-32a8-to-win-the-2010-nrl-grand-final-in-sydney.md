@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Australian](http://www.theaustralian.com.au/news/sport/dragons-end-roosters-fairytale-bid/story-e6frg7mf-1225933506626)
-2. [BBC Sport](http://news.bbc.co.uk/sport2/hi/rugby_league/super_league/9037764.stm)
+1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/rugby_league/super_league/9037764.stm)
+2. [The Australian](http://www.theaustralian.com.au/news/sport/dragons-end-roosters-fairytale-bid/story-e6frg7mf-1225933506626)
 
 ### Related:
 

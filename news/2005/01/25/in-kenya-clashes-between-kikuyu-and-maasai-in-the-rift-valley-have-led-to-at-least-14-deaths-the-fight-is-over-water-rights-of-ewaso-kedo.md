@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/IRIN/4ad439171a1e9ea5dfabe24d7ca3cdea.htm)
-2. [Standard, Kenya](http://www.eastandard.net/hm_news/news.php?articleid=11554)
-3. [AllAfrica](http://allafrica.com/stories/200501240349.html)
+1. [AllAfrica](http://allafrica.com/stories/200501240349.html)
+2. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/IRIN/4ad439171a1e9ea5dfabe24d7ca3cdea.htm)
+3. [Standard, Kenya](http://www.eastandard.net/hm_news/news.php?articleid=11554)
 
 ### Related:
 

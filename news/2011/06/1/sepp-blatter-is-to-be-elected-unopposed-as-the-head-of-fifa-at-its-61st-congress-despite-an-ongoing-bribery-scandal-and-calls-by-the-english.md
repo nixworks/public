@@ -7,8 +7,8 @@ FIFA’s leaders gathered in Zurich with little choice but to re-elect a preside
 
 ### Source:
 
-1. [Daily Mail](http://www.dailymail.co.uk/news/article-1392553/Prince-William-says-Fifa-election.html)
-2. [BBC Sport](http://news.bbc.co.uk/sport2/hi/football/13610973.stm)
+1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/football/13610973.stm)
+2. [Daily Mail](http://www.dailymail.co.uk/news/article-1392553/Prince-William-says-Fifa-election.html)
 3. [The Guardian](http://www.guardian.co.uk/football/2011/may/31/fa-chairman-sepp-blatter-fifa-reform)
 4. [The New York Times](http://www.nytimes.com/2011/06/01/sports/soccer/status-quo-running-unopposed-in-fifa-election.html)
 

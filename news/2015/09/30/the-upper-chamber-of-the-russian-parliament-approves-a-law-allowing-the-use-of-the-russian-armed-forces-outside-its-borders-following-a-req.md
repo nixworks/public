@@ -7,11 +7,11 @@ The escalation comes after Russia&rsquo;s parliament backed the use of military 
 
 ### Source:
 
-1. [AP](http://bigstory.ap.org/article/727876e1cc2d408382328db325bbfcef/latest-russian-airstrikes-hit-islamic-state-syria)
-2. [Washington Post](https://www.washingtonpost.com/world/russias-legislature-authorizes-putin-to-use-military-force-in-syria/2015/09/30/f069f752-6749-11e5-9ef3-fde182507eac_story.html)
-3. [ABC News](http://abcnews.go.com/Politics/us-confirms-russian-airstrikes-syria/story?id=34146198)
+1. [ABC News](http://abcnews.go.com/Politics/us-confirms-russian-airstrikes-syria/story?id=34146198)
+2. [AP](http://bigstory.ap.org/article/727876e1cc2d408382328db325bbfcef/latest-russian-airstrikes-hit-islamic-state-syria)
+3. [NPR](http://www.npr.org/sections/thetwo-way/2015/09/30/444679327/russia-begins-conducting-airstrikes-in-syria-at-assads-request)
 4. [The News Hub](https://www.the-newshub.com/general/russian-parliament-approves-foreign-military-interventions-on-putins-request)
-5. [NPR](http://www.npr.org/sections/thetwo-way/2015/09/30/444679327/russia-begins-conducting-airstrikes-in-syria-at-assads-request)
+5. [Washington Post](https://www.washingtonpost.com/world/russias-legislature-authorizes-putin-to-use-military-force-in-syria/2015/09/30/f069f752-6749-11e5-9ef3-fde182507eac_story.html)
 
 ### Related:
 

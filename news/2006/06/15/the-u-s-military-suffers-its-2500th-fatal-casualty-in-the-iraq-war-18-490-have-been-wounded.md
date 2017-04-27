@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [truthout](http://www.truthout.org/docs_2006/062006C.shtml)
-2. [Toronto Star](http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1150367949121&call_pageid=968332188492&col=968793972154)
+1. [Toronto Star](http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1150367949121&call_pageid=968332188492&col=968793972154)
+2. [truthout](http://www.truthout.org/docs_2006/062006C.shtml)
 
 ### Related:
 

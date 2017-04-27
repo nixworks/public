@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Focus Taiwan News Channel](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?ID=201008050009&Type=aTOD)
-2. [Xinhua](http://news.xinhuanet.com/english2010/business/2010-08/05/c_13431678.htm)
-3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10876580)
-4. [Financial Times](http://www.ft.com/cms/s/0/316d0e58-a04c-11df-81eb-00144feabdc0.html?ftcamp=rss)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10876580)
+2. [Financial Times](http://www.ft.com/cms/s/0/316d0e58-a04c-11df-81eb-00144feabdc0.html?ftcamp=rss)
+3. [Focus Taiwan News Channel](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?ID=201008050009&Type=aTOD)
+4. [Xinhua](http://news.xinhuanet.com/english2010/business/2010-08/05/c_13431678.htm)
 
 ### Related:
 

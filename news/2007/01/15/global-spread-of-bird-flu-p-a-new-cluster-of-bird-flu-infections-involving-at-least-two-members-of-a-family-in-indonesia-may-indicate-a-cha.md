@@ -7,9 +7,9 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aJeu3qEeXQ6o&refer=home)
+1. [AP via ABC News](http://abcnews.go.com/International/wireStory?id=2795456)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6262765.stm)
-3. [AP via ABC News](http://abcnews.go.com/International/wireStory?id=2795456)
+3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aJeu3qEeXQ6o&refer=home)
 
 ### Related:
 

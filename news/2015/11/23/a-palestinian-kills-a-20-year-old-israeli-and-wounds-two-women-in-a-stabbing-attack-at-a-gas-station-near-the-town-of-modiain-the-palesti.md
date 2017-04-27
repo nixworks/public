@@ -8,8 +8,8 @@ Israeli soldier murdered in attack on Route 443; Palestinians, 14 and 16, attack
 ### Source:
 
 1. [ (Times of Israel](http://www.timesofisrael.com/israeli-man-killed-woman-hurt-in-stabbing-at-west-bank-gas-station/)
-2. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-4729699,00.html)
-3. [Times of Israel](http://www.timesofisrael.com/watch-palestinian-girls-stab-elderly-arab-man-in-jerusalem/)
+2. [Times of Israel](http://www.timesofisrael.com/watch-palestinian-girls-stab-elderly-arab-man-in-jerusalem/)
+3. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-4729699,00.html)
 
 ### Related:
 

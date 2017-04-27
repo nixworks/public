@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-02/20/c_13181189.htm)
-2. [CNN](http://edition.cnn.com/2010/WORLD/africa/02/20/morocco.minaret.collapse/)
+1. [CNN](http://edition.cnn.com/2010/WORLD/africa/02/20/morocco.minaret.collapse/)
+2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-02/20/c_13181189.htm)
 
 ### Related:
 

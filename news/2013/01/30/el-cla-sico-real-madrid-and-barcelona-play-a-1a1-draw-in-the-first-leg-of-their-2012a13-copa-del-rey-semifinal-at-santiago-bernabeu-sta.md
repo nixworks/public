@@ -8,8 +8,8 @@ Real Madrid come from behind to draw the first leg of their Copa del Rey semi-fi
 ### Source:
 
 1. [AP via Yahoo!](http://sports.yahoo.com/news/barcelona-real-madrid-tie-1-222519147--sow.html)
-2. [ESPN](http://soccernet.espn.go.com/report?id=360213&cc=5739)
-3. [BBC](http://www.bbc.co.uk/sport/0/football/21270970)
+2. [BBC](http://www.bbc.co.uk/sport/0/football/21270970)
+3. [ESPN](http://soccernet.espn.go.com/report?id=360213&cc=5739)
 
 ### Related:
 

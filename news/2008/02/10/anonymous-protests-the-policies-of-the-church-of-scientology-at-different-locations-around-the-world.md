@@ -7,12 +7,12 @@ A shadowy, loose-knit consortium of activists and hackers called &#039;Anonymous
 
 ### Source:
 
-1. [The Scotsman](http://thescotsman.scotsman.com/scotland/Masked-protesters-hike-up-pressure.3763138.jp)
+1. [Adelaid](http://www.news.com.au/adelaidenow/story/0,22606,23189665-5006301,00.html)
 2. [Indymedia](http://sydney.indymedia.org.au/story/anonymous-confronts-church-scientology)
-3. [Adelaid](http://www.news.com.au/adelaidenow/story/0,22606,23189665-5006301,00.html)
+3. [Newsweek](http://www.newsweek.com/id/109410)
 4. [The Guardian](http://www.guardian.co.uk/commentisfree/2008/feb/10/8)
-5. [The Star](http://www.thestar.com/News/GTA/article/302118)
-6. [Newsweek](http://www.newsweek.com/id/109410)
+5. [The Scotsman](http://thescotsman.scotsman.com/scotland/Masked-protesters-hike-up-pressure.3763138.jp)
+6. [The Star](http://www.thestar.com/News/GTA/article/302118)
 
 ### Related:
 

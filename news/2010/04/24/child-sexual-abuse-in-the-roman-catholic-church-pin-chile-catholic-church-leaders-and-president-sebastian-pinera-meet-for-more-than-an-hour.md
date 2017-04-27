@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/world/story/2010/04/24/belgium-bishop-sex-abuse.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/8641456.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/8641456.stm)
+2. [CBC](http://www.cbc.ca/world/story/2010/04/24/belgium-bishop-sex-abuse.html)
 
 ### Related:
 

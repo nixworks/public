@@ -7,11 +7,11 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2012/jul/05/top-syrian-general-defects-turkey?newsfeed=true)
-2. [Reuters](http://www.reuters.com/article/2012/07/05/us-syria-crisis-tlas-idUSBRE8640X920120705)
-3. [The Washington Post](http://www.washingtonpost.com/world/middle_east/head-of-syrias-observer-mission-says-violence-is-unprecedented/2012/07/05/gJQA5szzOW_story.html)
-4. [CNN](http://edition.cnn.com/2012/07/04/world/meast/syria-unrest/index.html?hpt=hp_t3)
-5. [CNN](http://www.cnn.com/2012/07/05/world/meast/syria-unrest/?hpt=hp_t2)
+1. [CNN](http://edition.cnn.com/2012/07/04/world/meast/syria-unrest/index.html?hpt=hp_t3)
+2. [CNN](http://www.cnn.com/2012/07/05/world/meast/syria-unrest/?hpt=hp_t2)
+3. [Reuters](http://www.reuters.com/article/2012/07/05/us-syria-crisis-tlas-idUSBRE8640X920120705)
+4. [The Guardian](http://www.guardian.co.uk/world/2012/jul/05/top-syrian-general-defects-turkey?newsfeed=true)
+5. [The Washington Post](http://www.washingtonpost.com/world/middle_east/head-of-syrias-observer-mission-says-violence-is-unprecedented/2012/07/05/gJQA5szzOW_story.html)
 
 ### Related:
 

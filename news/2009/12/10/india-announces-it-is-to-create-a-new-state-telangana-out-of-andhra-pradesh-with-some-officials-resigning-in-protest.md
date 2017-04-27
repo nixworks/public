@@ -7,9 +7,9 @@ India will carve a newstate out of southern Andhra Pradesh, home to several majo
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSDEL32761120091210?type=marketsNews)
-2. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8405146.stm)
-3. [Indian Express](http://www.indianexpress.com/news/andhra-bifurcation-60-mlas-1-mp-resign-cong-on-back-foot/552479/0)
+1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8405146.stm)
+2. [Indian Express](http://www.indianexpress.com/news/andhra-bifurcation-60-mlas-1-mp-resign-cong-on-back-foot/552479/0)
+3. [Reuters](http://www.reuters.com/article/idUSDEL32761120091210?type=marketsNews)
 
 ### Related:
 

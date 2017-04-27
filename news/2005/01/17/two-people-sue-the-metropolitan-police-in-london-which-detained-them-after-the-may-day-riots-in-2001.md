@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Politics.co.uk](http://www.politics.co.uk/domestic-policy/met-challenged-over-may-day-policing-$7582477.htm)
+1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/4179977.stm)
 2. [Guardian](http://www.guardian.co.uk/uk_news/story/0,3604,1391969,00.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/uk_news/4179977.stm)
+3. [Politics.co.uk](http://www.politics.co.uk/domestic-policy/met-challenged-over-may-day-policing-$7582477.htm)
 
 ### Related:
 

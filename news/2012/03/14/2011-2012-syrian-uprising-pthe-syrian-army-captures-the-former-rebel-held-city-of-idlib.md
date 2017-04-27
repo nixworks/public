@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2012/03/14/world/meast/syria-unrest/index.html?eref=edition)
-2. [CBS](http://www.cbsnews.com/8301-501713_162-57396933/amnesty-says-syrian-authorities-torture-detainees/)
+1. [CBS](http://www.cbsnews.com/8301-501713_162-57396933/amnesty-says-syrian-authorities-torture-detainees/)
+2. [CNN](http://edition.cnn.com/2012/03/14/world/meast/syria-unrest/index.html?eref=edition)
 
 ### Related:
 

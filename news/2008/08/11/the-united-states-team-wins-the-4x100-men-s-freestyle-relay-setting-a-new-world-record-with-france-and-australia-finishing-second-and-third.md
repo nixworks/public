@@ -7,8 +7,8 @@ An incredible anchor leg by Jason Lezak kept Michael Phelps’ hope of eight gol
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2008/08/11/sports/olympics/11phelpsweb.html)
-2. [SI via CNN](http://sportsillustrated.cnn.com/2008/olympics/2008/08/10/phelps.usa.relay.ap/index.html)
+1. [SI via CNN](http://sportsillustrated.cnn.com/2008/olympics/2008/08/10/phelps.usa.relay.ap/index.html)
+2. [The New York Times](http://www.nytimes.com/2008/08/11/sports/olympics/11phelpsweb.html)
 
 ### Related:
 

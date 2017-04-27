@@ -8,10 +8,10 @@ The losses reinforced the picture of an economy contracting at its fastest pace 
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2009/02/07/2484965.htm)
-2. [Reuters](http://uk.reuters.com/article/marketsNewsUS/idUKN0647750820090207)
-3. [ABC News](http://blogs.abcnews.com/politicalpunch/2009/02/more-details-on.html)
+2. [ABC News](http://blogs.abcnews.com/politicalpunch/2009/02/more-details-on.html)
+3. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5g6VoX1oasDGh3tWdoedIEeCbQ5uQD966B15O2)
 4. [New York Times](http://www.nytimes.com/2009/02/07/business/economy/07jobs.html?_r=1&hp)
-5. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5g6VoX1oasDGh3tWdoedIEeCbQ5uQD966B15O2)
+5. [Reuters](http://uk.reuters.com/article/marketsNewsUS/idUKN0647750820090207)
 
 ### Related:
 

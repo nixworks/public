@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2009/nov/26/former-colombian-general-jailed-massacre)
-2. [Colombia Reports](http://colombiareports.com/colombia-news/news/7051-army-commander-sentenced-for-involvement-in-mapiripan-massacre.html)
+1. [Colombia Reports](http://colombiareports.com/colombia-news/news/7051-army-commander-sentenced-for-involvement-in-mapiripan-massacre.html)
+2. [The Guardian](http://www.guardian.co.uk/world/2009/nov/26/former-colombian-general-jailed-massacre)
 
 ### Related:
 

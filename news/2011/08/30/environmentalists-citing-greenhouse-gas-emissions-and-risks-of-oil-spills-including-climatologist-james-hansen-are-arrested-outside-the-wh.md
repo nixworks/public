@@ -7,10 +7,10 @@ A series of arrests outside the White House nets actress.
 
 ### Source:
 
-1. [The Nation](http://www.thenation.com/blog/162987/civil-disobedience-tar-sands-continues-amid-ominous-signs-administration)
+1. [AP via ''Sydney Morning Herald](http://www.smh.com.au/lifestyle/celebrity/daryl-hannah-arrested-20110831-1jl2g.html)
 2. [Bloomberg](http://www.bloomberg.com/news/2011-08-29/nasa-s-hansen-arrested-outside-white-house-at-pipeline-protest.html)
 3. [NPR](http://www.npr.org/2011/08/30/140054844/the-nation-coming-together-in-central-cell-block)
-4. [AP via ''Sydney Morning Herald](http://www.smh.com.au/lifestyle/celebrity/daryl-hannah-arrested-20110831-1jl2g.html)
+4. [The Nation](http://www.thenation.com/blog/162987/civil-disobedience-tar-sands-continues-amid-ominous-signs-administration)
 5. [The New York Times](http://www.nytimes.com/cwire/2011/08/26/26climatewire-hansen-says-obama-will-be-greenwashing-about-72041.html)
 
 ### Related:

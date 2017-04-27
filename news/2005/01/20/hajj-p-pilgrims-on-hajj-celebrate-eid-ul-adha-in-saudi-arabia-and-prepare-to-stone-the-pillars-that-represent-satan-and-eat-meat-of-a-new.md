@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/saudi/story/0,11599,1394920,00.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4180965.stm)
-3. [Chicago Sun-Times](http://www.suntimes.com/output/news/cst-nws-hajj20.html)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4180965.stm)
+2. [Chicago Sun-Times](http://www.suntimes.com/output/news/cst-nws-hajj20.html)
+3. [The Guardian](http://www.guardian.co.uk/saudi/story/0,11599,1394920,00.html)
 
 ### Related:
 

@@ -8,8 +8,8 @@
 ### Source:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jAaIJ3B2FlAayu6sSE4Sh3f12Q0g)
-2. [Sky News](http://news.sky.com/skynews/Home/World-News/Rwandan-Government-Denies-Murder-Of-Journalist-Jean-Leonard-Rugambage-Ahead-Of-Presidential-Election/Article/201006415655983?lpos=World_News_Second_Home_Page_Article_Teaser_Region_0&lid=ARTICLE_15655983_Rwandan_Government_Denies_Murder_Of_Journalist_Jean-Leonard_Rugambage_Ahead_Of_Presidential_Election)
-3. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iIHDE3QW5_Gljs5EQp86dLjlMvBwD9GJ351G0)
+2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iIHDE3QW5_Gljs5EQp86dLjlMvBwD9GJ351G0)
+3. [Sky News](http://news.sky.com/skynews/Home/World-News/Rwandan-Government-Denies-Murder-Of-Journalist-Jean-Leonard-Rugambage-Ahead-Of-Presidential-Election/Article/201006415655983?lpos=World_News_Second_Home_Page_Article_Teaser_Region_0&lid=ARTICLE_15655983_Rwandan_Government_Denies_Murder_Of_Journalist_Jean-Leonard_Rugambage_Ahead_Of_Presidential_Election)
 
 ### Related:
 

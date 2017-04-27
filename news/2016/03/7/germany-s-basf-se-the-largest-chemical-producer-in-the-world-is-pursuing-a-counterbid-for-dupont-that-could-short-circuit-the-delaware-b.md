@@ -7,8 +7,8 @@ BASF SE is working with advisers and financing banks on the merits of making a c
 
 ### Source:
 
-1. [Fortune](http://fortune.com/2016/03/07/basf-is-weighing-a-counterbid-for-dupont/)
-2. [Bloomberg](http://www.bloomberg.com/news/articles/2016-03-06/basf-said-working-with-banks-to-weigh-counter-bid-for-dupont)
+1. [Bloomberg](http://www.bloomberg.com/news/articles/2016-03-06/basf-said-working-with-banks-to-weigh-counter-bid-for-dupont)
+2. [Fortune](http://fortune.com/2016/03/07/basf-is-weighing-a-counterbid-for-dupont/)
 
 ### Related:
 

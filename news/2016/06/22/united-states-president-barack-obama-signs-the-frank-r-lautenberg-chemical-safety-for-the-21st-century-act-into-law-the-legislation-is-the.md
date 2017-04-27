@@ -7,8 +7,8 @@ The Frank R. Lautenberg Chemical Safety for the 21st Century Act updates the Tox
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/news/speaking-of-science/wp/2016/06/22/obamatoxic/)
-2. [AP via ''The New York Times](http://www.nytimes.com/aponline/2016/06/22/us/politics/ap-us-obama-chemical-regulation.html?_r=0)
+1. [AP via ''The New York Times](http://www.nytimes.com/aponline/2016/06/22/us/politics/ap-us-obama-chemical-regulation.html?_r=0)
+2. [The Washington Post](https://www.washingtonpost.com/news/speaking-of-science/wp/2016/06/22/obamatoxic/)
 
 ### Related:
 

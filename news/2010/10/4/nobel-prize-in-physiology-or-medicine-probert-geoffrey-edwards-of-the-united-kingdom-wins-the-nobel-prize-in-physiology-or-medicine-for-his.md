@@ -7,12 +7,12 @@ The man who devised the fertility treatment IVF is awarded the Nobel prize for m
 
 ### Source:
 
-1. [AFP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/vatican-slams-nobel-win-for-ivf-doc-20101005-164n0.html)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/10/2010104185410724420.html)
-3. [BBC](http://www.bbc.co.uk/news/health-11472753)
+1. [AFP via ''The Age](http://news.theage.com.au/breaking-news-world/robert-edwards-wins-nobel-medicine-prize-20101004-1648i.html)
+2. [AFP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/vatican-slams-nobel-win-for-ivf-doc-20101005-164n0.html)
+3. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/10/2010104185410724420.html)
 4. [BBC](http://www.bbc.co.uk/news/health-11465715)
-5. [Nobel Prize](http://nobelprize.org/nobel_prizes/medicine/laureates/2010/)
-6. [AFP via ''The Age](http://news.theage.com.au/breaking-news-world/robert-edwards-wins-nobel-medicine-prize-20101004-1648i.html)
+5. [BBC](http://www.bbc.co.uk/news/health-11472753)
+6. [Nobel Prize](http://nobelprize.org/nobel_prizes/medicine/laureates/2010/)
 
 ### Related:
 

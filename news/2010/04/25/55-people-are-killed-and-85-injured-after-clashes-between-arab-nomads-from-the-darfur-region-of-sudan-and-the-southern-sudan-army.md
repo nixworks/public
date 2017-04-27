@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8642711.stm)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i6TqtZxy6zxVYPGDuDzj7bs8q7Iw)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/04/2010425132051685214.html)
-3. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i6TqtZxy6zxVYPGDuDzj7bs8q7Iw)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8642711.stm)
 
 ### Related:
 

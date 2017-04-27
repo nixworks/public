@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/europe/4732783.stm)
-2. [Mosnews](http://www.mosnews.com/news/2005/07/31/ivanovabc.shtml)
-3. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/0204DB35-417B-4669-971E-327277888089.htm)
+1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/0204DB35-417B-4669-971E-327277888089.htm)
+2. [BBC](http://news.bbc.co.uk/2/hi/europe/4732783.stm)
+3. [Mosnews](http://www.mosnews.com/news/2005/07/31/ivanovabc.shtml)
 4. [RIA Novosti](http://en.rian.ru/russia/20050729/41054350.html)
 
 ### Related:

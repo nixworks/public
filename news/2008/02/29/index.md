@@ -7,7 +7,7 @@ _Context: Boeing, EADS, KC-45, Northrop Grumman, U.S. dollar, United States Air 
 _Context: Fort Wayne, Indiana, News-Sentinel, White House_
 
 ### [ The U.S. Department of Agriculture stands down two employees as part of its investigation of the biggest meat recall in United States history. ](/news/2008/02/29/the-u-s-department-of-agriculture-stands-down-two-employees-as-part-of-its-investigation-of-the-biggest-meat-recall-in-united-states-histo.md)
-_Context: U.S., United States Department of Agriculture, biggest meat recall_
+_Context: United States, United States Department of Agriculture, biggest meat recall_
 
 ### [ The British Ministry of Defence announces that Prince Harry will have to return home from his deployment in Afghanistan as recent publicity made it too dangerous for him to stay there. ](/news/2008/02/29/the-british-ministry-of-defence-announces-that-prince-harry-will-have-to-return-home-from-his-deployment-in-afghanistan-as-recent-publicity.md)
 _Context: Afghan, International Security Assistance Force, Ministry of Defence, Prince Harry, United Kingdom_

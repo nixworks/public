@@ -8,8 +8,8 @@ North Korea says it is proceeding with plans for a third nuclear test, two days 
 ### Source:
 
 1. [AP via CBS News](http://www.cbsnews.com/8301-202_162-57565891/north-korea-almost-ready-for-nuclear-test-satellite-photos-suggest/)
-2. [The New York Times](http://www.nytimes.com/2013/01/25/world/asia/north-korea-vows-nuclear-test-as-threats-intensify.html)
-3. [BBC](http://www.bbc.co.uk/news/world-asia-21175466)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-21175466)
+3. [The New York Times](http://www.nytimes.com/2013/01/25/world/asia/north-korea-vows-nuclear-test-as-threats-intensify.html)
 
 ### Related:
 

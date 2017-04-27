@@ -7,10 +7,10 @@ Mario Gomez gives the Netherlands a lesson in finishing as Germany leave their r
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/sport/football/2012/06/2012613205029456982.html)
-2. [Al Jazeera](http://www.aljazeera.com/sport/football/2012/06/201261316849148988.html)
-3. [BBC](http://www.bbc.co.uk/sport/0/football/18139274)
-4. [BBC](http://www.bbc.co.uk/sport/0/football/18139105)
+1. [Al Jazeera](http://www.aljazeera.com/sport/football/2012/06/201261316849148988.html)
+2. [Al Jazeera](http://www.aljazeera.com/sport/football/2012/06/2012613205029456982.html)
+3. [BBC](http://www.bbc.co.uk/sport/0/football/18139105)
+4. [BBC](http://www.bbc.co.uk/sport/0/football/18139274)
 5. [BBC](http://www.bbc.co.uk/sport/0/football/18431163)
 
 ### Related:

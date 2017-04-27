@@ -7,8 +7,8 @@ Togo have been threatened with punishment after their withdrawal from the Africa
 
 ### Source:
 
-1. [The Times](http://www.timesonline.co.uk/tol/sport/football/international/article6984307.ece)
-2. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/international/6969397/Togo-face-sanctions-for-pulling-out-of-Africa-Cup-of-Nations.html)
+1. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/international/6969397/Togo-face-sanctions-for-pulling-out-of-Africa-Cup-of-Nations.html)
+2. [The Times](http://www.timesonline.co.uk/tol/sport/football/international/article6984307.ece)
 
 ### Related:
 

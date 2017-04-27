@@ -7,8 +7,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Source:
 
-1. [Reuters via Yahoo News](http://news.yahoo.com/ruling-party-headed-1st-round-win-dominican-election-033525811.html)
-2. [AP via ABC America](http://abcnews.go.com/International/wireStory/fear-versus-frustration-dominican-republic-vote-16386854#.T7hbUNxo3TA)
+1. [AP via ABC America](http://abcnews.go.com/International/wireStory/fear-versus-frustration-dominican-republic-vote-16386854#.T7hbUNxo3TA)
+2. [Reuters via Yahoo News](http://news.yahoo.com/ruling-party-headed-1st-round-win-dominican-election-033525811.html)
 
 ### Related:
 

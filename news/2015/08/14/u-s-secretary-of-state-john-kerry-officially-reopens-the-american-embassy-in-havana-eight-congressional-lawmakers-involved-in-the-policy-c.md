@@ -7,10 +7,10 @@ Washington&#039;s top diplomat came to Havana on Friday to raise the Stars and S
 
 ### Source:
 
-1. [The Washington Post](http://www.washingtonpost.com/news/powerpost/wp/2015/08/14/cuba-congressional-delegation-who-traveled-with-john-kerry-to-havana/)
-2. [NBC](http://www.nbcnews.com/storyline/u-s-cuba-relations/kerry-see-u-s-flag-fly-over-cuba-embassy-after-n409726)
-3. [AP via Global News](http://globalnews.ca/news/2165325/john-kerry-flies-to-cuba-to-raise-flag-at-newly-opened-u-s-embassy/)
-4. [CNN](http://www.cnn.com/2015/08/14/politics/cuba-embassy-opening-john-kerry-visit/)
+1. [AP via Global News](http://globalnews.ca/news/2165325/john-kerry-flies-to-cuba-to-raise-flag-at-newly-opened-u-s-embassy/)
+2. [CNN](http://www.cnn.com/2015/08/14/politics/cuba-embassy-opening-john-kerry-visit/)
+3. [NBC](http://www.nbcnews.com/storyline/u-s-cuba-relations/kerry-see-u-s-flag-fly-over-cuba-embassy-after-n409726)
+4. [The Washington Post](http://www.washingtonpost.com/news/powerpost/wp/2015/08/14/cuba-congressional-delegation-who-traveled-with-john-kerry-to-havana/)
 
 ### Related:
 

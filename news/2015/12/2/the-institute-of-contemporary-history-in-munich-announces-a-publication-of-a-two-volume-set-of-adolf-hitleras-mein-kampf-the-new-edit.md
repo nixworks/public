@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Week](http://theweek.com/speedreads/591745/after-70-years-mein-kampf-published-again-germany)
-2. [The New York Times](http://www.nytimes.com/2015/12/02/world/europe/scholars-unveil-new-edition-of-hitlers-mein-kampf.html)
+1. [The New York Times](http://www.nytimes.com/2015/12/02/world/europe/scholars-unveil-new-edition-of-hitlers-mein-kampf.html)
+2. [The Week](http://theweek.com/speedreads/591745/after-70-years-mein-kampf-published-again-germany)
 
 ### Related:
 

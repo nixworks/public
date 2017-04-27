@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Australian](http://www.theaustralian.com.au/news/world/aung-san-suu-kyi-vows-to-probe-burmese-election-rorts/story-e6frg6so-1225954027125)
-2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/11/15/myanmar.suu.kyi/)
+1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/11/15/myanmar.suu.kyi/)
+2. [The Australian](http://www.theaustralian.com.au/news/world/aung-san-suu-kyi-vows-to-probe-burmese-election-rorts/story-e6frg6so-1225954027125)
 
 ### Related:
 

@@ -19,7 +19,7 @@ _Context: Burma, commuting_
 Two men convicted of the murder of Stephen Lawrence have been given life sentences with minimum terms of 15 years and two months and 14 years and three months.
 
 ### [Mexican drug cartel kingpin Benjamn Arellano Flix pleads guilty to racketeering and conspiracy to launder money in the United States. ](/news/2012/01/4/mexican-drug-cartel-kingpin-benjamin-arellano-felix-pleads-guilty-to-racketeering-and-conspiracy-to-launder-money-in-the-united-states.md)
-_Context: Benjamín Arellano Félix, Mexican, U.S., money laundering, racketeering_
+_Context: Benjamín Arellano Félix, Mexican, United States, money laundering, racketeering_
 
 ### [The President of Argentina Cristina Fernndez de Kirchner temporarily hands over power to her Vice-President Amado Boudou ahead of surgery for thyroid cancer. ](/news/2012/01/4/the-president-of-argentina-cristina-fernandez-de-kirchner-temporarily-hands-over-power-to-her-vice-president-amado-boudou-ahead-of-surgery-f.md)
 _Context: Amado Boudou, Cristina Kirchner, President of Argentina, thyroid cancer_

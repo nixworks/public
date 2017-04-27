@@ -7,8 +7,8 @@ Tornadoes rip through the US south-west, killing at least 17 people in Arkansas 
 
 ### Source:
 
-1. [Reuters via ABC News Australia](http://www.abc.net.au/news/2014-04-28/reports-of-mass-casualties-as-tornadoes-hit-us/5415536)
-2. [ABC News](http://abcnews.go.com/US/wireStory/official-dead-tornado-hits-quapaw-oklahoma-extent-damage-23491872)
+1. [ABC News](http://abcnews.go.com/US/wireStory/official-dead-tornado-hits-quapaw-oklahoma-extent-damage-23491872)
+2. [Reuters via ABC News Australia](http://www.abc.net.au/news/2014-04-28/reports-of-mass-casualties-as-tornadoes-hit-us/5415536)
 
 ### Related:
 

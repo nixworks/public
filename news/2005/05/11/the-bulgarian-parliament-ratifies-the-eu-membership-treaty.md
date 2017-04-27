@@ -8,8 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4535585.stm)
-2. [CNN](http://edition.cnn.com/2005/WORLD/europe/05/11/bulgaria.eu.reut/)
-3. [Bulgarian News Network](http://www.bgnewsnet.com/story.php?lang=en&sid=20140)
+2. [Bulgarian News Network](http://www.bgnewsnet.com/story.php?lang=en&sid=20140)
+3. [CNN](http://edition.cnn.com/2005/WORLD/europe/05/11/bulgaria.eu.reut/)
 4. [Sofia News Agency](http://www.novinite.com/view_news.php?id=47567)
 
 ### Related:
@@ -23,4 +23,4 @@
 7. [ The European Commission confirms that Bulgaria and Romania are set to join the European Union on 1 January 2007, in what may be the last EU expansion before a European constitution is established. ](/news/2006/09/26/the-european-commission-confirms-that-bulgaria-and-romania-are-set-to-join-the-european-union-on-1-january-2007-in-what-may-be-the-last-eu.md) _Context: Bulgaria, European Union_
 8. [ Bulgaria and Romania sign accession treaty to the European Union, continuing the enlargement process. ](/news/2005/04/25/bulgaria-and-romania-sign-accession-treaty-to-the-european-union-continuing-the-enlargement-process.md) _Context: Bulgaria, European Union_
 9. [ The European Parliament votes to allow Bulgaria and Romania to join the European Union in 2007. ](/news/2005/04/13/the-european-parliament-votes-to-allow-bulgaria-and-romania-to-join-the-european-union-in-2007.md) _Context: Bulgaria, European Union_
-10. [Investigative journalism on court-released internal email reveals that Monsanto influenced scientific research enabling the European Union approval to market glyphosate. ](/news/2017/04/25/investigative-journalism-on-court-released-internal-email-reveals-that-monsanto-influenced-scientific-research-enabling-the-european-union-a.md) _Context: European Union_
+10. [The United Kingdom formally notifies the European Council of its intention to withdraw from the European Union and the European Atomic Energy Community. There is not yet agreement on a negotiations roadmap. ](/news/2017/03/29/the-united-kingdom-formally-notifies-the-european-council-of-its-intention-to-withdraw-from-the-european-union-and-the-european-atomic-energ.md) _Context: European Union_

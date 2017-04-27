@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Zeenews](http://www.zeenews.com/news660820.html)
-2. [Deccan Chronicle](http://www.deccanchronicle.com/national/14-die-bus-falls-river-uttar-pradesh-695)
+1. [Deccan Chronicle](http://www.deccanchronicle.com/national/14-die-bus-falls-river-uttar-pradesh-695)
+2. [Zeenews](http://www.zeenews.com/news660820.html)
 
 ### Related:
 

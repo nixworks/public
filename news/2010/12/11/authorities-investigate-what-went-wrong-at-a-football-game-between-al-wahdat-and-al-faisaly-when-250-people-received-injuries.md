@@ -7,8 +7,8 @@ An investigation is launched in Jordan after clashes and a stampede at a footbal
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11975950)
-2. [Al Jazeera](http://english.aljazeera.net/video/middleeast/2010/12/20101211142020685574.html)
+1. [Al Jazeera](http://english.aljazeera.net/video/middleeast/2010/12/20101211142020685574.html)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11975950)
 
 ### Related:
 

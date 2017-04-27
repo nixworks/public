@@ -7,8 +7,8 @@ Victoria Azarenka overcomes Sloane Stephens and set up an Australian Open final 
 
 ### Source:
 
-1. [ESPN](http://espn.go.com/espnw/8875845/australian-open-victoria-azarenka-win-comes-controversy)
-2. [BBC](http://www.bbc.co.uk/sport/0/tennis/21175595)
+1. [BBC](http://www.bbc.co.uk/sport/0/tennis/21175595)
+2. [ESPN](http://espn.go.com/espnw/8875845/australian-open-victoria-azarenka-win-comes-controversy)
 
 ### Related:
 

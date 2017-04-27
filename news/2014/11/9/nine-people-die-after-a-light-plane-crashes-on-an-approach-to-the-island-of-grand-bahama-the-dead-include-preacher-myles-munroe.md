@@ -7,5 +7,5 @@ A small plane crashed in the Bahamas, killing Myles Munroe, an internationally k
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/news/world/prominent-preacher-myles-munroe-killed-small-plane-crash-bahamas-n244831)
-2. [AP via Fox News](http://www.foxnews.com/world/2014/11/09/plane-with-people-on-board-crashes-in-bahamas-govt-says-some-fatalities/)
+1. [AP via Fox News](http://www.foxnews.com/world/2014/11/09/plane-with-people-on-board-crashes-in-bahamas-govt-says-some-fatalities/)
+2. [NBC News](http://www.nbcnews.com/news/world/prominent-preacher-myles-munroe-killed-small-plane-crash-bahamas-n244831)

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Korea Herald](http://www.koreaherald.co.kr/SITE/data/html_dir/2005/04/06/200504060007.asp)
-2. [Japan Times](http://www.japantimes.co.jp/cgi-bin/getarticle.pl5?nn20050406a1.htm)
+1. [Japan Times](http://www.japantimes.co.jp/cgi-bin/getarticle.pl5?nn20050406a1.htm)
+2. [Korea Herald](http://www.koreaherald.co.kr/SITE/data/html_dir/2005/04/06/200504060007.asp)
 
 ### Related:
 

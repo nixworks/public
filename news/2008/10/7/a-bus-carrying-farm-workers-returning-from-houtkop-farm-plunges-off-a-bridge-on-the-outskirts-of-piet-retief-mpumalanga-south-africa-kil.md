@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Condolences conveyed after Mpumalanga horror crash (SABC News](http://www.sabcnews.com/south_africa/general/0,2172,177935,00.html,)
-2. [30 die, including two kids, as bus plunges off bridge (Sowetan](http://www.sowetan.co.za/News/Article.aspx?id=858469,)
+1. [30 die, including two kids, as bus plunges off bridge (Sowetan](http://www.sowetan.co.za/News/Article.aspx?id=858469,)
+2. [Condolences conveyed after Mpumalanga horror crash (SABC News](http://www.sabcnews.com/south_africa/general/0,2172,177935,00.html,)
 
 ### Related:
 

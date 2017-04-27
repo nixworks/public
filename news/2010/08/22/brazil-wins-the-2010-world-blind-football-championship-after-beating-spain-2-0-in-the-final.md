@@ -7,8 +7,8 @@ England finished fourth after losing to China in the play-off for third place.
 
 ### Source:
 
-1. [Hereford Times](http://www.herefordtimes.com/sport/8346552.Brazil_win_Hereford_s_IBSA_World_Blind_Football_Championship_2010/)
-2. [BBC Sport](http://news.bbc.co.uk/sport1/hi/other_sports/disability_sport/8937554.stm)
+1. [BBC Sport](http://news.bbc.co.uk/sport1/hi/other_sports/disability_sport/8937554.stm)
+2. [Hereford Times](http://www.herefordtimes.com/sport/8346552.Brazil_win_Hereford_s_IBSA_World_Blind_Football_Championship_2010/)
 
 ### Related:
 

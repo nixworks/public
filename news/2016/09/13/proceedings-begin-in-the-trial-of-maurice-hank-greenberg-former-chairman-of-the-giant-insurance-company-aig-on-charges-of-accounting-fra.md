@@ -7,8 +7,8 @@ Opening arguments began on Tuesday in the trial of former American International
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2016/09/12/business/dealbook/after-11-years-case-of-aigs-ex-chief-is-going-to-trial.html?_r=0)
-2. [Reuters](http://www.reuters.com/article/us-greenberg-aig-case-idUSKCN11J12H)
+1. [Reuters](http://www.reuters.com/article/us-greenberg-aig-case-idUSKCN11J12H)
+2. [The New York Times](http://www.nytimes.com/2016/09/12/business/dealbook/after-11-years-case-of-aigs-ex-chief-is-going-to-trial.html?_r=0)
 
 ### Related:
 

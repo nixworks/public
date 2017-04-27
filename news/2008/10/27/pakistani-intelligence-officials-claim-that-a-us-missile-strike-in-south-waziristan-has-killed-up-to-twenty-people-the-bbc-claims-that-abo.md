@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7692373.stm)
-2. [AP via ''The Guardian](http://www.guardian.co.uk/world/feedarticle/7932158)
+1. [AP via ''The Guardian](http://www.guardian.co.uk/world/feedarticle/7932158)
+2. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7692373.stm)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Human Rights Watch](http://www.hrw.org/news/2013/09/10/syria-government-likely-culprit-chemical-attack)
+1. [AFP via ''the Australian](http://www.theaustralian.com.au/news/world/barack-obama-denounces-sickening-gas-attack-in-syria-as-he-makes-case-for-action/story-e6frg6so-1226716776098)
 2. [France 24](http://www.france24.com/en/breaking/20130910-france-propose-un-resolution-syria-chemical-weapons-handover?ns_campaign=al_en&ns_mchannel=email_marketing&ns_source=AL_20130910_1143&ns_linkname=20130910_breaking_news&ns_fee=0&f24_member_id=1080960490882)
-3. [AFP via ''the Australian](http://www.theaustralian.com.au/news/world/barack-obama-denounces-sickening-gas-attack-in-syria-as-he-makes-case-for-action/story-e6frg6so-1226716776098)
+3. [Human Rights Watch](http://www.hrw.org/news/2013/09/10/syria-government-likely-culprit-chemical-attack)
 
 ### Related:
 

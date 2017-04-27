@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [People](http://www.people.com/people/article/0,,20417923,00.html)
-2. [The Guardian](http://www.guardian.co.uk/world/2010/sep/01/discovery-hostage-taker-killed-by-police)
-3. [ (''Entertainment Weekly](http://news-briefs.ew.com/2010/09/01/police-shoot-discovery-channel-gunman-hostages-safe/)
+1. [ (''Entertainment Weekly](http://news-briefs.ew.com/2010/09/01/police-shoot-discovery-channel-gunman-hostages-safe/)
+2. [People](http://www.people.com/people/article/0,,20417923,00.html)
+3. [The Guardian](http://www.guardian.co.uk/world/2010/sep/01/discovery-hostage-taker-killed-by-police)
 4. [UKPA via Google](http://www.google.com/hostednews/ukpress/article/ALeqM5g3eEsWgAg94i8UT0mvBBOpheIq4A)
 
 ### Related:

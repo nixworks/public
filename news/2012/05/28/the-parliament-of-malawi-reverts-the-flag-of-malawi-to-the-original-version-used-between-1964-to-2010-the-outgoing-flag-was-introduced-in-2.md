@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Nation](http://www.mwnation.com/index.php?option=com_content&view=article&id=5941:flag-change-was-an-insult-mps&catid=34:national-news&Itemid=204)
-2. [Nyasa Times](http://www.nyasatimes.com/malawi/2012/05/28/malawi-parliament-approves-to-revert-to-original-flag/)
+1. [Nyasa Times](http://www.nyasatimes.com/malawi/2012/05/28/malawi-parliament-approves-to-revert-to-original-flag/)
+2. [The Nation](http://www.mwnation.com/index.php?option=com_content&view=article&id=5941:flag-change-was-an-insult-mps&catid=34:national-news&Itemid=204)
 
 ### Related:
 

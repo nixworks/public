@@ -7,8 +7,8 @@ CNN sacks an editor who wrote on Twitter that she &quot;respected&quot; a late L
 
 ### Source:
 
-1. [The Australian](http://www.theaustralian.com.au/business/media/cnn-drops-editor-over-twitter-comment/story-e6frg996-1225889321430)
-2. [BBC News](http://news.bbc.co.uk/2/hi/world/us_and_canada/10549106.stm)
+1. [BBC News](http://news.bbc.co.uk/2/hi/world/us_and_canada/10549106.stm)
+2. [The Australian](http://www.theaustralian.com.au/business/media/cnn-drops-editor-over-twitter-comment/story-e6frg996-1225889321430)
 
 ### Related:
 

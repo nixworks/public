@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [astro.uni-bonn.de](http://www.astro.uni-bonn.de/~bertoldi/ub313/)
-2. [AP via Yahoo!](http://news.yahoo.com/s/ap/20060202/ap_on_sc/new_planet)
+1. [AP via Yahoo!](http://news.yahoo.com/s/ap/20060202/ap_on_sc/new_planet)
+2. [astro.uni-bonn.de](http://www.astro.uni-bonn.de/~bertoldi/ub313/)
 
 ### Related:
 

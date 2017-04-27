@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2015/06/13/europe/uk-royal-queen-birthday/index.html?eref=edition)
-2. [BBC](http://www.bbc.com/news/uk-33109755)
+1. [BBC](http://www.bbc.com/news/uk-33109755)
+2. [CNN](http://edition.cnn.com/2015/06/13/europe/uk-royal-queen-birthday/index.html?eref=edition)
 
 ### Related:
 

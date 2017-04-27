@@ -7,8 +7,8 @@ Rick Santorum is charging into the Louisiana primary Saturday holding onto a hea
 
 ### Source:
 
-1. [Fox News](http://www.foxnews.com/politics/2012/03/23/gop-candidates-tackle-major-issues-ahead-louisiana-primary/)
-2. [BBC](http://www.bbc.co.uk/news/world-us-canada-17502873)
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-17502873)
+2. [Fox News](http://www.foxnews.com/politics/2012/03/23/gop-candidates-tackle-major-issues-ahead-louisiana-primary/)
 
 ### Related:
 

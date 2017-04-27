@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Hindustan Times](http://www.hindustantimes.com/8-feared-dead-after-cargo-plane-crash-near-Kabul/Article1-612197.aspx)
+1. [AP via ''Washington Examiner](http://www.washingtonexaminer.com/breaking/nato-2-afghan-insurgent-leaders-killed-1-captured-service-member-dies-in-militant-attack-104844584.html?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=examiner_nation&utm_content=feed&utm_term=feed)
 2. [AP via anhourago](http://www.anhourago.in/show.aspx?l=6377642&d=502)
-3. [AP via ''Washington Examiner](http://www.washingtonexaminer.com/breaking/nato-2-afghan-insurgent-leaders-killed-1-captured-service-member-dies-in-militant-attack-104844584.html?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=examiner_nation&utm_content=feed&utm_term=feed)
+3. [Hindustan Times](http://www.hindustantimes.com/8-feared-dead-after-cargo-plane-crash-near-Kabul/Article1-612197.aspx)
 
 ### Related:
 

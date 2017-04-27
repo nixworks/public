@@ -7,18 +7,18 @@ A Libyan envoy representing Colonel Gaddafi has been in London in the past few d
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2011/WORLD/meast/04/01/jordan.rallies/)
-2. [Reuters](http://ca.reuters.com/article/topNews/idCATRE7304C920110401?sp=true)
+1. [Al Arabiya](http://www.alarabiya.net/articles/2011/04/01/143812.html)
+2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/03/20113312103411544.html)
 3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/20114110141210680.html)
-4. [Alert Net](http://www.trust.org/alertnet/news/bahrain-steps-up-detentions-releases-prominent-blogger/)
-5. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/libya/8422410/Libya-wife-of-defecting-foreign-minister-captured-in-firefight.html)
-6. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/201141132440493496.html)
-7. [Al Arabiya](http://www.alarabiya.net/articles/2011/04/01/143812.html)
-8. [BBC](http://www.bbc.co.uk/news/world-africa-12930169)
-9. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/03/20113312103411544.html)
+4. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/201141132440493496.html)
+5. [Alert Net](http://www.trust.org/alertnet/news/bahrain-steps-up-detentions-releases-prominent-blogger/)
+6. [Alert Net](http://www.trust.org/alertnet/news/protests-break-out-after-friday-prayers-in-syria)
+7. [BBC](http://www.bbc.co.uk/news/world-africa-12930169)
+8. [BBC](http://www.bbc.co.uk/news/world-middle-east-12938756)
+9. [CNN](http://edition.cnn.com/2011/WORLD/meast/04/01/jordan.rallies/)
 10. [Reuters](http://af.reuters.com/article/energyOilNews/idAFLDE73024G20110401?sp=true)
-11. [Alert Net](http://www.trust.org/alertnet/news/protests-break-out-after-friday-prayers-in-syria)
-12. [BBC](http://www.bbc.co.uk/news/world-middle-east-12938756)
+11. [Reuters](http://ca.reuters.com/article/topNews/idCATRE7304C920110401?sp=true)
+12. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/libya/8422410/Libya-wife-of-defecting-foreign-minister-captured-in-firefight.html)
 
 ### Related:
 

@@ -7,5 +7,5 @@ It can be hard for doctors to tell if someone who is severely brain injured and 
 
 ### Source:
 
-1. [NBC](http://www.nbcnews.com/health/new-tool-peeks-brain-measure-consciousness-6C10919906)
-2. [Bloomberg](http://www.bloomberg.com/news/2013-08-14/brain-shaking-technique-offers-measure-of-consciousness.html)
+1. [Bloomberg](http://www.bloomberg.com/news/2013-08-14/brain-shaking-technique-offers-measure-of-consciousness.html)
+2. [NBC](http://www.nbcnews.com/health/new-tool-peeks-brain-measure-consciousness-6C10919906)

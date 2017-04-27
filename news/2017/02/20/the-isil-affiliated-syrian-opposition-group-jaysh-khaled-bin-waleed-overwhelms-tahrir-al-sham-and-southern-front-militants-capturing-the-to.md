@@ -7,8 +7,8 @@ Rebel forces were caught completely off-guard overnight when hundreds of ISIS mi
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-south-idUSKBN160007)
-2. [Al Masdar News](https://www.almasdarnews.com/article/massive-rebel-collapse-daraa-isis-sweeps-several-towns/)
+1. [Al Masdar News](https://www.almasdarnews.com/article/massive-rebel-collapse-daraa-isis-sweeps-several-towns/)
+2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-south-idUSKBN160007)
 
 ### Related:
 

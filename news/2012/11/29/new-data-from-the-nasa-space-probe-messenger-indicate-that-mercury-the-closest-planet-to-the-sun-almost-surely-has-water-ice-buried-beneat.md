@@ -7,9 +7,9 @@ A Goddard-built instrument on NASA&#039;s MESSENGER mission provided one of thre
 
 ### Source:
 
-1. [Forbes](http://www.forbes.com/sites/alexknapp/2012/11/29/nasa-has-discovered-water-ice-on-mercury/)
-2. [NASA](http://www.nasa.gov/centers/goddard/news/features/2012/mercury-altimeter.html)
-3. [AP](http://hosted2.ap.org/APDefault/*/Article_2012-11-29-Mercury/id-36874bcfa8b24e888a862b2a848e9fbc)
+1. [AP](http://hosted2.ap.org/APDefault/*/Article_2012-11-29-Mercury/id-36874bcfa8b24e888a862b2a848e9fbc)
+2. [Forbes](http://www.forbes.com/sites/alexknapp/2012/11/29/nasa-has-discovered-water-ice-on-mercury/)
+3. [NASA](http://www.nasa.gov/centers/goddard/news/features/2012/mercury-altimeter.html)
 
 ### Related:
 

@@ -7,10 +7,10 @@ The death toll in a bombing in the southern Russia city of Stavropol has risen t
 
 ### Source:
 
-1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5613104,00.html)
-2. [RIA Novosti](http://en.rian.ru/russia/20100527/159177723.html)
-3. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/05/27/russia.explosion.death.toll/)
-4. [CBC](http://www.cbc.ca/world/story/2010/05/27/russia-blast-stavropol.html)
+1. [CBC](http://www.cbc.ca/world/story/2010/05/27/russia-blast-stavropol.html)
+2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/05/27/russia.explosion.death.toll/)
+3. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5613104,00.html)
+4. [RIA Novosti](http://en.rian.ru/russia/20100527/159177723.html)
 
 ### Related:
 

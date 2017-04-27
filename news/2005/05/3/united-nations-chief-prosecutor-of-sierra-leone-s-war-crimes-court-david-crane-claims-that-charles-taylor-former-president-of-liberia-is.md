@@ -7,9 +7,9 @@ Widespread flooding ca
 
 ### Source:
 
-1. [UN Regional Information](http://www.irinnews.org/report.asp?ReportID=46924&SelectRegion=West_Africa&SelectCountry=WEST_AFRICA)
-2. [World Peace Herald](http://www.wpherald.com/storyview.php?StoryID=20050503-111141-3853r)
-3. [BBC](http://news.bbc.co.uk/2/hi/africa/4508249.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4508249.stm)
+2. [UN Regional Information](http://www.irinnews.org/report.asp?ReportID=46924&SelectRegion=West_Africa&SelectCountry=WEST_AFRICA)
+3. [World Peace Herald](http://www.wpherald.com/storyview.php?StoryID=20050503-111141-3853r)
 
 ### Related:
 

@@ -7,8 +7,8 @@ A legal action by promoters MCD against the singer Prince and his US agents has 
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2010/0226/prince.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/8539066.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8539066.stm)
+2. [RTÉ](http://www.rte.ie/news/2010/0226/prince.html)
 
 ### Related:
 

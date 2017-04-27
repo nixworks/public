@@ -7,8 +7,8 @@ Group fined $900,000 for fraud but is allowed to continue practising in France.
 
 ### Source:
 
-1. [France 24](http://www.france24.com/en/20091027-court-fines-church-scientology-does-not-ban-activities-justice-france-sect)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/10/20091027121344894311.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/10/20091027121344894311.html)
+2. [France 24](http://www.france24.com/en/20091027-court-fines-church-scientology-does-not-ban-activities-justice-france-sect)
 3. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article6892075.ece)
 
 ### Related:

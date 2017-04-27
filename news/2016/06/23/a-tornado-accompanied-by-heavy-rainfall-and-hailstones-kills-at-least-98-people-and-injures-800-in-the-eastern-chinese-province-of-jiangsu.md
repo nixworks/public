@@ -7,9 +7,9 @@ A tornado, hail storms and driving rain killed at least 78 people and injured so
 
 ### Source:
 
-1. [JSTV](http://weibo.com/1618051664/DBGLigdOj)
-2. [Reuters](http://www.reuters.com/article/us-china-storm-idUSKCN0Z91GE)
-3. [China Radio International](http://english.cri.cn/12394/2016/06/23/4081s931817.htm)
+1. [China Radio International](http://english.cri.cn/12394/2016/06/23/4081s931817.htm)
+2. [JSTV](http://weibo.com/1618051664/DBGLigdOj)
+3. [Reuters](http://www.reuters.com/article/us-china-storm-idUSKCN0Z91GE)
 
 ### Related:
 

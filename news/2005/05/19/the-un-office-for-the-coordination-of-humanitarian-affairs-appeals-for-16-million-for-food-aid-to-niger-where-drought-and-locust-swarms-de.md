@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N19729586.htm)
-2. [UN](http://www.un.org/apps/news/story.asp?NewsID=14330&Cr=niger&Cr1=)
-3. [AllAfrica](http://allafrica.com/stories/200505190005.html)
-4. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/HMYT-6CJQJ3?OpenDocument)
+1. [AllAfrica](http://allafrica.com/stories/200505190005.html)
+2. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/HMYT-6CJQJ3?OpenDocument)
+3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N19729586.htm)
+4. [UN](http://www.un.org/apps/news/story.asp?NewsID=14330&Cr=niger&Cr1=)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Israeli troops shot dead a Palestinian during a clash in the occupied West Bank 
 
 ### Source:
 
-1. [The Times of Israel](http://www.timesofisrael.com/2-palestinians-killed-by-idf-fire-near-khan-younis/)
-2. [Reuters](http://www.reuters.com/article/2013/10/31/us-israel-palestinians-violence-idUSBRE99U06Y20131031)
+1. [Reuters](http://www.reuters.com/article/2013/10/31/us-israel-palestinians-violence-idUSBRE99U06Y20131031)
+2. [The Times of Israel](http://www.timesofisrael.com/2-palestinians-killed-by-idf-fire-near-khan-younis/)
 
 ### Related:
 

@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Straits Times](http://www.straitstimes.com/BreakingNews/Singapore/Story/STIStory_531158.html)
-2. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article7135742.ece)
-3. [Reuters](http://www.reuters.com/article/idUSTRE64O0JE20100525)
+1. [Reuters](http://www.reuters.com/article/idUSTRE64O0JE20100525)
+2. [Straits Times](http://www.straitstimes.com/BreakingNews/Singapore/Story/STIStory_531158.html)
+3. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article7135742.ece)
 
 ### Related:
 

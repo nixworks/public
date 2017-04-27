@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-security-idUSKCN0ZN2LC)
-2. [Fox News](http://www.foxnews.com/world/2016/07/07/at-least-20-reported-killed-in-terror-attack-on-iraqi-shiite-holy-site.html)
+1. [Fox News](http://www.foxnews.com/world/2016/07/07/at-least-20-reported-killed-in-terror-attack-on-iraqi-shiite-holy-site.html)
+2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-iraq-security-idUSKCN0ZN2LC)
 
 ### Related:
 

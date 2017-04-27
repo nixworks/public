@@ -7,8 +7,8 @@ At least 27 people, including two children, have been killed and scores hurt in 
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/world/2013-04/18/c_132320997.htm)
-2. [BBC](http://www.bbc.co.uk/news/world-middle-east-22209841)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-22209841)
+2. [Xinhua](http://news.xinhuanet.com/english/world/2013-04/18/c_132320997.htm)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Sport24](http://www.sport24.co.za/Content/Rugby/TriNations/355/1d18ea2b38834678a46a90adba75c67f/12-09-2009-11-16/Boks_are_Tri-Nations_champs)
-2. [IOL](http://www.int.iol.co.za/index.php?set_id=6&click_id=2200&art_id=nw20090912113458955C800093)
+1. [IOL](http://www.int.iol.co.za/index.php?set_id=6&click_id=2200&art_id=nw20090912113458955C800093)
+2. [Sport24](http://www.sport24.co.za/Content/Rugby/TriNations/355/1d18ea2b38834678a46a90adba75c67f/12-09-2009-11-16/Boks_are_Tri-Nations_champs)
 
 ### Related:
 

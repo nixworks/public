@@ -7,8 +7,8 @@ At least 140 people have been arrested in Slovakia’s capital, where thousands 
 
 ### Source:
 
-1. [RT](http://rt.com/news/268615-slovakia-islamization-protest-arrested/)
-2. [New York Times](http://www.nytimes.com/aponline/2015/06/20/world/europe/ap-eu-slovakia-refugees.html?_r=0)
+1. [New York Times](http://www.nytimes.com/aponline/2015/06/20/world/europe/ap-eu-slovakia-refugees.html?_r=0)
+2. [RT](http://rt.com/news/268615-slovakia-islamization-protest-arrested/)
 
 ### Related:
 

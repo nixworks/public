@@ -7,10 +7,10 @@ Around 200 people arrested, with a policeman and protester killed in demonstrati
 
 ### Source:
 
-1. [GlobalPost](http://www.globalpost.com/dispatch/news/xinhua-news-agency/140703/17-extremists-killed-security-raids-egypts-sinai)
-2. [ABC News](http://abcnews.go.com/International/wireStory/son-egypts-ousted-leader-sentenced-year-24399555)
-3. [allAfrica](http://allafrica.com/stories/201407040654.html)
-4. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/egypt/10945251/More-blood-spilt-in-Egypt-on-anniversary-of-ousting-of-President-Mohammed-Morsi.html)
+1. [ABC News](http://abcnews.go.com/International/wireStory/son-egypts-ousted-leader-sentenced-year-24399555)
+2. [GlobalPost](http://www.globalpost.com/dispatch/news/xinhua-news-agency/140703/17-extremists-killed-security-raids-egypts-sinai)
+3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/egypt/10945251/More-blood-spilt-in-Egypt-on-anniversary-of-ousting-of-President-Mohammed-Morsi.html)
+4. [allAfrica](http://allafrica.com/stories/201407040654.html)
 
 ### Related:
 

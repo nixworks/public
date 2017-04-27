@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [RIA Novosti](http://en.rian.ru/russia/20090805/155731584.html)
-2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iq7wCX2Q3_fJbUliWKSDtih2peAQ)
-3. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8184948.stm)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iq7wCX2Q3_fJbUliWKSDtih2peAQ)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8184948.stm)
+3. [RIA Novosti](http://en.rian.ru/russia/20090805/155731584.html)
 
 ### Related:
 

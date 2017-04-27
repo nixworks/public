@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2006-07/26/content_4878062.htm)
-2. [Hindustan Times](http://www.hindustantimes.com/news/181_1752319,0005.htm)
+1. [Hindustan Times](http://www.hindustantimes.com/news/181_1752319,0005.htm)
+2. [Xinhua](http://news.xinhuanet.com/english/2006-07/26/content_4878062.htm)
 
 ### Related:
 

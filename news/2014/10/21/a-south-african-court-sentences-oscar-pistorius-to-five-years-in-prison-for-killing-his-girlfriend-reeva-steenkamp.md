@@ -7,8 +7,8 @@ After seven months of evidence in a case that&#039;s captured the world&#039;s a
 
 ### Source:
 
-1. [NBC](http://www.nbcnews.com/storyline/pistorius-trial/blade-runner-oscar-pistorius-sentenced-five-years-jail-n230296)
-2. [Mail and Guardian](http://mg.co.za/article/2014-10-17-oscar-pistorius-sentencing-hearing-concludes)
+1. [Mail and Guardian](http://mg.co.za/article/2014-10-17-oscar-pistorius-sentencing-hearing-concludes)
+2. [NBC](http://www.nbcnews.com/storyline/pistorius-trial/blade-runner-oscar-pistorius-sentenced-five-years-jail-n230296)
 
 ### Related:
 

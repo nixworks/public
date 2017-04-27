@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [PA via Sporting Life](http://www.sportinglife.com/others/news/story_get.cgi?STORY_NAME=others/08/06/01/ATHLETICS_Bolt.html)
-2. [AP](http://hosted.ap.org/dynamic/stories/O/OLY_ATH_REEBOK_GRAND_PRIX?SITE=WSAW&SECTION=HOME&TEMPLATE=DEFAULT)
+1. [AP](http://hosted.ap.org/dynamic/stories/O/OLY_ATH_REEBOK_GRAND_PRIX?SITE=WSAW&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [PA via Sporting Life](http://www.sportinglife.com/others/news/story_get.cgi?STORY_NAME=others/08/06/01/ATHLETICS_Bolt.html)
 
 ### Related:
 

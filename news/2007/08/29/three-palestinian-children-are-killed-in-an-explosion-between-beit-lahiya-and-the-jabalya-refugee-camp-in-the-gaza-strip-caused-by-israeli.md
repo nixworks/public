@@ -7,8 +7,8 @@ Eyewitnesses in Gaza say girl, two boys killed and a number of other children in
 
 ### Source:
 
-1. [YNet](http://www.ynetnews.com/articles/0,7340,L-3443544,00.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6969111.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6969111.stm)
+2. [YNet](http://www.ynetnews.com/articles/0,7340,L-3443544,00.html)
 
 ### Related:
 

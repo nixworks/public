@@ -10,7 +10,7 @@ _Context: Windows Vista_
 _Context: 2006 Atlantic hurricane season_
 
 ### [ Central African Republic Bush War: French fighter planes have fired at rebels in northern Central African Republic (CAR) where thousands have fled fighting in recent weeks. ](/news/2006/11/30/central-african-republic-bush-war-french-fighter-planes-have-fired-at-rebels-in-northern-central-african-republic-car-where-thousands-ha.md)
-_Context: 2004–2007 Bush War, Central African Republic, France_
+_Context: 2004–2007 Bush War, Central-African, France_
 
 ### [ The science journal ''Nature'' publishes a new reconstruction of the Antikythera mechanism based on high resolution X-ray tomography. The Antikythera mechanism is an ancient Greek mechanical analog computer designed to calculate astronomical positions. ](/news/2006/11/30/the-science-journal-nature-publishes-a-new-reconstruction-of-the-antikythera-mechanism-based-on-high-resolution-x-ray-tomography-the-a.md)
 _Context: Antikythera mechanism, Nature_

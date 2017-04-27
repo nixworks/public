@@ -8,9 +8,9 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/5123262.stm)
-2. [Haaretz](http://www.haaretz.com/hasen/spages/731555.html)
-3. [Reuters](http://go.reuters.com/newsArticle.jhtml?type=topNews&storyID=12666001&src=rss/topNews)
-4. [CNN](http://www.cnn.com/2006/WORLD/meast/06/28/israel.soldier/index.html)
+2. [CNN](http://www.cnn.com/2006/WORLD/meast/06/28/israel.soldier/index.html)
+3. [Haaretz](http://www.haaretz.com/hasen/spages/731555.html)
+4. [Reuters](http://go.reuters.com/newsArticle.jhtml?type=topNews&storyID=12666001&src=rss/topNews)
 
 ### Related:
 

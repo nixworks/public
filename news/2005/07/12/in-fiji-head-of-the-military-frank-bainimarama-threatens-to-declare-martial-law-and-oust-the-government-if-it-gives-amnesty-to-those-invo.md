@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/SP266284.htm)
-2. [Fiji Times](http://www.fijitimes.com/story.aspx?id=24644)
+1. [Fiji Times](http://www.fijitimes.com/story.aspx?id=24644)
+2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/SP266284.htm)
 
 ### Related:
 

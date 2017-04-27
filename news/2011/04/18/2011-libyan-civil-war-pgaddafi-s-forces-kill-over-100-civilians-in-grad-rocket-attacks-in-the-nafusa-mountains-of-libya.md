@@ -7,9 +7,9 @@ The best of British &amp; international news, opinion, sport, people &amp; busin
 
 ### Source:
 
-1. [The First Post](http://www.thefirstpost.co.uk/77824,news-comment,news-politics,gaddafis-men-use-rape-as-weapon-of-war)
+1. [Al Jazeera](http://blogs.aljazeera.net/live/africa/libya-live-blog-april-18)
 2. [Ottawa Citizen](http://www.ottawacitizen.com/news/Gadhafi+weapon+choice+rape/4631608/story.html)
-3. [Al Jazeera](http://blogs.aljazeera.net/live/africa/libya-live-blog-april-18)
+3. [The First Post](http://www.thefirstpost.co.uk/77824,news-comment,news-politics,gaddafis-men-use-rape-as-weapon-of-war)
 
 ### Related:
 

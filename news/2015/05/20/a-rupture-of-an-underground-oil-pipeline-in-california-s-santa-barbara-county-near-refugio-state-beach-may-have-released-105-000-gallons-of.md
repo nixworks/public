@@ -7,8 +7,8 @@ The operator of an underground pipeline that ruptured and released up to 105,000
 
 ### Source:
 
-1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-pipeline-santa-barbara-coast-20150519-story.html#page=1)
-2. [ABC7 Los Angeles](http://abc7.com/news/refugio-state-beach-oil-spill-slick-expands-cleanup-underway/732157/)
+1. [ABC7 Los Angeles](http://abc7.com/news/refugio-state-beach-oil-spill-slick-expands-cleanup-underway/732157/)
+2. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-pipeline-santa-barbara-coast-20150519-story.html#page=1)
 
 ### Related:
 

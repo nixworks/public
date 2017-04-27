@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/05/05/us-armenia-election-idUSBRE8440CW20120505)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-17973353#)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-17973353#)
+2. [Reuters](http://www.reuters.com/article/2012/05/05/us-armenia-election-idUSBRE8440CW20120505)
 
 ### Related:
 

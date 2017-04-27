@@ -7,8 +7,8 @@ The African Union said it was ready to send 5,000 peacekeepers to Burundi to pro
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-burundi-politics-mission-idUSKBN0U10EU20151218)
-2. [AP via ''Houston Chronicle](http://www.houstonchronicle.com/news/nation-world/world/article/African-Union-OKs-deployment-of-Burundi-6708527.php)
+1. [AP via ''Houston Chronicle](http://www.houstonchronicle.com/news/nation-world/world/article/African-Union-OKs-deployment-of-Burundi-6708527.php)
+2. [Reuters](http://www.reuters.com/article/us-burundi-politics-mission-idUSKBN0U10EU20151218)
 
 ### Related:
 

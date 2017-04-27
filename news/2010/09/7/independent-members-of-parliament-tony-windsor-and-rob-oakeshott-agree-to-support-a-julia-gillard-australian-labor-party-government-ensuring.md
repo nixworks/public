@@ -7,8 +7,8 @@ Key independent MP Bob Katter has announced he will back the Coalition in a mino
 
 ### Source:
 
-1. [Sydney Morning Herald](http://www.smh.com.au/federal-election/windsor-and-oakeshott-hand-power-to-gillard-20100907-14you.html?from=smh_sb)
-2. [ABC News](http://www.abc.net.au/news/stories/2010/09/07/3004931.htm?section=justin)
+1. [ABC News](http://www.abc.net.au/news/stories/2010/09/07/3004931.htm?section=justin)
+2. [Sydney Morning Herald](http://www.smh.com.au/federal-election/windsor-and-oakeshott-hand-power-to-gillard-20100907-14you.html?from=smh_sb)
 
 ### Related:
 

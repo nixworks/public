@@ -7,8 +7,8 @@ Get the scoop on the latest music industry news in the Newsday Music section. Ch
 
 ### Source:
 
-1. [Newsday](http://www.newsday.com/entertainment/music/backstage-pass-1.811987/donna-summer-dead-at-63-1.3723647)
-2. [CNN](http://edition.cnn.com/2012/05/18/showbiz/donna-summer-dead/index.html?hpt=hp_t3)
+1. [CNN](http://edition.cnn.com/2012/05/18/showbiz/donna-summer-dead/index.html?hpt=hp_t3)
+2. [Newsday](http://www.newsday.com/entertainment/music/backstage-pass-1.811987/donna-summer-dead-at-63-1.3723647)
 
 ### Related:
 

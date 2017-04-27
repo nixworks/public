@@ -7,8 +7,8 @@ Astronomers have detected carbon dioxide in the atmosphere of a planet 63 light-
 
 ### Source:
 
-1. [Nature](http://www.nature.com/nature/journal/v456/n7223/abs/nature07574.html)
-2. [NY Times](http://www.nytimes.com/2008/12/11/science/space/11planet.html)
+1. [NY Times](http://www.nytimes.com/2008/12/11/science/space/11planet.html)
+2. [Nature](http://www.nature.com/nature/journal/v456/n7223/abs/nature07574.html)
 
 ### Related:
 

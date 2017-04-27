@@ -7,8 +7,8 @@ Don&#039;t count on bringing the iPad on any trips to the Holy Land, as Israeli 
 
 ### Source:
 
-1. [PC World](http://www.pcworld.com/article/194320/israel_cites_wifi_issue_in_ipad_ban.html)
-2. [Ha'aretz](http://www.haaretz.com/hasen/spages/1163231.html)
+1. [Ha'aretz](http://www.haaretz.com/hasen/spages/1163231.html)
+2. [PC World](http://www.pcworld.com/article/194320/israel_cites_wifi_issue_in_ipad_ban.html)
 
 ### Related:
 

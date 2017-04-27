@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Xinhua](http://news.xinhuanet.com/english/2006-04/23/content_4462418.htm)
-2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/04/23/AR2006042300065.html)
+1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/04/23/AR2006042300065.html)
+2. [Xinhua](http://news.xinhuanet.com/english/2006-04/23/content_4462418.htm)
 
 ### Related:
 

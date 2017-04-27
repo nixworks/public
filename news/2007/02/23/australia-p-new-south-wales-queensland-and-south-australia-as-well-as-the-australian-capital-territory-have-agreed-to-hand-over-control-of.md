@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2007/POLITICS/02/22/cheney.australia/index.html)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601081&sid=am0OaKDFuc9I&refer=australia)
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601081&sid=am0OaKDFuc9I&refer=australia)
+2. [CNN](http://edition.cnn.com/2007/POLITICS/02/22/cheney.australia/index.html)
 
 ### Related:
 

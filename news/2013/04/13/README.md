@@ -25,10 +25,10 @@ South Korean police on Saturday stopped a planned launch of anti-North Korea lea
 _Context: Iranian Army, nuclear scientist, rocket_
 
 ### [China and the United States agree to collaborate on resolving cybersecurity issues between the two countries. ](/news/2013/04/13/china-and-the-united-states-agree-to-collaborate-on-resolving-cybersecurity-issues-between-the-two-countries.md)
-_Context: China, U.S., cybersecurity_
+_Context: China, United States, cybersecurity_
 
 ### [Russia bans 18 American diplomats from entering the country, in retaliation for similar restrictions placed on 18 Russian officials by the Magnitsky Act. ](/news/2013/04/13/russia-bans-18-american-diplomats-from-entering-the-country-in-retaliation-for-similar-restrictions-placed-on-18-russian-officials-by-the-m.md)
-_Context: Magnitsky Act, Russia, U.S., diplomat_
+_Context: Magnitsky Act, Russia, United States, diplomat_
 
 ### [Former Egyptian President Hosni Mubarak's retrial on charges of corruption and conspiracy to kill protesters during the 2011 Egyptian revolution is transferred to another court. ](/news/2013/04/13/former-egyptian-president-hosni-mubarak-s-retrial-on-charges-of-corruption-and-conspiracy-to-kill-protesters-during-the-2011-egyptian-revolu.md)
 _Context: 2011 Egyptian revolution, Egypt, Egyptian President, Hosni Mubarak, conspiracy, corruption, protester_
@@ -46,13 +46,13 @@ Students in Chile resume their protests for education reforms, with more than 10
 Palestinian PM Salam Fayyad has resigned, the official Wafa news agency reports, after a long-running dispute with President Mahmoud Abbas.
 
 ### [The National Transitional Council of the Central African Republic elects Michel Djotodia as the President confirming a position he has held since a coup last month. ](/news/2013/04/13/the-national-transitional-council-of-the-central-african-republic-elects-michel-djotodia-as-the-president-confirming-a-position-he-has-held.md)
-_Context: Central African Republic, Central African Republic conflict (2012–present), Michel Djotodia, President_
+_Context: Central African Republic conflict (2012–present), Central-African, Michel Djotodia, President_
 
 ### [Pope Francis appoints a panel of nine high-ranking prelates from around the world to advise him of the running of the Catholic Church and advise him on the reform of the Vatican bureaucracy. ](/news/2013/04/13/pope-francis-appoints-a-panel-of-nine-high-ranking-prelates-from-around-the-world-to-advise-him-of-the-running-of-the-catholic-church-and-ad.md)
 Pope Francis marked his first month as pope on Saturday by naming nine high-ranking prelates from around the globe to a permanent advisory group to help him run the Catholic Church.
 
 ### [In golf, Tiger Woods receives a two-stroke penalty for a bad drop at the 2013 Masters Tournament in Augusta, Georgia, United States. ](/news/2013/04/13/in-golf-tiger-woods-receives-a-two-stroke-penalty-for-a-bad-drop-at-the-2013-masters-tournament-in-augusta-georgia-united-states.md)
-_Context: Augusta, Georgia, Tiger Woods, U.S., golf, win_
+_Context: Augusta, Georgia, Tiger Woods, United States, golf, win_
 
 ### [In basketball, Kobe Bryant's 2012-13 NBA season ends with an Achilles tendon tear. ](/news/2013/04/13/in-basketball-kobe-bryant-s-2012a13-nba-season-ends-with-an-achilles-tendon-tear.md)
 Amid an already tumultuous transition for the Lakers, Kobe Bryant had surgery for his ruptured left Achilles’ tendon and is expected to miss six to nine months.

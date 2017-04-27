@@ -7,9 +7,9 @@ Other two people of those injured on Friday in the train-hit van in Iasi, north-
 
 ### Source:
 
-1. [Mediafax](http://www.mediafax.ro/engleza/update-eleven-dead-five-badly-injured-in-van-train-collision-in-ne-romania.html?6966;4758678)
-2. [Euronews](http://it.euronews.net/2009/08/14/scontro-tra-treno-e-bus-in-romania/)
-3. [Le Figaro](http://www.lefigaro.fr/flash-actu/2009/08/14/01011-20090814FILWWW00549-roumanieaccident-13-morts-3-blesses.php)
+1. [Euronews](http://it.euronews.net/2009/08/14/scontro-tra-treno-e-bus-in-romania/)
+2. [Le Figaro](http://www.lefigaro.fr/flash-actu/2009/08/14/01011-20090814FILWWW00549-roumanieaccident-13-morts-3-blesses.php)
+3. [Mediafax](http://www.mediafax.ro/engleza/update-eleven-dead-five-badly-injured-in-van-train-collision-in-ne-romania.html?6966;4758678)
 
 ### Related:
 

@@ -7,8 +7,8 @@ BRATISLAVA, Slovakia (AP) — The new Slovak government of Prime Minister Robert
 
 ### Source:
 
-1. [Reuters via StreetInsider.co](http://www.streetinsider.com/Reuters/New+Slovak+government+wins+confidence+vote+in+parliament/11542893.html)
-2. [AP](http://bigstory.ap.org/article/7afb3e29cbc941818a52bb820e961ae3/new-slovak-government-wins-confidence-vote)
+1. [AP](http://bigstory.ap.org/article/7afb3e29cbc941818a52bb820e961ae3/new-slovak-government-wins-confidence-vote)
+2. [Reuters via StreetInsider.co](http://www.streetinsider.com/Reuters/New+Slovak+government+wins+confidence+vote+in+parliament/11542893.html)
 
 ### Related:
 

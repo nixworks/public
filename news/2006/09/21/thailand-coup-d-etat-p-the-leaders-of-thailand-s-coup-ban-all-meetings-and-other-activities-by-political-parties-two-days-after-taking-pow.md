@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2006/WORLD/asiapcf/09/21/thailand.uk.ap/index.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/5366908.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/5366908.stm)
+2. [CNN](http://www.cnn.com/2006/WORLD/asiapcf/09/21/thailand.uk.ap/index.html)
 
 ### Related:
 

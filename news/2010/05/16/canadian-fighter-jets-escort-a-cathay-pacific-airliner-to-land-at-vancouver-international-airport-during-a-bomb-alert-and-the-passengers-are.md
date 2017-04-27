@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CBC](http://www.cbc.ca/canada/british-columbia/story/2010/05/15/bc-plane-military-escort.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/8685018.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/8685018.stm)
+2. [CBC](http://www.cbc.ca/canada/british-columbia/story/2010/05/15/bc-plane-military-escort.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@ MOSCOW &ndash; Russian police detained more than 150 people including prominent 
 
 ### Source:
 
-1. [The Moscow Times](http://www.themoscowtimes.com/news/article/dozens-detained-as-eu-lawmakers-join-rally/414326.html)
-2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/08/201083117447722442.html)
-3. [Irish Times](http://www.irishtimes.com/newspaper/world/2010/0901/1224277973446.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/08/201083117447722442.html)
+2. [Irish Times](http://www.irishtimes.com/newspaper/world/2010/0901/1224277973446.html)
+3. [The Moscow Times](http://www.themoscowtimes.com/news/article/dozens-detained-as-eu-lawmakers-join-rally/414326.html)
 
 ### Related:
 

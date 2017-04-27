@@ -16,7 +16,7 @@ Twin explosions in the capital kill at least 43 people with ISIL claiming respon
 Aly Ashraf Hassanein al Gharabli ran operations for an ISIS-linked militant group that claimed responsibility last year for murdering William Henderson.
 
 ### [At least 22  people are killed this week in a string of raids on villages in the Central African Republic. The escalation of violence threatens to derail a visit by Pope Francis and crucial elections scheduled for December 27, 2015. ](/news/2015/11/13/at-least-22-people-are-killed-this-week-in-a-string-of-raids-on-villages-in-the-central-african-republic-the-escalation-of-violence-threat.md)
-_Context: Central African Republic, Pope Francis, civil war_
+_Context: Central-African, Pope Francis, civil war_
 
 ### [40 year old Rabbi Ya'akov Litman and his 18 year-old son are shot dead by a Palestinian gunman, south of Hebron. ](/news/2015/11/13/40-year-old-rabbi-yaaakov-litman-and-his-18-year-old-son-are-shot-dead-by-a-palestinian-gunman-south-of-hebron.md)
 Yaakov Litman and Netanel, 18, were shot dead four days before daughter&#8217;s wedding; &#8216;Who will walk Sara down the aisle now?&#8217; cries son

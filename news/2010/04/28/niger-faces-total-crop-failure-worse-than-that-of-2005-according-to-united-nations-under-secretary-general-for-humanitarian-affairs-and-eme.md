@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/idUKLDE63Q28M._CH_.2420)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/8648215.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/8648215.stm)
+2. [Reuters](http://uk.reuters.com/article/idUKLDE63Q28M._CH_.2420)
 
 ### Related:
 
@@ -21,4 +21,4 @@
 7. [ United Nations special envoy to Niger Robert Fowler and Canadian diplomat Louis Guay are reported to be missing in Niger. ](/news/2008/12/16/united-nations-special-envoy-to-niger-robert-fowler-and-canadian-diplomat-louis-guay-are-reported-to-be-missing-in-niger.md) _Context: Niger, United Nations_
 8. [ The UN Office for the Coordination of Humanitarian Affairs appeals for $16 million for food aid to Niger where drought and locust swarms destroyed part of the crop last year. ](/news/2005/05/19/the-un-office-for-the-coordination-of-humanitarian-affairs-appeals-for-16-million-for-food-aid-to-niger-where-drought-and-locust-swarms-de.md) _Context: Niger, United Nations_
 9. [The United Nations announces expansion of civilian camps for people fleeing Mosul, following resumption of airstrikes  on ISIL-held portions of the Iraqi city. ](/news/2017/04/4/the-united-nations-announces-expansion-of-civilian-camps-for-people-fleeing-mosul-following-resumption-of-airstrikes-on-isil-held-portions.md) _Context: United Nations_
-10. [At least 17 new mass graves are discovered  by United Nations investigators in Kasai-Central, Democratic Republic of the Congo, mostly around the town of Tshimbulu. ](/news/2017/04/19/at-least-17-new-mass-graves-are-discovered-by-united-nations-investigators-in-kasaa-central-democratic-republic-of-the-congo-mostly-arou.md) _Context: United Nations_
+10. [The United Nations MONUSCO reports that 20 Chowe-Pende community members have been killed in clashes with the Lulua-Luba community in Kasai-Central, Democratic Republic of Congo. ](/news/2017/04/26/the-united-nations-monusco-reports-that-20-chowe-pende-community-members-have-been-killed-in-clashes-with-the-lulua-luba-community-in-kasaa.md) _Context: United Nations_

@@ -7,8 +7,8 @@ An intemperate remark from Rodrigo Duterte derailed a bilateral meeting.
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2016/09/05/philippine-president-threatens-to-curse-out-obama-obama-calls-him-a-colorful-guy/)
-2. [CNN](http://edition.cnn.com/2016/09/05/politics/philippines-president-rodrigo-duterte-barack-obama/)
+1. [CNN](http://edition.cnn.com/2016/09/05/politics/philippines-president-rodrigo-duterte-barack-obama/)
+2. [The Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2016/09/05/philippine-president-threatens-to-curse-out-obama-obama-calls-him-a-colorful-guy/)
 
 ### Related:
 

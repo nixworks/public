@@ -7,8 +7,8 @@ Veteran lawmaker Sylvester Turner edged out Republican businessman Bill King on 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-houston-vote-idUSKBN0TV0GW20151213#JwkwBJkS0l5TXS3o.97)
-2. [KHOU](http://www.khou.com/story/news/local/2015/12/12/polls-close-early-election-results-come-in/77227836/)
+1. [KHOU](http://www.khou.com/story/news/local/2015/12/12/polls-close-early-election-results-come-in/77227836/)
+2. [Reuters](http://www.reuters.com/article/us-houston-vote-idUSKBN0TV0GW20151213#JwkwBJkS0l5TXS3o.97)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bangkok Post](http://www.bangkokpost.com/news/sports/160574/europe-rocked-by-fresh-match-fixing-scandal)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/8370748.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8370748.stm)
+2. [Bangkok Post](http://www.bangkokpost.com/news/sports/160574/europe-rocked-by-fresh-match-fixing-scandal)
 3. [IOL](http://www.iol.co.za/index.php?from=rss_News&set_id=1&click_id=79&art_id=nw20091120152331868C884704)
 
 ### Related:

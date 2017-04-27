@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Melbourne Age](http://www.theage.com.au/world/death-toll-hits-160-aussies-still-missing-20081129-6na4.html)
-2. [AFP, Reuters via News Limited](http://www.news.com.au/story/0,10117,24724837-401,00.html)
+1. [AFP, Reuters via News Limited](http://www.news.com.au/story/0,10117,24724837-401,00.html)
+2. [Melbourne Age](http://www.theage.com.au/world/death-toll-hits-160-aussies-still-missing-20081129-6na4.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/africaCrisis/idUSLT440627)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/8333026.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/8333026.stm)
+2. [Reuters](http://www.reuters.com/article/africaCrisis/idUSLT440627)
 
 ### Related:
 

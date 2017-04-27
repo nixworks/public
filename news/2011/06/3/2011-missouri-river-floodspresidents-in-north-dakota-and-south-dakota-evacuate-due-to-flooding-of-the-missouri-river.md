@@ -8,8 +8,8 @@ Residents evacuated some affluent areas of North Dakota and South Dakota on Frid
 ### Source:
 
 1. [KDSK](http://www.ksdk.com/news/article/261630/3/Missouri-River-closed-to-recreational-boating)
-2. [WOWT](http://www.wowt.com/home/headlines/Raw_Sewage_Pumped_into_River_123129888.html)
-3. [Reuters](http://www.reuters.com/article/2011/06/03/us-usa-flooding-plains-idUSTRE7526YH20110603)
+2. [Reuters](http://www.reuters.com/article/2011/06/03/us-usa-flooding-plains-idUSTRE7526YH20110603)
+3. [WOWT](http://www.wowt.com/home/headlines/Raw_Sewage_Pumped_into_River_123129888.html)
 
 ### Related:
 

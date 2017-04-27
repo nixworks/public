@@ -7,8 +7,8 @@ Egyptian opposition groups bash decision to extend 29-year-old emergency law for
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8675856.stm)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/05/20105116134595496.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/05/20105116134595496.html)
+2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8675856.stm)
 3. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=175382)
 4. [The Star](http://thestar.com.my/news/story.asp?file=/2010/5/11/worldupdates/2010-05-11T154949Z_01_NOOTR_RTRMDNC_0_-483940-1&sec=Worldupdates)
 

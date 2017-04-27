@@ -7,8 +7,8 @@ An image of a skull which historians believe could be that of Richard III is rel
 
 ### Source:
 
-1. [NBC News](http://cosmiclog.nbcnews.com/_news/2013/02/04/16832540-verdict-issued-on-skeleton-found-under-parking-lot-its-king-richard-iii)
-2. [BBC](http://www.bbc.co.uk/news/uk-england-leicestershire-21203814)
+1. [BBC](http://www.bbc.co.uk/news/uk-england-leicestershire-21203814)
+2. [NBC News](http://cosmiclog.nbcnews.com/_news/2013/02/04/16832540-verdict-issued-on-skeleton-found-under-parking-lot-its-king-richard-iii)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/science/science-news/9846693/Richard-III-skeleton-is-the-king.html)
 
 ### Related:

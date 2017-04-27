@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Cleveland Leader](http://www.clevelandleader.com/node/20859)
-2. [Atlantic Wire](http://www.theatlanticwire.com/global/2013/05/pope-francis-names-800-new-saints-one-go/65146/)
+1. [Atlantic Wire](http://www.theatlanticwire.com/global/2013/05/pope-francis-names-800-new-saints-one-go/65146/)
+2. [Cleveland Leader](http://www.clevelandleader.com/node/20859)
 
 ### Related:
 

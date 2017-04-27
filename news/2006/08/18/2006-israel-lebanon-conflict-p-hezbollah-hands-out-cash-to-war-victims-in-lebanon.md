@@ -9,9 +9,9 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/D51A0A0F-5B60-414B-A23B-F2C9CAB8079F.htm)
 2. [Aljazeera](http://www.aljazeera.com/me.asp?service_ID=12333)
-3. [BBC](http://news.bbc.co.uk/2/hi/middle_east/5262490.stm)
-4. [Reuters](http://today.reuters.com/News/CrisesArticle.aspx?storyId=N18431689)
-5. [BBC NEWS](http://news.bbc.co.uk/1/hi/world/middle_east/4801201.stm)
+3. [BBC NEWS](http://news.bbc.co.uk/1/hi/world/middle_east/4801201.stm)
+4. [BBC](http://news.bbc.co.uk/2/hi/middle_east/5262490.stm)
+5. [Reuters](http://today.reuters.com/News/CrisesArticle.aspx?storyId=N18431689)
 
 ### Related:
 

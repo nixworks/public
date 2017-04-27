@@ -7,9 +7,9 @@ The&#x20;former&#x20;vice&#x20;president&#x20;of&#x20;Comoros&#x20;and&#x20;ruli
 
 ### Source:
 
-1. [Pretoria News](http://www.pretorianews.co.za/dhoinine-wins-comoros-election-1.1006183)
-2. [Reuters via France24](http://www.france24.com/en/20101229-former-vice-president-ikililou-dhoinine-wins-comoros-presidential-elections)
-3. [BBC](http://www.bbc.co.uk/news/world-africa-12089809)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-12089809)
+2. [Pretoria News](http://www.pretorianews.co.za/dhoinine-wins-comoros-election-1.1006183)
+3. [Reuters via France24](http://www.france24.com/en/20101229-former-vice-president-ikililou-dhoinine-wins-comoros-presidential-elections)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Times](http://www.timesonline.co.uk/tol/news/world/Afghanistan/article6904098.ece)
-2. [Al Arabiya](http://www.alarabiya.net/articles/2009/11/05/90279.html)
+1. [Al Arabiya](http://www.alarabiya.net/articles/2009/11/05/90279.html)
+2. [The Times](http://www.timesonline.co.uk/tol/news/world/Afghanistan/article6904098.ece)
 3. [Times of India](http://timesofindia.indiatimes.com/world/south-asia/UN-to-pull-non-essential-foreign-staff-out-of-Afghanistan/articleshow/5199101.cms)
 
 ### Related:

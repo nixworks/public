@@ -7,10 +7,10 @@
 
 ### Source:
 
-1. [The News International](http://www.thenews.com.pk/top_story_detail.asp?Id=29636)
-2. [The Times of India](http://timesofindia.indiatimes.com/India/First-in-3-years-Colonel-killed-in-Kashmir/articleshow/6084131.cms)
-3. [BBC](http://news.bbc.co.uk/2/hi/world/south_asia/10386557.stm)
-4. [Press TV](http://www.presstv.ir/detail.aspx?id=131757&sectionid=351020402)
+1. [BBC](http://news.bbc.co.uk/2/hi/world/south_asia/10386557.stm)
+2. [Press TV](http://www.presstv.ir/detail.aspx?id=131757&sectionid=351020402)
+3. [The News International](http://www.thenews.com.pk/top_story_detail.asp?Id=29636)
+4. [The Times of India](http://timesofindia.indiatimes.com/India/First-in-3-years-Colonel-killed-in-Kashmir/articleshow/6084131.cms)
 
 ### Related:
 

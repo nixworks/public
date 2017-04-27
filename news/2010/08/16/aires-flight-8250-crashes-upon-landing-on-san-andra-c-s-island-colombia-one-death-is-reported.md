@@ -8,8 +8,8 @@ Passenger dies of heart attack and 114 others are injured in crash.
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/2010816163057460695.html)
-2. [CNN](http://www.cnn.com/2010/WORLD/americas/08/16/colombia.plane.fatality/)
-3. [BBC News](http://www.bbc.co.uk/news/world-latin-america-10988966)
+2. [BBC News](http://www.bbc.co.uk/news/world-latin-america-10988966)
+3. [CNN](http://www.cnn.com/2010/WORLD/americas/08/16/colombia.plane.fatality/)
 
 ### Related:
 

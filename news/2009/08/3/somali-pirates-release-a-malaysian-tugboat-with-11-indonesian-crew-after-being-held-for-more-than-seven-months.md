@@ -7,9 +7,9 @@ Somali pirates freed a German ship seized in April on Monday after receiving a r
 
 ### Source:
 
-1. [The Straits Times](http://www.straitstimes.com/Breaking%2BNews/SE%2BAsia/Story/STIStory_411814.html)
+1. [People's Daily](http://english.people.com.cn/90001/90777/90855/6717305.html)
 2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE5721A220090803)
-3. [People's Daily](http://english.people.com.cn/90001/90777/90855/6717305.html)
+3. [The Straits Times](http://www.straitstimes.com/Breaking%2BNews/SE%2BAsia/Story/STIStory_411814.html)
 
 ### Related:
 

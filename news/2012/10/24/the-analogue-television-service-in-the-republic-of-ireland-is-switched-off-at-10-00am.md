@@ -7,8 +7,8 @@ Ireland&#39;s analogue television network has been replaced by a digital signal 
 
 ### Source:
 
-1. [RTÉ](http://www.rte.ie/news/2012/1024/digital-switchover-television.html)
-2. [Irish Independent](http://www.independent.ie/entertainment/tv-radio/analogue-tv-switched-off-amid-lastminute-rush-3270961.html)
+1. [Irish Independent](http://www.independent.ie/entertainment/tv-radio/analogue-tv-switched-off-amid-lastminute-rush-3270961.html)
+2. [RTÉ](http://www.rte.ie/news/2012/1024/digital-switchover-television.html)
 
 ### Related:
 

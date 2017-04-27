@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Guardian](http://www.guardian.co.uk/world/2009/dec/22/mexico-city-legalises-samesex-marriage)
-2. [BBC](http://news.bbc.co.uk/2/hi/americas/8425269.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/8425269.stm)
+2. [Guardian](http://www.guardian.co.uk/world/2009/dec/22/mexico-city-legalises-samesex-marriage)
 
 ### Related:
 

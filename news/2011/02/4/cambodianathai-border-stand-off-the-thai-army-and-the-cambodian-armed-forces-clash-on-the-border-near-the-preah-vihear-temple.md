@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Bangkok Post](http://www.bangkokpost.com/news/local/219886/thai-cambodian-clash-on-border)
-2. [Bangkok Post](http://www.bangkokpost.com/breakingnews/219885/clash-on-thai-cambodian-border)
+1. [Bangkok Post](http://www.bangkokpost.com/breakingnews/219885/clash-on-thai-cambodian-border)
+2. [Bangkok Post](http://www.bangkokpost.com/news/local/219886/thai-cambodian-clash-on-border)
 
 ### Related:
 

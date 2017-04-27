@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4740381.stm)
-2. [  (CJAD 800](http://www.cjad.com/content/cp_article.asp?id=/global_feeds/CanadianPress/NationalNews/n080233A.htm)
+1. [  (CJAD 800](http://www.cjad.com/content/cp_article.asp?id=/global_feeds/CanadianPress/NationalNews/n080233A.htm)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4740381.stm)
 3. [CBC](http://www.cbc.ca/canada/story/2005/08/02/pearson-plane050802.html)
 
 ### Related:

@@ -7,8 +7,8 @@ Andy Murray erased a championship point Sunday and rallied past David Ferrer 2-6
 
 ### Source:
 
-1. [ESPN](http://espn.go.com/tennis/story/_/id/9117771/andy-murray-rallies-sony-open-title)
-2. [AP via ''National Post](http://sports.nationalpost.com/2013/03/31/andy-murray-survives-early-flurry-championship-point-to-win-sony-open-over-david-ferrer/)
+1. [AP via ''National Post](http://sports.nationalpost.com/2013/03/31/andy-murray-survives-early-flurry-championship-point-to-win-sony-open-over-david-ferrer/)
+2. [ESPN](http://espn.go.com/tennis/story/_/id/9117771/andy-murray-rallies-sony-open-title)
 
 ### Related:
 

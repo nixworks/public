@@ -7,8 +7,8 @@ Russia&#039;s lower house of parliament has passed the bill in its third and fin
 
 ### Source:
 
-1. [Russia Today](http://www.rt.com/news/wikipedia-yandex-censorship-bill-936/)
-2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5geli9TJRqx7ynOCUA01YqHhifOYQ?docId=CNG.b19021ddd4b290dbab6a2135880aa06b.171)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5geli9TJRqx7ynOCUA01YqHhifOYQ?docId=CNG.b19021ddd4b290dbab6a2135880aa06b.171)
+2. [Russia Today](http://www.rt.com/news/wikipedia-yandex-censorship-bill-936/)
 
 ### Related:
 

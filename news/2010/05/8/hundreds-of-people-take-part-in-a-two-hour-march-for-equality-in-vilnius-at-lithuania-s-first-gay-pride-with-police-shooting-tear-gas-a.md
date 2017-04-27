@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/05/08/AR2010050801653.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/europe/8669973.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/8669973.stm)
+2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/05/08/AR2010050801653.html)
 3. [iafrica.com](http://news.iafrica.com/worldnews/2402060.htm)
 
 ### Related:

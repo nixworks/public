@@ -7,9 +7,9 @@ The argument is of a piece with Mrs. Clinton’s increasingly populist image, bu
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/2008/05/20/us/politics/19cnd-clinton.html)
+1. [Boston Globe](http://www.boston.com/news/politics/politicalintelligence/2008/05/obama_projected_4.html)
 2. [CNN](http://edition.cnn.com/2008/POLITICS/05/20/primary.wrap/index.html)
-3. [Boston Globe](http://www.boston.com/news/politics/politicalintelligence/2008/05/obama_projected_4.html)
+3. [The New York Times](http://www.nytimes.com/2008/05/20/us/politics/19cnd-clinton.html)
 
 ### Related:
 

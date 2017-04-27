@@ -7,8 +7,8 @@ FC Barcelona coach Tito Vilanova will have surgery, followed by chemotherapy and
 
 ### Source:
 
-1. [UEFA](http://www.uefa.com/uefachampionsleague/news/newsid=1908224.html)
-2. [FC Barcelona](http://www.fcbarcelona.com/football/first-team/detail/article/roura-to-lead-barca-in-tito-vilanova-s-absence)
+1. [FC Barcelona](http://www.fcbarcelona.com/football/first-team/detail/article/roura-to-lead-barca-in-tito-vilanova-s-absence)
+2. [UEFA](http://www.uefa.com/uefachampionsleague/news/newsid=1908224.html)
 
 ### Related:
 

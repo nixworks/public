@@ -7,8 +7,8 @@ BEIJING (Reuters) - China denounced the Philippines on Sunday for putting it und
 
 ### Source:
 
-1. [The Sunday Times](http://www.straitstimes.com/news/asia/south-east-asia/story/china-denounces-the-philippines-its-pressure-over-sea-dispute-arbitr)
-2. [Bloomberg](http://mobile.bloomberg.com/news/2014-12-07/china-rejects-arbitration-of-disputes-in-south-china-sea.html)
+1. [Bloomberg](http://mobile.bloomberg.com/news/2014-12-07/china-rejects-arbitration-of-disputes-in-south-china-sea.html)
+2. [The Sunday Times](http://www.straitstimes.com/news/asia/south-east-asia/story/china-denounces-the-philippines-its-pressure-over-sea-dispute-arbitr)
 
 ### Related:
 

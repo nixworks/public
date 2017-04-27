@@ -7,9 +7,9 @@ On Tuesday evening, Taliban units threatened the Kunduz airport, thwarting effor
 
 ### Source:
 
-1. [The News Hub](https://www.the-newshub.com/international/taliban-close-to-capturing-a-major-city-in-afghanistan)
-2. [The Washington Post](https://www.washingtonpost.com/world/us-military-launches-airstrike-on-kunduz-after-taliban-assault-on-key-city/2015/09/29/6cc68d0c-6627-11e5-bdb6-6861f4521205_story.html)
-3. [CNN](http://edition.cnn.com/2015/09/29/asia/afghanistan-kunduz-taliban-attack-why-it-matters/index.html?eref=edition)
+1. [CNN](http://edition.cnn.com/2015/09/29/asia/afghanistan-kunduz-taliban-attack-why-it-matters/index.html?eref=edition)
+2. [The News Hub](https://www.the-newshub.com/international/taliban-close-to-capturing-a-major-city-in-afghanistan)
+3. [The Washington Post](https://www.washingtonpost.com/world/us-military-launches-airstrike-on-kunduz-after-taliban-assault-on-key-city/2015/09/29/6cc68d0c-6627-11e5-bdb6-6861f4521205_story.html)
 
 ### Related:
 

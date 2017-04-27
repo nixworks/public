@@ -7,9 +7,9 @@ Gordon Brown has said that he was &#034;fully in line&#034; with the decision to
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/uk/2010/mar/05/gordon-brown-chilcot-iraq-inquiry-reaction)
-2. [The Times](http://www.timesonline.co.uk/tol/news/world/iraq/article7051207.ece)
-3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/iraq/7375358/Gordon-Brown-tells-Iraq-inquiry-I-fully-backed-the-war.html)
+1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/iraq/7375358/Gordon-Brown-tells-Iraq-inquiry-I-fully-backed-the-war.html)
+2. [The Guardian](http://www.guardian.co.uk/uk/2010/mar/05/gordon-brown-chilcot-iraq-inquiry-reaction)
+3. [The Times](http://www.timesonline.co.uk/tol/news/world/iraq/article7051207.ece)
 
 ### Related:
 

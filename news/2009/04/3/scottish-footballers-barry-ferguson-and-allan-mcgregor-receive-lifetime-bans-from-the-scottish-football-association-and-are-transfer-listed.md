@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/football/2009/apr/03/barry-ferguson-allan-mcgregor-banned-scotland-rangers)
-2. [BBC](http://news.bbc.co.uk/sport1/hi/football/internationals/7981287.stm)
+1. [BBC](http://news.bbc.co.uk/sport1/hi/football/internationals/7981287.stm)
+2. [The Guardian](http://www.guardian.co.uk/football/2009/apr/03/barry-ferguson-allan-mcgregor-banned-scotland-rangers)
 
 ### Related:
 

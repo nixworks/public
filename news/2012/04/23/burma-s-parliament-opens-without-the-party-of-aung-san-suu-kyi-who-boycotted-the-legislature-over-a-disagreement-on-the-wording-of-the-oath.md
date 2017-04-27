@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://af.reuters.com/article/worldNews/idAFBRE83L0G320120423?sp=true)
-2. [CNN](http://edition.cnn.com/2012/04/23/world/asia/myanmar-politics/index.html?eref=edition)
+1. [CNN](http://edition.cnn.com/2012/04/23/world/asia/myanmar-politics/index.html?eref=edition)
+2. [Reuters](http://af.reuters.com/article/worldNews/idAFBRE83L0G320120423?sp=true)
 
 ### Related:
 

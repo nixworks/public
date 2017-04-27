@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2015/02/25/health/deadly-bacteria-doctors-offices/index.html)
-2. [CDC](http://www.cdc.gov/hai/organisms/cdiff/tracking-Cdiff.html)
+1. [CDC](http://www.cdc.gov/hai/organisms/cdiff/tracking-Cdiff.html)
+2. [CNN](http://www.cnn.com/2015/02/25/health/deadly-bacteria-doctors-offices/index.html)
 3. [NEJM](http://www.nejm.org/doi/full/10.1056/NEJMoa1408913#t=article)
 
 ### Related:

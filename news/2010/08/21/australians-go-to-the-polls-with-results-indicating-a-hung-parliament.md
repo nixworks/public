@@ -7,10 +7,10 @@ First female PM fighting to keep power amid strong challenge from conservative c
 
 ### Source:
 
-1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/australians-vote-in-cliffhanger-election-20100821-139eq.html)
+1. [AAP via News Limited](http://www.news.com.au/features/federal-election/smith-says-labor-not-likely-to-get-76-seats/story-fn5taogy-1225908261769?from=public_rss)
 2. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/08/201082020384538801.html)
-3. [AAP via News Limited](http://www.news.com.au/features/federal-election/smith-says-labor-not-likely-to-get-76-seats/story-fn5taogy-1225908261769?from=public_rss)
-4. [The Sunday Times WA](http://www.perthnow.com.au/news/liberal-ken-wyatt-takes-place-in-history-as-first-indigenous-mp/story-e6frg12c-1225908307066)
+3. [The Sunday Times WA](http://www.perthnow.com.au/news/liberal-ken-wyatt-takes-place-in-history-as-first-indigenous-mp/story-e6frg12c-1225908307066)
+4. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/australians-vote-in-cliffhanger-election-20100821-139eq.html)
 
 ### Related:
 

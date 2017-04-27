@@ -7,5 +7,5 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2013/10/23/justice/massachusetts-danvers-schools-closed/index.html)
-2. [ABC](http://abcnews.go.com/US/wireStory/mass-teacher-slain-14-year-student-charged-20655984)
+1. [ABC](http://abcnews.go.com/US/wireStory/mass-teacher-slain-14-year-student-charged-20655984)
+2. [CNN](http://www.cnn.com/2013/10/23/justice/massachusetts-danvers-schools-closed/index.html)

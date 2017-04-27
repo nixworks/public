@@ -7,8 +7,8 @@ Smoke billowing over Homs after night of intense gunfire
 
 ### Source:
 
-1. [Emirates 24/7](http://www.emirates247.com/news/world/10-reported-killed-in-syrian-raids-2011-07-19-1.408623)
-2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jD97unh-0z8CGArL2FnVfsTaq0WQ?docId=5b439a939ee34bce9ffeb0374c8f3c49)
+1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jD97unh-0z8CGArL2FnVfsTaq0WQ?docId=5b439a939ee34bce9ffeb0374c8f3c49)
+2. [Emirates 24/7](http://www.emirates247.com/news/world/10-reported-killed-in-syrian-raids-2011-07-19-1.408623)
 
 ### Related:
 

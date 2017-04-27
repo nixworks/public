@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters via ''Today's Zaman](http://www.todayszaman.com/news-341473-turkey-scrambles-jets-after-russian-plane-again-flies-near-coast.html)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-26492053)
+1. [BBC](http://www.bbc.co.uk/news/world-europe-26492053)
+2. [Reuters via ''Today's Zaman](http://www.todayszaman.com/news-341473-turkey-scrambles-jets-after-russian-plane-again-flies-near-coast.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@ As Palestinian political factions prepared Tuesday to formally sign a political 
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=219024)
-2. [CNN](http://edition.cnn.com/2011/WORLD/meast/05/03/mideast.unity.pact/)
+1. [CNN](http://edition.cnn.com/2011/WORLD/meast/05/03/mideast.unity.pact/)
+2. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=219024)
 3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4064061,00.html)
 
 ### Related:

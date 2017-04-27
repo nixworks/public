@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2011/10/11/world/asia/myanmar-prisoner-release/index.html?hpt=hp_t2)
-2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hEyZu6QPrbGRIqZeAeZcpL3mwUdA?docId=3352857c907740a0833ee00b3c886823)
+1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hEyZu6QPrbGRIqZeAeZcpL3mwUdA?docId=3352857c907740a0833ee00b3c886823)
+2. [CNN](http://edition.cnn.com/2011/10/11/world/asia/myanmar-prisoner-release/index.html?hpt=hp_t2)
 
 ### Related:
 

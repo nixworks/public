@@ -7,9 +7,9 @@ Sleek terminal in San Diego has bridge over razor-wire border fence to Tijuana&#
 
 ### Source:
 
-1. [AP via USA Today](http://www.usatoday.com/story/travel/flights/todayinthesky/2015/12/07/californias-newest-airport-terminal-extends-mexico/76911984/)
-2. [Los Angeles Times](http://www.latimes.com/travel/california/la-trb-tijuana-airport-bridge-to-san-diego-20151207-story.html)
-3. [AP Q&A via ''San Francisco Chronicle](http://www.sfchronicle.com/news/us/article/Questions-and-answers-about-cross-border-airport-6681280.php)
+1. [AP Q&A via ''San Francisco Chronicle](http://www.sfchronicle.com/news/us/article/Questions-and-answers-about-cross-border-airport-6681280.php)
+2. [AP via USA Today](http://www.usatoday.com/story/travel/flights/todayinthesky/2015/12/07/californias-newest-airport-terminal-extends-mexico/76911984/)
+3. [Los Angeles Times](http://www.latimes.com/travel/california/la-trb-tijuana-airport-bridge-to-san-diego-20151207-story.html)
 
 ### Related:
 

@@ -7,9 +7,9 @@ Scottish Premier League clubs unanimously agree to pursue their plan for two top
 
 ### Source:
 
-1. [RTE](http://www.rte.ie/sport/soccer/scottish-league/2012/1203/356648-clubs-agree-plans-for-spl-expnasion/)
-2. [The Telegraph](http://www.telegraph.co.uk/sport/football/competitions/scottish-premier/9719440/Scottish-football-reconstruction-shows-no-sign-of-consensus-with-SPL-SFA-and-SFL-at-loggerheads.html)
-3. [BBC](http://www.bbc.co.uk/sport/0/football/20581620)
+1. [BBC](http://www.bbc.co.uk/sport/0/football/20581620)
+2. [RTE](http://www.rte.ie/sport/soccer/scottish-league/2012/1203/356648-clubs-agree-plans-for-spl-expnasion/)
+3. [The Telegraph](http://www.telegraph.co.uk/sport/football/competitions/scottish-premier/9719440/Scottish-football-reconstruction-shows-no-sign-of-consensus-with-SPL-SFA-and-SFL-at-loggerheads.html)
 
 ### Related:
 

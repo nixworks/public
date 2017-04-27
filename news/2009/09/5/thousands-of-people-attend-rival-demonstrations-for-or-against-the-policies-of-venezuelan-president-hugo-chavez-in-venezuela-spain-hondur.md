@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8240188.stm)
-2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hqPLqxS_foiK3XKaov6bmLnjidKgD9AHF39O0)
-3. [BBC video](http://news.bbc.co.uk/1/hi/world/americas/8240228.stm)
+1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hqPLqxS_foiK3XKaov6bmLnjidKgD9AHF39O0)
+2. [BBC video](http://news.bbc.co.uk/1/hi/world/americas/8240228.stm)
+3. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8240188.stm)
 4. [El Universal](http://english.eluniversal.com/2009/09/04/en_pol_esp_venezuelans-join-no_04A2701893.shtml)
 
 ### Related:

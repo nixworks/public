@@ -7,12 +7,12 @@ The Federal Reserve said Tuesday that it would become a lender of last resort to
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/points/article/rbssFinancialServicesAndRealEstateNews/idUSSAT00565120081007)
-2. [MarketWatch](http://www.marketwatch.com/news/story/icelands-regulator-takes-control-landsbanki/story.aspx?guid=%7BD21012C4%2DD7A3%2D4CCE%2DBFE1%2D6ED768C81F5A%7D)
-3. [CNN Money](http://money.cnn.com/2008/10/07/news/economy/bernanke_speech/index.htm?section=money_latest)
-4. [Financial Times](http://www.ft.com/cms/s/0/e6a74aba-9421-11dd-b277-0000779fd18c.html)
+1. [CNN Money](http://money.cnn.com/2008/10/07/news/economy/bernanke_speech/index.htm?section=money_latest)
+2. [Financial Times](http://www.ft.com/cms/s/0/e6a74aba-9421-11dd-b277-0000779fd18c.html)
+3. [Los Angeles Times](http://www.latimes.com/business/la-fi-bailout8-2008oct08,0,822022.story?track=rss)
+4. [MarketWatch](http://www.marketwatch.com/news/story/icelands-regulator-takes-control-landsbanki/story.aspx?guid=%7BD21012C4%2DD7A3%2D4CCE%2DBFE1%2D6ED768C81F5A%7D)
 5. [New York Times](http://www.nytimes.com/2008/10/08/business/08markets.html?_r=1&hp&oref=slogin)
-6. [Los Angeles Times](http://www.latimes.com/business/la-fi-bailout8-2008oct08,0,822022.story?track=rss)
+6. [Reuters](http://www.reuters.com/points/article/rbssFinancialServicesAndRealEstateNews/idUSSAT00565120081007)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Independent](http://news.independent.co.uk/world/science_technology/story.jsp?story=630165)
-2. [Blogger News Network](http://www.legendgames.net/showstory.asp?page=blognews/stories/ST0000030.txt)
+1. [Blogger News Network](http://www.legendgames.net/showstory.asp?page=blognews/stories/ST0000030.txt)
+2. [The Independent](http://news.independent.co.uk/world/science_technology/story.jsp?story=630165)
 
 ### Related:
 

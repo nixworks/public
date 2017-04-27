@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/latestCrisis/idUSLV111333)
+1. [Press TV](http://www.presstv.ir/detail.aspx?id=110153&sectionid=351020602)
 2. [RIA Novosti](http://en.rian.ru/russia/20091101/156667806.html)
-3. [Press TV](http://www.presstv.ir/detail.aspx?id=110153&sectionid=351020602)
+3. [Reuters](http://www.reuters.com/article/latestCrisis/idUSLV111333)
 
 ### Related:
 

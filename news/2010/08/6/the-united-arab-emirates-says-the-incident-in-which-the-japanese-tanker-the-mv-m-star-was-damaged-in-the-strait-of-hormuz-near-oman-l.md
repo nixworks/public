@@ -7,10 +7,10 @@ Explosive-laden dinghy hit Japanese tanker in Strait of Hormuz, state news agenc
 
 ### Source:
 
-1. [Emirates News Agency](http://www.wam.org.ae/servlet/Satellite?c=WamLocEnews&cid=1278055901616&pagename=WAM%2FWAM_E_Layout)
+1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gN95glcQ4LkefMWB8I0OnjPxbCmw)
 2. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/08/20108683953783853.html)
 3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10890098)
-4. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gN95glcQ4LkefMWB8I0OnjPxbCmw)
+4. [Emirates News Agency](http://www.wam.org.ae/servlet/Satellite?c=WamLocEnews&cid=1278055901616&pagename=WAM%2FWAM_E_Layout)
 
 ### Related:
 

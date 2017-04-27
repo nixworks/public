@@ -7,9 +7,9 @@ The official Syrian Arab News Agency reported that 12 people were killed and 40 
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/world/2016/05/05/12-killed-aleppo-cease-fire-agreed/83959322/)
+1. [BBC](http://www.bbc.com/news/world-middle-east-36214290)
 2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-truce-idUSKCN0XW0C3)
-3. [BBC](http://www.bbc.com/news/world-middle-east-36214290)
+3. [USA Today](http://www.usatoday.com/story/news/world/2016/05/05/12-killed-aleppo-cease-fire-agreed/83959322/)
 
 ### Related:
 

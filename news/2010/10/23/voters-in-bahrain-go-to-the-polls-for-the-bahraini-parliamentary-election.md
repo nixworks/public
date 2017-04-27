@@ -7,8 +7,8 @@ Polls present opportunity for Shia majority to air grievances against Sunnis who
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11608611)
-2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/10/2010102371445380323.html)
+1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/10/2010102371445380323.html)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11608611)
 
 ### Related:
 

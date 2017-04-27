@@ -8,8 +8,8 @@
 ### Source:
 
 1. [ABC transcript](http://www.abc.net.au/pm/content/2005/s1383368.htm)
-2. [News.com.au](http://www.news.com.au/story/0,10117,15486837-29277,00.html)
-3. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4602429.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4602429.stm)
+3. [News.com.au](http://www.news.com.au/story/0,10117,15486837-29277,00.html)
 4. [SMH](http://www.smh.com.au/news/National/Sick-whale-saga/2005/06/03/1117568357795.html?oneclick=true)
 
 ### Related:

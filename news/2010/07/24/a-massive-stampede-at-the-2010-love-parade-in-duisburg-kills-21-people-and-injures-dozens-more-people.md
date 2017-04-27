@@ -8,10 +8,10 @@ At least 19 people are killed in a stampede at the Love Parade dance music festi
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/07/201072417757685996.html)
-2. [Der Spiegel](http://www.spiegel.de/international/germany/0,1518,708347,00.html)
-3. [BBC News](http://www.bbc.co.uk/news/world-europe-10751899)
-4. [The Age](http://www.theage.com.au/world/stampede-at-love-parade-kills-17-20100725-10q1z.html)
-5. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5834841,00.html)
+2. [BBC News](http://www.bbc.co.uk/news/world-europe-10751899)
+3. [Der Spiegel](http://www.spiegel.de/international/germany/0,1518,708347,00.html)
+4. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5834841,00.html)
+5. [The Age](http://www.theage.com.au/world/stampede-at-love-parade-kills-17-20100725-10q1z.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Press Trust of India](http://www.ptinews.com/news/362301_Eight-students-drown-as-boat-capsizes-in-Kerala)
-2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=126&art_id=nw20091104162722977C342837)
+1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=126&art_id=nw20091104162722977C342837)
+2. [Press Trust of India](http://www.ptinews.com/news/362301_Eight-students-drown-as-boat-capsizes-in-Kerala)
 3. [Xinhua](http://news.xinhuanet.com/english/2009-11/04/content_12387633.htm)
 
 ### Related:

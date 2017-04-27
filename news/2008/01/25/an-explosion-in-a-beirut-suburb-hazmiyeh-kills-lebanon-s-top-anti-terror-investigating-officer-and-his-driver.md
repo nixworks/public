@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080125/ap_on_re_mi_ea/lebanon_explosion)
-2. [AFP via Yahoo!](http://news.yahoo.com/s/afp/20080125/ts_afp/lebanonunrest_080125110404;_ylt=AlkmNHtSW3AErf72LaVX1nsUewgF)
+1. [AFP via Yahoo!](http://news.yahoo.com/s/afp/20080125/ts_afp/lebanonunrest_080125110404;_ylt=AlkmNHtSW3AErf72LaVX1nsUewgF)
+2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080125/ap_on_re_mi_ea/lebanon_explosion)
 3. [CNN](http://edition.cnn.com/2008/WORLD/meast/01/25/beirut.blast/index.html)
 
 ### Related:

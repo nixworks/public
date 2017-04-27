@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Taiwan News](http://www.taiwannews.com.tw/etn/news_content.php?id=1468972&lang=eng_news&cate_img=1037.jpg&cate_rss=General)
-2. [CNN](http://edition.cnn.com/2010/WORLD/americas/12/24/cuba.dissidents/)
+1. [CNN](http://edition.cnn.com/2010/WORLD/americas/12/24/cuba.dissidents/)
+2. [Taiwan News](http://www.taiwannews.com.tw/etn/news_content.php?id=1468972&lang=eng_news&cate_img=1037.jpg&cate_rss=General)
 
 ### Related:
 

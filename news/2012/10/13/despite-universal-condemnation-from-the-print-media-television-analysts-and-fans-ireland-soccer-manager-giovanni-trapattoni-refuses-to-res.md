@@ -7,8 +7,8 @@ Giovanni Trapattoni&rsquo;s &pound;1.5 million-a-year contract as Republic of Ir
 
 ### Source:
 
-1. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/teams/republic-of-ireland/9606878/Ireland-coach-Giovanni-Trapattoni-too-costly-to-be-sacked.html)
-2. [BBC](http://www.bbc.co.uk/sport/0/football/19937787)
+1. [BBC](http://www.bbc.co.uk/sport/0/football/19937787)
+2. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/teams/republic-of-ireland/9606878/Ireland-coach-Giovanni-Trapattoni-too-costly-to-be-sacked.html)
 
 ### Related:
 

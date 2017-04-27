@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [The Local](http://www.thelocal.se/20151203/sweden-mulls-bid-to-close-bridge-to-denmark)
+1. [BBC](http://www.bbc.com/news/world-europe-34983426)
 2. [The Financial Times](http://www.ft.com/intl/cms/s/0/137322ca-999d-11e5-9228-87e603d47bdc.html)
-3. [BBC](http://www.bbc.com/news/world-europe-34983426)
+3. [The Local](http://www.thelocal.se/20151203/sweden-mulls-bid-to-close-bridge-to-denmark)
 
 ### Related:
 

@@ -7,8 +7,8 @@ Singer-songwriter’s failure to respond to phone calls from the Swedish Academy
 
 ### Source:
 
-1. [The Guardian](https://www.theguardian.com/music/2016/oct/22/bob-dylan-criticised-as-impolite-and-arrogant-by-nobel-academy-member)
-2. [BBC](http://www.bbc.com/news/entertainment-arts-37740379)
+1. [BBC](http://www.bbc.com/news/entertainment-arts-37740379)
+2. [The Guardian](https://www.theguardian.com/music/2016/oct/22/bob-dylan-criticised-as-impolite-and-arrogant-by-nobel-academy-member)
 
 ### Related:
 

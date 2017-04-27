@@ -7,13 +7,13 @@ A US official is killed as Libyan militiamen storm the consulate in Benghazi, ho
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/09/11/us-libya-us-embassy-death-idUSBRE88A1JF20120911)
-2. [AFP via ''MSN Philippines](http://news.ph.msn.com/top-stories/rpgs-fired-at-us-consulate-in-benghazi-official-3)
-3. [Wall Street Journal](http://online.wsj.com/article/SB10000872396390444426404577647060576633348.html)
-4. [Reuters](http://www.reuters.com/article/2012/09/11/us-libya-us-embassy-idUSBRE88A1EF20120911)
-5. [BBC](http://www.bbc.co.uk/news/world-africa-19562692)
-6. [CNN](http://www.cnn.com/2012/09/12/world/africa/libya-us-ambassador-killed/index.html)
-7. [AFP via ''Star Africa](http://www.starafrica.com/en/news/detail-news/view/american-killed-in-us-consulate-attack-i-252170.html)
+1. [AFP via ''MSN Philippines](http://news.ph.msn.com/top-stories/rpgs-fired-at-us-consulate-in-benghazi-official-3)
+2. [AFP via ''Star Africa](http://www.starafrica.com/en/news/detail-news/view/american-killed-in-us-consulate-attack-i-252170.html)
+3. [BBC](http://www.bbc.co.uk/news/world-africa-19562692)
+4. [CNN](http://www.cnn.com/2012/09/12/world/africa/libya-us-ambassador-killed/index.html)
+5. [Reuters](http://www.reuters.com/article/2012/09/11/us-libya-us-embassy-death-idUSBRE88A1JF20120911)
+6. [Reuters](http://www.reuters.com/article/2012/09/11/us-libya-us-embassy-idUSBRE88A1EF20120911)
+7. [Wall Street Journal](http://online.wsj.com/article/SB10000872396390444426404577647060576633348.html)
 
 ### Related:
 

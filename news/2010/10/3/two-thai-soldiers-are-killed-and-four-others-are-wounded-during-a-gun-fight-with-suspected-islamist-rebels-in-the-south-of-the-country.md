@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Thai News Agency](http://www.mcot.net/cfcustom/cache_page/110135.html)
-2. [Channel NewsAsia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1084862/1/.html)
+1. [Channel NewsAsia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1084862/1/.html)
+2. [Thai News Agency](http://www.mcot.net/cfcustom/cache_page/110135.html)
 
 ### Related:
 

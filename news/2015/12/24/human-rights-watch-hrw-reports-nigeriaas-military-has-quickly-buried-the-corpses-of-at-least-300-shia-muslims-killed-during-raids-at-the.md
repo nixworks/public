@@ -7,8 +7,8 @@ Rights groups call on Nigerian government to conduct investigation into the viol
 
 ### Source:
 
-1. [International Business Times](http://www.ibtimes.co.uk/nigeria-zaria-killings-army-quickly-buried-300-shia-muslims-killed-unjustified-violence-1534703)
-2. [BBC](http://www.bbc.com/news/world-africa-35168211)
+1. [BBC](http://www.bbc.com/news/world-africa-35168211)
+2. [International Business Times](http://www.ibtimes.co.uk/nigeria-zaria-killings-army-quickly-buried-300-shia-muslims-killed-unjustified-violence-1534703)
 
 ### Related:
 

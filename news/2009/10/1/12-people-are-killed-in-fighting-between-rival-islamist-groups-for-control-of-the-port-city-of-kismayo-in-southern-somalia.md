@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The Nation](http://www.nation.co.ke/News/africa/-/1066/666184/-/136a8atz/-/index.html)
-2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5g7OaI4_kjeHA-o4UhlmP7vlWmrrwD9B2EC980)
+1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5g7OaI4_kjeHA-o4UhlmP7vlWmrrwD9B2EC980)
+2. [The Nation](http://www.nation.co.ke/News/africa/-/1066/666184/-/136a8atz/-/index.html)
 
 ### Related:
 

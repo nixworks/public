@@ -7,8 +7,8 @@ Top overall seed Louisville will face Wichita State at the Georgia Dome next Sat
 
 ### Source:
 
-1. [Fox News](http://www.foxnews.com/sports/2013/03/31/louisville-overcomes-ware-injury-beats-duke-85-63-to-reach-final-four/)
-2. [Bleacher Report](http://bleacherreport.com/articles/1587959-kevin-ware-injury-updates-on-louisville-guards-leg)
+1. [Bleacher Report](http://bleacherreport.com/articles/1587959-kevin-ware-injury-updates-on-louisville-guards-leg)
+2. [Fox News](http://www.foxnews.com/sports/2013/03/31/louisville-overcomes-ware-injury-beats-duke-85-63-to-reach-final-four/)
 
 ### Related:
 

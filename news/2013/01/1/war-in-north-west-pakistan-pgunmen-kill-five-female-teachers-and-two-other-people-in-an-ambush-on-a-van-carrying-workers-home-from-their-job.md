@@ -7,8 +7,8 @@ Seven charity workers, six of them women, are killed by gunmen in north-west Pak
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-20880948)
-2. [AP](http://hosted2.ap.org/APDefault/*/Article_2013-01-01-Pakistan/id-65d08fc9a1af44898875257bf79d6271)
+1. [AP](http://hosted2.ap.org/APDefault/*/Article_2013-01-01-Pakistan/id-65d08fc9a1af44898875257bf79d6271)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-20880948)
 
 ### Related:
 

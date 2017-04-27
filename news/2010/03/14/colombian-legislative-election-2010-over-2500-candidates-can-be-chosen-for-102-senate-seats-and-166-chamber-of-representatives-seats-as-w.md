@@ -7,9 +7,9 @@
 
 ### Source:
 
-1. [Direct Democracy](http://mydd.com/2010/3/14/in)
-2. [Reuters](http://www.reuters.com/article/idUSTRE62D13U20100314)
-3. [BBC](http://news.bbc.co.uk/2/hi/americas/8562087.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/8562087.stm)
+2. [Direct Democracy](http://mydd.com/2010/3/14/in)
+3. [Reuters](http://www.reuters.com/article/idUSTRE62D13U20100314)
 
 ### Related:
 

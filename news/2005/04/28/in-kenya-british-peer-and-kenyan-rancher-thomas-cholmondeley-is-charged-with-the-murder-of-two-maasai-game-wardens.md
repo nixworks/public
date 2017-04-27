@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Guardian](http://www.guardian.co.uk/kenya/story/0,12689,1472924,00.html)
-2. [BBC](http://news.bbc.co.uk/2/hi/africa/4493909.stm)
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/4493909.stm)
+2. [Guardian](http://www.guardian.co.uk/kenya/story/0,12689,1472924,00.html)
 3. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=87&art_id=qw1114680601264B256)
 
 ### Related:

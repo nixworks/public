@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Dagens Nyheter](http://www.dn.se/DNet/jsp/polopoly.jsp?d=1298&a=716088)
-2. [Asplund Competition](http://www.arkitekt.se/asplund)
+1. [Asplund Competition](http://www.arkitekt.se/asplund)
+2. [Dagens Nyheter](http://www.dn.se/DNet/jsp/polopoly.jsp?d=1298&a=716088)
 
 ### Related:
 

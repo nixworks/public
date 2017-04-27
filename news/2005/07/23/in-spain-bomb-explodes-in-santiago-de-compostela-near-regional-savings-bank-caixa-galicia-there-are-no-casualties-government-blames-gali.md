@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-07-23T174347Z_01_MOL363809_RTRUKOC_0_SPAIN-EXPLOSION.xml)
-2. [EITB](http://www.eitb24.com/noticia_en.php?id=77730)
+1. [EITB](http://www.eitb24.com/noticia_en.php?id=77730)
+2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-07-23T174347Z_01_MOL363809_RTRUKOC_0_SPAIN-EXPLOSION.xml)
 
 ### Related:
 

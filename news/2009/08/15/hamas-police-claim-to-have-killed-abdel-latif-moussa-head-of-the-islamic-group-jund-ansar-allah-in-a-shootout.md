@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [The New York Times](http://www.nytimes.com/aponline/2009/08/15/world/AP-ML-Palestinians-Gaza-Shootout.html)
-2. [Petra](http://petra.gov.jo/Artical.aspx?Lng=1&Section=3&Artical=129931)
+1. [Petra](http://petra.gov.jo/Artical.aspx?Lng=1&Section=3&Artical=129931)
+2. [The New York Times](http://www.nytimes.com/aponline/2009/08/15/world/AP-ML-Palestinians-Gaza-Shootout.html)
 
 ### Related:
 

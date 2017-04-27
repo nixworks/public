@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [U.S. National Hurricane Center](http://www.nhc.noaa.gov/archive/2006/dis/ep112006.discus.019.shtml?)
-2. [CBS](http://www.cbsnews.com/stories/2006/09/01/storm/main1961769.shtml)
+1. [CBS](http://www.cbsnews.com/stories/2006/09/01/storm/main1961769.shtml)
+2. [U.S. National Hurricane Center](http://www.nhc.noaa.gov/archive/2006/dis/ep112006.discus.019.shtml?)
 
 ### Related:
 

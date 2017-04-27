@@ -7,8 +7,8 @@ Defying opinion polls that suggested yesterday&#039;s general election was too c
 
 ### Source:
 
-1. [Jamaica Gleaner](http://jamaica-gleaner.com/gleaner/20111230/lead/lead1.html)
-2. [Bangkok Post](http://www.bangkokpost.com/news/world/273148/jamaica-opposition-wins-election-in-landslide)
+1. [Bangkok Post](http://www.bangkokpost.com/news/world/273148/jamaica-opposition-wins-election-in-landslide)
+2. [Jamaica Gleaner](http://jamaica-gleaner.com/gleaner/20111230/lead/lead1.html)
 
 ### Related:
 

@@ -7,8 +7,8 @@
 
 ### Source:
 
-1. [CTV](http://www.ctv.ca/CTVNews/World/20101230/thai-court-convicts-yellow-shirt-protesters-101230/)
-2. [Bangkok Post](http://www.bangkokpost.com/breakingnews/213814/yellow-shirts-get-jail-terms-for-nbt-raid)
+1. [Bangkok Post](http://www.bangkokpost.com/breakingnews/213814/yellow-shirts-get-jail-terms-for-nbt-raid)
+2. [CTV](http://www.ctv.ca/CTVNews/World/20101230/thai-court-convicts-yellow-shirt-protesters-101230/)
 3. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE6BT13120101230)
 
 ### Related:

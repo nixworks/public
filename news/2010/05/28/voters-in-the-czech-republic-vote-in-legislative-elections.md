@@ -7,10 +7,10 @@ Two-day general election aims to end more than a year of political limbo.
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE64R2L020100528)
+1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/05/20105289398531820.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10180591.stm)
 3. [France24](http://www.france24.com/en/20100528-czechs-go-polls-end-year-long-interim-rule)
-4. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/05/20105289398531820.html)
+4. [Reuters](http://www.reuters.com/article/idUSTRE64R2L020100528)
 
 ### Related:
 
