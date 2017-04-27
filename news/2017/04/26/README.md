@@ -12,6 +12,12 @@ _Context: Academy Award for Best Director, Jonathan Demme, The Silence of the La
 ### [The United States deploys parts of its Terminal High Altitude Area Defense in South Korea amidst high tension caused by North Korea's escalation of its missile and nuclear weapons programs. ](/news/2017/04/26/the-united-states-deploys-parts-of-its-terminal-high-altitude-area-defense-in-south-korea-amidst-high-tension-caused-by-north-korea-s-escala.md)
 Thaad system being deployed despite protests from local residents and China, which says it threatens security balance
 
+### [The United States test launch a Minuteman III missile from California to the Marshall Islands. ](/news/2017/04/26/the-united-states-test-launch-a-minuteman-iii-missile-from-california-to-the-marshall-islands.md)
+An unarmed intercontinental ballistic missile was launched just after midnight Wednesday from Vandenberg Air Force Base as part of an operational test to show nuclear deterrent capability.
+
+### [Venezuela says it will withdraw from the Organization of American States after the organization decided to call a meeting without Venezuela. ](/news/2017/04/26/venezuela-says-it-will-withdraw-from-the-organization-of-american-states-after-the-organization-decided-to-call-a-meeting-without-venezuela.md)
+Venezuela said on Wednesday it was quitting the Organisation of American States in anger at pressure from the bloc over the government&#39;s handling of the country&#39;s political crisis.
+
 ### [A speculative study hypothesizes that a species of ''Homo'' may have lived in California 130,000 years ago. ](/news/2017/04/26/a-speculative-study-hypothesizes-that-a-species-of-homo-may-have-lived-in-california-130-000-years-ago.md)
 A new study has dropped a bombshell on archaeology, claiming signs of human activity in the Americas far earlier than thought.
 
