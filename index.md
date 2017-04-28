@@ -15,8 +15,8 @@ All 78 personnel aboard the Black Sea Fleet ship were rescued, the Turkish coast
 ### [A 27-year-old man carrying several knives in a backpack is arrested at Parliament Square, London, near the site of last month's Westminster attack. ](/news/2017/04/27/a-27-year-old-man-carrying-several-knives-in-a-backpack-is-arrested-at-parliament-square-london-near-the-site-of-last-month-s-westminster.md)
 Sky sources say the 27-year-old man, who was carrying a rucksack containing knives, was known to police prior to his arrest.
 
-### [The Macedonian Parliament is stormed by protesters opposing the election of Talat Xhaferi, an ethnic Albanian, as President of the Parliament. ](/news/2017/04/27/the-macedonian-parliament-is-stormed-by-protesters-opposing-the-election-of-talat-xhaferi-an-ethnic-albanian-as-president-of-the-parliamen.md)
-_Context: Albanian, Macedonian_
+### [The Macedonian Parliament is stormed by protesters opposing the election of Talat Xhaferi, an ethnic Albanian, as Speaker of the Assembly. ](/news/2017/04/27/the-macedonian-parliament-is-stormed-by-protesters-opposing-the-election-of-talat-xhaferi-an-ethnic-albanian-as-speaker-of-the-assembly.md)
+_Context: 2017 storming of Macedonian Parliament, Macedonian, Parliament, Speaker of the Assembly, ethnic Albanian_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
