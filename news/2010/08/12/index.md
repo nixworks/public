@@ -1,7 +1,7 @@
 ## [2010-08-12](/news/2010/08/12/index.md)
 
 ### [War in Afghanistan:The International Assistance Mission says it now believes that the Taliban was responsible for the 2010 Badakhshan massacre of its medical team in Afghanistan. ](/news/2010/08/12/war-in-afghanistan-pthe-international-assistance-mission-says-it-now-believes-that-the-taliban-was-responsible-for-the-2010-badakhshan-massa.md)
-_Context: 2010 Badakhshan massacre, Afghan, International Assistance Mission, Taliban, War in Afghanistan (2001–present)_
+_Context: 2010 Badakhshan massacre, Afghanistan, International Assistance Mission, Taliban, War in Afghanistan (2001–present)_
 
 ### [Human Rights Watch accuses the northern Ugandan  Lord's Resistance Army of abducting and forcing the recruitment of at least 697 people during the last year and a half across central Africa. ](/news/2010/08/12/human-rights-watch-accuses-the-northern-ugandan-lord-s-resistance-army-of-abducting-and-forcing-the-recruitment-of-at-least-697-people-duri.md)
 _Context: Central Africa, Human Rights Watch, Lord's Resistance Army, Uganda_
@@ -70,7 +70,7 @@ _Context: Chapada dos Veadeiros National Park_
 At least 50 people are killed after a lorry plunges into Lake Tanganyika in the Democratic Republic of Congo, officials say.
 
 ### [Turkey sets up a commission of Turkish officials and bureaucrats to investigate May's Gaza flotilla raid. ](/news/2010/08/12/turkey-sets-up-a-commission-of-turkish-officials-and-bureaucrats-to-investigate-may-s-gaza-flotilla-raid.md)
-_Context: Gaza flotilla raid, Turkish_
+_Context: Gaza flotilla raid, Turkey_
 
 ### [Poland extradites Israeli citizen and suspected spy Uri Brodsky to Germany to face charges of being involved in the murder of Mahmoud al-Mabhouh in Dubai. ](/news/2010/08/12/poland-extradites-israeli-citizen-and-suspected-spy-uri-brodsky-to-germany-to-face-charges-of-being-involved-in-the-murder-of-mahmoud-al-mab.md)
 Poland extradites to Germany a suspected Israeli agent wanted in connection with the killing in Dubai of a Hamas commander, officials say.

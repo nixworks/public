@@ -10,7 +10,7 @@ _Context: Burma, general elections, political prisoner_
 _Context: Henry Okah, Movement for the Emancipation of the Niger Delta, Nigerian government, amnesty, guerrilla_
 
 ### [ Turkey, Bulgaria, Romania, Hungary and Austria sign an intergovernmental agreement on the construction of the Nabucco natural gas pipeline. ](/news/2009/07/13/turkey-bulgaria-romania-hungary-and-austria-sign-an-intergovernmental-agreement-on-the-construction-of-the-nabucco-natural-gas-pipeline.md)
-_Context: Austria, Bulgaria, Hungary, Nabucco natural gas pipeline, Romania, Turkish_
+_Context: Austria, Bulgaria, Hungary, Nabucco natural gas pipeline, Romania, Turkey_
 
 ### [ At least 16 people have died, including eight children, in the city of Mian Channu, Pakistan, after a bomb blast in a school. ](/news/2009/07/13/at-least-16-people-have-died-including-eight-children-in-the-city-of-mian-channu-pakistan-after-a-bomb-blast-in-a-school.md)
 _Context: Mian Channu, Pakistan, bomb blast_
@@ -37,7 +37,7 @@ _Context: Germany, John Demjanjuk, World War II, accessory to murder_
 The police chief of a district south of Kabul that the Americans had sought to make a Taliban-free model of safety and security was killed in a roadside blast.
 
 ### [ U.S. Senate confirmation hearings for United States Supreme Court nominee Sonia Sotomayor begin. ](/news/2009/07/13/u-s-senate-confirmation-hearings-for-united-states-supreme-court-nominee-sonia-sotomayor-begin.md)
-_Context: Sonia Sotomayor, Supreme Court of the United States, United States, United States Senate_
+_Context: Sonia Sotomayor, Supreme Court of the United States, U.S., United States Senate_
 
 ### [ Former Prime Minister of Lebanon Amin al-Hafez dies at age 83. ](/news/2009/07/13/former-prime-minister-of-lebanon-amin-al-hafez-dies-at-age-83.md)
 _Context: Amin al-Hafez, Prime Minister_

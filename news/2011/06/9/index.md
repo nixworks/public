@@ -13,7 +13,7 @@ US newspaper says the move is aimed at preventing suspected fighters from consol
 Nine people are killed and nine wounded as unidentified gunmen attack a wedding party in eastern Afghanistan, officials say.
 
 ### [2011 Libyan civil war:Turkey sets up a US$100 million fund to support the Libyan rebel National Transitional  Council. ](/news/2011/06/9/2011-libyan-civil-war-pturkey-sets-up-a-us-100-million-fund-to-support-the-libyan-rebel-national-transitional-council.md)
-_Context: Libya, Libyan Civil War, National Transitional Council, Turkish_
+_Context: Libya, Libyan Civil War, National Transitional Council, Turkey_
 
 ### [2011 Yemeni uprising: President Ali Abdullah Saleh undergoes surgery in Saudi Arabia for injuries sustained in a bomb blast. ](/news/2011/06/9/2011-yemeni-uprising-president-ali-abdullah-saleh-undergoes-surgery-in-saudi-arabia-for-injuries-sustained-in-a-bomb-blast.md)
 Yemeni President Ali Abdullah Saleh has undergone &quot;successful&quot; surgery in Riyadh, Saudi Arabia, where he is being treated for bomb blast wounds, officials said.

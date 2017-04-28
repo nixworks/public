@@ -1,7 +1,7 @@
 ## [2009-07-10](/news/2009/07/10/index.md)
 
 ### [  Turkey's Prime Minister  Erdogan strengthens his rhetoric: "These incidents in China are as if they are genocide. We ask the Chinese government not to remain a spectator to these incidents." ](/news/2009/07/10/turkey-s-prime-minister-erdogan-strengthens-his-rhetoric-these-incidents-in-china-are-as-if-they-are-genocide-we-ask-the-chinese-gover.md)
-_Context: Recep Tayyip Erdogan, Turkish, genocide, riots_
+_Context: Recep Tayyip Erdogan, Turkey, genocide, riots_
 
 ### [ The trial of National League for Democracy General Secretary Aung San Suu Kyi resumes after a six week break. ](/news/2009/07/10/the-trial-of-national-league-for-democracy-general-secretary-aung-san-suu-kyi-resumes-after-a-six-week-break.md)
 _Context: Aung San Suu Kyi, National League for Democracy_

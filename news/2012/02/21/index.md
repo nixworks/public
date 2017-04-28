@@ -4,7 +4,7 @@
 Syrian government forces killed at least 100 people on Tuesday in assaults on villages and an artillery barrage in the restive city of Homs, activists said, and the Red Cross called for daily ceasefires to allow in urgently needed aid.
 
 ### [US General John R. Allen, the head of the International Security Assistance Force in Afghanistan commissions an inquiry into allegations that Qurans were burnt at an American Air Force base as Afghans protest. ](/news/2012/02/21/us-general-john-r-allen-the-head-of-the-international-security-assistance-force-in-afghanistan-commissions-an-inquiry-into-allegations-tha.md)
-_Context: Afghan, General, International Security Assistance Force, John R. Allen, Quran, United States Air Force_
+_Context: Afghanistan, General, International Security Assistance Force, John R. Allen, Quran, United States Air Force_
 
 ### [Thailand sends an extradition request to Malaysia for one of the five Iranian nationals suspected of involvement in the bombings in Bangkok earlier this month. ](/news/2012/02/21/thailand-sends-an-extradition-request-to-malaysia-for-one-of-the-five-iranian-nationals-suspected-of-involvement-in-the-bombings-in-bangkok.md)
 _Context: Bangkok, Iran, Malaysia, Thailand, bombings, extradited_

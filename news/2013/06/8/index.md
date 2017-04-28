@@ -1,10 +1,10 @@
 ## [2013-06-8](/news/2013/06/8/index.md)
 
 ### [War in Afghanistan (2001-present):In Afghanistan, a man wearing an Afghan military uniform attacks and kills three American soldiers, in what appears to be an insider attack on U.S. International Security Assistance Force soldiers, based in east Afghanistan's Paktika Province. ](/news/2013/06/8/war-in-afghanistan-2001-present-pin-afghanistan-a-man-wearing-an-afghan-military-uniform-attacks-and-kills-three-american-soldiers-in-wh.md)
-_Context: Afghan, Afghan military, International Security Assistance Force, Paktika Province, United States military, War in Afghanistan (2001-present)_
+_Context: Afghan military, Afghanistan, International Security Assistance Force, Paktika Province, United States military, War in Afghanistan (2001-present)_
 
 ### [Syrian civil war:The Syrian military captures the town of Al-Buwaydah al-Sharqiyah. ](/news/2013/06/8/syrian-civil-war-pthe-syrian-military-captures-the-town-of-al-buwaydah-al-sharqiyah.md)
-_Context: Al-Buwaydah al-Sharqiyah, Syrian Armed Forces, Syrian Civil War_
+_Context: Al-Buwaydah al-Sharqiyah, Syrian Civil War, military_
 
 ### [Clashes between protestors and militia members in Benghazi, Libya, leads to at least 27 deaths and 117 injuries. ](/news/2013/06/8/clashes-between-protestors-and-militia-members-in-benghazi-libya-leads-to-at-least-27-deaths-and-117-injuries.md)
 _Context: Benghazi_

@@ -25,7 +25,7 @@ Homes in Stonehaven are evacuated after significant flooding hit the Aberdeenshi
 _Context: Swiss Alps, avalanche, snow, train_
 
 ### [At least 600 shops are destroyed as a fire sweeps through a market and money exchange in Kabul, Afghanistan. ](/news/2012/12/23/at-least-600-shops-are-destroyed-as-a-fire-sweeps-through-a-market-and-money-exchange-in-kabul-afghanistan.md)
-_Context: Afghan, Kabul, fire, market, money exchange_
+_Context: Afghanistan, Kabul, fire, market, money exchange_
 
 ### [The South Korean defence ministry says the launch of a satellite into space by North Korea was a disguised test of a 10,000 km range missile. ](/news/2012/12/23/the-south-korean-defence-ministry-says-the-launch-of-a-satellite-into-space-by-north-korea-was-a-disguised-test-of-a-10-000-km-range-missile.md)
 North Korea has the ability to fire a rocket more than 10,000km, theoretically putting the Western US in range, South Korean officials say.

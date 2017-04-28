@@ -1,7 +1,7 @@
 ## [2007-04-24](/news/2007/04/24/index.md)
 
 ### [ Kevin Tillman, brother of former American football player Pat Tillman, who was killed by friendly fire in Afghanistan, accuses the U.S. military of manipulating his death during testimony to the U.S. Congress. ](/news/2007/04/24/kevin-tillman-brother-of-former-american-football-player-pat-tillman-who-was-killed-by-friendly-fire-in-afghanistan-accuses-the-u-s-mil.md)
-_Context: Afghan, American football, Kevin Tillman, Pat Tillman, U.S. Congress, U.S. military, friendly-fire, testimony_
+_Context: Afghanistan, American football, Kevin Tillman, Pat Tillman, U.S. Congress, U.S. military, friendly-fire, testimony_
 
 ### [ At least ten people are killed and 120 injured as a severe storm hits the twin towns of Eagle Pass, Texas, and Piedras Negras, Coahuila, on the  U.S.-Mexico border. ](/news/2007/04/24/at-least-ten-people-are-killed-and-120-injured-as-a-severe-storm-hits-the-twin-towns-of-eagle-pass-texas-and-piedras-negras-coahuila-on.md)
 _Context: Eagle Pass, Texas, Piedras Negras, Coahuila, U.S.-Mexico border, storm_
@@ -19,7 +19,7 @@ _Context: 2007 Abortion Law, Legislative Assembly, Mexico City, abortion, first 
 _Context: Boris Yeltsin, Moscow, President, Russia_
 
 ### [ Prisoners riot at the New Castle Correctional Facility in Indiana, United States. ](/news/2007/04/24/prisoners-riot-at-the-new-castle-correctional-facility-in-indiana-united-states.md)
-_Context: Indiana, New Castle Correctional Facility, United States, prison riot_
+_Context: Indiana, New Castle Correctional Facility, U.S., prison riot_
 
 ### [ Ethiopian rebels from the Ogaden National Liberation Front raid a Chinese-run oil field in near the country's border with Somalia, killing 74. ](/news/2007/04/24/ethiopian-rebels-from-the-ogaden-national-liberation-front-raid-a-chinese-run-oil-field-in-near-the-country-s-border-with-somalia-killing.md)
 _Context: China, Ethiopia, Ogaden National Liberation Front, Somalia, oil field, raid_
@@ -31,7 +31,7 @@ _Context: Jaffna, Sri Lanka, Tamil Tigers_
 _Context: London, Luton, Terrorism Act, UK_
 
 ### [ Foreign Minister of Turkey Abdullah Gl is nominated as the AK Party candidate for President of Turkey. ](/news/2007/04/24/foreign-minister-of-turkey-abdullah-gul-is-nominated-as-the-ak-party-candidate-for-president-of-turkey.md)
-_Context: Abdullah Gül, Foreign Minister, President, Turkish, ruling party_
+_Context: Abdullah Gül, Foreign Minister, President, Turkey, ruling party_
 
 ### [ Toyota overtakes General Motors in global vehicle sales from January to March as a result of increased demand for fuel-efficient cars. ](/news/2007/04/24/toyota-overtakes-general-motors-in-global-vehicle-sales-from-january-to-march-as-a-result-of-increased-demand-for-fuel-efficient-cars.md)
 _Context: General Motors, Toyota, fuel-efficient car_

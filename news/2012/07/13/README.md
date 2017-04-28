@@ -4,7 +4,7 @@
 A jetliner bound for Madrid returned to Kennedy Airport as a precaution Thursday evening after a passenger reported strange wiring in the bathroom, but no explosive device was found, law enforcement officials...
 
 ### [Bedouin men kidnap two tourists from the United States and their guide in Egypt's Sinai region and demand the release of a jailed tribesman for their return. ](/news/2012/07/13/bedouin-men-kidnap-two-tourists-from-the-united-states-and-their-guide-in-egypt-s-sinai-region-and-demand-the-release-of-a-jailed-tribesman.md)
-_Context: Bedouin, Egypt, Sinai, United States_
+_Context: Bedouin, Egypt, Sinai, U.S._
 
 ### [Cambodian troops aim machine gun fire at a Thai passenger jet, saying they believed it to be a spy plane, but do not hit the plane. ](/news/2012/07/13/cambodian-troops-aim-machine-gun-fire-at-a-thai-passenger-jet-saying-they-believed-it-to-be-a-spy-plane-but-do-not-hit-the-plane.md)
 _Context: Cambodia, Thai passenger jet, machine gun_
@@ -13,7 +13,7 @@ _Context: Cambodia, Thai passenger jet, machine gun_
 _Context: Maiduguri, Nigeria, Nigerian Sharia conflict, mosque, suicide bomber_
 
 ### [War in Afghanistan (2001-present):A female Afghan politician, Hanifa Safi, dies in a bomb attack in eastern Afghanistan. ](/news/2012/07/13/war-in-afghanistan-2001apresent-pa-female-afghan-politician-hanifa-safi-dies-in-a-bomb-attack-in-eastern-afghanistan.md)
-_Context: Afghan, Hanifa Safi, War in Afghanistan (2001–present)_
+_Context: Afghanistan, Hanifa Safi, War in Afghanistan (2001–present)_
 
 ### [Carol Ann Duffy, the Poet Laureate of the United Kingdom, is announced as the winner of the 2012 PEN/Pinter Prize. ](/news/2012/07/13/carol-ann-duffy-the-poet-laureate-of-the-united-kingdom-is-announced-as-the-winner-of-the-2012-pen-pinter-prize.md)
 Poet Laureate Carol Ann Duffy says she is &quot;hugely honoured&quot; by being awarded the 2012 Pen Pinter Prize in memory of the playwright Harold Pinter.

@@ -13,7 +13,7 @@ _Context: 2013 Thai political crisis, Thailand_
 A fire broke out on an express train in southern India early Saturday and killed at least 23 passengers, officials said.
 
 ### [A 5.8-magnitude earthquake strikes in the Mediterranean Sea, 50 miles (80 kilometers) south southwest of Avsallar, Turkey. ](/news/2013/12/28/a-5-8-magnitude-earthquake-strikes-in-the-mediterranean-sea-50-miles-80-kilometers-south-southwest-of-avsallar-turkey.md)
-_Context: Avsallar, Mediterranean Sea, Turkish, earthquake_
+_Context: Avsallar, Mediterranean Sea, Turkey, earthquake_
 
 ### [The Chinese icebreaker ''Xue Long'', or "Snow Dragon", was only six nautical miles away from the Russian-flagged vessel ''Akademik Shokalskiy'' when it too became obstructed by heavy ice in Antarctica. ](/news/2013/12/28/the-chinese-icebreaker-xua-la3ng-or-snow-dragon-was-only-six-nautical-miles-away-from-the-russian-flagged-vessel-akademik-shokals.md)
 _Context: Akademik Shokalskiy, Antarctica, China, Russia, Xuě Lóng, nautical miles_

@@ -7,7 +7,7 @@ _Context: State Department, terrorism_
 _Context: Israel, Israeli-Palestinian conflict, Palestinian, Palestinian Islamic Jihad, Tel Aviv, Tulkarm_
 
 ### [ Dozens of people reportedly die after a large explosion in a munitions dump in Pagja, Afghanistan 50 miles north of Kabul. ](/news/2005/05/2/dozens-of-people-reportedly-die-after-a-large-explosion-in-a-munitions-dump-in-pagja-afghanistan-50-miles-north-of-kabul.md)
-_Context: Afghan, Kabul, Pagja_
+_Context: Afghanistan, Kabul, Pagja_
 
 ### [ Guardsman Anthony John Wakefield, from Newcastle upon Tyne, has been killed in Iraq after being injured in hostile action in the southern town of Al Amarah, bringing the total of UK servicemen killed in the Iraq conflict to 87. ](/news/2005/05/2/guardsman-anthony-john-wakefield-from-newcastle-upon-tyne-has-been-killed-in-iraq-after-being-injured-in-hostile-action-in-the-southern-t.md)
 _Context: Al Amarah, Iraq, Newcastle, United Kingdom_

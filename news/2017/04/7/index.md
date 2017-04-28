@@ -4,7 +4,7 @@
 President Bashar al-Assad &#x27;choked out the lives of helpless men, women and children,&#x27; President Donald Trump said in remarks from Florida.
 
 ### [The death toll rises to five after a woman who fell into the River Thames dies in hospital. ](/news/2017/04/7/the-death-toll-rises-to-five-after-a-woman-who-fell-into-the-river-thames-dies-in-hospital.md)
-_Context: 2017 Westminster attack, River Thames_
+_Context: River Thames, last month's Westminster attack_
 
 ### [A vehicle is driven into a group of people on a street in Stockholm, Sweden, killing four people. ](/news/2017/04/7/a-vehicle-is-driven-into-a-group-of-people-on-a-street-in-stockholm-sweden-killing-four-people.md)
 A truck drove into a crowd on a shopping street and crashed into a department store in central Stockholm on Friday, killing three people and wounding eight in what the prime minister said appeared to be a terrorist attack.

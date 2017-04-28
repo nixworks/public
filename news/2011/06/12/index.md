@@ -46,7 +46,7 @@ The activists of Patanjali Yog Samiti and many non governmental organisations we
 _Context: Bangladesh_
 
 ### [Voters in Turkey go to the polls for a general election. ](/news/2011/06/12/voters-in-turkey-go-to-the-polls-for-a-general-election.md)
-_Context: Turkish, general election_
+_Context: Turkey, general election_
 
 ## [Previous Day...](/news/2011/06/11/index.md)
 

@@ -1,7 +1,7 @@
 ## [2010-09-22](/news/2010/09/22/index.md)
 
 ### [Three troops were killed when a roadside blast struck a military vehicle in Bara area of Khyber, one of the seven tribal agencies in Pakistan's restive northwest bordering Afghanistan. ](/news/2010/09/22/three-troops-were-killed-when-a-roadside-blast-struck-a-military-vehicle-in-bara-area-of-khyber-one-of-the-seven-tribal-agencies-in-pakista.md)
-_Context: Afghan, Bara, Khyber Agency, Pakistan_
+_Context: Afghanistan, Bara, Khyber Agency, Pakistan_
 
 ### [At least one person is killed and 10 injured in a shootout in Quetta, Pakistan. ](/news/2010/09/22/at-least-one-person-is-killed-and-10-injured-in-a-shootout-in-quetta-pakistan.md)
 _Context: Pakistan, Quetta_
@@ -23,10 +23,10 @@ _Context: Typhoon Fanapi, flood, southern China_
 
 ### [Two workers are killed and another is injured after a mine in Balikesir collapses. 22 workers have been killed there in the past six months. ](/news/2010/09/22/two-workers-are-killed-and-another-is-injured-after-a-mine-in-bala-kesir-collapses-22-workers-have-been-killed-there-in-the-past-six-months.md)
 ### [U.S. celebrity Paris Hilton is barred from entering Japan after pleading guilty to cocaine possession in Las Vegas, Nevada earlier in the week. ](/news/2010/09/22/u-s-celebrity-paris-hilton-is-barred-from-entering-japan-after-pleading-guilty-to-cocaine-possession-in-las-vegas-nevada-earlier-in-the-we.md)
-_Context: Japan, Las Vegas, Nevada, Nevada, Paris Hilton, United States, cocaine, pop star_
+_Context: Japan, Las Vegas, Nevada, Nevada, Paris Hilton, U.S., cocaine, pop star_
 
 ### [United States singer Eddie Fisher dies in Berkeley, California. ](/news/2010/09/22/united-states-singer-eddie-fisher-dies-in-berkeley-california.md)
-_Context: Berkeley, California, California, Eddie Fisher, United States_
+_Context: Berkeley, California, California, Eddie Fisher, U.S._
 
 ### [Russia bans arms sales to Iran, in accordance with United Nations Security Council Resolution 1929. ](/news/2010/09/22/russia-bans-arms-sales-to-iran-in-accordance-with-united-nations-security-council-resolution-1929.md)
 _Context: Iran, Russia, ban on ballistic missile tests_

@@ -25,7 +25,7 @@ _Context: China's, coal mine_
 Mexican authorities have confirmed 11 deaths from Tropical Storm Arlene and the aftermath of floods, mudslides and overflowing rivers.
 
 ### [ExxonMobil workers attempt to contain an oil spill on the Yellowstone River in the US state of Montana. ](/news/2011/07/2/exxonmobil-workers-attempt-to-contain-an-oil-spill-on-the-yellowstone-river-in-the-us-state-of-montana.md)
-_Context: ExxonMobil, Montana, Yellowstone River, oil spill_
+_Context: ExxonMobil Corporation, Montana, Yellowstone River, oil spill_
 
 ### [228 people are arrested during a large demonstration in Hong Kong amid frustration with government policies and rising property prices. ](/news/2011/07/2/228-people-are-arrested-during-a-large-demonstration-in-hong-kong-amid-frustration-with-government-policies-and-rising-property-prices.md)
 Hong Kong police said it arrested more than 200 protesters, who paralysed traffic of the central business district and refused to leave at dawn on Saturday after tens of thousands took to the streets voicing their discontent with the government.

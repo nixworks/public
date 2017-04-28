@@ -49,7 +49,7 @@ _Context: Homo floresiensis, Tolkien Estate_
 A suburban Chicago woman stabbed her 7-year-old son 100 times then turned the knife on a 5-year-old girl who witnessed the attack, killing both children
 
 ### [Afghanistan hosts its first professional men's boxing match&mdash;Hamid Rahimi versus Said Mbelwa&mdash;in Kabul. ](/news/2012/10/30/afghanistan-hosts-its-first-professional-men-s-boxing-match-mdash-hamid-rahimi-versus-said-mbelwa-mdash-in-kabul.md)
-_Context: Afghan, Hamid Rahimi, Kabul, Said Mbelwa_
+_Context: Afghanistan, Hamid Rahimi, Kabul, Said Mbelwa_
 
 ### [In the fourth round of the 2012-13 Football League Cup, Arsenal and Reading participate in a twelve-goal thriller (7-5) at the Mad Stad&mdash;with Arsenal 4-1 down by the end of the first half. ](/news/2012/10/30/in-the-fourth-round-of-the-2012a13-football-league-cup-arsenal-and-reading-participate-in-a-twelve-goal-thriller-7-5-at-the-mad-stad-md.md)
 Read a full match report of the Capital One Cup fourth round match between Reading and Arsenal at the Madejski Stadium on Tuesday, Oct 30, 2012.

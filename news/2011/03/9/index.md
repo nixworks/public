@@ -82,7 +82,7 @@ Wisconsin Gov. Scott Walker signed a bill on Friday that strips public workers o
 _Context: Detroit, Michigan, Michigan State Senator_
 
 ### [King Mohammed VI of Morocco promises ""comprehensive constitutional reform" to expand individual and collective liberties in a televised address to the nation. ](/news/2011/03/9/king-mohammed-vi-of-morocco-promises-comprehensive-constitutional-reform-to-expand-individual-and-collective-liberties-in-a-televised-add.md)
-_Context: King Mohammed VI of Morocco, Morocco_
+_Context: King Mohammed VI of Morocco, Moroccan_
 
 ### [The Governor of the US state of Illinois, Pat Quinn, signs a law banning the death penalty and commutes the sentence of 15 death row prisoners to life without parole. ](/news/2011/03/9/the-governor-of-the-us-state-of-illinois-pat-quinn-signs-a-law-banning-the-death-penalty-and-commutes-the-sentence-of-15-death-row-prisone.md)
 _Context: Governor of Illinois, Illinois, Pat Quinn, death penalty, death row_
@@ -91,7 +91,7 @@ _Context: Governor of Illinois, Illinois, Pat Quinn, death penalty, death row_
 _Context: Discovery, Florida, Kennedy Space Center, Space Shuttle_
 
 ### [The United States Food and Drug Administration approves the use of the drug Belimumab (Benlysta) to treat lupus, the first drug to be approved for this purpose in 56 years. ](/news/2011/03/9/the-united-states-food-and-drug-administration-approves-the-use-of-the-drug-belimumab-benlysta-to-treat-lupus-the-first-drug-to-be-approv.md)
-_Context: Belimumab, FDA, United States, lupus_
+_Context: Belimumab, FDA, U.S., lupus_
 
 ## [Previous Day...](/news/2011/03/8/index.md)
 

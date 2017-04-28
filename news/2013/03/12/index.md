@@ -7,7 +7,7 @@ Loyalist Syrian forces killed at least 30 army deserters in an ambush on the Dam
 Israeli troops shot to death a Palestinian man on Tuesday after he and others hurled rocks and firebombs at them in the West Bank, the military said.
 
 ### [English singer and lyricist Morrissey is diagnosed with severe pneumonia and hospitalised in San Francisco on his U.S. tour. ](/news/2013/03/12/english-singer-and-lyricist-morrissey-is-diagnosed-with-severe-pneumonia-and-hospitalised-in-san-francisco-on-his-u-s-tour.md)
-_Context: England, Morrissey, San Francisco, United States, pneumonia_
+_Context: England, Morrissey, San Francisco, U.S., pneumonia_
 
 ### [The Better Business Bureau expels the Los Angeles chapter, the nation's largest chapter, over a pay-to-play scheme. ](/news/2013/03/12/the-better-business-bureau-expels-the-los-angeles-chapter-the-nation-s-largest-chapter-over-a-pay-to-play-scheme.md)
 The Better Business Bureau chapter that predominantly served the Los Angeles area is no more. 
@@ -55,7 +55,7 @@ A US judge has entered a plea of not guilty on behalf of alleged Aurora theatre 
 New York City police officer Gilberto Valle is convicted of plotting to murder his wife, and cook and eat other women.
 
 ### [Authorities believe that a U.S. man suspected of killing his grandparents on March 8 in Renton, Washington, is barricaded in a hotel in Lincoln City, Oregon. ](/news/2013/03/12/authorities-believe-that-a-u-s-man-suspected-of-killing-his-grandparents-on-march-8-in-renton-washington-is-barricaded-in-a-hotel-in-linc.md)
-_Context: Lincoln City, March 8, Oregon, Renton, Washington, United States, Washington_
+_Context: Lincoln City, March 8, Oregon, Renton, Washington, U.S., Washington_
 
 ### [Voters in Greenland go to the polls for a parliamentary election. ](/news/2013/03/12/voters-in-greenland-go-to-the-polls-for-a-parliamentary-election.md)
 Voters go to the polls in Greenland on Tuesday, in an election dominated by the question of how the territory should exploit its mineral riches.
@@ -73,7 +73,7 @@ NASA will reveal new discoveries about Mars gleaned by Curiosity rover on March 
 Last week, Russian scientists announced the discovery of a new type of bacterial life found in the water samples collected from the ancient Lake Vostok, but on 11 March the lab confirmed that it was not the bacteria but the contamination that generated the signal.
 
 ### [Lionel Messi scores twice in FC Barcelona's historic comeback, 4-0 win over AC Milan at Camp Nou to reach quarter-finals of the 2012-13 UEFA Champions League. In the other match, Turkey's Galatasaray defeats Schalke 04 3-2 in Gelsenkirchen, Germany. ](/news/2013/03/12/lionel-messi-scores-twice-in-fc-barcelona-s-historic-comeback-4a0-win-over-ac-milan-at-camp-nou-to-reach-quarter-finals-of-the-2012a13.md)
-_Context: 2012–13 UEFA Champions League, Camp Nou, FC Barcelona, Galatasaray S.K., Gelsenkirchen, Germany, Lionel Messi, Milan, Schalke 04, Turkish, comeback, semi-finals_
+_Context: 2012–13 UEFA Champions League, Camp Nou, FC Barcelona, Galatasaray S.K., Gelsenkirchen, Germany, Lionel Messi, Milan, Schalke 04, Turkey, comeback, semi-finals_
 
 ### [Former AC Milan and Italy legend Gennaro Gattuso says he will retire from the game in the summer 2013 in order to focus on his coaching ambitions. ](/news/2013/03/12/former-ac-milan-and-italy-legend-gennaro-gattuso-says-he-will-retire-from-the-game-in-the-summer-2013-in-order-to-focus-on-his-coaching-ambi.md)
 Former Milan and Italy legend Gennaro Gattuso says he is considering retiring from the game in the Summer in order to fulfill ambitions he has to succeed as a coach.

@@ -43,7 +43,7 @@ A convicted member of the Basque separatist group ETA is to be extradited to Spa
 _Context: Akio Toyoda, Earth, Toyota_
 
 ### [Two of three Sikhs kidnapped in Khyber Agency on the Afghan border in January are recovered by Pakistan's security forces. The decapitated corpse of the other was found last week. ](/news/2010/03/1/two-of-three-sikhs-kidnapped-in-khyber-agency-on-the-afghan-border-in-january-are-recovered-by-pakistan-s-security-forces-the-decapitated-c.md)
-_Context: Afghan, Khyber Agency, Pakistan, Sikh_
+_Context: Afghanistan, Khyber Agency, Pakistan, Sikh_
 
 ### [Robert Mugabe's indiginisation law begins, with 51 per cent of each company being given to black Zimbabweans. ](/news/2010/03/1/robert-mugabe-s-indiginisation-law-begins-with-51-per-cent-of-each-company-being-given-to-black-zimbabweans.md)
 _Context: Robert Mugabe, Zimbabwe, black_

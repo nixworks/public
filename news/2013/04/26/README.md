@@ -16,13 +16,13 @@ The fire broke out in the early hours of Friday in the one-story hospital in the
 _Context: 2013 Savar building collapse, Bangladesh_
 
 ### [At least 30 people die in southern Afghanistan after a bus crashes into the wreckage of a truck attacked by Taliban insurgents. ](/news/2013/04/26/at-least-30-people-die-in-southern-afghanistan-after-a-bus-crashes-into-the-wreckage-of-a-truck-attacked-by-taliban-insurgents.md)
-_Context: Afghan, Taliban_
+_Context: Afghanistan, Taliban_
 
 ### [South Korea announces that it will withdraw its remaining workers from North Korea's Kaesong Industrial Region to protect their safety after the North Korean government rejects talks. ](/news/2013/04/26/south-korea-announces-that-it-will-withdraw-its-remaining-workers-from-north-korea-s-kaesong-industrial-region-to-protect-their-safety-after.md)
 _Context: Kaesong area, North Korea, South Korea_
 
 ### [The White House reports that the United States may have to use military action against Syria. ](/news/2013/04/26/the-white-house-reports-that-the-united-states-may-have-to-use-military-action-against-syria.md)
-_Context: Syria, United States, White House_
+_Context: Syria, U.S., White House_
 
 ### [Boston Marathon bombings suspect Dzhokhar Tsarnaev is transferred from Beth Israel Deaconess Medical Center to the federal prison facility in Fort Devens in the U.S. state of Massachusetts. ](/news/2013/04/26/boston-marathon-bombings-suspect-dzhokhar-tsarnaev-is-transferred-from-beth-israel-deaconess-medical-center-to-the-federal-prison-facility-i.md)
 _Context: Beth Israel Deaconess Medical Center, Boston Marathon bombings, Dzhokhar Tsarnaev, Fort Devens, Massachusetts, U.S., facility, federal prison_

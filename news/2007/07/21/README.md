@@ -7,7 +7,7 @@ _Context: Alan Webb_
 Radar Failure Causes Sao Paolo To Ground International Flights
 
 ### [ Italian police arrest three Moroccans and accuse them of running a small "terror school" in a small mosque near Perugia. ](/news/2007/07/21/italian-police-arrest-three-moroccans-and-accuse-them-of-running-a-small-terror-school-in-a-small-mosque-near-perugia.md)
-_Context: Italian, Morocco, Perugia_
+_Context: Italian, Moroccan, Perugia_
 
 ### [ In the UK, the Royal Air Force has one of its busiest weekends in peacetime rescuing hundreds of people from flooding after days of heavy rain lead to widespread flooding. ](/news/2007/07/21/in-the-uk-the-royal-air-force-has-one-of-its-busiest-weekends-in-peacetime-rescuing-hundreds-of-people-from-flooding-after-days-of-heavy-r.md)
 _Context: Royal Air Force, Summer 2007 United Kingdom floods, UK, flood_
@@ -22,7 +22,7 @@ _Context: Mars Exploration Rover, Mars' atmosphere, NASA_
 The deaths occurred during an American attack on a Shiite area on the outskirts of northern Baghdad late Friday and early Saturday. 
 
 ### [ The United Nations suspends a Moroccan peacekeeping contingent in the Cte d'Ivoire following allegations of widespread sexual abuse. ](/news/2007/07/21/the-united-nations-suspends-a-moroccan-peacekeeping-contingent-in-the-cote-d-ivoire-following-allegations-of-widespread-sexual-abuse.md)
-_Context: Côte d'Ivoire, Morocco, United Nations, peacekeepers_
+_Context: Côte d'Ivoire, Moroccan, United Nations, peacekeepers_
 
 ### [ Somali pirates demand $1.5 million in ransom for the release of a Danish freighter and its crew. ](/news/2007/07/21/somali-pirates-demand-1-5-million-in-ransom-for-the-release-of-a-danish-freighter-and-its-crew.md)
 Pirates holding a Danish freighter off the Somali coast are demanding a $US1.5 million ($1.7 million) ransom for the release of the ship and its crew, according to a Kenyan maritime official.

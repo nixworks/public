@@ -76,7 +76,7 @@ Six men are now being questioned by police in London following reports of a thre
 _Context: Mogadishu, police_
 
 ### [A former scientist at the Los Alamos National Laboratory and his wife are indicted on charges of trying to provide information about the United States nuclear program to Venezuela. ](/news/2010/09/17/a-former-scientist-at-the-los-alamos-national-laboratory-and-his-wife-are-indicted-on-charges-of-trying-to-provide-information-about-the-uni.md)
-_Context: Los Alamos National Laboratory, United States, Venezuela_
+_Context: Los Alamos National Laboratory, U.S., Venezuela_
 
 ### [Iranian security forces reportedly surround Mir-Hossein Mousavi's office in Tehran. ](/news/2010/09/17/iranian-security-forces-reportedly-surround-mir-hossein-mousavi-s-office-in-tehran.md)
 Iranian security forces surround the office of opposition leader Mir Hossein Mousavi, in effect closing it, his supporters say.
@@ -85,7 +85,7 @@ Iranian security forces surround the office of opposition leader Mir Hossein Mou
 Russia&#039;s fractured democratic opposition announced plans to unite yesterday, with the goal of offering a single candidate to stand for presidential elections due in 2012, and breaking the stranglehold of Vladimir Putin over Russian politics.
 
 ### [Afghan police set up extra security checkpoints across Afghanistan to prepare for Taliban attacks on voting in the parliamentary election on Saturday. ](/news/2010/09/17/afghan-police-set-up-extra-security-checkpoints-across-afghanistan-to-prepare-for-taliban-attacks-on-voting-in-the-parliamentary-election-on.md)
-_Context: Afghan, Taliban, parliamentary election, police, security checks_
+_Context: Afghanistan, Taliban, parliamentary election, police, security checks_
 
 ### [The Prime Minister of Japan Naoto Kan announces a Ministerial reshuffle with Seiji Maehara announced as the new Minister for Foreign Affairs. ](/news/2010/09/17/the-prime-minister-of-japan-naoto-kan-announces-a-ministerial-reshuffle-with-seiji-maehara-announced-as-the-new-minister-for-foreign-affairs.md)
 _Context: Japanese Foreign Minister, Naoto Kan, Prime Minister, Seiji Maehara, forming a government_

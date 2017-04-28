@@ -1,7 +1,7 @@
 ## [2016-04-12](/news/2016/04/12/index.md)
 
 ### [  The Taliban announces its annual spring offensive to be named "Operation Omari". ](/news/2016/04/12/the-taliban-announces-its-annual-spring-offensive-to-be-named-operation-omari.md)
-_Context: Operation Omari, Taliban, War in Afghanistan_
+_Context: Operation Omari, Taliban, War in Afghanistan (2015–present)_
 
 ### [  A car bomb attack on a Turkish gendarmerie in the town of Hani kills at least two people and injures 50. ](/news/2016/04/12/a-car-bomb-attack-on-a-turkish-gendarmerie-in-the-town-of-hani-kills-at-least-two-people-and-injures-50.md)
 _Context: Hani, PKK rebellion (2015–present), Turkish police, car bomb, gendarmerie_

@@ -10,7 +10,7 @@ Israel and the Palestinians begin a fresh five-day ceasefire in Gaza, but immedi
 The UN declares its highest level of emergency in Iraq as a humanitarian crisis follows the rapid advance by Islamic State militants.
 
 ### [Taliban  insurgency:A roadside bomb detonates next to a police car in Laghman Province, Afghanistan killing 3 police officers and injuring another 4. ](/news/2014/08/14/taliban-insurgency-pa-roadside-bomb-detonates-next-to-a-police-car-in-laghman-province-afghanistan-killing-3-police-officers-and-injuring.md)
-_Context: Afghan, Laghman Province, Taliban insurgency_
+_Context: Afghanistan, Laghman Province, Taliban insurgency_
 
 ### [Pope Francis begins a five day visit to South Korea. ](/news/2014/08/14/pope-francis-begins-a-five-day-visit-to-south-korea.md)
 Pope Francis has arrived in Seoul looking to fuel a new era of Catholic growth in Asia - a mission fraught with complex political challenges but huge potential rewards.

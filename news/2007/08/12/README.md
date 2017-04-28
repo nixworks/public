@@ -7,7 +7,7 @@ _Context: Gibraltar, M/V ''New Flame'', bulk carrier, oil tanker_
 _Context: African Union, Darfur, United Nations_
 
 ### [ A clash between Taliban militants and Afghan security forces in Kandahar province results in nine militants dead with five police dying in a bomb. ](/news/2007/08/12/a-clash-between-taliban-militants-and-afghan-security-forces-in-kandahar-province-results-in-nine-militants-dead-with-five-police-dying-in.md)
-_Context: Afghan, Kandahar, Taliban, bomb_
+_Context: Afghanistan, Kandahar, Taliban, bomb_
 
 ### [ Peru issues a map of outlining its claim to maritime territory also claimed by Chile. ](/news/2007/08/12/peru-issues-a-map-of-outlining-its-claim-to-maritime-territory-also-claimed-by-chile.md)
 _Context: Chile, Peru_
@@ -34,7 +34,7 @@ _Context: PGA Championship, Southern Hills Country Club, Tiger Woods, Tulsa, Okl
 _Context: South Africa, Zimbabwe, refugee camp_
 
 ### [ People claiming to be from Turkey attack the United Nations website forcing some sections to be taken offline. ](/news/2007/08/12/people-claiming-to-be-from-turkey-attack-the-united-nations-website-forcing-some-sections-to-be-taken-offline.md)
-_Context: Turkish, United Nations_
+_Context: Turkey, United Nations_
 
 ### [ Nouri al-Maliki, the Prime Minister of Iraq, calls for emergency talks with Iraq's political leaders to try to save his national unity government. ](/news/2007/08/12/nouri-al-maliki-the-prime-minister-of-iraq-calls-for-emergency-talks-with-iraq-s-political-leaders-to-try-to-save-his-national-unity-gove.md)
 Iraqi Prime Minister Nouri al-Maliki has called for the senior leaders from Iraq&#039;s bitterly divided communities to hold crisis talks aimed at saving his beleaguered national unity government.

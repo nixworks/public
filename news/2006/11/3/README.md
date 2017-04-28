@@ -7,13 +7,13 @@ Get the latest breaking news across the U.S. on ABCNews.com
 _Context: Bob Ney, Jack Abramoff, Ohio, U.S. House_
 
 ### [ The U.S. National Transportation Safety Board states that a stiff wind blew the plane carrying New York Yankees pitcher Cory Lidle off-course and into an apartment building in New York City. ](/news/2006/11/3/the-u-s-national-transportation-safety-board-states-that-a-stiff-wind-blew-the-plane-carrying-new-york-yankees-pitcher-cory-lidle-off-cour.md)
-_Context: Cory Lidle, National Transportation Safety Board, New York Yankees, New York's, United States, into an apartment building_
+_Context: Cory Lidle, National Transportation Safety Board, New York Yankees, New York's, U.S., into an apartment building_
 
 ### [ The World Meteorological Organisation reports that greenhouse gases in the atmosphere reached a record high in 2005 and are still increasing. ](/news/2006/11/3/the-world-meteorological-organisation-reports-that-greenhouse-gases-in-the-atmosphere-reached-a-record-high-in-2005-and-are-still-increasin.md)
 _Context: World Meteorological Organisation, greenhouse gases_
 
 ### [ A draft European Commission report raises new doubts about Turkey's bid to join the European Union. ](/news/2006/11/3/a-draft-european-commission-report-raises-new-doubts-about-turkey-s-bid-to-join-the-european-union.md)
-_Context: Accession of Turkey to the European Union, European Commission, European Union, Turkish_
+_Context: Accession of Turkey to the European Union, European Commission, European Union, Turkey_
 
 ### [ Trevor Berbick's nephew Harold Berbick is charged with his uncle's murder along with another man in Jamaica. ](/news/2006/11/3/trevor-berbick-s-nephew-harold-berbick-is-charged-with-his-uncle-s-murder-along-with-another-man-in-jamaica.md)
 _Context: Jamaica, Trevor Berbick_

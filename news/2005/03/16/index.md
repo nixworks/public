@@ -37,7 +37,7 @@ _Context: Frederick Chiluba, Zambia, anti-corruption_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Iran publicly executes serial killer Mohammad Bijeh, nicknamed the "Tehran Desert Vampire". ](/news/2005/03/16/iran-publicly-executes-serial-killer-mohammad-bijeh-nicknamed-the-tehran-desert-vampire.md)
-_Context: Iran, Mohammad Bijeh, Serial killer_
+_Context: Iran, Mohammad Bijeh, serial killer_
 
 ### [ In Japan, Hitachi unveils two examples of its wheeled robot Emiew. ](/news/2005/03/16/in-japan-hitachi-unveils-two-examples-of-its-wheeled-robot-emiew.md)
 Get the latest technology news, including new product releases, sales figures and tech industry performance information at Reuters.com.

@@ -19,7 +19,7 @@ _Context: Kassym-Jomart Tokayev, Kazakhstan political shakeup of 2007, Nursultan
 _Context: U.S., al-Qaeda, capture, two years of helping_
 
 ### [ In the ongoing Operation Mountain Fury, NATO forces kill as many as 150 Taliban militants in Afghanistan's Paktika province. ](/news/2007/01/11/in-the-ongoing-operation-mountain-fury-nato-forces-kill-as-many-as-150-taliban-militants-in-afghanistan-s-paktika-province.md)
-_Context: Afghan, NATO, Operation Mountain Fury, Paktika Province, Taliban_
+_Context: Afghanistan, NATO, Operation Mountain Fury, Paktika Province, Taliban_
 
 ### [ The U.S. Defense Department reports that United States Department of Defense contractors, while traveling through Canada, have had Canadian coins with radio transmitters inside planted on them by unknown people.  The transmitters could be used to track the locations of the contractors. ](/news/2007/01/11/the-u-s-defense-department-reports-that-united-states-department-of-defense-contractors-while-traveling-through-canada-have-had-canadian.md)
 _Context: Canadian, Canadian coin, Defense Department, U.S. Defense Department, radio transmitter_
@@ -28,7 +28,7 @@ _Context: Canadian, Canadian coin, Defense Department, U.S. Defense Department, 
 _Context: Adam Air, Flight 574_
 
 ### [ January 2007 North American Ice Storm hits parts of North America including United States and Canada, causing 74 deaths across 12 U.S. states and three Canadian provinces, and caused hundreds of thousands of residents across the U.S and Canada to lose electric power. ](/news/2007/01/11/january-2007-north-american-ice-storm-hits-parts-of-north-america-including-united-states-and-canada-causing-74-deaths-across-12-u-s-stat.md)
-_Context: Canadian, January 2007 North American Ice Storm, North America, United States_
+_Context: Canadian, January 2007 North American Ice Storm, North America, U.S._
 
 ## [Previous Day...](/news/2007/01/10/index.md)
 

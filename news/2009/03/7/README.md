@@ -1,7 +1,7 @@
 ## [2009-03-7](/news/2009/03/7/index.md)
 
 ### [ Morocco terminates diplomatic relations with Iran. ](/news/2009/03/7/morocco-terminates-diplomatic-relations-with-iran.md)
-_Context: Iran, Morocco, diplomatic_
+_Context: Iran, Moroccan, diplomatic_
 
 ### [ The United Kingdom's government increases its ownership stake in Lloyds Banking Group from 43% to at least 60%. ](/news/2009/03/7/the-united-kingdom-s-government-increases-its-ownership-stake-in-lloyds-banking-group-from-43-to-at-least-60.md)
 _Context: His Majesty's Government, Lloyds Banking Group, United Kingdom_

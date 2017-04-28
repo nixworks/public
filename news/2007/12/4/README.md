@@ -10,7 +10,7 @@ The U.S. Senate on Tuesday overwhelmingly approved a free trade pact with Peru, 
 _Context: David Southall, General Medical Council, United Kingdom, pediatric_
 
 ### [ Turkish President Abdullah Gul signs a nuclear energy bill, allowing bids to be made for Turkey's first nuclear reactor. ](/news/2007/12/4/turkish-president-abdullah-ga1-4l-signs-a-nuclear-energy-bill-allowing-bids-to-be-made-for-turkey-s-first-nuclear-reactor.md)
-_Context: Abdullah Gül, President, Turkish_
+_Context: Abdullah Gül, President, Turkey_
 
 ## [Previous Day...](/news/2007/12/3/index.md)
 

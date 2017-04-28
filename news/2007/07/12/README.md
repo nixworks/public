@@ -34,7 +34,7 @@ _Context: Government of Iraq, Iraq, Iraq War, U.S. Congress, interim_
 _Context: National Counterterrorism Center, al-Qaeda_
 
 ### [ Six Afghan policemen are killed by an improvised explosive device in the Khost Province. Another IED kills two civilians in the Paktika Province. ](/news/2007/07/12/six-afghan-policemen-are-killed-by-an-improvised-explosive-device-in-the-khost-province-another-ied-kills-two-civilians-in-the-paktika-pro.md)
-_Context: Afghan, IED, Khost, Paktika Province_
+_Context: Afghanistan, IED, Khost, Paktika Province_
 
 ### [ An Israeli soldier is killed by Hamas forces in the Gaza Strip. It is the first Israeli combat casualty since November 2006. ](/news/2007/07/12/an-israeli-soldier-is-killed-by-hamas-forces-in-the-gaza-strip-it-is-the-first-israeli-combat-casualty-since-november-2006.md)
 JERUSALEM, July 12 — An Israeli soldier was killed early this morning during a military incursion in the central Gaza Strip, an army spokesman said. He was the first Israeli killed in combat since November 2006.
@@ -61,7 +61,7 @@ _Context: Colombo, Tamil Tiger, Thoppigala, government_
 _Context: Charles G. Taylor, Liberia, Parliament, President of Liberia, government_
 
 ### [ At a press conference, U.S. President George W. Bush admits for the first time that someone in his administration may have leaked the name of CIA agent Valerie Plame. ](/news/2007/07/12/at-a-press-conference-u-s-president-george-w-bush-admits-for-the-first-time-that-someone-in-his-administration-may-have-leaked-the-name.md)
-_Context: CIA leak scandal, Central Intelligence Agency, George W. Bush, U.S. President, United States, Valerie Plame, press conference_
+_Context: CIA leak scandal, Central Intelligence Agency, George W. Bush, U.S., U.S. President, Valerie Plame, press conference_
 
 ## [Previous Day...](/news/2007/07/11/index.md)
 

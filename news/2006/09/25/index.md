@@ -4,7 +4,7 @@
 _Context: Hezbollah, Israel, Southern Lebanon, UN, cluster bomb_
 
 ### [ Iranian President Mahmoud Ahmadinejad says that rabbis are more critical of Zionism and the "Zionist regime" than he has been. He expresses hope that "God willing, with the force of God behind it, we shall soon experience a world without the United States and Zionism." ](/news/2006/09/25/iranian-president-mahmoud-ahmadinejad-says-that-rabbis-are-more-critical-of-zionism-and-the-zionist-regime-than-he-has-been-he-expresses.md)
-_Context: Iranian President, Mahmoud Ahmadinejad, United States, Zionist, government_
+_Context: Iranian President, Mahmoud Ahmadinejad, U.S., Zionist, government_
 
 ### [ Condoleezza Rice, the United States Secretary of State, and Barry Lowenkron, the assistant secretary of state for human rights, meet with Kasymzhomart Tokayev, the foreign minister of Kazakhstan. They discussed the War in Afghanistan and Iraq and the Nazarbayev administration's desire to head the Organization for Security and Cooperation in Europe in 2009, which the United States Government opposes. ](/news/2006/09/25/condoleezza-rice-the-united-states-secretary-of-state-and-barry-lowenkron-the-assistant-secretary-of-state-for-human-rights-meet-with-k.md)
 _Context: Condoleezza Rice, Foreign Minister, Kasymzhomart Tokayev, Kazakhstan, Nursultan Nazarbayev's, Organization for Security and Cooperation in Europe, United States Secretary of State, United States government, War in Afghanistan (2001–present), War in Iraq_
@@ -22,7 +22,7 @@ _Context: 28 September, Maria Fyodorovna, Nicholas II, Peter and Paul Cathedral,
 _Context: Kismayo, Sharia, Somalia, radical Islamists_
 
 ### [ Two gunmen kill Safia Ahmed-jan, the provincial director of Afghanistan's Ministry of Women's Affairs outside her home in Kandahar. ](/news/2006/09/25/two-gunmen-kill-safia-ahmed-jan-the-provincial-director-of-afghanistan-s-ministry-of-women-s-affairs-outside-her-home-in-kandahar.md)
-_Context: Afghan, Kandahar, Safia Ahmed-jan_
+_Context: Afghanistan, Kandahar, Safia Ahmed-jan_
 
 ### [ Chen Liangyu, the Shanghai Communist Party of China General Secretary and a senior member of the Shanghai clique, is dismissed for corruption. ](/news/2006/09/25/chen-liangyu-the-shanghai-communist-party-of-china-general-secretary-and-a-senior-member-of-the-shanghai-clique-is-dismissed-for-corrupti.md)
 Find the latest business news on Wall Street, jobs and the economy, the housing market, personal finance and money investments and much more on ABC News

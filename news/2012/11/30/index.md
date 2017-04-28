@@ -16,7 +16,7 @@ _Context: Russia, Siberian, Tomsk, gas explosion_
 _Context: Germany, Stuttgart-Feuerbach station, freight train, railway platform_
 
 ### [A murder-suicide attack occurs in Casper, Wyoming, United States. Two people are murdered, including a female computer science instructor (off campus), and a male faculty member that she'd been seeing (in a classroom) at Casper College, before the perpetrator, the male professor's son, killed himself in the classroom. ](/news/2012/11/30/a-murderasuicide-attack-occurs-in-casper-wyoming-united-states-two-people-are-murdered-including-a-female-computer-science-instructor.md)
-_Context: Casper College, Casper, Wyoming, United States, murder–suicide_
+_Context: Casper College, Casper, Wyoming, U.S., murder–suicide_
 
 ### [A New Hampshire federal grand jury indicts David Kwiatkowski, 33, a former employee of Exeter Hospital in Exeter, New Hampshire, on fraud and product-tampering charges in connection with an outbreak of hepatitis C that sickened more than 30 people and caused concern in 7 states. ](/news/2012/11/30/a-new-hampshire-federal-grand-jury-indicts-david-kwiatkowski-33-a-former-employee-of-exeter-hospital-in-exeter-new-hampshire-on-fraud-an.md)
 _Context: Exeter, New Hampshire, New Hampshire, fraud, grand jury, hepatitis C_

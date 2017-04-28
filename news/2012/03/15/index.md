@@ -28,13 +28,13 @@ Former PM Margaret Thatcher was told a senior Merseyside police officer blamed &
 A Ugandan gay rights group sues a US minister accusing him of involvement in a campaign to persecute gay people in the East African country.
 
 ### [A free trade agreement between the United States and South Korea comes into effect. ](/news/2012/03/15/a-free-trade-agreement-between-the-united-states-and-south-korea-comes-into-effect.md)
-_Context: Free Trade Agreement, South Korea, United States_
+_Context: Free Trade Agreement, South Korea, U.S._
 
 ### [The Government of Papua New Guinea reacts angrily after the new Australian Minister for Foreign Affairs Bob Carr threatens the imposition of sanctions if elections are delayed. ](/news/2012/03/15/the-government-of-papua-new-guinea-reacts-angrily-after-the-new-australian-minister-for-foreign-affairs-bob-carr-threatens-the-imposition-of.md)
 PAPUA New Guinea has responded with dismay over Bob Carr&#039;s surprise threat to sanction the country, calling in Australia&#039;s top diplomat in Port Moresby for a dressing down.
 
 ### [Morocco is to amend a law allowing rapists to marry their victims. ](/news/2012/03/15/morocco-is-to-amend-a-law-allowing-rapists-to-marry-their-victims.md)
-_Context: Morocco, rape_
+_Context: Moroccan, rape_
 
 ### [Former Governor of Illinois Rod Blagojevich arrives at a US federal prison in Colorado to begin a 14 year sentence on corruption charges. ](/news/2012/03/15/former-governor-of-illinois-rod-blagojevich-arrives-at-a-us-federal-prison-in-colorado-to-begin-a-14-year-sentence-on-corruption-charges.md)
 Convicted former Illinois Gov. Rod Blagojevich surrendered at a Colorado prison on Thursday to begin serving a 14-year sentence on corruption charges, with TV news cameras tracking his every step.

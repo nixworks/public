@@ -1,7 +1,7 @@
 ## [2010-05-26](/news/2010/05/26/index.md)
 
 ### [More than 80 students are sickened in a girls' school in Kunduz, Afghanistan, in a poison gas attack suspected to have been carried out by Taliban assailants whose version of Islam is opposed to girls being educated.](/news/2010/05/26/more-than-80-students-are-sickened-in-a-girls-school-in-kunduz-afghanistan-in-a-poison-gas-attack-suspected-to-have-been-carried-out-by-t.md)
-_Context: Afghan, Islam, Kunduz, Taliban, poison gas_
+_Context: Afghanistan, Islam, Kunduz, Taliban, poison gas_
 
 ### [International Criminal Court judges tell the UN Security Council that the Sudanese government is protecting suspects wanted for war crimes in Darfur instead of arresting them to face trial. ](/news/2010/05/26/international-criminal-court-judges-tell-the-un-security-council-that-the-sudanese-government-is-protecting-suspects-wanted-for-war-crimes-i.md)
 Judges at the International Criminal Court want action on crimes committed during the Darfur crisis where more than 300,000 have died since 2003
@@ -52,7 +52,7 @@ _Context: 1st congressional district, Charles Djou, Hawaii, U.S. House_
 The Atlantis space shuttle touches down at Kennedy Space Center in Florida after what looks to have been its final mission.
 
 ### [Elton John makes his Moroccan debut at the Mawazine festival in Rabat, ignoring calls for him to be banned by Islamists who feared he would offend public morals. ](/news/2010/05/26/elton-john-makes-his-moroccan-debut-at-the-mawazine-festival-in-rabat-ignoring-calls-for-him-to-be-banned-by-islamists-who-feared-he-would.md)
-_Context: Elton John, Mawazine, Morocco, Rabat_
+_Context: Elton John, Mawazine, Moroccan, Rabat_
 
 ### [Virtual band Gorillaz are announced to replace U2 as headliners of the Glastonbury Festival 2010. ](/news/2010/05/26/virtual-band-gorillaz-are-announced-to-replace-u2-as-headliners-of-the-glastonbury-festival-2010.md)
 _Context: Glastonbury Festival 2010, Gorillaz, U2_

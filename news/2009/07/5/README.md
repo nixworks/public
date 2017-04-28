@@ -10,7 +10,7 @@ _Context: India, Madhya Pradesh_
 _Context: Florida, Orlando, Florida, Walt Disney World, monorail collision_
 
 ### [ The Fellowship of Confessing Anglicans claims the debate over homosexuality may split the Church of England the way it has split the Episcopal Church in the United States. ](/news/2009/07/5/the-fellowship-of-confessing-anglicans-claims-the-debate-over-homosexuality-may-split-the-church-of-england-the-way-it-has-split-the-episco.md)
-_Context: Church of England, Fellowship of Confessing Anglicans, U.S. branch of the Communion, United States, homosexuality_
+_Context: Church of England, Fellowship of Confessing Anglicans, U.S., U.S. branch of the Communion, homosexuality_
 
 ### [ An Irish government delegation arrives in Cairo to be briefed on the Sudan kidnappings. ](/news/2009/07/5/an-irish-government-delegation-arrives-in-cairo-to-be-briefed-on-the-sudan-kidnappings.md)
 _Context: Cairo, Ireland, Sudan_
@@ -22,7 +22,7 @@ _Context: 2009 Wimbledon Championships, Andy Roddick, Roger Federer, men's singl
 _Context: Iran, Tehran, United Kingdom_
 
 ### [ Two British service personnel participating in Operation ''Panther's Claw'' are killed in separate attacks in southern Afghanistan. ](/news/2009/07/5/two-british-service-personnel-participating-in-operation-panther-s-claw-are-killed-in-separate-attacks-in-southern-afghanistan.md)
-_Context: Afghan, Operation Panther's Claw, United Kingdom_
+_Context: Afghanistan, Operation Panther's Claw, United Kingdom_
 
 ### [ Five people die in an explosion outside a Catholic cathedral in Cotabato, Mindanao, Philippines. ](/news/2009/07/5/five-people-die-in-an-explosion-outside-a-catholic-cathedral-in-cotabato-mindanao-philippines.md)
 A bomb exploded outside a church in the southern Philippines during Sunday morning Mass, killing five people and wounding 45, &hellip;

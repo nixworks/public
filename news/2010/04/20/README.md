@@ -16,7 +16,7 @@ _Context: Bishop of Augsburg, Walter Mixa_
 _Context: Argentina, Reynaldo Bignone_
 
 ### [A New York businessman, Abdul Tawala Ibn Ali Alishtari is sentenced to 10 years in prison for funneling money to a terrorism training camp in Afghanistan. ](/news/2010/04/20/a-new-york-businessman-abdul-tawala-ibn-ali-alishtari-is-sentenced-to-10-years-in-prison-for-funneling-money-to-a-terrorism-training-camp-i.md)
-_Context: Abdul Tawala Ibn Ali Alishtari, Afghan, New York, terrorism training camp_
+_Context: Abdul Tawala Ibn Ali Alishtari, Afghanistan, New York, terrorism training camp_
 
 ### [Dozens of people gather in central Cairo in a rare protest against the use of force on pro-democracy demonstrations which "pose a threat to the national security". ](/news/2010/04/20/dozens-of-people-gather-in-central-cairo-in-a-rare-protest-against-the-use-of-force-on-pro-democracy-demonstrations-which-pose-a-threat-to.md)
 _Context: Cairo_
@@ -40,7 +40,7 @@ Kurmanbek Bakiyev and three family members under government protection in Minsk.
 Britain has been accused of complicity in the torture of Taliban suspects arrested and handed over to the Afghan security forces to face &quot;horrible abuse&quot;.
 
 ### [Deputy Mayor of Kandahar Azizollah Yarmal, Afghanistan is shot dead while praying at a mosque. ](/news/2010/04/20/deputy-mayor-of-kandahar-azizollah-yarmal-afghanistan-is-shot-dead-while-praying-at-a-mosque.md)
-_Context: Afghan, Azizollah Yarmal, Kandahar, mosque_
+_Context: Afghanistan, Azizollah Yarmal, Kandahar, mosque_
 
 ### [Repeat polls for Sri Lanka's April parliamentary election are held in Nawalapitiya and Trincomalee where ballots were annulled due to violence. ](/news/2010/04/20/repeat-polls-for-sri-lanka-s-april-parliamentary-election-are-held-in-nawalapitiya-and-trincomalee-where-ballots-were-annulled-due-to-violen.md)
 _Context: Nawalapitiya, Sri Lanka, Trincomalee, parliamentary election_

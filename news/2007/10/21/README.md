@@ -4,7 +4,7 @@
 _Context: Samoa, Tokelau, Tokelauan self-determination referendum_
 
 ### [ Turkish people vote in favor of a constitutional referendum on electoral reform with a 69% majority. ](/news/2007/10/21/turkish-people-vote-in-favor-of-a-constitutional-referendum-on-electoral-reform-with-a-69-majority.md)
-_Context: Turkish, constitutional referendum, electoral reform_
+_Context: Turkey, constitutional referendum, electoral reform_
 
 ### [ Voters go to the polls in Slovenia to elect a new President, with Lojze Peterle winning most votes but not a majority. A runoff between him and Danilo Trk will be held on November 11. ](/news/2007/10/21/voters-go-to-the-polls-in-slovenia-to-elect-a-new-president-with-lojze-peterle-winning-most-votes-but-not-a-majority-a-runoff-between-him.md)
 _Context: 2007 Slovenian presidential elections, Danilo Türk, Lojze Peterle, November 11, President of Slovenia, Slovenia, second round_
@@ -16,7 +16,7 @@ _Context: 2007 Royal London Watches Grand Prix snooker tournament, Marco Fu, Ron
 _Context: Kurmanbek Bakiyev, Kyrgyzstan, President, constitutional changes in a referendum_
 
 ### [ Speaking at the Washington Institute for Near East Policy, United States Vice President Dick Cheney states: "The United States joins other nations in sending a clear message - we will not allow Iran to have a nuclear weapon." ](/news/2007/10/21/speaking-at-the-washington-institute-for-near-east-policy-united-states-vice-president-dick-cheney-states-the-united-states-joins-other.md)
-_Context: Dick Cheney, Iran, U.S. Vice President, United States, Washington Institute for Near East Policy, nuclear warheads_
+_Context: Dick Cheney, Iran, U.S., U.S. Vice President, Washington Institute for Near East Policy, nuclear warheads_
 
 ### [ A fire in an illegal shoe factory kills at least 34 people in Putian in Fujian province, China. ](/news/2007/10/21/a-fire-in-an-illegal-shoe-factory-kills-at-least-34-people-in-putian-in-fujian-province-china.md)
 _Context: China, Fujian, Putian, factory_

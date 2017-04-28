@@ -22,7 +22,7 @@ A teenager accused of assaulting a white schoolmate in a small Louisiana town wa
 _Context: The Global Fund to Fight AIDS, Tuberculosis and Malaria, U.S. dollar_
 
 ### [ Four employees of the International Red Cross, including two foreigners, are abducted in Afghanistan's Wardak province. ](/news/2007/09/27/four-employees-of-the-international-red-cross-including-two-foreigners-are-abducted-in-afghanistan-s-wardak-province.md)
-_Context: Afghan, International Red Cross, Wardak province_
+_Context: Afghanistan, International Red Cross, Wardak province_
 
 ### [ President of Pakistan Pervez Musharraf files nomination for the upcoming Pakistan Presidential Election to be held on October 6, 2007 election without his army rank. ](/news/2007/09/27/president-of-pakistan-pervez-musharraf-files-nomination-for-the-upcoming-pakistan-presidential-election-to-be-held-on-october-6-2007-elect.md)
 _Context: 2007 Pakistani presidential election, Pakistan, Pervez Musharraf, President_

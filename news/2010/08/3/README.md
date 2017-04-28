@@ -22,7 +22,7 @@ _Context: Aqaba, Egypt, Jordan, Sinai_
 _Context: Baghdad, Iraq_
 
 ### [A battle erupts as the Taliban attacks the Kandahar Air Field, the main NATO base in southern Afghanistan. The battle lasts an hour, after which the Taliban flee. ](/news/2010/08/3/a-battle-erupts-as-the-taliban-attacks-the-kandahar-air-field-the-main-nato-base-in-southern-afghanistan-the-battle-lasts-an-hour-after-w.md)
-_Context: Afghan, Kandahar Air Field, NATO, Taliban_
+_Context: Afghanistan, Kandahar Air Field, NATO, Taliban_
 
 ### [A worker kills 9 people, including himself, in a workplace incident at Hartford Distributors Inc in Connecticut, United States. ](/news/2010/08/3/a-worker-kills-9-people-including-himself-in-a-workplace-incident-at-hartford-distributors-inc-in-connecticut-united-states.md)
 Nine&#x20;people&#x20;were&#x20;killed&#x20;in&#x20;the&#x20;US&#x20;state&#x20;of&#x20;Connecticut&#x20;on&#x20;Tuesday&#x20;when&#x20;a&#x20;disgruntled&#x20;beer&#x20;warehouse&#x20;employee&#x20;opened&#x20;fire&#x20;on&#x20;his&#x20;co-workers&#x20;before&#x20;shooting&#x20;himself.
@@ -61,7 +61,7 @@ Mexicana Airlines, the busiest foreign carrier at Los Angeles International Airp
 Hezbollah chief Sheikh Hassan Nasrallah accuses Israel of being behind the 2005 assassination of ex-Lebanese PM Rafik Hariri.
 
 ### [Turkey's Foreign Ministry summons Israel's ambassador after the Israeli Defence Minister Ehud Barak accuses the new head of Turkish intelligence of being a "friend of Iran". ](/news/2010/08/3/turkey-s-foreign-ministry-summons-israel-s-ambassador-after-the-israeli-defence-minister-ehud-barak-accuses-the-new-head-of-turkish-intellig.md)
-_Context: Defense Minister, Ehud Barak, Iran, Israel, Turkish, ambassador, foreign ministry_
+_Context: Defense Minister, Ehud Barak, Iran, Israel, Turkey, ambassador, foreign ministry_
 
 ### [The 41st annual Pacific Islands Forum Leaders Summit opens in Port Vila, Vanuatu. ](/news/2010/08/3/the-41st-annual-pacific-islands-forum-leaders-summit-opens-in-port-vila-vanuatu.md)
 _Context: Pacific Islands Forum Leaders Summit, Port Vila, Vanuatu_
@@ -70,7 +70,7 @@ _Context: Pacific Islands Forum Leaders Summit, Port Vila, Vanuatu_
 _Context: Asif Ali Zardari, David Cameron, President, United Kingdom_
 
 ### [Zimbabwe requests apologies from American, German and European Union envoys who walked out of the burial ceremony for President Robert Mugabe's sister; they refuse to apologise. ](/news/2010/08/3/zimbabwe-requests-apologies-from-american-german-and-european-union-envoys-who-walked-out-of-the-burial-ceremony-for-president-robert-mugab.md)
-_Context: European Union, Germany, President of Zimbabwe, Robert Mugabe, United States, Zimbabwe, funeral_
+_Context: European Union, Germany, President of Zimbabwe, Robert Mugabe, U.S., Zimbabwe, funeral_
 
 ### [Iran rejects Brazil's offer to grant political asylum to Sakineh Mohammadi Ashtiani, who has been sentenced to death in Iran for adultery. ](/news/2010/08/3/iran-rejects-brazil-s-offer-to-grant-political-asylum-to-sakineh-mohammadi-ashtiani-who-has-been-sentenced-to-death-in-iran-for-adultery.md)
 _Context: Brazil, Iran, Sakineh Mohammadi Ashtiani, asylum_

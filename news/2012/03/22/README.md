@@ -7,10 +7,10 @@ A police sniper shot and killed the gunman who carried out a spate of murders in
 Mutinous soldiers said they seized power in Mali on Thursday and ordered its borders closed, threatening to reignite conflict in a Saharan region shaken by the turmoil in Libya.
 
 ### [Syrian uprising:Syrian armed forces continue to shell the city of Hama and at least 59 civilians are reported killed across Syria, in Idlib, Homs, Hama, Daraa, Lattakia, Aleppo and Damascus. ](/news/2012/03/22/syrian-uprising-psyrian-armed-forces-continue-to-shell-the-city-of-hama-and-at-least-59-civilians-are-reported-killed-across-syria-in-idlib.md)
-_Context: 2011–2012 Syrian uprising, Aleppo, Damascus, Daraa, Hama, Homs, Idlib, Lattakia, Syrian Armed Forces_
+_Context: 2011–2012 Syrian uprising, Aleppo, Damascus, Daraa, Hama, Homs, Idlib, Lattakia, military_
 
 ### [12 people are killed in an operation against PKK rebels in southeastern Turkey. ](/news/2012/03/22/12-people-are-killed-in-an-operation-against-pkk-rebels-in-southeastern-turkey.md)
-_Context: Kurdistan Workers' Party, Turkish_
+_Context: Kurdistan Workers' Party, Turkey_
 
 ### [Several thousands of students in Montreal, Canada protest against proposed post-secondary education tuition hikes. ](/news/2012/03/22/several-thousands-of-students-in-montreal-canada-protest-against-proposed-post-secondary-education-tuition-hikes.md)
 _Context: Montreal, Canada_

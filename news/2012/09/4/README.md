@@ -25,7 +25,7 @@ _Context: German, Lufthansa_
 _Context: Amritsar, McDonald's, Vaishno Devi, vegetarian_
 
 ### [A passenger bus traveling between Marrakesh and Ouarzazate crashes in a ravine in southern Morocco, killing at least 42 people and injuring up to 25 others. ](/news/2012/09/4/a-passenger-bus-traveling-between-marrakesh-and-ouarzazate-crashes-in-a-ravine-in-southern-morocco-killing-at-least-42-people-and-injuring.md)
-_Context: Marrakesh, Morocco, Ouarzazate_
+_Context: Marrakesh, Moroccan, Ouarzazate_
 
 ### [U.S. Secretary of State Clinton meets China's Foreign Minister Yang in Beijing. ](/news/2012/09/4/u-s-secretary-of-state-clinton-meets-china-s-foreign-minister-yang-in-beijing.md)
 China warned the United States not to get involved in South China Sea territorial disputes on Tuesday as U.S. Secretary of State Hillary Clinton arrived in Beijing pledging to pass on a strong message on the need to calm regional tension.

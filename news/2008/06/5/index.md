@@ -22,7 +22,7 @@ _Context: International Criminal Court, Luis Moreno-Ocampo, Sudanese cabinet, co
 _Context: ''Rådhuset'' court house, Carl Westman, Stockholm_
 
 ### [ Turkey's Constitutional Court reinstates a ban on the hijab in universities, citing the constitution's secular principles. ](/news/2008/06/5/turkey-s-constitutional-court-reinstates-a-ban-on-the-hijab-in-universities-citing-the-constitution-s-secular-principles.md)
-_Context: Constitutional Court of Turkey, Hijab, Turkish, reinstates a ban, secular_
+_Context: Constitutional Court of Turkey, Hijab, Turkey, reinstates a ban, secular_
 
 ### [ Prime Minister of Israel Ehud Olmert says that "the end of Iran's nuclear program is near". ](/news/2008/06/5/prime-minister-of-israel-ehud-olmert-says-that-the-end-of-iran-s-nuclear-program-is-near.md)
 _Context: Ehud Olmert, Iran's nuclear program, Prime Minister of Israel_

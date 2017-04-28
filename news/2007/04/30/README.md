@@ -1,7 +1,7 @@
 ## [2007-04-30](/news/2007/04/30/index.md)
 
 ### [ The European Union and the United States inks a new Open Skies Agreement which will take effect on 30 March 2008 and replace the restrictive Bermuda II agreement. ](/news/2007/04/30/the-european-union-and-the-united-states-inks-a-new-open-skies-agreement-which-will-take-effect-on-30-march-2008-and-replace-the-restrictiv.md)
-_Context: Bermuda II, European Union, Open Skies Agreement, United States_
+_Context: Bermuda II, European Union, Open Skies Agreement, U.S._
 
 ### [ The United States Supreme Court decides the case of ''Scott v. Harris,'' holding that a "police officer's attempt to terminate a dangerous high-speed car chase that threatens the lives of innocent bystanders does not violate the Fourth Amendment, even when it places the fleeing motorist at risk of serious injury or death." ](/news/2007/04/30/the-united-states-supreme-court-decides-the-case-of-scott-v-harris-holding-that-a-police-officer-s-attempt-to-terminate-a-dangerous.md)
 _Context: Scott v. Harris, United States Supreme Court, unreasonable search or seizure_
@@ -10,7 +10,7 @@ _Context: Scott v. Harris, United States Supreme Court, unreasonable search or s
 _Context: Hugo Chávez, International Monetary Fund, President, Venezuela, World Bank_
 
 ### [ Morocco and the Polisario Front agree to United Nations sponsored talks about the future of Western Sahara. ](/news/2007/04/30/morocco-and-the-polisario-front-agree-to-united-nations-sponsored-talks-about-the-future-of-western-sahara.md)
-_Context: Morocco, Polisario Front, United Nations, Western Sahara_
+_Context: Moroccan, Polisario Front, United Nations, Western Sahara_
 
 ### [ General Sir Richard Dannatt, the head of the British Army, confirms that Prince Harry will deploy with the Blues and Royals regiment on a six-month tour of duty in Iraq. ](/news/2007/04/30/general-sir-richard-dannatt-the-head-of-the-british-army-confirms-that-prince-harry-will-deploy-with-the-blues-and-royals-regiment-on-a-s.md)
 _Context: Blues and Royals, British Army, General, Iraq, Prince Harry, Richard Dannatt_
@@ -28,7 +28,7 @@ A smoking ban in enclosed public places has come into effect in Northern Ireland
 _Context: Bangkok, Intergovernmental Panel on Climate Change, climate change_
 
 ### [ The US-led Coalition claims to have killed scores of Taliban forces in Afghanistan. ](/news/2007/04/30/the-us-led-coalition-claims-to-have-killed-scores-of-taliban-forces-in-afghanistan.md)
-_Context: Afghan, Taliban, United States_
+_Context: Afghanistan, Taliban, U.S._
 
 ### [ Five men arrested in 2004 as part of Operation Crevice are convicted at the Old Bailey of a plot to explode fertiliser bombs in the UK.  ](/news/2007/04/30/five-men-arrested-in-2004-as-part-of-operation-crevice-are-convicted-at-the-old-bailey-of-a-plot-to-explode-fertiliser-bombs-in-the-uk.md)
 The Sydney Morning Herald 404 Page

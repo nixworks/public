@@ -31,7 +31,7 @@ Brent crude rose above $103 a barrel on Thursday after violent clashes in Egypt 
 _Context: Australia, Cardwell, Cyclone Yasi, Innisfail, Mission Beach, Tully, north Queensland_
 
 ### [Death toll of second blast reaches 18 in Ankara, Turkey. ](/news/2011/02/3/death-toll-of-second-blast-reaches-18-in-ankara-turkey.md)
-_Context: Ankara, Turkish_
+_Context: Ankara, Turkey_
 
 ### [Two people are killed and 223 injured in Beijing as a result of fireworks set off on the first day of the Chinese New Year. ](/news/2011/02/3/two-people-are-killed-and-223-injured-in-beijing-as-a-result-of-fireworks-set-off-on-the-first-day-of-the-chinese-new-year.md)
 _Context: Chinese New Year, fireworks_

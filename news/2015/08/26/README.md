@@ -1,7 +1,7 @@
 ## [2015-08-26](/news/2015/08/26/index.md)
 
 ### [Two NATO soldiers are shot dead by two men in Afghan military uniforms. ](/news/2015/08/26/two-nato-soldiers-are-shot-dead-by-two-men-in-afghan-military-uniforms.md)
-_Context: NATO, War in Afghanistan_
+_Context: NATO, War in Afghanistan (2015–present)_
 
 ### [ISIL has destroyed two historic Muslim shrines in Palmyra. ](/news/2015/08/26/isil-has-destroyed-two-historic-muslim-shrines-in-palmyra.md)
 Hussain and his wife, Sally Jones, from Kent, had been dubbed &#039;Mr and Mrs Terror&#039;

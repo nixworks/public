@@ -10,7 +10,7 @@ AUSTRIAN environmentalists are trying to stop an AC/DC concert from going ahead 
 _Context: China, Chinese Ministry of Commerce, Foreign investment_
 
 ### [King Mohammed of Morocco requests structural examinations of all the country's old mosques after a minaret collapse kills 41 people. ](/news/2010/02/21/king-mohammed-of-morocco-requests-structural-examinations-of-all-the-country-s-old-mosques-after-a-minaret-collapse-kills-41-people.md)
-_Context: King Mohammed, Morocco, a minaret collapse_
+_Context: King Mohammed, Moroccan, a minaret collapse_
 
 ### [Japanese Foreign Minister Katsuya Okada dismisses Australia's threat to take the country to the International Court of Justice over Japan's whaling in the Antarctic. ](/news/2010/02/21/japanese-foreign-minister-katsuya-okada-dismisses-australia-s-threat-to-take-the-country-to-the-international-court-of-justice-over-japan-s.md)
 _Context: Antarctic, Australia, International Court of Justice, Japan, Japanese Foreign Minister, Katsuya Okada, whaling_

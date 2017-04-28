@@ -13,7 +13,7 @@ _Context: Prime Minister, Thaksin, greatest electoral sweep_
 _Context: Faure Gnassingbé, Gnassingbé Eyadéma, Togo_
 
 ### [ Conflict in Iraq: Guerrilla fighting leaves 22 dead, including two US troops. ](/news/2005/02/6/conflict-in-iraq-guerrilla-fighting-leaves-22-dead-including-two-us-troops.md)
-_Context: Conflict in Iraq, United States, guerillas_
+_Context: Conflict in Iraq, U.S., guerillas_
 
 ### [ The tobacco industry hails a United States court of appeals ruling which rejected the government's $280bn claim for alleged deceit about the dangers of smoking. ](/news/2005/02/6/the-tobacco-industry-hails-a-united-states-court-of-appeals-ruling-which-rejected-the-government-s-280bn-claim-for-alleged-deceit-about-th.md)
 _Context: United States court of appeals, tobacco companies_

@@ -16,7 +16,7 @@ _Context: 2005 Amman bombings, Abu Musab al-Zarqawi, Amman, Days Inn, Grand Hyat
 _Context: Archaeologists, Hebrew, Israel, Phoenician, Tel Zayit, ancient Israel, literates, tell_
 
 ### [ In the United States, the visit of Iraqi Deputy Premier Ahmed Chalabi to the Department of State and Department of the Treasury arouses controversy. ](/news/2005/11/9/in-the-united-states-the-visit-of-iraqi-deputy-premier-ahmed-chalabi-to-the-department-of-state-and-department-of-the-treasury-arouses-con.md)
-_Context: Ahmed Chalabi, United States_
+_Context: Ahmed Chalabi, U.S._
 
 ### [ The British government loses a key House of Commons vote on detaining terrorism suspects for 90-days without charge, in the report stage of the Terrorism Act 2006. This is Tony Blair's first ever commons defeat and has been described a serious blow to his authority. Opposition Leader Michael Howard calls on Blair to resign. ](/news/2005/11/9/the-british-government-loses-a-key-house-of-commons-vote-on-detaining-terrorism-suspects-for-90-days-without-charge-in-the-report-stage-of.md)
 _Context: British government, House of Commons, Leader, Michael Howard, Terrorism Act, Tony Blair, terrorism_

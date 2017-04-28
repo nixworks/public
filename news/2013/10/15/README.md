@@ -1,7 +1,7 @@
 ## [2013-10-15](/news/2013/10/15/index.md)
 
 ### [War in Afghanistan (2001-present):A bomb in a mosque in Afghanistan's Logar Province kills the governor Arsala Jamal and results in other injuries. ](/news/2013/10/15/war-in-afghanistan-2001apresent-pa-bomb-in-a-mosque-in-afghanistan-s-logar-province-kills-the-governor-arsala-jamal-and-results-in-other.md)
-_Context: Afghan, Arsala Jamal, Logar Province, War in Afghanistan (2001–present)_
+_Context: Afghanistan, Arsala Jamal, Logar Province, War in Afghanistan (2001–present)_
 
 ### [Iraqi insurgency (post-U.S. withdrawal):A bomb detonates outside a Sunni mosque in Kirkuk, Iraq, killing 12 worshipers and injuring another 24. ](/news/2013/10/15/iraqi-insurgency-post-u-s-withdrawal-pa-bomb-detonates-outside-a-sunni-mosque-in-kirkuk-iraq-killing-12-worshipers-and-injuring-another.md)
 Bomb targets crowd of Sunni worshippers coming out of a mosque in northern Iraq 
@@ -13,7 +13,7 @@ The passageway, running east from the Strip into Israel, is part of a larger com
 _Context: 2013 Man Booker Prize, Eleanor Catton, New Zealand, The Luminaries_
 
 ### [United States debt-ceiling crisis of 2013:International credit rating group Fitch Ratings places the United States under a "Rating watch negative" in response to the looming financial crisis. ](/news/2013/10/15/united-states-debt-ceiling-crisis-of-2013-pinternational-credit-rating-group-fitch-ratings-places-the-united-states-under-a-rating-watch-ne.md)
-_Context: Fitch Ratings, United States, debt ceiling crisis_
+_Context: Fitch Ratings, U.S., debt ceiling crisis_
 
 ### [Glenn Greenwald, a reporter with ''The Guardian'' who has published information provided him by NSA contractor Edward Snowden, is leaving the British newspaper to join a new journalistic enterprise to be bankrolled by Pierre Omidyar, the founder of eBay. ](/news/2013/10/15/glenn-greenwald-a-reporter-with-the-guardian-who-has-published-information-provided-him-by-nsa-contractor-edward-snowden-is-leaving-th.md)
 Glenn Greenwald, who has made headlines around the world with his reporting on U.S. electronic surveillance programs, is leaving the Guardian newspaper to join a new media venture funded by eBay founder Pierre Omidyar, according to people familiar with the matter.

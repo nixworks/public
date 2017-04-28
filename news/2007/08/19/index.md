@@ -10,7 +10,7 @@ _Context: China, Shandong, Xintai, coal mine, flood_
 _Context: Minnesota, Minnesota Governor, Ongoing flooding, Tim Pawlenty, flood_
 
 ### [ A week-long heat wave in the southeast and midwest of the United States has caused the deaths of 49 with 12 deaths in Memphis, Tennessee. ](/news/2007/08/19/a-week-long-heat-wave-in-the-southeast-and-midwest-of-the-united-states-has-caused-the-deaths-of-49-with-12-deaths-in-memphis-tennessee.md)
-_Context: Memphis, Tennessee, United States, heat wave_
+_Context: Memphis, Tennessee, U.S., heat wave_
 
 ### [ The Philippines army captures an Abu Sayyaf base on the island of Basilan following a heavy struggle with at least 35 soldiers and militants killed in the battle. ](/news/2007/08/19/the-philippines-army-captures-an-abu-sayyaf-base-on-the-island-of-basilan-following-a-heavy-struggle-with-at-least-35-soldiers-and-militant.md)
 _Context: Abu Sayyaf, Basilan island, Philippines_
@@ -28,7 +28,7 @@ _Context: Caribbean, Cayman Islands, Dominican, Hurricane Dean, Jamaica, Martini
 _Context: Thailand, constitution, referendum_
 
 ### [ A German woman taken hostage yesterday in Kabul, Afghanistan is found during a police raid on a house. Multiple abductors arrested. ](/news/2007/08/19/a-german-woman-taken-hostage-yesterday-in-kabul-afghanistan-is-found-during-a-police-raid-on-a-house-multiple-abductors-arrested.md)
-_Context: Afghan, German, Kabul_
+_Context: Afghanistan, German, Kabul_
 
 ### [ The second fire this year in the same building in Pakistan kills 1, injures four. (Wikinews)](/news/2007/08/19/the-second-fire-this-year-in-the-same-building-in-pakistan-kills-1-injures-four-wikinews.md)
 _Context: (Wikinews), Pakistan_

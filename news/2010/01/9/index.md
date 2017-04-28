@@ -1,7 +1,7 @@
 ## [2010-01-9](/news/2010/01/9/index.md)
 
 ### [The United States warns against an attack by "regional extremists" on an Air Uganda flight between Uganda and Sudan. ](/news/2010/01/9/the-united-states-warns-against-an-attack-by-regional-extremists-on-an-air-uganda-flight-between-uganda-and-sudan.md)
-_Context: Air Uganda, Sudan, Uganda, United States_
+_Context: Air Uganda, Sudan, U.S., Uganda_
 
 ### [A bomb explodes outside the Greek Parliament in Athens with no casualties. ](/news/2010/01/9/a-bomb-explodes-outside-the-greek-parliament-in-athens-with-no-casualties.md)
 _Context: Athens, Hellenic Parliament_
@@ -40,7 +40,7 @@ There are signs South Africa is recovering from the worst effects of the global 
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
 ### [Afghanistan's President Hamid Karzai resubmits his proposal for forming the cabinet after his previous selection was rejected by the National Assembly. ](/news/2010/01/9/afghanistan-s-president-hamid-karzai-resubmits-his-proposal-for-forming-the-cabinet-after-his-previous-selection-was-rejected-by-the-nationa.md)
-_Context: Afghan, Hamid Karzai, National Assembly_
+_Context: Afghanistan, Hamid Karzai, National Assembly_
 
 ### [Togo national football team bus attack:The Togo national football team withdraw from the 2010 Africa Cup of Nations as a third member of the team is confirmed dead following the attack on their team bus. ](/news/2010/01/9/togo-national-football-team-bus-attack-pthe-togo-national-football-team-withdraw-from-the-2010-africa-cup-of-nations-as-a-third-member-of-th.md)
 Three people were reported killed in Friday’s attack on Togo’s team bus in Angola days before the start of the African Nations Cup tournament.

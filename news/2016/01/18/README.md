@@ -7,7 +7,7 @@ Malware which infected the airport&#039;s network has been compared a virus that
 An airstrike launched by the Saudi-led coalition in Yemen killed at least 26 people and injured around 15 others after hitting a police building in Sanaa overnight, according to security sources. Some 30 people are believed to be trapped underneath rubble.
 
 ### [A rocket fired from ISIL-controlled territory in Syria's Aleppo Governorate, kills at least one person and injures another in the Turkish city of Kilis, close to the Syria-Turkey border. The Turkish military responded with artillery fire on ISIL positions. ](/news/2016/01/18/a-rocket-fired-from-isil-controlled-territory-in-syria-s-aleppo-governorate-kills-at-least-one-person-and-injures-another-in-the-turkish-ci.md)
-_Context: Aleppo Governorate, ISIL, Kilis, Spillover of the Syrian Civil War, Syria, Syria–Turkey border, Turkish, Turkish troops_
+_Context: Aleppo Governorate, ISIL, Kilis, Spillover of the Syrian Civil War, Syria, Syria–Turkey border, Turkey, Turkish troops_
 
 ### [Glenn Frey, a founding member of the Eagles, dies of complications arising from rheumatoid arthritis, colitis and pneumonia. ](/news/2016/01/18/glenn-frey-a-founding-member-of-the-eagles-dies-of-complications-arising-from-rheumatoid-arthritis-colitis-and-pneumonia.md)
 The Eagles founder and guitarist Glenn Frey has died at the age of 67, the band announces on its website.

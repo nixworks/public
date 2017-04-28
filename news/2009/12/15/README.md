@@ -7,7 +7,7 @@ U.N. Secretary-General Ban Ki-moon and Danish conference hosts warned ministers 
 Facing depletion of its main resource, phosphates, Nauru is only the fourth nation to recognize the region, which separated from Georgia.
 
 ### [ Two protesters are killed and several injured at a demonstration in opposition to the banning of the pro-Kurdish Democratic Society Party in Turkey. ](/news/2009/12/15/two-protesters-are-killed-and-several-injured-at-a-demonstration-in-opposition-to-the-banning-of-the-pro-kurdish-democratic-society-party-i.md)
-_Context: Democratic Society Party, Kurdish, Turkish_
+_Context: Democratic Society Party, Kurdish, Turkey_
 
 ### [ The Boeing 787 'Dreamliner' widebody passenger airliner takes its maiden flight, travelling from Paine Field to Boeing Field, in Washington State, U.S.A. ](/news/2009/12/15/the-boeing-787-dreamliner-widebody-passenger-airliner-takes-its-maiden-flight-travelling-from-paine-field-to-boeing-field-in-washington.md)
 Boeing Co (BA.N) completed thefirst test flight of its new lightweight carbon and titaniumDreamliner, but the flight was cut short because of badweather.

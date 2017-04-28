@@ -13,7 +13,7 @@ _Context: Aaron Porter, England, Manchester, student leader_
 _Context: Domodedovo International Airport, Moscow, Russia, bombing_
 
 ### [War in Afghanistan (2001-present):Abdul Latif Ashna, the deputy governor of Afghanistan's Kandahar Province, is killed in a suicide attack. ](/news/2011/01/29/war-in-afghanistan-2001apresent-pabdul-latif-ashna-the-deputy-governor-of-afghanistan-s-kandahar-province-is-killed-in-a-suicide-attac.md)
-_Context: Afghan, Kandahar Province, War in Afghanistan (2001–present)_
+_Context: Afghanistan, Kandahar Province, War in Afghanistan (2001–present)_
 
 ### [Clashes between rebels and government forces in Somalia leave several civilians dead in the capital Mogadishu. ](/news/2011/01/29/clashes-between-rebels-and-government-forces-in-somalia-leave-several-civilians-dead-in-the-capital-mogadishu.md)
 _Context: Mogadishu, Somalia_
@@ -40,7 +40,7 @@ _Context: David Kato, Uganda, gay activist, lesbian_
 The Dutch government freezes all contacts with Iran in protest over the hanging of a Dutch-Iranian woman for drug smuggling.
 
 ### [British Labour Party leader Ed Miliband pays his first visit to Afghanistan. ](/news/2011/01/29/british-labour-party-leader-ed-miliband-pays-his-first-visit-to-afghanistan.md)
-_Context: Afghan, Ed Miliband, Labour_
+_Context: Afghanistan, Ed Miliband, Labour_
 
 ### [A Buddhist monk is the first person to be charged under a strict anti-smoking law in Bhutan, introduced in 2005. ](/news/2011/01/29/a-buddhist-monk-is-the-first-person-to-be-charged-under-a-strict-anti-smoking-law-in-bhutan-introduced-in-2005.md)
 _Context: Bhutan, Buddhist_
@@ -61,7 +61,7 @@ Demonstrations are held in London and Manchester against raising university tuit
 _Context: 2011 AFC Asian Cup, Khalifa International Stadium, Qatar_
 
 ### [The Confederation of African Football announces in Lubumbashi the hosts of the 2015 (Morocco) and 2017 Africa Cup of Nations (South Africa). ](/news/2011/01/29/the-confederation-of-african-football-announces-in-lubumbashi-the-hosts-of-the-2015-morocco-and-2017-africa-cup-of-nations-south-africa.md)
-_Context: 2015, 2017 Africa Cup of Nations, CAF, Lubumbashi, Morocco, South Africa_
+_Context: 2015, 2017 Africa Cup of Nations, CAF, Lubumbashi, Moroccan, South Africa_
 
 ## [Previous Day...](/news/2011/01/28/index.md)
 

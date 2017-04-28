@@ -1,7 +1,7 @@
 ## [2009-05-1](/news/2009/05/1/index.md)
 
 ### [ Police and protesters battle during May Day demonstrations in Germany, Greece, and Turkey. ](/news/2009/05/1/police-and-protesters-battle-during-may-day-demonstrations-in-germany-greece-and-turkey.md)
-_Context: Germany, Greece, May Day, Protest, Turkish, battle, demonstration, police_
+_Context: Germany, Greece, May Day, Protest, Turkey, battle, demonstration, police_
 
 ### [ The Pakistani Army kills approximately 60 Taliban militants during Operation Black Thunder. ](/news/2009/05/1/the-pakistani-army-kills-approximately-60-taliban-militants-during-operation-black-thunder.md)
 _Context: Pakistan, Pakistan Army, Taliban, War in North-West Pakistan, militant_
@@ -16,7 +16,7 @@ _Context: Carol Ann Duffy, Poet Laureate, United Kingdom_
 _Context: Allied Irish Banks, executives, resign_
 
 ### [ Associate Justice David Souter announces he will retire from the United States Supreme Court in June. ](/news/2009/05/1/associate-justice-david-souter-announces-he-will-retire-from-the-united-states-supreme-court-in-june.md)
-_Context: David Souter, Justice, Supreme Court of the United States, United States_
+_Context: David Souter, Justice, Supreme Court of the United States, U.S._
 
 ### [ The Portuguese frigate ''Corte-Real'' confiscates explosives from Somali pirates during an attempted hijacking. ](/news/2009/05/1/the-portuguese-frigate-corte-real-confiscates-explosives-from-somali-pirates-during-an-attempted-hijacking.md)
 _Context: Corte-Real, Portuguese, Somali pirates, Somalia, anti-piracy, explosives, frigate_

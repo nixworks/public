@@ -7,7 +7,7 @@ PA forces douse the flames and disperse some hundred rioters, who caused heavy d
 Turkey shot down a drone on Friday in an incident highlighting the dangers of multiple air combat operations over Syria, where government troops and their allies backed by Russian jets have launched an offensive against rebels near Aleppo.
 
 ### [Turkey says it has shot down a drone near the Syrian border after it failed to leave Turkish airspace. ](/news/2015/10/16/turkey-says-it-has-shot-down-a-drone-near-the-syrian-border-after-it-failed-to-leave-turkish-airspace.md)
-_Context: Spillover of the Syrian Civil War, Syrian border, Turkish, drone_
+_Context: Spillover of the Syrian Civil War, Syrian border, Turkey, drone_
 
 ### [A United States appeals court rules the Google Books Library Project, the scanning of millions of books with snippets searchable online, is legal under copyright law, affirming a 2013 district court decision. ](/news/2015/10/16/a-united-states-appeals-court-rules-the-google-books-library-project-the-scanning-of-millions-of-books-with-snippets-searchable-online-is.md)
 It&#39;s legal under copyright law for Google to scan millions of books and make snippets of them searchable, a U.S. appeals court ruled Friday.
@@ -25,7 +25,7 @@ Several people are feared trapped after scaffolding collapsed Friday morning at 
 The European Union has agreed an &quot;action plan&quot; with Turkey to help stem the flow of migrants into Europe. EU leaders offered a £3bn aid package, the prospect of easier visas and re-energised talks on joining the bloc if they comply. At a summit in Brussels, it was also agreed that border controls would be coordinated to slow the influx of migrants crossing from Turkey to Asia. Chairman Donald Tusk said: &quot;Our intensified meetings with Turkish leaders in the last couple of weeks were devoted to one goal: stemming the migratory flows that go via Turkey to the EU. &quot;The action plan is a major step in this direction.&quot; 
 
 ### [Russia and other ex-Soviet states meeting in Kazakhstan agree to set up a joint task force to tackle instability on their borders, most notably from Afghanistan. ](/news/2015/10/16/russia-and-other-ex-soviet-states-meeting-in-kazakhstan-agree-to-set-up-a-joint-task-force-to-tackle-instability-on-their-borders-most-nota.md)
-_Context: Afghan, Kazakhstan, Russia_
+_Context: Afghanistan, Kazakhstan, Russia_
 
 ### [President Park Geun-hye of South Korea is in Washington, D.C. and met with President Barack Obama at The White House. ](/news/2015/10/16/president-park-geun-hye-of-south-korea-is-in-washington-d-c-and-met-with-president-barack-obama-at-the-white-house.md)
 _Context: Barack Obama, Park Geun-hye, South Korea, The White House, Washington, D.C._

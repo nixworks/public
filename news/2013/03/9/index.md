@@ -4,7 +4,7 @@
 A group of 21 Filipino UN peacekeepers captured by rebels in Syria earlier this week arrive in Jordan after being released.
 
 ### [War in Afghanistan:At least 19 people are killed by two suicide bombings in the Afghan capital, Kabul, and in Khost Province, as Chuck Hagel, the United States Secretary of Defense, visits the city. ](/news/2013/03/9/war-in-afghanistan-pat-least-19-people-are-killed-by-two-suicide-bombings-in-the-afghan-capital-kabul-and-in-khost-province-as-chuck-hage.md)
-_Context: Afghan, Chuck Hagel, Kabul, Khost, Secretary of Defense, War in Afghanistan (2001–present), suicide bombings_
+_Context: Afghanistan, Chuck Hagel, Kabul, Khost, Secretary of Defense, War in Afghanistan (2001–present), suicide bombings_
 
 ### [Nigerian Sharia conflict:Nigerian militant group Ansaru announces that it has killed seven foreigners that were being held hostage. ](/news/2013/03/9/nigerian-sharia-conflict-pnigerian-militant-group-ansaru-announces-that-it-has-killed-seven-foreigners-that-were-being-held-hostage.md)
 Diplomats investigate claims by Nigerian militant group Ansaru that it has killed seven foreign hostages.
@@ -13,16 +13,16 @@ Diplomats investigate claims by Nigerian militant group Ansaru that it has kille
 Somali pirates have released a chemical tanker they hijacked a year ago with about 20 crew on board after receiving a ransom, the pirates and a minister from the semi-autonomous Puntland region said on Saturday.
 
 ### [A house fire kills five children and two adults (including a pregnant woman) in the Gray community of Knox County, Kentucky, United States, cause undetermined and under investigation. ](/news/2013/03/9/a-house-fire-kills-five-children-and-two-adults-including-a-pregnant-woman-in-the-gray-community-of-knox-county-kentucky-united-states.md)
-_Context: Kentucky, Knox County, United States_
+_Context: Kentucky, Knox County, U.S._
 
 ### [One man is killed and five others are injured after a sailboat breaks up and sinks off of San Clemente, California, United States. ](/news/2013/03/9/one-man-is-killed-and-five-others-are-injured-after-a-sailboat-breaks-up-and-sinks-off-of-san-clemente-california-united-states.md)
-_Context: California, San Clemente, United States, sailboat_
+_Context: California, San Clemente, U.S., sailboat_
 
 ### [Three time "Best Restaurant in the World" winner Noma is accused of giving 63 customers food poisoning. ](/news/2013/03/9/three-time-best-restaurant-in-the-world-winner-noma-is-accused-of-giving-63-customers-food-poisoning.md)
 Regardless of all the &#034;Please wash hands after using the toilet&#034; in most public restrooms in restaurants, many people still chose to overlook this crucial hygiene step. As a consequence, dirty hands have been found to be the culprit in the recent norovirus outbreak at Noma, an exclusive restaurant in Copenhagen, Denmark, according to food inspectors. 
 
 ### [Google will pay a $7 million penalty to settle an investigation into the collection of e-mails, passwords and other sensitive information sent over wireless networks from 2007-2010 in the United States. Google company cars taking street-level photos for its online mapping service also had been vacuuming up personal data transmitted over wireless networks that weren't protected by passwords. ](/news/2013/03/9/google-will-pay-a-7-million-penalty-to-settle-an-investigation-into-the-collection-of-e-mails-passwords-and-other-sensitive-information-se.md)
-_Context: Google, Google Maps, Street View, United States, United States dollars, e-mail, password, personal data, wireless network_
+_Context: Google, Google Maps, Street View, U.S., United States dollars, e-mail, password, personal data, wireless network_
 
 ### [An Egyptian court reaffirms the death sentence for 21 football fans for their role in the 2012 Port Said Stadium riot and sentenced two security officers to 15 years in jail for negligence. ](/news/2013/03/9/an-egyptian-court-reaffirms-the-death-sentence-for-21-football-fans-for-their-role-in-the-2012-port-said-stadium-riot-and-sentenced-two-secu.md)
 Twenty-one people had been sentenced to death for their roles in the deadly 2012 soccer riot that killed more than 70 people in the city of Port Said.

@@ -19,7 +19,7 @@ _Context: Dimona, Israel, kills a woman and injures at least 10 people, suicide 
 _Context: Chad, N'Djamena_
 
 ### [ The United States military says that it accidentally killed nine Iraqi civilians in an operation targeting Al-Qaeda south of Baghdad. ](/news/2008/02/4/the-united-states-military-says-that-it-accidentally-killed-nine-iraqi-civilians-in-an-operation-targeting-al-qaeda-south-of-baghdad.md)
-_Context: Baghdad, Iraq, United States, al-Qaeda, civilian_
+_Context: Baghdad, Iraq, U.S., al-Qaeda, civilian_
 
 ### [ 2008 submarine cable disruption: the Egyptian transport ministry reports that footage of the areas where cables were snapped or damaged shows no maritime traffic. ](/news/2008/02/4/2008-submarine-cable-disruption-the-egyptian-transport-ministry-reports-that-footage-of-the-areas-where-cables-were-snapped-or-damaged-sho.md)
 _Context: Egypt, break, maritime_

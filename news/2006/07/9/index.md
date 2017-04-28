@@ -1,7 +1,7 @@
 ## [2006-07-9](/news/2006/07/9/index.md)
 
 ### [ 25 people are injured on the Son of Beast wooden roller coaster near Cincinnati, Ohio, United States, as it came to a rapid stop. Several rescue units were sent to the scene. ](/news/2006/07/9/25-people-are-injured-on-the-son-of-beast-wooden-roller-coaster-near-cincinnati-ohio-united-states-as-it-came-to-a-rapid-stop-several-r.md)
-_Context: Cincinnati, Ohio, Son of Beast, United States, roller coaster_
+_Context: Cincinnati, Ohio, Son of Beast, U.S., roller coaster_
 
 ### [ 2006 FIFA World Cup: Italy defeats France in the final game of the FIFA World Cup. The score remained 1-1 after both regulation time and extra time; however, Italy won 5-3 in penalty kicks. The match is marred by the dismissal of Zinedine Zidane in the second period of Extra Time. ](/news/2006/07/9/2006-fifa-world-cup-italy-defeats-france-in-the-final-game-of-the-fifa-world-cup-the-score-remained-1-1-after-both-regulation-time-and-ex.md)
 _Context: France, Italy, Zinedine Zidane, defending champion, dismissal, extra-time_

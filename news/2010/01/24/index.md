@@ -10,7 +10,7 @@ _Context: Indianapolis Colts, National Football League, New Orleans Saints, Supe
 _Context: Gryfino, Poland_
 
 ### [The Chinese government denies state involvement in the cyber attacks on Google, while the state-run ''China Daily'' newspaper accuses the United States of hypocrisy. ](/news/2010/01/24/the-chinese-government-denies-state-involvement-in-the-cyber-attacks-on-google-while-the-state-run-china-daily-newspaper-accuses-the-un.md)
-_Context: China Daily, China's, Google, United States, cyber attacks, government, hypocrisy_
+_Context: China Daily, China's, Google, U.S., cyber attacks, government, hypocrisy_
 
 ### [A flight operated by Kolavia on behalf of Taban Air crashes on landing at Mashhad International Airport, Iran, injuring at least 46 people. ](/news/2010/01/24/a-flight-operated-by-kolavia-on-behalf-of-taban-air-crashes-on-landing-at-mashhad-international-airport-iran-injuring-at-least-46-people.md)
 _Context: International Airport, Iran, Kolavia, Mashhad, Taban Air, crashes on landing_
@@ -22,7 +22,7 @@ _Context: RCTV, Venezuela, cable set-top boxes, government_
 _Context: Detroit, Northwest Airlines Flight 253, Osama bin Laden, USA_
 
 ### [Afghanistan postpones its upcoming parliamentary elections to 18 September due to lack of funds and security concerns. ](/news/2010/01/24/afghanistan-postpones-its-upcoming-parliamentary-elections-to-18-september-due-to-lack-of-funds-and-security-concerns.md)
-_Context: Afghan, parliamentary election_
+_Context: Afghanistan, parliamentary election_
 
 ### [North Korea says any attempt by South Korea to launch pre-emptive strikes against its nuclear facilities will be considered a declaration of war. ](/news/2010/01/24/north-korea-says-any-attempt-by-south-korea-to-launch-pre-emptive-strikes-against-its-nuclear-facilities-will-be-considered-a-declaration-of.md)
 _Context: North Korea, North Korea and weapons of mass destruction, South Korea, declaration of war, pre-emptive strike_

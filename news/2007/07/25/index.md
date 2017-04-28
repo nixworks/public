@@ -7,7 +7,7 @@ _Context: New England Journal of Medicine, Oscar_
 Nurses in Fiji are holding a national strike over a pay cut forced on them by the country&#039;s interim government.
 
 ### [ A United States federal court judge orders Sudan to pay $8 million in compensation to the victims of the bombing of the USS ''Cole''. ](/news/2007/07/25/a-united-states-federal-court-judge-orders-sudan-to-pay-8-million-in-compensation-to-the-victims-of-the-bombing-of-the-uss-cole.md)
-_Context: Sudan, U.S. dollar, USS ''Cole'', United States_
+_Context: Sudan, U.S., U.S. dollar, USS ''Cole''_
 
 ### [  Italian rider Christian Moreni fails a doping test and is led away for questioning by French police ](/news/2007/07/25/italian-rider-christian-moreni-fails-a-doping-test-and-is-led-away-for-questioning-by-french-police.md)
 _Context: 2007 Tour de France, Christian Moreni, Italian, doping_
@@ -22,7 +22,7 @@ _Context: George W. Bush, Harriet Miers, Joshua Bolten, U.S. President, United S
 _Context: Asian Cup, Baghdad, Iraq, Iraq, Mansour district, South Korea, car bomb_
 
 ### [ 8 of the 23 South Koreans held hostage by the Taliban in Afghanistan are released, while one of the hostages is executed. The Taliban gives further warning that the remaining hostages will be killed. ](/news/2007/07/25/8-of-the-23-south-koreans-held-hostage-by-the-taliban-in-afghanistan-are-released-while-one-of-the-hostages-is-executed-the-taliban-gives.md)
-_Context: Afghan, Taliban, release 23 of its captured fighters_
+_Context: Afghanistan, Taliban, release 23 of its captured fighters_
 
 ### [ The first delegation from the Arab League comprising the foreign ministers of Egypt and Jordan visits Israel to talk about the Arab Peace Initiative. ](/news/2007/07/25/the-first-delegation-from-the-arab-league-comprising-the-foreign-ministers-of-egypt-and-jordan-visits-israel-to-talk-about-the-arab-peace-i.md)
 _Context: Arab League, Arab Peace Initiative, Egypt, Israel, Jordan_

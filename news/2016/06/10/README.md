@@ -1,7 +1,7 @@
 ## [2016-06-10](/news/2016/06/10/index.md)
 
 ### [A blast occurs at a mosque in a small village in the Nangarhar Province, killing four people and injuring nearly 40 more. ](/news/2016/06/10/a-blast-occurs-at-a-mosque-in-a-small-village-in-the-nangarhar-province-killing-four-people-and-injuring-nearly-40-more.md)
-_Context: Nangarhar, War in Afghanistan_
+_Context: Nangarhar Province, War in Afghanistan (2015–present)_
 
 ### [Kazakh police kill five additional suspected militants in Aktobe as part of a "counterterrorism operation". ](/news/2016/06/10/kazakh-police-kill-five-additional-suspected-militants-in-aktobe-as-part-of-a-counterterrorism-operation.md)
 _Context: 2016 Aktobe shootings, Aktobe, Kazakhstan, policemen_

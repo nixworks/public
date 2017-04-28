@@ -1,7 +1,7 @@
 ## [2016-09-9](/news/2016/09/9/index.md)
 
 ### [United States Navy SEALs, by high altitude parachuting, fail in a rescue attempt after the team does not find the American and Australian hostages who were kidnapped in Kabul last month. ](/news/2016/09/9/united-states-navy-seals-by-high-altitude-parachuting-fail-in-a-rescue-attempt-after-the-team-does-not-find-the-american-and-australian-ho.md)
-_Context: Kabul, United States Navy SEALs, War in Afghanistan, high altitude parachuting_
+_Context: Kabul, United States Navy SEALs, War in Afghanistan (2015–present), high altitude parachuting_
 
 ### [Twin suicide bombings  at the  Nakheel Mall  in eastern Baghdad kill 12 people and injure more than 40 others. ISIL claims responsibility. ](/news/2016/09/9/twin-suicide-bombings-at-the-nakheel-mall-in-eastern-baghdad-kill-12-people-and-injure-more-than-40-others-isil-claims-responsibility.md)
 Twelve people were killed late on Friday in two suicide bombings claimed by Islamic State at a shopping mall in eastern Baghdad, police and hospital sources said.

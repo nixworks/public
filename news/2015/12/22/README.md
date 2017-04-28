@@ -19,7 +19,7 @@ An aircraft crashed into a wall and burst into flames in Dwarka area, on the out
 _Context: Mexico, Villahermosa, pipeline_
 
 ### [Turkey's state-run Anadolu Agency reports 11 migrants, including three children, drowned, and the Turkish coast guard rescued seven Syrians from a capsized boat headed to the Greek island of Samos. ](/news/2015/12/22/turkey-s-state-run-anadolu-agency-reports-11-migrants-including-three-children-drowned-and-the-turkish-coast-guard-rescued-seven-syrians.md)
-_Context: Anadolu News Agency, European migrant crisis, Greece, Samos, Syrian, Turkish, Turkish Coast Guard, migrants_
+_Context: Anadolu News Agency, European migrant crisis, Greece, Samos, Syrian, Turkey, Turkish Coast Guard, migrants_
 
 ### [The Philippines becomes the first country in Asia, and second in the world (after Mexico), to approve use of the dengue vaccine. ](/news/2015/12/22/the-philippines-becomes-the-first-country-in-asia-and-second-in-the-world-after-mexico-to-approve-use-of-the-dengue-vaccine.md)
 Dengvaxia, manufactured by French pharmaceutical giant Sanofi, is also being reviewed by around 20 countries in Asia and Latin America

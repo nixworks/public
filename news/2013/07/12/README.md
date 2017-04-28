@@ -28,7 +28,7 @@ _Context: 2013 Asiana Airlines accident, Boeing 777, San Francisco General Hospi
 _Context: Boeing 787 Dreamliner, Ethiopian Airlines, London Heathrow Airport, Manchester, Thomson Airways_
 
 ### [The US calls on the Egyptian Army to free deposed president Mohamed Morsi. ](/news/2013/07/12/the-us-calls-on-the-egyptian-army-to-free-deposed-president-mohamed-morsi.md)
-_Context: 2013 coup d'état, Egypt, Egyptian Army, Egyptian President, Mohamed Morsi, United States_
+_Context: 2013 coup d'état, Egypt, Egyptian Army, Egyptian President, Mohamed Morsi, U.S._
 
 ### [Malala Yousafzai of Pakistan visits the UN headquarters in New York City to celebrate her 16th birthday with the UN address. ](/news/2013/07/12/malala-yousafzai-of-pakistan-visits-the-un-headquarters-in-new-york-city-to-celebrate-her-16th-birthday-with-the-un-address.md)
 UNITED NATIONS (AP) — Malala Yousafzai celebrated her 16th birthday on the world stage at the United Nations, defiantly telling Taliban extremists who tried to end her campaign for girls&#x27; education in Pakistan with a bullet that the attack gave her new courage and demanding that world leaders provide

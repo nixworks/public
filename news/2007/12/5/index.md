@@ -16,7 +16,7 @@ The killings served as a vicious reminder that the months-long decline in daily 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ A suicide bomber rams a car into a minibus containing Afghan soldiers on a highway south of Kabul. Thirteen, including six Afghan soldiers, are killed in the incident. ](/news/2007/12/5/a-suicide-bomber-rams-a-car-into-a-minibus-containing-afghan-soldiers-on-a-highway-south-of-kabul-thirteen-including-six-afghan-soldiers.md)
-_Context: Afghan, Kabul_
+_Context: Afghanistan, Kabul_
 
 ## [Previous Day...](/news/2007/12/4/index.md)
 

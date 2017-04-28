@@ -10,7 +10,7 @@ Tunisian police kill at least two people in the north-western town of Kef, durin
 _Context: Cambodian–Thai border stand-off_
 
 ### [U.S.-led forces kill four civilians, including a woman, in northern Afghanistan. ](/news/2011/02/6/u-s-led-forces-kill-four-civilians-including-a-woman-in-northern-afghanistan.md)
-_Context: Afghan_
+_Context: Afghanistan_
 
 ### [Israeli soldiers have shot three Palestinians, two while they collected gravel from destroyed homes in Gaza, and another while he worked in the northern Gaza Strip. ](/news/2011/02/6/israeli-soldiers-have-shot-three-palestinians-two-while-they-collected-gravel-from-destroyed-homes-in-gaza-and-another-while-he-worked-in.md)
 _Context: Gaza Strip, Israel, gravel_
@@ -22,7 +22,7 @@ Army Chief General V.K. Singh today said that the Army would make an enquiry on 
 At least 30 soldiers have been killed in southern Sudan during internal fighting among troops of the national army, state officials said.
 
 ### [The President of Afghanistan Hamid Karzai says that a transfer of security authority from international to Afghan forces will begin on March 21. ](/news/2011/02/6/the-president-of-afghanistan-hamid-karzai-says-that-a-transfer-of-security-authority-from-international-to-afghan-forces-will-begin-on-march.md)
-_Context: Afghan, Afghanistan President, Hamid Karzai_
+_Context: Afghanistan, Afghanistan President, Hamid Karzai_
 
 ### [The Indian Navy captures 28 suspected Somali pirates on a Thai fishing vessel in the Indian Ocean. ](/news/2011/02/6/the-indian-navy-captures-28-suspected-somali-pirates-on-a-thai-fishing-vessel-in-the-indian-ocean.md)
 _Context: Indian Navy, Indian Ocean, Somali pirates, Thailand_
@@ -41,7 +41,7 @@ Sydney has sweated through its hottest night on record to end its longest heatwa
 A widespread blackout hit at eight states in Brazil&#039;s northeast Friday exposing energy infrastructure vulnerabilities of the nation that will host an Olympics and a World Cup.
 
 ### [Palestinian leaders express disappointment at the refusal of the Middle East Quartet &mdash; United States, United Nations, European Union and Russia &mdash; to hear their call for unilateral statehood and failure to take a strong stance on Israel's settlement construction at its February 5 meeting in Munich. ](/news/2011/02/6/palestinian-leaders-express-disappointment-at-the-refusal-of-the-middle-east-quartet-mdash-united-states-united-nations-european-union-a.md)
-_Context: European Union, Israel, Middle East Quartet, Munich, Russia, United Nations, United States_
+_Context: European Union, Israel, Middle East Quartet, Munich, Russia, U.S., United Nations_
 
 ### [The European Union's foreign policy chief Catherine Ashton expresses what she believes is the even more crucial need for progress in peace talks between the Israelis and the Palestinians due to events in Egypt and other countries. ](/news/2011/02/6/the-european-union-s-foreign-policy-chief-catherine-ashton-expresses-what-she-believes-is-the-even-more-crucial-need-for-progress-in-peace-t.md)
 European Union foreign policy chief Catherine Ashton said yesterday that events in Egypt and other Mideast countries make progress in peace talks between Israel and the Palestinians eve
@@ -62,7 +62,7 @@ _Context: Ohio, Youngstown_
 _Context: Mexican drug cartel, Sandra Ávila Beltrán_
 
 ### [Russian billionaire Ashot Egiazaryan, facing charges of financial crimes, flees to the United States claiming persecution. ](/news/2011/02/6/russian-billionaire-ashot-egiazaryan-facing-charges-of-financial-crimes-flees-to-the-united-states-claiming-persecution.md)
-_Context: Ashot Egiazaryan, Russia, United States_
+_Context: Ashot Egiazaryan, Russia, U.S._
 
 ### [Nepal's prime minister Jhala Nath Khanal takes his oath of office. ](/news/2011/02/6/nepal-s-prime-minister-jhala-nath-khanal-takes-his-oath-of-office.md)
 Move marks effective end to political deadlock that has left Himalayan nation without premier for seven months.

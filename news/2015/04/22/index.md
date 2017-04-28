@@ -4,7 +4,7 @@
 _Context: Hela Province, Papua New Guinea, clan_
 
 ### [The Taliban announces the start of its annual spring offensive warning it would attack foreign embassies as well as military targets. ](/news/2015/04/22/the-taliban-announces-the-start-of-its-annual-spring-offensive-warning-it-would-attack-foreign-embassies-as-well-as-military-targets.md)
-_Context: Taliban, War in Afghanistan_
+_Context: Taliban, War in Afghanistan (2015–present)_
 
 ### [The Syrian Observatory for Human Rights estimates that Syrian government air strikes on areas controlled by Islamic State in Iraq and the Levant kills 32 people. The air strikes hit a hospital in Dayr Hafir killing at least 21 people. ](/news/2015/04/22/the-syrian-observatory-for-human-rights-estimates-that-syrian-government-air-strikes-on-areas-controlled-by-islamic-state-in-iraq-and-the-le.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

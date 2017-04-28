@@ -49,7 +49,7 @@ An estimated 49,000 people attended the National Ploughing Championship today.
 _Context: Attorney General for England and Wales, Patricia Scotland, Baroness Scotland of Asthal_
 
 ### [ For the first time in at least ten years, all United States embassies and consulates in South Africa are closed following an unspecified "security threat". ](/news/2009/09/22/for-the-first-time-in-at-least-ten-years-all-united-states-embassies-and-consulates-in-south-africa-are-closed-following-an-unspecified-s.md)
-_Context: South Africa, United States_
+_Context: South Africa, U.S._
 
 ### [ The New Zealand dollar soars to a 13-month high against both the U.S. dollar and euro. ](/news/2009/09/22/the-new-zealand-dollar-soars-to-a-13-month-high-against-both-the-u-s-dollar-and-euro.md)
 Basking in good economic news, the New Zealand dollar reached multi-month highs against major currencies overnight as the greenback weakened further. - New Zealand Herald
@@ -79,7 +79,7 @@ Sixteen Vietnamese doctors, nurses and officials sold 266 babies for overseas ad
 _Context: Bhutan_
 
 ### [ Security is tightened across Germany after the emergence of al-Qaeda videos threatening attacks if troops are not withdrawn from Afghanistan. ](/news/2009/09/22/security-is-tightened-across-germany-after-the-emergence-of-al-qaeda-videos-threatening-attacks-if-troops-are-not-withdrawn-from-afghanista.md)
-_Context: Afghan, Germany, al-Qaeda_
+_Context: Afghanistan, Germany, al-Qaeda_
 
 ### [ Cities around the world celebrate World Car Free Day. ](/news/2009/09/22/cities-around-the-world-celebrate-world-car-free-day.md)
 _Context: World Car Free Day_

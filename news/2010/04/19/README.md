@@ -25,7 +25,7 @@ _Context: 2010 Winter Olympics, Fédération Internationale de Luge de Course, G
 _Context: an earthquake struck on 14 April_
 
 ### [Seven are killed and 30 are injured in a magnitude 5.3 earthquake in the mountains north of Kabul, Afghanistan. ](/news/2010/04/19/seven-are-killed-and-30-are-injured-in-a-magnitude-5-3-earthquake-in-the-mountains-north-of-kabul-afghanistan.md)
-_Context: Afghan, Kabul_
+_Context: Afghanistan, Kabul_
 
 ### [Hundreds of Indonesian protesters in Jakarta demand the riot police be disbanded after three are killed and at least 156 wounded in bloody clashes between Indonesian National Police and demonstrators. ](/news/2010/04/19/hundreds-of-indonesian-protesters-in-jakarta-demand-the-riot-police-be-disbanded-after-three-are-killed-and-at-least-156-wounded-in-bloody-c.md)
 _Context: Indonesia, Indonesian police, Jakarta, riot police_

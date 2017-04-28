@@ -22,7 +22,7 @@ _Context: Australia, Benedict XVI, Mary MacKillop, Saint Peter's Square, Vatican
 _Context: $50 billion government bailout, General Motors, Michigan, a new car plant, tax incentive_
 
 ### [Workers in Hilton Hotels in the US cities of Chicago, San Francisco, and Honolulu continue a strike over what they claim are efforts to "lock workers into cheap recession contracts." ](/news/2010/10/17/workers-in-hilton-hotels-in-the-us-cities-of-chicago-san-francisco-and-honolulu-continue-a-strike-over-what-they-claim-are-efforts-to-loc.md)
-_Context: Chicago, Hilton Hotels, Honolulu, San Francisco, United States, strike_
+_Context: Chicago, Hilton Hotels, Honolulu, San Francisco, U.S., strike_
 
 ### [The Philippines prepares for Typhoon Megi, potentially the strongest typhoon to hit the country this year. ](/news/2010/10/17/the-philippines-prepares-for-typhoon-megi-potentially-the-strongest-typhoon-to-hit-the-country-this-year.md)
 Authorities in the Philippines are preparing for the onslaught of Typhoon Megi, the tenth tropical cyclone and the strongest to hit the country this year.
@@ -64,7 +64,7 @@ _Context:  United Democratic Forces, Rwanda, Victoire Ingabire_
 _Context: Ayad Allawi, Iran, Iraq Prime Minister, Middle East_
 
 ### [Iranian police have arrested seven Afghan border guards who had illegally crossed the border, border police chief Hossein Zolfaqari announced. ](/news/2010/10/17/iranian-police-have-arrested-seven-afghan-border-guards-who-had-illegally-crossed-the-border-border-police-chief-hossein-zolfaqari-announce.md)
-_Context: Afghan, Hossein Zolfaqari, Iran_
+_Context: Afghanistan, Hossein Zolfaqari, Iran_
 
 ### [Tens of thousands of people rally in Rome against a weakening of labour rights being carried out by the country's government; rumours spread by politicians of clashes caused by "anarchist infiltration" prove unfounded. ](/news/2010/10/17/tens-of-thousands-of-people-rally-in-rome-against-a-weakening-of-labour-rights-being-carried-out-by-the-country-s-government-rumours-spread.md)
 _Context: Rome_

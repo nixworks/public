@@ -1,7 +1,7 @@
 ## [2017-03-4](/news/2017/03/4/index.md)
 
 ### [According to provincial officials, at least eight people are killed and another 22 are injured by a roadside bomb in Farah Province. However, according to locals, the attack was actually an airstrike. ](/news/2017/03/4/according-to-provincial-officials-at-least-eight-people-are-killed-and-another-22-are-injured-by-a-roadside-bomb-in-farah-province-however.md)
-_Context: Farah Province, War in Afghanistan_
+_Context: Farah Province, War in Afghanistan (2015–present)_
 
 ### [The Benghazi Defense Brigades, an ally of the Shura Council of Benghazi Revolutionaries, claims to have captured five cities and two oil-production areas from forces loyal to Khalifa Haftar in the east of Libya. ](/news/2017/03/4/the-benghazi-defense-brigades-an-ally-of-the-shura-council-of-benghazi-revolutionaries-claims-to-have-captured-five-cities-and-two-oil-pro.md)
 Benghazi Defence Brigades says in control of five cities and two major oil producing areas in the east of the country.

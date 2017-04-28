@@ -4,7 +4,7 @@
 Military launches campaigns in three provinces as foreign governments reopen embassies.
 
 ### [The suicide bomber from Jordan, Humam Khalil Abu-Mulal al-Balawi, who killed seven CIA agents in Afghanistan, is reported to be an al-Qaeda triple agent. ](/news/2010/01/5/the-suicide-bomber-from-jordan-humam-khalil-abu-mulal-al-balawi-who-killed-seven-cia-agents-in-afghanistan-is-reported-to-be-an-al-qaeda.md)
-_Context: Afghan, CIA, Humam Khalil Abu-Mulal al-Balawi, Jordan, al-Qaeda, killed, suicide bomber_
+_Context: Afghanistan, CIA, Humam Khalil Abu-Mulal al-Balawi, Jordan, al-Qaeda, killed, suicide bomber_
 
 ### [Facebook blocks a social network suicide website. ](/news/2010/01/5/facebook-blocks-a-social-network-suicide-website.md)
 _Context: Facebook, social network_
@@ -37,7 +37,7 @@ _Context: Iran_
 A third uninvited guest made it into a White House state dinner in honor of the Indian prime minister, but there is no evidence the person had contact with the president or first lady, the Secret Service said on Monday.
 
 ### [The United States reopens its embassy in Yemen after strikes on al-Qaeda. ](/news/2010/01/5/the-united-states-reopens-its-embassy-in-yemen-after-strikes-on-al-qaeda.md)
-_Context: United States, Yemen_
+_Context: U.S., Yemen_
 
 ### [Andal Ampatuan Jr., charged with 41 counts of murder in the Maguindanao massacre in November, pleads not guilty at the beginning of his trial in the Philippines. ](/news/2010/01/5/andal-ampatuan-jr-charged-with-41-counts-of-murder-in-the-maguindanao-massacre-in-november-pleads-not-guilty-at-the-beginning-of-his-tria.md)
 _Context: Andal Ampatuan Jr., Maguindanao massacre, Philippines_

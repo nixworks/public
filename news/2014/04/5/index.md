@@ -13,7 +13,7 @@ _Context: Tyson Foods Incorporated, chicken nuggets_
 _Context: Indonesia, Java, Tasikmalaya_
 
 ### [Afghan presidential election, 2014:Amidst violence, voters in Afghanistan elect a new President in what is the country's first democratic transfer of power. ](/news/2014/04/5/afghan-presidential-election-2014-pamidst-violence-voters-in-afghanistan-elect-a-new-president-in-what-is-the-country-s-first-democratic-t.md)
-_Context: Afghan, Afghan presidential election, 2014_
+_Context: Afghan presidential election, 2014, Afghanistan_
 
 ### [Australian Senate special election in Western Australia, 2014:Voters in the Australian state of Western Australia go to the polls for a Federal Senate election. ](/news/2014/04/5/australian-senate-special-election-in-western-australia-2014-pvoters-in-the-australian-state-of-western-australia-go-to-the-polls-for-a-fed.md)
 PRIME Minister Tony Abbott has made a last-ditch plea to West Australian voters as they head to the polls for a Senate election re-run.

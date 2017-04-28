@@ -4,7 +4,7 @@
 Bobby Jindal, a conservative Republican congressman from the New Orleans suburbs, inherits a state that was suffering well before Hurricane Katrina.
 
 ### [ Riots erupt in the immigrant quarter of Amsterdam for the sixth night in succession after the death of a Moroccan man the previous weekend. ](/news/2007/10/20/riots-erupt-in-the-immigrant-quarter-of-amsterdam-for-the-sixth-night-in-succession-after-the-death-of-a-moroccan-man-the-previous-weekend.md)
-_Context: Amsterdam, Morocco_
+_Context: Amsterdam, Moroccan_
 
 ### [ Hundreds of thousands of left wing Italians march in Rome putting increased pressure on the Prime Minister of Italy Romano Prodi. ](/news/2007/10/20/hundreds-of-thousands-of-left-wing-italians-march-in-rome-putting-increased-pressure-on-the-prime-minister-of-italy-romano-prodi.md)
 Hundreds of thousands of left-wing Italians have marched through Rome, adding to pressure on Prime Minister Romano Prodi&#039;s Government.
@@ -28,7 +28,7 @@ _Context: Mandalay, Myanmar, September 26, State Peace and Development Council, 
 _Context: France, France's national railway company, Nicolas Sarkozy, president, strike, welfare reform_
 
 ### [ Iraqi President Jalal Talabani criticizes Syrian President Bashar al-Assad for his support of a possible Turkish attack against Kurdistan Workers Party fighters in the Iraqi Kurdistan. ](/news/2007/10/20/iraqi-president-jalal-talabani-criticizes-syrian-president-bashar-al-assad-for-his-support-of-a-possible-turkish-attack-against-kurdistan-w.md)
-_Context: Bashar al-Assad, Iraq, Iraqi Kurdistan, Jalal Talabani, Kurdistan Workers' Party, President, Syria, Syrian President, Turkish_
+_Context: Bashar al-Assad, Iraq, Iraqi Kurdistan, Jalal Talabani, Kurdistan Workers' Party, President, Syria, Syrian President, Turkey_
 
 ### [ Mikhail Gorbachev founds a new political party in Russia, called Union of Social-Democrats. ](/news/2007/10/20/mikhail-gorbachev-founds-a-new-political-party-in-russia-called-union-of-social-democrats.md)
 _Context: Mikhail Gorbachev, Russia, Union of Social-Democrats, political party_

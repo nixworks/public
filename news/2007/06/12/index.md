@@ -7,7 +7,7 @@ _Context: Chinua Achebe, Man Booker International Prize, Nigeria_
 _Context: Ami Ayalon, Ehud Barak, Labor Party, Prime Minister of Israel_
 
 ### [ The PKK declares that it will stop attacks on Turkey but will defend itself if attacked. ](/news/2007/06/12/the-pkk-declares-that-it-will-stop-attacks-on-turkey-but-will-defend-itself-if-attacked.md)
-_Context: Kurdistan Workers' Party, Turkish_
+_Context: Kurdistan Workers' Party, Turkey_
 
 ### [ Jamaican police declare that former Pakistani cricket team coach Bob Woolmer died of natural causes, ending a murder investigation. ](/news/2007/06/12/jamaican-police-declare-that-former-pakistani-cricket-team-coach-bob-woolmer-died-of-natural-causes-ending-a-murder-investigation.md)
 _Context: Bob Woolmer, Jamaica, Pakistani cricket team, murder investigation_

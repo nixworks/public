@@ -19,7 +19,7 @@ _Context: 2008 unrest in Tibet, China's, Lhasa, Qiangba Puncog, Tibet, Tibet Aut
 _Context: 2008 National People's Congress, Hui Liangyu, Li Keqiang, Wang Qishan, Zhang Dejiang, parliament_
 
 ### [ War in Iraq: United States Vice President Dick Cheney visits Baghdad, three days before the fifth anniversary of the 2003 invasion. ](/news/2008/03/17/war-in-iraq-p-united-states-vice-president-dick-cheney-visits-baghdad-three-days-before-the-fifth-anniversary-of-the-2003-invasion.md)
-_Context: 2003 invasion of Iraq, Baghdad, Dick Cheney, Iraq, U.S. Vice President, United States, War in Iraq_
+_Context: 2003 invasion of Iraq, Baghdad, Dick Cheney, Iraq, U.S., U.S. Vice President, War in Iraq_
 
 ### [ Pakistan: The new Parliament convenes for the first time after the 2008 general election. ](/news/2008/03/17/pakistan-p-the-new-parliament-convenes-for-the-first-time-after-the-2008-general-election.md)
 _Context: Pakistan, Parliament, by-elections_
@@ -46,7 +46,7 @@ _Context: Franko Simatović, International Criminal Tribunal for the former Yugo
 _Context: Central-African, Joseph Kony, Lord's Resistance Army, Uganda, ceasefire_
 
 ### [ A suicide bomber attacks a NATO convoy in Gereshk in Helmand province of Afghanistan, killing three Afghan civilians. ](/news/2008/03/17/a-suicide-bomber-attacks-a-nato-convoy-in-gereshk-in-helmand-province-of-afghanistan-killing-three-afghan-civilians.md)
-_Context: Afghan, Gereshk, Helmand, NATO, suicide bomber_
+_Context: Afghanistan, Gereshk, Helmand, NATO, suicide bomber_
 
 ### [ World War II Royal Australian Navy warship HMAS ''Sydney'' is discovered off the coast of Western Australia after being missing for 65 years with the loss of all 600+ crew. ](/news/2008/03/17/world-war-ii-royal-australian-navy-warship-hmas-sydney-is-discovered-off-the-coast-of-western-australia-after-being-missing-for-65-year.md)
 The group searching for HMAS Sydney has found the wreckage of the World War II Australian warship off the coast of Western Australia, the ABC has confirmed.

@@ -16,7 +16,7 @@ _Context: Dhaka, Islamist, police officers_
 _Context: Federally Administered Tribal Areas, Jamiat Ulema-e-Islam, Kurram, Pakistan, War in North-West Pakistan_
 
 ### [Wal-Mart passes ExxonMobil as the largest company by revenue on the annual Fortune 500 list. ](/news/2013/05/6/wal-mart-passes-exxonmobil-as-the-largest-company-by-revenue-on-the-annual-fortune-500-list.md)
-_Context: ExxonMobil, Fortune 500, Walmart_
+_Context: ExxonMobil Corporation, Fortune 500, Walmart_
 
 ### [Bank of America agrees to pay US$1.6 billion to insurer MBIA to settle a long-running dispute between MBIA and two companies Bank of America had since acquired. ](/news/2013/05/6/bank-of-america-agrees-to-pay-us-1-6-billion-to-insurer-mbia-to-settle-a-long-running-dispute-between-mbia-and-two-companies-bank-of-america.md)
 _Context: Bank of America, MBIA, US$_

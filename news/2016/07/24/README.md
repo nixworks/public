@@ -34,7 +34,7 @@ The head of the Democratic Party resigned on Sunday amid a furor over embarrassi
 _Context: Khadga Prasad Oli, Prime Minister, parliament_
 
 ### [In an unusual show of unity, tens of thousands of supporters of Turkey's ruling party and the country's main opposition parties hold a cross-party "Republic and Democracy" rally in support of democracy in Istanbul's central Taksim Square. ](/news/2016/07/24/in-an-unusual-show-of-unity-tens-of-thousands-of-supporters-of-turkey-s-ruling-party-and-the-country-s-main-opposition-parties-hold-a-cross.md)
-_Context: CHP, Istanbul, Taksim Square, Turkish, last year's coup attempt, ruling party_
+_Context: CHP, Istanbul, Taksim Square, Turkey, last year's coup attempt, ruling party_
 
 ### [The International Olympic Committee states it considers all Russian athletes tainted by the country's state-run doping scheme but individual athletes can compete in 2016 Games if they are able to convince individual sports federations of their innocence. A daunting task for these organizations to handle hundreds of appeals just 12 days before the start of the Rio Games on 5 August. ](/news/2016/07/24/the-international-olympic-committee-states-it-considers-all-russian-athletes-tainted-by-the-countryas-state-run-doping-scheme-but-individu.md)
 The IOC is leaving it up to global federations to decide which Russian athletes to accept in their sports.

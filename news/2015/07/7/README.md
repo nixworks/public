@@ -10,7 +10,7 @@ Saudi-led coalition air strikes and clashes killed at least 176 fighters and civ
 _Context: Kenya, Terrorism in Kenya, War in Somalia (2009–present), al-Shabaab_
 
 ### [ A NATO convoy is hit by a suicide car bomb in Kabul. Three or four civilians are injured; no fatalities have been reported. ](/news/2015/07/7/a-nato-convoy-is-hit-by-a-suicide-car-bomb-in-kabul-three-or-four-civilians-are-injured-no-fatalities-have-been-reported.md)
-_Context: NATO, War in Afghanistan_
+_Context: NATO, War in Afghanistan (2015–present)_
 
 ### [Eurozone leaders hold a crisis meeting to discuss options on Greek debt following the referendum as Greek banks are near to running out of cash. For the last week Greek banks allowed to withdraw only 60 euros a day. ](/news/2015/07/7/eurozone-leaders-hold-a-crisis-meeting-to-discuss-options-on-greek-debt-following-the-referendum-as-greek-banks-are-near-to-running-out-of-c.md)
 The eurozone gives Greece until Thursday to present final proposals to secure a deal with creditors, and calls a full EU summit for Sunday.

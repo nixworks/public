@@ -10,7 +10,7 @@ Libyan leader Colonel Muammar Gaddafi says no-one can force him to leave his cou
 _Context: Cambodia, Oddar Meanchey Province, Thailand_
 
 ### [Moroccan interior minister Taieb Cherkaoui says the bomb detonated in Marrakech was set off remotely. ](/news/2011/04/30/moroccan-interior-minister-taieb-cherkaoui-says-the-bomb-detonated-in-marrakech-was-set-off-remotely.md)
-_Context: Marrakech, Morocco, Taieb Cherkaoui, bomb detonated_
+_Context: Marrakech, Moroccan, Taieb Cherkaoui, bomb detonated_
 
 ### [A study carried out by the Danish Booksellers Association reveals almost one third of Danes over the age of 14 read at least one book annually written in the English language. ](/news/2011/04/30/a-study-carried-out-by-the-danish-booksellers-association-reveals-almost-one-third-of-danes-over-the-age-of-14-read-at-least-one-book-annual.md)
 _Context: Danes_

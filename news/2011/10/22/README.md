@@ -10,7 +10,7 @@ _Context: Bijanbari, Darjeeling, India, West Bengal, suspension bridge_
 _Context: Libya, Mahmoud Jibril, National Transitional Council_
 
 ### [Morocco, Togo, Guatemala and Pakistan are elected to the United Nations Security Council, with a fifth seat still undecided. ](/news/2011/10/22/morocco-togo-guatemala-and-pakistan-are-elected-to-the-united-nations-security-council-with-a-fifth-seat-still-undecided.md)
-_Context: Guatemala, Morocco, Pakistan, Togo, United Nations Security Council, elected_
+_Context: Guatemala, Moroccan, Pakistan, Togo, United Nations Security Council, elected_
 
 ### [Saudi heir Crown Prince Sultan bin Abdulaziz Al-Saud dies, leaving questions as to the succession in the kingdom. Hard-line conservative Prince Nayef bin Abdul-Aziz becomes likely successor. ](/news/2011/10/22/saudi-heir-crown-prince-sultan-bin-abdulaziz-al-saud-dies-leaving-questions-as-to-the-succession-in-the-kingdom-hard-line-conservative-pri.md)
 _Context: Crown Prince Sultan, Nayef bin Abdul-Aziz, Saudi_

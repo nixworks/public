@@ -34,7 +34,7 @@ _Context: Democratic Party, Fukushima I nuclear accidents_
 _Context: 2011 Malaysian Grand Prix, Red Bull Racing, Sebastian Vettel_
 
 ### [South African golfer Charl Schwartzel wins the United States 2011 Masters Tournament. ](/news/2011/04/10/south-african-golfer-charl-schwartzel-wins-the-united-states-2011-masters-tournament.md)
-_Context: 2011 Masters Tournament, Charl Schwartzel, South Africa, United States, golf_
+_Context: 2011 Masters Tournament, Charl Schwartzel, South Africa, U.S., golf_
 
 ## [Previous Day...](/news/2011/04/9/index.md)
 

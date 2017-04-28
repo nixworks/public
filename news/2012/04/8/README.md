@@ -1,10 +1,10 @@
 ## [2012-04-8](/news/2012/04/8/index.md)
 
 ### [Syrian uprising:At least 40 people are reported killed across Syria ahead of the Tuesday deadline for Syrian armed forces to withdraw from cities, as part of a peace plan  brokered by U.N.-Arab League special envoy Kofi Annan. ](/news/2012/04/8/syrian-uprising-pat-least-40-people-are-reported-killed-across-syria-ahead-of-the-tuesday-deadline-for-syrian-armed-forces-to-withdraw-from.md)
-_Context: 2011–2012 Syrian uprising, Kofi Annan, Syria, Syrian Armed Forces_
+_Context: 2011–2012 Syrian uprising, Kofi Annan, Syria, military_
 
 ### [Afghanistan and the United States reach an agreement giving the Government of Afghanistan more control over night raids. ](/news/2012/04/8/afghanistan-and-the-united-states-reach-an-agreement-giving-the-government-of-afghanistan-more-control-over-night-raids.md)
-_Context: Afghan, Afghan government, United States_
+_Context: Afghan government, Afghanistan, U.S._
 
 ### [A car bomb explodes in the Nigerian city of Kaduna killing dozens of people. ](/news/2012/04/8/a-car-bomb-explodes-in-the-nigerian-city-of-kaduna-killing-dozens-of-people.md)
 _Context: Kaduna, Nigeria, car bomb_

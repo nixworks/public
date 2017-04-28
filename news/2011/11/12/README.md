@@ -4,7 +4,7 @@
 In a surprisingly sharp move, the Arab League voted Saturday to suspend Syria over the country&#039;s bloody crackdown on an eight-month uprising and stepped up calls on the army to stop killing civilians.
 
 ### [Nine civilians are killed by a bomb explosion on a bus in Laghman province in eastern Afghanistan in a suspected Taliban attack. ](/news/2011/11/12/nine-civilians-are-killed-by-a-bomb-explosion-on-a-bus-in-laghman-province-in-eastern-afghanistan-in-a-suspected-taliban-attack.md)
-_Context: Afghan, Laghman Province, Taliban_
+_Context: Afghanistan, Laghman Province, Taliban_
 
 ### [Two massive explosions occur at a Revolutionary Guard ammunition depot western of the Iranian capital, Tehran; at least 17 people, including a senior commander, are killed according to Iranian state media. Mossad assumed responsible. ](/news/2011/11/12/two-massive-explosions-occur-at-a-revolutionary-guard-ammunition-depot-western-of-the-iranian-capital-tehran-at-least-17-people-including.md)
 _Context: Iran, Iranian Revolutionary guards, Iranian state media, Mossad, Tehran, Two massive explosions_

@@ -10,7 +10,7 @@ _Context: Borno State, Maiduguri, Nigeria, Yusuf Mohamed_
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
 ### [ The United States and China continue the first U.S.-China Strategic and Economic Dialogue. ](/news/2009/07/28/the-united-states-and-china-continue-the-first-u-s-china-strategic-and-economic-dialogue.md)
-_Context: China's, U.S.-China Strategic and Economic Dialogue, United States_
+_Context: China's, U.S., U.S.-China Strategic and Economic Dialogue_
 
 ### [ South African police clash with about 200 protesters at an informal settlement outside Johannesburg. ](/news/2009/07/28/south-african-police-clash-with-about-200-protesters-at-an-informal-settlement-outside-johannesburg.md)
 _Context: Johannesburg, South Africa_
@@ -22,7 +22,7 @@ _Context: Kashmir, Omar Abdullah, prostitution, sexual intercourse_
 Police in London have arrested and charged three men in connection with the seizure of €440m worth of cocaine in west Cork in July 2007.
 
 ### [ Abdelkader Belliraj, accused of leading an Islamist militant group and committing six murders in Belgium, is sentenced to life imprisonment in Morocco. ](/news/2009/07/28/abdelkader-belliraj-accused-of-leading-an-islamist-militant-group-and-committing-six-murders-in-belgium-is-sentenced-to-life-imprisonment.md)
-_Context: Abdelkader Belliraj, Belgium, Islamist, Morocco_
+_Context: Abdelkader Belliraj, Belgium, Islamist, Moroccan_
 
 ### [ Efforts to free two aid workers from Ireland and Uganda who were kidnapped in Darfur on 3 July are said to be "ongoing". ](/news/2009/07/28/efforts-to-free-two-aid-workers-from-ireland-and-uganda-who-were-kidnapped-in-darfur-on-3-july-are-said-to-be-ongoing.md)
 Efforts to free two workers for aid agency Goal kidnapped in Darfur almost a month ago are &#39;ongoing&#39;, officials said today.

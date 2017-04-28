@@ -7,7 +7,7 @@ _Context: Carlos Gomes Júnior, Guinea-Bissau, João Bernardo Vieira_
 _Context: Andrea Nahles, Franz Müntefering, Germany, Kajo Wasserhövel, November 14, Social Democratic Party of Germany_
 
 ### [ U.S. President George W. Bush nominates Judge Samuel Alito of the Third Circuit Court of Appeals to the U.S. Supreme Court. ](/news/2005/10/31/u-s-president-george-w-bush-nominates-judge-samuel-alito-of-the-third-circuit-court-of-appeals-to-the-u-s-supreme-court.md)
-_Context: George W. Bush, Samuel Alito, Supreme Court of the United States, Third Circuit Court of Appeals, U.S. President, United States_
+_Context: George W. Bush, Samuel Alito, Supreme Court of the United States, Third Circuit Court of Appeals, U.S., U.S. President_
 
 ### [ Japanese Prime Minister Junichiro Koizumi announces his fifth cabinet. Shinzo Abe, former Secretary General of the Liberal Democratic Party, becomes Chief Cabinet Secretary and is widely speculated to be Koizumi's chosen successor. Former Interior Minister Taro Aso becomes Foreign Minister, and is replaced by former economic advisor Heizo Takenaka. ](/news/2005/10/31/japanese-prime-minister-junichiro-koizumi-announces-his-fifth-cabinet-shinzo-abe-former-secretary-general-of-the-liberal-democratic-party.md)
 _Context: Chief Cabinet Secretary, Heizo Takenaka, Interior Minister, Japan, Japanese Foreign Minister, Junichiro Koizumi, Liberal Democratic Party, Prime Minister, Shinzo Abe, Taro Aso_

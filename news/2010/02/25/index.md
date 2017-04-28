@@ -10,7 +10,7 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 _Context: Sarath Fonseka, Sri Lanka, treason_
 
 ### [Turkey's prime minister and president hold talks with the head of the country's armed forces over an investigation into an alleged military coup. ](/news/2010/02/25/turkey-s-prime-minister-and-president-hold-talks-with-the-head-of-the-country-s-armed-forces-over-an-investigation-into-an-alleged-military.md)
-_Context: Turkish, military coup_
+_Context: Turkey, military coup_
 
 ### [South Africa announces it has intercepted a ship carrying North Korean arms destined for central Africa, travelling by way of China, in violation of Security Council Resolution 1874. ](/news/2010/02/25/south-africa-announces-it-has-intercepted-a-ship-carrying-north-korean-arms-destined-for-central-africa-travelling-by-way-of-china-in-viol.md)
 _Context: China's, North Korea, South Africa, sanctions_

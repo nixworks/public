@@ -31,7 +31,7 @@ _Context: Illegal immigration from Africa to Europe_
 Exit poll puts his PRI party ahead with 33% in the lower house elections dominated by violence and fears about corruption and the economy
 
 ### [Voters in Turkey go to the polls for a general election with the ruling AKP seeking enough votes to enable them to change the constitution. However, early projections show that they will lose their majority in the new parliament.  ](/news/2015/06/7/voters-in-turkey-go-to-the-polls-for-a-general-election-with-the-ruling-akp-seeking-enough-votes-to-enable-them-to-change-the-constitution.md)
-_Context: Turkish, constitution, election in June, ruling party_
+_Context: Turkey, constitution, election in June, ruling party_
 
 ### [In tennis, Stan Wawrinka of Switzerland defeats Novak Djokovic of Serbia 4-6, 6-4, 6-3, 6-4 in the men's singles final for his first win at Roland Garros and his second Grand Slam singles title. Wawrinka's victory also denies Djokovic a career Grand Slam. ](/news/2015/06/7/in-tennis-stan-wawrinka-of-switzerland-defeats-novak-djokovic-of-serbia-4a6-6a4-6a3-6a4-in-the-men-s-singles-final-for-his-first.md)
 French Open 2015 men&#039;s final, Novak Djokovic vs Stan Wawrinka - Latest score, news update, live match report and result from the final at Roland Garros on Sunday June 7, 2015

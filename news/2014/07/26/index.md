@@ -7,13 +7,13 @@ _Context: 2014 Israel–Gaza conflict, Gaza Strip, Hamas, Israel_
 Get up to the minute breaking political news and in-depth analysis on ABCNews.com.
 
 ### [Taliban insurgency:Insurgents stop minibuses in Ghor Province, Afghanistan and execute 14 Shiite Muslims. ](/news/2014/07/26/taliban-insurgency-pinsurgents-stop-minibuses-in-ghar-province-afghanistan-and-execute-14-shiite-muslims.md)
-_Context: Afghan, Ghōr Province, Shi'ite, Taliban insurgency_
+_Context: Afghanistan, Ghōr Province, Shi'ite, Taliban insurgency_
 
 ### [2014 West Africa Ebola outbreak:Dr. Kent Brantly, the medical director for Samaritan's Purse in Liberia, tests positive for the virus. ](/news/2014/07/26/2014-west-africa-ebola-outbreak-pdr-kent-brantly-the-medical-director-for-samaritan-s-purse-in-liberia-tests-positive-for-the-virus.md)
 _Context: 2014 West Africa Ebola outbreak, Samaritan's Purse_
 
 ### [Turkey's state run Anadolu Agency reports that twenty police officers have been charged with illegal wiretaps of officials including the Prime Minister of Turkey Recep Tayyip Erdogan. Another 49 are awaiting questioning. ](/news/2014/07/26/turkey-s-state-run-anadolu-agency-reports-that-twenty-police-officers-have-been-charged-with-illegal-wiretaps-of-officials-including-the-pri.md)
-_Context: Anadolu News Agency, Prime Minister of Turkey, Recep Tayyip Erdoğan, Turkish, wiretap_
+_Context: Anadolu News Agency, Prime Minister of Turkey, Recep Tayyip Erdoğan, Turkey, wiretap_
 
 ### [Pedro Sanchez Perez-Castejon is elected Secretary-General of the Spanish Socialist Workers' Party by an extraordinary congress, following the party's first-ever primary elections, and thereby becomes leader of the Spanish opposition. ](/news/2014/07/26/pedro-sa-nchez-pa-c-rez-casteja3n-is-elected-secretary-general-of-the-spanish-socialist-workers-party-by-an-extraordinary-congress-following.md)
 Grass root members of Spain’s Socialist party have elected a new leader. He is 42-year-old Pedro Sanchez, a sitting MP with a doctorate in

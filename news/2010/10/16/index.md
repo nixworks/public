@@ -34,7 +34,7 @@ _Context: China, Darfur, U.N._
 _Context: United Nations, World Food Day_
 
 ### [The Israeli Air Force and the Hellenic Air Force combine for manoeuvres involving helicopters and jets as Israel seeks new air links following its disagreement with Turkey. ](/news/2010/10/16/the-israeli-air-force-and-the-hellenic-air-force-combine-for-manoeuvres-involving-helicopters-and-jets-as-israel-seeks-new-air-links-followi.md)
-_Context: Gaza flotilla raid, Hellenic Air Force, Israel, Israeli Air Force, Turkish_
+_Context: Gaza flotilla raid, Hellenic Air Force, Israel, Israeli Air Force, Turkey_
 
 ### [Zambia investigates an incident in which managers at a Chinese-run mine allegedly shot and wounded at least 11 miners who had objected to their working conditions. ](/news/2010/10/16/zambia-investigates-an-incident-in-which-managers-at-a-chinese-run-mine-allegedly-shot-and-wounded-at-least-11-miners-who-had-objected-to-th.md)
 Zambian police investigate claims that managers at a Chinese-run coal mine in the south of the country shot and wounded at least 11 local workers.

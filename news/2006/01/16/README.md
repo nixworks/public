@@ -19,7 +19,7 @@ _Context: Al Gore, George W. Bush, U.S. President, U.S. Vice President, United S
 _Context: Geoff Gallop, Premier, depression_
 
 ### [ At least 27 people are killed in two suicide bombings in Afghanistan. ](/news/2006/01/16/at-least-27-people-are-killed-in-two-suicide-bombings-in-afghanistan.md)
-_Context: Afghan_
+_Context: Afghanistan_
 
 ### [ Ellen Johnson Sirleaf is sworn in as Liberia's new president. She becomes Africa's first female elected head of state. ](/news/2006/01/16/ellen-johnson-sirleaf-is-sworn-in-as-liberia-s-new-president-she-becomes-africa-s-first-female-elected-head-of-state.md)
 _Context: Ellen Johnson Sirleaf, Liberia, President_

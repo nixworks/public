@@ -28,7 +28,7 @@ _Context: Iraq, MiG 21, MiG-23, Serbia, Yugoslavia_
 _Context: Billboard Hot 100, I'm Yours, Jason Mraz, single_
 
 ### [ Armenia and Turkey agree to establish diplomatic relations. ](/news/2009/08/31/armenia-and-turkey-agree-to-establish-diplomatic-relations.md)
-_Context: Armenia, Turkish, diplomatic relations_
+_Context: Armenia, Turkey, diplomatic relations_
 
 ## [Previous Day...](/news/2009/08/30/index.md)
 

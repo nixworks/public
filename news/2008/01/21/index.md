@@ -1,7 +1,7 @@
 ## [2008-01-21](/news/2008/01/21/index.md)
 
 ### [ A Turkish court bans YouTube for the second time because of clips deemed disrespectful to Mustafa Kemal Atatrk. ](/news/2008/01/21/a-turkish-court-bans-youtube-for-the-second-time-because-of-clips-deemed-disrespectful-to-mustafa-kemal-ataturk.md)
-_Context: Mustafa Kemal Atatürk, Turkish, YouTube_
+_Context: Mustafa Kemal Atatürk, Turkey, YouTube_
 
 ### [ An Israeli TecSAR spy satellite is launched aboard an Indian Polar Satellite Launch Vehicle. ](/news/2008/01/21/an-israeli-tecsar-spy-satellite-is-launched-aboard-an-indian-polar-satellite-launch-vehicle.md)
 _Context: India, Israel, Polar Satellite Launch Vehicle, TecSAR, spy satellite_

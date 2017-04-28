@@ -4,7 +4,7 @@
 Eight soldiers are killed in an ambush in northern Paraguay in an attack blamed on a Marxist rebel group.
 
 ### [Suspected Kurdish militants fire rockets at Diyarbakir Airport in Diyarbakir, Turkey. ](/news/2016/08/27/suspected-kurdish-militants-fire-rockets-at-diyarbaka-r-airport-in-diyarbaka-r-turkey.md)
-_Context: Diyarbakır, Diyarbakır Airport, Kurdish, Kurdish–Turkish conflict (2015–present), Turkish_
+_Context: Diyarbakır, Diyarbakır Airport, Kurdish, Kurdish–Turkish conflict (2015–present), Turkey_
 
 ### [A fire at a warehouse in Moscow, Russia, kills at least 17 people, all migrant workers from Kyrgyzstan.  The Investigative Committee of Russia, which reports directly to President Vladimir Putin, says a criminal inquiry has been launched. ](/news/2016/08/27/a-fire-at-a-warehouse-in-moscow-russia-kills-at-least-17-people-all-migrant-workers-from-kyrgyzstan-the-investigative-committee-of-russ.md)
 _Context: Investigative Committee of Russia, Kyrgyzstan, Moscow, Russia, Russian President, Vladimir Putin_

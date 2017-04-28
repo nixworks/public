@@ -37,7 +37,7 @@ Turkish police detained 27 people on Wednesday in connection with a bomb attack 
 One person was killed and another seriously injured when a crane suddenly crashed and fell on them during airport expansion work near the domestic terminal here today, police said. 
 
 ### [The International Whaling Commission does not reach agreement on curbing whaling by Japan, Norway and Iceland in a meeting in Agadir, Morocco. ](/news/2010/06/23/the-international-whaling-commission-does-not-reach-agreement-on-curbing-whaling-by-japan-norway-and-iceland-in-a-meeting-in-agadir-morocc.md)
-_Context: Agadir, Iceland, International Whaling Commission , Japan, Morocco, Norway, hunt_
+_Context: Agadir, Iceland, International Whaling Commission , Japan, Moroccan, Norway, hunt_
 
 ### [The Palace of Monaco announces the engagement of Albert II, Prince of Monaco to South African native and Olympian swimmer Charlene Wittstock. ](/news/2010/06/23/the-palace-of-monaco-announces-the-engagement-of-albert-ii-prince-of-monaco-to-south-african-native-and-olympian-swimmer-charlene-wittstock.md)
 _Context: Albert II, Prince of Monaco, Charlene, Princess of Monaco, Palace of Monaco, South Africa_

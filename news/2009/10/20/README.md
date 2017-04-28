@@ -1,7 +1,7 @@
 ## [2009-10-20](/news/2009/10/20/index.md)
 
 ### [ Afghanistan's election commission orders a run-off election for November 7 in the Afghan presidential election. ](/news/2009/10/20/afghanistan-s-election-commission-orders-a-run-off-election-for-november-7-in-the-afghan-presidential-election.md)
-_Context: Afghan, presidential election, run-off election_
+_Context: Afghanistan, presidential election, run-off election_
 
 ### [ In a set of canon laws, the Vatican welcomes groups of Anglicans as "personal ordinariates" into the Catholic Church, Pope Benedict XVI announces. ](/news/2009/10/20/in-a-set-of-canon-laws-the-vatican-welcomes-groups-of-anglicans-as-personal-ordinariates-into-the-catholic-church-pope-benedict-xvi-ann.md)
 _Context: Anglican, Benedict XVI, Catholic Church, Vatican, canon law_
@@ -46,7 +46,7 @@ _Context: Silvio Berlusconi_
 _Context: witch_
 
 ### [ The United States observes the National Day on Writing, sponsored by the National Council of Teachers of English (''Pittsburgh Post-Gazette'') [http://www.post-gazette.com/pg/09293/1006870-44.stmP].](/news/2009/10/20/the-united-states-observes-the-national-day-on-writing-sponsored-by-the-national-council-of-teachers-of-english-pittsburgh-post-gazette.md)
-_Context: National Council of Teachers of English, National Day on Writing, United States_
+_Context: National Council of Teachers of English, National Day on Writing, U.S._
 
 ## [Previous Day...](/news/2009/10/19/index.md)
 

@@ -4,7 +4,7 @@
 _Context: Aleppo, Deir ez-Zor, Syria, Syrian Civil War_
 
 ### [War in Afghanistan:Two suicide bombings near a NATO base kill at least 12 people and wound 50 others in the Sayed Abad district of Afghanistan's Wardak province. ](/news/2012/09/1/war-in-afghanistan-ptwo-suicide-bombings-near-a-nato-base-kill-at-least-12-people-and-wound-50-others-in-the-sayed-abad-district-of-afghanis.md)
-_Context: Afghan, NATO, Sayed Abad district, War in Afghanistan (2001–present), Wardak province_
+_Context: Afghanistan, NATO, Sayed Abad district, War in Afghanistan (2001–present), Wardak province_
 
 ### [Mexican Drug War:Eduardo Arellano Felix, a former drug lord of the Tijuana Cartel, is extradited to the United States from Mexico. He is the last brother of the cartel in a 2003 indictment to be extradited. ](/news/2012/09/1/mexican-drug-war-peduardo-arellano-fa-c-lix-a-former-drug-lord-of-the-tijuana-cartel-is-extradited-to-the-united-states-from-mexico-he-is-t.md)
 _Context: Eduardo Arellano Félix, Mexican Drug War, Tijuana Cartel_
@@ -22,7 +22,7 @@ _Context: Carlo Maria Martini, Catholic Church_
 US songwriter Hal David, who wrote dozens of hit songs with collaborator Burt Bacharach, dies from complications stemming from a stroke aged 91.
 
 ### [Tent cabins in Yosemite National Park, U.S., are closed after officials notify 3,100 recent visitors of an outbreak of Hantavirus. ](/news/2012/09/1/tent-cabins-in-yosemite-national-park-u-s-are-closed-after-officials-notify-3-100-recent-visitors-of-an-outbreak-of-hantavirus.md)
-_Context: Hantavirus, United States, Yosemite National Park, an outbreak_
+_Context: Hantavirus, U.S., Yosemite National Park, an outbreak_
 
 ### [A nuclear reactor in Belgium shows up to 0.3 m-depth signs of erosion weakening the 1.2 m outer reinforced concrete mantle, three times deeper than previously reported. The owner and the nuclear regulator deny any risk since the reactor was already shut down due to another issue. ](/news/2012/09/1/a-nuclear-reactor-in-belgium-shows-up-to-0-3-m-depth-signs-of-erosion-weakening-the-1-2-m-outer-reinforced-concrete-mantle-three-times-deep.md)
 _Context: A nuclear reactor, Belgium, another, nuclear regulator, owner_
@@ -37,7 +37,7 @@ _Context: 16th Summit of the Non-Aligned Movement, China, Iran, Palestinian, Syr
 State media declares dos Santos as president-elect after his MPLA party takes unassailable lead in general elections.
 
 ### [U.S.environmentalists vow to legally fight the federal end of protecting the wolf in Wyoming, saying the species still needs protection to maintain its successful recovery. ](/news/2012/09/1/u-s-environmentalists-vow-to-legally-fight-the-federal-end-of-protecting-the-wolf-in-wyoming-saying-the-species-still-needs-protection-to-m.md)
-_Context: American, United States, Wyoming, environmental activists, needs protection, wolf_
+_Context: American, U.S., Wyoming, environmental activists, needs protection, wolf_
 
 ### [Ten days after public remarks, U.S. presidential running mate Paul Ryan's personal record on the marathon run goes from less than 3 to over 4 hours. ](/news/2012/09/1/ten-days-after-public-remarks-u-s-presidential-running-mate-paul-ryan-s-personal-record-on-the-marathon-run-goes-from-less-than-3-to-over.md)
 _Context: Paul Ryan, marathon, running mate_

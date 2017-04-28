@@ -13,7 +13,7 @@ DUBLIN - Irish bishops and politicians called Wednesday for the release of an el
 _Context: United Nations, malnutrition_
 
 ### [ Armenian President Serzh Sargsyan visits Turkey to attend a qualifying match between the nations for the FIFA World Cup. Turkish fans boo the Armenian anthem. ](/news/2009/10/14/armenian-president-serzh-sargsyan-visits-turkey-to-attend-a-qualifying-match-between-the-nations-for-the-fifa-world-cup-turkish-fans-boo-t.md)
-_Context: Armenia, Armenian President, Serzh Sargsyan, Turkish, World Cup, the Armenian anthem_
+_Context: Armenia, Armenian President, Serzh Sargsyan, Turkey, World Cup, the Armenian anthem_
 
 ### [ The Dow Jones closes above 10,000 points for the first time in more than a year. ](/news/2009/10/14/the-dow-jones-closes-above-10-000-points-for-the-first-time-in-more-than-a-year.md)
 Asian markets rose Thursday morning, after the Dow Jones industrial average closed above 10,000 points Wednesday in a milestone of recovery.

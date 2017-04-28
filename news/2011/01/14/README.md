@@ -22,7 +22,7 @@ Sarah Palin was straining to look presidential. With the Stars and Stripes at he
 At least 247 people have been killed in violence in Ivory Coast since its disputed November 28 presidential election, the United Nations human rights office said on Friday.
 
 ### [The Taliban abandons its opposition to female education in Afghanistan due to a "cultural change". ](/news/2011/01/14/the-taliban-abandons-its-opposition-to-female-education-in-afghanistan-due-to-a-cultural-change.md)
-_Context: Afghan, Taliban_
+_Context: Afghanistan, Taliban_
 
 ### [Israel increases access to the Little Western Wall for worshippers: it is an important Jewish site located in the Muslim Quarter of Jerusalem's Old City. ](/news/2011/01/14/israel-increases-access-to-the-little-western-wall-for-worshippers-it-is-an-important-jewish-site-located-in-the-muslim-quarter-of-jerusale.md)
 Israel has widened access to a revered Jewish site in the heart of the Jerusalem Old City’s Muslim quarter, a move that threatens to inflame tensions at one of the world’s most contested religious sites.
@@ -31,7 +31,7 @@ Israel has widened access to a revered Jewish site in the heart of the Jerusalem
 Blues legend Etta James is diagnosed with dementia and is undergoing treatment for leukaemia.
 
 ### [American actress Zsa Zsa Gabor has her leg amputated. ](/news/2011/01/14/american-actress-zsa-zsa-gabor-has-her-leg-amputated.md)
-_Context: United States, Zsa Zsa Gabor_
+_Context: U.S., Zsa Zsa Gabor_
 
 ### [Thousands of people march through the cities of Amman, Ma'an, Karak, Salt and Irbidin and other parts of Jordan, objecting to the government's inability to stop poverty and increased living costs. Prime Minister Samir Rifai, described as a "coward", is asked to resign. ](/news/2011/01/14/thousands-of-people-march-through-the-cities-of-amman-ma-an-karak-salt-and-irbidin-and-other-parts-of-jordan-objecting-to-the-government.md)
 _Context: Al-Karak, Amman, Jordan, Ma'an, Prime Minister, Salt, Samir Rifai_
@@ -73,7 +73,7 @@ _Context: Guyana, Palestinian_
 _Context: Desmond Tutu, Holocaust, South Africa, Warren Goldstein, rabbi_
 
 ### [The Obama administration in the United States eases travel and other restrictions on Cuba. ](/news/2011/01/14/the-obama-administration-in-the-united-states-eases-travel-and-other-restrictions-on-cuba.md)
-_Context: Barack Obama, Cuba, Obama Administration, United States_
+_Context: Barack Obama, Cuba, Obama Administration, U.S._
 
 ### [The United States Treasury Department says "no" to calls by enraged American politicians to have Julian Assange and the WikiLeaks website added to its economic blacklist or sanctions list like so-called "terrorist groups". The Treasury Department cites a lack of "evidence at this time". ](/news/2011/01/14/the-united-states-treasury-department-says-no-to-calls-by-enraged-american-politicians-to-have-julian-assange-and-the-wikileaks-website-ad.md)
 WikiLeaks and Founder Julian Assange Will Not Be Added to Economic Terrorist Blacklist, Treasury Dept. Says, Despite Pressure
@@ -106,7 +106,7 @@ _Context: Naoto Kan, Prime Minister, Tokyo_
 Labour win the Oldham East and Saddleworth by-election with a majority of more than 3,500, holding off the challenge of the Liberal Democrats.
 
 ### [Reince Priebus of Wisconsin is elected as the chairman of the United States Republican National Committee. ](/news/2011/01/14/reince-priebus-of-wisconsin-is-elected-as-the-chairman-of-the-united-states-republican-national-committee.md)
-_Context: Reince Priebus, Republican National Committee, United States, Wisconsin_
+_Context: Reince Priebus, Republican National Committee, U.S., Wisconsin_
 
 ### [At a university seminar in New Delhi, India's home secretary G. K. Pillai announces unexpected plans to reduce security forces in Kashmir by 25 per cent so that "people don't get harassed by the over-presence of security forces". ](/news/2011/01/14/at-a-university-seminar-in-new-delhi-india-s-home-secretary-g-k-pillai-announces-unexpected-plans-to-reduce-security-forces-in-kashmir-by.md)
 _Context: G. K. Pillai, India, Kashmir, New Delhi_

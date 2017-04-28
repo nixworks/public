@@ -13,7 +13,7 @@ _Context: CIA, George W. Bush, Karl Rove, Matthew Cooper, Time, Valerie Plame, g
 _Context: Guadalajara, firefighter, forest fire_
 
 ### [ According to the Military of Pakistan, 17 people have died, including a Pakistani soldier, following clashes on the border with Afghanistan. ](/news/2005/07/17/according-to-the-military-of-pakistan-17-people-have-died-including-a-pakistani-soldier-following-clashes-on-the-border-with-afghanistan.md)
-_Context: Afghan, Pakistan, military_
+_Context: Afghanistan, Pakistan, military_
 
 ### [ Conflict in Iraq: A fuel truck bomb kills 98 people south of Baghdad as three more suicide car bombers strike the Iraqi capital. ](/news/2005/07/17/conflict-in-iraq-a-fuel-truck-bomb-kills-98-people-south-of-baghdad-as-three-more-suicide-car-bombers-strike-the-iraqi-capital.md)
 _Context: Baghdad, Conflict in Iraq_
@@ -43,7 +43,7 @@ _Context: Amaka Anajemba, Nigeria_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ In Turkey, Kurdistan Workers' Party has denied that it had anything to do with a minibus bombing in Kusadasi that killed five people. Turkish authorities have blamed the Party. ](/news/2005/07/17/in-turkey-kurdistan-workers-party-has-denied-that-it-had-anything-to-do-with-a-minibus-bombing-in-kuaadasa-that-killed-five-people-tur.md)
-_Context: Kurdistan Workers' Party, Turkish, minibus bombing in Kuşadası_
+_Context: Kurdistan Workers' Party, Turkey, minibus bombing in Kuşadası_
 
 ### [ In India, the government has dismissed a claim of Sunni Waqf Board that it should own the Taj Mahal.  ](/news/2005/07/17/in-india-the-government-has-dismissed-a-claim-of-sunni-waqf-board-that-it-should-own-the-taj-mahal.md)
 _Context: Sunni Waqf Board, Taj Mahal_

@@ -4,7 +4,7 @@
 Two US drone missile attacks kill at least 15 people in the Pakistani tribal region bordering Afghanistan, officials say.
 
 ### [A report from Refugees International blames NATO's air strikes, its arming of militias, and home raids for the displacement of more than 250,000 people in Afghanistan, a problem which is increasing. ](/news/2011/06/28/a-report-from-refugees-international-blames-nato-s-air-strikes-its-arming-of-militias-and-home-raids-for-the-displacement-of-more-than-250.md)
-_Context: Afghan, NATO, Refugees International_
+_Context: Afghanistan, NATO, Refugees International_
 
 ### [Attack on Kabul InterContinental Hotel:Afghan militants attack the Kabul InterContinental Hotel resulting in the deaths of nine Taliban members and five or six hotel workers or guests. ](/news/2011/06/28/attack-on-kabul-intercontinental-hotel-pafghan-militants-attack-the-kabul-intercontinental-hotel-resulting-in-the-deaths-of-nine-taliban-mem.md)
 Six bombers said to have stormed the Intercontinental, popular with foreigners and officials, after a firefight outside.

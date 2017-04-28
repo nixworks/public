@@ -4,7 +4,7 @@
 _Context: Franco, Roman Catholic Church, Spanish Civil War, beatified, controversy, dictator, executed_
 
 ### [ The Prime Minister of Israel Ehud Olmert apologizes to the Prime Minister of Turkey Recep Tayyip Erdogan for possibly violating Turkish airspace. ](/news/2007/10/28/the-prime-minister-of-israel-ehud-olmert-apologizes-to-the-prime-minister-of-turkey-recep-tayyip-erdoaan-for-possibly-violating-turkish-ai.md)
-_Context: Ehud Olmert, Prime Minister of Israel, Prime Minister of Turkey, Recep Tayyip Erdoğan, Turkish_
+_Context: Ehud Olmert, Prime Minister of Israel, Prime Minister of Turkey, Recep Tayyip Erdoğan, Turkey_
 
 ### [ Numerous locations and machines in North America are affected by newly instituted rules governing daylight saving time. ](/news/2007/10/28/numerous-locations-and-machines-in-north-america-are-affected-by-newly-instituted-rules-governing-daylight-saving-time.md)
 Baltimore, Maryland issues tickets to legally parked motorists after smart parking meters implement daylight saving time a week early.

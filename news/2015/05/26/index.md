@@ -1,7 +1,7 @@
 ## [2015-05-26](/news/2015/05/26/index.md)
 
 ### [A suicide bomber and gunmen attack a court building in the provincial capital of Maidan Shahr in Maidan Wardak resulting in the deaths of two police officers and four of the attackers. ](/news/2015/05/26/a-suicide-bomber-and-gunmen-attack-a-court-building-in-the-provincial-capital-of-maidan-shahr-in-maidan-wardak-resulting-in-the-deaths-of-tw.md)
-_Context: Maidan Shahr, Maidan Wardak, War in Afghanistan, suicide bomber_
+_Context: Maidan Shahr, Maidan Wardak, War in Afghanistan (2015–present), suicide bomber_
 
 ### [Thirteen Kenyan police officers are missing after an Al-Shabaab ambush in Garissa County. ](/news/2015/05/26/thirteen-kenyan-police-officers-are-missing-after-an-al-shabaab-ambush-in-garissa-county.md)
 Police spokesman George Kinoti says 13 police officers are missing and two others wounded after suspected Al shabaab attack in Yumbis, Garissa county. 

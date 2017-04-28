@@ -4,7 +4,7 @@
 Arshed Masih, a 38 year-old Pakistani Christian, died yesterday evening at 7.45 from his very serious injuries. The family requests that an autopsy is performed before the funeral. Christian associations and human rights activists demonstrate outside the hospital. Catholic leaders: the federal and provincial government do not punish the guilty. 
 
 ### [United States health care reformThe United States House of Representatives passes the Health Care and Education Reconciliation Act of 2010. ](/news/2010/03/22/united-states-health-care-reformpthe-united-states-house-of-representatives-passes-the-health-care-and-education-reconciliation-act-of-2010.md)
-_Context: Health Care and Education Reconciliation Act of 2010, U.S. House, United States_
+_Context: Health Care and Education Reconciliation Act of 2010, U.S., U.S. House_
 
 ### [Google stops censoring its search results in China, redirecting users to its Hong Kong site. ](/news/2010/03/22/google-stops-censoring-its-search-results-in-china-redirecting-users-to-its-hong-kong-site.md)
 _Context: China's, Google, Hong Kong, blocks mentions_

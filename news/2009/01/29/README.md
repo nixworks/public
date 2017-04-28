@@ -4,7 +4,7 @@
 _Context: Governor of Illinois, Illinois, Lieutenant Governor, Pat Quinn, Rod Blagojevich, Senate, corruption_
 
 ### [ Afghanistan's presidential election is delayed due to the country's security situation. ](/news/2009/01/29/afghanistan-s-presidential-election-is-delayed-due-to-the-country-s-security-situation.md)
-_Context: Afghan, War in Afghanistan (2001–present), presidential election_
+_Context: Afghanistan, War in Afghanistan (2001–present), presidential election_
 
 ### [ Zimbabwe allows the use of foreign currencies alongside its dollar. ](/news/2009/01/29/zimbabwe-allows-the-use-of-foreign-currencies-alongside-its-dollar.md)
 _Context: Zimbabwe, currency, dollar_

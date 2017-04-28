@@ -16,7 +16,7 @@ _Context: European Commission, Greece, Moody's, Portuguese, Stavros Lambrinidis_
 _Context: Japan, Jiji Press, nuclear reactor_
 
 ### [Authorities report that a cargo plane has crashed in eastern Afghanistan with casualties feared. ](/news/2011/07/6/authorities-report-that-a-cargo-plane-has-crashed-in-eastern-afghanistan-with-casualties-feared.md)
-_Context: Afghan_
+_Context: Afghanistan_
 
 ### [7 people are killed during heavy floods in Sichuan Province in the People's Republic of China. ](/news/2011/07/6/7-people-are-killed-during-heavy-floods-in-sichuan-province-in-the-people-s-republic-of-china.md)
 _Context: China's, Sichuan Province, heavy flood_
@@ -61,7 +61,7 @@ _Context: Nakba, United Nations_
 Chinese censors block internet references to former leader Jiang Zemin, whose name means &quot;river&quot;, after rumours that he has died circulate.
 
 ### [Turkish Prime Minister Recep Tayyip Erdogan announces the new cabinet of Turkey.](/news/2011/07/6/turkish-prime-minister-recep-tayyip-erdoaan-announces-the-new-cabinet-of-turkey.md)
-_Context: Recep Tayyip Erdoğan, Turkish, new cabinet_
+_Context: Recep Tayyip Erdoğan, Turkey, new cabinet_
 
 ### [Pyeongchang, South Korea is named as host of the 2018 Winter Olympics. ](/news/2011/07/6/pyeongchang-south-korea-is-named-as-host-of-the-2018-winter-olympics.md)
 Pyeongchang, South Korea has been named the host city of the 2018 Winter Olympics by a vote of the International Olympic Committee.

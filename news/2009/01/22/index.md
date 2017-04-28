@@ -7,7 +7,7 @@ _Context: Gaza Strip, Hamas, euro, fire_
 _Context: Hamas, Israel, fire, war crime_
 
 ### [ United States President Barack Obama will close Guantanamo Bay Naval Base's detention camp within one year and bans torture. ](/news/2009/01/22/united-states-president-barack-obama-will-close-guanta-namo-bay-naval-base-s-detention-camp-within-one-year-and-bans-torture.md)
-_Context: Barack Obama, Guantanamo Bay detention camp, Guantánamo Bay, U.S. President, United States, enhanced interrogation techniques, military base at Guantanamo Bay_
+_Context: Barack Obama, Guantanamo Bay detention camp, Guantánamo Bay, U.S., U.S. President, enhanced interrogation techniques, military base at Guantanamo Bay_
 
 ### [ Microsoft announces it will cut 5,000 jobs, due to a rapid decline in demand for personal computers. ](/news/2009/01/22/microsoft-announces-it-will-cut-5-000-jobs-due-to-a-rapid-decline-in-demand-for-personal-computers.md)
 With sales of PCs falling, Microsoft said it would lay off 5 percent of its work force, and warned that technology spending could wane for years to come.

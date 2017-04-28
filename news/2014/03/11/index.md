@@ -1,7 +1,7 @@
 ## [2014-03-11](/news/2014/03/11/index.md)
 
 ### [Gunmen in Kabul, Afghanistan kill Swedish Radio foreign correspondent Nils Horner. ](/news/2014/03/11/gunmen-in-kabul-afghanistan-kill-swedish-radio-foreign-correspondent-nils-horner.md)
-_Context: Afghan, Kabul, Nils Horner, Swedish Radio_
+_Context: Afghanistan, Kabul, Nils Horner, Swedish Radio_
 
 ### [Maoist rebels ambush an Indian paramilitary force in Chhattisgarh, India, killing 18 soldiers. ](/news/2014/03/11/maoist-rebels-ambush-an-indian-paramilitary-force-in-chhattisgarh-india-killing-18-soldiers.md)
 _Context: Chhattisgarh, India, Maoist_
@@ -34,7 +34,7 @@ At issue is whether the CIA violated an agreement made with the committee about 
 _Context: Atlantic slave trade, Caribbean, France, Netherlands, United Kingdom_
 
 ### [Joran van der Sloot faces an extradition case in the United States. ](/news/2014/03/11/joran-van-der-sloot-faces-an-extradition-case-in-the-united-states.md)
-_Context: Joran van der Sloot, United States_
+_Context: Joran van der Sloot, U.S._
 
 ### [The Libyan Parliament sacks Prime Minister Ali Zeidan and appoints former defense secretary Abdullah al-Thani as acting prime minister. ](/news/2014/03/11/the-libyan-parliament-sacks-prime-minister-ali-zeidan-and-appoints-former-defense-secretary-abdullah-al-thani-as-acting-prime-minister.md)
 * Parliament appoints defence minister as acting PM* Clashes between rebels, pro-government militias reported* Western powers fear chaos in o

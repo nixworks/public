@@ -4,7 +4,7 @@
 _Context: 2007 Burmese anti-government protests, Association of Southeast Asian Nations, Aung San Suu Kyi, Gloria Arroyo, Philippine, Philippine President, State Peace and Development Council, charter, opposition_
 
 ### [ 2007 Pakistani state of emergency: Pakistani Attorney General Malik Qayyum announces the Supreme Court of Pakistan has dismissed five of the six petitions against President Pervez Musharraf's re-election. [http://news.bbc.co.uk/2/hi/south_asia/7101302.stm (BBC)] At least 80 people die and 100 are wounded in sectarian violence in Kurram Agency. [http://news.bbc.co.uk/2/hi/south_asia/7101533.stm (BBC)] Pakistani President Pervez Musharraf rejects United States Deputy Secretary of State John Negroponte's demand to lift the state of emergency.{{Fact|date=December 2007}}](/news/2007/11/19/2007-pakistani-state-of-emergency-p-pakistani-attorney-general-malik-qayyum-announces-the-supreme-court-of-pakistan-has-dismissed-five-of-t.md)
-_Context: 2007 Pakistani state of emergency, John Negroponte, Kurram, Malik Qayyum, Pakistan, Pervez Musharraf, President, Supreme Court, US Deputy Secretary of State, United States, attorney general, petition, sectarian strife, state of emergency_
+_Context: 2007 Pakistani state of emergency, John Negroponte, Kurram, Malik Qayyum, Pakistan, Pervez Musharraf, President, Supreme Court, U.S., US Deputy Secretary of State, attorney general, petition, sectarian strife, state of emergency_
 
 ### [ 2007 Zasyadko mine disaster: Rescuers continue the search for 20 trapped miners, but a union official says there is "no chance" for them. ](/news/2007/11/19/2007-zasyadko-mine-disaster-rescuers-continue-the-search-for-20-trapped-miners-but-a-union-official-says-there-is-no-chance-for-them.md)
 _Context: Rescue, miner, twelve days earlier, unionize_
@@ -16,7 +16,7 @@ _Context: France's national railway company, negotiation, public-sector strikes,
 _Context: Cambodia, Khieu Samphan, Khmer Rouge, crimes against humanity, head of state, war crimes_
 
 ### [ A suicide bomber kills seven people in the Nimruz Province of Afghanistan, including the son of governor Ghulam Dastageer. ](/news/2007/11/19/a-suicide-bomber-kills-seven-people-in-the-nimruz-province-of-afghanistan-including-the-son-of-governor-ghulam-dastageer.md)
-_Context: Afghan, Ghulam Dastageer, Nimruz Province, gubernatorial elections, suicide bomber_
+_Context: Afghanistan, Ghulam Dastageer, Nimruz Province, gubernatorial elections, suicide bomber_
 
 ### [ Israel releases 450 Palestinian prisoners ahead of the 2007 Mideast peace conference with the Palestinian Authority. ](/news/2007/11/19/israel-releases-450-palestinian-prisoners-ahead-of-the-2007-mideast-peace-conference-with-the-palestinian-authority.md)
 _Context: 2007 Mideast peace conference, Israel, Palestinian, Palestinian Authority, prison_

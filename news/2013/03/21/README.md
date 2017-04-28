@@ -40,13 +40,13 @@ _Context: Buddhist, Muslim, Myanmar, communal violence, mosque_
 SC upheld the conviction of Sanjay Dutt in the Mumbai serial blasts case and sentenced him to 5 years imprisonment. The actor has one month to surrender.
 
 ### [Seven people are shot and wounded at a nightclub in Chicago, Illinois, United States. ](/news/2013/03/21/seven-people-are-shot-and-wounded-at-a-nightclub-in-chicago-illinois-united-states.md)
-_Context: Chicago, Illinois, United States, nightclub_
+_Context: Chicago, Illinois, U.S., nightclub_
 
 ### [Several BBC Twitter accounts are hacked including its Weather, Arabic and  Radio Ulster feeds by a group calling itself the Syrian Electronic Army. ](/news/2013/03/21/several-bbc-twitter-accounts-are-hacked-including-its-weather-arabic-and-radio-ulster-feeds-by-a-group-calling-itself-the-syrian-electroni.md)
 The BBC has become the latest victim of Twitter hackers as several of its feeds, including @bbcweather, are taken over by pro-Syrian hackers.
 
 ### [The suspect wanted in connection with the shooting death of prison chief Tom Clements in Colorado, is believed to be the man that was killed in a shootout with deputies in Montague County, Texas, United States. A deputy was seriously injured in the shootout. ](/news/2013/03/21/the-suspect-wanted-in-connection-with-the-shooting-death-of-prison-chief-tom-clements-in-colorado-is-believed-to-be-the-man-that-was-killed.md)
-_Context: Colorado, Montague County, Texas, United States, shooting, shootout_
+_Context: Colorado, Montague County, Texas, U.S., shooting, shootout_
 
 ### [Leader of the Australian Labor Party Julia Gillard calls a spill for all leadership positions. ](/news/2013/03/21/leader-of-the-australian-labor-party-julia-gillard-calls-a-spill-for-all-leadership-positions.md)
 _Context: Julia Gillard, Labor Party, leadership spill_

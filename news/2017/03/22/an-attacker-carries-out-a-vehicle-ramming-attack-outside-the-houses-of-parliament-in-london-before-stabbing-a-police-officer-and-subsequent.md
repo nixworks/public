@@ -13,6 +13,7 @@ Police officer is stabbed in Parliament and a women among several people struck 
 
 ### Related:
 
-1. [The death toll rises to five after a woman who fell into the River Thames dies in hospital. ](/news/2017/04/7/the-death-toll-rises-to-five-after-a-woman-who-fell-into-the-river-thames-dies-in-hospital.md) _Context: 2017 Westminster attack_
-2. [Authorities arrest at least eight people in connection with yesterday's attack. ](/news/2017/03/23/authorities-arrest-at-least-eight-people-in-connection-with-yesterday-s-attack.md) _Context: 2017 Westminster attack_
-3. [ The 400th anniversary of Guy Fawkes' attempt to blown up parliament with King James I of England inside.](/news/2005/11/5/the-400th-anniversary-of-guy-fawkes-attempt-to-blown-up-parliament-with-king-james-i-of-england-inside.md) _Context: Houses of Parliament_
+1. [The death toll rises to five after a woman who fell into the River Thames dies in hospital. ](/news/2017/04/7/the-death-toll-rises-to-five-after-a-woman-who-fell-into-the-river-thames-dies-in-hospital.md) _Context: last month's Westminster attack_
+2. [A 27-year-old man carrying several knives in a backpack is arrested at Parliament Square, London, near the site of last month's Westminster attack. ](/news/2017/04/27/a-27-year-old-man-carrying-several-knives-in-a-backpack-is-arrested-at-parliament-square-london-near-the-site-of-last-month-s-westminster.md) _Context: last month's Westminster attack_
+3. [Authorities arrest at least eight people in connection with yesterday's attack. ](/news/2017/03/23/authorities-arrest-at-least-eight-people-in-connection-with-yesterday-s-attack.md) _Context: last month's Westminster attack_
+4. [ The 400th anniversary of Guy Fawkes' attempt to blown up parliament with King James I of England inside.](/news/2005/11/5/the-400th-anniversary-of-guy-fawkes-attempt-to-blown-up-parliament-with-king-james-i-of-england-inside.md) _Context: Houses of Parliament_

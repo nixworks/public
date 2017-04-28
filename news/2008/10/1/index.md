@@ -4,7 +4,7 @@
 _Context: Bolshevik, Nicholas II, Romanov, Russia, Supreme Court of Russia, imperial dynasty_
 
 ### [ The United States Senate passes the civilian nuclear agreement with India by a vote of 86-13. India has not signed the Non-Proliferation Treaty, but may now undertake nuclear trade to the States ](/news/2008/10/1/the-united-states-senate-passes-the-civilian-nuclear-agreement-with-india-by-a-vote-of-86a13-india-has-not-signed-the-non-proliferation.md)
-_Context: India, Nuclear Non-Proliferation Treaty, United States, United States Senate, civilian nuclear agreement_
+_Context: India, Nuclear Non-Proliferation Treaty, U.S., United States Senate, civilian nuclear agreement_
 
 ### [ The National Transportation Safety Board reports that a Metrolink engineer sent a text message 22 seconds before the Chatsworth train collision in Los Angeles, California, that killed 25 people. ](/news/2008/10/1/the-national-transportation-safety-board-reports-that-a-metrolink-engineer-sent-a-text-message-22-seconds-before-the-chatsworth-train-colli.md)
 _Context: California, Chatsworth train collision, Los Angeles, California, Metrolink, National Transportation Safety Board, text message_
@@ -13,7 +13,7 @@ _Context: California, Chatsworth train collision, Los Angeles, California, Metro
 _Context: John So, Mayor, Melbourne_
 
 ### [ United States Army General David D. McKiernan, the commander of NATO forces in Afghanistan, says that a greater military presence is "needed as quickly as possible." ](/news/2008/10/1/united-states-army-general-david-d-mckiernan-the-commander-of-nato-forces-in-afghanistan-says-that-a-greater-military-presence-is-neede.md)
-_Context: Afghan, David D. McKiernan, NATO, United States Army, general_
+_Context: Afghanistan, David D. McKiernan, NATO, United States Army, general_
 
 ### [ Subprime mortgage crisis: U.S. Representative Carol Shea-Porter says that "more than 400 economists, including Nobel laureates, appealed to Congress to slow down and make sure [they] got [the bailout bill] right". ](/news/2008/10/1/subprime-mortgage-crisis-p-u-s-representative-carol-shea-porter-says-that-more-than-400-economists-including-nobel-laureates-appealed-t.md)
 _Context: Carol Shea-Porter, Nobel Memorial Prize in Economic Sciences, U.S. Congress, U.S. House, housing crisis, proposed bailout plan_

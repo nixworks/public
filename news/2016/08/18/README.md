@@ -1,7 +1,7 @@
 ## [2016-08-18](/news/2016/08/18/index.md)
 
 ### [Three bombings targeting police and military kill at least 12 people and wound 219 in southeast Turkey. ](/news/2016/08/18/three-bombings-targeting-police-and-military-kill-at-least-12-people-and-wound-219-in-southeast-turkey.md)
-_Context: Kurdish–Turkish conflict (2015–present), Turkish_
+_Context: Kurdish–Turkish conflict (2015–present), Turkey_
 
 ### [Syrian government warplanes bomb Kurdish-held areas of Al-Hasakah for the first time in the country's five-year civil war, killing at least 13 people. ](/news/2016/08/18/syrian-government-warplanes-bomb-kurdish-held-areas-of-al-hasakah-for-the-first-time-in-the-country-s-five-year-civil-war-killing-at-least.md)
 Syrian government jets reportedly bomb Kurdish-held areas of the north-eastern city of Hassakeh for the first time since the civil war began in 2011.

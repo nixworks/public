@@ -16,7 +16,7 @@ Vladimir Putin has said he hopes nuclear warheads will not be needed to deal wit
 Azerbaijani tanks on Wednesday shelled positions in the breakaway Nagorny Karabakh region for the first time in more than 20 years, the rebel defence ministry said, as Armenia arrested a former army officer accused of spying for its archfoe. Armenia and Azerbaijan fought a bloody conflict over the disputed
 
 ### [Turkey calls on all its citizens to leave all areas of Iraq except Iraqi Kurdistan, due to "increased security risks". ](/news/2015/12/9/turkey-calls-on-all-its-citizens-to-leave-all-areas-of-iraq-except-iraqi-kurdistan-due-to-increased-security-risks.md)
-_Context: Iraq, Iraqi Civil War (2014–present), Iraqi Kurdistan, Turkish_
+_Context: Iraq, Iraqi Civil War (2014–present), Iraqi Kurdistan, Turkey_
 
 ### [Angela Merkel is named as ''Time'''s Person of the Year. ](/news/2015/12/9/angela-merkel-is-named-as-time-s-person-of-the-year.md)
 _Context: Angela Merkel, Person of the Year, Time_
@@ -28,7 +28,7 @@ Fields are submerged; AIADMK worker electrocuted; old man washed away
 _Context: Floods in the United States: 2001–present, Governor of Washington, Jay Inslee, Western Washington, state of emergency_
 
 ### [The United States expands sanctions against North Korea over its alleged weapons breaches. ](/news/2015/12/9/the-united-states-expands-sanctions-against-north-korea-over-its-alleged-weapons-breaches.md)
-_Context: North Korea, United States_
+_Context: North Korea, U.S._
 
 ### [Government officials from Cuba and the U.S. met in Havana, beginning settlement discussions surrounding $1.9 billion worth of U.S. assets seized by Fidel Castro's regime in the early 1960s.  By law, the United States embargo against Cuba cannot cease until settlements are made. ](/news/2015/12/9/government-officials-from-cuba-and-the-u-s-met-in-havana-beginning-settlement-discussions-surrounding-1-9-billion-worth-of-u-s-assets-se.md)
 A negotiated settlement could be a huge step in normalizing relations. But Cuba has its own claims.

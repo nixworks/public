@@ -19,7 +19,7 @@ _Context: Canadian, Malawi, United Kingdom, plane crash_
 _Context: Hamas, Mahmoud Abbas, Palestinian Authority President, outlaw_
 
 ### [ At least 35 people die in Kabul, Afghanistan as the result of a bombing of a police bus. ](/news/2007/06/17/at-least-35-people-die-in-kabul-afghanistan-as-the-result-of-a-bombing-of-a-police-bus.md)
-_Context: Afghan, Kabul, police_
+_Context: Afghanistan, Kabul, police_
 
 ### [ French voters go to the polls to elect a new French National Assembly. The centre-right Union for a Popular Movement  (UPM) wins a comfortable majority; however, the left did make some gains, with senior minister Alain Juppe losing his seat in Bordeaux. ](/news/2007/06/17/french-voters-go-to-the-polls-to-elect-a-new-french-national-assembly-the-centre-right-union-for-a-popular-movement-upm-wins-a-comforta.md)
 _Context: Alain Juppe, Bordeaux, France, French National Assembly, UMP, centre-right, go to the polls_

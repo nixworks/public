@@ -7,7 +7,7 @@ _Context: Beijing, China's, Communist Party general secretary, Communist Party o
 _Context: California, Supreme Court, ban, reversed its legalization, same-sex marriage, upholds_
 
 ### [ President Barack Obama nominates Federal Judge Sonia Sotomayor for the United States Supreme Court. ](/news/2009/05/26/president-barack-obama-nominates-federal-judge-sonia-sotomayor-for-the-united-states-supreme-court.md)
-_Context: Barack Obama, Sonia Sotomayor, Supreme Court of the United States, U.S. President, United States, United States federal judge, confirmed_
+_Context: Barack Obama, Sonia Sotomayor, Supreme Court of the United States, U.S., U.S. President, United States federal judge, confirmed_
 
 ### [ President Isaias Afewerki says Eritrea will not release imprisoned journalist Dawit Isaak. ](/news/2009/05/26/president-isaias-afewerki-says-eritrea-will-not-release-imprisoned-journalist-dawit-isaak.md)
 _Context: Dawit Isaak, Eritrea, Isaias Afewerki, President, journalism, prison_
@@ -31,7 +31,7 @@ _Context: Sudan, convoy, killed, people smugglers_
 _Context: Abu Dhabi, France, Nicolas Sarkozy, United Arab Emirates, military installations, president_
 
 ### [ A suicide attack kills six people in Kapisa Province, Afghanistan. ](/news/2009/05/26/a-suicide-attack-kills-six-people-in-kapisa-province-afghanistan.md)
-_Context: Afghan, Kapisa province, suicide bomb attack_
+_Context: Afghanistan, Kapisa province, suicide bomb attack_
 
 ### [ The Swedish Navy arrests seven Somali pirates during the attempted hijacking of a Greek ship. ](/news/2009/05/26/the-swedish-navy-arrests-seven-somali-pirates-during-the-attempted-hijacking-of-a-greek-ship.md)
 _Context: Greece, Navy, Somali pirates, Somalia, Sweden, ship_

@@ -25,10 +25,10 @@ The U.S. military has began scaling back its emergency relief operations in the 
 _Context: nuclear scientist, several world powers_
 
 ### [Egypt expels the Turkish ambassador, citing "interference". ](/news/2013/11/23/egypt-expels-the-turkish-ambassador-citing-interference.md)
-_Context: Egypt, Turkish, expels_
+_Context: Egypt, Turkey, expels_
 
 ### [In boxing, Filipino Manny Pacquiao defeats American Brandon Rios to win the World Boxing Organization International Welterweight title. ](/news/2013/11/23/in-boxing-filipino-manny-pacquiao-defeats-american-brandon-rios-to-win-the-world-boxing-organization-international-welterweight-title.md)
-_Context: Brandon Rios, Filipino, Manny Pacquiao, United States, World Boxing Organization, defeats_
+_Context: Brandon Rios, Filipino, Manny Pacquiao, U.S., World Boxing Organization, defeats_
 
 ## [Previous Day...](/news/2013/11/22/index.md)
 

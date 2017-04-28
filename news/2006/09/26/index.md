@@ -19,7 +19,7 @@ _Context: Archbishop, Benedict XVI, Emmanuel Milingo, Roman Catholic Church, Zam
 _Context: Bernard Ebbers, Louisiana, WorldCom, state_
 
 ### [ At least 18 people are killed in an explosion outside a government office in Lashkar Gah in southern Afghanistan. ](/news/2006/09/26/at-least-18-people-are-killed-in-an-explosion-outside-a-government-office-in-lashkar-gah-in-southern-afghanistan.md)
-_Context: Afghan, Lashkar Gah_
+_Context: Afghanistan, Lashkar Gah_
 
 ### [ The Diet of Japan confirms Shinzo Abe as the Prime Minister of Japan. At 52, he is the youngest Prime Minister since World War II. ](/news/2006/09/26/the-diet-of-japan-confirms-shinzo-abe-as-the-prime-minister-of-japan-at-52-he-is-the-youngest-prime-minister-since-world-war-ii.md)
 _Context: Diet, Prime Minister, Shinzo Abe, World War II_

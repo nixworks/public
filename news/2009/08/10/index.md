@@ -10,7 +10,7 @@ An &ldquo;ethics responsibly&rdquo; clause for the media and a strong criticism 
 _Context: Joseph Msika, President of Zimbabwe, Robert Mugabe, Zimbabwe_
 
 ### [ During a tour of Africa, Hillary Clinton, the United States Secretary of State, attacks a Congolese university student for asking about the opinion of her husband Bill Clinton. ](/news/2009/08/10/during-a-tour-of-africa-hillary-clinton-the-united-states-secretary-of-state-attacks-a-congolese-university-student-for-asking-about-the.md)
-_Context: Africa, Bill Clinton, Democratic Republic of the Congo, Hillary Clinton, United States, United States Secretary of State_
+_Context: Africa, Bill Clinton, Democratic Republic of the Congo, Hillary Clinton, U.S., United States Secretary of State_
 
 ### [ Ecuadorean President Rafael Correa is sworn in for a second term vowing to deepen his socialist "revolution". ](/news/2009/08/10/ecuadorean-president-rafael-correa-is-sworn-in-for-a-second-term-vowing-to-deepen-his-socialist-arevolutiona.md)
 Ecuadorean President Rafael Correa was sworn in for a second term on Monday vowing to deepen his socialist &#147;revolution&#148;. Announcing his vision for a new term, Correa said he sought to fight inequality and invest in projects to help the poor, improve education and improve the lives of long-neglected Andean indigenous groups.
@@ -28,7 +28,7 @@ _Context: Hyundai Asan, North Korea_
 _Context: Chad, Libya, seven agreements_
 
 ### [ Negotiators gather in Austria for informal talks aimed at unblocking a 34-year-old dispute between Morocco and the Western Sahara independence movement. ](/news/2009/08/10/negotiators-gather-in-austria-for-informal-talks-aimed-at-unblocking-a-34-year-old-dispute-between-morocco-and-the-western-sahara-independe.md)
-_Context: Austria, Morocco, Western Sahara_
+_Context: Austria, Moroccan, Western Sahara_
 
 ### [ The head of MI6 John Scarlett denies complicity in the alleged torture of British detainee Binyam Mohamed, as the government rejects calls for an inquiry. ](/news/2009/08/10/the-head-of-mi6-john-scarlett-denies-complicity-in-the-alleged-torture-of-british-detainee-binyam-mohamed-as-the-government-rejects-calls.md)
 An inquiry into allegations of UK complicity in torture has been rejected by the Government, as Sir John Scarlett, head of MI6, said the service was committed to human rights.

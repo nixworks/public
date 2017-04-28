@@ -7,7 +7,7 @@ _Context: Colombia, Nevado del Huila, volcanic activity_
 _Context: Delta Air Lines, Northwest Airlines_
 
 ### [ The United States begins occupying its new US$736 million embassy in Iraq, one of the largest embassies in the world. Presently under construction, it is approximately as large as the Vatican City and will permanently employ thousands of Americans, including a Marine detachment. ](/news/2008/04/14/the-united-states-begins-occupying-its-new-us-736-million-embassy-in-iraq-one-of-the-largest-embassies-in-the-world-presently-under-const.md)
-_Context: US$, United States, United States Marines, Vatican City, embassy in Iraq_
+_Context: U.S., US$, United States Marines, Vatican City, embassy in Iraq_
 
 ### [ Silvio Berlusconi is re-elected for the third time as the Prime Minister of Italy. ](/news/2008/04/14/silvio-berlusconi-is-re-elected-for-the-third-time-as-the-prime-minister-of-italy.md)
 _Context: Prime Minister, Silvio Berlusconi, re-elected_
@@ -19,7 +19,7 @@ _Context: European Union, Nabucco natural gas pipeline, Russia, Turkmenistan, na
 _Context: Bangladesh, Calcutta, Dhaka, India, train_
 
 ### [ Taliban insurgents attack a checkpoint in southern Afghanistan killing 11 police officers. ](/news/2008/04/14/taliban-insurgents-attack-a-checkpoint-in-southern-afghanistan-killing-11-police-officers.md)
-_Context: Afghan, Taliban_
+_Context: Afghanistan, Taliban_
 
 ### [ The World Bank announces a package of emergency measures to tackle the dramatic rise in basic food prices which has led to civil unrest throughout much of the developing world. ](/news/2008/04/14/the-world-bank-announces-a-package-of-emergency-measures-to-tackle-the-dramatic-rise-in-basic-food-prices-which-has-led-to-civil-unrest-thr.md)
 _Context: 2007-2008 world food price crisis, World Bank, developing world_

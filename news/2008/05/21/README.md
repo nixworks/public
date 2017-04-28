@@ -16,7 +16,7 @@ _Context: Khyber Pakhtunkhwa, Pakistan, Sharia, Swat, Pakistan, Taliban, suicide
 _Context: U.S. dollar, crude oil_
 
 ### [  Israel and Syria reveal indirect peace negotiations in Turkey in hopes of direct talks leading to a border agreement. ](/news/2008/05/21/israel-and-syria-reveal-indirect-peace-negotiations-in-turkey-in-hopes-of-direct-talks-leading-to-a-border-agreement.md)
-_Context: Golan Heights, Israel, Middle East, Syria, Turkish_
+_Context: Golan Heights, Israel, Middle East, Syria, Turkey_
 
 ### [ Georgian voters go to the polls for the Georgian legislative election, 2008. ](/news/2008/05/21/georgian-voters-go-to-the-polls-for-the-georgian-legislative-election-2008.md)
 _Context: Georgia, Georgian legislative election, 2008_

@@ -28,10 +28,10 @@ A severe plague of locusts has infested about half of Madagascar, threatening cr
 Amanda Knox and her former boyfriend Raffaele Sollecito were acquitted on appeal in 2011 for the killing of Meredith Kercher &#8211; but now face a retrial. 
 
 ### [The Arab League summit begins in Qatar, Doha, with the Syria conflict and possible talks between the Afghanistan government and the Taliban among the key issues. ](/news/2013/03/26/the-arab-league-summit-begins-in-qatar-doha-with-the-syria-conflict-and-possible-talks-between-the-afghanistan-government-and-the-taliban.md)
-_Context: Afghan, Afghan government's, Arab League, Doha, Qatar, Syrian Civil War, Taliban, summit_
+_Context: Afghan government's, Afghanistan, Arab League, Doha, Qatar, Syrian Civil War, Taliban, summit_
 
 ### [North Korea issues a new threat to strike targets on the United States mainland, Hawaii and Guam, as well as South Korea, days after a new US-South Korea military pact. ](/news/2013/03/26/north-korea-issues-a-new-threat-to-strike-targets-on-the-united-states-mainland-hawaii-and-guam-as-well-as-south-korea-days-after-a-new-u.md)
-_Context: Guam, Hawaii, North Korea, South Korea, US–South Korea, United States, continental United States, military pact_
+_Context: Guam, Hawaii, North Korea, South Korea, U.S., US–South Korea, continental United States, military pact_
 
 ### [Vietnam accuses a Chinese vessel of firing on one of its fishing boats in disputed waters in the South China Sea, setting it on fire. ](/news/2013/03/26/vietnam-accuses-a-chinese-vessel-of-firing-on-one-of-its-fishing-boats-in-disputed-waters-in-the-south-china-sea-setting-it-on-fire.md)
 China defends the action of one of its patrol boats which is accused of opening fire on a Vietnamese fishing boat last week in the South China Sea.

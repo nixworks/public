@@ -22,7 +22,7 @@ _Context: Hong Seok-Hyun, slush fund_
 _Context: ASEAN, Burma, Myanmar_
 
 ### [ At least 1,000 protesters have staged a demonstration outside the main US base of Bagram in Afghanistan. ](/news/2005/07/26/at-least-1-000-protesters-have-staged-a-demonstration-outside-the-main-us-base-of-bagram-in-afghanistan.md)
-_Context: Afghan, Bagram, Protest, demonstration_
+_Context: Afghanistan, Bagram, Protest, demonstration_
 
 ### [ In the Netherlands, Mohammed Bouyeri receives life sentence for murder of Theo van Gogh ](/news/2005/07/26/in-the-netherlands-mohammed-bouyeri-receives-life-sentence-for-murder-of-theo-van-gogh.md)
 _Context: Mohammed Bouyeri, Theo van Gogh_

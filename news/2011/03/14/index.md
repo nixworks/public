@@ -7,7 +7,7 @@ Forces loyal to Muammar Gaddafi launched air strikes on Monday on the rebel-held
 Five dozen pirates living on a hijacked ship serving as a roving pirate base jumped into the Arabian Sea on Monday after the Indian navy fired on the vessel in self-defense, the navy said Monday...
 
 ### [A U.S. missile strike kills three Pakistani militants operating close to the Afghanistan border. ](/news/2011/03/14/a-u-s-missile-strike-kills-three-pakistani-militants-operating-close-to-the-afghanistan-border.md)
-_Context: Afghan, Pakistan_
+_Context: Afghanistan, Pakistan_
 
 ### [A suicide bomber kills at least eight members of the Iraqi Army in Diyala Province. ](/news/2011/03/14/a-suicide-bomber-kills-at-least-eight-members-of-the-iraqi-army-in-diyala-province.md)
 _Context: Diyala Governorate, Iraqi Army, suicide bomber_
@@ -43,7 +43,7 @@ Chinese Premier Wen Jiabao said his country will undertake a &quot;step by step&
 _Context: Australia, Christmas Island, Christmas Island Immigration Detention Centre, asylum seeker, tear gas_
 
 ### [Five Somali pirates are sentenced to life in a United States prison plus 80 years for an attack on the United States Navy frigate USS Nicholas. ](/news/2011/03/14/five-somali-pirates-are-sentenced-to-life-in-a-united-states-prison-plus-80-years-for-an-attack-on-the-united-states-navy-frigate-uss-nichol.md)
-_Context: Somali pirates, U.S. Navy, USS Nicholas, United States, frigate_
+_Context: Somali pirates, U.S., U.S. Navy, USS Nicholas, frigate_
 
 ### [The 14th Dalai Lama formally submits his resignation as Tibet's political leader to the Tibetan Parliament-in-exile in Dharamsala, India. ](/news/2011/03/14/the-14th-dalai-lama-formally-submits-his-resignation-as-tibet-s-political-leader-to-the-tibetan-parliament-in-exile-in-dharamsala-india.md)
 _Context: 14th Dalai Lama, Dharamsala, India, Tibet, exiled Tibetan parliament_

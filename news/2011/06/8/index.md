@@ -40,7 +40,7 @@ _Context: Australia, Indonesia, abattoir, cattle_
 _Context: 2011 Syrian uprising, France, United Kingdom, United Nations Security Council, United Nations Security Council resolution_
 
 ### [In New York, representatives of Morocco and Western Sahara conclude UN-backed talks on resolving the conflict between the two countries without reaching an agreement that was satisfactory to both parties. ](/news/2011/06/8/in-new-york-representatives-of-morocco-and-western-sahara-conclude-un-backed-talks-on-resolving-the-conflict-between-the-two-countries-with.md)
-_Context: Morocco, New York, UN, Western Sahara, conflict between the two countries_
+_Context: Moroccan, New York, UN, Western Sahara, conflict between the two countries_
 
 ### [Indian social activist Anna Hazare begins a second hunger strike against corruption. ](/news/2011/06/8/indian-social-activist-anna-hazare-begins-a-second-hunger-strike-against-corruption.md)
 _Context: Anna Hazare, India_
@@ -52,7 +52,7 @@ Plans to offer sentence discounts of up to 50% for an early guilty plea could be
 The Internet has been rolling along for decades on the strength of IPv4 and its numbering system, which has supplied billions of addresses. 
 
 ### [The Russian Federal Space Agency successfully launches a Soyuz TMA-02M carrying a Russian, American and Japanese astronaut towards the International Space Station. ](/news/2011/06/8/the-russian-federal-space-agency-successfully-launches-a-soyuz-tma-02m-carrying-a-russian-american-and-japanese-astronaut-towards-the-inter.md)
-_Context: International Space Station, Japanese, Russian, Russian Federal Space Agency, Soyuz TMA-02M, United States_
+_Context: International Space Station, Japanese, Russian, Russian Federal Space Agency, Soyuz TMA-02M, U.S._
 
 ## [Previous Day...](/news/2011/06/7/index.md)
 

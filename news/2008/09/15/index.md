@@ -34,7 +34,7 @@ _Context: Nigeria, Nigerian Oil Crisis, Rivers State, Royal Dutch Shell_
 _Context: Indonesia, Pasuruan_
 
 ### [ At least one person has died and 26 are missing after a Ro-ro ferry sinks near the Turkish city of Bandirma. ](/news/2008/09/15/at-least-one-person-has-died-and-26-are-missing-after-a-ro-ro-ferry-sinks-near-the-turkish-city-of-bandirma.md)
-_Context: Bandirma, Roll-on/roll-off, Turkish_
+_Context: Bandirma, Roll-on/roll-off, Turkey_
 
 ### [ Subprime mortgage crisis](/news/2008/09/15/subprime-mortgage-crisis.md)
 _Context: housing crisis_

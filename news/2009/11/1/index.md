@@ -31,7 +31,7 @@ _Context: Montara oil spill, Timor Sea, offshore oil platform_
 A number of events were held today to mark the 125th anniversary of the foundation of the Gaelic Athletic Association.
 
 ### [ Afghan Presidential candidate Abdullah Abdullah pulls out of the run-off election versus Hamid Karzai due to concerns over the independence of Azizullah Lodin, the head of the Independent Election Commission. ](/news/2009/11/1/afghan-presidential-candidate-abdullah-abdullah-pulls-out-of-the-run-off-election-versus-hamid-karzai-due-to-concerns-over-the-independence.md)
-_Context: Abdullah Abdullah, Afghan, Afghanistan President, Azizullah Lodin, Hamid Karzai, Independent Election Commission, run-off election_
+_Context: Abdullah Abdullah, Afghanistan, Afghanistan President, Azizullah Lodin, Hamid Karzai, Independent Election Commission, run-off election_
 
 ### [ Police in Italy detain two more suspected mafia bosses, one day after the seizure of their brother in a raid near Naples. ](/news/2009/11/1/police-in-italy-detain-two-more-suspected-mafia-bosses-one-day-after-the-seizure-of-their-brother-in-a-raid-near-naples.md)
 _Context: Mafia, Naples_

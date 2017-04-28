@@ -10,7 +10,7 @@ Detainees held by the Syrian Government are dying on an extermination scale, a U
 _Context: Khamis Mushait, King Khalid Air Base, Saudi Arabia, Saudi-led coalition, Scud, Yemen_
 
 ### [A suicide bomber strikes a crowded market in eastern Afghanistan killing five civilians and wounding nine others. ](/news/2016/02/8/a-suicide-bomber-strikes-a-crowded-market-in-eastern-afghanistan-killing-five-civilians-and-wounding-nine-others.md)
-_Context: War in Afghanistan_
+_Context: War in Afghanistan (2015–present)_
 
 ### [The death toll from the Taiwan earthquake rises to 38 with more than 100 people missing. ](/news/2016/02/8/the-death-toll-from-the-taiwan-earthquake-rises-to-38-with-more-than-100-people-missing.md)
 TAINAN, Taiwan (Reuters) - Rescuers in the southern Taiwan city of Tainan pulled a woman out alive from the wreckage of a collapsed building on Monday, a Reuters witness said, more than 48 hours after an earthquake hit the island. The death toll from the quake, which struck early on Saturday at the start

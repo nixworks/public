@@ -16,7 +16,7 @@ _Context: Turkestan Islamic Party, the attack, Ürümqi Railway Station_
 President Barack Obama will join 9/11 survivors, rescuers and family members of victims to dedicate the National September 11 Memorial Museum in New York City Thursday.
 
 ### [Soma mine disaster:Several trade unions in Turkey hold a one-day strike in response to the disaster.  ](/news/2014/05/15/soma-mine-disaster-pseveral-trade-unions-in-turkey-hold-a-one-day-strike-in-response-to-the-disaster.md)
-_Context: Soma mine disaster, Turkish, unionize_
+_Context: Soma mine disaster, Turkey, unionize_
 
 ### [An oil pipe in Los Angeles broke, spilling an estimated 10,000 gallons of oil in the streets.  ](/news/2014/05/15/an-oil-pipe-in-los-angeles-broke-spilling-an-estimated-10-000-gallons-of-oil-in-the-streets.md)
 About 10,000 gallons of oil was vacuumed up from the LA streets after a pipe broke, shooting crude 20 feet into the air, said the fire department.

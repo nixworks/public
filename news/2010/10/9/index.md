@@ -7,7 +7,7 @@ _Context: Afghan forces, Badghis, Murghab, NATO_
 _Context: Chhattisgarh, Mahasamund, naxal_
 
 ### [Four Italian soldiers die following an attack in the Farah area, Afghanistan. ](/news/2010/10/9/four-italian-soldiers-die-following-an-attack-in-the-farah-area-afghanistan.md)
-_Context: Afghan, Farah Province_
+_Context: Afghanistan, Farah Province_
 
 ### [Violence in England:Riot police and dogs clash with protesters as demonstrations lead to violence in England. There are injuries and 5 men are arrested in the country's largest police operation for a quarter of a century (25 years). ](/news/2010/10/9/violence-in-england-priot-police-and-dogs-clash-with-protesters-as-demonstrations-lead-to-violence-in-england-there-are-injuries-and-5-men.md)
 Thirteen men are arrested as demonstrators stage two protests in Leicester, sparking the biggest police operation in the county for 25 years.
@@ -40,7 +40,7 @@ Rescuers drill right through to the underground chamber where 33 miners are trap
 More than 200 passengers and crew are rescued after a Baltic Sea ferry catches fire near the German island of Fehmarn.
 
 ### [The United States leads a group of non-EU developed countries in attempts to thoroughly revamp the Kyoto Protocol, blocking any possible progress in the climate negotiations currently under way in Tianjin, according to negotiator Sui Wei. ](/news/2010/10/9/the-united-states-leads-a-group-of-non-eu-developed-countries-in-attempts-to-thoroughly-revamp-the-kyoto-protocol-blocking-any-possible-pro.md)
-_Context: European Union, Kyoto Protocol, Sui Wei, Tianjin, United States_
+_Context: European Union, Kyoto Protocol, Sui Wei, Tianjin, U.S._
 
 ### [An Ecuadorean court orders the imprisonment of 12 police after last week's 2010 Ecuador crisis, with a lawyer saying they are being swept up in a "witch hunt". ](/news/2010/10/9/an-ecuadorean-court-orders-the-imprisonment-of-12-police-after-last-week-s-2010-ecuador-crisis-with-a-lawyer-saying-they-are-being-swept-up.md)
 _Context: Ecuador, protested against being stripped of their bonuses_

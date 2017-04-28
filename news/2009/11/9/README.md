@@ -40,7 +40,7 @@ The death toll from flooding and mudslides in El Salvador triggered by the passa
 Tawang (Arunachal Pradesh): Tibetan spiritual leader the Dalai Lama on Monday called for universal brotherhood and peace among all communities as he...
 
 ### [ Downing Street defends Prime Minister Gordon Brown's habits after the mother of a soldier killed in Afghanistan labels a misspelled letter she received from him as a "hastily scrawled insult". ](/news/2009/11/9/downing-street-defends-prime-minister-gordon-brown-s-habits-after-the-mother-of-a-soldier-killed-in-afghanistan-labels-a-misspelled-letter.md)
-_Context: Afghan, Downing Street, Gordon Brown, Prime Minster_
+_Context: Afghanistan, Downing Street, Gordon Brown, Prime Minster_
 
 ### [ "House of Horrors" murderer Jason Somerville pleads guilty to strangling his wife Rebecca Somerville and neighbour Tisha Lowry before having sex with their corpses in Christchurch, New Zealand. ](/news/2009/11/9/house-of-horrors-murderer-jason-somerville-pleads-guilty-to-strangling-his-wife-rebecca-somerville-and-neighbour-tisha-lowry-before-havin.md)
 &#034;House of horrors&#034; murderer Jason Somerville strangled his wife Rebecca Somerville and neighbour Tisha Lowry before having sex with their bodies.

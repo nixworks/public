@@ -19,7 +19,7 @@ _Context: FBI, Roger Clemens, anabolic steroid, baseball, human growth hormone_
 _Context: Waukegan, Illinois, explosion, shopping mall_
 
 ### [ At least ten militants are killed in a rocket attack on a house in the Pakistani village of Kalosha in South Waziristan near the Afghanistan border. ](/news/2008/02/28/at-least-ten-militants-are-killed-in-a-rocket-attack-on-a-house-in-the-pakistani-village-of-kalosha-in-south-waziristan-near-the-afghanista.md)
-_Context: Afghan, Kalosha, Pakistan, South Waziristan, militant, rocket_
+_Context: Afghanistan, Kalosha, Pakistan, South Waziristan, militant, rocket_
 
 ### [ The former Prime Minister of Thailand Thaksin Shinawatra returns to Thailand to face corruption charges. ](/news/2008/02/28/the-former-prime-minister-of-thailand-thaksin-shinawatra-returns-to-thailand-to-face-corruption-charges.md)
 _Context: Prime Minister of Thailand, Thailand, Thaksin_

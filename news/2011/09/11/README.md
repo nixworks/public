@@ -4,7 +4,7 @@
 Ten years on from the day the 9/11 terrorist attacks changed so much for so many people, the world&#x27;s leaders and millions of citizens are pausing to reflect.
 
 ### [A truck bomb at a military outpost in Wardak Province, Afghanistan, kills several civilians. ](/news/2011/09/11/a-truck-bomb-at-a-military-outpost-in-wardak-province-afghanistan-kills-several-civilians.md)
-_Context: Afghan, Wardak province, car bomb, military outpost_
+_Context: Afghanistan, Wardak province, car bomb, military outpost_
 
 ### [Police in Gothenburg, Sweden, arrest four people after a suspected failed terrorist attack. ](/news/2011/09/11/police-in-gothenburg-sweden-arrest-four-people-after-a-suspected-failed-terrorist-attack.md)
 _Context: Gothenburg, Sweden_
@@ -19,7 +19,7 @@ _Context: Leighton Buzzard, caravan site, rescuing 24 men, slave_
 _Context: Guatemala, general election_
 
 ### [In tennis, Samantha Stosur of Australia wins the Women's Singles in the 2011 US Open, defeating Serena Williams of the United States  6-2, 6-3. ](/news/2011/09/11/in-tennis-samantha-stosur-of-australia-wins-the-women-s-singles-in-the-2011-us-open-defeating-serena-williams-of-the-united-states-6-2-6.md)
-_Context: 2011 US Open, Australia, Samantha Stosur, Serena Williams, United States, Women's Singles, tennis_
+_Context: 2011 US Open, Australia, Samantha Stosur, Serena Williams, U.S., Women's Singles, tennis_
 
 ## [Previous Day...](/news/2011/09/10/index.md)
 

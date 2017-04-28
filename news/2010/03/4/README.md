@@ -10,7 +10,7 @@ A giant asteroid smashing into Earth is the only plausible explanation for the e
 _Context: Mexico City, same-sex marriages_
 
 ### [The Committee on Foreign Affairs of the United States House of Representatives accepts a resolution describing the Armenian Genocide as "genocide", prompting Turkey to recall its ambassador and threatening Turkey-United States relations. ](/news/2010/03/4/the-committee-on-foreign-affairs-of-the-united-states-house-of-representatives-accepts-a-resolution-describing-the-armenian-genocide-as-gen.md)
-_Context: Committee on Foreign Affairs, Turkey–United States relations, Turkish, U.S. House, genocide, genocide of Armenians_
+_Context: Committee on Foreign Affairs, Turkey, Turkey–United States relations, U.S. House, genocide, genocide of Armenians_
 
 ### [Thousands of passengers are stuck in ice in the Baltic Sea. ](/news/2010/03/4/thousands-of-passengers-are-stuck-in-ice-in-the-baltic-sea.md)
 _Context: Baltic Sea_

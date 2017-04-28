@@ -25,7 +25,7 @@ Cyclone Megh slammed into the Yemeni island of Socotra with winds of 127 mph on 
 Slovenian government said Monday it would take urgent measures to strengthen control of its Schengen border with Croatia, fearing an expected new wave of migrants would be scarcely manageable. &quot;The government has prepared additional urgent measures to manage the migrants&#x27; flow, including the
 
 ### [Human Rights Watch releases a report finding, because of  a language barrier, integration issues, and financial difficulties, more than 400,000 Syrian refugee children in Turkey are not able to attend school despite the  Turkish government allowing them access to the Turkish schooling system. ](/news/2015/11/9/human-rights-watch-releases-a-report-finding-because-of-a-language-barrier-integration-issues-and-financial-difficulties-more-than-400.md)
-_Context: Human Rights Watch, Syria, Syrian Civil War, Turkish, Turkish government, Turkish schooling system_
+_Context: Human Rights Watch, Syria, Syrian Civil War, Turkey, Turkish government, Turkish schooling system_
 
 ### [Detainees at Australia's Christmas Island Immigration Reception and Processing Centre riot, following the death of an asylum seeker. ](/news/2015/11/9/detainees-at-australia-s-christmas-island-immigration-reception-and-processing-centre-riot-following-the-death-of-an-asylum-seeker.md)
 _Context: Australia, Christmas Island Immigration Reception and Processing Centre_

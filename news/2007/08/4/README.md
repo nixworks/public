@@ -1,7 +1,7 @@
 ## [2007-08-4](/news/2007/08/4/index.md)
 
 ### [ A natural gas pipeline between Turkey and Greece is completed allowing gas to be sent from the Middle East to Europe. ](/news/2007/08/4/a-natural-gas-pipeline-between-turkey-and-greece-is-completed-allowing-gas-to-be-sent-from-the-middle-east-to-europe.md)
-_Context: Europe, Greece, Middle East, Turkish, natural gas_
+_Context: Europe, Greece, Middle East, Turkey, natural gas_
 
 ### [ An outbreak of foot-and-mouth disease in Surrey, England prompts the banning of exports of British livestock and other animal products. ](/news/2007/08/4/an-outbreak-of-foot-and-mouth-disease-in-surrey-england-prompts-the-banning-of-exports-of-british-livestock-and-other-animal-products.md)
 _Context: England, Surrey, foot-and-mouth disease, livestock, outbreak of 2007_
@@ -31,7 +31,7 @@ _Context: Alex Rodriguez, Barry Bonds, Giants', Hank Aaron, Major League Basebal
 _Context: Chauncey Bailey, Oakland, California, The Oakland Post, police_
 
 ### [ United States forces claim that they have killed Haitham al-Badri, the leader of al-Qaeda in Salahuddin province in Iraq and believed to be the man responsible for the bombing of the Al-Askari Mosque in Samarra in June. ](/news/2007/08/4/united-states-forces-claim-that-they-have-killed-haitham-al-badri-the-leader-of-al-qaeda-in-salahuddin-province-in-iraq-and-believed-to-be.md)
-_Context: Al-Askari Mosque, Haitham al-Badri, Iraq, Salahuddin province, Samarra, United States, al-Qaeda_
+_Context: Al-Askari Mosque, Haitham al-Badri, Iraq, Salahuddin province, Samarra, U.S., al-Qaeda_
 
 ### [ NASA launches the Phoenix Mars Lander which is due to land in Planum Boreum on the Martian northern ice cap next year. ](/news/2007/08/4/nasa-launches-the-phoenix-mars-lander-which-is-due-to-land-in-planum-boreum-on-the-martian-northern-ice-cap-next-year.md)
 _Context: Martian, NASA, Phoenix Mars Lander, Planum Boreum_
@@ -43,7 +43,7 @@ Britain tried to contain an outbreak of highly infectious foot and mouth on Satu
 _Context: 2007 South Asian floods, Bangladesh, Ganges River, India, Nepal, flood, monsoon_
 
 ### [ Ten pro-Taliban militants and four Pakistan Army soldiers are killed in a clash in North Waziristan near the Afghanistan border. In another incident, a suicide car bomber kills six in Parachinar, North West Frontier Province in Pakistan. ](/news/2007/08/4/ten-pro-taliban-militants-and-four-pakistan-army-soldiers-are-killed-in-a-clash-in-north-waziristan-near-the-afghanistan-border-in-another.md)
-_Context: Afghan, Khyber Pakhtunkhwa, Pakistan Army, Parachinar, Taliban, Waziristan, soldier_
+_Context: Afghanistan, Khyber Pakhtunkhwa, Pakistan Army, Parachinar, Taliban, Waziristan, soldier_
 
 ## [Previous Day...](/news/2007/08/3/index.md)
 

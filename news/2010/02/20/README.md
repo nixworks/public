@@ -16,13 +16,13 @@ Army says it targeted fighters in the Shawal mountains of South Waziristan.
 _Context: Darfur, Justice and Equality Movement, N'Djamena, Sudan, Sudanese government_
 
 ### [Russian allies, including Venezuela and Turkey, file a dozen requests for Mi-28N Night Hunter attack helicopters from Russia. ](/news/2010/02/20/russian-allies-including-venezuela-and-turkey-file-a-dozen-requests-for-mi-28n-night-hunter-attack-helicopters-from-russia.md)
-_Context: Mi-28, Russia, Turkish, Venezuela_
+_Context: Mi-28, Russia, Turkey, Venezuela_
 
 ### [Floods and mudslides on the island of Madeira leave at least 32 dead and 68 injured. ](/news/2010/02/20/floods-and-mudslides-on-the-island-of-madeira-leave-at-least-32-dead-and-68-injured.md)
 At least 32 killed in floods and mudslides triggered by torrential rain in Madeira.
 
 ### [The death toll from a minaret collapse in Morocco rises to 41. ](/news/2010/02/20/the-death-toll-from-a-minaret-collapse-in-morocco-rises-to-41.md)
-_Context: Morocco, a minaret collapse_
+_Context: Moroccan, a minaret collapse_
 
 ### [The Chinese military and several schools deny involvement in cyber attacks on Google, following a ''New York Times'' report cited investigators linking Lanxiang Vocational School and Shanghai Jiaotong University to the attacks. ](/news/2010/02/20/the-chinese-military-and-several-schools-deny-involvement-in-cyber-attacks-on-google-following-a-new-york-times-report-cited-investigat.md)
 _Context: China's, Google, Shanghai Jiaotong University, The New York Times, cyber attacks, military_

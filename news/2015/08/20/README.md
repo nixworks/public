@@ -10,7 +10,7 @@ _Context:  Macedonia, Middle East, Skopje, Thessaloniki_
 Reports say Pyongyang fired a shell at a South Korean border town, which prompted Seoul to respond with artillery fire.
 
 ### [The Israeli Army fires Spike missiles on Syrian Army positions in the Golan Heights' Quneitra area in response to several rockets fired from Syria which landed in villages in northern Israel, about 20 km from the border. ](/news/2015/08/20/the-israeli-army-fires-spike-missiles-on-syrian-army-positions-in-the-golan-heights-quneitra-area-in-response-to-several-rockets-fired-from.md)
-_Context: Golan Heights, Israeli Army, Israel–Syria relations, Spike missile, Spillover of the Syrian Civil War, Syrian Armed Forces_
+_Context: Golan Heights, Israeli Army, Israel–Syria relations, Spike missile, Spillover of the Syrian Civil War, military_
 
 ### [Archaeologists find a skull rack used by the Aztecs to display victims in the ruins of the Templo Mayor in Mexico City. ](/news/2015/08/20/archaeologists-find-a-skull-rack-used-by-the-aztecs-to-display-victims-in-the-ruins-of-the-templo-mayor-in-mexico-city.md)
 Get the latest science news and technology news, read tech reviews and more at ABC News.

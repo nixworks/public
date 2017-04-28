@@ -22,13 +22,13 @@ _Context: Augsburg, Germany, World War II_
 Pregnancy can sculpt a mother’s brain in a way that may help her tune in to her baby.
 
 ### [Afghanistan's first female Air Force pilot Niloofar Rahmani files for asylum in the United States. ](/news/2016/12/25/afghanistan-s-first-female-air-force-pilot-niloofar-rahmani-files-for-asylum-in-the-united-states.md)
-_Context: Afghan, Air Force, Niloofar Rahmani, United States, asylum_
+_Context: Afghanistan, Air Force, Niloofar Rahmani, U.S., asylum_
 
 ### [Pakistan releases Indian fishermen caught in its territory as a gesture of goodwill. ](/news/2016/12/25/pakistan-releases-indian-fishermen-caught-in-its-territory-as-a-gesture-of-goodwill.md)
 Pakistan has released 220 Indian fishermen detained for crossing into its territorial waters. Ties between the two countries have been tense over the Kashmir conflict. Activists say India should reciprocate the gesture.
 
 ### [Turkey probes around 10,000 social media users for allegedly insulting government officials or supporting "terror-related activity." ](/news/2016/12/25/turkey-probes-around-10-000-social-media-users-for-allegedly-insulting-government-officials-or-supporting-terror-related-activity.md)
-_Context: 2016 Turkish purges, Turkish, social media, terrorism_
+_Context: 2016 Turkish purges, Turkey, social media, terrorism_
 
 ### [A producer of Al Jazeera is arrested in Egypt. ](/news/2016/12/25/a-producer-of-al-jazeera-is-arrested-in-egypt.md)
 Egypt confirmed on Sunday that it had arrested an Al Jazeera news producer, accusing him of &quot;provoking sedition&quot; on behalf of the Qatar-based broadcaster that it considers a mouthpiece of the banned Muslim Brotherhood.

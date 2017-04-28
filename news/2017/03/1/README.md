@@ -1,7 +1,7 @@
 ## [2017-03-1](/news/2017/03/1/index.md)
 
 ### [At least 16 people were killed and 40 more  wounded after two suicide bombers attacked Kabul. The Taliban claimed responsibility for the attacks. ](/news/2017/03/1/at-least-16-people-were-killed-and-40-more-wounded-after-two-suicide-bombers-attacked-kabul-the-taliban-claimed-responsibility-for-the-att.md)
-_Context: Kabul, Taliban, War in Afghanistan_
+_Context: Kabul, Taliban, War in Afghanistan (2015–present)_
 
 ### [The Dow Jones Industrial Average rises above 21,000 points, reaching an all-time high. ](/news/2017/03/1/the-dow-jones-industrial-average-rises-above-21-000-points-reaching-an-all-time-high.md)
 Investors bet big on U.S. stocks, giving the market its biggest one-day gain in nearly four months and pushing the major indexes to record highs. The Dow Jones industrial average topped 21,000

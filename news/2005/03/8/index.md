@@ -16,7 +16,7 @@ _Context: Aslan Maskhadov, Chechnya, Russia_
 _Context: International Criminal Tribunal for the former Yugoslavia, Kosovo, Ramush Haradinaj, The Hague, war crimes_
 
 ### [ Gianfranco Fini, the foreign minister of Italy has demanded that the U.S. "identify and punish" those responsible for the death of Nicola Calipari, the Italian intelligence agent killed by US soldiers in Iraq. ](/news/2005/03/8/gianfranco-fini-the-foreign-minister-of-italy-has-demanded-that-the-u-s-identify-and-punish-those-responsible-for-the-death-of-nicola-c.md)
-_Context: Foreign Minister, Gianfranco Fini, Iraq, Italian, Nicola Calipari, United States_
+_Context: Foreign Minister, Gianfranco Fini, Iraq, Italian, Nicola Calipari, U.S._
 
 ### [ In Australia, 104-year-old Chinese widow Cui Yu Hu, who has lived in the country for 10 years, loses an appeal to receive a permanent visa. She has asked immigration minister Amanda Vanstone to intervene. ](/news/2005/03/8/in-australia-104-year-old-chinese-widow-cui-yu-hu-who-has-lived-in-the-country-for-10-years-loses-an-appeal-to-receive-a-permanent-visa.md)
 _Context: Amanda Vanstone, Australia, Chinese, Cui Yu Hu, visa-free travel_

@@ -26,7 +26,7 @@ Coretta Scott King, who turned a life shattered by her husband&#8217;s assassina
 _Context: Iraq, Irish radio, Live 95FM, Shannon Airport, United States Marine Corps, depleted uranium_
 
 ### [ U.S. oil company ExxonMobil announced profits for 2005 of {{Nowrap|$36.1 billion}}, a record amount in US corporate history. In anticipation of a public backlash, the company simultaneously posted newspaper advertisements in the US to explain its success. ](/news/2006/01/31/u-s-oil-company-exxonmobil-announced-profits-for-2005-of-nowrap-36-1-billion-a-record-amount-in-us-corporate-history-in-anticipatio.md)
-_Context: ExxonMobil_
+_Context: ExxonMobil Corporation_
 
 ### [ A tourist coach crash in Egypt on the highway between Hurghada and Luxor kills 14 and injures another 30 people. All casualties are from Hong Kong and were joining Jetour Holidays tours.](/news/2006/01/31/a-tourist-coach-crash-in-egypt-on-the-highway-between-hurghada-and-luxor-kills-14-and-injures-another-30-people-all-casualties-are-from-ho.md)
 _Context: Egypt, Hong Kong, Hurghada, Luxor_

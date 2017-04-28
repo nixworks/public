@@ -1,7 +1,7 @@
 ## [2009-11-24](/news/2009/11/24/index.md)
 
 ### [ An appeal court in Casablanca, Morocco, upholds a three year jail term against a human rights activist, Chahib Khayari, for "offending the authorities" after accusing top officials of being involved in drug networks. ](/news/2009/11/24/an-appeal-court-in-casablanca-morocco-upholds-a-three-year-jail-term-against-a-human-rights-activist-chahib-khayari-for-offending-the.md)
-_Context: Casablanca, Chahib Khayari, Morocco_
+_Context: Casablanca, Chahib Khayari, Moroccan_
 
 ### [ Two French charity workers are kidnapped in the Central African Republic, in the latest in a series of kidnappings. ](/news/2009/11/24/two-french-charity-workers-are-kidnapped-in-the-central-african-republic-in-the-latest-in-a-series-of-kidnappings.md)
 _Context: Central-African, France_
@@ -16,7 +16,7 @@ Trade unions have announced plans for a second national strike in public sector 
 The Government has announced a €10m humanitarian fund to help those worst affected by the worst flooding on record.
 
 ### [ Over 1,500 complaints are received from American viewers after a gay kiss involving Adam Lambert is televised during an awards ceremony. ](/news/2009/11/24/over-1-500-complaints-are-received-from-american-viewers-after-a-gay-kiss-involving-adam-lambert-is-televised-during-an-awards-ceremony.md)
-_Context: Adam Lambert, United States, homosexuality_
+_Context: Adam Lambert, U.S., homosexuality_
 
 ### [ Iran lifts a ban on one of its best-selling newspapers, ''Hamshahri'', a day after it was banned from publication after publishing a picture of a temple from the banned Baha'i faith. ](/news/2009/11/24/iran-lifts-a-ban-on-one-of-its-best-selling-newspapers-hamshahri-a-day-after-it-was-banned-from-publication-after-publishing-a-pictur.md)
 _Context: Baha'i faith, Hamshahri, Iran, banned_

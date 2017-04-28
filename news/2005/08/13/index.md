@@ -7,7 +7,7 @@ _Context: Conflict in Iraq, IED, Iraq, Iraqi insurgency, Tuz Khormato, US soldie
 _Context: David Lange, New Zealand, Prime Minister_
 
 ### [ German Chancellor Gerhard Schrder warns the U.S. to back away from the possibility of military action against Iran over its nuclear program. ](/news/2005/08/13/german-chancellor-gerhard-schroder-warns-the-u-s-to-back-away-from-the-possibility-of-military-action-against-iran-over-its-nuclear-progra.md)
-_Context: Chancellor, Gerhard Schröder, Iran, United States_
+_Context: Chancellor, Gerhard Schröder, Iran, U.S._
 
 ### [ Ernest "Smokey" Smith, the last surviving Canadian recipient of the Victoria Cross, is laid to rest in Vancouver, British Columbia, Canada following the largest Canadian military funeral in recent history.  He died on 3 August at the age of 91. ](/news/2005/08/13/ernest-smokey-smith-the-last-surviving-canadian-recipient-of-the-victoria-cross-is-laid-to-rest-in-vancouver-british-columbia-canada.md)
 _Context: 3 August, British Columbia, Canadian, Ernest "Smokey" Smith, Vancouver, Victoria Cross, military funeral_

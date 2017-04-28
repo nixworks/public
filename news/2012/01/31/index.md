@@ -16,7 +16,7 @@ _Context: Al Mahwit Governorate, Yemen_
 _Context: Fred Goodwin, Queen Elizabeth II, Royal Bank of Scotland, knighthood_
 
 ### [A search continues off Turkey's Black Sea coast for eight missing crew members of the Cambodia-flagged freighter the Vera. ](/news/2012/01/31/a-search-continues-off-turkey-s-black-sea-coast-for-eight-missing-crew-members-of-the-cambodia-flagged-freighter-the-vera.md)
-_Context: Black Sea, Cambodia, Turkish, freighter_
+_Context: Black Sea, Cambodia, Turkey, freighter_
 
 ### [Italian divers end their search for victims in the Costa Concordia disaster in the underwater section of the wreck. ](/news/2012/01/31/italian-divers-end-their-search-for-victims-in-the-costa-concordia-disaster-in-the-underwater-section-of-the-wreck.md)
 Italian divers have abandoned their search for bodies inside the wrecked cruise ship Costa Concordia after conditions underwater deteriorated.

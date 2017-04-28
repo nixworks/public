@@ -28,7 +28,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 As the battles raged, a meeting of U.S., European and Arab countries in Rome failed to reach agreement on a plan to end the fighting.
 
 ### [ Already-convicted murder Robert Charles Browne pleads guilty to another killing, and leads authorities to suspect he might be America's most prolific serial killer ](/news/2006/07/27/already-convicted-murder-robert-charles-browne-pleads-guilty-to-another-killing-and-leads-authorities-to-suspect-he-might-be-america-s-mos.md)
-_Context: Robert Charles Browne, Serial killer_
+_Context: Robert Charles Browne, serial killer_
 
 ### [ 2006 Ukraine parliament crisis. Ukraine's president, Yushchenko, holds crisis talks over political stalemate. ](/news/2006/07/27/2006-ukraine-parliament-crisis-ukraine-s-president-yushchenko-holds-crisis-talks-over-political-stalemate.md)
 _Context: Yushchenko_

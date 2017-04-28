@@ -7,7 +7,7 @@ _Context: European Union, United Kingdom_
 _Context: Democratic Progressive Party, Kuomintang (Chinese Nationalist Party), New Party, People First Party, Su Tseng-Chang, Taiwan, recent elections_
 
 ### [ Pakistan's information minister claims Pakistani forces have killed al-Qaeda operational commander Abu Hamza Rabia in fighting along the Afghanistan border. ](/news/2005/12/3/pakistan-s-information-minister-claims-pakistani-forces-have-killed-al-qaeda-operational-commander-abu-hamza-rabia-in-fighting-along-the-af.md)
-_Context: Abu Hamza Rabia, Afghan, Pakistan_
+_Context: Abu Hamza Rabia, Afghanistan, Pakistan_
 
 ### [ An attack about 60 miles from Baghdad, involving a roadside bomb, kills 19 Iraqi soldiers. ](/news/2005/12/3/an-attack-about-60-miles-from-baghdad-involving-a-roadside-bomb-kills-19-iraqi-soldiers.md)
 _Context: Baghdad, IED_

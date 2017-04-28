@@ -1,7 +1,7 @@
 ## [2008-03-31](/news/2008/03/31/index.md)
 
 ### [ One of Mexico's most prolific serial killers, Juana Barraza, nicknamed the ''Mataviejitas'' (Little Old Lady Killer), receives multiple life sentences for the murders of at least 11 women. ](/news/2008/03/31/one-of-mexico-s-most-prolific-serial-killers-juana-barraza-nicknamed-the-mataviejitas-little-old-lady-killer-receives-multiple-lif.md)
-_Context: Juana Barraza, Mataviejitas, Mexico, Serial killer_
+_Context: Juana Barraza, Mataviejitas, Mexico, serial killer_
 
 ### [ The New York City Council approved a measure urging state lawmakers to vote in favor of Mayor Michael Bloomberg's plan to charge drivers to enter Manhattan south of 60th Street. ](/news/2008/03/31/the-new-york-city-council-approved-a-measure-urging-state-lawmakers-to-vote-in-favor-of-mayor-michael-bloomberg-s-plan-to-charge-drivers-to.md)
 _Context: City Council, Manhattan, Mayor, Michael Bloomberg_
@@ -10,7 +10,7 @@ _Context: City Council, Manhattan, Mayor, Michael Bloomberg_
 _Context: Belgrade, Dragan Šutanovac, Kosovo, Serbia, Vojislav Koštunica_
 
 ### [ The Italian city of Milan is selected to host the 2015 World Exposition after winning 86 to 65 in a vote against Turkish Izmir. ](/news/2008/03/31/the-italian-city-of-milan-is-selected-to-host-the-2015-world-exposition-after-winning-86-to-65-in-a-vote-against-turkish-adegzmir.md)
-_Context: Expo 2015, Italian, Milan, Turkish, İzmir_
+_Context: Expo 2015, Italian, Milan, Turkey, İzmir_
 
 ### [ War in Somalia (2008): Somali Islamists have seized control of a central town after clashes with government forces that left 11 people dead, residents and Islamists said. ](/news/2008/03/31/war-in-somalia-2008-somali-islamists-have-seized-control-of-a-central-town-after-clashes-with-government-forces-that-left-11-people-dead.md)
 _Context: 2008, two years of helping_

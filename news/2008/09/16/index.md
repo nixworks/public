@@ -16,7 +16,7 @@ Fearing a financial crisis, the Fed reversed course and agreed to bail out A.I.G
 Six men have been found guilty of forming a Melbourne-based terrorist cell.
 
 ### [ The United States government opens up a partnership with the Swedish municipality of Sodertalje, a city of 80,000 that has received nearly 6,000 Iraqi refugees since the beginning of the Iraq war. ](/news/2008/09/16/the-united-states-government-opens-up-a-partnership-with-the-swedish-municipality-of-sapderta-lje-a-city-of-80-000-that-has-received-nearl.md)
-_Context: Iraq, Iraq War, Sweden, Södertälje, United States_
+_Context: Iraq, Iraq War, Sweden, Södertälje, U.S._
 
 ### [ Hamas-Fatah conflict: Fierce fighting between Hamas security forces and the pro-Fatah Doghmush organised crime family leaves 5 dead in Gaza City. ](/news/2008/09/16/hamas-fatah-conflict-fierce-fighting-between-hamas-security-forces-and-the-pro-fatah-doghmush-organised-crime-family-leaves-5-dead-in-gaza.md)
 _Context: Doghmush, Fatah, Gaza, Hamas, Hamas-Fatah conflict_

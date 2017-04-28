@@ -31,13 +31,13 @@ More than 270 pregnant women in the U.S. are also infected with the Zika virus, 
 _Context: Accession of Montenegro to NATO, Montenegro, NATO, Russian Government_
 
 ### [NATO foreign ministers, meeting at NATO headquarters in Brussels, Belgium, agree to extend the alliance's Resolute Support Mission, that trains, advises and assists Afghanistan's military beyond 2016. ](/news/2016/05/20/nato-foreign-ministers-meeting-at-nato-headquarters-in-brussels-belgium-agree-to-extend-the-alliance-s-resolute-support-mission-that-tra.md)
-_Context: Afghan, Afghan Armed Forces, Belgium, Brussels, NATO, NATO headquarters, War in Afghanistan, coalition_
+_Context: Afghan Armed Forces, Afghanistan, Belgium, Brussels, NATO, NATO headquarters, War in Afghanistan (2015–present), coalition_
 
 ### [The Oklahoma Legislature files a measure asking for Congress to impeach Barack Obama over his decision to allow transgender students to use the bathrooms corresponding to their gender identity. ](/news/2016/05/20/the-oklahoma-legislature-files-a-measure-asking-for-congress-to-impeach-barack-obama-over-his-decision-to-allow-transgender-students-to-use.md)
 _Context: Barack Obama, Efforts to impeach Barack Obama, Oklahoma Legislature, U.S. Congress_
 
 ### [The Mexican government approves the extradition of drug boss Joaquin Guzman to the United States following assurances that he will not face the death penalty. ](/news/2016/05/20/the-mexican-government-approves-the-extradition-of-drug-boss-joaquan-guzma-n-to-the-united-states-following-assurances-that-he-will-not-fac.md)
-_Context: Joaquín "El Chapo" Guzmán, Mexican government, United States, death penalty_
+_Context: Joaquín "El Chapo" Guzmán, Mexican government, U.S., death penalty_
 
 ### [A United States Secret Service officer shoots an armed man on a street near the White House after the man allegedly approached the officer and refused to drop his weapon. The White House is locked down. ](/news/2016/05/20/a-united-states-secret-service-officer-shoots-an-armed-man-on-a-street-near-the-white-house-after-the-man-allegedly-approached-the-officer-a.md)
 _Context: United States Secret Service, White House_

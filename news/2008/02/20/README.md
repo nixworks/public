@@ -16,7 +16,7 @@ _Context: South Korea_
 _Context: Japan, Okinawa, United States Marine Corps, military_
 
 ### [ The government of Morocco arrests 23 alleged terrorists, including Mustapha Moatassim, the Secretary General of Alternative Civilization, a political party recognized by the state. ](/news/2008/02/20/the-government-of-morocco-arrests-23-alleged-terrorists-including-mustapha-moatassim-the-secretary-general-of-alternative-civilization-a.md)
-_Context: Alternative Civilization, Morocco, Mustapha Moatassim_
+_Context: Alternative Civilization, Moroccan, Mustapha Moatassim_
 
 ### [ Armenian Prime Minister Serzh Sargsyan is elected as President in a contest hailed as largely democratic by OSCE and international monitors. ](/news/2008/02/20/armenian-prime-minister-serzh-sargsyan-is-elected-as-president-in-a-contest-hailed-as-largely-democratic-by-osce-and-international-monitors.md)
 _Context: Armenia, Armenian President, OSCE, Prime Minister, Serzh Sargsyan, presidential election_

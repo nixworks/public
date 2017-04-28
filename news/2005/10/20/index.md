@@ -19,7 +19,7 @@ _Context: Muslim, TV, Taliban, War in Afghanistan (2001–present)_
 _Context: Guinea_
 
 ### [ One ticket sold in Oregon matched all the numbers in the United States Powerball Lottery which was worth U.S.$340 million.](/news/2005/10/20/one-ticket-sold-in-oregon-matched-all-the-numbers-in-the-united-states-powerball-lottery-which-was-worth-u-s-340-million.md)
-_Context: Oregon, Powerball, U.S. dollar, United States, lottery_
+_Context: Oregon, Powerball, U.S., U.S. dollar, lottery_
 
 ## [Previous Day...](/news/2005/10/19/index.md)
 

@@ -1,7 +1,7 @@
 ## [2010-10-5](/news/2010/10/5/index.md)
 
 ### [Afghan militant attacks kill 4 civilians, wound 6 in southwestern Farah province's Rusht Rod district. ](/news/2010/10/5/afghan-militant-attacks-kill-4-civilians-wound-6-in-southwestern-farah-province-s-rusht-rod-district.md)
-_Context: Afghan, Farah Province, Rusht Rod_
+_Context: Afghanistan, Farah Province, Rusht Rod_
 
 ### [At least 3 people are killed and 9 others receive wounds during a bomb explosion at an apartment complex in the suburbs of Bangkok. ](/news/2010/10/5/at-least-3-people-are-killed-and-9-others-receive-wounds-during-a-bomb-explosion-at-an-apartment-complex-in-the-suburbs-of-bangkok.md)
 A bomb explosion at an apartment building on the outskirts of the Thai capital of Bangkok has killed at least three people.
@@ -64,7 +64,7 @@ _Context: Faisal Shahzad, New York, Times Square bomber, life imprisonment_
 Former Societe Generale trader Jerome Kerviel sentenced to three years in jail and ordered to repay 4.9 billion euros.
 
 ### [The extradiction of alleged arms dealer Viktor Bout from Thailand to the United States moves a step closer after a Thai court dismisses money laundering charges against him. ](/news/2010/10/5/the-extradiction-of-alleged-arms-dealer-viktor-bout-from-thailand-to-the-united-states-moves-a-step-closer-after-a-thai-court-dismisses-mone.md)
-_Context: Thailand, United States, Viktor Bout, arms dealer, extradite, money laundering_
+_Context: Thailand, U.S., Viktor Bout, arms dealer, extradite, money laundering_
 
 ### [French police arrest twelve alleged al-Qaeda terrorists in Marseilles and Bordeaux including three suspects allegedly found with bomb making kits. ](/news/2010/10/5/french-police-arrest-twelve-alleged-al-qaeda-terrorists-in-marseilles-and-bordeaux-including-three-suspects-allegedly-found-with-bomb-making.md)
 Twelve people are detained in two raids targeting groups linked to armed fighters as country remains on high alert.

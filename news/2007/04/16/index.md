@@ -19,7 +19,7 @@ The gunman who killed 32 people and then himself at Virginia Tech university on 
 _Context: Prosperous Armenia, Yerevan_
 
 ### [ The United States, Japan and India carry out a joint naval exercise in the Pacific Ocean in an attempt to increase strategic cooperation. ](/news/2007/04/16/the-united-states-japan-and-india-carry-out-a-joint-naval-exercise-in-the-pacific-ocean-in-an-attempt-to-increase-strategic-cooperation.md)
-_Context: India, Japan, Pacific, United States, maritime forces_
+_Context: India, Japan, Pacific, U.S., maritime forces_
 
 ### [ Kalyk Imankulov, the former Chairman of the Kyrgyz National Security Service, joins the United Front For A Worthy Future For Kyrgyzstan political alliance. The alliance is staging its sixth day of protests as it calls for the resignation of President Kurmanbek Bakiyev. ](/news/2007/04/16/kalyk-imankulov-the-former-chairman-of-the-kyrgyz-national-security-service-joins-the-united-front-for-a-worthy-future-for-kyrgyzstan-pol.md)
 Kyrgyzstan entered its sixth day of anti-government protests on April 16, after a tense weekend that included several violent encounters. With the estimated turnout lower than opposition organizers ha
@@ -28,13 +28,13 @@ Kyrgyzstan entered its sixth day of anti-government protests on April 16, after 
 _Context:  Macedonia, International Criminal Tribunal for the former Yugoslavia, Johan Tarculovski, Ljube Boskovski, The Hague_
 
 ### [ Wal-Mart retakes the #1 position on the 2007 Fortune 500 list with US$351.1 billion in revenue for F/Y 2006, beating previous #1 ExxonMobil by $3.9 billion. ](/news/2007/04/16/wal-mart-retakes-the-1-position-on-the-2007-fortune-500-list-with-us-351-1-billion-in-revenue-for-f-y-2006-beating-previous-1-exxonmobil.md)
-_Context: 2006, 2007, ExxonMobil, Fortune 500, U.S. dollar, Wal-Mart, fiscal year_
+_Context: 2006, 2007, ExxonMobil Corporation, Fortune 500, U.S. dollar, Wal-Mart, fiscal year_
 
 ### [ At least 11 people die in southern India as a passenger train runs into a minibus carrying local officials near the village of Thirumatpur in Tamil Nadu. ](/news/2007/04/16/at-least-11-people-die-in-southern-india-as-a-passenger-train-runs-into-a-minibus-carrying-local-officials-near-the-village-of-thirumatpur.md)
 _Context: Tamil Nadu, Thirumatpur, minibus, southern India, train_
 
 ### [ At least ten Afghan police die in a suicide bombing in Kunduz in northeastern Afghanistan. ](/news/2007/04/16/at-least-ten-afghan-police-die-in-a-suicide-bombing-in-kunduz-in-northeastern-afghanistan.md)
-_Context: Afghan, Kunduz, police, suicide bombing_
+_Context: Afghanistan, Kunduz, police, suicide bombing_
 
 ## [Previous Day...](/news/2007/04/15/index.md)
 

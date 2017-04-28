@@ -7,7 +7,7 @@ A Malaysian airliner was shot down over eastern Ukraine by militants on Thursday
 Both sides to hold a five-hour pause in fighting to allow UN humanitarian aid to enter the Gaza Strip.
 
 ### [Taliban insurgency:Explosions and gunfire are reported near Kabul International Airport in Afghanistan as militants temporarily capture a building under construction. ](/news/2014/07/17/taliban-insurgency-pexplosions-and-gunfire-are-reported-near-kabul-international-airport-in-afghanistan-as-militants-temporarily-capture-a-b.md)
-_Context: Afghan, Kabul International Airport, Taliban insurgency_
+_Context: Afghanistan, Kabul International Airport, Taliban insurgency_
 
 ### [Insurgency in the Maghreb (2002-present):At least 14 Tunisian soldiers are reportedly killed following Islamist militant attacks at two checkpoints near the Algerian border with at least 20 others wounded, a group called the Okba Ben Nafaa Brigade has claimed responsibility. ](/news/2014/07/17/insurgency-in-the-maghreb-2002apresent-pat-least-14-tunisian-soldiers-are-reportedly-killed-following-islamist-militant-attacks-at-two-c.md)
 _Context: Algeria, Insurgency in the Maghreb (2002–present), Tunisian soldiers, attacks_

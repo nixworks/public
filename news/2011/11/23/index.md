@@ -7,7 +7,7 @@ _Context: 2011 Egyptian revolution, Cairo, Tahrir Square_
 A father and his three young children planning to spend the Thanksgiving weekend together have died after a small plane they were in slammed into the Superstition Mountains in the United States.
 
 ### [The United States announces that it will stop observing the 1990 Treaty on Conventional Armed Forces in Europe. The decision comes four years after Russia withdrew compliance from the treaty. ](/news/2011/11/23/the-united-states-announces-that-it-will-stop-observing-the-1990-treaty-on-conventional-armed-forces-in-europe-the-decision-comes-four-year.md)
-_Context: Russia, Treaty on Conventional Armed Forces in Europe, United States_
+_Context: Russia, Treaty on Conventional Armed Forces in Europe, U.S._
 
 ### [In a warning to Syrian President Bashar al-Assad to step down, Turkish Prime Minister Recep Tayyip Erdogan calls al-Assad's ongoing crackdown on protests cowardice, comparing al-Assad to past dictators such as Adolf Hitler and Muammar Gaddafi. ](/news/2011/11/23/in-a-warning-to-syrian-president-bashar-al-assad-to-step-down-turkish-prime-minister-recep-tayyip-erdoaan-calls-al-assad-s-ongoing-crackdo.md)
 _Context: 2011 Syrian uprising, Adolf Hitler, Bashar al-Assad, Muammar Gaddafi, Recep Tayyip Erdoğan, Syrian President, Turkish Prime Minister_

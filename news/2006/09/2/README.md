@@ -4,7 +4,7 @@
 _Context: Ali al-Sistani, Grand Ayatollah, Iraq, Iraqi Prime Minister, Najaf, Nouri al-Maliki_
 
 ### [ In Afghanistan, 14 British armed forces personnel are killed after their aircraft crashes in Kandahar. ](/news/2006/09/2/in-afghanistan-14-british-armed-forces-personnel-are-killed-after-their-aircraft-crashes-in-kandahar.md)
-_Context: Afghan, British military personnel, Kandahar, helicopter crash_
+_Context: Afghanistan, British military personnel, Kandahar, helicopter crash_
 
 ### [ Offices of at least six Alaska legislators, including Republican Senate President Ben Stevens, son of the senior Republican U.S. Senator Ted Stevens, are raided by federal agents searching for possible ties between the lawmakers and VECO, an Anchorage based company whose executives are major contributors to political campaigns. ](/news/2006/09/2/offices-of-at-least-six-alaska-legislators-including-republican-senate-president-ben-stevens-son-of-the-senior-republican-u-s-senator-te.md)
 Ben Stevens, a Republican who is the State Senate president and son of Senator Ted Stevens, is among those whose offices were searched on Thursday.

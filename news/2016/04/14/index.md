@@ -1,7 +1,7 @@
 ## [2016-04-14](/news/2016/04/14/index.md)
 
 ### [Taliban militants kill eight people, including a police commander, in an ambush in northern Afghanistan. ](/news/2016/04/14/taliban-militants-kill-eight-people-including-a-police-commander-in-an-ambush-in-northern-afghanistan.md)
-_Context: Afghan, Afghan security forces, Taliban, War in Afghanistan_
+_Context: Afghan security forces, Afghanistan, Taliban, War in Afghanistan (2015–present)_
 
 ### [A Palestinian wielding an ax attacks an Israeli soldier near Hebron and is shot dead while two 12-year-old Palestinians in Jerusalem are arrested by Israeli Police with three knives concealed in their coats on suspicion of planning to carry out a stabbing attack. ](/news/2016/04/14/a-palestinian-wielding-an-ax-attacks-an-israeli-soldier-near-hebron-and-is-shot-dead-while-two-12-year-old-palestinians-in-jerusalem-are-arr.md)
 In separate incident, two 12-year-old Palestinian kids arrested with knives in Jerusalem, are suspected of planning an attack
@@ -22,7 +22,7 @@ News - Your daily dose of information: European and International latest breakin
 The Chinese government says 357 officials are to be punished over a scandal involving the sale of illegal vaccines, while 192 criminal cases have been filed.
 
 ### [The U.S. company Microsoft has sued the United States, alleging that it has been prevented from disclosing warrants to the company's customers in violation of the company's constitutional rights. ](/news/2016/04/14/the-u-s-company-microsoft-has-sued-the-united-states-alleging-that-it-has-been-prevented-from-disclosing-warrants-to-the-companyas-custo.md)
-_Context: Microsoft, United States, sued_
+_Context: Microsoft, U.S., sued_
 
 ### [The Verkhovna Rada appoints Volodmyr Groysman as the Prime Minister of Ukraine, replacing Arseny Yatseniuk. ](/news/2016/04/14/the-verkhovna-rada-appoints-volodmyr-groysman-as-the-prime-minister-of-ukraine-replacing-arseny-yatseniuk.md)
 _Context: Arseny Yatseniuk, Prime Minister of Ukraine, Verkhovna Rada, Volodmyr Groysman_

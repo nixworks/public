@@ -7,7 +7,7 @@ _Context: 2014–15 India–Pakistan border skirmishes, India, Indian Army, Kash
 Suspected Russian warplanes bombed the outskirts of Islamic State-held Palmyra on Monday, sending smoke rising out of an area that includes a historic castle overlooking the Syrian city&#039;s Roman ruins, activists said.
 
 ### [ISIS claims responsibility for the deaths of two Syrian refugee activists who fled to Sanliurfa, Turkey, raising concerns about the group's reach in countries outside of Syria and Iraq. Ibrahim Abdel Qader, a founder of Raqqa Is Being Slaughtered Silently, and Fares Hammadi are said to have been killed by an acquaintance posing as a defector from ISIS. ](/news/2015/11/3/isis-claims-responsibility-for-the-deaths-of-two-syrian-refugee-activists-who-fled-to-sanliurfa-turkey-raising-concerns-about-the-groupa.md)
-_Context: ISIS, Iraq, Islamic State in Iraq and the Levant, Raqqa Is Being Slaughtered Silently, Sanliurfa, Syria, Turkish_
+_Context: ISIS, Iraq, Islamic State in Iraq and the Levant, Raqqa Is Being Slaughtered Silently, Sanliurfa, Syria, Turkey_
 
 ### [British bank Standard Chartered announces that it will axe 15,000 jobs around the world as part of a restructure. ](/news/2015/11/3/british-bank-standard-chartered-announces-that-it-will-axe-15-000-jobs-around-the-world-as-part-of-a-restructure.md)
 _Context: Standard Chartered_

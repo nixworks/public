@@ -53,7 +53,7 @@ President Felipe Calderon signs a law making Mexico only the second country in t
 _Context: Council of the District of Columbia, Kwame R. Brown, Washington, D.C._
 
 ### [The Solar Impulse, a solar plane, lands in Morocco, completing the world's first intercontinental flight powered by the Sun. ](/news/2012/06/6/the-solar-impulse-a-solar-plane-lands-in-morocco-completing-the-world-s-first-intercontinental-flight-powered-by-the-sun.md)
-_Context: Morocco, Solar Impulse, Sun, solar plane_
+_Context: Moroccan, Solar Impulse, Sun, solar plane_
 
 ### [Footballer Mahmoud al-Sarsak, who has been on hunger strike for 80 days while in prison without trial or charge, faces imminent danger of death according to human rights groups. ](/news/2012/06/6/footballer-mahmoud-al-sarsak-who-has-been-on-hunger-strike-for-80-days-while-in-prison-without-trial-or-charge-faces-imminent-danger-of-de.md)
 Human rights groups warn that a Palestinian footballer who has been on hunger strike for 80 days in an Israeli jail faces imminent danger of death.

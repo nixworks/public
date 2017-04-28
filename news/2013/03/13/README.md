@@ -4,13 +4,13 @@
 _Context: 2013 Srinagar attack, Bemina, CRPF, India, Kashmir, Srinagar_
 
 ### [Taliban insurgency:A suicide bomber kills 10 spectators, including the district police chief, during a local gaming event in Kunduz province of northern Afghanistan. ](/news/2013/03/13/taliban-insurgency-pa-suicide-bomber-kills-10-spectators-including-the-district-police-chief-during-a-local-gaming-event-in-kunduz-provinc.md)
-_Context: Afghan, Kunduz Province, Taliban insurgency_
+_Context: Afghanistan, Kunduz Province, Taliban insurgency_
 
 ### [Syrian civil war:Ahmad Shihadeh, a member of the European Union's delegation in Syria, is killed in a rocket attack in a Damascus suburb. ](/news/2013/03/13/syrian-civil-war-pahmad-shihadeh-a-member-of-the-european-union-s-delegation-in-syria-is-killed-in-a-rocket-attack-in-a-damascus-suburb.md)
 _Context: Damascus, European Union, Syria, Syrian Civil War_
 
 ### [Kurdish-Turkish conflict:Kurdish rebels release eight Turkish citizens that had been held captive for two years. ](/news/2013/03/13/kurdishaturkish-conflict-pkurdish-rebels-release-eight-turkish-citizens-that-had-been-held-captive-for-two-years.md)
-_Context: Kurdish, Kurdish–Turkish conflict, Turkish_
+_Context: Kurdish, Kurdish–Turkish conflict, Turkey_
 
 ### [Nigerian Sharia conflict:Men on motorbikes storm a primary school in Nigeria and open fire wounding four teachers. ](/news/2013/03/13/nigerian-sharia-conflict-pmen-on-motorbikes-storm-a-primary-school-in-nigeria-and-open-fire-wounding-four-teachers.md)
 _Context: Nigeria, Nigerian Sharia conflict_

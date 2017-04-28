@@ -1,7 +1,7 @@
 ## [2017-01-15](/news/2017/01/15/index.md)
 
 ### [At least seven people are killed when their vehicle hits a roadside bomb in Nangarhar Province. ](/news/2017/01/15/at-least-seven-people-are-killed-when-their-vehicle-hits-a-roadside-bomb-in-nangarhar-province.md)
-_Context: Nangarhar, War in Afghanistan_
+_Context: Nangarhar Province, War in Afghanistan_
 
 ### [Flooding in southern Thailand has caused 40 deaths in recent days with more heavy rain forecast for Monday. ](/news/2017/01/15/flooding-in-southern-thailand-has-caused-40-deaths-in-recent-days-with-more-heavy-rain-forecast-for-monday.md)
 Thailand faces more hardship from unseasonable floods that have killed 40 people in its south, with more rain expected in the major rubber-producing and tourist region in coming days, a top disaster agency official said on Sunday.

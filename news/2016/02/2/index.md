@@ -1,7 +1,7 @@
 ## [2016-02-2](/news/2016/02/2/index.md)
 
 ### [ U.S. airstrikes in eastern Afghanistan hit an ISIS radio station and kill 29 militants. ](/news/2016/02/2/u-s-airstrikes-in-eastern-afghanistan-hit-an-isis-radio-station-and-kill-29-militants.md)
-_Context: Afghan, ISIS, Military intervention against ISIL, U.S., War in Afghanistan_
+_Context: Afghanistan, ISIS, Military intervention against ISIL, U.S., War in Afghanistan (2015–present)_
 
 ### [In the United States, Punxsutawney Phil does not see his shadow which according to tradition signals an early spring. ](/news/2016/02/2/in-the-united-states-punxsutawney-phil-does-not-see-his-shadow-which-according-to-tradition-signals-an-early-spring.md)
 _Context: Punxsutawney Phil, tradition_

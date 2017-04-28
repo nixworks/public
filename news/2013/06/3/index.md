@@ -7,7 +7,7 @@ The brutal suppression of a peaceful environmental sit-in in Istanbul ignited a 
 Three protesters in Bahrain have been jailed from five to 15 years on charges of taking part in anti-government demonstrations in June 2012 and attempting to murder a policeman.
 
 ### [War in Afghanistan (2001-present):A suicide bombing in eastern Afghanistan kills at least 20 people, including 10 children. ](/news/2013/06/3/war-in-afghanistan-2001apresent-pa-suicide-bombing-in-eastern-afghanistan-kills-at-least-20-people-including-10-children.md)
-_Context: Afghan, War in Afghanistan (2001–present), suicide bombing_
+_Context: Afghanistan, War in Afghanistan (2001–present), suicide bombing_
 
 ### [An unmarked mass grave containing around 200 bodies is found in the Israeli town of Jaffa. ](/news/2013/06/3/an-unmarked-mass-grave-containing-around-200-bodies-is-found-in-the-israeli-town-of-jaffa.md)
 Palestinians alive during 1946 Arab-Israeli war say unmarked grave found in coastal town proof of their stories.

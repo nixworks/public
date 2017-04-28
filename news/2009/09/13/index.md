@@ -22,7 +22,7 @@ _Context: Brazil, Brazilian President, G8 group of nations, Luiz Inácio Lula da 
 _Context: Angela Merkel, Frank-Walter Steinmeier, German Chancellor_
 
 ### [ Saudi Arabia's veteran foreign minister Prince Saud al-Faisal undergoes successful spine surgery in the United States. ](/news/2009/09/13/saudi-arabia-s-veteran-foreign-minister-prince-saud-al-faisal-undergoes-successful-spine-surgery-in-the-united-states.md)
-_Context: Prince Saud al-Faisal, Saudi Arabia, United States_
+_Context: Prince Saud al-Faisal, Saudi Arabia, U.S._
 
 ### [ 38 people are killed in a fire at a drug abuse clinic in Taldykorgan, Kazakhstan. ](/news/2009/09/13/38-people-are-killed-in-a-fire-at-a-drug-abuse-clinic-in-taldykorgan-kazakhstan.md)
 _Context: Kazakhstan, Taldykorgan, drug abuse, fire_

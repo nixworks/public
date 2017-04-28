@@ -7,7 +7,7 @@ _Context: Sudanese protests (2011–present)_
 _Context: Boko Haram, Islamist insurgency in Nigeria_
 
 ### [Syrian civil war:Syrian rebels claim taking control of a military post on the edge of the city of Deraa on Syria's southern border with Jordan after four days of heavy fighting with the Syrian Armed Forces. ](/news/2013/09/28/syrian-civil-war-psyrian-rebels-claim-taking-control-of-a-military-post-on-the-edge-of-the-city-of-deraa-on-syria-s-southern-border-with-jor.md)
-_Context: Jordan, Syrian Armed Forces, Syrian Civil War, Syrian rebels_
+_Context: Jordan, Syrian Civil War, Syrian rebels, military_
 
 ### [A 6.8-magnitude earthquake strikes the Pakistani province of Balochistan, four days after a 7.7-magnitude earthquake killed at least 515 people in the same region. ](/news/2013/09/28/a-6-8-magnitude-earthquake-strikes-the-pakistani-province-of-balochistan-four-days-after-a-7-7-magnitude-earthquake-killed-at-least-515-peo.md)
 Officials say a major earthquake of 6.8 magnitude or larger has hit southwest Pakistan, less than a week after a massive temblor in the same region killed at least 359 people.

@@ -1,7 +1,7 @@
 ## [2011-10-31](/news/2011/10/31/index.md)
 
 ### [Three people are killed in attacks on the offices of the International Relief and Development (IRD) in the Afghan city of Kandahar. ](/news/2011/10/31/three-people-are-killed-in-attacks-on-the-offices-of-the-international-relief-and-development-ird-in-the-afghan-city-of-kandahar.md)
-_Context: Afghan, Kandahar_
+_Context: Afghanistan, Kandahar_
 
 ### [Australian airline Qantas resumes flights after a ruling by Fair Work Australia. ](/news/2011/10/31/australian-airline-qantas-resumes-flights-after-a-ruling-by-fair-work-australia.md)
 _Context: Australia, Fair Work Australia, Qantas_
@@ -13,7 +13,7 @@ _Context: Japanese government, U.S. dollar, exchange rate, yen_
 US brokerage firm MF Global files for bankruptcy protection after revealing £4bn of eurozone debt exposure.
 
 ### [UNESCO becomes the first United Nations agency to admit Palestine as a full member, with the United States withdrawing funding in protest. ](/news/2011/10/31/unesco-becomes-the-first-united-nations-agency-to-admit-palestine-as-a-full-member-with-the-united-states-withdrawing-funding-in-protest.md)
-_Context: Palestinian, UNESCO, United Nations, United States_
+_Context: Palestinian, U.S., UNESCO, United Nations_
 
 ### [A jury in the US state of Arizona convicts Mark Goodeau on all charges related to the Baseline Killer murders. ](/news/2011/10/31/a-jury-in-the-us-state-of-arizona-convicts-mark-goodeau-on-all-charges-related-to-the-baseline-killer-murders.md)
 _Context: Arizona, Baseline Killer_

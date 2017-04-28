@@ -19,16 +19,16 @@ White House calls for leniency and release of Otto Warmbier, 21, convicted of �
 Syrian government representatives rule out starting direct negotiations with the opposition, as UN-backed peace talks in Geneva continue.
 
 ### [ Turkey deports  British academic Chris Stephenson, a computer science lecturer at Bilgi University in Istanbul, who is charged with making terrorism propaganda. The UK Foreign Office said it was providing assistance;  there has been no comment from Turkish officials. ](/news/2016/03/16/turkey-deports-british-academic-chris-stephenson-a-computer-science-lecturer-at-bilgi-university-in-istanbul-who-is-charged-with-making.md)
-_Context: Bilgi University, Foreign and Commonwealth Office, Istanbul, Turkey–United Kingdom relations, Turkish, United Kingdom, academic, computer science_
+_Context: Bilgi University, Foreign and Commonwealth Office, Istanbul, Turkey, Turkey–United Kingdom relations, United Kingdom, academic, computer science_
 
 ### [ The travel ban for former Pakistani President Pervez Musharraf is lifted by the Supreme Court of Pakistan. Musharraf is currently facing treason charges in Pakistan. ](/news/2016/03/16/the-travel-ban-for-former-pakistani-president-pervez-musharraf-is-lifted-by-the-supreme-court-of-pakistan-musharraf-is-currently-facing-tr.md)
 _Context: Pakistan, Pervez Musharraf, Supreme Court_
 
 ### [  Authorities in Turkey arrest three academics on charges of "terrorist propaganda" after they called for an end to security operations in the country's Kurdish-majority southeast. ](/news/2016/03/16/authorities-in-turkey-arrest-three-academics-on-charges-of-terrorist-propaganda-after-they-called-for-an-end-to-security-operations-in-t.md)
-_Context: PKK rebellion (2015–present), Turkish, Turkish police_
+_Context: PKK rebellion (2015–present), Turkey, Turkish police_
 
 ### [The U.S. military disciplines more than a dozen personnel for mistakes that led to the bombing of a Medecins Sans Frontieres (Doctors Without Borders) hospital that killed 42 people in Afghanistan last October. No criminal charges are pending. The partially redacted investigation report is  expected to be made public shortly. ](/news/2016/03/16/the-u-s-military-disciplines-more-than-a-dozen-personnel-for-mistakes-that-led-to-the-bombing-of-a-ma-c-decins-sans-frontia-res-doctors-with.md)
-_Context: Afghan, Attacks on humanitarian workers, Médecins Sans Frontières, U.S. military personnel, redacted_
+_Context: Afghanistan, Attacks on humanitarian workers, Médecins Sans Frontières, U.S. military personnel, redacted_
 
 ### [  Donald Trump announces he will skip the Fox News GOP presidential debate between the three remaining candidates on March 21, saying he thinks "we had enough of debates." ](/news/2016/03/16/donald-trump-announces-he-will-skip-the-fox-news-gop-presidential-debate-between-the-three-remaining-candidates-on-march-21-saying-he-thi.md)
 The Ohio governor will participate if Trump changes his mind.

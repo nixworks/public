@@ -1,7 +1,7 @@
 ## [2008-04-29](/news/2008/04/29/index.md)
 
 ### [  The S&P/Case-Shiller index of United States real estate pricing shows a decline of 12.7% from February 2007 to February 2008, with 17 of 20 regions showing falls. ](/news/2008/04/29/the-s-p-case-shiller-index-of-united-states-real-estate-pricing-shows-a-decline-of-12-7-from-february-2007-to-february-2008-with-17-of-2.md)
-_Context: Case-Shiller index, S&P, United States, economy of the United States, real estate pricing_
+_Context: Case-Shiller index, S&P, U.S., economy of the United States, real estate pricing_
 
 ### [ Grand Theft Auto IV is released worldwide, sparking a windfall of sales. The game would go on to become the fastest selling game in 24 hours by selling 609,000 copies. ](/news/2008/04/29/grand-theft-auto-iv-is-released-worldwide-sparking-a-windfall-of-sales-the-game-would-go-on-to-become-the-fastest-selling-game-in-24-hour.md)
 _Context: Grand Theft Auto IV_
@@ -10,7 +10,7 @@ _Context: Grand Theft Auto IV_
 _Context: Ban Ki-moon, Global food price crisis, Secretary General_
 
 ### [ An explosion in the Nangarhar Province of Afghanistan kills at least 15 Afghans with another 25 injured. ](/news/2008/04/29/an-explosion-in-the-nangarhar-province-of-afghanistan-kills-at-least-15-afghans-with-another-25-injured.md)
-_Context: Afghan, Nangarhar_
+_Context: Afghanistan, Nangarhar Province_
 
 ### [ The European Union signs the Stabilisation and Association Agreement with Serbia prior to the decisive elections on 11 May 2008, but makes ratification conditional on full cooperation with the ICTY. ](/news/2008/04/29/the-european-union-signs-the-stabilisation-and-association-agreement-with-serbia-prior-to-the-decisive-elections-on-11-may-2008-but-makes.md)
 _Context: European Union, ICTY, Serbia, Stabilisation and Association Agreement, parliamentary election_

@@ -4,7 +4,7 @@
 Bangladesh Prime Minister Sheikh Hasina said on Saturday that 13 hostages were rescued from a besieged cafe in Dhaka on Saturday, but some had been killed.
 
 ### [At least two people are killed and dozens more are wounded in a suicide bombing in Jalalabad, Nangarhar Province. ](/news/2016/07/2/at-least-two-people-are-killed-and-dozens-more-are-wounded-in-a-suicide-bombing-in-jalalabad-nangarhar-province.md)
-_Context: Jalalabad, Nangarhar, War in Afghanistan_
+_Context: Jalalabad, Nangarhar Province, War in Afghanistan_
 
 ### [According to The Pentagon, two senior ISIL leaders have been killed by a United States-led coalition airstrike in Mosul. ](/news/2016/07/2/according-to-the-pentagon-two-senior-isil-leaders-have-been-killed-by-a-united-states-led-coalition-airstrike-in-mosul.md)
 Pentagon says deputy minister of war and commander died in US-led coalition airstrike near stronghold of Mosul

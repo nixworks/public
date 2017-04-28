@@ -4,7 +4,7 @@
 _Context: Barack Obama, Bashar al-Assad, CIA, Syrian Civil War, Syrian rebels_
 
 ### [War in Afghanistan:Afghan security forces kill five insurgents planning a suicide attack in Kabul. ](/news/2012/08/2/war-in-afghanistan-pafghan-security-forces-kill-five-insurgents-planning-a-suicide-attack-in-kabul.md)
-_Context: Afghan, Kabul, War in Afghanistan (2001–present)_
+_Context: Afghanistan, Kabul, War in Afghanistan (2001–present)_
 
 ### [At least 23 people are injured as two blasts hit a fruit market in Pakistan's eastern city of Lahore. ](/news/2012/08/2/at-least-23-people-are-injured-as-two-blasts-hit-a-fruit-market-in-pakistan-s-eastern-city-of-lahore.md)
 _Context: Lahore, Pakistan_

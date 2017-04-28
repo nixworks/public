@@ -79,7 +79,7 @@ _Context: 2007 Greek forest fires, Algeria, Croatia, Greece, Les Useres, Spain, 
 _Context: Bendigo, Colbinabbin, Jacinta Allan, John Brumby, Premier, Victoria_
 
 ### [  At least two people are killed and ten others injured by a suicide bomb at the Kabul International Airport in Afghanistan. ](/news/2007/08/31/at-least-two-people-are-killed-and-ten-others-injured-by-a-suicide-bomb-at-the-kabul-international-airport-in-afghanistan.md)
-_Context: Afghan, Kabul International Airport, War in Afghanistan, suicide bomb_
+_Context: Afghanistan, Kabul International Airport, War in Afghanistan, suicide bomb_
 
 ### [ Malaysia celebrates 50 years of independence.](/news/2007/08/31/malaysia-celebrates-50-years-of-independence.md)
 _Context: Malaysia_

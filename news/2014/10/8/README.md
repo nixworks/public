@@ -7,7 +7,7 @@ _Context: Iguala, Mexico, clashed with the police during last September, mass gr
 Demonstrators protest government&#8217;s failure to act against Islamic State attacks on border city of Kobani
 
 ### [A suicide bomber kills at least four people and wounds 16 in Afghanistan's Helmand province. ](/news/2014/10/8/a-suicide-bomber-kills-at-least-four-people-and-wounds-16-in-afghanistan-s-helmand-province.md)
-_Context: Afghan, Helmand Province, Taliban insurgency, suicide bomber_
+_Context: Afghanistan, Helmand Province, Taliban insurgency, suicide bomber_
 
 ### [al-Qaeda launches an attack on the south Yemen town of al-Bayda killing at least four soldiers before being beaten back by the army. ](/news/2014/10/8/al-qaeda-launches-an-attack-on-the-south-yemen-town-of-al-bayda-killing-at-least-four-soldiers-before-being-beaten-back-by-the-army.md)
 _Context: Al-Qaeda insurgency in Yemen, Yemen, al-Bayda, al-Qaeda_

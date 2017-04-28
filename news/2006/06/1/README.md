@@ -1,13 +1,13 @@
 ## [2006-06-1](/news/2006/06/1/index.md)
 
 ### [ Extraordinary renditions. The Bundesnachrichtendienst (German intelligence agency) declares that it had known of Khalid El-Masri's seizure 16 months before Germany was officially informed of his mistaken arrest in the name of the War on Terror. Germany had previously claimed that it did not know of el-Masri's abduction by the CIA and his stay in the Salt Pit in Afghanistan until his return to the country in May 2004 ](/news/2006/06/1/extraordinary-renditions-the-bundesnachrichtendienst-german-intelligence-agency-declares-that-it-had-known-of-khalid-el-masri-s-seizure.md)
-_Context: Afghan, Central Intelligence Agency, German intelligence, Khalid El-Masri, Salt Pit, War on Terror, extraordinary rendition_
+_Context: Afghanistan, Central Intelligence Agency, German intelligence, Khalid El-Masri, Salt Pit, War on Terror, extraordinary rendition_
 
 ### [ The 16th World Economic Forum on Africa is convened in Cape Town, South Africa.[http://news.bbc.co.uk/2/hi/africa/5036470.stm (BBC)]. ](/news/2006/06/1/the-16th-world-economic-forum-on-africa-is-convened-in-cape-town-south-africa-http-news-bbc-co-uk-2-hi-africa-5036470-stm-bbc.md)
 _Context: 16th World Economic Forum on Africa, Cape Town, South Africa_
 
 ### [ China, France, Germany, Russia, the United Kingdom and the United States agree on a package of incentives and sanctions for Iran. [http://www.cnn.com/2006/WORLD/meast/06/01/us.iran/index.html (CNN)].](/news/2006/06/1/china-france-germany-russia-the-united-kingdom-and-the-united-states-agree-on-a-package-of-incentives-and-sanctions-for-iran-http-w.md)
-_Context: China's, France, Germany, Iran, Russia, United Kingdom, United States_
+_Context: China's, France, Germany, Iran, Russia, U.S., United Kingdom_
 
 ### [ A report issued by the United States Army Corps of Engineers admits their responsibility for 2005 levee failures that flooded the majority of New Orleans, Louisiana in the aftermath of Hurricane Katrina. ](/news/2006/06/1/a-report-issued-by-the-united-states-army-corps-of-engineers-admits-their-responsibility-for-2005-levee-failures-that-flooded-the-majority.md)
 _Context: 2005 levee failures, Hurricane Katrina, New Orleans, Louisiana, United States Army Corps of Engineers_

@@ -4,7 +4,7 @@
 Key parts of Tony Blair&#039;s evidence to the Chilcot inquiry into the Iraq War will be held in secret, sources close to the hearings revealed last night.
 
 ### [ British Prime Minister Gordon Brown makes an unannounced visit to Afghanistan to support British forces deployed as part of the International Security Assistance Force and to hold talks with Afghan President Hamid Karzai. ](/news/2009/12/13/british-prime-minister-gordon-brown-makes-an-unannounced-visit-to-afghanistan-to-support-british-forces-deployed-as-part-of-the-internation.md)
-_Context: Afghan, Afghanistan President, British military personnel, Gordon Brown, Hamid Karzai, International Security Assistance Force, Prime Minster_
+_Context: Afghanistan, Afghanistan President, British military personnel, Gordon Brown, Hamid Karzai, International Security Assistance Force, Prime Minster_
 
 ### [ Danish police arrest 200 protesters heading for Copenhagen harbour, on the second day of demonstrations at the United Nations Climate Change Conference. ](/news/2009/12/13/danish-police-arrest-200-protesters-heading-for-copenhagen-harbour-on-the-second-day-of-demonstrations-at-the-united-nations-climate-chang.md)
 News and opinion from The Times &amp; The Sunday Times
@@ -28,7 +28,7 @@ _Context: China's, Hu Jintao, Kazakhstan–China oil pipeline_
 _Context: Belgrade, Bosnia and Herzegovina, Sarejevo, Serbia_
 
 ### [ Violence erupts in Turkey after the Constitutional Court of Turkey bans the Democratic Society Party over its alleged terrorist links. ](/news/2009/12/13/violence-erupts-in-turkey-after-the-constitutional-court-of-turkey-bans-the-democratic-society-party-over-its-alleged-terrorist-links.md)
-_Context: Constitutional Court of Turkey, Democratic Society Party, Turkish_
+_Context: Constitutional Court of Turkey, Democratic Society Party, Turkey_
 
 ### [ India successfully test fires its nuclear-capable "Dhanush" missile off the Orissa coast. ](/news/2009/12/13/india-successfully-test-fires-its-nuclear-capable-dhanush-missile-off-the-orissa-coast.md)
 _Context: "Dhanush" missile, India, Orissa State_

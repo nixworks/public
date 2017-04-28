@@ -28,7 +28,7 @@ Guns mostly fell silent in Syria and Russian air raids stopped on Saturday, the 
 Police in Papua New Guinea have shot dead at least 11 inmates after a prison breakout, authorities say.
 
 ### [Following yesterday's Constitutional Court of Turkey ruling that their rights had been violated, two Turkish journalists, jailed on terrorism charges,  are released after 92 days in prison. ](/news/2016/02/26/following-yesterday-s-constitutional-court-of-turkey-ruling-that-their-rights-had-been-violated-two-turkish-journalists-jailed-on-terroris.md)
-_Context: Constitutional Court of Turkey, Turkish, journalist_
+_Context: Constitutional Court of Turkey, Turkey, journalist_
 
 ### [A gunman from a rural area near Belfair, Washington (U.S.), kills four members of his family, including two children, and, after a multi-hour standoff with police, also kills himself. A 12-year old girl, who was not shot, is alive. ](/news/2016/02/26/a-gunman-from-a-rural-area-near-belfair-washington-u-s-kills-four-members-of-his-family-including-two-children-and-after-a-multi-hou.md)
 The Mason County coroner’s office released the names of the family members, including a mother and her two sons, killed in the shooting at a residence in Belfair. The name of the fourth victim, a neighbor, has not been released.

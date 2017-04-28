@@ -4,7 +4,7 @@
 Hamas under pressure to halt rocket attacks after rejecting Cairo-brokered peace deal, saying it had not been consulted
 
 ### [Taliban insurgency:A car bomb explodes at a market in the eastern Afghanistan province of Paktika, killing at least 89 people and injuring scores more in one of the deadliest attacks of the war. ](/news/2014/07/15/taliban-insurgency-pa-car-bomb-explodes-at-a-market-in-the-eastern-afghanistan-province-of-paktika-killing-at-least-89-people-and-injuring.md)
-_Context: Afghan, Paktika, Taliban insurgency, car bomb_
+_Context: Afghanistan, Paktika, Taliban insurgency, car bomb_
 
 ### [2014 pro-Russian unrest in Ukraine:An airstrike on the rebel-held town of Snizhne kills at least eleven civilians. ](/news/2014/07/15/2014-pro-russian-unrest-in-ukraine-pan-airstrike-on-the-rebel-held-town-of-snizhne-kills-at-least-eleven-civilians.md)
 Attack adds to the civilian death toll from fighting between government forces and pro-Russian insurgents.

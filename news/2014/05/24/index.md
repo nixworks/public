@@ -13,7 +13,7 @@ Suspected Islamist Boko Haram gunmen rampaged through three villages in northern
 _Context: 2014 Cannes Film Festival, Nuri Bilge Ceylan, Palme d'Or, Winter Sleep_
 
 ### [A magnitude 6.4 earthquake occurs in the Aegean Sea between Greece and Turkey with reports of serious damage on the Turkish island of Gokceada and the cities of Edirne and Canakkale. ](/news/2014/05/24/a-magnitude-6-4-earthquake-occurs-in-the-aegean-sea-between-greece-and-turkey-with-reports-of-serious-damage-on-the-turkish-island-of-gapkass.md)
-_Context: Aegean Sea, Edirne, Greece, Gökçeada, Turkish, earthquake, Çanakkale_
+_Context: Aegean Sea, Edirne, Greece, Gökçeada, Turkey, earthquake, Çanakkale_
 
 ### [Pope Francis arrives in Amman, Jordan, for the first day of a three day trip to the Middle East. ](/news/2014/05/24/pope-francis-arrives-in-amman-jordan-for-the-first-day-of-a-three-day-trip-to-the-middle-east.md)
 _Context: Amman, Jordan, Middle East, Pope Francis_

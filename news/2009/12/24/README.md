@@ -22,13 +22,13 @@ Court decision brings to 22 number of those awaiting execution over unrest.
 _Context: Communist Party, Human rights, Le Cong Dinh, Vietnam_
 
 ### [ Turkish police arrest over 43 campaigners and members of the banned Kurdish Communities Union in raids. ](/news/2009/12/24/turkish-police-arrest-over-43-campaigners-and-members-of-the-banned-kurdish-communities-union-in-raids.md)
-_Context: Kurdish Communities Union, Turkish_
+_Context: Kurdish Communities Union, Turkey_
 
 ### [ At least three bodies have been recovered and 23 are missing after a collision between a ferry and a fishing boat in the Philippines. ](/news/2009/12/24/at-least-three-bodies-have-been-recovered-and-23-are-missing-after-a-collision-between-a-ferry-and-a-fishing-boat-in-the-philippines.md)
 Three bodies were recovered from Manila Bay in the Philippines on Thursday as rescuers continued to look for another 24 people missing after a ferry and a fishing boat collided.
 
 ### [ A suicide bomb attack kills at least eight people in Kandahar, Afghanistan. ](/news/2009/12/24/a-suicide-bomb-attack-kills-at-least-eight-people-in-kandahar-afghanistan.md)
-_Context: Afghan, Kandahar, suicide bomb attack_
+_Context: Afghanistan, Kandahar, suicide bomb attack_
 
 ### [ Bomb attacks in the Iraqi cities of Baghdad and Hilla leave 23 dead. ](/news/2009/12/24/bomb-attacks-in-the-iraqi-cities-of-baghdad-and-hilla-leave-23-dead.md)
 Explosions across Iraq ahead of Shia ceremonies of Ashoura and Christmas.

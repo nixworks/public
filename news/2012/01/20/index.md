@@ -28,7 +28,7 @@ _Context: Chile, Croatia, Supreme Court, United Nations_
 China is warning Iran against developing nuclear weapons, observers said.
 
 ### [Marking five years since the assassination of Hrant Dink, Turks protest.](/news/2012/01/20/marking-five-years-since-the-assassination-of-hrant-dink-turks-protest.md)
-_Context: Turkish, assassination of Hrant Dink_
+_Context: Turkey, assassination of Hrant Dink_
 
 ### [2011-2012 Yemeni uprising: The Yemeni government modifies a new bill that would have granted legal immunity to aides of outgoing President Ali Abdullah Saleh. ](/news/2012/01/20/2011a2012-yemeni-uprising-the-yemeni-government-modifies-a-new-bill-that-would-have-granted-legal-immunity-to-aides-of-outgoing-president.md)
 _Context: 2011–2012 Yemeni uprising, Saleh, Yemen, Yemeni President_

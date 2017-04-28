@@ -10,7 +10,7 @@ A convoy of chemical weapons inspectors and UN staff that was travelling to a si
 The troops will include troops to train and advise Afghanistan&rsquo;s military and a group of Special Operations forces.
 
 ### [An American doctor, Mehdi Ali Qamar, is shot and killed in Pakistan by unknown assailants on motorbikes.  ](/news/2014/05/27/an-american-doctor-mehdi-ali-qamar-is-shot-and-killed-in-pakistan-by-unknown-assailants-on-motorbikes.md)
-_Context: Pakistan, United States_
+_Context: Pakistan, U.S._
 
 ### [At least 35 people killed, 70 injured in bomb attacks in Baghdad and Anbar Province of Iraq. ](/news/2014/05/27/at-least-35-people-killed-70-injured-in-bomb-attacks-in-baghdad-and-anbar-province-of-iraq.md)
 _Context: Anbar province, Baghdad, Iraq, Iraqi insurgency_
@@ -40,7 +40,7 @@ _Context: Pakistan, stoned to death_
 _Context: Egyptian presidential election, 2014, Government of Egypt_
 
 ### [The White House accidentally reveals the name of the CIA's top intelligence official in Afghanistan to approximately 6,000 journalists during U.S. President Barack Obama's visit to Bagram Airfield.  ](/news/2014/05/27/the-white-house-accidentally-reveals-the-name-of-the-cia-s-top-intelligence-official-in-afghanistan-to-approximately-6-000-journalists-durin.md)
-_Context: Afghan, Bagram Airfield, Barack Obama, CIA, U.S. President_
+_Context: Afghanistan, Bagram Airfield, Barack Obama, CIA, U.S. President_
 
 ### [Scientists announce the discovery of a remote mire the size of England in the Republic of the Congo. ](/news/2014/05/27/scientists-announce-the-discovery-of-a-remote-mire-the-size-of-england-in-the-republic-of-the-congo.md)
 _Context: England, Republic of the Congo, mire_

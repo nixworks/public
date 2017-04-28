@@ -4,7 +4,7 @@
 Bangladesh has seen an escalation of suspected jihadist violence in recent weeks.
 
 ### [According to a local police chief, at least seven militants are killed by Afghan security forces in Logar Province. ](/news/2017/03/25/according-to-a-local-police-chief-at-least-seven-militants-are-killed-by-afghan-security-forces-in-logar-province.md)
-_Context: Afghan security forces, Logar Province, War in Afghanistan_
+_Context: Afghan security forces, Logar Province, War in Afghanistan (2015–present)_
 
 ### [At least 16 people are killed by multiple airstrikes on a prison in Idlib, according to the Syrian Observatory for Human Rights. ](/news/2017/03/25/at-least-16-people-are-killed-by-multiple-airstrikes-on-a-prison-in-idlib-according-to-the-syrian-observatory-for-human-rights.md)
 _Context: Idlib, Syrian Civil War, Syrian Observatory for Human Rights_

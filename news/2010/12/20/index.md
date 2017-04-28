@@ -10,7 +10,7 @@ _Context: Kenya, Nairobi, Somali_
 South Korea holds live-firing exercises on an island close to the border with North Korea, which Pyongyang condemns but vows not to retaliate.
 
 ### [13 Afghan soldiers were killed in two separate suicide attacks launched by Taliban in the capital city of Afghanistan. ](/news/2010/12/20/13-afghan-soldiers-were-killed-in-two-separate-suicide-attacks-launched-by-taliban-in-the-capital-city-of-afghanistan.md)
-_Context: Afghan, Kabul, Taliban_
+_Context: Afghanistan, Kabul, Taliban_
 
 ### [Pope Benedict XVI discusses sexual abuse of children by priests while dining with cardinals and bishops at his traditional Christmas audience. ](/news/2010/12/20/pope-benedict-xvi-discusses-sexual-abuse-of-children-by-priests-while-dining-with-cardinals-and-bishops-at-his-traditional-christmas-audienc.md)
 Pope Benedict calls for the Catholic Church to reflect on mistakes that allowed sexual abuse of children by priests to happen.
@@ -43,7 +43,7 @@ A powerful earthquake struck a sparsely populated district of southeastern Iran,
 Russian President Dimitry Medvedev arrives in India on Tuesday to secure nuclear and defence contracts worth billions of dollars.
 
 ### [North Korea agrees with United States troubleshooter Bill Richardson to permit the return of United Nations nuclear inspectors. ](/news/2010/12/20/north-korea-agrees-with-united-states-troubleshooter-bill-richardson-to-permit-the-return-of-united-nations-nuclear-inspectors.md)
-_Context: Bill Richardson, International Atomic Energy Agency, North Korea, United Nations, United States_
+_Context: Bill Richardson, International Atomic Energy Agency, North Korea, U.S., United Nations_
 
 ### [Israel orders all of their foreign envoys to thwart Palestinian attempts to draft a UN resolution with the aims of recognition of Palestinian and to pressure Israel to stop settling its citizens within Palestine. ](/news/2010/12/20/israel-orders-all-of-their-foreign-envoys-to-thwart-palestinian-attempts-to-draft-a-un-resolution-with-the-aims-of-recognition-of-palestinia.md)
 _Context: Israel, Palestinian, UN_

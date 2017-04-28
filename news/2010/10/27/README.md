@@ -7,13 +7,13 @@ _Context: India, Jammu and Kashmir_
 _Context: Somalia, al-Shabaab_
 
 ### [A United States drone attack kills three in Pakistan. ](/news/2010/10/27/a-united-states-drone-attack-kills-three-in-pakistan.md)
-_Context: Pakistan, United States_
+_Context: Pakistan, U.S._
 
 ### [At least three people are killed in an explosion in Baghdad, Iraq. ](/news/2010/10/27/at-least-three-people-are-killed-in-an-explosion-in-baghdad-iraq.md)
 _Context: Baghdad, Iraq_
 
 ### [Security forces raid Taliban hideouts in northern Baghlan province of Afghanistan eliminating five insurgents. ](/news/2010/10/27/security-forces-raid-taliban-hideouts-in-northern-baghlan-province-of-afghanistan-eliminating-five-insurgents.md)
-_Context: Afghan, Baghlan province, Taliban_
+_Context: Afghanistan, Baghlan province, Taliban_
 
 ### [A NATO soldier is killed in a roadside bomb attack in Afghanistan, taking the 2010 death toll for allied troops in Afghanistan to 603. ](/news/2010/10/27/a-nato-soldier-is-killed-in-a-roadside-bomb-attack-in-afghanistan-taking-the-2010-death-toll-for-allied-troops-in-afghanistan-to-603.md)
 _Context: 2010 death toll, NATO, War in Afghanistan (2001–present)_
@@ -64,7 +64,7 @@ A Virginia man who allegedly believed he was helping al Qaeda plan bombings at W
 The killings in Nayarit State were the third mass shooting with apparent connections to organized crime in less than a week. Several of the victims were in treatment for drug addiction.
 
 ### [Former Soviet leader Mikhail Gorbachev says it was "impossible" for coalition forces to secure victory in Afghanistan in a BBC interview. ](/news/2010/10/27/former-soviet-leader-mikhail-gorbachev-says-it-was-aimpossiblea-for-coalition-forces-to-secure-victory-in-afghanistan-in-a-bbc-interview.md)
-_Context: Afghan, Mikhail Gorbachev, Soviet_
+_Context: Afghanistan, Mikhail Gorbachev, Soviet_
 
 ### [Three labour activists are sentenced to up to nine years in prison in Vietnam for distributing anti-government leaflets and going on strike. ](/news/2010/10/27/three-labour-activists-are-sentenced-to-up-to-nine-years-in-prison-in-vietnam-for-distributing-anti-government-leaflets-and-going-on-strike.md)
 _Context: Vietnam_

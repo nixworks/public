@@ -22,7 +22,7 @@ Italy was yesterday tensely awaiting the outcome of a trial which could send Pri
 _Context: China, Ningxia Hui Autonomous Region_
 
 ### [Two Canadian medics are killed in Afghanistan, 20 kilometres west of Kandahar City in Panjwaii District. ](/news/2010/06/27/two-canadian-medics-are-killed-in-afghanistan-20-kilometres-west-of-kandahar-city-in-panjwaii-district.md)
-_Context: Afghan, Canadian, Kandahar, Panjwaii District_
+_Context: Afghanistan, Canadian, Kandahar, Panjwaii District_
 
 ### [Fighter jets pounded Taliban hideouts in the upper Orakzai Agency of Pakistan on Saturday, killing 14 Taliban, and injuring eight others. ](/news/2010/06/27/fighter-jets-pounded-taliban-hideouts-in-the-upper-orakzai-agency-of-pakistan-on-saturday-killing-14-taliban-and-injuring-eight-others.md)
 _Context: Orakzai Tribal Area, Pakistan, Taliban, fighter jet_

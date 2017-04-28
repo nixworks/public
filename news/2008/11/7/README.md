@@ -13,10 +13,10 @@ AU-PRINCE (Reuters) - The death toll rose to at least 75 on Saturday in the coll
 _Context: Malaysia, Raja Petra Kamarudin, indefinite detention without trial_
 
 ### [ President of Afghanistan Hamid Karzai opens a new terminal at Kabul International Airport. ](/news/2008/11/7/president-of-afghanistan-hamid-karzai-opens-a-new-terminal-at-kabul-international-airport.md)
-_Context: Afghan, Afghanistan President, Hamid Karzai, Kabul International Airport_
+_Context: Afghanistan, Afghanistan President, Hamid Karzai, Kabul International Airport_
 
 ### [ Unemployment in the United States reaches its highest rate in 14 years. ](/news/2008/11/7/unemployment-in-the-united-states-reaches-its-highest-rate-in-14-years.md)
-_Context: United States_
+_Context: U.S._
 
 ### [ The Kivu conflict in the Democratic Republic of the Congo continues while the United Nations meets to discuss peace talks. ](/news/2008/11/7/the-kivu-conflict-in-the-democratic-republic-of-the-congo-continues-while-the-united-nations-meets-to-discuss-peace-talks.md)
 _Context: Democratic Republic of the Congo, Kivu conflict, United Nations_

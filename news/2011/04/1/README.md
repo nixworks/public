@@ -7,7 +7,7 @@ A Libyan envoy representing Colonel Gaddafi has been in London in the past few d
 _Context: 2010–2011 Ivorian crisis, Abidjan, Alassane Ouattara, Ivory Coast, Laurent Gbagbo, President of the Ivory Coast_
 
 ### [The Turkish army kills seven PKK rebels who crossed the border from Syria. ](/news/2011/04/1/the-turkish-army-kills-seven-pkk-rebels-who-crossed-the-border-from-syria.md)
-_Context: Kurdistan Workers' Party, Syria, Turkish_
+_Context: Kurdistan Workers' Party, Syria, Turkey_
 
 ### [At least twelve people have been killed at a protest against Koran burning in Mazar-i-Sharif with at least eight of them being United Nations personnel. ](/news/2011/04/1/at-least-twelve-people-have-been-killed-at-a-protest-against-koran-burning-in-mazar-i-sharif-with-at-least-eight-of-them-being-united-nation.md)
 I-SHARIF, Afghanistan (Reuters) - Afghan protesters angered by the burning of a Koran by an obscure U.S. pastor killed up to 20 U.N. staff, beheading two foreigners, when they over-ran a compound in a normally peaceful northern city on Friday in the worst ever attack on the U.N. in Afghanistan.

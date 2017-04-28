@@ -16,7 +16,7 @@ _Context: BlackBerry, BlackBerry, BlackBerry 10, BlackBerry Z10, Canadian, opera
 Tornadoes ripped through four states on Tuesday night and Wednesday, killing at least two people, as an Arctic cold front clashed with warm air to produce severe weather over a wide swath of the nation.
 
 ### [Three people are dead, including the shooter, one person is wounded after a shooting at an office building in Phoenix, Arizona, United States. ](/news/2013/01/30/three-people-are-dead-including-the-shooter-one-person-is-wounded-after-a-shooting-at-an-office-building-in-phoenix-arizona-united-state.md)
-_Context: Arizona, Phoenix, Arizona, United States, office building, shooting_
+_Context: Arizona, Phoenix, Arizona, U.S., office building, shooting_
 
 ### [A gunman kills a school bus driver and holds a 6-year-old boy hostage in an underground bunker in Midland City, Alabama, United States. ](/news/2013/01/30/a-gunman-kills-a-school-bus-driver-and-holds-a-6-year-old-boy-hostage-in-an-underground-bunker-in-midland-city-alabama-united-states.md)
 Authorities say a man shot the driver, grabbed a 5-year-old passenger and ran, holding him hostage overnight in an underground bunker.

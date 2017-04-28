@@ -7,7 +7,7 @@ Arab League peace monitors spread to various parts of Syria but anti-government 
 _Context: China, Xinjiang Province_
 
 ### [Turkish warplanes launch airstrikes aimed at Kurdish militants, accidentally killing 35 smugglers that were suspected as guerillas. ](/news/2011/12/29/turkish-warplanes-launch-airstrikes-aimed-at-kurdish-militants-accidentally-killing-35-smugglers-that-were-suspected-as-guerillas.md)
-_Context: Kurdish, Turkish_
+_Context: Kurdish, Turkey_
 
 ### [2011 Egyptian revolution: Egyptian security forces storm the offices of non-governmental organisations across the country. ](/news/2011/12/29/2011-egyptian-revolution-egyptian-security-forces-storm-the-offices-of-non-governmental-organisations-across-the-country.md)
 _Context: 2011 Egyptian revolution, non-governmental organisations_

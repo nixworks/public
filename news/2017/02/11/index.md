@@ -1,10 +1,10 @@
 ## [2017-02-11](/news/2017/02/11/index.md)
 
 ### [A suicide bomber kills at least seven people outside a bank in Lashkargah. ](/news/2017/02/11/a-suicide-bomber-kills-at-least-seven-people-outside-a-bank-in-lashkargah.md)
-_Context: Lashkargah, War in Afghanistan_
+_Context: Lashkargah, War in Afghanistan (2015–present)_
 
 ### [Syrian rebels and Turkish troops enter al-Bab, with Syrian troops also approaching the town, prompting heavy clashes with ISIL militants. ](/news/2017/02/11/syrian-rebels-and-turkish-troops-enter-al-bab-with-syrian-troops-also-approaching-the-town-prompting-heavy-clashes-with-isil-militants.md)
-_Context: Battle of al-Bab, Free Syrian Army, ISIL, Syrian Armed Forces, Syrian Civil War, Turkish troops, al-Bab, militants_
+_Context: Battle of al-Bab, Free Syrian Army, ISIL, Syrian Civil War, Turkish troops, al-Bab, militants, military_
 
 ### [Abdulkadir Masharipov is charged with murder in relation to the shootings in Istanbul that killed 39 people and is remanded in custody. Islamic State in Iraq and the Levant has claimed responsibility for the shootings. ](/news/2017/02/11/abdulkadir-masharipov-is-charged-with-murder-in-relation-to-the-shootings-in-istanbul-that-killed-39-people-and-is-remanded-in-custody-isla.md)
 The gunman suspected of killing 39 people in an Istanbul nightclub on New Year&#039;s Day is formally arrested.

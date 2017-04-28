@@ -37,7 +37,7 @@ _Context: ETA, Madrid, Spain_
 _Context: Guinea-Bissau, Kumba Ialá, former President, presidential palace_
 
 ### [ Accused Canadian serial killer Robert Pickton is charged with a total of 27 murders ](/news/2005/05/25/accused-canadian-serial-killer-robert-pickton-is-charged-with-a-total-of-27-murders.md)
-_Context: Canadian, Robert Pickton, Serial killer, murder_
+_Context: Canadian, Robert Pickton, murder, serial killer_
 
 ### [ In Panama, police has clashed for three days with demonstrators that protest new pension reforms of president Martin Torrijos ](/news/2005/05/25/in-panama-police-has-clashed-for-three-days-with-demonstrators-that-protest-new-pension-reforms-of-president-martan-torrijos.md)
 _Context: Martín Torrijos, Panama, pension_

@@ -28,7 +28,7 @@ _Context: British Airways_
 Dozens of people were arrested and several injured after violent clashes between anti-Muslim militants and anti-fascist protesters and police during a demonstration in Bolton.
 
 ### [A Western Saharan human rights campaigner alleges abuse by Moroccan police after being interviewed by the BBC for their ''Tropic of Cancer'' programme. ](/news/2010/03/20/a-western-saharan-human-rights-campaigner-alleges-abuse-by-moroccan-police-after-being-interviewed-by-the-bbc-for-their-tropic-of-cancer.md)
-_Context: BBC, Morocco, Tropic of Cancer, Western Sahara_
+_Context: BBC, Moroccan, Tropic of Cancer, Western Sahara_
 
 ### [Hundreds of thousands of people attend a rally in support of Italian Prime Minister Silvio Berlusconi in Rome ahead of this month's elections. ](/news/2010/03/20/hundreds-of-thousands-of-people-attend-a-rally-in-support-of-italian-prime-minister-silvio-berlusconi-in-rome-ahead-of-this-month-s-election.md)
 Hundreds of thousands of people have marched through the Italian capital in a massive show of support for PM Silvio Berlusconi ahead of regional elections.

@@ -4,7 +4,7 @@
 _Context: Kosovo, Portuguese, officially recognizes_
 
 ### [ War on Terrorism in Afghanistan: In talks brokered by Saudi Arabia, the Taliban renounces its ties to al-Qaeda and sues for peace with Afghanistan. ](/news/2008/10/7/war-on-terrorism-in-afghanistan-p-in-talks-brokered-by-saudi-arabia-the-taliban-renounces-its-ties-to-al-qaeda-and-sues-for-peace-with-afg.md)
-_Context: Afghan, Saudi Arabia, Taliban, War in Afghanistan (2001–present), War on Terrorism, al-Qaeda_
+_Context: Afghanistan, Saudi Arabia, Taliban, War in Afghanistan (2001–present), War on Terrorism, al-Qaeda_
 
 ### [ Nobel Prize: The 2008 Nobel Prize in Physics is awarded Yoichiro Nambu for the discovery of the mechanism of spontaneous broken symmetry in subatomic physics, and Makoto Kobayashi and Toshihide Maskawa for the discovery of the origin of the broken symmetry which predicts the existence of at least three families of quarks in nature.](/news/2008/10/7/nobel-prize-p-the-2008-nobel-prize-in-physics-is-awarded-yoichiro-nambu-for-the-discovery-of-the-mechanism-of-spontaneous-broken-symmetry-i.md)
 _Context: Makoto Kobayashi, Nobel Prize, Nobel Prize in Physics, Toshihide Maskawa, Yoichiro Nambu, quarks, spontaneous broken symmetry, subatomic_

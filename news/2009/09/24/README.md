@@ -46,7 +46,7 @@ _Context: South Korea, Tanzania_
 _Context: Brussels, René Magritte, euro, surrealist_
 
 ### [ Detained Burmese National League for Democracy leader Aung San Suu Kyi welcomes a new United States policy shift which would engage with the Burmese military government. ](/news/2009/09/24/detained-burmese-national-league-for-democracy-leader-aung-san-suu-kyi-welcomes-a-new-united-states-policy-shift-which-would-engage-with-th.md)
-_Context: Aung San Suu Kyi, Burma, National League for Democracy, State Peace and Development Council, United States_
+_Context: Aung San Suu Kyi, Burma, National League for Democracy, State Peace and Development Council, U.S._
 
 ### [ A court in Taiwan rejects former President Chen Shui-bian's appeal to be released on bail. ](/news/2009/09/24/a-court-in-taiwan-rejects-former-president-chen-shui-bian-s-appeal-to-be-released-on-bail.md)
 _Context: Chen Shui-bian, President of Taiwan, Taiwan_
@@ -67,7 +67,7 @@ _Context: G-20 Summit, Pittsburgh_
 _Context: Attorney General for England and Wales, Patricia Scotland, Baroness Scotland of Asthal, Tongan Loloahi Tapui_
 
 ### [ Five deaths occur in Turkey as a result of flash floods. ](/news/2009/09/24/five-deaths-occur-in-turkey-as-a-result-of-flash-floods.md)
-_Context: Turkish_
+_Context: Turkey_
 
 ### [ Nigerian politician Waje Yayok, third in command in Kaduna State, is kidnapped. ](/news/2009/09/24/nigerian-politician-waje-yayok-third-in-command-in-kaduna-state-is-kidnapped.md)
 _Context: Kaduna State, Nigeria, Waje Yayok_

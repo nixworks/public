@@ -7,7 +7,7 @@ _Context: Basra, Iraq, suicide bomber_
 _Context: Bucharest, Clashes, President, Romania, Traian Băsescu, austerity measures_
 
 ### [A power transformer malfunction in Bursa, Turkey, leaves millions without electricity, including the metropolis of Istanbul. ](/news/2012/01/14/a-power-transformer-malfunction-in-bursa-turkey-leaves-millions-without-electricity-including-the-metropolis-of-istanbul.md)
-_Context: Bursa, Istanbul, Turkish, transformer_
+_Context: Bursa, Istanbul, Turkey, transformer_
 
 ### [Rescue teams find two survivors trapped inside the capsized cruise ship ''Costa Concordia'', which ran aground off the coast of Tuscany on January 13, killing at least three people. The ship's captain is detained by police for questioning. ](/news/2012/01/14/rescue-teams-find-two-survivors-trapped-inside-the-capsized-cruise-ship-costa-concordia-which-ran-aground-off-the-coast-of-tuscany-on-j.md)
 _Context: Costa Concordia, Tuscany_

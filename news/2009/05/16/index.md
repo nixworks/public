@@ -37,7 +37,7 @@ _Context: China's, Hong Kong, acid, acid attack, acid attack_
 Thousands of German workers marched through Berlin today to demand the government do more to protect jobs, highlighting popular&hellip;
 
 ### [ India and Turkey confirm their first cases of (A)H1N1 influenza. ](/news/2009/05/16/india-and-turkey-confirm-their-first-cases-of-a-h1n1-influenza.md)
-_Context: H1N1, India, Turkish, current outbreak, swine flu_
+_Context: H1N1, India, Turkey, current outbreak, swine flu_
 
 ## [Previous Day...](/news/2009/05/15/index.md)
 

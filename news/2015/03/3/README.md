@@ -22,7 +22,7 @@ North Korea will once again allow tourists into the country after four months of
 _Context: David Petraeus, Director of the CIA, United States Army_
 
 ### [A Turkish court orders President Recep Tayyip Erdogan to pay 10,000 lira ($4,000) in compensation for the mental anguish caused to artist Mehmet Aksoy for having called his sculpture ''Monument to Humanity'' -- meant to promote reconciliation between Turkey and Armenia -- a "monstrosity" in 2011. ](/news/2015/03/3/a-turkish-court-orders-president-recep-tayyip-erdoaan-to-pay-10-000-lira-4-000-in-compensation-for-the-mental-anguish-caused-to-artist-m.md)
-_Context: Armenia, Mehmet Aksoy, Monument to Humanity, Recep Tayyip Erdoğan, Turkish, U.S. dollar, lira_
+_Context: Armenia, Mehmet Aksoy, Monument to Humanity, Recep Tayyip Erdoğan, Turkey, U.S. dollar, lira_
 
 ### [China detains Jing Chunhua, a senior official from Hebei province of China, for investigation by the Communist Party's anti-graft agency for violating party discipline and breaking the law. Jing is the second provincial-ranked official from Hebei province to undergo investigation since the wider anti-corruption campaign began in 2013. ](/news/2015/03/3/china-detains-jing-chunhua-a-senior-official-from-hebei-province-of-china-for-investigation-by-the-communist-party-s-anti-graft-agency-for.md)
 _Context: Central Commission for Discipline Inspection, China, Hebei, Jing Chunhua_

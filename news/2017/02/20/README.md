@@ -4,7 +4,7 @@
 Gunmen in southern Philippine waters killed one crewman of a Vietnamese vessel and abducted seven in what appeared to be the latest attack by pirates in the area, the Philippine coastguard said on Monday.
 
 ### [At least 11 people, all belonging to the same family, are killed in a grenade attack on their home in Laghman Province, according to provincial officials. ](/news/2017/02/20/at-least-11-people-all-belonging-to-the-same-family-are-killed-in-a-grenade-attack-on-their-home-in-laghman-province-according-to-provinc.md)
-_Context: Laghman Province, War in Afghanistan_
+_Context: Laghman Province, War in Afghanistan (2015–present)_
 
 ### [A motorcade carrying prime minister Fayez al-Sarraj of the internationally recognized Government of National Accord, is attacked by unidentified gunmen in Tripoli. There were no injuries reported. ](/news/2017/02/20/a-motorcade-carrying-prime-minister-fayez-al-sarraj-of-the-internationally-recognized-government-of-national-accord-is-attacked-by-unidenti.md)
 _Context: Fayez al-Sarraj, Government of National Accord, Libyan Civil War (2014–present), Tripoli_

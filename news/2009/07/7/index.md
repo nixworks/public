@@ -10,7 +10,7 @@ _Context: California, Los Angeles, Michael Jackson, Staples Center, public memor
 UN Secretary General Ban Ki-moon has paid tribute to Ireland&#39;s contribution to UN peacekeeping over the past 50 years.
 
 ### [ Police shoot dead the Cherokee County serial killer, identified as Patrick Tracy Burris, after he fired several times at the police. ](/news/2009/07/7/police-shoot-dead-the-cherokee-county-serial-killer-identified-as-patrick-tracy-burris-after-he-fired-several-times-at-the-police.md)
-_Context: Cherokee County, Patrick Tracy Burris, Serial killer_
+_Context: Cherokee County, Patrick Tracy Burris, serial killer_
 
 ### [ Tunisian police charge nine men&mdash;including two air force officers&mdash;with plotting several deaths during joint military exercises with the US. ](/news/2009/07/7/tunisian-police-charge-nine-men-mdash-including-two-air-force-officers-mdash-with-plotting-several-deaths-during-joint-military-exercises-w.md)
 _Context: Tunisia_

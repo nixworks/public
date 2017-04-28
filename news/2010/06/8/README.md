@@ -13,7 +13,7 @@ Twelve people, including schoolchildren, perish as boat capsizes in lake.
 _Context: European Union, Roma_
 
 ### [21 nations, including the Presidents of Afghanistan, Russia and Syria, attending the Conference on Interaction and Confidence-Building Measures in Asia summit in Istanbul condemn Israel's deadly raid on the Gaza-bound aid flotilla, while Israel, the 22nd participant with a lower-level diplomat, disagrees. ](/news/2010/06/8/21-nations-including-the-presidents-of-afghanistan-russia-and-syria-attending-the-conference-on-interaction-and-confidence-building-measu.md)
-_Context: Afghan, Conference on Interaction and Confidence-Building Measures in Asia, Gaza Strip, Gaza flotilla raid, Israel, Istanbul, Russia, Syria_
+_Context: Afghanistan, Conference on Interaction and Confidence-Building Measures in Asia, Gaza Strip, Gaza flotilla raid, Israel, Istanbul, Russia, Syria_
 
 ### [The United States threatens Iran with its toughest nuclear sanctions yet, despite the nuclear fuel-swap arrangement Iran made with Brazil and Turkey in May. ](/news/2010/06/8/the-united-states-threatens-iran-with-its-toughest-nuclear-sanctions-yet-despite-the-nuclear-fuel-swap-arrangement-iran-made-with-brazil-an.md)
 Iran faces its toughest sanctions over its nuclear policy, the US says, as the UN prepares to vote on the issue.
@@ -22,7 +22,7 @@ Iran faces its toughest sanctions over its nuclear policy, the US says, as the U
 UNHCR says it was told to cease operations without explanation.
 
 ### [The Red Crescent Society, for the first time since December 2008 and in a joint venture between Iran and Turkey, prepares to send two aid boats of donations and relief workers to Gaza. ](/news/2010/06/8/the-red-crescent-society-for-the-first-time-since-december-2008-and-in-a-joint-venture-between-iran-and-turkey-prepares-to-send-two-aid-bo.md)
-_Context: Gaza Strip, International Red Cross and Red Crescent Movement, Iran, Turkish_
+_Context: Gaza Strip, International Red Cross and Red Crescent Movement, Iran, Turkey_
 
 ### [China lodges a formal protest to North Korea after a North Korean soldier fatally shot three Chinese citizens at their mutual border. ](/news/2010/06/8/china-lodges-a-formal-protest-to-north-korea-after-a-north-korean-soldier-fatally-shot-three-chinese-citizens-at-their-mutual-border.md)
 China says it has filed a formal complaint with North Korea about the killing of..
@@ -37,10 +37,10 @@ Prosecutors in Cyprus begin presenting evidence against a TV host accused of ord
 Jerome Kerviel appears in court accused of unauthorised deals that cost bank $5.85bn.
 
 ### [The trial of former Governor of Illinois Rod Blagojevich on corruption charges begins today in the United States. ](/news/2010/06/8/the-trial-of-former-governor-of-illinois-rod-blagojevich-on-corruption-charges-begins-today-in-the-united-states.md)
-_Context: Governor of Illinois, Rod Blagojevich, United States, corruption_
+_Context: Governor of Illinois, Rod Blagojevich, U.S., corruption_
 
 ### [Refugee agencies criticise the UK Border Agency's decision to deport Afghan children. ](/news/2010/06/8/refugee-agencies-criticise-the-uk-border-agency-s-decision-to-deport-afghan-children.md)
-_Context: Afghan, UK Border Agency_
+_Context: Afghanistan, UK Border Agency_
 
 ### [Poland legalises chemical castration. ](/news/2010/06/8/poland-legalises-chemical-castration.md)
 Legislation which requires some rapists and paedophiles to undergo chemical castration comes into effect in Poland.
