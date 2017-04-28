@@ -1,6 +1,6 @@
 ### [2017-04-27](/news/2017/04/27/index.md)
 
-# A South Korean adviser says it is "impossible" for South Korea to purchase the THAAD missile complex since control of its operation would remain with the United States. The remarks come afer United States president Donald Trump suggested that South Korea pay for the $1 billion system. 
+# A South Korean adviser says it is "impossible" for South Korea to purchase the THAAD missile complex since control of its operation would remain with the United States. The remarks come after United States president Donald Trump suggested that South Korea pay for the $1 billion system. 
 
 
 
