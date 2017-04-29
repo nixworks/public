@@ -9,6 +9,9 @@ The internet monitoring group Turkey Blocks says all language editions of the on
 ### [Strikes continue in the University of Puerto Rico because of university budget cuts from the Puerto Rico Oversight Board (PROMESA). ](/news/2017/04/29/strikes-continue-in-the-university-of-puerto-rico-because-of-university-budget-cuts-from-the-puerto-rico-oversight-board-promesa.md)
 _Context: Puerto Rico Oversight Board (PROMESA), University of Puerto Rico, University of Puerto Rico strikes, 2017_
 
+### [European Union leaders approve negotiating guidelines that seek to secure the rights of European Union expatriates living in the United Kingdom, to ensure the financial terms of the separation and to guarantee a "soft border" between Ireland and Northern Ireland, before committing to a new free trade deal. ](/news/2017/04/29/european-union-leaders-approve-negotiating-guidelines-that-seek-to-secure-the-rights-of-european-union-expatriates-living-in-the-united-king.md)
+European Union leaders endorsed a stiff set of divorce terms for Britain at a summit on Saturday, rejoicing in a rare show of unity in adversity but well aware that may start to fray once negotiations begin.
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
