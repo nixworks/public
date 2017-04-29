@@ -24,6 +24,9 @@ Sky sources say the 27-year-old man, who was carrying a rucksack containing kniv
 ### [Kenneth Williams is executed at the Cummins Unit, Arkansas, by injection of midazolam, marking the state's fourth execution within eight days before the drug passes its expiration date. ](/news/2017/04/27/kenneth-williams-is-executed-at-the-cummins-unit-arkansas-by-injection-of-midazolam-marking-the-state-s-fourth-execution-within-eight-day.md)
 Arkansas executed convicted killer Kenneth Williams on Thursday, who was the fourth inmate put to death in the state in a little more than a week.
 
+### [The Extraordinary African Chambers tribunal in Dakar, Senegal, upholds its conviction of former Chadian president Hissene Habre for crimes against humanity, but acquits him of rape. ](/news/2017/04/27/the-extraordinary-african-chambers-tribunal-in-dakar-senegal-upholds-its-conviction-of-former-chadian-president-hissa-ne-habra-c-for-crimes.md)
+Judge in Senegal acquits Hissène Habré of a rape charge but upholds other charges including torture and murder
+
 ### [The Macedonian Parliament is stormed by protesters opposing the election of Talat Xhaferi, an ethnic Albanian, as Speaker of the Assembly. ](/news/2017/04/27/the-macedonian-parliament-is-stormed-by-protesters-opposing-the-election-of-talat-xhaferi-an-ethnic-albanian-as-speaker-of-the-assembly.md)
 _Context: 2017 storming of Macedonian Parliament, Macedonian, Parliament, Speaker of the Assembly, ethnic Albanian_
 
