@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [ABC News](http://abcnews.go.com/International/wireStory/montenegro-vote-membership-nato-47076849)
+1. [AP via ''ABC News](http://abcnews.go.com/International/wireStory/montenegro-vote-membership-nato-47076849)
 
 ### Related:
 

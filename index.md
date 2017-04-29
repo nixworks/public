@@ -6,11 +6,11 @@ The missile exploded shortly after launch, but Kim&rsquo;s ambitions are clear.
 ### [At least 24 people are killed by a landslide in the small village of Ayu in southern Kyrgyzstan. ](/news/2017/04/29/at-least-24-people-are-killed-by-a-landslide-in-the-small-village-of-ayu-in-southern-kyrgyzstan.md)
 _Context: Kyrgyzstan, landslide_
 
+### [An Aerogaviota-operated Antonov An-26 plane crashes in western Pinar del Rio Province, Cuba, reportedly killing all 39 people onboard. ](/news/2017/04/29/an-aerogaviota-operated-antonov-an-26-plane-crashes-in-western-pinar-del-rao-province-cuba-reportedly-killing-all-39-people-onboard.md)
+_Context: Aerogaviota, Antonov An-26, Cuba, Pinar del Río Province, crashes_
+
 ### [Monitoring group Turkey Blocks reports that a provisional administrative order blocks access to all language editions of Wikipedia in Turkey. ](/news/2017/04/29/monitoring-group-turkey-blocks-reports-that-a-provisional-administrative-order-blocks-access-to-all-language-editions-of-wikipedia-in-turkey.md)
 The internet monitoring group Turkey Blocks says all language editions of the online encyclopedia Wikipedia were blocked in Turkey on Saturday.
-
-### [Thousands of people protest in Washington, D.C. to bring awareness to climate change. ](/news/2017/04/29/thousands-of-people-protest-in-washington-d-c-to-bring-awareness-to-climate-change.md)
-_Context: People's Climate March, Washington, D.C., climate change_
 
 ### [Strikes continue in the University of Puerto Rico because of university budget cuts from the Puerto Rico Oversight Board (PROMESA). ](/news/2017/04/29/strikes-continue-in-the-university-of-puerto-rico-because-of-university-budget-cuts-from-the-puerto-rico-oversight-board-promesa.md)
 _Context: Puerto Rico Oversight Board (PROMESA), University of Puerto Rico, University of Puerto Rico strikes, 2017_
@@ -38,8 +38,8 @@ Sgt Alexander Blackman is released after his conviction for murder was reduced t
 ### [Richard Vallieres, convicted of stealing 3,000 tonnes of maple syrup from a Federation of Quebec Maple Syrup Producers warehouse in 2012, is sentenced to eight years in prison and fined $9.4 million, adjustable to fourteen years on non-payment of the fine. ](/news/2017/04/28/richard-vallia-res-convicted-of-stealing-3-000-tonnes-of-maple-syrup-from-a-federation-of-quebec-maple-syrup-producers-warehouse-in-2012-i.md)
 A man described as one of the ringleaders in the 2012 theft of $18.7 million worth of maple syrup could spend up to 14 years behind bars.
 
-### [Ilir Meta is elected the new president of albania, winning 87 out of 144 Members of the Assembly. ](/news/2017/04/28/ilir-meta-is-elected-the-new-president-of-albania-winning-87-out-of-144-members-of-the-assembly.md)
-_Context: Albanian presidential election, 2017, Ilir Meta_
+### [Ilir Meta is elected the new President of Albania, winning 87 votes out of 140 members of the Assembly. ](/news/2017/04/28/ilir-meta-is-elected-the-new-president-of-albania-winning-87-votes-out-of-140-members-of-the-assembly.md)
+_Context: Albanian presidential election, 2017, Assembly, Ilir Meta, President of Albania_
 
 ### [The Parliament of Montenegro votes 46-0 to ratify Montenegro's membership of NATO, while opposition politicians boycott the vote and hold protests. ](/news/2017/04/28/the-parliament-of-montenegro-votes-46a0-to-ratify-montenegro-s-membership-of-nato-while-opposition-politicians-boycott-the-vote-and-hold.md)
 _Context: Accession of Montenegro to NATO, Montenegro, NATO, Parliament of Montenegro, membership_

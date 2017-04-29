@@ -12,8 +12,8 @@ Sgt Alexander Blackman is released after his conviction for murder was reduced t
 ### [Richard Vallieres, convicted of stealing 3,000 tonnes of maple syrup from a Federation of Quebec Maple Syrup Producers warehouse in 2012, is sentenced to eight years in prison and fined $9.4 million, adjustable to fourteen years on non-payment of the fine. ](/news/2017/04/28/richard-vallia-res-convicted-of-stealing-3-000-tonnes-of-maple-syrup-from-a-federation-of-quebec-maple-syrup-producers-warehouse-in-2012-i.md)
 A man described as one of the ringleaders in the 2012 theft of $18.7 million worth of maple syrup could spend up to 14 years behind bars.
 
-### [Ilir Meta is elected the new president of albania, winning 87 out of 144 Members of the Assembly. ](/news/2017/04/28/ilir-meta-is-elected-the-new-president-of-albania-winning-87-out-of-144-members-of-the-assembly.md)
-_Context: Albanian presidential election, 2017, Ilir Meta_
+### [Ilir Meta is elected the new President of Albania, winning 87 votes out of 140 members of the Assembly. ](/news/2017/04/28/ilir-meta-is-elected-the-new-president-of-albania-winning-87-votes-out-of-140-members-of-the-assembly.md)
+_Context: Albanian presidential election, 2017, Assembly, Ilir Meta, President of Albania_
 
 ### [The Parliament of Montenegro votes 46-0 to ratify Montenegro's membership of NATO, while opposition politicians boycott the vote and hold protests. ](/news/2017/04/28/the-parliament-of-montenegro-votes-46a0-to-ratify-montenegro-s-membership-of-nato-while-opposition-politicians-boycott-the-vote-and-hold.md)
 _Context: Accession of Montenegro to NATO, Montenegro, NATO, Parliament of Montenegro, membership_
