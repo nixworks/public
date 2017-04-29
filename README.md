@@ -3,6 +3,9 @@
 ### [The U.S. Pacific Command and South Korean defense officials report that a North Korean missile was fired in the early morning, but quickly failed and did not travel beyond North Korea, echoing a similar failed attempt by North Korea thirteen days ago. ](/news/2017/04/29/the-u-s-pacific-command-and-south-korean-defense-officials-report-that-a-north-korean-missile-was-fired-in-the-early-morning-but-quickly-f.md)
 The missile exploded shortly after launch, but Kim&rsquo;s ambitions are clear.
 
+### [Monitoring group Turkey Blocks reports that a provisional administrative order blocks access to all language editions of Wikipedia in Turkey. ](/news/2017/04/29/monitoring-group-turkey-blocks-reports-that-a-provisional-administrative-order-blocks-access-to-all-language-editions-of-wikipedia-in-turkey.md)
+The internet monitoring group Turkey Blocks says all language editions of the online encyclopedia Wikipedia were blocked in Turkey on Saturday.
+
 ### [Strikes continue in the University of Puerto Rico because of university budget cuts from the Puerto Rico Oversight Board (PROMESA). ](/news/2017/04/29/strikes-continue-in-the-university-of-puerto-rico-because-of-university-budget-cuts-from-the-puerto-rico-oversight-board-promesa.md)
 _Context: Puerto Rico Oversight Board (PROMESA), University of Puerto Rico, University of Puerto Rico strikes, 2017_
 
@@ -16,6 +19,9 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ### [A 6.8 earthquake strikes off the coast of Mindanao, Philippines triggering tsunami warnings. ](/news/2017/04/28/a-6-8-earthquake-strikes-off-the-coast-of-mindanao-philippines-triggering-tsunami-warnings.md)
 _Context: Mindanao, Philippines, earthquake, tsunami_
+
+### [The United Nations Security Council extends the MINURSO mission for another year and attempts to restart Western Sahara peace process negotiations after both sides retracted their military from a standoff position in Guerguerat, near the border with Mauretania. ](/news/2017/04/28/the-united-nations-security-council-extends-the-minurso-mission-for-another-year-and-attempts-to-restart-western-sahara-peace-process-negoti.md)
+The United Nations Security Council has unanimously backed attempts to restart talks between Morocco and the Polisario independence movement over the Western Sahara conflict and has extended its peacekeeping mission for another year.
 
 ### [Sergeant Alexander Blackman, also known as Marine A, a Royal Marine who shot dead a wounded Taliban insurgent in 2011 during Operation Herrick, is released from HM Prison Erlestoke after serving more than three years of a seven-year sentence. ](/news/2017/04/28/sergeant-alexander-blackman-also-known-as-marine-a-a-royal-marine-who-shot-dead-a-wounded-taliban-insurgent-in-2011-during-operation-herri.md)
 Sgt Alexander Blackman is released after his conviction for murder was reduced to manslaughter.
