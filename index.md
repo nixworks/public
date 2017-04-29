@@ -6,11 +6,14 @@ The missile exploded shortly after launch, but Kim&rsquo;s ambitions are clear.
 ### [At least 24 people are killed by a landslide in the small village of Ayu in southern Kyrgyzstan. ](/news/2017/04/29/at-least-24-people-are-killed-by-a-landslide-in-the-small-village-of-ayu-in-southern-kyrgyzstan.md)
 _Context: Kyrgyzstan, landslide_
 
-### [An Aerogaviota-operated Antonov An-26 plane crashes in western Pinar del Rio Province, Cuba, reportedly killing all 39 people onboard. ](/news/2017/04/29/an-aerogaviota-operated-antonov-an-26-plane-crashes-in-western-pinar-del-rao-province-cuba-reportedly-killing-all-39-people-onboard.md)
-_Context: Aerogaviota, Antonov An-26, Cuba, Pinar del Río Province, crashes_
+### [An Aerogaviota-operated Antonov An-26 plane crashes in western Artemisa Province, Cuba, killing eight troops on board. ](/news/2017/04/29/an-aerogaviota-operated-antonov-an-26-plane-crashes-in-western-artemisa-province-cuba-killing-eight-troops-on-board.md)
+A Cuban military plane has reportedly crashed in the western province of Artemisa, killing eight troops on board.
 
 ### [Monitoring group Turkey Blocks reports that a provisional administrative order blocks access to all language editions of Wikipedia in Turkey. ](/news/2017/04/29/monitoring-group-turkey-blocks-reports-that-a-provisional-administrative-order-blocks-access-to-all-language-editions-of-wikipedia-in-turkey.md)
 The internet monitoring group Turkey Blocks says all language editions of the online encyclopedia Wikipedia were blocked in Turkey on Saturday.
+
+### [Tens of thousands of people protest in Washington, D.C. to bring awareness to climate change. ](/news/2017/04/29/tens-of-thousands-of-people-protest-in-washington-d-c-to-bring-awareness-to-climate-change.md)
+Website ‘undergoing changes’ to reflect agency’s ‘new direction’, as tens of thousands protest inaction on climate in cities across the US
 
 ### [Strikes continue in the University of Puerto Rico because of university budget cuts from the Puerto Rico Oversight Board (PROMESA). ](/news/2017/04/29/strikes-continue-in-the-university-of-puerto-rico-because-of-university-budget-cuts-from-the-puerto-rico-oversight-board-promesa.md)
 _Context: Puerto Rico Oversight Board (PROMESA), University of Puerto Rico, University of Puerto Rico strikes, 2017_
