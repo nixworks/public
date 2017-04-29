@@ -47,6 +47,9 @@ Her party’s top official was forced to step aside after he was cited questioni
 ### [A general strike is held in Brazil, the first one in twenty years. ](/news/2017/04/28/a-general-strike-is-held-in-brazil-the-first-one-in-twenty-years.md)
 _Context: Brazil, general strike_
 
+### [Speaking for the National Rifle Association, President of the United States Donald Trump says Pocahontas may be his Democratic opponent in the 2020 United States presidential election, apparently referring to Senator Elizabeth Warren. ](/news/2017/04/28/speaking-for-the-national-rifle-association-president-of-the-united-states-donald-trump-says-pocahontas-may-be-his-democratic-opponent-in-t.md)
+President Donald Trump on Friday told the National Rifle Association&#x27;s leadership forum that &quot;the eight-year assault on your Second Amendment freedoms has come to a crashing end.&quot; He then returned to one of his most derogatory campaign insults, referring to Massachusetts Sen. Elizabeth Warren as &quot;Pocahontas&quot; -- a jab at her Native American ancestry.
+
 ---
 
 ## [Day Before Yesterday](/news/2017/04/27/index.md)
