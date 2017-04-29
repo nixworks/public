@@ -21,5 +21,8 @@ Iran state TV broadcasts live the first debate among the six candidates of the 1
 ### [Jean-Francois Jalkh, who replaced current presidential finalist Marine Le Pen as leader of the National Front, steps down from this role after three days following the reemergence of his comments questioning the logistics of Holocaust extermination camps, and is replaced by Steeve Briois. ](/news/2017/04/28/jean-franassois-jalkh-who-replaced-current-presidential-finalist-marine-le-pen-as-leader-of-the-national-front-steps-down-from-this-role-af.md)
 Her party’s top official was forced to step aside after he was cited questioning the Holocaust.
 
+### [A general strike is held in Brazil, the first one in twenty years. ](/news/2017/04/28/a-general-strike-is-held-in-brazil-the-first-one-in-twenty-years.md)
+_Context: Brazil, general strike_
+
 ## [Previous Day...](/news/2017/04/27/index.md)
 

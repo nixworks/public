@@ -9,7 +9,7 @@ The internet monitoring group Turkey Blocks says all language editions of the on
 ### [Strikes continue in the University of Puerto Rico because of university budget cuts from the Puerto Rico Oversight Board (PROMESA). ](/news/2017/04/29/strikes-continue-in-the-university-of-puerto-rico-because-of-university-budget-cuts-from-the-puerto-rico-oversight-board-promesa.md)
 _Context: Puerto Rico Oversight Board (PROMESA), University of Puerto Rico, University of Puerto Rico strikes, 2017_
 
-### [European Union leaders approve negotiating guidelines that seek to secure the rights of European Union expatriates living in the United Kingdom, to ensure the financial terms of the separation and to guarantee a "soft border" between Ireland and Northern Ireland, before committing to a new free trade deal. ](/news/2017/04/29/european-union-leaders-approve-negotiating-guidelines-that-seek-to-secure-the-rights-of-european-union-expatriates-living-in-the-united-king.md)
+### [European Union leaders approve negotiating guidelines that seek to secure "sufficient progress" on the rights of European Union expatriates living in the United Kingdom, on the financial terms of the separation and on a "soft border" between the Republic of Ireland and Northern Ireland, before committing to talk about a new free trade deal. ](/news/2017/04/29/european-union-leaders-approve-negotiating-guidelines-that-seek-to-secure-sufficient-progress-on-the-rights-of-european-union-expatriates.md)
 European Union leaders endorsed a stiff set of divorce terms for Britain at a summit on Saturday, rejoicing in a rare show of unity in adversity but well aware that may start to fray once negotiations begin.
 
 ## Opinion
@@ -40,6 +40,9 @@ Iran state TV broadcasts live the first debate among the six candidates of the 1
 
 ### [Jean-Francois Jalkh, who replaced current presidential finalist Marine Le Pen as leader of the National Front, steps down from this role after three days following the reemergence of his comments questioning the logistics of Holocaust extermination camps, and is replaced by Steeve Briois. ](/news/2017/04/28/jean-franassois-jalkh-who-replaced-current-presidential-finalist-marine-le-pen-as-leader-of-the-national-front-steps-down-from-this-role-af.md)
 Her party’s top official was forced to step aside after he was cited questioning the Holocaust.
+
+### [A general strike is held in Brazil, the first one in twenty years. ](/news/2017/04/28/a-general-strike-is-held-in-brazil-the-first-one-in-twenty-years.md)
+_Context: Brazil, general strike_
 
 ---
 
