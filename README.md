@@ -3,8 +3,8 @@
 ### [The U.S. Pacific Command and South Korean defense officials report that a North Korean missile was fired in the early morning, but quickly failed and did not travel beyond North Korea, echoing a similar failed attempt by North Korea thirteen days ago. ](/news/2017/04/29/the-u-s-pacific-command-and-south-korean-defense-officials-report-that-a-north-korean-missile-was-fired-in-the-early-morning-but-quickly-f.md)
 The missile exploded shortly after launch, but Kim&rsquo;s ambitions are clear.
 
-### ['''University of Puerto Rico strikes'''Strikes continue in the University of Puerto Rico because of university budget cuts from the Puerto Rico Oversight Board (PROMESA).](/news/2017/04/29/university-of-puerto-rico-strikes-pstrikes-continue-in-the-university-of-puerto-rico-because-of-university-budget-cuts-from-the-puerto.md)
-_Context: Puerto Rico Oversight Board (PROMESA), Strikes, University of Puerto Rico_
+### [Strikes continue in the University of Puerto Rico because of university budget cuts from the Puerto Rico Oversight Board (PROMESA). ](/news/2017/04/29/strikes-continue-in-the-university-of-puerto-rico-because-of-university-budget-cuts-from-the-puerto-rico-oversight-board-promesa.md)
+_Context: Puerto Rico Oversight Board (PROMESA), University of Puerto Rico, University of Puerto Rico strikes, 2017_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -19,6 +19,9 @@ _Context: Mindanao, Philippines, earthquake, tsunami_
 
 ### [Sergeant Alexander Blackman, also known as Marine A, a Royal Marine who shot dead a wounded Taliban insurgent in 2011 during Operation Herrick, is released from HM Prison Erlestoke after serving more than three years of a seven-year sentence. ](/news/2017/04/28/sergeant-alexander-blackman-also-known-as-marine-a-a-royal-marine-who-shot-dead-a-wounded-taliban-insurgent-in-2011-during-operation-herri.md)
 Sgt Alexander Blackman is released after his conviction for murder was reduced to manslaughter.
+
+### [Richard Vallieres, convicted of stealing 3,000 tonnes of maple syrup from a Federation of Quebec Maple Syrup Producers warehouse in 2012, is sentenced to eight years in prison and fined $9.4 million, adjustable to fourteen years on non-payment of the fine. ](/news/2017/04/28/richard-vallia-res-convicted-of-stealing-3-000-tonnes-of-maple-syrup-from-a-federation-of-quebec-maple-syrup-producers-warehouse-in-2012-i.md)
+A man described as one of the ringleaders in the 2012 theft of $18.7 million worth of maple syrup could spend up to 14 years behind bars.
 
 ### [The Parliament of Montenegro votes 46-0 to ratify Montenegro's membership of NATO, while opposition politicians boycott the vote and hold protests. ](/news/2017/04/28/the-parliament-of-montenegro-votes-46a0-to-ratify-montenegro-s-membership-of-nato-while-opposition-politicians-boycott-the-vote-and-hold.md)
 _Context: Accession of Montenegro to NATO, Montenegro, NATO, Parliament of Montenegro, membership_

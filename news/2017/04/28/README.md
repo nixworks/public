@@ -6,6 +6,9 @@ _Context: Mindanao, Philippines, earthquake, tsunami_
 ### [Sergeant Alexander Blackman, also known as Marine A, a Royal Marine who shot dead a wounded Taliban insurgent in 2011 during Operation Herrick, is released from HM Prison Erlestoke after serving more than three years of a seven-year sentence. ](/news/2017/04/28/sergeant-alexander-blackman-also-known-as-marine-a-a-royal-marine-who-shot-dead-a-wounded-taliban-insurgent-in-2011-during-operation-herri.md)
 Sgt Alexander Blackman is released after his conviction for murder was reduced to manslaughter.
 
+### [Richard Vallieres, convicted of stealing 3,000 tonnes of maple syrup from a Federation of Quebec Maple Syrup Producers warehouse in 2012, is sentenced to eight years in prison and fined $9.4 million, adjustable to fourteen years on non-payment of the fine. ](/news/2017/04/28/richard-vallia-res-convicted-of-stealing-3-000-tonnes-of-maple-syrup-from-a-federation-of-quebec-maple-syrup-producers-warehouse-in-2012-i.md)
+A man described as one of the ringleaders in the 2012 theft of $18.7 million worth of maple syrup could spend up to 14 years behind bars.
+
 ### [The Parliament of Montenegro votes 46-0 to ratify Montenegro's membership of NATO, while opposition politicians boycott the vote and hold protests. ](/news/2017/04/28/the-parliament-of-montenegro-votes-46a0-to-ratify-montenegro-s-membership-of-nato-while-opposition-politicians-boycott-the-vote-and-hold.md)
 _Context: Accession of Montenegro to NATO, Montenegro, NATO, Parliament of Montenegro, membership_
 
