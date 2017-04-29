@@ -3,6 +3,9 @@
 ### [The U.S. Pacific Command and South Korean defense officials report that a North Korean missile was fired in the early morning, but quickly failed and did not travel beyond North Korea, echoing a similar failed attempt by North Korea thirteen days ago. ](/news/2017/04/29/the-u-s-pacific-command-and-south-korean-defense-officials-report-that-a-north-korean-missile-was-fired-in-the-early-morning-but-quickly-f.md)
 The missile exploded shortly after launch, but Kim&rsquo;s ambitions are clear.
 
+### ['''University of Puerto Rico strikes'''Strikes continue in the University of Puerto Rico because of university budget cuts from the Puerto Rico Oversight Board (PROMESA).](/news/2017/04/29/university-of-puerto-rico-strikes-pstrikes-continue-in-the-university-of-puerto-rico-because-of-university-budget-cuts-from-the-puerto.md)
+_Context: Puerto Rico Oversight Board (PROMESA), Strikes, University of Puerto Rico_
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
@@ -17,13 +20,13 @@ _Context: Mindanao, Philippines, earthquake, tsunami_
 ### [Sergeant Alexander Blackman, also known as Marine A, a Royal Marine who shot dead a wounded Taliban insurgent in 2011 during Operation Herrick, is released from HM Prison Erlestoke after serving more than three years of a seven-year sentence. ](/news/2017/04/28/sergeant-alexander-blackman-also-known-as-marine-a-a-royal-marine-who-shot-dead-a-wounded-taliban-insurgent-in-2011-during-operation-herri.md)
 Sgt Alexander Blackman is released after his conviction for murder was reduced to manslaughter.
 
-### [The Parliament of Montenegro votes 46-0 to ratify Montenegro's membership of NATO, while opposition politicians boycott the vote and hold protests. ](/news/2017/04/28/the-parliament-of-montenegro-votes-46-0-to-ratify-montenegro-s-membership-of-nato-while-opposition-politicians-boycott-the-vote-and-hold-pr.md)
-Montenegro’s parliament has formally agreed for the country to join NATO – the military bloc that pounded the tiny Balkan country with bombs less than 20 years ago during the Kosovo War. The decision sparked protest among the population and opposition figures. 
+### [The Parliament of Montenegro votes 46-0 to ratify Montenegro's membership of NATO, while opposition politicians boycott the vote and hold protests. ](/news/2017/04/28/the-parliament-of-montenegro-votes-46a0-to-ratify-montenegro-s-membership-of-nato-while-opposition-politicians-boycott-the-vote-and-hold.md)
+_Context: Accession of Montenegro to NATO, Montenegro, NATO, Parliament of Montenegro, membership_
 
 ### [The first six-man televised debate is held, which focused mostly on social issues. ](/news/2017/04/28/the-first-six-man-televised-debate-is-held-which-focused-mostly-on-social-issues.md)
 Iran state TV broadcasts live the first debate among the six candidates of the 12th presidential election.
 
-### [Jean-Franois Jalkh, who replaced current presidential finalist Marine Le Pen as leader of the National Front, steps down from this role after three days following the reemergence of his comments questioning the logistics of Holocaust extermination camps, and is replaced by Steeve Briois. ](/news/2017/04/28/jean-francois-jalkh-who-replaced-current-presidential-finalist-marine-le-pen-as-leader-of-the-national-front-steps-down-from-this-role-aft.md)
+### [Jean-Francois Jalkh, who replaced current presidential finalist Marine Le Pen as leader of the National Front, steps down from this role after three days following the reemergence of his comments questioning the logistics of Holocaust extermination camps, and is replaced by Steeve Briois. ](/news/2017/04/28/jean-franassois-jalkh-who-replaced-current-presidential-finalist-marine-le-pen-as-leader-of-the-national-front-steps-down-from-this-role-af.md)
 Her party’s top official was forced to step aside after he was cited questioning the Holocaust.
 
 ---
