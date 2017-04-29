@@ -9,6 +9,9 @@ _Context: Kyrgyzstan, landslide_
 ### [Monitoring group Turkey Blocks reports that a provisional administrative order blocks access to all language editions of Wikipedia in Turkey. ](/news/2017/04/29/monitoring-group-turkey-blocks-reports-that-a-provisional-administrative-order-blocks-access-to-all-language-editions-of-wikipedia-in-turkey.md)
 The internet monitoring group Turkey Blocks says all language editions of the online encyclopedia Wikipedia were blocked in Turkey on Saturday.
 
+### [Thousands of people protest in Washington, D.C. to bring awareness to climate change. ](/news/2017/04/29/thousands-of-people-protest-in-washington-d-c-to-bring-awareness-to-climate-change.md)
+_Context: People's Climate March, Washington, D.C., climate change_
+
 ### [Strikes continue in the University of Puerto Rico because of university budget cuts from the Puerto Rico Oversight Board (PROMESA). ](/news/2017/04/29/strikes-continue-in-the-university-of-puerto-rico-because-of-university-budget-cuts-from-the-puerto-rico-oversight-board-promesa.md)
 _Context: Puerto Rico Oversight Board (PROMESA), University of Puerto Rico, University of Puerto Rico strikes, 2017_
 
