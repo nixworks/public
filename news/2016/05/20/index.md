@@ -37,7 +37,7 @@ _Context: Afghan Armed Forces, Afghanistan, Belgium, Brussels, NATO, NATO headqu
 _Context: Barack Obama, Efforts to impeach Barack Obama, Oklahoma Legislature, U.S. Congress_
 
 ### [The Mexican government approves the extradition of drug boss Joaquin Guzman to the United States following assurances that he will not face the death penalty. ](/news/2016/05/20/the-mexican-government-approves-the-extradition-of-drug-boss-joaquan-guzma-n-to-the-united-states-following-assurances-that-he-will-not-fac.md)
-_Context: Joaquín "El Chapo" Guzmán, Mexican government, U.S., death penalty_
+_Context: Joaquín "El Chapo" Guzmán, Mexican government, United States, death penalty_
 
 ### [A United States Secret Service officer shoots an armed man on a street near the White House after the man allegedly approached the officer and refused to drop his weapon. The White House is locked down. ](/news/2016/05/20/a-united-states-secret-service-officer-shoots-an-armed-man-on-a-street-near-the-white-house-after-the-man-allegedly-approached-the-officer-a.md)
 _Context: United States Secret Service, White House_

@@ -61,7 +61,7 @@ _Context: 2007, 2009, Melbourne Storm, National Rugby League, salary cap_
  The Killers and Patti Smith have been given top awards by The American Society of Composers, Authors and Publishers (ASCAP) for their contribution to pop music in the US. 
 
 ### [An episode of the American television series ''South Park'' is censored after a threat of fatwa from a New York-based group over the depiction of Muhammad in a bear costume. ](/news/2010/04/22/an-episode-of-the-american-television-series-south-park-is-censored-after-a-threat-of-fatwa-from-a-new-york-based-group-over-the-depict.md)
-_Context: Muhammad, New York's, South Park, fatwā_
+_Context: Muhammad, New York's, South Park, fatwa_
 
 ### [The St. Louis Rams select Sam Bradford with the first pick of the 2010 NFL Draft ](/news/2010/04/22/the-st-louis-rams-select-sam-bradford-with-the-first-pick-of-the-2010-nfl-draft.md)
 Get the latest NFL news, video updates, scores, schedules, standings and more on Sporting News.

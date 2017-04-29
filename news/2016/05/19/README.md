@@ -31,7 +31,7 @@ _Context: U.S. Supreme Court, constitutional, opinion, speedy trial_
 San Francisco&#39;s police chief has resigned at the request of the mayor hours after an officer fatally shot a young black woman who was reportedly driving a stolen car and amid other racial issues.
 
 ### [Montenegro and NATO sign an accession agreement, paving the way for the country's future entry into the military alliance. All of NATO's members must now ratify the agreement, with Prime Minister Milo Dukanovic expecting Montenegro to join by mid 2017. ](/news/2016/05/19/montenegro-and-nato-sign-an-accession-agreement-paving-the-way-for-the-country-s-future-entry-into-the-military-alliance-all-of-nato-s-mem.md)
-_Context: Accession of Montenegro to NATO, Milo Đukanović, Montenegro, NATO, Prime Minister, member states_
+_Context: Accession of Montenegro to NATO, Milo Đukanović, Montenegro, NATO, Prime Minister, membership_
 
 ### [Decommunization in Ukraine:Ukraine's Parliament, the ''Verkhovna Rada'', decides that the country's third largest city, Dnipropetrovsk, be renamed Dnipro as part of the decommunization drive. ](/news/2016/05/19/decommunization-in-ukraine-pukraine-s-parliament-the-verkhovna-rada-decides-that-the-country-s-third-largest-city-dnipropetrovsk-be.md)
 _Context: Dnipro, Dnipropetrovsk, Ukrainian, Verkhovna Rada, decommunization_

@@ -31,7 +31,7 @@ _Context: Dominican Republic-Central America Free Trade Agreement, George W. Bus
 _Context: Asia Pacific Partnership on Clean Development and Climate_
 
 ### [ In the US, number of American-Muslim scholars announce a fatwa that condemns terrorism and religious extremism ](/news/2005/07/28/in-the-us-number-of-american-muslim-scholars-announce-a-fatwa-that-condemns-terrorism-and-religious-extremism.md)
-_Context: fatwā, religious extremism, terrorism_
+_Context: fatwa, religious extremism, terrorism_
 
 ### [ In Serbia, Ljiljana Zelen-Karadzic, wife of Radovan Karadzic, goes public to ask her husband to give himself up ](/news/2005/07/28/in-serbia-ljiljana-zelen-karada3-4ia-wife-of-radovan-karada3-4ia-goes-public-to-ask-her-husband-to-give-himself-up.md)
 _Context: Radovan Karadžić, Serbia_

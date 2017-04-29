@@ -4,7 +4,7 @@
 _Context: Benedict XVI, Israel, Palestinian, Pope, Vatican, ambassador_
 
 ### [ Bilateral negotiations have resumed between the US and North Korea. [http://news.bbc.co.uk/2/hi/asia-pacific/4716307.stm (BBC)].](/news/2005/07/25/bilateral-negotiations-have-resumed-between-the-us-and-north-korea-http-news-bbc-co-uk-2-hi-asia-pacific-4716307-stm-bbc.md)
-_Context: Bilateral negotiations, North Korea, U.S._
+_Context: Bilateral negotiations, North Korea, United States_
 
 ### [ The Service Employees International Union and the Teamsters, the two largest unions in the AFL-CIO, announce their intentions to leave the labor federation, underscoring a major schism within the U.S. labour movement. ](/news/2005/07/25/the-service-employees-international-union-and-the-teamsters-the-two-largest-unions-in-the-afl-cio-announce-their-intentions-to-leave-the.md)
 _Context: AFL-CIO, Service Employees International Union, Teamsters, labour movement_
@@ -40,7 +40,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Idrissa Seck, Senegal_
 
 ### [ In Sri Lanka, investigators that investigate alleged misappropriation of funds of tsunami relief after 2004 Indian Ocean earthquake,  state that they have not found any evidence of wrongdoing. Opposition United National Party claims that prime minister Mahinda Rajapaksa had siphoned off 83 million rupees to his own constituency ](/news/2005/07/25/in-sri-lanka-investigators-that-investigate-alleged-misappropriation-of-funds-of-tsunami-relief-after-2004-indian-ocean-earthquake-state.md)
-_Context: 2004 Indian Ocean earthquake, Mahinda Rajapaksa, Sri Lanka, Tsunami, United National Party, rupees_
+_Context: 2004 Indian Ocean earthquake, Mahinda Rajapaksa, Sri Lanka, United National Party, rupees, tsunami_
 
 ### [ In Brazil, Paulo Henrique Machado, priest who led the support group of victims of the Nova Iguacu massacre, is shot to death in Rio de Janeiro  ](/news/2005/07/25/in-brazil-paulo-henrique-machado-priest-who-led-the-support-group-of-victims-of-the-nova-iguacu-massacre-is-shot-to-death-in-rio-de-jane.md)
 _Context: Nova Iguacu massacre, Paulo Henrique Machado, Rio de Janeiro_

@@ -22,7 +22,7 @@ _Context: Pilbara, Severe Tropical Cyclone Lua, Western Australia_
 _Context: Bangladesh, a ferry_
 
 ### [A magnitude 6.8 earthquake occurs off the coast of Japan causing a small tsunami that hits the coast of Aomori prefecture on the island of Hokkaido. ](/news/2012/03/14/a-magnitude-6-8-earthquake-occurs-off-the-coast-of-japan-causing-a-small-tsunami-that-hits-the-coast-of-aomori-prefecture-on-the-island-of-h.md)
-_Context: Aomori prefecture, Hokkaido, Japan, Tsunami, earthquake_
+_Context: Aomori prefecture, Hokkaido, Japan, earthquake, tsunami_
 
 ### [The Belgian parents of children killed in a bus crash yesterday travel to Switzerland to identify the bodies. ](/news/2012/03/14/the-belgian-parents-of-children-killed-in-a-bus-crash-yesterday-travel-to-switzerland-to-identify-the-bodies.md)
 Distraught parents flew to Switzerland on Wednesday after a bus carrying a Belgian school group home from a ski trip crashed into the wall of a Swiss tunnel, killing 22 children and six others.

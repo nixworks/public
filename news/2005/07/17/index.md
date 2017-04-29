@@ -34,7 +34,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Labour and Social Justice Party, The Party of the Left._
 
 ### [ In The United Kingdom, Britain's Sunni Council announces a fatwa against suicide bombings.  ](/news/2005/07/17/in-the-united-kingdom-britain-s-sunni-council-announces-a-fatwa-against-suicide-bombings.md)
-_Context: Sunni Council, fatwā, suicide bombing_
+_Context: Sunni Council, fatwa, suicide bombing_
 
 ### [ In Nigeria, Amaka Anajemba is sentenced for two years involvement with a money transfer scam worth $242 million. ](/news/2005/07/17/in-nigeria-amaka-anajemba-is-sentenced-for-two-years-involvement-with-a-money-transfer-scam-worth-242-million.md)
 _Context: Amaka Anajemba, Nigeria_

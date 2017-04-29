@@ -7,7 +7,7 @@ Ten election campaign workers have been killed in an air strike by Nato-led forc
 Twelve-year-old riding in car driving through Tapuach Junction suffers mild injuries after vehicle is stoned 
 
 ### [The Mexican Army claims to have killed 25 drug cartel gunmen in a clash in Tamaulipas state near the United States border. ](/news/2010/09/2/the-mexican-army-claims-to-have-killed-25-drug-cartel-gunmen-in-a-clash-in-tamaulipas-state-near-the-united-states-border.md)
-_Context: Mexican Army, Tamaulipas, U.S., drug cartel_
+_Context: Mexican Army, Tamaulipas, United States, drug cartel_
 
 ### [Permanent Representative of Pakistan to the United Nations Hussain Haroon calls for an inquiry after allegations emerge of Pakistani floodwaters being diverted into vulnerable villages in a bid to preserve crops. ](/news/2010/09/2/permanent-representative-of-pakistan-to-the-united-nations-hussain-haroon-calls-for-an-inquiry-after-allegations-emerge-of-pakistani-floodwa.md)
 A Pakistani diplomat calls for a probe into allegations that rich landowners diverted water into unprotected villages during the floods to save their own crops.
@@ -16,7 +16,7 @@ A Pakistani diplomat calls for a probe into allegations that rich landowners div
 _Context: Chinese, Fujian, Typhoon Chaba_
 
 ### [A tropical storm warning is issued for the coast of Long Island in New York as Hurricane Earl approaches the east coast of the United States. ](/news/2010/09/2/a-tropical-storm-warning-is-issued-for-the-coast-of-long-island-in-new-york-as-hurricane-earl-approaches-the-east-coast-of-the-united-states.md)
-_Context: Hurricane Earl, Hurricane Earl, Long Island, New York, U.S., tropical storm_
+_Context: Hurricane Earl, Hurricane Earl, Long Island, New York, United States, tropical storm_
 
 ### [An oil rig explodes in the Gulf of Mexico, west of the Deepwater Horizon oil rig that exploded in April, killing no people. ](/news/2010/09/2/an-oil-rig-explodes-in-the-gulf-of-mexico-west-of-the-deepwater-horizon-oil-rig-that-exploded-in-april-killing-no-people.md)
 _Context: Deepwater Horizon, Gulf of Mexico, oil rig explodes_

@@ -13,7 +13,7 @@ Health insurer UnitedHealth Group Inc (UNH.N) agreed to buy Catamaran Corp CTRX.
 _Context: Comedy Central, Jon Stewart, South Africa, The Daily Show, Trevor Noah_
 
 ### [A 7.7 magnitude earthquake off the coast of Papua New Guinea prompts a tsunami warning for Papua New Guinea and the Solomon Islands. ](/news/2015/03/30/a-7-7-magnitude-earthquake-off-the-coast-of-papua-new-guinea-prompts-a-tsunami-warning-for-papua-new-guinea-and-the-solomon-islands.md)
-_Context: Papua New Guinea, Solomon Islands, Tsunami_
+_Context: Papua New Guinea, Solomon Islands, tsunami_
 
 ### [A van crash on U.S. Route 27 in Florida near the town of Moore Haven results in 8 deaths and 10 injuries. ](/news/2015/03/30/a-van-crash-on-u-s-route-27-in-florida-near-the-town-of-moore-haven-results-in-8-deaths-and-10-injuries.md)
 Eight people were killed and 10 injured when their van crashed in Florida, officials said Monday.

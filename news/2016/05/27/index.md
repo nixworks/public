@@ -28,7 +28,7 @@ In the majority opinion of the Iowa Supreme Court, even juveniles who commit the
 _Context: Iran_
 
 ### [The legal team of Joaquin Guzman (''El Chapo''), the leader of the Sinaloa Cartel, has challenged the foreign ministry of Mexico's decision to extradite him to the United States. ](/news/2016/05/27/the-legal-team-of-joaquan-guzma-n-el-chapo-the-leader-of-the-sinaloa-cartel-has-challenged-the-foreign-ministry-of-mexico-s-decisio.md)
-_Context: Joaquín "El Chapo" Guzmán, Sinaloa Cartel, U.S., foreign ministry of Mexico's_
+_Context: Joaquín "El Chapo" Guzmán, Sinaloa Cartel, United States, foreign ministry of Mexico's_
 
 ### [Rodrigo Duterte is officially elected as President and Leni Robredo as Vice President. ](/news/2016/05/27/rodrigo-duterte-is-officially-elected-as-president-and-leni-robredo-as-vice-president.md)
 Controversial mayor, known as The Punisher, gets more than 16 million votes after campaign pledge to kill criminals.

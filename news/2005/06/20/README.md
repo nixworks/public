@@ -19,7 +19,7 @@ _Context: Iraq, Iraqi Police, Irbil, suicide bomber_
 _Context: Al-Aqsa Martyrs' Brigades, Gaza Strip, Islamic Jihad Movement in Palestine, Israeli-Palestinian conflict, Palestinian, Palestinian, West Bank, female suicide bombing, hospital, suicide bombing_
 
 ### [ In Japan, magnitude 4.9 earthquake hits central Niigata Prefecture, with little reported damage and no tsunami risk ](/news/2005/06/20/in-japan-magnitude-4-9-earthquake-hits-central-niigata-prefecture-with-little-reported-damage-and-no-tsunami-risk.md)
-_Context: Niigata, Tsunami, earthquake_
+_Context: Niigata, earthquake, tsunami_
 
 ### [ International Whaling Commission meets in Ulsan, South Korea. Japan tries to ease its restrictions to whaling but its suggestion to exclude proposed creation of whale sanctuaries is voted down ](/news/2005/06/20/international-whaling-commission-meets-in-ulsan-south-korea-japan-tries-to-ease-its-restrictions-to-whaling-but-its-suggestion-to-exclude.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

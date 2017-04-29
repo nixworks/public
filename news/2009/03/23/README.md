@@ -10,10 +10,10 @@ _Context: Iraq, suicide bomb attack_
 _Context: Alaska, Mount Redoubt, volcanic activity_
 
 ### [ The United States Treasury Department announces that it will purchase high-yield debts from banks. ](/news/2009/03/23/the-united-states-treasury-department-announces-that-it-will-purchase-high-yield-debts-from-banks.md)
-_Context: 4th quarter of 2007 and the second quarter of 2009, U.S., United States Department of the Treasury, banks, junk_
+_Context: 4th quarter of 2007 and the second quarter of 2009, United States, United States Department of the Treasury, banks, junk_
 
 ### [ Gjorge Ivanov of the VMRO-DPMNE leads the first round of Macedonia's presidential election. ](/news/2009/03/23/gjorge-ivanov-of-the-vmroadpmne-leads-the-first-round-of-macedonia-s-presidential-election.md)
-_Context:  Macedonia, Gjorge Ivanov, VMRO–DPMNE, election, presidential, second round_
+_Context: Gjorge Ivanov, Macedonian, VMRO–DPMNE, election, presidential, second round_
 
 ### [ FedEx Express Flight 80 crashes at Narita International Airport in Tokyo, Japan, killing both pilots. ](/news/2009/03/23/fedex-express-flight-80-crashes-at-narita-international-airport-in-tokyo-japan-killing-both-pilots.md)
 Wind shear may have caused the crash of a FedEx jet that cartwheeled on the runway at Tokyo&#39;s main international airport and burst into a fireball, investigators said Monday, but experts noted that the model was notoriously difficult to land. 

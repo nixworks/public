@@ -13,7 +13,7 @@ _Context: Flash flooding, Nepal, Seti River_
 Officials seize thousands of smuggled capsules containing powdered flesh of fetuses from China thought to cure disease.
 
 ### [Clerics in Malaysia issue a fatwa against Muslims participating in "unproductive demonstrations". ](/news/2012/05/7/clerics-in-malaysia-issue-a-fatwa-against-muslims-participating-in-unproductive-demonstrations.md)
-_Context: Malaysia, Muslim, fatwā_
+_Context: Malaysia, Muslim, fatwa_
 
 ### [The CIA announces it had foiled a plot by Fahd al-Quso, a Yemeni affiliate of al-Qaida, to have a suicide bomber, using an improved version of the underwear bomb used by Umar Farouk Abdulmutallab in 2009, to blow up an American-bound airliner; no lives were ever at risk. ](/news/2012/05/7/the-cia-announces-it-had-foiled-a-plot-by-fahd-al-quso-a-yemeni-affiliate-of-al-qaida-to-have-a-suicide-bomber-using-an-improved-version.md)
 _Context: Al Qaida's, CIA, Fahd al-Quso, Umar Farouk Abdulmutallab_

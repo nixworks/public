@@ -35,7 +35,7 @@ _Context: Andover, Hampshire, United Kingdom, Weyhill_
 _Context: Sienna, Toyota_
 
 ### [The Former Yugoslav Republic of Macedonia buys 202 double decker buses from China's Zhengzhou Yutong Group for EUR35 million in the first cooperation between the two countries. ](/news/2010/04/17/the-former-yugoslav-republic-of-macedonia-buys-202-double-decker-buses-from-china-s-zhengzhou-yutong-group-for-a-35-million-in-the-first-co.md)
-_Context:  Macedonia, Zhengzhou Yutong Group_
+_Context: Macedonian, Zhengzhou Yutong Group_
 
 ## [Previous Day...](/news/2010/04/16/index.md)
 

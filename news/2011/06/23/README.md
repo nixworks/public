@@ -7,7 +7,7 @@ Syrian troops massed onthe Turkish border overnight, witnesses said on Thursday,
 _Context: 2010–2011 Senegal protests, Dakar, riot police, rubber bullet, tear gas_
 
 ### [France announces plans to withdraw troops from Afghanistan in a similar timeframe to that announced for United States forces by President Barack Obama yesterday. ](/news/2011/06/23/france-announces-plans-to-withdraw-troops-from-afghanistan-in-a-similar-timeframe-to-that-announced-for-united-states-forces-by-president-ba.md)
-_Context: Afghanistan, Barack Obama, France, U.S., U.S. President_
+_Context: Afghanistan, Barack Obama, France, U.S. President, United States_
 
 ### [After Hamas rejects a call from the International Red Cross for access to  Israeli soldier Gilad Shalit, held incommunicado since he was captured nearly five years ago, Israeli Prime Minister Benjamin Netanyahu says Israel will reduce Palestinian prisoners' privileges in response. ](/news/2011/06/23/after-hamas-rejects-a-call-from-the-international-red-cross-for-access-to-israeli-soldier-gilad-shalit-held-incommunicado-since-he-was-cap.md)
 Noam Schalit asks why it took Israeli governments five years to make move; Hamas rejects Red Cross call for sign of life.
@@ -43,7 +43,7 @@ _Context: 2011 Pacific typhoon season, China's, Guangdong province, tropical sto
 U.S. nuclear regulators say two Nebraska nuclear power plants have protected critical equipment from the rising waters of the Missouri River even though flooding has reached the grounds of one of them.
 
 ### [A 7.3 magnitude earthquake offshore from the US northern state of Alaska leads to a tsunami warning being issued but it is later cancelled. ](/news/2011/06/23/a-7-3-magnitude-earthquake-offshore-from-the-us-northern-state-of-alaska-leads-to-a-tsunami-warning-being-issued-but-it-is-later-cancelled.md)
-_Context: Alaska, Tsunami, earthquake_
+_Context: Alaska, earthquake, tsunami_
 
 ### [2011 China floods: An 'unprecedented' flash flood hits Beijing, leaving streets and many areas including Tiananmen Square and the Beijing Subway system underwater. ](/news/2011/06/23/2011-china-floods-an-unprecedented-flash-flood-hits-beijing-leaving-streets-and-many-areas-including-tiananmen-square-and-the-beijing-su.md)
 _Context: Beijing, Beijing Subway, Flash flooding, Tiananmen Square, heavy flood_

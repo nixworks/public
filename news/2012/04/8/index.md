@@ -4,7 +4,7 @@
 _Context: 2011–2012 Syrian uprising, Kofi Annan, Syria, military_
 
 ### [Afghanistan and the United States reach an agreement giving the Government of Afghanistan more control over night raids. ](/news/2012/04/8/afghanistan-and-the-united-states-reach-an-agreement-giving-the-government-of-afghanistan-more-control-over-night-raids.md)
-_Context: Afghan government, Afghanistan, U.S._
+_Context: Afghan government, Afghanistan, United States_
 
 ### [A car bomb explodes in the Nigerian city of Kaduna killing dozens of people. ](/news/2012/04/8/a-car-bomb-explodes-in-the-nigerian-city-of-kaduna-killing-dozens-of-people.md)
 _Context: Kaduna, Nigeria, car bomb_

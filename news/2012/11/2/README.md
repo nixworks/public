@@ -4,7 +4,7 @@
 Dozens of young men have been shot dead in Nigeria by the military in Maiduguri, residents in the north-eastern city tell the BBC.
 
 ### [The film ''Facing Mirrors'' hits cinemas in Tehran. Though transsexualism has been legal in Iran since a fatwa was issued in 1987 by Ayatollah Ruhollah Khomeini and Iran permits more sex-change operations than any country except Thailand, this is the first time the subject has been treated on the big screen. ](/news/2012/11/2/the-film-facing-mirrors-hits-cinemas-in-tehran-though-transsexualism-has-been-legal-in-iran-since-a-fatwa-was-issued-in-1987-by-ayatol.md)
-_Context: Facing Mirrors, Iran, Ruhollah Khomeini, Tehran, fatwā, transsexual_
+_Context: Facing Mirrors, Iran, Ruhollah Khomeini, Tehran, fatwa, transsexual_
 
 ### [Sir Nicholas Hytner, Sir Nicholas Serota, Julian Lloyd Webber, Richard Rogers, Sir David Hare and Grayson Perry are among the cultural figures to criticise the "incredibly shortsighted" policy of excluding creative subjects from the core qualification at 16. ](/news/2012/11/2/sir-nicholas-hytner-sir-nicholas-serota-julian-lloyd-webber-richard-rogers-sir-david-hare-and-grayson-perry-are-among-the-cultural-figur.md)
 _Context: Grayson Perry, Julian Lloyd Webber, Nicholas Serota, Richard Rogers, Sir David Hare, Sir Nicholas Hytner_

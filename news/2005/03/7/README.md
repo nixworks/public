@@ -4,7 +4,7 @@
 _Context: Iraq, Prisoner abuse in Iraq, Ramadi_
 
 ### [ Former US President George H. W. Bush has praised his successor Bill Clinton after Clinton allowed Bush to sleep on the only Bed in the airplane the pair were using on their tour of tsunami-hit areas. ](/news/2005/03/7/former-us-president-george-h-w-bush-has-praised-his-successor-bill-clinton-after-clinton-allowed-bush-to-sleep-on-the-only-bed-in-the-air.md)
-_Context: Bill Clinton, George H. W. Bush, Tsunami_
+_Context: Bill Clinton, George H. W. Bush, tsunami_
 
 ### [ John R. Bolton is nominated by President George W. Bush to become the U.S. Ambassador to the United Nations. [http://www.cnn.com/2005/US/03/07/bolton/index.html (CNN)] [http://www.foxnews.com/story/0,2933,149633,00.html (Fox News)].](/news/2005/03/7/john-r-bolton-is-nominated-by-president-george-w-bush-to-become-the-u-s-ambassador-to-the-united-nations-http-www-cnn-com-2005-us-03.md)
 _Context: George W. Bush, John R. Bolton, U.S. ambassador to the United Nations_

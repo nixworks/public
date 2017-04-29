@@ -25,7 +25,7 @@ Refugees who travelled to Australia by boat could be permanently resettled in th
 _Context: 2015 Nobel Peace Prize, Jasmine Revolution of 2011, Tunisia, Tunisian Confederation of Industry, Trade and Handicrafts, Tunisian General Labour Union, Tunisian Human Rights League, Tunisian National Dialogue Quartet, Tunisian Order of Lawyers_
 
 ### [China says it will "not stand for violations of its territorial waters in the name of freedom of navigation", following a statement from a Pentagon official, that the U.S. may consider sailing warships close to China's disputed artificial islands in the South China Sea within the next two weeks. ](/news/2015/10/9/china-says-it-will-not-stand-for-violations-of-its-territorial-waters-in-the-name-of-freedom-of-navigation-following-a-statement-from-a-p.md)
-_Context: China, Pentagon, South China Sea, U.S., disputed, freedom of navigation_
+_Context: China, Pentagon, South China Sea, United States, disputed, freedom of navigation_
 
 ### [School shootingsOne student is killed  and three others wounded during an early morning shooting in a Northern Arizona University dorm in Flagstaff, Arizona. The suspected shooter was taken into custody. ](/news/2015/10/9/school-shootingspone-student-is-killed-and-three-others-wounded-during-an-early-morning-shooting-in-a-northern-arizona-university-dorm-in-f.md)
 NAU Police Chief G.T. Fowler says the shooting stems from a conflict that developed between two groups of students, saying that one of the students &quot;produced a handgun&quot; and opened fire.

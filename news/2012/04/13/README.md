@@ -1,7 +1,7 @@
 ## [2012-04-13](/news/2012/04/13/index.md)
 
 ### [Five people are killed near Skopje, the capital of the Republic of Macedonia, amid simmering ethnic tensions in the country. ](/news/2012/04/13/five-people-are-killed-near-skopje-the-capital-of-the-republic-of-macedonia-amid-simmering-ethnic-tensions-in-the-country.md)
-_Context:  Macedonia, Skopje, ethnic tensions in the country_
+_Context: Macedonian, Skopje, ethnic tensions in the country_
 
 ### [A draft United Nations Security Council resolution outlines plans to send observers to Syria to monitor compliance with a new peace plan, as several people are reportedly shot dead after Friday prayers. ](/news/2012/04/13/a-draft-united-nations-security-council-resolution-outlines-plans-to-send-observers-to-syria-to-monitor-compliance-with-a-new-peace-plan-as.md)
 The UN hopes to send observers to Syria within the next few days to monitor a fragile ceasefire, as Syrians stage protests after Friday prayers.

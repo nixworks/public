@@ -28,7 +28,7 @@ Oracle Corp is seeking damages &quot;in the billions of dollars&quot; from Googl
 _Context: 2011 Puyehue eruption, Argentina, Australian, New Zealand, Qantas, Virgin Australia_
 
 ### [A strong earthquake of 6.6 magnitude occurs off the coast of New Britain in Papua New Guinea but no tsunami warning is issued. ](/news/2011/06/16/a-strong-earthquake-of-6-6-magnitude-occurs-off-the-coast-of-new-britain-in-papua-new-guinea-but-no-tsunami-warning-is-issued.md)
-_Context: New Britain, Papua New Guinea, Tsunami, earthquake_
+_Context: New Britain, Papua New Guinea, earthquake, tsunami_
 
 ### [Traces of dioxin are found in stream waters near the United States Army base Camp Carroll in South Korea where drums of Agent Orange were allegedly dumped three decades ago. ](/news/2011/06/16/traces-of-dioxin-are-found-in-stream-waters-near-the-united-states-army-base-camp-carroll-in-south-korea-where-drums-of-agent-orange-were-al.md)
 _Context: Agent Orange, Camp Carroll, South Korea, United States Army, dioxin_

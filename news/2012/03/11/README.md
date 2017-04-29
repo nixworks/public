@@ -4,7 +4,7 @@
 A US soldier in Afghanistan shoots dead 16 civilians and wounds others after entering their homes in Kandahar province, Afghan and Nato officials say.
 
 ### [Inter-ethnic violence is reported in the Macedonian cities of Skopje and Tetovo overnight. ](/news/2012/03/11/inter-ethnic-violence-is-reported-in-the-macedonian-cities-of-skopje-and-tetovo-overnight.md)
-_Context:  Macedonia, Skopje, Tetovo, ethnic tensions in the country_
+_Context: Macedonian, Skopje, Tetovo, ethnic tensions in the country_
 
 ### [Slovakia's Krsna Hrka castle is heavily damaged in a fire. ](/news/2012/03/11/slovakia-s-krasna-horka-castle-is-heavily-damaged-in-a-fire.md)
 A massive fire has swept through one of the best-preserved castles in Slovakia, destroying much of the historic building.

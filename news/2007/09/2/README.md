@@ -61,7 +61,7 @@ _Context: Copenhagen, Nørrebro, Ungdomshuset, riot police_
 BARED, Lebanon (Reuters) - Lebanese troops on Sunday seized control of a Palestinian refugee camp where they had been battling militants for more than three months, killing at least 31 fleeing fighters, security sources said.
 
 ### [ An earthquake with a magnitude of 6.9 strikes in the Pacific Ocean south of Lata, Santa Cruz Islands in the Solomon Islands with a tsunami warning being issued. ](/news/2007/09/2/an-earthquake-with-a-magnitude-of-6-9-strikes-in-the-pacific-ocean-south-of-lata-santa-cruz-islands-in-the-solomon-islands-with-a-tsunami.md)
-_Context: Lata, Santa Cruz Islands, Solomon Islands, Tsunami, earthquake_
+_Context: Lata, Santa Cruz Islands, Solomon Islands, earthquake, tsunami_
 
 ### [ 2007 South Korean hostage crisis in Afghanistan: The 19 freed hostages return to South Korea. ](/news/2007/09/2/2007-south-korean-hostage-crisis-in-afghanistan-the-19-freed-hostages-return-to-south-korea.md)
 Nineteen South Korean Christian volunteers held hostage by the Taliban in Afghanistan for six weeks returned home to an uncomfortable welcome on Sunday, thanking their government for saving them from death.

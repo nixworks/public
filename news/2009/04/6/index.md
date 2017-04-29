@@ -16,7 +16,7 @@ _Context: 2009 L'Aquila earthquake, Italian, L'Aquila, magnitude_
 _Context: Afghan government's, Afghanistan, Sharia, men to rape their wives_
 
 ### [ Gjorge Ivanov of VMRO-DPMNE wins Macedonia's presidential election.  ](/news/2009/04/6/gjorge-ivanov-of-vmroadpmne-wins-macedonia-s-presidential-election.md)
-_Context:  Macedonia, Gjorge Ivanov, VMRO–DPMNE, election, presidential_
+_Context: Gjorge Ivanov, Macedonian, VMRO–DPMNE, election, presidential_
 
 ### [ Somali pirates hijack five ships from the United Kingdom, Taiwan, Germany, France, and Yemen. ](/news/2009/04/6/somali-pirates-hijack-five-ships-from-the-united-kingdom-taiwan-germany-france-and-yemen.md)
 _Context: France, Germany, Somali pirates, Somalia, Taiwan, United Kingdom, Yemen, ship_

@@ -31,7 +31,7 @@ _Context: Conflict in Iraq, Iraq_
 _Context: Bulgaria, European Union_
 
 ### [ Authorities in the Indian state of Madhya Pradesh investigate the attack of social worker Shakuntala Verma after she had investigated claims of illegal child marriages. One of her hands was severed and the other was badly wounded. ](/news/2005/05/11/authorities-in-the-indian-state-of-madhya-pradesh-investigate-the-attack-of-social-worker-shakuntala-verma-after-she-had-investigated-claim.md)
-_Context: Child marriage, India, Madhya Pradesh, Shakuntala Verma_
+_Context: India, Madhya Pradesh, Shakuntala Verma, child marriage_
 
 ### [ In Yemen, the number of cases in a polio outbreak rises to 63. ](/news/2005/05/11/in-yemen-the-number-of-cases-in-a-polio-outbreak-rises-to-63.md)
 Get the latest health&nbsp;news, diet &amp; fitness information, medical research, health care trends and health issues that affect you and your family on ABCNews.com

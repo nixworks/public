@@ -1,16 +1,7 @@
-## [News](/news/2017/04/28/index.md)
+## [News](/news/2017/04/29/index.md)
 
-### [A 6.8 earthquake strikes off the coast of Mindanao, Philippines triggering tsunami warnings. ](/news/2017/04/28/a-6-8-earthquake-strikes-off-the-coast-of-mindanao-philippines-triggering-tsunami-warnings.md)
-_Context: Mindanao, Philippines, earthquake, tsunami_
-
-### [Sergeant Alexander Blackman, also known as Marine A, a Royal Marine who shot dead a wounded Taliban insurgent in 2011 during Operation Herrick, is released from HM Prison Erlestoke after serving more than three years of a seven-year sentence. ](/news/2017/04/28/sergeant-alexander-blackman-also-known-as-marine-a-a-royal-marine-who-shot-dead-a-wounded-taliban-insurgent-in-2011-during-operation-herri.md)
-Sgt Alexander Blackman is released after his conviction for murder was reduced to manslaughter.
-
-### [The Parliament of Montenegro votes on whether to ratify Montenegro's membership of NATO. Ratification is likely due to governmental support, and the opposition Democratic Front announce they will hold mass protests. ](/news/2017/04/28/the-parliament-of-montenegro-votes-on-whether-to-ratify-montenegro-s-membership-of-nato-ratification-is-likely-due-to-governmental-support.md)
-_Context: Accession of Montenegro to NATO, Democratic Front, Montenegro, NATO, Parliament of Montenegro, membership_
-
-### [The first six-man televised debate is held, which focused mostly on social issues. ](/news/2017/04/28/the-first-six-man-televised-debate-is-held-which-focused-mostly-on-social-issues.md)
-Iran state TV broadcasts live the first debate among the six candidates of the 12th presidential election.
+### [The U.S. Pacific Command and South Korean defense officials report that a North Korean missile was fired in the early morning, but quickly failed and did not travel beyond North Korea, echoing a similar failed attempt by North Korea thirteen days ago. ](/news/2017/04/29/the-u-s-pacific-command-and-south-korean-defense-officials-report-that-a-north-korean-missile-was-fired-in-the-early-morning-but-quickly-f.md)
+The missile exploded shortly after launch, but Kim&rsquo;s ambitions are clear.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -18,7 +9,26 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ---
 
-## [Yesterday](/news/2017/04/27/index.md)
+## [Yesterday](/news/2017/04/28/index.md)
+
+### [A 6.8 earthquake strikes off the coast of Mindanao, Philippines triggering tsunami warnings. ](/news/2017/04/28/a-6-8-earthquake-strikes-off-the-coast-of-mindanao-philippines-triggering-tsunami-warnings.md)
+_Context: Mindanao, Philippines, earthquake, tsunami_
+
+### [Sergeant Alexander Blackman, also known as Marine A, a Royal Marine who shot dead a wounded Taliban insurgent in 2011 during Operation Herrick, is released from HM Prison Erlestoke after serving more than three years of a seven-year sentence. ](/news/2017/04/28/sergeant-alexander-blackman-also-known-as-marine-a-a-royal-marine-who-shot-dead-a-wounded-taliban-insurgent-in-2011-during-operation-herri.md)
+Sgt Alexander Blackman is released after his conviction for murder was reduced to manslaughter.
+
+### [The Parliament of Montenegro votes 46-0 to ratify Montenegro's membership of NATO, while opposition politicians boycott the vote and hold protests. ](/news/2017/04/28/the-parliament-of-montenegro-votes-46-0-to-ratify-montenegro-s-membership-of-nato-while-opposition-politicians-boycott-the-vote-and-hold-pr.md)
+Montenegro’s parliament has formally agreed for the country to join NATO – the military bloc that pounded the tiny Balkan country with bombs less than 20 years ago during the Kosovo War. The decision sparked protest among the population and opposition figures. 
+
+### [The first six-man televised debate is held, which focused mostly on social issues. ](/news/2017/04/28/the-first-six-man-televised-debate-is-held-which-focused-mostly-on-social-issues.md)
+Iran state TV broadcasts live the first debate among the six candidates of the 12th presidential election.
+
+### [Jean-Franois Jalkh, who replaced current presidential finalist Marine Le Pen as leader of the National Front, steps down from this role after three days following the reemergence of his comments questioning the logistics of Holocaust extermination camps, and is replaced by Steeve Briois. ](/news/2017/04/28/jean-francois-jalkh-who-replaced-current-presidential-finalist-marine-le-pen-as-leader-of-the-national-front-steps-down-from-this-role-aft.md)
+Her party’s top official was forced to step aside after he was cited questioning the Holocaust.
+
+---
+
+## [Day Before Yesterday](/news/2017/04/27/index.md)
 
 ### [The Syrian Observatory for Human Rights reports a large explosion near Damascus International Airport followed by a fire. The Syrian government says Israel struck the military site with several missiles. Israeli Intelligence Minister Yisrael Katz states that the strike "corresponds completely with Israel's policy". ](/news/2017/04/27/the-syrian-observatory-for-human-rights-reports-a-large-explosion-near-damascus-international-airport-followed-by-a-fire-the-syrian-governm.md)
 Unconfirmed reports say an Israeli strike targeted an arms supply hub operated by Hezbollah.
@@ -55,50 +65,7 @@ In a late night sitting, the lower house of parliament has approved a raft of se
 
 ---
 
-## [Day Before Yesterday](/news/2017/04/26/index.md)
-
-### [The pro-government Popular Mobilization Forces militia takes control of the mostly destroyed ancient city of Hatra in Iraq's Nineveh Governorate, following clashes with ISIL, who seized the ruins in 2014. ](/news/2017/04/26/the-pro-government-popular-mobilization-forces-militia-takes-control-of-the-mostly-destroyed-ancient-city-of-hatra-in-iraq-s-nineveh-governo.md)
-The scale of the damage done by IS militants to the site - featured in The Exorcist - is not clear.
-
-### [At least ten Iranian border guards are killed in an ambush in the southeastern Sistan and Baluchestan Province on the border with Pakistan. Sunni militant group Jaish ul-Adl claims responsibility. ](/news/2017/04/26/at-least-ten-iranian-border-guards-are-killed-in-an-ambush-in-the-southeastern-sistan-and-baluchestan-province-on-the-border-with-pakistan.md)
-Sunni militant group Jaish al-Adl claims responsibility for killing of guards in Sistan-Baluchestan province
-
-### [The United Nations MONUSCO reports that 20 Chowe-Pende community members have been killed in clashes with the Lulua-Luba community in Kasai-Central, Democratic Republic of Congo. ](/news/2017/04/26/the-united-nations-monusco-reports-that-20-chowe-pende-community-members-have-been-killed-in-clashes-with-the-lulua-luba-community-in-kasaa.md)
-Latest violence between Lulua-Luba and Chow-Pende communities extends eight months of bloodshed.
-
-### [American film director Jonathan Demme, winner of the Academy Award for Best Director for ''The Silence of the Lambs'', dies of complications from esophageal cancer. ](/news/2017/04/26/american-film-director-jonathan-demme-winner-of-the-academy-award-for-best-director-for-the-silence-of-the-lambs-dies-of-complications.md)
-_Context: Academy Award for Best Director, Jonathan Demme, The Silence of the Lambs, esophageal cancer_
-
-### [The United States deploys parts of its Terminal High Altitude Area Defense in South Korea amidst high tension caused by North Korea's escalation of its missile and nuclear weapons programs. ](/news/2017/04/26/the-united-states-deploys-parts-of-its-terminal-high-altitude-area-defense-in-south-korea-amidst-high-tension-caused-by-north-korea-s-escala.md)
-Thaad system being deployed despite protests from local residents and China, which says it threatens security balance
-
-### [The United States test launch a Minuteman III missile from California to the Marshall Islands. ](/news/2017/04/26/the-united-states-test-launch-a-minuteman-iii-missile-from-california-to-the-marshall-islands.md)
-An unarmed intercontinental ballistic missile was launched just after midnight Wednesday from Vandenberg Air Force Base as part of an operational test to show nuclear deterrent capability.
-
-### [Venezuela says it will withdraw from the Organization of American States after the organization decided to call a meeting without Venezuela. ](/news/2017/04/26/venezuela-says-it-will-withdraw-from-the-organization-of-american-states-after-the-organization-decided-to-call-a-meeting-without-venezuela.md)
-Venezuela said on Wednesday it was quitting the Organisation of American States in anger at pressure from the bloc over the government&#39;s handling of the country&#39;s political crisis.
-
-### [Police in Anchorage, Alaska, confirm that James Dale Ritchie, killed by an Anchorage police officer whom Ritchie had tried to kill in the fall of 2016, was a serial killer who had used the same gun to kill 5 people, apparently at random. Two of the murders were double homicides, with some of the deaths occurring along Anchorage's expansive Tony Knowles Coastal Trail. ](/news/2017/04/26/police-in-anchorage-alaska-confirm-that-james-dale-ritchie-killed-by-an-anchorage-police-officer-whom-ritchie-had-tried-to-kill-in-the-fa.md)
-Police in Anchorage say they&#039;ve determined that a single person was responsible for a wave of killings over the summer. Listen now
-
-### [David Hittner, U.S. District Court Judge for the Southern District of Texas, rules ExxonMobil Corporation should pay a $19.95 million penalty for pollution from its Baytown, Texas, refining and chemical plant complex for 16,386 days of violations and 10 million pounds (4.5 million kg) of pollutants that were released in violation of operating permits between 2005 and 2013. ](/news/2017/04/26/david-hittner-u-s-district-court-judge-for-the-southern-district-of-texas-rules-exxonmobil-corporation-should-pay-a-19-95-million-penalt.md)
-A federal judge ruled on Wednesday that ExxonMobil Corp should pay a $19.95 million penalty for pollution from its Baytown, Texas, refining and chemical plant complex between 2005 and 2013.
-
-### [Two political parties with federal representation in Australia merge as the Australian Conservatives absorbs the Family First Party. ](/news/2017/04/26/two-political-parties-with-federal-representation-in-australia-merge-as-the-australian-conservatives-absorbs-the-family-first-party.md)
-TONY Abbott has weighed in on Cory Bernardi’s recent expansion of his fledgling political party, after it merged with Family First.
-
-### [The Moroccan Assembly of Representatives votes 208 to 91 in favor of approving of a coalition cabinet led by Saadeddine Othmani. ](/news/2017/04/26/the-moroccan-assembly-of-representatives-votes-208-to-91-in-favor-of-approving-of-a-coalition-cabinet-led-by-saadeddine-othmani.md)
-_Context: Assembly of Representatives, Moroccan, Saadeddine Othmani, cabinet_
-
-### [A speculative study hypothesizes that a species of ''Homo'' may have lived in California 130,000 years ago. ](/news/2017/04/26/a-speculative-study-hypothesizes-that-a-species-of-homo-may-have-lived-in-california-130-000-years-ago.md)
-A new study has dropped a bombshell on archaeology, claiming signs of human activity in the Americas far earlier than thought.
-
-### [Results, published in ''The Lancet'' medical journal, of the WOMAN (World Maternal Antifibrinolytic) international study  that began in 2010,  finds  use of a cheap and widely available drug, tranexamic acid (Lysteda in the U.S. and Australia),  could save the lives of thousands of women who die in childbirth from excessive bleeding.  The medication is already in use for blood loss from major trauma, surgery, tooth removal, nose bleeds, and heavy menstruation. ](/news/2017/04/26/results-published-in-the-lancet-medical-journal-of-the-woman-world-maternal-antifibrinolytic-international-study-that-began-in-2010.md)
-Tranexamic acid could save the lives of a third of women who die in childbirth from excessive bleeding, which kills 100,000 a year
-
----
-
-## [Previous Day...](/news/2017/04/25/index.md)
+## [Previous Day...](/news/2017/04/26/index.md)
 
 ---
 

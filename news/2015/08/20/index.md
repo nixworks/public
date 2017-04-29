@@ -1,7 +1,7 @@
 ## [2015-08-20](/news/2015/08/20/index.md)
 
 ### [Macedonia declares a state of emergency and deploys police units on its borders as immigrants from the Middle East, mainly from Syria and Iraq, block the railway line between Thessaloniki and Skopje. ](/news/2015/08/20/macedonia-declares-a-state-of-emergency-and-deploys-police-units-on-its-borders-as-immigrants-from-the-middle-east-mainly-from-syria-and-ir.md)
-_Context:  Macedonia, Middle East, Skopje, Thessaloniki_
+_Context: Macedonian, Middle East, Skopje, Thessaloniki_
 
 ### [Large blasts occur in Cairo and Giza, Egypt, targeting the State Security agency and leaving six police officers injured. ](/news/2015/08/20/large-blasts-occur-in-cairo-and-giza-egypt-targeting-the-state-security-agency-and-leaving-six-police-officers-injured.md)
 “Reports: Blasts hit Cairo &amp; Giza in Egypt. Cairo explosion near State Security Building http://t.co/HsTzPcZXB8”

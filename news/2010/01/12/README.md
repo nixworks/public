@@ -7,7 +7,7 @@ _Context: Mozdok – Makhachkala – Kazi Magomed pipeline, Republic of Dagestan
 _Context: Baidu, China's, Iran_
 
 ### [Masoud Alimohammadi, an Iranian nuclear physics professor, is killed in a bomb attack in the capital Tehran; Iran state media accuses Israel and the United States of involvement. ](/news/2010/01/12/masoud-alimohammadi-an-iranian-nuclear-physics-professor-is-killed-in-a-bomb-attack-in-the-capital-tehran-iran-state-media-accuses-israel.md)
-_Context: Iran, Israel, Masoud Alimohammadi, Tehran, U.S._
+_Context: Iran, Israel, Masoud Alimohammadi, Tehran, United States_
 
 ### [Mexican Drug War:Mexican authorities report the capture of Teodoro Garcia Simental, one of the country's most notorious drug lords, in a raid in La Paz, Baja California Sur. ](/news/2010/01/12/mexican-drug-war-pmexican-authorities-report-the-capture-of-teodoro-garcaa-simental-one-of-the-country-s-most-notorious-drug-lords-in-a-r.md)
 _Context: La Paz, Baja California Sur, Mexican Drug War, Mexico, Teodoro García Simental_
@@ -22,7 +22,7 @@ _Context: Americas, Chinese, Matteo Ricci, Wanli Emperor, map_
 _Context: China's, Google, blocks mentions_
 
 ### [A severe 7.0 magnitude earthquake strikes Haiti. Tsunami watches issued across the Caribbean. ](/news/2010/01/12/a-severe-7-0-magnitude-earthquake-strikes-haiti-tsunami-watches-issued-across-the-caribbean.md)
-_Context: 2010 Haiti earthquake, Caribbean, Haiti, Tsunami_
+_Context: 2010 Haiti earthquake, Caribbean, Haiti, tsunami_
 
 ### [A United Nations investigation clears Guatemalan President Alvaro Colom in the murder of lawyer Rodrigo Rosenberg Marzano, and rules that Rosenberg plotted his own murder. ](/news/2010/01/12/a-united-nations-investigation-clears-guatemalan-president-alvaro-colom-in-the-murder-of-lawyer-rodrigo-rosenberg-marzano-and-rules-that-r.md)
 Lawyer who blamed Colom for his assassination arranged his own death, probe says.

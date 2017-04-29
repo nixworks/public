@@ -4,7 +4,7 @@
 _Context: His Majesty's Government, Home Office_
 
 ### [ Albania, Bulgaria, Bosnia and Herzegovina, Croatia, Moldova, Montenegro, Romania, Serbia, Republic of Macedonia, and Kosovo sign the Central European Free Trade Agreement extending the free trade zone to southeastern Europe. ](/news/2006/12/20/albania-bulgaria-bosnia-and-herzegovina-croatia-moldova-montenegro-romania-serbia-republic-of-macedonia-and-kosovo-sign-the-centra.md)
-_Context:  Macedonia, Albania, Bosnia and Herzegovina, Bulgaria, Central European Free Trade Agreement, Croatia, Kosovo, Moldova, Montenegro, Romania, Serbia, free trade zone_
+_Context: Albania, Bosnia and Herzegovina, Bulgaria, Central European Free Trade Agreement, Croatia, Kosovo, Macedonian, Moldova, Montenegro, Romania, Serbia, free trade zone_
 
 ### [ The Government of Kazakhstan is considering giving Kyrgyzstan USD $100 million in aid. ](/news/2006/12/20/the-government-of-kazakhstan-is-considering-giving-kyrgyzstan-usd-100-million-in-aid.md)
 _Context: $, Government of Kazakhstan, Kyrgyzstan_

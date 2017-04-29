@@ -13,7 +13,7 @@ _Context: Cambodia, Thailand_
 Microsoft has acknowledged that it incorporated open-source code into a Windows 7 download tool. As a result, it will make that tool&#39;s source code available to the community.
 
 ### [ American politician William J. Jefferson, former Democratic Party Congressman from the U.S. state of Louisiana, is sentenced to 13 years in prison for corruption. ](/news/2009/11/13/american-politician-william-j-jefferson-former-democratic-party-congressman-from-the-u-s-state-of-louisiana-is-sentenced-to-13-years-in.md)
-_Context: Democratic, Louisiana, U.S., U.S. Congress, William J. Jefferson, state_
+_Context: Democratic, Louisiana, U.S. Congress, United States, William J. Jefferson, state_
 
 ### [ NASA claims to have discovered water after the LCROSS satellite crashes near the South Pole of the Moon. ](/news/2009/11/13/nasa-claims-to-have-discovered-water-after-the-lcross-satellite-crashes-near-the-south-pole-of-the-moon.md)
 The discovery, which came out of a mission a month ago, confirmed scientists’ suspicions and could help explorers.
@@ -64,7 +64,7 @@ Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, c
 An Argentine judge has granted a homosexual couple permission to get married, setting a precedent that could pave the way for the Catholic country to become the first in Latin America to allow same-sex marriage.
 
 ### [ The United States opens its first marijuana cafe. ](/news/2009/11/13/the-united-states-opens-its-first-marijuana-cafe.md)
-_Context: U.S., marijuana_
+_Context: United States, marijuana_
 
 ## [Previous Day...](/news/2009/11/12/index.md)
 

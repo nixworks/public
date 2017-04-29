@@ -16,7 +16,7 @@ Current military leaders say they retain hold of key locations in Bamako after a
 South Sudan accused Sudan of launching a ground attack in an oil region of the newly independent state on Tuesday and said it was preparing to strike back, in rising tension that shows no sign of abating.
 
 ### [Up to 20 people are arrested amid the investigation about last month's massacre at Zelezarsko lake in the Republic of Macedonia. ](/news/2012/05/1/up-to-20-people-are-arrested-amid-the-investigation-about-last-month-s-massacre-at-a1-2elezarsko-lake-in-the-republic-of-macedonia.md)
-_Context:  Macedonia, massacre at Železarsko lake_
+_Context: Macedonian, massacre at Železarsko lake_
 
 ### [The Dow Jones Industrial Average reaches a four-year high due to strong manufacturing figures and company earnings. ](/news/2012/05/1/the-dow-jones-industrial-average-reaches-a-four-year-high-due-to-strong-manufacturing-figures-and-company-earnings.md)
 U.S. stocks rose solidly Tuesday as investors welcomed a rise in U.S. manufacturing activity and digested a mixed batch of corporate earnings

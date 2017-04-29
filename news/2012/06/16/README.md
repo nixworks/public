@@ -49,7 +49,7 @@ The U.S. Air Force&#039;s secretive X-37B space plane landed after completing it
 Uefa fines the Croatian Football Federation £65,000 after racist chanting was directed at Mario Balotelli during the Italy game.
 
 ### [Daredevil Nik Wallenda becomes the first person to walk a tightrope above the brink of Niagara Falls between the United States and Canada. ](/news/2012/06/16/daredevil-nik-wallenda-becomes-the-first-person-to-walk-a-tightrope-above-the-brink-of-niagara-falls-between-the-united-states-and-canada.md)
-_Context: Canadian, Niagara Falls, Nik Wallenda, U.S., tightrope_
+_Context: Canadian, Niagara Falls, Nik Wallenda, United States, tightrope_
 
 ## [Previous Day...](/news/2012/06/15/index.md)
 

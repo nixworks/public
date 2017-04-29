@@ -25,7 +25,7 @@ _Context: American Academy of Pediatrics, American College of Obstetricians and 
 _Context: Bashar al-Assad, Moscow, Russian President, Syrian Civil War, Syrian President, Vladimir Putin_
 
 ### [Iran's Supreme Leader Ayatollah Ali Khamenei approves the nuclear deal between Tehran and world powers, and orders it to be implemented subject to certain conditions. The letter states the United States and European Union should clearly announce the elimination of sanctions against Iran. The imposition of sanctions at any level and under any pretext from any of the negotiating countries would violate the JCPOA. ](/news/2015/10/21/iran-s-supreme-leader-ayatollah-ali-khamenei-approves-the-nuclear-deal-between-tehran-and-world-powers-and-orders-it-to-be-implemented-subj.md)
-_Context: Ali Khamenei, European Union, Iranian government, Joint Comprehensive Plan of Action, Supreme Leader of Iran, U.S., pre-sanction_
+_Context: Ali Khamenei, European Union, Iranian government, Joint Comprehensive Plan of Action, Supreme Leader of Iran, United States, pre-sanction_
 
 ### [The Vatican denies an Italian newspaper report that Pope Francis has a benign brain tumour, saying the 78-year-old pontiff is in good health, and denounces the article as utterly reprehensible. ](/news/2015/10/21/the-vatican-denies-an-italian-newspaper-report-that-pope-francis-has-a-benign-brain-tumour-saying-the-78-year-old-pontiff-is-in-good-health.md)
 The Vatican denied an Italian newspaper report on Wednesday that Pope Francis has a benign brain tumour, saying the 78-year-old pontiff was in good health and denouncing the article as &quot;inexcusable&quot;.

@@ -10,7 +10,7 @@ Human rights activists accuse Kenya of secretly sending four terrorism suspects 
 Blast hits crowd of people in restive west, officials blame a minority Uighur.
 
 ### [The last United States brigade combat team leaves Iraq: there are still 56,000 members of the United States armed forces in the country. ](/news/2010/08/19/the-last-united-states-brigade-combat-team-leaves-iraq-there-are-still-56-000-members-of-the-united-states-armed-forces-in-the-country.md)
-_Context: Iraq, U.S., U.S. military personnel, brigade_
+_Context: Iraq, U.S. military personnel, United States, brigade_
 
 ### [Winston Churchill's butterfly house is rebuilt. ](/news/2010/08/19/winston-churchill-s-butterfly-house-is-rebuilt.md)
 It was 1939 and the Nazi menace threatened Europe. But while Britain clamoured for the leadership of Winston Churchill, the thoughts of the great warrior himself were focused on an altogether more pacific subject: butterflies.

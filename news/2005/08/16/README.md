@@ -28,7 +28,7 @@ _Context: Afghanistan, Herat, Puma helicopters, Spain_
 _Context: Colombia, Venezuela, West Caribbean Airways Flight 708_
 
 ### [ A magnitude-7.2 earthquake strikes northeastern coast of Honshu, Japan at 11.46am (02:46 UTC), injuring at least 40 people, and resulting in a tsunami warning. [http://news.bbc.co.uk/1/hi/world/asia-pacific/4155026.stm (BBC)] [http://www.guardian.co.uk/worldlatest/story/0,1280,-5213053,00.html (Guardian)] [http://edition.cnn.com/2005/WORLD/asiapcf/08/15/japan.quake/ (CNN)] [http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-08-16T042810Z_01_ROB611154_RTRUKOC_0_UK-QUAKE-JAPAN.xml (Reuters)] (Link dead as of 21:21, 14 January 2007 (UTC))](/news/2005/08/16/a-magnitude-7-2-earthquake-strikes-northeastern-coast-of-honsha-japan-at-11-46am-02-46-utc-injuring-at-least-40-people-and-resulting.md)
-_Context: A magnitude-7.2 earthquake, Honshū Island, Japan, Tsunami, UTC_
+_Context: A magnitude-7.2 earthquake, Honshū Island, Japan, UTC, tsunami_
 
 ### [ World Youth Day 2005 begins in Cologne, Germany. ](/news/2005/08/16/world-youth-day-2005-begins-in-cologne-germany.md)
 _Context: Cologne, Germany, World Youth Day 2005_

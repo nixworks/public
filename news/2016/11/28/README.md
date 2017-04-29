@@ -16,7 +16,7 @@ A Royal Canadian Air Force pilot has been killed in a CF-18 fighter crash near a
 Wind conditions worsen and fires grow, threatening resort towns near Smokies.
 
 ### [Texas confirms its first case of locally transmitted Zika virus by mosquitoes, becoming the second U.S. state to report a local transmission of the virus after Florida. The Texas Department of State Health Services says the case involves a woman living in Cameron County, who is not pregnant. ](/news/2016/11/28/texas-confirms-its-first-case-of-locally-transmitted-zika-virus-by-mosquitoes-becoming-the-second-u-s-state-to-report-a-local-transmission.md)
-_Context: 2015–16 Zika virus epidemic, Cameron County, Florida, Texas, Texas Department of State Health Services, U.S., Zika virus_
+_Context: 2015–16 Zika virus epidemic, Cameron County, Florida, Texas, Texas Department of State Health Services, United States, Zika virus_
 
 ### [ Eleven people are hospitalized, one in critical condition, after a suspect rammed his  car  into a crowd, and then stabbed numerous people on Ohio State's Columbus campus. Police have declared the scene secure. The suspect, a refugee from Somalia, and a student at the university, is shot and killed by a police officer after he failed to obey orders to stop. ](/news/2016/11/28/eleven-people-are-hospitalized-one-in-critical-condition-after-a-suspect-rammed-his-car-into-a-crowd-and-then-stabbed-numerous-people.md)
 Abdul Razak Ali Artan was killed by a police officer after the car-and-knife ambush.

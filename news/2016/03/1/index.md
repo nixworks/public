@@ -4,7 +4,7 @@
 _Context: Luhansk Oblast, Ukrainian military, War in Donbass_
 
 ### [The United States Army's elite Delta Force captures their first suspected ISIL operative during a raid in northern Iraq. The detainee is being interrogated by the U.S. and is expected to be turned over to Iraqi officials in the coming days. ](/news/2016/03/1/the-united-states-army-s-elite-delta-force-captures-their-first-suspected-isil-operative-during-a-raid-in-northern-iraq-the-detainee-is-bei.md)
-_Context: Delta Force, ISIL, Iraq, Iraqi Civil War (2014–present), U.S., U.S. airstrikes, United States Army_
+_Context: Delta Force, ISIL, Iraq, Iraqi Civil War (2014–present), U.S. airstrikes, United States, United States Army_
 
 ### [Faulty readings from a  GPS system apparently resulted in two Israeli soldiers driving into the Qalandiya refugee camp in the occupied West Bank. Israeli forces sent in on a rescue mission, engaged armed Palestinians. One 22-year-old Palestinian man was killed with 10 others wounded, one seriously, in the ensuing gun battle.  At least 10 Israeli soldiers were wounded. ](/news/2016/03/1/faulty-readings-from-a-gps-system-apparently-resulted-in-two-israeli-soldiers-driving-into-the-qalandiya-refugee-camp-in-the-occupied-west.md)
 Two Israeli troops were following directions from the Waze app when they drove into Qalandiya refugee camp
@@ -19,7 +19,7 @@ The authorities in Peru are sending the military to help areas affected by flood
 Dozens of residents in western New York town were evacuated from their homes early on Wednesday after a train carrying hazardous liquid derailed, local officials said.
 
 ### [The first Zika virus case is confirmed in the U.S. state of New Hampshire. ](/news/2016/03/1/the-first-zika-virus-case-is-confirmed-in-the-u-s-state-of-new-hampshire.md)
-_Context: New Hampshire, U.S., Zika virus, Zika virus outbreak (2015–present)_
+_Context: New Hampshire, United States, Zika virus, Zika virus outbreak (2015–present)_
 
 ### [The United Nations Security Council vote on the United States-China draft resolution on North Korea is rescheduled to 10:00 a.m. EST Wednesday.   Russia requests more time to review the text. ](/news/2016/03/1/the-united-nations-security-council-vote-on-the-united-states-china-draft-resolution-on-north-korea-is-rescheduled-to-10-00-a-m-est-wednesd.md)
 A U.N. Security Council vote on a resolution to dramatically expand sanctions on North Korea after its recent nuclear test and satellite launch has been delayed to Wednesday after Russia negotiated changes in the U.S.-Chinese drafted text.

@@ -4,7 +4,7 @@
 Third World countries given one more day to address members of how global warming may affect them.
 
 ### [ Mary Peters, the United States Secretary of Transportation, orders an immediate inspection of all truss bridges in the United States following the collapse of the I-35W Mississippi River bridge in Minneapolis. ](/news/2007/08/2/mary-peters-the-united-states-secretary-of-transportation-orders-an-immediate-inspection-of-all-truss-bridges-in-the-united-states-follow.md)
-_Context: I-35W Mississippi River bridge, Mary Peters, Minneapolis's, Secretary of Transportation, U.S., truss bridge_
+_Context: I-35W Mississippi River bridge, Mary Peters, Minneapolis's, Secretary of Transportation, United States, truss bridge_
 
 ### [ Kafeel Ahmed, who was one of the instigators of the 2007 Glasgow International Airport attack, dies in the Glasgow Royal Infirmary of the injuries he sustained in the attack. ](/news/2007/08/2/kafeel-ahmed-who-was-one-of-the-instigators-of-the-2007-glasgow-international-airport-attack-dies-in-the-glasgow-royal-infirmary-of-the-i.md)
 _Context: 2007 attack, Glasgow Royal Infirmary, Kafeel Ahmed_
@@ -28,16 +28,16 @@ _Context: Pakistan, Taliban, al-Qaeda_
 _Context: 2007 Russian North Pole expedition, MIR submersibles, North Pole, Russia, bathyscaphe_
 
 ### [ An offshore earthquake occurs in the Pacific Ocean off the shore of Vanuatu measuring 7.2 on the Richter scale but no tsunami is triggered. ](/news/2007/08/2/an-offshore-earthquake-occurs-in-the-pacific-ocean-off-the-shore-of-vanuatu-measuring-7-2-on-the-richter-scale-but-no-tsunami-is-triggered.md)
-_Context: Pacific, Richter scale, Tsunami, Vanuatu, earthquake_
+_Context: Pacific, Richter scale, Vanuatu, earthquake, tsunami_
 
 ### [ South Korea suspends beef imports from the United States following the discovery of banned parts in a recent shipment. ](/news/2007/08/2/south-korea-suspends-beef-imports-from-the-united-states-following-the-discovery-of-banned-parts-in-a-recent-shipment.md)
-_Context: South Korea, U.S., beef_
+_Context: South Korea, United States, beef_
 
 ### [ Journalists in the Indian state of Manipur refuse to put out newspapers as a protest against threats from rebel groups. ](/news/2007/08/2/journalists-in-the-indian-state-of-manipur-refuse-to-put-out-newspapers-as-a-protest-against-threats-from-rebel-groups.md)
 _Context: India, Manipur, journalist, newspaper_
 
 ### [ An earthquake measuring 6.7 on the Richter Scale hits the southern part of Sakhalin off the coast of Russia causing a death. It also triggered a small tsunami that struck the coast of Hokkaido in Japan. ](/news/2007/08/2/an-earthquake-measuring-6-7-on-the-richter-scale-hits-the-southern-part-of-sakhalin-off-the-coast-of-russia-causing-a-death-it-also-trigge.md)
-_Context: Hokkaidō, Japan, Richter scale, Russia, Sakhalin, Tsunami, earthquake_
+_Context: Hokkaidō, Japan, Richter scale, Russia, Sakhalin, earthquake, tsunami_
 
 ### [ The Dandy comic relaunched as '''Dandy Xtreme'''.](/news/2007/08/2/the-dandy-comic-relaunched-as-dandy-xtreme.md)
 _Context: The Dandy_

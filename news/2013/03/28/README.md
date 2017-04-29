@@ -73,7 +73,7 @@ _Context: Anton, England national football team, FIFA, Football Against Racism i
 _Context: Christchurch, Cricket, Jesse Ryder, New Zealand_
 
 ### [American race car driver Denny Hamlin has a compression fracture in his back resulting from a crash on March 24. ](/news/2013/03/28/american-race-car-driver-denny-hamlin-has-a-compression-fracture-in-his-back-resulting-from-a-crash-on-march-24.md)
-_Context: Denny Hamlin, U.S., compression fracture, race car_
+_Context: Denny Hamlin, United States, compression fracture, race car_
 
 ### [A judge allows South African sprint runner Oscar Pistorius to travel abroad to compete in games if he complies with certain conditions. ](/news/2013/03/28/a-judge-allows-south-african-sprint-runner-oscar-pistorius-to-travel-abroad-to-compete-in-games-if-he-complies-with-certain-conditions.md)
 South African athlete Oscar Pistorius, facing a murder charge, can travel overseas to compete under certain conditions, after contesting bail terms.

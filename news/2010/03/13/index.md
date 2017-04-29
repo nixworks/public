@@ -29,7 +29,7 @@ A Taliban suicide bomber targeting security forces killed at least 11 people on 
 _Context: Association Mutual Aid and Solidarity AF447, Axa, Brazil, Marcelle Valpacos Fonseca, Mauro Nicolau Junior, crash of Air France Flight 447_
 
 ### [Peruvian President Alan Garcia orders funding for a tsunami-warning system. ](/news/2010/03/13/peruvian-president-alan-garcaa-orders-funding-for-a-tsunami-warning-system.md)
-_Context: Alan García, Peru, President, Tsunami_
+_Context: Alan García, Peru, President, tsunami_
 
 ### [Taoiseach Brian Cowen begins his state visit to the United States in Chicago, announcing to the world his scheme that will allow senior citizen tourists aged 66 and above to travel free on Iarnrod Eireann in the Republic of Ireland. ](/news/2010/03/13/taoiseach-brian-cowen-begins-his-state-visit-to-the-united-states-in-chicago-announcing-to-the-world-his-scheme-that-will-allow-senior-citi.md)
 The Taoiseach was the guest of honour at today&#39;s St Patrick&#39;s parade in Chicago.

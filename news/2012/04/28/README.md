@@ -3,8 +3,8 @@
 ### [2011 Syrian uprising:Syrian activists claim that the Syrian Armed Forces killed ten people in the village of Bakha north of Damascus. ](/news/2012/04/28/2011-syrian-uprising-psyrian-activists-claim-that-the-syrian-armed-forces-killed-ten-people-in-the-village-of-bakha-north-of-damascus.md)
 Vessel originally from Libya, loaded with arms reportedly destined for Syrian opposition, is stopped by Lebanese navy.
 
-### [War in Afghanistan (2001-present):Two bodyguards and two insurgents are killed in an attack on the Governor of Afghanistan's Kandahar Province. ](/news/2012/04/28/war-in-afghanistan-2001apresent-ptwo-bodyguards-and-two-insurgents-are-killed-in-an-attack-on-the-governor-of-afghanistan-s-kandahar-pro.md)
-_Context: Afghanistan, Kandahar Province, War in Afghanistan (2001–present)_
+### [War in Afghanistan:Two bodyguards and two insurgents are killed in an attack on the Governor of Afghanistan's Kandahar Province. ](/news/2012/04/28/war-in-afghanistan-ptwo-bodyguards-and-two-insurgents-are-killed-in-an-attack-on-the-governor-of-afghanistan-s-kandahar-province.md)
+_Context: Afghanistan, Kandahar Province, War in Afghanistan_
 
 ### [2012 Dnipropetrovsk explosions: Ukrainian president Viktor Yanukovich promises an investigation into the incident that injured 30 people. ](/news/2012/04/28/2012-dnipropetrovsk-explosions-ukrainian-president-viktor-yanukovich-promises-an-investigation-into-the-incident-that-injured-30-people.md)
 _Context: 2012 Dnipropetrovsk explosions, Ukrainian, Viktor Yanukovich_

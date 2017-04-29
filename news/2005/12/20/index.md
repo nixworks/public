@@ -10,7 +10,7 @@ Teaching the theory in public schools violates Constitution, judge rules.
 _Context: Jhelum River, Kashmir, Pakistan_
 
 ### [ Local 100 of the Transport Workers Union declares a New York City transit strike after talks fail, shutting down the subway and bus system that constitute the largest transportation system in the United States. (Wikinews) ](/news/2005/12/20/local-100-of-the-transport-workers-union-declares-a-new-york-city-transit-strike-after-talks-fail-shutting-down-the-subway-and-bus-system.md)
-_Context: (Wikinews), 2005 New York City transit strike, Transport Workers Union, U.S., subways_
+_Context: (Wikinews), 2005 New York City transit strike, Transport Workers Union, United States, subways_
 
 ### [ Israel: In the Likud primary elections, Benjamin Netanyahu wins, becoming the new Likud leader. In the voting, he is followed by Silvan Shalom, Moshe Feyglin, and Yisrael Katz. ](/news/2005/12/20/israel-p-in-the-likud-primary-elections-benjamin-netanyahu-wins-becoming-the-new-likud-leader-in-the-voting-he-is-followed-by-silvan-sh.md)
 New Likud leader addresses ruling party activists following primaries win, says Likud starting to make way back to power; earlier, Foreign Minister Shalom calls to congratulate Bibi. After 98 percent of ballots counted, Bibi leading with 44 percent, Shalom second with 33 percent of vote

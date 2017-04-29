@@ -13,7 +13,7 @@ _Context: Brazil, G4, Germany, India, Japan, United Nations Security Council ref
 _Context: China's, India_
 
 ### [ The United States asks India to stop military cooperation with Iran. ](/news/2007/04/20/the-united-states-asks-india-to-stop-military-cooperation-with-iran.md)
-_Context: India, Iran, U.S._
+_Context: India, Iran, United States_
 
 ### [ The U.S. state of Virginia observes a day of mourning for the victims in the Virginia Tech massacre. ](/news/2007/04/20/the-u-s-state-of-virginia-observes-a-day-of-mourning-for-the-victims-in-the-virginia-tech-massacre.md)
 _Context: Virginia, day of mourning, massacre, state_
@@ -25,7 +25,7 @@ _Context: Ethiopia, Mogadishu, heavy clashes_
 _Context: heart attack, salt, stroke_
 
 ### [ A series of earthquakes, the strongest being 6.1 magnitude, strikes the Okinawa island chain of Japan. A tsunami warning is issued but later cancelled. ](/news/2007/04/20/a-series-of-earthquakes-the-strongest-being-6-1-magnitude-strikes-the-okinawa-island-chain-of-japan-a-tsunami-warning-is-issued-but-late.md)
-_Context: Japan, Okinawa, Tsunami, earthquake, island, magnitude_
+_Context: Japan, Okinawa, earthquake, island, magnitude, tsunami_
 
 ### [ The 2007 pet food recalls:  A new study of pigs at a hog farm in California points to the possibility that melamine has entered the human food supply.  ](/news/2007/04/20/the-2007-pet-food-recalls-a-new-study-of-pigs-at-a-hog-farm-in-california-points-to-the-possibility-that-melamine-has-entered-the-human-f.md)
 _Context: 2007 pet food recalls, California, melamine, pig_

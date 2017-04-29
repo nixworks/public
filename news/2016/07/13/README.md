@@ -19,7 +19,7 @@ _Context: Carla Hayden, Librarian of Congress, Library of Congress_
 _Context: Dagestan, Russia_
 
 ### [South Korea announces plans to deploy a Terminal High Altitude Area Defense anti-ballistic missile system in Seongju County in the country's south in order to deter against a North Korean attack. ](/news/2016/07/13/south-korea-announces-plans-to-deploy-a-terminal-high-altitude-area-defense-anti-ballistic-missile-system-in-seongju-county-in-the-country-s.md)
-_Context: North Korea, North Korea–South Korea relations, Seongju County, South Korea, Terminal High Altitude Area Defense_
+_Context: North Korea, North Korea–South Korea relations, Seongju County, South Korea, THAAD_
 
 ### [In Brooklyn, New York 33 people are treated for a possible K2 overdose. The drug is illegal to sell or produce in the state. ](/news/2016/07/13/in-brooklyn-new-york-33-people-are-treated-for-a-possible-k2-overdose-the-drug-is-illegal-to-sell-or-produce-in-the-state.md)
 _Context: Brooklyn, K2, New York's_

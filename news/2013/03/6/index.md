@@ -16,7 +16,7 @@ _Context: Office of Fair Trading, UK, payday loans_
 All nine people on board an airplane chartered by a small Peruvian mining company died after the plane became ensnared in power lines and crashed to the ground in northern Peru on Wednesday, authorities and the company said.
 
 ### [The South Korean military states that it is prepared to respond if North Korea launches an attack as it threatened yesterday. ](/news/2013/03/6/the-south-korean-military-states-that-it-is-prepared-to-respond-if-north-korea-launches-an-attack-as-it-threatened-yesterday.md)
-_Context: North Korea, South Korea, military_
+_Context: North Korea, South Korea, South Korean defense officials_
 
 ### [Bob Carr, the Australian Minister for Foreign Affairs, releases a report into the handling of the case of Ben Zygier who died in Israeli custody in December 2010 and was believed to be a Mossad agent. ](/news/2013/03/6/bob-carr-the-australian-minister-for-foreign-affairs-releases-a-report-into-the-handling-of-the-case-of-ben-zygier-who-died-in-israeli-cus.md)
 _Context: Australian, Australian Foreign Minister, Ben Zygier, Bob Carr, Israel, Mossad_

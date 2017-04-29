@@ -10,7 +10,7 @@ _Context: Hajj, Mecca, Mount Arafat, Muslim_
 _Context: Abu Mazen, Al Aqsa Martyrs Brigade, Gaza Strip, Israel, Israeli-Palestinian conflict, West Bank_
 
 ### [ Japan Meteorological Agency issues tsunami warnings near the Izu island chain south of Tokyo after a strong undersea earthquake (6.8 on the Richter scale). ](/news/2005/01/19/japan-meteorological-agency-issues-tsunami-warnings-near-the-izu-island-chain-south-of-tokyo-after-a-strong-undersea-earthquake-6-8-on-the.md)
-_Context: Izu, Japan Meteorological Agency, Tokyo, Tsunami, earthquake, magnitude_
+_Context: Izu, Japan Meteorological Agency, Tokyo, earthquake, magnitude, tsunami_
 
 ### [ In Peru, prime minister Carlos Ferrero and defence minister Roberto Chiabra survive a censure motion in parliament connected to earlier nationalist uprising in January. ](/news/2005/01/19/in-peru-prime-minister-carlos-ferrero-and-defence-minister-roberto-chiabra-survive-a-censure-motion-in-parliament-connected-to-earlier-nat.md)
 _Context: Carlos Ferrero, Peru, Roberto Chiabra, censure_

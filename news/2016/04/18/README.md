@@ -52,7 +52,7 @@ _Context: Bongbong Marcos, Ferdinand Marcos, Philippine general election, 2016, 
 _Context: Italian oil drilling referendum, 2016_
 
 ### [Protests against President Gjorge Ivanov continue in Skopje, the capital of Macedonia, after his decision to pardon politicians involved in a scandal. ](/news/2016/04/18/protests-against-president-gjorge-ivanov-continue-in-skopje-the-capital-of-macedonia-after-his-decision-to-pardon-politicians-involved-in.md)
-_Context:  Macedonia, 2016 Macedonian protests, Gjorge Ivanov, President, Skopje_
+_Context: 2016 Macedonian protests, Gjorge Ivanov, Macedonian, President, Skopje_
 
 ## [Previous Day...](/news/2016/04/17/index.md)
 

@@ -1,7 +1,7 @@
 ## [2005-02-18](/news/2005/02/18/index.md)
 
 ### [ It is discovered that the tsunami resulting from the 2004 Indian Ocean earthquake uncovered an ancient city near the coastal town of Mahabalipuram in India. ](/news/2005/02/18/it-is-discovered-that-the-tsunami-resulting-from-the-2004-indian-ocean-earthquake-uncovered-an-ancient-city-near-the-coastal-town-of-mahaba.md)
-_Context: 2004 Indian Ocean earthquake, Mahabalipuram, Tsunami, coastal town_
+_Context: 2004 Indian Ocean earthquake, Mahabalipuram, coastal town, tsunami_
 
 ### [ A number of blasts hit Shi'a mosques in Baghdad, Iraq, leaving at least 27 dead and 60 wounded on day before the Shi'a holy festival of Ashura. ](/news/2005/02/18/a-number-of-blasts-hit-shi-a-mosques-in-baghdad-iraq-leaving-at-least-27-dead-and-60-wounded-on-day-before-the-shi-a-holy-festival-of-ash.md)
 _Context: Ashura, Baghdad, Shi'a, mosque_

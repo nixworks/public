@@ -19,7 +19,7 @@ _Context: Eritrea, Somalia, new alliance_
 _Context: United Kingdom, foot-and-mouth disease, outbreak of 2007_
 
 ### [ A major earthquake with a magnitude of 8.4 occurs off the west-coast of the island Sumatra, Indonesia. Sea level readings indicate a tsunami might follow and a tsunami watch is put in place for the whole of the Indian Ocean.  ](/news/2007/09/12/a-major-earthquake-with-a-magnitude-of-8-4-occurs-off-the-west-coast-of-the-island-sumatra-indonesia-sea-level-readings-indicate-a-tsunam.md)
-_Context: Indian Ocean, Indonesia, September 2007 Sumatra earthquakes, Sumatra, Tsunami, earthquake_
+_Context: Indian Ocean, Indonesia, September 2007 Sumatra earthquakes, Sumatra, earthquake, tsunami_
 
 ### [ Vladimir Putin sacks Mikhail Fradkov's Second Cabinet and nominates Viktor Zubkov as his replacement. ](/news/2007/09/12/vladimir-putin-sacks-mikhail-fradkov-s-second-cabinet-and-nominates-viktor-zubkov-as-his-replacement.md)
 _Context: Mikhail Fradkov's Second Cabinet, Viktor Zubkov, Vladimir Putin_

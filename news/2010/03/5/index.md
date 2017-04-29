@@ -7,7 +7,7 @@ _Context: Baidu, China, Google_
 Minister for Foreign Affairs Micheál Martin has described the Israeli blockade of Gaza as &#39;inhumane and utterly unacceptable&#39;.
 
 ### [A magnitude 6.5 earthquake occurs in the ocean off Sumatra with the possibility of a tsunami. ](/news/2010/03/5/a-magnitude-6-5-earthquake-occurs-in-the-ocean-off-sumatra-with-the-possibility-of-a-tsunami.md)
-_Context: Sumatra, Tsunami_
+_Context: Sumatra, tsunami_
 
 ### [HIH Princess Toshi of Japan is excused from school due to excessive bullying from classmates. ](/news/2010/03/5/hih-princess-toshi-of-japan-is-excused-from-school-due-to-excessive-bullying-from-classmates.md)
 Princess Aiko, granddaughter of the Japanese emperor, has missed several days of classes because of bullying by boys at her elementary school, according to a spokesman for the royal family.

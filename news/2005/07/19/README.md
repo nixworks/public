@@ -19,7 +19,7 @@ _Context: Gloria Arroyo, Philippine President, Philippines, electoral fraud, tru
 _Context: Adrienne Clarkson, Bill C-38, Canadian Senate, Governor General, Royal Assent, same-sex marriage in Canada_
 
 ### [ Prime Minister Manmohan Singh of India addresses joint session of US Congress in his historic visit to the US. ](/news/2005/07/19/prime-minister-manmohan-singh-of-india-addresses-joint-session-of-us-congress-in-his-historic-visit-to-the-us.md)
-_Context: India, India's Prime Minister, Manmohan Singh, U.S., US Congress_
+_Context: India, India's Prime Minister, Manmohan Singh, US Congress, United States_
 
 ### [ In Thailand, dozens of newspapers editors of Thai Journalist's Association protest against new emergency laws that include media censorship and phone tapping  ](/news/2005/07/19/in-thailand-dozens-of-newspapers-editors-of-thai-journalist-s-association-protest-against-new-emergency-laws-that-include-media-censorship.md)
 _Context: Thai Journalist's Association, Thailand, censorship, mass media, phone tapping_

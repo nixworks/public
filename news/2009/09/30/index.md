@@ -1,7 +1,7 @@
 ## [2009-09-30](/news/2009/09/30/index.md)
 
 ### [ The death toll from an earthquake and tsunami in the Samoan Islands region in the South Pacific rises to at least 113. ](/news/2009/09/30/the-death-toll-from-an-earthquake-and-tsunami-in-the-samoan-islands-region-in-the-south-pacific-rises-to-at-least-113.md)
-_Context: Pacific, Samoan Islands, Tsunami, the deadly tsunami_
+_Context: Pacific, Samoan Islands, the deadly tsunami, tsunami_
 
 ### [ A 7.6 magnitude earthquake strikes western Indonesia, killing at least 75 and trapping thousands of people under rubble. ](/news/2009/09/30/a-7-6-magnitude-earthquake-strikes-western-indonesia-killing-at-least-75-and-trapping-thousands-of-people-under-rubble.md)
 _Context: Indonesia, earthquake, magnitude_
@@ -10,7 +10,7 @@ _Context: Indonesia, earthquake, magnitude_
 _Context: Guinea, Moussa Dadis Camara, massacre of opposition protesters_
 
 ### [ Diplomatic officials from the United States and Burma hold their first high level meetings in New York City. ](/news/2009/09/30/diplomatic-officials-from-the-united-states-and-burma-hold-their-first-high-level-meetings-in-new-york-city.md)
-_Context: Burma, New York's, U.S._
+_Context: Burma, New York's, United States_
 
 ### [ 24 people are killed and 62 injured after a church collapses in Nepal. ](/news/2009/09/30/24-people-are-killed-and-62-injured-after-a-church-collapses-in-nepal.md)
 _Context: Nepal, church_

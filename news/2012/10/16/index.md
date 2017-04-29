@@ -43,7 +43,7 @@ The mother of British computer hacker Gary McKinnon says she is &quot;overwhelme
 _Context: Spain_
 
 ### [The Brazilian jurisprudence system upholds the convictions of two United States pilots for their roles in the 2006 Gol Transportes Aereos Flight 1907 disaster. ](/news/2012/10/16/the-brazilian-jurisprudence-system-upholds-the-convictions-of-two-united-states-pilots-for-their-roles-in-the-2006-gol-transportes-aa-c-reos-f.md)
-_Context: Brazilian jurisprudence system, Gol Transportes Aéreos Flight 1907, U.S._
+_Context: Brazilian jurisprudence system, Gol Transportes Aéreos Flight 1907, United States_
 
 ### [A 4.0-magnitude (originally, 4.6) earthquake strikes Hollis Center, Maine, roughly 20 miles west of Portland, Maine, the state's largest city. At 3.1 miles deep, it is a shallow earthquake, felt in Maine, southwestern Connecticut, and eastern New York state. There were reports of very minor damage and cellular phone outages, but no serious property damage, injuries, or deaths. ](/news/2012/10/16/a-4-0-magnitude-originally-4-6-earthquake-strikes-hollis-center-maine-roughly-20-miles-west-of-portland-maine-the-state-s-largest-cit.md)
 _Context: Connecticut, Hollis Center, Maine, New York, Portland, cellular phone_

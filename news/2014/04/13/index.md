@@ -25,7 +25,7 @@ Another powerful earthquake has struck the Solomon Islands, the second strong te
 _Context: Abdullah al-Thani, Libyan Prime Minister_
 
 ### [Voters in Macedonia go to the polls for the first round of voting in a presidential election. ](/news/2014/04/13/voters-in-macedonia-go-to-the-polls-for-the-first-round-of-voting-in-a-presidential-election.md)
-_Context:  Macedonia, runoff presidential election_
+_Context: Macedonian, runoff presidential election_
 
 ## [Previous Day...](/news/2014/04/12/index.md)
 

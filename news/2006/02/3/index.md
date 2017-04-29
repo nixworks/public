@@ -19,7 +19,7 @@ _Context: Euromillions, Luxembourg, euro, lottery_
 _Context: Baghdad, car bombs_
 
 ### [ A strong earthquake registering magnitude 5.9 shakes northeastern Japan, but there is no danger of a tsunami. ](/news/2006/02/3/a-strong-earthquake-registering-magnitude-5-9-shakes-northeastern-japan-but-there-is-no-danger-of-a-tsunami.md)
-_Context: Tsunami, earthquake_
+_Context: earthquake, tsunami_
 
 ### [ Israeli-Palestinian Conflict: Hezbollah fires some 30 mortar shells at IDF outposts along the northern Israeli border, lightly wounding an Israeli soldier. In response, Israeli Air Force strikes Hezbollah targets in southern Lebanon. ](/news/2006/02/3/israeli-palestinian-conflict-p-hezbollah-fires-some-30-mortar-shells-at-idf-outposts-along-the-northern-israeli-border-lightly-wounding-an.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

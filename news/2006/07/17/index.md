@@ -7,7 +7,7 @@ _Context: 13-day mission, Discovery, International Space Station, John F. Kenned
 _Context: 21 July 2005 London bombings, Crown Prosecution Service, Health and Safety at Work Act, Jean Charles de Menezes, Scotland Yard, United Kingdom_
 
 ### [ A 7.7 M<sub>w</sub> earthquake off the coast of Indonesia causes a tsunami to crash into Java, causing significant property damage and killing over 100 people. Concern is raised over lack of a warning system for the south coast despite warnings from international agencies.](/news/2006/07/17/a-7-7-mw-earthquake-off-the-coast-of-indonesia-causes-a-tsunami-to-crash-into-java-causing-significant-property-damage-and-killing-over-10.md)
-_Context: Indonesia, Java, Tsunami, earthquake, magnitude_
+_Context: Indonesia, Java, earthquake, magnitude, tsunami_
 
 ### [ At least 40 Iraqis are killed and dozens injured in the town of Mahmoudiya south of Baghdad in an insurgent attack. ](/news/2006/07/17/at-least-40-iraqis-are-killed-and-dozens-injured-in-the-town-of-mahmoudiya-south-of-baghdad-in-an-insurgent-attack.md)
 _Context: Baghdad, Iraq, Mahmoudiya_

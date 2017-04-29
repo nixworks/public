@@ -10,7 +10,7 @@ At least 40 people killed and 140 others injured in attacks on Shia pilgrims.
 _Context: 2010 Haiti earthquake, Dominican Republic_
 
 ### [Civil servants in Zimbabwe go on strike, demanding a wage increase. ](/news/2010/02/5/civil-servants-in-zimbabwe-go-on-strike-demanding-a-wage-increase.md)
-_Context: Zimbabwe, civil servants_
+_Context: Zimbabwe, civil service_
 
 ### [Cyclone Oli hits Tahiti and other islands of French Polynesia, killing at least one man. ](/news/2010/02/5/cyclone-oli-hits-tahiti-and-other-islands-of-french-polynesia-killing-at-least-one-man.md)
 _Context: Cyclone Oli, French Polynesia, Tahiti_

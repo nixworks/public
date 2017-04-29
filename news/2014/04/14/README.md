@@ -16,7 +16,7 @@ Pro-Russian activists attack another official building in east Ukraine, ignoring
 _Context: Edward Snowden, National Security Agency, Pulitzer Prize for Public Service, The Guardian, Washington Post_
 
 ### [American financial services company TIAA-CREF agrees to buy Nuveen Investments for $6.25 billion. ](/news/2014/04/14/american-financial-services-company-tiaaacref-agrees-to-buy-nuveen-investments-for-6-25-billion.md)
-_Context: $, Nuveen Investments, TIAA–CREF, U.S._
+_Context: $, Nuveen Investments, TIAA–CREF, United States_
 
 ### [Radical British Muslim cleric Abu Hamza al-Masri goes on trial in the American state of New York for 11 alleged terrorism offenses. ](/news/2014/04/14/radical-british-muslim-cleric-abu-hamza-al-masri-goes-on-trial-in-the-american-state-of-new-york-for-11-alleged-terrorism-offenses.md)
 The trial of Abu Hamza al-Masri, the radical cleric extradited from the UK to the US in 2012, begins in a federal court in New York.
@@ -28,7 +28,7 @@ _Context: Al-Saadi Gaddafi, Libyan, Libyan Civil War, Muammar Gaddafi, Saif al-I
 A federal appeals court has ruled that the venue for Auernheimer&#039;s prosecution wasn&#039;t appropriate
 
 ### [Voters in the Republic of Macedonia head to the polls for a runoff presidential election. ](/news/2014/04/14/voters-in-the-republic-of-macedonia-head-to-the-polls-for-a-runoff-presidential-election.md)
-_Context:  Macedonia, runoff presidential election_
+_Context: Macedonian, runoff presidential election_
 
 ### [The Parliament of Malta passed a law to recognise same sex civil unions and adoption by same sex couples. By this law Malta is going to become the 22nd European nation to accept civil union between same sex couples and 10th European nation to accept adoption by same sex couples.](/news/2014/04/14/the-parliament-of-malta-passed-a-law-to-recognise-same-sex-civil-unions-and-adoption-by-same-sex-couples-by-this-law-malta-is-going-to-beco.md)
 _Context: Maltese, Parliament of Malta_

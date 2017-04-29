@@ -25,7 +25,7 @@ _Context: Etta James, Riverside County, California, Superior Court, blues_
 CBS has pulled the plug on “Two and a Half Men”… for now.
 
 ### [Toyota recalls more than two million  vehicles in the United States to address problems with accelerator pedals being trapped in floormats. ](/news/2011/02/24/toyota-recalls-more-than-two-million-vehicles-in-the-united-states-to-address-problems-with-accelerator-pedals-being-trapped-in-floormats.md)
-_Context: Toyota, U.S., accelerator_
+_Context: Toyota, United States, accelerator_
 
 ### [Allison Transmission, a maker of transmissions for trucks and buses, is planning an initial public offering expected to raise between US$500 million and $1 billion, according to Reuters, which cites "four sources familiar with the situation."  ](/news/2011/02/24/allison-transmission-a-maker-of-transmissions-for-trucks-and-buses-is-planning-an-initial-public-offering-expected-to-raise-between-us-500.md)
 Private equity-backed Allison Transmission has hired banks and is planning an initial public offering that could raise around $1 billion in the third quarter of the year, four sources familiar with the situation said.
@@ -73,7 +73,7 @@ A carbon price scheme will be rolled out from July 2012 with a fixed price for t
 _Context: Providence Public School District, Providence, Rhode Island, School Board_
 
 ### [The United States Space Shuttle Discovery takes off for its final mission. ](/news/2011/02/24/the-united-states-space-shuttle-discovery-takes-off-for-its-final-mission.md)
-_Context: Discovery, U.S., final mission_
+_Context: Discovery, United States, final mission_
 
 ### [The Canterbury Crusaders cancel a planned match against the Wellington Hurricanes due to the earthquake with doubts over Christchurch's capacity to host 2011 Rugby World Cup games. ](/news/2011/02/24/the-canterbury-crusaders-cancel-a-planned-match-against-the-wellington-hurricanes-due-to-the-earthquake-with-doubts-over-christchurch-s-capa.md)
 THE Crusaders have cancelled this weekend&#039;s Super 15 match as players deal with the tragedy of the Christchurch earthquake, and there are doubts about the city&#039;s capacity to host World Cup matches later this year.

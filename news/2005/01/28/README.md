@@ -19,7 +19,7 @@ _Context: Gaza Strip, Hamas, Israeli-Palestinian conflict_
 _Context: 1996, Kim Beazley, Labor Party, Mark Latham_
 
 ### [ A month after the 2004 Indian Ocean earthquake and tsunamis, more than 1000 bodies a day are still being recovered in Aceh. ](/news/2005/01/28/a-month-after-the-2004-indian-ocean-earthquake-and-tsunamis-more-than-1000-bodies-a-day-are-still-being-recovered-in-aceh.md)
-_Context: 2004 Indian Ocean earthquake, Aceh, Tsunami_
+_Context: 2004 Indian Ocean earthquake, Aceh, tsunami_
 
 ### [ Latest investigation into the career of UK serial killer Dr. Harold Shipman increases the count of his victims to 284, the first having been killed just after he left medical school. ](/news/2005/01/28/latest-investigation-into-the-career-of-uk-serial-killer-dr-harold-shipman-increases-the-count-of-his-victims-to-284-the-first-having-bee.md)
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.

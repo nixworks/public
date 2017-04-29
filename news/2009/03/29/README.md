@@ -7,7 +7,7 @@ _Context: General Motors, Rick Wagoner, chairman, chief executive officer_
 Philippe Varin, chief executive of the Anglo-Dutch steel company Corus, will succeed Christian Streiff at the troubled French carmaker.
 
 ### [ The Coalition for a European Montenegro wins 48 of 81 seats in Montenegro's Parliament. ](/news/2009/03/29/the-coalition-for-a-european-montenegro-wins-48-of-81-seats-in-montenegro-s-parliament.md)
-_Context: Coalition for a European Montenegro, Montenegro, Parliament, wins_
+_Context: Coalition for a European Montenegro, Montenegro, Parliament of Montenegro, wins_
 
 ### [ Mayotte's referendum on becoming an overseas department of France is approved. ](/news/2009/03/29/mayotte-s-referendum-on-becoming-an-overseas-department-of-france-is-approved.md)
 _Context: France, Mayotte, overseas department, referendum_
@@ -16,7 +16,7 @@ _Context: France, Mayotte, overseas department, referendum_
 _Context: 2009, Australian Grand Prix, Brawn GP, Formula One, Jenson Button_
 
 ### [ A gunman kills at least eight people and injures three others at a nursing home in Carthage, North Carolina, United States.  ](/news/2009/03/29/a-gunman-kills-at-least-eight-people-and-injures-three-others-at-a-nursing-home-in-carthage-north-carolina-united-states.md)
-_Context: Carthage, North Carolina, U.S., kills, nursing home_
+_Context: Carthage, North Carolina, United States, kills, nursing home_
 
 ### [ Oxford Boat Club defeats Cambridge Boat Club to win the 155th University Boat Race in London, England. ](/news/2009/03/29/oxford-boat-club-defeats-cambridge-boat-club-to-win-the-155th-university-boat-race-in-london-england.md)
 _Context: Boat Race, Cambridge Boat Club, England, London, Oxford Boat Club_

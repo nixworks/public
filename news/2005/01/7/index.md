@@ -1,7 +1,7 @@
 ## [2005-01-7](/news/2005/01/7/index.md)
 
 ### [ 2004 Indian Ocean earthquake:  Japan sends its largest military deployment since World War II to tsunami-hit countries, with around 1,000 troops on standby. ](/news/2005/01/7/2004-indian-ocean-earthquake-p-japan-sends-its-largest-military-deployment-since-world-war-ii-to-tsunami-hit-countries-with-around-1-000.md)
-_Context: 2004 Indian Ocean earthquake, Tsunami_
+_Context: 2004 Indian Ocean earthquake, tsunami_
 
 ### [ Ten gang members are sentenced to prison terms of 25 to 40 years for the murders of 12 women in Juarez, Mexico; however, many hundreds of the deaths in Ciudad Juarez remain unsolved. ](/news/2005/01/7/ten-gang-members-are-sentenced-to-prison-terms-of-25-to-40-years-for-the-murders-of-12-women-in-jua-rez-mexico-however-many-hundreds-of.md)
 _Context: Ciudad Juárez, deaths in Ciudad Juárez_

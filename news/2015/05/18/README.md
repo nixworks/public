@@ -43,7 +43,7 @@ _Context: District Attorney, Etan Patz, Manhattan_
 An official says Burundi&#8217;s president has fired his defense minister and two other Cabinet ministers after a failed coup attempt.
 
 ### [In the ongoing protests in Skopje, Republic of Macedonia, tens of thousands of people rally in support of Prime Minister Nikola Gruevski. [http://www.bbc.com/news/world-europe-32789747 (BBC News)].](/news/2015/05/18/in-the-ongoing-protests-in-skopje-republic-of-macedonia-tens-of-thousands-of-people-rally-in-support-of-prime-minister-nikola-gruevski-h.md)
-_Context:  Macedonia, 2015 Macedonian protests, Nikola Gruevski, Skopje_
+_Context: 2015 Macedonian protests, Macedonian, Nikola Gruevski, Skopje_
 
 ## [Previous Day...](/news/2015/05/17/index.md)
 

@@ -19,13 +19,13 @@ VATICAN CITY (AP) — In a sweeping document on family life that opened a door t
 _Context: Bruce Springsteen and the E Street Band, Greensboro, North Carolina, North Carolina bathroom bill, bathroom bill_
 
 ### [Both Starwood Hotels and Resorts Worldwide  and Marriott International   shareholders  approve Marriott's acquisition of Starwood, which will create the world's largest  hotelier.   The deal has cleared the pre-merger antitrust reviews in the United States and Canada; approvals from the European Union and China is pending. Last week, Anbang Insurance Group topped Marriott's bid, then withdrew their offer three days later. ](/news/2016/04/8/both-starwood-hotels-and-resorts-worldwide-and-marriott-international-shareholders-approve-marriott-s-acquisition-of-starwood-which-wil.md)
-_Context: Anbang Insurance Group, Canadian, China, European Union, Marriott International, Starwood Hotels and Resorts Worldwide, U.S., pre-merger, reduced competition and higher prices, shareholders_
+_Context: Anbang Insurance Group, Canadian, China, European Union, Marriott International, Starwood Hotels and Resorts Worldwide, United States, pre-merger, reduced competition and higher prices, shareholders_
 
 ### [At least 245 people are reportedly injured following a head-on collision between two commuter trains in San Jose, Costa Rica. ](/news/2016/04/8/at-least-245-people-are-reportedly-injured-following-a-head-on-collision-between-two-commuter-trains-in-san-josa-c-costa-rica.md)
 _Context: San José, Costa Rica_
 
 ### [Three people are killed, and there was one survivor, following the crash of a small plane headed to Angoon in Southeast Alaska, United States. ](/news/2016/04/8/three-people-are-killed-and-there-was-one-survivor-following-the-crash-of-a-small-plane-headed-to-angoon-in-southeast-alaska-united-state.md)
-_Context: Angoon, Southeast Alaska, U.S._
+_Context: Angoon, Southeast Alaska, United States_
 
 ### [A group of 13 North Koreans working at a restaurant in an unidentified country defect en masse to South Korea, according to Seoul's Ministry of Unification. ](/news/2016/04/8/a-group-of-13-north-koreans-working-at-a-restaurant-in-an-unidentified-country-defect-en-masse-to-south-korea-according-to-seoul-s-ministry.md)
 Friday&#39;s public announcement is unusual for South Korea, which typically keeps a low-profile about defections.
@@ -70,7 +70,7 @@ More detainees expected to be released, including 40 students facing charges sin
 Madagascar’s president has accepted the resignation of Jean Ravelonarivo and his government
 
 ### [Macedonian opposition leader Zoran Zaev pledges to boycott the early Macedonian parliamentary elections, saying it is due to a lack of government reforms. ](/news/2016/04/8/macedonian-opposition-leader-zoran-zaev-pledges-to-boycott-the-early-macedonian-parliamentary-elections-saying-it-is-due-to-a-lack-of-gover.md)
-_Context:  Macedonia, Zoran Zaev, opposition_
+_Context: Macedonian, Zoran Zaev, opposition_
 
 ### [A group of United States mayors forms ''"Mayors Against Discrimination"'' in the wake of  recent discriminatory laws enacted  in North Carolina and Mississippi against LBGT individuals. The founding members are city leaders from Honolulu, New York City, Philadelphia, Portland, Oakland, San Francisco, Sante Fe, Seattle, Tampa, and Washington, D.C. ](/news/2016/04/8/a-group-of-united-states-mayors-forms-mayors-against-discrimination-in-the-wake-of-recent-discriminatory-laws-enacted-in-north-carol.md)
 HONOLULU (AP) — Mayors from around the country are forming a group called &quot;Mayors Against Discrimination&quot; in the wake of recent North Carolina and Mississippi laws they say are discriminatory. The coalition that includes…

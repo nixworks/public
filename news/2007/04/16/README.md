@@ -19,13 +19,13 @@ The gunman who killed 32 people and then himself at Virginia Tech university on 
 _Context: Prosperous Armenia, Yerevan_
 
 ### [ The United States, Japan and India carry out a joint naval exercise in the Pacific Ocean in an attempt to increase strategic cooperation. ](/news/2007/04/16/the-united-states-japan-and-india-carry-out-a-joint-naval-exercise-in-the-pacific-ocean-in-an-attempt-to-increase-strategic-cooperation.md)
-_Context: India, Japan, Pacific, U.S., maritime forces_
+_Context: India, Japan, Pacific, United States, maritime forces_
 
 ### [ Kalyk Imankulov, the former Chairman of the Kyrgyz National Security Service, joins the United Front For A Worthy Future For Kyrgyzstan political alliance. The alliance is staging its sixth day of protests as it calls for the resignation of President Kurmanbek Bakiyev. ](/news/2007/04/16/kalyk-imankulov-the-former-chairman-of-the-kyrgyz-national-security-service-joins-the-united-front-for-a-worthy-future-for-kyrgyzstan-pol.md)
 Kyrgyzstan entered its sixth day of anti-government protests on April 16, after a tense weekend that included several violent encounters. With the estimated turnout lower than opposition organizers ha
 
 ### [ Former Macedonian Interior Minister Ljube Boskovski and his ex-bodyguard Johan Tarculovski face trials for war crimes at the International Criminal Tribunal for the Former Yugoslavia at The Hague. ](/news/2007/04/16/former-macedonian-interior-minister-ljube-boskovski-and-his-ex-bodyguard-johan-tarculovski-face-trials-for-war-crimes-at-the-international.md)
-_Context:  Macedonia, International Criminal Tribunal for the former Yugoslavia, Johan Tarculovski, Ljube Boskovski, The Hague_
+_Context: International Criminal Tribunal for the former Yugoslavia, Johan Tarculovski, Ljube Boskovski, Macedonian, The Hague_
 
 ### [ Wal-Mart retakes the #1 position on the 2007 Fortune 500 list with US$351.1 billion in revenue for F/Y 2006, beating previous #1 ExxonMobil by $3.9 billion. ](/news/2007/04/16/wal-mart-retakes-the-1-position-on-the-2007-fortune-500-list-with-us-351-1-billion-in-revenue-for-f-y-2006-beating-previous-1-exxonmobil.md)
 _Context: 2006, 2007, ExxonMobil Corporation, Fortune 500, U.S. dollar, Wal-Mart, fiscal year_

@@ -13,7 +13,7 @@ _Context: D-AMPS cellular network, Telecom New Zealand_
 _Context: Beijing, Hohhot, Inner Mongolia, Liaoning, Tianjin, Xinjiang, sandstorm_
 
 ### [ Iranian seizure of British Navy personnel: The United States rules out exchanging five Iranian officials seized in Irbil, Iraq, in January 2007 for the 15 Royal Navy sailors seized by Iran. ](/news/2007/03/31/iranian-seizure-of-british-navy-personnel-p-the-united-states-rules-out-exchanging-five-iranian-officials-seized-in-irbil-iraq-in-january.md)
-_Context: Iran, Iranian, Iraq, Irbil, January, Royal Navy, U.S., held captive by Iran, sailors_
+_Context: Iran, Iranian, Iraq, Irbil, January, Royal Navy, United States, held captive by Iran, sailors_
 
 ### [ The St. Louis Cardinals and Cleveland Indians play in Major League Baseball's inaugural "Civil Rights Game" at AutoZone Park in Memphis, Tennessee, instituted to honor the history of civil rights in the United States. ](/news/2007/03/31/the-st-louis-cardinals-and-cleveland-indians-play-in-major-league-baseball-s-inaugural-civil-rights-game-at-autozone-park-in-memphis-te.md)
 _Context: AutoZone Park, Civil Rights Game, Cleveland Indians, Major League Baseball, Memphis, Tennessee, St. Louis Cardinals, Tennessee, history of civil rights in the United States_

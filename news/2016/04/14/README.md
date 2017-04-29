@@ -22,7 +22,7 @@ News - Your daily dose of information: European and International latest breakin
 The Chinese government says 357 officials are to be punished over a scandal involving the sale of illegal vaccines, while 192 criminal cases have been filed.
 
 ### [The U.S. company Microsoft has sued the United States, alleging that it has been prevented from disclosing warrants to the company's customers in violation of the company's constitutional rights. ](/news/2016/04/14/the-u-s-company-microsoft-has-sued-the-united-states-alleging-that-it-has-been-prevented-from-disclosing-warrants-to-the-companyas-custo.md)
-_Context: Microsoft, U.S., sued_
+_Context: Microsoft, United States, sued_
 
 ### [The Verkhovna Rada appoints Volodmyr Groysman as the Prime Minister of Ukraine, replacing Arseny Yatseniuk. ](/news/2016/04/14/the-verkhovna-rada-appoints-volodmyr-groysman-as-the-prime-minister-of-ukraine-replacing-arseny-yatseniuk.md)
 _Context: Arseny Yatseniuk, Prime Minister of Ukraine, Verkhovna Rada, Volodmyr Groysman_

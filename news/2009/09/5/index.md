@@ -4,7 +4,7 @@
 Finance ministers and centralbank heads from the G20 nations met in London on Friday andSaturday to discuss the next steps in tackling the worstfinancial crisis since World War Two.
 
 ### [ At least 15 people, mostly Bulgarians, drown in Lake Ohrid, Republic of Macedonia, as a tourist boat sinks. ](/news/2009/09/5/at-least-15-people-mostly-bulgarians-drown-in-lake-ohrid-republic-of-macedonia-as-a-tourist-boat-sinks.md)
-_Context:  Macedonia, Bulgarians, Lake Ohrid, tourist boat sinks_
+_Context: Bulgarians, Lake Ohrid, Macedonian, tourist boat sinks_
 
 ### [ The Communist Party Chief in rmqi, China, is removed from his post following recent protests over a series of stabbings with hypodermic needles. ](/news/2009/09/5/the-communist-party-chief-in-urumqi-china-is-removed-from-his-post-following-recent-protests-over-a-series-of-stabbings-with-hypodermic-n.md)
 Sacking of Urumqui Communist party chief Li Zhi follows fresh ethnic unrest in region.

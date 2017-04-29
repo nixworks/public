@@ -4,7 +4,7 @@
 _Context: Somalia_
 
 ### [Julian Assange's mother criticises leading figures in the U.S. government who called for her son's assassination on television, and expresses concerns that her son is being targeted by an American fatwa similar to the one brought against the writer Salman Rushdie in 1989. ](/news/2011/02/14/julian-assange-s-mother-criticises-leading-figures-in-the-u-s-government-who-called-for-her-son-s-assassination-on-television-and-expresse.md)
-_Context: ''The Satanic Verses'' controversy, Julian Assange, Salman Rushdie, fatwā_
+_Context: ''The Satanic Verses'' controversy, Julian Assange, Salman Rushdie, fatwa_
 
 ### [The FARC organisation in Colombia releases a fourth hostage in the past week. ](/news/2011/02/14/the-farc-organisation-in-colombia-releases-a-fourth-hostage-in-the-past-week.md)
 _Context: Colombia, Revolutionary Armed Forces of Colombia_
@@ -34,7 +34,7 @@ _Context: China's, January, trade surplus_
 An Ecuadorean lawyer for theplaintiffs said on Monday that a court in the Amazon city of LagoAgrio had ordered U.S. oil giant Chevron (CVX.N) to pay more than$8 billion in environmental damages.
 
 ### [General Motors announces that it will pay its United States hourly workers more than $4000 each as a share of profits. ](/news/2011/02/14/general-motors-announces-that-it-will-pay-its-united-states-hourly-workers-more-than-4000-each-as-a-share-of-profits.md)
-_Context: General Motors, U.S., hourly worker, profit_
+_Context: General Motors, United States, hourly worker, profit_
 
 ### [Eurozone finance ministers agree to set up a permanent bail-out fund of EUR500 billion - the European Stability Mechanism (ESM). This replaces the European Financial Stability Facility (EFSF). ](/news/2011/02/14/eurozone-finance-ministers-agree-to-set-up-a-permanent-bail-out-fund-of-a-500-billion-the-european-stability-mechanism-esm-this-replac.md)
 Eurozone leaders agree to set up a new bail-out fund of 500bn euros - almost double the current amount that can be lent.

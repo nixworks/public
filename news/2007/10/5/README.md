@@ -13,7 +13,7 @@ _Context: Canadian, Novartis, Prexige, drug, hepatitis, liver_
 _Context: 2007 Burmese anti-government protests, Burma_
 
 ### [ War in Iraq: United States forces kill at least 25 members of a Shiite militia in a firefight. ](/news/2007/10/5/war-in-iraq-united-states-forces-kill-at-least-25-members-of-a-shiite-militia-in-a-firefight.md)
-_Context: Shiite, U.S., War in Iraq, militia_
+_Context: Shiite, United States, War in Iraq, militia_
 
 ### [ Marion Jones admits using banned substances during her athletic career and risks being stripped of her five Olympic medals. ](/news/2007/10/5/marion-jones-admits-using-banned-substances-during-her-athletic-career-and-risks-being-stripped-of-her-five-olympic-medals.md)
 Marion Jones has admitted that she took banned drugs during her career, in a move that could see her stripped of her five Olympic medals.

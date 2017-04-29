@@ -10,7 +10,7 @@ _Context: Afghanistan, NATO, War in Afghanistan (2001–present)_
 Rupert Murdoch&#039;s takeover of BSkyB appeared to be dead in the water last night after proof emerged that executives at his British newspaper empire mounted a cover-up of the full scale of alleged criminal wrongdoing at the News of the World.
 
 ### [A strong earthquake of 7.1 magnitude occurs off the coast of Honshu in Japan sparking a tsunami warning. ](/news/2011/07/10/a-strong-earthquake-of-7-1-magnitude-occurs-off-the-coast-of-honshu-in-japan-sparking-a-tsunami-warning.md)
-_Context: Honshu Island, Tsunami, earthquake, tsunami warning_
+_Context: Honshu Island, earthquake, tsunami, tsunami warning_
 
 ### [A fire in a retirement home in the village of Beloye in the western Ukraine kills 16 people. ](/news/2011/07/10/a-fire-in-a-retirement-home-in-the-village-of-beloye-in-the-western-ukraine-kills-16-people.md)
 _Context: Beloye, Ukrainian_

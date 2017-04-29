@@ -62,7 +62,7 @@ MIAMI GARDENS, FLA. (WSVN) - Police are looking for the gunman who shot and kill
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
 ### [ Macedonian voters elect a new parliament. ](/news/2016/12/11/macedonian-voters-elect-a-new-parliament.md)
-_Context:  Macedonia, Macedonian parliamentary election, 2016, parliament_
+_Context: Macedonian, Macedonian parliamentary election, 2016, parliament_
 
 ### [Romanians head to the polls in the country's parliamentary elections. Exit polls show the Social Democratic Party winning by a wide margin.  ](/news/2016/12/11/romanians-head-to-the-polls-in-the-country-s-parliamentary-elections-exit-polls-show-the-social-democratic-party-winning-by-a-wide-margin.md)
 _Context: PSD, Romanians, earlier this month_

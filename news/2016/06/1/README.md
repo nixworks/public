@@ -37,7 +37,7 @@ A 6.5 magnitude earthquake struck off the coast of West Sumatra in Indonesia, ac
 _Context: Germany, President, Recep Tayyip Erdoğan, Turkey, genocide of Armenians, recognizing_
 
 ### [According to the Secretary General of NATO Jens Stoltenberg, defense spending by European member states will grow for the first time in a decade. Stoltenberg went on to say that "we are faced with uncertainty. We are faced with more threats, more security challenges, than in a generation". ](/news/2016/06/1/according-to-the-secretary-general-of-nato-jens-stoltenberg-defense-spending-by-european-member-states-will-grow-for-the-first-time-in-a-de.md)
-_Context: Jens Stoltenberg, Secretary General of NATO, member states_
+_Context: Jens Stoltenberg, Secretary General of NATO, membership_
 
 ### [A convoy carrying much-needed nutritional and medical aid reaches the besieged town Darayya, the first time since 2012. The only food delivered was baby milk. A 48-hour ceasefire for the town came into force today. ](/news/2016/06/1/a-convoy-carrying-much-needed-nutritional-and-medical-aid-reaches-the-besieged-town-darayya-the-first-time-since-2012-the-only-food-delive.md)
 The besieged Syrian town of Daraya, a rebel-held suburb of Damascus where President Bashar al-Assad has refused to allow aid to starving Syrians, got its first U.N. aid convoy since 2012 on Wednesday.

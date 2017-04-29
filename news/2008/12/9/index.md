@@ -1,7 +1,7 @@
 ## [2008-12-9](/news/2008/12/9/index.md)
 
 ### [ Democratic Illinois Governor Rod Blagojevich is arrested by Federal Bureau of Investigation agents at his Chicago home, amidst allegations of corruption and pay-to-play regarding the replacement for United States President-elect Barack Obama in the Senate. ](/news/2008/12/9/democratic-illinois-governor-rod-blagojevich-is-arrested-by-federal-bureau-of-investigation-agents-at-his-chicago-home-amidst-allegations.md)
-_Context: Barack Obama, Chicago, Democratic, FBI, Governor of Illinois, Illinois, President-elect, Rod Blagojevich, U.S., U.S. President, United States Senate, anti-corruption, pay-to-play, seat_
+_Context: Barack Obama, Chicago, Democratic, FBI, Governor of Illinois, Illinois, President-elect, Rod Blagojevich, U.S. President, United States, United States Senate, anti-corruption, pay-to-play, seat_
 
 ### [ Almost 1,400 workers are laid off in the Republic of Ireland as a result of the 2008 Irish pork crisis. ](/news/2008/12/9/almost-1-400-workers-are-laid-off-in-the-republic-of-ireland-as-a-result-of-the-2008-irish-pork-crisis.md)
 _Context: 2008 Irish pork crisis, Ireland_
@@ -16,7 +16,7 @@ _Context: CNDP, Democratic Republic of the Congo, Kenya, Nairobi, United Nations
 _Context: Bob Rae, Canadian, Leader of the Official Opposition, Liberal Party's, MP, Michael Ignatieff, Parliament of Canada, proposed opposition coalition_
 
 ### [ Former Prime Minister of the Republic of Macedonia Vlado Buckovski is sentenced to three and a half years in jail for abuse of power. ](/news/2008/12/9/former-prime-minister-of-the-republic-of-macedonia-vlado-buakovski-is-sentenced-to-three-and-a-half-years-in-jail-for-abuse-of-power.md)
-_Context:  Macedonia, Prime Minister, Vlado Bučkovski, misconduct in office_
+_Context: Macedonian, Prime Minister, Vlado Bučkovski, misconduct in office_
 
 ## [Previous Day...](/news/2008/12/8/index.md)
 

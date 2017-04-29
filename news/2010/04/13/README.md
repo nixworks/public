@@ -1,7 +1,7 @@
 ## [2010-04-13](/news/2010/04/13/index.md)
 
 ### [Nuclear Security Summit:President of the United States Barack Obama opening the biggest international meeting hosted by the US since 1945, greets leaders from nearly 50 countries. World leaders at the summit hear dire warnings of the danger of nuclear material falling into the wrong hands. ](/news/2010/04/13/nuclear-security-summit-ppresident-of-the-united-states-barack-obama-opening-the-biggest-international-meeting-hosted-by-the-us-since-1945.md)
-_Context: Barack Obama, Nuclear Security Summit, U.S., U.S. President_
+_Context: Barack Obama, Nuclear Security Summit, U.S. President, United States_
 
 ### [A magnitude 6.9 earthquake strikes southeastern Qinghai, China, near the Yangtze River. There were no immediate reports of casualties. ](/news/2010/04/13/a-magnitude-6-9-earthquake-strikes-southeastern-qinghai-china-near-the-yangtze-river-there-were-no-immediate-reports-of-casualties.md)
 _Context: China, Qinghai, Yangtze River_
@@ -13,7 +13,7 @@ _Context: New Dehli, cobalt-60, radiation sickness_
 Kyrgyzstan&#039;s ousted president Kurmanbek Bakiyev has said he will resign if the interim government guarantees his family&#039;s safety.
 
 ### [A huge glacier breaks off and plunges into a lake in Peru sparking a 23-metre high tsunami wave that destroyed a nearby town. The massive chunk of ice - around the size of four football pitches - tumbled into the '513 lake' in the Andes near Carhuaz, around 200 miles north of Lima. ](/news/2010/04/13/a-huge-glacier-breaks-off-and-plunges-into-a-lake-in-peru-sparking-a-23-metre-high-tsunami-wave-that-destroyed-a-nearby-town-the-massive-ch.md)
-_Context: Andes, Peru, Tsunami, glacier_
+_Context: Andes, Peru, glacier, tsunami_
 
 ### [Israel tells all of its citizens visiting the Sinai Peninsula to leave immediately after Israeli intelligence warns that a terror cell may be planning to kidnap an Israeli national and bring him to Gaza. ](/news/2010/04/13/israel-tells-all-of-its-citizens-visiting-the-sinai-peninsula-to-leave-immediately-after-israeli-intelligence-warns-that-a-terror-cell-may-b.md)
 Israel on Tuesday night issued an urgent warning of impending terrorist attacks aimed at tourists in the popular resorts of Egypt&rsquo;s Sinai peninsula.

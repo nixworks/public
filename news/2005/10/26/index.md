@@ -1,7 +1,7 @@
 ## [2005-10-26](/news/2005/10/26/index.md)
 
 ### [ Conflict in Iraq: Three U.S. Soldiers die in two separate insurgent attacks in Baghdad and near Baqouba. ](/news/2005/10/26/conflict-in-iraq-three-u-s-soldiers-die-in-two-separate-insurgent-attacks-in-baghdad-and-near-baqouba.md)
-_Context: Baghdad, Baqouba, Conflict in Iraq, Iraqi insurgency, U.S., United States Army_
+_Context: Baghdad, Baqouba, Conflict in Iraq, Iraqi insurgency, United States, United States Army_
 
 ### [ Baseball: In the deciding game of the 2005 World Series, the Chicago White Sox defeat the Houston Astros 1-0 to sweep the series 4 games to 0. This is the first World Championship for the Sox since 1917. Outfielder Jermaine Dye is named Series MVP. ](/news/2005/10/26/baseball-in-the-deciding-game-of-the-2005-world-series-the-chicago-white-sox-defeat-the-houston-astros-1-0-to-sweep-the-series-4-games-to.md)
 _Context: 1917, 2005 World Series, Chicago White Sox, Houston Astros, Jermaine Dye, Series MVP, baseball_

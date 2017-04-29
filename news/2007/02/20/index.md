@@ -37,7 +37,7 @@ _Context: Global Spread of H5N1, Moscow, Russia, avian flu, prescriptions, quara
 _Context: Anglican Church, Archbishop, U.S., homosexual, same-sex marriage, ultimatum_
 
 ### [ A powerful earthquake in northeastern Indonesia sparks a tsunami warning. ](/news/2007/02/20/a-powerful-earthquake-in-northeastern-indonesia-sparks-a-tsunami-warning.md)
-_Context: Indonesia, Tsunami, earthquake_
+_Context: Indonesia, earthquake, tsunami_
 
 ### [ Volvo AB agrees to buy truckmaker Nissan Diesel for $1.1 billion. ](/news/2007/02/20/volvo-ab-agrees-to-buy-truckmaker-nissan-diesel-for-1-1-billion.md)
 _Context: $, Nissan Diesel, Volvo AB_

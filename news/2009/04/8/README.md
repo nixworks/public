@@ -4,7 +4,7 @@
 _Context: Earth, Kwangmyŏngsŏng-2, North Korea, Pyongyang, communications satellite, orbit_
 
 ### [ Chinese and Russian cyber-spies allegedly infiltrate the United States' electrical grid. ](/news/2009/04/8/chinese-and-russian-cyber-spies-allegedly-infiltrate-the-united-states-electrical-grid.md)
-_Context: China's, Russia, U.S., cyber espionage, electrical grid_
+_Context: China's, Russia, United States, cyber espionage, electrical grid_
 
 ### [ Police in Chisinau reclaim Moldova's Parliament from protesters of the Communist Party's absolute majority in the country's legislative election. ](/news/2009/04/8/police-in-chiainau-reclaim-moldova-s-parliament-from-protesters-of-the-communist-party-s-absolute-majority-in-the-country-s-legislative-e.md)
 _Context: Chişinău, Moldova, PCRM, Parliament, Police, absolute majority, election, protesters_
@@ -16,7 +16,7 @@ Thai Prime Minister Abhisit Vejjajiva insisted on Wednesday that an Asian summit
 _Context: Beijing, China's, Chinese President, Hu Jintao, Hugo Chávez, Venezuela, Venezuelan President_
 
 ### [ One person is killed and four are injured in a shooting in Temecula, California, United States. ](/news/2009/04/8/one-person-is-killed-and-four-are-injured-in-a-shooting-in-temecula-california-united-states.md)
-_Context: California, Temecula, U.S._
+_Context: California, Temecula, United States_
 
 ### [ Somali pirates hijack the Danish container ship MV ''Maersk Alabama'' in the Indian Ocean. ](/news/2009/04/8/somali-pirates-hijack-the-danish-container-ship-mv-maersk-alabama-in-the-indian-ocean.md)
 _Context: ''Maersk Alabama'', Danish, Indian Ocean, MV, Somali pirates, Somalia, container ship_

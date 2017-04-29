@@ -16,7 +16,7 @@ A year after one of the worst natural disasters in U.S. history, New Orleans tur
 _Context: 2006 transatlantic aircraft plot, London_
 
 ### [ A magnitude-5.4 earthquake strikes off the Maluku Islands in Indonesia.  Officials currently state that a tsunami is not possible, as their initial magnitude estimates have been downgraded. ](/news/2006/08/29/a-magnitude-5-4-earthquake-strikes-off-the-maluku-islands-in-indonesia-officials-currently-state-that-a-tsunami-is-not-possible-as-their.md)
-_Context: Indonesia, Maluku Islands, Tsunami, earthquake_
+_Context: Indonesia, Maluku Islands, earthquake, tsunami_
 
 ### [ Warren Jeffs, the fugitive leader of a polygamist Mormon sect and one of the FBI Ten Most Wanted Fugitives, has been arrested in southern Nevada. ](/news/2006/08/29/warren-jeffs-the-fugitive-leader-of-a-polygamist-mormon-sect-and-one-of-the-fbi-ten-most-wanted-fugitives-has-been-arrested-in-southern-n.md)
 _Context: 10 Most Wanted Fugitives list, Mormon, Warren Jeffs, polygamist_

@@ -13,7 +13,7 @@ Dozens of civilians held by Muslim rebels in a stand-off in the Philippine south
 _Context: ''Costa Concordia'' disaster, Costa Concordia, Italian, Tuscany_
 
 ### [Iranian President Hassan Rouhani confirmed he had contacted U.S. President Barack Obama via letters. Both countries cut all diplomatic relations after the Iranian Hostage Crisis in 1980. ](/news/2013/09/17/iranian-president-hassan-rouhani-confirmed-he-had-contacted-u-s-president-barack-obama-via-letters-both-countries-cut-all-diplomatic-relat.md)
-_Context: Barack Obama, Hassan Rouhani, Iran, Iranian Hostage Crisis, Iranian President, U.S., U.S. President_
+_Context: Barack Obama, Hassan Rouhani, Iran, Iranian Hostage Crisis, Iranian President, U.S. President, United States_
 
 ### [Abdul Kader Mullah, a leader of the Bangladesh Jamaat-e-Islami party, is sentenced to death for war crimes in the Bangladesh Liberation War in 1971. ](/news/2013/09/17/abdul-kader-mullah-a-leader-of-the-bangladesh-jamaat-e-islami-party-is-sentenced-to-death-for-war-crimes-in-the-bangladesh-liberation-war.md)
 _Context: Bangladesh Jamaat-e-Islami, independence war, war crimes_

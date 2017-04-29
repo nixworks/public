@@ -13,7 +13,7 @@ _Context: Bhutan, Bhutan Peace and Prosperity Party, Lyonpo Jigme Thinley, Prime
 _Context: Sirius Satellite Radio, U.S. Justice Department, XM Satellite Radio, merger_
 
 ### [ The Federal Bureau of Investigation identifies the bodies of two United States citizens working as contractors in Iraq kidnapped more than a year ago. ](/news/2008/03/24/the-federal-bureau-of-investigation-identifies-the-bodies-of-two-united-states-citizens-working-as-contractors-in-iraq-kidnapped-more-than.md)
-_Context: FBI, Iraq, Kidnap, U.S._
+_Context: FBI, Iraq, Kidnap, United States_
 
 ### [ Marleen Veldhuis of the Netherlands and Federica Pellegrini of Italy break world records at the final day of the European Swimming Championships in Eindhoven, Netherlands. ](/news/2008/03/24/marleen-veldhuis-of-the-netherlands-and-federica-pellegrini-of-italy-break-world-records-at-the-final-day-of-the-european-swimming-champion.md)
 _Context: Dutch, Eindhoven, European Swimming Championships, Federica Pellegrini, Italian, Marleen Veldhuis, Netherlands, world record_

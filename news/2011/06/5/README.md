@@ -34,7 +34,7 @@ Hundreds of Vietnamese turn out in Hanoi and Ho Chi Minh City to protest against
 _Context: PSD, Pedro Passos Coelho, Portuguese, Portuguese legislative election, international bailout_
 
 ### [Voters in the Republic of Macedonia go to the polls for  parliamentary elections. ](/news/2011/06/5/voters-in-the-republic-of-macedonia-go-to-the-polls-for-parliamentary-elections.md)
-_Context:  Macedonia, parliamentary elections_
+_Context: Macedonian, parliamentary elections_
 
 ### [Voters in Peru go to the polls for the second round of the Peruvian general election with Ollanta Humala claiming victory over Keiko Fujimori. ](/news/2011/06/5/voters-in-peru-go-to-the-polls-for-the-second-round-of-the-peruvian-general-election-with-ollanta-humala-claiming-victory-over-keiko-fujimor.md)
 Winner of Sunday&rsquo;s vote will preside over Latin America&rsquo;s fastest-growing economy.

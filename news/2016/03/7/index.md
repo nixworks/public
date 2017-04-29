@@ -22,7 +22,7 @@ Apple Inc. must pay $450 million to end an antitrust suit after the U.S. Supreme
 A Bay Area commuter train en route to Stockton derailed Monday night, authorities said. The Altamont Corridor Express, also known as the ACE train, issued a bulletin about 7:45 p.m. that Train 10, which departed San Jose at 6:38 p.m. and was scheduled to arrive in Stockton by 9 p.m., had derailed in Niles Canyon.
 
 ### [South Korea and the United States start a joint military exercise as North Korea repeats threats of "indiscriminate" nuclear strikes. ](/news/2016/03/7/south-korea-and-the-united-states-start-a-joint-military-exercise-as-north-korea-repeats-threats-of-indiscriminate-nuclear-strikes.md)
-_Context: North Korea, South Korea, South Korea–United States relations, U.S._
+_Context: North Korea, South Korea, South Korea–United States relations, United States_
 
 ### [Indonesian President Joko "Jokowi" Widodo calls on Muslim leaders at the  Organisation of Islamic Cooperation (OIC) summit meeting in Jakarta to  unite and be part of the solution on Palestine, noting the entire world is concerned about its deteriorating situation. Jokowi also criticizes what he calls Israel's "unilateral and illegal policies." ](/news/2016/03/7/indonesian-president-joko-ajokowia-widodo-calls-on-muslim-leaders-at-the-organisation-of-islamic-cooperation-oic-summit-meeting-in-ja.md)
 Unity: President Joko &acirc;Jokowi&acirc; Widodo welcomes Palestinian President Mahmoud Abbas before they carry out a bilateral meeting on the sidelines of the Organization of the Islamic Cooperation (OIC) Summit at the Jakarta Convention Center (JCC) on Sunday

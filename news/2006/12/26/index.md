@@ -16,7 +16,7 @@ _Context: Lagos, Nigeria, Red Cross, an oil pipeline explosion, siphon_
 _Context: Ethiopia, Islamist, War in Somalia_
 
 ### [ Southwestern Taiwan is shaken by a 7.2 earthquake at 20:28 (GMT+8). A second aftershock, estimated at 7.1 and centered in Pingtung County, is felt 5 minutes later. According to the Pacific Tsunami Warning Centre, no Pacific-wide tsunami is expected. ](/news/2006/12/26/southwestern-taiwan-is-shaken-by-a-7-2-earthquake-at-20-28-gmt-8-a-second-aftershock-estimated-at-7-1-and-centered-in-pingtung-county.md)
-_Context: Pacific, Pacific Tsunami Warning Centre, Pingtung County, Taiwan, Tsunami, earthquake near Taiwan_
+_Context: Pacific, Pacific Tsunami Warning Centre, Pingtung County, Taiwan, earthquake near Taiwan, tsunami_
 
 ## [Previous Day...](/news/2006/12/25/index.md)
 

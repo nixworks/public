@@ -1,7 +1,7 @@
 ## [2011-05-19](/news/2011/05/19/index.md)
 
 ### [Syria condemns the decision by the United States to impose sanctions on President Bashar al-Assad in response to ongoing anti-government protests. ](/news/2011/05/19/syria-condemns-the-decision-by-the-united-states-to-impose-sanctions-on-president-bashar-al-assad-in-response-to-ongoing-anti-government-pro.md)
-_Context: Bashar al-Assad, President, Syria, Syrian uprising, U.S._
+_Context: Bashar al-Assad, President, Syria, Syrian uprising, United States_
 
 ### [2011 Libyan civil war:Rebels in Libya launch a television channel to counter Muammar Gaddafi's state media. ](/news/2011/05/19/2011-libyan-civil-war-prebels-in-libya-launch-a-television-channel-to-counter-muammar-gaddafi-s-state-media.md)
 _Context: Libya, Libyan Civil War, Muammar Gaddafi, state media_
@@ -22,7 +22,7 @@ Check out our breaking stories on Hollywood?s hottest stars! Get the latest news
 _Context: BBC, London, Question Time, Wormwood Scrubbs Prison_
 
 ### [A civil service strike in Botswana closes many hospitals. ](/news/2011/05/19/a-civil-service-strike-in-botswana-closes-many-hospitals.md)
-_Context: Botswana, civil servants_
+_Context: Botswana, civil service_
 
 ### [Dominique Strauss-Kahn sexual assault charge:Dominique Strauss-Kahn offers his resignation as head of the International Monetary Fund following the charges. ](/news/2011/05/19/dominique-strauss-kahn-sexual-assault-charge-pdominique-strauss-kahn-offers-his-resignation-as-head-of-the-international-monetary-fund-follo.md)
 International Monetary Fund head Dominique Strauss-Kahn resigns following an alleged sexual assault of a hotel maid in New York.

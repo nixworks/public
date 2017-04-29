@@ -7,10 +7,10 @@ _Context: Moldova, PCRM, Parliament, absolute majority, election_
 _Context: Earth, Kwangmyŏngsŏng-2, North Korea, Strategic Command systems, United States Northern Command, communications satellite, orbit_
 
 ### [ U.S. President Barack Obama announces his plan for worldwide nuclear disarmament. ](/news/2009/04/5/u-s-president-barack-obama-announces-his-plan-for-worldwide-nuclear-disarmament.md)
-_Context: Barack Obama, U.S., U.S. President, free, nuclear warheads_
+_Context: Barack Obama, U.S. President, United States, free, nuclear warheads_
 
 ### [ The second round of Macedonia's presidential election takes place.  ](/news/2009/04/5/the-second-round-of-macedonia-s-presidential-election-takes-place.md)
-_Context:  Macedonia, election, presidential, second round_
+_Context: Macedonian, election, presidential, second round_
 
 ## [Previous Day...](/news/2009/04/4/index.md)
 

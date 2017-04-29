@@ -7,13 +7,13 @@ _Context: Frente para a Libertação do Enclave de Cabinda, Independence War in 
 While army continues to strike Hizbullah, limit its weapons resources, outside groups trying to rearm group. IAF manages to bomb trucks transporting missiles from Syria. IDF Maj.-Gen. Eisenkot: These rockets belong to Syrian army
 
 ### [ The death toll from the July 2006 Java earthquake and the tsunami rises to 339. As scores of people are missing, the death toll is expected to keep rising. ](/news/2006/07/18/the-death-toll-from-the-july-2006-java-earthquake-and-the-tsunami-rises-to-339-as-scores-of-people-are-missing-the-death-toll-is-expected.md)
-_Context: July 2006 Java earthquake, Tsunami_
+_Context: July 2006 Java earthquake, tsunami_
 
 ### [ A car bomb kills at least 15 labourers and wounds dozens in the southern Iraqi town of Kufa. ](/news/2006/07/18/a-car-bomb-kills-at-least-15-labourers-and-wounds-dozens-in-the-southern-iraqi-town-of-kufa.md)
 _Context: Iraq, Kufa, car bomb_
 
 ### [ A doctor and two nurses from Memorial Medical Center in the U.S. city of New Orleans are charged with murder in connection with the possible mercy killings of 34 patients in the immediate aftermath of Hurricane Katrina. ](/news/2006/07/18/a-doctor-and-two-nurses-from-memorial-medical-center-in-the-u-s-city-of-new-orleans-are-charged-with-murder-in-connection-with-the-possibl.md)
-_Context: A doctor, Hurricane Katrina, Memorial Medical Center, New Orleans, U.S., euthanasia, murder_
+_Context: A doctor, Hurricane Katrina, Memorial Medical Center, New Orleans, United States, euthanasia, murder_
 
 ### [ The United States House of Representatives fails to pass a constitutional amendment to ban same-sex marriage with a 236-187 vote; 47 short of the necessary two-thirds support needed to pass an amendment. ](/news/2006/07/18/the-united-states-house-of-representatives-fails-to-pass-a-constitutional-amendment-to-ban-same-sex-marriage-with-a-236-187-vote-47-short.md)
 _Context: U.S. House, constitutional amendment to ban, same-sex marriage_

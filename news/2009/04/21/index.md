@@ -4,7 +4,7 @@
 _Context: Yahoo Inc., layoff_
 
 ### [ Twelve navies from the Americas begin annual UNITAS Gold exercises near Florida, United States. ](/news/2009/04/21/twelve-navies-from-the-americas-begin-annual-unitas-gold-exercises-near-florida-united-states.md)
-_Context: Americas, Florida, U.S., UNITAS Gold, maritime forces, military exercise_
+_Context: Americas, Florida, UNITAS Gold, United States, maritime forces, military exercise_
 
 ### [ The World Digital Library launches at UNESCO's headquarters in Paris, France. ](/news/2009/04/21/the-world-digital-library-launches-at-unesco-s-headquarters-in-paris-france.md)
 _Context: France, Paris, UNESCO, World Digital Library_

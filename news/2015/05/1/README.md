@@ -10,7 +10,7 @@ UN agency calls on Houthis to release fuel supplies, saying it needs 200,000 lit
 _Context: Benghazi, Libyan Civil War (2014–present)_
 
 ### [A 7.1 magnitude earthquake occurs in Papua New Guinea's East New Britain province with the potential to generate a local tsunami. ](/news/2015/05/1/a-7-1-magnitude-earthquake-occurs-in-papua-new-guinea-s-east-new-britain-province-with-the-potential-to-generate-a-local-tsunami.md)
-_Context: East New Britain, Papua New Guinea, Tsunami_
+_Context: East New Britain, Papua New Guinea, tsunami_
 
 ### [Four people have died in South East Queensland in flood waters triggered by heavy rain. ](/news/2015/05/1/four-people-have-died-in-south-east-queensland-in-flood-waters-triggered-by-heavy-rain.md)
 _Context: Australian east coast low, South East Queensland_

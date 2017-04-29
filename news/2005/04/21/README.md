@@ -1,13 +1,13 @@
 ## [2005-04-21](/news/2005/04/21/index.md)
 
 ### [ 400 Iranian volunteers sign up to sacrifice their lives in "occupied Islamic countries", particularly Israel, after being inspired by a fatwa from a top hardline cleric giving religious backing to suicide missions. ](/news/2005/04/21/400-iranian-volunteers-sign-up-to-sacrifice-their-lives-in-occupied-islamic-countries-particularly-israel-after-being-inspired-by-a-fat.md)
-_Context: Iran, Islam, Israel, cleric, fatwā, suicide bombings_
+_Context: Iran, Islam, Israel, cleric, fatwa, suicide bombings_
 
 ### [ American, French and Israeli naval forces rescue three Syrian and Egyptian sailors from a North Korean ship that sank in international waters off the coast of Nahariya. ](/news/2005/04/21/american-french-and-israeli-naval-forces-rescue-three-syrian-and-egyptian-sailors-from-a-north-korean-ship-that-sank-in-international-wate.md)
 Sinking ship summons Israeli, American, French forces; three rescued, four still missing
 
 ### [ The American Israel Public Affairs Committee (AIPAC) fires two members suspected of passing on U.S. secrets to Israel. ](/news/2005/04/21/the-american-israel-public-affairs-committee-aipac-fires-two-members-suspected-of-passing-on-u-s-secrets-to-israel.md)
-_Context: American Israel Public Affairs Committee, Israel, U.S._
+_Context: American Israel Public Affairs Committee, Israel, United States_
 
 ### [ Three Israeli soldiers are hurt when their jeep triggers an IED roadside bomb, near the Karni crossing, on the edge of the Gaza Strip. ](/news/2005/04/21/three-israeli-soldiers-are-hurt-when-their-jeep-triggers-an-ied-roadside-bomb-near-the-karni-crossing-on-the-edge-of-the-gaza-strip.md)
 _Context: Gaza Strip, IED, Israel, Jeep, cargo terminals_

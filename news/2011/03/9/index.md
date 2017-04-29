@@ -28,7 +28,7 @@ Zara Phillips and her rugby player fiance Mike Tindall are to be married at the 
 _Context: Athabasca River, Canadian, aromatic, oil sands, polycyclic_
 
 ### [A tsunami alert is issued after a strong earthquake of preliminary 7.2 magnitude occurs off the coast of Honshu, Japan. ](/news/2011/03/9/a-tsunami-alert-is-issued-after-a-strong-earthquake-of-preliminary-7-2-magnitude-occurs-off-the-coast-of-honshu-japan.md)
-_Context: Honshu Island, Japan, Tsunami, earthquake_
+_Context: Honshu Island, Japan, earthquake, tsunami_
 
 ### [The Governor of the US state of New Jersey, Chris Christie declares a state of emergency along the Passaic and Delaware Rivers and Bound Brook in Somerset County in order to prepare for anticipated floods later in the week. ](/news/2011/03/9/the-governor-of-the-us-state-of-new-jersey-chris-christie-declares-a-state-of-emergency-along-the-passaic-and-delaware-rivers-and-bound-bro.md)
 _Context: Bound Brook, Chris Christie, Delaware River, New Jersey, New Jersey Governor, Passaic, Somerset County, state of emergency_
@@ -91,7 +91,7 @@ _Context: Governor of Illinois, Illinois, Pat Quinn, death penalty, death row_
 _Context: Discovery, Florida, Kennedy Space Center, Space Shuttle_
 
 ### [The United States Food and Drug Administration approves the use of the drug Belimumab (Benlysta) to treat lupus, the first drug to be approved for this purpose in 56 years. ](/news/2011/03/9/the-united-states-food-and-drug-administration-approves-the-use-of-the-drug-belimumab-benlysta-to-treat-lupus-the-first-drug-to-be-approv.md)
-_Context: Belimumab, FDA, U.S., lupus_
+_Context: Belimumab, FDA, United States, lupus_
 
 ## [Previous Day...](/news/2011/03/8/index.md)
 
