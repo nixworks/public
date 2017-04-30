@@ -1,6 +1,6 @@
 ### [2017-04-29](/news/2017/04/29/index.md)
 
-# The 2017 White House Correspondents' Dinner is held while Donald Trump decides not to attend, becoming the first incumbent president to do so since Ronald Reagan in 1981, when he was recovering from an assassination attempt. 
+# The 2017 White House Correspondents' Dinner is held while Donald Trump decides not to attend, becoming the first incumbent president to do so since Ronald Reagan, who did not attend the dinner while recovering from a 1981 assassination attempt. 
 
 Without President Trump or anyone from the administration in attendance, the normally celebrity-filled event is more subdued and Samantha Bee is hosting her own event.
 
