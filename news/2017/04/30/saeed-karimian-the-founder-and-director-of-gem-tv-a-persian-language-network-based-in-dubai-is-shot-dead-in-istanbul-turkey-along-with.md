@@ -1,6 +1,6 @@
 ### [2017-04-30](/news/2017/04/30/index.md)
 
-# Saeed Karimian, the founder and director of GEM TV, a Persian language network based in Dubai, is shot dead in Istanbul, Turkey, along with his Kuwaiti business partner. Mr Karimian had previously been tried in absentia by a Tehran court and sentenced to six years in prison for spreading propaganda against Iran. 
+# Saeed Karimian, the founder and director of GEM TV, a Persian language network based in Dubai, is shot dead in Istanbul, Turkey, along with his Kuwaiti business partner. Karimian had previously been tried in absentia by a Tehran court and sentenced to six years in prison for spreading propaganda against Iran. 
 
 
 
