@@ -21,5 +21,8 @@ _Context: Puerto Rico Oversight Board (PROMESA), University of Puerto Rico, Univ
 ### [European Union leaders approve negotiating guidelines that seek to secure "sufficient progress" on the rights of European Union expatriates living in the United Kingdom, on the financial terms of the separation and on a "soft border" between the Republic of Ireland and Northern Ireland, before committing to talk about a new free trade deal. ](/news/2017/04/29/european-union-leaders-approve-negotiating-guidelines-that-seek-to-secure-sufficient-progress-on-the-rights-of-european-union-expatriates.md)
 European Union leaders endorsed a stiff set of divorce terms for Britain at a summit on Saturday, rejoicing in a rare show of unity in adversity but well aware that may start to fray once negotiations begin.
 
+### [The 2017 White House Correspondents' Dinner is held while Donald Trump decides not to attend, becoming the first incumbent president to do so since Ronald Reagan in 1981, when he was recovering from an assassination attempt. ](/news/2017/04/29/the-2017-white-house-correspondents-dinner-is-held-while-donald-trump-decides-not-to-attend-becoming-the-first-incumbent-president-to-do-s.md)
+Without President Trump or anyone from the administration in attendance, the normally celebrity-filled event is more subdued and Samantha Bee is hosting her own event.
+
 ## [Previous Day...](/news/2017/04/28/index.md)
 
