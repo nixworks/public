@@ -1,6 +1,6 @@
 ### [2017-04-29](/news/2017/04/29/index.md)
 
-# Media freedom in Turkey, Government censorship of Wikipedia, 2017 block of Wikipedia in Turkey :Monitoring group Turkey Blocks reports that a provisional administrative order blocks access to all language editions of Wikipedia in Turkey. 
+# Media freedom in Turkey, Government censorship of Wikipedia, 2017 block of Wikipedia in Turkey:Monitoring group Turkey Blocks reports that a provisional administrative order blocks access to all language editions of Wikipedia in Turkey. 
 
 The internet monitoring group Turkey Blocks says all language editions of the online encyclopedia Wikipedia were blocked in Turkey on Saturday.
 

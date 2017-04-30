@@ -9,7 +9,7 @@ _Context: Kyrgyzstan, landslide_
 ### [An Aerogaviota-operated Antonov An-26 plane crashes in western Artemisa Province, Cuba, killing eight troops on board. ](/news/2017/04/29/an-aerogaviota-operated-antonov-an-26-plane-crashes-in-western-artemisa-province-cuba-killing-eight-troops-on-board.md)
 A Cuban military plane has reportedly crashed in the western province of Artemisa, killing eight troops on board.
 
-### [Media freedom in Turkey, Government censorship of Wikipedia, 2017 block of Wikipedia in Turkey :Monitoring group Turkey Blocks reports that a provisional administrative order blocks access to all language editions of Wikipedia in Turkey. ](/news/2017/04/29/media-freedom-in-turkey-government-censorship-of-wikipedia-2017-block-of-wikipedia-in-turkey-pmonitoring-group-turkey-blocks-reports-that.md)
+### [Media freedom in Turkey, Government censorship of Wikipedia, 2017 block of Wikipedia in Turkey:Monitoring group Turkey Blocks reports that a provisional administrative order blocks access to all language editions of Wikipedia in Turkey. ](/news/2017/04/29/media-freedom-in-turkey-government-censorship-of-wikipedia-2017-block-of-wikipedia-in-turkey-pmonitoring-group-turkey-blocks-reports-that.md)
 The internet monitoring group Turkey Blocks says all language editions of the online encyclopedia Wikipedia were blocked in Turkey on Saturday.
 
 ### [Tens of thousands of people protest in Washington, D.C. to bring awareness to climate change. ](/news/2017/04/29/tens-of-thousands-of-people-protest-in-washington-d-c-to-bring-awareness-to-climate-change.md)
