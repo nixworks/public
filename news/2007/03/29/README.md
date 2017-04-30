@@ -13,7 +13,7 @@ _Context: Colorado, Oklahoma!, Texas, United States, tornado_
 _Context: Abdullah, Saudi Arabia, U.S. presence in Iraq, War in Iraq, occupied_
 
 ### [ The U.S. House of Representatives narrowly passes a US$2.9 trillion budget blueprint which results in a surplus after five years but relies heavily on the expiration of the Bush tax cuts to do so. The U.S. Senate passed a similar budget blueprint last week with negotiations to ensue.](/news/2007/03/29/the-u-s-house-of-representatives-narrowly-passes-a-us-2-9-trillion-budget-blueprint-which-results-in-a-surplus-after-five-years-but-relies.md)
-_Context: George W. Bush, U.S. House, U.S. dollar, United States Senate, budget, surplus_
+_Context: George W. Bush, Senator, U.S. House, U.S. dollar, budget, surplus_
 
 ### [ Insurgency in Somalia: Helicopters bomb an insurgent stronghold in Mogadishu hours after six people die in a gun battle. ](/news/2007/03/29/insurgency-in-somalia-helicopters-bomb-an-insurgent-stronghold-in-mogadishu-hours-after-six-people-die-in-a-gun-battle.md)
 _Context:  Insurgency in Somalia, Mogadishu, bomb, helicopter, insurgency_

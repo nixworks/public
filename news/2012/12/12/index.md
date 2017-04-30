@@ -25,7 +25,7 @@ John McAfee, the fugitive computer software millionaire wanted for questioning i
 _Context: Ecuador, Jamil Mahuad, President_
 
 ### [Irish politician Joan Collins names crime journalist Paul Williams and sports star Ronan O'Gara under Dail privilege as being among those to benefit from having their penalty points for traffic offences cancelled by the Garda Siochana. Justice Minister Alan Shatter calls Collins's action a "total disgrace" and she is reported to a Leinster House watchdog called the Dail Committee on Procedure and Privileges. ](/news/2012/12/12/irish-politician-joan-collins-names-crime-journalist-paul-williams-and-sports-star-ronan-o-gara-under-da-il-privilege-as-being-among-those-t.md)
-_Context: Alan Shatter, Dáil Éireann, Ireland, Joan Collins, Leinster House, Paul Williams, Ronan O'Gara, police officer_
+_Context: Alan Shatter, Dáil Éireann, Joan Collins, Leinster House, Paul Williams, Republic of Ireland, Ronan O'Gara, police officer_
 
 ### [Malian interim President Dioncounda Traore appoints Django Sissoko to be a new Acting Prime Minister, after his predecessor Cheick Modibo Diarra was forced to resign by leaders of the 2012 coup d'etat. ](/news/2012/12/12/malian-interim-president-dioncounda-traora-c-appoints-django-sissoko-to-be-a-new-acting-prime-minister-after-his-predecessor-cheick-modibo-d.md)
 Malian President Diouncounda Traore appoints a new prime minister, less than 24 hours after his predecessor was forced to resign by the military.

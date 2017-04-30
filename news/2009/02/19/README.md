@@ -28,7 +28,7 @@ _Context: 2006, Anna Politkovskaya, Russia, acquits, aiding, investigative repor
 _Context: ''Danton'', France, Mediterranean Sea, battleship_
 
 ### [ U.S. President Barack Obama meets with Canadian Prime Minister Stephen Harper in Ottawa. ](/news/2009/02/19/u-s-president-barack-obama-meets-with-canadian-prime-minister-stephen-harper-in-ottawa.md)
-_Context: Barack Obama, Canadian, Canadian Prime Minister, Ottawa, Stephen Harper, U.S. President, United States_
+_Context: Barack Obama, Canadian, Canadian Prime Minister, Ottawa, President of the United States, Stephen Harper, United States_
 
 ### [ China's Ministry of Health reports that HIV/AIDS was the country's leading cause of death from infectious disease in 2008. ](/news/2009/02/19/china-s-ministry-of-health-reports-that-hiv-aids-was-the-country-s-leading-cause-of-death-from-infectious-disease-in-2008.md)
 _Context: 2008, AIDS, China's, HIV, Ministry of Health, infectious disease, leading cause of death_

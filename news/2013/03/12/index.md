@@ -43,7 +43,7 @@ Far-reaching restrictions on the trade in hardwood trees have been agreed at Cit
 _Context: Nelson Mandela, South Africa, Winnie Madikizela-Mandela, exhume_
 
 ### [The secretive Opus Dei sect is mobilising within the Irish professions to interfere with abortion law reform, according to Senator John Crown. ](/news/2013/03/12/the-secretive-opus-dei-sect-is-mobilising-within-the-irish-professions-to-interfere-with-abortion-law-reform-according-to-senator-john-crow.md)
-_Context: Ireland, John Crown, Opus Dei, Seanad Éireann, abortion, abortion law_
+_Context: John Crown, Opus Dei, Republic of Ireland, Seanad Éireann, abortion, abortion law_
 
 ### [The US Secret Service launches an investigation after hackers post what they claim is personal data and credit information of celebrities, including First Lady Michelle Obama, online. ](/news/2013/03/12/the-us-secret-service-launches-an-investigation-after-hackers-post-what-they-claim-is-personal-data-and-credit-information-of-celebrities-i.md)
 The US Secret Service has launched an investigation after hackers posted what they said was personal data and credit information of celebrities, including First Lady Michelle Obama, online.

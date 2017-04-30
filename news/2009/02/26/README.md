@@ -1,7 +1,7 @@
 ## [2009-02-26](/news/2009/02/26/index.md)
 
 ### [ United States President Barack Obama will withdraw most soldiers from the Iraq War by August 2010. ](/news/2009/02/26/united-states-president-barack-obama-will-withdraw-most-soldiers-from-the-iraq-war-by-august-2010.md)
-_Context: Barack Obama, Iraq, Iraq War, U.S. President, U.S. military personnel, United States_
+_Context: Barack Obama, Iraq, Iraq War, President of the United States, U.S. military personnel, United States_
 
 ### [ The Bangladesh Rifles surrender after the government promises amnesty. ](/news/2009/02/26/the-bangladesh-rifles-surrender-after-the-government-promises-amnesty.md)
 _Context: 2009 Bangladesh Rifles revolt, Bangladesh, Bangladesh Rifles, amnesty, government_
@@ -34,7 +34,7 @@ _Context: 2008 Mumbai attacks, Ajmal Kasab, India, Mumbai, conflict zones_
 _Context: Royal Bank of Scotland Group, £_
 
 ### [ Thirteen thousand civil servants stage a one-day strike action in Ireland. ](/news/2009/02/26/thirteen-thousand-civil-servants-stage-a-one-day-strike-action-in-ireland.md)
-_Context: Ireland, public sector, strike_
+_Context: Republic of Ireland, public sector, strike_
 
 ### [ Former Guinean President Lansana Conte's eldest son confesses to drug trafficking. ](/news/2009/02/26/former-guinean-president-lansana-conta-c-s-eldest-son-confesses-to-drug-trafficking.md)
 _Context: Guinea, Lansana Conté, President, anti-drug plan_

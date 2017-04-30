@@ -7,7 +7,7 @@ _Context: Colombo, Sri Lanka, Sri Lankan Civil War, hundreds of the minority Sri
 _Context: Italian, Salafist Group for Call and Combat, al-Qaeda_
 
 ### [ ''33rd G8 summit:''  President of the United States George W. Bush and President of Russia Vladimir Putin meet to discuss missile defense. ](/news/2007/06/7/33rd-g8-summit-p-president-of-the-united-states-george-w-bush-and-president-of-russia-vladimir-putin-meet-to-discuss-missile-defense.md)
-_Context: 33rd G8 summit, George W. Bush, Russian President, U.S. President, Vladimir Putin, missile defense shield_
+_Context: 33rd G8 summit, George W. Bush, President of the United States, Russian President, Vladimir Putin, missile defense shield_
 
 ### [ At least 12 citizens of Oman are killed by Cyclone Gonu. ](/news/2007/06/7/at-least-12-citizens-of-oman-are-killed-by-cyclone-gonu.md)
 _Context: Cyclone Gonu, Oman_
@@ -22,7 +22,7 @@ _Context: New Zealand, Reserve Bank of New Zealand, interest rate_
 _Context: Bartonella rochalimae, Scientist, United States, bacteria, strain_
 
 ### [ Cloture votes fail in the United States Senate on the Comprehensive Immigration Reform Act of 2007, potentially killing the bill. ](/news/2007/06/7/cloture-votes-fail-in-the-united-states-senate-on-the-comprehensive-immigration-reform-act-of-2007-potentially-killing-the-bill.md)
-_Context: Cloture, Comprehensive Immigration Reform Act of 2007, United States Senate_
+_Context: Cloture, Comprehensive Immigration Reform Act of 2007, Senator_
 
 ## [Previous Day...](/news/2007/06/6/index.md)
 

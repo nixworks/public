@@ -19,7 +19,7 @@ _Context: Tunisia_
 Relatives of the 52 victims of the 7 July 2005 bombings in London have marked the fourth anniversary of the attacks.
 
 ### [ An institutional child abuse museum is suggested in Ireland by the Labour Party's Ruairi Quinn, with Education Minister Batt O'Keeffe criticising the Opposition on the issue. ](/news/2009/07/7/an-institutional-child-abuse-museum-is-suggested-in-ireland-by-the-labour-party-s-ruairi-quinn-with-education-minister-batt-o-keeffe-criti.md)
-_Context: Batt O'Keeffe, Education Minister, Ireland, Labour Party, Ruairi Quinn, child abuse, museum, opposition_
+_Context: Batt O'Keeffe, Education Minister, Labour Party, Republic of Ireland, Ruairi Quinn, child abuse, museum, opposition_
 
 ### [ The United Nations Security Council condemns the recent missile launches by North Korea. ](/news/2009/07/7/the-united-nations-security-council-condemns-the-recent-missile-launches-by-north-korea.md)
 _Context: North Korea, United Nations, United Nations Security Council, missile launches_
@@ -55,7 +55,7 @@ Frontpage | New Straits Times : Authoritative source for Malaysia latest news on
 _Context: Darfur, International Criminal Court, Omar al-Bashir, President of Sudan, Sudan, conflict_
 
 ### [ Al Franken is sworn in as a U.S. Senator, the 60th caucusing with the Democratic Party which is a filibuster-proof majority. ](/news/2009/07/7/al-franken-is-sworn-in-as-a-u-s-senator-the-60th-caucusing-with-the-democratic-party-which-is-a-filibuster-proof-majority.md)
-_Context: Al Franken, Democratic, U.S. Senator, filibuster_
+_Context: Al Franken, Democrat, U.S. Senator, filibuster_
 
 ## [Previous Day...](/news/2009/07/6/index.md)
 

@@ -65,7 +65,7 @@ Hashim Thaci, the incumbent prime minister, has claimed victory in Kosovo&#039;s
 Tehran, Dec 13 (DPA) In a surprise move, Iranian President Mahmoud Ahmadinejad has fired Foreign Minister Manouchehr Mottaki, state media reported...
 
 ### [U.S. senator Bernie Sanders gives an 8.5 hour  senate speech denouncing the extension of tax cuts for the wealthiest Americans, citing the very large  inequality in income and  wealth and its growth, and that America is close to being a Banana republic. ](/news/2010/12/13/u-s-senator-bernie-sanders-gives-an-8-5-hour-senate-speech-denouncing-the-extension-of-tax-cuts-for-the-wealthiest-americans-citing-the-v.md)
-_Context:  inequality in income,  wealth, Banana republic, Bernie Sanders, United States Senate_
+_Context:  inequality in income,  wealth, Banana republic, Bernie Sanders, Senator_
 
 ### [A new species of fork-marked lemur has been identified in northeast Madagascar. ](/news/2010/12/13/a-new-species-of-fork-marked-lemur-has-been-identified-in-northeast-madagascar.md)
 _Context: Madagascar, fork-marked lemur_

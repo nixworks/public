@@ -16,7 +16,7 @@ _Context: California wildfires_
 _Context: Blackwater, Blackwater Baghdad shootings, Bureau of Diplomatic Security, Iraq, Richard J. Griffin, State Department_
 
 ### [ The United Kingdom announces a unilateral end to the Common Travel Area with the Republic of Ireland. From 2009, passports will be required for the first time, bringing to an end centuries of unimpeded travel between the two countries. ](/news/2007/10/24/the-united-kingdom-announces-a-unilateral-end-to-the-common-travel-area-with-the-republic-of-ireland-from-2009-passports-will-be-required.md)
-_Context: Common Travel Area, Ireland, United Kingdom_
+_Context: Common Travel Area, Republic of Ireland, United Kingdom_
 
 ### [  Reuters reports that Turkish forces launched an attack on Kurdistan Workers Party (PKK) positions in northern Iraq earlier in the week killing 34 PKK fighters. ](/news/2007/10/24/reuters-reports-that-turkish-forces-launched-an-attack-on-kurdistan-workers-party-pkk-positions-in-northern-iraq-earlier-in-the-week-kil.md)
 Turkish warplanes attacked a village in northern Iraq on Wednesday, an Iraqi Kurdish security official said, but Turkey said it wanted to hold back from a major incursion to give diplomacy a chance.

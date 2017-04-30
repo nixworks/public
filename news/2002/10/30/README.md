@@ -7,7 +7,7 @@ _Context: Iran, Iraq, Libya, Sudan, Syria, travel advisories_
 _Context: Balkan, Colombia, European Union, R. J. Reynolds, black market, cigarette, tobacco_
 
 ### [ The Minnesota Democratic-Farmer-Labor Party chose former Vice President of the United States Walter Mondale as their candidate for the United States Senate seat of recently deceased Senator Paul Wellstone from Minnesota.](/news/2002/10/30/the-minnesota-democraticafarmeralabor-party-chose-former-vice-president-of-the-united-states-walter-mondale-as-their-candidate-for-the.md)
-_Context: Democratic, Minnesota, Paul Wellstone, U.S. Vice President, United States Senate, Walter Mondale_
+_Context: Democratic, Minnesota, Paul Wellstone, Senator, U.S. Vice President, Walter Mondale_
 
 ## [Previous Day...](/news/2002/10/29/index.md)
 

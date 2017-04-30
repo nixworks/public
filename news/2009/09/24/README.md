@@ -1,7 +1,7 @@
 ## [2009-09-24](/news/2009/09/24/index.md)
 
 ### [ Treaty of Lisbon: Czech President Vaclav Klaus says he is "adamant" Irish voters will reject the European Union's Treaty of Lisbon when they vote on it again in the country's 2 October referendum, meaning his unwillingness to sign the treaty will be justified. ](/news/2009/09/24/treaty-of-lisbon-p-czech-president-va-clav-klaus-says-he-is-adamant-irish-voters-will-reject-the-european-union-s-treaty-of-lisbon-when-t.md)
-_Context: Czech, European Union, Ireland, Treaty of Lisbon, Václav Klaus, president, the second Irish referendum_
+_Context: Czech, European Union, Republic of Ireland, Treaty of Lisbon, Václav Klaus, president, the second Irish referendum_
 
 ### [ The 2009 G-20 Pittsburgh summit commences with two dozen world leaders in attendance.](/news/2009/09/24/the-2009-g-20-pittsburgh-summit-commences-with-two-dozen-world-leaders-in-attendance.md)
 _Context: G-20 Summit_
@@ -58,7 +58,7 @@ _Context: Tanzania, Tanzania Albino Society, men found guilty of killing an albi
 _Context: Bobby Cox, Braves, baseball_
 
 ### [ Governor Deval Patrick of Massachusetts chooses former Democratic National Committee chairman Paul G. Kirk, Jr. to replace former Senator Teddy Kennedy on a temporary basis, until elections can be held to choose a permanent replacement to fill the remainder of Kennedy's term.  ](/news/2009/09/24/governor-deval-patrick-of-massachusetts-chooses-former-democratic-national-committee-chairman-paul-g-kirk-jr-to-replace-former-senator-t.md)
-_Context: Democratic National Committee, Deval Patrick, Massachusetts, Massachusetts governor, Paul G. Kirk, Jr., Teddy Kennedy, United States Senate_
+_Context: Democratic National Committee, Deval Patrick, Massachusetts, Massachusetts governor, Paul G. Kirk, Jr., Senator, Teddy Kennedy_
 
 ### [ 2009 G-20 Pittsburgh summit: Leaders of the world converge on Pittsburgh, Pennsylvania for the opening of the G-20 Summit. ](/news/2009/09/24/2009-g-20-pittsburgh-summit-p-leaders-of-the-world-converge-on-pittsburgh-pennsylvania-for-the-opening-of-the-g-20-summit.md)
 _Context: G-20 Summit, Pittsburgh_

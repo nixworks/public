@@ -85,7 +85,7 @@ _Context: Keiko Fujimori, Ollanta Humala, Peruvian general election, President_
 _Context: Anthony Weiner, New York, Twitter, U.S. House_
 
 ### [Austan Goolsbee announces plans to leave the position of Chairman of President of the United States Council of Economic Advisers by September. ](/news/2011/06/6/austan-goolsbee-announces-plans-to-leave-the-position-of-chairman-of-president-of-the-united-states-council-of-economic-advisers-by-septembe.md)
-_Context: Austan Goolsbee, Council of Economic Advisers, U.S. President_
+_Context: Austan Goolsbee, Council of Economic Advisers, President of the United States_
 
 ## [Previous Day...](/news/2011/06/5/index.md)
 

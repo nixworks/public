@@ -1,7 +1,7 @@
 ## [2009-05-13](/news/2009/05/13/index.md)
 
 ### [ United States President Barack Obama proclaims May 2009 as Jewish American Heritage Month. ](/news/2009/05/13/united-states-president-barack-obama-proclaims-may-2009-as-jewish-american-heritage-month.md)
-_Context: Barack Obama, Jewish American Heritage Month, U.S. President, United States_
+_Context: Barack Obama, Jewish American Heritage Month, President of the United States, United States_
 
 ### [ Pope Benedict XVI advocates the creation of a Palestinian state. ](/news/2009/05/13/pope-benedict-xvi-advocates-the-creation-of-a-palestinian-state.md)
 _Context: Benedict XVI, Palestinian, Palestinian state, Pope, resume negotiations_

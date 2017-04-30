@@ -49,7 +49,7 @@ _Context: Burma, Myanmar Times_
 The authorities in Shanghai, China, announce they will introduce a one-dog policy to bring the canine population under control.
 
 ### [A Saudi Arabian student is arrested in Texas for allegedly planning a terrorist attack against the Dallas home of former President of the United States George W. Bush as a target as well as New York City and dams in California and Colorado. ](/news/2011/02/24/a-saudi-arabian-student-is-arrested-in-texas-for-allegedly-planning-a-terrorist-attack-against-the-dallas-home-of-former-president-of-the-un.md)
-_Context: California, Colorado, Dallas, Texas, George W. Bush, New York's, Saudi Arabia, Texas, U.S. President_
+_Context: California, Colorado, Dallas, Texas, George W. Bush, New York's, President of the United States, Saudi Arabia, Texas_
 
 ### [A British judge orders Julian Assange to be extradited to Sweden but the Wikileaks founder says that he will appeal. ](/news/2011/02/24/a-british-judge-orders-julian-assange-to-be-extradited-to-sweden-but-the-wikileaks-founder-says-that-he-will-appeal.md)
 A BRITISH judge has ordered Julian Assange to be extradited to Sweden to face sexual assault allegations, but the Australian plans to lodge an appeal and still hopes the matter can be finalised in the UK.

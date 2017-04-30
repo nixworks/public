@@ -7,7 +7,7 @@ _Context: genome, platypus_
 _Context: Prime Minister, Silvio Berlusconi, forming a government_
 
 ### [ Hillary Clinton vows to remain as a candidate in the United States presidential election, 2008 despite financial problems which required her to lend her campaign $6.4 million dollars and dwindling chances of winning the Democratic Party nomination. ](/news/2008/05/7/hillary-clinton-vows-to-remain-as-a-candidate-in-the-united-states-presidential-election-2008-despite-financial-problems-which-required-he.md)
-_Context: 2008, Democratic, Hillary Clinton_
+_Context: 2008, Democrat, Hillary Clinton_
 
 ### [ Brian Cowen, TD is elected as Irish Taoiseach by 88 votes to 76. ](/news/2008/05/7/brian-cowen-td-is-elected-as-irish-taoiseach-by-88-votes-to-76.md)
 Brian Cowen has been confirmed as Ireland&#39;s 12th Taoiseach and revealed his first Cabinet.

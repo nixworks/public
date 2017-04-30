@@ -4,7 +4,7 @@
 _Context: ''Columbia'' disaster, Discovery, February 2003, July 13, STS-114_
 
 ### [ U.S. Congressman Rob Portman was confirmed by the United States Senate to be United States Trade Representative. ](/news/2005/04/29/u-s-congressman-rob-portman-was-confirmed-by-the-united-states-senate-to-be-united-states-trade-representative.md)
-_Context: Rob Portman, United States, United States Senate, United States Trade Representative_
+_Context: Rob Portman, Senator, United States, United States Trade Representative_
 
 ### [ The death toll in the Amagasaki rail crash in Japan totals 106. Rescue efforts are over and police begin the crash investigation. ](/news/2005/04/29/the-death-toll-in-the-amagasaki-rail-crash-in-japan-totals-106-rescue-efforts-are-over-and-police-begin-the-crash-investigation.md)
 _Context: Amagasaki rail crash, Japan_

@@ -19,10 +19,10 @@ _Context: Myanmar, North Korea_
 _Context: Baath Party, National Progressive Front, People's Council of Syria, Syria, Syrian parliamentary election, 2007, boycott_
 
 ### [ The Senate of the United States approves a funding measure for the War in Iraq calling for the staged withdrawal of forces. U.S. President George W. Bush responded by stating that his reaction to the bill will be to veto it. ](/news/2007/04/26/the-senate-of-the-united-states-approves-a-funding-measure-for-the-war-in-iraq-calling-for-the-staged-withdrawal-of-forces-u-s-president.md)
-_Context: George W. Bush, Senator, U.S. President, War in Iraq, veto_
+_Context: George W. Bush, President of the United States, Senator, War in Iraq, veto_
 
 ### [ United States presidential election, 2008: All eight official Democratic candidates debate in the first 2008 presidential debate, hosted by South Carolina State University and the South Carolina Democratic Party. ](/news/2007/04/26/united-states-presidential-election-2008-all-eight-official-democratic-candidates-debate-in-the-first-2008-presidential-debate-hosted-by.md)
-_Context: 2008, 2008 presidential debate, Democratic, South Carolina Democratic Party, South Carolina State University, candidates_
+_Context: 2008, 2008 presidential debate, Democrat, South Carolina Democratic Party, South Carolina State University, candidates_
 
 ### [ A former commander of a United States military detention center in Iraq is detained and under investigation for "aiding the enemy". ](/news/2007/04/26/a-former-commander-of-a-united-states-military-detention-center-in-iraq-is-detained-and-under-investigation-for-aiding-the-enemy.md)
 _Context: Iraq, United States_

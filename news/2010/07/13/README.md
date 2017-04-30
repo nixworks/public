@@ -112,7 +112,7 @@ _Context: Federal Communications Commission's, United States appeals court_
 _Context: Barack Obama, Jacob Lew, Office of Management and Budget, Peter Orszag_
 
 ### [The United States Senate announces it will vote on financial reform legislations on 15 July. ](/news/2010/07/13/the-united-states-senate-announces-it-will-vote-on-financial-reform-legislations-on-15-july.md)
-_Context: United States Senate, financial reform_
+_Context: Senator, financial reform_
 
 ### [The Philippines' first typhoon of the year moves toward the country's eastern coast, with 33 of the country's 81 provinces and the capital Manila being placed under storm alert. ](/news/2010/07/13/the-philippines-first-typhoon-of-the-year-moves-toward-the-country-s-eastern-coast-with-33-of-the-country-s-81-provinces-and-the-capital-m.md)
 _Context: Manila, Philippines_

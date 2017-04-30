@@ -10,7 +10,7 @@ Cypriot President Tassos Papadopoulos was eliminated in the first round of a pre
 _Context: Kosovo, Serbia, independent_
 
 ### [ President of the United States George W. Bush offers a $700 million aid package to Tanzania. ](/news/2008/02/17/president-of-the-united-states-george-w-bush-offers-a-700-million-aid-package-to-tanzania.md)
-_Context: George W. Bush, Tanzania, U.S. President, U.S. dollar_
+_Context: George W. Bush, President of the United States, Tanzania, U.S. dollar_
 
 ### [ Dozens of people are killed and dozens more injured as a bomb explodes in a dog fighting match in Kandahar, Afghanistan. ](/news/2008/02/17/dozens-of-people-are-killed-and-dozens-more-injured-as-a-bomb-explodes-in-a-dog-fighting-match-in-kandahar-afghanistan.md)
 _Context: Afghanistan, Kandahar, bomb explodes, dog fighting_

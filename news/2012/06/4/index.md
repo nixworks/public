@@ -31,7 +31,7 @@ _Context: Islamabad, Pakistan_
 Police in Berlin arrest the Canadian porn actor wanted for the murder and dismemberment of his lover in Montreal.
 
 ### [The Parliament of Albania fails without a vote in the second round to elect the President of the Republic of Albania. ](/news/2012/06/4/the-parliament-of-albania-fails-without-a-vote-in-the-second-round-to-elect-the-president-of-the-republic-of-albania.md)
-_Context: Parliament, President, Republic of Albania, elects_
+_Context: Assembly, President of Albania, Republic of Albania, elects_
 
 ### [The Prime Minister of Japan Yoshihiko Noda announces a Cabinet reshuffle following a split in the ruling Democratic Party of Japan. ](/news/2012/06/4/the-prime-minister-of-japan-yoshihiko-noda-announces-a-cabinet-reshuffle-following-a-split-in-the-ruling-democratic-party-of-japan.md)
 _Context: Democratic Party, Prime Minister, Yoshihiko Noda_

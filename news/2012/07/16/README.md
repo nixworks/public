@@ -25,7 +25,7 @@ Jon Lord, keyboard player and a founder member of rock band Deep Purple, dies af
 Kitty Wells, the long-reigning “Queen of Country Music” and the first woman to reach No. 1 on the country chart with her attitude-changing hit “It Wasn’t God Who Made Honky Tonk Angels,” died Monday at age 92 of complications from a stroke.
 
 ### [The United States Senate accuses the HSBC bank of laundering Mexican drug money. ](/news/2012/07/16/the-united-states-senate-accuses-the-hsbc-bank-of-laundering-mexican-drug-money.md)
-_Context: HSBC, United States Senate_
+_Context: HSBC, Senator_
 
 ### [The launch of a flagship nuclear power station in Finland is delayed for a third time. ](/news/2012/07/16/the-launch-of-a-flagship-nuclear-power-station-in-finland-is-delayed-for-a-third-time.md)
 The launch of a flagship nuclear power station in Finland is delayed for a third time, Finnish electricity company TVO says.

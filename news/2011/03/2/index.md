@@ -76,13 +76,13 @@ _Context: Cyprus, Nicosia, Turkish government, Turks_
 Senate Republicans stepped up their efforts Wednesday to compel the 14 Senate Democrats who fled Wisconsin two weeks ago to come home.
 
 ### [The President of the United States Barack Obama signs a bill preventing a shutdown of the United States government for another two weeks. ](/news/2011/03/2/the-president-of-the-united-states-barack-obama-signs-a-bill-preventing-a-shutdown-of-the-united-states-government-for-another-two-weeks.md)
-_Context: Barack Obama, U.S. President, United States government_
+_Context: Barack Obama, President of the United States, United States government_
 
 ### [The South Dakota Senate passes a bill requiring additional steps to provide informed consent before a woman can have an abortion. ](/news/2011/03/2/the-south-dakota-senate-passes-a-bill-requiring-additional-steps-to-provide-informed-consent-before-a-woman-can-have-an-abortion.md)
 After a long and emotional debate, the South Dakota Senate on Wednesday approved a bill requiring additional steps to provide informed consent before a woman can have an abortion.
 
 ### [Hawaii Democratic Party Senator Daniel Akaka announces that he will not be standing for reelection in the United States Senate election in Hawaii. ](/news/2011/03/2/hawaii-democratic-party-senator-daniel-akaka-announces-that-he-will-not-be-standing-for-reelection-in-the-united-states-senate-election-in-h.md)
-_Context: Daniel Akaka, Democratic, Hawaii, Senator, United States Senate election in Hawaii_
+_Context: Daniel Akaka, Democrat, Hawaii, Senator, United States Senate election in Hawaii_
 
 ### [Elections in the Netherlands: Dutch provincial elections of 2011. The People's Party for Freedom and Democracy (VVD) obtain the highest number of votes cast, The Labour Party (PvdA) obtain the second highest number of votes. ](/news/2011/03/2/elections-in-the-netherlands-dutch-provincial-elections-of-2011-the-people-s-party-for-freedom-and-democracy-vvd-obtain-the-highest-numb.md)
 _Context: Dutch provincial elections of 2011, Elections in the Netherlands, Labour Party, People's Party for Freedom and Democracy_

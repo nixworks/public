@@ -7,7 +7,7 @@ Georgian President Mikhail Saakashvili said the former Soviet republic will rais
 _Context: 2006-07 Southern Hemisphere tropical cyclone season, George, Port Hedland, Western Australia, tropical cyclone_
 
 ### [ Democratic members of the U.S. House of Representatives propose legislation that would withdraw all U.S. combat troops from Iraq by August 2008 or sooner if certain requirements are not met. ](/news/2007/03/8/democratic-members-of-the-u-s-house-of-representatives-propose-legislation-that-would-withdraw-all-u-s-combat-troops-from-iraq-by-august.md)
-_Context: 2008, Democratic, Iraq, U.S. House, U.S. military personnel_
+_Context: 2008, Democrat, Iraq, U.S. House, U.S. military personnel_
 
 ### [ 2007 National People's Congress: The People's Republic of China launches a property law designed to better protect individual property rights. ](/news/2007/03/8/2007-national-people-s-congress-the-people-s-republic-of-china-launches-a-property-law-designed-to-better-protect-individual-property-righ.md)
 _Context: 2007 National People's Congress, China's, property rights_
@@ -19,7 +19,7 @@ _Context: Army, Sri Lanka, Sri Lankan Civil War, Tamil Tigers_
 _Context:  Insurgency in Somalia, AMISOM, African Union, Mogadishu, War in Somalia, ambush_
 
 ### [ U.S. President George W. Bush departs on a tour of Latin America that will take him to Brazil, Uruguay, Colombia, Guatemala and Mexico. Upon arrival in Sao Paulo he is greeted with protest demonstrations. ](/news/2007/03/8/u-s-president-george-w-bush-departs-on-a-tour-of-latin-america-that-will-take-him-to-brazil-uruguay-colombia-guatemala-and-mexico-upo.md)
-_Context: Brazil, Colombia, George W. Bush, Guatemala, Latin America, Mexico, Protest, São Paulo, U.S. President, Uruguay, demonstration_
+_Context: Brazil, Colombia, George W. Bush, Guatemala, Latin America, Mexico, President of the United States, Protest, São Paulo, Uruguay, demonstration_
 
 ### [ Greek Cypriots dismantle the portion of the separation fence between the Republic of Cyprus and the Turkish Republic of Northern Cyprus in Nicosia. ](/news/2007/03/8/greek-cypriots-dismantle-the-portion-of-the-separation-fence-between-the-republic-of-cyprus-and-the-turkish-republic-of-northern-cyprus-in.md)
 _Context: Cyprus, Greek Cypriots, Nicosia, TRNC, separation fence_

@@ -13,7 +13,7 @@ _Context: Den Helder, Dutch, North Sea, Texel, hypothermia, offshore oil platfor
 _Context: Beirut, Lebanon, Maronite Christian, Pierre Amine Gemayel, assassinated_
 
 ### [ President of the United States George W. Bush and the Prime Minister of Iraq Nouri al-Maliki announce plans to meet next week to discuss security issues in Iraq. ](/news/2006/11/21/president-of-the-united-states-george-w-bush-and-the-prime-minister-of-iraq-nouri-al-maliki-announce-plans-to-meet-next-week-to-discuss-se.md)
-_Context: George W. Bush, Iraq, Iraq Prime Minister, Nouri al-Maliki, U.S. President_
+_Context: George W. Bush, Iraq, Iraq Prime Minister, Nouri al-Maliki, President of the United States_
 
 ### [ Twenty-three miners are killed in a gas explosion in a coal mine in Ruda Slaska, Poland, approximately 1,000 meters below the ground. ](/news/2006/11/21/twenty-three-miners-are-killed-in-a-gas-explosion-in-a-coal-mine-in-ruda-alaska-poland-approximately-1-000-meters-below-the-ground.md)
 _Context: Poland, Ruda Śląska_

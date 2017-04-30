@@ -7,7 +7,7 @@ _Context: Brazil, Doha round of negotiations, European Union, India, New Delhi, 
 Critics of the Bush administration say that the focus on the Iraq war has jeopardized the early military victory in Afghanistan in 2001.
 
 ### [ The United States Senate votes to ease funding restrictions on stem-cell research but President Bush threatens to veto the bill. ](/news/2007/04/11/the-united-states-senate-votes-to-ease-funding-restrictions-on-stem-cell-research-but-president-bush-threatens-to-veto-the-bill.md)
-_Context: George W. Bush, U.S. President, United States Senate, stem-cell research, veto_
+_Context: George W. Bush, President of the United States, Senator, stem-cell research, veto_
 
 ### [ The United States extends the tour of duty for troops in Iraq and Afghanistan from a year to 15 months. ](/news/2007/04/11/the-united-states-extends-the-tour-of-duty-for-troops-in-iraq-and-afghanistan-from-a-year-to-15-months.md)
 _Context: Afghanistan, Iraq, United States, tour of duty_
@@ -19,7 +19,7 @@ _Context: 2008, Darfur conflict, Joseph Biden, United States Senate Foreign Rela
 _Context: Midwestern, snow, spring_
 
 ### [ Former U.S. Senator and prospective presidential candidate Fred Thompson announces he has lymphoma. ](/news/2007/04/11/former-u-s-senator-and-prospective-presidential-candidate-fred-thompson-announces-he-has-lymphoma.md)
-_Context: 2008, Fred Thompson, United States Senate, lymphoma_
+_Context: 2008, Fred Thompson, Senator, lymphoma_
 
 ### [ Former Prime Minister of Bangladesh Sheikh Hasina is charged with murder. ](/news/2007/04/11/former-prime-minister-of-bangladesh-sheikh-hasina-is-charged-with-murder.md)
 _Context: Prime Minister, Sheikh Hasina, murder_

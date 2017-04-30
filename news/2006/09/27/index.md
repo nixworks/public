@@ -7,13 +7,13 @@ _Context: Bailey, Colorado, Platte Canyon High School, hostage situation_
 _Context: 2008 Republican National Convention, Minneapolis–St. Paul, Republican_
 
 ### [ Legislation passes in the U.S. House and Senate giving President Bush authority to detain, interrogate and try terrorism detainees before military commissions. (San Francisco Examiner)](/news/2006/09/27/legislation-passes-in-the-u-s-house-and-senate-giving-president-bush-authority-to-detain-interrogate-and-try-terrorism-detainees-before-m.md)
-_Context: George W. Bush, U.S. House, United States Senate, military commission, terrorism_
+_Context: George W. Bush, Senator, U.S. House, military commission, terrorism_
 
 ### [ A funeral service for Empress Maria Fyodorovna of Russia is held at the Gothic Chapel at Peterhof. ](/news/2006/09/27/a-funeral-service-for-empress-maria-fyodorovna-of-russia-is-held-at-the-gothic-chapel-at-peterhof.md)
 _Context: Gothic Chapel, Maria Fyodorovna, Peterhof_
 
 ### [ U.S. Democrats urge the Bush administration to release in full a report linking the Iraq conflict and global terrorism. ](/news/2006/09/27/u-s-democrats-urge-the-bush-administration-to-release-in-full-a-report-linking-the-iraq-conflict-and-global-terrorism.md)
-_Context: Democratic, George W. Bush, Iraq conflict, terrorism_
+_Context: Democrat, George W. Bush, Iraq conflict, terrorism_
 
 ### [ Israeli-Palestinian conflict: An Israeli court sentences Asher Weisgan to four consecutive life sentences plus an additional 12 years in prison for murdering four Palestinian workmen and wounding a fifth in August 2005. Weisgan must also pay more than 1,000,000 shekels ($US 235,000) in compensation to the victims' families. ](/news/2006/09/27/israeliapalestinian-conflict-p-an-israeli-court-sentences-asher-weisgan-to-four-consecutive-life-sentences-plus-an-additional-12-years-in.md)
 _Context: Asher Weisgan, August 2005, Israel, Israeli–Palestinian conflict, NIS, Palestinian, life sentence_

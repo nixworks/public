@@ -4,13 +4,13 @@
 _Context: Bernard Francis Law, Pope, Pope John Paul II, Vatican, diocese, priest, sexual relations_
 
 ### [US Senate majority leader Trent Lott apologizes on television amid growing outcry for his resignation from both ends of the political spectrum for comments made at Senator Strom Thurmond's 100th birthday party which seemed to support Thurmond's 1948 segregationist presidential campaign platform. ](/news/2002/12/13/us-senate-majority-leader-trent-lott-apologizes-on-television-amid-growing-outcry-for-his-resignation-from-both-ends-of-the-political-spectr.md)
-_Context: Strom Thurmond, Trent Lott, United States Senate, segregationist_
+_Context: Senator, Strom Thurmond, Trent Lott, segregationist_
 
 ### [The Geminid meteor shower peaks tonight. Best viewing is between midnight and dawn.](/news/2002/12/13/the-geminid-meteor-shower-peaks-tonight-best-viewing-is-between-midnight-and-dawn.md)
 _Context: Geminids_
 
 ### [Henry Kissinger stepped down as the chairman of a panel investigating the September 11 attacks, citing conflict of interest with his clients.  The choice of Kissinger by President George W. Bush.](/news/2002/12/13/henry-kissinger-stepped-down-as-the-chairman-of-a-panel-investigating-the-september-11-attacks-citing-conflict-of-interest-with-his-clients.md)
-_Context: George W. Bush, Henry Kissinger, September 11 attacks, U.S. President_
+_Context: George W. Bush, Henry Kissinger, President of the United States, September 11 attacks_
 
 ### [The European Union invited Poland, Hungary, the Czech Republic, Slovakia, Slovenia, Latvia, Estonia, Lithuania, Cyprus and Malta to join.  Expansion is scheduled for May 2004.](/news/2002/12/13/the-european-union-invited-poland-hungary-the-czech-republic-slovakia-slovenia-latvia-estonia-lithuania-cyprus-and-malta-to-join-e.md)
 _Context: Cyprus, Czech, Estonia, European Union, Hungary, Latvia, Lithuania, Maltese, Poland, Slovakia's, Slovenia_

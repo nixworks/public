@@ -19,7 +19,7 @@ _Context: Baikonur Cosmodrome, Expedition 23, International Space Station, Soyuz
 _Context: subway_
 
 ### [Record rains cause flooding across New England, with Rhode Island hit the hardest. Federal Emergency Management Agency (FEMA) officials say as many as 200,000 people in Rhode Island could be affected. President Barack Obama talks to Governor Don Carcieri about the damage. ](/news/2010/04/2/record-rains-cause-flooding-across-new-england-with-rhode-island-hit-the-hardest-federal-emergency-management-agency-fema-officials-say.md)
-_Context: Barack Obama, Don Carcieri, New England, Rhode Island, Rhode Island Governor, U.S. Federal Emergency Management Agency, U.S. President_
+_Context: Barack Obama, Don Carcieri, New England, President of the United States, Rhode Island, Rhode Island Governor, U.S. Federal Emergency Management Agency_
 
 ### [Limerick pubs break with tradition by opening on Good Friday following the recent landmark court ruling. ](/news/2010/04/2/limerick-pubs-break-with-tradition-by-opening-on-good-friday-following-the-recent-landmark-court-ruling.md)
 Pubs in the Limerick area have broken the tradition of staying closed on Good Friday and open for business.

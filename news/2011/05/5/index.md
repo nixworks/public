@@ -67,10 +67,10 @@ _Context: Canadian dollar, Newfoundland, Taiwan, illegal dumping, oil spill_
 The people of Wales are going to the polls to elect the next Welsh Assembly Government and vote in the AV referendum.
 
 ### [President of the United States Barack Obama visits the World Trade Center site in New York City to commemorate the victims of the September 11 attacks following the death of Osama bin Laden. ](/news/2011/05/5/president-of-the-united-states-barack-obama-visits-the-world-trade-center-site-in-new-york-city-to-commemorate-the-victims-of-the-september.md)
-_Context: Barack Obama, Ground Zero, New York's, September 11 attacks, U.S. President, father's killing_
+_Context: Barack Obama, Ground Zero, New York's, President of the United States, September 11 attacks, father's killing_
 
 ### [A United States Court of Appeals for the Third Circuit rules that former Olympic champion Carl Lewis be placed on the ballot for a Democrat primary election  for a New Jersey State Senate seat. ](/news/2011/05/5/a-united-states-court-of-appeals-for-the-third-circuit-rules-that-former-olympic-champion-carl-lewis-be-placed-on-the-ballot-for-a-democrat.md)
-_Context: Carl Lewis, Democratic, New Jersey State Senate, United States court, primary election_
+_Context: Carl Lewis, Democrat, New Jersey State Senate, United States court, primary election_
 
 ### [The Ivory Coast Constitutional Council confirms that Alassane Ouattara won the 2010 presidential election reversing a decision that had found in favour of the previous incumbent Laurent Gbagbo. That original decision (now reversed) had sparked a brief war. ](/news/2011/05/5/the-ivory-coast-constitutional-council-confirms-that-alassane-ouattara-won-the-2010-presidential-election-reversing-a-decision-that-had-foun.md)
 _Context: 2010 presidential election, Alassane Ouattara, Ivory Coast Constitutional Council, Laurent Gbagbo, war_

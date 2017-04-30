@@ -10,7 +10,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Kosovo, Parliament of Serbia, United Nations_
 
 ### [ United States Senate election, 2008: Author and comedian Al Franken announces his candidacy for Senator of Minnesota. ](/news/2007/02/14/united-states-senate-election-2008-author-and-comedian-al-franken-announces-his-candidacy-for-senator-of-minnesota.md)
-_Context: Al Franken, Minnesota, United States Senate, United States Senate election, 2008, comedian_
+_Context: Al Franken, Minnesota, Senator, United States Senate election, 2008, comedian_
 
 ### [ Vodafone's Chief Executive, Arun Sarin, says the company will spend US$2 billion to enhance its investments in India. ](/news/2007/02/14/vodafone-s-chief-executive-arun-sarin-says-the-company-will-spend-us-2-billion-to-enhance-its-investments-in-india.md)
 _Context: Arun Sarin, CEO, India, U.S. dollar, Vodafone Group Plc_

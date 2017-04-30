@@ -4,7 +4,7 @@
 _Context: Internet_
 
 ### [ New York Governor David Paterson appoints Kirsten Gillibrand to Hillary Clinton's vacated United States Senate seat. ](/news/2009/01/23/new-york-governor-david-paterson-appoints-kirsten-gillibrand-to-hillary-clinton-s-vacated-united-states-senate-seat.md)
-_Context: David Paterson, Hillary Clinton, Kirsten Gillibrand, New York, New York Governor, United States, United States Senate_
+_Context: David Paterson, Hillary Clinton, Kirsten Gillibrand, New York, New York Governor, Senator, United States_
 
 ### [ Japan launches the world's first greenhouse-gas-monitoring satellite, ''Ibuki'', from the Tanegashima Space Center. ](/news/2009/01/23/japan-launches-the-world-s-first-greenhouse-gas-monitoring-satellite-ibuki-from-the-tanegashima-space-center.md)
 Japan launched a satellite onFriday to monitor greenhouse gases around the world in the hopethat the data it gathers will help global efforts to combatclimate change.

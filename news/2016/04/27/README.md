@@ -46,7 +46,7 @@ The Austrian parliament passes a controversial new law restricting asylum rights
 Share this on WhatsApp
 
 ### [United Nations Security Council members are considering a draft resolution that would  restore the UN mission in Western Sahara to full functionality. Last month, Morocco  expelled 75 UN staffers. ](/news/2016/04/27/united-nations-security-council-members-are-considering-a-draft-resolution-that-would-restore-the-un-mission-in-western-sahara-to-full-func.md)
-_Context: Moroccan, UN mission in Western Sahara, United Nations Security Council_
+_Context: MINURSO, Moroccan, United Nations Security Council_
 
 ### [Senior Kurdish and Shi'ite Muslim leaders agree to withdraw from  Tuz Khurmato, Iraq, where recent violence has killed more than 10 people. ](/news/2016/04/27/senior-kurdish-and-shi-ite-muslim-leaders-agree-to-withdraw-from-tuz-khurmato-iraq-where-recent-violence-has-killed-more-than-10-people.md)
 _Context: Iraq, Iraqi Civil War, Iraqi Kurdistan, Shi'ite, Tuz Khurmato_
@@ -76,7 +76,7 @@ An Iranian asylum seeker being held on Nauru is in a critical condition after se
 North Korea announces it will hold a Workers Party congress next month, the first for the ruling party in nearly 40 years.
 
 ### [Texas Senator Ted Cruz names former Republican presidential candidate Carly Fiorina as his vice-presidential running mate. ](/news/2016/04/27/texas-senator-ted-cruz-names-former-republican-presidential-candidate-carly-fiorina-as-his-vice-presidential-running-mate.md)
-_Context: 2016 U.S. presidential election, Carly Fiorina, Republican, Ted Cruz, Ted Cruz presidential campaign, 2016, Texas, United States Senate, presidential candidate_
+_Context: 2016 U.S. presidential election, Carly Fiorina, Republican, Senator, Ted Cruz, Ted Cruz presidential campaign, 2016, Texas, presidential candidate_
 
 ### [Bradford West MP Naz Shah is suspended from the opposition Labour Party over comments she made on Facebook about Israel. ](/news/2016/04/27/bradford-west-mp-naz-shah-is-suspended-from-the-opposition-labour-party-over-comments-she-made-on-facebook-about-israel.md)
 Labour suspends MP Naz Shah over a Facebook post suggesting Israel should be moved to America.

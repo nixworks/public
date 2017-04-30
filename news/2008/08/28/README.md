@@ -1,7 +1,7 @@
 ## [2008-08-28](/news/2008/08/28/index.md)
 
 ### [ U.S. presidential election:  Illinois Senator Barack Obama accepts the nomination of the Democratic Party at the INVESCO Field at Mile High in Denver, Colorado, becoming the first African American to be nominated by a major party for election as President of the United States. ](/news/2008/08/28/u-s-presidential-election-illinois-senator-barack-obama-accepts-the-nomination-of-the-democratic-party-at-the-invesco-field-at-mile-high.md)
-_Context: African-American, Barack Obama, Democratic, Democratic National Convention, Denver, Colorado, INVESCO Field at Mile High, Illinois, Senator, U.S. President, U.S. presidential election_
+_Context: African-American, Barack Obama, Democrat, Democratic National Convention, Denver, Colorado, INVESCO Field at Mile High, Illinois, President of the United States, Senator, U.S. presidential election_
 
 ### [ Mexico's Supreme Court resolves by an 8-3 vote to uphold the constitutionality of the Federal District's 2007 Abortion Law. ](/news/2008/08/28/mexico-s-supreme-court-resolves-by-an-8a3-vote-to-uphold-the-constitutionality-of-the-federal-district-s-2007-abortion-law.md)
 The controversial case has been watched closely by the rest of the country, and may push other states to liberalize their own abortion laws.

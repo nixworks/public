@@ -67,7 +67,7 @@ The Conservatives elect Andrew RT Davies as their leader in the Welsh assembly, 
 Shortly after President Obama and congressional leaders ended their meeting on the debt ceiling, the White House announced a Friday-morning news conference.
 
 ### [The Democratic Governor of Minnesota Mark Dayton and Republican legislative leaders reach a budget deal which will end a shutdown of the US state government within days. ](/news/2011/07/14/the-democratic-governor-of-minnesota-mark-dayton-and-republican-legislative-leaders-reach-a-budget-deal-which-will-end-a-shutdown-of-the-us.md)
-_Context: Democratic, Mark Dayton, Minnesota, Minnesota Governor, Republican, legislative_
+_Context: Democrat, Mark Dayton, Minnesota, Minnesota Governor, Republican, legislative_
 
 ### [Neptune completes its first orbit of the Sun since its discovery in 1846. ](/news/2011/07/14/neptune-completes-its-first-orbit-of-the-sun-since-its-discovery-in-1846.md)
 Neptune has just completed its first full orbit since its discovery 165 years ago.

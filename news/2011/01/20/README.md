@@ -49,7 +49,7 @@ The largest rocket ever launched from the U.S. West Coast blasted off on Thursda
 _Context: Bolivia, China's, Hong Kong, U.S. dollar, cocaine_
 
 ### [New trials are reported to be starting soon at Guantanamo Bay after the United States Congress blocks President of the United States Barack Obama's attempts to close the prison; The Pentagon refuses to comment. ](/news/2011/01/20/new-trials-are-reported-to-be-starting-soon-at-guanta-namo-bay-after-the-united-states-congress-blocks-president-of-the-united-states-barack.md)
-_Context: Barack Obama, Guantánamo Bay, The Pentagon, U.S. Congress, U.S. President_
+_Context: Barack Obama, Guantánamo Bay, President of the United States, The Pentagon, U.S. Congress_
 
 ### [Haiti's former president Jean-Claude "Baby Doc" Duvalier, now facing charges of corruption and theft of funds, hopes to becomes president again, according to his lawyer. ](/news/2011/01/20/haiti-s-former-president-jean-claude-baby-doc-duvalier-now-facing-charges-of-corruption-and-theft-of-funds-hopes-to-becomes-president-ag.md)
 Former president Jean-Claude Duvalier seeks a return to power, despite facing corruption and theft charges.

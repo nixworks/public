@@ -7,7 +7,7 @@ _Context: Austria, Belgium, Bulgaria, Denmark, Estonia, European Parliament, Eur
 Search crews have spotted more bodies and found a large amount of debris from the Air France plane that plunged into the Atlantic ocean.
 
 ### [ Bolivia's government seeks two Irish passport-holders who are allegedly connected to the attempted assassination of President Evo Morales in April. ](/news/2009/06/7/bolivia-s-government-seeks-two-irish-passport-holders-who-are-allegedly-connected-to-the-attempted-assassination-of-president-evo-morales-i.md)
-_Context: April 2009, Bolivia, Evo Morales, Ireland, President of Bolivia, assassinated, government, passport_
+_Context: April 2009, Bolivia, Evo Morales, President of Bolivia, Republic of Ireland, assassinated, government, passport_
 
 ### [ A seven-day gay pride festival is held for the first time in Shanghai, China. ](/news/2009/06/7/a-seven-day-gay-pride-festival-is-held-for-the-first-time-in-shanghai-china.md)
 _Context: China's, Shanghai, festival, gay pride_

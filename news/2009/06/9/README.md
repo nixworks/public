@@ -16,7 +16,7 @@ _Context: Indians in Australia, Sydney, attacks on Indian students_
 The Taoiseach, Brian Cowen, has told the Fianna Fáil parliamentary party that he will meet individual TDs and Senators to discuss the outcome of the local and European elections.
 
 ### [ Two Democrats cross party lines and join Republicans to swing control of the Senate of the U.S. state of New York to the Republican Party. ](/news/2009/06/9/two-democrats-cross-party-lines-and-join-republicans-to-swing-control-of-the-senate-of-the-u-s-state-of-new-york-to-the-republican-party.md)
-_Context: Democratic, New York, Republican, Senate_
+_Context: Democrat, New York, Republican, Senate_
 
 ### [ Royal Dutch Shell is to pay out $15.5m (9.7m) in a legal settlement over its alleged complicity in the 1995 execution of several Nigerian environmental activists, including author Ken Saro-Wiwa, in Nigeria in 1995. ](/news/2009/06/9/royal-dutch-shell-is-to-pay-out-15-5m-ps9-7m-in-a-legal-settlement-over-its-alleged-complicity-in-the-1995-execution-of-several-nigerian.md)
 Royal Dutch Shell has agreed to a $15.5m payout to settle a lawsuit alleging complicity in murder, torture and other abuses by Nigeria&#39;s former military government.

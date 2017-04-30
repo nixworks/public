@@ -25,7 +25,7 @@ At least 46 people have been killed in a landslide triggered by heavy rains in n
 _Context: Afghanistan, China's, Kam Air, Kandahar, Xinjiang Autonomous Region_
 
 ### [ Former Taoiseach of Ireland Garret FitzGerald is among twenty Irish nationals who are quarantined at a French chateau due to swine flu. ](/news/2009/08/9/former-taoiseach-of-ireland-garret-fitzgerald-is-among-twenty-irish-nationals-who-are-quarantined-at-a-french-chateau-due-to-swine-flu.md)
-_Context: France, Garret FitzGerald, Ireland, Taoiseach, swine flu_
+_Context: France, Garret FitzGerald, Republic of Ireland, Taoiseach, swine flu_
 
 ### [ A senior General from the Iranian Revolutionary Guard calls for opposition leaders Mohammad Khatami, Mir Hossein Mousavi and Mehdi Karroubi to stand trial. ](/news/2009/08/9/a-senior-general-from-the-iranian-revolutionary-guard-calls-for-opposition-leaders-mohammad-khatami-mir-hossein-mousavi-and-mehdi-karroubi.md)
 Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar and provide the latest information on weather, currency rates, Prayer in addition to the latest developments in the political events, economic, sporting, cultural and artistic locally and internationally, and much much more

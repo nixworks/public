@@ -22,7 +22,7 @@ _Context: Democratic Republic of the Congo, Lord's Resistance Army, Ugandan, Uni
 _Context: Dominique de Villepin, Prime Minister_
 
 ### [ Ohio Iraq War veteran Paul Hackett is expected to run in the state Democratic primary to contest the seat of Republican Senator Mike DeWine.  Hackett lost in a closely contested House race on August 2.](/news/2005/10/4/ohio-iraq-war-veteran-paul-hackett-is-expected-to-run-in-the-state-democratic-primary-to-contest-the-seat-of-republican-senator-mike-dewine.md)
-_Context: August 2, Democratic, Iraq War, Mike DeWine, Ohio, Paul Hackett, Republican, U.S. House, United States Senator_
+_Context: August 2, Democrat, Iraq War, Mike DeWine, Ohio, Paul Hackett, Republican, U.S. House, United States Senator_
 
 ### [ Roy J. Glauber, John L. Hall and Theodor W. Hansch share in the 2005 Nobel Prize in Physics. ](/news/2005/10/4/roy-j-glauber-john-l-hall-and-theodor-w-ha-nsch-share-in-the-2005-nobel-prize-in-physics.md)
 _Context: John L. Hall, Nobel Prize in Physics, Roy J. Glauber, Theodor W. Hänsch_

@@ -79,7 +79,7 @@ _Context: Central Asia, Kyrgyzstan, parliamentary democracy_
 Minister for Justice Dermot Ahern has said that he will not contest his Dáil seat at the next General Election.
 
 ### [United States Secretary of Defense Robert Gates urges the United States Senate to abolish "don't ask don't tell" for gays and lesbians serving in the US military and releases a report showing that ending the policy would have little impact. ](/news/2010/11/30/united-states-secretary-of-defense-robert-gates-urges-the-united-states-senate-to-abolish-don-t-ask-don-t-tell-for-gays-and-lesbians-servi.md)
-_Context: Robert Gates, Secretary of Defense, US military, United States Senate, don't ask, don't tell_
+_Context: Robert Gates, Secretary of Defense, Senator, US military, don't ask, don't tell_
 
 ### [The Slurpee Summit occurs in Washington, DC. ](/news/2010/11/30/the-slurpee-summit-occurs-in-washington-dc.md)
 _Context: Slurpee Summit_

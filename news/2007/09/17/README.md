@@ -1,7 +1,7 @@
 ## [2007-09-17](/news/2007/09/17/index.md)
 
 ### [ Andrew Meyer, a 21-year-old fourth-year undergraduate, is apprehended by five police officers and tasered while allegedly having interrupted a speech by U.S. Senator John Kerry.](/news/2007/09/17/andrew-meyer-a-21-year-old-fourth-year-undergraduate-is-apprehended-by-five-police-officers-and-tasered-while-allegedly-having-interrupte.md)
-_Context: John Kerry, United States Senate, apprehended by five police officers, tasered_
+_Context: John Kerry, Senator, apprehended by five police officers, tasered_
 
 ### [ Bernard Kouchner, the French Foreign Minister, warns of the possibility of war over Iran's nuclear program. ](/news/2007/09/17/bernard-kouchner-the-french-foreign-minister-warns-of-the-possibility-of-war-over-iran-s-nuclear-program.md)
 _Context: Bernard Kouchner, Minister of Foreign Affairs, nuclear scientist_
@@ -13,7 +13,7 @@ _Context: Baghdad, Blackwater Security, Iraq, United States_
 Sierra Leone&#039;s Opposition leader has been sworn in as the country&#039;s new President after being declared the victor 10 days after a run-off election.
 
 ### [ Hillary Clinton, a candidate for the Democratic Party's nomination in the United States presidential election, 2008, announces a proposal for a universal healthcare plan. ](/news/2007/09/17/hillary-clinton-a-candidate-for-the-democratic-party-s-nomination-in-the-united-states-presidential-election-2008-announces-a-proposal-f.md)
-_Context: 2008, Democratic, Hillary Clinton, universal healthcare_
+_Context: 2008, Democrat, Hillary Clinton, universal healthcare_
 
 ### [ President George W. Bush nominates Michael Mukasey to replace Alberto Gonzales as the next Attorney-General of the United States. ](/news/2007/09/17/president-george-w-bush-nominates-michael-mukasey-to-replace-alberto-gonzales-as-the-next-attorney-general-of-the-united-states.md)
 US President George W Bush has nominated a retired federal judge and law and order conservative to replace embattled Alberto Gonzales as US Attorney-General.

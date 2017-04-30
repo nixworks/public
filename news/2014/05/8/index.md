@@ -18,8 +18,8 @@ _Context: Pasadena Refining System, Petrobras, voluntary dismissal_
 ### [Thailand's National Anti-Corruption Commission refers former Prime Minister Yingluck Shinawatra to face impeachment charges in the Senate over a failed rice subsidy scheme. ](/news/2014/05/8/thailand-s-national-anti-corruption-commission-refers-former-prime-minister-yingluck-shinawatra-to-face-impeachment-charges-in-the-senate-ov.md)
 Thailand&#x27;s deposed Prime Minister Yingluck Shinawatra will face impeachment in the upper house over a costly rice subsidy scheme, the nation&#x27;s anti-graft body said Thursday, in a ruling which could see her banned from politics for five years.
 
-### [The National Football League draft begins at Radio City Music Hall in Manhattan. ](/news/2014/05/8/the-national-football-league-draft-begins-at-radio-city-music-hall-in-manhattan.md)
-_Context: Manhattan, National Football League draft, Radio City Music Hall_
+### [The N@tional Football League draft begins at Radio City Music Hall in Manhattan. ](/news/2014/05/8/the-n-tional-football-league-draft-begins-at-radio-city-music-hall-in-manhattan.md)
+_Context: Manhattan, N@tional Football League draft, Radio City Music Hall_
 
 ## [Previous Day...](/news/2014/05/7/index.md)
 

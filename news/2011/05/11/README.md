@@ -43,7 +43,7 @@ _Context: Bhopal disaster, Government of India, Indian Supreme Court_
 _Context: Phillip A. Hamilton, Virginia House of Delegates_
 
 ### [A  judge grants John Hinckley, Jr., the man who tried to assassinate then-President of the United States Ronald Reagan in 1981, additional visits to his family from the Washington, DC psychiatric hospital where he is confined. ](/news/2011/05/11/a-judge-grants-john-hinckley-jr-the-man-who-tried-to-assassinate-then-president-of-the-united-states-ronald-reagan-in-1981-additional-v.md)
-_Context: John Hinckley Jr, Ronald Reagan, U.S. President, Washington DC, shot by John W. Hinckley_
+_Context: John Hinckley Jr, President of the United States, Ronald Reagan, Washington DC, shot by John W. Hinckley_
 
 ### [Two people are arrested in New York City for allegedly planning a terrorist attack. ](/news/2011/05/11/two-people-are-arrested-in-new-york-city-for-allegedly-planning-a-terrorist-attack.md)
 The suspects, whom a law enforcement official characterized as “homegrown,” intended to carry out a terrorist attack in New York City, law enforcement officials said.

@@ -1,7 +1,7 @@
 ## [2005-02-9](/news/2005/02/9/index.md)
 
 ### [ War on Terror: Democrat Jane Harman, the ranking member of the U.S. House Permanent Select Committee on Intelligence, announces she is planning to introduce a bill to ban torture by U.S. interrogators and bar transfers of detainees to countries that engage in torture. ](/news/2005/02/9/war-on-terror-democrat-jane-harman-the-ranking-member-of-the-u-s-house-permanent-select-committee-on-intelligence-announces-she-is-plan.md)
-_Context: Democratic, Jane Harman, U.S. House Permanent Select Committee on Intelligence, War on Terror, ranking member, torture_
+_Context: Democrat, Jane Harman, U.S. House Permanent Select Committee on Intelligence, War on Terror, ranking member, torture_
 
 ### [ Conflict in Iraq: A suicide bomber kills at least 21 people outside a police recruiting center in Baghdad. In a separate incident also in Baghdad, three policemen die from a firefight in the notoriously dangerous neighborhood of Ghazaliyah. ](/news/2005/02/9/conflict-in-iraq-a-suicide-bomber-kills-at-least-21-people-outside-a-police-recruiting-center-in-baghdad-in-a-separate-incident-also-in-b.md)
 Breaking News, data &amp; opinions in business, sports, entertainment, travel, lifestyle, plus much more. Newsday.com is the leading news source for Long Island &amp; NYC.

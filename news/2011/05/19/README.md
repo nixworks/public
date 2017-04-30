@@ -70,7 +70,7 @@ Global National with Dawna Friesen is Canada&#039;s early evening national newsc
 _Context: Seychelles, three day presidential election_
 
 ### [Former Taoiseach (Prime Minister) of the Republic of Ireland Garret FitzGerald dies in Dublin aged 85. ](/news/2011/05/19/former-taoiseach-prime-minister-of-the-republic-of-ireland-garret-fitzgerald-dies-in-dublin-aged-85.md)
-_Context: Dublin, Garret FitzGerald, Ireland, Taoiseach_
+_Context: Dublin, Garret FitzGerald, Republic of Ireland, Taoiseach_
 
 ### [Ugandan opposition leader Kizza Besigye is placed under house arrest. ](/news/2011/05/19/ugandan-opposition-leader-kizza-besigye-is-placed-under-house-arrest.md)
 Ugandan police on Thursday blocked opposition leader Kizza Besigye from driving from his home to the Kampala city centre, saying the outing would spark criminal acts after he vowed to resume

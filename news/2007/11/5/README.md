@@ -4,7 +4,7 @@
 _Context: Hang Seng Index, Hong Kong_
 
 ### [ 2007 Pakistani state of emergency: The Netherlands suspends aid to Pakistan following the imposition of emergency rule.{{Fact|date=December 2007}} Several demonstrating lawyers protesting outside the Sindh High Court are arrested.{{Fact|date=December 2007}}  President of the United States George W. Bush calls on the President of Pakistan Pervez Musharraf to end the state of emergency and restore civilian rule. ](/news/2007/11/5/2007-pakistani-state-of-emergency-p-the-netherlands-suspends-aid-to-pakistan-following-the-imposition-of-emergency-rule-fact-date-decembe.md)
-_Context: 2007 Pakistani state of emergency, George W. Bush, Netherlands, Pervez Musharraf, President, Sindh, Sindh High Court, U.S. President, arrested, international aid, lawyers, state of emergency_
+_Context: 2007 Pakistani state of emergency, George W. Bush, Netherlands, Pervez Musharraf, President, President of the United States, Sindh, Sindh High Court, arrested, international aid, lawyers, state of emergency_
 
 ### [ Italian police arrest Sicilian mafia boss Salvatore Lo Piccolo, his son Sandro and two other mafiosi in Carini, Palermo. ](/news/2007/11/5/italian-police-arrest-sicilian-mafia-boss-salvatore-lo-piccolo-his-son-sandro-and-two-other-mafiosi-in-carini-palermo.md)
 _Context: Carini, Italian, Mafia, Palermo, Salvatore Lo Piccolo, Sicily, police_

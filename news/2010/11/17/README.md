@@ -49,13 +49,13 @@ _Context: organ trafficking_
 _Context: Cook Islands, MP, general election, referendum_
 
 ### [The Republican and Democratic party caucuses in the United States House of Representatives hold leadership elections. Nancy Pelosi of the Democrats is elected as Minority Leader when the new House sits in January with John Boehner to become Speaker of the United States House of Representatives. ](/news/2010/11/17/the-republican-and-democratic-party-caucuses-in-the-united-states-house-of-representatives-hold-leadership-elections-nancy-pelosi-of-the-de.md)
-_Context: Democratic, John Boehner, Minority Leader, Nancy Pelosi, Republican, Speaker of the United States House of Representatives, U.S. House, caucus_
+_Context: Democrat, John Boehner, Minority Leader, Nancy Pelosi, Republican, Speaker of the United States House of Representatives, U.S. House, caucus_
 
 ### [A state of emergency is declared in Guinea after post election violence. ](/news/2010/11/17/a-state-of-emergency-is-declared-in-guinea-after-post-election-violence.md)
 _Context: Guinea, November's presidential poll, state of emergency_
 
 ### [Senator Lisa Murkowski wins the Alaska senate  election becoming the first successful write-in candidate to be elected since 1954. ](/news/2010/11/17/senator-lisa-murkowski-wins-the-alaska-senate-election-becoming-the-first-successful-write-in-candidate-to-be-elected-since-1954.md)
-_Context: Alaska senate  election, Lisa Murkowski, United States Senate, write-in candidate_
+_Context: Alaska senate  election, Lisa Murkowski, Senator, write-in candidate_
 
 ### [Facebook inadvertently disabled some users' accounts when a system designed to detect fake accounts malfunctioned. The problem has since been resolved. ](/news/2010/11/17/facebook-inadvertently-disabled-some-users-accounts-when-a-system-designed-to-detect-fake-accounts-malfunctioned-the-problem-has-since-bee.md)
 _Context: Facebook_

@@ -7,7 +7,7 @@ _Context: Horatiu Nastase, Relativistic Heavy Ion Collider, Upton, New York, bla
 _Context: China's, Rebiya Kadeer, Uyghur, medical parole_
 
 ### [ U.S. Congressman Rob Portman (R-Ohio) was nominated by President George W. Bush to be the United States Trade Representative, replacing Robert Zoellick.  Portman is subject to Senate confirmation.  (Reuters) [http://edition.cnn.com/2005/BUSINESS/03/17/us.trade.rep.reut/]](/news/2005/03/17/u-s-congressman-rob-portman-r-ohio-was-nominated-by-president-george-w-bush-to-be-the-united-states-trade-representative-replacing-rob.md)
-_Context: George W. Bush, Ohio, Republican, Reuters, Rob Portman, Robert Zoellick, United States Senate, United States Trade Representative_
+_Context: George W. Bush, Ohio, Republican, Reuters, Rob Portman, Robert Zoellick, Senator, United States Trade Representative_
 
 ### [ Transparency International (TI), a nonprofit which works against corruption, warns about US companies overcharging for the rebuilding of Iraq. A TI study showed that a multi-million-dollar deal was awarded to a US company only for it to sub-contract the work to an Iraqi firm for a fraction of the cost. ](/news/2005/03/17/transparency-international-ti-a-nonprofit-which-works-against-corruption-warns-about-us-companies-overcharging-for-the-rebuilding-of-ir.md)
 _Context: Iraq, Transparency International, anti-corruption_

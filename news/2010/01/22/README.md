@@ -25,7 +25,7 @@ _Context: Argentina, Germany, Jorge Rafael Videla, Nuremberg, arrest warrant_
 _Context: Belgrade, Bishop Irinej of Niš, Electoral Synod, Serbian Orthodox Church, Serbian Patriarch_
 
 ### [European banking stocks drop sharply following U.S. President Barack Obama's plans to restrict activities of the biggest American banks. ](/news/2010/01/22/european-banking-stocks-drop-sharply-following-u-s-president-barack-obama-s-plans-to-restrict-activities-of-the-biggest-american-banks.md)
-_Context: Barack Obama, Europe, U.S. President, United States, banking_
+_Context: Barack Obama, Europe, President of the United States, United States, banking_
 
 ### [The Supreme Court of Nigeria gives the government 14 days to decide whether ailing President Umaru Yar'Adua is fit to rule the country. ](/news/2010/01/22/the-supreme-court-of-nigeria-gives-the-government-14-days-to-decide-whether-ailing-president-umaru-yar-adua-is-fit-to-rule-the-country.md)
 _Context: Nigeria, President of Nigeria, Supreme Court, Umaru Yar'Adua, government_
@@ -43,7 +43,7 @@ _Context: Colombo, Sri Lanka, presidential election_
 _Context: Alexey Dymovskiy, Russia, YouTube, corruption, fraud, policeman_
 
 ### [The internationally renowned Waterford Crystal tourist centre in Kilbarry, Ireland, ceases to function. ](/news/2010/01/22/the-internationally-renowned-waterford-crystal-tourist-centre-in-kilbarry-ireland-ceases-to-function.md)
-_Context: Ireland, Kilbarry, Waterford Crystal_
+_Context: Kilbarry, Republic of Ireland, Waterford Crystal_
 
 ### [Conan O'Brien hosted the late night variety television show, The Tonight Show, on NBC for the final time. ](/news/2010/01/22/conan-o-brien-hosted-the-late-night-variety-television-show-the-tonight-show-on-nbc-for-the-final-time.md)
 Jay Leno has concluded his run as host of “The Tonight Show with Jay Leno” by delivering the show’s biggest overall audience in more than 15 years, since May 1998.

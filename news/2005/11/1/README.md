@@ -4,7 +4,7 @@
 _Context: Best Mate_
 
 ### [ U.S. Senate Minority Leader Harry Reid and his fellow Democrats force a closed session of the Senate over misinformed intelligence that led to the Iraq War and evasion of a congressional inquiry. ](/news/2005/11/1/u-s-senate-minority-leader-harry-reid-and-his-fellow-democrats-force-a-closed-session-of-the-senate-over-misinformed-intelligence-that-led.md)
-_Context: Democratic, Harry Reid, Iraq War, United States, United States Senate, United States Senate Minority Leader, closed session_
+_Context: Democrat, Harry Reid, Iraq War, Senator, United States, United States Senate Minority Leader, closed session_
 
 ### [ The discovery of two additional moons of Pluto is announced. ](/news/2005/11/1/the-discovery-of-two-additional-moons-of-pluto-is-announced.md)
 _Context: Pluto, moons_

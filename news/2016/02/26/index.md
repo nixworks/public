@@ -40,7 +40,7 @@ Officials at the University of California Berkeley said on Friday that they were
 _Context: Iran, Iranian elections, 2016, Iranian legislative election, 2016, new session_
 
 ### [Voters in Ireland go to the polls for a general election. Exit polls indicate that the ruling coalition of Fine Gael party led by Enda Kenny and the Labour Party will fall short of re-election with 34% of the vote between them. ](/news/2016/02/26/voters-in-ireland-go-to-the-polls-for-a-general-election-exit-polls-indicate-that-the-ruling-coalition-of-fine-gael-party-led-by-enda-kenny.md)
-_Context: Enda Kenny, Fine Gael, Ireland, Irish general election, 2016, Labour Party_
+_Context: Enda Kenny, Fine Gael, Irish general election, 2016, Labour Party, Republic of Ireland_
 
 ### [Hashim Thaci is elected  the President of Kosovo by the Parliament amid violent protests. ](/news/2016/02/26/hashim-thaassi-is-elected-the-president-of-kosovo-by-the-parliament-amid-violent-protests.md)
 _Context: Hashim Thaçi, Parliament, President_

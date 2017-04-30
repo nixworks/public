@@ -1,7 +1,7 @@
 ## [2008-02-13](/news/2008/02/13/index.md)
 
 ### [ The United States Senate passes legislation to ban the Central Intelligence Agency from using certain interrogation methods including waterboarding. ](/news/2008/02/13/the-united-states-senate-passes-legislation-to-ban-the-central-intelligence-agency-from-using-certain-interrogation-methods-including-water.md)
-_Context: Central Intelligence Agency, United States Senate, waterboarding_
+_Context: Central Intelligence Agency, Senator, waterboarding_
 
 ### [ Former Major League Baseball pitcher Roger Clemens testifies to the United States House Committee on Oversight and Government Reform regarding performance enhancing drugs. ](/news/2008/02/13/former-major-league-baseball-pitcher-roger-clemens-testifies-to-the-united-states-house-committee-on-oversight-and-government-reform-regard.md)
 _Context: House Oversight Committee, Major League Baseball, Roger Clemens, performance-enhancing drugs, pitcher_

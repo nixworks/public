@@ -40,7 +40,7 @@ _Context: Australian Foreign Minister, Kevin Rudd, Prime Minister of Australia, 
 The US House of Representatives has approved legislation to avert a disastrous debt default and cut trillions in government spending, setting the stage for the measure to face a Senate vote.
 
 ### [The United States Senate fails to pass a bill ending the partial shutdown of the Federal Aviation Administration. ](/news/2011/08/1/the-united-states-senate-fails-to-pass-a-bill-ending-the-partial-shutdown-of-the-federal-aviation-administration.md)
-_Context: Federal Aviation Administration, United States Senate_
+_Context: Federal Aviation Administration, Senator_
 
 ## [Previous Day...](/news/2011/07/31/index.md)
 

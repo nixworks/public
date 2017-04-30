@@ -49,7 +49,7 @@ A senior aide and consultant hired by former Maryland governor Robert L. Ehrlich
 MPs pass a motion condemning the Malaysian asylum swap deal, a move which opens the way for Greens legislation that could scrap the proposal.
 
 ### [U.S. Representative Anthony Weiner of New York resigns his office amidst pressure from Democratic leadership and President Barack Obama after admitting to sending lewd photos via Twitter. ](/news/2011/06/16/u-s-representative-anthony-weiner-of-new-york-resigns-his-office-amidst-pressure-from-democratic-leadership-and-president-barack-obama-afte.md)
-_Context: Anthony Weiner, Barack Obama, Democratic, New York, Twitter, U.S. House, U.S. President, sending lewd photos_
+_Context: Anthony Weiner, Barack Obama, Democrat, New York, President of the United States, Twitter, U.S. House, sending lewd photos_
 
 ## [Previous Day...](/news/2011/06/15/index.md)
 
