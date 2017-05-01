@@ -8,7 +8,7 @@ A Cuban military plane has reportedly crashed in the western province of Artemis
 ### Source:
 
 1. [AP via ''Miami Herald](http://www.miamiherald.com/latest-news/article147622414.html)
-2. [Daily Mail UK](http://www.dailymail.co.uk/news/article-4458974/Passenger-plane-crashes-Cuba-killing-39-board.html)
+2. [Daily Mail](http://www.dailymail.co.uk/news/article-4458974/Passenger-plane-crashes-Cuba-killing-39-board.html)
 
 ### Related:
 

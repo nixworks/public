@@ -7,7 +7,7 @@ Website ‘undergoing changes’ to reflect agency’s ‘new direction’, as t
 
 ### Source:
 
-1. [The Guardian UK](https://www.theguardian.com/environment/2017/apr/29/epa-trump-website-climate-change-peoples-climate-march)
+1. [The Guardian](https://www.theguardian.com/environment/2017/apr/29/epa-trump-website-climate-change-peoples-climate-march)
 
 ### Related:
 

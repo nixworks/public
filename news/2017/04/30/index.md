@@ -12,6 +12,9 @@ _Context: Dubai, GEM TV, Iran, Istanbul, Persian language, Saeed Karimian, Turke
 ### [Former Italian Prime Minister Matteo Renzi regains the role of Secretary of the Democratic Party, after his resignation in February, in an open primary election. ](/news/2017/04/30/former-italian-prime-minister-matteo-renzi-regains-the-role-of-secretary-of-the-democratic-party-after-his-resignation-in-february-in-an-o.md)
 Italians voted yesterday overwhelmingly to elect Matteo Renzi as the new head of the ruling Democratic Party, returning him to frontline politics as the party faces a growing challenge from populist politicians.
 
+### [U.S. Congressional negotiators reach a bipartisan agreement on the FY 2017 federal government budget that, once approved by both Houses, will fund the entire fiscal year through September 30. The current spending authorization expires  Friday, May 5. ](/news/2017/04/30/u-s-congressional-negotiators-reach-a-bipartisan-agreement-on-the-fy-2017-federal-government-budget-that-once-approved-by-both-houses-wil.md)
+U.S. House and Senate negotiators reached a bipartisan deal on a $1.16 trillion spending bill that largely tracks with Democratic priorities and rejects most of President Donald Trump’s wish list, including money to begin building a wall along the U.S.-Mexican border.
+
 ### [Zoologists led by the University of Papua announce the first sighting of a pack of New Guinea highland wild dogs in the wild of New Guinea, near the Grasberg mine, in over four decades. ](/news/2017/04/30/zoologists-led-by-the-university-of-papua-announce-the-first-sighting-of-a-pack-of-new-guinea-highland-wild-dogs-in-the-wild-of-new-guinea.md)
 Scientists confirm the existence of one of the world&#039;s most ancient and primitive dog species.
 
