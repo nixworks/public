@@ -7,4 +7,4 @@ A man described as one of the ringleaders in the 2012 theft of $18.7 million wor
 
 ### Source:
 
-1. [The Globe and Mail](http://www.cbc.ca/news/canada/montreal/richard-vallieres-sentencing-1.4090811)
+1. [CBC](http://www.cbc.ca/news/canada/montreal/richard-vallieres-sentencing-1.4090811)
