@@ -15,7 +15,7 @@ Another round of severe weather with damaging winds is expected to sweep across 
 ### [ The full 7th U.S. Circuit Court of Appeals in Chicago rules (8-3) that the 1964 Civil Rights Act protects LGBT employees from workplace discrimination. ](/news/2017/04/4/the-full-7th-u-s-circuit-court-of-appeals-in-chicago-rules-8-3-that-the-1964-civil-rights-act-protects-lgbt-employees-from-workplace-dis.md)
 The ruling is a major victory for LGBTQ community fighting discrimination
 
-### [Bertha, once the world's largest tunnel boring machine, completes its {{convert|9,270|ft|m|adj=mid|-long}} tunnel under Seattle, Washington, after four years of digging and a lengthy delay near the beginning of the project. ](/news/2017/04/4/bertha-once-the-world-s-largest-tunnel-boring-machine-completes-its-convert-9-270-ft-m-adj-mid-long-tunnel-under-seattle-washington.md)
+### [Bertha, once the world's largest tunnel boring machine, completes its 9,270|ft|m|adj=mid|-long tunnel under Seattle, Washington, after four years of digging and a lengthy delay near the beginning of the project. ](/news/2017/04/4/bertha-once-the-world-s-largest-tunnel-boring-machine-completes-its-9-270-ft-m-adj-mid-long-tunnel-under-seattle-washington-after-four.md)
 _Context: Bertha, Seattle, tunnel, tunnel boring machine_
 
 ### [The National Assembly of Hungary passes a bill that undermines the functioning of the Central European University (CEU). Academics and academic institutions worldwide have expressed support for CEU. ](/news/2017/04/4/the-national-assembly-of-hungary-passes-a-bill-that-undermines-the-functioning-of-the-central-european-university-ceu-academics-and-acade.md)
