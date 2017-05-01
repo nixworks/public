@@ -4,7 +4,7 @@
 _Context: President, Saleh, Yemen, Yemeni opposition coalition, electoral fraud, re-elected_
 
 ### [ In an interview with ''Fox News Sunday'', to be aired on September 24, Former U.S. President Bill Clinton says, "At least I tried. That's the difference in me and some, including all of the right-wingers who are attacking me now," responding to those who criticize him for the September 11th terrorist attacks, "They had eight months to try, they did not try. I tried. So I tried and failed." ](/news/2006/09/23/in-an-interview-with-fox-news-sunday-to-be-aired-on-september-24-former-u-s-president-bill-clinton-says-at-least-i-tried-that-s-t.md)
-_Context: Bill Clinton, Fox News Sunday, President of the United States, September 11th terrorist attacks, September 24_
+_Context: Bill Clinton, Fox News Sunday, September 11th terrorist attacks, September 24, president_
 
 ### [ Toomas Hendrik Ilves is elected the new President of Estonia, defeating incumbent Arnold Rtel. ](/news/2006/09/23/toomas-hendrik-ilves-is-elected-the-new-president-of-estonia-defeating-incumbent-arnold-ruutel.md)
 _Context: Arnold Rüütel, President of Estonia, Toomas Hendrik Ilves_

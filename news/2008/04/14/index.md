@@ -10,7 +10,7 @@ _Context: Delta Air Lines, Northwest Airlines_
 _Context: US$, United States, United States Marines, Vatican City, embassy in Iraq_
 
 ### [ Silvio Berlusconi is re-elected for the third time as the Prime Minister of Italy. ](/news/2008/04/14/silvio-berlusconi-is-re-elected-for-the-third-time-as-the-prime-minister-of-italy.md)
-_Context: Prime Minister, Silvio Berlusconi, re-elected_
+_Context: Italian Prime Minister, Silvio Berlusconi, re-elected_
 
 ### [ Nabucco Pipeline: Turkmenistan agrees to supply 10 billion cubic metres of natural gas to the European Union per annum, to reduce the bloc's dependence on gas from Russia. ](/news/2008/04/14/nabucco-pipeline-turkmenistan-agrees-to-supply-10-billion-cubic-metres-of-natural-gas-to-the-european-union-per-annum-to-reduce-the-bloc.md)
 _Context: European Union, Nabucco natural gas pipeline, Russia, Turkmenistan, natural gas_

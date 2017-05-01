@@ -7,7 +7,7 @@ _Context: December 19, DirecTV, Federal Communications Commission's, General Mot
 _Context: China's, U.S. dollar, currency, yuan_
 
 ### [ Parmalat is likely to declare "controlled administration" as Italian Prime Minister Silvio Berlusconi said the government would intervene and "above all save the industrial part of the company and jobs". [http://news.bbc.co.uk/1/hi/business/3339459.stm]](/news/2003/12/22/parmalat-is-likely-to-declare-controlled-administration-as-italian-prime-minister-silvio-berlusconi-said-the-government-would-intervene-a.md)
-_Context: Parmalat, Politics of Italy, Prime Minister, Silvio Berlusconi_
+_Context: Italian Prime Minister, Parmalat, Politics of Italy, Silvio Berlusconi_
 
 ### [ Egyptian Foreign Minister Ahmed Maher is assaulted by Palestinians during prayer at the al-Aqsa Mosque in Jerusalem. Mr. Maher was taken to an Israeli hospital for observation as a result of the incident after being treated at the scene by the Magen David Adom. After several hours care in the hospital, he was escorted to his airplane by an Israeli cardiologist and paramedic. ](/news/2003/12/22/egyptian-foreign-minister-ahmed-maher-is-assaulted-by-palestinians-during-prayer-at-the-al-aqsa-mosque-in-jerusalem-mr-maher-was-taken-to.md)
 _Context: Ahmed Maher, Al-Aqsa Mosque, Egypt, Foreign Minister, Jerusalem, Magen David Adom, Palestinian, prayer_

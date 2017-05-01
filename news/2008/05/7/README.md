@@ -4,7 +4,7 @@
 _Context: genome, platypus_
 
 ### [ Silvio Berlusconi, the Prime Minister of Italy, appoints his new Cabinet. ](/news/2008/05/7/silvio-berlusconi-the-prime-minister-of-italy-appoints-his-new-cabinet.md)
-_Context: Prime Minister, Silvio Berlusconi, forming a government_
+_Context: Italian Prime Minister, Silvio Berlusconi, forming a government_
 
 ### [ Hillary Clinton vows to remain as a candidate in the United States presidential election, 2008 despite financial problems which required her to lend her campaign $6.4 million dollars and dwindling chances of winning the Democratic Party nomination. ](/news/2008/05/7/hillary-clinton-vows-to-remain-as-a-candidate-in-the-united-states-presidential-election-2008-despite-financial-problems-which-required-he.md)
 _Context: 2008, Democrat, Hillary Clinton_

@@ -7,7 +7,7 @@ _Context: 2008 Belmont Stakes, 2008 Kentucky Derby, 2008 Preakness Stakes, Affir
 _Context: Lord's Resistance Army, Sudan_
 
 ### [ Hillary Clinton suspends her presidential campaign and endorses Barack Obama as the Democratic candidate for President of the United States in the 2008 election. ](/news/2008/06/7/hillary-clinton-suspends-her-presidential-campaign-and-endorses-barack-obama-as-the-democratic-candidate-for-president-of-the-united-states.md)
-_Context: 2008, Barack Obama, Democrat, Hillary Clinton, President of the United States_
+_Context: 2008, Barack Obama, Democrat, Hillary Clinton, president_
 
 ### [ UEFA Euro 2008 begins in Austria and Switzerland. ](/news/2008/06/7/uefa-euro-2008-begins-in-austria-and-switzerland.md)
 At 6pm on Saturday the five-and-a-half-year countdown for Euro 2008 ends and the action – and reaction – begins when Switzerland face ...

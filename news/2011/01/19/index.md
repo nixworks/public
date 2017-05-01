@@ -37,7 +37,7 @@ _Context: Haiti, Jean-Claude Duvalier_
 _Context: 2008–2009 Gaza War, Israel, South Africa, Tzipi Livni, war crime_
 
 ### [Prime Minister of Italy Silvio Berlusconi gives a ten-minute television address vowing to punish those investigating him in relation to claims he purchased an under-age prostitute. ](/news/2011/01/19/prime-minister-of-italy-silvio-berlusconi-gives-a-ten-minute-television-address-vowing-to-punish-those-investigating-him-in-relation-to-clai.md)
-_Context: Prime Minister, Silvio Berlusconi, prostitute_
+_Context: Italian Prime Minister, Silvio Berlusconi, prostitute_
 
 ### [The British Home Office says that American pastor Terry Jones is excluded from the UK for the public good. ](/news/2011/01/19/the-british-home-office-says-that-american-pastor-terry-jones-is-excluded-from-the-uk-for-the-public-good.md)
 Controversial US pastor Terry Jones, who last year threatened a Koran-burning protest, has been banned from entering the UK, the Home Office says.

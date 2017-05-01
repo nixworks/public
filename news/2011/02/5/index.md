@@ -43,7 +43,7 @@ Plans for former United States President George Bush to visit Switzerland next w
 Belgrade sees its biggest anti-government protest in years as tens of thousands of disenchanted Serbs demand early elections.
 
 ### [Thousands of Italians attend a rally to demand the resignation of Italian Prime Minister Silvio Berlusconi over a sex scandal. ](/news/2011/02/5/thousands-of-italians-attend-a-rally-to-demand-the-resignation-of-italian-prime-minister-silvio-berlusconi-over-a-sex-scandal.md)
-_Context: Italian, Prime Minister, Silvio Berlusconi_
+_Context: Italian, Italian Prime Minister, Silvio Berlusconi_
 
 ### [The Cleveland Cavaliers set a new record for consecutive losses in a single National Basketball Association season in the United States. ](/news/2011/02/5/the-cleveland-cavaliers-set-a-new-record-for-consecutive-losses-in-a-single-national-basketball-association-season-in-the-united-states.md)
 _Context: Cleveland Cavaliers, NBA, United States_

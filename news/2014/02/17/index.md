@@ -37,7 +37,7 @@ _Context: United States Supreme Court_
 _Context: Australia's government, Manus Island, Papua New Guinea, immigration detention facility_
 
 ### [Mayor of Florence, Matteo Renzi, is given a mandate by Italian President Giorgio Napolitano to form a new government as Italy's prime minister-designate. ](/news/2014/02/17/mayor-of-florence-matteo-renzi-is-given-a-mandate-by-italian-president-giorgio-napolitano-to-form-a-new-government-as-italyas-prime-mini.md)
-_Context: Giorgio Napolitano, Italian President, Matteo Renzi, Mayor of Florence, Prime Minister_
+_Context: Giorgio Napolitano, Italian President, Italian Prime Minister, Matteo Renzi, Mayor of Florence_
 
 ### [Scottish First Minister Alex Salmond says that blocking a post-independence Scotland from a currency union could damage businesses in the rest of the United Kingdom. ](/news/2014/02/17/scottish-first-minister-alex-salmond-says-that-blocking-a-post-independence-scotland-from-a-currency-union-could-damage-businesses-in-the-re.md)
 _Context: Alex Salmond, First Minister, Scotland, Scottish independence, United Kingdom_

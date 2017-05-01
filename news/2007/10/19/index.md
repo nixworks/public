@@ -10,7 +10,7 @@ _Context: Black Monday, Dow Jones Industrial Average_
  James D. Watson, who won the Nobel Prize for helping decipher DNA, apologized “unreservedly” Thursday for comments reported this week suggesting that black people, over all, are not as intelligent as whites. 
 
 ### [ Six people die as a result of storms in the midwestern United States and Washington state. ](/news/2007/10/19/six-people-die-as-a-result-of-storms-in-the-midwestern-united-states-and-washington-state.md)
-_Context: Midwestern, Washington_
+_Context: Washington, midwestern_
 
 ### [ Two US Marines including a battalion commander will face a court martial in connection with the killing of 24 civilians in Haditha in 2005. ](/news/2007/10/19/two-us-marines-including-a-battalion-commander-will-face-a-court-martial-in-connection-with-the-killing-of-24-civilians-in-haditha-in-2005.md)
 _Context: Haditha, United States Marine Corps, battalion, court-martial_

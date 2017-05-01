@@ -7,7 +7,7 @@ _Context: United States Navy SEALs_
 _Context: L'Wren Scott, New York's_
 
 ### [President of the United States Barack Obama announces that the United States will sanction Russian officials that contributed to the current Crimean crisis. ](/news/2014/03/17/president-of-the-united-states-barack-obama-announces-that-the-united-states-will-sanction-russian-officials-that-contributed-to-the-current.md)
-_Context: 2014 Crimean crisis, Barack Obama, President of the United States, Russia_
+_Context: 2014 Crimean crisis, Barack Obama, Russia, president_
 
 ### [A 6.7 magnitude earthquake strikes off the coast of Chile with officials issuing precautionary tsunami warnings for the nation's coast. ](/news/2014/03/17/a-6-7-magnitude-earthquake-strikes-off-the-coast-of-chile-with-officials-issuing-precautionary-tsunami-warnings-for-the-nation-s-coast.md)
 _Context: Chile, tsunami_

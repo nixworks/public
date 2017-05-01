@@ -1,6 +1,6 @@
 ### [2015-05-30](/news/2015/05/30/index.md)
 
-# Alastair Cook becomes the leading run scorer of all time in test cricket for England playing against New Zealand in the second test at Headingley Stadium in Leeds. 
+# Alastair Cook becomes the leading run scorer of all time in test cricket for England playing against New Zealand in the second test at Headingley Cricket Ground in Leeds. 
 
 
 

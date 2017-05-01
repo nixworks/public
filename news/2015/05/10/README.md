@@ -28,7 +28,7 @@ _Context: Barack Obama, Communist, Fidel Castro, Pope Emeritus Benedict XVI, Pop
 About 500 members of Myanmar&#039;s Rohingya Muslim community have been rescued off Aceh.
 
 ### [King Salman of Saudi Arabia will not meet with President of the United States Barack Obama at Camp David or at a summit meeting sending senior Ministers instead reportedly due to disagreement over a nuclear deal with Iran. ](/news/2015/05/10/king-salman-of-saudi-arabia-will-not-meet-with-president-of-the-united-states-barack-obama-at-camp-david-or-at-a-summit-meeting-sending-seni.md)
-_Context: Barack Obama, Camp David, Iran, King Salman, President of the United States, Saudi Arabia_
+_Context: Barack Obama, Camp David, Iran, King Salman, Saudi Arabia, president_
 
 ### [Police in the Mississippian city of Hattiesburg arrest three people on suspicion of murdering two policemen. ](/news/2015/05/10/police-in-the-mississippian-city-of-hattiesburg-arrest-three-people-on-suspicion-of-murdering-two-policemen.md)
 _Context: Hattiesburg, Mississippi_

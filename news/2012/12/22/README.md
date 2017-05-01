@@ -25,7 +25,7 @@ _Context: Andrew Mitchell, Plebgate, Police Federation, UK_
 _Context: Mahmoud Mekki, Vice President of Egypt, constitutional referendum_
 
 ### [Italian President Giorgio Napolitano dissolves the Parliament after the resignation of the Prime Minister Mario Monti ](/news/2012/12/22/italian-president-giorgio-napolitano-dissolves-the-parliament-after-the-resignation-of-the-prime-minister-mario-monti.md)
-_Context: Giorgio Napolitano, Mario Monti, President of Italy, Prime Minister, parliament_
+_Context: Giorgio Napolitano, Italian Prime Minister, Mario Monti, President of Italy, parliament_
 
 ### [Further details emerge on the suicide yesterday of Irish government minister Shane McEntee; he breakfasted with his family, took his dogs for a walk and was later found dead. Friends blame the pressure he was put under by his party to vote in favour of the country's latest austerity budget. ](/news/2012/12/22/further-details-emerge-on-the-suicide-yesterday-of-irish-government-minister-shane-mcentee-he-breakfasted-with-his-family-took-his-dogs-fo.md)
 _Context: Irish government, Shane McEntee, austerity measures, budget_

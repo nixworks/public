@@ -10,7 +10,7 @@ _Context: Facundo Cabral, Guatemala City_
 * China June inflation quickens to 6.4 pct yr/yr * June non-food inflation picks up to 3 pct; highest onrecord (Adds details, analyst comm
 
 ### [A Milan court orders Fininvest, Prime Minister of Italy Silvio Berlusconi's family company, to pay 560 million euros in damages to Compagnie Industriali Riunite in a long running legal dispute. ](/news/2011/07/9/a-milan-court-orders-fininvest-prime-minister-of-italy-silvio-berlusconi-s-family-company-to-pay-560-million-euros-in-damages-to-compagnie.md)
-_Context: Compagnie Industriali Riunite, Fininvest, Milan, Prime Minister, Silvio Berlusconi, euro_
+_Context: Compagnie Industriali Riunite, Fininvest, Italian Prime Minister, Milan, Silvio Berlusconi, euro_
 
 ### [South Sudan secedes from Sudan, becoming a sovereign state. ](/news/2011/07/9/south-sudan-secedes-from-sudan-becoming-a-sovereign-state.md)
 _Context: South Sudan, Sudan, sovereignty_

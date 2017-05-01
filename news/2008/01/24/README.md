@@ -7,7 +7,7 @@ Australia&#039;s longest running magazine, The Bulletin, is closing down after a
 A prestigious medical school was tipped off that one of its students had been a Nazi sympathizer, released on parole after being convicted in 2000 of a murder.
 
 ### [ Italian Prime Minister Romano Prodi is forced to resign following a lost vote of confidence in the Senate. ](/news/2008/01/24/italian-prime-minister-romano-prodi-is-forced-to-resign-following-a-lost-vote-of-confidence-in-the-senate.md)
-_Context: Italian, Italian Senate, Prime Minister, Romano Prodi, motion of confidence, resign_
+_Context: Italian, Italian Prime Minister, Italian Senate, Romano Prodi, motion of confidence, resign_
 
 ### [ An Australian girl spontaneously switches blood types and adopts her donor's immune system following a liver transplant in the first known case of its type.  ](/news/2008/01/24/an-australian-girl-spontaneously-switches-blood-types-and-adopts-her-donor-s-immune-system-following-a-liver-transplant-in-the-first-known.md)
 _Context: Australia, blood type, donor, liver, modified immune cells, transplant_

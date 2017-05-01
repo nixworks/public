@@ -58,7 +58,7 @@ A man accused of killing Jo Yeates, whose body was found near Bristol on Christm
 _Context: Calisto Tanzi, Italian, Parmalat_
 
 ### [Italian police seize assets worth around $1.38 billion from the Polverino mafia clan in the Naples region, and arrest 39 alleged clan members, including two who were local elections candidates from Prime Minister Silvio Berlusconi's People of Freedom party. ](/news/2011/05/5/italian-police-seize-assets-worth-around-1-38-billion-from-the-polverino-mafia-clan-in-the-naples-region-and-arrest-39-alleged-clan-member.md)
-_Context: Camorra, Naples, People of Freedom party, Prime Minister, Silvio Berlusconi, U.S. dollar_
+_Context: Camorra, Italian Prime Minister, Naples, People of Freedom party, Silvio Berlusconi, U.S. dollar_
 
 ### [A shipping vessel registered in Taiwan with a history of oil spills is fined CAD $80,000 for the illegal dumping of pollutants in Canadian waters south of Newfoundland. ](/news/2011/05/5/a-shipping-vessel-registered-in-taiwan-with-a-history-of-oil-spills-is-fined-cad-80-000-for-the-illegal-dumping-of-pollutants-in-canadian-w.md)
 _Context: Canadian dollar, Newfoundland, Taiwan, illegal dumping, oil spill_
@@ -67,7 +67,7 @@ _Context: Canadian dollar, Newfoundland, Taiwan, illegal dumping, oil spill_
 The people of Wales are going to the polls to elect the next Welsh Assembly Government and vote in the AV referendum.
 
 ### [President of the United States Barack Obama visits the World Trade Center site in New York City to commemorate the victims of the September 11 attacks following the death of Osama bin Laden. ](/news/2011/05/5/president-of-the-united-states-barack-obama-visits-the-world-trade-center-site-in-new-york-city-to-commemorate-the-victims-of-the-september.md)
-_Context: Barack Obama, Ground Zero, New York's, President of the United States, September 11 attacks, father's killing_
+_Context: Barack Obama, Ground Zero, New York's, September 11 attacks, father's killing, president_
 
 ### [A United States Court of Appeals for the Third Circuit rules that former Olympic champion Carl Lewis be placed on the ballot for a Democrat primary election  for a New Jersey State Senate seat. ](/news/2011/05/5/a-united-states-court-of-appeals-for-the-third-circuit-rules-that-former-olympic-champion-carl-lewis-be-placed-on-the-ballot-for-a-democrat.md)
 _Context: Carl Lewis, Democrat, New Jersey State Senate, United States court, primary election_

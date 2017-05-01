@@ -19,7 +19,7 @@ _Context: Moscow, Russia, South Sudan, Sudan, United Nations_
 US President Barack Obama says he is &quot;modestly optimistic&quot; that a deal to avoid the &quot;fiscal cliff&quot; is possible, after a last-ditch White House meeting.
 
 ### [Italy's outgoing Prime Minister Mario Monti is to lead a coalition of centre parties going into a parliamentary election in February 2013. ](/news/2012/12/28/italy-s-outgoing-prime-minister-mario-monti-is-to-lead-a-coalition-of-centre-parties-going-into-a-parliamentary-election-in-february-2013.md)
-_Context: 2013 Italian parliamentary election, Italian, Mario Monti, Prime Minister_
+_Context: 2013 Italian parliamentary election, Italian, Italian Prime Minister, Mario Monti_
 
 ### [Philippine President Benigno Aquino III signs into law the Responsible Parenthood and Reproductive Health Act, informally known as the RH Law. ](/news/2012/12/28/philippine-president-benigno-aquino-iii-signs-into-law-the-responsible-parenthood-and-reproductive-health-act-informally-known-as-the-rh-la.md)
 (UPDATED) A certified true copy of the measure shows President Aquino signed the RH law on December 21, 2012. Malacañang confirms bill has been signed into law in a statement

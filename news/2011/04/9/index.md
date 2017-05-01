@@ -19,7 +19,7 @@ _Context: Basque conflict, ETA, Valliere_
 _Context: Manhattan, Sidney Lumet, U.S._
 
 ### [A tornado hits in Iowa's Monona County in the midwestern United States. ](/news/2011/04/9/a-tornado-hits-in-iowa-s-monona-county-in-the-midwestern-united-states.md)
-_Context: Iowa, Midwestern, Monona County, tornado_
+_Context: Iowa, Monona County, midwestern, tornado_
 
 ### [Australian police are condemned for their failure to treat the 2007 death of an Aboriginal boy found weighted with rocks in a waterhole as anything other than an accident in Borroloola, Northern Territory. ](/news/2011/04/9/australian-police-are-condemned-for-their-failure-to-treat-the-2007-death-of-an-aboriginal-boy-found-weighted-with-rocks-in-a-waterhole-as-a.md)
 POLICE treated as an accident the death of an eight-year-old Aboriginal boy whose body was found with head injuries and weighted with rocks in a water hole near a remote Northern Territory community.

@@ -1,7 +1,7 @@
 ## [2006-07-6](/news/2006/07/6/index.md)
 
 ### [ Addressing the death of Kenneth Lay, U.S. President George W. Bush states that he hopes Lay, one of the men convicted in the collapse of Enron, "was right with the Lord". ](/news/2006/07/6/addressing-the-death-of-kenneth-lay-u-s-president-george-w-bush-states-that-he-hopes-lay-one-of-the-men-convicted-in-the-collapse-of-en.md)
-_Context: Enron, George W. Bush, Jesus Christ, Kenneth Lay, President of the United States, Trial of Kenneth Lay and Jeffrey Skilling, United States_
+_Context: Enron, George W. Bush, Jesus Christ, Kenneth Lay, Trial of Kenneth Lay and Jeffrey Skilling, United States, president_
 
 ### [ The long-range missile launched during North Korea's Missile Test was aimed at a point in the ocean close to the U.S. state of Hawaii. ](/news/2006/07/6/the-long-range-missile-launched-during-north-korea-s-missile-test-was-aimed-at-a-point-in-the-ocean-close-to-the-u-s-state-of-hawaii.md)
 _Context: Hawaii, North Korea, United States, launch, state_

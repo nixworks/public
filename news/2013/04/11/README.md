@@ -31,7 +31,7 @@ Ms. Tallchief achieved renown as an early prima ballerina with the New York City
 Japanese automakers Honda, Nissan, Toyota and Mazda announced Thursday they are recalling around 3.4 million cars due to airbag defects.
 
 ### [Tornadoes destroy a church and damage dozens of homes in the Midwestern United States, cutting off electricity in several areas, and prompting Missouri Governor Jay Nixon to declare a state of emergency. ](/news/2013/04/11/tornadoes-destroy-a-church-and-damage-dozens-of-homes-in-the-midwestern-united-states-cutting-off-electricity-in-several-areas-and-prompti.md)
-_Context: Electricity, Jay Nixon, Midwestern, Missouri, Missouri Governor, church, destroy, state of emergency, tornado_
+_Context: Electricity, Jay Nixon, Missouri, Missouri Governor, church, destroy, midwestern, state of emergency, tornado_
 
 ### [Two people are killed and 41 injured in a bus crash in Irving, Texas, United States. ](/news/2013/04/11/two-people-are-killed-and-41-injured-in-a-bus-crash-in-irving-texas-united-states.md)
 _Context: Irving, Texas, United States, bus_

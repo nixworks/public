@@ -31,7 +31,7 @@ _Context: 2008 Summer Olympics torch relay, Mount Everest_
 _Context: Cyclone Nargis_
 
 ### [ Silvio Berlusconi is sworn in as Prime Minister of Italy for the fourth time. ](/news/2008/05/8/silvio-berlusconi-is-sworn-in-as-prime-minister-of-italy-for-the-fourth-time.md)
-_Context: Prime Minister, Silvio Berlusconi_
+_Context: Italian Prime Minister, Silvio Berlusconi_
 
 ### [ The PRO-IP Act passes through the United States House of Representatives. ](/news/2008/05/8/the-pro-ip-act-passes-through-the-united-states-house-of-representatives.md)
 _Context: PRO-IP Act, U.S. House_

@@ -10,7 +10,7 @@ _Context: 2011 Syrian uprising, Bashar al-Assad, President, Syrian Army_
 _Context: Beijing–Shanghai High-Speed Railway, Chinese, high-speed rail_
 
 ### [The United States Court of Appeals for the Eleventh Circuit strikes down the health insurance mandate of President Barack Obama's Patient Protection and Affordable Care Act. ](/news/2011/08/12/the-united-states-court-of-appeals-for-the-eleventh-circuit-strikes-down-the-health-insurance-mandate-of-president-barack-obama-s-patient-pr.md)
-_Context: Barack Obama, Patient Protection and Affordable Care Act, President of the United States, United States Court of Appeals for the Eleventh Circuit, health insurance mandate_
+_Context: Barack Obama, Patient Protection and Affordable Care Act, United States Court of Appeals for the Eleventh Circuit, health insurance mandate, president_
 
 ### [In rugby league, Darren Lockyer of the Brisbane Broncos plays his 350th match in first grade setting a new record for the National Rugby League. ](/news/2011/08/12/in-rugby-league-darren-lockyer-of-the-brisbane-broncos-plays-his-350th-match-in-first-grade-setting-a-new-record-for-the-national-rugby-lea.md)
 THE debate over whether Darren Lockyer should be rugby league&#039;s next Immortal is irrelevant, because he would have to be retired for five years before being considered anyway. But that wouldn&#039;t bother the champion five-eighth, because he would be much more concerned about winning tonight than worrying about his place in history.

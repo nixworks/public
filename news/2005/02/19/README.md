@@ -10,7 +10,7 @@ _Context: Haiti, Port-au-Prince, prison_
 _Context: Iraq, Italian, Rome_
 
 ### [ Former US Presidents George H. W. Bush and Bill Clinton toured parts of Thailand that were ravaged by the Asian Tsunami.  <small>'''''[Newslink missing]'''''</small>](/news/2005/02/19/former-us-presidents-george-h-w-bush-and-bill-clinton-toured-parts-of-thailand-that-were-ravaged-by-the-asian-tsunami-newslink-mi.md)
-_Context: 2004 Indian Ocean earthquake, Bill Clinton, George H. W. Bush, President of the United States, Thailand_
+_Context: 2004 Indian Ocean earthquake, Bill Clinton, George H. W. Bush, Thailand, president_
 
 ### [ An earthquake, registering 6.9 on the Richter scale, strikes South East Sulawesi, Indonesia at 00:04 UTC. ](/news/2005/02/19/an-earthquake-registering-6-9-on-the-richter-scale-strikes-south-east-sulawesi-indonesia-at-00-04-utc.md)
 _Context: Indonesia, South East Sulawesi, UTC, earthquake, magnitude_

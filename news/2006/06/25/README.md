@@ -13,7 +13,7 @@ _Context: Ehud Olmert, Gaza Strip, Gilad Shalit, Hamas, Israel, Palestinian, kid
 _Context: East Timor, Jose Ramos-Horta, troubled nation_
 
 ### [ Italians vote in a referendum on whether to approve the modification of 53 articles in the constitution. Approval would give more power to the prime minister and to the regions, making Italy a federal state. ](/news/2006/06/25/italians-vote-in-a-referendum-on-whether-to-approve-the-modification-of-53-articles-in-the-constitution-approval-would-give-more-power-to.md)
-_Context: Constitution of Italy, Italian, Prime Minister, federal state, referendum, regions_
+_Context: Constitution of Italy, Italian, Italian Prime Minister, federal state, referendum, regions_
 
 ### [ The world's third richest man, Warren Buffett, pledges to donate approximately $37 billion USD in shares to the Bill & Melinda Gates Foundation, effectively making it the largest charitable organization in history. ](/news/2006/06/25/the-world-s-third-richest-man-warren-buffett-pledges-to-donate-approximately-37-billion-usd-in-shares-to-the-bill-melinda-gates-founda.md)
 _Context: Bill & Melinda Gates Foundation, U.S. dollar, Warren Buffett, world's third richest man_

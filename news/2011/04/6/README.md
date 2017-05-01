@@ -37,7 +37,7 @@ _Context: California, F/A-18, Naval Air Station Lemoore, U.S. Navy_
 Ecuador expels the US ambassador in Quito after the release of a US diplomatic cable accusing the Ecuadorean police of widespread corruption.
 
 ### [The trial of Prime Minister of Italy Silvio Berlusconi for having sex with an underage prostitute begins. ](/news/2011/04/6/the-trial-of-prime-minister-of-italy-silvio-berlusconi-for-having-sex-with-an-underage-prostitute-begins.md)
-_Context: Prime Minister, Silvio Berlusconi, found guilty_
+_Context: Italian Prime Minister, Silvio Berlusconi, found guilty_
 
 ### [A tape recording is released of police in the Republic of Ireland allegedly threatening to rape two female protesters, one of whom is from North America, after arresting them, causing an outcry among women's groups and anti-rape organizations. ](/news/2011/04/6/a-tape-recording-is-released-of-police-in-the-republic-of-ireland-allegedly-threatening-to-rape-two-female-protesters-one-of-whom-is-from-n.md)
 Minister for Justice Alan Shatter has sought to reassure victims of sexual abuse that their cases would be fully investigated&hellip;

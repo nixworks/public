@@ -16,7 +16,7 @@ _Context: Amarnath, Jammu and Kashmir, Srinagar_
 _Context: China's, Tibet, tourism, unrest in 2008_
 
 ### [ The Italian Senate passes a bill which the opposition claims is designed to ameliorate the legal troubles of Prime Minister Silvio Berlusconi. ](/news/2008/06/25/the-italian-senate-passes-a-bill-which-the-opposition-claims-is-designed-to-ameliorate-the-legal-troubles-of-prime-minister-silvio-berlusco.md)
-_Context: Italian Senate, Prime Minister, Silvio Berlusconi, legal troubles_
+_Context: Italian Prime Minister, Italian Senate, Silvio Berlusconi, legal troubles_
 
 ### [ Saudi Arabia announces that it is holding 520 al-Qaeda-linked militants in the insurgency in Saudi Arabia arrested in 2008. ](/news/2008/06/25/saudi-arabia-announces-that-it-is-holding-520-al-qaeda-linked-militants-in-the-insurgency-in-saudi-arabia-arrested-in-2008.md)
 _Context: Saudi Arabia, al-Qaeda, insurgency in Saudi Arabia_

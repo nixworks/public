@@ -97,7 +97,7 @@ A row has broken out between Wikipedia and the FBI over the use of the agency lo
 The authorities in Saudi Arabia tell telecoms firms to block the messenger function on Blackberry handsets from Friday.
 
 ### [A prostitute informs Prime Minister of Italy Silvio Berlusconi's corruption inquiry that she received presents after he shared a bed with her and two others. ](/news/2010/08/3/a-prostitute-informs-prime-minister-of-italy-silvio-berlusconi-s-corruption-inquiry-that-she-received-presents-after-he-shared-a-bed-with-he.md)
-_Context: Prime Minister, Silvio Berlusconi_
+_Context: Italian Prime Minister, Silvio Berlusconi_
 
 ### [Kenya deploys an additional 18,000 police officers as the country heads to the polls to decide the fate of a potential new constitution. ](/news/2010/08/3/kenya-deploys-an-additional-18-000-police-officers-as-the-country-heads-to-the-polls-to-decide-the-fate-of-a-potential-new-constitution.md)
 _Context: Kenya, Kenyan constitutional referendum, 2010, the new constitution_

@@ -25,7 +25,7 @@ President Obama said the move to base 2,500 Marines in Australia is not intended
 _Context: Washington DC, White House, bullet-proof glass_
 
 ### [Mario Monti is sworn in as Italian prime minister and temporary finance minister, with the task of implementing austerity measures to prevent the euro area's third-biggest economy from collapsing as a result of the debt crisis. ](/news/2011/11/16/mario-monti-is-sworn-in-as-italian-prime-minister-and-temporary-finance-minister-with-the-task-of-implementing-austerity-measures-to-preven.md)
-_Context: Economy Minister, European sovereign-debt crisis, Eurozone, Mario Monti, Prime Minister, third-biggest economy_
+_Context: Economy Minister, European sovereign-debt crisis, Eurozone, Italian Prime Minister, Mario Monti, third-biggest economy_
 
 ### [Gordon Lilo Darcy of the ruling National Coalition for Reform and Advancement is elected Prime Minister of the Solomon Islands in a 29-20 parliamentary vote over Milner Tozaka. ](/news/2011/11/16/gordon-lilo-darcy-of-the-ruling-national-coalition-for-reform-and-advancement-is-elected-prime-minister-of-the-solomon-islands-in-a-29-20-pa.md)
 _Context: Gordon Lilo Darcy, Milner Tozaka, National Coalition for Reform and Advancement, Prime Minister of the Solomon Islands_

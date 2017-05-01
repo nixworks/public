@@ -4,7 +4,7 @@
 _Context: 2015 Bangkok bombing, Bangkok, Thai police officers_
 
 ### [Denali, the highest mountain peak in North America, officially regains its original Alaska Native name through an executive order issued by American President Barack Obama. Previously, since 1917, it had been known as Mount McKinley. ](/news/2015/08/31/denali-the-highest-mountain-peak-in-north-america-officially-regains-its-original-alaska-native-name-through-an-executive-order-issued-by.md)
-_Context: Alaska Native, Barack Obama, Denali, North America, President of the United States, executive order_
+_Context: Alaska Native, Barack Obama, Denali, North America, executive order, president_
 
 ### [Hurricane Fred hits Cape Verde causing flooding and the closure of airports. ](/news/2015/08/31/hurricane-fred-hits-cape-verde-causing-flooding-and-the-closure-of-airports.md)
 _Context: 2015 Atlantic hurricane season, Cape Verde, Tropical Storm Fred's_

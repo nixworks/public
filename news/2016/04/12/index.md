@@ -34,7 +34,7 @@ The authorities in Taiwan accuse Kenya of using guns and tear gas to force 37 Ta
 SEOUL (AFP) - North Korea accused South Korea on Tuesday (April 12) of kidnapping its citizens after Seoul said 13 of them had defected to the South from China, where they worked in a Pyongyang-operated restaurant.. Read more at straitstimes.com.
 
 ### [  During a visit to Iran, Prime Minister of Italy Matteo Renzi signs various bilateral agreements to enhance relations between the two countries, including plans for cooperation between the Italian electricity and gas company Enel and the National Iranian Oil Company. ](/news/2016/04/12/during-a-visit-to-iran-prime-minister-of-italy-matteo-renzi-signs-various-bilateral-agreements-to-enhance-relations-between-the-two-count.md)
-_Context: Enel, Iran, Iran – Italy relations, Italian, Matteo Renzi, National Iranian Oil Company, Prime Minister_
+_Context: Enel, Iran, Iran – Italy relations, Italian, Italian Prime Minister, Matteo Renzi, National Iranian Oil Company_
 
 ### [  Russia and Bolivia meet to discuss how Russian defense firms can help the South American nation's long-term rearmament plan. ](/news/2016/04/12/russia-and-bolivia-meet-to-discuss-how-russian-defense-firms-can-help-the-south-american-nation-s-long-term-rearmament-plan.md)
 Bolivia is looking to Russian defense firms to revamp its aging military arsenal over the next decade.

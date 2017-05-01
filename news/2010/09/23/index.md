@@ -34,7 +34,7 @@ _Context: International Atomic Energy Agency, Iran_
 _Context: 9/11 attacks, Australia, Belgium, Government of the United States, Iranian President, Israel, Mahmoud Ahmadinejad, Spain, Sweden, United Kingdom, United Nations General Assembly, United States, Uruguay_
 
 ### [The President of the United States Barack Obama meets with the Premier of China Wen Jiabao, with the value of the renminbi the top issue for discussion. ](/news/2010/09/23/the-president-of-the-united-states-barack-obama-meets-with-the-premier-of-china-wen-jiabao-with-the-value-of-the-renminbi-the-top-issue-for.md)
-_Context: Barack Obama, Premier of the People's Republic of China, President of the United States, Wen Jiabao, yuan_
+_Context: Barack Obama, Premier of the People's Republic of China, Wen Jiabao, president, yuan_
 
 ### [Chinese authorities investigate four Japanese employees of Fujita Corp., suspected of entering a military zone and illegally videotaping military targets in northern Hebei Province. ](/news/2010/09/23/chinese-authorities-investigate-four-japanese-employees-of-fujita-corp-suspected-of-entering-a-military-zone-and-illegally-videotaping-mil.md)
 China is investigating four Japanese who allegedly entered and filmed a Chinese military area, Chinese state media report.

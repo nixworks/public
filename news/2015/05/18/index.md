@@ -28,7 +28,7 @@ _Context: Indonesia, Philippines, Rohingya minority_
 _Context: Legislative Assembly, Queensland, Scott Driscoll, State_
 
 ### [President of the United States Barack Obama bans the provision of some military-type equipment to local police departments and restricts access to other types of equipment following recent tensions between police and minority communities. ](/news/2015/05/18/president-of-the-united-states-barack-obama-bans-the-provision-of-some-military-type-equipment-to-local-police-departments-and-restricts-acc.md)
-_Context: Barack Obama, President of the United States, police department_
+_Context: Barack Obama, police department, president_
 
 ### [Former Australian tennis player Bob Hewitt is jailed for six years in South Africa for raping underaged girls. ](/news/2015/05/18/former-australian-tennis-player-bob-hewitt-is-jailed-for-six-years-in-south-africa-for-raping-underaged-girls.md)
 _Context: Bob Hewitt, South Africa_

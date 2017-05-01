@@ -46,7 +46,7 @@ _Context: Gaza Strip, German Foreign Minister, Gilad Shalit, Guido Westerwelle, 
 Last week’s four-day annual plenary meeting of the diamond-regulating Kimberley Process (KP)failed to find a solution to the ongoing issue of diamond exports from the Marange region.
 
 ### [President of the United States Barack Obama backs a permanent seat for India on the UN Security Council. ](/news/2010/11/8/president-of-the-united-states-barack-obama-backs-a-permanent-seat-for-india-on-the-un-security-council.md)
-_Context: Barack Obama, President of the United States, UN Security Council_
+_Context: Barack Obama, UN Security Council, president_
 
 ### [The Obama administration bans cargo shipments from Somalia in the wake of the Yemen bomb attacks. ](/news/2010/11/8/the-obama-administration-bans-cargo-shipments-from-somalia-in-the-wake-of-the-yemen-bomb-attacks.md)
 _Context: Obama Administration, Somalia, Yemen bomb attacks_

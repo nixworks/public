@@ -28,7 +28,7 @@ _Context: 2003, Central Intelligence Agency, Hassan Mustafa Osama Nasr, Italian,
 _Context: Abu Ayyub al-Masri, Baghdad, al-Qaeda in Iraq_
 
 ### [ The President of Afghanistan Hamid Karzai meets with the Prime Minister of Italy Romano Prodi to discuss Italian contributions to the fight against the Taliban and drug traffickers in Afghanistan. ](/news/2007/02/16/the-president-of-afghanistan-hamid-karzai-meets-with-the-prime-minister-of-italy-romano-prodi-to-discuss-italian-contributions-to-the-fight.md)
-_Context: Afghanistan, Afghanistan President, Hamid Karzai, Prime Minister, Romano Prodi, Taliban, drug traffickers_
+_Context: Afghanistan, Afghanistan President, Hamid Karzai, Italian Prime Minister, Romano Prodi, Taliban, drug traffickers_
 
 ## [Previous Day...](/news/2007/02/15/index.md)
 

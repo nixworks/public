@@ -31,7 +31,7 @@ Ethiopia says 23 prisoners have died after a fire at a prison where prominent an
 Singapore has added 91 new Zika cases since Friday, with a possible new cluster in the city-state&#039;s east, according to government agencies.
 
 ### [U.S. President Barack Obama and Russian President Vladimir Putin fail to agree on a peace deal regarding the Syrian civil war. ](/news/2016/09/5/u-s-president-barack-obama-and-russian-president-vladimir-putin-fail-to-agree-on-a-peace-deal-regarding-the-syrian-civil-war.md)
-_Context: 2016 G20 Hangzhou summit, Barack Obama, President of the United States, Russian President, Syrian Civil War, Vladimir Putin_
+_Context: 2016 G20 Hangzhou summit, Barack Obama, Russian President, Syrian Civil War, Vladimir Putin, president_
 
 ### [U.S. President Barack Obama cancels a scheduled meeting with the President of the Philippines,  Rodrigo Duterte, after Duterte referred to Obama as a "son of a whore", while adding "I am no American puppet", in response to Obama's recent criticism of his war on drugs. ](/news/2016/09/5/u-s-president-barack-obama-cancels-a-scheduled-meeting-with-the-president-of-the-philippines-rodrigo-duterte-after-duterte-referred-to-o.md)
 An intemperate remark from Rodrigo Duterte derailed a bilateral meeting.

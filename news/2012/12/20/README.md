@@ -13,7 +13,7 @@ Sale of nearly 200-year-old institution to Intercontinental Exchange comes amid 
 _Context: Apple Inc., U.S., mobile device, patent, pinch-to-zoom gestures_
 
 ### [The midwestern United States is hit by a massive storm causing major disruption to traffic. ](/news/2012/12/20/the-midwestern-united-states-is-hit-by-a-massive-storm-causing-major-disruption-to-traffic.md)
-_Context: Midwestern, massive storm_
+_Context: massive storm, midwestern_
 
 ### [The UN refugee agency reports at least 55 people have drowned after an overcrowded boat capsizes off the coast of Somalia on 18 December. ](/news/2012/12/20/the-un-refugee-agency-reports-at-least-55-people-have-drowned-after-an-overcrowded-boat-capsizes-off-the-coast-of-somalia-on-18-december.md)
 Fifty-five people were drowned,or missing and presumed to have drowned, after an overcrowdedboat capsized off the Somali coast, the U.N. refugee agency saidon Thursday.

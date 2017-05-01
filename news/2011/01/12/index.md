@@ -10,7 +10,7 @@ At least eight people are killed in attacks on Afghan intelligence forces in Kab
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [Angela Merkel, Chancellor of Germany, reaffirms that country's support for the euro in a joint press conference with the Prime Minister of Italy, Silvio Berlusconi. ](/news/2011/01/12/angela-merkel-chancellor-of-germany-reaffirms-that-country-s-support-for-the-euro-in-a-joint-press-conference-with-the-prime-minister-of-i.md)
-_Context: Angela Merkel, German Chancellor, Germany, Italian, Prime Minister, Silvio Berlusconi, euro_
+_Context: Angela Merkel, German Chancellor, Germany, Italian, Italian Prime Minister, Silvio Berlusconi, euro_
 
 ### [Australian floodsThe floods in Queensland, Australia, worsen further with 20,000 properties in the capital Brisbane expected to be flooded and 4,000 homes flooded in the nearby city of Ipswich. ](/news/2011/01/12/australian-floodspthe-floods-in-queensland-australia-worsen-further-with-20-000-properties-in-the-capital-brisbane-expected-to-be-flooded.md)
 Brisbane is preparing for the full impact of its worst flooding in more than 100 years, with officials warning almost 20,000 homes in the city will be flooded by early tomorrow morning.
@@ -40,7 +40,7 @@ Officials say the 60 per cent benchmark needed to validate secession referendum 
 _Context: Government, Hezbollah, Lebanese Prime Minister, Lebanon, Saad Hariri_
 
 ### [The President of the United States Barack Obama addresses the nation about the 2011 Tucson shooting following a visit to Representative Gabrielle Giffords in hospital. ](/news/2011/01/12/the-president-of-the-united-states-barack-obama-addresses-the-nation-about-the-2011-tucson-shooting-following-a-visit-to-representative-gabr.md)
-_Context: 2011 Tucson shooting, Barack Obama, Gabrielle Giffords, President of the United States, U.S. House_
+_Context: 2011 Tucson shooting, Barack Obama, Gabrielle Giffords, U.S. House, president_
 
 ### [Burma has passed a law enacting conscription for both males and females.](/news/2011/01/12/burma-has-passed-a-law-enacting-conscription-for-both-males-and-females.md)
 Burmese men and women above the age of 18 required to serve up to three years in the military or face half a decade in prison

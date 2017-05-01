@@ -34,7 +34,7 @@ Michigan must begin its presidential recount at noon Monday, a federal judge rul
 President-elect’s former rival for Republican presidential nomination says he can help in ‘making our inner cities great for everyone’
 
 ### [ Following the result of the constitutional referendum, Matteo Renzi will resign from his office as Prime Minister of Italy. With most ballots counted, the "No" vote leads with 60%.  ](/news/2016/12/5/following-the-result-of-the-constitutional-referendum-matteo-renzi-will-resign-from-his-office-as-prime-minister-of-italy-with-most-ballo.md)
-_Context: Italian constitutional referendum, 2016, Matteo Renzi, Prime Minister, the "No" vote_
+_Context: Italian Prime Minister, Italian constitutional referendum, 2016, Matteo Renzi, the "No" vote_
 
 ### [Manuel Valls, the Prime Minister of France, announces his candidacy for the Socialist Party nomination. He will step down as PM on Tuesday. ](/news/2016/12/5/manuel-valls-the-prime-minister-of-france-announces-his-candidacy-for-the-socialist-party-nomination-he-will-step-down-as-pm-on-tuesday.md)
 _Context: French presidential election, 2017, Manuel Valls, PS, Prime Minister_
