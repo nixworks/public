@@ -3,6 +3,9 @@
 ### [Workers' Party of Belgium representative Raoul Hedebouw gets stabbed in the thigh, moments before holding a speech in Lige, Belgium. The presumed assailant is arrested.  ](/news/2017/05/1/workers-party-of-belgium-representative-raoul-hedebouw-gets-stabbed-in-the-thigh-moments-before-holding-a-speech-in-liege-belgium-the-pr.md)
 Police in Istanbul fired tear gas and rubber bullets to break up a group of May Day demonstrators on Monday, a Reuters witness said, as authorities detained more than 200 people at protests around the city.
 
+### [Saudi Arabia announces the arrest of 46 of what it describes as militants connected with the summer 2016 suicide bombing of Al-Masjid an-Nabawi in Medina.  ](/news/2017/05/1/saudi-arabia-announces-the-arrest-of-46-of-what-it-describes-as-militants-connected-with-the-summer-2016-suicide-bombing-of-al-masjid-an-nab.md)
+_Context: Al-Masjid an-Nabawi, Medina, Saudi Arabia_
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
@@ -48,7 +51,7 @@ A Cuban military plane has reportedly crashed in the western province of Artemis
 ### [At least 7 people are killed in the US states of Missouri, Arkansas and Texas due to tornadoes and floods. ](/news/2017/04/29/at-least-7-people-are-killed-in-the-us-states-of-missouri-arkansas-and-texas-due-to-tornadoes-and-floods.md)
 _Context: April 2017 North American storm complex, Arkansas, Missouri, Texas_
 
-### [Media freedom in Turkey, Government censorship of Wikipedia, 2017 block of Wikipedia in Turkey:Monitoring group Turkey Blocks reports that a provisional administrative order blocks access to all language editions of Wikipedia in Turkey. ](/news/2017/04/29/media-freedom-in-turkey-government-censorship-of-wikipedia-2017-block-of-wikipedia-in-turkey-pmonitoring-group-turkey-blocks-reports-that.md)
+### [Monitoring group Turkey Blocks reports that a provisional administrative order blocks access to all language editions of Wikipedia in Turkey. ](/news/2017/04/29/monitoring-group-turkey-blocks-reports-that-a-provisional-administrative-order-blocks-access-to-all-language-editions-of-wikipedia-in-turkey.md)
 The internet monitoring group Turkey Blocks says all language editions of the online encyclopedia Wikipedia were blocked in Turkey on Saturday.
 
 ### [Tens of thousands of people protest in Washington, D.C. to bring awareness to climate change. ](/news/2017/04/29/tens-of-thousands-of-people-protest-in-washington-d-c-to-bring-awareness-to-climate-change.md)
