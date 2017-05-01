@@ -1,5 +1,8 @@
 ## [2017-04-30](/news/2017/04/30/index.md)
 
+### [One person is killed and seven are injured in a shooting at a pool party in San Diego, California. The suspect is killed by police. ](/news/2017/04/30/one-person-is-killed-and-seven-are-injured-in-a-shooting-at-a-pool-party-in-san-diego-california-the-suspect-is-killed-by-police.md)
+Eight people were injured in a shooting in the University City area of San Diego Sunday. Police said officers shot and killed the gunman.
+
 ### [Swiss mountain climber Ueli Steck dies in a mountaineering accident near Mount Everest. ](/news/2017/04/30/swiss-mountain-climber-ueli-steck-dies-in-a-mountaineering-accident-near-mount-everest.md)
 _Context: Mount Everest, Ueli Steck_
 

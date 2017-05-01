@@ -1,7 +1,7 @@
 ## [News](/news/2017/05/1/index.md)
 
-### [Workers' Party of Belgium representative Raoul Hedebouw gets stabbed in the thigh moments before holding a speech in Lige, Belgium. The presumed assailant is arrested.  ](/news/2017/05/1/workers-party-of-belgium-representative-raoul-hedebouw-gets-stabbed-in-the-thigh-moments-before-holding-a-speech-in-liege-belgium-the-pre.md)
-_Context: Belgium, International Workers' Day, Liège, Raoul Hedebouw, Workers' Party of Belgium, representative_
+### [Workers' Party of Belgium representative Raoul Hedebouw gets stabbed in the thigh, moments before holding a speech in Lige, Belgium. The presumed assailant is arrested.  ](/news/2017/05/1/workers-party-of-belgium-representative-raoul-hedebouw-gets-stabbed-in-the-thigh-moments-before-holding-a-speech-in-liege-belgium-the-pr.md)
+Police in Istanbul fired tear gas and rubber bullets to break up a group of May Day demonstrators on Monday, a Reuters witness said, as authorities detained more than 200 people at protests around the city.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -10,6 +10,9 @@ Most of the daily information we see on the mainstream media today is the news e
 ---
 
 ## [Yesterday](/news/2017/04/30/index.md)
+
+### [One person is killed and seven are injured in a shooting at a pool party in San Diego, California. The suspect is killed by police. ](/news/2017/04/30/one-person-is-killed-and-seven-are-injured-in-a-shooting-at-a-pool-party-in-san-diego-california-the-suspect-is-killed-by-police.md)
+Eight people were injured in a shooting in the University City area of San Diego Sunday. Police said officers shot and killed the gunman.
 
 ### [Swiss mountain climber Ueli Steck dies in a mountaineering accident near Mount Everest. ](/news/2017/04/30/swiss-mountain-climber-ueli-steck-dies-in-a-mountaineering-accident-near-mount-everest.md)
 _Context: Mount Everest, Ueli Steck_
