@@ -6,6 +6,9 @@ Police in Istanbul fired tear gas and rubber bullets to break up a group of May 
 ### [Saudi Arabia announces the arrest of 46 of what it describes as militants connected with the summer 2016 suicide bombing of Al-Masjid an-Nabawi in Medina.  ](/news/2017/05/1/saudi-arabia-announces-the-arrest-of-46-of-what-it-describes-as-militants-connected-with-the-summer-2016-suicide-bombing-of-al-masjid-an-nab.md)
 _Context: Al-Masjid an-Nabawi, Medina, Saudi Arabia_
 
+### [A stabbing leaves one dead and three injured at the University of Texas at Austin ](/news/2017/05/1/a-stabbing-leaves-one-dead-and-three-injured-at-the-university-of-texas-at-austin.md)
+_Context: University of Texas at Austin_
+
 ### [A series of earthquakes, the largest registering 6.3, strike near Mosquito Lake, Alaska, near the Alaskan border with British Columbia, Canada. At least one office building and two schools were heavily damaged and evacuated in the Yukon. ](/news/2017/05/1/a-series-of-earthquakes-the-largest-registering-6-3-strike-near-mosquito-lake-alaska-near-the-alaskan-border-with-british-columbia-cana.md)
 A magnitude-6.3 aftershock has shaken British Columbia near the boundary with Alaska, nearly two hours after a 6.2 earthquake hit the same area.
 
