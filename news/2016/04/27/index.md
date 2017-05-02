@@ -10,7 +10,7 @@ _Context: 2016 Bursa bombing, Bursa_
 Israeli police shot dead a Palestinian woman and her teenage brother on Wednesday, saying they were armed with knives and tried to carry out an attack at a checkpoint in the occupied West Bank.
 
 ### [According to officials from the breakaway region of Nagorno-Karabakh, one of their soldiers was killed overnight by Azerbaijani troops. ](/news/2016/04/27/according-to-officials-from-the-breakaway-region-of-nagorno-karabakh-one-of-their-soldiers-was-killed-overnight-by-azerbaijani-troops.md)
-_Context: 2016 Armenian–Azerbaijani clashes, Azerbaijan, Nagorno-Karabakh_
+_Context: 2016 Armenian-Azerbaijani clashes, Azerbaijan, Nagorno-Karabakh_
 
 ### [Representatives of the Russian-backed Donetsk People's Republic in Eastern Ukraine say at least five civilians are killed by artillery fire at a checkpoint in the town of Olenivka, with another 10 injured. Kiev denies the accusation. A local border-guard spokesman says there was an explosion at the checkpoint but he saw no artillery fired from either side, suggesting the blast could have been a bomb. ](/news/2016/04/27/representatives-of-the-russian-backed-donetsk-people-s-republic-in-eastern-ukraine-say-at-least-five-civilians-are-killed-by-artillery-fire.md)
 _Context: Donetsk People's Republic, Kiev, Russia, War in Donbass, eastern Ukraine_
@@ -76,7 +76,7 @@ An Iranian asylum seeker being held on Nauru is in a critical condition after se
 North Korea announces it will hold a Workers Party congress next month, the first for the ruling party in nearly 40 years.
 
 ### [Texas Senator Ted Cruz names former Republican presidential candidate Carly Fiorina as his vice-presidential running mate. ](/news/2016/04/27/texas-senator-ted-cruz-names-former-republican-presidential-candidate-carly-fiorina-as-his-vice-presidential-running-mate.md)
-_Context: 2016 U.S. presidential election, Carly Fiorina, Republican, Senator, Ted Cruz, Ted Cruz presidential campaign, 2016, Texas, presidential candidate_
+_Context: 2016 U.S. presidential election, Carly Fiorina, Republican, Ted Cruz, Ted Cruz presidential campaign, 2016, Texas, United States Senate, presidential candidate_
 
 ### [Bradford West MP Naz Shah is suspended from the opposition Labour Party over comments she made on Facebook about Israel. ](/news/2016/04/27/bradford-west-mp-naz-shah-is-suspended-from-the-opposition-labour-party-over-comments-she-made-on-facebook-about-israel.md)
 Labour suspends MP Naz Shah over a Facebook post suggesting Israel should be moved to America.

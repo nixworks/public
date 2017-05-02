@@ -40,7 +40,7 @@ Home Secretary Theresa May is to split the UK Border Agency following revelation
 A living plant has been generated from the fruit of a little arctic flower, making it the oldest plant by far that has ever been grown from ancient tissue.
 
 ### [In football, the start of the Peruvian Primera Divisin is disrupted due to a players strike due to outstanding payments. ](/news/2012/02/20/in-football-the-start-of-the-peruvian-primera-division-is-disrupted-due-to-a-players-strike-due-to-outstanding-payments.md)
-_Context: Peruvian Primera División, association football_
+_Context: Peruvian Primera Divisin, association football_
 
 ## [Previous Day...](/news/2012/02/19/index.md)
 

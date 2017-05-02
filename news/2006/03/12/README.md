@@ -10,7 +10,7 @@ _Context: Abdelhak Layada, Algerian "national reconciliation", Armed Islamic Gro
 _Context: Venezuela, coat of arms, national flag_
 
 ### [ Reports claim that a post-mortem examination has found that former Yugoslav President Slobodan Milosevic died from heart failure. ](/news/2006/03/12/reports-claim-that-a-post-mortem-examination-has-found-that-former-yugoslav-president-slobodan-miloa-evia-died-from-heart-failure.md)
-_Context: Slobodan Milošević_
+_Context: Slobodan Milosevic_
 
 ### [ Six car bombs explode in Sadr City, a neighborhood in Baghdad, killing at least forty-six people. ](/news/2006/03/12/six-car-bombs-explode-in-sadr-city-a-neighborhood-in-baghdad-killing-at-least-forty-six-people.md)
 _Context: Baghdad, Sadr City_

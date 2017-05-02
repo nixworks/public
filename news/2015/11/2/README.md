@@ -4,7 +4,7 @@
 _Context: 2015 Nepal fuel crisis, India, Nepal, relations_
 
 ### [At least 15 Somalia army soldiers are killed in an Al-Shabaab ambush near the town of Wanlaweyn in the Lower Shebelle region. ](/news/2015/11/2/at-least-15-somalia-army-soldiers-are-killed-in-an-al-shabaab-ambush-near-the-town-of-wanlaweyn-in-the-lower-shebelle-region.md)
-_Context: Lower Shebelle, Somalia army soldiers, Wanlaweyn, War in Somalia (2009–present), al-Shabaab_
+_Context: Lower Shebelle, Somalia army soldiers, Wanlaweyn, War in Somalia (2009-present), al-Shabaab_
 
 ### [A Palestinian terrorist stabs an 80-year-old woman and two men in the Israeli town of Rishon Letzion, and another Palestinian attacks an 71-year-old man and critically wounds him in Netanya.](/news/2015/11/2/a-palestinian-terrorist-stabs-an-80-year-old-woman-and-two-men-in-the-israeli-town-of-rishon-letzion-and-another-palestinian-attacks-an-71.md)
 _Context: Netanya, Palestinian terrorist, Rishon Letzion_
@@ -30,7 +30,7 @@ Faced with dimming prospects for approval, the Canadian company behind the propo
 ### [The Indonesian state of Riau extends its haze emergency by another month while four airports in Sumatra and Kalimantan remain shut. ](/news/2015/11/2/the-indonesian-state-of-riau-extends-its-haze-emergency-by-another-month-while-four-airports-in-sumatra-and-kalimantan-remain-shut.md)
 JAKARTA • The authorities in Riau, the Indonesian province that is second-closest to Singapore, have extended its haze emergency status by another month even as four airports in Sumatra and Kalimantan stayed shut over the weekend.. Read more at straitstimes.com.
 
-### [{{SS|El Faro}}The American National Transportation Safety Board confirms that wreckage found on Saturday east of the Bahamas is the cargo ship SS ''El Faro'' that sank during Hurricane Joaquin on October 1. ](/news/2015/11/2/ss-el-faro-pthe-american-national-transportation-safety-board-confirms-that-wreckage-found-on-saturday-east-of-the-bahamas-is-the-cargo-s.md)
+### [El FaroThe American National Transportation Safety Board confirms that wreckage found on Saturday east of the Bahamas is the cargo ship SS ''El Faro'' that sank during Hurricane Joaquin on October 1. ](/news/2015/11/2/el-faropthe-american-national-transportation-safety-board-confirms-that-wreckage-found-on-saturday-east-of-the-bahamas-is-the-cargo-ship-ss.md)
 The wreckage was found Saturday in 15,000 feet of water east of the Bahamas. El Faro had gone missing on Oct. 1 during Hurricane Joaquin.
 
 ### [ Planes have been left stranded at airports throughout the United Kingdom as the "Great Fog" descends. Heathrow Airport said around 45 flights had been cancelled there while London City Airport was closed for several hours. Other affected airports include Manchester, Leeds Bradford, Glasgow, Belfast, Southampton and Cardiff. ](/news/2015/11/2/planes-have-been-left-stranded-at-airports-throughout-the-united-kingdom-as-the-great-fog-descends-heathrow-airport-said-around-45-fligh.md)
@@ -48,7 +48,7 @@ _Context: China, North Korea, Park Geun-hye, President, Prime Minister, Shinzo A
 ### [Chinese military aircraft conduct training in the South China Sea following the cruise of a U.S. Navy ship in the vicinity of the disputed Spratly Islands. ](/news/2015/11/2/chinese-military-aircraft-conduct-training-in-the-south-china-sea-following-the-cruise-of-a-u-s-navy-ship-in-the-vicinity-of-the-disputed-s.md)
 Days after a U.S. naval ship sailed by, Chinese officials released photographs of armed aircraft training over disputed territory in the South China Sea.
 
-### [The Vatican police arrest Msgr. {{Interlanguage link multi|Lucio Angel Vallejo Balda|it}} and Francesca Immacolata Chaouqui, members of a former papal commission charged with studying financial operations of the Holy See, for allegedly leaking confidential documents to the media, a crime since 2013. ](/news/2015/11/2/the-vatican-police-arrest-msgr-interlanguage-link-multi-lucio-angel-vallejo-balda-it-and-francesca-immacolata-chaouqui-members-of-a-f.md)
+### [The Vatican police arrest Msgr. Lucio Angel Vallejo Balda|it and Francesca Immacolata Chaouqui, members of a former papal commission charged with studying financial operations of the Holy See, for allegedly leaking confidential documents to the media, a crime since 2013. ](/news/2015/11/2/the-vatican-police-arrest-msgr-lucio-angel-vallejo-balda-it-and-francesca-immacolata-chaouqui-members-of-a-former-papal-commission-charge.md)
 _Context: Francesca Immacolata Chaouqui, Vatican, Vatican City_
 
 ### [French  national public television broadcaster France Televisions fires France 2 TV channel's weatherman  Philippe Verdier, who has been  suspended since mid-October. Verdier, known as "Monsieur Meteo" (Mr Weather), has been promoting his recently published book, ''Climat Investigation'' (Climate Investigation), in which he throws doubt on the global warning findings of leading climate scientists and political leaders.  France Televisions said its rules, "prevent anyone using their professional status ... to push forward their personal opinions."   ](/news/2015/11/2/french-national-public-television-broadcaster-france-ta-c-la-c-visions-fires-france-2-tv-channel-s-weatherman-philippe-verdier-who-has-been.md)

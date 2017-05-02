@@ -1,6 +1,6 @@
 ## [2010-06-28](/news/2010/06/28/index.md)
 
-### [Captured Israeli soldier, Gilad Shalit:Hamas leader Khaled Mashal  says Hamas plans to kidnap more IDF soldiers and increase the price for captive soldier Gilad Shalit if Israel does not meet its demands for a prisoner swap. ](/news/2010/06/28/captured-israeli-soldier-gilad-shalit-phamas-leader-khaled-mashal-says-hamas-plans-to-kidnap-more-idf-soldiers-and-increase-the-price-for.md)
+### [Captured Israeli soldierHamas leader Khaled Mashal  says Hamas plans to kidnap more IDF soldiers and increase the price for captive soldier Gilad Shalit if Israel does not meet its demands for a prisoner swap. ](/news/2010/06/28/captured-israeli-soldierphamas-leader-khaled-mashal-says-hamas-plans-to-kidnap-more-idf-soldiers-and-increase-the-price-for-captive-soldier.md)
 Second day of march for kidnapped soldier comes to end in northern town of Kiryat Motzkin
 
 ### [Five Muslim American students sentenced to serve 10 years in a Pakistani prison for conspiracy to commit attacks and raising funds for terrorism, appeal their conviction. ](/news/2010/06/28/five-muslim-american-students-sentenced-to-serve-10-years-in-a-pakistani-prison-for-conspiracy-to-commit-attacks-and-raising-funds-for-terro.md)
@@ -15,7 +15,7 @@ Tropical Storm Alex was close to hurricane strength in the Gulf of Mexico on Tue
 ### [Assassination of Rodolfo Torre Cantu:Rodolfo Torre Cantu, a leading candidate in a Mexican, state election is assassinated near Ciudad Victoria. ](/news/2010/06/28/assassination-of-rodolfo-torre-cantu-prodolfo-torre-cantu-a-leading-candidate-in-a-mexican-state-election-is-assassinated-near-ciudad-vict.md)
 Front-running candidate for governor in border state shot dead with four aides.
 
-### [Death of oldest, longest serving United States Senator, Robert Byrd:Democratic Robert Byrd of West Virginia, President pro tempore of the United States Senate and the longest serving member its history, dies at age 92 in Washington, D.C. ](/news/2010/06/28/death-of-oldest-longest-serving-united-states-senator-robert-byrd-pdemocratic-robert-byrd-of-west-virginia-president-pro-tempore-of-the-u.md)
+### [Death of oldest, longest serving Democratic Robert Byrd of West Virginia, President pro tempore of the United States Senate and the longest serving member its history, dies at age 92 in Washington, D.C. ](/news/2010/06/28/death-of-oldest-longest-serving-democratic-robert-byrd-of-west-virginia-president-pro-tempore-of-the-united-states-senate-and-the-longest.md)
 A look at the life and career of US Senator Robert Byrd, who has died aged 92.
 
 ### [Iranian President Mahmoud Ahmadinejad postpones nuclear talks so as to "punish the West" for United Nations Security Council Resolution 1929 aimed at curbing the alleged development of Iranian nuclear weapons. ](/news/2010/06/28/iranian-president-mahmoud-ahmadinejad-postpones-nuclear-talks-so-as-to-apunish-the-westa-for-united-nations-security-council-resolution.md)
@@ -86,10 +86,10 @@ The US Supreme Court restricts the rights of state and city governments to enfor
 _Context: Australia, Central Intelligence Agency_
 
 ### [''Le Monde'' is sold to Xavier Niel, Matthieu Pigasse and Pierre Berge. ](/news/2010/06/28/le-monde-is-sold-to-xavier-niel-matthieu-pigasse-and-pierre-berga-c.md)
-_Context: Le Monde, Matthieu Pigasse, Pierre Bergé, Xavier Niel_
+_Context: Le Monde, Matthieu Pigasse, Pierre Berge, Xavier Niel_
 
 ### [One person is killed and eleven are injured in a derailment at Usti nad Labem, Czech Republic. ](/news/2010/06/28/one-person-is-killed-and-eleven-are-injured-in-a-derailment-at-asta-nad-labem-czech-republic.md)
-_Context: Czech, derailment, Ústí nad Labem_
+_Context: Czech, Usti nad Labem, derailment_
 
 ### [Turkish soldiers mistakenly kill two villagers in Hatay. ](/news/2010/06/28/turkish-soldiers-mistakenly-kill-two-villagers-in-hatay.md)
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews

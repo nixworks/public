@@ -16,7 +16,7 @@ _Context: Baghdad, Iraq_
 _Context: Afghanistan, Baghlan province, Taliban_
 
 ### [A NATO soldier is killed in a roadside bomb attack in Afghanistan, taking the 2010 death toll for allied troops in Afghanistan to 603. ](/news/2010/10/27/a-nato-soldier-is-killed-in-a-roadside-bomb-attack-in-afghanistan-taking-the-2010-death-toll-for-allied-troops-in-afghanistan-to-603.md)
-_Context: 2010 death toll, NATO, War in Afghanistan (2001–present)_
+_Context: 2010 death toll, NATO, War in Afghanistan (2001-present)_
 
 ### [Israel:An Islamic Jihad terrorist is killed when three men who approached an  Israeli security fence from the Gaza Strip are fired upon by Israel Defense Forces tanks. ](/news/2010/10/27/israel-pan-islamic-jihad-terrorist-is-killed-when-three-men-who-approached-an-israeli-security-fence-from-the-gaza-strip-are-fired-upon-by.md)
 _Context: Gaza Strip, Islamic Jihad Movement in Palestine, Israel, Israel Defense Forces_
@@ -39,7 +39,7 @@ _Context: Indonesia, Mount Merapi volcanic eruption, Mounts Merapi, Yogyakarta_
 ### [Indonesian tsunamiThe death toll from the tsunami following the October 2010 Sumatra earthquake reaches at least 282 with hundreds of people still missing. ](/news/2010/10/27/indonesian-tsunamipthe-death-toll-from-the-tsunami-following-the-october-2010-sumatra-earthquake-reaches-at-least-282-with-hundreds-of-peopl.md)
 The death toll from a tsunami in western Indonesia rises to 282, officials say, as doubts emerge about whether an early warning system was working properly.
 
-### [Factory fishing ship {{ship|FV|Athena||2}} catches fire off the Isles of Scilly, with 111 crew onboard. ](/news/2010/10/27/factory-fishing-ship-ship-fv-athena-2-catches-fire-off-the-isles-of-scilly-with-111-crew-onboard.md)
+### [Factory fishing ship FV|Athena||2 catches fire off the Isles of Scilly, with 111 crew onboard. ](/news/2010/10/27/factory-fishing-ship-fv-athena-2-catches-fire-off-the-isles-of-scilly-with-111-crew-onboard.md)
 Nearly 100 people on board a fishing ship which is on fire 230 miles south-west of the Isles of Scilly take to life rafts.
 
 ### [A surprise trip by U.S. Secretary of State Hillary Clinton to China has been confirmed. ](/news/2010/10/27/a-surprise-trip-by-u-s-secretary-of-state-hillary-clinton-to-china-has-been-confirmed.md)

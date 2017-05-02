@@ -4,7 +4,7 @@
 A group of Libyan football figures, including members of the national team, tell the BBC they have decided to defect to the rebels.
 
 ### [War in Afghanistan (2001-present):](/news/2011/06/25/war-in-afghanistan-2001apresent.md)
-_Context: War in Afghanistan (2001–present)_
+_Context: War in Afghanistan (2001-present)_
 
 ### [35 people are killed in a suicide car bomb attack in Afghanistan's Logar province. ](/news/2011/06/25/35-people-are-killed-in-a-suicide-car-bomb-attack-in-afghanistan-s-logar-province.md)
 A suicide car bomber killed at least 20 people, and possibly as many as 35, in an attack at a hospital in a remote district of eastern Afghanistan on Saturday that damaged its maternity ward, officials said.

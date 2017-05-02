@@ -10,7 +10,7 @@ _Context: Anna Politkovskaya, Chechnya, Moscow, Russia, Russian President, Vladi
 _Context: Korean Demilitarized Zone, North Korea, South Korea_
 
 ### [ Latvian parliamentary election: The governing coalition led by Prime Minister Aigars Kalvitis wins re-election, the first Latvian administration to be re-elected since independence from the Soviet Union in 1991. ](/news/2006/10/7/latvian-parliamentary-election-the-governing-coalition-led-by-prime-minister-aigars-kalva-tis-wins-re-election-the-first-latvian-administ.md)
-_Context: Aigars Kalvītis, Latvia, Latvian parliamentary election, Prime Minister of Latvia_
+_Context: Aigars Kalvitis, Latvia, Latvian parliamentary election, Prime Minister of Latvia_
 
 ## [Previous Day...](/news/2006/10/6/index.md)
 

@@ -1,7 +1,7 @@
 ## [2013-09-28](/news/2013/09/28/index.md)
 
 ### [Sudanese protests (2011-present):Sudanese security forces fire live ammunition on a march that followed the funeral of a demonstrator killed the day before. ](/news/2013/09/28/sudanese-protests-2011apresent-psudanese-security-forces-fire-live-ammunition-on-a-march-that-followed-the-funeral-of-a-demonstrator-kil.md)
-_Context: Sudanese protests (2011–present)_
+_Context: Sudanese protests (2011-present)_
 
 ### [Islamist insurgency in Nigeria:Gunmen from the Islamist group Boko Haram kill 27 villagers in two attacks in Nigeria's restive northeast. ](/news/2013/09/28/islamist-insurgency-in-nigeria-pgunmen-from-the-islamist-group-boko-haram-kill-27-villagers-in-two-attacks-in-nigeria-s-restive-northeast.md)
 _Context: Boko Haram, Islamist insurgency in Nigeria_

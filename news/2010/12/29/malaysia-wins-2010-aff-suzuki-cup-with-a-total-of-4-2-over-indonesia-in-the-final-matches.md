@@ -11,4 +11,4 @@ MANILA, Philippines -- Indonesia has failed to score the necessary aggregate poi
 
 ### Related:
 
-1. [The 2018 FIFA World Cup qualifier between Malaysia and Saudi Arabia was abandoned due to crowd trouble just before full time. {{cn|date=September 2015}}](/news/2015/09/8/the-2018-fifa-world-cup-qualifier-between-malaysia-and-saudi-arabia-was-abandoned-due-to-crowd-trouble-just-before-full-time-cn-date-sept.md) _Context: Malaysia_
+1. [The 2018 FIFA World Cup qualifier between Malaysia and Saudi Arabia was abandoned due to crowd trouble just before full time. date=September 2015](/news/2015/09/8/the-2018-fifa-world-cup-qualifier-between-malaysia-and-saudi-arabia-was-abandoned-due-to-crowd-trouble-just-before-full-time-date-september.md) _Context: Malaysia_

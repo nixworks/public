@@ -10,7 +10,7 @@ _Context: Poland, Przewozy Regionalne_
 _Context: Verizon Communications, prescription drug_
 
 ### [The price of gold reaches a new record after the President of Venezuela Hugo Chvez announces plans to nationalize the Venezuelan gold industry. ](/news/2011/08/17/the-price-of-gold-reaches-a-new-record-after-the-president-of-venezuela-hugo-chavez-announces-plans-to-nationalize-the-venezuelan-gold-indus.md)
-_Context: Hugo Chávez, Venezuela, Venezuelan President, gold_
+_Context: Hugo Chvez, Venezuela, Venezuelan President, gold_
 
 ### [The ''Financial Times'' reports that sources "familiar with the situation" say Liberty Media is losing interest in a purchase of Barnes & Noble, due to financing constraints. ](/news/2011/08/17/the-financial-times-reports-that-sources-familiar-with-the-situation-say-liberty-media-is-losing-interest-in-a-purchase-of-barnes-no.md)
 _Context: Barnes & Noble, Financial Times, Liberty Media_

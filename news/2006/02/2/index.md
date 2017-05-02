@@ -12,7 +12,7 @@ _Context: John Boehner, Majority Leader, Ohio, Roy Blunt, U.S. House_
 ### [ Royal Dutch Shell breaks the record for the highest ever annual profit for a British company with a total of 13.12bn ](/news/2006/02/2/royal-dutch-shell-breaks-the-record-for-the-highest-ever-annual-profit-for-a-british-company-with-a-total-of-ps13-12bn.md)
 _Context: Royal Dutch Shell_
 
-### [ The oil tanker Seabulk Pride, carrying approx {{convert|100000|oilbbl|m3}} (approx. {{Nowrap|16 million L}}) of oil, runs aground in the port of Nikiski, Alaska. ](/news/2006/02/2/the-oil-tanker-seabulk-pride-carrying-approx-convert-100000-oilbbl-m3-approx-nowrap-16-million-l-of-oil-runs-aground-in-the-po.md)
+### [ The oil tanker Seabulk Pride, carrying approx 100000|oilbbl|m3 (approx. 16 million L) of oil, runs aground in the port of Nikiski, Alaska. ](/news/2006/02/2/the-oil-tanker-seabulk-pride-carrying-approx-100000-oilbbl-m3-approx-16-million-l-of-oil-runs-aground-in-the-port-of-nikiski-alaska.md)
 _Context: Alaska, Nikiski, Seabulk Pride, oil tanker_
 
 ### [ The mobile phones of high ranking Greek government officials, including Prime Minister Costas Karamanlis have been revealed to have been tapped by unknown eavesdroppers. ](/news/2006/02/2/the-mobile-phones-of-high-ranking-greek-government-officials-including-prime-minister-costas-karamanlis-have-been-revealed-to-have-been-ta.md)

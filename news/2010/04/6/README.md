@@ -31,7 +31,7 @@ Torrential rain leads to mudslides, leaving at least 95 dead in Rio de Janeiro s
 _Context: North Korea, Red Star operating system_
 
 ### [Prime Minister of Turkey Recep Tayyip Erdogan, speaking about 100,000 Armenian illegal immigrants currently living in Turkey, says "I may have to tell these 100,000 to go back to their country because they are not my citizens. I don't have to keep them in my country". ](/news/2010/04/6/prime-minister-of-turkey-recep-tayyip-erdoaan-speaking-about-100-000-armenian-illegal-immigrants-currently-living-in-turkey-says-i-may-h.md)
-_Context: Armenia, Prime Minister, Recep Tayyip Erdoğan, Turkey_
+_Context: Armenia, Prime Minister, Recep Tayyip Erdogan, Turkey_
 
 ### [Hackers based in China access classified Indian documents, emails of the Dalai Lama, offices of the United Nations and the Pakistani embassy in the United States. ](/news/2010/04/6/hackers-based-in-china-access-classified-indian-documents-emails-of-the-dalai-lama-offices-of-the-united-nations-and-the-pakistani-embassy.md)
 Chinese hackers have pilfered classified documents from the India&rsquo;s security, defense, and diplomatic establishment, including assessments of the Maoist and Naxalite movements.
@@ -43,7 +43,7 @@ Police detain at least 14 military officers over alleged plot to topple governme
 _Context: Cairo, Egypt_
 
 ### [South African police build a barricade from razor wire to curtail people scuffles outside Ventersdorp Magistrate's court where two farm workers, aged 15 and 28, are charged with Saturday's murder of white supremacist leader Eugene Terre'Blanche. ](/news/2010/04/6/south-african-police-build-a-barricade-from-razor-wire-to-curtail-people-scuffles-outside-ventersdorp-magistrate-s-court-where-two-farm-work.md)
-_Context: Eugène Terre'Blanche, South Africa, Ventersdorp_
+_Context: Eugene Terre'Blanche, South Africa, Ventersdorp_
 
 ### [President of Yemen Ali Abdullah Saleh frees prisoners as part of its support for the cease-fire. ](/news/2010/04/6/president-of-yemen-ali-abdullah-saleh-frees-prisoners-as-part-of-its-support-for-the-cease-fire.md)
 _Context: Saleh, Yemen, Yemeni President_

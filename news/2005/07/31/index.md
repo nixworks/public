@@ -16,7 +16,7 @@ _Context: Chile, Christian Democrat, Michelle Bachelet_
 _Context: ABC, Chechen, Russia, Sergei Ivanov, Shamil Basayev_
 
 ### [ In Cte d'Ivoire, former rebels known as the New Forces refuse to disarm before legislative reforms ](/news/2005/07/31/in-cote-d-ivoire-former-rebels-known-as-the-new-forces-refuse-to-disarm-before-legislative-reforms.md)
-_Context: Côte d'Ivoire, New Forces_
+_Context: Cte d'Ivoire, New Forces_
 
 ### [ Indonesian pilot Pollycarpus Budihari Priyanto is charged with involvement with the murder of Munir Said Thalib ](/news/2005/07/31/indonesian-pilot-pollycarpus-budihari-priyanto-is-charged-with-involvement-with-the-murder-of-munir-said-thalib.md)
 _Context: Indonesia, Munir Said Thalib, Pollycarpus Budihari Priyanto_

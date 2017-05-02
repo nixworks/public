@@ -4,7 +4,7 @@
 _Context: 2011 Syrian uprising, Homs, fighter aircraft, tank_
 
 ### [War in Afghanistan (2001-present):A suicide bomber targets a NATO convoy in the Afghan capital Kabul killing at least four Afghans, 13 American troops, and members of the International Security Assistance Force. ](/news/2011/10/29/war-in-afghanistan-2001apresent-pa-suicide-bomber-targets-a-nato-convoy-in-the-afghan-capital-kabul-killing-at-least-four-afghans-13-am.md)
-_Context: Afghanistan, International Security Assistance Force, Kabul, NATO, War in Afghanistan (2001–present), suicide bomber_
+_Context: Afghanistan, International Security Assistance Force, Kabul, NATO, War in Afghanistan (2001-present), suicide bomber_
 
 ### [The Australian airline Qantas grounds its entire fleet due to an ongoing industrial dispute with a lockout to start on Monday. ](/news/2011/10/29/the-australian-airline-qantas-grounds-its-entire-fleet-due-to-an-ongoing-industrial-dispute-with-a-lockout-to-start-on-monday.md)
 _Context: Australia, Qantas, ongoing industrial dispute_

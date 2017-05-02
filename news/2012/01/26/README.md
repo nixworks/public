@@ -16,7 +16,7 @@ The Arab League is to ask the United Nations Security Council to back its plan t
 U.S. gene sequencing company Illumina Inc (ILMN.O) adopted a &quot;poison pill&quot; defense strategy against a hostile $5.7 billion bid from Swiss drugmaker Roche Holding AG ROG.VX, saying it would trigger a rights agreement if any party bought 15 percent of its stock.
 
 ### [Three people are killed and 16 missing after three office buildings collapse in Cinelandia square in Rio de Janeiro, Brazil. ](/news/2012/01/26/three-people-are-killed-and-16-missing-after-three-office-buildings-collapse-in-cinelac-ndia-square-in-rio-de-janeiro-brazil.md)
-_Context: Brazil, Cinelândia, Rio de Janeiro_
+_Context: Brazil, Cinelandia, Rio de Janeiro_
 
 ### [Security escort Australian Prime Minister Julia Gillard and Opposition Leader Tony Abbott from a restaurant in Canberra after indigenous protesters surrounded the building on Australia Day in response to comments made by Abbott. ](/news/2012/01/26/security-escort-australian-prime-minister-julia-gillard-and-opposition-leader-tony-abbott-from-a-restaurant-in-canberra-after-indigenous-pro.md)
 About 200 protesters trapped Prime Minister Julia Gillard and Opposition Leader Tony Abbott in a Canberra restaurant before police arrived to clear a passage for the pair.

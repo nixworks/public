@@ -4,7 +4,7 @@
 Sources in city say three clinics in rebel-held areas of Aleppo have been destroyed in bombardment.
 
 ### [According to Eurostat, the Eurozone's economy grew by 0.6% in the first three months of 2016, faster than what was originally expected, with unemployment falling to 10.2%. This growth suggest that the eurozone's economy is now bigger than it was before the start of the financial crisis of 2007-08. ](/news/2016/04/29/according-to-eurostat-the-eurozone-s-economy-grew-by-0-6-in-the-first-three-months-of-2016-faster-than-what-was-originally-expected-with.md)
-_Context: Eurostat, Eurozone, financial crisis of 2007–08_
+_Context: Eurostat, Eurozone, financial crisis of 2007-08_
 
 ### [A magnitude 7.0 earthquake hits off the coast of the Vanuatu island of Malakula, prompting the Pacific Tsunami Warning Center (PTWC) to issue a tsunami warning for the coasts of New Caledonia, Papua New Guinea, Solomon Islands and Vanuatu, which was later cancelled. ](/news/2016/04/29/a-magnitude-7-0-earthquake-hits-off-the-coast-of-the-vanuatu-island-of-malakula-prompting-the-pacific-tsunami-warning-center-ptwc-to-issu.md)
 A tsunami warning issued after a shallow magnitude-7.0 earthquake struck the Vanuatu island of Malekula is cancelled.
@@ -25,7 +25,7 @@ A mosque under refurbishment collapses during Friday prayers in the Somali capit
 The man died from internal bleeding resulting from a rare immune reaction to his Zika infection.
 
 ### [The United States Air Force lands two of its most advanced fighter jets in Lithuania for the first time in a show of support for the Baltic states which have become worried about Russia's actions in Ukraine. ](/news/2016/04/29/the-united-states-air-force-lands-two-of-its-most-advanced-fighter-jets-in-lithuania-for-the-first-time-in-a-show-of-support-for-the-baltic.md)
-_Context: Baltics, Lithuania, Lithuania–United States relations, Russia, Ukrainian, United States Air Force, most advanced fighter jets_
+_Context: Baltics, Lithuania, Lithuania-United States relations, Russia, Ukrainian, United States Air Force, most advanced fighter jets_
 
 ### [Australia commemorates the one-year anniversary of the execution of the ringleaders the Bali Nine. ](/news/2016/04/29/australia-commemorates-the-one-year-anniversary-of-the-execution-of-the-ringleaders-the-bali-nine.md)
 A long-term guard and former inmates of Kerobokan speak of their loss, one year on from the executions of Bali Nine ringleaders Myuran Sukumaran and Andrew Chan.

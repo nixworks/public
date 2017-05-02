@@ -10,7 +10,7 @@ _Context: Algeria, Islamist, soldier_
 _Context: Afghanistan, Benedict XVI, Darfur, Democratic Republic of Congo, Easter, Iraq War, Middle East, Pope, Somalia, Zimbabwe, homily_
 
 ### [ War in Afghanistan: Seven NATO soldiers die as a result of car bombings in southern Afghanistan as it conducts an offensive against the Taliban. ](/news/2007/04/8/war-in-afghanistan-p-seven-nato-soldiers-die-as-a-result-of-car-bombings-in-southern-afghanistan-as-it-conducts-an-offensive-against-the-ta.md)
-_Context: Afghanistan, NATO, Taliban, War in Afghanistan (2001–present), car bombing, soldier_
+_Context: Afghanistan, NATO, Taliban, War in Afghanistan (2001-present), car bombing, soldier_
 
 ### [ Voters go to the polls in Japan for local elections including 13 gubernatorial elections and 4 mayoral races with the most closely watched race being for the Governor of Tokyo. ](/news/2007/04/8/voters-go-to-the-polls-in-japan-for-local-elections-including-13-gubernatorial-elections-and-4-mayoral-races-with-the-most-closely-watched.md)
 _Context: Japan, Tokyo, gubernatorial elections_

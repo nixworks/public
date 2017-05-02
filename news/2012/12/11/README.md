@@ -52,13 +52,13 @@ Mali&#039;s prime minister Cheick Modibo Diarra has resigned hours after he was 
 _Context: Lansing, Michigan, Michigan State Capitol, right to work_
 
 ### [Hugo Chvez, the President of Venezuela, undergoes cancer surgery in Cuba. ](/news/2012/12/11/hugo-chavez-the-president-of-venezuela-undergoes-cancer-surgery-in-cuba.md)
-_Context: Cuba, Hugo Chávez, President, cancer surgery_
+_Context: Cuba, Hugo Chvez, President, cancer surgery_
 
 ### [The $3 million special Fundamental Physics Prize is awarded to Stephen Hawking, a British theoretical physicist. Seven scientists who led the Large Hadron Collider and discovered Higgs-like particle share another $3 million special prize which was founded by a Russian physicist and internet entrepreneur Yuri Milner. ](/news/2012/12/11/the-3-million-special-fundamental-physics-prize-is-awarded-to-stephen-hawking-a-british-theoretical-physicist-seven-scientists-who-led-th.md)
 _Context: Britons, Fundamental Physics Prize, Higgs boson, Large Hadron Collider, Russia, Stephen Hawking, Theoretical physicists, Yuri Milner_
 
 ### [In road bicycle racing, world number one Joaquim Rodrguez's Team Katusha is facing 2013 without guaranteed entries for the biggest races on the calendar after the UCI surprisingly relegated them from the 2013 UCI World Tour. ](/news/2012/12/11/in-road-bicycle-racing-world-number-one-joaquim-rodriguez-s-team-katusha-is-facing-2013-without-guaranteed-entries-for-the-biggest-races-on.md)
-_Context: 2013 UCI World Tour, Joaquim Rodríguez, Team Katusha, Union Cycliste Internationale, biggest races, road bicycle racing, world number one_
+_Context: 2013 UCI World Tour, Joaquim Rodrguez, Team Katusha, Union Cycliste Internationale, biggest races, road bicycle racing, world number one_
 
 ## [Previous Day...](/news/2012/12/10/index.md)
 

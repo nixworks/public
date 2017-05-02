@@ -13,7 +13,7 @@ _Context: Aero L-159 Alca, Bohemia, Czech, aircraft, subsonic_
 _Context: 10 Most Wanted Fugitives list, Guadalajara, Joe Saenz, Mexican Police_
 
 ### [After a 2012-13 UEFA Europa League football match between Lazio and Tottenham Hotspur in Rome, Lazio and A.S. Roma fans wearing masks and armed with knives surround a pub while chanting "Jews, Jews". They then attacked the Jewish contingent of Tottenham fans in the pub and injured 10, with one individual severely wounded. ](/news/2012/11/23/after-a-2012a13-uefa-europa-league-football-match-between-lazio-and-tottenham-hotspur-in-rome-lazio-and-a-s-roma-fans-wearing-masks-and.md)
-_Context: 2012–13 UEFA Europa League, Jewish, Lazio, Roma, Rome, Tottenham Hotspur F.C._
+_Context: 2012-13 UEFA Europa League, Jewish, Lazio, Roma, Rome, Tottenham Hotspur F.C._
 
 ### [Opposition leaders in Egypt call for large protests after President of Egypt Mohamed Morsi passed a decree giving himself sweeping new powers. Protests for and against his decision are taking place in Cairo, and violence has occurred throughout Egypt. ](/news/2012/11/23/opposition-leaders-in-egypt-call-for-large-protests-after-president-of-egypt-mohamed-morsi-passed-a-decree-giving-himself-sweeping-new-power.md)
 Police fired tear gas at protesters as supporters and opponents of President Mohamed Morsi clashed in Cairo. Over 100 people were reportedly injured as sporadic clashes continued into the night, while protesters organized a sit-in on Tahrir Square.

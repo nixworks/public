@@ -4,7 +4,7 @@
 At least 147 people have died in an attack by al-Shabab on Garissa University, Kenya - the deadliest assault yet by the Islamist group.
 
 ### [Al-Qaeda fighters attack a prison in Al Mukalla, freeing at least 270 prisoners. ](/news/2015/04/2/al-qaeda-fighters-attack-a-prison-in-al-mukalla-freeing-at-least-270-prisoners.md)
-_Context: Al Mukalla, Yemeni Crisis (2011–present), al-Qaeda_
+_Context: Al Mukalla, Yemeni Crisis (2011-present), al-Qaeda_
 
 ### [Germanwings Flight 9525:The flight data recorder is recovered from the crash site. ](/news/2015/04/2/germanwings-flight-9525-pthe-flight-data-recorder-is-recovered-from-the-crash-site.md)
 The co-pilot suspected of deliberately crashing a plane into the Alps had researched suicide methods and the security of cockpit doors, prosecutors say.

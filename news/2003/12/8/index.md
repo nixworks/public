@@ -4,7 +4,7 @@
 _Context: GMO, Trade war over genetically modified food, genetically modified wheat_
 
 ### [The United States Congress passes the Can Spam Act of 2003. [http://www.infoworld.com/article/03/12/08/HNspambill_1.html]](/news/2003/12/8/the-united-states-congress-passes-the-can-spam-act-of-2003-http-www-infoworld-com-article-03-12-08-hnspambill_1-html.md)
-_Context: CAN-SPAM Act of 2003, U.S. Congress_
+_Context: CAN-SPAM Act of 2003, U.S. Congressional_
 
 ### [King Harald V of Norway successfully undergoes a 5-hour cancer operation in which his bladder is removed and a new one constructed, at Rikshospitalet University Hospital in Oslo. [http://www.aftenposten.no/english/local/article.jhtml?articleID=686979]](/news/2003/12/8/king-harald-v-of-norway-successfully-undergoes-a-51-2-hour-cancer-operation-in-which-his-bladder-is-removed-and-a-new-one-constructed-at-riks.md)
 _Context: King, Norway, Oslo, cancer_
@@ -28,7 +28,7 @@ _Context: ATV, Ozzy Osbourne_
 _Context: England, London, Rugby Union World Cup_
 
 ### [Rubn Gonzlez, the successful Cuban pianist, dies at home in Havana, at the age of 84. [http://www.guardian.co.uk/obituaries/story/0,3604,1103619,00.html]](/news/2003/12/8/ruben-gonzalez-the-successful-cuban-pianist-dies-at-home-in-havana-at-the-age-of-84-http-www-guardian-co-uk-obituaries-story-0-3604-1.md)
-_Context: Cuba, Havana, Rubén González, pianist_
+_Context: Cuba, Havana, Rubn Gonzlez, pianist_
 
 ### [ Greek electronic game ban: The Greek government in an attempt to fight illegal gambling passes an old decision (1107414/1491/T. & E. F.) regarding the 3037/2002 law.](/news/2003/12/8/greek-electronic-game-ban-the-greek-government-in-an-attempt-to-fight-illegal-gambling-passes-an-old-decision-1107414-1491-t-e-f-re.md)
 _Context: Greek electronic game ban_

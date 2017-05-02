@@ -1,7 +1,7 @@
 ## [2002-10-27](/news/2002/10/27/index.md)
 
 ### [ Leftist Luis Inacio Lula da Silva handily wins Brazil's presidential election.](/news/2002/10/27/leftist-luis-ina-cio-lula-da-silva-handily-wins-brazil-s-presidential-election.md)
-_Context: Leftist, Luis Inácio Lula da Silva_
+_Context: Leftist, Luis Inacio Lula da Silva_
 
 ### [ The Anaheim Angels win the 2002 World Series by four games to three, with a 4-1 win over the San Francisco Giants in Game 7.](/news/2002/10/27/the-anaheim-angels-win-the-2002-world-series-by-four-games-to-three-with-a-4a1-win-over-the-san-francisco-giants-in-game-7.md)
 _Context: 2002 World Series, Giants', Los Angeles Angels_

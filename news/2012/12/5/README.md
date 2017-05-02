@@ -4,7 +4,7 @@
 _Context: Damascus, Hungary, Syrian Civil War_
 
 ### [2011-2012 conflict in Lebanon:The death toll from two days of clashes in the city of Tripoli reaches six, with dozens reported injured. ](/news/2012/12/5/2011a2012-conflict-in-lebanon-pthe-death-toll-from-two-days-of-clashes-in-the-city-of-tripoli-reaches-six-with-dozens-reported-injured.md)
-_Context: 2011–2012 conflict in Lebanon, Tripoli, Lebanon_
+_Context: 2011-2012 conflict in Lebanon, Tripoli, Lebanon_
 
 ### [2012 terrorist attacks in Kenya:A remote-controlled bomb explodes in a predominantly Somali neighborhood in the Kenyan capital Nairobi, injuring nine people. ](/news/2012/12/5/2012-terrorist-attacks-in-kenya-pa-remote-controlled-bomb-explodes-in-a-predominantly-somali-neighborhood-in-the-kenyan-capital-nairobi-inj.md)
 A suspected remote-controlled bomb tore through a predominantly Somali neighborhood in the Kenyan capital Nairobi on Wednesday, wounding up to nine people during the evening rush hour.
@@ -52,7 +52,7 @@ The New Orleans Hornets are expected to become the New Orleans Pelicans, perhaps
 _Context: 2013 UEFA European Under-19 Football Championship, Croatia, Greece, Poland, Spain, Title holders, UEFA, elite qualification round, last season_
 
 ### [Lionel Messi is carried off on a stretcher with an apparent knee injury as FC Barcelona are held to 0-0 by Benfica at Camp Nou in the 2012-13 UEFA Champions League. ](/news/2012/12/5/lionel-messi-is-carried-off-on-a-stretcher-with-an-apparent-knee-injury-as-fc-barcelona-are-held-to-0a0-by-benfica-at-camp-nou-in-the-2012.md)
-_Context: 2012–13 UEFA Champions League, Benfica, Camp Nou, FC Barcelona, Lionel Messi, knee injury, stretcher_
+_Context: 2012-13 UEFA Champions League, Benfica, Camp Nou, FC Barcelona, Lionel Messi, knee injury, stretcher_
 
 ## [Previous Day...](/news/2012/12/4/index.md)
 

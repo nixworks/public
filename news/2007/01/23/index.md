@@ -7,7 +7,7 @@ Recently Japan caught a very rare deep ocean shark. This type of shark is very d
 _Context: Elections, Maoist supporters, United Nations Mission in Nepal, United Nations Security Council Resolution 1740_
 
 ### [ Volodymyr Yelchenko, Ukraine's ambassador to Austria, is fired after he makes an unauthorized offer of a visa to Ukraine for exiled Turkmen opposition leader Hudayberdi Ozarow. Ozarow and opposition leader Nurmuhammet Hanamow allegedly visited Kiev last week and met with Ukrainian Transportation Minister Mykola Rudkovskiy, but this has been denied by several officials. ](/news/2007/01/23/volodymyr-yelchenko-ukraine-s-ambassador-to-austria-is-fired-after-he-makes-an-unauthorized-offer-of-a-visa-to-ukraine-for-exiled-turkmen.md)
-_Context: Austria, Hudaýberdi Ozarow, Kiev, Mykola Rudkovskiy, Nurmuhammet Hanamow, Turkmenistan, Ukrainian_
+_Context: Austria, Hudayberdi Ozarow, Kiev, Mykola Rudkovskiy, Nurmuhammet Hanamow, Turkmenistan, Ukrainian_
 
 ### [ Israel's Ministry of Justice says it plans to charge Israeli President Moshe Katsav with rape and abuse of power. ](/news/2007/01/23/israel-s-ministry-of-justice-says-it-plans-to-charge-israeli-president-moshe-katsav-with-rape-and-abuse-of-power.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
@@ -25,13 +25,13 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Amanda Vanstone, Joe Hockey, John Howard, Malcolm Turnbull, Prime Minister of Australia_
 
 ### [ Trade union leaders in Guinea are released and meet with President Lansana Conte as the general strike escalates. ](/news/2007/01/23/trade-union-leaders-in-guinea-are-released-and-meet-with-president-lansana-conta-c-as-the-general-strike-escalates.md)
-_Context: Guinea, Lansana Conté, President of Guinea, general strike_
+_Context: Guinea, Lansana Conte, President of Guinea, general strike_
 
 ### [ War in Somalia: Ethiopia begins withdrawing troops from Mogadishu. ](/news/2007/01/23/war-in-somalia-ethiopia-begins-withdrawing-troops-from-mogadishu.md)
 _Context: Mogadishu, two years of helping_
 
 ### [ President of the United States George W. Bush delivers the 2007 State of the Union Address, in which he remains steadfast to his Iraq policies, but also reaches out to political opponents by proposing environmental and social reforms. ](/news/2007/01/23/president-of-the-united-states-george-w-bush-delivers-the-2007-state-of-the-union-address-in-which-he-remains-steadfast-to-his-iraq-polic.md)
-_Context: 2007 State of the Union Address, Democrat, George W. Bush, U.S. presence in Iraq, president_
+_Context: 2007 State of the Union Address, Democratic, George W. Bush, U.S. presence in Iraq, president_
 
 ## [Previous Day...](/news/2007/01/22/index.md)
 

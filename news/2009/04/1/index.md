@@ -30,7 +30,7 @@ _Context: Australia, Mid North Coast, New South Wales, federal disaster declarat
 ### [ Albania and Croatia join the North Atlantic Treaty Organization. ](/news/2009/04/1/albania-and-croatia-join-the-north-atlantic-treaty-organization.md)
 _Context: Albania, Croatia, Enlargement of NATO, NATO_
 
-### [ The United States' World War II motor ship {{MS|City of Rayville||2}} is located near Australia. ](/news/2009/04/1/the-united-states-world-war-ii-motor-ship-ms-city-of-rayville-2-is-located-near-australia.md)
+### [ The United States' World War II motor ship City of Rayville||2 is located near Australia. ](/news/2009/04/1/the-united-states-world-war-ii-motor-ship-city-of-rayville-2-is-located-near-australia.md)
 Researchers mapping the sea floor off Victoria have uncovered the rusting wreck of the first American vessel to be sunk during World War II.
 
 ### [ Sweden's Parliament legalizes same-sex marriage.  ](/news/2009/04/1/sweden-s-parliament-legalizes-same-sex-marriage.md)

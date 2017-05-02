@@ -14,7 +14,7 @@ IDF carries out heaviest strikes to date in northern Gaza. Territory plunged int
 
 ### Related:
 
-1. [Israel Defense Forces declare that the Israeli soldier previously believed to have been captured by Hamas fighters in Rafah had in fact been killed in battle that day and his body taken. ](/news/2014/08/2/israel-defense-forces-declare-that-the-israeli-soldier-previously-believed-to-have-been-captured-by-hamas-fighters-in-rafah-had-in-fact-been.md) _Context: 2014 Israel–Gaza conflict, Israel Defense Forces_
+1. [Israel Defense Forces declare that the Israeli soldier previously believed to have been captured by Hamas fighters in Rafah had in fact been killed in battle that day and his body taken. ](/news/2014/08/2/israel-defense-forces-declare-that-the-israeli-soldier-previously-believed-to-have-been-captured-by-hamas-fighters-in-rafah-had-in-fact-been.md) _Context: 2014 Israel-Gaza conflict, Israel Defense Forces_
 2. [ An Israeli Defense Forces airstrike kills 13 people in Gaza City. ](/news/2009/01/17/an-israeli-defense-forces-airstrike-kills-13-people-in-gaza-city.md) _Context: Gaza, Israel Defense Forces_
 3. [ Israeli Defense Forces advance on Gaza City and engage in urban warfare with Hamas militants. ](/news/2009/01/13/israeli-defense-forces-advance-on-gaza-city-and-engage-in-urban-warfare-with-hamas-militants.md) _Context: Gaza, Israel Defense Forces_
 4. [ Urban warfare begins between Israeli Defense Forces and Hamas militants as the former push further into Gaza City.  ](/news/2009/01/12/urban-warfare-begins-between-israeli-defense-forces-and-hamas-militants-as-the-former-push-further-into-gaza-city.md) _Context: Gaza, Israel Defense Forces_

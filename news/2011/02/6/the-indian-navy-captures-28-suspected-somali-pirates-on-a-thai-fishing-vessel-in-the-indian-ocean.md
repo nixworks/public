@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [A British cruise ship avoids a possible Somali pirate attack {{convert|100|mi|km}} off the coast of Tanzania in the Indian Ocean. ](/news/2011/01/13/a-british-cruise-ship-avoids-a-possible-somali-pirate-attack-convert-100-mi-km-off-the-coast-of-tanzania-in-the-indian-ocean.md) _Context: Indian Ocean, Somali pirates_
+1. [A British cruise ship avoids a possible Somali pirate attack 100|mi|km off the coast of Tanzania in the Indian Ocean. ](/news/2011/01/13/a-british-cruise-ship-avoids-a-possible-somali-pirate-attack-100-mi-km-off-the-coast-of-tanzania-in-the-indian-ocean.md) _Context: Indian Ocean, Somali pirates_
 2. [Somali pirates seize a Thai-flagged ship off the coast of Somalia. ](/news/2010/12/26/somali-pirates-seize-a-thai-flagged-ship-off-the-coast-of-somalia.md) _Context: Somali pirates, Thailand_
 3. [Somali pirates attack and seize a Liberian tanker with 24 crew on board in the Indian Ocean. ](/news/2010/10/30/somali-pirates-attack-and-seize-a-liberian-tanker-with-24-crew-on-board-in-the-indian-ocean.md) _Context: Indian Ocean, Somali pirates_
 4. [Somali pirates attack and seize two ships in the Indian Ocean. ](/news/2010/10/24/somali-pirates-attack-and-seize-two-ships-in-the-indian-ocean.md) _Context: Indian Ocean, Somali pirates_

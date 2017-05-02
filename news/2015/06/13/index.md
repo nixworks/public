@@ -13,7 +13,7 @@ _Context: Libya, Mokhtar Belmokhtar, War on Terror_
 _Context: Birthday Honours, Kevin Spacey, London, Queen's Official Birthday, Van Morrison, trooping the colour_
 
 ### [The wedding of Prince Carl Philip, Duke of Vrmland, and Sofia Hellqvist takes place in Stockholm. ](/news/2015/06/13/the-wedding-of-prince-carl-philip-duke-of-varmland-and-sofia-hellqvist-takes-place-in-stockholm.md)
-_Context: wedding of Prince Carl Philip, Duke of Värmland, and Sofia Hellqvist_
+_Context: wedding of Prince Carl Philip, Duke of Vrmland, and Sofia Hellqvist_
 
 ### [At least 22 Hindu pilgrims died after a van they are travelling in falls into a reservoir in the southern Indian town of Dhavaleswaram in Andhra Pradesh. ](/news/2015/06/13/at-least-22-hindu-pilgrims-died-after-a-van-they-are-travelling-in-falls-into-a-reservoir-in-the-southern-indian-town-of-dhavaleswaram-in-an.md)
 AT least 22 Hindu pilgrims were killed when a van they were travelling in fell into a reservoir in south India.

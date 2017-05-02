@@ -13,7 +13,7 @@ _Context: Denver, Microsoft, Scott Richter, bankruptcy, lawsuit, spam_
 _Context: File sharing, MGM Studios v. Grokster, P2P, United States Supreme Court, lawsuit_
 
 ### [ Lord Paddy Ashdown, High Representative in Bosnia and Herzegovina has sacked Dragan Covic, Croat member of the Presidency of Bosnia and Herzegovina, after he has been charged (but not tried yet) for financial corruption. ](/news/2005/03/29/lord-paddy-ashdown-high-representative-in-bosnia-and-herzegovina-has-sacked-dragan-aovia-croat-member-of-the-presidency-of-bosnia-and-h.md)
-_Context: Bosnia and Herzegovina, Croat, Dragan Čović, High Representative, Lord, Paddy Ashdown, anti-corruption, presidency_
+_Context: Bosnia and Herzegovina, Croat, Dragan Covic, High Representative, Lord, Paddy Ashdown, anti-corruption, presidency_
 
 ### [ Three Romanian journalists are kidnapped in Iraq, the latest in a long series of kidnappings for money or political reasons in the country. ](/news/2005/03/29/three-romanian-journalists-are-kidnapped-in-iraq-the-latest-in-a-long-series-of-kidnappings-for-money-or-political-reasons-in-the-country.md)
 _Context: Iraq, Romania, journalist, kidnapped_
@@ -46,7 +46,7 @@ _Context: Bullfighting, Frank Evans_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Spanish prime minister Zapatero signs an agreement with president Hugo Chavez of Venezuela on the sale of warships and military transport planes. Conservative opposition leader Mariano Rajoy denounces the sale. ](/news/2005/03/29/spanish-prime-minister-zapatero-signs-an-agreement-with-president-hugo-cha-vez-of-venezuela-on-the-sale-of-warships-and-military-transport.md)
-_Context: Hugo Chávez, José Luis Rodríguez Zapatero, Mariano Rajoy, Spain, Venezuela, warships_
+_Context: Hugo Chavez, Jose Luis Rodriguez Zapatero, Mariano Rajoy, Spain, Venezuela, warships_
 
 ### [ Political activists in Mongolia demonstrate in Ulan Bator for new elections. ](/news/2005/03/29/political-activists-in-mongolia-demonstrate-in-ulan-bator-for-new-elections.md)
 _Context: Mongolia, Ulan Bator_

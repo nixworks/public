@@ -1,7 +1,7 @@
 ## [2011-04-5](/news/2011/04/5/index.md)
 
 ### [2010-2011 Ivorian crisis: Forces loyal to Alassane Ouattara claim to have captured Laurent Gbagbo's Presidential Palace in Abidjan. ](/news/2011/04/5/2010a2011-ivorian-crisis-pforces-loyal-to-alassane-ouattara-claim-to-have-captured-laurent-gbagbo-s-presidential-palace-in-abidjan.md)
-_Context: 2010–2011 Ivorian crisis, Abidjan, Alassane Ouattara, Laurent Gbagbo, Presidential Palace_
+_Context: 2010-2011 Ivorian crisis, Abidjan, Alassane Ouattara, Laurent Gbagbo, Presidential Palace_
 
 ### [1,000 students protest at Kabul University as protests continue in Afghanistan over the burning of a Qur'an "found guilty" by pastor Terry Jones' church in the U.S. state of Florida. ](/news/2011/04/5/1-000-students-protest-at-kabul-university-as-protests-continue-in-afghanistan-over-the-burning-of-a-qur-an-found-guilty-by-pastor-terry-j.md)
 _Context: Afghanistan, Florida, Kabul University, Qur'an, Terry Jones, church, state_
@@ -64,7 +64,7 @@ _Context: Idaho House of Representatives, abortion, fetus_
 _Context: David Prosser, Jr., Joanne Kloppenburg, Wisconsin, Wisconsin Supreme Court_
 
 ### [Florida Congresswoman Debbie Wasserman Schultz is appointed as the Chairwoman of the US Democratic National Committee. ](/news/2011/04/5/florida-congresswoman-debbie-wasserman-schultz-is-appointed-as-the-chairwoman-of-the-us-democratic-national-committee.md)
-_Context: Debbie Wasserman Schultz, Democratic National Committee, Florida, U.S. Congress_
+_Context: Debbie Wasserman Schultz, Democratic National Committee, Florida, U.S. Congressional_
 
 ### [The World Meteorological Organisation reports that the ozone layer is damaged to its worst extent ever in the Arctic. ](/news/2011/04/5/the-world-meteorological-organisation-reports-that-the-ozone-layer-is-damaged-to-its-worst-extent-ever-in-the-arctic.md)
 The stratospheric ozone layer, which shields the Earth from the Sun&#039;s harmful ultraviolet rays, has been damaged to its greatest-ever extent over the Arctic this winter.

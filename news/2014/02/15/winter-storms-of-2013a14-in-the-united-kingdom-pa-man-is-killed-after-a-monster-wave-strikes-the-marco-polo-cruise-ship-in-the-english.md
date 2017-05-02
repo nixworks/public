@@ -13,7 +13,7 @@ A passenger on a cruise ship has been killed in the English Channel and another 
 
 ### Related:
 
-1. [Winter storms of 2013-14 in the United Kingdom:Floods in the United Kingdom continue to worsen as the Met Office issues severe rain weather warnings for southwest England. ](/news/2014/02/17/winter-storms-of-2013a14-in-the-united-kingdom-pfloods-in-the-united-kingdom-continue-to-worsen-as-the-met-office-issues-severe-rain-weath.md) _Context: Winter storms of 2013–14 in the United Kingdom_
+1. [Winter storms of 2013-14 in the United Kingdom:Floods in the United Kingdom continue to worsen as the Met Office issues severe rain weather warnings for southwest England. ](/news/2014/02/17/winter-storms-of-2013a14-in-the-united-kingdom-pfloods-in-the-united-kingdom-continue-to-worsen-as-the-met-office-issues-severe-rain-weath.md) _Context: Winter storms of 2013-14 in the United Kingdom_
 2. [Frenchman Philippe Croizon becomes the first limbless man to swim the English Channel. ](/news/2010/09/18/frenchman-philippe-croizon-becomes-the-first-limbless-man-to-swim-the-english-channel.md) _Context: English Channel_
 3. [ In swimming, Lisa Cummins becomes the first Irish person and the 20th person ever to complete a two way crossing of the English Channel. ](/news/2009/09/21/in-swimming-lisa-cummins-becomes-the-first-irish-person-and-the-20th-person-ever-to-complete-a-two-way-crossing-of-the-english-channel.md) _Context: English Channel_
 4. [ Becky Simmons becomes the first Guernsey-born person to swim the English Channel. ](/news/2009/09/19/becky-simmons-becomes-the-first-guernsey-born-person-to-swim-the-english-channel.md) _Context: English Channel_

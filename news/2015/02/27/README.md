@@ -19,7 +19,7 @@ A leading Russian opposition politician Boris Nemtsov has been shot dead in Mosc
  Four people were dead on Friday after a gunman armed with a hunting rifle opened fire inside a home in this city south of Seoul, authorities said.
 
 ### [Mexican security forces arrest drug lord Servando Gmez Martnez in Morelia, Michoacn. ](/news/2015/02/27/mexican-security-forces-arrest-drug-lord-servando-gomez-martinez-in-morelia-michoacan.md)
-_Context: Morelia, Michoacán, Servando Gómez Martínez_
+_Context: Morelia, Michoacn, Servando Gmez Martnez_
 
 ## [Previous Day...](/news/2015/02/26/index.md)
 

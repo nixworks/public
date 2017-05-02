@@ -13,7 +13,7 @@ _Context: Apple Inc., U.S. district court, eBooks_
 _Context: China's, Sichuan Province, landslide_
 
 ### [The death toll from the Lac-Mgantic derailment in the Canadian province of Quebec rises to 20, with 30 people missing presumed dead. ](/news/2013/07/10/the-death-toll-from-the-lac-megantic-derailment-in-the-canadian-province-of-quebec-rises-to-20-with-30-people-missing-presumed-dead.md)
-_Context: Lac-Mégantic derailment, Quebec_
+_Context: Lac-Mgantic derailment, Quebec_
 
 ### [Boston Marathon bombings:Suspect Dzhokhar Tsarnaev makes his first appearance in a US court since his arrest on April 19. ](/news/2013/07/10/boston-marathon-bombings-psuspect-dzhokhar-tsarnaev-makes-his-first-appearance-in-a-us-court-since-his-arrest-on-april-19.md)
 Dzhokhar Tsarnaev, the chief suspect in the April 15th Boston Marathon bombing that killed three people and injured more than 200, has pled not guilty to 30 counts including using weapons of mass...

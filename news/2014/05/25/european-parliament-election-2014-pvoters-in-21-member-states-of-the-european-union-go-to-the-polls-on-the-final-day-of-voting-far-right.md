@@ -1,6 +1,6 @@
 ### [2014-05-25](/news/2014/05/25/index.md)
 
-# European Parliament election, 2014:Voters in 21 member states of the European Union go to the polls on the final day of voting. Far right, hard left{{what?|date=June 2014}} and Eurosceptic parties have performed strongly aided by a weak turnout. 
+# European Parliament election, 2014:Voters in 21 member states of the European Union go to the polls on the final day of voting. Far right, hard leftdate=June 2014 and Eurosceptic parties have performed strongly aided by a weak turnout. 
 
 By Luke Baker and Paul Taylor BRUSSELS (Reuters) - Marine Le Pen&#x27;s far right National Front scored a stunning first victory in European Parliament elections in France on Sunday as critics of the European Union registered a continent-wide protest vote against austerity and mass unemployment. Without
 

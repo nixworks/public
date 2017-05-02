@@ -46,7 +46,7 @@ Almost 100 defendants, including two former mayors, have appeared in court in th
 State media in China say police are checking claims that a security firm was paid to abduct people trying to report injustices to Beijing authorities.
 
 ### [The trial of former Bosnian Serb leader Radovan Karadzic resumes at the International Criminal Tribunal for the former Yugoslavia in The Hague, Netherlands. ](/news/2010/09/27/the-trial-of-former-bosnian-serb-leader-radovan-karada3-4ia-resumes-at-the-international-criminal-tribunal-for-the-former-yugoslavia-in-the-h.md)
-_Context: Bosnian Serb, International Criminal Tribunal for the former Yugoslavia, Netherlands, Radovan Karadžić, The Hague_
+_Context: Bosnian Serb, International Criminal Tribunal for the former Yugoslavia, Netherlands, Radovan Karadzic, The Hague_
 
 ### [Brandon Joseph Rhode is executed at a prison in Jackson, Georgia in the southern United States. ](/news/2010/09/27/brandon-joseph-rhode-is-executed-at-a-prison-in-jackson-georgia-in-the-southern-united-states.md)
 _Context: Brandon Joseph Rhode, Georgia, Jackson, United States_
@@ -55,7 +55,7 @@ _Context: Brandon Joseph Rhode, Georgia, Jackson, United States_
 _Context: Korean Workers' Party, North Korea, Pyongyang_
 
 ### [The President of Venezuela Hugo Chavez's United Socialist Party of Venezuela wins a majority of seats in the parliamentary election held yesterday but lost a two-thirds majority needed to pass major legislation unaided. ](/news/2010/09/27/the-president-of-venezuela-hugo-cha-vez-s-united-socialist-party-of-venezuela-wins-a-majority-of-seats-in-the-parliamentary-election-held-ye.md)
-_Context: Hugo Chávez, President, United Social Party of Venezuela, parliamentary election_
+_Context: Hugo Chavez, President, United Social Party of Venezuela, parliamentary election_
 
 ### [President of the United States Barack Obama signs a small business lending bill into law. ](/news/2010/09/27/president-of-the-united-states-barack-obama-signs-a-small-business-lending-bill-into-law.md)
 President Barack Obama signed a $30 billion small business lending bill into law on Monday, claiming a victory on economic policy for his fellow Democrats ahead of November congressional elections.

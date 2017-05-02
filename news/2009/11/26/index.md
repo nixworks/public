@@ -16,7 +16,7 @@ _Context: Namibia, elections last week_
 _Context: Committee to Protect Journalists, Maguindanao massacre, Philippines, media_
 
 ### [ The Supreme Court in Bogot convicts and sentences former general Jaime Usctegui to 40 years in prison for his role in the Mapiripn Massacre in 1997 by far right militias. ](/news/2009/11/26/the-supreme-court-in-bogota-convicts-and-sentences-former-general-jaime-uscategui-to-40-years-in-prison-for-his-role-in-the-mapiripan-massa.md)
-_Context: Bogot√°, Jaime Usc·tegui, Mapirip·n Massacre in 1997, Supreme Court, far right militias_
+_Context: Bogota, Jaime Usctegui, Mapiripn Massacre in 1997, Supreme Court, far right militias_
 
 ### [ Floods in Saudi Arabia kill around 77 people in Jeddah, Rabigh and Mecca, and a further 351 are missing in the heaviest rainfall in years. ](/news/2009/11/26/floods-in-saudi-arabia-kill-around-77-people-in-jeddah-rabigh-and-mecca-and-a-further-351-are-missing-in-the-heaviest-rainfall-in-years.md)
 _Context: Floods in Saudi Arabia, Jeddah, Mecca, Rabigh_
@@ -28,7 +28,7 @@ _Context: Afghanistan, Germany, Kunduz airstrike, NATO, Wolfgang Schneiderhan_
 _Context: Constitutional Court, South Korea, sexual relations_
 
 ### [ A gunman attacks the University of Pcs in southern Hungary, killing one and injuring at least three people. ](/news/2009/11/26/a-gunman-attacks-the-university-of-pecs-in-southern-hungary-killing-one-and-injuring-at-least-three-people.md)
-_Context: Hungary, University of PÈcs_
+_Context: Hungary, University of Pcs_
 
 ### [ Ceremonies are held in India to mark the first anniversary of a series of attacks in Mumbai by Pakistani militants which killed 166 people. ](/news/2009/11/26/ceremonies-are-held-in-india-to-mark-the-first-anniversary-of-a-series-of-attacks-in-mumbai-by-pakistani-militants-which-killed-166-people.md)
 _Context: India, Mumbai, Pakistan_

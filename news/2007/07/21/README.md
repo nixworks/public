@@ -22,7 +22,7 @@ _Context: Mars Exploration Rover, Mars' atmosphere, NASA_
 The deaths occurred during an American attack on a Shiite area on the outskirts of northern Baghdad late Friday and early Saturday. 
 
 ### [ The United Nations suspends a Moroccan peacekeeping contingent in the Cte d'Ivoire following allegations of widespread sexual abuse. ](/news/2007/07/21/the-united-nations-suspends-a-moroccan-peacekeeping-contingent-in-the-cote-d-ivoire-following-allegations-of-widespread-sexual-abuse.md)
-_Context: Côte d'Ivoire, Moroccan, United Nations, peacekeepers_
+_Context: Cte d'Ivoire, Moroccan, United Nations, peacekeepers_
 
 ### [ Somali pirates demand $1.5 million in ransom for the release of a Danish freighter and its crew. ](/news/2007/07/21/somali-pirates-demand-1-5-million-in-ransom-for-the-release-of-a-danish-freighter-and-its-crew.md)
 Pirates holding a Danish freighter off the Somali coast are demanding a $US1.5 million ($1.7 million) ransom for the release of the ship and its crew, according to a Kenyan maritime official.

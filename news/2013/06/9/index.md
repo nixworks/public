@@ -28,7 +28,7 @@ Some in the administration and Congress say whoever leaked the information shoul
 _Context: Moscow, Muslims, Russia, mosque_
 
 ### [2013 protests in Turkey: Turkish prime minister Recep Tayyip Erdogan called protestors "a handful of looters". ](/news/2013/06/9/2013-protests-in-turkey-turkish-prime-minister-recep-tayyip-erdoaan-called-protestors-a-handful-of-looters.md)
-_Context: Recep Tayyip Erdoğan, anti-government protests_
+_Context: Recep Tayyip Erdogan, anti-government protests_
 
 ## [Previous Day...](/news/2013/06/8/index.md)
 

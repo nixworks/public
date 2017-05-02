@@ -22,7 +22,7 @@ _Context: Caixa Galicia, Galicia, Santiago de Compostela, Spain_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ In Colombia, president lvaro Uribe signs a controversial law that is meant to encourage paramilitary groups and guerrillas to disarm ](/news/2005/07/23/in-colombia-president-alvaro-uribe-signs-a-controversial-law-that-is-meant-to-encourage-paramilitary-groups-and-guerrillas-to-disarm.md)
-_Context: Colombia, guerillas, paramilitary, Álvaro Uribe_
+_Context: Alvaro Uribe, Colombia, guerillas, paramilitary_
 
 ### [ In Burma/Myanmar, Khin Nyunt, former prime minister, receives a suspended sentence of 44 years in prison for corruption ](/news/2005/07/23/in-burma-myanmar-khin-nyunt-former-prime-minister-receives-a-suspended-sentence-of-44-years-in-prison-for-corruption.md)
 _Context: Burma, Khin Nyunt, Myanmar, anti-corruption_

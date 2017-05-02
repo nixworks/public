@@ -12,4 +12,4 @@
 
 ### Related:
 
-1. [ French Finance Minister Herv Gaymard resigns after a report surfaces about his expensive state-paid apartment. ](/news/2005/02/26/french-finance-minister-herve-gaymard-resigns-after-a-report-surfaces-about-his-expensive-state-paid-apartment.md) _Context: Hervé Gaymard_
+1. [ French Finance Minister Herv Gaymard resigns after a report surfaces about his expensive state-paid apartment. ](/news/2005/02/26/french-finance-minister-herve-gaymard-resigns-after-a-report-surfaces-about-his-expensive-state-paid-apartment.md) _Context: Herv Gaymard_

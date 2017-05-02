@@ -18,7 +18,7 @@ _Context: Al-Shabaab, Baidoa, Somalia, Transitional Federal Government_
 ### [ United Nations Secretary-General Ban Ki-moon announces an investigation into Israel's attack on the U.N.'s Gaza Strip headquarters. ](/news/2009/01/30/united-nations-secretary-general-ban-ki-moon-announces-an-investigation-into-israel-s-attack-on-the-u-n-s-gaza-strip-headquarters.md)
 Pressure mounts on Israel to answer accusations of war crimes in Gaza Strip.
 
-### [ A heat wave affects southeastern Australia, with both Adelaide and Melbourne experiencing temperatures above {{convert|45|C}}. ](/news/2009/01/30/a-heat-wave-affects-southeastern-australia-with-both-adelaide-and-melbourne-experiencing-temperatures-above-convert-45-c.md)
+### [ A heat wave affects southeastern Australia, with both Adelaide and Melbourne experiencing temperatures above 45|C. ](/news/2009/01/30/a-heat-wave-affects-southeastern-australia-with-both-adelaide-and-melbourne-experiencing-temperatures-above-45-c.md)
 _Context: 2009 Southeastern Australia heat wave, Adelaide, Australia, Melbourne_
 
 ### [ More than one thousand workers strike at four different United Kingdom oil refineries. ](/news/2009/01/30/more-than-one-thousand-workers-strike-at-four-different-united-kingdom-oil-refineries.md)

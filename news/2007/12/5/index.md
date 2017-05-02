@@ -7,7 +7,7 @@ _Context: ICA, National Television, Sweden, systematic food safety irregularitie
 _Context: Lithuania, United Kingdom, Vilnius, khat_
 
 ### [ Latvian Prime Minister Aigars Kalvitis resigns. ](/news/2007/12/5/latvian-prime-minister-aigars-kalva-tis-resigns.md)
-_Context: Aigars Kalvītis, Latvia, Prime Minister of Latvia_
+_Context: Aigars Kalvitis, Latvia, Prime Minister of Latvia_
 
 ### [ Car bombs in Baghdad and three northern Iraqi cities kill at least 22 people and injure more than 60 others. ](/news/2007/12/5/car-bombs-in-baghdad-and-three-northern-iraqi-cities-kill-at-least-22-people-and-injure-more-than-60-others.md)
 The killings served as a vicious reminder that the months-long decline in daily violence was not a sure harbinger of any lasting peace.

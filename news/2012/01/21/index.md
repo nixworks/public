@@ -13,7 +13,7 @@ Private clinics that charge for pregnancy services including abortions will be a
 _Context: A Republican Party primary election, Mitt Romney, Newt Gingrich, South Carolina, state_
 
 ### [Hkan Juholt resigns as the head of the Swedish Social Democratic Party, after less than a year in the post. ](/news/2012/01/21/hakan-juholt-resigns-as-the-head-of-the-swedish-social-democratic-party-after-less-than-a-year-in-the-post.md)
-_Context: Håkan Juholt, Swedish Social Democratic Party_
+_Context: Hkan Juholt, Swedish Social Democratic Party_
 
 ### [Leading international virologists agree to temporarily halt work on a more virulent strain of the H5N1 influenza virus, due to fears that an airborne strain of the lethal virus could be used by bioterrorists. ](/news/2012/01/21/leading-international-virologists-agree-to-temporarily-halt-work-on-a-more-virulent-strain-of-the-h5n1-influenza-virus-due-to-fears-that-an.md)
 _Context: Virologist, bioterrorists, bird flu, flu_

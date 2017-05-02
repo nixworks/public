@@ -7,7 +7,7 @@ Five U.N. peacekeepers were killed when their base in northern Mali was hit by m
 A MiG-23 fighter of Libya&#x27;s internationally recognised government was shot down Friday as it carried out air strikes on opposition positions in the coastal city of Benghazi, the military said. Nasser el-Hassi, spokesman for the government&#x27;s forces, told AFP the plane was &quot;shot down in Qaryunes
 
 ### [At least five policemen are killed in an attack on a police station in Aden. ](/news/2016/02/12/at-least-five-policemen-are-killed-in-an-attack-on-a-police-station-in-aden.md)
-_Context: Aden, Yemeni Civil War (2015–present), policemen_
+_Context: Aden, Yemeni Civil War (2015-present), policemen_
 
 ### [Evgeny Lebedev, the owner of the British national newspaper, ''The Independent'', announces that as of March 2016, the 29-year-old paper will only publish online with print editions coming to an end. ](/news/2016/02/12/evgeny-lebedev-the-owner-of-the-british-national-newspaper-the-independent-announces-that-as-of-march-2016-the-29-year-old-paper-wil.md)
 _Context: Evgeny Lebedev, The Independent, United Kingdom, newspaper_
@@ -22,7 +22,7 @@ New research shows that more than 5.5 million people die prematurely every year 
 Ministers holding crisis talks over Syria agree to cease hostilities within a week&#039;s time, US Secretary of State John Kerry said.
 
 ### [Pope Francis meets with Patriarch Kirill of Moscow in Havana, Cuba. It is the first time that the heads of the Roman Catholic Church and Russian Orthodox Church have ever met. ](/news/2016/02/12/pope-francis-meets-with-patriarch-kirill-of-moscow-in-havana-cuba-it-is-the-first-time-that-the-heads-of-the-roman-catholic-church-and-rus.md)
-_Context: Cuba, East–West Schism, Havana, Patriarch Kirill of Moscow, Pope Francis, Roman Catholic Church, Russian_
+_Context: Cuba, East-West Schism, Havana, Patriarch Kirill of Moscow, Pope Francis, Roman Catholic Church, Russian_
 
 ### [The discontinuance of electricity and water into the Kaesong area impacts area residents who lose their steady supply of water. The public received about 60 percent of the  17,000 tons of water South Korea pumped north each day. ](/news/2016/02/12/the-discontinuance-of-electricity-and-water-into-the-kaesong-area-impacts-area-residents-who-lose-their-steady-supply-of-water-the-public-r.md)
 Among the losers in the retaliatory sparring between the rival Koreas are residents who had been depending on a rarity in impoverished North Korea: a steady supply of water from the now-shuttered jointly run factory park in the North Korean border city of Kaesong.

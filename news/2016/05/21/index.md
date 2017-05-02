@@ -22,7 +22,7 @@ Russia has proposed to the U.S.-led coalition that they stage joint air strikes 
 KABUL, Afghanistan (AP) — Norway&#039;s foreign minister says his government has doubled humanitarian aid to Afghanistan to help the war-stricken nation meet urgent needs. Borge Brende said Saturday that 2016 support will total…
 
 ### [  At least four are killed and 90 injured among protesters who stormed the Green Zone in Baghdad. ](/news/2016/05/21/at-least-four-are-killed-and-90-injured-among-protesters-who-stormed-the-green-zone-in-baghdad.md)
-_Context: 2015–16 Iraqi protests, Baghdad, Green Zone_
+_Context: 2015-16 Iraqi protests, Baghdad, Green Zone_
 
 ### [Kazakhstan police detain dozens of protesters during  rallies against proposed land reforms in the former Central Asian Soviet Republic. ](/news/2016/05/21/kazakhstan-police-detain-dozens-of-protesters-during-rallies-against-proposed-land-reforms-in-the-former-central-asian-soviet-republic.md)
 Police block protests in major cities over reforms the opposition says will lead to foreigners acquiring too much land.
@@ -40,7 +40,7 @@ _Context: Arizona, California, Lake Mead, Mohave County, Arizona, Nevada, United
 Before Nyquist&#39;s brilliance was evident, it wasn&#39;t obvious to the experts.
 
 ### [Manchester United F.C. beat Crystal Palace F.C. 2-1 at Wembley Stadium in London to win the 2015-16 FA Cup. ](/news/2016/05/21/manchester-united-f-c-beat-crystal-palace-f-c-2-1-at-wembley-stadium-in-london-to-win-the-2015a16-fa-cup.md)
-_Context: 2015–16 FA Cup, 2016 FA Cup Final, Crystal Palace F.C., London, Manchester United, Wembley Stadium_
+_Context: 2015-16 FA Cup, 2016 FA Cup Final, Crystal Palace F.C., London, Manchester United, Wembley Stadium_
 
 ## [Previous Day...](/news/2016/05/20/index.md)
 

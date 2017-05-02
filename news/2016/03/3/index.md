@@ -1,7 +1,7 @@
 ## [2016-03-3](/news/2016/03/3/index.md)
 
 ### [Istanbul police, after a standoff, shoot and kill two women from the Revolutionary People's Liberation Army-Front suspected of ambushing a riot police station in the Bayrampasa neighborhood on the city's European side. Two policemen were injured.  ](/news/2016/03/3/istanbul-police-after-a-standoff-shoot-and-kill-two-women-from-the-revolutionary-peopleas-liberation-army-front-suspected-of-ambushing-a.md)
-_Context: Bayrampaşa, DHKP/C insurgency in Turkey, European, Istanbul, Revolutionary People’s Liberation Army-Front, Turkish police_
+_Context: Bayrampasa, DHKP/C insurgency in Turkey, European, Istanbul, Revolutionary People's Liberation Army-Front, Turkish police_
 
 ### [A nationwide power outage hits Syria. The Syrian government says shortly before the power outage, militants had hit part of a power-generating station with rockets in the city of Hama, though it hasn't said whether this damage was linked to the nationwide outage. Also, it isn't clear how many people are affected by the power outage as many cities outside of the government's control already weren't being served by the government-run power grid. ](/news/2016/03/3/a-nationwide-power-outage-hits-syria-the-syrian-government-says-shortly-before-the-power-outage-militants-had-hit-part-of-a-power-generati.md)
 _Context: Hama, Syria, power outage_
@@ -19,10 +19,10 @@ _Context: Islamabad, Pakistan, Sartaj Aziz, Taliban, Taliban insurgency_
 President Obama has extended for another year U.S. sanctions imposed on Russia over its military intervention in Ukraine, according to a White House statement. Obama signed an executive order to prolong the raft of measures that target senior Russian officials and businessmen connected to President...
 
 ### [The United States delivers eight UH-60 Black Hawk helicopters to Jordan to help the Jordanian Armed Forces defend the country from the threat of ISIL.  ](/news/2016/03/3/the-united-states-delivers-eight-uh-60-black-hawk-helicopters-to-jordan-to-help-the-jordanian-armed-forces-defend-the-country-from-the-threa.md)
-_Context: ISIL, Jordan, Jordanian military, Jordan–United States relations, Sikorsky UH-60 Black Hawk, United States_
+_Context: ISIL, Jordan, Jordan-United States relations, Jordanian military, Sikorsky UH-60 Black Hawk, United States_
 
 ### [Honduran indigenous environmental activist Berta Caceres is assassinated in her home in La Esperanza in Intibuca Department. ](/news/2016/03/3/honduran-indigenous-environmental-activist-berta-ca-ceres-is-assassinated-in-her-home-in-la-esperanza-in-intibuca-department.md)
-_Context: Berta Cáceres, Honduran, Intibucá Department, La Esperanza_
+_Context: Berta Caceres, Honduran, Intibuca Department, La Esperanza_
 
 ### [A riot at a prison in Guyana's capital Georgetown leaves at least 16 people dead. The riot began when inmates angered by a search that led to the confiscation of mobile phones set fires in one part of the prison. ](/news/2016/03/3/a-riot-at-a-prison-in-guyana-s-capital-georgetown-leaves-at-least-16-people-dead-the-riot-began-when-inmates-angered-by-a-search-that-led-t.md)
 _Context: Georgetown, Guyana, mobile phone_
@@ -31,7 +31,7 @@ _Context: Georgetown, Guyana, mobile phone_
 New Zealanders can now begin voting by post in the final stage of a referendum on whether to ditch the existing flag and adopt a new design.
 
 ### [Violence breaks out in in the Venezuelan city of San Cristobal between students and police after a supreme court ruling curtailed the power of the opposition-controlled National Assembly to review government appointments of Supreme Court justices. ](/news/2016/03/3/violence-breaks-out-in-in-the-venezuelan-city-of-san-crista3bal-between-students-and-police-after-a-supreme-court-ruling-curtailed-the-power.md)
-_Context: 2014–16 Venezuelan protests, National Assembly, San Cristóbal, Supreme Court, Venezuela, Venezuelan police_
+_Context: 2014-16 Venezuelan protests, National Assembly, San Cristobal, Supreme Court, Venezuela, Venezuelan police_
 
 ### [The eleventh Republican Party presidential debate of the election cycle takes place at the Fox Theatre in downtown Detroit, Michigan, airing live on Fox News Channel. The debate features four Republican candidates, Donald Trump, Ted Cruz, Marco Rubio and John Kasich. Ben Carson was also invited to the debate but he said that he would not be attending. An estimated 16.9 million viewers watched the debate, 5.5 million of them adults aged 25-54, making it the most watched debate since December 2015. ](/news/2016/03/3/the-eleventh-republican-party-presidential-debate-of-the-election-cycle-takes-place-at-the-fox-theatre-in-downtown-detroit-michigan-airing.md)
 The Republican presidential primary debates, hosted by Fox News, held at The Fox Theater in Detroit, Michigan.

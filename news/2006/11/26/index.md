@@ -4,7 +4,7 @@
 _Context: Ethiopia, Islamic Courts Union, Somalia, War in Somalia_
 
 ### [ War in Chad (2005-present):  Chad's armed forces have retaken Abeche with no major fighting being reported. ](/news/2006/11/26/war-in-chad-2005apresent-p-chad-s-armed-forces-have-retaken-aba-c-cha-c-with-no-major-fighting-being-reported.md)
-_Context: Abéché, Chad, War in Chad (2005–present)_
+_Context: Abeche, Chad, War in Chad (2005-present)_
 
 ### [ Peter Hain, the Secretary of State for Northern Ireland criticizes "murky murders" associated with Vladimir Putin's regime in Russia following the poisoning of Alexander Litvinenko. ](/news/2006/11/26/peter-hain-the-secretary-of-state-for-northern-ireland-criticizes-murky-murders-associated-with-vladimir-putin-s-regime-in-russia-follow.md)
 _Context: Alexander Litvinenko, Northern Ireland, Peter Hain, Russia, Secretary of State for Northern Ireland, Vladimir Putin_

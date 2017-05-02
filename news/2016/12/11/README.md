@@ -4,7 +4,7 @@
 Eight people were killed in two car bombings in the Iraqi city of Falluja west of Baghdad on Sunday, police and hospital sources said, and a news agency close to Islamic State said its militants carried out the attacks.
 
 ### [A suicide bomber kills at least 29 people and injures 50 others in an attack on a police station near Mogadishu's port. ](/news/2016/12/11/a-suicide-bomber-kills-at-least-29-people-and-injures-50-others-in-an-attack-on-a-police-station-near-mogadishu-s-port.md)
-_Context: December 2016 Mogadishu suicide bombing, Mogadishu, War in Somalia (2009–present), suicide bomber_
+_Context: December 2016 Mogadishu suicide bombing, Mogadishu, War in Somalia (2009-present), suicide bomber_
 
 ### [The death toll from yesterday's bombings rises to 38 with 155 injured. Thirteen people have been arrested in connection with the bombings. ](/news/2016/12/11/the-death-toll-from-yesterday-s-bombings-rises-to-38-with-155-injured-thirteen-people-have-been-arrested-in-connection-with-the-bombings.md)
 Responsibility for bombings in Istanbul has been claimed by the Kurdistan Freedom Hawks (TAK), a splinter group of the Kurdistan Workers Party (PKK). Funerals have begun for the 36 dead, mostly police officers. 

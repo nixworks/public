@@ -9,7 +9,7 @@ _Context: Russia, Sergei Storchak_
 ### [ 2007 Georgian demonstrations: President Mikheil Saakashvili lifts the state of emergency that was imposed on November 6. ](/news/2007/11/16/2007-georgian-demonstrations-p-president-mikheil-saakashvili-lifts-the-state-of-emergency-that-was-imposed-on-november-6.md)
 _Context: 2007 Georgian demonstrations, President of Georgia, Saakashvili, state of emergency_
 
-### [ The Nepali Supreme Court rejects a plea for conducting a Constituent Assembly election on November 22 saying the prescribed date is more of a moral question rather than a legal one.{{Fact|date=December 2007}}](/news/2007/11/16/the-nepali-supreme-court-rejects-a-plea-for-conducting-a-constituent-assembly-election-on-november-22-saying-the-prescribed-date-is-more-of.md)
+### [ The Nepali Supreme Court rejects a plea for conducting a Constituent Assembly election on November 22 saying the prescribed date is more of a moral question rather than a legal one.date=December 2007](/news/2007/11/16/the-nepali-supreme-court-rejects-a-plea-for-conducting-a-constituent-assembly-election-on-november-22-saying-the-prescribed-date-is-more-of.md)
 _Context: Nepal, Nepalese Constituent Assembly election, 2008, Supreme Court, legal, moral_
 
 ### [ Strikes in France: French train drivers' strike against President Nicolas Sarkozy's pension reform enters its third day. ](/news/2007/11/16/strikes-in-france-french-train-drivers-strike-against-president-nicolas-sarkozy-s-pension-reform-enters-its-third-day.md)
@@ -19,7 +19,7 @@ _Context: France, Nicolas Sarkozy, pension reform, president, public-sector stri
 _Context: Germany, Heike Hanada, Weimar, architect, central library, competition_
 
 ### [ The International Criminal Tribunal for Rwanda sentences Juvnal Rugambarara, the former mayor of Bicumbi, to 11 years in jail for crimes he committed during the Rwandan Genocide. ](/news/2007/11/16/the-international-criminal-tribunal-for-rwanda-sentences-juvenal-rugambarara-the-former-mayor-of-bicumbi-to-11-years-in-jail-for-crimes-h.md)
-_Context: Bicumbi, International Criminal Tribunal for Rwanda, Juvénal Rugambarara, Rwandan Genocide, mayor_
+_Context: Bicumbi, International Criminal Tribunal for Rwanda, Juvnal Rugambarara, Rwandan Genocide, mayor_
 
 ### [ United Nations Secretary-General Ban Ki-moon holds talks with Lebanese political leaders, trying to break an impasse over the election of the next President. ](/news/2007/11/16/united-nations-secretary-general-ban-ki-moon-holds-talks-with-lebanese-political-leaders-trying-to-break-an-impasse-over-the-election-of-t.md)
 _Context: Ban Ki-moon, Lebanon, President of Lebanon, United Nations, United Nations Secretary-General, political leader, standoff_

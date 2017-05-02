@@ -4,7 +4,7 @@
 The notoriously congested London airport has opened a fifth terminal, at a cost of around $8.7 billion.
 
 ### [ Colombian Ministry of National Defense Juan Manuel Santos says the government will pay US$2.5 million to Pedro Pablo Montoya, the FARC rebel who killed Ivn Ros. ](/news/2008/03/14/colombian-ministry-of-national-defense-juan-manuel-santos-says-the-government-will-pay-us-2-5-million-to-pedro-pablo-montoya-the-farc-rebe.md)
-_Context: Colombia, Colombian government, Iván Ríos, Juan Manuel Santos, Minister of National Defence, Revolutionary Armed Forces of Colombia, United States dollars_
+_Context: Colombia, Colombian government, Ivn Ros, Juan Manuel Santos, Minister of National Defence, Revolutionary Armed Forces of Colombia, United States dollars_
 
 ### [ Muhammed Rahim, an al-Qaeda member who helped Osama bin Laden escape from Tora Bora, Afghanistan in 2001, is taken to the Guantanamo Bay detention camp. ](/news/2008/03/14/muhammed-rahim-an-al-qaeda-member-who-helped-osama-bin-laden-escape-from-tora-bora-afghanistan-in-2001-is-taken-to-the-guantanamo-bay-de.md)
 _Context: Afghanistan, Guantanamo Bay detention camp, Muhammed Rahim, Osama bin Laden, Tora Bora, al-Qaeda_
@@ -25,7 +25,7 @@ _Context: Iran, legislative election_
 _Context: Lhasa, Tibet, free Tibet, possible protests, protests turn violent_
 
 ### [ Venezuelan President Hugo Chvez dares the United States to designate Venezuela as a state sponsor of terrorism. ](/news/2008/03/14/venezuelan-president-hugo-chavez-dares-the-united-states-to-designate-venezuela-as-a-state-sponsor-of-terrorism.md)
-_Context: Hugo Chávez, United States, Venezuela, Venezuelan President, state sponsor of terrorism_
+_Context: Hugo Chvez, United States, Venezuela, Venezuelan President, state sponsor of terrorism_
 
 ### [ Saint Patrick's Day happens today, not the usual March 17th.&nbsp; ](/news/2008/03/14/saint-patrick-s-day-happens-today-not-the-usual-march-17th-nbsp.md)
 _Context: March 17th, Saint Patrick's Day_

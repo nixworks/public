@@ -4,7 +4,7 @@
 _Context: B15A, Drygalski ice tongue, ice tongue, iceberg_
 
 ### [ Physicists at Brookhaven National Laboratory announce that they have created a newly discovered state of matter by smashing atoms in the Relativistic Heavy Ion Collider. This new state of matter behaves like a hot and dense liquid made up of basic atomic particles such as quarks and gluons. Researchers claim that all matter in the universe for a fraction of a second after the Big Bang was in the form of this liquid. ](/news/2005/04/18/physicists-at-brookhaven-national-laboratory-announce-that-they-have-created-a-newly-discovered-state-of-matter-by-smashing-atoms-in-the-re.md)
-_Context: Brookhaven National Laboratory, Relativistic Heavy Ion Collider, Universe, atom, gluon, liquid, matter, quark, “big bang”_
+_Context: "big bang", Brookhaven National Laboratory, Relativistic Heavy Ion Collider, Universe, atom, gluon, liquid, matter, quark_
 
 ### [ Catherine Ndereba of Kenya and Hailu Negussie of Ethiopia win in the 109th Boston Marathon. Negussie was successful in finally breaking the Kenyan-dominated men's race. Defending champion Ndereba became the first four-time woman's winner. [http://abcnews.go.com/Sports/wireStory?id=680658 (ABCnews)] (Link dead as of 04:02, 16 January 2007 (UTC)) [http://edition.cnn.com/2005/SPORT/04/18/marathon.boston.reut/ (CNN)] (Link dead as of 04:02, 16 January 2007 (UTC)) [http://www.boston.com/sports/other_sports/running/articles/2005/04/18/kenyas_ndereba_wins_4th_boston_marathon/ (Boston.com)] (Link dead as of 04:02, 16 January 2007 (UTC))](/news/2005/04/18/catherine-ndereba-of-kenya-and-hailu-negussie-of-ethiopia-win-in-the-109th-boston-marathon-negussie-was-successful-in-finally-breaking-the.md)
 _Context: Boston Marathon, Catherine Ndereba, Ethiopia, Hailu Negussie, Kenya, champion_
@@ -40,7 +40,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: Kofi Annan, Pakistan_
 
 ### [ Mexican government rules out pardoning Andres Manuel Lopez Obrador. His supporters continue their protests. [http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8218933 (Reuters)] (Link dead as of 04:02, 16 January 2007 (UTC))](/news/2005/04/18/mexican-government-rules-out-pardoning-andra-c-s-manuel-la3pez-obrador-his-supporters-continue-their-protests-http-www-reuters-com-newsa.md)
-_Context: Andrés Manuel López Obrador_
+_Context: Andres Manuel Lopez Obrador_
 
 ### [ The Pakistani government releases 500 members of Pakistan Peoples Party it detained prior to return of opposition leader Asif Zardari. Zardari hopes to have dialogue with the government. ](/news/2005/04/18/the-pakistani-government-releases-500-members-of-pakistan-peoples-party-it-detained-prior-to-return-of-opposition-leader-asif-zardari-zard.md)
 _Context: Asif Zardari, Pakistan, Pakistan Peoples Party_

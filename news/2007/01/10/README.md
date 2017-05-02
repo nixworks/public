@@ -31,7 +31,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: European Commission, European Union, carbon dioxide emissions, mitigation of global warming_
 
 ### [ Following the 2006 general election, Daniel Ortega becomes the new President of Nicaragua, replacing Enrique Bolanos. ](/news/2007/01/10/following-the-2006-general-election-daniel-ortega-becomes-the-new-president-of-nicaragua-replacing-enrique-bolaa-os.md)
-_Context: 2006 general election, Daniel Ortega, Enrique Bolaños, Nicaraguan President_
+_Context: 2006 general election, Daniel Ortega, Enrique Bolanos, Nicaraguan President_
 
 ### [ The Social Democratic Party of Austria, the future majority partner in the grand coalition government that will be sworn in in Austria on January 11, 2007, announces its future ministers. ](/news/2007/01/10/the-social-democratic-party-of-austria-the-future-majority-partner-in-the-grand-coalition-government-that-will-be-sworn-in-in-austria-on-j.md)
 Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar and provide the latest information on weather, currency rates, Prayer in addition to the latest developments in the political events, economic, sporting, cultural and artistic locally and internationally, and much much more
@@ -40,7 +40,7 @@ Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar an
 _Context: ASEAN Summit, East Asia Summit_
 
 ### [ A general strike starts in Guinea, with trade unions calling for pay rises, the return to jail of Mamadou Sylla and the resignation of President Lansana Conte. ](/news/2007/01/10/a-general-strike-starts-in-guinea-with-trade-unions-calling-for-pay-rises-the-return-to-jail-of-mamadou-sylla-and-the-resignation-of-pres.md)
-_Context: Guinea, Lansana Conté, Mamadou Sylla, President of Guinea, general strike, unionize_
+_Context: Guinea, Lansana Conte, Mamadou Sylla, President of Guinea, general strike, unionize_
 
 ## [Previous Day...](/news/2007/01/9/index.md)
 

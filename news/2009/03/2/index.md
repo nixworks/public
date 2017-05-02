@@ -10,7 +10,7 @@ Consumer spending rose in January after falling for a record six straight months
 _Context: East Coast of the United States, Electricity, United States, winter storm_
 
 ### [ President Joo Bernardo Vieira of Guinea-Bissau is assassinated in Bissau. ](/news/2009/03/2/president-joao-bernardo-vieira-of-guinea-bissau-is-assassinated-in-bissau.md)
-_Context: Bissau, Guinea-Bissau, João Bernardo Vieira, acting president, assassinated_
+_Context: Bissau, Guinea-Bissau, Joo Bernardo Vieira, acting president, assassinated_
 
 ### [ Palestinians accuse Israel of planning ethnic cleansing in Bustan, East Jerusalem. ](/news/2009/03/2/palestinians-accuse-israel-of-planning-ethnic-cleansing-in-bustan-east-jerusalem.md)
 _Context: Bustan, East Jerusalem, Israel, Palestinian, ethnic cleansing_

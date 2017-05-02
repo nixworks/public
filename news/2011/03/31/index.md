@@ -4,7 +4,7 @@
 Syrian president has set up committees to look into deaths of protesters and replacing decades-old emergency laws.
 
 ### [2010-2011 Ivorian crisis:Disputed President Laurent Gbagbo's army chief Phillippe Mangou seeks refuge in the South African ambassador's home in Abidjan. ](/news/2011/03/31/2010a2011-ivorian-crisis-pdisputed-president-laurent-gbagbo-s-army-chief-phillippe-mangou-seeks-refuge-in-the-south-african-ambassador-s-h.md)
-_Context: 2010–2011 Ivorian crisis, Abidjan, Laurent Gbagbo, Phillippe Mangou, South Africa_
+_Context: 2010-2011 Ivorian crisis, Abidjan, Laurent Gbagbo, Phillippe Mangou, South Africa_
 
 ### ['''James Franco''' appears on the ''Late Show with David Letterman'', speaking publicly for the first time about his hosting performance on the 83rd Academy Awards. ](/news/2011/03/31/james-franco-appears-on-the-late-show-with-david-letterman-speaking-publicly-for-the-first-time-about-his-hosting-performance-on.md)
 _Context: 83rd Academy Awards, James Franco, Late Show with David Letterman_

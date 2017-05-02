@@ -7,7 +7,7 @@
 
 ### Related:
 
-1. [Voters in Canada's Nova Scotia Province go to the polls to select members to the province's Legislative Assembly.{{citation needed|date=October 2013}}](/news/2013/10/8/voters-in-canada-s-nova-scotia-province-go-to-the-polls-to-select-members-to-the-province-s-legislative-assembly-citation-needed-date-octo.md) _Context: Nova Scotia_
+1. [Voters in Canada's Nova Scotia Province go to the polls to select members to the province's Legislative Assembly.date=October 2013](/news/2013/10/8/voters-in-canada-s-nova-scotia-province-go-to-the-polls-to-select-members-to-the-province-s-legislative-assembly-date-october-2013.md) _Context: Nova Scotia_
 2. [A fishing vessel capsizes off of Liverpool, Nova Scotia, Canada, leaving 5 fishermen missing in the frigid waters. ](/news/2013/02/18/a-fishing-vessel-capsizes-off-of-liverpool-nova-scotia-canada-leaving-5-fishermen-missing-in-the-frigid-waters.md) _Context: Nova Scotia_
 3. [One person is killed, three people declared missing, and three people rescued after a sailboat sinks off the southwestern coast of Nova Scotia, Canada. ](/news/2012/03/26/one-person-is-killed-three-people-declared-missing-and-three-people-rescued-after-a-sailboat-sinks-off-the-southwestern-coast-of-nova-scot.md) _Context: Nova Scotia_
 4. [Flooding in New Brunswick, Nova Scotia and the Gasp Peninsula eases, after flooding major cities especially along the Saint John River. ](/news/2010/12/16/flooding-in-new-brunswick-nova-scotia-and-the-gaspe-peninsula-eases-after-flooding-major-cities-especially-along-the-saint-john-river.md) _Context: Nova Scotia_

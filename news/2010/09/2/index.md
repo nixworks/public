@@ -43,7 +43,7 @@ _Context: Andrew Wilkie, Julia Gillard, Labor Party, Lower House_
 The company says proposed legislation could disrupt its efforts to set aside $20 billion for claims and penalties.
 
 ### [Sebastian Vladescu is replaced as Romanian Minister of Finance by Gheorghe Ialomitianu as part of a Cabinet reshuffle. ](/news/2010/09/2/sebastian-vladescu-is-replaced-as-romanian-minister-of-finance-by-gheorghe-ialomitianu-as-part-of-a-cabinet-reshuffle.md)
-_Context: Gheorghe Ialomitianu, Minister of Finance, Romania, Sebastian Vlădescu_
+_Context: Gheorghe Ialomitianu, Minister of Finance, Romania, Sebastian Vladescu_
 
 ### [Pakistan's high commissioner Wajid Shamsul Hasan says 3 of his country's cricketers connected to allegations of betting corruption by the ''News of the World'' tabloid could have been set up. ](/news/2010/09/2/pakistan-s-high-commissioner-wajid-shamsul-hasan-says-3-of-his-country-s-cricketers-connected-to-allegations-of-betting-corruption-by-the.md)
 Three Pakistan cricketers embroiled in a betting scandal are facing possible life bans after being charged by the ICC.

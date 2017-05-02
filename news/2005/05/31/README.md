@@ -4,7 +4,7 @@
 _Context: Bolivia, La Paz, nationalizes_
 
 ### [ Serbia withdraws arrest warrant of Mirjana Markovic, wife of Slobodan Milosevic ](/news/2005/05/31/serbia-withdraws-arrest-warrant-of-mirjana-markovia-wife-of-slobodan-miloa-evia.md)
-_Context: Mirjana Marković, Serbia, Slobodan Milošević_
+_Context: Mirjana Markovic, Serbia, Slobodan Milosevic_
 
 ### [ United Nations Security Council votes to extend its peacekeeping mission in Haiti until June 24 ](/news/2005/05/31/united-nations-security-council-votes-to-extend-its-peacekeeping-mission-in-haiti-until-june-24.md)
 _Context: Haiti, June 24, United Nations Security Council, peacekeepers_
@@ -19,7 +19,7 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 _Context: Mikhail Khodorkovsky, Russia, tax evasion_
 
 ### [ In Bangkok, Thailand, the Canadian contestant Natalie Glebova is crowned Miss Universe 2005.](/news/2005/05/31/in-bangkok-thailand-the-canadian-contestant-natalie-glebova-is-crowned-miss-universe-2005.md)
-_Context: Bangkok, Canadian, Miss Universe, Natalie Glebova, Thailand_
+_Context: Bangkok, Canada, Miss Universe, Natalie Glebova, Thailand_
 
 ### [ ''Vanity Fair'' magazine reports that Ex-FBI official W. Mark Felt admits that he was the Watergate source known as Deep Throat. ](/news/2005/05/31/vanity-fair-magazine-reports-that-ex-fbi-official-w-mark-felt-admits-that-he-was-the-watergate-source-known-as-deep-throat.md)
 _Context: Deep Throat, FBI, Vanity Fair, W. Mark Felt, Watergate_

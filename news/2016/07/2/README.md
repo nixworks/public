@@ -16,7 +16,7 @@ _Context: Damascus, Syrian, Syrian Civil War, al-Nusra_
 Turkish police arrested a total of 41 people in connection with a terrorist attack on Istanbul Ataturk Airport that killed 44 people, officials said.
 
 ### [A lone gunman opened fire at a cafe in Zitiste, Serbia, killing five people and injuring 20 more. The perpetrator was arrested shortly afterward while attempting to flee the scene. ](/news/2016/07/2/a-lone-gunman-opened-fire-at-a-cafa-c-in-a1-2itia-te-serbia-killing-five-people-and-injuring-20-more-the-perpetrator-was-arrested-shortly-af.md)
-_Context: Serbia, opened fire, Žitište_
+_Context: Serbia, Zitiste, opened fire_
 
 ### [Four children are stabbed to death by their mother in Memphis, Tennessee. The mother was taken into custody. ](/news/2016/07/2/four-children-are-stabbed-to-death-by-their-mother-in-memphis-tennessee-the-mother-was-taken-into-custody.md)
 _Context: Memphis, Tennessee_

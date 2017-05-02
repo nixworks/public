@@ -10,7 +10,7 @@ The leader of the Roman Catholic Church in England and Wales is created a cardin
 _Context: Huntington, New York, Walt Whitman Shops, carbon monoxide_
 
 ### [The Sinaloa cartel drug lord Joaquin Guzman Loera, also known as "El Chapo", is arrested in Mexico. ](/news/2014/02/22/the-sinaloa-cartel-drug-lord-joaquan-guzma-n-loera-also-known-as-el-chapo-is-arrested-in-mexico.md)
-_Context: Joaquín Guzmán Loera_
+_Context: Joaquin Guzman Loera_
 
 ### [Matteo Renzi is sworn in as the Prime Minister of Italy. ](/news/2014/02/22/matteo-renzi-is-sworn-in-as-the-prime-minister-of-italy.md)
 A new Italian government led by centre-left politician Matteo Renzi is sworn in after promising quick action to tackle a stagnant economy.

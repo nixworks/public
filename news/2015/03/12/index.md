@@ -10,7 +10,7 @@ _Context: Royal Dutch Shell, United Steelworkers_
 _Context: Argentine debt restructuring, Citigroup, New York's, Thomas Griesa_
 
 ### [Vanuatu prepares for Tropical Cyclone Pam which is predicted to reach Category 5 on the Australian tropical cyclone intensity scale. ](/news/2015/03/12/vanuatu-prepares-for-tropical-cyclone-pam-which-is-predicted-to-reach-category-5-on-the-australian-tropical-cyclone-intensity-scale.md)
-_Context: 2014–15 South Pacific cyclone season, Category 3 or Category 4 hurricane, Pam, Vanuatu, category 5, tropical cyclone_
+_Context: 2014-15 South Pacific cyclone season, Category 3 or Category 4 hurricane, Pam, Vanuatu, category 5, tropical cyclone_
 
 ### [Tropical Cyclone Olwyn intensifies with the potential to reach Category 3 on the Saffir-Simpson scale before making landfall in Western Australia's Pilbara region on March 13. ](/news/2015/03/12/tropical-cyclone-olwyn-intensifies-with-the-potential-to-reach-category-3-on-the-saffir-simpson-scale-before-making-landfall-in-western-aust.md)
 THE power of Cyclone Olwyn is now being felt in WA’s North West — and the storm has been upgraded to a severe Category 3 system as it closes in on the coast. 

@@ -4,7 +4,7 @@
 There is extensive flooding in parts of Co Mayo following several hours of torrential rain.
 
 ### [ A report by Amnesty International states that Israeli military activities and Palestinian militant rocket attacks during the Gaza War were war crimes. ](/news/2009/07/2/a-report-by-amnesty-international-states-that-israeli-military-activities-and-palestinian-militant-rocket-attacks-during-the-gaza-war-were.md)
-_Context: 2008–2009 Gaza War, Amnesty International, Israel, Palestinian, war crimes_
+_Context: 2008-2009 Gaza War, Amnesty International, Israel, Palestinian, war crimes_
 
 ### [ The United States armed forces launch Operation Strike of the Sword against the Taliban in Helmand, Afghanistan. ](/news/2009/07/2/the-united-states-armed-forces-launch-operation-strike-of-the-sword-against-the-taliban-in-helmand-afghanistan.md)
 _Context: Afghanistan, Helmand, Operation Strike of the Sword, Taliban, U.S. military personnel_

@@ -7,7 +7,7 @@ _Context: 2004 Indian Ocean earthquake and tsunami, Aceh, GAM, Indonesia, milita
 _Context: Ali al-Haidri, Baghdad, Iraq, Iraq War_
 
 ### [ Israeli-Palestinian conflict: Seven Palestinians are killed when an Israeli tank opens fire on farmland in the northern Gaza Strip. Palestinian presidential candidate and Fatah leader Mahmoud Abbas responds to the deaths with a strong verbal attack on the "Zionist enemy" Israel. Six of the dead were from the same family, including an 11-year-old boy. All the dead were civilians younger than 18. ](/news/2005/01/4/israeliapalestinian-conflict-seven-palestinians-are-killed-when-an-israeli-tank-opens-fire-on-farmland-in-the-northern-gaza-strip-pales.md)
-_Context: Gaza Strip, Israel, Israeli–Palestinian conflict, Mahmoud Abbas, Palestinian_
+_Context: Gaza Strip, Israel, Israeli-Palestinian conflict, Mahmoud Abbas, Palestinian_
 
 ### [ In Peru, Antauro Humala, the leader of the Movimiento Etnocacerista, turns himself in, thereby ending the hostage crisis.  ](/news/2005/01/4/in-peru-antauro-humala-the-leader-of-the-movimiento-etnocacerista-turns-himself-in-thereby-ending-the-hostage-crisis.md)
 _Context: Antauro Humala, Movimiento Etnocacerista, Peru_

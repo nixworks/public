@@ -7,10 +7,10 @@ _Context: China_
 Canada and the EU have sign a tentative deal to open up markets and drop nearly all import taxes, on everything from food to cars to intellectual property. Prime Minster Stephen Harper signed the agreement in principle in Brussels today, but it could be two years or more before it is in effect.
 
 ### [Japanese cabinet minister Yoshitaka Shindo visits the controversial Yasukuni Shrine potentially causing conflict with the Philippines, South Korea and the People's Republic of China. ](/news/2013/10/18/japanese-cabinet-minister-yoshitaka-shinda-visits-the-controversial-yasukuni-shrine-potentially-causing-conflict-with-the-philippines-sout.md)
-_Context: China's, Philippines, South Korea, Yasukuni Shrine, Yoshitaka Shindō_
+_Context: China's, Philippines, South Korea, Yasukuni Shrine, Yoshitaka Shindo_
 
 ### [Former Tijuana Cartel leader Francisco Rafael Arellano Felix is killed in Los Cabos, Baja California Sur. ](/news/2013/10/18/former-tijuana-cartel-leader-francisco-rafael-arellano-fa-c-lix-is-killed-in-los-cabos-baja-california-sur.md)
-_Context: Francisco Rafael Arellano Félix, Los Cabos, Baja California Sur, Tijuana Cartel_
+_Context: Francisco Rafael Arellano Felix, Los Cabos, Baja California Sur, Tijuana Cartel_
 
 ### [Thirty-five members of the US owned MV Seaman Guard Ohio are arrested in the Indian port of Thoothukudi in Tamil Nadu for alleged illegal possession of arms and ammunition. ](/news/2013/10/18/thirty-five-members-of-the-us-owned-mv-seaman-guard-ohio-are-arrested-in-the-indian-port-of-thoothukudi-in-tamil-nadu-for-alleged-illegal-po.md)
 _Context: India, Tamil Nadu, Thoothukudi_

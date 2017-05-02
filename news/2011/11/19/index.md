@@ -21,7 +21,7 @@ The Attorney General is seeking leave to bring contempt proceedings against Sky 
 ### [Four Metropolitan Police officers are stabbed while chasing a suspect in Kingsbury, north London. Two of the officers suffer serious injuries, while a 32-year-old male is arrested for attempted murder. ](/news/2011/11/19/four-metropolitan-police-officers-are-stabbed-while-chasing-a-suspect-in-kingsbury-north-london-two-of-the-officers-suffer-serious-injurie.md)
 Four police officers are stabbed after being called to a disturbance in north-west London.
 
-### [The United States successfully tests a new hypersonic weapon system, capable of striking targets {{convert|3700|km|mi}} away in under 30 minutes, as part of its Prompt Global Strike program. ](/news/2011/11/19/the-united-states-successfully-tests-a-new-hypersonic-weapon-system-capable-of-striking-targets-convert-3700-km-mi-away-in-under-30-min.md)
+### [The United States successfully tests a new hypersonic weapon system, capable of striking targets 3700|km|mi away in under 30 minutes, as part of its Prompt Global Strike program. ](/news/2011/11/19/the-united-states-successfully-tests-a-new-hypersonic-weapon-system-capable-of-striking-targets-3700-km-mi-away-in-under-30-minutes-as-par.md)
 The US test-fires a weapon that can travel at five times the speed of sound, as part of plans to develop a new long-range rapid strike force.
 
 ## [Previous Day...](/news/2011/11/18/index.md)

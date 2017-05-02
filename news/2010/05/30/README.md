@@ -7,7 +7,7 @@ Flight recorders from a plane that crashed in Libya on 12 May killing 103 people
 AT least 30 people died when their bus crashed, rolled over and broke in two in central Cameroon, police said Sunday,adding that the toll could rise.
 
 ### [Prime Minister of Turkey Recep Tayyip Erdogan bypasses Argentina on his South American tour, opting to travel straight to Chile after Buenos Aires officials call off an event honouring Mustafa Kemal Ataturk due to what Turkey considers "hostile" interference from Armenian pressure groups. ](/news/2010/05/30/prime-minister-of-turkey-recep-tayyip-erdoaan-bypasses-argentina-on-his-south-american-tour-opting-to-travel-straight-to-chile-after-bueno.md)
-_Context: Argentina, Armenia, Buenos Aires, Chile, Mustafa Kemal Atatürk, Prime Minister of Turkey, Recep Tayyip Erdoğan, South American_
+_Context: Argentina, Armenia, Buenos Aires, Chile, Mustafa Kemal Ataturk, Prime Minister of Turkey, Recep Tayyip Erdogan, South American_
 
 ### [A second Danish pharmaceutical company, Leo Pharma, suspends sales of medical products in Greece over the government's decision to reduce the cost of medicine there. The government condemns these acts as "unfair". ](/news/2010/05/30/a-second-danish-pharmaceutical-company-leo-pharma-suspends-sales-of-medical-products-in-greece-over-the-government-s-decision-to-reduce-th.md)
 A second Danish pharmaceutical company withdraws products from Greece over its decision to cut medicine prices by 25%.
@@ -43,10 +43,10 @@ Colombians vote in a presidential election to replace Alvaro Uribe, who is stand
 The new Best Party wins local polls in Reykjavik, promising transparency, free towels and a polar bear for the zoo.
 
 ### [Legislative elections in the Czech Republic:The Social Democrats gain the most votes, but 10 percentage points less than 2006, losing 18 seats. [http://edition.cnn.com/2010/WORLD/europe/05/30/czech.elections/index.html (CNN)] [http://www.google.com/hostednews/ap/article/ALeqM5jXQklBDkGopiAnFivptSWyL6nplgD9G15CB00 (AP)]Centre-right parties win 118 seats, with two of them--TOP 09 and Public Affairs--standing in the election for the first time. A centre-right coalition, with Petr Necas as new Prime Minister, is believed to be "almost certain". [http://www.businessweek.com/news/2010-05-29/czech-voters-choose-spending-cuts-amid-european-debt-crisis.html (BusinessWeek)]Social Democrats leader Jiri Paroubek resigns as party leader following the result. [http://www.reuters.com/article/idUSPRG00416620100529?type=marketsNews (Reuters)]The Communist Party, which was polling higher than 2006 before the election, fail to make any gains, remaining at 26 seats.](/news/2010/05/30/legislative-elections-in-the-czech-republic-pthe-social-democrats-gain-the-most-votes-but-10-percentage-points-less-than-2006-losing-18-se.md)
-_Context: Communist Party, Jiří Paroubek, Petr Nečas, Public Affairs, Social Democrats, TOP 09, last Saturday's general election_
+_Context: Communist Party, Jiri Paroubek, Petr Necas, Public Affairs, Social Democrats, TOP 09, last Saturday's general election_
 
 ### [In rugby sevens, Samoa wins the Cup final of the 2010 Edinburgh Sevens, defeating Australia 41-14. The result also gives Samoa Sevens overall victory in the 2009-10 IRB Sevens World Series. ](/news/2010/05/30/in-rugby-sevens-samoa-wins-the-cup-final-of-the-2010-edinburgh-sevens-defeating-australia-41a14-the-result-also-gives-samoa-sevens-over.md)
-_Context: 2009–10, 2010, Australia, Edinburgh Sevens, IRB Sevens World Series, Samoa, rugby sevens_
+_Context: 2009-10, 2010, Australia, Edinburgh Sevens, IRB Sevens World Series, Samoa, rugby sevens_
 
 ## [Previous Day...](/news/2010/05/29/index.md)
 

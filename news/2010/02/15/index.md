@@ -31,7 +31,7 @@ Pope Benedict XVI&#39;s second-in-command has urged Catholics in Ireland not to 
 _Context: 2005 Sydney terrorism plot_
 
 ### [Cyclone Rene hammers Tonga with gusts of 160 kilometres an hour, isolating Tongans for several days. Widespread damage is reported in the capital, Nuku`alofa, and contact is lost with the northern island of Vava`u. ](/news/2010/02/15/cyclone-rene-hammers-tonga-with-gusts-of-160-kilometres-an-hour-isolating-tongans-for-several-days-widespread-damage-is-reported-in-the-ca.md)
-_Context: Cyclone Rene, Nukuʻalofa, Tonga, Vavaʻu_
+_Context: Cyclone Rene, Nuku`alofa, Tonga, Vava`u_
 
 ### [A joint NATO and Afghan military operation is succeeding in pushing Taliban fighters from their strongholds in Helmand province. ](/news/2010/02/15/a-joint-nato-and-afghan-military-operation-is-succeeding-in-pushing-taliban-fighters-from-their-strongholds-in-helmand-province.md)
 _Context: Afghanistan, Helmand, NATO, Taliban_

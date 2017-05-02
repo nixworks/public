@@ -10,7 +10,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: Ethiopia, Human Rights Watch, Oromia, parliamentary elections_
 
 ### [ Canadian House of Commons opposition members of parliament pass a motion to instruct a house committee to call for the resignation of the government. The 153 votes of the Conservatives and Bloc Qubcois defeat the 150 votes of the Liberals and NDP due to three absences. Although the motion is classified as a procedural instruction to a committee and not a no confidence motion, the Tories and BQ call on the government to resign. ](/news/2005/05/10/canadian-house-of-commons-opposition-members-of-parliament-pass-a-motion-to-instruct-a-house-committee-to-call-for-the-resignation-of-the-g.md)
-_Context: Bloc Québécois, Canadian House of Commons, Conservative Party's, Liberal Party's, New Democratic Party, no-confidence motion, parliamentary opposition_
+_Context: Bloc Qubcois, Canadian House of Commons, Conservative Party's, Liberal Party's, New Democratic Party, no-confidence motion, parliamentary opposition_
 
 ### [ Germany unveils a Holocaust memorial. ](/news/2005/05/10/germany-unveils-a-holocaust-memorial.md)
 Get the latest breaking news across the U.S. on ABCNews.com

@@ -12,10 +12,10 @@ _Context: 55 Cancri, Astronomer, United States, fifth planet, light years, orbit
 ### [ Space Shuttle ''Discovery'' lands at the Kennedy Space Center, ending STS-120, a 15-day mission to the International Space Station. ](/news/2007/11/7/space-shuttle-discovery-lands-at-the-kennedy-space-center-ending-sts-120-a-15-day-mission-to-the-international-space-station.md)
 _Context: Discovery, International Space Station, Kennedy Space Center, STS-120_
 
-### [ A fire in Gwalior, India, ruins over 400 small stores. Losses are estimated at 10 million rupees (USD 250,000).{{Fact|date=December 2007}} ](/news/2007/11/7/a-fire-in-gwalior-india-ruins-over-400-small-stores-losses-are-estimated-at-10-million-rupees-usd-250-000-fact-date-december-2007.md)
+### [ A fire in Gwalior, India, ruins over 400 small stores. Losses are estimated at 10 million rupees (USD 250,000).date=December 2007 ](/news/2007/11/7/a-fire-in-gwalior-india-ruins-over-400-small-stores-losses-are-estimated-at-10-million-rupees-usd-250-000-date-december-2007.md)
 _Context: $, Gwalior, India, fire, retail sales, rupee_
 
-### [ Taliban militants capture the Pakistani town of Madyan in Waziristan's Swat region and hoist their flags over buildings.{{Fact|date=December 2007}} ](/news/2007/11/7/taliban-militants-capture-the-pakistani-town-of-madyan-in-waziristan-s-swat-region-and-hoist-their-flags-over-buildings-fact-date-decembe.md)
+### [ Taliban militants capture the Pakistani town of Madyan in Waziristan's Swat region and hoist their flags over buildings.date=December 2007 ](/news/2007/11/7/taliban-militants-capture-the-pakistani-town-of-madyan-in-waziristan-s-swat-region-and-hoist-their-flags-over-buildings-date-december-2007.md)
 _Context: Madyan, Pakistan, Swat, Pakistan, Taliban, Waziristan_
 
 ### [ Four Albanian militants are killed in a Macedonian police operation. (Wikinews)](/news/2007/11/7/four-albanian-militants-are-killed-in-a-macedonian-police-operation-wikinews.md)

@@ -12,7 +12,7 @@ An Indian diplomat at the centre of a row between the US and India is charged by
 
 ### Related:
 
-1. [India summons the U.S. Ambassador to India Richard Verma over the U.S. decision to sell more F-16 fighter jets to Pakistan. ](/news/2016/02/13/india-summons-the-u-s-ambassador-to-india-richard-verma-over-the-u-s-decision-to-sell-more-f-16-fighter-jets-to-pakistan.md) _Context: India, India–United States relations_
+1. [India summons the U.S. Ambassador to India Richard Verma over the U.S. decision to sell more F-16 fighter jets to Pakistan. ](/news/2016/02/13/india-summons-the-u-s-ambassador-to-india-richard-verma-over-the-u-s-decision-to-sell-more-f-16-fighter-jets-to-pakistan.md) _Context: India, India-United States relations_
 2. [India says that it has "no stand-off" with the United States even after the Devyani Khobragade incident. ](/news/2014/01/11/india-says-that-it-has-no-stand-off-with-the-united-states-even-after-the-devyani-khobragade-incident.md) _Context: Devyani Khobragade incident, India_
 3. [Somali pirates hijack an Indian cargo ship off the coast of Puntland. ](/news/2017/04/3/somali-pirates-hijack-an-indian-cargo-ship-off-the-coast-of-puntland.md) _Context: India_
 4. [India is to provide every cow with a biometric dog tag, in an effort to prevent cattle smuggling. ](/news/2017/04/25/india-is-to-provide-every-cow-with-a-biometric-dog-tag-in-an-effort-to-prevent-cattle-smuggling.md) _Context: India_

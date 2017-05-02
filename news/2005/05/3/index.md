@@ -13,7 +13,7 @@ _Context: Nepal, Protest, World Press Freedom Day, journalist, press freedom_
 Widespread flooding ca
 
 ### [ A Togolese constitutional court announces Faure Gnassingb as a winner of presidential election. Refugees continue to flee to neighboring countries. ](/news/2005/05/3/a-togolese-constitutional-court-announces-faure-gnassingbe-as-a-winner-of-presidential-election-refugees-continue-to-flee-to-neighboring-c.md)
-_Context: Faure Gnassingbé, Togo_
+_Context: Faure Gnassingb, Togo_
 
 ### [ Indonesian authorities confirm second case of polio. ](/news/2005/05/3/indonesian-authorities-confirm-second-case-of-polio.md)
 Get the latest breaking news and top news headlines at Reuters.com

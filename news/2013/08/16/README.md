@@ -12,7 +12,7 @@ _Context: $, India, rupee_
 ### [A magnitude 6.5 earthquake strikes near Seddon, New Zealand, causing moderate damage in the wider Marlborough region and national capital Wellington. ](/news/2013/08/16/a-magnitude-6-5-earthquake-strikes-near-seddon-new-zealand-causing-moderate-damage-in-the-wider-marlborough-region-and-national-capital-we.md)
 Marlborough bore the brunt of a rattling 6.6 quake, and a series of continuing aftershocks, that also sent people fleeing Wellington and caused havoc on roads.
 
-### [The ferry {{MV|Thomas Aquinas}} collides with a cargo ship and sinks at Cebu, Philippines, with 200 missing and least 26 dead. (](/news/2013/08/16/the-ferry-mv-thomas-aquinas-collides-with-a-cargo-ship-and-sinks-at-cebu-philippines-with-200-missing-and-least-26-dead.md)
+### [The ferry Thomas Aquinas collides with a cargo ship and sinks at Cebu, Philippines, with 200 missing and least 26 dead. (](/news/2013/08/16/the-ferry-thomas-aquinas-collides-with-a-cargo-ship-and-sinks-at-cebu-philippines-with-200-missing-and-least-26-dead.md)
 At least 31 people die and around 170 are missing after a ferry with more than 800 on board collides with a cargo ship in the Philippines.
 
 ### [The Ministry of External Relations of Brazil rejects John Kerry's official statement concerning that the electronic surveillance by the National Security Agency was part of a strategy to "combat terrorism". ](/news/2013/08/16/the-ministry-of-external-relations-of-brazil-rejects-john-kerrya-s-official-statement-concerning-that-the-electronic-surveillance-by-the-nat.md)

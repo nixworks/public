@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [ Voters in Mauritania go to the polls for a presidential election, its first election since the coup d'tat last year. ](/news/2009/07/18/voters-in-mauritania-go-to-the-polls-for-a-presidential-election-its-first-election-since-the-coup-d-etat-last-year.md) _Context: coup d'état_
+1. [ Voters in Mauritania go to the polls for a presidential election, its first election since the coup d'tat last year. ](/news/2009/07/18/voters-in-mauritania-go-to-the-polls-for-a-presidential-election-its-first-election-since-the-coup-d-etat-last-year.md) _Context: coup d'tat_

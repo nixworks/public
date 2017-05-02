@@ -13,7 +13,7 @@ _Context: Andrew Cuomo, Hurricane Sandy, New York, New York Governor_
 Paraguayan president Federico Franco announced that starting in 2013, his country will become an oil producing nation, after a recent discovery made close to the border with Argentina.
 
 ### [A fire at a Caritas International workshop for the disabled in Titisee-Neustadt, Baden-Wurttemberg, Germany, kills at least 14 and injures several others. ](/news/2012/11/26/a-fire-at-a-caritas-international-workshop-for-the-disabled-in-titisee-neustadt-baden-wa1-4rttemberg-germany-kills-at-least-14-and-injures.md)
-_Context: Baden-Württemberg, Caritas International, Germany, Titisee-Neustadt_
+_Context: Baden-Wurttemberg, Caritas International, Germany, Titisee-Neustadt_
 
 ### [A scorpion stings a passenger on a flight from Costa Rica to Spain, which forced the sealing of the Iberia airlines Airbus A340 at Madrid's Barajas International Airport. ](/news/2012/11/26/a-scorpion-stings-a-passenger-on-a-flight-from-costa-rica-to-spain-which-forced-the-sealing-of-the-iberia-airlines-airbus-a340-at-madrid-s.md)
 _Context: Airbus A340, Barajas International Airport, Costa Rica, Iberia airlines, Madrid, Spain, scorpion_

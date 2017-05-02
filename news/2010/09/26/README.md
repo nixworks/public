@@ -34,7 +34,7 @@ The Pentagon has admitted buying up and destroying 10,000 copies of an insider&#
 _Context: English, Georgia, Russian language_
 
 ### [The Peter Mullan film ''Neds'' wins two major honours at the San Sebastian International Film Festival. ](/news/2010/09/26/the-peter-mullan-film-neds-wins-two-major-honours-at-the-san-sebastia-n-international-film-festival.md)
-_Context: Peter Mullan, San Sebastián International Film Festival_
+_Context: Peter Mullan, San Sebastian International Film Festival_
 
 ### [Australian climate change activists close down the world's largest coal port in Newcastle, New South Wales. ](/news/2010/09/26/australian-climate-change-activists-close-down-the-world-s-largest-coal-port-in-newcastle-new-south-wales.md)
 _Context: Australia, Newcastle, climate change, coal_

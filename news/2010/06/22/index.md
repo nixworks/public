@@ -31,7 +31,7 @@ Police in Jamaica arrest suspected drug lord Christopher &quot;Dudus&quot; Coke,
 U.N. Secretary-General on Tuesday announced the formation of a three-member panel to advise him on whether any crimes were committed in Sri Lanka during the final months of its war against Tamil Tiger rebels.
 
 ### [During a two-day visit to Ghana, President of Angola Jos Eduardo dos Santos visits Kwame Nkrumah Memorial Park in Accra among other engagements. ](/news/2010/06/22/during-a-two-day-visit-to-ghana-president-of-angola-jose-eduardo-dos-santos-visits-kwame-nkrumah-memorial-park-in-accra-among-other-engagem.md)
-_Context: Accra, Ghana, José Eduardo dos Santos, Kwame Nkrumah, President of Angola_
+_Context: Accra, Ghana, Jos Eduardo dos Santos, Kwame Nkrumah, President of Angola_
 
 ### [Five people are killed and 12 injured in a bus bomb in Istanbul, Turkey. Kurdish rebels later claim responsibility for the attack. ](/news/2010/06/22/five-people-are-killed-and-12-injured-in-a-bus-bomb-in-istanbul-turkey-kurdish-rebels-later-claim-responsibility-for-the-attack.md)
 A roadside bomb blew up a bus carrying Turkish military personnel and their families in Istanbul on Tuesday, killing five people, and a Kurdish separatist group claimed responsibility.

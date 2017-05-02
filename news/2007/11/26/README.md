@@ -7,9 +7,9 @@ _Context: Ecuador, Ponce Enriquez, gold mine, miner_
 _Context: European Parliament, European Parliament election, 2007, Greater Romania Party, Romania, nationalist_
 
 ### [ War in Chad (2005-present): Chad's army claims to have killed hundreds of rebel fighters in heavy fighting near Sudan's Darfur region. ](/news/2007/11/26/war-in-chad-2005apresent-chad-s-army-claims-to-have-killed-hundreds-of-rebel-fighters-in-heavy-fighting-near-sudan-s-darfur-region.md)
-_Context: Chad, Darfur, Sudan, War in Chad (2005–present), rebel_
+_Context: Chad, Darfur, Sudan, War in Chad (2005-present), rebel_
 
-### [ 35 militants are killed in a ground offensive against pro-Taliban militants by the Pakistan Army.{{Fact|date=December 2007}} ](/news/2007/11/26/35-militants-are-killed-in-a-ground-offensive-against-pro-taliban-militants-by-the-pakistan-army-fact-date-december-2007.md)
+### [ 35 militants are killed in a ground offensive against pro-Taliban militants by the Pakistan Army.date=December 2007 ](/news/2007/11/26/35-militants-are-killed-in-a-ground-offensive-against-pro-taliban-militants-by-the-pakistan-army-date-december-2007.md)
 _Context: Pakistan Army, Taliban, militant_
 
 ### [ The Federation Council of Russia sets March 2, 2008 as the date of the Russian presidential election, 2008. ](/news/2007/11/26/the-federation-council-of-russia-sets-march-2-2008-as-the-date-of-the-russian-presidential-election-2008.md)

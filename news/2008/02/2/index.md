@@ -10,10 +10,10 @@ _Context: Five people are shot dead, Illinois, Tinley Park_
 _Context: Dambulla, Sri Lanka_
 
 ### [ War in Chad (2005-present): Battle of N'Djamena: Chadian rebels enter the capital N'Djamena and head for the presidential palace. ](/news/2008/02/2/war-in-chad-2005apresent-p-battle-of-n-djamena-chadian-rebels-enter-the-capital-n-djamena-and-head-for-the-presidential-palace.md)
-_Context: Chad, N'Djamena, War in Chad (2005–present), military assault_
+_Context: Chad, N'Djamena, War in Chad (2005-present), military assault_
 
 ### [ French President Nicolas Sarkozy marries singer and former supermodel Carla Bruni at the Elysee Palace. ](/news/2008/02/2/french-president-nicolas-sarkozy-marries-singer-and-former-supermodel-carla-bruni-at-the-alysa-c-e-palace.md)
-_Context: Carla Bruni, France, Nicolas Sarkozy, president, supermodel, Élysée Palace_
+_Context: Carla Bruni, Elysee Palace, France, Nicolas Sarkozy, president, supermodel_
 
 ## [Previous Day...](/news/2008/02/1/index.md)
 

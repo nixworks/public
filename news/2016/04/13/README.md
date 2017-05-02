@@ -19,7 +19,7 @@ Large tremor felt in parts of eastern India and Bangladesh; authorities say ther
 About 2.8 million Malawians face food insecurity, making country one of the worst hit in southern African drought.
 
 ### [Indian officials report, with 24 deaths today, the heatwave in the eastern state of Odisha has killed 135 people.  Temperatures of 105.5degF (40.8degC) were recorded yesterday at 19 locations across the state. Meteorologists say the heat, an after-effect of El Nino, has delayed the traditional April rains. ](/news/2016/04/13/indian-officials-report-with-24-deaths-today-the-heatwave-in-the-eastern-state-of-odisha-has-killed-135-people-temperatures-of-105-5adegf.md)
-_Context: 2014–16 El Niño event, El Niño, India, Odisha_
+_Context: 2014-16 El Nino event, El Nino, India, Odisha_
 
 ### [A Britten-Norman Islander light aircraft crashes in the Papua New Guinea town of Kiunga resulting in the deaths of all twelve people on board. ](/news/2016/04/13/a-britten-norman-islander-light-aircraft-crashes-in-the-papua-new-guinea-town-of-kiunga-resulting-in-the-deaths-of-all-twelve-people-on-boar.md)
 An Australian is among 12 people killed after a light plane crashed while trying to land in PNG&#039;s Western Province.
@@ -46,7 +46,7 @@ Park’s party failed to win a majority in the legislature, undermining chances 
 The parliamentary elections in Syria will be held on April 13, 2016, said a statement issued by Syrian President Bashar Assad. 
 
 ### [The Progressive Party announces it is leaving President Dilma Rousseff's coalition government and that its 47 politicians would support her impeachment. ](/news/2016/04/13/the-progressive-party-announces-it-is-leaving-president-dilma-rousseff-s-coalition-government-and-that-its-47-politicians-would-support-her.md)
-_Context: 2015–16 protests in Brazil, Brazilian President, Dilma Rousseff, Progressive Party_
+_Context: 2015-16 protests in Brazil, Brazilian President, Dilma Rousseff, Progressive Party_
 
 ### [Massive demonstrations in support of the Free Papua Movement take place in various cities in the Indonesian provinces of Papua and West Papua. The demonstrations voice support for the Liberation Movement to become a full member of the Melanesian Spearhead Group. ](/news/2016/04/13/massive-demonstrations-in-support-of-the-free-papua-movement-take-place-in-various-cities-in-the-indonesian-provinces-of-papua-and-west-papu.md)
 Demonstrations in support of the United Liberation Movement for West Papua have been taking place in cities across Indonesia&#39;s Papua region today. Ground reports said large peaceful demonstrations have been...

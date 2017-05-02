@@ -10,7 +10,7 @@ _Context: Ba'ath Party, Syria, state of emergency_
 _Context: Ansar al-Islam, Iraq, Kurd, Mullah Krekar, deportees_
 
 ### [ In Mexico, a court overturns the murder conviction of Raul Salinas de Gortari, brother of former president Carlos Salinas de Gortari. ](/news/2005/06/9/in-mexico-a-court-overturns-the-murder-conviction-of-raul-salinas-de-gortari-brother-of-former-president-carlos-salinas-de-gortari.md)
-_Context: Carlos Salinas de Gortari, Raúl Salinas de Gortarí_
+_Context: Carlos Salinas de Gortari, Ral Salinas de Gortar_
 
 ### [ An Amnesty International report states that numbers of killed and sexually abused women have increased in Guatemala. ](/news/2005/06/9/an-amnesty-international-report-states-that-numbers-of-killed-and-sexually-abused-women-have-increased-in-guatemala.md)
 _Context: Amnesty International, Guatemala_
@@ -31,7 +31,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Zimbabwe, general strike_
 
 ### [ Togolese president Faure Gnassingb names Edem Kodjo, leader of the opposition Patriotic Pan-African Party, as prime minister. ](/news/2005/06/9/togolese-president-faure-gnassingbe-names-edem-kodjo-leader-of-the-opposition-patriotic-pan-african-party-as-prime-minister.md)
-_Context: Edem Kodjo, Faure Gnassingbé, Patriotic Pan-African Party, Togo_
+_Context: Edem Kodjo, Faure Gnassingb, Patriotic Pan-African Party, Togo_
 
 ### [ A former Bank of America broker, Theodore Sihpol is acquitted by a jury in a New York Court of charges that he assisted a New Jersey hedge fund in trading illegally in mutual funds, at the expense of investors in the latter. ](/news/2005/06/9/a-former-bank-of-america-broker-theodore-sihpol-is-acquitted-by-a-jury-in-a-new-york-court-of-charges-that-he-assisted-a-new-jersey-hedge.md)
 _Context: Bank of America, Hedge fund, New Jersey, New York, Theodore Sihpol_

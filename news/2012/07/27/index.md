@@ -19,7 +19,7 @@ _Context: China, Ni Yulan, picking quarrels_
 _Context: Fifth Harmony, The X Factor USA_
 
 ### [Suspended Romanian President Traian Basescu urges his supporters to boycott this Sunday's referendum on his dismissal. ](/news/2012/07/27/suspended-romanian-president-traian-basescu-urges-his-supporters-to-boycott-this-sunday-s-referendum-on-his-dismissal.md)
-_Context: Romanian President, Traian Băsescu, presidential impeachment referendum_
+_Context: Romanian President, Traian Basescu, presidential impeachment referendum_
 
 ### [Mali's interim President Diouncounda Traore returns to the country after a two-month absence. ](/news/2012/07/27/mali-s-interim-president-diouncounda-traore-returns-to-the-country-after-a-two-month-absence.md)
 _Context: Diouncounda Traore, Mali_

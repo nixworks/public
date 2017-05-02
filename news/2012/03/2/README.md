@@ -19,7 +19,7 @@ _Context: Afghanistan, Bagram Airfield, Quran, Washington Post, protests_
 _Context: Czech, European Union, United Kingdom_
 
 ### [Nestl and Danone are said to be bidding for the infant nutrition business that Pfizer is about to put up for sale. ](/news/2012/03/2/nestle-and-danone-are-said-to-be-bidding-for-the-infant-nutrition-business-that-pfizer-is-about-to-put-up-for-sale.md)
-_Context: Danone, Nestlé, Pfizer Inc._
+_Context: Danone, Nestl, Pfizer Inc._
 
 ### [Moody's Investor Services cuts Greece's credit rating to C claiming that there is a still a significant risk of default despite the Eurozone bailout. ](/news/2012/03/2/moody-s-investor-services-cuts-greece-s-credit-rating-to-c-claiming-that-there-is-a-still-a-significant-risk-of-default-despite-the-eurozone.md)
 _Context: Eurozone, Greece, Moody's Investor Services, credit rating_

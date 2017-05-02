@@ -7,7 +7,7 @@ A portal of daily newspapers covering Philippine news headlines, business, lifes
 _Context: 2011 Syrian uprising, Bashar al-Assad, President, Syrian Army_
 
 ### [Chinese Bullet trains on the Beijing-Shanghai High-Speed Railway are withdrawn and all sections of track are inspected following a recent crash. ](/news/2011/08/12/chinese-bullet-trains-on-the-beijingashanghai-high-speed-railway-are-withdrawn-and-all-sections-of-track-are-inspected-following-a-recent.md)
-_Context: Beijing–Shanghai High-Speed Railway, Chinese, high-speed rail_
+_Context: Beijing-Shanghai High-Speed Railway, Chinese, high-speed rail_
 
 ### [The United States Court of Appeals for the Eleventh Circuit strikes down the health insurance mandate of President Barack Obama's Patient Protection and Affordable Care Act. ](/news/2011/08/12/the-united-states-court-of-appeals-for-the-eleventh-circuit-strikes-down-the-health-insurance-mandate-of-president-barack-obama-s-patient-pr.md)
 _Context: Barack Obama, Patient Protection and Affordable Care Act, United States Court of Appeals for the Eleventh Circuit, health insurance mandate, president_

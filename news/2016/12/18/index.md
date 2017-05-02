@@ -25,7 +25,7 @@ _Context: 2016 Indonesian Air Force Lockheed C-130 Hercules crash, Indonesia, Lo
 Jammeh once said that he would rule for “one billion years” if “Allah says so.”
 
 ### [Cote d'Ivoire votes. ](/news/2016/12/18/ca-te-d-ivoire-votes.md)
-_Context: Côte d'Ivoire, Ivorian parliamentary election, 2016_
+_Context: Cote d'Ivoire, Ivorian parliamentary election, 2016_
 
 ## [Previous Day...](/news/2016/12/17/index.md)
 

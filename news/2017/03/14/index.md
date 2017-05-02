@@ -9,7 +9,7 @@ Two people were killed and five injured in a blaze at a fireworks warehouse in c
 ### [An Irish Coast Guard helicopter crashes off the coast of County Mayo, killing one person and leaving three others missing. ](/news/2017/03/14/an-irish-coast-guard-helicopter-crashes-off-the-coast-of-county-mayo-killing-one-person-and-leaving-three-others-missing.md)
 A search operation for three missing Irish Coast Guard crew members will continue overnight following a helicopter crash off the coast of Co Mayo early this morning, in which Captain Dara Fitzpatrick died.
 
-### [The destruction from snow fall kills six people and leaves over 100,000 others without electricity, with some areas in the Northeastern United States receiving over {{convert|4|feet|meters}} of snow. ](/news/2017/03/14/the-destruction-from-snow-fall-kills-six-people-and-leaves-over-100-000-others-without-electricity-with-some-areas-in-the-northeastern-unit.md)
+### [The destruction from snow fall kills six people and leaves over 100,000 others without electricity, with some areas in the Northeastern United States receiving over 4|feet|meters of snow. ](/news/2017/03/14/the-destruction-from-snow-fall-kills-six-people-and-leaves-over-100-000-others-without-electricity-with-some-areas-in-the-northeastern-unit.md)
 Here&#039;s the latest on Winter Storm Stella.
 
 ### [Europol reports a total of more than 10,000 assault rifles and 400 shelling weapons were seized in northern Spain during an anti-trafficking operation in January. ](/news/2017/03/14/europol-reports-a-total-of-more-than-10-000-assault-rifles-and-400-shelling-weapons-were-seized-in-northern-spain-during-an-anti-trafficking.md)

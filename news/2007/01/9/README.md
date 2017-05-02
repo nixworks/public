@@ -13,7 +13,7 @@ _Context: Iran, Iran's nuclear program, Mujahedin-e Khalq_
 _Context: 10 January, Karim Masimov, Kazakh President, Nursultan Nazarbayev's, Prime Minister, parliament_
 
 ### [ The OVP, the future minority partner in the grand coalition government that will be sworn in in Austria on 2007-01-11, announces its future ministers. ](/news/2007/01/9/the-avp-the-future-minority-partner-in-the-grand-coalition-government-that-will-be-sworn-in-in-austria-on-2007-01-11-announces-its-futur.md)
-_Context: Austria, grand coalition, new government, ÖVP_
+_Context: Austria, OVP, grand coalition, new government_
 
 ### [ The European Parliament undergoes mid-term changes in advance of its first 2007 session: Far right parliamentarians increase their influence within the European Parliament by founding a new transnational caucus. ](/news/2007/01/9/the-european-parliament-undergoes-mid-term-changes-in-advance-of-its-first-2007-session-p-far-right-parliamentarians-increase-their-influen.md)
 _Context: European Parliament, a new transnational caucus, far right_

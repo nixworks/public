@@ -4,7 +4,7 @@
 _Context: Shia insurgency in Yemen_
 
 ### [2010-2011 Burma border clashes: The Burmese government signs a ceasefire with Karen rebels. ](/news/2012/01/12/2010a2011-burma-border-clashes-the-burmese-government-signs-a-ceasefire-with-karen-rebels.md)
-_Context: 2010–2011 Burma border clashes, Burma, Karen_
+_Context: 2010-2011 Burma border clashes, Burma, Karen_
 
 ### [2011-2012 Syrian uprising: The Arab League delays sending more observers to Syria; one of its observers also quits the mission. ](/news/2012/01/12/2011a2012-syrian-uprising-the-arab-league-delays-sending-more-observers-to-syria-one-of-its-observers-also-quits-the-mission.md)
 The Arab League is delaying sending more monitors to Syria, as its mission runs into further difficulties in the country gripped by unrest.

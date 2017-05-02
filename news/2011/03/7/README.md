@@ -7,7 +7,7 @@ Two Arab newspapers and alJazeera television said on Monday Libyan leader Muamma
 _Context: 2011 Yemeni protests, Saleh, Sana'a, Yemen_
 
 ### [Rebel forces seize a third town in western Ivory Coast from government forces.](/news/2011/03/7/rebel-forces-seize-a-third-town-in-western-ivory-coast-from-government-forces.md)
-_Context: 2010–2011 Ivorian crisis, Ivory Coast_
+_Context: 2010-2011 Ivorian crisis, Ivory Coast_
 
 ### [Twenty-three oil workers are kidnapped in eastern Colombia with FARC rebels the most likely suspects. ](/news/2011/03/7/twenty-three-oil-workers-are-kidnapped-in-eastern-colombia-with-farc-rebels-the-most-likely-suspects.md)
 _Context: Colombia, FARC, kidnapped_

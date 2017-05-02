@@ -40,7 +40,7 @@ _Context: 2008 municipal elections, France, Nicolas Sarkozy, UMP, president_
 _Context: Angela Merkel, Chancellor, Germany, Israel_
 
 ### [ The trial of Jovica Stanisic and Franko Simatovic, two former Serbian State Security Service officers and allies of Slobodan Milosevic, starts at the International Criminal Tribunal for the former Yugoslavia in The Hague. ](/news/2008/03/17/the-trial-of-jovica-stania-ia-and-franko-simatovia-two-former-serbian-state-security-service-officers-and-allies-of-slobodan-miloa-evia.md)
-_Context: Franko Simatović, International Criminal Tribunal for the former Yugoslavia, Jovica Stanišić, Serbia, Slobodan Milošević, State Security Service, The Hague_
+_Context: Franko Simatovic, International Criminal Tribunal for the former Yugoslavia, Jovica Stanisic, Serbia, Slobodan Milosevic, State Security Service, The Hague_
 
 ### [ Ugandan Lord's Resistance Army leader Joseph Kony enters the Central African Republic, thus violating a ceasefire. ](/news/2008/03/17/ugandan-lord-s-resistance-army-leader-joseph-kony-enters-the-central-african-republic-thus-violating-a-ceasefire.md)
 _Context: Central-African, Joseph Kony, Lord's Resistance Army, Uganda, ceasefire_
@@ -52,7 +52,7 @@ _Context: Afghanistan, Gereshk, Helmand, NATO, suicide bomber_
 The group searching for HMAS Sydney has found the wreckage of the World War II Australian warship off the coast of Western Australia, the ABC has confirmed.
 
 ### [ A former Luftwaffe pilot reveals he may have shot down the airplane of French writer and aviator Antoine de Saint Exupery, thus killing him, on July 31, 1944. ](/news/2008/03/17/a-former-luftwaffe-pilot-reveals-he-may-have-shot-down-the-airplane-of-french-writer-and-aviator-antoine-de-saint-exupa-c-ry-thus-killing-hi.md)
-_Context: Antoine de Saint Exupéry, France, Luftwaffe, airplane, pilot, writer_
+_Context: Antoine de Saint Exupery, France, Luftwaffe, airplane, pilot, writer_
 
 ## [Previous Day...](/news/2008/03/16/index.md)
 

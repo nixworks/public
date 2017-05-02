@@ -1,6 +1,6 @@
 ## [2006-11-30](/news/2006/11/30/index.md)
 
-### [ Super Typhoon Durian (Reming), the strongest Typhoon to hit Philippines, impacts the Bical region. In Virac Catanduanes {{convert|265|-|300|km/h|abbr=on}} wind was recorded, while in Legaspi, Albay {{convert|4.66|mm|abbr=on}} of rain is recorded and a total of 740 people are killed.](/news/2006/11/30/super-typhoon-durian-reming-the-strongest-typhoon-to-hit-philippines-impacts-the-bical-region-in-virac-catanduanes-convert-265-300.md)
+### [ Super Typhoon Durian (Reming), the strongest Typhoon to hit Philippines, impacts the Bical region. In Virac Catanduanes 265|-|300|km/h|abbr=on wind was recorded, while in Legaspi, Albay 4.66|mm|abbr=on of rain is recorded and a total of 740 people are killed.](/news/2006/11/30/super-typhoon-durian-reming-the-strongest-typhoon-to-hit-philippines-impacts-the-bical-region-in-virac-catanduanes-265-300-km-h-abbr.md)
 _Context: Super Typhoon Durian (Reming)_
 
 ### [ Windows Vista goes on sale for bulk license holders with home users being able to buy it on January 30, 2007. ](/news/2006/11/30/windows-vista-goes-on-sale-for-bulk-license-holders-with-home-users-being-able-to-buy-it-on-january-30-2007.md)
@@ -10,7 +10,7 @@ _Context: Windows Vista_
 _Context: 2006 Atlantic hurricane season_
 
 ### [ Central African Republic Bush War: French fighter planes have fired at rebels in northern Central African Republic (CAR) where thousands have fled fighting in recent weeks. ](/news/2006/11/30/central-african-republic-bush-war-french-fighter-planes-have-fired-at-rebels-in-northern-central-african-republic-car-where-thousands-ha.md)
-_Context: 2004–2007 Bush War, Central-African, France_
+_Context: 2004-2007 Bush War, Central-African, France_
 
 ### [ The science journal ''Nature'' publishes a new reconstruction of the Antikythera mechanism based on high resolution X-ray tomography. The Antikythera mechanism is an ancient Greek mechanical analog computer designed to calculate astronomical positions. ](/news/2006/11/30/the-science-journal-nature-publishes-a-new-reconstruction-of-the-antikythera-mechanism-based-on-high-resolution-x-ray-tomography-the-a.md)
 _Context: Antikythera mechanism, Nature_

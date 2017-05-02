@@ -16,7 +16,7 @@ _Context: Italian, Rome_
 _Context: Sri Lanka, Sri Lankan Civil War, Tamil Tigers_
 
 ### [ Tens of thousands of people in Madrid protest the release of jailed Basque separatist Jos Ignacio de Juana Chaos. ](/news/2007/03/10/tens-of-thousands-of-people-in-madrid-protest-the-release-of-jailed-basque-separatist-jose-ignacio-de-juana-chaos.md)
-_Context: Basque separatist, José Ignacio de Juana Chaos, Madrid_
+_Context: Basque separatist, Jos Ignacio de Juana Chaos, Madrid_
 
 ### [ The launch of the European Space Agency's latest Ariane 5 mission from French Guiana, carrying a platform for the Skynet 5 military satellite system for use by the UK Ministry of Defence, is postponed due to a minor technical failure ](/news/2007/03/10/the-launch-of-the-european-space-agency-s-latest-ariane-5-mission-from-french-guiana-carrying-a-platform-for-the-skynet-5-military-satelli.md)
 _Context: Ariane 5, European Space Agency, French Guiana, Skynet 5, UK Ministry of Defence, released an object into orbit_

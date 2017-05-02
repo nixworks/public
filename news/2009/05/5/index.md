@@ -13,7 +13,7 @@ _Context: Georgia, President of Georgia, Saakashvili, assassinated, government, 
 Floods and mudslides from heavy rains in northern Brazil have driven more than 186,000 from their homes and killed 19 people, officials said Tuesday.
 
 ### [ The Braidwood Inquiry begins to investigate the safety of Tasers and the death of Robert Dziekanski. ](/news/2009/05/5/the-braidwood-inquiry-begins-to-investigate-the-safety-of-tasers-and-the-death-of-robert-dziekaaski.md)
-_Context: Braidwood Inquiry, Robert Dziekański, taser_
+_Context: Braidwood Inquiry, Robert Dziekanski, taser_
 
 ## [Previous Day...](/news/2009/05/4/index.md)
 

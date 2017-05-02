@@ -43,7 +43,7 @@ _Context: Iran, Iranian elections, 2016, Iranian legislative election, 2016, new
 _Context: Enda Kenny, Fine Gael, Irish general election, 2016, Labour Party, Republic of Ireland_
 
 ### [Hashim Thaci is elected  the President of Kosovo by the Parliament amid violent protests. ](/news/2016/02/26/hashim-thaassi-is-elected-the-president-of-kosovo-by-the-parliament-amid-violent-protests.md)
-_Context: Hashim Thaçi, Parliament, President_
+_Context: Hashim Thaci, Parliament, President_
 
 ### [The United States Air Force unveils the Northrop Grumman B-21 long-range strategic bomber at the Air Force Association's annual Air Warfare Symposium in Orlando, Florida. The B-21 is designed to replace the aging fleet of B-1 Lancer and B-52 bombers. ](/news/2016/02/26/the-united-states-air-force-unveils-the-northrop-grumman-b-21-long-range-strategic-bomber-at-the-air-force-associationas-annual-air-warfar.md)
 It has been designated the B-21.

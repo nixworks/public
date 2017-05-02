@@ -19,7 +19,7 @@ _Context: District of Columbia, Firearms Control Regulations Act of 1975, Second
 _Context: Nepal, federal state, no sitting national Legislature_
 
 ### [ Results from the Northern Ireland Assembly election show the DUP and Sinn Fein making gains, and ensuring that in order for direct rule to cease both parties must agree to cooperate in a powersharing Executive. ](/news/2007/03/9/results-from-the-northern-ireland-assembly-election-show-the-dup-and-sinn-fa-c-in-making-gains-and-ensuring-that-in-order-for-direct-rule-to.md)
-_Context: Assembly election, Democratic Unionist Party, Government of Northern Ireland, Northern Ireland, Sinn Féin, direct rule, powersharing_
+_Context: Assembly election, Democratic Unionist Party, Government of Northern Ireland, Northern Ireland, Sinn Fein, direct rule, powersharing_
 
 ### [ Cuba-United States relations: The United States Coast Guard stages an exercise in Florida in preparation for a possible mass exodus from Cuba in the event of the death of Cuban leader Fidel Castro. During the drill 40 Cuban exiles reach the United States.  ](/news/2007/03/9/cuba-united-states-relations-the-united-states-coast-guard-stages-an-exercise-in-florida-in-preparation-for-a-possible-mass-exodus-from-cu.md)
 _Context: Cuba, Cuba-United States relations, Cuban exile, Fidel Castro, Florida, President, U.S. Coast Guard, United States, mass exodus_
@@ -31,7 +31,7 @@ _Context: Australia, Kelvin Thomson, Tony Mokbel, attorney general_
 _Context: Abu Omar al-Baghdadi, Baghdad, Iraq Insurgency, Iraq War, Islamic State of Iraq_
 
 ### [ Dogu Perincek is found guilty of genocide denial by a Swiss district court, making him the first person ever convicted for denial of the Armenian Genocide by a court of law.](/news/2007/03/9/doau-perinassek-is-found-guilty-of-genocide-denial-by-a-swiss-district-court-making-him-the-first-person-ever-convicted-for-denial-of-the.md)
-_Context: Doğu Perinçek, denial, denial of the Armenian Genocide_
+_Context: Dogu Perincek, denial, denial of the Armenian Genocide_
 
 ## [Previous Day...](/news/2007/03/8/index.md)
 

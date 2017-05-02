@@ -13,7 +13,7 @@ _Context: Afghanistan, Jowzjan Province_
 The troops died in two separate incidents near the Line of Control dividing the disputed territory.
 
 ### [Mexican President Enrique Pena Nieto cancels the meeting scheduled for next week with U.S. President Donald Trump, citing his plan to build a border wall between the two countries. ](/news/2017/01/26/mexican-president-enrique-pea-a-nieto-cancels-the-meeting-scheduled-for-next-week-with-u-s-president-donald-trump-citing-his-plan-to-build.md)
-_Context: 2017 Mexico–United States diplomatic crisis, Donald Trump, Enrique Peña Nieto, Mexican President, U.S. President, wall_
+_Context: 2017 Mexico-United States diplomatic crisis, Donald Trump, Enrique Pena Nieto, Mexican President, U.S. President, wall_
 
 ### [The Supreme Court of Greece rejects the extradition of eight soldiers accused by Turkey of involvement in the 2016 Turkish ''coup d'etat'' attempt. ](/news/2017/01/26/the-supreme-court-of-greece-rejects-the-extradition-of-eight-soldiers-accused-by-turkey-of-involvement-in-the-2016-turkish-coup-d-a-c-tat.md)
 Greece rules against extraditing eight soldiers that Turkey accuses of involvement in a failed coup.

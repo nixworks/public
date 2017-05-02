@@ -13,7 +13,7 @@ _Context: China's, Hanoi, South China Sea, Vietnamese, territorial waters_
 Gunmen believed to be from the Boko Haram Islamist sect throw bombs at a beer garden in the Nigerian town of Maiduguri killing at least 25 people, security sources say.
 
 ### [More than one million people participate in Sao Paulo's 15th Gay Pride March following the recent improvement in the legal rights afforded to the country's gay community. ](/news/2011/06/26/more-than-one-million-people-participate-in-sapso-paulo-s-15th-gay-pride-march-following-the-recent-improvement-in-the-legal-rights-afforded.md)
-_Context: São Paulo_
+_Context: Sao Paulo_
 
 ### [It is confirmed that Daniel Craig, the current James Bond, has married the Academy Award-winning actress Rachel Weisz at a private ceremony in the U.S. state of New York. ](/news/2011/06/26/it-is-confirmed-that-daniel-craig-the-current-james-bond-has-married-the-academy-award-winning-actress-rachel-weisz-at-a-private-ceremony.md)
 _Context: Academy Award, Daniel Craig, James Bond, New York, Rachel Weisz, state_
@@ -22,7 +22,7 @@ _Context: Academy Award, Daniel Craig, James Bond, New York, Rachel Weisz, state
 US star Beyonce makes her debut at Glastonbury, bringing the three-day festival to a close.
 
 ### [Eruption of Puyehue-Cordon Caulle in Chile:Ash cloud from the 2011 Puyehue-Cordon Caulle eruption continues to disrupt flights between Australia and New Zealand. ](/news/2011/06/26/eruption-of-puyehue-corda3n-caulle-in-chile-pash-cloud-from-the-2011-puyehue-corda3n-caulle-eruption-continues-to-disrupt-flights-between-au.md)
-_Context: 2011 Puyehue-Cordón Caulle eruption, Australia, New Zealand_
+_Context: 2011 Puyehue-Cordon Caulle eruption, Australia, New Zealand_
 
 ### [The bodies of six mountaineers are found on Neige Cordier in the French Alps after apparently having been killed by an avalanche. ](/news/2011/06/26/the-bodies-of-six-mountaineers-are-found-on-neige-cordier-in-the-french-alps-after-apparently-having-been-killed-by-an-avalanche.md)
 Six French mountaineers have been found dead after a fall in the French Alps, local officials say.

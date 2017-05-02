@@ -4,7 +4,7 @@
 _Context: Malawi, Yusuf Mwawa, anti-corruption, fraud_
 
 ### [ Venezuelan president Hugo Chvez threatens to cut off oil supplies after U.S. Secretary of State Condoleezza Rice claims that the Venezuelan government poses "one of the biggest problems" in the region. ](/news/2006/02/18/venezuelan-president-hugo-chavez-threatens-to-cut-off-oil-supplies-after-u-s-secretary-of-state-condoleezza-rice-claims-that-the-venezuela.md)
-_Context: Condoleezza Rice, Hugo Chávez_
+_Context: Condoleezza Rice, Hugo Chvez_
 
 ### [ Movement for the Emancipation of the Niger Delta rebels kidnap nine foreign oil workers in Nigeria. ](/news/2006/02/18/movement-for-the-emancipation-of-the-niger-delta-rebels-kidnap-nine-foreign-oil-workers-in-nigeria.md)
 _Context: Movement for the Emancipation of the Niger Delta_

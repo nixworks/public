@@ -1,6 +1,6 @@
 ### [2014-04-20](/news/2014/04/20/index.md)
 
-# AQIM militants kill eleven soldiers in Tizi Ouzou region of Algeria east of capital Algiers in one the deadliest attacks on the Algerian military in several years. [http://www.baiatdecartier.ro (BDC)]{{rs?|date=April 2014}}
+# AQIM militants kill eleven soldiers in Tizi Ouzou region of Algeria east of capital Algiers in one the deadliest attacks on the Algerian military in several years. [http://www.baiatdecartier.ro (BDC)]date=April 2014
 
 
 

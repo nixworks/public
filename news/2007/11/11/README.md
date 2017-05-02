@@ -10,7 +10,7 @@ _Context: Belgium, France, Wallonia_
 _Context: Flanders, Netherlands_
 
 ### [ Danilo Trk wins the 2007 Slovenian presidential elections with a large margin. ](/news/2007/11/11/danilo-turk-wins-the-2007-slovenian-presidential-elections-with-a-large-margin.md)
-_Context: 2007 Slovenian presidential elections, Danilo Türk_
+_Context: 2007 Slovenian presidential elections, Danilo Trk_
 
 ### [ Former Khmer Rouge Foreign Minister, Ieng Sary and his wife, Ieng Thirith are arrested in Phnom Penh to face charges before that country's U.N. genocide tribunal. ](/news/2007/11/11/former-khmer-rouge-foreign-minister-ieng-sary-and-his-wife-ieng-thirith-are-arrested-in-phnom-penh-to-face-charges-before-that-country-s.md)
 _Context: Ieng Sary, Ieng Thirith, Khmer Rouge, Phnom Penh, U.N., genocide tribunal_

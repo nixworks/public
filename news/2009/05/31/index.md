@@ -13,7 +13,7 @@ _Context: George Tiller, Kansas, Late-term abortion, United States, Wichita, Kan
 _Context: South Ossetia, parliamentary election_
 
 ### [ Six people are killed during battle between Hamas militants and the Palestinian National Authority's Preventive Security Service in the West Bank. ](/news/2009/05/31/six-people-are-killed-during-battle-between-hamas-militants-and-the-palestinian-national-authority-s-preventive-security-service-in-the-wes.md)
-_Context: Fatah–Hamas conflict, Hamas, Palestinian National Authority, Preventive Security Service, West Bank, militant_
+_Context: Fatah-Hamas conflict, Hamas, Palestinian National Authority, Preventive Security Service, West Bank, militant_
 
 ### [ Two men are charged with plotting to assassinate former Hong Kong Democratic Party Chairman Martin Lee. ](/news/2009/05/31/two-men-are-charged-with-plotting-to-assassinate-former-hong-kong-democratic-party-chairman-martin-lee.md)
 _Context: Democratic Party, Hong Kong, Martin Lee, assassinated, chairman_

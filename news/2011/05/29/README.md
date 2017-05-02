@@ -31,7 +31,7 @@ _Context: Dennis Daugaard, Missouri River, Pierre, South Dakota, South Dakota Go
 _Context: Michigan_
 
 ### [Ferenc Madl, the President of Hungary (2000-2005), dies in Budapest. ](/news/2011/05/29/ferenc-ma-dl-the-president-of-hungary-2000-2005-dies-in-budapest.md)
-_Context: Budapest, Ferenc Mádl, President of Hungary_
+_Context: Budapest, Ferenc Madl, President of Hungary_
 
 ### [Sergei Bagapsh, the President of the breakaway Georgian province of Abkhazia, dies from complications of lung surgery in Moscow. ](/news/2011/05/29/sergei-bagapsh-the-president-of-the-breakaway-georgian-province-of-abkhazia-dies-from-complications-of-lung-surgery-in-moscow.md)
 _Context: Abkhazia, Georgia, Moscow, President, Sergei Bagapsh_

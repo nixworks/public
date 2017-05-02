@@ -4,7 +4,7 @@
 Suspected militants from the Nigerian Islamist group Boko Haram killed 26 people in attacks on two villages on Lake Chad, local authorities in Chad told Reuters
 
 ### [The Yemeni government in exile announces that it has reached a truce with the Houthi rebels. ](/news/2015/07/8/the-yemeni-government-in-exile-announces-that-it-has-reached-a-truce-with-the-houthi-rebels.md)
-_Context: Houthi, Yemen, Yemeni Crisis (2011–present), truce_
+_Context: Houthi, Yemen, Yemeni Crisis (2011-present), truce_
 
 ### [At least 22 people are killed in clashes between Arab and Berber communities in Ghardaia, Algeria. ](/news/2015/07/8/at-least-22-people-are-killed-in-clashes-between-arab-and-berber-communities-in-ghardaia-algeria.md)
 At least 22 people have died in clashes between Arabs and Berbers around the Algerian oasis city of Ghardaia, the state news agency says.
@@ -34,7 +34,7 @@ _Context: 2015 Pacific typhoon season, Philippines_
 Russia vetoed a United Nations Security Council resolution on Wednesday that would have condemned the Srebrenica massacre as a genocide to mark the 20th anniversary of the killing of 8,000 Muslim men and boys.
 
 ### [Tens of thousands of people are being evacuated from western Canada as firefighters continue to battle wildfires in Saskatchewan, Alberta and British Columbia. ](/news/2015/07/8/tens-of-thousands-of-people-are-being-evacuated-from-western-canada-as-firefighters-continue-to-battle-wildfires-in-saskatchewan-alberta-an.md)
-_Context: Alberta, British Columbia, Canadian, Saskatchewan, wildfire_
+_Context: Alberta, British Columbia, Canada, Saskatchewan, wildfire_
 
 ### [Malaysian police raid the offices of government owned by 1Malaysia Development Berhad in relation to a corruption scandal. ](/news/2015/07/8/malaysian-police-raid-the-offices-of-government-owned-by-1malaysia-development-berhad-in-relation-to-a-corruption-scandal.md)
 _Context: 1Malaysia Development Berhad scandal, Malaysian police_

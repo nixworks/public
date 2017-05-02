@@ -61,13 +61,13 @@ Bosnian Serb genocide suspect Ratko Mladic dismissed as &quot;obnoxious&quot; ch
 Former Democratic vice presidential nominee and two-time presidential candidate John Edwards pleaded not guilty Friday to conspiracy and campaign law violations, acknowledging that he had &quot;done wrong,&quot; but denying that he broke the law.
 
 ### [The United States House of Representatives votes in favour of a non-binding resolution asking the Obama administration to seek Congressional authorization for the intervention in Libya. ](/news/2011/06/3/the-united-states-house-of-representatives-votes-in-favour-of-a-non-binding-resolution-asking-the-obama-administration-to-seek-congressional.md)
-_Context: Libya, Libyan Civil War, Obama Administration, U.S. Congress, U.S. House_
+_Context: Libya, Libyan Civil War, Obama Administration, U.S. Congressional, U.S. House_
 
 ### [American right-to-die activist Jack Kevorkian dies in Royal Oak, Michigan of pneumonia and kidney problems. ](/news/2011/06/3/american-right-to-die-activist-jack-kevorkian-dies-in-royal-oak-michigan-of-pneumonia-and-kidney-problems.md)
 _Context: Jack Kevorkian, Royal Oak, Michigan, pneumonia, right to die_
 
 ### [Copenhagen Suborbitals fire the world's largest privately-built rocket, HEAT 1X Tycho Brahe into the Baltic Sea, 30 km east of Nexo.](/news/2011/06/3/copenhagen-suborbitals-fire-the-world-s-largest-privately-built-rocket-heat-1x-tycho-brahe-into-the-baltic-sea-30-km-east-of-nexa.md)
-_Context: Baltic Sea, Copenhagen Suborbitals, HEAT 1X Tycho Brahe, Nexø_
+_Context: Baltic Sea, Copenhagen Suborbitals, HEAT 1X Tycho Brahe, Nexo_
 
 ## [Previous Day...](/news/2011/06/2/index.md)
 

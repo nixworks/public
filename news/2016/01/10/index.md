@@ -1,7 +1,7 @@
 ## [2016-01-10](/news/2016/01/10/index.md)
 
 ### [Turkish security forces kill at least 32 Kurdistan Workers' Party (PKK) militants over the weekend, in military operations across the embattled Kurdish-majority southeast. ](/news/2016/01/10/turkish-security-forces-kill-at-least-32-kurdistan-workers-party-pkk-militants-over-the-weekend-in-military-operations-across-the-embatt.md)
-_Context: Kurdish, Kurdistan Workers' Party, PKK rebellion (2015–present), Turkey, Turkish troops_
+_Context: Kurdish, Kurdistan Workers' Party, PKK rebellion (2015-present), Turkey, Turkish troops_
 
 ### [A suspected Saudi missile strike on a Medecins Sans Frontieres (MSF) clinic in Razih, located in Yemen's northern Saada Governorate, leaves at least five people dead and around a dozen injured. ](/news/2016/01/10/a-suspected-saudi-missile-strike-on-a-ma-c-decins-sans-frontia-res-msf-clinic-in-razih-located-in-yemen-s-northern-saada-governorate-leave.md)
 At least five people have been killed in a missile strike on a Medecins Sans Frontieres medical facility in Yemen. The organization “strongly condemns this,” while adding that 10 people have been injured in the attack.
@@ -34,10 +34,10 @@ Poland criticises German politicians for what it calls &quot;anti-Polish&quot; c
 _Context: Bowe Bergdahl, Taliban, United States Army, court-martial_
 
 ### [Mexican authorities want to question American actor Sean Penn and Mexican actress Kate del Castillo about a secret October meeting and interview with Joaquin Guzman, published by ''Rolling Stone'' magazine yesterday. Mexico Attorney General Arely Gomez says it was the Penn interview that led authorities to a Guzman hiding place. ](/news/2016/01/10/mexican-authorities-want-to-question-american-actor-sean-penn-and-mexican-actress-kate-del-castillo-about-a-secret-october-meeting-and-inter.md)
-_Context: Arely Gomez, Attorney General of Mexico, Joaquín "El Chapo" Guzmán, Kate del Castillo, Mexican Drug War, Rolling Stone, Sean Penn_
+_Context: Arely Gomez, Attorney General of Mexico, Joaquin "El Chapo" Guzman, Kate del Castillo, Mexican Drug War, Rolling Stone, Sean Penn_
 
 ### [The newly appointed President of Catalonia, Carles Puigdemont, vows to continue his predecessor Artur Mas i Gavarro's plans to secede from Spain within 18 months. ](/news/2016/01/10/the-newly-appointed-president-of-catalonia-carles-puigdemont-vows-to-continue-his-predecessor-artur-mas-i-gavarra3-s-plans-to-secede-from.md)
-_Context: Artur Mas i Gavarró, Carles Puigdemont, Catalan independence, President of the Generalitat of Catalonia, Spain_
+_Context: Artur Mas i Gavarro, Carles Puigdemont, Catalan independence, President of the Generalitat of Catalonia, Spain_
 
 ### [Lawyers for former FIFA chief Sepp Blatter confirm that he will appeal his eight year ban from the organisation. ](/news/2016/01/10/lawyers-for-former-fifa-chief-sepp-blatter-confirm-that-he-will-appeal-his-eight-year-ban-from-the-organisation.md)
 Fallen FIFA chief Sepp Blatter will appeal against his eight-year ban, his lawyer said Sunday, joining fellow suspended official Michel Platini in a fight to clear his name. &quot;We will appeal it, of course,&quot; Blatter&#x27;s US-based attorney Richard Cullen confirmed to AFP in an email. The confirmation

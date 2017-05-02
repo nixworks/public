@@ -1,7 +1,7 @@
 ## [2016-08-26](/news/2016/08/26/index.md)
 
 ### [Eight Turkish police officers are killed and 40 are injured in a bombing at a police checkpoint in the town of Cizre, with the PKK believed to be responsible. ](/news/2016/08/26/eight-turkish-police-officers-are-killed-and-40-are-injured-in-a-bombing-at-a-police-checkpoint-in-the-town-of-cizre-with-the-pkk-believed.md)
-_Context: Cizre, Kurdish–Turkish conflict (1978–present), Kurdistan Workers' Party, Turkish police_
+_Context: Cizre, Kurdish-Turkish conflict (1978-present), Kurdistan Workers' Party, Turkish police_
 
 ### [Following a ceasefire agreement with the government, Syrian rebels begin evacuating the war-torn suburb of Darayya, near Damascus, ending a four-year-long siege by government forces. Under the terms of surrender, the 8,000 civilians who reside in the suburb will be moved to regime-controlled areas while several hundred rebel fighters will be given passage to the Idlib Governorate. ](/news/2016/08/26/following-a-ceasefire-agreement-with-the-government-syrian-rebels-begin-evacuating-the-war-torn-suburb-of-darayya-near-damascus-ending-a.md)
 For four long years the Damascus suburb of Daraya endured siege, bombardment and starvation at the hands of the Syrian regime.
@@ -34,7 +34,7 @@ President Rodrigo Duterte says ransom has been paid for Norwegian hostage Kjarta
 _Context: North Gauteng High Court, Oscar Pistorius, Trial of Oscar Pistorius_
 
 ### [The France Conseil d'Etat suspends Villeneuve-Loubet commune's ban on  on full-body burkini swimsuits. ](/news/2016/08/26/the-france-conseil-d-atat-suspends-villeneuve-loubet-commune-s-ban-on-on-full-body-burkini-swimsuits.md)
-_Context: Conseil d'État, France, Villeneuve-Loubet, burkini, commune_
+_Context: Conseil d'Etat, France, Villeneuve-Loubet, burkini, commune_
 
 ### [Police and protesters clash in Harare after a court ruled that protests against Robert Mugabe can continue. ](/news/2016/08/26/police-and-protesters-clash-in-harare-after-a-court-ruled-that-protests-against-robert-mugabe-can-continue.md)
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com

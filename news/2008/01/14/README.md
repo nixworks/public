@@ -1,7 +1,7 @@
 ## [2008-01-14](/news/2008/01/14/index.md)
 
 ### [ Alvaro Colom is sworn in as President of Guatemala. ](/news/2008/01/14/alvaro-colom-is-sworn-in-as-president-of-guatemala.md)
-_Context: Guatemalan President, Álvaro Colom_
+_Context: Alvaro Colom, Guatemalan President_
 
 ### [ MESSENGER, a NASA mission, flies by Mercury, the second spacecraft to do so and the first in thirty-three years. ](/news/2008/01/14/messenger-a-nasa-mission-flies-by-mercury-the-second-spacecraft-to-do-so-and-the-first-in-thirty-three-years.md)
 _Context: MESSENGER, Mercury's, NASA_

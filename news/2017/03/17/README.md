@@ -16,7 +16,7 @@ Sources say the now-weakened Basque militant group is due to announce its comple
 Devastating downpour, caused by high ocean temperatures, could not have been predicted, president said, months after state of emergency declared for wildfires
 
 ### [The former Democratic National Committee chair and ex-CNN contributor Donna Brazile admits that she had forwarded some debate questions to Hillary Clinton's campaign during last year's Democratic primary before two debates with Bernie Sanders. ](/news/2017/03/17/the-former-democratic-national-committee-chair-and-ex-cnn-contributor-donna-brazile-admits-that-she-had-forwarded-some-debate-questions-to-h.md)
-_Context: Bernie Sanders, CNN, Democrat, Democratic National Committee, Donna Brazile, Hillary Clinton, debate questions_
+_Context: Bernie Sanders, CNN, Democratic, Democratic National Committee, Donna Brazile, Hillary Clinton, debate questions_
 
 ### [French mathematician Yves Meyer wins the Abel Prize for his work on the mathematical theory of wavelets. ](/news/2017/03/17/french-mathematician-yves-meyer-wins-the-abel-prize-for-his-work-on-the-mathematical-theory-of-wavelets.md)
 Frenchman wins prestigious prize for theory that links maths, information technology and computer science

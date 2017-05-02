@@ -4,7 +4,7 @@
 Senior IDF officer says investigation of incident off Gaza&#39;s coastline determined Al-Aqsa Brigades men planned attack on Israel&#39;s home front 
 
 ### [Canadian poet Anne Michaels's novel ''Fugitive Pieces'' has been judged, by a panel of teenagers, the best Orange Prize for Fiction winner in its 15-year history. ''Fugitive Pieces'' won the Prize in 1997. ](/news/2010/06/7/canadian-poet-anne-michaels-s-novel-fugitive-pieces-has-been-judged-by-a-panel-of-teenagers-the-best-orange-prize-for-fiction-winner-i.md)
-_Context: Anne Michaels, Canadian, Fugitive Pieces, Orange Prize for Fiction, adolescents_
+_Context: Anne Michaels, Canada, Fugitive Pieces, Orange Prize for Fiction, adolescents_
 
 ### [Chinese stock markets closed down Monday on weaker global recovery prospects. ](/news/2010/06/7/chinese-stock-markets-closed-down-monday-on-weaker-global-recovery-prospects.md)
 _Context: Chinese stock market_

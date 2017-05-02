@@ -40,7 +40,7 @@ _Context: Dagupan, Philippine presidential election, 2016, debate series, final 
 Serbian Prime Minister Aleksandar Vucic’s Progressive Party won a majority in parliament in snap elections on Sunday, securing a new four-year term to overhaul the economy and lead the country closer to the European Union.
 
 ### [Protests continue in Moldova as thousands of anti-government protesters demonstrate in the capital Chisinau despite concessions given to the protesters last month by the government. ](/news/2016/04/24/protests-continue-in-moldova-as-thousands-of-anti-government-protesters-demonstrate-in-the-capital-chieinau-despite-concessions-given-to-t.md)
-_Context: 2015–16 protests in Moldova, Chișinău, Moldova_
+_Context: 2015-16 protests in Moldova, Chisinau, Moldova_
 
 ### [Around 1,000 people stage a rare public protest in the Kazakh city of Atyrau, rallying against the government's decision to sell land in auctions amid a heavy police presence, though they did not forcibly disperse the rally. ](/news/2016/04/24/around-1-000-people-stage-a-rare-public-protest-in-the-kazakh-city-of-atyrau-rallying-against-the-government-s-decision-to-sell-land-in-auc.md)
 _Context: Atyrau, Kazakhstan, policemen_

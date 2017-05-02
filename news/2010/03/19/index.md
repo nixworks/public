@@ -58,7 +58,7 @@ _Context: Abdullah, Amnesty International, Lebanon, Saudi Arabia_
 _Context: Colombia, Johnny Hurtado_
 
 ### [Colombian journalist, radio reporter and ''El Pulso'' magazine editor Clodomiro Castilla is shot to death while reading a book at his Montera home. ](/news/2010/03/19/colombian-journalist-radio-reporter-and-el-pulso-magazine-editor-clodomiro-castilla-is-shot-to-death-while-reading-a-book-at-his-monter.md)
-_Context: Clodomiro Castilla, Colombia, El Pulso, Montería_
+_Context: Clodomiro Castilla, Colombia, El Pulso, Montera_
 
 ## [Previous Day...](/news/2010/03/18/index.md)
 

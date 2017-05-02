@@ -19,10 +19,10 @@ The Taoiseach, Bertie Ahern, has said he does not know who the members of the IR
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ The Turkish Republic of Northern Cyprus votes in its early general election. The election was called by President Rauf Denktas after the coalition led by Mehmet Ali Talat finally lost its parliamentary majority. ](/news/2005/02/20/the-turkish-republic-of-northern-cyprus-votes-in-its-early-general-election-the-election-was-called-by-president-rauf-denktaa-after-the-c.md)
-_Context: Mehmet Ali Talat, Rauf Denktaş, TRNC, general election_
+_Context: Mehmet Ali Talat, Rauf Denktas, TRNC, general election_
 
 ### [ The US  and EU join the protests against Faure Gnassingbe of Togo. The Economic Community of West African States (ECOWAS) imposes sanctions and suspends Togo's membership in the organization and US does not accept his rule as legitimate and ends all military assistance ](/news/2005/02/20/the-us-and-eu-join-the-protests-against-faure-gnassingba-c-of-togo-the-economic-community-of-west-african-states-ecowas-imposes-sanction.md)
-_Context: ECOWAS, European Union, Faure Gnassingbé, Togo_
+_Context: ECOWAS, European Union, Faure Gnassingbe, Togo_
 
 ## [Previous Day...](/news/2005/02/19/index.md)
 

@@ -13,7 +13,7 @@ A US drone attack kills at least eight suspected militants in a Pakistan north-w
 _Context: Kachin, Kachin conflict, Laiza_
 
 ### [War in Afghanistan (2001-present):Suicide bombers kill four in an attack in Spin Boldak, Afghanistan. ](/news/2013/01/6/war-in-afghanistan-2001apresent-psuicide-bombers-kill-four-in-an-attack-in-spin-boldak-afghanistan.md)
-_Context: Afghanistan, Spin Boldak, War in Afghanistan (2001–present)_
+_Context: Afghanistan, Spin Boldak, War in Afghanistan (2001-present)_
 
 ### [2012-2013 Central African Republic rebellion:South Africa announces it will send 400 more soldiers to the Central African Republic in an effort to assist the current regime, which faces a potential attack by the Seleka rebel coalition on the capital. ](/news/2013/01/6/2012a2013-central-african-republic-rebellion-psouth-africa-announces-it-will-send-400-more-soldiers-to-the-central-african-republic-in-an.md)
 South Africa is sending more soldiers to support government troops in the Central African Republic, where rebels are threatening the capital.
@@ -28,7 +28,7 @@ _Context: Gerard Helders, Minister of Colonial Affairs_
 _Context: Apple Inc., developers, iOS_
 
 ### [In ice hockey, the National Hockey League and the National Hockey League Players' Association reach an agreement that ends the 2012-13 NHL lockout and averts the cancellation of the 2012-13 NHL season. ](/news/2013/01/6/in-ice-hockey-the-national-hockey-league-and-the-national-hockey-league-players-association-reach-an-agreement-that-ends-the-2012a13-nhl.md)
-_Context: 119-day lockout, 2012–13 NHL season, NHL, National Hockey League Players' Association, ice hockey_
+_Context: 119-day lockout, 2012-13 NHL season, NHL, National Hockey League Players' Association, ice hockey_
 
 ## [Previous Day...](/news/2013/01/5/index.md)
 

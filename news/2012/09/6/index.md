@@ -4,7 +4,7 @@
 _Context: Arab world, Syria, Syrian Civil War, Vladimir Putin, Westerners_
 
 ### [Colombian armed conflict (1964-present):The FARC want an armistice at the start of the peace talks starting October 8th in Oslo, Norway. The government doesn't want a truce. ](/news/2012/09/6/colombian-armed-conflict-1964apresent-pthe-farc-want-an-armistice-at-the-start-of-the-peace-talks-starting-october-8th-in-oslo-norway.md)
-_Context: Colombian armed conflict (1964–present), Norway, Oslo, Revolutionary Armed Forces of Colombia, armistice, truce_
+_Context: Colombian armed conflict (1964-present), Norway, Oslo, Revolutionary Armed Forces of Colombia, armistice, truce_
 
 ### [61 people, illegal immigrants traveling below deck, die after a fishing boat capsizes fifty meters off the Izmir Province coast of Turkey, near the Greek Aegean islands. ](/news/2012/09/6/61-people-illegal-immigrants-traveling-below-deck-die-after-a-fishing-boat-capsizes-fifty-meters-off-the-izmir-province-coast-of-turkey-n.md)
 A boat carrying migrants capsizes off the coast of western Turkey killing at least 60 people, about half of them said to be children.

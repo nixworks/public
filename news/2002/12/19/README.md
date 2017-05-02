@@ -16,7 +16,7 @@ _Context: Mother Teresa, Pope John Paul II, beatify, miracle, saints_
 _Context: AOL Time Warner, Microsoft, Yahoo Inc., instant messaging_
 
 ### [Rebels in the Cte d'Ivoire seize the key western city of Man from government forces.](/news/2002/12/19/rebels-in-the-cote-d-ivoire-seize-the-key-western-city-of-man-from-government-forces.md)
-_Context: Côte d'Ivoire, Man_
+_Context: Cte d'Ivoire, Man_
 
 ### [Three men convicted of the racist murder of Ross Parker in Peterborough, England, which occurred ten days after the September 11th attacks.](/news/2002/12/19/three-men-convicted-of-the-racist-murder-of-ross-parker-in-peterborough-england-which-occurred-ten-days-after-the-september-11th-attacks.md)
 _Context: England, Peterborough, September 11th attacks, murder of Ross Parker_

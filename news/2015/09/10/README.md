@@ -19,7 +19,7 @@ Denmark has resumed rail services to Germany, after closing the train line and a
 Images reportedly shows Russia pressing ahead with a military buildup in Syria, but Moscow says it is only bringing aid.
 
 ### [The United States Senate fails to pass a resolution blocking approval of the nuclear agreement with Iran, meaning it will be formally adopted on October 19. ](/news/2015/09/10/the-united-states-senate-fails-to-pass-a-resolution-blocking-approval-of-the-nuclear-agreement-with-iran-meaning-it-will-be-formally-adopte.md)
-_Context: Iran, Joint Comprehensive Plan of Action, Senator_
+_Context: Iran, Joint Comprehensive Plan of Action, United States Senate_
 
 ### [An indigenous Lumad child dies in an evacuation center while the Philippine Senate investigates the alleged September 1 murders of an indigenous Lumad family and the alleged rape of an indigenous Manobo girl by soldiers and militiamen of the Philippine Army. ](/news/2015/09/10/an-indigenous-lumad-child-dies-in-an-evacuation-center-while-the-philippine-senate-investigates-the-alleged-september-1-murders-of-an-indige.md)
 The communist rebellion lives in the so-called Timber and Mining Corridor of the Philippines, where guerrillas easily find allies among residents because of their battlecry to keep big business away from ancestral domains
@@ -28,7 +28,7 @@ The communist rebellion lives in the so-called Timber and Mining Corridor of the
 _Context: Azerbaijan, Khadija Ismayilova_
 
 ### [Venezuelan opposition leader Leopoldo Lopez is convicted and sentenced to 14 years imprisonment for allegedly inciting violence at anti-government rallies. ](/news/2015/09/10/venezuelan-opposition-leader-leopoldo-la3pez-is-convicted-and-sentenced-to-14-years-imprisonment-for-allegedly-inciting-violence-at-anti-gov.md)
-_Context: Leopoldo  López, Venezuela_
+_Context: Leopoldo  Lopez, Venezuela_
 
 ### [A U.S. federal jury awards nearly $17.5 million to five former migrant workers at a South Florida farm in their case of sexual harassment and abuse in their work. ](/news/2015/09/10/a-u-s-federal-jury-awards-nearly-17-5-million-to-five-former-migrant-workers-at-a-south-florida-farm-in-their-case-of-sexual-harassment-an.md)
 A federal jury awarded almost $17.5 million to five former female employees of a South Florida farm who said they were raped and harassed at a vegetable packing plant, the U.S. Equal Employment Opportunity Commission (EEOC) announced on Thursday.

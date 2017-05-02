@@ -1,6 +1,6 @@
 ### [2015-09-13](/news/2015/09/13/index.md)
 
-# In golf, Lydia Ko wins the final LPGA major of the year, The Evian Championship, by six shots after a final-round 63. The New Zealander becomes the youngest person of either sex to win a professional major championship, at age {{age in years and days|1997|4|24|2015|9|13}}. 
+# In golf, Lydia Ko wins the final LPGA major of the year, The Evian Championship, by six shots after a final-round 63. The New Zealander becomes the youngest person of either sex to win a professional major championship, at age 1997|4|24|2015|9|13. 
 
 
 

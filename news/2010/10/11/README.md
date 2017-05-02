@@ -4,7 +4,7 @@
 _Context: Anantapur, Srikantam, Telugu Desam_
 
 ### [Afghanistan:Afghan President Hamid Karzai confirms holding unofficial talks with Taliban "for quite some time" in order to end the nine-year war. ](/news/2010/10/11/afghanistan-pafghan-president-hamid-karzai-confirms-holding-unofficial-talks-with-taliban-for-quite-some-time-in-order-to-end-the-nine-yea.md)
-_Context: Afghanistan, Afghanistan President, Hamid Karzai, Taliban, War in Afghanistan (2001–present)_
+_Context: Afghanistan, Afghanistan President, Hamid Karzai, Taliban, War in Afghanistan (2001-present)_
 
 ### [The Indian Army says that nearly 40 militants have been killed by security forces during 25 infiltration attempts in Indian-controlled Kashmir from across the border in the last two months. ](/news/2010/10/11/the-indian-army-says-that-nearly-40-militants-have-been-killed-by-security-forces-during-25-infiltration-attempts-in-indian-controlled-kashm.md)
 _Context: Indian Army, Kashmir_
@@ -40,7 +40,7 @@ _Context: Benjamin Netanyahu, Israel, Palestinian, Prime Minister of Israel_
 _Context: China, Lisbeth Berg-Hansen, Liu Xiaobo, Minister of Fisheries and Coastal Affairs, Nobel Peace Prize, Norway_
 
 ### [The United Arab Emirates closes its airspace to Canada's Defence Minister Peter MacKay over a growing dispute over aviation rights.](/news/2010/10/11/the-united-arab-emirates-closes-its-airspace-to-canada-s-defence-minister-peter-mackay-over-a-growing-dispute-over-aviation-rights.md)
-_Context: Canadian, Defence Minister, Peter MacKay, United Arab Emirates, dispute over aviation rights_
+_Context: Canada, Defence Minister, Peter MacKay, United Arab Emirates, dispute over aviation rights_
 
 ### [Greek Police officer Epaminondas Korkoneas is convicted of the culpable homicide of teenager Alexandros Grigoropoulos which sparked the 2008 Greek riots. ](/news/2010/10/11/greek-police-officer-epaminondas-korkoneas-is-convicted-of-the-culpable-homicide-of-teenager-alexandros-grigoropoulos-which-sparked-the-2008.md)
 A Greek policeman is sentenced to life in jail for murdering a schoolboy in 2008, a shooting incident which sparked the worst unrest in decades.

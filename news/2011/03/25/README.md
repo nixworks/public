@@ -4,7 +4,7 @@
 Heavy gunfire reported in the southern Syrian city of Daraa as anti-government protesters defy a week-long crackdown.
 
 ### [Up to one million people flee Abidjan in southern Cote d'Ivoire amid violence. ](/news/2011/03/25/up-to-one-million-people-flee-abidjan-in-southern-ca-te-d-ivoire-amid-violence.md)
-_Context: 2010–2011 Ivorian crisis, Abidjan, Côte d'Ivoire_
+_Context: 2010-2011 Ivorian crisis, Abidjan, Cote d'Ivoire_
 
 ### [A bomb blast in the Ethiopian capital Addis Ababa injures two people. ](/news/2011/03/25/a-bomb-blast-in-the-ethiopian-capital-addis-ababa-injures-two-people.md)
 _Context: Addis Ababa, Ethiopia_
@@ -73,7 +73,7 @@ _Context: Northern Ireland Assembly, Northern Ireland Assembly election_
 Stephen Harper on Saturday will ask that an election be called, after opposition MPs voted together to defeat the Conservative government.
 
 ### [2011 Hong Kong Sevens, the highest number of participants event of the 2010-11 IRB Sevens World Series, has started at Hong Kong Stadium in Hong Kong and features 24 teams. ](/news/2011/03/25/2011-hong-kong-sevens-the-highest-number-of-participants-event-of-the-2010a11-irb-sevens-world-series-has-started-at-hong-kong-stadium-i.md)
-_Context: 2010–11 IRB Sevens World Series, 2011 Hong Kong Sevens, Hong Kong, Hong Kong Stadium_
+_Context: 2010-11 IRB Sevens World Series, 2011 Hong Kong Sevens, Hong Kong, Hong Kong Stadium_
 
 ## [Previous Day...](/news/2011/03/24/index.md)
 

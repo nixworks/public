@@ -1,7 +1,7 @@
 ## [2005-04-13](/news/2005/04/13/index.md)
 
 ### [ Canada's most prominent white supremacist and founder of the Heritage Front, Wolfgang Droege, is shot to death in his apartment. One suspect is arrested at the scene. ](/news/2005/04/13/canada-s-most-prominent-white-supremacist-and-founder-of-the-heritage-front-wolfgang-droege-is-shot-to-death-in-his-apartment-one-suspec.md)
-_Context: Canadian, Heritage Front, Wolfgang Droege, white supremacist_
+_Context: Canada, Heritage Front, Wolfgang Droege, white supremacist_
 
 ### [ Omar Karami resigns his position as the Prime Minister of Lebanon after he fails to form a government. Without a government to call them, no elections can take place in Lebanon. Elections are due this May. ](/news/2005/04/13/omar-karami-resigns-his-position-as-the-prime-minister-of-lebanon-after-he-fails-to-form-a-government-without-a-government-to-call-them-n.md)
 _Context: Lebanon, Omar Karami, Prime Minister, form of government_
@@ -16,7 +16,7 @@ _Context: Conflict in Iraq, Iraq, Iraqi insurgency, Kirkuk, decoy, police_
 _Context: China, East China Sea, Japan, Politics of Japan, oil_
 
 ### [ The College of American Pathologists asks laboratories worldwide to destroy a flu sample they sent in their testing kits. The Canadian National Microbial Laboratory identified it as a strain of Asian flu virus that killed millions in 1957. People born after 1969 would have no antibodies to resist it. The World Health Organization supports the plea. ](/news/2005/04/13/the-college-of-american-pathologists-asks-laboratories-worldwide-to-destroy-a-flu-sample-they-sent-in-their-testing-kits-the-canadian-nati.md)
-_Context: 1957, 1969, Asian flu, Canadian, College of American Pathologists, World Health Organization, antibody, flu_
+_Context: 1957, 1969, Asian flu, Canada, College of American Pathologists, World Health Organization, antibody, flu_
 
 ### [ The National Geographic Society and IBM support a project to take DNA samples from various people all over the world to track migration of ''Homo sapiens'' from Africa. ](/news/2005/04/13/the-national-geographic-society-and-ibm-support-a-project-to-take-dna-samples-from-various-people-all-over-the-world-to-track-migration-of.md)
 From newly charted astronomical anomalies at the far reaches of the universe to the rise of nanotechnology, nobody covers science and the latest discoveries like Reuters.com.

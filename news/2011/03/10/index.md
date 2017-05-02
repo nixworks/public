@@ -76,7 +76,7 @@ _Context: Federal Housing Administration Refinance Program, U.S. House_
 _Context: Albert Camille Vital, Prime Minister of Madagascar, Southern African Development Community_
 
 ### [The Cuban Roman Catholic Church claims that the Government of Cuba plans to release 10 dissidents including Oscar Elias Biscet. ](/news/2011/03/10/the-cuban-roman-catholic-church-claims-that-the-government-of-cuba-plans-to-release-10-dissidents-including-ascar-elaas-biscet.md)
-_Context: Cuba, Government of Cuba, Roman Catholic Church, Óscar Elías Biscet_
+_Context: Cuba, Government of Cuba, Oscar Elias Biscet, Roman Catholic Church_
 
 ## [Previous Day...](/news/2011/03/9/index.md)
 

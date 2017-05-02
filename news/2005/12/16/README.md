@@ -7,7 +7,7 @@ _Context: Bulgaria, Iraq, U.S.-led troops_
 _Context: Chechnya_
 
 ### [ United States Government: Senator John McCain persuades President George W. Bush to accept a ban on cruel, inhuman and degrading treatment of detainees. ](/news/2005/12/16/united-states-government-p-senator-john-mccain-persuades-president-george-w-bush-to-accept-a-ban-on-cruel-inhuman-and-degrading-treatment.md)
-_Context: American, George W. Bush, John McCain, Senator, president_
+_Context: American, George W. Bush, John McCain, United States Senate, president_
 
 ### [ Conflict in Iraq: Iraqi Police claim that they captured Abu Musab al-Zarqawi in 2004 and then released him by mistake. ](/news/2005/12/16/conflict-in-iraq-iraqi-police-claim-that-they-captured-abu-musab-al-zarqawi-in-2004-and-then-released-him-by-mistake.md)
 _Context: 2004, Abu Musab al-Zarqawi, Conflict in Iraq, Iraqi Police_
@@ -25,7 +25,7 @@ West Bank shooting: One man dead, two women suffer from shock after gunmen trave
 _Context: Lipitor, Pfizer Inc., intellectual property_
 
 ### [ Denis Donaldson is expelled from Sinn Fin for being a British spy. He later confirms this in a statement. ](/news/2005/12/16/denis-donaldson-is-expelled-from-sinn-fein-for-being-a-british-spy-he-later-confirms-this-in-a-statement.md)
-_Context: Denis Donaldson, Sinn Féin, espionage_
+_Context: Denis Donaldson, Sinn Fin, espionage_
 
 ## [Previous Day...](/news/2005/12/15/index.md)
 

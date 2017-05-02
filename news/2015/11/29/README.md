@@ -7,7 +7,7 @@ Several areas of the town were hit and rescue operations are under way with seve
 At least two people were found dead and thousands of people lost their homes in a devastating fire that raced through an informal settlement near Fish Hoek, Cape Town, early on Sunday morning.
 
 ### [Turkish  Prime Minister Ahmet Davutoglu says the body of the pilot from the Sukhoi Su-24 jet downed this past Tuesday will be handed over to Russia. The body is being treated in accordance with the Orthodox tradition. Russia's military attache is going to Hatay in southern Turkey as part of the procedures to recover the remains. Turkish officials refused to comment on how they came to be in possession of the body. ](/news/2015/11/29/turkish-prime-minister-ahmet-davutoalu-says-the-body-of-the-pilot-from-the-sukhoi-su-24-jet-downed-this-past-tuesday-will-be-handed-over-t.md)
-_Context: 2015 Russian Sukhoi Su-24 shootdown, Ahmet Davutoğlu, Hatay Province, Prime Minister of Turkey, Russia, Russian, Sukhoi Su-24, Turkey_
+_Context: 2015 Russian Sukhoi Su-24 shootdown, Ahmet Davutoglu, Hatay Province, Prime Minister of Turkey, Russia, Russian, Sukhoi Su-24, Turkey_
 
 ### [Pope Francis' 2015 visit to AfricaPope Francis arrives in the Central African Republic, the last stop of his six-day African tour, becoming the first modern pope to enter an active war zone as the country is in a state of civil war. ](/news/2015/11/29/pope-francis-2015-visit-to-africappope-francis-arrives-in-the-central-african-republic-the-last-stop-of-his-six-day-african-tour-becoming.md)
 Francis tells people he is ‘pilgrim of peace’ and schedules trip to PK5, known as most dangerous area of capital, Bangui
@@ -37,7 +37,7 @@ The Pope, actress Marion Cotillard and designer Vivienne Westwood were among tho
 _Context: 2015 Davis Cup, Andy Murray, Belgium, Davis Cup, Ghent, Great Britain Davis Cup team, Jamie Murray_
 
 ### [In basketball, American star Kobe Bryant of the Los Angeles Lakers announces he will retire at the end of the season. ](/news/2015/11/29/in-basketball-american-star-kobe-bryant-of-the-los-angeles-lakers-announces-he-will-retire-at-the-end-of-the-season.md)
-_Context: 2015–16 NBA season, Kobe Bryant, Los Angeles Lakers, basketball_
+_Context: 2015-16 NBA season, Kobe Bryant, Los Angeles Lakers, basketball_
 
 ## [Previous Day...](/news/2015/11/28/index.md)
 

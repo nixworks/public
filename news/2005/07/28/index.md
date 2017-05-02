@@ -34,19 +34,19 @@ _Context: Asia Pacific Partnership on Clean Development and Climate_
 _Context: fatwa, religious extremism, terrorism_
 
 ### [ In Serbia, Ljiljana Zelen-Karadzic, wife of Radovan Karadzic, goes public to ask her husband to give himself up ](/news/2005/07/28/in-serbia-ljiljana-zelen-karada3-4ia-wife-of-radovan-karada3-4ia-goes-public-to-ask-her-husband-to-give-himself-up.md)
-_Context: Radovan Karadžić, Serbia_
+_Context: Radovan Karadzic, Serbia_
 
 ### [ Poland recalls its ambassador to Belarus and demands that the European Union impose sanctions after Belarusian police storms the offices of the country's Polish minority ](/news/2005/07/28/poland-recalls-its-ambassador-to-belarus-and-demands-that-the-european-union-impose-sanctions-after-belarusian-police-storms-the-offices-of.md)
 _Context: Belarus, European Union, Poland, sanctions_
 
 ### [ In Canada, gene lab confirms that alleged sasquatch hairs actually belong to a bison ](/news/2005/07/28/in-canada-gene-lab-confirms-that-alleged-sasquatch-hairs-actually-belong-to-a-bison.md)
-_Context: Canadian, bison, sasquatch_
+_Context: Canada, bison, sasquatch_
 
 ### [ In Bulgaria, Bulgarian Socialist Party fails to form a government due to hung parliament. President Georgi Parvanov approaches the National Movement Simeon II of former king Simeon Saxe-Coburg-Gotha  ](/news/2005/07/28/in-bulgaria-bulgarian-socialist-party-fails-to-form-a-government-due-to-hung-parliament-president-georgi-parvanov-approaches-the-national.md)
 _Context: Bulgaria, Georgi Parvanov, National Movement Simeon II, Simeon Saxe-Coburg-Gotha, Socialist Party_
 
 ### [ In Guinea-Bissau, electoral commission declares Joao Bernardo Vieira winner of the presidential election with a 52-55% majority  ](/news/2005/07/28/in-guinea-bissau-electoral-commission-declares-joapso-bernardo-vieira-winner-of-the-presidential-election-with-a-52-55-majority.md)
-_Context: Guinea-Bissau, João Bernardo Vieira_
+_Context: Guinea-Bissau, Joao Bernardo Vieira_
 
 ### [ The UK government imposes a travel ban on Kenyan transport minister Chris Murungaru, who is investigated for corruption, forbidding him from visiting Britain  ](/news/2005/07/28/the-uk-government-imposes-a-travel-ban-on-kenyan-transport-minister-chris-murungaru-who-is-investigated-for-corruption-forbidding-him-fro.md)
 _Context: Chris Murungaru_

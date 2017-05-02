@@ -1,7 +1,7 @@
 ## [2007-08-21](/news/2007/08/21/index.md)
 
 ### [ Laura Richardson of the U.S. Democratic Party is elected in the special election for California's 37th congressional district, replacing Juanita Millender-McDonald who died last spring. ](/news/2007/08/21/laura-richardson-of-the-u-s-democratic-party-is-elected-in-the-special-election-for-california-s-37th-congressional-district-replacing-ju.md)
-_Context: California's 37th congressional district, Democrat, Juanita Millender-McDonald, Laura Richardson, the special election_
+_Context: California's 37th congressional district, Democratic, Juanita Millender-McDonald, Laura Richardson, the special election_
 
 ### [ The Bank of Japan and Reserve Bank of Australia inject more funds into money markets to ensure stock market liquidity. ](/news/2007/08/21/the-bank-of-japan-and-reserve-bank-of-australia-inject-more-funds-into-money-markets-to-ensure-stock-market-liquidity.md)
 _Context: Bank of Japan, Reserve Bank of Australia, inject, liquidity, money market, stock market_
@@ -10,7 +10,7 @@ _Context: Bank of Japan, Reserve Bank of Australia, inject, liquidity, money mar
 _Context: Jordan, November 20, Ziad Fariz, fuel_
 
 ### [ The National Assembly of Venezuela gives initial unanimous approval to constitutional amendments that would remove term limits on the position of President of Venezuela currently held by Hugo Chvez. ](/news/2007/08/21/the-national-assembly-of-venezuela-gives-initial-unanimous-approval-to-constitutional-amendments-that-would-remove-term-limits-on-the-posit.md)
-_Context: Constitution of Venezuela, Hugo Chávez, National Assembly, President, term limits_
+_Context: Constitution of Venezuela, Hugo Chvez, National Assembly, President, term limits_
 
 ### [ Jailed Iranian-American academic Haleh Esfandiari is released on bail after more than 100 days in detention. ](/news/2007/08/21/jailed-iranian-american-academic-haleh-esfandiari-is-released-on-bail-after-more-than-100-days-in-detention.md)
 Haleh Esfandiari looked tired and much thinner from her ordeal but pronounced herself well.
@@ -31,7 +31,7 @@ _Context: Bangladesh, Dhaka University_
 _Context: Libya, Muammar Gaddafi, Saif al-Islam Gaddafi, Supreme Court, central bank_
 
 ### [ Hurricane Dean: Hurricane Dean makes landfall on the Yucatn Peninsula in Mexico, just north of Chetumal, near the Belize border, at Category 5 strength.](/news/2007/08/21/hurricane-dean-p-hurricane-dean-makes-landfall-on-the-yucatan-peninsula-in-mexico-just-north-of-chetumal-near-the-belize-border-at-categ.md)
-_Context: Belize, Chetumal, Hurricane Dean, Mexico, Yucatán Peninsula_
+_Context: Belize, Chetumal, Hurricane Dean, Mexico, Yucatn Peninsula_
 
 ### [ The governments of Angola and the Democratic Republic of the Congo are negotiating over a line demarcating each nation's respective rights to petroleum in the Atlantic Ocean. The DRC is expected to gain exploration rights to billions of untapped barrels worth of oil. ](/news/2007/08/21/the-governments-of-angola-and-the-democratic-republic-of-the-congo-are-negotiating-over-a-line-demarcating-each-nation-s-respective-rights.md)
 _Context: Angola, Atlantic, Democratic Republic of the Congo_

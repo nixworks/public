@@ -43,7 +43,7 @@ The UK signs a deal with France to strengthen co-operation on civil nuclear ener
 German President Christian Wulff announces his resignation, after prosecutors called for his immunity to be lifted over corruption allegations.
 
 ### [The Senate of the United States passes a resolution condemning the Government of Syria for its violent crackdown on anti-Assad protests. ](/news/2012/02/17/the-senate-of-the-united-states-passes-a-resolution-condemning-the-government-of-syria-for-its-violent-crackdown-on-anti-assad-protests.md)
-_Context: Bashar Assad’s, Government of Syria, Senator_
+_Context: Bashar Assad's, Government of Syria, Senator_
 
 ### [New Jersey Governor Chris Christie vetoes a bill that would legalize same-sex marriage in the state. ](/news/2012/02/17/new-jersey-governor-chris-christie-vetoes-a-bill-that-would-legalize-same-sex-marriage-in-the-state.md)
 _Context: Chris Christie, New Jersey, same-sex marriage_

@@ -7,7 +7,7 @@ A Boko Haram attack in a northeast Nigerian village left at least 151 people dea
 The archaeologist who looked after ancient ruins of Palmyra in Syria for 40 years is reported to have been murdered by Islamic State militants.
 
 ### [A suicide bomber kills at least 20 Iraqi Army troops in the city of Baiji. ](/news/2015/08/19/a-suicide-bomber-kills-at-least-20-iraqi-army-troops-in-the-city-of-baiji.md)
-_Context: Baiji, Iraq War (2014–present), Iraqi Army, suicide bomber_
+_Context: Baiji, Iraq War (2014-present), Iraqi Army, suicide bomber_
 
 ### [Fighting resumes in South Sudan after the failure to reach a deal between tribes loyal to the president and tribes loyal to the former vice-president. ](/news/2015/08/19/fighting-resumes-in-south-sudan-after-the-failure-to-reach-a-deal-between-tribes-loyal-to-the-president-and-tribes-loyal-to-the-former-vice.md)
 A military spokesman says fighting has resumed between South Sudanese troops and rebels two days after the president declined to sign a peace deal.

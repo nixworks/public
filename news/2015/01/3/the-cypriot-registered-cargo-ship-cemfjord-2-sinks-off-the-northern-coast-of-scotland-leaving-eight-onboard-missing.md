@@ -1,0 +1,23 @@
+### [2015-01-3](/news/2015/01/3/index.md)
+
+# The Cypriot-registered cargo ship Cemfjord||2 sinks off the northern coast of Scotland leaving eight onboard missing. 
+
+The search for the eight missing crew of the cargo ship Cemfjord in the Pentland Firth is suspended by coastguards.
+
+
+### Source:
+
+1. [BBC News](http://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-30670842)
+
+### Related:
+
+1. [The European Parliament votes to end visa-free travel for United States citizens after the U.S. government failed to agree to visa-free travel for citizens of five European Union member states, Bulgaria, Croatia, Cyprus, Poland and Romania. The resolution is non-binding. ](/news/2017/03/3/the-european-parliament-votes-to-end-visa-free-travel-for-united-states-citizens-after-the-u-s-government-failed-to-agree-to-visa-free-trav.md) _Context: Cyprus_
+2. [Scotland's First Minister Nicola Sturgeon announces she will seek a second referendum on Scottish independence from the United Kingdom. ](/news/2017/03/13/scotland-s-first-minister-nicola-sturgeon-announces-she-will-seek-a-second-referendum-on-scottish-independence-from-the-united-kingdom.md) _Context: Scotland_
+3. [The Met Office issues travel warnings for parts of Wales, Scotland and England as Storm Doris, described as a "weather bomb", brings gales, heavy rain and snow to the United Kingdom. At least one person is killed. ](/news/2017/02/23/the-met-office-issues-travel-warnings-for-parts-of-wales-scotland-and-england-as-storm-doris-described-as-a-aweather-bomba-brings-gal.md) _Context: Scotland_
+4. [Greek and Turkish local leaders of Cyprus resume talks to end the division of the island before a high level multilateral conference takes place in Geneva this week in the latest effort to reunify the island. ](/news/2017/01/9/greek-and-turkish-local-leaders-of-cyprus-resume-talks-to-end-the-division-of-the-island-before-a-high-level-multilateral-conference-takes-p.md) _Context: Cyprus_
+5. [Turkish President Recep Tayyip Erdogan vows that the Turkish Armed Forces will stay on Cyprus "in perpetuity" and that the proposal of a rotating presidency for a unified island is unacceptable, casting doubts on an eventual solution to the dispute. The remarks come as the latest round of unity talks end, with them to restart on January 18. ](/news/2017/01/13/turkish-president-recep-tayyip-erdoaan-vows-that-the-turkish-armed-forces-will-stay-on-cyprus-in-perpetuity-and-that-the-proposal-of-a-ro.md) _Context: Cyprus_
+6. [The Met Office issues warnings for parts of Scotland, Northern England and Northern Ireland as Storm Barbara prepares to make landfall. ](/news/2016/12/20/the-met-office-issues-warnings-for-parts-of-scotland-northern-england-and-northern-ireland-as-storm-barbara-prepares-to-make-landfall.md) _Context: Scotland_
+7. [The leaders of northern and southern Cyprus meet in Switzerland to restart talks about reuniting the island. ](/news/2016/11/7/the-leaders-of-northern-and-southern-cyprus-meet-in-switzerland-to-restart-talks-about-reuniting-the-island.md) _Context: Cyprus_
+8. [In tennis, Andy Murray of Scotland defeats Canadian Milos Raonic in the finals of the men's singles to win his second Wimbledon championship. It is the first time that a men's Wimbledon final has not featured Roger Federer, Rafael Nadal or Novak Djokovic since 2002. ](/news/2016/07/10/in-tennis-andy-murray-of-scotland-defeats-canadian-milos-raonic-in-the-finals-of-the-men-s-singles-to-win-his-second-wimbledon-championship.md) _Context: Scotland_
+9. [Prime Minister David Cameron tells the House of Commons that legal experts advise that the UK-wide Brexit result binds the entire nation, even though  Northern Ireland and Scotland voted to stay in the EU. Yesterday, both Scottish and Northern Irish representatives told the European Parliament's plenary session they will leave the UK if that is the required price to keep their homelands fully connected to Europe. ](/news/2016/06/29/prime-minister-david-cameron-tells-the-house-of-commons-that-legal-experts-advise-that-the-uk-wide-brexit-result-binds-the-entire-nation-ev.md) _Context: Scotland_
+10. [A roller coaster derails and crashes at M&D's theme park in Motherwell, Scotland. Ten people are reportedly injured. ](/news/2016/06/26/a-roller-coaster-derails-and-crashes-at-m-d-s-theme-park-in-motherwell-scotland-ten-people-are-reportedly-injured.md) _Context: Scotland_

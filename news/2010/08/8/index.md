@@ -46,7 +46,7 @@ Flash floods brought on by torrential rains cause at least 15 deaths in central 
 Rescuers in Chile start drilling holes to provide 33 trapped miners with oxygen after a cave-in blocks a rescue attempt.
 
 ### [Several countries evacuate staff from their embassies in Moscow due to the 2010 Russian wildfires including Germany, Austria, Poland and Canada, ](/news/2010/08/8/several-countries-evacuate-staff-from-their-embassies-in-moscow-due-to-the-2010-russian-wildfires-including-germany-austria-poland-and-can.md)
-_Context: Austria, Canadian, Germany, Moscow, Poland, embassies, the recent wildfires_
+_Context: Austria, Canada, Germany, Moscow, Poland, embassies, the recent wildfires_
 
 ### [President of Sudan Omar al-Bashir says the "mandate" of the United Nations, African Union and international aid organisations in Darfur is to "support government authorities" and that expulsion is the other option. ](/news/2010/08/8/president-of-sudan-omar-al-bashir-says-the-mandate-of-the-united-nations-african-union-and-international-aid-organisations-in-darfur-is-t.md)
 _Context: African Union, Darfur, Omar al-Bashir, Sudanese President, United Nations, mandate_
@@ -61,7 +61,7 @@ Russian President Dmitry Medvedev visits the breakaway Georgian region of Abkhaz
 Iraqi premier tries to drum up Kurdish support after Shia bloc cuts off negotiations.
 
 ### [New President of Colombia Juan Manuel Santos and President of Venezuela Hugo Chavez agree to meet for talks on Tuesday, following a recent diplomatic disagreement. ](/news/2010/08/8/new-president-of-colombia-juan-manuel-santos-and-president-of-venezuela-hugo-cha-vez-agree-to-meet-for-talks-on-tuesday-following-a-recent.md)
-_Context: Colombian President, Colombia–Venezuela relations, Hugo Chávez, Juan Manuel Santos, Venezuelan President_
+_Context: Colombia-Venezuela relations, Colombian President, Hugo Chavez, Juan Manuel Santos, Venezuelan President_
 
 ### [Cardinal Keith O'Brien who leads the Catholic Church in Scotland, defends the Scottish government's decision to release Abdelbaset al-Megrahi for humanitarian reasons and attacks the United States's "culture of vengeance" for trying to coerce Scottish ministers into "crawling like lapdogs". ](/news/2010/08/8/cardinal-keith-o-brien-who-leads-the-catholic-church-in-scotland-defends-the-scottish-government-s-decision-to-release-abdelbaset-al-megrah.md)
 The leader of the Roman Catholic Church in Scotland criticises the US over reaction to the release of the Lockerbie bomber.
@@ -73,7 +73,7 @@ _Context: Afghanistan President, Hamid Karzai, Taliban_
 _Context: Amnesty International, Israel, Mordechai Vanunu, Norway, The Sunday Times, prisoner of conscience_
 
 ### [President of Mexico Felipe Calderon calls for a debate on the legalization of drugs. ](/news/2010/08/8/president-of-mexico-felipe-caldera3n-calls-for-a-debate-on-the-legalization-of-drugs.md)
-_Context: Felipe Calderón, President_
+_Context: Felipe Calderon, President_
 
 ### [18-year-old Ebrahim Hamidi is sentenced to death for sodomy in Iran, without legal representation after human rights lawyer Mohammad Mostafaei flees in the wake of the Sakineh Mohammadi Ashtiani case. ](/news/2010/08/8/18-year-old-ebrahim-hamidi-is-sentenced-to-death-for-sodomy-in-iran-without-legal-representation-after-human-rights-lawyer-mohammad-mostafa.md)
 _Context: Ebrahim Hamidi, Iran, Mohammad Mostafaei, Sakineh Mohammadi Ashtiani, sodomy_
@@ -103,7 +103,7 @@ Incumbent Paul Kagame expected to win easily as opposition claim intimidation.
 _Context: Finland, Heinola, Russia, Vladimir Ladyzhenskiy, World Sauna Championships_
 
 ### [Australia defeats England 4-0 to win the Hockey Champions Trophy in field hockey held in Monchengladbach Germany. ](/news/2010/08/8/australia-defeats-england-4-0-to-win-the-hockey-champions-trophy-in-field-hockey-held-in-mapnchengladbach-germany.md)
-_Context: Australia, England, Germany, Hockey Champions Trophy, Mönchengladbach, field hockey_
+_Context: Australia, England, Germany, Hockey Champions Trophy, Monchengladbach, field hockey_
 
 ## [Previous Day...](/news/2010/08/7/index.md)
 

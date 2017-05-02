@@ -4,7 +4,7 @@
 French&#x20;freelance&#x20;photojournalist&#x20;Olivier&#x20;Voisin&#x20;has&#x20;died&#x20;from&#x20;injuries&#x20;sustained&#x20;while&#x20;covering&#x20;the&#x20;civil&#x20;war&#x20;in&#x20;Syria,&#x20;France&#x27;s&#x20;ministry&#x20;of&#x20;foreign&#x20;affairs&#x20;confirmed&#x20;to&#x20;FRANCE24&#x20;on&#x20;Sunday.
 
 ### [Northern Mali conflict:10 Chadian soldiers and 28 Islamist insurgents are killed in heavy fighting in the Adrar des Ifoghas mountains of northern Mali. ](/news/2013/02/24/northern-mali-conflict-p10-chadian-soldiers-and-28-islamist-insurgents-are-killed-in-heavy-fighting-in-the-adrar-des-ifoghas-mountains-of-no.md)
-_Context: Adrar des Ifoghas, Chad, Islamist, Mali, Northern Mali conflict (2012–present)_
+_Context: Adrar des Ifoghas, Chad, Islamist, Mali, Northern Mali conflict (2012-present)_
 
 ### [War in Afghanistan:Two guards and an Afghan police officer are killed in coordinated suicide bombing attacks in Jalalabad and Logar Province in eastern Afghanistan, while a third such attack on the National Directorate of Security in Kabul is foiled. ](/news/2013/02/24/war-in-afghanistan-ptwo-guards-and-an-afghan-police-officer-are-killed-in-coordinated-suicide-bombing-attacks-in-jalalabad-and-logar-provinc.md)
 KABUL, Afghanistan -- Afghan security forces foiled an apparent suicide bomber in central Kabul on Sunday morning but attackers struck police and intelligence offices in two other eastern cities,...

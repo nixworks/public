@@ -49,7 +49,7 @@ Former Taiwanese president Chen Shui-bian is to be released from prison after be
 _Context: Jiangsu, Nanjing, Yang Weize, anti-graft agency_
 
 ### [The Justice Department charges two American citizens of Gambian descent with violating the Neutrality Act by helping to finance and lead the 2014 Gambian coup d'etat attempt. ](/news/2015/01/5/the-justice-department-charges-two-american-citizens-of-gambian-descent-with-violating-the-neutrality-act-by-helping-to-finance-and-lead-the.md)
-_Context: 2014 Gambian coup d'état attempt, American, Gambia, Neutrality Act, U.S. Justice Department_
+_Context: 2014 Gambian coup d'etat attempt, American, Gambia, Neutrality Act, U.S. Justice Department_
 
 ### [In ice hockey, the 2015 World Junior Ice Hockey Championship closes with Canada beating Russia in the gold medal game, while Slovakia captures bronze. ](/news/2015/01/5/in-ice-hockey-the-2015-world-junior-ice-hockey-championship-closes-with-canada-beating-russia-in-the-gold-medal-game-while-slovakia-captur.md)
 _Context: 2015 World Junior Ice Hockey Championship, Canada, Russia, Slovakia_

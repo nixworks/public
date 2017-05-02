@@ -12,4 +12,4 @@ Having amassed just 12 points from their opening 17 games to lie bottom of the L
 
 ### Related:
 
-1. [Deportivo de La Coruna announces that manager Jose Luis Oltra has been sacked due to a poor start to the 2012-13 La Liga season. ](/news/2012/12/30/deportivo-de-la-corua-a-announces-that-manager-josa-c-luis-oltra-has-been-sacked-due-to-a-poor-start-to-the-2012a13-la-liga-season.md) _Context: Deportivo de La Coruña, José Luis Oltra_
+1. [Deportivo de La Coruna announces that manager Jose Luis Oltra has been sacked due to a poor start to the 2012-13 La Liga season. ](/news/2012/12/30/deportivo-de-la-corua-a-announces-that-manager-josa-c-luis-oltra-has-been-sacked-due-to-a-poor-start-to-the-2012a13-la-liga-season.md) _Context: Deportivo de La Coruna, Jose Luis Oltra_

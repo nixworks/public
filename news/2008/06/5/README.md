@@ -19,7 +19,7 @@ _Context: Guantanamo Bay detention camp, Khalid Sheikh Mohammed, Military Commis
 _Context: International Criminal Court, Luis Moreno-Ocampo, Sudanese cabinet, conflict_
 
 ### [ A fire destroys major parts of the ''Rdhuset'' court house in Stockholm, the architectural landmark designed by Carl Westman. ](/news/2008/06/5/a-fire-destroys-major-parts-of-the-radhuset-court-house-in-stockholm-the-architectural-landmark-designed-by-carl-westman.md)
-_Context: ''Rådhuset'' court house, Carl Westman, Stockholm_
+_Context: ''Rdhuset'' court house, Carl Westman, Stockholm_
 
 ### [ Turkey's Constitutional Court reinstates a ban on the hijab in universities, citing the constitution's secular principles. ](/news/2008/06/5/turkey-s-constitutional-court-reinstates-a-ban-on-the-hijab-in-universities-citing-the-constitution-s-secular-principles.md)
 _Context: Constitutional Court of Turkey, Hijab, Turkey, reinstates a ban, secular_

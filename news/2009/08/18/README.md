@@ -7,7 +7,7 @@ _Context: Kim Dae-jung, multiple organ dysfunction syndrome_
 _Context: Afghanistan, Kabul, NATO, bombing, presidential election_
 
 ### [ Jesse Jackson is crowned prince of the Agni people during a three-day visit to Cte d'Ivoire, succeeding Michael Jackson. ](/news/2009/08/18/jesse-jackson-is-crowned-prince-of-the-agni-people-during-a-three-day-visit-to-cote-d-ivoire-succeeding-michael-jackson.md)
-_Context: Côte d'Ivoire, Jesse Jackson, Michael Jackson_
+_Context: Cte d'Ivoire, Jesse Jackson, Michael Jackson_
 
 ## [Previous Day...](/news/2009/08/17/index.md)
 

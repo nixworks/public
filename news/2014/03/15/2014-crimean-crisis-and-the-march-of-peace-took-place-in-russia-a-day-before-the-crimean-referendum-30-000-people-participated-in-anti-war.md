@@ -13,7 +13,7 @@
 
 ### Related:
 
-1. [2014 Ukrainian revolution, 2014 Crimean crisis:The Parliament of Ukraine's Autonomous Republic of Crimea announces a referendum to determine the region's future and ousts the regional government. ](/news/2014/02/27/2014-ukrainian-revolution-2014-crimean-crisis-pthe-parliament-of-ukraineas-autonomous-republic-of-crimea-announces-a-referendum-to-determ.md) _Context: 2014 Crimean crisis, Crimean referendum, 2014_
+1. [The Parliament of Ukraine's Autonomous Republic of Crimea announces a referendum to determine the region's future and ousts the regional government. ](/news/2014/02/27/the-parliament-of-ukraineas-autonomous-republic-of-crimea-announces-a-referendum-to-determine-the-regionas-future-and-ousts-the-regional.md) _Context: 2014 Crimean crisis, Crimean referendum, 2014_
 2. [2014 Crimean crisis:Russian President Vladimir Putin visits Crimea for the first time since the annexation, arriving in Sevastopol for Victory Day celebrations. ](/news/2014/05/9/2014-crimean-crisis-prussian-president-vladimir-putin-visits-crimea-for-the-first-time-since-the-annexation-arriving-in-sevastopol-for-vict.md) _Context: 2014 Crimean crisis_
 3. [2014 Crimean Crisis:McDonald's suspends work at all restaurant locations in Crimea. ](/news/2014/04/4/2014-crimean-crisis-pmcdonald-s-suspends-work-at-all-restaurant-locations-in-crimea.md) _Context: 2014 Crimean crisis_
 4. [Montenegro, Norway, Iceland and Albania join the list of countries supporting sanctions including asset freezings and travel bans directed at Russian individuals. ](/news/2014/04/11/montenegro-norway-iceland-and-albania-join-the-list-of-countries-supporting-sanctions-including-asset-freezings-and-travel-bans-directed-a.md) _Context: 2014 Crimean crisis_

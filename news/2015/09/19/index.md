@@ -13,7 +13,7 @@ SANAA, Yemen – Airstrikes carried out by a Saudi-led coalition against Yemen�
 _Context: Ground Zero, Junipero Serra, Pope Francis, Pope Francis' visit to the United States, President Obama, joint session of Congress_
 
 ### [Univision's Sabado Gigante, the world's longest running variety show in television history, ends after 53 years on air. ](/news/2015/09/19/univision-s-sa-bado-gigante-the-world-s-longest-running-variety-show-in-television-history-ends-after-53-years-on-air.md)
-_Context: Sábado Gigante, Univision's, variety show_
+_Context: Sabado Gigante, Univision's, variety show_
 
 ### [Heavy rain triggers flash floods killing 10 people in Tehran and southern Iran, with eight others missing. ](/news/2015/09/19/heavy-rain-triggers-flash-floods-killing-10-people-in-tehran-and-southern-iran-with-eight-others-missing.md)
 _Context: Flash flooding, Iran, Tehran_

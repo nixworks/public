@@ -4,7 +4,7 @@
 _Context: Ethiopia, Ogaden, Shabelle River, Somali Region_
 
 ### [ The UN Security Council votes unanimously to extend the mandate of Cte d'Ivoire's transitional government by one year, granting its Interim Prime Minister Charles Konan Banny sweeping powers over security forces. UNSC deadline for Elections, originally set for November 2006, was delayed to November 2007. ](/news/2006/11/1/the-un-security-council-votes-unanimously-to-extend-the-mandate-of-cote-d-ivoire-s-transitional-government-by-one-year-granting-its-interi.md)
-_Context: Charles Konan Banny, CÙte d'Ivoire, November 2006, Prime Minister, United Nations Security Council_
+_Context: Charles Konan Banny, Cte d'Ivoire, November 2006, Prime Minister, United Nations Security Council_
 
 ### [ Arab League-sponsored talks between the Somali transitional government and the Islamic Court Union are postponed indefinitely after the latter seek a delay. A Somali Minister says that war appears likely. ](/news/2006/11/1/arab-league-sponsored-talks-between-the-somali-transitional-government-and-the-islamic-court-union-are-postponed-indefinitely-after-the-lat.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
@@ -25,7 +25,7 @@ _Context: Baltic Sea, M/S ''Finnbirch'', Roll-on/roll-off, Sweden, lubrication, 
 _Context: Muazzez Ilmiye Cig, Muslim clothing, Sumer, Turkey_
 
 ### [ The Revolutionary Armed Forces of Colombia (FARC) attack a rural police command in Colombia, killing at least 16 officers as part of a two-week offensive.  President lvaro Uribe had earlier withdrawn from negotiations. ](/news/2006/11/1/the-revolutionary-armed-forces-of-colombia-farc-attack-a-rural-police-command-in-colombia-killing-at-least-16-officers-as-part-of-a-two.md)
-_Context: Colombia, Colombian President, Revolutionary Armed Forces of Colombia, √Ålvaro Uribe_
+_Context: Alvaro Uribe, Colombia, Colombian President, Revolutionary Armed Forces of Colombia_
 
 ### [ The government of Uganda and the Lord's Resistance Army rebels sign a second truce as negotiations restart in Juba, Sudan. ](/news/2006/11/1/the-government-of-uganda-and-the-lord-s-resistance-army-rebels-sign-a-second-truce-as-negotiations-restart-in-juba-sudan.md)
 _Context: Juba, Lord's Resistance Army, Uganda, negotiations_

@@ -16,7 +16,7 @@ A Rwandan doctor working at a hospital in northern France is suspected of being 
 _Context: Pakistan, South Waziristan, Taliban, ongoing offensive_
 
 ### [ Jenson Button wins the 2009 Formula One World Championship in Interlagos, Sao Paulo, Brazil, by finishing fifth in the 2009 Brazilian Grand Prix.](/news/2009/10/18/jenson-button-wins-the-2009-formula-one-world-championship-in-interlagos-sapso-paulo-brazil-by-finishing-fifth-in-the-2009-brazilian-gran.md)
-_Context: 2009 Brazilian Grand Prix, Brazil, Formula One, Interlagos, Jenson Button, São Paulo_
+_Context: 2009 Brazilian Grand Prix, Brazil, Formula One, Interlagos, Jenson Button, Sao Paulo_
 
 ### [ Germany and Israel complain about a Bangkok museum billboard depicting a salute by Adolf Hitler beside the slogan "Hitler is not dead". ](/news/2009/10/18/germany-and-israel-complain-about-a-bangkok-museum-billboard-depicting-a-salute-by-adolf-hitler-beside-the-slogan-hitler-is-not-dead.md)
 _Context: Adolf Hitler, Bangkok, Germany, Israel, billboard, museum, salute_
@@ -43,7 +43,7 @@ _Context: Puerto Rico_
 GOAL aid worker Sharon Commins has thanked the people of Sudan for their work to secure her release and that of her Ugandan colleague Hilda Kawuki.
 
 ### [ A boat with 76 migrant workers on board headed for Canada is seized by the Canadian Navy and RCMP off its west coast in the Pacific Ocean. ](/news/2009/10/18/a-boat-with-76-migrant-workers-on-board-headed-for-canada-is-seized-by-the-canadian-navy-and-rcmp-off-its-west-coast-in-the-pacific-ocean.md)
-_Context: Canadian, Canadian Navy, Pacific, Royal Canadian Mounted Police_
+_Context: Canada, Canadian Navy, Pacific, Royal Canadian Mounted Police_
 
 ### [ The Australian Maritime Safety Authority (AMSA) assists Indonesian and Malaysian agencies with two distressed boats. ](/news/2009/10/18/the-australian-maritime-safety-authority-amsa-assists-indonesian-and-malaysian-agencies-with-two-distressed-boats.md)
 Hundreds of people believed to be heading to Australia are reportedly aboard two boats in distress in Indonesian waters, but there is no confirmation at this stage that they are asylum seekers.

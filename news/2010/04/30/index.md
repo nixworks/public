@@ -43,7 +43,7 @@ Ahmadinejad set to speak at UN nuke conference on May 3.
 All of 110 pounds, security guard Chen Xiu might not pack much heft, but he says no knife-wielding attackers will get past the red iron gate where he watches over an elementary school in downtown...
 
 ### [One of Ireland's most recognisable broadcasters, Gerry Ryan, who co-presented Eurovision Song Contest 1994 sixteen years ago today, is discovered dead at his Dublin home after failing to present this morning's edition of ''The Gerry Ryan Show'' on national radio station RT 2fm. ](/news/2010/04/30/one-of-ireland-s-most-recognisable-broadcasters-gerry-ryan-who-co-presented-eurovision-song-contest-1994-sixteen-years-ago-today-is-disco.md)
-_Context: Dublin, Eurovision Song Contest 1994, Gerry Ryan, RTÉ 2fm, The Gerry Ryan Show, death of Gerry Ryan_
+_Context: Dublin, Eurovision Song Contest 1994, Gerry Ryan, RT 2fm, The Gerry Ryan Show, death of Gerry Ryan_
 
 ### [Russian businessman Vasily Bukhtienko, who established a Joseph Stalin museum in Volgograd, is beat to death by electric shocks. ](/news/2010/04/30/russian-businessman-vasily-bukhtienko-who-established-a-joseph-stalin-museum-in-volgograd-is-beat-to-death-by-electric-shocks.md)
 _Context: Joseph Stalin, Russia, Vasily Bukhtienko, Volgograd_

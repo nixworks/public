@@ -4,7 +4,7 @@
 _Context: Aceh, Indonesia, Sumatra_
 
 ### [Venezuela's Supreme Court announced it was suspending its services, citing political harassment and condemning deadly violence during a general strike by opponents of President Hugo Chvez.](/news/2002/12/10/venezuela-s-supreme-court-announced-it-was-suspending-its-services-citing-political-harassment-and-condemning-deadly-violence-during-a-gene.md)
-_Context: Hugo Chávez, Supreme Court, Venezuela_
+_Context: Hugo Chvez, Supreme Court, Venezuela_
 
 ### [The 2nd U.S. Circuit Court of Appeals, located in New York, reversed a lower court ruling that found the federal death penalty unconstitutional because it amounted to the "state-sponsored murder" of innocent people. ](/news/2002/12/10/the-2nd-u-s-circuit-court-of-appeals-located-in-new-york-reversed-a-lower-court-ruling-that-found-the-federal-death-penalty-unconstitutio.md)
 _Context: New York, death penalty_

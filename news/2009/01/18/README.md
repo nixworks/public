@@ -7,7 +7,7 @@ _Context: El Salvador, legislative elections_
 Get box score updates on the Baltimore Ravens vs. Pittsburgh Steelers football game.
 
 ### [ The roof of the Born Again in Christ Church in Sao Paulo, Brazil,  collapses, killing nine worshippers and injuring more than one hundred others. ](/news/2009/01/18/the-roof-of-the-born-again-in-christ-church-in-sapso-paulo-brazil-collapses-killing-nine-worshippers-and-injuring-more-than-one-hundred.md)
-_Context: Born Again in Christ Church, Brazil, São Paulo_
+_Context: Born Again in Christ Church, Brazil, Sao Paulo_
 
 ### [ The Republic of China (Taiwan) distributes shopping vouchers to all its 22.7 million citizens as part of a US$2.53-billion plan to stimulate the economy. ](/news/2009/01/18/the-republic-of-china-taiwan-distributes-shopping-vouchers-to-all-its-22-7-million-citizens-as-part-of-a-us-2-53-billion-plan-to-stimulat.md)
 _Context: Taiwan, Taiwan, U.S. dollar, economy, shopping, voucher_

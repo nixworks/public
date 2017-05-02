@@ -16,7 +16,7 @@ _Context: 2008 attack on Omdurman and Khartoum, Hassan al-Turabi, Islamist, Just
 _Context: Nawaz Sharif, Pakistan Muslim League, Pervez Musharraf, President, Prime Minister, government, judges_
 
 ### [ Venezuelan President Hugo Chvez nationalises steel firm Ternium-Sidor, which is mainly owned by Argentina's Techint. ](/news/2008/05/12/venezuelan-president-hugo-chavez-nationalises-steel-firm-ternium-sidor-which-is-mainly-owned-by-argentina-s-techint.md)
-_Context: Argentina, Hugo Chávez, President, Techint, Ternium-Sidor, Venezuela, steel_
+_Context: Argentina, Hugo Chvez, President, Techint, Ternium-Sidor, Venezuela, steel_
 
 ### [ Israeli police raid the Jerusalem city hall to seize documents related to alleged bribes received by Prime Minister Ehud Olmert from businessman Moshe Talansky. ](/news/2008/05/12/israeli-police-raid-the-jerusalem-city-hall-to-seize-documents-related-to-alleged-bribes-received-by-prime-minister-ehud-olmert-from-busine.md)
 _Context: Ehud Olmert, Israel, Israeli police, Jerusalem, Moshe Talansky, Prime Minister of Israel, bribe, city hall_

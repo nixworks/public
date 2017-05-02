@@ -4,7 +4,7 @@
 _Context: Bannu District, Pakistan, War in North-West Pakistan, suicide bombing_
 
 ### [War in Somalia (2009-present):Nineteen people are killed in the Somali capital, Mogadishu, in suicide bombings and firefights between Al-Shabaab  militants and government forces. ](/news/2013/05/8/war-in-somalia-2009apresent-pnineteen-people-are-killed-in-the-somali-capital-mogadishu-in-suicide-bombings-and-firefights-between-al.md)
-_Context: Mogadishu, Somali Armed Forces, Somalia, War in Somalia (2009–present), al-Shabaab_
+_Context: Mogadishu, Somali Armed Forces, Somalia, War in Somalia (2009-present), al-Shabaab_
 
 ### [Amid protests for free education by tens of thousands of people in major cities across Chile, police clash with protesters. ](/news/2013/05/8/amid-protests-for-free-education-by-tens-of-thousands-of-people-in-major-cities-across-chile-police-clash-with-protesters.md)
 Tens of thousands of students in Chile resume their protests for free education as riot police say they have been attacked with petrol bombs.
@@ -22,7 +22,7 @@ _Context: 2013 Savar building collapse, Bangladesh_
 The UN names three panel members of its first-ever human rights investigation into North Korea, which will examine prison camps and torture.
 
 ### [The World Trade Organization advised that Roberto Azevedo of Brazil will be the next Director-General effective September 1, 2013. The formal announcement will be made following a special meeting of the General Council on Tuesday,  May 14, 2013. ](/news/2013/05/8/the-world-trade-organization-advised-that-roberto-azevaado-of-brazil-will-be-the-next-director-general-effective-september-1-2013-the-form.md)
-_Context: Brazil, Director-General, General Council, Roberto Azevêdo, World Trade Organization_
+_Context: Brazil, Director-General, General Council, Roberto Azevedo, World Trade Organization_
 
 ### [Police in France, Belgium and Switzerland arrest more than two dozen people in connection with the Brussels Airport diamond heist. ](/news/2013/05/8/police-in-france-belgium-and-switzerland-arrest-more-than-two-dozen-people-in-connection-with-the-brussels-airport-diamond-heist.md)
 _Context: Belgium, Brussels Airport diamond heist, France, Swiss_
@@ -46,7 +46,7 @@ Karnataka has delivered an unambiguous verdict. The Congress will form the next 
 _Context: Conservative Party, Nadine Dorries_
 
 ### [In football, Sir Alex Ferguson announces his retirement as the Manager of Manchester United at the end of the 2012-13 Premier League season after 26 years in charge having won 38 trophies. ](/news/2013/05/8/in-football-sir-alex-ferguson-announces-his-retirement-as-the-manager-of-manchester-united-at-the-end-of-the-2012a13-premier-league-seaso.md)
-_Context: 2012–13 Premier League, Manchester United, Sir Alex Ferguson, association football_
+_Context: 2012-13 Premier League, Manchester United, Sir Alex Ferguson, association football_
 
 ## [Previous Day...](/news/2013/05/7/index.md)
 

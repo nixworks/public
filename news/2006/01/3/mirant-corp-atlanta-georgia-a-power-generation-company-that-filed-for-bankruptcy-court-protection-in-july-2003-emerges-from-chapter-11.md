@@ -1,6 +1,6 @@
 ### [2006-01-3](/news/2006/01/3/index.md)
 
-#  Mirant Corp., Atlanta, Georgia, a power generation company that filed for bankruptcy court protection in July 2003, emerges from Chapter 11 status after converting more than {{Nowrap|$6 billion}} of debt and liabilities into equity. 
+#  Mirant Corp., Atlanta, Georgia, a power generation company that filed for bankruptcy court protection in July 2003, emerges from Chapter 11 status after converting more than $6 billion of debt and liabilities into equity. 
 
 
 

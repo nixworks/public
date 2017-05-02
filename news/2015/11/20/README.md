@@ -34,7 +34,7 @@ Journalists at the Financial Times have voted for strike action over proposed ch
 EU ministers hold emergency talks today on tightening border checks after the killing of the ringleader of the Paris attacks in an apartment in the French capital raised troubling questions about the bloc&#039;s security.
 
 ### [North Korea-South Korea relations North Korea and South Korea agree to hold talks next week. ](/news/2015/11/20/north-koreaasouth-korea-relations-pnorth-korea-and-south-korea-agree-to-hold-talks-next-week.md)
-_Context: North Korea, North Korea–South Korea relations, South Korea_
+_Context: North Korea, North Korea-South Korea relations, South Korea_
 
 ### [Sweden's national security service ''Sapo'' are questioning terrorist suspect Moder Mothama Magid, a 22-year-old Iraqi, who is accused of planning to launch a terror attack on the Swedish capital Stockholm. ](/news/2015/11/20/sweden-s-national-security-service-sa-po-are-questioning-terrorist-suspect-moder-mothama-magid-a-22-year-old-iraqi-who-is-accused-of-p.md)
 UPDATED: Police are questioning Moder Mothama Magid, a 22-year-old Iraqi man arrested on Thursday night, who is accused of planning to launch a terror attack on the Swedish capital.

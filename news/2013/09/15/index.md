@@ -13,7 +13,7 @@ Officials say tunnel collapse at Abkhorak mine in northern Samangan province has
 The move leaves Japan nuclear power-free for second time since 2011 Fukushima crisis.
 
 ### [Six people die in a stampede in a bar following a police raid in the Colombian capital Bogota. ](/news/2013/09/15/six-people-die-in-a-stampede-in-a-bar-following-a-police-raid-in-the-colombian-capital-bogota.md)
-_Context: Bogotá, Colombia_
+_Context: Bogota, Colombia_
 
 ### [Nearly 6,000 people flee after Mount Sinabung explodes in Indonesia's North Sumatra province. ](/news/2013/09/15/nearly-6-000-people-flee-after-mount-sinabung-explodes-in-indonesia-s-north-sumatra-province.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

@@ -4,13 +4,13 @@
 Thailand&#039;s anti-government protesters have given tacit support to a plan for reconciliation, but will continue protesting for now.
 
 ### [Former Argentine President Nstor Kirchner is unanimously elected the first Secretary General of the Union of South American Nations (Unasur) at a heads of state summit held in Campana, Argentina. ](/news/2010/05/4/former-argentine-president-nestor-kirchner-is-unanimously-elected-the-first-secretary-general-of-the-union-of-south-american-nations-unasur.md)
-_Context: Argentina, Argentine, Campana, Néstor Kirchner, President, Union of South American Nations, head of state_
+_Context: Argentina, Argentine, Campana, Nstor Kirchner, President, Union of South American Nations, head of state_
 
 ### [U.S. Customs and Border Protection agents arrest Faisal Shahzad, a naturalized U.S. citizen from Pakistan, in connection with the attempted car bombing in Times Square as he tried to flee the country. ](/news/2010/05/4/u-s-customs-and-border-protection-agents-arrest-faisal-shahzad-a-naturalized-u-s-citizen-from-pakistan-in-connection-with-the-attempted.md)
 U.S. prosecutors charge the man accused of trying to explode a car bomb in New York&#39;s Times Square with five counts including trying to explode a weapon of mass destruction. 
 
 ### [Air travel disruption after the 2010 Eyjafjallajkull eruption:Flights in and out of Northern Ireland and the Republic of Ireland are grounded for several hours. ](/news/2010/05/4/air-travel-disruption-after-the-2010-eyjafjallajokull-eruption-pflights-in-and-out-of-northern-ireland-and-the-republic-of-ireland-are-groun.md)
-_Context: Air travel disruption after the 2010 Eyjafjallajökull eruption, Northern Ireland, Republic of Ireland_
+_Context: Air travel disruption after the 2010 Eyjafjallajkull eruption, Northern Ireland, Republic of Ireland_
 
 ### [Rising floodwaters from the Cumberland River flood the Grand Ole Opry House with several feet of water, and cause evacuations in Nashville, Tennessee. ](/news/2010/05/4/rising-floodwaters-from-the-cumberland-river-flood-the-grand-ole-opry-house-with-several-feet-of-water-and-cause-evacuations-in-nashville.md)
 Parts of downtown Nashville were evacuated as the rising Cumberland River flowed into streets. At least 19 people in Tennessee, Kentucky and Mississippi have been killed.

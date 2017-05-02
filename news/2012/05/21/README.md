@@ -12,11 +12,11 @@ _Context: Bashar al-Assad, Beirut, Lebanon, President, Syria_
 ### [Australian airline Qantas announces cuts to 500 maintenance jobs. ](/news/2012/05/21/australian-airline-qantas-announces-cuts-to-500-maintenance-jobs.md)
 _Context: Australia, Qantas_
 
-### [At least 13 people &ndash; most of them students &ndash; are killed and 22 others are injured after a bus plunges {{convert|80|m|ft}} off a cliff in Albania. ](/news/2012/05/21/at-least-13-people-ndash-most-of-them-students-ndash-are-killed-and-22-others-are-injured-after-a-bus-plunges-convert-80-m-ft-off-a.md)
+### [At least 13 people &ndash; most of them students &ndash; are killed and 22 others are injured after a bus plunges 80|m|ft off a cliff in Albania. ](/news/2012/05/21/at-least-13-people-ndash-most-of-them-students-ndash-are-killed-and-22-others-are-injured-after-a-bus-plunges-80-m-ft-off-a-cliff-in-alb.md)
 At least 11 people - most of them students - are killed and 22 injured when a bus falls off a cliff in southern Albania, officials say.
 
 ### [Four climbers from Canada, China, Germany and South Korea die whilst returning from the summit of Mount Everest; a Nepalese guide is missing. ](/news/2012/05/21/four-climbers-from-canada-china-germany-and-south-korea-die-whilst-returning-from-the-summit-of-mount-everest-a-nepalese-guide-is-missing.md)
-_Context: Canadian, China, Germany, Mount Everest, Nepal, South Korea_
+_Context: Canada, China, Germany, Mount Everest, Nepal, South Korea_
 
 ### [International Atomic Energy Agency (IAEA) director general Yukiya Amano begins talks in Tehran aimed at convincing the Iranian government to co-operate with the agency. ](/news/2012/05/21/international-atomic-energy-agency-iaea-director-general-yukiya-amano-begins-talks-in-tehran-aimed-at-convincing-the-iranian-government-to.md)
 First IAEA head to visit Tehran since 2009 is expected to seek inspection deal on alleged weapons sites.

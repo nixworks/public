@@ -1,7 +1,7 @@
 ## [2008-12-1](/news/2008/12/1/index.md)
 
 ### [ In Canada, the Liberal Party, New Democratic Party, and Bloc Qubcois sign an agreement to form a coalition Government with Stphane Dion as leader, with the intention of toppling the Conservative Government that was elected less than two months before. ](/news/2008/12/1/in-canada-the-liberal-party-new-democratic-party-and-bloc-quebecois-sign-an-agreement-to-form-a-coalition-government-with-stephane-dion.md)
-_Context: Bloc Québécois, Canadian, Conservative Party's, Liberal Party's, New Democratic Party, Stéphane Dion, coalition Government, elected_
+_Context: Bloc Qubcois, Canada, Conservative Party's, Liberal Party's, New Democratic Party, Stphane Dion, coalition Government, elected_
 
 ### [ A suicide bomb attack kills 10 people, including two policemen, in the southern province in Helmand in Afghanistan. ](/news/2008/12/1/a-suicide-bomb-attack-kills-10-people-including-two-policemen-in-the-southern-province-in-helmand-in-afghanistan.md)
 _Context: Afghanistan, Helmand, suicide bomb_

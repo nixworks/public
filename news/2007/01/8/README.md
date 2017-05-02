@@ -19,7 +19,7 @@ _Context: AC-130, al-Qaeda, capture, two years of helping_
 _Context: Daniyal Akhmetov, Karim Masimov, Kazakh Prime Minister_
 
 ### [ SPO and OVP agree on a coalition government after the October 2006 Austrian elections. Both parties will get an equal share of ministers with the SPO's Alfred Gusenbauer set to become Chancellor of Austria, and the OVP has had more success in implementing their demands in the coalition agreement. The government will be sworn in on 11 January. ](/news/2007/01/8/spa-and-avp-agree-on-a-coalition-government-after-the-october-2006-austrian-elections-both-parties-will-get-an-equal-share-of-ministers.md)
-_Context: 11 January, Alfred Gusenbauer, Austrian Chancellor, October 2006 Austrian elections, health spa, ÖVP_
+_Context: 11 January, Alfred Gusenbauer, Austrian Chancellor, OVP, October 2006 Austrian elections, health spa_
 
 ### [ Indonesian naval ships discover large metal objects off the west coast of Sulawesi that could possibly be the wreckage of Adam Air Flight 574 missing a week ago. ](/news/2007/01/8/indonesian-naval-ships-discover-large-metal-objects-off-the-west-coast-of-sulawesi-that-could-possibly-be-the-wreckage-of-adam-air-flight-5.md)
 _Context: Adam Air, Flight 574, Indonesia, Sulawesi island_

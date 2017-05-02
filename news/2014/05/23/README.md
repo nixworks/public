@@ -7,7 +7,7 @@ _Context: Egypt, Sinai insurgency, extremist groups_
 _Context: Afghanistan, Herat Province, Taliban insurgency, attack the Indian consulate_
 
 ### [May 2014 rmqi attack:Chinese media reports that five people involved in the rmqi bombings "blew themselves up". ](/news/2014/05/23/may-2014-urumqi-attack-pchinese-media-reports-that-five-people-involved-in-the-urumqi-bombings-blew-themselves-up.md)
-_Context: Chinese, May 2014 Ürümqi attack, Urumqi_
+_Context: Chinese, May 2014 rmqi attack, Urumqi_
 
 ### [2014 pro-Russian unrest in Ukraine:Russian President Vladimir Putin announces that he will respect the outcome of Ukraine's presidential election.  ](/news/2014/05/23/2014-pro-russian-unrest-in-ukraine-prussian-president-vladimir-putin-announces-that-he-will-respect-the-outcome-of-ukraine-s-presidential-el.md)
 _Context: 2014 pro-Russian unrest in Ukraine, Russian President, Ukrainian presidential election, Vladimir Putin_

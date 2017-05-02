@@ -10,7 +10,7 @@ _Context: Bulgaria, Yambol, bus, crashes_
 _Context: DNA, DNA profiling, West Yorkshire, West Yorkshire Police, disappearance of Madeleine McCann, person of interest_
 
 ### [ Former Chilean Army conscript Jos Adolfo Paredes Mrquez is charged with murdering activist/singer Vctor Jara during General Augusto Pinochet's coup d'tat in 1973. ](/news/2009/05/28/former-chilean-army-conscript-jose-adolfo-paredes-marquez-is-charged-with-murdering-activist-singer-victor-jara-during-general-augusto-pino.md)
-_Context: 1973, 1973 Chilean coup d'état, Army, Augusto Pinochet, Chile, Víctor Jara, activist, conscription, general, murder, singer_
+_Context: 1973, 1973 Chilean coup d'tat, Army, Augusto Pinochet, Chile, Vctor Jara, activist, conscription, general, murder, singer_
 
 ### [ United States Secretary of State Hillary Clinton reaffirms President Barack Obama's demand that Israel halt settlement in the West Bank. ](/news/2009/05/28/united-states-secretary-of-state-hillary-clinton-reaffirms-president-barack-obama-s-demand-that-israel-halt-settlement-in-the-west-bank.md)
 _Context: Barack Obama, Hillary Clinton, Israel, Israeli settlement, United States, United States Secretary of State, West Bank, president_

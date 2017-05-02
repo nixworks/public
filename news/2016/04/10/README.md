@@ -1,7 +1,7 @@
 ## [2016-04-10](/news/2016/04/10/index.md)
 
 ### [The Taliban, in a statement claiming responsibility for yesterday's rocket attacks into Kabul, Afghanistan, says the intended target was U.S. Secretary of State John Kerry, who was in the capital to help defuse a crisis within the unity government.  Kerry had departed less than an hour earlier. No casualties have been reported. ](/news/2016/04/10/the-taliban-in-a-statement-claiming-responsibility-for-yesterday-s-rocket-attacks-into-kabul-afghanistan-says-the-intended-target-was-u-s.md)
-_Context: Afghanistan, John Kerry, Kabul, Taliban, United States Secretary of State, War in Afghanistan (2015–present), unity government_
+_Context: Afghanistan, John Kerry, Kabul, Taliban, United States Secretary of State, War in Afghanistan (2015-present), unity government_
 
 ### [Developers announce their intention to build a new tower in Dubai, United Arab Emirates, to surpass the Burj Khalifa as the tallest structure in the world. The project is expected to be roughly $1bn (PS710m) and scheduled to be completed for the Dubai Expo trade fair in 2020. ](/news/2016/04/10/developers-announce-their-intention-to-build-a-new-tower-in-dubai-united-arab-emirates-to-surpass-the-burj-khalifa-as-the-tallest-structur.md)
 _Context: Burj Khalifa, Dubai, United Arab Emirates, tallest structure in the world_
@@ -28,7 +28,7 @@ Former drug smuggler turned author Howard Marks has died at the age of 70.
 _Context: Keiko Fujimori, Pedro Pablo Kuczynski, Peru, Peruvian general election, 2016_
 
 ### [Voters in Chad go to the polls for the first round of voting in a presidential election with incumbent President Idriss Deby favoured to win a fifth term. ](/news/2016/04/10/voters-in-chad-go-to-the-polls-for-the-first-round-of-voting-in-a-presidential-election-with-incumbent-president-idriss-da-c-by-favoured-to-wi.md)
-_Context: Chad, Chadian presidential election, 2016, Idriss Déby, President of Chad_
+_Context: Chad, Chadian presidential election, 2016, Idriss Deby, President of Chad_
 
 ### [Voting begins for the second round of an election in the Comoros with a tight race expected between three candidates. They are current Vice President Mohamed Ali Soilihi, who won the first round, former coup leader Azali Assoumani and Governor of Grande Comore Mouigni Baraka. ](/news/2016/04/10/voting-begins-for-the-second-round-of-an-election-in-the-comoros-with-a-tight-race-expected-between-three-candidates-they-are-current-vice.md)
 Polling comes after Vice President Mohamed Ali Soilihi won the first round in February with 17 percent of the vote.

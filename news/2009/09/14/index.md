@@ -25,7 +25,7 @@ _Context: China's, United States, World Trade Organization, tire_
 The bomb squad has neutralized a suspicious package found in a vehicle near Markham Road and Finch Avenue and has reopened the area to traffic.
 
 ### [ In tennis, Juan Martn del Potro defeats Roger Federer and Kim Clijsters defeats Caroline Wozniacki at the U.S. Open. ](/news/2009/09/14/in-tennis-juan-martin-del-potro-defeats-roger-federer-and-kim-clijsters-defeats-caroline-wozniacki-at-the-u-s-open.md)
-_Context: Caroline Wozniacki, Juan Martín del Potro, Kim Clijsters, Roger Federer, U.S. Open, tennis_
+_Context: Caroline Wozniacki, Juan Martn del Potro, Kim Clijsters, Roger Federer, U.S. Open, tennis_
 
 ### [ American actor Patrick Swayze dies at age 57, after suffering from pancreatic cancer for more than 1 year. ](/news/2009/09/14/american-actor-patrick-swayze-dies-at-age-57-after-suffering-from-pancreatic-cancer-for-more-than-1-year.md)
 _Context: Patrick Swayze, United States, pancreatic cancer_

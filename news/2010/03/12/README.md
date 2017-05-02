@@ -46,7 +46,7 @@ The Taoiseach begins his visit to the US today, which culminates with a meeting 
 Eleven rare Siberian tigers kept in small cages and fed only chicken bones have died of malnutrition at a cash-strapped zoo in China&#039;s frigid northeast, state media have said.
 
 ### [American photographer Jill Sonsteby from Jacksonville, Florida captures a zebra putting its head inside the mouth of a hippopotamus and surviving at Zurich Zoologischer Garten. ](/news/2010/03/12/american-photographer-jill-sonsteby-from-jacksonville-florida-captures-a-zebra-putting-its-head-inside-the-mouth-of-a-hippopotamus-and-surv.md)
-_Context: Jacksonville, Florida, Zürich Zoologischer Garten, hippopotamus, zebra_
+_Context: Jacksonville, Florida, Zurich Zoologischer Garten, hippopotamus, zebra_
 
 ### [Margaret Thatcher, in a rare moment of publicity since her withdrawal from public life, puts her weight and "heavy heart" behind a campaign by Combat Stress for the mental health of ex-servicemen in Afghanistan and Iraq. ](/news/2010/03/12/margaret-thatcher-in-a-rare-moment-of-publicity-since-her-withdrawal-from-public-life-puts-her-weight-and-heavy-heart-behind-a-campaign.md)
 LONDON: The former British prime minister Margaret Thatcher yesterday threw her weight behind a campaign to help ex-servicemen suffering from mental health problems after returning from Iraq and Afghanistan.

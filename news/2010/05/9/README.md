@@ -28,7 +28,7 @@ _Context: Somali pirates, Somalia_
 Dallas Braden threw the 19th perfect game in major league history, leading the Oakland Athletics past the Tampa Bay Rays, 4-0.
 
 ### [The 26th annual Vancouver Sun Run happens today in Vancouver, British Columbia, Canada.](/news/2010/05/9/the-26th-annual-vancouver-sun-run-happens-today-in-vancouver-british-columbia-canada.md)
-_Context: British Columbia, Canadian, Vancouver, Vancouver Sun Run_
+_Context: British Columbia, Canada, Vancouver, Vancouver Sun Run_
 
 ## [Previous Day...](/news/2010/05/8/index.md)
 

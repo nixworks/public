@@ -1,7 +1,7 @@
 ## [2009-09-24](/news/2009/09/24/index.md)
 
 ### [ Treaty of Lisbon: Czech President Vaclav Klaus says he is "adamant" Irish voters will reject the European Union's Treaty of Lisbon when they vote on it again in the country's 2 October referendum, meaning his unwillingness to sign the treaty will be justified. ](/news/2009/09/24/treaty-of-lisbon-p-czech-president-va-clav-klaus-says-he-is-adamant-irish-voters-will-reject-the-european-union-s-treaty-of-lisbon-when-t.md)
-_Context: Czech, European Union, Republic of Ireland, Treaty of Lisbon, Václav Klaus, president, the second Irish referendum_
+_Context: Czech, European Union, Republic of Ireland, Treaty of Lisbon, Vaclav Klaus, president, the second Irish referendum_
 
 ### [ The 2009 G-20 Pittsburgh summit commences with two dozen world leaders in attendance.](/news/2009/09/24/the-2009-g-20-pittsburgh-summit-commences-with-two-dozen-world-leaders-in-attendance.md)
 _Context: G-20 Summit_
@@ -22,7 +22,7 @@ _Context: AIDS, HIV, Thailand_
 People all over the world have been toasting what is described as a momentous anniversary for the Guinness company.
 
 ### [ The last surviving Ottoman, Ertugrul Osman, dies in Istanbul at the age of 97. ](/news/2009/09/24/the-last-surviving-ottoman-ertuarul-osman-dies-in-istanbul-at-the-age-of-97.md)
-_Context: Ertuğrul Osman, Istanbul, Ottoman-era_
+_Context: Ertugrul Osman, Istanbul, Ottoman-era_
 
 ### [ Nine North Koreans enter Denmark's embassy in the Vietnamese capital Hanoi to seek political asylum. ](/news/2009/09/24/nine-north-koreans-enter-denmark-s-embassy-in-the-vietnamese-capital-hanoi-to-seek-political-asylum.md)
 The group of nine North Koreans entered the Danish Embassy in Hanoi seeking polical asylum and eventual transit to Seoul.
@@ -43,7 +43,7 @@ _Context: Daily Mail, England, England national football team, Fabio Capello, It
 _Context: South Korea, Tanzania_
 
 ### [ A painting worth up to 3 million euros by surrealist artist Rene Magritte is stolen by thieves at a museum in Brussels. ](/news/2009/09/24/a-painting-worth-up-to-3-million-euros-by-surrealist-artist-rena-c-magritte-is-stolen-by-thieves-at-a-museum-in-brussels.md)
-_Context: Brussels, René Magritte, euro, surrealist_
+_Context: Brussels, Rene Magritte, euro, surrealist_
 
 ### [ Detained Burmese National League for Democracy leader Aung San Suu Kyi welcomes a new United States policy shift which would engage with the Burmese military government. ](/news/2009/09/24/detained-burmese-national-league-for-democracy-leader-aung-san-suu-kyi-welcomes-a-new-united-states-policy-shift-which-would-engage-with-th.md)
 _Context: Aung San Suu Kyi, Burma, National League for Democracy, State Peace and Development Council, United States_
@@ -58,7 +58,7 @@ _Context: Tanzania, Tanzania Albino Society, men found guilty of killing an albi
 _Context: Bobby Cox, Braves, baseball_
 
 ### [ Governor Deval Patrick of Massachusetts chooses former Democratic National Committee chairman Paul G. Kirk, Jr. to replace former Senator Teddy Kennedy on a temporary basis, until elections can be held to choose a permanent replacement to fill the remainder of Kennedy's term.  ](/news/2009/09/24/governor-deval-patrick-of-massachusetts-chooses-former-democratic-national-committee-chairman-paul-g-kirk-jr-to-replace-former-senator-t.md)
-_Context: Democratic National Committee, Deval Patrick, Massachusetts, Massachusetts governor, Paul G. Kirk, Jr., Senator, Teddy Kennedy_
+_Context: Democratic National Committee, Deval Patrick, Massachusetts, Massachusetts governor, Paul G. Kirk, Jr., Teddy Kennedy, United States Senate_
 
 ### [ 2009 G-20 Pittsburgh summit: Leaders of the world converge on Pittsburgh, Pennsylvania for the opening of the G-20 Summit. ](/news/2009/09/24/2009-g-20-pittsburgh-summit-p-leaders-of-the-world-converge-on-pittsburgh-pennsylvania-for-the-opening-of-the-g-20-summit.md)
 _Context: G-20 Summit, Pittsburgh_

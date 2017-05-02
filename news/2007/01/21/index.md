@@ -28,7 +28,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Iraq, Muqtada al-Sadr, coalition government_
 
 ### [ Ogn  Samast, who was arrested for murdering Hrant Dink, admits that he has killed Dink. ](/news/2007/01/21/ogun-samast-who-was-arrested-for-murdering-hrant-dink-admits-that-he-has-killed-dink.md)
-_Context: Hrant Dink, Ogün  Samast_
+_Context: Hrant Dink, Ogn  Samast_
 
 ### [ Voters in Serbia participate in the first general election since it became an independent state in 2006. ](/news/2007/01/21/voters-in-serbia-participate-in-the-first-general-election-since-it-became-an-independent-state-in-2006.md)
 _Context: 2007 elections, Serbia_

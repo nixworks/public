@@ -34,7 +34,7 @@ Malaysian authorities have arrested a high-profile Opposition politician and thr
 _Context: 2013 Stockholm riots_
 
 ### [A necklace worth EUR1.9 million is stolen during the Cannes film festival. ](/news/2013/05/24/a-necklace-worth-a-1-9-million-is-stolen-during-the-cannes-film-festival.md)
-_Context: 2013 Cannes Film Festival, Cannes, €_
+_Context: 2013 Cannes Film Festival, Cannes, EUR_
 
 ### [Police arrest two men on suspicion of endangering an aircraft, after British fighter jets escort a Pakistan International Airlines passenger plane to London Stansted Airport. ](/news/2013/05/24/police-arrest-two-men-on-suspicion-of-endangering-an-aircraft-after-british-fighter-jets-escort-a-pakistan-international-airlines-passenger.md)
 British fighter jets have escorted a Pakistan International Airlines passenger plane to Stansted Airport near London, where police went on board and arrested two men on suspicion of endangering an aircraft.

@@ -4,7 +4,7 @@
 Iraqi forces say they have retaken some districts around Tikrit in their fight to recapture the strategic city from Islamic State.
 
 ### [Libya's Council of Deputies agrees to resume peace talks. ](/news/2015/03/2/libya-s-council-of-deputies-agrees-to-resume-peace-talks.md)
-_Context: Libya, Second Libyan Civil War (2014–present), internationally-recognized government_
+_Context: Libya, Second Libyan Civil War (2014-present), internationally-recognized government_
 
 ### [Hewlett-Packard announces that it will buy Aruba Networks, a California-based manufacturer of wi-fi equipment, for approximately $2.7 billion in combined cash and equity. [http://www8.hp.com/us/en/hp-news/press-release.html?id=1923193#.VPW5-o73-iw, (press release)].  ](/news/2015/03/2/hewlett-packard-announces-that-it-will-buy-aruba-networks-a-california-based-manufacturer-of-wi-fi-equipment-for-approximately-2-7-billio.md)
 _Context: Aruba Networks, Hewlett-Packard, U.S. dollar, Wi-Fi_

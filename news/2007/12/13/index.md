@@ -4,10 +4,10 @@
 _Context: 1699, Captain Kidd, Catalina Island, Dominican Republic, Indiana University, Quedagh Merchant, archaeological_
 
 ### [ The United States Senate passes an energy bill which would increase automobile fuel economy standards for the first time in three decades. ](/news/2007/12/13/the-united-states-senate-passes-an-energy-bill-which-would-increase-automobile-fuel-economy-standards-for-the-first-time-in-three-decades.md)
-_Context: Senator, United States, energy bill, fuel economy_
+_Context: United States, United States Senate, energy bill, fuel economy_
 
 ### [ Former United States Senator George Mitchell releases a report detailing the use of banned substances by current and former Major League Baseball players. ](/news/2007/12/13/former-united-states-senator-george-mitchell-releases-a-report-detailing-the-use-of-banned-substances-by-current-and-former-major-league-ba.md)
-_Context: George J. Mitchell, Major League Baseball, Mitchell Report, Senator, United States, current and former, performance-enhancing drugs_
+_Context: George J. Mitchell, Major League Baseball, Mitchell Report, United States, United States Senate, current and former, performance-enhancing drugs_
 
 ### [ A United States Marine Corps reservist is found guilty of killing an Iraqi soldier while they stood guard together in Fallujah. ](/news/2007/12/13/a-united-states-marine-corps-reservist-is-found-guilty-of-killing-an-iraqi-soldier-while-they-stood-guard-together-in-fallujah.md)
 _Context: Fallujah, Iraq, United States, United States Marine Corps, reservist_
@@ -22,7 +22,7 @@ _Context: Democratic Republic of the Congo, Kivu conflict, Laurent Nkunda_
 _Context: Assam, Chungajan, India, Rajdhani Express_
 
 ### [ ZANU-PF, the ruling party in Zimbabwe, endorses incumbent Robert Mugabe for the 2008 presidential election set for March. ](/news/2007/12/13/zanuapf-the-ruling-party-in-zimbabwe-endorses-incumbent-robert-mugabe-for-the-2008-presidential-election-set-for-march.md)
-_Context: Robert Mugabe, ZANU–PF, Zimbabwe, incumbent, run-off presidential election_
+_Context: Robert Mugabe, ZANU-PF, Zimbabwe, incumbent, run-off presidential election_
 
 ### [ Lucy Kibaki, the wife of Kenyan President Mwai Kibaki, slaps a government official during independence day celebrations after he accidentally referred to her as "Mama Lucy Wambui," widely rumored to be the President's mistress. ](/news/2007/12/13/lucy-kibaki-the-wife-of-kenyan-president-mwai-kibaki-slaps-a-government-official-during-independence-day-celebrations-after-he-accidental.md)
 _Context: Kenya, Lucy Kibaki, Mama Lucy Wambui, Mwai Kibaki, President_

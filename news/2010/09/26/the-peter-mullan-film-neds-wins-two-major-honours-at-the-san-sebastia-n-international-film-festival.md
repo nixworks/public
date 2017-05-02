@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [ Spain's Pablo Pineda wins the best actor award at the San Sebastian International Film Festival, the first actor with Down's syndrome to win an international film award. ](/news/2009/09/28/spain-s-pablo-pineda-wins-the-best-actor-award-at-the-san-sebastia-n-international-film-festival-the-first-actor-with-down-s-syndrome-to-w.md) _Context: San Sebastián International Film Festival_
+1. [ Spain's Pablo Pineda wins the best actor award at the San Sebastian International Film Festival, the first actor with Down's syndrome to win an international film award. ](/news/2009/09/28/spain-s-pablo-pineda-wins-the-best-actor-award-at-the-san-sebastia-n-international-film-festival-the-first-actor-with-down-s-syndrome-to-w.md) _Context: San Sebastian International Film Festival_

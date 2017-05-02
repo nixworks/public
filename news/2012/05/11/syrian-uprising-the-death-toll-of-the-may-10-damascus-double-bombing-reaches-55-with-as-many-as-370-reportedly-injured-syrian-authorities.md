@@ -1,6 +1,6 @@
 ### [2012-05-11](/news/2012/05/11/index.md)
 
-# Syrian uprising: the death toll of the May 10 Damascus double bombing reaches 55, with as many as 370 reportedly injured. Syrian authorities claim that over {{convert|1000|kg|lb}} of explosives were used in the attacks. 
+# Syrian uprising: the death toll of the May 10 Damascus double bombing reaches 55, with as many as 370 reportedly injured. Syrian authorities claim that over 1000|kg|lb of explosives were used in the attacks. 
 
 
 

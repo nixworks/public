@@ -37,7 +37,7 @@ _Context: Labour, Liverpool, Shadow Cabinet, annual conference, elections_
 FEMA now says money could last through the week
 
 ### [The Prime Minister of Spain Jos Luis Rodrguez Zapatero dissolves the Cortes Generales and calls a general election for November 20. ](/news/2011/09/26/the-prime-minister-of-spain-jose-luis-rodriguez-zapatero-dissolves-the-cortes-generales-and-calls-a-general-election-for-november-20.md)
-_Context: José Luis Rodríguez Zapatero, Prime Minister, Spanish Parliament, general election_
+_Context: Jos Luis Rodrguez Zapatero, Prime Minister, Spanish Parliament, general election_
 
 ## [Previous Day...](/news/2011/09/25/index.md)
 

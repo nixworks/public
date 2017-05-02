@@ -1,7 +1,7 @@
 ## [2005-06-1](/news/2005/06/1/index.md)
 
 ### [ In Cte d'Ivoire, renewed violence in the west of the country costs at least 41 lives ](/news/2005/06/1/in-cote-d-ivoire-renewed-violence-in-the-west-of-the-country-costs-at-least-41-lives.md)
-_Context: Côte d'Ivoire_
+_Context: Cte d'Ivoire_
 
 ### [ In Italy, court in Bologna gives life sentences to five members of Red Brigades for the murder of government advisor Marco Biagi in 2002. They are suspected members of the Communist Combatant faction of the Brigades ](/news/2005/06/1/in-italy-court-in-bologna-gives-life-sentences-to-five-members-of-red-brigades-for-the-murder-of-government-advisor-marco-biagi-in-2002-t.md)
 _Context: 2002, Bologna, Italian, Marco Biagi, Red Brigades, life sentence_
@@ -22,7 +22,7 @@ The American Family Association has fired another missile in its long war agains
 _Context: Afghanistan, Kandahar_
 
 ### [ Sweden shuts down the Barsebck 2 nuclear reactor. ](/news/2005/06/1/sweden-shuts-down-the-barseback-2-nuclear-reactor.md)
-_Context: Barsebäck 2, Sweden_
+_Context: Barsebck 2, Sweden_
 
 ### [ In Australia, embassy of Indonesia was closed after it received a package containing suspected "biological agent". The case is probably related to the sentence of Schapelle Corby ](/news/2005/06/1/in-australia-embassy-of-indonesia-was-closed-after-it-received-a-package-containing-suspected-biological-agent-the-case-is-probably-rel.md)
 _Context: Australia, Schapelle Corby, embassy of Indonesia was closed_

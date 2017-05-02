@@ -10,7 +10,7 @@ An Italian pro-Palestinian activist is found dead in the Gaza Strip hours after 
 NATO and its allies are committed to ousting Qaddafi. But it is the Libyan people who must decide their own future.
 
 ### [Shots are fired in the compound of the President of Burkina Faso Blaise Compaore. ](/news/2011/04/14/shots-are-fired-in-the-compound-of-the-president-of-burkina-faso-blaise-compaora-c.md)
-_Context: Blaise Compaoré, President_
+_Context: Blaise Compaore, President_
 
 ### [Encyclopedia Dramatica shuts down and is replaced by "oh internet", provoking protests by 4chan members and former readers of the site. ](/news/2011/04/14/encyclopedia-dramatica-shuts-down-and-is-replaced-by-oh-internet-provoking-protests-by-4chan-members-and-former-readers-of-the-site.md)
 _Context: 4chan, Encyclopedia Dramatica_

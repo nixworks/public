@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [Cuba's Speaker of the Parliament Ricardo Alarcon challenges the United States to lift its 48-year embargo on the island if it believes Cuba benefits from the embargo, as Hillary Clinton suggested. ](/news/2010/04/25/cuba-s-speaker-of-the-parliament-ricardo-alarca3n-challenges-the-united-states-to-lift-its-48-year-embargo-on-the-island-if-it-believes-cuba.md) _Context: Cuba, Ricardo Alarcón_
+1. [Cuba's Speaker of the Parliament Ricardo Alarcon challenges the United States to lift its 48-year embargo on the island if it believes Cuba benefits from the embargo, as Hillary Clinton suggested. ](/news/2010/04/25/cuba-s-speaker-of-the-parliament-ricardo-alarca3n-challenges-the-united-states-to-lift-its-48-year-embargo-on-the-island-if-it-believes-cuba.md) _Context: Cuba, Ricardo Alarcon_
 2. [An Aerogaviota-operated Antonov An-26 plane crashes in western Artemisa Province, Cuba, killing eight troops on board. ](/news/2017/04/29/an-aerogaviota-operated-antonov-an-26-plane-crashes-in-western-artemisa-province-cuba-killing-eight-troops-on-board.md) _Context: Cuba_
 3. [The remains of former Cuban leader Fidel Castro are interred beside independence leader Jose Marti. ](/news/2016/12/4/the-remains-of-former-cuban-leader-fidel-castro-are-interred-beside-independence-leader-josa-c-marta.md) _Context: Cuba_
 4. [Cuba's National Assembly of People's Power approves a law banning commemorative statues of late President Fidel Castro, and the naming of public places after him, in accordance with the wishes of Castro, who died last month. ](/news/2016/12/27/cuba-s-national-assembly-of-people-s-power-approves-a-law-banning-commemorative-statues-of-late-president-fidel-castro-and-the-naming-of-pu.md) _Context: Cuba_

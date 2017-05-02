@@ -25,7 +25,7 @@ _Context: Barack Obama, Iranian President, Mahmoud Ahmadinejad, U.S. President, 
 _Context: Korean War, Mount Kumgang resort, North Korea_
 
 ### [ Two mass graves linked to Colombia's internal conflict are discovered. ](/news/2009/09/26/two-mass-graves-linked-to-colombia-s-internal-conflict-are-discovered.md)
-_Context: Colombia, Colombian armed conflict (1964–present), mass grave_
+_Context: Colombia, Colombian armed conflict (1964-present), mass grave_
 
 ### [ A second dust storm hits Sydney, Australia. ](/news/2009/09/26/a-second-dust-storm-hits-sydney-australia.md)
 The weather bureau is using satellite imagery to monitor another dust storm which has hit south-west Queensland this morning.

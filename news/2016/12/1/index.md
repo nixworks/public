@@ -4,7 +4,7 @@
 Fighting between government and rebels has seen deliberate starvation, gang rape, and the burning of villages.
 
 ### [At least 15 children are killed by ISIS snipers in Mosul. ](/news/2016/12/1/at-least-15-children-are-killed-by-isis-snipers-in-mosul.md)
-_Context: Iraqi Civil War (2014–present)_
+_Context: Iraqi Civil War (2014-present)_
 
 ### [Yoga, rumba and Nowruz are classified as 'treasures' by UNESCO. ](/news/2016/12/1/yoga-rumba-and-nowruz-are-classified-as-treasures-by-unesco.md)
 What are the unique traditions and social practices that Unesco wants to preserve?

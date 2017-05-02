@@ -28,7 +28,7 @@ _Context: Riyadh, Riyadh Province, Sattam bin Abdulaziz Al Saud, Saudi Royal Fam
 Wrestling is dropped from the 2020 Olympic Games after the IOC decides to make space for a new sport.
 
 ### [Juan Ramn Lpez Caro is named the new coach of Saudi Arabia's national football team, replacing Frank Rijkaard. ](/news/2013/02/12/juan-ramon-lopez-caro-is-named-the-new-coach-of-saudi-arabia-s-national-football-team-replacing-frank-rijkaard.md)
-_Context: Frank Rijkaard, Juan Ramón López Caro, Saudi Arabia, Saudi Arabia_
+_Context: Frank Rijkaard, Juan Ramn Lpez Caro, Saudi Arabia, Saudi Arabia_
 
 ## [Previous Day...](/news/2013/02/11/index.md)
 

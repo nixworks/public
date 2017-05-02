@@ -13,7 +13,7 @@ A Sudanese military plane carrying personnel and equipment to the strife-torn Da
 _Context: Antisa Khvichava_
 
 ### [Voters in Venezuela go to the polls for a presidential election, with Hugo Chvez of the United Socialist Party of Venezuela and Henrique Capriles Radonski of the opposing Justice First party both competing for the presidency. ](/news/2012/10/7/voters-in-venezuela-go-to-the-polls-for-a-presidential-election-with-hugo-chavez-of-the-united-socialist-party-of-venezuela-and-henrique-ca.md)
-_Context: Henrique Capriles, Hugo Chávez, Justice First, United Social Party of Venezuela, Venezuela, inauguration approaches_
+_Context: Henrique Capriles, Hugo Chvez, Justice First, United Social Party of Venezuela, Venezuela, inauguration approaches_
 
 ### [Pope Benedict XVI names John of Avila and Hildegard of Bingen the 34th and 35th doctors of the Catholic church. ](/news/2012/10/7/pope-benedict-xvi-names-john-of-avila-and-hildegard-of-bingen-the-34th-and-35th-doctors-of-the-catholic-church.md)
 _Context: Benedict XVI, Hildegard of Bingen, John of Avila, Pope, doctors of the Catholic church_

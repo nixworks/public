@@ -1,10 +1,10 @@
 ## [2008-12-30](/news/2008/12/30/index.md)
 
 ### [ Eight of eleven snowmobilers buried by avalanches in British Columbia, Canada, are found dead. ](/news/2008/12/30/eight-of-eleven-snowmobilers-buried-by-avalanches-in-british-columbia-canada-are-found-dead.md)
-_Context: British Columbia, Canadian, avalanche, snowmobile_
+_Context: British Columbia, Canada, avalanche, snowmobile_
 
 ### [ Illinois Governor Rod Blagojevich appoints former Democratic Illinois Attorney General Roland Burris to President-elect Barack Obama's vacated United States Senate seat. Democratic Senate leaders and Secretary of State Jesse White say they will not accept the appointment. ](/news/2008/12/30/illinois-governor-rod-blagojevich-appoints-former-democratic-illinois-attorney-general-roland-burris-to-president-elect-barack-obama-s-vaca.md)
-_Context: Barack Obama, Democratic, Governor of Illinois, Illinois, Illinois Attorney General, Jesse White, President-elect, Rod Blagojevich, Roland Burris, Secretary of State, Senator, United States, seat_
+_Context: Barack Obama, Democratic, Governor of Illinois, Illinois, Illinois Attorney General, Jesse White, President-elect, Rod Blagojevich, Roland Burris, Secretary of State, United States, United States Senate, seat_
 
 ### [ Following the Jammu and Kashmir state assembly elections, the National Conference and National Congress parties agree to form a coalition government. ](/news/2008/12/30/following-the-jammu-and-kashmir-state-assembly-elections-the-national-conference-and-national-congress-parties-agree-to-form-a-coalition-g.md)
 _Context: Indian National Congress, Jammu and Kashmir, National Conference, coalition government, state assembly elections_
@@ -16,7 +16,7 @@ _Context: Awami League, Bangladesh, Sheikh Hasina, parliament, two-thirds majori
 King Albert named Flemish Christian Democrat Herman Van Rompuy as Belgian prime minister on Tuesday to head a revived five-party coalition in a country facing recession and a bank crisis.
 
 ### [ The National Council for Democracy and Development, the ruling military junta of Guinea after a recent coup, appoints Kabin Komara as the country's new Prime Minister. ](/news/2008/12/30/the-national-council-for-democracy-and-development-the-ruling-military-junta-of-guinea-after-a-recent-coup-appoints-kabine-komara-as-the.md)
-_Context: Guinea, Kabiné Komara, Prime Minister, junta, military coup, military junta_
+_Context: Guinea, Kabin Komara, Prime Minister, junta, military coup, military junta_
 
 ## [Previous Day...](/news/2008/12/29/index.md)
 

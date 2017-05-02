@@ -1,7 +1,7 @@
 ## [2005-01-26](/news/2005/01/26/index.md)
 
 ### [ Condoleezza Rice is confirmed in the U.S. Senate by a vote of ](/news/2005/01/26/condoleezza-rice-is-confirmed-in-the-u-s-senate-by-a-vote-of.md)
-_Context: Condoleezza Rice, Senator_
+_Context: Condoleezza Rice, United States Senate_
 
 ### [ After being incarcerated without trial for almost three years, the four British detainees at Guantanamo Bay, Moazzam Begg, Feroz Abbasi, Martin Mubanga and Richard Belmar, are free to go home, having been released without charge by the UK government. ](/news/2005/01/26/after-being-incarcerated-without-trial-for-almost-three-years-the-four-british-detainees-at-guantanamo-bay-moazzam-begg-feroz-abbasi-ma.md)
 _Context: Feroz Abbasi, Martin Mubanga, Moazzam Begg, Richard Belmar_
@@ -13,7 +13,7 @@ Get the latest breaking news and top news headlines at Reuters.com
 _Context: Davos, World Economic Forum_
 
 ### [ In Glendale, California, a commuter train crashes into a sport utility vehicle left on the tracks, derailing the train and sending it into another commuter train, killing 11 and injuring at least 100.  Juan Manuel lvarez, who allegedly drove the car to the railway in an attempt to commit suicide, is accused of eleven murders. ](/news/2005/01/26/in-glendale-california-a-commuter-train-crashes-into-a-sport-utility-vehicle-left-on-the-tracks-derailing-the-train-and-sending-it-into.md)
-_Context: Glendale, California, Juan Manuel Álvarez, SUV, commuter train crashes_
+_Context: Glendale, California, Juan Manuel lvarez, SUV, commuter train crashes_
 
 ### [ United States Supreme Court rejects appeal of Florida governor Jeb Bush to keep brain damaged Terri Schiavo alive against the wishes of her husband. Her parents try to remove her husband from the post of her guardian ](/news/2005/01/26/united-states-supreme-court-rejects-appeal-of-florida-governor-jeb-bush-to-keep-brain-damaged-terri-schiavo-alive-against-the-wishes-of-her.md)
 _Context: Florida, Jeb Bush, Terri Schiavo, United States Supreme Court, brain damage_

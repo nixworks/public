@@ -73,7 +73,7 @@ Pacific Islands Forum host, Vanuatu, says regional leaders must still engage wit
 ### [Vaughn R. Walker, the Chief Judge of the United States District Court for the Northern District of California, rules in ''Perry v. Schwarzenegger'' that California Proposition 8  banning same-sex marriage in California is unconstitutional. ](/news/2010/08/4/vaughn-r-walker-the-chief-judge-of-the-united-states-district-court-for-the-northern-district-of-california-rules-in-perry-v-schwarzen.md)
 _Context: California, Chief Judge, Perry v. Schwarzenegger, Vaughn R. Walker, federal court, reversed its legalization, same-sex marriage_
 
-### [A journalist with ''The Sunday Times'' is arrested in South Africa.{{clarify|date=August 2010}} ](/news/2010/08/4/a-journalist-with-the-sunday-times-is-arrested-in-south-africa-clarify-date-august-2010.md)
+### [A journalist with ''The Sunday Times'' is arrested in South Africa.date=August 2010 ](/news/2010/08/4/a-journalist-with-the-sunday-times-is-arrested-in-south-africa-date-august-2010.md)
 Police became involved in a screaming match with senior Sunday Times editors as they arrested a journalist, while one arrest was made in Mpumalanga. 
 
 ### [A man with a knife embarks on a fatal slashing rampage in a kindergarten in Zibo, Shandong. ](/news/2010/08/4/a-man-with-a-knife-embarks-on-a-fatal-slashing-rampage-in-a-kindergarten-in-zibo-shandong.md)
@@ -116,7 +116,7 @@ _Context: Alaska, Don Young, Republican, U.S. House, U.S. Justice Department, an
 _Context: 2010, Cologne, Gay Games_
 
 ### [Surrey defeat Glamorgan by 39 runs on the Duckworth-Lewis method to achieve a world record for the highest score in 40-over cricket in the CB 40 at The Oval. ](/news/2010/08/4/surrey-defeat-glamorgan-by-39-runs-on-the-duckworthalewis-method-to-achieve-a-world-record-for-the-highest-score-in-40-over-cricket-in-the.md)
-_Context: Cricket, Duckworth–Lewis method, Glamorgan, Surrey, The Oval, run_
+_Context: Cricket, Duckworth-Lewis method, Glamorgan, Surrey, The Oval, run_
 
 ### [Alex Rodriguez of the New York Yankees becomes the seventh player in the history of Major League Baseball to hit 600 home runs. ](/news/2010/08/4/alex-rodriguez-of-the-new-york-yankees-becomes-the-seventh-player-in-the-history-of-major-league-baseball-to-hit-600-home-runs.md)
 _Context: Alex Rodriguez, Major League Baseball, New York Yankees, home run_

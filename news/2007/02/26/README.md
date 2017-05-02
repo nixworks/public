@@ -1,10 +1,10 @@
 ## [2007-02-26](/news/2007/02/26/index.md)
 
 ### [ Delwa Kassir Koumakoye becomes the new Prime Minister of Chad, replacing interim PM Adoum Younousmi who stood in for Pascal Yoadimnadji since Yoadimnadji's death on 23 February 2007 in Paris. ](/news/2007/02/26/delwa-kassire-koumakoye-becomes-the-new-prime-minister-of-chad-replacing-interim-pm-adoum-younousmi-who-stood-in-for-pascal-yoadimnadji-si.md)
-_Context: Adoum Younousmi, Delwa Kassiré Koumakoye, Paris, Pascal Yoadimnadji, Prime Minister of Chad_
+_Context: Adoum Younousmi, Delwa Kassir Koumakoye, Paris, Pascal Yoadimnadji, Prime Minister of Chad_
 
 ### [ Guinean general strike, 2007: President of Guinea Lansana Cont appoints Lansana Kouyat as the new Prime Minister of Guinea after reaching an agreement with the trade union movement and the Opposition. ](/news/2007/02/26/guinean-general-strike-2007-president-of-guinea-lansana-conte-appoints-lansana-kouyate-as-the-new-prime-minister-of-guinea-after-reaching.md)
-_Context: Guinean general strike, 2007, Lansana Conté, Lansana Kouyate, President of Guinea, prime minister, unionize_
+_Context: Guinean general strike, 2007, Lansana Cont, Lansana Kouyate, President of Guinea, prime minister, unionize_
 
 ### [ Talpiot Tomb: Film director James Cameron claims to have found ossuaries that once contained the remains of Jesus of Nazareth, his disciple Mary Magdalene, and their son, named Judah. ](/news/2007/02/26/talpiot-tomb-film-director-james-cameron-claims-to-have-found-ossuaries-that-once-contained-the-remains-of-jesus-of-nazareth-his-disciple.md)
 _Context: Film director, Human remains, James Cameron, Jesus, Mary Magdalene, Talpiot Tomb, ossuaries_

@@ -4,7 +4,7 @@
 Seven Afghan children have been killed in a U.S.-led coalition air strike, the coalition said on Monday, the latest civilian deaths by foreign troops amid rising anger in Afghanistan.
 
 ### [ ngel Cabrera wins the 2007 U.S. Open Golf Championship at Oakmont Country Club in Oakmont, Pennsylvania. ](/news/2007/06/17/angel-cabrera-wins-the-2007-u-s-open-golf-championship-at-oakmont-country-club-in-oakmont-pennsylvania.md)
-_Context: 2007 U.S. Open Golf Championship, Oakmont Country Club, Oakmont, Pennsylvania, Ángel Cabrera_
+_Context: 2007 U.S. Open Golf Championship, Angel Cabrera, Oakmont Country Club, Oakmont, Pennsylvania_
 
 ### [ Linate Airport in Milan, Italy is closed for three hours at dawn to allow wildlife experts to trap 80 hares that have bred in recent months and are confusing ground radar. ](/news/2007/06/17/linate-airport-in-milan-italy-is-closed-for-three-hours-at-dawn-to-allow-wildlife-experts-to-trap-80-hares-that-have-bred-in-recent-months.md)
 _Context: Italian, Linate Airport, Milan, hare, radar_

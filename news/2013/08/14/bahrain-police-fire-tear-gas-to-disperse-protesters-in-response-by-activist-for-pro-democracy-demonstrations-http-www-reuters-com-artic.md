@@ -1,6 +1,6 @@
 ### [2013-08-14](/news/2013/08/14/index.md)
 
-# Bahrain police fire tear gas to disperse protesters in response by activist for pro-democracy demonstrations.  [http://www.reuters.com/article/2013/08/14/us-bahrain-protests-idUSBRE97D08520130814 (Reuters)], [http://english.ahram.org.eg/NewsContent/2/8/79040/World/Region/Bahrain-police-disperse-demonstrators-with-tear-ga.aspx (Ahram)]{{what?|date=August 2013}}
+# Bahrain police fire tear gas to disperse protesters in response by activist for pro-democracy demonstrations.  [http://www.reuters.com/article/2013/08/14/us-bahrain-protests-idUSBRE97D08520130814 (Reuters)], [http://english.ahram.org.eg/NewsContent/2/8/79040/World/Region/Bahrain-police-disperse-demonstrators-with-tear-ga.aspx (Ahram)]date=August 2013
 
 
 

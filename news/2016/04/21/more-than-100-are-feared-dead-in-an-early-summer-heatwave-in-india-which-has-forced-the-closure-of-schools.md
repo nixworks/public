@@ -11,7 +11,7 @@ More than 100 people are feared dead in India in an early-summer heat wave which
 
 ### Related:
 
-1. [Temperatures soar to a record {{convert|51|C|F}} in the Indian state of Rajasthan. The heatwave has claimed 300 lives since April 2016. ](/news/2016/05/20/temperatures-soar-to-a-record-convert-51-c-f-in-the-indian-state-of-rajasthan-the-heatwave-has-claimed-300-lives-since-april-2016.md) _Context: India, heatwave_
+1. [Temperatures soar to a record 51|C|F in the Indian state of Rajasthan. The heatwave has claimed 300 lives since April 2016. ](/news/2016/05/20/temperatures-soar-to-a-record-51-c-f-in-the-indian-state-of-rajasthan-the-heatwave-has-claimed-300-lives-since-april-2016.md) _Context: India, heatwave_
 2. [A heatwave in India has claimed 300 lives in April with daytime cooking banned in some parts of the country to prevent fires which have claimed an additional 80 lives. ](/news/2016/04/30/a-heatwave-in-india-has-claimed-300-lives-in-april-with-daytime-cooking-banned-in-some-parts-of-the-country-to-prevent-fires-which-have-clai.md) _Context: India, heatwave_
 3. [Somali pirates hijack an Indian cargo ship off the coast of Puntland. ](/news/2017/04/3/somali-pirates-hijack-an-indian-cargo-ship-off-the-coast-of-puntland.md) _Context: India_
 4. [India is to provide every cow with a biometric dog tag, in an effort to prevent cattle smuggling. ](/news/2017/04/25/india-is-to-provide-every-cow-with-a-biometric-dog-tag-in-an-effort-to-prevent-cattle-smuggling.md) _Context: India_

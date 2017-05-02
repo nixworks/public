@@ -4,7 +4,7 @@
 Raids target Houthi strongholds across country while ground fighting reported in the southern city of Aden.
 
 ### [The death toll from the March 27 hotel siege in Mogadishu rises to 20. ](/news/2015/03/28/the-death-toll-from-the-march-27-hotel-siege-in-mogadishu-rises-to-20.md)
-_Context: Mogadishu, War in Somalia (2009–present), the March 27 hotel siege_
+_Context: Mogadishu, War in Somalia (2009-present), the March 27 hotel siege_
 
 ### [According to an interview with Germany's ''Bild'' newspaper, the former girlfriend of co-pilot Andreas Lubitz was told by him that "One day I'm going to do something that will change the whole system, and everyone will know my name and remember." ](/news/2015/03/28/according-to-an-interview-with-germany-s-bild-newspaper-the-former-girlfriend-of-co-pilot-andreas-lubitz-was-told-by-him-that-one-day.md)
 The co-pilot of the Germanwings Airbus which crashed in the French Alps predicted &quot;one day everyone will know my name&quot;, his ex-girlfriend says.

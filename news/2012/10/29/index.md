@@ -4,7 +4,7 @@
 Two car bombings in the Syrian capital Damascus kill at least 10 people, state media report, as a supposed ceasefire draws to an end.
 
 ### [Bahraini uprising: Anti-government protests are banned and legal action is threatened against those backing the protests. ](/news/2012/10/29/bahraini-uprising-anti-government-protests-are-banned-and-legal-action-is-threatened-against-those-backing-the-protests.md)
-_Context: Bahraini uprising (2011–present)_
+_Context: Bahraini uprising (2011-present)_
 
 ### [Police attack thousands of demonstrators with tear gas and water cannons in Ankara during the celebrations of the  anniversary of the foundation of the Republic of Turkey. ](/news/2012/10/29/police-attack-thousands-of-demonstrators-with-tear-gas-and-water-cannons-in-ankara-during-the-celebrations-of-the-anniversary-of-the-founda.md)
 Tear gas and water cannons used to disband thousands marching in Ankara to mark Republic Day.
@@ -31,7 +31,7 @@ _Context: Oklahoma Supreme Court, U.S. Supreme Court_
 _Context: Simi Valley_
 
 ### [Fernando Haddad is elected mayor of Sao Paulo, giving the governing Workers' Party control of Brazil's financial capital and biggest city. ](/news/2012/10/29/fernando-haddad-is-elected-mayor-of-sapso-paulo-giving-the-governing-workers-party-control-of-brazil-s-financial-capital-and-biggest-city.md)
-_Context: Brazil, Fernando Haddad, São Paulo, Workers' Party_
+_Context: Brazil, Fernando Haddad, Sao Paulo, Workers' Party_
 
 ### [A shortlist of successors to the Coptic Pope is drawn up; a blindfolded child is then expected to pick from a list of three. ](/news/2012/10/29/a-shortlist-of-successors-to-the-coptic-pope-is-drawn-up-a-blindfolded-child-is-then-expected-to-pick-from-a-list-of-three.md)
 A council of Coptic Christians in Egypt chooses three candidates to succeeed Pope Shenouda III, before the new Pope is picked by a blindfolded child.

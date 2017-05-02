@@ -32,13 +32,13 @@ _Context: Aceh, Indonesia, Kosovo, Martti Ahtisaari, Namibia, Nobel Peace Prize,
 _Context: Alexey Prokurorov, Russia, Vladimir_
 
 ### [ A Swedish appellate court sentences Chilean opera tenor Ernesto "Tito" Beltran to two years and six months in prison for raping an 18-year-old nanny and molesting a 7-year-old girl.](/news/2008/10/10/a-swedish-appellate-court-sentences-chilean-opera-tenor-ernesto-tito-beltra-n-to-two-years-and-six-months-in-prison-for-raping-an-18-year.md)
-_Context: Chile, Ernesto "Tito" Beltrán, Sweden, appeals court, nanny, opera, tenor_
+_Context: Chile, Ernesto "Tito" Beltran, Sweden, appeals court, nanny, opera, tenor_
 
 ### [ North Korea draws nearer to a compromise in a nuclear deal that would prompt Washington to remove it from a list of State Sponsors of Terrorism. ](/news/2008/10/10/north-korea-draws-nearer-to-a-compromise-in-a-nuclear-deal-that-would-prompt-washington-to-remove-it-from-a-list-of-state-sponsors-of-terro.md)
 _Context: North Korea, Washington, D.C., state sponsor of terrorism_
 
 ### [ Global financial crisis of September-October 2008: European markets fall steeply upon opening. ](/news/2008/10/10/global-financial-crisis-of-septemberaoctober-2008-p-european-markets-fall-steeply-upon-opening.md)
-_Context: Global financial crisis of September–October 2008_
+_Context: Global financial crisis of September-October 2008_
 
 ### [ Leaders of the anti-government protests in Thailand surrender to thepolice. ](/news/2008/10/10/leaders-of-the-anti-government-protests-in-thailand-surrender-to-thepolice.md)
 _Context: Thailand, assemble_

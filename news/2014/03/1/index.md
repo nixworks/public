@@ -1,10 +1,10 @@
 ## [2014-03-1](/news/2014/03/1/index.md)
 
-### [2014 Crimean crisis, 2014 Ukrainian revolution:Russian President Vladimir Putin formally asks the Federation Council of the Russian Parliament for approval to use armed forces in Ukraine. He receives unanimous support. The Council also demands for President Putin to recall the Russian Federation ambassador to the United States. ](/news/2014/03/1/2014-crimean-crisis-2014-ukrainian-revolution-prussian-president-vladimir-putin-formally-asks-the-federation-council-of-the-russian-parliam.md)
+### [Russian President Vladimir Putin formally asks the Federation Council of the Russian Parliament for approval to use armed forces in Ukraine. He receives unanimous support. The Council also demands for President Putin to recall the Russian Federation ambassador to the United States. ](/news/2014/03/1/russian-president-vladimir-putin-formally-asks-the-federation-council-of-the-russian-parliament-for-approval-to-use-armed-forces-in-ukraine.md)
 Russian President Vladimir Putin has requested the use of Russian military forces in Ukraine to settle the situation there. The Russian population and the Crimea-based Black Sea Fleet are threatened by the situation in the country, he said.
 
 ### [A welcome home parade in Darwin marks the official end of Australia's active involvement in the Afghanistan War. ](/news/2014/03/1/a-welcome-home-parade-in-darwin-marks-the-official-end-of-australia-s-active-involvement-in-the-afghanistan-war.md)
-_Context: Australia, Darwin, War in Afghanistan (2001–present)_
+_Context: Australia, Darwin, War in Afghanistan (2001-present)_
 
 ### [A bomb attack on a polio vaccination team in a village in Khyber Pakhtunkhwa Province kills at least ten people. ](/news/2014/03/1/a-bomb-attack-on-a-polio-vaccination-team-in-a-village-in-khyber-pakhtunkhwa-province-kills-at-least-ten-people.md)
 A bomb attack on a polio vaccination team in north-west Pakistan has killed at least 11 people, officials say.

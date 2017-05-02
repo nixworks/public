@@ -1,7 +1,7 @@
 ## [2008-06-1](/news/2008/06/1/index.md)
 
 ### [ Thirteen people are killed and 14 others injured in a bus crash in Anzotegui, Venezuela. ](/news/2008/06/1/thirteen-people-are-killed-and-14-others-injured-in-a-bus-crash-in-anzoategui-venezuela.md)
-_Context: Anzoátegui, Venezuela_
+_Context: Anzotegui, Venezuela_
 
 ### [ At least 8 people are suffocated at the Samuel K. Doe stadium in Monrovia, Liberia in a 2010 World Cup qualification match between Liberia and Gambia. ](/news/2008/06/1/at-least-8-people-are-suffocated-at-the-samuel-k-doe-stadium-in-monrovia-liberia-in-a-2010-world-cup-qualification-match-between-liberia.md)
 _Context: Gambia, Liberia, Liberia, Monrovia, Samuel K. Doe, qualifying match_
@@ -10,7 +10,7 @@ _Context: Gambia, Liberia, Liberia, Monrovia, Samuel K. Doe, qualifying match_
 _Context: Chennai Super Kings, Cricket, DY Patil Stadium, Indian Premier League, Navi Mumbai, Rajasthan Royals, Shane Warne_
 
 ### [ United States presidential election, 2008: New York Senator Hillary Clinton wins the Puerto Rico Democratic primary, 2008. ](/news/2008/06/1/united-states-presidential-election-2008-new-york-senator-hillary-clinton-wins-the-puerto-rico-democratic-primary-2008.md)
-_Context: 2008, Hillary Clinton, New York, Puerto Rico Democratic primary, 2008, Senator_
+_Context: 2008, Hillary Clinton, New York, Puerto Rico Democratic primary, 2008, United States Senate_
 
 ### [ The Australian Army ends its combat role in Iraq, as about 500 troops withdraw from Nasiriyah. ](/news/2008/06/1/the-australian-army-ends-its-combat-role-in-iraq-as-about-500-troops-withdraw-from-nasiriyah.md)
 About 500 Australian combat troops pulled out of their base in southern Iraq on Sunday, fulfilling an election promise by Australian Prime Minister Kevin Rudd to bring the soldiers home this year.

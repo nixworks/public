@@ -43,13 +43,13 @@ _Context: DC police, United States Secret Service, Washington, D.C._
 Former oil tycoon says order to have him arrested in absentia over alleged murders shows that Russian authorities have ‘gone mad’
 
 ### [Pedro Sanchez, leader of Spain's Spanish Socialist Workers' Party (PSOE) rejects a pact with the ruling People's Party (PP). "We say 'no' to Rajoy and his policies," Sanchez told a news conference after meeting with Spanish Prime Minister Mariano Rajoy. ](/news/2015/12/23/pedro-sa-nchez-leader-of-spain-s-spanish-socialist-workers-party-psoe-rejects-a-pact-with-the-ruling-people-s-party-pp-we-say-no-t.md)
-_Context: Mariano Rajoy, Pedro Sánchez, People's Party, Prime Minister, Socialist Workers' Party, Spain, election_
+_Context: Mariano Rajoy, Pedro Sanchez, People's Party, Prime Minister, Socialist Workers' Party, Spain, election_
 
 ### [ Prime Minister of Georgia Irakli Garibashvili unexpectedly announces his resignation, without giving any specific reason for his decision. ](/news/2015/12/23/prime-minister-of-georgia-irakli-garibashvili-unexpectedly-announces-his-resignation-without-giving-any-specific-reason-for-his-decision.md)
 _Context: Irakli Garibashvili, Prime Minister of Georgia_
 
 ### [Croatian President Kolinda Grabar-Kitarovic selects Israel-based Teva Pharmaceuticals executive Tihomir Oreskovic to be the new prime minister following the  inconclusive November 8 election. The "technocrat" is the choice of conservatives and reformists, who have 78 parliamentary seats, enough for confirmation. ](/news/2015/12/23/croatian-president-kolinda-grabar-kitarovia-selects-israel-based-teva-pharmaceuticals-executive-tihomir-orea-kovia-to-be-the-new-prime-min.md)
-_Context: Croatian President, Israel, Kolinda Grabar-Kitarović, Parliament, Teva Pharmaceuticals, Tihomir Orešković, last election, prime minister, technocrats_
+_Context: Croatian President, Israel, Kolinda Grabar-Kitarovic, Parliament, Teva Pharmaceuticals, Tihomir Oreskovic, last election, prime minister, technocrats_
 
 ### [ The United States National Center for Health Statistics reports  the rate of twin births has hit an historic high. Researchers say  the increase in twin births may be affected by changes in reproductive technology, including in vitro fertilization, and by more women giving birth later in life--a time when the occurrence of twins is higher. ](/news/2015/12/23/the-united-states-national-center-for-health-statistics-reports-the-rate-of-twin-births-has-hit-an-historic-high-researchers-say-the-inc.md)
 A new government report released by the Centers for Disease Control and Prevention&#039;s National Center for Health Statistics shows that the rate of twin births has hit an historic high.

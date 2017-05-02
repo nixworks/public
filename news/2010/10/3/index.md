@@ -38,7 +38,7 @@ _Context: Anshun, Guizhou, Huanghegou, Xixiu_
 _Context: Atush, Xinjiang_
 
 ### [Nine die in floods in central Vietnam. Four people have been killed in Ha Tinh Province, one in Quang Binh Province and one in Quang Tri Province, while two individuals were injured in [a Tinh and Quang Binh Provinces. ](/news/2010/10/3/nine-die-in-floods-in-central-vietnam-four-people-have-been-killed-in-ha-ta-c-nh-province-one-in-quaopsng-ba-nh-province-and-one-in-quaopsng.md)
-_Context: Central Vietnam, Hà Tĩnh Province, Quảng Bình Province, Quảng Trị_
+_Context: Central Vietnam, Ha Tinh Province, Quang Binh Province, Quang Tri_
 
 ### [An explosion rips through a leather workshop in the town of Guzelburc in Hatay Province, Turkey, killing 3 people and injuring 5 others. ](/news/2010/10/3/an-explosion-rips-through-a-leather-workshop-in-the-town-of-ga1-4zelburass-in-hatay-province-turkey-killing-3-people-and-injuring-5-others.md)
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews
@@ -71,7 +71,7 @@ An&#x20;armed&#x20;gang&#x20;has&#x20;kidnapped&#x20;about&#x20;20&#x20;Mexican&
 Wellington, Oct 3 (DPA) Former Fiji prime minister Mahendra Chaudhry has been arrested and charged with breaching public emergency regulations which bar...
 
 ### [Voters in Brazil go to the polls in a presidential election with a runoff election likely between Dilma Rousseff of the Workers' Party and Jose Serra of the Brazilian Social Democratic Party. ](/news/2010/10/3/voters-in-brazil-go-to-the-polls-in-a-presidential-election-with-a-runoff-election-likely-between-dilma-rousseff-of-the-workers-party-and-j.md)
-_Context: Brazil, Brazilian Social Democratic Party, Brazilian presidential election, Dilma Rousseff, José Serra, Workers' Party, runoff election_
+_Context: Brazil, Brazilian Social Democratic Party, Brazilian presidential election, Dilma Rousseff, Jose Serra, Workers' Party, runoff election_
 
 ### [Voters in Bosnia and Herzegovina go to the polls in a general election. ](/news/2010/10/3/voters-in-bosnia-and-herzegovina-go-to-the-polls-in-a-general-election.md)
 Political stalemate likely to continue as voters are expected to cast their ballots largely along ethnic lines.

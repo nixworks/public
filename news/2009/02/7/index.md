@@ -13,7 +13,7 @@ _Context: Mianwali, Pakistan, Pakistani police, Punjab_
 _Context: Gaza Strip, Israel, Israeli Air Force, Palestinian, fire, militant, rocket_
 
 ### [ Brazilian Federal Police confiscate 3.8&nbsp;tons of cocaine from a ship at a Paranagua port. ](/news/2009/02/7/brazilian-federal-police-confiscate-3-8-nbsp-tons-of-cocaine-from-a-ship-at-a-paranagua-port.md)
-_Context: Brazil, Brazilian police, Paranaguá, cocaine_
+_Context: Brazil, Brazilian police, Paranagua, cocaine_
 
 ### [ Major League Baseball player Alex Rodriguez allegedly tested positive for two anabolic steroids in 2003.  ](/news/2009/02/7/major-league-baseball-player-alex-rodriguez-allegedly-tested-positive-for-two-anabolic-steroids-in-2003.md)
 _Context: 2003 season, Alex Rodriguez, Major League Baseball, anabolic steroid, performance-enhancing drugs_

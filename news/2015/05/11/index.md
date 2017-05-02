@@ -22,7 +22,7 @@ Fifteen people died and 20 others were injured, six of them critically, when a b
 _Context: Japan, Philippines, Typhoon Noul_
 
 ### [The death toll from a tornado outbreak in the United States rises to five with dozens injured and eight people missing. ](/news/2015/05/11/the-death-toll-from-a-tornado-outbreak-in-the-united-states-rises-to-five-with-dozens-injured-and-eight-people-missing.md)
-_Context: May 5–10, 2015 tornado outbreak sequence, United States_
+_Context: May 5-10, 2015 tornado outbreak sequence, United States_
 
 ### [A new strain of bird flu caused by the H5N8 virus is identified in a backyard poultry flock in Whitley County, Indiana, in the United States. ](/news/2015/05/11/a-new-strain-of-bird-flu-caused-by-the-h5n8-virus-is-identified-in-a-backyard-poultry-flock-in-whitley-county-indiana-in-the-united-states.md)
 _Context: Avian flu virus, H5N8, United States, Whitley County, Indiana, poultry_

@@ -10,7 +10,7 @@ _Context: Labour, Prime Minster, Tony Blair, United Kingdom_
 _Context: Merck & Co. Inc., Vioxx, heart attack, jury, plaintiff_
 
 ### [ The Bush administration releases excerpts of a report stating that the War in Iraq has bred deep resentment in the Islamic world and provided Islamist militants with a "cause clbre" that allowed the global movement to cultivate supporters. ](/news/2006/09/26/the-bush-administration-releases-excerpts-of-a-report-stating-that-the-war-in-iraq-has-bred-deep-resentment-in-the-islamic-world-and-provid.md)
-_Context: George W. Bush administration, Islamic world, Islamist, War in Iraq, cause célèbre_
+_Context: George W. Bush administration, Islamic world, Islamist, War in Iraq, cause clbre_
 
 ### [ Zambian archbishop Emmanuel Milingo is excommunicated from the Roman Catholic Church by Pope Benedict XVI. ](/news/2006/09/26/zambian-archbishop-emmanuel-milingo-is-excommunicated-from-the-roman-catholic-church-by-pope-benedict-xvi.md)
 _Context: Archbishop, Benedict XVI, Emmanuel Milingo, Roman Catholic Church, Zambia, excommunicate_

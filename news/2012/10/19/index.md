@@ -4,7 +4,7 @@
 A huge car bomb has killed at least eight people and injured dozens in the centre of the Lebanese capital, Beirut, officials say.
 
 ### [2011-present Libyan factional fighting: The Libyan Army launches a new full-scale assault against the town of Bani Walid, accusing it of being controlled by supporters of the late Muammar Gaddafi. ](/news/2012/10/19/2011apresent-libyan-factional-fighting-the-libyan-army-launches-a-new-full-scale-assault-against-the-town-of-bani-walid-accusing-it-of-b.md)
-_Context: 2011–present Libyan factional fighting, Bani Walid, Libyan National Army, Muammar Gaddafi, full-scale assault_
+_Context: 2011-present Libyan factional fighting, Bani Walid, Libyan National Army, Muammar Gaddafi, full-scale assault_
 
 ### [Lebanese Tourism Minister Faddy Abboud says an episode of the popular U.S. TV series ''Homeland'' misrepresented Beirut and is set to pursue legal action against its makers due to concerns over damage to image and tourism. ](/news/2012/10/19/lebanese-tourism-minister-faddy-abboud-says-an-episode-of-the-popular-u-s-tv-series-homeland-misrepresented-beirut-and-is-set-to-pursue.md)
 _Context: Beirut, Faddy Abboud, Homeland, Lebanese Tourism Minister_

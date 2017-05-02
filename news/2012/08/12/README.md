@@ -4,7 +4,7 @@
 Foreign ministers of the Arab League postpone a meeting on the Syrian crisis, officials say, as fighting in key cities continues.
 
 ### [Mexican Drug War:Edgar Morales Perez, the mayor-elect of Matehuala, San Luis Potosi, is shot to death by gunmen while riding his vehicle. ](/news/2012/08/12/mexican-drug-war-pedgar-morales-pa-c-rez-the-mayor-elect-of-matehuala-san-luis-potosa-is-shot-to-death-by-gunmen-while-riding-his-vehicle.md)
-_Context: Edgar Morales Pérez, List of politicians killed in the Mexican Drug War, Matehuala, Mexican Drug War, San Luis Potosí_
+_Context: Edgar Morales Perez, List of politicians killed in the Mexican Drug War, Matehuala, Mexican Drug War, San Luis Potosi_
 
 ### [Egyptian forces kill six suspected militants in a village near the city of el-Arish in northern Sinai. ](/news/2012/08/12/egyptian-forces-kill-six-suspected-militants-in-a-village-near-the-city-of-el-ara-sh-in-northern-sinai.md)
 At least six gunmen are killed by the Egyptian army in the Sinai peninsula during an offensive against suspected Islamist militants, security officials say.

@@ -28,7 +28,7 @@ RCMP says 737 went down with 15 people on board
 At least 10,000 people gathered on Saturday to support a anti-corruption social activist who has galvanized much of India against the government with his hunger strike, amid signs from Prime Minister Manmohan Singh of compromise to end the impasse.
 
 ### [In football, the start of the Spanish La Liga 2011-12 season is delayed by a players' strike. ](/news/2011/08/20/in-football-the-start-of-the-spanish-la-liga-2011a12-season-is-delayed-by-a-players-strike.md)
-_Context: 2011–12 season, La Liga, association football_
+_Context: 2011-12 season, La Liga, association football_
 
 ### [Striking Verizon Communications workers will return to work from a strike on the night of Monday, August 22, 2011, even without a formal contract. ](/news/2011/08/20/striking-verizon-communications-workers-will-return-to-work-from-a-strike-on-the-night-of-monday-august-22-2011-even-without-a-formal-con.md)
 Thousands of striking Verizon workers will return to work starting Monday night, though their contract dispute with the telecom company isn&#39;t over yet.

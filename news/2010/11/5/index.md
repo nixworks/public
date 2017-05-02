@@ -13,7 +13,7 @@ _Context: Dubai, United Parcel Service, Yemen bomb attacks, al-Qaida_
 Members of the National Union of Journalists working for BBC News take industrial action in a dispute over proposed changes to staff pensions.
 
 ### [MSNBC suspends U.S. television pundit Keith Olbermann indefinitely for making political donations to three Democratic Party candidates. ](/news/2010/11/5/msnbc-suspends-u-s-television-pundit-keith-olbermann-indefinitely-for-making-political-donations-to-three-democratic-party-candidates.md)
-_Context: Democrat, Keith Olbermann, MSNBC, political donation_
+_Context: Democratic, Keith Olbermann, MSNBC, political donation_
 
 ### [''Ready Steady Cook'', thought to be the longest running cookery show currently on television, is axed by the BBC. ](/news/2010/11/5/ready-steady-cook-thought-to-be-the-longest-running-cookery-show-currently-on-television-is-axed-by-the-bbc.md)
 _Context: BBC, Ready Steady Cook_
@@ -58,7 +58,7 @@ _Context: Government of the United States, Norway, Oslo, United States, governme
 _Context: Lima, Lori Berenson, Peru, United States_
 
 ### [Mexican drug cartel leader Ezequiel Cardenas Guilln is shot dead by Mexican security forces in Matamoros following a gun fight of several hours. ](/news/2010/11/5/mexican-drug-cartel-leader-ezequiel-cardenas-guillen-is-shot-dead-by-mexican-security-forces-in-matamoros-following-a-gun-fight-of-several-h.md)
-_Context: Ezequiel Cardenas Guillén, Matamoros, Mexico, drug cartel_
+_Context: Ezequiel Cardenas Guilln, Matamoros, Mexico, drug cartel_
 
 ### [Violent protests occur in Oakland, California following Johannes Mehserle receiving two years jail for the shooting of Oscar Grant on the Bay Area Rapid Transit system with Oakland police chief Anthony Batts expecting to make 150 arrests. ](/news/2010/11/5/violent-protests-occur-in-oakland-california-following-johannes-mehserle-receiving-two-years-jail-for-the-shooting-of-oscar-grant-on-the-ba.md)
 Protesters clashed with the police on Friday night after a white former transit police officer was given a two-year sentence for the killing an unarmed black man.

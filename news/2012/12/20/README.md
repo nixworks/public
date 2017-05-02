@@ -46,7 +46,7 @@ Cristiano Ronaldo will return to Old Trafford for the first time since leaving M
 European champions Chelsea FC will begin their UEFA Europa League title bid against AC Sparta Praha after a draw that also pitted FC Zenit St Petersburg against Liverpool FC.
 
 ### [Manchester City midfielder Yaya Toure is named African Footballer of the Year for the second year running ahead of Didier Drogba and Alex Song. Also Herve Renard emerged the 2012 Coach of the Year at the annual CAF awards staged in Accra, Ghana. ](/news/2012/12/20/manchester-city-midfielder-yaya-toura-c-is-named-african-footballer-of-the-year-for-the-second-year-running-ahead-of-didier-drogba-and-alex-s.md)
-_Context: Accra, African Footballer of the Year, Alex Song, CAF, Didier Drogba, Ghana, Hervé Renard, Manchester City, Yaya Touré_
+_Context: Accra, African Footballer of the Year, Alex Song, CAF, Didier Drogba, Ghana, Herve Renard, Manchester City, Yaya Toure_
 
 ## [Previous Day...](/news/2012/12/19/index.md)
 

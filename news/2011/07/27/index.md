@@ -4,7 +4,7 @@
 Norway&#x27;s&#x20;Prime&#x20;Minister&#x20;Jens&#x20;Stoltenberg&#x20;said&#x20;Wednesday&#x20;he&#x20;would&#x20;set&#x20;up&#x20;an&#x20;independent&#x20;commission&#x20;to&#x20;investigate&#x20;allegations&#x20;of&#x20;a&#x20;slow&#x20;police&#x20;response&#x20;to&#x20;the&#x20;bombing&#x20;and&#x20;shooting&#x20;spree&#x20;that&#x20;left&#x20;at&#x20;least&#x20;76&#x20;people&#x20;dead.
 
 ### [War in Afghanistan (2001-present):Ghulam Haidar Hameedi, mayor of Kandahar, is killed in a suicide bombing. ](/news/2011/07/27/war-in-afghanistan-2001apresent-pghulam-haidar-hameedi-mayor-of-kandahar-is-killed-in-a-suicide-bombing.md)
-_Context: Ghulam Haidar Hameedi, Kandahar, War in Afghanistan (2001–present), suicide bombing_
+_Context: Ghulam Haidar Hameedi, Kandahar, War in Afghanistan (2001-present), suicide bombing_
 
 ### [NATO intervenes in the border clashes between Kosovo and Serbia. ](/news/2011/07/27/nato-intervenes-in-the-border-clashes-between-kosovo-and-serbia.md)
 International concern is raised over a Kosovo police bid to take over border crossings in the ethnic Serb north in which one officer was killed.

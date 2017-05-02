@@ -1,10 +1,10 @@
 ## [2009-03-13](/news/2009/03/13/index.md)
 
 ### [ The United States abandons the term "enemy combatant" for detainees at Guantanamo Bay Naval Base's detention camp.  ](/news/2009/03/13/the-united-states-abandons-the-term-enemy-combatant-for-detainees-at-guanta-namo-bay-naval-base-s-detention-camp.md)
-_Context: Guantanamo Bay detention camp, Guantánamo Bay, United States, detainees, enemy combatant, military base at Guantanamo Bay_
+_Context: Guantanamo Bay, Guantanamo Bay detention camp, United States, detainees, enemy combatant, military base at Guantanamo Bay_
 
 ### [ Italy's Ministry of Foreign Affairs reports that three Doctors Without Borders volunteers kidnapped in Darfur, Sudan, have been freed.  ](/news/2009/03/13/italy-s-ministry-of-foreign-affairs-reports-that-three-doctors-without-borders-volunteers-kidnapped-in-darfur-sudan-have-been-freed.md)
-_Context: Darfur, Italian, Ministry of Foreign Affairs, Médecins Sans Frontières, Sudan, conflict, volunteer_
+_Context: Darfur, Italian, Medecins Sans Frontieres, Ministry of Foreign Affairs, Sudan, conflict, volunteer_
 
 ### [ United Nations High Commissioner for Human Rights Navanethem Pillay accuses Sri Lanka's Armed Forces and the Tamil Tigers of possible war crimes. ](/news/2009/03/13/united-nations-high-commissioner-for-human-rights-navanethem-pillay-accuses-sri-lanka-s-armed-forces-and-the-tamil-tigers-of-possible-war-c.md)
 _Context: High Commissioner for Human Rights, LTTE, Navanethem Pillay, Sri Lanka, Sri Lankan Civil War, United Nations, armed forces, war crime_

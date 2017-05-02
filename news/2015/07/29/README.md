@@ -10,7 +10,7 @@ _Context: Lashkar-e-Jhangvi, Malik Ishaq, War in North-West Pakistan_
 _Context: Wragg Fire_
 
 ### [Debris found near the Indian Ocean island of Reunion is consistent with material from a Boeing 777 and is being examined to confirm whether it is from Malaysia Airlines Flight 370. ](/news/2015/07/29/debris-found-near-the-indian-ocean-island-of-ra-c-union-is-consistent-with-material-from-a-boeing-777-and-is-being-examined-to-confirm-whether.md)
-_Context: Boeing 777, Indian Ocean, Malaysia Airlines Flight 370, Réunion_
+_Context: Boeing 777, Indian Ocean, Malaysia Airlines Flight 370, Reunion_
 
 ### [At least 27 people are killed and 149 injured after a out of control truck runs into a religious procession in the Mexican state of Zacatecas. ](/news/2015/07/29/at-least-27-people-are-killed-and-149-injured-after-a-out-of-control-truck-runs-into-a-religious-procession-in-the-mexican-state-of-zacateca.md)
 _Context: Mexico, Zacatecas_

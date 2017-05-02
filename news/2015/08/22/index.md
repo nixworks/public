@@ -10,7 +10,7 @@ At least 21 people were killed in two separate suicide car attacks in Somalia on
 _Context: Iran, surface-to-surface missile_
 
 ### [An Afghan suicide bomber attacks a NATO convoy in Kabul killing at least twelve people and injuring 66 others. ](/news/2015/08/22/an-afghan-suicide-bomber-attacks-a-nato-convoy-in-kabul-killing-at-least-twelve-people-and-injuring-66-others.md)
-_Context: Kabul, NATO, War in Afghanistan (2015–present), suicide bomber_
+_Context: Kabul, NATO, War in Afghanistan (2015-present), suicide bomber_
 
 ### [Missile strikes by pro-Assad forces leave over 50 people killed in the Syrian rebel-held town of Douma, near the capital Damascus. ](/news/2015/08/22/missile-strikes-by-pro-assad-forces-leave-over-50-people-killed-in-the-syrian-rebel-held-town-of-douma-near-the-capital-damascus.md)
 At least 50 bodies were retrieved from buildings leveled to the ground after Syrian army missiles hit residential areas in the rebel-held northeast of Damascus on Saturday, rescue workers said.

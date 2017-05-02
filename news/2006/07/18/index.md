@@ -1,7 +1,7 @@
 ## [2006-07-18](/news/2006/07/18/index.md)
 
 ### [ The government of Angola and the Frente para a Libertacao do Enclave de Cabinda sign a peace agreement ending the Independence War in Cabinda. ](/news/2006/07/18/the-government-of-angola-and-the-frente-para-a-libertaassapso-do-enclave-de-cabinda-sign-a-peace-agreement-ending-the-independence-war-in-cab.md)
-_Context: Frente para a Libertação do Enclave de Cabinda, Independence War in Cabinda, government of Angola_
+_Context: Frente para a Libertacao do Enclave de Cabinda, Independence War in Cabinda, government of Angola_
 
 ### [  Western governments evacuate their citizens from Lebanon any way they can. ](/news/2006/07/18/western-governments-evacuate-their-citizens-from-lebanon-any-way-they-can.md)
 While army continues to strike Hizbullah, limit its weapons resources, outside groups trying to rearm group. IAF manages to bomb trucks transporting missiles from Syria. IDF Maj.-Gen. Eisenkot: These rockets belong to Syrian army

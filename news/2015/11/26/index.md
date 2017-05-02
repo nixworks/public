@@ -4,7 +4,7 @@
 Turkey&#039;s military releases recordings of apparent warnings issued to a Russian jet before it was shot down near the Syrian border.
 
 ### [The Palestinian Ministry of Health says a 21 year-old man has died in clashes with Israeli Army soldiers. ](/news/2015/11/26/the-palestinian-ministry-of-health-says-a-21-year-old-man-has-died-in-clashes-with-israeli-army-soldiers.md)
-_Context: Israeli Army, Israeli–Palestinian conflict (2015), Palestinian Ministry of Health_
+_Context: Israeli Army, Israeli-Palestinian conflict (2015), Palestinian Ministry of Health_
 
 ### [British Prime Minister David Cameron, in a speech to the House of Commons says that Islamic extremists have already threatened citizens of the United Kingdom and UK military airstrikes against ISIL in Syria will serve only to make the UK safer.  Cameron also says that the UK cannot outsource its security and must stand by France in the wake of the November 2015 Paris attacks. ](/news/2015/11/26/british-prime-minister-david-cameron-in-a-speech-to-the-house-of-commons-says-that-islamic-extremists-have-already-threatened-citizens-of-t.md)
 David Cameron puts the case for air strikes against IS in Syria - with Jeremy Corbyn at odds with half his shadow cabinet on the issue.

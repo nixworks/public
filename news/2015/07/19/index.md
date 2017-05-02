@@ -7,7 +7,7 @@ Four people who are feared dead after an explosion at a wood treatment works in 
 Fourteen mausoleums in Timbuktu in northern Mali are rebuilt, three years after they were destroyed by Islamist extremists.
 
 ### [The Pakistan Foreign Office lodges an official report with India over what it calls a series of "unprovoked ceasefire violations" in the disputed Himalayan region of Kashmir. ](/news/2015/07/19/the-pakistan-foreign-office-lodges-an-official-report-with-india-over-what-it-calls-a-series-of-unprovoked-ceasefire-violations-in-the-dis.md)
-_Context: 2014–15 India–Pakistan border skirmishes, Himalaya, India, India–Pakistan relations, Kashmir, Pakistan Foreign Office_
+_Context: 2014-15 India-Pakistan border skirmishes, Himalaya, India, India-Pakistan relations, Kashmir, Pakistan Foreign Office_
 
 ## [Previous Day...](/news/2015/07/18/index.md)
 

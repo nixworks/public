@@ -10,7 +10,7 @@ Meanwhile, reports from northern Syria that an army bombardment has killed 12 pe
 A suicide bomber has killed at least 20 people, three of them Nato soldiers, in the eastern Afghan city of Khost, officials say.
 
 ### [2011-present Libyan factional fighting: Chairman of the General National Congress Mohamed Yousef el-Magariaf says that al-Qaeda elements, who fought alongside the rebels in the Libyan Civil War, number "up to 200" in Libya now. ](/news/2012/10/1/2011apresent-libyan-factional-fighting-chairman-of-the-general-national-congress-mohamed-yousef-el-magariaf-says-that-al-qaeda-elements.md)
-_Context: 2011–present Libyan factional fighting, Libyan Civil War, Libyan Parliament, Mohamed Yousef el-Magariaf, al-Qaeda_
+_Context: 2011-present Libyan factional fighting, Libyan Civil War, Libyan Parliament, Mohamed Yousef el-Magariaf, al-Qaeda_
 
 ### [Eric Hobsbawm, one of the leading historians of the 20th century, dies at the Royal Free Hospital in London at the age of 95. ](/news/2012/10/1/eric-hobsbawm-one-of-the-leading-historians-of-the-20th-century-dies-at-the-royal-free-hospital-in-london-at-the-age-of-95.md)
 _Context: Eric Hobsbawm, London, Royal Free Hospital_
@@ -19,7 +19,7 @@ _Context: Eric Hobsbawm, London, Royal Free Hospital_
 _Context: Hong Kong, a ferry collision_
 
 ### [A court in Bahrain upholds the jail sentences of nine medics convicted for their role in the country's uprising. ](/news/2012/10/1/a-court-in-bahrain-upholds-the-jail-sentences-of-nine-medics-convicted-for-their-role-in-the-country-s-uprising.md)
-_Context: Bahrain, Bahraini uprising (2011–present)_
+_Context: Bahrain, Bahraini uprising (2011-present)_
 
 ### [The appeal hearing in the Russian band Pussy Riot's case is delayed after one member of the group fired their lawyer. ](/news/2012/10/1/the-appeal-hearing-in-the-russian-band-pussy-riot-s-case-is-delayed-after-one-member-of-the-group-fired-their-lawyer.md)
 _Context: Pussy Riot, Russia_
@@ -43,7 +43,7 @@ _Context: Japan, Koriki Jojima, Seiji Maehara_
 A Palestinian footballer who went on a hunger strike in an Israeli jail says he is turning down an invitation to see Barcelona play Real Madrid after an Israeli soldier was also asked to attend.
 
 ### [Mohamed Nasheed, the former president of the Maldives, fails to appear in court and departs on tour for his party. Vice-president Mohammed Waheed Deen, opening an academic conference in Male, says a nation can achieve democracy by the teachers imparting the relevant information. ](/news/2012/10/1/mohamed-nasheed-the-former-president-of-the-maldives-fails-to-appear-in-court-and-departs-on-tour-for-his-party-vice-president-mohammed-w.md)
-_Context: Maldives, Malé, Mohamed Nasheed, Mohammed Waheed Deen, academic, his party, in court, vice president_
+_Context: Maldives, Male, Mohamed Nasheed, Mohammed Waheed Deen, academic, his party, in court, vice president_
 
 ## [Previous Day...](/news/2012/09/30/index.md)
 

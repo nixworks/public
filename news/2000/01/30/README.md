@@ -7,7 +7,7 @@ _Context: January 2000 North American blizzard, United States_
 _Context: Kenya Airways Flight 431_
 
 ### [The 2000 Baia Mare cyanide spill occurs near Baia Mare, Romania, into the Somes River.](/news/2000/01/30/the-2000-baia-mare-cyanide-spill-occurs-near-baia-mare-romania-into-the-somea-river.md)
-_Context: 2000 Baia Mare cyanide spill, Baia Mare, Romania, Someş River_
+_Context: 2000 Baia Mare cyanide spill, Baia Mare, Romania, Somes River_
 
 ## [Previous Day...](/news/2000/01/29/index.md)
 

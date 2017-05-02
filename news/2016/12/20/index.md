@@ -4,7 +4,7 @@
 Turkish police detain six people over the killing of the Russian ambassador, who was shot in the back as he gave a speech in Ankara.
 
 ### [The International Committee of the Red Cross claims that 25,000 residents of the rebel-held territories have been evacuated from Aleppo as Hezbollah warns remaining residents in the former rebel enclave to leave "as quickly as possible". ](/news/2016/12/20/the-international-committee-of-the-red-cross-claims-that-25-000-residents-of-the-rebel-held-territories-have-been-evacuated-from-aleppo-as-h.md)
-_Context: Aleppo, Aleppo offensive (November–December 2016), Hezbollah, International Committee of the Red Cross_
+_Context: Aleppo, Aleppo offensive (November-December 2016), Hezbollah, International Committee of the Red Cross_
 
 ### [The Islamic State of Iraq and the Levant claims responsibility via Amaq News Agency for the truck attack in Berlin, Germany, which left at least 12 people dead and 49 injured. ](/news/2016/12/20/the-islamic-state-of-iraq-and-the-levant-claims-responsibility-via-amaq-news-agency-for-the-truck-attack-in-berlin-germany-which-left-at-l.md)
 So-called Islamic State says one of its militants carried out the deadly Berlin lorry attack.
@@ -31,7 +31,7 @@ Christmas travel plans look set to be thrown into chaos, with 90mph winds threat
 A cargo plane crashes shortly after take-off from the southern Colombian city of Puerto Carreno, reportedly killing five and injuring one crew member.
 
 ### [The People's Republic of China returns a United States unmanned underwater drone that it seized in the South China Sea last week. ](/news/2016/12/20/the-people-s-republic-of-china-returns-a-united-states-unmanned-underwater-drone-that-it-seized-in-the-south-china-sea-last-week.md)
-_Context: China's, China–United States relations, South China Sea, United States_
+_Context: China's, China-United States relations, South China Sea, United States_
 
 ### [Indonesia arrests hundreds  of protesters in Indonesian Papua. ](/news/2016/12/20/indonesia-arrests-hundreds-of-protesters-in-indonesian-papua.md)
 _Context: Indonesia, Indonesian Papua_

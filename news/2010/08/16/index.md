@@ -7,7 +7,7 @@ _Context: Armed Forces, Bagong Alyansang Makabayan, Oplan Bantay Laya, communist
 Two suspected militants and a soldier die in a gun battle in Indian-administered Kashmir, police say.
 
 ### [At least 2 people are injured after a grenade explosion outside a Televisa television station in Monterrey, Nuevo Leon, Mexico. ](/news/2010/08/16/at-least-2-people-are-injured-after-a-grenade-explosion-outside-a-televisa-television-station-in-monterrey-nuevo-lea3n-mexico.md)
-_Context: Mexico, Monterrey, Nuevo León, Televisa, grenade_
+_Context: Mexico, Monterrey, Nuevo Leon, Televisa, grenade_
 
 ### [The mayor of the Mexican town of Santiago, Nuevo Leon, Edelmiro Cavazos, is abducted. ](/news/2010/08/16/the-mayor-of-the-mexican-town-of-santiago-nuevo-lea3n-edelmiro-cavazos-is-abducted.md)
 The mayor of the northern Mexican city of Santiago has been abducted, police say.
@@ -82,7 +82,7 @@ Nuke chief Salehi: New uranium enrichment site to open next year.
 An Australian hospital says it has performed the southern hemisphere&#39;s first total artificial heart transplant.
 
 ### [A new species of Titi monkey, the Caqueta Titi, is discovered in the Colombian department of Caqueta. ](/news/2010/08/16/a-new-species-of-titi-monkey-the-caqueta-titi-is-discovered-in-the-colombian-department-of-caqueta.md)
-_Context: Caquetá Titi, Caquet� Department, Titi monkey, department_
+_Context: Caquet Department, Caqueta Titi, Titi monkey, department_
 
 ### [Scientists at the University of Toronto claim that mountain climbers George Mallory and Andrew Irvine could not have reached the top of Mount Everest in 1924 as they were caught in a perfect storm. ](/news/2010/08/16/scientists-at-the-university-of-toronto-claim-that-mountain-climbers-george-mallory-and-andrew-irvine-could-not-have-reached-the-top-of-moun.md)
 _Context: Andrew Irvine, George Mallory, Mount Everest, University of Toronto, mountain climber, perfect storm_

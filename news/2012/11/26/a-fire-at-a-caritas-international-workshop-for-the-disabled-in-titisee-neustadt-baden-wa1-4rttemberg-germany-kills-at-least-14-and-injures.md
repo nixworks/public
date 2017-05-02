@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Floods in  Baden-Wurttemberg  in southwestern Germany following  heavy rain that started Sunday night kill at least four people. ](/news/2016/05/30/floods-in-baden-wa1-4rttemberg-in-southwestern-germany-following-heavy-rain-that-started-sunday-night-kill-at-least-four-people.md) _Context: Baden-Württemberg, Germany_
+1. [Floods in  Baden-Wurttemberg  in southwestern Germany following  heavy rain that started Sunday night kill at least four people. ](/news/2016/05/30/floods-in-baden-wa1-4rttemberg-in-southwestern-germany-following-heavy-rain-that-started-sunday-night-kill-at-least-four-people.md) _Context: Baden-Wurttemberg, Germany_
 2. [Germany arrests and charges a suspected perpetrator, 28-year-old Sergej W. The federal prosecutor says the suspect held put options on Borussia Dortmund shares. ](/news/2017/04/21/germany-arrests-and-charges-a-suspected-perpetrator-28-year-old-sergej-w-the-federal-prosecutor-says-the-suspect-held-put-options-on-borus.md) _Context: Germany_
 3. [German police storm a refugee center in Hamburg after a knife-wielding man barricades himself in a room with a pregnant woman believed to be his partner. The man was injured before he was arrested. ](/news/2017/02/28/german-police-storm-a-refugee-center-in-hamburg-after-a-knife-wielding-man-barricades-himself-in-a-room-with-a-pregnant-woman-believed-to-be.md) _Context: Germany_
 4. [The Abu Sayyaf militant group beheads their German hostage Jurgen Kantner in Indanan, Philippines. ](/news/2017/02/27/the-abu-sayyaf-militant-group-beheads-their-german-hostage-jurgen-kantner-in-indanan-philippines.md) _Context: Germany_

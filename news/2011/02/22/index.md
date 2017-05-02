@@ -16,7 +16,7 @@ Iranian security forces have arrested a son of opposition leader Mehdi Karoubi, 
 _Context: Buju Banton, Florida, Jamaica, drugs, reggae_
 
 ### [Moody's Investors Service downgrades Japan's credit rating due to concerns over high levels of government debt. ](/news/2011/02/22/moody-s-investors-service-downgrades-japan-s-credit-rating-due-to-concerns-over-high-levels-of-government-debt.md)
-_Context: Japan, Moody’s, credit rating, government debt_
+_Context: Japan, Moody's, credit rating, government debt_
 
 ### [The life insurance company Metlife expects to sell its Taiwan unit soon, perhaps as early as April, according to anonymous sources cited by Reuters.  Regulators blocked an early effort by MetLife to sell the same unit. ](/news/2011/02/22/the-life-insurance-company-metlife-expects-to-sell-its-taiwan-unit-soon-perhaps-as-early-as-april-according-to-anonymous-sources-cited-by.md)
 U.S. life insurer Metlife Inc (MET.N) has drawn three bidders for its Taiwan unit and is expected to seal a deal by as early as April, a source with direct knowledge of the situation said on Tuesday.
@@ -49,7 +49,7 @@ Global National with Dawna Friesen is Canada&#039;s early evening national newsc
 _Context: 2011 Bahraini protests, Hamad ibn Isa Al Khalifa, King of Bahrain_
 
 ### [The Democrats in the Indiana House of Representatives leave for other states in the U.S. rather than vote on anti-union legislation. ](/news/2011/02/22/the-democrats-in-the-indiana-house-of-representatives-leave-for-other-states-in-the-u-s-rather-than-vote-on-anti-union-legislation.md)
-_Context: Democrat, Indiana House of Representatives_
+_Context: Democratic, Indiana House of Representatives_
 
 ### [U.S. mayoral elections:Voters in the USA city of Chicago go to the polls for the Chicago mayoral election with former White House Chief of Staff Rahm Emanuel winning. ](/news/2011/02/22/u-s-mayoral-elections-pvoters-in-the-usa-city-of-chicago-go-to-the-polls-for-the-chicago-mayoral-election-with-former-white-house-chief-of.md)
 _Context: Chicago mayoral election, Chicago, Illinois, Rahm Emanuel, USA, White House Chief of Staff, elections_

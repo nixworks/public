@@ -1,10 +1,10 @@
 ## [2012-04-20](/news/2012/04/20/index.md)
 
 ### [Arab Spring:Bahraini uprising:Security is increased at the Formula 1 Grand Prix in Bahrain amid continuing demonstrations against the regime. ](/news/2012/04/20/arab-spring-pbahraini-uprising-psecurity-is-increased-at-the-formula-1-grand-prix-in-bahrain-amid-continuing-demonstrations-against-the-regi.md)
-_Context: 2011–2012 Bahraini uprising, 2012 Bahrain Grand Prix, Arab Spring, Bahrain_
+_Context: 2011-2012 Bahraini uprising, 2012 Bahrain Grand Prix, Arab Spring, Bahrain_
 
 ### [South Sudan-Sudan border conflict: South Sudan announces the withdrawal of troops from Heglig. ](/news/2012/04/20/south-sudanasudan-border-conflict-south-sudan-announces-the-withdrawal-of-troops-from-heglig.md)
-_Context: 2012 South Sudan–Sudan border conflict, Heglig, South Sudan_
+_Context: 2012 South Sudan-Sudan border conflict, Heglig, South Sudan_
 
 ### [Disney Studios chairman Rich Ross resigns, less than three years after taking the position. ](/news/2012/04/20/disney-studios-chairman-rich-ross-resigns-less-than-three-years-after-taking-the-position.md)
 The exec had a rocky tenure at the film studio, with his greatest setback being the March box-office failure &quot;John Carter.&quot;
@@ -13,7 +13,7 @@ The exec had a rocky tenure at the film studio, with his greatest setback being 
 A passenger plane carrying 127 people on board crashed in bad weather in the outskirts of the Pakistani capital of Islamabad on Friday.
 
 ### [More than 40 people are killed and 27 injured when a tractor trailer collides with a bus near Alamo, Veracruz, Mexico. ](/news/2012/04/20/more-than-40-people-are-killed-and-27-injured-when-a-tractor-trailer-collides-with-a-bus-near-alamo-veracruz-mexico.md)
-_Context: Mexico, tractor trailer, Álamo, Veracruz_
+_Context: Alamo, Veracruz, Mexico, tractor trailer_
 
 ### [Marcus Robinson, due to have been executed in 2007, is ordered off death row after North Carolina Superior Court Judge Gregory Weeks rules his trial was tainted by racial bias, grounds for cancellation of a death sentence under the state's Racial Justice Act. The judge used controversial statistical evidence of bias to grant the change of sentence. ](/news/2012/04/20/marcus-robinson-due-to-have-been-executed-in-2007-is-ordered-off-death-row-after-north-carolina-superior-court-judge-gregory-weeks-rules-h.md)
 Convicted US killer Marcus Robinson is ordered off death row after a judge determines that racial bias was evident during jury selection in his 1994 trial.

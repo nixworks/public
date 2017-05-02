@@ -22,7 +22,7 @@ A man who says he is the Afghan soldier who killed three UK soldiers in Afghanis
 Gunman Raoul Moat told social workers he wanted to see a psychiatrist months before killing a man and shooting two others, tapes reveal.
 
 ### [Four people, including celebrity photographer Francois-Marie Banier, are arrested in a tax-evasion investigation into L'Oreal heiress Liliane Bettencourt. ](/news/2010/07/15/four-people-including-celebrity-photographer-franassois-marie-banier-are-arrested-in-a-tax-evasion-investigation-into-l-ora-c-al-heiress-lili.md)
-_Context: François-Marie Banier, L'Oréal, Liliane Bettencourt_
+_Context: Francois-Marie Banier, L'Oreal, Liliane Bettencourt_
 
 ### [Robbie Williams and Take That reunite. ](/news/2010/07/15/robbie-williams-and-take-that-reunite.md)
 _Context: Robbie Williams, Take That_
@@ -37,7 +37,7 @@ The 10 Russian spies deported from the US will undergo three weeks of rigorous t
 _Context: North Korea, United Nations Command_
 
 ### [President of Venezuela Hugo Chavez orders a review of Venezuela's ties with the Vatican following tensions between the government and Roman Catholic bishops. ](/news/2010/07/15/president-of-venezuela-hugo-cha-vez-orders-a-review-of-venezuela-s-ties-with-the-vatican-following-tensions-between-the-government-and-roman.md)
-_Context: Hugo Chávez, Roman Catholic, Vatican, Venezuela, Venezuelan President, bishop, government_
+_Context: Hugo Chavez, Roman Catholic, Vatican, Venezuela, Venezuelan President, bishop, government_
 
 ### [The Vatican issues a decree making the "attempted ordination of women" a grave crime in ecclesiastical law equivalent to child sexual abuse. ](/news/2010/07/15/the-vatican-issues-a-decree-making-the-attempted-ordination-of-women-a-grave-crime-in-ecclesiastical-law-equivalent-to-child-sexual-abuse.md)
 _Context: child sexual abuse, ecclesiastical law, royal decrees, women bishops_
@@ -61,7 +61,7 @@ Right group paints bleak picture of health system lacking even basic necessities
 Argentina becomes the first Latin American country to legalise gay marriage after the Senate votes in favour.
 
 ### [President of Mexico Felipe Calderon replaces his Secretary of the Interior, Fernando Gomez Mont, after weeks of speculation. ](/news/2010/07/15/president-of-mexico-felipe-caldera3n-replaces-his-secretary-of-the-interior-fernando-gomez-mont-after-weeks-of-speculation.md)
-_Context: Felipe Calderón, Fernando Gomez Mont, President, Secretary of the Interior_
+_Context: Felipe Calderon, Fernando Gomez Mont, President, Secretary of the Interior_
 
 ### [Two major US TV networks, CBS and NBC, censor the "Kill the Ground Zero Mosque" advertisement by conservative group National Republican Trust which calls plans to erect a mosque near New York City's Ground Zero a "monstrosity".  ](/news/2010/07/15/two-major-us-tv-networks-cbs-and-nbc-censor-the-kill-the-ground-zero-mosque-advertisement-by-conservative-group-national-republican-trus.md)
 By James HibberdLOS ANGELES (Hollywood Reporter) - Two major broadcasters have rejected an advertisement that urges viewers to protest a mosque bein
@@ -70,7 +70,7 @@ By James HibberdLOS ANGELES (Hollywood Reporter) - Two major broadcasters have r
 Dick Cheney, the former US Vice President, has undergone heart surgery, he has announced.
 
 ### [President of Brazil Luiz Inacio Lula da Silva sends to Congress a bill proposing that corporal punishment, including spanking, be outlawed. ](/news/2010/07/15/president-of-brazil-luiz-ina-cio-lula-da-silva-sends-to-congress-a-bill-proposing-that-corporal-punishment-including-spanking-be-outlawed.md)
-_Context: Brazilian President, Luiz Inácio Lula da Silva, corporal punishment, spanking_
+_Context: Brazilian President, Luiz Inacio Lula da Silva, corporal punishment, spanking_
 
 ### [The United States Senate passes the financial reform package, aimed at curbing misconduct on Wall Street, with a 60-39 vote. ](/news/2010/07/15/the-united-states-senate-passes-the-financial-reform-package-aimed-at-curbing-misconduct-on-wall-street-with-a-60-39-vote.md)
 The bill aims at reigning in banks and protecting consumers from risky lending pratices.

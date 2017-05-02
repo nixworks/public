@@ -16,7 +16,7 @@ _Context: Stora Enso, UPM-Kymmene, pulp and paper company, strike_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ In Spain, regional Basque Parliament elects Juan Jose Ibarretxe as their new president ](/news/2005/06/23/in-spain-regional-basque-parliament-elects-juan-jose-ibarretxe-as-their-new-president.md)
-_Context: Basque Parliament, Juan José Ibarretxe_
+_Context: Basque Parliament, Juan Jos Ibarretxe_
 
 ### [ In Israel, Mordechai Vanunu appeals to the supreme court to order Shin Bet to release letters he wrote during his time in prison. Security service claims that the letters contain sensitive information ](/news/2005/06/23/in-israel-mordechai-vanunu-appeals-to-the-supreme-court-to-order-shin-bet-to-release-letters-he-wrote-during-his-time-in-prison-security.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

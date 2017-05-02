@@ -25,7 +25,7 @@ The Supreme Court has rejected challenges to assault weapons bans in Connecticut
 Snap election likely to be held in early September after 137 deputies in 151-seat assembly back parliament dissolution.
 
 ### [Per Venezuela's National Electoral Council's ruling, citizens  across the country queue up for  fingerprint validation of 1,850,000 signatures on referendum to recall President Nicolas Maduro. The opposition Democratic Unity Roundtable  must validate 197,000 signatures (1 percent of registered voters) by Friday, in this first step  of the recall referendum process. ](/news/2016/06/20/per-venezuela-s-national-electoral-council-s-ruling-citizens-across-the-country-queue-up-for-fingerprint-validation-of-1-850-000-signatur.md)
-_Context: 2014–16 Venezuelan protests, Democratic Unity Roundtable, National Electoral Council, Nicolás Maduro, President, Venezuela_
+_Context: 2014-16 Venezuelan protests, Democratic Unity Roundtable, National Electoral Council, Nicolas Maduro, President, Venezuela_
 
 ### [Solar Impulse 2, a plane powered only by the sun, leaves New York on the 15th leg of its round-the-world journey,  a 90-hour flight over the Atlantic Ocean to Western Europe. ](/news/2016/06/20/solar-impulse-2-a-plane-powered-only-by-the-sun-leaves-new-york-on-the-15th-leg-of-its-round-the-world-journey-a-90-hour-flight-over-the.md)
 An airplane powered solely by energy from the sun headed across the Atlantic early on Monday, on one of the longest legs of the first-ever flight around the globe without using a drop of fuel.

@@ -55,7 +55,7 @@ China successfully carries out its first ever manual docking of a spacecraft, th
 Lonesome George, a giant tortoise which became an icon for conservation on the Galapagos islands, has died, making its subspecies extinct.
 
 ### [Miki Roqu, a defender of the Spanish football club Real Betis, dies of cancer at the age of 23. ](/news/2012/06/24/miki-roque-a-defender-of-the-spanish-football-club-real-betis-dies-of-cancer-at-the-age-of-23.md)
-_Context: Miki Roqué, Real Betis_
+_Context: Miki Roqu, Real Betis_
 
 ### [UEFA Euro 2012:England lose by a penalty shoot-out, with former West Ham player Alessandro Diamanti converting from the spot at the Olimpiyskiy National Sports Complex in Kiev to take Italy through to the semi-final against Germany.  ](/news/2012/06/24/uefa-euro-2012-pengland-lose-by-a-penalty-shoot-out-with-former-west-ham-player-alessandro-diamanti-converting-from-the-spot-at-the-olimpiy.md)
 England are once again knocked out on penalties as the Azzuri make it through to the last four of Euro 2012.

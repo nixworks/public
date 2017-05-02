@@ -10,7 +10,7 @@ _Context: International Whaling Commission , Santiago_
 _Context: Nawaz Sharif, Pakistan, Pakistan Muslim League, Prime Minister, by-elections_
 
 ### [ In Serbia, the Milosevic-founded Socialist Party is to join the coalition led by the pro-Western Democratic Party which came to power in 2007 elections. ](/news/2008/06/23/in-serbia-the-miloa-evia-founded-socialist-party-is-to-join-the-coalition-led-by-the-pro-western-democratic-party-which-came-to-power-in.md)
-_Context: 2007 elections, Democratic Party, Serbia, Slobodan Milošević, Socialist Party_
+_Context: 2007 elections, Democratic Party, Serbia, Slobodan Milosevic, Socialist Party_
 
 ### [ China fires twelve officials for misconduct in the Sichuan earthquake relief effort. ](/news/2008/06/23/china-fires-twelve-officials-for-misconduct-in-the-sichuan-earthquake-relief-effort.md)
 _Context: China's, deadly earthquake_

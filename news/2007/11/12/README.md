@@ -19,7 +19,7 @@ _Context: Cognos, IBM, business intelligence_
 _Context: Madrid, anti-racism, far right_
 
 ### [ The trial of Yvan Colonna, a Corsican separatist accused of murdering former Prefect of Corse-du-Sud Claude Erignac in 1998, opens in Paris. ](/news/2007/11/12/the-trial-of-yvan-colonna-a-corsican-separatist-accused-of-murdering-former-prefect-of-corse-du-sud-claude-arignac-in-1998-opens-in-pari.md)
-_Context: Claude Érignac, Corse-du-Sud, Corsica, Yvan Colonna, prefect, separatist_
+_Context: Claude Erignac, Corse-du-Sud, Corsica, Yvan Colonna, prefect, separatist_
 
 ### [ Airbus and Boeing both win a giant order of 100 planes from Dubai Aerospace Enterprise, a United Arab Emirates jet leasing corporation. ](/news/2007/11/12/airbus-and-boeing-both-win-a-giant-order-of-100-planes-from-dubai-aerospace-enterprise-a-united-arab-emirates-jet-leasing-corporation.md)
 _Context: Airbus, Boeing, Dubai Aerospace Enterprise, United Arab Emirates_
@@ -31,7 +31,7 @@ _Context: Bharatiya Janata Party, Karnataka, government, opposition party_
 _Context: Bank of America, Citigroup, JPMorgan Chase, credit market_
 
 ### [ War in Afghanistan: The United States Army kills 15 insurgents and three civilians in the Helmand Province. ](/news/2007/11/12/war-in-afghanistan-the-united-states-army-kills-15-insurgents-and-three-civilians-in-the-helmand-province.md)
-_Context: Helmand Province, War in Afghanistan (2001–present)_
+_Context: Helmand Province, War in Afghanistan (2001-present)_
 
 ### [ Nigeria's State Security Service arrests a group of Islamic militants with suspected links to al-Qaeda. ](/news/2007/11/12/nigeria-s-state-security-service-arrests-a-group-of-islamic-militants-with-suspected-links-to-al-qaeda.md)
 _Context: Nigeria, State Security Service, al-Qaeda_
@@ -39,14 +39,14 @@ _Context: Nigeria, State Security Service, al-Qaeda_
 ### [ Thousands of Fatah supporters gather in Gaza to mark the third anniversary of Yasser Arafat's death. Hamas security forces kill seven people and wound several. ](/news/2007/11/12/thousands-of-fatah-supporters-gather-in-gaza-to-mark-the-third-anniversary-of-yasser-arafat-s-death-hamas-security-forces-kill-seven-peopl.md)
 _Context: Fatah, Gaza Strip, Hamas, Yasser Arafat_
 
-### [ 2007 Pakistani state of emergency: Pakistan Army renews air attacks in the Swat valley targeting extremists positions.{{Fact|date=December 2007}}  Foreign ministers of the Commonwealth of Nations meet in London to discuss the issue of Pakistan. They demand that President Pervez Musharraf lift the state of emergency, release political prisoners and step down as army chief by November 22, or otherwise the country will be "suspended from the Councils of the Commonwealth." ](/news/2007/11/12/2007-pakistani-state-of-emergency-p-pakistan-army-renews-air-attacks-in-the-swat-valley-targeting-extremists-positions-fact-date-december.md)
+### [ 2007 Pakistani state of emergency: Pakistan Army renews air attacks in the Swat valley targeting extremists positions.date=December 2007  Foreign ministers of the Commonwealth of Nations meet in London to discuss the issue of Pakistan. They demand that President Pervez Musharraf lift the state of emergency, release political prisoners and step down as army chief by November 22, or otherwise the country will be "suspended from the Councils of the Commonwealth." ](/news/2007/11/12/2007-pakistani-state-of-emergency-p-pakistan-army-renews-air-attacks-in-the-swat-valley-targeting-extremists-positions-date-december-2007-p.md)
 _Context: 2007 Pakistani state of emergency, Commonwealth of Nations, Foreign Minister, Pakistan, Pakistan Army, Pervez Musharraf, President, Swat, Pakistan, airstrike, political prisoner, state of emergency_
 
 ### [ Russian troops kill eight suspected militants in Makhachkala, Dagestan. ](/news/2007/11/12/russian-troops-kill-eight-suspected-militants-in-makhachkala-dagestan.md)
 _Context: Dagestan, Makhachkala, Russian Army, militant_
 
 ### [ Ceferino Namuncura is the first indigenous Argentinian to be beatified by the Roman Catholic Church. 100,000 people attend the ceremony in Chimpay. ](/news/2007/11/12/ceferino-namuncura-is-the-first-indigenous-argentinian-to-be-beatified-by-the-roman-catholic-church-100-000-people-attend-the-ceremony-in.md)
-_Context: Argentina, Ceferino Namuncurá, Chimpay, Native Americans, Roman Catholic Church, beatified_
+_Context: Argentina, Ceferino Namuncura, Chimpay, Native Americans, Roman Catholic Church, beatified_
 
 ### [ Four ships sink during a powerful storm in the Sea of Azov and Black Sea. 2,000 tonnes of fuel oil are spilled into the Strait of Kerch. Three sailors die and eight are missing. ](/news/2007/11/12/four-ships-sink-during-a-powerful-storm-in-the-sea-of-azov-and-black-sea-2-000-tonnes-of-fuel-oil-are-spilled-into-the-strait-of-kerch-th.md)
 _Context: Black Sea, Sea of Azov, Strait of Kerch, fuel oil, tonne_

@@ -1,7 +1,7 @@
 ## [2003-12-2](/news/2003/12/2/index.md)
 
 ### [Venezuelan opposition leaders claim to have gathered enough petition signatures to force a referendum to recall President Hugo Chvez; in response, the government alleges the four-day signature drive was tainted by "massive fraud". ](/news/2003/12/2/venezuelan-opposition-leaders-claim-to-have-gathered-enough-petition-signatures-to-force-a-referendum-to-recall-president-hugo-chavez-in-re.md)
-_Context: Hugo Chávez, Venezuela_
+_Context: Hugo Chvez, Venezuela_
 
 ### [The second trial of DeCSS releaser Jon Johansen begins. [http://www.ipjustice.org/media_releases/120103jj.html]](/news/2003/12/2/the-second-trial-of-decss-releaser-jon-johansen-begins-http-www-ipjustice-org-media_releases-120103jj-html.md)
 _Context: DeCSS, Jon Johansen_

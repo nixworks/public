@@ -10,7 +10,7 @@ _Context: government, management, pension reform, public-sector strikes, strike,
 _Context: Condoleezza Rice, George W. Bush, Israel, Palestinian Authority, United States, United States Secretary of State, White House, president_
 
 ### [ Portuguese Minister of Foreign Affairs Lus Amado says Zimbabwean President Robert Mugabe is not welcome at the December European Union-African Union summit in Lisbon. United Kingdom Prime Minister Gordon Brown says he will not attend if Mugabe is present. ](/news/2007/11/21/portuguese-minister-of-foreign-affairs-luis-amado-says-zimbabwean-president-robert-mugabe-is-not-welcome-at-the-december-european-union-afr.md)
-_Context: African Union, European Union, Gordon Brown, Lisbon, Luís Amado, Minister of Foreign Affairs, Portuguese, President of Zimbabwe, Prime Minster, Robert Mugabe, United Kingdom, Zimbabwe_
+_Context: African Union, European Union, Gordon Brown, Lisbon, Lus Amado, Minister of Foreign Affairs, Portuguese, President of Zimbabwe, Prime Minster, Robert Mugabe, United Kingdom, Zimbabwe_
 
 ### [ England fail to qualify for Euro 2008 after 3-2 loss to Croatia. ](/news/2007/11/21/england-fail-to-qualify-for-euro-2008-after-3-2-loss-to-croatia.md)
 _Context: Croatia, England, Euro 2008_

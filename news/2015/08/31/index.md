@@ -10,7 +10,7 @@ _Context: Alaska Native, Barack Obama, Denali, North America, executive order, p
 _Context: 2015 Atlantic hurricane season, Cape Verde, Tropical Storm Fred's_
 
 ### [A judge in Turkey charges two reporters and a support worker for ''Vice News'' with being members of Islamic State of Iraq and Levant, following their arrest a few days prior. ](/news/2015/08/31/a-judge-in-turkey-charges-two-reporters-and-a-support-worker-for-vice-news-with-being-members-of-islamic-state-of-iraq-and-levant-follo.md)
-_Context: ISIL, Turkey–PKK conflict, VICE News_
+_Context: ISIL, Turkey-PKK conflict, VICE News_
 
 ### [Minsk II implementationRiot police clash with protesters armed with firecrackers and petrol bombs outside the parliament building, in Kiev, Ukraine, leaving one national guardsman dead and around 100 people injured. ](/news/2015/08/31/minsk-ii-implementationpriot-police-clash-with-protesters-armed-with-firecrackers-and-petrol-bombs-outside-the-parliament-building-in-kiev.md)
 At least one policeman killed and 90 people injured as protesters clash with security forces outside parliament.

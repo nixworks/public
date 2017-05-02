@@ -1,6 +1,6 @@
 ### [2014-04-3](/news/2014/04/3/index.md)
 
-# Malta elected a new President of the Republic of Malta Marie Louise Coleiro Preca, the second female President after 27 years. The event carried out in Luqa, Siggiewi, Qormi, Valletta, Floriana, Malta and Attard. {{cn|date=April 2014}}
+# Malta elected a new President of the Republic of Malta Marie Louise Coleiro Preca, the second female President after 27 years. The event carried out in Luqa, Siggiewi, Qormi, Valletta, Floriana, Malta and Attard. date=April 2014
 
 
 

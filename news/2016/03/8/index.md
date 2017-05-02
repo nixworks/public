@@ -16,7 +16,7 @@ _Context: Al-Shaddadah, Defense Department, ISIL, Military intervention against 
 Celebrating women from the Philippines to Afghanistan to Poland and beyond.
 
 ### [The World Health Organization cautions pregnant women against traveling to areas where there is ongoing transmission of Zika virus, echoing earlier alerts from the  U.S. Centers for Disease Control and Prevention, and other health agencies in areas where virus infection has been prevalent. Director General Margaret Chan says  evidence strongly suggests  sexual transmission is more common than previously assumed. ](/news/2016/03/8/the-world-health-organization-cautions-pregnant-women-against-traveling-to-areas-where-there-is-ongoing-transmission-of-zika-virus-echoing.md)
-_Context: Centers for Disease Control and Prevention, Director General, Margaret Chan, World Health Organization, Zika virus, Zika virus outbreak (2015–present), sexual transmission_
+_Context: Centers for Disease Control and Prevention, Director General, Margaret Chan, World Health Organization, Zika virus, Zika virus outbreak (2015-present), sexual transmission_
 
 ### [Export restrictions placed by the commerce department of the United States against China's state-owned ZTE for alleged violations of U.S.-imposed export controls on Iran takes effect. ](/news/2016/03/8/export-restrictions-placed-by-the-commerce-department-of-the-united-states-against-china-s-state-owned-zte-for-alleged-violations-of-u-s-im.md)
 The U.S. Commerce Department is set to place export restrictions on Chinese telecoms equipment maker ZTE Corp (000063.SZ) for alleged violations of U.S. export controls on Iran, according to documents seen by Reuters.

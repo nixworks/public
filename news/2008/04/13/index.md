@@ -7,7 +7,7 @@ Trevor Immelman has become the first South African to win the US Masters in 30 y
 _Context: Robert Zoellick, World Bank_
 
 ### [ Deputy Prime Minister of Kosovo Hajredin Kui announces that the newly independent country plans to open 20 embassies abroad. ](/news/2008/04/13/deputy-prime-minister-of-kosovo-hajredin-kuci-announces-that-the-newly-independent-country-plans-to-open-20-embassies-abroad.md)
-_Context: Hajredin Kuçi, Kosovo, Prime Minister of Kosovo, embassies_
+_Context: Hajredin Kui, Kosovo, Prime Minister of Kosovo, embassies_
 
 ### [ The Prime Minister of Australia Kevin Rudd announces that current Governor of Queensland Quentin Bryce will become Australia's next Governor-General. Ms Bryce will be the first woman appointed to the role. ](/news/2008/04/13/the-prime-minister-of-australia-kevin-rudd-announces-that-current-governor-of-queensland-quentin-bryce-will-become-australia-s-next-governo.md)
 _Context: Australia, Governor, Governor General of Australia, Kevin Rudd, Prime Minister of Australia, Quentin Bryce_

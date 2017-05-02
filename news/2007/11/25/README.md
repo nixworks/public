@@ -22,9 +22,9 @@ _Context: Garry Kasparov, Russia, Russia protests of 2007_
 Officials in the Philippines say seven people have been killed in two provinces in flooding ahead of typhoon Mitag.
 
 ### [ The bodies of five Singaporeans are found after their dragon boat capsized two days ago at the end of a 1,500-metre Cambodia-ASEAN Traditional Boat Race event during the Bon Om Thook races on the Tonl Sap in Phnom Penh. 17 other members of the team survived. ](/news/2007/11/25/the-bodies-of-five-singaporeans-are-found-after-their-dragon-boat-capsized-two-days-ago-at-the-end-of-a-1-500-metre-cambodia-asean-traditio.md)
-_Context: ASEAN, Bon Om Thook, Cambodia, Phnom Penh, Singapore, Tonlé Sap, dragon boat_
+_Context: ASEAN, Bon Om Thook, Cambodia, Phnom Penh, Singapore, Tonl Sap, dragon boat_
 
-### [ 2007 Pakistani state of emergency: Former Pakistan Prime Minister Nawaz Sharif arrives at Lahore Airport with his family members.{{Fact|date=December 2007}} At least 1800 supporters of PML-N are detained in Punjab ahead of Nawaz Sharif's return from exile.{{Fact|date=December 2007}} ](/news/2007/11/25/2007-pakistani-state-of-emergency-p-former-pakistan-prime-minister-nawaz-sharif-arrives-at-lahore-airport-with-his-family-members-fact-da.md)
+### [ 2007 Pakistani state of emergency: Former Pakistan Prime Minister Nawaz Sharif arrives at Lahore Airport with his family members.date=December 2007 At least 1800 supporters of PML-N are detained in Punjab ahead of Nawaz Sharif's return from exile.date=December 2007 ](/news/2007/11/25/2007-pakistani-state-of-emergency-p-former-pakistan-prime-minister-nawaz-sharif-arrives-at-lahore-airport-with-his-family-members-date-dece.md)
 _Context: 2007 Pakistani state of emergency, Exile, Lahore, Nawaz Sharif, Pakistan, Prime Minister, Punjab, airport_
 
 ### [ President of Georgia Mikheil Saakashvili resigns his position to re-run for the early presidential election scheduled in January 2008. ](/news/2007/11/25/president-of-georgia-mikheil-saakashvili-resigns-his-position-to-re-run-for-the-early-presidential-election-scheduled-in-january-2008.md)

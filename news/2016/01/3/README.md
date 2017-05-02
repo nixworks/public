@@ -7,7 +7,7 @@ Attacks by five suicide bombers on an Iraqi military base north of Baghdad on Su
 Pathankot terror attack: Operation continues for second day; PM Modi chairs high-level meeting - Operation continues even on Sunday
 
 ### [Fiji warns residents to prepare for the impact of severe tropical cyclone Ula. ](/news/2016/01/3/fiji-warns-residents-to-prepare-for-the-impact-of-severe-tropical-cyclone-ula.md)
-_Context: 2015–16 South Pacific cyclone season, Fiji, severe tropical cyclone Ula_
+_Context: 2015-16 South Pacific cyclone season, Fiji, severe tropical cyclone Ula_
 
 ### [In the United States, New York Governor Andrew M. Cuomo orders communities statewide to place homeless people in shelters when temperatures reach freezing. ](/news/2016/01/3/in-the-united-states-new-york-governor-andrew-m-cuomo-orders-communities-statewide-to-place-homeless-people-in-shelters-when-temperatures.md)
 A roundup of news from across the nation.

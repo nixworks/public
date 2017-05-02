@@ -34,10 +34,10 @@ Get the latest international news and world events from Asia, Europe, the Middle
 The federal lawsuit also challenges a provision that mandates an aborted fetus be buried or cremated
 
 ### [The National Assembly of Vietnam approves Nguyen Xuan Phuc as the country's new prime minister, succeeding Nguyen Tan Dung. ](/news/2016/04/7/the-national-assembly-of-vietnam-approves-nguya-n-xuac-n-phaoc-as-the-country-s-new-prime-minister-succeeding-nguya-n-taoy-n-da-c-ng.md)
-_Context: Nguyễn Tấn Dũng, Nguyễn Xuân Phúc, Parliament, prime minister_
+_Context: Nguyen Tan Dung, Nguyen Xuan Phuc, Parliament, prime minister_
 
 ### [Hashim Thaci is sworn in as the new President of Kosovo. ](/news/2016/04/7/hashim-thaassi-is-sworn-in-as-the-new-president-of-kosovo.md)
-_Context: Hashim Thaçi, Kosovo, President_
+_Context: Hashim Thaci, Kosovo, President_
 
 ### [Former Vice President and opposition leader Riek Machar says he will return to the capital Juba on April 18 to form a transitional government with President Salva Kiir Mayardit in the hopes of bringing peace to South Sudan after their acrimonious split ignited more than two years of war. ](/news/2016/04/7/former-vice-president-and-opposition-leader-riek-machar-says-he-will-return-to-the-capital-juba-on-april-18-to-form-a-transitional-governmen.md)
 Former vice president says he will arrive in Juba to form transitional government with rival after two years of war.

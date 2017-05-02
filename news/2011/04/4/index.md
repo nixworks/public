@@ -1,7 +1,7 @@
 ## [2011-04-4](/news/2011/04/4/index.md)
 
 ### [2010-2011 Ivorian crisis:United Nations and French military helicopters fire on a pro-Laurent Gbagbo military camp. ](/news/2011/04/4/2010a2011-ivorian-crisis-punited-nations-and-french-military-helicopters-fire-on-a-pro-laurent-gbagbo-military-camp.md)
-_Context: 2010–2011 Ivorian crisis, French military, Laurent Gbagbo, United Nations_
+_Context: 2010-2011 Ivorian crisis, French military, Laurent Gbagbo, United Nations_
 
 ### [At least 5 people are killed during a bomb explosion at a bus station in Jandool in Lower Dir, Pakistan. ](/news/2011/04/4/at-least-5-people-are-killed-during-a-bomb-explosion-at-a-bus-station-in-jandool-in-lower-dir-pakistan.md)
 At least seven people have been killed after a suicide bomber struck a bus station in north-west Pakistan, the sixth bombing in as many days in the country.
@@ -107,7 +107,7 @@ _Context: Ivor Callely_
 US president releases email and online video announcing his intention to stand for a second term in office in 2012.
 
 ### [Musician Michel "Sweet Micky" Martelly wins the Haitian general election, 2010-2011. ](/news/2011/04/4/musician-michel-sweet-micky-martelly-wins-the-haitian-general-election-2010a2011.md)
-_Context: Haitian general election, 2010–2011, Michel "Sweet Micky" Martelly_
+_Context: Haitian general election, 2010-2011, Michel "Sweet Micky" Martelly_
 
 ### [As part of the British government's package of welfare reforms, from today the one-and-a-half million people in the United Kingdom who claim incapacity benefit will begin to receive letters asking them to attend a work capability assessment. The tests are part of government plans to reduce the number of long-term claimants and will take until 2014 to complete. ](/news/2011/04/4/as-part-of-the-british-government-s-package-of-welfare-reforms-from-today-the-one-and-a-half-million-people-in-the-united-kingdom-who-claim.md)
 The 1.5 million people who claim incapacity benefit will start to receive letters this week asking them to be tested on their ability to work.

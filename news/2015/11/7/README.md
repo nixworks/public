@@ -31,7 +31,7 @@ UNICEF and WHO collaborate in major bid to contain disease that risks spiralling
 The&#x20;World&#x20;Health&#x20;Organization&#x20;declared&#x20;Sierra&#x20;Leone&#x20;free&#x20;from&#x20;Ebola&#x20;transmissions&#x20;on&#x20;Saturday,&#x20;as&#x20;West&#x20;Africa&#x20;battles&#x20;to&#x20;stamp&#x20;out&#x20;the&#x20;deadly&#x20;virus&#x20;which&#x20;continues&#x20;to&#x20;grip&#x20;neighboring&#x20;Guinea.
 
 ### [  Chinese President Xi Jinping and Taiwanese President Ma Ying-jeou meet in Singapore, the first meeting between a Chinese and Taiwanese leader since the Chinese Communist Revolution. ](/news/2015/11/7/chinese-president-xi-jinping-and-taiwanese-president-ma-ying-jeou-meet-in-singapore-the-first-meeting-between-a-chinese-and-taiwanese-lea.md)
-_Context: 2015 Ma–Xi Meeting, Chinese Communist Revolution, Cross-Strait relations, Ma Ying-jeou, Singapore, Xi Jinping_
+_Context: 2015 Ma-Xi Meeting, Chinese Communist Revolution, Cross-Strait relations, Ma Ying-jeou, Singapore, Xi Jinping_
 
 ### [The United States and China hold joint naval exercises in the Atlantic Ocean near Naval Station Mayport, Jacksonville, Florida. The United States missile destroyer USS Mason and guided missile cruiser USS Monterey along with other ships in the Atlantic, conduct drills with China's  guided-missile frigate Yiyang, guided-missile destroyer Jinan, and oil tanker Qiandao Hu.  ](/news/2015/11/7/the-united-states-and-china-hold-joint-naval-exercises-in-the-atlantic-ocean-near-naval-station-mayport-jacksonville-florida-the-united-s.md)
 The United States and China have been conducting joint naval exercises in the Atlantic Ocean amid rising tensions in the South China Sea.

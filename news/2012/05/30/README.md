@@ -10,7 +10,7 @@ _Context: Colombia, France 24, Revolutionary Armed Forces of Colombia_
 A South African art gallery agrees not to display a painting of President Jacob Zuma with his genitals exposed after reaching a deal with the ANC.
 
 ### [It is announced that a UK concert by the Orquesta Sinfonica Simon Bolivar, Venezuela's premier youth orchestra, is to be live-streamed online on 23 and 26 June, after live tickets sold out eight months in advance. ](/news/2012/05/30/it-is-announced-that-a-uk-concert-by-the-orquesta-sinfa3nica-sima3n-bolavar-venezuela-s-premier-youth-orchestra-is-to-be-live-streamed-on.md)
-_Context: Orquesta Sinfónica Simón Bolívar, Venezuela_
+_Context: Orquesta Sinfonica Simon Bolivar, Venezuela_
 
 ### [English novelist Terry Pratchett is awarded the Bollinger Everyman Wodehouse Prize. ](/news/2012/05/30/english-novelist-terry-pratchett-is-awarded-the-bollinger-everyman-wodehouse-prize.md)
 _Context: Bollinger Everyman Wodehouse Prize, Terry Pratchett_

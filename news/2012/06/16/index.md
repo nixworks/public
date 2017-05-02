@@ -28,7 +28,7 @@ _Context: Indian state, Maharashtra, Osmanabad district, gorge_
 The undercarriage of a Blue Islands plane from Guernsey gives way after landing at Jersey Airport but nobody is injured.
 
 ### [A priest is stabbed to death in a church in the city of Focsani, Romania. ](/news/2012/06/16/a-priest-is-stabbed-to-death-in-a-church-in-the-city-of-foceani-romania.md)
-_Context: Focșani, Romania_
+_Context: Focsani, Romania_
 
 ### [One of the United States's most wanted fugitives, Air Force deserter David A. Hemler, has reportedly been living and working in Stockholm, Sweden, for the past 28 years. ](/news/2012/06/16/one-of-the-united-states-s-most-wanted-fugitives-air-force-deserter-david-a-hemler-has-reportedly-been-living-and-working-in-stockholm-s.md)
 In October 1984, a 21-year-old American Airman deserted and hitch-hiked from an Air Force base in Augsburg, Germany to Stockholm.
@@ -49,7 +49,7 @@ The U.S. Air Force&#039;s secretive X-37B space plane landed after completing it
 Uefa fines the Croatian Football Federation £65,000 after racist chanting was directed at Mario Balotelli during the Italy game.
 
 ### [Daredevil Nik Wallenda becomes the first person to walk a tightrope above the brink of Niagara Falls between the United States and Canada. ](/news/2012/06/16/daredevil-nik-wallenda-becomes-the-first-person-to-walk-a-tightrope-above-the-brink-of-niagara-falls-between-the-united-states-and-canada.md)
-_Context: Canadian, Niagara Falls, Nik Wallenda, United States, tightrope_
+_Context: Canada, Niagara Falls, Nik Wallenda, United States, tightrope_
 
 ## [Previous Day...](/news/2012/06/15/index.md)
 

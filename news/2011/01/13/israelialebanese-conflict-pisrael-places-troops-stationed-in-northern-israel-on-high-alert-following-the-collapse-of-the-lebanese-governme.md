@@ -15,7 +15,7 @@ BEIRUT: The shepherd abducted by the Israeli Army was returned to Lebanon Thursd
 
 ### Related:
 
-1. [Two rockets are  launched at Israel from Lebanon. Israel fires  20 artillery shells into Lebanon in retaliation. ](/news/2013/12/29/two-rockets-are-launched-at-israel-from-lebanon-israel-fires-20-artillery-shells-into-lebanon-in-retaliation.md) _Context: Israel, Israeli–Lebanese conflict, Lebanon_
+1. [Two rockets are  launched at Israel from Lebanon. Israel fires  20 artillery shells into Lebanon in retaliation. ](/news/2013/12/29/two-rockets-are-launched-at-israel-from-lebanon-israel-fires-20-artillery-shells-into-lebanon-in-retaliation.md) _Context: Israel, Israeli-Lebanese conflict, Lebanon_
 2. [Four Israeli soldiers are wounded by a landmine near the Lebanese border. ](/news/2013/08/7/four-israeli-soldiers-are-wounded-by-a-landmine-near-the-lebanese-border.md) _Context: Israel, Israel Defense Forces, Lebanon_
 3. [ Avivim incident: Israel Defense Forces and Lebanese Armed Forces exchange fire at the Israel-Lebanon border. ](/news/2007/02/7/avivim-incident-israel-defense-forces-and-lebanese-armed-forces-exchange-fire-at-the-israel-lebanon-border.md) _Context: Israel, Israel Defense Forces, Lebanon_
 4. [ Israeli-Palestinian Conflict: Hezbollah fires some 30 mortar shells at IDF outposts along the northern Israeli border, lightly wounding an Israeli soldier. In response, Israeli Air Force strikes Hezbollah targets in southern Lebanon. ](/news/2006/02/3/israeli-palestinian-conflict-p-hezbollah-fires-some-30-mortar-shells-at-idf-outposts-along-the-northern-israeli-border-lightly-wounding-an.md) _Context: Israel, Israel Defense Forces, Lebanon_

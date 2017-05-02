@@ -1,10 +1,10 @@
 ## [2009-10-17](/news/2009/10/17/index.md)
 
 ### [ Czech President Vclav Klaus compares the Treaty of Lisbon to  "an unstoppable speeding train" that he is being forced to sign. ](/news/2009/10/17/czech-president-vaclav-klaus-compares-the-treaty-of-lisbon-to-an-unstoppable-speeding-train-that-he-is-being-forced-to-sign.md)
-_Context: Czech, Treaty of Lisbon, Václav Klaus, president_
+_Context: Czech, Treaty of Lisbon, Vclav Klaus, president_
 
 ### [ A report into dumping of toxic waste by Trafigura in Cte d'Ivoire is published. ](/news/2009/10/17/a-report-into-dumping-of-toxic-waste-by-trafigura-in-cote-d-ivoire-is-published.md)
-_Context: Côte d'Ivoire, Trafigura, the dumped waste_
+_Context: Cte d'Ivoire, Trafigura, the dumped waste_
 
 ### [ Two police officers are killed after their police helicopter is shot down by drug gangs in Rio de Janeiro, Brazil. Ten drug traffickers were also killed in the violence. ](/news/2009/10/17/two-police-officers-are-killed-after-their-police-helicopter-is-shot-down-by-drug-gangs-in-rio-de-janeiro-brazil-ten-drug-traffickers-wer.md)
 Helicopter downed and 12 people killed in clashes between police and drug gangs.

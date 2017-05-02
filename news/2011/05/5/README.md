@@ -70,7 +70,7 @@ The people of Wales are going to the polls to elect the next Welsh Assembly Gove
 _Context: Barack Obama, Ground Zero, New York's, September 11 attacks, father's killing, president_
 
 ### [A United States Court of Appeals for the Third Circuit rules that former Olympic champion Carl Lewis be placed on the ballot for a Democrat primary election  for a New Jersey State Senate seat. ](/news/2011/05/5/a-united-states-court-of-appeals-for-the-third-circuit-rules-that-former-olympic-champion-carl-lewis-be-placed-on-the-ballot-for-a-democrat.md)
-_Context: Carl Lewis, Democrat, New Jersey State Senate, United States court, primary election_
+_Context: Carl Lewis, Democratic, New Jersey State Senate, United States court, primary election_
 
 ### [The Ivory Coast Constitutional Council confirms that Alassane Ouattara won the 2010 presidential election reversing a decision that had found in favour of the previous incumbent Laurent Gbagbo. That original decision (now reversed) had sparked a brief war. ](/news/2011/05/5/the-ivory-coast-constitutional-council-confirms-that-alassane-ouattara-won-the-2010-presidential-election-reversing-a-decision-that-had-foun.md)
 _Context: 2010 presidential election, Alassane Ouattara, Ivory Coast Constitutional Council, Laurent Gbagbo, war_

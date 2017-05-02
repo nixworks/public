@@ -28,13 +28,13 @@ GENEVA (Reuters) - Three people were killed and two wounded late on Wednesday wh
 THE PRESIDENTIAL Commission on Good Government (PCGG)-- which is tasked to pursue alleged ill-gotten wealth of the Marcoses -- has submitted a draft bill to the Palace seeking to transfer its functions to the Justice and Finance departments as it prepares to end its three-decade existence.
 
 ### [The opposition in Venezuela urges the government to be more transparent about the health of president Hugo Chavez as his inauguration approaches on January 10 amid rumours of his deteriorating health. ](/news/2013/01/2/the-opposition-in-venezuela-urges-the-government-to-be-more-transparent-about-the-health-of-president-hugo-cha-vez-as-his-inauguration-appro.md)
-_Context: Hugo Chávez, Venezuela, inauguration approaches_
+_Context: Hugo Chavez, Venezuela, inauguration approaches_
 
 ### [U.S. President Barack Obama signs the American Taxpayer Relief Act of 2012, intended to prevent the "fiscal cliff". ](/news/2013/01/2/u-s-president-barack-obama-signs-the-american-taxpayer-relief-act-of-2012-intended-to-prevent-the-fiscal-cliff.md)
 _Context: American Taxpayer Relief Act of 2012, Barack Obama, fiscal cliff, president_
 
 ### [U.S. Secretary of State Hillary Clinton is discharged from the NewYork-Presbyterian Hospital after being treated for a blood clot. ](/news/2013/01/2/u-s-secretary-of-state-hillary-clinton-is-discharged-from-the-newyorkapresbyterian-hospital-after-being-treated-for-a-blood-clot.md)
-_Context: Hillary Clinton, NewYork–Presbyterian Hospital, United States Secretary of State, blood clot_
+_Context: Hillary Clinton, NewYork-Presbyterian Hospital, United States Secretary of State, blood clot_
 
 ### [American football linebacker Ray Lewis announces he will retire at the end of the 2012 NFL season. ](/news/2013/01/2/american-football-linebacker-ray-lewis-announces-he-will-retire-at-the-end-of-the-2012-nfl-season.md)
 Baltimore Ravens linebacker Ray Lewis said Wednesday he plans to retire as the end of this season.

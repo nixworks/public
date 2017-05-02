@@ -13,7 +13,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: Beijing, China's, Chinese President, Hu Jintao, Kim Jong-il, North Korea, Pyongyang, leader_
 
 ### [ The Dresden Frauenkirche (Church of Our Lady), a Protestant Church in Dresden, Germany is re-consecrated. The church was destroyed during the bombing of Dresden in World War II. The remains of the church had been left untouched by the government of East Germany as an anti-war monument. Some 60,000 people celebrated the reopening. Both Queen Elizabeth II of the United Kingdom and German President Horst Khler said that the rebuilding was a 'symbol of reconciliation'. ](/news/2005/10/30/the-dresden-frauenkirche-church-of-our-lady-a-protestant-church-in-dresden-germany-is-re-consecrated-the-church-was-destroyed-during-t.md)
-_Context: Dresden, Dresden Frauenkirche, East Germany, Germany, Horst Köhler, President of Germany, Protestantism, Queen Elizabeth, United Kingdom, bombing of Dresden in World War II, church, consecrated_
+_Context: Dresden, Dresden Frauenkirche, East Germany, Germany, Horst Khler, President of Germany, Protestantism, Queen Elizabeth, United Kingdom, bombing of Dresden in World War II, church, consecrated_
 
 ## [Previous Day...](/news/2005/10/29/index.md)
 

@@ -1,10 +1,10 @@
 ## [2016-03-11](/news/2016/03/11/index.md)
 
 ### [The Algerian Army kills three suspected Islamist militants near the eastern city of El Oued and seizes a large quantity of weapons, including six anti-aircraft missiles. ](/news/2016/03/11/the-algerian-army-kills-three-suspected-islamist-militants-near-the-eastern-city-of-el-oued-and-seizes-a-large-quantity-of-weapons-includin.md)
-_Context: Algerian Army, El Oued, Insurgency in the Maghreb (2002–present)_
+_Context: Algerian Army, El Oued, Insurgency in the Maghreb (2002-present)_
 
 ### [More than 50 people have died in fighting in the Yemeni city of Taiz. ](/news/2016/03/11/more-than-50-people-have-died-in-fighting-in-the-yemeni-city-of-taiz.md)
-_Context: Taiz, Yemen, Yemeni Civil War (2015–present)_
+_Context: Taiz, Yemen, Yemeni Civil War (2015-present)_
 
 ### [American veterans' nonprofit charity The Wounded Warrior Project board of directors removes chief executive officer Steven Nardizzi and chief operation officer Al Giordano after an independent investigation confirms earlier news reports about lavish spending on employee perks, high overhead, and other perceived malfeasance. ](/news/2016/03/11/american-veteransa-nonprofit-charity-the-wounded-warrior-project-board-of-directors-removes-chief-executive-officer-steven-nardizzi-and-ch.md)
 _Context: Wounded Warrior Project_
@@ -19,7 +19,7 @@ _Context: General Motors, San Francisco, self-driving cars, software company_
 _Context: Emperor, Fukushima Daiichi nuclear disaster, Japan, Prime Minister, an earthquake and tsunami, recovery_
 
 ### [At least 15 people are killed by flooding and mudslides in and around Sao Paulo, Brazil, following heavy rain. ](/news/2016/03/11/at-least-15-people-are-killed-by-flooding-and-mudslides-in-and-around-sapso-paulo-brazil-following-heavy-rain.md)
-_Context: 2016 São Paulo flood and mudslide, Brazil, São Paulo_
+_Context: 2016 Sao Paulo flood and mudslide, Brazil, Sao Paulo_
 
 ### [Kim Jong-un, the supreme leader of North Korea, orders the country to conduct more tests of nuclear weapons to improve its capacity. ](/news/2016/03/11/kim-jong-un-the-supreme-leader-of-north-korea-orders-the-country-to-conduct-more-tests-of-nuclear-weapons-to-improve-its-capacity.md)
 _Context: Kim Jong-un, North Korea, North Korea and weapons of mass destruction, leader_
@@ -49,7 +49,7 @@ _Context: NASA, Scott Kelly, astronaut_
 Man-made climate change is worsening some extreme weather events, according to a report made public Friday by a top science group in Washington.
 
 ### [Newcastle United F.C. (NUFC) appoint Rafael Benitez as manager on a three-year deal after sacking Steve McClaren. ](/news/2016/03/11/newcastle-united-f-c-nufc-appoint-rafael-benatez-as-manager-on-a-three-year-deal-after-sacking-steve-mcclaren.md)
-_Context: Newcastle United F.C., Rafael Benítez, Steve McClaren_
+_Context: Newcastle United F.C., Rafael Benitez, Steve McClaren_
 
 ## [Previous Day...](/news/2016/03/10/index.md)
 

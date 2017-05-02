@@ -1,7 +1,7 @@
 ## [2009-05-24](/news/2009/05/24/index.md)
 
 ### [ Brazilian driver Hlio Castroneves wins automobile racing's 93rd Indianapolis 500. ](/news/2009/05/24/brazilian-driver-helio-castroneves-wins-automobile-racing-s-93rd-indianapolis-500.md)
-_Context: 93rd, Brazil, Hélio Castroneves, Indianapolis 500, auto racing_
+_Context: 93rd, Brazil, Hlio Castroneves, Indianapolis 500, auto racing_
 
 ### [ The Deccan Chargers defeat the Royal Challengers Bangalore to win the Indian Premier League. ](/news/2009/05/24/the-deccan-chargers-defeat-the-royal-challengers-bangalore-to-win-the-indian-premier-league.md)
 _Context: Deccan Chargers, Indian Premier League, Royal Challengers Bangalore, win_

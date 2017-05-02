@@ -1,7 +1,7 @@
 ## [2016-08-18](/news/2016/08/18/index.md)
 
 ### [Three bombings targeting police and military kill at least 12 people and wound 219 in southeast Turkey. ](/news/2016/08/18/three-bombings-targeting-police-and-military-kill-at-least-12-people-and-wound-219-in-southeast-turkey.md)
-_Context: Kurdish–Turkish conflict (2015–present), Turkey_
+_Context: Kurdish-Turkish conflict (2015-present), Turkey_
 
 ### [Syrian government warplanes bomb Kurdish-held areas of Al-Hasakah for the first time in the country's five-year civil war, killing at least 13 people. ](/news/2016/08/18/syrian-government-warplanes-bomb-kurdish-held-areas-of-al-hasakah-for-the-first-time-in-the-country-s-five-year-civil-war-killing-at-least.md)
 Syrian government jets reportedly bomb Kurdish-held areas of the north-eastern city of Hassakeh for the first time since the civil war began in 2011.
@@ -13,7 +13,7 @@ _Context: Eddie Bauer, malware_
 Former American football star Darren Sharper is sentenced to 18 years in prison in a rape case involving as many as 16 women in several US states.
 
 ### [Mexico's National Human Rights Commission says 22 people were executed by federal police during the 2015 Ecuandureo shootout in the western state of Michoacan last year.  ](/news/2016/08/18/mexico-s-national-human-rights-commission-says-22-people-were-executed-by-federal-police-during-the-2015-ecuandureo-shootout-in-the-western.md)
-_Context: 2015 Ecuandureo shootout, Michoacán, National Human Rights Commission, western_
+_Context: 2015 Ecuandureo shootout, Michoacan, National Human Rights Commission, western_
 
 ### [Proposal for a new flag of Fiji:Fiji prime minister Voreqe Bainimarama scraps plans to change the flag of Fiji as the feel-good factor envelops the Pacific nation following a first Olympic medal, a gold in men's rugby sevens. ](/news/2016/08/18/proposal-for-a-new-flag-of-fiji-pfiji-prime-minister-voreqe-bainimarama-scraps-plans-to-change-the-flag-of-fiji-as-the-feel-good-factor-enve.md)
 Prime minister says cost of changing the flag, removing British colonial symbol, was too great and should be directed at cyclone recovery work

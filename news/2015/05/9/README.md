@@ -13,7 +13,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 Ukraine&#x27;s pro-Russian rebel leader Alexander Zakharchenko said Saturday that insurgents had released two US aid workers detained for alleged spying.
 
 ### [Naxalite Maoists are holding 250 villagers hostage to protest the building of a bridge in India's Chhattisgarh state. ](/news/2015/05/9/naxalite-maoists-are-holding-250-villagers-hostage-to-protest-the-building-of-a-bridge-in-india-s-chhattisgarh-state.md)
-_Context: Chhattisgarh, India, Naxalite–Maoist insurgency_
+_Context: Chhattisgarh, India, Naxalite-Maoist insurgency_
 
 ### [Thousands of people are evacuated from the Philippines island of Luzon ahead of Typhoon Noul (Dodong). ](/news/2015/05/9/thousands-of-people-are-evacuated-from-the-philippines-island-of-luzon-ahead-of-typhoon-noul-dodong.md)
 _Context: 2015 Pacific typhoon season, Luzon, Philippines_

@@ -37,7 +37,7 @@ About 100,000 Manchester City fans line the streets for a parade celebrating the
 QPR midfielder Joey Barton accepts one Football Association charge of violent conduct, but denies a second.
 
 ### [Malaga CF player Ruud van Nistelrooy announces his retirement from professional football. ](/news/2012/05/14/ma-laga-cf-player-ruud-van-nistelrooy-announces-his-retirement-from-professional-football.md)
-_Context: Málaga, Ruud van Nistelrooy_
+_Context: Malaga, Ruud van Nistelrooy_
 
 ## [Previous Day...](/news/2012/05/13/index.md)
 

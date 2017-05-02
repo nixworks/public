@@ -19,7 +19,7 @@ Cautious optimism: Hadassah Hospital director briefs reporters, says latest CT s
 _Context: Iraq, Talafar, UH-60 Blackhawk, USA, helicopter_
 
 ### [ The president of Poland Lech Kaczynski performed a motion tabled by the prime minister Kazimierz Marcinkiewicz and dismissed the minister of finance Teresa Lubinska, nominating on her place Zyta Gilowska and giving her a position of deputy premier.](/news/2006/01/7/the-president-of-poland-lech-kaczyaski-performed-a-motion-tabled-by-the-prime-minister-kazimierz-marcinkiewicz-and-dismissed-the-minister.md)
-_Context: Kazimierz Marcinkiewicz, Lech Kaczyński, Polish Prime Minister, President of Poland, Teresa Lubińska, Zyta Gilowska, deputy premier_
+_Context: Kazimierz Marcinkiewicz, Lech Kaczynski, Polish Prime Minister, President of Poland, Teresa Lubinska, Zyta Gilowska, deputy premier_
 
 ## [Previous Day...](/news/2006/01/6/index.md)
 

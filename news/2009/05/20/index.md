@@ -13,7 +13,7 @@ _Context: Iran, Sajjil, medium-range ballistic missile, nuclear scientist, surfa
 An Indonesian military transport plane carrying 110 passengers and crew crashed and burst into flames in East Java on Wednesday, killing at least 98 people on board and on the ground, officials said.
 
 ### [ ''The Globe and Mail'' refutes portions of former Canadian Prime Minister Brian Mulroney's testimony about his relationship with German arms dealer Karlheinz Schreiber. ](/news/2009/05/20/the-globe-and-mail-refutes-portions-of-former-canadian-prime-minister-brian-mulroney-s-testimony-about-his-relationship-with-german-arm.md)
-_Context: Brian Mulroney, Canadian, Canadian Prime Minister, Germany, Karlheinz Schreiber, The Globe and Mail, global transfer of weapons, relationship_
+_Context: Brian Mulroney, Canada, Canadian Prime Minister, Germany, Karlheinz Schreiber, The Globe and Mail, global transfer of weapons, relationship_
 
 ### [ The International Security Assistance Force reports that the Taliban are using white phosphorus in the Afghanistan War. ](/news/2009/05/20/the-international-security-assistance-force-reports-that-the-taliban-are-using-white-phosphorus-in-the-afghanistan-war.md)
 _Context: Afghanistan, International Security Assistance Force, Taliban, War, white phosphorus_
@@ -22,19 +22,19 @@ _Context: Afghanistan, International Security Assistance Force, Taliban, War, wh
 _Context: Alex Salmond, Europe, First Minister, Scotland, Whitelee Wind Farm, wind farm_
 
 ### [ Three civilians die during combat between Islamist insurgents and the African Union Mission in Mogadishu, Somalia. ](/news/2009/05/20/three-civilians-die-during-combat-between-islamist-insurgents-and-the-african-union-mission-in-mogadishu-somalia.md)
-_Context: AMISOM, African Union, Mogadishu, Somalia, War in Somalia (2009–), civilian, insurgency, radical Islamists_
+_Context: AMISOM, African Union, Mogadishu, Somalia, War in Somalia (2009-), civilian, insurgency, radical Islamists_
 
 ### [ Japan's economy contracted by 4% during the first fiscal quarter of 2009. ](/news/2009/05/20/japan-s-economy-contracted-by-4-during-the-first-fiscal-quarter-of-2009.md)
 _Context: 4th quarter of 2007 and the second quarter of 2009, Japan, Japanese economy, fiscal year_
 
 ### [ Ireland's Commission to Inquire into Child Abuse concludes that the Roman Catholic Church and the Department of Education knew sexual abuse was "endemic" in boys' institutions. ](/news/2009/05/20/ireland-s-commission-to-inquire-into-child-abuse-concludes-that-the-roman-catholic-church-and-the-department-of-education-knew-sexual-abuse.md)
-_Context:  within the church, Commission to Inquire into Child Abuse, Department of Education, Republic of Ireland, Roman Catholic Church, boys’ institutions, endemic, sexual abuse_
+_Context:  within the church, Commission to Inquire into Child Abuse, Department of Education, Republic of Ireland, Roman Catholic Church, boys' institutions, endemic, sexual abuse_
 
 ### [ A car bomb kills at least 34 people and injures 72 others in Baghdad, Iraq. ](/news/2009/05/20/a-car-bomb-kills-at-least-34-people-and-injures-72-others-in-baghdad-iraq.md)
 _Context: Baghdad, Iraq, car bomb_
 
 ### [ The Provincial Police of Woodstock, Ontario, Canada, charge two people with abducting and murdering Victoria Stafford. ](/news/2009/05/20/the-provincial-police-of-woodstock-ontario-canada-charge-two-people-with-abducting-and-murdering-victoria-stafford.md)
-_Context: Canadian, Ontario, Ontario Provincial Police, Victoria Stafford, Woodstock, Ontario, abducting, murder_
+_Context: Canada, Ontario, Ontario Provincial Police, Victoria Stafford, Woodstock, Ontario, abducting, murder_
 
 ### [ FC Shakhtar Donetsk defeat SV Werder Bremen to win the final UEFA Cup. ](/news/2009/05/20/fc-shakhtar-donetsk-defeat-sv-werder-bremen-to-win-the-final-uefa-cup.md)
 Europe&#39;s football website, UEFA.com, is the official site of UEFA, the Union of European Football Associations, and the governing body of football in Europe. UEFA organises some of the most famous and prestigious football competitions on the European continent including the UEFA Champions League, the UEFA Europa League and the UEFA European Football Championship (UEFA EURO 2012, UEFA EURO 2016 etc). The website features live video streaming of many UEFA competitions together with an extensive video archive and mobile service. In addition, there is coverage of the 54 national association domestic leagues, the route to UEFA&#39;s club competitions.

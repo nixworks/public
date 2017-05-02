@@ -1,7 +1,7 @@
 ## [2005-08-10](/news/2005/08/10/index.md)
 
 ### [ In Chile, special Judge Sergio Muoz indicts Luca Hiriart and Marco Antonio Pinochet, wife and youngest son of Augusto Pinochet, on charges of tax evasion. Hiriart is confined in a military facility in Santiago and Marco Pinochet in Santiago's Capuchinos Jail [http://news.bbc.co.uk/1/hi/world/americas/4139388.stm (BBC)].](/news/2005/08/10/in-chile-special-judge-sergio-munoz-indicts-lucia-hiriart-and-marco-antonio-pinochet-wife-and-youngest-son-of-augusto-pinochet-on-charge.md)
-_Context: Augusto Pinochet, Lucía Hiriart, Marco Antonio Pinochet, Santiago, Sergio Muñoz_
+_Context: Augusto Pinochet, Luca Hiriart, Marco Antonio Pinochet, Santiago, Sergio Muoz_
 
 ### [ The Transportation Equity Act of 2005 is signed into law in the United States by President George W. Bush. ](/news/2005/08/10/the-transportation-equity-act-of-2005-is-signed-into-law-in-the-united-states-by-president-george-w-bush.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

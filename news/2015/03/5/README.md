@@ -4,7 +4,7 @@
 A militant Korean nationalist slashes the face of the US ambassador to South Korea, with the North calling it a &quot;knife shower of justice&quot;.
 
 ### [Separate attacks in Baghdad kill at least eight people. ](/news/2015/03/5/separate-attacks-in-baghdad-kill-at-least-eight-people.md)
-_Context: Baghdad, Iraqi insurgency (2011–present)_
+_Context: Baghdad, Iraqi insurgency (2011-present)_
 
 ### [Hong Kong-based luxury hotel chain Mandarin Oriental confirms that credit card data has been stolen in a hack attack on the company's network. ](/news/2015/03/5/hong-kong-based-luxury-hotel-chain-mandarin-oriental-confirms-that-credit-card-data-has-been-stolen-in-a-hack-attack-on-the-company-s-networ.md)
 _Context: Hong Kong, Mandarin Oriental_

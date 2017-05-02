@@ -40,7 +40,7 @@ Two homemade bombs exploding in quick succession killed 12 people, including 10 
 _Context: Iranian President, Mahmoud Ahmadinejad_
 
 ### [Togolese police fire tear gas at street protesters who dispute Faure Gnassingbe's presidential election triumph. ](/news/2010/03/8/togolese-police-fire-tear-gas-at-street-protesters-who-dispute-faure-gnassingba-c-s-presidential-election-triumph.md)
-_Context: Faure Gnassingbé, Togo, presidential election triumph, tear gas_
+_Context: Faure Gnassingbe, Togo, presidential election triumph, tear gas_
 
 ### [French police shoot tear gas at protesters at oil company Total S.A.'s headquarters in Paris. ](/news/2010/03/8/french-police-shoot-tear-gas-at-protesters-at-oil-company-total-s-a-s-headquarters-in-paris.md)
 Officers use tear gas after violent demonstrations over closing of Total oil depot.

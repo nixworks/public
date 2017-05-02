@@ -16,7 +16,7 @@ _Context: Discovery, Florida, Kennedy Space Center, Merritt Island, Space Shuttl
 _Context: Dubai World Cup, United Arab Emirates, Well Armed_
 
 ### [ Taliban militants destroy 12 NATO trucks in Peshawar, Pakistan. ](/news/2009/03/28/taliban-militants-destroy-12-nato-trucks-in-peshawar-pakistan.md)
-_Context: NATO, Pakistan, Peshawar, Taliban, War in Afghanistan (2001–present), militant, truck_
+_Context: NATO, Pakistan, Peshawar, Taliban, War in Afghanistan (2001-present), militant, truck_
 
 ### [ The Red River rises above 40 feet, causing emergency evacuations in Fargo, North Dakota, United States. ](/news/2009/03/28/the-red-river-rises-above-40-feet-causing-emergency-evacuations-in-fargo-north-dakota-united-states.md)
 _Context: Fargo, North Dakota, North Dakota, Red River of the North, United States, evacuation centers, rises_

@@ -1,7 +1,7 @@
 ## [2016-06-23](/news/2016/06/23/index.md)
 
 ### [According to Medecins Sans Frontieres, more than 1,200 people have died of starvation and illness at a refugee camp for those fleeing Boko Haram in northeastern Nigeria. ](/news/2016/06/23/according-to-ma-c-decins-sans-frontia-res-more-than-1-200-people-have-died-of-starvation-and-illness-at-a-refugee-camp-for-those-fleeing-boko.md)
-_Context: Boko Haram, Boko Haram insurgency, Médecins Sans Frontières, Nigeria_
+_Context: Boko Haram, Boko Haram insurgency, Medecins Sans Frontieres, Nigeria_
 
 ### [A tornado, accompanied by heavy rainfall and hailstones, kills at least 98 people and injures 800 in the eastern Chinese province of Jiangsu ](/news/2016/06/23/a-tornado-accompanied-by-heavy-rainfall-and-hailstones-kills-at-least-98-people-and-injures-800-in-the-eastern-chinese-province-of-jiangsu.md)
 A tornado, hail storms and driving rain killed at least 78 people and injured some 500 in eastern China on Thursday, flattening power lines, overturning cars and ripping roofs off houses in Jiangsu province.

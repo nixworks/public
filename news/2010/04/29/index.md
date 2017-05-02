@@ -28,7 +28,7 @@ State Department: &quot;We expect [Israel] to fulfill responsibilities.‚Äù
 At their third and final debate with a week to go before the election, the leaders of the three main parties tussled on perhaps the most pressing issue facing the country.
 
 ### [Human rights workers Beatriz Alberta Cario Trujillo and Jyri Antero Jaakkola were killed by paramilitaries in the Mexican state of Oaxaca. ](/news/2010/04/29/human-rights-workers-beatriz-alberta-carino-trujillo-and-jyri-antero-jaakkola-were-killed-by-paramilitaries-in-the-mexican-state-of-oaxaca.md)
-_Context: Beatriz Alberta CariÒo Trujillo_
+_Context: Beatriz Alberta Cario Trujillo_
 
 ### [Pakistani security forces announce that Taliban leader Hakimullah Mehsud is likely still alive, contrasting early reports that stated a January 2010 drone attack had killed him. ](/news/2010/04/29/pakistani-security-forces-announce-that-taliban-leader-hakimullah-mehsud-is-likely-still-alive-contrasting-early-reports-that-stated-a-janu.md)
 Pakistani Taliban leader Hakimullah Mahsud is alive, Pakistani security sources said Thursday, reversing assertions early this year that he had been killed in a U.S. drone missile strike. The...

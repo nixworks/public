@@ -7,7 +7,7 @@ _Context: Aden, Houthi, ISIL, Khaled Bahah, Prime Minister, Saudi-led coalition,
 Russian jets hit Islamic State targets in the Syrian city of Palmyra and the northern province of Aleppo, Syrian state television and a monitoring group said on Tuesday, in some of the heaviest Russian attacks on the hardline Islamist group.
 
 ### [Russia says it would consider extending its air-strikes against Islamic State militants in Syria to Iraq if it receives such a request from the Iraqi government. Iraqi President, Fuad Masum has recently said he would welcome this assistance. ](/news/2015/10/6/russia-says-it-would-consider-extending-its-air-strikes-against-islamic-state-militants-in-syria-to-iraq-if-it-receives-such-a-request-from.md)
-_Context: Fuad Masum, ISIL, Iraq, Iraqi Civil War (2014–present), Russia_
+_Context: Fuad Masum, ISIL, Iraq, Iraqi Civil War (2014-present), Russia_
 
 ### [A Boko Haram attack near Lake Chad kills at least 11 Chadian troops while 17 Boko Haram militants are also reportedly killed in the fighting following the pre-dawn strike on Chadian army positions. ](/news/2015/10/6/a-boko-haram-attack-near-lake-chad-kills-at-least-11-chadian-troops-while-17-boko-haram-militants-are-also-reportedly-killed-in-the-fighting.md)
 N&#x27;Djamena (AFP) - Boko Haram Islamists attacked Chadian soldiers on Tuesday, killing 11 and wounding 13, the Chadian army said, in the latest deadly raid by the militants despite a regional offensive against them. &quot;The enemy infiltrated (Chad) from the Nigerian side (of the border) to attack
@@ -25,7 +25,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 Hopes are fading in Guatemala of more survivors of a landslide on the outskirts of the capital that has killed at least 131 people and left 300 missing.
 
 ### [Israel destroys the homes of three Palestinian terrorists. Rassen and Udai abu-Jamal who committed the 2014 Jerusalem synagogue attack and Moatez Hijazi who committed the excavator rampage in Jerusalem during the 2014 Israel-Gaza conflict. ](/news/2015/10/6/israel-destroys-the-homes-of-three-palestinian-terrorists-rassen-and-udai-abu-jamal-who-committed-the-2014-jerusalem-synagogue-attack-and-m.md)
-_Context: 2014 Israel–Gaza conflict, 2014 Jerusalem synagogue attack, Israel, Israeli–Palestinian conflict, Jerusalem, Palestinian_
+_Context: 2014 Israel-Gaza conflict, 2014 Jerusalem synagogue attack, Israel, Israeli-Palestinian conflict, Jerusalem, Palestinian_
 
 ### [Associated Press reports that coup leader General Gilbert Diendere has been formally charged. ](/news/2015/10/6/associated-press-reports-that-coup-leader-general-gilbert-dienda-c-ra-c-has-been-formally-charged.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

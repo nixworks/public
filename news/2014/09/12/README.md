@@ -1,7 +1,7 @@
 ## [2014-09-12](/news/2014/09/12/index.md)
 
 ### [Central African Republic conflict (2012-present):More than 5,000 people have died in the Central African Republic in the past 9 months. ](/news/2014/09/12/central-african-republic-conflict-2012apresent-pmore-than-5-000-people-have-died-in-the-central-african-republic-in-the-past-9-months.md)
-_Context: Central African Republic conflict (2012–present), Central-African_
+_Context: Central African Republic conflict (2012-present), Central-African_
 
 ### [Russian military intervention in Ukraine:The Government of Ukraine and pro-Russian separatists exchange dozens of prisoners agreed to as part of a ceasefire a week ago. Both sides still hold thousands of prisoners. ](/news/2014/09/12/russian-military-intervention-in-ukraine-pthe-government-of-ukraine-and-pro-russian-separatists-exchange-dozens-of-prisoners-agreed-to-as-pa.md)
 Ukrainian leader said the crisis has &ldquo;no military solution&rdquo; and urged rebels to seek political accord.

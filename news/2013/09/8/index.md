@@ -10,7 +10,7 @@ Taliban militants detonated a car bomb outside an Afghan intelligence office nea
 _Context: Guatemala, Guatemala City_
 
 ### [Eleven people were killed after a collision between a minibus and a train near Iasi, Romania. ](/news/2013/09/8/eleven-people-were-killed-after-a-collision-between-a-minibus-and-a-train-near-iaei-romania.md)
-_Context: Iași, Romania, collision between a minibus and a train_
+_Context: Iasi, Romania, collision between a minibus and a train_
 
 ### [Six people were killed and nine injured after a collision between car and minibus in Jakarta, Indonesia. ](/news/2013/09/8/six-people-were-killed-and-nine-injured-after-a-collision-between-car-and-minibus-in-jakarta-indonesia.md)
 _Context: Indonesia, Jakarta_

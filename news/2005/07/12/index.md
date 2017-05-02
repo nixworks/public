@@ -40,7 +40,7 @@ _Context: Gillette, Procter & Gamble_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ In Costa Rica, fire in Rafael Angel Calderon Guardia Hospital in San Jose kills at least 18 ](/news/2005/07/12/in-costa-rica-fire-in-rafael-angel-calderon-guardia-hospital-in-san-josa-c-kills-at-least-18.md)
-_Context: Costa Rica, San José, Costa Rica_
+_Context: Costa Rica, San Jose, Costa Rica_
 
 ### [ In Myanmar (Burma), the government begins a trial against Khin Nyunt, former prime minister, accused of bribery and corruption. The trial is held inside Insein prison in Rangoon. ](/news/2005/07/12/in-myanmar-burma-the-government-begins-a-trial-against-khin-nyunt-former-prime-minister-accused-of-bribery-and-corruption-the-trial-i.md)
 _Context: Insein Prison, Khin Nyunt, Myanmar, Yangon, anti-corruption, bribes_

@@ -28,7 +28,7 @@ Police fire tear gas after thousands of war veterans attempt to storm government
 _Context: Asadho, Democratic Republic of the Congo, Mbandaka_
 
 ### [500 Greenpeace environmentalists protest against the awarding of a tender for the controversial  Belo Monte hydroelectric project  by dumping tonnes of manure at the National Electric Energy Agency's (Agencia Nacional de Energia Eletrica, ANEEL) offices in Brasilia. ](/news/2010/04/21/500-greenpeace-environmentalists-protest-against-the-awarding-of-a-tender-for-the-controversial-belo-monte-hydroelectric-project-by-dumpin.md)
-_Context: ANEEL, Agência Nacional de Energia Elétrica, Belo Monte Dam, Brasilia, Greenpeace India's, National Electric Energy Agency, manure_
+_Context: ANEEL, Agencia Nacional de Energia Eletrica, Belo Monte Dam, Brasilia, Greenpeace India's, National Electric Energy Agency, manure_
 
 ### [More than a dozen suspects are indicted in the Philippines in connection with last year's Maguindanao massacre. ](/news/2010/04/21/more-than-a-dozen-suspects-are-indicted-in-the-philippines-in-connection-with-last-year-s-maguindanao-massacre.md)
 More suspects in Philippines massacre indicted as suspected ring-leader denies guilt.

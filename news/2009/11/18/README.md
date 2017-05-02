@@ -19,13 +19,13 @@ _Context: Church of Scientology, Kevin Rudd, Nick Xenophon, Prime Minister of Au
 _Context: Corruption Perceptions Index, Somalia_
 
 ### [ Four people are killed after a bomb left over from the Vietnam War explodes as they try to remove explosive material in southern Tay Ninh Province. ](/news/2009/11/18/four-people-are-killed-after-a-bomb-left-over-from-the-vietnam-war-explodes-as-they-try-to-remove-explosive-material-in-southern-tac-y-ninh.md)
-_Context: Tây Ninh Province, Vietnam War_
+_Context: Tay Ninh Province, Vietnam War_
 
 ### [ Taiwanese universities announce they will admit mainland Chinese students for the first time next year. ](/news/2009/11/18/taiwanese-universities-announce-they-will-admit-mainland-chinese-students-for-the-first-time-next-year.md)
 _Context: Taiwan, mainland China_
 
 ### [ Senator and President ''pro tempore'' of the United States Senate Robert C. Byrd of West Virginia becomes the longest serving member in the history of the United States Congress. ](/news/2009/11/18/senator-and-president-pro-tempore-of-the-united-states-senate-robert-c-byrd-of-west-virginia-becomes-the-longest-serving-member-in-the.md)
-_Context: President pro tempore of the United States Senate, Robert C. Byrd, Senator, U.S. Congress, West Virginia, longest serving member_
+_Context: President pro tempore of the United States Senate, Robert C. Byrd, U.S. Congressional, United States Senate, West Virginia, longest serving member_
 
 ### [ Queen Elizabeth II officially opens the Parliament of the United Kingdom and delivers Her Majesty's Most Gracious Address. ](/news/2009/11/18/queen-elizabeth-ii-officially-opens-the-parliament-of-the-united-kingdom-and-delivers-her-majesty-s-most-gracious-address.md)
 The Government has unveiled its final legislative package before the General Election , with the Queen&#039;s Speech containing pledges to help the neediest pensioners and crack down on excesses in the financial sector.

@@ -7,7 +7,7 @@ Videos uploaded on YouTube appear to show graphic scenes of recent violence in C
 Tunisian police kill at least two people in the north-western town of Kef, during an attack on the local police station by protesters.
 
 ### [Cambodia says a disputed 11th Century temple has been damaged on the third day of cross border clashes with Thailand.  ([http://www.bbc.co.uk/news/world-asia-pacific-12377626 BBC])](/news/2011/02/6/cambodia-says-a-disputed-11th-century-temple-has-been-damaged-on-the-third-day-of-cross-border-clashes-with-thailand-http-www-bbc-co-u.md)
-_Context: Cambodian–Thai border stand-off_
+_Context: Cambodian-Thai border stand-off_
 
 ### [U.S.-led forces kill four civilians, including a woman, in northern Afghanistan. ](/news/2011/02/6/u-s-led-forces-kill-four-civilians-including-a-woman-in-northern-afghanistan.md)
 _Context: Afghanistan_
@@ -59,7 +59,7 @@ The Americans were held on suspicion of spying when they crossed the border alon
 _Context: Ohio, Youngstown_
 
 ### [Reputed Mexican drug cartel leader Sandra Avila Beltran is sentenced to a year in jail for weapons possession charges. ](/news/2011/02/6/reputed-mexican-drug-cartel-leader-sandra-avila-beltra-n-is-sentenced-to-a-year-in-jail-for-weapons-possession-charges.md)
-_Context: Mexican drug cartel, Sandra Ávila Beltrán_
+_Context: Mexican drug cartel, Sandra Avila Beltran_
 
 ### [Russian billionaire Ashot Egiazaryan, facing charges of financial crimes, flees to the United States claiming persecution. ](/news/2011/02/6/russian-billionaire-ashot-egiazaryan-facing-charges-of-financial-crimes-flees-to-the-united-states-claiming-persecution.md)
 _Context: Ashot Egiazaryan, Russia, United States_

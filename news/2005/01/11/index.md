@@ -10,7 +10,7 @@ _Context: 2005, Fabrizio Meoni, Paris Dakar Rally, motorcyclist_
 _Context: Audu Ogbeh, Nigeria, Olusegun Obasanjo, People's Democratic Party_
 
 ### [ Venezuelan President Hugo Chvez signs a land reform decree aimed at reducing unused and absentee-owned agricultural properties. ](/news/2005/01/11/venezuelan-president-hugo-chavez-signs-a-land-reform-decree-aimed-at-reducing-unused-and-absentee-owned-agricultural-properties.md)
-_Context: Hugo Chávez, Venezuela, absentee-owned, land reform_
+_Context: Hugo Chvez, Venezuela, absentee-owned, land reform_
 
 ### [ In Australia, 9 people are dead and 15 others are unaccounted for, in a bushfire in Eyre Peninsula, South Australia. ](/news/2005/01/11/in-australia-9-people-are-dead-and-15-others-are-unaccounted-for-in-a-bushfire-in-eyre-peninsula-south-australia.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

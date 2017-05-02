@@ -34,10 +34,10 @@ _Context: Kalonzo Musyoka, Kenya, Kenyan presidential election, Prime Minister, 
 Sen. Rand Paul declared victory Thursday after Attorney General Eric Holder assured him that the president cannot use a drone to kill a noncombatant American on U.S. soil -- an assurance Paul had sought during his 13-hour filibuster the day before. 
 
 ### [The first built Bombardier CSeries test aircraft is publicly presented during a program update event at the Montreal-Mirabel International Airport, where the manufacturer, Bombardier Aerospace, has its Final Assembly Line facility and flight test facility. ](/news/2013/03/7/the-first-built-bombardier-cseries-test-aircraft-is-publicly-presented-during-a-program-update-event-at-the-montra-c-alamirabel-internationa.md)
-_Context: Bombardier Aerospace, CS100, Montréal–Mirabel International Airport_
+_Context: Bombardier Aerospace, CS100, Montreal-Mirabel International Airport_
 
 ### [The first legs of the 2012-13 UEFA Europa League round of 16 are held across Europe. Gareth Bale helps Tottenham to a 3-0 defeat of Inter Milan. ](/news/2013/03/7/the-first-legs-of-the-2012a13-uefa-europa-league-round-of-16-are-held-across-europe-gareth-bale-helps-tottenham-to-a-3a0-defeat-of-inte.md)
-_Context: 2012–13 UEFA Europa League, Europe, Gareth Bale, Inter Milan, Tottenham Hotspur F.C., quarter-finals_
+_Context: 2012-13 UEFA Europa League, Europe, Gareth Bale, Inter Milan, Tottenham Hotspur F.C., quarter-finals_
 
 ## [Previous Day...](/news/2013/03/6/index.md)
 

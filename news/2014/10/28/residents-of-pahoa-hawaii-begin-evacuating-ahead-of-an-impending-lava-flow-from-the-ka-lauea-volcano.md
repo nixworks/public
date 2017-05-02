@@ -11,7 +11,7 @@ Residents of a Hawaiian village threatened by the Kilauea volcano are evacuated 
 
 ### Related:
 
-1. [Kilauea, a shield volcano on the island of Hawai'i, erupts lava into the ocean for the first time since 2013. ](/news/2016/07/28/ka-lauea-a-shield-volcano-on-the-island-of-hawai-i-erupts-lava-into-the-ocean-for-the-first-time-since-2013.md) _Context: Kīlauea, lava_
+1. [Kilauea, a shield volcano on the island of Hawai'i, erupts lava into the ocean for the first time since 2013. ](/news/2016/07/28/ka-lauea-a-shield-volcano-on-the-island-of-hawai-i-erupts-lava-into-the-ocean-for-the-first-time-since-2013.md) _Context: Kilauea, lava_
 2. [ Lava flows and ash explosions continue to emerge from Philippine volcano Mount Mayon while scientists predict a major eruption in the coming weeks and 30,000 people remain in temporary shelter. ](/news/2009/12/18/lava-flows-and-ash-explosions-continue-to-emerge-from-philippine-volcano-mount-mayon-while-scientists-predict-a-major-eruption-in-the-comin.md) _Context: lava, volcanic activity_
 3. [ The Llaima volcano in Chile begins emitting lava and ash, prompting evacuations and landslide warnings. ](/news/2009/04/4/the-llaima-volcano-in-chile-begins-emitting-lava-and-ash-prompting-evacuations-and-landslide-warnings.md) _Context: lava, volcanic activity_
 4. [ Five hundred people are evacuated from the slopes of Mount Karangetang, an active volcano that is spewing ash and lava, on the island of Siau in Indonesia. ](/news/2007/08/12/five-hundred-people-are-evacuated-from-the-slopes-of-mount-karangetang-an-active-volcano-that-is-spewing-ash-and-lava-on-the-island-of-si.md) _Context: lava, volcanic activity_

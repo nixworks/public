@@ -16,7 +16,7 @@ _Context: France, Indonesia AirAsia Flight 8501_
 _Context: Italian presidential election, 2015, President of Italy, Sergio Mattarella_
 
 ### [Richard von Weizsacker, who was president of West Germany from 1984 to 1990 and became the first president of reunified Germany from 1990 to 1994, dies at the age of 94. ](/news/2015/01/31/richard-von-weizsa-cker-who-was-president-of-west-germany-from-1984-to-1990-and-became-the-first-president-of-reunified-germany-from-1990-t.md)
-_Context: Richard von Weizsäcker, West Germany, reunified Germany_
+_Context: Richard von Weizsacker, West Germany, reunified Germany_
 
 ### [The Liberal National Party of Queensland loses its parliamentary majority, with outgoing Premier Campbell Newman losing his own seat of Ashgrove. It is unclear whether the Australian Labor Party, led by Annastacia Palaszczuk, has won an outright majority or if the result is a hung parliament.](/news/2015/01/31/the-liberal-national-party-of-queensland-loses-its-parliamentary-majority-with-outgoing-premier-campbell-newman-losing-his-own-seat-of-ashg.md)
 Labor looks set to pull off a stunning victory in a cliffhanger Queensland election, after securing a double-digit swing.

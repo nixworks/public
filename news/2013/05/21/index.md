@@ -22,7 +22,7 @@ Rescuers went building to building in search of victims and thousands of survivo
 This after reports that armed assailants had taken the sailors hostage and demanded a ransom. -AFP
 
 ### [Criminal investigation of Saab Automobile:Three former top executives of Swedish car manufacturer Saab Automobile, Jan-Ake Jonsson (President and CEO), Kristina Geers (Chief Counsel), and Karl Lindstrom (CFO), are arrested on suspicion of accounting fraud and tax evasion during the bankruptcy procedure of the company. ](/news/2013/05/21/criminal-investigation-of-saab-automobile-pthree-former-top-executives-of-swedish-car-manufacturer-saab-automobile-jan-ake-jonsson-presid.md)
-_Context: Jan-Åke Jonsson, Saab Automobile_
+_Context: Jan-Ake Jonsson, Saab Automobile_
 
 ### [Carl Pistorius, the brother of Paralympian athlete Oscar Pistorius, is acquitted of culpable homicide over the death of a motorcyclist in South Africa. ](/news/2013/05/21/carl-pistorius-the-brother-of-paralympian-athlete-oscar-pistorius-is-acquitted-of-culpable-homicide-over-the-death-of-a-motorcyclist-in-so.md)
 The brother of South African athletics star Oscar Pistorius, Carl, is acquitted of culpable homicide over the death of a motorcyclist in 2008.
@@ -43,7 +43,7 @@ _Context: Senate Judiciary Committee, citizenship_
 Microsoft has finally revealed its next-generation console, called Xbox One.
 
 ### [Premier League club Stoke City unexpectedly sack manager Tony Pulis after seven years in charge. Pulis led the side to the Premier League, then the 2011 FA Cup Final and the 2011-12 UEFA Europa League. ](/news/2013/05/21/premier-league-club-stoke-city-unexpectedly-sack-manager-tony-pulis-after-seven-years-in-charge-pulis-led-the-side-to-the-premier-league-t.md)
-_Context: 2011 FA Cup Final, 2011–12 UEFA Europa League, English Premier League, Stoke City, Tony Pulis_
+_Context: 2011 FA Cup Final, 2011-12 UEFA Europa League, English Premier League, Stoke City, Tony Pulis_
 
 ### [In basketball, the Cleveland Cavaliers win the NBA Draft Lottery for number one pick in the 2013 NBA Draft. ](/news/2013/05/21/in-basketball-the-cleveland-cavaliers-win-the-nba-draft-lottery-for-number-one-pick-in-the-2013-nba-draft.md)
 The NBA draft lottery could make or break teams&#39; futures.

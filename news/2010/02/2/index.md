@@ -25,7 +25,7 @@ _Context: Finance Minister of Germany, Swiss Bank, Wolfgang Schaeuble, euros, ta
 _Context: 1943, 82nd Academy Awards, Academy Award for Best Picture, Avatar, The Hurt Locker_
 
 ### [Paul Volcker testifies before the Banking Committee of the United States Senate about the so-called "Volcker rule," an administration proposal to separate banks from hedge funds and have them close down their risk-taking prop desks. ](/news/2010/02/2/paul-volcker-testifies-before-the-banking-committee-of-the-united-states-senate-about-the-so-called-volcker-rule-an-administration-propos.md)
-_Context: Paul Volcker, Senator, United States Senate Committee on Banking, Housing, and Urban Affairs, hedge funds, prop desks_
+_Context: Paul Volcker, United States Senate, United States Senate Committee on Banking, Housing, and Urban Affairs, hedge funds, prop desks_
 
 ## [Previous Day...](/news/2010/02/1/index.md)
 

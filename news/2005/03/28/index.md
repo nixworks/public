@@ -16,7 +16,7 @@ _Context: Israel, Israeli-Palestinian conflict, disengagement plan, parliament i
 _Context: Lebanon, Syria_
 
 ### [ Court in Moscow sentences director Yuri Samodurov and Lyudmila Vasilovskaya for fine of 100,000 rubles (about 2,000 or $3,600) for blasphemy because of their 2003 exhibition ''Caution! Religion''. ](/news/2005/03/28/court-in-moscow-sentences-director-yuri-samodurov-and-lyudmila-vasilovskaya-for-fine-of-100-000-rubles-about-ps2-000-or-3-600-for-blasphe.md)
-_Context: Caution! Religion, Lyudmila Vasilovskaya, Moscow, Yuri Samodurov, blasphemy, rubles, £_
+_Context: Caution! Religion, Lyudmila Vasilovskaya, Moscow, PS, Yuri Samodurov, blasphemy, rubles_
 
 ### [ In Zimbabwe, archbishop Pius Ncube calls for peaceful uprising against the government of Robert Mugabe. Government denounces his criticism.  ](/news/2005/03/28/in-zimbabwe-archbishop-pius-ncube-calls-for-peaceful-uprising-against-the-government-of-robert-mugabe-government-denounces-his-criticism.md)
 _Context: Archbishop, Pius Ncube, Robert Mugabe, Zimbabwe_

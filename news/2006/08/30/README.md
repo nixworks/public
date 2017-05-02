@@ -16,7 +16,7 @@ BOULDER, Colorado – Ground controllers today successfully performed a major ma
 _Context: Gaza, Israel, Palestinian_
 
 ### [ Mexican presidential candidate Andres Manuel Lopez Obrador vows to form a parallel government following the Federal Electoral Tribunal's ruling that Felipe Calderon won the presidential election. ](/news/2006/08/30/mexican-presidential-candidate-andra-c-s-manuel-la3pez-obrador-vows-to-form-a-parallel-government-following-the-federal-electoral-tribunal-s.md)
-_Context: Andrés Manuel López Obrador, Federal Electoral Tribunal, Felipe Calderón, Mexican President, Mexican general election_
+_Context: Andres Manuel Lopez Obrador, Federal Electoral Tribunal, Felipe Calderon, Mexican President, Mexican general election_
 
 ### [ Former United States Deputy Secretary of State Richard Armitage originally revealed the identity of Valerie Plame to columnist Robert Novak in 2003. ](/news/2006/08/30/former-united-states-deputy-secretary-of-state-richard-armitage-originally-revealed-the-identity-of-valerie-plame-to-columnist-robert-novak.md)
 _Context: 2003, Richard Armitage, Robert Novak, US Deputy Secretary of State, Valerie Plame_

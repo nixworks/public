@@ -1,6 +1,6 @@
 ### [2007-10-8](/news/2007/10/8/index.md)
 
-#  H D Kumaraswamy resigns as Chief Minister of the Indian state of Karnataka. Governor Rameshwar Thakur is likely to recommend presidential rule till further elections.{{Fact|date=December 2007}} 
+#  H D Kumaraswamy resigns as Chief Minister of the Indian state of Karnataka. Governor Rameshwar Thakur is likely to recommend presidential rule till further elections.date=December 2007 
 
 
 

@@ -16,7 +16,7 @@ _Context: Appellate Committee of the House of Lords, Gary McKinnon, NASA, The Pe
 _Context: Australia, Australian Transport Safety Bureau, Qantas Flight 30, oxygen cylinder, safety_
 
 ### [ Bosnian Serb leader Radovan Karadzic is flown to The Hague to face a trial in the International Criminal Tribunal for the former Yugoslavia. ](/news/2008/07/30/bosnian-serb-leader-radovan-karada3-4ia-is-flown-to-the-hague-to-face-a-trial-in-the-international-criminal-tribunal-for-the-former-yugoslav.md)
-_Context: Bosnian Serb, International Criminal Tribunal for the former Yugoslavia, Radovan Karadžić, The Hague_
+_Context: Bosnian Serb, International Criminal Tribunal for the former Yugoslavia, Radovan Karadzic, The Hague_
 
 ### [ NASA confirms liquid lake on Titan. ](/news/2008/07/30/nasa-confirms-liquid-lake-on-titan.md)
 _Context: NASA, Titan_

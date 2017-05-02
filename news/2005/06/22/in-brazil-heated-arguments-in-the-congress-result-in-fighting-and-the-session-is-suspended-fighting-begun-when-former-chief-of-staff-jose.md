@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ In Brazil, minister Jos Dirceu resigns due to allegations that he knew about bribery but insists that he is innocent ](/news/2005/06/16/in-brazil-minister-jose-dirceu-resigns-due-to-allegations-that-he-knew-about-bribery-but-insists-that-he-is-innocent.md) _Context: Brazil, José Dirceu_
+1. [ In Brazil, minister Jos Dirceu resigns due to allegations that he knew about bribery but insists that he is innocent ](/news/2005/06/16/in-brazil-minister-jose-dirceu-resigns-due-to-allegations-that-he-knew-about-bribery-but-insists-that-he-is-innocent.md) _Context: Brazil, Jos Dirceu_
 2. [A general strike is held in Brazil, the first one in twenty years. ](/news/2017/04/28/a-general-strike-is-held-in-brazil-the-first-one-in-twenty-years.md) _Context: Brazil_
 3. [In Paraguay, around 50 armed men, allegedly belonging to the Brazil-based Primeiro Comando da Capital criminal gang, storm a security vault and police headquarters in Ciudad del Este, escaping with around $6 million in a daring cross-border raid. ](/news/2017/04/24/in-paraguay-around-50-armed-men-allegedly-belonging-to-the-brazil-based-primeiro-comando-da-capital-criminal-gang-storm-a-security-vault.md) _Context: Brazil_
 4. [SpaceX successfully launches the EchoStar 23 satellite, a Direct-to-home television broadcast services for Brazil, into a geosynchronous transfer orbit, using the fully expendable version of their Falcon 9 launch vehicle. ](/news/2017/03/16/spacex-successfully-launches-the-echostar-23-satellite-a-direct-to-home-television-broadcast-services-for-brazil-into-a-geosynchronous-tra.md) _Context: Brazil_

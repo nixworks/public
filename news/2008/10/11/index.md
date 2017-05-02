@@ -1,7 +1,7 @@
 ## [2008-10-11](/news/2008/10/11/index.md)
 
 ### [ Global financial crisis of September-October 2008:](/news/2008/10/11/global-financial-crisis-of-septemberaoctober-2008.md)
-_Context: Global financial crisis of September–October 2008_
+_Context: Global financial crisis of September-October 2008_
 
 ### [United States President George W. Bush commits to collaborative action with G7 finance ministers. ](/news/2008/10/11/united-states-president-george-w-bush-commits-to-collaborative-action-with-g7-finance-ministers.md)
 _Context: G7, George W. Bush, United States, president_
@@ -34,7 +34,7 @@ _Context: Interpol, Khoo Boon Hui, Police Commissioner, Singapore_
 EU MONITORS in Georgia have confirmed that Russian forces have dismantled 17 checkpoints, one signals post and one military base&hellip;
 
 ### [ Austrian right-wing politician  and Governor of Carinthia Jorg Haider is killed in an automobile accident near Klagenfurt in Carinthia, his political stronghold. ](/news/2008/10/11/austrian-right-wing-politician-and-governor-of-carinthia-japrg-haider-is-killed-in-an-automobile-accident-near-klagenfurt-in-carinthia-hi.md)
-_Context: Austria, Carinthia, Governor, Jörg Haider, Klagenfurt_
+_Context: Austria, Carinthia, Governor, Jorg Haider, Klagenfurt_
 
 ### [ Extrajudicial killings in the Philippines decrease as noted by the Commission on Human Rights. [http://newsinfo.inquirer.net/breakingnews/nation/view/20081011-165882/Extrajudicial-killings-down-CHR-notes (Inquirer)].](/news/2008/10/11/extrajudicial-killings-in-the-philippines-decrease-as-noted-by-the-commission-on-human-rights-http-newsinfo-inquirer-net-breakingnews-n.md)
 _Context: Commission on Human Rights, Philippines, kill_

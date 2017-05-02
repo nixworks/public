@@ -28,7 +28,7 @@ _Context: Luxembourg, Skype, eBay_
 _Context: Hong Kong, Hong Kong Disneyland, The Walt Disney Company_
 
 ### [ Premier Dalton McGuinty of Ontario, Canada rejects the use of Islamic sharia law as well as religious arbitration of all other faiths, declaring that one public law is to be used for all family disputes.  The decision follows a year of debate and worldwide protests. ](/news/2005/09/12/premier-dalton-mcguinty-of-ontario-canada-rejects-the-use-of-islamic-sharia-law-as-well-as-religious-arbitration-of-all-other-faiths-decl.md)
-_Context: Canadian, Dalton McGuinty, Islamic, Ontario, Premier, Sharia law, arbitration_
+_Context: Canada, Dalton McGuinty, Islamic, Ontario, Premier, Sharia law, arbitration_
 
 ### [ Oracle Corporation announced that it has agreed to purchase Siebel Systems for approximately $5.85 billion in cash. ](/news/2005/09/12/oracle-corporation-announced-that-it-has-agreed-to-purchase-siebel-systems-for-approximately-5-85-billion-in-cash.md)
 _Context: Oracle Corporation, Siebel Systems_

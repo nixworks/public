@@ -1,6 +1,6 @@
 ### [2006-02-6](/news/2006/02/6/index.md)
 
-#  Mauritania denounces amendments to an oil contract made by former leader Maaouiya Ould Taya with Woodside Petroleum. The Mauritanian authorities declare that the amendments were signed "outside the legal framework of normal practice, to the great detriment of our country", and could cost Mauritania up to {{Nowrap|$200 million}} a year. 
+#  Mauritania denounces amendments to an oil contract made by former leader Maaouiya Ould Taya with Woodside Petroleum. The Mauritanian authorities declare that the amendments were signed "outside the legal framework of normal practice, to the great detriment of our country", and could cost Mauritania up to $200 million a year. 
 
 
 

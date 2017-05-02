@@ -40,7 +40,7 @@ _Context: Hyderabad, Indian Navy, air show_
 _Context: Elections in the Netherlands, municipal council, municipalities_
 
 ### [A BBC investigation claims millions of dollars in Western aid donated to the 1984-1985 famine in Ethiopia was stolen by rebels who used it to purchase weapons. ](/news/2010/03/3/a-bbc-investigation-claims-millions-of-dollars-in-western-aid-donated-to-the-1984a1985-famine-in-ethiopia-was-stolen-by-rebels-who-used-it.md)
-_Context: 1984–1985 famine in Ethiopia, BBC_
+_Context: 1984-1985 famine in Ethiopia, BBC_
 
 ### [''The Hurt Locker'':Nicolas Chartier, producer of ''The Hurt Locker'', is banned from the 82nd Academy Awards after an e-mail is found to be a violation of rules. ](/news/2010/03/3/the-hurt-locker-pnicolas-chartier-producer-of-the-hurt-locker-is-banned-from-the-82nd-academy-awards-after-an-e-mail-is-found-to-b.md)
 _Context: 82nd Academy Awards, Nicolas Chartier, The Hurt Locker, e-mail_

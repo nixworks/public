@@ -13,7 +13,7 @@ Mayor Michael R. Bloomberg of New York, a former Democrat, is changing his affil
 _Context: North Korea, Sea of Japan, test-fired a short-range missile_
 
 ### [ Two armed robbers are holding several people hostage in a Crdit Lyonnais bank in Paris. ](/news/2007/06/19/two-armed-robbers-are-holding-several-people-hostage-in-a-credit-lyonnais-bank-in-paris.md)
-_Context: Crédit Lyonnais, hostage_
+_Context: Crdit Lyonnais, hostage_
 
 ### [ Cadbury Schweppes announces plans to axe around 7,800 jobs from its workforce, closing as many as ten manufacturing sites worldwide. ](/news/2007/06/19/cadbury-schweppes-announces-plans-to-axe-around-7-800-jobs-from-its-workforce-closing-as-many-as-ten-manufacturing-sites-worldwide.md)
 _Context: Cadbury Schweppes_
@@ -31,7 +31,7 @@ _Context: 2009, European Union, Fiji, Pacific Islands Forum, election_
 One of the candidates in Papua New Guinea&#039;s elections has been charged with attempting to murder the country&#039;s deputy Prime Minister.
 
 ### [ After Senegal's parliamentary elections, Macky Sall resigns as Prime Minister and President Abdoulaye Wade appoints former Deputy Minister for the Budget Cheikh Hadjibou Soumar in his stead.](/news/2007/06/19/after-senegal-s-parliamentary-elections-macky-sall-resigns-as-prime-minister-and-president-abdoulaye-wade-appoints-former-deputy-minister.md)
-_Context: Abdoulaye Wade, Cheikh Hadjibou Soumaré, Macky Sall, President, Prime Minister of Senegal, Senegal, parliamentary elections_
+_Context: Abdoulaye Wade, Cheikh Hadjibou Soumar, Macky Sall, President, Prime Minister of Senegal, Senegal, parliamentary elections_
 
 ## [Previous Day...](/news/2007/06/18/index.md)
 

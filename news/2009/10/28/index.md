@@ -1,7 +1,7 @@
 ## [2009-10-28](/news/2009/10/28/index.md)
 
 ### [ Canadian folk singer Taylor Mitchell is mauled to death by coyotes at the age of 19. ](/news/2009/10/28/canadian-folk-singer-taylor-mitchell-is-mauled-to-death-by-coyotes-at-the-age-of-19.md)
-_Context: Canadian, Taylor Mitchell, coyote, folk_
+_Context: Canada, Taylor Mitchell, coyote, folk_
 
 ### [ Voters in Mozambique go to the polls for the general election. ](/news/2009/10/28/voters-in-mozambique-go-to-the-polls-for-the-general-election.md)
 _Context: Mozambique, general election_
@@ -34,7 +34,7 @@ _Context: Manfred Nowak, United Nations, Zimbabwe_
 Interior ministry tells Gazans not to co-operate with elections called by president.
 
 ### [ Mongolia's parliament approves the resignation of Prime Minister Sanjaagiin Bayar, who stepped down due to ill health. He was replaced by the Foreign Minister Skhbaataryn Batbold. ](/news/2009/10/28/mongolia-s-parliament-approves-the-resignation-of-prime-minister-sanjaagiin-bayar-who-stepped-down-due-to-ill-health-he-was-replaced-by-t.md)
-_Context: Mongolia, Prime Minister, Sanjaagiin Bayar, Sükhbaataryn Batbold_
+_Context: Mongolia, Prime Minister, Sanjaagiin Bayar, Skhbaataryn Batbold_
 
 ### [ The main opposition Democratic Party wins three out of five seats in by-elections in South Korea. ](/news/2009/10/28/the-main-opposition-democratic-party-wins-three-out-of-five-seats-in-by-elections-in-south-korea.md)
 _Context: Democratic Party, South Korea_

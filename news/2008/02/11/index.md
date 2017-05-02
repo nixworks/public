@@ -7,10 +7,10 @@ _Context: China Arnold, microwaved, mistrial_
 _Context: Capital punishment in the United States, Khalid Sheikh Mohammed, September 11, 2001 attacks, United States, al-Qaeda, files charges against, murder, war crimes_
 
 ### [ Paintings by Paul Czanne, Edgar Degas, Vincent van Gogh, and Claude Monet are stolen from the Foundation E.G. Bhrle, a museum in Zrich. ](/news/2008/02/11/paintings-by-paul-cezanne-edgar-degas-vincent-van-gogh-and-claude-monet-are-stolen-from-the-foundation-e-g-buhrle-a-museum-in-zurich.md)
-_Context: Edgar Degas, Foundation E.G. Bührle, Monet, Paul Cézanne, Van Gogh, Zurich, museum, painter_
+_Context: Edgar Degas, Foundation E.G. Bhrle, Monet, Paul Czanne, Van Gogh, Zurich, museum, painter_
 
 ### [ 2008 East Timor assassination attempts:  President of East Timor Jos Ramos-Horta is shot and wounded in an attack at his home. Rebel leader Alfredo Reinhado, who led the attack, is killed. [http://www.abc.net.au/news/stories/2008/02/11/2159179.htm (ABC News Australia)] [http://news.theage.com.au/ramoshorta-critical-on-arrival-in-nt/20080211-1rgx.html (''Melbourne Age'')] Prime Minister of East Timor Xanana Gusmo escapes unhurt from an attack on his motorcade.](/news/2008/02/11/2008-east-timor-assassination-attempts-p-president-of-east-timor-jose-ramos-horta-is-shot-and-wounded-in-an-attack-at-his-home-rebel-lead.md)
-_Context: 2008 East Timor assassination attempts, Alfredo Reinhado, Jose Ramos-Horta, President, Prime Minister of East Timor, Xanana Gusmão_
+_Context: 2008 East Timor assassination attempts, Alfredo Reinhado, Jose Ramos-Horta, President, Prime Minister of East Timor, Xanana Gusmo_
 
 ### [ The Singapore Flyer, the largest Ferris wheel in the world (30 meters higher than London Eye), starts to turn. ](/news/2008/02/11/the-singapore-flyer-the-largest-ferris-wheel-in-the-world-30-meters-higher-than-london-eye-starts-to-turn.md)
 _Context: Ferris wheel, London Eye, The Singapore Flyer_

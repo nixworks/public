@@ -1,7 +1,7 @@
 ## [2015-12-12](/news/2015/12/12/index.md)
 
 ### [A suicide bomber attacks an Iraqi Army post in Al Anbar Governorate on the border with Saudi Arabia, killing at least six guards. ](/news/2015/12/12/a-suicide-bomber-attacks-an-iraqi-army-post-in-al-anbar-governorate-on-the-border-with-saudi-arabia-killing-at-least-six-guards.md)
-_Context: Anbar province, Iraqi Army, Iraqi Civil War (2014–present), Saudi Arabia, suicide bomber_
+_Context: Anbar province, Iraqi Army, Iraqi Civil War (2014-present), Saudi Arabia, suicide bomber_
 
 ### [Sixteen people are killed and many more injured by a car bomb and a second, delayed explosion  near a hospital in Syria's mainly Alawite, government-controlled neighborhood of al-Zahra, east of  Homs' old city, the Syrian Observatory for Human Rights reports. The attack comes just five days  after the government and rebels agreed on a local ceasefire in the western al-Waer suburb. ](/news/2015/12/12/sixteen-people-are-killed-and-many-more-injured-by-a-car-bomb-and-a-second-delayed-explosion-near-a-hospital-in-syria-s-mainly-alawite-go.md)
 Syria has suffered another day of death and destruction. This time in the central city of Homs. At least 16 people were killed and scores more

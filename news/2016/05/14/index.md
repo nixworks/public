@@ -1,7 +1,7 @@
 ## [2016-05-14](/news/2016/05/14/index.md)
 
 ### [At least two people are killed and 12 injured after a suicide bomb attack on a police training center in Helmand Province. ](/news/2016/05/14/at-least-two-people-are-killed-and-12-injured-after-a-suicide-bomb-attack-on-a-police-training-center-in-helmand-province.md)
-_Context: Afghan security forces, Helmand Province, War in Afghanistan (2015–present), suicide bomb_
+_Context: Afghan security forces, Helmand Province, War in Afghanistan (2015-present), suicide bomb_
 
 ### [Turkey's Anadolu Agency reports that 45 Islamic State of Iraq and the Levant militants have been killed by a combination  of Turkish Army shelling and a U.S. air strike north of Aleppo. ](/news/2016/05/14/turkey-s-anadolu-agency-reports-that-45-islamic-state-of-iraq-and-the-levant-militants-have-been-killed-by-a-combination-of-turkish-army-sh.md)
 MIDEAST CRISIS/SYRIA-TURKEY:Turkish shelling, coalition air strike kills 45 IS militants in Syria-Anadolu

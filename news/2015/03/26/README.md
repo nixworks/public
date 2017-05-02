@@ -1,7 +1,7 @@
 ## [2015-03-26](/news/2015/03/26/index.md)
 
 ### [The Saudi Arabian Air Force launches airstrikes on Sana'a International Airport and Yemen's al Dulaimi military airport resulting in at least 17 deaths. ](/news/2015/03/26/the-saudi-arabian-air-force-launches-airstrikes-on-sana-a-international-airport-and-yemen-s-al-dulaimi-military-airport-resulting-in-at-leas.md)
-_Context: Aftermath of the 2014–15 Yemeni coup d'état, Royal Saudi Air Force, Sana'a International Airport, Saudi Arabia, Yemen, attacks_
+_Context: Aftermath of the 2014-15 Yemeni coup d'etat, Royal Saudi Air Force, Sana'a International Airport, Saudi Arabia, Yemen, attacks_
 
 ### [Leicester Cathedral reburies the remains of King Richard III of England. ](/news/2015/03/26/leicester-cathedral-reburies-the-remains-of-king-richard-iii-of-england.md)
 On the eve of King Richard III&#039;s reburial, his relatives visit Bosworth Battlefield, where he was killed 530 years ago.
@@ -22,7 +22,7 @@ Thai authorities say two passenger trains have collided north of Thailand&#39;s 
 Engineers say the chopper can still be fixed for further use
 
 ### [Massive floods affect the Chilean regions of Antofagasta, Atacama and Coquimbo, killing at least 15 people and causing the total destruction of cities as Chanaral and several damages in Copiapo. ](/news/2015/03/26/massive-floods-affect-the-chilean-regions-of-antofagasta-atacama-and-coquimbo-killing-at-least-15-people-and-causing-the-total-destruction.md)
-_Context: Antofagasta, Atacama, Chañaral, Copiapo, Coquimbo_
+_Context: Antofagasta, Atacama, Chanaral, Copiapo, Coquimbo_
 
 ### [After the recent March 17 DOS attack on Chinese website GreatFire (See March 19), a massive distributed denial-of-service attack from China occurs against GitHub, a leading online coding platform, with the Github-hosted GreatFire contents being the main target. ](/news/2015/03/26/after-the-recent-march-17-dos-attack-on-chinese-website-greatfire-see-march-19-a-massive-distributed-denial-of-service-attack-from-china.md)
 Last night, GitHub was hit with a massive denial of service attack. Some time Wednesday, scripts belonging to the internet giant Baidu began directing traffic to two specific GitHub pages: one run...

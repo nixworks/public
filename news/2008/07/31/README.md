@@ -13,7 +13,7 @@ _Context: Hawker 800, Owatonna, Minnesota, Raytheon, Wikinews Article_
 _Context: Deval Patrick, Massachusetts, Massachusetts governor, homosexuality, to get married_
 
 ### [ Radovan Karadzic, former Bosnian Serb leader, announces that he will defend himself at his trial for war crimes at the International Criminal Tribunal for the former Yugoslavia. ](/news/2008/07/31/radovan-karada3-4ia-former-bosnian-serb-leader-announces-that-he-will-defend-himself-at-his-trial-for-war-crimes-at-the-international-crim.md)
-_Context: Bosnian Serb, International Criminal Tribunal for the former Yugoslavia, Radovan Karadžić, war crimes_
+_Context: Bosnian Serb, International Criminal Tribunal for the former Yugoslavia, Radovan Karadzic, war crimes_
 
 ### [ Anwar Ibrahim, former Deputy Prime Minister of Malaysia, will contest a by-election to return to parliament after his wife Wan Azizah Wan Ismail vacated her Permatang Pauh seat in Penang. ](/news/2008/07/31/anwar-ibrahim-former-deputy-prime-minister-of-malaysia-will-contest-a-by-election-to-return-to-parliament-after-his-wife-wan-azizah-wan-i.md)
 _Context: Anwar Ibrahim, Deputy Prime Minister, Parliament of Malaysia, Penang, Permatang Pauh, Wan Azizah Wan Ismail, by-election in Permatang Pauh_

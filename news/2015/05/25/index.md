@@ -49,7 +49,7 @@ LONDON (AP) — Britain&#8217;s prime minister on Monday outlined who will be al
 Suriname goes to the polls in general elections on Monday with its convicted drug trafficker president striving to tighten his controversial grip on the reins of power. The colorful Desi Bouterse, who has ruled the small South American country on and off since 1980, is seeking to dispense with his alliance
 
 ### [Two recent polls indicate that the ruling party in Republic of Turkey, the Justice and Development Party of Recep Tayyip Erdogan, is in danger of losing its parliamentary majority in the June 7 election. ](/news/2015/05/25/two-recent-polls-indicate-that-the-ruling-party-in-republic-of-turkey-the-justice-and-development-party-of-recep-tayyip-erdoaan-is-in-dan.md)
-_Context: Recep Tayyip Erdoğan, Republic of Turkey, election in June, ruling party_
+_Context: Recep Tayyip Erdogan, Republic of Turkey, election in June, ruling party_
 
 ## [Previous Day...](/news/2015/05/24/index.md)
 

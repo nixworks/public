@@ -28,7 +28,7 @@ _Context: Uruguay, elect_
 _Context: Easter Island, referendum_
 
 ### [ The oil refinery fire continues to burn out of control in Catao, Puerto Rico, two days after the initial explosion. ](/news/2009/10/25/the-oil-refinery-fire-continues-to-burn-out-of-control-in-catano-puerto-rico-two-days-after-the-initial-explosion.md)
-_Context: Cataño, Puerto Rico, oil refinery fire_
+_Context: Catao, Puerto Rico, oil refinery fire_
 
 ### [ Buildings across the Netherlands&mdash;St. Martin's Cathedral, Utrecht, Rotterdam's Euromast and Groningen's Martinitoren&mdash;dim their lights as clocks go back in Europe. ](/news/2009/10/25/buildings-across-the-netherlands-mdash-st-martin-s-cathedral-utrecht-rotterdam-s-euromast-and-groningen-s-martinitoren-mdash-dim-their-l.md)
 _Context: Euromast, Europe, Groningen, Martinitoren, Netherlands, Rotterdam, St. Martin's Cathedral, Utrecht_

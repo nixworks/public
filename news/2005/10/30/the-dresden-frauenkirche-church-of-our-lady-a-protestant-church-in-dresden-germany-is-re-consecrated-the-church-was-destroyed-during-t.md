@@ -15,7 +15,7 @@
 
 ### Related:
 
-1. [ Germany's Federal Assembly re-elects Horst Khler as President. ](/news/2009/05/23/germany-s-federal-assembly-re-elects-horst-kohler-as-president.md) _Context: Germany, Horst Köhler, President of Germany_
+1. [ Germany's Federal Assembly re-elects Horst Khler as President. ](/news/2009/05/23/germany-s-federal-assembly-re-elects-horst-kohler-as-president.md) _Context: Germany, Horst Khler, President of Germany_
 2. [The 64th annual conference of the secretive Bilderberg Group takes place at the Taschenbergpalais hotel in Dresden, Germany. ](/news/2016/06/9/the-64th-annual-conference-of-the-secretive-bilderberg-group-takes-place-at-the-taschenbergpalais-hotel-in-dresden-germany.md) _Context: Dresden, Germany_
 3. [Diplomats from Germany, France, Italy, the Netherlands, Belgium, and Luxembourg meet in Berlin to discuss the consequences of the United Kingdom voting to leave the European Union. ](/news/2016/06/25/diplomats-from-germany-france-italy-the-netherlands-belgium-and-luxembourg-meet-in-berlin-to-discuss-the-consequences-of-the-united-kin.md) _Context: Germany, United Kingdom_
 4. [Lutz Bachmann, the leader of the German far-right and anti-Islam Pegida movement,  goes on trial in Dresden on charges of hate speech. ](/news/2016/04/19/lutz-bachmann-the-leader-of-the-german-far-right-and-anti-islam-pegida-movement-goes-on-trial-in-dresden-on-charges-of-hate-speech.md) _Context: Dresden, Germany_

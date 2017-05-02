@@ -19,7 +19,7 @@ _Context: Apple Inc., Tim Cook_
 _Context: Arcadian Management Services, Humana, U.S. Justice Department, antitrust laws, health insurance_
 
 ### [The President of Sudan Omar Hassan al-Bashir cancels planned meetings with the government of South Sudan following border clashes yesterday. ](/news/2012/03/27/the-president-of-sudan-omar-hassan-al-bashir-cancels-planned-meetings-with-the-government-of-south-sudan-following-border-clashes-yesterday.md)
-_Context: 2012 South Sudan–Sudan border conflict, Omar Hassan al-Bashir, South Sudan, Sudan, Sudanese President_
+_Context: 2012 South Sudan-Sudan border conflict, Omar Hassan al-Bashir, South Sudan, Sudan, Sudanese President_
 
 ### [World leaders meet at a summit in Seoul, South Korea, to discuss nuclear security. ](/news/2012/03/27/world-leaders-meet-at-a-summit-in-seoul-south-korea-to-discuss-nuclear-security.md)
 _Context: Seoul, South Korea_

@@ -28,7 +28,7 @@ News and opinion from The Times &amp; The Sunday Times
 _Context: Election Commission, President, constitution_
 
 ### [ The Iraqi parliamentary bloc controlled by militia leader Moqtada al-Sadr announces that it will abandon the party led by Prime Minister Nouri al-Maliki. ](/news/2007/09/16/the-iraqi-parliamentary-bloc-controlled-by-militia-leader-moqtada-al-sadr-announces-that-it-will-abandon-the-party-led-by-prime-minister-no.md)
-_Context: Iraq, Muqtadā al-Ṣadr, Nouri al-Maliki_
+_Context: Iraq, Muqtada al-Sadr, Nouri al-Maliki_
 
 ### [ Chinese authorities recall tainted leukemia drugs blamed for leg pains and other problems. ](/news/2007/09/16/chinese-authorities-recall-tainted-leukemia-drugs-blamed-for-leg-pains-and-other-problems.md)
 _Context: China, leukemia_

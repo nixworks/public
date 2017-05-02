@@ -79,7 +79,7 @@ The first seven of 52 political prisoners Cuba has agreed to release and send in
 Tensions run high in divided region as India and Pakistan prepare for high-level talks.
 
 ### [Senior Rwandan opposition official Andre Kagwa Rwisereka disappears after his car is found abandoned by the Mukula River near Butare. ](/news/2010/07/13/senior-rwandan-opposition-official-andra-c-kagwa-rwisereka-disappears-after-his-car-is-found-abandoned-by-the-mukula-river-near-butare.md)
-_Context: André Kagwa Rwisereka, Butare, Mukula River, Rwanda_
+_Context: Andre Kagwa Rwisereka, Butare, Mukula River, Rwanda_
 
 ### [Senior religious leaders in Southern Sudan call on people to vote for independence in a referendum to be held in January 2011. ](/news/2010/07/13/senior-religious-leaders-in-southern-sudan-call-on-people-to-vote-for-independence-in-a-referendum-to-be-held-in-january-2011.md)
 _Context: Southern Sudan_
@@ -112,7 +112,7 @@ _Context: Federal Communications Commission's, United States appeals court_
 _Context: Barack Obama, Jacob Lew, Office of Management and Budget, Peter Orszag_
 
 ### [The United States Senate announces it will vote on financial reform legislations on 15 July. ](/news/2010/07/13/the-united-states-senate-announces-it-will-vote-on-financial-reform-legislations-on-15-july.md)
-_Context: Senator, financial reform_
+_Context: United States Senate, financial reform_
 
 ### [The Philippines' first typhoon of the year moves toward the country's eastern coast, with 33 of the country's 81 provinces and the capital Manila being placed under storm alert. ](/news/2010/07/13/the-philippines-first-typhoon-of-the-year-moves-toward-the-country-s-eastern-coast-with-33-of-the-country-s-81-provinces-and-the-capital-m.md)
 _Context: Manila, Philippines_

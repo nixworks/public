@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [The United States believes that ISIL used a sulfur mustard agent against Kurdish forces in Iraq earlier this week. {{cn|date=December 2015}}](/news/2015/08/13/the-united-states-believes-that-isil-used-a-sulfur-mustard-agent-against-kurdish-forces-in-iraq-earlier-this-week-cn-date-december-2015.md) _Context: ISIL, Iraq, Kurdish_
+1. [The United States believes that ISIL used a sulfur mustard agent against Kurdish forces in Iraq earlier this week. date=December 2015](/news/2015/08/13/the-united-states-believes-that-isil-used-a-sulfur-mustard-agent-against-kurdish-forces-in-iraq-earlier-this-week-date-december-2015.md) _Context: ISIL, Iraq, Kurdish_
 2. [The Kurdish region's military forces, the Peshmerga Ministry, states that over 700 Iraqi Kurds have died fighting ISIL forces since June. ](/news/2014/12/10/the-kurdish-regionas-military-forces-the-peshmerga-ministry-states-that-over-700-iraqi-kurds-have-died-fighting-isil-forces-since-june.md) _Context: ISIL, Iraq, Kurdish_
 3. [Suicide bombings kill at least 23 people across Iraq. ](/news/2014/11/12/suicide-bombings-kill-at-least-23-people-across-iraq.md) _Context: ISIL, Iraq, suicide bombing_
 4. [The United Nations announces expansion of civilian camps for people fleeing Mosul, following resumption of airstrikes  on ISIL-held portions of the Iraqi city. ](/news/2017/04/4/the-united-nations-announces-expansion-of-civilian-camps-for-people-fleeing-mosul-following-resumption-of-airstrikes-on-isil-held-portions.md) _Context: ISIL, Iraq_

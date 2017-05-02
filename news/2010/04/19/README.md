@@ -19,7 +19,7 @@ The executions, carried out by a firing squad at dawn, were the first since the 
 Flights will finally start again in the UK tomorrow after air traffic control company Nats lifted restrictions for Scotland and part of northern England.
 
 ### [A report by the Federation Internationale de Luge de Course (FIL) concludes the track on which Georgian luger Nodar Kumaritashvili died at the 2010 Winter Olympics was faster than it should have been. ](/news/2010/04/19/a-report-by-the-fa-c-da-c-ration-internationale-de-luge-de-course-fil-concludes-the-track-on-which-georgian-luger-nodar-kumaritashvili-died-at.md)
-_Context: 2010 Winter Olympics, Fédération Internationale de Luge de Course, Georgia, Nodar Kumaritashvili, luge, the track_
+_Context: 2010 Winter Olympics, Federation Internationale de Luge de Course, Georgia, Nodar Kumaritashvili, luge, the track_
 
 ### [Aftershocks of the Yushu earthquake continue. Quake death toll rises to 1,944. ](/news/2010/04/19/aftershocks-of-the-yushu-earthquake-continue-quake-death-toll-rises-to-1-944.md)
 _Context: an earthquake struck on 14 April_
@@ -43,7 +43,7 @@ Three letters - GST - are standing between Kevin Rudd and the most dramatic over
 _Context: Angelina Jolie, Mogadishu, Somalia, UN Goodwill Ambassador_
 
 ### [Franck Ribery and other footballers from the French national football team are investigated by police in connection with an underage prostitution ring. ](/news/2010/04/19/franck-riba-c-ry-and-other-footballers-from-the-french-national-football-team-are-investigated-by-police-in-connection-with-an-underage-prosti.md)
-_Context: France, Franck Ribéry, association football, prostitution_
+_Context: France, Franck Ribery, association football, prostitution_
 
 ### [Drug trafficker Carl Williams of Melbourne gangland killings fame is murdered in prison. ](/news/2010/04/19/drug-trafficker-carl-williams-of-melbourne-gangland-killings-fame-is-murdered-in-prison.md)
 _Context: Carl Williams, Melbourne gangland killings_

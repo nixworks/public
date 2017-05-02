@@ -28,7 +28,7 @@ The flight from Fort Lauderdale to Santa Clara in central Cuba on Wednesday morn
 MANILA -- China must cease all provocations in the South China Sea before the Philippines will agree to bilateral talks, Philippine Secretary of Forei
 
 ### [Mexico-United States relations U.S. Republican presidential nominee Donald Trump meets with Mexican President Enrique Pena Nieto in Mexico City after accepting an invitation from him. ](/news/2016/08/31/mexicoaunited-states-relations-pu-s-republican-presidential-nominee-donald-trump-meets-with-mexican-president-enrique-pea-a-nieto-in-mexi.md)
-_Context: 2016 U.S. presidential election, Donald Trump, Enrique Peña Nieto, Mexico City, Mexico–United States relations, President, Republican_
+_Context: 2016 U.S. presidential election, Donald Trump, Enrique Pena Nieto, Mexico City, Mexico-United States relations, President, Republican_
 
 ### [Singer Chris Brown is released on a US$ 250,000 bail for an assault charge. ](/news/2016/08/31/singer-chris-brown-is-released-on-a-us-250-000-bail-for-an-assault-charge.md)
 _Context: Chris Brown, U.S. dollar_
@@ -46,7 +46,7 @@ Photos of protests in Gabon emerge after election results were released Wednesda
 Myanmar begins a historic peace conference on Wednesday, with the aim of ending decades of violence between the Myanmar Army and ethnic armed groups that has claimed thousands of lives.
 
 ### [Turkish Interior Minister Efkan Ala resigns amid criticism over his handling of a string of ISIL and PKK terror attacks, and is replaced by Suleyman Soylu. ](/news/2016/08/31/turkish-interior-minister-efkan-ala-resigns-amid-criticism-over-his-handling-of-a-string-of-isil-and-pkk-terror-attacks-and-is-replaced-by.md)
-_Context: Efkan Ala, ISIL, Interior Minister, Kurdistan Workers' Party, Süleyman Soylu_
+_Context: Efkan Ala, ISIL, Interior Minister, Kurdistan Workers' Party, Suleyman Soylu_
 
 ### [The population of African elephants have fallen by about 30% between 2007 and 2014. ](/news/2016/08/31/the-population-of-african-elephants-have-fallen-by-about-30-between-2007-and-2014.md)
 An unprecedented census gives a sobering baseline for managing what’s left of Africa’s elephants.

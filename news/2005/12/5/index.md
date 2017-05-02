@@ -16,7 +16,7 @@ _Context: 2005 Kashmir earthquake, Pakistan, SOS Children_
 Suicide bomber blows himself up at 11:30 a.m. outside Sharon Mall in Netanya; about 58 people injured, including several in serious condition; according to eyewitness account, woman identified bomber seconds before he detonated explosives; Islamic Jihad claims responsibility 
 
 ### [ Venezuelan parliamentary elections apparently result in Hugo Chvez's party and allies winning all 167 seats, as opposition parties boycott the election claiming election fraud. ](/news/2005/12/5/venezuelan-parliamentary-elections-apparently-result-in-hugo-chavez-s-party-and-allies-winning-all-167-seats-as-opposition-parties-boycott.md)
-_Context: Hugo Chávez, Venezuela, election fraud, parliamentary elections_
+_Context: Hugo Chvez, Venezuela, election fraud, parliamentary elections_
 
 ## [Previous Day...](/news/2005/12/4/index.md)
 

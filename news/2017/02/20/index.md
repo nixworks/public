@@ -4,10 +4,10 @@
 Gunmen in southern Philippine waters killed one crewman of a Vietnamese vessel and abducted seven in what appeared to be the latest attack by pirates in the area, the Philippine coastguard said on Monday.
 
 ### [At least 11 people, all belonging to the same family, are killed in a grenade attack on their home in Laghman Province, according to provincial officials. ](/news/2017/02/20/at-least-11-people-all-belonging-to-the-same-family-are-killed-in-a-grenade-attack-on-their-home-in-laghman-province-according-to-provinc.md)
-_Context: Laghman Province, War in Afghanistan (2015–present)_
+_Context: Laghman Province, War in Afghanistan (2015-present)_
 
 ### [A motorcade carrying prime minister Fayez al-Sarraj of the internationally recognized Government of National Accord, is attacked by unidentified gunmen in Tripoli. There were no injuries reported. ](/news/2017/02/20/a-motorcade-carrying-prime-minister-fayez-al-sarraj-of-the-internationally-recognized-government-of-national-accord-is-attacked-by-unidenti.md)
-_Context: Fayez al-Sarraj, Government of National Accord, Libyan Civil War (2014–present), Tripoli_
+_Context: Fayez al-Sarraj, Government of National Accord, Libyan Civil War (2014-present), Tripoli_
 
 ### [The ISIL-affiliated Syrian opposition group Jaysh Khaled bin Waleed overwhelms Tahrir al-Sham and Southern Front militants, capturing the towns of Tasil and Saham al-Jawlan, along with two other villages and a hill in Daraa Governorate. ](/news/2017/02/20/the-isil-affiliated-syrian-opposition-group-jaysh-khaled-bin-waleed-overwhelms-tahrir-al-sham-and-southern-front-militants-capturing-the-to.md)
 Rebel forces were caught completely off-guard overnight when hundreds of ISIS militants infiltrated the southwestern countryside of Daraa, capturing 5 site
@@ -25,7 +25,7 @@ American tech giant Amazon promised to create 15,000 new full-time jobs across E
 A family of five hid under a mattress as tornado-like winds howled over their home San Antonio home.
 
 ### [Malaysia recalls its ambassador from North Korea amid an ongoing dispute over the alleged assassination of Kim Jong-nam by North Korean agents in the country. ](/news/2017/02/20/malaysia-recalls-its-ambassador-from-north-korea-amid-an-ongoing-dispute-over-the-alleged-assassination-of-kim-jong-nam-by-north-korean-agen.md)
-_Context: Death of Kim Jong-nam, Kim Jong-nam, Malaysia, Malaysia–North Korea relations, North Korea_
+_Context: Death of Kim Jong-nam, Kim Jong-nam, Malaysia, Malaysia-North Korea relations, North Korea_
 
 ### [According to the Stockholm International Peace Research Institute, the global transfer of weapons between 2012 and 2016 has been higher than any other five-year period since the end of the Cold War, with the Middle East increasing its weapon imports by 212%, second only to India, who accounted for 13% of the world's imports. ](/news/2017/02/20/according-to-the-stockholm-international-peace-research-institute-the-global-transfer-of-weapons-between-2012-and-2016-has-been-higher-than.md)
 Middle East almost doubles weapons imports, as US and Europe remain the main suppliers and China joins top-tier exporters

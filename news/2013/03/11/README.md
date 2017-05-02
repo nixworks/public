@@ -55,7 +55,7 @@ _Context: March 12, Mayor, Michael Bloomberg, New York, New York's, ban, ounces,
 _Context: Chris Huhne, Vicky Pryce, jailed, perverting the course of justice_
 
 ### [Interim President of Venezuela Nicolas Maduro files papers to stand in the presidential election on April 14 with Henrique Capriles Radonski standing as an opposition candidate. ](/news/2013/03/11/interim-president-of-venezuela-nicola-s-maduro-files-papers-to-stand-in-the-presidential-election-on-april-14-with-henrique-capriles-radonsk.md)
-_Context: April 14, Henrique Capriles, Nicolás Maduro, President, Venezuela, last month's presidential election_
+_Context: April 14, Henrique Capriles, Nicolas Maduro, President, Venezuela, last month's presidential election_
 
 ### [Hungary's parliament passes a series of constitutional changes to counteract previous court rulings. Critics claim the move undermines the rule of law. ](/news/2013/03/11/hungary-s-parliament-passes-a-series-of-constitutional-changes-to-counteract-previous-court-rulings-critics-claim-the-move-undermines-the-r.md)
 _Context: Hungary, National Assembly, constitutional_

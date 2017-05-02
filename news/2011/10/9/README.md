@@ -22,7 +22,7 @@ _Context: Civic Platform, Donald Tusk, Poland, Polish People's Party, Polish Pri
 France&#x2019;s&#x20;Socialists&#x20;held&#x20;their&#x20;first-ever&#x20;US-style&#x20;primary&#x20;Sunday&#x20;to&#x20;choose&#x20;their&#x20;candidate&#x20;to&#x20;take&#x20;on&#x20;Nicolas&#x20;Sarkozy&#x20;in&#x20;2012&#x20;presidential&#x20;elections.&#x20;The&#x20;party&#x20;reached&#x20;their&#x20;target&#x20;of&#x20;one&#x20;million&#x20;votes&#x20;cast,&#x20;branding&#x20;the&#x20;election&#x20;a&#x20;great&#x20;success.
 
 ### [Having spread across the United States, anti-corruption Occupy Wall Street protests reach Canada, London, and The Hague. ](/news/2011/10/9/having-spread-across-the-united-states-anti-corruption-occupy-wall-street-protests-reach-canada-london-and-the-hague.md)
-_Context: Canadian, London, Occupy Wall Street, The Hague, United States, corruption_
+_Context: Canada, London, Occupy Wall Street, The Hague, United States, corruption_
 
 ### [In motorsports, Sebastian Vettel of Germany wins the Formula One World Championship, becoming the youngest driver to win the Drivers' Championship twice. ](/news/2011/10/9/in-motorsports-sebastian-vettel-of-germany-wins-the-formula-one-world-championship-becoming-the-youngest-driver-to-win-the-drivers-champi.md)
 _Context: Formula One World Championship, Germany, Sebastian Vettel, drivers' champion, motorsports_

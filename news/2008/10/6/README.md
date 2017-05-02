@@ -10,7 +10,7 @@ _Context: An earthquake, Kyrgyzstan, Tajikistan_
 _Context: Another earthquake, China's, Damxung, Tibet_
 
 ### [ Nobel Prize: The 2008 Nobel Prize in Physiology or Medicine goes to Harald zur Hausen of Germany for his discovery of the human papilloma viruses that can cause cervical cancer in women, and Francoise Barre-Sinoussi and Luc Montagnier of France for their discovery of human immunodeficiency virus, or HIV. ](/news/2008/10/6/nobel-prize-p-the-2008-nobel-prize-in-physiology-or-medicine-goes-to-harald-zur-hausen-of-germany-for-his-discovery-of-the-human-papilloma.md)
-_Context: France, Françoise Barré-Sinoussi, Germany, HIV, Harald zur Hausen, Luc Montagnier, Nobel Prize, Nobel Prize in Physiology or Medicine, cervical cancer, human immunodeficiency virus, papilloma virus_
+_Context: France, Francoise Barre-Sinoussi, Germany, HIV, Harald zur Hausen, Luc Montagnier, Nobel Prize, Nobel Prize in Physiology or Medicine, cervical cancer, human immunodeficiency virus, papilloma virus_
 
 ### [ Subprime mortgage crisis: The Dow Jones Industrial Average falls by as much as 800.06 points, its biggest intraday drop on record; the Dow closed below the 10,000 mark for the first time since October 26, 2004. ](/news/2008/10/6/subprime-mortgage-crisis-p-the-dow-jones-industrial-average-falls-by-as-much-as-800-06-points-its-biggest-intraday-drop-on-record-the-dow.md)
 Stocks slid for a fourth straight day on Monday, leaving the Dow below 10,000 for the first time in four years, on fears the global economy was hurtling into recession despite government efforts to contain the fast-spreading financial crisis.
@@ -34,7 +34,7 @@ _Context: Human Rights Watch, Mogadishu, Somalia_
 _Context: Bangkok, yellow shirt_
 
 ### [ The 2008 Monorierdo train collision in Hungary leads to resignation of the transport minister and the president of Hungarian State Railways.](/news/2008/10/6/the-2008-monorierda-train-collision-in-hungary-leads-to-resignation-of-the-transport-minister-and-the-president-of-hungarian-state-railway.md)
-_Context: 2008 Monorierdő train collision, Hungarian State Railways_
+_Context: 2008 Monorierdo train collision, Hungarian State Railways_
 
 ## [Previous Day...](/news/2008/10/5/index.md)
 

@@ -13,7 +13,7 @@ Deadly clashes erupt between Mauritanian troops and militants linked to al-Qaeda
 _Context: England, George Michael, Highpoint Prison, Pentonville Prison, Suffolk, United Kingdom, driving under the influence, marijuana_
 
 ### [Chileans celebrate the 200th anniversary of Chilean Independence Day as do the 33 miners trapped underground in the 2010 Copiap mining accident. ](/news/2010/09/18/chileans-celebrate-the-200th-anniversary-of-chilean-independence-day-as-do-the-33-miners-trapped-underground-in-the-2010-copiapo-mining-acci.md)
-_Context: 200th anniversary, 2010 Copiapó mining accident, Chile, Chilean Independence Day_
+_Context: 200th anniversary, 2010 Copiap mining accident, Chile, Chilean Independence Day_
 
 ### [China slightly increased its holdings of  United States treasury debt to US$846.7 billion, this July. ](/news/2010/09/18/china-slightly-increased-its-holdings-of-united-states-treasury-debt-to-us-846-7-billion-this-july.md)
 _Context:  debt, China_

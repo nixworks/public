@@ -13,7 +13,7 @@ _Context: Chad, Idriss Deby, referendum_
 _Context: La Spezia, Nazism, Sant'Anna di Stazzema, Tuscany, World War II, in absentia, life imprisonment_
 
 ### [ In Colombia, congress approves a draft bill that offers sentences of only eight years to those members of paramilitary militias who give up their weapons. It demands that they confess, return the stolen property and disarm. Critics of president lvaro Uribe say that the law is too lenient ](/news/2005/06/22/in-colombia-congress-approves-a-draft-bill-that-offers-sentences-of-only-eight-years-to-those-members-of-paramilitary-militias-who-give-up.md)
-_Context: Colombia, militia, paramilitary, √Ålvaro Uribe_
+_Context: Alvaro Uribe, Colombia, militia, paramilitary_
 
 ### [ International Whaling Commission meeting in Ulsan, South Korea, does not support Japan's suggestion to resume coastal whaling or increase its own scientific one. Commission also voted down a request that Japan could catch 150 minke whales a year ](/news/2005/06/22/international-whaling-commission-meeting-in-ulsan-south-korea-does-not-support-japan-s-suggestion-to-resume-coastal-whaling-or-increase-i.md)
 _Context: International Whaling Commission , South Korea, Ulsan, hunt, scientific, whale_
@@ -28,7 +28,7 @@ _Context: 2000, Alberto Fujimori, Peru_
 _Context: Peru, coca_
 
 ### [ In Brazil, heated arguments in the congress result in fighting and the session is suspended. Fighting begun when former chief of staff Jos Dirceu, who had rejoined the congress, tried to defend the government against the bribery allegations ](/news/2005/06/22/in-brazil-heated-arguments-in-the-congress-result-in-fighting-and-the-session-is-suspended-fighting-begun-when-former-chief-of-staff-jose.md)
-_Context: Brazil, JosÈ Dirceu_
+_Context: Brazil, Jos Dirceu_
 
 ### [ In Ethiopia, main opposition group Coalition for Unity and Democracy states that government investigators have dropped all their complaints about possible election fraud. Government still has not released any results ](/news/2005/06/22/in-ethiopia-main-opposition-group-coalition-for-unity-and-democracy-states-that-government-investigators-have-dropped-all-their-complaints.md)
 _Context: Coalition for Unity and Democracy, Ethiopia, election fraud_

@@ -4,7 +4,7 @@
 Tourists from Poland and France among those killed, as Tunisian PM says one of gunmen was known to intelligence services before the attack
 
 ### [Cyclone Nathan intensifies to a category 2 tropical cyclone (Australian scale) and is expected to make landfall near the Queensland town of Cooktown on March 19. ](/news/2015/03/18/cyclone-nathan-intensifies-to-a-category-2-tropical-cyclone-australian-scale-and-is-expected-to-make-landfall-near-the-queensland-town-of.md)
-_Context: 2014–15 Australian region cyclone season, Cooktown, Queensland, tropical cyclone_
+_Context: 2014-15 Australian region cyclone season, Cooktown, Queensland, tropical cyclone_
 
 ### [The United States Department of Defense authorizes the U.S. Army to destroy a large U.S. stockpile of chemical weapons. ](/news/2015/03/18/the-united-states-department-of-defense-authorizes-the-u-s-army-to-destroy-a-large-u-s-stockpile-of-chemical-weapons.md)
 _Context: Defense Department, U.S. stockpile of chemical weapons, United States Army_

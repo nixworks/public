@@ -22,7 +22,7 @@ _Context: Bernard Madoff, Ponzi scheme, Ponzi scheme, U.S. dollar, United States
 _Context: International Space Station, Russia, astronaut, escape pod, space debris_
 
 ### [ One person is killed and 16 are missing after Cougar Helicopters Flight 491 ditches into the Atlantic Ocean near St. John's, Newfoundland and Labrador, Canada. ](/news/2009/03/12/one-person-is-killed-and-16-are-missing-after-cougar-helicopters-flight-491-ditches-into-the-atlantic-ocean-near-st-john-s-newfoundland-a.md)
-_Context: Atlantic, Canadian, Cougar Helicopters, Flight 491, Newfoundland and Labrador, St. John's, ditching_
+_Context: Atlantic, Canada, Cougar Helicopters, Flight 491, Newfoundland and Labrador, St. John's, ditching_
 
 ### [ An American drone aircraft's missiles kill at least 12 people in Pakistan's Kurram Valley. ](/news/2009/03/12/an-american-drone-aircraft-s-missiles-kill-at-least-12-people-in-pakistan-s-kurram-valley.md)
 _Context: Kurram, Pakistan, United States, drone, rocket attacks_

@@ -25,7 +25,7 @@ _Context: Amazon.com, Martin Amis, Orhan Pamuk, Philip Roth, Salman Rushdie, V. 
 _Context: Guinness World Records, John Ging, basketball_
 
 ### [Catalan tenor Jose Carreras announces he is to perform at La Scala for the first time in 14 years. ](/news/2010/07/22/catalan-tenor-josa-c-carreras-announces-he-is-to-perform-at-la-scala-for-the-first-time-in-14-years.md)
-_Context: Catalan people, José Carreras, La Scala_
+_Context: Catalan people, Jose Carreras, La Scala_
 
 ### [Damon Albarn-fronted Gorillaz announce their first world tour and will visit at least four continents. ](/news/2010/07/22/damon-albarn-fronted-gorillaz-announce-their-first-world-tour-and-will-visit-at-least-four-continents.md)
 Hip-hop pop collective Gorillaz - who are fronted by Damon Albarn - announce their first world tour.
@@ -76,7 +76,7 @@ A police officer who was filmed pushing a man to the ground during the G20 prote
 Three more Cuban dissidents recently released by Havana have arrived in Spain, along with their relatives.
 
 ### [Nobel Peace Laureates Desmond Tutu and Shirin Ebadi lead hundreds of rights groups in calling on Senegal to try exiled Chadian dictator Hissene Habre for mass murder and torture. ](/news/2010/07/22/nobel-peace-laureates-desmond-tutu-and-shirin-ebadi-lead-hundreds-of-rights-groups-in-calling-on-senegal-to-try-exiled-chadian-dictator-hiss.md)
-_Context: Chad, Desmond Tutu, Hissène Habré, Senegal, Shirin Ebadi_
+_Context: Chad, Desmond Tutu, Hissene Habre, Senegal, Shirin Ebadi_
 
 ### [Iran pressurises Sakineh Mohammadi Ashtiani, the woman sentenced to death by lapidation, calling on her to name those campaigning for her release. ](/news/2010/07/22/iran-pressurises-sakineh-mohammadi-ashtiani-the-woman-sentenced-to-death-by-lapidation-calling-on-her-to-name-those-campaigning-for-her-re.md)
 _Context: Iran, Sakineh Mohammadi Ashtiani, stoning_
@@ -112,7 +112,7 @@ _Context: Cabinet formation in the Netherlands, Informateur, Prime Minister, Ruu
 _Context: Roy Oldham_
 
 ### [A woman is diagnosed with Creutzfeldt-Jakob disease ("human mad cow disease") in Milan then hospitalised in Livorno, only the second case in Italy's history and the first since Sicily 2002. ](/news/2010/07/22/a-woman-is-diagnosed-with-creutzfeldtajakob-disease-human-mad-cow-disease-in-milan-then-hospitalised-in-livorno-only-the-second-case.md)
-_Context: Creutzfeldt–Jakob disease, Italian, Livorno, Milan, Sicily_
+_Context: Creutzfeldt-Jakob disease, Italian, Livorno, Milan, Sicily_
 
 ### [A new henge is discovered at Stonehenge World Heritage Site, described to be the biggest discovery of a major monument in over 50 years around Stonehenge. ](/news/2010/07/22/a-new-henge-is-discovered-at-stonehenge-world-heritage-site-described-to-be-the-biggest-discovery-of-a-major-monument-in-over-50-years-arou.md)
 Archaeologists discover a second henge at Stonehenge, described as the most exciting find at the site in 50 years.

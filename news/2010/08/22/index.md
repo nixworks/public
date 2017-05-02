@@ -7,7 +7,7 @@ Police in Venezuela search for a soldier who shot dead two officers and wounded 
 _Context: Philippines, United States_
 
 ### [Brazilian police rescue 35 hostages from InterContinental in So Conrado, Rio de Janeiro. ](/news/2010/08/22/brazilian-police-rescue-35-hostages-from-intercontinental-in-sao-conrado-rio-de-janeiro.md)
-_Context: Brazil, InterContinental, Rio de Janeiro, São Conrado_
+_Context: Brazil, InterContinental, Rio de Janeiro, So Conrado_
 
 ### [The Government of Somalia claims that 10 members of the al-Shabab militant group have been killed when bombs they were preparing went off prematurely in Mogadishu. ](/news/2010/08/22/the-government-of-somalia-claims-that-10-members-of-the-al-shabab-militant-group-have-been-killed-when-bombs-they-were-preparing-went-off-pr.md)
 Government says the men died while preparing or planting bombs in two separate incidents.

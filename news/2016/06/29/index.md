@@ -1,7 +1,7 @@
 ## [2016-06-29](/news/2016/06/29/index.md)
 
 ### [The death toll from the attack on the Istanbul Ataturk Airport rises to 42. ](/news/2016/06/29/the-death-toll-from-the-attack-on-the-istanbul-atata1-4rk-airport-rises-to-42.md)
-_Context: 2016 Istanbul airport attack, Istanbul Atatürk Airport_
+_Context: 2016 Istanbul airport attack, Istanbul Ataturk Airport_
 
 ### [At least 10 people are killed and nine others are wounded following a car bomb attack in Tell Abyad, near the Syria-Turkey border, according to the Syrian Observatory for Human Rights. ](/news/2016/06/29/at-least-10-people-are-killed-and-nine-others-are-wounded-following-a-car-bomb-attack-in-tell-abyad-near-the-syriaaturkey-border-accordi.md)
 Khalidi and Tom Perry

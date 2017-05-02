@@ -22,7 +22,7 @@ _Context: Bob Novak, CIA leak scandal, United States, Valerie Plame, Who's Who i
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ The United States government agrees to apply parts of the Geneva Convention to detainees held at the Guantanamo Bay detainment camp, but does not change their status from enemy combatants to POWs. ](/news/2006/07/11/the-united-states-government-agrees-to-apply-parts-of-the-geneva-convention-to-detainees-held-at-the-guantanamo-bay-detainment-camp-but-do.md)
-_Context: Geneva Convention, Guantánamo Bay detainment camp, POW, United States government, enemy combatant_
+_Context: Geneva Convention, Guantnamo Bay detainment camp, POW, United States government, enemy combatant_
 
 ### [ A three ton concrete ceiling tile falls on a car in a tunnel in Boston, United States, killing one female passenger and closing the tunnel. The Governor of Massachusetts, Mitt Romney, announces that the Massachusetts Government will be taking legal action to remove the Chairman of the Massachusetts Turnpike Authority, Matt Amorello. ](/news/2006/07/11/a-three-ton-concrete-ceiling-tile-falls-on-a-car-in-a-tunnel-in-boston-united-states-killing-one-female-passenger-and-closing-the-tunnel.md)
 _Context: Boston, Massachusetts, Massachusetts Turnpike Authority, Massachusetts governor, Matt Amorello, Mitt Romney, United States_

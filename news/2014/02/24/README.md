@@ -4,7 +4,7 @@
 _Context: 2014 Ukrainian revolution, European Commission, Oleksandr Turchynov, Ukrainian_
 
 ### [War in Afghanistan:Senior Taliban commander Asmatullah Shaheen Bhittani is killed in Khyber Pakhtunkhwa. ](/news/2014/02/24/war-in-afghanistan-psenior-taliban-commander-asmatullah-shaheen-bhittani-is-killed-in-khyber-pakhtunkhwa.md)
-_Context: Khyber Pakhtunkhwa, Taliban, War in Afghanistan (2001–present)_
+_Context: Khyber Pakhtunkhwa, Taliban, War in Afghanistan (2001-present)_
 
 ### [South China Sea dispute:Chinese vessels reportedly harassed Filipino fishermen off the coast of the Philippines last January 27, according to the Philippine military. ](/news/2014/02/24/south-china-sea-dispute-pchinese-vessels-reportedly-harassed-filipino-fishermen-off-the-coast-of-the-philippines-last-january-27-according.md)
 A Chinese vessel fired a water cannon at Filipino fishermen near a disputed shoal in the South China Sea, the top Philippine military chief says.
@@ -40,7 +40,7 @@ _Context: Lai Chau Province, Vietnam_
 A prominent New York real estate developer and socialite told investigators he has no idea who shot him at his expansive Long Island estate, police said.
 
 ### [2013-14 Thai political crisis:Thai Prime Minister Yingluck Shinawatra says she will not resign. ](/news/2014/02/24/2013a14-thai-political-crisis-pthai-prime-minister-yingluck-shinawatra-says-she-will-not-resign.md)
-_Context: 2013–14 Thai political crisis, Thailand, Yingluck Shinawatra_
+_Context: 2013-14 Thai political crisis, Thailand, Yingluck Shinawatra_
 
 ### [The government of Egypt resign ''en masse'', allowing Abdel Fattah al-Sisi to run for President. ](/news/2014/02/24/the-government-of-egypt-resign-en-masse-allowing-abdel-fattah-al-sisi-to-run-for-president.md)
 _Context: Abdel Fattah al-Sisi, Egypt_

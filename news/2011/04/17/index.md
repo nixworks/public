@@ -10,7 +10,7 @@ _Context: Ajdabiya, Libya, Libyan Civil War_
 Three more NATO service members were killed in attacks in Afghanistan on Saturday, the international coalition said, making a total of eight killed on one of the deadliest days for NATO troops this year.
 
 ### [Fourteen people claimed to be responsible for shooting 52 protestors in Sana'a in March are referred to the state prosecutor. ](/news/2011/04/17/fourteen-people-claimed-to-be-responsible-for-shooting-52-protestors-in-sanaaa-in-march-are-referred-to-the-state-prosecutor.md)
-_Context: 2011 Yemeni protests, Sana’a_
+_Context: 2011 Yemeni protests, Sana'a_
 
 ### [China raises its bank reserves requirements as an anti-inflation move, an increase of 50 basis points (half of a percent) effective April 21. ](/news/2011/04/17/china-raises-its-bank-reserves-requirements-as-an-anti-inflation-move-an-increase-of-50-basis-points-half-of-a-percent-effective-april-21.md)
 _Context: China's, inflation_

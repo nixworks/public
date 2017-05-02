@@ -18,7 +18,7 @@ There has been a broad welcome for the announcement by the loyalist paramilitary
 ### [ Polling stations open for the Scottish Parliament and National Assembly for Wales general elections, and for local council elections in Scotland and parts of England. ](/news/2007/05/3/polling-stations-open-for-the-scottish-parliament-and-national-assembly-for-wales-general-elections-and-for-local-council-elections-in-sco.md)
 _Context: England, National Assembly for Wales, Scotland, winning the most seats_
 
-### [ Madeleine McCann disappears from her hotel room in Praia da Luz, Portugal. {{Fact|date=September 2008}}](/news/2007/05/3/madeleine-mccann-disappears-from-her-hotel-room-in-praia-da-luz-portugal-fact-date-september-2008.md)
+### [ Madeleine McCann disappears from her hotel room in Praia da Luz, Portugal. date=September 2008](/news/2007/05/3/madeleine-mccann-disappears-from-her-hotel-room-in-praia-da-luz-portugal-date-september-2008.md)
 _Context: Madeleine McCann, Portuguese, Praia da Luz_
 
 ## [Previous Day...](/news/2007/05/2/index.md)

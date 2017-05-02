@@ -37,7 +37,7 @@ _Context: 2004, Amnesty International, death penalty, execution_
 _Context: Alice Mobolaji Osomo, Nigeria, Olusegun Obasanjo, President of Nigeria, anti-corruption_
 
 ### [ The United Nations Security Council extends the mandate of UN and French peacekeepers in Cote d'Ivoire. ](/news/2005/04/4/the-united-nations-security-council-extends-the-mandate-of-un-and-french-peacekeepers-in-ca-te-d-ivoire.md)
-_Context: Côte d'Ivoire, France, United Nations, United Nations Security Council, peacekeeper_
+_Context: Cote d'Ivoire, France, United Nations, United Nations Security Council, peacekeeper_
 
 ### [ South African president Thabo Mbeki hosts a meeting between rebels and the Cote d'Ivoire government in his presidential palace. ](/news/2005/04/4/south-african-president-thabo-mbeki-hosts-a-meeting-between-rebels-and-the-ca-te-d-ivoire-government-in-his-presidential-palace.md)
 _Context: South Africa, Thabo Mbeki_
@@ -49,7 +49,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Jorg Haider, the former leader of Freedom Party of Austria (FPO), together with almost all of FPO's parliamentary representatives, leaves the party to found a new party Alliance for Austria's Future.  ](/news/2005/04/4/japrg-haider-the-former-leader-of-freedom-party-of-austria-fpa-together-with-almost-all-of-fpa-s-parliamentary-representatives-leave.md)
-_Context: Alliance for Austria's Future, Freedom Party of Austria, Jörg Haider_
+_Context: Alliance for Austria's Future, Freedom Party of Austria, Jorg Haider_
 
 ### [ Brazilian police arrest 11 men over the Rio Massacre last Thursday when 30 people were killed. ](/news/2005/04/4/brazilian-police-arrest-11-men-over-the-rio-massacre-last-thursday-when-30-people-were-killed.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

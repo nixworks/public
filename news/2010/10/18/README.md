@@ -34,10 +34,10 @@ Rio Tinto and BHP Billiton announce they have scrapped plans for their $120b iro
 A &quot;super typhoon&quot; strikes the northern Philippines with heavy rain and winds of up to 260km/h (162mph), leaving at least three people dead.
 
 ### [Flood waters in Vietnam's Ha Tinh Province sweep away a bus with 20 people missing, presumed dead. ](/news/2010/10/18/flood-waters-in-vietnam-s-ha-ta-c-nh-province-sweep-away-a-bus-with-20-people-missing-presumed-dead.md)
-_Context: Hà Tĩnh Province, Vietnam_
+_Context: Ha Tinh Province, Vietnam_
 
 ### [At least nineteen people die near Santiago de Queretaro, Mexico, after a bus collides with a truck. ](/news/2010/10/18/at-least-nineteen-people-die-near-santiago-de-quera-c-taro-mexico-after-a-bus-collides-with-a-truck.md)
-_Context: Mexico, Santiago de Querétaro_
+_Context: Mexico, Santiago de Queretaro_
 
 ### [The U.S. government has concluded that Chinese companies are bypassing UN sanctions on Iran and helping Iran to improve its missile technology and develop nuclear weapons, and has asked China to stop such activity. ](/news/2010/10/18/the-u-s-government-has-concluded-that-chinese-companies-are-bypassing-un-sanctions-on-iran-and-helping-iran-to-improve-its-missile-technolo.md)
 _Context: U.S. government, ban on ballistic missile tests, nuclear scientist_

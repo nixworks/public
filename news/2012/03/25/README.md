@@ -1,7 +1,7 @@
 ## [2012-03-25](/news/2012/03/25/index.md)
 
 ### [Syrian uprising:At least 48 people are reported killed across Syria as US President Barack Obama and Turkish Prime Minister Erdogan hold talks about a process for transitioning to a "legitimate government". ](/news/2012/03/25/syrian-uprising-pat-least-48-people-are-reported-killed-across-syria-as-us-president-barack-obama-and-turkish-prime-minister-erdoaan-hold-t.md)
-_Context: 2011–2012 Syrian uprising, Barack Obama, Recep Tayyip Erdoğan, Syria, Turkish Prime Minister, US President_
+_Context: 2011-2012 Syrian uprising, Barack Obama, Recep Tayyip Erdogan, Syria, Turkish Prime Minister, US President_
 
 ### [2012 insurgency in northern Mali: Tuareg insurgents close in on multiple northern towns where they say they will apply Islamic sharia law. ](/news/2012/03/25/2012-insurgency-in-northern-mali-tuareg-insurgents-close-in-on-multiple-northern-towns-where-they-say-they-will-apply-islamic-sharia-law.md)
 Tuareg rebels have closed in on a key city in northern Mali, taking advantage of a power vacuum in Bamako.
@@ -19,7 +19,7 @@ _Context: Bashar al-Assad, Dmitry Medvedev, Kofi Annan, Russian President, Syria
 US President Barack Obama visits the Demilitarised Zone (DMZ) separating the Koreas, amid rising tensions over a planned rocket launch by the North.
 
 ### [French prosecutors charge the brother of the gunman Mohammed Merah with complicity in the murders and conspiracy to commit acts of terrorism with regards to the killings of three French paratroopers, a rabbi and three children in Toulouse. ](/news/2012/03/25/french-prosecutors-charge-the-brother-of-the-gunman-mohammed-merah-with-complicity-in-the-murders-and-conspiracy-to-commit-acts-of-terrorism.md)
-_Context: 2012 Midi-Pyrénées shootings_
+_Context: 2012 Midi-Pyrenees shootings_
 
 ### [A student is shot dead on the Mississippi State University campus in the United States, prompting school-wide alerts. Three suspects escape in a blue Ford Crown Victoria. ](/news/2012/03/25/a-student-is-shot-dead-on-the-mississippi-state-university-campus-in-the-united-states-prompting-school-wide-alerts-three-suspects-escape.md)
 _Context: Ford Crown Victoria, Mississippi State University_

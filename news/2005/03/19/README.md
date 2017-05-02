@@ -1,7 +1,7 @@
 ## [2005-03-19](/news/2005/03/19/index.md)
 
 ### [ A 7.0 magnitude earthquake hits Japan's southernmost main island of Kyushu. Japan's Meteorological Agency emits warnings for tsunamis that could hit areas including the coast of Kyushu. ](/news/2005/03/19/a-7-0-magnitude-earthquake-hits-japan-s-southernmost-main-island-of-kya-sha-japan-s-meteorological-agency-emits-warnings-for-tsunamis-tha.md)
-_Context: Japan, Japan's Meteorological Agency, Kyūshū, magnitude, tsunami_
+_Context: Japan, Japan's Meteorological Agency, Kyushu, magnitude, tsunami_
 
 ### [ One Briton killed and 12 people wounded by a car bomb in Doha, Qatar. ](/news/2005/03/19/one-briton-killed-and-12-people-wounded-by-a-car-bomb-in-doha-qatar.md)
 _Context: Doha, Qatar, United Kingdom_

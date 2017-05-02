@@ -49,7 +49,7 @@ Nathan Law Kwun-chung, a 23-year-old pro-independence candidate has just been el
 _Context: 2016 U.S. presidential election, Connecticut, Gary Johnson, Libertarian_
 
 ### [The European Space Agency's robotic lander ''Philae'' is discovered wedged in a crack between some rocks in the shadow of a cliff on 67P/Churyumov-Gerasimenko by the Rosetta space probe after being lost since 2014. ](/news/2016/09/5/the-european-space-agency-s-robotic-lander-philae-is-discovered-wedged-in-a-crack-between-some-rocks-in-the-shadow-of-a-cliff-on-67p-chu.md)
-_Context: ''Rosetta'' space probe, 67P/Churyumov–Gerasimenko, European Space Agency, Philae, lander_
+_Context: ''Rosetta'' space probe, 67P/Churyumov-Gerasimenko, European Space Agency, Philae, lander_
 
 ## [Previous Day...](/news/2016/09/4/index.md)
 

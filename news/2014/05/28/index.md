@@ -22,7 +22,7 @@ _Context: Jangseong County, South Korea_
 Police in the northern French city of Calais are dismantling camps housing hundreds of migrants from Asia and Africa trying to reach Britain.
 
 ### [Dutch authorities approve the extradition of high-ranking Sinaloa Cartel leader Jos Rodrigo Archiga Gamboa (alias "El Chino ntrax") to the United States. ](/news/2014/05/28/dutch-authorities-approve-the-extradition-of-high-ranking-sinaloa-cartel-leader-jose-rodrigo-arechiga-gamboa-alias-el-chino-antrax-to-th.md)
-_Context: José Rodrigo Aréchiga Gamboa, Sinaloa Cartel_
+_Context: Jos Rodrigo Archiga Gamboa, Sinaloa Cartel_
 
 ### [Egyptian presidential election, 2014:Voting in Egypt continues for an unscheduled third day due to concerns about low turnout. Official results show former military chief Abdul Fattah al-Sisi headed for a massive victory with 92% of the vote. ](/news/2014/05/28/egyptian-presidential-election-2014-pvoting-in-egypt-continues-for-an-unscheduled-third-day-due-to-concerns-about-low-turnout-official-res.md)
 _Context: Abdul Fattah al-Sisi, Egypt, Egyptian presidential election, 2014_

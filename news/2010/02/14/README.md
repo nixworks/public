@@ -25,7 +25,7 @@ People in Tonga and Niue are being advised to bunker down and prepare for the wo
 Members of the Irish Catholic hierarchy are in Rome in advance of their meeting with Pope Benedict XVI and his most senior officials.
 
 ### [Pakistani Prime Minister Yousuf Raza Gilani condemns the bomb blast in Pune, India, one day earlier, saying Pakistan is against terrorism and that his country wants better relations with India. ](/news/2010/02/14/pakistani-prime-minister-yousuf-raza-gilani-condemns-the-bomb-blast-in-pune-india-one-day-earlier-saying-pakistan-is-against-terrorism-an.md)
-_Context: 2010 Pune bombing, India–Pakistan relations, Pakistan, Yousuf Raza Gilani, terrorism_
+_Context: 2010 Pune bombing, India-Pakistan relations, Pakistan, Yousuf Raza Gilani, terrorism_
 
 ### [Iran detains five more members of the Baha'i minority, in addition to Baha'i leaders jailed since 2008, for alleged involvement in protests against the regime. ](/news/2010/02/14/iran-detains-five-more-members-of-the-baha-i-minority-in-addition-to-baha-i-leaders-jailed-since-2008-for-alleged-involvement-in-protests.md)
 _Context: Baha'i, Baha'i leaders jailed since 2008, Iran, protests against the regime_
@@ -37,7 +37,7 @@ At least 20 people were killed in Nigeria on Saturday when a cable fell onto a b
 _Context: Ukrainian presidential election, Viktor Yanukovych_
 
 ### [2010 Winter Olympics in Vancouver:Alexandre Bilodeau scores first place in the men's freestyle skiing moguls, winning Canada's first ever Olympic gold medal on home soil. ](/news/2010/02/14/2010-winter-olympics-in-vancouver-palexandre-bilodeau-scores-first-place-in-the-men-s-freestyle-skiing-moguls-winning-canada-s-first-ever-o.md)
-_Context: 2010 Winter Olympics, Alexandre Bilodeau, Canadian, Vancouver_
+_Context: 2010 Winter Olympics, Alexandre Bilodeau, Canada, Vancouver_
 
 ## [Previous Day...](/news/2010/02/13/index.md)
 

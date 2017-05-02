@@ -40,7 +40,7 @@ _Context: Arab, Iraq, Iraqi Council of Representatives, Sunni, boycott, fourth l
 _Context: Heritage Oil and Gas, Uganda, petroleum deposit_
 
 ### [ Japanese media reports claim that the Kashiwazaki-Kariwa Nuclear Power Plant will remain closed for at least a year following the 2007 Chuetsu offshore earthquake. ](/news/2007/07/19/japanese-media-reports-claim-that-the-kashiwazaki-kariwa-nuclear-power-plant-will-remain-closed-for-at-least-a-year-following-the-2007-cha.md)
-_Context: 2007 Chūetsu offshore earthquake, Japan, Kashiwazaki-Kariwa Nuclear Power Plant_
+_Context: 2007 Chuetsu offshore earthquake, Japan, Kashiwazaki-Kariwa Nuclear Power Plant_
 
 ### [ Three bombs in Pakistan kill at least 52 people with at least 160 people killed in bomb attacks since the storming of the Lal Masjid mosque. ](/news/2007/07/19/three-bombs-in-pakistan-kill-at-least-52-people-with-at-least-160-people-killed-in-bomb-attacks-since-the-storming-of-the-lal-masjid-mosque.md)
 _Context: Lal Masjid, Pakistan_

@@ -40,7 +40,7 @@ Bill passes by vote of 37 to 11; Lieberman: We have fulfilled our campaign promi
 _Context: Burma, President of Burma, State Peace and Development Council_
 
 ### [Jose Alencar, the former Vice-President of Brazil between 2003 and 2010, dies after a long battle of cancer. ](/news/2011/03/29/josa-c-alencar-the-former-vice-president-of-brazil-between-2003-and-2010-dies-after-a-long-battle-of-cancer.md)
-_Context: José Alencar, Vice President, cancer_
+_Context: Jose Alencar, Vice President, cancer_
 
 ### [Ricky Ponting steps down as the captain of the Australian cricket team in both Tests and One Day Internationals. ](/news/2011/03/29/ricky-ponting-steps-down-as-the-captain-of-the-australian-cricket-team-in-both-tests-and-one-day-internationals.md)
 _Context: Australia, One Day International, Ricky Ponting, captain, test cricket_

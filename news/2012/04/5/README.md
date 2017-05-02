@@ -12,7 +12,7 @@ _Context: Damascus, Douma, Syria, Syrian Army_
 ### [Rival militias cease fighting in the town of Zuwara in western Libya after the National Transitional Council claims a ceasefire. ](/news/2012/04/5/rival-militias-cease-fighting-in-the-town-of-zuwara-in-western-libya-after-the-national-transitional-council-claims-a-ceasefire.md)
 _Context: Libya, National Transitional Council, Zuwara_
 
-### [A Chinese company{{what?|date=April 2012}} that insures ships announces it will stop indemnifying tankers carrying Iranian oil. This represents a continued tightening of world sanctions on Iran. ](/news/2012/04/5/a-chinese-company-what-date-april-2012-that-insures-ships-announces-it-will-stop-indemnifying-tankers-carrying-iranian-oil-this-represe.md)
+### [A Chinese companydate=April 2012 that insures ships announces it will stop indemnifying tankers carrying Iranian oil. This represents a continued tightening of world sanctions on Iran. ](/news/2012/04/5/a-chinese-companydate-april-2012-that-insures-ships-announces-it-will-stop-indemnifying-tankers-carrying-iranian-oil-this-represents-a-cont.md)
 _Context: Iran, pre-sanction_
 
 ### [At least 14 people die as a result of severe storms in Argentina, with Buenos Aires Province being the hardest hit. ](/news/2012/04/5/at-least-14-people-die-as-a-result-of-severe-storms-in-argentina-with-buenos-aires-province-being-the-hardest-hit.md)

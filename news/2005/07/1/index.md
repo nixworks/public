@@ -28,7 +28,7 @@ _Context: General Medical Council, Roy Meadow, The Lancet, cot death, scapegoat_
 _Context: (Wikinews), Democratic Republic of Congo_
 
 ### [ In Germany, the Bundestag passes a Motion of no confidence in the government of Chancellor Gerhard Schrder by 296 to 151. The vote, at Schrder's insistence, opens the way for new elections to be held on September 18. (Wikinews) ](/news/2005/07/1/in-germany-the-bundestag-passes-a-motion-of-no-confidence-in-the-government-of-chancellor-gerhard-schroder-by-296-to-151-the-vote-at-sch.md)
-_Context: (Wikinews), Bundestag, Gerhard Schröder, German federal election, 2005, Motion of no confidence_
+_Context: (Wikinews), Bundestag, Gerhard Schrder, German federal election, 2005, Motion of no confidence_
 
 ### [ Italian police in Genoa discover a parallel police force, called the Department of Anti-terrorism Strategic Studies, that was apparently founded to benefit from funding after 2004 Madrid bombings. The group's ](/news/2005/07/1/italian-police-in-genoa-discover-a-parallel-police-force-called-the-department-of-anti-terrorism-strategic-studies-that-was-apparently-fo.md)
 _Context: 11 March, 2004 Madrid attacks, Department of Anti-terrorism Strategic Studies, Genoa_

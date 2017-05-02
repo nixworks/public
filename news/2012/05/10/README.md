@@ -4,7 +4,7 @@
 Dozens of people were killed or wounded in two &quot;terrorist explosions&quot; which struck a southern district of the Syrian capital Damascus on Thursday, state television said.
 
 ### [An airstrike reportedly kills five al-Qaeda militants in the southern Yemeni town of Jaar. ](/news/2012/05/10/an-airstrike-reportedly-kills-five-al-qaeda-militants-in-the-southern-yemeni-town-of-jaar.md)
-_Context: Jaʿār, Yemen, al-Qaeda_
+_Context: Ja'ar, Yemen, al-Qaeda_
 
 ### [The International Committee of the Red Cross suspends all humanitarian work in Pakistan after a worker was kidnapped and killed. ](/news/2012/05/10/the-international-committee-of-the-red-cross-suspends-all-humanitarian-work-in-pakistan-after-a-worker-was-kidnapped-and-killed.md)
 _Context: International Committee of the Red Cross, Pakistan_

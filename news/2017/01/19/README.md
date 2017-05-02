@@ -15,7 +15,7 @@ _Context: Brazilian Supreme Court, Operation Car Wash, Paraty, Rio de Janeiro, T
 ### [The 17-story Plasco Building collapses after a blaze in Tehran, Iran. The building was evacuated but 30 firefighters have been killed in the collapse. ](/news/2017/01/19/the-17-story-plasco-building-collapses-after-a-blaze-in-tehran-iran-the-building-was-evacuated-but-30-firefighters-have-been-killed-in-the.md)
 The 17-story Plasco building in central Tehran has collapsed after a fire engulfed its top floors. Although the building was evacuated, dozens of emergency responders are feared trapped under the rubble.
 
-### [An eruption on Bogoslof Island of the Aleutian Islands disrupts air transportation routes, distributing tephra over populated areas, including Kodiak Island, {{convert|660|mi|km}} away from the volcano. ](/news/2017/01/19/an-eruption-on-bogoslof-island-of-the-aleutian-islands-disrupts-air-transportation-routes-distributing-tephra-over-populated-areas-includi.md)
+### [An eruption on Bogoslof Island of the Aleutian Islands disrupts air transportation routes, distributing tephra over populated areas, including Kodiak Island, 660|mi|km away from the volcano. ](/news/2017/01/19/an-eruption-on-bogoslof-island-of-the-aleutian-islands-disrupts-air-transportation-routes-distributing-tephra-over-populated-areas-includi.md)
 Pilots avoided the ash cloud, which rose to above 31,000 feet overnight Wednesday, but there were no reports of ash falling on land.
 
 ### [An Italian rescue official says a number of people have been killed by an avalanche, possibly connected to Wednesday's earthquakes, that buried a ski resort on a slope of the  Gran Sasso mountain in Italy's Abruzzo region. About 30 guests and staff  were at the hotel.  The only survivors are two men who had been outside when the disaster struck. ](/news/2017/01/19/an-italian-rescue-official-says-a-number-of-people-have-been-killed-by-an-avalanche-possibly-connected-to-wednesday-s-earthquakes-that-bur.md)
@@ -37,7 +37,7 @@ The Sinaloa cartel kingpin is reportedly headed for New York City, one of severa
 Adama Barrow is sworn in as Gambian president in Senegal as strongman Yahya Jammeh refuses to quit.
 
 ### [Sinn Fein politician Martin McGuinness retires from politics for health reasons. ](/news/2017/01/19/sinn-fa-c-in-politician-martin-mcguinness-retires-from-politics-for-health-reasons.md)
-_Context: Martin McGuinness, Sinn Féin_
+_Context: Martin McGuinness, Sinn Fein_
 
 ### [Former Georgia Governor Sonny Perdue is named Secretary of Agriculture, the last open seat in Trump's cabinet. ](/news/2017/01/19/former-georgia-governor-sonny-perdue-is-named-secretary-of-agriculture-the-last-open-seat-in-trump-s-cabinet.md)
 _Context: Presidential transition of Donald Trump, Secretary of Agriculture, Sonny Perdue, Trump administration_

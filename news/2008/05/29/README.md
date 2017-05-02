@@ -10,13 +10,13 @@ _Context: Aurora, Nebraska, Dave Heineman, Governor, Kearney, Nebraska, Tornadoe
 _Context: Brazil, Supreme Federal Court, embryonic stem cell_
 
 ### [ The National Indian Foundation publishes photographs of a tribe of uncontacted peoples in a remote area of Amazonia. ](/news/2008/05/29/the-national-indian-foundation-publishes-photographs-of-a-tribe-of-uncontacted-peoples-in-a-remote-area-of-amazonia.md)
-_Context: Amazonia, Fundação Nacional do Índio, photograph, uncontacted peoples_
+_Context: Amazonia, Fundacao Nacional do Indio, photograph, uncontacted peoples_
 
 ### [ A helicopter crashes into a building in Panama City, killing the Director-general of the Carabiniers of Chile and several civilians. ](/news/2008/05/29/a-helicopter-crashes-into-a-building-in-panama-city-killing-the-director-general-of-the-carabiniers-of-chile-and-several-civilians.md)
 _Context: Carabiniers of Chile, Director-general, Panama City_
 
 ### [ Tropical Storm Alma, the first tropical storm of the 2008 Pacific hurricane season, makes landfall in Nicaragua near the city of Leon bringing heavy rains and strong winds. ](/news/2008/05/29/tropical-storm-alma-the-first-tropical-storm-of-the-2008-pacific-hurricane-season-makes-landfall-in-nicaragua-near-the-city-of-lea3n-brin.md)
-_Context: 2008 Pacific hurricane season, León, Nicaragua, tropical storm_
+_Context: 2008 Pacific hurricane season, Leon, Nicaragua, tropical storm_
 
 ### [ A strong earthquake measuring 6.1 on the Richter scale strikes Iceland near the town of Selfoss. ](/news/2008/05/29/a-strong-earthquake-measuring-6-1-on-the-richter-scale-strikes-iceland-near-the-town-of-selfoss.md)
 _Context: Iceland, Richter scale, Selfoss, strong earthquake_

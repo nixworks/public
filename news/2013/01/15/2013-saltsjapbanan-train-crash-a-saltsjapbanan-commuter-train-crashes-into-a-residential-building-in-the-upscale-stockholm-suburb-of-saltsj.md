@@ -13,7 +13,7 @@ A cleaning woman stole an empty commuter train in a suburb of Stockholm and cras
 
 ### Related:
 
-1. [A cleaning woman accused of stealing an empty commuter train in Saltsjobaden, a suburb of Stockholm, Sweden, was not to blame for the crash. ](/news/2013/01/18/a-cleaning-woman-accused-of-stealing-an-empty-commuter-train-in-saltsjapbaden-a-suburb-of-stockholm-sweden-was-not-to-blame-for-the-crash.md) _Context: Saltsjöbaden, Stockholm, commuter train, crash_
+1. [A cleaning woman accused of stealing an empty commuter train in Saltsjobaden, a suburb of Stockholm, Sweden, was not to blame for the crash. ](/news/2013/01/18/a-cleaning-woman-accused-of-stealing-an-empty-commuter-train-in-saltsjapbaden-a-suburb-of-stockholm-sweden-was-not-to-blame-for-the-crash.md) _Context: Saltsjobaden, Stockholm, commuter train, crash_
 2. [A vehicle is driven into a group of people on a street in Stockholm, Sweden, killing four people. ](/news/2017/04/7/a-vehicle-is-driven-into-a-group-of-people-on-a-street-in-stockholm-sweden-killing-four-people.md) _Context: Stockholm_
 3. [The Swedish Academy announces that American singer-songwriter Bob Dylan has agreed to accept his Nobel Prize in Literature this weekend at a private location in Stockholm. ](/news/2017/03/29/the-swedish-academy-announces-that-american-singer-songwriter-bob-dylan-has-agreed-to-accept-his-nobel-prize-in-literature-this-weekend-at-a.md) _Context: Stockholm_
 4. [After Swedish police arrest a suspect on drug-related charges, rioting occurs in Rinkeby, a suburb of the Swedish capital Stockholm. ](/news/2017/02/21/after-swedish-police-arrest-a-suspect-on-drug-related-charges-rioting-occurs-in-rinkeby-a-suburb-of-the-swedish-capital-stockholm.md) _Context: Stockholm_

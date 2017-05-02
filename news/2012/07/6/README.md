@@ -37,10 +37,10 @@ _Context: Balochistan, Pakistan, Turbat_
 The Serious Fraud Office (SFO) confirms that it has formally launched a criminal investigation into the rigging of the inter-bank lending rate, Libor.
 
 ### [For the second time in history and with the same person, the Parliament of Romania votes to suspend President Traian Basescu from office. On 29 July 2012 he will face a national referendum for his dismissal. ](/news/2012/07/6/for-the-second-time-in-history-and-with-the-same-person-the-parliament-of-romania-votes-to-suspend-president-traian-basescu-from-office-o.md)
-_Context: President, Traian Băsescu, assembly, presidential impeachment referendum_
+_Context: President, Traian Basescu, assembly, presidential impeachment referendum_
 
 ### [After a partial vote recount, Enrique Pena Nieto is confirmed as the winner of the 2012 Mexican presidential election ](/news/2012/07/6/after-a-partial-vote-recount-enrique-pea-a-nieto-is-confirmed-as-the-winner-of-the-2012-mexican-presidential-election.md)
-_Context: Enrique Peña Nieto, Mexican presidential elections_
+_Context: Enrique Pena Nieto, Mexican presidential elections_
 
 ### [Rep. Thaddeus McCotter, R-Mich., announces his resignation from the United States House of Representatives. ](/news/2012/07/6/rep-thaddeus-mccotter-r-mich-announces-his-resignation-from-the-united-states-house-of-representatives.md)
 Rep. Thaddeus McCotter resigned from Congress on Friday, capping a bizarre two-month period with a surprise exit from Congress.

@@ -28,7 +28,7 @@ _Context: Occupy Oakland, Occupy Portland_
 Labour MP Alan Keen has died at the age of 73 after a battle with cancer, it was announced today.
 
 ### [200,000 people protest in Bogot, Colombia, against government cuts in public education. ](/news/2011/11/14/200-000-people-protest-in-bogota-colombia-against-government-cuts-in-public-education.md)
-_Context: Bogotá, Colombia_
+_Context: Bogota, Colombia_
 
 ## [Previous Day...](/news/2011/11/13/index.md)
 

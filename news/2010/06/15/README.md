@@ -7,7 +7,7 @@ Mir Hussein Moussavi issued a defiant statement but urged his supporters to avoi
 Sergent convicted of killing unarmed Iraqi man released from prison pending appeal.
 
 ### [Militants kill 12 police officers in a string of attacks and six civilians die in bombings in Afghanistan, and a U.S. soldier is killed in a gun battle in eastern Afghanistan in the latest fighting in the war in Afghanistan. ](/news/2010/06/15/militants-kill-12-police-officers-in-a-string-of-attacks-and-six-civilians-die-in-bombings-in-afghanistan-and-a-u-s-soldier-is-killed-in-a.md)
-_Context: Afghanistan, War in Afghanistan (2001–present)_
+_Context: Afghanistan, War in Afghanistan (2001-present)_
 
 ### [Heavy rain triggers landslides that leave at least 24 people dead in Sichuan province's Kangding county. In one incident, part of a mountain fell on a construction site in Sichuan province, crushing workers who were sleeping in tents. ](/news/2010/06/15/heavy-rain-triggers-landslides-that-leave-at-least-24-people-dead-in-sichuan-province-s-kangding-county-in-one-incident-part-of-a-mountain.md)
 _Context: Kangding, Sichuan Province, tent_

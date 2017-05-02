@@ -1,6 +1,6 @@
 ### [2013-01-15](/news/2013/01/15/index.md)
 
-# Iraqi insurgency (post-U.S. withdrawal):A suicide bomber kills a Sunni MP and six others in Fallujah, two days after Finance Minister Rafi al-Issawi survived an assassination attempt in the same city. The parliamentarian, Ifan Saadoun al-Issawi, was an important member of the Sahwa{{dn|date=July 2013}} committee in Fallujah and part of the opposition to Prime Minister Nouri al-Maliki. 
+# Iraqi insurgency (post-U.S. withdrawal):A suicide bomber kills a Sunni MP and six others in Fallujah, two days after Finance Minister Rafi al-Issawi survived an assassination attempt in the same city. The parliamentarian, Ifan Saadoun al-Issawi, was an important member of the Sahwadate=July 2013 committee in Fallujah and part of the opposition to Prime Minister Nouri al-Maliki. 
 
 Ayfan Sadoun al-Essawi and six others killed in suicide attack in Fallujah, officials say.
 

@@ -46,7 +46,7 @@ _Context: Eutelsat 70B, Odyssey Launch Platform, Pacific, Sea Launch, Zenit-3SL,
 NASA&#039;s Voyager 1 spacecraft has entered a new region at the far reaches of our solar system that scientists feel is the final area the spacecraft has to cross before reaching interstellar space.
 
 ### [Ernesto Valverde is appointed Valencia CF coach until the end of the season, replacing Mauricio Pellegrino, who was sacked two days ago. ](/news/2012/12/3/ernesto-valverde-is-appointed-valencia-cf-coach-until-the-end-of-the-season-replacing-mauricio-pellegrino-who-was-sacked-two-days-ago.md)
-_Context: 2012–13 La Liga, Ernesto Valverde, Mauricio Pellegrino, Valencia_
+_Context: 2012-13 La Liga, Ernesto Valverde, Mauricio Pellegrino, Valencia_
 
 ### [Bundesliga football club Hoffenheim fires head coach Markus Babbel after the 1-4 loss to Werder Bremen in the 2012-13 season game. ](/news/2012/12/3/bundesliga-football-club-hoffenheim-fires-head-coach-markus-babbel-after-the-1a4-loss-to-werder-bremen-in-the-2012a13-season-game.md)
 Hoffenheim sporting director Andreas Muller has confirmed the departure of coach Markus Babbel from the club

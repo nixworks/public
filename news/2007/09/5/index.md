@@ -8,7 +8,7 @@ _Context: Mogadishu, Somalia_
 _Context: Brazilian Senate, Congress, Renan Calheiros_
 
 ### [ Two candidates from Rigoberta Menchu's Encuentro por Guatemala Party are shot dead as part of a wave of campaign-related violence that has claimed 50 lives. ](/news/2007/09/5/two-candidates-from-rigoberta-menchao-s-encuentro-por-guatemala-party-are-shot-dead-as-part-of-a-wave-of-campaign-related-violence-that-has.md)
-_Context: 2007 general election, Encuentro por Guatemala Party, Rigoberta Menchú_
+_Context: 2007 general election, Encuentro por Guatemala Party, Rigoberta Menchu_
 
 ### [ 2007 Pacific hurricane season: Hurricane Henriette makes landfall near the port of Guaymas in the Mexican state of Sonora. ](/news/2007/09/5/2007-pacific-hurricane-season-hurricane-henriette-makes-landfall-near-the-port-of-guaymas-in-the-mexican-state-of-sonora.md)
 _Context: 2007 Pacific hurricane season, Guaymas, Mexican state, Mexico, Sonora_
@@ -17,7 +17,7 @@ _Context: 2007 Pacific hurricane season, Guaymas, Mexican state, Mexico, Sonora_
 British Prime Minister Gordon Brown launched an international initiative, which aims to improve healthcare and sweep away killer diseases in some of the world&#039;s poorest countries.
 
 ### [ Fred Thompson, a former U.S. Senator and actor, announces that he is a candidate for the Republican nomination in the 2008 presidential election. ](/news/2007/09/5/fred-thompson-a-former-u-s-senator-and-actor-announces-that-he-is-a-candidate-for-the-republican-nomination-in-the-2008-presidential-ele.md)
-_Context: 2008, Fred Thompson, Republican, Senator_
+_Context: 2008, Fred Thompson, Republican, United States Senate_
 
 ### [ Judge William Hoeveler places a stay on ex-Panamanian leader Manuel Noriega's extradition from the United States to France so that his defence can present a new appeal. ](/news/2007/09/5/judge-william-hoeveler-places-a-stay-on-ex-panamanian-leader-manuel-noriega-s-extradition-from-the-united-states-to-france-so-that-his-defe.md)
 _Context: France, Manuel Noriega, Panama, United States, William Hoeveler, extradited_
@@ -50,7 +50,7 @@ _Context: Anders Borg, Mikael Odenberg, Minister for Foreign Trade, Sten Tolgfor
 _Context: Federal Court of Justice, Karlsruhe, terrorism_
 
 ### [ War in Afghanistan: Afghan and U.S led coalition forces kill 20 insurgents while two Afghan policeman die in a bomb attack. ](/news/2007/09/5/war-in-afghanistan-afghan-and-u-s-led-coalition-forces-kill-20-insurgents-while-two-afghan-policeman-die-in-a-bomb-attack.md)
-_Context: Afghanistan, United States, War in Afghanistan (2001–present)_
+_Context: Afghanistan, United States, War in Afghanistan (2001-present)_
 
 ### [ Israeli tanks and bulldozers enter the Gaza Strip in a limited operation against rocket launchers. ](/news/2007/09/5/israeli-tanks-and-bulldozers-enter-the-gaza-strip-in-a-limited-operation-against-rocket-launchers.md)
 _Context: Gaza Strip, Israel_

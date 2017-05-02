@@ -3,7 +3,7 @@
 ### [ In Costa Rica, the presidential election is a tight race and too close to call. ](/news/2006/02/6/in-costa-rica-the-presidential-election-is-a-tight-race-and-too-close-to-call.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-### [ Mauritania denounces amendments to an oil contract made by former leader Maaouiya Ould Taya with Woodside Petroleum. The Mauritanian authorities declare that the amendments were signed "outside the legal framework of normal practice, to the great detriment of our country", and could cost Mauritania up to {{Nowrap|$200 million}} a year. ](/news/2006/02/6/mauritania-denounces-amendments-to-an-oil-contract-made-by-former-leader-maaouiya-ould-taya-with-woodside-petroleum-the-mauritanian-author.md)
+### [ Mauritania denounces amendments to an oil contract made by former leader Maaouiya Ould Taya with Woodside Petroleum. The Mauritanian authorities declare that the amendments were signed "outside the legal framework of normal practice, to the great detriment of our country", and could cost Mauritania up to $200 million a year. ](/news/2006/02/6/mauritania-denounces-amendments-to-an-oil-contract-made-by-former-leader-maaouiya-ould-taya-with-woodside-petroleum-the-mauritanian-author.md)
 _Context: Maaouiya Ould Taya, Mauritania, Woodside Petroleum_
 
 ### [ U.S. Senate Committee on the Judiciary hearings begin regarding the NSA warrantless surveillance program, with testimony from Attorney General Alberto Gonzales. ](/news/2006/02/6/u-s-senate-committee-on-the-judiciary-hearings-begin-regarding-the-nsa-warrantless-surveillance-program-with-testimony-from-attorney-gene.md)

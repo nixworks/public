@@ -4,7 +4,7 @@
 _Context: Microsoft, Microsoft Windows, Novell, Novell's SUSE Linux, operating systems_
 
 ### [ The governments of the Netherlands and the Netherlands Antilles sign an agreement in The Hague, disbanding the Netherlands Antilles on July 1, 2007. The islands of Curaao and Sint Maarten become autonomous associated states within the Kingdom of the Netherlands, while Bonaire, Saba and Sint Eustatius become Dutch municipalities. ](/news/2006/11/2/the-governments-of-the-netherlands-and-the-netherlands-antilles-sign-an-agreement-in-the-hague-disbanding-the-netherlands-antilles-on-july.md)
-_Context: Bonaire, Curaçao, Dutch municipalities, Kingdom of the Netherlands, Netherlands, Netherlands Antilles, Saba, Sint Eustatius, Sint Maarten, The Hague, associated state_
+_Context: Bonaire, Curaao, Dutch municipalities, Kingdom of the Netherlands, Netherlands, Netherlands Antilles, Saba, Sint Eustatius, Sint Maarten, The Hague, associated state_
 
 ### [ The Rev. Ted Haggard resigns as head of the National Association of Evangelicals in the United States amidst allegations of a gay affair. ](/news/2006/11/2/the-rev-ted-haggard-resigns-as-head-of-the-national-association-of-evangelicals-in-the-united-states-amidst-allegations-of-a-gay-affair.md)
 _Context: National Association of Evangelicals, Ted Haggard, United States_
@@ -22,7 +22,7 @@ _Context: Australia, Bangladesh, France, India, Office for National Statistics, 
 _Context: 2006 Georgian-Russian espionage controversy, Gazprom, Georgia, Russia, natural gas_
 
 ### [ Don McKinnon, the Commonwealth Secretary-General, conveys the support of the Commonwealth of Nations to the Prime Minister of Fiji Laisenia Qarase. He warned Fijian military commander Frank Bainimarama against staging a coup d'etat. ](/news/2006/11/2/don-mckinnon-the-commonwealth-secretary-general-conveys-the-support-of-the-commonwealth-of-nations-to-the-prime-minister-of-fiji-laisenia.md)
-_Context: Commonwealth of Nations, Don McKinnon, Fiji, Laisenia Qarase, Prime Minister, Secretary-General, Voreqe Bainimarama, coup d'état_
+_Context: Commonwealth of Nations, Don McKinnon, Fiji, Laisenia Qarase, Prime Minister, Secretary-General, Voreqe Bainimarama, coup d'tat_
 
 ### [ The U.S. military identifies Ahmed Qusai al-Taai, an Iraqi-American translator, as the U.S. soldier kidnapped at gunpoint in Iraq on October 23, 2006. ](/news/2006/11/2/the-u-s-military-identifies-ahmed-qusai-al-taai-an-iraqi-american-translator-as-the-u-s-soldier-kidnapped-at-gunpoint-in-iraq-on-octobe.md)
 _Context: Ahmed Qusai al-Taai, Iraq, military, soldier_

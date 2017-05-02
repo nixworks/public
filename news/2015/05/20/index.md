@@ -43,7 +43,7 @@ _Context: Washington, D.C._
 Deeply-red Nebraska is on the verge of becoming the 19th state to abolish the death penalty.
 
 ### [Julio Surez, the head of the Guatemalan Central Bank, is arrested together with the head of the Social Security Administration on corruption charges. ](/news/2015/05/20/julio-suarez-the-head-of-the-guatemalan-central-bank-is-arrested-together-with-the-head-of-the-social-security-administration-on-corruptio.md)
-_Context: Central Bank, Guatemala, Julio Suárez_
+_Context: Central Bank, Guatemala, Julio Surez_
 
 ## [Previous Day...](/news/2015/05/19/index.md)
 

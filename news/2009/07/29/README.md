@@ -4,7 +4,7 @@
 _Context: Nigeria, Nigerian battles, alive when captured_
 
 ### [ So Tom and Prncipe signs a loan deal with former colonial power Portugal aimed at anchoring the dobra to the euro. ](/news/2009/07/29/sao-tome-and-principe-signs-a-loan-deal-with-former-colonial-power-portugal-aimed-at-anchoring-the-dobra-to-the-euro.md)
-_Context: Portuguese, São Tomé and Príncipe, dobra, euro_
+_Context: Portuguese, So Tom and Prncipe, dobra, euro_
 
 ### [ Moldova goes to the polls for a parliamentary election, with an exit poll suggesting a setback for the Communist Party. ](/news/2009/07/29/moldova-goes-to-the-polls-for-a-parliamentary-election-with-an-exit-poll-suggesting-a-setback-for-the-communist-party.md)
 _Context: Communist Party, Moldova, exit poll, parliamentary election_
@@ -13,7 +13,7 @@ _Context: Communist Party, Moldova, exit poll, parliamentary election_
 _Context: Kurdish, Massoud Barzani_
 
 ### [ Guinea-Bissau former leader Malam Bacai Sanh wins a presidential run-off to decide who replaces the assassinated Joo Bernardo Vieira. ](/news/2009/07/29/guinea-bissau-former-leader-malam-bacai-sanha-wins-a-presidential-run-off-to-decide-who-replaces-the-assassinated-joao-bernardo-vieira.md)
-_Context: Guinea-Bissau, João Bernardo Vieira, Malam Bacai SanhÃ¡_
+_Context: Guinea-Bissau, Joo Bernardo Vieira, Malam Bacai Sanha_
 
 ### [ A car bomb explodes outside a police barracks in the northern Spanish city of Burgos, injuring dozens of people. ](/news/2009/07/29/a-car-bomb-explodes-outside-a-police-barracks-in-the-northern-spanish-city-of-burgos-injuring-dozens-of-people.md)
 A car bomb has exploded near a civil guards barracks in Burgos in northern Spain.

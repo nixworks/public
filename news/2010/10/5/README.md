@@ -76,7 +76,7 @@ A paroled burglar was found guilty Tuesday of murdering a mother and her two dau
 The judge in the first civilian case against an ex-Guantanamo inmate bars a key government witness, in a blow to US prosecutors.
 
 ### [Serbia mark the tenth anniversary of the overthrow of Slobodan Milosevic. EU and U.S. politicians send their congratulations. ](/news/2010/10/5/serbia-mark-the-tenth-anniversary-of-the-overthrow-of-slobodan-miloa-evia-eu-and-u-s-politicians-send-their-congratulations.md)
-_Context: Serbia, Slobodan Milošević, overthrow_
+_Context: Serbia, Slobodan Milosevic, overthrow_
 
 ### [UK Prime Minister David Cameron is forced to issue an apology to his own voters after breaking an election promise by withdrawing child benefit from 1.2 million of them. ](/news/2010/10/5/uk-prime-minister-david-cameron-is-forced-to-issue-an-apology-to-his-own-voters-after-breaking-an-election-promise-by-withdrawing-child-bene.md)
 _Context: David Cameron_

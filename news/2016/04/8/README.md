@@ -10,7 +10,7 @@ Iraqi forces backed by U.S.-led coalition air strikes reached the center of the 
 Islamic State militants have killed 175 workers who were captured at a cement factory situated to the east of Damascus, Sputnik Arabic reported, citing its sources.
 
 ### [2016 Armenian-Azerbaijani clashes An ethnic Armenian soldier dies in overnight clashes. ](/news/2016/04/8/2016-armenianaazerbaijani-clashes-pan-ethnic-armenian-soldier-dies-in-overnight-clashes.md)
-_Context: 2016 Armenian–Azerbaijani clashes, Armenian_
+_Context: 2016 Armenian-Azerbaijani clashes, Armenian_
 
 ### [Pope Francis issues ''Amoris Laetitia'' or the Joy of Love, a document on the Roman Catholic approach to love, sex, marriage and family life.  ](/news/2016/04/8/pope-francis-issues-amoris-laetitia-or-the-joy-of-love-a-document-on-the-roman-catholic-approach-to-love-sex-marriage-and-family-life.md)
 VATICAN CITY (AP) — In a sweeping document on family life that opened a door to divorced and civilly remarried Catholics, Pope Francis insisted Friday that church doctrine cannot be the final word in answering tricky moral…
@@ -19,10 +19,10 @@ VATICAN CITY (AP) — In a sweeping document on family life that opened a door t
 _Context: Bruce Springsteen and the E Street Band, Greensboro, North Carolina, North Carolina bathroom bill, bathroom bill_
 
 ### [Both Starwood Hotels and Resorts Worldwide  and Marriott International   shareholders  approve Marriott's acquisition of Starwood, which will create the world's largest  hotelier.   The deal has cleared the pre-merger antitrust reviews in the United States and Canada; approvals from the European Union and China is pending. Last week, Anbang Insurance Group topped Marriott's bid, then withdrew their offer three days later. ](/news/2016/04/8/both-starwood-hotels-and-resorts-worldwide-and-marriott-international-shareholders-approve-marriott-s-acquisition-of-starwood-which-wil.md)
-_Context: Anbang Insurance Group, Canadian, China, European Union, Marriott International, Starwood Hotels and Resorts Worldwide, United States, pre-merger, reduced competition and higher prices, shareholders_
+_Context: Anbang Insurance Group, Canada, China, European Union, Marriott International, Starwood Hotels and Resorts Worldwide, United States, pre-merger, reduced competition and higher prices, shareholders_
 
 ### [At least 245 people are reportedly injured following a head-on collision between two commuter trains in San Jose, Costa Rica. ](/news/2016/04/8/at-least-245-people-are-reportedly-injured-following-a-head-on-collision-between-two-commuter-trains-in-san-josa-c-costa-rica.md)
-_Context: San José, Costa Rica_
+_Context: San Jose, Costa Rica_
 
 ### [Three people are killed, and there was one survivor, following the crash of a small plane headed to Angoon in Southeast Alaska, United States. ](/news/2016/04/8/three-people-are-killed-and-there-was-one-survivor-following-the-crash-of-a-small-plane-headed-to-angoon-in-southeast-alaska-united-state.md)
 _Context: Angoon, Southeast Alaska, United States_
@@ -31,13 +31,13 @@ _Context: Angoon, Southeast Alaska, United States_
 Friday&#39;s public announcement is unusual for South Korea, which typically keeps a low-profile about defections.
 
 ### [King of Saudi Arabia Salman bin Abdulaziz Al Saud announces, during his trip to Cairo, that a bridge crossing the Red Sea will be built, linking Egypt and Saudi Arabia. Egyptian President Abdel Fattah el-Sisi says the bridge will be named after the Saudi monarch. A Saudi-Egypt Causeway project has been in the works for years. ](/news/2016/04/8/king-of-saudi-arabia-salman-bin-abdulaziz-al-saud-announces-during-his-trip-to-cairo-that-a-bridge-crossing-the-red-sea-will-be-built-lin.md)
-_Context: Abdel Fattah el-Sisi, Cairo, Egypt, Egyptian President, Egypt–Saudi Arabia relations, King of Saudi Arabia, Red Sea, Saudi Arabia, Saudi Arabia's King Salman, Saudi–Egypt Causeway_
+_Context: Abdel Fattah el-Sisi, Cairo, Egypt, Egypt-Saudi Arabia relations, Egyptian President, King of Saudi Arabia, Red Sea, Saudi Arabia, Saudi Arabia's King Salman, Saudi-Egypt Causeway_
 
 ### [Syria releases American freelance photographer Kevin Patrick Dawes who was kidnapped in 2012. ](/news/2016/04/8/syria-releases-american-freelance-photographer-kevin-patrick-dawes-who-was-kidnapped-in-2012.md)
 The 33-year-old from San Diego disappeared after crossing into Syria from Turkey in 2012.
 
 ### [NATO announces it will hold a meeting of the NATO-Russia Council at the ambassadorial level at NATO headquarters in Brussels in the next two weeks after a two-year break since NATO cut all practical cooperation with Russia in 2014. ](/news/2016/04/8/nato-announces-it-will-hold-a-meeting-of-the-natoarussia-council-at-the-ambassadorial-level-at-nato-headquarters-in-brussels-in-the-next-t.md)
-_Context: Brussels, NATO, NATO headquarters, NATO–Russia Council, NATO–Russia relations, Russia_
+_Context: Brussels, NATO, NATO headquarters, NATO-Russia Council, NATO-Russia relations, Russia_
 
 ### [Italy recalls its ambassador to Egypt for consultations in protest over the lack of progress in a probe into the fate of murdered Cambridge University  student Giulio Regeni. "We want only one thing, the truth about what happened to Giulio," Foreign Minister Paolo Gentiloni said on Friday. ](/news/2016/04/8/italy-recalls-its-ambassador-to-egypt-for-consultations-in-protest-over-the-lack-of-progress-in-a-probe-into-the-fate-of-murdered-cambridge.md)
 Italy on Friday recalled its ambassador to Egypt for consultations in protest over the lack of progress in a probe into the fate of murdered Cambridge student Giulio Regeni. The move came after two days of talks between Egyptian and Italian investigators in Rome ended without a resolution of tensions
@@ -61,7 +61,7 @@ _Context: El Salvador, Mossack Fonseca, Panama, Panama Papers_
 For more than a week, vast nocturnal gatherings have spread across France in a citizen-led movement that has rattled the government
 
 ### [Voters in Djibouti go to the polls for the first round of voting in a presidential election with current President Ismail Omar Guelleh winning a fourth term in office. ](/news/2016/04/8/voters-in-djibouti-go-to-the-polls-for-the-first-round-of-voting-in-a-presidential-election-with-current-president-ismaa-l-omar-guelleh-winn.md)
-_Context: Djibouti, Djiboutian presidential election, 2016, Ismaïl Omar Guelleh, President_
+_Context: Djibouti, Djiboutian presidential election, 2016, Ismail Omar Guelleh, President_
 
 ### [A Myanmar court releases 69 jailed student activists in the first wave of amnesty for the country's political prisoners, with more releases expected. This comes after State Counsellor Aung San Suu Kyi vowed to push for the release of all the political prisoners in Myanmar. ](/news/2016/04/8/a-myanmar-court-releases-69-jailed-student-activists-in-the-first-wave-of-amnesty-for-the-country-s-political-prisoners-with-more-releases.md)
 More detainees expected to be released, including 40 students facing charges since March 2015.

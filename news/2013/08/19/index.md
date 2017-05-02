@@ -21,7 +21,7 @@ A B-1B bomber with the 28th Bomb Wing crashed near Broadus, Mont. during a routi
 ### [Russia and Japan begin discussing the main starting points and modality of the upcoming talks on a peace treaty. ](/news/2013/08/19/russia-and-japan-begin-discussing-the-main-starting-points-and-modality-of-the-upcoming-talks-on-a-peace-treaty.md)
 _Context: Japan, Russia, peace treaty_
 
-### [The British warship {{HMS|Westminster|F237|6}} arrives in Gibraltar amid tensions with Spain. ](/news/2013/08/19/the-british-warship-hms-westminster-f237-6-arrives-in-gibraltar-amid-tensions-with-spain.md)
+### [The British warship Westminster|F237|6 arrives in Gibraltar amid tensions with Spain. ](/news/2013/08/19/the-british-warship-westminster-f237-6-arrives-in-gibraltar-amid-tensions-with-spain.md)
 The European Commission is to send a fact-finding mission to Gibraltar to examine the legitimacy of border controls imposed by Spain in a growing dispute over the British Mediterranean enclave.
 
 ### [South African track star Oscar Pistorius is officially charged with the murder of his girlfriend, Reeva Steenkamp, at his home earlier this year, with the trial due to start on March 13. ](/news/2013/08/19/south-african-track-star-oscar-pistorius-is-officially-charged-with-the-murder-of-his-girlfriend-reeva-steenkamp-at-his-home-earlier-this.md)

@@ -21,7 +21,7 @@ _Context: Dow Jones Industrial Average, NASDAQ, United States_
 ### [In the United States, employers added over 240,000 jobs in the month of January and the unemployment rate dropped to 8.3%, the lowest percent in three years. ](/news/2012/02/3/in-the-united-states-employers-added-over-240-000-jobs-in-the-month-of-january-and-the-unemployment-rate-dropped-to-8-3-the-lowest-percen.md)
 American employers substantially stepped up their hiring in January, bringing the unemployment rate down for the fifth month in a row.
 
-### [An official from Papua New Guinea's maritime safety authority estimates that 100 people were trapped aboard the ferry {{MV|Rabaul Queen}} which sank off the northeast coast yesterday. ](/news/2012/02/3/an-official-from-papua-new-guinea-s-maritime-safety-authority-estimates-that-100-people-were-trapped-aboard-the-ferry-mv-rabaul-queen-wh.md)
+### [An official from Papua New Guinea's maritime safety authority estimates that 100 people were trapped aboard the ferry Rabaul Queen which sank off the northeast coast yesterday. ](/news/2012/02/3/an-official-from-papua-new-guinea-s-maritime-safety-authority-estimates-that-100-people-were-trapped-aboard-the-ferry-rabaul-queen-which-san.md)
 _Context: Papua New Guinea_
 
 ### [Thousands of Australians are evacuated in northern New South Wales and Queensland due to rising floodwaters with parts of Queensland declared as a disaster area. ](/news/2012/02/3/thousands-of-australians-are-evacuated-in-northern-new-south-wales-and-queensland-due-to-rising-floodwaters-with-parts-of-queensland-declare.md)

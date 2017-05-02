@@ -43,7 +43,7 @@ _Context: West Bengal, yesterday's deadly train crash_
 Two men held in Guantanamo Bay for nearly eight years have been released to Algeria and Cape Verde, the Pentagon has announced.
 
 ### [Cuba's Ricardo Alarcon says the island is prepared to release further political prisoners after the 52 it announced earlier this month; he says they are free to remain in Cuba if they so wish. ](/news/2010/07/20/cuba-s-ricardo-alarca3n-says-the-island-is-prepared-to-release-further-political-prisoners-after-the-52-it-announced-earlier-this-month-he.md)
-_Context: Cuba, Ricardo Alarcón_
+_Context: Cuba, Ricardo Alarcon_
 
 ### [The United States announces it is to deploy troops along the US-Mexico border in August in what it sees as an effort to improve its security. ](/news/2010/07/20/the-united-states-announces-it-is-to-deploy-troops-along-the-us-mexico-border-in-august-in-what-it-sees-as-an-effort-to-improve-its-security.md)
 US National Guard troops will begin deploying along the US-Mexico border in August to help bolster security, officials say.
@@ -79,7 +79,7 @@ Police in southern Russia are investigating allegations of animal cruelty after 
 A former Indian junior diplomat held three months ago on suspicion of spying for Pakistan has been charged under the official secrets act, police say.
 
 ### [French prosecutors request that they be allowed to question Labour Minister Eric Woerth as part of an investigation into the country's political scandal. ](/news/2010/07/20/french-prosecutors-request-that-they-be-allowed-to-question-labour-minister-aric-warth-as-part-of-an-investigation-into-the-country-s-poli.md)
-_Context: Éric Wœrth_
+_Context: Eric Woerth_
 
 ### [Two prisoners flee a jail guarded by a dummy. ](/news/2010/07/20/two-prisoners-flee-a-jail-guarded-by-a-dummy.md)
 Two prisoners are on the run after fleeing an Argentine jail which used a dummy to guard its perimeter.
@@ -124,7 +124,7 @@ _Context: Far East, Prime Minister, Uglegorsk, Vladimir Putin, spaceport_
 French football star Franck Ribery is placed under formal judicial investigation for soliciting sex with an under-age prostitute.
 
 ### [Ryder Cup captain Colin Montgomerie selects Darren Clarke, Thomas Bjorn and Paul McGinley as his vice-captains. ](/news/2010/07/20/ryder-cup-captain-colin-montgomerie-selects-darren-clarke-thomas-bja-rn-and-paul-mcginley-as-his-vice-captains.md)
-_Context: Colin Montgomerie, Darren Clarke, Paul McGinley, Ryder Cup, Thomas Bjørn_
+_Context: Colin Montgomerie, Darren Clarke, Paul McGinley, Ryder Cup, Thomas Bjorn_
 
 ### [Alberto Contador apologises after he took advantage of Andy Schleck to obtain the yellow jersey in the 2010 Tour de France. ](/news/2010/07/20/alberto-contador-apologises-after-he-took-advantage-of-andy-schleck-to-obtain-the-yellow-jersey-in-the-2010-tour-de-france.md)
 _Context: 2010 Tour de France, Alberto Contador, Andy Schleck_

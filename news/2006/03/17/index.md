@@ -6,7 +6,7 @@ _Context: Beijing, China's, Liaoyang, Yuan Baojing, court, lethal injection, mur
 ### [ The European Parliament demands that Senegal turn over Hissne Habr to Belgium to be tried for his actions while he was President of Chad. Senegal is not expected to comply, as it already refused extradition demands from the African Union. The ATDPH has expressed its approval of the decision. ](/news/2006/03/17/the-european-parliament-demands-that-senegal-turn-over-hissene-habre-to-belgium-to-be-tried-for-his-actions-while-he-was-president-of-chad.md)
 _Context: ATDPH, African Union, Belgium, European Parliament, Hissene Habre, President of Chad, Senegal, extradited_
 
-### [ Six people have been charged in connection with Kenya's biggest fraud, which cost the government about {{Nowrap|$600 million}}. ](/news/2006/03/17/six-people-have-been-charged-in-connection-with-kenya-s-biggest-fraud-which-cost-the-government-about-nowrap-600-million.md)
+### [ Six people have been charged in connection with Kenya's biggest fraud, which cost the government about $600 million. ](/news/2006/03/17/six-people-have-been-charged-in-connection-with-kenya-s-biggest-fraud-which-cost-the-government-about-600-million.md)
 _Context: Kenya, biggest fraud_
 
 ### [ Following an outbreak of bird flu in Israel, Europe bans imports of Israeli chicken; Ministry of Agriculture halts exports of unprocessed birds; Kibbutzim in the south, heart of Israel put under closure; four people hospitalized in the south are found not to be infected with the disease. ](/news/2006/03/17/following-an-outbreak-of-bird-flu-in-israel-europe-bans-imports-of-israeli-chicken-ministry-of-agriculture-halts-exports-of-unprocessed-b.md)

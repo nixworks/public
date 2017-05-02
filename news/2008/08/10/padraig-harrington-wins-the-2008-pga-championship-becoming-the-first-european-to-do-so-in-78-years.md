@@ -11,5 +11,5 @@
 
 ### Related:
 
-1. [ Golfer Pdraig Harrington of Ireland wins his second successive Open Championship (British Open). ](/news/2008/07/20/golfer-padraig-harrington-of-ireland-wins-his-second-successive-open-championship-british-open.md) _Context: Pádraig Harrington_
-2. [ Irish golfer Pdraig Harrington wins the British Open defeating Sergio Garca in a playoff. ](/news/2007/07/22/irish-golfer-padraig-harrington-wins-the-british-open-defeating-sergio-garcia-in-a-playoff.md) _Context: Pádraig Harrington_
+1. [ Golfer Pdraig Harrington of Ireland wins his second successive Open Championship (British Open). ](/news/2008/07/20/golfer-padraig-harrington-of-ireland-wins-his-second-successive-open-championship-british-open.md) _Context: Pdraig Harrington_
+2. [ Irish golfer Pdraig Harrington wins the British Open defeating Sergio Garca in a playoff. ](/news/2007/07/22/irish-golfer-padraig-harrington-wins-the-british-open-defeating-sergio-garcia-in-a-playoff.md) _Context: Pdraig Harrington_

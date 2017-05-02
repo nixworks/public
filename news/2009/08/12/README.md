@@ -12,7 +12,7 @@ _Context: Shia, Shia insurgency in Yemen, Yemen_
 ### [ Thirty people are killed in Warrap state in southern Sudan, in a resurgence of the nomadic conflicts. ](/news/2009/08/12/thirty-people-are-killed-in-warrap-state-in-southern-sudan-in-a-resurgence-of-the-nomadic-conflicts.md)
 _Context: Sudan, Warrap state, renewed violence_
 
-### [ Russia's navy is deployed to find the {{MV|Arctic Sea}}, a missing ship reportedly hijacked three weeks ago in the Baltic Sea. ](/news/2009/08/12/russia-s-navy-is-deployed-to-find-the-mv-arctic-sea-a-missing-ship-reportedly-hijacked-three-weeks-ago-in-the-baltic-sea.md)
+### [ Russia's navy is deployed to find the Arctic Sea, a missing ship reportedly hijacked three weeks ago in the Baltic Sea. ](/news/2009/08/12/russia-s-navy-is-deployed-to-find-the-arctic-sea-a-missing-ship-reportedly-hijacked-three-weeks-ago-in-the-baltic-sea.md)
 _Context: Baltic Sea, Russia_
 
 ### [ About 700 people missing in southern Taiwan after Typhoon Morakot are located alive. ](/news/2009/08/12/about-700-people-missing-in-southern-taiwan-after-typhoon-morakot-are-located-alive.md)
@@ -28,12 +28,12 @@ _Context: Airlines PNG, Isurava, Papua New Guinea, wreckage_
 _Context: Galkayo, Islam, Pakistan, Somalia_
 
 ### [ Gregoire Ndahimana, a Rwandan fugitive accused of genocide and crimes against humanity, is arrested by a joint Rwandan-Congolese military operation. ](/news/2009/08/12/gregoire-ndahimana-a-rwandan-fugitive-accused-of-genocide-and-crimes-against-humanity-is-arrested-by-a-joint-rwandan-congolese-military-o.md)
-_Context: Democratic Republic of the Congo, Grégoire Ndahimana, Rwanda, genocide_
+_Context: Democratic Republic of the Congo, Grgoire Ndahimana, Rwanda, genocide_
 
 ### [ An estimated 20,000 people march through Noumea, New Caledonia, to denounce violent clashes by USTKE  trade unionists against police. ](/news/2009/08/12/an-estimated-20-000-people-march-through-noumea-new-caledonia-to-denounce-violent-clashes-by-ustke-trade-unionists-against-police.md)
 _Context: New Caledonia, Noumea, police, trade unionists_
 
-### [ {{MV|Princess Ashika}} New Zealand Navy divers believe they have located the sunken {{MV|Princess Ashika}} a week after the accident. ](/news/2009/08/12/mv-princess-ashika-p-new-zealand-navy-divers-believe-they-have-located-the-sunken-mv-princess-ashika-a-week-after-the-accident.md)
+### [ Princess Ashika New Zealand Navy divers believe they have located the sunken Princess Ashika a week after the accident. ](/news/2009/08/12/princess-ashikap-new-zealand-navy-divers-believe-they-have-located-the-sunken-princess-ashika-a-week-after-the-accident.md)
 Tongan Transport Minister Paul Karalus has resigned, six days after the sinking of the Princess Ashika. - New Zealand Herald
 
 ### [ German CDU politician Vera Lengsfeld attracts controversy for displaying a photo of Angela Merkel in a revealing gown without the authorisation of the Chancellor. ](/news/2009/08/12/german-cdu-politician-vera-lengsfeld-attracts-controversy-for-displaying-a-photo-of-angela-merkel-in-a-revealing-gown-without-the-authorisa.md)
@@ -43,7 +43,7 @@ _Context: Angela Merkel, Christian Democratic Union, German Chancellor, Germany,
 _Context: Lebanon, Lubna al-Hussein, Sudan_
 
 ### [ Diego Len Montoya Snchez, Norte Valle Cartel leader, pleads guilty to drug, murder and racketeering charges. ](/news/2009/08/12/diego-leon-montoya-sanchez-norte-valle-cartel-leader-pleads-guilty-to-drug-murder-and-racketeering-charges.md)
-_Context: Diego León Montoya Sánchez, Norte Valle Cartel, murder, racketeering_
+_Context: Diego Len Montoya Snchez, Norte Valle Cartel, murder, racketeering_
 
 ### [ The Roman Catholic Church is expresses "unease" and "mortification" over revelations surrounding the private life of Italian Prime Minister Silvio Berlusconi. ](/news/2009/08/12/the-roman-catholic-church-is-expresses-unease-and-mortification-over-revelations-surrounding-the-private-life-of-italian-prime-minister.md)
 _Context: Italian, Italian Prime Minister, Roman Catholic Church, Silvio Berlusconi_

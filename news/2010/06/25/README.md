@@ -40,7 +40,7 @@ _Context: Egypt, Gaza Strip, Israel, Palestinian rocket attacks on Israel, Rafah
 Russia and Britain have agreed to renew ties recently strained by suspicions of murder and spying.
 
 ### [Five people are killed and one is seriously wounded after an attack at a wedding party in Ghrab hamlet in Algeria's Tebessa Province. ](/news/2010/06/25/five-people-are-killed-and-one-is-seriously-wounded-after-an-attack-at-a-wedding-party-in-ghrab-hamlet-in-algeria-s-ta-c-bessa-province.md)
-_Context: Algeria, Ghrab, Tébessa Province_
+_Context: Algeria, Ghrab, Tebessa Province_
 
 ### [Three Indonesian celebrities - pop star Nazril "Ariel" Irham, TV presenter Luna Maya and soapstar Cut Tari - are allegedly involved in a celebrity sex tape; Nazril "Ariel" Irham is charged, prompting anger and calls for punishment from some conservative groups in the country. ](/news/2010/06/25/three-indonesian-celebrities-pop-star-nazril-ariel-irham-tv-presenter-luna-maya-and-soapstar-cut-tari-are-allegedly-involved-in-a-cel.md)
 A top Indonesian celebrity is charged over sex tapes said to feature him that appeared on the internet.
@@ -55,7 +55,7 @@ _Context: Deng Xiaoping, Hu Jintao, Jiang Zemin, Mao Zedong, Sichuan_
 A statue of Stalin has been taken down in Georgia, putting him in the company of leaders such as Franco, Chiang Kai-Shek and King Leopold II of Belgium, whose statues have also been removed.
 
 ### [The 36th G8 summit opens in Huntsville, Ontario and the 4th G20 summit is held in Toronto, Canada.](/news/2010/06/25/the-36th-g8-summit-opens-in-huntsville-ontario-and-the-4th-g20-summit-is-held-in-toronto-canada.md)
-_Context: 36th G8 summit, Canadian, G20 summit, Huntsville, Ontario, Toronto_
+_Context: 36th G8 summit, Canada, G20 summit, Huntsville, Ontario, Toronto_
 
 ### [British-Irish Council:The British-Irish Council meets in Guernsey, with those attending including Taoiseach Brian Cowen, Northern Ireland Secretary Owen Paterson, Northern Ireland First Minister Peter Robinson and Deputy First Minister Martin McGuinness, the First Ministers of Scotland and Wales, and the Chief Ministers of Guernsey, Jersey and the Isle of Man. ](/news/2010/06/25/britishairish-council-pthe-britishairish-council-meets-in-guernsey-with-those-attending-including-taoiseach-brian-cowen-northern-irela.md)
 The Taoiseach is attending a meeting of the British-Irish Council in Guernsey today.

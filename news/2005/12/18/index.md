@@ -28,7 +28,7 @@ _Context: 2005 ASEAN Para Games, Malaysia, Philippines, Thailand_
 (Video) PM evacuated to Hadassah Ein Kerem hospital after suffering mild stroke; sources say his condition not serious. Deputy Prime Minister Ehud Olmert on standby to assume control if needed; Sharon: &#39;I feel much better. I&#39;m fine. I&#39;m sorry for bothering the whole hospital&#39;
 
 ### [ Sao Paulo win the FIFA Club World Championship in Yokohama, Japan, defeating Liverpool F.C. 1-0. ](/news/2005/12/18/sapso-paulo-win-the-fifa-club-world-championship-in-yokohama-japan-defeating-liverpool-f-c-1-0.md)
-_Context: FIFA Club World Championship, Japan, Liverpool F.C., São Paulo, Yokohama_
+_Context: FIFA Club World Championship, Japan, Liverpool F.C., Sao Paulo, Yokohama_
 
 ### [ President George W. Bush defends the Iraq War in a rare primetime Oval Office address. He said, "Not only can we win the war in Iraq -- we are winning the war in Iraq." ](/news/2005/12/18/president-george-w-bush-defends-the-iraq-war-in-a-rare-primetime-oval-office-address-he-said-not-only-can-we-win-the-war-in-iraq-a-we.md)
 _Context: George W. Bush, Iraq War, Oval Office, President_

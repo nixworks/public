@@ -13,7 +13,7 @@ For the second time this week Fiji, still recovering from late-February Winston,
 Months of a severe drought broken by heavy rain as torrential downpours develop along the East African Rift Valley.
 
 ### [The International Criminal Tribunal for the former Yugoslavia, in a majority vote, ordered an "indefinite" halt in the war crimes trial of Croatian Serb rebel leader Goran Hadzic, who is terminally ill with brain cancer and declared "unfit to stand trial." Hadzic was charged with 14 war crimes and crimes against humanity for his role in the 1991-95 war in Croatia. ](/news/2016/04/6/the-international-criminal-tribunal-for-the-former-yugoslavia-in-a-majority-vote-ordered-an-indefinite-halt-in-the-war-crimes-trial-of-c.md)
-_Context: 1991–95 war, Croatia, Croatian Serb, Goran Hadžić, International Criminal Tribunal for the former Yugoslavia_
+_Context: 1991-95 war, Croatia, Croatian Serb, Goran Hadzic, International Criminal Tribunal for the former Yugoslavia_
 
 ### [The President of Russia Vladimir Putin announces the creation of a new National Guard, which he said would fight terrorism and organized crime. However, some critics claim the creation of the National Guard is linked to the upcoming legislative election this September with them saying that Putin fears unrest, something Putin's spokesman Dmitry Peskov denies. ](/news/2016/04/6/the-president-of-russia-vladimir-putin-announces-the-creation-of-a-new-national-guard-which-he-said-would-fight-terrorism-and-organized-cri.md)
 _Context: Dmitry Peskov, National Guard, Russian President, Russian legislative election, 2016, Vladimir Putin_

@@ -40,7 +40,7 @@ _Context: China, Guantanamo Bay detention camp, Palau, Uyghur_
 _Context: Burma, Internal conflict in Burma, Karen, Karen State, Myanmar Army, Royal Thai Army, Thailand_
 
 ### [ Rose Francine Rogomb is sworn in as acting head of state in Gabon, following the death of Omar Bongo Ondimba. ](/news/2009/06/10/rose-francine-rogombe-is-sworn-in-as-acting-head-of-state-in-gabon-following-the-death-of-omar-bongo-ondimba.md)
-_Context: Gabon, Omar Bongo Ondimba, Rose Francine Rogombé_
+_Context: Gabon, Omar Bongo Ondimba, Rose Francine Rogomb_
 
 ### [ Nine miners die and four are still missing after an accident at a coal mine in Donetsk, Ukraine. ](/news/2009/06/10/nine-miners-die-and-four-are-still-missing-after-an-accident-at-a-coal-mine-in-donetsk-ukraine.md)
 _Context: Donetsk, Ukrainian_

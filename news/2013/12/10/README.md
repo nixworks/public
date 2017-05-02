@@ -19,7 +19,7 @@ _Context: National Security Agency, Second Life, World of Warcraft, Xbox 360_
 _Context: Al-Qaeda insurgency in Yemen, Filipino, Philippines, Yemen_
 
 ### [Jean-Claude Mas, the founder of Poly Implant Prothse is sentenced in a French court to four years in prison for fraud for selling faulty breast implants. ](/news/2013/12/10/jean-claude-mas-the-founder-of-poly-implant-prothese-is-sentenced-in-a-french-court-to-four-years-in-prison-for-fraud-for-selling-faulty-br.md)
-_Context: Poly Implant Prothèse, breast implant_
+_Context: Poly Implant Prothse, breast implant_
 
 ### [Looters in Argentina kill at least five people as mobs take advantage of strikes by police demanding pay raises. ](/news/2013/12/10/looters-in-argentina-kill-at-least-five-people-as-mobs-take-advantage-of-strikes-by-police-demanding-pay-raises.md)
 BUENOS AIRES, Argentina (AP) â€” Outbreaks of looting have spread across Argentina as mobs take advantage of strikes by police demanding pay raises to match inflation.

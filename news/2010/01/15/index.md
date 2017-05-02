@@ -4,7 +4,7 @@
 _Context: Americas, Fiji, Johnson & Johnson, Motrin, Rolaids, Tylenol, United Arab Emirates_
 
 ### [President Faure Gnassingb and national team captain Emmanuel Adebayor are among dignitaries to attend a funeral ceremony held in Lom for the two football officials killed during the Togo national football team attack in Angola. ](/news/2010/01/15/president-faure-gnassingbe-and-national-team-captain-emmanuel-adebayor-are-among-dignitaries-to-attend-a-funeral-ceremony-held-in-lome-for-t.md)
-_Context: Angola, Emmanuel Adebayor, Faure Gnassingbé, Lomé, President, Togo, Togo national football team attack, captain_
+_Context: Angola, Emmanuel Adebayor, Faure Gnassingb, Lom, President, Togo, Togo national football team attack, captain_
 
 ### [At least five people die and dozens are injured in Nairobi, Kenya, when police clash with protesters demanding the release of Jamaican Muslim cleric Abdullah al-Faisal. ](/news/2010/01/15/at-least-five-people-die-and-dozens-are-injured-in-nairobi-kenya-when-police-clash-with-protesters-demanding-the-release-of-jamaican-musli.md)
 _Context: Abdullah al-Faisal, Jamaica, Kenya, Muslim, Nairobi_
@@ -13,7 +13,7 @@ _Context: Abdullah al-Faisal, Jamaica, Kenya, Muslim, Nairobi_
 _Context: Haiti, President, Zine El Abidine Ben Ali_
 
 ### [Muslim fundamentalists kill two people, an army colonel and the military commander of Bjaa in northern Algeria. ](/news/2010/01/15/muslim-fundamentalists-kill-two-people-an-army-colonel-and-the-military-commander-of-bejaia-in-northern-algeria.md)
-_Context: Algeria, Béjaïa_
+_Context: Algeria, Bjaa_
 
 ### [23 security guards are detained after clashing over the care of a taxi rank in Sundumbili, KwaZulu-Natal. ](/news/2010/01/15/23-security-guards-are-detained-after-clashing-over-the-care-of-a-taxi-rank-in-sundumbili-kwazulu-natal.md)
 _Context: KwaZulu-Natal, Sundumbili_

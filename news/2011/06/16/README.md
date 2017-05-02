@@ -7,7 +7,7 @@ _Context: Ayman al-Zawahiri, Osama bin Laden, al-Qaeda_
 _Context: Government of Malaysia, hacker group Anonymous, hackers_
 
 ### [Sections of the British media report that Prince Harry has been cleared to return to service in the Afghan War. ](/news/2011/06/16/sections-of-the-british-media-report-that-prince-harry-has-been-cleared-to-return-to-service-in-the-afghan-war.md)
-_Context: Britons, Prince Harry, War in Afghanistan (2001–present)_
+_Context: Britons, Prince Harry, War in Afghanistan (2001-present)_
 
 ### [Libyan leader Muammar Gaddafi's compound in Tripoli is hit by a NATO bombing raid. ](/news/2011/06/16/libyan-leader-muammar-gaddafi-s-compound-in-tripoli-is-hit-by-a-nato-bombing-raid.md)
 _Context: Libyan, Muammar Gaddafi, NATO, Tripoli_
@@ -49,7 +49,7 @@ A senior aide and consultant hired by former Maryland governor Robert L. Ehrlich
 MPs pass a motion condemning the Malaysian asylum swap deal, a move which opens the way for Greens legislation that could scrap the proposal.
 
 ### [U.S. Representative Anthony Weiner of New York resigns his office amidst pressure from Democratic leadership and President Barack Obama after admitting to sending lewd photos via Twitter. ](/news/2011/06/16/u-s-representative-anthony-weiner-of-new-york-resigns-his-office-amidst-pressure-from-democratic-leadership-and-president-barack-obama-afte.md)
-_Context: Anthony Weiner, Barack Obama, Democrat, New York, Twitter, U.S. House, president, sending lewd photos_
+_Context: Anthony Weiner, Barack Obama, Democratic, New York, Twitter, U.S. House, president, sending lewd photos_
 
 ## [Previous Day...](/news/2011/06/15/index.md)
 

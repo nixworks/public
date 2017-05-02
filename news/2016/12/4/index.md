@@ -43,7 +43,7 @@ JAKARTA, Indonesia (AP) — Tens of thousands of Indonesians rallied in the cent
 KUALA LUMPUR, Malaysia (AP) — Malaysian Prime Minister Najib Razak led a protest rally Sunday against what he called a &quot;genocide&quot; of Myanmar&#039;s Muslim Rohingya minority, as he urged Asian neighbors and the world to step…
 
 ### [The remains of former Cuban leader Fidel Castro are interred beside independence leader Jose Marti. ](/news/2016/12/4/the-remains-of-former-cuban-leader-fidel-castro-are-interred-beside-independence-leader-josa-c-marta.md)
-_Context: Cuba, Fidel Castro, José Martí, died_
+_Context: Cuba, Fidel Castro, Jose Marti, died_
 
 ### [Philippines Vice President Leni Robredo resigns her Cabinet post as  housing secretary due to major differences in principles and values. Robredo says she is staying on in her elected position as vice president. ](/news/2016/12/4/philippines-vice-president-leni-robredo-resigns-her-cabinet-post-as-housing-secretary-due-to-major-differences-in-principles-and-values-ro.md)
 MANILA, Philippines (AP) — There was no immediate reaction Monday from Philippine President Rodrigo Duterte to the country&#039;s vice president saying she will resign her Cabinet post, citing &quot;major differences in principles…

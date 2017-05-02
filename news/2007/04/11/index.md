@@ -7,7 +7,7 @@ _Context: Brazil, Doha round of negotiations, European Union, India, New Delhi, 
 Critics of the Bush administration say that the focus on the Iraq war has jeopardized the early military victory in Afghanistan in 2001.
 
 ### [ The United States Senate votes to ease funding restrictions on stem-cell research but President Bush threatens to veto the bill. ](/news/2007/04/11/the-united-states-senate-votes-to-ease-funding-restrictions-on-stem-cell-research-but-president-bush-threatens-to-veto-the-bill.md)
-_Context: George W. Bush, Senator, president, stem-cell research, veto_
+_Context: George W. Bush, United States Senate, president, stem-cell research, veto_
 
 ### [ The United States extends the tour of duty for troops in Iraq and Afghanistan from a year to 15 months. ](/news/2007/04/11/the-united-states-extends-the-tour-of-duty-for-troops-in-iraq-and-afghanistan-from-a-year-to-15-months.md)
 _Context: Afghanistan, Iraq, United States, tour of duty_
@@ -19,7 +19,7 @@ _Context: 2008, Darfur conflict, Joseph Biden, United States Senate Foreign Rela
 _Context: midwestern, snow, spring_
 
 ### [ Former U.S. Senator and prospective presidential candidate Fred Thompson announces he has lymphoma. ](/news/2007/04/11/former-u-s-senator-and-prospective-presidential-candidate-fred-thompson-announces-he-has-lymphoma.md)
-_Context: 2008, Fred Thompson, Senator, lymphoma_
+_Context: 2008, Fred Thompson, United States Senate, lymphoma_
 
 ### [ Former Prime Minister of Bangladesh Sheikh Hasina is charged with murder. ](/news/2007/04/11/former-prime-minister-of-bangladesh-sheikh-hasina-is-charged-with-murder.md)
 _Context: Prime Minister, Sheikh Hasina, murder_
@@ -49,7 +49,7 @@ _Context: Japan, Premier of the People's Republic of China, Wen Jiabao, bilatera
 _Context: Kurt Vonnegut_
 
 ### [ There will be a runoff election to select the next President of East Timor after no candidate achieves a majority of votes in the first round of voting. There are three candidates in contention for the runoff; the Prime Minister of East Timor Dr Jos Ramos-Horta, the Fretilin candidate Francisco Guterres and Fernando de Arajo of the Democratic Party. ](/news/2007/04/11/there-will-be-a-runoff-election-to-select-the-next-president-of-east-timor-after-no-candidate-achieves-a-majority-of-votes-in-the-first-rou.md)
-_Context: 2007, Democratic Party, Fernando de Araújo, Francisco Guterres, Fretilin, Jose Ramos-Horta, President, Prime Minister of East Timor, second round_
+_Context: 2007, Democratic Party, Fernando de Arajo, Francisco Guterres, Fretilin, Jose Ramos-Horta, President, Prime Minister of East Timor, second round_
 
 ### [ Ice hockey: The 2007 NHL Stanley Cup Playoffs begin.  The inaugural matchup features the Pittsburgh Penguins visiting the Ottawa Senators at Scotiabank Place in Ottawa, Ontario.](/news/2007/04/11/ice-hockey-the-2007-nhl-stanley-cup-playoffs-begin-the-inaugural-matchup-features-the-pittsburgh-penguins-visiting-the-ottawa-senators-a.md)
 _Context: NHL, Ottawa Senators, Ottawa, Ontario, Pittsburgh Penguins, Scotiabank Place, ice hockey, playoff system_

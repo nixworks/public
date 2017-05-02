@@ -28,7 +28,7 @@ _Context: Suez Canal, oil_
 _Context: Johor, Malaysia_
 
 ### [The Japanese government urges residents living near the Shinmoedake volcano in Kyushu to evacuate as eruptions become worse. ](/news/2011/01/31/the-japanese-government-urges-residents-living-near-the-shinmoedake-volcano-in-kya-sha-to-evacuate-as-eruptions-become-worse.md)
-_Context: Japanese government, Kyūshū, Shinmoedake, volcanic activity_
+_Context: Japanese government, Kyushu, Shinmoedake, volcanic activity_
 
 ### [Anna Bligh, the Premier of the Australian state of Queensland warns tens of thousands of people to prepare for evacuation ahead of Cyclone Yasi expected to hit later in the week. ](/news/2011/01/31/anna-bligh-the-premier-of-the-australian-state-of-queensland-warns-tens-of-thousands-of-people-to-prepare-for-evacuation-ahead-of-cyclone-y.md)
 _Context: Anna Bligh, Australia, Cyclone Yasi, Premier, Queensland_

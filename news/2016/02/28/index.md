@@ -1,13 +1,13 @@
 ## [2016-02-28](/news/2016/02/28/index.md)
 
 ### [Two police officers are killed after a bomb explodes in Helmand Province. ](/news/2016/02/28/two-police-officers-are-killed-after-a-bomb-explodes-in-helmand-province.md)
-_Context: Afghan police, Helmand Province, War in Afghanistan (2015–present)_
+_Context: Afghan police, Helmand Province, War in Afghanistan (2015-present)_
 
 ### [Two suicide bombers kill 70 people and injure more than 100 others at a crowded market in Sadr City, Iraq. ISIL claims responsibility for the attack.  ](/news/2016/02/28/two-suicide-bombers-kill-70-people-and-injure-more-than-100-others-at-a-crowded-market-in-sadr-city-iraq-isil-claims-responsibility-for-th.md)
 Over 70 people were killed and 100 others wounded in Sadr City, a southern suburb of the Iraqi capital, as two bombs went off at a crowded market, according to Reuters. Islamic State militants claim the attack.
 
 ### [Two al-Shabaab suicide bombers kill at least 40 people in the Somali town of Baidoa. ](/news/2016/02/28/two-al-shabaab-suicide-bombers-kill-at-least-40-people-in-the-somali-town-of-baidoa.md)
-_Context: Baidoa, Somalia, War in Somalia (2009–present), al-Shabaab_
+_Context: Baidoa, Somalia, War in Somalia (2009-present), al-Shabaab_
 
 ### [The 88th Academy Awards are held at the Dolby Theatre in Hollywood, California. ](/news/2016/02/28/the-88th-academy-awards-are-held-at-the-dolby-theatre-in-hollywood-california.md)
 The Oscars 2016 will air on Sunday, Feb. 28, at 8:30 p.m. EST — find out how to watch the awards ceremony online!
@@ -37,7 +37,7 @@ People in Switzerland reject a plan to automatically expel foreigners who commit
 Democratic National Committee Vice Chair Tulsi Gabbard resigned from her post on Sunday to endorse Democratic presidential candidate Bernie Sanders, following months of rising tensions within the group.
 
 ### [Manchester City beat Liverpool 3-1 on penalties at Wembley Stadium to win the 2015-16 Football League Cup. ](/news/2016/02/28/manchester-city-beat-liverpool-3-1-on-penalties-at-wembley-stadium-to-win-the-2015a16-football-league-cup.md)
-_Context: 2015–16 Football League Cup, 2016 Football League Cup Final, Liverpool F.C., Manchester City, Wembley Stadium_
+_Context: 2015-16 Football League Cup, 2016 Football League Cup Final, Liverpool F.C., Manchester City, Wembley Stadium_
 
 ## [Previous Day...](/news/2016/02/27/index.md)
 

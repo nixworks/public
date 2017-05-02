@@ -4,10 +4,10 @@
 _Context: Aleppo, Deir ez-Zor, Syria, Syrian Civil War_
 
 ### [War in Afghanistan:Two suicide bombings near a NATO base kill at least 12 people and wound 50 others in the Sayed Abad district of Afghanistan's Wardak province. ](/news/2012/09/1/war-in-afghanistan-ptwo-suicide-bombings-near-a-nato-base-kill-at-least-12-people-and-wound-50-others-in-the-sayed-abad-district-of-afghanis.md)
-_Context: Afghanistan, NATO, Sayed Abad district, War in Afghanistan (2001–present), Wardak province_
+_Context: Afghanistan, NATO, Sayed Abad district, War in Afghanistan (2001-present), Wardak province_
 
 ### [Mexican Drug War:Eduardo Arellano Felix, a former drug lord of the Tijuana Cartel, is extradited to the United States from Mexico. He is the last brother of the cartel in a 2003 indictment to be extradited. ](/news/2012/09/1/mexican-drug-war-peduardo-arellano-fa-c-lix-a-former-drug-lord-of-the-tijuana-cartel-is-extradited-to-the-united-states-from-mexico-he-is-t.md)
-_Context: Eduardo Arellano Félix, Mexican Drug War, Tijuana Cartel_
+_Context: Eduardo Arellano Felix, Mexican Drug War, Tijuana Cartel_
 
 ### [2012 northern Mali conflict:Islamist rebels in northern Mali seize the central town of Douentza. ](/news/2012/09/1/2012-northern-mali-conflict-pislamist-rebels-in-northern-mali-seize-the-central-town-of-douentza.md)
 _Context: 2012 Northern Mali conflict, Douentza, Islamist, Mali_

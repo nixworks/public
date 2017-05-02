@@ -4,7 +4,7 @@
 _Context: North Waziristan, Pakistan, War in North-West Pakistan_
 
 ### [Arab-Israeli conflict:Israeli Air Force planes carry out a series of air strikes in Syria following an attack on Sunday that caused the death of an Israeli teenager. ](/news/2014/06/23/arabaisraeli-conflict-pisraeli-air-force-planes-carry-out-a-series-of-air-strikes-in-syria-following-an-attack-on-sunday-that-caused-the-d.md)
-_Context: Arab–Israeli conflict, Israeli Air Force, Syria_
+_Context: Arab-Israeli conflict, Israeli Air Force, Syria_
 
 ### [Syrian Civil War:Syria hands over its remaining 100 tonnes of its declared chemical weapons to the United Nations Organisation for the Prohibition of Chemical Weapons but the organisation cannot declare that the country no longer has any such weapons. ](/news/2014/06/23/syrian-civil-war-psyria-hands-over-its-remaining-100-tonnes-of-its-declared-chemical-weapons-to-the-united-nations-organisation-for-the-proh.md)
 _Context: Organisation for the Prohibition of Chemical Weapons, Syria, Syrian Civil War, United Nations, chemical weapons_

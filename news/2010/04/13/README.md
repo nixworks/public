@@ -25,7 +25,7 @@ _Context: Islamic Jihad Movement in Palestine, Israel_
 _Context: Lebanese Civil War, Lebanon, association football_
 
 ### [The body of Poland's First Lady, Maria Kaczynska, is flown to Warsaw to lie in state alongside that of her husband, President Lech Kaczynski. Poland has seen an outpouring of grief since the couple and scores of other senior Polish officials died in a plane crash in western Russia on Saturday. ](/news/2010/04/13/the-body-of-poland-s-first-lady-maria-kaczyaska-is-flown-to-warsaw-to-lie-in-state-alongside-that-of-her-husband-president-lech-kaczyas.md)
-_Context: 2010 Polish Air Force Tu-154 crash, Lech Kaczyński, Maria Kaczyńska, Poland, Russia, Warsaw_
+_Context: 2010 Polish Air Force Tu-154 crash, Lech Kaczynski, Maria Kaczynska, Poland, Russia, Warsaw_
 
 ### [The First Lady of the United States, Michelle Obama, makes an unannounced visit to Haiti. It is her first official trip overseas without US President Barack Obama since he took office last year. ](/news/2010/04/13/the-first-lady-of-the-united-states-michelle-obama-makes-an-unannounced-visit-to-haiti-it-is-her-first-official-trip-overseas-without-us.md)
 _Context: Barack Obama, First Lady, Haiti, Michelle Obama_
@@ -43,7 +43,7 @@ _Context: 2010 general election, Conservative Party, David Cameron, United Kingd
 _Context: Boeing 737-300, Indonesia, Manokwari, Rendani Airport, overruns the runway_
 
 ### [An American Boeing 767 passenger jet makes an emergency landing in Iceland after reports of chemical fumes in the cabin. A spokesman for Keflavik airport outside Reykjavik says several crew members on the American Airlines flight had complained of dizziness. ](/news/2010/04/13/an-american-boeing-767-passenger-jet-makes-an-emergency-landing-in-iceland-after-reports-of-chemical-fumes-in-the-cabin-a-spokesman-for-kef.md)
-_Context: American Airlines, Boeing 767, Iceland, Reykjavík_
+_Context: American Airlines, Boeing 767, Iceland, Reykjavik_
 
 ### [Japanese car maker Toyota faces further safety concerns after Consumer Reports issues a recommendation not to buy the Lexus GX 460 four-wheel drive because of fears that the car could roll over. ](/news/2010/04/13/japanese-car-maker-toyota-faces-further-safety-concerns-after-consumer-reports-issues-a-recommendation-not-to-buy-the-lexus-gx-460-four-whee.md)
 _Context: Consumer Reports, Japan_

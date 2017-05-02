@@ -11,5 +11,5 @@ Alfredo Beltran Leyva, also known as Mochomo, one of the leaders of the Beltran 
 
 ### Related:
 
-1. [Mexican police arrest alleged drug lord Carlos Beltran Leyva in Culiacan, Sinaloa. ](/news/2010/01/3/mexican-police-arrest-alleged-drug-lord-carlos-beltra-n-leyva-in-culiaca-n-sinaloa.md) _Context: Beltrán Leyva Cartel_
+1. [Mexican police arrest alleged drug lord Carlos Beltran Leyva in Culiacan, Sinaloa. ](/news/2010/01/3/mexican-police-arrest-alleged-drug-lord-carlos-beltra-n-leyva-in-culiaca-n-sinaloa.md) _Context: Beltran Leyva Cartel_
 2. [Chinese senior judge Huang Songyou is sentenced to life in prison over corruption charges. ](/news/2010/01/19/chinese-senior-judge-huang-songyou-is-sentenced-to-life-in-prison-over-corruption-charges.md) _Context: life in prison_

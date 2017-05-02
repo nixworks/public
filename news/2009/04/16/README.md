@@ -13,7 +13,7 @@ _Context: India, Naxalite, Naxalite-Maoist insurgency, becomes_
 _Context: Kyrgyzstan, landslide_
 
 ### [ Bolivian police kill three people - Hungarian Eduardo Rzsa-Flores, Irishman Michael Dwyer, and Romanian Magyarosi Arpak - and arrest two others over an alleged plot to assassinate President Evo Morales and Vice President lvaro Garca Linera. ](/news/2009/04/16/bolivian-police-kill-three-people-hungarian-eduardo-rozsa-flores-irishman-michael-dwyer-and-romanian-magyarosi-arpak-and-arrest-two-o.md)
-_Context: Bolivia, Eduardo Rózsa-Flores, Evo Morales, Magyarosi Arpak, Michael Dwyer, Police, President of Bolivia, Vice-President, assassinated, Álvaro García Linera_
+_Context: Bolivia, Eduardo Rzsa-Flores, Evo Morales, Magyarosi Arpak, Michael Dwyer, Police, President of Bolivia, Vice-President, assassinated, lvaro Garca Linera_
 
 ## [Previous Day...](/news/2009/04/15/index.md)
 

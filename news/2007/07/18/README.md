@@ -1,7 +1,7 @@
 ## [2007-07-18](/news/2007/07/18/index.md)
 
 ### [ An initial probe into the crash of TAM Linhas Areas Flight 3054 suggests that the pilot tried to abort the landing. ](/news/2007/07/18/an-initial-probe-into-the-crash-of-tam-linhas-aereas-flight-3054-suggests-that-the-pilot-tried-to-abort-the-landing.md)
-_Context: TAM Linhas Aéreas Flight 3054_
+_Context: TAM Linhas Areas Flight 3054_
 
 ### [ A steam pipe explodes in Midtown New York City outside Grand Central Terminal; killing 1 person, injuring 44 and causing evacuations and delays throughout the area. ](/news/2007/07/18/a-steam-pipe-explodes-in-midtown-new-york-city-outside-grand-central-terminal-killing-1-person-injuring-44-and-causing-evacuations-and-de.md)
 _Context: Grand Central Terminal, Midtown, New York's, evacuation centers, steam pipe explodes_

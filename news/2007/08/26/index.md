@@ -25,7 +25,7 @@ _Context: Australia, Melbourne Cup, equine influenza_
 _Context: bird flu_
 
 ### [ Ludwig Scotty's government wins a landslide victory in the Nauruan parliamentary election, 2007 with Rene Harris as the only member of the Opposition to win a seat. ](/news/2007/08/26/ludwig-scotty-s-government-wins-a-landslide-victory-in-the-nauruan-parliamentary-election-2007-with-rena-c-harris-as-the-only-member-of-the.md)
-_Context: Ludwig Scotty, Nauruan parliamentary election, 2007, René Harris_
+_Context: Ludwig Scotty, Nauruan parliamentary election, 2007, Rene Harris_
 
 ### [  Seven more unexploded bombs are found in Hyderabad, Andhra Pradesh, India a day after the bombings. ](/news/2007/08/26/seven-more-unexploded-bombs-are-found-in-hyderabad-andhra-pradesh-india-a-day-after-the-bombings.md)
 _Context: Hyderabad, Andhra Pradesh, India, bomb, bomb blasts_

@@ -13,7 +13,7 @@ _Context: Diederik Samsom, European Central Bank, European Commission, Internati
 The United Nations UNCTAD agencyissued a gloomy outlook for the Palestinian economy onWednesday, arguing that tougher Israeli policies and settlementexpansion were pushing the occupied territories and Gaza deeperinto poverty.
 
 ### [A 7.6-magnitude earthquake 87 miles west of the Costa Rican capital of San Jos triggers a tsunami alert for the coastlines of Costa Rica, Panama and Nicaragua. ](/news/2012/09/5/a-7-6-magnitude-earthquake-87-miles-west-of-the-costa-rican-capital-of-san-jose-triggers-a-tsunami-alert-for-the-coastlines-of-costa-rica-p.md)
-_Context: 7.6-magnitude earthquake, Costa Rica, Nicaragua, Panama, San José, tsunami_
+_Context: 7.6-magnitude earthquake, Costa Rica, Nicaragua, Panama, San Jos, tsunami_
 
 ### [A firecracker factory explodes near Sivakasi, Tamil Nadu, killing 54 and injuring 50. ](/news/2012/09/5/a-firecracker-factory-explodes-near-sivakasi-tamil-nadu-killing-54-and-injuring-50.md)
 At least 54 persons were burned to death and 50 injured today in a devastating blaze that raged through a fireworks factory on the outskirts of Sivakasi.

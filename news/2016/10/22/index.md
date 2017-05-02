@@ -4,7 +4,7 @@
 Islamic State militants have allegedly executed at least 284 men and boys in the Iraqi city of Mosul and nearby villages. Jihadists, who had used them as human shields, dumped the victims’ bodies in a mass grave, according to a report. 
 
 ### [The death toll from the October 21 crash of a Camrail train rises to at least 73 people with another 600 wounded. ](/news/2016/10/22/the-death-toll-from-the-october-21-crash-of-a-camrail-train-rises-to-at-least-73-people-with-another-600-wounded.md)
-_Context: 2016 Eséka train derailment, Camrail_
+_Context: 2016 Eseka train derailment, Camrail_
 
 ### [Philippine Foreign Affairs Secretary Perfecto Yasay states that the United States remains our "closest friend," but that the Philippines wants to break away and forge closer ties with other nations. ](/news/2016/10/22/philippine-foreign-affairs-secretary-perfecto-yasay-states-that-the-united-states-remains-our-closest-friend-but-that-the-philippines-wan.md)
 The United States remains the &quot;closest friend&quot; of the Philippines but Manila wants to break away from a &quot;mindset of dependency and subservience&quot; and forge closer ties with other nations, the Philippine foreign minister said on Saturday.

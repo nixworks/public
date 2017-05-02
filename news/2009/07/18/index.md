@@ -10,7 +10,7 @@ _Context: Green Party, Republic of Ireland, Treaty of Lisbon, the second Irish r
 _Context: Germany, Nachterstedt_
 
 ### [ Voters in Mauritania go to the polls for a presidential election, its first election since the coup d'tat last year. ](/news/2009/07/18/voters-in-mauritania-go-to-the-polls-for-a-presidential-election-its-first-election-since-the-coup-d-etat-last-year.md)
-_Context: Mauritania, coup d'état, presidential election_
+_Context: Mauritania, coup d'tat, presidential election_
 
 ### [ Palestinian Prime Minister Salam Fayyad receives a slice as Nablus bakers attempt to set a record for the world's biggest kunafa. ](/news/2009/07/18/palestinian-prime-minister-salam-fayyad-receives-a-slice-as-nablus-bakers-attempt-to-set-a-record-for-the-world-s-biggest-kunafa.md)
 _Context: Nablus, Palestinian, Prime Minister, Salam Fayyad, kunafa_
@@ -34,7 +34,7 @@ _Context: China's, Urumqi, riots_
 _Context: Muni Metro, San Francisco, United States, West Portal Station, collision, light rail cars_
 
 ### [ Paul Biyogh Mba is appointed Prime Minister of Gabon after Jean Eyeghe Ndong launches his presidential campaign. ](/news/2009/07/18/paul-biyoghe-mba-is-appointed-prime-minister-of-gabon-after-jean-eyeghe-ndong-launches-his-presidential-campaign.md)
-_Context: Gabon, Jean Eyeghe Ndong, Paul Biyoghé Mba, Prime Minister_
+_Context: Gabon, Jean Eyeghe Ndong, Paul Biyogh Mba, Prime Minister_
 
 ## [Previous Day...](/news/2009/07/17/index.md)
 

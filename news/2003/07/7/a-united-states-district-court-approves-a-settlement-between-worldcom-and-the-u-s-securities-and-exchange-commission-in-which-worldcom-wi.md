@@ -1,6 +1,6 @@
 ### [2003-07-7](/news/2003/07/7/index.md)
 
-#  A United States district court approves a settlement between WorldCom and the U.S. Securities and Exchange Commission, in which WorldCom will pay {{Nowrap|$750&nbsp;million}} to investors for its accounting scandal. 
+#  A United States district court approves a settlement between WorldCom and the U.S. Securities and Exchange Commission, in which WorldCom will pay $750&nbsp;million to investors for its accounting scandal. 
 
 
 

@@ -4,7 +4,7 @@
 Syrian forces fired into the air on Monday to disperse a pro-democracy protest in the southern flashpoint city of Deraa, where reformists want to overthrow the 41-year rule of the Assad family.
 
 ### [2010-2011 Ivorian crisis:Rebel forces loyal to presidential claimant Alassane Ouattara seize the town of Duekoue in western Cote d'Ivoire from government forces. ](/news/2011/03/28/2010-2011-ivorian-crisis-prebel-forces-loyal-to-presidential-claimant-alassane-ouattara-seize-the-town-of-dua-c-koua-c-in-western-ca-te-d-ivoir.md)
-_Context: 2010-2011 Ivorian crisis, Alassane Ouattara, Côte d'Ivoire, Duékoué_
+_Context: 2010-2011 Ivorian crisis, Alassane Ouattara, Cote d'Ivoire, Duekoue_
 
 ### [A car bomb attack on a construction company in Afghanistan's Paktika Province kills at least 13 people and injures another fifty. ](/news/2011/03/28/a-car-bomb-attack-on-a-construction-company-in-afghanistan-s-paktika-province-kills-at-least-13-people-and-injures-another-fifty.md)
 _Context: Afghanistan, Paktika Province, car bomb_

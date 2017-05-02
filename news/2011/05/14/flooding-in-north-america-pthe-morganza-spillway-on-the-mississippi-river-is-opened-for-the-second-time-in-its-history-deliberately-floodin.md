@@ -1,6 +1,6 @@
 ### [2011-05-14](/news/2011/05/14/index.md)
 
-# Flooding in North America:The Morganza Spillway on the Mississippi River is opened for the second time in its history, deliberately flooding {{convert|3,000|sqmi|km2}} of rural Louisiana and placing a nuclear power plant at risk to save most of Baton Rouge and New Orleans. 
+# Flooding in North America:The Morganza Spillway on the Mississippi River is opened for the second time in its history, deliberately flooding 3,000|sqmi|km2 of rural Louisiana and placing a nuclear power plant at risk to save most of Baton Rouge and New Orleans. 
 
 They busted the dike, and the water poured through -- slowly.
 

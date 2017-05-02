@@ -1,7 +1,7 @@
 ## [2014-11-22](/news/2014/11/22/index.md)
 
 ### [Al-Shabaab militants hijack a bus travelling between the town of Mandera and the Kenyan capital Nairobi and execute 28 non-Muslim passengers. ](/news/2014/11/22/al-shabaab-militants-hijack-a-bus-travelling-between-the-town-of-mandera-and-the-kenyan-capital-nairobi-and-execute-28-non-muslim-passengers.md)
-_Context: Kenya, Mandera, Muslim, Nairobi, War in Somalia (2009–present), al-Shabaab_
+_Context: Kenya, Mandera, Muslim, Nairobi, War in Somalia (2009-present), al-Shabaab_
 
 ### [A 6.8 magnitude earthquake occurs in Nagano Prefecture in Japan resulting in at least 30 people being injured as several homes collapse. ](/news/2014/11/22/a-6-8-magnitude-earthquake-occurs-in-nagano-prefecture-in-japan-resulting-in-at-least-30-people-being-injured-as-several-homes-collapse.md)
 A magnitude 6.7 earthquake hits central Japan, injuring at least 39 and collapsing houses.

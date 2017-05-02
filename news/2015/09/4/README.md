@@ -4,7 +4,7 @@
 Gunmen in military uniform seized 18 Turkish workers on Wednesday from a sports stadium they were building in northeastern Baghdad.
 
 ### [Two roadside bombs detonate in the Sinai Peninsula injuring six international peacekeepers, who were there to support the 1979 Egypt-Israel Peace Treaty. ](/news/2015/09/4/two-roadside-bombs-detonate-in-the-sinai-peninsula-injuring-six-international-peacekeepers-who-were-there-to-support-the-1979-egyptaisrae.md)
-_Context: Egypt–Israel Peace Treaty, Sinai, Sinai insurgency_
+_Context: Egypt-Israel Peace Treaty, Sinai, Sinai insurgency_
 
 ### [An explosion at an arms depot in Yemen kills 45 Emirati soldiers who were part of the Saudi led coalition. ](/news/2015/09/4/an-explosion-at-an-arms-depot-in-yemen-kills-45-emirati-soldiers-who-were-part-of-the-saudi-led-coalition.md)
 UAE warplanes carried out air strikes on Yemeni rebels Saturday as Emiratis mourned 45 of their soldiers, who were among dozens killed in the deadliest day yet for the Saudi-led coalition. Media in Riyadh said 10 Saudi soldiers died in Friday&#x27;s missile attack in the battleground eastern oil province

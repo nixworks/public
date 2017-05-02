@@ -13,7 +13,7 @@ _Context: Guanica, Guayanilla Bay, Puerto Rico_
 _Context: Democratic Republic of the Congo, Katale, Laurent Nkunda, Masisi, North Kivu, United Nations_
 
 ### [ U.S. Democratic Party fundraiser Norman Hsu surrenders to the San Mateo County sheriff's office on a 15-year-old felony warrant. ](/news/2007/08/31/u-s-democratic-party-fundraiser-norman-hsu-surrenders-to-the-san-mateo-county-sheriff-s-office-on-a-15-year-old-felony-warrant.md)
-_Context: Democrat, Norman Hsu, San Mateo County, felons, sheriff, warrant_
+_Context: Democratic, Norman Hsu, San Mateo County, felons, sheriff, warrant_
 
 ### [ Twelve Chileans including a Catholic priest are charged for alleged involvement in death squads during the rule of General Augusto Pinochet. ](/news/2007/08/31/twelve-chileans-including-a-catholic-priest-are-charged-for-alleged-involvement-in-death-squads-during-the-rule-of-general-augusto-pinochet.md)
 _Context: Augusto Pinochet, Catholic, Chile, death squad, priest_
@@ -28,7 +28,7 @@ _Context: Bangladesh, Khaleda Zia, National Board of Revenue_
 Canadian police have arrested a man who was found carrying three bombs in the boot of his car.
 
 ### [ Hugo Chavez, the President of Venezuela, states that he will meet with FARC guerillas to mediate a dispute with the Government of Colombia about the release of captives. ](/news/2007/08/31/hugo-cha-vez-the-president-of-venezuela-states-that-he-will-meet-with-farc-guerillas-to-mediate-a-dispute-with-the-government-of-colombia.md)
-_Context: Colombia, FARC, Hugo Chávez, President_
+_Context: Colombia, FARC, Hugo Chavez, President_
 
 ### [ Provisional data from the United Kingdom Meteorological Office shows that the 2007 British summer was the wettest on record with five areas of England on flood warning. ](/news/2007/08/31/provisional-data-from-the-united-kingdom-meteorological-office-shows-that-the-2007-british-summer-was-the-wettest-on-record-with-five-areas.md)
 _Context: England, Meteorological Office, United Kingdom_
@@ -55,7 +55,7 @@ _Context: Pakistan, Pakistan Army, Taliban, Waziristan War, convoy_
 _Context: United Nations, climate change, greenhouse gas_
 
 ### [ Republican Senator John Warner announces that he will not seek re-election to the United States Senate. ](/news/2007/08/31/republican-senator-john-warner-announces-that-he-will-not-seek-re-election-to-the-united-states-senate.md)
-_Context: John Warner, Republican, Senator_
+_Context: John Warner, Republican, United States Senate_
 
 ### [ Two Egyptian students at the University of South Florida are indicted for carrying explosive materials across state lines with one indicted for terrorism charges. ](/news/2007/08/31/two-egyptian-students-at-the-university-of-south-florida-are-indicted-for-carrying-explosive-materials-across-state-lines-with-one-indicted.md)
 _Context: Egypt, University of South Florida, border, terrorism_

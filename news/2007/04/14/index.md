@@ -1,7 +1,7 @@
 ## [2007-04-14](/news/2007/04/14/index.md)
 
 ### [ A speeding bus crashes into a tractor-trailer near Ciudad Juarez, Mexico, killing at least 23 people. ](/news/2007/04/14/a-speeding-bus-crashes-into-a-tractor-trailer-near-ciudad-jua-rez-mexico-killing-at-least-23-people.md)
-_Context: Ciudad Juárez, Mexico, bus, tractor trailer_
+_Context: Ciudad Juarez, Mexico, bus, tractor trailer_
 
 ### [ Flash flooding kills at least 35 people in the Trang Province of Thailand. ](/news/2007/04/14/flash-flooding-kills-at-least-35-people-in-the-trang-province-of-thailand.md)
 _Context: Flash flooding, Thailand, Trang Province_
@@ -16,7 +16,7 @@ _Context: Aksaray, Konya, Turkey, bus, primary school_
 _Context: Garry Kasparov, Moscow, Russia, chess_
 
 ### [ At least 300,000 secularist Turks march in Ankara to warn the Islamist Prime Minister of Turkey Recep Tayyip Erdogan and his party against seeking the presidency. ](/news/2007/04/14/at-least-300-000-secularist-turks-march-in-ankara-to-warn-the-islamist-prime-minister-of-turkey-recep-tayyip-erdoaan-and-his-party-against.md)
-_Context: Ankara, Islamist, President, Prime Minister of Turkey, Recep Tayyip Erdoğan, Turkey, ruling party, secularist, third mass rally_
+_Context: Ankara, Islamist, President, Prime Minister of Turkey, Recep Tayyip Erdogan, Turkey, ruling party, secularist, third mass rally_
 
 ### [ Iraqi insurgency: A car bomb explodes in a bus station in the city of Karbala, killing or injuring at least 56 people and injuring at least 70. At least 10 people die after a suicide bomber explodes a bomb at the Jadiriyah bridge in Baghdad. ](/news/2007/04/14/iraqi-insurgency-a-car-bomb-explodes-in-a-bus-station-in-the-city-of-karbala-killing-or-injuring-at-least-56-people-and-injuring-at-least.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

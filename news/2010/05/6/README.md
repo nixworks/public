@@ -10,7 +10,7 @@ The web undergoes a &quot;historic&quot; change as a system that allows the firs
 A tornado and strong winds in southwestern China killed 25 people and injured more than 150 early today, state media reported.
 
 ### [Former chief executive of collapsed Kaupthing Bank, Hreiar Mr Sigursson, is arrested on suspicion of embezzlement, Iceland's first high-profile arrest since the 2008 financial collapse. ](/news/2010/05/6/former-chief-executive-of-collapsed-kaupthing-bank-hreidar-mar-sigurdsson-is-arrested-on-suspicion-of-embezzlement-iceland-s-first-high-p.md)
-_Context: Hreiðar Már Sigurðsson, Iceland, Kaupthing Bank, embezzlement_
+_Context: Hreiar Mr Sigursson, Iceland, Kaupthing Bank, embezzlement_
 
 ### [Burma's main opposition party, the National League for Democracy led by Aung San Suu Kyi, disbands after it refuses to register under new election laws. ](/news/2010/05/6/burma-s-main-opposition-party-the-national-league-for-democracy-led-by-aung-san-suu-kyi-disbands-after-it-refuses-to-register-under-new-el.md)
 Myanmar opposition party says campaign will go on as it faces being disbanded.

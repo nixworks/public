@@ -25,7 +25,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 _Context: Democratic Republic of the Congo, presidential election_
 
 ### [Parliamentary elections take place in Cte d'Ivoire. ](/news/2011/12/11/parliamentary-elections-take-place-in-cote-d-ivoire.md)
-_Context: Côte d'Ivoire, Parliamentary elections_
+_Context: Cte d'Ivoire, Parliamentary elections_
 
 ### [Russian President Dmitry Medvedev orders an inquiry into the disputed results of the parliamentary elections. ](/news/2011/12/11/russian-president-dmitry-medvedev-orders-an-inquiry-into-the-disputed-results-of-the-parliamentary-elections.md)
 _Context: Dmitry Medvedev, Russia, parliamentary elections_

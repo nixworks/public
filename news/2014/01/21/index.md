@@ -22,7 +22,7 @@ Iraq&#39;s Justice Ministry says 26 prisoners convicted of terrorism-related cha
 _Context: Purdue University, West Lafayette, Indiana_
 
 ### [One of the founders of Los Zetas drug cartel, Rogelio Gonzalez Pizana, is sentenced to 16 years in prison. ](/news/2014/01/21/one-of-the-founders-of-los-zetas-drug-cartel-rogelio-gonza-lez-pizaa-a-is-sentenced-to-16-years-in-prison.md)
-_Context: Los Zetas, Rogelio González Pizaña_
+_Context: Los Zetas, Rogelio Gonzalez Pizana_
 
 ### [Former Virginia governor Bob McDonnell and his wife are indicted on federal corruption charges for allegedly receiving various financial benefits from a businessman seeking favors from the state government. ](/news/2014/01/21/former-virginia-governor-bob-mcdonnell-and-his-wife-are-indicted-on-federal-corruption-charges-for-allegedly-receiving-various-financial-ben.md)
 Former Virginia Republican Gov. Bob McDonnell and wife Maureen were indicted Tuesday on federal corruption charges for allegedly accepting gifts, vacations and loans from a businessman seeking special treatment from the state for his fledgling business.

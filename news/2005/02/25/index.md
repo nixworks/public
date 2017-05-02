@@ -16,7 +16,7 @@ _Context: Human Rights Watch, Thailand, Thaksin_
 _Context: Finland, GAM, Indonesia, Jusuf Kalla, independent_
 
 ### [ In Ecuador, Jos Gallardo, a former defence minister, is arrested accused of misusing public funds to secretly purchase outdated weapons ](/news/2005/02/25/in-ecuador-jose-gallardo-a-former-defence-minister-is-arrested-accused-of-misusing-public-funds-to-secretly-purchase-outdated-weapons.md)
-_Context: Ecuador, José Gallardo_
+_Context: Ecuador, Jos Gallardo_
 
 ### [ King Gyanendra of Nepal asks for foreign help to crush Maoist insurgents. He says that he dismissed the elected government to fight terrorism and will return to democracy in three years. Many foreign countries have stopped all aid after his takeover ](/news/2005/02/25/king-gyanendra-of-nepal-asks-for-foreign-help-to-crush-maoist-insurgents-he-says-that-he-dismissed-the-elected-government-to-fight-terrori.md)
 _Context: Communist Party of Nepal, Gyanendra of Nepal, Nepal, democratic progress_

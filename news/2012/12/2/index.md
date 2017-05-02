@@ -28,7 +28,7 @@ _Context: Constituent Assembly of Egypt, Egypt, Egyptian President, Mohamed Mors
 Israel Keyes was found dead in his cell; authorities say he may be linked to seven other possible slayings but full extent of his crimes may go unknown
 
 ### [Former Prime Minister Borut Pahor is elected President of Slovenia beating the incumbent President Danilo Turk in the second round of a presidential election after anti-austerity protests in the capital, Ljubljana, erupted in clashes that left 15 people injured. ](/news/2012/12/2/former-prime-minister-borut-pahor-is-elected-president-of-slovenia-beating-the-incumbent-president-danilo-ta1-4rk-in-the-second-round-of-a-pre.md)
-_Context: Borut Pahor, Danilo Türk, Ljubljana, President of Slovenia, Prime Minister of Slovenia, anti-austerity protests, presidential election_
+_Context: Borut Pahor, Danilo Turk, Ljubljana, President of Slovenia, Prime Minister of Slovenia, anti-austerity protests, presidential election_
 
 ### [Voters in Italy go to the polls to select a centre-left candidate for Prime Minister with Pier Luigi Bersani winning. ](/news/2012/12/2/voters-in-italy-go-to-the-polls-to-select-a-centre-left-candidate-for-prime-minister-with-pier-luigi-bersani-winning.md)
 Pier Luigi Bersani won a run-off primary election by a huge margin on Sunday to become the Italian center-left candidate for prime minister in national elections early next year.

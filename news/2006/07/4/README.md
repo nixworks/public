@@ -1,7 +1,7 @@
 ## [2006-07-4](/news/2006/07/4/index.md)
 
 ### [ UFDC rebels attack the Chadian city of Ade and battle the Military of Chad. Both the UFDC and the Dby administration claim to have control over the city, stating that opposing forces have fled.  ](/news/2006/07/4/ufdc-rebels-attack-the-chadian-city-of-ade-and-battle-the-military-of-chad-both-the-ufdc-and-the-deby-administration-claim-to-have-control.md)
-_Context: Ade, Chad, Military, UFDC, second Déby administration_
+_Context: Ade, Chad, Military, UFDC, second Dby administration_
 
 ### [ North Korea test-launches at least six missiles which landed in the Sea of Japan. An official from the United States Department of State claims that one of the missiles was a long-range Taepodong 2 missile which failed 35 seconds after takeoff.](/news/2006/07/4/north-korea-test-launches-at-least-six-missiles-which-landed-in-the-sea-of-japan-an-official-from-the-united-states-department-of-state-cl.md)
 _Context: North Korea, Sea of Japan, State Department, Taepodong-2, launch_

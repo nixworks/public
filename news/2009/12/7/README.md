@@ -4,7 +4,7 @@
 _Context:  Quaid-i-Azam Trophy match, Pakistan national cricket team, Roshan Mahanama, Sanath Jayasuriya, first-class, partnership, run, second wicket_
 
 ### [ Incumbent President of Romania Traian Basescu is declared the winner of Sunday's presidential election run-off, with the opposition demanding that the Constitutional Court annul the vote due to electoral fraud. ](/news/2009/12/7/incumbent-president-of-romania-traian-basescu-is-declared-the-winner-of-sunday-s-presidential-election-run-off-with-the-opposition-demand.md)
-_Context: Constitutional Court of Romania, President, Traian Băsescu, presidential election run-off_
+_Context: Constitutional Court of Romania, President, Traian Basescu, presidential election run-off_
 
 ### [ Incumbent Northern Mariana Islands Governor Benigno Fitial of the Covenant Party is declared the winner of the 2009 gubernatorial election and runoff over Republican Rep. Heinz Hofschneider. ](/news/2009/12/7/incumbent-northern-mariana-islands-governor-benigno-fitial-of-the-covenant-party-is-declared-the-winner-of-the-2009-gubernatorial-election.md)
 _Context: 2009 gubernatorial election and runoff, Benigno Fitial, Covenant Party, Governor of the Northern Mariana Islands, Heinz Hofschneider, Northern Mariana Islands, Republican_

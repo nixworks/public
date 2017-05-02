@@ -4,7 +4,7 @@
 _Context: London Underground, MI5, al-Qaeda_
 
 ### [Abdullah Gl becomes the new prime minister of Turkey.](/news/2002/11/16/abdullah-gul-becomes-the-new-prime-minister-of-turkey.md)
-_Context: Abdullah Gül, Turkey_
+_Context: Abdullah Gl, Turkey_
 
 ## [Previous Day...](/news/2002/11/15/index.md)
 

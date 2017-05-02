@@ -3,7 +3,7 @@
 ### [Japan's Mount Ontake volcano erupts causing 250 people to be stranded, injuring at least eight people and forcing aircraft to divert their routes. ](/news/2014/09/27/japan-s-mount-ontake-volcano-erupts-causing-250-people-to-be-stranded-injuring-at-least-eight-people-and-forcing-aircraft-to-divert-their-r.md)
 A Japanese volcano popular with hikers erupted on Saturday, killing one woman and seriously injuring more than 30 people, officials and media said.
 
-### [After 139 years of ferry crossings between the Danish town of Esbjerg and Harwich in England, {{MS|Sirena Seaways}} carries passengers on the route for the last time as DFDS closes the route due to "dwindling demand and high costs"; a freight service will still be available on the route from Esbjerg to Immingham. ](/news/2014/09/27/after-139-years-of-ferry-crossings-between-the-danish-town-of-esbjerg-and-harwich-in-england-ms-sirena-seaways-carries-passengers-on-th.md)
+### [After 139 years of ferry crossings between the Danish town of Esbjerg and Harwich in England, Sirena Seaways carries passengers on the route for the last time as DFDS closes the route due to "dwindling demand and high costs"; a freight service will still be available on the route from Esbjerg to Immingham. ](/news/2014/09/27/after-139-years-of-ferry-crossings-between-the-danish-town-of-esbjerg-and-harwich-in-england-sirena-seaways-carries-passengers-on-the-route.md)
 There has been big interest in the last Harwich-Esbjerg crossing from both guests and passengers. But the media is also showing a big interest too.
 
 ### [Ebola virus epidemic in West Africa:The official death toll from the Ebola virus outbreak reaches 3,000 with the World Health Organisation warning that the official figures "vastly underestimate the true scale of the epidemic". ](/news/2014/09/27/ebola-virus-epidemic-in-west-africa-pthe-official-death-toll-from-the-ebola-virus-outbreak-reaches-3-000-with-the-world-health-organisation.md)
@@ -19,7 +19,7 @@ _Context: Human Rights Council, LGBT rights, United Nations, favor_
 _Context: David Cunliffe, New Zealand Labour Party, New Zealand general election_
 
 ### [Artur Mas i Gavarr, the President of the Spanish region of Catalonia, authorises a referendum on independence on November 9 despite the opposition of the Government of Spain. ](/news/2014/09/27/artur-mas-i-gavarro-the-president-of-the-spanish-region-of-catalonia-authorises-a-referendum-on-independence-on-november-9-despite-the-opp.md)
-_Context: Artur Mas i Gavarró, Catalonia, President of the Generalitat of Catalonia, Spain, national government_
+_Context: Artur Mas i Gavarr, Catalonia, President of the Generalitat of Catalonia, Spain, national government_
 
 ### [Dozens of people are arrested as Hong Kong pro-democracy rallies continue. ](/news/2014/09/27/dozens-of-people-are-arrested-as-hong-kong-pro-democracy-rallies-continue.md)
 _Context: Hong Kong_

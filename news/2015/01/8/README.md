@@ -7,7 +7,7 @@ After the attack on &#039;Charlie Hebdo,&#039; France’s Muslims brace for back
 Bodies lay strewn on the streets of a key north-eastern Nigerian town following on-going raids by militant Islamists, officials tells the BBC.
 
 ### [A suicide bomber targets a police checkpoint in the town of Youssifiyah, killing seven people. ](/news/2015/01/8/a-suicide-bomber-targets-a-police-checkpoint-in-the-town-of-youssifiyah-killing-seven-people.md)
-_Context: Iraqi insurgency (2011–present), Youssifiyah, suicide bomber_
+_Context: Iraqi insurgency (2011-present), Youssifiyah, suicide bomber_
 
 ### [Dunkin' Donuts signs a franchise agreement for 1,400 new cafes in China by the year 2035. ](/news/2015/01/8/dunkin-donuts-signs-a-franchise-agreement-for-1-400-new-cafes-in-china-by-the-year-2035.md)
 _Context: Dunkin' Donuts_

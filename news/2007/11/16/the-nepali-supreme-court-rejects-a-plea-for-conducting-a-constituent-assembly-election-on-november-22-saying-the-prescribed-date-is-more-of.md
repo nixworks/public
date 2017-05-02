@@ -1,6 +1,6 @@
 ### [2007-11-16](/news/2007/11/16/index.md)
 
-#  The Nepali Supreme Court rejects a plea for conducting a Constituent Assembly election on November 22 saying the prescribed date is more of a moral question rather than a legal one.{{Fact|date=December 2007}}
+#  The Nepali Supreme Court rejects a plea for conducting a Constituent Assembly election on November 22 saying the prescribed date is more of a moral question rather than a legal one.date=December 2007
 
 
 

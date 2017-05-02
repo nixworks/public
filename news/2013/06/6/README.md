@@ -10,7 +10,7 @@ Two Tunisian soldiers are killed and at least another two wounded in a roadside 
 Without clear signs that Obama will fulfill promise to close facility, more detainees are refusing food.
 
 ### [War in Afghanistan (2001-present): Seven Georgian servicemen are killed and nine wounded in an insurgent attack with a truck bomb on the ISAF base in Shir Ghazay, Afghanistan. ](/news/2013/06/6/war-in-afghanistan-2001apresent-seven-georgian-servicemen-are-killed-and-nine-wounded-in-an-insurgent-attack-with-a-truck-bomb-on-the-i.md)
-_Context: Georgian servicemen, War in Afghanistan (2001–present)_
+_Context: Georgian servicemen, War in Afghanistan (2001-present)_
 
 ### [Kevin Barry wins one of the world's richest literary awards, the International IMPAC Dublin Literary Award. ](/news/2013/06/6/kevin-barry-wins-one-of-the-world-s-richest-literary-awards-the-international-impac-dublin-literary-award.md)
 _Context: International Dublin Literary Award, Kevin Barry_

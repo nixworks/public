@@ -31,7 +31,7 @@ _Context: China's, Melbourne International Film Festival, Rebiya Kadeer, Uyghur_
 _Context: North Korea, South Korea_
 
 ### [ Six Christians are killed in religious unrest in Punjab, Pakistan, after days of tension following an alleged desecration of a Qur'an. ](/news/2009/08/1/six-christians-are-killed-in-religious-unrest-in-punjab-pakistan-after-days-of-tension-following-an-alleged-desecration-of-a-quraan.md)
-_Context: Christian, Pakistan, Punjab, Qur’an_
+_Context: Christian, Pakistan, Punjab, Qur'an_
 
 ### [ Rare Buddhist treasures, buried in the 1930s during Mongolia's Communist purge, are unearthed in the Gobi Desert. ](/news/2009/08/1/rare-buddhist-treasures-buried-in-the-1930s-during-mongolia-s-communist-purge-are-unearthed-in-the-gobi-desert.md)
 _Context: Buddhist, Gobi Desert, Mongolia, communism_

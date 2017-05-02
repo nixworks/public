@@ -4,7 +4,7 @@
 A militant group in Gaza said the first rocket strike in more than three months was conducted in retaliation for the death of a Palestinian prisoner.
 
 ### [Mexican Drug War:Gunmen break into a prison in the Mexican border city of Ciudad Miguel Aleman, Tamaulipas, and liberate 12 inmates. ](/news/2013/02/26/mexican-drug-war-pgunmen-break-into-a-prison-in-the-mexican-border-city-of-ciudad-miguel-alema-n-tamaulipas-and-liberate-12-inmates.md)
-_Context: Ciudad Miguel Alemán, Mexican Drug War, Mexico, Tamaulipas_
+_Context: Ciudad Miguel Aleman, Mexican Drug War, Mexico, Tamaulipas_
 
 ### [Nigerian Sharia conflict:Gunmen kill seven guards guarding a marketplace in Yobe State, Nigeria. ](/news/2013/02/26/nigerian-sharia-conflict-pgunmen-kill-seven-guards-guarding-a-marketplace-in-yobe-state-nigeria.md)
 _Context: Nigeria, Nigerian Sharia conflict, Yobe State_
@@ -49,7 +49,7 @@ Real Madrid inflict a painful 3-1 defeat on Barcelona, to complete a 4-2 aggrega
 _Context: 2013 AFC Champions League, AFC Champions League, Al Jazira, Tractor Sazi, group stage_
 
 ### [In team handball, the draw for the 2012-13 EHF Champions League Round of 16 is held in Vienna, Austria. Defending champions THW Kiel will play Chekhovskiye Medvedi. ](/news/2013/02/26/in-team-handball-the-draw-for-the-2012a13-ehf-champions-league-round-of-16-is-held-in-vienna-austria-defending-champions-thw-kiel-will.md)
-_Context: 2012–13 EHF Champions League, Austria, Chekhovskiye Medvedi, Round of 16, THW Kiel, Vienna, champions, team handball_
+_Context: 2012-13 EHF Champions League, Austria, Chekhovskiye Medvedi, Round of 16, THW Kiel, Vienna, champions, team handball_
 
 ## [Previous Day...](/news/2013/02/25/index.md)
 

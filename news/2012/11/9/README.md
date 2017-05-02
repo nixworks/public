@@ -13,7 +13,7 @@ _Context: General Atomics MQ-1 Predator, Iranian Revolutionary guards, Kuwait, f
 _Context: Colombo, Sri Lanka_
 
 ### [Bahraini uprising: A teenager is killed during a crackdown on protesters near the capital Manama. ](/news/2012/11/9/bahraini-uprising-a-teenager-is-killed-during-a-crackdown-on-protesters-near-the-capital-manama.md)
-_Context: Bahraini uprising (2011–present), Manama_
+_Context: Bahraini uprising (2011-present), Manama_
 
 ### [A train carrying liquid fuel crashes and bursts into flames in northern Burma, killing at least 25 people and injuring up to 62 others. ](/news/2012/11/9/a-train-carrying-liquid-fuel-crashes-and-bursts-into-flames-in-northern-burma-killing-at-least-25-people-and-injuring-up-to-62-others.md)
 At least 25 people are killed and dozens injured in northern Burma when a train carrying petrol derails and bursts into flames.

@@ -34,7 +34,7 @@ _Context: Autism Society of America, Florida, autism_
 Terrence McNeil of Akron faces 15 to 20 years in prison.
 
 ### [ Spanish Prime Minister, Mariano Rajoy, called to testify in corruption scandal (Gurtel case) trial. ](/news/2017/04/20/spanish-prime-minister-mariano-rajoy-called-to-testify-in-corruption-scandal-ga1-4rtel-case-trial.md)
-_Context: Gürtel case, Mariano Rajoy_
+_Context: Gurtel case, Mariano Rajoy_
 
 ### [New polls show Francois Fillon and Jean-Luc Melenchon neck and neck behind the frontrunners Emmanuel Macron and Marine Le Pen ahead of the upcoming first round of the election. ](/news/2017/04/20/new-polls-show-franassois-fillon-and-jean-luc-ma-c-lenchon-neck-and-neck-behind-the-frontrunners-emmanuel-macron-and-marine-le-pen-ahead-of-the.md)
 Hard-left presidential challenger Jean-Luc Melenchon and conservative Francois Fillon were neck-and-neck behind the frontrunners in an opinion poll on Thursday, as candidates made last-ditch appeals to undecided voters.

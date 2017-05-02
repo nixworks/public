@@ -21,7 +21,7 @@ _Context: Canadian Prime Minister, Liberal Party's, Paul Martin_
 ### [ Opera web browser releases free "mini" mobile phone browser. ](/news/2006/01/24/opera-web-browser-releases-free-mini-mobile-phone-browser.md)
 _Context: Opera, mobile phone, web browser_
 
-### [ Web sites encouraged to support IE rivals, as Firefox 1.5 passes the {{Nowrap|20 million}} downloads mark. Firefox browser has 11 percent of the UK market.](/news/2006/01/24/web-sites-encouraged-to-support-ie-rivals-as-firefox-1-5-passes-the-nowrap-20-million-downloads-mark-firefox-browser-has-11-percent-o.md)
+### [ Web sites encouraged to support IE rivals, as Firefox 1.5 passes the 20 million downloads mark. Firefox browser has 11 percent of the UK market.](/news/2006/01/24/web-sites-encouraged-to-support-ie-rivals-as-firefox-1-5-passes-the-20-million-downloads-mark-firefox-browser-has-11-percent-of-the-uk-ma.md)
 _Context: Firefox, Internet Explorer, market, percent, web site_
 
 ## [Previous Day...](/news/2006/01/23/index.md)

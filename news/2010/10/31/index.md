@@ -16,7 +16,7 @@ At least 52 people are killed after Iraqi troops storm a Catholic church in Bagh
 Shanghai bids farewell to the World Expo, a six-month extravaganza which drew 72m visitors and which China branded as &quot;splendid&quot;.
 
 ### [The President of Venezuela Hugo Chvez nationalises Sidetur, a subsidiary of Sivensa.](/news/2010/10/31/the-president-of-venezuela-hugo-chavez-nationalises-sidetur-a-subsidiary-of-sivensa.md)
-_Context: Hugo Chávez, President, Sidetur, Sivensa_
+_Context: Hugo Chvez, President, Sidetur, Sivensa_
 
 ### [The Sony BMG CD copy protection scandal is triggered after Mark Russinovich publishes details of Sony's rootkit.](/news/2010/10/31/the-sony-bmg-cd-copy-protection-scandal-is-triggered-after-mark-russinovich-publishes-details-of-sony-s-rootkit.md)
 _Context: Mark Russinovich, Sony BMG CD copy protection scandal, rootkit_
@@ -46,7 +46,7 @@ _Context: Guantanamo Bay, Omar Khadr, United States, military commission_
 Somalia&amp;&#x23;039&#x3B;s&#x20;parliament&#x20;has&#x20;approved&#x20;the&#x20;appointment&#x20;of&#x20;Mohamed&#x20;Abdullahii&#x20;Mohamed&#x20;as&#x20;the&#x20;country&amp;&#x23;039&#x3B;s&#x20;new&#x20;prime&#x20;minister.&#x20;Lawmakers&#x20;voted&#x20;by&#x20;297&#x20;to&#x20;92&#x20;in&#x20;favour&#x20;of&#x20;the&#x20;president&amp;&#x23;039&#x3B;s&#x20;nominee,&#x20;who&#x20;is&#x20;a&#x20;US-educated&#x20;former&#x20;diplomat&#x20;from&#x20;the&#x20;Somali&#x20;diaspora.&#x0A;
 
 ### [Voters in Brazil go to the polls for the second round of the Brazilian presidential election between Dilma Rousseff and Jos Serra. Rousseff won 55% of the vote and will become the first female President of Brazil. ](/news/2010/10/31/voters-in-brazil-go-to-the-polls-for-the-second-round-of-the-brazilian-presidential-election-between-dilma-rousseff-and-jose-serra-rousseff.md)
-_Context: Brazil, Brazilian President, Brazilian presidential election, Dilma Rousseff, José Serra_
+_Context: Brazil, Brazilian President, Brazilian presidential election, Dilma Rousseff, Jos Serra_
 
 ### [Voters in the Ivory Coast go to the polls for the long delayed presidential election. ](/news/2010/10/31/voters-in-the-ivory-coast-go-to-the-polls-for-the-long-delayed-presidential-election.md)
 _Context: 2010 presidential election, Ivory Coast_

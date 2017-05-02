@@ -16,7 +16,7 @@ _Context: North Korea_
 _Context: Soma mine disaster, Turkish police_
 
 ### [A bus in Fundacion, department of Magdalena, Colombia, ignites while transporting children from a religious service, killing 31 children. ](/news/2014/05/18/a-bus-in-fundacia3n-department-of-magdalena-colombia-ignites-while-transporting-children-from-a-religious-service-killing-31-children.md)
-_Context: Colombia, Fundación, department of Magdalena_
+_Context: Colombia, Fundacion, department of Magdalena_
 
 ### [2014 Vietnam anti-China protests:More than 3,000 Chinese citizens are evacuated from Vietnam, with 2 Chinese killed and more than 100 injured in the riot last week following China drilling for oil in the South China Sea. ](/news/2014/05/18/2014-vietnam-anti-china-protests-pmore-than-3-000-chinese-citizens-are-evacuated-from-vietnam-with-2-chinese-killed-and-more-than-100-injur.md)
 More than 3,000 Chinese nationals have been evacuated from Vietnam, state news agency Xinhua said on Sunday, following deadly rioting that stemmed from an outpouring of rage over Chinese oil drilling in a disputed area of the South China Sea.
@@ -31,7 +31,7 @@ _Context: Adam Scott, No. 1 spot in the Official World Golf Ranking, Tiger Woods
 _Context: Euroleague, Maccabi Tel Aviv, basketball, sixth_
 
 ### [In football, River Plate defeats Quilmes 5-0 to secure its 35th championship in the Argentine Primera Division. ](/news/2014/05/18/in-football-river-plate-defeats-quilmes-5-0-to-secure-its-35th-championship-in-the-argentine-primera-divisia3n.md)
-_Context: 35th, Argentine Primera División, Quilmes, River Plate, association football_
+_Context: 35th, Argentine Primera Division, Quilmes, River Plate, association football_
 
 ## [Previous Day...](/news/2014/05/17/index.md)
 

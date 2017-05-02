@@ -1,7 +1,7 @@
 ## [2016-10-26](/news/2016/10/26/index.md)
 
 ### [A militant group affiliated with ISIL seizes the coastal town of Qandala in the autonomous Puntland region. ](/news/2016/10/26/a-militant-group-affiliated-with-isil-seizes-the-coastal-town-of-qandala-in-the-autonomous-puntland-region.md)
-_Context: ISIL, Puntland, Qandala, War in Somalia (2009–present)_
+_Context: ISIL, Puntland, Qandala, War in Somalia (2009-present)_
 
 ### [Ghor Province Governor's spokesman claims ISIL insurgents killed 26-42 civilians in his governed province, Afghanistan. ](/news/2016/10/26/ghor-province-governor-s-spokesman-claims-isil-insurgents-killed-26-42-civilians-in-his-governed-province-afghanistan.md)
 Gunmen rounded up and shot dozens of civilians in a remote part of Afghanistan on Tuesday, UN officials said, in an attack that prompted angry protests from residents about government failure to protect them.
@@ -25,7 +25,7 @@ Russia withdraws a request for Syria-bound warships to refuel in Spain, followin
 The United States on Wednesday abstained for the first time from a United Nations General Assembly vote on a resolution calling for an end to a U.S. economic embargo on Cuba, after opposing such measures every year for 24 years.
 
 ### [An unknown gunman shoots a Venezuelan police officer dead. Two other officers sustain injuries during protests against the Government of Venezuela. Approximately 120 Opposition supporters also sustain injuries during the protests. ](/news/2016/10/26/an-unknown-gunman-shoots-a-venezuelan-police-officer-dead-two-other-officers-sustain-injuries-during-protests-against-the-government-of-ven.md)
-_Context: 2014–16 Venezuelan protests, Venezuelan police officer, government_
+_Context: 2014-16 Venezuelan protests, Venezuelan police officer, government_
 
 ## [Previous Day...](/news/2016/10/25/index.md)
 

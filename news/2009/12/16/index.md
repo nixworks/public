@@ -1,7 +1,7 @@
 ## [2009-12-16](/news/2009/12/16/index.md)
 
 ### [ Mexican drug lord Arturo Beltrn Leyva, leader of the Beltrn-Leyva Cartel, is killed by personnel of the Mexican Navy during a shootout in Cuernavaca, Morelos. ](/news/2009/12/16/mexican-drug-lord-arturo-beltran-leyva-leader-of-the-beltran-leyva-cartel-is-killed-by-personnel-of-the-mexican-navy-during-a-shootout-in.md)
-_Context: Beltrán Leyva Cartel, Cuernavaca, Marcos Arturo Beltrán-Leyva, Mexican Navy_
+_Context: Beltrn Leyva Cartel, Cuernavaca, Marcos Arturo Beltrn-Leyva, Mexican Navy_
 
 ### [ Danish Prime Minister Lars Lkke Rasmussen replaces Connie Hedegaard in a "procedural move" as president of the U.N. climate talks, as further clashes take place around the perimeter of the summit. ](/news/2009/12/16/danish-prime-minister-lars-lokke-rasmussen-replaces-connie-hedegaard-in-a-procedural-move-as-president-of-the-u-n-climate-talks-as-furt.md)
 Police and protesters clash as Copenhagen climate talks enter crucial final phase.

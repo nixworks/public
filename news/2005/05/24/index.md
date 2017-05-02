@@ -22,7 +22,7 @@ _Context: Andes, Chile, military service_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Canadian Liberal candidate Todd Russell wins a crucial by-election in the federal riding of Labrador. This result consolidates the shaky Liberal balance of power in the federal government. ](/news/2005/05/24/canadian-liberal-candidate-todd-russell-wins-a-crucial-by-election-in-the-federal-riding-of-labrador-this-result-consolidates-the-shaky-li.md)
-_Context: Canadian, Labrador, Liberal Party's, Todd Russell, by-election_
+_Context: Canada, Labrador, Liberal Party's, Todd Russell, by-election_
 
 ### [ Jurors in the criminal trial of Richard M. Scrushy, founder and former CEO of HealthSouth Corporation, send notes to the presiding judge that indicate they are having difficulty reaching unanimity. The case is part of the wave of U.S. corporate scandals of recent years. Prosecutors allege that Mr. Scrushy and others conspired to overstate profits at HealthSouth by circa $2.7 billion, in the period 1996 - 2002. ](/news/2005/05/24/jurors-in-the-criminal-trial-of-richard-m-scrushy-founder-and-former-ceo-of-healthsouth-corporation-send-notes-to-the-presiding-judge-th.md)
 _Context: 1996, 2002, HealthSouth Corporation, Richard M. Scrushy_

@@ -43,7 +43,7 @@ _Context: Altinum, Venice_
 The British High Court has ruled against a last-ditch bid by Gary McKinnon to avoid extradition to the US where he faces trial for hacking into military networks.
 
 ### [ Filmmaker Benicio del Toro is presented with the International Tomas Gutierrez Alea Prize by the Cuban government in Havana. ](/news/2009/07/31/filmmaker-benicio-del-toro-is-presented-with-the-international-toma-s-gutia-c-rrez-alea-prize-by-the-cuban-government-in-havana.md)
-_Context: Benicio del Toro, Cuba, Cuba – United States relations, Havana, International Tomás Gutiérrez Alea Prize, government_
+_Context: Benicio del Toro, Cuba, Cuba - United States relations, Havana, International Tomas Gutierrez Alea Prize, government_
 
 ### [ Research claiming to have created human sperm in a Newcastle laboratory is withdrawn due to evidence of plagiarism. ](/news/2009/07/31/research-claiming-to-have-created-human-sperm-in-a-newcastle-laboratory-is-withdrawn-due-to-evidence-of-plagiarism.md)
 _Context: Newcastle, plagiarism, sperm_

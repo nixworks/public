@@ -46,7 +46,7 @@ Students in Chile resume their protests for education reforms, with more than 10
 Palestinian PM Salam Fayyad has resigned, the official Wafa news agency reports, after a long-running dispute with President Mahmoud Abbas.
 
 ### [The National Transitional Council of the Central African Republic elects Michel Djotodia as the President confirming a position he has held since a coup last month. ](/news/2013/04/13/the-national-transitional-council-of-the-central-african-republic-elects-michel-djotodia-as-the-president-confirming-a-position-he-has-held.md)
-_Context: Central African Republic conflict (2012–present), Central-African, Michel Djotodia, President_
+_Context: Central African Republic conflict (2012-present), Central-African, Michel Djotodia, President_
 
 ### [Pope Francis appoints a panel of nine high-ranking prelates from around the world to advise him of the running of the Catholic Church and advise him on the reform of the Vatican bureaucracy. ](/news/2013/04/13/pope-francis-appoints-a-panel-of-nine-high-ranking-prelates-from-around-the-world-to-advise-him-of-the-running-of-the-catholic-church-and-ad.md)
 Pope Francis marked his first month as pope on Saturday by naming nine high-ranking prelates from around the globe to a permanent advisory group to help him run the Catholic Church.
@@ -58,7 +58,7 @@ _Context: Augusta, Georgia, Tiger Woods, United States, golf, win_
 Amid an already tumultuous transition for the Lakers, Kobe Bryant had surgery for his ruptured left Achilles’ tendon and is expected to miss six to nine months.
 
 ### [Russian basketball club PBC Lokomotiv Kuban wins 2012-13 Eurocup Basketball defeating Spain's Bilbao Basket 75-64 in the final in Charleroi, Belgium. ](/news/2013/04/13/russian-basketball-club-pbc-lokomotiv-kuban-wins-2012a13-eurocup-basketball-defeating-spain-s-bilbao-basket-75a64-in-the-final-in-charle.md)
-_Context: 2012–13 Eurocup Basketball, Belgium, Bilbao Basket, Charleroi, PBC Lokomotiv Kuban, Russian, Spain, basketball_
+_Context: 2012-13 Eurocup Basketball, Belgium, Bilbao Basket, Charleroi, PBC Lokomotiv Kuban, Russian, Spain, basketball_
 
 ## [Previous Day...](/news/2013/04/12/index.md)
 

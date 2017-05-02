@@ -28,10 +28,10 @@ _Context: Nigeria's economy, South Africa_
 The Italian ambassador to Turkmenistan has been detained by police in the Philippines, who have accused him of violating laws on the safeguarding of children, the Foreign Ministry in Rome said on Sunday.
 
 ### [Costa Rican general election, 2014:Voters in Costa Rica go to the polls for a general election. Luis Guillermo Sols is the only presidential candidate left in the race following the withdrawal of Johnny Araya. ](/news/2014/04/6/costa-rican-general-election-2014-pvoters-in-costa-rica-go-to-the-polls-for-a-general-election-luis-guillermo-solis-is-the-only-presidenti.md)
-_Context: Costa Rican general election, 2014, Johnny Araya, Luis Guillermo Solís_
+_Context: Costa Rican general election, 2014, Johnny Araya, Luis Guillermo Sols_
 
 ### [Hungarian parliamentary election, 2014:Voters in Hungary go to the polls, and Prime Minister Viktor Orbn's Fidesz and their allies the Christian Democrats win re-election easily, with 45% of the vote. ](/news/2014/04/6/hungarian-parliamentary-election-2014-pvoters-in-hungary-go-to-the-polls-and-prime-minister-viktor-orban-s-fidesz-and-their-allies-the-chr.md)
-_Context: Christian Democrats, Fidesz party, Hungarian Prime Minister, Hungarian parliamentary election, 2014, Viktor Orbán_
+_Context: Christian Democrats, Fidesz party, Hungarian Prime Minister, Hungarian parliamentary election, 2014, Viktor Orbn_
 
 ### [Russian municipal electionsCommunist Party of the Russian Federation candidate Anatoly Lokot was elected mayor of the third-largest city of Novosibirsk, defeating ruling United Russia party candidate. ](/news/2014/04/6/russian-municipal-electionspcommunist-party-of-the-russian-federation-candidate-anatoly-lokot-was-elected-mayor-of-the-third-largest-city-of.md)
 _Context: Anatoly Lokot, Communist Party, Novosibirsk, United Russia_

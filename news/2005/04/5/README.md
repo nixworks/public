@@ -8,7 +8,7 @@ _Context: Japan, Japanese occupation, Liancourt Rocks, South Korea, schoolbooks_
 _Context: Tony Blair, United Kingdom, United Kingdom general election, 2005_
 
 ### [ Five Guatemalan politicians are convicted of racial discrimination for taunts hurled at Rigoberta Mench. ](/news/2005/04/5/five-guatemalan-politicians-are-convicted-of-racial-discrimination-for-taunts-hurled-at-rigoberta-menchu.md)
-_Context: Guatemala, Rigoberta Menchú, racial discrimination_
+_Context: Guatemala, Rigoberta Mench, racial discrimination_
 
 ### [ Preliminary results of the Italian regional elections show heavy losses for the parties in Silvio Berlusconi's centre-right coalition. ](/news/2005/04/5/preliminary-results-of-the-italian-regional-elections-show-heavy-losses-for-the-parties-in-silvio-berlusconi-s-centre-right-coalition.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

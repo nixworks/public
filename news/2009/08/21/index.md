@@ -40,7 +40,7 @@ _Context: Abdelbaset al-Megrahi, Barack Obama, Libya, Lockerbie bombing, preside
 _Context: Gafsa, Tunisia, phantom pregnancy, pregnancy_
 
 ### [ Lszl Slyom, President of Hungary was declared unwelcome by Slovakia and was not allowed to step on Slovak soil to attend an unveiling of a statue depicting King Saint Stephen, first King of Hungary. ](/news/2009/08/21/laszlo-solyom-president-of-hungary-was-declared-unwelcome-by-slovakia-and-was-not-allowed-to-step-on-slovak-soil-to-attend-an-unveiling-of.md)
-_Context: King Saint Stephen, King of Hungary, László Sólyom, President of Hungary, Slovakia's, declared unwelcome_
+_Context: King Saint Stephen, King of Hungary, Lszl Slyom, President of Hungary, Slovakia's, declared unwelcome_
 
 ## [Previous Day...](/news/2009/08/20/index.md)
 

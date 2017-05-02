@@ -7,10 +7,10 @@ A suicide attack on a Turkish embassy vehicle in the Afghan capital, Kabul, kill
 Intelligence official confirms masked ISIS militant seen in many beheading videos identified as college grad from London
 
 ### [French actresses Marion Cotillard and Melanie Laurent, and French President Francois Hollande begin their two-day state visit to the Philippines, where they are to discuss climate change. ](/news/2015/02/26/french-actresses-marion-cotillard-and-ma-c-lanie-laurent-and-french-president-franassois-hollande-begin-their-two-day-state-visit-to-the-phili.md)
-_Context: France, François Hollande, Marion Cotillard, Mélanie Laurent, Philippines, climate change, president_
+_Context: France, Francois Hollande, Marion Cotillard, Melanie Laurent, Philippines, climate change, president_
 
 ### [Norwegian police raid the offices of the Catholic Church's diocese in Oslo, charging the church administration with serious fraud under the suspicion of wrongfully claiming as much as NOK 50 million in state support by presenting fraudulent membership statistics. ](/news/2015/02/26/norwegian-police-raid-the-offices-of-the-catholic-churchas-diocese-in-oslo-charging-the-church-administration-with-serious-fraud-under-th.md)
-_Context: Catholic Church’s diocese in Oslo, Norway, kroner_
+_Context: Catholic Church's diocese in Oslo, Norway, kroner_
 
 ### [''The Guardian'' publishes articles alleging that the Chicago Police Department have been running a black site at Homan Square for detained Americans; former justice officials call for investigation.  The CPD denies the allegations. ](/news/2015/02/26/the-guardian-publishes-articles-alleging-that-the-chicago-police-department-have-been-running-a-black-site-at-homan-square-for-detained.md)
 Exclusive: Secret interrogation facility reveals creeping aspects of war on terror in US city as accounts describe shackling and brutality without basic rights

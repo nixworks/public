@@ -46,7 +46,7 @@ Sir Alex Ferguson believes Robin van Persie could have broken his neck when Swan
 Follow minute-by-minute commentary of the Premier League game between Chelsea and Aston Villa at Stamford Bridge on Sunday Dec 23 2012.
 
 ### [Aykut Kocaman resigns as Fenerbahce coach after pressure from fans mounted following defeat to Karabukspor in the 2012-13 Super Lig. ](/news/2012/12/23/aykut-kocaman-resigns-as-fenerbahasse-coach-after-pressure-from-fans-mounted-following-defeat-to-karaba1-4kspor-in-the-2012a13-sa1-4per-lig.md)
-_Context: 2012–13 Süper Lig, Aykut Kocaman, Fenerbahçe, Karabükspor_
+_Context: 2012-13 Super Lig, Aykut Kocaman, Fenerbahce, Karabukspor_
 
 ## [Previous Day...](/news/2012/12/22/index.md)
 

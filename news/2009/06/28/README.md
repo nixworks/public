@@ -7,7 +7,7 @@ _Context: United Kingdom, swine flu_
 _Context: Costa Rica, Manuel Zelaya, President, constitutional referendum, removed from office_
 
 ### [ A presidential election takes place in Guinea-Bissau following the death of former President Joo Bernardo Vieira. ](/news/2009/06/28/a-presidential-election-takes-place-in-guinea-bissau-following-the-death-of-former-president-joao-bernardo-vieira.md)
-_Context: Guinea-Bissau, João Bernardo Vieira, acting president, presidential election_
+_Context: Guinea-Bissau, Joo Bernardo Vieira, acting president, presidential election_
 
 ### [ Voters in Albania go to the polls in a parliamentary election. ](/news/2009/06/28/voters-in-albania-go-to-the-polls-in-a-parliamentary-election.md)
 Albanians were voting in legislative elections seen as crucial for the European future of the country, with polls showing the two main rivals neck and neck.

@@ -11,7 +11,7 @@ About 110 people have been injured, 22 seriously, when part of the seating at a 
 
 ### Related:
 
-1. [ Brazilian priest Adelir Antonio de Carli goes missing after cluster ballooning to raise money for truck drivers in Paranagu, Paran. ](/news/2008/04/20/brazilian-priest-adelir-antonio-de-carli-goes-missing-after-cluster-ballooning-to-raise-money-for-truck-drivers-in-paranagua-parana.md) _Context: Brazil, Paraná_
+1. [ Brazilian priest Adelir Antonio de Carli goes missing after cluster ballooning to raise money for truck drivers in Paranagu, Paran. ](/news/2008/04/20/brazilian-priest-adelir-antonio-de-carli-goes-missing-after-cluster-ballooning-to-raise-money-for-truck-drivers-in-paranagua-parana.md) _Context: Brazil, Paran_
 2. [A general strike is held in Brazil, the first one in twenty years. ](/news/2017/04/28/a-general-strike-is-held-in-brazil-the-first-one-in-twenty-years.md) _Context: Brazil_
 3. [In Paraguay, around 50 armed men, allegedly belonging to the Brazil-based Primeiro Comando da Capital criminal gang, storm a security vault and police headquarters in Ciudad del Este, escaping with around $6 million in a daring cross-border raid. ](/news/2017/04/24/in-paraguay-around-50-armed-men-allegedly-belonging-to-the-brazil-based-primeiro-comando-da-capital-criminal-gang-storm-a-security-vault.md) _Context: Brazil_
 4. [SpaceX successfully launches the EchoStar 23 satellite, a Direct-to-home television broadcast services for Brazil, into a geosynchronous transfer orbit, using the fully expendable version of their Falcon 9 launch vehicle. ](/news/2017/03/16/spacex-successfully-launches-the-echostar-23-satellite-a-direct-to-home-television-broadcast-services-for-brazil-into-a-geosynchronous-tra.md) _Context: Brazil_

@@ -10,7 +10,7 @@ _Context: Kolkata, Nandigram, Twelve people die, farmer, special economic zone_
 _Context: Alabama, Nancy Worley, Secretary of State_
 
 ### [ Khalid Sheikh Mohammed, long suspected as the mastermind of the September 11, 2001 attacks, confesses to that and a string of others in a closed military hearing held at Guantanamo Bay, Cuba. ](/news/2007/03/14/khalid-sheikh-mohammed-long-suspected-as-the-mastermind-of-the-september-11-2001-attacks-confesses-to-that-and-a-string-of-others-in-a-c.md)
-_Context: Cuba, Guantánamo Bay, Khalid Sheikh Mohammed, September 11, 2001 attacks_
+_Context: Cuba, Guantanamo Bay, Khalid Sheikh Mohammed, September 11, 2001 attacks_
 
 ### [ Dutch police seal off the streets of Ondiep in Utrecht on the second day of rioting. ](/news/2007/03/14/dutch-police-seal-off-the-streets-of-ondiep-in-utrecht-on-the-second-day-of-rioting.md)
 _Context: Ondiep, Utrecht, second day of rioting_
@@ -34,7 +34,7 @@ _Context: Barisan Revolusi Nasional, Islamist militants, South Thailand insurgen
 _Context: Kabul_
 
 ### [ Tonga is considering options for the redevelopment of its capital city, Nuku{{Okina}}alofa, after 2006 riots destroyed the CBD. ](/news/2007/03/14/tonga-is-considering-options-for-the-redevelopment-of-its-capital-city-nuku-okina-alofa-after-2006-riots-destroyed-the-cbd.md)
-_Context: 2006 riots, Nukuʻalofa, Tonga_
+_Context: 2006 riots, Nuku`alofa, Tonga_
 
 ### [ The U.S. state of Colorado adopts "Rocky Mountain High", written by John Denver, as its second official state song. ](/news/2007/03/14/the-u-s-state-of-colorado-adopts-rocky-mountain-high-written-by-john-denver-as-its-second-official-state-song.md)
 _Context: Colorado, John Denver, Rocky Mountain High, state song_

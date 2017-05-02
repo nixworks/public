@@ -16,7 +16,7 @@ The mishap occurred when the co-pilot of Mumbai-Hyderabad flight 619 mistook a s
 By Andrew M. Seaman(Reuters Health) - Offering the families of children with appendicitis the option of antibiotics instead of surgery is safe and m
 
 ### [The United States and Cuba reach an understanding on restoring regularly scheduled commercial flights. Currently, the only option available is  charter flights. ](/news/2015/12/16/the-united-states-and-cuba-reach-an-understanding-on-restoring-regularly-scheduled-commercial-flights-currently-the-only-option-available.md)
-_Context: Cuba, Cuba–United States relations, United States, charter flights, commercial flights_
+_Context: Cuba, Cuba-United States relations, United States, charter flights, commercial flights_
 
 ### [NATO leadership signs an agreement with the Ukrainian government  to assist the country's modernization of its defense industry and capabilities. ](/news/2015/12/16/nato-leadership-signs-an-agreement-with-the-ukrainian-government-to-assist-the-country-s-modernization-of-its-defense-industry-and-capabili.md)
 _Context: Kiev, NATO_

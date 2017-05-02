@@ -4,7 +4,7 @@
 _Context: Amsterdam, Museon, The Hague, Van Gogh, Van Gogh Museum, diamond_
 
 ### [Miss Turkey, Azra Akin from Almelo, won the Miss World competition which had been moved from Nigeria to London because of religious violence.](/news/2002/12/7/miss-turkey-azra-aka-n-from-almelo-won-the-miss-world-competition-which-had-been-moved-from-nigeria-to-london-because-of-religious-violenc.md)
-_Context: Almelo, Azra Akın, London, Miss World, Nigeria, Turkey_
+_Context: Almelo, Azra Akin, London, Miss World, Nigeria, Turkey_
 
 ### [ A massive fire in Edinburgh's Old Town destroys part of the pioneering Informatics department of the University, as well as a major venue for the Edinburgh Fringe.](/news/2002/12/7/a-massive-fire-in-edinburgh-s-old-town-destroys-part-of-the-pioneering-informatics-department-of-the-university-as-well-as-a-major-venue-f.md)
 _Context: Edinburgh Fringe, Informatics, University, massive fire_

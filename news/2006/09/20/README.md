@@ -34,7 +34,7 @@ _Context: The Football Association, bung, footballer_
 _Context: ''Globe and Mail'' article, Canadian House of Commons, Jan Wong, Quebec, The Globe and Mail_
 
 ### [ Venezuelan President Hugo Chvez, addressing the United Nations 61st General Assembly, said 'Yesterday the devil was here, and today it still smells of sulfur at this podium,' in reference to US President George W. Bush.](/news/2006/09/20/venezuelan-president-hugo-chavez-addressing-the-united-nations-61st-general-assembly-said-yesterday-the-devil-was-here-and-today-it-sti.md)
-_Context: Hugo Chávez, United Nations, Venezuelan president_
+_Context: Hugo Chvez, United Nations, Venezuelan president_
 
 ## [Previous Day...](/news/2006/09/19/index.md)
 

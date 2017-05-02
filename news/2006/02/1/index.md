@@ -12,7 +12,7 @@ _Context: Muhammad cartoons_
 ### [ The Latin American TV station teleSUR, backed by the Venezuelan government, has signed a co-operation agreement with the Arabic channel al-Jazeera. ](/news/2006/02/1/the-latin-american-tv-station-telesur-backed-by-the-venezuelan-government-has-signed-a-co-operation-agreement-with-the-arabic-channel-al.md)
 _Context: Al Jazeera, Arabic, TV station, Venezuela, teleSUR_
 
-### [ Shares in Google fall dramatically after the company reported profits below Wall Street estimates. {{Nowrap|$12 billion}} in market value was lost. ](/news/2006/02/1/shares-in-google-fall-dramatically-after-the-company-reported-profits-below-wall-street-estimates-nowrap-12-billion-in-market-value-w.md)
+### [ Shares in Google fall dramatically after the company reported profits below Wall Street estimates. $12 billion in market value was lost. ](/news/2006/02/1/shares-in-google-fall-dramatically-after-the-company-reported-profits-below-wall-street-estimates-12-billion-in-market-value-was-lost.md)
 _Context: Google, Wall Street_
 
 ### [ Astronomers measure the size of newly discovered dwarf planet Eris as larger than Pluto with 84% probability. ](/news/2006/02/1/astronomers-measure-the-size-of-newly-discovered-dwarf-planet-eris-as-larger-than-pluto-with-84-probability.md)

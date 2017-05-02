@@ -4,7 +4,7 @@
 India and Pakistan exchangedgunfire and mortar bombs along their disputed frontier onThursday, killing five civilians and injuring more than a dozen,Pakistan said, days after the leaders of the nuclear-armedrivals agreed to high-level talks.
 
 ### [Members of exiled President of Yemen Abd Rabbuh Mansur Hadi's Cabinet tour the southern city of Aden for the first time in several months. ](/news/2015/07/16/members-of-exiled-president-of-yemen-abd-rabbuh-mansur-hadi-s-cabinet-tour-the-southern-city-of-aden-for-the-first-time-in-several-months.md)
-_Context: Abd Rabbuh Mansur Hadi, Aden, Yemen, Yemeni Crisis (2011–present), Yemeni President_
+_Context: Abd Rabbuh Mansur Hadi, Aden, Yemen, Yemeni Crisis (2011-present), Yemeni President_
 
 ### [The Islamic State of Iraq and Greater Syria (ISIS) has claimed that it sank an Egyptian patrol boat in the Mediterranean,  just off the coast of Rafah. The Egyptian military claimed the ship sank from a fire not caused by attacks. ](/news/2015/07/16/the-islamic-state-of-iraq-and-greater-syria-isis-has-claimed-that-it-sank-an-egyptian-patrol-boat-in-the-mediterranean-just-off-the-coas.md)
 _Context: Egypt, ISIL, Rafah, Sinai insurgency, patrol boat_
@@ -33,7 +33,7 @@ _Context: Babullah Airport, Gamalama, Indonesia, Raung, Ternate_
 ### [Typhoon Nangka makes landfall on the Japanese island of Shikoku. ](/news/2015/07/16/typhoon-nangka-makes-landfall-on-the-japanese-island-of-shikoku.md)
 _Context: 2015 Pacific typhoon season, Japan, Shikoku_
 
-### [The Nexen pipeline at the Long Lake facility near Fort McMurray, Alberta, spills {{convert|5000000|l}} of oil emulsion. ](/news/2015/07/16/the-nexen-pipeline-at-the-long-lake-facility-near-fort-mcmurray-alberta-spills-convert-5000000-l-of-oil-emulsion.md)
+### [The Nexen pipeline at the Long Lake facility near Fort McMurray, Alberta, spills 5000000|l of oil emulsion. ](/news/2015/07/16/the-nexen-pipeline-at-the-long-lake-facility-near-fort-mcmurray-alberta-spills-5000000-l-of-oil-emulsion.md)
 One of the largest leaks in Alberta history has spilled about five million litres of emulsion from a Nexen Energy pipeline at the company&rsquo;s Long Lake oilsands facility south of Fort McMurray.
 
 ### [A shooting occurs at a United States Navy recruiting office and a Navy operational support center in Chattanooga, Tennessee, killing four U.S. Marines and the gunman and  wounding a police officer, a Marine Corps recruiter and a sailor who is listed in serious condition. ](/news/2015/07/16/a-shooting-occurs-at-a-united-states-navy-recruiting-office-and-a-navy-operational-support-center-in-chattanooga-tennessee-killing-four-u.md)

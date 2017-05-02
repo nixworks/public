@@ -4,7 +4,7 @@
 _Context: Boko Haram, Nigeria_
 
 ### [Loyalists of exiled President Abd Rabbuh Mansur Hadi capture Aden International Airport after four months of being under Houthi control. ](/news/2015/07/15/loyalists-of-exiled-president-abd-rabbuh-mansur-hadi-capture-aden-international-airport-after-four-months-of-being-under-houthi-control.md)
-_Context: Abd Rabbuh Mansur Hadi, Aden International Airport, Houthi, Yemeni Crisis (2011–present), Yemeni President_
+_Context: Abd Rabbuh Mansur Hadi, Aden International Airport, Houthi, Yemeni Crisis (2011-present), Yemeni President_
 
 ### [A preliminary report from the Dutch Safety Board of the investigation of the Malaysia Airlines Flight 17 (MH17) disaster points to pro-Russian rebels as being responsible for the shooting down of the passenger flight on 17 July 2014. ](/news/2015/07/15/a-preliminary-report-from-the-dutch-safety-board-of-the-investigation-of-the-malaysia-airlines-flight-17-mh17-disaster-points-to-pro-russi.md)
 _Context: Dutch Safety Board, Malaysia Airlines Flight 17_

@@ -19,7 +19,7 @@ Venezuela and the United States said yesterday they will restore their ambassado
 A roadside bomb killed five Iraqi policemen today in the once turbulent but recently secure western city of Falluja, police said&hellip;
 
 ### [ The last leg of the 2008-09 Volvo Ocean Race gets underway in Stockholm. ](/news/2009/06/25/the-last-leg-of-the-2008a09-volvo-ocean-race-gets-underway-in-stockholm.md)
-_Context: 2008–09, Stockholm, Volvo Ocean Race_
+_Context: 2008-09, Stockholm, Volvo Ocean Race_
 
 ### [ The Russian Supreme Court orders a retrial for three men on charges related to the murder of journalist Anna Politkovskaya. ](/news/2009/06/25/the-russian-supreme-court-orders-a-retrial-for-three-men-on-charges-related-to-the-murder-of-journalist-anna-politkovskaya.md)
 _Context: Anna Politkovskaya, Russia, Supreme Court, murder_

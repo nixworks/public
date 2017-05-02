@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ Danilo Trk wins the 2007 Slovenian presidential elections with a large margin. ](/news/2007/11/11/danilo-turk-wins-the-2007-slovenian-presidential-elections-with-a-large-margin.md) _Context: 2007 Slovenian presidential elections, Danilo Türk_
+1. [ Danilo Trk wins the 2007 Slovenian presidential elections with a large margin. ](/news/2007/11/11/danilo-turk-wins-the-2007-slovenian-presidential-elections-with-a-large-margin.md) _Context: 2007 Slovenian presidential elections, Danilo Trk_
 2. [Voters head to the polls in second round elections in constituencies where no candidate won over 50 percent on October 9 with the Lithuanian Peasant and Greens Union winning a plurality of seats. ](/news/2016/10/23/voters-head-to-the-polls-in-second-round-elections-in-constituencies-where-no-candidate-won-over-50-percent-on-october-9-with-the-lithuanian.md) _Context: second round_
 3. [The second round of voting takes place to elect either Norbert Hofer or Alexander Van der Bellen as President of Austria. ](/news/2016/05/22/the-second-round-of-voting-takes-place-to-elect-either-norbert-hofer-or-alexander-van-der-bellen-as-president-of-austria.md) _Context: second round_
 4. [Macedonia says it will no longer let any migrants through its southern border with Greece, effectively blocking the Balkan route for migrants. The decision came after Slovenia barred access to migrants transiting the country. There are around 13,000 migrants now stranded at the Macedonia-Greece border. ](/news/2016/03/9/macedonia-says-it-will-no-longer-let-any-migrants-through-its-southern-border-with-greece-effectively-blocking-the-balkan-route-for-migrant.md) _Context: Slovenia_

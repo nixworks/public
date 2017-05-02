@@ -89,13 +89,13 @@ _Context: Peter Tatchell, same-sex marriage_
 
 ### [Three U.S. citizens are to stand trial on charges of spying in Iran after illegally entering the country. ](/news/2010/10/24/three-u-s-citizens-are-to-stand-trial-on-charges-of-spying-in-iran-after-illegally-entering-the-country.md)
 ### [Swedish police say they do not have a suspect for the serial shooting of 15 immigrants in Malmo. ](/news/2010/10/24/swedish-police-say-they-do-not-have-a-suspect-for-the-serial-shooting-of-15-immigrants-in-malmap.md)
-_Context: 2009–10 Malmö shootings, Malmö, Sweden_
+_Context: 2009-10 Malmo shootings, Malmo, Sweden_
 
 ### [Four employees of Chinese dairy giant Mengniu are arrested in Hohhot, Inner Mongolia for allegedly hiring a public relations firm to spread false rumours online about products of industry rival Yili Group. ](/news/2010/10/24/four-employees-of-chinese-dairy-giant-mengniu-are-arrested-in-hohhot-inner-mongolia-for-allegedly-hiring-a-public-relations-firm-to-spread.md)
 _Context: Hohhot, Inner Mongolia, Mengniu, PR, Yili Group_
 
 ### [Israel's military police investigates an air raid that killed at least 21 members of a single family and injured 19 others during the 2008-2009 Gaza War. ](/news/2010/10/24/israel-s-military-police-investigates-an-air-raid-that-killed-at-least-21-members-of-a-single-family-and-injured-19-others-during-the-2008-2.md)
-_Context: 2008–2009 Gaza War, Israel_
+_Context: 2008-2009 Gaza War, Israel_
 
 ### [Actor Randy Quaid and his wife seek asylum in Canada to avoid prosecution in the United States, claiming they are being "persecuted". ](/news/2010/10/24/actor-randy-quaid-and-his-wife-seek-asylum-in-canada-to-avoid-prosecution-in-the-united-states-claiming-they-are-being-persecuted.md)
 Actor Randy Quaid and his wife Evi seek asylum in Canada, claiming they are being persecuted in the US and their lives are danger.
@@ -119,7 +119,7 @@ _Context: Al Wefaq, Bahrain, Shia, parliamentary election_
 _Context: Margaret Thatcher_
 
 ### [Cellou Dalein Diallo and Alpha Conde, the two candidates in the second round of the Guinean presidential election, call for calm after the election is delayed. ](/news/2010/10/24/cellou-dalein-diallo-and-alpha-conda-c-the-two-candidates-in-the-second-round-of-the-guinean-presidential-election-call-for-calm-after-the.md)
-_Context: Alpha Condé's, Cellou Dalein Diallo, November's presidential poll_
+_Context: Alpha Conde's, Cellou Dalein Diallo, November's presidential poll_
 
 ## [Previous Day...](/news/2010/10/23/index.md)
 

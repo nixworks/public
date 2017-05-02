@@ -13,7 +13,7 @@ _Context: 2014 pro-Russian conflict in Ukraine, Arsen Avakov, Ukraine's Minister
 _Context: 2014 kidnapping and murder of Israeli teenagers, Israel, Israel Defense Forces, Palestinian terrorist, Shin Bet's, West Bank_
 
 ### [For his exploration of Colombia's drug trade Juan Gabriel Vasquez wins the prestigious EUR100,000 International Dublin Literary Award, the first South American to win the prize. ](/news/2014/06/12/for-his-exploration-of-colombia-s-drug-trade-juan-gabriel-va-squez-wins-the-prestigious-a-100-000-international-dublin-literary-award-the.md)
-_Context: International Dublin Literary Award, Juan Gabriel Vásquez_
+_Context: International Dublin Literary Award, Juan Gabriel Vasquez_
 
 ### [Tesla Motors announces it will allow competitors to use its patents without paying royalties. ](/news/2014/06/12/tesla-motors-announces-it-will-allow-competitors-to-use-its-patents-without-paying-royalties.md)
 Tesla CEO Elon Musk said it it will allow others to use its patents. 

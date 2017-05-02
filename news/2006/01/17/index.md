@@ -10,7 +10,7 @@ _Context: Jill Carroll_
 _Context: Jordan, Port-au-Prince, United Nations Stabilization Mission in Haiti_
 
 ### [ In Cote d'Ivoire, supporters of President Laurent Gbagbo attack United Nations peacekeepers after the Ivorian Popular Front withdraws from the Ivorian Civil War peace process. ](/news/2006/01/17/in-ca-te-d-ivoire-supporters-of-president-laurent-gbagbo-attack-united-nations-peacekeepers-after-the-ivorian-popular-front-withdraws-from.md)
-_Context: Côte d'Ivoire, Ivorian Civil War, Ivorian Popular Front, Laurent Gbagbo, peacekeepers_
+_Context: Cote d'Ivoire, Ivorian Civil War, Ivorian Popular Front, Laurent Gbagbo, peacekeepers_
 
 ### [ South Korean scientist Hwang Woo-suk has been offered a job at Clonaid studying human embryonic stem cell lines. Clonaid is a subsidiary of the cult known as the Raelians, who believe that cloning is the first step toward immortality. ](/news/2006/01/17/south-korean-scientist-hwang-woo-suk-has-been-offered-a-job-at-clonaid-studying-human-embryonic-stem-cell-lines-clonaid-is-a-subsidiary-of.md)
 _Context: Clonaid, Hwang Woo-Suk, Rael, South Korea, cult, immortality_
@@ -19,7 +19,7 @@ _Context: Clonaid, Hwang Woo-Suk, Rael, South Korea, cult, immortality_
 _Context: Free Software, GNU General Public License, coder, copy protection, patent, rights_
 
 ### [ An original manuscript of the Chan Buddhist ''Wu Men Guan'' (''Mumonkan'') dated to 1246 is exhibited online by the i4uuu museum. ](/news/2006/01/17/an-original-manuscript-of-the-cha-n-buddhist-wu-men-guan-mumonkan-dated-to-1246-is-exhibited-online-by-the-i4uuu-museum.md)
-_Context: Chán, Wu Men Guan, i4uuu, museum_
+_Context: Chan, Wu Men Guan, i4uuu, museum_
 
 ### [ Taiwanese Premier Frank Hsieh announces his resignation following the defeat of the Democratic Progressive Party in recent elections. ](/news/2006/01/17/taiwanese-premier-frank-hsieh-announces-his-resignation-following-the-defeat-of-the-democratic-progressive-party-in-recent-elections.md)
 _Context: Democratic Progressive Party, Frank Hsieh, Premier of Taiwan, recent elections_

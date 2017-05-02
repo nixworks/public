@@ -1,7 +1,7 @@
 ## [2009-09-25](/news/2009/09/25/index.md)
 
 ### [ Photographs of Spanish Prime Minister Jos Luis Rodrguez Zapatero and his family are published in the United States and subsequently published on the front pages of newspapers in his home country. A controversy occurs as many Spaniards have never before seen the children of the intensely private Prime Minister. ](/news/2009/09/25/photographs-of-spanish-prime-minister-jose-luis-rodriguez-zapatero-and-his-family-are-published-in-the-united-states-and-subsequently-publi.md)
-_Context: José Luis Rodríguez Zapatero, Prime Minister, Spain, United States_
+_Context: Jos Luis Rodrguez Zapatero, Prime Minister, Spain, United States_
 
 ### [ Poland approves a law making chemical castration mandatory for paedophiles. ](/news/2009/09/25/poland-approves-a-law-making-chemical-castration-mandatory-for-paedophiles.md)
 Poland on Friday approved a law making chemical castration mandatory for pedophiles in some cases, sparking criticism from human rights groups.
@@ -22,7 +22,7 @@ The US President said he preferred diplomacy in dealing with Iran over its nucle
 _Context: Clearstream, Dominique de Villepin, Nicolas Sarkozy, Prime Minister, president, presumption of innocence_
 
 ### [ At least two people are killed and fifteen injured in a blast at a fireworks shop in Santo Andr, Greater So Paulo, Brazil. ](/news/2009/09/25/at-least-two-people-are-killed-and-fifteen-injured-in-a-blast-at-a-fireworks-shop-in-santo-andre-greater-sao-paulo-brazil.md)
-_Context: Brazil, Greater São Paulo, Santo André_
+_Context: Brazil, Greater So Paulo, Santo Andr_
 
 ### [ Hundreds of people queue in Birmingham, United Kingdom, to see part of the Staffordshire hoard. ](/news/2009/09/25/hundreds-of-people-queue-in-birmingham-united-kingdom-to-see-part-of-the-staffordshire-hoard.md)
 _Context: Birmingham, Staffordshire hoard, United Kingdom_

@@ -10,7 +10,7 @@ _Context: Mali_
 _Context: 2012 discovery, German magazine ''Focus'', Matisse, Munich, Nazi plundered art, Picasso_
 
 ### [A man fatally stabs three people on a bus en route between Ardal and Tyin in Norway. ](/news/2013/11/4/a-man-fatally-stabs-three-people-on-a-bus-en-route-between-ardal-and-tyin-in-norway.md)
-_Context: Norway, Tyin, Årdal_
+_Context: Ardal, Norway, Tyin_
 
 ### [The company Johnson & Johnson agrees to pay $2.2 billion in regards to a U.S. probe of the drug risperdal. ](/news/2013/11/4/the-company-johnson-johnson-agrees-to-pay-2-2-billion-in-regards-to-a-u-s-probe-of-the-drug-risperdal.md)
 In one of the largest health care fraud settlements in U.S. history, Johnson & Johnson will pay $2.2 billion to end civil and criminal investigations into kickbacks to pharmacists and the marketing of pharmaceuticals for off-label uses, U.S. Attorney General Eric Holder said on Monday.

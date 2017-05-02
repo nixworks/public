@@ -31,7 +31,7 @@ _Context: George W. Bush, Indonesia, President of Indonesia, Susilo Bambang Yudh
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Andrs Manuel Lpez Obrador, who was narrowly defeated in the Mexican general election, is proclaimed "Legitimate President of Mexico" by his supporters and promises to set up a "parallel government". ](/news/2006/11/20/andres-manuel-lopez-obrador-who-was-narrowly-defeated-in-the-mexican-general-election-is-proclaimed-legitimate-president-of-mexico-by-h.md)
-_Context: Andrés Manuel López Obrador, Mexican general election_
+_Context: Andrs Manuel Lpez Obrador, Mexican general election_
 
 ### [ A school bus carrying high school students falls nose-first 40 feet to the ground off an Interstate 565 overpass in downtown Huntsville, Alabama, killing four teenage girls. ](/news/2006/11/20/a-school-bus-carrying-high-school-students-falls-nose-first-40-feet-to-the-ground-off-an-interstate-565-overpass-in-downtown-huntsville-al.md)
 _Context: Huntsville, Alabama, Interstate 565_

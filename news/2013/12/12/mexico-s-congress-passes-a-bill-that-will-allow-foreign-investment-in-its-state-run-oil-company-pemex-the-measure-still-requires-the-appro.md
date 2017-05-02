@@ -1,6 +1,6 @@
 ### [2013-12-12](/news/2013/12/12/index.md)
 
-# Mexico's Congress passes a bill that will allow foreign investment in its state-run oil company, Pemex. The measure still requires the approval of a majority of the country's federal entities. {{cn|date=December 2013}}
+# Mexico's Congress passes a bill that will allow foreign investment in its state-run oil company, Pemex. The measure still requires the approval of a majority of the country's federal entities. date=December 2013
 
 
 

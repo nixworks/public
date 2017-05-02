@@ -10,10 +10,10 @@ _Context: Papua New Guinea, two buses crash_
 _Context: Ganges, India, West Bengal, stampede_
 
 ### [Venezuelan President Hugo Chavez partially reverses a decision to ration electricity in the country a day after it was announced, saying it was having "undesirable effects" on the population. Thus, Caracas residents won't have power cuts anymore. ](/news/2010/01/14/venezuelan-president-hugo-cha-vez-partially-reverses-a-decision-to-ration-electricity-in-the-country-a-day-after-it-was-announced-saying-it.md)
-_Context: Caracas, Hugo Chávez, Venezuela, ration electricity_
+_Context: Caracas, Hugo Chavez, Venezuela, ration electricity_
 
 ### [The head of Guinea's junta Moussa Dadis Camara and interim leader General Sekouba Konate hold emergency talks with Burkina Faso's President Blaise Compaore. ](/news/2010/01/14/the-head-of-guinea-s-junta-moussa-dadis-camara-and-interim-leader-general-sa-c-kouba-konata-c-hold-emergency-talks-with-burkina-faso-s-presiden.md)
-_Context: Blaise Compaoré, Burkina Faso, Guinea, Moussa Dadis Camara, Sékouba Konaté, junta_
+_Context: Blaise Compaore, Burkina Faso, Guinea, Moussa Dadis Camara, Sekouba Konate, junta_
 
 ### [Mongolian President Tsakhiagiin Elbegdorj announces a moratorium on the death penalty, calling for it to be abolished. ](/news/2010/01/14/mongolian-president-tsakhiagiin-elbegdorj-announces-a-moratorium-on-the-death-penalty-calling-for-it-to-be-abolished.md)
 President Tsakhiagiin Elbegdorj cites cases of innocent people given death penalty.

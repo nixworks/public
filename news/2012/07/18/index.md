@@ -31,7 +31,7 @@ _Context: Netherlands, Waalre, municipal building_
 Indonesia will send its front-line Sukhoi jet fighters to take part in Australia&#039;s largest air combat exercise this month, signalling a new era of enhanced defence co-operation between the two countries.
 
 ### [In Mexico, the PRD candidate, Andres Manuel Lopez Obrador, accuses the Institutional Revolutionary Party (PRI) of using illicit funds and laundering money to finance the campaign of Enrique Pena Nieto, the president-elect in the recent presidential elections. The PRI denies the claims and retorts that Lopez Obrador is acting out of desperation and irrationality. ](/news/2012/07/18/in-mexico-the-prd-candidate-andra-c-s-manuel-la3pez-obrador-accuses-the-institutional-revolutionary-party-pri-of-using-illicit-funds-and.md)
-_Context: Andrés Manuel López Obrador, Enrique Peña Nieto, Institutional Revolutionary Party, Mexican presidential elections, Party of the Democratic Revolution_
+_Context: Andres Manuel Lopez Obrador, Enrique Pena Nieto, Institutional Revolutionary Party, Mexican presidential elections, Party of the Democratic Revolution_
 
 ### [Kim Jong-un is officially announced as the Supreme Leader of North Korea, a position that he occupied ''de facto'' since his father's death. He also gains the rank of Marshal in the Korean People's Army. ](/news/2012/07/18/kim-jong-un-is-officially-announced-as-the-supreme-leader-of-north-korea-a-position-that-he-occupied-de-facto-since-his-father-s-death.md)
 NORTH Korea has made &quot;an important announcement&quot; - Kim Jong-un is the Supreme Leader.

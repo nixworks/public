@@ -43,7 +43,7 @@ An official report has concluded that an increase in the sleep disorder narcolep
 Guan Tian-lang shoots a five-over-par 77 as he becomes the youngest player to compete on the European Tour, aged 13.
 
 ### [In cycling, Italian Riccardo Ricco is given a 12-year ban, effectively ending his career. ](/news/2012/04/19/in-cycling-italian-riccardo-ricca2-is-given-a-12-year-ban-effectively-ending-his-career.md)
-_Context: Riccardo Riccò, cycling_
+_Context: Riccardo Ricco, cycling_
 
 ### [In tennis, world number one Novak Djokovic defeats Alexandr Dolgopolov at the 2012 Monte-Carlo Masters in Roquebrune-Cap-Martin, hours after his grandfather, who provided refuge for the Djokovic family in his Belgrade apartment during the 1999 NATO bombing raids, dies. ](/news/2012/04/19/in-tennis-world-number-one-novak-djokovic-defeats-alexandr-dolgopolov-at-the-2012-monte-carlo-masters-in-roquebrune-cap-martin-hours-after.md)
 Novak Djokovic beats Alexandr Dolgopolov at the Monte Carlo Masters, hours after suffering the loss of his grandfather.

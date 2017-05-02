@@ -19,7 +19,7 @@ _Context: Robert Mugabe, Zimbabwe, recent elections, ruling party_
 _Context: Ambassador to the United Nations, Joe Biden, Samantha Power_
 
 ### [There will be a run-off election on August 11 in the Malian presidential election between Ibrahim Boubacar Keita and Soumala Ciss as no candidate could achieve a majority in the election held earlier this week. ](/news/2013/08/2/there-will-be-a-run-off-election-on-august-11-in-the-malian-presidential-election-between-ibrahim-boubacar-keita-and-soumaila-cisse-as-no-ca.md)
-_Context: Ibrahim Boubacar Keïta, Soumaïla Cissé, run-off election, the election_
+_Context: Ibrahim Boubacar Keta, Soumala Ciss, run-off election, the election_
 
 ### [A new primate, the Lavasoa dwarf lemur, is discovered in Madagascar. ](/news/2013/08/2/a-new-primate-the-lavasoa-dwarf-lemur-is-discovered-in-madagascar.md)
 Biologists have described a new, extremely rare species of dwarf lemur that inhabits three isolated forests in the extreme south of Madagascar.

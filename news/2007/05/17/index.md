@@ -7,7 +7,7 @@ _Context: Bronze Soldier, Defence Minister, Estonia, Jaak Aaviksoo, Russia, hack
 Paul Wolfowitz resigned as president of the World Bank on Thursday, ending a protracted battle over his stewardship prompted by his involvement in a high-paying promotion for his companion.
 
 ### [ United States Senate Democratic Party officials seek a vote of no confidence on Attorney-General Alberto Gonzales. ](/news/2007/05/17/united-states-senate-democratic-party-officials-seek-a-vote-of-no-confidence-on-attorney-general-alberto-gonzales.md)
-_Context: Alberto Gonzales, Attorney General, Democrat, Senator, vote of no confidence_
+_Context: Alberto Gonzales, Attorney General, Democratic, United States Senate, vote of no confidence_
 
 ### [ Gordon Brown is confirmed as the next leader of the British Labour Party, taking effect on 24 June. Brown will succeed Tony Blair as Prime Minister of the United Kingdom when he kisses the hand of Queen Elizabeth II on 27 June. ](/news/2007/05/17/gordon-brown-is-confirmed-as-the-next-leader-of-the-british-labour-party-taking-effect-on-24-june-brown-will-succeed-tony-blair-as-prime.md)
 _Context: 24 June, 27 June, Elizabeth II, Gordon Brown, Labour, Prime Minster, Tony Blair, confirmed, kisses the hand_
@@ -22,7 +22,7 @@ _Context: Korean War, North Korea, South Korea, train_
 _Context: Algeria, People's National Assembly, go to the polls, recent bomb attacks_
 
 ### [ French President Sarkozy appoints Franois Fillon as his Prime Minister. ](/news/2007/05/17/french-president-sarkozy-appoints-francois-fillon-as-his-prime-minister.md)
-_Context: France, François Fillon, Nicolas Sarkozy, Prime Minister_
+_Context: France, Franois Fillon, Nicolas Sarkozy, Prime Minister_
 
 ### [ The Canadian Radio-television and Telecommunications Commission announces that all over-the-air TV broadcasts must be digital by August 31, 2011. ](/news/2007/05/17/the-canadian-radio-television-and-telecommunications-commission-announces-that-all-over-the-air-tv-broadcasts-must-be-digital-by-august-31.md)
 _Context: Canadian Radio-television and Telecommunications Commission_

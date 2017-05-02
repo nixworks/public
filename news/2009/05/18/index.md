@@ -1,7 +1,7 @@
 ## [2009-05-18](/news/2009/05/18/index.md)
 
 ### [ Dalia Grybauskaite is elected as the first female President of Lithuania. ](/news/2009/05/18/dalia-grybauskaita-is-elected-as-the-first-female-president-of-lithuania.md)
-_Context: Dalia Grybauskaitė, Lithuania, President, elected_
+_Context: Dalia Grybauskaite, Lithuania, President, elected_
 
 ### [ National League for Democracy General Secretary Aung San Suu Kyi's trial for violating house arrest begins in Burma. ](/news/2009/05/18/national-league-for-democracy-general-secretary-aung-san-suu-kyi-s-trial-for-violating-house-arrest-begins-in-burma.md)
 _Context: Aung San Suu Kyi, Burma, General Secretary, National League for Democracy, house arrest_

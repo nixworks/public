@@ -13,7 +13,7 @@ One civilian has been killed and at least 20 others have been wounded after an I
 _Context: Spike Video Game Awards, The Elder Scrolls V: Skyrim_
 
 ### [A light cargo plane crashes into an elementary school building in the Philippine city of Paraaque with 13 people dead. ](/news/2011/12/10/a-light-cargo-plane-crashes-into-an-elementary-school-building-in-the-philippine-city-of-paranaque-with-13-people-dead.md)
-_Context: Parañaque, Philippine, crashes into an elementary school_
+_Context: Paraaque, Philippine, crashes into an elementary school_
 
 ### [A 6.5 magnitude earthquake hits the Mexican state of Guerrero. It causes three deaths and is felt across several central states. ](/news/2011/12/10/a-6-5-magnitude-earthquake-hits-the-mexican-state-of-guerrero-it-causes-three-deaths-and-is-felt-across-several-central-states.md)
 _Context: 6.5 magnitude earthquake, Guerrero_
@@ -31,7 +31,7 @@ At least six people have been killed in the capital Kinshasa as opposition suppo
 Argentine President Cristina Fernandez took the oath of office for the second time Saturday, the only female leader in Latin America to ever be re-elected, in an inauguration marked by a tearful tribute to her late husband and political partner.
 
 ### [Oscar Valds is named as the new Prime Minister of Peru, after Salomn Lerner Ghitis resigned. ](/news/2011/12/10/oscar-valdes-is-named-as-the-new-prime-minister-of-peru-after-salomon-lerner-ghitis-resigned.md)
-_Context: Oscar Valdés, Peru, Salomón Lerner Ghitis_
+_Context: Oscar Valds, Peru, Salomn Lerner Ghitis_
 
 ### [Astronomers in Asia, Australia and North America observe a total lunar eclipse. ](/news/2011/12/10/astronomers-in-asia-australia-and-north-america-observe-a-total-lunar-eclipse.md)
 Skywatchers enjoy the last total lunar eclipse before 2014, with Australia, Asia and North America enjoying the best views.

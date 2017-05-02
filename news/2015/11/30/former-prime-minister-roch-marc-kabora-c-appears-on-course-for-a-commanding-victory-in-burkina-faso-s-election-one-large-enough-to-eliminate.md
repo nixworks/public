@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Voters in Burkina Faso go to the polls to elect a new parliament and president after a year of turmoil. ](/news/2015/11/29/voters-in-burkina-faso-go-to-the-polls-to-elect-a-new-parliament-and-president-after-a-year-of-turmoil.md) _Context: Burkina Faso, Burkinabé general election, 2015_
+1. [Voters in Burkina Faso go to the polls to elect a new parliament and president after a year of turmoil. ](/news/2015/11/29/voters-in-burkina-faso-go-to-the-polls-to-elect-a-new-parliament-and-president-after-a-year-of-turmoil.md) _Context: Burkina Faso, Burkinabe general election, 2015_
 2. [ Prime Minister of Burkina Faso Tertius Zongo confirms least three people were swept away by floods and thousands are left homeless in Ouagadougou and its suburbs. ](/news/2009/09/2/prime-minister-of-burkina-faso-tertius-zongo-confirms-least-three-people-were-swept-away-by-floods-and-thousands-are-left-homeless-in-ouaga.md) _Context: Burkina Faso, prime minister_
 3. [Burkina Faso and Swaziland refuse to break relations with Taiwan and recognize the One-China policy despite being offered aid from China. ](/news/2017/01/25/burkina-faso-and-swaziland-refuse-to-break-relations-with-taiwan-and-recognize-the-one-china-policy-despite-being-offered-aid-from-china.md) _Context: Burkina Faso_
 4. [An attack on a border post near Burkina Faso's border with Mali, leaves at least 12 Burkinabe troops dead and two others missing. ](/news/2016/12/16/an-attack-on-a-border-post-near-burkina-faso-s-border-with-mali-leaves-at-least-12-burkinabe-troops-dead-and-two-others-missing.md) _Context: Burkina Faso_

@@ -16,10 +16,10 @@ _Context: Japan, Pacific typhoon season, Typhoon Vongfong, tropical storm_
 _Context: 2014 North Indian Ocean cyclone season, Andhra Pradesh, Cyclone Hudhud, India, Orissa State_
 
 ### [A woman suffering from  schizophrenia stabbed three students and a  police negotiator at a secondary school in Zdar nad Sazavou, Czech Republic. A 16-year-old boy died due to his injuries. ](/news/2014/10/14/a-woman-suffering-from-schizophrenia-stabbed-three-students-and-a-police-negotiator-at-a-secondary-school-in-a1-2aa-r-nad-sa-zavou-czech-r.md)
-_Context: Czech, police, schizophrenia, Žďár nad Sázavou_
+_Context: Czech, Zdar nad Sazavou, police, schizophrenia_
 
 ### [The President of the Generalitat of Catalonia, Artur Mas i Gavarro, drops plans for a referendum on independence on November 9 from Spain following opposition from the Constitutional Court of Spain. ](/news/2014/10/14/the-president-of-the-generalitat-of-catalonia-artur-mas-i-gavarra3-drops-plans-for-a-referendum-on-independence-on-november-9-from-spain-f.md)
-_Context: Artur Mas i Gavarró, Constitutional Court of Spain, President of the Generalitat of Catalonia, Spain_
+_Context: Artur Mas i Gavarro, Constitutional Court of Spain, President of the Generalitat of Catalonia, Spain_
 
 ### [UEFA Euro 2016 qualifying Group D:Ireland stuns world champion Germany in Gelsenkirchen, with Ireland drawing the match at 1-1 when John O'Shea scores in stoppage time. ](/news/2014/10/14/uefa-euro-2016-qualifying-group-d-pireland-stuns-world-champion-germany-in-gelsenkirchen-with-ireland-drawing-the-match-at-1a1-when-john.md)
 Ireland stunned World Cup winners Germany with a stoppage time equaliser by John O&#039;Shea on his 100th appearance to draw 1-1 in their Euro 2016 qualifier on Tuesday.

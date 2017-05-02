@@ -28,7 +28,7 @@ _Context: County Sligo, Gerry Adams_
 _Context: Pierce County, USA, Washington, sheriff's deputie, shooting_
 
 ### [ An armed conflict in Dungu (Dongo), quateur Province of Democratic Republic of the Congo has escalated. By 10 December the conflict has left 100 dead and forced 115 000 people to flee their homes. ](/news/2009/12/22/an-armed-conflict-in-dungu-dongo-equateur-province-of-democratic-republic-of-the-congo-has-escalated-by-10-december-the-conflict-has-le.md)
-_Context: An armed conflict, Democratic Republic of the Congo, Équateur_
+_Context: An armed conflict, Democratic Republic of the Congo, quateur_
 
 ### [ A priest in York causes controversy when he says shoplifting from large national chain stores is acceptable in certain circumstances. ](/news/2009/12/22/a-priest-in-york-causes-controversy-when-he-says-shoplifting-from-large-national-chain-stores-is-acceptable-in-certain-circumstances.md)
 _Context: York_

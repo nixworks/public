@@ -11,7 +11,7 @@ Moody’s and S.& P. warned the United States that it might ruin its triple-A cr
 
 ### Related:
 
-1. [Standard & Poor's lowers Italy's credit rating from A+ to A, due to concerns about its high level of debt and the stability of its government. ](/news/2011/09/19/standard-pooras-lowers-italy-s-credit-rating-from-a-to-a-due-to-concerns-about-its-high-level-of-debt-and-the-stability-of-its-governm.md) _Context: Standard & Poor’s, credit rating_
+1. [Standard & Poor's lowers Italy's credit rating from A+ to A, due to concerns about its high level of debt and the stability of its government. ](/news/2011/09/19/standard-pooras-lowers-italy-s-credit-rating-from-a-to-a-due-to-concerns-about-its-high-level-of-debt-and-the-stability-of-its-governm.md) _Context: Standard & Poor's, credit rating_
 2. [U.S. President Barack Obama expands the Papahanaumokuakea Marine National Monument off the coast of Hawai'i, making it the largest national park on the planet. ](/news/2016/08/26/u-s-president-barack-obama-expands-the-papahanaumokuakea-marine-national-monument-off-the-coast-of-hawai-i-making-it-the-largest-nationa.md) _Context: U.S._
 3. [The President of Russia, Vladimir Putin, warns Romania and Poland against hosting parts of the U.S. missile defense shield. ](/news/2016/05/28/the-president-of-russia-vladimir-putin-warns-romania-and-poland-against-hosting-parts-of-the-u-s-missile-defense-shield.md) _Context: U.S._
 4. [ U.S. airstrikes in eastern Afghanistan hit an ISIS radio station and kill 29 militants. ](/news/2016/02/2/u-s-airstrikes-in-eastern-afghanistan-hit-an-isis-radio-station-and-kill-29-militants.md) _Context: U.S._

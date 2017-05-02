@@ -4,7 +4,7 @@
 Explosives in a Ford Ranger pickup parked in front of the municipal building blew up shortly after 11 a.m., causing injuries to bystanders and damaging vehicles, the prosecutors said. Since 2010, the scene of a bloody turf war between the Zetas criminal organization and their former masters the Gulf Cartel, Nuevo Laredo has seen violence increase this year as the west coast Sinaloa Cartel has joined the fray to wrest lucrative smuggling routes away from the Zetas. Pictures posted on social media showed the twisted wreckage of a pickup in front of the city hall and bloody victims being treated by paramedics.
 
 ### [Syrian uprising (2011-present):Syrian President Bashar al-Assad states that Syria will not accept a foreign solution to their problem. ](/news/2012/06/29/syrian-uprising-2011apresent-psyrian-president-bashar-al-assad-states-that-syria-will-not-accept-a-foreign-solution-to-their-problem.md)
-_Context: Bashar al-Assad, Syria, Syrian uprising (2011–present)_
+_Context: Bashar al-Assad, Syria, Syrian uprising (2011-present)_
 
 ### [A man self-immolates in Birmingham city centre in a case reminiscent of Mohamed Bouazizi. ](/news/2012/06/29/a-man-self-immolates-in-birmingham-city-centre-in-a-case-reminiscent-of-mohamed-bouazizi.md)
 _Context: Birmingham, Mohamed Bouazizi, sets herself alight_
@@ -13,7 +13,7 @@ _Context: Birmingham, Mohamed Bouazizi, sets herself alight_
 US researchers take control of a flying drone by sending a &quot;spoof&quot; signal to its GPS system - acting on a dare from the US Department of Homeland Security (DHS).
 
 ### [Sixteen Naxalite Maoist insurgents are killed by Central Reserve Police Force in the Indian state of Chhattisgarh. ](/news/2012/06/29/sixteen-naxalite-maoist-insurgents-are-killed-by-central-reserve-police-force-in-the-indian-state-of-chhattisgarh.md)
-_Context: Central Reserve Police Force, Chhattisgarh, India, Naxalite–Maoist insurgency_
+_Context: Central Reserve Police Force, Chhattisgarh, India, Naxalite-Maoist insurgency_
 
 ### [Rampant sexual abuse is uncovered in the British police, with victims of crime among those targeted by sexual predators. ](/news/2012/06/29/rampant-sexual-abuse-is-uncovered-in-the-british-police-with-victims-of-crime-among-those-targeted-by-sexual-predators.md)
 ### [Three bombs in the Iraqi city of Balad kill at least six people and injure 45. ](/news/2012/06/29/three-bombs-in-the-iraqi-city-of-balad-kill-at-least-six-people-and-injure-45.md)

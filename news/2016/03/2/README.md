@@ -37,7 +37,7 @@ The move deepens tensions between Saudi Arabia and its chief regional rival.
 _Context: North Korea, North Korea and weapons of mass destruction, United Nations Security Council_
 
 ### [The conservative People's Party (PP) and  the left-wing Podemos party, which together hold 192 seats in Spain's 350-seat parliament following December's election, confirm they will vote against Spanish Socialist Workers' Party (PSOE) leader Pedro Sanchez's candidacy to form a new government. ](/news/2016/03/2/the-conservative-people-s-party-pp-and-the-left-wing-podemos-party-which-together-hold-192-seats-in-spainas-350-seat-parliament-follow.md)
-_Context: Pedro Sánchez, People's Party, Podemos, Socialist Workers' Party, election, parliament_
+_Context: Pedro Sanchez, People's Party, Podemos, Socialist Workers' Party, election, parliament_
 
 ## [Previous Day...](/news/2016/03/1/index.md)
 

@@ -31,7 +31,7 @@ _Context: North Korea, Pyongyang, bird flu_
 _Context: Myanmar's president's office, Thein Sein, United States, White House_
 
 ### [Guatemala's Constitutional Court overturns a genocide conviction against former dictator Efran Ros Montt due to a dispute over jurisdiction. ](/news/2013/05/20/guatemala-s-constitutional-court-overturns-a-genocide-conviction-against-former-dictator-efrain-rios-montt-due-to-a-dispute-over-jurisdictio.md)
-_Context: Efraín Ríos Montt, Guatemala, genocide_
+_Context: Efran Ros Montt, Guatemala, genocide_
 
 ### [Immigrant youths riot in Stockholm suburb Husby, burning more than 100 vehicles. ](/news/2013/05/20/immigrant-youths-riot-in-stockholm-suburb-husby-burning-more-than-100-vehicles.md)
 _Context: Husby, Stockholm, immigration officials, riot_

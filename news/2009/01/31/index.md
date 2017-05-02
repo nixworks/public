@@ -13,7 +13,7 @@ _Context: Komi Region, Russia, nursing home_
 An overturned petrol tanker exploded as hundreds of people were trying to scoop up free fuel, killing at least 111 people and&hellip;
 
 ### [ Thousands of Russians protest in response to the government's handling of the current economic crisis. ](/news/2009/01/31/thousands-of-russians-protest-in-response-to-the-government-s-handling-of-the-current-economic-crisis.md)
-_Context: Russia, Russian Government, Russian financial crisis of 2008–2009_
+_Context: Russia, Russian Government, Russian financial crisis of 2008-2009_
 
 ### [ Serena Williams of the United States defeats Dinara Safina of Russia to win the 2009 Australian Open women's singles. ](/news/2009/01/31/serena-williams-of-the-united-states-defeats-dinara-safina-of-russia-to-win-the-2009-australian-open-women-s-singles.md)
 _Context: 2009 Australian Open, Dinara Safina, Russia, Serena Williams, United States, women's singles_
@@ -21,7 +21,7 @@ _Context: 2009 Australian Open, Dinara Safina, Russia, Serena Williams, United S
 ### [ More than 5,000 Royal Police are deployed to Bangkok, Thailand, as supporters of deposed Prime Minister Thaksin Shinawatra protest. ](/news/2009/01/31/more-than-5-000-royal-police-are-deployed-to-bangkok-thailand-as-supporters-of-deposed-prime-minister-thaksin-shinawatra-protest.md)
 _Context: Bangkok, Prime Minister of Thailand, Thai police, Thailand, Thaksin_
 
-### [ A heat wave affects southeastern Australia, killing 20 people as temperatures reach above {{convert|45|C}} in Adelaide and Melbourne. ](/news/2009/01/31/a-heat-wave-affects-southeastern-australia-killing-20-people-as-temperatures-reach-above-convert-45-c-in-adelaide-and-melbourne.md)
+### [ A heat wave affects southeastern Australia, killing 20 people as temperatures reach above 45|C in Adelaide and Melbourne. ](/news/2009/01/31/a-heat-wave-affects-southeastern-australia-killing-20-people-as-temperatures-reach-above-45-c-in-adelaide-and-melbourne.md)
 _Context: 2009 Southeastern Australia heat wave, Adelaide, Australia, Melbourne_
 
 ### [ Movement for Democratic Change President Morgan Tsvangirai agrees to become Zimbabwe's Prime Minister on February 11 in a deal with President Robert Mugabe. ](/news/2009/01/31/movement-for-democratic-change-president-morgan-tsvangirai-agrees-to-become-zimbabwe-s-prime-minister-on-february-11-in-a-deal-with-preside.md)

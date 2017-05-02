@@ -1,7 +1,7 @@
 ## [2011-11-2](/news/2011/11/2/index.md)
 
 ### [French author Alexis Jenni wins France's literary Prix Goncourt for his novel ''L'Art franais de la guerre''. ](/news/2011/11/2/french-author-alexis-jenni-wins-france-s-literary-prix-goncourt-for-his-novel-l-art-francais-de-la-guerre.md)
-_Context: Alexis Jenni, France, L'Art français de la guerre, Prix Goncourt_
+_Context: Alexis Jenni, France, L'Art franais de la guerre, Prix Goncourt_
 
 ### [Eight people are killed and dozens injured after a freight train collides with a bus at a level crossing in central Argentina. ](/news/2011/11/2/eight-people-are-killed-and-dozens-injured-after-a-freight-train-collides-with-a-bus-at-a-level-crossing-in-central-argentina.md)
 Six girls aged between 10 and 12 are among eight people killed in a level crossing accident in Argentina, where a freight train has slammed into a bus.

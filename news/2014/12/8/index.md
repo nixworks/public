@@ -16,7 +16,7 @@ _Context: American, Gaithersburg, Maryland, Washington, D.C._
 _Context: Iraq, South Sudan, Sudan, Syria, United Nations, United States dollars_
 
 ### [May 2014 rmqi attack:A Chinese court sentences eight people to death for their role in two deadly attacks in Xinjiang. ](/news/2014/12/8/may-2014-urumqi-attack-pa-chinese-court-sentences-eight-people-to-death-for-their-role-in-two-deadly-attacks-in-xinjiang.md)
-_Context: Chinese court, May 2014 Ürümqi attack, Xinjiang_
+_Context: Chinese court, May 2014 rmqi attack, Xinjiang_
 
 ### [Bernard Madoff Ponzi scheme:A U.S. District Judge sentences the back office director, Daniel Bonventre, to ten years. ](/news/2014/12/8/bernard-madoff-ponzi-scheme-pa-u-s-district-judge-sentences-the-back-office-director-daniel-bonventre-to-ten-years.md)
 _Context: Bernard Madoff, Ponzi scheme_

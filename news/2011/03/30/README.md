@@ -10,7 +10,7 @@ Security Council votes unanimously to impose a travel ban and assets freeze on i
 Peru gives a grandiose welcome to hundreds of Inca artefacts returned by Yale University, nearly a century after they were taken from the lost city of Machu Picchu.
 
 ### [The finalists for the Man Booker International Prize are announced, including Wang Anyi, Juan Goytisolo, James Kelman, John le Carre, Amin Maalouf, David Malouf, Dacia Maraini, Rohinton Mistry, Philip Pullman, Marilynne Robinson, Philip Roth, Su Tong and Anne Tyler. ](/news/2011/03/30/the-finalists-for-the-man-booker-international-prize-are-announced-including-wang-anyi-juan-goytisolo-james-kelman-john-le-carra-c-amin.md)
-_Context: Amin Maalouf, Anne Tyler, Dacia Maraini, David Malouf, James Kelman, John le Carré, Juan Goytisolo, Man Booker International Prize, Marilynne Robinson, Philip Pullman, Philip Roth, Rohinton Mistry, Su Tong, Wang Anyi_
+_Context: Amin Maalouf, Anne Tyler, Dacia Maraini, David Malouf, James Kelman, John le Carre, Juan Goytisolo, Man Booker International Prize, Marilynne Robinson, Philip Pullman, Philip Roth, Rohinton Mistry, Su Tong, Wang Anyi_
 
 ### [The oldest copy of ''Codex Holmiensis'', dating from 1280, is returned to Denmark after 300 years in Sweden. [http://www.dr.dk/Nyheder/Kultur/2011/03/30/103038.htm] (Danish)](/news/2011/03/30/the-oldest-copy-of-codex-holmiensis-dating-from-1280-is-returned-to-denmark-after-300-years-in-sweden-http-www-dr-dk-nyheder-kultu.md)
 _Context: Codex Holmiensis, Danish, Sweden_

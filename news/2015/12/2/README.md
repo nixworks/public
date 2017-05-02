@@ -4,7 +4,7 @@
 Russia has expanded its military operations in Syria to include a second airbase as well as other posts, according to a U.S. official briefed on the latest intelligence from the region – even as President Obama expresses muted optimism that Russian President Vladimir Putin eventually will “shift” his strategy and work with the West.
 
 ### [Al-Qaeda militants seize control of Zinjibar, capital of Yemen's southern Abyan Governorate, as well as the town of Ja'ar, following fierce clashes with pro-Hadi government forces. ](/news/2015/12/2/al-qaeda-militants-seize-control-of-zinjibar-capital-of-yemen-s-southern-abyan-governorate-as-well-as-the-town-of-jae-ar-following-fierc.md)
-_Context: Abd Rabbuh Mansur Hadi, Abyan Governorate, Al-Qaeda insurgency in Yemen, Jaʿār, Yemen, Yemeni Civil War (2015), Zinjibar, al-Qaida_
+_Context: Abd Rabbuh Mansur Hadi, Abyan Governorate, Al-Qaeda insurgency in Yemen, Ja'ar, Yemen, Yemeni Civil War (2015), Zinjibar, al-Qaida_
 
 ### [Cameroon's army, backed by a regional taskforce, has killed at least 100 members of the militant Islamist Boko Haram group and freed 900 people it had held hostage, the west African country's defence ministry has said. Regional taskforce conducts sweep along border with Nigeria. ](/news/2015/12/2/cameroonas-army-backed-by-a-regional-taskforce-has-killed-at-least-100-members-of-the-militant-islamist-boko-haram-group-and-freed-900-p.md)
 Regional taskforce conducts sweep along border with Nigeria, freeing 900 captives, army says

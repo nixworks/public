@@ -46,7 +46,7 @@ _Context: Bangladesh_
 _Context: Athens, Greek, Parliament of Greece_
 
 ### [Rafael Nadal wins the men's singles at the 2011 French Open for a sixth time defeating Roger Federer, tying with Bjrn Borg for most French Open titles won at Roland Garros. ](/news/2011/06/5/rafael-nadal-wins-the-men-s-singles-at-the-2011-french-open-for-a-sixth-time-defeating-roger-federer-tying-with-bjorn-borg-for-most-french.md)
-_Context: 2011 French Open, Björn Borg, French Open, Rafael Nadal, Roger Federer, Roland Garros_
+_Context: 2011 French Open, Bjrn Borg, French Open, Rafael Nadal, Roger Federer, Roland Garros_
 
 ### [In North American basketball, the Miami Heat beat Dallas Mavericks 88-86 in game 3 of the 2011 NBA Finals. ](/news/2011/06/5/in-north-american-basketball-the-miami-heat-beat-dallas-mavericks-88-86-in-game-3-of-the-2011-nba-finals.md)
 _Context: 2011 NBA Finals, Dallas Mavericks, Miami Heat, North America, basketball_

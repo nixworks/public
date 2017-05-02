@@ -13,7 +13,7 @@ Six people are killed, including two firefighters, after the roof of a supermark
 _Context: 2013 global surveillance disclosures, Australia, Australian flags, Indonesia, Jakarta, President of Indonesia, Susilo Bambang Yudhoyono_
 
 ### [A Honduran Vice-minister of Defense states that the Sinaloa Cartel boss Joaqun "El Chapo" Guzmn, Mexico's most-wanted drug lord, may be hiding in Honduras. ](/news/2013/11/21/a-honduran-vice-minister-of-defense-states-that-the-sinaloa-cartel-boss-joaquin-el-chapo-guzman-mexico-s-most-wanted-drug-lord-may-be-hi.md)
-_Context: Joaquín "El Chapo" Guzmán, Sinaloa Cartel_
+_Context: Joaqun "El Chapo" Guzmn, Sinaloa Cartel_
 
 ### [Metropolitan Police arrested two suspects after three women are rescued from a residential address in Lambeth, South London, after thirty years of captivity. ](/news/2013/11/21/metropolitan-police-arrested-two-suspects-after-three-women-are-rescued-from-a-residential-address-in-lambeth-south-london-after-thirty-ye.md)
 Three women are &quot;rescued&quot; from a house in south London as police investigate claims they were held as slaves for 30 years, with one thought to have been in captivity her whole life.

@@ -28,7 +28,7 @@ _Context: Kizza Besigye, Uganda, Yoweri Museveni_
 Tunisian security forces havearrested two people suspected of being members of al Qaedacarrying an explosives belt and several bombs, Tunisiantelevision reported on Sunday.
 
 ### [29 people are decapitated in a massacre in Caserio La Bomba, Peten, Guatemala, in an atrocity possibly linked to the Los Zetas Cartel. ](/news/2011/05/15/29-people-are-decapitated-in-a-massacre-in-caserio-la-bomba-peta-c-n-guatemala-in-an-atrocity-possibly-linked-to-the-los-zetas-cartel.md)
-_Context: Caserio La Bomba, Guatemala, Los Zetas Cartel, Petén_
+_Context: Caserio La Bomba, Guatemala, Los Zetas Cartel, Peten_
 
 ### [Singer Bob Dylan denies censoring his shows while performing in China. ](/news/2011/05/15/singer-bob-dylan-denies-censoring-his-shows-while-performing-in-china.md)
 The voice of a generation isn’t easily silenced. Not according to Bob Dylan, who has issued a rare public statement denying speculation that he gave in to government censors by agreeing not to perform 60s-era protest songs during his recent tour of China.
@@ -49,7 +49,7 @@ Residents of towns along the swollen Mississippi River on Sunday packed up their
 _Context: Aurora, Illinois, US state_
 
 ### [More than a thousand people are evacuated from the Canadian town of Slave Lake, Alberta, due to a wildfire. ](/news/2011/05/15/more-than-a-thousand-people-are-evacuated-from-the-canadian-town-of-slave-lake-alberta-due-to-a-wildfire.md)
-_Context: Alberta, Canadian, Slave Lake, wildfire_
+_Context: Alberta, Canada, Slave Lake, wildfire_
 
 ### [A United Nations report alleges that Iran and North Korea have been secretly exchanging ballistic missile technology. ](/news/2011/05/15/a-united-nations-report-alleges-that-iran-and-north-korea-have-been-secretly-exchanging-ballistic-missile-technology.md)
 _Context: Iran, North Korea, United Nations, ballistic missile_
@@ -79,7 +79,7 @@ _Context: Cali Swag District, Inglewood, Los Angeles, California, M-Bone, drive-
 The former spiritual mentor to Iran&#039;s President Mahmoud Ahmadinejad has publicly accused his prot&eacute;g&eacute; of being &#034;under a spell&#034; as a constitutional crisis engulfs the country.
 
 ### [Haitian general election, 2010-2011:Michel Martelly is sworn in as the democratically-elected President of Haiti. ](/news/2011/05/15/haitian-general-election-2010a2011-pmichel-martelly-is-sworn-in-as-the-democratically-elected-president-of-haiti.md)
-_Context: Haiti, Haitian general election, 2010–2011, Michel Martelly, President of Haiti, democratically-elected_
+_Context: Haiti, Haitian general election, 2010-2011, Michel Martelly, President of Haiti, democratically-elected_
 
 ### [In Switzerland, the people of Zurich vote to reject a ban on assisted suicide in the country, and also reject the restricting of assisted suicide to Zurich residents only. British pro-euthanasia group Dignity in Dying hails the result as a "brave decision". ](/news/2011/05/15/in-switzerland-the-people-of-zurich-vote-to-reject-a-ban-on-assisted-suicide-in-the-country-and-also-reject-the-restricting-of-assisted-su.md)
 Campaign group Dignity in Dying says Swiss voters have made a &quot;brave decision&quot; in rejecting calls to ban assisted suicide for non-residents.

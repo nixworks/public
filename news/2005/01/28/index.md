@@ -7,7 +7,7 @@ _Context: Augusto Pinochet, Bank Secrecy Act, Equatorial Guinea, Riggs Bank, mil
 _Context: DHHS, Michael McManus_
 
 ### [ An Australian recently freed from Guantanamo Bay claims U.S. agents told him they killed his whole family and strung the interrogation room with faked photos of his wife and children with animals' heads. He also says he was sexually assaulted and menstrual blood had been put all over him before being left alone in a cell with no water. ](/news/2005/01/28/an-australian-recently-freed-from-guantanamo-bay-claims-u-s-agents-told-him-they-killed-his-whole-family-and-strung-the-interrogation-room.md)
-_Context: Guantánamo Bay detainment camp, menstrual, sexual assault_
+_Context: Guantnamo Bay detainment camp, menstrual, sexual assault_
 
 ### [ Asia's richest woman, Nina Wang, is formally charged with forgery of her kidnapped husband's will. ](/news/2005/01/28/asia-s-richest-woman-nina-wang-is-formally-charged-with-forgery-of-her-kidnapped-husband-s-will.md)
 _Context: Asia, Nina Wang_

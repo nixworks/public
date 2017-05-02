@@ -16,7 +16,7 @@ _Context: Gaza Strip, IED, Israel, Jeep, cargo terminals_
 _Context: ''Columbia'' disaster, Discovery, February 2003, May 22, STS-114_
 
 ### [ New Ecuadorian president Alfredo Palacio orders the arrest of former president Lucio Gutirrez, who takes refuge in the Brazilian embassy. ](/news/2005/04/21/new-ecuadorian-president-alfredo-palacio-orders-the-arrest-of-former-president-lucio-gutierrez-who-takes-refuge-in-the-brazilian-embassy.md)
-_Context: Alfredo Palacio, Brazil, Ecuador, Lucio Gutiérrez_
+_Context: Alfredo Palacio, Brazil, Ecuador, Lucio Gutirrez_
 
 ### [ According to Christian Solidarity Worldwide, the army of Myanmar (Burma) has used chemical weapons against Karen rebels. ](/news/2005/04/21/according-to-christian-solidarity-worldwide-the-army-of-myanmar-burma-has-used-chemical-weapons-against-karen-rebels.md)
 _Context: Burma, Christian Solidarity Worldwide, Karen, Myanmar, chemical weapons_

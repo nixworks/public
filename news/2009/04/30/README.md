@@ -16,7 +16,7 @@ Polls have opened in the third round of India&#039;s month-long elections, with 
 _Context: Iraq, Iraq War, United Kingdom, military operation_
 
 ### [ Eight National Army soldiers are killed during combat with the Revolutionary Armed Forces in Colombia. ](/news/2009/04/30/eight-national-army-soldiers-are-killed-during-combat-with-the-revolutionary-armed-forces-in-colombia.md)
-_Context: Colombia, Colombian armed conflict (1964–present), National Army of Colombia, Revolutionary Armed Forces of Colombia, soldier_
+_Context: Colombia, Colombian armed conflict (1964-present), National Army of Colombia, Revolutionary Armed Forces of Colombia, soldier_
 
 ### [ Twelve people are killed at the State Oil Academy in Baku, Azerbaijan. ](/news/2009/04/30/twelve-people-are-killed-at-the-state-oil-academy-in-baku-azerbaijan.md)
 _Context: Azerbaijan, Baku, State Oil Academy, killed_
@@ -31,7 +31,7 @@ An Italian-flagged merchant ship evaded an attack by Somali pirates and its 24-p
 The first wave of slayings haunted Los Angeles in the mid-1970s. The killer slipped mostly unseen through the night, preying on older women who lived alone. He raped them and squeezed their necks...
 
 ### [ Souleymane Ndene Ndiaye replaces Cheikh Hadjibou Soumare as Prime Minister of Senegal. ](/news/2009/04/30/souleymane-nda-c-na-c-ndiaye-replaces-cheikh-hadjibou-soumara-c-as-prime-minister-of-senegal.md)
-_Context: Cheikh Hadjibou Soumaré, Prime Minister of Senegal, Senegal, Souleymane Ndéné Ndiaye_
+_Context: Cheikh Hadjibou Soumare, Prime Minister of Senegal, Senegal, Souleymane Ndene Ndiaye_
 
 ## [Previous Day...](/news/2009/04/29/index.md)
 

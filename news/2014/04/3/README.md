@@ -10,7 +10,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: CBS, David Letterman, Late Show with David Letterman_
 
 ### [Colombian Nobel laurete novelist Gabriel Garca Mrquez, 87, is hospitalized in Mexico City. His condition and illness remains unknown. ](/news/2014/04/3/colombian-nobel-laurete-novelist-gabriel-garcia-marquez-87-is-hospitalized-in-mexico-city-his-condition-and-illness-remains-unknown.md)
-_Context: Colombian, Gabriel García Márquez, Mexico City_
+_Context: Colombian, Gabriel Garca Mrquez, Mexico City_
 
 ### [Oso, Washington mudslide:The death toll from the mudslide reaches 30 as rescuers struggle to identify survivors. ](/news/2014/04/3/oso-washington-mudslide-pthe-death-toll-from-the-mudslide-reaches-30-as-rescuers-struggle-to-identify-survivors.md)
 The number of dead in a mudslide that hit the north-western US state of Washington has risen to 30, as recovery workers struggle to identify remains.
@@ -18,7 +18,7 @@ The number of dead in a mudslide that hit the north-western US state of Washingt
 ### [2014 Garda phone recordings controversy:Recordings of 133 conversations between garda, witnesses and journalists relating to the 1996 murder of Sophie Toscan du Plantier emerge. ](/news/2014/04/3/2014-garda-phone-recordings-controversy-precordings-of-133-conversations-between-gardai-witnesses-and-journalists-relating-to-the-1996-murd.md)
 More than 130 separate tape-recorded conversations have emerged between gardaÃ­, witnesses and journalists relating exclusively to the Sophie Toscan du Plantier murder case, RTÃ‰&#39;s This Week has learned.
 
-### [Malta elected a new President of the Republic of Malta Marie Louise Coleiro Preca, the second female President after 27 years. The event carried out in Luqa, Siggiewi, Qormi, Valletta, Floriana, Malta and Attard. {{cn|date=April 2014}}](/news/2014/04/3/malta-elected-a-new-president-of-the-republic-of-malta-marie-louise-coleiro-preca-the-second-female-president-after-27-years-the-event-car.md)
+### [Malta elected a new President of the Republic of Malta Marie Louise Coleiro Preca, the second female President after 27 years. The event carried out in Luqa, Siggiewi, Qormi, Valletta, Floriana, Malta and Attard. date=April 2014](/news/2014/04/3/malta-elected-a-new-president-of-the-republic-of-malta-marie-louise-coleiro-preca-the-second-female-president-after-27-years-the-event-car.md)
 _Context: Attard, Floriana, Malta, Luqa, Maltese, Marie Louise Coleiro Preca, Qormi, Siggiewi, Valletta_
 
 ### [Scientists from NASA and the European Space Agency estimate that Enceladus, a moon of Saturn, has an ocean of liquid water under its surface. ](/news/2014/04/3/scientists-from-nasa-and-the-european-space-agency-estimate-that-enceladus-a-moon-of-saturn-has-an-ocean-of-liquid-water-under-its-surface.md)

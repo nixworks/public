@@ -16,7 +16,7 @@ _Context: Anglo-Saxon, Battle of Hastings, England, King Harold II, Norman conqu
 _Context: Cabinet of Fredrik Reinfeldt, Maria Borelius, Sweden_
 
 ### [ Chelsea FC goalkeepers Petr Cech and Carlo Cudicini both suffered serious injuries in a game against Reading FC. Cech suffered a depressed fracture of the skull after colliding with Reading midfielder Stephen Hunt. The injury kept him out of action until January 20, 2007. Cudicini suffered concussion after colliding with Reading defender Ibrahima Sonko as the ball curled in from a corner. John Terry took the position as goalkeeper for the remainder of the game.](/news/2006/10/14/chelsea-fc-goalkeepers-petr-aech-and-carlo-cudicini-both-suffered-serious-injuries-in-a-game-against-reading-fc-cech-suffered-a-depressed.md)
-_Context: Chelsea FC, Cudicini, Ibrahima Sonko, John Terry, Petr Čech, Reading FC, Stephen Hunt, concussion, depressed fracture of the skull_
+_Context: Chelsea FC, Cudicini, Ibrahima Sonko, John Terry, Petr Cech, Reading FC, Stephen Hunt, concussion, depressed fracture of the skull_
 
 ## [Previous Day...](/news/2006/10/13/index.md)
 

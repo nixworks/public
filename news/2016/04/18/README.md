@@ -33,17 +33,17 @@ More than 400 migrants and refugees are feared to have drowned in the Mediterran
 ### [Violent storms cause floods across Uruguay with seven people killed and more than 2,000 left homeless. Four of those were killed by a tornado that struck Dolores. Four million people in the Chilean capital of Santiago were left without tap water as heavy rains triggered landslides. This led to the fouling of the city's water supply. ](/news/2016/04/18/violent-storms-cause-floods-across-uruguay-with-seven-people-killed-and-more-than-2-000-left-homeless-four-of-those-were-killed-by-a-tornad.md)
 Torrential downpours hits central parts of South America, causing flooding either side of the Andes.
 
-### [Heavy rain of more than {{convert|1|ft}} causes major flooding in Houston, Texas, affecting 1,000 homes, causing five deaths and causing power outages for over 100,000 residents. ](/news/2016/04/18/heavy-rain-of-more-than-convert-1-ft-causes-major-flooding-in-houston-texas-affecting-1-000-homes-causing-five-deaths-and-causing-pow.md)
+### [Heavy rain of more than 1|ft causes major flooding in Houston, Texas, affecting 1,000 homes, causing five deaths and causing power outages for over 100,000 residents. ](/news/2016/04/18/heavy-rain-of-more-than-1-ft-causes-major-flooding-in-houston-texas-affecting-1-000-homes-causing-five-deaths-and-causing-power-outages-f.md)
 Some flood watches and warnings in the state extend until Tuesday morning.
 
 ### [Australian Ambassador to the Philippines Amanda Gorely criticizes Philippine presidential frontrunner Rodrigo Duterte regarding his remarks about the rape of an Australian citizen.  ](/news/2016/04/18/australian-ambassador-to-the-philippines-amanda-gorely-criticizes-philippine-presidential-frontrunner-rodrigo-duterte-regarding-his-remarks.md)
-_Context: Australia–Philippines relations, Philippine presidential election, 2016, Rodrigo Duterte_
+_Context: Australia-Philippines relations, Philippine presidential election, 2016, Rodrigo Duterte_
 
 ### [During a visit to Baghdad, U.S. Defense Secretary Ash Carter announces  that the United States will be sending more troops to the country to help in the fight against ISIL. The U.S. also plans to give Kurdish Peshmerga forces, which are fighting ISIL on the ground, more than $400m (PS280m; EUR350m) in assistance. ](/news/2016/04/18/during-a-visit-to-baghdad-u-s-defense-secretary-ash-carter-announces-that-the-united-states-will-be-sending-more-troops-to-the-country-to.md)
 The US is to send 200 extra troops to Iraq to help the fight against so-called Islamic State, officials say.
 
 ### [A Ukrainian court sentences two Russian nationals to 14 years in prison each on charges of fighting alongside Russian-backed separatists in eastern Ukraine. Moscow contends that the two Russians were no longer employed by the state when they were captured. ](/news/2016/04/18/a-ukrainian-court-sentences-two-russian-nationals-to-14-years-in-prison-each-on-charges-of-fighting-alongside-russian-backed-separatists-in.md)
-_Context: Donetsk People's Republic, Moscow, Russia, Russia–Ukraine relations, Ukrainian, War in Donbass, eastern Ukraine_
+_Context: Donetsk People's Republic, Moscow, Russia, Russia-Ukraine relations, Ukrainian, War in Donbass, eastern Ukraine_
 
 ### [Bongbong Marcos, the son of dictator Ferdinand Marcos and top vice presidential candidate, defends Duterte's remarks about rape. ](/news/2016/04/18/bongbong-marcos-the-son-of-dictator-ferdinand-marcos-and-top-vice-presidential-candidate-defends-duterte-s-remarks-about-rape.md)
 _Context: Bongbong Marcos, Ferdinand Marcos, Philippine general election, 2016, rape_

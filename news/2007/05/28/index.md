@@ -22,7 +22,7 @@ _Context: Japan, Minister of Agriculture, Toshikatsu Matsuoka_
 _Context: Government-owned, Radio Caracas Television, TVes, Venezuela, television_
 
 ### [ Canada: Voters in  Prince Edward Island go to the polls for provincial elections. ](/news/2007/05/28/canada-voters-in-prince-edward-island-go-to-the-polls-for-provincial-elections.md)
-_Context: Canadian, Prince Edward Island_
+_Context: Canada, Prince Edward Island_
 
 ## [Previous Day...](/news/2007/05/27/index.md)
 

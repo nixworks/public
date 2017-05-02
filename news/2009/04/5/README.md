@@ -4,7 +4,7 @@
 _Context: Moldova, PCRM, Parliament, absolute majority, election_
 
 ### [ North American Aerospace Defense Command and United States Northern Command report that North Korea's Bright Star-2 communications satellite did not reach Earth's orbit. ](/news/2009/04/5/north-american-aerospace-defense-command-and-united-states-northern-command-report-that-north-korea-s-bright-star-2-communications-satellit.md)
-_Context: Earth, Kwangmyŏngsŏng-2, North Korea, Strategic Command systems, United States Northern Command, communications satellite, orbit_
+_Context: Earth, Kwangmyongsong-2, North Korea, Strategic Command systems, United States Northern Command, communications satellite, orbit_
 
 ### [ U.S. President Barack Obama announces his plan for worldwide nuclear disarmament. ](/news/2009/04/5/u-s-president-barack-obama-announces-his-plan-for-worldwide-nuclear-disarmament.md)
 _Context: Barack Obama, United States, free, nuclear warheads, president_

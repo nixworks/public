@@ -16,7 +16,7 @@ _Context: Bagatur, Inner Mongolia, State Ethnic Affairs Commission, Yang Jing_
 _Context: European Court of Justice, Kurdish, Kurdistan Workers' Party, procedural_
 
 ### [ Serbian Minister on Kosovo Slobodan Samardzic submits to UNMIK a plan suggesting Kosovo's division into cantons along ethnic lines. ](/news/2008/04/3/serbian-minister-on-kosovo-slobodan-samarda3-4ia-submits-to-unmik-a-plan-suggesting-kosovo-s-division-into-cantons-along-ethnic-lines.md)
-_Context: Kosovo, Serbia, Slobodan Samardžić, UNMIK_
+_Context: Kosovo, Serbia, Slobodan Samardzic, UNMIK_
 
 ### [ Greek and Turkish Cypriots open a crossing at Ledra Street, a main shopping street in Cyprus' divided capital Nicosia that has come to symbolize the island's ethnic partition. ](/news/2008/04/3/greek-and-turkish-cypriots-open-a-crossing-at-ledra-street-a-main-shopping-street-in-cyprus-divided-capital-nicosia-that-has-come-to-symb.md)
 _Context: Cyprus, Ledra Street, Nicosia, northern_

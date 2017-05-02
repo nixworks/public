@@ -4,7 +4,7 @@
 Somali journalists refuse to obey the editorial orders of an Islamist group which seized their radio station, amid heavy fighting in the capital, Mogadishu.
 
 ### [Victor Julio Suarez Rojas, the leader of the FARC guerrilla whose ''nom de guerre'' was "Mono Jojoy", is killed in a military operation by Colombian Armed Forces. ](/news/2010/09/23/vactor-julio-sua-rez-rojas-the-leader-of-the-farc-guerrilla-whose-nom-de-guerre-was-mono-jojoy-is-killed-in-a-military-operation-by.md)
-_Context: Colombian Armed Forces, FARC, Víctor Julio Suárez Rojas, nom de guerre_
+_Context: Colombian Armed Forces, FARC, Victor Julio Suarez Rojas, nom de guerre_
 
 ### [2010 strikes in France: French trade unions launch a new round of strikes over plans by the President Nicolas Sarkozy to lift the pension age to 62, with transport services and schools to be badly affected. ](/news/2010/09/23/2010-strikes-in-france-french-trade-unions-launch-a-new-round-of-strikes-over-plans-by-the-president-nicolas-sarkozy-to-lift-the-pension-ag.md)
 Tens of thousands of people take to the streets for the second major protest against pension reform plans in a month.
@@ -58,7 +58,7 @@ Cambodian opposition leader Sam Rainsy is sentenced to 10 years in jail in his a
 Swedish Prime Minister Fredrik Reinfeldt&#039;s centre-right bloc missed out on a parliamentary majority by two seats, a final count of votes cast in a weekend election showed on Thursday.
 
 ### [2010 Commonwealth Games: Countries including New Zealand, Canada and Scotland delay their departure for the host city of Delhi, India, due to concerns about unsafe and unhygienic accommodation in the athletes' village. ](/news/2010/09/23/2010-commonwealth-games-pcountries-including-new-zealand-canada-and-scotland-delay-their-departure-for-the-host-city-of-delhi-india-due.md)
-_Context: 2010 Commonwealth Games, Canadian, Delhi, India, New Zealand, Scotland, athletes' village_
+_Context: 2010 Commonwealth Games, Canada, Delhi, India, New Zealand, Scotland, athletes' village_
 
 ## [Previous Day...](/news/2010/09/22/index.md)
 

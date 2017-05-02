@@ -1,7 +1,7 @@
 ## [2010-09-24](/news/2010/09/24/index.md)
 
 ### [Benny Andersson and Bjrn Ulvaeus of ABBA object to the use of the song "Mamma Mia" at rallies held by a right-wing Danish political party and threaten to sue. ](/news/2010/09/24/benny-andersson-and-bjorn-ulvaeus-of-abba-object-to-the-use-of-the-song-mamma-mia-at-rallies-held-by-a-right-wing-danish-political-party-a.md)
-_Context: ABBA, Benny Andersson, Björn Ulvaeus, Mamma Mia_
+_Context: ABBA, Benny Andersson, Bjrn Ulvaeus, Mamma Mia_
 
 ### [''The Beano'' is to feature a President of the United States for the first time in its history. ](/news/2010/09/24/the-beano-is-to-feature-a-president-of-the-united-states-for-the-first-time-in-its-history.md)
 Barack Obama is to become the first American president to appear in The Beano, it is revealed.
@@ -28,7 +28,7 @@ _Context: China Energy Conservation and Environmental Protection Group, Liaoning
 Facebook has launched its Places feature in Canada, which allows users to &quot;check in&quot; to locations using the GPS on their smartphone and share the information with friends.
 
 ### [Chile freezes the assets of San Esteban Mining to fund the cost of the rescue effort from the 2010 Copiap mining accident. ](/news/2010/09/24/chile-freezes-the-assets-of-san-esteban-mining-to-fund-the-cost-of-the-rescue-effort-from-the-2010-copiapo-mining-accident.md)
-_Context: 2010 Copiapó mining accident, Chile, San Esteban Mining_
+_Context: 2010 Copiap mining accident, Chile, San Esteban Mining_
 
 ### [The government of Nigeria opens two swollen dams in Jigawa State, displacing two million people. ](/news/2010/09/24/the-government-of-nigeria-opens-two-swollen-dams-in-jigawa-state-displacing-two-million-people.md)
 Nigerian authorities opened the gates at two swollen dams Friday in the country&#39;s rain-soaked north, sending a flood into a neighboring state that has displaced 2 million people.

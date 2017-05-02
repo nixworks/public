@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [A Turkish court annuls an arrest warrant issued against 102 military officers over an alleged coup plot in 2003. ](/news/2010/08/7/a-turkish-court-annuls-an-arrest-warrant-issued-against-102-military-officers-over-an-alleged-coup-plot-in-2003.md) _Context: Turkey, coup d'état_
+1. [A Turkish court annuls an arrest warrant issued against 102 military officers over an alleged coup plot in 2003. ](/news/2010/08/7/a-turkish-court-annuls-an-arrest-warrant-issued-against-102-military-officers-over-an-alleged-coup-plot-in-2003.md) _Context: Turkey, coup d'tat_
 2. [Saeed Karimian, the founder and director of GEM TV, a Persian language network based in Dubai, is shot dead in Istanbul, Turkey, along with his Kuwaiti business partner. Karimian had previously been tried in absentia by a Tehran court and sentenced to six years in prison for spreading propaganda against Iran. ](/news/2017/04/30/saeed-karimian-the-founder-and-director-of-gem-tv-a-persian-language-network-based-in-dubai-is-shot-dead-in-istanbul-turkey-along-with.md) _Context: Turkey_
 3. [Monitoring group Turkey Blocks reports that a provisional administrative order blocks access to all language editions of Wikipedia in Turkey. ](/news/2017/04/29/monitoring-group-turkey-blocks-reports-that-a-provisional-administrative-order-blocks-access-to-all-language-editions-of-wikipedia-in-turkey.md) _Context: Turkey_
 4. [A Russian Navy spy ship sinks off the coast of Turkey after colliding with a Togo-flagged freighter. All 78 crew aboard the ship were safely evacuated, according to Turkish officials. ](/news/2017/04/27/a-russian-navy-spy-ship-sinks-off-the-coast-of-turkey-after-colliding-with-a-togo-flagged-freighter-all-78-crew-aboard-the-ship-were-safely.md) _Context: Turkey_

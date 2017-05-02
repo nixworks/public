@@ -31,7 +31,7 @@ As-Safir analyst says newly discovered Leviathan gas site extends into Lebanese 
 Defense Ministry reports that Barak will remain in Israel until team of experts investigating flotilla raid announced. Over weekend, sail participants declared intention to sue defense minister
 
 ### [Slovak Prime Minister Robert Fico is appointed by President Ivan Gasparovic to form a new government. ](/news/2010/06/13/slovak-prime-minister-robert-fico-is-appointed-by-president-ivan-gaa-parovia-to-form-a-new-government.md)
-_Context: Ivan Gašparovič, President, Prime Minister, Robert Fico's, Slovakia's_
+_Context: Ivan Gasparovic, President, Prime Minister, Robert Fico's, Slovakia's_
 
 ### [Belgian general election, 2010:The Belgian elections take place amid a possibility of partition. ](/news/2010/06/13/belgian-general-election-2010-pthe-belgian-elections-take-place-amid-a-possibility-of-partition.md)
 Initial results indicate that party advocating a split of Belgium wins general election.
@@ -70,7 +70,7 @@ _Context: South Korea_
 Air Chief Marshal Sir Jock Stirrup is to quit as head of the armed forces in the autumn, before the end of his term in April 2011.
 
 ### [Freed Swiss businessman Max Goldi is due to leave Libya. ](/news/2010/06/13/freed-swiss-businessman-max-gapldi-is-due-to-leave-libya.md)
-_Context: Libya, Max Göldi, Swiss_
+_Context: Libya, Max Goldi, Swiss_
 
 ### [The Japan Aerospace Exploration Agency's Hayabusa spacecraft returns to earth near Woomera in northwest South Australia. ](/news/2010/06/13/the-japan-aerospace-exploration-agency-s-hayabusa-spacecraft-returns-to-earth-near-woomera-in-northwest-south-australia.md)
 Japanese scientists are waiting to find out if a space capsule which crashed to Earth in outback South Australia last night contains dust from an ancient, distant asteroid.

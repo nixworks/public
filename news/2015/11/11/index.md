@@ -16,7 +16,7 @@ Head of chamber of tourist facilities in region surrounding Red Sea resort says 
 Slovenia began erecting a razor wire fence along parts of its border with Croatia on Wednesday, saying it wanted better control over a tide of migrants flowing through the tiny country en route to other areas of Europe.
 
 ### [ Beijing Deputy Communist Party Secretary Lu Xiwen and Shanghai vice mayor Ai Baojun are placed under investigation by the top anti-graft body of the Communist Party of China, the Central Commission for Discipline Inspection. ](/news/2015/11/11/beijing-deputy-communist-party-secretary-la1-4-xiwen-and-shanghai-vice-mayor-ai-baojun-are-placed-under-investigation-by-the-top-anti-graft-b.md)
-_Context: Ai Baojun, Anti-corruption campaign in China, Central Commission for Discipline Inspection, Deputy Communist Party Secretary, Lü Xiwen_
+_Context: Ai Baojun, Anti-corruption campaign in China, Central Commission for Discipline Inspection, Deputy Communist Party Secretary, Lu Xiwen_
 
 ### [The Constitutional Court of Spain agrees to hear an appeal by the national government against a bid for independence by Catalonia suspending legal bids for secession. ](/news/2015/11/11/the-constitutional-court-of-spain-agrees-to-hear-an-appeal-by-the-national-government-against-a-bid-for-independence-by-catalonia-suspending.md)
 _Context: Catalonia, Constitutional Court of Spain, national government, secession_

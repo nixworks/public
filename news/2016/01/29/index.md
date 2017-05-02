@@ -4,7 +4,7 @@
 _Context: Eastern Province, Saudi Arabia, Shia, Terrorism in Saudi Arabia_
 
 ### [A pipeline used to generate around half the electricity in Iraqi Kurdistan is blown up, knocking out power across the region. ](/news/2016/01/29/a-pipeline-used-to-generate-around-half-the-electricity-in-iraqi-kurdistan-is-blown-up-knocking-out-power-across-the-region.md)
-_Context: Iraqi Civil War (2014–present), Iraqi Kurdistan_
+_Context: Iraqi Civil War (2014-present), Iraqi Kurdistan_
 
 ### [Mexico launches a wholesale telecoms network tender on this day. ](/news/2016/01/29/mexico-launches-a-wholesale-telecoms-network-tender-on-this-day.md)
 Mexico will on Friday launch a long-delayed tender for one of the largest infrastructure projects under President Enrique Pena Nieto, a wholesale telecoms network that will cover most of the country. The project, which was meant to be up and running by 2014, is part of a sweeping telecoms reform
@@ -16,7 +16,7 @@ U.S. stocks joined an advance in global equities, while bonds rallied as the Ban
 Xerox Corp (XRX.N) will split into two companies, one holding its legacy printer operations and the other its business process outsourcing unit, it said on Friday, in a bid to be more nimble after years of trying to integrate the businesses.
 
 ### [Tropical Cyclone Stan gathers strength as it heads towards the Pilbara and Kimberley regions of Western Australia. ](/news/2016/01/29/tropical-cyclone-stan-gathers-strength-as-it-heads-towards-the-pilbara-and-kimberley-regions-of-western-australia.md)
-_Context: 2015–16 Australian region cyclone season, Kimberley, Pilbara, Western Australia_
+_Context: 2015-16 Australian region cyclone season, Kimberley, Pilbara, Western Australia_
 
 ### [Storm Gertrude impacts the British Isles, with 90mph winds knocking out power lines and causing travel disruption. ](/news/2016/01/29/storm-gertrude-impacts-the-british-isles-with-90mph-winds-knocking-out-power-lines-and-causing-travel-disruption.md)
 The latest in a succession of storms since Christmas reaches Scotland and is expected to travel south throughout the day

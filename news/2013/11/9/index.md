@@ -7,7 +7,7 @@ A gunman opened fire in a bar on Friday night in the Colombian city of Cali, kil
 Five members of theNigerian Islamist sect Boko Haram and two soldiers were killedin gun battles in Kano on Saturday, the army said, the firstviolence in months linked to insurgents in the largest northerncity.
 
 ### [Venezuelan television presenter Mara Gabriela Isler is crowned Miss Universe 2013 in Moscow, Russia. ](/news/2013/11/9/venezuelan-television-presenter-maria-gabriela-isler-is-crowned-miss-universe-2013-in-moscow-russia.md)
-_Context: María Gabriela Isler, Miss Universe 2013, Moscow, Russia, Venezuelan_
+_Context: Mara Gabriela Isler, Miss Universe 2013, Moscow, Russia, Venezuelan_
 
 ### [Typhoon Haiyan:Philippines: The Red Cross says that 10,000 people are confirmed dead. It reported that at least 1,000 had been killed in Tacloban and 200 in Samar province. ](/news/2013/11/9/typhoon-haiyan-pphilippines-the-red-cross-says-that-10-000-people-are-confirmed-dead-it-reported-that-at-least-1-000-had-been-killed-in-ta.md)
 The Red Cross says that more than 1,200 people are confirmed dead as Haiyan, one of the most powerful-ever tropical typhoons, blows through the Philippines. Local authorities earlier put the death toll at nearer 100.

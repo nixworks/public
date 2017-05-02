@@ -10,10 +10,10 @@ _Context: Israel, Palestinian Authority, Tulkarm_
 _Context: 15 January, 2007, Monaco, Prince Rainier, infection, intensive care, pulmonary_
 
 ### [ In Chile, Paul Schfer, former leader of Colonia Dignidad, is charged with involvement in the 1976 disappearance of Juan Maino, activist and opponent of the regime of Augusto Pinochet. ](/news/2005/03/22/in-chile-paul-schafer-former-leader-of-colonia-dignidad-is-charged-with-involvement-in-the-1976-disappearance-of-juan-maino-activist-an.md)
-_Context: 1976, Augusto Pinochet, Chile, Colonia Dignidad, Juan Maino, Paul Schäfer_
+_Context: 1976, Augusto Pinochet, Chile, Colonia Dignidad, Juan Maino, Paul Schfer_
 
 ### [ In Kyrgyzstan, President Askar Akayev's spokesman claims that the protests are a coup attempt planned by "drug mafia". [http://newsfromrussia.com/world/2005/03/22/58751.html (Pravda)] [http://edition.cnn.com/2005/WORLD/asiapcf/03/22/kyrgyzstan.ap/ (CNN)] (Link dead as of 03:13, 15 January 2007 (UTC))](/news/2005/03/22/in-kyrgyzstan-president-askar-akayev-s-spokesman-claims-that-the-protests-are-a-coup-attempt-planned-by-drug-mafia-http-newsfromruss.md)
-_Context: 15 January, 2007, Askar Akayev, Kyrgyzstan, President, Protest, coup d'état, drug mafia_
+_Context: 15 January, 2007, Askar Akayev, Kyrgyzstan, President, Protest, coup d'tat, drug mafia_
 
 ### [ In the Democratic Republic of Congo, authorities say they have arrested many senior members of militia groups in Ituri, including Thomas Lubanga of the Union of Congolese Patriots. ](/news/2005/03/22/in-the-democratic-republic-of-congo-authorities-say-they-have-arrested-many-senior-members-of-militia-groups-in-ituri-including-thomas-lu.md)
 _Context: Democratic Republic of Congo, Ituri, Thomas Lubanga, Union of Congolese Patriots, militia_

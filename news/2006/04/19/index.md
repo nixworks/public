@@ -7,7 +7,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: George W. Bush, Karl Rove, Scott McClellan, White House Press Secretary_
 
 ### [ The Bolivian army frees three ministers taken hostage by local village people in El Mutn, the world's largest iron ore deposit [http://www.lemonde.fr/web/article/0,1-0@2-3222,36-763116@51-763324,0.html (''Le Monde'')].](/news/2006/04/19/the-bolivian-army-frees-three-ministers-taken-hostage-by-local-village-people-in-el-mutun-the-world-s-largest-iron-ore-deposit-http-www.md)
-_Context: Bolivia, El Mutún, iron ore_
+_Context: Bolivia, El Mutn, iron ore_
 
 ### [ Elections in the Solomon Islands: The announcement of the new Prime Minister of the Solomon Islands, Snyder Rini, causes riots in Honiara. Australia and New Zealand promise to send more troops to keep order. ](/news/2006/04/19/elections-in-the-solomon-islands-the-announcement-of-the-new-prime-minister-of-the-solomon-islands-snyder-rini-causes-riots-in-honiara.md)
 _Context: Elections in the Solomon Islands, Honiara, Prime Minister of the Solomon Islands, Snyder Rini_

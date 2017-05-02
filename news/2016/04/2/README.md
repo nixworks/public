@@ -10,7 +10,7 @@ A mass grave including the bodies of women and children has been uncovered in th
 Two guards were killed in an attempted attack on an oil field in eastern Libya by suspected Islamic State militants on Saturday, a guards spokesman said.
 
 ### [Iraqi security forces free a large number of prisoners from an underground ISIL-operated jail in the city of Hit. Malallah al-Obeidi, a local official in the Al Anbar Governorate, put the number of freed prisoners at around 1,500, saying most of them were civilians. ](/news/2016/04/2/iraqi-security-forces-free-a-large-number-of-prisoners-from-an-underground-isil-operated-jail-in-the-city-of-ha-t-malallah-al-obeidi-a-loc.md)
-_Context: Anbar province, Hīt, Hīt offensive (2016), ISIL, Iraq, Iraqi Civil War (2014–present)_
+_Context: Anbar province, Hit, Hit offensive (2016), ISIL, Iraq, Iraqi Civil War (2014-present)_
 
 ### [A bombing kills at least five Turkish soldiers and one special forces police officer in the southeastern city of Nusaybin, near the Syria-Turkey border. ](/news/2016/04/2/a-bombing-kills-at-least-five-turkish-soldiers-and-one-special-forces-police-officer-in-the-southeastern-city-of-nusaybin-near-the-syriaa.md)
 Five soldiers and one special forces police officer have been killed in a bomb attack in south-eastern Turkey blamed on Kurdish rebels, reports say.
@@ -34,7 +34,7 @@ Austria plans to deploy soldiers at the Brenner border with Italy to stem an exp
 Council asks UN secretary general to present options within 15 days for police deployment in violence-wracked country.
 
 ### [The United States Air Force sends 12  F-15C Eagles and 350 personnel to Iceland and the Netherlands to deter further Russian aggression in Europe. ](/news/2016/04/2/the-united-states-air-force-sends-12-f-15c-eagles-and-350-personnel-to-iceland-and-the-netherlands-to-deter-further-russian-aggression-in-e.md)
-_Context:  F-15C Eagle, Europe, Iceland, NATO–Russia relations, Netherlands, Russia, United States Air Force_
+_Context:  F-15C Eagle, Europe, Iceland, NATO-Russia relations, Netherlands, Russia, United States Air Force_
 
 ### [Greece demands an explanation from the International Monetary Fund (IMF) after an apparent leaked transcript suggested the IMF may threaten to pull out of the country's bailout as a tactic to force European lenders to offer more debt relief. Whistleblowing site WikiLeaks published what it said was the transcript of a March 19 conference call of three senior IMF officials discussing tactics to apply pressure on Greece, Germany and the EU to reach a deal in April. ](/news/2016/04/2/greece-demands-an-explanation-from-the-international-monetary-fund-imf-after-an-apparent-leaked-transcript-suggested-the-imf-may-threaten.md)
 International Monetary Fund Managing Director Christine Lagarde denied on Sunday that IMF staff would push Greece closer to default as a negotiating tactic on a new Greek bailout deal, which she said was &quot;still a good distance away.&quot;
@@ -46,7 +46,7 @@ Members of Indian women activist group Bhumata Ranragini Brigade were prevented 
 _Context: 2016 U.S. presidential election, Curly Haugland, Donald Trump, Republican National Committee, Republican Party presidential candidates, 2016_
 
 ### [Tran Dai Quang is sworn in as the President of Vietnam. ](/news/2016/04/2/traossn-aao-i-quang-is-sworn-in-as-the-president-of-vietnam.md)
-_Context: President of Vietnam, Trần Đại Quang_
+_Context: President of Vietnam, Tran Dai Quang_
 
 ### [The Saudi-owned news channel Al Arabiya shuts its offices in Beirut, Lebanon and dismisses 27 employees in a sudden move reflecting tensions between Saudi Arabia and Lebanon-based Hezbollah, which is backed by Iran. Saudi Arabia interpreted Lebanon's lack of public solidarity as a sign that it had become beholden to Hezbollah. ](/news/2016/04/2/the-saudi-owned-news-channel-al-arabiya-shuts-its-offices-in-beirut-lebanon-and-dismisses-27-employees-in-a-sudden-move-reflecting-tensions.md)
 _Context: Al Arabiya, Beirut, Hezbollah, Iran, Lebanon, Saudi Arabia_

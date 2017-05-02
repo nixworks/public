@@ -1,7 +1,7 @@
 ## [2015-09-2](/news/2015/09/2/index.md)
 
 ### [Masked men in military uniforms kidnap 16 Turkish workers in Baghdad. ](/news/2015/09/2/masked-men-in-military-uniforms-kidnap-16-turkish-workers-in-baghdad.md)
-_Context: Baghdad, Iraq War (2014–present), Turks_
+_Context: Baghdad, Iraq War (2014-present), Turks_
 
 ### [A car bomb kills at least seven people in the Latakia Governorate. ](/news/2015/09/2/a-car-bomb-kills-at-least-seven-people-in-the-latakia-governorate.md)
 At least ten people were killed and scores wounded when a car bomb exploded in the Syrian city of Latakia Wednesday, state television said, in a rare attack in a coastal stronghold of President Bashar al-Assad.
@@ -13,7 +13,7 @@ _Context: India, India's Prime Minister, Narendra Modi_
 French police arrest a man suspected of starting a fire that killed eight people, including two children, in northern Paris.
 
 ### [President Barack Obama has sufficient support in the United States Senate to uphold a veto of the proposed congressional vote of disapproval of the nuclear deal with Iran. ](/news/2015/09/2/president-barack-obama-has-sufficient-support-in-the-united-states-senate-to-uphold-a-veto-of-the-proposed-congressional-vote-of-disapproval.md)
-_Context: Barack Obama, Iran, Senator, Upcoming congressional votes, president_
+_Context: Barack Obama, Iran, United States Senate, Upcoming congressional votes, president_
 
 ### [Eight people have been killed and over 30 injured in riots in the Indian state of Manipur since the passage of three controversial land bills on Monday. ](/news/2015/09/2/eight-people-have-been-killed-and-over-30-injured-in-riots-in-the-indian-state-of-manipur-since-the-passage-of-three-controversial-land-bill.md)
 Three persons were killed on Tuesday when police opened fire on a mob which attacked Churachandpur police station. 
@@ -28,7 +28,7 @@ _Context: Deputy Prime Minister of the Netherlands, Dutch Public Prosecution Ser
 French&#x20;judges&#x20;investigating&#x20;claims&#x20;that&#x20;Palestinian&#x20;leader&#x20;Yasser&#x20;Arafat&#x20;was&#x20;murdered&#x20;have&#x20;closed&#x20;the&#x20;case&#x20;without&#x20;bringing&#x20;any&#x20;charges,&#x20;a&#x20;prosecutor&#x20;said&#x20;Wednesday.
 
 ### [A judge orders that President of Guatemala Otto Perez Molina be detained for his alleged role in a corruption scandal. ](/news/2015/09/2/a-judge-orders-that-president-of-guatemala-otto-pa-c-rez-molina-be-detained-for-his-alleged-role-in-a-corruption-scandal.md)
-_Context: Guatemalan President, Otto Pérez Molina_
+_Context: Guatemalan President, Otto Perez Molina_
 
 ### [A new study estimates that there are three trillion trees on Earth, with 15 billion lost each year to mainly human causes. ](/news/2015/09/2/a-new-study-estimates-that-there-are-three-trillion-trees-on-earth-with-15-billion-lost-each-year-to-mainly-human-causes.md)
 New research estimates there are 3 trillion trees on Earth, significantly more than previously thought, but humans are removing 15 billion a year.

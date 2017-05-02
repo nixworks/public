@@ -22,7 +22,7 @@ Brazilian president Lula da Silva considers that differences inside the Union of
 _Context: Mamadou Tandja, Niger, Nigerien President, tear gas_
 
 ### [ Thousands of Venezuelans join rival marches in Caracas over a controversial education law that critics say strengthens President Hugo Chavez's grip over schools and universities. ](/news/2009/08/22/thousands-of-venezuelans-join-rival-marches-in-caracas-over-a-controversial-education-law-that-critics-say-strengthens-president-hugo-cha-v.md)
-_Context: Caracas, Hugo Chávez, Venezuelans_
+_Context: Caracas, Hugo Chavez, Venezuelans_
 
 ### [ Two turkey farms in Valparaiso, Chile, are quarantined over fears the birds have caught swine influenza from humans. ](/news/2009/08/22/two-turkey-farms-in-valparaaso-chile-are-quarantined-over-fears-the-birds-have-caught-swine-influenza-from-humans.md)
 Two turkey farms in Chile have been put under quarantine restrictions after fears the birds have caught swine flu from humans. Vets in the country said the A/H1N1 flu virus had been discovered in the two poultry plants in Valparaiso.

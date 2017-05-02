@@ -10,7 +10,7 @@ _Context: Canada geese, Hudson River, National Transportation Safety Board, New 
 The remarks to a Jewish group were among the pope’s strongest since a bishop’s comments set off outrage.
 
 ### [ Republican Senator Judd Gregg of New Hampshire withdraws his nomination as U.S. Secretary of Commerce. ](/news/2009/02/12/republican-senator-judd-gregg-of-new-hampshire-withdraws-his-nomination-as-u-s-secretary-of-commerce.md)
-_Context: Judd Gregg, New Hampshire, Republican, Senator, United States, United States Secretary of Commerce_
+_Context: Judd Gregg, New Hampshire, Republican, United States, United States Secretary of Commerce, United States Senate_
 
 ### [ Iraq's Parliament demands reparations from Israel for an attack on a nuclear reactor in 1981. [http://www.haaretz.com/hasen/spages/1063718.html (Haaretz)].](/news/2009/02/12/iraq-s-parliament-demands-reparations-from-israel-for-an-attack-on-a-nuclear-reactor-in-1981-http-www-haaretz-com-hasen-spages-1063718.md)
 _Context: 1981, Iraq, Iraqi Parliament, Israel, nuclear reactors, reparations_
@@ -31,7 +31,7 @@ Gardaí and fire brigade personnel have overpowered a man who threatened to set 
 _Context: Afghan government's, Afghanistan, Kabul, Taliban, militant_
 
 ### [ Venezuelan President Hugo Chavez alleges that the Army attempted to overthrow his government. ](/news/2009/02/12/venezuelan-president-hugo-cha-vez-alleges-that-the-army-attempted-to-overthrow-his-government.md)
-_Context: Army, Hugo Chávez, Venezuela, Venezuelan President, coup, government_
+_Context: Army, Hugo Chavez, Venezuela, Venezuelan President, coup, government_
 
 ### [ Australia announces a national day of mourning for victims of bushfires in Victoria. ](/news/2009/02/12/australia-announces-a-national-day-of-mourning-for-victims-of-bushfires-in-victoria.md)
 _Context: Australia, Victoria, national mourning, recent bushfires_

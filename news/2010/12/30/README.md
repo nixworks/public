@@ -1,7 +1,7 @@
 ## [2010-12-30](/news/2010/12/30/index.md)
 
 ### [Cote d'Ivoire's ambassador to the United Nations, Youssoufou Bamba, says the country is on the "brink of genocide". ](/news/2010/12/30/ca-te-d-ivoire-s-ambassador-to-the-united-nations-youssoufou-bamba-says-the-country-is-on-the-brink-of-genocide.md)
-_Context: Côte d'Ivoire, United Nations, Youssoufou Bamba, genocide_
+_Context: Cote d'Ivoire, United Nations, Youssoufou Bamba, genocide_
 
 ### [Sudanese President Omar al-Bashir says the government will withdraw from peace talks with rebels from Darfur unless a deal is reached this week. ](/news/2010/12/30/sudanese-president-omar-al-bashir-says-the-government-will-withdraw-from-peace-talks-with-rebels-from-darfur-unless-a-deal-is-reached-this-w.md)
 Al-Bashir tells Darfur rebels there will be no more peace talks if no deal is reached at summit in Doha.
@@ -67,7 +67,7 @@ _Context: 3M, Minnesota, PFC, the agency, toxic_
 _Context: Haley Barbour, Mississippi, double life terms_
 
 ### [Bertie Ahern, the former taoiseach who led the stricken Fianna Fail political party from 1994 until 2008, announces he is to resign from Dail Eireann at the forthcoming general election. ](/news/2010/12/30/bertie-ahern-the-former-taoiseach-who-led-the-stricken-fianna-fa-il-political-party-from-1994-until-2008-announces-he-is-to-resign-from-da.md)
-_Context: Bertie Ahern, Dáil Éireann, Fianna Fáil, Taoiseach, recently claimed back_
+_Context: Bertie Ahern, Dail Eireann, Fianna Fail, Taoiseach, recently claimed back_
 
 ### [Burmese opposition leader Aung San Suu Kyi meets with opposition leaders who broke away from the National League for Democracy party. ](/news/2010/12/30/burmese-opposition-leader-aung-san-suu-kyi-meets-with-opposition-leaders-who-broke-away-from-the-national-league-for-democracy-party.md)
 Burma&#039;s opposition leader Aung San Suu Kyi has met with former colleagues who disagreed with her election boycott and formed a new party to fight the controversial poll, the breakaway group said.

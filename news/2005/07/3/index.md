@@ -19,7 +19,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Bajram Kosumi, EAR, Ibrahim Rugova, Kosovo, Organization for Security and Cooperation in Europe, Pristina, United Nations, bomb, independent, peacekeepers_
 
 ### [ In Mauritius, parliamentary elections begin. The main rivals are prime minister Paul Brenger of the Mauritian Militant Movement and Navin Ramgoolam of the opposition Social Alliance. ](/news/2005/07/3/in-mauritius-parliamentary-elections-begin-the-main-rivals-are-prime-minister-paul-berenger-of-the-mauritian-militant-movement-and-navin.md)
-_Context: MMM, Mauritius, Navin Ramgoolam, Paul Bérenger, Social Alliance, parliamentary elections_
+_Context: MMM, Mauritius, Navin Ramgoolam, Paul Brenger, Social Alliance, parliamentary elections_
 
 ### [ In Malaysia, medical experts gather in a bird flu conference in Kuala Lumpur.  ](/news/2005/07/3/in-malaysia-medical-experts-gather-in-a-bird-flu-conference-in-kuala-lumpur.md)
 _Context: Kuala Lumpur, Malaysia, bird flu_

@@ -31,7 +31,7 @@ The president sought to rally workers by announcing new policy ahead of a budget
 Thousands rallied behind a top-ranked student who not only failed her exams but was given the lowest marks possible in a potential case of injustice and corruption.
 
 ### [Hungary's Defense Minister Csaba Hende resigns amid the refugee crisis. Prime Minister Viktor Orban immediately replaced Hende with a member of his Fidesz party, Istvan Simicsko. ](/news/2015/09/7/hungary-s-defense-minister-csaba-hende-resigns-amid-the-refugee-crisis-prime-minister-viktor-orba-n-immediately-replaced-hende-with-a-membe.md)
-_Context: Csaba Hende, Defense Minister, Fidesz party, Hungary, István Simicskó, Prime Minister, Viktor Orbán_
+_Context: Csaba Hende, Defense Minister, Fidesz party, Hungary, Istvan Simicsko, Prime Minister, Viktor Orban_
 
 ### [A bolide or meteor fireball explodes over the Thai city of Bangkok. ](/news/2015/09/7/a-bolide-or-meteor-fireball-explodes-over-the-thai-city-of-bangkok.md)
 Dashcam footage captures the moment a bright white light blazes across the sky in northern Thailand

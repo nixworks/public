@@ -34,7 +34,7 @@ Swiss police re-arrest ex-banker Rudolf Elmer over the passing of data to WikiLe
 _Context: Haiti, Jean-Claude Duvalier_
 
 ### [Two attempts in South Africa to arrest former Israeli foreign minister Tzipi Livni for alleged war crimes during the war on Gaza are rejected. ](/news/2011/01/19/two-attempts-in-south-africa-to-arrest-former-israeli-foreign-minister-tzipi-livni-for-alleged-war-crimes-during-the-war-on-gaza-are-rejecte.md)
-_Context: 2008–2009 Gaza War, Israel, South Africa, Tzipi Livni, war crime_
+_Context: 2008-2009 Gaza War, Israel, South Africa, Tzipi Livni, war crime_
 
 ### [Prime Minister of Italy Silvio Berlusconi gives a ten-minute television address vowing to punish those investigating him in relation to claims he purchased an under-age prostitute. ](/news/2011/01/19/prime-minister-of-italy-silvio-berlusconi-gives-a-ten-minute-television-address-vowing-to-punish-those-investigating-him-in-relation-to-clai.md)
 _Context: Italian Prime Minister, Silvio Berlusconi, prostitute_
@@ -49,7 +49,7 @@ _Context: Pennsylvania, Philadelphia, abortion, state_
 A federal grand jury in Arizona indicted Jared Lee Loughner on Wednesday on charges of attempting to assassinate Democratic Representative Gabrielle Giffords and the attempted murder of two of her staff members.
 
 ### [Nguyen Phu Trong is elected as General Secretary of Communist Party of Vietnam to succeed Nong Duc Manh. ](/news/2011/01/19/nguya-n-phao-tra-ng-is-elected-as-general-secretary-of-communist-party-of-vietnam-to-succeed-na-ng-aa-c-c-mao-nh.md)
-_Context: Communist Party, Nguyễn Phú Trọng, Nông Đức Mạnh, Vietnam, elected_
+_Context: Communist Party, Nguyen Phu Trong, Nong Duc Manh, Vietnam, elected_
 
 ### [The opening of the Afghan parliament is delayed by a month amid allegations of fraud in the parliamentary election. ](/news/2011/01/19/the-opening-of-the-afghan-parliament-is-delayed-by-a-month-amid-allegations-of-fraud-in-the-parliamentary-election.md)
 The inauguration of Afghanistan&#039;s new parliament has been delayed by a month amid allegations of fraud by losing candidates.

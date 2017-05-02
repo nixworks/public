@@ -22,7 +22,7 @@ Get the latest breaking news and top news headlines at Reuters.com
 _Context: Jacob Zuma, Schabir Shaik, South Africa, Thabo Mbeki, anti-corruption, fraud_
 
 ### [ In Serbia several former soldiers are arrested after the transmission on Serbian TV of video showing them executing six Bosniak men from Srebrenica in July 1995. The video is evidence from the trial of former president Slobodan Milosevic. Hitherto polls have shown that only half the population of Serbia believe that the Srebrenica massacre of 8000 men happened. ](/news/2005/06/2/in-serbia-several-former-soldiers-are-arrested-after-the-transmission-on-serbian-tv-of-video-showing-them-executing-six-bosniak-men-from-sr.md)
-_Context: Bosniaks, Serbia, Slobodan Milošević, Srebrenica, Srebrenica massacre_
+_Context: Bosniaks, Serbia, Slobodan Milosevic, Srebrenica, Srebrenica massacre_
 
 ### [ John Kerry criticizes the media for its coverage of the Downing Street memo, and joins calls for an inquiry. (WikiNews) ](/news/2005/06/2/john-kerry-criticizes-the-media-for-its-coverage-of-the-downing-street-memo-and-joins-calls-for-an-inquiry-wikinews.md)
 _Context: (WikiNews), Downing Street memo, John Kerry_

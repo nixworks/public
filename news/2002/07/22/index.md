@@ -10,10 +10,10 @@ _Context: earthquake, magnitude_
 _Context: WorldCom, accounting fraud, bankruptcy, insolvency_
 
 ### [ Harry Potter. The director for the third Harry Potter film has been announced as Mexican-born Alfonso Cuarn. Cuarn will start directing "Harry Potter and the Prisoner of Azkaban" next year.](/news/2002/07/22/harry-potter-the-director-for-the-third-harry-potter-film-has-been-announced-as-mexican-born-alfonso-cuaron-cuaron-will-start-directing.md)
-_Context: Alfonso Cuarón, Harry Potter_
+_Context: Alfonso Cuarn, Harry Potter_
 
 ### [ Politics of the Netherlands. A new cabinet is sworn in, with Jan Peter Balkenende replacing Wim Kok as Prime Minister.  He heads a coalition of three parties: Christen Democratisch Appl, Lijst Pim Fortuyn and Volkspartij voor Vrijheid en Democratie.  One of the state secretaries of the new cabinet resigned a few hours later.](/news/2002/07/22/politics-of-the-netherlands-a-new-cabinet-is-sworn-in-with-jan-peter-balkenende-replacing-wim-kok-as-prime-minister-he-heads-a-coalitio.md)
-_Context: Christen Democratisch Appèl, Dutch politics, Jan Peter Balkenende, LPF, Prime Minister, Volkspartij voor Vrijheid en Democratie, Wim Kok, forming a government_
+_Context: Christen Democratisch Appl, Dutch politics, Jan Peter Balkenende, LPF, Prime Minister, Volkspartij voor Vrijheid en Democratie, Wim Kok, forming a government_
 
 ### [ Steve Fossett circles the Globe in a balloon.](/news/2002/07/22/steve-fossett-circles-the-globe-in-a-balloon.md)
 _Context: Steve Fossett_

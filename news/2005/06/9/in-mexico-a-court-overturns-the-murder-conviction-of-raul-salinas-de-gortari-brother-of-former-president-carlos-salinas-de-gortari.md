@@ -12,4 +12,4 @@
 
 ### Related:
 
-1. [ In Mexico, Ral Salinas de Gortar is released from prison on bail. He has been in prison for ten years ](/news/2005/06/14/in-mexico-raul-salinas-de-gortari-is-released-from-prison-on-bail-he-has-been-in-prison-for-ten-years.md) _Context: Raúl Salinas de Gortarí_
+1. [ In Mexico, Ral Salinas de Gortar is released from prison on bail. He has been in prison for ten years ](/news/2005/06/14/in-mexico-raul-salinas-de-gortari-is-released-from-prison-on-bail-he-has-been-in-prison-for-ten-years.md) _Context: Ral Salinas de Gortar_

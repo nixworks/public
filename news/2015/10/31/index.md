@@ -37,7 +37,7 @@ _Context: Colorado Springs, Colorado_
 Eleven people were killed when rival political parties fired on each other on Saturday as Pakistanis voted in local elections seen as a referendum on the national government halfway through its term.
 
 ### [Guinea's constitutional court validates President Alpha Conde's October 11, 2015, re-election victory. The court dismissed complaints lodged by opposition candidates. ](/news/2015/10/31/guinea-s-constitutional-court-validates-president-alpha-conda-c-s-october-11-2015-re-election-victory-the-court-dismissed-complaints-lodge.md)
-_Context: Alpha Condé's, Guinea, Guinean presidential election, 2015, President_
+_Context: Alpha Conde's, Guinea, Guinean presidential election, 2015, President_
 
 ### [A large asteroid 2015 TB145, thought to be a dead comet, passes close to the earth. ](/news/2015/10/31/a-large-asteroid-2015-tb145-thought-to-be-a-dead-comet-passes-close-to-the-earth.md)
 _Context: 2015 TB145_

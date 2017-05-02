@@ -19,7 +19,7 @@ _Context: Barbara, George H. W. Bush, Houston Methodist Hospital, intensive care
 Mayor Sadiq Khan today put London on toxic air alert for at least three days. City Hall sent out warnings that air pollution could rise today to “moderate” in 17 boroughs and the City. It is then set to hit a “high” peak in Westminster and the Square Mile tomorrow before reducing to “moderate” in these two areas on Friday.
 
 ### [At least four people are killed in a shootout between Mexican Police and unknown gunmen after the latter opened fire on the Quintana Roo state attorneys' office in Cancun. ](/news/2017/01/18/at-least-four-people-are-killed-in-a-shootout-between-mexican-police-and-unknown-gunmen-after-the-latter-opened-fire-on-the-quintana-roo-sta.md)
-_Context: Cancún, Mexican Police, Quintana Roo_
+_Context: Cancun, Mexican Police, Quintana Roo_
 
 ### [A student wounds four people in a school shooting and then kills himself in Monterrey, Mexico. ](/news/2017/01/18/a-student-wounds-four-people-in-a-school-shooting-and-then-kills-himself-in-monterrey-mexico.md)
 _Context: Colegio Americano del Noreste 2017 shootings, Monterrey, Mexico_

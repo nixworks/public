@@ -4,10 +4,10 @@
 A gunman killed an Israeli soldier and wounded at least 11 other people at a bus station in southern Israel on Sunday.
 
 ### [War in Afghanistan (2015-present): Afghanistan's acting defense minister has stated that the Medecins Sans Frontieres hospital in Kunduz bombed on 3 October by U.S. forces was being used as a safe haven by insurgents. MSF has repeatedly denied the allegation, stating "Every staff member in Kunduz working for MSF has repeatedly reported to us that there were no armed people in the hospital at the time of the bombing". ](/news/2015/10/19/war-in-afghanistan-2015apresent-afghanistanas-acting-defense-minister-has-stated-that-the-ma-c-decins-sans-frontia-res-hospital-in-kund.md)
-_Context: Afghanistan, Kunduz, Kunduz hospital airstrike, Médecins Sans Frontières, War in Afghanistan (2015–present)_
+_Context: Afghanistan, Kunduz, Kunduz hospital airstrike, Medecins Sans Frontieres, War in Afghanistan (2015-present)_
 
 ### [China's economy expanded 6.9% in third quarter over last year's growth, just slightly better than forecast. ](/news/2015/10/19/chinaas-economy-expanded-6-9-in-third-quarter-over-last-yearas-growth-just-slightly-better-than-forecast.md)
-_Context: China’s_
+_Context: China's_
 
 ### [Shareholders from both companies overwhelmingly approve Aetna's acquisition of Humana for $37 billion. ](/news/2015/10/19/shareholders-from-both-companies-overwhelmingly-approve-aetna-s-acquisition-of-humana-for-37-billion.md)
 _Context: Aetna, Humana_

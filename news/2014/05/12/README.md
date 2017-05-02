@@ -7,7 +7,7 @@ A Boko Haram video purports to show dozens of abducted Nigerian girls, as the go
 _Context: Los Zetas, Mexican Drug War, Mexican drug cartel, Mexico, Reynosa_
 
 ### [Post-coup unrest in Egypt:Egyptian security forces arrested an alleged member of the Free Syrian Army in Giza's Imbaba. They also seized a number of explosives they claimed would allegedly be used in terror attacks in the country before the upcoming presidential elections. ](/news/2014/05/12/post-coup-unrest-in-egypt-pegyptian-security-forces-arrested-an-alleged-member-of-the-free-syrian-army-in-giza-s-imbaba-they-also-seized-a.md)
-_Context: Egypt, Egyptian presidential election, 2014, Free Syrian Army, Giza, Imbaba, Post-coup unrest in Egypt (2013–14)_
+_Context: Egypt, Egyptian presidential election, 2014, Free Syrian Army, Giza, Imbaba, Post-coup unrest in Egypt (2013-14)_
 
 ### [2014 pro-Russian unrest in Ukraine:Pro-Russian insurgents in Donetsk and Luhansk declare the cities independent states whilst on choosing to join Russia after controversial hastily-arranged referendums. ](/news/2014/05/12/2014-pro-russian-unrest-in-ukraine-ppro-russian-insurgents-in-donetsk-and-luhansk-declare-the-cities-independent-states-whilst-on-choosing-t.md)
 _Context: 2014 pro-Russian unrest in Ukraine, Donetsk People's Republic, Luhansk People's Republic, Russia, sovereignty_

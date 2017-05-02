@@ -1,6 +1,6 @@
 ### [2006-01-27](/news/2006/01/27/index.md)
 
-#  President Mikhail Saakashvili of Georgia pledges to end his country's energy crisis by importing Iranian natural gas. Starting Monday, Georgia will import {{Nowrap|2 million}} m<sup>3</sup> of gas a day at $120/m<sup>3</sup>, $10 more than for Russian gas. Georgia's supply of Russian gas has been interrupted since Sunday due to pipeline explosions. Saakashvili has accused Moscow of sabotage for political gain. 
+#  President Mikhail Saakashvili of Georgia pledges to end his country's energy crisis by importing Iranian natural gas. Starting Monday, Georgia will import 2 million m<sup>3</sup> of gas a day at $120/m<sup>3</sup>, $10 more than for Russian gas. Georgia's supply of Russian gas has been interrupted since Sunday due to pipeline explosions. Saakashvili has accused Moscow of sabotage for political gain. 
 
 
 

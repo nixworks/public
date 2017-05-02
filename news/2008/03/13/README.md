@@ -1,7 +1,7 @@
 ## [2008-03-13](/news/2008/03/13/index.md)
 
 ### [ Darfur Conflict: Chad's President Idriss Deby and Sudan's President Omar al-Bashir meet in Senegal to sign the Dakar Agreement, the sixth peace agreement in five years. ](/news/2008/03/13/darfur-conflict-chad-s-president-idriss-da-c-by-and-sudan-s-president-omar-al-bashir-meet-in-senegal-to-sign-the-dakar-agreement-the-sixth.md)
-_Context: Chad, Dakar Agreement, Darfur conflict, Idriss Déby, Omar al-Bashir, President of Chad, President of Sudan, Senegal, Sudan, peace_
+_Context: Chad, Dakar Agreement, Darfur conflict, Idriss Deby, Omar al-Bashir, President of Chad, President of Sudan, Senegal, Sudan, peace_
 
 ### [ The Canadian House of Commons extends the Canadian military mission in Afghanistan until 2011. ](/news/2008/03/13/the-canadian-house-of-commons-extends-the-canadian-military-mission-in-afghanistan-until-2011.md)
 _Context: Afghanistan, Canadian Armed Forces, Canadian House of Commons, military mission_
@@ -13,7 +13,7 @@ A Chaldean Catholic archbishop who was kidnapped in Iraq last month was found de
 _Context: Gold prices, U.S. dollar, gold, troy ounce_
 
 ### [ Serbian President Boris Tadic disbands parliament and calls an early general election for May 11. ](/news/2008/03/13/serbian-president-boris-tadia-disbands-parliament-and-calls-an-early-general-election-for-may-11.md)
-_Context: Boris Tadić, May 11, President, Serbia, parliament, parliamentary election_
+_Context: Boris Tadic, May 11, President, Serbia, parliament, parliamentary election_
 
 ### [ Democratic Party (United States) presidential primaries, 2008: Geraldine Ferraro resigns from the Clinton campaign after making comments that "if Obama was a white man, he would not be in this position." ](/news/2008/03/13/democratic-party-united-states-presidential-primaries-2008-geraldine-ferraro-resigns-from-the-clinton-campaign-after-making-comments-th.md)
 In an interview, Geraldine A. Ferraro said that she stood by her controversial remarks, and accused the Obama campaign of deliberate distortion.
@@ -28,7 +28,7 @@ _Context: Adelaide, Hobart, Melbourne_
 _Context: Belgium, Brussels, European Union, climate change, energy security_
 
 ### [ Turkish prosecutor Abdurrahman Yalcinkaya asks the Constitutional Court of Turkey to ban the ruling Justice and Development Party for anti-secular activities. ](/news/2008/03/13/turkish-prosecutor-abdurrahman-yalassa-nkaya-asks-the-constitutional-court-of-turkey-to-ban-the-ruling-justice-and-development-party-for-ant.md)
-_Context: Abdurrahman Yalçınkaya, Constitutional Court of Turkey, Turkey, ruling party, secular_
+_Context: Abdurrahman Yalcinkaya, Constitutional Court of Turkey, Turkey, ruling party, secular_
 
 ## [Previous Day...](/news/2008/03/12/index.md)
 

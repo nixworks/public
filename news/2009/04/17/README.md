@@ -28,7 +28,7 @@ _Context: Moldova, Moldovan Parliament, PCRM, election, recount_
 Pakistani national faces death sentence for alleged role in attack on Indian city.
 
 ### [ Serbian President Boris Tadic visits Kosovo. ](/news/2009/04/17/serbian-president-boris-tadia-visits-kosovo.md)
-_Context: Boris Tadić, Kosovo, President, Serbia_
+_Context: Boris Tadic, Kosovo, President, Serbia_
 
 ### [ The Czech Republic invites Belarussian President Alexander Lukashenko to a European Union summit in May. ](/news/2009/04/17/the-czech-republic-invites-belarussian-president-alexander-lukashenko-to-a-european-union-summit-in-may.md)
 _Context: Alexander Lukashenko, Belarus, Belarussian President, Czech, European Union, summit_
@@ -43,7 +43,7 @@ _Context: Andry Rajoelina, Madagascar, Marc Ravalomanana, President, arrest warr
 _Context: KwaZulu-Natal, South Africa, loses, military, province_
 
 ### [ Canada restores citizenship to foreigners in an amendment to the Citizenship Act of 1977. ](/news/2009/04/17/canada-restores-citizenship-to-foreigners-in-an-amendment-to-the-citizenship-act-of-1977.md)
-_Context: Canadian, Citizenship Act of 1977, citizenship, foreigners, law_
+_Context: Canada, Citizenship Act of 1977, citizenship, foreigners, law_
 
 ### [ The Fifth Summit of the Americas begins in Port-of-Spain, Trinidad and Tobago. ](/news/2009/04/17/the-fifth-summit-of-the-americas-begins-in-port-of-spain-trinidad-and-tobago.md)
 _Context: Fifth, Port-of-Spain, Summit of the Americas, Trinidad and Tobago_

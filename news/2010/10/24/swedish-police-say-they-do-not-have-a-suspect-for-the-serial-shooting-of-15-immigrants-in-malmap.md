@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Swedish comedian and television host Petra Mede is announced as presenter for the Eurovision Song Contest 2013 in Malmo. ](/news/2013/01/28/swedish-comedian-and-television-host-petra-mede-is-announced-as-presenter-for-the-eurovision-song-contest-2013-in-malmap.md) _Context: Malmö, Sweden_
+1. [Swedish comedian and television host Petra Mede is announced as presenter for the Eurovision Song Contest 2013 in Malmo. ](/news/2013/01/28/swedish-comedian-and-television-host-petra-mede-is-announced-as-presenter-for-the-eurovision-song-contest-2013-in-malmap.md) _Context: Malmo, Sweden_
 2. [A vehicle is driven into a group of people on a street in Stockholm, Sweden, killing four people. ](/news/2017/04/7/a-vehicle-is-driven-into-a-group-of-people-on-a-street-in-stockholm-sweden-killing-four-people.md) _Context: Sweden_
 3. [A bus carrying around 50 schoolchildren rolls over on a highway south of Sveg in the northern region of Harjedalen, Sweden, killing three people. ](/news/2017/04/2/a-bus-carrying-around-50-schoolchildren-rolls-over-on-a-highway-south-of-sveg-in-the-northern-region-of-ha-rjedalen-sweden-killing-three-p.md) _Context: Sweden_
 4. [The government of Sweden submits a bill to the Riksdag to reintroduce conscription this summer in response to new global security challenges. ](/news/2017/03/2/the-government-of-sweden-submits-a-bill-to-the-riksdag-to-reintroduce-conscription-this-summer-in-response-to-new-global-security-challenges.md) _Context: Sweden_

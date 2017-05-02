@@ -11,5 +11,5 @@ Former River Plate midfielder Matias Almeyda ended his 18 months as the Argentin
 
 ### Related:
 
-1. [Argentine football club River Plate confirm Ramon Diaz will replace the sacked Matias Almeyda as manager. ](/news/2012/11/29/argentine-football-club-river-plate-confirm-rama3n-daaz-will-replace-the-sacked-mataas-almeyda-as-manager.md) _Context: Matías Almeyda, River Plate_
+1. [Argentine football club River Plate confirm Ramon Diaz will replace the sacked Matias Almeyda as manager. ](/news/2012/11/29/argentine-football-club-river-plate-confirm-rama3n-daaz-will-replace-the-sacked-mataas-almeyda-as-manager.md) _Context: Matias Almeyda, River Plate_
 2. [In football, River Plate defeats Quilmes 5-0 to secure its 35th championship in the Argentine Primera Division. ](/news/2014/05/18/in-football-river-plate-defeats-quilmes-5-0-to-secure-its-35th-championship-in-the-argentine-primera-divisia3n.md) _Context: River Plate_

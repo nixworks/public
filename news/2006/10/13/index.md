@@ -13,7 +13,7 @@ In a finale without precedent in world chess championship history, Vladimir Kram
 _Context: Argentina, Cellulose plant conflict, Uruguay, World Bank, paper mill_
 
 ### [ Abimael Guzmn, leader of Peru's ''Sendero Luminoso'' guerrillas, is sentenced to life imprisonment at the conclusion of his retrial on terrorism charges. ](/news/2006/10/13/abimael-guzman-leader-of-peru-s-sendero-luminoso-guerrillas-is-sentenced-to-life-imprisonment-at-the-conclusion-of-his-retrial-on-ter.md)
-_Context: Abimael Guzmán, Peru, Sendero Luminoso, terrorism_
+_Context: Abimael Guzmn, Peru, Sendero Luminoso, terrorism_
 
 ### [ Boulus Iskander, an Iraqi priest of the Syriac Orthodox Church, is kidnapped and beheaded by Islamist terrorists in Mosul. ](/news/2006/10/13/boulus-iskander-an-iraqi-priest-of-the-syriac-orthodox-church-is-kidnapped-and-beheaded-by-islamist-terrorists-in-mosul.md)
 _Context: Boulus Iskander, Iraq, Islamist terrorist, Kidnap, Mosul, Syriac Orthodox, beheaded_
@@ -28,7 +28,7 @@ _Context: East River, Federal Aviation Administration, New York's, United States
 _Context: Pennsylvania, Wal-Mart, state_
 
 ### [ The US government has rebuffed UK calls to close its controversial detention centre at Guantnamo Bay in Cuba. ](/news/2006/10/13/the-us-government-has-rebuffed-uk-calls-to-close-its-controversial-detention-centre-at-guantanamo-bay-in-cuba.md)
-_Context: Cuba, Guantánamo Bay detainment camp, UK, US$_
+_Context: Cuba, Guantnamo Bay detainment camp, UK, US$_
 
 ### [ Iraq War: A coroner has recorded a verdict of unlawful killing on ITN reporter Terry Lloyd, who was shot dead by US forces in southern Iraq in March 2003. ](/news/2006/10/13/iraq-war-p-a-coroner-has-recorded-a-verdict-of-unlawful-killing-on-itn-reporter-terry-lloyd-who-was-shot-dead-by-us-forces-in-southern-ira.md)
 _Context: ITN, Iraq, Iraq War, Terry Lloyd, US$, coronial, unlawful killing_

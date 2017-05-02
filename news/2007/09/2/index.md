@@ -13,7 +13,7 @@ _Context: Avraham Hirchson, Israel, unionize_
 _Context: 2007 Pacific hurricane season, Baja California, hurricane_
 
 ### [ Ten Colombian soldiers are killed and five are missing during a shootout with FARC guerillas in the mountainous border areas between Quindio and Tolima departments. ](/news/2007/09/2/ten-colombian-soldiers-are-killed-and-five-are-missing-during-a-shootout-with-farc-guerillas-in-the-mountainous-border-areas-between-quinda.md)
-_Context: Colombia, FARC, Quindío, Tolima department_
+_Context: Colombia, FARC, Quindio, Tolima department_
 
 ### [ At least two people are killed and a dozen injured in three simultaneous explosions in Kathmandu in Nepal. ](/news/2007/09/2/at-least-two-people-are-killed-and-a-dozen-injured-in-three-simultaneous-explosions-in-kathmandu-in-nepal.md)
 _Context: Kathmandu, Nepal_
@@ -42,11 +42,11 @@ _Context: International Atomic Energy Agency, Iran, Iranian President, Mahmoud A
 ### [ Christopher R. Hill, the United States negotiator in talks with North Korea, states that they have agreed to declare and disable all of its nuclear facilities by the end of the year. ](/news/2007/09/2/christopher-r-hill-the-united-states-negotiator-in-talks-with-north-korea-states-that-they-have-agreed-to-declare-and-disable-all-of-its.md)
 _Context: Christopher R. Hill, North Korea_
 
-### [ Peerzada Muhammad Sayeed, the Education Minister of Jammu and Kashmir survives an assassination attempt by Islamist militants near Patan{{dn|date=April 2012}}. ](/news/2007/09/2/peerzada-muhammad-sayeed-the-education-minister-of-jammu-and-kashmir-survives-an-assassination-attempt-by-islamist-militants-near-patan-d.md)
+### [ Peerzada Muhammad Sayeed, the Education Minister of Jammu and Kashmir survives an assassination attempt by Islamist militants near Patandate=April 2012. ](/news/2007/09/2/peerzada-muhammad-sayeed-the-education-minister-of-jammu-and-kashmir-survives-an-assassination-attempt-by-islamist-militants-near-patandat.md)
 _Context: Islamist, Jammu and Kashmir, Patan, Peerzada Muhammad Sayeed, assassinated_
 
 ### [ Hurricane Felix  Hurricane Felix becomes a Category 2 hurricane early today as Aruba, Bonaire and Curacao have a hurricane watch in place. ](/news/2007/09/2/hurricane-felix-p-hurricane-felix-becomes-a-category-2-hurricane-early-today-as-aruba-bonaire-and-curaassao-have-a-hurricane-watch-in-place.md)
-_Context: Aruba, Bonaire, Curaçao, Hurricane Felix, hurricane_
+_Context: Aruba, Bonaire, Curacao, Hurricane Felix, hurricane_
 
 ### [ The Prime Minister of Australia John Howard announces that Justice Ian Callinan will conduct an inquiry into the 2007 Australian equine influenza outbreak. ](/news/2007/09/2/the-prime-minister-of-australia-john-howard-announces-that-justice-ian-callinan-will-conduct-an-inquiry-into-the-2007-australian-equine-inf.md)
 Prime Minister John Howard has announced an independent inquiry into the spread of equine influenza to horses in Australia.
@@ -55,7 +55,7 @@ Prime Minister John Howard has announced an independent inquiry into the spread 
 _Context: APEC, Greenpeace India's, Newcastle, Sydney_
 
 ### [ Riot police clash with protesters commemorating the Ungdomshuset in the Norrebro district of Copenhagen with 26 people injured. ](/news/2007/09/2/riot-police-clash-with-protesters-commemorating-the-ungdomshuset-in-the-na-rrebro-district-of-copenhagen-with-26-people-injured.md)
-_Context: Copenhagen, Nørrebro, Ungdomshuset, riot police_
+_Context: Copenhagen, Norrebro, Ungdomshuset, riot police_
 
 ### [ 2007 Lebanon conflict: Fatah al-Islam fighters attempt an escape from the Nahr al-Bared refugee camp north of Tripoli, Lebanon with at least 41 people being killed in fighting and many being injured and captured by the Lebanese army. ](/news/2007/09/2/2007-lebanon-conflict-p-fatah-al-islam-fighters-attempt-an-escape-from-the-nahr-al-bared-refugee-camp-north-of-tripoli-lebanon-with-at-lea.md)
 BARED, Lebanon (Reuters) - Lebanese troops on Sunday seized control of a Palestinian refugee camp where they had been battling militants for more than three months, killing at least 31 fleeing fighters, security sources said.

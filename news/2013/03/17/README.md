@@ -34,7 +34,7 @@ Kimi Raikkonen drove a brilliant race to win the Australian Grand Prix for Lotus
 Sharapova put her foot on the gas early with a break in the first game and didn&#39;t let up, firing winners off both wings and peppering Wozniacki with four aces. Wozniacki, a former world No. 1 who owns 20 WTA titles -- including an Indian Wells win in 2011 -- has still never beaten a top-three player in a final.
 
 ### [Greek football player Giorgos Katidis is banned from his national team for life after giving a Nazi style salute while celebrating a goal in the 2012-13 Superleague Greece match. ](/news/2013/03/17/greek-football-player-giorgos-katidis-is-banned-from-his-national-team-for-life-after-giving-a-nazi-style-salute-while-celebrating-a-goal-in.md)
-_Context: 2012–13, Giorgos Katidis, Greece, Nazi salutes, Superleague Greece's, association football, celebrating a goal, national team_
+_Context: 2012-13, Giorgos Katidis, Greece, Nazi salutes, Superleague Greece's, association football, celebrating a goal, national team_
 
 ### [In men's field hockey, Australia defeats Malaysia 3-2 in the final of the 2013 Sultan Azlan Shah Cup. ](/news/2013/03/17/in-men-s-field-hockey-australia-defeats-malaysia-3a2-in-the-final-of-the-2013-sultan-azlan-shah-cup.md)
 Australia&#39;s Trent Milton fired in the winning goal from a pass by Robert Hammond just ahead of the final hooter to stun the 15000-odd Malaysian supporters.
@@ -43,7 +43,7 @@ Australia&#39;s Trent Milton fired in the winning goal from a pass by Robert Ham
 _Context: 2013 NCAA Men's Division I Basketball Tournament, basketball_
 
 ### [In volleyball, Russia's Lokomotiv Novosibirsk defeats Italy's Bre Banca Lannutti Cuneo 3-2 in the thriller final to win the 2012-13 CEV Champions League. ](/news/2013/03/17/in-volleyball-russia-s-lokomotiv-novosibirsk-defeats-italy-s-bre-banca-lannutti-cuneo-3a2-in-the-thriller-final-to-win-the-2012a13-cev.md)
-_Context: 2012–13 CEV Champions League, Bre Banca Lannutti Cuneo, Italian, Lokomotiv Novosibirsk, Russia, volleyball_
+_Context: 2012-13 CEV Champions League, Bre Banca Lannutti Cuneo, Italian, Lokomotiv Novosibirsk, Russia, volleyball_
 
 ### [In snooker, Ding Junhui defeats Neil Robertson 4-3 to win the Grand Final of the Players Tour Championship 2012/2013. ](/news/2013/03/17/in-snooker-ding-junhui-defeats-neil-robertson-4a3-to-win-the-grand-final-of-the-players-tour-championship-2012-2013.md)
 Ding Junhui produced a sensational comeback to win the PTC Grand Finals with a 4-3 victory over Neil Robertson in the final. .
@@ -55,7 +55,7 @@ German sprinter Gerald Ciolek wins the Milan-San Remo one-day race, the first cl
 LENZERHEIDE, Switzerland (AP) — Tina Maze got the anger out of her system Sunday, one day after her heartbreaking World Cup slalom title defeat to American teenager Mikaela Shiffrin.
 
 ### [In biathlon, last stage of the 2012-13 Biathlon World Cup ends in Khanty-Mansiysk, Russia. Martin Fourcade wins men's overall title and Tora Berger wins the women's overall title. ](/news/2013/03/17/in-biathlon-last-stage-of-the-2012a13-biathlon-world-cup-ends-in-khanty-mansiysk-russia-martin-fourcade-wins-men-s-overall-title-and-to.md)
-_Context: 2012–13 Biathlon World Cup, Khanty-Mansiysk, Martin Fourcade, Russia, Tora Berger, biathlon, last stage, men's overall, women's overall_
+_Context: 2012-13 Biathlon World Cup, Khanty-Mansiysk, Martin Fourcade, Russia, Tora Berger, biathlon, last stage, men's overall, women's overall_
 
 ## [Previous Day...](/news/2013/03/16/index.md)
 

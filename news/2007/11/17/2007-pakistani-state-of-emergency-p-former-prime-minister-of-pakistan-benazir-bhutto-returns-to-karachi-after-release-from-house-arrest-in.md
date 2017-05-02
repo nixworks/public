@@ -1,6 +1,6 @@
 ### [2007-11-17](/news/2007/11/17/index.md)
 
-#  2007 Pakistani state of emergency: Former Prime Minister of Pakistan Benazir Bhutto returns to Karachi after release from house arrest in Lahore.{{Fact|date=December 2007}} TV networks Geo TV and ARY Digital are shut down by the Pakistan government. 
+#  2007 Pakistani state of emergency: Former Prime Minister of Pakistan Benazir Bhutto returns to Karachi after release from house arrest in Lahore.date=December 2007 TV networks Geo TV and ARY Digital are shut down by the Pakistan government. 
 
 
 

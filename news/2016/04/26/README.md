@@ -28,7 +28,7 @@ The United States warned on Tuesday it would consider &quot;other&quot; options,
 BERLIN (AP) — Germany&#039;s foreign minister has expressed regret over the fact that his country&#039;s diplomats failed for years to act on abuses at a secretive German colony in Chile. For three decades from 1961 onward the enclave…
 
 ### [The United States deploys F-22 Raptor fighter jets to Romania's RoAF 86th Air Base, near the Black Sea, in a show of strength and cooperation against Russia. "The United States and Romania enjoy a very strong partnership," said Hans G. Klemm, the United States Ambassador to Romania. ](/news/2016/04/26/the-united-states-deploys-f-22-raptor-fighter-jets-to-romania-s-roaf-86th-air-base-near-the-black-sea-in-a-show-of-strength-and-cooperatio.md)
-_Context: Black Sea, F-22 Raptor, Hans G. Klemm, RoAF 86th Air Base, Romania, Romania–United States relations, Russia, United States, United States Ambassador to Romania_
+_Context: Black Sea, F-22 Raptor, Hans G. Klemm, RoAF 86th Air Base, Romania, Romania-United States relations, Russia, United States, United States Ambassador to Romania_
 
 ### [The Supreme Court of Papua New Guinea rules that Australia's detention of asylum seekers on Manus Island breaches the right to personal liberty under the constitution. ](/news/2016/04/26/the-supreme-court-of-papua-new-guinea-rules-that-australia-s-detention-of-asylum-seekers-on-manus-island-breaches-the-right-to-personal-libe.md)
 Papua New Guinea&#039;s Supreme Court rules Australia&#039;s detention of asylum seekers on Manus Island is illegal.
@@ -67,7 +67,7 @@ BRATISLAVA, Slovakia (AP) — The new Slovak government of Prime Minister Robert
 MADRID (AP) — Spain&#039;s King Felipe VI decided Tuesday that none of the country&#039;s political parties has enough support to form a government, setting the stage for an unprecedented repeat election in June, six months after…
 
 ### [Venezuelan President Nicolas Maduro, who previously gave most of the country's 2.8 million state employees Fridays off through May, announces public workers will also have Wednesdays and Thursdays off for at least two weeks as an energy-saving measure. Full salaries will still be paid despite the two-day week. ](/news/2016/04/26/venezuelan-president-nicola-s-maduro-who-previously-gave-most-of-the-country-s-2-8-million-state-employees-fridays-off-through-may-announc.md)
-_Context: Nicolás Maduro, President_
+_Context: Nicolas Maduro, President_
 
 ## [Previous Day...](/news/2016/04/25/index.md)
 

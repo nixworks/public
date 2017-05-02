@@ -13,7 +13,7 @@
 
 ### Related:
 
-1. [ NATO troops in Bosnia-Herzegovina carry out early morning raids on the houses of the children of convicted war criminal Radovan Karadzic. ](/news/2007/02/20/nato-troops-in-bosnia-herzegovina-carry-out-early-morning-raids-on-the-houses-of-the-children-of-convicted-war-criminal-radovan-karada3-4ia.md) _Context: NATO, Radovan Karadžić_
+1. [ NATO troops in Bosnia-Herzegovina carry out early morning raids on the houses of the children of convicted war criminal Radovan Karadzic. ](/news/2007/02/20/nato-troops-in-bosnia-herzegovina-carry-out-early-morning-raids-on-the-houses-of-the-children-of-convicted-war-criminal-radovan-karada3-4ia.md) _Context: NATO, Radovan Karadzic_
 2. [The Parliament of Montenegro votes 46-0 to ratify Montenegro's membership of NATO, while opposition politicians boycott the vote and hold protests. ](/news/2017/04/28/the-parliament-of-montenegro-votes-46a0-to-ratify-montenegro-s-membership-of-nato-while-opposition-politicians-boycott-the-vote-and-hold.md) _Context: NATO_
 3. [At a NATO meeting, German foreign minister Sigmar Gabriel rejects as "quite unrealistic" the belief that Germany would spend 2% of GDP on the military. He says other spending such as development aid should be taken into account. ](/news/2017/03/31/at-a-nato-meeting-german-foreign-minister-sigmar-gabriel-rejects-as-quite-unrealistic-the-belief-that-germany-would-spend-2-of-gdp-on-th.md) _Context: NATO_
 4. [Russian Special Envoy to Afghanistan Zamir Kabulov denies allegations by NATO Commander Gen. Curtis Scaparrotti that Russia was "perhaps" supplying the Taliban. ](/news/2017/03/24/russian-special-envoy-to-afghanistan-zamir-kabulov-denies-allegations-by-nato-commander-gen-curtis-scaparrotti-that-russia-was-perhaps-su.md) _Context: NATO_

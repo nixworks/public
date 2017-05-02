@@ -12,9 +12,9 @@
 
 ### Related:
 
-1. [The trial of two South African farm workers for the murder of Afrikaner Weerstandsbeweging white supremacist Eugene Terre'Blanche begins. ](/news/2011/10/10/the-trial-of-two-south-african-farm-workers-for-the-murder-of-afrikaner-weerstandsbeweging-white-supremacist-euga-ne-terre-blanche-begins.md) _Context: Eugène Terre'Blanche, South Africa_
-2. [Eugene Terre'Blanche, founder of the Afrikaner Resistance Movement, is killed in his hometown of Ventersdorp.  ](/news/2010/04/3/euga-ne-terre-blanche-founder-of-the-afrikaner-resistance-movement-is-killed-in-his-hometown-of-ventersdorp.md) _Context: Eugène Terre'Blanche, Ventersdorp_
-3. [South African police investigate a possible link between homosexual sex and the murder of Eugene Terre'Blanche. ](/news/2010/04/11/south-african-police-investigate-a-possible-link-between-homosexual-sex-and-the-murder-of-euga-ne-terre-blanche.md) _Context: Eugène Terre'Blanche, South Africa_
+1. [The trial of two South African farm workers for the murder of Afrikaner Weerstandsbeweging white supremacist Eugene Terre'Blanche begins. ](/news/2011/10/10/the-trial-of-two-south-african-farm-workers-for-the-murder-of-afrikaner-weerstandsbeweging-white-supremacist-euga-ne-terre-blanche-begins.md) _Context: Eugene Terre'Blanche, South Africa_
+2. [Eugene Terre'Blanche, founder of the Afrikaner Resistance Movement, is killed in his hometown of Ventersdorp.  ](/news/2010/04/3/euga-ne-terre-blanche-founder-of-the-afrikaner-resistance-movement-is-killed-in-his-hometown-of-ventersdorp.md) _Context: Eugene Terre'Blanche, Ventersdorp_
+3. [South African police investigate a possible link between homosexual sex and the murder of Eugene Terre'Blanche. ](/news/2010/04/11/south-african-police-investigate-a-possible-link-between-homosexual-sex-and-the-murder-of-euga-ne-terre-blanche.md) _Context: Eugene Terre'Blanche, South Africa_
 4. [At least 20 schoolchildren are killed after their minibus collides with a truck in Mpumalanga, South Africa. ](/news/2017/04/21/at-least-20-schoolchildren-are-killed-after-their-minibus-collides-with-a-truck-in-mpumalanga-south-africa.md) _Context: South Africa_
 5. [At least nine people are killed in fires overnight in Cape Town, South Africa. ](/news/2017/03/11/at-least-nine-people-are-killed-in-fires-overnight-in-cape-town-south-africa.md) _Context: South Africa_
 6. [Protesters in South Africa rally against immigration. ](/news/2017/02/24/protesters-in-south-africa-rally-against-immigration.md) _Context: South Africa_

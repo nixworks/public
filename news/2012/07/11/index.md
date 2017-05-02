@@ -1,10 +1,10 @@
 ## [2012-07-11](/news/2012/07/11/index.md)
 
 ### [Mexican Drug War: The Mexican newspaper ''El Manana'' from the northern city of Nuevo Laredo will stop reporting on Mexico's drug-related violence after a second grenade attack at its installations. ](/news/2012/07/11/mexican-drug-war-the-mexican-newspaper-el-maa-ana-from-the-northern-city-of-nuevo-laredo-will-stop-reporting-on-mexico-s-drug-related-v.md)
-_Context: El Mañana, Mexican Drug War, Nuevo Laredo, second grenade attack_
+_Context: El Manana, Mexican Drug War, Nuevo Laredo, second grenade attack_
 
 ### [Syrian uprising (2011-present):56 people are reportedly killed by the Syrian army, including a Red Crescent worker. ](/news/2012/07/11/syrian-uprising-2011apresent-p56-people-are-reportedly-killed-by-the-syrian-army-including-a-red-crescent-worker.md)
-_Context: Red Crescent, Syrian Army, Syrian uprising (2011–present)_
+_Context: Red Crescent, Syrian Army, Syrian uprising (2011-present)_
 
 ### [United Nations peacekeepers are redeployed to the Congolese city of Goma to protect it from March 23 Movement rebels. ](/news/2012/07/11/united-nations-peacekeepers-are-redeployed-to-the-congolese-city-of-goma-to-protect-it-from-march-23-movement-rebels.md)
 _Context: Democratic Republic of the Congo, Goma, M23, United Nations_
@@ -16,7 +16,7 @@ At least eight people have been killed in a suicide bomb attack at the police ac
 _Context: Abu Sayyaf, Philippines_
 
 ### [520 men and boys killed in the Srebrenica massacre in 1995 are buried in Potocari, Bosnia and Herzegovina. ](/news/2012/07/11/520-men-and-boys-killed-in-the-srebrenica-massacre-in-1995-are-buried-in-potoaari-bosnia-and-herzegovina.md)
-_Context: Bosnia and Herzegovina, Potočari, Srebrenica massacre_
+_Context: Bosnia and Herzegovina, Potocari, Srebrenica massacre_
 
 ### [Artists sign a letter accusing the European Commission of "breaking promises" on the matter of missing royalties. ](/news/2012/07/11/artists-sign-a-letter-accusing-the-european-commission-of-breaking-promises-on-the-matter-of-missing-royalties.md)
 Musicians from Radiohead and Pink Floyd are among those angered by plans for a new EU copyright law, which they say will not do enough to collect unpaid royalties.
@@ -34,7 +34,7 @@ _Context: China, Japan, Senkaku Islands, Senkaku Islands dispute_
 China and Southeast Asian nations argue over wording of code of conduct meant to ease tensions in South China Sea.
 
 ### [The Canadian government warns Iran not to use its embassy in Ottawa to recruit expatriates in Canada to serve the Islamic Republic's interests. ](/news/2012/07/11/the-canadian-government-warns-iran-not-to-use-its-embassy-in-ottawa-to-recruit-expatriates-in-canada-to-serve-the-islamic-republicas-inter.md)
-_Context: Canada–Iran relations, Canadian government, Iran_
+_Context: Canada-Iran relations, Canadian government, Iran_
 
 ### [Court documents reveal former FIFA president Joao Havelange had accepted bribes upwards of 1.5m Swiss francs. ](/news/2012/07/11/court-documents-reveal-former-fifa-president-joapso-havelange-had-accepted-bribes-upwards-of-1-5m-swiss-francs.md)
 Documents reveal ex-Fifa president Joao Havelange was paid huge sums in bribes by marketing company ISL.

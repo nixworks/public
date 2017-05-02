@@ -17,7 +17,7 @@ _Context: Hunan Province, National Supercomputing Center, Tianhe-1A, central Chi
 Europe’s finance ministers approved an 85 billion euro bailout and agreed on a fund to rescue indebted nations.
 
 ### [Fire damages Turkey's historic Haydarpasa Terminal in Istanbul. ](/news/2010/11/28/fire-damages-turkey-s-historic-haydarpaaa-terminal-in-istanbul.md)
-_Context: Haydarpaşa Terminal, Istanbul, Turkey_
+_Context: Haydarpasa Terminal, Istanbul, Turkey_
 
 ### [At least 8 people are killed when a Russian Ilyushin Il-76 cargo plane bound for Khartoum, Sudan, crashes minutes after take off in a residential area of Karachi, Pakistan. ](/news/2010/11/28/at-least-8-people-are-killed-when-a-russian-ilyushin-il-76-cargo-plane-bound-for-khartoum-sudan-crashes-minutes-after-take-off-in-a-reside.md)
 Plane crashed in navy housing colony minutes after taking off; 11 dead.

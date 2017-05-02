@@ -13,7 +13,7 @@ _Context: County Meath, Ireland, Loretto Convent, Navan, St. Patrick's Classical
 _Context: Fatah, Hamas, Palestinian Election Commission, Palestinian Legislative Council_
 
 ### [ Health officials in Norway fear a Legionnaires' Disease epidemic after the death of four people during the last five days and the hospitalisation of many others in southeastern county of stfold, particularly in the Fredrikstad-Sarpsborg urban area. At least 24 people are known to be infected, with many of them in critical condition. Legionnaires' Disease killed seven people in the southwestern city of Stavanger in 2001, in an outbreak that was later traced to a hotel air conditioning system. ](/news/2005/05/23/health-officials-in-norway-fear-a-legionnaires-disease-epidemic-after-the-death-of-four-people-during-the-last-five-days-and-the-hospitali.md)
-_Context: Fredrikstad, Legionellosis, Norway, Sarpsborg, Stavanger, air conditioning, epidemic, Østfold_
+_Context: Fredrikstad, Legionellosis, Norway, Sarpsborg, Stavanger, air conditioning, epidemic, stfold_
 
 ### [ 11,000 journalists and other employees of the BBC go on a 24-hour strike to protest over approximately 4,000 planned job cuts. TV and Radio news output has been the worst affected, with few new stories materialising and only a skeleton service being offered. ](/news/2005/05/23/11-000-journalists-and-other-employees-of-the-bbc-go-on-a-24-hour-strike-to-protest-over-approximately-4-000-planned-job-cuts-tv-and-radio.md)
 _Context: BBC, strike_

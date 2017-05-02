@@ -7,7 +7,7 @@ _Context: Amama Mbabazi, Democratic Republic of the Congo, Uganda_
 Rescue authorities in French Polynesia are at the scene of a commuter plane crash on the island of Moorea, with initial reports indicating there are no survivors.
 
 ### [ Democratic candidates in the United States presidential election appear in a televised forum sponsored by Human Rights Campaign Foundation and focusing on gay and lesbian issues. ](/news/2007/08/9/democratic-candidates-in-the-united-states-presidential-election-appear-in-a-televised-forum-sponsored-by-human-rights-campaign-foundation.md)
-_Context: 2008, Democrat, Human Rights Campaign, gay, lesbian_
+_Context: 2008, Democratic, Human Rights Campaign, gay, lesbian_
 
 ### [ Two more bodies have been recovered at the site of the I-35W Mississippi River bridge collapse in Minneapolis, Minnesota. ](/news/2007/08/9/two-more-bodies-have-been-recovered-at-the-site-of-the-i-35w-mississippi-river-bridge-collapse-in-minneapolis-minnesota.md)
 Authorities said on Thursday that searchers have found the remains of more victims in the wreckage of the bridge collapse in Minneapolis, raising the total death toll so far to at least eight.
@@ -16,7 +16,7 @@ Authorities said on Thursday that searchers have found the remains of more victi
 A large fire broke out late on Thursday at the legendary Cinecitta film studios in Rome, with firefighters scrambling to prevent the flames spreading to the nearby historic centre of the city.
 
 ### [ Stephen Harper, the Prime Minister of Canada tours the Arctic regions of Canada to assert wider claims of sovereignty over the region following a recent claim by Russia to the North Pole. ](/news/2007/08/9/stephen-harper-the-prime-minister-of-canada-tours-the-arctic-regions-of-canada-to-assert-wider-claims-of-sovereignty-over-the-region-follo.md)
-_Context: Arctic, Canadian, Canadian Prime Minister, North Pole, Russia, Stephen Harper, sovereignty_
+_Context: Arctic, Canada, Canadian Prime Minister, North Pole, Russia, Stephen Harper, sovereignty_
 
 ### [ China temporarily bans exports from two toy manufacturers whose products were banned or recalled in the United States and other countries. ](/news/2007/08/9/china-temporarily-bans-exports-from-two-toy-manufacturers-whose-products-were-banned-or-recalled-in-the-united-states-and-other-countries.md)
 _Context: China, United States, export, toy_
@@ -28,7 +28,7 @@ _Context: Iraq, United States Marine Corps_
 _Context: BNP Paribas_
 
 ### [ The Dow Jones Industrial Average falls by nearly 400 points due to credit worries. Canadian and European stocks also fall. The European Central Bank, United States Federal Reserve and Bank of Canada all inject money into their credit markets to ease concerns. ](/news/2007/08/9/the-dow-jones-industrial-average-falls-by-nearly-400-points-due-to-credit-worries-canadian-and-european-stocks-also-fall-the-european-cen.md)
-_Context: Bank of Canada, Canadian, Dow Jones Industrial Average, Europe, European Central Bank, Federal Reserve, United States_
+_Context: Bank of Canada, Canada, Dow Jones Industrial Average, Europe, European Central Bank, Federal Reserve, United States_
 
 ### [ The South Carolina Republican Party moves its primary election date forward to January 19. ](/news/2007/08/9/the-south-carolina-republican-party-moves-its-primary-election-date-forward-to-january-19.md)
 _Context: January 19, Republican, South Carolina, primary election_
@@ -52,7 +52,7 @@ _Context: Assam, United Liberation Front of Asom_
 _Context: Abu Sayyaf, Jolo, Moro National Liberation Front, Philippines_
 
 ### [  A standoff occurs at Dili Airport as to whether jailed former Government Minister Rogerio Lobato can leave East Timor for medical treatment in Malaysia. [http://www.abc.net.au/news/stories/2007/08/09/2000939.htm (ABC News Australia)] Mobs burn hundreds of houses in pro-Fretilin areas between Viqueque and Baucau in protest at the appointment of Xanana Gusmao as the Prime Minister of East Timor with 60 people arrested in Baucau](/news/2007/08/9/a-standoff-occurs-at-dili-airport-as-to-whether-jailed-former-government-minister-rogerio-lobato-can-leave-east-timor-for-medical-treatmen.md)
-_Context: Baucau, Dili, East Timor, Fretilin, Malaysia, Prime Minister of East Timor, Rogerio Lobato, Viqueque, Xanana Gusmão_
+_Context: Baucau, Dili, East Timor, Fretilin, Malaysia, Prime Minister of East Timor, Rogerio Lobato, Viqueque, Xanana Gusmao_
 
 ### [ The National Assembly of Mauritania adopts legislation criminalising slavery. ](/news/2007/08/9/the-national-assembly-of-mauritania-adopts-legislation-criminalising-slavery.md)
 _Context: National Assembly of Mauritania, slavery_

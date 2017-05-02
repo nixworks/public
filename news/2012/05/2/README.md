@@ -28,7 +28,7 @@ The News Corporation board says it has &quot;full confidence&quot; in Rupert Mur
 Chinese dissident Chen Guangcheng leaves his refuge in the US embassy in Beijing and will stay in China, amid reports his family had been threatened.
 
 ### [Chinese Vice-Premier Li Keqiang travels to Budapest and holds talks with Hungarian Prime Minister Viktor Orban. ](/news/2012/05/2/chinese-vice-premier-li-keqiang-travels-to-budapest-and-holds-talks-with-hungarian-prime-minister-viktor-orba-n.md)
-_Context: Budapest, Li Keqiang, Viktor Orbán_
+_Context: Budapest, Li Keqiang, Viktor Orban_
 
 ### [The Japanese owner is found of a Harley-Davidson that drifted to Canada in a container that had been swept out to sea in the 2011 Tohoku earthquake and tsunami. ](/news/2012/05/2/the-japanese-owner-is-found-of-a-harley-davidson-that-drifted-to-canada-in-a-container-that-had-been-swept-out-to-sea-in-the-2011-tahoku-ea.md)
 The owner has been found of a Harley-Davidson motorcycle that drifted to Canada after being swept out to sea in the 2011 Japanese tsunami.
@@ -43,7 +43,7 @@ _Context: Gilbert, Arizona, J. T. Ready, Minutemen Civil Defense Corps, neo-nazi
 _Context: Egypt, political power, presidential election_
 
 ### [Presidential candidates Nicolas Sarkozy and Francois Hollande go head-to-head in a televised debate in France. ](/news/2012/05/2/presidential-candidates-nicolas-sarkozy-and-franassois-hollande-go-head-to-head-in-a-televised-debate-in-france.md)
-_Context: France, François Hollande, Nicolas Sarkozy_
+_Context: France, Francois Hollande, Nicolas Sarkozy_
 
 ### [The Australian Federal Police launches a formal investigation into allegations that Speaker of the Australian House of Representatives Peter Slipper misused Cabcharges. ](/news/2012/05/2/the-australian-federal-police-launches-a-formal-investigation-into-allegations-that-speaker-of-the-australian-house-of-representatives-peter.md)
 _Context: Cabcharge, Peter Slipper, Speaker of the Australian House of Representatives, police_
@@ -61,7 +61,7 @@ Indian MP Prabha Taviad breaks down and weeps in parliament, alleging she was as
 Real Madrid seal the Spanish title with a 3-0 win over Athletic Bilbao, while Lionel Messi scores a record 68th goal this season for Barcelona.
 
 ### [Papiss Cisse fires two goals past UEFA Champions League finalists Chelsea to keep Newcastle United firmly in contention for a place in the Premier League's top four which would require Chelsea to defeat Bayern Munich in the final to qualify for next season. ](/news/2012/05/2/papiss-cissa-c-fires-two-goals-past-uefa-champions-league-finalists-chelsea-to-keep-newcastle-united-firmly-in-contention-for-a-place-in-the.md)
-_Context: 2012–13 UEFA Champions League, Chelsea F.C., English Premier League, FC Bayern Munich, Newcastle United F.C., Papiss Cissé, UEFA Champions League, last May_
+_Context: 2012-13 UEFA Champions League, Chelsea F.C., English Premier League, FC Bayern Munich, Newcastle United F.C., Papiss Cisse, UEFA Champions League, last May_
 
 ### [Fabrice Muamba makes an emotional return to the Reebok Stadium following his collapse on the pitch on 17 March 2012. ](/news/2012/05/2/fabrice-muamba-makes-an-emotional-return-to-the-reebok-stadium-following-his-collapse-on-the-pitch-on-17-march-2012.md)
 Bolton midfielder Fabrice Muamba is overcome with emotion as he returns to the Reebok Stadium to greet the cheering and chanting crowd.

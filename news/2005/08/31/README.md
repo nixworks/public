@@ -12,7 +12,7 @@ _Context: Galilee, Israeli Arab, Jew_
 ### [ All Palestinian Authority assets held in the United States have been frozen. ](/news/2005/08/31/all-palestinian-authority-assets-held-in-the-united-states-have-been-frozen.md)
 _Context: Palestinian National Authority, United States, asset_
 
-### [ Philippine electoral crisis: A Philippine congressional committee has stopped all impeachment efforts against President Gloria Macapagal-Arroyo. [http://www.usatoday.com/news/world/2005-08-31-philippines-arroyo_x.htm (USA Today)]{{dead link|date=April 2015}}](/news/2005/08/31/philippine-electoral-crisis-a-philippine-congressional-committee-has-stopped-all-impeachment-efforts-against-president-gloria-macapagal-ar.md)
+### [ Philippine electoral crisis: A Philippine congressional committee has stopped all impeachment efforts against President Gloria Macapagal-Arroyo. [http://www.usatoday.com/news/world/2005-08-31-philippines-arroyo_x.htm (USA Today)]date=April 2015](/news/2005/08/31/philippine-electoral-crisis-a-philippine-congressional-committee-has-stopped-all-impeachment-efforts-against-president-gloria-macapagal-ar.md)
 _Context: Gloria Macapagal Arroyo, Philippine electoral crisis, impeach_
 
 ## [Previous Day...](/news/2005/08/30/index.md)

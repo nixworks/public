@@ -19,7 +19,7 @@ _Context: Gaza, Hamas, Italian, Vittorio Arrigoni_
 _Context: A bomb explodes, Cirebon, Indonesia, West Java, mosque_
 
 ### [Blaise Compaore, President of Burkina Faso, who took power in a coup 24 years ago, reportedly flees a mutiny of his military bodyguards. ](/news/2011/04/15/blaise-compaore-president-of-burkina-faso-who-took-power-in-a-coup-24-years-ago-reportedly-flees-a-mutiny-of-his-military-bodyguards.md)
-_Context: Blaise Compaoré, Burkina Faso, President_
+_Context: Blaise Compaor, Burkina Faso, President_
 
 ### [Australian artist Ben Quilty wins the Archibald Prize for his portrait of artist Margaret Olley. ](/news/2011/04/15/australian-artist-ben-quilty-wins-the-archibald-prize-for-his-portrait-of-artist-margaret-olley.md)
 Ben Quilty has won Australia&#039;s most prestigious portraiture prize, the Archibald, with his painting of esteemed artist Margaret Olley.

@@ -28,7 +28,7 @@ The presidential bet says leaving the issue of ownership behind can lead to a be
 Beijing issues sharp commentary after US and South Korea say regime carried out unsuccessful test-firing of Musudan missile for Kim Il-sung’s birthday
 
 ### [John Kerry informs Russia that under the rules of engagement the plane that flew over the ''USS Donald Cook'' on April 13th could have been shot down. ](/news/2016/04/15/john-kerry-informs-russia-that-under-the-rules-of-engagement-the-plane-that-flew-over-the-uss-donald-cook-on-april-13th-could-have-been.md)
-_Context: John Kerry, Russia–United States relations, USS Donald Cook, rules of engagement_
+_Context: John Kerry, Russia-United States relations, USS Donald Cook, rules of engagement_
 
 ### [Polish Foreign Minister Witold Waszczykowski, during a visit to Slovakia for talks on the future of NATO, says Russia is more dangerous than the Islamic State of Iraq and the Levant (ISIL). "By all evidence, Russia's activity is a sort of existential threat because this activity can destroy countries," Waszczykowski told reporters in Bratislava. He described ISIL as a very serious threat but said "it is not an existential threat for Europe". ](/news/2016/04/15/polish-foreign-minister-witold-waszczykowski-during-a-visit-to-slovakia-for-talks-on-the-future-of-nato-says-russia-is-more-dangerous-than.md)
 Witold Waszczykowski describes Russian activity as an ‘existential threat to Europe’ during a debate on the future of Nato

@@ -13,7 +13,7 @@ French prosecutors say &quot;with certainty&quot; that a wing part found on Reun
 The military parade in Beijing on September 3, celebrating Japan’s surrender in World War II, is going to demonstrate some 500 units of China’s military hardware rolling across Tiananmen Square, accompanied by 12,000 troops.
 
 ### [The President of Guatemala, Otto Prez Molina, resigns after being charged in a corruption scandal; Vice President Alejandro Maldonado is sworn in as interim head of state. ](/news/2015/09/3/the-president-of-guatemala-otto-perez-molina-resigns-after-being-charged-in-a-corruption-scandal-vice-president-alejandro-maldonado-is-sw.md)
-_Context: Alejandro Maldonado, Guatemalan President, Otto P�rez Molina_
+_Context: Alejandro Maldonado, Guatemalan President, Otto Prez Molina_
 
 ### [Another suspect in the bombing is arrested in Narathiwat Province in southern Thailand and flown to Bangkok. ](/news/2015/09/3/another-suspect-in-the-bombing-is-arrested-in-narathiwat-province-in-southern-thailand-and-flown-to-bangkok.md)
 _Context: 2015 Bangkok bombing, Bangkok, Narathiwat, Thailand_

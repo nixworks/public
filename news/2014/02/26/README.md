@@ -1,6 +1,6 @@
 ## [2014-02-26](/news/2014/02/26/index.md)
 
-### [2014 Ukrainian revolution, 2014 Crimean crisis:Ukraine's interim President Oleksandr Turchynov formally becomes the Supreme Commander of the Armed Forces of Ukraine. ](/news/2014/02/26/2014-ukrainian-revolution-2014-crimean-crisis-pukraine-s-interim-president-oleksandr-turchynov-formally-becomes-the-supreme-commander-of-th.md)
+### [Ukraine's interim President Oleksandr Turchynov formally becomes the Supreme Commander of the Armed Forces of Ukraine. ](/news/2014/02/26/ukraine-s-interim-president-oleksandr-turchynov-formally-becomes-the-supreme-commander-of-the-armed-forces-of-ukraine.md)
 Reviled on the Maidan, members of the &ldquo;Berkut&rdquo; are offered sanctuary in the pro-Russian Crimean Peninsula.
 
 ### [Syrian Civil War:Syrian army and Hezbollah troops kill over 70 rebel fighters in an ambush in the outskirts of Damascus. ](/news/2014/02/26/syrian-civil-war-psyrian-army-and-hezbollah-troops-kill-over-70-rebel-fighters-in-an-ambush-in-the-outskirts-of-damascus.md)

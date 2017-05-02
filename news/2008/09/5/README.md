@@ -1,7 +1,7 @@
 ## [2008-09-5](/news/2008/09/5/index.md)
 
 ### [ Five hundred people have died in the Haitian town of Gonaives as a result of flooding caused by Tropical Storm Hanna. ](/news/2008/09/5/five-hundred-people-have-died-in-the-haitian-town-of-gonaa-ves-as-a-result-of-flooding-caused-by-tropical-storm-hanna.md)
-_Context: Gonaïves, Haiti, Tropical Storm Hanna_
+_Context: Gonaives, Haiti, Tropical Storm Hanna_
 
 ### [ According to several news reports, the US government plans to take control of Fannie Mae and Freddie Mac in a takeover plan. ](/news/2008/09/5/according-to-several-news-reports-the-us-government-plans-to-take-control-of-fannie-mae-and-freddie-mac-in-a-takeover-plan.md)
 The government has prepared a plan to take control of troubled mortgage giants Fannie Mae and Freddie Mac, officials told the two companies, according to three sources familiar with the conversations.
@@ -22,7 +22,7 @@ _Context: August, December 2003, US economy, United States, unemployment_
 _Context: England, European City of Culture, La Princesse, Liverpool_
 
 ### [ The European Union's ''Rosetta'' spacecraft performs a flyby of the asteroid 2867 Steins. ](/news/2008/09/5/the-european-union-s-rosetta-spacecraft-performs-a-flyby-of-the-asteroid-2867-a-teins.md)
-_Context: ''Rosetta'' space probe, 2867 Šteins, European Union, asteroid_
+_Context: ''Rosetta'' space probe, 2867 Steins, European Union, asteroid_
 
 ### [ Australia: Quentin Bryce is sworn in as the first female Governor-General of Australia. ](/news/2008/09/5/australia-p-quentin-bryce-is-sworn-in-as-the-first-female-governor-general-of-australia.md)
 _Context: Australia, Governor General of Australia, Quentin Bryce_

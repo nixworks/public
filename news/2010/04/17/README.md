@@ -16,7 +16,7 @@ At least 41 people were killed and 64 wounded in an attack on a camp filled with
 At least eight people were injured by a bomb blast in Bangalore shortly before the start of Saturday&#039;s Indian Premier League match between Royal Challengers Bangalore, Kevin Pietersen&#039;s team, and Mumbai Indians.
 
 ### [Over 100,000 mourners attend a memorial service to honour the death of the Polish president Lech Kaczynski, and 95 others who were killed in a plane crash the previous week. ](/news/2010/04/17/over-100-000-mourners-attend-a-memorial-service-to-honour-the-death-of-the-polish-president-lech-kaczyaski-and-95-others-who-were-killed-i.md)
-_Context: 2010 Polish Air Force Tu-154 crash, Lech Kaczyński_
+_Context: 2010 Polish Air Force Tu-154 crash, Lech Kaczynski_
 
 ### [Snowfall in central Tokyo matches a record set in April 1967. ](/news/2010/04/17/snowfall-in-central-tokyo-matches-a-record-set-in-april-1967.md)
 _Context: Tokyo_

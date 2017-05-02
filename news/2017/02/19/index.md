@@ -22,7 +22,7 @@ _Context: 2017 Afghanistan avalanches, Afghanistan_
 Mongolia has agreed with the International Monetary Fund and other partners for a $5.5 billion economic stabilization package, according to a statement from the IMF on Sunday.
 
 ### [Voters head to the polls to select the National Assembly and a new president with former vice-president Lenin Moreno facing off against former bank president Guillermo Lasso, and six other opposition candidates. There will be an  April 2 runoff unless the leader receives 40 percent of the votes and is at least 10 percentage points ahead of the others. In addition, there's a tax haven referendum. ](/news/2017/02/19/voters-head-to-the-polls-to-select-the-national-assembly-and-a-new-president-with-former-vice-president-lenan-moreno-facing-off-against-for.md)
-_Context: Ecuadorian general election, 2017, Guillermo Lasso, Lenín Moreno, National Assembly, tax haven referendum_
+_Context: Ecuadorian general election, 2017, Guillermo Lasso, Lenin Moreno, National Assembly, tax haven referendum_
 
 ### [Two top level officials overseeing South Sudan's military courts resign from their posts, accusing the government of interfering in the court's moves to discipline soldiers accused of rape and murder. The resignations come less than a week after a military general and the Minister of Labour resigned in protest of President Salva Kiir Mayardit's alleged approval of atrocities against civilians not belonging to the Dinka group. ](/news/2017/02/19/two-top-level-officials-overseeing-south-sudan-s-military-courts-resign-from-their-posts-accusing-the-government-of-interfering-in-the-cour.md)
 A brigadier general and colonel detail atrocities in damning resignation letters addressed to president.

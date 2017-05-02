@@ -34,7 +34,7 @@ _Context: Andrew Chan, Joko Widodo, Myuran Sukumaran, President of Indonesia_
 _Context: Ahmed Nazif, Habib el-Adly, prime minister_
 
 ### [A Czech gunman opens fire at a restaurant in Uhersky Brod, killing at least eight people. ](/news/2015/02/24/a-czech-gunman-opens-fire-at-a-restaurant-in-uherska1-2-brod-killing-at-least-eight-people.md)
-_Context: Czech, Uherský Brod, opens fire_
+_Context: Czech, Uhersky Brod, opens fire_
 
 ### [The British Parliament's House of Lords gives final approval to a bill that earlier in February had been approved in the House of Commons, refusing to block the plan by a majority of 232, that would allow, through a modified form of in vitro fertilization (IVF), the creation of three-person babies, to treat certain mitochondrial disorders (mitochondria are parts of cells that convert nutrients into useful cellular energy to fuel vital processes), by using a very small segment of mitochondrial DNA from another woman to replace the mother's defective DNA; the U.K. is the first to authorize the still ethically controversial procedure. ](/news/2015/02/24/the-british-parliament-s-house-of-lords-gives-final-approval-to-a-bill-that-earlier-in-february-had-been-approved-in-the-house-of-commons-r.md)
 _Context: British Parliament, House of Commons, House of Lords, in vitro fertilization, mitochondria, mitochondrial disorders_
@@ -46,7 +46,7 @@ _Context: Chris Kyle, Texas, United States Navy SEALs, life imprisonment, parole
 Chicago voters on Tuesday will decide whether Mayor Rahm Emanuel collects a majority and quickly wins a second term or faces a runoff.
 
 ### [Abd Rabbuh Mansur Hadi withdraws his resignation as President of Yemen after escaping from the custody of the Houthis. ](/news/2015/02/24/abd-rabbuh-mansur-hadi-withdraws-his-resignation-as-president-of-yemen-after-escaping-from-the-custody-of-the-houthis.md)
-_Context: Abd Rabbuh Mansur Hadi, Houthi, Yemeni Crisis (2011–present), Yemeni President_
+_Context: Abd Rabbuh Mansur Hadi, Houthi, Yemeni Crisis (2011-present), Yemeni President_
 
 ### [Former U.K. Foreign Secretary Malcolm Rifkind steps down as chair of a parliamentary intelligence committee and said he won't run for re-election as a Conservative member of parliament after becoming embroiled in an embarrassing cash-for-access sting. ](/news/2015/02/24/former-u-k-foreign-secretary-malcolm-rifkind-steps-down-as-chair-of-a-parliamentary-intelligence-committee-and-said-he-wonat-run-for-re-e.md)
 Tory MP will resign from Commons at May election after quitting as head of parliamentary security committee over cash-for-access claims

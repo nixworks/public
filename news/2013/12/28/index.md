@@ -1,7 +1,7 @@
 ## [2013-12-28](/news/2013/12/28/index.md)
 
 ### [Supporters of the Islamist Muslim Brotherhood clash with police at Al-Azhar University in Cairo, Egypt. One person is killed and two campus buildings are set on fire. ](/news/2013/12/28/supporters-of-the-islamist-muslim-brotherhood-clash-with-police-at-al-azhar-university-in-cairo-egypt-one-person-is-killed-and-two-campus.md)
-_Context: Al-Azhar University, Cairo, Egypt, Islamist protests in Egypt (July 2013–present), Muslim Brotherhood_
+_Context: Al-Azhar University, Cairo, Egypt, Islamist protests in Egypt (July 2013-present), Muslim Brotherhood_
 
 ### [Syrian Civil War:A Syrian army airstrike in a market in the northern city of Aleppo kills 25 people. ](/news/2013/12/28/syrian-civil-war-pa-syrian-army-airstrike-in-a-market-in-the-northern-city-of-aleppo-kills-25-people.md)
 A Syrian army air strike on a vegetable market in the northern city of Aleppo killed at least 25 people on Saturday, a monitoring group said, continuing a campaign of improvised &quot;barrel bombs&quot; that has drawn international condemnation.
@@ -16,7 +16,7 @@ A fire broke out on an express train in southern India early Saturday and killed
 _Context: Avsallar, Mediterranean Sea, Turkey, earthquake_
 
 ### [The Chinese icebreaker ''Xue Long'', or "Snow Dragon", was only six nautical miles away from the Russian-flagged vessel ''Akademik Shokalskiy'' when it too became obstructed by heavy ice in Antarctica. ](/news/2013/12/28/the-chinese-icebreaker-xua-la3ng-or-snow-dragon-was-only-six-nautical-miles-away-from-the-russian-flagged-vessel-akademik-shokals.md)
-_Context: Akademik Shokalskiy, Antarctica, China, Russia, Xuě Lóng, nautical miles_
+_Context: Akademik Shokalskiy, Antarctica, China, Russia, Xue Long, nautical miles_
 
 ### [Russia's Soyuz-2-1v rocket makes its maiden flight. ](/news/2013/12/28/russia-s-soyuz-2-1v-rocket-makes-its-maiden-flight.md)
 _Context: Soyuz-2-1v_

@@ -10,7 +10,7 @@ _Context: Donetsk International Airport, War in Donbass_
 _Context: Leyte, Philippines_
 
 ### [2014 India-Pakistan floods:India suspends rescue operations due to heavy rain in Jammu and Kashmir state where over 100,000 still await rescue. ](/news/2014/09/14/2014-indiaapakistan-floods-pindia-suspends-rescue-operations-due-to-heavy-rain-in-jammu-and-kashmir-state-where-over-100-000-still-await-r.md)
-_Context: 2014 India–Pakistan floods, Jammu and Kashmir_
+_Context: 2014 India-Pakistan floods, Jammu and Kashmir_
 
 ### [The death toll from a collapse of T. B. Joshua's The Synagogue Church of All Nations on Friday in the Ikotun area of the Nigerian largest city Lagos reaches 40. ](/news/2014/09/14/the-death-toll-from-a-collapse-of-t-b-joshua-s-the-synagogue-church-of-all-nations-on-friday-in-the-ikotun-area-of-the-nigerian-largest-ci.md)
 Forty people died after a building collapse at the megachurch of one of Nigeria&#039;s most famous preachers

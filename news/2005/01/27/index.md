@@ -10,7 +10,7 @@ _Context: African Union, Darfur, airstrike, killed in fighting_
 _Context: Conflict in Iraq, Iraq, United States Marine Corps_
 
 ### [ Holocaust survivors, former Red Army soldiers, leaders of more than 40 countries, and other people gather in Oswiecim, Poland for the 60th anniversary of the liberation of the Auschwitz concentration camp where more than 1 million people were killed. ](/news/2005/01/27/holocaust-survivors-former-red-army-soldiers-leaders-of-more-than-40-countries-and-other-people-gather-in-oawiacim-poland-for-the-60t.md)
-_Context: Auschwitz, Holocaust, Oświęcim, Poland, Red Army_
+_Context: Auschwitz, Holocaust, Oswiecim, Poland, Red Army_
 
 ### [ French national railways SNCF are severely disrupted by a 24-hour walkout by staff to protest the rape of a ticket inspector on a Toulouse - Cahors train on Tuesday. The inspector had been attempting to charge a man for not having a ticket. A 24-year-old man was later arrested. The strike is due to end at 1500 UTC. ](/news/2005/01/27/french-national-railways-sncf-are-severely-disrupted-by-a-24-hour-walkout-by-staff-to-protest-the-rape-of-a-ticket-inspector-on-a-toulouse.md)
 _Context: Cahors, France's national railway company, Toulouse_

@@ -1,7 +1,7 @@
 ## [2014-06-6](/news/2014/06/6/index.md)
 
 ### [War in Afghanistan (2001-present):Abdullah Abdullah of the National Coalition of Afghanistan, a frontrunner in the Afghan presidential election, survives a bombing attempt. ](/news/2014/06/6/war-in-afghanistan-2001apresent-pabdullah-abdullah-of-the-national-coalition-of-afghanistan-a-frontrunner-in-the-afghan-presidential-el.md)
-_Context: Abdullah Abdullah, Afghan presidential election, 2014, National Coalition of Afghanistan, War in Afghanistan (2001–present)_
+_Context: Abdullah Abdullah, Afghan presidential election, 2014, National Coalition of Afghanistan, War in Afghanistan (2001-present)_
 
 ### [2014 pro-Russian conflict in Ukraine:Russian President Vladimir Putin and Ukrainian President-elect Petro Poroshenko call for a quick and peaceful end to the violence in eastern Ukraine. ](/news/2014/06/6/2014-pro-russian-conflict-in-ukraine-prussian-president-vladimir-putin-and-ukrainian-president-elect-petro-poroshenko-call-for-a-quick-and-p.md)
 _Context: 2014 pro-Russian conflict in Ukraine, Petro Poroshenko, Russian President, Ukrainian President-elect, Vladimir Putin, eastern Ukraine_

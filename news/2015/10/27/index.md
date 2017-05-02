@@ -49,7 +49,7 @@ The United Nations General Assembly overwhelmingly condemned the U.S. embargo of
 Philippines President Benigno Aquino said his country has &#034;no capacity&#034; to resettle refugees from Australia, adding his government was &#034;challenged to meet the needs of its own people right now.&#034;
 
 ### [Guatemala arrests 11 in a public hospital, medicine-buying kickback scheme. Two others remain at large, including  Gustavo Alejos Cambara, the former private secretary to ex-President Alvaro Colom. A U.N. commission set up to tackle criminal networks in Guatemala participated in the investigation. ](/news/2015/10/27/guatemala-arrests-11-in-a-public-hospital-medicine-buying-kickback-scheme-two-others-remain-at-large-including-gustavo-alejos-cambara-t.md)
-_Context: Guatemala, Guatemalan President, United Nations, kickback scheme, organization, public hospital, Álvaro Colom_
+_Context: Alvaro Colom, Guatemala, Guatemalan President, United Nations, kickback scheme, organization, public hospital_
 
 ### [Britain is reviewing the powers of the House of Lords after the unelected peers stalled legislation yesterday that would have eliminated some tax allowances for the nation's poor. Senior Conservatives say the upper chamber of Parliament stepped out of their usual roles as technical overseers of legislation. However,  Conservative MP David Davis warned that such a move was "bully politics" that would "disgust" the public. ](/news/2015/10/27/britain-is-reviewing-the-powers-of-the-house-of-lords-after-the-unelected-peers-stalled-legislation-yesterday-that-would-have-eliminated-som.md)
 _Context: British Parliament, Conservatives, David Davis, House of Lords, MP, United Kingdom, bully politics_

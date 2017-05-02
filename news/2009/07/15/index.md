@@ -36,7 +36,7 @@ _Context: Chansa Kabwela, The Post, Zambia_
 ### [ The British government opts not to end the Common Travel Area between the United Kingdom and Ireland. ](/news/2009/07/15/the-british-government-opts-not-to-end-the-common-travel-area-between-the-united-kingdom-and-ireland.md)
 The British government has climbed down over plans to require travellers from Ireland to show passports.
 
-### [ {{OV|105}} launches on mission STS-127 to the International Space Station. ](/news/2009/07/15/ov-105-launches-on-mission-sts-127-to-the-international-space-station.md)
+### [ 105 launches on mission STS-127 to the International Space Station. ](/news/2009/07/15/105-launches-on-mission-sts-127-to-the-international-space-station.md)
 _Context: 16-day mission, International Space Station_
 
 ## [Previous Day...](/news/2009/07/14/index.md)

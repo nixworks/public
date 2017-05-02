@@ -40,7 +40,7 @@ President Hugo Chavez&#039;s allies have won a sweeping victory in Venezuela&#03
 The closest fly-by was at 08:30:09 UTC on December 13 at an altitude of just 3.2 km and at a relative velocity of 10.73 km/s. Quite a few photos were snapped by the CCD camera - including this series of photos taken 93 - 240 km away from Toutatis:
 
 ### [Brazil football club Corinthians wins the 2012 FIFA Club World Cup, after a 1-0 win over Chelsea in the final. Paolo Guerrero scored the only goal of the game in Yokohama, Japan. Brazilian player Cassio Ramos is named as MVP of the tournament. ](/news/2012/12/16/brazil-football-club-corinthians-wins-the-2012-fifa-club-world-cup-after-a-1a0-win-over-chelsea-in-the-final-paolo-guerrero-scored-the-o.md)
-_Context: 2012 FIFA Club World Cup, Brazil, Chelsea F.C., Corinthians, Cássio Ramos, Japan, MVP, Paolo Guerrero, Yokohama, association football, final_
+_Context: 2012 FIFA Club World Cup, Brazil, Cassio Ramos, Chelsea F.C., Corinthians, Japan, MVP, Paolo Guerrero, Yokohama, association football, final_
 
 ### [Bundesliga football club Schalke 04 sacks coach Huub Stevens following their 1-3 loss to Freiburg in the 2012-2013 season game. ](/news/2012/12/16/bundesliga-football-club-schalke-04-sacks-coach-huub-stevens-following-their-1a3-loss-to-freiburg-in-the-2012a2013-season-game.md)
 The official site of the international governing body of football with news, national associations, competitions, results, fixtures, development, organisation, world rankings, statistics, the International Football Association Board, history, laws of the game, futsal, publications, downloads, and contact details.

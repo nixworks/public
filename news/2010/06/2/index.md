@@ -49,7 +49,7 @@ Yukio Hatoyama quits partly over broken promise to move US military base off Oki
 Three centre-right parties pledge to work together following weekend election.
 
 ### [New Caledonia President Philippe Gomes is indicted over alleged misuse of business contracts. ](/news/2010/06/2/new-caledonia-president-philippe-goma-s-is-indicted-over-alleged-misuse-of-business-contracts.md)
-_Context: New Caledonia, Philippe Gomès, President of New Caledonia, contract, indicted_
+_Context: New Caledonia, Philippe Gomes, President of New Caledonia, contract, indicted_
 
 ### [President of Lombardy, Roberto Formigoni, offers pregnant women EUR4,500 if they do not have abortions: anti-abortion campaigners welcome the move and critics call it "propaganda". ](/news/2010/06/2/president-of-lombardy-roberto-formigoni-offers-pregnant-women-a-4-500-if-they-do-not-have-abortions-anti-abortion-campaigners-welcome-th.md)
 Pregnant women in northern Italy who face economic hardship are to be offered money not to have an abortion.

@@ -37,7 +37,7 @@ _Context: Giuliana Sgrena, Nicola Calipari_
 _Context: Lee Hun-jai_
 
 ### [ German financial company Deutsche Borse withdraws its takeover of the London Stock Exchange ](/news/2005/03/7/german-financial-company-deutsche-baprse-withdraws-its-takeover-of-the-london-stock-exchange.md)
-_Context: Deutsche Börse, London Stock Exchange_
+_Context: Deutsche Borse, London Stock Exchange_
 
 ### [ Malaysia and Indonesia agree to talks about the border dispute in Borneo over oil resources. Indonesia has deployed military units to the area ](/news/2005/03/7/malaysia-and-indonesia-agree-to-talks-about-the-border-dispute-in-borneo-over-oil-resources-indonesia-has-deployed-military-units-to-the-a.md)
 _Context: Borneo's, Indonesia, Malaysia, oil_
@@ -46,7 +46,7 @@ _Context: Borneo's, Indonesia, Malaysia, oil_
 _Context: European Union, International Women's Day, Istanbul, Turkey, demonstration_
 
 ### [ Momcilo Perisic, former Yugoslavian army general, hands himself in to the United Nations war crimes tribunal in The Hague. He is charged with complicity of Serbian separatist war crimes in Bosnia and Croatia during the Yugoslav Wars. ](/news/2005/03/7/momailo-peria-ia-former-yugoslavian-army-general-hands-himself-in-to-the-united-nations-war-crimes-tribunal-in-the-hague-he-is-charged.md)
-_Context: Bosnia and Herzegovina, Croatia, Momčilo Perišić, Serbia, The Hague, United Nations, Yugoslav Wars, Yugoslavia, separatist, war crime_
+_Context: Bosnia and Herzegovina, Croatia, Momcilo Perisic, Serbia, The Hague, United Nations, Yugoslav Wars, Yugoslavia, separatist, war crime_
 
 ### [ A prison fire in the Dominican Republic claims 134 lives and injured 25. Fire started during a clash of prison gangs ](/news/2005/03/7/a-prison-fire-in-the-dominican-republic-claims-134-lives-and-injured-25-fire-started-during-a-clash-of-prison-gangs.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

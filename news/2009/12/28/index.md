@@ -13,7 +13,7 @@ _Context: China, China's, De Xin Hai, Somalia, Xinhua News Agency_
 _Context: Jiexiu, Shanxi province, Shuangbai County, Yunnan_
 
 ### [ China donates 1.1 million dollars to an irrigation project in Guantanamo Province, Cuba. ](/news/2009/12/28/china-donates-1-1-million-dollars-to-an-irrigation-project-in-guanta-namo-province-cuba.md)
-_Context: China, Cuba, Guantánamo Province_
+_Context: China, Cuba, Guantanamo Province_
 
 ### [ Construction begins on China's largest civil aircraft final assembly base in Shanghai. ](/news/2009/12/28/construction-begins-on-china-s-largest-civil-aircraft-final-assembly-base-in-shanghai.md)
 _Context: China, Shanghai_
@@ -34,13 +34,13 @@ Ireland&#39;s most senior Cardinal, Dr Cahal Daly, is seriously ill in Belfast C
 _Context: Ashura, Karachi, Pakistan, Shia, suicide bombing_
 
 ### [ Russian Prime Minister Vladimir Putin opens the Eastern Siberia - Pacific Ocean oil pipeline. ](/news/2009/12/28/russian-prime-minister-vladimir-putin-opens-the-eastern-siberia-a-pacific-ocean-oil-pipeline.md)
-_Context: Eastern Siberia – Pacific Ocean oil pipeline, Russia, Vladimir Putin_
+_Context: Eastern Siberia - Pacific Ocean oil pipeline, Russia, Vladimir Putin_
 
 ### [ At least 2,000 hectares and 20 homes are destroyed and hundreds of people are evacuated after a suspected arson causes forest fires in Valparaiso, Chile. ](/news/2009/12/28/at-least-2-000-hectares-and-20-homes-are-destroyed-and-hundreds-of-people-are-evacuated-after-a-suspected-arson-causes-forest-fires-in-valp.md)
-_Context: Chile, Valparaíso_
+_Context: Chile, Valparaiso_
 
 ### [ President of Venezuela Hugo Chavez quotes Mary and Karl Marx in a New Year message broadcast by state media, describing an end to the "illusion" of Barack Obama and predicting a global ecological disaster. ](/news/2009/12/28/president-of-venezuela-hugo-cha-vez-quotes-mary-and-karl-marx-in-a-new-year-message-broadcast-by-state-media-describing-an-end-to-the-ill.md)
-_Context: Barack Obama, Hugo Chávez, Karl Marx, Mary, Venezuelan President_
+_Context: Barack Obama, Hugo Chavez, Karl Marx, Mary, Venezuelan President_
 
 ### [ At least 25 people are confirmed wounded after battles over a fatal stabbing between local people and gold miners from Brazil in Albina, Suriname. ](/news/2009/12/28/at-least-25-people-are-confirmed-wounded-after-battles-over-a-fatal-stabbing-between-local-people-and-gold-miners-from-brazil-in-albina-su.md)
 _Context: Albina, Brazil, Suriname_

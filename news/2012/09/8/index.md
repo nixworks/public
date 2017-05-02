@@ -13,7 +13,7 @@ A teenage suicide bomber kills at least six people including a number of childre
 _Context: Arlit, France, Niger, al-Qaeda_
 
 ### [Kim Ki-duk's violent tale ''Pieta'' wins the Golden Lion at the Venice Film Festival. Kim thanks the audience and the jury by singing a song. ](/news/2012/09/8/kim-ki-duk-s-violent-tale-pieta-wins-the-golden-lion-at-the-venice-film-festival-kim-thanks-the-audience-and-the-jury-by-singing-a-son.md)
-_Context: Golden Lion, Kim Ki-duk, Pietà, Venice Film Festival_
+_Context: Golden Lion, Kim Ki-duk, Pieta, Venice Film Festival_
 
 ### [A tractor is hit by a train in central Romania, killing eight passengers in the tractor trailer. ](/news/2012/09/8/a-tractor-is-hit-by-a-train-in-central-romania-killing-eight-passengers-in-the-tractor-trailer.md)
 Eight people were killed and one was severely injured on Saturday in an accident neat Chilieni, Covasna County. A tractor with trailer carrying 12 people was hit by a train. Upon impact, the people in the trailer were thrown 30 meters away. The vehic...

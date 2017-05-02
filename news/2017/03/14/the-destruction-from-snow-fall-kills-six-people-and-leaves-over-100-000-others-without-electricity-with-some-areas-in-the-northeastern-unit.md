@@ -1,6 +1,6 @@
 ### [2017-03-14](/news/2017/03/14/index.md)
 
-# The destruction from snow fall kills six people and leaves over 100,000 others without electricity, with some areas in the Northeastern United States receiving over {{convert|4|feet|meters}} of snow. 
+# The destruction from snow fall kills six people and leaves over 100,000 others without electricity, with some areas in the Northeastern United States receiving over 4|feet|meters of snow. 
 
 Here&#039;s the latest on Winter Storm Stella.
 

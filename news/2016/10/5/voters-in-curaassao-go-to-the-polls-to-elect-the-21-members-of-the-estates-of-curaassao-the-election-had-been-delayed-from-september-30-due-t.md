@@ -11,7 +11,7 @@ WILLEMSTAD – The Supreme Electoral Council (SEC) held its first briefing today
 
 ### Related:
 
-1. [The government of Curacao Prime Minister Ben Whiteman resigns ahead of the Curacao general election on October 5. ](/news/2016/10/4/the-government-of-curaassao-prime-minister-ben-whiteman-resigns-ahead-of-the-curaassao-general-election-on-october-5.md) _Context: Curaçao, Curaçao general election, 2016_
+1. [The government of Curacao Prime Minister Ben Whiteman resigns ahead of the Curacao general election on October 5. ](/news/2016/10/4/the-government-of-curaassao-prime-minister-ben-whiteman-resigns-ahead-of-the-curaassao-general-election-on-october-5.md) _Context: Curacao, Curacao general election, 2016_
 2. [Hurricane Matthew, responsible for killing 13 people and knocking out power to 2.2 million households and businesses in the Southeastern United States, is now a Category 1 hurricane (75 mph;120 km/h winds) approaching the North Carolina coast. ](/news/2016/10/8/hurricane-matthew-responsible-for-killing-13-people-and-knocking-out-power-to-2-2-million-households-and-businesses-in-the-southeastern-uni.md) _Context: Hurricane Matthew_
 3. [Hurricane Matthew hits the southeastern United States as the death toll in Haiti rises to at least 877. ](/news/2016/10/7/hurricane-matthew-hits-the-southeastern-united-states-as-the-death-toll-in-haiti-rises-to-at-least-877.md) _Context: Hurricane Matthew_
 4. [Hurricane Matthew moves towards the United States with hundreds of thousands of people being evacuated from the states of Florida and South Carolina. ](/news/2016/10/6/hurricane-matthew-moves-towards-the-united-states-with-hundreds-of-thousands-of-people-being-evacuated-from-the-states-of-florida-and-south.md) _Context: Hurricane Matthew_

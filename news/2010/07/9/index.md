@@ -19,7 +19,7 @@ Two&#x20;weeks&#x20;after&#x20;the&#x20;sacking&#x20;of&#x20;Stanley&#x20;McChry
 _Context: Guinea, November's presidential poll_
 
 ### [Following the recent parliamentary elections in Slovakia, Iveta Radicova substitutes Robert Fico as Prime Minister, becoming the first female incumbent of the post.](/news/2010/07/9/following-the-recent-parliamentary-elections-in-slovakia-iveta-radiaova-substitutes-robert-fico-as-prime-minister-becoming-the-first-fem.md)
-_Context: Iveta Radičová, Prime Minister, Robert Fico's, Slovakia, parliamentary elections_
+_Context: Iveta Radicova, Prime Minister, Robert Fico's, Slovakia, parliamentary elections_
 
 ### [The United Nations Security Council issues a Presidential Statement condemning the sinking of the South Korean warship ROKS ''Cheonan''. ](/news/2010/07/9/the-united-nations-security-council-issues-a-presidential-statement-condemning-the-sinking-of-the-south-korean-warship-roks-cheonan.md)
 The UN Security Council has condemned a deadly attack on a South Korean warship that killed 46 sailors in March.
@@ -61,7 +61,7 @@ Chinese officials seize dairy material tainted with the toxic chemical melamine,
 The Iranian authorities say a woman convicted of adultery, Sakineh Mohammadi Ashtiani, will not be stoned to death.
 
 ### [Salman Hossain, a Bangladeshi immigrant to Canada, is charged with online advocation of genocide against Canadian Jews. ](/news/2010/07/9/salman-hossain-a-bangladeshi-immigrant-to-canada-is-charged-with-online-advocation-of-genocide-against-canadian-jews.md)
-_Context: Bangladesh, Canadian, Canadian Jews, Immigration to Canada, genocide_
+_Context: Bangladesh, Canada, Canadian Jews, Immigration to Canada, genocide_
 
 ### [A painting in a Johannesburg shopping centre depicting an autopsy on the corpse of Nelson Mandela surrounded by nosy world leaders attracts controversy as the topic of Mandela's eventual death is taboo in South Africa. ](/news/2010/07/9/a-painting-in-a-johannesburg-shopping-centre-depicting-an-autopsy-on-the-corpse-of-nelson-mandela-surrounded-by-nosy-world-leaders-attracts.md)
 _Context: Johannesburg, Nelson Mandela, South Africa_

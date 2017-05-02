@@ -13,7 +13,7 @@ _Context: Aaron Porter, England, Manchester, student leader_
 _Context: Domodedovo International Airport, Moscow, Russia, bombing_
 
 ### [War in Afghanistan (2001-present):Abdul Latif Ashna, the deputy governor of Afghanistan's Kandahar Province, is killed in a suicide attack. ](/news/2011/01/29/war-in-afghanistan-2001apresent-pabdul-latif-ashna-the-deputy-governor-of-afghanistan-s-kandahar-province-is-killed-in-a-suicide-attac.md)
-_Context: Afghanistan, Kandahar Province, War in Afghanistan (2001–present)_
+_Context: Afghanistan, Kandahar Province, War in Afghanistan (2001-present)_
 
 ### [Clashes between rebels and government forces in Somalia leave several civilians dead in the capital Mogadishu. ](/news/2011/01/29/clashes-between-rebels-and-government-forces-in-somalia-leave-several-civilians-dead-in-the-capital-mogadishu.md)
 _Context: Mogadishu, Somalia_

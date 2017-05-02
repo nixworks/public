@@ -34,7 +34,7 @@ _Context: Afghanistan, Kabul, Taliban, woman accused of adultery_
 _Context: Fishers, Indiana, Greater Indianapolis, Greenfield, Indiana, child neglect, current U.S. heat wave_
 
 ### [Tens of thousands of people demonstrate in Mexico City over alleged vote buying in the country's presidential election, which saw Enrique Pena Nieto elected. ](/news/2012/07/8/tens-of-thousands-of-people-demonstrate-in-mexico-city-over-alleged-vote-buying-in-the-country-s-presidential-election-which-saw-enrique-pe.md)
-_Context: Enrique Peña Nieto, Mexican presidential elections, Mexico City_
+_Context: Enrique Pena Nieto, Mexican presidential elections, Mexico City_
 
 ### [Cambodian health officials identify Enterovirus 71 as a possible cause for an outbreak in which at least 64 children have died. ](/news/2012/07/8/cambodian-health-officials-identify-enterovirus-71-as-a-possible-cause-for-an-outbreak-in-which-at-least-64-children-have-died.md)
 _Context: Cambodia, Enterovirus 71_

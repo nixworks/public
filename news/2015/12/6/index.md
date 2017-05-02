@@ -43,7 +43,7 @@ _Context: Athens, Greek police_
 President Obama on Sunday called the San Bernardino massacre &quot;an act of terrorism designed to kill innocent people.&quot; 
 
 ### [Venezuelan opposition leaders say their Democratic Unity Roundtable  has won control of the 167-seat legislature from the ruling Socialists for the first time since 1998.  There is no confirmation on Sunday's election from the national electoral board. An opposition victory would be a major setback for the socialist revolution started 17 years ago by the late Hugo Chavez. ](/news/2015/12/6/venezuelan-opposition-leaders-say-their-democratic-unity-roundtable-has-won-control-of-the-167-seat-legislature-from-the-ruling-socialists.md)
-_Context: Democratic Unity Roundtable, Hugo Chávez, National Assembly, United Social Party of Venezuela, Venezuela, landslide victory in the December 6 election_
+_Context: Democratic Unity Roundtable, Hugo Chavez, National Assembly, United Social Party of Venezuela, Venezuela, landslide victory in the December 6 election_
 
 ### [Voters in Armenia go to the polls to vote in a referendum to change from a presidential to a parliamentary form of government. ](/news/2015/12/6/voters-in-armenia-go-to-the-polls-to-vote-in-a-referendum-to-change-from-a-presidential-to-a-parliamentary-form-of-government.md)
 _Context: Armenia, referendum_

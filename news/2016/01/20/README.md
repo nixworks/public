@@ -13,7 +13,7 @@ The Isis jihadist group has completely destroyed a 1,400-year-old Christian mona
 _Context: Kyrgyzstan_
 
 ### [Moldova's parliament approves a new government despite ongoing protests calling for snap elections. ](/news/2016/01/20/moldova-s-parliament-approves-a-new-government-despite-ongoing-protests-calling-for-snap-elections.md)
-_Context: 2015–16 protests in Moldova, Moldova, Parliament_
+_Context: 2015-16 protests in Moldova, Moldova, Parliament_
 
 ### [NASA and the National Oceanic and Atmospheric Administration announce that 2015 was the hottest year on record since the beginning of meteorological records in 1890. ](/news/2016/01/20/nasa-and-the-national-oceanic-and-atmospheric-administration-announce-that-2015-was-the-hottest-year-on-record-since-the-beginning-of-meteor.md)
 _Context: NASA, National Oceanic and Atmospheric Administration_

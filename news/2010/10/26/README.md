@@ -16,7 +16,7 @@ _Context: Emperor of Exmoor, Great Britain, red deer_
 _Context: ''The Hobbit'' film project, New Zealand Government, Warner Bros._
 
 ### [The Shanghai-Hangzhou High-Speed Railway, with a top speed of 355 km/h begins operation. ](/news/2010/10/26/the-shanghaiahangzhou-high-speed-railway-with-a-top-speed-of-355-km-h-begins-operation.md)
-_Context: Shanghai–Hangzhou High-Speed Railway_
+_Context: Shanghai-Hangzhou High-Speed Railway_
 
 ### [The water level of the Three Gorges Dam, the world's largest water control and utilization project, reaches its designed full capacity mark. ](/news/2010/10/26/the-water-level-of-the-three-gorges-dam-the-world-s-largest-water-control-and-utilization-project-reaches-its-designed-full-capacity-mark.md)
 _Context: Three Gorges Dam, world's largest water control and utilization project_

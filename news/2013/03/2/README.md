@@ -4,7 +4,7 @@
 _Context: 2013 Bangladesh protests, Bangladesh, Delwar Hossain Sayeedi_
 
 ### [Northern Mali conflict:Chadian soldiers kill Mokhtar Belmokhtar, an al-Qaeda commander in Africa responsible for a mass hostage-taking at an Algerian gas plant. ](/news/2013/03/2/northern-mali-conflict-pchadian-soldiers-kill-mokhtar-belmokhtar-an-al-qaeda-commander-in-africa-responsible-for-a-mass-hostage-taking-at-a.md)
-_Context: Africa, Algeria, Chad, Military, Mokhtar Belmokhtar, Northern Mali conflict (2012–present), al-Qaeda, mass hostage-taking_
+_Context: Africa, Algeria, Chad, Military, Mokhtar Belmokhtar, Northern Mali conflict (2012-present), al-Qaeda, mass hostage-taking_
 
 ### [South Thailand insurgency:Suspected insurgents detonate a motorcycle bomb in Southern Thailand killing 2 Thai Military rangers and wounding 11 people. ](/news/2013/03/2/south-thailand-insurgency-psuspected-insurgents-detonate-a-motorcycle-bomb-in-southern-thailand-killing-2-thai-military-rangers-and-wounding.md)
 Suspected insurgents detonated a motorcycle bomb in southern Thailand on Saturday, killing two military rangers and wounding 11 people, the second serious attack in as many days after one of the Muslim rebel groups operating in the area agreed to hold peace talks.
@@ -25,7 +25,7 @@ _Context: California, Lindsay Lohan, judge_
 The popular multi-platform, note-taking web application Evernote has had its master website hacked — and you must change your password before you can use it.
 
 ### [El Clasico: Real Madrid defeat rivals FC Barcelona 2-1 in the 2012-13 La Liga match. Sergio Ramos scores winning goal. ](/news/2013/03/2/el-cla-sico-real-madrid-defeat-rivals-fc-barcelona-2a1-in-the-2012a13-la-liga-match-sergio-ramos-scores-winning-goal.md)
-_Context: 2012–13 La Liga, El Clásico, FC Barcelona, Real Madrid, Sergio Ramos_
+_Context: 2012-13 La Liga, El Clasico, FC Barcelona, Real Madrid, Sergio Ramos_
 
 ### [The 1,000 mile 2013 Iditarod Trail Sled Dog Race begins in Anchorage, Alaska, United States. The winner of the race will get a new truck and $50,400. ](/news/2013/03/2/the-1-000-mile-2013-iditarod-trail-sled-dog-race-begins-in-anchorage-alaska-united-states-the-winner-of-the-race-will-get-a-new-truck-and.md)
 _Context: Alaska, Anchorage, Alaska, Iditarod Trail Sled Dog Race, United States, truck_

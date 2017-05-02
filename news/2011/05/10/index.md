@@ -31,7 +31,7 @@ _Context: Albert Einstein, Dover, Liverpool, Merseyside Maritime Museum, Nazi Ge
 The Presbyterian Church (U.S.A.) has voted to change its constitution and allow openly gay people in same-sex relationships to be ordained as ministers, elders and deacons.
 
 ### [Ivory Coast resumes exports of cocoa after a political crisis and brief civil war. ](/news/2011/05/10/ivory-coast-resumes-exports-of-cocoa-after-a-political-crisis-and-brief-civil-war.md)
-_Context: 2010–2011 Ivorian crisis, Ivory Coast, cocoa_
+_Context: 2010-2011 Ivorian crisis, Ivory Coast, cocoa_
 
 ### [Wayne Swan, the Treasurer of Australia, will deliver his fourth budget. ](/news/2011/05/10/wayne-swan-the-treasurer-of-australia-will-deliver-his-fourth-budget.md)
 _Context: Treasurer of Australia, Wayne Swan_

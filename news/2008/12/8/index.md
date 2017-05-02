@@ -10,7 +10,7 @@ _Context: AIDS, Moscow, Vasily Aleksanyan, Yukos, bail, lymphoma, ruble, tubercu
 _Context: California, F/A-18 Hornet, Marine Corps Air Station Miramar, San Diego, United States Marine Corps, University City, crashes_
 
 ### [ 2008 Canadian parliamentary dispute: Stphane Dion announces his plans to resign as leader of the Liberal Party of Canada. ](/news/2008/12/8/2008-canadian-parliamentary-dispute-stephane-dion-announces-his-plans-to-resign-as-leader-of-the-liberal-party-of-canada.md)
-_Context: Liberal Party's, Stéphane Dion, proposed opposition coalition_
+_Context: Liberal Party's, Stphane Dion, proposed opposition coalition_
 
 ### [ The Tribune Company files for Chapter 11 bankruptcy. ](/news/2008/12/8/the-tribune-company-files-for-chapter-11-bankruptcy.md)
 In perhaps the starkest sign yet of trouble in the news business, media giant Tribune Co. -- owner of the Los Angeles Times, KTLA-TV Channel 5 and other newspapers and TV stations -- filed Monday...
@@ -22,7 +22,7 @@ Eleven Egyptians were killed and 30 injured when their bus overturned during a c
 _Context: Khalid Sheikh Mohammed, September 11 attacks, military base at Guantanamo Bay, military commission_
 
 ### [ Quebec general election, 2008:  Premier Jean Charest leads the Liberal Party to a third mandate and a majority government.  Pauline Marois's Parti Qubcois recovers and becomes the Official Opposition.  Support for the ADQ collapses: it loses more than 30 seats and leader Mario Dumont announces his resignation.  Qubec Solidaire scores its first election victory, electing party co-leader Amir Khadir. ](/news/2008/12/8/quebec-general-election-2008-p-premier-jean-charest-leads-the-liberal-party-to-a-third-mandate-and-a-majority-government-p-pauline-maroi.md)
-_Context: ADQ, Amir Khadir, Jean Charest, Liberal Party, Mario Dumont, Official Opposition, Parti Québécois, Pauline Marois, Quebec general election, 2008, Québec Solidaire, premier of Quebec_
+_Context: ADQ, Amir Khadir, Jean Charest, Liberal Party, Mario Dumont, Official Opposition, Parti Qubcois, Pauline Marois, Qubec Solidaire, Quebec general election, 2008, premier of Quebec_
 
 ## [Previous Day...](/news/2008/12/7/index.md)
 

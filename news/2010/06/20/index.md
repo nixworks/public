@@ -10,7 +10,7 @@ _Context: 2010 U.S. Open, California, Graeme McDowell, Northern Ireland, Pebble 
 Germany sharply criticized Israel on Sunday for denying its development minister entry to the Gaza Strip to visit a humanitarian project co-funded by Berlin.
 
 ### [In Poland, presidential elections take place after the death of President Lech Kaczynski on April 10, 2010 in a plane crash. ](/news/2010/06/20/in-poland-presidential-elections-take-place-after-the-death-of-president-lech-kaczyaski-on-april-10-2010-in-a-plane-crash.md)
-_Context: 2010 Polish Air Force Tu-154 crash, Lech Kaczyński, Poland, Polish presidential election, 2010, President of Poland, the death_
+_Context: 2010 Polish Air Force Tu-154 crash, Lech Kaczynski, Poland, Polish presidential election, 2010, President of Poland, the death_
 
 ### [Colombian presidential election, 2010:In the runoff of the presidential elections in Colombia, Juan Manuel Santos from the Party of the U defeats his Green Party adversary Antanas Mockus, getting around 70% of the votes. ](/news/2010/06/20/colombian-presidential-election-2010-pin-the-runoff-of-the-presidential-elections-in-colombia-juan-manuel-santos-from-the-party-of-the-u-d.md)
 _Context: Antanas Mockus, Colombian presidential election, Green Party, Juan Manuel Santos, Party of the U_

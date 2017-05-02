@@ -7,7 +7,7 @@ _Context: (Wikinews), Finland, Iraq_
 _Context: Beijing Olympiad, China's, Human rights, Yang Chunlin, open letter_
 
 ### [ Panama begins work on its PS2.7 billion Panama Canal expansion project. ](/news/2007/09/3/panama-begins-work-on-its-aps2-7-billion-panama-canal-expansion-project.md)
-_Context: Panama, expanded, £_
+_Context: PS, Panama, expanded_
 
 ### [ Six expatriate judges resign from the Fijian legal system following disagreements with the military-appointed acting Chief Justice Anthony Gates. ](/news/2007/09/3/six-expatriate-judges-resign-from-the-fijian-legal-system-following-disagreements-with-the-military-appointed-acting-chief-justice-anthony.md)
 _Context: Anthony Gates, Chief Justice, Fiji, judge_
@@ -22,7 +22,7 @@ _Context: Chile, Free Trade Agreement, Japan_
 _Context: Arcelor, ArcelorMittal, Europe, Mittal Steel, steel, stock exchange_
 
 ### [ Tomas Medina Caracas (known by his nom de guerre "Negro Acacio"), one of FARC's most important leaders and the liaison between this Colombian guerrilla and Brazilian drug dealers, is killed in action by Colombian armed forces in Guaviare. ](/news/2007/09/3/toma-s-medina-caracas-known-by-his-nom-de-guerre-negro-acacio-one-of-farc-s-most-important-leaders-and-the-liaison-between-this-colomb.md)
-_Context: Brazil, Colombia, FARC, Guaviare, Tomás Medina Caracas, anti-drug plan, guerrilla, military, nom de guerre_
+_Context: Brazil, Colombia, FARC, Guaviare, Tomas Medina Caracas, anti-drug plan, guerrilla, military, nom de guerre_
 
 ### [ The Israeli Defense Forces announce plans for a force upgrade following problems in the 2006 Lebanon War and a perceived threat from Iran. ](/news/2007/09/3/the-israeli-defense-forces-announce-plans-for-a-force-upgrade-following-problems-in-the-2006-lebanon-war-and-a-perceived-threat-from-iran.md)
 _Context: Iran, Israeli Defense Forces, Israeli-Lebanese war of 2006_
@@ -67,7 +67,7 @@ _Context: Jamaica, Jamaican general election, 2007_
 _Context: Japan, Takehiko Endo_
 
 ### [  Hurricane Felix reaches Category 5 strength as it heads towards  Honduras issues a hurricane warning for an area from Limon on the north coast to the border with Nicaragua. The Bay Islands are placed on red alert, and the departments of Gracias a Dios, Colon, Atlantida, Olancho, Cortes and Yoro are placed on yellow alert. ](/news/2007/09/3/hurricane-felix-reaches-category-5-strength-as-it-heads-towards-honduras-issues-a-hurricane-warning-for-an-area-from-lima3n-on-the-north.md)
-_Context: (Wikinews), Atlántida, Bay Islands, Colón, Cortés, Gracias a Dios, Honduran, Hurricane Felix, Limón, Nicaragua, Olancho, Saffir-Simpson Hurricane Scale, Yoro_
+_Context: (Wikinews), Atlantida, Bay Islands, Colon, Cortes, Gracias a Dios, Honduran, Hurricane Felix, Limon, Nicaragua, Olancho, Saffir-Simpson Hurricane Scale, Yoro_
 
 ## [Previous Day...](/news/2007/09/2/index.md)
 

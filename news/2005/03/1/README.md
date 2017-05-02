@@ -10,7 +10,7 @@ _Context: Bangladesh, sedition_
 _Context: Burundi, civil war, constitution, referendum_
 
 ### [ Canada deports Holocaust denier Ernst Zndel to Germany, where he is arrested ](/news/2005/03/1/canada-deports-holocaust-denier-ernst-zundel-to-germany-where-he-is-arrested.md)
-_Context: Canadian, Ernst Zündel, Holocaust denial_
+_Context: Canada, Ernst Zndel, Holocaust denial_
 
 ### [ In the Democratic Republic of Congo, militia leader Floribert Ndjabu of Nationalist and Integrationist Front is reportedly arrested for the killing of nine Bangladeshi UN peacekeepers last week ](/news/2005/03/1/in-the-democratic-republic-of-congo-militia-leader-floribert-ndjabu-of-nationalist-and-integrationist-front-is-reportedly-arrested-for-the.md)
 _Context: Bangladesh, Democratic Republic of Congo, Floribert Ndjabu, Nationalist and Integrationist Front, United Nations_
@@ -46,7 +46,7 @@ _Context: Ashgabat, Saparmurat Niyazov, Turkmenistan_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ In Uruguay, Dr. Tabar Vzquez, the first leftist president in the country's 180-year history, takes office, announces his cabinet and restores diplomatic relations with Cuba.  ](/news/2005/03/1/in-uruguay-dr-tabare-vazquez-the-first-leftist-president-in-the-country-s-180-year-history-takes-office-announces-his-cabinet-and-rest.md)
-_Context: Cuba, Leftist, President, Tabaré Vázquez, Uruguay, diplomatic relations, forming a government_
+_Context: Cuba, Leftist, President, Tabar Vzquez, Uruguay, diplomatic relations, forming a government_
 
 ### [ In a major change to capital punishment in the United States, by a closely-divided vote, the US Supreme Court rules, in Roper v. Simmons, that imposition of the death penalty on persons convicted of capital crimes committed before they were 18 is unconstitutional. ](/news/2005/03/1/in-a-major-change-to-capital-punishment-in-the-united-states-by-a-closely-divided-vote-the-us-supreme-court-rules-in-roper-v-simmons-t.md)
 _Context: Capital punishment in the United States, Roper v. Simmons, US Supreme Court, capital crime, death penalty_

@@ -4,7 +4,7 @@
 _Context: Booker Prize, Yann Martel_
 
 ### [ The German Bundestag made Gerhard Schrder again Chancellor. He was elected with 305 votes, one vote out of the 306 red-green coalition missing. After that, the new ministers of the Bundesregierung were appointed.](/news/2002/10/22/the-german-bundestag-made-gerhard-schroder-again-chancellor-he-was-elected-with-305-votes-one-vote-out-of-the-306-red-green-coalition-mis.md)
-_Context: Bundesregierung, Bundestag, Chancellor, Gerhard Schröder_
+_Context: Bundesregierung, Bundestag, Chancellor, Gerhard Schrder_
 
 ## [Previous Day...](/news/2002/10/21/index.md)
 

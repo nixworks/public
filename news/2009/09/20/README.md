@@ -13,10 +13,10 @@ Ivory Coast residents to give up claims against Trafigura under $50m deal, firm 
 _Context: Sa'dah, Shi'ite, Yemen_
 
 ### [ In Havana's Plaza de la Revolucin, Juanes, Silvio Rodrguez and Miguel Bos headline Cuba's largest open-air concert since the 1959 Revolution. ](/news/2009/09/20/in-havana-s-plaza-de-la-revolucion-juanes-silvio-rodriguez-and-miguel-bose-headline-cuba-s-largest-open-air-concert-since-the-1959-revolu.md)
-_Context: Cuba, Cuban Revolution, Havana, Juanes, Miguel BosÈ, Plaza de la RevoluciÛn, Silvio RodrÌguez_
+_Context: Cuba, Cuban Revolution, Havana, Juanes, Miguel Bos, Plaza de la Revolucin, Silvio Rodrguez_
 
 ### [ Colombian President lvaro Uribe eases the terms for the release of 24 police and soldiers being held by Marxist FARC rebels. ](/news/2009/09/20/colombian-president-alvaro-uribe-eases-the-terms-for-the-release-of-24-police-and-soldiers-being-held-by-marxist-farc-rebels.md)
-_Context: Colombia, Colombian President, Marx, Revolutionary Armed Forces of Colombia, √Ålvaro Uribe_
+_Context: Alvaro Uribe, Colombia, Colombian President, Marx, Revolutionary Armed Forces of Colombia_
 
 ### [ Democratic Republic of Congo transfers Grgoire Ndahimana to the International Criminal Tribunal for Rwanda (ICTR) to stand trial for the massacre of at least 2,000 Rwandan Tutsis during the 1994 genocide. ](/news/2009/09/20/democratic-republic-of-congo-transfers-gregoire-ndahimana-to-the-international-criminal-tribunal-for-rwanda-ictr-to-stand-trial-for-the-m.md)
 Democratic Republic of Congo transferred to the International Criminal Tribunal for Rwanda (ICTR) Sunday a man accused of the massacre of at least 2,000 Rwandan Tutsis during the 1994 genocide.

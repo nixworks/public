@@ -1,10 +1,10 @@
 ## [2005-04-24](/news/2005/04/24/index.md)
 
 ### [ About 1 million people march silently through Mexico City in support of the capital's embattled mayor, Andrs Manuel Lpez Obrador. ](/news/2005/04/24/about-1-million-people-march-silently-through-mexico-city-in-support-of-the-capital-s-embattled-mayor-andres-manuel-lopez-obrador.md)
-_Context: Andrés Manuel López Obrador, Mexico City_
+_Context: Andrs Manuel Lpez Obrador, Mexico City_
 
 ### [ Togolese presidential election, 2005: Three killed, amid claims of fraud in tense election in Togo to choose the successor to President Gnassingb Eyadma, hardline ruler for 38 years, from amongst Faure Gnassingb, the 39-year-old son of the late leader, and several challengers led by Emmanuel Bob-Akitani. ](/news/2005/04/24/togolese-presidential-election-2005-three-killed-amid-claims-of-fraud-in-tense-election-in-togo-to-choose-the-successor-to-president-gna.md)
-_Context: Emmanuel Bob-Akitani, Faure Gnassingbé, Gnassingbé Eyadéma, President, Togo, Togolese presidential election, election, fraud_
+_Context: Emmanuel Bob-Akitani, Faure Gnassingb, Gnassingb Eyadma, President, Togo, Togolese presidential election, election, fraud_
 
 ### [ Leaders of Asian and African countries celebrate the 50th anniversary of Bandung Conference.   ](/news/2005/04/24/leaders-of-asian-and-african-countries-celebrate-the-50th-anniversary-of-bandung-conference.md)
 _Context: Africa, Asia, Bandung Conference_

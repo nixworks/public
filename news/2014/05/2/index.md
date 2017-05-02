@@ -4,7 +4,7 @@
 Opposition fighters are to be allowed to withdraw from besieged parts of the Syrian city of Homs under a deal with the government, reports say.
 
 ### [Post-coup unrest in Egypt (Sinai insurgency):Attacks by suicide bombers on a security checkpoint and a civilian bus in Egypt's Sinai Peninsula as well as a separate bombing near a courthouse in Cairo killed at least four people. ](/news/2014/05/2/post-coup-unrest-in-egypt-sinai-insurgency-pattacks-by-suicide-bombers-on-a-security-checkpoint-and-a-civilian-bus-in-egyptas-sinai-peni.md)
-_Context: Cairo, Egypt, Post-coup unrest in Egypt (2013–14), Sinai, Sinai insurgency_
+_Context: Cairo, Egypt, Post-coup unrest in Egypt (2013-14), Sinai, Sinai insurgency_
 
 ### [At least nine students are killed in protests in Ethiopia's Oromia Region. ](/news/2014/05/2/at-least-nine-students-are-killed-in-protests-in-ethiopia-s-oromia-region.md)
 _Context: Ethiopia, Oromia Region_

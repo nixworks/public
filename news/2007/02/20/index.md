@@ -43,7 +43,7 @@ _Context: Indonesia, earthquake, tsunami_
 _Context: $, Nissan Diesel, Volvo AB_
 
 ### [ NATO troops in Bosnia-Herzegovina carry out early morning raids on the houses of the children of convicted war criminal Radovan Karadzic. ](/news/2007/02/20/nato-troops-in-bosnia-herzegovina-carry-out-early-morning-raids-on-the-houses-of-the-children-of-convicted-war-criminal-radovan-karada3-4ia.md)
-_Context: Bosnia-Herzegovina, NATO, Radovan Karadžić, war criminal_
+_Context: Bosnia-Herzegovina, NATO, Radovan Karadzic, war criminal_
 
 ### [ Vice President of the United States Dick Cheney visits Japan to discuss regional security issues and Iraq. ](/news/2007/02/20/vice-president-of-the-united-states-dick-cheney-visits-japan-to-discuss-regional-security-issues-and-iraq.md)
 _Context: Dick Cheney, Iraq, Japan, U.S. Vice President_

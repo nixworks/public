@@ -19,7 +19,7 @@ _Context: Islamabad, Malik Mumtaz Hussain Qadri, Pakistan, Pakistani Punjab gove
 A man in the US state of Texas has his robbery conviction overturned on DNA evidence after serving 30 years in jail.
 
 ### [The Economic Community of West African States says the situation in Cote d'Ivoire is still in a "stalemate", amid the threat of force to remove Laurent Gbagbo. ](/news/2011/01/4/the-economic-community-of-west-african-states-says-the-situation-in-ca-te-d-ivoire-is-still-in-a-stalemate-amid-the-threat-of-force-to-re.md)
-_Context: Côte d'Ivoire, ECOWAS, Laurent Gbagbo_
+_Context: Cote d'Ivoire, ECOWAS, Laurent Gbagbo_
 
 ### [Sudanese President Omar al-Bashir goes to Juba to meet with Southern Sudanese President of the Government Salva Kiir Mayardit ahead of Southern Sudan's independence referendum. ](/news/2011/01/4/sudanese-president-omar-al-bashir-goes-to-juba-to-meet-with-southern-sudanese-president-of-the-government-salva-kiir-mayardit-ahead-of-south.md)
 Visiting Sudanese President Omar al-Bashir reassures Southern Sudan he will help it even if it votes to secede in a referendum on Sunday.

@@ -10,10 +10,10 @@ _Context: Egypt, Sinai, Sinai insurgency_
 _Context: Alturas, California, Native American_
 
 ### [Princess Madeleine, Duchess of Hlsingland and Gstrikland, gives birth to a healthy girl in New York's Weill Cornell Medical Center. [http://www.theguardian.com/world/2014/feb/21/sweden-princess-madeleine-gives-birth-daughter]](/news/2014/02/20/princess-madeleine-duchess-of-halsingland-and-gastrikland-gives-birth-to-a-healthy-girl-in-new-york-s-weill-cornell-medical-center-http.md)
-_Context: New York's, Princess Madeleine, Duchess of Hälsingland and Gästrikland, Weill Cornell Medical Center, healthy girl_
+_Context: New York's, Princess Madeleine, Duchess of Hlsingland and Gstrikland, Weill Cornell Medical Center, healthy girl_
 
 ### [Mexican authorities arrest Jess Pea (alias "El 20"), the leader of Los ntrax, an armed squadron of the Sinaloa Cartel. Pea was part of Ismael "El Mayo" Zambada's inner circle and the successor of El Chino ntrax. ](/news/2014/02/20/mexican-authorities-arrest-jesus-pena-alias-el-20-the-leader-of-los-antrax-an-armed-squadron-of-the-sinaloa-cartel-pena-was-part-of-i.md)
-_Context: Ismael "El Mayo" Zambada, José Rodrigo Aréchiga Gamboa, Los Ántrax, Sinaloa Cartel_
+_Context: Ismael "El Mayo" Zambada, Jos Rodrigo Archiga Gamboa, Los ntrax, Sinaloa Cartel_
 
 ### [Louie Sanchez and Marvin Norwood are sentenced to eight years in prison for the 2011 beating of Bryan Stow. ](/news/2014/02/20/louie-sanchez-and-marvin-norwood-are-sentenced-to-eight-years-in-prison-for-the-2011-beating-of-bryan-stow.md)
 Two men charged in the beating of a San Francisco Giants fan pleaded guilty Thursday and accepted plea deals in the March 2011 opening day attack.

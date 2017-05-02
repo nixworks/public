@@ -7,7 +7,7 @@ _Context: Korean maritime border incidents, North Korea, South Korea_
 _Context: Kenya, Nairobi_
 
 ### [The Mexican Navy kills Knights Templar Cartel high-ranking leader Enrique Plancarte Sols. ](/news/2014/03/31/the-mexican-navy-kills-knights-templar-cartel-high-ranking-leader-enrique-plancarte-solis.md)
-_Context: Enrique Plancarte Solís, Knights Templar Cartel, Mexican Drug War, Mexican Navy_
+_Context: Enrique Plancarte Sols, Knights Templar Cartel, Mexican Drug War, Mexican Navy_
 
 ### [''How I Met Your Mother'' airs its final episode. ](/news/2014/03/31/how-i-met-your-mother-airs-its-final-episode.md)
 CBS has set an earlier-than-expected series finale date for laffer &#8220;How I Met Your Mother,&#8221; and will use the show to launch new comedy &#8220;Friends With Better Lives.&#8221; The hourlâ€¦

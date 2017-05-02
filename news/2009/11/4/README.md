@@ -6,7 +6,7 @@ _Context: New York Yankees, Philadelphia Phillies, baseball world series_
 ### [ Rebel Houthis in Yemen cross the border into Saudi Arabia, killing a Saudi security officer and injuring 11 others. ](/news/2009/11/4/rebel-houthis-in-yemen-cross-the-border-into-saudi-arabia-killing-a-saudi-security-officer-and-injuring-11-others.md)
 _Context: Houthi, Saudi Arabia, Shia insurgency in Yemen, Yemen_
 
-### [ The Israeli navy intercepts the {{MV|Francop}}, a ship alleging to have Iranian weapons bound for Hezbollah in Lebanon. ](/news/2009/11/4/the-israeli-navy-intercepts-the-mv-francop-a-ship-alleging-to-have-iranian-weapons-bound-for-hezbollah-in-lebanon.md)
+### [ The Israeli navy intercepts the Francop, a ship alleging to have Iranian weapons bound for Hezbollah in Lebanon. ](/news/2009/11/4/the-israeli-navy-intercepts-the-francop-a-ship-alleging-to-have-iranian-weapons-bound-for-hezbollah-in-lebanon.md)
 The Israeli navy yesterday seized a ship carrying what defence officials said was five hundred tons of Iranian-supplied weapons bound for Hizbollah guerrillas in Lebanon, including - New Zealand Herald
 
 ### [ The Cambodian government announces that ousted Prime Minister of Thailand Thaksin Shinawatra has been appointed as a government adviser. ](/news/2009/11/4/the-cambodian-government-announces-that-ousted-prime-minister-of-thailand-thaksin-shinawatra-has-been-appointed-as-a-government-adviser.md)

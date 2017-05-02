@@ -4,7 +4,7 @@
 Bomb blasts in the Syrian cities of Homs and Damascus have killed at least 140 people, monitors and state media say.
 
 ### [The Libyan National Army says it has taken control of the town of Ajdabiya and several areas of Benghazi following heavy clashes with Islamist militant groups. ](/news/2016/02/21/the-libyan-national-army-says-it-has-taken-control-of-the-town-of-ajdabiya-and-several-areas-of-benghazi-following-heavy-clashes-with-islami.md)
-_Context: Ajdabiya, Benghazi, Libyan Civil War (2014–present), Libyan National Army, radical Islamists_
+_Context: Ajdabiya, Benghazi, Libyan Civil War (2014-present), Libyan National Army, radical Islamists_
 
 ### [A group of Islamic terrorists exchange fire with Indian Armed Forces troops for the second consecutive day in Pampore, Jammu and Kashmir, India. At least five soldiers and one civilian have been killed. ](/news/2016/02/21/a-group-of-islamic-terrorists-exchange-fire-with-indian-armed-forces-troops-for-the-second-consecutive-day-in-pampore-jammu-and-kashmir-in.md)
 Indian army troops have encircled militants in a government-run training institute south of the capital of Indian-administered Kashmir.
@@ -19,13 +19,13 @@ The so-called Islamic State group says it is responsible for decapitating a seni
 _Context: Afghanistan, European migrant crisis, Greece, Macedonian_
 
 ### [Germany is considering sending troops to Tunisia to help train the Tunisian Army in the fight against Islamist militants, particularly ISIL who control territory in neighboring Libya. ](/news/2016/02/21/germany-is-considering-sending-troops-to-tunisia-to-help-train-the-tunisian-army-in-the-fight-against-islamist-militants-particularly-isil.md)
-_Context: Germany, ISIL, Insurgency in the Maghreb (2002–present), Libya, Tunisia, army, radical Islamists_
+_Context: Germany, ISIL, Insurgency in the Maghreb (2002-present), Libya, Tunisia, army, radical Islamists_
 
 ### [U.S. Secretary of State John Kerry says  a tentative  ceasefire agreement  reached with Russian Foreign Minister Sergey Lavrov  is now being presented  to the opposing forces. ](/news/2016/02/21/u-s-secretary-of-state-john-kerry-says-a-tentative-ceasefire-agreement-reached-with-russian-foreign-minister-sergey-lavrov-is-now-being.md)
 Explosions rip through Homs and Damascus suburb as world leaders attempt to get all warring parties to end hostilities for a bit
 
 ### [Thousands protest outside the Japanese parliament in Tokyo against the  relocation of a U.S. military base on Okinawa Island. Residents cite noise, pollution, and crime as reasons for not wanting a new base built. ](/news/2016/02/21/thousands-protest-outside-the-japanese-parliament-in-tokyo-against-the-relocation-of-a-u-s-military-base-on-okinawa-island-residents-cite.md)
-_Context: Japan, Japan–United States relations, Okinawa Island, Tokyo, U.S. military base, parliament_
+_Context: Japan, Japan-United States relations, Okinawa Island, Tokyo, U.S. military base, parliament_
 
 ### [Kalamazoo County, Michigan authorities say last evening's shooting spree resulted in six deaths with two others seriously wounded. Each victim was shot multiple times. Police acknowledge that an earlier report that a 14-year-old girl died is incorrect; she is alive, but  "severely, gravely" injured. The suspect, a 45-year-old man who is a Uber driver without a prior criminal record,  was taken into custody without a struggle. ](/news/2016/02/21/kalamazoo-county-michigan-authorities-say-last-evening-s-shooting-spree-resulted-in-six-deaths-with-two-others-seriously-wounded-each-vict.md)
 Jason Dalton, 45, is in custody following the string of apparently random shootings.

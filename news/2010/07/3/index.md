@@ -37,7 +37,7 @@ _Context: Guinea, November's presidential poll_
 Former Argentine military ruler Jorge Videla goes on trial for the murder of more than 30 political prisoners in 1976.
 
 ### [United States Republican Party chairman Michael Steele is heavily criticised by members of his own party and by members of the Democratic Party for saying America's war in Afghanistan is "a war of Obama's choosing". ](/news/2010/07/3/united-states-republican-party-chairman-michael-steele-is-heavily-criticised-by-members-of-his-own-party-and-by-members-of-the-democratic-pa.md)
-_Context: Barack Obama, Democrat, Michael Steele, Republican, United States_
+_Context: Barack Obama, Democratic, Michael Steele, Republican, United States_
 
 ### [Serena Williams beats Vera Zvonareva 6-3, 6-2 to win her fourth Wimbledon women's singles title. ](/news/2010/07/3/serena-williams-beats-vera-zvonareva-6a3-6a2-to-win-her-fourth-wimbledon-women-s-singles-title.md)
 _Context: Serena Williams, Vera Zvonareva, Wimbledon Championships_

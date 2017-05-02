@@ -43,7 +43,7 @@ _Context: Swiss, Swiss referendums, 2016, basic income, francs, referenda_
 SAN JUAN, Puerto Rico (AP) — Hillary Clinton overwhelmed Bernie Sanders in Puerto Rico&#039;s Democratic presidential primary on Sunday, putting her within striking distance of capturing her party&#039;s nomination. After a blowout…
 
 ### [Novak Djokovic tops Andy Murray to win the French Open men's championship. This completes his non-calendar year Grand Slam. Djokovic is the first man since 1969 (Rod Laver) to hold all four Grand Slam singles titles at once. ](/news/2016/06/5/novak-djokovic-tops-andy-murray-to-win-the-french-open-men-s-championship-this-completes-his-non-calendar-year-grand-slam-djokovic-is-the.md)
-_Context: 2016 French Open – Men's Singles, Andy Murray, Novak Djokovic, Rod Laver, non-calendar year Grand Slam_
+_Context: 2016 French Open - Men's Singles, Andy Murray, Novak Djokovic, Rod Laver, non-calendar year Grand Slam_
 
 ### [Indian bodybuilder Mr Universe Manohar Aich dies at age 104. ](/news/2016/06/5/indian-bodybuilder-mr-universe-manohar-aich-dies-at-age-104.md)
 From a coconut vendor at Sealdah station to world acclaim, it had been a long journey for the little big man. A journey with a dramatic beginning — in a military prison.

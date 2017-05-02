@@ -31,7 +31,7 @@ Harvard University is investigating whether dozens of undergraduate students che
 Second election since end of 27-year civil war likely to keep Eduardo dos Santos in power despite strong opposition.
 
 ### [Enrique Pea Nieto of the Institutional Revolutionary Party (PRI) is declared the winner of the Mexican presidential elections. ](/news/2012/08/31/enrique-pena-nieto-of-the-institutional-revolutionary-party-pri-is-declared-the-winner-of-the-mexican-presidential-elections.md)
-_Context: Enrique Peña Nieto, Institutional Revolutionary Party, Mexican presidential elections_
+_Context: Enrique Pea Nieto, Institutional Revolutionary Party, Mexican presidential elections_
 
 ## [Previous Day...](/news/2012/08/30/index.md)
 

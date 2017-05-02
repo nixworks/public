@@ -1,6 +1,6 @@
 ### [2017-01-19](/news/2017/01/19/index.md)
 
-# An eruption on Bogoslof Island of the Aleutian Islands disrupts air transportation routes, distributing tephra over populated areas, including Kodiak Island, {{convert|660|mi|km}} away from the volcano. 
+# An eruption on Bogoslof Island of the Aleutian Islands disrupts air transportation routes, distributing tephra over populated areas, including Kodiak Island, 660|mi|km away from the volcano. 
 
 Pilots avoided the ash cloud, which rose to above 31,000 feet overnight Wednesday, but there were no reports of ash falling on land.
 

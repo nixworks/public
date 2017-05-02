@@ -1,7 +1,7 @@
 ## [2013-10-17](/news/2013/10/17/index.md)
 
 ### [A Naxalite landmine kills three police officers in the Gadchiroli district of India's Maharashtra state. ](/news/2013/10/17/a-naxalite-landmine-kills-three-police-officers-in-the-gadchiroli-district-of-india-s-maharashtra-state.md)
-_Context: Gadchiroli district, India, Maharashtra, Naxalite, Naxalite–Maoist insurgency_
+_Context: Gadchiroli district, India, Maharashtra, Naxalite, Naxalite-Maoist insurgency_
 
 ### [Attacks on Shia Muslims killed at least 59 people across Iraq, including a suicide truck bomb targeting at least 15 members of the country's Shabak people. ](/news/2013/10/17/attacks-on-shia-muslims-killed-at-least-59-people-across-iraq-including-a-suicide-truck-bomb-targeting-at-least-15-members-of-the-country-s.md)
 _Context: Iraqi insurgency (post-U.S. withdrawal), Shabak people, Shia_

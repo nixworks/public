@@ -1,7 +1,7 @@
 ## [2005-11-22](/news/2005/11/22/index.md)
 
 ### [ Israeli-Lebanese conflict: Israeli planes bomb targets in Southern Lebanon. ](/news/2005/11/22/israelialebanese-conflict-israeli-planes-bomb-targets-in-southern-lebanon.md)
-_Context: Israeli Air Force, Israeli–Lebanese conflict_
+_Context: Israeli Air Force, Israeli-Lebanese conflict_
 
 ### [ Floods and mudslides due to Tropical Storm Gamma, the 24th named storm in the 2005 Atlantic hurricane season, kill at least 32 people in Honduras. ](/news/2005/11/22/floods-and-mudslides-due-to-tropical-storm-gamma-the-24th-named-storm-in-the-2005-atlantic-hurricane-season-kill-at-least-32-people-in-ho.md)
 _Context: 2005 Atlantic hurricane season, Honduran, Tropical Storm Gamma, flood, mudslide_

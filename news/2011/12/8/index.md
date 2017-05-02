@@ -31,7 +31,7 @@ _Context: Russia, United States, Vladimir Putin, parliamentary elections_
 _Context: Iran, Lockheed Martin RQ-170 Sentinel, United States_
 
 ### [The Government of Japan apologizes to Canada over the treatment of Canadian POWs during World War II. ](/news/2011/12/8/the-government-of-japan-apologizes-to-canada-over-the-treatment-of-canadian-pows-during-world-war-ii.md)
-_Context: Canadian, Japan, POWs, World War II_
+_Context: Canada, Japan, POWs, World War II_
 
 ### [British serial killer Robert Black is sentenced to a minimum of 25 years imprisonment for the 1981 murder of Northern Ireland schoolgirl Jennifer Cardy. ](/news/2011/12/8/british-serial-killer-robert-black-is-sentenced-to-a-minimum-of-25-years-imprisonment-for-the-1981-murder-of-northern-ireland-schoolgirl-jen.md)
 The brother of Jennifer Cardy says the family would have forgiven Robert Black if he had asked

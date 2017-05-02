@@ -10,7 +10,7 @@ A wave of attacks in and around Baghdad kills more than 20 people, the latest in
 IN WHAT was one of the most bland ceremonies in Golden Globes history, the most surprising moment of this year’s show came when the incredibly dreamy Brad Pitt made an unexpected appearance as a presenter.
 
 ### [Several British MPs demand an investigation into a recent scandal in which an Israeli embassy official in London had conspired to damage the reputation of several British politicians in response to the recent United Nations Security Council resolution. ](/news/2017/01/8/several-british-mps-demand-an-investigation-into-a-recent-scandal-in-which-an-israeli-embassy-official-in-london-had-conspired-to-damage-the.md)
-_Context: British MP, Israeli embassy, Israel–United Kingdom relations, London, United Nations Security Council resolution_
+_Context: British MP, Israel-United Kingdom relations, Israeli embassy, London, United Nations Security Council resolution_
 
 ### [Akbar Hashemi Rafsanjani, former President of Iran, dies at the age of 82. ](/news/2017/01/8/akbar-hashemi-rafsanjani-former-president-of-iran-dies-at-the-age-of-82.md)
 Former Iranian president Akbar Hashemi Rafsanjani was taken to hospital on Sunday with a heart condition, the official Iranian news agency IRNA reported.

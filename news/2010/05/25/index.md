@@ -43,7 +43,7 @@ Italy becomes the latest European country to announce tough austerity measures i
 A clothing advert showing Adolf Hitler dressed in pink causes outrage in Sicily.
 
 ### [Russia's new Cyrillic Internet domain (.rf) launches on 476 sites. ](/news/2010/05/25/russia-s-new-cyrillic-internet-domain-nn-launches-on-476-sites.md)
-_Context: .рф, Cyrillic, Russia_
+_Context: .rf, Cyrillic, Russia_
 
 ### [A study indicates that the Pac-Man game Google put on its home page Friday led to the loss of almost five million man-hours (or 550 years) of work time. ](/news/2010/05/25/a-study-indicates-that-the-pac-man-game-google-put-on-its-home-page-friday-led-to-the-loss-of-almost-five-million-man-hours-or-550-years-o.md)
 _Context: Google, Pac-Man, man-hour_
@@ -52,7 +52,7 @@ _Context: Google, Pac-Man, man-hour_
 U2 frontman Bono left hospital in Germany today after undergoing emergency surgery on his back, but the injury has forced the&hellip;
 
 ### [Swedish model Charlotte Lindstrom is released from Long Bay Prison in Sydney after serving a three year sentence for plotting to kill two people; she served the time in total isolation because of death threats towards her. ](/news/2010/05/25/swedish-model-charlotte-lindstrapm-is-released-from-long-bay-prison-in-sydney-after-serving-a-three-year-sentence-for-plotting-to-kill-two-p.md)
-_Context: Charlotte Lindström, Sydney_
+_Context: Charlotte Lindstrom, Sydney_
 
 ### [South African opera star Siphiwo Ntshebe, chosen by Nelson Mandela to sing "Hope" at the opening ceremony of the 2010 FIFA World Cup next month, dies suddenly aged 34 after contracting meningitis. ](/news/2010/05/25/south-african-opera-star-siphiwo-ntshebe-chosen-by-nelson-mandela-to-sing-hope-at-the-opening-ceremony-of-the-2010-fifa-world-cup-next-mo.md)
 A South African opera star chosen by Nelson Mandela to sing at the opening of the World Cup has died from meningitis, his record company says.

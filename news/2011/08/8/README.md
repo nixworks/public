@@ -6,7 +6,7 @@ Bahrain has recalled its ambassador from Syria for consultation Foreign Minister
 ### [2011 Libyan civil war: Fighting continues on the eastern and western fronts. ](/news/2011/08/8/2011-libyan-civil-war-fighting-continues-on-the-eastern-and-western-fronts.md)
 Opposition under attack near Zlitan in north, while Gaddafi fighters launch operation to retake Bir al-Ghanam in west.
 
-### [The Royal Navy appoints its first female war ship commander; Lieutenant Commander Sarah West, 39, will take command of {{HMS|Portland |F79|6}} in April 2012. ](/news/2011/08/8/the-royal-navy-appoints-its-first-female-war-ship-commander-lieutenant-commander-sarah-west-39-will-take-command-of-hms-portland-f79-6.md)
+### [The Royal Navy appoints its first female war ship commander; Lieutenant Commander Sarah West, 39, will take command of Portland |F79|6 in April 2012. ](/news/2011/08/8/the-royal-navy-appoints-its-first-female-war-ship-commander-lieutenant-commander-sarah-west-39-will-take-command-of-portland-f79-6-in-ap.md)
 Plymouth-based HMS Portland is to become the first frontline Royal Navy warship to be commanded by a woman.
 
 ### [Stock markets in Asia, Australia, and the United States fall further after the credit rating of the United States is downgraded with the Dow Jones Industrial Average falling by over 634 points, 5.55%. ](/news/2011/08/8/stock-markets-in-asia-australia-and-the-united-states-fall-further-after-the-credit-rating-of-the-united-states-is-downgraded-with-the-dow.md)

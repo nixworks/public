@@ -16,7 +16,7 @@ Vietnamese lawmakers have approved a law allowing broad foreign ownership of pro
 Since the army ousted president Mohammed Mursi, the government has launched a bloody crackdown against his supporters.
 
 ### [Mexico's Party of the Democratic Revolution (PRD) founder Cuauhtmoc Crdenas resigns amid internal political crisis resulting from the disappearance of the 43 students in September. ](/news/2014/11/26/mexico-s-party-of-the-democratic-revolution-prd-founder-cuauhtemoc-cardenas-resigns-amid-internal-political-crisis-resulting-from-the-disa.md)
-_Context: 2014 Iguala mass kidnapping, Cuauhtémoc Cárdenas, Party of the Democratic Revolution_
+_Context: 2014 Iguala mass kidnapping, Cuauhtmoc Crdenas, Party of the Democratic Revolution_
 
 ### [More than 80 people are arrested as police dismantle a protest camp in the Mong Kok commercial district. ](/news/2014/11/26/more-than-80-people-are-arrested-as-police-dismantle-a-protest-camp-in-the-mong-kok-commercial-district.md)
 Scores of protesters including two prominent student leaders are arrested in Mong Kok during operations to dismantle activist camps.

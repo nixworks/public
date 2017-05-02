@@ -7,7 +7,7 @@ Violent clashes erupted across Bangladesh on Thursday after a tribunal handed do
 _Context: 2013 Lahad Datu standoff, Malaysia, Malaysian Armed Forces, Sabah, Sultanate_
 
 ### [Northern Mali conflict:One of Islamist organization al-Qaeda's most feared commanders in Africa, Abdelhamid Abou Zeid, is killed by Chadian forces in Northern Mali. ](/news/2013/03/1/northern-mali-conflict-pone-of-islamist-organization-al-qaeda-s-most-feared-commanders-in-africa-abdelhamid-abou-zeid-is-killed-by-chadian.md)
-_Context: Abdelhamid Abou Zeid, Africa, Azawad, Islamist, Military, Northern Mali conflict (2012–present), al-Qaeda_
+_Context: Abdelhamid Abou Zeid, Africa, Azawad, Islamist, Military, Northern Mali conflict (2012-present), al-Qaeda_
 
 ### [China's Purchasing Managers Index declines to 50.1 indicating a possible slowdown in the Chinese economy. ](/news/2013/03/1/china-s-purchasing-managers-index-declines-to-50-1-indicating-a-possible-slowdown-in-the-chinese-economy.md)
 _Context: China, Chinese economy, Purchasing Managers Index_
@@ -40,7 +40,7 @@ _Context: Cape Canaveral Air Force Station, Falcon 9, SLC-40, SpaceX, SpaceX CRS
 If you thought the U.S. Army&#39;s BigDog robot was scary before, then get a load of what it can do now.
 
 ### [Juventus stays six points clear at the top of the 2012-13 Serie A after earning a 1-1 draw at second-place Napoli. ](/news/2013/03/1/juventus-stays-six-points-clear-at-the-top-of-the-2012a13-serie-a-after-earning-a-1a1-draw-at-second-place-napoli.md)
-_Context: 2012–13  Serie A, Juventus, Napoli_
+_Context: 2012-13  Serie A, Juventus, Napoli_
 
 ### [In golf, Northern Irish player Rory McIlroy abruptly quits 2013 The Honda Classic mid-round. ](/news/2013/03/1/in-golf-northern-irish-player-rory-mcilroy-abruptly-quits-2013-the-honda-classic-mid-round.md)
 _Context: Northern Irish, Rory McIlroy, The Honda Classic, golf_

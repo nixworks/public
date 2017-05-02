@@ -13,7 +13,7 @@ Sky News Australia has the top stories in news online from Australia and the res
 At least 10 anti-government militants are believed to have died in Mogadishu when their bombs exploded prematurely.
 
 ### [About 35 people are taken hostage by drug dealers at a tourist hotel in So Conrado, Rio de Janeiro; 1 woman, involved with them, is killed. ](/news/2010/08/21/about-35-people-are-taken-hostage-by-drug-dealers-at-a-tourist-hotel-in-sao-conrado-rio-de-janeiro-1-woman-involved-with-them-is-killed.md)
-_Context: Rio de Janeiro, São Conrado_
+_Context: Rio de Janeiro, So Conrado_
 
 ### [A Vincent van Gogh painting - known as both ''Poppy Flowers'' and ''Vase with Flowers'' - is stolen from the Mohammed Mahmoud Khalil art museum in Cairo, but is later said to have been recovered at Cairo Airport. ](/news/2010/08/21/a-vincent-van-gogh-painting-known-as-both-poppy-flowers-and-vase-with-flowers-is-stolen-from-the-mohammed-mahmoud-khalil-art-mus.md)
 A painting by Vincent Van Gogh, stolen from a Cairo museum, is still missing, says the culture minister, hours after he said it had been found.
@@ -58,7 +58,7 @@ First female PM fighting to keep power amid strong challenge from conservative c
 _Context: Haiti, Haiti's presidential election, Wyclef Jean_
 
 ### [Dutch sailor Laura Dekker starts her bid to become the youngest person to circumnavigate the world solo in Portimo, Portugal. ](/news/2010/08/21/dutch-sailor-laura-dekker-starts-her-bid-to-become-the-youngest-person-to-circumnavigate-the-world-solo-in-portimao-portugal.md)
-_Context: Dutch, Laura Dekker, Portimão, Portuguese, circumnavigation_
+_Context: Dutch, Laura Dekker, Portimo, Portuguese, circumnavigation_
 
 ## [Previous Day...](/news/2010/08/20/index.md)
 

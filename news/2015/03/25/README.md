@@ -1,10 +1,10 @@
 ## [2015-03-25](/news/2015/03/25/index.md)
 
 ### [The Afghan National Army kills twenty-nine insurgents and injures twenty-one others in a series of operations in Daikundi, Ghazni, and Parwan provinces during the past 24 hours. ](/news/2015/03/25/the-afghan-national-army-kills-twenty-nine-insurgents-and-injures-twenty-one-others-in-a-series-of-operations-in-daikundi-ghazni-and-parwa.md)
-_Context: Afghan National Army, Daikundi, Ghazni Province, Parwan, War in Afghanistan (2015–present)_
+_Context: Afghan National Army, Daikundi, Ghazni Province, Parwan, War in Afghanistan (2015-present)_
 
 ### [Yemeni President Abed Rabbo Mansour Hadi flees Yemen in a boat after Houthi rebels besiege the government's temporary capital of Aden in the southern part of the country. ](/news/2015/03/25/yemeni-president-abed-rabbo-mansour-hadi-flees-yemen-in-a-boat-after-houthi-rebels-besiege-the-government-s-temporary-capital-of-aden-in-the.md)
-_Context: Abed Rabbo Mansour Hadi, Aden, Aftermath of the 2014–15 Yemeni coup d'état, Houthi, Yemen_
+_Context: Abed Rabbo Mansour Hadi, Aden, Aftermath of the 2014-15 Yemeni coup d'etat, Houthi, Yemen_
 
 ### [The BBC sacks Jeremy Clarkson, one of the three presenters for the television program ''Top Gear''. ](/news/2015/03/25/the-bbc-sacks-jeremy-clarkson-one-of-the-three-presenters-for-the-television-program-top-gear.md)
 Top Gear presenter Jeremy Clarkson will not have his contract renewed after the BBC concludes an investigation into his &quot;fracas&quot; with a producer.

@@ -7,7 +7,7 @@ _Context: Cambodia_
 _Context: Indonesia, Russian passenger jet that crashed, West Java, cockpit voice recorder_
 
 ### [The trial of former Bosnian Serb Army Colonel General Ratko Mladic starts in the International Criminal Tribunal for the former Yugoslavia in  The Hague, Netherlands. ](/news/2012/05/16/the-trial-of-former-bosnian-serb-army-colonel-general-ratko-mladia-starts-in-the-international-criminal-tribunal-for-the-former-yugoslavia.md)
-_Context: Army, Bosnian Serb, Colonel General, International Criminal Tribunal for the former Yugoslavia, Ratko Mladić, The Hague_
+_Context: Army, Bosnian Serb, Colonel General, International Criminal Tribunal for the former Yugoslavia, Ratko Mladic, The Hague_
 
 ### [Police in the Australian state of Queensland remove an Aboriginal Tent Embassy in Musgrave Park in the state capital Brisbane. ](/news/2012/05/16/police-in-the-australian-state-of-queensland-remove-an-aboriginal-tent-embassy-in-musgrave-park-in-the-state-capital-brisbane.md)
 Hundreds of police have broken up an Aboriginal tent embassy in Brisbane, escorting and sometimes dragging away about 80 protesters.

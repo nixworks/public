@@ -25,7 +25,7 @@ _Context: Afghanistan, Herat, Ismail Khan_
 _Context: Tropical Storm Ketsana_
 
 ### [ The Swiss multinational Nestle is buying milk from a farm seized from its white owners and now owned by the wife of Zimbabwe's President Robert Mugabe, according to England's ''The Sunday Telegraph''. ](/news/2009/09/27/the-swiss-multinational-nestla-c-is-buying-milk-from-a-farm-seized-from-its-white-owners-and-now-owned-by-the-wife-of-zimbabwe-s-president-r.md)
-_Context: England, Nestlé Canada Inc., President, Robert Mugabe, Swiss, The Sunday Telegraph, Zimbabwe_
+_Context: England, Nestle Canada Inc., President, Robert Mugabe, Swiss, The Sunday Telegraph, Zimbabwe_
 
 ### [ American General Stanley McChrystal, Commander of the International Security Assistance Force, formally requests more troops for the War in Afghanistan. ](/news/2009/09/27/american-general-stanley-mcchrystal-commander-of-the-international-security-assistance-force-formally-requests-more-troops-for-the-war-in.md)
 _Context: General, International Security Assistance Force, Stanley McChrystal, United States, War in Afghanistan (2001-present)_

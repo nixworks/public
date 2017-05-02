@@ -13,7 +13,7 @@ Two bomb attacks - on a restaurant and a mosque - in the central Nigerian city o
 _Context: Far East, Khabarovsk region, Russian military, Su-24_
 
 ### [Ban Ki-Moon, the Secretary-General of the United Nations, calls for a new investigation into the death of former Secretary-General Dag Hammarskjold in a plane crash after a panel he appointed uncovers new evidence. ](/news/2015/07/6/ban-ki-moon-the-secretary-general-of-the-united-nations-calls-for-a-new-investigation-into-the-death-of-former-secretary-general-dag-hamma.md)
-_Context: Ban Ki-moon, Dag Hammarskjöld, Secretary General, evidence_
+_Context: Ban Ki-moon, Dag Hammarskjold, Secretary General, evidence_
 
 ### [Yanis Varoufakis resigns as the Greek Minister of Finance despite the success of the "no" vote which supported his views. ](/news/2015/07/6/yanis-varoufakis-resigns-as-the-greek-minister-of-finance-despite-the-success-of-the-no-vote-which-supported-his-views.md)
 Yanis Varoufakis has stood down as the Greek finance minister

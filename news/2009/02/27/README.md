@@ -28,7 +28,7 @@ _Context: Malakal, Southern Sudan, civil war, militia_
 _Context: Fox Broadcasting Company, The Simpsons, United States, animated, longest-running, prime time, sitcom, television series_
 
 ### [ Venezuelan President Hugo Chavez claims that former Cuban President Fidel Castro recently appeared publicly in Havana for the first time since 2006. ](/news/2009/02/27/venezuelan-president-hugo-cha-vez-claims-that-former-cuban-president-fidel-castro-recently-appeared-publicly-in-havana-for-the-first-time-s.md)
-_Context: Cuba, Fidel Castro, Havana, Hugo Chávez, Venezuela, Venezuelan President_
+_Context: Cuba, Fidel Castro, Havana, Hugo Chavez, Venezuela, Venezuelan President_
 
 ### [ A report by China's State Council criticizes the United States' human rights record. [http://english.people.com.cn/90001/90776/90883/6602168.html (''People's Daily'')]`](/news/2009/02/27/a-report-by-china-s-state-council-criticizes-the-united-states-human-rights-record-http-english-people-com-cn-90001-90776-90883-660216.md)
 _Context: China's, China's State Council, United States, human rights record_

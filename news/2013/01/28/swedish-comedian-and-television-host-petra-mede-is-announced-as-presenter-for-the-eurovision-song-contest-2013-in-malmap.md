@@ -13,7 +13,7 @@
 
 ### Related:
 
-1. [Swedish police say they do not have a suspect for the serial shooting of 15 immigrants in Malmo. ](/news/2010/10/24/swedish-police-say-they-do-not-have-a-suspect-for-the-serial-shooting-of-15-immigrants-in-malmap.md) _Context: Malmö, Sweden_
+1. [Swedish police say they do not have a suspect for the serial shooting of 15 immigrants in Malmo. ](/news/2010/10/24/swedish-police-say-they-do-not-have-a-suspect-for-the-serial-shooting-of-15-immigrants-in-malmap.md) _Context: Malmo, Sweden_
 2. [A vehicle is driven into a group of people on a street in Stockholm, Sweden, killing four people. ](/news/2017/04/7/a-vehicle-is-driven-into-a-group-of-people-on-a-street-in-stockholm-sweden-killing-four-people.md) _Context: Sweden_
 3. [A bus carrying around 50 schoolchildren rolls over on a highway south of Sveg in the northern region of Harjedalen, Sweden, killing three people. ](/news/2017/04/2/a-bus-carrying-around-50-schoolchildren-rolls-over-on-a-highway-south-of-sveg-in-the-northern-region-of-ha-rjedalen-sweden-killing-three-p.md) _Context: Sweden_
 4. [The government of Sweden submits a bill to the Riksdag to reintroduce conscription this summer in response to new global security challenges. ](/news/2017/03/2/the-government-of-sweden-submits-a-bill-to-the-riksdag-to-reintroduce-conscription-this-summer-in-response-to-new-global-security-challenges.md) _Context: Sweden_

@@ -19,7 +19,7 @@ At least 19 people, most of them Pakistan government officials, were killed and 
 Authorities fear the death toll could rise after a boat loaded with asylum seekers sank off the coast of Indonesia.
 
 ### [The Japan Coast Guard is searching for six missing sailors after the Japanese cargo ship ''Eifukumaru No.18'' capsizes after a collision with a Sierra Leone-registered ship off the coast of Izu Oshima island. ](/news/2013/09/27/the-japan-coast-guard-is-searching-for-six-missing-sailors-after-the-japanese-cargo-ship-eifukumaru-no-18-capsizes-after-a-collision-wit.md)
-_Context: Izu Ōshima, Japan Coast Guard, Sierra Leone_
+_Context: Izu Oshima, Japan Coast Guard, Sierra Leone_
 
 ### [A building collapses in the Indian city of Mumbai, with at least three people killed and dozens trapped. ](/news/2013/09/27/a-building-collapses-in-the-indian-city-of-mumbai-with-at-least-three-people-killed-and-dozens-trapped.md)
 Rescuers search for survivors with eight people dead and 22 families feared trapped under a collapsed five-storey building.

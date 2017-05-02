@@ -4,7 +4,7 @@
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ A man named Ogn Samast is arrested in Samsun by Turkish authorities for killing Armenian-Turkish writer Hrant Dink. ](/news/2007/01/20/a-man-named-ogun-samast-is-arrested-in-samsun-by-turkish-authorities-for-killing-armenian-turkish-writer-hrant-dink.md)
-_Context: Armenian, Hrant Dink, Ogün  Samast, Samsun, Turkey_
+_Context: Armenian, Hrant Dink, Ogn  Samast, Samsun, Turkey_
 
 ### [ War in Somalia: Somali gunmen attacks government and Ethiopian troops in a crowded market, killing 4 people. ](/news/2007/01/20/war-in-somalia-somali-gunmen-attacks-government-and-ethiopian-troops-in-a-crowded-market-killing-4-people.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
@@ -16,7 +16,7 @@ _Context: Baghdad, Iraq War, U.S. military, downed by ground fire_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Venezuelan President Hugo Chvez says Fidel Castro is 'battling for his life.' ](/news/2007/01/20/venezuelan-president-hugo-chavez-says-fidel-castro-is-battling-for-his-life.md)
-_Context: Fidel Castro, Hugo Chávez, Venezuelan President_
+_Context: Fidel Castro, Hugo Chvez, Venezuelan President_
 
 ### [ A three-man team, using only skis and kites, completes a 1,093 mile trek to reach the Southern Pole of Inaccessibility for the first time since 1958 and for the first time ever without mechanical assistance. ](/news/2007/01/20/a-three-man-team-using-only-skis-and-kites-completes-a-1-093-mile-trek-to-reach-the-southern-pole-of-inaccessibility-for-the-first-time-s.md)
 _Context: Pole of Inaccessibility_

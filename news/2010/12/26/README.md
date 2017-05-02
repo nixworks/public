@@ -70,7 +70,7 @@ Human rights group urges Iran to &quot;show clemency, halt the imminent executio
 Officers investigating the disappearance of Bristol landscape architect Joanna Yeates say they &quot;are satisfied&quot; a body found on Christmas Day is hers.
 
 ### [Approximately 14,000 refugees have fled Cote d'Ivoire for Liberia following the disputed presidential election. ](/news/2010/12/26/approximately-14-000-refugees-have-fled-ca-te-d-ivoire-for-liberia-following-the-disputed-presidential-election.md)
-_Context: 2010 Ivorian presidential election controversy, Côte d'Ivoire, Liberia, refugee_
+_Context: 2010 Ivorian presidential election controversy, Cote d'Ivoire, Liberia, refugee_
 
 ### [More than 1,500 people protest in Moscow, Russia against a recent wave of ethnic unrest following the shooting dead of a football fan. ](/news/2010/12/26/more-than-1-500-people-protest-in-moscow-russia-against-a-recent-wave-of-ethnic-unrest-following-the-shooting-dead-of-a-football-fan.md)
 More than 1,500 stage protest in central Moscow against xenophobia following wave of ethnic clashes.

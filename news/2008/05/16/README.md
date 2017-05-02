@@ -4,7 +4,7 @@
 _Context: 10 people were shot, Cabuyao, Laguna province, Philippines, Rizal Commercial Banking Corporation_
 
 ### [ Leonel Fernandez is re-elected as the President of the Dominican Republic in the 2008 presidential election. ](/news/2008/05/16/leonel-ferna-ndez-is-re-elected-as-the-president-of-the-dominican-republic-in-the-2008-presidential-election.md)
-_Context: 2008 presidential election, Leonel Fernández, President of the Dominican Republic_
+_Context: 2008 presidential election, Leonel Fernandez, President of the Dominican Republic_
 
 ### [ A pipeline explosion near Lagos, Nigeria, kills up to 100 people. ](/news/2008/05/16/a-pipeline-explosion-near-lagos-nigeria-kills-up-to-100-people.md)
 _Context: Lagos, Nigeria, pipeline explosion_

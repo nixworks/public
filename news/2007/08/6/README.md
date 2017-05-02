@@ -1,7 +1,7 @@
 ## [2007-08-6](/news/2007/08/6/index.md)
 
 ### [ Turkish President Ahmet Necdet Sezer gave a mandate to Turkish Prime Minister Recep Tayyip Erdogan to form his second cabinet following a landslide victory for the Justice and Development Party (AKP) in the general elections. ](/news/2007/08/6/turkish-president-ahmet-necdet-sezer-gave-a-mandate-to-turkish-prime-minister-recep-tayyip-erdoaan-to-form-his-second-cabinet-following-a.md)
-_Context: Ahmet Necdet Sezer, Prime Minister, Recep Tayyip Erdoğan, Turkish President, general elections, ruling party_
+_Context: Ahmet Necdet Sezer, Prime Minister, Recep Tayyip Erdogan, Turkish President, general elections, ruling party_
 
 ### [ Mexico and Brazil sign an agreement on developing technology for oil and natural gas exploration and exploitation involving co-operation between Pemex and Petrobras. ](/news/2007/08/6/mexico-and-brazil-sign-an-agreement-on-developing-technology-for-oil-and-natural-gas-exploration-and-exploitation-involving-co-operation-be.md)
 _Context: Brazil, Mexico, PEMEX, Petrobras, natural gas, oil_
@@ -43,7 +43,7 @@ _Context: Bangladesh, Sheikh Hasina_
 _Context: North Korea, South Korea, border_
 
 ### [ Jose Ramos-Horta, the President of East Timor, selects Xanana Gusmao as the Prime Minister of East Timor. ](/news/2007/08/6/josa-c-ramos-horta-the-president-of-east-timor-selects-xanana-gusmapso-as-the-prime-minister-of-east-timor.md)
-_Context: East Timor, José Ramos-Horta, President, Prime Minister, Xanana Gusmão_
+_Context: East Timor, Jose Ramos-Horta, President, Prime Minister, Xanana Gusmao_
 
 ### [ A truck bomb in Tal Afar in northern Iraq kills at least 25 people and destroys 10 homes. ](/news/2007/08/6/a-truck-bomb-in-tal-afar-in-northern-iraq-kills-at-least-25-people-and-destroys-10-homes.md)
 _Context: Iraq, Tal Afar, truck bomb_

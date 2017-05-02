@@ -1,7 +1,7 @@
 ## [2016-04-30](/news/2016/04/30/index.md)
 
 ### [A car bombing in southeastern Baghdad kills at least 19 and injures nearly 50 Shi'ite pilgrims. ISIL has claimed responsibility.  ](/news/2016/04/30/a-car-bombing-in-southeastern-baghdad-kills-at-least-19-and-injures-nearly-50-shi-ite-pilgrims-isil-has-claimed-responsibility.md)
-_Context: April 2016 Baghdad bombing, Baghdad, Iraqi Civil War (2014–present), Islamic State in Iraq and the Levant, Shi'ite, car bombing_
+_Context: April 2016 Baghdad bombing, Baghdad, Iraqi Civil War (2014-present), Islamic State in Iraq and the Levant, Shi'ite, car bombing_
 
 ### [The Syrian Observatory for Human Rights claims that twenty air strikes have hit the northern areas of Aleppo. Bombardments by both sides have killed nearly 250 people since April 22. ](/news/2016/04/30/the-syrian-observatory-for-human-rights-claims-that-twenty-air-strikes-have-hit-the-northern-areas-of-aleppo-bombardments-by-both-sides-hav.md)
 _Context: Aleppo, Syrian Civil War, Syrian Observatory for Human Rights_
@@ -33,7 +33,7 @@ Eighty-four migrants are missing after their inflatable dinghy sank off the Liby
 ### [ Five people are killed in a military plane crash in Sudan. ](/news/2016/04/30/five-people-are-killed-in-a-military-plane-crash-in-sudan.md)
 A Sudanese military plane crashed in the central city of El-Obeid on Saturday, killing five people, the army said.
 
-### [China denies a Hong Kong port call by the U.S. Carrier Strike Group 3, which includes the aircraft carrier {{USS|John C. Stennis|CVN-74}} and accompanying vessels. ](/news/2016/04/30/china-denies-a-hong-kong-port-call-by-the-u-s-carrier-strike-group-3-which-includes-the-aircraft-carrier-uss-john-c-stennis-cvn-74-an.md)
+### [China denies a Hong Kong port call by the U.S. Carrier Strike Group 3, which includes the aircraft carrier John C. Stennis|CVN-74 and accompanying vessels. ](/news/2016/04/30/china-denies-a-hong-kong-port-call-by-the-u-s-carrier-strike-group-3-which-includes-the-aircraft-carrier-john-c-stennis-cvn-74-and-accomp.md)
 China recently denied a request from a U.S. aircraft carrier for a port visit in Hong Kong, the State Department said.
 
 ### [Kenya burns 105 tonnes of elephant ivory and 1.05 tonnes of rhinoceros horn in order to call for a total ban on the ivory trade. ](/news/2016/04/30/kenya-burns-105-tonnes-of-elephant-ivory-and-1-05-tonnes-of-rhinoceros-horn-in-order-to-call-for-a-total-ban-on-the-ivory-trade.md)
@@ -55,7 +55,7 @@ Egypt put on trial 237 activists arrested for protesting against President Abdel
 _Context: Bongbong Marcos, Grace Poe, Iglesia ni Cristo, Philippine presidential election, 2016_
 
 ### [Roughly 2,000 people protest in Belgrade against alleged fraud in the country's recent election. The protesters accuse Prime Minister Aleksandar Vucic of manipulating the results in order to prevent the far-right Dveri party from reaching the 5-percent threshold and gaining seats in the National Assembly. A repeat vote is expected on May 4 in locations where voting irregularities have been found. ](/news/2016/04/30/roughly-2-000-people-protest-in-belgrade-against-alleged-fraud-in-the-country-s-recent-election-the-protesters-accuse-prime-minister-aleksa.md)
-_Context: Aleksandar Vučić, Belgrade, Dveri party, National Assembly, Prime Minster, Serbian parliamentary election, 2016_
+_Context: Aleksandar Vucic, Belgrade, Dveri party, National Assembly, Prime Minster, Serbian parliamentary election, 2016_
 
 ### [  Iraqi officials declare a state of emergency for all of Baghdad after protesters loyal to popular Shiite cleric Muqtada al-Sadr stormed into Iraq's parliament in the Green Zone. ](/news/2016/04/30/iraqi-officials-declare-a-state-of-emergency-for-all-of-baghdad-after-protesters-loyal-to-popular-shiite-cleric-muqtada-al-sadr-stormed-in.md)
 Protesters loyal to a Shiite cleric breached Baghdad&#x27;s Green Zone Saturday, home to government buildings and foreign embassies.

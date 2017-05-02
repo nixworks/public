@@ -34,7 +34,7 @@ A massive explosion at a government-owned steel plant in the southern Indian sta
 _Context: Hillary Clinton, Kim Jong-un, United States Secretary of State, leader_
 
 ### [Jose Trevino Morales, an alleged money launderer of the Mexican criminal group Los Zetas and a prominent quarter horse racer in the U.S., is arrested in Lexington, Oklahoma. ](/news/2012/06/14/josa-c-trevia-o-morales-an-alleged-money-launderer-of-the-mexican-criminal-group-los-zetas-and-a-prominent-quarter-horse-racer-in-the-u-s.md)
-_Context: José Treviño Morales, Lexington, Oklahoma, Los Zetas_
+_Context: Jose Trevino Morales, Lexington, Oklahoma, Los Zetas_
 
 ### [British Prime Minister David Cameron appears before the Leveson Inquiry. The hearing is told of his relationship with former News International Chief Executive Rebekah Brooks, while he says his decision to appoint Andy Coulson as his Director of Communications will haunt him. ](/news/2012/06/14/british-prime-minister-david-cameron-appears-before-the-leveson-inquiry-the-hearing-is-told-of-his-relationship-with-former-news-internatio.md)
 _Context: Andy Coulson, David Cameron, Leveson Inquiry, News International, Prime Minster, Rebekah Brooks_
@@ -55,7 +55,7 @@ Falkland Islanders mark 30 years since the end of the war with Argentina with a 
 _Context: Barack Obama, president_
 
 ### [Venezuela's president Hugo Chavez gives a televised address from the country's defence ministry to discuss his defence plans. ](/news/2012/06/14/venezuela-s-president-hugo-cha-vez-gives-a-televised-address-from-the-country-s-defence-ministry-to-discuss-his-defence-plans.md)
-_Context: Hugo Chávez, Venezuela_
+_Context: Hugo Chavez, Venezuela_
 
 ### [HBO issues a public apology for any offence suffered after the use of a severed head in ''Game of Thrones''; the head on a spike is said to resemble that of former U.S. president George W. Bush. ](/news/2012/06/14/hbo-issues-a-public-apology-for-any-offence-suffered-after-the-use-of-a-severed-head-in-game-of-thrones-the-head-on-a-spike-is-said-to.md)
 _Context: Game of Thrones, George W. Bush, HBO_

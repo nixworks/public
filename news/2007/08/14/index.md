@@ -13,7 +13,7 @@ _Context: Italian, Lampedusa, coast guard, illegal immigrant_
 _Context: Dagestan, Internet, Russia, Tajikistan, far right_
 
 ### [ A Polish soldier is killed by Taliban near Gardez, Afghanistan. It is the first Polish casualty in the War in Afghanistan. ](/news/2007/08/14/a-polish-soldier-is-killed-by-taliban-near-gardez-afghanistan-it-is-the-first-polish-casualty-in-the-war-in-afghanistan.md)
-_Context: Afghanistan, Gardez, Poland, Taliban, War in Afghanistan (2001–present), casualty_
+_Context: Afghanistan, Gardez, Poland, Taliban, War in Afghanistan (2001-present), casualty_
 
 ### [ The Central Bank of Nigeria announces the naira will be made convertible by 2009. It will also be redenominated from August 2008. ](/news/2007/08/14/the-central-bank-of-nigeria-announces-the-naira-will-be-made-convertible-by-2009-it-will-also-be-redenominated-from-august-2008.md)
 _Context: Central Bank of Nigeria, Nigeria, convertible, naira, redenomination_
@@ -28,7 +28,7 @@ _Context: Bangladesh, Bangladesh Nationalist Party, extortion_
 _Context: Scott Kelly, Space Shuttle ''Endeavour'', heat shield_
 
 ### [ Cristina Fernandez de Kirchner, current First Lady of Argentina and candidate to become President of Argentina, announces Julio Cobos, the Governor of Mendoza Province as her running mate. ](/news/2007/08/14/cristina-ferna-ndez-de-kirchner-current-first-lady-of-argentina-and-candidate-to-become-president-of-argentina-announces-julio-cobos-the.md)
-_Context: Argentina, Cristina Fernández de Kirchner, First Lady, Julio Cobos, Mendoza Province, President of Argentina_
+_Context: Argentina, Cristina Fernandez de Kirchner, First Lady, Julio Cobos, Mendoza Province, President of Argentina_
 
 ### [ Benjamin Netanyahu wins the Likud primary election and continues as the party's parliamentary leader. ](/news/2007/08/14/benjamin-netanyahu-wins-the-likud-primary-election-and-continues-as-the-party-s-parliamentary-leader.md)
 _Context: Benjamin Netanyahu, Likud, primary election_
@@ -76,7 +76,7 @@ _Context: Gaza Strip, Israel Defense Forces, Palestinian, civilian_
 _Context: Pakistan, United Kingdom, anniversary, independence_
 
 ### [ Abdullah Gul, currently the Foreign Minister of Turkey, confirms that he will stand again for election as the President of Turkey. ](/news/2007/08/14/abdullah-ga1-4l-currently-the-foreign-minister-of-turkey-confirms-that-he-will-stand-again-for-election-as-the-president-of-turkey.md)
-_Context: Abdullah Gül, President, Turkey_
+_Context: Abdullah Gul, President, Turkey_
 
 ### [ The Supreme Court of Thailand approves the issuing of arrest warrants for the former Prime Minister of Thailand Thaksin Shinawatra and his wife on corruption charges. ](/news/2007/08/14/the-supreme-court-of-thailand-approves-the-issuing-of-arrest-warrants-for-the-former-prime-minister-of-thailand-thaksin-shinawatra-and-his.md)
 Thailand&#039;s Supreme Court has approved a prosecution request to issue arrest warrants for exiled prime minister Thaksin Shinawatra and his wife on corruption charges.
@@ -100,7 +100,7 @@ _Context: North Korea, rain_
 Chinese President Hu Jintao goes to Central Asia on Tuesday for a summit and war games officially focused on fighting terrorism, but which Beijing hopes will also boost its presence in an energy-rich region.
 
 ### [ Canadian Prime Minister Stephen Harper shuffles his cabinet. Among the changes, embattled defence minister Gordon O'Connor and heritage minister Bev Oda are moved to National Revenue and International Cooperation and replaced by Peter Mackay and Josee Verner, respectively. ](/news/2007/08/14/canadian-prime-minister-stephen-harper-shuffles-his-cabinet-among-the-changes-embattled-defence-minister-gordon-o-connor-and-heritage-min.md)
-_Context: Bev Oda, Canadian, Canadian Prime Minister, Gordon O'Connor, Josée Verner, Peter MacKay, Stephen Harper, new Cabinet_
+_Context: Bev Oda, Canada, Canadian Prime Minister, Gordon O'Connor, Josee Verner, Peter MacKay, Stephen Harper, new Cabinet_
 
 ## [Previous Day...](/news/2007/08/13/index.md)
 

@@ -1,6 +1,6 @@
 ## [2014-02-27](/news/2014/02/27/index.md)
 
-### [2014 Ukrainian revolution, 2014 Crimean crisis:The Parliament of Ukraine's Autonomous Republic of Crimea announces a referendum to determine the region's future and ousts the regional government. ](/news/2014/02/27/2014-ukrainian-revolution-2014-crimean-crisis-pthe-parliament-of-ukraineas-autonomous-republic-of-crimea-announces-a-referendum-to-determ.md)
+### [The Parliament of Ukraine's Autonomous Republic of Crimea announces a referendum to determine the region's future and ousts the regional government. ](/news/2014/02/27/the-parliament-of-ukraineas-autonomous-republic-of-crimea-announces-a-referendum-to-determine-the-regionas-future-and-ousts-the-regional.md)
 Ousted Ukrainian President Viktor Yanukovych is being sheltered in Russia and has warned Ukrainians he is still the legitimately elected president of Ukraine and to refrain from action in the Crimea, Interfax Ukraine reported.
 
 ### [A wave of bombings in the Iraqi capital Baghdad kills 53 people. ](/news/2014/02/27/a-wave-of-bombings-in-the-iraqi-capital-baghdad-kills-53-people.md)
@@ -37,7 +37,7 @@ _Context: Arizona, Jan Brewer, gay and bisexual men_
 _Context: Federal Reserve, United States_
 
 ### [The National Anti-Corruption Commission summon the Prime Minister of Thailand Yingluck Shinawatra to face charges of allegedly mishandling a rice subsidy program as her supporters block access to the building. ](/news/2014/02/27/the-national-anti-corruption-commission-summon-the-prime-minister-of-thailand-yingluck-shinawatra-to-face-charges-of-allegedly-mishandling-a.md)
-_Context: 2013–14 Thai political crisis, Prime Minister of Thailand, Yingluck Shinawatra_
+_Context: 2013-14 Thai political crisis, Prime Minister of Thailand, Yingluck Shinawatra_
 
 ### [The Autonomous Republic of Crimea has announced that it plans to hold a referendum for independence the same day as the elections in Ukraine. ](/news/2014/02/27/the-autonomous-republic-of-crimea-has-announced-that-it-plans-to-hold-a-referendum-for-independence-the-same-day-as-the-elections-in-ukraine.md)
 _Context: Autonomous Republic of Crimea, Crimean referendum, 2014, Ukrainian_

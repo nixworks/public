@@ -4,7 +4,7 @@
 Police in the Thai capital, Bangkok, use tear gas against thousands of protesters calling for the overthrow of the prime minister.
 
 ### [23-year-old Czech beauty queen Tereza Fajksov wins Miss Earth 2012, the 12th edition of the Miss Earth pageant, in Alabang, Muntinlupa City, Philippines. ](/news/2012/11/24/23-year-old-czech-beauty-queen-tereza-fajksova-wins-miss-earth-2012-the-12th-edition-of-the-miss-earth-pageant-in-alabang-muntinlupa-city.md)
-_Context: Alabang, Czech, Miss Earth, Miss Earth 2012, Muntinlupa City, Philippines, Tereza Fajksová_
+_Context: Alabang, Czech, Miss Earth, Miss Earth 2012, Muntinlupa City, Philippines, Tereza Fajksov_
 
 ### [The music video for South Korean pop singer Psy's "Gangnam Style" surpasses 808 million views, making it the most viewed video in the history of YouTube. ](/news/2012/11/24/the-music-video-for-south-korean-pop-singer-psy-s-gangnam-style-surpasses-808-million-views-making-it-the-most-viewed-video-in-the-histor.md)
 _Context: Gangnam Style, Psy, South Korea, YouTube_
@@ -40,7 +40,7 @@ Education Secretary Michael Gove and Rotherham Council are to investigate separa
 Stormont First Minister Peter Robinson tells the DUP conference he believes a majority of Catholics now support Northern Ireland staying within the UK.
 
 ### [Puerto Rican professional boxer and former world champion Hctor Camacho dies four days after being shot in his hometown of Bayamn, Puerto Rico. ](/news/2012/11/24/puerto-rican-professional-boxer-and-former-world-champion-hector-camacho-dies-four-days-after-being-shot-in-his-hometown-of-bayamon-puerto.md)
-_Context: Bayamón, Héctor Camacho, Puerto Rican, Puerto Rico, boxing_
+_Context: Bayamn, Hctor Camacho, Puerto Rican, Puerto Rico, boxing_
 
 ### [In athletics, Jamaican sprinter Usain Bolt and American sprinter Allyson Felix are named 2012 IAAF World Athletes of the Year. ](/news/2012/11/24/in-athletics-jamaican-sprinter-usain-bolt-and-american-sprinter-allyson-felix-are-named-2012-iaaf-world-athletes-of-the-year.md)
 _Context: Allyson Felix, American, IAAF, Jamaican, Usain Bolt, World Athletes of the Year, athletics_

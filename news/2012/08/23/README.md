@@ -16,13 +16,13 @@ A hot air balloon crashes and catches fire in Slovenia, killing four people and 
 _Context: Asia, autoantibodies, chronic, contagious, disease, environment, genetic, genotype, immunodeficiency, interferon-gamma, new_
 
 ### [The ''Waddenvereniging'' in the Netherlands expects the human-friendly starry smooth-hound shark to return to the Wadden Sea in a few years, after specimina were marked in the Oosterschelde and in another Zeeland part of the Rhine-Meuse-Scheldt delta. ](/news/2012/08/23/the-waddenvereniging-in-the-netherlands-expects-the-human-friendly-starry-smooth-hound-shark-to-return-to-the-wadden-sea-in-a-few-years.md)
-_Context: Netherlands, Oosterschelde, Rhine–Meuse–Scheldt delta, Wadden Sea, Waddenvereniging, Zeeland, shark, specimina, starry smooth-hound_
+_Context: Netherlands, Oosterschelde, Rhine-Meuse-Scheldt delta, Wadden Sea, Waddenvereniging, Zeeland, shark, specimina, starry smooth-hound_
 
 ### [Israel's President Shimon Peres stresses that circumcision is "at the core of Jewish identity", in a letter on a controversy in Germany over circumcision. ](/news/2012/08/23/israel-s-president-shimon-peres-stresses-that-circumcision-is-at-the-core-of-jewish-identity-in-a-letter-on-a-controversy-in-germany-over.md)
 _Context: Jewish identity, Shimon Peres, circumcision, circumcision, controversy_
 
 ### [Baltasar Garzon promises he has a surprise in the case against his client Julian Assange. The Swedish prosecutor refuses to travel to London. ](/news/2012/08/23/baltasar-garza3n-promises-he-has-a-surprise-in-the-case-against-his-client-julian-assange-the-swedish-prosecutor-refuses-to-travel-to-londo.md)
-_Context: Baltasar Garzón, Julian Assange, London, Swedish_
+_Context: Baltasar Garzon, Julian Assange, London, Swedish_
 
 ### [Russia says that it is working closely with the Syrian government to establish guarantees that Assad won't move or use Syria's chemical weapons. ](/news/2012/08/23/russia-says-that-it-is-working-closely-with-the-syrian-government-to-establish-guarantees-that-assad-won-t-move-or-use-syria-s-chemical-weap.md)
 Speaking in an interview to The Associated Press, Deputy Foreign Minister Gennady Gatilov said Russia is working closely with the Assad regime to make sure its arsenal of chemical weapons is secure.

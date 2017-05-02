@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Blaise Compaore, President of Burkina Faso, who took power in a coup 24 years ago, reportedly flees a mutiny of his military bodyguards. ](/news/2011/04/15/blaise-compaore-president-of-burkina-faso-who-took-power-in-a-coup-24-years-ago-reportedly-flees-a-mutiny-of-his-military-bodyguards.md) _Context: Blaise Compaoré, Burkina Faso_
+1. [Blaise Compaore, President of Burkina Faso, who took power in a coup 24 years ago, reportedly flees a mutiny of his military bodyguards. ](/news/2011/04/15/blaise-compaore-president-of-burkina-faso-who-took-power-in-a-coup-24-years-ago-reportedly-flees-a-mutiny-of-his-military-bodyguards.md) _Context: Blaise Compaor, Burkina Faso_
 2. [Burkina Faso and Swaziland refuse to break relations with Taiwan and recognize the One-China policy despite being offered aid from China. ](/news/2017/01/25/burkina-faso-and-swaziland-refuse-to-break-relations-with-taiwan-and-recognize-the-one-china-policy-despite-being-offered-aid-from-china.md) _Context: Burkina Faso_
 3. [An attack on a border post near Burkina Faso's border with Mali, leaves at least 12 Burkinabe troops dead and two others missing. ](/news/2016/12/16/an-attack-on-a-border-post-near-burkina-faso-s-border-with-mali-leaves-at-least-12-burkinabe-troops-dead-and-two-others-missing.md) _Context: Burkina Faso_
 4. [An al Qaeda affiliate has freed Jocelyn Elliott, an Australian woman kidnapped in Burkina Faso along with her husband. ](/news/2016/02/6/an-al-qaeda-affiliate-has-freed-jocelyn-elliott-an-australian-woman-kidnapped-in-burkina-faso-along-with-her-husband.md) _Context: Burkina Faso_

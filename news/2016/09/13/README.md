@@ -31,7 +31,7 @@ Opening arguments began on Tuesday in the trial of former American International
 _Context: Chelsea Manning, Espionage Act, Fort Leavenworth, WikiLeaks, gender reassignment_
 
 ### [The Cuban-born American arsonist who torched 87 people in March 1990 at The Bronx Happy Land fire, Julio Gonzalez, dies in prison at the age of 61. ](/news/2016/09/13/the-cuban-born-american-arsonist-who-torched-87-people-in-march-1990-at-the-bronx-happy-land-fire-julio-gonza-lez-dies-in-prison-at-the-ag.md)
-_Context: Happy Land fire, Julio González, The Bronx_
+_Context: Happy Land fire, Julio Gonzalez, The Bronx_
 
 ### [Philippine president Rodrigo Duterte accuses the Liberal Party of former president Benigno Aquino III and their allies of orchestrating an impeachment complaint against him regarding his anti-drug campaign. ](/news/2016/09/13/philippine-president-rodrigo-duterte-accuses-the-liberal-party-of-former-president-benigno-aquino-iii-and-their-allies-of-orchestrating-an-i.md)
 President Rodrigo Duterte on Monday virtually accused forces loyal to his predecessor of fanning &#039;intrigues&#039; against him by blaming him for the killings of nearly 3,000 people in his tough campaign on illegal drugs.

@@ -7,7 +7,7 @@ THE forthcoming May 9 national and local elections have prompted the Foreign and
 _Context: Aleppo, Syrian Civil War, Syrian Observatory for Human Rights_
 
 ### [A suicide bomber kills at least nine people at a Shi'ite mosque in southwestern Baghdad. A second attacker was shot dead by security forces before he could detonate his explosives. ](/news/2016/04/22/a-suicide-bomber-kills-at-least-nine-people-at-a-shi-ite-mosque-in-southwestern-baghdad-a-second-attacker-was-shot-dead-by-security-forces.md)
-_Context: Baghdad, Iraqi Civil War (2014–present), Shi'ite_
+_Context: Baghdad, Iraqi Civil War (2014-present), Shi'ite_
 
 ### [The United States admits it has killed 20 civilians and wounded 11 others in airstrikes in Syria and Iraq between September 10, 2015, and February 2, 2016. ](/news/2016/04/22/the-united-states-admits-it-has-killed-20-civilians-and-wounded-11-others-in-airstrikes-in-syria-and-iraq-between-september-10-2015-and-fe.md)
 The United States military revealed Friday that it has killed 20 civilians and wounded 11 others in recent airstrikes in Syria and Iraq.
@@ -52,7 +52,7 @@ The US House of Representatives’ Foreign Affairs Committee on Wednesday unanim
 Records are set to be broken as 168 countries line up to sign the historic UN Paris agreement on climate change in New York, but what happens after that?
 
 ### [U.S. General Curtis Scaparrotti, the incoming head of the United States military forces in Europe, says he supports a permanent brigade-sized presence of U.S. combat troops in Eastern Europe to deter Russia's expanded and assertive actions. ](/news/2016/04/22/u-s-general-curtis-scaparrotti-the-incoming-head-of-the-united-states-military-forces-in-europe-says-he-supports-a-permanent-brigade-size.md)
-_Context: Cold War II, Curtis Scaparrotti, Europe, NATO–Russia relations, Russia, U.S. military personnel, United States, eastern Europe_
+_Context: Cold War II, Curtis Scaparrotti, Europe, NATO-Russia relations, Russia, U.S. military personnel, United States, eastern Europe_
 
 ### [Belize accuses Guatemala of "amassing" troops on the disputed Belize-Guatemala border following the death of a teenage Guatemalan boy in a shooting incident apparently involving Belize Defence Force soldiers. Guatemalan President Jimmy Morales called the shooting a "cowardly and excessive attack" that merits the "total condemnation of the Guatemalan state". ](/news/2016/04/22/belize-accuses-guatemala-of-amassing-troops-on-the-disputed-belizeaguatemala-border-following-the-death-of-a-teenage-guatemalan-boy-in-a.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
@@ -81,7 +81,7 @@ Mexican President Enrique Pena Nieto proposes legalising marijuana for medical p
 ### [The Commission on Election announced that the May 9 elections shall push through despite a massive breach on its database by hackers which puts 55 million registered Filipino voters at risk.](/news/2016/04/22/the-commission-on-election-announced-that-the-may-9-elections-shall-push-through-despite-a-massive-breach-on-its-database-by-hackers-which-p.md)
 _Context: Philippine general election, 2016, a massive breach on its database_
 
-### [Oceanographers discover an extensive reef system near the Amazon River, estimated to span an area of {{convert|3600|mi2|km2}}. ](/news/2016/04/22/oceanographers-discover-an-extensive-reef-system-near-the-amazon-river-estimated-to-span-an-area-of-convert-3600-mi2-km2.md)
+### [Oceanographers discover an extensive reef system near the Amazon River, estimated to span an area of 3600|mi2|km2. ](/news/2016/04/22/oceanographers-discover-an-extensive-reef-system-near-the-amazon-river-estimated-to-span-an-area-of-3600-mi2-km2.md)
 It’s at the mouth of the Amazon River. 
 
 ### [China's National Space Administration says it is working on a program to land a rover on Mars by 2020. ](/news/2016/04/22/china-s-national-space-administration-says-it-is-working-on-a-program-to-land-a-rover-on-mars-by-2020.md)

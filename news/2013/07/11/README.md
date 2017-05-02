@@ -7,7 +7,7 @@ Bomb and gun attacks across Iraq kill more than 30 people, many of them members 
 Some 250,000 people are forced to leave their homes because of flooding in the north-eastern Indian state of Assam, officials say.
 
 ### [The death toll from the Lac-Mgantic train disaster is presumed at 50. ](/news/2013/07/11/the-death-toll-from-the-lac-megantic-train-disaster-is-presumed-at-50.md)
-_Context: Lac-Mégantic train disaster_
+_Context: Lac-Mgantic train disaster_
 
 ### [Heavy rain in southwest China causes floods and landslides with at least 9 people dead and 62 missing. ](/news/2013/07/11/heavy-rain-in-southwest-china-causes-floods-and-landslides-with-at-least-9-people-dead-and-62-missing.md)
 _Context: China's, floods and landslides_

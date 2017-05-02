@@ -25,7 +25,7 @@ _Context: Israel, Tel Aviv, United Kingdom, embassies_
 _Context: 1939, Airfix, Humbrol, United Kingdom, administrators_
 
 ### [ Syria welcomes Venezuelan President Hugo Chvez, who said yesterday that the two countries will "build a new world" free of U.S. domination and vowed to one day "dig the grave of U.S. imperialism." State Department spokesman Tom Casey retorts that Chvez should remind Damascus about its international obligations to prevent Hezbollah from receiving weapons. ](/news/2006/08/31/syria-welcomes-venezuelan-president-hugo-chavez-who-said-yesterday-that-the-two-countries-will-build-a-new-world-free-of-u-s-domination.md)
-_Context: Hezbollah, Hugo Chávez, Syria, Tom Casey, Venezuela_
+_Context: Hezbollah, Hugo Chvez, Syria, Tom Casey, Venezuela_
 
 ### [ Mahmoud Ahmadinejad, the President of Iran, stated that Iran had the right to use nuclear technology on the day that a United Nations Security Council deadline expires. President Ahmadinejad said: "They should know that the Iranian nation will not yield to pressure and will not let its rights be trampled on." ](/news/2006/08/31/mahmoud-ahmadinejad-the-president-of-iran-stated-that-iran-had-the-right-to-use-nuclear-technology-on-the-day-that-a-united-nations-secur.md)
 _Context: Iran, Iranian President, Mahmoud Ahmadinejad, United Nations Security Council_

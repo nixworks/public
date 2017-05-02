@@ -22,7 +22,7 @@ _Context: AstraZeneca, Pfizer Inc._
 Storms in southern and central China have left at least 26 people dead and 10 missing, state media says.
 
 ### [Coup leader Prayuth Chan-ocha claims to have the confidence of King of Thailand Bhumibol Adulyadej. ](/news/2014/05/26/coup-leader-prayuth-chan-ocha-claims-to-have-the-confidence-of-king-of-thailand-bhumibol-adulyadej.md)
-_Context: 2014 Thai coup d'état, Bhumibol Adulyadej, King, Prayuth Chan-ocha_
+_Context: 2014 Thai coup d'tat, Bhumibol Adulyadej, King, Prayuth Chan-ocha_
 
 ### [Shri Narendra Modi is sworn in as the 15th Prime Minister of India. ](/news/2014/05/26/shri-narendra-modi-is-sworn-in-as-the-15th-prime-minister-of-india.md)
 _Context: India's Prime Minister, Narendra Modi_

@@ -10,7 +10,7 @@ The Bishop of Down and Connor has described as &#39;faith-shaking&#39; the &#39;
 _Context: Shanxi province_
 
 ### [Brazilian land reform activist Pedro Alcantara de Souza is fatally shot five times in the head by two men on motorcycles as he tries to ride his own bicycle in Par. ](/news/2010/04/2/brazilian-land-reform-activist-pedro-alcantara-de-souza-is-fatally-shot-five-times-in-the-head-by-two-men-on-motorcycles-as-he-tries-to-ride.md)
-_Context: Brazil, Pará, Pedro Alcantara de Souza_
+_Context: Brazil, Para, Pedro Alcantara de Souza_
 
 ### [Soyuz TMA-18 is launched from the Baikonur Cosmodrome, carrying three members of the Expedition 23 crew of the International Space Station. ](/news/2010/04/2/soyuz-tma-18-is-launched-from-the-baikonur-cosmodrome-carrying-three-members-of-the-expedition-23-crew-of-the-international-space-station.md)
 _Context: Baikonur Cosmodrome, Expedition 23, International Space Station, Soyuz TMA-18_

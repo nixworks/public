@@ -11,7 +11,7 @@ A man arrested in the northern Mexican city of Chihuahua on Friday admits to ord
 
 ### Related:
 
-1. [The Mexican media reports that hitman Jos Antonio Acosta Hernndez, associated with the La Lnea gang, is arrested in Chihuahua in connection to killing United States consular official and murders at a Juarez birthday party. ](/news/2011/07/30/the-mexican-media-reports-that-hitman-jose-antonio-acosta-hernandez-associated-with-the-la-linea-gang-is-arrested-in-chihuahua-in-connecti.md) _Context: Chihuahua, José Antonio Acosta Hernández_
+1. [The Mexican media reports that hitman Jos Antonio Acosta Hernndez, associated with the La Lnea gang, is arrested in Chihuahua in connection to killing United States consular official and murders at a Juarez birthday party. ](/news/2011/07/30/the-mexican-media-reports-that-hitman-jose-antonio-acosta-hernandez-associated-with-the-la-linea-gang-is-arrested-in-chihuahua-in-connecti.md) _Context: Chihuahua, Jos Antonio Acosta Hernndez_
 2. [40 people are killed and at least four others are wounded in an attack by at least 30 gunmen in Chihuahua, Mexico. ](/news/2010/06/11/40-people-are-killed-and-at-least-four-others-are-wounded-in-an-attack-by-at-least-30-gunmen-in-chihuahua-mexico.md) _Context: Chihuahua, Mexico_
 3. [Ciudad Juarez-based newspaper ''Norte'' closes its print edition, citing a lack of security in Mexico. ](/news/2017/04/2/ciudad-jua-rez-based-newspaper-norte-closes-its-print-edition-citing-a-lack-of-security-in-mexico.md) _Context: Mexico_
 4. [Mexico states that it will reject third-country deportees. ](/news/2017/02/24/mexico-states-that-it-will-reject-third-country-deportees.md) _Context: Mexico_

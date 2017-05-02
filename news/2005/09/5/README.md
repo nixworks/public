@@ -7,13 +7,13 @@ _Context: ''Admiral Kuznetsov'', Aftenposten, Norwegian Sea, Russian Navy, Shetl
 _Context: 2005 elections, EPRDF, Ethiopia_
 
 ### [ Typhoon Nabi (Category 3) reaches the Japanese coasts. It will make landfall today, and is expected to take 3 days to cross the island of Kyushu. ](/news/2005/09/5/typhoon-nabi-category-3-reaches-the-japanese-coasts-it-will-make-landfall-today-and-is-expected-to-take-3-days-to-cross-the-island-of-k.md)
-_Context: Japan, Kyūshū, Typhoon Nabi_
+_Context: Japan, Kyushu, Typhoon Nabi_
 
 ### [ Hurricane Katrina: Senator and former First Lady Hillary Clinton calls for a "9/11 Style Inquiry" into the U.S. federal government's response to the Hurricane. ](/news/2005/09/5/hurricane-katrina-senator-and-former-first-lady-hillary-clinton-calls-for-a-9-11-style-inquiry-into-the-u-s-federal-government-s-respon.md)
-_Context: First Lady, Government of the United States, Hillary Clinton, Hurricane Katrina, Senator_
+_Context: First Lady, Government of the United States, Hillary Clinton, Hurricane Katrina, United States Senate_
 
 ### [ A cable car crash at Solden, Otztal, in the Austrian Alps leaves nine people dead when a helicopter carrying construction materials dropped concrete onto the cable. ](/news/2005/09/5/a-cable-car-crash-at-saplden-atztal-in-the-austrian-alps-leaves-nine-people-dead-when-a-helicopter-carrying-construction-materials-dropp.md)
-_Context: Alps, Austria, Sölden, cable car, Ötztal_
+_Context: Alps, Austria, Otztal, Solden, cable car_
 
 ### [ American jurist John G. Roberts, Jr. is nominated by US President George W. Bush as the next Chief Justice of the United States. [http://www.msnbc.msn.com/id/9215790/ (MSNBC)]  Bush withdrew Roberts' original nomination to succeed retiring Associate Justice Sandra Day O'Connor.](/news/2005/09/5/american-jurist-john-g-roberts-jr-is-nominated-by-us-president-george-w-bush-as-the-next-chief-justice-of-the-united-states-http-ww.md)
 _Context: Chief Justice, George W. Bush, John G. Roberts, Jr., Justice, Sandra Day O'Connor, jurist, president_

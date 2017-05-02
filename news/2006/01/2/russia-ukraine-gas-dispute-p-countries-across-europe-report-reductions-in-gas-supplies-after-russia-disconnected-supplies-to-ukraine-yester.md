@@ -1,6 +1,6 @@
 ### [2006-01-2](/news/2006/01/2/index.md)
 
-#  Russia-Ukraine gas dispute: Countries across Europe report reductions in gas supplies after Russia disconnected supplies to Ukraine yesterday. Russia accuses Ukraine of stealing {{Nowrap|100 million}} cubic metres of gas yesterday from pipelines transiting the country; Ukraine denies this but has previously claimed the right to 15% of the gas as a transit toll. Hungary reports supplies are down by 40%, France and Italy by 30%, and Poland by 14%. Germany, Russia's principal customer, also reports reductions. Russian supplier Gazprom says that it will increase supplies and return them to normal by Tuesday night. 
+#  Russia-Ukraine gas dispute: Countries across Europe report reductions in gas supplies after Russia disconnected supplies to Ukraine yesterday. Russia accuses Ukraine of stealing 100 million cubic metres of gas yesterday from pipelines transiting the country; Ukraine denies this but has previously claimed the right to 15% of the gas as a transit toll. Hungary reports supplies are down by 40%, France and Italy by 30%, and Poland by 14%. Germany, Russia's principal customer, also reports reductions. Russian supplier Gazprom says that it will increase supplies and return them to normal by Tuesday night. 
 
 
 

@@ -4,7 +4,7 @@
 _Context: Hama province, Syrian Civil War, Syrian Observatory for Human Rights, car bomb_
 
 ### [Iraqi insurgency (2011-13):A suicide bomber kills 23 Iraqi army recruits and wounds 36 in Baghdad. ](/news/2014/01/9/iraqi-insurgency-2011a13-pa-suicide-bomber-kills-23-iraqi-army-recruits-and-wounds-36-in-baghdad.md)
-_Context: Baghdad, Iraq, Iraqi insurgency (2011–13)_
+_Context: Baghdad, Iraq, Iraqi insurgency (2011-13)_
 
 ### [14-year-old boy Aitizaz Hassan in northern Pakistan is killed stopping a suicide bomber at the main gate of his school but saves the lives of all of his schoolmates gathered for their morning assembly. The Sunni group Lashkar-e-Jhangvi claims responsibility for the attack. ](/news/2014/01/9/14-year-old-boy-aitizaz-hassan-in-northern-pakistan-is-killed-stopping-a-suicide-bomber-at-the-main-gate-of-his-school-but-saves-the-lives-o.md)
 _Context: Aitizaz Hassan, Lashkar-e-Jhangvi, War in North-West Pakistan, suicide bomber_

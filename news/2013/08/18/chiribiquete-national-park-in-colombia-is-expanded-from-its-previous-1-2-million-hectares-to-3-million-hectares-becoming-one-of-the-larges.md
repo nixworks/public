@@ -1,6 +1,6 @@
 ### [2013-08-18](/news/2013/08/18/index.md)
 
-# Chiribiquete National Park, in Colombia, is expanded from its previous 1.2 Million Hectares to 3 Million Hectares becoming one of the largest protected zones in the Amazon. This announcement was made by the Colombian government after Ecuador decided to open up Yasuni National Park to oil drilling after a six year initiative to protect the rain forest.{{citation needed|date=January 2015}}
+# Chiribiquete National Park, in Colombia, is expanded from its previous 1.2 Million Hectares to 3 Million Hectares becoming one of the largest protected zones in the Amazon. This announcement was made by the Colombian government after Ecuador decided to open up Yasuni National Park to oil drilling after a six year initiative to protect the rain forest.date=January 2015
 
 
 

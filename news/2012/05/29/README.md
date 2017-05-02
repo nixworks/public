@@ -7,7 +7,7 @@ Japan and Turkey join 11 countries in concerted move over massacre as Annan says
 _Context: Sheikh Sharif Ahmed, Somalia_
 
 ### [2012 South Sudan-Sudan border conflict: Sudan and South Sudan restart talks to avoid war amid accusations of bombing raids. ](/news/2012/05/29/2012-south-sudanasudan-border-conflict-sudan-and-south-sudan-restart-talks-to-avoid-war-amid-accusations-of-bombing-raids.md)
-_Context: 2012 South Sudan–Sudan border conflict, South Sudan, Sudan_
+_Context: 2012 South Sudan-Sudan border conflict, South Sudan, Sudan_
 
 ### [The gallery which exhibited Brett Murray's controversial painting ''The Spear'' agrees to take down an image of the artwork from its website as thousands of people march in protest through the streets of Johannesburg. ](/news/2012/05/29/the-gallery-which-exhibited-brett-murray-s-controversial-painting-the-spear-agrees-to-take-down-an-image-of-the-artwork-from-its-website.md)
 Thousands march through the streets of Johannesburg as outrage and tension over controversial painting continue.

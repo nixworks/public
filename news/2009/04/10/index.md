@@ -13,7 +13,7 @@ _Context: East Asia Summit, Fourth, Pattaya, Thailand_
 _Context: China's, executives, financial institution, state-owned_
 
 ### [ Japan strengthens its economic sanctions against North Korea, following the launch of Kwangmyongsong-2. ](/news/2009/04/10/japan-strengthens-its-economic-sanctions-against-north-korea-following-the-launch-of-kwangmyangsang-2.md)
-_Context: Japan, Kwangmyŏngsŏng-2, North Korea, sanctions_
+_Context: Japan, Kwangmyongsong-2, North Korea, sanctions_
 
 ### [ Fijian President Ratu Josefa Iloilo abrogates the Constitution and dismisses the Court of Appeal. ](/news/2009/04/10/fijian-president-ratu-josefa-iloilo-abrogates-the-constitution-and-dismisses-the-court-of-appeal.md)
 _Context: Constitution, Court of Appeal, Fiji, Josefa Iloilo, President of Fiji, abrogates_

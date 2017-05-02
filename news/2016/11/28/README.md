@@ -16,7 +16,7 @@ A Royal Canadian Air Force pilot has been killed in a CF-18 fighter crash near a
 Wind conditions worsen and fires grow, threatening resort towns near Smokies.
 
 ### [Texas confirms its first case of locally transmitted Zika virus by mosquitoes, becoming the second U.S. state to report a local transmission of the virus after Florida. The Texas Department of State Health Services says the case involves a woman living in Cameron County, who is not pregnant. ](/news/2016/11/28/texas-confirms-its-first-case-of-locally-transmitted-zika-virus-by-mosquitoes-becoming-the-second-u-s-state-to-report-a-local-transmission.md)
-_Context: 2015–16 Zika virus epidemic, Cameron County, Florida, Texas, Texas Department of State Health Services, United States, Zika virus_
+_Context: 2015-16 Zika virus epidemic, Cameron County, Florida, Texas, Texas Department of State Health Services, United States, Zika virus_
 
 ### [ Eleven people are hospitalized, one in critical condition, after a suspect rammed his  car  into a crowd, and then stabbed numerous people on Ohio State's Columbus campus. Police have declared the scene secure. The suspect, a refugee from Somalia, and a student at the university, is shot and killed by a police officer after he failed to obey orders to stop. ](/news/2016/11/28/eleven-people-are-hospitalized-one-in-critical-condition-after-a-suspect-rammed-his-car-into-a-crowd-and-then-stabbed-numerous-people.md)
 Abdul Razak Ali Artan was killed by a police officer after the car-and-knife ambush.
@@ -31,10 +31,10 @@ Harminder Singh had been sprung from prison in Punjab state along with four othe
 The estimated 2 to 3,000 protesters camped out in Cannon Ball, North Dakota, to protest the controversial Dakota Access pipeline must immediately evacuate, North Dakota Gov. Jack Dalrymple declared Monday night. Dalrymple said the camp&#x27;s semi-permanent shelters were not &quot;suitable for winter habitation&quot; in accordance with state building codes.
 
 ### [Denmark gets a new coalition government as the centre-right liberal party Venstre joins forces with the Conservative People's Party and the libertarian-leaning Liberal Alliance whose leader, Anders Samuelsen, becomes Denmark's sixth foreign minister in six years. ](/news/2016/11/28/denmark-gets-a-new-coalition-government-as-the-centre-right-liberal-party-venstre-joins-forces-with-the-conservative-people-s-party-and-the.md)
-_Context: Anders Samuelsen, Conservative People's Party, Danish, Lars Løkke Rasmussen III Cabinet, Liberal Alliance, Venstre, foreign minister_
+_Context: Anders Samuelsen, Conservative People's Party, Danish, Lars Lokke Rasmussen III Cabinet, Liberal Alliance, Venstre, foreign minister_
 
 ### [The Haitian national electoral commission promises to release results of the highly contested elections between the candidates Jovenel Moise of the Haitian Tet Kale Party, Maryse Narcisse of the Fanmi Lavalas and Jude Celestin of the Alternative League for Haitian Progress and Emancipation. ](/news/2016/11/28/the-haitian-national-electoral-commission-promises-to-release-results-of-the-highly-contested-elections-between-the-candidates-jovenel-moise.md)
-_Context: Alternative League for Haitian Progress and Emancipation, Fanmi Lavalas, Haiti, Haitian Tèt Kale Party, Haitian presidential election, 2016–17, Jovenel Moise, Jude Célestin, Maryse Narcisse_
+_Context: Alternative League for Haitian Progress and Emancipation, Fanmi Lavalas, Haiti, Haitian Tet Kale Party, Haitian presidential election, 2016-17, Jovenel Moise, Jude Celestin, Maryse Narcisse_
 
 ### [Paul Nuttall wins an overall majority in a vote to become the UK Independence Party's (UKIP) leader, succeeding Nigel Farage. ](/news/2016/11/28/paul-nuttall-wins-an-overall-majority-in-a-vote-to-become-the-uk-independence-party-s-ukip-leader-succeeding-nigel-farage.md)
 Paul Nuttall says he wants UKIP to &quot;replace Labour&quot; as he takes over from Nigel Farage as leader.

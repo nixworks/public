@@ -4,7 +4,7 @@
 Syrian forces are accused of killing scores of people in Homs in one of the bloodiest nights in months, but the government denies it as the UN Security Council meets.
 
 ### [The United Nations Assistance Mission in Afghanistan estimates that civilian deaths in the war in Afghanistan rose to a record level in 2011 of 3021 with insurgents responsible for most of the deaths. ](/news/2012/02/4/the-united-nations-assistance-mission-in-afghanistan-estimates-that-civilian-deaths-in-the-war-in-afghanistan-rose-to-a-record-level-in-2011.md)
-_Context: United Nations Assistance Mission in Afghanistan, War in Afghanistan (2001–present)_
+_Context: United Nations Assistance Mission in Afghanistan, War in Afghanistan (2001-present)_
 
 ### [Iran starts new military exercises as tensions rise over its nuclear program. ](/news/2012/02/4/iran-starts-new-military-exercises-as-tensions-rise-over-its-nuclear-program.md)
 _Context: Iran, nuclear scientist_

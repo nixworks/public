@@ -22,9 +22,9 @@ _Context: Harley Davidson, Menomonee Falls, Wisconsin_
 The food industry is jeopardizing U.S. public health by withholding information from food safety investigators or pressuring regulators to withdraw or alter policy designed to protect consumers, said a survey of government scientists and inspectors.
 
 ### [At least 17 people die after a Conviasa ATR 42 crashes near Ciudad Guayana in Venezuela's Bolivar State. ](/news/2010/09/13/at-least-17-people-die-after-a-conviasa-atr-42-crashes-near-ciudad-guayana-in-venezuela-s-bolavar-state.md)
-_Context: ATR 42, Bolívar State, Ciudad Guayana, Conviasa, Venezuela, crashes_
+_Context: ATR 42, Bolivar State, Ciudad Guayana, Conviasa, Venezuela, crashes_
 
-### [Monsoon flooding on the Yamuna River threatens the Taj Mahal in Agra, India after more than {{convert|800,000|cuft/s|m3/s|abbr=on}} of water had to be released from a barrage in Haryana, while hundreds of nearby villages flooded and flooding continues in Uttar Pradesh and Punjab. ](/news/2010/09/13/monsoon-flooding-on-the-yamuna-river-threatens-the-taj-mahal-in-agra-india-after-more-than-convert-800-000-cuft-s-m3-s-abbr-on-of-water.md)
+### [Monsoon flooding on the Yamuna River threatens the Taj Mahal in Agra, India after more than 800,000|cuft/s|m3/s|abbr=on of water had to be released from a barrage in Haryana, while hundreds of nearby villages flooded and flooding continues in Uttar Pradesh and Punjab. ](/news/2010/09/13/monsoon-flooding-on-the-yamuna-river-threatens-the-taj-mahal-in-agra-india-after-more-than-800-000-cuft-s-m3-s-abbr-on-of-water-had-to-be-r.md)
 _Context: Agra, Haryana, India, Punjab, Taj Mahal, Uttar Pradesh, Yamuna River, barrage, monsoon_
 
 ### [Russian diplomat Yuri Fedotov takes office as the head of the United Nations Office on Drugs and Crime. ](/news/2010/09/13/russian-diplomat-yuri-fedotov-takes-office-as-the-head-of-the-united-nations-office-on-drugs-and-crime.md)
@@ -37,10 +37,10 @@ _Context: National Resistance Movement, President, Uganda, Yoweri Museveni_
 It seems Kim Jong-il ̔s poor health is the reason for the delay of North Korea ̔s party representative meeting. The South Korean 24-hour news channel YTN cited a government official in Seoul on Monday who said South Korean officials are aware that Kim ̔s health had worsened after his recent trip to China delaying Pyeongyang ̔s Worker ̔s Party conference which was planned for last Monday. The source added that the North Korean leader ̔s condition is not serious enough to cancel the meeting and the conference would begin in the near future. It ̔s the first time in 40 years for the representative meeting to be held and it ̔s widely expected that the North ̔s next leader will be announced at the conference. 
 
 ### [Andre-Joseph Leonard, the Archbishopric of Mechelen-Brussels and head of Belgium's Roman Catholic Church, announces how the church will deal with widespread cases of sexual abuse within its ranks. ](/news/2010/09/13/andra-c-joseph-la-c-onard-the-archbishopric-of-mechelen-brussels-and-head-of-belgium-s-roman-catholic-church-announces-how-the-church-will-de.md)
-_Context: André-Joseph Léonard, Archbishopric of Mechelen-Brussels, Belgium, Roman Catholic, sexual abuse_
+_Context: Andre-Joseph Leonard, Archbishopric of Mechelen-Brussels, Belgium, Roman Catholic, sexual abuse_
 
 ### [US defense officials claim they are preparing to notify  Congress of plans to sell $60 billion of military equipment to Saudi Arabia. ](/news/2010/09/13/us-defense-officials-claim-they-are-preparing-to-notify-congress-of-plans-to-sell-60-billion-of-military-equipment-to-saudi-arabia.md)
-_Context: Saudi Arabia, U.S. Congress_
+_Context: Saudi Arabia, U.S. Congressional_
 
 ### [Rafael Nadal of Spain wins the Men's Singles at the 2010 US Open defeating Novak Djokovic of Serbia 6-4 5-7 6-4 6-2 becoming the seventh man in history to win all four Grand Slam titles, and the youngest man to ever achieve the Career Golden Slam. ](/news/2010/09/13/rafael-nadal-of-spain-wins-the-men-s-singles-at-the-2010-us-open-defeating-novak-djokovic-of-serbia-6-4-5-7-6-4-6-2-becoming-the-seventh-man.md)
 _Context: 2010 US Open, Grand Slam, Novak Djokovic, Rafael Nadal, Serbia, Spain_

@@ -28,7 +28,7 @@ At least 42 people are killed and nine injured in a collision between a train an
 A van crammed with farm workers crashed head-on into a truck in central Poland on Tuesday after apparently trying to overtake another vehicle in dense fog, killing all 18 people on board, offici...
 
 ### [2010 Atlantic hurricane season: Tropical Storm Paula (2010) reaches hurricane strength as it moves towards Mexico's Yucatan Peninsula. ](/news/2010/10/12/2010-atlantic-hurricane-season-tropical-storm-paula-2010-reaches-hurricane-strength-as-it-moves-towards-mexico-s-yucata-n-peninsula.md)
-_Context: 2010 Atlantic hurricane season, Tropical Storm Paula (2010), Yucatán Peninsula, hurricane_
+_Context: 2010 Atlantic hurricane season, Tropical Storm Paula (2010), Yucatan Peninsula, hurricane_
 
 ### [Tanker ''Mindolo'' and cargo ship ''Jork Ranger'' collide off Scheveningen, Netherlands. ](/news/2010/10/12/tanker-mindolo-and-cargo-ship-jork-ranger-collide-off-scheveningen-netherlands.md)
 _Context: Scheveningen, Tanker, cargo ship_
@@ -58,7 +58,7 @@ _Context: Ata-Zhurt, Kamchybek Tashiyev, Kyrgyzstani parliamentary election_
 The Obama administration has lifted a six month moratorium on deep water oil drilling in the Gulf of Mexico.
 
 ### [ Green Party Candidate, Laura Wells, is arrested upon trying to enter the 2010 Gubernatorial debate in California. All parties other than the  Republicans and  Democrats were barred from the debate. ](/news/2010/10/12/green-party-candidate-laura-wells-is-arrested-upon-trying-to-enter-the-2010-gubernatorial-debate-in-california-all-parties-other-than-th.md)
-_Context:  Green Party, Democrat, Gubernatorial, Laura Wells, Republican_
+_Context:  Green Party, Democratic, Gubernatorial, Laura Wells, Republican_
 
 ## [Previous Day...](/news/2010/10/11/index.md)
 

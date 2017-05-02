@@ -12,10 +12,10 @@ _Context: 2007 UK child benefit data scandal, HM Revenue and Customs, London, Pr
 ### [ Polish Prime Minister Donald Tusk declares that Poland should concentrate on getting its economy ready for euro-zone entry as quickly as possible rather than setting a concrete target date to adopt the euro. ](/news/2007/11/24/polish-prime-minister-donald-tusk-declares-that-poland-should-concentrate-on-getting-its-economy-ready-for-euro-zone-entry-as-quickly-as-po.md)
 _Context: Donald Tusk, Poland, euro_
 
-### [ 12 people are killed when a students' union rally turns violent in Guwahati, India.{{Fact|date=December 2007}} ](/news/2007/11/24/12-people-are-killed-when-a-students-union-rally-turns-violent-in-guwahati-india-fact-date-december-2007.md)
+### [ 12 people are killed when a students' union rally turns violent in Guwahati, India.date=December 2007 ](/news/2007/11/24/12-people-are-killed-when-a-students-union-rally-turns-violent-in-guwahati-india-date-december-2007.md)
 _Context: Guwahati, India, demonstration_
 
-### [ Wildfires in Malibu, California, cause 100 homes in 3 separate communities to be evacuated. {{convert|250|acre|km2}} of state park land burned south of Malibu Lake. ](/news/2007/11/24/wildfires-in-malibu-california-cause-100-homes-in-3-separate-communities-to-be-evacuated-convert-250-acre-km2-of-state-park-land-bur.md)
+### [ Wildfires in Malibu, California, cause 100 homes in 3 separate communities to be evacuated. 250|acre|km2 of state park land burned south of Malibu Lake. ](/news/2007/11/24/wildfires-in-malibu-california-cause-100-homes-in-3-separate-communities-to-be-evacuated-250-acre-km2-of-state-park-land-burned-south-of.md)
 _Context: California, Malibu, state park, wildfires_
 
 ### [ Typhoon Mitag remains static over the Philippine Sea but changes course, and is expected to make landfall in Aurora-Isabela provinces of the Philippines on Monday due to the very slow and unusual movement. ](/news/2007/11/24/typhoon-mitag-remains-static-over-the-philippine-sea-but-changes-course-and-is-expected-to-make-landfall-in-aurora-isabela-provinces-of-th.md)

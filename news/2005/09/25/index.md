@@ -7,7 +7,7 @@ Megory Anderson, executive director of the Sacred Dying Foundation and a former 
 _Context: 2005 northern Peru earthquake, Peru_
 
 ### [ Renault driver Fernando Alonso becomes the youngest ever Formula One champion when finishing 3rd behind McLaren rivals Juan Pablo Montoya and Kimi Raikkonen in the 2005 Brazilian Grand Prix ](/news/2005/09/25/renault-driver-fernando-alonso-becomes-the-youngest-ever-formula-one-champion-when-finishing-3rd-behind-mclaren-rivals-juan-pablo-montoya-a.md)
-_Context: 2005 Brazilian Grand Prix, Fernando Alonso, Formula One, Juan Pablo Montoya, Kimi Räikkönen, McLaren, Renault_
+_Context: 2005 Brazilian Grand Prix, Fernando Alonso, Formula One, Juan Pablo Montoya, Kimi Raikkonen, McLaren, Renault_
 
 ### [ Polish parliamentary election, 2005: As predicted by polls, support for Prime Minister Marek Belka's post-communist Alliance of the Democratic Left drops sharply to about 11%, while center-right opposition  parties Law and Justice and Civic Platform will obtain about 28% and 26%, respectively. ](/news/2005/09/25/polish-parliamentary-election-2005-as-predicted-by-polls-support-for-prime-minister-marek-belka-s-post-communist-alliance-of-the-democra.md)
 _Context: Alliance of the Democratic Left, Civic Platform, Law and Justice, Polish parliamentary election, 2005_
@@ -19,7 +19,7 @@ _Context: 2011, European Union, Swiss, referendum_
 _Context: Baghdad, Conflict in Iraq, Mahdi Army, Muslim, Sadr City, Shia, US soldiers, United States_
 
 ### [ Conflict in Afghanistan: 5 US soldiers die when a Chinook helicopter crashes in Zabul, southern Afghanistan. ](/news/2005/09/25/conflict-in-afghanistan-5-us-soldiers-die-when-a-chinook-helicopter-crashes-in-zabul-southern-afghanistan.md)
-_Context: Afghanistan, CH-47 Chinook, US soldiers, War in Afghanistan (2001–present), Zabul_
+_Context: Afghanistan, CH-47 Chinook, US soldiers, War in Afghanistan (2001-present), Zabul_
 
 ### [ Over 100,000 people attend Anti Iraq War rally held in Washington D.C.. ](/news/2005/09/25/over-100-000-people-attend-anti-iraq-war-rally-held-in-washington-d-c.md)
 _Context: Washington, D.C._

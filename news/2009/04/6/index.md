@@ -1,7 +1,7 @@
 ## [2009-04-6](/news/2009/04/6/index.md)
 
 ### [ Convicted murderer Annika Ostberg is transferred to Sweden from California's Institution for Women. ](/news/2009/04/6/convicted-murderer-annika-astberg-is-transferred-to-sweden-from-california-s-institution-for-women.md)
-_Context: Annika Östberg, California, Institution for Women, Sweden, convicted, murder_
+_Context: Annika Ostberg, California, Institution for Women, Sweden, convicted, murder_
 
 ### [ Six car bombs kill at least 34 people and injure 139 others in Baghdad, Iraq.  ](/news/2009/04/6/six-car-bombs-kill-at-least-34-people-and-injure-139-others-in-baghdad-iraq.md)
 _Context: Baghdad, Iraq, Six car bombs_
@@ -16,7 +16,7 @@ _Context: 2009 L'Aquila earthquake, Italian, L'Aquila, magnitude_
 _Context: Afghan government's, Afghanistan, Sharia, men to rape their wives_
 
 ### [ Gjorge Ivanov of VMRO-DPMNE wins Macedonia's presidential election.  ](/news/2009/04/6/gjorge-ivanov-of-vmroadpmne-wins-macedonia-s-presidential-election.md)
-_Context: Gjorge Ivanov, Macedonian, VMRO–DPMNE, election, presidential_
+_Context: Gjorge Ivanov, Macedonian, VMRO-DPMNE, election, presidential_
 
 ### [ Somali pirates hijack five ships from the United Kingdom, Taiwan, Germany, France, and Yemen. ](/news/2009/04/6/somali-pirates-hijack-five-ships-from-the-united-kingdom-taiwan-germany-france-and-yemen.md)
 _Context: France, Germany, Somali pirates, Somalia, Taiwan, United Kingdom, Yemen, ship_

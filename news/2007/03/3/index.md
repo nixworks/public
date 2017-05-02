@@ -1,7 +1,7 @@
 ## [2007-03-3](/news/2007/03/3/index.md)
 
 ### [ The eviction of Ungdomshuset by Danish police results in more rioting in Nrrebro, Copenhagen, leading to about 100 arrests during a second night of protests. ](/news/2007/03/3/the-eviction-of-ungdomshuset-by-danish-police-results-in-more-rioting-in-norrebro-copenhagen-leading-to-about-100-arrests-during-a-second.md)
-_Context: Copenhagen, Danish, Nørrebro, Ungdomshuset, eviction_
+_Context: Copenhagen, Danish, Nrrebro, Ungdomshuset, eviction_
 
 ### [ United States President Bush declares Coffee County, Alabama, hit by a tornado last Thursday, to be a federal disaster area. ](/news/2007/03/3/united-states-president-bush-declares-coffee-county-alabama-hit-by-a-tornado-last-thursday-to-be-a-federal-disaster-area.md)
 _Context: Coffee County, Alabama, George W. Bush, United States, federal disaster area, president, tornado_

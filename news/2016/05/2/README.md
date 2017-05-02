@@ -1,7 +1,7 @@
 ## [2016-05-2](/news/2016/05/2/index.md)
 
 ### [Three bombings in and around Baghdad kill at least 14, including Shiite pilgrims, and injure more than 30. ](/news/2016/05/2/three-bombings-in-and-around-baghdad-kill-at-least-14-including-shiite-pilgrims-and-injure-more-than-30.md)
-_Context: Baghdad, Iraqi Civil War (2014–present), Shiite_
+_Context: Baghdad, Iraqi Civil War (2014-present), Shiite_
 
 ### [The first of seventy British military personnel arrive in Somalia to help combat the threat of Islamist militants. The remaining troops will join the United Nations peacekeepers and AMISOM soldiers in countering Al-Shabaab later on this year. This deployment is part of a greater effort by the United Kingdom to target terrorism. ](/news/2016/05/2/the-first-of-seventy-british-military-personnel-arrive-in-somalia-to-help-combat-the-threat-of-islamist-militants-the-remaining-troops-will.md)
 Up to 70 UK personnel will be deployed this year to counter the extremist group Al-Shabaab
@@ -16,13 +16,13 @@ Philippine stocks fell the most since February after a poll showed tough-talking
 Australian entrepreneur Craig Wright has publicly identified himself as Bitcoin creator Satoshi Nakamoto.
 
 ### [Puerto Rico defaults on a $422 million debt payment. The Governor of Puerto Rico Alejandro Garcia Padilla calls the situation a "humanitarian crisis". This is the third time Puerto Rico has defaulted on bond payments. ](/news/2016/05/2/puerto-rico-defaults-on-a-422-million-debt-payment-the-governor-of-puerto-rico-alejandro-garcaa-padilla-calls-the-situation-a-humanitari.md)
-_Context: Alejandro García Padilla, Governor of Puerto Rico, Puerto Rican government-debt crisis, Puerto Rico, defaults_
+_Context: Alejandro Garcia Padilla, Governor of Puerto Rico, Puerto Rican government-debt crisis, Puerto Rico, defaults_
 
 ### [The bodies of mountaineer Alex Lowe and photographer David Bridges are found on the Himalayan mountain Shishapangma after being buried in an avalanche in 1999. ](/news/2016/05/2/the-bodies-of-mountaineer-alex-lowe-and-photographer-david-bridges-are-found-on-the-himalayan-mountain-shishapangma-after-being-buried-in-an.md)
 The American known as ‘Lungs With Legs’ was climbing the 8,013m Shishapangma in 1999 when he was hit by an avalanche
 
 ### [About 200 U.S. troops arrive in Moldova from Romania for planned military exercises with the Moldovan military which will last until May 20. ](/news/2016/05/2/about-200-u-s-troops-arrive-in-moldova-from-romania-for-planned-military-exercises-with-the-moldovan-military-which-will-last-until-may-20.md)
-_Context: Moldova, Moldovan military, Moldova–United States relations, Romania, U.S. military personnel_
+_Context: Moldova, Moldova-United States relations, Moldovan military, Romania, U.S. military personnel_
 
 ### [United States Chief of Naval Operations Admiral John M. Richardson says Russian jets in the Baltics buzzing a U.S. military ship and planes are escalating tension between the two nations. Richardson added he doesn't think the Russians are trying to provoke an incident but these actions increase the chance of a "tactical miscalculation." ](/news/2016/05/2/united-states-chief-of-naval-operations-admiral-john-m-richardson-says-russian-jets-in-the-baltics-buzzing-a-u-s-military-ship-and-planes.md)
 Another close Russian fighter jet fly-by of a U.S. aircraft prompts plea from Admiral John M. Richardson

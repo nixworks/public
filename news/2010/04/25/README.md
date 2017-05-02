@@ -19,7 +19,7 @@ _Context: Adi Haro, Ethiopia_
 Settlers call for Palestinian homes to be demolished as US envoy tries to restart talks.
 
 ### [Mexican Labour Party leader in Guerrero Rey Hernandez dies after being shot at least seven times outside his home in Tlacoachistlahuaca. ](/news/2010/04/25/mexican-labour-party-leader-in-guerrero-rey-herna-ndez-dies-after-being-shot-at-least-seven-times-outside-his-home-in-tlacoachistlahuaca.md)
-_Context: Guerrero, Mexican Labour Party, Rey Hernández, Tlacoachistlahuaca_
+_Context: Guerrero, Mexican Labour Party, Rey Hernandez, Tlacoachistlahuaca_
 
 ### [Hungary's Fidesz - Hungarian Civic Union wins a historic two-thirds general election victory, according to second round results. ](/news/2010/04/25/hungary-s-fidesz-a-hungarian-civic-union-wins-a-historic-two-thirds-general-election-victory-according-to-second-round-results.md)
 Hungary&#039;s centre-right opposition has won a two-thirds general election victory, according to second round results.
@@ -43,7 +43,7 @@ _Context: Somalia, Spanish Navy_
 _Context: Havana, Ladies in White_
 
 ### [Cuba's Speaker of the Parliament Ricardo Alarcon challenges the United States to lift its 48-year embargo on the island if it believes Cuba benefits from the embargo, as Hillary Clinton suggested. ](/news/2010/04/25/cuba-s-speaker-of-the-parliament-ricardo-alarca3n-challenges-the-united-states-to-lift-its-48-year-embargo-on-the-island-if-it-believes-cuba.md)
-_Context: Cuba, Hillary Clinton, Ricardo Alarcón, United States_
+_Context: Cuba, Hillary Clinton, Ricardo Alarcon, United States_
 
 ### [Iranian Minister for Foreign Affairs Manouchehr Mottaki meets the head of the International Atomic Energy Agency (IAEA) in Vienna and says Iran remains interested in a nuclear fuel swap drafted by the United Nations. ](/news/2010/04/25/iranian-minister-for-foreign-affairs-manouchehr-mottaki-meets-the-head-of-the-international-atomic-energy-agency-iaea-in-vienna-and-says-i.md)
 Iranian foreign minister discusses fuel proposal with head of UN nuclear agency.

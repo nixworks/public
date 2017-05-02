@@ -4,7 +4,7 @@
 Four&#x20;Saudi&#x20;soldiers&#x20;and&#x20;dozens&#x20;of&#x20;Yemeni&#x20;rebels&#x20;were&#x20;killed&#x20;during&#x20;a&#x20;fresh&#x20;rebel&#x20;offensive&#x20;near&#x20;the&#x20;border&#x20;on&#x20;Saturday&#x20;as&#x20;Saudi&#x20;Arabia&#x20;said&#x20;it&#x20;shot&#x20;down&#x20;a&#x20;Scud&#x20;missile&#x20;that&#x20;was&#x20;fired&#x20;into&#x20;its&#x20;territory.
 
 ### [The Taliban launches a major offensive in the Yamgan District of Badakhshan Province with hundreds of militants involved. ](/news/2015/06/6/the-taliban-launches-a-major-offensive-in-the-yamgan-district-of-badakhshan-province-with-hundreds-of-militants-involved.md)
-_Context: Badakhshan, Taliban, War in Afghanistan (2015–present), Yamgan District_
+_Context: Badakhshan, Taliban, War in Afghanistan (2015-present), Yamgan District_
 
 ### [The President of Ukraine Petro Poroshenko claims that his forces have repelled an attack on the town of Marinka and captured 12 rebels including one Russian. ](/news/2015/06/6/the-president-of-ukraine-petro-poroshenko-claims-that-his-forces-have-repelled-an-attack-on-the-town-of-marinka-and-captured-12-rebels-inclu.md)
 President Poroshenko says Ukrainian forces have restored control over Maryinka, near Donetsk in the east, after heavy fighting.

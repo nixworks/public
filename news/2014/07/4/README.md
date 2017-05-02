@@ -13,7 +13,7 @@ PARIS â€” The mother of a pupil at a French pre-school stabbed a teacher to deat
 _Context: Bourbon Street, New Orleans, Louisiana_
 
 ### [Aminata Tour is dismissed as Prime Minister of Senegal by the country's parliament following her failure to win a seat from Dakar in the 2014 local elections. ](/news/2014/07/4/aminata-toure-is-dismissed-as-prime-minister-of-senegal-by-the-country-s-parliament-following-her-failure-to-win-a-seat-from-dakar-in-the-20.md)
-_Context: 2014 local elections, Aminata Touré, Dakar, Prime Minister of Senegal_
+_Context: 2014 local elections, Aminata Tour, Dakar, Prime Minister of Senegal_
 
 ### [The National Congress of Bolivia backs a new law on child labour, allowing 10-year-olds into the workforce under special conditions. ](/news/2014/07/4/the-national-congress-of-bolivia-backs-a-new-law-on-child-labour-allowing-10-year-olds-into-the-workforce-under-special-conditions.md)
 _Context: National Congress of Bolivia, child labour_

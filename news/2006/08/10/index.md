@@ -4,7 +4,7 @@
 _Context: 2006 transatlantic aircraft plot, Scotland Yard, United Kingdom, United States_
 
 ### [ Hugo Chvez states that Fidel Castro is in a "great battle for life" but expresses optimism about his recovery. ](/news/2006/08/10/hugo-chavez-states-that-fidel-castro-is-in-a-great-battle-for-life-but-expresses-optimism-about-his-recovery.md)
-_Context: Fidel Castro, Hugo Chávez_
+_Context: Fidel Castro, Hugo Chvez_
 
 ### [ In Marietta, Ohio, United States two men were arrested on money laundering in support of terrorism. They were found with lists of travelers on airplanes and information on airport security checkpoints. ](/news/2006/08/10/in-marietta-ohio-united-states-two-men-were-arrested-on-money-laundering-in-support-of-terrorism-they-were-found-with-lists-of-travelers.md)
 _Context: Marietta, Ohio, United States, terrorism_

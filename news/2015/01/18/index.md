@@ -1,7 +1,7 @@
 ## [2015-01-18](/news/2015/01/18/index.md)
 
 ### [An Israeli helicopter strike near the border with Syria kills two senior IRGC figures and six members of Hezbollah. ](/news/2015/01/18/an-israeli-helicopter-strike-near-the-border-with-syria-kills-two-senior-irgc-figures-and-six-members-of-hezbollah.md)
-_Context: Hezbollah, IRGC, Israeli Defence Forces, Israeli–Lebanese conflict, Syria_
+_Context: Hezbollah, IRGC, Israeli Defence Forces, Israeli-Lebanese conflict, Syria_
 
 ### [Boko Haram militants kidnap 80 people and kill three others from villages in north Cameroon. ](/news/2015/01/18/boko-haram-militants-kidnap-80-people-and-kill-three-others-from-villages-in-north-cameroon.md)
 It is thought around 30 adults and 50 children have been taken by the extremist Islamist group in north Cameroon

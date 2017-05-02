@@ -10,7 +10,7 @@ _Context: 2008 SLA Northern offensive, Army, Kilinochchi, LTTE, Sri Lanka, captu
 _Context: Ethiopia, Ethiopian Army, Somalia, Transitional Federal Government, insurgency, two years of helping_
 
 ### [ Luis Fortuno is sworn in as Governor of Puerto Rico. ](/news/2009/01/2/luis-fortua-o-is-sworn-in-as-governor-of-puerto-rico.md)
-_Context: Governor of Puerto Rico, Luis Fortuño, Puerto Rico_
+_Context: Governor of Puerto Rico, Luis Fortuno, Puerto Rico_
 
 ### [ Gertrude Baines succeeds Maria de Jesus, who died in her home in Portugal at age 115, as the world's oldest person. ](/news/2009/01/2/gertrude-baines-succeeds-maria-de-jesus-who-died-in-her-home-in-portugal-at-age-115-as-the-world-s-oldest-person.md)
 _Context: Gertrude Baines, Maria de Jesus, Portuguese, oldest person in the world_

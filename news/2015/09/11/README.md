@@ -7,7 +7,7 @@ Chinese military will carry out three days of exercises close to disputed territ
 _Context: Boko Haram insurgency, Yola_
 
 ### [The Turkish Air Force strikes 64 PKK targets in northern Iraq reportedly killing up to 60 PKK militants. ](/news/2015/09/11/the-turkish-air-force-strikes-64-pkk-targets-in-northern-iraq-reportedly-killing-up-to-60-pkk-militants.md)
-_Context: Iraqi Kurdistan, PKK, Turkey–PKK conflict, Turkish_
+_Context: Iraqi Kurdistan, PKK, Turkey-PKK conflict, Turkish_
 
 ### [Burundi's army chief General Prime Niyongabo survives an assassination attempt after armed men attacked his motorcade on a busy road in the capital, Bujumbura. Six people are killed in the attack. ](/news/2015/09/11/burundi-s-army-chief-general-prime-niyongabo-survives-an-assassination-attempt-after-armed-men-attacked-his-motorcade-on-a-busy-road-in-the.md)
 _Context: 2015 Burundian unrest, Bujumbura, Burundi, assassinated_
@@ -34,7 +34,7 @@ Footage emerges of migrants being thrown bags of food at a Hungarian camp near t
 Notes detailing torture of Guantanamo Bay detainee Abu Zubaydah while in CIA custody, remain classified.
 
 ### [Mark Karpeles, the CEO of defunct Bitcoin exchange Mt. Gox, is charged with embezzlement in Japan. Karpeles asserts his own innocence. ](/news/2015/09/11/mark-karpela-s-the-ceo-of-defunct-bitcoin-exchange-mt-gox-is-charged-with-embezzlement-in-japan-karpeles-asserts-his-own-innocence.md)
-_Context: Bitcoin, Japan, Mark Karpelès, Mt. Gox, embezzlement_
+_Context: Bitcoin, Japan, Mark Karpeles, Mt. Gox, embezzlement_
 
 ### [A Mumbai, India court convicts twelve men with one man acquitted for their roles in the bombing which killed 209 people and injured 714. ](/news/2015/09/11/a-mumbai-india-court-convicts-twelve-men-with-one-man-acquitted-for-their-roles-in-the-bombing-which-killed-209-people-and-injured-714.md)
 A special court convicts 12 out of 13 men accused of planning bombings on commuter trains that killed 187 people.

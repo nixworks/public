@@ -1,7 +1,7 @@
 ## [2011-01-6](/news/2011/01/6/index.md)
 
 ### [Medecins Sans Frontieres accuses the Democratic Republic of the Congo of not doing enough to prevent war rape after 33 women are raped in Fizi, South Kivu, on New Year's Day. ](/news/2011/01/6/ma-c-decins-sans-frontia-res-accuses-the-democratic-republic-of-the-congo-of-not-doing-enough-to-prevent-war-rape-after-33-women-are-raped-in.md)
-_Context: Democratic Republic of the Congo, Fizi, Médecins Sans Frontières, South Kivu, rape as a weapon of war_
+_Context: Democratic Republic of the Congo, Fizi, Medecins Sans Frontieres, South Kivu, rape as a weapon of war_
 
 ### [2010-2011 Ivorian crisis:At least 14 people in Duekoue, Ivory Coast are killed in clashes between opposing sides in the Presidential election crisis. ](/news/2011/01/6/2010a2011-ivorian-crisis-pat-least-14-people-in-dua-c-koua-c-ivory-coast-are-killed-in-clashes-between-opposing-sides-in-the-presidential-el.md)
 At least 14 people have been killed in ethnic clashes in the western Ivory Coast city of Duekoue, a United Nations official said on Thursday declining to make a link with the presidential crisis in Abidjan.
@@ -22,7 +22,7 @@ The United States will temporarily send 1,400 more Marines to Afghanistan in an 
 A U.S. Army corporal was sentenced to 90 days of hard labor and a bad conduct discharge on Wednesday after pleading guilty to keeping war souvenir photos of Afghan civilians, beating a platoon member and smoking hashish.
 
 ### [A French market regulator approves a takeover defense adopted by the Hermes family, who own the manufacturer of Birkin and Kelly handbags. This improves the odds that Hermes will preserve its independence in the face of a bid by LVMH. ](/news/2011/01/6/a-french-market-regulator-approves-a-takeover-defense-adopted-by-the-herma-s-family-who-own-the-manufacturer-of-birkin-and-kelly-handbags.md)
-_Context: France, Hermès, LVMH_
+_Context: France, Hermes, LVMH_
 
 ### [22 people are killed after a bus falls into a gorge in Uttarakhand, northern India. ](/news/2011/01/6/22-people-are-killed-after-a-bus-falls-into-a-gorge-in-uttarakhand-northern-india.md)
 Dehra Dun: 22 killed as bus falls into gorge

@@ -40,7 +40,7 @@ Israel&#39;s prime minister on Thursday rejected U.S. calls to halt construction
 _Context: County Armagh, Newtownhamilton, Northern Ireland_
 
 ### [North Korea seizes five properties owned by South Korea in Kumgangsan. ](/news/2010/04/23/north-korea-seizes-five-properties-owned-by-south-korea-in-kamgangsan.md)
-_Context: Kŭmgangsan, North Korea, South Korea_
+_Context: Kumgangsan, North Korea, South Korea_
 
 ### [President of Iran Mahmoud Ahmadinejad opens a trade fair in Bulawayo on his tour of Zimbabwe as the country's President Robert Mugabe back's Iran's "just cause" for developing nuclear energy. ](/news/2010/04/23/president-of-iran-mahmoud-ahmadinejad-opens-a-trade-fair-in-bulawayo-on-his-tour-of-zimbabwe-as-the-country-s-president-robert-mugabe-back-s.md)
 _Context: Bulawayo, Iranian President, Mahmoud Ahmadinejad, President, Robert Mugabe, Zimbabwe_

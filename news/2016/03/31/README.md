@@ -1,7 +1,7 @@
 ## [2016-03-31](/news/2016/03/31/index.md)
 
 ### [Israeli security forces arrest 16 Palestinian suspects on the West Bank. ](/news/2016/03/31/israeli-security-forces-arrest-16-palestinian-suspects-on-the-west-bank.md)
-_Context: Israel, Israeli–Palestinian conflict (2015–present), Palestinian, West Bank_
+_Context: Israel, Israeli-Palestinian conflict (2015-present), Palestinian, West Bank_
 
 ### [A suicide bomber in Somalia's Puntland region detonates while hugging Saeed Ali, the treasurer of Galkayo, killing him and several police officers guarding him. Islamic militant group Al-Shabaab claims responsibility. ](/news/2016/03/31/a-suicide-bomber-in-somaliaas-puntland-region-detonates-while-hugging-saeed-ali-the-treasurer-of-galkayo-killing-him-and-several-police.md)
 An al-Shabab suicide bomber detonated his explosives while hugging a local official in Somalia&#039;s Puntland region and the blast blew both of them up.
@@ -37,7 +37,7 @@ A court in Malaysia has rejected a bid by Malaysia Airlines to throw out a lawsu
 A Virginia State trooper who was shot when a suspect opened fire at a Greyhound bus station in Richmond Thursday afternoon has died, according to Virginia State Police.
 
 ### [Vietnam elects Nguyen Thi Kim Ngan chairwoman of the National Assembly. Ngan,  who won 95.5 percent of the votes, is the first woman to lead Vietnam's legislature. In January, she was re-elected to the powerful Politburo at the Communist Party Congress. ](/news/2016/03/31/vietnam-elects-nguya-n-tha-kim-ngac-n-chairwoman-of-the-national-assembly-ngac-n-who-won-95-5-percent-of-the-votes-is-the-first-woman-t.md)
-_Context: Communist Party Congress, Nguyễn Thị Kim Ngân, Parliament, Politburo, Vietnam_
+_Context: Communist Party Congress, Nguyen Thi Kim Ngan, Parliament, Politburo, Vietnam_
 
 ### [The Constitutional Court of South Africa delivered a unanimous judgement that President Jacob Zuma and the National Assembly failed to uphold the country's constitution by ignoring the findings of the Public Protector regarding public expenditure on Zuma's private homestead. ](/news/2016/03/31/the-constitutional-court-of-south-africa-delivered-a-unanimous-judgement-that-president-jacob-zuma-and-the-national-assembly-failed-to-uphol.md)
 _Context: Jacob Zuma, National Assembly, Public Protector, South African Constitutional Court_
@@ -46,7 +46,7 @@ _Context: Jacob Zuma, National Assembly, Public Protector, South African Constit
 &quot;With one blasé comment, this entire foundation of US grand strategy is just blasted away.&quot;
 
 ### [Venezuela's National Assembly, responding to last month's  Central Bank of Venezuela report that the country experienced a 180.9 percent inflation increase in 2015, passes legislation, ''The Law of Bonds for Food and Medicine for Retirees and Pensioners'', that could make it easier for pensioners and retirees to pay for food and medicine. The approved bill has been forwarded for President Nicolas Maduro's signature. ](/news/2016/03/31/venezuela-s-national-assembly-responding-to-last-month-s-central-bank-of-venezuela-report-that-the-country-experienced-a-180-9-percent-inf.md)
-_Context: National Assembly, Nicolás Maduro, President, Venezuelan Central Bank, inflation_
+_Context: National Assembly, Nicolas Maduro, President, Venezuelan Central Bank, inflation_
 
 ### [Italy's Minister of Economic Development, Federica Guidi, resigns amid allegations that she passed along confidential information to her boyfriend that helped his business interests. ](/news/2016/03/31/italy-s-minister-of-economic-development-federica-guidi-resigns-amid-allegations-that-she-passed-along-confidential-information-to-her-boy.md)
 _Context: Federica Guidi, Italian, Minister of Economic Development_

@@ -22,7 +22,7 @@ _Context: Democratic Republic of the Congo, United Nations_
 North Korea has again urged the United States to accept its demand for direct talks on its nuclear programs, warning that the country will &quot;go our own way&quot; if Washington refuses dialogue, suggesting it would move further toward nuclear armament.
 
 ### [ Simon Mann, a British mercenary who had been serving a 34-year prison sentence in Equatorial Guinea for his role in a failed coup d'etat, is given a presidential pardon. ](/news/2009/11/2/simon-mann-a-british-mercenary-who-had-been-serving-a-34-year-prison-sentence-in-equatorial-guinea-for-his-role-in-a-failed-coup-d-etat-i.md)
-_Context: Equatorial Guinea, Simon Mann, coup d'�tat, mercenaries_
+_Context: Equatorial Guinea, Simon Mann, coup d'tat, mercenaries_
 
 ### [ Four people are sentenced to death by hanging in Tanzania for the killing of an Albino man last year. ](/news/2009/11/2/four-people-are-sentenced-to-death-by-hanging-in-tanzania-for-the-killing-of-an-albino-man-last-year.md)
 _Context: Tanzania, albino, death penalty, hanging_
@@ -31,7 +31,7 @@ _Context: Tanzania, albino, death penalty, hanging_
 Radovan Karadzic will on Tuesday appear before a United Nations war crimes tribunal in a special hearing that will attempt to end the former Bosnian Serb leader&#039;s boycott of his trial for genocide.
 
 ### [ Two people are charged with "spreading false information" about the health of Thailand's King Bhumibol Adulyadej. ](/news/2009/11/2/two-people-are-charged-with-spreading-false-information-about-the-health-of-thailand-s-king-bhumibol-adulyadej.md)
-_Context: Bhumibol Adulyadej, Thailand, lèse-majesté_
+_Context: Bhumibol Adulyadej, Thailand, lese-majeste_
 
 ### [ United Nations Secretary-General Ban Ki-moon makes a surprise visit to Afghanistan ahead of the 7 November second round of the presidential election. ](/news/2009/11/2/united-nations-secretary-general-ban-ki-moon-makes-a-surprise-visit-to-afghanistan-ahead-of-the-7-november-second-round-of-the-presidential.md)
 _Context: Afghanistan, Ban Ki-moon, United Nations Secretary-General, presidential election_

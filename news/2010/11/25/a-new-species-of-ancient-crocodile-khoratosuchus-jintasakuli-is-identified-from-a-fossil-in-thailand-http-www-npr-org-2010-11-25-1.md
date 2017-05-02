@@ -1,6 +1,6 @@
 ### [2010-11-25](/news/2010/11/25/index.md)
 
-# A new species of ancient crocodile, ''Khoratosuchus jintasakuli'', is identified from a fossil in Thailand. [http://www.npr.org/2010/11/25/131592406/100-million-year-old-crocodile-species-discovered (NPR)] {{doi-inline|10.1144/SP315.13|(''Geol. Soc., Lond., Spec. Pub.'')}}
+# A new species of ancient crocodile, ''Khoratosuchus jintasakuli'', is identified from a fossil in Thailand. [http://www.npr.org/2010/11/25/131592406/100-million-year-old-crocodile-species-discovered (NPR)] 10.1144/SP315.13|(''Geol. Soc., Lond., Spec. Pub.'')
 
 
 

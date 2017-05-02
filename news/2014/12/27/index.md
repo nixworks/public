@@ -10,7 +10,7 @@ _Context: Internet_
 Five people have been left dead and 100,000 forced to leave their homes in Malaysia as the country faces its worst flooding in 30 years.
 
 ### [Sweden's center-left government reaches a deal with the center-right opposition, The Alliance, giving a minority government room to govern so that the country's first snap election since 1958, originally planned for 22 March 2015, can be cancelled; the Sweden Democrats react by announcing that they will put down a motion of no confidence against Prime Minister Stefan Lofven. ](/news/2014/12/27/sweden-s-center-left-government-reaches-a-deal-with-the-center-right-opposition-the-alliance-giving-a-minority-government-room-to-govern-s.md)
-_Context: Stefan Löfven, Sweden, Sweden Democrats, The Alliance, first snap election since 1958, no-confidence_
+_Context: Stefan Lofven, Sweden, Sweden Democrats, The Alliance, first snap election since 1958, no-confidence_
 
 ### [Andrei Kobyakov replaces Mikhail Myasnikovich as Belarus's new prime minister in the biggest government reshuffle since 2010. ](/news/2014/12/27/andrei-kobyakov-replaces-mikhail-myasnikovich-as-belarus-s-new-prime-minister-in-the-biggest-government-reshuffle-since-2010.md)
 _Context: Andrei Kobyakov, Belarus, Mikhail Myasnikovich_

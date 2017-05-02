@@ -16,7 +16,7 @@ _Context: Anti-austerity movement_
 _Context: 2015 FIFA U-20 World Cup, Auckland, Brazil, Serbia, association football_
 
 ### [ In Major League Baseball, Washington Nationals pitcher Max Scherzer, one strike away from a perfect game, loses his bid when he hits the Pittsburgh Pirates' Jose Tabata with a pitch. Scherzer retires the next batter to complete a 6-0 win and a no-hitter. ](/news/2015/06/20/in-major-league-baseball-washington-nationals-pitcher-max-scherzer-one-strike-away-from-a-perfect-game-loses-his-bid-when-he-hits-the-pi.md)
-_Context: José Tábata, Major League Baseball, Max Scherzer, Pittsburgh Pirates, Washington Nationals, hits, no-hitter, perfect game_
+_Context: Jose Tabata, Major League Baseball, Max Scherzer, Pittsburgh Pirates, Washington Nationals, hits, no-hitter, perfect game_
 
 ## [Previous Day...](/news/2015/06/19/index.md)
 

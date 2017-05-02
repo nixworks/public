@@ -19,7 +19,7 @@ _Context: Abu Musab al-Zarqawi, Abu Zubair, Conflict in Iraq, Mosul, ambush_
 _Context: GAM_
 
 ### [ Due to stalled labour talks, the Canadian Broadcasting Corporation locks out the company's 5500 members of the Canadian Media Guild, severely disrupting operations in most of Canada.  The key point of contention is the broadcaster's insistence on more contract employees to the expense of full time positions. ](/news/2005/08/15/due-to-stalled-labour-talks-the-canadian-broadcasting-corporation-locks-out-the-company-s-5500-members-of-the-canadian-media-guild-severe.md)
-_Context: CBC, Canadian, Canadian Media Guild, job growth, locks out_
+_Context: CBC, Canada, Canadian Media Guild, job growth, locks out_
 
 ### [ Phil Mickelson wins the 2005 PGA Championship ](/news/2005/08/15/phil-mickelson-wins-the-2005-pga-championship.md)
 _Context: PGA Championship, Phil Mickelson_

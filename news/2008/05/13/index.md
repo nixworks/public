@@ -18,7 +18,7 @@ _Context: Burma, Cyclone Nargis, State Peace and Development Council, aid worker
 ### [ Ministers from Nawaz Sharif's party Pakistan Muslim League (N) resign from the Government of Pakistan. ](/news/2008/05/13/ministers-from-nawaz-sharif-s-party-pakistan-muslim-league-n-resign-from-the-government-of-pakistan.md)
 _Context: Nawaz Sharif, Pakistan, Pakistan Muslim League, government_
 
-### [  West Virginia voters go to the polls in the Democratic Party primary to elect 28 delegates to the 2008 Democratic National Convention. New York Senator Hillary Clinton obtains a clear victory. [http://blog.washingtonpost.com/livecoverage/ (Washington Post)] Senator Clinton welcomes the vote in West Virginia as an "overwhelming vote of confidence" in her campaign.{{fact|date=October 2012}} {{fact|date=October 2012}}](/news/2008/05/13/west-virginia-voters-go-to-the-polls-in-the-democratic-party-primary-to-elect-28-delegates-to-the-2008-democratic-national-convention-new.md)
+### [  West Virginia voters go to the polls in the Democratic Party primary to elect 28 delegates to the 2008 Democratic National Convention. New York Senator Hillary Clinton obtains a clear victory. [http://blog.washingtonpost.com/livecoverage/ (Washington Post)] Senator Clinton welcomes the vote in West Virginia as an "overwhelming vote of confidence" in her campaign.date=October 2012 date=October 2012](/news/2008/05/13/west-virginia-voters-go-to-the-polls-in-the-democratic-party-primary-to-elect-28-delegates-to-the-2008-democratic-national-convention-new.md)
 _Context: 2008, 2008 National Convention, Democratic Party primary, Hillary Clinton, New York, Senator, West Virginia_
 
 ### [ A series of bomb blasts hits the Indian city of Jaipur, killing at least 60 people and injuring 150. ](/news/2008/05/13/a-series-of-bomb-blasts-hits-the-indian-city-of-jaipur-killing-at-least-60-people-and-injuring-150.md)
@@ -30,8 +30,8 @@ _Context: Baghdad, Iraq, Sadr City, United States Army, militia_
 ### [ The United States Department of Defense drops charges against Mohammed al Qahtani, who was suspected of being the "20th hijacker" in the September 11, 2001 attacks. ](/news/2008/05/13/the-united-states-department-of-defense-drops-charges-against-mohammed-al-qahtani-who-was-suspected-of-being-the-20th-hijacker-in-the-se.md)
 _Context: Defense Department, Mohammed al Qahtani, September 11, 2001 attacks_
 
-### [ Colombian warlord extradition Colombia extradites 14 former paramilitary leaders, including Salvatore Mancuso, Rodrigo Tovar Pupo, and Diego Murillo Bejarano, to the United States where they have been charged with drug trafficking. [http://news.bbc.co.uk/2/hi/americas/7398332.stm (BBC News)] President of Colombia  lvaro Uribe says that the assets of warlords will be confiscated to compensate victims.{{fact|date=October 2012}} ](/news/2008/05/13/colombian-warlord-extraditionp-colombia-extradites-14-former-paramilitary-leaders-including-salvatore-mancuso-rodrigo-tovar-pupo-and-die.md)
-_Context: Colombia, Colombian President, Diego Murillo Bejarano, Rodrigo Tovar Pupo, Salvatore Mancuso, United States, drug trafficking, paramilitary, Álvaro Uribe_
+### [ Colombian warlord extradition Colombia extradites 14 former paramilitary leaders, including Salvatore Mancuso, Rodrigo Tovar Pupo, and Diego Murillo Bejarano, to the United States where they have been charged with drug trafficking. [http://news.bbc.co.uk/2/hi/americas/7398332.stm (BBC News)] President of Colombia  lvaro Uribe says that the assets of warlords will be confiscated to compensate victims.date=October 2012 ](/news/2008/05/13/colombian-warlord-extraditionp-colombia-extradites-14-former-paramilitary-leaders-including-salvatore-mancuso-rodrigo-tovar-pupo-and-die.md)
+_Context: Alvaro Uribe, Colombia, Colombian President, Diego Murillo Bejarano, Rodrigo Tovar Pupo, Salvatore Mancuso, United States, drug trafficking, paramilitary_
 
 ## [Previous Day...](/news/2008/05/12/index.md)
 

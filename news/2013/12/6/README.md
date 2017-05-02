@@ -18,11 +18,11 @@ Royal Marine Sergeant Alexander Blackman has been sentenced to life in prison by
 ### [The U.S. Supreme Court agrees to decide whether software can be patented. ](/news/2013/12/6/the-u-s-supreme-court-agrees-to-decide-whether-software-can-be-patented.md)
 WASHINGTON (Reuters) - The Supreme Court agreed on Friday to rule on the divisive issue of what kinds of software are eligible for patent protection in a case being closely watched by the...
 
-### [The China National Space Administration achieves Earth to Lunar transorbital insertion of their Chang'e 3 probe. The spacecraft enters a {{convert|100|km|mi|abbr=on}}-high circular lunar orbit at 5:53 p.m. Beijing Time. The orbit is obtained after 361 seconds of variable-thrust engine braking. ](/news/2013/12/6/the-china-national-space-administration-achieves-earth-to-lunar-transorbital-insertion-of-their-chang-e-3-probe-the-spacecraft-enters-a-c.md)
+### [The China National Space Administration achieves Earth to Lunar transorbital insertion of their Chang'e 3 probe. The spacecraft enters a 100|km|mi|abbr=on-high circular lunar orbit at 5:53 p.m. Beijing Time. The orbit is obtained after 361 seconds of variable-thrust engine braking. ](/news/2013/12/6/the-china-national-space-administration-achieves-earth-to-lunar-transorbital-insertion-of-their-chang-e-3-probe-the-spacecraft-enters-a-100.md)
 _Context: Chang'e 3, China National Space Administration, transorbital insertion_
 
 ### [Researchers at the Sanford-Burnham Medical Research Institute are published in the journal ''Cell'', describing a link between Parkinsonism (Parkinson's disease) and the agricultural pesticides of paraquat and maneb. ](/news/2013/12/6/researchers-at-the-sanford-burnham-medical-research-institute-are-published-in-the-journal-cell-describing-a-link-between-parkinsonism.md)
-_Context: Cell, Parkinsonism, Parkinson’s-like, Sanford-Burnham Medical Research Institute, maneb, paraquat, pesticides_
+_Context: Cell, Parkinson's-like, Parkinsonism, Sanford-Burnham Medical Research Institute, maneb, paraquat, pesticides_
 
 ### [2014 FIFA World Cup:The draw for the 2014 FIFA World Cup is done in Brazil with the 2010 FIFA World Cup champions Spain and runners-up The Netherlands both drawn in Group B. ](/news/2013/12/6/2014-fifa-world-cup-pthe-draw-for-the-2014-fifa-world-cup-is-done-in-brazil-with-the-2010-fifa-world-cup-champions-spain-and-runners-up-the.md)
 Champions Spain have been drawn against the team they beat in the 2010 SWC final, the Netherlands at the official draw ceremony.

@@ -1,7 +1,7 @@
 ## [2015-11-3](/news/2015/11/3/index.md)
 
 ### [At least two Indian soldiers are killed after Pakistani forces opened fire along the de facto border that divides Kashmir between the two countries. ](/news/2015/11/3/at-least-two-indian-soldiers-are-killed-after-pakistani-forces-opened-fire-along-the-de-facto-border-that-divides-kashmir-between-the-two-co.md)
-_Context: 2014–15 India–Pakistan border skirmishes, India, Indian Army, Kashmir, Line of Control, Pakistan, Pakistan Army_
+_Context: 2014-15 India-Pakistan border skirmishes, India, Indian Army, Kashmir, Line of Control, Pakistan, Pakistan Army_
 
 ### [The Syrian Observatory for Human Rights reports Russia conducted multiple airstrikes on ISIS-held Palmyra. ](/news/2015/11/3/the-syrian-observatory-for-human-rights-reports-russia-conducted-multiple-airstrikes-on-isis-held-palmyra.md)
 Suspected Russian warplanes bombed the outskirts of Islamic State-held Palmyra on Monday, sending smoke rising out of an area that includes a historic castle overlooking the Syrian city&#039;s Roman ruins, activists said.
@@ -34,10 +34,10 @@ The Yemen Post newspaper described the city of Al Mukallah as being &#x201c;unde
 The U.S.’s Pacific Fleet commander vowed in a Beijing speech to continue patrols in waters claimed by China in the South China Sea while emphasizing common ground with the country.
 
 ### [The New General National Congress (Libya Dawn) which controls the capital Tripoli, and much of western Libya, threatens to send 'hundreds of thousands' of refugees to Europe unless the European Union recognizes the Islamist-led government. ](/news/2015/11/3/the-new-general-national-congress-libya-dawn-which-controls-the-capital-tripoli-and-much-of-western-libya-threatens-to-send-hundreds-of.md)
-_Context: Europe, European Union, General National Congress, Libya, Libyan Crisis (2011–present), Tripoli, radical Islamists_
+_Context: Europe, European Union, General National Congress, Libya, Libyan Crisis (2011-present), Tripoli, radical Islamists_
 
 ### [Japan has delivered two more ships to Vietnam that will be refurbished into patrol boats. The ships, which arrived in the port city of Da Nang, are the second delivery of a 2014 deal in which Tokyo is to provide Vietnam with six used fishing vessels that will be converted into patrol boats for Vietnam's coast guard in the South China Sea. ](/news/2015/11/3/japan-has-delivered-two-more-ships-to-vietnam-that-will-be-refurbished-into-patrol-boats-the-ships-which-arrived-in-the-port-city-of-da-na.md)
-_Context: Coast Guard, Japan, Japan–Vietnam relations, South China Sea, Tokyo, Vietnam, disputed, port city of Da Nang_
+_Context: Coast Guard, Japan, Japan-Vietnam relations, South China Sea, Tokyo, Vietnam, disputed, port city of Da Nang_
 
 ### [ German Chancellor Angela Merkel announces a plan  to register and distribute incoming refugees evenly throughout the European Union. Refugees would be stopped at EU borders, have  their application processed, and then, if accepted, sent to one of the Union's 28 member states. ](/news/2015/11/3/german-chancellor-angela-merkel-announces-a-plan-to-register-and-distribute-incoming-refugees-evenly-throughout-the-european-union-refuge.md)
 German Chancellor Angela Merkel announced a plan to register and distribute incoming refugees evenly throughout the European Union.

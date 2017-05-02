@@ -15,11 +15,11 @@ _Context: Napier, New Zealand, killed, police officer_
 ### [ Canada experiences its first swine influenza-related death. ](/news/2009/05/7/canada-experiences-its-first-swine-influenza-related-death.md)
 Federal health officials would not confirm reports Thursday that an elderly woman who died in northern Alberta had swine flu.
 
-### [ Wildfires near Santa Barbara, California, United States, burn {{convert|3,000|acre|km2}} of land and force 15,000 people to evacuate. ](/news/2009/05/7/wildfires-near-santa-barbara-california-united-states-burn-convert-3-000-acre-km2-of-land-and-force-15-000-people-to-evacuate.md)
+### [ Wildfires near Santa Barbara, California, United States, burn 3,000|acre|km2 of land and force 15,000 people to evacuate. ](/news/2009/05/7/wildfires-near-santa-barbara-california-united-states-burn-3-000-acre-km2-of-land-and-force-15-000-people-to-evacuate.md)
 _Context: California, Santa Barbara, California, United States, Wildfires, evacuation centers_
 
 ### [ The Armed Forces and the Union of Forces for Democracy and Development battle near Goz Beida, Ouaddai Region, Chad. ](/news/2009/05/7/the-armed-forces-and-the-union-of-forces-for-democracy-and-development-battle-near-goz-bea-da-ouaddaa-region-chad.md)
-_Context: Chad, Goz Beïda, Military, Ouaddaï Region, Union of Forces for Democracy and Development, performed_
+_Context: Chad, Goz Beida, Military, Ouaddai Region, Union of Forces for Democracy and Development, performed_
 
 ### [ China announces that 5,335 schoolchildren died during an earthquake in Sichuan on May 12, 2008. ](/news/2009/05/7/china-announces-that-5-335-schoolchildren-died-during-an-earthquake-in-sichuan-on-may-12-2008.md)
 _Context: China's, Sichuan, deadly earthquake_
@@ -37,7 +37,7 @@ _Context: Dnipropetrovsk, Ukrainian, casino_
 _Context: India, becomes_
 
 ### [ The Bank of England freezes interest rates at 0.5% and will implement PS50 billion of quantitative easing. ](/news/2009/05/7/the-bank-of-england-freezes-interest-rates-at-0-5-and-will-implement-aps50-billion-of-quantitative-easing.md)
-_Context: Bank of England, interest rate, quantitative easing, £_
+_Context: Bank of England, PS, interest rate, quantitative easing_
 
 ### [ Ten Army soldiers are killed and 22 others injured during combat with the Taliban in Swat, Pakistan. ](/news/2009/05/7/ten-army-soldiers-are-killed-and-22-others-injured-during-combat-with-the-taliban-in-swat-pakistan.md)
 _Context: Pakistan, Pakistan Army, Swat, Pakistan, Taliban, War in North-West Pakistan, soldier_

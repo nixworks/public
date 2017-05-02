@@ -1,7 +1,7 @@
 ## [2012-06-30](/news/2012/06/30/index.md)
 
 ### [Syrian uprising (2011-present):83 people are killed, mostly civilians, in the violence across Syria. In a single incident, 30 people are killed while attending a funeral in the town of Zamalka, just east of Damascus. ](/news/2012/06/30/syrian-uprising-2011apresent-p83-people-are-killed-mostly-civilians-in-the-violence-across-syria-in-a-single-incident-30-people-are.md)
-_Context: Syria, Syrian uprising (2011–present)_
+_Context: Syria, Syrian uprising (2011-present)_
 
 ### [A UNESCO World Heritage site is destroyed by Muslim fighters in Timbuktu. The mausoleum of Sidi Mahmoud Ben Amar is destroyed. The fighters are said to have ties with al-Qaida. ](/news/2012/06/30/a-unesco-world-heritage-site-is-destroyed-by-muslim-fighters-in-timbuktu-the-mausoleum-of-sidi-mahmoud-ben-amar-is-destroyed-the-fighters.md)
 _Context: Al Qaida's, Sidi Mahmoud Ben Amar, Timbuktu, UNESCO_

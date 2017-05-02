@@ -13,7 +13,7 @@ _Context: Argentina, Holocaust, Holocaust denial, Richard Williamson, Roman Cath
 _Context: Japan, Nissan Motors, late 2000s recession, struggling_
 
 ### [ Cecile Manorohanta resigns as Madagascar's Minister for Defense.  ](/news/2009/02/9/ca-c-cile-manorohanta-resigns-as-madagascar-s-minister-for-defense.md)
-_Context: Cécile Manorohanta, Defense Minister, Madagascar_
+_Context: Cecile Manorohanta, Defense Minister, Madagascar_
 
 ### [ Bushfires in Victoria, Australia, have now killed at least 130 people and destroyed at least 750 homes. ](/news/2009/02/9/bushfires-in-victoria-australia-have-now-killed-at-least-130-people-and-destroyed-at-least-750-homes.md)
 _Context: Australia, Victoria, recent bushfires_
@@ -25,9 +25,9 @@ _Context: LTTE, Sri Lanka, Sri Lankan Civil War, refugee camp, suicide bomb atta
 _Context: Associated Press, Pakistan, Poland, engineer, militant_
 
 ### [ A video confirms that al-Qaeda has kidnapped Canadian diplomat Robert Fowler in Niger. ](/news/2009/02/9/a-video-confirms-that-al-qaeda-has-kidnapped-canadian-diplomat-robert-fowler-in-niger.md)
-_Context: Canadian, Niger, Robert Fowler, al-Qaeda, diplomatic_
+_Context: Canada, Niger, Robert Fowler, al-Qaeda, diplomatic_
 
-### [ Major League Baseball player Alex Rodriguez admits using performance-enhancing drugs between {{mlby|2001}} and {{mlby|2003}}. ](/news/2009/02/9/major-league-baseball-player-alex-rodriguez-admits-using-performance-enhancing-drugs-between-mlby-2001-and-mlby-2003.md)
+### [ Major League Baseball player Alex Rodriguez admits using performance-enhancing drugs between 2001 and 2003. ](/news/2009/02/9/major-league-baseball-player-alex-rodriguez-admits-using-performance-enhancing-drugs-between-2001-and-2003.md)
 Alex Rodriguez met head-on allegations that he tested positive for steroids six years ago, telling ESPN on Monday that he did take performance-enhancing drugs while playing for the Texas Rangers during a three-year period beginning in 2001.
 
 ### [ A fire destroys the Television Cultural Center in Beijing, China. ](/news/2009/02/9/a-fire-destroys-the-television-cultural-center-in-beijing-china.md)

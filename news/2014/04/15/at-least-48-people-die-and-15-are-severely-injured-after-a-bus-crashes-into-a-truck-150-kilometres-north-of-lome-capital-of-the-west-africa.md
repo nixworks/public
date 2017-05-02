@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ Former leader of Togo, Gnassingb Eyadma, is buried in the capital Lom ](/news/2005/03/13/former-leader-of-togo-gnassingbe-eyadema-is-buried-in-the-capital-lome.md) _Context: Lomé, Togo_
+1. [ Former leader of Togo, Gnassingb Eyadma, is buried in the capital Lom ](/news/2005/03/13/former-leader-of-togo-gnassingbe-eyadema-is-buried-in-the-capital-lome.md) _Context: Lom, Togo_
 2. [A Russian Navy spy ship sinks off the coast of Turkey after colliding with a Togo-flagged freighter. All 78 crew aboard the ship were safely evacuated, according to Turkish officials. ](/news/2017/04/27/a-russian-navy-spy-ship-sinks-off-the-coast-of-turkey-after-colliding-with-a-togo-flagged-freighter-all-78-crew-aboard-the-ship-were-safely.md) _Context: Togo_
 3. [Voters in Togo go to the polls amid political unrest. ](/news/2015/04/25/voters-in-togo-go-to-the-polls-amid-political-unrest.md) _Context: Togo_
 4. [Togo formally recognizes Kosovo. ](/news/2014/07/2/togo-formally-recognizes-kosovo.md) _Context: Togo_

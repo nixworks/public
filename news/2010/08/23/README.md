@@ -22,7 +22,7 @@ _Context: Australia, hung parliament_
 Hundreds of thousands of people displaced after border river bursts its banks.
 
 ### [It is expected to take 120 days (4 months) to free the 33 miners trapped underground near Copiap in the Atacama Desert after it is confirmed that they are all currently alive. ](/news/2010/08/23/it-is-expected-to-take-120-days-4-months-to-free-the-33-miners-trapped-underground-near-copiapo-in-the-atacama-desert-after-it-is-confirme.md)
-_Context: 2010 Copiapó mining accident, Atacama Desert, Copiapo_
+_Context: 2010 Copiap mining accident, Atacama Desert, Copiapo_
 
 ### [The United Nations describes the humanitarian situation caused by the 2010 Pakistan floods as critical. ](/news/2010/08/23/the-united-nations-describes-the-humanitarian-situation-caused-by-the-2010-pakistan-floods-as-critical.md)
 Officials from Pakistan hold talks with the International Monetary Fund to discuss its $11bn loan package in the wake of the devastating floods.

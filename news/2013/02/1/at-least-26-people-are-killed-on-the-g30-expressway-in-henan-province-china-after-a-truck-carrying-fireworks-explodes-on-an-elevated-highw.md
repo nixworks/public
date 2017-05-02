@@ -1,6 +1,6 @@
 ### [2013-02-1](/news/2013/02/1/index.md)
 
-# At least 26 people are killed on the G30 Expressway in Henan province, China, after a truck carrying fireworks explodes on an elevated highway, with an {{convert|80|m|ft}} section of road being destroyed and part of it collapsing. 
+# At least 26 people are killed on the G30 Expressway in Henan province, China, after a truck carrying fireworks explodes on an elevated highway, with an 80|m|ft section of road being destroyed and part of it collapsing. 
 
 A truck carrying fireworks explodes on a highway in central China, causing part of the road to collapse and leaving at least five people dead.
 

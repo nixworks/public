@@ -1,7 +1,7 @@
 ## [2007-11-28](/news/2007/11/28/index.md)
 
 ### [ An explosion and fire southeast of Clearbrook, Minnesota, kills two workers and forced the closure of a pipeline that carries nearly a fifth of U.S. crude oil imports from Canada. ](/news/2007/11/28/an-explosion-and-fire-southeast-of-clearbrook-minnesota-kills-two-workers-and-forced-the-closure-of-a-pipeline-that-carries-nearly-a-fift.md)
-_Context: Canadian, Clearbrook, Minnesota, United States, crude oil, pipeline_
+_Context: Canada, Clearbrook, Minnesota, United States, crude oil, pipeline_
 
 ### [ Striking Broadway stagehands and producers reach a deal. ](/news/2007/11/28/striking-broadway-stagehands-and-producers-reach-a-deal.md)
 _Context: Broadway_
@@ -21,10 +21,10 @@ U.S. Secretary of State Condoleezza Rice on Wednesday named retired Marine Gen. 
 ### [ Harry Redknapp, the manager of Portsmouth F.C., is one of five men arrested as part of an ongoing investigation of alleged corruption in British football. ](/news/2007/11/28/harry-redknapp-the-manager-of-portsmouth-f-c-is-one-of-five-men-arrested-as-part-of-an-ongoing-investigation-of-alleged-corruption-in-br.md)
 _Context: British, Harry Redknapp, Portsmouth, alleged corruption, footballer, manager_
 
-### [ 2007 Pakistani state of emergency: The President of Pakistan Pervez Musharraf stands down as the head of the Pakistan Army. [http://www.foxnews.com/story/0,2933,313348,00.html (Fox News)] General Ashfaq Parvez Kayani succeeds Musharraf as the 14th Chief of Army Staff of the Pakistan Army.{{Fact|date=December 2007}} ](/news/2007/11/28/2007-pakistani-state-of-emergency-p-the-president-of-pakistan-pervez-musharraf-stands-down-as-the-head-of-the-pakistan-army-http-www-fo.md)
+### [ 2007 Pakistani state of emergency: The President of Pakistan Pervez Musharraf stands down as the head of the Pakistan Army. [http://www.foxnews.com/story/0,2933,313348,00.html (Fox News)] General Ashfaq Parvez Kayani succeeds Musharraf as the 14th Chief of Army Staff of the Pakistan Army.date=December 2007 ](/news/2007/11/28/2007-pakistani-state-of-emergency-p-the-president-of-pakistan-pervez-musharraf-stands-down-as-the-head-of-the-pakistan-army-http-www-fo.md)
 _Context: 2007 Pakistani state of emergency, Ashfaq Parvez Kayani, Chief of Army Staff of the Pakistan Army, Pakistan Army, Pervez Musharraf, President_
 
-### [ A suicide bomber blows herself up outside Sri Lankan Minister's office, killing one and injuring two.{{Fact|date=December 2007}} ](/news/2007/11/28/a-suicide-bomber-blows-herself-up-outside-sri-lankan-minister-s-office-killing-one-and-injuring-two-fact-date-december-2007.md)
+### [ A suicide bomber blows herself up outside Sri Lankan Minister's office, killing one and injuring two.date=December 2007 ](/news/2007/11/28/a-suicide-bomber-blows-herself-up-outside-sri-lankan-minister-s-office-killing-one-and-injuring-two-date-december-2007.md)
 _Context: Sri Lanka, suicide bomber_
 
 ### [ The Chinese Type 051B destroyer ''Shenzhen'' visits Tokyo in the first visit of a Chinese warship to Japan since World War II. ](/news/2007/11/28/the-chinese-type-051b-destroyer-shenzhen-visits-tokyo-in-the-first-visit-of-a-chinese-warship-to-japan-since-world-war-ii.md)

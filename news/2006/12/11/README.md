@@ -7,7 +7,7 @@ _Context: Azerbaijan, Nagorno-Karabakh region, constitution, independent_
 _Context: Aceh, GAM, Indonesia, Irwandi Yusuf, civil war, elected_
 
 ### [ Former Prime Minister of Fiji Sitiveni Rabuka is cleared of two charges of mutiny in relation to the mutinies of the 2000 Fijian coup d'tat. ](/news/2006/12/11/former-prime-minister-of-fiji-sitiveni-rabuka-is-cleared-of-two-charges-of-mutiny-in-relation-to-the-mutinies-of-the-2000-fijian-coup-d-eta.md)
-_Context: Prime Minister, Sitiveni Rabuka, mutinies of the 2000 Fijian coup d'état_
+_Context: Prime Minister, Sitiveni Rabuka, mutinies of the 2000 Fijian coup d'tat_
 
 ### [ Archaeologists working for the Vatican have found the tomb of Paul of Tarsus. ](/news/2006/12/11/archaeologists-working-for-the-vatican-have-found-the-tomb-of-paul-of-tarsus.md)
 _Context: Paul of Tarsus, Vatican_

@@ -46,7 +46,7 @@ _Context: Berlin, British Museum, Cairo, London, Nefertiti, Neues Museum, Rosett
 A young grey seal, with a London Zoo tag, has been found in Skerries and brought to the Irish Seal Sanctuary suffering from starvation.
 
 ### [Turkey's Prime Minister, Recep Tayyip Erdogan, describes Israel as the "main threat to peace" in the Middle East. ](/news/2010/04/7/turkey-s-prime-minister-recep-tayyip-erdoaan-describes-israel-as-the-main-threat-to-peace-in-the-middle-east.md)
-_Context: Israel, Middle East, Prime Minister, Recep Tayyip Erdoğan, Turkey_
+_Context: Israel, Middle East, Prime Minister, Recep Tayyip Erdogan, Turkey_
 
 ### [FC Barcelona's Lionel Messi is widely hailed as the best footballer in the world after scoring four goals for the first time in his career in one UEFA Champions League game, including his fourth hat-trick of 2010. ](/news/2010/04/7/fc-barcelona-s-lionel-messi-is-widely-hailed-as-the-best-footballer-in-the-world-after-scoring-four-goals-for-the-first-time-in-his-career-i.md)
 The legend at the Nou Camp reads &#034;mes que un club&#034; (more than a club) which has also now met its embodiment.

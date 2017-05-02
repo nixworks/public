@@ -7,7 +7,7 @@ _Context: December 14, Turkmenistan, parliamentary election_
 _Context: Democrat Liberals, Emil Boc, PSD, Prime Minister of Romania, Romania, coalition government, legislative election, 2008_
 
 ### [ President of Guinea Lansana Conte dies at age 74. If the Supreme Court declares the position vacant, National Assembly Speaker Aboubacar Sompare will take over for 60 days. ](/news/2008/12/22/president-of-guinea-lansana-conta-c-dies-at-age-74-if-the-supreme-court-declares-the-position-vacant-national-assembly-speaker-aboubacar-s.md)
-_Context: Aboubacar Somparé, Guinea, Lansana Conté, National Assembly, President, Speaker_
+_Context: Aboubacar Sompare, Guinea, Lansana Conte, National Assembly, President, Speaker_
 
 ### [ An impoundment at the Tennessee Valley Authority's coal-fired power plant in Kingston, Tennessee, fails, resulting in a large volume of fly ash slurry being spilled onto surrounding land and the adjacent Emory and Clinch Rivers. ](/news/2008/12/22/an-impoundment-at-the-tennessee-valley-authority-s-coal-fired-power-plant-in-kingston-tennessee-fails-resulting-in-a-large-volume-of-fly.md)
 _Context: Clinch River, Emory, Kingston, Tennessee, Tennessee Valley Authority, a large volume of fly ash slurry being spilled, coal-fired power plant, impoundment_
@@ -22,7 +22,7 @@ _Context: Chilpancingo, Guerrero, Mexico_
 _Context: U.S. dollar, bailout, dealers, global crisis_
 
 ### [ The United States and Mexico pledge $1.4 billion for the Merida Initiative, a security cooperation for combating drug trade, transnational crime, and money laundering. ](/news/2008/12/22/the-united-states-and-mexico-pledge-1-4-billion-for-the-ma-c-rida-initiative-a-security-cooperation-for-combating-drug-trade-transnational.md)
-_Context: Mérida Initiative, United States, anti-drug plan, money laundering_
+_Context: Merida Initiative, United States, anti-drug plan, money laundering_
 
 ### [ Toyota Motor Corporation, the world's largest automaker, forecasts its first operating loss in 70 years, due to the automotive crisis. ](/news/2008/12/22/toyota-motor-corporation-the-worldas-largest-automaker-forecasts-its-first-operating-loss-in-70-years-due-to-the-automotive-crisis.md)
 Underscoring how the economic crisis is spreading across the global auto industry, Toyota said it will lose money in its core automaking business.

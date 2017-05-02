@@ -7,7 +7,7 @@
 Bangladeshi security officials have killed 11 suspected militants of the banned Jamaat-ul-Mujahideen Bangladesh (JMB) in three separate raids as the country reinforced its...
 
 ### [The Hungarian newspaper ''Nepszabadsag'' shuts down after 60 years amid significant financial losses. ](/news/2016/10/8/the-hungarian-newspaper-na-c-pszabadsa-g-shuts-down-after-60-years-amid-significant-financial-losses.md)
-_Context: Hungary, Népszabadság_
+_Context: Hungary, Nepszabadsag_
 
 ### [Hurricane Matthew, responsible for killing 13 people and knocking out power to 2.2 million households and businesses in the Southeastern United States, is now a Category 1 hurricane (75 mph;120 km/h winds) approaching the North Carolina coast. ](/news/2016/10/8/hurricane-matthew-responsible-for-killing-13-people-and-knocking-out-power-to-2-2-million-households-and-businesses-in-the-southeastern-uni.md)
 Hurricane Matthew slammed into South Carolina on Saturday, packing a diminished yet still potent punch after killing almost 900 people in Haiti and causing major flooding and widespread power outages as it skirted Florida and Georgia.

@@ -16,7 +16,7 @@ Vladimir Putin has said he hopes nuclear warheads will not be needed to deal wit
 Azerbaijani tanks on Wednesday shelled positions in the breakaway Nagorny Karabakh region for the first time in more than 20 years, the rebel defence ministry said, as Armenia arrested a former army officer accused of spying for its archfoe. Armenia and Azerbaijan fought a bloody conflict over the disputed
 
 ### [Turkey calls on all its citizens to leave all areas of Iraq except Iraqi Kurdistan, due to "increased security risks". ](/news/2015/12/9/turkey-calls-on-all-its-citizens-to-leave-all-areas-of-iraq-except-iraqi-kurdistan-due-to-increased-security-risks.md)
-_Context: Iraq, Iraqi Civil War (2014–present), Iraqi Kurdistan, Turkey_
+_Context: Iraq, Iraqi Civil War (2014-present), Iraqi Kurdistan, Turkey_
 
 ### [Angela Merkel is named as ''Time'''s Person of the Year. ](/news/2015/12/9/angela-merkel-is-named-as-time-s-person-of-the-year.md)
 _Context: Angela Merkel, Person of the Year, Time_
@@ -25,7 +25,7 @@ _Context: Angela Merkel, Person of the Year, Time_
 Fields are submerged; AIADMK worker electrocuted; old man washed away
 
 ### [Governor of Washington Jay Inslee declares a state of emergency after severe flooding and high winds across the western part of the state close several major highways, damage homes and property, and impact electricity service. ](/news/2015/12/9/governor-of-washington-jay-inslee-declares-a-state-of-emergency-after-severe-flooding-and-high-winds-across-the-western-part-of-the-state-cl.md)
-_Context: Floods in the United States: 2001–present, Governor of Washington, Jay Inslee, Western Washington, state of emergency_
+_Context: Floods in the United States: 2001-present, Governor of Washington, Jay Inslee, Western Washington, state of emergency_
 
 ### [The United States expands sanctions against North Korea over its alleged weapons breaches. ](/news/2015/12/9/the-united-states-expands-sanctions-against-north-korea-over-its-alleged-weapons-breaches.md)
 _Context: North Korea, United States_

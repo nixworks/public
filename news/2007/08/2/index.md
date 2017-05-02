@@ -37,7 +37,7 @@ _Context: South Korea, United States, beef_
 _Context: India, Manipur, journalist, newspaper_
 
 ### [ An earthquake measuring 6.7 on the Richter Scale hits the southern part of Sakhalin off the coast of Russia causing a death. It also triggered a small tsunami that struck the coast of Hokkaido in Japan. ](/news/2007/08/2/an-earthquake-measuring-6-7-on-the-richter-scale-hits-the-southern-part-of-sakhalin-off-the-coast-of-russia-causing-a-death-it-also-trigge.md)
-_Context: Hokkaidō, Japan, Richter scale, Russia, Sakhalin, earthquake, tsunami_
+_Context: Hokkaido, Japan, Richter scale, Russia, Sakhalin, earthquake, tsunami_
 
 ### [ The Dandy comic relaunched as '''Dandy Xtreme'''.](/news/2007/08/2/the-dandy-comic-relaunched-as-dandy-xtreme.md)
 _Context: The Dandy_

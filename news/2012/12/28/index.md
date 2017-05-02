@@ -31,13 +31,13 @@ _Context: Iraq, Iraq Prime Minister, Nouri al-Maliki, Sunni Muslim_
 _Context: 2012 Delhi gang rape case, Indian rape_
 
 ### [Real Madrid's coach Jose Mourinho is awarded the 2012 Best Coach at the Globe Soccer Awards ceremony in Dubai, UAE. ](/news/2012/12/28/real-madrid-s-coach-josa-c-mourinho-is-awarded-the-2012-best-coach-at-the-globe-soccer-awards-ceremony-in-dubai-uae.md)
-_Context: Dubai, Globe Soccer Awards, José Mourinho, Real Madrid, UAE_
+_Context: Dubai, Globe Soccer Awards, Jose Mourinho, Real Madrid, UAE_
 
 ### [Former Romania midfielder Dorinel Munteanu is named as coach of Mordovia Saransk, the Russian Premier League club from the Volga Region. ](/news/2012/12/28/former-romania-midfielder-dorinel-munteanu-is-named-as-coach-of-mordovia-saransk-the-russian-premier-league-club-from-the-volga-region.md)
 _Context: Dorinel Munteanu, Mordovia Saransk, Russian Premier League, Volga Region_
 
 ### [Former Czech Republic and Aston Villa defender Vaclav Drobny dies at the age of 32 in bobsleigh accident. ](/news/2012/12/28/former-czech-republic-and-aston-villa-defender-va-clav-drobna1-2-dies-at-the-age-of-32-in-bobsleigh-accident.md)
-_Context: Aston Villa, Czech Republic, Václav Drobný, bobsledding_
+_Context: Aston Villa, Czech Republic, Vaclav Drobny, bobsledding_
 
 ### [Henrikh Mkhitaryan is named as 2012 Ukrainian Premier League Footballer of the Year running ahead of Willian and Yevhen Konoplyanka. ](/news/2012/12/28/henrikh-mkhitaryan-is-named-as-2012-ukrainian-premier-league-footballer-of-the-year-running-ahead-of-willian-and-yevhen-konoplyanka.md)
 _Context: Footballer of the Year, Henrikh Mkhitaryan, Ukrainian Premier League, Willian, Yevhen Konoplyanka_

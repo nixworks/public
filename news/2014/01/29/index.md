@@ -16,7 +16,7 @@ _Context: ice, snow_
 _Context: MS ''Explorer of the Seas'', Norovirus_
 
 ### [Edward Snowden is nominated for the Nobel Peace Prize. [http://www.bloomberg.com/news/2014-01-29/snowden-nominated-by-norwegian-lawmakers-for-nobel-peace-prize.html (Bloomberg)]In the US Senate, James Clapper, Director of National Intelligence, calls for the return of NSA documents by "Snowden and his accomplices"; asked whether this includes journalists, Clapper's spokesperson says "Director Clapper was referring to anyone who is assisting Edward Snowden to further threaten our national security through the unauthorized disclosure of stolen documents related to lawful foreign intelligence collection programs." ([http://www.theguardian.com/world/2014/jan/29/james-clapper-condemns-snowden-senate-testimony ''The Guardian''])](/news/2014/01/29/edward-snowden-is-nominated-for-the-nobel-peace-prize-http-www-bloomberg-com-news-2014-01-29-snowden-nominated-by-norwegian-lawmakers-fo.md)
-_Context: Director of National Intelligence, Edward Snowden, Global surveillance disclosures (2013–present), James Clapper, Nobel Peace Prize_
+_Context: Director of National Intelligence, Edward Snowden, Global surveillance disclosures (2013-present), James Clapper, Nobel Peace Prize_
 
 ### [Scientists find a way to convert normal cells into stem cells, which can be used for any part of the body. Previously, the standard method of obtaining stem cells was to get them from an embryo. ](/news/2014/01/29/scientists-find-a-way-to-convert-normal-cells-into-stem-cells-which-can-be-used-for-any-part-of-the-body-previously-the-standard-method-o.md)
 _Context: embryo, stem cells_

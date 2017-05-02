@@ -37,7 +37,7 @@ Seven suspects sent to prison ahead of trial as allegations rock Turkish league.
 _Context: Rossiyskaya Gazeta, Russia, money laundering, terrorism_
 
 ### [The perjury trial of retired star baseball pitcher Roger Clemens commences in the U.S. over allegedly false statements made to a United States Congress Committee over use of performance-enhancing drugs. ](/news/2011/07/6/the-perjury-trial-of-retired-star-baseball-pitcher-roger-clemens-commences-in-the-u-s-over-allegedly-false-statements-made-to-a-united-stat.md)
-_Context: Roger Clemens, U.S. Congress, baseball, performance-enhancing drugs, perjury, pitcher_
+_Context: Roger Clemens, U.S. Congressional, baseball, performance-enhancing drugs, perjury, pitcher_
 
 ### [Nine Germans are convicted ''in absentia'' in Verona Italy for killing hundreds of civilians during World War II. ](/news/2011/07/6/nine-germans-are-convicted-in-absentia-in-verona-italy-for-killing-hundreds-of-civilians-during-world-war-ii.md)
 An Italian court sentences nine German men in absentia to life in prison for killing hundreds of civilians during World War II, reports say.
@@ -61,7 +61,7 @@ _Context: Nakba, United Nations_
 Chinese censors block internet references to former leader Jiang Zemin, whose name means &quot;river&quot;, after rumours that he has died circulate.
 
 ### [Turkish Prime Minister Recep Tayyip Erdogan announces the new cabinet of Turkey.](/news/2011/07/6/turkish-prime-minister-recep-tayyip-erdoaan-announces-the-new-cabinet-of-turkey.md)
-_Context: Recep Tayyip Erdoğan, Turkey, new cabinet_
+_Context: Recep Tayyip Erdogan, Turkey, new cabinet_
 
 ### [Pyeongchang, South Korea is named as host of the 2018 Winter Olympics. ](/news/2011/07/6/pyeongchang-south-korea-is-named-as-host-of-the-2018-winter-olympics.md)
 Pyeongchang, South Korea has been named the host city of the 2018 Winter Olympics by a vote of the International Olympic Committee.

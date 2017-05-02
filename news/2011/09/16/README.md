@@ -40,7 +40,7 @@ _Context: Ecofin, economic crises_
 A civil war has broken out in the Health Services Union after president Michael Williamson refused to step down as police investigate alleged &#034;inappropriate practices&#034;.
 
 ### [Sinn Fin's officer board gives its approval to put forward Northern Ireland's Deputy First Minister Martin McGuinness as a candidate for the 2011 Irish presidential election. ](/news/2011/09/16/sinn-fein-s-officer-board-gives-its-approval-to-put-forward-northern-ireland-s-deputy-first-minister-martin-mcguinness-as-a-candidate-for-th.md)
-_Context: Deputy First Minister of Northern Ireland, Irish presidential election, Martin McGuinness, Sinn Féin_
+_Context: Deputy First Minister of Northern Ireland, Irish presidential election, Martin McGuinness, Sinn Fin_
 
 ### [Mahmoud Abbas, the President of the Palestinian National Authority, says he will push for full United Nations membership as a nation state for the Palestinian National Authority at the September 23 UN General Assembly meeting.  ](/news/2011/09/16/mahmoud-abbas-the-president-of-the-palestinian-national-authority-says-he-will-push-for-full-united-nations-membership-as-a-nation-state-f.md)
 Palestinian Authority President Mahmoud Abbas said he will pursue a full United Nations membership bid during a speech Friday that was likely meant to both make the case for membership and manage domestic expectations.

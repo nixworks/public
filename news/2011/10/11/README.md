@@ -18,7 +18,7 @@ _Context: BlackBerry, Jaguar Financial Corp., Research in Motion_
 ### [Hurricane Jova crosses the western coast of Mexico northwest of the port of Manzanillo, Colima, at Category 2 strength. ](/news/2011/10/11/hurricane-jova-crosses-the-western-coast-of-mexico-northwest-of-the-port-of-manzanillo-colima-at-category-2-strength.md)
 _Context: Hurricane Jova, Manzanillo, Colima, Mexico_
 
-### [An oil spill from the ship {{MV|Rena}} off the coast of Tauranga in New Zealand becomes the country's worst environmental disaster. ](/news/2011/10/11/an-oil-spill-from-the-ship-mv-rena-off-the-coast-of-tauranga-in-new-zealand-becomes-the-country-s-worst-environmental-disaster.md)
+### [An oil spill from the ship Rena off the coast of Tauranga in New Zealand becomes the country's worst environmental disaster. ](/news/2011/10/11/an-oil-spill-from-the-ship-rena-off-the-coast-of-tauranga-in-new-zealand-becomes-the-country-s-worst-environmental-disaster.md)
 _Context: New Zealand, Tauranga, environmental disaster, oil spill_
 
 ### [The Cabinet of Israel approves a prisoner swap deal with Hamas for the release of the Israeli Army soldier Gilad Shalit, who had been held in captivity for five years. In exchange, Israel agrees to release a thousand Palestinian prisoners held in Israel, among them hundreds of prisoners serving multiple life sentences for planning and perpetrating murderous attacks against Israeli civilians.](/news/2011/10/11/the-cabinet-of-israel-approves-a-prisoner-swap-deal-with-hamas-for-the-release-of-the-israeli-army-soldier-gilad-shalit-who-had-been-held-i.md)
@@ -40,7 +40,7 @@ _Context: Ellen Johnson Sirleaf, Liberia, Liberian presidential election, Nobel 
 _Context: Myanmar, National Human Rights Commission, President of Burma, Thein Sein, amnesty_
 
 ### [Voters in the Canadian province of Newfoundland and Labrador go to the polls for general election with the Progressive Conservative Party winning its third straight majority and its leader Kathy Dunderdale becoming the first woman elected as Premier of the province. ](/news/2011/10/11/voters-in-the-canadian-province-of-newfoundland-and-labrador-go-to-the-polls-for-general-election-with-the-progressive-conservative-party-wi.md)
-_Context: Canadian, Kathy Dunderdale, Newfoundland and Labrador, Premier of the province, Progressive Conservative Party, general election_
+_Context: Canada, Kathy Dunderdale, Newfoundland and Labrador, Premier of the province, Progressive Conservative Party, general election_
 
 ### [In the Yukon Territory voters re-elect the Yukon Party under Premier Darrell Pasloski, with an NDP official opposition. ](/news/2011/10/11/in-the-yukon-territory-voters-re-elect-the-yukon-party-under-premier-darrell-pasloski-with-an-ndp-official-opposition.md)
 _Context: Darrell Pasloski, NDP, Yukon, Yukon Party, re-elect_

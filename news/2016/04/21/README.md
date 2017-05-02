@@ -61,7 +61,7 @@ At least six high-ranking Pakistani army officers, including a lieutenant-genera
 The presidential bet regales a crowd in Iloilo with a story of how he shot a fellow San Beda law student who picked on him because he was Bisaya
 
 ### [Ukrainian President Petro Poroshenko signs legislation banning all Russian films made after January 1, 2014. The legislation also bans movies produced by Russia after 1991 if they "glorify the work of government bodies" of Russia, citing such movies to be a threat to national security. ](/news/2016/04/21/ukrainian-president-petro-poroshenko-signs-legislation-banning-all-russian-films-made-after-january-1-2014-the-legislation-also-bans-movie.md)
-_Context: Petro Poroshenko, Russia, Russia–Ukraine relations, Ukrainian President_
+_Context: Petro Poroshenko, Russia, Russia-Ukraine relations, Ukrainian President_
 
 ### [The European Union cancels mediation talks on resolving the political crisis in Macedonia after that country's main political opposition, led by Zoran Zaev, declined to take part. ](/news/2016/04/21/the-european-union-cancels-mediation-talks-on-resolving-the-political-crisis-in-macedonia-after-that-country-s-main-political-opposition-le.md)
 _Context: 2016 Macedonian protests, European Union, Macedonian, Zoran Zaev_

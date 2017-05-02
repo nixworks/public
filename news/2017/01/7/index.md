@@ -19,7 +19,7 @@ Israel announced it will withhold $6 million from its United Nations dues in pro
 U.S. Consulate in Guadalajara says FBI is offering $20,000 reward for information on attacker
 
 ### [Former President and Prime Minister of Portugal Mario Soares dies at the age of 92. ](/news/2017/01/7/former-president-and-prime-minister-of-portugal-ma-rio-soares-dies-at-the-age-of-92.md)
-_Context: Mário Soares, President, Prime Minister of Portugal_
+_Context: Mario Soares, President, Prime Minister of Portugal_
 
 ### [Nana Akufo-Addo is sworn in as the fifth President of Ghana. ](/news/2017/01/7/nana-akufo-addo-is-sworn-in-as-the-fifth-president-of-ghana.md)
 _Context: Nana Akufo-Addo, President of Ghana_

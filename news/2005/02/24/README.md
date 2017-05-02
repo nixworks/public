@@ -25,7 +25,7 @@ _Context: Bratislava, George W. Bush, Slovakia Summit, Vladimir Putin_
 Read the latest national and world news on Newsday. All the top stores, latest videos and photo galleries are available at Newsday.com
 
 ### [ Colombian supreme court authorizes the extradition of drug dealer Miguel Rodrguez Orejuela to the US ](/news/2005/02/24/colombian-supreme-court-authorizes-the-extradition-of-drug-dealer-miguel-rodriguez-orejuela-to-the-us.md)
-_Context: Miguel Rodríguez Orejuela, Supreme Court, extradited_
+_Context: Miguel Rodrguez Orejuela, Supreme Court, extradited_
 
 ### [ In Sudan, an ammunition depot explodes near the town of Juba; at least 18 are dead and the toll continues to rise ](/news/2005/02/24/in-sudan-an-ammunition-depot-explodes-near-the-town-of-juba-at-least-18-are-dead-and-the-toll-continues-to-rise.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
@@ -52,7 +52,7 @@ _Context: Turkey, universities_
 _Context: Kyrgyzstan, opposition_
 
 ### [ French Finance Minister Herv Gaymard faces increasing pressure to resign. He has been criticized due to the luxury apartment where he lives at the state's expense, although he has promised to move elsewhere. ](/news/2005/02/24/french-finance-minister-herve-gaymard-faces-increasing-pressure-to-resign-he-has-been-criticized-due-to-the-luxury-apartment-where-he-live.md)
-_Context: Hervé Gaymard_
+_Context: Herv Gaymard_
 
 ## [Previous Day...](/news/2005/02/23/index.md)
 

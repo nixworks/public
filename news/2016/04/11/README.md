@@ -22,7 +22,7 @@ Intense spell of hot and dry weather brought on by El Nino hits food and water s
 U.S. Secretary of State John Kerry on Monday called his visit to a memorial to victims of the 1945 U.S. nuclear attack on Hiroshima &quot;gut-wrenching&quot; and said it was a reminder of the need to pursue a world free of nuclear weapons.
 
 ### [Ismail Ould Cheikh Ahmed, the United Nations special envoy for Yemen, says he welcomes the tentative truce that started at midnight Yemen time.  The truce opens  unhindered access for relief aid to all of Yemen. Peace talks are set to start later this month. ](/news/2016/04/11/ismail-ould-cheikh-ahmed-the-united-nations-special-envoy-for-yemen-says-he-welcomes-the-tentative-truce-that-started-at-midnight-yemen-ti.md)
-_Context: Houthi insurgency in Yemen, Ismail Ould Cheikh Ahmed, United Nations, Yemen, Yemeni Crisis (2011–present)_
+_Context: Houthi insurgency in Yemen, Ismail Ould Cheikh Ahmed, United Nations, Yemen, Yemeni Crisis (2011-present)_
 
 ### [South Korea announces that a colonel from North Korea's military spy agency defected to the south last year. Senior-level defections are rare, most being low level operatives. ](/news/2016/04/11/south-korea-announces-that-a-colonel-from-north-korea-s-military-spy-agency-defected-to-the-south-last-year-senior-level-defections-are-rar.md)
 SEOUL, South Korea (AP) — A colonel from North Korea&#039;s military spy agency fled to South Korea last year in a rare senior-level defection, Seoul officials said Monday. The announcement came three days after Seoul revealed…
@@ -37,7 +37,7 @@ CIA Director John Brennan told NBC News his agency will not engage in harsh &#x2
 _Context: Indian police, Kollam temple fire, Puttingal Temple_
 
 ### [Israeli security forces arrest 18 Palestinians on the West Bank for alleged terrorism related offences. ](/news/2016/04/11/israeli-security-forces-arrest-18-palestinians-on-the-west-bank-for-alleged-terrorism-related-offences.md)
-_Context: Israeli–Palestinian conflict (2015–present), Palestinian, West Bank_
+_Context: Israeli-Palestinian conflict (2015-present), Palestinian, West Bank_
 
 ### [Hundreds of arrests are reported in the U.S. Capitol in response to the Democracy Spring protests. ](/news/2016/04/11/hundreds-of-arrests-are-reported-in-the-u-s-capitol-in-response-to-the-democracy-spring-protests.md)
 Democracy Spring is a movement organization committed to winning fundamental reforms to end the corruption of big money in politics and guarantee the right to vote for all Americans. We use campaigns of escalating nonviolent action to achieve this goal and believe in the power of mass civil disobedience to transform our political system.
@@ -52,7 +52,7 @@ Darfur voters are divided on whether or not the referendum is a priority concern
 Issues of changing a certain article of the South Ossetian constitution will be put to referendum, which will make it possible in the future to ask the Russian leadership to incorporate the republic
 
 ### [A committee of Brazil's Chamber of Deputies votes 38-27 to recommend the impeachment of President Dilma Rousseff, who faces charges of breaking budget laws to support her re-election in 2014. ](/news/2016/04/11/a-committee-of-brazil-s-chamber-of-deputies-votes-38-27-to-recommend-the-impeachment-of-president-dilma-rousseff-who-faces-charges-of-break.md)
-_Context: 2015–16 protests in Brazil, Brazil, Brazil's Chamber of Deputies, Brazilian President, Dilma Rousseff, Impeachment process against Dilma Rousseff, re-election_
+_Context: 2015-16 protests in Brazil, Brazil, Brazil's Chamber of Deputies, Brazilian President, Dilma Rousseff, Impeachment process against Dilma Rousseff, re-election_
 
 ## [Previous Day...](/news/2016/04/10/index.md)
 

@@ -10,7 +10,7 @@ Former Maoist rebel leader Prachanda has been elected as Nepal&#039;s first repu
 _Context: Catholic Church, Fernando Lugo, Paraguayan President_
 
 ### [ Former President Hissene Habre is sentenced to death ''in absentia'' by a Chadian court for a military assault on the capital. ](/news/2008/08/15/former-president-hissa-ne-habra-c-is-sentenced-to-death-in-absentia-by-a-chadian-court-for-a-military-assault-on-the-capital.md)
-_Context: Chad, Hissène Habré, President of Chad, military assault_
+_Context: Chad, Hissene Habre, President of Chad, military assault_
 
 ### [ Russia threatens Poland with military consequences for allowing the United States of America to place defense missiles within its borders. ](/news/2008/08/15/russia-threatens-poland-with-military-consequences-for-allowing-the-united-states-of-america-to-place-defense-missiles-within-its-borders.md)
 ### [ 2008 South Ossetia war: Russia will provide 'at least' 10 billion Roubles (approx. EUR270 million, US$420 million) aid to South Ossetia to help rebuild Tskhinvali 'leveled' during the Georgian 'lasting artillery shelling' of 7th and 8th of August. ](/news/2008/08/15/2008-south-ossetia-war-p-russia-will-provide-at-least-10-billion-roubles-approx-a-270-million-us-420-million-aid-to-south-ossetia-to.md)

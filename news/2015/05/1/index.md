@@ -7,7 +7,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 UN agency calls on Houthis to release fuel supplies, saying it needs 200,000 litres of fuel to distribute its food aid.
 
 ### [A rocket attack on a centre for despatching ambulances in the eastern city of Benghazi kills at least three people and injures seven other. ](/news/2015/05/1/a-rocket-attack-on-a-centre-for-despatching-ambulances-in-the-eastern-city-of-benghazi-kills-at-least-three-people-and-injures-seven-other.md)
-_Context: Benghazi, Libyan Civil War (2014–present)_
+_Context: Benghazi, Libyan Civil War (2014-present)_
 
 ### [A 7.1 magnitude earthquake occurs in Papua New Guinea's East New Britain province with the potential to generate a local tsunami. ](/news/2015/05/1/a-7-1-magnitude-earthquake-occurs-in-papua-new-guinea-s-east-new-britain-province-with-the-potential-to-generate-a-local-tsunami.md)
 _Context: East New Britain, Papua New Guinea, tsunami_

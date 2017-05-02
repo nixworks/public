@@ -12,5 +12,5 @@
 ### Related:
 
 1. [Voters in Iceland head to the polls to elect a new president with a historic low voter turnout expected. Independent candidate Gudni Th. Johannesson claims victory. ](/news/2016/06/25/voters-in-iceland-head-to-the-polls-to-elect-a-new-president-with-a-historic-low-voter-turnout-expected-independent-candidate-guadegni-th-ja.md) _Context: Icelandic presidential election, 2016, president_
-2. [The President of Iceland Olafur Ragnar Grimsson announces a referendum during a live televised speech. ](/news/2010/01/5/the-president-of-iceland-alafur-ragnar-gramsson-announces-a-referendum-during-a-live-televised-speech.md) _Context: president, Ólafur Ragnar Grímsson_
+2. [The President of Iceland Olafur Ragnar Grimsson announces a referendum during a live televised speech. ](/news/2010/01/5/the-president-of-iceland-alafur-ragnar-gramsson-announces-a-referendum-during-a-live-televised-speech.md) _Context: Olafur Ragnar Grimsson, president_
 3. [A quarter of voters in Iceland sign a petition asking President lafur Ragnar Grmsson to veto a bill on repaying US$5 billion to foreign savers who lost their money when Icelandic banks collapsed. ](/news/2010/01/2/a-quarter-of-voters-in-iceland-sign-a-petition-asking-president-olafur-ragnar-grimsson-to-veto-a-bill-on-repaying-us-5-billion-to-foreign-sa.md) _Context: president_

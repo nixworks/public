@@ -4,7 +4,7 @@
 Bus carrying women of ethnic Hazara Shia community was travelling to Hazara Town when it was attacked by assailants.
 
 ### [A security operation by the Somali Army in Lower Shabelle region kills 14 al-Shabaab fighters. ](/news/2016/10/4/a-security-operation-by-the-somali-army-in-lower-shabelle-region-kills-14-al-shabaab-fighters.md)
-_Context: Lower Shabelle, Somali Armed Forces, War in Somalia (2009–present), al-Shabaab_
+_Context: Lower Shabelle, Somali Armed Forces, War in Somalia (2009-present), al-Shabaab_
 
 ### [Following the June 23 Brexit vote, the exchange rate for the British pound reaches a 31-year low against the United States dollar. ](/news/2016/10/4/following-the-june-23-brexit-vote-the-exchange-rate-for-the-british-pound-reaches-a-31-year-low-against-the-united-states-dollar.md)
 The FTSE 100 share index comes close to an all-time high after rising above 7,000 points as the pound plunges to a new 31-year low against the dollar.
@@ -34,7 +34,7 @@ Philippine leader Rodrigo Duterte on Tuesday told U.S. President Barack Obama to
 12 channels are charged with broadcasting terror propaganda for the outlawed Kurdistan Workers Party
 
 ### [German prosecutors drop a case against comedian Jan Bohmermann, who had been indicted for a satirical poem about Turkish president Recep Tayyip Erdogan. ](/news/2016/10/4/german-prosecutors-drop-a-case-against-comedian-jan-baphmermann-who-had-been-indicted-for-a-satirical-poem-about-turkish-president-recep-ta.md)
-_Context: Böhmermann affair, Jan Böhmermann, Recep Tayyip Erdoğan_
+_Context: Bohmermann affair, Jan Bohmermann, Recep Tayyip Erdogan_
 
 ### [The scandal over improper practices of unauthorized accounts at Wells Fargo extends to thousands of small-business owners. ](/news/2016/10/4/the-scandal-over-improper-practices-of-unauthorized-accounts-at-wells-fargo-extends-to-thousands-of-small-business-owners.md)
 _Context: Wells Fargo_

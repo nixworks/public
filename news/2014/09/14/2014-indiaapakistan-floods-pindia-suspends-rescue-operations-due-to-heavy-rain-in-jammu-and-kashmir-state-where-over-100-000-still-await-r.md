@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [More than 160 people have died and thousands are stranded in one of the worst floods to occur in 60 years for India's Jammu and Kashmir. ](/news/2014/09/8/more-than-160-people-have-died-and-thousands-are-stranded-in-one-of-the-worst-floods-to-occur-in-60-years-for-india-s-jammu-and-kashmir.md) _Context: 2014 India–Pakistan floods, Jammu and Kashmir_
+1. [More than 160 people have died and thousands are stranded in one of the worst floods to occur in 60 years for India's Jammu and Kashmir. ](/news/2014/09/8/more-than-160-people-have-died-and-thousands-are-stranded-in-one-of-the-worst-floods-to-occur-in-60-years-for-india-s-jammu-and-kashmir.md) _Context: 2014 India-Pakistan floods, Jammu and Kashmir_
 2. [India inaugurates the 9.2-kilometer Chenani-Nashri Tunnel, in the state of Jammu and Kashmir. ](/news/2017/04/2/india-inaugurates-the-9-2-kilometer-chenani-nashri-tunnel-in-the-state-of-jammu-and-kashmir.md) _Context: Jammu and Kashmir_
 3. [Four suspected militants, two Indian Army soldiers, and one civilian are killed in clashes in a village in southern Jammu and Kashmir. ](/news/2017/02/12/four-suspected-militants-two-indian-army-soldiers-and-one-civilian-are-killed-in-clashes-in-a-village-in-southern-jammu-and-kashmir.md) _Context: Jammu and Kashmir_
 4. [At least 14 Indian Army soldiers and four civilians are killed in a series of avalanches near the Line of Control in Jammu and Kashmir. ](/news/2017/01/26/at-least-14-indian-army-soldiers-and-four-civilians-are-killed-in-a-series-of-avalanches-near-the-line-of-control-in-jammu-and-kashmir.md) _Context: Jammu and Kashmir_

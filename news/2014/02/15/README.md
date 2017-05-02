@@ -10,7 +10,7 @@ No date was set for new round of negotiations after six days of fractious talks
 _Context: Academy Award, Ellen Page, Human Rights Campaign, lesbian_
 
 ### [Prime Minister of Vietnam Nguyen Tan Dung initiates the construction of Tan Vu-Lach Huyen Bridge in Haiphong which will become the longest sea bridge in Vietnam as well as Southeast Asia. ](/news/2014/02/15/prime-minister-of-vietnam-nguya-n-taoy-n-da-c-ng-initiates-the-construction-of-tac-n-va-c-lao-ch-huya-n-bridge-in-haiphong-which-will-become-th.md)
-_Context: Haiphong, Nguyễn Tấn Dũng, Tân Vũ-Lạch Huyện Bridge, prime minister_
+_Context: Haiphong, Nguyen Tan Dung, Tan Vu-Lach Huyen Bridge, prime minister_
 
 ### [A North Korean cargo ship is allowed to leave the Panama Canal. ](/news/2014/02/15/a-north-korean-cargo-ship-is-allowed-to-leave-the-panama-canal.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

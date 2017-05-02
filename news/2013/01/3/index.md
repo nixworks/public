@@ -34,7 +34,7 @@ Prime Minister David Cameron strongly rebuffs a call by Argentine President Cris
 Five men are charged with the kidnap, rape and murder of a 23-year-old student on a bus in Delhi which sparked widespread outrage in India.
 
 ### [United States Congress:The 113th United States Congress is sworn in, replacing the 112th Congress. ](/news/2013/01/3/united-states-congress-pthe-113th-united-states-congress-is-sworn-in-replacing-the-112th-congress.md)
-_Context: 112th Congress, 113th United States Congress, U.S. Congress_
+_Context: 112th Congress, 113th United States Congress, U.S. Congressional_
 
 ### [A friendly game between A.C. Milan and  Italian lower division Pro Patria is suspended after Kevin-Prince Boateng and several other A.C. Milan were the target of racists chants by Pro Patria crowd. ](/news/2013/01/3/a-friendly-game-between-a-c-milan-and-italian-lower-division-pro-patria-is-suspended-after-kevin-prince-boateng-and-several-other-a-c-mil.md)
 A friendly between AC Milan and Italian lower division club Pro Patria is suspended after players walk off because of racist chants.

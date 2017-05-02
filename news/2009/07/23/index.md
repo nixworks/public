@@ -7,10 +7,10 @@ A report showing that sales of existing homes rose 3.6 percent in June and a flu
 _Context: Treaty of Amity and Cooperation in Southeast Asia, United States_
 
 ### [ Two Swedish passenger ferries sailing between the mainland and Gotland collide in fog just off the port of Nynshamn south of Stockholm, injuring at least 15 people. ](/news/2009/07/23/two-swedish-passenger-ferries-sailing-between-the-mainland-and-gotland-collide-in-fog-just-off-the-port-of-nynashamn-south-of-stockholm-in.md)
-_Context: Gotland, Nynäshamn, Stockholm, Sweden, ferry, fog_
+_Context: Gotland, Nynshamn, Stockholm, Sweden, ferry, fog_
 
 ### [ The Bank of Canada declares the recession has ended in Canada predicting the economy will grow by 1.3 per cent over the summer months. ](/news/2009/07/23/the-bank-of-canada-declares-the-recession-has-ended-in-canada-predicting-the-economy-will-grow-by-1-3-per-cent-over-the-summer-months.md)
-_Context: Bank of Canada, Canadian, late 2000s recession_
+_Context: Bank of Canada, Canada, late 2000s recession_
 
 ### [ Voters in Kyrgyzstan go to the polls for a presidential election, as the main opposition candidate Almazbek Atambayev pulls out. ](/news/2009/07/23/voters-in-kyrgyzstan-go-to-the-polls-for-a-presidential-election-as-the-main-opposition-candidate-almazbek-atambayev-pulls-out.md)
 _Context: Almazbek Atambayev, Kyrgyzstan, presidential election_

@@ -10,7 +10,7 @@ _Context: Boko Haram, Chad Air Force, Niger, Niger Army_
 _Context: German, Germany, Siemens_
 
 ### [Ecuador declares a state of emergency in the Galpagos Islands after a ship, ''The Floreana'', carrying hazardous materials ran aground January 28. ](/news/2015/02/6/ecuador-declares-a-state-of-emergency-in-the-galapagos-islands-after-a-ship-the-floreana-carrying-hazardous-materials-ran-aground-janu.md)
-_Context: Ecuador, Galápagos Islands, state of emergency_
+_Context: Ecuador, Galpagos Islands, state of emergency_
 
 ### [Mexican police find at least 61 bodies in an abandoned crematorium in Acapulco. ](/news/2015/02/6/mexican-police-find-at-least-61-bodies-in-an-abandoned-crematorium-in-acapulco.md)
 Mexican police investigate after 60 bodies are found piled up in an abandoned crematorium in the resort of Acapulco.
@@ -22,7 +22,7 @@ Canadaâ€™s Supreme Court has struck down the countryâ€™s 1993 ban on assisted su
 Embattled Australian Prime Minister Tony Abbott said he will fight a challenge to his leadership at a party-room meeting next week after disgruntled government lawmakers on Friday sought to oust him following weeks of divisive speculation.
 
 ### [Xanana Gusmo resigns as the Prime Minister of East Timor ahead of an expected government restructure next week. ](/news/2015/02/6/xanana-gusmao-resigns-as-the-prime-minister-of-east-timor-ahead-of-an-expected-government-restructure-next-week.md)
-_Context: Prime Minister of East Timor, Xanana Gusmão_
+_Context: Prime Minister of East Timor, Xanana Gusmo_
 
 ### [Houthi rebels take control in Yemen and dissolve the parliament. ](/news/2015/02/6/houthi-rebels-take-control-in-yemen-and-dissolve-the-parliament.md)
 _Context: Houthi insurgency in Yemen, Yemen, parliament_

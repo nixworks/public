@@ -22,7 +22,7 @@ US defence secretary expresses deep concern about China’s push to claim resour
 _Context: Attorney General of Delaware, Beau Biden, Iraq War, Joseph Biden, Walter Reed Medical Center, brain cancer_
 
 ### [Martin O'Malley announces that he will be seeking the Democratic Party nomination in the 2016 US presidential election. ](/news/2015/05/30/martin-o-malley-announces-that-he-will-be-seeking-the-democratic-party-nomination-in-the-2016-us-presidential-election.md)
-_Context: 2016 U.S. presidential election, Democrat, Martin O'Malley_
+_Context: 2016 U.S. presidential election, Democratic, Martin O'Malley_
 
 ### [A mystery disease has killed over 120,000 saiga antelopes - more than a third of the world's total population - in Kazakhstan in recent weeks. ](/news/2015/05/30/a-mystery-disease-has-killed-over-120-000-saiga-antelopes-a-more-than-a-third-of-the-world-s-total-population-a-in-kazakhstan-in-recent.md)
 The sudden deaths of tens of thousands of endangered antelopes in Kazakhstan over the past two weeks leave scientists scrambling for answers and conservationists worried about the animal&#039;s future.

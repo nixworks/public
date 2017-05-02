@@ -1,6 +1,6 @@
 ## [2013-07-31](/news/2013/07/31/index.md)
 
-### [At least ten people die as a result of a heatwave in the Shanghai which has recorded its highest temperatures on record, surpassing {{convert|40|C}}. ](/news/2013/07/31/at-least-ten-people-die-as-a-result-of-a-heatwave-in-the-shanghai-which-has-recorded-its-highest-temperatures-on-record-surpassing-conver.md)
+### [At least ten people die as a result of a heatwave in the Shanghai which has recorded its highest temperatures on record, surpassing 40|C. ](/news/2013/07/31/at-least-ten-people-die-as-a-result-of-a-heatwave-in-the-shanghai-which-has-recorded-its-highest-temperatures-on-record-surpassing-40-c.md)
 _Context: Shanghai, heatwave_
 
 ### [Forty people are missing and presumed drowned after a bus plunges into a canal near Sirhind-Fategarh, Punjab, India. ](/news/2013/07/31/forty-people-are-missing-and-presumed-drowned-after-a-bus-plunges-into-a-canal-near-sirhind-fategarh-punjab-india.md)

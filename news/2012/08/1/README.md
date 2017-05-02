@@ -19,7 +19,7 @@ No haredim slated to be drafted as defense minister orders IDF to create a plan 
 _Context: Mogadishu, Somalia_
 
 ### [Prosecutors formally charge three Mexican Army generals, including active General Roberto Dawe Gonzalez and retired General Toms ngeles Dauahare, and a lieutenant-colonel for their alleged links to a drug trafficking organization known as the Beltrn-Leyva Cartel. ](/news/2012/08/1/prosecutors-formally-charge-three-mexican-army-generals-including-active-general-roberto-dawe-gonzalez-and-retired-general-tomas-angeles-da.md)
-_Context: Beltrán Leyva Cartel, Mexican Army, Roberto Dawe Gonzalez, Tomás Ángeles Dauahare_
+_Context: Beltrn Leyva Cartel, Mexican Army, Roberto Dawe Gonzalez, Toms ngeles Dauahare_
 
 ### [Four coordinated low intensity bombs explode in the Indian city of Pune. ](/news/2012/08/1/four-coordinated-low-intensity-bombs-explode-in-the-indian-city-of-pune.md)
 _Context: India, Pune_

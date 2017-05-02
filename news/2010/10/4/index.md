@@ -49,7 +49,7 @@ The suit centers on rules and fees the companies impose on merchants. They are c
 _Context: Agung Laksono, Indonesia, Wasior, West Papua_
 
 ### [3 people were killed and 5 were injured after a boiler exploded in a tannery in Hatay in the Dericiler area of Guzelburc town. The injured were taken to Mustafa Kemal University's faculty of medicine hospital. ](/news/2010/10/4/3-people-were-killed-and-5-were-injured-after-a-boiler-exploded-in-a-tannery-in-hatay-in-the-dericiler-area-of-ga1-4zelburass-town-the-injured.md)
-_Context: Güzelburç, Hatay Province, Mustafa Kemal University_
+_Context: Guzelburc, Hatay Province, Mustafa Kemal University_
 
 ### [Two persons were killed when a mini-lorry was hit by the Netravati Express, they were travelling at an unmanned level crossing at Panachuvadu near Punnapra, India. ](/news/2010/10/4/two-persons-were-killed-when-a-mini-lorry-was-hit-by-the-netravati-express-they-were-travelling-at-an-unmanned-level-crossing-at-panachuvad.md)
 _Context: Netravati Express, Panachuvadu, Punnapra_
@@ -58,10 +58,10 @@ _Context: Netravati Express, Panachuvadu, Punnapra_
 _Context: Indonesia, Papua_
 
 ### [Chinese Premier Wen Jiabao and Japanese Prime Minister Naoto Kan met in Brussels, on the sidelines of the Asia-Europe Meeting. ](/news/2010/10/4/chinese-premier-wen-jiabao-and-japanese-prime-minister-naoto-kan-met-in-brussels-on-the-sidelines-of-the-asiaaeurope-meeting.md)
-_Context: Asia–Europe Meeting, Naoto Kan, Wen Jiabao_
+_Context: Asia-Europe Meeting, Naoto Kan, Wen Jiabao_
 
 ### [The 2010 Asia-Europe Meeting commences in Brussels, Belgium with Russia, Australia and New Zealand joining the discussions. ](/news/2010/10/4/the-2010-asiaaeurope-meeting-commences-in-brussels-belgium-with-russia-australia-and-new-zealand-joining-the-discussions.md)
-_Context: Asia–Europe Meeting_
+_Context: Asia-Europe Meeting_
 
 ### [China's State Councilor Dai Bingguo delivers a speech at the opening session of the United Nations Framework Convention on Climate Change meeting in Tianjin before the U.N. climate summit in Mexico at year's end. ](/news/2010/10/4/china-s-state-councilor-dai-bingguo-delivers-a-speech-at-the-opening-session-of-the-united-nations-framework-convention-on-climate-change-me.md)
 UN climate chief urges nations to find common ground on curbing greenhouse gases in a bid to pave way for a new treaty.
@@ -100,10 +100,10 @@ Clashes between police and protesters in Stuttgart hit a raw nerve in Germany as
 A Brazilian clown is elected to Congress with more votes than any other candidate, while ex-footballer Romario is also chosen to represent Rio de Janeiro.
 
 ### [A Japanese judicial panel calls for charges against top Democratic Party (DPJ) figure Ichiro Ozawa. ](/news/2010/10/4/a-japanese-judicial-panel-calls-for-charges-against-top-democratic-party-dpj-figure-ichira-ozawa.md)
-_Context: Democratic Party, Ichirō Ozawa_
+_Context: Democratic Party, Ichiro Ozawa_
 
 ### [Lima receives its first female mayor in Susana Villaran. ](/news/2010/10/4/lima-receives-its-first-female-mayor-in-susana-villara-n.md)
-_Context: Lima, Susana Villarán_
+_Context: Lima, Susana Villaran_
 
 ### [The Cuban government considers another large-scale round of political prisoner releases after the release of 52 in July. ](/news/2010/10/4/the-cuban-government-considers-another-large-scale-round-of-political-prisoner-releases-after-the-release-of-52-in-july.md)
 The Cuban government is considering another large-scale release of political prisoners, reports say.

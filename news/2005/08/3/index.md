@@ -4,7 +4,7 @@
 _Context: Federal Communications Commission's, Sprint Nextel, U.S. Justice Department_
 
 ### [ Prime Minister of Canada Paul Martin will announce on Thursday that Michalle Jean has been chosen to succeed Adrienne Clarkson as Governor General of Canada. ](/news/2005/08/3/prime-minister-of-canada-paul-martin-will-announce-on-thursday-that-michaelle-jean-has-been-chosen-to-succeed-adrienne-clarkson-as-governor.md)
-_Context: Adrienne Clarkson, Canadian Prime Minister, Governor General, Michaëlle Jean, Paul Martin_
+_Context: Adrienne Clarkson, Canadian Prime Minister, Governor General, Michalle Jean, Paul Martin_
 
 ### [ Two people are known to have died following a bomb blast in Istanbul, Turkey. ](/news/2005/08/3/two-people-are-known-to-have-died-following-a-bomb-blast-in-istanbul-turkey.md)
 _Context: Istanbul_

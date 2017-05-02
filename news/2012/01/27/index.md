@@ -28,7 +28,7 @@ Two sacks of cocaine were accidentally delivered to the UN&#039;s New York headq
 _Context: Netherlands, Willem Holleeder, blackmail, extortion_
 
 ### [Guatemalan dictator Efrain Rios Montt to go on trial for genocide. ](/news/2012/01/27/guatemalan-dictator-efraan-raos-montt-to-go-on-trial-for-genocide.md)
-_Context: Efraín Ríos Montt, Guatemala, genocide_
+_Context: Efrain Rios Montt, Guatemala, genocide_
 
 ### [Kader Arif, the European Parliament's rapporteur for the Anti-Counterfeiting Trade Agreement (ACTA), resigns amid protests against the treaty. ](/news/2012/01/27/kader-arif-the-european-parliament-s-rapporteur-for-the-anti-counterfeiting-trade-agreement-acta-resigns-amid-protests-against-the-treat.md)
 A European Parliament rapporteur has stood down in protest as a controversial anti-piracy agreement is signed by several countries.

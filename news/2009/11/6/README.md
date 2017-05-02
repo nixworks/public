@@ -34,7 +34,7 @@ _Context: China's, Hebei, Luanxian_
 _Context: Burma, India, Nagaland, separatist rebel_
 
 ### [ A court in Cte d'Ivoire orders that compensation due to thousands of people affected by the dumped waste of Trafigura should not be distributed to one man. ](/news/2009/11/6/a-court-in-cote-d-ivoire-orders-that-compensation-due-to-thousands-of-people-affected-by-the-dumped-waste-of-trafigura-should-not-be-distri.md)
-_Context: Côte d'Ivoire, Trafigura, the dumped waste_
+_Context: Cte d'Ivoire, Trafigura, the dumped waste_
 
 ### [ Niger's foreign affairs ministry confirms customs officials in Nigeria are blocking Niger from goods importation. ](/news/2009/11/6/niger-s-foreign-affairs-ministry-confirms-customs-officials-in-nigeria-are-blocking-niger-from-goods-importation.md)
 _Context: Niger, Nigeria_

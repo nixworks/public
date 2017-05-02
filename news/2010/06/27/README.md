@@ -10,7 +10,7 @@ West African nation to elect president on Sunday after decades of military rule.
 _Context: Kyrgyzstan, constitutional referendum_
 
 ### [A road accident in Bolivia kills at least 25, injures 44, between Cochabama and Potos. ](/news/2010/06/27/a-road-accident-in-bolivia-kills-at-least-25-injures-44-between-cochabama-and-potosi.md)
-_Context: Bolivia, Cochabama, Potosí_
+_Context: Bolivia, Cochabama, Potos_
 
 ### [At least 11 people die while watching a 2010 FIFA World Cup match in Matam, Senegal. ](/news/2010/06/27/at-least-11-people-die-while-watching-a-2010-fifa-world-cup-match-in-matam-senegal.md)
 At least 11 people die in Senegal as a terrace where they were watching a World Cup football match collapses.

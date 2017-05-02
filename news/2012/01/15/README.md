@@ -10,12 +10,12 @@ Gunmen set off bombs outside a police building in the Iraqi city of Ramadi befor
 There have been clashes between demonstrators and riot police in Romania, after thousands took to the streets in protest against government cuts and falling living standards. Janey Mitchell reports.
 
 ### [2011-2012 Bahraini uprising: Opposition leaders and activists say reforms proposed by King Hamad bin Isa Al Khalifa are "cosmetic" and will do little to stop the uprising. ](/news/2012/01/15/2011a2012-bahraini-uprising-opposition-leaders-and-activists-say-reforms-proposed-by-king-hamad-bin-isa-al-khalifa-are-cosmetic-and-wil.md)
-_Context: 2011–2012 Bahraini uprising, Hamad bin Isa Al Khalifa, King of Bahrain_
+_Context: 2011-2012 Bahraini uprising, Hamad bin Isa Al Khalifa, King of Bahrain_
 
 ### [2011-2012 Syrian uprising: United Nations Secretary-General Ban Ki-moon calls on the Syrian regime to "stop killing its own people". ](/news/2012/01/15/2011a2012-syrian-uprising-punited-nations-secretary-general-ban-ki-moon-calls-on-the-syrian-regime-to-stop-killing-its-own-people.md)
 United Nations Secretary-General Ban Ki-Moon Sunday called on Syria’s President Bashar Assad to stop killing his own people.
 
-### [The Russian tanker ''Renda'', accompanied by the US Coast Guard icebreaker {{USCGC|Healy}}, prepares to deliver fuel to Nome, Alaska. A fall storm had blocked an earlier fuel delivery, leaving the city facing fuel shortages. ](/news/2012/01/15/the-russian-tanker-renda-accompanied-by-the-us-coast-guard-icebreaker-uscgc-healy-prepares-to-deliver-fuel-to-nome-alaska-a-fall.md)
+### [The Russian tanker ''Renda'', accompanied by the US Coast Guard icebreaker Healy, prepares to deliver fuel to Nome, Alaska. A fall storm had blocked an earlier fuel delivery, leaving the city facing fuel shortages. ](/news/2012/01/15/the-russian-tanker-renda-accompanied-by-the-us-coast-guard-icebreaker-healy-prepares-to-deliver-fuel-to-nome-alaska-a-fall-storm-had.md)
 _Context: Alaska, Nome, US Coast Guard, icebreaker_
 
 ### [A fuel freighter, the ''Doola No. 3'', explodes near the South Korean port city of Incheon, killing at least three crew members. ](/news/2012/01/15/a-fuel-freighter-the-doola-no-3-explodes-near-the-south-korean-port-city-of-incheon-killing-at-least-three-crew-members.md)

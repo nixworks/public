@@ -40,7 +40,7 @@ _Context: Belgium, Law Courts of Brussels_
 Congolese rights activist Floribert Chebeya is found dead in his car after having been summoned to a meeting with the police chief.
 
 ### [Bishop Luigi Padovese of the Roman Catholic Apostolic Vicariate of Anatolia is attacked at his home in Iskenderun, Hatay Province and dies later in hospital. Mr Padovese's driver is arrested. ](/news/2010/06/3/bishop-luigi-padovese-of-the-roman-catholic-apostolic-vicariate-of-anatolia-is-attacked-at-his-home-in-adegskenderun-hatay-province-and-dies.md)
-_Context: Hatay Province, Luigi Padovese, Roman Catholic Apostolic Vicariate of Anatolia, İskenderun_
+_Context: Hatay Province, Iskenderun, Luigi Padovese, Roman Catholic Apostolic Vicariate of Anatolia_
 
 ### [A report by the Police Service of Northern Ireland's Historical Enquiries Team concludes that a British soldier who fatally shot a 41-year-old civilian in Derry in 1971 acted "unlawfully", as the civilian "was not carrying a firearm and he posed no threat to the soldiers". ](/news/2010/06/3/a-report-by-the-police-service-of-northern-ireland-s-historical-enquiries-team-concludes-that-a-british-soldier-who-fatally-shot-a-41-year-o.md)
 The soldier who killed a man in 1971 should have been charged with murder, the chief of the RUC in the city said at the time.

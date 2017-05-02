@@ -7,7 +7,7 @@ Suspected Al-Qaeda militants killed 18 Yemeni soldiers in separate ambushes Tues
 _Context: Local Coordination Committees of Syria, Syrian Army, Syrian Civil War, barrel bomb_
 
 ### [An explosion in the rmqi Railway Station results in three people killed, with another 79 people injured. ](/news/2014/04/30/an-explosion-in-the-urumqi-railway-station-results-in-three-people-killed-with-another-79-people-injured.md)
-_Context: explosion in, Ürümqi Railway Station_
+_Context: explosion in, rmqi Railway Station_
 
 ### [India has become the world's third-largest economy in purchasing power parity after the United States and China, moving ahead of Japan according to World Bank report. The last survey in 2005 had placed India in 10th place.](/news/2014/04/30/india-has-become-the-world-s-third-largest-economy-in-purchasing-power-parity-after-the-united-states-and-china-moving-ahead-of-japan-accor.md)
 Purchasing Power Parity is used to compare economies and incomes of people by adjusting for differences in prices in different countries.

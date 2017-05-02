@@ -61,7 +61,7 @@ _Context: Bangladesh, Islam, Prime Minister, Prophet Muhammad, Sheikh Hasina, bl
 PODGORICA, Montenegro (AP) — Incumbent Filip Vujanovic has won Montenegro&#x27;s presidential election, despite opposition claims that their candidate was the winner, election authorities said Monday.
 
 ### [In the 2012-13 Premier League, Manchester City claims a 2-1 victory over their rivals and leaders Manchester United with Sergio Aguero's winning goal. ](/news/2013/04/8/in-the-2012a13-premier-league-manchester-city-claims-a-2a1-victory-over-their-rivals-and-leaders-manchester-united-with-sergio-aguero-s.md)
-_Context: 2012–13 Premier League, Manchester City, Manchester United, Sergio Aguero, rivals_
+_Context: 2012-13 Premier League, Manchester City, Manchester United, Sergio Aguero, rivals_
 
 ### [Bernard King, Gary Payton, Rick Pitino, Sylvia Hatchell, Dawn Staley, Guy Lewis, and Jerry Tarkanian are announced as 2013 inductees into the Naismith Memorial Basketball Hall of Fame. They will be inducted alongside previously announced class members Roger Brown, Russ Granik, Richie Guerin, Edwin Henderson, and Oscar Schmidt on September 8. ](/news/2013/04/8/bernard-king-gary-payton-rick-pitino-sylvia-hatchell-dawn-staley-guy-lewis-and-jerry-tarkanian-are-announced-as-2013-inductees-into-th.md)
 _Context: Bernard King, Dawn Staley, Edwin Henderson, Gary Payton, Guy Lewis, Jerry Tarkanian, Naismith Memorial Basketball Hall of Fame, Oscar Schmidt, Richie Guerin, Rick Pitino, Roger Brown, Russ Granik, Sylvia Hatchell_

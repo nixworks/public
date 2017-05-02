@@ -7,7 +7,7 @@ _Context: Damascus, PFLP-GC, Palestinian refugee, Syria, Syrian Civil War, Yarmo
 At least 17 people are killed and dozens injured in a car bomb attack on a market in the Khyber tribal region of north-west Pakistan, officials say.
 
 ### [War in Afghanistan (2001-present):A suicide bomber kills 2 and injures 15 others at the offices of a US security company in Kabul. ](/news/2012/12/17/war-in-afghanistan-2001apresent-pa-suicide-bomber-kills-2-and-injures-15-others-at-the-offices-of-a-us-security-company-in-kabul.md)
-_Context: Kabul, US$, War in Afghanistan (2001–present)_
+_Context: Kabul, US$, War in Afghanistan (2001-present)_
 
 ### [Famous actor Gerard Depardieu decides to give up his French citizenship and move to Belgium for a permanent residence to avoid taxes. ](/news/2012/12/17/famous-actor-ga-c-rard-depardieu-decides-to-give-up-his-french-citizenship-and-move-to-belgium-for-a-permanent-residence-to-avoid-taxes.md)
 French actor Gerard Depardieu says he is handing back his French passport after the prime minister criticised him for moving to Belgium to avoid taxes.
@@ -61,7 +61,7 @@ _Context: Nicola Spirig, Roger Federer, Swiss Sports Personality of the Year, te
 _Context: Discus throw, German Sportspersonality of the Year, Magdalena Neuner, Robert Harting, biathlon_
 
 ### [Mourners attend the home of Gaelic football legend Paidi O Se who died suddenly. ](/news/2012/12/17/mourners-attend-the-home-of-gaelic-football-legend-pa-ida-a-sa-c-who-died-suddenly.md)
-_Context: Gaelic football, Páidí Ó Sé_
+_Context: Gaelic football, Paidi O Se_
 
 ### [In Serie A, Siena appoints former Sampdoria boss Giuseppe Iachini as their new coach after dismissing Serse Cosmi. Also Sampdoria sacks coach Ciro Ferrara after five months in charge on and replaces him with former Lazio and Palermo boss Delio Rossi. ](/news/2012/12/17/in-serie-a-siena-appoints-former-sampdoria-boss-giuseppe-iachini-as-their-new-coach-after-dismissing-serse-cosmi-also-sampdoria-sacks-coac.md)
 UC Sampdoria have replaced coach Ciro Ferrara with Delio Rossi following their 3-1 defeat at Calcio Catania on Sunday, while Serse Cosmi has left bottom club AC Siena.

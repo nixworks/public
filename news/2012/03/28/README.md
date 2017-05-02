@@ -4,7 +4,7 @@
 _Context: 2012 Sabha conflict, Sabha, Libya_
 
 ### [2012 South Sudan-Sudan border conflict: South Sudan's troops pull out of Sudan's oil-producing Heglig area, easing tensions after two days of clashes between the neighbours threatened to escalate a simmering conflict. ](/news/2012/03/28/2012-south-sudanasudan-border-conflict-south-sudan-s-troops-pull-out-of-sudan-s-oil-producing-heglig-area-easing-tensions-after-two-days.md)
-_Context: 2012 South Sudan–Sudan border conflict, Heglig, South Sudan, Sudan_
+_Context: 2012 South Sudan-Sudan border conflict, Heglig, South Sudan, Sudan_
 
 ### [2011-2012 Syrian uprising: Syrian forces attack the central town of Qalaat al-Madiq as Arab League ministers meet in Baghdad. ](/news/2012/03/28/2011a2012-syrian-uprising-syrian-forces-attack-the-central-town-of-qalaat-al-madiq-as-arab-league-ministers-meet-in-baghdad.md)
 Fighting continues in Syria as the Arab League meets over the crisis, with the government in Damascus rejecting co-operation with its peace moves.

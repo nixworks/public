@@ -34,7 +34,7 @@ _Context: Naoto Kan, Parliament, Prime Minister_
 _Context: Deloitte Touche Tohmatsu Limited, First Minister of Northern Ireland, Iris Robinson, Peter Robinson_
 
 ### [Danish Prime Minister Lars Lkke Rasmussen calls for Parliamentary elections to be held on September 15 - nearly two months ahead of the scheduled date. ](/news/2011/08/26/danish-prime-minister-lars-lokke-rasmussen-calls-for-parliamentary-elections-to-be-held-on-september-15-nearly-two-months-ahead-of-the-sch.md)
-_Context: Lars Løkke Rasmussen_
+_Context: Lars Lkke Rasmussen_
 
 ### [Scientists at Swinburne University of Technology in Melbourne announce their discovery of J1719-143, a planet made entirely of diamond orbiting a pulsar - only the second time such a planetary mass has been discovered. ](/news/2011/08/26/scientists-at-swinburne-university-of-technology-in-melbourne-announce-their-discovery-of-j1719-143-a-planet-made-entirely-of-diamond-orbit.md)
 The discovery of a small, fast-spinning star known as a pulsar has led to astronomers to detect a companion planet, likely made of diamond.

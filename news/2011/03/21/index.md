@@ -13,7 +13,7 @@ _Context: 2011 Yemeni protests, Yemen_
 Thousands of demonstrators march through the southern Syrian city of Deraa calling for greater freedoms, following the funeral of a protester killed on Sunday.
 
 ### [2010-2011 Ivorian crisis: Thousands of supporters of incumbent Cote d'Ivoire President Laurent Gbagbo gather to enlist in the army. ](/news/2011/03/21/2010a2011-ivorian-crisis-thousands-of-supporters-of-incumbent-ca-te-d-ivoire-president-laurent-gbagbo-gather-to-enlist-in-the-army.md)
-_Context: 2010–2011 Ivorian crisis, Côte d'Ivoire, Laurent Gbagbo_
+_Context: 2010-2011 Ivorian crisis, Cote d'Ivoire, Laurent Gbagbo_
 
 ### [Israel Defense Forces launch air strikes on the Gaza Strip after militants fire mortars and rockets at Israel resulting in 19 Palestineans being injured. ](/news/2011/03/21/israel-defense-forces-launch-air-strikes-on-the-gaza-strip-after-militants-fire-mortars-and-rockets-at-israel-resulting-in-19-palestineans-b.md)
 _Context: Gaza Strip, Israel, Israel Defense Forces, Mortar, Palestinian, air strike_

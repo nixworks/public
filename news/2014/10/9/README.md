@@ -10,7 +10,7 @@ _Context: North Waziristan, War in North-West Pakistan_
 A hand grenade hurled from a parking lot into a popular tourist area of Kuala Lumpur left one person dead and 13 injured.
 
 ### [A car bombing in a busy street in Baghdad's largest Shi'ite neighbourhood kills at least 12 people. ](/news/2014/10/9/a-car-bombing-in-a-busy-street-in-baghdad-s-largest-shi-ite-neighbourhood-kills-at-least-12-people.md)
-_Context: Baghdad, Iraqi insurgency (2011–present), Shi'ite, car bombing_
+_Context: Baghdad, Iraqi insurgency (2011-present), Shi'ite, car bombing_
 
 ### [2014 The French novelist Patrick Modiano is awarded the 2014 Nobel Prize in Literature. ](/news/2014/10/9/2014-the-french-novelist-patrick-modiano-is-awarded-the-2014-nobel-prize-in-literature.md)
 Patrick Modiano, author of Lacombe Lucien, wins the The Swedish Academy award for the Nobel Prize in literature 2014

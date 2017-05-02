@@ -9,7 +9,7 @@ Dozens of people are killed in car bombings in Baghdad and Mosul, security offic
 ### [War in Afghanistan (2001-present):A roadside bomb in eastern Afghanistan kills 18 people. ](/news/2013/10/27/war-in-afghanistan-2001apresent-pa-roadside-bomb-in-eastern-afghanistan-kills-18-people.md)
 A roadside bomb in eastern Afghanistan killed 18 people, including at least five women, who were travelling to a wedding party by minibus, a local government official said on Sunday.
 
-### [Lou Reed, lead singer of the band The Velvet Underground, dies at the age of 71. {{citation needed|date=October 2013}}](/news/2013/10/27/lou-reed-lead-singer-of-the-band-the-velvet-underground-dies-at-the-age-of-71-citation-needed-date-october-2013.md)
+### [Lou Reed, lead singer of the band The Velvet Underground, dies at the age of 71. date=October 2013](/news/2013/10/27/lou-reed-lead-singer-of-the-band-the-velvet-underground-dies-at-the-age-of-71-date-october-2013.md)
 _Context: Lou Reed, The Velvet Underground_
 
 ### [The United Kingdom braces itself for the St Jude storm, the worst since 1987, which is due to make landfall tonight. ](/news/2013/10/27/the-united-kingdom-braces-itself-for-the-st-jude-storm-the-worst-since-1987-which-is-due-to-make-landfall-tonight.md)

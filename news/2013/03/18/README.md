@@ -4,7 +4,7 @@
 _Context: Lebanon, Syrian Air Force, Syrian Civil War_
 
 ### [War in Somalia:A car bombing in the center of the Somali capital, Mogadishu, kills at least 10 people and injures 20 others. ](/news/2013/03/18/war-in-somalia-pa-car-bombing-in-the-center-of-the-somali-capital-mogadishu-kills-at-least-10-people-and-injures-20-others.md)
-_Context: Mogadishu, Somalia, War in Somalia (2009–present), car bombing_
+_Context: Mogadishu, Somalia, War in Somalia (2009-present), car bombing_
 
 ### [Terrorism in Pakistan:A suspected militant suicide bombing at a court and prison complex in the Pakistani city of Peshawar kills at least 4 people and injures 47 others. ](/news/2013/03/18/terrorism-in-pakistan-pa-suspected-militant-suicide-bombing-at-a-court-and-prison-complex-in-the-pakistani-city-of-peshawar-kills-at-least-4.md)
 Militants kill at least four people and injure 29 in an attack on a court and prison complex in the north-west Pakistani city of Peshawar.
@@ -19,7 +19,7 @@ A deadly explosion at a military ammunition storage facility in Nevada during a 
 _Context: China's, DCNS, France, Japan_
 
 ### [Argentine President Cristina Fernandez de Kirchner appeals to Pope Francis for assistance in settling Argentina's dispute over the Falkland Islands with the United Kingdom. ](/news/2013/03/18/argentine-president-cristina-ferna-ndez-de-kirchner-appeals-to-pope-francis-for-assistance-in-settling-argentina-s-dispute-over-the-falkland.md)
-_Context: Argentina, Cristina Fernández de Kirchner, Falkland Islands sovereignty dispute, Pope Francis, President of Argentina, United Kingdom_
+_Context: Argentina, Cristina Fernandez de Kirchner, Falkland Islands sovereignty dispute, Pope Francis, President of Argentina, United Kingdom_
 
 ### [China says that United States plans to bolster missile defences in response to provocations by North Korea would only intensify antagonism, and urges Washington to act prudently. ](/news/2013/03/18/china-says-that-united-states-plans-to-bolster-missile-defences-in-response-to-provocations-by-north-korea-would-only-intensify-antagonism.md)
 _Context: China, North Korea, United States, Washington, D.C., missile defence_

@@ -43,7 +43,7 @@ Ofcom launches an investigation into email hacking by Sky News after the broadca
 The police chief who chose not to arrest George Zimmerman after he shot and killed Trayvon Martin in Florida sees his offer to resign blocked.
 
 ### [The North Carolina trial of former U.S. Senator and presidential hopeful John Edwards, concerning the use of illegal campaign donations to cover up an affair with a mistress, begins. ](/news/2012/04/23/the-north-carolina-trial-of-former-u-s-senator-and-presidential-hopeful-john-edwards-concerning-the-use-of-illegal-campaign-donations-to-c.md)
-_Context: John Edwards, North Carolina, Senator, an affair_
+_Context: John Edwards, North Carolina, United States Senate, an affair_
 
 ### [Around 45 people are detained across China in a tainted capsule medicine scandal. ](/news/2012/04/23/around-45-people-are-detained-across-china-in-a-tainted-capsule-medicine-scandal.md)
 _Context: China_

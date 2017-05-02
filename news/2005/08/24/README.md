@@ -10,7 +10,7 @@ _Context: Austria, Germany, Swiss, flood_
 _Context: 2005, China, Lhasa, Peru, Qinghai-Tibet Railway, Tanggula Mountain Pass, Tanggula Mountains, Tibet, Train station, above sea level, rail tracks_
 
 ### [ American televangelist and former Presidential candidate, Pat Robertson apologizes for calling for the assassination of Venezuelan President Hugo Chvez. ](/news/2005/08/24/american-televangelist-and-former-presidential-candidate-pat-robertson-apologizes-for-calling-for-the-assassination-of-venezuelan-presiden.md)
-_Context: Hugo Chávez, Pat Robertson, assassinated, televangelist_
+_Context: Hugo Chvez, Pat Robertson, assassinated, televangelist_
 
 ## [Previous Day...](/news/2005/08/23/index.md)
 

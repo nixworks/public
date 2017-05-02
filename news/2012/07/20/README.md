@@ -10,7 +10,7 @@ _Context: 2012 Aurora shooting, Aurora, Colorado, South Thailand insurgency, The
 Two civilians were killed and four wounded in bomb and shooting attacks in southern Thailand, a military spokesman said Friday, as the region marked the start of the Islamic holy month of Ramadan. A 25-year-old male security guard was shot dead...
 
 ### [At least 13 people are killed in clashes in Duekoue and a camp for displaced people in Ivory Coast. ](/news/2012/07/20/at-least-13-people-are-killed-in-clashes-in-dua-c-koua-c-and-a-camp-for-displaced-people-in-ivory-coast.md)
-_Context: Duékoué, Ivory Coast_
+_Context: Duekoue, Ivory Coast_
 
 ### [Amnesty International says Muslim Rohingyas in western Burma have been subject to attacks and arbitrary arrests. ](/news/2012/07/20/amnesty-international-says-muslim-rohingyas-in-western-burma-have-been-subject-to-attacks-and-arbitrary-arrests.md)
 _Context: Amnesty International, Burma, Muslim, Rohingya_

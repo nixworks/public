@@ -7,7 +7,7 @@ _Context: Igor Smirnov, Transnistria, presidential elections_
 Augusto Pinochet, who ruled Chile from 1973 to 1990, and spent his old age fighting human rights, fraud and corruption charges, died a week after suffering a heart attack.
 
 ### [ A video has emerged showing the current president of Croatia Stjepan Mesic praising the German puppet-state Independent State of Croatia during a speech in the early 1990s. ](/news/2006/12/10/a-video-has-emerged-showing-the-current-president-of-croatia-stjepan-mesia-praising-the-german-puppet-state-independent-state-of-croatia-d.md)
-_Context: Independent State of Croatia, Stjepan Mesić_
+_Context: Independent State of Croatia, Stjepan Mesic_
 
 ### [ According to results released by the Interior Ministry of Madagascar, a total of 61.45% of the country's registered 7.3 million voters went to the polling stations on December 3 and re-elected Marc Ravalomanana as President with 54.8% of the votes, Jean Lahiniriko and Roland Ratsiraka received 11.68% and 10.1%, respectively. ](/news/2006/12/10/according-to-results-released-by-the-interior-ministry-of-madagascar-a-total-of-61-45-of-the-country-s-registered-7-3-million-voters-went.md)
 _Context: Jean Lahiniriko, Madagascar, Marc Ravalomanana, President, Roland Ratsiraka, went to the polling stations on December 3_

@@ -7,7 +7,7 @@ _Context: Libyan Civil War, Muammar Gaddafi_
 _Context: Baiji, Iraq, refinery_
 
 ### [2011 Croatian protests:Tens of thousands of protesters meet in the Croatian capital Zagreb's Ban Jelacic Square to express their support for indicted Croatian War of Independence veterans and ask Prime Minister Jadranka Kosor's government to resign. ](/news/2011/02/26/2011-croatian-protests-ptens-of-thousands-of-protesters-meet-in-the-croatian-capital-zagreb-s-ban-jelaaia-square-to-express-their-support.md)
-_Context: 1991–95 war, Ban Jelačić Square, Croatia, Jadranka Kosor, Zagreb, government, prime minister_
+_Context: 1991-95 war, Ban Jelacic Square, Croatia, Jadranka Kosor, Zagreb, government, prime minister_
 
 ### [The death toll from the earthquake in New Zealand rises to 144 and there is great concern about 200 more people missing. ](/news/2011/02/26/the-death-toll-from-the-earthquake-in-new-zealand-rises-to-144-and-there-is-great-concern-about-200-more-people-missing.md)
 Violent aftershocks hampered desperate efforts to find survivors in quake-hit Christchurch on Saturday as the death toll climbed to 145 and New Zealand Prime Minister John Key called for a two-minute silence for the nation to grieve.

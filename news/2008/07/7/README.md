@@ -16,7 +16,7 @@ _Context: MV ''Princess of the Stars, Sulpicio Lines_
 _Context: Church of England, General Synod of the Church of England, female bishops_
 
 ### [ Unenriched uranium leaks into the Gaffire and Lauzon rivers from the Tricastin Nuclear Power Center in Bollne, France resulting in the plant being closed. ](/news/2008/07/7/unenriched-uranium-leaks-into-the-gaffiere-and-lauzon-rivers-from-the-tricastin-nuclear-power-center-in-bollene-france-resulting-in-the-pl.md)
-_Context: Bollène, France, Gaffière, Lauzon rivers, Tricastin Nuclear Power Center, uranium_
+_Context: Bollne, France, Gaffire, Lauzon rivers, Tricastin Nuclear Power Center, uranium_
 
 ## [Previous Day...](/news/2008/07/6/index.md)
 

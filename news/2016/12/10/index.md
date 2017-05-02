@@ -10,7 +10,7 @@ A suicide bomber killed at least 50 Yemeni soldiers at a base in the city of Ade
 Twin blasts targeting police near a stadium in Istanbul kill 38 people and injure many.
 
 ### [ Turkish fighter jets kill 19 suspected Kurdish militants in strikes on the Gara region in northern Iraq. ](/news/2016/12/10/turkish-fighter-jets-kill-19-suspected-kurdish-militants-in-strikes-on-the-gara-region-in-northern-iraq.md)
-_Context: Iraq, Kurdish, Kurdish–Turkish conflict (2015–present)_
+_Context: Iraq, Kurdish, Kurdish-Turkish conflict (2015-present)_
 
 ### [Colombian president Juan Manuel Santos receives his award in Oslo, Norway. ](/news/2016/12/10/colombian-president-juan-manuel-santos-receives-his-award-in-oslo-norway.md)
 President to be awarded the prize for his efforts to bring the country’s more than 50-year-long civil war to an end.
@@ -34,7 +34,7 @@ Yahya Jammeh had conceded result to Adama Barrow but now claims ‘fresh and tra
 _Context: Heroes' Cemetery, Human Rights Day, Philippine Drug War, Philippines, Rodrigo Duterte, burial of Ferdinand Marcos_
 
 ### [John N. Kennedy of the Republican Party defeats Foster Campbell of the Democratic Party to become the junior Senator for Louisiana. ](/news/2016/12/10/john-n-kennedy-of-the-republican-party-defeats-foster-campbell-of-the-democratic-party-to-become-the-junior-senator-for-louisiana.md)
-_Context: Democrat, Foster Campbell, John N. Kennedy, Louisiana, Republican, United States Senate election in Louisiana, 2016_
+_Context: Democratic, Foster Campbell, John N. Kennedy, Louisiana, Republican, United States Senate election in Louisiana, 2016_
 
 ### [In association football, Toronto FC play Seattle Sounders FC in the MLS Cup final held at Toronto's BMO Field. The Sounders win 5-4 in a penalty shootout after the game ended scoreless after extra time. It is the Sounders' first MLS title. ](/news/2016/12/10/in-association-football-toronto-fc-play-seattle-sounders-fc-in-the-mls-cup-final-held-at-toronto-s-bmo-field-the-sounders-win-5a4-in-a-p.md)
 Toronto FC will finally get their shot at becoming MLS champions on Saturday night as they take on the Seattle Sounders in a winner-takes-all game.

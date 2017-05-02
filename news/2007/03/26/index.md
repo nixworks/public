@@ -1,13 +1,13 @@
 ## [2007-03-26](/news/2007/03/26/index.md)
 
 ### [ President of Chile Michelle Bachelet sacks several ministers including the Minister for National Defence Vivianne Blanlot Soza and the Minister for Justice Isidro Solis Palma for perceived poor performance as well as her Chief of Staff. The Minister for Transport Sergio Espejo Yaksic is sacked for problems with Santiago's new transport system Transantiago. ](/news/2007/03/26/president-of-chile-michelle-bachelet-sacks-several-ministers-including-the-minister-for-national-defence-vivianne-blanlot-soza-and-the-mini.md)
-_Context: Isidro Solís Palma, Michelle Bachelet, President, Santiago's, Sergio Espejo Yaksic, Transantiago, Vivianne Blanlot Soza_
+_Context: Isidro Solis Palma, Michelle Bachelet, President, Santiago's, Sergio Espejo Yaksic, Transantiago, Vivianne Blanlot Soza_
 
 ### [ A Guatemalan prison riot results in the death of three prisoners. Carlos Vielman, the Interior Minister, resigns over police involvement in the killing of three politicians from El Salvador last month. ](/news/2007/03/26/a-guatemalan-prison-riot-results-in-the-death-of-three-prisoners-carlos-vielman-the-interior-minister-resigns-over-police-involvement-in.md)
 _Context: Carlos Vielman, El Salvador, Guatemala_
 
 ### [ Quebec general election: The governing Quebec Liberal Party wins a minority government, with the conservative Action democratique du Quebec a strong second and the separatist Parti Quebecois third. ](/news/2007/03/26/quebec-general-election-the-governing-quebec-liberal-party-wins-a-minority-government-with-the-conservative-action-da-c-mocratique-du-qua-c-b.md)
-_Context: Action démocratique du Québec, Liberal Party, Parti Québécois, Quebec general election, Quebec sovereignty movement, conservative, minority government_
+_Context: Action democratique du Quebec, Liberal Party, Parti Quebecois, Quebec general election, Quebec sovereignty movement, conservative, minority government_
 
 ### [ Nine United States Army officers including four generals could face disciplinary proceedings as a result of mistakes made in the aftermath of the friendly-fire death of Pat Tillman. ](/news/2007/03/26/nine-united-states-army-officers-including-four-generals-could-face-disciplinary-proceedings-as-a-result-of-mistakes-made-in-the-aftermath.md)
 _Context: General, Pat Tillman, United States Army, friendly-fire_
@@ -40,13 +40,13 @@ _Context: Chinese President, Hu Jintao, Russia, energy, trade_
 A dispute over the proper role of military defense lawyers is intensifying as military commissions reopen at Guantánamo Bay, Cuba.
 
 ### [ A 5.3 magnitude aftershock hits the Noto Peninsula of Honshu, 300 km northwest of Tokyo, a day after a 6.9 magnitude earthquake hits the same area. ](/news/2007/03/26/a-5-3-magnitude-aftershock-hits-the-noto-peninsula-of-honsha-300-km-northwest-of-tokyo-a-day-after-a-6-9-magnitude-earthquake-hits-the-s.md)
-_Context: Honshū Island, Noto Peninsula, Tokyo, aftershock, earthquake_
+_Context: Honshu Island, Noto Peninsula, Tokyo, aftershock, earthquake_
 
 ### [ Sri Lankan Civil War: The Sri Lanka Army claims that an airbase adjacent to Bandaranaike International Airport was subjected to air attack by the Tamil Tigers, making it the first air attack launched by the Tigers. ](/news/2007/03/26/sri-lankan-civil-war-the-sri-lanka-army-claims-that-an-airbase-adjacent-to-bandaranaike-international-airport-was-subjected-to-air-attack.md)
 _Context: Army, Bandaranaike International Airport, Sri Lankan Civil War, Tamil Tigers_
 
 ### [ Northern Ireland Peace Process: Members of the Democratic Unionist Party, led by Ian Paisley, and Sinn Fein, led by Gerry Adams, meet face-to face for the first time, and agree a timetable for implementing the St. Andrews Agreement. ](/news/2007/03/26/northern-ireland-peace-process-members-of-the-democratic-unionist-party-led-by-ian-paisley-and-sinn-fa-c-in-led-by-gerry-adams-meet-face.md)
-_Context: Democratic Unionist Party, Gerry Adams, Ian Paisley, Northern Ireland peace process, Sinn Féin, St. Andrews Agreement_
+_Context: Democratic Unionist Party, Gerry Adams, Ian Paisley, Northern Ireland peace process, Sinn Fein, St. Andrews Agreement_
 
 ### [ The Supreme Council of Kyrgyzstan votes against allowing polygamy, maintaining the two-year imprisonment punishment for offenders. ](/news/2007/03/26/the-supreme-council-of-kyrgyzstan-votes-against-allowing-polygamy-maintaining-the-two-year-imprisonment-punishment-for-offenders.md)
 _Context: Supreme Council, polygamy_

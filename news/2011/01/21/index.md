@@ -37,7 +37,7 @@ U.S. authorities closed four banks -- one in Denver and three in the U.S. Southe
 _Context: Cambodia, Thailand_
 
 ### [Israeli-Palestinian conflict:United Nations Secretary General Ban Ki-moon criticises Israel's refusal to cease illegal settlement building on Palestinian land, telling a UN General Assembly gathering that he is "very concerned at the lack of progress towards peace" and that the recent demolition of East Jerusalem's historic Shepherd Hotel and evictions of Palestinian families had "heightened tensions." He later meets survivors of the Auschwitz-Birkenau concentration camp. ](/news/2011/01/21/israeliapalestinian-conflict-punited-nations-secretary-general-ban-ki-moon-criticises-israel-s-refusal-to-cease-illegal-settlement-buildin.md)
-_Context: Auschwitz-Birkenau concentration camp, Ban Ki-moon, East Jerusalem, Israel, Israeli–Palestinian conflict, Shepherd Hotel, United Nations_
+_Context: Auschwitz-Birkenau concentration camp, Ban Ki-moon, East Jerusalem, Israel, Israeli-Palestinian conflict, Shepherd Hotel, United Nations_
 
 ### [Six world powers and Iran meet in Istanbul to talk about Iran's nuclear programme; Iran denies allegations it is developing nuclear weapons. ](/news/2011/01/21/six-world-powers-and-iran-meet-in-istanbul-to-talk-about-iran-s-nuclear-programme-iran-denies-allegations-it-is-developing-nuclear-weapons.md)
 _Context: Iran, Istanbul, nuclear scientist_

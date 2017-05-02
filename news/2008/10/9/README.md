@@ -10,7 +10,7 @@ _Context: Kosovo, Macedonia, Montenegro, United Nations, officially recognizes_
 Despite pledges by President George W. Bush and American intelligence officials to the contrary, hundreds of US citizens overseas have been eavesdropped on as part of the U.S. terrorist surveillance program, according to two former military intercept operators who say they listened to private phone...
 
 ### [ Nobel Prize: French writer Jean-Marie Gustave Le Clezio is announced the winner of the 2008 Nobel Prize in Literature.](/news/2008/10/9/nobel-prize-p-french-writer-jean-marie-gustave-le-cla-c-zio-is-announced-the-winner-of-the-2008-nobel-prize-in-literature.md)
-_Context: France, Jean-Marie Gustave Le Clézio, Nobel Prize, Nobel Prize in Literature_
+_Context: France, Jean-Marie Gustave Le Clezio, Nobel Prize, Nobel Prize in Literature_
 
 ### [ 2008 Pacific hurricane season : Tropical Storm Odile forms south of Mexico while Hurricane Norbert weakens to tropical storm strength northwest of Odile. ](/news/2008/10/9/2008-pacific-hurricane-season-tropical-storm-odile-forms-south-of-mexico-while-hurricane-norbert-weakens-to-tropical-storm-strength-north.md)
 _Context: 2008 Pacific hurricane season, Hurricane Norbert, Mexico, Tropical Storm Odile, tropical storm_

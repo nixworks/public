@@ -19,7 +19,7 @@ _Context: Cambodia, Cambodian People's Party, Hun Sen, July elections, Prime Min
 Voters across Mali cast their ballots in a presidential election aimed at reuniting the country after months of political turmoil.
 
 ### [The Togolese electoral commission releases official results for the recent parliamentary election with President Faure Gnassingbe's Union for the Republic party winning 62 of 91 seats with the Opposition threatening to challenge the results. ](/news/2013/07/28/the-togolese-electoral-commission-releases-official-results-for-the-recent-parliamentary-election-with-president-faure-gnassingbe-s-union-fo.md)
-_Context: Faure Gnassingbé, President of Togo, Togo, recent parliamentary election_
+_Context: Faure Gnassingb, President of Togo, Togo, recent parliamentary election_
 
 ## [Previous Day...](/news/2013/07/27/index.md)
 

@@ -49,7 +49,7 @@ _Context: Hamid Ansari, India's Vice president_
 _Context: AIDS, Nozizwe Madlala-Routledge, President of South Africa, Spain, Thabo Mbeki, hospital_
 
 ### [ The President of Venezuela Hugo Chvez meets with the President of Bolivia Evo Morales and the President of Argentina Nstor Kirchner in Tarija, Bolivia. ](/news/2007/08/10/the-president-of-venezuela-hugo-chavez-meets-with-the-president-of-bolivia-evo-morales-and-the-president-of-argentina-nestor-kirchner-in-ta.md)
-_Context: Evo Morales, Hugo Chávez, Néstor Kirchner, President, President of Argentina, President of Bolivia, Tarija, Bolivia_
+_Context: Evo Morales, Hugo Chvez, Nstor Kirchner, President, President of Argentina, President of Bolivia, Tarija, Bolivia_
 
 ### [ A bus carrying Serbian tourists to the Croatian Adriatic coast crashes resulting in two deaths and 40 injuries. ](/news/2007/08/10/a-bus-carrying-serbian-tourists-to-the-croatian-adriatic-coast-crashes-resulting-in-two-deaths-and-40-injuries.md)
 _Context: Adriatic coast, Croatia, Serbia, tourist_

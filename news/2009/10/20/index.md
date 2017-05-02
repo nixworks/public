@@ -13,7 +13,7 @@ Ten Houthis given death penalty and five others jailed over deadly clashes.
 _Context: Danish, Hanoi, North Korea, South Korea, Vietnam_
 
 ### [ Richard Herman resigns as the Chancellor of the University of Illinois at Urbana-Champaign as a result of an admissions scandal. ](/news/2009/10/20/richard-herman-resigns-as-the-chancellor-of-the-university-of-illinois-at-urbanaachampaign-as-a-result-of-an-admissions-scandal.md)
-_Context: Richard Herman, University of Illinois at Urbana–Champaign, admissions scandal_
+_Context: Richard Herman, University of Illinois at Urbana-Champaign, admissions scandal_
 
 ### [ Sun Microsystems announces plans to lay off up to 3,000 workers as it prepares for a merger with Oracle Corp. ](/news/2009/10/20/sun-microsystems-announces-plans-to-lay-off-up-to-3-000-workers-as-it-prepares-for-a-merger-with-oracle-corp.md)
 _Context: Oracle Corp, Sun Microsystems, lay off_

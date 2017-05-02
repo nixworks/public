@@ -37,7 +37,7 @@ _Context: David Cameron, Gaza Strip, Hamas, Israel, Prime Minster, Ron Prosor, T
 The Congress on Tuesday gave President Barack Obama long-delayed funding for his troop increase in Afghanistan despite opposition from many fellow Democrats, while Obama played down the gravity of leaked war documents.
 
 ### [The wreck of the 19th century Royal Navy ship HMS Investigator is found in Mercy Bay in northern Canada. ](/news/2010/07/27/the-wreck-of-the-19th-century-royal-navy-ship-hms-investigator-is-found-in-mercy-bay-in-northern-canada.md)
-_Context: 19th century, Canadian, HMS Investigator, Mercy Bay, Royal Navy_
+_Context: 19th century, Canada, HMS Investigator, Mercy Bay, Royal Navy_
 
 ### [The Argentine Football Association decides not to renew Diego Maradona's contract as coach of the Argentina national football team. ](/news/2010/07/27/the-argentine-football-association-decides-not-to-renew-diego-maradona-s-contract-as-coach-of-the-argentina-national-football-team.md)
 The Argentine Football Association on Tuesday elected not to renew Diego Maradona&#039;s contract as national team coach, a spokesman said.

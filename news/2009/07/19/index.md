@@ -1,7 +1,7 @@
 ## [2009-07-19](/news/2009/07/19/index.md)
 
 ### [ Ten policemen are arrested in Michoacn, Mexico, in connection with the murder of 12 federal police whose bodies were found piled next to a road. ](/news/2009/07/19/ten-policemen-are-arrested-in-michoacan-mexico-in-connection-with-the-murder-of-12-federal-police-whose-bodies-were-found-piled-next-to-a.md)
-_Context: Mexico, Michoacán_
+_Context: Mexico, Michoacn_
 
 ### [ 26 people are killed through electrocution, drowning and collapsing roofs in Karachi, Pakistan. ](/news/2009/07/19/26-people-are-killed-through-electrocution-drowning-and-collapsing-roofs-in-karachi-pakistan.md)
 Torrential monsoon rain in the Pakistani city of Karachi has killed 26 people and cut power to most of the city.

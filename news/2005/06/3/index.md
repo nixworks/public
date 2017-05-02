@@ -16,7 +16,7 @@ Lebanon&#39;s opposition blamed &quot;Syria and its allies&quot; for the killing
 _Context: Bolivia, Carlos Mesa, October 16, autonomy, constitution, constitutional assembly, referendum_
 
 ### [ Guantnamo Bay Qur'an desecration allegations: The commander of U.S. Forces at Guantnamo Bay, Cuba reported five known incidents of mishandling the Qur'an by guards at the detention facility, including one incident in which a Qur'an was accidentally splashed with urine. ](/news/2005/06/3/guantanamo-bay-qur-an-desecration-allegations-p-the-commander-of-u-s-forces-at-guantanamo-bay-cuba-reported-five-known-incidents-of-misha.md)
-_Context: Guantánamo Bay Qur'an desecration allegations, Qur'an_
+_Context: Guantnamo Bay Qur'an desecration allegations, Qur'an_
 
 ### [ Judge Karon O. Bowdre, presiding over the federal trial of Richard M. Scrushy in Birmingham, Alabama, delivers what is called the ''Allen charge'' to the jury in that case, in the hope of breaking its deadlock and producing a verdict. ](/news/2005/06/3/judge-karon-o-bowdre-presiding-over-the-federal-trial-of-richard-m-scrushy-in-birmingham-alabama-delivers-what-is-called-the-allen-c.md)
 _Context: Birmingham, Karon O. Bowdre, Richard M. Scrushy_

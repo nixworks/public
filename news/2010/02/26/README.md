@@ -13,7 +13,7 @@ _Context: Vancouver, Wang Meng_
 A newborn baby died after two doctors fought with each other while the mother was in labour in a Brazilian hospital.
 
 ### [The Organization of American States (OAS) Inter-American Commission on Human Rights (IACHR) issued a 300-page report on democracy and human rights in Venezuela under Hugo Chvez. ](/news/2010/02/26/the-organization-of-american-states-oas-inter-american-commission-on-human-rights-iachr-issued-a-300-page-report-on-democracy-and-human.md)
-_Context: Inter-American Commission on Human Rights, Organization of American States, democracy and human rights in Venezuela under Hugo Chávez_
+_Context: Inter-American Commission on Human Rights, Organization of American States, democracy and human rights in Venezuela under Hugo Chvez_
 
 ### [Turkish police launch a second wave of arrests of military officers tied to the alleged "Sledgehammer" coup plot. ](/news/2010/02/26/turkish-police-launch-a-second-wave-of-arrests-of-military-officers-tied-to-the-alleged-sledgehammer-coup-plot.md)
 _Context: Turkish police_
@@ -52,7 +52,7 @@ _Context: Danish, Muhammad, Politiken_
 _Context: Minnesota, Soudan Mine, cold dark matter, electronvolts, weakly interacting massive particles_
 
 ### [New York Democratic Governor David Paterson announces he will not run in the New York gubernatorial election of 2010.](/news/2010/02/26/new-york-democratic-governor-david-paterson-announces-he-will-not-run-in-the-new-york-gubernatorial-election-of-2010.md)
-_Context: David Paterson, Democrat, Governor, New York, New York gubernatorial election of 2010_
+_Context: David Paterson, Democratic, Governor, New York, New York gubernatorial election of 2010_
 
 ### [President Muammar Gaddafi of Libya declares a holy war on Switzerland. ](/news/2010/02/26/president-muammar-gaddafi-of-libya-declares-a-holy-war-on-switzerland.md)
 _Context: Libya, Muammar Gaddafi, President of Libya, Swiss, holy war_

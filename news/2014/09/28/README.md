@@ -22,7 +22,7 @@ Tens of thousands join mass civil disobedience over voting rights as authorities
 _Context: ''Formosa Betrayed'', Ma Ying-jeou, Presidential Office, Taiwan_
 
 ### [Antnio Costa, mayor of Lisbon, wins a landslide in the Portuguese Socialist Party prime ministerial primary against the incumbent Antnio Jos Seguro.](/news/2014/09/28/antonio-costa-mayor-of-lisbon-wins-a-landslide-in-the-portuguese-socialist-party-prime-ministerial-primary-against-the-incumbent-antonio-j.md)
-_Context: António Costa, António José Seguro, Lisbon, Portuguese Socialist Party prime ministerial primary_
+_Context: Antnio Costa, Antnio Jos Seguro, Lisbon, Portuguese Socialist Party prime ministerial primary_
 
 ## [Previous Day...](/news/2014/09/27/index.md)
 

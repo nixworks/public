@@ -7,7 +7,7 @@ Al-Qaeda confirms that a key commander - Nasser al-Wuhayshi, who headed Al-Qaeda
 _Context: ISIL, Kurdish, Syrian Civil War, Tell Abyad, YPG_
 
 ### [Three of the ten Tunisian consular staff kidnapped last week have been released and negotiation is ongoing about the others. ](/news/2015/06/16/three-of-the-ten-tunisian-consular-staff-kidnapped-last-week-have-been-released-and-negotiation-is-ongoing-about-the-others.md)
-_Context: Libyan Crisis (2011–present), Tunisia, kidnapped_
+_Context: Libyan Crisis (2011-present), Tunisia, kidnapped_
 
 ### [The British Broadcasting Corporation announces that Chris Evans will be the new presenter of the popular ''Top Gear'' television series. ](/news/2015/06/16/the-british-broadcasting-corporation-announces-that-chris-evans-will-be-the-new-presenter-of-the-popular-top-gear-television-series.md)
 _Context: BBC, Chris Evans, Top Gear_

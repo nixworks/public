@@ -10,7 +10,7 @@ _Context: 2014 pro-Russian unrest in Ukraine_
 _Context: Hyderabad, Religious violence in India_
 
 ### [Soma mine disaster:Turkey's Energy Minister Taner Yildiz raises the death toll from the disaster to at least 274, with 120 people still trapped in the mine and 80 miners injured, four seriously. ](/news/2014/05/14/soma-mine-disaster-pturkey-s-energy-minister-taner-ya-lda-z-raises-the-death-toll-from-the-disaster-to-at-least-274-with-120-people-still-t.md)
-_Context: Soma mine disaster, Taner Yıldız, Turkey_
+_Context: Soma mine disaster, Taner Yildiz, Turkey_
 
 ### [2014 California wildfires:A number of wildfires destroy properties in Los Angeles and San Diego. ](/news/2014/05/14/2014-california-wildfires-pa-number-of-wildfires-destroy-properties-in-los-angeles-and-san-diego.md)
 The Poinsettia Fire has burned approximately 400 acres and several homes in Carlsbad, north of San Diego.

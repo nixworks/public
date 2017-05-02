@@ -4,7 +4,7 @@
 _Context: Bama, Boko Haram, Islamist insurgency in Nigeria_
 
 ### [War in Somalia (2009-present):At least six people are reported killed after a U.S. drone strikes a convoy of vehicles believed to be carrying senior members of the militant group Al-Shabaab. ](/news/2014/09/2/war-in-somalia-2009apresent-pat-least-six-people-are-reported-killed-after-a-u-s-drone-strikes-a-convoy-of-vehicles-believed-to-be-carr.md)
-_Context: War in Somalia (2009–present), al-Shabaab_
+_Context: War in Somalia (2009-present), al-Shabaab_
 
 ### [Sinai insurgency:Eleven Egyptian Army soldiers are killed in a roadside bomb attack in the Sinai Peninsula. ](/news/2014/09/2/sinai-insurgency-peleven-egyptian-army-soldiers-are-killed-in-a-roadside-bomb-attack-in-the-sinai-peninsula.md)
 Officials say bomb attack killed 11 soldiers in region, where attacks on army have been regular since 2013 coup.
@@ -16,7 +16,7 @@ Government says 88 people, including Saudis and Yemenis, held on suspicion of pl
 _Context: ISIL, Steven Sotloff, Syrian Civil War_
 
 ### [The United States sends an additional 250 US troops to protect American personnel. ](/news/2014/09/2/the-united-states-sends-an-additional-250-us-troops-to-protect-american-personnel.md)
-_Context: Iraqi insurgency (2011–present), United States_
+_Context: Iraqi insurgency (2011-present), United States_
 
 ### [Former Kenyan presidential candidate Quincy Timberlake is charged with murder in the Australian city of Brisbane. ](/news/2014/09/2/former-kenyan-presidential-candidate-quincy-timberlake-is-charged-with-murder-in-the-australian-city-of-brisbane.md)
 Former presidential hopeful charged with murder of boy.

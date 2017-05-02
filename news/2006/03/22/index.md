@@ -4,7 +4,7 @@
 _Context: Delphi Corporation, New York, bankruptcy, chapter 11_
 
 ### [ University of Wisconsin-Madison scientists believe they may have discovered a reason why the deadly H5N1 bird flu virus cannot yet jump easily between humans. ](/news/2006/03/22/university-of-wisconsinamadison-scientists-believe-they-may-have-discovered-a-reason-why-the-deadly-h5n1-bird-flu-virus-cannot-yet-jump-e.md)
-_Context: Avian flu virus, University of Wisconsin–Madison, bird flu_
+_Context: Avian flu virus, University of Wisconsin-Madison, bird flu_
 
 ### [ The MV ''Queen of the North'', a 125 metre ferry operated by BC Ferries, strikes a rock in British Columbia's Inside Passage shortly after midnight, and sinks.  All passengers and crew are thought to have safely abandoned ship, but two passengers are later declared missing and presumed dead. ](/news/2006/03/22/the-mv-queen-of-the-north-a-125-metre-ferry-operated-by-bc-ferries-strikes-a-rock-in-british-columbia-s-inside-passage-shortly-after.md)
 _Context: BC Ferries, British Columbia, Inside Passage, MV ''Queen of the North'', ferry, shipwreck_

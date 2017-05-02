@@ -61,7 +61,7 @@ _Context: California, Robert F. Kennedy, Sirhan Sirhan, parole_
 _Context: BBC News, Ivory Coast, Laurent Gbagbo, RFI_
 
 ### [German Chancellor Angela Merkel names Thomas de Maizire as new defence minister and Hans-Peter Friedrich as the new interior minister, following resignations earlier this week. ](/news/2011/03/2/german-chancellor-angela-merkel-names-thomas-de-maiziere-as-new-defence-minister-and-hans-peter-friedrich-as-the-new-interior-minister-foll.md)
-_Context: Angela Merkel, Germany, Hans-Peter Friedrich, Thomas de Maizière_
+_Context: Angela Merkel, Germany, Hans-Peter Friedrich, Thomas de Maizire_
 
 ### [The United Kingdom announces plans to axe 11,000 jobs in the British Armed Forces. ](/news/2011/03/2/the-united-kingdom-announces-plans-to-axe-11-000-jobs-in-the-british-armed-forces.md)
 _Context: British military personnel, United Kingdom_
@@ -82,7 +82,7 @@ _Context: Barack Obama, United States government, president_
 After a long and emotional debate, the South Dakota Senate on Wednesday approved a bill requiring additional steps to provide informed consent before a woman can have an abortion.
 
 ### [Hawaii Democratic Party Senator Daniel Akaka announces that he will not be standing for reelection in the United States Senate election in Hawaii. ](/news/2011/03/2/hawaii-democratic-party-senator-daniel-akaka-announces-that-he-will-not-be-standing-for-reelection-in-the-united-states-senate-election-in-h.md)
-_Context: Daniel Akaka, Democrat, Hawaii, Senator, United States Senate election in Hawaii_
+_Context: Daniel Akaka, Democratic, Hawaii, Senator, United States Senate election in Hawaii_
 
 ### [Elections in the Netherlands: Dutch provincial elections of 2011. The People's Party for Freedom and Democracy (VVD) obtain the highest number of votes cast, The Labour Party (PvdA) obtain the second highest number of votes. ](/news/2011/03/2/elections-in-the-netherlands-dutch-provincial-elections-of-2011-the-people-s-party-for-freedom-and-democracy-vvd-obtain-the-highest-numb.md)
 _Context: Dutch provincial elections of 2011, Elections in the Netherlands, Labour Party, People's Party for Freedom and Democracy_

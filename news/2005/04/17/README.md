@@ -31,7 +31,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Jrg Haider launches his new party, Alliance for Austria's Future. ](/news/2005/04/17/jorg-haider-launches-his-new-party-alliance-for-austria-s-future.md)
-_Context: Alliance for Austria's Future, Jörg Haider_
+_Context: Alliance for Austria's Future, Jrg Haider_
 
 ### [ Negotiations in Helsinki between the government of Indonesia and Free Aceh Movement end "constructively", according to mediator Martti Ahtisaari. Talks are scheduled to continue in May. ](/news/2005/04/17/negotiations-in-helsinki-between-the-government-of-indonesia-and-free-aceh-movement-end-constructively-according-to-mediator-martti-ahti.md)
 _Context: GAM, Helsinki, Indonesia, Martti Ahtisaari_

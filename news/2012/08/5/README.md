@@ -4,13 +4,13 @@
 _Context: General Muhammed Ahmed Faris, Syrian Civil War, defects_
 
 ### [Mexican Drug War:Armed men kidnap the mayor of Tecpan de Galeana, Guerrero. ](/news/2012/08/5/mexican-drug-war-parmed-men-kidnap-the-mayor-of-tecpa-n-de-galeana-guerrero.md)
-_Context: Guerrero, List of politicians killed in the Mexican Drug War, Mexican Drug War, Tecpán de Galeana_
+_Context: Guerrero, List of politicians killed in the Mexican Drug War, Mexican Drug War, Tecpan de Galeana_
 
 ### [A gunman opens fire at a Sikh temple in Oak Creek, Wisconsin, killing six people; the perpetrator later dies of a self-inflicted gunshot wound to the head. ](/news/2012/08/5/a-gunman-opens-fire-at-a-sikh-temple-in-oak-creek-wisconsin-killing-six-people-the-perpetrator-later-dies-of-a-self-inflicted-gunshot-wou.md)
 At least seven people, including a gunman, have died in a shooting at a Sikh temple in Wisconsin, police say.
 
 ### [Clashes between Turkish government troops and Kurdish rebels at a Turkish border post in the southeastern province of Hakkari kill at least 19 people, including 11 fighters from the Kurdistan Workers' Party. ](/news/2012/08/5/clashes-between-turkish-government-troops-and-kurdish-rebels-at-a-turkish-border-post-in-the-southeastern-province-of-hakkac-ri-kill-at-least.md)
-_Context: Hakkâri Province, Kurdish, Kurdistan Workers' Party, Turkey_
+_Context: Hakkari Province, Kurdish, Kurdistan Workers' Party, Turkey_
 
 ### [A suicide bombing in the northeastern Nigerian city of Damaturu kills at least five soldiers. ](/news/2012/08/5/a-suicide-bombing-in-the-northeastern-nigerian-city-of-damaturu-kills-at-least-five-soldiers.md)
 A suicide bomber in the north-eastern Nigerian city of Damaturu has killed at least six soldiers and two civilians, police say.

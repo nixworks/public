@@ -4,7 +4,7 @@
 _Context: Serbia, Serbian Radical Party, Serbian parliamentary election, 2003, election_
 
 ### [Guatemala election, 2003. scar Berger wins the second round of the presidential election with a 54% share of the vote.](/news/2003/12/28/guatemala-election-2003-oscar-berger-wins-the-second-round-of-the-presidential-election-with-a-54-share-of-the-vote.md)
-_Context: Guatemala election, 2003, Óscar Berger_
+_Context: Guatemala election, 2003, scar Berger_
 
 ### [Shane Filan marries Gillian Walsh in Ballintubber Abbey, Ireland.](/news/2003/12/28/shane-filan-marries-gillian-walsh-in-ballintubber-abbey-ireland.md)
 _Context: Shane Filan_

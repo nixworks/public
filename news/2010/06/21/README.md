@@ -22,7 +22,7 @@ Supply may be reduced by as much as 85 per cent in row over $192m unpaid debt.
 _Context: Colombian presidential election, Juan Manuel Santos_
 
 ### [Bronislaw Komorowski and Jaroslaw Kaczynski face each other on 4 July after Sunday's inconclusive vote in Polish presidential election, 2010. ](/news/2010/06/21/bronisaaw-komorowski-and-jarosaaw-kaczyaski-face-each-other-on-4-july-after-sunday-s-inconclusive-vote-in-polish-presidential-election-2.md)
-_Context: Bronisław Komorowski, Jarosław Kaczyński, Polish presidential election, 2010_
+_Context: Bronislaw Komorowski, Jaroslaw Kaczynski, Polish presidential election, 2010_
 
 ### [An American man pleads guilty to charges of attempted use of a weapon of mass destruction in the 2010 Times Square car bombing attempt. ](/news/2010/06/21/an-american-man-pleads-guilty-to-charges-of-attempted-use-of-a-weapon-of-mass-destruction-in-the-2010-times-square-car-bombing-attempt.md)
 _Context: Times Square bomber, weapon of mass destruction_

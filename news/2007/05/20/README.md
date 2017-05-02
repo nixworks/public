@@ -16,7 +16,7 @@ _Context: Air Canada Jazz, Toronto Pearson International Airport_
 _Context: Bulgaria, GERB, elects Members of the European Parliament_
 
 ### [ Tens of thousands of Venezuelans march in protest in support of  Radio Caracas Televisin and in opposition to President Hugo Chvez, who has vowed not to renew its licence. ](/news/2007/05/20/tens-of-thousands-of-venezuelans-march-in-protest-in-support-of-radio-caracas-television-and-in-opposition-to-president-hugo-chavez-who-h.md)
-_Context: Hugo Chávez, President, Radio Caracas Television, Venezuela_
+_Context: Hugo Chvez, President, Radio Caracas Television, Venezuela_
 
 ### [ Thousands gather in Samsun, Turkey to protest against the government. ](/news/2007/05/20/thousands-gather-in-samsun-turkey-to-protest-against-the-government.md)
 _Context: Samsun, Thousands gather, Turkey_
@@ -28,7 +28,7 @@ _Context: Battle of Nahr al-Bared, Fatah al-Islam, Lebanon, Nahr al-Bared, Tripo
 _Context: David Hicks, Guantanamo Bay, South Australia, Yatala Labour Prison_
 
 ### [ Romrio scores his 1000th goal for Vasco da Gama by penalty kick against Sport Recife. He is only the second player in the history of professional soccer to achieve this, the first being Pel in 1969. ](/news/2007/05/20/romario-scores-his-1000th-goal-for-vasco-da-gama-by-penalty-kick-against-sport-recife-he-is-only-the-second-player-in-the-history-of-profe.md)
-_Context: 1969, Pelé, Romário, Sport Recife, Vasco da Gama, football, goal, penalty kick_
+_Context: 1969, Pel, Romrio, Sport Recife, Vasco da Gama, football, goal, penalty kick_
 
 ## [Previous Day...](/news/2007/05/19/index.md)
 

@@ -7,7 +7,7 @@ _Context: Yemen, oil tanker, terrorism_
 _Context: Hamas, Israel, Israeli-Palestinian conflict, Palestinian National Authority, Tel Aviv_
 
 ### [ Hungarian Holocaust survivor Imre Kertsz wins the Nobel Prize for Literature.  The Nobel Committee singled out his 1975 novel ''Fateless'', a semiautobiographical account of a boy sent to Auschwitz who survives by detaching himself from the everyday gritty reality.](/news/2002/10/10/hungarian-holocaust-survivor-imre-kertesz-wins-the-nobel-prize-for-literature-the-nobel-committee-singled-out-his-1975-novel-fateless.md)
-_Context: Auschwitz, Fateless, Holocaust, Hungary, Imre Kertész, Nobel Prize for Literature_
+_Context: Auschwitz, Fateless, Holocaust, Hungary, Imre Kertsz, Nobel Prize for Literature_
 
 ### [ In the journal ''Nature'', anthropologist Milford Wolpoff and colleagues at the University of Michigan argued that the fossil skull discovered in Chad in July is not that of an early human, but of an ape. ](/news/2002/10/10/in-the-journal-nature-anthropologist-milford-wolpoff-and-colleagues-at-the-university-of-michigan-argued-that-the-fossil-skull-discove.md)
 _Context: Chad, Nature, University of Michigan, anthropologist, fossil skull_

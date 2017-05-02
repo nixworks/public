@@ -22,7 +22,7 @@ _Context: California, Raymond Chandler, San Diego, state_
 _Context: China's, smoking_
 
 ### [Mtley Cre singer Vince Neil begins a 15-day jail sentence for drunk driving in Las Vegas. ](/news/2011/02/15/motley-crue-singer-vince-neil-begins-a-15-day-jail-sentence-for-drunk-driving-in-las-vegas.md)
-_Context: Las Vegas, Mötley Crüe, Vince Neil, driving under the influence_
+_Context: Las Vegas, Mtley Cre, Vince Neil, driving under the influence_
 
 ### [The Government of Malaysia cancels a concert by expatriate Iranian singer Mohsen Namjoo "because it is not appropriate in terms of religion, culture and the country's cosmopolitan nature". ](/news/2011/02/15/the-government-of-malaysia-cancels-a-concert-by-expatriate-iranian-singer-mohsen-namjoo-because-it-is-not-appropriate-in-terms-of-religion.md)
 _Context: Government of Malaysia, Iran, Mohsen Namjoo_

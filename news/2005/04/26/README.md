@@ -4,13 +4,13 @@
 _Context: Israel, Israeli-Palestinian conflict, Taxicab, West Bank_
 
 ### [ Alassane Ouattara is allowed to run for Presidential election in Cte d'Ivoire. ](/news/2005/04/26/alassane-ouattara-is-allowed-to-run-for-presidential-election-in-cote-d-ivoire.md)
-_Context: Alassane Ouattara, Côte d'Ivoire_
+_Context: Alassane Ouattara, Cte d'Ivoire_
 
 ### [ 2005 Kuomintang visits to Mainland: a 70-member delegation led by Kuomintang chairman Lien Chan left Taipei for Nanjing via Hong Kong, launching Lien Chan's 8-day Taiwan Strait peace tour, also the first official visit by the highest leader of Kuomintang to Mainland China in 60 years. ](/news/2005/04/26/2005-kuomintang-visits-to-mainland-a-70-member-delegation-led-by-kuomintang-chairman-lien-chan-left-taipei-for-nanjing-via-hong-kong-laun.md)
 _Context: 2005 Kuomintang visits to Mainland, Hong Kong, Kuomintang (Chinese Nationalist Party), Lien Chan, Nanjing, Taipei, Taiwan Strait peace tour, mainland China_
 
 ### [ Faure Gnassingb wins the Togolese presidential election with more than 60% of the votes. Results cause riots in Lom when the opposition doesn't acknowledge the election, denouncing massive fraud.  ](/news/2005/04/26/faure-gnassingbe-wins-the-togolese-presidential-election-with-more-than-60-of-the-votes-results-cause-riots-in-lome-when-the-opposition-d.md)
-_Context: Faure Gnassingbé, Lomé, Togolese presidential election_
+_Context: Faure Gnassingb, Lom, Togolese presidential election_
 
 ### [ The Civil Unions and Relationships Acts take effect in New Zealand. These laws allow same-sex and de facto couples to form legal unions that are similar to marriage. ](/news/2005/04/26/the-civil-unions-and-relationships-acts-take-effect-in-new-zealand-these-laws-allow-same-sex-and-de-facto-couples-to-form-legal-unions-tha.md)
 The first couples have applied to have their relationships recognised by a civil union after a change in the law came into effect today. - New Zealand Herald
@@ -31,7 +31,7 @@ Today, as the last Syrian troops depart from the country they have occupied for 
 News and opinion from The Times &amp; The Sunday Times
 
 ### [ Following Canadian Prime Minister Paul Martin's plea on national television that a re-election ought to be delayed until the Gomery Commission has completed its report on the sponsorship scandal, a deal between the governing Liberal Party and the New Democratic Party may avoid the election in the near future as predicted earlier last week. ](/news/2005/04/26/following-canadian-prime-minister-paul-martin-s-plea-on-national-television-that-a-re-election-ought-to-be-delayed-until-the-gomery-commiss.md)
-_Context: Canadian, Canadian Prime Minister, Gomery Commission, Liberal Party's, New Democratic Party, Paul Martin, election, sponsorship scandal_
+_Context: Canada, Canadian Prime Minister, Gomery Commission, Liberal Party's, New Democratic Party, Paul Martin, election, sponsorship scandal_
 
 ## [Previous Day...](/news/2005/04/25/index.md)
 

@@ -58,7 +58,7 @@ _Context: Chilean police, Santiago, tear gas, water cannon_
 _Context: Canadian, Quebec, city of Montreal_
 
 ### [The President of Venezuela Hugo Chavez returns home after three weeks in Cuba for cancer surgery. ](/news/2012/03/15/the-president-of-venezuela-hugo-chavez-returns-home-after-three-weeks-in-cuba-for-cancer-surgery.md)
-_Context: Cuba, Hugo Chávez, President_
+_Context: Cuba, Hugo Chvez, President_
 
 ### [In association football, Esteghlal wins the Hazfi Cup, beating Shahin Bushehr in the final. ](/news/2012/03/15/in-association-football-esteghlal-wins-the-hazfi-cup-beating-shahin-bushehr-in-the-final.md)
 _Context: Esteghlal, Hazfi Cup, Shahin Bushehr, final_

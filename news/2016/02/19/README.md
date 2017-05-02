@@ -7,7 +7,7 @@ The US carries out air strikes on so-called Islamic State in Libya, targeting a 
 Two suicide bombers posing as food vendors killed at least 24 people and injured 112 others in a market in Meme, northern Cameroon, security sources said on Friday.
 
 ### [Three Palestinian assailants are shot dead in separate attacks on Israeli security forces in Jerusalem and the West Bank. ](/news/2016/02/19/three-palestinian-assailants-are-shot-dead-in-separate-attacks-on-israeli-security-forces-in-jerusalem-and-the-west-bank.md)
-_Context: Israel, Israeli–Palestinian conflict (2015–present), Jerusalem, Palestinian, West Bank_
+_Context: Israel, Israeli-Palestinian conflict (2015-present), Jerusalem, Palestinian, West Bank_
 
 ### [The Kurdish-led Syrian Democratic Forces (SDF) take control of Al-Shaddadah and a nearby oilfield in Syria's north-east Al-Hasakah Governorate following heavy clashes with ISIL militants. ](/news/2016/02/19/the-kurdish-led-syrian-democratic-forces-sdf-take-control-of-al-shaddadah-and-a-nearby-oilfield-in-syria-s-north-east-al-hasakah-governora.md)
 A Kurdish-led force backed by US-led air strikes has seized an Isis stronghold in northeastern Syria, a monitor has said. The Syrian Democratic Forces were in full control of the town of Al-Shadadi in Hasakeh province on Friday, the Britain-based Syrian Observatory for Human Rights monitor told AFP.

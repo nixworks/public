@@ -1,7 +1,7 @@
 ## [2016-06-17](/news/2016/06/17/index.md)
 
 ### [Iraqi Civil War (2014-present), The Iraqi government recaptures the main government compound in Fallujah. ](/news/2016/06/17/iraqi-civil-war-2014apresent-the-iraqi-government-recaptures-the-main-government-compound-in-fallujah.md)
-_Context: Fallujah, Iraq, Iraqi Civil War (2014–present), Military intervention against ISIL, Third Battle of Fallujah_
+_Context: Fallujah, Iraq, Iraqi Civil War (2014-present), Military intervention against ISIL, Third Battle of Fallujah_
 
 ### [Kurdish rebels and Iranian Revolutionary guards clash in Oshnavieh, killing 12 rebels and three guards. There is dispute over who the rebels were. Iranian authorities claim it was the Party of Free Life of Kurdistan movement while a member of the Democratic Party of Iranian Kurdistan claimed their group was responsible for the fighting. ](/news/2016/06/17/kurdish-rebels-and-iranian-revolutionary-guards-clash-in-oshnavieh-killing-12-rebels-and-three-guards-there-is-dispute-over-who-the-rebels.md)
 _Context: 2016 West Iran clashes, Democratic Party of Iranian Kurdistan, Iranian Revolutionary guards, Kurdish separatism in Iran, Oshnavieh, Party of Free Life of Kurdistan_

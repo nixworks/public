@@ -10,7 +10,7 @@ An airstrike has killed a top al-Qaeda commander and two other fighters in Syria
 Five people have been murdered after a gunman opened fire at a Shiite meeting hall in the city of Saihat in Saudi Arabia, before being shot by the police. Islamic State has officially taken responsibility for the sectarian attack.
 
 ### [Three Turkish troops, including a lieutenant colonel, are killed following clashes with PKK insurgents around Daglica vlliage, in the southeastern Hakkari Province. At least 17 PKK insurgents were also reportedly killed in the fighting. ](/news/2015/10/17/three-turkish-troops-including-a-lieutenant-colonel-are-killed-following-clashes-with-pkk-insurgents-around-daala-ca-vlliage-in-the-sout.md)
-_Context: 2015 PKK rebellion, Dağlıca, Hakkâri Province, PKK, Turkey_
+_Context: 2015 PKK rebellion, Daglica, Hakkari Province, PKK, Turkey_
 
 ### [A Saudi-led coalition airstrike targeting Houthis in the southern Taiz Governorate mistakenly hits a Hadi-loyalist position, killing at least 20 fighters. ](/news/2015/10/17/a-saudi-led-coalition-airstrike-targeting-houthis-in-the-southern-taiz-governorate-mistakenly-hits-a-hadi-loyalist-position-killing-at-leas.md)
 The Saudi-led air coalition targeting Shia Houthi rebels in Yemen mistakenly hits a pro-government position, killing at least 20 troops, reports say.
@@ -22,7 +22,7 @@ According to NBC News, fugitive drug lord Joaquin &#8220;El Chapo&#8221; Guzman 
 Four Palestinians were killed by Israelis, and one critically wounded, after attempting to stab either police officers or a member of the public on Saturday.
 
 ### [Stephen Glass, author, former journalist and attorney, will repay Harper's Magazine and other outlets because works he authored were found to have been fabricated. ](/news/2015/10/17/stephen-glass-author-former-journalist-and-attorney-will-repay-harperas-magazine-and-other-outlets-because-works-he-authored-were-found.md)
-_Context: Harper’s Magazine, Stephen Glass_
+_Context: Harper's Magazine, Stephen Glass_
 
 ### [Nayantara Sahgal, is one of the latest authors in India who will return that nation's highest award from the National Academy of Letters in protest against what Salman Rushdie has characterized as "thuggish violence" creeping into Indian life under the Hindu nationalist government of Prime Minister Narendra Modi. ](/news/2015/10/17/nayantara-sahgal-is-one-of-the-latest-authors-in-india-who-will-return-that-nationas-highest-award-from-the-national-academy-of-letters-i.md)
 _Context: Hindu, India, Narendra Modi, National Academy of Letters, Nayantara Sahgal, Salman Rushdie_

@@ -31,7 +31,7 @@ _Context: Japan, Japanese police, Kazutsugi Nami, U.S. dollar, investment scam_
 Frontpage | New Straits Times : Authoritative source for Malaysia latest news on politics, business, sports, world and entertainment
 
 ### [ Zimbabwe's House of Assembly allows power-sharing between the African National Union - Patriotic Front and the Movement for Democratic Change. ](/news/2009/02/5/zimbabwe-s-house-of-assembly-allows-power-sharing-between-the-african-national-union-a-patriotic-front-and-the-movement-for-democratic-ch.md)
-_Context: House of Assembly, Movement for Democratic Change, ZANU–PF, Zimbabwe, allows, power-sharing_
+_Context: House of Assembly, Movement for Democratic Change, ZANU-PF, Zimbabwe, allows, power-sharing_
 
 ### [ A suicide bomber kills 24 people and injures at least 40 in Dera Ghazi Khan, Pakistan. ](/news/2009/02/5/a-suicide-bomber-kills-24-people-and-injures-at-least-40-in-dera-ghazi-khan-pakistan.md)
 A suicide bomber blew himself up among worshippers streaming toward a Shiite Muslim mosque in central Pakistan on Thursday, killing 24 people and wounding dozens more. 

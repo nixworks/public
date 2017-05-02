@@ -16,7 +16,7 @@ _Context: 2008 Rugby League World Cup, Australia, Australia national rugby leagu
 _Context: Northern Hemisphere, RSV, asthma, autumn, virus_
 
 ### [ Zimbabwe refuses to grant visas for Kofi Annan, Jimmy Carter and Graa Machel, who were traveling to the country on a humanitarian mission. ](/news/2008/11/22/zimbabwe-refuses-to-grant-visas-for-kofi-annan-jimmy-carter-and-graca-machel-who-were-traveling-to-the-country-on-a-humanitarian-mission.md)
-_Context: Graça Machel, Jimmy Carter, Kofi Annan, Zimbabwe, visa-free travel_
+_Context: Graa Machel, Jimmy Carter, Kofi Annan, Zimbabwe, visa-free travel_
 
 ### [ The Asia-Pacific Economic Cooperation's annual summit opens in Lima, Peru, amid an ongoing economic crisis that is expected to lead discussions. ](/news/2008/11/22/the-asia-pacific-economic-cooperation-s-annual-summit-opens-in-lima-peru-amid-an-ongoing-economic-crisis-that-is-expected-to-lead-discuss.md)
 Leaders from Asia and the Americaspledged on Saturday to push global trade talks and to reformglobal lending institutions in an effort to keep the world fromsliding into a deep recession.

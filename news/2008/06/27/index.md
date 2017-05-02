@@ -1,10 +1,10 @@
 ## [2008-06-27](/news/2008/06/27/index.md)
 
 ### [ Serbian President Boris Tadic has named Mirko Cvetkovic for the new Prime Minister following the parliamentary election that were held in May. ](/news/2008/06/27/serbian-president-boris-tadia-has-named-mirko-cvetkovia-for-the-new-prime-minister-following-the-parliamentary-election-that-were-held-in.md)
-_Context: Boris Tadić, Mirko Cvetković, President, Prime Minster, Serbia, parliamentary election_
+_Context: Boris Tadic, Mirko Cvetkovic, President, Prime Minster, Serbia, parliamentary election_
 
 ### [ Vinicio Gomez, Guatemala's Interior Minister, dies in a helicopter crash in the central department of Baja Verapaz; deputy minister Edgar Hernandez and two pilots are also killed. ](/news/2008/06/27/vinicio-ga3mez-guatemala-s-interior-minister-dies-in-a-helicopter-crash-in-the-central-department-of-baja-verapaz-deputy-minister-adgar.md)
-_Context: Baja Verapaz, Guatemala, Vinicio Gómez_
+_Context: Baja Verapaz, Guatemala, Vinicio Gomez_
 
 ### [ Richard Scruggs, a high-profile United States lawyer known for his lawsuits against the tobacco, pharmaceutical and construction industries, is sentenced to five years jail for conspiracy to bribe a judge. ](/news/2008/06/27/richard-scruggs-a-high-profile-united-states-lawyer-known-for-his-lawsuits-against-the-tobacco-pharmaceutical-and-construction-industries.md)
 _Context: Pharmaceutical, Richard Scruggs, United States, tobacco_

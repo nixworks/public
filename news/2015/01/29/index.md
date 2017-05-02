@@ -10,7 +10,7 @@ _Context: Afghanistan, Taliban, Taliban insurgency_
 _Context: Benigno Aquino III, Chief Justice, Filipino Muslims, January 25 botched police operation, Maria Lourdes Sereno, Moro insurgency in the Philippines, National Police, Philippine President, Philippines, Supreme Court, Zulkifli Abdhir, peace deal, peace treaty_
 
 ### [Several attacks around Baghdad including bombings and shootings kill at least sixteen people. ](/news/2015/01/29/several-attacks-around-baghdad-including-bombings-and-shootings-kill-at-least-sixteen-people.md)
-_Context: Baghdad, Iraqi insurgency (2011–present)_
+_Context: Baghdad, Iraqi insurgency (2011-present)_
 
 ### [Ansar Beit al-Maqdis claims responsibility for widespread attacks on Egyptian army and police targets throughout the Sinai Peninsula killing at least 25 people. ](/news/2015/01/29/ansar-beit-al-maqdis-claims-responsibility-for-widespread-attacks-on-egyptian-army-and-police-targets-throughout-the-sinai-peninsula-killing.md)
 Islamic State-linked Ansar Beit al-Maqdis claims responsibility for wide-ranging attacks in Sinai, targeting military base, newspaper; army major shot dead in Rafah.

@@ -37,7 +37,7 @@ _Context: Hattiesburg, Mississippi_
 A gunman kills three relatives and a neighbour before turning the gun on himself in the Swiss town of Wuerenlingen, north-west of Zurich, police say.
 
 ### [Voters in Poland go to the polls for a presidential election with a second round of voting scheduled with Andrzej Duda of the Law and Justice Party challenging incumbent President Bronislaw Komorowski. ](/news/2015/05/10/voters-in-poland-go-to-the-polls-for-a-presidential-election-with-a-second-round-of-voting-scheduled-with-andrzej-duda-of-the-law-and-justic.md)
-_Context: Andrzej Duda, Bronisław Komorowski, Law and Justice Party, Poland, Polish presidential election, 2015, President of Poland_
+_Context: Andrzej Duda, Bronislaw Komorowski, Law and Justice Party, Poland, Polish presidential election, 2015, President of Poland_
 
 ### [In auto racing, the Formula One Spanish Grand Prix is held at the Circuit de Barcelona-Catalunya in Montmelo with Mercedes driver Nico Rosberg finishing ahead of Lewis Hamilton. ](/news/2015/05/10/in-auto-racing-the-formula-one-spanish-grand-prix-is-held-at-the-circuit-de-barcelona-catalunya-in-montmela3-with-mercedes-driver-nico-rosb.md)
 Nico Rosberg wins the Spanish Grand Prix as Mercedes team-mate Lewis Hamilton fights back from a slow start to take second.

@@ -4,7 +4,7 @@
 _Context: Kenya, Kipkalya Kones, Lorna Laboso, Narok_
 
 ### [ President of Venezuela Hugo Chavez revokes an intelligence law that opposition groups and the Roman Catholic church claim would have forced citizens to become government informants and asks the National Assembly to develop new legislation. ](/news/2008/06/10/president-of-venezuela-hugo-cha-vez-revokes-an-intelligence-law-that-opposition-groups-and-the-roman-catholic-church-claim-would-have-force.md)
-_Context: Hugo Chávez, National Assembly, President, Roman Catholic Church_
+_Context: Hugo Chavez, National Assembly, President, Roman Catholic Church_
 
 ### [ A Moroccan court sentences 29 people to prison sentences for recruiting people to fight for militants in Iraq. ](/news/2008/06/10/a-moroccan-court-sentences-29-people-to-prison-sentences-for-recruiting-people-to-fight-for-militants-in-iraq.md)
 _Context: Iraq, Moroccan_
@@ -13,7 +13,7 @@ _Context: Iraq, Moroccan_
 _Context: European Union, George W. Bush, Iran, United States, nuclear scientist, president_
 
 ### [ United States Republican senators block moves to levy a windfall profits tax on oil companies. ](/news/2008/06/10/united-states-republican-senators-block-moves-to-levy-a-windfall-profits-tax-on-oil-companies.md)
-_Context: Republican, Senator, United States, windfall profits tax_
+_Context: Republican, United States, United States Senate, windfall profits tax_
 
 ### [ Water from the Tangjiashan Lake, created in the 2008 Sichuan earthquake, floods the abandoned town of Beichuan. ](/news/2008/06/10/water-from-the-tangjiashan-lake-created-in-the-2008-sichuan-earthquake-floods-the-abandoned-town-of-beichuan.md)
 _Context: Beichuan, Tangjiashan Lake, deadly earthquake, flood_

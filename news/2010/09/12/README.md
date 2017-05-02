@@ -46,7 +46,7 @@ A French legal team arrives in Rwanda to begin a week-long inquiry into the 1994
 Iranian authorities are ready to release on $500,000 (Â£325,000) bail one of the three US hikers detained last year, state media report.
 
 ### [Mexican marines capture alleged Beltrn Leyva Cartel leader Sergio Villarreal Barragn in the state of Puebla. ](/news/2010/09/12/mexican-marines-capture-alleged-beltran-leyva-cartel-leader-sergio-villarreal-barragan-in-the-state-of-puebla.md)
-_Context: Beltrán Leyva Cartel, Mexican marines, Puebla, Sergio Villarreal Barragán_
+_Context: Beltrn Leyva Cartel, Mexican marines, Puebla, Sergio Villarreal Barragn_
 
 ### [President of Russia Dmitry Medvedev approves a plan to overhaul Russia's police system. ](/news/2010/09/12/president-of-russia-dmitry-medvedev-approves-a-plan-to-overhaul-russia-s-police-system.md)
 _Context: Dmitry Medvedev, Russia, Russian President, state police_

@@ -46,13 +46,13 @@ Russian police detained hundreds of people in Moscow on Saturday, including youn
 At least 140 prisoners were on the loose Friday in northern Mexico after breaking out of a prison in Nuevo Laredo, authorities said.
 
 ### [The United States Senate repeals "Don't Ask Don't Tell" by a vote of 65-35. The bill will now be sent to President Barack Obama to be signed. ](/news/2010/12/18/the-united-states-senate-repeals-don-t-ask-don-t-tell-by-a-vote-of-65-35-the-bill-will-now-be-sent-to-president-barack-obama-to-be-signed.md)
-_Context: Barack Obama, Senator, don't ask, don't tell_
+_Context: Barack Obama, United States Senate, don't ask, don't tell_
 
 ### [An Italian court grants Amanda Knox a review of the forensic evidence used to convict her of the 2007 murder of British student Meredith Kercher. ](/news/2010/12/18/an-italian-court-grants-amanda-knox-a-review-of-the-forensic-evidence-used-to-convict-her-of-the-2007-murder-of-british-student-meredith-ker.md)
 Amanda Knox has been granted a review of the forensic evidence used to convict her of the murder of British student Meredith Kercher.
 
 ### [The Venezuelan parliament temporarily grants more powers to President Hugo Chavez in the wake of recent flooding, allowing him to pass laws by decree without the support of the National Assembly.](/news/2010/12/18/the-venezuelan-parliament-temporarily-grants-more-powers-to-president-hugo-cha-vez-in-the-wake-of-recent-flooding-allowing-him-to-pass-laws.md)
-_Context: Hugo Chávez, National Assembly, Venezuela, Venezuelan President, royal decrees_
+_Context: Hugo Chavez, National Assembly, Venezuela, Venezuelan President, royal decrees_
 
 ## [Previous Day...](/news/2010/12/17/index.md)
 

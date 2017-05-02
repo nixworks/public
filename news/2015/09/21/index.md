@@ -4,7 +4,7 @@
 ARA News ALEPPO – At least 3o civilians were killed and dozens wounded in the northern Syrian city of Aleppo amid heavy bombardment by forces loyal to President Bashar al-Assad, activists reported on Monday. Pro-Assad forces targeted al-Shaar neighborhood in eastern Aleppo with surface-to-surface missiles on Monday afternoon. &#8220;The missiles hit a crowded public market in al-Shaar, causing dozens &hellip;
 
 ### [A car bomb in Somalia kills at least six people at the gates of the presidential palace in Mogadishu. ](/news/2015/09/21/a-car-bomb-in-somalia-kills-at-least-six-people-at-the-gates-of-the-presidential-palace-in-mogadishu.md)
-_Context: Mogadishu, President of Somalia, Somalia, War in Somalia (2009–present), car bomb_
+_Context: Mogadishu, President of Somalia, Somalia, War in Somalia (2009-present), car bomb_
 
 ### [An Islamic State car bomb kills at least 12 people in Baghdad. ](/news/2015/09/21/an-islamic-state-car-bomb-kills-at-least-12-people-in-baghdad.md)
 At least 17 people were killed in and around the Iraqi capital on Monday in four bomb attacks, including a car bomb claimed by Islamic State militants, while rockets landed near Baghdad airport.
@@ -16,7 +16,7 @@ Air strikes by a Saudi-led coalition killed 50 people in Yemen when they hit a H
 _Context: Canadian, Filipino, Moro conflict, Norwegian, Philippines_
 
 ### [Pope Francis, on the second day of his journey in Cuba, leaves Havana for Holguin. He says a Mass at Revolution Plaza, blesses Holguin from the Loma de la Cruz area, arrives in Santiago de Cuba, flies to Santiago de Cuba, meets with the Cuban Bishops at Saint Basil the Great Seminary, and says a prayer with them at the Minor Basilica of the Basilica Santuario Nacional de Nuestra Senora de la Caridad del Cobre (Shrine of Our Lady of del Cobre). ](/news/2015/09/21/pope-francis-on-the-second-day-of-his-journey-in-cuba-leaves-havana-for-holguin-he-says-a-mass-at-revolution-plaza-blesses-holguin-from.md)
-_Context: Basílica Santuario Nacional de Nuestra Señora de la Caridad del Cobre, Havana, Holguin, Minor Basilica, Pope Francis, Saint Basil the Great, Santiago de Cuba_
+_Context: Basilica Santuario Nacional de Nuestra Senora de la Caridad del Cobre, Havana, Holguin, Minor Basilica, Pope Francis, Saint Basil the Great, Santiago de Cuba_
 
 ### [French regulator Commission nationale de l'informatique et des libertes (CNIL) rejects Google, Inc.'s appeal of their order that the company remove 'Right to be forgotten (RTBF)' search results worldwide. Failure to comply could subject Google to sanctions, from EUR300,000 (US$460,000) to 5 percent of global operating costs. ](/news/2015/09/21/french-regulator-commission-nationale-de-l-informatique-et-des-liberta-c-s-cnil-rejects-google-inc-s-appeal-of-their-order-that-the-compan.md)
 Search engine’s attempt to block French order to apply delistings to its google.com domain, not just its European sites, dismissed in ground-breaking case

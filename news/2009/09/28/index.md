@@ -7,7 +7,7 @@ _Context: Iran, University of Tehran_
 Anti-Lisbon campaigner Patricia McKenna has threatened the European Commission with legal action over what she claims is a &quot;propaganda&hellip;
 
 ### [ Libyan leader Muammar al-Gaddafi and Venezuelan President Hugo Chavez  sign eight accords in Caracas following the weekend's second ASA summit. ](/news/2009/09/28/libyan-leader-muammar-al-gaddafi-and-venezuelan-president-hugo-cha-vez-sign-eight-accords-in-caracas-following-the-weekend-s-second-asa-su.md)
-_Context: Caracas, Hugo Chávez, Libya, Muammar al-Gaddafi, Venezuela, Venezuelan President_
+_Context: Caracas, Hugo Chavez, Libya, Muammar al-Gaddafi, Venezuela, Venezuelan President_
 
 ### [ The death toll in the worst flooding in the Philippines for forty years reaches 140 as the capital Manila is "overwhelmed". ](/news/2009/09/28/the-death-toll-in-the-worst-flooding-in-the-philippines-for-forty-years-reaches-140-as-the-capital-manila-is-overwhelmed.md)
 The death toll from devastating floods in the Philippine capital, Manila, and surrounding areas has climbed to 140, with 32 people still missing, the government said on Monday.
@@ -37,7 +37,7 @@ _Context: Little Cumbrae, Scotland, ashram_
 _Context: Jestina Mukoko, Robert Mugabe, Zimbabwe_
 
 ### [ Gregoire Ndahimana, a former mayor accused of taking part in the 1994 Rwandan genocide, pleads not guilty at a United Nations tribunal. ](/news/2009/09/28/gra-c-goire-ndahimana-a-former-mayor-accused-of-taking-part-in-the-1994-rwandan-genocide-pleads-not-guilty-at-a-united-nations-tribunal.md)
-_Context: Grégoire Ndahimana, Rwanda, United Nations_
+_Context: Gregoire Ndahimana, Rwanda, United Nations_
 
 ### [ ''Chinese Civilisation Revisited'' by Xiao Jiansheng, a book about Chinese history which is outlawed in China, goes on sale in Hong Kong. ](/news/2009/09/28/chinese-civilisation-revisited-by-xiao-jiansheng-a-book-about-chinese-history-which-is-outlawed-in-china-goes-on-sale-in-hong-kong.md)
 _Context: China's, Chinese Civilisation Revisited, Hong Kong_
@@ -46,7 +46,7 @@ _Context: China's, Chinese Civilisation Revisited, Hong Kong_
 A police sergeant who allegedly struck a woman, Nicola Fisher, during G20 protests will be charged with assault, the Crown Prosecution Service (CPS) said.
 
 ### [ Spain's Pablo Pineda wins the best actor award at the San Sebastian International Film Festival, the first actor with Down's syndrome to win an international film award. ](/news/2009/09/28/spain-s-pablo-pineda-wins-the-best-actor-award-at-the-san-sebastia-n-international-film-festival-the-first-actor-with-down-s-syndrome-to-w.md)
-_Context: Down's syndrome, Pablo Pineda, San Sebastián International Film Festival, Spain_
+_Context: Down's syndrome, Pablo Pineda, San Sebastian International Film Festival, Spain_
 
 ### [ Art historian Henry Adams claims abstract impressionist Jackson Pollock camouflaged his signature as a "hidden message" inside his famous 1943 ''Mural''. ](/news/2009/09/28/art-historian-henry-adams-claims-abstract-impressionist-jackson-pollock-camouflaged-his-signature-as-a-hidden-message-inside-his-famous-1.md)
 Jackson Pollock hid his signature inside one of his most important and valuable paintings, an art historian believes.

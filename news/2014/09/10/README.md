@@ -10,7 +10,7 @@ President Barack Obama authorized $25 million in &quot;immediate military assist
 Gold futures gave up earlier gains, settling at a fresh three-month low Wednesday as a stronger U.S. dollar sapped investor appetite for the metal.
 
 ### [2014 India-Pakistan floods:The Chenab River overflows its banks threatening Pakistan's Jhang District. ](/news/2014/09/10/2014-indiaapakistan-floods-pthe-chenab-river-overflows-its-banks-threatening-pakistan-s-jhang-district.md)
-_Context: 2014 India–Pakistan floods, Chenab River, Jhang District, Pakistan_
+_Context: 2014 India-Pakistan floods, Chenab River, Jhang District, Pakistan_
 
 ## [Previous Day...](/news/2014/09/9/index.md)
 

@@ -1,13 +1,13 @@
 ## [2005-11-2](/news/2005/11/2/index.md)
 
 ### [ Guinea-Bissau's President Nino Vieira appoints Aristides Gomes, a former African Development Bank official, as new Prime Minister, replacing the dismissed Carlos Gomes Jnior. ](/news/2005/11/2/guinea-bissau-s-president-nino-vieira-appoints-aristides-gomes-a-former-african-development-bank-official-as-new-prime-minister-replacin.md)
-_Context: African Development Bank, Aristides Gomes, Carlos Gomes Júnior, Guinea-Bissau, Nino Vieira_
+_Context: African Development Bank, Aristides Gomes, Carlos Gomes Jnior, Guinea-Bissau, Nino Vieira_
 
 ### [ Donald E. Powell, former chief executive of the First National Bank of Amarillo, Texas and current Federal Deposit Insurance Corporation chairman is named to coordinate rebuilding of the Gulf Coast by President George W. Bush. ](/news/2005/11/2/donald-e-powell-former-chief-executive-of-the-first-national-bank-of-amarillo-texas-and-current-federal-deposit-insurance-corporation-ch.md)
 _Context: Amarillo, Donald E. Powell, FDIC, George W. Bush, Gulf Coast, Texas_
 
 ### [ ''The Washington Post'' reports that the Central Intelligence Agency has been operating, perhaps as illegally, a covert network of "black site" prisons for terrorist suspects in eight foreign countries, including Afghanistan, Thailand, and several Eastern European democracies for the last four years, with little or no oversight from the United States Congress. ](/news/2005/11/2/the-washington-post-reports-that-the-central-intelligence-agency-has-been-operating-perhaps-as-illegally-a-covert-network-of-black-s.md)
-_Context: Afghanistan, Central Intelligence Agency, Thailand, The Washington Post, U.S. Congress, black site, eastern Europe_
+_Context: Afghanistan, Central Intelligence Agency, Thailand, The Washington Post, U.S. Congressional, black site, eastern Europe_
 
 ### [ Iran's President Mahmoud Ahmadinejad nominates Sadeq Mahsouli as Supervisor of Ministry of Petroleum of OPEC's number two producer, risking domestic political commotion and a parliamentary veto after already making a disturbance abroad with a call for Israel's destruction. ](/news/2005/11/2/iran-s-president-mahmoud-ahmadinejad-nominates-sadeq-mahsouli-as-supervisor-of-ministry-of-petroleum-of-opec-s-number-two-producer-risking.md)
 _Context: Iran, Islamic Consultative Assembly, Israel's destruction, Mahmoud Ahmadinejad, OPEC, Sadeq Mahsouli, Supervisor of Ministry of Petroleum, veto_

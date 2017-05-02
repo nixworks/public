@@ -22,10 +22,10 @@ Ballistic missile fired from site in the east, says South Korea, in the middle o
 _Context: Captains Regent, Gian Nicola Berti, Massimo Andrea Ugolini, Sammarinese Christian Democratic Party, San Marino, We Sammarinese_
 
 ### [The Parliament of Moldova announces that the country will hold a Presidential election on October 30. A court in early March ruled in favor of having a direct national election to choose a president rather than a vote in parliament, a concession to protesters who have been demonstrating for months against the political elite. This will be the first time since 2001 that the public will choose their country's president directly. ](/news/2016/04/1/the-parliament-of-moldova-announces-that-the-country-will-hold-a-presidential-election-on-october-30-a-court-in-early-march-ruled-in-favor.md)
-_Context: 2015–16 protests in Moldova, Moldova, Moldovan presidential election, Parliament_
+_Context: 2015-16 protests in Moldova, Moldova, Moldovan presidential election, Parliament_
 
 ### [President Dilma Rousseff loses another key member of the country's 2016 Summer Olympics organization. Colonel Adilson Moreira of the National Public Security Force, who was in charge of organizing security, in an email to his colleagues reportedly criticizes the President and other senior officials, saying he is ashamed of the country's being led by an "unscrupulous group."  Brazilian officials, who earlier received Sports Minister George Hilton's resignation, say the planning for the Olympic Games will not be affected. ](/news/2016/04/1/president-dilma-rousseff-loses-another-key-member-of-the-country-s-2016-summer-olympics-organization-colonel-adilson-moreira-of-the-nationa.md)
-_Context: 2015–16 protests in Brazil, 2016 Summer Olympics, Brazilian President, Dilma Rousseff, National Public Security Force, Sports Minister_
+_Context: 2015-16 protests in Brazil, 2016 Summer Olympics, Brazilian President, Dilma Rousseff, National Public Security Force, Sports Minister_
 
 ## [Previous Day...](/news/2016/03/31/index.md)
 

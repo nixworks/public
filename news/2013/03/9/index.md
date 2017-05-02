@@ -4,7 +4,7 @@
 A group of 21 Filipino UN peacekeepers captured by rebels in Syria earlier this week arrive in Jordan after being released.
 
 ### [War in Afghanistan:At least 19 people are killed by two suicide bombings in the Afghan capital, Kabul, and in Khost Province, as Chuck Hagel, the United States Secretary of Defense, visits the city. ](/news/2013/03/9/war-in-afghanistan-pat-least-19-people-are-killed-by-two-suicide-bombings-in-the-afghan-capital-kabul-and-in-khost-province-as-chuck-hage.md)
-_Context: Afghanistan, Chuck Hagel, Kabul, Khost, Secretary of Defense, War in Afghanistan (2001–present), suicide bombings_
+_Context: Afghanistan, Chuck Hagel, Kabul, Khost, Secretary of Defense, War in Afghanistan (2001-present), suicide bombings_
 
 ### [Nigerian Sharia conflict:Nigerian militant group Ansaru announces that it has killed seven foreigners that were being held hostage. ](/news/2013/03/9/nigerian-sharia-conflict-pnigerian-militant-group-ansaru-announces-that-it-has-killed-seven-foreigners-that-were-being-held-hostage.md)
 Diplomats investigate claims by Nigerian militant group Ansaru that it has killed seven foreign hostages.
@@ -52,7 +52,7 @@ _Context: 2013 World Baseball Classic, Canada, Mexico, World Baseball Classic, b
 Find the latest sports news and articles on the NFL, MLB, NBA, NHL, NCAA college football, NCAA college basketball and more at ABC News.
 
 ### [In biathlon, France's Martin Fourcade wins his eighth 2012-13 Biathlon World Cup event when he wins the 10 km sprint race on the Laura Biathlon & Ski Complex in Sochi, Russia. He also secures the men's overall title. ](/news/2013/03/9/in-biathlon-france-s-martin-fourcade-wins-his-eighth-2012a13-biathlon-world-cup-event-when-he-wins-the-10-km-sprint-race-on-the-laura-bia.md)
-_Context: 10 km sprint race, 2012–13 Biathlon World Cup, Biathlon World Cup, France, Laura Biathlon & Ski Complex, Martin Fourcade, Russia, Sochi, biathlon, men's overall_
+_Context: 10 km sprint race, 2012-13 Biathlon World Cup, Biathlon World Cup, France, Laura Biathlon & Ski Complex, Martin Fourcade, Russia, Sochi, biathlon, men's overall_
 
 ### [In boxing, 48-year-old Bernard Hopkins defeats Tavoris Cloud at the Barclays Center in Brooklyn, New York, to win IBF Light Heavyweight title. ](/news/2013/03/9/in-boxing-48-year-old-bernard-hopkins-defeats-tavoris-cloud-at-the-barclays-center-in-brooklyn-new-york-to-win-ibf-light-heavyweight-titl.md)
 Bernard Hopkins became the oldest boxer to win a major title on Saturday night, scoring a 12-round unanimous decision over Tavoris Cloud to claim the IBF light heavyweight championship.

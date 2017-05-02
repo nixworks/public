@@ -11,4 +11,4 @@ A Salvador Dali drawing that was stolen last week from a New York gallery is ret
 
 ### Related:
 
-1. [ Paintings by Picasso, Dali, Matisse and Monet are stolen from a museum in Rio de Janeiro, Brazil. ](/news/2006/02/25/paintings-by-picasso-dala-matisse-and-monet-are-stolen-from-a-museum-in-rio-de-janeiro-brazil.md) _Context: Salvador Dalí_
+1. [ Paintings by Picasso, Dali, Matisse and Monet are stolen from a museum in Rio de Janeiro, Brazil. ](/news/2006/02/25/paintings-by-picasso-dala-matisse-and-monet-are-stolen-from-a-museum-in-rio-de-janeiro-brazil.md) _Context: Salvador Dali_

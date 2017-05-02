@@ -22,7 +22,7 @@ Islamist insurgents seize control of two radio stations in the Somali capital Mo
 Two Taiwanese tourists are injured after gunmen open fire in Delhi, weeks before the Indian capital hosts the Commonwealth Games.
 
 ### [5 people are killed in an armed fight in Otlubayir in eastern Agri. ](/news/2010/09/19/5-people-are-killed-in-an-armed-fight-in-otlubaya-r-in-eastern-aara.md)
-_Context: Ağrı, Otlubayır_
+_Context: Agri, Otlubayir_
 
 ### [''The King's Speech'' is premiered at the 35th Toronto International Film Festival. ](/news/2010/09/19/the-king-s-speech-is-premiered-at-the-35th-toronto-international-film-festival.md)
 _Context: 35th, The King's Speech, Toronto International Film Festival_
@@ -73,7 +73,7 @@ _Context: Fredrik Reinfeldt, Sweden, Swedish general election, The Alliance, pri
 _Context: Prime Minister of Thailand, Thaksin, United Front for Democracy Against Dictatorship_
 
 ### [Raul Castro, the President of Cuba, sacks Yadira Garcia Vera as Minister for Basic Industry for "weak control over resources set aside for investment and production.". ](/news/2010/09/19/raul-castro-the-president-of-cuba-sacks-yadira-garcaa-vera-as-minister-for-basic-industry-for-weak-control-over-resources-set-aside-for.md)
-_Context: Minister for Basic Industry, President, Raul Castro, Yadira García Vera_
+_Context: Minister for Basic Industry, President, Raul Castro, Yadira Garcia Vera_
 
 ### [Pope Benedict XVI beatifies Cardinal John Henry Newman in an outdoor mass in Birmingham, England, on the final day of his visit to the UK. ](/news/2010/09/19/pope-benedict-xvi-beatifies-cardinal-john-henry-newman-in-an-outdoor-mass-in-birmingham-england-on-the-final-day-of-his-visit-to-the-uk.md)
 _Context: Benedict XVI, Birmingham, Cardinal, England, John Henry Newman, beatified, visit of Pope Benedict XVI_

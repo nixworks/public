@@ -1,6 +1,6 @@
 ### [2006-03-14](/news/2006/03/14/index.md)
 
-#   Israeli troops shell and demolish a Palestinian prison in Jericho, seizing Ahmad Sa'adat, imprisoned for allegedly assassinating an Israeli minister. [http://news.bbc.co.uk/2/hi/middle_east/4804424.stm (BBC)] In retaliation for the Israeli attack in Jericho, Palestinian gunmen kidnap and then release American professor Douglas Johnson. [http://www.forbes.com/home/feeds/ap/2006/03/14/ap2594746.html (Forbes)]{{dead link|date=September 2016|bot=medic}}{{cbignore|bot=medic}}
+#   Israeli troops shell and demolish a Palestinian prison in Jericho, seizing Ahmad Sa'adat, imprisoned for allegedly assassinating an Israeli minister. [http://news.bbc.co.uk/2/hi/middle_east/4804424.stm (BBC)] In retaliation for the Israeli attack in Jericho, Palestinian gunmen kidnap and then release American professor Douglas Johnson. [http://www.forbes.com/home/feeds/ap/2006/03/14/ap2594746.html (Forbes)]date=September 2016|bot=medicbot=medic
 
 
 

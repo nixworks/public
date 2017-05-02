@@ -13,7 +13,7 @@ At least four people were killed in the shooting at Fort Hood, a toll that inclu
 Chrysler said Wednesday that it would recall 870,000 SUVs to fix a defect in the brake systems after complaints from some customers who said their brakes felt too firm when pressed down, The Associated...
 
 ### [2014 Iquique earthquake:The President of Chile Michelle Bachelet declares the northern part of Chile to be a disaster zone including the regions of Arica y Parinacota, and Tarapaca. ](/news/2014/04/2/2014-iquique-earthquake-pthe-president-of-chile-michelle-bachelet-declares-the-northern-part-of-chile-to-be-a-disaster-zone-including-the-re.md)
-_Context: 2014 Iquique earthquake, Arica y Parinacota, Chile, Michelle Bachelet, President, Tarapacá_
+_Context: 2014 Iquique earthquake, Arica y Parinacota, Chile, Michelle Bachelet, President, Tarapaca_
 
 ### [The High Court of Australia recognises a neutral third gender that is neither male nor female. ](/news/2014/04/2/the-high-court-of-australia-recognises-a-neutral-third-gender-that-is-neither-male-nor-female.md)
 _Context: High Court of Australia, third gender_

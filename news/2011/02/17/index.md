@@ -7,7 +7,7 @@ Bahrain protesters claim several among their ranks were killed during a violent 
 Libyan &quot;day of rage&quot; protesters defy Gadhafi crackdown; internal security forces arrest at least 14 demonstrators.
 
 ### [2010-2011 Algerian protests:Eighty-four-year-old Abdelhamid Mehri, former leader of Algeria's governing party, writes a letter to President Abdelaziz Bouteflika asking that he change his government in response to the unrest across the Arab world. ](/news/2011/02/17/2010a2011-algerian-protests-peighty-four-year-old-abdelhamid-mehri-former-leader-of-algeria-s-governing-party-writes-a-letter-to-preside.md)
-_Context: 2010–2011 Algerian protests, Abdelaziz Bouteflika, Abdelhamid Mehri, Arab Spring, President_
+_Context: 2010-2011 Algerian protests, Abdelaziz Bouteflika, Abdelhamid Mehri, Arab Spring, President_
 
 ### [2011 Yemeni protests:Several people are injured in clashes between pro and anti-government protesters in the Yemeni capital Sana'a. ](/news/2011/02/17/2011-yemeni-protests-pseveral-people-are-injured-in-clashes-between-pro-and-anti-government-protesters-in-the-yemeni-capital-sana-a.md)
 _Context: 2011 Yemeni protests, Sana'a, Yemen_

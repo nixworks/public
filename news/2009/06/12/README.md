@@ -19,7 +19,7 @@ _Context: 2009, North Korea, United Nations Security Council, sanctions, sanctio
 _Context: Islam, Lahore, Pakistan, Sarfraz Naeemi, Taliban, suicide bomb_
 
 ### [ The United Kingdom Foreign Secretary, David Miliband, is asked to explain how four Chinese detainees from Guantanamo Bay were released to Bermuda without the knowledge of Whitehall. ](/news/2009/06/12/the-united-kingdom-foreign-secretary-david-miliband-is-asked-to-explain-how-four-chinese-detainees-from-guanta-namo-bay-were-released-to.md)
-_Context: Bermuda, Chinese, David Miliband, Guantánamo Bay, Secretary of State for Foreign and Commonwealth Affairs, Whitehall_
+_Context: Bermuda, Chinese, David Miliband, Guantanamo Bay, Secretary of State for Foreign and Commonwealth Affairs, Whitehall_
 
 ### [ The world's first City of Film is announced by UNESCO, with Bradford  beating competition from Los Angeles, Cannes and Venice. ](/news/2009/06/12/the-world-s-first-city-of-film-is-announced-by-unesco-with-bradford-beating-competition-from-los-angeles-cannes-and-venice.md)
 _Context: Bradford, Cannes, City of Film, Los Angeles, UNESCO, Venice_

@@ -22,7 +22,7 @@ _Context: China, Henan Province, Minquan County, bus, pond_
 _Context: Colombia, Tolima department_
 
 ### [Japan goes on full alert as North Korea announces it has delayed its launch of a long range Unha rocket until 29 December. ](/news/2012/12/10/japan-goes-on-full-alert-as-north-korea-announces-it-has-delayed-its-launch-of-a-long-range-unha-rocket-until-29-december.md)
-_Context: Japan, Japan–North Korea relations, North Korea, Unha, launches_
+_Context: Japan, Japan-North Korea relations, North Korea, Unha, launches_
 
 ### [Leaders of the European Union accept the 2012 Nobel Peace Prize in Oslo, Norway. ](/news/2012/12/10/leaders-of-the-european-union-accept-the-2012-nobel-peace-prize-in-oslo-norway.md)
 _Context: 2012, European Union, Nobel Peace Prize, Norway, Oslo_

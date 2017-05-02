@@ -31,10 +31,10 @@ Seven children were among 11 people who died when a horrific fire trapped them i
 _Context: New York's, West Nile virus_
 
 ### [In response to criticism of his government's extrajudicial killings of 1,800 people since July, Philippine president Rodrigo Duterte says that U.S. forces advising the Armed Forces of the Philippines against an Islamic insurgency in Mindanao are doing more harm than good and must leave the country, saying, "I do not want a rift with America, but they have to go," during a speech in Manila. ](/news/2016/09/12/in-response-to-criticism-of-his-government-s-extrajudicial-killings-of-1-800-people-since-july-philippine-president-rodrigo-duterte-says-th.md)
-_Context: Armed Forces, Manila, Mindanao, Moro conflict, Philippine President, Philippines–United States relations, Rodrigo Duterte, United States, extrajudicial killing_
+_Context: Armed Forces, Manila, Mindanao, Moro conflict, Philippine President, Philippines-United States relations, Rodrigo Duterte, United States, extrajudicial killing_
 
 ### [In last week's meeting between Indonesian president Joko Widodo and Philippine president Rodrigo Duterte, Widodo today says that Duterte allegedly said that he '(would) not interfere' in the execution of accused drug smuggler and Philippine national Mary Jane Veloso. However, today a ''Manila Bulletin'' article says that Manny Pinol, the Philippines Agriculture Secretary, states that Duterte actually asked for clemency for Veloso. ](/news/2016/09/12/in-last-week-s-meeting-between-indonesian-president-joko-widodo-and-philippine-president-rodrigo-duterte-widodo-today-says-that-duterte-all.md)
-_Context: Indonesia, Indonesia–Philippines relations, Joko Widodo, Manila Bulletin, Manny Piñol, Mary Jane Veloso, Philippine, Rodrigo Duterte_
+_Context: Indonesia, Indonesia-Philippines relations, Joko Widodo, Manila Bulletin, Manny Pinol, Mary Jane Veloso, Philippine, Rodrigo Duterte_
 
 ### [In a protest in Barcelona, an estimated 800,000 people (370,000 in the government claim) demand secession from the Madrid-based Spanish government. ](/news/2016/09/12/in-a-protest-in-barcelona-an-estimated-800-000-people-370-000-in-the-government-claim-demand-secession-from-the-madrid-based-spanish-gove.md)
 _Context: Barcelona, Catalan independence, Madrid, Spain_

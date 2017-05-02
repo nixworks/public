@@ -25,7 +25,7 @@ _Context: Boat Race, Cambridge Boat Club, England, London, Oxford Boat Club_
 _Context: His Majesty's Government, Home Secretary, Jacqui Smith, United Kingdom, expense account, pornographic film_
 
 ### [ A stampede kills 22 people and injures at least 130 during a 2010 FIFA World Cup qualifying match in Abidjan, Ivory Coast. ](/news/2009/03/29/a-stampede-kills-22-people-and-injures-at-least-130-during-a-2010-fifa-world-cup-qualifying-match-in-abidjan-ivory-coast.md)
-_Context: 2010 FIFA World Cup, Abidjan, Côte d'Ivoire, qualifying match, stampede_
+_Context: 2010 FIFA World Cup, Abidjan, Cte d'Ivoire, qualifying match, stampede_
 
 ## [Previous Day...](/news/2009/03/28/index.md)
 

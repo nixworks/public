@@ -16,7 +16,7 @@ Forty-four people were killed and 103 injured when one Iranian passenger train c
 Angry migrants set fire to a camp on the Greek island of Lesbos on Thursday after a woman and a six-year-old child died following a gas cylinder explosion, local police said.
 
 ### [At least 20 people have died of extreme cold weather in the Darzab District of Afghanistan's Jozjan Province. All of the victims were displaced as a result of the ongoing civil conflict. ](/news/2016/11/25/at-least-20-people-have-died-of-extreme-cold-weather-in-the-darzab-district-of-afghanistan-s-jozjan-province-all-of-the-victims-were-displa.md)
-_Context: Afghanistan, Darzab District, Jozjan Province, War in Afghanistan (2015–present)_
+_Context: Afghanistan, Darzab District, Jozjan Province, War in Afghanistan (2015-present)_
 
 ### [Heavy rains lead to widespread flooding across northern Italy as several rivers have overflowed. One person is missing, presumed drowned. ](/news/2016/11/25/heavy-rains-lead-to-widespread-flooding-across-northern-italy-as-several-rivers-have-overflowed-one-person-is-missing-presumed-drowned.md)
 Little more than two weeks after Italian scientists warned that climate change had put much of the country at risk of flooding, parts of the northwest have been inundated by heavy…
@@ -25,7 +25,7 @@ Little more than two weeks after Italian scientists warned that climate change h
 Calls to halt negotiations with Ankara angers the country&#039;s leader, who warns of triggering a fresh influx of refugees.
 
 ### [WikiLeaks releases 500 internal documents and emails allegedly from the American Embassy in Sana'a, Yemen. ](/news/2016/11/25/wikileaks-releases-500-internal-documents-and-emails-allegedly-from-the-american-embassy-in-sana-a-yemen.md)
-_Context: 500 internal documents and emails, Sana'a, United States–Yemen relations, WikiLeaks_
+_Context: 500 internal documents and emails, Sana'a, United States-Yemen relations, WikiLeaks_
 
 ### [The Supreme Court of Norway rejects NSA whistleblower Edward Snowden's extradition lawsuit against the Norwegian government. ](/news/2016/11/25/the-supreme-court-of-norway-rejects-nsa-whistleblower-edward-snowden-s-extradition-lawsuit-against-the-norwegian-government.md)
 _Context: Edward Snowden, National Security Agency, Norway, Supreme Court of Norway_

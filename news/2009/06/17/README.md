@@ -19,7 +19,7 @@ Martin McGuinness has described racist attacks on a group of Romanian families i
 _Context: Aung San Suu Kyi, Burma, General Secretary, National League for Democracy, Supreme Court, defense, trial_
 
 ### [ Seventeen people, including the head of Mogadishu's police force, are killed in fighting between the Transitional Federal Government and al-Shabaab. ](/news/2009/06/17/seventeen-people-including-the-head-of-mogadishu-s-police-force-are-killed-in-fighting-between-the-transitional-federal-government-and-al.md)
-_Context: Al-Shabaab, Mogadishu, Transitional Federal Government, War in Somalia (2009–)_
+_Context: Al-Shabaab, Mogadishu, Transitional Federal Government, War in Somalia (2009-)_
 
 ### [ Maoist fighters kill 3 members of the ruling Communist Party in West Bengal. ](/news/2009/06/17/maoist-fighters-kill-3-members-of-the-ruling-communist-party-in-west-bengal.md)
 _Context: Communist Party of India-Marxist, Maoist, West Bengal_

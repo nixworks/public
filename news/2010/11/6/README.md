@@ -25,7 +25,7 @@ _Context: Italian, Pompeii, ancient Roman_
 Chinese artist Ai Weiwei says he has been placed under house arrest to prevent him holding a party to mark the destruction of his Shanghai studio.
 
 ### [Christ the King, the world's biggest statue of Jesus, is completed in Swiebodzin, Poland ](/news/2010/11/6/christ-the-king-the-world-s-biggest-statue-of-jesus-is-completed-in-awiebodzin-poland.md)
-_Context: Christ the King, Poland, biggest statue of Jesus, Świebodzin_
+_Context: Christ the King, Poland, Swiebodzin, biggest statue of Jesus_
 
 ### [The death toll from the Haiti cholera outbreak rises to 500. ](/news/2010/11/6/the-death-toll-from-the-haiti-cholera-outbreak-rises-to-500.md)
 _Context: Haiti cholera outbreak_

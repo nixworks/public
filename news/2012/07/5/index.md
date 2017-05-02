@@ -1,7 +1,7 @@
 ## [2012-07-5](/news/2012/07/5/index.md)
 
 ### [The bodies of two Turkish pilots of a F-4 Phantom jet shot down by Syria on 22 June 2012 are recovered in the Mediterranean Sea. ](/news/2012/07/5/the-bodies-of-two-turkish-pilots-of-a-f-4-phantom-jet-shot-down-by-syria-on-22-june-2012-are-recovered-in-the-mediterranean-sea.md)
-_Context: F-4 Phantom, Mediterranean Sea, Syria, Syrian uprising (2011â€“present), Turks_
+_Context: F-4 Phantom, Mediterranean Sea, Syria, Syrian uprising (2011-present), Turks_
 
 ### [The Shard, the tallest building in Europe and the tallest habitable free-standing structure in the UK at 309.6 metres (1,016 ft), is officially opened. ](/news/2012/07/5/the-shard-the-tallest-building-in-europe-and-the-tallest-habitable-free-standing-structure-in-the-uk-at-309-6-metres-1-016-ft-is-officia.md)
 The Duke of York and Sheikh Hamad Bin Jassim Bin Jabor Al Thani, prime minister of Qatar, will inaugurate the Shard skyscraper at London Bridge on Thursday 5 July. 
@@ -28,7 +28,7 @@ _Context: Costa Rica, Gulf Cartel_
 Wikileaks begins releasing more than two million emails it dubs the &quot;Syria files&quot;, promising embarrassment for both Syria and its opponents.
 
 ### [A recount of ballot papers in the 2012 Mexican presidential election confirms Enrique Pena Nieto of the Institutional Revolutionary Party as the winner. ](/news/2012/07/5/a-recount-of-ballot-papers-in-the-2012-mexican-presidential-election-confirms-enrique-pena-nieto-of-the-institutional-revolutionary-party-as.md)
-_Context: Enrique Peña Nieto, Institutional Revolutionary Party, Mexican presidential elections_
+_Context: Enrique Pea Nieto, Institutional Revolutionary Party, Mexican presidential elections_
 
 ## [Previous Day...](/news/2012/07/4/index.md)
 

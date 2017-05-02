@@ -4,7 +4,7 @@
 Two people are shot dead in northern Senegal during protests after a court ruled that President Abdoulaye Wade could seek a third term, witnesses say.
 
 ### [Local coordination committees in Syria call for a day of remembrance for lives lost in the ongoing uprising. ](/news/2012/01/30/local-coordination-committees-in-syria-call-for-a-day-of-remembrance-for-lives-lost-in-the-ongoing-uprising.md)
-_Context: 2011–2012 Syrian uprising, Local Coordination Committees of Syria, Syria_
+_Context: 2011-2012 Syrian uprising, Local Coordination Committees of Syria, Syria_
 
 ### [Tibetan advocacy groups claim that as many as seven ethnic Tibetans have been killed and 60 wounded in the past week in protests in China's Sichuan province bordering Tibet. ](/news/2012/01/30/tibetan-advocacy-groups-claim-that-as-many-as-seven-ethnic-tibetans-have-been-killed-and-60-wounded-in-the-past-week-in-protests-in-china-s.md)
 The Tibetan government-in-exile has colluded with Western governments to distort a recent string of police shootings in Tibetan areas of China in a bid to discredit the government, an official Chinese newspaper said Monday.

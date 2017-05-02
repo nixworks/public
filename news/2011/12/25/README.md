@@ -22,7 +22,7 @@ _Context: Australia, Melbourne, State Emergency Service_
 _Context: Akbar Hashemi Rafsanjani, Faezeh Hashemi, Iran, Iranian President_
 
 ### [The warmest temperature ever recorded at the South Pole is set with a top of -12.3degC set at the Amundsen-Scott South Pole Station. ](/news/2011/12/25/the-warmest-temperature-ever-recorded-at-the-south-pole-is-set-with-a-top-of-12-3adegc-set-at-the-amundsenascott-south-pole-station.md)
-_Context: Amundsen–Scott South Pole Station, South Pole_
+_Context: Amundsen-Scott South Pole Station, South Pole_
 
 ## [Previous Day...](/news/2011/12/24/index.md)
 

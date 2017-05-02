@@ -34,7 +34,7 @@ _Context: Ethiopia, Ogaden, United Nations_
 _Context: Indian Army, Kashmir, Pakistan Army_
 
 ### [Azeri duo Eldar & Nigar win the 2011 Eurovision Song Contest in Dusseldorf, North Rhine-Westphalia, with the song "Running Scared". ](/news/2011/05/14/azeri-duo-eldar-nigar-win-the-2011-eurovision-song-contest-in-da1-4sseldorf-north-rhine-westphalia-with-the-song-running-scared.md)
-_Context: 2011 Eurovision Song Contest, Azeri, Düsseldorf, Eldar & Nigar, North Rhine-Westphalia, Running Scared_
+_Context: 2011 Eurovision Song Contest, Azeri, Dusseldorf, Eldar & Nigar, North Rhine-Westphalia, Running Scared_
 
 ### [Musician Bob Dylan responds on his website to allegations he gave in to censorship during a recent series of concerts in China, including criticism from ''The New York Times'' over his failure to mention the plight of imprisoned artist and dissident Ai Weiwei. ](/news/2011/05/14/musician-bob-dylan-responds-on-his-website-to-allegations-he-gave-in-to-censorship-during-a-recent-series-of-concerts-in-china-including-cr.md)
 Legendary folk-rock singer Bob Dylan insists he was not censored by Chinese authorities ahead of concerts he performed there earlier this year.
@@ -51,7 +51,7 @@ The US will grant new leases to drill for oil in Alaska and the Gulf of Mexico t
 ### [Japanese earthquake, tsunami and nuclear crisis:A worker at the Fukushima power plant dies while working on crisis-fighting operations. ](/news/2011/05/14/japanese-earthquake-tsunami-and-nuclear-crisis-pa-worker-at-the-fukushima-power-plant-dies-while-working-on-crisis-fighting-operations.md)
 A worker died after collapsing at a facility in the crippled Fukushima Daiichi nuclear power plant in Japan, its owner said Saturday. 
 
-### [Flooding in North America:The Morganza Spillway on the Mississippi River is opened for the second time in its history, deliberately flooding {{convert|3,000|sqmi|km2}} of rural Louisiana and placing a nuclear power plant at risk to save most of Baton Rouge and New Orleans. ](/news/2011/05/14/flooding-in-north-america-pthe-morganza-spillway-on-the-mississippi-river-is-opened-for-the-second-time-in-its-history-deliberately-floodin.md)
+### [Flooding in North America:The Morganza Spillway on the Mississippi River is opened for the second time in its history, deliberately flooding 3,000|sqmi|km2 of rural Louisiana and placing a nuclear power plant at risk to save most of Baton Rouge and New Orleans. ](/news/2011/05/14/flooding-in-north-america-pthe-morganza-spillway-on-the-mississippi-river-is-opened-for-the-second-time-in-its-history-deliberately-floodin.md)
 They busted the dike, and the water poured through -- slowly.
 
 ### [Pakistan's parliament adopts a resolution that demands an immediate stop to drone strikes and an end to raids by U.S. troops within Pakistan's borders and threatens to cut off access to a facility used by NATO forces to ferry troops into Afghanistan, as the rift between the US and Pakistan grows, following the killing of Osama bin Laden. ](/news/2011/05/14/pakistan-s-parliament-adopts-a-resolution-that-demands-an-immediate-stop-to-drone-strikes-and-an-end-to-raids-by-u-s-troops-within-pakistan.md)

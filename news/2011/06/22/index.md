@@ -13,7 +13,7 @@ _Context: Abu Sayyaf, Basilan Island, Philippine Army, terrorism_
 Police believe dissident republicans were responsible for shooting a photographer during trouble in east Belfast on Tuesday night.
 
 ### [War in Afghanistan (2001-present):](/news/2011/06/22/war-in-afghanistan-2001apresent.md)
-_Context: War in Afghanistan (2001–present)_
+_Context: War in Afghanistan (2001-present)_
 
 ### [The President of the United States Barack Obama announces that 33,000 US troops will be withdrawn from the War in Afghanistan by the northern summer of 2012. ](/news/2011/06/22/the-president-of-the-united-states-barack-obama-announces-that-33-000-us-troops-will-be-withdrawn-from-the-war-in-afghanistan-by-the-norther.md)
 US President Barack Obama has announced he will bring home 33,000 US troops from Afghanistan by the northern summer of 2012. He said the first 10,000 troops would return home by the end of this year.
@@ -34,7 +34,7 @@ Greek PM George Papandreou tries to persuade MPs to pass further austerity measu
 _Context: Airbus, Indonesia, Qantas, Rolls-Royce_
 
 ### [Flights resume in southeast Australia as the volcanic ash cloud from the 2011 Puyehue-Cordon Caulle eruption clears although flights to Tasmania and New Zealand are still affected.  ](/news/2011/06/22/flights-resume-in-southeast-australia-as-the-volcanic-ash-cloud-from-the-2011-puyehue-corda3n-caulle-eruption-clears-although-flights-to-tas.md)
-_Context: 2011 Puyehue-Cordón Caulle eruption, Australia, New Zealand, Tasmania_
+_Context: 2011 Puyehue-Cordon Caulle eruption, Australia, New Zealand, Tasmania_
 
 ### [Officials from the People's Republic of China warn that the 2011 China floods will have a negative impact on food prices. ](/news/2011/06/22/officials-from-the-people-s-republic-of-china-warn-that-the-2011-china-floods-will-have-a-negative-impact-on-food-prices.md)
 _Context: China's, heavy flood_

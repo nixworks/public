@@ -10,7 +10,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 The Asahi Shimbun is widely regarded for its journalism as the most respected daily newspaper in Japan. The English version offers selected articles from the vernacular Asahi Shimbun, as well as extensive coverage of cool Japan,focusing on manga, travel and other timely news
 
 ### [ XVI International AIDS Conference, 2006 is convened in Toronto, Canada. ](/news/2006/08/13/xvi-international-aids-conference-2006-is-convened-in-toronto-canada.md)
-_Context: Canadian, Toronto, XVI International AIDS Conference, 2006_
+_Context: Canada, Toronto, XVI International AIDS Conference, 2006_
 
 ## [Previous Day...](/news/2006/08/12/index.md)
 

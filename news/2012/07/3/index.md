@@ -16,7 +16,7 @@ A large earthquake has been felt across the North and South Islands tonight. - N
 Pakistan is expected to reopen supply routes to Nato-led forces in Afghanistan, as Washington apologises for killing 24 of its soldiers in November.
 
 ### [Police search the home and offices of former French president Nicolas Sarkozy as part of a judicial investigation into financial relations between his political camp and L'Oral heiress Liliane Bettencourt. ](/news/2012/07/3/police-search-the-home-and-offices-of-former-french-president-nicolas-sarkozy-as-part-of-a-judicial-investigation-into-financial-relations-b.md)
-_Context: L'Oréal, Liliane Bettencourt, Nicolas Sarkozy_
+_Context: L'Oral, Liliane Bettencourt, Nicolas Sarkozy_
 
 ### [The current governing coalition in Romania, the Social Liberal Union, starts a fast-paced parliamentary offensive against President Traian Basescu by dismissing the leaders of both chambers of Parliament. ](/news/2012/07/3/the-current-governing-coalition-in-romania-the-social-liberal-union-starts-a-fast-paced-parliamentary-offensive-against-president-traian-b.md)
 _Context: President, Social Liberal Union, assembly_

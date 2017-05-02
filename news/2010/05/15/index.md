@@ -16,7 +16,7 @@ _Context: 2010 Thai political protests, Bangkok, Thailand, red shirt_
 More than 150 fighters reported dead as clashes cast further doubt on peace talks.
 
 ### [Former Mexican presidential candidate Diego Fernandez de Cevallos is abducted from one of his homes in Pedro Escobedo, Queretaro. ](/news/2010/05/15/former-mexican-presidential-candidate-diego-ferna-ndez-de-cevallos-is-abducted-from-one-of-his-homes-in-pedro-escobedo-quera-c-taro.md)
-_Context: Diego Fernández de Cevallos, Pedro Escobedo, President, Querétaro_
+_Context: Diego Fernandez de Cevallos, Pedro Escobedo, President, Queretaro_
 
 ### [Seven people are charged with public order offences after around 80 people from the eirigi group demonstrate and burn effigies in an anti-NAMA fashion outside Anglo Irish Bank HQ in Dublin. ](/news/2010/05/15/seven-people-are-charged-with-public-order-offences-after-around-80-people-from-the-a-c-iraga-group-demonstrate-and-burn-effigies-in-an-anti.md)
 Seven people are to appear in court this evening following a protest outside the headquarters of Anglo Irish Bank in Dublin earlier&hellip;
@@ -28,7 +28,7 @@ _Context: 5.1 magnitude earthquake, Algeria_
 _Context: Google, Street View_
 
 ### [A fire at the Butantan Institute in Sao Paulo, Brazil, destroys its entire collection of preserved snakes--the world's largest--and nearly half a million arachnid specimens, including many novel and yet-unclassified species. ](/news/2010/05/15/a-fire-at-the-butantan-institute-in-sapso-paulo-brazil-destroys-its-entire-collection-of-preserved-snakesathe-world-s-largestaand-nearl.md)
-_Context: Brazil, Instituto Butantan, São Paulo, arachnid_
+_Context: Brazil, Instituto Butantan, Sao Paulo, arachnid_
 
 ## [Previous Day...](/news/2010/05/14/index.md)
 

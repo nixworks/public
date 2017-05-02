@@ -28,7 +28,7 @@ _Context: Gamalama, Indonesia, lahar_
 The US Navy says it will not tolerate disruption to a vital oil route as Iran threatens to shut the Strait of Hormuz if the West imposes more sanctions.
 
 ### [The head of the African Union, Jean Ping, arrives in Guinea-Bissau after the country's army chief claims to have foiled a military coup. ](/news/2011/12/28/the-head-of-the-african-union-jean-ping-arrives-in-guinea-bissau-after-the-country-s-army-chief-claims-to-have-foiled-a-military-coup.md)
-_Context: African Union, Guinea-Bissau, Jean Ping, coup d'état_
+_Context: African Union, Guinea-Bissau, Jean Ping, coup d'tat_
 
 ### [In China, 54 government officials and the Ministry of Railways are punished over a fatal high-speed rail crash in July. ](/news/2011/12/28/in-china-54-government-officials-and-the-ministry-of-railways-are-punished-over-a-fatal-high-speed-rail-crash-in-july.md)
 _Context: China, Railways Minister, fatal high-speed rail crash_

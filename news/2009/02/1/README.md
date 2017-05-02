@@ -7,7 +7,7 @@ Capping a remarkable fourth quarter, Santonio Holmes made a brilliant catch for 
 American deep-sea explorers say they have discovered the wreck of a legendary British warship that sank in the English Channel 264 years ago.
 
 ### [ Four people are killed in a cafe shooting in Russia's Dagestan Republic. ](/news/2009/02/1/four-people-are-killed-in-a-cafa-c-shooting-in-russia-s-dagestan-republic.md)
-_Context: Dagestan, Russia, café_
+_Context: Dagestan, Russia, cafe_
 
 ### [ Rafael Nadal of Spain defeats Roger Federer of Switzerland to win the 2009 Australian Open men's singles. ](/news/2009/02/1/rafael-nadal-of-spain-defeats-roger-federer-of-switzerland-to-win-the-2009-australian-open-men-s-singles.md)
 _Context: 2009 Australian Open, Rafael Nadal, Roger Federer, Spain, Swiss, men's singles_
@@ -19,7 +19,7 @@ _Context: Boeing 747-300, Japan Airlines, biofuel, test flight_
 _Context: Gaza Strip, Israel, Mortar, Negev, Palestinian, fire, militant, rocket_
 
 ### [ The Japan Meteorological Agency warns that Honshu Island's Mount Asama could erupt within the next two days. ](/news/2009/02/1/the-japan-meteorological-agency-warns-that-honsha-island-s-mount-asama-could-erupt-within-the-next-two-days.md)
-_Context: Honshū Island, Japan, Japan Meteorological Agency, Mount Asama_
+_Context: Honshu Island, Japan, Japan Meteorological Agency, Mount Asama_
 
 ### [ Kirill I is officially enthroned as Patriarch of the Russian Orthodox Church. ](/news/2009/02/1/kirill-i-is-officially-enthroned-as-patriarch-of-the-russian-orthodox-church.md)
 _Context: Patriarch, Patriarch Kirill, Russia, Russian_

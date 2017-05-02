@@ -13,7 +13,7 @@ _Context: Americans, Angelina Jolie, breast cancer, mastectomy_
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [Beyonce cancels her Antwerp, Belgium Mrs. Carter Show World Tour date. But reschedules it to May 31, 2013.](/news/2013/05/14/beyonca-c-cancels-her-antwerp-belgium-mrs-carter-show-world-tour-date-but-reschedules-it-to-may-31-2013.md)
-_Context: Antwerp, Belgium, Beyoncé, Mrs. Carter Show World Tour_
+_Context: Antwerp, Belgium, Beyonce, Mrs. Carter Show World Tour_
 
 ### [A tunnel collapses at Freeport-McMoRan's Grasberg mine in Indonesia's Papua province trapping approximately thirty workers. ](/news/2013/05/14/a-tunnel-collapses-at-freeport-mcmoranas-grasberg-mine-in-indonesia-s-papua-province-trapping-approximately-thirty-workers.md)
 _Context: Freeport-McMoRan, Grasberg mine, Indonesia, Papua_
@@ -34,7 +34,7 @@ _Context: Kermit Gosnell, abortion, physician_
 The IRS’s admission it targeted conservative groups for special scrutiny has drawn political condemnation but it isn’t the first, second or third time the agency has been accused of playing fast and loose with the law.
 
 ### [Voters in Canada's British Columbia Province go to the polls to select members to the province's Legislative Assembly. ](/news/2013/05/14/voters-in-canada-s-british-columbia-province-go-to-the-polls-to-select-members-to-the-province-s-legislative-assembly.md)
-_Context: British Columbia, Canadian, Legislative Assembly, go to the polls_
+_Context: British Columbia, Canada, Legislative Assembly, go to the polls_
 
 ### [Former President of the Philippines Joseph Estrada is declared as the winner of the mayoral election in the capital Manila. ](/news/2013/05/14/former-president-of-the-philippines-joseph-estrada-is-declared-as-the-winner-of-the-mayoral-election-in-the-capital-manila.md)
 _Context: Joseph Estrada, Manila, Philippine President_
@@ -49,7 +49,7 @@ _Context: Kenya_
 _Context: Brazil, same-sex marriage_
 
 ### [A Soyuz capsule carrying astronauts Chris Hadfield of Canada, Thomas Marshburn of the United States and Roman Romanenko of Russia of Expedition 35 back from the International Space Station lands safely in Kazakhstan. ](/news/2013/05/14/a-soyuz-capsule-carrying-astronauts-chris-hadfield-of-canada-thomas-marshburn-of-the-united-states-and-roman-romanenko-of-russia-of-expedit.md)
-_Context: Canadian, Chris Hadfield, Expedition 35, International Space Station, Kazakhstan, Roman Romanenko, Russia, Soyuz, Thomas Marshburn, United States_
+_Context: Canada, Chris Hadfield, Expedition 35, International Space Station, Kazakhstan, Roman Romanenko, Russia, Soyuz, Thomas Marshburn, United States_
 
 ## [Previous Day...](/news/2013/05/13/index.md)
 

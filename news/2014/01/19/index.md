@@ -7,13 +7,13 @@ At least 20 soldiers are killed and 24 injured in a bomb attack on an army convo
 Twenty-eight people were wounded, seven of them seriously, in a blast at an anti-government protest on Sunday afternoon, the second daylight attack using explosives in 48 hours in the Thai capital.
 
 ### [Gaza-Israel conflict:The Israeli Air Force carries out an air strike seriously injuring one Palestinian Islamic Jihad operative in the Gaza Strip and wounding two others. ](/news/2014/01/19/gazaaisrael-conflict-pthe-israeli-air-force-carries-out-an-air-strike-seriously-injuring-one-palestinian-islamic-jihad-operative-in-the-ga.md)
-_Context: Gaza Strip, Gaza–Israel conflict, Islamic Jihad Movement in Palestine, Israeli Air Force_
+_Context: Gaza Strip, Gaza-Israel conflict, Islamic Jihad Movement in Palestine, Israeli Air Force_
 
 ### [Euromaidan:New violent clashes erupt in Ukraine as a reaction to new strict anti-protest laws. ](/news/2014/01/19/euromaidan-pnew-violent-clashes-erupt-in-ukraine-as-a-reaction-to-new-strict-anti-protest-laws.md)
 _Context: Euromaidan_
 
 ### [Residents of the historic Norwegian village of Laerdalsoyri are evacuated due to a fire that has destroyed at least 10 homes. ](/news/2014/01/19/residents-of-the-historic-norwegian-village-of-la-rdalsa-yri-are-evacuated-due-to-a-fire-that-has-destroyed-at-least-10-homes.md)
-_Context: Lærdalsøyri, Norway_
+_Context: Laerdalsoyri, Norway_
 
 ### [Voters in Hungary will go to the polls for a parliamentary election on April 6. ](/news/2014/01/19/voters-in-hungary-will-go-to-the-polls-for-a-parliamentary-election-on-april-6.md)
 _Context: Hungarian parliamentary election, 2014, Hungary_

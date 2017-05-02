@@ -31,7 +31,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Andres Manuel Lopez Obrador returns to his work as a mayor of Mexico City despite government demands that he is no longer eligible. ](/news/2005/04/25/andra-c-s-manuel-la3pez-obrador-returns-to-his-work-as-a-mayor-of-mexico-city-despite-government-demands-that-he-is-no-longer-eligible.md)
-_Context: Andrés Manuel López Obrador, Mexico City, mayor_
+_Context: Andres Manuel Lopez Obrador, Mexico City, mayor_
 
 ### [ A 5000-strong Richtersveld community in Northern Cape province, South Africa, goes to Land Claims Court seeking compensation. In the 1920s they were evicted from their land, that turned out to be rich in diamonds and was mined by Alexkor mining company. ](/news/2005/04/25/a-5000-strong-richtersveld-community-in-northern-cape-province-south-africa-goes-to-land-claims-court-seeking-compensation-in-the-1920s.md)
 _Context: Alexkor, Land Claims Court, Richtersveld, South Africa, diamond_

@@ -4,7 +4,7 @@
 A suicide bomber kills two policemen in south-eastern Turkey, in an attack officials blame on a suspected Islamic State militant.
 
 ### [  Three Turkish soldiers are killed and 14 others wounded in an armed attack by Kurdish militants during a military operation in the town of Nusaybin, Turkey. ](/news/2016/05/1/three-turkish-soldiers-are-killed-and-14-others-wounded-in-an-armed-attack-by-kurdish-militants-during-a-military-operation-in-the-town-of.md)
-_Context: Kurdish, Kurdish–Turkish conflict, Nusaybin, Turkey_
+_Context: Kurdish, Kurdish-Turkish conflict, Nusaybin, Turkey_
 
 ### [Houthi rebels capture the Umaliqa military base in 'Amran Governorate, endangering a shaky ceasefire. ](/news/2016/05/1/houthi-rebels-capture-the-umaliqa-military-base-in-amran-governorate-endangering-a-shaky-ceasefire.md)
 _Context: 'Amran Governorate, Houthi, Yemeni Civil War_
@@ -40,13 +40,13 @@ MIAMI (AP) — Passengers set sail Sunday from Miami on an historic cruise to Cu
 Battered bodies of the two men were found in bushes in separate areas in rural Jamaica
 
 ### [Philippine general election, 2016 Jose Maria Sison, who is the leader of the guerrilla Communist Party of the Philippines, says that the presidency of Rodrigo Duterte is "good for national unity." ](/news/2016/05/1/philippine-general-election-2016-jose-maria-sison-who-is-the-leader-of-the-guerrilla-communist-party-of-the-philippines-says-that-the-pre.md)
-_Context: CPP–NPA–NDF rebellion, Communist Party of the Philippines, Jose Maria Sison, Philippine general election, 2016, Rodrigo Duterte_
+_Context: CPP-NPA-NDF rebellion, Communist Party of the Philippines, Jose Maria Sison, Philippine general election, 2016, Rodrigo Duterte_
 
 ### [Thousands  are set for May Day demonstrations across the United States   for immigrant and worker rights, and for civility in presidential campaign rhetoric. Organizers and authorities in California are urging participants to remain calm, given the violence this week connected with Presidential campaign protests. ](/news/2016/05/1/thousands-are-set-for-may-day-demonstrations-across-the-united-states-for-immigrant-and-worker-rights-and-for-civility-in-presidential-c.md)
 May Day march organizers are asking participants to remain peaceful while police say they&#39;re ready for whatever happens following violent protests at Donald Trump&#39;s California appearances.
 
 ### [Protesters demanding political reform leave Baghdad's Green Zone after camping for 24 hours in the heavily fortified government district. These activists, followers of Shi'ite Muslim cleric Muqtada al-Sadr, support Prime Minister Haider al-Abadi's  anti-corruption proposals to replace party-affiliated ministers with technocrats. A grid-locked parliament has been unable to act on these changes. ](/news/2016/05/1/protesters-demanding-political-reform-leave-baghdad-s-green-zone-after-camping-for-24-hours-in-the-heavily-fortified-government-district-th.md)
-_Context: 2015–16 Iraqi protests, Baghdad, Green Zone, Haider al-Abadi, Iraq Prime Minister, Iraqi Parliament, Muqtadā al-Ṣadr, Shi'ite, anti-corruption, cleric, technocrats_
+_Context: 2015-16 Iraqi protests, Baghdad, Green Zone, Haider al-Abadi, Iraq Prime Minister, Iraqi Parliament, Muqtada al-Sadr, Shi'ite, anti-corruption, cleric, technocrats_
 
 ### [Puerto Rico Governor Alejandro Garcia Padilla says the Commonwealth will default on a $422 million bond payment due Monday. Garcia Padilla says  debt payments have been suspended in order to pay for essential services  for the 3.5 million American citizens. Congress has been unable to pass a debt restructuring bill for Puerto Rico. ](/news/2016/05/1/puerto-rico-governor-alejandro-garcaa-padilla-says-the-commonwealth-will-default-on-a-422-million-bond-payment-due-monday-garcaa-padilla.md)
 After talks fail, governor announces Puerto Rico will not make nearly $370 million in bond payments due Monday

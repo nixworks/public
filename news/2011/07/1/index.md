@@ -58,7 +58,7 @@ Lord Hanningfield, the former Tory peer and Essex Council leader, is jailed for 
 The left-wing Venezuelan President, Hugo Chavez, says he is willing to open up his political project to the middle classes and private sector.
 
 ### [Canada celebrates the 144th anniversary of the enactment of its Constitution Act. ](/news/2011/07/1/canada-celebrates-the-144th-anniversary-of-the-enactment-of-its-constitution-act.md)
-_Context: Canadian, Constitution Act_
+_Context: Canada, Constitution Act_
 
 ### [The government of the U.S. state of Minnesota is to shut down as a result of a budget dispute between Democratic Governor Mark Dayton and the Republican Legislature. ](/news/2011/07/1/the-government-of-the-u-s-state-of-minnesota-is-to-shut-down-as-a-result-of-a-budget-dispute-between-democratic-governor-mark-dayton-and-th.md)
 Governor and lawmakers fail to reach deal.

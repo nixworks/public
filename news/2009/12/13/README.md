@@ -22,7 +22,7 @@ _Context: Chile, parliamentary, presidential election_
 _Context: Isabela City, Islam, Philippines_
 
 ### [ Chinese President Hu Jintao opens the Kazakhstan-China oil pipeline connecting central Asia to China. ](/news/2009/12/13/chinese-president-hu-jintao-opens-the-kazakhstanachina-oil-pipeline-connecting-central-asia-to-china.md)
-_Context: China's, Hu Jintao, Kazakhstan–China oil pipeline_
+_Context: China's, Hu Jintao, Kazakhstan-China oil pipeline_
 
 ### [ The Sarejevo-Belgrade rail link resumes between Bosnia and Herzegovina and Serbia after 18 years. ](/news/2009/12/13/the-sarejevo-belgrade-rail-link-resumes-between-bosnia-and-herzegovina-and-serbia-after-18-years.md)
 _Context: Belgrade, Bosnia and Herzegovina, Sarejevo, Serbia_

@@ -16,7 +16,7 @@ _Context: International Year of Astronomy, Paris, UNESCO, opening ceremony_
 _Context: Airbus A320, Hudson River, New York's, US Airways, US Airways Flight 1549, ditches_
 
 ### [ A sprinkler incident at a Toronto, Ontario, Canada hydro power station sparks a major power outage in a huge swath in the City's west end affecting more than 250,000 people. ](/news/2009/01/15/a-sprinkler-incident-at-a-toronto-ontario-canada-hydro-power-station-sparks-a-major-power-outage-in-a-huge-swath-in-the-city-s-west-end-a.md)
-_Context: Canadian, Toronto, Ontario_
+_Context: Canada, Toronto, Ontario_
 
 ### [ NASA announces that methane in Mars' atmosphere "could be produced either by geological activity or by life." ](/news/2009/01/15/nasa-announces-that-methane-in-mars-atmosphere-could-be-produced-either-by-geological-activity-or-by-life.md)
 _Context: Mars, Mars' atmosphere, NASA, geologists, methane_
@@ -37,7 +37,7 @@ _Context: Japan, late 2000s recession, machine orders_
 _Context: Hawaii, North Carolina, Wilmington, digital television, media market, state, switch from analog_
 
 ### [ Despite the corruption scandal surrounding Illinois Governor Rod Blagojevich, the United States Senate confirms Roland Burris as a member. ](/news/2009/01/15/despite-the-corruption-scandal-surrounding-illinois-governor-rod-blagojevich-the-united-states-senate-confirms-roland-burris-as-a-member.md)
-_Context: Governor of Illinois, Illinois, Rod Blagojevich, Roland Burris, Senator, corruption_
+_Context: Governor of Illinois, Illinois, Rod Blagojevich, Roland Burris, United States Senate, corruption_
 
 ## [Previous Day...](/news/2009/01/14/index.md)
 

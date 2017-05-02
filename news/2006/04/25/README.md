@@ -13,7 +13,7 @@ The United Nations Security Council has voted to impose sanctions on four citize
 The Philippines government has charged 49 people with rebellion over an alleged plot to overthrow President Gloria Arroyo in February.
 
 ### [ The Communist Party of Vietnam announces at the closing of the Tenth National Congress that Nong Duc Manh will be re-appointed as its general secretary for another five-year term. Other key positions, such as those of prime minister and president, are yet to be appointed. New faces are expected. ](/news/2006/04/25/the-communist-party-of-vietnam-announces-at-the-closing-of-the-tenth-national-congress-that-na-ng-aa-c-c-mao-nh-will-be-re-appointed-as-its.md)
-_Context: Communist Party, General Secretary, Nông Đức Mạnh, Tenth National Congress_
+_Context: Communist Party, General Secretary, Nong Duc Manh, Tenth National Congress_
 
 ### [ Darwin, Australia, is spared a projected direct hit by Cyclone Monica. ](/news/2006/04/25/darwin-australia-is-spared-a-projected-direct-hit-by-cyclone-monica.md)
 _Context: Cyclone Monica, Darwin_

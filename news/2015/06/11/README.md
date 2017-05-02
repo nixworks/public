@@ -1,7 +1,7 @@
 ## [2015-06-11](/news/2015/06/11/index.md)
 
 ### [A US citizen fighting alongside Kurdish People's Protection Units (YPG) against ISIL is killed in action near Kobani. ](/news/2015/06/11/a-us-citizen-fighting-alongside-kurdish-people-s-protection-units-ypg-against-isil-is-killed-in-action-near-kobani.md)
-_Context: ISIL, Kobanî, Military intervention against ISIL, YPG_
+_Context: ISIL, Koban, Military intervention against ISIL, YPG_
 
 ### [Al-Qaeda's affiliate in Syria, the Al-Nusra Front, shoots dead at least 20 Druze villagers in Idlib in what is being described as a "massacre". ](/news/2015/06/11/al-qaeda-s-affiliate-in-syria-the-al-nusra-front-shoots-dead-at-least-20-druze-villagers-in-idlib-in-what-is-being-described-as-a-massacr.md)
 Jabhat al-Nusra, al-Qaeda&#039;s Syria branch, shot dead at least 20 members of the minority sect in the north of the country, where it has reportedly forced hundreds to convert to Sunni Islam

@@ -19,7 +19,7 @@ _Context: Australian Greens, David Shoebridge, England, Julian Assange, Sweden, 
 _Context: Catholic Church, Church of England, Westminster Cathedral_
 
 ### [Rafael Ramirez, energy minister for Venezuela, a member of the Organization of Petroleum Exporting Countries, played down concern that rising oil prices may choke off the world's still-tentative recovery, and said there is no need of an emergency meeting of OPEC. ](/news/2011/01/15/rafael-ramarez-energy-minister-for-venezuela-a-member-of-the-organization-of-petroleum-exporting-countries-played-down-concern-that-risi.md)
-_Context: Organization of Petroleum Exporting Countries, Rafael Ramírez, Venezuela_
+_Context: Organization of Petroleum Exporting Countries, Rafael Ramirez, Venezuela_
 
 ### [Brazilian soldiers arrive in Teresopolis as the death toll from floods and mudslides during Brazil's deadliest disaster passes 600. ](/news/2011/01/15/brazilian-soldiers-arrive-in-teresa3polis-as-the-death-toll-from-floods-and-mudslides-during-brazil-s-deadliest-disaster-passes-600.md)
 Soldiers are deployed to help with the rescue and the identification of bodies in south-eastern Brazil, where at least 600 people have died in landslides and flooding.

@@ -40,7 +40,7 @@ Swansea reach the Capital One Cup final with a 2-0 aggregate win over Chelsea, w
 As the FA investigates the Chelsea star&#039;s kick, details emerge of the privileged &quot;hustler&quot; lifestyle of ballboy Charlie Morgan.
 
 ### [Ferencvarosi TC, football club from Hungary, wins 2013 Football Impact Cup in Marbella, Spain. ](/news/2013/01/23/ferencva-rosi-tc-football-club-from-hungary-wins-2013-football-impact-cup-in-marbella-spain.md)
-_Context: 2013 Football Impact Cup, Ferencvárosi TC, Hungary, Marbella, Spain, association football_
+_Context: 2013 Football Impact Cup, Ferencvarosi TC, Hungary, Marbella, Spain, association football_
 
 ## [Previous Day...](/news/2013/01/22/index.md)
 

@@ -28,7 +28,7 @@ _Context: Benyam Mohammed, Ethiopia, Guantanamo Bay detention camp, detainees, m
 _Context: Defence Ministry, North Korea, South Korea, U.S. military personnel, United States, ballistic missile, medium-range ballistic missile, military installations_
 
 ### [ India approves a 1.7-billion plan to launch its first astronauts into outer space by 2015. ](/news/2009/02/23/india-approves-a-ps1-7-billion-plan-to-launch-its-first-astronauts-into-outer-space-by-2015.md)
-_Context: India, astronaut, plan, space, £_
+_Context: India, PS, astronaut, plan, space_
 
 ## [Previous Day...](/news/2009/02/22/index.md)
 

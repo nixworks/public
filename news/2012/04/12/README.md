@@ -1,7 +1,7 @@
 ## [2012-04-12](/news/2012/04/12/index.md)
 
 ### [A ceasefire to military operations in the 2011-2012 Syrian uprising comes into effect. ](/news/2012/04/12/a-ceasefire-to-military-operations-in-the-2011a2012-syrian-uprising-comes-into-effect.md)
-_Context: 2011â€“2012 Syrian uprising_
+_Context: 2011-2012 Syrian uprising_
 
 ### [Agence France-Presse reports that the military of Guinea-Bissau have staged a coup against the civilian government. ](/news/2012/04/12/agence-france-presse-reports-that-the-military-of-guinea-bissau-have-staged-a-coup-against-the-civilian-government.md)
 _Context: AFP, Guinea-Bissau, which seized power_
@@ -37,7 +37,7 @@ Order was being restored Wednesday after thousands of people clashed with police
 _Context: Kim Jong-il, Kim Jong-un, North Korea, Politburo, Workers' Party of Korea_
 
 ### [Dioncounda Traore is sworn in as the interim President of Mali, marking a transition back to civilian rule following last month's coup. ](/news/2012/04/12/dioncounda-traore-is-sworn-in-as-the-interim-president-of-mali-marking-a-transition-back-to-civilian-rule-following-last-month-s-coup.md)
-_Context: Dioncounda Traoré, President of Mali_
+_Context: Dioncounda Traor, President of Mali_
 
 ## [Previous Day...](/news/2012/04/11/index.md)
 

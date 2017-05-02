@@ -37,7 +37,7 @@ Condemnations of the Pulsa Dinura death prayer against Prime Minister Sharon, co
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ In Mexico, court rules that there is insufficient evidence to try former president Luis Echeverra for genocide for a student massacre in 1971 ](/news/2005/07/26/in-mexico-court-rules-that-there-is-insufficient-evidence-to-try-former-president-luis-echeverria-for-genocide-for-a-student-massacre-in-1.md)
-_Context: Luis Echeverría, genocide_
+_Context: Luis Echeverra, genocide_
 
 ### [ In Israel, Omri Sharon, MP and son of Ariel Sharon, is indicted for involvement in illegal campaign contributions, perjury and forging documents. Omri Sharon states that he would give up his parliamentary immunity and stand trial ](/news/2005/07/26/in-israel-omri-sharon-mp-and-son-of-ariel-sharon-is-indicted-for-involvement-in-illegal-campaign-contributions-perjury-and-forging-docu.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

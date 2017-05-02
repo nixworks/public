@@ -1,13 +1,13 @@
 ## [2005-05-26](/news/2005/05/26/index.md)
 
 ### [ Elections in Suriname: Preliminary results show Suriname's ruling coalition survived an election challenge from former dictator Dsi Bouterse in this former Dutch colony. ](/news/2005/05/26/elections-in-suriname-preliminary-results-show-suriname-s-ruling-coalition-survived-an-election-challenge-from-former-dictator-desi-bouter.md)
-_Context: Dési Bouterse, Elections in Suriname, Suriname, dictator, former Dutch colony_
+_Context: Dsi Bouterse, Elections in Suriname, Suriname, dictator, former Dutch colony_
 
 ### [ Conflict in Iraq: Two US Soldiers are killed as a helicopter is shot down near Baquba, North of Baghdad. ](/news/2005/05/26/conflict-in-iraq-two-us-soldiers-are-killed-as-a-helicopter-is-shot-down-near-baquba-north-of-baghdad.md)
 _Context: Baghdad, Baquba, Conflict in Iraq, US soldiers, helicopter_
 
 ### [ A coalition of citizen groups will ask United States Congress to file a formal "Resolution of Inquiry", the first necessary legal step to determine whether U.S. President George W. Bush has committed impeachable offenses. The request, written by Boston constitutional attorney John C. Bonifaz, cites the Downing Street memo and issues surrounding the planning and execution of the Iraq war. ](/news/2005/05/26/a-coalition-of-citizen-groups-will-ask-united-states-congress-to-file-a-formal-resolution-of-inquiry-the-first-necessary-legal-step-to-d.md)
-_Context: 2003 invasion of Iraq, Downing Street memo, George W. Bush, John C. Bonifaz, U.S. Congress, United States, impeach, president_
+_Context: 2003 invasion of Iraq, Downing Street memo, George W. Bush, John C. Bonifaz, U.S. Congressional, United States, impeach, president_
 
 ### [ The South African Geographical Names Council unanimously approves a recommendation to change the name of the country's executive capital Pretoria to Tshwane. ](/news/2005/05/26/the-south-african-geographical-names-council-unanimously-approves-a-recommendation-to-change-the-name-of-the-country-s-executive-capital-pr.md)
 _Context: Geographical Names Council, Pretoria, South Africa, Tshwane, capital, executive_

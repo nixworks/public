@@ -1,10 +1,10 @@
 ## [2017-03-10](/news/2017/03/10/index.md)
 
 ### [A Saudi-led coalition airstrike on a market in Al Hudaydah Governorate, Yemen, kills at least 20 civilians and six Houthi militants. ](/news/2017/03/10/a-saudi-led-coalition-airstrike-on-a-market-in-al-hudaydah-governorate-yemen-kills-at-least-20-civilians-and-six-houthi-militants.md)
-_Context: Al Hudaydah Governorate, Houthi, Saudi-led coalition, Yemen, Yemeni Civil War (2015–present)_
+_Context: Al Hudaydah Governorate, Houthi, Saudi-led coalition, Yemen, Yemeni Civil War (2015-present)_
 
 ### [A helicopter crashes in Istanbul's Buyukcekmece district, killing at least seven people. ](/news/2017/03/10/a-helicopter-crashes-in-istanbul-s-ba1-4ya1-4kassekmece-district-killing-at-least-seven-people.md)
-_Context: Büyükçekmece, Istanbul_
+_Context: Buyukcekmece, Istanbul_
 
 ### [The death toll at the fire at an orphanage in San Jose Pinula, Guatemala, rises to at least 35 children. ](/news/2017/03/10/the-death-toll-at-the-fire-at-an-orphanage-in-san-josa-c-pinula-guatemala-rises-to-at-least-35-children.md)
 RA fire that raged in a home for abused children in Guatemala killed at least 35 people, mostly girls, and doctors on Thursday described their shock at the severity of the burns suffered by two dozen more hospitalized victims.

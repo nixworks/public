@@ -79,7 +79,7 @@ A man is arrested in Mexico trying to smuggle 18 monkeys into the country by hid
 _Context: Egypt, Egyptian presidential election in September, Hosni Mubarak, pancreatic cancer, stomach_
 
 ### [Dsi Bouterse is elected President of Suriname by parliament. ](/news/2010/07/19/desi-bouterse-is-elected-president-of-suriname-by-parliament.md)
-_Context: Dési Bouterse, President of Suriname_
+_Context: Dsi Bouterse, President of Suriname_
 
 ### [The United Nations Economic and Social Council grants the International Gay and Lesbian Human Rights Commission consultative status after a vote of 23 for, 13 against, 13 abstentions, and 5 absent. ](/news/2010/07/19/the-united-nations-economic-and-social-council-grants-the-international-gay-and-lesbian-human-rights-commission-consultative-status-after-a.md)
 &quot;Today&#039;s decision is an affirmation that the voices of lesbian, gay, bisexual and transgender people have a place at the United Nations as part of a vital civil society community,&quot; said Cary Alan Johnson, IGLHRC executive director.
@@ -96,7 +96,7 @@ Papua New Guinea&#039;s government is facing another threat to its survival, thi
 ### [Queensland fossil hunters discover a cave of 15-million-year-old prehistoric marsupials. ](/news/2010/07/19/queensland-fossil-hunters-discover-a-cave-of-15-million-year-old-prehistoric-marsupials.md)
 Fossil hunters in Australia have discovered a cave filled with the 15-million-year-old remains of prehistoric marsupials.
 
-### [Farnborough Airshow, Hampshire, England:An anti-aircraft laser is unveiled, a first for naval warfare. ](/news/2010/07/19/farnborough-airshow-hampshire-england-pan-anti-aircraft-laser-is-unveiled-a-first-for-naval-warfare.md)
+### [Farnborough Airshow, An anti-aircraft laser is unveiled, a first for naval warfare. ](/news/2010/07/19/farnborough-airshow-an-anti-aircraft-laser-is-unveiled-a-first-for-naval-warfare.md)
 US defence firm Raytheon unveils a solid state, anti-aircraft laser system at the Farnborough Airshow in Hampshire.
 
 ## [Previous Day...](/news/2010/07/18/index.md)

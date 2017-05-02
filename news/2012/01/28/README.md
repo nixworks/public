@@ -1,7 +1,7 @@
 ## [2012-01-28](/news/2012/01/28/index.md)
 
 ### [2011-2012 Syrian uprising: The Arab League suspends its observer mission, citing increased violence. ](/news/2012/01/28/2011a2012-syrian-uprising-the-arab-league-suspends-its-observer-mission-citing-increased-violence.md)
-_Context: 2011–2012 Syrian uprising, Arab League_
+_Context: 2011-2012 Syrian uprising, Arab League_
 
 ### [Fires rage through Dakar after Senegal's top court rules that President Abdoulaye Wade can run for a third term in office next month and prevents his best-known opponent, Grammy Award-winning musician Youssou N'Dour, from running against him. ](/news/2012/01/28/fires-rage-through-dakar-after-senegal-s-top-court-rules-that-president-abdoulaye-wade-can-run-for-a-third-term-in-office-next-month-and-pre.md)
 _Context: Abdoulaye Wade, Dakar, Grammy Award, Senegal, Youssou N'Dour_
@@ -21,7 +21,7 @@ The African Union inaugurates its newly built Chinese-funded headquarters in the
 ### [A German government plan is leaked proposing a eurozone "budget commissioner" to take control of Greece's economic affairs. ](/news/2012/01/28/a-german-government-plan-is-leaked-proposing-a-eurozone-budget-commissioner-to-take-control-of-greece-s-economic-affairs.md)
 _Context: Eurozone, Greece_
 
-### [A police officer and four journalists associated with British tabloid ''The Sun'' are arrested in relation to the News International phone hacking scandal, by detectives investigating payments made to police by journalists. The BBC understands the four journalists are ex-deputy editor Fergus Shanahan, ex-managing editor Graham Dudman, crime editor Mike Sullivan{{dn|date=November 2012}} and head of news Chris Pharo. ](/news/2012/01/28/a-police-officer-and-four-journalists-associated-with-british-tabloid-the-sun-are-arrested-in-relation-to-the-news-international-phone-h.md)
+### [A police officer and four journalists associated with British tabloid ''The Sun'' are arrested in relation to the News International phone hacking scandal, by detectives investigating payments made to police by journalists. The BBC understands the four journalists are ex-deputy editor Fergus Shanahan, ex-managing editor Graham Dudman, crime editor Mike Sullivandate=November 2012 and head of news Chris Pharo. ](/news/2012/01/28/a-police-officer-and-four-journalists-associated-with-british-tabloid-the-sun-are-arrested-in-relation-to-the-news-international-phone-h.md)
 Four current and former Sun journalists and a police officer are bailed by detectives investigating alleged corrupt payments.
 
 ### [Eight sea lions are found shot dead in the U.S. state of Washington. ](/news/2012/01/28/eight-sea-lions-are-found-shot-dead-in-the-u-s-state-of-washington.md)

@@ -22,7 +22,7 @@ Flights to Saudi Arabia suspended after hundreds of Nigerian women were deported
 The official Xinhua News translation of a Communist Party statement expelling disgraced Chinese Politburo member Bo Xilai.
 
 ### [Social Democratic Party of Germany president Sigmar Gabriel proposes Peer Steinbrck as the party's Chancellor candidate for the next German federal election to be held in 2013. ](/news/2012/09/28/social-democratic-party-of-germany-president-sigmar-gabriel-proposes-peer-steinbruck-as-the-party-s-chancellor-candidate-for-the-next-german.md)
-_Context: Chancellor, Peer Steinbrück, Sigmar Gabriel, Social Democratic Party of Germany, next German federal election_
+_Context: Chancellor, Peer Steinbrck, Sigmar Gabriel, Social Democratic Party of Germany, next German federal election_
 
 ## [Previous Day...](/news/2012/09/27/index.md)
 

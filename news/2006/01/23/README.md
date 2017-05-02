@@ -13,7 +13,7 @@ _Context: Akhenaten, Amenhotep&nbsp;III, Johns Hopkins University, Karnak, Phara
 _Context: Kuwait, Sheikh Saad Al-Abdullah Al-Salim Al-Sabah, emir_
 
 ### [ After its brakes fail, a train crashes near Bioce, a village nine miles northeast of Podgorica in Montenegro, killing at least 39 and injuring more than 130 people, in the country's worst train disaster. ](/news/2006/01/23/after-its-brakes-fail-a-train-crashes-near-bioae-a-village-nine-miles-northeast-of-podgorica-in-montenegro-killing-at-least-39-and-inju.md)
-_Context: Bioče, Montenegro, Podgorica, worst train disaster_
+_Context: Bioce, Montenegro, Podgorica, worst train disaster_
 
 ### [ Another case of mad cow disease has been confirmed in Canada but officials do not expect international borders to close to Canadian beef as a result. ](/news/2006/01/23/another-case-of-mad-cow-disease-has-been-confirmed-in-canada-but-officials-do-not-expect-international-borders-to-close-to-canadian-beef-as.md)
 _Context: mad cow disease_

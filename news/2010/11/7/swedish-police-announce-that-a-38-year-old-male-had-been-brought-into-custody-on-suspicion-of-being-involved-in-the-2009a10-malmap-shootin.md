@@ -12,4 +12,4 @@ A man is arrested in the Swedish city of Malmo over a series of gun attacks over
 
 ### Related:
 
-1. [Swedish police say they do not have a suspect for the serial shooting of 15 immigrants in Malmo. ](/news/2010/10/24/swedish-police-say-they-do-not-have-a-suspect-for-the-serial-shooting-of-15-immigrants-in-malmap.md) _Context: 2009–10 Malmö shootings_
+1. [Swedish police say they do not have a suspect for the serial shooting of 15 immigrants in Malmo. ](/news/2010/10/24/swedish-police-say-they-do-not-have-a-suspect-for-the-serial-shooting-of-15-immigrants-in-malmap.md) _Context: 2009-10 Malmo shootings_

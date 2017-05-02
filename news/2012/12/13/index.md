@@ -46,7 +46,7 @@ _Context: Alabama, Birmingham, Hugo Black_
 Avigdor Lieberman charged with fraud and breach of trust but cleared of more serious offences, including bribery.
 
 ### [Former Bosnian intelligence chief Zdravko Tolimir, believed to be a top aide to Ratko Mladic, is sentenced to life imprisonment by ICTY for his role in the Srebrenica massacre. ](/news/2012/12/13/former-bosnian-intelligence-chief-zdravko-tolimir-believed-to-be-a-top-aide-to-ratko-mladia-is-sentenced-to-life-imprisonment-by-icty-for.md)
-_Context: Bosnia, International Criminal Tribunal for the former Yugoslavia, Ratko Mladić, Srebrenica massacre, Zdravko Tolimir, life imprisonment_
+_Context: Bosnia, International Criminal Tribunal for the former Yugoslavia, Ratko Mladic, Srebrenica massacre, Zdravko Tolimir, life imprisonment_
 
 ### [U.S. Ambassador to the United Nations Susan Rice withdraws her name from consideration to be nominated U.S. Secretary of State, following increasing opposition to her nomination by Republican members of the Senate. ](/news/2012/12/13/u-s-ambassador-to-the-united-nations-susan-rice-withdraws-her-name-from-consideration-to-be-nominated-u-s-secretary-of-state-following-in.md)
 Susan Rice has withdrawn her name for consideration to be nominated for secretary of state.

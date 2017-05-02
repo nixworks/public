@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Lithuanian presidential election, 2014:Voters in Lithuania go to the polls with incumbent Dalia Grybauskaite winning re-election in the second round. ](/news/2014/05/25/lithuanian-presidential-election-2014-pvoters-in-lithuania-go-to-the-polls-with-incumbent-dalia-grybauskaita-winning-re-election-in-the-se.md) _Context: Dalia Grybauskaitė, Lithuania_
+1. [Lithuanian presidential election, 2014:Voters in Lithuania go to the polls with incumbent Dalia Grybauskaite winning re-election in the second round. ](/news/2014/05/25/lithuanian-presidential-election-2014-pvoters-in-lithuania-go-to-the-polls-with-incumbent-dalia-grybauskaita-winning-re-election-in-the-se.md) _Context: Dalia Grybauskaite, Lithuania_
 2. [The first President of an independent Lithuania, Algirdas Brazauskas, dies in Vilnius. ](/news/2010/06/27/the-first-president-of-an-independent-lithuania-algirdas-brazauskas-dies-in-vilnius.md) _Context: Lithuania, President_
 3. [Russia deploys its S-400 missile system in Kaliningrad, an exclave between Poland and Lithuania, in response to "NATO expansion" near its borders. The United States criticizes the move as "destabilizing" to Europe. Russia announced the planned deployment over a decade ago. ](/news/2016/11/21/russia-deploys-its-s-400-missile-system-in-kaliningrad-an-exclave-between-poland-and-lithuania-in-response-to-nato-expansion-near-its-bo.md) _Context: Lithuania_
 4. [Voters in Lithuania vote to elect representatives for the 141-seat parliament. ](/news/2016/10/9/voters-in-lithuania-vote-to-elect-representatives-for-the-141-seat-parliament.md) _Context: Lithuania_

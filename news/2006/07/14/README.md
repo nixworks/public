@@ -10,7 +10,7 @@ Also, a man claiming to represent Al Qaeda said they set up a Kashmir cell, and 
 _Context: Bosnian Serb, International Criminal Tribunal for the former Yugoslavia, Srebrenica massacre, The Hague, crimes against humanity, genocide_
 
 ### [ Jaroslaw Kaczynski is sworn-in as the new Prime Minister of Poland by the President, Lech Kaczynski, his twin brother.](/news/2006/07/14/jarosaaw-kaczyaski-is-sworn-in-as-the-new-prime-minister-of-poland-by-the-president-lech-kaczyaski-his-twin-brother.md)
-_Context: Jarosław Kaczyński, Lech Kaczyński, Prime Minister_
+_Context: Jaroslaw Kaczynski, Lech Kaczynski, Prime Minister_
 
 ### [ 2006 Israel-Lebanon crisis: US President George W. Bush has said he will urge Israel to avoid civilian casualties in its attacks on Lebanon, but he's "not going to make military decisions for Israel". ](/news/2006/07/14/2006-israel-lebanon-crisis-p-us-president-george-w-bush-has-said-he-will-urge-israel-to-avoid-civilian-casualties-in-its-attacks-on-lebano.md)
 (VIDEO) Body of one of four sailors who went missing during Friday’s Hizbullah attack on Israeli Navy ship operating off Beirut shore recovered by IDF forces; search for remaining three sailors continues, damaged vessel being towed back to Israeli territorial waters. IDF: Missile that hit ship Iranian-made 

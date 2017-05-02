@@ -4,7 +4,7 @@
 _Context: Michael Stone, Northern Ireland, Stormont, loyalist_
 
 ### [ Rwanda breaks off diplomatic relations with France after a French judge, Jean-Louis Bruguire, issues warrants for the arrest of President of Rwanda Paul Kagame and nine associates for their alleged involvement in the shooting down of a plane carrying former President Juvenal Habyarimana. The incident sparked the Rwandan Genocide in 1994. ](/news/2006/11/24/rwanda-breaks-off-diplomatic-relations-with-france-after-a-french-judge-jean-louis-bruguiere-issues-warrants-for-the-arrest-of-president.md)
-_Context: France, Jean-Louis Bruguière, Juvénal Habyarimana, Paul Kagame, President, Rwanda, Rwandan Genocide, warrant_
+_Context: France, Jean-Louis Bruguire, Juvnal Habyarimana, Paul Kagame, President, Rwanda, Rwandan Genocide, warrant_
 
 ### [ Israeli-Palestinian conflict: Israel and Palestinians have agreed to a ceasefire.](/news/2006/11/24/israeli-palestinian-conflict-israel-and-palestinians-have-agreed-to-a-ceasefire.md)
 _Context: Israel, Israeli-Palestinian conflict, Palestinian_

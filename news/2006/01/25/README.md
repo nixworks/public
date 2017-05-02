@@ -21,7 +21,7 @@ _Context: Ryanair, commercial air traffic, low-cost carrier_
 ### [ Uzbekistan joins the Eurasian Economic Community. ](/news/2006/01/25/uzbekistan-joins-the-eurasian-economic-community.md)
 _Context: Eurasian Economic Community, Uzbekistan_
 
-### [ ''Deus caritas est'' ({{lang-la|God is love}}), the first encyclical of Pope Benedict&nbsp;XVI, is published ](/news/2006/01/25/deus-caritas-est-lang-la-god-is-love-the-first-encyclical-of-pope-benedict-nbsp-xvi-is-published.md)
+### [ ''Deus caritas est'' (God is love), the first encyclical of Pope Benedict&nbsp;XVI, is published ](/news/2006/01/25/deus-caritas-est-god-is-love-the-first-encyclical-of-pope-benedict-nbsp-xvi-is-published.md)
 _Context: Deus caritas est, Pope Benedict&nbsp;XVI, encyclical_
 
 ### [ 2006 Palestinian elections: Palestinians prepare for the first elections to the  PLC in ten years. ](/news/2006/01/25/2006-palestinian-elections-palestinians-prepare-for-the-first-elections-to-the-plc-in-ten-years.md)

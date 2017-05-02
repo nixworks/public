@@ -4,7 +4,7 @@
 New Zealand launched its first commercially available biofuel Wednesday. The fuel is made up of 90 percent petrol and 10 percent bioethanol made from cows’ milk.
 
 ### [ The President of the United States George W. Bush orders senior adviser Karl Rove not to testify before a United States Senate committee on the Dismissal of U.S. attorneys controversy. ](/news/2007/08/1/the-president-of-the-united-states-george-w-bush-orders-senior-adviser-karl-rove-not-to-testify-before-a-united-states-senate-committee-on.md)
-_Context: George W. Bush, Karl Rove, Senator, firings, president_
+_Context: George W. Bush, Karl Rove, United States Senate, firings, president_
 
 ### [ The Bombay Stock Exchange Sensex lost 615 points in a single day becoming the third biggest such crash in its history.](/news/2007/08/1/the-bombay-stock-exchange-sensex-lost-615-points-in-a-single-day-becoming-the-third-biggest-such-crash-in-its-history.md)
 _Context: Bombay Stock Exchange, Sensex_
@@ -40,7 +40,7 @@ _Context: $456 million energy debt, August 3, Belarus, Gazprom_
 _Context: North Waziristan, Pakistan_
 
 ### [ The United Kingdom Office of Fair Trading levies a fine of PS121.5 million on British Airways for price collusion over long distance passenger fuel surcharges. British Airways and Korean Air later plead guilty to conspiracies to fix the price of passenger and cargo fees in the United States with fines of $300 million each being levied. ](/news/2007/08/1/the-united-kingdom-office-of-fair-trading-levies-a-fine-of-aps121-5-million-on-british-airways-for-price-collusion-over-long-distance-passen.md)
-_Context: British Airways, Korean Air, Office of Fair Trading, U.S. dollar, United Kingdom, United States, £_
+_Context: British Airways, Korean Air, Office of Fair Trading, PS, U.S. dollar, United Kingdom, United States_
 
 ### [ Sudan pledges support for UNAMID, a joint United Nations and African  Union peacekeeping force in Darfur. ](/news/2007/08/1/sudan-pledges-support-for-unamid-a-joint-united-nations-and-african-union-peacekeeping-force-in-darfur.md)
 _Context: African Union, Darfur, Sudan, UNAMID, United Nations, peacekeepers_
@@ -52,7 +52,7 @@ Authorities in China say rescuers have pulled out 69 coal miners alive, ending a
 The House of Representatives passed a resolution Monday that recommends the lifting of restrictions on Taiwan’s president and other high-level officials visiting the United States.
 
 ### [ The Prime Minister of Spain Jose Luis Rodriguez Zapatero visits the Canary Islands to inspect the damage caused by five days of fires on the islands of Gran Canaria and Tenerife. ](/news/2007/08/1/the-prime-minister-of-spain-josa-c-luis-rodraguez-zapatero-visits-the-canary-islands-to-inspect-the-damage-caused-by-five-days-of-fires-on.md)
-_Context: Canary Islands', Gran Canaria, José Luis Rodríguez Zapatero, Prime Minister, Tenerife, fire_
+_Context: Canary Islands', Gran Canaria, Jose Luis Rodriguez Zapatero, Prime Minister, Tenerife, fire_
 
 ### [ Norihiko Akagi resigns as Japan's agriculture minister after scandals involving him adversely affected the Liberal Democratic Party's performance in the Japanese House of Councillors election, 2007. ](/news/2007/08/1/norihiko-akagi-resigns-as-japan-s-agriculture-minister-after-scandals-involving-him-adversely-affected-the-liberal-democratic-party-s-perfo.md)
 _Context: Japan, Japanese House of Councillors election, 2007, Liberal Democratic Party, Norihiko Akagi, agriculture_

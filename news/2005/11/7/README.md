@@ -10,7 +10,7 @@ _Context: US$, United Nations, West Africa, cholera_
 _Context: India, Indian National Congress, Iraq, K. Natwar Singh, oil-for-food programme_
 
 ### [ Canadian New Democratic Party leader Jack Layton withdraws his support to the minority government of Prime Minister Paul Martin. This decision might set a confidence vote in the next week. ](/news/2005/11/7/canadian-new-democratic-party-leader-jack-layton-withdraws-his-support-to-the-minority-government-of-prime-minister-paul-martin-this-decis.md)
-_Context: Canadian, Jack Layton, New Democratic Party, Paul Martin_
+_Context: Canada, Jack Layton, New Democratic Party, Paul Martin_
 
 ### [ China closes all Beijing poultry markets. Authorities ordered all live poultry markets in China's capital to close immediately and went door-to-door seizing chickens and ducks from private homes, as the government dramatically ramped up its fight against avian influenza today. ](/news/2005/11/7/china-closes-all-beijing-poultry-markets-authorities-ordered-all-live-poultry-markets-in-china-s-capital-to-close-immediately-and-went-doo.md)
 _Context: Avian flu virus, Beijing, China's, poultry_

@@ -28,7 +28,7 @@ _Context: Beijing, Beijing Olympiad, Bernard Kouchner, Chinese, European Union, 
 _Context: Dutch, Eindhoven, European Swimming Championships, relay_
 
 ### [ Sweden's Supreme Court rules in favor of late film director Vilgot Sjoman who had sued a TV channel for copyright infringement after it ran three commercial breaks during the director's film. ](/news/2008/03/18/swedenas-supreme-court-rules-in-favor-of-late-film-director-vilgot-sjapman-who-had-sued-a-tv-channel-for-copyright-infringement-after-it.md)
-_Context: Supreme Court, Sweden, TV channel, Vilgot Sjöman, advertising, copyright infringement_
+_Context: Supreme Court, Sweden, TV channel, Vilgot Sjoman, advertising, copyright infringement_
 
 ## [Previous Day...](/news/2008/03/17/index.md)
 

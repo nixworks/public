@@ -4,7 +4,7 @@
 Coordinated blasts killed at least 25 people in the heart of Baghdad on Thursday near the heavily fortified Green Zone, where several Western embassies are located, police and medics said.
 
 ### [Mexican Drug War:Gunmen storm a bar in Cancun, Mexico, and kill 7 people, also 4 others were wounded in the attack. The authorities allege that the victims were part of a taxi union. ](/news/2013/03/14/mexican-drug-war-pgunmen-storm-a-bar-in-cancaon-mexico-and-kill-7-people-also-4-others-were-wounded-in-the-attack-the-authorities-allege.md)
-_Context: Cancún, Mexican Drug War, Mexico_
+_Context: Cancun, Mexican Drug War, Mexico_
 
 ### [Former Khmer Rouge senior official and Foreign Minister of Kampuchea Ieng Sary dies during a genocide trial in Phnom Penh, Cambodia. ](/news/2013/03/14/former-khmer-rouge-senior-official-and-foreign-minister-of-kampuchea-ieng-sary-dies-during-a-genocide-trial-in-phnom-penh-cambodia.md)
 _Context: Cambodia, Ieng Sary, Kampuchea, Khmer Rouge, Phnom Penh, genocide_
@@ -31,7 +31,7 @@ Labour suspends Lord Ahmed while it investigates reports he blamed his imprisonm
 Scientists at the Large Hadron Collider say the particle outlined in July 2012 looks increasingly to be a Higgs boson.
 
 ### [The second legs of the 2012-13 UEFA Europa League round of 16 are held across Europe. Emmanuel Adebayor's extra-time goal earns Tottenham Hotspur a place in the quarter-finals after their loss 1-4 to Inter Milan. ](/news/2013/03/14/the-second-legs-of-the-2012a13-uefa-europa-league-round-of-16-are-held-across-europe-emmanuel-adebayor-s-extra-time-goal-earns-tottenham.md)
-_Context: 2012–13 UEFA Europa League, Emmanuel Adebayor, Europe, Inter Milan, Tottenham Hotspur F.C., extra-time, quarter-finals_
+_Context: 2012-13 UEFA Europa League, Emmanuel Adebayor, Europe, Inter Milan, Tottenham Hotspur F.C., extra-time, quarter-finals_
 
 ### [The National Hockey League officially announces it will realign into a four-division structure and a modified division-based playoff system starting next season after the league's board of governors approves. The league's players association had previously given their approval as well. ](/news/2013/03/14/the-national-hockey-league-officially-announces-it-will-realign-into-a-four-division-structure-and-a-modified-division-based-playoff-system.md)
 NHL owners have made it official: The Detroit Red Wings and Columbus Blue Jackets are heading east, as realignment was approved.

@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ Golfer Pdraig Harrington of Ireland wins his second successive Open Championship (British Open). ](/news/2008/07/20/golfer-padraig-harrington-of-ireland-wins-his-second-successive-open-championship-british-open.md) _Context: Open Championship (British Open), Pádraig Harrington, golf_
+1. [ Golfer Pdraig Harrington of Ireland wins his second successive Open Championship (British Open). ](/news/2008/07/20/golfer-padraig-harrington-of-ireland-wins-his-second-successive-open-championship-british-open.md) _Context: Open Championship (British Open), Pdraig Harrington, golf_
 2. [Avian flu virus H5N8 outbreaks are reported in birds in India, Germany, Finland, Ireland, the Netherlands, and  several other European nations. The World Health Organization advised on 17 November that human infection is possible, but unlikely, based on information available. ](/news/2016/11/26/avian-flu-virus-h5n8-outbreaks-are-reported-in-birds-in-india-germany-finland-ireland-the-netherlands-and-several-other-european-natio.md) _Context: Ireland_
 3. [Taoiseach Enda Kenny says that Irish unity must be considered in Brexit talks. ](/news/2016/09/9/taoiseach-enda-kenny-says-that-irish-unity-must-be-considered-in-brexit-talks.md) _Context: Ireland_
 4. [ Jim Furyk becomes the first golfer to shoot a round of 58 in an official PGA Tour event, doing so in the final round of the Travelers Championship. ](/news/2016/08/7/jim-furyk-becomes-the-first-golfer-to-shoot-a-round-of-58-in-an-official-pga-tour-event-doing-so-in-the-final-round-of-the-travelers-champ.md) _Context: golf_

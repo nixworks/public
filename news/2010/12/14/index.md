@@ -28,7 +28,7 @@ Kathmandu, Dec 14 (IANS) The shadow of arrest and criminal charges darkened over
 MANILA, Philippines (4th UPDATE) - Hubert Webb and 5 others accused in the Vizconde massacre case were released from prison on Tuesday after the Supreme Court acquitted them.
 
 ### [Julian Assange is to be released on bail of PS240,000 GBP. ](/news/2010/12/14/julian-assange-is-to-be-released-on-bail-of-aps240-000-gbp.md)
-_Context: Julian Assange, £_
+_Context: Julian Assange, PS_
 
 ### [At least 30 Sudanese women are arrested after holding a protest march over a video that allegedly shows a policeman whipping a woman. ](/news/2010/12/14/at-least-30-sudanese-women-are-arrested-after-holding-a-protest-march-over-a-video-that-allegedly-shows-a-policeman-whipping-a-woman.md)
 A group of Sudanese women are arrested for holding a protest march over a video which allegedly shows two policemen whipping a woman.

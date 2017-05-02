@@ -16,7 +16,7 @@ The Palestinian Authority calls on President Obama to end tax breaks on US donat
 UNDP regional centre in Colombo shut following days of angry protests over war-crimes probe.
 
 ### [Cuban dissident Guillermo Farinas ends a 134 day hunger strike after the Cuban government is to release 52 political prisoners. ](/news/2010/07/8/cuban-dissident-guillermo-faria-as-ends-a-134-day-hunger-strike-after-the-cuban-government-is-to-release-52-political-prisoners.md)
-_Context: Cuba, Guillermo Fariñas, hunger strike, political prisoner_
+_Context: Cuba, Guillermo Farinas, hunger strike, political prisoner_
 
 ### [CNN's veteran Middle East editor Octavia Nasr writes on Twitter that she "respected" the recently deceased Lebanese Grand Ayatollah Mohammad Hussein Fadlallah. The comment is deleted from Twitter and Nasr is promptly sacked by CNN. ](/news/2010/07/8/cnn-s-veteran-middle-east-editor-octavia-nasr-writes-on-twitter-that-she-respected-the-recently-deceased-lebanese-grand-ayatollah-mohammad.md)
 CNN sacks an editor who wrote on Twitter that she &quot;respected&quot; a late Lebanese cleric said to have inspired Hezbollah.
@@ -25,10 +25,10 @@ CNN sacks an editor who wrote on Twitter that she &quot;respected&quot; a late L
 _Context: Amnesty International, Gaza Strip, Israel, Israeli blockade, consumer goods_
 
 ### [David Lloyd Johnston, president of the University of Waterloo, is announced as Canada's next  Governor General. He will succeed Michaelle Jean in September. ](/news/2010/07/8/david-lloyd-johnston-president-of-the-university-of-waterloo-is-announced-as-canada-s-next-governor-general-he-will-succeed-michaa-lle-j.md)
-_Context: Canadian, David Lloyd Johnston, Governor General, Michaëlle Jean, University of Waterloo_
+_Context: Canada, David Lloyd Johnston, Governor General, Michaelle Jean, University of Waterloo_
 
 ### [United States Republican Party Chairman Michael Steele again resist calls for him to step down after he asserted that the War in Afghanistan was a "war of Obama's choosing". ](/news/2010/07/8/united-states-republican-party-chairman-michael-steele-again-resist-calls-for-him-to-step-down-after-he-asserted-that-the-war-in-afghanistan.md)
-_Context: Michael Steele, Republican, United States, War in Afghanistan (2001–present)_
+_Context: Michael Steele, Republican, United States, War in Afghanistan (2001-present)_
 
 ### [US federal judge Joseph Louis Tauro, in two separate cases,  rules that a federal ban against gay marriage is unconstitutional, as it interferes with a state's right to define marriage. ](/news/2010/07/8/us-federal-judge-joseph-louis-tauro-in-two-separate-cases-rules-that-a-federal-ban-against-gay-marriage-is-unconstitutional-as-it-interf.md)
 A U.S. judge in Boston has ruled that a federal gay marriage ban is unconstitutional because it interferes with the right of a state to define marriage.
@@ -85,7 +85,7 @@ Researchers have discovered two previously unknown species of bottom-dwelling fi
 NBA superstar LeBron James has announced he will play for Miami Heat next season, making official the most high-profile move in American basketball history.
 
 ### [Two people are gored and five injured during the Running of the Bulls at the San Fermin festival in Spain. ](/news/2010/07/8/two-people-are-gored-and-five-injured-during-the-running-of-the-bulls-at-the-san-ferman-festival-in-spain.md)
-_Context: Running of the Bulls, San Fermín, Spain_
+_Context: Running of the Bulls, San Fermin, Spain_
 
 ## [Previous Day...](/news/2010/07/7/index.md)
 

@@ -22,7 +22,7 @@ _Context: Ivory Coast, Laurent Gbagbo, military_
 _Context: Moscow, Russia, Russian, Vladimir Putin_
 
 ### [A parliamentary election takes place in Kosovo, with exit polls indicating that Prime Minister Hashim Thai has won the vote. ](/news/2010/12/12/a-parliamentary-election-takes-place-in-kosovo-with-exit-polls-indicating-that-prime-minister-hashim-thaci-has-won-the-vote.md)
-_Context: Hashim Thaçi, Kosovan parliamentary election, Kosovo_
+_Context: Hashim Thai, Kosovan parliamentary election, Kosovo_
 
 ### [One person is killed in clashes between demonstrating garment workers demanding higher pay, and police in Bangladesh. ](/news/2010/12/12/one-person-is-killed-in-clashes-between-demonstrating-garment-workers-demanding-higher-pay-and-police-in-bangladesh.md)
 At least three people are dead and dozens more injured in Bangladesh after protesting garment workers clashed with police. 

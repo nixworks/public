@@ -10,7 +10,7 @@ Israeli forces shot dead two Palestinians during a stone-throwing protest on Thu
 Two people were killed and 21 were wounded in an attack early Thursday on an anti-government protest camp in Bangkok, medical officials and police told AFP, taking the death toll during six months of rallies to 27.
 
 ### [A group named Turkestan Islamic Party claims the responsibility for the attack on Urumqi Railway Station in China. ](/news/2014/05/15/a-group-named-turkestan-islamic-party-claims-the-responsibility-for-the-attack-on-ara1-4mqi-railway-station-in-china.md)
-_Context: Turkestan Islamic Party, the attack, Ürümqi Railway Station_
+_Context: Turkestan Islamic Party, Urumqi Railway Station, the attack_
 
 ### [National September 11 Memorial & Museum:First Family Barack and Michelle Obama and numerous political figures visit and dedicate the memorial with the victims on Ground Zero. ](/news/2014/05/15/national-september-11-memorial-museum-pfirst-family-barack-and-michelle-obama-and-numerous-political-figures-visit-and-dedicate-the-memori.md)
 President Barack Obama will join 9/11 survivors, rescuers and family members of victims to dedicate the National September 11 Memorial Museum in New York City Thursday.

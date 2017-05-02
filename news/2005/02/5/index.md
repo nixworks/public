@@ -7,7 +7,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: Bareilly, India, uranium_
 
 ### [ President Gnassingb Eyadma of Togo dies of a heart attack at the age of 68 and is succeeded by his son Faure Gnassingb. ](/news/2005/02/5/president-gnassingbe-eyadema-of-togo-dies-of-a-heart-attack-at-the-age-of-68-and-is-succeeded-by-his-son-faure-gnassingbe.md)
-_Context: Faure Gnassingbé, Gnassingbé Eyadéma, President, Togo, heart attack_
+_Context: Faure Gnassingb, Gnassingb Eyadma, President, Togo, heart attack_
 
 ### [ In the People's Republic of China, The Tenth Shaanxi Provincial People's Congress votes in favour of Acting Governor Chen Deming to become the next Governor of Shaanxi. ](/news/2005/02/5/in-the-people-s-republic-of-china-the-tenth-shaanxi-provincial-people-s-congress-votes-in-favour-of-acting-governor-chen-deming-to-become.md)
 _Context: Chen Deming, China's, People's Congress, Shaanxi, gubernatorial elections_

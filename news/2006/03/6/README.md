@@ -7,7 +7,7 @@ Government plans to make possession of a national identity card mandatory for pa
 _Context: Eliezer Shkedy, Gaza Strip, Islamic Jihad, Israel, Israel Air Force_
 
 ### [ Milan Babic, former leader of the breakaway Republic of Serbian Krajina, commits suicide in prison while serving a sentence for war crimes. ](/news/2006/03/6/milan-babia-former-leader-of-the-breakaway-republic-of-serbian-krajina-commits-suicide-in-prison-while-serving-a-sentence-for-war-crimes.md)
-_Context: Milan Babić, Republic of Serbian Krajina, suicide, war crimes_
+_Context: Milan Babic, Republic of Serbian Krajina, suicide, war crimes_
 
 ### [ M. Michael Rounds, governor of the U.S. State of South Dakota, signs an abortion ban that conflicts with the United States Supreme Court's landmark 1973 ''Roe v. Wade'' decision. ](/news/2006/03/6/m-michael-rounds-governor-of-the-u-s-state-of-south-dakota-signs-an-abortion-ban-that-conflicts-with-the-united-states-supreme-court-s.md)
 Gov. Mike Rounds signed a bill Monday banning almost all abortions in South Dakota, a move designed to directly challenge Roe v. Wade.

@@ -19,7 +19,7 @@ _Context: Seoul, South Korea, United States, beef imports, water cannon_
 _Context: Community Assembly of Kosovo and Metohija, Kosovo, Serbian population_
 
 ### [ Mdecins Sans Frontires claims that South Africa has expelled 450 Zimbabwean refugees. ](/news/2008/06/28/medecins-sans-frontieres-claims-that-south-africa-has-expelled-450-zimbabwean-refugees.md)
-_Context: Médecins Sans Frontières, South Africa, Zimbabwe_
+_Context: Mdecins Sans Frontires, South Africa, Zimbabwe_
 
 ### [ Wendy Alexander resigns as the leader of the Scottish Labour Party following a ruling from the Scottish Parliament's ethics committee over political donations. ](/news/2008/06/28/wendy-alexander-resigns-as-the-leader-of-the-scottish-labour-party-following-a-ruling-from-the-scottish-parliament-s-ethics-committee-over.md)
 _Context: Scottish Labour Party, Scottish Parliament, Wendy Alexander, political donations_
@@ -28,7 +28,7 @@ _Context: Scottish Labour Party, Scottish Parliament, Wendy Alexander, political
 _Context: Khyber Agency, Pakistan, Peshawar, Taliban_
 
 ### [ Filipino boxer Manny Pacquiao beats the American David Daz to win the WBC world lightweight title. Pacquiao becomes the first Asian boxer to win four titles in four different weight divisions. ](/news/2008/06/28/filipino-boxer-manny-pacquiao-beats-the-american-david-diaz-to-win-the-wbc-world-lightweight-title-pacquiao-becomes-the-first-asian-boxer.md)
-_Context: David Díaz, Manny Pacquiao, Philippines, United States, World Boxing Council_
+_Context: David Daz, Manny Pacquiao, Philippines, United States, World Boxing Council_
 
 ## [Previous Day...](/news/2008/06/27/index.md)
 

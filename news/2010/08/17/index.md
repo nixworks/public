@@ -28,7 +28,7 @@ _Context: Fiji, Fijian, Indo-Fijian_
 _Context: Bushehr, Iranian Air Force_
 
 ### [Tornado has swept threw south western part of Lithuania, near city of Rusne [http://www.delfi.lt/news/daily/lithuania/virs-rusnes-prauze-viesulas.d?id=35586121 (Delfi)].](/news/2010/08/17/tornado-has-swept-threw-south-western-part-of-lithuania-near-city-of-rusna-http-www-delfi-lt-news-daily-lithuania-virs-rusnes-prauze-vi.md)
-_Context: Lithuania, Rusnė, tornado_
+_Context: Lithuania, Rusne, tornado_
 
 ### [A train derails in Sudbury, Suffolk, UK after hitting a sewage truck on a level crossing, injuring 18 people. Main article: 2010 Sudbury train accident.](/news/2010/08/17/a-train-derails-in-sudbury-suffolk-uk-after-hitting-a-sewage-truck-on-a-level-crossing-injuring-18-people-main-article-2010-sudbury-tra.md)
 _Context: 2010 Sudbury train accident_
@@ -61,13 +61,13 @@ _Context: California, Ninth Circuit Court of Appeals, same-sex marriage, state_
 The trial of former Illinois governor Rod Blagojevich was found......
 
 ### [Protesters in Potosi and the Bolivian government resolve a three-week disagreement. ](/news/2010/08/17/protesters-in-potosa-and-the-bolivian-government-resolve-a-three-week-disagreement.md)
-_Context: Bolivia, Potosí_
+_Context: Bolivia, Potosi_
 
 ### [Former Israeli soldier Eden Aberjil is criticized for her Facebook images of herself smiling with blindfolded and bound Palestinian prisoners. ](/news/2010/08/17/former-israeli-soldier-eden-aberjil-is-criticized-for-her-facebook-images-of-herself-smiling-with-blindfolded-and-bound-palestinian-prisoner.md)
 A former Israeli soldier is criticised for posting images of herself on Facebook posing with bound Palestinian prisoners.
 
 ### [The French Football Federation bans Nicolas Anelka for 18 France games, Patrice Evra for 5, Franck Ribery for 3, and Jeremy Toulalan for 1, while Eric Abidal escapes punishment, for their roles as the key players behind the 2010 FIFA World Cup player strike. ](/news/2010/08/17/the-french-football-federation-bans-nicolas-anelka-for-18-france-games-patrice-evra-for-5-franck-riba-c-ry-for-3-and-ja-c-ra-c-my-toulalan-for.md)
-_Context: 2010 FIFA World Cup, Franck Ribéry, French Football Federation, Jérémy Toulalan, Nicolas Anelka, Patrice Evra, Éric Abidal_
+_Context: 2010 FIFA World Cup, Eric Abidal, Franck Ribery, French Football Federation, Jeremy Toulalan, Nicolas Anelka, Patrice Evra_
 
 ### [Zimbabwe Football Association (Zifa) chief executive Henrietta Rushwaya is charged in relation to allegations of match-fixing. ](/news/2010/08/17/zimbabwe-football-association-zifa-chief-executive-henrietta-rushwaya-is-charged-in-relation-to-allegations-of-match-fixing.md)
 _Context: Henrietta Rushwaya, Zimbabwe Football Association_

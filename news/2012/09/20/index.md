@@ -19,7 +19,7 @@ _Context: AU Optronics, LCD_
 On Sunday, by an area about the size of Texas, Arctic sea ice extent shrunk below the previous record low established September 18, 2007.
 
 ### [Data from the University of Illinois at Urbana-Champaign shows the Antarctic ice sheet reached its seventh-largest extent on September 12, at 16.14 million km<sup>2</sup>. ](/news/2012/09/20/data-from-the-university-of-illinois-at-urbanaachampaign-shows-the-antarctic-ice-sheet-reached-its-seventh-largest-extent-on-september-12.md)
-_Context: University of Illinois at Urbana–Champaign, ice sheet_
+_Context: University of Illinois at Urbana-Champaign, ice sheet_
 
 ### [The US Deputy Secretary of State William Burns meets with government officials in Libya about last week's deadly attack at the US consulate in Benghazi. ](/news/2012/09/20/the-us-deputy-secretary-of-state-william-burns-meets-with-government-officials-in-libya-about-last-week-s-deadly-attack-at-the-us-consulate.md)
 _Context: Libya, US Deputy Secretary of State, attack on the U.S. Consulate in Benghazi, Libya, government officials_
@@ -28,7 +28,7 @@ _Context: Libya, US Deputy Secretary of State, attack on the U.S. Consulate in B
 _Context: Foreign Ministry, USAID, recent elections_
 
 ### [Daniel "El Loco" Barrera, a Colombian crime boss accused of alliances with guerrilla groups and drug trafficking crimes, is captured in San Cristobal, Venezuela. ](/news/2012/09/20/daniel-el-loco-barrera-a-colombian-crime-boss-accused-of-alliances-with-guerrilla-groups-and-drug-trafficking-crimes-is-captured-in-san.md)
-_Context: Colombian crime boss, Daniel "El Loco" Barrera, San Cristóbal, Venezuela, drug kingpin_
+_Context: Colombian crime boss, Daniel "El Loco" Barrera, San Cristobal, Venezuela, drug kingpin_
 
 ### [The government of Bahrain pledges to adopt most of the recommendations in a United Nations report on the country's human rights situation. ](/news/2012/09/20/the-government-of-bahrain-pledges-to-adopt-most-of-the-recommendations-in-a-united-nations-report-on-the-country-s-human-rights-situation.md)
 Gulf kingdom says it will implement 158 of 176 recommendations in new UN report, but rejects abolishing death penalty.
@@ -46,7 +46,7 @@ _Context: Afghanistan, Hamid Karzai, Mohammad Gulab Mangal_
 _Context: Financial Services Roundtable, Mitt Romney, Tim Pawlenty, Washington, D.C._
 
 ### [A specialist in communication from the University of Nebraska-Lincoln says that the use of unmanned aerial vehicles in journalism will soon become widespread. ](/news/2012/09/20/a-specialist-in-communication-from-the-university-of-nebraskaalincoln-says-that-the-use-of-unmanned-aerial-vehicles-in-journalism-will-soo.md)
-_Context: University of Nebraska–Lincoln, journalism_
+_Context: University of Nebraska-Lincoln, journalism_
 
 ## [Previous Day...](/news/2012/09/19/index.md)
 

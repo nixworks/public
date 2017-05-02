@@ -22,7 +22,7 @@ The political council of the Party of Regions has expelled Sergiy Tigipko, Oleh 
 Former secretary general of Nato, Lord Robertson, says Scottish independence would be cataclysmic for the West in an era of international turmoil.
 
 ### [Lawyer Cu Huy Ha Vu, one of Vietnam's most famous dissidents, is released early from prison. Afterwards, he travels to the United States. ](/news/2014/04/7/lawyer-ca1-huy-ha-va-c-one-of-vietnamas-most-famous-dissidents-is-released-early-from-prison-afterwards-he-travels-to-the-united-state.md)
-_Context: Cù Huy Hà Vũ, Vietnam_
+_Context: Cu Huy Ha Vu, Vietnam_
 
 ### [A critical vulnerability referred to as the Heartbleed bug is discovered in certain versions of the popular OpenSSL software which allows attackers to steal information from internet servers which would otherwise be protected. ](/news/2014/04/7/a-critical-vulnerability-referred-to-as-the-heartbleed-bug-is-discovered-in-certain-versions-of-the-popular-openssl-software-which-allows-at.md)
 A serious bug in software used by millions of web servers could have exposed anyone visiting sites they hosted to spying and eavesdropping.

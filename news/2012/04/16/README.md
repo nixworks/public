@@ -19,10 +19,10 @@ The biggest surprises were the awards for two online news outlets, a sign of the
 Selection of Korean-born Jim Yong Kim draws criticism from other candidates over alleged US dominance of powerful post.
 
 ### [Argentine president Cristina Fernandez de Kirchner submits a bill that would nationalise 51% of YPF to Congress. ](/news/2012/04/16/argentine-president-cristina-ferna-ndez-de-kirchner-submits-a-bill-that-would-nationalise-51-of-ypf-to-congress.md)
-_Context: Congress, Cristina Fernández de Kirchner, YPF_
+_Context: Congress, Cristina Fernandez de Kirchner, YPF_
 
-### [A 6.7-magnitude earthquake, at a depth of {{convert|23|mi|km|0|abbr=on}}, rocks Valparaiso, Chile. ](/news/2012/04/16/a-6-7-magnitude-earthquake-at-a-depth-of-convert-23-mi-km-0-abbr-on-rocks-valparaaso-chile.md)
-_Context: Valparaíso_
+### [A 6.7-magnitude earthquake, at a depth of 23|mi|km|0|abbr=on, rocks Valparaiso, Chile. ](/news/2012/04/16/a-6-7-magnitude-earthquake-at-a-depth-of-23-mi-km-0-abbr-on-rocks-valparaaso-chile.md)
+_Context: Valparaiso_
 
 ### [Australia relaxes sanctions on Myanmar, following political reforms in Myanmar, including by-elections earlier this month in which opposition leader Aung San Suu Kyi's party won dozens of seats. ](/news/2012/04/16/australia-relaxes-sanctions-on-myanmar-following-political-reforms-in-myanmar-including-by-elections-earlier-this-month-in-which-oppositio.md)
 _Context: Aung San Suu Kyi, Australia, Myanmar, by-elections earlier this month_

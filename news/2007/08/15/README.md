@@ -13,7 +13,7 @@ _Context: Lesser Antilles, Martinique, St. Lucia, Tropical Storm Dean, hurricane
 _Context: Gaza Strip, Israel, Israeli Defence Force_
 
 ### [ President of the United States George W. Bush, President of Mexico Felipe Calderon and the Prime Minister of Canada Stephen Harper to meet later this month under the North American Security and Prosperity Partnership (SPP) mechanism to discuss economic and security issues. ](/news/2007/08/15/president-of-the-united-states-george-w-bush-president-of-mexico-felipe-caldera3n-and-the-prime-minister-of-canada-stephen-harper-to-meet.md)
-_Context: Canadian Prime Minister, Felipe Calderón, George W. Bush, President, Security and Prosperity Partnership of North America, Stephen Harper, president_
+_Context: Canadian Prime Minister, Felipe Calderon, George W. Bush, President, Security and Prosperity Partnership of North America, Stephen Harper, president_
 
 ### [ Jack McConnell resigns as the leader of the Scottish Labour Party with Wendy Alexander likely to be elected as his replacement as leader. ](/news/2007/08/15/jack-mcconnell-resigns-as-the-leader-of-the-scottish-labour-party-with-wendy-alexander-likely-to-be-elected-as-his-replacement-as-leader.md)
 _Context: Jack McConnell, Scottish Labour Party, Wendy Alexander_
@@ -49,7 +49,7 @@ _Context: Alexander Downer, Australia, India, nuclear scientist, uranium_
 _Context: Khurshid Mahmud Kasuri, Pakistan, Pervez Musharraf, Richard Boucher, U.S. Assistant Secretary of State, United States_
 
 ### [ Cristina Fernandez de Kirchner, Argentinian presidential candidate, presents Julio Cobos as her running mate. ](/news/2007/08/15/cristina-ferna-ndez-de-kirchner-argentinian-presidential-candidate-presents-julio-cobos-as-her-running-mate.md)
-_Context: Argentina, Argentine general election, 2007, Cristina Fernández de Kirchner, Julio Cobos, running mate_
+_Context: Argentina, Argentine general election, 2007, Cristina Fernandez de Kirchner, Julio Cobos, running mate_
 
 ### [ Ali Mohammed Ghedi, the interim Prime Minister of Somalia, says he plans to create a Green Zone in Mogadishu and criticizes the United Nations for giving "so much emphasis on Darfur and not to Somalia". ](/news/2007/08/15/ali-mohammed-ghedi-the-interim-prime-minister-of-somalia-says-he-plans-to-create-a-green-zone-in-mogadishu-and-criticizes-the-united-nati.md)
 _Context: Ali Mohammed Ghedi, Darfur, Green Zone, Mogadishu, Prime Minister of Somalia, Somalia, United Nations_
@@ -61,7 +61,7 @@ _Context: 2007 presidential election, Kenya, ODM-Kenya_
 _Context: Charles Murigande, Democratic Forces for the Liberation of Rwanda, Democratic Republic of Congo, Rwanda_
 
 ### [ War in Afghanistan: Three Germans are killed by a bomb attack near Kabul. ](/news/2007/08/15/war-in-afghanistan-p-three-germans-are-killed-by-a-bomb-attack-near-kabul.md)
-_Context: Germany, Kabul, War in Afghanistan (2001–present)_
+_Context: Germany, Kabul, War in Afghanistan (2001-present)_
 
 ### [ On the 62nd anniversary of Japan's surrender in World War II, Prime Minister Shinzo Abe and his ministers do not visit the Yasukuni Shrine. ](/news/2007/08/15/on-the-62nd-anniversary-of-japan-s-surrender-in-world-war-ii-prime-minister-shinzo-abe-and-his-ministers-do-not-visit-the-yasukuni-shrine.md)
 _Context: Japan, Prime Minister, Shinzo Abe, World War II, Yasukuni Shrine_

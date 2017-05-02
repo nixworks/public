@@ -7,7 +7,7 @@ _Context: Constitution, Indigenous Australian, John Howard, Prime Minister of Au
 _Context: Jena 6, Mychal Bell, probation_
 
 ### [ An AMC Airlines MD-83 makes an emergency belly landing at the Atatrk International Airport, overshooting the runway. There is one injury, and the plane is badly damaged. ](/news/2007/10/11/an-amc-airlines-md-83-makes-an-emergency-belly-landing-at-the-ataturk-international-airport-overshooting-the-runway-there-is-one-injury.md)
-_Context: AMC Airlines, Atatürk International Airport, MD-83, belly landing_
+_Context: AMC Airlines, Atatrk International Airport, MD-83, belly landing_
 
 ### [ A group of 138 prominent Muslim clerics and scholars send an open letter to Pope Benedict XVI and other Christian leaders, calling for greater understanding between the two faiths. ](/news/2007/10/11/a-group-of-138-prominent-muslim-clerics-and-scholars-send-an-open-letter-to-pope-benedict-xvi-and-other-christian-leaders-calling-for-grea.md)
 _Context: Benedict XVI, Christian, Islam_

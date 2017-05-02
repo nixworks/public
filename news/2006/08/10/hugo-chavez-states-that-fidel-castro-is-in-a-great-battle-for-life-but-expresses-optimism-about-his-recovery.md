@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ Venezuelan President Hugo Chvez says Fidel Castro is 'battling for his life.' ](/news/2007/01/20/venezuelan-president-hugo-chavez-says-fidel-castro-is-battling-for-his-life.md) _Context: Fidel Castro, Hugo Chávez_
+1. [ Venezuelan President Hugo Chvez says Fidel Castro is 'battling for his life.' ](/news/2007/01/20/venezuelan-president-hugo-chavez-says-fidel-castro-is-battling-for-his-life.md) _Context: Fidel Castro, Hugo Chvez_
 2. [The remains of former Cuban leader Fidel Castro are interred beside independence leader Jose Marti. ](/news/2016/12/4/the-remains-of-former-cuban-leader-fidel-castro-are-interred-beside-independence-leader-josa-c-marta.md) _Context: Fidel Castro_
 3. [Cuba's National Assembly of People's Power approves a law banning commemorative statues of late President Fidel Castro, and the naming of public places after him, in accordance with the wishes of Castro, who died last month. ](/news/2016/12/27/cuba-s-national-assembly-of-people-s-power-approves-a-law-banning-commemorative-statues-of-late-president-fidel-castro-and-the-naming-of-pu.md) _Context: Fidel Castro_
 4. [Cuban state television announces that former President Fidel Castro has died at age 90. ](/news/2016/11/26/cuban-state-television-announces-that-former-president-fidel-castro-has-died-at-age-90.md) _Context: Fidel Castro_

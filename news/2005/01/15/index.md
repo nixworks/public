@@ -16,7 +16,7 @@ _Context: Mahmoud Abbas, Palestinian Authority, Palestinian presidential electio
 _Context: Israel, Israeli-Palestinian conflict, Mahmoud Abbas, Palestinian_
 
 ### [ The fictional character Jra da Cimrman is reported in a big surprise to lead the scores of ''The Biggest Czech person'' competition organized by Czech television.](/news/2005/01/15/the-fictional-character-jara-da-cimrman-is-reported-in-a-big-surprise-to-lead-the-scores-of-the-biggest-czech-person-competition-organi.md)
-_Context: Jára da Cimrman, fictional character_
+_Context: Jra da Cimrman, fictional character_
 
 ## [Previous Day...](/news/2005/01/14/index.md)
 

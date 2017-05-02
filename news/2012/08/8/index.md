@@ -13,7 +13,7 @@ _Context: China, rare earth element_
 Nineteen people are now known to have died in severe floods in the Philippines, as officials warn heavy rain will continue to fall.
 
 ### [Hurricane Ernesto hits the Yucatn Peninsula in Mexico. ](/news/2012/08/8/hurricane-ernesto-hits-the-yucatan-peninsula-in-mexico.md)
-_Context: Hurricane Ernesto, Yucatán Peninsula_
+_Context: Hurricane Ernesto, Yucatn Peninsula_
 
 ### [A welding fire breaks out but is soon extinguished, with no injuries, on the 88th floor of One World Trade Center in New York City.](/news/2012/08/8/a-welding-fire-breaks-out-but-is-soon-extinguished-with-no-injuries-on-the-88th-floor-of-one-world-trade-center-in-new-york-city.md)
 _Context: New York's, One World Trade Center_

@@ -22,7 +22,7 @@ Ilyas Kashmiri was on a list which the US gave Pakistan of senior al-Qaeda membe
 _Context: Bangladesh, World Bank, wildlife protection_
 
 ### [Thousands of people are evacuated in Chile ahead of a possible eruption of the Puyehue-Cordn Caulle volcano. ](/news/2011/06/4/thousands-of-people-are-evacuated-in-chile-ahead-of-a-possible-eruption-of-the-puyehue-cordon-caulle-volcano.md)
-_Context: Chile, Puyehue-Cordón Caulle_
+_Context: Chile, Puyehue-Cordn Caulle_
 
 ### [The Philippines accuses China of intimidating rival claimants to areas of the South China Sea, and violating its territorial waters. ](/news/2011/06/4/the-philippines-accuses-china-of-intimidating-rival-claimants-to-areas-of-the-south-china-sea-and-violating-its-territorial-waters.md)
 _Context: Philippines, South China Sea_

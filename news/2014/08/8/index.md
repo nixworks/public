@@ -1,7 +1,7 @@
 ## [2014-08-8](/news/2014/08/8/index.md)
 
 ### [2014 Israel-Gaza conflict:Hamas rejects the continuation of a 72-hour ceasefire and has shot over 60 rockets since 8:00 into southern Israel. Israel launches air strikes in response. ](/news/2014/08/8/2014-israelagaza-conflict-phamas-rejects-the-continuation-of-a-72-hour-ceasefire-and-has-shot-over-60-rockets-since-8-00-into-southern-isr.md)
-_Context: 2014 Israel–Gaza conflict, Hamas, Israel_
+_Context: 2014 Israel-Gaza conflict, Hamas, Israel_
 
 ### [2014 Iraq conflict:U.S. F/A-18 fighters bomb ISIS artillery units and a military convoy. ](/news/2014/08/8/2014-iraq-conflict-pu-s-f-a-18-fighters-bomb-isis-artillery-units-and-a-military-convoy.md)
 Tens of thousands of Yazidis have taken refuge on a mountain in Sinjar province after Islamic State fighters overran their town and other areas, pushing out Kurdish paramilitary forces. 

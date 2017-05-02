@@ -1,7 +1,7 @@
 ## [2003-12-15](/news/2003/12/15/index.md)
 
 ### [ Wesley Clark concludes his first day of closed-door testimony against Slobodan Milosevic at the International Criminal Tribunal for the Former Yugoslavia. [http://edition.cnn.com/2003/WORLD/europe/12/15/hague.tribunal.clark.reut/index.html]](/news/2003/12/15/wesley-clark-concludes-his-first-day-of-closed-door-testimony-against-slobodan-miloa-evia-at-the-international-criminal-tribunal-for-the-f.md)
-_Context: International Criminal Tribunal for the former Yugoslavia, Slobodan Milošević, Wesley Clark_
+_Context: International Criminal Tribunal for the former Yugoslavia, Slobodan Milosevic, Wesley Clark_
 
 ### [ US Secretary of State Colin Powell successfully undergoes two hours of prostate cancer surgery at the Walter Reed Army Medical Center in Washington, DC. [http://us.cnn.com/2003/US/12/15/powell.surgery/index.html]](/news/2003/12/15/us-secretary-of-state-colin-powell-successfully-undergoes-two-hours-of-prostate-cancer-surgery-at-the-walter-reed-army-medical-center-in-wa.md)
 _Context: Colin Powell, prostate cancer_

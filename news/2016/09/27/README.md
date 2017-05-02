@@ -4,7 +4,7 @@
 The Syrian army and its allies fought intense clashes with insurgents in the opposition-held 1070 Apartments district of southwestern Aleppo on Tuesday, senior combatant sources on both sides said.
 
 ### [Three bombings kill at least 17 people in Baghdad. ](/news/2016/09/27/three-bombings-kill-at-least-17-people-in-baghdad.md)
-_Context: Baghdad, Iraqi Civil War (2014–present)_
+_Context: Baghdad, Iraqi Civil War (2014-present)_
 
 ### [Taiwan authorities close schools and offices as Typhoon Megi approaches the island. ](/news/2016/09/27/taiwan-authorities-close-schools-and-offices-as-typhoon-megi-approaches-the-island.md)
 _Context: 2016 Pacific typhoon season, Taiwan, Typhoon Megi_

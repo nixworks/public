@@ -25,10 +25,10 @@ _Context: Massachusetts, Supreme Judicial Court_
 _Context: Carla Bruni, French President, Guadeloupe, Martinique, Nicolas Sarkozy_
 
 ### [Ghana says a threat of force by the Economic Community of West African States to remove Ivorian President Laurent Gbagbo would "not bring about peace" in the country. ](/news/2011/01/7/ghana-says-a-threat-of-force-by-the-economic-community-of-west-african-states-to-remove-ivorian-president-laurent-gbagbo-would-not-bring-ab.md)
-_Context: Côte d'Ivoire, ECOWAS, Ghana, Laurent Gbagbo_
+_Context: Cote d'Ivoire, ECOWAS, Ghana, Laurent Gbagbo_
 
 ### [Laurent Gbagbo expels the ambassadors for Canada and the United Kingdom from Cote d'Ivoire. Both nations reject the decision, recognizing Alassane Ouattara as the rightful President. ](/news/2011/01/7/laurent-gbagbo-expels-the-ambassadors-for-canada-and-the-united-kingdom-from-ca-te-d-ivoire-both-nations-reject-the-decision-recognizing-a.md)
-_Context: Alassane Ouattara, Canadian, Côte d'Ivoire, Laurent Gbagbo, United Kingdom_
+_Context: Alassane Ouattara, Canada, Cote d'Ivoire, Laurent Gbagbo, United Kingdom_
 
 ### [Chile recognises the State of Palestine. ](/news/2011/01/7/chile-recognises-the-state-of-palestine.md)
 Officials at Foreign Ministry fear &#39;domino effect&#39; in South America; &#39;If Chile, Mexico follow Argentina, Brazil, it will prompt all other Latin American countries to join, because they won&#39;t want to stay on sidelines,&#39; says diplomat

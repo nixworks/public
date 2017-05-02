@@ -10,7 +10,7 @@ A giant asteroid smashing into Earth is the only plausible explanation for the e
 _Context: Mexico City, same-sex marriages_
 
 ### [The Committee on Foreign Affairs of the United States House of Representatives accepts a resolution describing the Armenian Genocide as "genocide", prompting Turkey to recall its ambassador and threatening Turkey-United States relations. ](/news/2010/03/4/the-committee-on-foreign-affairs-of-the-united-states-house-of-representatives-accepts-a-resolution-describing-the-armenian-genocide-as-gen.md)
-_Context: Committee on Foreign Affairs, Turkey, Turkey–United States relations, U.S. House, genocide, genocide of Armenians_
+_Context: Committee on Foreign Affairs, Turkey, Turkey-United States relations, U.S. House, genocide, genocide of Armenians_
 
 ### [Thousands of passengers are stuck in ice in the Baltic Sea. ](/news/2010/03/4/thousands-of-passengers-are-stuck-in-ice-in-the-baltic-sea.md)
 _Context: Baltic Sea_
@@ -40,7 +40,7 @@ An Egyptian property tycoon, who was sentenced to death for murdering his former
 _Context: Almere, Geert Wilders, Party for Freedom, The Hague_
 
 ### [The brother of Sinn Fein's Gerry Adams, detained under a European arrest warrant, is released on bail after surrendering to the Garda Siochana in Ireland. ](/news/2010/03/4/the-brother-of-sinn-fa-c-in-s-gerry-adams-detained-under-a-european-arrest-warrant-is-released-on-bail-after-surrendering-to-the-garda-saoc.md)
-_Context: Gerry Adams, Republic of Ireland, Sinn Féin, police officer_
+_Context: Gerry Adams, Republic of Ireland, Sinn Fein, police officer_
 
 ### [The family of kidnapped boy Sahil Saeed ask that he be returned home safely. ](/news/2010/03/4/the-family-of-kidnapped-boy-sahil-saeed-ask-that-he-be-returned-home-safely.md)
 _Context: Sahil Saeed_

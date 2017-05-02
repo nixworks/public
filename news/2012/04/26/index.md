@@ -4,7 +4,7 @@
 Up to 69 people, many of them children, reported to have died in rocket attack on building in flashpoint city.
 
 ### [2011-2012 Bahraini uprising: Mourners and police clash at the funeral of a protester who was killed last week. ](/news/2012/04/26/2011a2012-bahraini-uprising-mourners-and-police-clash-at-the-funeral-of-a-protester-who-was-killed-last-week.md)
-_Context: 2011–2012 Bahraini uprising_
+_Context: 2011-2012 Bahraini uprising_
 
 ### [Seven people are killed in Nigeria after a suicide bomber detonates a bomb in his car. The attacks took place in Abuja, at the ''This Day'' newspaper offices. ](/news/2012/04/26/seven-people-are-killed-in-nigeria-after-a-suicide-bomber-detonates-a-bomb-in-his-car-the-attacks-took-place-in-abuja-at-the-this-day.md)
 Suicide bomber explodes car bomb outside office in capital; Separate attack targets another publication
@@ -28,7 +28,7 @@ _Context: North Korea_
 _Context: Anders Behring Breivik, July 22, 2011, Oslo, Youngstorget_
 
 ### [Japanese powerbroker Ichiro Ozawa of the ruling Democratic Party is cleared of charges of breaking fundraising laws. ](/news/2012/04/26/japanese-powerbroker-ichira-ozawa-of-the-ruling-democratic-party-is-cleared-of-charges-of-breaking-fundraising-laws.md)
-_Context: Democratic Party, Ichirō Ozawa_
+_Context: Democratic Party, Ichiro Ozawa_
 
 ### [The Supreme Court of Pakistan finds Prime Minister Syed Yousaf Raza Gillani guilty of contempt of court but he is given only a token sentence of imprisonment lasting less than a minute. ](/news/2012/04/26/the-supreme-court-of-pakistan-finds-prime-minister-syed-yousaf-raza-gillani-guilty-of-contempt-of-court-but-he-is-given-only-a-token-sentenc.md)
 Gilani held guilty of contempt but will not be arrested

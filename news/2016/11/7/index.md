@@ -1,7 +1,7 @@
 ## [2016-11-7](/news/2016/11/7/index.md)
 
 ### [Iraqi Army discover at least 100 beheaded bodies as they retake Hamam al-Alil, the last major settlement south of Mosul. ](/news/2016/11/7/iraqi-army-discover-at-least-100-beheaded-bodies-as-they-retake-hamam-al-alil-the-last-major-settlement-south-of-mosul.md)
-_Context: Battle of Mosul (2016), Hamam al-Alil, Hamam al-Alil massacre, Iraqi Army, Iraqi Civil War (2014–present), Mosul_
+_Context: Battle of Mosul (2016), Hamam al-Alil, Hamam al-Alil massacre, Iraqi Army, Iraqi Civil War (2014-present), Mosul_
 
 ### [  Fighting between militias in Galkayo, Somalia, leaves at least 29 dead. ](/news/2016/11/7/fighting-between-militias-in-galkayo-somalia-leaves-at-least-29-dead.md)
 Fragile ceasefire brokered by Dubai breaks down between rivals of Galmudug and Puntland as officials confirm death toll.

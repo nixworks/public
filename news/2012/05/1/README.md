@@ -4,7 +4,7 @@
 Peacekeeping chief says artillery and armoured vehicles still in cities, adding that both sides have violated ceasefire.
 
 ### [2011-2012 Bahraini uprising: Police break up protests in the capital Manama. ](/news/2012/05/1/2011a2012-bahraini-uprising-police-break-up-protests-in-the-capital-manama.md)
-_Context: 2011–2012 Bahraini uprising, Manama_
+_Context: 2011-2012 Bahraini uprising, Manama_
 
 ### [An attack by a suicide bomber in a cafe attached to a hotel in Dhusamareb, Somalia, causes an indeterminate number of fatalities, including according to witnesses two MPs, Yusuf Mire Seerar and Abdiweli Sheik Mohamud. ](/news/2012/05/1/an-attack-by-a-suicide-bomber-in-a-cafa-c-attached-to-a-hotel-in-dhusamareb-somalia-causes-an-indeterminate-number-of-fatalities-including.md)
 _Context: Dhusamareb, Somalia_
@@ -16,7 +16,7 @@ Current military leaders say they retain hold of key locations in Bamako after a
 South Sudan accused Sudan of launching a ground attack in an oil region of the newly independent state on Tuesday and said it was preparing to strike back, in rising tension that shows no sign of abating.
 
 ### [Up to 20 people are arrested amid the investigation about last month's massacre at Zelezarsko lake in the Republic of Macedonia. ](/news/2012/05/1/up-to-20-people-are-arrested-amid-the-investigation-about-last-month-s-massacre-at-a1-2elezarsko-lake-in-the-republic-of-macedonia.md)
-_Context: Macedonian, massacre at Železarsko lake_
+_Context: Macedonian, massacre at Zelezarsko lake_
 
 ### [The Dow Jones Industrial Average reaches a four-year high due to strong manufacturing figures and company earnings. ](/news/2012/05/1/the-dow-jones-industrial-average-reaches-a-four-year-high-due-to-strong-manufacturing-figures-and-company-earnings.md)
 U.S. stocks rose solidly Tuesday as investors welcomed a rise in U.S. manufacturing activity and digested a mixed batch of corporate earnings
@@ -46,7 +46,7 @@ Rupert Murdoch exhibited &quot;wilful blindness&quot; to what was going on in hi
 _Context: Dominique Strauss-Kahn, Nafissatou Diallo_
 
 ### [Tomas Borge, the last surviving founding member of Nicaragua's socialist political party Sandinista National Liberation Front, dies. ](/news/2012/05/1/toma-s-borge-the-last-surviving-founding-member-of-nicaragua-s-socialist-political-party-sandinista-national-liberation-front-dies.md)
-_Context: Nicaragua, Sandinista National Liberation Front, Tomás Borge_
+_Context: Nicaragua, Sandinista National Liberation Front, Tomas Borge_
 
 ### [A parliamentary committee begins work on Turkey's first fully civilian constitution. ](/news/2012/05/1/a-parliamentary-committee-begins-work-on-turkey-s-first-fully-civilian-constitution.md)
 _Context: Turkey, constitution_

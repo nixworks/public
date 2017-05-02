@@ -1,7 +1,7 @@
 ## [2012-04-11](/news/2012/04/11/index.md)
 
 ### [2012 South Sudan-Sudan border conflict: Sudan says that after a battle South Sudan controls Heglig, its largest oil field. ](/news/2012/04/11/2012-south-sudanasudan-border-conflict-psudan-says-that-after-a-battle-south-sudan-controls-heglig-its-largest-oil-field.md)
-_Context: 2012 South Sudan–Sudan border conflict, South Sudan, Sudan_
+_Context: 2012 South Sudan-Sudan border conflict, South Sudan, Sudan_
 
 ### [A bomb on a bus kills at least two people in the Philippines town of Carmen in Cotabato Province. ](/news/2012/04/11/a-bomb-on-a-bus-kills-at-least-two-people-in-the-philippines-town-of-carmen-in-cotabato-province.md)
 _Context: Carmen, Cotabato Province, Philippines_

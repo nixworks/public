@@ -10,10 +10,10 @@ _Context: Chen Shui-bian, China's, Foreign Minister, Li Zhaoxing, President of T
 _Context: George W. Bush administration, Scooter Libby, United States v. Libby, obstruction of justice, perjury_
 
 ### [ The United States Congress opens hearings into the dismissal of eight U.S. Attorneys, probing whether the Bush Administration had political motives for ousting the federal prosecutors. ](/news/2007/03/6/the-united-states-congress-opens-hearings-into-the-dismissal-of-eight-u-s-attorneys-probing-whether-the-bush-administration-had-political.md)
-_Context: Bush Administration, U.S. Congress, federal prosecutors, firings_
+_Context: Bush Administration, U.S. Congressional, federal prosecutors, firings_
 
 ### [ Heavy security operations begin in Bogota, Colombia, for the visit of U.S. President Bush on March 11. Security forces expect protests on Wednesday. ](/news/2007/03/6/heavy-security-operations-begin-in-bogota-colombia-for-the-visit-of-u-s-president-bush-on-march-11-security-forces-expect-protests-on.md)
-_Context: Bogotá, Colombia, George W. Bush, March 11, Protest, president_
+_Context: Bogota, Colombia, George W. Bush, March 11, Protest, president_
 
 ### [ Japanese news agency Kyodo News reports that Empress Michiko is suffering from internal bleeding. ](/news/2007/03/6/japanese-news-agency-kyodo-news-reports-that-empress-michiko-is-suffering-from-internal-bleeding.md)
 _Context: Empress Michiko, Japan, Kyodo News, internal bleeding_
@@ -28,7 +28,7 @@ _Context: India, Islamabad, Pakistan, Samjhauta Express bombings, terrorism_
 _Context: Ghana, its independence_
 
 ### [ War in Afghanistan (2001-present): NATO-led forces launch Operation Achilles against the Taliban in Helmand province. ](/news/2007/03/6/war-in-afghanistan-2001apresent-nato-led-forces-launch-operation-achilles-against-the-taliban-in-helmand-province.md)
-_Context: Helmand Province, NATO, Operation Achilles, Taliban, War in Afghanistan (2001–present)_
+_Context: Helmand Province, NATO, Operation Achilles, Taliban, War in Afghanistan (2001-present)_
 
 ## [Previous Day...](/news/2007/03/5/index.md)
 

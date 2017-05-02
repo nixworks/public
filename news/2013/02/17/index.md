@@ -10,10 +10,10 @@ Seven foreign workers have been kidnapped by gunmen in northern Nigeria, in the 
 Musician faced numerous challenges following the Jan. 13 death of her boyfriend songwriter David Wilson
 
 ### [Government of Venezuela opens a granite processing plant in the state of Bolivar, with the intention of providing about 25% of the granite required nationwide. ](/news/2013/02/17/government-of-venezuela-opens-a-granite-processing-plant-in-the-state-of-bolavar-with-the-intention-of-providing-about-25-of-the-granite.md)
-_Context: Bolívar, Venezuela, government, granite_
+_Context: Bolivar, Venezuela, government, granite_
 
 ### [Five people are killed and eleven are injured, two seriously, when an apartment complex is destroyed by a gas explosion in Frenstat pod Radhostem, Czech Republic. ](/news/2013/02/17/five-people-are-killed-and-eleven-are-injured-two-seriously-when-an-apartment-complex-is-destroyed-by-a-gas-explosion-in-frena-ta-t-pod-ra.md)
-_Context: Czech, Frenštát pod Radhoštěm, gas explosion_
+_Context: Czech, Frenstat pod Radhostem, gas explosion_
 
 ### [Voters in Ecuador go to the polls for a general election with incumbent President Rafael Correa claiming a landslide victory. ](/news/2013/02/17/voters-in-ecuador-go-to-the-polls-for-a-general-election-with-incumbent-president-rafael-correa-claiming-a-landslide-victory.md)
 The vote showed the broad popularity of President Rafael Correa’s government’s social programs and support for the poor.
@@ -28,7 +28,7 @@ _Context: February 2013 Quetta bombing, Pakistan, Quetta, Shiite_
 Live Cricket News - Latest cricket updates, live cricket scores, cricket fan blogs, &amp; world cup history. Discuss cricket&#039;s best innings, bowling spells, heroes, upsets, Sachin&#039;s records, IPL T20, world cup and more at Cricket Country - Cricket Country
 
 ### [In biathlon, Norway's Emil Hegle Svendsen and Tora Berger become the main heroes of the 2013 Biathlon World Championships in Nove Mesto, Czech Republic. ](/news/2013/02/17/in-biathlon-norway-s-emil-hegle-svendsen-and-tora-berger-become-the-main-heroes-of-the-2013-biathlon-world-championships-in-nova-c-masto-c.md)
-_Context: 2013, Biathlon World Championships, Czech, Emil Hegle Svendsen, Norway, Nové Město, Tora Berger, biathlon_
+_Context: 2013, Biathlon World Championships, Czech, Emil Hegle Svendsen, Norway, Nove Mesto, Tora Berger, biathlon_
 
 ### [In beach soccer, Argentina, Paraguay and Brazil secure qualification for the 2013 FIFA Beach Soccer World Cup. ](/news/2013/02/17/in-beach-soccer-argentina-paraguay-and-brazil-secure-qualification-for-the-2013-fifa-beach-soccer-world-cup.md)
 Argentina and Paraguay qualified for the FIFA Beach Soccer World Cup thanks to wins over Ecuador and Brazil, with the four-time world champion A Seleção to play off as they seek to avoid missing the tournament for the first time.
@@ -37,7 +37,7 @@ Argentina and Paraguay qualified for the FIFA Beach Soccer World Cup thanks to w
 Danica Patrick has won the Daytona 500 pole, becoming the first woman to secure the top spot for any Sprint Cup race.
 
 ### [In speed skating, Sven Kramer wins the men's 2013 World Allround Speed Skating Championships for a record sixth time. Ireen Wust wins the women's title. ](/news/2013/02/17/in-speed-skating-sven-kramer-wins-the-men-s-2013-world-allround-speed-skating-championships-for-a-record-sixth-time-ireen-wa1-4st-wins-the-w.md)
-_Context: 2013 World Allround Speed Skating Championships, Ireen Wüst, Sven Kramer, record sixth time, speed skating_
+_Context: 2013 World Allround Speed Skating Championships, Ireen Wust, Sven Kramer, record sixth time, speed skating_
 
 ## [Previous Day...](/news/2013/02/16/index.md)
 

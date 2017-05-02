@@ -67,7 +67,7 @@ On the second day of an Irish visit that focused on trade, Chinese Vice Presiden
 _Context: Burma, U Gambira, monastery_
 
 ### [A fight amongst inmates leads to a prison riot in the Mexican city of Apodaca, Nuevo Leon, with 44 people dead. ](/news/2012/02/19/a-fight-amongst-inmates-leads-to-a-prison-riot-in-the-mexican-city-of-apodaca-nuevo-lea3n-with-44-people-dead.md)
-_Context: Apodaca, Mexican, Nuevo León_
+_Context: Apodaca, Mexican, Nuevo Leon_
 
 ### [Egyptian election officials fail to confirm the date of the first presidential election since Hosni Mubarak was ousted from power in last year's revolution. ](/news/2012/02/19/egyptian-election-officials-fail-to-confirm-the-date-of-the-first-presidential-election-since-hosni-mubarak-was-ousted-from-power-in-last-ye.md)
 Egypt election officials fail to confirm the date of the first presidential election since the overthrow of Hosni Mubarak a year ago.

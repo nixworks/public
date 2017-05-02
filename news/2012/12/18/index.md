@@ -52,7 +52,7 @@ Sen. Patrick Leahy was officially sworn in as the third-in-line for the presiden
 Napoli have been docked two points in the Scommessopoli scandal, while Paolo Cannavaro and Giuanluca Grava were handed six-month bans
 
 ### [The funeral of Irish Gaelic football player Paidi O Se is to take place. ](/news/2012/12/18/the-funeral-of-irish-gaelic-football-player-pa-ida-a-sa-c-is-to-take-place.md)
-_Context: Gaelic football, Irish, Páidí Ó Sé_
+_Context: Gaelic football, Irish, Paidi O Se_
 
 ## [Previous Day...](/news/2012/12/17/index.md)
 

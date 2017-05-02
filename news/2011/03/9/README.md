@@ -7,7 +7,7 @@ Squatters have taken over a London house thought to belong to Saif al-Islam Gadd
 Saleh supporter killed in Hadramaut, while anti-government protester shot in police raid succumbs to wounds.
 
 ### [2010-2011 Ivorian crisis: Unrest continues in Cote d'Ivoire as the internationally-recognised President Alassane Ouattara heads to a mediation summit. ](/news/2011/03/9/2010a2011-ivorian-crisis-unrest-continues-in-ca-te-d-ivoire-as-the-internationally-recognised-president-alassane-ouattara-heads-to-a-medi.md)
-_Context: 2010–2011 Ivorian crisis, Alassane Ouattara, Côte d'Ivoire_
+_Context: 2010-2011 Ivorian crisis, Alassane Ouattara, Cote d'Ivoire_
 
 ### [Police in Uganda fire tear gas at demonstrators protesting the win of incumbent President Yoweri Museveni in elections. ](/news/2011/03/9/police-in-uganda-fire-tear-gas-at-demonstrators-protesting-the-win-of-incumbent-president-yoweri-museveni-in-elections.md)
 _Context: President, Uganda, Yoweri Museveni, elections_
@@ -16,7 +16,7 @@ _Context: President, Uganda, Yoweri Museveni, elections_
 _Context: Cairo, Christian, Copt, Egypt, Muslim_
 
 ### [According to the United Nations, Afghan civilian deaths increased by 15% in 2010, to 2777. ](/news/2011/03/9/according-to-the-united-nations-afghan-civilian-deaths-increased-by-15-in-2010-to-2777.md)
-_Context: United Nations, War in Afghanistan (2001–present)_
+_Context: United Nations, War in Afghanistan (2001-present)_
 
 ### [Vivian Schiller resigns as the head of National Public Radio in the United States following a fundraising scandal. ](/news/2011/03/9/vivian-schiller-resigns-as-the-head-of-national-public-radio-in-the-united-states-following-a-fundraising-scandal.md)
 Republicans said Wednesday that the resignation of NPR&#8217;s top executive in the wake of an undercover video sting will not blunt their determination to cut off all taxpayer funds for public broadcasting.
@@ -25,7 +25,7 @@ Republicans said Wednesday that the resignation of NPR&#8217;s top executive in 
 Zara Phillips and her rugby player fiance Mike Tindall are to be married at the Canongate Kirk, Edinburgh, on 30 July, Buckingham Palace says.
 
 ### [A government-sponsored study in Canada concludes that heavy metals and polycyclic aromatic compounds found in the Athabasca River downstream of  oil sands plants, are not a natural occurrence but pollution resulting from those plants. ](/news/2011/03/9/a-government-sponsored-study-in-canada-concludes-that-heavy-metals-and-polycyclic-aromatic-compounds-found-in-the-athabasca-river-downstream.md)
-_Context: Athabasca River, Canadian, aromatic, oil sands, polycyclic_
+_Context: Athabasca River, Canada, aromatic, oil sands, polycyclic_
 
 ### [A tsunami alert is issued after a strong earthquake of preliminary 7.2 magnitude occurs off the coast of Honshu, Japan. ](/news/2011/03/9/a-tsunami-alert-is-issued-after-a-strong-earthquake-of-preliminary-7-2-magnitude-occurs-off-the-coast-of-honshu-japan.md)
 _Context: Honshu Island, Japan, earthquake, tsunami_

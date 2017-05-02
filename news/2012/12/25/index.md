@@ -10,7 +10,7 @@ At least five militants were killed and three soldiers wounded in Yemen on Tuesd
 _Context: Boko Haram, Nigeria, Nigerian Sharia conflict_
 
 ### [2012 Central African Republic rebellion:The Seleka rebel coalition captures Kaga-Bandoro, the fourth major city to fall since the return to hostilities on December 10. Meanwhile, President Francois Bozize meets with military advisors in the capital Bangui. ](/news/2012/12/25/2012-central-african-republic-rebellion-pthe-seleka-rebel-coalition-captures-kaga-bandoro-the-fourth-major-city-to-fall-since-the-return-to.md)
-_Context: 2012 Central African Republic rebellion, Bangui's, François Bozizé, Kaga-Bandoro, Seleka_
+_Context: 2012 Central African Republic rebellion, Bangui's, Francois Bozize, Kaga-Bandoro, Seleka_
 
 ### [Pope Benedict XVI delivers the annual Christmas message at Saint Peter's Square and holds the traditional Mass at St. Peter's Basilica  in Vatican City. ](/news/2012/12/25/pope-benedict-xvi-delivers-the-annual-christmas-message-at-saint-peter-s-square-and-holds-the-traditional-mass-at-st-peter-s-basilica-in-v.md)
 Millions of Christians around the world are celebrating Christmas, as Pope Benedict XVI prepares to deliver his traditional seasonal message from the Vatican.

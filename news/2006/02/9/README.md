@@ -4,12 +4,12 @@
 _Context: Dick Cheney, George W. Bush administration, Iraq, Scooter Libby, US Vice President _
 
 ### [ Early results indicate that Rene Preval has an overwhelming lead in the Haitian general election ](/news/2006/02/9/early-results-indicate-that-rena-c-pra-c-val-has-an-overwhelming-lead-in-the-haitian-general-election.md)
-_Context: Haitian elections, 2006, René Préval_
+_Context: Haitian elections, 2006, Rene Preval_
 
 ### [ The General Synod of the Church of England unanimously votes to apologise to descendants of the slaves on Barbados where, two hundred years ago, the church's Society for the Propagation of the Gospel in Foreign Parts that owned the Codrington Estates, used slaves for labour. ](/news/2006/02/9/the-general-synod-of-the-church-of-england-unanimously-votes-to-apologise-to-descendants-of-the-slaves-on-barbados-where-two-hundred-years.md)
 News and opinion from The Times &amp; The Sunday Times
 
-### [ U.S. forces are searching for the {{USS|Cole|DDG-67|06}} attacker who escaped from prison last Friday. According to Interpol, an al-Qaida operative who had been sentenced to death for plotting the bombing of the USS ''Cole'' in 2000 escaped with a group of convicts from their prison last week in Sanaa, Yemen. ](/news/2006/02/9/u-s-forces-are-searching-for-the-uss-cole-ddg-67-06-attacker-who-escaped-from-prison-last-friday-according-to-interpol-an-al-qaida-o.md)
+### [ U.S. forces are searching for the Cole|DDG-67|06 attacker who escaped from prison last Friday. According to Interpol, an al-Qaida operative who had been sentenced to death for plotting the bombing of the USS ''Cole'' in 2000 escaped with a group of convicts from their prison last week in Sanaa, Yemen. ](/news/2006/02/9/u-s-forces-are-searching-for-the-cole-ddg-67-06-attacker-who-escaped-from-prison-last-friday-according-to-interpol-an-al-qaida-operative.md)
 _Context: Al Qaida's, Interpol, SANAA, USS ''Cole'' bombing, Yemen_
 
 ### [ Egypt's Supreme Council of Antiquities announces the discovery of an intact pharaonic tomb in the Valley of the Kings&nbsp;&ndash;  the first to be discovered since King Tutankhamun's in 1922. ](/news/2006/02/9/egypt-s-supreme-council-of-antiquities-announces-the-discovery-of-an-intact-pharaonic-tomb-in-the-valley-of-the-kings-nbsp-ndash-the-fir.md)

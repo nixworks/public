@@ -16,7 +16,7 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 _Context: Ethiopia, France, tourist_
 
 ### [ The Spanish Government moves hungerstriking ETA prisoner Iaki de Juana Chaos from a cell in Madrid to one in the Basque Country. ](/news/2007/03/1/the-spanish-government-moves-hungerstriking-eta-prisoner-inaki-de-juana-chaos-from-a-cell-in-madrid-to-one-in-the-basque-country.md)
-_Context: Basque, ETA, Iñaki de Juana Chaos, Madrid, hunger strike_
+_Context: Basque, ETA, Iaki de Juana Chaos, Madrid, hunger strike_
 
 ### [ A boat carrying Haitian migrants catches fire off the coast of the Dominican Republic resulting in the death of at least eight people and 44 people missing. ](/news/2007/03/1/a-boat-carrying-haitian-migrants-catches-fire-off-the-coast-of-the-dominican-republic-resulting-in-the-death-of-at-least-eight-people-and-4.md)
 U.S. Coast Guard searches for 44 missing people from a vessel, which caught fire while traveling between Haiti and Turks and Caicos.
@@ -25,7 +25,7 @@ U.S. Coast Guard searches for 44 missing people from a vessel, which caught fire
 _Context: Copenhagen, Ungdomshuset, squatter_
 
 ### [ The government of Turkey orders an investigation into claims that the Kurdish separatist leader Abdullah calan was poisoned. ](/news/2007/03/1/the-government-of-turkey-orders-an-investigation-into-claims-that-the-kurdish-separatist-leader-abdullah-ocalan-was-poisoned.md)
-_Context: Abdullah Öcalan, Kurdish, Turkish government, poison_
+_Context: Abdullah calan, Kurdish, Turkish government, poison_
 
 ### [ A tornado strikes southern Missouri killing a seven-year-old girl. Tornadoes in Alabama kill at least ten people including eight students at Enterprise High School. In Georgia, at least nine people die in storms. It is part of a larger tornado outbreak. ](/news/2007/03/1/a-tornado-strikes-southern-missouri-killing-a-seven-year-old-girl-tornadoes-in-alabama-kill-at-least-ten-people-including-eight-students-a.md)
 Tornadoes killed at least seven people in south Alabama today, including five at Enterprise High School, where students were trapped as a hallway roof collapsed. One person died elsewhere in Enterprise, in Coffee County, and one man died in Wilcox...

@@ -13,7 +13,7 @@ _Context: Baghdad, Condoleezza Rice, Iraq, Iskandariya, Ramadi, United States Se
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ In the Cote d'Ivoire, government and rebels agree to begin disarmament and formation of unified army in June 27. ](/news/2005/05/15/in-the-ca-te-d-ivoire-government-and-rebels-agree-to-begin-disarmament-and-formation-of-unified-army-in-june-27.md)
-_Context: Côte d'Ivoire, June 27_
+_Context: Cote d'Ivoire, June 27_
 
 ### [ Burundi president Domitien Ndayizeye and Agathon Rwasa, leader of the last of the rebel groups, National Liberation Forces, sign a peace deal in a meeting in Dar es Salaam, Tanzania. ](/news/2005/05/15/burundi-president-domitien-ndayizeye-and-agathon-rwasa-leader-of-the-last-of-the-rebel-groups-national-liberation-forces-sign-a-peace-de.md)
 _Context: Agathon Rwasa, Burundi, Dar es Salaam, Domitien Ndayizeye, National Liberation Forces, Tanzania_
@@ -22,7 +22,7 @@ _Context: Agathon Rwasa, Burundi, Dar es Salaam, Domitien Ndayizeye, National Li
 _Context: Las Vegas, Nevada_
 
 ### [ Elections for mayor and city council in Zagreb. Milan Bandic wins and enters his third term.](/news/2005/05/15/elections-for-mayor-and-city-council-in-zagreb-milan-bandia-wins-and-enters-his-third-term.md)
-_Context: Milan Bandić, Zagreb_
+_Context: Milan Bandic, Zagreb_
 
 ### [ National Elections were held in Ethiopia. The elections, which over 90% of the electorate voted in, were later marred by protests and violence.  The ruling party EPRDF won its third term.](/news/2005/05/15/national-elections-were-held-in-ethiopia-the-elections-which-over-90-of-the-electorate-voted-in-were-later-marred-by-protests-and-viole.md)
 _Context: EPRDF, Ethiopia_

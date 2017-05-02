@@ -6,7 +6,7 @@ Car bomb and two explosions at main gate of Interior Ministry, after earlier bla
 ### [Musicians and entertainers including the Rolling Stones, Eric Clapton and Bruce Springsteen perform a benefit concert for victims of Hurricane Sandy at Madison Square Garden in New York City. ](/news/2012/12/12/musicians-and-entertainers-including-the-rolling-stones-eric-clapton-and-bruce-springsteen-perform-a-benefit-concert-for-victims-of-hurrica.md)
 _Context: Bruce Springsteen and the E Street Band, Eric Clapton, Hurricane Sandy, Madison Square Garden, New York's, Rolling Stones_
 
-### [Pope Benedict XVI sends his first Twitter message with an assist using his personal account ({{twitter|pontifex|Pope Benedict XVI}}). ](/news/2012/12/12/pope-benedict-xvi-sends-his-first-twitter-message-with-an-assist-using-his-personal-account-twitter-pontifex-pope-benedict-xvi.md)
+### [Pope Benedict XVI sends his first Twitter message with an assist using his personal account (pontifex|Pope Benedict XVI). ](/news/2012/12/12/pope-benedict-xvi-sends-his-first-twitter-message-with-an-assist-using-his-personal-account-pontifex-pope-benedict-xvi.md)
 Pope Benedict XVI sends his first much-anticipated Twitter message using the handle @pontifex as his personal account.
 
 ### [Ben Bernanke, chairman of the U.S. Federal Reserve announces explicit ties between Fed policy on interest rates and economic goals, especially unemployment. ](/news/2012/12/12/ben-bernanke-chairman-of-the-u-s-federal-reserve-announces-explicit-ties-between-fed-policy-on-interest-rates-and-economic-goals-especial.md)
@@ -25,7 +25,7 @@ John McAfee, the fugitive computer software millionaire wanted for questioning i
 _Context: Ecuador, Jamil Mahuad, President_
 
 ### [Irish politician Joan Collins names crime journalist Paul Williams and sports star Ronan O'Gara under Dail privilege as being among those to benefit from having their penalty points for traffic offences cancelled by the Garda Siochana. Justice Minister Alan Shatter calls Collins's action a "total disgrace" and she is reported to a Leinster House watchdog called the Dail Committee on Procedure and Privileges. ](/news/2012/12/12/irish-politician-joan-collins-names-crime-journalist-paul-williams-and-sports-star-ronan-o-gara-under-da-il-privilege-as-being-among-those-t.md)
-_Context: Alan Shatter, Dáil Éireann, Joan Collins, Leinster House, Paul Williams, Republic of Ireland, Ronan O'Gara, police officer_
+_Context: Alan Shatter, Dail Eireann, Joan Collins, Leinster House, Paul Williams, Republic of Ireland, Ronan O'Gara, police officer_
 
 ### [Malian interim President Dioncounda Traore appoints Django Sissoko to be a new Acting Prime Minister, after his predecessor Cheick Modibo Diarra was forced to resign by leaders of the 2012 coup d'etat. ](/news/2012/12/12/malian-interim-president-dioncounda-traora-c-appoints-django-sissoko-to-be-a-new-acting-prime-minister-after-his-predecessor-cheick-modibo-d.md)
 Malian President Diouncounda Traore appoints a new prime minister, less than 24 hours after his predecessor was forced to resign by the military.

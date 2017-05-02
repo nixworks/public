@@ -22,7 +22,7 @@ A 43-year-old former student is arrested after seven people are shot dead at a p
 _Context: Burma, National League for Democracy, by-elections earlier this month_
 
 ### [Pl Schmitt resigns as President of Hungary after his doctorate is revoked in a plagiarism scandal. ](/news/2012/04/2/pal-schmitt-resigns-as-president-of-hungary-after-his-doctorate-is-revoked-in-a-plagiarism-scandal.md)
-_Context: President of Hungary, Pál Schmitt_
+_Context: Pl Schmitt, President of Hungary_
 
 ### [The data from the 1940 United States Census are released including information on 132 million people. ](/news/2012/04/2/the-data-from-the-1940-united-states-census-are-released-including-information-on-132-million-people.md)
 _Context: 1940 United States Census_

@@ -25,7 +25,7 @@ _Context: Chile, Colonia Dignidad, Paul Schaefer, Villa Baviera, arsenal_
 _Context: Andijan, Human rights, International Helsinki Federation, Uzbekistan_
 
 ### [ In Brazil, minister Jos Dirceu resigns due to allegations that he knew about bribery but insists that he is innocent ](/news/2005/06/16/in-brazil-minister-jose-dirceu-resigns-due-to-allegations-that-he-knew-about-bribery-but-insists-that-he-is-innocent.md)
-_Context: Brazil, José Dirceu, bribes_
+_Context: Brazil, Jos Dirceu, bribes_
 
 ### [ Eastern Orthodox Church demotes former patriarch Irenaios I to a rank of a monk ](/news/2005/06/16/eastern-orthodox-church-demotes-former-patriarch-irenaios-i-to-a-rank-of-a-monk.md)
 _Context: Eastern Orthodox, Irenaios I, monk_

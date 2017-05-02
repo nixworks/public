@@ -4,13 +4,13 @@
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [Islamic extremists kill at least 18 people in an attack on two rural towns Awdhegie and Mubarak, ](/news/2015/05/23/islamic-extremists-kill-at-least-18-people-in-an-attack-on-two-rural-towns-awdhegie-and-mubarak.md)
-_Context: War in Somalia (2009–present)_
+_Context: War in Somalia (2009-present)_
 
 ### [Pro-Russian separatist military leader colonel Alexei Mozgovoi is confirmed killed in an ambush on his car. ](/news/2015/05/23/pro-russian-separatist-military-leader-colonel-alexei-mozgovoi-is-confirmed-killed-in-an-ambush-on-his-car.md)
 One of the top rebel commanders in eastern Ukraine, Alexei Mozgovoi, is killed in an attack on his car, media say.
 
 ### [The Salvadoran Archbishop Oscar Romero, assassinated at the start of the Salvadoran Civil War, is beatified in Pope Francis's name, by Cardinal Angelo Amato, Prefect of the Congregation for the Causes of Saints, in San Salvador. ](/news/2015/05/23/the-salvadoran-archbishop-ascar-romero-assassinated-at-the-start-of-the-salvadoran-civil-war-is-beatified-in-pope-francis-s-name-by-card.md)
-_Context: Angelo Amato, Congregation for the Causes of Saints, Pope Francis, Salvadoran Civil War, San Salvador, Óscar Romero_
+_Context: Angelo Amato, Congregation for the Causes of Saints, Oscar Romero, Pope Francis, Salvadoran Civil War, San Salvador_
 
 ### [The final of the Eurovision Song Contest 2015 is held in Vienna, Austria with Mans Zelmerlow of Sweden winning for the song Heroes. ](/news/2015/05/23/the-final-of-the-eurovision-song-contest-2015-is-held-in-vienna-austria-with-may-ns-zelmerlapw-of-sweden-winning-for-the-song-heroes.md)
 &amp;#160;It&#039;s the million-dollar question bugging Eurovision tragics and media executives alike: what&#039;s the real story behind Australia&#039;s participation in that festival of daggy pop songs?

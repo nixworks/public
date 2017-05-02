@@ -28,7 +28,7 @@ _Context: Chamber of Deputies, Cristina Kirchner, YPF_
 Chinese dissident Chen Guangcheng telephones a US Congressional hearing to plead for help in his attempts to leave China with his family.
 
 ### [2012 Malian coup d'tat: The Economic Community of West African States pledges to send troops to Mali if the country agrees. ](/news/2012/05/3/2012-malian-coup-d-etat-the-economic-community-of-west-african-states-pledges-to-send-troops-to-mali-if-the-country-agrees.md)
-_Context: ECOWAS, Mali, Malian coup d'état_
+_Context: ECOWAS, Mali, Malian coup d'tat_
 
 ### [China, France, Russia, the United Kingdom and United States urge Iran to co-operate with the International Atomic Energy Agency. ](/news/2012/05/3/china-france-russia-the-united-kingdom-and-united-states-urge-iran-to-co-operate-with-the-international-atomic-energy-agency.md)
 _Context: China, France, International Atomic Energy Agency, Iran, Russia, United Kingdom, United States_

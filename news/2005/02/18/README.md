@@ -25,7 +25,7 @@ _Context: Hunting Act 2004_
 _Context: ACLU, Abu Ghraib, Abu Ghraib abuse, Abu Ghraib prison, Iraq War, United States Army, scandal_
 
 ### [ Sir Mark Thatcher returns to court in Cape Town, South Africa, to answer charges about his involvement in a coup attempt in Equatorial Guinea. ](/news/2005/02/18/sir-mark-thatcher-returns-to-court-in-cape-town-south-africa-to-answer-charges-about-his-involvement-in-a-coup-attempt-in-equatorial-guin.md)
-_Context: Cape Town, Equatorial Guinea, Mark Thatcher, coup d'état_
+_Context: Cape Town, Equatorial Guinea, Mark Thatcher, coup d'tat_
 
 ### [ The 42nd known Mersenne prime is discovered by Martin Nowak of Germany, a participant of the GIMPS distributed computing project.  The prime number is the largest known Mersenne prime at the time of its discovery, and is nearly eight million digits long.](/news/2005/02/18/the-42nd-known-mersenne-prime-is-discovered-by-martin-nowak-of-germany-a-participant-of-the-gimps-distributed-computing-project-the-prim.md)
 _Context: Great Internet Mersenne Prime Search, Mersenne prime, distributed computing, prime number, project_

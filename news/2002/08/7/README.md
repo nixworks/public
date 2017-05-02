@@ -13,7 +13,7 @@ _Context: algorithm, bit, computational complexity theory, mathematics, number, 
 _Context: Stock market downturn of 2002, stock market_
 
 ### [Explosions went off near the parliament building as Colombia's President lvaro Uribe was being sworn in, killing at least 10 people.](/news/2002/08/7/explosions-went-off-near-the-parliament-building-as-colombia-s-president-alvaro-uribe-was-being-sworn-in-killing-at-least-10-people.md)
-_Context: Colombia, Álvaro Uribe_
+_Context: Alvaro Uribe, Colombia_
 
 ### [ ''Recent celebrity deaths:'' Edsger Dijkstra, one of the giants of the field of computer science, has died.](/news/2002/08/7/recent-celebrity-deaths-edsger-dijkstra-one-of-the-giants-of-the-field-of-computer-science-has-died.md)
 _Context: Edsger Dijkstra, Recent celebrity deaths, computer science_

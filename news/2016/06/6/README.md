@@ -22,10 +22,10 @@ The testing of thousands of old police &quot;rape kits&quot; has led to more tha
 _Context: Keiko Fujimori, Pedro Pablo Kuczynski, Peru, Peruvian general election, 2016_
 
 ### [Haiti will redo its presidential election after findings of widespread voter fraud in last years voting. Additional measures will be put in place for the first round in October this year. ](/news/2016/06/6/haiti-will-redo-its-presidential-election-after-findings-of-widespread-voter-fraud-in-last-years-voting-additional-measures-will-be-put-in.md)
-_Context: Haiti, Haitian presidential election, 2015–16_
+_Context: Haiti, Haitian presidential election, 2015-16_
 
 ### [The Associated Press reports that Hillary Clinton has the support of enough delegates to secure the Democratic Party nomination. Since delegates do not vote until the convention though, she is the presumptive nominee of the party. ](/news/2016/06/6/the-associated-press-reports-that-hillary-clinton-has-the-support-of-enough-delegates-to-secure-the-democratic-party-nomination-since-deleg.md)
-_Context: Associated Press, Democrat, Democratic Party presidential primaries, 2016, Hillary Clinton, presumptive nominee_
+_Context: Associated Press, Democratic, Democratic Party presidential primaries, 2016, Hillary Clinton, presumptive nominee_
 
 ## [Previous Day...](/news/2016/06/5/index.md)
 

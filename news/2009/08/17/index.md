@@ -13,13 +13,13 @@ The attack in Russia’s tumultuous North Caucasus region was the latest episode
 Eight people are dead and 54 still unaccounted for after an accident at a hydroelectric power station in Siberia.
 
 ### [ The Canadian Forces begin exercises to protect Canada's sovereignty in the far north. ](/news/2009/08/17/the-canadian-forces-begin-exercises-to-protect-canada-s-sovereignty-in-the-far-north.md)
-_Context: Canadian, Canadian Forces, officially submit a claim_
+_Context: Canada, Canadian Forces, officially submit a claim_
 
 ### [ The MV ''Arctic Sea'', a cargo ship missing after an apparent hijacking in July off the Swedish coast, is discovered by the Russian Navy off Cape Verde. ](/news/2009/08/17/the-mv-arctic-sea-a-cargo-ship-missing-after-an-apparent-hijacking-in-july-off-the-swedish-coast-is-discovered-by-the-russian-navy-of.md)
 _Context: Cape Verde, MV ''Arctic Sea'', Russian Navy, Sweden_
 
 ### [ The actor Miguel Magno, of the series Toma La, Da Ca dies at the age 58.](/news/2009/08/17/the-actor-miguel-magno-of-the-series-toma-la-da-ca-dies-at-the-age-58.md)
-_Context: Miguel Magno, Toma Lá, Dá Cá_
+_Context: Miguel Magno, Toma La, Da Ca_
 
 ## [Previous Day...](/news/2009/08/16/index.md)
 

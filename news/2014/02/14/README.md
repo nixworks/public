@@ -4,7 +4,7 @@
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [France announces it will increase the number of its soldiers deployed in the Central African Republic as sectarian violence worsens. ](/news/2014/02/14/france-announces-it-will-increase-the-number-of-its-soldiers-deployed-in-the-central-african-republic-as-sectarian-violence-worsens.md)
-_Context: Central African Republic conflict (2012–present), Central-African, France_
+_Context: Central African Republic conflict (2012-present), Central-African, France_
 
 ### [India and Penguin books ban the book ''The Hindus: An Alternative History'' by Wendy Doniger for "blasphemy". ](/news/2014/02/14/india-and-penguin-books-ban-the-book-the-hindus-an-alternative-history-by-wendy-doniger-for-blasphemy.md)
 Major writers including Arundhati Roy and Neil Gaiman condemn &#x27;egregious&#x27; suppression of Wendy Doniger&#x27;s book
@@ -22,10 +22,10 @@ A storm unleashes a second wave of snowfall on the US north-east, after it cut p
 _Context: Java, Mount Kelud, Solo, Surabaya, Yogyakarta_
 
 ### [The United States Department of the Treasury sanctions the wife of Los Zetas former leader Miguel Trevino Morales under the Kingpin Act. ](/news/2014/02/14/the-united-states-department-of-the-treasury-sanctions-the-wife-of-los-zetas-former-leader-miguel-trevia-o-morales-under-the-kingpin-act.md)
-_Context: Kingpin Act, Los Zetas, Miguel Treviño Morales_
+_Context: Kingpin Act, Los Zetas, Miguel Trevino Morales_
 
 ### [2013-14 Thai political crisis:The government of Thailand deploys thousands of riot police to reclaim areas of Bangkok currently occupied by protesters. ](/news/2014/02/14/2013a14-thai-political-crisis-pthe-government-of-thailand-deploys-thousands-of-riot-police-to-reclaim-areas-of-bangkok-currently-occupied.md)
-_Context: 2013–14 Thai political crisis, Bangkok, Royal Thai Government_
+_Context: 2013-14 Thai political crisis, Bangkok, Royal Thai Government_
 
 ### [Italian Prime Minister Enrico Letta resigns after less than a year in office, following pressure from his own Democratic Party to step down. ](/news/2014/02/14/italian-prime-minister-enrico-letta-resigns-after-less-than-a-year-in-office-following-pressure-from-his-own-democratic-party-to-step-down.md)
 _Context: Democratic Party, Enrico Letta, Italian Prime Minister_

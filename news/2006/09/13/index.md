@@ -1,6 +1,6 @@
 ## [2006-09-13](/news/2006/09/13/index.md)
 
-### [ The solar system's largest dwarf planet, designated until now as {{mp|2003 UB|313}}, is officially named  "Eris"; its satellite is now known as "Dysnomia".](/news/2006/09/13/the-solar-system-s-largest-dwarf-planet-designated-until-now-as-mp-2003-ub-313-is-officially-named-eris-its-satellite-is-now-know.md)
+### [ The solar system's largest dwarf planet, designated until now as 2003 UB|313, is officially named  "Eris"; its satellite is now known as "Dysnomia".](/news/2006/09/13/the-solar-system-s-largest-dwarf-planet-designated-until-now-as-2003-ub-313-is-officially-named-eris-its-satellite-is-now-known-as-d.md)
 _Context: Dysnomia, Eris, Solar System, dwarf planet_
 
 ### [ Andrei Kozlov, deputy chairman of Russia's Central Bank, dies hours after being shot. ](/news/2006/09/13/andrei-kozlov-deputy-chairman-of-russia-s-central-bank-dies-hours-after-being-shot.md)

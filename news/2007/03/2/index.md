@@ -7,7 +7,7 @@ Violent demonstrations continued in Copenhagen, Denmark on Saturday, sparked by 
 _Context: Italian, Romano Prodi, parliament_
 
 ### [ Cuban foreign minister Felipe Prez Roque claims leader Fidel Castro is recovering from his illness and could come back to lead Cuba again. ](/news/2007/03/2/cuban-foreign-minister-felipe-perez-roque-claims-leader-fidel-castro-is-recovering-from-his-illness-and-could-come-back-to-lead-cuba-again.md)
-_Context: Cuba, Felipe Pérez Roque, Fidel Castro_
+_Context: Cuba, Felipe Prez Roque, Fidel Castro_
 
 ### [ The Bush administration selects a design from the Lawrence Livermore National Laboratory for a new generation of nuclear warheads that could replace the Trident missile on submarines by 2012. ](/news/2007/03/2/the-bush-administration-selects-a-design-from-the-lawrence-livermore-national-laboratory-for-a-new-generation-of-nuclear-warheads-that-coul.md)
 _Context: 2012, George W. Bush administration, Lawrence Livermore National Laboratory, Trident, nuclear warhead, submarine_

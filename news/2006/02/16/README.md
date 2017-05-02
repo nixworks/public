@@ -13,7 +13,7 @@ _Context: Bolkestein directive, European Green Party, French Socialist Party, Me
 _Context: Hamas, Ismail Haniya, January 2006 legislative elections, Prime Minister_
 
 ### [ Telephone recordings show governors in plot against journalist Lydia Cacho who exposed a ring of pedophiles. The recordings include conversations between businessman Kamel Nacif Borge and governors Mario Marn (Puebla) and Pablo Salazar Mendigucha (Chiapas) in which they arrange for her imprisonment and bribe prison guards to have her raped on arrival. ](/news/2006/02/16/telephone-recordings-show-governors-in-plot-against-journalist-lydia-cacho-who-exposed-a-ring-of-pedophiles-the-recordings-include-convers.md)
-_Context: Chiapas, Kamel Nacif Borge, Lydia Cacho, Mario Marín, Pablo Salazar Mendiguchía, Puebla_
+_Context: Chiapas, Kamel Nacif Borge, Lydia Cacho, Mario Marn, Pablo Salazar Mendigucha, Puebla_
 
 ### [ A United Nations report condemns the continued existence of Camp Delta, and multiple breaches of Human Rights by the US. ](/news/2006/02/16/a-united-nations-report-condemns-the-continued-existence-of-camp-delta-and-multiple-breaches-of-human-rights-by-the-us.md)
 _Context: Human rights, United Nations_
@@ -22,7 +22,7 @@ _Context: Human rights, United Nations_
 _Context: Abu Ghraib prison_
 
 ### [ After allegations of fraud, officials in Haiti have reached an agreement to declare Ren Prval the winner of that country's election. ](/news/2006/02/16/after-allegations-of-fraud-officials-in-haiti-have-reached-an-agreement-to-declare-rene-preval-the-winner-of-that-country-s-election.md)
-_Context: Haiti, René Préval_
+_Context: Haiti, Ren Prval_
 
 ### [ Tokelau self-determination referendum, 2006: Tokelau decides to remain a New Zealand territory after a referendum on self-governance. A 60% majority voted in favor of self-governance, but a two-thirds majority was required for the referendum to succeed. ](/news/2006/02/16/tokelau-self-determination-referendum-2006-tokelau-decides-to-remain-a-new-zealand-territory-after-a-referendum-on-self-governance-a-60.md)
 _Context: Tokelau self-determination referendum, 2006_

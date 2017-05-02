@@ -22,7 +22,7 @@ _Context: Australia, Cyclone Yasi, Queensland, north Queensland, tropical cyclon
 A colossal winter storm stretching from New Mexico to Maine hit the agricultural heartland of the United States with snow and freezing rain on Tuesday, and experts said the worst was still to come as it moved northeast.
 
 ### [The Shinmoedake volcano on the Japanese island of Kyushu erupts again with its biggest explosion since becoming active again. ](/news/2011/02/1/the-shinmoedake-volcano-on-the-japanese-island-of-kya-sha-erupts-again-with-its-biggest-explosion-since-becoming-active-again.md)
-_Context: Japan, Kyūshū, Shinmoedake_
+_Context: Japan, Kyushu, Shinmoedake_
 
 ### [Indonesian police arrest three people in connection with a fire on a ferry last week that killed 27 people. ](/news/2011/02/1/indonesian-police-arrest-three-people-in-connection-with-a-fire-on-a-ferry-last-week-that-killed-27-people.md)
 _Context: Indonesia, ferry_

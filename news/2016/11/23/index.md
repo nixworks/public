@@ -10,7 +10,7 @@ _Context: Brazilian Development Bank, Economy of Brazil, Government of Brazil_
 U.S. coal producer Peabody Energy Corp (BTUUQ.PK) said on Wednesday it is closer to exiting bankruptcy, with a debt dispute between creditors fizzling as a recent increase in coal prices boosts their chances for recovery.
 
 ### [Ayatollah Khamenei warns that Iran will retaliate if sanctions that breach the Nuclear Deal are approved. ](/news/2016/11/23/ayatollah-khamenei-warns-that-iran-will-retaliate-if-sanctions-that-breach-the-nuclear-deal-are-approved.md)
-_Context: Ayatollah Khamenei, Iran, Iran–United States relations, Joint Comprehensive Plan of Action_
+_Context: Ayatollah Khamenei, Iran, Iran-United States relations, Joint Comprehensive Plan of Action_
 
 ### [White supremacist Thomas Mair is found guilty of the murder of British Member of Parliament Jo Cox and is sentenced to life imprisonment with a whole life order. ](/news/2016/11/23/white-supremacist-thomas-mair-is-found-guilty-of-the-murder-of-british-member-of-parliament-jo-cox-and-is-sentenced-to-life-imprisonment-wit.md)
 Unemployed gardener, 53, given whole-life sentence for murder of MP that judge said was inspired by white supremacism

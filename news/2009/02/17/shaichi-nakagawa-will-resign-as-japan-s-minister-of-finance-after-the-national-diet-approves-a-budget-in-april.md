@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ Shoichi Nakagawa, the former Japanese Finance Minister who resigned over apparent drunken behaviour at the 2009 G7 meeting in Rome, is found dead in Tokyo. ](/news/2009/10/4/shaichi-nakagawa-the-former-japanese-finance-minister-who-resigned-over-apparent-drunken-behaviour-at-the-2009-g7-meeting-in-rome-is-fou.md) _Context: Japan, Minister of Finance, Shōichi Nakagawa_
+1. [ Shoichi Nakagawa, the former Japanese Finance Minister who resigned over apparent drunken behaviour at the 2009 G7 meeting in Rome, is found dead in Tokyo. ](/news/2009/10/4/shaichi-nakagawa-the-former-japanese-finance-minister-who-resigned-over-apparent-drunken-behaviour-at-the-2009-g7-meeting-in-rome-is-fou.md) _Context: Japan, Minister of Finance, Shoichi Nakagawa_
 2. [Jun Azumi, the Minister of Finance of Japan, says he is to step down and take on a senior function as the acting secretary-general of the Democratic Party of Japan. His announcement comes ahead of an expected cabinet reshuffle. ](/news/2012/09/24/jun-azumi-the-minister-of-finance-of-japan-says-he-is-to-step-down-and-take-on-a-senior-function-as-the-acting-secretary-general-of-the-de.md) _Context: Japan, Minister of Finance_
 3. [The Japanese Diet votes to extend its session until August 31 so that it can consider key legislation. ](/news/2011/06/22/the-japanese-diet-votes-to-extend-its-session-until-august-31-so-that-it-can-consider-key-legislation.md) _Context: Diet, Japan_
 4. [Japan's Opposition lodges a no-confidence motion in the Diet against Prime Minister Naoto Kan. ](/news/2011/06/1/japan-s-opposition-lodges-a-no-confidence-motion-in-the-diet-against-prime-minister-naoto-kan.md) _Context: Diet, Japan_

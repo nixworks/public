@@ -37,7 +37,7 @@ Burma&#39;s pro-democracy campaigner Aung San Suu Kyi has flown out of Dublin af
 World leaders meeting at a G20 summit in Mexico urge Europe to take all necessary measures to overcome the eurozone debt crisis.
 
 ### [United States President Barack Obama and Russian President Vladimir Putin discuss the uprising in Syria, Iran, and trade at the summit. ](/news/2012/06/18/united-states-president-barack-obama-and-russian-president-vladimir-putin-discuss-the-uprising-in-syria-iran-and-trade-at-the-summit.md)
-_Context: Barack Obama, Iran, Russian President, Syrian uprising (2011–present), Vladimir Putin, president_
+_Context: Barack Obama, Iran, Russian President, Syrian uprising (2011-present), Vladimir Putin, president_
 
 ### [Rwanda's "gacaca courts", set up to try those responsible for playing a role in the 1994 Rwandan Genocide, finish their work. ](/news/2012/06/18/rwanda-s-gacaca-courts-set-up-to-try-those-responsible-for-playing-a-role-in-the-1994-rwandan-genocide-finish-their-work.md)
 Survivors of the Rwandan genocide in 1994 say they are concerned about their safety after community courts ended their work after 10 years.
@@ -58,7 +58,7 @@ Italy earn the victory they needed against an already eliminated Republic of Ire
 _Context: English Premier League, Manchester City, Southampton_
 
 ### [British police investigate tennis player David Nalbandian after yesterday's disqualification from the final of the 2012 AEGON Championships over kicking an advertising board into the left shin of a line judge, seriously injuring him; his opponent, Marin Cilic, who was trailing Nalbandian at the time, was awarded the title and Nalbandian lost the prize money he would have received for finishing as runner-up. ](/news/2012/06/18/british-police-investigate-tennis-player-david-nalbandian-after-yesterday-s-disqualification-from-the-final-of-the-2012-aegon-championships.md)
-_Context: 2012 AEGON Championships, David Nalbandian, Marin Čilić, tennis_
+_Context: 2012 AEGON Championships, David Nalbandian, Marin Cilic, tennis_
 
 ## [Previous Day...](/news/2012/06/17/index.md)
 

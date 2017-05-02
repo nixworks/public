@@ -16,7 +16,7 @@ _Context: AIDS, human trial, vaccine_
 _Context: Jean-Pierre Raffarin_
 
 ### [ Former leader of Togo, Gnassingb Eyadma, is buried in the capital Lom ](/news/2005/03/13/former-leader-of-togo-gnassingbe-eyadema-is-buried-in-the-capital-lome.md)
-_Context: Gnassingbé Eyadéma, Lomé, Togo_
+_Context: Gnassingb Eyadma, Lom, Togo_
 
 ### [ Roll Back Malaria (RBM) Partnership charity concert "Africa Live"  begins in Dakar, Senegal, to collect funds to fight against malaria and to buy mosquito nets. Local musician Youssou N'Dour organized the concert and it features major African artists. ](/news/2005/03/13/roll-back-malaria-rbm-partnership-charity-concert-africa-live-begins-in-dakar-senegal-to-collect-funds-to-fight-against-malaria-and.md)
 Get the latest breaking news and top news headlines at Reuters.com

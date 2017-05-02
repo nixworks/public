@@ -22,7 +22,7 @@ _Context: 2004 Indian Ocean earthquake, Archaeological Survey of India, India, M
 _Context: Somalia_
 
 ### [ In Togo, police clash with protesters who denounce selection of Abass Bonfoh to replace Faure Gnassingb as an interim president. Opposition protesters support former parliamentary speaker Fambare Ouattara Natchaba ](/news/2005/02/27/in-togo-police-clash-with-protesters-who-denounce-selection-of-abass-bonfoh-to-replace-faure-gnassingbe-as-an-interim-president-oppositio.md)
-_Context: Abass Bonfoh, Fambare Ouattara Natchaba, Faure Gnassingbé, Togo_
+_Context: Abass Bonfoh, Fambare Ouattara Natchaba, Faure Gnassingb, Togo_
 
 ### [ In Japan, engineers finish blasting a 26.5 km (16.5 miles) long railway tunnel through a mountain in the Aomori prefecture. The tunnel is the longest in the world so far ](/news/2005/02/27/in-japan-engineers-finish-blasting-a-26-5-km-16-5-miles-long-railway-tunnel-through-a-mountain-in-the-aomori-prefecture-the-tunnel-is-t.md)
 _Context: Aomori prefecture, Japan, railway tunnel_

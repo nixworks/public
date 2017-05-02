@@ -25,7 +25,7 @@ _Context: Madagascar, political crisis, political parties, transitional governme
 _Context: Pakistan, Peshawar, War in North-West Pakistan, car bomb_
 
 ### [ Germany's Federal Assembly re-elects Horst Khler as President. ](/news/2009/05/23/germany-s-federal-assembly-re-elects-horst-kohler-as-president.md)
-_Context: Federal Assembly, Germany, Horst Köhler, President of Germany, re-elects_
+_Context: Federal Assembly, Germany, Horst Khler, President of Germany, re-elects_
 
 ### [ United States President Barack Obama nominates former astronaut Charles F. Bolden, Jr. as Administrator of the National Aeronautics and Space Administration. ](/news/2009/05/23/united-states-president-barack-obama-nominates-former-astronaut-charles-f-bolden-jr-as-administrator-of-the-national-aeronautics-and-spa.md)
 President Obama will name former astronaut Charles F. Bolden Jr. as NASA administrator, according to three congressional sources. If confirmed by the Senate, the retired Marine Corps general would...

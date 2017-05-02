@@ -7,7 +7,7 @@ Minister for Finance Brian Lenihan has outlined six steps to restore the Irish e
 _Context: East Jerusalem, Israel, Israeli police, Palestinian_
 
 ### [ United States District Judge Emmet G. Sullivan overturns the conviction of former Alaska Senator Ted Stevens. ](/news/2009/04/7/united-states-district-judge-emmet-g-sullivan-overturns-the-conviction-of-former-alaska-senator-ted-stevens.md)
-_Context: Alaska, Emmet Sullivan, Senator, Ted Stevens, U.S. District Court for the District of Columbia, United States, conviction_
+_Context: Alaska, Emmet Sullivan, Ted Stevens, U.S. District Court for the District of Columbia, United States, United States Senate, conviction_
 
 ### [ Former Peruvian President Alberto Fujimori is convicted of violating human rights and imprisoned until 2034. ](/news/2009/04/7/former-peruvian-president-alberto-fujimori-is-convicted-of-violating-human-rights-and-imprisoned-until-2034.md)
 _Context: Alberto Fujimori, Human rights, Peru, President, convicted, prison_
@@ -16,7 +16,7 @@ _Context: Alberto Fujimori, Human rights, Peru, President, convicted, prison_
 _Context: Batang Ai, Bukit Gantang, Bukit Selambau, Malaysia, by-election_
 
 ### [ Demonstrators in Chisinau protest the Communist Party's absolute majority in Moldova's parliamentary election. ](/news/2009/04/7/demonstrators-in-chiainau-protest-the-communist-party-s-absolute-majority-in-moldova-s-parliamentary-election.md)
-_Context: Chişinău, Moldova, PCRM, Parliament, absolute majority, demonstration, election, protesters_
+_Context: Chisinau, Moldova, PCRM, Parliament, absolute majority, demonstration, election, protesters_
 
 ### [ Two people are killed and two injured during a shooting in Landshut, Bavaria, Germany. ](/news/2009/04/7/two-people-are-killed-and-two-injured-during-a-shooting-in-landshut-bavaria-germany.md)
 _Context: Bavaria, Germany, Landshut, shooting_
@@ -25,7 +25,7 @@ _Context: Bavaria, Germany, Landshut, shooting_
 _Context: Bandung, Fokker F27, Indonesia, West Java, airliner, crashes_
 
 ### [ French police raid the Basque Homeland and Freedom's "bomb factory" in Grenoble, Isere. ](/news/2009/04/7/french-police-raid-the-basque-homeland-and-freedom-s-bomb-factory-in-grenoble-isa-re.md)
-_Context: ETA, France, French police, Grenoble, Isère, bomb, raid_
+_Context: ETA, France, French police, Grenoble, Isere, bomb, raid_
 
 ### [ Australia's government announces a A$43-billion investment for the National Broadband Network. ](/news/2009/04/7/australia-s-government-announces-a-a-43-billion-investment-for-the-national-broadband-network.md)
 _Context: A$, Australia, Australia's government, National Broadband Network, financial investment_

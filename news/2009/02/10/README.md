@@ -13,7 +13,7 @@ _Context: General Motors, automakers, layoff, salaried, struggling, workforce_
 _Context: Federal Minister of Economics and Technology, Karl-Theodor zu Guttenberg_
 
 ### [ Russian financial crisis of 2008-2009: Russia will request postponement of repayment of US$400 billion in private-sector debt to foreign banks. ](/news/2009/02/10/russian-financial-crisis-of-2008a2009-p-russia-will-request-postponement-of-repayment-of-us-400-billion-in-private-sector-debt-to-foreign.md)
-_Context: Russian financial crisis of 2008–2009, U.S. dollar, indebt, private-sector_
+_Context: Russian financial crisis of 2008-2009, U.S. dollar, indebt, private-sector_
 
 ### [ Swiss financial services company UBS AG lost 19.7 billion francs for fiscal year 2008 and will cut 15,000 jobs throughout 2009. ](/news/2009/02/10/swiss-financial-services-company-ubs-ag-lost-19-7-billion-francs-for-fiscal-year-2008-and-will-cut-15-000-jobs-throughout-2009.md)
 _Context: UBS AG, financial services, fiscal year, francs, layoff_
@@ -25,7 +25,7 @@ _Context: Israel, legislative election_
 _Context: Zimbabwe, cholera, depreciates, dollar, epidemic_
 
 ### [ The United States Senate approves the American Recovery and Reinvestment Act of 2009.  ](/news/2009/02/10/the-united-states-senate-approves-the-american-recovery-and-reinvestment-act-of-2009.md)
-_Context: American Recovery and Reinvestment Act, Senator_
+_Context: American Recovery and Reinvestment Act, United States Senate_
 
 ### [ The United Kingdom imposes new visa requirements on nationals from Bolivia, Lesotho, South Africa, Swaziland, and Venezuela. ](/news/2009/02/10/the-united-kingdom-imposes-new-visa-requirements-on-nationals-from-bolivia-lesotho-south-africa-swaziland-and-venezuela.md)
 _Context: Bolivia, Lesotho, Swaziland, Venezuela, national, visa-free travel_

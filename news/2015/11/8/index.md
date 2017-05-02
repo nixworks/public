@@ -25,7 +25,7 @@ An acoustic guitar thought to be have been used by John Lennon to write hits lik
 Once known as a Polish center, Hamtramck now has big Arab and Bangladeshi population as council becomes Muslim-majority
 
 ### [A Canadian Pacific Railway train carrying crude oil derails in Wisconsin; some of the 10 derailed cars are leaking oil. This is the second consecutive day for a freight train crash in the state. Yesterday, a BNSF Railway train wreck spilled thousands of gallons of ethanol. No injuries were reported in either accident. ](/news/2015/11/8/a-canadian-pacific-railway-train-carrying-crude-oil-derails-in-wisconsin-some-of-the-10-derailed-cars-are-leaking-oil-this-is-the-second-c.md)
-_Context: BNSF Railway, Canadian Pacific, Wisconsin, crude oil, ethanol ({{chem|C|H|3|C|H|2|O|H}})_
+_Context: BNSF Railway, Canadian Pacific, Wisconsin, crude oil, ethanol (C|H|3|C|H|2|O|H)_
 
 ### [A 1-year-old from London with acute lymphoblastic leukemia who had undergone myriads of unsuccessful treatments since she was 14 weeks old is in remission thanks to gene-editing technology, used for just the second time, that allowed her to receive modified immune cells from another person. ](/news/2015/11/8/a-1-year-old-from-london-with-acute-lymphoblastic-leukemia-who-had-undergone-myriads-of-unsuccessful-treatments-since-she-was-14-weeks-old-i.md)
 Five months ago, Layla Richards&apos;s parents were told that their infant daughter was about to die.
@@ -34,7 +34,7 @@ Five months ago, Layla Richards&apos;s parents were told that their infant daugh
 Venezuela said a U.S. Coast Guard intelligence plane violated its airspace on Friday and that other planes with capacity to gather information were circulating close to the South American country. &quot;Forty-eight hours ago, an intelligence plane for the U.S. Coast Guard took off from the air base
 
 ### [Spain's interior minister Jorge Fernandez Diaz says the first of more than 1,400 refugees from Syria and Eritrea are being welcomed for resettlement in new homes across the country. ](/news/2015/11/8/spain-s-interior-minister-jorge-ferna-ndez-daaz-says-the-first-of-more-than-1-400-refugees-from-syria-and-eritrea-are-being-welcomed-for-re.md)
-_Context: Eritrea, European migrant crisis, Jorge Fernández Díaz, Spain, Syria, interior minister_
+_Context: Eritrea, European migrant crisis, Jorge Fernandez Diaz, Spain, Syria, interior minister_
 
 ### [Hossam Bahgat, an investigative reporter for the independent Egyptian news website Mada Masr is detained and is interrogated on charges of publishing false news that could harm the nation. ](/news/2015/11/8/hossam-bahgat-an-investigative-reporter-for-the-independent-egyptian-news-website-mada-masr-is-detained-and-is-interrogated-on-charges-of-p.md)
 Hossam Bahgat&#039;s recent investigative reporting has prominently featured the country&#039;s military intelligence service

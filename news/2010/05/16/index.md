@@ -22,10 +22,10 @@ _Context: Dominican Republic, parliamentary election_
 _Context: Baghdad, Nuri al-Maliki, elections_
 
 ### [Prime Minister Recep Tayyip Erdogan flies to Tehran to join talks also attended by President Luiz Inacio Lula da Silva aimed at convincing Iran of the advantages of sending its nuclear material abroad for processing to ease fears from the West that Iran wants to build a bomb. ](/news/2010/05/16/prime-minister-recep-tayyip-erdoaan-flies-to-tehran-to-join-talks-also-attended-by-president-luiz-ina-cio-lula-da-silva-aimed-at-convincing.md)
-_Context: Iran, Luiz Inácio Lula da Silva, Recep Tayyip Erdoğan, Tehran_
+_Context: Iran, Luiz Inacio Lula da Silva, Recep Tayyip Erdogan, Tehran_
 
 ### [Canadian fighter jets escort a Cathay Pacific airliner to land at Vancouver International Airport during a bomb alert and the passengers are removed. ](/news/2010/05/16/canadian-fighter-jets-escort-a-cathay-pacific-airliner-to-land-at-vancouver-international-airport-during-a-bomb-alert-and-the-passengers-are.md)
-_Context: Canadian, Cathay Pacific, Vancouver International Airport_
+_Context: Canada, Cathay Pacific, Vancouver International Airport_
 
 ### [United States President Barack Obama is to ask the US Congress for an extra $200m in military aid to help Israel get a short-range rocket defence system called Iron Dome in place against mortar and rocket attacks from Gaza or Southern Lebanon. ](/news/2010/05/16/united-states-president-barack-obama-is-to-ask-the-us-congress-for-an-extra-200m-in-military-aid-to-help-israel-get-a-short-range-rocket-de.md)
 _Context: Barack Obama, Gaza Strip, Iron Dome, Israel, Southern Lebanon, US Congress, United States, military aid_
@@ -43,7 +43,7 @@ Hong Kong voted in citywide by-elections on Sunday, polls which pro-democracy gr
 _Context: Puerto Rico_
 
 ### [Brazilian President Luiz Inacio Lula da Silva flies from Moscow, where he met Russian President Dmitry Medvedev, to Tehran for a meeting with Iranian officials there on the nuclear issue. ](/news/2010/05/16/brazilian-president-luiz-ina-cio-lula-da-silva-flies-from-moscow-where-he-met-russian-president-dmitry-medvedev-to-tehran-for-a-meeting-wi.md)
-_Context: Dmitry Medvedev, Luiz Inácio Lula da Silva, Moscow, Tehran_
+_Context: Dmitry Medvedev, Luiz Inacio Lula da Silva, Moscow, Tehran_
 
 ### [The Republic of Korea Navy fires shots at a patrol boat from North Korea during a skirmish. ](/news/2010/05/16/the-republic-of-korea-navy-fires-shots-at-a-patrol-boat-from-north-korea-during-a-skirmish.md)
 _Context: North Korea, South Korean Navy_

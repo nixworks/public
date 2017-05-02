@@ -1,13 +1,13 @@
 ## [2007-02-15](/news/2007/02/15/index.md)
 
 ### [ Democratic Party officials in the U.S. Congress have warned President Bush that he does not have the authority to go to war with Iran. ](/news/2007/02/15/democratic-party-officials-in-the-u-s-congress-have-warned-president-bush-that-he-does-not-have-the-authority-to-go-to-war-with-iran.md)
-_Context: Democrat, George W. Bush, Iran, U.S. Congress, U.S. President, air strike_
+_Context: Democratic, George W. Bush, Iran, U.S. Congressional, U.S. President, air strike_
 
 ### [ Abu Ayyub al-Masri, the leader of al-Qaeda in Iraq, has been wounded in fighting in Baghdad according to Arab TV stations. ](/news/2007/02/15/abu-ayyub-al-masri-the-leader-of-al-qaeda-in-iraq-has-been-wounded-in-fighting-in-baghdad-according-to-arab-tv-stations.md)
 _Context: Abu Ayyub al-Masri, Baghdad, al-Qaeda in Iraq_
 
 ### [ Six Colombian legislators are arrested due to alleged links to paramilitary groups including Senator lvaro Arajo, the brother of Foreign Minister Mara Consuelo Arajo. ](/news/2007/02/15/six-colombian-legislators-are-arrested-due-to-alleged-links-to-paramilitary-groups-including-senator-alvaro-araujo-the-brother-of-foreign.md)
-_Context: Colombia, María Consuelo Araújo, paramilitary, Álvaro Araújo_
+_Context: Colombia, Mara Consuelo Arajo, lvaro Arajo, paramilitary_
 
 ### [ Former U. S. Vice President Al Gore announces plans for Live Earth concerts across seven continents in July 2007 to raise awareness of global warming. ](/news/2007/02/15/former-u-s-vice-president-al-gore-announces-plans-for-live-earth-concerts-across-seven-continents-in-july-2007-to-raise-awareness-of-glob.md)
 _Context: Al Gore, Live Earth, continents, global warming's_

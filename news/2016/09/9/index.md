@@ -1,7 +1,7 @@
 ## [2016-09-9](/news/2016/09/9/index.md)
 
 ### [United States Navy SEALs, by high altitude parachuting, fail in a rescue attempt after the team does not find the American and Australian hostages who were kidnapped in Kabul last month. ](/news/2016/09/9/united-states-navy-seals-by-high-altitude-parachuting-fail-in-a-rescue-attempt-after-the-team-does-not-find-the-american-and-australian-ho.md)
-_Context: Kabul, United States Navy SEALs, War in Afghanistan (2015–present), high altitude parachuting_
+_Context: Kabul, United States Navy SEALs, War in Afghanistan (2015-present), high altitude parachuting_
 
 ### [Twin suicide bombings  at the  Nakheel Mall  in eastern Baghdad kill 12 people and injure more than 40 others. ISIL claims responsibility. ](/news/2016/09/9/twin-suicide-bombings-at-the-nakheel-mall-in-eastern-baghdad-kill-12-people-and-injure-more-than-40-others-isil-claims-responsibility.md)
 Twelve people were killed late on Friday in two suicide bombings claimed by Islamic State at a shopping mall in eastern Baghdad, police and hospital sources said.
@@ -28,7 +28,7 @@ _Context: Mayon Volcano, Philippines_
 _Context: Nigeria, famine_
 
 ### [A train derails at a station in the town of O Porrino in Galicia, Spain, killing at least four people. ](/news/2016/09/9/a-train-derails-at-a-station-in-the-town-of-o-porria-o-in-galicia-spain-killing-at-least-four-people.md)
-_Context: Galicia, O Porriño, Spain, train derails_
+_Context: Galicia, O Porrino, Spain, train derails_
 
 ### [More than a hundred tourists in the French Alps spend an evening suspended in midair inside cable cars that ceased to move. ](/news/2016/09/9/more-than-a-hundred-tourists-in-the-french-alps-spend-an-evening-suspended-in-midair-inside-cable-cars-that-ceased-to-move.md)
 Helicopters managed to extract 65 people from the gondolas late on Thursday — but then night fell, and the remaining trapped tourists had to wait until morning to be rescued.

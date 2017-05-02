@@ -1,0 +1,23 @@
+### [2015-07-25](/news/2015/07/25/index.md)
+
+# A large fire 12|mi|abbr=off west of the French city of Bordeaux ravages more than 350|ha|abbr=off of forest. 
+
+Water-bombers were called in Saturday to try to contain a forest fire burning on the western outskirts of Bordeaux that has prompted dozens of evacuations including from a psychiatric facility, authorities said.
+
+
+### Source:
+
+1. [The Daily Star](http://www.dailystar.com.lb/News/World/2015/Jul-25/308264-water-bombers-used-to-douse-forest-fire-on-edge-of-bordeaux.ashx)
+
+### Related:
+
+1. [The strain of E. coli blamed for 46 deaths in Germany appears to have resurfaced in France, sickening eight people, who have been hospitalized in Bordeaux. ](/news/2011/06/26/the-strain-of-e-coli-blamed-for-46-deaths-in-germany-appears-to-have-resurfaced-in-france-sickening-eight-people-who-have-been-hospitaliz.md) _Context: Bordeaux, France_
+2. [French police arrest twelve alleged al-Qaeda terrorists in Marseilles and Bordeaux including three suspects allegedly found with bomb making kits. ](/news/2010/10/5/french-police-arrest-twelve-alleged-al-qaeda-terrorists-in-marseilles-and-bordeaux-including-three-suspects-allegedly-found-with-bomb-making.md) _Context: Bordeaux, France_
+3. [ UNESCO designates 22 new World Heritage Sites, including the Sydney Opera House; Canada's Rideau Canal; Japan's Iwami Ginzan Silver Mine; Turkmenistan's Parthian Fortresses of Nisa; India's Red Fort complexes; the Lope-Okanda Landscape of Gabon; the Richtersveld desert of South Africa; the rock carvings of Twyfelfontein in Namibia; the fortified tower houses of Guangdong Province in the People's Republic of China; Teide National Park in the Canary Islands, Spain; the ancient beech forests of Central Europe; Mehmed Pasa Sokolovic Bridge in Bosnia and Herzegovina; Bordeaux and the Port de la Lune in France; the Old Town of Corfu in Greece; and the Palace of Galerius in Gamzigrad-Romuliana in Serbia. ](/news/2007/06/28/unesco-designates-22-new-world-heritage-sites-including-the-sydney-opera-house-canada-s-rideau-canal-japan-s-iwami-ginzan-silver-mine-t.md) _Context: Bordeaux, France_
+4. [ French voters go to the polls to elect a new French National Assembly. The centre-right Union for a Popular Movement  (UPM) wins a comfortable majority; however, the left did make some gains, with senior minister Alain Juppe losing his seat in Bordeaux. ](/news/2007/06/17/french-voters-go-to-the-polls-to-elect-a-new-french-national-assembly-the-centre-right-union-for-a-popular-movement-upm-wins-a-comforta.md) _Context: Bordeaux, France_
+5. [With polls showing a close race with Emmanuel Macron and Jean-Luc Mlenchon, Marine Le Pen of the National Front pledges to temporarily suspend all immigration, "legal and illegal", to France. ](/news/2017/04/18/with-polls-showing-a-close-race-with-emmanuel-macron-and-jean-luc-melenchon-marine-le-pen-of-the-national-front-pledges-to-temporarily-susp.md) _Context: France_
+6. [An explosion occurs at a carnival in Villepinte, Seine-Saint-Denis, France, injuring at least 18 people. ](/news/2017/04/1/an-explosion-occurs-at-a-carnival-in-villepinte-seine-saint-denis-france-injuring-at-least-18-people.md) _Context: France_
+7. [On Friday night a man begins to shoot in a Lille Metro station in Lille, France. Three people are injured, including being shot in the leg and neck. The gunman is not thought to be a terrorist, and is still on the run. ](/news/2017/03/24/on-friday-night-a-man-begins-to-shoot-in-a-lille-metro-station-in-lille-france-three-people-are-injured-including-being-shot-in-the-leg-a.md) _Context: France_
+8. [A man drives into a crowd of pedestrians in Antwerp, Belgium, injuring several people. Police arrest the man, who is believed to be North African born and living in France. ](/news/2017/03/23/a-man-drives-into-a-crowd-of-pedestrians-in-antwerp-belgium-injuring-several-people-police-arrest-the-man-who-is-believed-to-be-north-af.md) _Context: France_
+9. [Bruno Le Roux resigns as France's Minister of the Interior amid a jobs scandal involving two of his daughters. Using public funds, Bruno had hired his 15 and 16-year-old daughters as parliamentary assistants while he was serving as a deputy in the French National Assembly. ](/news/2017/03/21/bruno-le-roux-resigns-as-france-s-minister-of-the-interior-amid-a-jobs-scandal-involving-two-of-his-daughters-using-public-funds-bruno-had.md) _Context: France_
+10. [A shooting at a school in Grasse, France, injures at least eight people. Authorities arrest a 17-year-old student. ](/news/2017/03/16/a-shooting-at-a-school-in-grasse-france-injures-at-least-eight-people-authorities-arrest-a-17-year-old-student.md) _Context: France_

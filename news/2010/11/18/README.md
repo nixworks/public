@@ -19,7 +19,7 @@ General Motors Co made a triumphant return to Wall Street less than a year and a
 Police fire tear gas into a camp for displaced people as protests accusing UN troops of bringing cholera turn violent.
 
 ### [President of Colombia Juan Manuel Santos declares a state of emergency in Colombia after ongoing floods and landslides kill at least 136 people and the flooding spreads to the capital, Bogot. ](/news/2010/11/18/president-of-colombia-juan-manuel-santos-declares-a-state-of-emergency-in-colombia-after-ongoing-floods-and-landslides-kill-at-least-136-peo.md)
-_Context: Bogotá, Colombia, Colombian President, Juan Manuel Santos, ongoing floods, state of emergency_
+_Context: Bogota, Colombia, Colombian President, Juan Manuel Santos, ongoing floods, state of emergency_
 
 ### [The Nobel Committee says the Nobel Peace Prize for Liu Xiaobo may not be handed out this year as China will not allow anyone from his family to attend the event. ](/news/2010/11/18/the-nobel-committee-says-the-nobel-peace-prize-for-liu-xiaobo-may-not-be-handed-out-this-year-as-china-will-not-allow-anyone-from-his-family.md)
 The presentation in Oslo next month will most likely be postponed because China is not allowing the dissident Liu Xiaobo or his family to attend.
@@ -49,7 +49,7 @@ _Context: Japanese police, Kiyoshi Takayama, Kobe, Yamaguchi-gumi, yakuza_
 Prominent Egyptian blogger Abdel Kareem Nabil Soliman is released from jail after four years.
 
 ### [The United States House Committee on Standards of Official Conduct recommends that the United States House of Representatives censure Rep. Charlie Rangel D-NY for ethics violations and be required to make restitution for any unpaid taxes. ](/news/2010/11/18/the-united-states-house-committee-on-standards-of-official-conduct-recommends-that-the-united-states-house-of-representatives-censure-rep-c.md)
-_Context: Charlie Rangel, Democrat, New York, U.S. House, United States House Committee on Standards of Official Conduct, censure_
+_Context: Charlie Rangel, Democratic, New York, U.S. House, United States House Committee on Standards of Official Conduct, censure_
 
 ### [US health insurers gave over $86.2million to the  Chamber of Commerce last year for the purpose of opposing the  health-care overhaul. ](/news/2010/11/18/us-health-insurers-gave-over-86-2million-to-the-chamber-of-commerce-last-year-for-the-purpose-of-opposing-the-health-care-overhaul.md)
 _Context: U.S. Chamber of Commerce, health care reform_

@@ -10,7 +10,7 @@ _Context: Ariel Sharon, Condoleezza Rice, Israel, Mahmoud Abbas, President of th
 _Context: Prime Minister, Thaksin, greatest electoral sweep_
 
 ### [ Togo succession:  The Togolese parliament tries to legalize the accession to power of Faure Gnassingb, son of Gnassingb Eyadma, by voting to change a constitutional amendment. ](/news/2005/02/6/togo-succession-p-the-togolese-parliament-tries-to-legalize-the-accession-to-power-of-faure-gnassingbe-son-of-gnassingbe-eyadema-by-voti.md)
-_Context: Faure Gnassingbé, Gnassingbé Eyadéma, Togo_
+_Context: Faure Gnassingb, Gnassingb Eyadma, Togo_
 
 ### [ Conflict in Iraq: Guerrilla fighting leaves 22 dead, including two US troops. ](/news/2005/02/6/conflict-in-iraq-guerrilla-fighting-leaves-22-dead-including-two-us-troops.md)
 _Context: Conflict in Iraq, United States, guerillas_

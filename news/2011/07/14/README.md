@@ -4,7 +4,7 @@
 Activists report deaths in several provinces as Sarkozy calls for tougher sanctions against the Assad government.
 
 ### [War in Afghanistan (2001-present):A suicide bombing at a mosque in Kandahar, Afghanistan, kills four people and injures 11 including the head of the provincial religious council while they were praying for Ahmed Wali Karzai. ](/news/2011/07/14/war-in-afghanistan-2001apresent-pa-suicide-bombing-at-a-mosque-in-kandahar-afghanistan-kills-four-people-and-injures-11-including-the.md)
-_Context: Afghanistan, Ahmed Wali Karzai, Kandahar, War in Afghanistan (2001–present), suicide bombing_
+_Context: Afghanistan, Ahmed Wali Karzai, Kandahar, War in Afghanistan (2001-present), suicide bombing_
 
 ### [At least six Yemeni militants are killed following an air strike on a police station in the Abyan Governorate that the militants had overrun. ](/news/2011/07/14/at-least-six-yemeni-militants-are-killed-following-an-air-strike-on-a-police-station-in-the-abyan-governorate-that-the-militants-had-overrun.md)
 _Context: Abyan Governorate, Yemen_
@@ -67,7 +67,7 @@ The Conservatives elect Andrew RT Davies as their leader in the Welsh assembly, 
 Shortly after President Obama and congressional leaders ended their meeting on the debt ceiling, the White House announced a Friday-morning news conference.
 
 ### [The Democratic Governor of Minnesota Mark Dayton and Republican legislative leaders reach a budget deal which will end a shutdown of the US state government within days. ](/news/2011/07/14/the-democratic-governor-of-minnesota-mark-dayton-and-republican-legislative-leaders-reach-a-budget-deal-which-will-end-a-shutdown-of-the-us.md)
-_Context: Democrat, Mark Dayton, Minnesota, Minnesota Governor, Republican, legislative_
+_Context: Democratic, Mark Dayton, Minnesota, Minnesota Governor, Republican, legislative_
 
 ### [Neptune completes its first orbit of the Sun since its discovery in 1846. ](/news/2011/07/14/neptune-completes-its-first-orbit-of-the-sun-since-its-discovery-in-1846.md)
 Neptune has just completed its first full orbit since its discovery 165 years ago.

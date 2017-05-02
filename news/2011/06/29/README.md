@@ -16,7 +16,7 @@ A gunfight in the Democratic Republic of Congo mining capital of Lubumbashi leav
 _Context: Chad, International Organization for Migration, Libya_
 
 ### [Research by Brown University finds the U.S. wars on Iraq and Afghanistan are expected to cost at least $3.2 trillion, and maybe as much as $4.4 trillion, higher than previously expected. ](/news/2011/06/29/research-by-brown-university-finds-the-u-s-wars-on-iraq-and-afghanistan-are-expected-to-cost-at-least-3-2-trillion-and-maybe-as-much-as.md)
-_Context: Brown University, Iraq War, War in Afghanistan (2001–present)_
+_Context: Brown University, Iraq War, War in Afghanistan (2001-present)_
 
 ### [A curfew is imposed on Abuja by the Nigerian government due to recent deadly attacks. ](/news/2011/06/29/a-curfew-is-imposed-on-abuja-by-the-nigerian-government-due-to-recent-deadly-attacks.md)
 _Context: Abuja_

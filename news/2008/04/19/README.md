@@ -3,7 +3,7 @@
 ### [ Muqtada al-Sadr threatens a new rebellion if a United States-Iraqi crackdown against his followers continues. ](/news/2008/04/19/muqtada-al-sadr-threatens-a-new-rebellion-if-a-united-states-iraqi-crackdown-against-his-followers-continues.md)
 _Context: Iraq, Muqtada al-Sadr, United States, crackdown against his followers_
 
-### [ Soyuz TMA-11 lands safely outside Arkalyk, {{convert|475|km|mi|sp=us}} short of the planned landing site in Kazakhstan, due to a computer glitch. ](/news/2008/04/19/soyuz-tma-11-lands-safely-outside-arkalyk-convert-475-km-mi-sp-us-short-of-the-planned-landing-site-in-kazakhstan-due-to-a-computer-g.md)
+### [ Soyuz TMA-11 lands safely outside Arkalyk, 475|km|mi|sp=us short of the planned landing site in Kazakhstan, due to a computer glitch. ](/news/2008/04/19/soyuz-tma-11-lands-safely-outside-arkalyk-475-km-mi-sp-us-short-of-the-planned-landing-site-in-kazakhstan-due-to-a-computer-glitch.md)
 _Context: Arkalyk, Kazakhstan, Soyuz TMA-11_
 
 ### [ 2008 Summer Olympics torch relay: Chinese nationalists boycott the French-owned retail chain Carrefour in cities including Kunming, Hefei and Wuhan, accusing the French people of racism. Protesters block customers with large flags and throw water bottles. In Hefei, a Carrefour store was vandalized and looted by protesters. ](/news/2008/04/19/2008-summer-olympics-torch-relay-chinese-nationalists-boycott-the-french-owned-retail-chain-carrefour-in-cities-including-kunming-hefei-a.md)

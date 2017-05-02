@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [Fans clash in Istanbul, Turkey, as Galatasaray draw with Fenerbahce S.K. to secure their 18th Turkish football title. ](/news/2012/05/12/fans-clash-in-istanbul-turkey-as-galatasaray-draw-with-fenerbahasse-s-k-to-secure-their-18th-turkish-football-title.md) _Context: Fenerbahçe_
+1. [Fans clash in Istanbul, Turkey, as Galatasaray draw with Fenerbahce S.K. to secure their 18th Turkish football title. ](/news/2012/05/12/fans-clash-in-istanbul-turkey-as-galatasaray-draw-with-fenerbahasse-s-k-to-secure-their-18th-turkish-football-title.md) _Context: Fenerbahce_

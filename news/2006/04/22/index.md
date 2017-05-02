@@ -4,7 +4,7 @@
 _Context: Colombia, Colombian Armed Conflict_
 
 ### [ Conflict in Afghanistan: Four Canadian soldiers were killed 75 kilometers north of Kandahar by a roadside bomb planted by Taliban militants.  ](/news/2006/04/22/conflict-in-afghanistan-four-canadian-soldiers-were-killed-75-kilometers-north-of-kandahar-by-a-roadside-bomb-planted-by-taliban-militants.md)
-_Context: Kandahar, Taliban, War in Afghanistan (2001–present)_
+_Context: Kandahar, Taliban, War in Afghanistan (2001-present)_
 
 ### [ April 2006 Nepalese general strike: Opposition leaders in Nepal reject King Gyanendra's proposals for restoring democracy. Thousands of protesters approaching the Narayanhity Royal Palace in Kathmandu are fired upon by security forces with tear gas. ](/news/2006/04/22/april-2006-nepalese-general-strike-opposition-leaders-in-nepal-reject-king-gyanendra-s-proposals-for-restoring-democracy-thousands-of-pro.md)
 _Context: April 2006 Nepalese general strike, Gyanendra of Nepal, Kathmandu, Narayanhity Royal Palace, Nepal, tear gas_

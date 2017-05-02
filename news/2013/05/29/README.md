@@ -10,7 +10,7 @@ _Context: Afghanistan, International Red Cross and Red Crescent Movement, Jalala
 _Context: Dario Fo, Franca Rame, Jacopo Fo, Milan, Nobel Prize in Literature_
 
 ### [Italians campaign to save Trieste's historic Caffe San Marco, frequented by figures such as James Joyce, Italo Svevo and Umberto Saba. ](/news/2013/05/29/italians-campaign-to-save-trieste-s-historic-caffa-san-marco-frequented-by-figures-such-as-james-joyce-italo-svevo-and-umberto-saba.md)
-_Context: Caffè San Marco, Italo Svevo, James Joyce, Trieste, Umberto Saba_
+_Context: Caffe San Marco, Italo Svevo, James Joyce, Trieste, Umberto Saba_
 
 ### [Chinese meat processing company Shuanghui buys the world's largest meat processing company Smithfield Foods for $4.72 billion. ](/news/2013/05/29/chinese-meat-processing-company-shuanghui-buys-the-world-s-largest-meat-processing-company-smithfield-foods-for-4-72-billion.md)
 Shuanghui International Holdings has agreed to buy Smithfield Foods in a $4.72 billion deal.
@@ -25,7 +25,7 @@ _Context: Dahanu, India, Maharashtra_
 Police have arrested a 21-year-old Muslim convert suspected of stabbing a soldier near Paris four days ago in what the authorities fear was an attempt to copy the Woolwich killing. The man, named...
 
 ### [Former Bosnian official Jadranko Prlic is sentenced to 25 years in prison by the International Criminal Tribunal for the former Yugoslavia for war crimes during the Yugoslav Wars. ](/news/2013/05/29/former-bosnian-official-jadranko-prlia-is-sentenced-to-25-years-in-prison-by-the-international-criminal-tribunal-for-the-former-yugoslavia.md)
-_Context: International Criminal Tribunal for the former Yugoslavia, Jadranko Prlić, Yugoslav Wars_
+_Context: International Criminal Tribunal for the former Yugoslavia, Jadranko Prlic, Yugoslav Wars_
 
 ### [Buddhist mobs burn down Muslim homes and shops in Lashio, Myanmar leaving 1 dead and 4 others injured. ](/news/2013/05/29/buddhist-mobs-burn-down-muslim-homes-and-shops-in-lashio-myanmar-leaving-1-dead-and-4-others-injured.md)
 Security forces struggled to control Buddhist mobs who burned Muslim homes on Wednesday for a second day in the northern Myanmar city of Lashio in a dangerous widening of ultra-nationalist Buddhist violence.

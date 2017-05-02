@@ -10,7 +10,7 @@ _Context: Mahmoud Abbas, Palestinian, Palestinian presidential election_
 _Context: Darfur, Darfur conflict, Kofi Annan, United Nations, United Nations Secretary-General_
 
 ### [ Venezuelan President Hugo Chvez says he is convinced that Colombian police captured FARC leader Rodrigo Granda in Venezuela, contrary to their claims that he was arrested in the Colombian border town of Ccuta. ](/news/2005/01/10/venezuelan-president-hugo-chavez-says-he-is-convinced-that-colombian-police-captured-farc-leader-rodrigo-granda-in-venezuela-contrary-to-t.md)
-_Context: Colombia, Cúcuta, Hugo Chávez, President, Revolutionary Armed Forces of Colombia, Rodrigo Granda, Venezuela_
+_Context: Ccuta, Colombia, Hugo Chvez, President, Revolutionary Armed Forces of Colombia, Rodrigo Granda, Venezuela_
 
 ### [ A smoking ban comes into effect in Italy, prohibiting smoking in public places. It has been reported that some businesses and smokers intend to defy the ban. ](/news/2005/01/10/a-smoking-ban-comes-into-effect-in-italy-prohibiting-smoking-in-public-places-it-has-been-reported-that-some-businesses-and-smokers-inten.md)
 _Context: Italian, smoking ban_

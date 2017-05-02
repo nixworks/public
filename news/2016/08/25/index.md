@@ -13,7 +13,7 @@ Philippine miners claim the government’s environmental crackdown is a “demol
 The death toll from the central Italy earthquake reaches 250, amid fears many more bodies remain buried in the rubble.
 
 ### [Hong Kong's Centre for Health Protection confirms Hong Kong's first case of Zika virus in a 38-year-old woman and says it will report the case to the World Health Organization (WHO). ](/news/2016/08/25/hong-kong-s-centre-for-health-protection-confirms-hong-kong-s-first-case-of-zika-virus-in-a-38-year-old-woman-and-says-it-will-report-the-ca.md)
-_Context: 2015–16 Zika virus epidemic, Centre for Health Protection, Hong Kong, World Health Organization, Zika virus_
+_Context: 2015-16 Zika virus epidemic, Centre for Health Protection, Hong Kong, World Health Organization, Zika virus_
 
 ### [Three people are killed and two are injured after a crossbow attack in Scarborough, Toronto. A suspicious package was also found in another linked event.](/news/2016/08/25/three-people-are-killed-and-two-are-injured-after-a-crossbow-attack-in-scarborough-toronto-a-suspicious-package-was-also-found-in-another.md)
 Toronto police confirm there is a link between the three deaths involving a crossbow in east Toronto and a suspicious package found in the downtown area of the city. 

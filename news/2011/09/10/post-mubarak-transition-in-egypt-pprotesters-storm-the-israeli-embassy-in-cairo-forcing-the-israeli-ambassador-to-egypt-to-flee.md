@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [Israel reopens its embassy in Cairo, Egypt, after closing it in 2011 after violent protests. ](/news/2015/09/9/israel-reopens-its-embassy-in-cairo-egypt-after-closing-it-in-2011-after-violent-protests.md) _Context: Cairo, Egypt–Israel relations, Israel_
+1. [Israel reopens its embassy in Cairo, Egypt, after closing it in 2011 after violent protests. ](/news/2015/09/9/israel-reopens-its-embassy-in-cairo-egypt-after-closing-it-in-2011-after-violent-protests.md) _Context: Cairo, Egypt-Israel relations, Israel_
 2. [A 72-hour ceasefire between Israel and Hamas begins, and talks aimed at finding a long-term solution to the conflict commence in Cairo. ](/news/2014/08/11/a-72-hour-ceasefire-between-israel-and-hamas-begins-and-talks-aimed-at-finding-a-long-term-solution-to-the-conflict-commence-in-cairo.md) _Context: Cairo, Israel_
 3. [Arab Spring:post-Mubarak Egypt:Tens of thousands of people converge on Cairo's Tahrir Square to demonstrate against Egypt's military rulers, who have seized power following the ousting from power of Hosni Mubarak in last year's revolution. ](/news/2012/06/19/arab-spring-ppost-mubarak-egypt-ptens-of-thousands-of-people-converge-on-cairo-s-tahrir-square-to-demonstrate-against-egypt-s-military-ruler.md) _Context: Cairo, post-Mubarak Egypt_
 4. [Israel reopens its embassy in Cairo a day after it was closed following the 2011 Nakba Day protests. ](/news/2011/05/17/israel-reopens-its-embassy-in-cairo-a-day-after-it-was-closed-following-the-2011-nakba-day-protests.md) _Context: Cairo, Israel_

@@ -1,7 +1,7 @@
 ## [2015-03-11](/news/2015/03/11/index.md)
 
 ### [Tropical Cyclone Nathan intensifies to a Category 2 system as it nears Cape York Peninsula in the north of the Australian state of Queensland. ](/news/2015/03/11/tropical-cyclone-nathan-intensifies-to-a-category-2-system-as-it-nears-cape-york-peninsula-in-the-north-of-the-australian-state-of-queenslan.md)
-_Context: 2014–15 Australian region cyclone season, Australia, Cape York Peninsula, Category 2, Nathan, Queensland, tropical cyclone_
+_Context: 2014-15 Australian region cyclone season, Australia, Cape York Peninsula, Category 2, Nathan, Queensland, tropical cyclone_
 
 ### [A search continues after an army helicopter crashed March 10 during a foggy night training exercise at Eglin Air Force Base in the Florida Panhandle leaving seven Marines and four United States Army soldiers missing. ](/news/2015/03/11/a-search-continues-after-an-army-helicopter-crashed-march-10-during-a-foggy-night-training-exercise-at-eglin-air-force-base-in-the-florida-p.md)
 _Context: Eglin Air Force Base, Florida Panhandle, United States Army, United States Marine Corps_

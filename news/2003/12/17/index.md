@@ -7,7 +7,7 @@ _Context: Linus Torvalds, Linux, kernel_
 _Context: Capture of Saddam Hussein, Mowaffaq al-Rubaie, Saddam Hussein_
 
 ### [ Stephen Kenny, the first civilian lawyer to visit any of the former Afghan war suspects in Guantanamo Bay, describes it as a physical and moral black hole. He says prisoners are not treated equally and that there is a pecking order with Americans being treated best. (In fact there are no Americans being held at Guantanamo Bay.) ](/news/2003/12/17/stephen-kenny-the-first-civilian-lawyer-to-visit-any-of-the-former-afghan-war-suspects-in-guantanamo-bay-describes-it-as-a-physical-and-m.md)
-_Context: Guantánamo Bay detainment camp_
+_Context: Guantnamo Bay detainment camp_
 
 ### [ Occupation of Iraq: A fuel tanker explodes in downtown Baghdad, killing 10 and wounding 15. Initially believed to be caused by a bomb, officials later conclude that a traffic accident was responsible. [http://news.bbc.co.uk/1/hi/world/middle_east/3326499.stm]](/news/2003/12/17/occupation-of-iraq-a-fuel-tanker-explodes-in-downtown-baghdad-killing-10-and-wounding-15-initially-believed-to-be-caused-by-a-bomb-offi.md)
 _Context: Baghdad, Occupation of Iraq_
@@ -31,7 +31,7 @@ _Context: Europe, J. R. R. Tolkien, Peter Jackson, The Lord of the Rings, The Lo
 _Context: Brazzaville, Republic of Congo_
 
 ### [Health: The UK government says that a case of variant Creutzfeldt-Jakob disease may have occurred through blood transfusion. [http://news.bbc.co.uk/1/hi/health/3327745.stm]](/news/2003/12/17/health-the-uk-government-says-that-a-case-of-variant-creutzfeldtajakob-disease-may-have-occurred-through-blood-transfusion-http-news.md)
-_Context: United Kingdom, blood transfusion, health, variant Creutzfeldtâ€“Jakob disease_
+_Context: United Kingdom, blood transfusion, health, variant Creutzfeldt-Jakob disease_
 
 ### [Former Governor of Illinois George H. Ryan is indicted on corruption charges for receiving payoffs, gifts and vacations in return for government contracts and leases while he served as the Governor and Secretary of State of Illinois. [http://www.dallasnews.com/sharedcontent/dallas/politics/national/stories/121703dnnatindict.9f1c0.html]](/news/2003/12/17/former-governor-of-illinois-george-h-ryan-is-indicted-on-corruption-charges-for-receiving-payoffs-gifts-and-vacations-in-return-for-govern.md)
 _Context: George H. Ryan, Governor of Illinois, Illinois_

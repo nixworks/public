@@ -13,7 +13,7 @@ _Context: Conservative Party, David Cameron, David Davis, Liam Fox, Members of P
 _Context: Baghdad, Conflict in Iraq, Iraq, Iraqi insurgency, United States Army_
 
 ### [ Conflict in Afghanistan: Several U.S. soldiers are caught setting fire to dead Taliban fighters, in defiance of Muslim beliefs and practices, in scenes broadcast on Afghan TV.  ](/news/2005/10/20/conflict-in-afghanistan-several-u-s-soldiers-are-caught-setting-fire-to-dead-taliban-fighters-in-defiance-of-muslim-beliefs-and-practice.md)
-_Context: Muslim, TV, Taliban, War in Afghanistan (2001–present)_
+_Context: Muslim, TV, Taliban, War in Afghanistan (2001-present)_
 
 ### [ Guinea's government announces that municipal elections will be held on 18 December. ](/news/2005/10/20/guinea-s-government-announces-that-municipal-elections-will-be-held-on-18-december.md)
 _Context: Guinea_

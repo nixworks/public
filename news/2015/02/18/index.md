@@ -13,10 +13,10 @@ Thirty-seven people have died in an air strike in southern Niger during military
 _Context: Australia, Japan Post, Toll Holdings_
 
 ### [The Australian Bureau of Meteorology is predicting that a low pressure system in the Coral Sea will develop into tropical cyclone Marcia within 24 hours and bring heavy rain  to South East Queensland with the potential to cause flooding. ](/news/2015/02/18/the-australian-bureau-of-meteorology-is-predicting-that-a-low-pressure-system-in-the-coral-sea-will-develop-into-tropical-cyclone-marcia-wit.md)
-_Context: 2014–15 Australian region cyclone season, Australian Bureau of Meteorology, Coral Sea, South East Queensland, flood, low pressure system, tropical cyclone_
+_Context: 2014-15 Australian region cyclone season, Australian Bureau of Meteorology, Coral Sea, South East Queensland, flood, low pressure system, tropical cyclone_
 
 ### [A snowstorm in the Turkish city of Istanbul leads to the closure of Istanbul Ataturk Airport, causes the cancellation of 300 Turkish Airlines flights and closes the Bosphorus Strait to shipping. ](/news/2015/02/18/a-snowstorm-in-the-turkish-city-of-istanbul-leads-to-the-closure-of-istanbul-atata1-4rk-airport-causes-the-cancellation-of-300-turkish-airlin.md)
-_Context: Bosphorus Strait, Istanbul, Istanbul Atatürk Airport, Turkey, Turkish Airlines_
+_Context: Bosphorus Strait, Istanbul, Istanbul Ataturk Airport, Turkey, Turkish Airlines_
 
 ### [The United Nations Security Council meets to discuss the recent beheadings of 21 Coptic Christians in Libya. ](/news/2015/02/18/the-united-nations-security-council-meets-to-discuss-the-recent-beheadings-of-21-coptic-christians-in-libya.md)
 THE UN Security Council will meet Wednesday to discuss the situation in Libya after the apparent IS execution of 21 Egyptian Christians, with Egypt&#39;s foreign minister... 

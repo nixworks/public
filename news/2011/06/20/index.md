@@ -43,7 +43,7 @@ _Context: PNC Financial Services, RBC Bank, Royal Bank of Canada, US$_
 _Context: Arizona, Greer, Wallow Fire, state_
 
 ### [The Volcanic Ash Advisory Centre in Darwin warns that Australian travellers face more disruption from ash from the 2011 Puyehue-Cordon Caulle eruption in Chile. ](/news/2011/06/20/the-volcanic-ash-advisory-centre-in-darwin-warns-that-australian-travellers-face-more-disruption-from-ash-from-the-2011-puyehue-corda3n-caul.md)
-_Context: 2011 Puyehue-Cordón Caulle eruption, Australian, Chile, Darwin_
+_Context: 2011 Puyehue-Cordon Caulle eruption, Australian, Chile, Darwin_
 
 ### [The Korea Meteorological Administration issues a heat wave warning for inland South Korean cities including Seoul, Suwon and Chuncheon. ](/news/2011/06/20/the-korea-meteorological-administration-issues-a-heat-wave-warning-for-inland-south-korean-cities-including-seoul-suwon-and-chuncheon.md)
 _Context: Chuncheon, Seoul, South Korea, Suwon, heat wave_

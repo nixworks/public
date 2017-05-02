@@ -10,7 +10,7 @@ _Context: Indianapolis Colts, New Orleans Saints, Super Bowl XLIV_
 Ruling party candidate Laura Chinchilla has been elected Costa Rica&#39;s first woman president.
 
 ### [First Gentleman and former President Nstor Kirchner of Argentina undergoes emergency surgery to remove a blockage in his carotid artery. ](/news/2010/02/7/first-gentleman-and-former-president-nestor-kirchner-of-argentina-undergoes-emergency-surgery-to-remove-a-blockage-in-his-carotid-artery.md)
-_Context: Argentina, Néstor Kirchner, President of Argentina, carotid artery_
+_Context: Argentina, Nstor Kirchner, President of Argentina, carotid artery_
 
 ### [In Nigeria, the Governor of Anambra state, Peter Obi, is controversially re-elected. ](/news/2010/02/7/in-nigeria-the-governor-of-anambra-state-peter-obi-is-controversially-re-elected.md)
 _Context: Governor of Anambra state, Nigeria, Peter Obi_

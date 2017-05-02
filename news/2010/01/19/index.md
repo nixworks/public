@@ -10,7 +10,7 @@ _Context: Cadbury, Cadbury acquisition, Great Britain, Kraft Foods, United State
 _Context: International Atomic Energy Agency, Iran, low-enriched uranium, nuclear fuel, nuclear scientist_
 
 ### [Massachusetts voters elect Republican Scott Brown to fill the vacant United States Senate seat previously held by Ted Kennedy. ](/news/2010/01/19/massachusetts-voters-elect-republican-scott-brown-to-fill-the-vacant-united-states-senate-seat-previously-held-by-ted-kennedy.md)
-_Context: Massachusetts, Republican, Scott Brown, Senator, Ted Kennedy, elect_
+_Context: Massachusetts, Republican, Scott Brown, Ted Kennedy, United States Senate, elect_
 
 ### [The United States Supreme Court reverses a decision by the Philadelphia Court of Appeals that had blocked the execution of former Black Panther Party member Mumia Abu-Jamal. ](/news/2010/01/19/the-united-states-supreme-court-reverses-a-decision-by-the-philadelphia-court-of-appeals-that-had-blocked-the-execution-of-former-black-pant.md)
 _Context: Black Panther Party, Capital punishment in the United States, Mumia Abu-Jamal, Philadelphia, United States, United States Supreme Court, United States court_
@@ -19,7 +19,7 @@ _Context: Black Panther Party, Capital punishment in the United States, Mumia Ab
 _Context: QSI Holdings, United States, United States Supreme Court_
 
 ### [A United Nations survey reveals Afghans have paid about US$2.5 (or 1.5) billion in bribes in the last year. ](/news/2010/01/19/a-united-nations-survey-reveals-afghans-have-paid-about-us-2-5-or-ps1-5-billion-in-bribes-in-the-last-year.md)
-_Context: Afghanistan, US$, United Nations, bribes, £_
+_Context: , Afghanistan, US$, United Nations, bribes_
 
 ### [At least 149 people are killed in two days of violence between Christians and Muslims in the Nigerian city of Jos. ](/news/2010/01/19/at-least-149-people-are-killed-in-two-days-of-violence-between-christians-and-muslims-in-the-nigerian-city-of-jos.md)
 _Context: Christian, Jos, Muslim, Nigeria, events earlier this year_
@@ -40,7 +40,7 @@ _Context: Bulgaria, European Commission, Rumiana Jeleva, candidate, minister_
 Chinese court hands down life sentence to senior judge accused of taking bribes.
 
 ### [The Guinean junta appoints opposition leader Jean-Marie Dor as the new prime minister. ](/news/2010/01/19/the-guinean-junta-appoints-opposition-leader-jean-marie-dore-as-the-new-prime-minister.md)
-_Context: Guinea, Jean-Marie Doré, junta, opposition leader, prime minister_
+_Context: Guinea, Jean-Marie Dor, junta, opposition leader, prime minister_
 
 ### [A powerful storm in California, United States, causes the evacuation of at least 200 homes in threat of mudslides, and knocks out power for 65,000 customers. One fatality is reported in Kern County.  ](/news/2010/01/19/a-powerful-storm-in-california-united-states-causes-the-evacuation-of-at-least-200-homes-in-threat-of-mudslides-and-knocks-out-power-for.md)
 _Context: California, Kern County, United States, mudslides, storm_

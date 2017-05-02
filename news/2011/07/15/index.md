@@ -7,7 +7,7 @@ Security forces in Indian-administered Kashmir kill three militants in an ongoin
 _Context: John A. Rizzo, Newsweek, Pakistan, United States, drones launch_
 
 ### [Soldiers, air force bombers and helicopter gunships begin a major offensive in south-eastern Turkey as the country's prime minister Recep Tayyip Erdogan vows to seek vengeance on Kurdish rebels. ](/news/2011/07/15/soldiers-air-force-bombers-and-helicopter-gunships-begin-a-major-offensive-in-south-eastern-turkey-as-the-country-s-prime-minister-recep-ta.md)
-_Context: Recep Tayyip Erdoğan_
+_Context: Recep Tayyip Erdogan_
 
 ### [2011 Syrian uprising: At least 14 people are killed in the latests attacks by regime forces on demonstrations in cities nationwide. More than 10,000 people are held in prisons by the regime. The demonstrations are reported to be among the largest yet in the ongoing effort to topple the government. ](/news/2011/07/15/2011-syrian-uprising-at-least-14-people-are-killed-in-the-latests-attacks-by-regime-forces-on-demonstrations-in-cities-nationwide-more-tha.md)
 _Context: 2011 Syrian uprising_
@@ -52,7 +52,7 @@ A 6.0-magnitude earthquake struck offshore some 58 miles south-southwest of Valp
 _Context: Hoogersmilde, Netherlands, Zendstation Smilde_
 
 ### [Ireland's Taoiseach Enda Kenny attacks the Vatican's approach to the child abuse scandals in the country as "absolutely disgraceful", while the Socialist Party's Joe Higgins tells Dail Eireann that people were "throwing their hands in the air" after the report into the sexual abuse scandal in Cloyne diocese was published this week. ](/news/2011/07/15/ireland-s-taoiseach-enda-kenny-attacks-the-vatican-s-approach-to-the-child-abuse-scandals-in-the-country-as-absolutely-disgraceful-while.md)
-_Context: Dáil Éireann, Enda Kenny, Joe Higgins, Republic of Ireland, Socialist Party, Taoiseach, sexual abuse scandal in Cloyne diocese_
+_Context: Dail Eireann, Enda Kenny, Joe Higgins, Republic of Ireland, Socialist Party, Taoiseach, sexual abuse scandal in Cloyne diocese_
 
 ### [2011 Libyan civil war:The United States Secretary of State Hillary Clinton meets with NATO leaders to try to find a solution to the Libya crisis. ](/news/2011/07/15/2011-libyan-civil-war-pthe-united-states-secretary-of-state-hillary-clinton-meets-with-nato-leaders-to-try-to-find-a-solution-to-the-libya-c.md)
 The move gives the rebels access to $30 billion in frozen Libyan assets in the United States and increases pressure on Col. Muammar el-Qaddafi to resign.

@@ -25,7 +25,7 @@ _Context: Strait of Kerch, environmental disaster, fuel oil, oil spill, sailor, 
 _Context: Fatah, Hamas, Yasser Arafat_
 
 ### [ The President of Israel, Shimon Peres, meets the President of Turkey, Abdullah Gl, in Ankara, and he will also address the Grand National Assembly of Turkey. ](/news/2007/11/13/the-president-of-israel-shimon-peres-meets-the-president-of-turkey-abdullah-gul-in-ankara-and-he-will-also-address-the-grand-national.md)
-_Context: Abdullah Gül, Ankara, President, President, Shimon Peres, Turkish Parliament_
+_Context: Abdullah Gl, Ankara, President, President, Shimon Peres, Turkish Parliament_
 
 ### [ Danish voters go to the polls for an early parliamentary election called by Prime Minister Anders Fogh Rasmussen. ](/news/2007/11/13/danish-voters-go-to-the-polls-for-an-early-parliamentary-election-called-by-prime-minister-anders-fogh-rasmussen.md)
 _Context: Anders Fogh Rasmussen, Danish, Prime Minister of Denmark, Voters, early parliamentary elections_

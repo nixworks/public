@@ -28,7 +28,7 @@ Sandra Bland was found dead in jail cell following heated traffic stop in Texas
 Bipartisan members of the House Intelligence Committee denounce Edward Snowden as a &quot;criminal&quot; who caused &quot;tremendous damage&quot; to U.S. national security.
 
 ### [Japan's Democratic Party elects Sha Renho as President. The House of Councillors member becomes the first female to head the opposition party. ](/news/2016/09/15/japan-s-democratic-party-elects-sha-renha-as-president-the-house-of-councillors-member-becomes-the-first-female-to-head-the-opposition-par.md)
-_Context: Democratic Party, House of Councillors, Japan, Sha Renhō_
+_Context: Democratic Party, House of Councillors, Japan, Sha Renho_
 
 ### [The China National Space Administration (CNSA) launches the Tiangong-2 space laboratory from the Jiuquan Satellite Launch Center in Inner Mongolia. ](/news/2016/09/15/the-china-national-space-administration-cnsa-launches-the-tiangong-2-space-laboratory-from-the-jiuquan-satellite-launch-center-in-inner-mo.md)
 _Context: China National Space Administration, Inner Mongolia, Jiuquan Satellite Launch Center, Tiangong program, Tiangong-2_

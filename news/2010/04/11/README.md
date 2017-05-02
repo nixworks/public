@@ -28,10 +28,10 @@ _Context: China, Democratic Front for the Liberation of Palestine, Iran, Israel,
 _Context: Kurmanbek Bakiyev, Kyrgyzstan, President, the recent unrest_
 
 ### [South African police investigate a possible link between homosexual sex and the murder of Eugene Terre'Blanche. ](/news/2010/04/11/south-african-police-investigate-a-possible-link-between-homosexual-sex-and-the-murder-of-euga-ne-terre-blanche.md)
-_Context: Eugène Terre'Blanche, South Africa, homosexuality_
+_Context: Eugene Terre'Blanche, South Africa, homosexuality_
 
 ### [Centre-right Fidesz wins majority of parliamentary seats in the first round of the Hungarian general elections. ](/news/2010/04/11/centre-right-fidesz-wins-majority-of-parliamentary-seats-in-the-first-round-of-the-hungarian-general-elections.md)
-_Context: 2010 parliamentary elections, Fidesz – Hungarian Civic Union, Hungary_
+_Context: 2010 parliamentary elections, Fidesz - Hungarian Civic Union, Hungary_
 
 ### [Abdullah of Saudi Arabia and Vietnamese President Nguyen Minh Triet discuss bilateral ties in oil, food and manpower and sign three major agreements -- a treaty avoiding double taxation, a protocol to promote ties in the oil and gas sectors and an agreement to promote agricultural cooperation. ](/news/2010/04/11/abdullah-of-saudi-arabia-and-vietnamese-president-nguya-n-minh-triao-t-discuss-bilateral-ties-in-oil-food-and-manpower-and-sign-three-majo.md)
 Vietnam will sign an agreement with the kingdom of Saudi Arabia to encourage Saudi Aramco to invest in two refineries to be built in the Asian country, and welcomed Saudi firms&#39; interest in investing in rice cultivation in Vietnam.

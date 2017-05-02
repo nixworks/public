@@ -7,13 +7,13 @@ A suicide bomber detonated his explosive vest in a crowd of spectators at a voll
 _Context: Boko Haram, Chad, Islamist insurgency in Nigeria_
 
 ### [Kenyan security forces cross into Somalia and kill 100 members of Al-Shabaab in response to the terrorist group hijacking a bus and killing 28 people. ](/news/2014/11/23/kenyan-security-forces-cross-into-somalia-and-kill-100-members-of-al-shabaab-in-response-to-the-terrorist-group-hijacking-a-bus-and-killing.md)
-_Context: Kenyan army forces, Somalia, War in Somalia (2009–present), al-Shabaab_
+_Context: Kenyan army forces, Somalia, War in Somalia (2009-present), al-Shabaab_
 
 ### [The death toll from yesterday's earthquake in China's Sichuan province rises to four with 54 injured. ](/news/2014/11/23/the-death-toll-from-yesterday-s-earthquake-in-china-s-sichuan-province-rises-to-four-with-54-injured.md)
 A strong earthquake that hit a sparsely populated, mountainous area of western China killed at least five people and injured 54 others, officials said Sunday. The injured included schoolchildren in a stampede.
 
 ### [Volcano eruption on Fogo island, Cape Verde is among the strongest ever recorded on the island and is forcing the evacuation of the Cha das Caldeiras village. ](/news/2014/11/23/volcano-eruption-on-fogo-island-cape-verde-is-among-the-strongest-ever-recorded-on-the-island-and-is-forcing-the-evacuation-of-the-chaps-das.md)
-_Context: Cape Verde, Chã das Caldeiras, Fogo island, Volcano eruption_
+_Context: Cape Verde, Cha das Caldeiras, Fogo island, Volcano eruption_
 
 ### [The Philippines marks the 5th anniversary of the Maguindanao massacre. ](/news/2014/11/23/the-philippines-marks-the-5th-anniversary-of-the-maguindanao-massacre.md)
 The Philippines marks the fifth anniversary of its worst political massacre, as Amnesty warns the trials risk becoming &quot;a mockery of justice&quot;.

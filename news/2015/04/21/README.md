@@ -10,7 +10,7 @@ A Saudi-led coalition ends its month-long bombing campaign against rebels in Yem
 Macedonia said on Tuesday 40 armed men in camouflage uniforms and speaking Albanian had crossed from neighboring Kosovo and taken several police officers hostage overnight, calling for the creation of &quot;an Albanian state&quot;.
 
 ### [Pope Francis accepts the resignation of Robert Finn as bishop of the Roman Catholic Diocese of Kansas City-Saint Joseph for failing to report a suspected child abuser. ](/news/2015/04/21/pope-francis-accepts-the-resignation-of-robert-finn-as-bishop-of-the-roman-catholic-diocese-of-kansas-cityasaint-joseph-for-failing-to-rep.md)
-_Context: Pope Francis, Robert Finn, Roman Catholic Diocese of Kansas City–Saint Joseph, bishop_
+_Context: Pope Francis, Robert Finn, Roman Catholic Diocese of Kansas City-Saint Joseph, bishop_
 
 ### [Israeli generics giant Teva Pharmaceutical offers $4 billion to acquire US rival Mylan. ](/news/2015/04/21/israeli-generics-giant-teva-pharmaceutical-offers-4-billion-to-acquire-us-rival-mylan.md)
 _Context: Mylan, Teva Pharmaceutical_

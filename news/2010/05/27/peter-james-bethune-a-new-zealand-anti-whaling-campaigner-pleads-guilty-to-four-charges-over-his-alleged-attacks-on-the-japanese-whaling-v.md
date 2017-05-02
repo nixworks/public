@@ -13,4 +13,4 @@ New Zealand anti-whaling activist Peter Bethune has pleaded guilty to four charg
 
 ### Related:
 
-1. [New Zealander Peter Bethune, a member of the Sea Shepherd Conservation Society who captained the ''Ady Gil'' when it crashed with the MV ''Shonan Maru 2'' and sank, encounters coastguards, police and protesters as he arrives on the Japanese mainland. ](/news/2010/03/13/new-zealander-peter-bethune-a-member-of-the-sea-shepherd-conservation-society-who-captained-the-ady-gil-when-it-crashed-with-the-mv-s.md) _Context: MV ''Shōnan Maru 2''_
+1. [New Zealander Peter Bethune, a member of the Sea Shepherd Conservation Society who captained the ''Ady Gil'' when it crashed with the MV ''Shonan Maru 2'' and sank, encounters coastguards, police and protesters as he arrives on the Japanese mainland. ](/news/2010/03/13/new-zealander-peter-bethune-a-member-of-the-sea-shepherd-conservation-society-who-captained-the-ady-gil-when-it-crashed-with-the-mv-s.md) _Context: MV ''Shonan Maru 2''_

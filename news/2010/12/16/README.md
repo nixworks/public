@@ -70,7 +70,7 @@ Students from England, Wales and Northern Ireland who go to Scottish universitie
 _Context: Government of Northern Ireland, child abuse_
 
 ### [The Galongla Tunnel, built at an altitude of 3,750 meters, is completed; it links Tibet's Mdog county to the outside world. ](/news/2010/12/16/the-galongla-tunnel-built-at-an-altitude-of-3-750-meters-is-completed-it-links-tibet-s-medog-county-to-the-outside-world.md)
-_Context: Mêdog_
+_Context: Mdog_
 
 ## [Previous Day...](/news/2010/12/15/index.md)
 

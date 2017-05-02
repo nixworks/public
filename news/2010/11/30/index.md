@@ -22,7 +22,7 @@ A handwritten poem by Nobel laureate Seamus Heaney has fetched &euro;4,800 at au
 _Context: Movember, prostate cancer_
 
 ### [The United Nations Climate Change Conference (COP-16) opens in the Mexican resort city of Cancun. ](/news/2010/11/30/the-united-nations-climate-change-conference-cop-16-opens-in-the-mexican-resort-city-of-cancaon.md)
-_Context: Cancún, Mexico, U.N. climate change talks, United Nations, climate change_
+_Context: Cancun, Mexico, U.N. climate change talks, United Nations, climate change_
 
 ### [Students protest in Rome and other Italian cities as politicians threaten to cut funding for education and research. ](/news/2010/11/30/students-protest-in-rome-and-other-italian-cities-as-politicians-threaten-to-cut-funding-for-education-and-research.md)
 Student protesters cause major disruption in Rome and other Italian cities as ministers debate cuts to education funding and time limits on research.
@@ -43,7 +43,7 @@ Snow contnues to fall across much of the UK, bringing disruption to roads and ai
 _Context: Ireland_
 
 ### [Heavy flooding and mudslides claim at least 21 lives in Venezuela, with the President of Venezuela declaring a state of emergency in the state of Falcon. ](/news/2010/11/30/heavy-flooding-and-mudslides-claim-at-least-21-lives-in-venezuela-with-the-president-of-venezuela-declaring-a-state-of-emergency-in-the-sta.md)
-_Context: Falcón, President, Venezuela, mudslide, state of emergency_
+_Context: Falcon, President, Venezuela, mudslide, state of emergency_
 
 ### [Korean peninsula:Officials from the United States, South Korea and Japan are to meet in Washington, D.C., to discuss North Korea. ](/news/2010/11/30/korean-peninsula-pofficials-from-the-united-states-south-korea-and-japan-are-to-meet-in-washington-d-c-to-discuss-north-korea.md)
 North Korea says it has thousands of centrifuges operating at a previously undetected uranium enrichment facility it revealed earlier this month.
@@ -79,7 +79,7 @@ _Context: Central Asia, Kyrgyzstan, parliamentary democracy_
 Minister for Justice Dermot Ahern has said that he will not contest his Dáil seat at the next General Election.
 
 ### [United States Secretary of Defense Robert Gates urges the United States Senate to abolish "don't ask don't tell" for gays and lesbians serving in the US military and releases a report showing that ending the policy would have little impact. ](/news/2010/11/30/united-states-secretary-of-defense-robert-gates-urges-the-united-states-senate-to-abolish-don-t-ask-don-t-tell-for-gays-and-lesbians-servi.md)
-_Context: Robert Gates, Secretary of Defense, Senator, US military, don't ask, don't tell_
+_Context: Robert Gates, Secretary of Defense, US military, United States Senate, don't ask, don't tell_
 
 ### [The Slurpee Summit occurs in Washington, DC. ](/news/2010/11/30/the-slurpee-summit-occurs-in-washington-dc.md)
 _Context: Slurpee Summit_

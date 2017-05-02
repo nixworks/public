@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Ibrahim Boubacar Keta is elected as President of Mali. Although results have not yet been made official, his opponent Soumala Ciss has conceded defeat in the election. ](/news/2013/08/12/ibrahim-boubacar-keita-is-elected-as-president-of-mali-although-results-have-not-yet-been-made-official-his-opponent-soumaila-cisse-has-co.md) _Context: Ibrahim Boubacar Keïta, Soumaïla Cissé, the election_
+1. [Ibrahim Boubacar Keta is elected as President of Mali. Although results have not yet been made official, his opponent Soumala Ciss has conceded defeat in the election. ](/news/2013/08/12/ibrahim-boubacar-keita-is-elected-as-president-of-mali-although-results-have-not-yet-been-made-official-his-opponent-soumaila-cisse-has-co.md) _Context: Ibrahim Boubacar Keta, Soumala Ciss, the election_
 2. [Voters in Mali go to the polls for the second round of a presidential election. ](/news/2013/08/11/voters-in-mali-go-to-the-polls-for-the-second-round-of-a-presidential-election.md) _Context: the election_
 3. [Mali lifts a state of emergency ahead of a presidential election. ](/news/2013/07/6/mali-lifts-a-state-of-emergency-ahead-of-a-presidential-election.md) _Context: the election_
 4. [Voters in Mali go to the polls for a presidential election. ](/news/2013/07/28/voters-in-mali-go-to-the-polls-for-a-presidential-election.md) _Context: the election_

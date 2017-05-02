@@ -22,7 +22,7 @@ North Korea will once again allow tourists into the country after four months of
 _Context: David Petraeus, Director of the CIA, United States Army_
 
 ### [A Turkish court orders President Recep Tayyip Erdogan to pay 10,000 lira ($4,000) in compensation for the mental anguish caused to artist Mehmet Aksoy for having called his sculpture ''Monument to Humanity'' -- meant to promote reconciliation between Turkey and Armenia -- a "monstrosity" in 2011. ](/news/2015/03/3/a-turkish-court-orders-president-recep-tayyip-erdoaan-to-pay-10-000-lira-4-000-in-compensation-for-the-mental-anguish-caused-to-artist-m.md)
-_Context: Armenia, Mehmet Aksoy, Monument to Humanity, Recep Tayyip Erdoğan, Turkey, U.S. dollar, lira_
+_Context: Armenia, Mehmet Aksoy, Monument to Humanity, Recep Tayyip Erdogan, Turkey, U.S. dollar, lira_
 
 ### [China detains Jing Chunhua, a senior official from Hebei province of China, for investigation by the Communist Party's anti-graft agency for violating party discipline and breaking the law. Jing is the second provincial-ranked official from Hebei province to undergo investigation since the wider anti-corruption campaign began in 2013. ](/news/2015/03/3/china-detains-jing-chunhua-a-senior-official-from-hebei-province-of-china-for-investigation-by-the-communist-party-s-anti-graft-agency-for.md)
 _Context: Central Commission for Discipline Inspection, China, Hebei, Jing Chunhua_
@@ -31,7 +31,7 @@ _Context: Central Commission for Discipline Inspection, China, Hebei, Jing Chunh
 Slovenia joined a growing number of European countries that allow same-sex marriages late on Tuesday, almost three years after a similar law was rejected in a national referendum.
 
 ### [Israeli Prime Minister Benjamin Netanyahu addresses a joint meeting of the United States Congress over the nuclear program of Iran. ](/news/2015/03/3/israeli-prime-minister-benjamin-netanyahu-addresses-a-joint-meeting-of-the-united-states-congress-over-the-nuclear-program-of-iran.md)
-_Context: Benjamin Netanyahu, Prime Minister of Israel, U.S. Congress, joint session of Congress, nuclear scientist_
+_Context: Benjamin Netanyahu, Prime Minister of Israel, U.S. Congressional, joint session of Congress, nuclear scientist_
 
 ### [Myanmarese students on a march to Yangon to protest an academic bill defy a police order to disperse in Letpadan Township. ](/news/2015/03/3/myanmarese-students-on-a-march-to-yangon-to-protest-an-academic-bill-defy-a-police-order-to-disperse-in-letpadan-township.md)
 Hundreds of students protesting against an education bill in Myanmar have defied an order to disperse despite being surrounded by police.

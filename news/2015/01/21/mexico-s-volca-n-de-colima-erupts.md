@@ -11,7 +11,7 @@ Mexico&#039;s Colima volcano erupts in spectacular fashion, sending thick plumes
 
 ### Related:
 
-1. [Mexico's Volcan de Colima erupts forcing the evacuation of two nearby villages. ](/news/2016/10/1/mexico-s-volca-n-de-colima-erupts-forcing-the-evacuation-of-two-nearby-villages.md) _Context: Mexico, Volcán de Colima_
+1. [Mexico's Volcan de Colima erupts forcing the evacuation of two nearby villages. ](/news/2016/10/1/mexico-s-volca-n-de-colima-erupts-forcing-the-evacuation-of-two-nearby-villages.md) _Context: Mexico, Volcan de Colima_
 2. [Ciudad Juarez-based newspaper ''Norte'' closes its print edition, citing a lack of security in Mexico. ](/news/2017/04/2/ciudad-jua-rez-based-newspaper-norte-closes-its-print-edition-citing-a-lack-of-security-in-mexico.md) _Context: Mexico_
 3. [Mexico states that it will reject third-country deportees. ](/news/2017/02/24/mexico-states-that-it-will-reject-third-country-deportees.md) _Context: Mexico_
 4. [Following a start-of-year hike to the price of gas, widespread riots and looting mostly targeting gas stations, supermarkets and department stores take place in several cities in Mexico. Over 250 people are said to have been arrested so far while blockades to PEMEX installations potentially lead to critical situations in some states. ](/news/2017/01/5/following-a-start-of-year-hike-to-the-price-of-gas-widespread-riots-and-looting-mostly-targeting-gas-stations-supermarkets-and-department.md) _Context: Mexico_

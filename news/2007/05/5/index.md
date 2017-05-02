@@ -13,7 +13,7 @@ _Context: Boeing 737-800, Cameroon, Douala, Flight 507, Kenya, Kenya Airways, Na
 _Context: Islamist, Thailand_
 
 ### [ A third mass rally in support of secularism in Turkey is held in Canakkale, protesting against the Justice and Development Party (AKP) regarding the presidential election. ](/news/2007/05/5/a-third-mass-rally-in-support-of-secularism-in-turkey-is-held-in-aanakkale-protesting-against-the-justice-and-development-party-akp-reg.md)
-_Context: July elections, ruling party, secular, third mass rally, Çanakkale_
+_Context: Canakkale, July elections, ruling party, secular, third mass rally_
 
 ### [ Lightning is determined to be the cause of "the Bugaboo fire" in the Okefenokee National Wildlife Refuge in Georgia which eventually spread to Florida charring hundreds of thousands of acres. ](/news/2007/05/5/lightning-is-determined-to-be-the-cause-of-the-bugaboo-fire-in-the-okefenokee-national-wildlife-refuge-in-georgia-which-eventually-spread.md)
 _Context: Florida, Georgia, lightning_

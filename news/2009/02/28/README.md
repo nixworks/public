@@ -1,7 +1,7 @@
 ## [2009-02-28](/news/2009/02/28/index.md)
 
 ### [ Carpatair Flight 128 - a Saab 2000 bound for Timisoara, Romania, from Chisinau, Moldova, and carrying 51 people - makes an emergency landing at Traian Vuia International Airport without its forward landing gear. ](/news/2009/02/28/carpatair-flight-128-a-a-saab-2000-bound-for-timiaoara-romania-from-chiainau-moldova-and-carrying-51-people-a-makes-an-emergency.md)
-_Context: Carpatair, Chişinău, Flight 128, Moldova, Romania, Saab 2000, Timişoara, Traian Vuia International Airport, emergency landing, undercarriage_
+_Context: Carpatair, Chisinau, Flight 128, Moldova, Romania, Saab 2000, Timisoara, Traian Vuia International Airport, emergency landing, undercarriage_
 
 ### [ Burma's government announces it will allow Rohingyas who have fled to neighboring countries to return only if they identify themselves as Bengalis. ](/news/2009/02/28/burma-s-government-announces-it-will-allow-rohingyas-who-have-fled-to-neighboring-countries-to-return-only-if-they-identify-themselves-as-b.md)
 _Context: Bengalis, Burma, Rohingya minority, government_

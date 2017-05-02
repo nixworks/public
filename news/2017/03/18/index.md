@@ -13,7 +13,7 @@ Tributes pour in for the legendary guitarist and songwriter after he dies in Mis
 800 British troops due to be stationed in the Baltic state as part of one of biggest deployments to eastern Europe in decades
 
 ### [French security forces shoot suspect Ziyed Ben Belgacem dead in Paris' Orly Airport after he put the pellet gun to her head and took away an assault rifle from one of three soldiers from "Sentinelle" operation patrolling the airport. Belgacem had earlier shot a police officer with a pellet gun. Later, he had threatened a bar and then carjacked another vehicle to the airport. ](/news/2017/03/18/french-security-forces-shoot-suspect-ziyed-ben-belgacem-dead-in-paris-orly-airport-after-he-put-the-pellet-gun-to-her-head-and-took-away-an.md)
-_Context: "Sentinelle" operation, March 2017 Île-de-France attacks, Orly Airport, Paris_
+_Context: "Sentinelle" operation, March 2017 Ile-de-France attacks, Orly Airport, Paris_
 
 ## [Previous Day...](/news/2017/03/17/index.md)
 

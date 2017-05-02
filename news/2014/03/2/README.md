@@ -1,6 +1,6 @@
 ## [2014-03-2](/news/2014/03/2/index.md)
 
-### [2014 Crimean crisis, 2014 Ukrainian revolution:Ukraine's Navy commander-in-chief, Denis Berezovsky who was appointed only March 1, defects to the Russia-backed Crimea government. [http://inserbia.info/news/2014/03/ukrainian-navy-commander-swore-allegiance-to-people-of-crimea/ (Ria Novosty via inSerbia)]Ukraine's acting president Oleksandr Turchynov says Ukraine's airspace has been closed to any non-civilian aircraft. [http://uk.reuters.com/article/2014/03/02/ukrainian-acting-president-says-airspace-idUKL6N0LZ0B820140302 (Reuters)]{{dead link|date=March 2014}}](/news/2014/03/2/2014-crimean-crisis-2014-ukrainian-revolution-pukraine-s-navy-commander-in-chief-denis-berezovsky-who-was-appointed-only-march-1-defects.md)
+### [Ukraine's Navy commander-in-chief, Denis Berezovsky who was appointed only March 1, defects to the Russia-backed Crimea government. [http://inserbia.info/news/2014/03/ukrainian-navy-commander-swore-allegiance-to-people-of-crimea/ (Ria Novosty via inSerbia)]Ukraine's acting president Oleksandr Turchynov says Ukraine's airspace has been closed to any non-civilian aircraft. [http://uk.reuters.com/article/2014/03/02/ukrainian-acting-president-says-airspace-idUKL6N0LZ0B820140302 (Reuters)]date=March 2014](/news/2014/03/2/ukraine-s-navy-commander-in-chief-denis-berezovsky-who-was-appointed-only-march-1-defects-to-the-russia-backed-crimea-government-http.md)
 _Context: 2014 Crimean crisis, 2014 Ukrainian revolution, Denis Berezovsky, Oleksandr Turchynov_
 
 ### [War in North-West Pakistan:Pakistani military bombs the hideout of a Taliban militant leader killing five insurgents. ](/news/2014/03/2/war-in-north-west-pakistan-ppakistani-military-bombs-the-hideout-of-a-taliban-militant-leader-killing-five-insurgents.md)
@@ -9,7 +9,7 @@ _Context: Pakistan, War in North-West Pakistan_
 ### [Islamist insurgency in Nigeria:Over 100 people die in several bomb attacks in Nigeria. ](/news/2014/03/2/islamist-insurgency-in-nigeria-pover-100-people-die-in-several-bomb-attacks-in-nigeria.md)
 It was another tragic day in Maiduguri, Borno State capital, yesterday, after twin explosions reportedly killed about 100 people, some of them football fans.
 
-### [''Stalingrad'', depicting the battle of the same name, becomes the best-selling Russian film of all time. {{Cn|date=March 2014}}](/news/2014/03/2/stalingrad-depicting-the-battle-of-the-same-name-becomes-the-best-selling-russian-film-of-all-time-cn-date-march-2014.md)
+### [''Stalingrad'', depicting the battle of the same name, becomes the best-selling Russian film of all time. date=March 2014](/news/2014/03/2/stalingrad-depicting-the-battle-of-the-same-name-becomes-the-best-selling-russian-film-of-all-time-date-march-2014.md)
 _Context: Stalingrad, battle of the same name_
 
 ### [Alabama's oldest hotel,  the Mentone Springs Hotel - built in 1884 and listed on the register of historical places - burns to the ground. ](/news/2014/03/2/alabama-s-oldest-hotel-the-mentone-springs-hotel-built-in-1884-and-listed-on-the-register-of-historical-places-burns-to-the-ground.md)

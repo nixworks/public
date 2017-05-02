@@ -16,7 +16,7 @@ _Context: Russia, Siberian, Tomsk, gas explosion_
 _Context: Germany, Stuttgart-Feuerbach station, freight train, railway platform_
 
 ### [A murder-suicide attack occurs in Casper, Wyoming, United States. Two people are murdered, including a female computer science instructor (off campus), and a male faculty member that she'd been seeing (in a classroom) at Casper College, before the perpetrator, the male professor's son, killed himself in the classroom. ](/news/2012/11/30/a-murderasuicide-attack-occurs-in-casper-wyoming-united-states-two-people-are-murdered-including-a-female-computer-science-instructor.md)
-_Context: Casper College, Casper, Wyoming, United States, murder–suicide_
+_Context: Casper College, Casper, Wyoming, United States, murder-suicide_
 
 ### [A New Hampshire federal grand jury indicts David Kwiatkowski, 33, a former employee of Exeter Hospital in Exeter, New Hampshire, on fraud and product-tampering charges in connection with an outbreak of hepatitis C that sickened more than 30 people and caused concern in 7 states. ](/news/2012/11/30/a-new-hampshire-federal-grand-jury-indicts-david-kwiatkowski-33-a-former-employee-of-exeter-hospital-in-exeter-new-hampshire-on-fraud-an.md)
 _Context: Exeter, New Hampshire, New Hampshire, fraud, grand jury, hepatitis C_
@@ -25,7 +25,7 @@ _Context: Exeter, New Hampshire, New Hampshire, fraud, grand jury, hepatitis C_
 A Qatari court has sentenced a poet to life in prison for his verse ‘insulting’ the country`s leader and inciting anti-regime sentiment. The poem was inspired by the Arab Spring protests.
 
 ### [''Time'' magazine editors announce their list of 38 contenders nominated as the 2012 Time Person of the Year, including Barack Obama, Mitt Romney, Sheldon Adelson, Malala Yousafzai, Sandra Fluke, Felix Baumgartner, Curiosity rover, Bashar Assad, Mohamed Morsi, Psy, Pussy Riot, Higgs boson, Michael Phelps, and others.  The winner of the people's choice will be announced on 14 December. ](/news/2012/11/30/time-magazine-editors-announce-their-list-of-38-contenders-nominated-as-the-2012-time-person-of-the-year-including-barack-obama-mitt-r.md)
-_Context: Barack Obama, Bashar Assad’s, Curiosity, Felix Baumgartner, Higgs boson, Malala Yousafzai, Michael Phelps, Mitt Romney, Mohamed Morsi, Person of the Year, Psy, Pussy Riot, Sandra Fluke, Sheldon Adelson, Time_
+_Context: Barack Obama, Bashar Assad's, Curiosity, Felix Baumgartner, Higgs boson, Malala Yousafzai, Michael Phelps, Mitt Romney, Mohamed Morsi, Person of the Year, Psy, Pussy Riot, Sandra Fluke, Sheldon Adelson, Time_
 
 ### [The Labour Party wins the three by-elections held in the United Kingdom on Thursday. Steve Reed is elected in Croydon North, Andy McDonald in Middlesbrough and Sarah Champion in Rotherham. The UK Independence Party achieve second place in Middlesbrough and Rotherham, beating the Conservatives and Liberal Democrats. ](/news/2012/11/30/the-labour-party-wins-the-three-by-elections-held-in-the-united-kingdom-on-thursday-steve-reed-is-elected-in-croydon-north-andy-mcdonald-i.md)
 Labour retain Croydon North, Middlesbrough and Rotherham in by-elections, with UKIP enjoying a good night and the Lib Dems a poor one.

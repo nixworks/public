@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [A British cruise ship avoids a possible Somali pirate attack {{convert|100|mi|km}} off the coast of Tanzania in the Indian Ocean. ](/news/2011/01/13/a-british-cruise-ship-avoids-a-possible-somali-pirate-attack-convert-100-mi-km-off-the-coast-of-tanzania-in-the-indian-ocean.md) _Context: Indian Ocean, Tanzania_
+1. [A British cruise ship avoids a possible Somali pirate attack 100|mi|km off the coast of Tanzania in the Indian Ocean. ](/news/2011/01/13/a-british-cruise-ship-avoids-a-possible-somali-pirate-attack-100-mi-km-off-the-coast-of-tanzania-in-the-indian-ocean.md) _Context: Indian Ocean, Tanzania_
 2. [ Officials in Comoros confirm that one passenger from Yemenia Flight 626, a 14-year-old girl, has been found alive. ](/news/2009/07/1/officials-in-comoros-confirm-that-one-passenger-from-yemenia-flight-626-a-14-year-old-girl-has-been-found-alive.md) _Context: Comoros, Yemenia Flight 626_
 3. [ Yemenia Flight 626, an Airbus A310, crashes en route to Moroni, Comoros, from Sana'a, Yemen. ](/news/2009/06/30/yemenia-flight-626-an-airbus-a310-crashes-en-route-to-moroni-comoros-from-sana-a-yemen.md) _Context: Comoros, Yemenia Flight 626_
 4. [University of Washington researchers report, in the peer-reviewed ''Journal of the American Medical Association Oncology'', the discovery of an odontoma -- a ''benign tumor'' -- in the fossil of a   255-million-year old  Tanzanian mammal-like saber-toothed gorgonopsia. This is one of the oldest-known tumors ever found.  ](/news/2016/12/9/university-of-washington-researchers-report-in-the-peer-reviewed-journal-of-the-american-medical-association-oncology-the-discovery-of.md) _Context: Tanzania_

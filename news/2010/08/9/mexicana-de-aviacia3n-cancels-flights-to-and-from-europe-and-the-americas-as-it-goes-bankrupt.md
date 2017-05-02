@@ -12,4 +12,4 @@
 
 ### Related:
 
-1. [Mexicana de Aviacion, Mexico's biggest airline, files for bankruptcy. ](/news/2010/08/3/mexicana-de-aviacia3n-mexico-s-biggest-airline-files-for-bankruptcy.md) _Context: Mexicana de Aviación_
+1. [Mexicana de Aviacion, Mexico's biggest airline, files for bankruptcy. ](/news/2010/08/3/mexicana-de-aviacia3n-mexico-s-biggest-airline-files-for-bankruptcy.md) _Context: Mexicana de Aviacion_

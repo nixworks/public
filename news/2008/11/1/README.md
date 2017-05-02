@@ -1,7 +1,7 @@
 ## [2008-11-1](/news/2008/11/1/index.md)
 
 ### [ Floods kill 24 people in Vietnam including 11 in the central province of Nghe An. ](/news/2008/11/1/floods-kill-24-people-in-vietnam-including-11-in-the-central-province-of-ngha-an.md)
-_Context: Floods, Nghệ An Province, Vietnam_
+_Context: Floods, Nghe An Province, Vietnam_
 
 ### [ Nineteen Moro Islamic Liberation Front rebels are killed by Filipino military air strikes in the southern part of the island of Mindanao. ](/news/2008/11/1/nineteen-moro-islamic-liberation-front-rebels-are-killed-by-filipino-military-air-strikes-in-the-southern-part-of-the-island-of-mindanao.md)
 Nineteen Muslim separatist rebels have been killed in fresh air strikes carried out by Philippine troops on southern Mindanao island, an official said.

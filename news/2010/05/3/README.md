@@ -16,7 +16,7 @@ _Context: Alabama, Kentucky, Middle, Mississippi, Nashville, Tennessee_
 _Context: Abhisit Vejjajiva, Thailand, political crisis_
 
 ### [World Press Freedom Day:Journalists protesting against the prison death of Cameroon newspaper editor Bibi Ngota clash with police in Yaounde as hundreds are prevented from staging a sit-in at the office of the prime minister. ](/news/2010/05/3/world-press-freedom-day-pjournalists-protesting-against-the-prison-death-of-cameroon-newspaper-editor-bibi-ngota-clash-with-police-in-yaound.md)
-_Context: Bibi Ngota, Cameroon, World Press Freedom Day, Yaoundé_
+_Context: Bibi Ngota, Cameroon, World Press Freedom Day, Yaounde_
 
 ### [The Irish Aviation Authority closes Donegal Airport, cancels at least two flights and announces the closure of all airspace in Ireland on Monday due to Icelandic volcanic ash, while British Airports, including some in Scotland, may also be affected due to continued eruptions of Eyjafjallajokull volcano. ](/news/2010/05/3/the-irish-aviation-authority-closes-donegal-airport-cancels-at-least-two-flights-and-announces-the-closure-of-all-airspace-in-ireland-on-mo.md)
 Irish airspace will close from 7am tomorrow because of an ash cloud drifting down from Iceland.

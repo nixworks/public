@@ -4,7 +4,7 @@
 _Context: Egypt, El-Arish, Israel, North Sinai, Sinai insurgency, natural gas_
 
 ### [A suicide bomber strikes a checkpoint near the city of Misrata causing several deaths. ](/news/2015/05/31/a-suicide-bomber-strikes-a-checkpoint-near-the-city-of-misrata-causing-several-deaths.md)
-_Context: Libyan Civil War (2014–present), Misrata, suicide bomber_
+_Context: Libyan Civil War (2014-present), Misrata, suicide bomber_
 
 ### [A bomb explodes at a market place in the Nigerian city of Maiduguri killing at least four people. ](/news/2015/05/31/a-bomb-explodes-at-a-market-place-in-the-nigerian-city-of-maiduguri-killing-at-least-four-people.md)
 _Context: Boko Haram, Maiduguri, Nigeria_

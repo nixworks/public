@@ -1,7 +1,7 @@
 ## [2014-03-20](/news/2014/03/20/index.md)
 
 ### [War in Afghanistan (2001-present):2014 Kabul Serena Hotel attack: Four suspected Taliban members attack the luxurious Kabul Serena Hotel, killing at least 9 people, including 4 foreigners. ](/news/2014/03/20/war-in-afghanistan-2001apresent-p2014-kabul-serena-hotel-attack-four-suspected-taliban-members-attack-the-luxurious-kabul-serena-hotel.md)
-_Context: 2014 Kabul Serena Hotel attack, Kabul Serena Hotel, Taliban, War in Afghanistan (2001–present)_
+_Context: 2014 Kabul Serena Hotel attack, Kabul Serena Hotel, Taliban, War in Afghanistan (2001-present)_
 
 ### [A suicide bomber attacks a cafe in Baghdad, Iraq, killing 12 people and injuring another 38. ](/news/2014/03/20/a-suicide-bomber-attacks-a-cafe-in-baghdad-iraq-killing-12-people-and-injuring-another-38.md)
 _Context: Baghdad, Iraq_

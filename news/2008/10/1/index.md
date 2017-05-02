@@ -1,10 +1,10 @@
 ## [2008-10-1](/news/2008/10/1/index.md)
 
-### [ Russia's supreme court declares the imperial dynasty victims of political repression, marking the official rehabilitation of the house of Romanov. The decision overturns a lower court ruling that classified the killings as plain murder, and exonerates Emperor Nicholas II and his family of the alleged crimes the Bolshevik regime used to justify their killing. [http://africa.reuters.com/world/news/usnTRE4901WV.html (Reuters)]{{dead link|date=June 2015}}](/news/2008/10/1/russia-s-supreme-court-declares-the-imperial-dynasty-victims-of-political-repression-marking-the-official-rehabilitation-of-the-house-of-r.md)
+### [ Russia's supreme court declares the imperial dynasty victims of political repression, marking the official rehabilitation of the house of Romanov. The decision overturns a lower court ruling that classified the killings as plain murder, and exonerates Emperor Nicholas II and his family of the alleged crimes the Bolshevik regime used to justify their killing. [http://africa.reuters.com/world/news/usnTRE4901WV.html (Reuters)]date=June 2015](/news/2008/10/1/russia-s-supreme-court-declares-the-imperial-dynasty-victims-of-political-repression-marking-the-official-rehabilitation-of-the-house-of-r.md)
 _Context: Bolshevik, Nicholas II, Romanov, Russia, Supreme Court of Russia, imperial dynasty_
 
 ### [ The United States Senate passes the civilian nuclear agreement with India by a vote of 86-13. India has not signed the Non-Proliferation Treaty, but may now undertake nuclear trade to the States ](/news/2008/10/1/the-united-states-senate-passes-the-civilian-nuclear-agreement-with-india-by-a-vote-of-86a13-india-has-not-signed-the-non-proliferation.md)
-_Context: India, Nuclear Non-Proliferation Treaty, Senator, United States, civilian nuclear agreement_
+_Context: India, Nuclear Non-Proliferation Treaty, United States, United States Senate, civilian nuclear agreement_
 
 ### [ The National Transportation Safety Board reports that a Metrolink engineer sent a text message 22 seconds before the Chatsworth train collision in Los Angeles, California, that killed 25 people. ](/news/2008/10/1/the-national-transportation-safety-board-reports-that-a-metrolink-engineer-sent-a-text-message-22-seconds-before-the-chatsworth-train-colli.md)
 _Context: California, Chatsworth train collision, Los Angeles, California, Metrolink, National Transportation Safety Board, text message_
@@ -16,7 +16,7 @@ _Context: John So, Mayor, Melbourne_
 _Context: Afghanistan, David D. McKiernan, NATO, United States Army, general_
 
 ### [ Subprime mortgage crisis: U.S. Representative Carol Shea-Porter says that "more than 400 economists, including Nobel laureates, appealed to Congress to slow down and make sure [they] got [the bailout bill] right". ](/news/2008/10/1/subprime-mortgage-crisis-p-u-s-representative-carol-shea-porter-says-that-more-than-400-economists-including-nobel-laureates-appealed-t.md)
-_Context: Carol Shea-Porter, Nobel Memorial Prize in Economic Sciences, U.S. Congress, U.S. House, housing crisis, proposed bailout plan_
+_Context: Carol Shea-Porter, Nobel Memorial Prize in Economic Sciences, U.S. Congressional, U.S. House, housing crisis, proposed bailout plan_
 
 ### [ A new U.S. Armed Forces Unified Combatant Command for Africa&mdash;AFRICOM&mdash;is created. Main functions of AFRICOM include fighting terror, securing oil supplies in Africa, and supporting U.S. foreign policy in the region where Chinese influence is growing. ](/news/2008/10/1/a-new-u-s-armed-forces-unified-combatant-command-for-africa-mdash-africom-mdash-is-created-main-functions-of-africom-include-fighting-ter.md)
 _Context: AFRICOM, Africa, China's, U.S. foreign policy, Unified Combatant Command, crude oil, military_

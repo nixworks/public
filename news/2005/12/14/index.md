@@ -13,7 +13,7 @@ _Context: George W. Bush, Iraq, intelligence, president_
 _Context: 2005 Kashmir earthquake, 8 October, Naqsha Bibi, Pakistan_
 
 ### [ The President of Brazil, Luiz Inacio Lula da Silva announces that Brazil will clear its International Monetary Fund debt of $15.5bn two years early. ](/news/2005/12/14/the-president-of-brazil-luiz-inacio-lula-da-silva-announces-that-brazil-will-clear-its-international-monetary-fund-debt-of-15-5bn-two-yea.md)
-_Context: Brazilian President, International Monetary Fund, Luiz Inácio Lula da Silva, U.S. dollar_
+_Context: Brazilian President, International Monetary Fund, Luiz Incio Lula da Silva, U.S. dollar_
 
 ### [ In India, 11 Hindus are sentenced to life imprisonment for their roles in the murder of Muslims in the 2002 Gujarat violence. ](/news/2005/12/14/in-india-11-hindus-are-sentenced-to-life-imprisonment-for-their-roles-in-the-murder-of-muslims-in-the-2002-gujarat-violence.md)
 _Context: Hindu, India, Muslim, life imprisonment, riots_

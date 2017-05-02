@@ -1,7 +1,7 @@
 ## [2009-11-27](/news/2009/11/27/index.md)
 
 ### [ A Russian high-speed passenger train traveling on the Moscow - Saint Petersburg Railway derails near Uglovka in a suspected terrorist attack, killing 26 people and injuring more than 100. ](/news/2009/11/27/a-russian-high-speed-passenger-train-traveling-on-the-moscow-a-saint-petersburg-railway-derails-near-uglovka-in-a-suspected-terrorist-att.md)
-_Context: Moscow – Saint Petersburg Railway, Russia, Uglovka, derails, passenger train_
+_Context: Moscow - Saint Petersburg Railway, Russia, Uglovka, derails, passenger train_
 
 ### [ Tiger Woods, the world's number one golfer, is hospitalised after sustaining injuries in a car crash in Orlando, Florida, USA. ](/news/2009/11/27/tiger-woods-the-world-s-number-one-golfer-is-hospitalised-after-sustaining-injuries-in-a-car-crash-in-orlando-florida-usa.md)
 Tiger Woods, the world&#039;s number one golfer, was injured in a car accident near his Florida home, police said last night.
@@ -46,7 +46,7 @@ _Context: Buganda, Uganda_
 _Context: Federal Minister for Defence, Franz Josef Jung, Germany, Kunduz airstrike, Minister of Labour and Social Affairs_
 
 ### [ President of the European Commission Jose Manuel Barroso nominates a new team of commissioners for his second five-year term. ](/news/2009/11/27/president-of-the-european-commission-josa-c-manuel-barroso-nominates-a-new-team-of-commissioners-for-his-second-five-year-term.md)
-_Context: European Commissioner, José Manuel Barroso, President of the European Commission_
+_Context: European Commissioner, Jose Manuel Barroso, President of the European Commission_
 
 ### [ Space Shuttle ''Atlantis'' returns to Earth following the completion of its STS-129 mission. ](/news/2009/11/27/space-shuttle-atlantis-returns-to-earth-following-the-completion-of-its-sts-129-mission.md)
 _Context: STS-129, Space Shuttle Atlantis_

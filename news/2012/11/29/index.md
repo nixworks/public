@@ -58,10 +58,10 @@ Reuters.co.uk for top sports stories from international and UK. Reuters is the l
 Cricket: Legendary Australian Test cricketer Ricky Ponting will play his 168th and final Test against South Africa in Perth. Ponting&#039;s illustrious international car
 
 ### [Barcelona's Lionel Messi and Andres Iniesta, and Real Madrid's Cristiano Ronaldo are named in shortlist for 2012 FIFA Ballon d'Or prize for best player of the year. ](/news/2012/11/29/barcelonaas-lionel-messi-and-andra-c-s-iniesta-and-real-madridas-cristiano-ronaldo-are-named-in-shortlist-for-2012-fifa-ballon-d-or-prize.md)
-_Context: 2012, Andrés Iniesta, Cristiano Ronaldo, FC Barcelona, FIFA Ballon d'Or, Lionel Messi, Real Madrid_
+_Context: 2012, Andres Iniesta, Cristiano Ronaldo, FC Barcelona, FIFA Ballon d'Or, Lionel Messi, Real Madrid_
 
 ### [Argentine football club River Plate confirm Ramon Diaz will replace the sacked Matias Almeyda as manager. ](/news/2012/11/29/argentine-football-club-river-plate-confirm-rama3n-daaz-will-replace-the-sacked-mataas-almeyda-as-manager.md)
-_Context: Argentine, Matías Almeyda, Ramón Díaz, River Plate_
+_Context: Argentine, Matias Almeyda, Ramon Diaz, River Plate_
 
 ### [South Korean international Lee Keun-Ho is named as Asian Footballer of the Year in a ceremony held in Kuala Lumpur. Shinji Kagawa, Japanese midfielder of Manchester United, is the first recipient of the Asian International Footballer of the Year award. ](/news/2012/11/29/south-korean-international-lee-keun-ho-is-named-as-asian-footballer-of-the-year-in-a-ceremony-held-in-kuala-lumpur-shinji-kagawa-japanese.md)
 _Context: Asian Footballer of the Year, Asian International Footballer of the Year, Japan, Kuala Lumpur, Lee Keun-Ho, Manchester United, Shinji Kagawa, South Korean_

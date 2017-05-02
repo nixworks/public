@@ -1,7 +1,7 @@
 ## [2005-04-6](/news/2005/04/6/index.md)
 
 ### [ Warring factions sign a peace treaty to end the civil war in Cote d'Ivoire, start immediate disarmament and make plans for new elections. ](/news/2005/04/6/warring-factions-sign-a-peace-treaty-to-end-the-civil-war-in-ca-te-d-ivoire-start-immediate-disarmament-and-make-plans-for-new-elections.md)
-_Context: civil war in Côte d'Ivoire, elections, peace treaty_
+_Context: civil war in Cote d'Ivoire, elections, peace treaty_
 
 ### [ The Movement for Democratic Change, the opposition party in Zimbabwe, presents 'proof of fraud' in the recent parliamentary elections that kept Robert Mugabe and the ruling Zimbabwe African National Union - Patriotic Front in office. ](/news/2005/04/6/the-movement-for-democratic-change-the-opposition-party-in-zimbabwe-presents-proof-of-fraud-in-the-recent-parliamentary-elections-that.md)
 _Context: Movement for Democratic Change, Robert Mugabe, Zimbabwe, Zimbabwe African National Union - Patriotic Front, parliamentary elections, parliamentary opposition_

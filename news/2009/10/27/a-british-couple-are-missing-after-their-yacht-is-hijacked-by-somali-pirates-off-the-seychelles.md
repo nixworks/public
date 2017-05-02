@@ -13,7 +13,7 @@
 
 ### Related:
 
-1. [A British cruise ship avoids a possible Somali pirate attack {{convert|100|mi|km}} off the coast of Tanzania in the Indian Ocean. ](/news/2011/01/13/a-british-cruise-ship-avoids-a-possible-somali-pirate-attack-convert-100-mi-km-off-the-coast-of-tanzania-in-the-indian-ocean.md) _Context: Somali pirates, United Kingdom_
+1. [A British cruise ship avoids a possible Somali pirate attack 100|mi|km off the coast of Tanzania in the Indian Ocean. ](/news/2011/01/13/a-british-cruise-ship-avoids-a-possible-somali-pirate-attack-100-mi-km-off-the-coast-of-tanzania-in-the-indian-ocean.md) _Context: Somali pirates, United Kingdom_
 2. [Somali pirates seize an Indonesian chemical tanker with 24 crew in the Gulf of Aden and a British cargo ship with 26 cars 620 miles off the Horn of Africa. ](/news/2010/01/2/somali-pirates-seize-an-indonesian-chemical-tanker-with-24-crew-in-the-gulf-of-aden-and-a-british-cargo-ship-with-26-cars-620-miles-off-the.md) _Context: Somali pirates, United Kingdom_
 3. [ Somali pirates seize UK and Panamanian-flagged ships with international crews on board in the Gulf of Aden. ](/news/2009/12/29/somali-pirates-seize-uk-and-panamanian-flagged-ships-with-international-crews-on-board-in-the-gulf-of-aden.md) _Context: Somali pirates, United Kingdom_
 4. [ Piracy in Somalia: A chemical tanker, the Singapore-operated ''MV Theresa VIII'' with 28 North Koreans on board, is seized by Somali pirates northwest of the Seychelles. ](/news/2009/11/17/piracy-in-somalia-p-a-chemical-tanker-the-singapore-operated-mv-theresa-viii-with-28-north-koreans-on-board-is-seized-by-somali-pirat.md) _Context: Seychelles, Somali pirates_

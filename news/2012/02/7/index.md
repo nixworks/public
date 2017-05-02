@@ -10,7 +10,7 @@ Maldives President Mohamed Nasheed resigns after weeks of demonstrations and a m
 State governor says issue can be resolved through negotiations after state legislature is taken over in Salvador city.
 
 ### [Tuareg Rebellion (2011-present): 22,000 people flee fighting in Mali to neighbouring countries. ](/news/2012/02/7/tuareg-rebellion-2011apresent-22-000-people-flee-fighting-in-mali-to-neighbouring-countries.md)
-_Context: Mali, Tuareg Rebellion (2011–present)_
+_Context: Mali, Tuareg Rebellion (2011-present)_
 
 ### [Greek government debt crisis: discussions among the three parties within the ruling coalition in Greece are postponed, at least in part because the paperwork wasn't ready. ](/news/2012/02/7/greek-government-debt-crisis-discussions-among-the-three-parties-within-the-ruling-coalition-in-greece-are-postponed-at-least-in-part-beca.md)
 _Context: Greece, Greek government-debt crisis_
@@ -34,7 +34,7 @@ _Context: 2011 alleged Iran assassination plot, Saudi Arabia, United States_
 US conservative Rick Santorum wins races for the Republican presidential nomination in three states, upsetting front-runner Mitt Romney.
 
 ### [The French Cabinet walks out of the National Assembly after Socialist Party MP Serge Letchimy accuses Interior Minister Claude Gueant of flirting with Nazi ideology in his statement that  "not all civilisations are of equal value". ](/news/2012/02/7/the-french-cabinet-walks-out-of-the-national-assembly-after-socialist-party-mp-serge-letchimy-accuses-interior-minister-claude-gua-c-ant-of-fl.md)
-_Context: Claude Guéant, National Assembly, Nazi, PS, Serge Letchimy, government_
+_Context: Claude Gueant, National Assembly, Nazi, PS, Serge Letchimy, government_
 
 ### [The Iranian parliament summons president Mahmoud Ahmadinejad over economic policy, in the first such summons since the Iranian Revolution. ](/news/2012/02/7/the-iranian-parliament-summons-president-mahmoud-ahmadinejad-over-economic-policy-in-the-first-such-summons-since-the-iranian-revolution.md)
 _Context: Iran, Iranian Revolution, Islamic Consultative Assembly, Mahmoud Ahmadinejad_
@@ -43,7 +43,7 @@ _Context: Iran, Iranian Revolution, Islamic Consultative Assembly, Mahmoud Ahmad
 _Context: Uganda, law_
 
 ### [The United States Congress votes to pass legislation allowing for greater use of drone aircraft in the United States. ](/news/2012/02/7/the-united-states-congress-votes-to-pass-legislation-allowing-for-greater-use-of-drone-aircraft-in-the-united-states.md)
-_Context: U.S. Congress, United States, drone aircraft_
+_Context: U.S. Congressional, United States, drone aircraft_
 
 ## [Previous Day...](/news/2012/02/6/index.md)
 

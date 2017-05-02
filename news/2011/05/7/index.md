@@ -61,7 +61,7 @@ Lib Dem Business Secretary Vince Cable attacks the Conservatives as &quot;ruthle
 _Context: Deputy Prime Minister, Nick Clegg_
 
 ### [Counting for the Northern Ireland Assembly election finally ends with the DUP and Sinn Fin winning the most seats, 38 and 29 respectively. ](/news/2011/05/7/counting-for-the-northern-ireland-assembly-election-finally-ends-with-the-dup-and-sinn-fein-winning-the-most-seats-38-and-29-respectively.md)
-_Context: Democratic Unionist Party, Northern Ireland Assembly election, Sinn Féin_
+_Context: Democratic Unionist Party, Northern Ireland Assembly election, Sinn Fin_
 
 ### [The Welsh Labour Party says it expects to be in government by the end of next week, and may govern alone after winning 30 of the 60 Welsh Assembly seats in Thursday's election. ](/news/2011/05/7/the-welsh-labour-party-says-it-expects-to-be-in-government-by-the-end-of-next-week-and-may-govern-alone-after-winning-30-of-the-60-welsh-as.md)
 Labour say they expect to be in government in Cardiff Bay by the end of next week, following their strong performance in the assembly election.

@@ -13,7 +13,7 @@ Islamabad, Nov 19 (IANS) At least three suspected militants were killed in a US 
 Israeli warplanes raided at leasttwo targets in the Gaza Strip on Friday, Palestinian witnessesand Hamas officials said.
 
 ### [The U.S. military is sending M1 Abrams tanks to Afghanistan for the first time in the nine-year  war in Afghanistan. ](/news/2010/11/19/the-u-s-military-is-sending-m1-abrams-tanks-to-afghanistan-for-the-first-time-in-the-nine-year-war-in-afghanistan.md)
-_Context: Afghanistan, M1 Abrams tanks, U.S. military personnel, War in Afghanistan (2001–present)_
+_Context: Afghanistan, M1 Abrams tanks, U.S. military personnel, War in Afghanistan (2001-present)_
 
 ### [Germany says the laptop bag containing an explosive simulation training device found at Namibia's main airport during loading of a flight to Munich was part of a security test, a day after German Interior Minister Thomas de Maiziere issued a warning of possible terror attacks next week. ](/news/2010/11/19/germany-says-the-laptop-bag-containing-an-explosive-simulation-training-device-found-at-namibia-s-main-airport-during-loading-of-a-flight-to.md)
 A dummy bomb that sparked an international terror alert was made by an 80-year-old Calif. grandmother and was discarded in an Namibia airport because of &quot;a boo boo,&quot; NBC reported.
@@ -52,7 +52,7 @@ _Context: 14th Dalai Lama, Dalai Lama, Mandarin, Tibet, Tibet Autonomous Region,
 _Context: Indonesia, Jakarta, Marty Natalegawa, Saudi Arabia, migrant workers_
 
 ### [Panama grants asylum to Maria del Pilar Hurtado, the former head of Colombia's Administrative Department of Security wanted for allegedly illegal wiretapping. ](/news/2010/11/19/panama-grants-asylum-to-maraa-del-pilar-hurtado-the-former-head-of-colombia-s-administrative-department-of-security-wanted-for-allegedly-i.md)
-_Context: Administrative Department of Security, Colombia, María del Pilar Hurtado, Panama, wiretapping_
+_Context: Administrative Department of Security, Colombia, Maria del Pilar Hurtado, Panama, wiretapping_
 
 ### [Major fishing nations meet in Paris to discuss quota limits for fishing of the critically endangered Atlantic bluefin tuna; many nations are urging that lower fishing rates are needed.](/news/2010/11/19/major-fishing-nations-meet-in-paris-to-discuss-quota-limits-for-fishing-of-the-critically-endangered-atlantic-bluefin-tuna-many-nations-are.md)
 Fishing nations came under fresh pressure on Friday to cut Atlantic bluefin tuna quotas as negotiators got into the thick of annual wrangling over limits at talks in Paris.

@@ -13,7 +13,7 @@ _Context: Cambodia, Thailand_
 Microsoft has acknowledged that it incorporated open-source code into a Windows 7 download tool. As a result, it will make that tool&#39;s source code available to the community.
 
 ### [ American politician William J. Jefferson, former Democratic Party Congressman from the U.S. state of Louisiana, is sentenced to 13 years in prison for corruption. ](/news/2009/11/13/american-politician-william-j-jefferson-former-democratic-party-congressman-from-the-u-s-state-of-louisiana-is-sentenced-to-13-years-in.md)
-_Context: Democrat, Louisiana, U.S. Congress, United States, William J. Jefferson, state_
+_Context: Democratic, Louisiana, U.S. Congressional, United States, William J. Jefferson, state_
 
 ### [ NASA claims to have discovered water after the LCROSS satellite crashes near the South Pole of the Moon. ](/news/2009/11/13/nasa-claims-to-have-discovered-water-after-the-lcross-satellite-crashes-near-the-south-pole-of-the-moon.md)
 The discovery, which came out of a mission a month ago, confirmed scientists’ suspicions and could help explorers.
@@ -55,7 +55,7 @@ Taoiseach Brian Cowen is to attend the 13th British-Irish Council Summit today i
 _Context: Ariake, Japan Coast Guard, Mie Prefecture, Pacific_
 
 ### [ Kosovo prepares for historic elections after a flare-up earlier this week targeted Prime Minister Hashim Thaci in the western town of Decan. ](/news/2009/11/13/kosovo-prepares-for-historic-elections-after-a-flare-up-earlier-this-week-targeted-prime-minister-hashim-thaci-in-the-western-town-of-deassa.md)
-_Context: Deçan, Hashim Tha�i, Kosovo_
+_Context: Decan, Hashim Thai, Kosovo_
 
 ### [ Actor and film director Clint Eastwood is made a commander of the Legion d'honneur. ](/news/2009/11/13/actor-and-film-director-clint-eastwood-is-made-a-commander-of-the-la-c-gion-d-honneur.md)
 Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, celeb videos, photos, movies, TV, music news and pop culture on&nbsp;ABCNews.com.

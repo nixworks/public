@@ -1,6 +1,6 @@
 ## [2011-08-22](/news/2011/08/22/index.md)
 
-### [2011 Libyan civil war, 2011 Battle of Tripoli:Mustafa Abdul Jalil, Chairman of the National Transitional Council, announces that Muammar Gaddafi's regime has collapsed. ](/news/2011/08/22/2011-libyan-civil-war-2011-battle-of-tripoli-pmustafa-abdul-jalil-chairman-of-the-national-transitional-council-announces-that-muammar-ga.md)
+### [Mustafa Abdul Jalil, Chairman of the National Transitional Council, announces that Muammar Gaddafi's regime has collapsed. ](/news/2011/08/22/mustafa-abdul-jalil-chairman-of-the-national-transitional-council-announces-that-muammar-gaddafi-s-regime-has-collapsed.md)
 Moamar Gaddafi&#039;s capital falls to rebel forces as his heir is captured and opposition fighters surge into the symbolic Green Square in Tripoli.
 
 ### [Palestinian militants on the Gaza Strip fire rockets and mortars into Israel despite a truce. ](/news/2011/08/22/palestinian-militants-on-the-gaza-strip-fire-rockets-and-mortars-into-israel-despite-a-truce.md)
@@ -34,7 +34,7 @@ Hurricane Irene could hit the Southeast United States as a major Category 3 stor
 _Context: Dominique Strauss-Kahn, International Monetary Fund, New York's_
 
 ### [Jack Layton, leader of Canada's New Democratic Party and Leader of the Opposition, dies from cancer at age 61. ](/news/2011/08/22/jack-layton-leader-of-canada-s-new-democratic-party-and-leader-of-the-opposition-dies-from-cancer-at-age-61.md)
-_Context: Canadian, Jack Layton, Leader of the Opposition, New Democratic Party_
+_Context: Canada, Jack Layton, Leader of the Opposition, New Democratic Party_
 
 ## [Previous Day...](/news/2011/08/21/index.md)
 

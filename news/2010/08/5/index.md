@@ -72,7 +72,7 @@ Model Naomi Campbell tells a court she was given &quot;dirty stones&quot; soon a
 ### [A Polish appellate court upholds the decision of a lower court to extradite an alleged Mossad agent to Germany to face trial for forging a passport used in the slaying of Hamas commander Mahmoud al-Mabhouh in Dubai. ](/news/2010/08/5/a-polish-appellate-court-upholds-the-decision-of-a-lower-court-to-extradite-an-alleged-mossad-agent-to-germany-to-face-trial-for-forging-a-p.md)
 A Polish appeals court upholds a decision to hand over to Germany an alleged Israeli agent wanted over the murder of a Hamas commander.
 
-### [Israel charges three Arab men with spying for Syria; they deny the charges and one is alleged to be a human rights activist.{{clarify|date=August 2010|does Israel "accuse" him of being a human rights activist???}} ](/news/2010/08/5/israel-charges-three-arab-men-with-spying-for-syria-they-deny-the-charges-and-one-is-alleged-to-be-a-human-rights-activist-clarify-date-a.md)
+### [Israel charges three Arab men with spying for Syria; they deny the charges and one is alleged to be a human rights activist.date=August 2010|does Israel "accuse" him of being a human rights activist??? ](/news/2010/08/5/israel-charges-three-arab-men-with-spying-for-syria-they-deny-the-charges-and-one-is-alleged-to-be-a-human-rights-activist-date-august-2010.md)
 Israel charges three Arab men with spying, saying they passed intelligence to Syria and plotted to kidnap a Syrian pilot who had defected to Israel.
 
 ### [A woman who is alleged to have been raped by two police officers appears on Egyptian television where she is interviewed about the experience. ](/news/2010/08/5/a-woman-who-is-alleged-to-have-been-raped-by-two-police-officers-appears-on-egyptian-television-where-she-is-interviewed-about-the-experienc.md)
@@ -112,7 +112,7 @@ The date for long-delayed presidential elections in Ivory Coast is set, in a mov
 Hip hop star Wyclef Jean formally registers to stand for president of his native Haiti as it rebuilds after the earthquake.
 
 ### [The United States Senate confirms the nomination of Elena Kagan as an associate justice of the U.S. Supreme Court. ](/news/2010/08/5/the-united-states-senate-confirms-the-nomination-of-elena-kagan-as-an-associate-justice-of-the-u-s-supreme-court.md)
-_Context: Elena Kagan, Justice, Senator, Supreme Court of the United States, confirms_
+_Context: Elena Kagan, Justice, Supreme Court of the United States, United States Senate, confirms_
 
 ### [Newly released files, which can be ](/news/2010/08/5/newly-released-files-which-can-be.md)
 Wartime British prime minister Winston Churchill banned the reporting of an alleged UFO incident because of fears it would create mass panic, according to new claims made public.

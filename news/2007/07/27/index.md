@@ -4,7 +4,7 @@
 _Context: Balochistan_
 
 ### [ War in Afghanistan: Three soldiers in the NATO-led International Security Assistance Force are killed. ](/news/2007/07/27/war-in-afghanistan-three-soldiers-in-the-nato-led-international-security-assistance-force-are-killed.md)
-_Context: International Security Assistance Force, NATO, War in Afghanistan (2001–present)_
+_Context: International Security Assistance Force, NATO, War in Afghanistan (2001-present)_
 
 ### [ The top United Nations official in Haiti raises concerns about a sharp increase in lynchings and other forms of mob violence. ](/news/2007/07/27/the-top-united-nations-official-in-haiti-raises-concerns-about-a-sharp-increase-in-lynchings-and-other-forms-of-mob-violence.md)
 _Context: Haiti, United Nations, lynching_
@@ -25,7 +25,7 @@ _Context: The Lancet, marijuana, psychosis_
 _Context: NASA, astronaut, drunks_
 
 ### [ The United States Congress passes a bill containing measures recommended by the 9/11 Commission. ](/news/2007/07/27/the-united-states-congress-passes-a-bill-containing-measures-recommended-by-the-9-11-commission.md)
-_Context: 9/11 Commission, U.S. Congress_
+_Context: 9/11 Commission, U.S. Congressional_
 
 ### [ The United Nations Educational, Scientific and Cultural Organisation dispatches a team to investigate the shooting of four mountain gorillas in the Virunga National Park in the Democratic Republic of the Congo. ](/news/2007/07/27/the-united-nations-educational-scientific-and-cultural-organisation-dispatches-a-team-to-investigate-the-shooting-of-four-mountain-gorilla.md)
 _Context: Democratic Republic of the Congo, United Nations Educational, Scientific and Cultural Organisation, Virunga National Park, mountain gorilla_
@@ -76,7 +76,7 @@ _Context: Cabinet Minister, David Benson-Pope, Environment Minister, New Zealand
 _Context: John Thwaites, Premier, Steve Bracks_
 
 ### [ Swedish King Carl XVI Gustaf, by long tradition an honorary member of the AIK soccer club, concedes that he is a supporter of the rivaling club Djurgarden. ](/news/2007/07/27/swedish-king-carl-xvi-gustaf-by-long-tradition-an-honorary-member-of-the-aik-soccer-club-concedes-that-he-is-a-supporter-of-the-rivaling.md)
-_Context: AIK soccer club, Carl XVI Gustaf, Djurgården, Sweden_
+_Context: AIK soccer club, Carl XVI Gustaf, Djurgarden, Sweden_
 
 ### [ Barry Bonds hits career home run number 754. ](/news/2007/07/27/barry-bonds-hits-career-home-run-number-754.md)
 Barry Bonds hit a solo shot in the first inning against the Florida Marlins to bring him within one home run of tying Hank Aaron’s all-time record. 

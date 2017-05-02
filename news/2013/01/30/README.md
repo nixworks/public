@@ -10,7 +10,7 @@ _Context: Hezbollah, Israeli forces, Lebanon, Syria, Syrian Civil War, convoy_
 Two people in Egypt are fatally shot in dawn clashes between protesters and police on the edge of Tahrir Square in Cairo, medics say.
 
 ### [Canadian wireless device manufacturer Research In Motion officially unveils BlackBerry 10, the newest version of the operating system for its BlackBerry devices, and announces the first two phones that will run on the new platform. The company also announces it will begin doing business as BlackBerry effective immediately. ](/news/2013/01/30/canadian-wireless-device-manufacturer-research-in-motion-officially-unveils-blackberry-10-the-newest-version-of-the-operating-system-for-it.md)
-_Context: BlackBerry, BlackBerry, BlackBerry 10, BlackBerry Z10, Canadian, operating system, two, wireless_
+_Context: BlackBerry, BlackBerry, BlackBerry 10, BlackBerry Z10, Canada, operating system, two, wireless_
 
 ### [January 29-30, 2013 tornado outbreak: Severe thunderstorms and tornadoes affect the midwestern and southern United States with damage reported in several states, from Missouri to Georgia, and at least two people killed. ](/news/2013/01/30/january-29a30-2013-tornado-outbreak-severe-thunderstorms-and-tornadoes-affect-the-midwestern-and-southern-united-states-with-damage-repo.md)
 Tornadoes ripped through four states on Tuesday night and Wednesday, killing at least two people, as an Arctic cold front clashed with warm air to produce severe weather over a wide swath of the nation.

@@ -40,7 +40,7 @@ _Context: Arab Spring, North Korea, information technology_
 _Context: China's_
 
 ### [Gunmen attack a bar in Ciudad Juarez in northern Mexico, killing five people. ](/news/2011/04/2/gunmen-attack-a-bar-in-ciudad-jua-rez-in-northern-mexico-killing-five-people.md)
-_Context: Ciudad Juárez, Mexico_
+_Context: Ciudad Juarez, Mexico_
 
 ### [A parliamentary election is to take place in Nigeria, but is postponed to 4 April as voting materials did not arrive on time. ](/news/2011/04/2/a-parliamentary-election-is-to-take-place-in-nigeria-but-is-postponed-to-4-april-as-voting-materials-did-not-arrive-on-time.md)
 _Context: Nigeria, parliamentary elections_
@@ -49,7 +49,7 @@ _Context: Nigeria, parliamentary elections_
 Thousands protest in Sydney parks to denounce and to support a carbon tax.
 
 ### [The Prime Minister of Spain Jose Luis Rodriguez Zapatero announces that he will not be seeking a third term in the next election. ](/news/2011/04/2/the-prime-minister-of-spain-josa-c-luis-rodraguez-zapatero-announces-that-he-will-not-be-seeking-a-third-term-in-the-next-election.md)
-_Context: José Luis Rodríguez Zapatero, Prime Minister, next election_
+_Context: Jose Luis Rodriguez Zapatero, Prime Minister, next election_
 
 ### [Police make 12 arrests following protest marches by the English Defence League and opposing groups in Blackburn, Lancashire. ](/news/2011/04/2/police-make-12-arrests-following-protest-marches-by-the-english-defence-league-and-opposing-groups-in-blackburn-lancashire.md)
 Arrests are made during a huge police operation in Blackburn for protests by the English Defence League and opposing groups.

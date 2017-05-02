@@ -9,7 +9,7 @@ _Context: Argentina, Christian Von Wernich, Dirty War, Roman Catholic, kidnapped
 ### [ The United States Supreme Court dismisses the case of the German citizen Khalid El-Masri who accuses the CIA of abducting him to a secret prison in Afghanistan where he claims he was tortured. The US government had argued that a public trial would reveal state secrets. ](/news/2007/10/9/the-united-states-supreme-court-dismisses-the-case-of-the-german-citizen-khalid-el-masri-who-accuses-the-cia-of-abducting-him-to-a-secret-p.md)
 _Context: Afghanistan, Central Intelligence Agency, Germany, Khalid El-Masri, Supreme Court of the United States_
 
-### [ Pakistan - Battle of Mir Ali: 20 people are injured in Peshawar, Pakistan, when a bomb rips through a music shop.{{Fact|date=December 2007}}  At least sixty people are killed as Pakistani aircraft bomb a bazaar in Epi village in North Waziristan. ](/news/2007/10/9/pakistan-battle-of-mir-ali-p-20-people-are-injured-in-peshawar-pakistan-when-a-bomb-rips-through-a-music-shop-fact-date-december-2007.md)
+### [ Pakistan - Battle of Mir Ali: 20 people are injured in Peshawar, Pakistan, when a bomb rips through a music shop.date=December 2007  At least sixty people are killed as Pakistani aircraft bomb a bazaar in Epi village in North Waziristan. ](/news/2007/10/9/pakistan-battle-of-mir-ali-p-20-people-are-injured-in-peshawar-pakistan-when-a-bomb-rips-through-a-music-shop-date-december-2007-p-at-l.md)
 _Context: Battle of Mir Ali, Epi village, North Waziristan, Pakistan, Peshawar, bazaar_
 
 ### [ War in Iraq: Employees of Australian-owned security firm Unity Resources Group open fire on a car in Baghdad killing two Iraqi women.](/news/2007/10/9/war-in-iraq-p-employees-of-australian-owned-security-firm-unity-resources-group-open-fire-on-a-car-in-baghdad-killing-two-iraqi-women.md)
@@ -22,10 +22,10 @@ _Context: Japan, North Korea_
 _Context: Chechnya, Iran, Kosovo, Moscow, Nicolas Sarkozy, Russian President, Vladimir Putin, president_
 
 ### [ Albert Fert and Peter Grnberg are announced as winners of the 2007 Nobel Prize in Physics for the discovery of giant magnetoresistance. ](/news/2007/10/9/albert-fert-and-peter-grunberg-are-announced-as-winners-of-the-2007-nobel-prize-in-physics-for-the-discovery-of-giant-magnetoresistance.md)
-_Context: Albert Fert, Nobel Prize in Physics, Peter Grünberg, giant magnetoresistance_
+_Context: Albert Fert, Nobel Prize in Physics, Peter Grnberg, giant magnetoresistance_
 
 ### [ The general election in the Canadian province of Newfoundland and Labrador gives the Conservative government of Premier Danny Williams an enlarged majority at the expense of the Liberals. ](/news/2007/10/9/the-general-election-in-the-canadian-province-of-newfoundland-and-labrador-gives-the-conservative-government-of-premier-danny-williams-an-e.md)
-_Context: Canadian, Danny Williams, Liberals, Newfoundland and Labrador, Progressive Conservative Party, general election, province_
+_Context: Canada, Danny Williams, Liberals, Newfoundland and Labrador, Progressive Conservative Party, general election, province_
 
 ### [ The Dow Jones Industrial Average reaches its highest point in history, closing at a record high of 14,164.53.](/news/2007/10/9/the-dow-jones-industrial-average-reaches-its-highest-point-in-history-closing-at-a-record-high-of-14-164-53.md)
 _Context: Dow Jones Industrial Average_

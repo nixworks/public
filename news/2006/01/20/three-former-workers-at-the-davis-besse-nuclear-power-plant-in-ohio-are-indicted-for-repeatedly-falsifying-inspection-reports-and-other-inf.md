@@ -1,6 +1,6 @@
 ### [2006-01-20](/news/2006/01/20/index.md)
 
-#  Three former workers at the Davis-Besse nuclear power plant in Ohio are indicted for repeatedly falsifying inspection reports and other information to the US Nuclear Regulatory Commission. The plant's owner, FirstEnergy Corporation, accepts a plea bargain and {{Nowrap|$28 million}} in fines in lieu of criminal prosecution. 
+#  Three former workers at the Davis-Besse nuclear power plant in Ohio are indicted for repeatedly falsifying inspection reports and other information to the US Nuclear Regulatory Commission. The plant's owner, FirstEnergy Corporation, accepts a plea bargain and $28 million in fines in lieu of criminal prosecution. 
 
 
 

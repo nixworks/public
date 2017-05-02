@@ -37,7 +37,7 @@ _Context: (Wikinews), London, mosque_
 _Context: Chiba prefecture, China's, cargo ship_
 
 ### [ The Pentagon confirms that 52 detainees of the Guantanamo camp have gone on hunger strike. ](/news/2005/07/22/the-pentagon-confirms-that-52-detainees-of-the-guantanamo-camp-have-gone-on-hunger-strike.md)
-_Context: Defense Department, Guantánamo Bay detainment camp, hunger strike_
+_Context: Defense Department, Guantnamo Bay detainment camp, hunger strike_
 
 ### [ Leaked excerpts from the United Nations' report into Zimbabwe's Operation Murambatsvina state that the operation has been a "disastrous venture" that has violated international law and created a grave humanitarian crisis. It further suggests that the act might qualify as a crime against humanity and urged Zimbabwe to prosecute those responsible. [http://www.guardian.co.uk/worldlatest/story/0,1280,-5159000,00.html (Guardian)].](/news/2005/07/22/leaked-excerpts-from-the-united-nations-report-into-zimbabwe-s-operation-murambatsvina-state-that-the-operation-has-been-a-disastrous-ven.md)
 _Context: Operation Murambatsvina, United Nations, Zimbabwe, crimes against humanity, humanitarian crisis, international law_

@@ -1,6 +1,6 @@
 ### [2006-06-6](/news/2006/06/6/index.md)
 
-#   Iraqi Health Ministry figures show 6,025 civilian bodies were delivered to Baghdad's central mortuary in the first five months of this year. [http://news.bbc.co.uk/1/hi/world/middle_east/5053134.stm (BBC)] The Iraqi administration has asked the United Nations to join the investigations into alleged massacres by American soldiers. [http://www.zaman.com/?bl=international&alt=&trh=20060606&hn=33760 (zaman)]{{dead link|date=January 2014}}
+#   Iraqi Health Ministry figures show 6,025 civilian bodies were delivered to Baghdad's central mortuary in the first five months of this year. [http://news.bbc.co.uk/1/hi/world/middle_east/5053134.stm (BBC)] The Iraqi administration has asked the United Nations to join the investigations into alleged massacres by American soldiers. [http://www.zaman.com/?bl=international&alt=&trh=20060606&hn=33760 (zaman)]date=January 2014
 
 
 

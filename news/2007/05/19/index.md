@@ -16,10 +16,10 @@ _Context: Apia, Malietoa Tanumafili II, Samoa_
 _Context: Afghanistan, Germany, Kunduz, suicide bombing_
 
 ### [ Romanian voters go to the polls to vote on the impeachment of the President of Romania, Traian Basescu. ](/news/2007/05/19/romanian-voters-go-to-the-polls-to-vote-on-the-impeachment-of-the-president-of-romania-traian-basescu.md)
-_Context: President, Romania, Traian Băsescu, go to the polls, impeach_
+_Context: President, Romania, Traian Basescu, go to the polls, impeach_
 
 ### [ Colombian President Alvaro Uribe has ordered the national army to rescue several hostages from FARC rebels, including Ingrid Betancourt, a former senator and presidential candidate. ](/news/2007/05/19/colombian-president-alvaro-uribe-has-ordered-the-national-army-to-rescue-several-hostages-from-farc-rebels-including-angrid-betancourt.md)
-_Context: Colombian President, FARC, Álvaro Uribe, Íngrid Betancourt_
+_Context: Alvaro Uribe, Colombian President, FARC, Ingrid Betancourt_
 
 ### [ Curlin wins the Preakness Stakes, extending the Triple Crown drought to 29 years. ](/news/2007/05/19/curlin-wins-the-preakness-stakes-extending-the-triple-crown-drought-to-29-years.md)
 _Context: Curlin, Preakness Stakes, United States Triple Crown of Thoroughbred Racing_

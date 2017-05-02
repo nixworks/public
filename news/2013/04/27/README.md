@@ -13,7 +13,7 @@ A Yemeni security official says five soldiers and two al-Qaida militants have be
 The Taliban has announced the start of their spring offensive, signaling plans to step up attacks.
 
 ### [The death toll of the recent spate of anti-government violence in Iraq surpasses 190 as protests against the leadership of Nouri al-Maliki continue.  ](/news/2013/04/27/the-death-toll-of-the-recent-spate-of-anti-government-violence-in-iraq-surpasses-190-as-protests-against-the-leadership-of-nouri-al-maliki-c.md)
-_Context: 2012–13 Iraqi protests, Iraq, Nouri al-Maliki_
+_Context: 2012-13 Iraqi protests, Iraq, Nouri al-Maliki_
 
 ### [War in North-West Pakistan:A bomb attack by the Tehrik-i-Taliban Pakistan on a Awami National Party office in Karachi kills at least ten people and injures 25. ](/news/2013/04/27/war-in-north-west-pakistan-pa-bomb-attack-by-the-tehrik-i-taliban-pakistan-on-a-awami-national-party-office-in-karachi-kills-at-least-ten-pe.md)
 A bomb attack on an election meeting in the southern Pakistani city of Karachi on Friday killed at least 10 people and injured several more.

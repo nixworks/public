@@ -4,12 +4,12 @@
 _Context: Kazimierz Dolny, Nun, Poland, Polish police, Vatican, convent, eviction, rebellious_
 
 ### [ The general election in the Canadian province of Ontario gives the Liberal government of Premier Dalton McGuinty an enlarged majority. ](/news/2007/10/10/the-general-election-in-the-canadian-province-of-ontario-gives-the-liberal-government-of-premier-dalton-mcguinty-an-enlarged-majority.md)
-_Context: Canadian, Dalton McGuinty, Ontario, Ontario Liberal Party, general election, province_
+_Context: Canada, Dalton McGuinty, Ontario, Ontario Liberal Party, general election, province_
 
 ### [ Tibetan exiles storm the embassy of the People's Republic of China in New Delhi to protest the lack of religious freedom in China. ](/news/2007/10/10/tibetan-exiles-storm-the-embassy-of-the-people-s-republic-of-china-in-new-delhi-to-protest-the-lack-of-religious-freedom-in-china.md)
 _Context: China, China's, New Delhi, Tibet, embassies, religious freedom_
 
-### [ Taliban frees one German and four Afghan hostages kidnapped in mid-July.{{Fact|date=December 2007}}](/news/2007/10/10/taliban-frees-one-german-and-four-afghan-hostages-kidnapped-in-mid-july-fact-date-december-2007.md)
+### [ Taliban frees one German and four Afghan hostages kidnapped in mid-July.date=December 2007](/news/2007/10/10/taliban-frees-one-german-and-four-afghan-hostages-kidnapped-in-mid-july-date-december-2007.md)
 _Context: Taliban, hostages_
 
 ### [ The United States Centers for Disease Control and Prevention warns consumers not to eat Banquet pot pies or other pot pies made by ConAgra with a printed code ending in C9 due to possible links with a salmonella outbreak. ](/news/2007/10/10/the-united-states-centers-for-disease-control-and-prevention-warns-consumers-not-to-eat-banquet-pot-pies-or-other-pot-pies-made-by-conagra.md)

@@ -10,13 +10,13 @@ At least 14 militants who had sworn allegiance to Islamic State have been killed
 Belgian police sealed off streets in the centre of Brussels during raids late on Sunday night. Armed officers mounted several security operations –
 
 ### [Islamic State militants counter-attack in Iraq's Saladin province and seize locations west, north and south of Baiji, home to Iraq's largest oil refinery. In addition, the militants attack oilfields west of Tikrit, capture parts of the town of Seiniyah, portions of Mak'houl Mountain, and an abandoned fertilizer plant. ](/news/2015/11/22/islamic-state-militants-counter-attack-in-iraq-s-saladin-province-and-seize-locations-west-north-and-south-of-baiji-home-to-iraq-s-largest.md)
-_Context: Baiji, ISIL, Iraq, Iraqi Civil War (2014–present), Saladin province, Salahuddin campaign, Tikrit_
+_Context: Baiji, ISIL, Iraq, Iraqi Civil War (2014-present), Saladin province, Salahuddin campaign, Tikrit_
 
 ### [A Palestinian terrorist fatally stabs a 21-year-old Israeli woman at the Gush Etzion junction in the West Bank; the attacker is shot and killed by Israeli soldiers.  ](/news/2015/11/22/a-palestinian-terrorist-fatally-stabs-a-21-year-old-israeli-woman-at-the-gush-etzion-junction-in-the-west-bank-the-attacker-is-shot-and-kil.md)
 Earlier, Palestinian taxi driver tries to stab Israeli after failing to run over pedestrians near Jerusalem; 16-year-old Palestinian girl tries to stab Israelis near Itamar, run over by former head of Samaria regional council, and shot dead.
 
 ### [The UK may not face a credit rating downgrade if it votes to leave the EU in a referendum due by the end of 2017, according to the lead UK analyst at Moody's. ](/news/2015/11/22/the-uk-may-not-face-a-credit-rating-downgrade-if-it-votes-to-leave-the-eu-in-a-referendum-due-by-the-end-of-2017-according-to-the-lead-uk-a.md)
-_Context: European Union, Moody’s, United Kingdom, United Kingdom European Union membership referendum, United Kingdom withdrawal from the European Union_
+_Context: European Union, Moody's, United Kingdom, United Kingdom European Union membership referendum, United Kingdom withdrawal from the European Union_
 
 ### [The death toll in a landslide near a jade mine in northern Myanmar rises to about 100 people, with up to 200 others missing. Most of the victims were villagers digging for jade in a mountain of displaced earth.  ](/news/2015/11/22/the-death-toll-in-a-landslide-near-a-jade-mine-in-northern-myanmar-rises-to-about-100-people-with-up-to-200-others-missing-most-of-the-vic.md)
 A landslide near a jade mine in northern Myanmar killed about 100 people, most of them villagers digging for green stones in a mountain of displaced earth. 

@@ -10,7 +10,7 @@ Israel vows to ramp up warplane strikes against Hamas militants, as the death to
 _Context: Baghdad, Iraq, Iraqi insurgency (post-U.S. withdrawal)_
 
 ### [Somalia's police and intelligence chiefs were sacked after Al-Shabaab's attack on the Presidential palace yesterday. ](/news/2014/07/9/somalia-s-police-and-intelligence-chiefs-were-sacked-after-al-shabaab-s-attack-on-the-presidential-palace-yesterday.md)
-_Context: President of Somalia, Somalia, War in Somalia (2009–present), al-Shabaab_
+_Context: President of Somalia, Somalia, War in Somalia (2009-present), al-Shabaab_
 
 ### [Minutes from the last meeting of the U.S. central bank, the Federal Reserve, indicate that it will end its program of bond purchases, also known as quantitative easing, this October. ](/news/2014/07/9/minutes-from-the-last-meeting-of-the-u-s-central-bank-the-federal-reserve-indicate-that-it-will-end-its-program-of-bond-purchases-also-k.md)
 Stocks finished higher on Wednesday, rebounding from a sharp two-day selloff, after minutes from the last Federal Reserve meeting showed policymakers have started to detail how the central bank will end its easy monetary policy.
@@ -22,7 +22,7 @@ _Context: Japan, Okinawa, Pacific typhoon season, Typhoon Neoguri_
 _Context: Korean Peninsula, North Korea, South Korea_
 
 ### [Former Mayor of the American city of New Orleans, Louisiana Ray Nagin (D) is sentenced to ten years in prison for corruption, money laundering and other related offences. ](/news/2014/07/9/former-mayor-of-the-american-city-of-new-orleans-louisiana-ray-nagin-d-is-sentenced-to-ten-years-in-prison-for-corruption-money-launderi.md)
-_Context: Democrat, Mayor, New Orleans, Ray Nagin_
+_Context: Democratic, Mayor, New Orleans, Ray Nagin_
 
 ### [2014 Harris County, Texas shooting: A gunman in Spring, Texas, a suburb of the US city of Houston, kills six people including four children. ](/news/2014/07/9/2014-harris-county-texas-shooting-a-gunman-in-spring-texas-a-suburb-of-the-us-city-of-houston-kills-six-people-including-four-children.md)
 _Context: 2014 Harris County, Texas shooting, Houston, Spring, Texas_

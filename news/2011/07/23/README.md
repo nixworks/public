@@ -43,7 +43,7 @@ _Context: Grand Prairie, Texas_
 _Context: Daryoush Rezaei, Tehran_
 
 ### [Nearly 4,000 employees of the US Federal Aviation Administration are furloughed due to Congressional authorisation for its programs lapsing. ](/news/2011/07/23/nearly-4-000-employees-of-the-us-federal-aviation-administration-are-furloughed-due-to-congressional-authorisation-for-its-programs-lapsing.md)
-_Context: Federal Aviation Administration, U.S. Congress, furlough_
+_Context: Federal Aviation Administration, U.S. Congressional, furlough_
 
 ### [Voters in Sri Lanka go to the polls for local elections, with one person dying in clashes between supporters of rival parties in the Anuradhapura district. ](/news/2011/07/23/voters-in-sri-lanka-go-to-the-polls-for-local-elections-with-one-person-dying-in-clashes-between-supporters-of-rival-parties-in-the-anuradh.md)
 Sri Lankans vote in local elections - many in the northern former war zone, where the government is keen to do well - but there have been accusations of pre-election violence.

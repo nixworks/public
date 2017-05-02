@@ -1,7 +1,7 @@
 ## [2005-05-17](/news/2005/05/17/index.md)
 
 ### [ Guantanamo Bay Qur'an desecration allegations: The Bush Administration suggests that to undo "damage" caused by the story, ''Newsweek'' explain the process by which their story alleging Qur'an desecration, which sparked riots leading to 17 deaths, came into being. ](/news/2005/05/17/guanta-namo-bay-qur-an-desecration-allegations-the-bush-administration-suggests-that-to-undo-damage-caused-by-the-story-newsweek-ex.md)
-_Context: George W. Bush, Guantánamo Bay Qur'an desecration allegations, Newsweek, Qur'an_
+_Context: George W. Bush, Guantanamo Bay Qur'an desecration allegations, Newsweek, Qur'an_
 
 ### [ U.S. authorities detain Luis Posada Carriles, a CIA-linked anti-Castro militant, considered a terrorist by Cuba. ](/news/2005/05/17/u-s-authorities-detain-luis-posada-carriles-a-cia-linked-anti-castro-militant-considered-a-terrorist-by-cuba.md)
 _Context: CIA, Cuba, Fidel Castro, Luis Posada Carriles, United States, terrorism_
@@ -13,7 +13,7 @@ News and opinion from The Times &amp; The Sunday Times
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 ### [ 12,000 protesters march in the Brazilian capital of Brasilia to protest the government's slowness in land reform. A 17-day march of the Landless Workers Movement ends with violence in the capital when the demonstrators clash with the riot police. Over 50 people are injured. ](/news/2005/05/17/12-000-protesters-march-in-the-brazilian-capital-of-brasalia-to-protest-the-government-s-slowness-in-land-reform-a-17-day-march-of-the-la.md)
-_Context: Brasília, Brazil, Landless Workers Movement, land reform_
+_Context: Brasilia, Brazil, Landless Workers Movement, land reform_
 
 ### [ In Guatemala, gunmen assassinate public prosecutor Erick Galvez in Chiquimula department. ](/news/2005/05/17/in-guatemala-gunmen-assassinate-public-prosecutor-erick-galvez-in-chiquimula-department.md)
 _Context: Chiquimula, Erick Galvez, Guatemala, assassinated_
@@ -22,13 +22,13 @@ _Context: Chiquimula, Erick Galvez, Guatemala, assassinated_
 _Context: Australia, Kylie Minogue, breast cancer_
 
 ### [ Canadian Conservative MP Belinda Stronach crosses the floor of the House of Commons to sit with the Liberals, two days before a crucial budget vote that could determine whether the Liberal government falls or not. ](/news/2005/05/17/canadian-conservative-mp-belinda-stronach-crosses-the-floor-of-the-house-of-commons-to-sit-with-the-liberals-two-days-before-a-crucial-bud.md)
-_Context: Belinda Stronach, Canadian, Canadian House of Commons, Conservative Party's, Liberal Party's, MP, crosses the floor_
+_Context: Belinda Stronach, Canada, Canadian House of Commons, Conservative Party's, Liberal Party's, MP, crosses the floor_
 
 ### [ The Spanish parliament approves plan to begin negotiations with the Basque ETA. ](/news/2005/05/17/the-spanish-parliament-approves-plan-to-begin-negotiations-with-the-basque-eta.md)
 _Context: Basque, ETA, Spain_
 
 ### [ Judges at the International Criminal Court at The Hague send a case of Radovan Stankovic back to new war crimes court in Bosnia. Stankovic is accused of rape of Bosnian Muslim women in Foca in 1992. ](/news/2005/05/17/judges-at-the-international-criminal-court-at-the-hague-send-a-case-of-radovan-stankovia-back-to-new-war-crimes-court-in-bosnia-stankovia.md)
-_Context: Bosnia and Herzegovina, Foča, Hague, International Criminal Court, Muslim, Radovan Stanković, rape_
+_Context: Bosnia and Herzegovina, Foca, Hague, International Criminal Court, Muslim, Radovan Stankovic, rape_
 
 ### [ A court in Paris sentences four men to 2-7 years in prison for complicity in the murder of Afghan resistance leader Ahmed Shah Masood in 2001. ](/news/2005/05/17/a-court-in-paris-sentences-four-men-to-2-7-years-in-prison-for-complicity-in-the-murder-of-afghan-resistance-leader-ahmed-shah-masood-in-20.md)
 _Context: Afghanistan, Ahmed Shah Masood, Paris_

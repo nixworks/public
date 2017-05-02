@@ -13,7 +13,7 @@ China targeted economic growth of 7.5 percent in 2013 and vowed an unwavering fi
 There are concerns about whether the forces that have driven the market rally — government spending and banner corporate profits — will be sufficient to push it higher.
 
 ### [Venezuela announces its intention to expel a member of the United States embassy working as a US Air Force military attache. The U.S. official is accused of spying on the military and meeting with officials to plan destabilizing the country. ](/news/2013/03/5/venezuela-announces-its-intention-to-expel-a-member-of-the-united-states-embassy-working-as-a-us-air-force-military-attacha-c-the-u-s-offic.md)
-_Context: U.S., United States, United States Air Force, Venezuela, embassy, military attaché_
+_Context: U.S., United States, United States Air Force, Venezuela, embassy, military attache_
 
 ### [The UN Security Council holds a closed-door session to discuss new sanctions against North Korea following reports of an agreement on a draft resolution between the United States and China. North Korea announces plans to nullify the armistice agreement that ended the Korean War. ](/news/2013/03/5/the-un-security-council-holds-a-closed-door-session-to-discuss-new-sanctions-against-north-korea-following-reports-of-an-agreement-on-a-draf.md)
 _Context: 2013, China's, Korean Armistice Agreement, Korean War, North Korea, United Nations Security Council, United States_
@@ -46,7 +46,7 @@ Japanese carrier Willcom has just announced the Phone Strap 2 WX06A, which it ca
 Scientists in the US publish the most detailed brain scans the world has ever seen as part of a project to understand how the organ works
 
 ### [Real Madrid defeat Manchester United by a 2-1 scoreline (3-2 on aggregate) in the second leg of their 2012-13 UEFA Champions League last 16 tie. With the Premier League club leading 1-0, Nani's controversial second half sending off provides the game's main turning point, and Cristiano Ronaldo ultimately scores the winning goal on his first return to Old Trafford since leaving in the summer of 2009. ](/news/2013/03/5/real-madrid-defeat-manchester-united-by-a-2a1-scoreline-3a2-on-aggregate-in-the-second-leg-of-their-2012a13-uefa-champions-league-la.md)
-_Context: 2012–13 UEFA Champions League, Cristiano Ronaldo, English Premier League, Manchester United, Nani, Old Trafford, Real Madrid, eject, semi-finals_
+_Context: 2012-13 UEFA Champions League, Cristiano Ronaldo, English Premier League, Manchester United, Nani, Old Trafford, Real Madrid, eject, semi-finals_
 
 ## [Previous Day...](/news/2013/03/4/index.md)
 

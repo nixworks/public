@@ -94,7 +94,7 @@ A movement to replace the mathematical constant pi with tau - a constant twice a
 _Context: $, Delaware, Los Angeles Dodgers, Major League Baseball, baseball, state_
 
 ### [In association football, 8 players from the Mexico national football team's Copa America squad are suspended for six months. ](/news/2011/06/28/in-association-football-8-players-from-the-mexico-national-football-team-s-copa-ama-c-rica-squad-are-suspended-for-six-months.md)
-_Context: Copa América, Mexico, association football_
+_Context: Copa America, Mexico, association football_
 
 ## [Previous Day...](/news/2011/06/27/index.md)
 

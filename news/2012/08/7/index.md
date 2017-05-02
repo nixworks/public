@@ -1,7 +1,7 @@
 ## [2012-08-7](/news/2012/08/7/index.md)
 
 ### [Mexican Drug War: The United States freezes the assets of three Belize-based associates of Mexico's top drug lord, Joaquin "El Chapo" Guzman. ](/news/2012/08/7/mexican-drug-war-the-united-states-freezes-the-assets-of-three-belize-based-associates-of-mexico-s-top-drug-lord-joaquan-el-chapo-guzma.md)
-_Context: Belize, Joaquín Guzmán Loera, Mexican Drug War_
+_Context: Belize, Joaquin Guzman Loera, Mexican Drug War_
 
 ### [Syrian civil war: Saeed Jalili, a senior Iranian official, reaffirms the Iranian government's support for the Syrian government throughout the crisis. ](/news/2012/08/7/syrian-civil-war-saeed-jalili-a-senior-iranian-official-reaffirms-the-iranian-government-s-support-for-the-syrian-government-throughout-t.md)
 Senior Iranian official meets Assad in Damascus as new deaths are reported in Aleppo where troops are battling rebels.

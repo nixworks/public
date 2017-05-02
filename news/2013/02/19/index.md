@@ -34,7 +34,7 @@ _Context: California, Orange County, United States, shooting spree_
 Adam Steenkamp, the brother of Reeva Steenkamp, says her family wants to remember his sister and &quot;all the goodness that she stood for&quot;, as her memorial service takes place on Tuesday. Athlete Oscar Pistorius denies a charge of pre-meditated murder.
 
 ### [The City Hall of the Canadian city of Montreal is shut down as the Quebec police conduct anti-corruption raids. ](/news/2013/02/19/the-city-hall-of-the-canadian-city-of-montreal-is-shut-down-as-the-quebec-police-conduct-anti-corruption-raids.md)
-_Context: Canadian, City Hall, Quebec police, anti-corruption, city of Montreal_
+_Context: Canada, City Hall, Quebec police, anti-corruption, city of Montreal_
 
 ### [Christine Milne, the leader of The Australian Greens, announces that the party has ended its agreement with the Australian Labor Party which led to the formation of the minority government led by Prime Minister Julia Gillard. ](/news/2013/02/19/christine-milne-the-leader-of-the-australian-greens-announces-that-the-party-has-ended-its-agreement-with-the-australian-labor-party-which.md)
 _Context: Christine Milne, Julia Gillard, Labor Party, Prime Minister of Australia, The Australian Greens_
@@ -46,7 +46,7 @@ Incumbent Serzh Sargsyan garners 61 percent of vote, according to partial result
 Tunisian Prime Minister Hamadi Jebali resigns after failing to form a new government following a political assassination.
 
 ### [2013 Bulgarian protests: At least 10 people are injured in the Bulgarian capital Sofia, as tens of thousands turn up for rallies in 10 cities, a day after Prime Minister Boyko Borisov sacked his Finance Minister Simeon Djankov. The government revokes the license of Czech company CEZ due to high electricity prices, which helped fuel the 9-day protests. ](/news/2013/02/19/2013-bulgarian-protests-at-least-10-people-are-injured-in-the-bulgarian-capital-sofia-as-tens-of-thousands-turn-up-for-rallies-in-10-citie.md)
-_Context: 2013 Bulgarian protests, Boyko Borisov, Bulgaria, Czech, Prime Minister, Simeon Djankov, Sofia, ČEZ_
+_Context: 2013 Bulgarian protests, Boyko Borisov, Bulgaria, CEZ, Czech, Prime Minister, Simeon Djankov, Sofia_
 
 ### [Nepal's major political parties agree to form an interim government led by the Supreme Court Chief Justice Khil Raj Regmi, pending a new Constituent Assembly election to write a new constitution. ](/news/2013/02/19/nepal-s-major-political-parties-agree-to-form-an-interim-government-led-by-the-supreme-court-chief-justice-khil-raj-regmi-pending-a-new-con.md)
 Nepal&#039;s major political parties have agreed to form an interim government led by the Supreme Court chief justice and hold elections in June, likely ending a deadlock that left the nation without a fully functioning government since last year.

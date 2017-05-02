@@ -37,7 +37,7 @@ _Context: Health Ministry, Nicaragua, leptospirosis_
 _Context: Chile, rescue 33 miners trapped_
 
 ### [The Ajkai Timfoldgyar alumina plant in Ajka, Veszprem County, in western Hungary is set to reopen following the accident earlier this month as the death toll reaches nine. ](/news/2010/10/15/the-ajkai-timfapldgya-r-alumina-plant-in-ajka-veszpra-c-m-county-in-western-hungary-is-set-to-reopen-following-the-accident-earlier-this-mon.md)
-_Context: Ajka, Hungary, Veszprém County, accident earlier this month, alumina_
+_Context: Ajka, Hungary, Veszprem County, accident earlier this month, alumina_
 
 ### [Four miners are trapped underground in southern Ecuador. ](/news/2010/10/15/four-miners-are-trapped-underground-in-southern-ecuador.md)
 _Context: Ecuador_
@@ -70,7 +70,7 @@ China&#039;s leaders faced fresh calls for freedom of speech on Friday after gro
 North-south tensions rise as Khartoum says referendum on disputed oil-rich region may be delayed.
 
 ### [2010 Commonwealth Games: Nigerian athlete Folashade Abugan tests positive for testosterone prohormone and is stripped of two silver medals in the 400 metres and 4x400 metres. ](/news/2010/10/15/2010-commonwealth-games-nigerian-athlete-folashade-abugan-tests-positive-for-testosterone-prohormone-and-is-stripped-of-two-silver-medals-i.md)
-_Context: 2010 Commonwealth Games, 400 metres and 4×400 metres, Folashade Abugan, Nigeria, testosterone prohormone_
+_Context: 2010 Commonwealth Games, 400 metres and 4x400 metres, Folashade Abugan, Nigeria, testosterone prohormone_
 
 ### [New England Sports Ventures, the owner of the Boston Red Sox, takes over as owners of English Premier League team Liverpool Football Club. ](/news/2010/10/15/new-england-sports-ventures-the-owner-of-the-boston-red-sox-takes-over-as-owners-of-english-premier-league-team-liverpool-football-club.md)
 _Context: Boston Red Sox, English Premier League, Liverpool F.C., New England Sports Ventures_

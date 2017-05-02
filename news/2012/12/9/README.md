@@ -43,13 +43,13 @@ _Context: Briz-M, International Launch Services, Khrunichev Center, Yamal-402, r
 After 36 rounds of non-stop action and three close decisions throughout their rivalry, Manny Pacquiao and Juan Manuel Marquez look to put an end to the discussion once and for all.
 
 ### [Manchester United win the Manchester derby, defeating reigning league champions Manchester City by a score of 3-2 in the 2012-13 Premier League. Robin van Persie scores a last-minute goal and Rio Ferdinand is injured after being hit by a coin. ](/news/2012/12/9/manchester-united-win-the-manchester-derby-defeating-reigning-league-champions-manchester-city-by-a-score-of-3a2-in-the-2012a13-premier.md)
-_Context: 2012–13 Premier League, English Premier League, Manchester City, Manchester United, Rio Ferdinand, Robin van Persie, coin, last-minute goal, reigning, rivals, title_
+_Context: 2012-13 Premier League, English Premier League, Manchester City, Manchester United, Rio Ferdinand, Robin van Persie, coin, last-minute goal, reigning, rivals, title_
 
 ### [Brazil women's national futsal team wins its third consecutive world title after defeating the Portugal team in the final of the 2012 Women's Futsal World Tournament by a 3-0 score. ](/news/2012/12/9/brazil-women-s-national-futsal-team-wins-its-third-consecutive-world-title-after-defeating-the-portugal-team-in-the-final-of-the-2012-women.md)
 _Context: 2012 Women's Futsal World Tournament, Brazil, Portuguese, futsal, world title_
 
 ### [Barcelona's star Lionel Messi scores twice against Real Betis, his 85th and 86th goals in a calendar year, breaking the record created by German legend Gerd Muller (85 goals) in 1972. ](/news/2012/12/9/barcelona-s-star-lionel-messi-scores-twice-against-real-betis-his-85th-and-86th-goals-in-a-calendar-year-breaking-the-record-created-by-ge.md)
-_Context: FC Barcelona, Gerd Müller, Germany, Lionel Messi, Real Betis_
+_Context: FC Barcelona, Gerd Muller, Germany, Lionel Messi, Real Betis_
 
 ### [Slovenia national football team manager Slavisa Stojanovic is sacked after a poor start to the 2014 World Cup qualifying campaign. ](/news/2012/12/9/slovenia-national-football-team-manager-slavia-a-stojanovia-is-sacked-after-a-poor-start-to-the-2014-world-cup-qualifying-campaign.md)
 The official site of the international governing body of football with news, national associations, competitions, results, fixtures, development, organisation, world rankings, statistics, the International Football Association Board, history, laws of the game, futsal, publications, downloads, and contact details.

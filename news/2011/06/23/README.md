@@ -4,7 +4,7 @@
 Syrian troops massed onthe Turkish border overnight, witnesses said on Thursday,escalating tensions with Ankara as President Bashar al-Assaduses increasing military force to try to crush a popular revolt.
 
 ### [2010-2011 Senegal protests: Thousands of people gather outside parliament in Dakar to protest changes to the constitution and are dispersed with tear gas and rubber bullets by riot police. ](/news/2011/06/23/2010a2011-senegal-protests-thousands-of-people-gather-outside-parliament-in-dakar-to-protest-changes-to-the-constitution-and-are-disperse.md)
-_Context: 2010–2011 Senegal protests, Dakar, riot police, rubber bullet, tear gas_
+_Context: 2010-2011 Senegal protests, Dakar, riot police, rubber bullet, tear gas_
 
 ### [France announces plans to withdraw troops from Afghanistan in a similar timeframe to that announced for United States forces by President Barack Obama yesterday. ](/news/2011/06/23/france-announces-plans-to-withdraw-troops-from-afghanistan-in-a-similar-timeframe-to-that-announced-for-united-states-forces-by-president-ba.md)
 _Context: Afghanistan, Barack Obama, France, United States, president_

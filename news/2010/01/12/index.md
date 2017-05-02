@@ -1,7 +1,7 @@
 ## [2010-01-12](/news/2010/01/12/index.md)
 
 ### [A bomb blast damages the Mozdok - Makhachkala - Kazi Magomed pipeline in Russia's Republic of Dagestan, leaving eleven towns in the republic without gas supply. ](/news/2010/01/12/a-bomb-blast-damages-the-mozdok-a-makhachkala-a-kazi-magomed-pipeline-in-russia-s-republic-of-dagestan-leaving-eleven-towns-in-the-repu.md)
-_Context: Mozdok – Makhachkala – Kazi Magomed pipeline, Republic of Dagestan, Russia_
+_Context: Mozdok - Makhachkala - Kazi Magomed pipeline, Republic of Dagestan, Russia_
 
 ### [China's top search engine Baidu is allegedly attacked by Iranian hackers, sparking a retaliatory attack by Chinese hackers on Iranian sites. ](/news/2010/01/12/china-s-top-search-engine-baidu-is-allegedly-attacked-by-iranian-hackers-sparking-a-retaliatory-attack-by-chinese-hackers-on-iranian-sites.md)
 _Context: Baidu, China's, Iran_
@@ -10,7 +10,7 @@ _Context: Baidu, China's, Iran_
 _Context: Iran, Israel, Masoud Alimohammadi, Tehran, United States_
 
 ### [Mexican Drug War:Mexican authorities report the capture of Teodoro Garcia Simental, one of the country's most notorious drug lords, in a raid in La Paz, Baja California Sur. ](/news/2010/01/12/mexican-drug-war-pmexican-authorities-report-the-capture-of-teodoro-garcaa-simental-one-of-the-country-s-most-notorious-drug-lords-in-a-r.md)
-_Context: La Paz, Baja California Sur, Mexican Drug War, Mexico, Teodoro García Simental_
+_Context: La Paz, Baja California Sur, Mexican Drug War, Mexico, Teodoro Garcia Simental_
 
 ### [U.S. talk show host Conan O'Brien announces his intention to quit ''The Tonight Show'' if NBC goes forward with their plan to move the show from its long standing 11:35pm timeslot to 12:05am in favor of ''The Jay Leno Show''. ](/news/2010/01/12/u-s-talk-show-host-conan-o-brien-announces-his-intention-to-quit-the-tonight-show-if-nbc-goes-forward-with-their-plan-to-move-the-show.md)
 _Context: Conan O'Brien, NBC, The Jay Leno Show, The Tonight Show_
@@ -61,7 +61,7 @@ _Context: Mahinda Rajapaksa, Sri Lanka, Tamil_
 50 days, after leaving Nigeria for medical treatment in Saudi Arabia with rumoured death in a section of the media, President Umar Musa Yarâ€™Adua has spoken at last!
 
 ### [The "bizarre behaviour" of a nocturnal raspy cricket pollinating a flower is caught on camera on the island of Reunion, contradicting the image of crickets destroying flowers. ](/news/2010/01/12/the-bizarre-behaviour-of-a-nocturnal-raspy-cricket-pollinating-a-flower-is-caught-on-camera-on-the-island-of-ra-c-union-contradicting-the-i.md)
-_Context: Réunion, cricket, pollinating_
+_Context: Reunion, cricket, pollinating_
 
 ### [The Confederation of African Football officially "disqualifies" and plans to punish the Togo national football team for failing to take part in the 2010 Africa Cup of Nations, despite the fatal machine gun attack on their team bus. ](/news/2010/01/12/the-confederation-of-african-football-officially-disqualifies-and-plans-to-punish-the-togo-national-football-team-for-failing-to-take-part.md)
 Togo have been threatened with punishment after their withdrawal from the Africa Cup of Nations, adding outrageous insult to the grievous injuries they have suffered.

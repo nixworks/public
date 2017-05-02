@@ -52,7 +52,7 @@ _Context: 2009 gubernatorial election and runoff, Benigno Fitial, Covenant Party
 _Context: China's, Opera, blocks mentions_
 
 ### [ Chilean writer and historian, Jose Arrano Acevedo dies at the age of 88. [http://www.pichilemu.cl/noticias/sep2009/2511/index.htm]](/news/2009/11/24/chilean-writer-and-historian-josa-c-arraa-o-acevedo-dies-at-the-age-of-88-http-www-pichilemu-cl-noticias-sep2009-2511-index-htm.md)
-_Context: Chilean, José Arraño Acevedo, historian, writer_
+_Context: Chilean, Jose Arrano Acevedo, historian, writer_
 
 ## [Previous Day...](/news/2009/11/23/index.md)
 

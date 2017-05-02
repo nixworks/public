@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [Germany's Bayern Munich and Spain's Malaga reach 2012-13 UEFA Champions League quarter-finals defeating Arsenal and Porto on aggregate respectively. ](/news/2013/03/13/germany-s-bayern-munich-and-spain-s-ma-laga-reach-2012a13-uefa-champions-league-quarter-finals-defeating-arsenal-and-porto-on-aggregate-re.md) _Context: Málaga, Spain_
+1. [Germany's Bayern Munich and Spain's Malaga reach 2012-13 UEFA Champions League quarter-finals defeating Arsenal and Porto on aggregate respectively. ](/news/2013/03/13/germany-s-bayern-munich-and-spain-s-ma-laga-reach-2012a13-uefa-champions-league-quarter-finals-defeating-arsenal-and-porto-on-aggregate-re.md) _Context: Malaga, Spain_
 2. [In Spain, the Basque separatist group ETA announces that it will fully disarm by April 8, 2017. ](/news/2017/03/17/in-spain-the-basque-separatist-group-eta-announces-that-it-will-fully-disarm-by-april-8-2017.md) _Context: Spain_
 3. [Europol reports a total of more than 10,000 assault rifles and 400 shelling weapons were seized in northern Spain during an anti-trafficking operation in January. ](/news/2017/03/14/europol-reports-a-total-of-more-than-10-000-assault-rifles-and-400-shelling-weapons-were-seized-in-northern-spain-during-an-anti-trafficking.md) _Context: Spain_
 4. [Princess Cristina of Spain is acquitted of fraud but her husband is convicted. ](/news/2017/02/17/princess-cristina-of-spain-is-acquitted-of-fraud-but-her-husband-is-convicted.md) _Context: Spain_

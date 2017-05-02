@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ 2007 Pakistani state of emergency: Former cricketer and chairman of Pakistan Tehreek-e-Insaf, Imran Khan escapes from house arrest.{{Fact|date=December 2007}} Lawyers prepare for a countrywide strike tomorrow.{{Fact|date=December 2007}}](/news/2007/11/4/2007-pakistani-state-of-emergency-p-former-cricketer-and-chairman-of-pakistan-tehreek-e-insaf-imran-khan-escapes-from-house-arrest-fact.md) _Context: Imran Khan, Pakistan Tehreek-e-Insaf_
+1. [ 2007 Pakistani state of emergency: Former cricketer and chairman of Pakistan Tehreek-e-Insaf, Imran Khan escapes from house arrest.date=December 2007 Lawyers prepare for a countrywide strike tomorrow.date=December 2007](/news/2007/11/4/2007-pakistani-state-of-emergency-p-former-cricketer-and-chairman-of-pakistan-tehreek-e-insaf-imran-khan-escapes-from-house-arrest-date-de.md) _Context: Imran Khan, Pakistan Tehreek-e-Insaf_
 2. [ 2007 Pakistani state of emergency: Opposition politician and Pakistan Tehreek-e-Insaf leader Imran Khan is released from prison in Punjab. ](/news/2007/11/21/2007-pakistani-state-of-emergency-p-opposition-politician-and-pakistan-tehreek-e-insaf-leader-imran-khan-is-released-from-prison-in-punjab.md) _Context: Imran Khan, Pakistan Tehreek-e-Insaf_
 3. [An Afghan diplomat is shot dead at the Afghan consulate in Karachi, Pakistan. ](/news/2017/02/6/an-afghan-diplomat-is-shot-dead-at-the-afghan-consulate-in-karachi-pakistan.md) _Context: Karachi_
 4. [At least 12 people are killed and 75 others injured as a fire erupts in Karachi's Regent Plaza Hotel. ](/news/2016/12/5/at-least-12-people-are-killed-and-75-others-injured-as-a-fire-erupts-in-karachi-s-regent-plaza-hotel.md) _Context: Karachi_

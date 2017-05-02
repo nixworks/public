@@ -1,7 +1,7 @@
 ## [2015-09-25](/news/2015/09/25/index.md)
 
 ### [Burkina Faso's cabinet dissolves the elite presidential guard behind last week's coup d'tat, creates a commission to investigate these events, and dismisses the minister in charge of security. ](/news/2015/09/25/burkina-faso-s-cabinet-dissolves-the-elite-presidential-guard-behind-last-week-s-coup-d-etat-creates-a-commission-to-investigate-these-even.md)
-_Context: 2015 Burkinabé coup d'état, Burkina Faso, coup d'état, elite presidential guard_
+_Context: 2015 Burkinab coup d'tat, Burkina Faso, coup d'tat, elite presidential guard_
 
 ### [New Syrian Forces trade American supplied equipment to the Al Qaeda-linked Nusra Front in return for safe passage. ](/news/2015/09/25/new-syrian-forces-trade-american-supplied-equipment-to-the-al-qaeda-linked-nusra-front-in-return-for-safe-passage.md)
 _Context: New Syrian Forces, Nusra Front, Syrian Civil War, al-Qaeda_

@@ -16,7 +16,7 @@ _Context: Arthur Penn, Bonnie and Clyde, New York's, United States, congestive h
 Oracle Corp ORCL.O hassued Micron Technology Inc (MU.O) for fixing prices of computermemory chips, in a continuance of litigation it inherited fromSun Microsystems.
 
 ### [A 4.5 earthquake shakes offshore of Oleron, France, with no reported casualties. ](/news/2010/09/28/a-4-5-earthquake-shakes-offshore-of-ola-c-ron-france-with-no-reported-casualties.md)
-_Context: France, Oléron_
+_Context: France, Oleron_
 
 ### [300 homes are buried by a landslide in Santa Maria Tlahuitoltepec in the southern Mexican state of Oaxaca which is feared to have killed hundreds while they slept. The landslide was caused by Tropical Storm Matthew.  ](/news/2010/09/28/300-homes-are-buried-by-a-landslide-in-santa-maraa-tlahuitoltepec-in-the-southern-mexican-state-of-oaxaca-which-is-feared-to-have-killed-hu.md)
 A landslide triggered by heavy rain hits a town in southern Mexico, engulfing a number of houses, officials say.
@@ -58,7 +58,7 @@ _Context: Dmitry Medvedev, Mayor of Moscow, Russian President, Vladimir Resin, Y
 Ed Miliband says a new generation is running Labour and signals a break from the past by declaring the Iraq war wrong in his first big speech as leader.
 
 ### [Iceland's parliament, the Althing, refers charges of misconduct in office related to the 2008-2012 Icelandic financial crisis against former Prime Minister of Iceland Geir Haarde to the Landsdomur, a special court for such cases. ](/news/2010/09/28/iceland-s-parliament-the-althing-refers-charges-of-misconduct-in-office-related-to-the-2008a2012-icelandic-financial-crisis-against-form.md)
-_Context: 2008 economic meltdown, Geir Haarde, Iceland, Icelandic Prime Minister, Landsdómur, parliament (Althing)_
+_Context: 2008 economic meltdown, Geir Haarde, Iceland, Icelandic Prime Minister, Landsdomur, parliament (Althing)_
 
 ### [The Cincinnati Reds win the National League Central in Major League Baseball. ](/news/2010/09/28/the-cincinnati-reds-win-the-national-league-central-in-major-league-baseball.md)
 CINCINNATI — Chris Johnson is exactly 100 games into his major league career, and he’s already tired of watching what he saw Tuesday night: the raised arms, the human pileups, the jubilation of the home crowd that comes with a win to clinch a playoff berth. Cincinnati’s young, homegrown core, embodied by Bruce, MVP candidate Joey Votto, Drew Stubbs and Johnny Cueto, is supplemented by low-cost veteran acquisitions like Scott Rolen, Orlando Cabrera and Jonny Gomes. [...] Votto was signed in 2002, Cueto in 2004, Bruce in 2005, and Stubbs in 2006, and they have come of age together, with the essential veterans added to the mix like good seasonings, not overwhelming ingredients. [...] when 15 years of frustration ended with Bruce’s drive to center on the first pitch of the ninth from Tim Byrdak, what a release. Wandy Rodriguez walked the first two hitters of the game and got a double play and another ground ball, but Johnson bounced a long throw to Brett Wallace as the play went for an RBI single and error on Johnson, allowing the batter Rolen to take second. The Astros grabbed the lead with a two-run fourth highlighted by a Jason Castro RBI single and a successful squeeze bunt by Rodriguez to score Angel Sanchez. Back-to-back singles by Cabrera and Votto and Rolen’s comeback from an 0-2 count to work a walk got the Reds in prime position.

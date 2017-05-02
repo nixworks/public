@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Related:
 
-1. [War in Afghanistan (2001-present):A suicide bombing at a market in the Afghan city of Kunduz kills at least ten people and wounds up to twenty others. ](/news/2013/01/26/war-in-afghanistan-2001apresent-pa-suicide-bombing-at-a-market-in-the-afghan-city-of-kunduz-kills-at-least-ten-people-and-wounds-up-to-t.md) _Context: Afghanistan, Kunduz, War in Afghanistan (2001–present)_
+1. [War in Afghanistan (2001-present):A suicide bombing at a market in the Afghan city of Kunduz kills at least ten people and wounds up to twenty others. ](/news/2013/01/26/war-in-afghanistan-2001apresent-pa-suicide-bombing-at-a-market-in-the-afghan-city-of-kunduz-kills-at-least-ten-people-and-wounds-up-to-t.md) _Context: Afghanistan, Kunduz, War in Afghanistan (2001-present)_
 2. [ Three German soldiers are killed with four civilians in a suicide bombing in Kunduz in northern Afghanistan. ](/news/2007/05/19/three-german-soldiers-are-killed-with-four-civilians-in-a-suicide-bombing-in-kunduz-in-northern-afghanistan.md) _Context: Afghanistan, Germany, Kunduz_
 3. [A report alleges that the German BND has been spying on journalists in Afghanistan. ](/news/2017/02/24/a-report-alleges-that-the-german-bnd-has-been-spying-on-journalists-in-afghanistan.md) _Context: Afghanistan, Germany_
 4. [  Suspect Taliban militants kill nine and kidnap 170 in an attack on three passenger buses in Kunduz, Afghanistan. ](/news/2016/05/31/suspect-taliban-militants-kill-nine-and-kidnap-170-in-an-attack-on-three-passenger-buses-in-kunduz-afghanistan.md) _Context: Afghanistan, Kunduz_

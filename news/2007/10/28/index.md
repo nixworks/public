@@ -4,7 +4,7 @@
 _Context: Franco, Roman Catholic Church, Spanish Civil War, beatified, controversy, dictator, executed_
 
 ### [ The Prime Minister of Israel Ehud Olmert apologizes to the Prime Minister of Turkey Recep Tayyip Erdogan for possibly violating Turkish airspace. ](/news/2007/10/28/the-prime-minister-of-israel-ehud-olmert-apologizes-to-the-prime-minister-of-turkey-recep-tayyip-erdoaan-for-possibly-violating-turkish-ai.md)
-_Context: Ehud Olmert, Prime Minister of Israel, Prime Minister of Turkey, Recep Tayyip Erdoğan, Turkey_
+_Context: Ehud Olmert, Prime Minister of Israel, Prime Minister of Turkey, Recep Tayyip Erdogan, Turkey_
 
 ### [ Numerous locations and machines in North America are affected by newly instituted rules governing daylight saving time. ](/news/2007/10/28/numerous-locations-and-machines-in-north-america-are-affected-by-newly-instituted-rules-governing-daylight-saving-time.md)
 Baltimore, Maryland issues tickets to legally parked motorists after smart parking meters implement daylight saving time a week early.
@@ -22,7 +22,7 @@ _Context: Dash 8 Q400, Scandinavian Airlines_
 _Context: 2007 Atlantic hurricane season, Cuba, Haiti, Port-au-Prince, Tropical Depression Sixteen, tropical storm warning_
 
 ### [ Voters in Argentina go to the polls for the 2007 general election. Exit polls show First Lady Cristina Fernandez de Kirchner with a clear lead over Elisa Carrio. ](/news/2007/10/28/voters-in-argentina-go-to-the-polls-for-the-2007-general-election-exit-polls-show-first-lady-cristina-ferna-ndez-de-kirchner-with-a-clear.md)
-_Context: Argentina, Argentine general election, 2007, Cristina Fernández, Elisa Carrió, First Lady_
+_Context: Argentina, Argentine general election, 2007, Cristina Fernandez, Elisa Carrio, First Lady_
 
 ### [ The Boston Red Sox baseball team sweep the Colorado Rockies to win the 2007 World Series. ](/news/2007/10/28/the-boston-red-sox-baseball-team-sweep-the-colorado-rockies-to-win-the-2007-world-series.md)
 _Context: 2007 World Series, Boston Red Sox, Colorado Rockies_

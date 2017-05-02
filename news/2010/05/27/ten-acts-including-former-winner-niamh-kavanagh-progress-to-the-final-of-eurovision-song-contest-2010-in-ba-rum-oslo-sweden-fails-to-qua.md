@@ -12,7 +12,7 @@ Though her voice did not sound as strong as in rehearsals, the former winner loo
 
 ### Related:
 
-1. [Eurovision Song Contest 2010 at the Telenor Arena in Baerum, Oslo:An audience member storms the stage during Daniel Diges performance. The Spanish entry has to be performed again. ](/news/2010/05/29/eurovision-song-contest-2010-at-the-telenor-arena-in-ba-rum-oslo-pan-audience-member-storms-the-stage-during-daniel-diges-performance-the.md) _Context: Bærum, Eurovision Song Contest 2010, Oslo_
+1. [Eurovision Song Contest 2010 at the Telenor Arena in An audience member storms the stage during Daniel Diges performance. The Spanish entry has to be performed again. ](/news/2010/05/29/eurovision-song-contest-2010-at-the-telenor-arena-in-an-audience-member-storms-the-stage-during-daniel-diges-performance-the-spanish-entry.md) _Context: Baerum, Eurovision Song Contest 2010, Oslo_
 2. [ TeliaSonera opens the world's first 4G LTE cellular network for public in Oslo, Norway, and Stockholm, Sweden. ](/news/2009/12/14/teliasonera-opens-the-world-s-first-4g-lte-cellular-network-for-public-in-oslo-norway-and-stockholm-sweden.md) _Context: Oslo, Sweden_
 3. [Nobel Prize awards in Stockholm, Sweden and Oslo, Norway.](/news/2002/12/10/nobel-prize-awards-in-stockholm-sweden-and-oslo-norway.md) _Context: Oslo, Sweden_
 4. [A vehicle is driven into a group of people on a street in Stockholm, Sweden, killing four people. ](/news/2017/04/7/a-vehicle-is-driven-into-a-group-of-people-on-a-street-in-stockholm-sweden-killing-four-people.md) _Context: Sweden_

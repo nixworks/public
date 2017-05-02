@@ -1,7 +1,7 @@
 ## [2016-02-8](/news/2016/02/8/index.md)
 
 ### [A Libyan Air Force MiG-23 fighter jet crashes due to a "mechanical failure", while conducting airstrikes on Islamic State-controlled areas in the eastern city of Derna. ](/news/2016/02/8/a-libyan-air-force-mig-23-fighter-jet-crashes-due-to-a-mechanical-failure-while-conducting-airstrikes-on-islamic-state-controlled-areas-i.md)
-_Context: Derna, ISIL, Libyan Air Force, Libyan Civil War (2014–present), MiG-23_
+_Context: Derna, ISIL, Libyan Air Force, Libyan Civil War (2014-present), MiG-23_
 
 ### [United Nations investigators accuse the Government of Syria of "extermination" in its jails and detention centres. ](/news/2016/02/8/united-nations-investigators-accuse-the-government-of-syria-of-extermination-in-its-jails-and-detention-centres.md)
 Detainees held by the Syrian Government are dying on an extermination scale, a UN report says.
@@ -10,7 +10,7 @@ Detainees held by the Syrian Government are dying on an extermination scale, a U
 _Context: Khamis Mushait, King Khalid Air Base, Saudi Arabia, Saudi-led coalition, Scud, Yemen_
 
 ### [A suicide bomber strikes a crowded market in eastern Afghanistan killing five civilians and wounding nine others. ](/news/2016/02/8/a-suicide-bomber-strikes-a-crowded-market-in-eastern-afghanistan-killing-five-civilians-and-wounding-nine-others.md)
-_Context: War in Afghanistan (2015–present)_
+_Context: War in Afghanistan (2015-present)_
 
 ### [The death toll from the Taiwan earthquake rises to 38 with more than 100 people missing. ](/news/2016/02/8/the-death-toll-from-the-taiwan-earthquake-rises-to-38-with-more-than-100-people-missing.md)
 TAINAN, Taiwan (Reuters) - Rescuers in the southern Taiwan city of Tainan pulled a woman out alive from the wreckage of a collapsed building on Monday, a Reuters witness said, more than 48 hours after an earthquake hit the island. The death toll from the quake, which struck early on Saturday at the start
@@ -31,7 +31,7 @@ A North Korean patrol boat crossed into South Korean waters early on Monday and 
 Turkish aid workers set up tents and distribute supplies for thousands of new Syrian refugees kept from entering Turkey at the border.
 
 ### [The Constitutional Court of Colombia rules on banning all mining activities in the Paramo ecosystems due to environmental concerns. ](/news/2016/02/8/the-constitutional-court-of-colombia-rules-on-banning-all-mining-activities-in-the-pa-ramo-ecosystems-due-to-environmental-concerns.md)
-_Context: Páramo, Supreme Court_
+_Context: Paramo, Supreme Court_
 
 ### [DotGovs, a hacker group that released data on almost 10,000 Department of Homeland Security employees yesterday, publish contact information for 20,000 FBI employees. ](/news/2016/02/8/dotgovs-a-hacker-group-that-released-data-on-almost-10-000-department-of-homeland-security-employees-yesterday-publish-contact-information.md)
 _Context: FBI, U.S. Department of Homeland Security, hackers_

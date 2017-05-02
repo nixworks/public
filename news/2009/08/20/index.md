@@ -10,7 +10,7 @@ _Context: Baghdad, bicycles_
 _Context: Democratic Republic of the Congo, Kasai province_
 
 ### [ A line of severe thunderstorms rolls through Ontario, Canada, spawns over 18 tornadoes in one day which has been declared to be the largest tornado outbreak in Canadian history, at least four F-2 tornadoes were confirmed, including one touching down in the town of Durham, Ontario, northwest of Toronto where at least one person was killed, and the other in a Toronto suburb of Vaughan, Ontario where over 600 homes were damaged or destroyed.](/news/2009/08/20/a-line-of-severe-thunderstorms-rolls-through-ontario-canada-spawns-over-18-tornadoes-in-one-day-which-has-been-declared-to-be-the-largest.md)
-_Context: Canadian, Durham, Ontario, Ontario, Toronto, Vaughan, Ontario, largest tornado outbreak in Canadian history_
+_Context: Canada, Durham, Ontario, Ontario, Toronto, Vaughan, Ontario, largest tornado outbreak in Canadian history_
 
 ### [ Switzerland's president, Hans-Rudolf Merz, apologizes to the Libyan government for last year's arrest of a son of Libyan leader Muammar Gaddafi. ](/news/2009/08/20/switzerland-s-president-hans-rudolf-merz-apologizes-to-the-libyan-government-for-last-year-s-arrest-of-a-son-of-libyan-leader-muammar-gad.md)
 Switzerland&#39;s president apologized to the Libyan government Thursday for last year&#39;s arrest of a son of Libyan leader Moammar Gadhafi, clearing the way for a return to normal diplomatic ties. 

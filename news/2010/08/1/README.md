@@ -16,7 +16,7 @@ _Context: Allied Democratic Forces-National Army for the Liberation of Uganda, D
 _Context: India, Indian Armed Forces, Jammu and Kashmir_
 
 ### [Hawaii's Papahanaumokuakea Marine National Monument, the habitat of the endangered Hawaiian Monk seal and rare birds, and Sri Lanka's central highlands are added. ](/news/2010/08/1/hawaii-s-papahanaumokuakea-marine-national-monument-the-habitat-of-the-endangered-hawaiian-monk-seal-and-rare-birds-and-sri-lanka-s-cent.md)
-_Context: Hawaii, Monk seal, Papahānaumokuākea Marine National Monument, Sri Lanka, World Heritage List_
+_Context: Hawaii, Monk seal, Papahanaumokuakea Marine National Monument, Sri Lanka, World Heritage List_
 
 ### [Philippine Airlines tells 25 airline pilots to return to work after quitting without notice forcing the airline to cancel flights. ](/news/2010/08/1/philippine-airlines-tells-25-airline-pilots-to-return-to-work-after-quitting-without-notice-forcing-the-airline-to-cancel-flights.md)
 _Context: Philippine Airlines, airline pilot_
@@ -40,7 +40,7 @@ The number of people known to have been killed by floods in north-west Pakistan 
 A new global treaty banning cluster munitions enters into force, hailed by campaigners as the most important treaty in 10 years.
 
 ### [Colombia denies claims by Venezuela that it is planning a military attack, a day after Venezuelan president Hugo Chavez said he was sending troops to their mutual border. ](/news/2010/08/1/colombia-denies-claims-by-venezuela-that-it-is-planning-a-military-attack-a-day-after-venezuelan-president-hugo-cha-vez-said-he-was-sending.md)
-_Context: Colombia, Hugo Chávez, Venezuela_
+_Context: Colombia, Hugo Chavez, Venezuela_
 
 ### [The President of Israel Shimon Peres and the President of Egypt Hosni Mubarak agree that Israel and the Palestinian Authority should hold direct talks. ](/news/2010/08/1/the-president-of-israel-shimon-peres-and-the-president-of-egypt-hosni-mubarak-agree-that-israel-and-the-palestinian-authority-should-hold-di.md)
 Both men agree window of opportunity for peace agreement is open.

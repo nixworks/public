@@ -7,7 +7,7 @@ A suicide bomber killed 22 people and wounded 60 in a crowded election campaign 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [War in Afghanistan (2001-present):A bombing in Qalat, capital of the southern Zabul Province, kills three U.S. soldiers and two U.S. civilians, along with an Afghan doctor. An American civilian dies in another attack in the east of the country. ](/news/2013/04/6/war-in-afghanistan-2001apresent-pa-bombing-in-qalat-capital-of-the-southern-zabul-province-kills-three-u-s-soldiers-and-two-u-s-civi.md)
-_Context: Afghanistan, Qalat, U.S., War in Afghanistan (2001–present), Zabul province_
+_Context: Afghanistan, Qalat, U.S., War in Afghanistan (2001-present), Zabul province_
 
 ### [Northern Mali conflict:Tuareg separatists in Northern Mali mark the one year anniversary since the founding of the unilaterally declared Azawad. ](/news/2013/04/6/northern-mali-conflict-ptuareg-separatists-in-northern-mali-mark-the-one-year-anniversary-since-the-founding-of-the-unilaterally-declared-az.md)
 A Mali government spokesman says clashes between national soldiers and armed police have killed one soldier and injured a policeman.
@@ -37,7 +37,7 @@ Hundreds of thousands of marchers call for law that would include death penalty 
 Tammam Salam was officially named the new prime minister of Lebanon on Saturday after receiving a string of endorsements from the country’s warring factions over the past few days.
 
 ### [Pope Francis appoints Spain's Jose Rodriguez Carballo, O.F.M., as Secretary to the Congregation for Institutes of Consecrated Life and Societies of Apostolic Life, which oversees all Catholic religious orders,  his first nomination to the Vatican bureaucracy. ](/news/2013/04/6/pope-francis-appoints-spain-s-josa-c-rodraguez-carballo-o-f-m-as-secretary-to-the-congregation-for-institutes-of-consecrated-life-and-soc.md)
-_Context: Catholic faithful, Congregation for Institutes of Consecrated Life and Societies of Apostolic Life, José Rodríguez Carballo, O.F.M., Pope Francis, Spain, Vatican_
+_Context: Catholic faithful, Congregation for Institutes of Consecrated Life and Societies of Apostolic Life, Jose Rodriguez Carballo, O.F.M., Pope Francis, Spain, Vatican_
 
 ### [In the 2012-13 Fussball-Bundesliga, Bayern Munich wins their 23rd Bundesliga title with a record six games to spare. ](/news/2013/04/6/in-the-2012a13-fuaball-bundesliga-bayern-munich-wins-their-23rd-bundesliga-title-with-a-record-six-games-to-spare.md)
 Bayern Munich clinch the Bundesliga title with six games to spare after a win 1-0 at Eintracht Frankfurt.
@@ -52,7 +52,7 @@ The 66-1 chance Auroras Encore, ridden by Ryan Mania and trained by Sue Smith, w
 Get a recap of the Wichita State Shockers vs. Louisville Cardinals basketball game.
 
 ### [In synchronized skating, Team Unique of Finland wins the 2013 World Championships, with NEXXICE of Canada placing second and Haydenettes of the USA third. ](/news/2013/04/6/in-synchronized-skating-team-unique-of-finland-wins-the-2013-world-championships-with-nexxice-of-canada-placing-second-and-haydenettes-of.md)
-_Context: 2013, Canadian, Finland, Haydenettes, NEXXICE, Team Unique, USA, World Championships, synchronized skating_
+_Context: 2013, Canada, Finland, Haydenettes, NEXXICE, Team Unique, USA, World Championships, synchronized skating_
 
 ## [Previous Day...](/news/2013/04/5/index.md)
 

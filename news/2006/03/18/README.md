@@ -4,7 +4,7 @@
 _Context: Hamas, Mahmoud Abbas, Palestinian Authority, Palestinian Authority President, Popular Front for the Liberation of Palestine_
 
 ### [ 2006 labor protests in France: In Paris, and other major French cities, hundreds of thousands of people march in protest of the Contrat de premire embauche (First Employment Contract), a labor law set to take effect in April that gives employers the right to fire workers under the age of 26 in the first two years of their employment without justification.](/news/2006/03/18/2006-labor-protests-in-france-in-paris-and-other-major-french-cities-hundreds-of-thousands-of-people-march-in-protest-of-the-contrat-de.md)
-_Context: 2006 labor protests in France, Contrat de première embauche, Paris_
+_Context: 2006 labor protests in France, Contrat de premire embauche, Paris_
 
 ### [ US Navy warships engage pirates off the coast of Somalia, killing one, capturing 12, after the U.N. Security Council on March 15, encouraged any naval forces near Somalia to take action against suspected piracy. This occurred after an attack on a UN World Food Program-chartered ship bringing drought-relief food supplies on March 13. ](/news/2006/03/18/us-navy-warships-engage-pirates-off-the-coast-of-somalia-killing-one-capturing-12-after-the-u-n-security-council-on-march-15-encourage.md)
 _Context: Somalia, U.N. Security Council, U.S. Navy, World Food Program, anti-piracy_

@@ -4,7 +4,7 @@
 Turkey&#39;s prime minister has announced an end to the operation known as &quot;Euphrates Shield.&quot; The offensive was launched last summer as part of the fight against the so-called &quot;Islamic State.&quot;
 
 ### [A car bomb attack on a police checkpoint in Baghdad kills at least 15 people and injures 40 others. ](/news/2017/03/29/a-car-bomb-attack-on-a-police-checkpoint-in-baghdad-kills-at-least-15-people-and-injures-40-others.md)
-_Context: Baghdad, Iraqi Civil War (2014–present), car bomb_
+_Context: Baghdad, Iraqi Civil War (2014-present), car bomb_
 
 ### [The Swedish Academy announces that American singer-songwriter Bob Dylan has agreed to accept his Nobel Prize in Literature this weekend at a private location in Stockholm. ](/news/2017/03/29/the-swedish-academy-announces-that-american-singer-songwriter-bob-dylan-has-agreed-to-accept-his-nobel-prize-in-literature-this-weekend-at-a.md)
 The American singer, who snubbed a ceremony in December, says no media must be present.

@@ -7,7 +7,7 @@ _Context: Jidda, Karen Hughes, Saudi, Saudi Arabia, State Department_
 _Context: Australia's government, Australian police, State, anti-terrorism, sunset clause_
 
 ### [ Michalle Jean is sworn in as the 27th Governor General of Canada, replacing Adrienne Clarkson. ](/news/2005/09/27/michaelle-jean-is-sworn-in-as-the-27th-governor-general-of-canada-replacing-adrienne-clarkson.md)
-_Context: Adrienne Clarkson, Governor General, Michaëlle Jean_
+_Context: Adrienne Clarkson, Governor General, Michalle Jean_
 
 ### [ Two Japanese scientists snap more than 500 photos of a live giant squid and recover one of its two longest tentacles, which severed during a struggle. ](/news/2005/09/27/two-japanese-scientists-snap-more-than-500-photos-of-a-live-giant-squid-and-recover-one-of-its-two-longest-tentacles-which-severed-during.md)
 Japanese scientists say they&#39;ve taken the first photographs of one of the most mysterious creatures in the deep ocean &#8212; the giant squid.

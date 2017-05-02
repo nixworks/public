@@ -49,7 +49,7 @@ _Context: ABB Power, Missouri, St. Louis's, United States, shooting eight people
 _Context: Burma, North Korea, Russia_
 
 ### [Guinea's interim leader, General Sekouba Konate, proposes a unity government led by a Prime Minister from the opposition. ](/news/2010/01/7/guinea-s-interim-leader-general-sa-c-kouba-konata-c-proposes-a-unity-government-led-by-a-prime-minister-from-the-opposition.md)
-_Context: Guinea, Sékouba Konaté, unity_
+_Context: Guinea, Sekouba Konate, unity_
 
 ## [Previous Day...](/news/2010/01/6/index.md)
 

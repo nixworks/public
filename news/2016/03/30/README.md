@@ -4,7 +4,7 @@
 Several loud explosions followed by heavy gunfire were heard over Tripoli in the early hours of Wednesday, a Reuters reporter said.
 
 ### [At least seven Central Reserve Police Force (CRPF) personnel are killed in an IED attack on their vehicle in the Indian state of Chhattisgarh's Dantewada district. Naxalite insurgents are suspected to have been behind the attack. ](/news/2016/03/30/at-least-seven-central-reserve-police-force-crpf-personnel-are-killed-in-an-ied-attack-on-their-vehicle-in-the-indian-state-of-chhattisgar.md)
-_Context: Central Reserve Police Force, Chhattisgarh, Dantewada district, IED, India, Naxalite, Naxalite–Maoist insurgency_
+_Context: Central Reserve Police Force, Chhattisgarh, Dantewada district, IED, India, Naxalite, Naxalite-Maoist insurgency_
 
 ### [Taiwanese electronics company Foxconn agrees to buy 60% of the Japanese Sharp Corporation for 389 billion yen ($3.5 billion). ](/news/2016/03/30/taiwanese-electronics-company-foxconn-agrees-to-buy-60-of-the-japanese-sharp-corporation-for-389-billion-yen-3-5-billion.md)
 Foxconn Technology Group Chairman Terry Gou finally clinched a deal to buy Sharp Corp. after years of pursuit, bringing together the main assembler of Apple Inc.’s iPhones with the electronics maker that built Japan’s first television sets.

@@ -19,7 +19,7 @@ A plaque will be placed at the site of the torpedoed wartime hospital ship, the 
 _Context: China's, Germany, top export market_
 
 ### ['''Winter of 2009-2010 in Europe'''More than 160 people are trapped in vehicles overnight in Germany, dozens of flights are cancelled, Berlin and Leipzig are buried under 30cm of snow, parts of Schleswig-Holstein remain unreachable. The electricity of 80,000 people is cut off by snow in Poland. Eurostar services are affected in Belgium, Britain and France. ](/news/2010/01/10/winter-of-2009a2010-in-europe-pmore-than-160-people-are-trapped-in-vehicles-overnight-in-germany-dozens-of-flights-are-cancelled-be.md)
-_Context: Belgium, Berlin, Eurostar, France, Germany, Leipzig, Poland, Schleswig-Holstein, United Kingdom, Winter of 2009–2010 in Europe_
+_Context: Belgium, Berlin, Eurostar, France, Germany, Leipzig, Poland, Schleswig-Holstein, United Kingdom, Winter of 2009-2010 in Europe_
 
 ### [Sheikh Issa bin Zayed Al Nahyan, brother of the leader of the United Arab Emirates, Khalifa bin Zayed Al Nahyan, is acquitted of beating a former business partner in a videotaped attack. ](/news/2010/01/10/sheikh-issa-bin-zayed-al-nahyan-brother-of-the-leader-of-the-united-arab-emirates-khalifa-bin-zayed-al-nahyan-is-acquitted-of-beating-a-f.md)
 A brother of the president of the United Arab Emirates filmed beating up a former business partner and running him over in a Mercedes SUV has been acquitted of assaulting him.
@@ -31,7 +31,7 @@ _Context: Al-Muhajiroun, Home Office, Muslim, United Kingdom_
 A Sinn Féin spokesperson has said party President Gerry Adams has received a death threat from a loyalist paramilitary group called the Orange Volunteers.
 
 ### [Ivo Josipovic wins in the second round of the presidential election, and is elected third President of Croatia. ](/news/2010/01/10/ivo-josipovia-wins-in-the-second-round-of-the-presidential-election-and-is-elected-third-president-of-croatia.md)
-_Context: Croatian President, Ivo Josipović, presidential election_
+_Context: Croatian President, Ivo Josipovic, presidential election_
 
 ### [Ahead of the Iraqi parliamentary election, 2010, the De-Ba'athification Commission recommends banning the leaders of the Iraqi National Dialogue Front, the Coalition for Iraqi National Unity and 13 other parties for links to Saddam Hussein's banned Ba'ath Party. ](/news/2010/01/10/ahead-of-the-iraqi-parliamentary-election-2010-the-de-ba-athification-commission-recommends-banning-the-leaders-of-the-iraqi-national-dial.md)
 _Context: Ba'ath Party, Coalition for Iraqi National Unity, Iraqi National Dialogue Front, Saddam Hussein, elections_

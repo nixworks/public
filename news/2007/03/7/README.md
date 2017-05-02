@@ -13,7 +13,7 @@ _Context: George W. Bush, Jordan, assassinate, president_
 _Context: 2007, 2022, Chang'e 1, China's, Moon, space probe_
 
 ### [ President of Mauritius Anerood Jugnauth threatens to leave the Commonwealth of Nations over the British government's treatment of the lois of the Chagos Archipelago. ](/news/2007/03/7/president-of-mauritius-anerood-jugnauth-threatens-to-leave-the-commonwealth-of-nations-over-the-british-government-s-treatment-of-the-ilois.md)
-_Context: Anerood Jugnauth, Chagos Archipelago, Commonwealth of Nations, Government of the United Kingdom, Mauritius, President, Îlois_
+_Context: Anerood Jugnauth, Chagos Archipelago, Commonwealth of Nations, Government of the United Kingdom, Mauritius, President, lois_
 
 ### [ Foreign Minister of Iran Manouchehr Mottaki confirms that Iran will attend a conference on Iraq featuring Iraq's neighbours and the permanent members of the United Nations Security Council. ](/news/2007/03/7/foreign-minister-of-iran-manouchehr-mottaki-confirms-that-iran-will-attend-a-conference-on-iraq-featuring-iraq-s-neighbours-and-the-permane.md)
 _Context: Foreign Minister, Iraq, Manouchehr Mottaki, Middle East, United Nations Security Council_
@@ -40,7 +40,7 @@ _Context: Fiji, Human rights, State Department, coup in 2006_
 _Context: Ali Reza Askari, Iran, Istanbul_
 
 ### [ Turkey bans user generated content web site YouTube after insulting clips of Turkish founder Mustafa Kemal Atatrk are discovered. ](/news/2007/03/7/turkey-bans-user-generated-content-web-site-youtube-after-insulting-clips-of-turkish-founder-mustafa-kemal-ataturk-are-discovered.md)
-_Context: Mustafa Kemal Atatürk, Turkey, YouTube, founder, user generated content, video, web site_
+_Context: Mustafa Kemal Atatrk, Turkey, YouTube, founder, user generated content, video, web site_
 
 ## [Previous Day...](/news/2007/03/6/index.md)
 

@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [ So Tom and Prncipe signs a loan deal with former colonial power Portugal aimed at anchoring the dobra to the euro. ](/news/2009/07/29/sao-tome-and-principe-signs-a-loan-deal-with-former-colonial-power-portugal-aimed-at-anchoring-the-dobra-to-the-euro.md) _Context: São Tomé and Príncipe_
+1. [ So Tom and Prncipe signs a loan deal with former colonial power Portugal aimed at anchoring the dobra to the euro. ](/news/2009/07/29/sao-tome-and-principe-signs-a-loan-deal-with-former-colonial-power-portugal-aimed-at-anchoring-the-dobra-to-the-euro.md) _Context: So Tom and Prncipe_

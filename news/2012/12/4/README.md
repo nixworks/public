@@ -7,7 +7,7 @@ As shelling in the Damascus suburbs worsened, the United Nations warned that it 
 _Context: Belfast City Council, Belfast City Hall, Belfast City Hall flag protests, Northern Ireland, Union Flag_
 
 ### [In a setback to the movement toward banking union in the EU, Germany's finance minister Wolfgang Schauble says he will not allow a unitary system of supervision without changes in the underlying treaties. [http://www.ft.com/intl/cms/s/0/ae18eb32-3e03-11e2-93cb-00144feabdc0.html#axzz2E7D09ala (Financial Times)]. ](/news/2012/12/4/in-a-setback-to-the-movement-toward-banking-union-in-the-eu-germany-s-finance-minister-wolfgang-scha-uble-says-he-will-not-allow-a-unitary.md)
-_Context: European Union, Germany, Wolfgang Schäuble, finance minister_
+_Context: European Union, Germany, Wolfgang Schauble, finance minister_
 
 ### [Typhoon Bopha makes landfall on the Philippines island of Mindanao with reports of floods and landslides. Authorities confirm at least 81 deaths amid widespread property damage. ](/news/2012/12/4/typhoon-bopha-makes-landfall-on-the-philippines-island-of-mindanao-with-reports-of-floods-and-landslides-authorities-confirm-at-least-81-de.md)
 Typhoon Bopha has killed at least 52 people in the Philippines.
@@ -31,7 +31,7 @@ Tokyo police are also inspecting the tunnel where hundreds of falling concrete c
 All Commonwealth realms agree to a bill to change royal succession rules which discriminated against women, as a pregnant Duchess of Cambridge remains in hospital with severe morning sickness.
 
 ### [The United States Senate fails to ratify the United Nations Convention on the Rights of Persons with Disabilities, with the motion failing to win the two-thirds majority. ](/news/2012/12/4/the-united-states-senate-fails-to-ratify-the-united-nations-convention-on-the-rights-of-persons-with-disabilities-with-the-motion-failing-t.md)
-_Context: Convention on the Rights of Persons with Disabilities, Senator, United Nations_
+_Context: Convention on the Rights of Persons with Disabilities, United Nations, United States Senate_
 
 ### [One hundred thousand people protest outside the President of Egypt's palace over proposed constitutional changes. ](/news/2012/12/4/one-hundred-thousand-people-protest-outside-the-president-of-egypt-s-palace-over-proposed-constitutional-changes.md)
 _Context: Draft constitution, Egyptian President_

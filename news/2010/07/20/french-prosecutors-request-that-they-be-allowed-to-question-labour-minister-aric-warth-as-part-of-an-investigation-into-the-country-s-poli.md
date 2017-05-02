@@ -12,4 +12,4 @@
 
 ### Related:
 
-1. [French Labour Minister Eric Woerth resigns as UMP party treasurer at the request of President Nicolas Sarkozy to focus on pension reform. ](/news/2010/07/13/french-labour-minister-aric-warth-resigns-as-ump-party-treasurer-at-the-request-of-president-nicolas-sarkozy-to-focus-on-pension-reform.md) _Context: Éric Wœrth_
+1. [French Labour Minister Eric Woerth resigns as UMP party treasurer at the request of President Nicolas Sarkozy to focus on pension reform. ](/news/2010/07/13/french-labour-minister-aric-warth-resigns-as-ump-party-treasurer-at-the-request-of-president-nicolas-sarkozy-to-focus-on-pension-reform.md) _Context: Eric Woerth_

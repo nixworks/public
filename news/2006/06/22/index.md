@@ -4,7 +4,7 @@
 _Context: Greek Goddess, Hydra, International Astronomical Union, Nix, Nyx, Pluto, multi-headed monster, mythical_
 
 ### [ East Timor President Xanana Gusmo threatens to resign over the social unrest in his country. ](/news/2006/06/22/east-timor-president-xanana-gusmao-threatens-to-resign-over-the-social-unrest-in-his-country.md)
-_Context: East Timor, President, Xanana Gusmão, troubled nation_
+_Context: East Timor, President, Xanana Gusmo, troubled nation_
 
 ### [ The U.S. Federal Bureau of Investigation raids terror suspects in Miami, Florida, with seven arrests made. The detainees are charged with terrorism conspiracy, in connection of being in the early stages of planning attacks against Chicago's Sears Tower and possibly FBI and government buildings in the Miami area. ](/news/2006/06/22/the-u-s-federal-bureau-of-investigation-raids-terror-suspects-in-miami-florida-with-seven-arrests-made-the-detainees-are-charged-with-t.md)
 FBI agents made seven arrests and raided a warehouse in Miami in a terrorism investigation. Officials say there was no imminent danger, but the suspects had allegedly been plotting to wage jihad by attacking Sears tower and government buildings in Miami.

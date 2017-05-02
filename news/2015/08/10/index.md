@@ -7,7 +7,7 @@ Two assailants opened fire on the United States consulate building in Istanbul o
 A Taliban suicide bomber attacks a checkpoint near the entrance to the international airport in the Afghan capital Kabul, killing five people.
 
 ### [A stabbing at an Ikea store in Vasteras, Sweden reslults in two people killed, and a third person seriously injured. ](/news/2015/08/10/a-stabbing-at-an-ikea-store-in-va-steray-s-sweden-reslults-in-two-people-killed-and-a-third-person-seriously-injured.md)
-_Context: IKEA, Västerås, Sweden_
+_Context: IKEA, Vasteras, Sweden_
 
 ### [ISIL claims responsibility for a bombing in central Iraqi city of Baquba that killed at least 30 people and injured 40 more. ](/news/2015/08/10/isil-claims-responsibility-for-a-bombing-in-central-iraqi-city-of-baquba-that-killed-at-least-30-people-and-injured-40-more.md)
 _Context: Baquba, Iraq, Islamic State in Iraq and the Levant_

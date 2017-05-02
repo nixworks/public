@@ -1,7 +1,7 @@
 ## [2008-06-13](/news/2008/06/13/index.md)
 
 ### [ The Chamber of Deputies of Haiti rejects Robert Manuel, who was the second nominee for the post of prime minister after Jacques-Edouard Alexis resigned in April 2008. ](/news/2008/06/13/the-chamber-of-deputies-of-haiti-rejects-robert-manuel-who-was-the-second-nominee-for-the-post-of-prime-minister-after-jacques-adouard-al.md)
-_Context: Chamber of Deputies, Jacques-Édouard Alexis, Prime Minister, Robert Manuel_
+_Context: Chamber of Deputies, Jacques-Edouard Alexis, Prime Minister, Robert Manuel_
 
 ### [ A Taliban attack on a prison in Kandahar, Afghanistan allows almost all of the 1150 inmates to escape, including 390 Taliban inmates. ](/news/2008/06/13/a-taliban-attack-on-a-prison-in-kandahar-afghanistan-allows-almost-all-of-the-1150-inmates-to-escape-including-390-taliban-inmates.md)
 Nearly all of anestimated 1,150 prisoners, including some 400 Taliban inmates,have fled a prison in Kandahar on Friday after Talibaninsurgents blew open the main gate, two officials said.

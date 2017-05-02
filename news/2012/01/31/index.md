@@ -25,7 +25,7 @@ Italian divers have abandoned their search for bodies inside the wrecked cruise 
 _Context: Alaska Volcano Observatory, Cleveland Volcano, lava dome_
 
 ### [2011-2012 Syrian uprising: The Arab League calls on the United Nations Security Council to back its proposal for the President of Syria Bashar al-Assad to hand over power to his deputy and prepare for elections. ](/news/2012/01/31/2011a2012-syrian-uprising-the-arab-league-calls-on-the-united-nations-security-council-to-back-its-proposal-for-the-president-of-syria-ba.md)
-_Context: 2011–2012 Syrian uprising, Arab League, Bashar al-Assad, President, Syria, United Nations Security Council_
+_Context: 2011-2012 Syrian uprising, Arab League, Bashar al-Assad, President, Syria, United Nations Security Council_
 
 ### [The International Atomic Energy Agency gives its approval to nuclear reactor safety checks made by Japan. ](/news/2012/01/31/the-international-atomic-energy-agency-gives-its-approval-to-nuclear-reactor-safety-checks-made-by-japan.md)
 The UN watchdog says it is satisfied with series of safety tests carried out by Japan in wake of Fukushima meltdown.
@@ -43,7 +43,7 @@ _Context: Fukushima Daiichi nuclear disaster, Japan, a bill, nuclear reactor_
 Prime minister says there is &quot;still time&quot; until general elections; Netanyahu leads over Feiglin by large margin.
 
 ### [Democratic Party candidate Suzanne Bonamici wins a special election to represent the 1st congressional district of Oregon in the United States House of Representatives. ](/news/2012/01/31/democratic-party-candidate-suzanne-bonamici-wins-a-special-election-to-represent-the-1st-congressional-district-of-oregon-in-the-united-stat.md)
-_Context: 1st congressional district, Democrat, Oregon, Suzanne Bonamici, U.S. House, special election_
+_Context: 1st congressional district, Democratic, Oregon, Suzanne Bonamici, U.S. House, special election_
 
 ## [Previous Day...](/news/2012/01/30/index.md)
 

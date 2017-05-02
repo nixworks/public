@@ -1,7 +1,7 @@
 ## [2010-02-25](/news/2010/02/25/index.md)
 
 ### [President Hugo Chavez vows to withdraw Venezuela from the Inter-American Commission on Human Rights following its publication of a highly critical report on human rights in the country. ](/news/2010/02/25/president-hugo-cha-vez-vows-to-withdraw-venezuela-from-the-inter-american-commission-on-human-rights-following-its-publication-of-a-highly-c.md)
-_Context: Hugo Chávez, Human rights in Venezuela, Inter-American Commission on Human Rights, President, Venezuela_
+_Context: Hugo Chavez, Human rights in Venezuela, Inter-American Commission on Human Rights, President, Venezuela_
 
 ### [Libyan leader Muammar al-Gaddafi calls for jihad against Switzerland after a referendum last year supported a ban on minarets and other rows between the two nations. ](/news/2010/02/25/libyan-leader-muammar-al-gaddafi-calls-for-jihad-against-switzerland-after-a-referendum-last-year-supported-a-ban-on-minarets-and-other-rows.md)
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
@@ -22,7 +22,7 @@ _Context: Australia, Dubai, Hamas, Israel, Mahmoud al-Mabhouh_
 Minister for Foreign Affairs Miche&aacute;l Martin today pleaded with Israel to end the blockade of Gaza and vowed Ireland would continue&hellip;
 
 ### [Brazilian President Luiz Inacio Lula da Silva tours Haiti to monitor the destruction caused by the recent earthquake and meets President Rene Preval. ](/news/2010/02/25/brazilian-president-luiz-ina-cio-lula-da-silva-tours-haiti-to-monitor-the-destruction-caused-by-the-recent-earthquake-and-meets-president-re.md)
-_Context: 2010 Haiti earthquake, Brazil, Brazilian President, Haiti, Luiz Inácio Lula da Silva, President of Haiti, René Préval_
+_Context: 2010 Haiti earthquake, Brazil, Brazilian President, Haiti, Luiz Inacio Lula da Silva, President of Haiti, Rene Preval_
 
 ### [Viktor Yanukovych is sworn in as the as 4th President of Ukraine. ](/news/2010/02/25/viktor-yanukovych-is-sworn-in-as-the-as-4th-president-of-ukraine.md)
 _Context: Ukrainian, Ukrainian President, Viktor Yanukovych_
@@ -31,7 +31,7 @@ _Context: Ukrainian, Ukrainian President, Viktor Yanukovych_
 _Context: Bangladesh, Gazipur_
 
 ### [The chief of Algeria's national police, Ali Tounsi, is fatally shot in his office in a retaliatory murder-suicide. ](/news/2010/02/25/the-chief-of-algeria-s-national-police-ali-tounsi-is-fatally-shot-in-his-office-in-a-retaliatory-murderasuicide.md)
-_Context: Algeria, Ali Tounsi, murder–suicide_
+_Context: Algeria, Ali Tounsi, murder-suicide_
 
 ### [The International Criminal Tribunal for Rwanda (ICTR) jails Lieut-Col Eprem Setako, the Ministry of Defence's former head of legal affairs, for 25 years after finding him guilty of genocide and crimes against humanity. ](/news/2010/02/25/the-international-criminal-tribunal-for-rwanda-ictr-jails-lieut-col-eprem-setako-the-ministry-of-defence-s-former-head-of-legal-affairs.md)
 _Context: Eprem Setako, International Criminal Tribunal for Rwanda, crimes against humanity, genocide_

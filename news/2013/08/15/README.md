@@ -10,7 +10,7 @@ At least 22 people killed and buildings and cars set ablaze by explosion near fa
 Hundreds of Palestinians stranded by latest closure of Rafah terminal
 
 ### [King Carl XVI Gustaf of Sweden and his wife, Queen Silvia of Sweden, are criticised after they received and wore, on their trip to Harnosand, Palestinian keffiyehs with a message in Arabic language purportedly meaning "Our Aqsa and not their temple". ](/news/2013/08/15/king-carl-xvi-gustaf-of-sweden-and-his-wife-queen-silvia-of-sweden-are-criticised-after-they-received-and-wore-on-their-trip-to-ha-rnapsa.md)
-_Context: Al-Aqsa Mosque, Carl XVI Gustaf, Härnösand, Queen Silvia of Sweden, keffiyeh, temple_
+_Context: Al-Aqsa Mosque, Carl XVI Gustaf, Harnosand, Queen Silvia of Sweden, keffiyeh, temple_
 
 ### [Aleksandar Cvetkovic is extradited to Bosnia-Herzegovina for trial regarding the 1995 Srebrenica massacre. ](/news/2013/08/15/aleksandar-cvetkovia-is-extradited-to-bosnia-herzegovina-for-trial-regarding-the-1995-srebrenica-massacre.md)
 Defendant &quot;stunned by charges&quot;; fellow soldiers testify Serb-Israeli participated in slaughter of 1,000-1,200 Muslims.

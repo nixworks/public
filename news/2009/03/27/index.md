@@ -25,7 +25,7 @@ _Context: Benedict XVI, Pope, The Lancet, argument against the use, condom, scie
 _Context: 4th quarter of 2007 and the second quarter of 2009, UK economy, United Kingdom, fiscal year_
 
 ### [ Corsican nationalist Yvan Colonna is imprisoned for life for murdering Corse-du-Sud Prefect Claude Erignac in 1998. ](/news/2009/03/27/corsican-nationalist-yvan-colonna-is-imprisoned-for-life-for-murdering-corse-du-sud-prefect-claude-arignac-in-1998.md)
-_Context: Claude Érignac, Corse-du-Sud, Corsica, Yvan Colonna, life imprisonment, murder, nationalist, prefect_
+_Context: Claude Erignac, Corse-du-Sud, Corsica, Yvan Colonna, life imprisonment, murder, nationalist, prefect_
 
 ## [Previous Day...](/news/2009/03/26/index.md)
 

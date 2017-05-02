@@ -10,7 +10,7 @@ At least 17 insurgents and two Afghan security force members are killed as the T
 Nearly 400 prisoners including militants escaped early Sunday from a jail in northwestern Pakistan after an attack by insurgents armed with guns, grenades and rockets, officials said.
 
 ### [2012 South Sudan-Sudan border conflict:Sudanese warplanes bomb the border town of Heglig, seized by South Sudan last week. ](/news/2012/04/15/2012-south-sudanasudan-border-conflict-psudanese-warplanes-bomb-the-border-town-of-heglig-seized-by-south-sudan-last-week.md)
-_Context: 2012 South Sudan–Sudan border conflict, Heglig, South Sudan, Sudan_
+_Context: 2012 South Sudan-Sudan border conflict, Heglig, South Sudan, Sudan_
 
 ### [Events and ceremonies are held around the world marking the 100th anniversary of the sinking of the RMS ''Titanic''. ](/news/2012/04/15/events-and-ceremonies-are-held-around-the-world-marking-the-100th-anniversary-of-the-sinking-of-the-rms-titanic.md)
 _Context: sinking of the RMS ''Titanic''_

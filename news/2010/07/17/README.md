@@ -73,7 +73,7 @@ _Context: Facebook, Germany, Ilse Aigner_
 Police in northern Bangladesh arrest an army major for allegedly carrying hundreds of bottles of an illegal cough syrup.
 
 ### [Hugo Chavez exhumes the corpse of Simon Bolivar to investigate suspicions of foul play being involved in his death. ](/news/2010/07/17/hugo-cha-vez-exhumes-the-corpse-of-sima3n-bolavar-to-investigate-suspicions-of-foul-play-being-involved-in-his-death.md)
-_Context: Hugo Chávez, Simón Bolívar_
+_Context: Hugo Chavez, Simon Bolivar_
 
 ### [The Prime Minister of Papua New Guinea Michael Somare will reportedly be asked to resign as both prime minister and leader of the National Alliance Party on Monday. (''PNG Post-Courier'')](/news/2010/07/17/the-prime-minister-of-papua-new-guinea-michael-somare-will-reportedly-be-asked-to-resign-as-both-prime-minister-and-leader-of-the-national-a.md)
 _Context: Michael Somare, National Alliance Party, Prime Minister_

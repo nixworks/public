@@ -19,9 +19,9 @@ _Context: Mississippi, United States Supreme Court, cruel and unusual punishment
 President Bush on Tuesday named a retired Army lieutenant general and executive of a firm that earns most of its revenue from federal veterans programs to head the troubled Department of Veterans...
 
 ### [ The United States Congress votes to extend a ban on Internet taxes for another seven years. ](/news/2007/10/30/the-united-states-congress-votes-to-extend-a-ban-on-internet-taxes-for-another-seven-years.md)
-_Context: Internet taxes, U.S. Congress_
+_Context: Internet taxes, U.S. Congressional_
 
-### [ Six people are killed and 11 injured in a suicide bomb attack near Pakistan Army headquarters in Rawalpindi.{{Fact|date=December 2007}} ](/news/2007/10/30/six-people-are-killed-and-11-injured-in-a-suicide-bomb-attack-near-pakistan-army-headquarters-in-rawalpindi-fact-date-december-2007.md)
+### [ Six people are killed and 11 injured in a suicide bomb attack near Pakistan Army headquarters in Rawalpindi.date=December 2007 ](/news/2007/10/30/six-people-are-killed-and-11-injured-in-a-suicide-bomb-attack-near-pakistan-army-headquarters-in-rawalpindi-date-december-2007.md)
 _Context: Pakistan Army, Rawalpindi, attack, headquarters, suicide bomb_
 
 ### [ US light crude oil hits an all-time high of $US 93.53 ](/news/2007/10/30/us-light-crude-oil-hits-an-all-time-high-of-us-93-53.md)

@@ -19,7 +19,7 @@ _Context: 2014 pro-democracy street protests, Government of Hong Kong, Hong Kong
 North Korean leader Kim Jong-un misses a key political ceremony, increasing speculation over his longest absence from public view.
 
 ### [Violeta Bulc is nominated as Slovenia's new candidate for EU commissioner after the former prime minister Alenka Bratusek was rejected by the European Parliament. ](/news/2014/10/10/violeta-bulc-is-nominated-as-slovenia-s-new-candidate-for-eu-commissioner-after-the-former-prime-minister-alenka-bratua-ek-was-rejected-by-t.md)
-_Context: Alenka Bratušek, European Parliament, Slovenia, Violeta Bulc_
+_Context: Alenka Bratusek, European Parliament, Slovenia, Violeta Bulc_
 
 ## [Previous Day...](/news/2014/10/9/index.md)
 

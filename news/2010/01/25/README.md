@@ -4,7 +4,7 @@
 _Context: Live Nation, Ticketmaster, U.S. Justice Department_
 
 ### [Police in the Venezuelan capital Caracas disperse an opposition student protest over the closure of several television stations. Meanwhile, Vice President Ramn Carrizales resigns. ](/news/2010/01/25/police-in-the-venezuelan-capital-caracas-disperse-an-opposition-student-protest-over-the-closure-of-several-television-stations-meanwhile.md)
-_Context: Caracas, Ramón Carrizales, Venezuela_
+_Context: Caracas, Ramn Carrizales, Venezuela_
 
 ### [Houthi fighters in northern Yemen offer to leave Saudi Arabia after three months of fighting on the border. ](/news/2010/01/25/houthi-fighters-in-northern-yemen-offer-to-leave-saudi-arabia-after-three-months-of-fighting-on-the-border.md)
 Houthi fighters offer a ceasefire after three months of fighting along the border.

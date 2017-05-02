@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ Sbastien Loeb of Citron becomes the first World Rally Championship driver to become World Champion for the fifth consecutive time. ](/news/2008/11/2/sebastien-loeb-of-citroen-becomes-the-first-world-rally-championship-driver-to-become-world-champion-for-the-fifth-consecutive-time.md) _Context: Sébastien Loeb, WRC_
+1. [ Sbastien Loeb of Citron becomes the first World Rally Championship driver to become World Champion for the fifth consecutive time. ](/news/2008/11/2/sebastien-loeb-of-citroen-becomes-the-first-world-rally-championship-driver-to-become-world-champion-for-the-fifth-consecutive-time.md) _Context: Sbastien Loeb, WRC_
 2. [France's Sebastien Ogier at the wheel of his Volkswagen Polo R WRC wins the 2013 Rally de Portugal, the fourth stage of the 2013 WRC season. ](/news/2013/04/14/france-s-sa-c-bastien-ogier-at-the-wheel-of-his-volkswagen-polo-r-wrc-wins-the-2013-rally-de-portugal-the-fourth-stage-of-the-2013-wrc-season.md) _Context: WRC_
 3. [France's Sebastien Ogier at the wheel of his Volkswagen Polo R WRC wins 2013 Rally Mexico, the third stage of the 2013 WRC season. ](/news/2013/03/10/france-s-sa-c-bastien-ogier-at-the-wheel-of-his-volkswagen-polo-r-wrc-wins-2013-rally-ma-c-xico-the-third-stage-of-the-2013-wrc-season.md) _Context: WRC_
 4. [Norwegian rally driver Petter Solberg, 2003 World Champion, announces his retirement from World Rally Championship. ](/news/2012/12/4/norwegian-rally-driver-petter-solberg-2003-world-champion-announces-his-retirement-from-world-rally-championship.md) _Context: WRC_

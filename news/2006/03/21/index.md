@@ -10,7 +10,7 @@ _Context: Chad, Chadian military, Chadian rebels, Idriss Deby_
 _Context: Honours (Prevention of Abuses) Act 1925, Labour, Metropolitan Police, current political crisis_
 
 ### [ Irish Taoiseach Bertie Ahern has said in the Dil that he believes the British security forces colluded with loyalist paramilitaries in the planning of Belfast solicitor Pat Finucane's murder in 1989. ](/news/2006/03/21/irish-taoiseach-bertie-ahern-has-said-in-the-dail-that-he-believes-the-british-security-forces-colluded-with-loyalist-paramilitaries-in-the.md)
-_Context: Belfast, Bertie Ahern, Dáil, Pat Finucane, Taoiseach, loyalist paramilitaries_
+_Context: Belfast, Bertie Ahern, Dil, Pat Finucane, Taoiseach, loyalist paramilitaries_
 
 ### [ In a major Sino-Russian energy deal, it is announced that Gazprom intends to build two large natural gas pipelines directly to China within the next five years. ](/news/2006/03/21/in-a-major-sino-russian-energy-deal-it-is-announced-that-gazprom-intends-to-build-two-large-natural-gas-pipelines-directly-to-china-within.md)
 _Context: Gazprom, natural gas, pipeline_

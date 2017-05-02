@@ -7,7 +7,7 @@ _Context: Italian, Sicily, new flag_
 _Context: Air Canada, Canadian Airlines_
 
 ### [In sta, mot, Norway, two diesel passenger trains collide, killing 19, while 67 survives. The fire after the collision lasts nearly six hours.](/news/2000/01/4/in-asta-amot-norway-two-diesel-passenger-trains-collide-killing-19-while-67-survives-the-fire-after-the-collision-lasts-nearly-six-hou.md)
-_Context: Norway, Åmot, Åsta, Åsta accident_
+_Context: Norway, mot, sta, sta accident_
 
 ## [Previous Day...](/news/2000/01/3/index.md)
 

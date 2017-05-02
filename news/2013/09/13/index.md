@@ -13,10 +13,10 @@ _Context: Baghdad, Sunni_
 Thirty-seven people have died in a fire at a psychiatric hospital in Russia’s Novgorod Region, according to the country’s Investigative Committee. Rescuers are working at the scene to recover the dead bodies.
 
 ### [Nine people are confirmed dead following massive floods in the past 24 hours in Galati County, Romania. ](/news/2013/09/13/nine-people-are-confirmed-dead-following-massive-floods-in-the-past-24-hours-in-galaei-county-romania.md)
-_Context: Galați County, Romania_
+_Context: Galati County, Romania_
 
 ### [At least four people are dead, 80 unaccounted for and thousands have been evacuated following heavy floods in Boulder County in the US state of Colorado. ](/news/2013/09/13/at-least-four-people-are-dead-80-unaccounted-for-and-thousands-have-been-evacuated-following-heavy-floods-in-boulder-county-in-the-us-state.md)
-_Context: Boulder County, Colorado, Floods in the United States: 2001–present_
+_Context: Boulder County, Colorado, Floods in the United States: 2001-present_
 
 ### [A World War II shell explodes in the Finnish town of Kemi in Lapland, killing one person and causing the evacuation of hundreds of residents. ](/news/2013/09/13/a-world-war-ii-shell-explodes-in-the-finnish-town-of-kemi-in-lapland-killing-one-person-and-causing-the-evacuation-of-hundreds-of-residents.md)
 HELSINKI (Reuters) - One of several wartime artillery shells kept in a Finnish suburban garage blew up on Friday evening, killing one man and causing the evacuation of hundreds of residents, police said. They said around 50 houses in the Karihaara suburb of Kemi in northern Finland had been evacuated

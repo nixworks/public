@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [All tourism activities at Hoang Lien National Park and to the Fansipan mountain in Vietnam's Lao Cai Province have been suspended until the end of March to reduce the risk of forest fires caused by cold weather and a lack of rain. ](/news/2014/01/28/all-tourism-activities-at-hoa-ng-liaan-national-park-and-to-the-fansipan-mountain-in-vietnam-s-la-o-cai-province-have-been-suspended-until-t.md) _Context: Hoàng Liên National Park, Lào Cai_
+1. [All tourism activities at Hoang Lien National Park and to the Fansipan mountain in Vietnam's Lao Cai Province have been suspended until the end of March to reduce the risk of forest fires caused by cold weather and a lack of rain. ](/news/2014/01/28/all-tourism-activities-at-hoa-ng-liaan-national-park-and-to-the-fansipan-mountain-in-vietnam-s-la-o-cai-province-have-been-suspended-until-t.md) _Context: Hoang Lien National Park, Lao Cai_

@@ -13,7 +13,7 @@ _Context: 2008, Republican, Wyoming_
 The International Committee of the Red Cross released the figures ahead of the International Day of the Disappeared on Thursday.
 
 ### [ Moqtada al-Sadr suspends the activities of his Mehdi Army militia in Iraq for six months. ](/news/2007/08/29/moqtada-al-sadr-suspends-the-activities-of-his-mehdi-army-militia-in-iraq-for-six-months.md)
-_Context: Iraq, Mehdi Army, Muqtadā al-Ṣadr, militia_
+_Context: Iraq, Mehdi Army, Muqtada al-Sadr, militia_
 
 ### [ Senator Tim Johnson announces that he will return to the United States Senate on September 5 after recovering from brain surgery since last December. ](/news/2007/08/29/senator-tim-johnson-announces-that-he-will-return-to-the-united-states-senate-on-september-5-after-recovering-from-brain-surgery-since-last.md)
 Sen. Tim Johnson, a Democrat who has been recovering from brain surgery since December, plans to return to his Senate office on September 5, his office said on Wednesday.
@@ -34,7 +34,7 @@ A Darfur rebel group says it has seized control of a Sudanese army base in Kordo
 An internal investigation has found no evidence of heavy drinking or drunkenness among astronauts before space missions, NASA officials said.
 
 ### [ The United States Senate Republican Party leadership requests that Senator Larry Craig of Idaho stand aside from his Senate committees until the United States Senate Select Committee on Ethics makes a ruling on his situation. Senator Craig agrees. ](/news/2007/08/29/the-united-states-senate-republican-party-leadership-requests-that-senator-larry-craig-of-idaho-stand-aside-from-his-senate-committees-unti.md)
-_Context: Idaho, Larry Craig, Republican, Senate Select Committee on Ethics, Senate committees, Senator_
+_Context: Idaho, Larry Craig, Republican, Senate Select Committee on Ethics, Senate committees, United States Senate_
 
 ### [ John Holmes, the United Nations' emergency relief coordinator, warns that refugees of the Darfur conflict are arming themselves and may soon be able to defend themselves if the Sudanese government renews its attacks.  ](/news/2007/08/29/john-holmes-the-united-nations-emergency-relief-coordinator-warns-that-refugees-of-the-darfur-conflict-are-arming-themselves-and-may-soo.md)
 _Context: Darfur conflict, John Holmes, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, United Nations_

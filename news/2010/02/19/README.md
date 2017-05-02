@@ -10,7 +10,7 @@ _Context: Tiger Woods, extramarital affairs_
 _Context: International Atomic Energy Agency, Iran, nuclear scientist_
 
 ### [Anti-government protestors are killed by police fire in Gagnoa, Cote d'Ivoire. ](/news/2010/02/19/anti-government-protestors-are-killed-by-police-fire-in-gagnoa-ca-te-d-ivoire.md)
-_Context: Côte d'Ivoire, Gagnoa_
+_Context: Cote d'Ivoire, Gagnoa_
 
 ### [Element 112 is officially named ''Copernicium'' and assigned the symbol ''Cn'' on the 537th anniversary of the birthday of Nicolaus Copernicus. ](/news/2010/02/19/element-112-is-officially-named-copernicium-and-assigned-the-symbol-cn-on-the-537th-anniversary-of-the-birthday-of-nicolaus-copernic.md)
 _Context: Copernicium, Nicolaus Copernicus_

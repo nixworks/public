@@ -10,7 +10,7 @@ _Context: Charles Ingram, Who Wants to Be a Millionaire?_
 _Context: Donald Rumsfeld, The Pentagon_
 
 ### [ Norwegian parliamentary election, 2001: Votes in Norway go to the polls for the parliamentary election with Thorbjrn Jagland scoring a victory.](/news/2001/09/10/norwegian-parliamentary-election-2001-votes-in-norway-go-to-the-polls-for-the-parliamentary-election-with-thorbjorn-jagland-scoring-a-vic.md)
-_Context: Norway, Norwegian parliamentary election, 2001, Thorbjørn Jagland_
+_Context: Norway, Norwegian parliamentary election, 2001, Thorbjrn Jagland_
 
 ## [Previous Day...](/news/2001/09/9/index.md)
 

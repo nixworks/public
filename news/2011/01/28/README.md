@@ -13,7 +13,7 @@ Key ministers from the heavily criticised former government replaced while inter
 _Context: Albania, Socialist Party_
 
 ### [Police fire tear gas at anti-government protesters in Gabon two days after opposition leader Andre Mba Obame declares himself president. ](/news/2011/01/28/police-fire-tear-gas-at-anti-government-protesters-in-gabon-two-days-after-opposition-leader-andra-c-mba-obame-declares-himself-president.md)
-_Context: André Mba Obame, Gabon, Independent, tear gas_
+_Context: Andre Mba Obame, Gabon, Independent, tear gas_
 
 ### [At least four people, including Modu Fannami Gubio, a former opposition All Nigeria Peoples Party (ANPP) candidate for governor in Borno, Nigeria, are shot dead in Maiduguri. ](/news/2011/01/28/at-least-four-people-including-modu-fannami-gubio-a-former-opposition-all-nigeria-peoples-party-anpp-candidate-for-governor-in-borno-ni.md)
 _Context: All Nigeria Peoples Party, Borno State, Maiduguri, Modu Fannami Gubio, Nigeria_

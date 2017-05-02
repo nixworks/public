@@ -12,5 +12,5 @@
 
 ### Related:
 
-1. [Evacuation orders are issued for the Australian towns of Griffith and Forbes due to floods moving west through the Murray-Darling basin. ](/news/2012/03/8/evacuation-orders-are-issued-for-the-australian-towns-of-griffith-and-forbes-due-to-floods-moving-west-through-the-murrayadarling-basin.md) _Context: Murray–Darling basin_
-2. [The Australian town of Yenda, New South Wales, is flooded as floodwaters move through the Murray-Darling Basin. ](/news/2012/03/7/the-australian-town-of-yenda-new-south-wales-is-flooded-as-floodwaters-move-through-the-murrayadarling-basin.md) _Context: Murray–Darling basin_
+1. [Evacuation orders are issued for the Australian towns of Griffith and Forbes due to floods moving west through the Murray-Darling basin. ](/news/2012/03/8/evacuation-orders-are-issued-for-the-australian-towns-of-griffith-and-forbes-due-to-floods-moving-west-through-the-murrayadarling-basin.md) _Context: Murray-Darling basin_
+2. [The Australian town of Yenda, New South Wales, is flooded as floodwaters move through the Murray-Darling Basin. ](/news/2012/03/7/the-australian-town-of-yenda-new-south-wales-is-flooded-as-floodwaters-move-through-the-murrayadarling-basin.md) _Context: Murray-Darling basin_

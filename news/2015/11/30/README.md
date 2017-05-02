@@ -16,7 +16,7 @@ _Context: Jizan Region, Saudi Arabia, Saudi-led coalition, Yemen, border guards_
 Tribune Publishing — owner of the Chicago Tribune, Los Angeles Times and other daily papers — denies Rupert Murdoch-fueled rumor that a sale is imminent.
 
 ### [Canadian BlackBerry Limited announces plans to shut down operations in Pakistan at year's end because it cannot comply with the Pakistani government's monitoring orders which  would result in a massive invasion of user privacy. ](/news/2015/11/30/canadian-blackberry-limited-announces-plans-to-shut-down-operations-in-pakistan-at-year-s-end-because-it-cannot-comply-with-the-pakistani-go.md)
-_Context: BlackBerry Limited, Canadian, Pakistan, government, user privacy_
+_Context: BlackBerry Limited, Canada, Pakistan, government, user privacy_
 
 ### [The International Monetary Fund modifies its benchmark currency basket to include the yuan of the People's Republic of China. The basket also includes the U.S. dollar, the euro, the pound sterling, and the Japanese yen. ](/news/2015/11/30/the-international-monetary-fund-modifies-its-benchmark-currency-basket-to-include-the-yuan-of-the-people-s-republic-of-china-the-basket-als.md)
 _Context: China's, International Monetary Fund, benchmark currency basket, yuan_
@@ -64,7 +64,7 @@ _Context: Baltimore, Maryland, death of Freddie Gray, manslaughter_
 Venezuela will suspend the sale of alcoholic beverages, fireworks and weapons in anticipation of the upcoming parliamentary elections.
 
 ### [Former prime minister Roch Marc Kabore appears on course for a commanding victory in Burkina Faso's election, one large enough to eliminate the need for a run-off. According to the Independent National Electoral Commission, with results from about 72 percent of the country counted, Kabore has 54 percent of the vote with his closest challenger, former finance minister Zephirin Diabre, getting 29 percent. ](/news/2015/11/30/former-prime-minister-roch-marc-kabora-c-appears-on-course-for-a-commanding-victory-in-burkina-faso-s-election-one-large-enough-to-eliminate.md)
-_Context: Burkina Faso, Burkinabé general election, 2015, Roch Marc Kaboré, Zéphirin Diabré, prime minister_
+_Context: Burkina Faso, Burkinabe general election, 2015, Roch Marc Kabore, Zephirin Diabre, prime minister_
 
 ### [For the first time in the country's history, Saudi Arabian women are allowed to vote and to stand for office in the December 12, 2015, elections. Candidacy filings opened yesterday. In two days, more than 900 women have signed up to run for various local government positions in the Arab nation. ](/news/2015/11/30/for-the-first-time-in-the-country-s-history-saudi-arabian-women-are-allowed-to-vote-and-to-stand-for-office-in-the-december-12-2015-elect.md)
 _Context: Arab, Saudi Arabia, Saudi Arabia elections, 2015_

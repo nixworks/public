@@ -1,7 +1,7 @@
 ## [2005-08-8](/news/2005/08/8/index.md)
 
 ### [ Banco Central robbery at Fortaleza: In Fortaleza, Ceara, Brazil, an estimated 156 million reais was discovered to be stolen over the weekend in one of the world's largest bank robberies. ](/news/2005/08/8/banco-central-robbery-at-fortaleza-in-fortaleza-ceara-brazil-an-estimated-156-million-reais-was-discovered-to-be-stolen-over-the-weeke.md)
-_Context: Banco Central robbery at Fortaleza, Brazil, Brazilian real, Ceará, Fortaleza, world's largest bank robberies_
+_Context: Banco Central robbery at Fortaleza, Brazil, Brazilian real, Ceara, Fortaleza, world's largest bank robberies_
 
 ### [ Oil for food scandal: the UN-appointed panel released its third report. According to it, Benon Sevan took nearly $150,000 in cash bribes. A former UN procurement officer Alexander Yakovlev has pleaded guilty to accepting hundreds of thousands of dollars in bribes from UN contractors. ](/news/2005/08/8/oil-for-food-scandal-the-un-appointed-panel-released-its-third-report-according-to-it-benon-sevan-took-nearly-150-000-in-cash-bribes-a.md)
 _Context: Alexander Yakovlev, Benon Sevan, oil-for-food_

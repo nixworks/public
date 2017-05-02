@@ -22,7 +22,7 @@ _Context: Sara Blakely, Spanx, billionaire_
 _Context: Toyota_
 
 ### [Evacuation orders are issued for the Australian towns of Griffith and Forbes due to floods moving west through the Murray-Darling basin. ](/news/2012/03/8/evacuation-orders-are-issued-for-the-australian-towns-of-griffith-and-forbes-due-to-floods-moving-west-through-the-murrayadarling-basin.md)
-_Context: Australia, Forbes, Griffith, Murray–Darling basin, flood_
+_Context: Australia, Forbes, Griffith, Murray-Darling basin, flood_
 
 ### [A gunman kills one person and injures seven others before himself being shot dead at the University of Pittsburgh Medical Center's Western Psychiatric Institute & Clinic in Pittsburgh, Pennsylvania. ](/news/2012/03/8/a-gunman-kills-one-person-and-injures-seven-others-before-himself-being-shot-dead-at-the-university-of-pittsburgh-medical-center-s-western-p.md)
 _Context: Pennsylvania, Pittsburgh, University of Pittsburgh Medical Center_
@@ -30,7 +30,7 @@ _Context: Pennsylvania, Pittsburgh, University of Pittsburgh Medical Center_
 ### [Former Los Angeles Police Department detective Stephanie Lazarus is found guilty of a high profile 1986 murder. ](/news/2012/03/8/former-los-angeles-police-department-detective-stephanie-lazarus-is-found-guilty-of-a-high-profile-1986-murder.md)
 _Context: Los Angeles Police Department, Stephanie Lazarus_
 
-### [The first full map of the debris field of the remains of the {{RMS|Titanic}} is announced. ](/news/2012/03/8/the-first-full-map-of-the-debris-field-of-the-remains-of-the-rms-titanic-is-announced.md)
+### [The first full map of the debris field of the remains of the Titanic is announced. ](/news/2012/03/8/the-first-full-map-of-the-debris-field-of-the-remains-of-the-titanic-is-announced.md)
 _Context: debris field_
 
 ### [A study suggests that donor stem cells may prevent organ rejection in imperfectly matched transplant cases. ](/news/2012/03/8/a-study-suggests-that-donor-stem-cells-may-prevent-organ-rejection-in-imperfectly-matched-transplant-cases.md)

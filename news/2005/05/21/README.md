@@ -10,7 +10,7 @@ _Context: 50th Annual Eurovision Song Contest, Elena Paparizou, European Broadca
 _Context: Ali Hassan al-Majid, George W. Bush, Huda Salih Mahdi Ammash, Saddam Hussein, The Sun, United Kingdom, tabloid_
 
 ### [ The 21st annual National Science Olympiad was held in University of Illinois at Urbana-Champaign.](/news/2005/05/21/the-21st-annual-national-science-olympiad-was-held-in-university-of-illinois-at-urbanaachampaign.md)
-_Context: Science Olympiad, University of Illinois at Urbana–Champaign_
+_Context: Science Olympiad, University of Illinois at Urbana-Champaign_
 
 ### [ Kingda Ka the tallest and fastest roller coaster in the world opens at Six Flags Great Adventure.](/news/2005/05/21/kingda-ka-the-tallest-and-fastest-roller-coaster-in-the-world-opens-at-six-flags-great-adventure.md)
 _Context: Kingda Ka, Six Flags Great Adventure_

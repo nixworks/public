@@ -1,7 +1,7 @@
 ## [2005-10-4](/news/2005/10/4/index.md)
 
 ### [ United States President George W. Bush expresses concern for a potential avian flu outbreak.  He requests Congressional legislation permitting the military to impose a quarantine in the event of a deadly flu pandemic. ](/news/2005/10/4/united-states-president-george-w-bush-expresses-concern-for-a-potential-avian-flu-outbreak-he-requests-congressional-legislation-permitt.md)
-_Context: George W. Bush, U.S. Congress, bird flu, quarantine_
+_Context: George W. Bush, U.S. Congressional, bird flu, quarantine_
 
 ### [ Eleven embassies in the capital of Malaysia, Kuala Lumpur,  receive  suspicious packages containing threatening letters and an unidentified liquid, triggering security alerts. ](/news/2005/10/4/eleven-embassies-in-the-capital-of-malaysia-kuala-lumpur-receive-suspicious-packages-containing-threatening-letters-and-an-unidentified.md)
 _Context: Kuala Lumpur, Malaysia_
@@ -22,16 +22,16 @@ _Context: Democratic Republic of the Congo, Lord's Resistance Army, Ugandan, Uni
 _Context: Dominique de Villepin, Prime Minister_
 
 ### [ Ohio Iraq War veteran Paul Hackett is expected to run in the state Democratic primary to contest the seat of Republican Senator Mike DeWine.  Hackett lost in a closely contested House race on August 2.](/news/2005/10/4/ohio-iraq-war-veteran-paul-hackett-is-expected-to-run-in-the-state-democratic-primary-to-contest-the-seat-of-republican-senator-mike-dewine.md)
-_Context: August 2, Democrat, Iraq War, Mike DeWine, Ohio, Paul Hackett, Republican, U.S. House, United States Senator_
+_Context: August 2, Democratic, Iraq War, Mike DeWine, Ohio, Paul Hackett, Republican, U.S. House, United States Senator_
 
 ### [ Roy J. Glauber, John L. Hall and Theodor W. Hansch share in the 2005 Nobel Prize in Physics. ](/news/2005/10/4/roy-j-glauber-john-l-hall-and-theodor-w-ha-nsch-share-in-the-2005-nobel-prize-in-physics.md)
-_Context: John L. Hall, Nobel Prize in Physics, Roy J. Glauber, Theodor W. Hänsch_
+_Context: John L. Hall, Nobel Prize in Physics, Roy J. Glauber, Theodor W. Hansch_
 
 ### [ Four Ugandan civilians are killed in a rare afternoon ambush on a pickup truck in northeast Uganda by Lord's Resistance Army rebels. The insurgents are suspected of shooting the driver and two passengers and killing a fourth with an axe. ](/news/2005/10/4/four-ugandan-civilians-are-killed-in-a-rare-afternoon-ambush-on-a-pickup-truck-in-northeast-uganda-by-lord-s-resistance-army-rebels-the-in.md)
 _Context: Lord's Resistance Army, Uganda, ambush, pickup truck_
 
 ### [ Israeli-Palestinian Conflict: A 37-year-old Palestinian mother of six is shot and killed after she stabbed and lightly injured a female Israel Defense Forces soldier at the Hawara roadblock south of Nablus. No militant group claimed the attack, but it is known that the woman's brother was killed by the IDF at the beginning of the Al-Aqsa Intifada. ](/news/2005/10/4/israeliapalestinian-conflict-a-37-year-old-palestinian-mother-of-six-is-shot-and-killed-after-she-stabbed-and-lightly-injured-a-female-i.md)
-_Context: Al-Aqsa Intifada, Hawara roadblock, Israel Defense Forces, Israeli–Palestinian conflict, Nablus, Palestinian_
+_Context: Al-Aqsa Intifada, Hawara roadblock, Israel Defense Forces, Israeli-Palestinian conflict, Nablus, Palestinian_
 
 ## [Previous Day...](/news/2005/10/3/index.md)
 

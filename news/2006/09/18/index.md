@@ -4,7 +4,7 @@
 _Context: England, Scotland, Wales, child seats_
 
 ### [ Taliban insurgency:  A suicide bomber has killed at least four Canadians in an attack on a NATO patrol in the southern Afghan province of Kandahar, Canada's military says. ](/news/2006/09/18/taliban-insurgency-p-a-suicide-bomber-has-killed-at-least-four-canadians-in-an-attack-on-a-nato-patrol-in-the-southern-afghan-province-of.md)
-_Context: Canadian, Kandahar, NATO, Taliban insurgency_
+_Context: Canada, Kandahar, NATO, Taliban insurgency_
 
 ### [ Somali President Abdullahi Yusuf survives an assassination attempt when two bombs explode near the parliament building, killing 11 people. ](/news/2006/09/18/somali-president-abdullahi-yusuf-survives-an-assassination-attempt-when-two-bombs-explode-near-the-parliament-building-killing-11-people.md)
 _Context: Abdullahi Yusuf, Somalia, assassinated_

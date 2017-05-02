@@ -4,7 +4,7 @@
 A Libyan envoy representing Colonel Gaddafi has been in London in the past few days for talks with British officials, the BBC understands.
 
 ### [2010-2011 Ivorian crisis: Heavy fighting continues in Abidjan, the largest city in the Ivory Coast between forces loyal to current President of the Ivory Coast Laurent Gbagbo and internationally-recognised claimant Alassane Ouattara. ](/news/2011/04/1/2010a2011-ivorian-crisis-heavy-fighting-continues-in-abidjan-the-largest-city-in-the-ivory-coast-between-forces-loyal-to-current-preside.md)
-_Context: 2010–2011 Ivorian crisis, Abidjan, Alassane Ouattara, Ivory Coast, Laurent Gbagbo, President of the Ivory Coast_
+_Context: 2010-2011 Ivorian crisis, Abidjan, Alassane Ouattara, Ivory Coast, Laurent Gbagbo, President of the Ivory Coast_
 
 ### [The Turkish army kills seven PKK rebels who crossed the border from Syria. ](/news/2011/04/1/the-turkish-army-kills-seven-pkk-rebels-who-crossed-the-border-from-syria.md)
 _Context: Kurdistan Workers' Party, Syria, Turkey_
@@ -19,7 +19,7 @@ More than one million websiteaddresses have been compromised by a sophisticated 
 German polar bear Knut drowned when he fell into a pool of water in his enclosure, after collapsing due to swelling of the brain, experts say.
 
 ### [Penelope Cruz becomes the first Spanish actress to receive a star in the Hollywood Walk of Fame](/news/2011/04/1/pena-c-lope-cruz-becomes-the-first-spanish-actress-to-receive-a-star-in-the-hollywood-walk-of-fame.md)
-_Context: Hollywood Walk of Fame, Penélope Cruz_
+_Context: Hollywood Walk of Fame, Penelope Cruz_
 
 ### [Ireland's government agrees to bank bailout number five, valued at EUR24 billion, and does not force senior bondholders into burden-sharing. ](/news/2011/04/1/ireland-s-government-agrees-to-bank-bailout-number-five-valued-at-a-24-billion-and-does-not-force-senior-bondholders-into-burden-sharing.md)
 ### [It is revealed that chief executive of nationalised Anglo Irish Bank Mike Aynsley received EUR1 million, including a "housing allowance" for his second home in Australia, while the bank admits billions were squandered last year in the biggest corporate loss in the country's history. ](/news/2011/04/1/it-is-revealed-that-chief-executive-of-nationalised-anglo-irish-bank-mike-aynsley-received-a-1-million-including-a-housing-allowance-for.md)
@@ -65,7 +65,7 @@ _Context: Anglo Irish Bank, Massachusetts_
 _Context: Abkhazia, Georgia, International Court of Justice, Russia, South Ossetia, The Hague, ethnic cleansing_
 
 ### [A female Chinese national exchange student to Sweden studying in Orebro is found murdered in daylight. ](/news/2011/04/1/a-female-chinese-national-exchange-student-to-sweden-studying-in-arebro-is-found-murdered-in-daylight.md)
-_Context: Chinese, exchange student, Örebro_
+_Context: Chinese, Orebro, exchange student_
 
 ### [French Polynesian President Gaston Tong Sang is ousted in a vote of no confidence led by opposition leader Oscar Temaru. Temaru once again becomes President of French Polynesia for the fifth time. ](/news/2011/04/1/french-polynesian-president-gaston-tong-sang-is-ousted-in-a-vote-of-no-confidence-led-by-opposition-leader-oscar-temaru-temaru-once-again-b.md)
 _Context: French Polynesia, French Polynesian President, Gaston Tong Sang, Oscar Temaru, vote of no confidence_

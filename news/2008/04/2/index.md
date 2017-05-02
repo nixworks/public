@@ -13,7 +13,7 @@ _Context: AIDS, Africa, U.S. House, U.S. dollar, malaria, tuberculosis_
 _Context: Kosovo, Lipljan, Serbia, Serbian_
 
 ### [ Talks begin in Pristina on demarcation of the border between Macedonia and Kosovo. ](/news/2008/04/2/talks-begin-in-pria-tina-on-demarcation-of-the-border-between-macedonia-and-kosovo.md)
-_Context: Kosovo, Macedonia, Priština_
+_Context: Kosovo, Macedonia, Pristina_
 
 ### [ Irish Taoiseach Bertie Ahern announces he will resign on 6 May after 11 years of rule. ](/news/2008/04/2/irish-taoiseach-bertie-ahern-announces-he-will-resign-on-6-may-after-11-years-of-rule.md)
 Taoiseach Bertie Ahern has announced that he will tender his resignation to President Mary McAleese on 6 May.
@@ -29,7 +29,7 @@ _Context: George W. Bush, Georgia, NATO, Ukrainian, president_
 
 ### [ Cuban citizens now have access to what were formerly "tourist-only" hotels and cellphones. ](/news/2008/04/2/cuban-citizens-now-have-access-to-what-were-formerly-tourist-only-hotels-and-cellphones.md)
 ### [ Morgan Tsvangirai's Movement for Democratic Change defeats Robert Mugabe's ZANU-PF in the Zimbabean '''parliamentary''' elections. ](/news/2008/04/2/morgan-tsvangirai-s-movement-for-democratic-change-defeats-robert-mugabe-s-zanu-pf-in-the-zimbabean-parliamentary-elections.md)
-_Context: Morgan Tsvangirai, Movement for Democratic Change, Robert Mugabe, ZANU–PF, Zimbabwe, parliamentary_
+_Context: Morgan Tsvangirai, Movement for Democratic Change, Robert Mugabe, ZANU-PF, Zimbabwe, parliamentary_
 
 ## [Previous Day...](/news/2008/04/1/index.md)
 

@@ -1,7 +1,7 @@
 ## [2007-10-15](/news/2007/10/15/index.md)
 
 ### [ Montenegrin Prime Minister Zeljko Sturanovic signs a Stabilisation and Association Agreement with the European Union, saying that Montenegro is hoping to lodge an official application for EU membership in the first half of 2008. ](/news/2007/10/15/montenegrin-prime-minister-a1-2eljko-a-turanovia-signs-a-stabilisation-and-association-agreement-with-the-european-union-saying-that-monten.md)
-_Context: 2008, European Union, Montenegro, Prime Minister, Stabilisation and Association Agreement, Željko Šturanović_
+_Context: 2008, European Union, Montenegro, Prime Minister, Stabilisation and Association Agreement, Zeljko Sturanovic_
 
 ### [ Battle of Las Anod: Troops from the breakaway Somali republic of Somaliland seize a town inside Puntland, a rival region loyal to the interim Somali government, killing at least 10 people. ](/news/2007/10/15/battle-of-las-anod-troops-from-the-breakaway-somali-republic-of-somaliland-seize-a-town-inside-puntland-a-rival-region-loyal-to-the-inter.md)
 _Context: Battle of Las Anod, Puntland, Somalia, Somaliland_

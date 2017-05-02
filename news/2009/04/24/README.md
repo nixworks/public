@@ -13,7 +13,7 @@ _Context: Current TV, North Korea, United States, indicted, journalism, trial_
 _Context: Lieutenant Governor, Northern Mariana Islands, Timothy P. Villagomez, bribes, fraud, wire fraud_
 
 ### [ Democrat Scott Murphy wins New York's 20th congressional district special election. ](/news/2009/04/24/democrat-scott-murphy-wins-new-york-s-20th-congressional-district-special-election.md)
-_Context: 20th congressional district, Democrat, New York, Scott Murphy, special election_
+_Context: 20th congressional district, Democratic, New York, Scott Murphy, special election_
 
 ### [ American Southern Bank in Kennesaw, Georgia, is closed. ](/news/2009/04/24/american-southern-bank-in-kennesaw-georgia-is-closed.md)
 _Context: American Southern Bank, Georgia, Kennesaw, banks failed_

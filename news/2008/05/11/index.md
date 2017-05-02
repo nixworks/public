@@ -13,7 +13,7 @@ _Context: Asif Ali Zardari, London, Nawaz Sharif, Pakistan, President Pervez Mus
 _Context: George Chiweshe, run-off presidential election_
 
 ### [ Serbian voters go to the polls in the Serbian parliamentary election, 2008. A pro-Europe coalition associated with the President of Serbia Boris Tadic wins the most votes. ](/news/2008/05/11/serbian-voters-go-to-the-polls-in-the-serbian-parliamentary-election-2008-a-pro-europe-coalition-associated-with-the-president-of-serbia.md)
-_Context: Boris Tadić, European Union, President, Serbia, parliamentary election_
+_Context: Boris Tadic, European Union, President, Serbia, parliamentary election_
 
 ## [Previous Day...](/news/2008/05/10/index.md)
 

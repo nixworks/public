@@ -13,7 +13,7 @@ _Context: George W. Bush, John McCain, Republican, president_
 _Context: Berkshire Hathaway, Forbes, Warren Buffett_
 
 ### [ Saudi Arabia announces plans to execute a Canadian man and a Saudi friend convicted of murder by beheading them in public. ](/news/2008/03/5/saudi-arabia-announces-plans-to-execute-a-canadian-man-and-a-saudi-friend-convicted-of-murder-by-beheading-them-in-public.md)
-_Context: Canadian, Saudi Arabia_
+_Context: Canada, Saudi Arabia_
 
 ### [ A manmade flood is created in the Grand Canyon in Arizona in an attempt to replenish the ecosystem in the gorge. ](/news/2008/03/5/a-manmade-flood-is-created-in-the-grand-canyon-in-arizona-in-an-attempt-to-replenish-the-ecosystem-in-the-gorge.md)
 _Context: Arizona, Grand Canyon_

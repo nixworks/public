@@ -13,7 +13,7 @@ _Context: Russia, Russian military, Russian military intervention in the Syrian 
 University of Missouri system president Tim Wolfe resigned Monday amid student protests, and MU Chancellor R. Bowen Loftin announced he will transition to a new role at the end of this year.
 
 ### [Amedeo Modigliani's 1917 painting ''Nu couche'' sells at an auction at Christie's for $170.4 million, the second highest price for a painting on record. ](/news/2015/11/9/amedeo-modigliani-s-1917-painting-nu-coucha-c-sells-at-an-auction-at-christie-s-for-170-4-million-the-second-highest-price-for-a-painti.md)
-_Context: Amedeo Modigliani, Christie's, Nu couché_
+_Context: Amedeo Modigliani, Christie's, Nu couche_
 
 ### [The German airline Lufthansa suspends 929 flights leaving 113,000 passengers stranded as a result of a cabin crew strike. ](/news/2015/11/9/the-german-airline-lufthansa-suspends-929-flights-leaving-113-000-passengers-stranded-as-a-result-of-a-cabin-crew-strike.md)
 Germany&#x27;s biggest airline Lufthansa scrapped 929 flights on Monday, grounding 113,000 passengers as cabin crew expanded their strike, and the walkout was set to continue despite a new offer from the company. The action, in its third day, is expected to last a week, becoming the longest in Lufthansa

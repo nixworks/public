@@ -49,7 +49,7 @@ A university student, who referred to himself in court as the &quot;Crossbow Can
 _Context: Maatia Toafa, Prime Minister of Tuvalu, Tuvalu, vote of no confidence_
 
 ### [Milo Dukanovic resigns as Prime Minister of Montenegro. ](/news/2010/12/21/milo-aukanovia-resigns-as-prime-minister-of-montenegro.md)
-_Context: Milo Đukanović, Montenegro, Prime Minister_
+_Context: Milo Dukanovic, Montenegro, Prime Minister_
 
 ### [Siale'ataonga Tu'ivakano is elected as the Prime Minister of Tonga. ](/news/2010/12/21/siale-ataonga-tu-ivakano-is-elected-as-the-prime-minister-of-tonga.md)
 _Context: Prime Minister of Tonga, Siale'ataonga Tu'ivakano_

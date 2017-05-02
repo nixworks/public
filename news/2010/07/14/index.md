@@ -37,7 +37,7 @@ Ryanair is once again reprimanded by a watchdog which found that it misled custo
 Group of more than 30 reporters to demand compensation from Israeli government.
 
 ### [Previously secret papers released as a result of civil proceedings brought by six former Guantanamo Bay inmates against MI5 and MI6, the Home Office, the Foreign Office, and the Attorney General's Office reveal the British government was involved in the abduction and torture of its own citizens following the September 11 attacks. ](/news/2010/07/14/previously-secret-papers-released-as-a-result-of-civil-proceedings-brought-by-six-former-guanta-namo-bay-inmates-against-mi5-and-mi6-the-ho.md)
-_Context: Guantánamo Bay, MI5, MI6, September 11 attacks_
+_Context: Guantanamo Bay, MI5, MI6, September 11 attacks_
 
 ### [Tens of thousands take part in a church-sponsored demonstration against same-sex marriage outside Congress in Buenos Aires, as senators prepare to vote on a bill which would make Argentina the first South American country to legalize same-sex marriage. ](/news/2010/07/14/tens-of-thousands-take-part-in-a-church-sponsored-demonstration-against-same-sex-marriage-outside-congress-in-buenos-aires-as-senators-prep.md)
 Argentina becomes the first Latin American country to legalise gay marriage after the Senate votes in favour.

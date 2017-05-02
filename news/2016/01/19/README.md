@@ -7,7 +7,7 @@ Up to 30 injured in the blast close to security checkpost on Jamrud Road
 _Context: Deir ez-Zor, ISIL, Syrian Army, Syrian Civil War, Syrian Observatory for Human Rights_
 
 ### [The United Nations Commission on Human Rights releases a report stating that at least 18,802 civilians have been killed and another 36,245 wounded between 1 January 2014 and 31 October 2015.  Of these, 3,855 civilians were killed and 7,056 wounded between 1 May and 31 October 2015, with approximately half of these deaths occurring in Baghdad. ](/news/2016/01/19/the-united-nations-commission-on-human-rights-releases-a-report-stating-that-at-least-18-802-civilians-have-been-killed-and-another-36-245-w.md)
-_Context: Baghdad, Iraqi Civil War (2014–present), United Nations Commission on Human Rights_
+_Context: Baghdad, Iraqi Civil War (2014-present), United Nations Commission on Human Rights_
 
 ### [Pakistan lifts a three-year ban on YouTube after Google launches a local version that allows the government to demand removal of material it considers to be offensive. Similar systems have existed in China for many years. ](/news/2016/01/19/pakistan-lifts-a-three-year-ban-on-youtube-after-google-launches-a-local-version-that-allows-the-government-to-demand-removal-of-material-it.md)
 Pakistan said on Monday it had removed a three-year ban on YouTube after the Google-owned video-sharing website launched a local version that allows the government to demand removal of material it considers offensive. Pakistan banned access to YouTube in September 2012 after an anti-Islam film, &quot;

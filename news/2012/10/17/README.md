@@ -4,7 +4,7 @@
 _Context: Hashaba, Sudan, UNAMID_
 
 ### [2012 Syrian-Turkish border clashes: Turkish artillery retaliates after a Syrian bomb landed on Turkish territory in Hatay Province. ](/news/2012/10/17/2012-syrianaturkish-border-clashes-turkish-artillery-retaliates-after-a-syrian-bomb-landed-on-turkish-territory-in-hatay-province.md)
-_Context: 2012 Syrian–Turkish border clashes, Hatay Province_
+_Context: 2012 Syrian-Turkish border clashes, Hatay Province_
 
 ### [Two U.S. sailors are arrested over an alleged rape of a Japanese woman on Okinawa. ](/news/2012/10/17/two-u-s-sailors-are-arrested-over-an-alleged-rape-of-a-japanese-woman-on-okinawa.md)
 Two US troops are arrested over the alleged rape of a Japanese woman in Okinawa, amid ongoing opposition to the US military footprint there.

@@ -7,7 +7,7 @@ _Context: Central-African, Chad_
 _Context: Armenia, Armenian President, Azerbaijan, Ilham Aliyev's, Nagorno-Karabakh region, President, Robert Kocharyan_
 
 ### [ The most recent attempt in the United States to adopt a flag desecration amendment fails in the Senate by one vote. ](/news/2006/06/27/the-most-recent-attempt-in-the-united-states-to-adopt-a-flag-desecration-amendment-fails-in-the-senate-by-one-vote.md)
-_Context: Senator, United States, flag desecration amendment_
+_Context: United States, United States Senate, flag desecration amendment_
 
 ### [ Popular musician Axl Rose from the band Guns N' Roses is arrested in Stockholm, Sweden, for alleged violent conduct including biting a security guard on the leg. ](/news/2006/06/27/popular-musician-axl-rose-from-the-band-guns-n-roses-is-arrested-in-stockholm-sweden-for-alleged-violent-conduct-including-biting-a-secu.md)
 _Context: Axl Rose, Guns N' Roses, Stockholm, Sweden, popular music_
@@ -28,10 +28,10 @@ _Context: Anfal campaign, August 21, Iraqi Special Tribunal, Kurd, Saddam Hussei
 _Context: Chen Shui-bian, President of Taiwan, legislative chamber_
 
 ### [ Nguyen Minh Triet becomes President of Vietnam with Nguyen Tan Dung expected to become the new Prime Minister of Vietnam. ](/news/2006/06/27/nguyen-minh-triet-becomes-president-of-vietnam-with-nguya-n-taoy-n-da-c-ng-expected-to-become-the-new-prime-minister-of-vietnam.md)
-_Context: Nguyen Minh Triet, Nguyễn Tấn Dũng, President of Vietnam, prime minister_
+_Context: Nguyen Minh Triet, Nguyen Tan Dung, President of Vietnam, prime minister_
 
 ### [ Ronaldo broke the all-time FIFA World Cup finals goal-scoring record of 14 goals set by Gerd Muller of Germany, scoring his 15th World Cup goal, and Brazil's first goal of the match (Round of 16), against Ghana in his 18th World Cup match.](/news/2006/06/27/ronaldo-broke-the-all-time-fifa-world-cup-finals-goal-scoring-record-of-14-goals-set-by-gerd-ma1-4ller-of-germany-scoring-his-15th-world-cup.md)
-_Context: Gerd Müller, Ronaldo, World Cup_
+_Context: Gerd Muller, Ronaldo, World Cup_
 
 ## [Previous Day...](/news/2006/06/26/index.md)
 

@@ -1,6 +1,6 @@
 ### [2006-01-3](/news/2006/01/3/index.md)
 
-#  Sago Mine disaster: In West Virginia, US, family members now say only one trapped miner has been brought out alive from the collapsed coal mine. All 12 others are dead. Earlier news reports, at approximately {{Nowrap|10:30 p.m.}} EST, indicated that 12 miners were found alive. Rescue crews found one body late Tuesday after 13 miners were trapped following an explosion on Monday. 
+#  Sago Mine disaster: In West Virginia, US, family members now say only one trapped miner has been brought out alive from the collapsed coal mine. All 12 others are dead. Earlier news reports, at approximately 10:30 p.m. EST, indicated that 12 miners were found alive. Rescue crews found one body late Tuesday after 13 miners were trapped following an explosion on Monday. 
 
 Get the latest breaking news across the U.S. on ABCNews.com
 

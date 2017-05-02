@@ -14,7 +14,7 @@ Fernando Torres scores twice as Spain move top of Group C with a win that knocks
 
 ### Related:
 
-1. [UEFA Euro 2012:Spain beat Portugal in a penalty shoot-out, with Fabregas as game winner, to go through to Sunday's final in Kiev. ](/news/2012/06/27/uefa-euro-2012-pspain-beat-portugal-in-a-penalty-shoot-out-with-fa-bregas-as-game-winner-to-go-through-to-sunday-s-final-in-kiev.md) _Context: Fàbregas, UEFA Euro 2012_
+1. [UEFA Euro 2012:Spain beat Portugal in a penalty shoot-out, with Fabregas as game winner, to go through to Sunday's final in Kiev. ](/news/2012/06/27/uefa-euro-2012-pspain-beat-portugal-in-a-penalty-shoot-out-with-fa-bregas-as-game-winner-to-go-through-to-sunday-s-final-in-kiev.md) _Context: Fabregas, UEFA Euro 2012_
 2. [UEFA Euro 2012:Italy trash ten-man Ireland to go through to the quarter-finals, with Ireland on their worst run for more than 40 years. ](/news/2012/06/18/uefa-euro-2012-pitaly-trash-ten-man-ireland-to-go-through-to-the-quarter-finals-with-ireland-on-their-worst-run-for-more-than-40-years.md) _Context: Ireland, UEFA Euro 2012_
 3. [UEFA Euro 2012:Nikica Jelavic's controversial offside goal helps Croatia to a victory over the Irish at the Stadion Miejski in Poznan. ](/news/2012/06/10/uefa-euro-2012-pnikica-jelavia-s-controversial-offside-goal-helps-croatia-to-a-victory-over-the-irish-at-the-stadion-miejski-in-poznaa.md) _Context: Ireland, UEFA Euro 2012_
 4. [Germany and the Republic of Ireland name their squads for UEFA Euro 2012. ](/news/2012/05/7/germany-and-the-republic-of-ireland-name-their-squads-for-uefa-euro-2012.md) _Context: Ireland, UEFA Euro 2012_

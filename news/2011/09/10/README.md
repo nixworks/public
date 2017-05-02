@@ -10,7 +10,7 @@ _Context: Barack Obama, Texas, U.S. President, state of emergency, wildfires_
 _Context: Arab Spring, Arab countries, Group of Eight, democratic progress_
 
 ### [Post-Mubarak transition in Egypt:Protesters storm the Israeli embassy in Cairo, forcing the Israeli ambassador to Egypt to flee. ](/news/2011/09/10/post-mubarak-transition-in-egypt-pprotesters-storm-the-israeli-embassy-in-cairo-forcing-the-israeli-ambassador-to-egypt-to-flee.md)
-_Context: Cairo, Egypt–Israel relations, Israel, post-Mubarak Egypt_
+_Context: Cairo, Egypt-Israel relations, Israel, post-Mubarak Egypt_
 
 ## [Previous Day...](/news/2011/09/9/index.md)
 

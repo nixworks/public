@@ -6,7 +6,7 @@ Government forces and opponents of President Bashar al-Assad clashed in cities a
 ### [2011-2012 Bahraini uprising:Security forces fire tear gas on anti-government demonstrators on the first anniversary of the start of protests calling for reforms in the nation. ](/news/2012/02/14/2011a2012-bahraini-uprising-psecurity-forces-fire-tear-gas-on-anti-government-demonstrators-on-the-first-anniversary-of-the-start-of-prote.md)
 Security forces fire tear gas as activists attempt to march to landmark Pearl roundabout, one year since protests began.
 
-### [The U.S. aircraft carrier {{USS|Abraham Lincoln|CVN-72|2}}, accompanied by the cruiser {{USS|Cape St. George|CG-71|2}} and the destroyer {{USS|Sterett|DDG-104|2}}, sails through the Strait of Hormuz, close to the coast of Iran, for the second time in recent weeks. ](/news/2012/02/14/the-u-s-aircraft-carrier-uss-abraham-lincoln-cvn-72-2-accompanied-by-the-cruiser-uss-cape-st-george-cg-71-2-and-the-destroyer-u.md)
+### [The U.S. aircraft carrier Abraham Lincoln|CVN-72|2, accompanied by the cruiser Cape St. George|CG-71|2 and the destroyer Sterett|DDG-104|2, sails through the Strait of Hormuz, close to the coast of Iran, for the second time in recent weeks. ](/news/2012/02/14/the-u-s-aircraft-carrier-abraham-lincoln-cvn-72-2-accompanied-by-the-cruiser-cape-st-george-cg-71-2-and-the-destroyer-sterett-ddg-104-2.md)
 A US aircraft carrier passes through the Strait of Hormuz for the second time in recent weeks, amid heightened tension with Iran.
 
 ### [A Sudanese air strike hits the South Sudanese state of Unity, injuring four soldiers in a contested area. ](/news/2012/02/14/a-sudanese-air-strike-hits-the-south-sudanese-state-of-unity-injuring-four-soldiers-in-a-contested-area.md)
@@ -40,7 +40,7 @@ A powerful cyclone bearing winds of up to 194km/h strikes the island of Madagasc
 _Context: Gaza Strip_
 
 ### [Actor Sean Penn meets Argentina's president Cristina Fernandez de Kirchner to voice his support for "the Malvinas Islands of Argentina" and urges Britain to cease its "archaic commitment to colonialist ideology". ](/news/2012/02/14/actor-sean-penn-meets-argentina-s-president-cristina-ferna-ndez-de-kirchner-to-voice-his-support-for-the-malvinas-islands-of-argentina-and.md)
-_Context: Cristina Fernández de Kirchner, Malvinas Islands, Sean Penn_
+_Context: Cristina Fernandez de Kirchner, Malvinas Islands, Sean Penn_
 
 ### [The Vice-President of the People's Republic of China Xi Jinping meets with the President of the United States Barack Obama during a visit to the United States. ](/news/2012/02/14/the-vice-president-of-the-people-s-republic-of-china-xi-jinping-meets-with-the-president-of-the-united-states-barack-obama-during-a-visit-to.md)
 _Context: Barack Obama, United States, Vice President, Xi Jinping, president_
@@ -70,7 +70,7 @@ _Context: ARA ''General Belgrano'', Argentine Football Association, FIFA, a Brit
 Rangers Football Club enters administration - meaning the club will be docked an immediate 10 points in the Scottish Premier League.
 
 ### [93 people, including the Fenerbahce S.K. president, go to trial on match fixing charges involving 19 Super Lig matches in the Turkish city of Istanbul. ](/news/2012/02/14/93-people-including-the-fenerbahasse-s-k-president-go-to-trial-on-match-fixing-charges-involving-19-sa1-4per-lig-matches-in-the-turkish-city.md)
-_Context: Fenerbahçe, Istanbul, Süper Lig, Turks, match fixing_
+_Context: Fenerbahce, Istanbul, Super Lig, Turks, match fixing_
 
 ### [The Six Nations Council announces that the match between France versus Ireland in the 2012 Six Nations Championship, called off minutes prior to kick-off on Saturday night, has been rescheduled for Sunday 4 March, with a 3.00pm kick-off, Irish time. ](/news/2012/02/14/the-six-nations-council-announces-that-the-match-between-france-versus-ireland-in-the-2012-six-nations-championship-called-off-minutes-prio.md)
 The Six Nations game between France and Ireland will now be played on Sunday, 4 March in Paris

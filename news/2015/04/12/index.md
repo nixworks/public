@@ -1,7 +1,7 @@
 ## [2015-04-12](/news/2015/04/12/index.md)
 
 ### [Islamic militants attack the South Korean embassy in Tripoli killing two guards and leaving another injured. ](/news/2015/04/12/islamic-militants-attack-the-south-korean-embassy-in-tripoli-killing-two-guards-and-leaving-another-injured.md)
-_Context: Libyan Civil War (2014–present), Tripoli_
+_Context: Libyan Civil War (2014-present), Tripoli_
 
 ### [U.S. drone strikes in North Waziristan kill at least four suspected Taliban militants. ](/news/2015/04/12/u-s-drone-strikes-in-north-waziristan-kill-at-least-four-suspected-taliban-militants.md)
 A U.S. drone strike killed at least four suspected Taliban militants in northwest Pakistan on Sunday, security officials said, as al Qaeda in the Indian Subcontinent confirmed two of its commanders had been killed in similar attacks this year.

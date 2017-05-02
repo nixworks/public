@@ -31,7 +31,7 @@ Deposed former Egyptian President Hosni Mubarak is in intensive care after suffe
 _Context: Minnesota Governor, Tim Pawlenty, nomination_
 
 ### [Leaders of Canada's major political parties hold an English language debate for the Canadian federal election. ](/news/2011/04/12/leaders-of-canada-s-major-political-parties-hold-an-english-language-debate-for-the-canadian-federal-election.md)
-_Context: 2011 Canadian federal election, Canadian_
+_Context: 2011 Canadian federal election, Canada_
 
 ### [The Senate of the US state of North Carolina pardons former Governor William Woods Holden who was impeached in 1871 because of his suspension of habeas corpus in the process of battling the  Ku Klux Klan terror campaign. ](/news/2011/04/12/the-senate-of-the-us-state-of-north-carolina-pardons-former-governor-william-woods-holden-who-was-impeached-in-1871-because-of-his-suspensio.md)
 _Context: Governor, Ku Klux Klan, North Carolina, Senate, William Woods Holden, habeas corpus_

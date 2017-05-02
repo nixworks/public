@@ -7,7 +7,7 @@ _Context: Europe, European Commission, Internet_
 _Context: Alexis Sinduhije, Burundi, Ruyigi_
 
 ### [ Pro-government activist, Lina Ron, surrenders to Venezuelan authorities one day after attacking opposition television station Globovision. President Hugo Chavez condemns the attack, saying it helps his opponents brand him as a tyrant. ](/news/2009/08/4/pro-government-activist-lina-ron-surrenders-to-venezuelan-authorities-one-day-after-attacking-opposition-television-station-globovisia3n.md)
-_Context: Globovisión, Hugo Chávez, Lina Ron, Venezuela, Venezuelan President, government, tyrant_
+_Context: Globovision, Hugo Chavez, Lina Ron, Venezuela, Venezuelan President, government, tyrant_
 
 ### [ Amos Kenan, Israeli columnist, painter, sculptor, playwright, novelist and leading intellectual of Canaanism died at the age of 82 in Israel, his funeral is scheduled for Thursday, August 6th, at a kibbutz cemetery in central Israel. ](/news/2009/08/4/amos-kenan-israeli-columnist-painter-sculptor-playwright-novelist-and-leading-intellectual-of-canaanism-died-at-the-age-of-82-in-israe.md)
 _Context: Amos Kenan, Canaanism, Israel, kibbutz_

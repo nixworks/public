@@ -13,7 +13,7 @@ The worst flooding in years in southern France has claimed five lives and forced
 _Context: Adolf Eichmann, Alois Brunner, Nazi war criminal, Simon Wiesenthal Center_
 
 ### [Voters in Uruguay go to the polls for the second round of voting in the presidential election with former President Tabare Vazquez of the ruling Broad Front winning another term in government. ](/news/2014/11/30/voters-in-uruguay-go-to-the-polls-for-the-second-round-of-voting-in-the-presidential-election-with-former-president-tabara-c-va-zquez-of-the.md)
-_Context: Broad Front, President, Tabaré Vázquez, Uruguay, Uruguayan general election_
+_Context: Broad Front, President, Tabare Vazquez, Uruguay, Uruguayan general election_
 
 ### [Swiss immigration referendum  By 74% voters in Switzerland reject the proposal to reduce immigration from about 80,000 to 16,000 people a year. ](/news/2014/11/30/swiss-immigration-referendum-pby-74-voters-in-switzerland-reject-the-proposal-to-reduce-immigration-from-about-80-000-to-16-000-people-a-y.md)
 Swiss voters decisively reject a referendum proposal to cut net immigration to no more than 0.2% of the population.

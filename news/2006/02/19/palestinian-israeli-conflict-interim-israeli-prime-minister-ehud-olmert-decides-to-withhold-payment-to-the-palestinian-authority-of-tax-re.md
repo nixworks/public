@@ -1,6 +1,6 @@
 ### [2006-02-19](/news/2006/02/19/index.md)
 
-#  Palestinian-Israeli conflict: Interim Israeli Prime Minister Ehud Olmert decides to withhold payment to the Palestinian Authority of tax receipts amounting to about {{Nowrap|$50 million}} per month. [http://www.nytimes.com/2006/02/19/international/middleeast/19cnd-mideast.html? (New York Times)] [http://today.reuters.com/news/NewsArticle.aspx?type=topNews&storyID=uri:2006-02-19T204037Z_01_L17580155_RTRUKOC_0_US-MIDEAST.xml&pageNumber=0&summit= (Reuters)].
+#  Palestinian-Israeli conflict: Interim Israeli Prime Minister Ehud Olmert decides to withhold payment to the Palestinian Authority of tax receipts amounting to about $50 million per month. [http://www.nytimes.com/2006/02/19/international/middleeast/19cnd-mideast.html? (New York Times)] [http://today.reuters.com/news/NewsArticle.aspx?type=topNews&storyID=uri:2006-02-19T204037Z_01_L17580155_RTRUKOC_0_US-MIDEAST.xml&pageNumber=0&summit= (Reuters)].
 
 
 

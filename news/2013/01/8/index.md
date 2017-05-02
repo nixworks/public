@@ -28,7 +28,7 @@ _Context: Amy Winehouse, Britons, alcohol poisoning, coronial_
 _Context: Illinois, cyanide poisoning_
 
 ### [The Venezuelan government announces that Hugo Chavez is in stable condition, and is still receiving medical treatment for a respiratory infection. ](/news/2013/01/8/the-venezuelan-government-announces-that-hugo-cha-vez-is-in-stable-condition-and-is-still-receiving-medical-treatment-for-a-respiratory-inf.md)
-_Context: Hugo Chávez, Venezuela, government_
+_Context: Hugo Chavez, Venezuela, government_
 
 ### [Roberto Maroni announces that an electoral pact signed between his Lega Nord party and Silvio Berlusconi's People of Freedom party explicitly rules out Berlusconi assuming the Prime Minister of Italy position again. ](/news/2013/01/8/roberto-maroni-announces-that-an-electoral-pact-signed-between-his-lega-nord-party-and-silvio-berlusconi-s-people-of-freedom-party-explicitl.md)
 _Context: Italian Prime Minister, Lega Nord, People of Freedom, Roberto Maroni, Silvio Berlusconi_

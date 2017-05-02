@@ -7,7 +7,7 @@ _Context: Nicolas Sarkozy, UMP, regional elections_
 _Context: Barack Obama, National Mall, United States, Washington, D.C., president_
 
 ### [A new earthquake in Haiti kills two in Cap-Hatien. ](/news/2010/03/21/a-new-earthquake-in-haiti-kills-two-in-cap-haitien.md)
-_Context: Cap-Haïtien, Haiti_
+_Context: Cap-Hatien, Haiti_
 
 ### [Middle East:Secretary-General of the United Nations Ban Ki-moon enters Gaza with the message "we (the United Nations) stand with you (Palestine)", criticises Israel's actions and speaks of his distress at the "unacceptable, unsustainable conditions" endured by Palestinians and the lack of reconstruction of damaged buildings. ](/news/2010/03/21/middle-east-psecretary-general-of-the-united-nations-ban-ki-moon-enters-gaza-with-the-message-we-the-united-nations-stand-with-you-pales.md)
 UN Secretary General Ban Ki-moon has condemned Israel&#39;s blockade of Gaza saying it caused &#39;unacceptable sufferings&#39;.

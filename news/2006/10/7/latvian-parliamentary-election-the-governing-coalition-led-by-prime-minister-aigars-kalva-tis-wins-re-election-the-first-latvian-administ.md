@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ Latvian Prime Minister Aigars Kalvitis resigns. ](/news/2007/12/5/latvian-prime-minister-aigars-kalva-tis-resigns.md) _Context: Aigars Kalvītis, Latvia, Prime Minister of Latvia_
+1. [ Latvian Prime Minister Aigars Kalvitis resigns. ](/news/2007/12/5/latvian-prime-minister-aigars-kalva-tis-resigns.md) _Context: Aigars Kalvitis, Latvia, Prime Minister of Latvia_
 2. [ Latvian President Valdis Zatlers names former Finance Minister Valdis Dombrovskis as the new Prime Minister. ](/news/2009/02/26/latvian-president-valdis-zatlers-names-former-finance-minister-valdis-dombrovskis-as-the-new-prime-minister.md) _Context: Latvia, Prime Minister of Latvia_
 3. [ Latvian Prime Minister Ivars Godmanis and his government resign. ](/news/2009/02/20/latvian-prime-minister-ivars-godmanis-and-his-government-resign.md) _Context: Latvia, Prime Minister of Latvia_
 4. [Canada announces that it will deploy 1,000 soldiers of the Canadian Armed Forces to Latvia to bolster one of the four NATO battalions stationed there. ](/news/2016/07/1/canada-announces-that-it-will-deploy-1-000-soldiers-of-the-canadian-armed-forces-to-latvia-to-bolster-one-of-the-four-nato-battalions-statio.md) _Context: Latvia_

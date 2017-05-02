@@ -34,7 +34,7 @@ News - Your daily dose of information: European and International latest breakin
 _Context: National Football League, Native American, Trademark Trial and Appeal Board, United States Patent and Trademark Office, Washington Redskins, cancel several trademarks, disparaging, federal court_
 
 ### [Al-Shorta are declared champions of the 2013-14 Iraqi Premier League season after the Iraqi Football Association decide to end the league prematurely due to the war situation in the country. ](/news/2014/06/18/al-shorta-are-declared-champions-of-the-2013a14-iraqi-premier-league-season-after-the-iraqi-football-association-decide-to-end-the-league.md)
-_Context: 2013–14 Iraqi Premier League, Al-Shorta, Iraqi Football Association_
+_Context: 2013-14 Iraqi Premier League, Al-Shorta, Iraqi Football Association_
 
 ## [Previous Day...](/news/2014/06/17/index.md)
 

@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [ In Costa Rica, fire in Rafael Angel Calderon Guardia Hospital in San Jose kills at least 18 ](/news/2005/07/12/in-costa-rica-fire-in-rafael-angel-calderon-guardia-hospital-in-san-josa-c-kills-at-least-18.md) _Context: San José, Costa Rica_
+1. [ In Costa Rica, fire in Rafael Angel Calderon Guardia Hospital in San Jose kills at least 18 ](/news/2005/07/12/in-costa-rica-fire-in-rafael-angel-calderon-guardia-hospital-in-san-josa-c-kills-at-least-18.md) _Context: San Jose, Costa Rica_

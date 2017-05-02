@@ -25,7 +25,7 @@ Iran opposition leader Mehdi Karroubi&#039;s car has been fired on in the countr
 The Sea Shepherd speedboat Ady Gil has sunk after it was sliced in two by a Japanese whaling vessel.
 
 ### [Skouba Konat, the interim head of the junta in Guinea, is flown to Senegal after falling ill. ](/news/2010/01/8/sekouba-konate-the-interim-head-of-the-junta-in-guinea-is-flown-to-senegal-after-falling-ill.md)
-_Context: Guinea, Senegal, Sékouba Konaté, junta_
+_Context: Guinea, Senegal, Skouba Konat, junta_
 
 ### [A Georgian flight lands in Moscow, Russia, the first since the 2008 war. ](/news/2010/01/8/a-georgian-flight-lands-in-moscow-russia-the-first-since-the-2008-war.md)
 _Context: 2008 war, Georgia, Moscow, Russia_

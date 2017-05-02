@@ -25,7 +25,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: Augustine Geve, Harold Keke, Solomon Islands_
 
 ### [ Sefer Halilovic, former head of the Bosnian army, goes on trial for killing Bosnian Croats during the Yugoslav wars. ](/news/2005/01/31/sefer-halilovia-former-head-of-the-bosnian-army-goes-on-trial-for-killing-bosnian-croats-during-the-yugoslav-wars.md)
-_Context: Bosnia and Herzegovina, Croat, Sefer Halilović, Yugoslav Wars_
+_Context: Bosnia and Herzegovina, Croat, Sefer Halilovic, Yugoslav Wars_
 
 ### [ In France, 16 people and companies go on trial for effective manslaughter for the Mont Blanc Tunnel fire in 1999. ](/news/2005/01/31/in-france-16-people-and-companies-go-on-trial-for-effective-manslaughter-for-the-mont-blanc-tunnel-fire-in-1999.md)
 _Context: 1999, France, Mont Blanc Tunnel, manslaughter_

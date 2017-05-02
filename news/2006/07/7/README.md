@@ -7,7 +7,7 @@ _Context: AOL, Amazon.com, Craigslist, Google, Yahoo Inc., eBay, friends of the 
 The Sydney Morning Herald 404 Page
 
 ### [ Polish Prime Minister Kazimierz Marcinkiewicz has resigned. His party Law and Justice has recommended the post be taken over by its chairman Jaroslaw Kaczynski, who is the identical twin brother of President Lech Kaczynski. ](/news/2006/07/7/polish-prime-minister-kazimierz-marcinkiewicz-has-resigned-his-party-law-and-justice-has-recommended-the-post-be-taken-over-by-its-chairma.md)
-_Context: Jarosław Kaczyński, Kazimierz Marcinkiewicz, Law and Justice, Lech Kaczyński, Poland, Prime Minister_
+_Context: Jaroslaw Kaczynski, Kazimierz Marcinkiewicz, Law and Justice, Lech Kaczynski, Poland, Prime Minister_
 
 ### [ The board of General Motors authorises Chief Executive Officer Rick Wagoner to explore an alliance with Nissan and Renault. ](/news/2006/07/7/the-board-of-general-motors-authorises-chief-executive-officer-rick-wagoner-to-explore-an-alliance-with-nissan-and-renault.md)
 _Context: General Motors, Nissan, Renault, Rick Wagoner_

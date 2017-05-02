@@ -37,7 +37,7 @@ _Context: 2012 Summer Olympics_
 Scotland could become the first part of the UK to introduce gay marriage after the SNP government announces plans to make the change.
 
 ### [Ivica Dacic is sworn in as the Prime Minister of Serbia.](/news/2012/07/25/ivica-daaia-is-sworn-in-as-the-prime-minister-of-serbia.md)
-_Context: Ivica Dačić, Prime Minster_
+_Context: Ivica Dacic, Prime Minster_
 
 ## [Previous Day...](/news/2012/07/24/index.md)
 

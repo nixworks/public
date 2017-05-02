@@ -19,7 +19,7 @@ _Context: 2012 Dhaka fire, Bangladesh, Dhaka_
 A train hit a van in southern Italyon Saturday, killing at least six people, the Italian fireservice said on Saturday.
 
 ### [In a collision between a bus and a truck at kilometer 90 of the highway Anaco-Cantaura, state of Anzoategui, Venezuela, 8 killed and at least 25 injured. ](/news/2012/11/25/in-a-collision-between-a-bus-and-a-truck-at-kilometer-90-of-the-highway-anaco-cantaura-state-of-anzoa-tegui-venezuela-8-killed-and-at-lea.md)
-_Context: Anaco, Anzoátegui, Cantaura, Venezuela, bus, collision, truck_
+_Context: Anaco, Anzoategui, Cantaura, Venezuela, bus, collision, truck_
 
 ### [16 people are killed and 44 others injured on the spot when a bus carrying a wedding party skids off the road and plunges into a 300-feet deep gorge in Udhampur district, Jammu and Kashmir, India. ](/news/2012/11/25/16-people-are-killed-and-44-others-injured-on-the-spot-when-a-bus-carrying-a-wedding-party-skids-off-the-road-and-plunges-into-a-300-feet-de.md)
 Jammu, Nov 24: At least 16 people were killed and 44 others injured when a bus carrying a marriage party rolled down into a

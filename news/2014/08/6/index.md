@@ -4,7 +4,7 @@
 _Context: Lebanon, Saudi Arabia, Syria, Syrian Civil War_
 
 ### [Fighters from the Islamic State of Iraq and Syria clash with Iraq's Kurdish minority in the north of the country. ](/news/2014/08/6/fighters-from-the-islamic-state-of-iraq-and-syria-clash-with-iraq-s-kurdish-minority-in-the-north-of-the-country.md)
-_Context: Iraq, Iraqi insurgency (2011–present), Islamic State of Iraq and Syria, Kurdish_
+_Context: Iraq, Iraqi insurgency (2011-present), Islamic State of Iraq and Syria, Kurdish_
 
 ### [Russia bans all United States agricultural products, European Union fruit and vegetable imports in response to Western sanctions imposed on Russia over the Ukrainian crisis. ](/news/2014/08/6/russia-bans-all-united-states-agricultural-products-european-union-fruit-and-vegetable-imports-in-response-to-western-sanctions-imposed-on.md)
 Moscow plans to ban all US agricultural products, including poultry, as well as EU fruit and vegetable imports in response to Western sanctions imposed on Russia over the Ukrainian crisis, according to the country’s agricultural watchdog.

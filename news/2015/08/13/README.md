@@ -1,9 +1,9 @@
 ## [2015-08-13](/news/2015/08/13/index.md)
 
 ### [A truck bombing in Baghdad, Iraq kills at least 76 people and wounds 212 others. Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2015/08/13/a-truck-bombing-in-baghdad-iraq-kills-at-least-76-people-and-wounds-212-others-islamic-state-of-iraq-and-the-levant-claims-responsibility.md)
-_Context: 2015 Baghdad market truck bomb, Baghdad, ISIL, Iraq, Iraq War (2014–present)_
+_Context: 2015 Baghdad market truck bomb, Baghdad, ISIL, Iraq, Iraq War (2014-present)_
 
-### [The United States believes that ISIL used a sulfur mustard agent against Kurdish forces in Iraq earlier this week. {{cn|date=December 2015}}](/news/2015/08/13/the-united-states-believes-that-isil-used-a-sulfur-mustard-agent-against-kurdish-forces-in-iraq-earlier-this-week-cn-date-december-2015.md)
+### [The United States believes that ISIL used a sulfur mustard agent against Kurdish forces in Iraq earlier this week. date=December 2015](/news/2015/08/13/the-united-states-believes-that-isil-used-a-sulfur-mustard-agent-against-kurdish-forces-in-iraq-earlier-this-week-date-december-2015.md)
 _Context: ISIL, Iraq, Kurdish, Rojava Revolution, United States, mustard gas_
 
 ### [The New Zealand government-owned, coal-mining company, Solid Energy, goes into temporary voluntary administration, asking creditors to freeze most of its debt. ](/news/2015/08/13/the-new-zealand-government-owned-coal-mining-company-solid-energy-goes-into-temporary-voluntary-administration-asking-creditors-to-freez.md)

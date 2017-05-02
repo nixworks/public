@@ -13,7 +13,7 @@ _Context: Bangkok, Hua Hin_
 _Context: Samoa, the deadly tsunami_
 
 ### [ The Canadian province of Quebec is planning a lawsuit against tobacco companies to seek damages for healthcare costs. ](/news/2009/10/5/the-canadian-province-of-quebec-is-planning-a-lawsuit-against-tobacco-companies-to-seek-damages-for-healthcare-costs.md)
-_Context: Canadian, Quebec_
+_Context: Canada, Quebec_
 
 ### [ Five people are killed in a suicide bomb attack at a United Nations World Food Programme office in Islamabad, Pakistan. ](/news/2009/10/5/five-people-are-killed-in-a-suicide-bomb-attack-at-a-united-nations-world-food-programme-office-in-islamabad-pakistan.md)
 An explosion apparently caused by a suicide bomber in the lobby of the World Food Program office in Islamabad killed at least five people.
@@ -25,7 +25,7 @@ Roberto Micheletti cancels decree limiting freedom of speech, assembly and movem
 _Context: 14th Dalai Lama, Barack Obama, China's, United States, president_
 
 ### [ The Deputy Chief Executive of France Tlcom, Louis-Pierre Wene, resigns over a series of suicides at the company. ](/news/2009/10/5/the-deputy-chief-executive-of-france-telecom-louis-pierre-wene-resigns-over-a-series-of-suicides-at-the-company.md)
-_Context: France Télécom, suicide_
+_Context: France Tlcom, suicide_
 
 ### [ Airline pilots in Europe stage demonstrations in several cities against working hours. ](/news/2009/10/5/airline-pilots-in-europe-stage-demonstrations-in-several-cities-against-working-hours.md)
 _Context: Europe_

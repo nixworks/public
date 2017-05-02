@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Heavy rain of more than {{convert|1|ft}} causes major flooding in Houston, Texas, affecting 1,000 homes, causing five deaths and causing power outages for over 100,000 residents. ](/news/2016/04/18/heavy-rain-of-more-than-convert-1-ft-causes-major-flooding-in-houston-texas-affecting-1-000-homes-causing-five-deaths-and-causing-pow.md) _Context: Houston, Texas_
+1. [Heavy rain of more than 1|ft causes major flooding in Houston, Texas, affecting 1,000 homes, causing five deaths and causing power outages for over 100,000 residents. ](/news/2016/04/18/heavy-rain-of-more-than-1-ft-causes-major-flooding-in-houston-texas-affecting-1-000-homes-causing-five-deaths-and-causing-power-outages-f.md) _Context: Houston, Texas_
 2. [U.S. police in Harris County, Texas, arrest Shannon Miles for the alleged murder of Sheriff Deputy Darren Goforth on Friday. ](/news/2015/08/29/u-s-police-in-harris-county-texas-arrest-shannon-miles-for-the-alleged-murder-of-sheriff-deputy-darren-goforth-on-friday.md) _Context: Harris County, Texas_
 3. [A sixth person is found to have died in this week's floods in Harris County, Texas, which contains the city of Houston. ](/news/2015/05/27/a-sixth-person-is-found-to-have-died-in-this-week-s-floods-in-harris-county-texas-which-contains-the-city-of-houston.md) _Context: Harris County, Texas_
 4. [Continental Airlines announces that it plans to lay off 500 staff in Houston, Texas following its merger with United Airlines. ](/news/2011/02/7/continental-airlines-announces-that-it-plans-to-lay-off-500-staff-in-houston-texas-following-its-merger-with-united-airlines.md) _Context: Houston, Texas_

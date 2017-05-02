@@ -25,10 +25,10 @@ _Context: Europe, Poland, Swiss_
 _Context: Hunan, Xiangtan County_
 
 ### [Sea Shepherd claims that the Japanese whaling fleet's ''Shonan Maru'' deliberately rammed and sunk their ship, the ''Ady Gil''.](/news/2010/01/6/sea-shepherd-claims-that-the-japanese-whaling-fleet-s-shanan-maru-deliberately-rammed-and-sunk-their-ship-the-ady-gil.md)
-_Context: Ady Gil, Sea Shepherd, Shōnan Maru, whaling_
+_Context: Ady Gil, Sea Shepherd, Shonan Maru, whaling_
 
 ### [The Dauletabad - Salyp Yar gas pipeline between Turkmenistan and Iran is opened. ](/news/2010/01/6/the-dauletabad-a-salyp-yar-gas-pipeline-between-turkmenistan-and-iran-is-opened.md)
-_Context: Dauletabad – Salyp Yar gas pipeline, Iran, Turkmenistan_
+_Context: Dauletabad - Salyp Yar gas pipeline, Iran, Turkmenistan_
 
 ### [Algerian US ambassador Abdellah Baali and Nigerian Information Minister Dora Akunyili are upset at the decision of the United States to subject Algerians and Nigerians to tougher-than-usual security tests at airports, saying it is "discrimination" and "risks ties". Both have officially complained. ](/news/2010/01/6/algerian-us-ambassador-abdellah-baali-and-nigerian-information-minister-dora-akunyili-are-upset-at-the-decision-of-the-united-states-to-subj.md)
 _Context: Abdellah Baali, Algeria, Dora Akunyili, Nigeria, United States_

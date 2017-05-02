@@ -13,7 +13,7 @@ _Context: California, Oakland, California, United States, killed, police officer
 _Context: Board of Control for Cricket in India, India, Indian Premier League, win_
 
 ### [ India and Pakistan exchange gunfire at the Line of Control. ](/news/2009/03/22/india-and-pakistan-exchange-gunfire-at-the-line-of-control.md)
-_Context: Gunshot, India, India–Pakistan relations, Line of Control, Pakistan_
+_Context: Gunshot, India, India-Pakistan relations, Line of Control, Pakistan_
 
 ### [ England defeats New Zealand to win the Women's Cricket World Cup. ](/news/2009/03/22/england-defeats-new-zealand-to-win-the-women-s-cricket-world-cup.md)
 _Context: England, New Zealand, Women's Cricket World Cup, win_

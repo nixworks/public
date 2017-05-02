@@ -1,6 +1,6 @@
 ### [2008-09-6](/news/2008/09/6/index.md)
 
-#  Darren Aronofsky's ''The Wrestler'' wins the Golden Lion for best film at the Venice Film Festival. [http://ap.google.com/article/ALeqM5ghYFThcBadzak8ULA-rG0YHCKACgD931CNCO0 (AP via Google News)]{{dead link|date=October 2012}}
+#  Darren Aronofsky's ''The Wrestler'' wins the Golden Lion for best film at the Venice Film Festival. [http://ap.google.com/article/ALeqM5ghYFThcBadzak8ULA-rG0YHCKACgD931CNCO0 (AP via Google News)]date=October 2012
 
 
 

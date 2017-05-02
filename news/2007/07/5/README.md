@@ -22,7 +22,7 @@ _Context: Belgium, Bernard Ntuyahaga, Rwanda, Rwandan Genocide, army, jail, majo
 _Context: Zimbabwe, Zimbabwe Congress of Trade Unions, wages_
 
 ### [ Nine people are killed at Culiacn International Airport in the Mexican state of Sinaloa as a cargo aircraft fails to take off and careens across a roadway, hitting several vehicles and business premises. ](/news/2007/07/5/nine-people-are-killed-at-culiacan-international-airport-in-the-mexican-state-of-sinaloa-as-a-cargo-aircraft-fails-to-take-off-and-careens.md)
-_Context: Culiacán International Airport, Mexican state, Sinaloa_
+_Context: Culiacn International Airport, Mexican state, Sinaloa_
 
 ### [ An armed man holds several people hostage at a bank in the Montreal suburb of Longueuil. The situation is resolved without injury. ](/news/2007/07/5/an-armed-man-holds-several-people-hostage-at-a-bank-in-the-montreal-suburb-of-longueuil-the-situation-is-resolved-without-injury.md)
 _Context: Longueuil, city of Montreal_

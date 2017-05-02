@@ -11,8 +11,8 @@
 
 ### Related:
 
-1. [110 people are wounded as a stadium collapses during a car race in Paran, Brazil. ](/news/2010/09/20/110-people-are-wounded-as-a-stadium-collapses-during-a-car-race-in-parana-brazil.md) _Context: Brazil, Paran·_
-2. [ Brazilian Federal Police confiscate 3.8&nbsp;tons of cocaine from a ship at a Paranagua port. ](/news/2009/02/7/brazilian-federal-police-confiscate-3-8-nbsp-tons-of-cocaine-from-a-ship-at-a-paranagua-port.md) _Context: Brazil, Paranagu√°_
+1. [110 people are wounded as a stadium collapses during a car race in Paran, Brazil. ](/news/2010/09/20/110-people-are-wounded-as-a-stadium-collapses-during-a-car-race-in-parana-brazil.md) _Context: Brazil, Paran_
+2. [ Brazilian Federal Police confiscate 3.8&nbsp;tons of cocaine from a ship at a Paranagua port. ](/news/2009/02/7/brazilian-federal-police-confiscate-3-8-nbsp-tons-of-cocaine-from-a-ship-at-a-paranagua-port.md) _Context: Brazil, Paranagua_
 3. [A general strike is held in Brazil, the first one in twenty years. ](/news/2017/04/28/a-general-strike-is-held-in-brazil-the-first-one-in-twenty-years.md) _Context: Brazil_
 4. [In Paraguay, around 50 armed men, allegedly belonging to the Brazil-based Primeiro Comando da Capital criminal gang, storm a security vault and police headquarters in Ciudad del Este, escaping with around $6 million in a daring cross-border raid. ](/news/2017/04/24/in-paraguay-around-50-armed-men-allegedly-belonging-to-the-brazil-based-primeiro-comando-da-capital-criminal-gang-storm-a-security-vault.md) _Context: Brazil_
 5. [SpaceX successfully launches the EchoStar 23 satellite, a Direct-to-home television broadcast services for Brazil, into a geosynchronous transfer orbit, using the fully expendable version of their Falcon 9 launch vehicle. ](/news/2017/03/16/spacex-successfully-launches-the-echostar-23-satellite-a-direct-to-home-television-broadcast-services-for-brazil-into-a-geosynchronous-tra.md) _Context: Brazil_

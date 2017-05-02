@@ -16,7 +16,7 @@ Volkswagen agrees to compensation U.S. dealers $1.2 billion over emissions scand
 Mexico&#039;s Colima volcano erupts, spewing out ash and thick black smoke and forcing the evacuation of two nearby villages.
 
 ### [The leader of the Spanish Socialist Workers' Party, Pedro Sanchez, resigns. ](/news/2016/10/1/the-leader-of-the-spanish-socialist-workers-party-pedro-sa-nchez-resigns.md)
-_Context: Pedro Sánchez, Socialist Workers' Party_
+_Context: Pedro Sanchez, Socialist Workers' Party_
 
 ### [The Obama administration through the United States Department of Commerce transfers oversight of the technical management of the Internet by the Internet Corporation for Assigned Names and Numbers to an international consortium of stakeholders. ](/news/2016/10/1/the-obama-administration-through-the-united-states-department-of-commerce-transfers-oversight-of-the-technical-management-of-the-internet-by.md)
 _Context: Internet, Internet Corporation for Assigned Names and Numbers, Obama Administration, U.S. Commerce Department_

@@ -7,7 +7,7 @@ Six people have been arrested on allegations of plotting to kill soldiers at an 
 _Context: Bill Clinton, Third World, anti-AIDS drugs, president_
 
 ### [ Andre Boisclair resigns as the leader of Canada's Parti Quebecois. ](/news/2007/05/8/andra-c-boisclair-resigns-as-the-leader-of-canada-s-parti-qua-c-ba-c-cois.md)
-_Context: André Boisclair, Canadian, Parti Québécois_
+_Context: Andre Boisclair, Canada, Parti Quebecois_
 
 ### [ The Treasurer of Australia Peter Costello delivers his twelfth budget with significant tax cuts and increases in government spending on education and health. ](/news/2007/05/8/the-treasurer-of-australia-peter-costello-delivers-his-twelfth-budget-with-significant-tax-cuts-and-increases-in-government-spending-on-edu.md)
 _Context: Peter Costello, Treasurer of Australia, budget_
@@ -16,7 +16,7 @@ _Context: Peter Costello, Treasurer of Australia, budget_
 _Context: Movement for the Emancipation of the Niger Delta, Niger River, Nigeria, oil, pipeline_
 
 ### [ Home rule returns to Northern Ireland. DUP leader Ian Paisley and Sinn Fein's Martin McGuinness take office as First Minister and Deputy First Minister, respectively. ](/news/2007/05/8/home-rule-returns-to-northern-ireland-dup-leader-ian-paisley-and-sinn-fa-c-in-s-martin-mcguinness-take-office-as-first-minister-and-deputy-f.md)
-_Context: Democratic Unionist Party, First Minister, Ian Paisley, Martin McGuinness, Northern Ireland, Sinn Féin, devolution_
+_Context: Democratic Unionist Party, First Minister, Ian Paisley, Martin McGuinness, Northern Ireland, Sinn Fein, devolution_
 
 ### [ War in Iraq: A suicide bomber kills at least 10 people and injures many more in an attack on the Shi'ite city of Kufa in Iraq. ](/news/2007/05/8/war-in-iraq-p-a-suicide-bomber-kills-at-least-10-people-and-injures-many-more-in-an-attack-on-the-shi-ite-city-of-kufa-in-iraq.md)
 _Context: Iraq, Kufa, Shi'ite, War in Iraq, suicide bomber_
@@ -25,7 +25,7 @@ _Context: Iraq, Kufa, Shi'ite, War in Iraq, suicide bomber_
 _Context: Defense Department, Iraq, U.S._
 
 ### [ Tomislav Nikolic, the temporary leader of the Serbian Radical Party, is elected as the Speaker of the National Assembly of Serbia. ](/news/2007/05/8/tomislav-nikolia-the-temporary-leader-of-the-serbian-radical-party-is-elected-as-the-speaker-of-the-national-assembly-of-serbia.md)
-_Context: Serbian Radical Party, Speaker, Tomislav Nikolić, parliament_
+_Context: Serbian Radical Party, Speaker, Tomislav Nikolic, parliament_
 
 ### [ Former Prime Minister of Australia Gough Whitlam gives evidence to the coronial inquest into the death of the Balibo Five in Balibo, East Timor in October 1975. ](/news/2007/05/8/former-prime-minister-of-australia-gough-whitlam-gives-evidence-to-the-coronial-inquest-into-the-death-of-the-balibo-five-in-balibo-east-t.md)
 _Context: 1975, Balibo, Balibo Five, East Timor, Gough Whitlam, Prime Minister of Australia, coronial_

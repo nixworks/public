@@ -13,7 +13,7 @@ _Context: Egyptian military, ISIL, Sinai, Sinai insurgency_
 Confrontations erupted on backdrop of new Jewish residents entering neighborhood last week.
 
 ### [Venezuelan director Lorenzo Vigas wins a Golden Lion award for Best Film at the Venice Film Festival for ''Desde alla'' (''From Afar''). ](/news/2015/09/12/venezuelan-director-lorenzo-vigas-wins-a-golden-lion-award-for-best-film-at-the-venice-film-festival-for-desde-alla-from-afar.md)
-_Context: Desde allá, Golden Lion, Lorenzo Vigas, Venezuelan, Venice Film Festival_
+_Context: Desde alla, Golden Lion, Lorenzo Vigas, Venezuelan, Venice Film Festival_
 
 ### [An Indian Railways train derailment near Gulbarga in Karnataka state kills at least two people with several others injured. ](/news/2015/09/12/an-indian-railways-train-derailment-near-gulbarga-in-karnataka-state-kills-at-least-two-people-with-several-others-injured.md)
 _Context: Gulbarga, Indian Railways, Karnataka_

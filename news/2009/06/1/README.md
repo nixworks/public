@@ -4,7 +4,7 @@
 Leader of former Marxist rebels restores ties with Cuba in first act as president.
 
 ### [ The Central Bank of Nicaragua introduces new 100 and 200 Crdoba banknotes. ](/news/2009/06/1/the-central-bank-of-nicaragua-introduces-new-100-and-200-cordoba-banknotes.md)
-_Context: Córdoba banknotes, Nicaragua_
+_Context: Crdoba banknotes, Nicaragua_
 
 ### [ Dow Jones & Company will replace Citigroup and General Motors with Travelers Companies and Cisco Systems on its Industrial Average on June 8. ](/news/2009/06/1/dow-jones-company-will-replace-citigroup-and-general-motors-with-travelers-companies-and-cisco-systems-on-its-industrial-average-on-june.md)
 _Context: Cisco, Citigroup, Dow Jones & Company, Dow Jones Industrial Average, General Motors, June 8, Travelers Companies_

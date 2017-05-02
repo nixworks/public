@@ -31,7 +31,7 @@ _Context: International Criminal Court, Libya, Muammar Gaddafi, Saif al-Islam_
 _Context: Auburn University, Auburn, Alabama_
 
 ### [Venezuelan president Hugo Chavez claims his latest tests since his cancer treatment claim to deliver "absolutely fine" results. ](/news/2012/06/10/venezuelan-president-hugo-cha-vez-claims-his-latest-tests-since-his-cancer-treatment-claim-to-deliver-absolutely-fine-results.md)
-_Context: Hugo Chávez, Venezuela_
+_Context: Hugo Chavez, Venezuela_
 
 ### [Local elections take place in Romania. The ruling Social Liberal Union wins by a landslide. ](/news/2012/06/10/local-elections-take-place-in-romania-the-ruling-social-liberal-union-wins-by-a-landslide.md)
 _Context: Local elections, Romania, Social Liberal Union_

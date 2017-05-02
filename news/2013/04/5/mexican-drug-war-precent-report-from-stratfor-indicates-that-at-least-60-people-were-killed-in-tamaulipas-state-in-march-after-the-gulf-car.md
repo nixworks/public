@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Mexican Drug War:Gulf Cartel leader Mario Ramirez Trevino is arrested in the state of Tamaulipas. ](/news/2013/08/17/mexican-drug-war-pgulf-cartel-leader-mario-ramarez-trevia-o-is-arrested-in-the-state-of-tamaulipas.md) _Context: Gulf Cartel, Mario Ramírez Treviño, Mexican Drug War, Tamaulipas_
+1. [Mexican Drug War:Gulf Cartel leader Mario Ramirez Trevino is arrested in the state of Tamaulipas. ](/news/2013/08/17/mexican-drug-war-pgulf-cartel-leader-mario-ramarez-trevia-o-is-arrested-in-the-state-of-tamaulipas.md) _Context: Gulf Cartel, Mario Ramirez Trevino, Mexican Drug War, Tamaulipas_
 2. [Jorge Eduardo Costilla Snchez, the supreme leader of the drug trafficking organization known as the Gulf Cartel and one of the most-wanted drug lords in Mexico, is arrested in the state of Tamaulipas. ](/news/2012/09/13/jorge-eduardo-costilla-sanchez-the-supreme-leader-of-the-drug-trafficking-organization-known-as-the-gulf-cartel-and-one-of-the-most-wanted.md) _Context: Gulf Cartel, Mexican Drug War, Tamaulipas_
 3. [Gunfire and roadblocks are reported in the city of Reynosa on the border with the US after local leader "El Gafe" of the Gulf Cartel is arrested. ](/news/2015/04/17/gunfire-and-roadblocks-are-reported-in-the-city-of-reynosa-on-the-border-with-the-us-after-local-leader-el-gafe-of-the-gulf-cartel-is-arre.md) _Context: Gulf Cartel, Mexican Drug War_
 4. [Mexican Drug War:The Mexican police find 9 mutilated bodies inside a SUV with Texas license plates in the northern state of Tamaulipas, Mexico. ](/news/2013/04/2/mexican-drug-war-pthe-mexican-police-find-9-mutilated-bodies-inside-a-suv-with-texas-license-plates-in-the-northern-state-of-tamaulipas-mex.md) _Context: Mexican Drug War, Tamaulipas_

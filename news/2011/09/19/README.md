@@ -43,7 +43,7 @@ Anti-terror police have arrested seven people after a long-running intelligence 
 _Context: George Cadle Price, Prime Minister of Belize_
 
 ### [Sinn Fein nominate John O'Dowd to replace Martin McGuinness on a temporary basis as deputy First Minister of Northern Ireland. ](/news/2011/09/19/sinn-fa-c-in-nominate-john-o-dowd-to-replace-martin-mcguinness-on-a-temporary-basis-as-deputy-first-minister-of-northern-ireland.md)
-_Context: John O'Dowd, Martin McGuinness, Sinn Féin, deputy First Minister of Northern Ireland_
+_Context: John O'Dowd, Martin McGuinness, Sinn Fein, deputy First Minister of Northern Ireland_
 
 ### [The President of the United States, Barack Obama, outlines a plan to cut US deficits by $3 trillion over 10 years, with half of the reductions coming from tax increases. ](/news/2011/09/19/the-president-of-the-united-states-barack-obama-outlines-a-plan-to-cut-us-deficits-by-3-trillion-over-10-years-with-half-of-the-reductio.md)
 _Context: Barack Obama, president_

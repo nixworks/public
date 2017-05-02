@@ -16,7 +16,7 @@ _Context: 2015 Mina stampede, Associated Press, Hajj, disaster_
 A hillside collapsed onto Santa Catarina Pinula on the south-eastern edge of Guatemala City on October 1, burying more than a 100 homes under tons of earth, rock and trees.
 
 ### [The United Nations envoy for Libya, Bernardino Leon, proposes a government of national unity for Libya led by Fayez Sarraj as Prime Minister. ](/news/2015/10/9/the-united-nations-envoy-for-libya-bernardino-lea3n-proposes-a-government-of-national-unity-for-libya-led-by-fayez-sarraj-as-prime-ministe.md)
-_Context: Bernardino León, Libya, Libyan Civil War (2014–present), Libyan Prime Minister, United Nations_
+_Context: Bernardino Leon, Libya, Libyan Civil War (2014-present), Libyan Prime Minister, United Nations_
 
 ### [Australia is to send refugees from Nauru and Manus Island to the Philippines. ](/news/2015/10/9/australia-is-to-send-refugees-from-nauru-and-manus-island-to-the-philippines.md)
 Refugees who travelled to Australia by boat could be permanently resettled in the Philippines under a deal being negotiated, but senior government sources fear the premature leaking of the deal to the media could see the proposal scuttled.

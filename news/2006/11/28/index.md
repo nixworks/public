@@ -4,13 +4,13 @@
 Judge rules that the Treasury Department has denied blind people reasonable access to paper money by keeping it the same size and texture.
 
 ### [ Speaker-designate of the United States House of Representatives Nancy Pelosi announces that controversial Democratic Rep. Alcee Hastings will not be the chairman of the House Permanent Select Committee on Intelligence in the 110th Congress. ](/news/2006/11/28/speaker-designate-of-the-united-states-house-of-representatives-nancy-pelosi-announces-that-controversial-democratic-rep-alcee-hastings-wi.md)
-_Context: 110th Congress, Democrat, House Permanent Select Committee on Intelligence, Nancy Pelosi, Rep. Alcee Hastings, Speaker-designate, U.S. House_
+_Context: 110th Congress, Democratic, House Permanent Select Committee on Intelligence, Nancy Pelosi, Rep. Alcee Hastings, Speaker-designate, U.S. House_
 
 ### [ Rafael Correa will be the next President of Ecuador after winning the election with 57 per cent of the vote (94% counted). He will not be officially confirmed until all the votes are counted. ](/news/2006/11/28/rafael-correa-will-be-the-next-president-of-ecuador-after-winning-the-election-with-57-per-cent-of-the-vote-94-counted-he-will-not-be-o.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ The Canadian House of Commons supports a motion recognising the people of Quebec as a separate nation within a united Canada. ](/news/2006/11/28/the-canadian-house-of-commons-supports-a-motion-recognising-the-people-of-quebec-as-a-separate-nation-within-a-united-canada.md)
-_Context: Canadian, Canadian House of Commons, Quebec, nation_
+_Context: Canada, Canadian House of Commons, Quebec, nation_
 
 ### [ Ben Bernanke, the Chairman of the United States Federal Reserve predicts that the US economy should undertake a moderate expansion but inflation risks are "primarily to the upside." ](/news/2006/11/28/ben-bernanke-the-chairman-of-the-united-states-federal-reserve-predicts-that-the-us-economy-should-undertake-a-moderate-expansion-but-infl.md)
 _Context: Ben Bernanke, Federal Reserve, United States, inflation_

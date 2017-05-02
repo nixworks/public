@@ -49,7 +49,7 @@ _Context: Pakistan, devastating floods_
 At least 113 people killed after cloudburst causes water to sweep through Leh.
 
 ### [Rescue efforts continue to save 34 people trapped in a mine after a rock collapse near Copiapo. ](/news/2010/08/6/rescue-efforts-continue-to-save-34-people-trapped-in-a-mine-after-a-rock-collapse-near-copiapa3.md)
-_Context: Copiapó_
+_Context: Copiapo_
 
 ### [China suspends traffic on the Yalu River and evacuates more than 40,000 people from Dandong over fears of flooding amid unprecedented levels of rainfall. ](/news/2010/08/6/china-suspends-traffic-on-the-yalu-river-and-evacuates-more-than-40-000-people-from-dandong-over-fears-of-flooding-amid-unprecedented-levels.md)
 China has suspended traffic on the Yalu river, which forms a border with North Korea, amid reports of heavy rains and flooding.
@@ -64,7 +64,7 @@ _Context: Indonesia, Karangetang, Siau, volcanic activity_
 The Japanese city of Hiroshima marks the 65th anniversary of the atomic bomb attack, with the US attending for the first time.
 
 ### [Venezuela's Hugo Chavez promises that his foreign minister will attend the inauguration of Juan Manuel Santos as Colombian president, two weeks after direct relations between the two countries were broken off, thanks to mediation efforts by President of Brazil Luiz Inacio Lula da Silva. ](/news/2010/08/6/venezuela-s-hugo-cha-vez-promises-that-his-foreign-minister-will-attend-the-inauguration-of-juan-manuel-santos-as-colombian-president-two-w.md)
-_Context: Brazilian President, Colombia, Colombia–Venezuela relations, Hugo Chávez, Juan Manuel Santos, Luiz Inácio Lula da Silva, Venezuela_
+_Context: Brazilian President, Colombia, Colombia-Venezuela relations, Hugo Chavez, Juan Manuel Santos, Luiz Inacio Lula da Silva, Venezuela_
 
 ### [South Africa recalls its ambassador to Rwanda. ](/news/2010/08/6/south-africa-recalls-its-ambassador-to-rwanda.md)
 South Africa recalls its ambassador to Rwanda in a diplomatic row over the shooting of an exiled Rwandan general in Johannesburg.

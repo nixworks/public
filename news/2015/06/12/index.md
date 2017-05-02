@@ -7,7 +7,7 @@ _Context: Boko Haram, Boko Haram insurgency, Maiduguri, Nigeria_
 _Context: Sana'a, Saudi-led coalition, World Heritage List_
 
 ### [An armed group storms the Tunisian embassy in Libya taking ten hostages. ](/news/2015/06/12/an-armed-group-storms-the-tunisian-embassy-in-libya-taking-ten-hostages.md)
-_Context: Libya, Libyan Civil War (2014–present), Tunisia_
+_Context: Libya, Libyan Civil War (2014-present), Tunisia_
 
 ### [The Israel Defense Forces Advocate General has announced criminal investigations into three more incidents from Operation Protective Edge.  Of the 190 incidents reported to the IDF, investigations have been completed on 105, with seven leading to criminal investigations. ](/news/2015/06/12/the-israel-defense-forces-advocate-general-has-announced-criminal-investigations-into-three-more-incidents-from-operation-protective-edge.md)
 In light of the UN report to be submitted next week, IDF advocate general opens three more probes into alleged unsanctioned use of weapons by IDF soldiers during Gaza war last summer.
@@ -16,7 +16,7 @@ In light of the UN report to be submitted next week, IDF advocate general opens 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [Public school teachers in the Brazilian state of Sao Paulo vote to return to work after three months of strike action. [http://www.bbc.com/news/world-latin-america-33120843 (BBC)]|](/news/2015/06/12/public-school-teachers-in-the-brazilian-state-of-sapso-paulo-vote-to-return-to-work-after-three-months-of-strike-action-http-www-bbc-com.md)
-_Context: Brazil, São Paulo_
+_Context: Brazil, Sao Paulo_
 
 ### [Japan approves a thirty-to-forty year plan to clean up the site of the Fukushima Daiichi nuclear disaster. ](/news/2015/06/12/japan-approves-a-thirty-to-forty-year-plan-to-clean-up-the-site-of-the-fukushima-daiichi-nuclear-disaster.md)
 _Context: Fukushima Daiichi nuclear disaster, Japan_
@@ -25,7 +25,7 @@ _Context: Fukushima Daiichi nuclear disaster, Japan_
 _Context: Nepal, Taplejung district_
 
 ### [California orders the biggest cuts to water allocations in the state's history because of the worst drought in the state's history. ](/news/2015/06/12/california-orders-the-biggest-cuts-to-water-allocations-in-the-state-s-history-because-of-the-worst-drought-in-the-state-s-history.md)
-_Context: 2012–15 North American drought, California_
+_Context: 2012-15 North American drought, California_
 
 ### [The death toll from the South Korean MERS outbreak rises to 11 with 126 people now diagnosed with the disease but the number of people in quarantine falls slightly to 3,680. Two hospitals have closed as a result of the outbreak and the Bank of Korea has lowered interest rates due to concerns about effects of the outbreak on the economy. ](/news/2015/06/12/the-death-toll-from-the-south-korean-mers-outbreak-rises-to-11-with-126-people-now-diagnosed-with-the-disease-but-the-number-of-people-in-qu.md)
  South Korea confirmed its 11th death from Middle East Respiratory Syndrome (MERS) on Friday, while reporting four new cases that brought the number of people diagnosed with the disease here to 126.

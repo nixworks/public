@@ -1,7 +1,7 @@
 ## [2009-10-29](/news/2009/10/29/index.md)
 
 ### [ The Haitian Senate votes to remove Prime Minister Michle Pierre-Louis. ](/news/2009/10/29/the-haitian-senate-votes-to-remove-prime-minister-michele-pierre-louis.md)
-_Context: Haiti, Michèle Pierre-Louis, Prime Minister of Haiti, Senate_
+_Context: Haiti, Michle Pierre-Louis, Prime Minister of Haiti, Senate_
 
 ### [ The ''de facto'' regime in Honduras files suit with the International Court of Justice over Brazil's continued harbouring of exiled president Manuel Zelaya in its Tegucigalpa embassy. ](/news/2009/10/29/the-de-facto-regime-in-honduras-files-suit-with-the-international-court-of-justice-over-brazil-s-continued-harbouring-of-exiled-preside.md)
 _Context: Brazil, Honduran, International Court of Justice, Manuel Zelaya, Tegucigalpa, political crisis in the country_
@@ -37,7 +37,7 @@ _Context: Iran, Iranian President, Mahmoud Ahmadinejad, nuclear scientist_
 _Context: African Union, Guinea, Moussa Dadis Camara_
 
 ### [ Rwandan man Dsir Munyaneza is given a life sentence in Canada for his role in the Rwandan genocide under the Crimes Against Humanity and War Crimes Act. ](/news/2009/10/29/rwandan-man-desire-munyaneza-is-given-a-life-sentence-in-canada-for-his-role-in-the-rwandan-genocide-under-the-crimes-against-humanity-and.md)
-_Context: Canadian, Crimes Against Humanity and War Crimes Act, Désiré Munyaneza, Rwanda, Rwandan Genocide_
+_Context: Canada, Crimes Against Humanity and War Crimes Act, Dsir Munyaneza, Rwanda, Rwandan Genocide_
 
 ### [ A gunman opens fire at the Adat Yeshurun Valley Sephardic synagogue in North Hollywood, Los Angeles, United States, and wounds two people. ](/news/2009/10/29/a-gunman-opens-fire-at-the-adat-yeshurun-valley-sephardic-synagogue-in-north-hollywood-los-angeles-united-states-and-wounds-two-people.md)
 _Context: Los Angeles, North Hollywood, United States, synagogue_

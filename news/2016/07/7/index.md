@@ -55,7 +55,7 @@ Embattled Australian Prime Minister Malcolm Turnbull appeared likely to retain p
 _Context: Andrea Leadsom, British Parliament, Conservative Party, Conservative Party (UK) leadership election, 2016, David Cameron, Department of Energy and Climate Change, Home Secretary, Michael Gove, Prime Minster, Secretary of State for Justice, Theresa May_
 
 ### [The United States Department of State reopens an investigation into the possible mishandling of classified information by former Secretary of State and presumptive Democratic Party presidential nominee Hillary Clinton and her top aides. ](/news/2016/07/7/the-united-states-department-of-state-reopens-an-investigation-into-the-possible-mishandling-of-classified-information-by-former-secretary-o.md)
-_Context: Democrat, Hillary Clinton, Hillary Clinton email scandal, State Department_
+_Context: Democratic, Hillary Clinton, Hillary Clinton email scandal, State Department_
 
 ### [Scientists manage to extract one last image from the Hitomi x-ray spacecraft, which broke up last March while orbiting Earth. Before it died, the spacecraft captured an image which measured the X-ray activity of the Perseus cluster. ](/news/2016/07/7/scientists-manage-to-extract-one-last-image-from-the-hitomi-x-ray-spacecraft-which-broke-up-last-march-while-orbiting-earth-before-it-died.md)
 A doomed Japanese satellite managed to capture a spectacular view of a cluster of galaxies 250 million light years away just before it died, scientists reveal.

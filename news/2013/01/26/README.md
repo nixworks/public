@@ -25,13 +25,13 @@ An Egyptian court sentences 21 people to death over 2012 clashes between footbal
 _Context: Aaron Swartz, Hacktivist, United States Sentencing Commission, hacker group Anonymous_
 
 ### [Milos Zeman wins Czech presidential election and becomes the next President of the Czech Republic running ahead of Karel Schwarzenberg. ](/news/2013/01/26/miloa-zeman-wins-czech-presidential-election-and-becomes-the-next-president-of-the-czech-republic-running-ahead-of-karel-schwarzenberg.md)
-_Context: Czech, Czech presidential election, Karel Schwarzenberg, Miloš Zeman, president_
+_Context: Czech, Czech presidential election, Karel Schwarzenberg, Milos Zeman, president_
 
 ### [Lee Li Lian of the Workers' Party wins Punggol East by-election in Singapore and becomes the next MP for Punggol East. This was the second Singaporean by-election after less than a year. ](/news/2013/01/26/lee-li-lian-of-the-workers-party-wins-punggol-east-by-election-in-singapore-and-becomes-the-next-mp-for-punggol-east-this-was-the-second-s.md)
 In less than a year, Singapore will have a second by-election, as Prime Minister Lee Hsien Loong has decided to call for a by-election in Punggol East, less than two months after it fell vacant.. Read more at straitstimes.com.
 
 ### [Kathleen Wynne is elected as the leader of the ruling Ontario Liberal Party and will become the first female Premier of the Canadian province of Ontario and the first openly gay premier in Canadian history. ](/news/2013/01/26/kathleen-wynne-is-elected-as-the-leader-of-the-ruling-ontario-liberal-party-and-will-become-the-first-female-premier-of-the-canadian-provinc.md)
-_Context: Canadian, Kathleen Wynne, Ontario, Ontario Liberal Party, Premier, gay and bisexual men_
+_Context: Canada, Kathleen Wynne, Ontario, Ontario Liberal Party, Premier, gay and bisexual men_
 
 ### [In tennis, Victoria Azarenka wins the women's singles at the 2013 Australian Open after her three-set victory over Li Na in the final. ](/news/2013/01/26/in-tennis-victoria-azarenka-wins-the-women-s-singles-at-the-2013-australian-open-after-her-three-set-victory-over-li-na-in-the-final.md)
 Victoria Azarenka retains her Australian Open title and kept hold of the world number one spot with victory over Li Na in the Melbourne final.

@@ -1,7 +1,7 @@
 ## [2016-11-26](/news/2016/11/26/index.md)
 
 ### [ A car bomb kills at least 20 in Mogadishu. ](/news/2016/11/26/a-car-bomb-kills-at-least-20-in-mogadishu.md)
-_Context: Mogadishu, War in Somalia (2009–present)_
+_Context: Mogadishu, War in Somalia (2009-present)_
 
 ### [ Four suicide bombers and two soldiers are killed in a failed attack on the Ghalani camp in the Mohmand tribal distrct. Jamaat-ul-Ahrar claims responsibility. ](/news/2016/11/26/four-suicide-bombers-and-two-soldiers-are-killed-in-a-failed-attack-on-the-ghalani-camp-in-the-mohmand-tribal-distrct-jamaat-ul-ahrar-clai.md)
 Security forces valiantly defeated suicide attack on Ghalani Camp: ISPR.

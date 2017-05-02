@@ -1,0 +1,25 @@
+### [2013-11-19](/news/2013/11/19/index.md)
+
+# Two suicide bombers target the Iranian embassy in the Lebanese capital Beirut killing at least 23 people. 
+
+Twin blasts that killed 23 people near Iran&#039;s embassy in Beirut were suicide bombings, the army says.
+
+
+### Source:
+
+1. [Daily News Egypt](http://www.dailynewsegypt.com/2013/11/19/al-qaeda-affiliate-claims-responsibility-for-iranian-embassy-attack-in-beirut/)
+2. [France 24](http://www.france24.com/en/20131119-deadly-blasts-iranian-embassy-beirut)
+3. [Reuters via ABC News Australia](http://www.abc.net.au/news/2013-11-19/blasts-near-iranian-embassy-in-beirut/5103472)
+
+### Related:
+
+1. [The United States Supreme Court rules that almost $2 billion in frozen Iranian assets must be turned over to American families of people killed in attacks blamed on Iran, including the 1983 bombing of a U.S. Marine Corps barracks in Beirut, Lebanon. ](/news/2016/04/20/the-united-states-supreme-court-rules-that-almost-2-billion-in-frozen-iranian-assets-must-be-turned-over-to-american-families-of-people-kil.md) _Context: Beirut, Iran, Lebanon_
+2. [The Saudi-owned news channel Al Arabiya shuts its offices in Beirut, Lebanon and dismisses 27 employees in a sudden move reflecting tensions between Saudi Arabia and Lebanon-based Hezbollah, which is backed by Iran. Saudi Arabia interpreted Lebanon's lack of public solidarity as a sign that it had become beholden to Hezbollah. ](/news/2016/04/2/the-saudi-owned-news-channel-al-arabiya-shuts-its-offices-in-beirut-lebanon-and-dismisses-27-employees-in-a-sudden-move-reflecting-tensions.md) _Context: Beirut, Iran, Lebanon_
+3. [Majid al-Majid, the chief of the Abdullah Azzam Brigades militant group that was accused of being responsible for a double suicide bombing in front of the Iranian embassy in Beirut, Lebanon, in November 2013, dies in custody in a military hospital in Beirut. ](/news/2014/01/4/majid-al-majid-the-chief-of-the-abdullah-azzam-brigades-militant-group-that-was-accused-of-being-responsible-for-a-double-suicide-bombing-i.md) _Context: Beirut, Lebanon, double suicide bombing_
+4. [Syrian Civil War spillover in Lebanon:A bomb detonates at a Hezbollah building in Beirut, Lebanon killing 4 people and wounding 35. ](/news/2014/01/21/syrian-civil-war-spillover-in-lebanon-pa-bomb-detonates-at-a-hezbollah-building-in-beirut-lebanon-killing-4-people-and-wounding-35.md) _Context: Beirut, Lebanon, Syrian Civil War spillover in Lebanon_
+5. [Syrian Civil War spillover in Lebanon:Five people are killed and 20 wounded in a car bomb which hit a southern suburb of the Lebanese capital Beirut. ](/news/2014/01/2/syrian-civil-war-spillover-in-lebanon-pfive-people-are-killed-and-20-wounded-in-a-car-bomb-which-hit-a-southern-suburb-of-the-lebanese-capit.md) _Context: Beirut, Lebanon, Syrian Civil War spillover in Lebanon_
+6. [Syrian Civil War spillover in Lebanon:Sources confirm that Lebanon has captured Majid bin Mohammad al-Majid, leader of the al-Qaeda-linked group Abdullah Azzam Brigades responsible for the recent bombing of the Iranian embassy in Beirut, Lebanon. ](/news/2014/01/1/syrian-civil-war-spillover-in-lebanon-psources-confirm-that-lebanon-has-captured-majid-bin-mohammad-al-majid-leader-of-the-al-qaeda-linked.md) _Context: Lebanon, Syrian Civil War spillover in Lebanon, double suicide bombing_
+7. [Syrian Civil War spillover in Lebanon:A car bomb explodes in the Central District of Beirut, Lebanon, killing eight people, including the former ambassador to the U.S. Mohamad Chatah, and wounding 71 others. ](/news/2013/12/27/syrian-civil-war-spillover-in-lebanon-pa-car-bomb-explodes-in-the-central-district-of-beirut-lebanon-killing-eight-people-including-the-f.md) _Context: Beirut, Lebanon, Syrian Civil War spillover in Lebanon_
+8. [A suicide bomber attacks the Lebanese village of Qaa near the Syrian border, with at least six people dead and 13 people injured. ](/news/2016/06/27/a-suicide-bomber-attacks-the-lebanese-village-of-qaa-near-the-syrian-border-with-at-least-six-people-dead-and-13-people-injured.md) _Context: Lebanon, Syrian Civil War spillover in Lebanon_
+9. [Clashes between the Lebanese Army and jihadist militants near the village of Ras Baalbek in northeast Lebanon, close to the Syrian border, leaves one soldier and eight militants dead. ](/news/2016/03/10/clashes-between-the-lebanese-army-and-jihadist-militants-near-the-village-of-ras-baalbek-in-northeast-lebanon-close-to-the-syrian-border-l.md) _Context: Lebanon, Syrian Civil War spillover in Lebanon_
+10. [The United Arab Emirates (UAE) bans its citizens from traveling to Lebanon, just hours after Saudi Arabia issued a warning to its citizens to leave Lebanon in retaliation for Lebanon choosing to side with Iran in the Iran-Saudi Arabia proxy conflict and Hezbollah's influence on the Lebanese government. ](/news/2016/02/23/the-united-arab-emirates-uae-bans-its-citizens-from-traveling-to-lebanon-just-hours-after-saudi-arabia-issued-a-warning-to-its-citizens-t.md) _Context: Iran, Lebanon_

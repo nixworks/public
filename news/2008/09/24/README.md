@@ -13,7 +13,7 @@ The first evidence that millions of tons of a greenhouse gas 20 times more poten
 _Context: Diet, Liberal Democratic Party, Prime Minister, Taro Aso_
 
 ### [ Tomislav Nikolic announces that his party (a splinter from the Serbian Radical Party) will be called Serbian Progressive Party and that it will be founded on 21 October 2008. ](/news/2008/09/24/tomislav-nikolia-announces-that-his-party-a-splinter-from-the-serbian-radical-party-will-be-called-serbian-progressive-party-and-that-it.md)
-_Context: Serbian Progressive Party, Serbian Radical Party, Tomislav Nikolić_
+_Context: Serbian Progressive Party, Serbian Radical Party, Tomislav Nikolic_
 
 ### [ Typhoon Hagupit hits Vietnam, the Philippines and southern China, killing at least eight. ](/news/2008/09/24/typhoon-hagupit-hits-vietnam-the-philippines-and-southern-china-killing-at-least-eight.md)
 _Context: China, Philippines, Typhoon Hagupit, Vietnam_

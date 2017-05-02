@@ -13,7 +13,7 @@
 
 ### Related:
 
-1. [A Palestinian woman is killed and another person is injured in the Gaza Strip by tank fire from Israel. Israel said it responded to mortar rounds and the discovery of another tunnel by Hamas. ](/news/2016/05/5/a-palestinian-woman-is-killed-and-another-person-is-injured-in-the-gaza-strip-by-tank-fire-from-israel-israel-said-it-responded-to-mortar-r.md) _Context: Gaza Strip, Gaza–Israel conflict, Hamas, Israel_
+1. [A Palestinian woman is killed and another person is injured in the Gaza Strip by tank fire from Israel. Israel said it responded to mortar rounds and the discovery of another tunnel by Hamas. ](/news/2016/05/5/a-palestinian-woman-is-killed-and-another-person-is-injured-in-the-gaza-strip-by-tank-fire-from-israel-israel-said-it-responded-to-mortar-r.md) _Context: Gaza Strip, Gaza-Israel conflict, Hamas, Israel_
 2. [ Israel and Hamas ignore the United Nations Security Council's call for a ceasefire in the conflict in the Gaza Strip. ](/news/2009/01/9/israel-and-hamas-ignore-the-united-nations-security-council-s-call-for-a-ceasefire-in-the-conflict-in-the-gaza-strip.md) _Context: Gaza Strip, Hamas, Israel, fire_
 3. [ Israel and Hamas resume hostilities after a three-hour respite to allow humanitarian aid to reach Gaza. ](/news/2009/01/7/israel-and-hamas-resume-hostilities-after-a-three-hour-respite-to-allow-humanitarian-aid-to-reach-gaza.md) _Context: Gaza Strip, Hamas, Israel, fire_
 4. [ Hamas accuses rival faction Fatah of spying for Israel during the recent conflict in the Gaza Strip. ](/news/2009/01/23/hamas-accuses-rival-faction-fatah-of-spying-for-israel-during-the-recent-conflict-in-the-gaza-strip.md) _Context: Gaza Strip, Hamas, Israel, fire_

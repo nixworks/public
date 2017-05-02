@@ -10,7 +10,7 @@ _Context: UK Parliament, terrorism_
 _Context: Capture of Saddam Hussein, Mohammed Ibrahim Omar al-Muslit, Saddam Hussein_
 
 ### [ The Court of Arbitration for Sport (CAS) rules to disqualify Spanish athlete Johann Mhlegg and Russian athlete Olga Danilova from all the cross-country skiing races they participated in during the 2002 Winter Olympic Games and thus withdraw their medals, due to doping by darbepoetin. [http://www.tas-cas.org/en/medias/media3.htm]](/news/2003/12/18/the-court-of-arbitration-for-sport-cas-rules-to-disqualify-spanish-athlete-johann-muhlegg-and-russian-athlete-olga-danilova-from-all-the.md)
-_Context: 2002 Winter Olympic Games, Johann Mühlegg, Olga Danilova, cross-country skiers, darbepoetin, doping_
+_Context: 2002 Winter Olympic Games, Johann Mhlegg, Olga Danilova, cross-country skiers, darbepoetin, doping_
 
 ### [ Prosecutors in California charge singer Michael Jackson with seven counts of child molestation and schedule hearings for January 16, 2004. [http://news.bbc.co.uk/1/hi/entertainment/showbiz/3323237.stm]](/news/2003/12/18/prosecutors-in-california-charge-singer-michael-jackson-with-seven-counts-of-child-molestation-and-schedule-hearings-for-january-16-2004.md)
 _Context: California, Michael Jackson_

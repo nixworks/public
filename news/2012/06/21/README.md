@@ -4,7 +4,7 @@
 A Syrian pilot is granted asylum in Jordan after flying a MiG-21 fighter jet across the border, as violence stops the Red Cross reaching civilians in Homs.
 
 ### [War on Drugs:Mexican Drug War: Mexican marines detain Jesus Alfredo Guzman Salazar, the son of Joaquin Guzman Loera (alias ''El Chapo''), Mexico's most-wanted drug lord in the western state of Jalisco. ](/news/2012/06/21/war-on-drugs-pmexican-drug-war-mexican-marines-detain-jesaos-alfredo-guzma-n-salazar-the-son-of-joaquan-guzma-n-loera-alias-el-chapo.md)
-_Context: Jalisco, Joaquín Guzmán Loera, Mexican Drug War, War on Drugs, most-wanted drug lords_
+_Context: Jalisco, Joaquin Guzman Loera, Mexican Drug War, War on Drugs, most-wanted drug lords_
 
 ### [In Afghanistan, Taliban soldiers invade a hotel in Kabul, kill guests, and hold some hostages.  ](/news/2012/06/21/in-afghanistan-taliban-soldiers-invade-a-hotel-in-kabul-kill-guests-and-hold-some-hostages.md)
 Afghan police say 18 people killed during 13-hour assault on hotel in Qargha Lake on the outskirts of the capital.

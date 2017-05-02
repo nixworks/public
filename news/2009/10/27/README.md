@@ -22,7 +22,7 @@ Group fined $900,000 for fraud but is allowed to continue practising in France.
 _Context: China's, Tibet, unrest in 2008_
 
 ### [ The son of ex-French President Franois Mitterrand, Jean-Christophe Mitterrand and an ex-government minister, Charles Pasqua, are convicted for their roles in illegal arms sales to Angola. ](/news/2009/10/27/the-son-of-ex-french-president-francois-mitterrand-jean-christophe-mitterrand-and-an-ex-government-minister-charles-pasqua-are-convicted.md)
-_Context: Charles Pasqua, France, François Mitterrand, Jean-Christophe Mitterrand, illegal arms sales to Angola, president_
+_Context: Charles Pasqua, France, Franois Mitterrand, Jean-Christophe Mitterrand, illegal arms sales to Angola, president_
 
 ### [ A nephew of Honduran interim leader Robert Micheletti and a high ranking army officer are found murdered. ](/news/2009/10/27/a-nephew-of-honduran-interim-leader-robert-micheletti-and-a-high-ranking-army-officer-are-found-murdered.md)
 _Context: Honduran, Robert Micheletti_

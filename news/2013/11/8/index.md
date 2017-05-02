@@ -1,7 +1,7 @@
 ## [2013-11-8](/news/2013/11/8/index.md)
 
 ### [War in Somalia (2009-present):At least 11 people are killed in the Somalian capital Mogadishu after a bomb explodes in a carpark. ](/news/2013/11/8/war-in-somalia-2009apresent-pat-least-11-people-are-killed-in-the-somalian-capital-mogadishu-after-a-bomb-explodes-in-a-carpark.md)
-_Context: Mogadishu, Somalia, War in Somalia (2009–present)_
+_Context: Mogadishu, Somalia, War in Somalia (2009-present)_
 
 ### [UNESCO suspends the voting rights of the United States and Israel after both countries refused to pay their dues as a protest to the membership of the State of Palestine. ](/news/2013/11/8/unesco-suspends-the-voting-rights-of-the-united-states-and-israel-after-both-countries-refused-to-pay-their-dues-as-a-protest-to-the-members.md)
 _Context: Israel, Palestinian, UNESCO, United States_
@@ -19,7 +19,7 @@ State media says police arrested a 41-year-old ex-convict in the early hours of 
 Palestinian officials say Israel is the only suspect in the 2004 death of Yasser Arafat, after a report said his remains had high levels of polonium.
 
 ### [Thieves steal six antiques worth billions of VND ($94 thousand) displayed at Hoa Khiem Palace in Tomb of King Tu Duc in Hue, Vietnam. ](/news/2013/11/8/thieves-steal-six-antiques-worth-billions-of-vnd-94-thousand-displayed-at-ha2a-khiaam-palace-in-tomb-of-king-ta-aa-c-c-in-huao-vietna.md)
-_Context: Huế, Tomb of King Tự Ðức, United States dollars, VND, Vietnam_
+_Context: Hue, Tomb of King Tu Duc, United States dollars, VND, Vietnam_
 
 ## [Previous Day...](/news/2013/11/7/index.md)
 

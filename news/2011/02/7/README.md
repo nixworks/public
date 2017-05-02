@@ -1,7 +1,7 @@
 ## [2011-02-7](/news/2011/02/7/index.md)
 
 ### [Clashes occur between Thai and Cambodian forces near the Preah Vihear Temple. ](/news/2011/02/7/clashes-occur-between-thai-and-cambodian-forces-near-the-preah-vihear-temple.md)
-_Context: Cambodia, Cambodian–Thai border stand-off, Preah Vihear Temple, Thailand_
+_Context: Cambodia, Cambodian-Thai border stand-off, Preah Vihear Temple, Thailand_
 
 ### [Tunisia calls up recently retired soldiers to contain recent unrest. ](/news/2011/02/7/tunisia-calls-up-recently-retired-soldiers-to-contain-recent-unrest.md)
 _Context: Tunisia, recent unrest_

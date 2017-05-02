@@ -1,7 +1,7 @@
 ## [2010-11-17](/news/2010/11/17/index.md)
 
 ### [After Alpha Conde was declared the first democratically elected president of Guinea, at least nine people have been killed during riots in Guinea's capital, Conakry. ](/news/2010/11/17/after-alpha-conda-c-was-declared-the-first-democratically-elected-president-of-guinea-at-least-nine-people-have-been-killed-during-riots-in.md)
-_Context: Alpha Condé's, Conakry, Guinea_
+_Context: Alpha Conde's, Conakry, Guinea_
 
 ### [Germany heightens its police security presence at its airports after identifying "concrete indications" that a terrorist attack is planned for the end of November ](/news/2010/11/17/germany-heightens-its-police-security-presence-at-its-airports-after-identifying-concrete-indications-that-a-terrorist-attack-is-planned-f.md)
 Germany tightens security at airports and railway stations in light of &quot;concrete indications&quot; of terrorist attacks being planned for the end of November.
@@ -13,7 +13,7 @@ Israel approves plans to withdraw its troops from the northern half of a village
 At least 21 people killed and many more injured after fighters clash with African Union peacekeepers in Mogadishu.
 
 ### [Thirty-six minutes of the film ''Harry Potter and the Deathly Hallows - Part 1'' is leaked. ](/news/2010/11/17/thirty-six-minutes-of-the-film-harry-potter-and-the-deathly-hallows-a-part-1-is-leaked.md)
-_Context: Harry Potter and the Deathly Hallows – Part 1_
+_Context: Harry Potter and the Deathly Hallows - Part 1_
 
 ### [A Roman settlement filled with ancient artifacts and human remains is unearthed at a construction site in London. ](/news/2010/11/17/a-roman-settlement-filled-with-ancient-artifacts-and-human-remains-is-unearthed-at-a-construction-site-in-london.md)
 A Roman settlement filled with ancient artefacts and human remains is found on a west London building site.
@@ -49,13 +49,13 @@ _Context: organ trafficking_
 _Context: Cook Islands, MP, general election, referendum_
 
 ### [The Republican and Democratic party caucuses in the United States House of Representatives hold leadership elections. Nancy Pelosi of the Democrats is elected as Minority Leader when the new House sits in January with John Boehner to become Speaker of the United States House of Representatives. ](/news/2010/11/17/the-republican-and-democratic-party-caucuses-in-the-united-states-house-of-representatives-hold-leadership-elections-nancy-pelosi-of-the-de.md)
-_Context: Democrat, John Boehner, Minority Leader, Nancy Pelosi, Republican, Speaker of the United States House of Representatives, U.S. House, caucus_
+_Context: Democratic, John Boehner, Minority Leader, Nancy Pelosi, Republican, Speaker of the United States House of Representatives, U.S. House, caucus_
 
 ### [A state of emergency is declared in Guinea after post election violence. ](/news/2010/11/17/a-state-of-emergency-is-declared-in-guinea-after-post-election-violence.md)
 _Context: Guinea, November's presidential poll, state of emergency_
 
 ### [Senator Lisa Murkowski wins the Alaska senate  election becoming the first successful write-in candidate to be elected since 1954. ](/news/2010/11/17/senator-lisa-murkowski-wins-the-alaska-senate-election-becoming-the-first-successful-write-in-candidate-to-be-elected-since-1954.md)
-_Context: Alaska senate  election, Lisa Murkowski, Senator, write-in candidate_
+_Context: Alaska senate  election, Lisa Murkowski, United States Senate, write-in candidate_
 
 ### [Facebook inadvertently disabled some users' accounts when a system designed to detect fake accounts malfunctioned. The problem has since been resolved. ](/news/2010/11/17/facebook-inadvertently-disabled-some-users-accounts-when-a-system-designed-to-detect-fake-accounts-malfunctioned-the-problem-has-since-bee.md)
 _Context: Facebook_

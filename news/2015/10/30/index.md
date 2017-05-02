@@ -10,7 +10,7 @@ Andrew Parker says current level of threat from homegrown jihadis the highest he
 Knife-wielding Palestinians attacked Israelis in Jerusalem and the occupied West Bank on Friday and police said they had shot dead two assailants, in a further wave of violence spurred partly by tensions over a Jerusalem holy site.
 
 ### [The Iranian-funded Shi'ite Al-Mukhtar Army claims responsibility for Thursday's deadly rocket attacks near the Baghdad International Airport that killed 23 members of an exiled Iranian opposition group, the People's Mujahedin of Iran. ](/news/2015/10/30/the-iranian-funded-shi-ite-al-mukhtar-army-claims-responsibility-for-thursday-s-deadly-rocket-attacks-near-the-baghdad-international-airport.md)
-_Context: Baghdad International Airport, Iran, Iraqi Civil War (2014–present), People's Mujahedin of Iran, Shia, rocket attacks_
+_Context: Baghdad International Airport, Iran, Iraqi Civil War (2014-present), People's Mujahedin of Iran, Shia, rocket attacks_
 
 ### [''Happy Days'' actor Al Molinaro dies at 96. ](/news/2015/10/30/happy-days-actor-al-molinaro-dies-at-96.md)
 On &lsquo;Happy Days,&rsquo; Mr. Molinaro was part of an ensemble of endearing 1950s archetypes.

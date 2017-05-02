@@ -43,7 +43,7 @@ A treaty between South Korea and Japan will encourage the sharing of military da
 Slim majority approves central mandate in landmark legislation extending healthcare to millions of Americans.
 
 ### [The Yugoslav war crimes tribunal acquits Radovan Karadzic of one of two genocide counts. ](/news/2012/06/28/the-yugoslav-war-crimes-tribunal-acquits-radovan-karada3-4ia-of-one-of-two-genocide-counts.md)
-_Context: Radovan Karadžić_
+_Context: Radovan Karadzic_
 
 ### [A New Zealand court rules that search warrants used to raid the home of Kim Dotcom, founder of MegaUpload, in connection to alleged copyright infringement were invalid. ](/news/2012/06/28/a-new-zealand-court-rules-that-search-warrants-used-to-raid-the-home-of-kim-dotcom-founder-of-megaupload-in-connection-to-alleged-copyrigh.md)
 _Context: Kim Dotcom, Megaupload, New Zealand, search warrants_

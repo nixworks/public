@@ -28,7 +28,7 @@ _Context: Aden, Al Qaida's, Yemen_
 _Context: Crown Princess Victoria, Daniel Westling, marries_
 
 ### [10 Turkish soldiers are killed during clashes with Kurdish rebels on the border of Turkey and Iraq,  in Semdinli township of Hakkari province and in the Gediktepe-Tekeli region.  ](/news/2010/06/19/10-turkish-soldiers-are-killed-during-clashes-with-kurdish-rebels-on-the-border-of-turkey-and-iraq-in-aemdinli-township-of-hakkac-ri-provi.md)
-_Context: Gediktepe-Tekeli, Hakkâri Province, Iraq, Kurdish, Turkey, Turkish Army, Şemdinli_
+_Context: Gediktepe-Tekeli, Hakkari Province, Iraq, Kurdish, Semdinli, Turkey, Turkish Army_
 
 ### [Roadside bomb blast kills 4, wounds 12 in bus carrying soldiers in Istanbul. ](/news/2010/06/19/roadside-bomb-blast-kills-4-wounds-12-in-bus-carrying-soldiers-in-istanbul.md)
 _Context: Istanbul_

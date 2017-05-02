@@ -10,7 +10,7 @@ _Context: Libya, Tawergha, Tripoli_
 State governor says issue can be resolved through negotiations after state legislature is taken over in Salvador city.
 
 ### [Spanish artist Antoni Tapies, a pioneer of abstract art, dies in Barcelona at the age of 88. ](/news/2012/02/6/spanish-artist-antoni-ta-pies-a-pioneer-of-abstract-art-dies-in-barcelona-at-the-age-of-88.md)
-_Context: Antoni Tàpies, Barcelona, Spanish politicians, abstract art_
+_Context: Antoni Tapies, Barcelona, Spanish politicians, abstract art_
 
 ### [Greek government debt crisis: The government of Greece fails to reach agreement over the terms of a new bailout from the European Union, but retracts the deadline they had given themselves to do so, 30 minutes before the deadline would have passed. ](/news/2012/02/6/greek-government-debt-crisis-the-government-of-greece-fails-to-reach-agreement-over-the-terms-of-a-new-bailout-from-the-european-union-but.md)
 _Context: European Union, Greek government-debt crisis, government of Greece_

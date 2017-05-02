@@ -10,7 +10,7 @@ _Context: 2004 Indian Ocean earthquake, 2005, 26 December, flag_
 _Context: New Turkish Lira, Turkey, currency_
 
 ### [ A group of Peruvian army reservists from the Movimiento Etnocacerista seize a police station in Andahuaylas, Apurmac Region, demanding the resignation of President Alejandro Toledo. Four police officers die in a shootout, another dozen police are taken as hostages, and a state of emergency is declared in the region.  ](/news/2005/01/1/a-group-of-peruvian-army-reservists-from-the-movimiento-etnocacerista-seize-a-police-station-in-andahuaylas-apurimac-region-demanding-the.md)
-_Context: Alejandro Toledo, Andahuaylas, Apurímac Region, Movimiento Etnocacerista, Peru, President_
+_Context: Alejandro Toledo, Andahuaylas, Apurmac Region, Movimiento Etnocacerista, Peru, President_
 
 ### [ Luxembourg takes over the Presidency of the Council of the European Union ](/news/2005/01/1/luxembourg-takes-over-the-presidency-of-the-council-of-the-european-union.md)
 _Context: Luxembourg, the Council of_

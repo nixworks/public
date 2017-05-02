@@ -1,13 +1,13 @@
 ## [2008-01-21](/news/2008/01/21/index.md)
 
 ### [ A Turkish court bans YouTube for the second time because of clips deemed disrespectful to Mustafa Kemal Atatrk. ](/news/2008/01/21/a-turkish-court-bans-youtube-for-the-second-time-because-of-clips-deemed-disrespectful-to-mustafa-kemal-ataturk.md)
-_Context: Mustafa Kemal Atatürk, Turkey, YouTube_
+_Context: Mustafa Kemal Atatrk, Turkey, YouTube_
 
 ### [ An Israeli TecSAR spy satellite is launched aboard an Indian Polar Satellite Launch Vehicle. ](/news/2008/01/21/an-israeli-tecsar-spy-satellite-is-launched-aboard-an-indian-polar-satellite-launch-vehicle.md)
 _Context: India, Israel, Polar Satellite Launch Vehicle, TecSAR, spy satellite_
 
 ### [ President of Venezuela Hugo Chvez disallows the exportation of agricultural goods and promises to nationalize any farm that does. ](/news/2008/01/21/president-of-venezuela-hugo-chavez-disallows-the-exportation-of-agricultural-goods-and-promises-to-nationalize-any-farm-that-does.md)
-_Context: Hugo Chávez, President, exportation, nationalizes_
+_Context: Hugo Chvez, President, exportation, nationalizes_
 
 ### [ 2008 stock market downturn:  Stock markets around the world plunge amid growing fears of a U.S. recession, fueled by the 2007 subprime mortgage financial crisis. ](/news/2008/01/21/2008-stock-market-downturn-p-stock-markets-around-the-world-plunge-amid-growing-fears-of-a-u-s-recession-fueled-by-the-2007-subprime-mor.md)
 _Context: 2007 subprime mortgage financial crisis, 2008 stock market downturn, recession, stock market_

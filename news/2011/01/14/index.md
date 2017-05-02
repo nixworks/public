@@ -40,7 +40,7 @@ _Context: Al-Karak, Amman, Jordan, Ma'an, Prime Minister, Salt, Samir Rifai_
 _Context: BP, Rosneft_
 
 ### [Amnesty International criticises the British government for spending nearly PS1 billion on 30 Watchkeeper WK450 unmanned aerial vehicles (UAVs) which Israel's military allegedly "field-tested on Palestinians" during the Gaza War. ](/news/2011/01/14/amnesty-international-criticises-the-british-government-for-spending-nearly-aps1-billion-on-30-watchkeeper-wk450-unmanned-aerial-vehicles-ua.md)
-_Context: 2008–2009 Gaza War, Amnesty International, Israel, Watchkeeper WK450_
+_Context: 2008-2009 Gaza War, Amnesty International, Israel, Watchkeeper WK450_
 
 ### [More than 100 pilgrims are killed in an evening stampede at Sabarimala. ](/news/2011/01/14/more-than-100-pilgrims-are-killed-in-an-evening-stampede-at-sabarimala.md)
 A stampede of pilgrims returning from one of India&#039;s most popular Hindu festivals has killed more than 100 people in the southern state of Kerala.

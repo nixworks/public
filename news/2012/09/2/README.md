@@ -7,7 +7,7 @@ A car bomb blew up near a Palestinian refugee camp in a suburb of Damascus, kill
 Officials acknowledge that killings might have been prevented with proper enforcement of security measures.
 
 ### [Clashes between Turkish security forces and Kurdish rebels in the southeastern province of Sirnak kill ten Turkish troops and twenty fighters from the Kurdistan Workers' Party. ](/news/2012/09/2/clashes-between-turkish-security-forces-and-kurdish-rebels-in-the-southeastern-province-of-aa-rnak-kill-ten-turkish-troops-and-twenty-fight.md)
-_Context: Kurdish, Kurdistan Workers' Party, Turkish troops, Şırnak Province_
+_Context: Kurdish, Kurdistan Workers' Party, Sirnak Province, Turkish troops_
 
 ### [The Movement for Oneness and Jihad in West Africa reports the execution of a kidnapped Algerian diplomat in northern Mali. ](/news/2012/09/2/the-movement-for-oneness-and-jihad-in-west-africa-reports-the-execution-of-a-kidnapped-algerian-diplomat-in-northern-mali.md)
 _Context: Algeria, Mali, Movement for Oneness and Jihad in West Africa_

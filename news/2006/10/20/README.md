@@ -1,6 +1,6 @@
 ## [2006-10-20](/news/2006/10/20/index.md)
 
-### [ OPEC agrees to reduce its output by {{convert|1.2|Moilbbl/d|m3/d}}, its first cut for more than two years, to halt falling oil prices. ](/news/2006/10/20/opec-agrees-to-reduce-its-output-by-convert-1-2-moilbbl-d-m3-d-its-first-cut-for-more-than-two-years-to-halt-falling-oil-prices.md)
+### [ OPEC agrees to reduce its output by 1.2|Moilbbl/d|m3/d, its first cut for more than two years, to halt falling oil prices. ](/news/2006/10/20/opec-agrees-to-reduce-its-output-by-1-2-moilbbl-d-m3-d-its-first-cut-for-more-than-two-years-to-halt-falling-oil-prices.md)
 _Context: OPEC_
 
 ### [ The Indian conglomerate Tata Group agrees to buy Anglo-Dutch steel firm Corus in the largest ever Indian takeover of a foreign company. ](/news/2006/10/20/the-indian-conglomerate-tata-group-agrees-to-buy-anglo-dutch-steel-firm-corus-in-the-largest-ever-indian-takeover-of-a-foreign-company.md)

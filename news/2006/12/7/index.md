@@ -31,7 +31,7 @@ _Context: Australia, Gippsland, Victoria, bushfire_
 _Context: Canadian House of Commons, Conservative Party's, same-sex marriage in Canada_
 
 ### [ 2006 Fijian coup d'etat:  Fiji's Great Council of Chiefs condemns the coup d'etat and calls on coup leader Frank Bainimarama to stop his activities. It refuses to meet with him. ](/news/2006/12/7/2006-fijian-coup-d-a-c-tat-p-fiji-s-great-council-of-chiefs-condemns-the-coup-d-a-c-tat-and-calls-on-coup-leader-frank-bainimarama-to-stop-his.md)
-_Context: 2006 coup d'état, Fiji, Great Council of Chiefs, Voreqe Bainimarama, coup_
+_Context: 2006 coup d'etat, Fiji, Great Council of Chiefs, Voreqe Bainimarama, coup_
 
 ### [ Grand Ayatollah Fazel Lankarani of Iran issues a fatwa calling for the deaths of Azeris Rafiq Tagi, a writer, and Samir Sadagatoglu, his editor, who were charged in November 2006 with "inciting national, racial and religious enmity" after they criticized Islam. ](/news/2006/12/7/grand-ayatollah-fazel-lankarani-of-iran-issues-a-fatwa-calling-for-the-deaths-of-azeris-rafiq-taaa-a-writer-and-samir-sadagatoglu-his.md)
 An article recently published by an Azerbaijani bimonthly newspaper that disparaged Islam has sparked a religious furor both in Azerbaijan and neighboring Iran. An Iranian cleric exacerbated the contr

@@ -1,6 +1,6 @@
 ### [2008-09-6](/news/2008/09/6/index.md)
 
-#   Tropical Storm Hanna makes landfall in the United States on the border between North Carolina and South Carolina. [http://www.theage.com.au/world/hanna-hits-us-coast-20080906-4az3.html?page=-1 (AFP via the ''Melbourne Age'')] Hurricane Ike reaches Category 4 strength as it prepares to hit Turks and Caicos. [http://ap.google.com/article/ALeqM5g918hbtK02_PM8gtnv_-6UZu8yEAD931FDUG0 (AP via Google News)]{{dead link|date=October 2012}}
+#   Tropical Storm Hanna makes landfall in the United States on the border between North Carolina and South Carolina. [http://www.theage.com.au/world/hanna-hits-us-coast-20080906-4az3.html?page=-1 (AFP via the ''Melbourne Age'')] Hurricane Ike reaches Category 4 strength as it prepares to hit Turks and Caicos. [http://ap.google.com/article/ALeqM5g918hbtK02_PM8gtnv_-6UZu8yEAD931FDUG0 (AP via Google News)]date=October 2012
 
 
 

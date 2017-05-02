@@ -22,7 +22,7 @@ WTOP brings you the latest news, traffic, and weather information for the Washin
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ In New Zealand, Tuheitia Paki, the eldest son of Dame Te Atairangikaahu, is selected as the new Maori King.  ](/news/2006/08/21/in-new-zealand-tuheitia-paki-the-eldest-son-of-dame-te-atairangikaahu-is-selected-as-the-new-maori-king.md)
-_Context: Māori King, New Zealand, Te Atairangikaahu, Tuheitia Paki_
+_Context: Maori King, New Zealand, Te Atairangikaahu, Tuheitia Paki_
 
 ### [ Carla Del Ponte, the chief Yugoslav war crimes prosecutor, criticises Serbia for its failure to arrest former Bosnian Serb army chief, General Ratko Mladic as the war crime trials of seven Bosnian Serb military and paramilitary commanders continues. ](/news/2006/08/21/carla-del-ponte-the-chief-yugoslav-war-crimes-prosecutor-criticises-serbia-for-its-failure-to-arrest-former-bosnian-serb-army-chief-gene.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

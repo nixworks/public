@@ -19,13 +19,13 @@ Tens of thousands of Nepalese who spent the night under a chilly sky were jolted
 Kazakhstan&#039;s President Nursultan Nazarbayev has won re-election with 97.7 percent of the vote in a poll where opposition parties in the oil-rich ex-Soviet republic did not field a candidate, the electoral commission said Monday.
 
 ### [Voters in Northern Cyprus go to the polls in the run-off election to elect leftist Mustafa Akinci as president. ](/news/2015/04/26/voters-in-northern-cyprus-go-to-the-polls-in-the-run-off-election-to-elect-leftist-mustafa-aka-nca-as-president.md)
-_Context: Mustafa Akıncı, Northern Cyprus presidential election, 2015, northern, president_
+_Context: Mustafa Akinci, Northern Cyprus presidential election, 2015, northern, president_
 
 ### [Kenyan Eliud Kipchoge topped all male runners and Ethiopian Tigist Tufa won the women's elite event in the 35th running of the London Marathon. ](/news/2015/04/26/kenyan-eliud-kipchoge-topped-all-male-runners-and-ethiopian-tigist-tufa-won-the-women-s-elite-event-in-the-35th-running-of-the-london-marath.md)
 What is the London Marathon start time, where do the races begin and where is the finish line?
 
 ### [In football, FC Bayern Munich wins the 2014-15 Bundesliga for a 25th time. ](/news/2015/04/26/in-football-fc-bayern-munich-wins-the-2014a15-bundesliga-for-a-25th-time.md)
-_Context: 2014–15 Bundesliga, FC Bayern Munich, association football_
+_Context: 2014-15 Bundesliga, FC Bayern Munich, association football_
 
 ## [Previous Day...](/news/2015/04/25/index.md)
 

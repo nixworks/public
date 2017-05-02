@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Tuareg Rebellion (2011-present): Tuareg rebels capture the fourth Malian town in a week. ](/news/2012/01/26/tuareg-rebellion-2011apresent-tuareg-rebels-capture-the-fourth-malian-town-in-a-week.md) _Context: Mali, Tuareg Rebellion (2011–present)_
+1. [Tuareg Rebellion (2011-present): Tuareg rebels capture the fourth Malian town in a week. ](/news/2012/01/26/tuareg-rebellion-2011apresent-tuareg-rebels-capture-the-fourth-malian-town-in-a-week.md) _Context: Mali, Tuareg Rebellion (2011-present)_
 2. [A suicide bomber detonates a vehicle full of explosives at a military camp in Gao, Mali, killing at least 76 people and wounding scores more in Mali's deadliest terrorist attack in history. ](/news/2017/01/18/a-suicide-bomber-detonates-a-vehicle-full-of-explosives-at-a-military-camp-in-gao-mali-killing-at-least-76-people-and-wounding-scores-more.md) _Context: Mali_
 3. [Aftermath of the President-elect Adama Barrow travels to the Malian capital of Bamako to meet with world leaders after yesterday's failed attempts at persuading incumbent president Yahya Jammeh to step down at the end of his term. ](/news/2017/01/14/aftermath-of-the-president-elect-adama-barrow-travels-to-the-malian-capital-of-bamako-to-meet-with-world-leaders-after-yesterday-s-failed-at.md) _Context: Mali_
 4. [Mali returns two people France deported on the same planes they arrived on. ](/news/2016/12/30/mali-returns-two-people-france-deported-on-the-same-planes-they-arrived-on.md) _Context: Mali_

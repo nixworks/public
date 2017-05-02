@@ -16,7 +16,7 @@ _Context: EU-Ukraine Free Trade deal_
 Under the new law, married couples are now allowed to have a second child, but the legislation maintains limits on additional births.
 
 ### [Olafur Ragnar Grimsson, who has been the President of Iceland for 20 years, announces in his new-year speech that he will not seek reelection for a sixth term when presidential elections will be held in June. ](/news/2016/01/1/alafur-ragnar-gramsson-who-has-been-the-president-of-iceland-for-20-years-announces-in-his-new-year-speech-that-he-will-not-seek-reelect.md)
-_Context: Icelandic presidential election, 2016, president, Ólafur Ragnar Grímsson_
+_Context: Icelandic presidential election, 2016, Olafur Ragnar Grimsson, president_
 
 ## [Previous Day...](/news/2015/12/31/index.md)
 

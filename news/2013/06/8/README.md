@@ -13,7 +13,7 @@ _Context: Benghazi_
 _Context: Boko Haram, Maiduguri, Nigerian Sharia conflict_
 
 ### [Northern Mali conflict (2012-present):The government of Mali opens talks with Tuareg separatists in  the hopes of reaching a ceasefire agreement. ](/news/2013/06/8/northern-mali-conflict-2012apresent-pthe-government-of-mali-opens-talks-with-tuareg-separatists-in-the-hopes-of-reaching-a-ceasefire-ag.md)
-_Context: Mali, Northern Mali conflict (2012–present), Tuareg, ceasefire_
+_Context: Mali, Northern Mali conflict (2012-present), Tuareg, ceasefire_
 
 ### [Clashes between the Ras Kamboni Movement and pro-government militia leave at least 18 dead in the Somali port of Kismayu. ](/news/2013/06/8/clashes-between-the-ras-kamboni-movement-and-pro-government-militia-leave-at-least-18-dead-in-the-somali-port-of-kismayu.md)
 _Context: Kismayu, Ras Kamboni Movement, Somalia_

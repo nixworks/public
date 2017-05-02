@@ -1,7 +1,7 @@
 ## [2007-10-4](/news/2007/10/4/index.md)
 
 ### [ United States Republican Party Senator Pete Domenici of New Mexico announces that he will retire at the end of his current term due to a degenerative brain disease. ](/news/2007/10/4/united-states-republican-party-senator-pete-domenici-of-new-mexico-announces-that-he-will-retire-at-the-end-of-his-current-term-due-to-a-de.md)
-_Context: New Mexico, Pete Domenici, Republican, Senator, United States_
+_Context: New Mexico, Pete Domenici, Republican, United States, United States Senate_
 
 ### [ The Prime Minister of Canada Stephen Harper chooses Mark Carney to succeed David Dodge as governor of the Bank of Canada. ](/news/2007/10/4/the-prime-minister-of-canada-stephen-harper-chooses-mark-carney-to-succeed-david-dodge-as-governor-of-the-bank-of-canada.md)
 _Context: Bank of Canada, Canadian Prime Minister, David Dodge, Mark Carney, Stephen Harper_
@@ -13,12 +13,12 @@ _Context: Kazaa, Minnesota, U.S. dollar, copyright, damages, recording industry_
 _Context: Augusto Pinochet, Chile, Santiago, embezzlement_
 
 ### [ Republican Party Senator Larry Craig from Idaho vows to serve out his term in the United States Senate despite losing a court bid to rescind a guilty plea for an indecent act in a Minneapolis Airport men's room. ](/news/2007/10/4/republican-party-senator-larry-craig-from-idaho-vows-to-serve-out-his-term-in-the-united-states-senate-despite-losing-a-court-bid-to-rescin.md)
-_Context: Idaho, Larry Craig, Minneapolis, Republican, Senator_
+_Context: Idaho, Larry Craig, Minneapolis, Republican, United States Senate_
 
 ### [ India asks neighboring Myanmar to free Aung San Suu Kyi. ](/news/2007/10/4/india-asks-neighboring-myanmar-to-free-aung-san-suu-kyi.md)
 _Context: Aung San Suu Kyi, India, Myanmar_
 
-### [ Bangladesh Supreme Court denies bail to former Prime Minister Khaleda Zia in a corruption and extortion case against her.{{Fact|date=December 2007}} ](/news/2007/10/4/bangladesh-supreme-court-denies-bail-to-former-prime-minister-khaleda-zia-in-a-corruption-and-extortion-case-against-her-fact-date-decemb.md)
+### [ Bangladesh Supreme Court denies bail to former Prime Minister Khaleda Zia in a corruption and extortion case against her.date=December 2007 ](/news/2007/10/4/bangladesh-supreme-court-denies-bail-to-former-prime-minister-khaleda-zia-in-a-corruption-and-extortion-case-against-her-date-december-2007.md)
 _Context: Bangladesh, Khaleda Zia, Prime Minister, Supreme Court, bail, case, extortion_
 
 ### [ An Africa One Antonov An-26 cargo plane crashes into a residential area in Kinshasa, DR Congo. ](/news/2007/10/4/an-africa-one-antonov-an-26-cargo-plane-crashes-into-a-residential-area-in-kinshasa-dr-congo.md)

@@ -19,7 +19,7 @@ _Context: Alexei Navalny, Russian court, embezzlement_
 _Context: Cambodia, July elections, Sam Rainsy_
 
 ### [The Muslim Brotherhood calls for millions of supporters to hold rallies across Egypt two weeks after Mohamed Morsi was deposed as president. ](/news/2013/07/19/the-muslim-brotherhood-calls-for-millions-of-supporters-to-hold-rallies-across-egypt-two-weeks-after-mohamed-morsi-was-deposed-as-president.md)
-_Context: Egypt, Mohamed Morsi, Muslim Brotherhood, coup d'état_
+_Context: Egypt, Mohamed Morsi, Muslim Brotherhood, coup d'tat_
 
 ## [Previous Day...](/news/2013/07/18/index.md)
 

@@ -25,7 +25,7 @@ _Context: Iran, Japan, Middle East, Minister of Economy, Trade and Industry, Tak
 _Context: 2006 Zakouma elephant slaughter, Chad, elephant, massacres, population_
 
 ### [ Prime Minister of Poland, Jaroslaw Kaczynski, calls on the EU to develop a common foreign policy and build a "credible" military force. ](/news/2006/09/1/prime-minister-of-poland-jarosaaw-kaczyaski-calls-on-the-eu-to-develop-a-common-foreign-policy-and-build-a-credible-military-force.md)
-_Context: European Union, Jarosław Kaczyński, Poland_
+_Context: European Union, Jaroslaw Kaczynski, Poland_
 
 ### [ The Miss World 2006 pageant officially starts with the arrival of 104 nations to Warsaw, Poland for a month of activities across the country prior to the pageant's final on September 30th, 2006. ](/news/2006/09/1/the-miss-world-2006-pageant-officially-starts-with-the-arrival-of-104-nations-to-warsaw-poland-for-a-month-of-activities-across-the-countr.md)
 _Context: Miss World 2006, Poland, Warsaw_

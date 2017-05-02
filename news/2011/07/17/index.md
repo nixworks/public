@@ -4,7 +4,7 @@
 Hosni Mubarak&#039;s lawyer says the former Egyptian president is in a coma just weeks before he is due to stand trial on charges of corruption and murder.
 
 ### [Warner Bros. has reported that ''Harry Potter and the Deathly Hallows - Part 2'', the final instalment of the ''Harry Potter'' film series has broken box office records, taking $92.1m (PS57m) in North America on Friday, its opening day. ](/news/2011/07/17/warner-bros-has-reported-that-harry-potter-and-the-deathly-hallows-a-part-2-the-final-instalment-of-the-harry-potter-film-series.md)
-_Context: ''Harry Potter'' film series, Harry Potter and the Deathly Hallows – Part 2, Warner Bros._
+_Context: ''Harry Potter'' film series, Harry Potter and the Deathly Hallows - Part 2, Warner Bros._
 
 ### [The United Nations delivers aid to parts of Somalia controlled by al-Shabab militants for the first time since they ended the ban on food supplies. ](/news/2011/07/17/the-united-nations-delivers-aid-to-parts-of-somalia-controlled-by-al-shabab-militants-for-the-first-time-since-they-ended-the-ban-on-food-su.md)
 The UN makes its first aid delivery to drought victims in areas of Somalia controlled by al-Qaeda-linked militants since they lifted an aid ban.
@@ -31,10 +31,10 @@ Fox 5 NY, New York News, Breaking News, weather, sports, traffic, entertainment
 The home secretary is to address MPs following criticism over the closeness of the relationship between News International and the Met Police.
 
 ### [Former Uruguayan dictator Juan Maria Bordaberry dies under house arrest for murders committed during his time in power. ](/news/2011/07/17/former-uruguayan-dictator-juan-maraa-bordaberry-dies-under-house-arrest-for-murders-committed-during-his-time-in-power.md)
-_Context: Juan María Bordaberry, Uruguay, house arrest, murder_
+_Context: Juan Maria Bordaberry, Uruguay, house arrest, murder_
 
 ### [Voters in Sao Tome and Principe go to the polls for a presidential election with a runoff election necessary with the leading candidate Pinto da Costa failing to achieve an absolute majority. ](/news/2011/07/17/voters-in-sapso-toma-c-and-prancipe-go-to-the-polls-for-a-presidential-election-with-a-runoff-election-necessary-with-the-leading-candidate-p.md)
-_Context: Pinto da Costa, São Tomé and Príncipe, presidential election_
+_Context: Pinto da Costa, Sao Tome and Principe, presidential election_
 
 ## [Previous Day...](/news/2011/07/16/index.md)
 

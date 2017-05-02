@@ -4,7 +4,7 @@
 _Context: Shyrokyne, Ukrainian military, War in Donbass_
 
 ### [Two ISIL suicide bombers attack a Shiite mosque in Baghdad, killing at least 15 people. ](/news/2016/02/25/two-isil-suicide-bombers-attack-a-shiite-mosque-in-baghdad-killing-at-least-15-people.md)
-_Context: Baghdad, ISIL, Iraqi Civil War (2014–present), Shiite, suicide bomber_
+_Context: Baghdad, ISIL, Iraqi Civil War (2014-present), Shiite, suicide bomber_
 
 ### [The Syrian Army, backed by Russian airstrikes, recaptures the town of Khanasir from ISIL militants in the Aleppo Governorate. ](/news/2016/02/25/the-syrian-army-backed-by-russian-airstrikes-recaptures-the-town-of-khanasir-from-isil-militants-in-the-aleppo-governorate.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
@@ -22,7 +22,7 @@ Sharp Corp. agreed to a 700 billion yen ($6.2 billion) rescue deal from Taiwan�
 _Context: Australia, Dick Smith, New Zealand, administration_
 
 ### [Fiji's known casualties are 42 dead, one missing, and more than 100 injured.  Authorities say  five percent of the country (45,245 people) is staying in evacuation centers and about 80 schools have been damaged. UNICEF reports at least 120,000 of Fiji's children have been affected. The current  identified destruction is  more than $1 billion. About 80 percent of the plantations were damaged, especially sugar fields.  However, tourism's infrastructure has escaped serious damage. ](/news/2016/02/25/fiji-s-known-casualties-are-42-dead-one-missing-and-more-than-100-injured-authorities-say-five-percent-of-the-country-45-245-people-i.md)
-_Context: 2015–16 South Pacific cyclone season, Cyclone Winston, Fiji, UNICEF, evacuation centers, infrastructure, plantations, sugar fields, tourism's_
+_Context: 2015-16 South Pacific cyclone season, Cyclone Winston, Fiji, UNICEF, evacuation centers, infrastructure, plantations, sugar fields, tourism's_
 
 ### [The United States will present the draft resolution, resulting from yesterday's meeting with China, to the United Nations Security Council expanding sanctions on North Korea over its nuclear program. ](/news/2016/02/25/the-united-states-will-present-the-draft-resolution-resulting-from-yesterday-s-meeting-with-china-to-the-united-nations-security-council-e.md)
 The United States presented a draft Security Council resolution on Thursday it negotiated with China that would dramatically tighten existing restrictions on North Korea after its Jan. 6 nuclear test and create the toughest U.N. sanctions regime in over two decades.

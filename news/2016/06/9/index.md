@@ -4,13 +4,13 @@
 Somali Islamist militant group al-Shabab says it has killed 60 Ethiopian soldiers in an attack on an African Union base in Somalia.
 
 ### [Two separate car bombs explode in Baghdad, killing at least 20 people. ](/news/2016/06/9/two-separate-car-bombs-explode-in-baghdad-killing-at-least-20-people.md)
-_Context: Baghdad, Iraqi Civil War (2014–present)_
+_Context: Baghdad, Iraqi Civil War (2014-present)_
 
 ### [Thailand celebrates the 70th anniversary of King Bhumibol Adulyadej's accession to the Thai throne. ](/news/2016/06/9/thailand-celebrates-the-70th-anniversary-of-king-bhumibol-adulyadej-s-accession-to-the-thai-throne.md)
 _Context: Bhumibol Adulyadej, King, Thailand_
 
 ### [A bus plunges over a ravine in Brazil's Sao Paulo state, resulting in at least 18 people killed and 28 injured. ](/news/2016/06/9/a-bus-plunges-over-a-ravine-in-brazil-s-sapso-paulo-state-resulting-in-at-least-18-people-killed-and-28-injured.md)
-_Context: Brazil, São Paulo, ravine_
+_Context: Brazil, Sao Paulo, ravine_
 
 ### [A Northrop F-5 of the Swiss Air Force crashes during an air show at the Leeuwarden Air Base in the Netherlands. ](/news/2016/06/9/a-northrop-f-5-of-the-swiss-air-force-crashes-during-an-air-show-at-the-leeuwarden-air-base-in-the-netherlands.md)
 _Context: Leeuwarden Air Base, Netherlands, Northrop F-5, Swiss Air Force, air show_
@@ -22,7 +22,7 @@ HOUSTON (AP) — A small plane crashed into a car Thursday in a parking lot near
 MANAGUA, Nicaragua (AP) — An earthquake with a preliminary magnitude of 6.1 shook the northwestern coast of Nicaragua Thursday not far from the Honduran border. The U.S. Geological survey said the quake&#039;s epicenter was…
 
 ### [The World Health Organization advises women in areas where the Zika virus is prevalent to delay pregnancies. ](/news/2016/06/9/the-world-health-organization-advises-women-in-areas-where-the-zika-virus-is-prevalent-to-delay-pregnancies.md)
-_Context: 2015–16 Zika virus epidemic, World Health Organization, Zika virus_
+_Context: 2015-16 Zika virus epidemic, World Health Organization, Zika virus_
 
 ### [Israel suspends 83,000 entry permits for Palestinians for Ramadan following a mass shooting in downtown Tel Aviv that killed four and injured 17 people. ](/news/2016/06/9/israel-suspends-83-000-entry-permits-for-palestinians-for-ramadan-following-a-mass-shooting-in-downtown-tel-aviv-that-killed-four-and-injure.md)
 Israel said Thursday it had suspended entry permits for 83,000 Palestinians during the holy Muslim month of Ramadan following a shooting in Tel Aviv that killed four people. &quot;All permits for Ramadan, especially permits for family visits from...

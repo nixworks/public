@@ -16,7 +16,7 @@ An Indian preacher has been banned from entering the UK for his &quot;unacceptab
 Palestinian president urges George Mitchell to press Israel to lift its blockade on Gaza.
 
 ### [International Monetary Fund (IMF) head Dominique Strauss-Kahn meets with Prime Minister of Spain Jose Luis Rodriguez Zapatero in Madrid. ](/news/2010/06/18/international-monetary-fund-imf-head-dominique-strauss-kahn-meets-with-prime-minister-of-spain-josa-c-luis-rodraguez-zapatero-in-madrid.md)
-_Context: Dominique Strauss-Kahn, International Monetary Fund, José Luis Rodríguez Zapatero, Madrid, Prime Minister_
+_Context: Dominique Strauss-Kahn, International Monetary Fund, Jose Luis Rodriguez Zapatero, Madrid, Prime Minister_
 
 ### [President of Sri Lanka Mahinda Rajapaksa responds in a speech at a commemorative military pageant to critics of the army who say human rights abuses were committed against civilians during the 2009 defeat of the Liberation Tigers of Tamil Eelam rebels. ](/news/2010/06/18/president-of-sri-lanka-mahinda-rajapaksa-responds-in-a-speech-at-a-commemorative-military-pageant-to-critics-of-the-army-who-say-human-right.md)
 _Context: LTTE, Mahinda Rajapaksa, President of Sri Lanka_
@@ -25,7 +25,7 @@ _Context: LTTE, Mahinda Rajapaksa, President of Sri Lanka_
 Two ex-military chiefs in The Gambia are charged over an alleged plot to oust President Yahya Jammeh.
 
 ### [The Polish presidential election is being held earlier, following the death of Polish President Lech Kaczynski in a plane crash on 10 April 2010 near Smolensk. The two front-runners are Bronislaw Komorowski from the ruling center-right Civic Platform (Platforma Obywatelska) party and Jaroslaw Kaczynski from the right-wing Law and Justice (Prawo i Sprawiedliwosc) party. ](/news/2010/06/18/the-polish-presidential-election-is-being-held-earlier-following-the-death-of-polish-president-lech-kaczyaski-in-a-plane-crash-on-10-april.md)
-_Context: 2010 Polish Air Force Tu-154 crash, Bronisław Komorowski, Civic Platform, Jarosław Kaczyński, Law and Justice, Lech Kaczyński, Polish presidential election, 2010, Smolensk, the death_
+_Context: 2010 Polish Air Force Tu-154 crash, Bronislaw Komorowski, Civic Platform, Jaroslaw Kaczynski, Law and Justice, Lech Kaczynski, Polish presidential election, 2010, Smolensk, the death_
 
 ### [Indian government ministers meet for the first time as they re-examine the 1984 Bhopal disaster. ](/news/2010/06/18/indian-government-ministers-meet-for-the-first-time-as-they-re-examine-the-1984-bhopal-disaster.md)
 Indian government ministers who are re-examining the 1984 Bhopal gas disaster hold their first meeting.

@@ -10,7 +10,7 @@ Boko Haram is waging fresh attacks in northeastern Nigeria, locals say, with nea
 _Context: 2015 Sousse attacks, Tunisia, United Kingdom_
 
 ### [A United States drone strike kills at least four militants in Yemen. ](/news/2015/07/3/a-united-states-drone-strike-kills-at-least-four-militants-in-yemen.md)
-_Context: United States, Yemen, Yemeni Crisis (2011–present)_
+_Context: United States, Yemen, Yemeni Crisis (2011-present)_
 
 ### [The XV International Tchaikovsky Competition concludes with a ceremony awarding top prizes to Dmitry Masleev in piano, Yu-Chien Tseng in violin, Andrei Ionut Ionita in cello, as well as Yulia Matochkina and Ariunbaatar Ganbaatar in voice. ](/news/2015/07/3/the-xv-international-tchaikovsky-competition-concludes-with-a-ceremony-awarding-top-prizes-to-dmitry-masleev-in-piano-yu-chien-tseng-in-vio.md)
 The Awards Ceremony took place tonight, Wednesday 1 July, at the Tchaikovsky Concert Hall. It was an amazing ceremony after two rich weeks of competition which we will remember for a long time! Congratulations to all the talented candidates, and many thanks to the jury members, the Competition&#39;s teams and the wonderful audience!
@@ -49,7 +49,7 @@ Police in The Hague said Friday they had detained more than 200 people overnight
 _Context: CONCACAF, Cayman Islands, FIFA, Jeffrey Webb_
 
 ### [Pia Kjaersgaard becomes the first woman to be elected speaker of the Danish parliament, the Folketing. ](/news/2015/07/3/pia-kja-rsgaard-becomes-the-first-woman-to-be-elected-speaker-of-the-danish-parliament-the-folketing.md)
-_Context: Danish general election, 2015, Folketing, Pia Kjærsgaard, speaker of the Danish parliament_
+_Context: Danish general election, 2015, Folketing, Pia Kjaersgaard, speaker of the Danish parliament_
 
 ### [The U.S. Air Force's outgoing chief scientist, Mica Endsley, announces plans for an unmanned hypersonic flying weapon by 2023, which could travel at least up to Mach 5. ](/news/2015/07/3/the-u-s-air-force-s-outgoing-chief-scientist-mica-endsley-announces-plans-for-an-unmanned-hypersonic-flying-weapon-by-2023-which-could-t.md)
 _Context: Mach, Mica Endsley, United States Air Force, hypersonic_

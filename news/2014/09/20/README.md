@@ -22,7 +22,7 @@ _Context: Bingham McCutchen, Boston, Massachusetts, Morgan Lewis & Bockius, Phil
 Forget dirty politics, high-profile scalps and accusations of lies and spies - John Key swept all aside last night to win an historic third term as Prime Minister. - New Zealand Herald
 
 ### [Slovenian MEPs of the European People's Party announce that they will vote against the new line-up of the European Commission on 22 October unless former PM Alenka Bratusek is replaced as Slovenia's commissioner. ](/news/2014/09/20/slovenian-meps-of-the-european-people-s-party-announce-that-they-will-vote-against-the-new-line-up-of-the-european-commission-on-22-october.md)
-_Context: Alenka Bratušek, European Commission, Member of the European Parliament, Slovenia, biggest bloc_
+_Context: Alenka Bratusek, European Commission, Member of the European Parliament, Slovenia, biggest bloc_
 
 ## [Previous Day...](/news/2014/09/19/index.md)
 

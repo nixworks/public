@@ -1,9 +1,9 @@
 ## [2004-12-1](/news/2004/12/1/index.md)
 
 ### [ French officials acknowledge troops killed around 20 people during clashes with anti-French protestors, but maintain the French troops acted in self-defense and gave warning shots, contrary to Ivoirian police claims.  ](/news/2004/12/1/french-officials-acknowledge-troops-killed-around-20-people-during-clashes-with-anti-french-protestors-but-maintain-the-french-troops-acte.md)
-_Context: Côte d'Ivoire, Ivorian Civil War_
+_Context: Cote d'Ivoire, Ivorian Civil War_
 
-### [Rwandan troops are spotted by UN personnel in eastern Congo where Congolese officials say the troops are attacking and burning villages. The last invasion started the Congo Civil War, which resulted in the deaths of {{Nowrap|3-4 million}} people. ](/news/2004/12/1/rwandan-troops-are-spotted-by-un-personnel-in-eastern-congo-where-congolese-officials-say-the-troops-are-attacking-and-burning-villages-the.md)
+### [Rwandan troops are spotted by UN personnel in eastern Congo where Congolese officials say the troops are attacking and burning villages. The last invasion started the Congo Civil War, which resulted in the deaths of 3-4 million people. ](/news/2004/12/1/rwandan-troops-are-spotted-by-un-personnel-in-eastern-congo-where-congolese-officials-say-the-troops-are-attacking-and-burning-villages-the.md)
 _Context: Democratic Republic of the Congo, Rwanda, United Nations, civil war in the Democratic Republic of Congo_
 
 ### [CBS and NBC refuse to air an advertisement by the United Church of Christ citing the advocacy of accepting homosexuals is "too controversial". The advertisement was accepted by numerous other networks including Fox, ABC and TBS. ](/news/2004/12/1/cbs-and-nbc-refuse-to-air-an-advertisement-by-the-united-church-of-christ-citing-the-advocacy-of-accepting-homosexuals-is-too-controversial.md)
@@ -31,7 +31,7 @@ _Context: Canadian Prime Minister, George W. Bush, Paul Martin, president, terro
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ A French appeals court reduces former Prime Minister Alain Juppe's disqualification from holding public office from ten years to one, opening up the way for him to contend in the 2007 presidential election. ](/news/2004/12/1/a-french-appeals-court-reduces-former-prime-minister-alain-juppa-c-s-disqualification-from-holding-public-office-from-ten-years-to-one-open.md)
-_Context: Alain Juppé, Prime Minister_
+_Context: Alain Juppe, Prime Minister_
 
 ### [ Jailed Palestinian Marwan Barghouti joins the race to succeed Yasser Arafat, bringing the total to 10 candidates, drawing criticism from Arafat's Fatah movement. ](/news/2004/12/1/jailed-palestinian-marwan-barghouti-joins-the-race-to-succeed-yasser-arafat-bringing-the-total-to-10-candidates-drawing-criticism-from-ar.md)
 _Context: Fatah, Marwan Barghouti, Palestinian presidential election, Yasser Arafat_

@@ -28,7 +28,7 @@ A rush-hour train derails on the Moscow metro, killing 21 people, the Russian au
 _Context: 2009 Black Saturday bushfires, Australia, SP AusNet, Victoria, Victorian Department of Sustainability and Environment_
 
 ### [Mexican police rescue 458 children and 138 adults from a Great Family Group Home in Michoacan state where they were allegedly badly mistreated including sexual abuse. ](/news/2014/07/15/mexican-police-rescue-458-children-and-138-adults-from-a-great-family-group-home-in-michoacan-state-where-they-were-allegedly-badly-mistreat.md)
-_Context: Mexican police, Michoacán_
+_Context: Mexican police, Michoacn_
 
 ### [Salim al-Jabouri is elected as speaker of the Iraqi parliament. ](/news/2014/07/15/salim-al-jabouri-is-elected-as-speaker-of-the-iraqi-parliament.md)
 _Context: Iraqi Parliament, Salim al-Jabouri_

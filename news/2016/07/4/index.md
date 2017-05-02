@@ -4,10 +4,10 @@
 _Context: ISIL, Malaysia, Terrorism in Malaysia_
 
 ### [CPP-NPA-NDF rebellion; The Communist Party of the Philippines agrees to fight drug lords after its legal wing Bagong Alyansang Makabayan joins the government cabinet of Rodrigo Duterte. ](/news/2016/07/4/cppanpaandf-rebellion-the-communist-party-of-the-philippines-agrees-to-fight-drug-lords-after-its-legal-wing-bagong-alyansang-makabayan.md)
-_Context: Bagong Alyansang Makabayan, CPP–NPA–NDF rebellion, Communist Party of the Philippines, Philippine Drug War, Rodrigo Duterte, cabinet, illegal drug trade_
+_Context: Bagong Alyansang Makabayan, CPP-NPA-NDF rebellion, Communist Party of the Philippines, Philippine Drug War, Rodrigo Duterte, cabinet, illegal drug trade_
 
 ### [Israel's military attacks two Syrian Army targets in Syrian territory from the Golan Heights after a fire from the fighting damages a security fence on the border. ](/news/2016/07/4/israel-s-military-attacks-two-syrian-army-targets-in-syrian-territory-from-the-golan-heights-after-a-fire-from-the-fighting-damages-a-securi.md)
-_Context: Golan Heights, Israel Defense Forces, Israel–Syria relations, Syrian Army, Syrian Civil War_
+_Context: Golan Heights, Israel Defense Forces, Israel-Syria relations, Syrian Army, Syrian Civil War_
 
 ### [A suspected suicide bomber detonates his belt near the U.S. consulate in Jeddah, killing himself and wounding two guards. ](/news/2016/07/4/a-suspected-suicide-bomber-detonates-his-belt-near-the-u-s-consulate-in-jeddah-killing-himself-and-wounding-two-guards.md)
 A suspected suicide bomber dies after being tackled by guards near the US consulate in Jeddah, the Saudi Arabian interior ministry says.

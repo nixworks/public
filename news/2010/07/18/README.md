@@ -67,7 +67,7 @@ Israel must go beyond easing its blockade of Gaza and throw open its border, EU 
 _Context: Ajami, Israel, Jaffa_
 
 ### [Omar Deghayes, a former Guantanamo Bay detainee and one of six suing the British government, says notes taken during his interrogation by British security service officers have been censored to hide the fact that he was tortured by agents and to avoid potentially embarrassing questions. ](/news/2010/07/18/omar-deghayes-a-former-guanta-namo-bay-detainee-and-one-of-six-suing-the-british-government-says-notes-taken-during-his-interrogation-by-b.md)
-_Context: Guantánamo Bay, Omar Deghayes_
+_Context: Guantanamo Bay, Omar Deghayes_
 
 ### [Saddam Hussein's former foreign minister Tariq Aziz and other senior members are summoned and appear in an Iraqi court charged with "squandering the public wealth". ](/news/2010/07/18/saddam-hussein-s-former-foreign-minister-tariq-aziz-and-other-senior-members-are-summoned-and-appear-in-an-iraqi-court-charged-with-squande.md)
 _Context: Iraq, Saddam Hussein, Tariq Aziz_

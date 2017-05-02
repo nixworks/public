@@ -46,7 +46,7 @@ _Context: GRAIL, NASA_
 _Context: Africa Cup of Nations, Swaziland national football team_
 
 ### [In motor sports, Argentine motorcycle rider Jorge Andres Boero dies in the first leg of the Dakar Rally in Argentina. ](/news/2012/01/1/in-motor-sports-argentine-motorcycle-rider-jorge-andra-c-s-boero-dies-in-the-first-leg-of-the-dakar-rally-in-argentina.md)
-_Context: Argentina, Argentine, Dakar Rally, Jorge Andrés Boero, motorcycle-riding_
+_Context: Argentina, Argentine, Dakar Rally, Jorge Andres Boero, motorcycle-riding_
 
 ## [Previous Day...](/news/2011/12/31/index.md)
 

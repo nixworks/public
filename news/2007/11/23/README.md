@@ -28,7 +28,7 @@ _Context: AIDS, Europe, European Centre for Disease Prevention and Control, rate
 _Context: Alexander Litvinenko, Louise Christian, Russia, lawyer, nuclear plant, polonium-210_
 
 ### [ Many employees of Paris Mtro cross picket lines and return to work, defying the ongoing public-sector strikes. Transit officials report near-normal operation. ](/news/2007/11/23/many-employees-of-paris-metro-cross-picket-lines-and-return-to-work-defying-the-ongoing-public-sector-strikes-transit-officials-report-ne.md)
-_Context: Paris Métro, public-sector strikes_
+_Context: Paris Mtro, public-sector strikes_
 
 ### [ Typhoon Mitag remains stationary but threatens the Bicol Region, east of the Philippines, and is expected to make landfall in Virac, Catanduanes tomorrow. ](/news/2007/11/23/typhoon-mitag-remains-stationary-but-threatens-the-bicol-region-east-of-the-philippines-and-is-expected-to-make-landfall-in-virac-catand.md)
 _Context: Bicol Region, Catanduanes, Philippines, Typhoon Mitag, Virac, landfall_

@@ -1,13 +1,13 @@
 ## [2009-03-4](/news/2009/03/4/index.md)
 
 ### [ Venezuelan President Hugo Chvez orders the nationalization of United States-based food company Cargill. ](/news/2009/03/4/venezuelan-president-hugo-chavez-orders-the-nationalization-of-united-states-based-food-company-cargill.md)
-_Context: Cargill, Hugo Chávez, United States, Venezuela, Venezuelan President, food company, nationalizes_
+_Context: Cargill, Hugo Chvez, United States, Venezuela, Venezuelan President, food company, nationalizes_
 
 ### [ A riot at a prison near Ciudad Jurez, Mexico, kills at least 20 inmates and injures seven others. ](/news/2009/03/4/a-riot-at-a-prison-near-ciudad-juarez-mexico-kills-at-least-20-inmates-and-injures-seven-others.md)
 _Context: Juarez, Mexico, prison, riot_
 
 ### [ Gordon Brown becomes the United Kingdom's fifth Prime Minister to address a joint session of the U.S. Congress. ](/news/2009/03/4/gordon-brown-becomes-the-united-kingdom-s-fifth-prime-minister-to-address-a-joint-session-of-the-u-s-congress.md)
-_Context: Gordon Brown, Prime Minster, U.S. Congress, United Kingdom, United States, joint session of Congress_
+_Context: Gordon Brown, Prime Minster, U.S. Congressional, United Kingdom, United States, joint session of Congress_
 
 ### [ President Nicolas Sarkozy and eight other top French politicians receive death threats. ](/news/2009/03/4/president-nicolas-sarkozy-and-eight-other-top-french-politicians-receive-death-threats.md)
 _Context: France, Nicolas Sarkozy, death threat, politician, president_
@@ -25,7 +25,7 @@ _Context: Asif Ali Zardari, Pakistan, President, Taliban, extremist, negotiation
 _Context: International Committee of the Red Cross, Sri Lanka, Sri Lankan Civil War, humanitarian crisis_
 
 ### [ Independent Television reports a loss of 2.7 billion for 2008 and will cut 600 jobs. ](/news/2009/03/4/independent-television-reports-a-loss-of-ps2-7-billion-for-2008-and-will-cut-600-jobs.md)
-_Context: ITV, layoff, Â£_
+_Context: ITV, PS, layoff_
 
 ### [ The International Criminal Court issues an arrest warrant for Sudanese President Omar al-Bashir for a five-year campaign of violence in Darfur. ](/news/2009/03/4/the-international-criminal-court-issues-an-arrest-warrant-for-sudanese-president-omar-al-bashir-for-a-five-year-campaign-of-violence-in-dar.md)
 _Context: Darfur, International Criminal Court, Omar al-Bashir, President, Sudan, arrest warrant, conflict_

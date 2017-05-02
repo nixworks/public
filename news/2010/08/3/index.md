@@ -82,7 +82,7 @@ A civil rights group files a legal challenge to obtain a licence to represent Mu
 A trial opens in Kuwait of six men, including a Kuwaiti soldier, and one woman accused of spying for Iran.
 
 ### [Canada's Transportation Minister John Baird orders an inquiry after a video surfaces showing two figures boarding a flight without showing their faces. ](/news/2010/08/3/canada-s-transportation-minister-john-baird-orders-an-inquiry-after-a-video-surfaces-showing-two-figures-boarding-a-flight-without-showing-t.md)
-_Context: Canadian, John Baird_
+_Context: Canada, John Baird_
 
 ### [Jackie Selebi, former chief of Interpol and South Africa's top police officer, is sentenced to 15 years in prison on corruption charges. ](/news/2010/08/3/jackie-selebi-former-chief-of-interpol-and-south-africa-s-top-police-officer-is-sentenced-to-15-years-in-prison-on-corruption-charges.md)
 Jackie Selebi sentenced to 15 years in jail for accepting bribes from organised crime.

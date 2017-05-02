@@ -37,7 +37,7 @@ The US Coast Guard re-opens a section of the swollen Mississippi River to shippi
 _Context: Pennsylvania, Philadelphia, tornado_
 
 ### [Sol Lneas Areas Flight 5428 aircraft crashes in the southern Patagonia region of Argentina with all 22 people on board dying - icing of the propellor driven Saab 340 is cited as a possible cause.  ](/news/2011/05/18/sol-lineas-aereas-flight-5428-aircraft-crashes-in-the-southern-patagonia-region-of-argentina-with-all-22-people-on-board-dying-icing-of-th.md)
-_Context: Argentina, Flight 5428, Patagonia, Saab 340, Sol LÌneas AÈreas_
+_Context: Argentina, Flight 5428, Patagonia, Saab 340, Sol Lneas Areas_
 
 ### [The Palestinian Authority calls on Israel to reinstate the rights of up to 140,000 people who lived in the occupied West Bank and lost their residency after travelling abroad. ](/news/2011/05/18/the-palestinian-authority-calls-on-israel-to-reinstate-the-rights-of-up-to-140-000-people-who-lived-in-the-occupied-west-bank-and-lost-their.md)
 The Palestinian Authority wants Israel to reinstate the lost residency rights of up to 140,000 people from the West Bank, Yolande Knell reports.
@@ -58,7 +58,7 @@ _Context: Andrew Fastow, CFO, Enron Corp., Federal Bureau of Prisons, Houston, T
 _Context: 2008 Mumbai attacks, Chicago, Tahawwur Hussain Rana_
 
 ### [The President of Guatemala, Alvaro Colom, claims that Hugo Alvaro Gomez Vasquez, who has been arrested in relation to the killing of 27 cattle ranch workers, is a leader of the Los Zetas drug cartel in the country. ](/news/2011/05/18/the-president-of-guatemala-alvaro-colom-claims-that-hugo-alvaro-gomez-vasquez-who-has-been-arrested-in-relation-to-the-killing-of-27-catt.md)
-_Context: Guatemalan President, Hugo Alvaro Gomez Vasquez, Los Zetas Cartel, cattle ranch, √Ålvaro Colom_
+_Context: Alvaro Colom, Guatemalan President, Hugo Alvaro Gomez Vasquez, Los Zetas Cartel, cattle ranch_
 
 ### [An Afghan detainee commits suicide at the US run Guantanamo Bay detention camp. ](/news/2011/05/18/an-afghan-detainee-commits-suicide-at-the-us-run-guantanamo-bay-detention-camp.md)
 An Afghan prisoner has died at the Guantanamo detention center in an apparent suicide, the U.S. military says.

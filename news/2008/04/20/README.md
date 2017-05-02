@@ -13,7 +13,7 @@ Danica Patrick became the first female winner in IndyCar history Sunday, taking 
 The Pentagon has cultivated “military analysts” in a campaign to generate favorable news coverage of the Bush administration’s wartime performance.
 
 ### [ Brazilian priest Adelir Antonio de Carli goes missing after cluster ballooning to raise money for truck drivers in Paranagu, Paran. ](/news/2008/04/20/brazilian-priest-adelir-antonio-de-carli-goes-missing-after-cluster-ballooning-to-raise-money-for-truck-drivers-in-paranagua-parana.md)
-_Context: Adelir Antonio de Carli, Brazil, Paranaguá, Paran�, cluster ballooning, priest, truck drivers_
+_Context: Adelir Antonio de Carli, Brazil, Paran, Paranagua, cluster ballooning, priest, truck drivers_
 
 ## [Previous Day...](/news/2008/04/19/index.md)
 

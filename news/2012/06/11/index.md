@@ -1,7 +1,7 @@
 ## [2012-06-11](/news/2012/06/11/index.md)
 
 ### [Arab Spring:Bahraini uprising: An 11-year-old child is released after weeks in detention, but still faces being put on trial for "joining an illegal gathering". ](/news/2012/06/11/arab-spring-pbahraini-uprising-an-11-year-old-child-is-released-after-weeks-in-detention-but-still-faces-being-put-on-trial-for-joining-a.md)
-_Context: Arab Spring, Bahraini uprising (2011–present)_
+_Context: Arab Spring, Bahraini uprising (2011-present)_
 
 ### [Afghanistan:Five people are killed after an ambulance hits a roadside bomb in Sar-e-Pul Province. ](/news/2012/06/11/afghanistan-pfive-people-are-killed-after-an-ambulance-hits-a-roadside-bomb-in-sar-e-pul-province.md)
 _Context: Afghanistan, Sar-e-Pul Province, ambulance_

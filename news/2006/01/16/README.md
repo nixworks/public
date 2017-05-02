@@ -6,7 +6,7 @@ _Context: Gerald Ford, pneumonia, president_
 ### [ Rizgar Mohammed Amin, the chief judge in the Saddam Hussein trial, tenders his resignation, following criticism of his handling of the trial. ](/news/2006/01/16/rizgar-mohammed-amin-the-chief-judge-in-the-saddam-hussein-trial-tenders-his-resignation-following-criticism-of-his-handling-of-the-tria.md)
 _Context: Rizgar Mohammed Amin, Saddam Hussein, Trials of Saddam Hussein_
 
-### [ The United Nations appeals for {{Nowrap|US$240 million}} of food aid for West Africa to feed at least {{Nowrap|10 million}} people affected by the food crisis, with Niger being the worst-affected country. ](/news/2006/01/16/the-united-nations-appeals-for-nowrap-us-240-million-of-food-aid-for-west-africa-to-feed-at-least-nowrap-10-million-people-affected.md)
+### [ The United Nations appeals for US$240 million of food aid for West Africa to feed at least 10 million people affected by the food crisis, with Niger being the worst-affected country. ](/news/2006/01/16/the-united-nations-appeals-for-us-240-million-of-food-aid-for-west-africa-to-feed-at-least-10-million-people-affected-by-the-food-crisis-w.md)
 _Context: Niger, United Nations, West Africa_
 
 ### [ A dockworkers' strike in Europe has thousands of workers off the job in protest over proposed liberalization of European Union rules on port services. A demonstration outside the European Parliament in Strasbourg leaves twelve French police officers injured. ](/news/2006/01/16/a-dockworkers-strike-in-europe-has-thousands-of-workers-off-the-job-in-protest-over-proposed-liberalization-of-european-union-rules-on-por.md)

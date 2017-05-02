@@ -37,7 +37,7 @@ _Context: La Liga, RCD Mallorca, association football_
 _Context: Metalist Kharkiv, Oleksandr Yaroslavsky_
 
 ### [Former FC Barcelona coach Radomir Antic appointed as new manager of China's football club Shandong Luneng. ](/news/2012/12/24/former-fc-barcelona-coach-radomir-antia-appointed-as-new-manager-of-china-s-football-club-shandong-luneng.md)
-_Context: China, FC Barcelona, Radomir Antić, Shandong Luneng, association football_
+_Context: China, FC Barcelona, Radomir Antic, Shandong Luneng, association football_
 
 ## [Previous Day...](/news/2012/12/23/index.md)
 

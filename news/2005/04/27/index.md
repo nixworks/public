@@ -28,7 +28,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: May 29, elections in Lebanon_
 
 ### [ Colombian president lvaro Uribe sacks four top army generals for disagreeing with his army reforms. ](/news/2005/04/27/colombian-president-alvaro-uribe-sacks-four-top-army-generals-for-disagreeing-with-his-army-reforms.md)
-_Context: Colombia, General, √Ålvaro Uribe_
+_Context: Alvaro Uribe, Colombia, General_
 
 ### [ In Togo, opposition resistance against election victory of Faure Gnassingb escalates into violence. At least 33 have died in the clashes. Opposition leader Bob Akitani declares himself president. ](/news/2005/04/27/in-togo-opposition-resistance-against-election-victory-of-faure-gnassingbe-escalates-into-violence-at-least-33-have-died-in-the-clashes.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
@@ -55,7 +55,7 @@ _Context: Austria, Freedom Party of Austria, John Gudenus, Nazism_
 _Context: MIA, United States, Vietnam_
 
 ### [ In Cte d'Ivoire, opposition leader Alassane Ouattara welcomes President Laurent Gbagbo's decision to let him contest elections. South African president Thabo Mbeki welcomes it as well. ](/news/2005/04/27/in-cote-d-ivoire-opposition-leader-alassane-ouattara-welcomes-president-laurent-gbagbo-s-decision-to-let-him-contest-elections-south-afri.md)
-_Context: Alassane Ouattara, CÙte d'Ivoire, Laurent Gbagbo, South Africa, Thabo Mbeki_
+_Context: Alassane Ouattara, Cte d'Ivoire, Laurent Gbagbo, South Africa, Thabo Mbeki_
 
 ### [ In Scotland the [http://www.cbrd.co.uk/motorway/77.shtml M77] was opened by the First minister Jack Mcconnell, from Fenwick in East Ayrshire to Newton Mearns in East Renfrewshire replacing the old dangerous [http://www.a77campaign.co.uk A77] which has claimed many lives, including a local police officer.](/news/2005/04/27/in-scotland-the-http-www-cbrd-co-uk-motorway-77-shtml-m77-was-opened-by-the-first-minister-jack-mcconnell-from-fenwick-in-east-ayrshir.md)
 _Context: Jack McConnell, Scotland_

@@ -40,10 +40,10 @@ International Court of Justice ruled last year that Japanese whaling must stop, 
 Grant Shapps quits as a minister amid claims he failed to act on allegations of bullying in the Tory youth wing, saying the &quot;buck should stop with me&quot;.
 
 ### [Tyson Fury of the United Kingdom defeats Ukrainian boxer Wladimir Klitschko in a title fight in Dusseldorf winning the WBA Super, IBF and WBO heavyweight titles. ](/news/2015/11/28/tyson-fury-of-the-united-kingdom-defeats-ukrainian-boxer-wladimir-klitschko-in-a-title-fight-in-dusseldorf-winning-the-wba-super-ibf-and-wb.md)
-_Context: Düsseldorf, Tyson Fury, Ukrainian, United Kingdom, Wladimir Klitschko, heavyweight_
+_Context: Dsseldorf, Tyson Fury, Ukrainian, United Kingdom, Wladimir Klitschko, heavyweight_
 
 ### [Leicester City's Jamie Vardy scores in a record eleven consecutive Premier League matches after scoring against Manchester United in a 1-1 draw at the King Power Stadium, breaking former Manchester United player Ruud van Nistelrooy's record. ](/news/2015/11/28/leicester-city-s-jamie-vardy-scores-in-a-record-eleven-consecutive-premier-league-matches-after-scoring-against-manchester-united-in-a-1-1-d.md)
-_Context: 2015â€“16 Premier League, Jamie Vardy, King Power Stadium, Leicester City F.C., Manchester United, Ruud van Nistelrooy_
+_Context: 2015-16 Premier League, Jamie Vardy, King Power Stadium, Leicester City F.C., Manchester United, Ruud van Nistelrooy_
 
 ## [Previous Day...](/news/2015/11/27/index.md)
 

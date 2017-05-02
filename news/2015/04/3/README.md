@@ -1,7 +1,7 @@
 ## [2015-04-3](/news/2015/04/3/index.md)
 
 ### [ Five people die in a helicopter crash in a Sao Paulo residential area, including the son of Governor Geraldo Alckmin. ](/news/2015/04/3/five-people-die-in-a-helicopter-crash-in-a-sapso-paulo-residential-area-including-the-son-of-governor-geraldo-alckmin.md)
-_Context: Geraldo Alckmin, Governor, São Paulo_
+_Context: Geraldo Alckmin, Governor, Sao Paulo_
 
 ### [Germanwings Flight 9525:Data from the flight data recorder reveals that the plane was deliberately accelerated before crashing into the French Alps. ](/news/2015/04/3/germanwings-flight-9525-pdata-from-the-flight-data-recorder-reveals-that-the-plane-was-deliberately-accelerated-before-crashing-into-the-fre.md)
 The pilot at the controls of a Germanwings jet that crashed in the French Alps accelerated the plane into the mountainside, killing all 150 people on board, according to French investigators.
@@ -10,7 +10,7 @@ The pilot at the controls of a Germanwings jet that crashed in the French Alps a
 Egyptian security sources say at least 15 soldiers and two civilians have been killed after gunmen attacked military checkpoints in the Sinai peninsula.
 
 ### [ Saudi Arabia donates a plethora of weapons and medical supplies to the conflict by dropping them over Tawahi. ](/news/2015/04/3/saudi-arabia-donates-a-plethora-of-weapons-and-medical-supplies-to-the-conflict-by-dropping-them-over-tawahi.md)
-_Context: Saudi Arabia, Tawahi, Yemeni Crisis (2011–present)_
+_Context: Saudi Arabia, Tawahi, Yemeni Crisis (2011-present)_
 
 ### [Israeli Prime Minister Benjamin Netanyahu disagrees with the Iranian nuclear program agreement that the P5+1 Nations offered to Iran, saying it threatens Israel.  ](/news/2015/04/3/israeli-prime-minister-benjamin-netanyahu-disagrees-with-the-iranian-nuclear-program-agreement-that-the-p5-1-nations-offered-to-iran-saying.md)
 Security cabinet united in opposition to Iran deal as Netanyahu tells Obama nuclear deal &#39;would threaten survival of Israel, bolster Iran&#39;s nuclear program and pave way path to bomb.&#39;

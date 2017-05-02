@@ -1,10 +1,10 @@
 ## [2015-10-20](/news/2015/10/20/index.md)
 
 ### [The United States Chairman of the Joint Chiefs of Staff, Marine Corps General Joseph Dunford arrived in Iraq to discuss the ongoing battle against ISIS. ](/news/2015/10/20/the-united-states-chairman-of-the-joint-chiefs-of-staff-marine-corps-general-joseph-dunford-arrived-in-iraq-to-discuss-the-ongoing-battle-a.md)
-_Context: American-led intervention in Iraq, Chairman of the Joint Chiefs of Staff, General, ISIL, Iraq, Iraqi Civil War (2014–present), Joseph Dunford, United States, United States Marine Corps_
+_Context: American-led intervention in Iraq, Chairman of the Joint Chiefs of Staff, General, ISIL, Iraq, Iraqi Civil War (2014-present), Joseph Dunford, United States, United States Marine Corps_
 
 ### [U.N. Secretary-General Ban Ki-moon, during a surprise visit to Jerusalem today, calls for calm ahead of meetings with Israeli and Palestinian leaders in an effort to bring an end to the month-long wave of violence. ](/news/2015/10/20/u-n-secretary-general-ban-ki-moon-during-a-surprise-visit-to-jerusalem-today-calls-for-calm-ahead-of-meetings-with-israeli-and-palestinia.md)
-_Context: Ban Ki-moon, Israel, Israeli–Palestinian conflict (2015), Jerusalem, Palestinian, Secretary General_
+_Context: Ban Ki-moon, Israel, Israeli-Palestinian conflict (2015), Jerusalem, Palestinian, Secretary General_
 
 ### [Russian airstrikes in Syria's coastal Latakia province have killed a top FSA commander, Basil Zamo, and several other rebel fighters. ](/news/2015/10/20/russian-airstrikes-in-syriaas-coastal-latakia-province-have-killed-a-top-fsa-commander-basil-zamo-and-several-other-rebel-fighters.md)
 At least three Russians fighting alongside Syrian government forces were killed and several more wounded when a shell hit their position in the coastal province of Latakia, a senior pro-government military source said on Tuesday.

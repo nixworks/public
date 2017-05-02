@@ -1,7 +1,7 @@
 ## [2008-03-11](/news/2008/03/11/index.md)
 
 ### [ United States presidential election, 2008: Illinois Senator Barack Obama wins the Mississippi Democratic primary. ](/news/2008/03/11/united-states-presidential-election-2008-illinois-senator-barack-obama-wins-the-mississippi-democratic-primary.md)
-_Context: 2008, Barack Obama, Democratic primary, Illinois, Mississippi, Senator_
+_Context: 2008, Barack Obama, Democratic primary, Illinois, Mississippi, United States Senate_
 
 ### [ The United States House of Representatives fails to override President Bush's veto of a bill outlawing waterboarding and other interrogation techniques. ](/news/2008/03/11/the-united-states-house-of-representatives-fails-to-override-president-bush-s-veto-of-a-bill-outlawing-waterboarding-and-other-interrogatio.md)
 _Context: George W. Bush, U.S. House, United States, interrogation, president, veto, veto override, waterboarding_
@@ -12,7 +12,7 @@ The top U.S. commander for the Iraq and Afghanistan wars said on Tuesday he woul
 ### [ Cricket Australia and the Pakistan Cricket Board announce that the tour of Pakistan by the Australia national cricket team has been postponed due to security issues. ](/news/2008/03/11/cricket-australia-and-the-pakistan-cricket-board-announce-that-the-tour-of-pakistan-by-the-australia-national-cricket-team-has-been-postpon.md)
 _Context: Australia, Cricket Australia, Pakistan, Pakistan Cricket Board_
 
-### [ The {{OV|105}} launches from Kennedy Space Center carrying the crew of STS-123, the Japanese Experiment Module, and Dextre. The ship will rendezvous with the International Space Station. ](/news/2008/03/11/the-ov-105-launches-from-kennedy-space-center-carrying-the-crew-of-sts-123-the-japanese-experiment-module-and-dextre-the-ship-will-r.md)
+### [ The 105 launches from Kennedy Space Center carrying the crew of STS-123, the Japanese Experiment Module, and Dextre. The ship will rendezvous with the International Space Station. ](/news/2008/03/11/the-105-launches-from-kennedy-space-center-carrying-the-crew-of-sts-123-the-japanese-experiment-module-and-dextre-the-ship-will-rendezvo.md)
 NASA&#039;s space shuttle fleet began setting records with its first launch on April 12, 1981 and continued to set high marks of achievement and endurance through 30 years of missions.
 
 ### [ At least 12 people are killed when a bomb explodes at offices of Pakistan's Federal Investigation Agency in Lahore. ](/news/2008/03/11/at-least-12-people-are-killed-when-a-bomb-explodes-at-offices-of-pakistan-s-federal-investigation-agency-in-lahore.md)

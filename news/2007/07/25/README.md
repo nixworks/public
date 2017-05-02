@@ -30,7 +30,7 @@ _Context: Arab League, Arab Peace Initiative, Egypt, Israel, Jordan_
 ### [ Iraq's largest Sunni Arab bloc, The Iraqi Accordance Front, suspends its membership in Prime Minister Nouri al-Maliki's coalition government. ](/news/2007/07/25/iraq-s-largest-sunni-arab-bloc-the-iraqi-accordance-front-suspends-its-membership-in-prime-minister-nouri-al-maliki-s-coalition-governmen.md)
 _Context: Arab, Iraq, Iraq Prime Minister, Iraqi Accordance Front, Nouri al-Maliki, Sunni, coalition government_
 
-### [ Pratibha Patil is sworn-in as the first woman President of India.{{Fact|date=December 2007}} ](/news/2007/07/25/pratibha-patil-is-sworn-in-as-the-first-woman-president-of-india-fact-date-december-2007.md)
+### [ Pratibha Patil is sworn-in as the first woman President of India.date=December 2007 ](/news/2007/07/25/pratibha-patil-is-sworn-in-as-the-first-woman-president-of-india-date-december-2007.md)
 _Context: Pratibha Patil, President of India_
 
 ### [ A Russian subcontractor advises that Iran's first nuclear power reactor will be ready in August 2008. ](/news/2007/07/25/a-russian-subcontractor-advises-that-iran-s-first-nuclear-power-reactor-will-be-ready-in-august-2008.md)

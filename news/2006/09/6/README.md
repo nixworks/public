@@ -4,7 +4,7 @@
 _Context: 1995, Georgia, Igor Giorgadze, Interpol, Russia, Shevardnadze_
 
 ### [ The United States government announces that fourteen suspected terrorists are to be transferred to the Guantanamo Bay detainment camp and admits that these suspects have been held in CIA black sites. These people include Khalid Sheik Mohammed, believed to be the No. 3 al-Qaida leader before he was captured in Pakistan in 2003; Ramzi Binalshibh, an alleged would-be 9/11 hijacker; and Abu Zubaydah, who was believed to be a link between Osama bin Laden and many al-Qaida cells before he was also captured in Pakistan in March 2002. ](/news/2006/09/6/the-united-states-government-announces-that-fourteen-suspected-terrorists-are-to-be-transferred-to-the-guantanamo-bay-detainment-camp-and-a.md)
-_Context: 9/11, Abu Zubaydah, Al Qaida's, Central Intelligence Agency, Guantánamo Bay detainment camp, Khalid Sheik Mohammed, Osama bin Laden, Pakistan, Ramzi Binalshibh, black site_
+_Context: 9/11, Abu Zubaydah, Al Qaida's, Central Intelligence Agency, Guantnamo Bay detainment camp, Khalid Sheik Mohammed, Osama bin Laden, Pakistan, Ramzi Binalshibh, black site_
 
 ### [ The Singaporean economy tops a list of 175 economies as the most business-friendly economy in the world in a survey conducted by the World Bank's International Finance Corporation. [http://www.channelnewsasia.com/stories/singaporebusinessnews/view/228852/1/.html (CNA)] [http://www.doingbusiness.org/EconomyRankings/Default.aspx?direction=asc&sort=1 (IFC)].](/news/2006/09/6/the-singaporean-economy-tops-a-list-of-175-economies-as-the-most-business-friendly-economy-in-the-world-in-a-survey-conducted-by-the-world.md)
 _Context: International Finance Corporation, Singapore's economy, World Bank_
@@ -16,7 +16,7 @@ _Context: Chris Mole, David Wright, Ian Lucas, Khalid Mahmood, Mark Tami, PPS, P
 _Context: Akihito, Japan, Prince Akishino, Princess Kiko, caesarean section_
 
 ### [ Cte d'Ivoire Prime Minister Charles Konan Banny dissolves his Cabinet after toxic waste was dumped in the city of Abidjan, making over 1,500 people ill and killing three. ](/news/2006/09/6/cote-d-ivoire-prime-minister-charles-konan-banny-dissolves-his-cabinet-after-toxic-waste-was-dumped-in-the-city-of-abidjan-making-over-1-5.md)
-_Context: Abidjan, Charles Konan Banny, Côte d'Ivoire, Prime Minister_
+_Context: Abidjan, Charles Konan Banny, Cte d'Ivoire, Prime Minister_
 
 ## [Previous Day...](/news/2006/09/5/index.md)
 

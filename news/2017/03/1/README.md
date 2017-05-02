@@ -1,13 +1,13 @@
 ## [2017-03-1](/news/2017/03/1/index.md)
 
 ### [At least 16 people were killed and 40 more  wounded after two suicide bombers attacked Kabul. The Taliban claimed responsibility for the attacks. ](/news/2017/03/1/at-least-16-people-were-killed-and-40-more-wounded-after-two-suicide-bombers-attacked-kabul-the-taliban-claimed-responsibility-for-the-att.md)
-_Context: Kabul, Taliban, War in Afghanistan (2015–present)_
+_Context: Kabul, Taliban, War in Afghanistan (2015-present)_
 
 ### [The Dow Jones Industrial Average rises above 21,000 points, reaching an all-time high. ](/news/2017/03/1/the-dow-jones-industrial-average-rises-above-21-000-points-reaching-an-all-time-high.md)
 Investors bet big on U.S. stocks, giving the market its biggest one-day gain in nearly four months and pushing the major indexes to record highs. The Dow Jones industrial average topped 21,000
 
 ### [The European Union formally grants Georgian citizens visa-free travel to its member states, with the exception of Ireland and the United Kingdom. The signed documents will be published on March 8, and officially enter into force on March 28. ](/news/2017/03/1/the-european-union-formally-grants-georgian-citizens-visa-free-travel-to-its-member-states-with-the-exception-of-ireland-and-the-united-kin.md)
-_Context: European Union, Georgia, Georgia–European Union relations, Republic of Ireland, United Kingdom, member states_
+_Context: European Union, Georgia, Georgia-European Union relations, Republic of Ireland, United Kingdom, member states_
 
 ### [Russia and China veto a draft United Nations Security Council resolution sponsored by France, the United Kingdom and the United States calling for sanctions against the Syrian government and President Bashar al-Assad over allegations that the government used chemical weapons in the conflict. ](/news/2017/03/1/russia-and-china-veto-a-draft-united-nations-security-council-resolution-sponsored-by-france-the-united-kingdom-and-the-united-states-calli.md)
 Russia and China have vetoed a UN Security Council proposal that would have banned the supply of helicopters to the Syrian government, and blacklisted eleven Syrian military commanders over allegations of toxic gas attacks.
@@ -25,7 +25,7 @@ Sudanese President Omar Hassan al-Bashir named his first vice president and long
 _Context: Pakalitha Mosisili, Parliament of Lesotho, Prime Minister of Lesotho, confidence motion_
 
 ### [Scientists announce the finding of microfossils up to almost 4.3 billion years old, within rocks from the Hudson Bay shoreline in northern Quebec, Canada, that may represent the oldest-known evidence of life on Earth. ](/news/2017/03/1/scientists-announce-the-finding-of-microfossils-up-to-almost-4-3-billion-years-old-within-rocks-from-the-hudson-bay-shoreline-in-northern-q.md)
-_Context: Canadian, Hudson Bay, Origin of life, Quebec, life, microfossils_
+_Context: Canada, Hudson Bay, Origin of life, Quebec, life, microfossils_
 
 ### [An American Atlas V successfully launched an  NRO payload from Vandenberg Air Force Base. The launch is the 70th successful Atlas V launch and the 14th successful mission for the NRO. ](/news/2017/03/1/an-american-atlas-v-successfully-launched-an-nro-payload-from-vandenberg-air-force-base-the-launch-is-the-70th-successful-atlas-v-launch-a.md)
 _Context:  NRO, Atlas V, Vandenberg Air Force Base_

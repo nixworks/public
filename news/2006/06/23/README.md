@@ -25,7 +25,7 @@ _Context: Norman Mineta, Secretary of Transportation_
 A secret program has given counterterrorism officials access to financial records involving thousands of Americans, officials said.
 
 ### [ Prime Minister of Poland Kazimierz Marcinkiewicz announced a dismissal of Zyta Gilowska, Deputy Prime Minister and Minister of Finance. PM's advisor Pawel Wojciechowski was introduced as her successor. Kazimierz Marcinkiewicz declared that Gilowska's policy will be continued. ](/news/2006/06/23/prime-minister-of-poland-kazimierz-marcinkiewicz-announced-a-dismissal-of-zyta-gilowska-deputy-prime-minister-and-minister-of-finance-pm.md)
-_Context: Kazimierz Marcinkiewicz, Paweł Wojciechowski, Poland, Polish Prime Minister, Zyta Gilowska_
+_Context: Kazimierz Marcinkiewicz, Pawel Wojciechowski, Poland, Polish Prime Minister, Zyta Gilowska_
 
 ### [ Actor, singer, dancer, and television producer Aaron Spelling dies at age 83 due to complications from the stroke that had occurred five days before on 18 June 2006.  There was a private funeral several days later.](/news/2006/06/23/actor-singer-dancer-and-television-producer-aaron-spelling-dies-at-age-83-due-to-complications-from-the-stroke-that-had-occurred-five-da.md)
 _Context: Aaron Spelling_

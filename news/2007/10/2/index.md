@@ -12,7 +12,7 @@ When fire broke out deep underground at a hydroelectric plant in the Rockies, of
 ### [ At least 27 people are killed when a bus catches fire in Chongqing, southwest China. ](/news/2007/10/2/at-least-27-people-are-killed-when-a-bus-catches-fire-in-chongqing-southwest-china.md)
 _Context: China's, Chongqing, bus_
 
-### [ Pakistan: The Pakistani cabinet announces plans to drop all corruption charges against former Prime Minister Benazir Bhutto.{{Fact|date=December 2007}} The President of Pakistan Pervez Musharraf appoints General Ashfaq Kiyani to succeed him as the head of the Pakistan Army after Saturday's election. ](/news/2007/10/2/pakistan-p-the-pakistani-cabinet-announces-plans-to-drop-all-corruption-charges-against-former-prime-minister-benazir-bhutto-fact-date-de.md)
+### [ Pakistan: The Pakistani cabinet announces plans to drop all corruption charges against former Prime Minister Benazir Bhutto.date=December 2007 The President of Pakistan Pervez Musharraf appoints General Ashfaq Kiyani to succeed him as the head of the Pakistan Army after Saturday's election. ](/news/2007/10/2/pakistan-p-the-pakistani-cabinet-announces-plans-to-drop-all-corruption-charges-against-former-prime-minister-benazir-bhutto-date-december.md)
 _Context: Ashfaq Kiyani, Benazir Bhutto, General, Pakistan, Pakistan Army, Pervez Musharraf, President, Prime Minister, anti-corruption, government_
 
 ### [ Israel confirms it conducted an airstrike on Syria on September 6. ](/news/2007/10/2/israel-confirms-it-conducted-an-airstrike-on-syria-on-september-6.md)
@@ -22,7 +22,7 @@ Ambiguity surrounding reported IAF attack in Syria ends as Israel confirms air r
 _Context: Gordon Brown, Iraq, Prime Minster, War in Iraq_
 
 ### [ War in Afghanistan: A suicide bomber blows himself up near a bus carrying policemen killing at least 11 in Kabul. ](/news/2007/10/2/war-in-afghanistan-a-suicide-bomber-blows-himself-up-near-a-bus-carrying-policemen-killing-at-least-11-in-kabul.md)
-_Context: Kabul, War in Afghanistan (2001–present), suicide bomber_
+_Context: Kabul, War in Afghanistan (2001-present), suicide bomber_
 
 ### [ The President of South Korea Roh Moo-hyun walks across the Korean Demilitarized Zone in travelling to Pyongyang for talks with North Korean leader Kim Jong Il. ](/news/2007/10/2/the-president-of-south-korea-roh-moo-hyun-walks-across-the-korean-demilitarized-zone-in-travelling-to-pyongyang-for-talks-with-north-korean.md)
 _Context: Kim Jong-il, Korean Demilitarized Zone, North Korea, President, Pyongyang, Roh Moo-hyun, talks_

@@ -16,7 +16,7 @@ The deal ensures workers a larger share of soaring profits in the German auto in
 _Context: Ultimate Electronics, United States, bankruptcy court_
 
 ### [The London Stock Exchange in the United Kingdom is in advanced talks to merge with the TMX Group that operates Canada's two stock exchanges in Montreal and Toronto. ](/news/2011/02/8/the-london-stock-exchange-in-the-united-kingdom-is-in-advanced-talks-to-merge-with-the-tmx-group-that-operates-canada-s-two-stock-exchanges.md)
-_Context: Canadian, London Stock Exchange, TMX Group, Toronto, United Kingdom, city of Montreal, stock exchanges_
+_Context: Canada, London Stock Exchange, TMX Group, Toronto, United Kingdom, city of Montreal, stock exchanges_
 
 ### [Drought hits Central China. Part of the Xiangjiang River dried-up in Changsha, Hunan province. ](/news/2011/02/8/drought-hits-central-china-part-of-the-xiangjiang-river-dried-up-in-changsha-hunan-province.md)
 _Context: Changsha, Drought, Hunan Province, Xiangjiang River, central China_

@@ -7,7 +7,7 @@ _Context: Ellen MacArthur, Francis Joyon_
 _Context: Bern, hostage_
 
 ### [ Nigerian President Olusegun Obasanjo asks other African states not to recognize the transfer of power in Togo to Faure Gnassingb. The African Union has also condemned the move.  ](/news/2005/02/7/nigerian-president-olusegun-obasanjo-asks-other-african-states-not-to-recognize-the-transfer-of-power-in-togo-to-faure-gnassingbe-the-afri.md)
-_Context: African Union, Faure Gnassingbé, Nigeria, Olusegun Obasanjo, Togo_
+_Context: African Union, Faure Gnassingb, Nigeria, Olusegun Obasanjo, Togo_
 
 ### [ Spanish police in the Canary Islands find a drifting boat containing 227 African migrants.  ](/news/2005/02/7/spanish-police-in-the-canary-islands-find-a-drifting-boat-containing-227-african-migrants.md)
 _Context: Canary Islands'_

@@ -19,7 +19,7 @@ Oregon Rep. David Wu&rsquo;s, accused of an unwanted sexual encounter late last 
 Cadel&#x20;Evans,&#x20;a&#x20;two-time&#x20;runner-up&#x20;at&#x20;the&#x20;Tour&#x20;de&#x20;France,&#x20;became&#x20;the&#x20;first&#x20;Australian&#x20;to&#x20;win&#x20;cycling&#x27;s&#x20;most&#x20;prestigious&#x20;race&#x20;on&#x20;Sunday,&#x20;in&#x20;what&#x20;has&#x20;been&#x20;described&#x20;back&#x20;home&#x20;as&#x20;one&#x20;of&#x20;Australia&#x27;s&#x20;finest&#x20;ever&#x20;sporting&#x20;achievements.
 
 ### [Uruguay defeats Paraguay 3-0 in the finals of the 2011 Copa Amrica, capturing their 15th title and becomes the nation with most Copa Amrica titles. ](/news/2011/07/24/uruguay-defeats-paraguay-3-0-in-the-finals-of-the-2011-copa-america-capturing-their-15th-title-and-becomes-the-nation-with-most-copa-americ.md)
-_Context: 2011 Copa América, Paraguay, Uruguay_
+_Context: 2011 Copa Amrica, Paraguay, Uruguay_
 
 ### [The Tevatron collider near Chicago produces results similar to recent results from the Large Hadron Collider (LHC) in the on-going search for the Higgs Boson. ](/news/2011/07/24/the-tevatron-collider-near-chicago-produces-results-similar-to-recent-results-from-the-large-hadron-collider-lhc-in-the-on-going-search-fo.md)
 A US particle machine has also seen possible hints of the Higgs boson, it emerges, following reports of similar glimpses at the Large Hadron Collider.

@@ -4,7 +4,7 @@
 _Context: 15 October, Iraq, National Assembly of Iraq, Sunni Muslim, proposed Iraqi constitution_
 
 ### [ Hawaii, represented by Ewa Beach, Hawaii, defeats Willemstad, Curaao 7-6 in the Little League World Series ](/news/2005/08/28/hawaii-represented-by-ewa-beach-hawaii-defeats-willemstad-curacao-7-6-in-the-little-league-world-series.md)
-_Context: Curaçao, Ewa Beach, Hawaii, Hawaii, Little League World Series, Willemstad_
+_Context: Curaao, Ewa Beach, Hawaii, Hawaii, Little League World Series, Willemstad_
 
 ### [ Indian Prime Minister  Manmohan Singh says the country will help Afghanistan deal with terrorism and rebuilding the country. ([http://www.ndtv.com/topstories/showtopstory.asp?slug=PM+calls+for+stability+in+Afghanistan%0D&id=17629 NDTV]) ](/news/2005/08/28/indian-prime-minister-manmohan-singh-says-the-country-will-help-afghanistan-deal-with-terrorism-and-rebuilding-the-country-http-www-n.md)
 _Context: Afghanistan, Manmohan Singh, terrorism_

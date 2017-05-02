@@ -7,7 +7,7 @@
 
 ### Related:
 
-1. [ Milan Bandic, mayor of Zagreb tries to bribe a police officer after causing a car accident while driving under the influence of alcohol. This will lead to his resignation and a three-year-long hiatus in his mayor term](/news/2002/01/5/milan-bandia-mayor-of-zagreb-tries-to-bribe-a-police-officer-after-causing-a-car-accident-while-driving-under-the-influence-of-alcohol-t.md) _Context: Milan Bandić, Zagreb_
+1. [ Milan Bandic, mayor of Zagreb tries to bribe a police officer after causing a car accident while driving under the influence of alcohol. This will lead to his resignation and a three-year-long hiatus in his mayor term](/news/2002/01/5/milan-bandia-mayor-of-zagreb-tries-to-bribe-a-police-officer-after-causing-a-car-accident-while-driving-under-the-influence-of-alcohol-t.md) _Context: Milan Bandic, Zagreb_
 2. [Ante Markovic, the last Prime Minister of Yugoslavia, dies aged 87 in the Croatian capital Zagreb. ](/news/2011/11/28/ante-markovia-the-last-prime-minister-of-yugoslavia-dies-aged-87-in-the-croatian-capital-zagreb.md) _Context: Zagreb_
 3. [The trial of former Prime Minister of Croatia Ivo Sanader, which was due to begin in Zagreb, is postponed on health grounds. ](/news/2011/10/28/the-trial-of-former-prime-minister-of-croatia-ivo-sanader-which-was-due-to-begin-in-zagreb-is-postponed-on-health-grounds.md) _Context: Zagreb_
 4. [Pope Benedict XVI celebrates Mass in the Croatian capital Zagreb. ](/news/2011/06/5/pope-benedict-xvi-celebrates-mass-in-the-croatian-capital-zagreb.md) _Context: Zagreb_

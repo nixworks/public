@@ -10,7 +10,7 @@ Both sides to hold a five-hour pause in fighting to allow UN humanitarian aid to
 _Context: Afghanistan, Kabul International Airport, Taliban insurgency_
 
 ### [Insurgency in the Maghreb (2002-present):At least 14 Tunisian soldiers are reportedly killed following Islamist militant attacks at two checkpoints near the Algerian border with at least 20 others wounded, a group called the Okba Ben Nafaa Brigade has claimed responsibility. ](/news/2014/07/17/insurgency-in-the-maghreb-2002apresent-pat-least-14-tunisian-soldiers-are-reportedly-killed-following-islamist-militant-attacks-at-two-c.md)
-_Context: Algeria, Insurgency in the Maghreb (2002–present), Tunisian soldiers, attacks_
+_Context: Algeria, Insurgency in the Maghreb (2002-present), Tunisian soldiers, attacks_
 
 ### [The United States Holocaust Memorial Museum obtains a full copy of the archives of the United Nations War Crimes Commission from World War II and makes it available online. ](/news/2014/07/17/the-united-states-holocaust-memorial-museum-obtains-a-full-copy-of-the-archives-of-the-united-nations-war-crimes-commission-from-world-war-i.md)
 _Context: United Nations War Crimes Commission, United States Holocaust Memorial Museum, World War II_
@@ -40,7 +40,7 @@ A federal judge in Orange County ruled Wednesday that California’s death penal
 _Context: Parliament, carbon tax, emissions trading scheme_
 
 ### [2013-14 Thai political crisis:The Thai military junta gives permission for former Prime Minister Yingluck Shinawatra to travel abroad for the first time since the coup. ](/news/2014/07/17/2013a14-thai-political-crisis-pthe-thai-military-junta-gives-permission-for-former-prime-minister-yingluck-shinawatra-to-travel-abroad-for.md)
-_Context: 2013–14 Thai political crisis, Prime Minister of Thailand, Yingluck Shinawatra_
+_Context: 2013-14 Thai political crisis, Prime Minister of Thailand, Yingluck Shinawatra_
 
 ### [Scientists report a video footage of a mysterious giant hole and crater that have suddenly appeared in the Yamal Peninsula, Russia. ](/news/2014/07/17/scientists-report-a-video-footage-of-a-mysterious-giant-hole-and-crater-that-have-suddenly-appeared-in-the-yamal-peninsula-russia.md)
 A mysterious giant hole and crater have suddenly appeared in Siberia, Russia. There are not many details right now, but the video captured from a helicopter shows a weird configuration with debris and signs of combustion around it. What the hell is this? Update: New pictures and video show the interior of the hole in detail.

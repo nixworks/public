@@ -13,7 +13,7 @@ _Context: Kofi Annan, Secretary General, United Kingdom, United Nations, United 
 _Context: Fatah, Golan Heights, Israel Defense Forces, Palestinian, Syria_
 
 ### [ A Human Rights Watch report states that the United States, Britain, the Netherlands and Canada rely on "flimsy" diplomacy in attempts to send foreign terror suspects back to countries that routinely use torture against their Prisoners. ](/news/2005/04/15/a-human-rights-watch-report-states-that-the-united-states-britain-the-netherlands-and-canada-rely-on-flimsy-diplomacy-in-attempts-to-se.md)
-_Context: Canadian, Human Rights Watch, Netherlands, United States, diplomatic, prison, torture_
+_Context: Canada, Human Rights Watch, Netherlands, United States, diplomatic, prison, torture_
 
 ### [ Soyuz TMA-6 lifts off at dawn from Baikonur Cosmodrome in Kazakhstan carrying the Expedition 11 crew to the International Space Station. [http://www.foxnews.com/story/0,2933,153539,00.html (Fox News)] [http://news.yahoo.com/news?tmpl=story&u=/nm/20050415/wl_nm/space_russia_launch_dc (Yahoo! News)] (Link dead as of 02:40, 15 January 2007 (UTC))](/news/2005/04/15/soyuz-tma-6-lifts-off-at-dawn-from-baikonur-cosmodrome-in-kazakhstan-carrying-the-expedition-11-crew-to-the-international-space-station-h.md)
 _Context: 15 January, 2007, Baikonur Cosmodrome, Expedition 11, International Space Station, Kazakhstan, Soyuz TMA-6_
@@ -28,7 +28,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: Australia, HIH Insurance, Raymond Williams, insure, jailed_
 
 ### [ Canada's Federal Court of Appeal denies Chinese businessman Lai Changxing refugee status. China wants him for large-scale smuggling. ](/news/2005/04/15/canada-s-federal-court-of-appeal-denies-chinese-businessman-lai-changxing-refugee-status-china-wants-him-for-large-scale-smuggling.md)
-_Context: Canadian, China's, Federal Court of Canada, Lai Changxing, refugee, smuggling_
+_Context: Canada, China's, Federal Court of Canada, Lai Changxing, refugee, smuggling_
 
 ### [ UK passport applicants must give fingerprints. Preparation for ID cards goes ahead without parliament. ](/news/2005/04/15/uk-passport-applicants-must-give-fingerprints-preparation-for-id-cards-goes-ahead-without-parliament.md)
 _Context: United Kingdom, fingerprint_

@@ -7,7 +7,7 @@ _Context: North Korea, being devastated by flooding_
 Breaking News from Perth and Western Australia | Perth Now
 
 ### [ The Union of French Jewish Employers and Professionals (UPJF), Conseil Representatif des Institutions juives de France (CRIF), and the Vigilance Bureau against anti-Semitism (BVCA), have denounced a declaration made by French foreign minister Philippe Douste-Blazy who said while visiting Beirut on Monday that Tehran was "a stabilising element in the Middle East."](/news/2006/08/3/the-union-of-french-jewish-employers-and-professionals-upjf-conseil-repra-c-sentatif-des-institutions-juives-de-france-crif-and-the-vig.md)
-_Context: Beirut, Conseil Représentatif des Institutions juives de France, French foreign minister, Middle East, Philippe Douste-Blazy, Tehran, Union of French Jewish Employers and Professionals, Vigilance Bureau against anti-Semitism_
+_Context: Beirut, Conseil Representatif des Institutions juives de France, French foreign minister, Middle East, Philippe Douste-Blazy, Tehran, Union of French Jewish Employers and Professionals, Vigilance Bureau against anti-Semitism_
 
 ### [ Tropical Storm Chris weakens and is now expected not to become a hurricane. ](/news/2006/08/3/tropical-storm-chris-weakens-and-is-now-expected-not-to-become-a-hurricane.md)
 _Context: Tropical Depression Chris, hurricane_

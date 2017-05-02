@@ -7,7 +7,7 @@ Syrian activists say rebels have seized key security buildings in the northern c
 The U.N. Security Council agreed on Wednesday to partially lift a decades-old arms embargo on Somalia for one year, allowing the government in Mogadishu to buy light weapons to strengthen its security forces to fight al Qaeda-linked Islamists.
 
 ### [The European Commission fines Microsoft EUR561 million for failing to provide residents of the European Union with a selection of web browsers as an alternative to Internet Explorer. ](/news/2013/03/6/the-european-commission-fines-microsoft-a-561-million-for-failing-to-provide-residents-of-the-european-union-with-a-selection-of-web-browse.md)
-_Context: European Commission, European Union, Internet Explorer, Microsoft, alternative, web browsers, €_
+_Context: EUR, European Commission, European Union, Internet Explorer, Microsoft, alternative, web browsers_
 
 ### [The UK's Office of Fair Trading gives the country's top 50 payday loans companies 12 weeks to change their practices after identifying "widespread irresponsible lending". ](/news/2013/03/6/the-uk-s-office-of-fair-trading-gives-the-country-s-top-50-payday-loans-companies-12-weeks-to-change-their-practices-after-identifying-wide.md)
 _Context: Office of Fair Trading, UK, payday loans_
@@ -28,7 +28,7 @@ A Wisconsin woman trying to protect her &quot;wholesome&quot; image failed to pe
 _Context: Australia, Premier, Ted Baillieu, Victoria, government_
 
 ### [Papal conclave, 2013: The Brazilian Conference of Bishops (the largest such conference in the world) officially advises the cardinals of Brazil in the conclave explicitly to ask the mass media to print supportive articles on the Archbishop of Sao Paulo, Cardinal Odilo Scherer. ](/news/2013/03/6/papal-conclave-2013-the-brazilian-conference-of-bishops-the-largest-such-conference-in-the-world-officially-advises-the-cardinals-of-bra.md)
-_Context: Archbishop of São Paulo, Brazil, Brazilian, Cardinal, Conference of Bishops, Odilo Scherer, Papal conclave, 2013, mass media_
+_Context: Archbishop of Sao Paulo, Brazil, Brazilian, Cardinal, Conference of Bishops, Odilo Scherer, Papal conclave, 2013, mass media_
 
 ### [A newly discovered Y-chromosome haplogroup is thought to push back the time of Y-chromosomal Adam to 338,000 years ago. ](/news/2013/03/6/a-newly-discovered-y-chromosome-haplogroup-is-thought-to-push-back-the-time-of-y-chromosomal-adam-to-338-000-years-ago.md)
 _Context: Y-chromosomal Adam, Y-chromosome haplogroup, push back_

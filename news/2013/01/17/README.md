@@ -13,7 +13,7 @@ President Hollande says Algeria crisis justifies Mali intervention as French con
 The latest explosions struck Thursday morning near Dujail.
 
 ### [War in Somalia (2009-present):Militants belonging to Somali group al-Shabaab announce they have executed the French intelligence agent who was the target of the unsuccessful French rescue attempt on January 11. French officials believe the hostage was killed during the mission itself, and the group is using the incident to manipulate the media. ](/news/2013/01/17/war-in-somalia-2009apresent-pmilitants-belonging-to-somali-group-al-shabaab-announce-they-have-executed-the-french-intelligence-agent-wh.md)
-_Context: France, Somalia, War in Somalia (2009–present), al-Shabaab, intelligence agent, rescue attempt_
+_Context: France, Somalia, War in Somalia (2009-present), al-Shabaab, intelligence agent, rescue attempt_
 
 ### [2013 Jakarta flood: A massive flood hits Jakarta, Indonesia, with the Indonesian Army deploying rubber boats in the financial district to rescue people trapped in this flood. Four people were killed and over 2,000 evacuated. ](/news/2013/01/17/2013-jakarta-flood-a-massive-flood-hits-jakarta-indonesia-with-the-indonesian-army-deploying-rubber-boats-in-the-financial-district-to-re.md)
 At least four people die and thousands are evacuated as flooding hits parts of the Indonesian capital, Jakarta, shutting down offices and traffic.
@@ -38,7 +38,7 @@ NASA signed an agreement for the European Space Agency to provide a service modu
 Lance Armstrong is stripped of the Olympic bronze medal he won at the Sydney Olympics in 2000, the IOC confirms.
 
 ### [In association football, the Uruguay and Liverpool player Luis Suarez faces sanctions as a result of his latest diving controversy. ](/news/2013/01/17/in-association-football-the-uruguay-and-liverpool-player-luis-sua-rez-faces-sanctions-as-a-result-of-his-latest-diving-controversy.md)
-_Context: Liverpool F.C., Luis Suárez, Uruguay, association football, diving_
+_Context: Liverpool F.C., Luis Suarez, Uruguay, association football, diving_
 
 ### [In Serie A, two-point penalty for S.S.C. Napoli is annulled on appeal in the match-fixing scandal with Paolo Cannavaro and Gianluca Grava also cleared. ](/news/2013/01/17/in-serie-a-two-point-penalty-for-s-s-c-napoli-is-annulled-on-appeal-in-the-match-fixing-scandal-with-paolo-cannavaro-and-gianluca-grava-al.md)
 Napoli have seen their two-point deduction erased, while Paolo Cannavaro and Gianluca Grava had their six-month ban overturned

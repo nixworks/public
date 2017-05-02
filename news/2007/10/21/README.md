@@ -7,7 +7,7 @@ _Context: Samoa, Tokelau, Tokelauan self-determination referendum_
 _Context: Turkey, constitutional referendum, electoral reform_
 
 ### [ Voters go to the polls in Slovenia to elect a new President, with Lojze Peterle winning most votes but not a majority. A runoff between him and Danilo Trk will be held on November 11. ](/news/2007/10/21/voters-go-to-the-polls-in-slovenia-to-elect-a-new-president-with-lojze-peterle-winning-most-votes-but-not-a-majority-a-runoff-between-him.md)
-_Context: 2007 Slovenian presidential elections, Danilo Türk, Lojze Peterle, November 11, President of Slovenia, Slovenia, second round_
+_Context: 2007 Slovenian presidential elections, Danilo Trk, Lojze Peterle, November 11, President of Slovenia, Slovenia, second round_
 
 ### [ Marco Fu wins the 2007 Royal London Watches Grand Prix snooker tournament, defeating Ronnie O'Sullivan 9 frames to 6. ](/news/2007/10/21/marco-fu-wins-the-2007-royal-london-watches-grand-prix-snooker-tournament-defeating-ronnie-o-sullivan-9-frames-to-6.md)
 _Context: 2007 Royal London Watches Grand Prix snooker tournament, Marco Fu, Ronnie O'Sullivan_
@@ -34,12 +34,12 @@ _Context: United States Treasury, bank_
 _Context: Civic Platform, Donald Tusk, Jaroslaw Kaczynski, parliamentary elections_
 
 ### [ Kimi Rikknen wins the 2007 Formula One World Drivers Championship. ](/news/2007/10/21/kimi-raikkonen-wins-the-2007-formula-one-world-drivers-championship.md)
-_Context: 2007 Formula One World Drivers Championship, Kimi Räikkönen_
+_Context: 2007 Formula One World Drivers Championship, Kimi Rikknen_
 
 ### [ Kurdistan Workers Party militants kill at least 12 Turkish soldiers and wounded 11 others on Sunday in a cross-border attack in mountains near the Iraqi border, security sources said.  ](/news/2007/10/21/kurdistan-workers-party-militants-kill-at-least-12-turkish-soldiers-and-wounded-11-others-on-sunday-in-a-cross-border-attack-in-mountains-n.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-### [ Soyuz TMA-10 lands safely outside Arkalyk, {{convert|340|km|mi|sp=us}} short of the planned landing site in Kazakhstan, due to a computer glitch. ](/news/2007/10/21/soyuz-tma-10-lands-safely-outside-arkalyk-convert-340-km-mi-sp-us-short-of-the-planned-landing-site-in-kazakhstan-due-to-a-computer-g.md)
+### [ Soyuz TMA-10 lands safely outside Arkalyk, 340|km|mi|sp=us short of the planned landing site in Kazakhstan, due to a computer glitch. ](/news/2007/10/21/soyuz-tma-10-lands-safely-outside-arkalyk-340-km-mi-sp-us-short-of-the-planned-landing-site-in-kazakhstan-due-to-a-computer-glitch.md)
 _Context: Arkalyk, Kazakhstan, Soyuz TMA-10_
 
 ### [ 2007 Ogaden conflict: A rebel group in eastern Ethiopia, the Ogaden National Liberation Front, says it has carried out an attack on government troops, killing 140 troops. ](/news/2007/10/21/2007-ogaden-conflict-a-rebel-group-in-eastern-ethiopia-the-ogaden-national-liberation-front-says-it-has-carried-out-an-attack-on-governm.md)

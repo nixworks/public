@@ -10,13 +10,13 @@ _Context: Accra, Ghana, Kotoka International Airport, United Kingdom, cocaine_
 _Context: Barry Bonds, Bay Area Laboratory Co-operative_
 
 ### [ A Mexican federal court suspends the genocide trial of former President Luis Echeverria. ](/news/2007/07/12/a-mexican-federal-court-suspends-the-genocide-trial-of-former-president-luis-echeverraa.md)
-_Context: Luis Echeverría, Mexico, President, genocide_
+_Context: Luis Echeverria, Mexico, President, genocide_
 
 ### [ The Spanish Civil Guard raids a boat operated by Odyssey Marine Exploration that it claims may have taken treasure worth hundreds of millions of dollars from a Spanish galleon. ](/news/2007/07/12/the-spanish-civil-guard-raids-a-boat-operated-by-odyssey-marine-exploration-that-it-claims-may-have-taken-treasure-worth-hundreds-of-millio.md)
 Spanish police have boarded a boat operated by a US company which Madrid believes may have taken treasure worth hundreds of millions of dollars from a Spanish galleon.
 
 ### [ Cecilia Sarkozy, the wife of French President Nicolas Sarkozy, flies to Libya and visits the Bulgarian medics condemned to death for allegedly infecting children with HIV and also the families of the infected children. She will also meet Colonel Muammar al-Gaddafi, the President of Libya. ](/news/2007/07/12/ca-c-cilia-sarkozy-the-wife-of-french-president-nicolas-sarkozy-flies-to-libya-and-visits-the-bulgarian-medics-condemned-to-death-for-alleg.md)
-_Context: Bulgaria, Colonel, Cécilia Sarkozy, France, HIV trial in Libya, Libya, Muammar al-Gaddafi, Nicolas Sarkozy, President of Libya, death penalty, president_
+_Context: Bulgaria, Cecilia Sarkozy, Colonel, France, HIV trial in Libya, Libya, Muammar al-Gaddafi, Nicolas Sarkozy, President of Libya, death penalty, president_
 
 ### [ The Nepalese government introduces a budget that scraps payments to King Gyanendra of Nepal and nationalises royal property. ](/news/2007/07/12/the-nepalese-government-introduces-a-budget-that-scraps-payments-to-king-gyanendra-of-nepal-and-nationalises-royal-property.md)
 Nepal&#039;s Government has scrapped payments to King Gyanendra and vowed to nationalise royal property in a Budget presented to Parliament that deals a major blow to the embattled monarch.
@@ -49,7 +49,7 @@ _Context: American Airlines, Middle East, false alarm, security controls_
 _Context: North Korea, South Korea, Yongbyon Nuclear Scientific Research Center, government_
 
 ### [ The government of Cote d'Ivoire decides to ask the United Nations to probe the failed assassination attempt against Prime Minister Guillaume Soro. ](/news/2007/07/12/the-government-of-ca-te-d-ivoire-decides-to-ask-the-united-nations-to-probe-the-failed-assassination-attempt-against-prime-minister-guillau.md)
-_Context: Côte d'Ivoire, Guillaume Soro, Prime Minister, United Nations, assassination attempt, government_
+_Context: Cote d'Ivoire, Guillaume Soro, Prime Minister, United Nations, assassination attempt, government_
 
 ### [ President Pervez Musharraf praises the military for ending the Lal Masjid siege and vows to eradicate terrorism from Pakistan. ](/news/2007/07/12/president-pervez-musharraf-praises-the-military-for-ending-the-lal-masjid-siege-and-vows-to-eradicate-terrorism-from-pakistan.md)
 _Context: Lal Masjid siege, Pakistan, Pervez Musharraf, President, military, terrorism_

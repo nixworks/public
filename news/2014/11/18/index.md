@@ -1,7 +1,7 @@
 ## [2014-11-18](/news/2014/11/18/index.md)
 
 ### [War in Afghanistan:A suicide bombing attack in Kabul kills at least two people. ](/news/2014/11/18/war-in-afghanistan-pa-suicide-bombing-attack-in-kabul-kills-at-least-two-people.md)
-_Context: Kabul, War in Afghanistan (2001–present), suicide bombing_
+_Context: Kabul, War in Afghanistan (2001-present), suicide bombing_
 
 ### [Israeli-Palestinian conflict:Four rabbis (three American and one British) are killed, and eight other people wounded in a terrorist attack on a Jerusalem synagogue by two men armed with meat cleavers and guns. The two attackers were killed by police who arrived at the scene. One of the policemen died from his wounds. ](/news/2014/11/18/israeliapalestinian-conflict-pfour-rabbis-three-american-and-one-british-are-killed-and-eight-other-people-wounded-in-a-terrorist-attac.md)
 Two Palestinians armed with a gun and meat cleavers kill four worshippers at a Jerusalem synagogue, before being shot dead.
@@ -34,7 +34,7 @@ _Context: 2014 pro-democracy street protests, Admiralty, Hong Kong_
 _Context: Andrew Little, David Cunliffe, New Zealand Labour Party, elected_
 
 ### [The United States Senate narrowly defeats legislation on the Keystone XL Pipeline, intended to allow oil from the oil sands of Canada to flow to the Gulf Coast of Texas. ](/news/2014/11/18/the-united-states-senate-narrowly-defeats-legislation-on-the-keystone-xl-pipeline-intended-to-allow-oil-from-the-oil-sands-of-canada-to-flo.md)
-_Context: Canadian, Gulf Coast, Keystone XL, Senator, Texas, oil sands_
+_Context: Canada, Gulf Coast, Keystone XL, Senator, Texas, oil sands_
 
 ## [Previous Day...](/news/2014/11/17/index.md)
 

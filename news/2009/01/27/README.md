@@ -16,7 +16,7 @@ _Context: Arthur Nadel, FBI, Florida, Hedge fund, United States, fraud_
 _Context: 2003, 2003 invasion of Iraq, British Cabinet, His Majesty's Government, Information Tribunal, Iraq, United Kingdom, minutes_
 
 ### [ United Kingdom Secretary of State for Business, Enterprise and Regulatory Reform Peter Mandelson unveils a PS2.3-billion bailout for the British motor industry. ](/news/2009/01/27/united-kingdom-secretary-of-state-for-business-enterprise-and-regulatory-reform-peter-mandelson-unveils-a-aps2-3-billion-bailout-for-the-br.md)
-_Context: British motor industry, Peter Mandelson, Secretary of State for Business, Enterprise and Regulatory Reform, United Kingdom, bailout, £_
+_Context: British motor industry, PS, Peter Mandelson, Secretary of State for Business, Enterprise and Regulatory Reform, United Kingdom, bailout_
 
 ### [ Iran will have enough enriched uranium to make a single nuclear weapon later this year, the International Institute for Strategic Studies predicts. ](/news/2009/01/27/iran-will-have-enough-enriched-uranium-to-make-a-single-nuclear-weapon-later-this-year-the-international-institute-for-strategic-studies-p.md)
 _Context: International Institute for Strategic Studies, Iran, enriched uranium, nuclear warheads, uranium_

@@ -6,7 +6,7 @@ Shoot-out at checkpoint set up by pro-Russian separatists leaves three dead and 
 ### [Post-coup unrest in Egypt (2013-14):Gunmen killed an Egyptian intelligence officer and a policeman on a desert road outside Cairo in a late-night firefight. ](/news/2014/04/20/post-coup-unrest-in-egypt-2013a14-pgunmen-killed-an-egyptian-intelligence-officer-and-a-policeman-on-a-desert-road-outside-cairo-in-a-la.md)
 CAIRO (Reuters) - Gunmen killed an Egyptian intelligence officer and a policeman on a road outside Cairo in a late-night firefight, the Interior Ministry said on Sunday. The armed men fled the...
 
-### [AQIM militants kill eleven soldiers in Tizi Ouzou region of Algeria east of capital Algiers in one the deadliest attacks on the Algerian military in several years. [http://www.baiatdecartier.ro (BDC)]{{rs?|date=April 2014}}](/news/2014/04/20/aqim-militants-kill-eleven-soldiers-in-tizi-ouzou-region-of-algeria-east-of-capital-algiers-in-one-the-deadliest-attacks-on-the-algerian-mil.md)
+### [AQIM militants kill eleven soldiers in Tizi Ouzou region of Algeria east of capital Algiers in one the deadliest attacks on the Algerian military in several years. [http://www.baiatdecartier.ro (BDC)]date=April 2014](/news/2014/04/20/aqim-militants-kill-eleven-soldiers-in-tizi-ouzou-region-of-algeria-east-of-capital-algiers-in-one-the-deadliest-attacks-on-the-algerian-mil.md)
 _Context: AQIM, Algeria, Algiers, Tizi Ouzou_
 
 ### [Over 150,000 people turn out for Pope Francis' Easter mass, as Christians around the world observe the holiday celebrating the resurrection of Jesus Christ. ](/news/2014/04/20/over-150-000-people-turn-out-for-pope-francis-easter-mass-as-christians-around-the-world-observe-the-holiday-celebrating-the-resurrection.md)

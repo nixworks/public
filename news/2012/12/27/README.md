@@ -25,7 +25,7 @@ Iranian President MahmoudAhmadinejad on Thursday dismissed his only female cabin
 _Context: 2007 assassination, Benazir Bhutto, Bilawal Bhutto Zardari, Pakistan, Prime Minister_
 
 ### [Catholic figurehead Sean Brady's intervention in Ireland's abortion debate draws harsh criticism from legislators and more calls for the Church to transfer the rest of the compensation it promised for those abused by priests, but has not yet paid. ](/news/2012/12/27/catholic-figurehead-sea-n-brady-s-intervention-in-ireland-s-abortion-debate-draws-harsh-criticism-from-legislators-and-more-calls-for-the-ch.md)
-_Context: Catholic, Catholic Church, Ireland, Seán Brady, abortion, abortion_
+_Context: Catholic, Catholic Church, Ireland, Sean Brady, abortion, abortion_
 
 ### [Harry Reid, the Democratic US Senate leader, says the U.S. appears to be heading over the fiscal cliff, with tax raises and spending cuts imminent. ](/news/2012/12/27/harry-reid-the-democratic-us-senate-leader-says-the-u-s-appears-to-be-heading-over-the-fiscal-cliff-with-tax-raises-and-spending-cuts-im.md)
 The US appears to be heading over the &quot;fiscal cliff&quot;, the Democratic US Senate leader says, as the House prepares a last-minute return to Washington.
@@ -43,7 +43,7 @@ A UK project to drill through 3km of ice to reach a lake sequestered for thousan
 Championship club Blackburn Rovers sack manager Henning Berg after 10 matches and 57 days in charge at Ewood Park.
 
 ### [Roland Duchatelet, owner of Standard Liege, warns that club will breakaway from the Belgian Pro League and join France's Ligue 1 if a new Belgian-Dutch league is not created. ](/news/2012/12/27/roland-duchac-telet-owner-of-standard-lia-ge-warns-that-club-will-breakaway-from-the-belgian-pro-league-and-join-france-s-ligue-1-if-a-new.md)
-_Context: Belgian, Belgian Pro League, Dutch, France, Ligue 1, Roland Duchâtelet, Standard Liège_
+_Context: Belgian, Belgian Pro League, Dutch, France, Ligue 1, Roland Duchatelet, Standard Liege_
 
 ### [Colombian football player Radamel Falcao is awarded the 2012 Globe Soccer Awards. ](/news/2012/12/27/colombian-football-player-radamel-falcao-is-awarded-the-2012-globe-soccer-awards.md)
 _Context: Colombia, Globe Soccer Awards, Radamel Falcao, association football_

@@ -1,7 +1,7 @@
 ## [2006-06-10](/news/2006/06/10/index.md)
 
 ### [ Three prisoners commit suicide at Guantanamo Bay detainment camp in protest against the internationally criticized conditions at the camp. Human rights organizations express concern.](/news/2006/06/10/three-prisoners-commit-suicide-at-guantanamo-bay-detainment-camp-in-protest-against-the-internationally-criticized-conditions-at-the-camp.md)
-_Context: Guantánamo Bay detainment camp, commit suicide_
+_Context: Guantnamo Bay detainment camp, commit suicide_
 
 ### [ The first tropical depression of the 2006 Atlantic hurricane season forms in the northwestern Caribbean Sea. ](/news/2006/06/10/the-first-tropical-depression-of-the-2006-atlantic-hurricane-season-forms-in-the-northwestern-caribbean-sea.md)
 _Context: 2006 Atlantic hurricane season, Caribbean Sea_

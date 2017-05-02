@@ -13,7 +13,7 @@ The Philippines economic growth rate slows in the fourth quarter hurt by Typhoon
 Google announces the surprise sale of its Motorola Mobility unit, which it bought in 2012, to Chinese computer maker Lenovo for $2.91bn.
 
 ### [2013-14 Australian region cyclone season:Tropical Cyclone Dylan forms off the North Queensland coast and is expected to make landfall between Lucinda and Proserpine. ](/news/2014/01/30/2013a14-australian-region-cyclone-season-ptropical-cyclone-dylan-forms-off-the-north-queensland-coast-and-is-expected-to-make-landfall-bet.md)
-_Context: 2013–14 Australian region cyclone season, Lucinda, Proserpine, north Queensland_
+_Context: 2013-14 Australian region cyclone season, Lucinda, Proserpine, north Queensland_
 
 ### [A man whose boat was adrift for sixteen months is rescued at the Marshall Islands. The journey began with a companion as part of a venture from Mexico for El Salvador in September 2012. ](/news/2014/01/30/a-man-whose-boat-was-adrift-for-sixteen-months-is-rescued-at-the-marshall-islands-the-journey-began-with-a-companion-as-part-of-a-venture-f.md)
 An emaciated man whose boat washed up on the shores of the Pacific’s Marshall Islands is telling a harrowing tale of being adrift for 16 months, surviving on fish, birds, and turtle blood.
@@ -34,7 +34,7 @@ AMERICAN Amanda Knox has been found guilty of the gruesome murder of a British s
 Disagreement over DONG sale spells doom for coalition. SF leaves government, Vilhelmsen steps down
 
 ### [2013-14 Thai political crisis:The Thai Army announces plans to deploy more troops in the streets of Bangkok ahead of Sunday's general election. ](/news/2014/01/30/2013a14-thai-political-crisis-pthe-thai-army-announces-plans-to-deploy-more-troops-in-the-streets-of-bangkok-ahead-of-sunday-s-general-ele.md)
-_Context: 2013–14 Thai political crisis, Bangkok, Thai Army, general election held on February 2_
+_Context: 2013-14 Thai political crisis, Bangkok, Thai Army, general election held on February 2_
 
 ### [Mohammad-Ali Najafi resigns as Head of Iran's Cultural Heritage, Handcrafts and Tourism Organization, marking the first change in President Rouhani's cabinet. ](/news/2014/01/30/mohammad-ali-najafi-resigns-as-head-of-iran-s-cultural-heritage-handcrafts-and-tourism-organization-marking-the-first-change-in-president.md)
 _Context: Cultural Heritage, Handcrafts and Tourism Organization, Hassan Rouhani, Mohammad-Ali Najafi, cabinet_

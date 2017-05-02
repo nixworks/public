@@ -43,10 +43,10 @@ U.S. forces launched an airborne assault on a desert compound south of Baghdad o
 _Context: Almaz Atambayev, China, Chinese President, Hu Jintao, Kyrgyzstan, Prime Minister, Turkmenistan_
 
 ### [ Hugo Chavez, the President of Venezuela, announces plans to abolish term limits for the President by changing the Constitution. ](/news/2007/08/16/hugo-cha-vez-the-president-of-venezuela-announces-plans-to-abolish-term-limits-for-the-president-by-changing-the-constitution.md)
-_Context: Constitution of Venezuela, Hugo Chávez, President, Venezuela, term limit_
+_Context: Constitution of Venezuela, Hugo Chavez, President, Venezuela, term limit_
 
 ### [ Japan is hit by a 5.3 magnitude earthquake off the coast of Honshu. ](/news/2007/08/16/japan-is-hit-by-a-5-3-magnitude-earthquake-off-the-coast-of-honsha.md)
-_Context: Honshū Island, Japan, earthquake_
+_Context: Honshu Island, Japan, earthquake_
 
 ## [Previous Day...](/news/2007/08/15/index.md)
 

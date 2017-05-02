@@ -10,7 +10,7 @@ Islamic Jihad takes responsibly for attack; no injuries reported; Iron Dome inte
 Masked gunmen opened fire on an army bus in Cairo on Thursday, killing one soldier and wounding three in a rare attack on troops in the Egyptian capital, security officials and a military spokesman sa
 
 ### [An executive board member of the European Central Bank, Benoit Coeure, says that the ECB is determined to secure the continued decline in real interest rates in the months ahead. ](/news/2014/03/13/an-executive-board-member-of-the-european-central-bank-benoa-r-t-caura-c-says-that-the-ecb-is-determined-to-secure-the-continued-decline-in.md)
-_Context: Benoît Cœuré, European Central Bank_
+_Context: Benoit Coeure, European Central Bank_
 
 ### [An intoxicated hit-and-run driver in Austin, Texas, United States, drives into a nighttime crowd at the South by Southwest festival, killing two and injuring 23 ](/news/2014/03/13/an-intoxicated-hit-and-run-driver-in-austin-texas-united-states-drives-into-a-nighttime-crowd-at-the-south-by-southwest-festival-killing.md)
 Two people have been killed and as many as 23 injured after a car hit a crowd of people outside a nightclub in downtown Austin, officials say.

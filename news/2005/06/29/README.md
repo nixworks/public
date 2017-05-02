@@ -1,7 +1,7 @@
 ## [2005-06-29](/news/2005/06/29/index.md)
 
 ### [ The United States House of Representatives passes a $1.17 billion funding bill for Amtrak in fiscal year 2006, an amount that is still short of the $2 billion Amtrak was originally seeking. The funding was approved in an amendment to a more general transportation and treasury appropriations bill. The House also removed the requirement in the bill that would mandate Amtrak to end passenger train service on currently unprofitable routes. The funding has yet to be approved by the Senate.](/news/2005/06/29/the-united-states-house-of-representatives-passes-a-1-17-billion-funding-bill-for-amtrak-in-fiscal-year-2006-an-amount-that-is-still-shor.md)
-_Context: 2006, Amtrak, Senator, U.S. House, U.S. dollar, passenger train_
+_Context: 2006, Amtrak, U.S. House, U.S. dollar, United States Senate, passenger train_
 
 ### [ The United States Capitol in Washington D.C. was briefly evacuated due to an aircraft that entered restricted airspace.](/news/2005/06/29/the-united-states-capitol-in-washington-d-c-was-briefly-evacuated-due-to-an-aircraft-that-entered-restricted-airspace.md)
 _Context: United States Capitol, Washington, D.C._
@@ -22,7 +22,7 @@ _Context: Hezbollah, Lebanon, Shebaa farms, UN peacekeeper_
 _Context: Anna Tibaijuka, Robert Mugabe, United Nations, Zimbabwe_
 
 ### [ In Serbia, Belgrade court convicts 10 officials from the government of Slobodan Milosevic for an assassination attempt against then-opposition leader Vuk Draskovic. they include special police commander Milorad Ulemek and chief of state security Radomir Markovic ](/news/2005/06/29/in-serbia-belgrade-court-convicts-10-officials-from-the-government-of-slobodan-miloa-evia-for-an-assassination-attempt-against-then-oppos.md)
-_Context: Belgrade, Milorad Ulemek, Radomir Marković, Serbia, Slobodan Milošević, Vuk Drašković, assassinated_
+_Context: Belgrade, Milorad Ulemek, Radomir Markovic, Serbia, Slobodan Milosevic, Vuk Draskovic, assassinated_
 
 ### [ In Ethiopia, government promises to rerun some elections in constituencies where there have been allegations of election fraud ](/news/2005/06/29/in-ethiopia-government-promises-to-rerun-some-elections-in-constituencies-where-there-have-been-allegations-of-election-fraud.md)
 _Context: Ethiopia, election fraud_

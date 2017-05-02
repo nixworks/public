@@ -10,7 +10,7 @@ _Context: Geneva Convention, International Committee of the Red Cross, United St
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Chad: FUC spokesman Albissaty Saleh Allazam announces that none of the eight organizational members that make up the Chadian rebel alliance will end attacks on the Dby administration despite the recent peace deal between ARFWS and the Government of Sudan. ](/news/2006/05/13/chad-p-fuc-spokesman-albissaty-saleh-allazam-announces-that-none-of-the-eight-organizational-members-that-make-up-the-chadian-rebel-allianc.md)
-_Context: ARFWS, Chad, Sudanese cabinet, UFDC, second Déby administration_
+_Context: ARFWS, Chad, Sudanese cabinet, UFDC, second Dby administration_
 
 ### [ George Seitz, a Labor Party Member of the state Legislative Assembly in Victoria, Australia, is accused of running an elaborate branch stacking operation to manipulate results in state and federal elections and pre-selections. ](/news/2006/05/13/george-seitz-a-labor-party-member-of-the-state-legislative-assembly-in-victoria-australia-is-accused-of-running-an-elaborate-branch-stac.md)
 _Context: Australia, George Seitz, Labor Party, Victoria, Victorian Legislative Assembly, branch stacking_

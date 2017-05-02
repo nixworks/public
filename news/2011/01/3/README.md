@@ -31,7 +31,7 @@ Up to 80 African migrants are feared drowned off the coast of Yemen after two bo
 The face of Yonge Street in Downtown Toronto has been forever changed thanks to a massive early morning blaze.
 
 ### [A delegation of African leaders from Benin, Cape Verde, Kenya and Sierra Leone travels to Cote d'Ivoire to offer incumbent President Laurent Gbagbo an amnesty if he resigns from office. ](/news/2011/01/3/a-delegation-of-african-leaders-from-benin-cape-verde-kenya-and-sierra-leone-travels-to-ca-te-d-ivoire-to-offer-incumbent-president-lauren.md)
-_Context: Africa, Beninese, Cape Verde, Côte d'Ivoire, Kenya, Laurent Gbagbo, President, Sierra Leone, amnesty_
+_Context: Africa, Beninese, Cape Verde, Cote d'Ivoire, Kenya, Laurent Gbagbo, President, Sierra Leone, amnesty_
 
 ### [According to a new Wikileaks document, U.S. ambassador to France, Craig Stapleton, asked Washington to penalize nations, including France, who do not support genetically modified crops.](/news/2011/01/3/according-to-a-new-wikileaks-document-u-s-ambassador-to-france-craig-stapleton-asked-washington-to-penalize-nations-including-france-w.md)
 _Context: 250,000 documents, Craig Stapleton, France, U.S., genetically modified crops_

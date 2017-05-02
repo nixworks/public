@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [2014 Garda phone recordings controversy:Taoiseach Enda Kenny tells the Dil the Prison Service recorded conversations between inmates and their solicitors. ](/news/2014/04/1/2014-garda-phone-recordings-controversy-ptaoiseach-enda-kenny-tells-the-dail-the-prison-service-recorded-conversations-between-inmates-and-t.md) _Context: Dáil, Taoiseach_
+1. [2014 Garda phone recordings controversy:Taoiseach Enda Kenny tells the Dil the Prison Service recorded conversations between inmates and their solicitors. ](/news/2014/04/1/2014-garda-phone-recordings-controversy-ptaoiseach-enda-kenny-tells-the-dail-the-prison-service-recorded-conversations-between-inmates-and-t.md) _Context: Dil, Taoiseach_
 2. [Bertie Ahern, the former taoiseach who led the stricken Fianna Fail political party from 1994 until 2008, announces he is to resign from Dail Eireann at the forthcoming general election. ](/news/2010/12/30/bertie-ahern-the-former-taoiseach-who-led-the-stricken-fianna-fa-il-political-party-from-1994-until-2008-announces-he-is-to-resign-from-da.md) _Context: Bertie Ahern, Taoiseach_
 3. [ The Irish Taoiseach, Bertie Ahern, officially resigns after ten years, ten months and ten days as head of government. ](/news/2008/05/6/the-irish-taoiseach-bertie-ahern-officially-resigns-after-ten-years-ten-months-and-ten-days-as-head-of-government.md) _Context: Bertie Ahern, Taoiseach_
 4. [ Irish Taoiseach Bertie Ahern announces he will resign on 6 May after 11 years of rule. ](/news/2008/04/2/irish-taoiseach-bertie-ahern-announces-he-will-resign-on-6-may-after-11-years-of-rule.md) _Context: Bertie Ahern, Taoiseach_

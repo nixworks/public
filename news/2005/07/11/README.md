@@ -25,7 +25,7 @@ _Context: New York, Roman Catholic Church, defrocks, lay, sexual abuse_
 _Context: Mohammed Bouyeri, Netherlands, Theo van Gogh_
 
 ### [ In Bosnia and Herzegovina, tens of thousands of people gather in Potocari to commemorate the Srebrenica massacre and rebury 610 victims ](/news/2005/07/11/in-bosnia-and-herzegovina-tens-of-thousands-of-people-gather-in-potocari-to-commemorate-the-srebrenica-massacre-and-rebury-610-victims.md)
-_Context: Bosnia and Herzegovina, Potočari, Srebrenica massacre_
+_Context: Bosnia and Herzegovina, Potocari, Srebrenica massacre_
 
 ### [ Mexican police releases Joaquin Romero Aparicio, who was falsely suspected of being a drug lord Vicente Carrillo Fuentes ](/news/2005/07/11/mexican-police-releases-joaquan-romero-aparicio-who-was-falsely-suspected-of-being-a-drug-lord-vicente-carrillo-fuentes.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
@@ -43,7 +43,7 @@ _Context: Nairobi, Sanjay Shah_
 _Context: Port-of-Spain, Trinidad and Tobago_
 
 ### [ Brazilian police detains opposition congressman and bishop Joao Batista Ramos da Silva of the Liberal Front Party and six others who had been transporting $2.6 million in cash in seven suitcases ](/news/2005/07/11/brazilian-police-detains-opposition-congressman-and-bishop-joapso-batista-ramos-da-silva-of-the-liberal-front-party-and-six-others-who-had-b.md)
-_Context: Brazil, João Batista Ramos da Silva, Liberal Front Party_
+_Context: Brazil, Joao Batista Ramos da Silva, Liberal Front Party_
 
 ### [ In Somalia, gunmen kill prominent peace activist Abdulkadir Yahya Ali ](/news/2005/07/11/in-somalia-gunmen-kill-prominent-peace-activist-abdulkadir-yahya-ali.md)
 _Context: Abdulkadir Yahya Ali, Somalia_

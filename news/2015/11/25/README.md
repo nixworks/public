@@ -10,7 +10,7 @@ The Russian Air Force base in Latakia will be reinforced with S-400 SAM system, 
 _Context: Balochistan conflict, Pasni_
 
 ### [The Islamic State of Iraq and the Levant claim responsibility for yesterday's attack on Tunisia's presidential guard in Tunis that killed 14 people. ](/news/2015/11/25/the-islamic-state-of-iraq-and-the-levant-claim-responsibility-for-yesterday-s-attack-on-tunisia-s-presidential-guard-in-tunis-that-killed-14.md)
-_Context: ISIL, Insurgency in the Maghreb (2002–present), Tunis, Tunisia_
+_Context: ISIL, Insurgency in the Maghreb (2002-present), Tunis, Tunisia_
 
 ### [Germany will deploy up to 650 troops to Mali as part of the U.N. peacekeeping mission in Mali (MINUSMA). ](/news/2015/11/25/germany-will-deploy-up-to-650-troops-to-mali-as-part-of-the-u-n-peacekeeping-mission-in-mali-minusma.md)
 Germany will send up to 650 soldiers to Mali, Defence Minister Ursula von der Leyen said Wednesday, to provide some relief to France in its global fight against ISIS extremists
@@ -22,7 +22,7 @@ _Context: Central America, Houthi, South America, United Arab Emirates, Yemen, Y
 _Context: French Senate, ISIL, November 2015 Paris Attacks_
 
 ### [Several American personnel are suspended after an official report finds that human error was to blame for an airstrike on a Doctors without Borders hospital in the Afghan city of Kunduz in October that killed 30 people. No criminal charges were filed. ](/news/2015/11/25/several-american-personnel-are-suspended-after-an-official-report-finds-that-human-error-was-to-blame-for-an-airstrike-on-a-doctors-without.md)
-_Context: Afghanistan, American, Doctors without Borders, Kunduz, Kunduz hospital airstrike, War in Afghanistan (2015–present)_
+_Context: Afghanistan, American, Doctors without Borders, Kunduz, Kunduz hospital airstrike, War in Afghanistan (2015-present)_
 
 ### [An 18th-century pink Indian diamond worth at least $5 million and a Cartier diamond tiara are discovered in the jewelry recovered from Imelda Marcos. ](/news/2015/11/25/an-18th-century-pink-indian-diamond-worth-at-least-5-million-and-a-cartier-diamond-tiara-are-discovered-in-the-jewelry-recovered-from-imeld.md)
 Former first lady known for her love of shoes also had collection of jewellery that included single diamond worth $5m

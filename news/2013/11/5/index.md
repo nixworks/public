@@ -34,7 +34,7 @@ Toronto Mayor Rob Ford says admitting to the world that he smoked crack cocaine 
 _Context: India, Indian Space Research Organisation, Mars, Mars Orbiter Mission, Polar Satellite Launch Vehicle_
 
 ### [The discovery of the Hercules-Corona Borealis Great Wall, the largest known structure in the universe, is announced.[http://adsabs.harvard.edu/abs/2014A%26A...561L..12H]](/news/2013/11/5/the-discovery-of-the-herculesacorona-borealis-great-wall-the-largest-known-structure-in-the-universe-is-announced-http-adsabs-harvard.md)
-_Context: Hercules–Corona Borealis Great Wall_
+_Context: Hercules-Corona Borealis Great Wall_
 
 ## [Previous Day...](/news/2013/11/4/index.md)
 

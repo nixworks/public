@@ -7,7 +7,7 @@ _Context: New York Times, The Beatles, The Beatles Anthology_
 _Context: EMI, Warner Music Group_
 
 ### [President Slobodan Milosevic leaves office after widespread demonstrations throughout Serbia and the withdrawal of Russian support. This political event became known as 5th October Revolution in Serbia.](/news/2000/10/5/president-slobodan-miloa-evia-leaves-office-after-widespread-demonstrations-throughout-serbia-and-the-withdrawal-of-russian-support-this-p.md)
-_Context: 5th October Revolution in Serbia, Serbia, Slobodan Milošević_
+_Context: 5th October Revolution in Serbia, Serbia, Slobodan Milosevic_
 
 ## [Previous Day...](/news/2000/10/4/index.md)
 

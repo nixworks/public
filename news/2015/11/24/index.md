@@ -7,7 +7,7 @@ The blasts in the city of al-Arish came a day after the second round of parliame
 Turkish warplanes shoot down a Russian military aircraft on the border with Syria, an act President Vladimir Putin describes as &quot;stab in the back&quot;.
 
 ### [A car-bomb kills five guards at a checkpoint east of the Libyan capital, Tripoli. ](/news/2015/11/24/a-car-bomb-kills-five-guards-at-a-checkpoint-east-of-the-libyan-capital-tripoli.md)
-_Context: Libya, Libyan Civil War (2014–present), Tripoli_
+_Context: Libya, Libyan Civil War (2014-present), Tripoli_
 
 ### [An explosion on a bus carrying Tunisian Presidential Guard personnel in Tunisia's capital Tunis leaves at least 15 people dead, as the country's government declares a state of emergency. ](/news/2015/11/24/an-explosion-on-a-bus-carrying-tunisian-presidential-guard-personnel-in-tunisia-s-capital-tunis-leaves-at-least-15-people-dead-as-the-count.md)
 At least 12 people have died after a bus carrying the Tunisian presidential guard was blown up on a main road in Tunis in an &quot;act of terror&quot;. The blast occurred on Mohamed V Avenue, at the heart of the Tunisian capital, according to a spokesman for the North African country&#039;s Interior Ministry. In the hours following the attacks, Tunisian President Beji Caid Essebsi declared a state of emergency throughout the country and curfew in the capital city.
@@ -58,7 +58,7 @@ The gunfire came as Minneapolis grapples with protests over one police shooting 
 Gov. Mike Pence asked groups to redirect Syrian families coming to Indiana this month and next.
 
 ### [Antonio Costa, the leader of the Socialist Party, is named as the Prime Minister of Portugal. ](/news/2015/11/24/anta3nio-costa-the-leader-of-the-socialist-party-is-named-as-the-prime-minister-of-portugal.md)
-_Context: António Costa, Prime Minister of Portugal, Socialist Party_
+_Context: Antonio Costa, Prime Minister of Portugal, Socialist Party_
 
 ### [Echoing criticisms of the U.S. intelligence community in the wake of the 9/11 terrorist attacks, Derek Harvey, a former U.S. intelligence official, says that the U.S. intelligence community is failing in its assessments of the Islamic State of Iraq and the Levant. Another unnamed source says the U.S. intelligence community is "playing catch up" regarding efforts to monitor ISIL activities in the U.S. These, following reports that U.S. Central Command intelligence analysts were instructed to give favorable spin on anti-ISIL efforts. ](/news/2015/11/24/echoing-criticisms-of-the-u-s-intelligence-community-in-the-wake-of-the-9-11-terrorist-attacks-derek-harvey-a-former-u-s-intelligence-of.md)
 In echoes of the criticisms after the 9/11 attacks, a top former intelligence official and Iraq expert has said the CIA and other key spy agencies are drawing flawed conclusions about the nature and intent of the jihadist group

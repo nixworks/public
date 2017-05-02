@@ -7,7 +7,7 @@ _Context: Abdullah II, Jordan, Jordanian King, Nader al-Dahabi, Prime Minister, 
 _Context: Bangladesh, Kolkata, Taslima Nasreen, feminist, riot_
 
 ### [ Argentinian defense minister Nilda Garr sacks the head of military intelligence, Brigadier General Osvaldo Montero, for plotting to replace her. ](/news/2007/11/22/argentinian-defense-minister-nilda-garre-sacks-the-head-of-military-intelligence-brigadier-general-osvaldo-montero-for-plotting-to-replac.md)
-_Context: Argentina, Brigadier General, Defense Minister, Nilda Garré, Osvaldo Montero, military intelligence_
+_Context: Argentina, Brigadier General, Defense Minister, Nilda Garr, Osvaldo Montero, military intelligence_
 
 ### [ Sri Lanka bans the Tamils Rehabilitation Organisation charity, saying it "is funding the Liberation Tigers of Tamil Eelam". ](/news/2007/11/22/sri-lanka-bans-the-tamils-rehabilitation-organisation-charity-saying-it-is-funding-the-liberation-tigers-of-tamil-eelam.md)
 _Context: LTTE, Sri Lanka, Tamils Rehabilitation Organisation_
@@ -46,7 +46,7 @@ _Context: International Red Cross and Red Crescent Movement, Nur Hassan Hussein,
 _Context: government, management, public-sector strikes, transport, worker_
 
 ### [ Tens of thousands of Venezuelan students march in Caracas in two different rallies, one to oppose Hugo Chvez and the other one to support him. ](/news/2007/11/22/tens-of-thousands-of-venezuelan-students-march-in-caracas-in-two-different-rallies-one-to-oppose-hugo-chavez-and-the-other-one-to-support.md)
-_Context: Caracas, Hugo Chávez, Venezuela, student_
+_Context: Caracas, Hugo Chvez, Venezuela, student_
 
 ### [ United States presidential election, 2008: New Hampshire sets January 8, 2008 as the date for the presidential primary, maintaining the tradition of being the first state to vote. ](/news/2007/11/22/united-states-presidential-election-2008-p-new-hampshire-sets-january-8-2008-as-the-date-for-the-presidential-primary-maintaining-the-tr.md)
 _Context: 2008, New Hampshire, New Hampshire primary, tradition_

@@ -42,7 +42,7 @@ _Context: Argentina, Buenos Aires_
 ### [Japan's whaling fleet is leaving the Antarctic under pressure from conservationists and diplomats. ](/news/2011/02/16/japan-s-whaling-fleet-is-leaving-the-antarctic-under-pressure-from-conservationists-and-diplomats.md)
 Japan&#039;s whaling fleet is believed to be quitting the Antarctic under heavy conservationist and diplomatic pressure, just halfway through its worst ever season.
 
-### [Abduwali Muse, a Somali pirate, is sentenced to almost 34 years in prison in the United States for his role in attempting to hijack the {{MV|Maersk Alabama}}. ](/news/2011/02/16/abduwali-muse-a-somali-pirate-is-sentenced-to-almost-34-years-in-prison-in-the-united-states-for-his-role-in-attempting-to-hijack-the-mv.md)
+### [Abduwali Muse, a Somali pirate, is sentenced to almost 34 years in prison in the United States for his role in attempting to hijack the Maersk Alabama. ](/news/2011/02/16/abduwali-muse-a-somali-pirate-is-sentenced-to-almost-34-years-in-prison-in-the-united-states-for-his-role-in-attempting-to-hijack-the-maer.md)
 One of the first men charged with piracy in the United States since the Civil War was sentenced to almost 34 years in federal prison in a New York courtroom Wednesday morning. Prosecutors had asked Judge Loretta Preska to give Abdiwali Abdiqadir Muse more than 30 years for his role in the failed...
 
 ### [Three U.S. marshals are shot in Elkins, West Virginia, while trying to serve a warrant, resulting in the death of one marshal and the shooter. ](/news/2011/02/16/three-u-s-marshals-are-shot-in-elkins-west-virginia-while-trying-to-serve-a-warrant-resulting-in-the-death-of-one-marshal-and-the-shoote.md)

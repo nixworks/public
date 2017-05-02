@@ -1,7 +1,7 @@
 ## [2015-12-4](/news/2015/12/4/index.md)
 
 ### [A mortar attack in Afghanistan's central Wardak province kills at least 12 people. ](/news/2015/12/4/a-mortar-attack-in-afghanistan-s-central-wardak-province-kills-at-least-12-people.md)
-_Context: Afghanistan, Mortar, War in Afghanistan (2015–present), Wardak province_
+_Context: Afghanistan, Mortar, War in Afghanistan (2015-present), Wardak province_
 
 ### [In an act of solidarity with France following the Paris massacre, Germany's parliament (the Bundestag) approves measures to move past the military's primary defensive role, to send six of its 29 operational, yet aged, Tornado reconnaissance aircraft, and as many as 1,200 soldiers to support the coalition missions against Islamic State militants in Syria. The airplanes will be limited to support activities; they will not fly combat missions. ](/news/2015/12/4/in-an-act-of-solidarity-with-france-following-the-paris-massacre-germany-s-parliament-the-bundestag-approves-measures-to-move-past-the-mi.md)
 German lawmakers voted Friday to send troops and six aging reconnaissance planes to support the campaign against the Islamic State in Syria, approving a measure that avoided any mention of war in a proudly pacifist country still wary of combat more than seven decades after World War II.

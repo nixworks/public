@@ -7,7 +7,7 @@ As Mexicans march in protest at the drug violence sweeping the nation, at least 
 Hundreds of thousands of Colombians join street demonstrations against the policies of President Juan Manuel Santos.
 
 ### [Bahrain:Medecins Sans Frontieres releases a report accusing Bahrain's military of deliberately targeting doctors and hospitals, "paralyzing" them, and turning them into "places to be feared". ](/news/2011/04/7/bahrain-pma-c-decins-sans-frontia-res-releases-a-report-accusing-bahrain-s-military-of-deliberately-targeting-doctors-and-hospitals-paralyzi.md)
-_Context: Médecins Sans Frontières_
+_Context: Medecins Sans Frontieres_
 
 ### [Libya:NATO kills at least 13 Libyan rebels and injures many more in an air raid near Ajdabiya after rebels reportedly fired on NATO planes, though there is speculation that the air-strike may have come from Gaddafi's fighter jets evading the no fly zone. ](/news/2011/04/7/libya-pnato-kills-at-least-13-libyan-rebels-and-injures-many-more-in-an-air-raid-near-ajdabiya-after-rebels-reportedly-fired-on-nato-planes.md)
 Rebels in eastern Libya say their forces have been mistakenly hit by a Nato air strike, and a number of rebel fighters are said to have been killed.
@@ -31,7 +31,7 @@ _Context: Nigeria, Suleja_
 China confirms the detained artist, Ai Weiwei, is being investigated for &quot;economic crimes&quot; as another activist alleges he was tortured while in jail.
 
 ### [Politicians in Montreal call for French rock star Bertrand Cantat to be denied entry after Theatre du Nouveau Monde hires him for some plays by Sophocles. ](/news/2011/04/7/politicians-in-montreal-call-for-french-rock-star-bertrand-cantat-to-be-denied-entry-after-tha-c-ac-tre-du-nouveau-monde-hires-him-for-some-pla.md)
-_Context: Bertrand Cantat, Sophocles, Théâtre du Nouveau Monde, city of Montreal_
+_Context: Bertrand Cantat, Sophocles, Theatre du Nouveau Monde, city of Montreal_
 
 ### [Eurozone interest rates are raised to 1.25 per cent from the record low of 1 per cent by the European Central Bank (ECB) amid concerns this could cause problems for countries such as Portugal and the Republic of Ireland. ](/news/2011/04/7/eurozone-interest-rates-are-raised-to-1-25-per-cent-from-the-record-low-of-1-per-cent-by-the-european-central-bank-ecb-amid-concerns-this.md)
 European Central Bank increases eurozone interest rates for the first time since 2008 and admits it will be &quot;unwelcome&quot; for weaker economies.

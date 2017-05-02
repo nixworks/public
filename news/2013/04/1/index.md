@@ -55,7 +55,7 @@ _Context: Omar al-Bashir, President of Sudan, Sudan, political prisoner_
 _Context: Japan, smelling screen_
 
 ### [Chelsea F.C. advances to the semi-finals of the 2012-13 FA Cup defeating Manchester United 1-0 with Demba Ba's winning goal. ](/news/2013/04/1/chelsea-f-c-advances-to-the-semi-finals-of-the-2012a13-fa-cup-defeating-manchester-united-1a0-with-demba-ba-s-winning-goal.md)
-_Context: 2012–13, Chelsea F.C., Demba Ba, Manchester United_
+_Context: 2012-13, Chelsea F.C., Demba Ba, Manchester United_
 
 ### [In chess, Magnus Carlsen wins FIDE Candidates Tournament in London ahead of Vladimir Kramnik to become the challenger for the world crown. ](/news/2013/04/1/in-chess-magnus-carlsen-wins-fide-candidates-tournament-in-london-ahead-of-vladimir-kramnik-to-become-the-challenger-for-the-world-crown.md)
 Annotations by GM Sam Shankland The 2013 Candidates Tournament will live long in the memory, and its conclusion was as unexpected as it was amazing! The two remaining contenders, Magnus Carlsen and Vladimir...
@@ -67,7 +67,7 @@ _Context: India, Olympic, Police, Punjab, Vijender Singh, heroin_
 _Context: 2013 Major League Baseball season_
 
 ### [A report alleges that Ed T. Rush, head of men's basketball officiating for the Pac-12 Conference, offered $5,000 or a trip to Cancun to any referee who would call a technical foul against or eject Arizona Wildcats head coach Sean Miller during the 2013 Pac-12 Conference Men's Basketball Tournament. ](/news/2013/04/1/a-report-alleges-that-ed-t-rush-head-of-men-s-basketball-officiating-for-the-pac-12-conference-offered-5-000-or-a-trip-to-cancaon-to-any.md)
-_Context: 2013 Pac-12 Conference Men's Basketball Tournament, Arizona Wildcats, Cancún, Ed T. Rush, Pac-12 Conference, Sean Miller, college basketball, eject, report, technical foul_
+_Context: 2013 Pac-12 Conference Men's Basketball Tournament, Arizona Wildcats, Cancun, Ed T. Rush, Pac-12 Conference, Sean Miller, college basketball, eject, report, technical foul_
 
 ## [Previous Day...](/news/2013/03/31/index.md)
 

@@ -1,7 +1,7 @@
 ## [2012-08-10](/news/2012/08/10/index.md)
 
 ### [Mexican Drug War:Four suspected drug traffickers of the Sinaloa Cartel, including the cousin of Joaquin "El Chapo" Guzman, Mexico's most-wanted drug lord, are captured in Spain. ](/news/2012/08/10/mexican-drug-war-pfour-suspected-drug-traffickers-of-the-sinaloa-cartel-including-the-cousin-of-joaquan-el-chapo-guzma-n-mexico-s-most.md)
-_Context: Joaquín Guzmán Loera, Mexican Drug War, Sinaloa Cartel, Spain_
+_Context: Joaquin Guzman Loera, Mexican Drug War, Sinaloa Cartel, Spain_
 
 ### [A Libyan army general Mohammed Hadia al Feitouri is shot dead in Benghazi. ](/news/2012/08/10/a-libyan-army-general-mohammed-hadia-al-feitouri-is-shot-dead-in-benghazi.md)
 A top Libyan defence official is shot dead in the eastern city of Benghazi, in the latest of a series of attacks on Gaddafi-era security officials.

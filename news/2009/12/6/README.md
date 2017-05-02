@@ -1,7 +1,7 @@
 ## [2009-12-6](/news/2009/12/6/index.md)
 
 ### [ Flamengo wins its sixth Brazilian national football title, following a 2-1 win over Grmio in the last round of 2009 Campeonato Brasileiro Srie A. ](/news/2009/12/6/flamengo-wins-its-sixth-brazilian-national-football-title-following-a-2-1-win-over-gremio-in-the-last-round-of-2009-campeonato-brasileiro.md)
-_Context: 2009 Campeonato Brasileiro Série A, Brazil, Clube de Regatas do Flamengo, Grêmio, association football_
+_Context: 2009 Campeonato Brasileiro Srie A, Brazil, Clube de Regatas do Flamengo, Grmio, association football_
 
 ### [ Restrictions on internet access and foreign media are put in place ahead of the Student's Day in Iran, as former President Akbar Hashemi Rafsanjani urges "freedom" in the country. ](/news/2009/12/6/restrictions-on-internet-access-and-foreign-media-are-put-in-place-ahead-of-the-student-s-day-in-iran-as-former-president-akbar-hashemi-ra.md)
 _Context: Akbar Hashemi Rafsanjani, Iran, Student's Day, internet access_

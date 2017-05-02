@@ -16,7 +16,7 @@ _Context: David Viens, Lomita, Los Angeles, chef, second degree murder_
 The alleged producer of an anti-Islamic film that sparked violent protests has been arrested for violating probation.
 
 ### [Ivan Velazquez Caballero, a top leader in the Mexican criminal group known as Los Zetas, is arrested in San Luis Potosi. ](/news/2012/09/27/iva-n-vela-zquez-caballero-a-top-leader-in-the-mexican-criminal-group-known-as-los-zetas-is-arrested-in-san-luis-potosa.md)
-_Context: Iván Velázquez Caballero, Los Zetas, San Luis Potosí_
+_Context: Ivan Velazquez Caballero, Los Zetas, San Luis Potosi_
 
 ### [The body of a missing Northwestern University student, a sophomore in the School of Engineering there, is found in Wilmette Harbor on Lake Michigan; police have thus far found no signs of foul play, but his family believes he had been kidnapped and had offered a $25,000 reward. ](/news/2012/09/27/the-body-of-a-missing-northwestern-university-student-a-sophomore-in-the-school-of-engineering-there-is-found-in-wilmette-harbor-on-lake-m.md)
 _Context: Northwestern University, Wilmette_

@@ -13,10 +13,10 @@ Car bombs in two towns south of Baghdad and in the Iraqi city of Najaf killed a 
 _Context: Beijing, China_
 
 ### [A moderately strong earthquake with a magnitude of 5.0  hits Kahramanmaras, Turkey.  ](/news/2012/07/22/a-moderately-strong-earthquake-with-a-magnitude-of-5-0-hits-kahramanmaraa-turkey.md)
-_Context: Kahramanmaraş, Turkey_
+_Context: Kahramanmaras, Turkey_
 
 ### [A military helicopter crashes in Hakkari province, Turkey, killing three soldiers and injuring four others. ](/news/2012/07/22/a-military-helicopter-crashes-in-hakkari-province-turkey-killing-three-soldiers-and-injuring-four-others.md)
-_Context: Hakkâri Province_
+_Context: Hakkari Province_
 
 ### [Thirteen are killed and another 10 are injured when a pickup truck crashes in Texas. ](/news/2012/07/22/thirteen-are-killed-and-another-10-are-injured-when-a-pickup-truck-crashes-in-texas.md)
 _Context: Texas, pickup truck_

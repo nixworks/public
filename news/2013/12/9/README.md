@@ -22,7 +22,7 @@ Harold Rhode&apos;s elation at finding a trove of Jewish texts during the Iraq w
 _Context: 2013 Thai protests, Prime Minister of Thailand, Yingluck Shinawatra, general election held on February 2_
 
 ### [Gustavo Petro, mayor of Bogot, Colombia, is removed from office and banned from re-taking it for fifteen years, due to a failing city cleaning policy promoted by him. ](/news/2013/12/9/gustavo-petro-mayor-of-bogota-colombia-is-removed-from-office-and-banned-from-re-taking-it-for-fifteen-years-due-to-a-failing-city-clean.md)
-_Context: Bogotá, Colombia, Gustavo Petro_
+_Context: Bogota, Colombia, Gustavo Petro_
 
 ### [Euromaidan:Former Prime Minister of Ukraine Yulia Tymoshenko sends a letter of support to Ukrainian protesters after they topple a statue of Lenin. ](/news/2013/12/9/euromaidan-pformer-prime-minister-of-ukraine-yulia-tymoshenko-sends-a-letter-of-support-to-ukrainian-protesters-after-they-topple-a-statue-o.md)
 _Context: Euromaidan, Lenin, Prime Minister of Ukraine, Ukrainian, Yulia Tymoshenko_

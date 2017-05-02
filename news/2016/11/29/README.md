@@ -70,7 +70,7 @@ MANILA, Philippines (AP) — The Philippine government&#039;s top historian resi
 _Context: Great Barrier Reef, coral_
 
 ### [Three of Brazil's leading football clubs - Clube de Regatas do Flamengo, Sociedade Esportiva Palmeiras and Sao Paulo FC - offer players to Associacao Chapecoense de Futebol after the team loses the majority of its squad in the LaMia Airlines Flight 2933 crash. ](/news/2016/11/29/three-of-brazil-s-leading-football-clubs-a-clube-de-regatas-do-flamengo-sociedade-esportiva-palmeiras-and-sapso-paulo-fc-a-offer-players.md)
-_Context: Associação Chapecoense de Futebol, Brazil, Clube de Regatas do Flamengo, LaMia Airlines Flight 2933, Sociedade Esportiva Palmeiras, São Paulo FC_
+_Context: Associacao Chapecoense de Futebol, Brazil, Clube de Regatas do Flamengo, LaMia Airlines Flight 2933, Sao Paulo FC, Sociedade Esportiva Palmeiras_
 
 ## [Previous Day...](/news/2016/11/28/index.md)
 

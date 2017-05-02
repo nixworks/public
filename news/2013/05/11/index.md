@@ -4,7 +4,7 @@
 _Context: Awami National Party, Karachi, War in North-West Pakistan_
 
 ### [Syrian civil war:43 killed and over 100 injured in two car bombings in Reyhanli, Turkey, near the Syrian border. ](/news/2013/05/11/syrian-civil-war-p43-killed-and-over-100-injured-in-two-car-bombings-in-reyhanla-turkey-near-the-syrian-border.md)
-_Context: Reyhanlı, Syrian Civil War, Turkey, two car bombings_
+_Context: Reyhanli, Syrian Civil War, Turkey, two car bombings_
 
 ### [A Ghanaian national goes on a spree attack with a pickaxe in Milan, Italy killing a passerby and wounding four others in an apparently random attack. ](/news/2013/05/11/a-ghanaian-national-goes-on-a-spree-attack-with-a-pickaxe-in-milan-italy-killing-a-passerby-and-wounding-four-others-in-an-apparently-rando.md)
 An immigrant from Ghana has gone on a rampage with a pickaxe in Milan, killing a passerby and wounding four others in an apparently random attack, police say.

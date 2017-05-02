@@ -40,7 +40,7 @@ _Context: 2011 Christchurch earthquake, Christchurch, New Zealand, aftershock_
 _Context: Flash flooding, Hamburg, Iowa, Missouri River, National Weather Service, levee_
 
 ### [Flights in the Southern hemisphere from Australia to Argentina are disrupted by the Puyehue volcanic eruption. ](/news/2011/06/13/flights-in-the-southern-hemisphere-from-australia-to-argentina-are-disrupted-by-the-puyehue-volcanic-eruption.md)
-_Context: Argentina, Australia, Puyehue-Cordón Caulle, southern hemisphere_
+_Context: Argentina, Australia, Puyehue-Cordon Caulle, southern hemisphere_
 
 ### [An earthquake of between 6.2 and 6.9 occurs near Indonesia, southeast of Tahuna island and six miles (10 kilometers) beneath the sea.](/news/2011/06/13/an-earthquake-of-between-6-2-and-6-9-occurs-near-indonesia-southeast-of-tahuna-island-and-six-miles-10-kilometers-beneath-the-sea.md)
 _Context: Indonesia, Tahuna_
@@ -61,7 +61,7 @@ The US Navy halted a North Korean cargo vessel bound for Burma two weeks ago ove
 Mr. Netanyahu says such democratic elections were &quot;something to welcome&quot; in the region
 
 ### [Israel's deputy foreign minister Danny Ayalon tells public radio that he wants re-elected Prime Minister of Turkey Recep Tayyip Erdogan to block what Ayalon considers a "provocative flotilla" of activists bound for Gaza "entering dangerous zones". ](/news/2011/06/13/israel-s-deputy-foreign-minister-danny-ayalon-tells-public-radio-that-he-wants-re-elected-prime-minister-of-turkey-recep-tayyip-erdoaan-to.md)
-_Context: Danny Ayalon, Gaza Strip, Israel, Prime Minister of Turkey, Recep Tayyip Erdoğan, public radio_
+_Context: Danny Ayalon, Gaza Strip, Israel, Prime Minister of Turkey, Recep Tayyip Erdogan, public radio_
 
 ### [Prime Minister of Lebanon Najib Mikati announces his new cabinet. ](/news/2011/06/13/prime-minister-of-lebanon-najib-mikati-announces-his-new-cabinet.md)
 Najib Mikati gives Hezbollah and its allies 16 posts, prompting resignation by a Druze MP dissatisfied with his post.

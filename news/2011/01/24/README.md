@@ -49,7 +49,7 @@ U.S. military officials tell NBC News that investigators have been unable to mak
 Two political activists involved in the 2009 post-presidential election protest movement are hanged this morning. Iranian authorities have hanged 99 people in the past month, but the number of extrajudicial executions could be even higher.
 
 ### [South Korean media report that two North Koreans have been executed in front of 500 spectators for handling propaganda leaflets floated across the border from South Korea, apparently as part of a campaign by North Korean leader Kim Jong-Il to tighten ideological control as he grooms his youngest son as eventual successor. ](/news/2011/01/24/south-korean-media-report-that-two-north-koreans-have-been-executed-in-front-of-500-spectators-for-handling-propaganda-leaflets-floated-acro.md)
-_Context: Kim Jong-il, Kim Jong-un, North Korea, North Korea – South Korea relations, South Korea, executed in front of 500 spectators_
+_Context: Kim Jong-il, Kim Jong-un, North Korea, North Korea - South Korea relations, South Korea, executed in front of 500 spectators_
 
 ### [Egypt's general prosecutor bans media reporting of the investigation into a deadly New Year's Day church bombing, saying any revelations could hinder the work of investigators, a day after Egypt's government accused a Palestinian militant group, the Army of Islam, of carrying out the bombing with the help of a local accomplice. ](/news/2011/01/24/egypt-s-general-prosecutor-bans-media-reporting-of-the-investigation-into-a-deadly-new-year-s-day-church-bombing-saying-any-revelations-cou.md)
 _Context: Army of Islam, Egypt, Human rights in Egypt, New Year's Day church bombing, Palestinian_

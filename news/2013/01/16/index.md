@@ -7,7 +7,7 @@ Three car bombs exploded within minutes of each other in northwest Syria on Wedn
 An Al Qaeda-linked group from Mali has attacked and taken control of a natural gas field partly owned by BP in southern Algeria, taking at least three Americans hostage, a senior intelligence official tells Fox News.
 
 ### [Northern Mali conflict (2012-present):Battle of Diabaly: French troops are reported to be fighting rebels in the Malian town of Diabaly alongside Malian troops. ](/news/2013/01/16/northern-mali-conflict-2012apresent-pbattle-of-diabaly-french-troops-are-reported-to-be-fighting-rebels-in-the-malian-town-of-diabaly-a.md)
-_Context: Diabaly, Diabaly, Mali, Northern Mali conflict (2012–present)_
+_Context: Diabaly, Diabaly, Mali, Northern Mali conflict (2012-present)_
 
 ### [War in Afghanistan (2001-present):The Afghan National Directorate of Security headquarters in Kabul are attacked by a team of suicide bombers, leaving a security guard dead and 17 others injured. ](/news/2013/01/16/war-in-afghanistan-2001apresent-pthe-afghan-national-directorate-of-security-headquarters-in-kabul-are-attacked-by-a-team-of-suicide-bom.md)
 A suicide bomb attack on the Afghan National Directorate of Security building in Kabul leaves seven dead, including six attackers, and many injured.

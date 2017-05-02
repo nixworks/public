@@ -4,13 +4,13 @@
 _Context: Barisan Nasional, Malaysia, Manek Urai by-election, PAS, opposition_
 
 ### [ Jerzy Buzek, former Prime Minister of Poland, is elected the 28th President of the European Parliament, succeeding Hans-Gert Pottering. ](/news/2009/07/14/jerzy-buzek-former-prime-minister-of-poland-is-elected-the-28th-president-of-the-european-parliament-succeeding-hans-gert-papttering.md)
-_Context: Hans-Gert Pöttering, Jerzy Buzek, President of the European Parliament, Prime Minister_
+_Context: Hans-Gert Pottering, Jerzy Buzek, President of the European Parliament, Prime Minister_
 
 ### [ The World Health Organization reports that yields for an H1N1 virus vaccine are lower than expected. ](/news/2009/07/14/the-world-health-organization-reports-that-yields-for-an-h1n1-virus-vaccine-are-lower-than-expected.md)
 _Context: H1N1, World Health Organization, vaccine, virus_
 
 ### [  China urges Turkish Prime Minister Tayyip Erdogan to retract his comments of "genocide" in Xinjiang. ](/news/2009/07/14/china-urges-turkish-prime-minister-tayyip-erdoaan-to-retract-his-comments-of-genocide-in-xinjiang.md)
-_Context: China's, Prime Minister of Turkey, Tayyip Erdoğan, Turkey, Xinjiang, ethnic riots_
+_Context: China's, Prime Minister of Turkey, Tayyip Erdogan, Turkey, Xinjiang, ethnic riots_
 
 ### [ Two foreign nationals, believed to be French, are kidnapped by gunmen after a hotel is stormed in Mogadishu, Somalia. ](/news/2009/07/14/two-foreign-nationals-believed-to-be-french-are-kidnapped-by-gunmen-after-a-hotel-is-stormed-in-mogadishu-somalia.md)
 Armed men take hostage two French guests from a hotel in Mogadishu as fighting rages.
@@ -34,7 +34,7 @@ _Context: Cuba, United States, wet feet, dry feet policy_
 _Context: Lithuanian parliament, President, minors, propaganda_
 
 ### [ Canada imposes visa requirements to come into effect on July 14 on travellers from Mexico and the Czech Republic after a big jump in refugee claims from these two countries. ](/news/2009/07/14/canada-imposes-visa-requirements-to-come-into-effect-on-july-14-on-travellers-from-mexico-and-the-czech-republic-after-a-big-jump-in-refuge.md)
-_Context: Canadian, Czech, Mexico, refugee, visa-free travel_
+_Context: Canada, Czech, Mexico, refugee, visa-free travel_
 
 ### [ An Egyptian civil servant is jailed for three years for insulting President Hosni Mubarak in a poem. ](/news/2009/07/14/an-egyptian-civil-servant-is-jailed-for-three-years-for-insulting-president-hosni-mubarak-in-a-poem.md)
 _Context: Egypt, Egyptian President, Hosni Mubarak_

@@ -7,7 +7,7 @@ _Context: India, International Atomic Energy Agency, United States_
 _Context: United States, unemployment_
 
 ### [ Vietnam's capital Hanoi absorbs the neighboring province of H Ty, tripling its area and doubling its population. ](/news/2008/08/1/vietnam-s-capital-hanoi-absorbs-the-neighboring-province-of-ha-tay-tripling-its-area-and-doubling-its-population.md)
-_Context: Hanoi, Hà Tây, Vietnam, province_
+_Context: H Ty, Hanoi, Vietnam, province_
 
 ### [ U.S. government officials conclude that elements of Pakistan's intelligence service, the Inter-Services Intelligence, aided militants in the July 7 suicide car bomb attack on India's embassy in Kabul, Afghanistan. The government of Pakistan denied involvement. ](/news/2008/08/1/u-s-government-officials-conclude-that-elements-of-pakistan-s-intelligence-service-the-inter-services-intelligence-aided-militants-in-th.md)
 U.S. intelligence agencies have concluded that Pakistanâ€™s spy service helped plan the bombing of Indiaâ€™s embassy.
@@ -28,7 +28,7 @@ _Context: Anatolia, Konya Province, Turkey_
 _Context: Colombo, South Asian Association for Regional Cooperation, Sri Lanka, terrorism_
 
 ### [ A total solar eclipse is visible from northern Canada (Nunavut), Greenland, central Russia, eastern Kazakhstan, western Mongolia and China. ](/news/2008/08/1/a-total-solar-eclipse-is-visible-from-northern-canada-nunavut-greenland-central-russia-eastern-kazakhstan-western-mongolia-and-china.md)
-_Context: Canadian, China, Greenland, Kazakhstan, Mongolia, Nunavut, Russia, total solar eclipse_
+_Context: Canada, China, Greenland, Kazakhstan, Mongolia, Nunavut, Russia, total solar eclipse_
 
 ## [Previous Day...](/news/2008/07/31/index.md)
 

@@ -22,7 +22,7 @@ _Context: China, James Fondren, Tai Shen Kuo, United States, United States Air F
 _Context: Argentina, Germany, Jorge Rafael Videla, Nuremberg, arrest warrant_
 
 ### [The Electoral Synod of the Serbian Orthodox Church meets in Belgrade and chooses Bishop Irinej of Nis as the new Serbian Patriarch. ](/news/2010/01/22/the-electoral-synod-of-the-serbian-orthodox-church-meets-in-belgrade-and-chooses-bishop-irinej-of-nia-as-the-new-serbian-patriarch.md)
-_Context: Belgrade, Bishop Irinej of Niš, Electoral Synod, Serbian Orthodox Church, Serbian Patriarch_
+_Context: Belgrade, Bishop Irinej of Nis, Electoral Synod, Serbian Orthodox Church, Serbian Patriarch_
 
 ### [European banking stocks drop sharply following U.S. President Barack Obama's plans to restrict activities of the biggest American banks. ](/news/2010/01/22/european-banking-stocks-drop-sharply-following-u-s-president-barack-obama-s-plans-to-restrict-activities-of-the-biggest-american-banks.md)
 _Context: Barack Obama, Europe, United States, banking, president_

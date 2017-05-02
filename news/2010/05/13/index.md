@@ -31,7 +31,7 @@ _Context: Aban Pearl, Venezuela_
 Pope Benedict XVI&#39;s outdoor mass at Fatima has taken place amid heavy rain downpours and low temperatures this afternoon.
 
 ### [The ".rf" (".rf" - Russian Federation) Cyrillic country code top-level domain (ccTLD) is officially launched, the fourth internationalized country code. The first two web sites available on ".rf" are ](/news/2010/05/13/the-nn-rf-russian-federation-cyrillic-country-code-top-level-domain-cctld-is-officially-launched-the-fourth-internationalized.md)
-_Context: .рф, Cyrillic, Russian Federation, country code, internationalized country code, top-level domain_
+_Context: .rf, Cyrillic, Russian Federation, country code, internationalized country code, top-level domain_
 
 ### [The second case of poliomyelitis in two days is reported in Russia, in Russia's first polio cases in 15 years, with the virus believed to have come from Tajikistan. ](/news/2010/05/13/the-second-case-of-poliomyelitis-in-two-days-is-reported-in-russia-in-russia-s-first-polio-cases-in-15-years-with-the-virus-believed-to-ha.md)
 _Context: Tajikistan, polio_

@@ -16,7 +16,7 @@ Salim Ahmed Hamdan, the first detainee convicted after a war crimes trial in Gua
 _Context: Kwame Kilpatrick, Mayor of Detroit, perjury_
 
 ### [ The leaders of the 2008 Mauritanian coup d'tat promise to hold elections as soon as possible. ](/news/2008/08/7/the-leaders-of-the-2008-mauritanian-coup-d-etat-promise-to-hold-elections-as-soon-as-possible.md)
-_Context: coup d'état_
+_Context: coup d'tat_
 
 ### [ Pakistan's ruling coalition announces it will seek the impeachment of President Pervez Musharraf. ](/news/2008/08/7/pakistan-s-ruling-coalition-announces-it-will-seek-the-impeachment-of-president-pervez-musharraf.md)
 _Context: Pervez Musharraf, seek the impeachment_

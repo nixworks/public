@@ -7,7 +7,7 @@ _Context: Israel, Israeli Defence Forces, Israeli-Palestinian conflict, Palestin
 _Context: Inmarsat, broadband, communications satellite, geosynchronous orbit, released an object into orbit, telecommunication_
 
 ### [ Avian influenza: Avian influenza is detected in Croatia. Six of twelve swans were infected by an H5 type of virus. The swans were found near Orahovica. It is suspected that they came to Croatia from a still unknown place in the European Union. The Australian Quarantine and Inspection Service discovers antibodies of avian influenza and newcastle disease in pigeons imported from Canada to Melbourne, leading to a blanket ban on all live bird imports from Canada. ](/news/2005/10/21/avian-influenza-p-avian-influenza-is-detected-in-croatia-six-of-twelve-swans-were-infected-by-an-h5-type-of-virus-the-swans-were-found-ne.md)
-_Context: Australian Quarantine and Inspection Service, Avian flu virus, Canadian, Croatia, European Union, Melbourne, newcastle disease, pigeons, swan, virus_
+_Context: Australian Quarantine and Inspection Service, Avian flu virus, Canada, Croatia, European Union, Melbourne, newcastle disease, pigeons, swan, virus_
 
 ### [ Saadoun Sughaiyer al-Janabi, the defense lawyer of Awad Hamed al-Bandar in the Al-Dujail trial, is found dead of gunshot wounds near a Baghdad mosque, after having been kidnapped on Thursday evening by unknown assailants. ](/news/2005/10/21/saadoun-sughaiyer-al-janabi-the-defense-lawyer-of-awad-hamed-al-bandar-in-the-al-dujail-trial-is-found-dead-of-gunshot-wounds-near-a-bagh.md)
 _Context: Al-Dujail trial, Awad Hamed al-Bandar_
@@ -22,7 +22,7 @@ _Context: Detlev Mehlis, Lebanese Prime Minister, Lebanon, Rafik Hariri, Syria, 
 _Context: Battle of Trafalgar, Portsmouth, Queen Elizabeth, United Kingdom, beacon_
 
 ### [ An earthquake measuring 5.9 on the moment magnitude scale hits the Turkish city of Izmir, injuring 15 people and causing one fatal heart attack. This is the fourth strong tremor this week. ](/news/2005/10/21/an-earthquake-measuring-5-9-on-the-moment-magnitude-scale-hits-the-turkish-city-of-adegzmir-injuring-15-people-and-causing-one-fatal-heart-a.md)
-_Context: Turkey, magnitude, İzmir_
+_Context: Izmir, Turkey, magnitude_
 
 ## [Previous Day...](/news/2005/10/20/index.md)
 

@@ -25,7 +25,7 @@ _Context: Al Jazeera America_
 _Context: 2016 Atlantic hurricane season, Azores, Subtropical Storm Alex_
 
 ### [An avalanche kills three and injures one at the Les Deux Alpes ski resort in Isere departement of the French Alps. Officials are searching for other possible victims. ](/news/2016/01/13/an-avalanche-kills-three-and-injures-one-at-the-les-deux-alpes-ski-resort-in-isa-re-da-c-partement-of-the-french-alps-officials-are-searching.md)
-_Context: French Alps, Isère, Les Deux Alpes, avalanche, département, ski resort_
+_Context: French Alps, Isere, Les Deux Alpes, avalanche, departement, ski resort_
 
 ### [Iran claims that it has interrogated ten United States Navy personnel that it captured allegedly  in its territorial waters. ](/news/2016/01/13/iran-claims-that-it-has-interrogated-ten-united-states-navy-personnel-that-it-captured-allegedly-in-its-territorial-waters.md)
 Iran has released 10 US Navy sailors who were detained when their vessels strayed into Iranian waters.

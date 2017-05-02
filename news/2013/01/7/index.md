@@ -13,7 +13,7 @@ Five men are formally charged with the gang rape and murder of a young woman in 
 President Obama names Chuck Hagel to head the Pentagon and terrorism adviser John Brennan to lead the CIA, but Republicans question the nominations.
 
 ### [Scientists from the Harvard-Smithsonian Center for Astrophysics estimate that there are at least 17 billion planets approximately the size of Earth in the Milky Way. ](/news/2013/01/7/scientists-from-the-harvardasmithsonian-center-for-astrophysics-estimate-that-there-are-at-least-17-billion-planets-approximately-the-size.md)
-_Context: Earth, Harvard–Smithsonian Center for Astrophysics, Milky Way, planets_
+_Context: Earth, Harvard-Smithsonian Center for Astrophysics, Milky Way, planets_
 
 ### [In association football, Lionel Messi of Argentina wins the 2012 FIFA Ballon d'Or as the best player for a third consecutive time. Abby Wambach of the United States wins the FIFA Women's World Player of the Year award, the first time in ten years that an American has won the award. ](/news/2013/01/7/in-association-football-lionel-messi-of-argentina-wins-the-2012-fifa-ballon-d-or-as-the-best-player-for-a-third-consecutive-time-abby-wamb.md)
 Lionel Messi added yet another record to his stellar list of achievements over the past 12 months on Monday when he won an unprecedented fourth consecutive Ballon d&#039;Or at a FIFA gala in Zurich.

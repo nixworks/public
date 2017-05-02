@@ -37,7 +37,7 @@ _Context: Interstate 80, Salt Lake City, United States, murder-suicide_
 Hundreds of thousands rally in Bangladesh to demand the death penalty for a political leader convicted of war crimes from the 1971 independence war.
 
 ### [2010-2013 Greek protests: As demonstrations, protests and rallies against the government decisions to close down or downgrade schools and hospitals continue, in Ierapetra, Crete, over 7,000 people, including students, stage a peaceful march, holding candles and torches, to protest the forthcoming closure of the one of two technical schools and the only hospital of the region. ](/news/2013/02/8/2010a2013-greek-protests-as-demonstrations-protests-and-rallies-against-the-government-decisions-to-close-down-or-downgrade-schools-and.md)
-_Context: 2010–2013 Greek protests, Crete, Ierapetra, candle, torch_
+_Context: 2010-2013 Greek protests, Crete, Ierapetra, candle, torch_
 
 ### [In Tunisia, the funeral of the opposition politician Chokri Belaid takes place as over a million people gather in mourning amid major protests. A general strike is declared. Tunis Airport is closed and all flights suspended. ](/news/2013/02/8/in-tunisia-the-funeral-of-the-opposition-politician-chokri-belaid-takes-place-as-over-a-million-people-gather-in-mourning-amid-major-protes.md)
 Assassinated Tunisian politician Chokri Belaid is buried after a funeral attended by thousands, amid nationwide protests and tension.

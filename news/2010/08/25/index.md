@@ -4,7 +4,7 @@
 _Context: Battle of Mogadishu (2010), Mogadishu_
 
 ### [A military spokesperson claims that a suicide bomber was shot and killed when he tried to drive a truckload of explosives into a Mauritanian army barracks in Nema near the border with Mali. ](/news/2010/08/25/a-military-spokesperson-claims-that-a-suicide-bomber-was-shot-and-killed-when-he-tried-to-drive-a-truckload-of-explosives-into-a-mauritanian.md)
-_Context: Mali, Mauritania, Néma, army, barracks, suicide bomber_
+_Context: Mali, Mauritania, Nema, army, barracks, suicide bomber_
 
 ### [A string of attacks in Iraq targeting Iraqi security forces leaves at least 56 people  dead. ](/news/2010/08/25/a-string-of-attacks-in-iraq-targeting-iraqi-security-forces-leaves-at-least-56-people-dead.md)
 With a withering wave of assaults on security forces, which killed dozens, insurgents proved their ability to launch attacks virtually anywhere in Iraq.

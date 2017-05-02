@@ -6,7 +6,7 @@ In bid to placate protesters, Zine El Abidine Ben Ali vows to broaden political 
 ### [Forces loyal to incumbent Ivory Coast President Laurent Gbagbo attack and burn United Nations vehicles. ](/news/2011/01/13/forces-loyal-to-incumbent-ivory-coast-president-laurent-gbagbo-attack-and-burn-united-nations-vehicles.md)
 World body accuses security forces loyal to incumbent president of attacking its vehicles and personnel.
 
-### [A British cruise ship avoids a possible Somali pirate attack {{convert|100|mi|km}} off the coast of Tanzania in the Indian Ocean. ](/news/2011/01/13/a-british-cruise-ship-avoids-a-possible-somali-pirate-attack-convert-100-mi-km-off-the-coast-of-tanzania-in-the-indian-ocean.md)
+### [A British cruise ship avoids a possible Somali pirate attack 100|mi|km off the coast of Tanzania in the Indian Ocean. ](/news/2011/01/13/a-british-cruise-ship-avoids-a-possible-somali-pirate-attack-100-mi-km-off-the-coast-of-tanzania-in-the-indian-ocean.md)
 _Context: Indian Ocean, Somali pirates, Tanzania, United Kingdom_
 
 ### [Israeli-Lebanese conflict:Israel places troops stationed in northern Israel on high alert following the collapse of the Lebanese government. ](/news/2011/01/13/israelialebanese-conflict-pisrael-places-troops-stationed-in-northern-israel-on-high-alert-following-the-collapse-of-the-lebanese-governme.md)

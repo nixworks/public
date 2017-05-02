@@ -1,10 +1,10 @@
 ## [2013-02-11](/news/2013/02/11/index.md)
 
 ### [Northern Mali conflict (2012-present):Insurgents launch an attack on the strategic city of Gao, capturing a police station and sparking a day-long firefight that included Malian troops, as well as French attack helicopters. ](/news/2013/02/11/northern-mali-conflict-2012apresent-pinsurgents-launch-an-attack-on-the-strategic-city-of-gao-capturing-a-police-station-and-sparking-a.md)
-_Context: France, Gao, Mali, Northern Mali conflict (2012–present), helicopter_
+_Context: France, Gao, Mali, Northern Mali conflict (2012-present), helicopter_
 
 ### [Syrian civil war:An explosion in a vehicle at the Cilvegozu border gate kills 14 civilians (eleven Syrians and three Turks), and injures more than 25 others in Reyhanli district of Hatay Province, Turkey. The gate is on the Turkish-Syrian border. ](/news/2013/02/11/syrian-civil-war-pan-explosion-in-a-vehicle-at-the-cilvegapza1-4-border-gate-kills-14-civilians-eleven-syrians-and-three-turks-and-injures.md)
-_Context: Cilvegözü, Hatay Province, Reyhanlı, Syria, Syrian Civil War, Turkey_
+_Context: Cilvegozu, Hatay Province, Reyhanli, Syria, Syrian Civil War, Turkey_
 
 ### [Six top Guinean military officials, including the head of the Guinean armed forces, are killed in a plane crash in Liberia. ](/news/2013/02/11/six-top-guinean-military-officials-including-the-head-of-the-guinean-armed-forces-are-killed-in-a-plane-crash-in-liberia.md)
 _Context: Guinea, Guinean military, Liberia_

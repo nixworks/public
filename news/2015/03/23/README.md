@@ -1,7 +1,7 @@
 ## [2015-03-23](/news/2015/03/23/index.md)
 
 ### [Multiple bombings in Baghdad, Iraq, kill at least nineteen people and wound another thirty-six.  ](/news/2015/03/23/multiple-bombings-in-baghdad-iraq-kill-at-least-nineteen-people-and-wound-another-thirty-six.md)
-_Context: Baghdad, Iraq, Iraqi insurgency (2011–present)_
+_Context: Baghdad, Iraq, Iraqi insurgency (2011-present)_
 
 ### [China's biggest state-owned chemical company ChemChina acquires a 26% stake in Italian tire manufacturer Pirelli with an additional offer to buy the remaining outstanding shares. ](/news/2015/03/23/china-s-biggest-state-owned-chemical-company-chemchina-acquires-a-26-stake-in-italian-tire-manufacturer-pirelli-with-an-additional-offer-to.md)
 _Context: ChemChina, China, Italian, Pirelli, outstanding shares_

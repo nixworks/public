@@ -13,7 +13,7 @@ _Context: Al Qaida's, Yemen_
 _Context: Afmadow, African Union, Somalia, al-Shabaab_
 
 ### [A bus carrying 31 passengers, while crossing the Truc Khe Bridge that was under repair in Cam Lo (Quang Tri, Viet Nam), falls into a river, leaving 17 passengers injured. ](/news/2013/08/8/a-bus-carrying-31-passengers-while-crossing-the-truc-khe-bridge-that-was-under-repair-in-cam-la-quaopsng-tra-viet-nam-falls-into-a-r.md)
-_Context: Cam Lộ, Quảng Trị, Viet Nam_
+_Context: Cam Lo, Quang Tri, Viet Nam_
 
 ### [The Republic of China lifts sanctions imposed on the Philippines after president Benigno Aquino apologized  to the family of a Taiwanese fisherman shot dead in disputed waters. ](/news/2013/08/8/the-republic-of-china-lifts-sanctions-imposed-on-the-philippines-after-president-benigno-aquino-apologized-to-the-family-of-a-taiwanese-fis.md)
 Taiwan lifts sanctions imposed on the Philippines after Manila issued a formal apology to the family of a Taiwanese fisherman shot dead by coast guards.

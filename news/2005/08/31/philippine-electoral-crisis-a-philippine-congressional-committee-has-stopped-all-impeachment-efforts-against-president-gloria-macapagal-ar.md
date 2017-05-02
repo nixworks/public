@@ -1,6 +1,6 @@
 ### [2005-08-31](/news/2005/08/31/index.md)
 
-#  Philippine electoral crisis: A Philippine congressional committee has stopped all impeachment efforts against President Gloria Macapagal-Arroyo. [http://www.usatoday.com/news/world/2005-08-31-philippines-arroyo_x.htm (USA Today)]{{dead link|date=April 2015}}
+#  Philippine electoral crisis: A Philippine congressional committee has stopped all impeachment efforts against President Gloria Macapagal-Arroyo. [http://www.usatoday.com/news/world/2005-08-31-philippines-arroyo_x.htm (USA Today)]date=April 2015
 
 
 

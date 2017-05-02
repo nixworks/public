@@ -7,7 +7,7 @@ In the Southern Philippines a child has been killed and 36 people injured in two
 Topps Meat Co LLC announced on Friday it was going out of business, crushed by the recall of 21.7 million pounds of beef linked to 30 cases of E. coli-related illness.
 
 ### [ Canada stops the sale of Novartis anti-inflammatory drug Prexige and cancels its authorisation due to the risk of liver-related effects such as hepatitis. ](/news/2007/10/5/canada-stops-the-sale-of-novartis-anti-inflammatory-drug-prexige-and-cancels-its-authorisation-due-to-the-risk-of-liver-related-effects-suc.md)
-_Context: Canadian, Novartis, Prexige, drug, hepatitis, liver_
+_Context: Canada, Novartis, Prexige, drug, hepatitis, liver_
 
 ### [ 2007 Burmese anti-government protests:  Burmese security forces claim that they are looking for four of the monks that led the protests. ](/news/2007/10/5/2007-burmese-anti-government-protests-p-burmese-security-forces-claim-that-they-are-looking-for-four-of-the-monks-that-led-the-protests.md)
 _Context: 2007 Burmese anti-government protests, Burma_

@@ -1,7 +1,7 @@
 ## [2009-10-24](/news/2009/10/24/index.md)
 
 ### [ The International Day of Climate Action occurred worldwide in prelude to the United Nations Climate Change Conference of 2009, with over 5,400 actions to raise awareness of the assertion that 350 ppm is the maximum safe level of carbon dioxide in Earth's atmosphere, and call for mitigation of global warming before Earth reaches a climatological tipping point. ](/news/2009/10/24/the-international-day-of-climate-action-occurred-worldwide-in-prelude-to-the-united-nations-climate-change-conference-of-2009-with-over-5.md)
-_Context: Conference on Climate Change, Earth's atmosphere, International Day of Climate Action, UN Climate Change Conference, assertion, carbon dioxide ({{chem|C|O|2}}), climatological tipping point, mitigation of global warming, ppm_
+_Context: Conference on Climate Change, Earth's atmosphere, International Day of Climate Action, UN Climate Change Conference, assertion, carbon dioxide (C|O|2), climatological tipping point, mitigation of global warming, ppm_
 
 ### [ Ten corpses with gunshot wounds thought to belong to a kidnapped Colombian football team are located in Venezuela. ](/news/2009/10/24/ten-corpses-with-gunshot-wounds-thought-to-belong-to-a-kidnapped-colombian-football-team-are-located-in-venezuela.md)
 _Context: Colombia, Venezuela, association football, corpses with gunshot wounds_

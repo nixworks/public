@@ -16,7 +16,7 @@ _Context: Beijing Subway_
 _Context: Major League Baseball, Ugueth Urbina, Venezuela, attempted murder, pitcher, prison_
 
 ### [ The President of Guinea Lansana Conte names a new government led by the Prime Minister of Guinea Lansana Kouyate. ](/news/2007/03/28/the-president-of-guinea-lansana-conta-c-names-a-new-government-led-by-the-prime-minister-of-guinea-lansana-kouyata-c.md)
-_Context: Lansana Conté, Lansana Kouyaté, President of Guinea, prime minister_
+_Context: Lansana Conte, Lansana Kouyate, President of Guinea, prime minister_
 
 ### [ Arab and Middle East leaders meet in Riyadh, Saudi Arabia to discuss reviving the Middle East peace process. ](/news/2007/03/28/arab-and-middle-east-leaders-meet-in-riyadh-saudi-arabia-to-discuss-reviving-the-middle-east-peace-process.md)
 Bush administration attempts to revive Arab-Israeli peace talks suffered a setback Wednesday as leaders at an Arab League summit here, including the heads of state of several U.S. allies, condemned...

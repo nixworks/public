@@ -12,7 +12,7 @@ _Context: Togliatti, Russia, bomb_
 ### [ 21 of the 28 people accused over the 2004 Madrid train bombings have been found guilty; four of them are charged with murder. ](/news/2007/10/31/21-of-the-28-people-accused-over-the-2004-madrid-train-bombings-have-been-found-guilty-four-of-them-are-charged-with-murder.md)
 _Context: 2004 Madrid train bombings_
 
-### [ Police question Prince Harry over an alleged shooting of endangered hen harriers at the Royal Family's Sandringham House estate.{{Fact|date=December 2007}} ](/news/2007/10/31/police-question-prince-harry-over-an-alleged-shooting-of-endangered-hen-harriers-at-the-royal-family-s-sandringham-house-estate-fact-date.md)
+### [ Police question Prince Harry over an alleged shooting of endangered hen harriers at the Royal Family's Sandringham House estate.date=December 2007 ](/news/2007/10/31/police-question-prince-harry-over-an-alleged-shooting-of-endangered-hen-harriers-at-the-royal-family-s-sandringham-house-estate-date-decemb.md)
 _Context: Prince Harry, Royal Family, Sandringham House, endangered animal parts, hen harrier, police, shooting_
 
 ### [ Alcatel-Lucent announces plans to cut 4,000 jobs. ](/news/2007/10/31/alcatel-lucent-announces-plans-to-cut-4-000-jobs.md)

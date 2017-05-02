@@ -10,7 +10,7 @@ _Context: Central-African, Chad, Darfur, European Union, France, Sudan, United N
 _Context: 2007 Pacific hurricane season, Baja California_
 
 ### [ The United States Senate fails to pass a bill providing more home leave to United States troops in Iraq with the necessary 60 percent margin with 56 for and 44 against. ](/news/2007/09/19/the-united-states-senate-fails-to-pass-a-bill-providing-more-home-leave-to-united-states-troops-in-iraq-with-the-necessary-60-percent-margi.md)
-_Context: Iraq, Senator, United States_
+_Context: Iraq, United States, United States Senate_
 
 ### [ Four fossil skeletons of early human ancestors are discovered in Georgia. ](/news/2007/09/19/four-fossil-skeletons-of-early-human-ancestors-are-discovered-in-georgia.md)
 The discovery of four fossil skeletons of human ancestors in Georgia, a former Soviet republic, offers a look at a species in transition.
@@ -19,7 +19,7 @@ The discovery of four fossil skeletons of human ancestors in Georgia, a former S
 _Context: Condoleezza Rice, International Atomic Energy Agency, United States Secretary of State_
 
 ### [ Jose Mourinho, manager of Chelsea Football Club, leaves the club by mutual consent. ](/news/2007/09/19/josa-c-mourinho-manager-of-chelsea-football-club-leaves-the-club-by-mutual-consent.md)
-_Context: Chelsea F.C., José Mourinho_
+_Context: Chelsea F.C., Jose Mourinho_
 
 ### [ Six hundred thousand people are made homeless by floods in Africa with at least 270 deaths with more rain expected. ](/news/2007/09/19/six-hundred-thousand-people-are-made-homeless-by-floods-in-africa-with-at-least-270-deaths-with-more-rain-expected.md)
 Flooded regions across Africa have been warned to expect further heavy rain after more than 600,000 people have already been made homeless by the floods.
@@ -28,13 +28,13 @@ Flooded regions across Africa have been warned to expect further heavy rain afte
 _Context: Nevada, Steve Fossett, United States_
 
 ### [ Prime Minister of Turkey Recep Tayyip Erdogan calls for a change to the country's Constitution to end the ban on the wearing of headscarves in universities. ](/news/2007/09/19/prime-minister-of-turkey-recep-tayyip-erdoaan-calls-for-a-change-to-the-country-s-constitution-to-end-the-ban-on-the-wearing-of-headscarve.md)
-_Context: Prime Minister of Turkey, Recep Tayyip Erdoğan, Turkey, constitution, headscarves_
+_Context: Prime Minister of Turkey, Recep Tayyip Erdogan, Turkey, constitution, headscarves_
 
 ### [ Due to increasing rocket attacks aimed at Israeli civilians, The Government of Israel declares the Palestinian-controlled Gaza Strip an "enemy entity", and announces plans to cut utilities to the territory. ](/news/2007/09/19/due-to-increasing-rocket-attacks-aimed-at-israeli-civilians-the-government-of-israel-declares-the-palestinian-controlled-gaza-strip-an-en.md)
 _Context: Gaza Strip, Palestinian Authority, government_
 
 ### [ U.S. Congressman Henry Waxman, chairman of the House Committee on Oversight and Government Reform, announces that he will begin an investigation into the activities of Howard Krongard, Inspector General of the State Department.  Krongard has been accused of interfering with investigations into corruption involving fraud in the building of the new United States Embassy in Iraq, the smuggling of illegal weapons into Iraq by Blackwater USA employees, and the activities of former chairman of the Broadcasting Board of Governors, Kenneth Tomlinson, in the use of his office for personal gain.  ](/news/2007/09/19/u-s-congressman-henry-waxman-chairman-of-the-house-committee-on-oversight-and-government-reform-announces-that-he-will-begin-an-investig.md)
-_Context: Blackwater, Broadcasting Board of Governors, Henry Waxman, House Oversight Committee, Howard Krongard, Iraq, Kenneth Tomlinson, State Department, U.S. Congress, United States Embassy in Iraq_
+_Context: Blackwater, Broadcasting Board of Governors, Henry Waxman, House Oversight Committee, Howard Krongard, Iraq, Kenneth Tomlinson, State Department, U.S. Congressional, United States Embassy in Iraq_
 
 ### [ The Deputy Commander of the Iranian Air Force claims that Iran  has plans to retaliate if attacked by Israel. ](/news/2007/09/19/the-deputy-commander-of-the-iranian-air-force-claims-that-iran-has-plans-to-retaliate-if-attacked-by-israel.md)
 _Context: Iran, Iranian Air Force, Israel_
@@ -46,7 +46,7 @@ A car bomb has killed an anti-Syrian lawmaker and at least seven other people in
 _Context: Girija Prasad Koirala, Maoists, Nepal, Prime Minister, coalition_
 
 ### [ War in Afghanistan: Coalition forces led by the British Army launch a major offensive in Helmand province. ](/news/2007/09/19/war-in-afghanistan-coalition-forces-led-by-the-british-army-launch-a-major-offensive-in-helmand-province.md)
-_Context: British Army, Helmand, War in Afghanistan (2001–present)_
+_Context: British Army, Helmand, War in Afghanistan (2001-present)_
 
 ### [ Officials from a UN-backed genocide tribunal detain Nuon Chea, the most senior surviving member of the Khmer Rouge regime. ](/news/2007/09/19/officials-from-a-un-backed-genocide-tribunal-detain-nuon-chea-the-most-senior-surviving-member-of-the-khmer-rouge-regime.md)
 _Context: Khmer Rouge, Nuon Chea, United Nations, genocide_

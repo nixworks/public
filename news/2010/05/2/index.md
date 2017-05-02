@@ -19,7 +19,7 @@ _Context: European Union, Greece, International Monetary Fund, economically trou
 _Context: Democratic Republic of the Congo, Uganda, United Nations_
 
 ### [After Iran's selection to the Commission on the Status of Women, a United Nations panel on women's rights, Canada cites "serious concerns" about Iran's participation in the panel and Iran's human-rights record.  ](/news/2010/05/2/after-iranas-selection-to-the-commission-on-the-status-of-women-a-united-nations-panel-on-womenas-rights-canada-cites-aserious-conce.md)
-_Context: Canadian, Commission on the Status of Women, Iran, Iranian human rights, United Nations, women’s rights_
+_Context: Canada, Commission on the Status of Women, Iran, Iranian human rights, United Nations, women's rights_
 
 ### [Hizbul Islam members enter Harardhere in Somalia, and meet no resistance; they promise to enter other towns in the region. ](/news/2010/05/2/hizbul-islam-members-enter-harardhere-in-somalia-and-meet-no-resistance-they-promise-to-enter-other-towns-in-the-region.md)
 Hizbul Islam members enter the pirate base of Haradheere, residents say.
@@ -28,7 +28,7 @@ Hizbul Islam members enter the pirate base of Haradheere, residents say.
 _Context: Kathmandu, Madhav Kumar Nepal, Maoist, Prime Minister_
 
 ### [Five people are killed and at least 12 others are injured in a stampede at an Intocable concert in Guadalupe, Nuevo Leon. ](/news/2010/05/2/five-people-are-killed-and-at-least-12-others-are-injured-in-a-stampede-at-an-intocable-concert-in-guadalupe-nuevo-lea3n.md)
-_Context: Guadalupe, Nuevo León, Intocable_
+_Context: Guadalupe, Nuevo Leon, Intocable_
 
 ### [Thai Prime Minister Abhisit Vejjajiva says his government is preparing to take back Bangkok and end the seven-week-long protests. ](/news/2010/05/2/thai-prime-minister-abhisit-vejjajiva-says-his-government-is-preparing-to-take-back-bangkok-and-end-the-seven-week-long-protests.md)
 _Context: 2010 Thai political protests, Abhisit Vejjajiva, Bangkok, Thailand_
@@ -46,7 +46,7 @@ John Higgins, the snooker world champion, has allegedly been caught agreeing to 
 _Context: Roman Polanski, United States_
 
 ### [Japanese supercentenarian and oldest living person in the world Kama Chinen dies 8 days short of 115 and leaves French supercentenarian Eugenie Blanchard as the oldest living person.](/news/2010/05/2/japanese-supercentenarian-and-oldest-living-person-in-the-world-kama-chinen-dies-8-days-short-of-115-and-leaves-french-supercentenarian-euga.md)
-_Context: Eugénie Blanchard, Kama Chinen_
+_Context: Eugenie Blanchard, Kama Chinen_
 
 ## [Previous Day...](/news/2010/05/1/index.md)
 

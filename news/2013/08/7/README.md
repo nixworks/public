@@ -31,7 +31,7 @@ _Context: Jomo Kenyatta International Airport, Kenya, Nairobi_
 North and South Korea agree to resume talks on reopening the joint Kaesong zone, days after Seoul demanded &quot;final talks&quot; on the matter.
 
 ### [The Prime Minister of the Czech Republic Jiri Rusnok announces his resignation after his caretaker government loses a vote of confidence. ](/news/2013/08/7/the-prime-minister-of-the-czech-republic-jiaa-rusnok-announces-his-resignation-after-his-caretaker-government-loses-a-vote-of-confidence.md)
-_Context: Jiří Rusnok, Prime Minister of the Czech Republic_
+_Context: Jiri Rusnok, Prime Minister of the Czech Republic_
 
 ### [Portugal's treasury secretary Joaquim Pais Jorge resigns after media reports and opposition politicians questioned his previous role at Citigroup. ](/news/2013/08/7/portugal-s-treasury-secretary-joaquim-pais-jorge-resigns-after-media-reports-and-opposition-politicians-questioned-his-previous-role-at-citi.md)
 _Context: Citigroup, Portuguese_

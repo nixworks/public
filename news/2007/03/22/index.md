@@ -34,7 +34,7 @@ _Context: Baghdad, Ban Ki-moon, Iraqi Prime Minister, Nouri Maliki, Secretary Ge
 _Context: Ambassador to the United Nations, John R. Bolton, United States, ceasefire, war_
 
 ### [ Amnesty International calls on governments not to co-operate with U.S. military in trials of detainees at Guantanamo Bay. ](/news/2007/03/22/amnesty-international-calls-on-governments-not-to-co-operate-with-u-s-military-in-trials-of-detainees-at-guanta-namo-bay.md)
-_Context: Amnesty International, Guantánamo Bay, U.S. military_
+_Context: Amnesty International, Guantanamo Bay, U.S. military_
 
 ### [ The ventromedial prefrontal  cortex is identified as the part of the human brain that combines logic and emotion in order to make moral decisions. ](/news/2007/03/22/the-ventromedial-prefrontal-cortex-is-identified-as-the-part-of-the-human-brain-that-combines-logic-and-emotion-in-order-to-make-moral-dec.md)
 _Context: cerebral cortex, emotion, human brain, logic, moral, ventromedial prefrontal_

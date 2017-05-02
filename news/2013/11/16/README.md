@@ -7,7 +7,7 @@ _Context: Organisation for the Prohibition of Chemical Weapons, Syrian Civil War
 Second day of fighting in Tripoli as death toll from violence at anti-militia protest topped 40.
 
 ### [Islamist protests in Egypt (July 2013-present):Lawyers in the UK accuse Egypt's military of committing crimes against humanity after July's ouster of President Mohamed Morsi. ](/news/2013/11/16/islamist-protests-in-egypt-july-2013apresent-plawyers-in-the-uk-accuse-egypt-s-military-of-committing-crimes-against-humanity-after-july.md)
-_Context: Islamist protests in Egypt (July 2013–present), Mohamed Morsi_
+_Context: Islamist protests in Egypt (July 2013-present), Mohamed Morsi_
 
 ### [War in Afghanistan (2001-present):Suicide car bombing in Kabul kills six people and injures twenty. ](/news/2013/11/16/war-in-afghanistan-2001apresent-psuicide-car-bombing-in-kabul-kills-six-people-and-injures-twenty.md)
 Large blast near Kabul compound where Afghan security pact with US is to be debated at Loya Jirga kills six people.

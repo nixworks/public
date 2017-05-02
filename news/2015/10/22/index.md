@@ -3,11 +3,11 @@
 ### [The Associated Press reports that Kurds in Syria established a new administration in the Sunni-Arab town of Tal Abyad, which the Kurds wrestled from ISIS last June. ](/news/2015/10/22/the-associated-press-reports-that-kurds-in-syria-established-a-new-administration-in-the-sunni-arab-town-of-tal-abyad-which-the-kurds-wrest.md)
 At least 13 people including medical staff were killed when Russian warplanes struck a field hospital in northwestern Syria, the Syrian Observatory for Human Rights said Wednesday. &quot;Thirteen people were killed in Russian air strikes on Tuesday on a field clinic in the town of Sarmin, including
 
-### [Islamic State of Iraq and the Levant, American-led intervention in Iraq (2014-present):A joint early-morning raid conducted by Iraqi and US forces on an IS-run prison in Hawija, Kirkuk Province has freed 70 hostages. One U.S. Delta Force soldier was reported killed - the first American combat death since the start of the US-led intervention against IS. ](/news/2015/10/22/islamic-state-of-iraq-and-the-levant-american-led-intervention-in-iraq-2014apresent-pa-joint-early-morning-raid-conducted-by-iraqi-and.md)
+### [A joint early-morning raid conducted by Iraqi and US forces on an IS-run prison in Hawija, Kirkuk Province has freed 70 hostages. One U.S. Delta Force soldier was reported killed - the first American combat death since the start of the US-led intervention against IS. ](/news/2015/10/22/a-joint-early-morning-raid-conducted-by-iraqi-and-us-forces-on-an-is-run-prison-in-hawija-kirkuk-province-has-freed-70-hostages-one-u-s-d.md)
 US authorities say US and Iraqi forces rescued dozens of hostages from IS to prevent their &quot;imminent execution&quot; but a US soldier was killed.
 
 ### [Taliban insurgents assassinate Mohammad Daud Sultanzoy, a district administrator in Afghanistan's eastern Ghazni province. ](/news/2015/10/22/taliban-insurgents-assassinate-mohammad-daud-sultanzoy-a-district-administrator-in-afghanistan-s-eastern-ghazni-province.md)
-_Context: Afghanistan, Ghazni Province, Mohammad Daud Sultanzoy, Taliban, War in Afghanistan (2015–present)_
+_Context: Afghanistan, Ghazni Province, Mohammad Daud Sultanzoy, Taliban, War in Afghanistan (2015-present)_
 
 ### [Egypt's military says it has gained "full control" over the North Sinai areas of Arish, Rafah and Sheikh Zuweid after successful raids on terrorist strongholds and weapons caches. ](/news/2015/10/22/egypt-s-military-says-it-has-gained-full-control-over-the-north-sinai-areas-of-arish-rafah-and-sheikh-zuweid-after-successful-raids-on-te.md)
 _Context: Arish, Egypt, Egyptian military, North Sinai Governorate, Rafah, Egypt, Sheikh Zuweid, Sinai insurgency_

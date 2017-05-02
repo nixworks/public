@@ -4,7 +4,7 @@
 _Context: 99% of those who voted rejected a proposal, Gibraltar, Spain, referendum, sovereignty_
 
 ### [Colombian drug lord Gilberto Rodrguez Orejuela, one of the leaders of the Cali drug cartel, was released from prison (for "good behavior") after serving less than half of his sentence, despite objections from the governments of Colombia and the United States.](/news/2002/11/7/colombian-drug-lord-gilberto-rodriguez-orejuela-one-of-the-leaders-of-the-cali-drug-cartel-was-released-from-prison-for-good-behavior.md)
-_Context: Cali, Colombia, Gilberto Rodríguez Orejuela, drug cartel_
+_Context: Cali, Colombia, Gilberto Rodrguez Orejuela, drug cartel_
 
 ### [Iran banned advertising of US products and an Iranian, believing a sorcerer had made him invisible, tried to rob a bank in Tehran.](/news/2002/11/7/iran-banned-advertising-of-us-products-and-an-iranian-believing-a-sorcerer-had-made-him-invisible-tried-to-rob-a-bank-in-tehran.md)
 _Context: Iran, Tehran, banking_

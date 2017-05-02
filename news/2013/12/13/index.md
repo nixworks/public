@@ -19,7 +19,7 @@ _Context: China, South China Sea, United States, disputed, international waters_
 Prince Harry and his fellow adventurers in the Walking With The Wounded expedition arrive at the South Pole, organisers say.
 
 ### [Beyonc unexpectedly releases her fifth self-titled album without any prior announcement or promotion, ultimately changing the global release date of all future albums to Friday.](/news/2013/12/13/beyonce-unexpectedly-releases-her-fifth-self-titled-album-without-any-prior-announcement-or-promotion-ultimately-changing-the-global-releas.md)
-_Context: Beyoncé, self-titled_
+_Context: Beyonc, self-titled_
 
 ### [Google removes a privacy feature from its Android mobile software, despite objections from groups such as the Electronic Frontier Foundation. ](/news/2013/12/13/google-removes-a-privacy-feature-from-its-android-mobile-software-despite-objections-from-groups-such-as-the-electronic-frontier-foundation.md)
 _Context: Android devices, Electronic Frontier Foundation, Google, software_

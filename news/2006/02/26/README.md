@@ -12,7 +12,7 @@ After a violent week in Iraq, the possibility of large-scale Sunni-Shiite confli
 ### [ Jamaica will have its first female Prime Minister, as Portia Simpson-Miller is elected president of the People's National Party. She will automatically replace P. J. Patterson in a few weeks. ](/news/2006/02/26/jamaica-will-have-its-first-female-prime-minister-as-portia-simpson-miller-is-elected-president-of-the-people-s-national-party-she-will-a.md)
 _Context: Jamaica, P. J. Patterson, People's National Party, Portia Simpson-Miller, Prime Minister of Jamaica_
 
-### [ The world's population hits {{Nowrap|6.5 billion}} at 0016 UTC, according to the U.S. Census Bureau's World Population Clock. ](/news/2006/02/26/the-world-s-population-hits-nowrap-6-5-billion-at-0016-utc-according-to-the-u-s-census-bureau-s-world-population-clock.md)
+### [ The world's population hits 6.5 billion at 0016 UTC, according to the U.S. Census Bureau's World Population Clock. ](/news/2006/02/26/the-world-s-population-hits-6-5-billion-at-0016-utc-according-to-the-u-s-census-bureau-s-world-population-clock.md)
 _Context: US Census Bureau headquarters, World Population Clock, clock, world's population_
 
 ### [ The Cunard liner, ''Queen Mary 2'' meets its namesake predocessor, ''Queen Mary'' for the first time in Long Beach, California, ''Queen Mary'''s permanent base.](/news/2006/02/26/the-cunard-liner-queen-mary-2-meets-its-namesake-predocessor-queen-mary-for-the-first-time-in-long-beach-california-queen-mar.md)

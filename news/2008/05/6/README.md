@@ -1,7 +1,7 @@
 ## [2008-05-6](/news/2008/05/6/index.md)
 
 ### [ Chilean authorities order the total evacuation of the towns of Chaiten and Futaleufu as the eruption of the Chaiten volcano continues to worsen. ](/news/2008/05/6/chilean-authorities-order-the-total-evacuation-of-the-towns-of-chaita-c-n-and-futaleufao-as-the-eruption-of-the-chaita-c-n-volcano-continues-to.md)
-_Context: Chaitén, Chaitén volcano, Chile_
+_Context: Chaiten, Chaiten volcano, Chile_
 
 ### [ The Irish Taoiseach, Bertie Ahern, officially resigns after ten years, ten months and ten days as head of government. ](/news/2008/05/6/the-irish-taoiseach-bertie-ahern-officially-resigns-after-ten-years-ten-months-and-ten-days-as-head-of-government.md)
 Bertie Ahern has formally tendered his resignation as Taoiseach to President Mary McAleese at Áras an Uachtaráin.

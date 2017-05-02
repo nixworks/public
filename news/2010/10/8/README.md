@@ -45,7 +45,7 @@ _Context: China's, Japan, Wen Jiabao, rare earth element_
 ### [Ajka alumina plant accident in Hungary:2 more corpses are discovered, bringing the death toll to 7, as Prime Minister of Hungary Viktor Orban plays down the disaster on the Danube. ](/news/2010/10/8/ajka-alumina-plant-accident-in-hungary-p2-more-corpses-are-discovered-bringing-the-death-toll-to-7-as-prime-minister-of-hungary-viktor-orb.md)
 Residents blame aluminium company for toxic spill that killed four people and devastated three villages.
 
-### [Maltese chemical tanker {{MV|YM Uranus||2}} is reported to be sinking following a collision with the Panamanian cargo ship ''Hanjin Rizhao'' off the coast of Brittany, France. ](/news/2010/10/8/maltese-chemical-tanker-mv-ym-uranus-2-is-reported-to-be-sinking-following-a-collision-with-the-panamanian-cargo-ship-hanjin-rizhao.md)
+### [Maltese chemical tanker YM Uranus||2 is reported to be sinking following a collision with the Panamanian cargo ship ''Hanjin Rizhao'' off the coast of Brittany, France. ](/news/2010/10/8/maltese-chemical-tanker-ym-uranus-2-is-reported-to-be-sinking-following-a-collision-with-the-panamanian-cargo-ship-hanjin-rizhao-off-th.md)
 _Context: Brittany, France, Maltese, Panama, Tanker, cargo ship_
 
 ### [One person died and 42 others remain hospitalized in the Tibetan Autonomous Prefecture of Garze. Over 100 people, mostly tourists and hotel staff, were affected. ](/news/2010/10/8/one-person-died-and-42-others-remain-hospitalized-in-the-tibetan-autonomous-prefecture-of-garze-over-100-people-mostly-tourists-and-hotel.md)

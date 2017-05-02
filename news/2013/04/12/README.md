@@ -7,7 +7,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: Baghdad, Diyala Province, Iraqi insurgency (post-U.S. withdrawal), Sunni_
 
 ### [Northern Mali conflict (2012-present):2013 Kidal suicide attack: Two suicide bombers kill three Chadian soldiers and injure dozens of civilians at a market in Kidal, Mali. ](/news/2013/04/12/northern-mali-conflict-2012apresent-p2013-kidal-suicide-attack-two-suicide-bombers-kill-three-chadian-soldiers-and-injure-dozens-of-civ.md)
-_Context: 2013 Kidal suicide attack, Chad, Kidal, Mali, Military, Northern Mali conflict (2012–present)_
+_Context: 2013 Kidal suicide attack, Chad, Kidal, Mali, Military, Northern Mali conflict (2012-present)_
 
 ### [The BBC confirms that it will not be playing "Ding-Dong! The Witch Is Dead" in full when it counts down the UK pop chart on Sunday, saying it finds "distasteful" the timing of the song's rise up the charts in the wake of Margaret Thatcher's death. ](/news/2013/04/12/the-bbc-confirms-that-it-will-not-be-playing-ding-dong-the-witch-is-dead-in-full-when-it-counts-down-the-uk-pop-chart-on-sunday-saying-i.md)
 The bitter row over Margaret Thatcher&#039;s legacy continues — and this time it&#039;s spilling onto the BBC&#039;s Top 40 radio program. 
@@ -76,10 +76,10 @@ _Context: Russia, Russian President, U.S. dollar, Vladimir Putin, Vostochny Cosm
 _Context: B.C., Sea of Galilee, monument, stone_
 
 ### [The draw for the semi-finals of the 2012-13 UEFA Champions League is held in Nyon, Switzerland. Bayern Munich will play Barcelona while Borussia Dortmund will face Real Madrid. ](/news/2013/04/12/the-draw-for-the-semi-finals-of-the-2012a13-uefa-champions-league-is-held-in-nyon-switzerland-bayern-munich-will-play-barcelona-while-bo.md)
-_Context: 2012–13 UEFA Champions League, Borussia Dortmund, FC Barcelona, FC Bayern Munich, Nyon, Real Madrid, Swiss, semi-final_
+_Context: 2012-13 UEFA Champions League, Borussia Dortmund, FC Barcelona, FC Bayern Munich, Nyon, Real Madrid, Swiss, semi-final_
 
 ### [The draw for the semi-finals of the 2012-13 UEFA Europa League is held in Nyon, Switzerland. Basel will play Chelsea while Fenerbahce will face Benfica. ](/news/2013/04/12/the-draw-for-the-semi-finals-of-the-2012a13-uefa-europa-league-is-held-in-nyon-switzerland-basel-will-play-chelsea-while-fenerbahasse-wil.md)
-_Context: 2012–13 UEFA Europa League, Basel, Benfica, Chelsea F.C., Fenerbahçe, Nyon, Swiss, semi-finals_
+_Context: 2012-13 UEFA Europa League, Basel, Benfica, Chelsea F.C., Fenerbahce, Nyon, Swiss, semi-finals_
 
 ### [Kobe hits two free throws after tearing his achilles, leading the team to a 118-116 victory over the Golden State Warriors.](/news/2013/04/12/kobe-hits-two-free-throws-after-tearing-his-achilles-leading-the-team-to-a-118-116-victory-over-the-golden-state-warriors.md)
 ## [Previous Day...](/news/2013/04/11/index.md)

@@ -1,7 +1,7 @@
 ## [2009-07-12](/news/2009/07/12/index.md)
 
 ### [ Chinese Foreign Minister  Jiechi Yang says tranquility can be restored in Xinjiang Uighur Autonomous Region and the perpetrators will be brought into court without any ethnical discrimination, in a 1 hour 15 minute phone conversation regarding the recent incidents with his Turkish counterpart Ahmet Davutoglu. ](/news/2009/07/12/chinese-foreign-minister-jiechi-yang-says-tranquility-can-be-restored-in-xinjiang-uighur-autonomous-region-and-the-perpetrators-will-be-br.md)
-_Context: Ahmet Davutoğlu, Xinjiang Uighur Autonomous Region, Yang, ethnic riots_
+_Context: Ahmet Davutoglu, Xinjiang Uighur Autonomous Region, Yang, ethnic riots_
 
 ### [ Countries in the Middle East take precautionary measures to control the spread of H1N1 during and after the Hajj, where several million Muslims from all over the world will arrive in Mecca for the annual pilgrimage in late November. ](/news/2009/07/12/countries-in-the-middle-east-take-precautionary-measures-to-control-the-spread-of-h1n1-during-and-after-the-hajj-where-several-million-mus.md)
 With several million M
@@ -19,7 +19,7 @@ Japan&#039;s main opposition party won the most seats in the Tokyo metropolitan 
 _Context: Abu Sayyaf, Italian, Red Cross_
 
 ### [ Head of the CIA Leon Panetta accuses former United States Vice President Dick Cheney of hiding an intelligence program from Congress. ](/news/2009/07/12/head-of-the-cia-leon-panetta-accuses-former-united-states-vice-president-dick-cheney-of-hiding-an-intelligence-program-from-congress.md)
-_Context: Central Intelligence Agency, Dick Cheney, Leon Panetta, U.S. Congress, U.S. Vice President, United States_
+_Context: Central Intelligence Agency, Dick Cheney, Leon Panetta, U.S. Congressional, U.S. Vice President, United States_
 
 ## [Previous Day...](/news/2009/07/11/index.md)
 

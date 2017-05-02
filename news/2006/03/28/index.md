@@ -11,7 +11,7 @@ _Context: 17th, Ehud Olmert, Israeli legislative election, Kadima, Labor, Likud_
 
 ### [ Kingdom Hearts II is released in North America](/news/2006/03/28/kingdom-hearts-ii-is-released-in-north-america.md)
 ### [ Over a million protesters join large protests in France amid strikes against the new contrat premire embauche, which protesters say will harm job stability for workers under the age of 26. Violent clashes with the police in Paris are reported.  ](/news/2006/03/28/over-a-million-protesters-join-large-protests-in-france-amid-strikes-against-the-new-contrat-premiere-embauche-which-protesters-say-will-h.md)
-_Context: 2006 labor protests in France, Paris, contrat première embauche, general strike, riot police_
+_Context: 2006 labor protests in France, Paris, contrat premire embauche, general strike, riot police_
 
 ### [ More than one million local government workers in the UK strike over cuts to pension schemes, in an action co-ordinated by eight trade unions. ](/news/2006/03/28/more-than-one-million-local-government-workers-in-the-uk-strike-over-cuts-to-pension-schemes-in-an-action-co-ordinated-by-eight-trade-unio.md)
 _Context: local government, pension, unionize_

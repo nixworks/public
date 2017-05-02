@@ -4,7 +4,7 @@
 Russian news reports are saying a unit of the nation’s military has arrived in Syria.
 
 ### [Bahraini uprising: Bahraini opposition groups prepare to talk to the ruling monarchy as the government continues to crackdown on protests across the nation. ](/news/2012/03/19/bahraini-uprising-bahraini-opposition-groups-prepare-to-talk-to-the-ruling-monarchy-as-the-government-continues-to-crackdown-on-protests-ac.md)
-_Context: 2011–2012 Bahraini uprising_
+_Context: 2011-2012 Bahraini uprising_
 
 ### [Indonesian police kill five men suspected of planning robberies in order to fund terrorism. ](/news/2012/03/19/indonesian-police-kill-five-men-suspected-of-planning-robberies-in-order-to-fund-terrorism.md)
 Indonesian anti-terror police shoot dead five men suspected of planning robberies to fund terror attacks on the island of Bali, officials say.
@@ -49,7 +49,7 @@ _Context: Interpol, Michael Misick, Premier of the Turks and Caicos Islands_
 Opposition supporters demonstrate against President Mohammed Waheed Hassan, who they say took power in a coup.
 
 ### [The President of East Timor Jose Ramos-Horta concedes defeat in the East Timorese presidential election with Taur Matan Ruak and Francisco Guterres likely to contest a runoff in April. ](/news/2012/03/19/the-president-of-east-timor-josa-c-ramos-horta-concedes-defeat-in-the-east-timorese-presidential-election-with-taur-matan-ruak-and-francisco.md)
-_Context: 2012, Francisco Guterres, José Ramos-Horta, President, Taur Matan Ruak_
+_Context: 2012, Francisco Guterres, Jose Ramos-Horta, President, Taur Matan Ruak_
 
 ### [Tonga is in mourning following the death of King George Tupou V. ](/news/2012/03/19/tonga-is-in-mourning-following-the-death-of-king-george-tupou-v.md)
 The South Pacific nation of Tonga is in mourning following the death of its king, George Tupou V, at the age of 63.

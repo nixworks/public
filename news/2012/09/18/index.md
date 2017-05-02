@@ -19,7 +19,7 @@ _Context: Israel, Mitt Romney, Palestinian_
 _Context: China's, Mukden Incident, Senkaku Islands dispute, protests_
 
 ### [Bahrain's public prosecution charges seven police officers with torturing Shia medics to obtain confessions during the ongoing Bahraini uprising. ](/news/2012/09/18/bahrain-s-public-prosecution-charges-seven-police-officers-with-torturing-shia-medics-to-obtain-confessions-during-the-ongoing-bahraini-upri.md)
-_Context: Bahrain, Bahraini uprising (2011–present), Shi'ite_
+_Context: Bahrain, Bahraini uprising (2011-present), Shi'ite_
 
 ### [Two mass graves are discovered in the Tana Delta region of Kenya. ](/news/2012/09/18/two-mass-graves-are-discovered-in-the-tana-delta-region-of-kenya.md)
 _Context: Kenya_

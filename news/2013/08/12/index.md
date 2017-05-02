@@ -12,7 +12,7 @@ Tunisia on Monday carried out air strikes on Islamist militants holed up in the 
 ### [Prince Friso of Orange-Nassau, brother of King Willem-Alexander of the Netherlands, dies aged 44 following complications from a skiing accident in 2012 which left him comatose for a year and a half. ](/news/2013/08/12/prince-friso-of-orange-nassau-brother-of-king-willem-alexander-of-the-netherlands-dies-aged-44-following-complications-from-a-skiing-accid.md)
 Dutch Prince Johan Friso has died after a year and a half in a coma following an avalanche at an Austrian ski resort, officials say.
 
-### [India launches its first indigenous aircraft carrier, {{INS|Vikrant|2013|6}}. ](/news/2013/08/12/india-launches-its-first-indigenous-aircraft-carrier-ins-vikrant-2013-6.md)
+### [India launches its first indigenous aircraft carrier, Vikrant|2013|6. ](/news/2013/08/12/india-launches-its-first-indigenous-aircraft-carrier-vikrant-2013-6.md)
 INS Vikrant with a capacity to carry 36 fighter planes would go for extensive trials in 2016 before being inducted into the Navy by 2018 end.
 
 ### [The UK government threatens Spain with legal action over the imposition of additional border checks in Gibraltar. ](/news/2013/08/12/the-uk-government-threatens-spain-with-legal-action-over-the-imposition-of-additional-border-checks-in-gibraltar.md)
@@ -25,7 +25,7 @@ _Context: Whitey Bulger, mob boss_
 _Context: Eric Holder, War on Drugs, mandatory minimum_
 
 ### [Ibrahim Boubacar Keta is elected as President of Mali. Although results have not yet been made official, his opponent Soumala Ciss has conceded defeat in the election. ](/news/2013/08/12/ibrahim-boubacar-keita-is-elected-as-president-of-mali-although-results-have-not-yet-been-made-official-his-opponent-soumaila-cisse-has-co.md)
-_Context: Ibrahim Boubacar Keïta, President of Mali, Soumaïla Cissé, the election_
+_Context: Ibrahim Boubacar Keta, President of Mali, Soumala Ciss, the election_
 
 ## [Previous Day...](/news/2013/08/11/index.md)
 

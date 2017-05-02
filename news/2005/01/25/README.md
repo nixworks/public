@@ -4,7 +4,7 @@
 _Context: 2004 Indian Ocean earthquake, Indonesia_
 
 ### [ Camp X-Ray: The US has confirmed that 23 prisoners held in the Guantanamo Bay military base attempted a mass suicide two years ago. ](/news/2005/01/25/camp-x-ray-the-us-has-confirmed-that-23-prisoners-held-in-the-guantanamo-bay-military-base-attempted-a-mass-suicide-two-years-ago.md)
-_Context: Camp X-Ray, Guantánamo Bay detainment camp_
+_Context: Camp X-Ray, Guantnamo Bay detainment camp_
 
 ### [ Conflict in Iraq: The U.S. army expects to keep 120,000 soldiers for at least two more years in Iraq, according to the Army's top operations officer, Lt. Gen. James J. Lovelace. ](/news/2005/01/25/conflict-in-iraq-the-u-s-army-expects-to-keep-120-000-soldiers-for-at-least-two-more-years-in-iraq-according-to-the-army-s-top-operation.md)
 The U.S. Army expects to keep its troop strength in Iraq at the current level of about 120,000 for at least two more years, according to a top officer. Meanwhile, the White House is expected to request an additional $80 billion to finance the wars in Iraq and Afghanistan. 

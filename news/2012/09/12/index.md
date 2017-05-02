@@ -34,7 +34,7 @@ A proposal to give the European Union more control over banking has stirred up d
 &quot;We are shocked that ... Governor Romney would choose to launch a political attack.&quot;
 
 ### [Senkaku Islands dispute:The Japanese Foreign Minister Koichiro Gemba says Japan will "not reconsider" the ownership issue. ](/news/2012/09/12/senkaku-islands-dispute-pthe-japanese-foreign-minister-kaichira-gemba-says-japan-will-not-reconsider-the-ownership-issue.md)
-_Context: Japanese Foreign Minister, Kōichirō Gemba, Senkaku Islands dispute_
+_Context: Japanese Foreign Minister, Koichiro Gemba, Senkaku Islands dispute_
 
 ### [Police in Bosnia and Herzegovina arrest 25 people on suspicion of multiple murders, drug-trafficking and robbery in the biggest crackdown on organised crime since the Bosnian War. ](/news/2012/09/12/police-in-bosnia-and-herzegovina-arrest-25-people-on-suspicion-of-multiple-murders-drug-trafficking-and-robbery-in-the-biggest-crackdown-on.md)
 _Context: Bosnia and Herzegovina, Bosnian War_

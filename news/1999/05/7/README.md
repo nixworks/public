@@ -7,7 +7,7 @@ _Context: Jonathan Schmitz, Scott Amedure, The Jenny Jones Show, Warner Bros._
 _Context: Belgrade, China's, Federal Republic of Yugoslavia, Kosovo War, NATO_
 
 ### [ In Guinea-Bissau, President Joo Bernardo Vieira is ousted in a military coup.](/news/1999/05/7/in-guinea-bissau-president-joao-bernardo-vieira-is-ousted-in-a-military-coup.md)
-_Context: Guinea-Bissau, João Bernardo Vieira, coup_
+_Context: Guinea-Bissau, Joo Bernardo Vieira, coup_
 
 ## [Previous Day...](/news/1999/05/6/index.md)
 

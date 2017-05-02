@@ -16,7 +16,7 @@ _Context: Chief Justice, Mahinda Rajapaksa, President of Sri Lanka, Shirani Band
 NASA scientists at the agency&#039;s Jet Propulsion Laboratory in Pasadena, Calif., effectively have ruled out the possibility the asteroid Aphophis will impact Earth during a close flyby in 2036.
 
 ### [In ice hockey, Ukrainian club HC Donbass wins the 2012-13 IIHF Continental Cup in Donetsk, Ukraine. ](/news/2013/01/13/in-ice-hockey-ukrainian-club-hc-donbass-wins-the-2012a13-iihf-continental-cup-in-donetsk-ukraine.md)
-_Context: 2012–13 IIHF Continental Cup, Donetsk, HC Donbass, Ukrainian, ice hockey_
+_Context: 2012-13 IIHF Continental Cup, Donetsk, HC Donbass, Ukrainian, ice hockey_
 
 ### [2013 Kontinental Hockey League All-Star Game is held at the Traktor Sport Palace in Chelyabinsk, Russia. ](/news/2013/01/13/2013-kontinental-hockey-league-all-star-game-is-held-at-the-traktor-sport-palace-in-chelyabinsk-russia.md)
 _Context: 2013, All-Star Game, Chelyabinsk, KHL, Russia, Traktor Sport Palace_

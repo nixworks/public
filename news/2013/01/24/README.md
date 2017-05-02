@@ -34,7 +34,7 @@ _Context: DNA, England, European Bioinformatics Institute, Hinxton, data storage
 _Context: 2013, Belgian international, Chelsea F.C., Eden Hazard, Ligue 1, Wales, ball boy, football, midriff, red card_
 
 ### [El Clasico: Barcelona are to play Real Madrid in the 2012-13 Copa del Rey semifinal after the Catalan club defeated Malaga CF 4-2. ](/news/2013/01/24/el-cla-sico-barcelona-are-to-play-real-madrid-in-the-2012a13-copa-del-rey-semifinal-after-the-catalan-club-defeated-ma-laga-cf-4a2.md)
-_Context: 2012–13 Copa del Rey, Catalan, El Clásico, FC Barcelona, Málaga, Real Madrid_
+_Context: 2012-13 Copa del Rey, Catalan, El Clasico, FC Barcelona, Malaga, Real Madrid_
 
 ### [In tennis, Li Na will face Victoria Azarenka in the women's final at the 2013 Australian Open after her straight-set victory over Maria Sharapova in the semifinal. ](/news/2013/01/24/in-tennis-li-na-will-face-victoria-azarenka-in-the-women-s-final-at-the-2013-australian-open-after-her-straight-set-victory-over-maria-shar.md)
 Victoria Azarenka overcomes Sloane Stephens and set up an Australian Open final with Li Na who beat Maria Sharapova.

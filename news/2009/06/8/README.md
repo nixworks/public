@@ -4,7 +4,7 @@
 _Context: Egypt, Nile delta_
 
 ### [ Lloyds Banking Group repay PS2.56 billion to Her Majesty's Government to compensate for partial nationalisation on 19 January 2009. ](/news/2009/06/8/lloyds-banking-group-repay-aps2-56-billion-to-her-majesty-s-government-to-compensate-for-partial-nationalisation-on-19-january-2009.md)
-_Context: 19 January 2009, His Majesty's Government, Lloyds Banking Group, nationalisation, £_
+_Context: 19 January 2009, His Majesty's Government, Lloyds Banking Group, PS, nationalisation_
 
 ### [ The Supreme Court of the United States stays the sale of Chrysler to Fiat in ''Indiana State Police Pension Trust v. Chrysler''. ](/news/2009/06/8/the-supreme-court-of-the-united-states-stays-the-sale-of-chrysler-to-fiat-in-indiana-state-police-pension-trust-v-chrysler.md)
 _Context: Chrysler, Fiat, Indiana State Police Pension Trust v. Chrysler, Supreme Court of the United States, stays_

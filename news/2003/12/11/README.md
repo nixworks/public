@@ -13,7 +13,7 @@ _Context: Dick Cheney, Halliburton, The Pentagon, U.S. Vice President, United St
 _Context: Israel, Tel Aviv, UTC_
 
 ### [ A general strike in Quebec interrupts road and port traffic as well as non-essential surgeries and day-care service in Montreal, Quebec City, and Trois-Rivires. The strike was called in opposition to the Charest government's policies. [http://www.cbc.ca/stories/2003/12/11/quebec_031211]](/news/2003/12/11/a-general-strike-in-quebec-interrupts-road-and-port-traffic-as-well-as-non-essential-surgeries-and-day-care-service-in-montreal-quebec-cit.md)
-_Context: Jean Charest, Quebec, Quebec City, Trois-Rivières, city of Montreal, strike_
+_Context: Jean Charest, Quebec, Quebec City, Trois-Rivires, city of Montreal, strike_
 
 ### [US Economy: The Dow Jones Industrial Average closes above 10,000 for the first time since May 24, 2002. ](/news/2003/12/11/us-economy-the-dow-jones-industrial-average-closes-above-10-000-for-the-first-time-since-may-24-2002.md)
 _Context: Dow Jones Industrial Average, US economy_

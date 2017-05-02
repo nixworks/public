@@ -13,7 +13,7 @@ _Context: 2007 Atlantic hurricane season, Atlantic, Caribbean_
 _Context: African Union, Darfur, Ethiopia, Sudan, United Nations_
 
 ### [ After deliberating for 22 years, the United Nations General Assembly adopts the non-binding Declaration on the Rights of Indigenous Peoples; 143 countries vote in favour, while 11 abstain and Australia, Canada, New Zealand and the United States vote against. ](/news/2007/09/13/after-deliberating-for-22-years-the-united-nations-general-assembly-adopts-the-non-binding-declaration-on-the-rights-of-indigenous-peoples.md)
-_Context: Australia, Canadian, Declaration on the Rights of Indigenous Peoples, New Zealand, United Nations General Assembly, United States_
+_Context: Australia, Canada, Declaration on the Rights of Indigenous Peoples, New Zealand, United Nations General Assembly, United States_
 
 ### [ At least fifteen Pakistani Army soldiers die in a bombing at their mess at the Terbella Ghazi base north of Islamabad. ](/news/2007/09/13/at-least-fifteen-pakistani-army-soldiers-die-in-a-bombing-at-their-mess-at-the-terbella-ghazi-base-north-of-islamabad.md)
 _Context: Islamabad, Pakistani Army, Terbella Ghazi_
@@ -22,7 +22,7 @@ _Context: Islamabad, Pakistani Army, Terbella Ghazi_
 _Context: Pakistan, Pervez Musharraf, forming a government_
 
 ### [ 2007 Formula One Season: The Fdration Internationale de l'Automobile (FIA) fines the McLaren Formula One team $US100 million and removes all its points in the Constructors' Championship. ](/news/2007/09/13/2007-formula-one-season-the-federation-internationale-de-l-automobile-fia-fines-the-mclaren-formula-one-team-us100-million-and-removes.md)
-_Context: 2007 Formula One World Drivers Championship, Constructors Championship, Formula One, Fédération Internationale de l'Automobile, McLaren, U.S. dollar_
+_Context: 2007 Formula One World Drivers Championship, Constructors Championship, Fdration Internationale de l'Automobile, Formula One, McLaren, U.S. dollar_
 
 ### [ Alexis Debat, a consultant for ABC News and writer at ''The National Interest'', alleged expert on terrorism, is forced to resign after  ''Rue 89'' revealed that he made two bogus interviews, one with Barack Obama and another with Alan Greenspan. ](/news/2007/09/13/alexis-debat-a-consultant-for-abc-news-and-writer-at-the-national-interest-alleged-expert-on-terrorism-is-forced-to-resign-after.md)
 _Context: ABC News, Alan Greenspan, Alexis Debat, Barack Obama, Rue 89, The National Interest, terrorism_

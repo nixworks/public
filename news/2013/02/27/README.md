@@ -49,7 +49,7 @@ On his final full day as the leader of the Roman Catholic Church, Pope Benedict 
 A new nonprofit foundation headed by the first private space traveler, Dennis Tito, seeks to take advantage of a once-in-15-years alignment of planets to beat NASA astronauts to Mars.
 
 ### [Atletico Madrid advances to the 2012-13 Copa del Rey Final against city rivals Real Madrid after drawing 2-2 with a Sevilla in the semi-final secong leg. ](/news/2013/02/27/atla-c-tico-madrid-advances-to-the-2012a13-copa-del-rey-final-against-city-rivals-real-madrid-after-drawing-2a2-with-a-sevilla-in-the-semi.md)
-_Context: 2012–13 Copa del Rey, Atlético Madrid, Final, Real Madrid, Sevilla FC, city rivals_
+_Context: 2012-13 Copa del Rey, Atletico Madrid, Final, Real Madrid, Sevilla FC, city rivals_
 
 ## [Previous Day...](/news/2013/02/26/index.md)
 

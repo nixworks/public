@@ -4,7 +4,7 @@
 _Context: International Space Station_
 
 ### [A mutiny takes place at the Queen Elizabeth Barracks in Suva, Fiji.  Four soldiers are killed.](/news/2000/11/2/a-mutiny-takes-place-at-the-queen-elizabeth-barracks-in-suva-fiji-four-soldiers-are-killed.md)
-_Context: Queen Elizabeth Barracks, mutinies of the 2000 Fijian coup d'état_
+_Context: Queen Elizabeth Barracks, mutinies of the 2000 Fijian coup d'tat_
 
 ## [Previous Day...](/news/2000/11/1/index.md)
 

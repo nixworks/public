@@ -7,7 +7,7 @@ _Context: Donald Carcieri, Governor, Rhode Island, decriminalized prostitution_
 _Context: New Jersey, United States, United States elections, 2009, Virginia, two Congressional districts_
 
 ### [ Czech President Vaclav Klaus signs the Lisbon Treaty after it was upheld by the Constitutional Court, thus fulfilling the final step in its ratification. ](/news/2009/11/3/czech-president-va-clav-klaus-signs-the-lisbon-treaty-after-it-was-upheld-by-the-constitutional-court-thus-fulfilling-the-final-step-in-it.md)
-_Context: Constitutional Court, Czech, Lisbon Treaty, Václav Klaus, deposits_
+_Context: Constitutional Court, Czech, Lisbon Treaty, Vaclav Klaus, deposits_
 
 ### [ North Korea says it has completed reprocessing 8,000 spent nuclear fuel rods as part of its nuclear program. ](/news/2009/11/3/north-korea-says-it-has-completed-reprocessing-8-000-spent-nuclear-fuel-rods-as-part-of-its-nuclear-program.md)
 Pyongyang says it has produced more weapons-grade plutonium from spent fuel rods.

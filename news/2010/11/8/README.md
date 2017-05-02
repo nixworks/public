@@ -37,7 +37,7 @@ _Context: China's, diesel fuel_
 _Context: Haiti, Port-au-Prince, worst epidemic of cholera_
 
 ### [An explosion due to mishandling of explosives kills two in a Copiapo, Chile copper mine. (Wikinews)](/news/2010/11/8/an-explosion-due-to-mishandling-of-explosives-kills-two-in-a-copiapa3-chile-copper-mine-wikinews.md)
-_Context: (Wikinews), Chile, Copiapó_
+_Context: (Wikinews), Chile, Copiapo_
 
 ### [German Foreign Minister Guido Westerwelle calls on Hamas to free captured Israeli soldier Gilad Shalit and urges Israel to end its embargo of the Hamas-ruled Gaza Strip, but does not meet with the Gaza leadership because of group's refusal to renounce violence and recognize Israel.  ](/news/2010/11/8/german-foreign-minister-guido-westerwelle-calls-on-hamas-to-free-captured-israeli-soldier-gilad-shalit-and-urges-israel-to-end-its-embargo-o.md)
 _Context: Gaza Strip, German Foreign Minister, Gilad Shalit, Guido Westerwelle, Hamas, Israel_
@@ -64,7 +64,7 @@ _Context: Libya_
 _Context: Krasnodar Krai, Kushchyovskaya, Russia_
 
 ### [U.S. militant Lori Berenson is released from prison in Peru after serving more than a decade for collaborating with the Tupac Amaru Revolutionary Movement. ](/news/2010/11/8/u-s-militant-lori-berenson-is-released-from-prison-in-peru-after-serving-more-than-a-decade-for-collaborating-with-the-taopac-amaru-revolut.md)
-_Context: Lori Berenson, Peru, Túpac Amaru Revolutionary Movement, U.S._
+_Context: Lori Berenson, Peru, Tupac Amaru Revolutionary Movement, U.S._
 
 ### [Human rights organizations say the Palestinian Authority is depriving Palestinians in Gaza affiliated with Hamas of passports; Hamas has retaliated by depriving Gazans belonging to Fatah of their passports. ](/news/2010/11/8/human-rights-organizations-say-the-palestinian-authority-is-depriving-palestinians-in-gaza-affiliated-with-hamas-of-passports-hamas-has-ret.md)
 Human rights organizations say the PA is punishing Gaza Palestinians affiliated with Hamas by depriving them of travel documents.
@@ -82,7 +82,7 @@ _Context: ECOWAS, Mamadou Tandja, Niger, West Africa, coup_
 _Context: Constitution, Indigenous Australian, Julia Gillard, Prime Minister of Australia, referendum_
 
 ### [The reptile scientist, Ngo Van Tri of the Vietnam Academy of Science and Technology, discovers a species of self-cloning lizard later known as ''Leiolepis ngovantrii'' when he came across tanks full of them at small restaurants in rural villages in Ba Ria-Vung Tau Province. Ngo Van Tri becomes intrigued when he notices that all of the lizards appeared to be female. ](/news/2010/11/8/the-reptile-scientist-nga-van-tra-of-the-vietnam-academy-of-science-and-technology-discovers-a-species-of-self-cloning-lizard-later-kno.md)
-_Context: Bà Rịa–Vũng Tàu Province, Leiolepis ngovantrii, Vietnam Academy of Science and Technology, cloning_
+_Context: Ba Ria-Vung Tau Province, Leiolepis ngovantrii, Vietnam Academy of Science and Technology, cloning_
 
 ### [Chinese Premier Wen Jiabao unveils pictures of the moon's Sinus Iridum, or Bay of Rainbows, taken during China's Chang`e-2 lunar probe mission. ](/news/2010/11/8/chinese-premier-wen-jiabao-unveils-pictures-of-the-moon-s-sinus-iridum-or-bay-of-rainbows-taken-during-china-s-chang-e-2-lunar-probe-missi.md)
 _Context: Chang'e 2, China's, Moon, Sinus Iridum, Wen Jiabao_

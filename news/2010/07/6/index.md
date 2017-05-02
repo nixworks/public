@@ -25,7 +25,7 @@ _Context: 2010 FIFA World Cup, Ghana, Kofi Annan_
 _Context: American, Arizona, immigration law, state_
 
 ### [President of France Nicolas Sarkozy denies allegations of alleged illegal payments from France's richest woman, L'Oreal heiress Liliane Bettencourt. ](/news/2010/07/6/president-of-france-nicolas-sarkozy-denies-allegations-of-alleged-illegal-payments-from-france-s-richest-woman-l-ora-c-al-heiress-liliane-bet.md)
-_Context: L'Oréal, Liliane Bettencourt, Nicolas Sarkozy, president_
+_Context: L'Oreal, Liliane Bettencourt, Nicolas Sarkozy, president_
 
 ### [Republican Governor of the U.S. state of Hawaii Linda Lingle vetoes a bill allowing same-sex civil unions. ](/news/2010/07/6/republican-governor-of-the-u-s-state-of-hawaii-linda-lingle-vetoes-a-bill-allowing-same-sex-civil-unions.md)
 _Context: Hawaii, Hawaii Governor, Linda Lingle, Republican, same-sex civil union, veto_

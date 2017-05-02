@@ -28,7 +28,7 @@ _Context: Michael Somare, Papua New Guinea, Prime Minister, Supreme Court of Pap
 _Context: Iran, RQ-170, United States, cyber attack_
 
 ### [The United States House of Representatives passes a bill extending a payroll tax extension containing another bill expediting the Keystone XL pipeline between Canada and Texas. ](/news/2011/12/13/the-united-states-house-of-representatives-passes-a-bill-extending-a-payroll-tax-extension-containing-another-bill-expediting-the-keystone-x.md)
-_Context: Canadian, Keystone XL Pipeline, Texas, U.S. House, payroll tax_
+_Context: Canada, Keystone XL Pipeline, Texas, U.S. House, payroll tax_
 
 ### [According to researchers, in two separate experiments carried out at the Large Hadron Collider at CERN, indications of the Higgs boson may have been detected. ](/news/2011/12/13/according-to-researchers-in-two-separate-experiments-carried-out-at-the-large-hadron-collider-at-cern-indications-of-the-higgs-boson-may-h.md)
 Scientists eagerly await an announcement that will present the best evidence yet for - or against - the existence of the fabled Higgs boson particle.

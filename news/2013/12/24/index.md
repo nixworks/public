@@ -1,7 +1,7 @@
 ## [2013-12-24](/news/2013/12/24/index.md)
 
 ### [Islamist protests in Egypt (July 2013-present):A huge explosion hits the Dakahlia security directorate in the Nile Delta city of Mansoura, killing 16 and injuring at least 134. ](/news/2013/12/24/islamist-protests-in-egypt-july-2013apresent-pa-huge-explosion-hits-the-dakahlia-security-directorate-in-the-nile-delta-city-of-mansoura.md)
-_Context: Dakahlia, Islamist protests in Egypt (July 2013–present), Mansoura, Nile delta, huge explosion_
+_Context: Dakahlia, Islamist protests in Egypt (July 2013-present), Mansoura, Nile delta, huge explosion_
 
 ### [2013 South Sudanese political crisis:The United Nations says that they have discovered a mass grave containing 75 bodies in Unity State, and two other mass graves have been reported in Juba. ](/news/2013/12/24/2013-south-sudanese-political-crisis-pthe-united-nations-says-that-they-have-discovered-a-mass-grave-containing-75-bodies-in-unity-state-an.md)
 Leaders warned they may be held to account over deaths as fears of ethnic killings increase 

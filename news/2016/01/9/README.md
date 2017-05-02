@@ -13,7 +13,7 @@ Most of those killed were rebels imprisoned by Al Nusra, while other victims inc
 See how events unfolded as fires in Western Australia threatened townships on Saturday, and authorities made the tragic discovery of two bodies in Yarloop.
 
 ### [Anti-Serbian protesters set fire to the government's headquarters in Kosovo's capital, Pristina, over an EU-brokered deal that will give Kosovo's ethnic Serb minority greater local powers. ](/news/2016/01/9/anti-serbian-protesters-set-fire-to-the-government-s-headquarters-in-kosovo-s-capital-pristina-over-an-eu-brokered-deal-that-will-give-kos.md)
-_Context: Brussels Agreement (2013), Kosovo, Kosovo–Serbia relations, Pristina, Serbia, Serbs_
+_Context: Brussels Agreement (2013), Kosovo, Kosovo-Serbia relations, Pristina, Serbia, Serbs_
 
 ### [Sian Blake's partner Arthur Simpson-Kent is arrested in Ghana in connection with the murder of Blake and her two children. ](/news/2016/01/9/sian-blake-s-partner-arthur-simpson-kent-is-arrested-in-ghana-in-connection-with-the-murder-of-blake-and-her-two-children.md)
 Arthur Simpson-Kent, who fled following the death of EastEnders actor and her two children, arrested by police

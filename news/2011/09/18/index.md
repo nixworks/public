@@ -13,7 +13,7 @@ The hit shows repeated the feat, winning the top awards for comedy and drama, wh
 Ex-IMF chief Dominique Strauss-Kahn tells French TV his liaison with a New York hotel maid was a &quot;moral failing&quot;.
 
 ### [Police in Brazil arrest two people in connection with the murder of environmental activist Jos Cludio Ribeiro da Silva and his wife Maria do Esprito Santo in Par State. ](/news/2011/09/18/police-in-brazil-arrest-two-people-in-connection-with-the-murder-of-environmental-activist-jose-claudio-ribeiro-da-silva-and-his-wife-maria.md)
-_Context: Brazil, José Cláudio Ribeiro da Silva, Pará State_
+_Context: Brazil, Jos Cludio Ribeiro da Silva, Par State_
 
 ### [Negotiations begin as Latvian politicians seek to form a new government after yesterday's election, with the Social Democratic Party "Harmony" having won the most seats and Zatlers' Reform Party and Unity also doing well. ](/news/2011/09/18/negotiations-begin-as-latvian-politicians-seek-to-form-a-new-government-after-yesterday-s-election-with-the-social-democratic-party-harmon.md)
 * Parties to start coalition talks * Ex-president and current PM aim to form core of new govt * Russian minority hopes for say in administ
@@ -22,7 +22,7 @@ _Context: Brazil, José Cláudio Ribeiro da Silva, Pará State_
 _Context: Berlin, Berlin election, Germany, Klaus Wowereit, Social Democrats_
 
 ### [Sinn Fein announces that Martin McGuinness, current Deputy First Minister of Northern Ireland and former Irish Republican Army commander, will be a candidate for the Irish presidential election with John O'Dowd serving as acting Deputy First Minister. ](/news/2011/09/18/sinn-fein-announces-that-martin-mcguinness-current-deputy-first-minister-of-northern-ireland-and-former-irish-republican-army-commander-wi.md)
-_Context: Irish Republican Army, Irish presidential election, John O'Dowd, Martin McGuinness, Northern Ireland, Sinn Féin, deputy First Minister of Northern Ireland_
+_Context: Irish Republican Army, Irish presidential election, John O'Dowd, Martin McGuinness, Northern Ireland, Sinn Fin, deputy First Minister of Northern Ireland_
 
 ### [In golf, Lexi Thompson of the United States becomes the youngest player to win a LPGA event winning the Navistar LPGA Classic at age 16. ](/news/2011/09/18/in-golf-lexi-thompson-of-the-united-states-becomes-the-youngest-player-to-win-a-lpga-event-winning-the-navistar-lpga-classic-at-age-16.md)
 Sixteen-year-old Lexi Thompson closed with a 2-under 70 on Sunday to win the Navistar LPGA Classic by five strokes over Tiffany Joh.

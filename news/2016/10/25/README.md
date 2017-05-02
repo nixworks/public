@@ -4,7 +4,7 @@
 Dozens of people are killed after militants mount an attack on a police training college in the Pakistani city of Quetta, officials say.
 
 ### [A militant from Al-Shabaab shoots dead an intelligence officer in Mogadishu. ](/news/2016/10/25/a-militant-from-al-shabaab-shoots-dead-an-intelligence-officer-in-mogadishu.md)
-_Context: Mogadishu, War in Somalia (2009–present), al-Shabaab_
+_Context: Mogadishu, War in Somalia (2009-present), al-Shabaab_
 
 ### [A shooting in Dammam, Saudi Arabia, leaves two security officers dead. ](/news/2016/10/25/a-shooting-in-dammam-saudi-arabia-leaves-two-security-officers-dead.md)
 Gunmen shot dead two Saudi security officers in the eastern city of Dammam on Tuesday, Saudi-owned Arabiya TV reported.

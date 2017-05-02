@@ -61,7 +61,7 @@ Israeli army offiocial tell inquiry that troops were right to use live ammunitio
 _Context: George J. Mitchell, Israel, Mahmoud Abbas, Palestine Liberation Organization's, United States, diplomatic Quartet_
 
 ### [President Luiz Inacio Lula da Silva signs a decree promising Brazil's co-operation with United Nations sanctions against Iran. ](/news/2010/08/11/president-luiz-ina-cio-lula-da-silva-signs-a-decree-promising-brazil-s-co-operation-with-united-nations-sanctions-against-iran.md)
-_Context: Brazil, Brazilian President, Iran, Luiz Inácio Lula da Silva, United Nations_
+_Context: Brazil, Brazilian President, Iran, Luiz Inacio Lula da Silva, United Nations_
 
 ### [Former Iranian presidential candidate Mehdi Karroubi suggests that American and British sanctions on Iran increase the power of Mahmoud Ahmadinejad's government. ](/news/2010/08/11/former-iranian-presidential-candidate-mehdi-karroubi-suggests-that-american-and-british-sanctions-on-iran-increase-the-power-of-mahmoud-ahma.md)
 _Context: Iran, Mahmoud Ahmadinejad, Mehdi Karroubi_
@@ -82,10 +82,10 @@ _Context: Elias Murr, Lebanon, U.S. House_
 Researchers have unearthed evidence that our ancestors used tools and ate meat 800,000 years earlier than thought.
 
 ### [The jury is selected for Canadian Omar Khadr's war crimes trial at Guantanamo Bay. ](/news/2010/08/11/the-jury-is-selected-for-canadian-omar-khadr-s-war-crimes-trial-at-guantanamo-bay.md)
-_Context: Canadian, Guantanamo Bay, Omar Khadr, jury, war crime_
+_Context: Canada, Guantanamo Bay, Omar Khadr, jury, war crime_
 
 ### [Ibrahim al Qosi, a former cook and driver of Osama Bin Laden, is imprisoned for 14 years by a Guantanamo Bay military tribunal. ](/news/2010/08/11/ibrahim-al-qosi-a-former-cook-and-driver-of-osama-bin-laden-is-imprisoned-for-14-years-by-a-guanta-namo-bay-military-tribunal.md)
-_Context: Guantánamo Bay, Ibrahim al Qosi, Osama bin Laden_
+_Context: Guantanamo Bay, Ibrahim al Qosi, Osama bin Laden_
 
 ### [Former Kyrgyz prime minister Igor Chudinov is arrested and charged with abuse of power during his 2007-2009 reign. ](/news/2010/08/11/former-kyrgyz-prime-minister-igor-chudinov-is-arrested-and-charged-with-abuse-of-power-during-his-2007-2009-reign.md)
 _Context: Igor Chudinov_

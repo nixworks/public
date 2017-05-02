@@ -31,7 +31,7 @@ Repercussions of Japan&#39;s triple disaster came into clearer focus Monday afte
 _Context: Gulf of Mexico, U.S. Coast Guard, oil spill_
 
 ### [Carlos Pascual resigns as United States Ambassador to Mexico due in part to tensions with the President of Mexico Felipe Calderon. ](/news/2011/03/19/carlos-pascual-resigns-as-united-states-ambassador-to-mexico-due-in-part-to-tensions-with-the-president-of-mexico-felipe-caldera3n.md)
-_Context: Carlos Pascual, Felipe Calderón, President, United States Ambassador to Mexico_
+_Context: Carlos Pascual, Felipe Calderon, President, United States Ambassador to Mexico_
 
 ### [Edinburgh University students vote in favour of boycotting Israeli goods and services, citing Israeli treatment of Palestinians.](/news/2011/03/19/edinburgh-university-students-vote-in-favour-of-boycotting-israeli-goods-and-services-citing-israeli-treatment-of-palestinians.md)
 _Context: Edinburgh University, boycotting Israeli_
@@ -58,7 +58,7 @@ Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, c
 _Context: Daniel Ellsberg, Iraq War, Pentagon Papers, Washington DC, White House_
 
 ### [Peruvian President Alan Garcia swears in Rosario Fernandez as Prime Minister, after the sudden resignation of Jose Antonio Chang. ](/news/2011/03/19/peruvian-president-alan-garcaa-swears-in-rosario-ferna-ndez-as-prime-minister-after-the-sudden-resignation-of-josa-c-antonio-chang.md)
-_Context: Alan García, José Antonio Chang, Peru, President, Prime Minister, Rosario Fernández_
+_Context: Alan Garcia, Jose Antonio Chang, Peru, President, Prime Minister, Rosario Fernandez_
 
 ### [The moon reaches its closest point to the Earth since March 1993, and will appear 30% brighter and 14% larger than at its furthest point. ](/news/2011/03/19/the-moon-reaches-its-closest-point-to-the-earth-since-march-1993-and-will-appear-30-brighter-and-14-larger-than-at-its-furthest-point.md)
 _Context: Moon, closest point_

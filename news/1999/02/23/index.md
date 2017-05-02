@@ -2,7 +2,7 @@
 
 ### [ Eminem's 'The Slim Shady LP is released, following his 1997 EP 'The Slim Shady EP' and debut album 'Infinite'.](/news/1999/02/23/eminem-s-the-slim-shady-lp-is-released-following-his-1997-ep-the-slim-shady-ep-and-debut-album-infinite.md)
 ### [ Kurdish rebel leader Abdullah calan is charged with treason in Ankara, Turkey.](/news/1999/02/23/kurdish-rebel-leader-abdullah-ocalan-is-charged-with-treason-in-ankara-turkey.md)
-_Context: Abdullah Öcalan, Ankara, Kurd, Turkey, treason_
+_Context: Abdullah calan, Ankara, Kurd, Turkey, treason_
 
 ### [ White supremacist John William King is found guilty of kidnapping and killing African American James Byrd Jr. by dragging him behind a truck for two miles (3 km).](/news/1999/02/23/white-supremacist-john-william-king-is-found-guilty-of-kidnapping-and-killing-african-american-james-byrd-jr-by-dragging-him-behind-a-truc.md)
 _Context: African-American, James Byrd Jr., white supremacist_

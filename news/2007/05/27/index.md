@@ -25,7 +25,7 @@ _Context: Prime Minister of Ukraine, September 30, Ukrainian, Ukrainian Presiden
 _Context: Spain, local and regional elections_
 
 ### [ Venezuelan TV station Radio Caracas Television is shut down by the Hugo Chvez administration. ](/news/2007/05/27/venezuelan-tv-station-radio-caracas-television-is-shut-down-by-the-hugo-chavez-administration.md)
-_Context: Hugo Chávez, RCTV, TV station, Venezuela_
+_Context: Hugo Chvez, RCTV, TV station, Venezuela_
 
 ### [ Romanian film ''4 Months, 3 Weeks and 2 Days'' by Cristian Mungiu gets the Palme d'Or at the 2007 Cannes Film Festival. ](/news/2007/05/27/romanian-film-4-months-3-weeks-and-2-days-by-cristian-mungiu-gets-the-palme-d-or-at-the-2007-cannes-film-festival.md)
 _Context: 2007 Cannes Film Festival, 4 Months, 3 Weeks and 2 Days, Cristian Mungiu, Palme d'Or, Romanian_

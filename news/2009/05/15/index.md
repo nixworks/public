@@ -4,7 +4,7 @@
 Automaker Not Renewing Franchises; Company Says Bankruptcy Possible Without Bond Deal
 
 ### [ The United States releases Lakhdar Boumediene from Guantanamo Bay Naval Base's detention center. ](/news/2009/05/15/the-united-states-releases-lakhdar-boumediene-from-guanta-namo-bay-naval-base-s-detention-center.md)
-_Context: Guantanamo Bay detention camp, Guantánamo Bay, Lakhdar Boumediene, United States, military base at Guantanamo Bay_
+_Context: Guantanamo Bay, Guantanamo Bay detention camp, Lakhdar Boumediene, United States, military base at Guantanamo Bay_
 
 ### [ Sixty-five indigenous peoples declare an insurgency against Peru's government. ](/news/2009/05/15/sixty-five-indigenous-peoples-declare-an-insurgency-against-peru-s-government.md)
 _Context: Government of Peru, Peru, indigenous, insurgency_
@@ -22,13 +22,13 @@ _Context: Barack Obama, Guantanamo Bay detention camp, United States, detainees,
 _Context: Chechnya, Grozny, Russia, suicide bomb attack_
 
 ### [ Demonstrators demand the resignation of Guatemalan President Alvaro Colom. ](/news/2009/05/15/demonstrators-demand-the-resignation-of-guatemalan-president-alvaro-colom.md)
-_Context: Guatemala, Guatemalan President, demonstration, resignation, Álvaro Colom_
+_Context: Alvaro Colom, Guatemala, Guatemalan President, demonstration, resignation_
 
 ### [ Sudan accuses Chad of launching two air raids on its territory. ](/news/2009/05/15/sudan-accuses-chad-of-launching-two-air-raids-on-its-territory.md)
 Sudan Friday accused its neighbor Chad of launching two bombing raids on its territory, describing the attacks as &quot;an act of war.&quot;
 
 ### [ The Central Bank of Nicaragua introduces new 10 and 20 Cordoba banknotes. ](/news/2009/05/15/the-central-bank-of-nicaragua-introduces-new-10-and-20-ca3rdoba-banknotes.md)
-_Context: Córdoba banknotes, Nicaragua_
+_Context: Cordoba banknotes, Nicaragua_
 
 ## [Previous Day...](/news/2009/05/14/index.md)
 

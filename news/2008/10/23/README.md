@@ -4,7 +4,7 @@
 _Context: City Council, Mayor, Michael Bloomberg, New York's_
 
 ### [ Ivo Pukanic, the owner of the Croatian weekly newspaper ''Nacional'', is assassinated in a car bomb attack in Zagreb. ](/news/2008/10/23/ivo-pukania-the-owner-of-the-croatian-weekly-newspaper-nacional-is-assassinated-in-a-car-bomb-attack-in-zagreb.md)
-_Context: Croatia, Ivo Pukanić, Nacional, assassinated in a car bomb attack in Zagreb_
+_Context: Croatia, Ivo Pukanic, Nacional, assassinated in a car bomb attack in Zagreb_
 
 ## [Previous Day...](/news/2008/10/22/index.md)
 

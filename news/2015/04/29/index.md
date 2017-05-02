@@ -4,7 +4,7 @@
 Bombing by aircraft that had ignored warning to turn back intended to prevent Iranian plane landing in Sana’a airport
 
 ### [ State-owned gas company, Gazprom, loses 86 percent in net income due to ruble devaluation, plunge on oil prices, and Ukraine crisis. ](/news/2015/04/29/state-owned-gas-company-gazprom-loses-86-percent-in-net-income-due-to-ruble-devaluation-plunge-on-oil-prices-and-ukraine-crisis.md)
-_Context: Gazprom, Russian financial crisis (2014–present), Ukraine crisis, net income, oil prices_
+_Context: Gazprom, Russian financial crisis (2014-present), Ukraine crisis, net income, oil prices_
 
 ### [The death toll for the earthquake reaches 6,100 as the first food aid reaches Nepal. This includes 6000+ people in Nepal, 19 people on Mount Everest, 76 in India, 25 in China, and 4 in Bangladesh. ](/news/2015/04/29/the-death-toll-for-the-earthquake-reaches-6-100-as-the-first-food-aid-reaches-nepal-this-includes-6000-people-in-nepal-19-people-on-mount.md)
 _Context: April 2015 Nepal earthquake, Mount Everest_
@@ -25,7 +25,7 @@ France and Australia have condemned the death penalty as executions for three of
 _Context: Crown Prince Muqrin, Succession to the Saudi Arabian throne_
 
 ### [Nominally independent Senator Bernie Sanders from Vermont announces that he will be seeking the Democratic Party nomination in the US Presidential election. ](/news/2015/04/29/nominally-independent-senator-bernie-sanders-from-vermont-announces-that-he-will-be-seeking-the-democratic-party-nomination-in-the-us-presid.md)
-_Context: 2016 United States presidential election, Bernie Sanders, Democrat, Senator, Vermont, presidential campaign_
+_Context: 2016 United States presidential election, Bernie Sanders, Democratic, United States Senate, Vermont, presidential campaign_
 
 ### [Scientists discover the first known dinosaur with membranous wings, ''Yi Qi''. ](/news/2015/04/29/scientists-discover-the-first-known-dinosaur-with-membranous-wings-yi-qi.md)
 _Context: Yi Qi_

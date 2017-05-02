@@ -1,7 +1,7 @@
 ## [2013-04-5](/news/2013/04/5/index.md)
 
 ### [Mexican Drug War:Recent report from Stratfor indicates that at least 60 people were killed in Tamaulipas state in March, after the Gulf Cartel leaders Miguel ''El Gringo'' Villarreal and Mario Ramirez Trevino fought for control of the organization. ](/news/2013/04/5/mexican-drug-war-precent-report-from-stratfor-indicates-that-at-least-60-people-were-killed-in-tamaulipas-state-in-march-after-the-gulf-car.md)
-_Context: Gulf Cartel, Mario Ramírez Treviño, Mexican Drug War, Miguel ''El Gringo'' Villarreal, Stratfor, Tamaulipas_
+_Context: Gulf Cartel, Mario Ramirez Trevino, Mexican Drug War, Miguel ''El Gringo'' Villarreal, Stratfor, Tamaulipas_
 
 ### [War in Afghanistan (2001-present):An explosive-laden donkey is used in an attack on a police security post in the Alingar District of Laghman Province in eastern Afghanistan, killing a policeman and wounding three civilians. ](/news/2013/04/5/war-in-afghanistan-2001apresent-pan-explosive-laden-donkey-is-used-in-an-attack-on-a-police-security-post-in-the-alingar-district-of-lag.md)
 An official says a bomb attached to a donkey has exploded, killing a policeman and wounded three civilians.

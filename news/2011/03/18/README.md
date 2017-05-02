@@ -43,7 +43,7 @@ A British Airways computer expert is jailed for 30 years for plotting to blow up
 _Context: Morgan Tsvangirai, Prime Minister, Zimbabwe_
 
 ### [Former Haitian President Jean Bertrand-Aristide returns to Haiti, two days before a general election. ](/news/2011/03/18/former-haitian-president-jean-bertrand-aristide-returns-to-haiti-two-days-before-a-general-election.md)
-_Context: Haiti, Haitian general election, 2010–2011, Jean Bertrand-Aristide, President of Haiti_
+_Context: Haiti, Haitian general election, 2010-2011, Jean Bertrand-Aristide, President of Haiti_
 
 ### [North Korea announces that its Supreme People's Assembly will meet on April 7 in a possible change of leadership. ](/news/2011/03/18/north-korea-announces-that-its-supreme-people-s-assembly-will-meet-on-april-7-in-a-possible-change-of-leadership.md)
 _Context: North Korea, Supreme People's Assembly_

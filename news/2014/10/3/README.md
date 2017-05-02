@@ -7,7 +7,7 @@ Job growth bounced back, with the U.S. economy creating 248,000 fresh positions.
 Names, addresses, phone numbers and email addresses of the holders of some 83 million households and small business accounts were exposed when computer systems at JPMorgan Chase & Co (JPM.N) were recently compromised by hackers, making it one of the biggest data breaches in history.
 
 ### [Swedish general election, 2014:Sweden's new Prime Minister, Stefan Lfven, presents his minority government consisting of the Social Democrats and the Green Party; former EU commissioner Margot Wallstrm is the new foreign minister. ](/news/2014/10/3/swedish-general-election-2014-psweden-s-new-prime-minister-stefan-lofven-presents-his-minority-government-consisting-of-the-social-democr.md)
-_Context: Green Party, Margot Wallström, Social Democrats, Stefan Löfven, general election_
+_Context: Green Party, Margot Wallstrm, Social Democrats, Stefan Lfven, general election_
 
 ## [Previous Day...](/news/2014/10/2/index.md)
 

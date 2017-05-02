@@ -11,4 +11,4 @@ Host and creator Don Francisco will continue contributing to the network.
 
 ### Related:
 
-1. [Univision's Sabado Gigante, the world's longest running variety show in television history, ends after 53 years on air. ](/news/2015/09/19/univision-s-sa-bado-gigante-the-world-s-longest-running-variety-show-in-television-history-ends-after-53-years-on-air.md) _Context: Sábado Gigante_
+1. [Univision's Sabado Gigante, the world's longest running variety show in television history, ends after 53 years on air. ](/news/2015/09/19/univision-s-sa-bado-gigante-the-world-s-longest-running-variety-show-in-television-history-ends-after-53-years-on-air.md) _Context: Sabado Gigante_

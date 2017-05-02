@@ -7,13 +7,13 @@ _Context: India, India's Prime Minister, Manmohan Singh, Mumbai, November terror
 _Context: 2008 SLA Northern offensive, Army, Kilinochchi, LTTE, Sri Lanka, Sri Lankan Civil War_
 
 ### [ A military coup is announced in Guinea, hours after the death of President Lansana Conte. ](/news/2008/12/23/a-military-coup-is-announced-in-guinea-hours-after-the-death-of-president-lansana-conta-c.md)
-_Context: Guinea, Lansana Conté, President, military coup_
+_Context: Guinea, Lansana Conte, President, military coup_
 
 ### [ The world's fifteen leading gas-producing countries sign the charter of the Gas Exporting Countries Forum, making it a formal organization.](/news/2008/12/23/the-world-s-fifteen-leading-gas-producing-countries-sign-the-charter-of-the-gas-exporting-countries-forum-making-it-a-formal-organization.md)
 _Context: Gas Exporting Countries Forum, natural gas_
 
 ### [ Fiji expels acting New Zealand High Commissioner Caroline McDonald. In retaliation, New Zealand declares acting Fiji High Commissioner Cama Tuiloma persona non grata. ](/news/2008/12/23/fiji-expels-acting-new-zealand-high-commissioner-caroline-mcdonald-in-retaliation-new-zealand-declares-acting-fiji-high-commissioner-cama.md)
-_Context: Fiji, Fiji–New Zealand relations, High Commissioner, High Commissioner, New Zealand, persona non-grata_
+_Context: Fiji, Fiji-New Zealand relations, High Commissioner, High Commissioner, New Zealand, persona non-grata_
 
 ## [Previous Day...](/news/2008/12/22/index.md)
 

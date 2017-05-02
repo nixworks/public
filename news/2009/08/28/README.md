@@ -39,7 +39,7 @@ _Context: Iran, North Korea, United Arab Emirates, United Nations, United Nation
 ### [ Iranian President Mahmoud Ahmadinejad calls for opposition leaders to be punished over election protests which occurred earlier this year. ](/news/2009/08/28/iranian-president-mahmoud-ahmadinejad-calls-for-opposition-leaders-to-be-punished-over-election-protests-which-occurred-earlier-this-year.md)
 _Context: Iran, Iranian President, Mahmoud Ahmadinejad, protests against the regime_
 
-### [ NASA launches the {{OV|103}} (STS-128) for a resupply and crew rotation mission to the International Space Station. The mission will also deliver the Multi-Purpose Logistics Module Leonardo.  This is Discovery's 37th flight and will celebrate the 25th anniversary of its first flight during the mission. ](/news/2009/08/28/nasa-launches-the-ov-103-sts-128-for-a-resupply-and-crew-rotation-mission-to-the-international-space-station-the-mission-will-also-d.md)
+### [ NASA launches the 103 (STS-128) for a resupply and crew rotation mission to the International Space Station. The mission will also deliver the Multi-Purpose Logistics Module Leonardo.  This is Discovery's 37th flight and will celebrate the 25th anniversary of its first flight during the mission. ](/news/2009/08/28/nasa-launches-the-103-sts-128-for-a-resupply-and-crew-rotation-mission-to-the-international-space-station-the-mission-will-also-deliver.md)
 Space shuttle Discovery has launched on a mission to deliver new science equipme..
 
 ## [Previous Day...](/news/2009/08/27/index.md)

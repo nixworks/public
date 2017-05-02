@@ -4,7 +4,7 @@
 The novelist JRR Tolkien secretly trained as a Government spy in the run up to the Second World War, new documents have disclosed.
 
 ### [ Jose Manuel Barroso is re-elected as President of the European Commission, by Members of the European Parliament. ](/news/2009/09/16/josa-c-manuel-barroso-is-re-elected-as-president-of-the-european-commission-by-members-of-the-european-parliament.md)
-_Context: José Manuel Barroso, Members of the European Parliament, President of the European Commission_
+_Context: Jose Manuel Barroso, Members of the European Parliament, President of the European Commission_
 
 ### [ Yukio Hatoyama is sworn in as the 60th Prime Minister of Japan. ](/news/2009/09/16/yukio-hatoyama-is-sworn-in-as-the-60th-prime-minister-of-japan.md)
 The Asahi Shimbun is widely regarded for its journalism as the most respected daily newspaper in Japan. The English version offers selected articles from the vernacular Asahi Shimbun, as well as extensive coverage of cool Japan,focusing on manga, travel and other timely news

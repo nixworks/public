@@ -4,7 +4,7 @@
 _Context: Puntland, Somalia, Union of Islamic Courts, War in Somalia_
 
 ### [ Felipe Perez Roque, the Foreign Minister of Cuba, backs away from earlier predictions that Fidel Castro would return as the President of Cuba by December raising concerns about the progress of Castro's recovery from intestinal surgery. ](/news/2006/11/6/felipe-pa-c-rez-roque-the-foreign-minister-of-cuba-backs-away-from-earlier-predictions-that-fidel-castro-would-return-as-the-president-of-c.md)
-_Context: Cuba, Felipe Pérez Roque, Fidel Castro, President_
+_Context: Cuba, Felipe Perez Roque, Fidel Castro, President_
 
 ### [ The Iraqi government prepares a law that may see former Baath Party supporters restored to their former jobs. ](/news/2006/11/6/the-iraqi-government-prepares-a-law-that-may-see-former-baath-party-supporters-restored-to-their-former-jobs.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

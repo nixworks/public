@@ -40,7 +40,7 @@ Brazilian police have shot dead at least 13 more people in Rio de Janeiro as the
 A&#x20;young&#x20;male&#x20;demonstrator&#x20;was&#x20;shot&#x20;and&#x20;killed&#x20;Wednesday&#x20;and&#x20;dozens&#x20;more&#x20;injured&#x20;as&#x20;more&#x20;than&#x20;200&#x20;Orthodox&#x20;Coptic&#x20;Christian&#x20;protesters&#x20;clashed&#x20;with&#x20;Egyptian&#x20;police.&#x20;The&#x20;violence&#x20;is&#x20;over&#x20;the&#x20;authorities&amp;rsquo&#x3B;&#x20;refusal&#x20;to&#x20;allow&#x20;the&#x20;building...
 
 ### [Blaise Compaor is re-elected as President of Burkina Faso following a presidential election with 81% of the vote. ](/news/2010/11/24/blaise-compaore-is-re-elected-as-president-of-burkina-faso-following-a-presidential-election-with-81-of-the-vote.md)
-_Context: Blaise Compaoré, Burkina Faso, presidential election_
+_Context: Blaise Compaor, Burkina Faso, presidential election_
 
 ### [Protests occur in Kabul follow the announcement of most of the results of the Afghan parliamentary election. ](/news/2010/11/24/protests-occur-in-kabul-follow-the-announcement-of-most-of-the-results-of-the-afghan-parliamentary-election.md)
 Afghan officials announced most of the long-delayed results from a September parliamentary election on Wednesday, but more disqualifications and protests and the emergence of a potential new opposition bloc clouded the poll.

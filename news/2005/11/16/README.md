@@ -1,10 +1,10 @@
 ## [2005-11-16](/news/2005/11/16/index.md)
 
 ### [ 1 person is killed, and 15 are injured in Hakkri, Hakkari Province, Turkey during fighting between Turkish police and Kurdish PKK rebels. ](/news/2005/11/16/1-person-is-killed-and-15-are-injured-in-hakkari-hakkari-province-turkey-during-fighting-between-turkish-police-and-kurdish-pkk-rebels.md)
-_Context: Hakkari Province, Hakkâri, Kurdish, Kurdistan Workers' Party, Turkey_
+_Context: Hakkari Province, Hakkri, Kurdish, Kurdistan Workers' Party, Turkey_
 
 ### [ In the 2005 Burkina Faso presidential elections incumbent Blaise Compaor celebrates victory several days ahead of the release of the voting results. International watchdogs and opposition officials allege widespread vote rigging. ](/news/2005/11/16/in-the-2005-burkina-faso-presidential-elections-incumbent-blaise-compaore-celebrates-victory-several-days-ahead-of-the-release-of-the-votin.md)
-_Context: 2005, Blaise Compaoré, Burkina Faso presidential elections_
+_Context: 2005, Blaise Compaor, Burkina Faso presidential elections_
 
 ### [ The Health Ministry of the People's Republic of China announces the country's first one confirmed and one suspected cases of avian flu in humans in Hunan Province, and one confirmed case in Anhui. ](/news/2005/11/16/the-health-ministry-of-the-people-s-republic-of-china-announces-the-country-s-first-one-confirmed-and-one-suspected-cases-of-avian-flu-in-h.md)
 _Context: Anhui, China's, Hunan, avian flu_

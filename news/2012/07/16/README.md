@@ -25,7 +25,7 @@ Jon Lord, keyboard player and a founder member of rock band Deep Purple, dies af
 Kitty Wells, the long-reigning “Queen of Country Music” and the first woman to reach No. 1 on the country chart with her attitude-changing hit “It Wasn’t God Who Made Honky Tonk Angels,” died Monday at age 92 of complications from a stroke.
 
 ### [The United States Senate accuses the HSBC bank of laundering Mexican drug money. ](/news/2012/07/16/the-united-states-senate-accuses-the-hsbc-bank-of-laundering-mexican-drug-money.md)
-_Context: HSBC, Senator_
+_Context: HSBC, United States Senate_
 
 ### [The launch of a flagship nuclear power station in Finland is delayed for a third time. ](/news/2012/07/16/the-launch-of-a-flagship-nuclear-power-station-in-finland-is-delayed-for-a-third-time.md)
 The launch of a flagship nuclear power station in Finland is delayed for a third time, Finnish electricity company TVO says.
@@ -43,7 +43,7 @@ _Context: Japan, military_
 Former NRL player Craig Field has been charged with murder after a man he allegedly assaulted on the NSW north coast died in hospital, police say.
 
 ### [A "multiple shooting" incident at Scarborough, a major district in Toronto, Canada, results in at least one death and 19 injured. ](/news/2012/07/16/a-multiple-shooting-incident-at-scarborough-a-major-district-in-toronto-canada-results-in-at-least-one-death-and-19-injured.md)
-_Context: Canadian, Scarborough, Toronto, shooting_
+_Context: Canada, Scarborough, Toronto, shooting_
 
 ### [North Korea announces that Ri Yong-ho, a senior military figure and a member of the central presidium of the Workers' Party of Korea, is relieved of all duties due to illness. ](/news/2012/07/16/north-korea-announces-that-ri-yong-ho-a-senior-military-figure-and-a-member-of-the-central-presidium-of-the-workers-party-of-korea-is-rel.md)
 _Context: North Korea, Ri Yong-ho, Workers' Party of Korea_

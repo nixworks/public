@@ -7,7 +7,7 @@ _Context: Ministry of Public Security of the People's Republic of China_
 The district attorney who prosecuted three Duke University lacrosse players accused of rape took the stand in his own ethics trial Friday and acknowledged he made some inappropriate statements during the investigation.
 
 ### [ Switzerland opens the world's longest rail tunnel on land, the 34-kilometre Ltschberg tunnel under the Alps. ](/news/2007/06/15/switzerland-opens-the-world-s-longest-rail-tunnel-on-land-the-34-kilometre-lotschberg-tunnel-under-the-alps.md)
-_Context: Alps, Lötschberg tunnel, Swiss, tunnel_
+_Context: Alps, Ltschberg tunnel, Swiss, tunnel_
 
 ### [ In the UK, seven members of Dhiren Barot's al Qaeda cell are sentenced to a total of 136 years in prison. ](/news/2007/06/15/in-the-uk-seven-members-of-dhiren-barot-s-al-qaeda-cell-are-sentenced-to-a-total-of-136-years-in-prison.md)
 _Context: Dhiren Barot, UK, al-Qaeda_

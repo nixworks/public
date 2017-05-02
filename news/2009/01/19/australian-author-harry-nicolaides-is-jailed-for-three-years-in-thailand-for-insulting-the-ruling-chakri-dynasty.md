@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ Two people are charged with "spreading false information" about the health of Thailand's King Bhumibol Adulyadej. ](/news/2009/11/2/two-people-are-charged-with-spreading-false-information-about-the-health-of-thailand-s-king-bhumibol-adulyadej.md) _Context: Thailand, lèse-majesté_
+1. [ Two people are charged with "spreading false information" about the health of Thailand's King Bhumibol Adulyadej. ](/news/2009/11/2/two-people-are-charged-with-spreading-false-information-about-the-health-of-thailand-s-king-bhumibol-adulyadej.md) _Context: Thailand, lese-majeste_
 2. [ A The Nation Group's newspaper critical of Thai Prime Minister Thaksin Shinawatra agrees to stop publishing for five days amid protests about the way it referred to the King of Thailand. ](/news/2006/03/31/a-the-nation-group-s-newspaper-critical-of-thai-prime-minister-thaksin-shinawatra-agrees-to-stop-publishing-for-five-days-amid-protests-abo.md) _Context: Chakri Dynasty, Thailand_
 3. [A wave of small-scale terrorist attacks, including tire burning and the bombing of the electric grid, hits the Thai provinces of Yala, Pattani, Narathiwat, and Songkhla in response to the new Constitution of Thailand. ](/news/2017/04/7/a-wave-of-small-scale-terrorist-attacks-including-tire-burning-and-the-bombing-of-the-electric-grid-hits-the-thai-provinces-of-yala-patta.md) _Context: Thailand_
 4. [Thai King Vajiralongkorn signed into law a new Constitution of Thailand that paves the way for democratic reforms while allowing the Royal Thai Army to retain its influential role in Thai politics. ](/news/2017/04/6/thai-king-vajiralongkorn-signed-into-law-a-new-constitution-of-thailand-that-paves-the-way-for-democratic-reforms-while-allowing-the-royal-t.md) _Context: Thailand_

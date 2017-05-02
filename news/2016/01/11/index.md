@@ -22,7 +22,7 @@ Environment Agency chairman Sir Philip Dilley has quit after coming under fire f
 _Context: Cologne, European migrant crisis, Leipzig, New Year's Eve sexual assaults in Germany, Pakistan, Pegida, Syria, social media_
 
 ### [In association football, Lionel Messi of FC Barcelona and Argentina wins the 2015 FIFA Ballon d'Or, for his fifth time. Barca manager Luis Enrique is named FIFA World Coach of the Year for Men's Football. Carli Lloyd of the Houston Dash and the USA is named FIFA Women's World Player of the Year, and USA coach Jill Ellis is named FIFA World Coach of the Year for Women's Football. ](/news/2016/01/11/in-association-football-lionel-messi-of-fc-barcelona-and-argentina-wins-the-2015-fifa-ballon-d-or-for-his-fifth-time-barassa-manager-luis.md)
-_Context: 2015 FIFA Ballon d'Or, Argentina, Carli Lloyd, FC Barcelona, Houston Dash, Jill Ellis, Lionel Messi, Luis Enrique, U.S. women’s national soccer team players, association football_
+_Context: 2015 FIFA Ballon d'Or, Argentina, Carli Lloyd, FC Barcelona, Houston Dash, Jill Ellis, Lionel Messi, Luis Enrique, U.S. women's national soccer team players, association football_
 
 ### [In Australian football, 34 current and former players with the Essendon Football Club are banned from playing in the Australian Football League during the 2016 AFL season after the Court of Arbitration for Sport finds that they took the banned substance thymosin-beta 4. ](/news/2016/01/11/in-australian-football-34-current-and-former-players-with-the-essendon-football-club-are-banned-from-playing-in-the-australian-football-lea.md)
 _Context: 2016 AFL season, Australian Football League, Australian football, Court of Arbitration for Sport, Essendon Football Club_

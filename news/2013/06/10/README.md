@@ -4,7 +4,7 @@
 At least 70 people have been killed and many more wounded in a series of bombings and suicide attacks in northern and central Iraq, officials say.
 
 ### [The Venezuelan government arrests nine Colombian right-wing paramilitaries over a plot to assassinate President Nicolas Maduro. ](/news/2013/06/10/the-venezuelan-government-arrests-nine-colombian-right-wing-paramilitaries-over-a-plot-to-assassinate-president-nicola-s-maduro.md)
-_Context: Colombia, Nicolás Maduro, Venezuela_
+_Context: Colombia, Nicolas Maduro, Venezuela_
 
 ### [Syrian civil war:A fierce battle has gone on over the last 24 hours as rebels launch another attack against the Menagh Air Base, the last remaining Syrian government controlled airbase in Aleppo. ](/news/2013/06/10/syrian-civil-war-pa-fierce-battle-has-gone-on-over-the-last-24-hours-as-rebels-launch-another-attack-against-the-menagh-air-base-the-last-r.md)
 _Context: Aleppo, Menagh Air Base, Syrian Civil War, attack_

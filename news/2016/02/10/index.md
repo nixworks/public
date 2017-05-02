@@ -4,7 +4,7 @@
 Two female suicide bombers killed more than 60 people at a camp for people displaced by an insurgency of the jihadist Boko Haram group in the northeast Nigerian town of Dikwa, military and emergency officials said on Wednesday.
 
 ### [At least two Turkish Army soldiers are killed in clashes with Kurdistan Workers' Party (PKK) insurgents in the southeast Sirnak Province. ](/news/2016/02/10/at-least-two-turkish-army-soldiers-are-killed-in-clashes-with-kurdistan-workers-party-pkk-insurgents-in-the-southeast-aa-rnak-province.md)
-_Context: Kurdistan Workers' Party, PKK rebellion (2015–present), Turkish Land Forces, Şırnak Province_
+_Context: Kurdistan Workers' Party, PKK rebellion (2015-present), Sirnak Province, Turkish Land Forces_
 
 ### [The Kurdish-led Syrian Democratic Forces (SDF) reportedly take control of the Menagh Military Airbase in the northern Aleppo Governorate after Ahrar ash-Sham, Levant Front and Free Syrian Army fighters withdraw amid Russian airstrikes. ](/news/2016/02/10/the-kurdish-led-syrian-democratic-forces-sdf-reportedly-take-control-of-the-menagh-military-airbase-in-the-northern-aleppo-governorate-aft.md)
 According to several Kurdish social media activists, the People&#039;s Protection Units Units (YPG) - backed by Jaysh Al-Thuwwar of the Syrian Democratic Forces
@@ -25,7 +25,7 @@ The Zika virus has been associated with a birth defect called microcephaly.
 Turkey and Greece have agreed to ask for a NATO mission to monitor refugee flows in the Aegean Sea and combat people smugglers, a senior German government official said late on Wednesday.
 
 ### [Turkish President Recep Tayyip Erdogan blasts the United States over its support for Syrian Kurdish groups which Turkey considers to be terrorists. ](/news/2016/02/10/turkish-president-recep-tayyip-erdoaan-blasts-the-united-states-over-its-support-for-syrian-kurdish-groups-which-turkey-considers-to-be-ter.md)
-_Context: President, Recep Tayyip Erdoğan, Rojava conflict, Syrian Kurdish groups, United States, terrorism_
+_Context: President, Recep Tayyip Erdogan, Rojava conflict, Syrian Kurdish groups, United States, terrorism_
 
 ### [A shootout in Abingdon, Maryland results in the deaths of two Harford County Sheriff's Office deputies and the suspected gunman. ](/news/2016/02/10/a-shootout-in-abingdon-maryland-results-in-the-deaths-of-two-harford-county-sheriff-s-office-deputies-and-the-suspected-gunman.md)
 _Context: Abingdon, Harford County Sheriff's Office, Maryland_

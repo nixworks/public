@@ -1,7 +1,7 @@
 ## [2012-01-20](/news/2012/01/20/index.md)
 
 ### [2011-2012 Syrian uprising: At least 10 people are killed in violence after Friday prayers. ](/news/2012/01/20/2011a2012-syrian-uprising-at-least-10-people-are-killed-in-violence-after-friday-prayers.md)
-_Context: 2011–2012 Syrian uprising_
+_Context: 2011-2012 Syrian uprising_
 
 ### [AMISOM troops raid Islamist hideouts in the Somali capital Mogadishu. ](/news/2012/01/20/amisom-troops-raid-islamist-hideouts-in-the-somali-capital-mogadishu.md)
 _Context: AMISOM, Islamist, Mogadishu, Somalia_
@@ -31,7 +31,7 @@ China is warning Iran against developing nuclear weapons, observers said.
 _Context: Turkey, assassination of Hrant Dink_
 
 ### [2011-2012 Yemeni uprising: The Yemeni government modifies a new bill that would have granted legal immunity to aides of outgoing President Ali Abdullah Saleh. ](/news/2012/01/20/2011a2012-yemeni-uprising-the-yemeni-government-modifies-a-new-bill-that-would-have-granted-legal-immunity-to-aides-of-outgoing-president.md)
-_Context: 2011–2012 Yemeni uprising, Saleh, Yemen, Yemeni President_
+_Context: 2011-2012 Yemeni uprising, Saleh, Yemen, Yemeni President_
 
 ### [Cuban dissident Wilmar Villar dies after going on hunger strike. ](/news/2012/01/20/cuban-dissident-wilmar-villar-dies-after-going-on-hunger-strike.md)
 _Context: Cuba, Wilmar Villar, hunger strike_

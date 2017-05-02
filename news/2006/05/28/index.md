@@ -16,7 +16,7 @@ _Context: Babe Ruth, Barry Bonds, Colorado Rockies, home run_
 _Context: 90th Indianapolis 500, Sam Hornish, Jr._
 
 ### [  President Alvaro Uribe gets reelected in a landslide in the Colombian presidential election, 2006, winning  62.2% of the votes in a landslide.  This is the first time a Colombian President gets reelected in more than a century.  He will serve another 4-year term.](/news/2006/05/28/president-alvaro-uribe-gets-reelected-in-a-landslide-in-the-colombian-presidential-election-2006-winning-62-2-of-the-votes-in-a-landsl.md)
-_Context: Colombian presidential election, 2006, Álvaro Uribe_
+_Context: Alvaro Uribe, Colombian presidential election, 2006_
 
 ## [Previous Day...](/news/2006/05/27/index.md)
 

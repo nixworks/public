@@ -1,6 +1,6 @@
 ### [2013-07-29](/news/2013/07/29/index.md)
 
-# Five people died and a woman was injured in a helicopter crash, in Romania [http://www.puterea.ro/eveniment/elicopter-prabusit-in-lacul-din-localitatea-taureni-5-oameni-si-au-pierdut-viata-76129.html (Puterea.ro)]{{what?|date=August 2013}}{{rs|date=August 2013}}
+# Five people died and a woman was injured in a helicopter crash, in Romania [http://www.puterea.ro/eveniment/elicopter-prabusit-in-lacul-din-localitatea-taureni-5-oameni-si-au-pierdut-viata-76129.html (Puterea.ro)]date=August 2013date=August 2013
 
 
 

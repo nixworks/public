@@ -16,7 +16,7 @@ _Context: Athens, Greece, Korydallos Prison, Vassilis Paleokostas, convicted, es
 _Context: Baghdad Central Prison, Iraq_
 
 ### [ Vietnamese Prime Minister Nguyen Tan Dung inaugurates the country's first oil refinery. ](/news/2009/02/22/vietnamese-prime-minister-nguya-n-taoy-n-da-c-ng-inaugurates-the-country-s-first-oil-refinery.md)
-_Context: Nguyễn Tấn Dũng, Vietnam, first, prime minister, refinery_
+_Context: Nguyen Tan Dung, Vietnam, first, prime minister, refinery_
 
 ### [ At least 73 miners die following an explosion in a coal mine in Gujiao, Shanxi, China. ](/news/2009/02/22/at-least-73-miners-die-following-an-explosion-in-a-coal-mine-in-gujiao-shanxi-china.md)
 _Context: China's, Gujiao, Shanxi province, coal miners, explosion, miner_

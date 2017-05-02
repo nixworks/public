@@ -4,7 +4,7 @@
 _Context: Arab League, Russia, Syrian Civil War, United Nations, slaughters_
 
 ### [War in Afghanistan:Three Australian Army soldiers are killed and another two injured in a shooting by someone wearing an Afghan Army uniform in Oruzgan province. ](/news/2012/08/29/war-in-afghanistan-pthree-australian-army-soldiers-are-killed-and-another-two-injured-in-a-shooting-by-someone-wearing-an-afghan-army-unifor.md)
-_Context: Afghan Army, Oruzgan, War in Afghanistan (2001–present), soldiers_
+_Context: Afghan Army, Oruzgan, War in Afghanistan (2001-present), soldiers_
 
 ### [Anonymous officials say the Taliban has attacked a Pakistan Army post in South Waziristan killing nine soldiers. Pakistani Taliban say they killed twelve. ](/news/2012/08/29/anonymous-officials-say-the-taliban-has-attacked-a-pakistan-army-post-in-south-waziristan-killing-nine-soldiers-pakistani-taliban-say-they.md)
 Taliban militants attacked an army post near the Afghan border in Pakistan&#x27;s northwest, killing nine soldiers, a military official said Wednesday.
@@ -34,7 +34,7 @@ Government officials from Japan and North Korea meet in Beijing for their first 
 _Context: China, Hu Jintao, Mohamed Morsi_
 
 ### [A judge orders the arrest of Tomas Yarrington, a former governor of the Mexican state of Tamaulipas, for allegedly fomenting drug trafficking. ](/news/2012/08/29/a-judge-orders-the-arrest-of-toma-s-yarrington-a-former-governor-of-the-mexican-state-of-tamaulipas-for-allegedly-fomenting-drug-trafficki.md)
-_Context: Tamaulipas, Tomás Yarrington_
+_Context: Tamaulipas, Tomas Yarrington_
 
 ### [The Indian Supreme Court upholds the death sentence of Pakistani Mohammad Ajmal Amir Qasab, the perpetrator of the 2008 Mumbai attacks. ](/news/2012/08/29/the-indian-supreme-court-upholds-the-death-sentence-of-pakistani-mohammad-ajmal-amir-qasab-the-perpetrator-of-the-2008-mumbai-attacks.md)
 _Context: 2008 Mumbai attacks, Indian Supreme Court, Mohammad Ajmal Amir Qasab_

@@ -25,7 +25,7 @@ Rene Angelil, the husband and former manager of singer Celine Dion, dies aged 73
 The first January Atlantic hurricane in 61 years, hit the Azores as a tropical storm Friday.
 
 ### [A Brazilian court suspends the licence for the Belo Monte Dam weeks before it was due to start operating until operator Norte Energia SA and the government of Brazil reorganizes Fundacao Nacional do Indio, a protection agency for indigenous Brazilians. ](/news/2016/01/14/a-brazilian-court-suspends-the-licence-for-the-belo-monte-dam-weeks-before-it-was-due-to-start-operating-until-operator-norte-energia-sa-and.md)
-_Context: Belo Monte Dam, Brazil, Fundação Nacional do Índio, Government of Brazil, indigenous Brazilians_
+_Context: Belo Monte Dam, Brazil, Fundacao Nacional do Indio, Government of Brazil, indigenous Brazilians_
 
 ### [The World Health Organisation declares an end to the Ebola virus outbreak in West Africa with Liberia the last country to be declared free of the virus. ](/news/2016/01/14/the-world-health-organisation-declares-an-end-to-the-ebola-virus-outbreak-in-west-africa-with-liberia-the-last-country-to-be-declared-free-o.md)
 The world breathed a sigh of relief Thursday as a two-year Ebola epidemic that killed 11,000 and triggered a global health alert was declared over, with Liberia the last country given the all-clear. The deadliest outbreak in the history of the feared tropical virus wrecked the economies and health systems

@@ -7,8 +7,8 @@
 
 ### Related:
 
-1. [A bus plunges over a ravine in Brazil's Sao Paulo state, resulting in at least 18 people killed and 28 injured. ](/news/2016/06/9/a-bus-plunges-over-a-ravine-in-brazil-s-sapso-paulo-state-resulting-in-at-least-18-people-killed-and-28-injured.md) _Context: Brazil, São Paulo_
-2. [ YouTube is unblocked in Brazil as a Sao Paulo state  court revises its ruling for Daniela Cicarelli video clips. ](/news/2007/01/9/youtube-is-unblocked-in-brazil-as-a-sapso-paulo-state-court-revises-its-ruling-for-daniela-cicarelli-video-clips.md) _Context: Brazil, São Paulo_
+1. [A bus plunges over a ravine in Brazil's Sao Paulo state, resulting in at least 18 people killed and 28 injured. ](/news/2016/06/9/a-bus-plunges-over-a-ravine-in-brazil-s-sapso-paulo-state-resulting-in-at-least-18-people-killed-and-28-injured.md) _Context: Brazil, Sao Paulo_
+2. [ YouTube is unblocked in Brazil as a Sao Paulo state  court revises its ruling for Daniela Cicarelli video clips. ](/news/2007/01/9/youtube-is-unblocked-in-brazil-as-a-sapso-paulo-state-court-revises-its-ruling-for-daniela-cicarelli-video-clips.md) _Context: Brazil, Sao Paulo_
 3. [A general strike is held in Brazil, the first one in twenty years. ](/news/2017/04/28/a-general-strike-is-held-in-brazil-the-first-one-in-twenty-years.md) _Context: Brazil_
 4. [In Paraguay, around 50 armed men, allegedly belonging to the Brazil-based Primeiro Comando da Capital criminal gang, storm a security vault and police headquarters in Ciudad del Este, escaping with around $6 million in a daring cross-border raid. ](/news/2017/04/24/in-paraguay-around-50-armed-men-allegedly-belonging-to-the-brazil-based-primeiro-comando-da-capital-criminal-gang-storm-a-security-vault.md) _Context: Brazil_
 5. [SpaceX successfully launches the EchoStar 23 satellite, a Direct-to-home television broadcast services for Brazil, into a geosynchronous transfer orbit, using the fully expendable version of their Falcon 9 launch vehicle. ](/news/2017/03/16/spacex-successfully-launches-the-echostar-23-satellite-a-direct-to-home-television-broadcast-services-for-brazil-into-a-geosynchronous-tra.md) _Context: Brazil_

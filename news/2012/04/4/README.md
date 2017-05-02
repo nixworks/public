@@ -1,7 +1,7 @@
 ## [2012-04-4](/news/2012/04/4/index.md)
 
 ### [2012 South Sudan-Sudan border conflict: The Sudan People's Liberation Army says it shot down a Sudanese MiG-29 jet fighter in South Sudan's Unity state. ](/news/2012/04/4/2012-south-sudanasudan-border-conflict-the-sudan-people-s-liberation-army-says-it-shot-down-a-sudanese-mig-29-jet-fighter-in-south-sudan.md)
-_Context: 2012 South Sudan–Sudan border conflict_
+_Context: 2012 South Sudan-Sudan border conflict_
 
 ### [A suicide bomber kills at least 12 people and injures many more in Afghanistan's Faryab province. ](/news/2012/04/4/a-suicide-bomber-kills-at-least-12-people-and-injures-many-more-in-afghanistan-s-faryab-province.md)
 A suicide bomber on Wednesday killed at least 12 people and injured many more in the Faryab province in northern Afghanistan, a Norwegian armed forces&#039; spokesman told AFP.
@@ -10,7 +10,7 @@ A suicide bomber on Wednesday killed at least 12 people and injured many more in
 _Context: Mogadishu, Somali Football Federation, Somali Olympic Committee, Somalia_
 
 ### [German Nobel laureate Gunter Grass's  poem, that accuses Israel of plotting to "wipe out" Iran, generates controversy. ](/news/2012/04/4/german-nobel-laureate-ga1-4nter-grass-s-poem-that-accuses-israel-of-plotting-to-wipe-out-iran-generates-controversy.md)
-_Context: German, Günter Grass, Iran, Israel, Nobel Laureate, poem_
+_Context: German, Gunter Grass, Iran, Israel, Nobel Laureate, poem_
 
 ### [As many as 50,000 homes in northern England are hit by a power blackout after heavy winds, snow and ice bring down electricity cables. ](/news/2012/04/4/as-many-as-50-000-homes-in-northern-england-are-hit-by-a-power-blackout-after-heavy-winds-snow-and-ice-bring-down-electricity-cables.md)
 Thousands of homes and businesses in England are without electricity after gales and ice brought down power lines.
@@ -31,7 +31,7 @@ _Context: Hurricane Katrina, New Orleans Police Department_
 _Context: Juan Carlos Figarella, Venezuela_
 
 ### [The President of Serbia Boris Tadic announces his resignation to pave the way for early presidential elections. ](/news/2012/04/4/the-president-of-serbia-boris-tadia-announces-his-resignation-to-pave-the-way-for-early-presidential-elections.md)
-_Context: Boris Tadić, President, elected_
+_Context: Boris Tadic, President, elected_
 
 ## [Previous Day...](/news/2012/04/3/index.md)
 

@@ -19,7 +19,7 @@ Six people have been killed as fire swept through an apartment building in a Sto
 India becomes the sixth nation to join the elite A-league as Manmohan Singh formally launched the indigenously-built nuclear-powered submarine today.
 
 ### [ Voters in Guinea-Bissau take part in a runoff presidential election between Kumba Iala and Malam Bacai Sanha. ](/news/2009/07/26/voters-in-guinea-bissau-take-part-in-a-runoff-presidential-election-between-kumba-iala-and-malam-bacai-sanha.md)
-_Context: Guinea-Bissau, Kumba Ialá, Malam Bacai Sanhá, presidential election_
+_Context: Guinea-Bissau, Kumba Iala, Malam Bacai Sanha, presidential election_
 
 ### [ French President Nicolas Sarkozy takes ill whilst exercising. ](/news/2009/07/26/french-president-nicolas-sarkozy-takes-ill-whilst-exercising.md)
 French President Nicolas Sarkozy was rushed to hospital after falling ill while jogging and will stay there overnight for tests.

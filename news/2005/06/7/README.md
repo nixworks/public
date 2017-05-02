@@ -1,10 +1,10 @@
 ## [2005-06-7](/news/2005/06/7/index.md)
 
 ### [ Hungarian opposition candidate Lszl Slyom wins the 2005 presidential election in a 185-182 victory over Katalin Szili. [http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2005/06/07/international/i133212D26.DTL]](/news/2005/06/7/hungarian-opposition-candidate-laszlo-solyom-wins-the-2005-presidential-election-in-a-185-182-victory-over-katalin-szili-http-www-sfgat.md)
-_Context: Hungary, Katalin Szili, László Sólyom_
+_Context: Hungary, Katalin Szili, Lszl Slyom_
 
 ### [ United States Senator Jon Corzine wins the New Jersey Democratic Party gubernatorial primary. Doug Forrester, a former mayor, wins the New Jersey Republican Party gubernatorial primary after a heated contest with another former mayor, Bret Schundler. The November 2005 election will be the first since Governor James McGreevey resigned over a scandal in which he was revealed to be homosexual. ](/news/2005/06/7/united-states-senator-jon-corzine-wins-the-new-jersey-democratic-party-gubernatorial-primary-doug-forrester-a-former-mayor-wins-the-new.md)
-_Context: Bret Schundler, Democrat, Doug Forrester, James McGreevey, Jon Corzine, New Jersey, Republican, Senator, election, gubernatorial elections, homosexual, mayor_
+_Context: Bret Schundler, Democratic, Doug Forrester, James McGreevey, Jon Corzine, New Jersey, Republican, United States Senate, election, gubernatorial elections, homosexual, mayor_
 
 ### [ Scientists at UCLA use a pyroelectric crystal heated from -34.4 to 7.2 degrees Celsius to produce an electric field of about 100,000 volts, accelerating hydrogen nuclei and producing helium nuclei in the subsequent collisions. This cold fusion experiment has been repeated successfully, and other scientists have confirmed the results. ](/news/2005/06/7/scientists-at-ucla-use-a-pyroelectric-crystal-heated-from-34-4-to-7-2-degrees-celsius-to-produce-an-electric-field-of-about-100-000-volts.md)
 The Christian Science Monitor is an international news organization that delivers thoughtful, global coverage via its website, weekly magazine, daily news briefing, and email newsletters.
@@ -49,7 +49,7 @@ _Context: Human Rights Watch, Uzbekistan, massacres_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ In Brazil, president Luiz Inacio Lula da Silva promises investigation on allegations that his party offered bribes to parliamentarians for political support ](/news/2005/06/7/in-brazil-president-luiz-inacio-lula-da-silva-promises-investigation-on-allegations-that-his-party-offered-bribes-to-parliamentarians-for.md)
-_Context: Brazil, Luiz Inácio Lula da Silva, bribe_
+_Context: Brazil, Luiz Incio Lula da Silva, bribe_
 
 ## [Previous Day...](/news/2005/06/6/index.md)
 

@@ -1,6 +1,6 @@
 ### [2004-12-1](/news/2004/12/1/index.md)
 
-# Rwandan troops are spotted by UN personnel in eastern Congo where Congolese officials say the troops are attacking and burning villages. The last invasion started the Congo Civil War, which resulted in the deaths of {{Nowrap|3-4 million}} people. 
+# Rwandan troops are spotted by UN personnel in eastern Congo where Congolese officials say the troops are attacking and burning villages. The last invasion started the Congo Civil War, which resulted in the deaths of 3-4 million people. 
 
 
 

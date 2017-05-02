@@ -53,7 +53,7 @@ The U.S., with 4.5 percent of the worldâ€™s population and 25 percent of the wor
 _Context: Alex Chernov, Governor, Victoria_
 
 ### [Three Venezuelan hunger strikers are hospitalised after calling for an international probe into alleged human rights abuses by the President of Venezuela Hugo Chvez. ](/news/2011/02/21/three-venezuelan-hunger-strikers-are-hospitalised-after-calling-for-an-international-probe-into-alleged-human-rights-abuses-by-the-president.md)
-_Context: Hugo Chávez, Human rights, President, Venezuela, hunger strike_
+_Context: Hugo Chvez, Human rights, President, Venezuela, hunger strike_
 
 ### [The Bahrain Royal Family calls off the Bahrain Grand Prix, the opening round of the 2011 Formula One season, due to the ongoing 2011 Bahrain protests. ](/news/2011/02/21/the-bahrain-royal-family-calls-off-the-bahrain-grand-prix-the-opening-round-of-the-2011-formula-one-season-due-to-the-ongoing-2011-bahrain.md)
 _Context: Bahrain, Bahrain Grand Prix, Bahrain's protests, Formula One World Championship, Royal Family_

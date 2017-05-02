@@ -4,7 +4,7 @@
 _Context: Kosovo, Samoa, officially recognizes_
 
 ### [ Morelia Bomb Attacks: Eight people are killed and 100 injured in a presumed terrorist attack at ''El Grito'' Independence Day celebrations in the main square of Morelia, Michoacan. ](/news/2008/09/15/morelia-bomb-attacks-eight-people-are-killed-and-100-injured-in-a-presumed-terrorist-attack-at-el-grito-independence-day-celebrations.md)
-_Context: El Grito, Independence Day, Michoacán, Morelia, Morelia Bomb Attacks, main square, terrorist attack_
+_Context: El Grito, Independence Day, Michoacan, Morelia, Morelia Bomb Attacks, main square, terrorist attack_
 
 ### [ Hewlett-Packard announces plans to cut 24,600 jobs. ](/news/2008/09/15/hewlett-packard-announces-plans-to-cut-24-600-jobs.md)
 Hewlett-Packard Co plans to cut 7.5 percent of its work force, or 24,600 jobs, seeking to realize savings from its recent acquisition of Electronic Data Systems Corp, the company said on Monday.

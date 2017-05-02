@@ -4,7 +4,7 @@
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [Gunmen storm a retirement home in Yemen, run by a charity established by Mother Teresa, killing 16 people, including four Catholic nuns.  ](/news/2016/03/4/gunmen-storm-a-retirement-home-in-yemen-run-by-a-charity-established-by-mother-teresa-killing-16-people-including-four-catholic-nuns.md)
-_Context: Mother Teresa, Yemen, Yemeni Civil War (2015–present)_
+_Context: Mother Teresa, Yemen, Yemeni Civil War (2015-present)_
 
 ### [A bomb explodes under a vehicle in Belfast injuring a prison officer; Dissident republicans have claimed responsibility. ](/news/2016/03/4/a-bomb-explodes-under-a-vehicle-in-belfast-injuring-a-prison-officer-dissident-republicans-have-claimed-responsibility.md)
 A bomb has exploded under a van in east Belfast, seriously injuring a prison officer - and police have warned it is part of a dissident republican plot to kill security forces in the le
@@ -21,7 +21,7 @@ _Context: Electricity, Syria, Syria's Electricity Ministry, electrical grid_
 ### [Five people, including an 18-month-old baby,  are missing from an Indonesian ferryboat traveling from Bali to East Java that sank in the Bali Strait; 76 people have been rescued. ](/news/2016/03/4/five-people-including-an-18-month-old-baby-are-missing-from-an-indonesian-ferryboat-traveling-from-bali-to-east-java-that-sank-in-the-bal.md)
 _Context: Bali, Bali Strait, East Java, Indonesia_
 
-### [The U.S. Navy dispatches a carrier strike group containing the {{sclass-|Nimitz|aircraft carrier|0}} nuclear-powered supercarrier {{USS|John C. Stennis}} to the South China Sea. ](/news/2016/03/4/the-u-s-navy-dispatches-a-carrier-strike-group-containing-the-sclass-nimitz-aircraft-carrier-0-nuclear-powered-supercarrier-uss-john.md)
+### [The U.S. Navy dispatches a carrier strike group containing the Nimitz|aircraft carrier|0 nuclear-powered supercarrier John C. Stennis to the South China Sea. ](/news/2016/03/4/the-u-s-navy-dispatches-a-carrier-strike-group-containing-the-nimitz-aircraft-carrier-0-nuclear-powered-supercarrier-john-c-stennis-to-the.md)
 The USS John C. Stennis arrived with three other ships Tuesday.
 
 ### [Japanese Prime Minister Shinzo Abe agrees  to suspend work to expand the U.S. military base on Okinawa Island. Abe says his government will follow the court recommendation and settle several lawsuits over landfill work  carried out to prepare for new runways. ](/news/2016/03/4/japanese-prime-minister-shinza-abe-agrees-to-suspend-work-to-expand-the-u-s-military-base-on-okinawa-island-abe-says-his-government-will.md)
@@ -46,7 +46,7 @@ The Supreme Court handed abortion rights advocates a victory Friday by blocking 
 Polling is underway in Samoa&#39;s general election.
 
 ### [Serbian President Tomislav Nikolic, at the request of Serbian Prime Minister Aleksandar Vucic, dissolves Serbia's parliament and calls for early elections to take place on April 24. ](/news/2016/03/4/serbian-president-tomislav-nikolia-at-the-request-of-serbian-prime-minister-aleksandar-vuaia-dissolves-serbia-s-parliament-and-calls-fo.md)
-_Context: Aleksandar Vučić, National Assembly, President, Prime Minster, Serbia, Serbian parliamentary election, 2016, Tomislav Nikolić_
+_Context: Aleksandar Vucic, National Assembly, President, Prime Minster, Serbia, Serbian parliamentary election, 2016, Tomislav Nikolic_
 
 ### [Ben Carson suspends his campaign for the Republican Party nomination. The expected announcement was made during a speech at the 2016 Conservative Political Action Conference (CPAC). ](/news/2016/03/4/ben-carson-suspends-his-campaign-for-the-republican-party-nomination-the-expected-announcement-was-made-during-a-speech-at-the-2016-conserv.md)
 Ben Carson announced Friday he is suspending his presidential campaign after a string of disappointing finishes in the Republican nominating contests.

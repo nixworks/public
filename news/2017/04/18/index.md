@@ -31,7 +31,7 @@ Two ‘radicalised’ French nationals held and guns also retrieved in Marseille
 A man shot and killed three people in downtown Fresno and shouted, “Allahu akbar,” before turning himself into authorities, the Fresno Police Department chief said.
 
 ### [With polls showing a close race with Emmanuel Macron and Jean-Luc Mlenchon, Marine Le Pen of the National Front pledges to temporarily suspend all immigration, "legal and illegal", to France. ](/news/2017/04/18/with-polls-showing-a-close-race-with-emmanuel-macron-and-jean-luc-melenchon-marine-le-pen-of-the-national-front-pledges-to-temporarily-susp.md)
-_Context: Emmanuel Macron, France, French presidential election, 2017, Jean-Luc M�lenchon, Marine Le Pen, National Front, immigration, "legal and illegal"_
+_Context: Emmanuel Macron, France, French presidential election, 2017, Jean-Luc Mlenchon, Marine Le Pen, National Front, immigration, "legal and illegal"_
 
 ### [British Prime Minster Theresa May proposes that a snap election for the House of Commons will be held on the 8th of June. A two-thirds majority of the House of Commons is needed to approve this, eventually tomorrow. The Labour and Liberal Democrats party leaders have expressed their support. ](/news/2017/04/18/british-prime-minster-theresa-may-proposes-that-a-snap-election-for-the-house-of-commons-will-be-held-on-the-8th-of-june-a-two-thirds-major.md)
 UK PM Theresa May announces plan to call snap general election on 8 June

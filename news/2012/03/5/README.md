@@ -28,7 +28,7 @@ _Context: Madagascar, Tropical Storm Irina_
 Israeli PM Benjamin Netanyahu tells US President Barack Obama that Israel must always remain &quot;master of its fate&quot;, as they meet for key talks on Iran.
 
 ### [Felipe Calderon, the President of Mexico, asks Joe Biden, the vice-President of the United States for assistance in stopping the flow of money and weapons into Mexico. ](/news/2012/03/5/felipe-caldera3n-the-president-of-mexico-asks-joe-biden-the-vice-president-of-the-united-states-for-assistance-in-stopping-the-flow-of-mo.md)
-_Context: Felipe Calderón, Joe Biden, President, U.S. Vice President_
+_Context: Felipe Calderon, Joe Biden, President, U.S. Vice President_
 
 ### [The Sea Shepherd anti-whaling organisation claims to have closed down Japan's main whaling ship, the ''Nisshin Maru'', deep inside the Southern Ocean off the Antarctic coast. ](/news/2012/03/5/the-sea-shepherd-anti-whaling-organisation-claims-to-have-closed-down-japan-s-main-whaling-ship-the-nisshin-maru-deep-inside-the-south.md)
 After a marathon pursuit, Sea Shepherd says it has found and shut down Japan&#039;s key whaling factory ship, Nisshin Maru, deep inside Australian Antarctic waters.

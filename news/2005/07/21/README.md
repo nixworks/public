@@ -7,7 +7,7 @@ _Context: Bombay Police, Maharashtra_
 _Context: President, constitution, lawmakers_
 
 ### [ German President Horst Khler agrees to dissolve parliament. He calls for earlier elections in mid-September 2005. ](/news/2005/07/21/german-president-horst-kohler-agrees-to-dissolve-parliament-he-calls-for-earlier-elections-in-mid-september-2005.md)
-_Context: Horst Köhler_
+_Context: Horst Khler_
 
 ### [ After a blitz of detentions of suspected militants and Islamists, Pakistan's President Pervez Musharraf calls for a holy war against preachers of hate and announces steps to curb militant Islamic schools and groups. ](/news/2005/07/21/after-a-blitz-of-detentions-of-suspected-militants-and-islamists-pakistan-s-president-pervez-musharraf-calls-for-a-holy-war-against-preach.md)
 _Context: Islamists, Pakistan, holy war_

@@ -1,7 +1,7 @@
 ## [2016-01-7](/news/2016/01/7/index.md)
 
 ### [At least 65 people are killed after a truck bomb hit a police training center in the Libyan town of Zliten. ](/news/2016/01/7/at-least-65-people-are-killed-after-a-truck-bomb-hit-a-police-training-center-in-the-libyan-town-of-zliten.md)
-_Context: Libyan, Libyan Civil War (2014–present), Zliten, Zliten truck bombing_
+_Context: Libyan, Libyan Civil War (2014-present), Zliten, Zliten truck bombing_
 
 ### [Gunmen open fire on tourists at a hotel close to the Giza pyramids. There were no casualties in the attack, which caused some damage to the hotel, and the attackers were arrested shortly afterwards. ](/news/2016/01/7/gunmen-open-fire-on-tourists-at-a-hotel-close-to-the-giza-pyramids-there-were-no-casualties-in-the-attack-which-caused-some-damage-to-the.md)
 Two masked gunmen opened fire at a hotel to the pyramids in Cairo as tourists boarded a coach outside, Egyptian security sources say.
@@ -10,7 +10,7 @@ Two masked gunmen opened fire at a hotel to the pyramids in Cairo as tourists bo
 Iran has accused Saudi Arabia of using warplanes to attack the Iranian embassy in the Yemeni capital Sana&#039;a. Some guards were reportedly wounded in the attack, according to state news channel IRIB. 
 
 ### [Tribal chair Charlotte Rodrique of the local Burns Paiute Tribe has joined in asking the occupiers to leave saying "The protesters have no claim to this land". Rodrique further cites a treaty, never ratified by the United States Congress, giving ownership of the land to the tribe. ](/news/2016/01/7/tribal-chair-charlotte-rodrique-of-the-local-burns-paiute-tribe-has-joined-in-asking-the-occupiers-to-leave-saying-the-protesters-have-no-c.md)
-_Context: Burns Paiute Tribe, Militia occupation of the Malheur National Wildlife Refuge, U.S. Congress_
+_Context: Burns Paiute Tribe, Militia occupation of the Malheur National Wildlife Refuge, U.S. Congressional_
 
 ### [French police shoot dead a knife-wielding man, who was shouting "Allahu Akbar", outside a police station in Goutte d'Or, located in the 18th arrondissement of Paris. A piece of paper with an Islamic State flag and claim for the attack written in Arabic was found on his body. The incident is noted for taking place on the anniversary of last year's ''Charlie Hebdo'' shooting. ](/news/2016/01/7/french-police-shoot-dead-a-knife-wielding-man-who-was-shouting-allahu-akbar-outside-a-police-station-in-goutte-d-or-located-in-the-18th.md)
 Paris police shoot dead a man carrying a meat cleaver exactly a year after the Charlie Hebdo massacre, as President Hollande promises to boost security.
@@ -19,7 +19,7 @@ Paris police shoot dead a man carrying a meat cleaver exactly a year after the C
 _Context: Democratic Republic of the Congo, Nigeria, The Church of Jesus Christ of Latter-day Saints, Vietnam, missions_
 
 ### [Trade is suspended on the Shanghai Stock Exchange and Shenzhen Stock Exchange for a second time in a week after share prices tumble following the devaluation of the yuan. ](/news/2016/01/7/trade-is-suspended-on-the-shanghai-stock-exchange-and-shenzhen-stock-exchange-for-a-second-time-in-a-week-after-share-prices-tumble-followin.md)
-_Context: 2015–16 Chinese stock market crisis, Shanghai Stock Exchange, Shenzhen Stock Exchange, yuan_
+_Context: 2015-16 Chinese stock market crisis, Shanghai Stock Exchange, Shenzhen Stock Exchange, yuan_
 
 ### [In the United States, a swarm of 30  (''and counting'') earthquakes of magnitude 2.5 or greater struck Oklahoma from Wednesday evening through Thursday mid-afternoon. The biggest, a magnitude  4.8, happened yesterday at 10:27 p.m. CST, 32 kilometers (20 miles) northwest of Fairview, Oklahoma. ](/news/2016/01/7/in-the-united-states-a-swarm-of-30-and-counting-earthquakes-of-magnitude-2-5-or-greater-struck-oklahoma-from-wednesday-evening-throu.md)
 Two of the stronger tremors in state history shook northwest Oklahoma. We have the latest.

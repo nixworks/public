@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ Eight National Army soldiers are killed during combat with the Revolutionary Armed Forces in Colombia. ](/news/2009/04/30/eight-national-army-soldiers-are-killed-during-combat-with-the-revolutionary-armed-forces-in-colombia.md) _Context: Colombia, Colombian armed conflict (1964–present)_
+1. [ Eight National Army soldiers are killed during combat with the Revolutionary Armed Forces in Colombia. ](/news/2009/04/30/eight-national-army-soldiers-are-killed-during-combat-with-the-revolutionary-armed-forces-in-colombia.md) _Context: Colombia, Colombian armed conflict (1964-present)_
 2. [Venezuelan authorities report 12 people were killed overnight  in the capital Caracas, mostly in the  El Valle working class neighborhood where 54 people, including newborn babies, were forced to evacuate a maternity hospital. Others have fled to Colombia. This  death toll during the three weeks of anti-government protests is 20. ](/news/2017/04/21/venezuelan-authorities-report-12-people-were-killed-overnight-in-the-capital-caracas-mostly-in-the-el-valle-working-class-neighborhood-wh.md) _Context: Colombia_
 3. [At least 17 people are killed after an Andean landslide strikes the Colombian city of Manizales. ](/news/2017/04/19/at-least-17-people-are-killed-after-an-andean-landslide-strikes-the-colombian-city-of-manizales.md) _Context: Colombia_
 4. [A landslide in Colombia's southwestern border department of Putumayo sends mud and debris crashing onto houses killing over 250 people and injuring at least 400 others. In addition, 200 people are missing. ](/news/2017/04/1/a-landslide-in-colombia-s-southwestern-border-department-of-putumayo-sends-mud-and-debris-crashing-onto-houses-killing-over-250-people-and-i.md) _Context: Colombia_

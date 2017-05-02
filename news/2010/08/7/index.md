@@ -49,13 +49,13 @@ Mumbai: The authorities on Sunday launched efforts on a war footing to combat an
 US PRESIDENT Barack Obama&rsquo;s popularity in the Arab world has plunged dramatically since he delivered his conciliatory address&hellip;
 
 ### [President of Iran Mahmoud Ahmadinejad and President of Guinea-Bissau Malam Bacai Sanh meet in Tehran. ](/news/2010/08/7/president-of-iran-mahmoud-ahmadinejad-and-president-of-guinea-bissau-malam-bacai-sanha-meet-in-tehran.md)
-_Context: Iranian President, Mahmoud Ahmadinejad, Malam Bacai Sanh√°, Tehran, acting president_
+_Context: Iranian President, Mahmoud Ahmadinejad, Malam Bacai Sanha, Tehran, acting president_
 
 ### [President of Colombia Juan Manuel Santos, in his inauguration speech, vows to improve relations with Ecuador and Venezuela. ](/news/2010/08/7/president-of-colombia-juan-manuel-santos-in-his-inauguration-speech-vows-to-improve-relations-with-ecuador-and-venezuela.md)
 _Context: Colombian President, Ecuador, Juan Manuel Santos, Venezuela_
 
 ### [A Turkish court annuls an arrest warrant issued against 102 military officers over an alleged coup plot in 2003. ](/news/2010/08/7/a-turkish-court-annuls-an-arrest-warrant-issued-against-102-military-officers-over-an-alleged-coup-plot-in-2003.md)
-_Context: Turkey, coup d'Ètat_
+_Context: Turkey, coup d'tat_
 
 ### [An appeals court in Iran upholds a five year jail sentence against the owner of Mehdi Karroubi's opposition website. ](/news/2010/08/7/an-appeals-court-in-iran-upholds-a-five-year-jail-sentence-against-the-owner-of-mehdi-karroubi-s-opposition-website.md)
 _Context: Iran, Mehdi Karroubi_

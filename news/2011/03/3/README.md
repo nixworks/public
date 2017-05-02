@@ -40,7 +40,7 @@ New Zealand rescue teams give up hope of finding more survivors from last week&#
 _Context: gorge_
 
 ### [The President of Mexico Felipe Caldern travels to Washington, D.C., to meet with the President of the United States Barack Obama, the Speaker of the United States House of Representatives and other leading political figures. ](/news/2011/03/3/the-president-of-mexico-felipe-calderon-travels-to-washington-d-c-to-meet-with-the-president-of-the-united-states-barack-obama-the-speak.md)
-_Context: Barack Obama, Felipe Calderón, President, Speaker of the United States House of Representatives_
+_Context: Barack Obama, Felipe Caldern, President, Speaker of the United States House of Representatives_
 
 ### [The United States reports that it has proof that Robert Levinson, a retired FBI agent missing in Iran since 2007, is alive. ](/news/2011/03/3/the-united-states-reports-that-it-has-proof-that-robert-levinson-a-retired-fbi-agent-missing-in-iran-since-2007-is-alive.md)
 _Context: FBI, Iran, Robert Levinson_

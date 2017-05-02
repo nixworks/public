@@ -49,10 +49,10 @@ A new rocket launches from the US eastern seaboard to prove its readiness to hel
 According to a new study, red squirrels born to mothers with high level of stress hormones are able to outcompete others for food and territories.
 
 ### [In Formula One, Sebastian Vettel wins the 2013 Bahrain Grand Prix ahead of Kimi Raikkonen and Romain Grosjean. ](/news/2013/04/21/in-formula-one-sebastian-vettel-wins-the-2013-bahrain-grand-prix-ahead-of-kimi-ra-ikkapnen-and-romain-grosjean.md)
-_Context: 2013 Bahrain Grand Prix, Formula One, Kimi Räikkönen, Romain Grosjean, Sebastian Vettel_
+_Context: 2013 Bahrain Grand Prix, Formula One, Kimi Raikkonen, Romain Grosjean, Sebastian Vettel_
 
 ### [In road bicycle racing, Daniel Martin wins 2013 Liege-Bastogne-Liege ahead of Joaquim Rodriguez and Alejandro Valverde. ](/news/2013/04/21/in-road-bicycle-racing-daniel-martin-wins-2013-lia-geabastognealia-ge-ahead-of-joaquim-rodraguez-and-alejandro-valverde.md)
-_Context: 2013 Liège–Bastogne–Liège, Alejandro Valverde, Daniel Martin, Joaquim Rodríguez, road bicycle racing_
+_Context: 2013 Liege-Bastogne-Liege, Alejandro Valverde, Daniel Martin, Joaquim Rodriguez, road bicycle racing_
 
 ### [In football, Central Coast Mariners defeat Western Sydney Wanderers 2-0 to win the 2013 A-League Grand Final and are crowned the 2012-13 A-League champions. ](/news/2013/04/21/in-football-central-coast-mariners-defeat-western-sydney-wanderers-2a0-to-win-the-2013-a-league-grand-final-and-are-crowned-the-2012a13.md)
 All the latest A-League news, videos, tickets and more
@@ -64,7 +64,7 @@ _Context: 2013 Monte-Carlo Rolex Masters, Novak Djokovic, Rafael Nadal, singles,
 _Context: 2013 London Marathon, Priscah Jeptoo, Tsegaye Kebede, athletics_
 
 ### [In volleyball, Russia wins the 2013 Boys' Youth European Volleyball Championship defeating Poland 3-1 in the final in Laktasi, Bosnia and Herzegovina. ](/news/2013/04/21/in-volleyball-russia-wins-the-2013-boys-youth-european-volleyball-championship-defeating-poland-3a1-in-the-final-in-laktaa-i-bosnia-and.md)
-_Context: 2013 Boys' Youth European Volleyball Championship, Bosnia and Herzegovina, Laktaši, Poland, Russia, volleyball_
+_Context: 2013 Boys' Youth European Volleyball Championship, Bosnia and Herzegovina, Laktasi, Poland, Russia, volleyball_
 
 ## [Previous Day...](/news/2013/04/20/index.md)
 

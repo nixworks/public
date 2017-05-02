@@ -10,7 +10,7 @@ The dead and injured were shifted to Civil Hospital Jacobabad, where an emergenc
 _Context: Aleppo, ISIL, Khanaser, Syrian Army, Syrian Civil War, Syrian Observatory for Human Rights_
 
 ### [At least nine people are killed and dozens injured in the eastern Libyan city of Benghazi after several mortar shells hit a protest against a UN proposal for a unity government to end the four-year long crisis in the country. ](/news/2015/10/23/at-least-nine-people-are-killed-and-dozens-injured-in-the-eastern-libyan-city-of-benghazi-after-several-mortar-shells-hit-a-protest-against.md)
-_Context: Benghazi, Libya, Libyan Civil War (2014–present), Libyan Crisis (2011–present), Mortar, United Nations_
+_Context: Benghazi, Libya, Libyan Civil War (2014-present), Libyan Crisis (2011-present), Mortar, United Nations_
 
 ### [Adele returns from a three-year hiatus with the new single "Hello" from the album ''25''. ](/news/2015/10/23/adele-returns-from-a-three-year-hiatus-with-the-new-single-hello-from-the-album-25.md)
 _Context: 25, Adele, Hello_
@@ -28,13 +28,13 @@ Mexico&#039;s president has warned residents not to lower their guard after Hurr
 Coach carrying pensioners on a day trip collides with truck, causing ‘gigantic blaze’ near town 40 miles east of Bordeaux
 
 ### [Kuwait and France sealed a deal whereby the Gulf nation will upgrade its defense capabilities with $2.8 billion worth of military equipment. Defense experts cite the ongoing conflict in Iraqi Civil War, the June 2015 terror attack claimed by ISIS in Kuwait City, and a reluctance by the U.S. to supply Kuwait as reasons for the deal. ](/news/2015/10/23/kuwait-and-france-sealed-a-deal-whereby-the-gulf-nation-will-upgrade-its-defense-capabilities-with-2-8-billion-worth-of-military-equipment.md)
-_Context: France, Gulf Arab states, ISIS, Iraqi Civil War (2014–present), June 2015 terror attack, Kuwait, Kuwait City, United States_
+_Context: France, Gulf Arab states, ISIS, Iraqi Civil War (2014-present), June 2015 terror attack, Kuwait, Kuwait City, United States_
 
 ### [The president of Zimbabwe, Robert Mugabe, is awarded the Confucius Peace Prize, sometimes characterized as a Chinese alternative to the Nobel Peace Prize. ](/news/2015/10/23/the-president-of-zimbabwe-robert-mugabe-is-awarded-the-confucius-peace-prize-sometimes-characterized-as-a-chinese-alternative-to-the-nobe.md)
 Confucius peace prize chairman defends decision to give award to leader accused of using systematic violence and torture to maintain grip on power
 
 ### [Swedish police claim that the deceased attacker was driven by "racist motives". ](/news/2015/10/23/swedish-police-claim-that-the-deceased-attacker-was-driven-by-racist-motives.md)
-_Context: Swedish police, Trollhättan school attack_
+_Context: Swedish police, Trollhattan school attack_
 
 ### [Police in Bamberg, Germany arrested three people said to be involved in a far-right extremist terror plot to attack refugee shelters, shelter staff and public officials supportive of refugees. ](/news/2015/10/23/police-in-bamberg-germany-arrested-three-people-said-to-be-involved-in-a-far-right-extremist-terror-plot-to-attack-refugee-shelters-shelte.md)
 The discovery comes as a leaked police report suggests far-Right nationalists could attackc refugees as well as political leaders supportive of them

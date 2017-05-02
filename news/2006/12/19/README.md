@@ -13,7 +13,7 @@ _Context: Kazakh President, Nursultan Nazarbayev's, Tehran, drug trafficking, te
 _Context: Fatah, Gaza Strip, Hamas, Palestinian, Palestinian civil skirmishes_
 
 ### [ Hugo Chvez announces his plans to merge the parties which support the Bolivarian Revolution into the United Socialist Party of Venezuela. ](/news/2006/12/19/hugo-chavez-announces-his-plans-to-merge-the-parties-which-support-the-bolivarian-revolution-into-the-united-socialist-party-of-venezuela.md)
-_Context: Bolivarian Revolution, Hugo Chávez, United Social Party of Venezuela_
+_Context: Bolivarian Revolution, Hugo Chvez, United Social Party of Venezuela_
 
 ### [ Further cases of patients and staff infected with a new strain of MRSA are revealed in a UK hospital after two people die from the superbug. ](/news/2006/12/19/further-cases-of-patients-and-staff-infected-with-a-new-strain-of-mrsa-are-revealed-in-a-uk-hospital-after-two-people-die-from-the-superbug.md)
 News and opinion from The Times &amp; The Sunday Times

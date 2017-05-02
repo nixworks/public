@@ -52,7 +52,7 @@ _Context: Arizona, Yuma County_
 _Context: California, Kidnapping of Jaycee Lee Dugard_
 
 ### [Presidential elections in Latvia. Andris Berzins won the election. [http://www.google.com/hostednews/canadianpress/article/ALeqM5h7Fn4phdTPXHp45GeSmGMx6DhTiA?docId=7021348]](/news/2011/06/2/presidential-elections-in-latvia-andris-barziaa-won-the-election-http-www-google-com-hostednews-canadianpress-article-aleqm5h7fn4phd.md)
-_Context: Andris Bērziņš, Latvia, Presidential elections_
+_Context: Andris Berzins, Latvia, Presidential elections_
 
 ### [Japanese politicsPrime Minister of Japan Naoto Kan survives a no-confidence motion in the Diet ](/news/2011/06/2/japanese-politicspprime-minister-of-japan-naoto-kan-survives-a-no-confidence-motion-in-the-diet.md)
 Embattled Japanese Prime MinisterNaoto Kan, at risk of losing a no-confidence vote in parliamentlater on Thursday, will resign in the autumn or later, privatebroadcaster TBS reported.

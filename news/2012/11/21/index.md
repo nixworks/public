@@ -28,7 +28,7 @@ A Yemeni military plane has crashed in the capital, Sanaa, killing all 10 people
 India has hanged Mohammad Ajmal Kasab, the only militant to have survived the 2008 attacks on the financial capital Mumbai.
 
 ### [Puerto Rican professional boxer Hector Camacho is shot multiple times in Bayamon, Puerto Rico. The driver of Camacho's car is killed in the attack. Camacho was shot in the neck and face and taken to St. Paul's Hospital in Rio Piedras, where he was pronounced to be in critical condition shortly thereafter. ](/news/2012/11/21/puerto-rican-professional-boxer-ha-c-ctor-camacho-is-shot-multiple-times-in-bayamon-puerto-rico-the-driver-of-camacho-s-car-is-killed-in-the.md)
-_Context: Bayamon, Héctor Camacho, Puerto Rican, Puerto Rico, Río Piedras, boxing_
+_Context: Bayamon, Hector Camacho, Puerto Rican, Puerto Rico, Rio Piedras, boxing_
 
 ### [President of Ireland Michael D. Higgins calls for an investigation into the death of Savita Halappanavar to meet the needs of a "concerned public" as Savita's husband Praveen continues his battle against Ireland's government and the Health Service Executive (HSE) to hold a sworn, public inquiry into her death, which he believes occurred due to her being denied an abortion. ](/news/2012/11/21/president-of-ireland-michael-d-higgins-calls-for-an-investigation-into-the-death-of-savita-halappanavar-to-meet-the-needs-of-a-concerned-p.md)
 _Context: Health Service Executive, Ireland, Irish government, Michael D. Higgins, President, abortion, abortion, abortion scandal_
@@ -40,7 +40,7 @@ Rep. Jesse Jackson Jr. will announce his resignation from Congress &quot;momenta
 THE robot which can withstand high radiation, can be controlled via a wireless network and is able to climb over debris.
 
 ### [Roberto Di Matteo is sacked by Chelsea F.C. after a 2012-13 UEFA Champions League defeat 0-3 to Juventus F.C. left them in danger of becoming the first title holders to exit the competition in the group stage. Di Matteo managed Chelsea to their first ever Champions League title in Munich last May. Rafael Benitez appointed Chelsea interim manager until end of season. ](/news/2012/11/21/roberto-di-matteo-is-sacked-by-chelsea-f-c-after-a-2012a13-uefa-champions-league-defeat-0-3-to-juventus-f-c-left-them-in-danger-of-becom.md)
-_Context: 2012–13 Premier League, 2012–13 UEFA Champions League, Chelsea F.C., Juventus, Munich, Rafael Benítez, Roberto Di Matteo, UEFA Champions League, group stage, last May, title holders_
+_Context: 2012-13 Premier League, 2012-13 UEFA Champions League, Chelsea F.C., Juventus, Munich, Rafael Benitez, Roberto Di Matteo, UEFA Champions League, group stage, last May, title holders_
 
 ### [The 2012-13 UEFA Europa League game between Hapoel Ironi Kiryat Shmona F.C. and Athletic Bilbao which was scheduled to take place on 22 November at the Kiryat Eliezer Stadium in Haifa is postponed by UEFA due to the tense security situation in the region. ](/news/2012/11/21/the-2012a13-uefa-europa-league-game-between-hapoel-ironi-kiryat-shmona-f-c-and-athletic-bilbao-which-was-scheduled-to-take-place-on-22-no.md)
 Following a meeting of the UEFA Emergency Panel, the UEFA Europa League game between Hapoel Kiryat Shmona FC and Athletic Club has been postponed for security reasons.

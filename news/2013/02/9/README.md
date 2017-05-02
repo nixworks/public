@@ -34,7 +34,7 @@ German Education Minister Annette Schavan resigns after a university stripped he
 Hundreds of thousands rally in Bangladesh to demand the death penalty for a political leader convicted of war crimes from the 1971 independence war.
 
 ### [In the 2012-13 La Liga, Real Madrid defeated Sevilla 4-1 in a game played at the Santiago Bernabeu Stadium in Madrid. Cristiano Ronaldo scored a hat-trick. ](/news/2013/02/9/in-the-2012a13-la-liga-real-madrid-defeated-sevilla-4a1-in-a-game-played-at-the-santiago-bernaba-c-u-stadium-in-madrid-cristiano-ronaldo.md)
-_Context: 2012–13 La Liga, Cristiano Ronaldo, Madrid, Real Madrid, Santiago Bernabéu Stadium, Sevilla FC, hat-trick_
+_Context: 2012-13 La Liga, Cristiano Ronaldo, Madrid, Real Madrid, Santiago Bernabeu Stadium, Sevilla FC, hat-trick_
 
 ## [Previous Day...](/news/2013/02/8/index.md)
 

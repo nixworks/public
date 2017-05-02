@@ -7,7 +7,7 @@ Only one of those Americans, Anwar al-Awlaki, was targeted for his involvement i
 _Context: Mississippi River, St. Louis Park, Minnesota, St. Paul, Minnesota_
 
 ### [Prime Minister elect of Iceland, Sigmundur Dav Gunnlaugsson, declares that a January decision to freeze European Union membership talks will be extended indefinitely. ](/news/2013/05/22/prime-minister-elect-of-iceland-sigmundur-david-gunnlaugsson-declares-that-a-january-decision-to-freeze-european-union-membership-talks-wi.md)
-_Context: European Union membership talks, Iceland, Sigmundur Davíð Gunnlaugsson_
+_Context: European Union membership talks, Iceland, Sigmundur Dav Gunnlaugsson_
 
 ### [North Korean leader Kim Jong-un dispatches a special envoy to the People's Republic of China amid signs of strained relations. ](/news/2013/05/22/north-korean-leader-kim-jong-un-dispatches-a-special-envoy-to-the-people-s-republic-of-china-amid-signs-of-strained-relations.md)
 Kim Jong-un sent a top official to China as ties between the two countries remained strained over Pyongyangâ€™s nuclear program.

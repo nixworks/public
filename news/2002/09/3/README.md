@@ -4,7 +4,7 @@
 _Context: Nikkei, Stock market downturn of 2002_
 
 ### [ 2002 US Open: Lindsay Davenport defeated Yelena Bovina to advance to the semi-finals against the winner of Serena Williams vs. Daniela Hantuchov; Monica Seles defeated Martina Hingis to advance to the quarter-finals against Venus Williams.](/news/2002/09/3/2002-us-open-lindsay-davenport-defeated-yelena-bovina-to-advance-to-the-semi-finals-against-the-winner-of-serena-williams-vs-daniela-hant.md)
-_Context: 2002 US Open, Daniela Hantuchová, Lindsay Davenport, Martina Hingis, Monica Seles, Serena Williams, Venus Williams, Yelena Bovina_
+_Context: 2002 US Open, Daniela Hantuchov, Lindsay Davenport, Martina Hingis, Monica Seles, Serena Williams, Venus Williams, Yelena Bovina_
 
 ## [Previous Day...](/news/2002/09/2/index.md)
 

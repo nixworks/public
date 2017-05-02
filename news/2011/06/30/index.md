@@ -28,7 +28,7 @@ _Context: Iraq, Iraq War, Iraqi insurgency, United States_
 _Context: Fox News, Glenn Beck_
 
 ### [The Beijing-Shanghai High-Speed Railway commences commercial operation in the People's Republic of China. ](/news/2011/06/30/the-beijingashanghai-high-speed-railway-commences-commercial-operation-in-the-people-s-republic-of-china.md)
-_Context: Beijing–Shanghai High-Speed Railway, China's_
+_Context: Beijing-Shanghai High-Speed Railway, China's_
 
 ### [The Japanese auto industry begins designated weekday shutdowns as part of an effort to save energy as a result of the Fukushima Daiichi nuclear disaster. ](/news/2011/06/30/the-japanese-auto-industry-begins-designated-weekday-shutdowns-as-part-of-an-effort-to-save-energy-as-a-result-of-the-fukushima-daiichi-nucl.md)
 _Context: Fukushima Daiichi nuclear disaster, automakers_
@@ -115,7 +115,7 @@ Labour wins the Inverclyde by-election but its majority is more than halved.
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [In tennis, Petra Kvitova defeats Victoria Azarenka to reach her first Grand Slam final at Wimbledon. ](/news/2011/06/30/in-tennis-petra-kvitova-defeats-victoria-azarenka-to-reach-her-first-grand-slam-final-at-wimbledon.md)
-_Context: Grand Slam, Petra Kvitová, Victoria Azarenka, Wimbledon, tennis_
+_Context: Grand Slam, Petra Kvitova, Victoria Azarenka, Wimbledon, tennis_
 
 ### [Owners in the North American National Basketball Association are expected to start a lockout after failing to reach a new collective bargaining agreement. ](/news/2011/06/30/owners-in-the-north-american-national-basketball-association-are-expected-to-start-a-lockout-after-failing-to-reach-a-new-collective-bargain.md)
 NBA owners expected to lock out players at midnight after both sides fail to agree on new CBA.

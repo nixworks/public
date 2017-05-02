@@ -1,6 +1,6 @@
 ### [2008-10-1](/news/2008/10/1/index.md)
 
-#  Russia's supreme court declares the imperial dynasty victims of political repression, marking the official rehabilitation of the house of Romanov. The decision overturns a lower court ruling that classified the killings as plain murder, and exonerates Emperor Nicholas II and his family of the alleged crimes the Bolshevik regime used to justify their killing. [http://africa.reuters.com/world/news/usnTRE4901WV.html (Reuters)]{{dead link|date=June 2015}}
+#  Russia's supreme court declares the imperial dynasty victims of political repression, marking the official rehabilitation of the house of Romanov. The decision overturns a lower court ruling that classified the killings as plain murder, and exonerates Emperor Nicholas II and his family of the alleged crimes the Bolshevik regime used to justify their killing. [http://africa.reuters.com/world/news/usnTRE4901WV.html (Reuters)]date=June 2015
 
 
 

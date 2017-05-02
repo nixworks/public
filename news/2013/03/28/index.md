@@ -7,7 +7,7 @@ Six gunmen and one policeman die in fierce gunbattles during raid by mob on casi
 _Context: Democratic Republic of the Congo, M23 rebellion, United Nations Security Council_
 
 ### [South Sudan internal conflict (2011-present):A battle for an airstrip in Pibor County kills 143 rebels and 20 government troops. The rebels reportedly belong to a group led by David Yau Yau. ](/news/2013/03/28/south-sudan-internal-conflict-2011apresent-pa-battle-for-an-airstrip-in-pibor-county-kills-143-rebels-and-20-government-troops-the-rebe.md)
-_Context: David Yau Yau, Pibor County, South Sudan internal conflict (2011–present)_
+_Context: David Yau Yau, Pibor County, South Sudan internal conflict (2011-present)_
 
 ### [Syrian civil war:Mortar fire hits Damascus University cafeteria section killing 15 students and injuring 7 others. ](/news/2013/03/28/syrian-civil-war-pmortar-fire-hits-damascus-university-cafeteria-section-killing-15-students-and-injuring-7-others.md)
 Mortar fire hits the University of Damascus, killing 15 students and wounding several others, Syrian state media say.

@@ -1,7 +1,7 @@
 ## [2016-09-26](/news/2016/09/26/index.md)
 
 ### [Colombian President Juan Manuel Santos and FARC guerrilla leader Rodrigo Londono, also known as Timochenko, sign a peace accord in Cartagena, ending the longest running armed conflict in the Western Hemisphere. The final agreement will be submitted to popular ratification in a referendum on October 2.](/news/2016/09/26/colombian-president-juan-manuel-santos-and-farc-guerrilla-leader-rodrigo-londoa-o-also-known-as-timochenko-sign-a-peace-accord-in-cartagen.md)
-_Context: Cartagena, Colombia, Colombian conflict, Colombian peace agreement referendum, 2016, Colombian peace process, FARC, Juan Manuel Santos, Rodrigo Londoño, Rodrigo Londoño_
+_Context: Cartagena, Colombia, Colombian conflict, Colombian peace agreement referendum, 2016, Colombian peace process, FARC, Juan Manuel Santos, Rodrigo Londono, Rodrigo Londono_
 
 ### [Taiwan braces for the potential impact of Typhoon Megi which is strengthening as it approaches the island. ](/news/2016/09/26/taiwan-braces-for-the-potential-impact-of-typhoon-megi-which-is-strengthening-as-it-approaches-the-island.md)
 Typhoon Megi will threaten lives and property across Taiwan and eastern China into the middle of the week.

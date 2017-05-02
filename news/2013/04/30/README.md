@@ -4,7 +4,7 @@
 _Context: Damascus, Syrian Civil War_
 
 ### [War in Afghanistan (2001-present):A roadside bomb kills three members of NATO's ISAF force in Afghanistan. ](/news/2013/04/30/war-in-afghanistan-2001apresent-pa-roadside-bomb-kills-three-members-of-nato-s-isaf-force-in-afghanistan.md)
-_Context: Afghanistan, ISAF, NATO, War in Afghanistan (2001–present)_
+_Context: Afghanistan, ISAF, NATO, War in Afghanistan (2001-present)_
 
 ### [2013 Savar building collapse:Police in Dhaka clash with factory workers protesting the disaster and advocating for capital punishment to be administered to the factory's owner. ](/news/2013/04/30/2013-savar-building-collapse-ppolice-in-dhaka-clash-with-factory-workers-protesting-the-disaster-and-advocating-for-capital-punishment-to-be.md)
 Bangladeshi police use batons to disperse hundreds of angry factory workers calling for the death penalty for the owner of a collapsed building.

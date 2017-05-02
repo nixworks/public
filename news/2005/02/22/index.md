@@ -22,13 +22,13 @@ _Context: European Union, Robert Mugabe, Zimbabwe_
 _Context: Nigeria, Olusegun Obasanjo, constitution_
 
 ### [ In Togo, the National Assembly reverses constitutional changes that allowed Faure Gnassingb to become president ](/news/2005/02/22/in-togo-the-national-assembly-reverses-constitutional-changes-that-allowed-faure-gnassingbe-to-become-president.md)
-_Context: Faure Gnassingbé, Togo, constitution_
+_Context: Faure Gnassingb, Togo, constitution_
 
 ### [ North Korea hints that it may be willing to return to nuclear negotiations under unspecified conditions ](/news/2005/02/22/north-korea-hints-that-it-may-be-willing-to-return-to-nuclear-negotiations-under-unspecified-conditions.md)
 _Context: North Korea_
 
 ### [ In Bolivia, former president Gonzalo Snchez de Lozada and his cabinet are formally charged with genocide. The charge is related to deaths of 60 people who protested against government plans to export natural gas ](/news/2005/02/22/in-bolivia-former-president-gonzalo-sanchez-de-lozada-and-his-cabinet-are-formally-charged-with-genocide-the-charge-is-related-to-deaths.md)
-_Context: Bolivia, Gonzalo Sánchez de Lozada, genocide, natural gas_
+_Context: Bolivia, Gonzalo Snchez de Lozada, genocide, natural gas_
 
 ### [ Japanese cabinet is considering whether to announce Princess Aiko as the next in line to the Japanese throne ](/news/2005/02/22/japanese-cabinet-is-considering-whether-to-announce-princess-aiko-as-the-next-in-line-to-the-japanese-throne.md)
 _Context: Japan, Princess Aiko_

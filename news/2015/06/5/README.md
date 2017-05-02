@@ -7,7 +7,7 @@ _Context: Nigeria, Yola_
 _Context: Diyarbakir, Kurdish, Peoples' Democratic Party, election in June_
 
 ### [Nestl temporarily removes its Maggi noodles product from the shelves in India following a health scare. ](/news/2015/06/5/nestle-temporarily-removes-its-maggi-noodles-product-from-the-shelves-in-india-following-a-health-scare.md)
-_Context: India, Maggi, Nestlé, noodles_
+_Context: India, Maggi, Nestl, noodles_
 
 ### [The death toll from the sinking of the ship on the Yangtze River rises to 82 with officials giving up hope of finding more survivors. Only 15 out of over 450 people on the boat were rescued. ](/news/2015/06/5/the-death-toll-from-the-sinking-of-the-ship-on-the-yangtze-river-rises-to-82-with-officials-giving-up-hope-of-finding-more-survivors-only-1.md)
 _Context: Sinking of the ''Dong Fang Zhi Xing'', Yangtze River_

@@ -31,7 +31,7 @@ _Context: Jaffna, Sri Lanka, Tamil Tigers_
 _Context: London, Luton, Terrorism Act, UK_
 
 ### [ Foreign Minister of Turkey Abdullah Gl is nominated as the AK Party candidate for President of Turkey. ](/news/2007/04/24/foreign-minister-of-turkey-abdullah-gul-is-nominated-as-the-ak-party-candidate-for-president-of-turkey.md)
-_Context: Abdullah Gül, Foreign Minister, President, Turkey, ruling party_
+_Context: Abdullah Gl, Foreign Minister, President, Turkey, ruling party_
 
 ### [ Toyota overtakes General Motors in global vehicle sales from January to March as a result of increased demand for fuel-efficient cars. ](/news/2007/04/24/toyota-overtakes-general-motors-in-global-vehicle-sales-from-january-to-march-as-a-result-of-increased-demand-for-fuel-efficient-cars.md)
 _Context: General Motors, Toyota, fuel-efficient car_

@@ -26,7 +26,7 @@ Actress Patricia Neal, who won an Oscar for her role in the 1963 film Hud and wa
 Japanese car maker Honda is recalling more than 384,000 vehicles in the US because of problems with the ignition.
 
 ### [Mexicana de Aviacion cancels flights to and from Europe and the Americas as it goes bankrupt. ](/news/2010/08/9/mexicana-de-aviacia3n-cancels-flights-to-and-from-europe-and-the-americas-as-it-goes-bankrupt.md)
-_Context: Mexicana de Aviación_
+_Context: Mexicana de Aviacion_
 
 ### [Luxembourg's Skype files for an initial public offering in the United States. ](/news/2010/08/9/luxembourg-s-skype-files-for-an-initial-public-offering-in-the-united-states.md)
 Internet phone firm Skype files for an initial public offering in the US, hoping to raise $100m through the flotation.
@@ -92,7 +92,7 @@ Sudan halts BBC Arabic broadcasts on FM radio stations in four northern cities, 
 Paul Kagame expected to be re-elected president as opposition claims intimidation.
 
 ### [Vice-President of Colombia Angelino Garzon gets sick two days into his term. ](/news/2010/08/9/vice-president-of-colombia-angelino-garza3n-gets-sick-two-days-into-his-term.md)
-_Context: Angelino Garzón_
+_Context: Angelino Garzon_
 
 ### [Prime Minister of the Solomon Islands Derek Sikua retains his seat in his North East Guadalcanal constituency as vote tallying continues in the general election. (Solomon Times)](/news/2010/08/9/prime-minister-of-the-solomon-islands-derek-sikua-retains-his-seat-in-his-north-east-guadalcanal-constituency-as-vote-tallying-continues-in.md)
 _Context: 2010 general election, Derek Sikua, North East Guadalcanal, Prime Minister, Solomon Islands, constituency_

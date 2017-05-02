@@ -3,7 +3,7 @@
 ### [ A revolutionary scramjet jet engine designed to fly at seven times sonic speed is successfully tested in Australia. ](/news/2006/03/25/a-revolutionary-scramjet-jet-engine-designed-to-fly-at-seven-times-sonic-speed-is-successfully-tested-in-australia.md)
 _Context: Scramjet, jet engine_
 
-### [ Canada's annual seal hunt has begun, amid international appeals for an end to the controversial cull of up to 325,000 young harp seal pups.  The Canadian government says the cull, which reportedly earns C$16.5 million ({{Nowrap|8.3 million}}) in meat and pelt sales, is also necessary to control seal numbers. ](/news/2006/03/25/canada-s-annual-seal-hunt-has-begun-amid-international-appeals-for-an-end-to-the-controversial-cull-of-up-to-325-000-young-harp-seal-pups.md)
+### [ Canada's annual seal hunt has begun, amid international appeals for an end to the controversial cull of up to 325,000 young harp seal pups.  The Canadian government says the cull, which reportedly earns C$16.5 million (8.3 million) in meat and pelt sales, is also necessary to control seal numbers. ](/news/2006/03/25/canada-s-annual-seal-hunt-has-begun-amid-international-appeals-for-an-end-to-the-controversial-cull-of-up-to-325-000-young-harp-seal-pups.md)
 _Context: Canada's annual seal hunt, cull, harp seal, pelt_
 
 ### [ An explosion at a French university chemical research facility kills one professor. The cause is unknown. ](/news/2006/03/25/an-explosion-at-a-french-university-chemical-research-facility-kills-one-professor-the-cause-is-unknown.md)

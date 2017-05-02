@@ -49,7 +49,7 @@ _Context: North Carolina, Transgender rights in the United States, chief executi
 The U.S. Supreme Court today asked new questions in one of the term&#x27;s most contentious cases, involving the contraceptive requirements of Obamacare.
 
 ### [Samuel Moreno Rojas, the former mayor of the Colombian capital Bogota, is jailed for 18 years for taking bribes to award ambulance contracts. ](/news/2016/03/29/samuel-moreno-rojas-the-former-mayor-of-the-colombian-capital-bogota-is-jailed-for-18-years-for-taking-bribes-to-award-ambulance-contracts.md)
-_Context: Bogotá, Colombia, Samuel Moreno Rojas_
+_Context: Bogota, Colombia, Samuel Moreno Rojas_
 
 ### [El Salvador declares a state of emergency in seven prisons and transfers 299 prisoners in a crackdown on gang violence. ](/news/2016/03/29/el-salvador-declares-a-state-of-emergency-in-seven-prisons-and-transfers-299-prisoners-in-a-crackdown-on-gang-violence.md)
 ‘Extraordinary measures’ include transfering of 299 high-ranking gang members, putting inmates on lockdown and suspending family visits for 15 days
@@ -70,7 +70,7 @@ Donald Trump, Ted Cruz and John Kasich all backed away from earlier pledges to s
 Two police officers were killed and four wounded on Tuesday in the western Venezuelan city of San Cristobal after they were hit by a bus driven by young men protesting a hike in public transport fares, according to government officials and Reuters witnesses.
 
 ### [U.S. Federal Communications Commissioner Michael O'Rielly says, during a speech at the American Action Forum, that Netflix's admission last week that it has been intentionally slowing its video streaming transmission on some wireless mobile carriers for five years "deeply disturbing" which might warrant an investigation by the Federal Trade Commission and/or Congress. ](/news/2016/03/29/u-s-federal-communications-commissioner-michael-o-rielly-says-during-a-speech-at-the-american-action-forum-that-netflix-s-admission-last.md)
-_Context: American Action Forum, Federal Communications Commission's, Michael O'Rielly, Netflix, U.S. Congress, U.S. Federal Trade Commission_
+_Context: American Action Forum, Federal Communications Commission's, Michael O'Rielly, Netflix, U.S. Congressional, U.S. Federal Trade Commission_
 
 ## [Previous Day...](/news/2016/03/28/index.md)
 

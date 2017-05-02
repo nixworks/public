@@ -16,7 +16,7 @@ _Context: Boko Haram, Islamist, Maiduguri, Nigeria, Nigerian Sharia conflict_
 _Context: (How Much Is That) Doggie In The Window, 1950s, American, Encinitas, California, Patti Page, Tennessee Waltz, pop_
 
 ### [2013 Houphouet-Boigny stampede: At least 60 people are killed and more than 200 injured in a stampede during a New Year's fireworks celebration near the Stade Felix Houphouet-Boigny in Abidjan, Ivory Coast. ](/news/2013/01/1/2013-houphoua-t-boigny-stampede-at-least-60-people-are-killed-and-more-than-200-injured-in-a-stampede-during-a-new-year-s-fireworks-celebra.md)
-_Context: 2013 Houphouët-Boigny stampede, Abidjan, Ivory Coast, New Year, Stade Félix Houphouët-Boigny, fireworks, stampede_
+_Context: 2013 Houphouet-Boigny stampede, Abidjan, Ivory Coast, New Year, Stade Felix Houphouet-Boigny, fireworks, stampede_
 
 ### [Royal Dutch Shell's drilling rig ''Kulluk'' drifts aground near Sitkalidak Island, Alaska, after breaking loose from the anchor handling tug ''Aiviq''. ](/news/2013/01/1/royal-dutch-shell-s-drilling-rig-kulluk-drifts-aground-near-sitkalidak-island-alaska-after-breaking-loose-from-the-anchor-handling-tug.md)
 Days of efforts trying to guide a mobile offshore drilling rig through stormy Alaska seas hit a crisis Monday night when crew members were forced to disconnect the rig from its last remaining tow...
@@ -25,7 +25,7 @@ Days of efforts trying to guide a mobile offshore drilling rig through stormy Al
 A minibus and a coach packed with pilgrims collided on Tuesday in western Senegal, killing at least 18 people and leaving another 16 wounded, emergency services said.
 
 ### [Ten people are killed and 120 injured in a stampede in Luanda, Angola, as they tried to enter an overcrowded Estadio da Cidadela for a New Year's Eve vigil. ](/news/2013/01/1/ten-people-are-killed-and-120-injured-in-a-stampede-in-luanda-angola-as-they-tried-to-enter-an-overcrowded-esta-dio-da-cidadela-for-a-new.md)
-_Context: Angola, Estádio da Cidadela, Luanda, New Year's Eve, vigil_
+_Context: Angola, Estadio da Cidadela, Luanda, New Year's Eve, vigil_
 
 ### [Argentina, Australia, Luxembourg, Rwanda and South Korea join the UN Security Council. ](/news/2013/01/1/argentina-australia-luxembourg-rwanda-and-south-korea-join-the-un-security-council.md)
 Rwanda has warned it will not tolerate attempts to blame it for a rebel insurgency in the Democratic Republic of the Congo.

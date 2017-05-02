@@ -28,7 +28,7 @@ Flood waters on Tuesday ripped through a retirement community in northwestern Ar
 _Context: Armenian, Turkey, U.S. House, genocide of Armenians_
 
 ### [The United States Senate votes to ratify the New START Treaty with the Russia, which halves the number of deployed strategic nuclear missile launchers maintained by each nation. ](/news/2010/12/22/the-united-states-senate-votes-to-ratify-the-new-start-treaty-with-the-russia-which-halves-the-number-of-deployed-strategic-nuclear-missile.md)
-_Context: New START Treaty, Russia, Senator, nuclear missile_
+_Context: New START Treaty, Russia, United States Senate, nuclear missile_
 
 ### [The United Nations votes in favour of restoring a reference to sexual orientation in a resolution banning the unjustified killing of minority groups. ](/news/2010/12/22/the-united-nations-votes-in-favour-of-restoring-a-reference-to-sexual-orientation-in-a-resolution-banning-the-unjustified-killing-of-minorit.md)
 The UN votes to restore a reference to sexual orientation in a resolution against the unjustified killing of minority groups, after heavy US pressure.
@@ -65,7 +65,7 @@ Fresh secret recording released by a newspaper shows Liberal Democrat ministers 
 Tory MP Zac Goldsmith will not be reported to police over allegations related to his election spending, the Electoral Commission says.
 
 ### [Montenegrin Prime Minister Milo Dukanovic resigns, citing a need for new leadership, and his intentions to turn to business. ](/news/2010/12/22/montenegrin-prime-minister-milo-aukanovia-resigns-citing-a-need-for-new-leadership-and-his-intentions-to-turn-to-business.md)
-_Context: Milo Đukanović, Montenegro, Prime Minister_
+_Context: Milo Dukanovic, Montenegro, Prime Minister_
 
 ### [Two eight-year-olds publish a significant peer-reviewed study in the Biology Letters journal of the Royal Society, examining the spatial memory of bumblebees. ](/news/2010/12/22/two-eight-year-olds-publish-a-significant-peer-reviewed-study-in-the-biology-letters-journal-of-the-royal-society-examining-the-spatial-mem.md)
 _Context: Biology Letters, Royal Society, bumblebee, peer-reviewed, spatial memory_

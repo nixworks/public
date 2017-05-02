@@ -82,7 +82,7 @@ The human remains found in North Carolina Wednesday were confirmed to be those o
 Ethnic Karen armies have united as fresh fighting erupts on Thai-Myanmar border.
 
 ### [Jos Alencar, Vice-President and current Acting President of Brazil in the absence of Luiz Incio Lula da Silva, is taken to the Sirio Libanes hospital in So Paulo following a heart attack. ](/news/2010/11/12/jose-alencar-vice-president-and-current-acting-president-of-brazil-in-the-absence-of-luiz-inacio-lula-da-silva-is-taken-to-the-sirio-liban.md)
-_Context: José Alencar, Luiz Inácio Lula da Silva, Sao Paulo_
+_Context: Jos Alencar, Luiz Incio Lula da Silva, Sao Paulo_
 
 ### [Former Prime Minister of Israel Ariel Sharon is taken home from hospital still in a comatose state. ](/news/2010/11/12/former-prime-minister-of-israel-ariel-sharon-is-taken-home-from-hospital-still-in-a-comatose-state.md)
 _Context: Ariel Sharon, Prime Minister of Israel_

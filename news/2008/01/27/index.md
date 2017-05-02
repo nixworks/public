@@ -7,7 +7,7 @@ _Context: Kenya, post-election violence_
 _Context: Chang Chun-hsiung, Chen Shui-bian, Premier, President of Taiwan, Taiwan_
 
 ### [ War in Pakistan (2004-present): Troops close in on Darra Adam Khel in Pakistan after fierce clashes. ](/news/2008/01/27/war-in-pakistan-2004apresent-troops-close-in-on-darra-adam-khel-in-pakistan-after-fierce-clashes.md)
-_Context: Darra Adam Khel, Pakistan, War in Pakistan (2004–present)_
+_Context: Darra Adam Khel, Pakistan, War in Pakistan (2004-present)_
 
 ### [ Novak Dokovic wins the men's title of the 2008 Australian Open. ](/news/2008/01/27/novak-aokovia-wins-the-men-s-title-of-the-2008-australian-open.md)
 Indiatimes Mobile brings you the news, articles, stories and videos on entertainment, latest lifestyle, culture & new technologies emerging worldwide

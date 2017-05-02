@@ -1,6 +1,6 @@
 ### [2006-03-25](/news/2006/03/25/index.md)
 
-#  Canada's annual seal hunt has begun, amid international appeals for an end to the controversial cull of up to 325,000 young harp seal pups.  The Canadian government says the cull, which reportedly earns C$16.5 million ({{Nowrap|8.3 million}}) in meat and pelt sales, is also necessary to control seal numbers. 
+#  Canada's annual seal hunt has begun, amid international appeals for an end to the controversial cull of up to 325,000 young harp seal pups.  The Canadian government says the cull, which reportedly earns C$16.5 million (8.3 million) in meat and pelt sales, is also necessary to control seal numbers. 
 
 
 

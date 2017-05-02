@@ -4,7 +4,7 @@
 Thailand signs its first-ever deal with Muslim rebels based in Malaysia to begin talks on ending a decades-long conflict in the south.
 
 ### [Israeli-Palestinian conflict:2013 Rishon LeZion car bombing: At least 2 people are killed in a car bombing in Rishon LeZion near Tel Aviv, Israel. ](/news/2013/02/28/israeliapalestinian-conflict-p2013-rishon-lezion-car-bombing-at-least-2-people-are-killed-in-a-car-bombing-in-rishon-lezion-near-tel-aviv.md)
-_Context: 2013 Rishon LeZion car bombing, Israel, Israeli–Palestinian conflict, Rishon LeZion, Tel Aviv, car bombing_
+_Context: 2013 Rishon LeZion car bombing, Israel, Israeli-Palestinian conflict, Rishon LeZion, Tel Aviv, car bombing_
 
 ### [Syrian civil war:The United States announces that it will provide $60 million of food and medical aid, but not weapons, to rebel fighters. ](/news/2013/02/28/syrian-civil-war-pthe-united-states-announces-that-it-will-provide-60-million-of-food-and-medical-aid-but-not-weapons-to-rebel-fighters.md)
 Secretary of State John Kerry says the US will provide &quot;non-lethal&quot; support to Syrian rebels for the first time, as well as extra aid to the opposition.
@@ -49,10 +49,10 @@ The suspected gunman in a Las Vegas shooting and multiple car crash that left th
 Bradley Manning, the US Army private accused in the Wikileaks case, pleads guilty to lesser charges but may still be prosecuted for aiding the enemy.
 
 ### [Parliament of Slovenia ousts Prime Minister Janez Jansa amid corruption allegations. Opposition leader Alenka Bratusek is tasked to form a new government. ](/news/2013/02/28/parliament-of-slovenia-ousts-prime-minister-janez-jana-a-amid-corruption-allegations-opposition-leader-alenka-bratua-ek-is-tasked-to-form-a.md)
-_Context: Alenka Bratušek, Janez Janša, Parliament, Prime Minister of Slovenia, Slovenia_
+_Context: Alenka Bratusek, Janez Jansa, Parliament, Prime Minister of Slovenia, Slovenia_
 
 ### [Haruhiko Kuroda is selected by Japanese Prime Minister Shinzo Abe to lead the Bank of Japan. ](/news/2013/02/28/haruhiko-kuroda-is-selected-by-japanese-prime-minister-shinza-abe-to-lead-the-bank-of-japan.md)
-_Context: Bank of Japan, Haruhiko Kuroda, Japan, Prime Minister, Shinzō Abe_
+_Context: Bank of Japan, Haruhiko Kuroda, Japan, Prime Minister, Shinzo Abe_
 
 ### [Voters go to the polls in the Eastleigh by-election following the resignation of former UK Cabinet Minister Chris Huhne with Liberal Democrat candidate Mike Thornton retaining the seat for his party. ](/news/2013/02/28/voters-go-to-the-polls-in-the-eastleigh-by-election-following-the-resignation-of-former-uk-cabinet-minister-chris-huhne-with-liberal-democra.md)
 The Lib Dems have claimed victory in the Eastleigh by-election, with the official result yet to be announced.

@@ -19,7 +19,7 @@ _Context: Syrian Civil War_
 _Context: Mumbai, Yash Chopra, dengue fever_
 
 ### [Pope Benedict XVI names seven new saints, including Kateri Tekakwitha, Marianne Cope, Pedro Calungsod, and Anna Schffer. ](/news/2012/10/21/pope-benedict-xvi-names-seven-new-saints-including-kateri-tekakwitha-marianne-cope-pedro-calungsod-and-anna-schaffer.md)
-_Context: Anna Schäffer, Benedict XVI, Kateri Tekakwitha, Marianne Cope, Pedro Calungsod_
+_Context: Anna Schffer, Benedict XVI, Kateri Tekakwitha, Marianne Cope, Pedro Calungsod_
 
 ### [A shooting at a spa in Brookfield, Wisconsin, USA, leaves four people dead, including the shooter. ](/news/2012/10/21/a-shooting-at-a-spa-in-brookfield-wisconsin-usa-leaves-four-people-dead-including-the-shooter.md)
 A man who opened fire at a beauty spa in the US state of Wisconsin has killed three people, including his wife, and injured four.

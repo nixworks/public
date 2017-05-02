@@ -4,7 +4,7 @@
 _Context: President of Indonesia, Suharto, Supreme Court of Indonesia, Time, U.S. dollar_
 
 ### [ The  Ejrcito Popular Revolucionario plants a series of bombs that tear apart six Pemex natural gas pipelines in the Mexican states of Veracruz and Tlaxcala. ](/news/2007/09/10/the-ejercito-popular-revolucionario-plants-a-series-of-bombs-that-tear-apart-six-pemex-natural-gas-pipelines-in-the-mexican-states-of-vera.md)
-_Context:  Ejército Popular Revolucionario, Mexican state, PEMEX, Tlaxcala, Veracruz_
+_Context:  Ejrcito Popular Revolucionario, Mexican state, PEMEX, Tlaxcala, Veracruz_
 
 ### [ Former Republic of the Congo rebel leader Pastor Ntumi returns to Brazzaville to take up a post as a junior minister. ](/news/2007/09/10/former-republic-of-the-congo-rebel-leader-pastor-ntumi-returns-to-brazzaville-to-take-up-a-post-as-a-junior-minister.md)
 _Context: Brazzaville, Pastor Ntumi, Republic of the Congo_
@@ -19,7 +19,7 @@ Former Pakistani prime minister Nawaz Sharif has left his plane in the capital I
 Gen. David H. Petraeus has recommended deferring decisions on reducing the main body of troops in Iraq.
 
 ### [ Diego Len Montoya Snchez, leader of the Norte del Valle cartel and one of the FBI Ten Most Wanted Fugitives, is captured by Colombian authorities. ](/news/2007/09/10/diego-leon-montoya-sanchez-leader-of-the-norte-del-valle-cartel-and-one-of-the-fbi-ten-most-wanted-fugitives-is-captured-by-colombian-aut.md)
-_Context: 10 Most Wanted Fugitives list, Colombia, Diego León Montoya Sánchez, Norte del Valle cartel_
+_Context: 10 Most Wanted Fugitives list, Colombia, Diego Len Montoya Snchez, Norte del Valle cartel_
 
 ### [ Local elections are held throughout Norway for municipality and county councils.](/news/2007/09/10/local-elections-are-held-throughout-norway-for-municipality-and-county-councils.md)
 _Context: Local elections, Norway_

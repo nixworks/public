@@ -4,7 +4,7 @@
 _Context: Indian Institute of Science at Bangalore, Indian Institute of Technology, Delhi, M. C. Puri, unidentified gunman opened fire_
 
 ### [ Jurgen Chrobog, Germany's former Deputy Foreign Minister, his wife and three children, are kidnapped in Yemen by tribesmen pressing for the release of jailed members of their tribe. ](/news/2005/12/28/ja1-4rgen-chrobog-germany-s-former-deputy-foreign-minister-his-wife-and-three-children-are-kidnapped-in-yemen-by-tribesmen-pressing-for-th.md)
-_Context: Germany, Jürgen Chrobog, Yemen_
+_Context: Germany, Jurgen Chrobog, Yemen_
 
 ### [ Europe's "sat-nav" technology satellite, Giove-A, is launched as part of the Galileo positioning system with the goal of providing access to timing and location information independent of the United States' prevalent GPS system. ](/news/2005/12/28/europe-s-sat-nav-technology-satellite-giove-a-is-launched-as-part-of-the-galileo-positioning-system-with-the-goal-of-providing-access-t.md)
 _Context: GPS, Galileo positioning system, Giove-A_

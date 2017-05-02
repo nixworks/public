@@ -43,7 +43,7 @@ _Context: Hartebeestfontein, Johannesburg, Richter scale, South Africa, earthqua
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ In Guinea, president Lansana Cont sacks three senior ministers, security minister Moussa Sampil, foreign affairs minister Mamadi Cond and mines minister Alpha Mady Soumah, to replace them with the members of his own Party of Unity and Progress. Journalists and students welcome sacking of Sampil because of his handling of an alleged assassination attempt against the president in January.  ](/news/2005/03/9/in-guinea-president-lansana-conte-sacks-three-senior-ministers-security-minister-moussa-sampil-foreign-affairs-minister-mamadi-conde-and.md)
-_Context: Alpha Mady Soumah, Guinea, Lansana Conté, Mamadi Condé, Moussa Sampil, Party of Unity and Progress, assassinated_
+_Context: Alpha Mady Soumah, Guinea, Lansana Cont, Mamadi Cond, Moussa Sampil, Party of Unity and Progress, assassinated_
 
 ### [ World Health Organization issues a warning that cases of malaria have increased to 500 million- much more than they anticipated ](/news/2005/03/9/world-health-organization-issues-a-warning-that-cases-of-malaria-have-increased-to-500-million-much-more-than-they-anticipated.md)
 Keep your mind and body sharp with the latest health and fitness news and information from Reuters.com.

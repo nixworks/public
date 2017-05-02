@@ -4,7 +4,7 @@
 Two separate attacks, within hours of each other, have wounded six Canadian soldiers in Afghanistan
 
 ### [ The Government of Chad demands that the Security Council act to stop Janjaweed and UFDC incursions into Chad. ](/news/2006/06/21/the-government-of-chad-demands-that-the-security-council-act-to-stop-janjaweed-and-ufdc-incursions-into-chad.md)
-_Context: Chad, Janjaweed, Security Council, UFDC, second D�by administration_
+_Context: Chad, Janjaweed, Security Council, UFDC, second Dby administration_
 
 ### [ In a press conference in South Africa, Sudanese President Omar al-Bashir says that United Nations peacekeeping forces shall never enter Sudan because they are controlled by an international Jewish conspiracy involving "heavy propaganda and media campaigns." ](/news/2006/06/21/in-a-press-conference-in-south-africa-sudanese-president-omar-al-bashir-says-that-united-nations-peacekeeping-forces-shall-never-enter-sud.md)
 _Context: Omar al-Bashir, South Africa, Sudan, Sudanese President, United Nations_
@@ -13,7 +13,7 @@ _Context: Omar al-Bashir, South Africa, Sudan, Sudanese President, United Nation
 Get the latest Chicago local news and US & World news. See recent updates on politics, sports, health, tech, and weird news on NBC Chicago.
 
 ### [ Xanana Gusmao, President of East Timor, asks Prime Minister Mari Alkatiri to resign. ](/news/2006/06/21/xanana-gusmapso-president-of-east-timor-asks-prime-minister-mara-alkatiri-to-resign.md)
-_Context: East Timor, Marí Alkatiri, President, Prime Minister of East Timor, Xanana Gusmão_
+_Context: East Timor, Mari Alkatiri, President, Prime Minister of East Timor, Xanana Gusmao_
 
 ### [ Saddam Hussein's principal defense lawyer, Khamis al-Obeidi, is assassinated in Baghdad. ](/news/2006/06/21/saddam-hussein-s-principal-defense-lawyer-khamis-al-obeidi-is-assassinated-in-baghdad.md)
 _Context: Baghdad, Saddam Hussein, assassinated, one_

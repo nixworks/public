@@ -28,7 +28,7 @@ _Context: North Korea_
 _Context: Amazon basin, Ecuador, Yasuni National Park_
 
 ### [The international aid group Mdecins Sans Frontires withdraws non-Somali workers from a hospital in Mogadishu after two of its aid workers were shot dead on Thursday. ](/news/2011/12/30/the-international-aid-group-medecins-sans-frontieres-withdraws-non-somali-workers-from-a-hospital-in-mogadishu-after-two-of-its-aid-workers.md)
-_Context: Mogadishu, Médecins Sans Frontières, Somali_
+_Context: Mdecins Sans Frontires, Mogadishu, Somali_
 
 ### [Former Chinese fugitive Lai Changxing is indicted on bribery and smuggling charges. ](/news/2011/12/30/former-chinese-fugitive-lai-changxing-is-indicted-on-bribery-and-smuggling-charges.md)
 Authorities accused Lai Changxing of running a multi-billion-dollar smuggling network out of Xiamen, in the southeastern province of Fujian, in the 1990â€™s.
@@ -40,7 +40,7 @@ Defying opinion polls that suggested yesterday&#039;s general election was too c
 _Context: 2011 Yemeni uprising, Saleh, Yemen, Yemeni President_
 
 ### [The party of Democratic Republic of the Congo politician tienne Tshisekedi says he has been placed under house arrest in Kinshasa since he claimed to have won the presidential election earlier this year. ](/news/2011/12/30/the-party-of-democratic-republic-of-the-congo-politician-etienne-tshisekedi-says-he-has-been-placed-under-house-arrest-in-kinshasa-since-he.md)
-_Context: Democratic Republic of the Congo, Kinshasa, presidential election, Étienne Tshisekedi_
+_Context: Democratic Republic of the Congo, Kinshasa, presidential election, tienne Tshisekedi_
 
 ### [In yachting, the New South Wales boat ''Loki'' is declared the overall winner of the 2011 Sydney to Hobart Yacht Race. ](/news/2011/12/30/in-yachting-the-new-south-wales-boat-loki-is-declared-the-overall-winner-of-the-2011-sydney-to-hobart-yacht-race.md)
 _Context: 2011 Sydney to Hobart Yacht Race, New South Wales, yachting_

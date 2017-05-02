@@ -22,13 +22,13 @@ Biology, astronomy, chemistry, physics on FoxNews.com. In-depth natural science 
 _Context: France, Manuel Noriega, Panamanian President, United States federal judge, extradited, in absentia, money laundering_
 
 ### [ Abdullah Gl of the Justice and Development Party is elected President of Turkey. ](/news/2007/08/28/abdullah-gul-of-the-justice-and-development-party-is-elected-president-of-turkey.md)
-_Context: Abdullah Gül, President, ruling party_
+_Context: Abdullah Gl, President, ruling party_
 
 ### [ The Cockpit voice recorder is retrieved from the wreckage of Adam Air Flight 574, 24 hours after the recovery of the Flight data recorder. ](/news/2007/08/28/the-cockpit-voice-recorder-is-retrieved-from-the-wreckage-of-adam-air-flight-574-24-hours-after-the-recovery-of-the-flight-data-recorder.md)
 Black box data recorders from an Adam Air jet have been found, eight months after the plane crashed in Indonesia killing all 102 people aboard.
 
 ### [ The Ontario Court of Appeal acquits Steven Truscott of the 1959 murder of Lynne Harper, declaring the original trial that had sentenced the then-14-year-old to hang was a miscarriage of justice. The case has been a cause clbre for almost fifty years. ](/news/2007/08/28/the-ontario-court-of-appeal-acquits-steven-truscott-of-the-1959-murder-of-lynne-harper-declaring-the-original-trial-that-had-sentenced-the.md)
-_Context: 1959, Ontario Court of Appeal, Steven Truscott, cause célèbre, hanging, miscarriage of justice_
+_Context: 1959, Ontario Court of Appeal, Steven Truscott, cause clbre, hanging, miscarriage of justice_
 
 ## [Previous Day...](/news/2007/08/27/index.md)
 

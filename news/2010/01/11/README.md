@@ -19,7 +19,7 @@ _Context: Council of Europe, Wolfgang Wodarg, flu pandemic, pharmaceutical compa
 _Context: City Health Department, salt_
 
 ### [The United Nations seeks to virtually eliminate mother-to-child transmission of HIV/AIDS in Africa. Michel Sidib visited Sauri in western Kenya, which is a village of the Millennium Villages Project. ](/news/2010/01/11/the-united-nations-seeks-to-virtually-eliminate-mother-to-child-transmission-of-hiv-aids-in-africa-michel-sidibe-visited-sauri-in-western-k.md)
-_Context: AIDS, Kenya, Michel Sidibé, Millennium Villages Project, Sauri, United Nations_
+_Context: AIDS, Kenya, Michel Sidib, Millennium Villages Project, Sauri, United Nations_
 
 ### [North Korea proposes a peace treaty, replacing the Korean War armistice. ](/news/2010/01/11/north-korea-proposes-a-peace-treaty-replacing-the-korean-war-armistice.md)
 _Context: Korean War, North Korea_

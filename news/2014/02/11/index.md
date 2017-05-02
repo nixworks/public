@@ -7,7 +7,7 @@ Militants in pick-up trucks ambushed Iraqi army outposts protecting a major oil 
 _Context: Peshawar, War in North-West Pakistan_
 
 ### [2013-14 Australian bushfire season:Bushfires continue to burn in the state of Victoria with at least 34 houses lost. ](/news/2014/02/11/2013a14-australian-bushfire-season-pbushfires-continue-to-burn-in-the-state-of-victoria-with-at-least-34-houses-lost.md)
-_Context: 2013–14 Australian bushfire season, Victoria_
+_Context: 2013-14 Australian bushfire season, Victoria_
 
 ### [2013-14 United Kingdom floods:The British Geological Society warns that 1.6 million properties in England and Wales are at risk from groundwater flooding with flood risks likely to be high until at least May. ](/news/2014/02/11/2013-14-united-kingdom-floods-pthe-british-geological-society-warns-that-1-6-million-properties-in-england-and-wales-are-at-risk-from-ground.md)
 Some 1.6 million properties across Britain are now at risk of groundwater flooding and there is no end in sight, an expert says.
@@ -34,7 +34,7 @@ The European Union agrees to launch negotiations with Cuba aimed at restoring fu
 The first of four U.S. Navy destroyers to form the centerpiece of Europe&rsquo;s missile defense shield arrived in southern Spain on Tuesday.
 
 ### [The Republican Party-controlled U.S. House of Representatives votes to raise the government's borrowing limit for the next year, without attaching conditions, and sends the measure to the Senate for approval. ](/news/2014/02/11/the-republican-party-controlled-u-s-house-of-representatives-votes-to-raise-the-government-s-borrowing-limit-for-the-next-year-without-att.md)
-_Context: Republican, Senator, U.S. House of Representatives, borrowing limit_
+_Context: Republican, U.S. House of Representatives, United States Senate, borrowing limit_
 
 ### [Kevin Faulconer is elected as Mayor of San Diego, California. ](/news/2014/02/11/kevin-faulconer-is-elected-as-mayor-of-san-diego-california.md)
 _Context: California, Kevin Faulconer, San Diego_

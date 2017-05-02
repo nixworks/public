@@ -4,7 +4,7 @@
 South Sudanese rebels and the army have accused each other for the second time this week of attacks, this time barely a day after President Salva Kiir signed a peace deal that looks increasingly fragile.
 
 ### [A car bomb detonates in the parking lot of a Baghdad police station while police attempt to defuse it, killing six officers and injuring another ten. ](/news/2015/08/28/a-car-bomb-detonates-in-the-parking-lot-of-a-baghdad-police-station-while-police-attempt-to-defuse-it-killing-six-officers-and-injuring-ano.md)
-_Context: Baghdad, Iraq War (2014–present), car bomb_
+_Context: Baghdad, Iraq War (2014-present), car bomb_
 
 ### [Indian and Pakistani border guards exchange gunfire over the disputed Kashmir border with nine civilians killed and 63 injured. ](/news/2015/08/28/indian-and-pakistani-border-guards-exchange-gunfire-over-the-disputed-kashmir-border-with-nine-civilians-killed-and-63-injured.md)
 Indian and Pakistani border guards traded gunfire in the divided region of Kashmir, leaving nine civilians dead and another 63 wounded, authorities said Friday.
@@ -37,7 +37,7 @@ Turkish police detain two British journalists from Vice News covering the unrest
 _Context: France, King Mohammed VI of Morocco, blackmail_
 
 ### [President Truong Tan Sang of Vietnam signs two directives granting amnesty to 18,539 prisoners including murderers, rapists, human traffickers, and other criminals, but no political prisoners were released. ](/news/2015/08/28/president-traedegae-ng-taoy-n-sang-of-vietnam-signs-two-directives-granting-amnesty-to-18-539-prisoners-including-murderers-rapists-human-traff.md)
-_Context: Trương Tấn Sang, Vietnam_
+_Context: Truong Tan Sang, Vietnam_
 
 ### [Authorities charge New Mexico Secretary of State Dianna Duran with 64 counts including fraud, embezzlement, and money laundering. ](/news/2015/08/28/authorities-charge-new-mexico-secretary-of-state-dianna-duran-with-64-counts-including-fraud-embezzlement-and-money-laundering.md)
 _Context: Dianna Duran, New Mexico Secretary of State, embezzlement, fraud, money laundering_

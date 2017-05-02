@@ -18,7 +18,7 @@ The chief executive of Barclays, Antony Jenkins, is to waive his bonus of about 
 ### [The Dow Jones Industrial Average closes above 14,000 points for the first time since 2007 as investors welcomed strong economic data from the United States. ](/news/2013/02/1/the-dow-jones-industrial-average-closes-above-14-000-points-for-the-first-time-since-2007-as-investors-welcomed-strong-economic-data-from-th.md)
 Investors will be looking out for the monthly jobs report and a swathe of data on the health of construction, manufacturing and consumer spending.
 
-### [At least 26 people are killed on the G30 Expressway in Henan province, China, after a truck carrying fireworks explodes on an elevated highway, with an {{convert|80|m|ft}} section of road being destroyed and part of it collapsing. ](/news/2013/02/1/at-least-26-people-are-killed-on-the-g30-expressway-in-henan-province-china-after-a-truck-carrying-fireworks-explodes-on-an-elevated-highw.md)
+### [At least 26 people are killed on the G30 Expressway in Henan province, China, after a truck carrying fireworks explodes on an elevated highway, with an 80|m|ft section of road being destroyed and part of it collapsing. ](/news/2013/02/1/at-least-26-people-are-killed-on-the-g30-expressway-in-henan-province-china-after-a-truck-carrying-fireworks-explodes-on-an-elevated-highw.md)
 A truck carrying fireworks explodes on a highway in central China, causing part of the road to collapse and leaving at least five people dead.
 
 ### [Three construction workers are killed and eight are injured after a wall collapses on a construction site in Zhoukou, Henan, China. ](/news/2013/02/1/three-construction-workers-are-killed-and-eight-are-injured-after-a-wall-collapses-on-a-construction-site-in-zhoukou-henan-china.md)

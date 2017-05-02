@@ -1,7 +1,7 @@
 ## [2014-08-21](/news/2014/08/21/index.md)
 
 ### [Israeli airstrikes kill three senior military commanders of Hamas. ](/news/2014/08/21/israeli-airstrikes-kill-three-senior-military-commanders-of-hamas.md)
-_Context: 2014 Israel–Gaza conflict, Hamas, Israel_
+_Context: 2014 Israel-Gaza conflict, Hamas, Israel_
 
 ### [Syrian civil war:The Syrian opposition accuses the Syrian army of launching a chemical attack on the Jobar neighborhood of Damascus, killing at least six people. ](/news/2014/08/21/syrian-civil-war-pthe-syrian-opposition-accuses-the-syrian-army-of-launching-a-chemical-attack-on-the-jobar-neighborhood-of-damascus-killin.md)
 ARA News Damascus, Syria – The Syrian opposition accused military forces loyal to President Bashar al-Assad of launching a chemical attack against civilians in the neighbourhood of Jobar in central Damascus on Wednesday. At least six civilians died during the attack. Activists reported that the victims were apparently suffocated &#8220;due to the toxic gas used &hellip;
@@ -22,13 +22,13 @@ The Ministry of Justice’s Investigation Bureau yesterday said allegations brou
 The Brazilian Socialist Party names environmental campaigner Marina Silva as its new presidential candidate, replacing Eduardo Campos who died last week.
 
 ### [The outgoing prime minister Alenka Bratusek and her alliance is barred from entering the new government due to "ethical concerns", notably her self-nomination as the country's EU commissioner, a decision currently being investigated by the Commission for the Prevention of Corruption. ](/news/2014/08/21/the-outgoing-prime-minister-alenka-bratua-ek-and-her-alliance-is-barred-from-entering-the-new-government-due-to-ethical-concerns-notably.md)
-_Context: Alenka Bratušek, Commission for the Prevention of Corruption, Slovenian parliamentary election, 2014, alliance_
+_Context: Alenka Bratusek, Commission for the Prevention of Corruption, Slovenian parliamentary election, 2014, alliance_
 
 ### [The National Assembly of Thailand elects coup leader General Prayuth Chan-ocha as Prime Minister. ](/news/2014/08/21/the-national-assembly-of-thailand-elects-coup-leader-general-prayuth-chan-ocha-as-prime-minister.md)
 _Context: National Assembly of Thailand, Prayuth Chan-ocha, Prime Minister of Thailand, military coup_
 
 ### [The Turkish Justice and Development Party chooses foreign minister Ahmet Davutoglu as its leader meaning that he will become the new Prime Minister. ](/news/2014/08/21/the-turkish-justice-and-development-party-chooses-foreign-minister-ahmet-davutoalu-as-its-leader-meaning-that-he-will-become-the-new-prime.md)
-_Context: Ahmet Davutoğlu, Prime Minister of Turkey, Turks, ruling party_
+_Context: Ahmet Davutoglu, Prime Minister of Turkey, Turks, ruling party_
 
 ## [Previous Day...](/news/2014/08/20/index.md)
 

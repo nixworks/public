@@ -13,7 +13,7 @@ At least 31 people have died in an explosion in the capital of China&#39;s weste
 Find the latest business news on Wall Street, jobs and the economy, the housing market, personal finance and money investments and much more on ABC News
 
 ### [Anglo-Dutch consumer goods company Unilever agrees to sell the brands Ragu and Bertolli to Japanese sauce producer Mizkan for $2.15 billion. ](/news/2014/05/22/anglo-dutch-consumer-goods-company-unilever-agrees-to-sell-the-brands-ragao-and-bertolli-to-japanese-sauce-producer-mizkan-for-2-15-billion.md)
-_Context: $, Bertolli, Mizkan, Ragú, Unilever_
+_Context: $, Bertolli, Mizkan, Ragu, Unilever_
 
 ### [Nest Labs announces plans to recall 440,000 smoke alarms to fix a problem that could cause the alarms to not go off immediately after detecting smoke. ](/news/2014/05/22/nest-labs-announces-plans-to-recall-440-000-smoke-alarms-to-fix-a-problem-that-could-cause-the-alarms-to-not-go-off-immediately-after-detect.md)
 Find the latest business news on Wall Street, jobs and the economy, the housing market, personal finance and money investments and much more on ABC News
@@ -37,7 +37,7 @@ Activision Blizzard is trying to sue the creators of cheats that allow Starcraft
 There&#8217;s now only one day to go until voting starts for the 2014 European Parliament elections! Each country in the EU...
 
 ### [2013-14 Thai political crisis:Thailand's army chief Prayuth Chan-ocha announces a coup d'etat, saying the military is taking control of government. ](/news/2014/05/22/2013a14-thai-political-crisis-pthailand-s-army-chief-prayuth-chan-ocha-announces-a-coup-d-a-c-tat-saying-the-military-is-taking-control-of.md)
-_Context: 2013–14 Thai political crisis, Prayuth Chan-ocha, military coup_
+_Context: 2013-14 Thai political crisis, Prayuth Chan-ocha, military coup_
 
 ### [Voters in the United Kingdom go to the polls for local elections with the United Kingdom Independence Party making strong gains. ](/news/2014/05/22/voters-in-the-united-kingdom-go-to-the-polls-for-local-elections-with-the-united-kingdom-independence-party-making-strong-gains.md)
 Nigel Farage says UKIP can win seats at the general election after it made gains in English council polls at the expense of other parties.

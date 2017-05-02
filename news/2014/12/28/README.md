@@ -22,7 +22,7 @@ Twenty-four people have been killed and eight others are missing due to floods a
 _Context: San Antonio, Texas_
 
 ### [The Croatian presidential election goes to a run-off between incumbent Ivo Josipovic and challenger Kolinda Grabar-Kitarovic. ](/news/2014/12/28/the-croatian-presidential-election-goes-to-a-run-off-between-incumbent-ivo-josipovia-and-challenger-kolinda-grabar-kitarovia.md)
-_Context: Croatian presidential election, Ivo Josipović, Kolinda Grabar-Kitarović_
+_Context: Croatian presidential election, Ivo Josipovic, Kolinda Grabar-Kitarovic_
 
 ## [Previous Day...](/news/2014/12/27/index.md)
 

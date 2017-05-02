@@ -28,13 +28,13 @@ A United Nations panel has called for setting up of an “independent internatio
 _Context: Los Zetas Cartel, Mexican police_
 
 ### [A 50,000-strong anti-government demonstration calling for snap elections takes place in Belgrade, Serbia, with leader of the opposition Serbian Progressive Party Tomislav Nikolic announcing he is to begin a hunger strike until new elections. ](/news/2011/04/16/a-50-000-strong-anti-government-demonstration-calling-for-snap-elections-takes-place-in-belgrade-serbia-with-leader-of-the-opposition-serb.md)
-_Context: Belgrade, Serbia, Serbian Progressive Party, Tomislav Nikolić_
+_Context: Belgrade, Serbia, Serbian Progressive Party, Tomislav Nikolic_
 
 ### [Pro and anti-government rallies against corruption take place in Moscow, Russia. ](/news/2011/04/16/pro-and-anti-government-rallies-against-corruption-take-place-in-moscow-russia.md)
 _Context: Moscow, Russia_
 
 ### [Cuban President Raul Castro proposes term limits for public office. ](/news/2011/04/16/cuban-president-raaol-castro-proposes-term-limits-for-public-office.md)
-_Context: Cuba, President, Raúl Castro_
+_Context: Cuba, President, Raul Castro_
 
 ### [The ruling National Front coalition in Malaysia win an election in the country's largest state Sarawak. ](/news/2011/04/16/the-ruling-national-front-coalition-in-malaysia-win-an-election-in-the-country-s-largest-state-sarawak.md)
 _Context: Malaysia, National Front, Sarawak_

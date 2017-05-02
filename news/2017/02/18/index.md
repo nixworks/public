@@ -1,13 +1,13 @@
 ## [2017-02-18](/news/2017/02/18/index.md)
 
-### [One person is killed and 20 are injured when a passenger train derails near {{rws|Leuven}}, Belgium. ](/news/2017/02/18/one-person-is-killed-and-20-are-injured-when-a-passenger-train-derails-near-rws-leuven-belgium.md)
+### [One person is killed and 20 are injured when a passenger train derails near Leuven, Belgium. ](/news/2017/02/18/one-person-is-killed-and-20-are-injured-when-a-passenger-train-derails-near-leuven-belgium.md)
 The passenger train bound for the Belgian capital jumps the tracks, with one carriage flipping on its side.
 
 ### [A bus traveling to Chile overturns in Argentina's Mendoza Province, killing at least 19 people. ](/news/2017/02/18/a-bus-traveling-to-chile-overturns-in-argentina-s-mendoza-province-killing-at-least-19-people.md)
 _Context: Argentina, Chile, Mendoza Province_
 
 ### [China's Ministry of Commerce suspends all coal imports from North Korea until the end of 2017, as part of international sanctions against North Korea over its ballistic missile program. ](/news/2017/02/18/china-s-ministry-of-commerce-suspends-all-coal-imports-from-north-korea-until-the-end-of-2017-as-part-of-international-sanctions-against-no.md)
-_Context: China, China–North Korea relations, Ministry of Commerce, North Korea, North Korea and weapons of mass destruction, international sanctions against North Korea_
+_Context: China, China-North Korea relations, Ministry of Commerce, North Korea, North Korea and weapons of mass destruction, international sanctions against North Korea_
 
 ### [At the Munich Security Conference, a truce between Russian-backed separatists and the Ukrainian army, per the Minsk Protocol, takes effect Monday. Pending a permanent political agreement, Russian President Vladimir Putin orders that   civil registration documents issued in separatist-held areas of Donetsk and Luhansk in eastern Ukraine be temporarily recognized.  Ukrainian authorities say this violates provisions in the Minsk agreement. This is the third such agreement because the previous two in 2014 and 2015 were violated. Low-level fighting and artillery fire never fully stopped. ](/news/2017/02/18/at-the-munich-security-conference-a-truce-between-russian-backed-separatists-and-the-ukrainian-army-per-the-minsk-protocol-takes-effect-m.md)
 Russia, Ukraine and allies agree to ensure peace in eastern Ukraine as Kremlin indirectly recognises breakaway regions.

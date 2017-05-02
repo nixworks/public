@@ -4,7 +4,7 @@
 _Context: Luis Armando Pena Soltren, Pan Am Flight 281, aircraft piracy_
 
 ### [ Thousands of people attend the state funeral of Arturo "Zambo" Cavero in Lima, Peru. President Alan Garcia posthumously awards him the Order of the Sun. ](/news/2009/10/11/thousands-of-people-attend-the-state-funeral-of-arturo-zambo-cavero-in-lima-peru-president-alan-garcaa-posthumously-awards-him-the-ord.md)
-_Context: Alan García, Arturo "Zambo" Cavero, Lima, Order of the Sun, Peru, President_
+_Context: Alan Garcia, Arturo "Zambo" Cavero, Lima, Order of the Sun, Peru, President_
 
 ### [ Mayoral, regional and district council elections take place in Moscow and 75 other regions across Russia. ](/news/2009/10/11/mayoral-regional-and-district-council-elections-take-place-in-moscow-and-75-other-regions-across-russia.md)
 _Context: Moscow, Russia_
@@ -16,10 +16,10 @@ _Context: Washington, D.C., gay rights_
 An extensive search has been launched for a 79-year-old Irish priest who has been kidnapped in the Philippines.
 
 ### [ At least 10 people die and seven are declared missing in a river ferry sinking on the Mekong in Kratie Province, Cambodia. ](/news/2009/10/11/at-least-10-people-die-and-seven-are-declared-missing-in-a-river-ferry-sinking-on-the-mekong-in-kratia-c-province-cambodia.md)
-_Context: Cambodia, Kratié Province, Mekong River, river ferry sinking_
+_Context: Cambodia, Kratie Province, Mekong River, river ferry sinking_
 
 ### [ Pope Benedict XVI canonizes five new saints: Father Damien, Rafael Arnaiz Baron, Zygmunt Szczesny Felinski, Francisco Coll Guitart, and Jeanne Jugan. ](/news/2009/10/11/pope-benedict-xvi-canonizes-five-new-saints-father-damien-rafael-arna-iz-bara3n-zygmunt-szczasny-feliaski-francisco-coll-guitart-and.md)
-_Context: Benedict XVI, Father Damien, Francisco Coll Guitart, Jeanne Jugan, Pope, Rafael Arnáiz Barón, Zygmunt Szczęsny Feliński, saints_
+_Context: Benedict XVI, Father Damien, Francisco Coll Guitart, Jeanne Jugan, Pope, Rafael Arnaiz Baron, Zygmunt Szczesny Felinski, saints_
 
 ### [ A spate of car bombings kills 19 people and wounds dozens in the western Iraqi city of Ramadi, in Anbar province. ](/news/2009/10/11/a-spate-of-car-bombings-kills-19-people-and-wounds-dozens-in-the-western-iraqi-city-of-ramadi-in-anbar-province.md)
 A spate of car bombings killed 19 people Sunday in Iraq&#39;s western Anbar province, once a hotbed of insurgency that later become a showcase for restoring peace. 

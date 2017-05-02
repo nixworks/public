@@ -16,7 +16,7 @@ Two soldiers from 1st Battalion Irish Guards are killed by a roadside bomb in Af
 The European Commission has been hit by one of the most serious cyberattacks ever this week. Commission staff have been told to change their passwords and access to webmail and intranet from outside has been suspended.
 
 ### [Army forces in Colombia kill 10 FARC rebels in western Choco department. ](/news/2011/03/24/army-forces-in-colombia-kill-10-farc-rebels-in-western-choca3-department.md)
-_Context: Chocó, Colombia, Revolutionary Armed Forces of Colombia_
+_Context: Choco, Colombia, Revolutionary Armed Forces of Colombia_
 
 ### [The United States Census Bureau confirms that New York City is the largest city in the US with 8,175,133 residents at the time of the 2010 United States Census on April 1. ](/news/2011/03/24/the-united-states-census-bureau-confirms-that-new-york-city-is-the-largest-city-in-the-us-with-8-175-133-residents-at-the-time-of-the-2010-u.md)
 _Context: 2010 Census, New York's, US Census Bureau headquarters, largest city in the US_

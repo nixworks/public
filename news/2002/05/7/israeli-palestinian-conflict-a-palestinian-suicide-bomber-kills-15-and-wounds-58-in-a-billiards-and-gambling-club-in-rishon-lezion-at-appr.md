@@ -1,6 +1,6 @@
 ### [2002-05-7](/news/2002/05/7/index.md)
 
-#  Israeli-Palestinian conflict: A Palestinian suicide bomber kills 15 and wounds 58 in a billiards and gambling club in Rishon LeZion at approximately {{Nowrap|11 p.m.}} local time, while Ariel Sharon is meeting with President Bush in Washington D.C.
+#  Israeli-Palestinian conflict: A Palestinian suicide bomber kills 15 and wounds 58 in a billiards and gambling club in Rishon LeZion at approximately 11 p.m. local time, while Ariel Sharon is meeting with President Bush in Washington D.C.
 
 
 

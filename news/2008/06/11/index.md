@@ -16,7 +16,7 @@ Four teenagers were killed and 48 others were injured after a tornado ripped thr
 _Context: Cuba, economy, productivity_
 
 ### [ The Prime Minister of Canada Stephen Harper apologises to tens of thousands of the aboriginal peoples of Canada for more than a century of abuses of First Nations, Inuit and Metis at residential schools set up to assimilate them into Canadian society. ](/news/2008/06/11/the-prime-minister-of-canada-stephen-harper-apologises-to-tens-of-thousands-of-the-aboriginal-peoples-of-canada-for-more-than-a-century-of.md)
-_Context: Canadian, Canadian Prime Minister, Inuit, Métis, Native American, Stephen Harper, aboriginal peoples of Canada, assimilate, residential schools_
+_Context: Canada, Canadian Prime Minister, Inuit, Metis, Native American, Stephen Harper, aboriginal peoples of Canada, assimilate, residential schools_
 
 ### [ The United States House of Representatives votes today on whether to refer Articles of Impeachment against George W. Bush introduced Monday evening by Rep. Dennis Kucinich to a committee. ](/news/2008/06/11/the-united-states-house-of-representatives-votes-today-on-whether-to-refer-articles-of-impeachment-against-george-w-bush-introduced-monday.md)
 _Context: Articles of Impeachment, Dennis Kucinich, U.S. House_
@@ -40,7 +40,7 @@ _Context: His Majesty's Government, Metropolitan Police, Surrey, Waterloo Statio
 _Context: Prime Minister, Sheikh Hasina, United States, anti-corruption_
 
 ### [ Stojan Zupljanin, a wartime Bosnian Serb police commander is arrested near Belgrade and will be sent to the Hague where he will face trial for alleged war crimes. ](/news/2008/06/11/stojan-a1-2upljanin-a-wartime-bosnian-serb-police-commander-is-arrested-near-belgrade-and-will-be-sent-to-the-hague-where-he-will-face-trial.md)
-_Context: Belgrade, Bosnian Serb, Stojan Župljanin, The Hague, war crimes_
+_Context: Belgrade, Bosnian Serb, Stojan Zupljanin, The Hague, war crimes_
 
 ### [ Former basketball referee Tim Donaghy accuses other referees in the National Basketball Association of rigging games, including Game 6 in the 2002 Western Conference Finals, allowing the Los Angeles Lakers to win that game, the series, and ultimately the 2002 NBA Finals. ](/news/2008/06/11/former-basketball-referee-tim-donaghy-accuses-other-referees-in-the-national-basketball-association-of-rigging-games-including-game-6-in-t.md)
 A Tim Donaghy letter to the court alleges improper conduct by referees in the NBA.

@@ -4,10 +4,10 @@
 At least 20 people are killed by Syrian security forces in the north-west town of Khan Sheikhoun during a visit by UN observers, activists say.
 
 ### [At least 44 people are killed amid a Yemeni government offensive to retake Zinjibar and Jaar from Islamist militants. Among the casualties are three soldiers and at least 11 civilians. ](/news/2012/05/15/at-least-44-people-are-killed-amid-a-yemeni-government-offensive-to-retake-zinjibar-and-jaar-from-islamist-militants-among-the-casualties-a.md)
-_Context: Jaʿār, Yemen, Zinjibar_
+_Context: Ja'ar, Yemen, Zinjibar_
 
 ### [A targeted bombing in the Colombian capital Bogota injures former Interior Minister Fernando Londono, and kills his driver and a police officer. ](/news/2012/05/15/a-targeted-bombing-in-the-colombian-capital-bogota-injures-former-interior-minister-fernando-londoa-o-and-kills-his-driver-and-a-police-off.md)
-_Context: Bogotá, Colombia, Fernando Londoño, Interior Minister_
+_Context: Bogota, Colombia, Fernando Londono, Interior Minister_
 
 ### [Mexican author Carlos Fuentes, one of the leading authors of the Latin American literary boom, dies in Mexico aged 83. ](/news/2012/05/15/mexican-author-carlos-fuentes-one-of-the-leading-authors-of-the-latin-american-literary-boom-dies-in-mexico-aged-83.md)
 Carlos Fuentes, one of the most famous Latin American authors, known for fiction and political essays, dies in Mexico at the age of 83.
@@ -24,7 +24,7 @@ _Context: 2011 Norway attacks, Anders Behring Breivik, Oslo, sets herself alight
 ### [Indian child actress Taruni Sachdev and her mother are revealed to be among the dead in yesterday's plane crash in northern Nepal, which killed 15 people. ](/news/2012/05/15/indian-child-actress-taruni-sachdev-and-her-mother-are-revealed-to-be-among-the-dead-in-yesterday-s-plane-crash-in-northern-nepal-which-kil.md)
 _Context: India, Nepal, Taruni Sachdev, plane crash_
 
-### [Thousands of Palestinians demonstrate on the 64th anniversary of their ''Nakba'' ({{lang|en|"Catastrophe"}}), in remembrance of their exodus from the former Mandate of Palestine after Israel's declaration of independence in 1948. Demonstrators and Israeli policemen are lightly injured in several clashes. ](/news/2012/05/15/thousands-of-palestinians-demonstrate-on-the-64th-anniversary-of-their-nakba-lang-en-catastrophe-in-remembrance-of-their-exodus.md)
+### [Thousands of Palestinians demonstrate on the 64th anniversary of their ''Nakba'' (en|"Catastrophe"), in remembrance of their exodus from the former Mandate of Palestine after Israel's declaration of independence in 1948. Demonstrators and Israeli policemen are lightly injured in several clashes. ](/news/2012/05/15/thousands-of-palestinians-demonstrate-on-the-64th-anniversary-of-their-nakba-en-catastrophe-in-remembrance-of-their-exodus-from-the.md)
 Rallies and demonstrations in West Bank, Gaza and Israel as Palestinians commemorate displacement from lands in 1948.
 
 ### [A free trade agreement between the United States and Colombia takes effect. ](/news/2012/05/15/a-free-trade-agreement-between-the-united-states-and-colombia-takes-effect.md)

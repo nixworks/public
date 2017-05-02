@@ -4,7 +4,7 @@
 _Context: 1964, African-American, James Seale, Ku Klux Klan, Mississippi, conspiracy, kidnapped_
 
 ### [ ''Fatah-Hamas conflict:'' Hamas claims full control of Palestinian Authority security agencies on the Gaza Strip. ](/news/2007/06/14/fatahahamas-conflict-p-hamas-claims-full-control-of-palestinian-authority-security-agencies-on-the-gaza-strip.md)
-_Context: Fatah–Hamas conflict, Gaza Strip, Palestinian Authority_
+_Context: Fatah-Hamas conflict, Gaza Strip, Palestinian Authority_
 
 ### [ Golf's U.S. Open begins at Oakmont Country Club in Oakmont, Pennsylvania. ](/news/2007/06/14/golf-s-u-s-open-begins-at-oakmont-country-club-in-oakmont-pennsylvania.md)
 _Context: Oakmont Country Club, Oakmont, Pennsylvania, U.S. Open, golf_

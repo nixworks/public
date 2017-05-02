@@ -1,12 +1,12 @@
 ## [2013-11-19](/news/2013/11/19/index.md)
 
-### [Syrian civil war spillover in Lebanon, Iranian embassy bombings:Two suicide bombers target the Iranian embassy in the Lebanese capital Beirut killing at least 23 people. ](/news/2013/11/19/syrian-civil-war-spillover-in-lebanon-iranian-embassy-bombings-ptwo-suicide-bombers-target-the-iranian-embassy-in-the-lebanese-capital-beir.md)
+### [Two suicide bombers target the Iranian embassy in the Lebanese capital Beirut killing at least 23 people. ](/news/2013/11/19/two-suicide-bombers-target-the-iranian-embassy-in-the-lebanese-capital-beirut-killing-at-least-23-people.md)
 Twin blasts that killed 23 people near Iran&#039;s embassy in Beirut were suicide bombings, the army says.
 
 ### [War in Somalia (2009-present):An African Union base in Beledweyne, Somalia, is stormed by armed attackers, resulting in the deaths of 19 people. ](/news/2013/11/19/war-in-somalia-2009apresent-pan-african-union-base-in-beledweyne-somalia-is-stormed-by-armed-attackers-resulting-in-the-deaths-of-19.md)
 At least 19 people are killed in an al-Shabab attack on an African Union base in the strategic Somali town Beledweyne, officials say.
 
-### [Syrian Civil War, Battle of Qalamoun:The Syrian Army captures the town of Qarah. ](/news/2013/11/19/syrian-civil-war-battle-of-qalamoun-pthe-syrian-army-captures-the-town-of-qarah.md)
+### [The Syrian Army captures the town of Qarah. ](/news/2013/11/19/the-syrian-army-captures-the-town-of-qarah.md)
 Syrian troops captured a key town from rebels near the Lebanese border on Tuesday, days after launching a broad offensive to retake a mountainous western region, state media and activists said. The at
 
 ### [The United States commemorates the 150th anniversary of the Gettysburg Address. ](/news/2013/11/19/the-united-states-commemorates-the-150th-anniversary-of-the-gettysburg-address.md)

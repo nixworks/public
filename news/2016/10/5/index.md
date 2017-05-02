@@ -13,7 +13,7 @@ _Context: F-16, Israel, Israeli Air Force, Ramon Airbase_
 Haitian election officials postponed Sunday&rsquo;s rerun presidential and legislative elections indefinitely while they assess the extent of damage from Hurricane Matthew, which left at least 10 dead and hundreds of thousands displaced from their homes. The death toll is expected to rise.
 
 ### [The United Nations Security Council affirms the first step in the election of Portuguese Antonio Guterres as the next Secretary-General of the United Nations. If ratified by the General Assembly, he will take office on January 1, 2017. ](/news/2016/10/5/the-united-nations-security-council-affirms-the-first-step-in-the-election-of-portuguese-anta3nio-guterres-as-the-next-secretary-general-of.md)
-_Context: António Guterres, General Assembly, Portuguese, Secretary General, United Nations Secretary-General selection, 2016, United Nations Security Council_
+_Context: Antonio Guterres, General Assembly, Portuguese, Secretary General, United Nations Secretary-General selection, 2016, United Nations Security Council_
 
 ### [The Paris Agreement on climate change which governs greenhouse gas emissions will take effect in November. ](/news/2016/10/5/the-paris-agreement-on-climate-change-which-governs-greenhouse-gas-emissions-will-take-effect-in-november.md)
 A global agreement to combat climate change will take force after support from European nations sent the accord across an important threshold on Wednesday, prompting U.S. President Barack Obama to hail it as a &quot;historic day&quot; for protecting the planet.

@@ -7,7 +7,7 @@ Muslim militants linked to so-called Islamic State are freed from jail in the Ph
 _Context: Colombian conflict, FARC_
 
 ### [A suicide bombing kills at least 15 people at a wedding in the southern Shiite city of Kerbala. ](/news/2016/08/28/a-suicide-bombing-kills-at-least-15-people-at-a-wedding-in-the-southern-shiite-city-of-kerbala.md)
-_Context: Iraqi Civil War (2014–present), Kerbala, Shiite, suicide bombing_
+_Context: Iraqi Civil War (2014-present), Kerbala, Shiite, suicide bombing_
 
 ### [The Spanish-based Proactiva Open Arms NGO rescues more than 700 migrants in the Mediterranean Sea about 17 miles north of Sabratha, Libya. The rescued, who are from Nigeria, are transferred to the Italian Coast Guard.   ](/news/2016/08/28/the-spanish-based-proactiva-open-arms-ngo-rescues-more-than-700-migrants-in-the-mediterranean-sea-about-17-miles-north-of-sabratha-libya-t.md)
 More than seven hundred migrants were rescued Sunday morning by members of an NGO before transferring them to the Italian Coast Guard.

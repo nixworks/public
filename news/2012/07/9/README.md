@@ -4,7 +4,7 @@
 Police in northern Mexico find 10 decapitated bodies in the city of Torreon, believed to be the victims of a turf war between drug gangs.
 
 ### [Syrian uprising (2011-present):UN and Arab League envoy to Syria, Kofi Annan, states that talks with Syrian President Bashar Assad in Damascus are "constructive". ](/news/2012/07/9/syrian-uprising-2011apresent-pun-and-arab-league-envoy-to-syria-kofi-annan-states-that-talks-with-syrian-president-bashar-assad-in-dam.md)
-_Context: Bashar Assad’s, Damascus, Kofi Annan, Syrian uprising (2011–present)_
+_Context: Bashar Assad's, Damascus, Kofi Annan, Syrian uprising (2011-present)_
 
 ### [Gunmen open fire at a Pakistan Army training camp near the city of Wazirabad resulting in seven deaths and five people being injured. ](/news/2012/07/9/gunmen-open-fire-at-a-pakistan-army-training-camp-near-the-city-of-wazirabad-resulting-in-seven-deaths-and-five-people-being-injured.md)
 _Context: Pakistan Army, Wazirabad_
@@ -19,13 +19,13 @@ Thousands of computer users may be without Internet access Monday after a deadli
 _Context: Norway, Oil, gas, industrial dispute, lock out_
 
 ### [Rolling blackouts hit Alberta, Canada in response to record heat taking multiple power plants offline. The Alberta Electric System Operator coordinates the effort. ](/news/2012/07/9/rolling-blackouts-hit-alberta-canada-in-response-to-record-heat-taking-multiple-power-plants-offline-the-alberta-electric-system-operator.md)
-_Context: Alberta, Alberta Electric System Operator, Canadian_
+_Context: Alberta, Alberta Electric System Operator, Canada_
 
 ### [More than $200 million in customer funds is reportedly missing from the accounts of U.S. futures broker PFGBest, after the firm's founder Russell Wasendorf attempted suicide outside the company's Iowa headquarters. ](/news/2012/07/9/more-than-200-million-in-customer-funds-is-reportedly-missing-from-the-accounts-of-u-s-futures-broker-pfgbest-after-the-firm-s-founder-ru.md)
 _Context: Iowa, PFGBest, Russell Wasendorf_
 
 ### [The Mexican drug cartel known as Los Zetas laundered millions of dollars through accounts at Bank of America; that money was then used to finance a horse racing business in the United States, allegedly ran by Jose Trevino Morales. ](/news/2012/07/9/the-mexican-drug-cartel-known-as-los-zetas-laundered-millions-of-dollars-through-accounts-at-bank-of-america-that-money-was-then-used-to-fi.md)
-_Context: Bank of America, José Treviño Morales, Los Zetas, drug cartel_
+_Context: Bank of America, Jose Trevino Morales, Los Zetas, drug cartel_
 
 ### [The United States Department of Justice unseals an indictment charging five people for their alleged involvement in the murder of Border Patrol agent Brian Terry and offers up to $1 million reward for information leading to their arrest. ](/news/2012/07/9/the-united-states-department-of-justice-unseals-an-indictment-charging-five-people-for-their-alleged-involvement-in-the-murder-of-border-pat.md)
 _Context: Brian Terry, U.S. Border Patrol, U.S. Justice Department, indicted_
@@ -34,7 +34,7 @@ _Context: Brian Terry, U.S. Border Patrol, U.S. Justice Department, indicted_
 _Context: Egypt, Mohammed Mursi_
 
 ### [Venezuelan president Hugo Chavez says that he has completely recovered from cancer in the pelvic region. ](/news/2012/07/9/venezuelan-president-hugo-cha-vez-says-that-he-has-completely-recovered-from-cancer-in-the-pelvic-region.md)
-_Context: Hugo Chávez, Venezuela_
+_Context: Hugo Chavez, Venezuela_
 
 ## [Previous Day...](/news/2012/07/8/index.md)
 

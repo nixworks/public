@@ -19,7 +19,7 @@ A building under construction collapses in Nigeria, Rwandan breaks cricket recor
 A ballistic missile defense shield which the United States has activated in Europe is a step to a new arms race, Russian President Vladimir Putin said on Friday, vowing to adjust budget spending to neutralize &quot;emerging threats&quot; to Russia.
 
 ### [Former President of Argentina Cristina Fernandez is indicted on fraud charges in relation to alleged irregularities in the sale of United States dollars by the Central Bank during her term in office. ](/news/2016/05/13/former-president-of-argentina-cristina-ferna-ndez-is-indicted-on-fraud-charges-in-relation-to-alleged-irregularities-in-the-sale-of-united-s.md)
-_Context: Central Bank, Cristina Fernández, President of Argentina, United States dollars_
+_Context: Central Bank, Cristina Fernandez, President of Argentina, United States dollars_
 
 ### [The United States Education and Justice Departments advise U.S. public school districts across the country to allow transgender students to use the bathrooms that match their gender identity, rather than their gender at birth. The new guidance comes as  Justice and North Carolina battle in federal court over the state's new so-called bathroom bill. ](/news/2016/05/13/the-united-states-education-and-justice-departments-advise-u-s-public-school-districts-across-the-country-to-allow-transgender-students-to.md)
 WASHINGTON (AP) — Public schools must permit transgender students to use bathrooms and locker rooms consistent with their chosen gender identity, according to an Obama administration directive issued amid a court fight…

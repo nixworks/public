@@ -25,7 +25,7 @@ _Context: Aerospace Industrial Development Corporation, Ching-kuo, Hsung Ying, T
 The announcement came after three days of shuttle diplomacy by Secretary of State Condoleezza Rice.
 
 ### [ The Blair Government introduces legislation into the Parliament of the United Kingdom to facilitate a power-sharing agreement in Northern Ireland between Ian Paisley's Democratic Unionist Party and Sinn Fin. ](/news/2007/03/27/the-blair-government-introduces-legislation-into-the-parliament-of-the-united-kingdom-to-facilitate-a-power-sharing-agreement-in-northern-i.md)
-_Context: British Parliament, Democratic Unionist Party, Ian Paisley, Northern Ireland, Sinn Féin, Tony Blair_
+_Context: British Parliament, Democratic Unionist Party, Ian Paisley, Northern Ireland, Sinn Fin, Tony Blair_
 
 ## [Previous Day...](/news/2007/03/26/index.md)
 

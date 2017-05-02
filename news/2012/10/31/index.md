@@ -19,7 +19,7 @@ Cyclone Nilam today swept across north Tamil Nadu coast near Mahabalipuram leavi
 Twenty-five people have been killed by an electrical fire at a wedding in the Abqaiq region of eastern Saudi Arabia, officials say.
 
 ### [Former Penn State assistant coach Jerry Sandusky is transferred to State Correctional Institution - Greene in Franklin Township, Pennsylvania, to serve his 30-to-60-year sentence on child sexual abuse charges. ](/news/2012/10/31/former-penn-state-assistant-coach-jerry-sandusky-is-transferred-to-state-correctional-institution-a-greene-in-franklin-township-pennsylva.md)
-_Context: Franklin Township, Jerry Sandusky, Penn State, Penn State scandal, Pennsylvania, State Correctional Institution – Greene, sexual abuse_
+_Context: Franklin Township, Jerry Sandusky, Penn State, Penn State scandal, Pennsylvania, State Correctional Institution - Greene, sexual abuse_
 
 ### [Two Iranian warships leave Port Sudan on the Red Sea, after a four-day stay. ](/news/2012/10/31/two-iranian-warships-leave-port-sudan-on-the-red-sea-after-a-four-day-stay.md)
 _Context: Iranian Naval, Port Sudan, Red Sea_
@@ -28,7 +28,7 @@ _Context: Iranian Naval, Port Sudan, Red Sea_
 The government is defeated in Parliament over the EU budget after 53 Conservative MPs defied their party over the issue.
 
 ### [The government of Bahrain defends its decision to impose a ban on all public protests and demonstrations, following calls from Amnesty International to lift the ban immediately as it breaches the rights to free speech and assembly. ](/news/2012/10/31/the-government-of-bahrain-defends-its-decision-to-impose-a-ban-on-all-public-protests-and-demonstrations-following-calls-from-amnesty-inter.md)
-_Context: Amnesty International, Bahraini uprising (2011–present), Human rights in Bahrain, government of Bahrain_
+_Context: Amnesty International, Bahraini uprising (2011-present), Human rights in Bahrain, government of Bahrain_
 
 ## [Previous Day...](/news/2012/10/30/index.md)
 

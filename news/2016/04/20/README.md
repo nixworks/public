@@ -1,7 +1,7 @@
 ## [2016-04-20](/news/2016/04/20/index.md)
 
 ### [The death toll from yesterday's Taliban attack on the National Directorate of Security in Kabul rises to 64, with 347 others wounded, according to the Afghan Interior Ministry. ](/news/2016/04/20/the-death-toll-from-yesterday-s-taliban-attack-on-the-national-directorate-of-security-in-kabul-rises-to-64-with-347-others-wounded-accord.md)
-_Context: Afghan Interior Ministry, April 2016 Kabul attack, Kabul, National Directorate of Security, Taliban, War in Afghanistan (2015–present)_
+_Context: Afghan Interior Ministry, April 2016 Kabul attack, Kabul, National Directorate of Security, Taliban, War in Afghanistan (2015-present)_
 
 ### [A Ukrainian military spokesman says three of its soldiers were killed by a mortar attack in the country's east, the heaviest toll reported in the region in nearly two months. ](/news/2016/04/20/a-ukrainian-military-spokesman-says-three-of-its-soldiers-were-killed-by-a-mortar-attack-in-the-country-s-east-the-heaviest-toll-reported-i.md)
 _Context: Ukrainian, Ukrainian military, War in Donbass, eastern Ukraine_
@@ -40,7 +40,7 @@ A large explosion rocks an oil facility in the south-east Mexican state of Verac
 _Context: Abdullatif bin Rashid Al Zayani, Ash Carter, Gulf Cooperation Council, Houthi, Iran, Secretary of Defense, United States, Yemen, Yemeni Crisis_
 
 ### [The European Union proposes offering Ukraine visa-free travel to its members. However, it is still unclear how fast the liberalization process will be dealt with in the European Parliament and European Council, where some EU member states might want to slow down the process. ](/news/2016/04/20/the-european-union-proposes-offering-ukraine-visa-free-travel-to-its-members-however-it-is-still-unclear-how-fast-the-liberalization-proce.md)
-_Context: European Council, European Parliament, European Union, Ukraine–European Union relations, Ukrainian, member states_
+_Context: European Council, European Parliament, European Union, Ukraine-European Union relations, Ukrainian, member states_
 
 ### [NATO reopens informal talks with Russia for the first time in nearly two years. According to the Secretary General of NATO Jens Stoltenberg "NATO and Russia have profound and persistent disagreements, today's meeting did not change that." ](/news/2016/04/20/nato-reopens-informal-talks-with-russia-for-the-first-time-in-nearly-two-years-according-to-the-secretary-general-of-nato-jens-stoltenberg.md)
 NATO has reopened informal talks with Russia for the first time in nearly two years. Diplomats met for over 90 minutes to discuss Ukraine and the
@@ -73,7 +73,7 @@ The US Justice Department opens a criminal investigation into tax avoidance sche
 Two Zambians were burned to death on Monday during an outbreak of xenophobic violence in the capital, Lusaka, the authorities say.
 
 ### [Canada's Minister of Health Jane Philpott says federal legislation to legalize marijuana will be introduced in spring of 2017. ](/news/2016/04/20/canada-s-minister-of-health-jane-philpott-says-federal-legislation-to-legalize-marijuana-will-be-introduced-in-spring-of-2017.md)
-_Context: Canadian, Drug policy of Canada, Jane Philpott, Minister of Health, marijuana_
+_Context: Canada, Drug policy of Canada, Jane Philpott, Minister of Health, marijuana_
 
 ### [The United States Supreme Court rules that almost $2 billion in frozen Iranian assets must be turned over to American families of people killed in attacks blamed on Iran, including the 1983 bombing of a U.S. Marine Corps barracks in Beirut, Lebanon. ](/news/2016/04/20/the-united-states-supreme-court-rules-that-almost-2-billion-in-frozen-iranian-assets-must-be-turned-over-to-american-families-of-people-kil.md)
 The U.S. Supreme Court on Wednesday ruled that almost $2 billion in frozen Iranian assets must be turned over to American families of people killed in the 1983 bombing of a U.S. Marine Corps barracks in Beirut and other attacks blamed on Iran.

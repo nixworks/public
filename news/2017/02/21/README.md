@@ -22,7 +22,7 @@ _Context: Indonesia, Jakarta_
 _Context: South Sudan, a famine_
 
 ### [French National Front presidential candidate Marine Le Pen leaves before her scheduled meeting in Beirut with Lebanon's top Sunni Muslim religious leader, Grand Mufti Abdellatif Deryan, following her refusal to accept the offered headscarf to cover her hair. Le Pen's aides had been informed earlier about the traditional, religious need for a headscarf for this meeting. ](/news/2017/02/21/french-national-front-presidential-candidate-marine-le-pen-leaves-before-her-scheduled-meeting-in-beirut-with-lebanon-s-top-sunni-muslim-rel.md)
-_Context: France–Lebanon relations, Marine Le Pen, National Front, Sunni Muslim, headscarf_
+_Context: France-Lebanon relations, Marine Le Pen, National Front, Sunni Muslim, headscarf_
 
 ### [After Swedish police arrest a suspect on drug-related charges, rioting occurs in Rinkeby, a suburb of the Swedish capital Stockholm. ](/news/2017/02/21/after-swedish-police-arrest-a-suspect-on-drug-related-charges-rioting-occurs-in-rinkeby-a-suburb-of-the-swedish-capital-stockholm.md)
 Swedish police say riots broke out overnight in a predominantly immigrant Stockholm suburb after officers arrested a suspect on drug charges.
@@ -43,7 +43,7 @@ _Context: Azerbaijan, Mehriban Aliyeva_
 _Context: Armenia, Azerbaijan, Nagorno-Karabakh, Nagorno-Karabakh constitutional referendum, 2017, presidential, prime minister, semi-presidential system_
 
 ### [A runoff presidential election, between former vice-president Lenin Moreno and former bank president Guillermo Lasso, is scheduled for Sunday, April 2 since no candidate gained at least 40 percent of the vote in Sunday's poll. With 95.3 percent of votes counted, Moreno received 39.21 percent of valid votes and Lasso had 28.34 percent. ](/news/2017/02/21/a-runoff-presidential-election-between-former-vice-president-lenan-moreno-and-former-bank-president-guillermo-lasso-is-scheduled-for-sund.md)
-_Context: Ecuadorian general election, 2017, Guillermo Lasso, Lenín Moreno_
+_Context: Ecuadorian general election, 2017, Guillermo Lasso, Lenin Moreno_
 
 ### [Several new species of tiny frogs are discovered in India. ](/news/2017/02/21/several-new-species-of-tiny-frogs-are-discovered-in-india.md)
 Some of the smallest known frogs were recently discovered following a five-year survey in India

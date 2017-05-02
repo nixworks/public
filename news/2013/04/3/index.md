@@ -1,7 +1,7 @@
 ## [2013-04-3](/news/2013/04/3/index.md)
 
 ### [Israeli-Palestinian conflict:Israeli warplanes strike targets in the Gaza Strip in response to rocket fire, the first air strikes launched by Israel since an informal ceasefire ended eight days of cross-border fighting between Israel and Hamas-ruled Gaza in November 2012. ](/news/2013/04/3/israeliapalestinian-conflict-pisraeli-warplanes-strike-targets-in-the-gaza-strip-in-response-to-rocket-fire-the-first-air-strikes-launche.md)
-_Context: Gaza Strip, Hamas, Israel, Israeli–Palestinian conflict, air strikes, informal ceasefire, ruled Gaza_
+_Context: Gaza Strip, Hamas, Israel, Israeli-Palestinian conflict, air strikes, informal ceasefire, ruled Gaza_
 
 ### [War in Afghanistan (2001-present):At least 46 people are killed and more than 100 injured following an attack by Taliban militants armed with suicide vests on a courthouse in Farah, Afghanistan. ](/news/2013/04/3/war-in-afghanistan-2001apresent-pat-least-46-people-are-killed-and-more-than-100-injured-following-an-attack-by-taliban-militants-armed.md)
 A suicide bomb and gun attack on a courthouse in the Afghan city of Farah leaves more than 50 people dead and 90 wounded, most of them civilians.
@@ -64,7 +64,7 @@ All but a handful of the 35 educators accused in a massive cheating scandal in A
 WILLIAMSON, W.Va. -- The newly elected Mingo County sheriff, intent on cleaning up the county&#39;s drug problem, was gunned down at midday Wednesday in downtown Williamson.
 
 ### [Nicolas Maduro, acting President of Venezuela, officially begins his campaign to succeed Hugo Chavez in the late leader's hometown ahead of the April 14 election. ](/news/2013/04/3/nicola-s-maduro-acting-president-of-venezuela-officially-begins-his-campaign-to-succeed-hugo-cha-vez-in-the-late-leader-s-hometown-ahead-o.md)
-_Context: Hugo Chávez, Nicolás Maduro, President, Venezuela, last month's presidential election_
+_Context: Hugo Chavez, Nicolas Maduro, President, Venezuela, last month's presidential election_
 
 ### [Malaysia's Prime Minister Najib Razak dissolves parliament and advises all the state governments, except Negeri Sembilan and Sarawak to do the same, in preparation for general election. ](/news/2013/04/3/malaysia-s-prime-minister-najib-razak-dissolves-parliament-and-advises-all-the-state-governments-except-negeri-sembilan-and-sarawak-to-do-t.md)
 _Context: Malaysia, Malaysian Prime Minister, Najib Razak, Negeri Sembilan, Parliament of Malaysia, Sarawak, general election, state governments_

@@ -34,7 +34,7 @@ Ma Ying-jeou begins second term amid protests over living costs and policies see
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [Tomislav Nikolic is elected President of Serbia with 49.4% of the vote. ](/news/2012/05/20/tomislav-nikolia-is-elected-president-of-serbia-with-49-4-of-the-vote.md)
-_Context: President, Tomislav Nikolić, elected_
+_Context: President, Tomislav Nikolic, elected_
 
 ### [Thousands of people gather in London for an open-top bus parade to celebrate Chelsea's UEFA Champions League victory over Munich in last night's final. ](/news/2012/05/20/thousands-of-people-gather-in-london-for-an-open-top-bus-parade-to-celebrate-chelsea-s-uefa-champions-league-victory-over-munich-in-last-nig.md)
 _Context: Chelsea F.C., London, UEFA Champions League, last May_

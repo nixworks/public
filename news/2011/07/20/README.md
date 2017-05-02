@@ -10,7 +10,7 @@ _Context: Bingu wa Mutharika, Malawi, President_
 _Context: Ali Aghazadeh Dafsari, Fordo, Iran, Iranian Revolutionary guards, United States, uranium enrichment_
 
 ### [Up to 80 people, including soldiers, are arrested in Guinea after a failed assassination attempt on President Alpha Conde on 19 July. ](/news/2011/07/20/up-to-80-people-including-soldiers-are-arrested-in-guinea-after-a-failed-assassination-attempt-on-president-alpha-conda-c-on-19-july.md)
-_Context: Alpha Condé's, Guinea, President_
+_Context: Alpha Conde's, Guinea, President_
 
 ### [British artist Lucian Freud dies at his home in London following a brief illness. ](/news/2011/07/20/british-artist-lucian-freud-dies-at-his-home-in-london-following-a-brief-illness.md)
 Mr. Freud, a grandson of Sigmund Freud, was called “the greatest living realist painter” by one art critic in the late 1980s.

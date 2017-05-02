@@ -1,0 +1,25 @@
+### [2015-11-17](/news/2015/11/17/index.md)
+
+# In the Pacific Northwest region of the United States, a windstorm with gusts as high as 119|mph|kph kills 4 people and leaves more than 1 million without electricity; some rivers in Western Washington also experience moderate to severe flooding. Washington Governor Jay Inslee declares a state of emergency after the storm, requesting federal assistance with cleanup efforts. 
+
+A large storm system has brought widespread damage to the Northwest. Here&#039;s the latest.
+
+
+### Source:
+
+1. [KIRO-TV](http://www.kirotv.com/news/news/thousands-remain-without-power-after-violent-storm/npQJm/)
+2. [The Seattle Times](http://www.seattletimes.com/seattle-news/weather/high-winds-to-hit-puget-sound-area-flooding-downed-trees-landslides-possible/)
+3. [The Weather Channel](http://www.weather.com/news/weather/news/northwest-high-winds-rain-snow-impacts)
+
+### Related:
+
+1. [Governor of Washington Jay Inslee declares a state of emergency after severe flooding and high winds across the western part of the state close several major highways, damage homes and property, and impact electricity service. ](/news/2015/12/9/governor-of-washington-jay-inslee-declares-a-state-of-emergency-after-severe-flooding-and-high-winds-across-the-western-part-of-the-state-cl.md) _Context: Jay Inslee, Western Washington, state of emergency_
+2. [President Barack Obama declares a state of emergency across northeastern and central Washington as the amount of burned land in the state reaches nearly a half-million acres. ](/news/2015/08/21/president-barack-obama-declares-a-state-of-emergency-across-northeastern-and-central-washington-as-the-amount-of-burned-land-in-the-state-re.md) _Context: Washington, state of emergency_
+3. [ A severe windstorm hits the Pacific Northwest overnight, with wind gusts reported as high as 97 miles per hour. Three people were killed in Washington, and at the peak of the storm about one million homes in western Washington and over 400,000 in the Greater Portland area were without electricity. In British Columbia, Stanley Park sustains more than $9 million damage. ](/news/2006/12/15/a-severe-windstorm-hits-the-pacific-northwest-overnight-with-wind-gusts-reported-as-high-as-97-miles-per-hour-three-people-were-killed-in.md) _Context: Pacific Northwest, Washington_
+4. [Robert Bentley, the Governor of Alabama, declares a state of emergency due to forecasts of storms with the threat of tornadoes during the day. The neighboring state of Georgia also faces the threat of severe weather. ](/news/2017/04/4/robert-bentley-the-governor-of-alabama-declares-a-state-of-emergency-due-to-forecasts-of-storms-with-the-threat-of-tornadoes-during-the-da.md) _Context: state of emergency_
+5. [A U.S. federal judge in Hawaii, finding the revised federal immigration/refugee executive order violates the U.S. Constitution's religious establishment clause, grants the state of Hawaii's motion for a nationwide temporary restraining order on these rules that were set to become effective at midnight. President Donald Trump vows to appeal this ruling. Two other federal courts held hearings on similar requests filed by the states of Maryland and Washington; neither of these judges issued a ruling. ](/news/2017/03/15/a-u-s-federal-judge-in-hawaii-finding-the-revised-federal-immigration-refugee-executive-order-violates-the-u-s-constitution-s-religious-e.md) _Context: Washington_
+6. [The Grand National Assembly of Turkey votes to extend a state of emergency imposed after last year's attempted coup for another three months. ](/news/2017/01/3/the-grand-national-assembly-of-turkey-votes-to-extend-a-state-of-emergency-imposed-after-last-year-s-attempted-coup-for-another-three-months.md) _Context: state of emergency_
+7. [California Governor Jerry Brown declares a state of emergency in 50 counties, as winter storms kill four and cause millions of dollars in damage. ](/news/2017/01/24/california-governor-jerry-brown-declares-a-state-of-emergency-in-50-counties-as-winter-storms-kill-four-and-cause-millions-of-dollars-in-da.md) _Context: state of emergency_
+8. [Chile has declared a state of emergency and requested international help to help deal with forest fires. ](/news/2017/01/22/chile-has-declared-a-state-of-emergency-and-requested-international-help-to-help-deal-with-forest-fires.md) _Context: state of emergency_
+9. [Alaska Airlines cancels 20 flights into and out of Seattle due to inclement weather forecast in the Pacific Northwest area. ](/news/2016/12/5/alaska-airlines-cancels-20-flights-into-and-out-of-seattle-due-to-inclement-weather-forecast-in-the-pacific-northwest-area.md) _Context: Pacific Northwest_
+10. [Robert J. Bentley, the Governor of Alabama, declares a state of emergency following Monday's gas explosion in a Colonial Pipeline pipeline. The explosion killed one person and injured five. ](/news/2016/11/1/robert-j-bentley-the-governor-of-alabama-declares-a-state-of-emergency-following-monday-s-gas-explosion-in-a-colonial-pipeline-pipeline.md) _Context: state of emergency_

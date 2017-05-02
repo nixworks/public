@@ -7,7 +7,7 @@ _Context: Texas, United States, mass shooting_
 Tens of thousands attended rallies around the UK as a public sector strike over pensions disrupted schools, hospitals and other services.
 
 ### [It is announced that Laurent Gbagbo, the former President of Cte d'Ivoire, has been transferred to the International Criminal Court in The Hague, Netherlands, to face trial for crimes against humanity. ](/news/2011/11/30/it-is-announced-that-laurent-gbagbo-the-former-president-of-cote-d-ivoire-has-been-transferred-to-the-international-criminal-court-in-the.md)
-_Context: Côte d'Ivoire, International Criminal Court, Laurent Gbagbo, Netherlands, President, The Hague, crimes against humanity_
+_Context: Cte d'Ivoire, International Criminal Court, Laurent Gbagbo, Netherlands, President, The Hague, crimes against humanity_
 
 ### [2011 attack on British embassy in Iran:The Iranian Foreign Ministry calls the attacks "unacceptable", stating that they happened despite the efforts of the embassy guards. Police arrest 12 protesters in connection with the attacks. ](/news/2011/11/30/2011-attack-on-british-embassy-in-iran-pthe-iranian-foreign-ministry-calls-the-attacks-unacceptable-stating-that-they-happened-despite-th.md)
 _Context: 2011 attack on British embassy in Iran, Foreign Minister, Iran_

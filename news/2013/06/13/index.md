@@ -28,7 +28,7 @@ Police sorting out what happened; victims &mdash; some of them related &mdash; a
 Several officials, including a top aide to Prime Minister Petr Necas, are reported to have been detained. The coalition government has been rocked by a series of corruption scandals.
 
 ### [Gunmen ambush and kill eight police officers and kidnap the chief of police in Salcaja, Guatemala. ](/news/2013/06/13/gunmen-ambush-and-kill-eight-police-officers-and-kidnap-the-chief-of-police-in-salcaja-guatemala.md)
-_Context: Guatemala, Salcajá_
+_Context: Guatemala, Salcaja_
 
 ### [British gangster Dale Cregan is sentenced to a whole life tariff for the murders of four people, including two police officers. ](/news/2013/06/13/british-gangster-dale-cregan-is-sentenced-to-a-whole-life-tariff-for-the-murders-of-four-people-including-two-police-officers.md)
 Dale Cregan will spend the rest of his life in jail for four murders including two police officers in Greater Manchester.

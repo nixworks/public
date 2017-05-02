@@ -43,7 +43,7 @@ Far-reaching restrictions on the trade in hardwood trees have been agreed at Cit
 _Context: Nelson Mandela, South Africa, Winnie Madikizela-Mandela, exhume_
 
 ### [The secretive Opus Dei sect is mobilising within the Irish professions to interfere with abortion law reform, according to Senator John Crown. ](/news/2013/03/12/the-secretive-opus-dei-sect-is-mobilising-within-the-irish-professions-to-interfere-with-abortion-law-reform-according-to-senator-john-crow.md)
-_Context: John Crown, Opus Dei, Republic of Ireland, Seanad Éireann, abortion, abortion law_
+_Context: John Crown, Opus Dei, Republic of Ireland, Seanad Eireann, abortion, abortion law_
 
 ### [The US Secret Service launches an investigation after hackers post what they claim is personal data and credit information of celebrities, including First Lady Michelle Obama, online. ](/news/2013/03/12/the-us-secret-service-launches-an-investigation-after-hackers-post-what-they-claim-is-personal-data-and-credit-information-of-celebrities-i.md)
 The US Secret Service has launched an investigation after hackers posted what they said was personal data and credit information of celebrities, including First Lady Michelle Obama, online.
@@ -73,7 +73,7 @@ NASA will reveal new discoveries about Mars gleaned by Curiosity rover on March 
 Last week, Russian scientists announced the discovery of a new type of bacterial life found in the water samples collected from the ancient Lake Vostok, but on 11 March the lab confirmed that it was not the bacteria but the contamination that generated the signal.
 
 ### [Lionel Messi scores twice in FC Barcelona's historic comeback, 4-0 win over AC Milan at Camp Nou to reach quarter-finals of the 2012-13 UEFA Champions League. In the other match, Turkey's Galatasaray defeats Schalke 04 3-2 in Gelsenkirchen, Germany. ](/news/2013/03/12/lionel-messi-scores-twice-in-fc-barcelona-s-historic-comeback-4a0-win-over-ac-milan-at-camp-nou-to-reach-quarter-finals-of-the-2012a13.md)
-_Context: 2012–13 UEFA Champions League, Camp Nou, FC Barcelona, Galatasaray S.K., Gelsenkirchen, Germany, Lionel Messi, Milan, Schalke 04, Turkey, comeback, semi-finals_
+_Context: 2012-13 UEFA Champions League, Camp Nou, FC Barcelona, Galatasaray S.K., Gelsenkirchen, Germany, Lionel Messi, Milan, Schalke 04, Turkey, comeback, semi-finals_
 
 ### [Former AC Milan and Italy legend Gennaro Gattuso says he will retire from the game in the summer 2013 in order to focus on his coaching ambitions. ](/news/2013/03/12/former-ac-milan-and-italy-legend-gennaro-gattuso-says-he-will-retire-from-the-game-in-the-summer-2013-in-order-to-focus-on-his-coaching-ambi.md)
 Former Milan and Italy legend Gennaro Gattuso says he is considering retiring from the game in the Summer in order to fulfill ambitions he has to succeed as a coach.

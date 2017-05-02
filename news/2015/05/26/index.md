@@ -1,7 +1,7 @@
 ## [2015-05-26](/news/2015/05/26/index.md)
 
 ### [A suicide bomber and gunmen attack a court building in the provincial capital of Maidan Shahr in Maidan Wardak resulting in the deaths of two police officers and four of the attackers. ](/news/2015/05/26/a-suicide-bomber-and-gunmen-attack-a-court-building-in-the-provincial-capital-of-maidan-shahr-in-maidan-wardak-resulting-in-the-deaths-of-tw.md)
-_Context: Maidan Shahr, Maidan Wardak, War in Afghanistan (2015–present), suicide bomber_
+_Context: Maidan Shahr, Maidan Wardak, War in Afghanistan (2015-present), suicide bomber_
 
 ### [Thirteen Kenyan police officers are missing after an Al-Shabaab ambush in Garissa County. ](/news/2015/05/26/thirteen-kenyan-police-officers-are-missing-after-an-al-shabaab-ambush-in-garissa-county.md)
 Police spokesman George Kinoti says 13 police officers are missing and two others wounded after suspected Al shabaab attack in Yumbis, Garissa county. 
@@ -19,7 +19,7 @@ Charter Communications Inc. is near an agreement to buy Time Warner Cable Inc. f
 _Context: China's, Manchuria, Neolithic, Niuheliang_
 
 ### [Thirteen die in Ciudad Acuna, Mexico in the city's first-ever tornado. ](/news/2015/05/26/thirteen-die-in-ciudad-acua-a-mexico-in-the-city-s-first-ever-tornado.md)
-_Context: Ciudad Acuña, Tornadoes of 2015_
+_Context: Ciudad Acuna, Tornadoes of 2015_
 
 ### [Flash flood warnings are now in place in eight states with flood waters causing closures of roads, rail services and buses in Houston. ](/news/2015/05/26/flash-flood-warnings-are-now-in-place-in-eight-states-with-flood-waters-causing-closures-of-roads-rail-services-and-buses-in-houston.md)
 An unprecedented downpour of torrential rain triggered &quot;extremely dangerous and potentially life-threatening&quot; flash flooding in Houston early Tuesday.

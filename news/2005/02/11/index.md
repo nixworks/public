@@ -4,7 +4,7 @@
 Things to do in Miami
 
 ### [ At least eight people are killed during a jail riot in Crdoba, Argentina.  All hostages taken by the prisoners were later freed by police.](/news/2005/02/11/at-least-eight-people-are-killed-during-a-jail-riot-in-cordoba-argentina-all-hostages-taken-by-the-prisoners-were-later-freed-by-police.md)
-_Context: Córdoba, Argentina_
+_Context: Crdoba, Argentina_
 
 ### [ Conflict in Iraq: At least 20 people are killed in Baghdad as United States Secretary of Defense Donald Rumsfeld tours the country for a day. ](/news/2005/02/11/conflict-in-iraq-at-least-20-people-are-killed-in-baghdad-as-united-states-secretary-of-defense-donald-rumsfeld-tours-the-country-for-a-da.md)
 _Context: Baghdad, Conflict in Iraq, Donald Rumsfeld, Secretary of Defense_

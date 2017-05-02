@@ -4,7 +4,7 @@
 Smoke billowing over Homs after night of intense gunfire
 
 ### [Forces loyal to Guinean President Alpha Conde repel an attack by unknown assailants on his residence in Conakry. ](/news/2011/07/19/forces-loyal-to-guinean-president-alpha-conda-c-repel-an-attack-by-unknown-assailants-on-his-residence-in-conakry.md)
-_Context: Alpha Condé's, Conakry, Guinea, President_
+_Context: Alpha Conde's, Conakry, Guinea, President_
 
 ### [A leaked United Nations report suggests war crimes may have been committed in South Kordofan in Sudan during a recent conflict. ](/news/2011/07/19/a-leaked-united-nations-report-suggests-war-crimes-may-have-been-committed-in-south-kordofan-in-sudan-during-a-recent-conflict.md)
 _Context: South Kordofan, Sudan, United Nations, conflict, war crime_
@@ -52,7 +52,7 @@ The balloting in the Green Bay area will be a first definitive outcome in the se
 An ambitious plan to slice $3.7 trillion from the federal budget over the next decade was gaining momentum in the Senate Tuesday.
 
 ### [The United States House of Representatives votes to approve the "Cut, Cap and Balance Act" by 234-190 but it is unlikely to pass the United States Senate. ](/news/2011/07/19/the-united-states-house-of-representatives-votes-to-approve-the-cut-cap-and-balance-act-by-234-190-but-it-is-unlikely-to-pass-the-united.md)
-_Context: Senator, U.S. House_
+_Context: U.S. House, United States Senate_
 
 ### [Pope Benedict XVI appoints Charles J. Chaput, the current Archbishop of Denver, as the head of the Roman Catholic Archdiocese of Philadelphia replacing Cardinal Justin Rigali. ](/news/2011/07/19/pope-benedict-xvi-appoints-charles-j-chaput-the-current-archbishop-of-denver-as-the-head-of-the-roman-catholic-archdiocese-of-philadelphi.md)
 _Context: Archbishop, Benedict XVI, Cardinal, Charles J. Chaput, Denver, Colorado, Justin Rigali, Roman Catholic Archdiocese of Philadelphia_

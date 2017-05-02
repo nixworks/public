@@ -6,8 +6,8 @@ Advances by Ukrainian army lead to intense fighting as separatists renew calls f
 ### [A UNRWA-run school in Rafah is hit by an Israeli air strike. At least seven people are thought to have been killed, and at least 30 injured. ](/news/2014/08/3/a-unrwa-run-school-in-rafah-is-hit-by-an-israeli-air-strike-at-least-seven-people-are-thought-to-have-been-killed-and-at-least-30-injured.md)
 There have been renewed clashes between Israeli military and militants in Gaza overnight as witnesses and medics say an Israeli air strike killed at least seven people and wounded about 30 others on Sunday in a UN-run school in the southern Gaza Strip.
 
-### [Nagorno-Karabakh conflict, 2014 Armenian-Azerbaijani clashes:Four Azerbaijani soldiers are killed in fresh clashes with Armenian groups near the border of the breakaway Nagorno-Karabakh Republic. ](/news/2014/08/3/nagorno-karabakh-conflict-2014-armenianaazerbaijani-clashes-pfour-azerbaijani-soldiers-are-killed-in-fresh-clashes-with-armenian-groups-n.md)
-_Context: 2014 Armenian–Azerbaijani clashes, Armenian, Azerbaijan, Nagorno-Karabakh, Nagorno-Karabakh conflict_
+### [Four Azerbaijani soldiers are killed in fresh clashes with Armenian groups near the border of the breakaway Nagorno-Karabakh Republic. ](/news/2014/08/3/four-azerbaijani-soldiers-are-killed-in-fresh-clashes-with-armenian-groups-near-the-border-of-the-breakaway-nagorno-karabakh-republic.md)
+_Context: 2014 Armenian-Azerbaijani clashes, Armenian, Azerbaijan, Nagorno-Karabakh, Nagorno-Karabakh conflict_
 
 ### [The Islamic State loses control of three towns in the area around Al-Asharah to local tribesmen. ](/news/2014/08/3/the-islamic-state-loses-control-of-three-towns-in-the-area-around-al-asharah-to-local-tribesmen.md)
 Villagers in eastern Syria drive out Islamic State militants, in a rare display of local resistance to the group, as fighting rages in neighbouring Iraq.

@@ -1,7 +1,7 @@
 ## [2012-05-8](/news/2012/05/8/index.md)
 
 ### [Arab Spring:Syrian uprising: Opposition fighters say they are amassing weapons amid a lull in fighting. ](/news/2012/05/8/arab-spring-psyrian-uprising-opposition-fighters-say-they-are-amassing-weapons-amid-a-lull-in-fighting.md)
-_Context: Arab Spring, Syrian uprising (2011–present)_
+_Context: Arab Spring, Syrian uprising (2011-present)_
 
 ### [Former Libyan rebels who fought to topple Muammar Gaddafi in 2011 launch an attack on the interim Prime Minister Abdurrahim El-Keib's office in Tripoli, Libya. ](/news/2012/05/8/former-libyan-rebels-who-fought-to-topple-muammar-gaddafi-in-2011-launch-an-attack-on-the-interim-prime-minister-abdurrahim-el-keib-s-office.md)
 The office of Libyan PM Abdurrahim al-Keib is attacked by ex-rebels demanding compensation promised by the government, leaving at least one guard dead.

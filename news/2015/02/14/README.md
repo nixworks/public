@@ -28,13 +28,13 @@ _Context: Massachusetts, Northeastern United States, blizzard_
 _Context: Gujarat, India, swine flu_
 
 ### [The United Arab Emirates suspends its embassy operations in Yemen due to security concerns surrounding the recent Shiite Houthi rebel take over of the country. ](/news/2015/02/14/the-united-arab-emirates-suspends-its-embassy-operations-in-yemen-due-to-security-concerns-surrounding-the-recent-shiite-houthi-rebel-take-o.md)
-_Context: United Arab Emirates, Yemen, Yemeni Crisis (2011–present)_
+_Context: United Arab Emirates, Yemen, Yemeni Crisis (2011-present)_
 
 ### [The Prime Minister of Australia Tony Abbott issues a last-minute plea for Bali Nine drug smugglers Andrew Chan and Myuran Sukumaran facing the death penalty in Indonesia. ](/news/2015/02/14/the-prime-minister-of-australia-tony-abbott-issues-a-last-minute-plea-for-bali-nine-drug-smugglers-andrew-chan-and-myuran-sukumaran-facing-t.md)
 _Context: Andrew Chan, Bali Nine, Indonesia, Myuran Sukumaran, Prime Minister of Australia, Tony Abbott, death penalty_
 
 ### [Former President of Chad Hissene Habre will stand trial in Senegal for alleged war crimes, torture and crimes against humanity. ](/news/2015/02/14/former-president-of-chad-hissa-ne-habra-c-will-stand-trial-in-senegal-for-alleged-war-crimes-torture-and-crimes-against-humanity.md)
-_Context: Hissène Habré, President of Chad, Senegal_
+_Context: Hissene Habre, President of Chad, Senegal_
 
 ### [A motorcycle gunman shoots and kills a journalist in the Philippines who had been critical of local officials' alleged involvement in the illegal drug trade. The murder of the journalist is the 34th since the regime of Benigno Aquino III began in 2010. ](/news/2015/02/14/a-motorcycle-gunman-shoots-and-kills-a-journalist-in-the-philippines-who-had-been-critical-of-local-officials-alleged-involvement-in-the-il.md)
 _Context: Benigno Aquino III, Philippines, journalist_

@@ -10,7 +10,7 @@ The United States arrested on Monday a Mexican laboratory owner accused of helpi
 The United States accused Iran in talks on Tuesday of increasing support for militias involved in bloodshed in Iraq but, in a rare sign of cooperation, agreed with Tehran to set up a panel to improve security.
 
 ### [ Democratic Party candidates in the 2008 United States presidential election participate in the YouTube debate in Charleston, South Carolina. ](/news/2007/07/23/democratic-party-candidates-in-the-2008-united-states-presidential-election-participate-in-the-youtube-debate-in-charleston-south-carolina.md)
-_Context: 2008, Charleston, South Carolina, Democrat, YouTube_
+_Context: 2008, Charleston, South Carolina, Democratic, YouTube_
 
 ### [ War in Afghanistan: Approximately 60 Taliban and six North Atlantic Treaty Organization (NATO) troops die in two days of heavy fighting. ](/news/2007/07/23/war-in-afghanistan-approximately-60-taliban-and-six-north-atlantic-treaty-organization-nato-troops-die-in-two-days-of-heavy-fighting.md)
 Afghan and US-led troops have killed more than 60 Taliban rebels in two days of fierce fighting, while six NATO soldiers died in separate clashes, officials say.
@@ -22,7 +22,7 @@ _Context: Mohammed Zahir Shah_
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 ### [ Japan allows International Atomic Energy Agency inspectors to visit the Kashiwazaki-Kariwa Nuclear Power Plant shut down after the recent 2007 Chuetsu offshore earthquake. ](/news/2007/07/23/japan-allows-international-atomic-energy-agency-inspectors-to-visit-the-kashiwazaki-kariwa-nuclear-power-plant-shut-down-after-the-recent-2.md)
-_Context: 2007 Chūetsu offshore earthquake, International Atomic Energy Agency, Japan, Kashiwazaki-Kariwa Nuclear Power Plant_
+_Context: 2007 Chuetsu offshore earthquake, International Atomic Energy Agency, Japan, Kashiwazaki-Kariwa Nuclear Power Plant_
 
 ### [ Flash floods and landslides in central Indonesia kill at least 30 people. ](/news/2007/07/23/flash-floods-and-landslides-in-central-indonesia-kill-at-least-30-people.md)
 _Context: Indonesia, flood, landslide_

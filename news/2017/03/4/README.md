@@ -1,7 +1,7 @@
 ## [2017-03-4](/news/2017/03/4/index.md)
 
 ### [According to provincial officials, at least eight people are killed and another 22 are injured by a roadside bomb in Farah Province. However, according to locals, the attack was actually an airstrike. ](/news/2017/03/4/according-to-provincial-officials-at-least-eight-people-are-killed-and-another-22-are-injured-by-a-roadside-bomb-in-farah-province-however.md)
-_Context: Farah Province, War in Afghanistan (2015–present)_
+_Context: Farah Province, War in Afghanistan (2015-present)_
 
 ### [The Benghazi Defense Brigades, an ally of the Shura Council of Benghazi Revolutionaries, claims to have captured five cities and two oil-production areas from forces loyal to Khalifa Haftar in the east of Libya. ](/news/2017/03/4/the-benghazi-defense-brigades-an-ally-of-the-shura-council-of-benghazi-revolutionaries-claims-to-have-captured-five-cities-and-two-oil-pro.md)
 Benghazi Defence Brigades says in control of five cities and two major oil producing areas in the east of the country.
@@ -13,7 +13,7 @@ Moments ago, several Islamist factions claimed to have shot down a MiG-21 MiG-23
 More than 100 people have starved to death in a single region of Somalia within 48 hours due to a severe drought, the country’s prime minister has said. In the first drought-related death toll announced since Somalia&#039;s government declared a national disaster on Tuesday, Hassan Khaire told the nation’s drought committee 110 people had died from hunger in two days in the southwestern Bay region alone.
 
 ### [Malaysia expels Kang Chol, North Korea's ambassador, after he criticised the former's investigation into the death of Kim Jong-nam. ](/news/2017/03/4/malaysia-expels-kang-chol-north-korea-s-ambassador-after-he-criticised-the-former-s-investigation-into-the-death-of-kim-jong-nam.md)
-_Context: Kim Jong-nam, Malaysia, Malaysia–North Korea relations, North Korea_
+_Context: Kim Jong-nam, Malaysia, Malaysia-North Korea relations, North Korea_
 
 ### [Mexico opens legal aide centers in its 50 U.S. consulates to defend its citizens'  rights amid the United States "crackdown" on illegal immigration. In a video, Foreign Minister Luis Videgaray Caso  said Mexico supports following the law but notes that current circumstances highlight the need for immigration reform. ](/news/2017/03/4/mexico-opens-legal-aide-centers-in-its-50-u-s-consulates-to-defend-its-citizens-rights-amid-the-united-states-crackdown-on-illegal-immi.md)
 MIAMI — Not only is the Mexican government not building a wall; it’s spending $50 million to beef up its legal aid to migrants who fear deportation, a response to President Donald Trump’s crackdown on illegal immigration. All 50 Mexican consulates in the U.S. on launched legal assistance centers to form partnerships with nonprofit groups and tap lawyers to help those fearing Trump’s policies. The diplomatic effort comes as the two countries are in a rift over Trump’s plans for a border wall. While Trump says Mexico will pay for it one way or another, Mexico says it won’t. It was also unveiled less than two weeks after new guidelines came out aimed at aggressively detaining and deporting immigrants by increasing the number of federal agents and strengthening cooperation with local law

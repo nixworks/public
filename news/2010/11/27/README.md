@@ -22,7 +22,7 @@ At least three people have been killed in violence in Ivory Coast, hours before 
 PAKISTANI Muslims have threatened anarchy if the Government pardons a Christian mother sentenced to death for blasphemy, calling hundreds of protesters onto the streets.
 
 ### [Cte d'Ivoire President Laurent Gbagbo declares a curfew, amid clashes that killed three people ahead of the second round of the presidential election on Sunday. ](/news/2010/11/27/cote-d-ivoire-president-laurent-gbagbo-declares-a-curfew-amid-clashes-that-killed-three-people-ahead-of-the-second-round-of-the-presidentia.md)
-_Context: 2010 presidential election, Côte d'Ivoire, Laurent Gbagbo_
+_Context: 2010 presidential election, Cte d'Ivoire, Laurent Gbagbo_
 
 ### [Two Japanese ministers are censured by the House of Councillors over a territorial dispute with China. ](/news/2010/11/27/two-japanese-ministers-are-censured-by-the-house-of-councillors-over-a-territorial-dispute-with-china.md)
 _Context: China's, House of Councillors, Japan, censured_

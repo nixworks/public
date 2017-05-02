@@ -22,7 +22,7 @@ _Context: Antarctica, Australia, Japan, Netherlands, New Zealand, United States,
 _Context: Taiwan, conscription_
 
 ### [Belgian police find the body of a woman at the home of gunman Nordine Amrani responsible for the 2011 Lige attack. ](/news/2011/12/14/belgian-police-find-the-body-of-a-woman-at-the-home-of-gunman-nordine-amrani-responsible-for-the-2011-liege-attack.md)
-_Context: 2011 Liège attack, Police_
+_Context: 2011 Lige attack, Police_
 
 ### [The speaker of Russia's lower house of parliament and ally of Vladimir Putin, Boris Gryzlov, resigns. ](/news/2011/12/14/the-speaker-of-russia-s-lower-house-of-parliament-and-ally-of-vladimir-putin-boris-gryzlov-resigns.md)
 Boris V. Gryzlov, the chairman of Russiaâ€™s governing party, United Russia, resigned as speaker of the Duma.
@@ -31,7 +31,7 @@ Boris V. Gryzlov, the chairman of Russiaâ€™s governing party, United Russia, res
 Chinese officials have ratcheted up pressure on the rebel village of Wukan, as it entered its fourth day of a police siege, by allegedly ransoming four men who were seized from the village last week.
 
 ### [Democratic Republic of the Congo opposition leader Etienne Tshisekedi's party calls for mass protests amid disputed elections. ](/news/2011/12/14/democratic-republic-of-the-congo-opposition-leader-etienne-tshisekedi-s-party-calls-for-mass-protests-amid-disputed-elections.md)
-_Context: Democratic Republic of the Congo, presidential election, Étienne Tshisekedi_
+_Context: Democratic Republic of the Congo, presidential election, tienne Tshisekedi_
 
 ## [Previous Day...](/news/2011/12/13/index.md)
 

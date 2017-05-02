@@ -12,7 +12,7 @@ _Context: Bhutan, Jigme Khesar Namgyal Wangchuck, King, Punakha, Queen Jetsun Pe
 ### [Qantas passengers in Australia face long delays and flight cancellations, as another strike by the airline's ground crew begins. ](/news/2011/10/13/qantas-passengers-in-australia-face-long-delays-and-flight-cancellations-as-another-strike-by-the-airline-s-ground-crew-begins.md)
 QANTAS baggage handlers and ground crew have begun their latest round of industrial action, causing delays and cancellations for passengers across the country. Join us for live updates throughout the day (all times AEDT)
 
-### [At least 88 containers fall from the stricken cargo ship {{MV|Rena}} into the Bay of Plenty off New Zealand's North Island, including one containing the ](/news/2011/10/13/at-least-88-containers-fall-from-the-stricken-cargo-ship-mv-rena-into-the-bay-of-plenty-off-new-zealand-s-north-island-including-one-co.md)
+### [At least 88 containers fall from the stricken cargo ship Rena into the Bay of Plenty off New Zealand's North Island, including one containing the ](/news/2011/10/13/at-least-88-containers-fall-from-the-stricken-cargo-ship-rena-into-the-bay-of-plenty-off-new-zealand-s-north-island-including-one-containin.md)
 _Context: Bay of Plenty, New Zealand, North Island_
 
 ### [Vietnam's Mekong River delta suffers its worst flooding in a decade, with 43 people killed and 70,000 homes destroyed. ](/news/2011/10/13/vietnam-s-mekong-river-delta-suffers-its-worst-flooding-in-a-decade-with-43-people-killed-and-70-000-homes-destroyed.md)
@@ -31,7 +31,7 @@ _Context: Nepal, Sindhuli District_
 Storms left 29 people dead and forced tens of thousands from their homes as heavy rains battered Central America and Mexico&#039;s Pacific coast.
 
 ### [The President of South Korea, Lee Myung-bak, gives an address to a joint session of the United States Congress, emphasizing the importance of a recently-concluded free trade deal between South Korea and the United States, and expounding the need to improve relations with North Korea. ](/news/2011/10/13/the-president-of-south-korea-lee-myung-bak-gives-an-address-to-a-joint-session-of-the-united-states-congress-emphasizing-the-importance-o.md)
-_Context: Lee Myung-bak, North Korea, President, South Korea, U.S. Congress, United States, free trade_
+_Context: Lee Myung-bak, North Korea, President, South Korea, U.S. Congressional, United States, free trade_
 
 ### [Sri Lankan-American Raj Rajaratnam, a former hedge fund tycoon, is sentenced to 11 years in jail for insider trading. ](/news/2011/10/13/sri-lankan-american-raj-rajaratnam-a-former-hedge-fund-tycoon-is-sentenced-to-11-years-in-jail-for-insider-trading.md)
 Raj Rajaratnam, a self-made hedge fund tycoon convicted in the biggest Wall Street trading scandal in a generation, was ordered to serve 11 years in prison, the longest sentence ever in an insider-trading case but far less than prosecutors sought.
@@ -43,7 +43,7 @@ _Context: Ellen Johnson Sirleaf, Liberian presidential election, Nobel Peace Pri
 _Context: European Financial Stability Fund, European Union, Parliament of Slovakia, Slovakian parliamentary election_
 
 ### [Researchers at the Universities of Texas, Wollongong, British Columbia and Hanyang announce that they have collaboratively developed carbon nanotube-based artificial muscle fibers with over 1,000 times the rotational power of previous designs. The invention is expected to have applications in the creation of nanoscale motors and electrical systems. ](/news/2011/10/13/researchers-at-the-universities-of-texas-wollongong-british-columbia-and-hanyang-announce-that-they-have-collaboratively-developed-carbon.md)
-_Context: Hanyang, Universities of Texas, University of British Columbia’s, Wollongong, artificial muscle, carbon nanotube, motors, nanoscale, rotational power_
+_Context: Hanyang, Universities of Texas, University of British Columbia's, Wollongong, artificial muscle, carbon nanotube, motors, nanoscale, rotational power_
 
 ## [Previous Day...](/news/2011/10/12/index.md)
 

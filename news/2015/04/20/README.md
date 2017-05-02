@@ -1,7 +1,7 @@
 ## [2015-04-20](/news/2015/04/20/index.md)
 
 ### [Nine people have been killed in a bomb attack on a convoy carrying food supplies to a United Nations compound in Garowe in the Somali region of Puntland. ](/news/2015/04/20/nine-people-have-been-killed-in-a-bomb-attack-on-a-convoy-carrying-food-supplies-to-a-united-nations-compound-in-garowe-in-the-somali-region.md)
-_Context: Garowe, Puntland, United Nations, War in Somalia (2009–present), a bomb attack_
+_Context: Garowe, Puntland, United Nations, War in Somalia (2009-present), a bomb attack_
 
 ### [A roadside bomb hits an armoured vehicle near the border town of Rafah in the northern Sinai Peninsula killing three people. ](/news/2015/04/20/a-roadside-bomb-hits-an-armoured-vehicle-near-the-border-town-of-rafah-in-the-northern-sinai-peninsula-killing-three-people.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

@@ -28,7 +28,7 @@ _Context: Airbus A380, Rolls-Royce, Singapore Airlines_
 _Context: El Salvador, Ilobasco_
 
 ### [Qantas and Cathay Pacific cancel flights out of Jakarta's Soekarno-Hatta International Airport due to the eruptions of Mount Merapi in Indonesia. ](/news/2010/11/10/qantas-and-cathay-pacific-cancel-flights-out-of-jakarta-s-soekarnoahatta-international-airport-due-to-the-eruptions-of-mount-merapi-in-ind.md)
-_Context: Cathay Pacific, Indonesia, Jakarta, Qantas, Soekarno–Hatta International Airport, eruptions_
+_Context: Cathay Pacific, Indonesia, Jakarta, Qantas, Soekarno-Hatta International Airport, eruptions_
 
 ### [2010 Haiti cholera outbreak:Doctors set up cholera clinics in Port-au-Prince as the 2010 Haiti cholera outbreak reaches the capital. ](/news/2010/11/10/2010-haiti-cholera-outbreak-pdoctors-set-up-cholera-clinics-in-port-au-prince-as-the-2010-haiti-cholera-outbreak-reaches-the-capital.md)
 Fears are growing in Haiti over the spread of cholera, as the death toll rises to 644 across the poverty-stricken nation.

@@ -1,7 +1,7 @@
 ## [2014-09-13](/news/2014/09/13/index.md)
 
 ### [Naxalite-Maoist insurgency:Three Maoists are killed and two are seriously injured in a fight with security forces in the Giridih district of India's Jharkhand state. ](/news/2014/09/13/naxaliteamaoist-insurgency-pthree-maoists-are-killed-and-two-are-seriously-injured-in-a-fight-with-security-forces-in-the-giridih-district.md)
-_Context: Giridih district, India, Jharkhand, Naxalite–Maoist insurgency_
+_Context: Giridih district, India, Jharkhand, Naxalite-Maoist insurgency_
 
 ### [Islamic State of Iraq and the Levant:The Prime Minister of Iraq Haider al-Abadi says he has ordered the army to stop shelling areas held by the Islamic State where there are civilians present. ](/news/2014/09/13/islamic-state-of-iraq-and-the-levant-pthe-prime-minister-of-iraq-haider-al-abadi-says-he-has-ordered-the-army-to-stop-shelling-areas-held-by.md)
 Terrorist group ISIS released a video Saturday purportedly showing the execution of British aid worker David Cawthorne Haines.

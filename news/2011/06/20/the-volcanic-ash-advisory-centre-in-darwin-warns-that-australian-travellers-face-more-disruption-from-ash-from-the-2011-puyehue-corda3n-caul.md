@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Flights in Australia are again disrupted due to volcanic ash from the 2011 Puyehue-Cordon Caulle eruption in Chile. ](/news/2011/06/21/flights-in-australia-are-again-disrupted-due-to-volcanic-ash-from-the-2011-puyehue-corda3n-caulle-eruption-in-chile.md) _Context: 2011 Puyehue-Cordón Caulle eruption, Chile_
+1. [Flights in Australia are again disrupted due to volcanic ash from the 2011 Puyehue-Cordon Caulle eruption in Chile. ](/news/2011/06/21/flights-in-australia-are-again-disrupted-due-to-volcanic-ash-from-the-2011-puyehue-corda3n-caulle-eruption-in-chile.md) _Context: 2011 Puyehue-Cordon Caulle eruption, Chile_
 2. [Millions of residents in the Chilean capital Santiago are left without access to running water after the Maipo River is contaminated by flooding and landslides. At least four people have died in the floods. ](/news/2017/02/26/millions-of-residents-in-the-chilean-capital-santiago-are-left-without-access-to-running-water-after-the-maipo-river-is-contaminated-by-floo.md) _Context: Chile_
 3. [A bus traveling to Chile overturns in Argentina's Mendoza Province, killing at least 19 people. ](/news/2017/02/18/a-bus-traveling-to-chile-overturns-in-argentina-s-mendoza-province-killing-at-least-19-people.md) _Context: Chile_
 4. [A wildfire destroys almost the entire town of Santa Olga in Chile's central Maule Region as a Russian firefighting Ilyushin Il-76 arrives to help fight the worst wildfire in Chile's modern history. ](/news/2017/01/27/a-wildfire-destroys-almost-the-entire-town-of-santa-olga-in-chile-s-central-maule-region-as-a-russian-firefighting-ilyushin-il-76-arrives-to.md) _Context: Chile_

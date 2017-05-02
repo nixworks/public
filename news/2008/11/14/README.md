@@ -19,7 +19,7 @@ Before India, the moon has had visitors from the US, former Soviet Union, Japan 
 As a wildfire that devastated the wealthy enclave of Montecito settled down late Friday, a second blaze erupted in Sylmar amid heavy winds and destroyed at least three structures and scorched 100 acres, authorities said.
 
 ### [ An investigation concludes that wake turbulence is the most likely cause of the November 4, 2008, airplane crash in Mexico City that killed, among others, Secretary of the Interior Juan Camilo Mourio and Jos Luis Santiago Vasconcelos. ](/news/2008/11/14/an-investigation-concludes-that-wake-turbulence-is-the-most-likely-cause-of-the-november-4-2008-airplane-crash-in-mexico-city-that-killed.md)
-_Context: José Luis Santiago Vasconcelos, Juan Camilo Mouriño, Mexico City, November 4, 2008, airplane crash, Secretary of the Interior, turbulence_
+_Context: Jos Luis Santiago Vasconcelos, Juan Camilo Mourio, Mexico City, November 4, 2008, airplane crash, Secretary of the Interior, turbulence_
 
 ## [Previous Day...](/news/2008/11/13/index.md)
 

@@ -37,7 +37,7 @@ The ground team for NASA&#039;s Mars rover Curiosity has switched the rover to a
 Marit Bjoergen secured her 12th world title on Saturday in Val di Fiemme, Italy by beating Olympic champion Justyna Kowalczyk in a sprint finish to win the 30-kilometre classical event at the Nordic skiing world championships.
 
 ### [Norwegian biathlete Tora Berger secures the women's overall title in the 2012-13 Biathlon World Cup with five individual races still remaining. ](/news/2013/03/3/norwegian-biathlete-tora-berger-secures-the-women-s-overall-title-in-the-2012a13-biathlon-world-cup-with-five-individual-races-still-remai.md)
-_Context: 2012–13 Biathlon World Cup, Biathlon World Cup, Norway, Tora Berger, biathlon, women's overall_
+_Context: 2012-13 Biathlon World Cup, Biathlon World Cup, Norway, Tora Berger, biathlon, women's overall_
 
 ### [Lauren Silberman becomes the first woman to try out for the National Football League, but her attempt to make a team ends after two kicks with an injury. ](/news/2013/03/3/lauren-silberman-becomes-the-first-woman-to-try-out-for-the-national-football-league-but-her-attempt-to-make-a-team-ends-after-two-kicks-wi.md)
 Lauren Silberman, the first woman to participate in an NFL-sponsored tryout, is injured on her first kickoff

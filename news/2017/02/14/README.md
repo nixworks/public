@@ -7,7 +7,7 @@ Hardline Islamist factions turn on each other in an apparent battle for influenc
 Pakistani soldiers, Indian troops and one suspected rebel killed in separate incidents in disputed region.
 
 ### [According to the United Nations, the Congolese military has killed at least 101 people, including over 30 women, in the last five days while fighting Kamwina Nsapu rebels in Kasai-Central. ](/news/2017/02/14/according-to-the-united-nations-the-congolese-military-has-killed-at-least-101-people-including-over-30-women-in-the-last-five-days-while.md)
-_Context: Congolese military, Kasaï-Central, Kasaï-Central clashes (2016–present), United Nations_
+_Context: Congolese military, Kasai-Central, Kasai-Central clashes (2016-present), United Nations_
 
 ### [Cigna announces that it has terminated its merger with Anthem, a deal that was blocked by a U.S. federal judge last week. In addition, Cigna sues  Anthem for the $1.85 billion reverse termination fee,  and for more than $13 billion in additional damages.  Anthem says Cigna has no right to terminate the merger, a deal which in January was extended to April 30, 2017. ](/news/2017/02/14/cigna-announces-that-it-has-terminated-its-merger-with-anthem-a-deal-that-was-blocked-by-a-u-s-federal-judge-last-week-in-addition-cigna.md)
 Simmering tensions between Anthem Inc. and Cigna Corp. exploded Tuesday as Cigna sued to end their $48 billion deal, and Anthem moments later said it would fight to keep the merger alive.
@@ -25,7 +25,7 @@ Adama Barrow, the new president of The Gambia, says he wants to rekindle ties wi
 State media says more than 800 people have been detained in operations carried out in 37 provinces.
 
 ### [Two  radio journalists are shot dead and a co-worker injured in San Pedro de Macoris, Dominican Republic, while  presenting the show "Milenio Caliente"   on Facebook Live. Three people were arrested. ](/news/2017/02/14/two-radio-journalists-are-shot-dead-and-a-co-worker-injured-in-san-pedro-de-macoras-dominican-republic-while-presenting-the-show-milen.md)
-_Context: Dominican Republic, Facebook Live, San Pedro de Macorís_
+_Context: Dominican Republic, Facebook Live, San Pedro de Macoris_
 
 ### [Joseph Clancy, Director of the United States Secret Service, announces his retirement effective March 4. ](/news/2017/02/14/joseph-clancy-director-of-the-united-states-secret-service-announces-his-retirement-effective-march-4.md)
 Clancy retires two years after returning to right the then-troubled agency

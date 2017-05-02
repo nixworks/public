@@ -22,7 +22,7 @@ _Context: Kampala, Kizza Besigye, Uganda_
 _Context: Cambodia, Preah Vihear Temple, Thailand_
 
 ### [U.S. president Barack Obama nominates General David Petraeus, current head of the war on Afghanistan, as his new CIA chief, and names outgoing CIA chief Leon Panetta as head of The Pentagon. ](/news/2011/04/28/u-s-president-barack-obama-nominates-general-david-petraeus-current-head-of-the-war-on-afghanistan-as-his-new-cia-chief-and-names-outgoi.md)
-_Context: Barack Obama, David Petraeus, Director of the CIA, General, Leon Panetta, The Pentagon, War in Afghanistan (2001–present)_
+_Context: Barack Obama, David Petraeus, Director of the CIA, General, Leon Panetta, The Pentagon, War in Afghanistan (2001-present)_
 
 ### [U.S. retail giant Wal-Mart vows increased sales of weapons, including rifles and shotguns. ](/news/2011/04/28/u-s-retail-giant-wal-mart-vows-increased-sales-of-weapons-including-rifles-and-shotguns.md)
 Retail giant Wal-Mart says it will soon bring back the sale of firearms, including rifles and shotguns, at more than 500 of its US stores.
@@ -40,7 +40,7 @@ _Context: Japan, an earthquake and tsunami_
 * Q4 op profit falls 32 pct to 41 bln yen * No forecast for current year due to post-quake uncertainty * To cut workforce by 35,000 over 3
 
 ### [Banks in Cote d'Ivoire reopen after ten weeks, leading to thousands of people queuing. ](/news/2011/04/28/banks-in-ca-te-d-ivoire-reopen-after-ten-weeks-leading-to-thousands-of-people-queuing.md)
-_Context: Côte d'Ivoire_
+_Context: Cote d'Ivoire_
 
 ### [Exelon Corp., the top nuclear power concern in the United States, announces a deal to buy ](/news/2011/04/28/exelon-corp-the-top-nuclear-power-concern-in-the-united-states-announces-a-deal-to-buy.md)
 _Context: Exelon Corp., United States_

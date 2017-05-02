@@ -7,7 +7,7 @@ Video shows captives from Canada, Norway and the Philippines begging governments
 The United States said on Wednesday it had agreed with Russia to extend a cessation of hostilities agreement to include Aleppo where intense day-long violence between Syrian rebels and government forces killed dozens of people.
 
 ### [Suspected Kurdistan Workers' Party (PKK) militants launch a car bomb attack on a military installation in Turkey, killing one soldier; Turkey's army destroyes PKK targets in air strikes and kills more than 20. ](/news/2016/05/4/suspected-kurdistan-workers-party-pkk-militants-launch-a-car-bomb-attack-on-a-military-installation-in-turkey-killing-one-soldier-turke.md)
-_Context: Kurdish–Turkish conflict (2015–present), Kurdistan Workers' Party_
+_Context: Kurdish-Turkish conflict (2015-present), Kurdistan Workers' Party_
 
 ### [Assailants from the Allied Democratic Forces (ADF) armed with machetes hacked at least 16 civilians to death in the Eastern Democratic Republic of the Congo. ](/news/2016/05/4/assailants-from-the-allied-democratic-forces-adf-armed-with-machetes-hacked-at-least-16-civilians-to-death-in-the-eastern-democratic-repub.md)
 _Context: Allied Democratic Forces, Allied Democratic Forces insurgency, Democratic Republic of the Congo_
@@ -43,7 +43,7 @@ _Context: 2016 U.S. presidential election, Donald Trump, Governor, John Kasich, 
 Quantum computing is computing at its most esoteric. But by sharing its prototype with the world at large, IBM hopes to change that.
 
 ### [Real Madrid beat Manchester City 1&ndash;0 to set-up a UEFA Champions League Final against city rivals Atletico Madrid on May 28, in Milan, Italy. It will be a repeat of the 2014 UEFA Champions League Final. ](/news/2016/05/4/real-madrid-beat-manchester-city-1-ndash-0-to-set-up-a-uefa-champions-league-final-against-city-rivals-atla-c-tico-madrid-on-may-28-in-milan.md)
-_Context: 2014 UEFA Champions League Final, 2015–16 UEFA Champions League, Atlético Madrid, Manchester City, Milan, Italy, Real Madrid, UEFA Champions League Final, city rivals_
+_Context: 2014 UEFA Champions League Final, 2015-16 UEFA Champions League, Atletico Madrid, Manchester City, Milan, Italy, Real Madrid, UEFA Champions League Final, city rivals_
 
 ## [Previous Day...](/news/2016/05/3/index.md)
 

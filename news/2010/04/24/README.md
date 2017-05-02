@@ -28,16 +28,16 @@ _Context: Proton-M, Russia, United States, rocket, space, telecommunications sat
 _Context: Pakistan, drone_
 
 ### [Child sexual abuse in the Roman Catholic Church:In Chile, Catholic Church leaders and President Sebastin Piera meet for more than an hour to discuss the child sexual abuse scandal and agree to send a letter to all the country's parishes. ](/news/2010/04/24/child-sexual-abuse-in-the-roman-catholic-church-pin-chile-catholic-church-leaders-and-president-sebastian-pinera-meet-for-more-than-an-hour.md)
-_Context: Catholic Church, Chile, President, Sebastián Piñera_
+_Context: Catholic Church, Chile, President, Sebastin Piera_
 
 ### [Tens of thousands of people rally and lay flowers at a monument in Yerevan to the victims on the 95th anniversary of the Armenian Genocide. ](/news/2010/04/24/tens-of-thousands-of-people-rally-and-lay-flowers-at-a-monument-in-yerevan-to-the-victims-on-the-95th-anniversary-of-the-armenian-genocide.md)
 _Context: Yerevan, genocide of Armenians_
 
 ### [Marchers march in a dozen Spanish cities, including thousands in Madrid, to support Judge Baltasar Garzn who has been told he may face a trial for launching an inquiry into the acts of General Francisco Franco. Falange arranges a smaller protest in Madrid in opposition to Garzn. ](/news/2010/04/24/marchers-march-in-a-dozen-spanish-cities-including-thousands-in-madrid-to-support-judge-baltasar-garzon-who-has-been-told-he-may-face-a-tr.md)
-_Context: Baltasar Garzón, Falange, Franco, Madrid, Spain_
+_Context: Baltasar Garzn, Falange, Franco, Madrid, Spain_
 
 ### [Former Nazi corporal and founder of Villa Baviera in Chile Paul Schfer dies in prison at the age of 88. ](/news/2010/04/24/former-nazi-corporal-and-founder-of-villa-baviera-in-chile-paul-schafer-dies-in-prison-at-the-age-of-88.md)
-_Context: Chile, Nazi, Paul Schäfer, Villa Baviera_
+_Context: Chile, Nazi, Paul Schfer, Villa Baviera_
 
 ### [Wang Lequan, Communist Party secretary since 1994, is replaced by Zhang Chunxian as the most powerful official in Xinjiang. ](/news/2010/04/24/wang-lequan-communist-party-secretary-since-1994-is-replaced-by-zhang-chunxian-as-the-most-powerful-official-in-xinjiang.md)
 _Context: Wang Lequan, Xinjiang, Zhang Chunxian_

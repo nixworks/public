@@ -4,7 +4,7 @@
 _Context: 2003, Georgia, Tbilisi, protest against the government_
 
 ### [ ''Lehendakari'' Juan Jos Ibarretxe announces a referendum on the future of the Basque Country for 25 October 2008. ](/news/2007/09/28/lehendakari-juan-jose-ibarretxe-announces-a-referendum-on-the-future-of-the-basque-country-for-25-october-2008.md)
-_Context: 2008, 25 October, Basque, Juan José Ibarretxe, Lehendakari, planned referendum_
+_Context: 2008, 25 October, Basque, Juan Jos Ibarretxe, Lehendakari, planned referendum_
 
 ### [ Richard Garriott, famed game designer and son of former NASA Skylab astronaut Owen Garriott, will become the sixth space tourist, visiting the International Space Station in 2008. ](/news/2007/09/28/richard-garriott-famed-game-designer-and-son-of-former-nasa-skylab-astronaut-owen-garriott-will-become-the-sixth-space-tourist-visiting.md)
 _Context: International Space Station, Owen Garriott, Richard Garriott, commercial space flights_

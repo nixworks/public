@@ -7,7 +7,7 @@ _Context: Bali car bombing, Islamic, Jemaah Islamiyah, Philippines, Southeast As
 _Context: North Korea nuclear weapons program_
 
 ### [ There is further evidence for the existence of a supermassive black hole at the center of our galaxy, the Milky Way galaxy.  The object Sagittarius A* has now been identified as the black hole at the galactic centre by a team led by Rainer Schdel of the Max Planck Institute for Extraterrestrial Physics, who observed the behavior of the star S2 which is near Sagittarius A*.](/news/2002/10/17/there-is-further-evidence-for-the-existence-of-a-supermassive-black-hole-at-the-center-of-our-galaxy-the-milky-way-galaxy-the-object-sag.md)
-_Context: Max Planck Institute for Extraterrestrial Physics, Milky Way galaxy, Rainer Schödel, S2, Sagittarius A*, black hole, galaxy_
+_Context: Max Planck Institute for Extraterrestrial Physics, Milky Way galaxy, Rainer Schdel, S2, Sagittarius A*, black hole, galaxy_
 
 ## [Previous Day...](/news/2002/10/16/index.md)
 

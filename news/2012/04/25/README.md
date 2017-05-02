@@ -4,7 +4,7 @@
 Pakistan successfully test-fired a nuclear-capable ballistic missile on Wednesday, the military said, less than a week after rival India tested a missile capable of delivering nuclear warheads as far as Beijing and Eastern Europe.
 
 ### [Syrian uprising: United Nations envoy Kofi Annan describes the situation in Syria as bleak, raising concerns about reports indicating that Syrian Army forces are conducting operations against opponents. ](/news/2012/04/25/syrian-uprising-united-nations-envoy-kofi-annan-describes-the-situation-in-syria-as-bleak-raising-concerns-about-reports-indicating-that-s.md)
-_Context: Kofi Annan, Syria, Syrian Army, Syrian uprising (2011–present), United Nations_
+_Context: Kofi Annan, Syria, Syrian Army, Syrian uprising (2011-present), United Nations_
 
 ### [South Sudan releases Sudanese prisoners of war as border clashes between the two states seem to abate. ](/news/2012/04/25/south-sudan-releases-sudanese-prisoners-of-war-as-border-clashes-between-the-two-states-seem-to-abate.md)
 South Sudan freed prisoners of war on Wednesday as clashes appeared to abate between north and south, after cross-border fighting that threatened to tip into all-out war.

@@ -4,10 +4,10 @@
 Agreement reached to form a unity government and hold early elections, but questions remain as to whether it will be accepted by all within the disparate protest movement. All the developments as they happened.
 
 ### [2014 Venezuelan protests:22-year-old Venezuelan beauty queen Genesis Carmona is shot in the head and killed while participating in a student protest against Nicolas Maduro's socialist government. ](/news/2014/02/21/2014-venezuelan-protests-p22-year-old-venezuelan-beauty-queen-ga-c-nesis-carmona-is-shot-in-the-head-and-killed-while-participating-in-a-stude.md)
-_Context: 2014 Venezuelan protests, Génesis Carmona, Nicolás Maduro_
+_Context: 2014 Venezuelan protests, Genesis Carmona, Nicolas Maduro_
 
 ### [Venezuelan president Nicolas Maduro threatens to expel CNN from the country, alleging that they are helping the opposition. ](/news/2014/02/21/venezuelan-president-nicola-s-maduro-threatens-to-expel-cnn-from-the-country-alleging-that-they-are-helping-the-opposition.md)
-_Context: CNN, Nicolás Maduro, Venezuela_
+_Context: CNN, Nicolas Maduro, Venezuela_
 
 ### [Books related to Anne Frank are vandalized across public libraries in Tokyo, Japan. ](/news/2014/02/21/books-related-to-anne-frank-are-vandalized-across-public-libraries-in-tokyo-japan.md)
 _Context: Anne Frank, Japan, Tokyo_

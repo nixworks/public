@@ -7,13 +7,13 @@ _Context: Ad-Diwaniyah, Iraq, Khalid Hassan, Khalil Jalil Hamza, bomb, major gen
 _Context: East Java, Indonesia, Pasuruan_
 
 ### [ War in Afghanistan:  The Taliban attacks Firebase Anaconda in Uruzgan province for the third time in a week suffering casualties. The Taliban also launches unsuccessful attacks in Helmand and Kandahar provinces. ](/news/2007/08/11/war-in-afghanistan-p-the-taliban-attacks-firebase-anaconda-in-uruzgan-province-for-the-third-time-in-a-week-suffering-casualties-the-tali.md)
-_Context: Firebase Anaconda, Helmand Province, Kandahar, Taliban, Uruzgan, War in Afghanistan (2001–present)_
+_Context: Firebase Anaconda, Helmand Province, Kandahar, Taliban, Uruzgan, War in Afghanistan (2001-present)_
 
 ### [ Three by-elections for the Canadian House of Commons will be held for the ridings of Roberval--Lac-Saint-Jean, Saint-Hyacinthe--Bagot and Outremont on September 17. ](/news/2007/08/11/three-by-elections-for-the-canadian-house-of-commons-will-be-held-for-the-ridings-of-robervalalac-saint-jean-saint-hyacintheabagot-and.md)
-_Context: Canadian House of Commons, Outremont, Roberval—Lac-Saint-Jean, Saint-Hyacinthe—Bagot, by-election, ridings_
+_Context: Canadian House of Commons, Outremont, Roberval--Lac-Saint-Jean, Saint-Hyacinthe--Bagot, by-election, ridings_
 
 ### [ The President of Venezuela Hugo Chavez proposes building a gas pipeline between Venezuela and the Caribbean supplying states such as Cuba. ](/news/2007/08/11/the-president-of-venezuela-hugo-chavez-proposes-building-a-gas-pipeline-between-venezuela-and-the-caribbean-supplying-states-such-as-cuba.md)
-_Context: Caribbean, Cuba, Hugo Ch�vez, President, Venezuela_
+_Context: Caribbean, Cuba, Hugo Chvez, President, Venezuela_
 
 ### [ The President of Russia Vladimir Putin states that a new radar station in the village of Lekhtusi near St Petersburg is the first step in a large-scale air defense program. ](/news/2007/08/11/the-president-of-russia-vladimir-putin-states-that-a-new-radar-station-in-the-village-of-lekhtusi-near-st-petersburg-is-the-first-step-in-a.md)
 _Context: Lekhtusi, Russian President, St Petersburg, Vladimir Putin, air defense, radar_

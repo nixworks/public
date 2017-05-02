@@ -4,7 +4,7 @@
 Opposition video said to show Gaddafi soldiers killed for refusing to fire on rebel targets west of the capital Tripoli.
 
 ### [2010-2011 Ivorian crisis: Four people are shot dead in Abidjan after a march to protest the killing of seven female demonstrators last week. ](/news/2011/03/8/2010a2011-ivorian-crisis-four-people-are-shot-dead-in-abidjan-after-a-march-to-protest-the-killing-of-seven-female-demonstrators-last-wee.md)
-_Context: 2010–2011 Ivorian crisis, Abidjan_
+_Context: 2010-2011 Ivorian crisis, Abidjan_
 
 ### [National Army of Colombia troops free 22 of 23 local oil contractors working for Canada's Talisman Energy captured a day earlier by FARC rebels. ](/news/2011/03/8/national-army-of-colombia-troops-free-22-of-23-local-oil-contractors-working-for-canada-s-talisman-energy-captured-a-day-earlier-by-farc-reb.md)
 Twenty-one of the 23 oil workers kidnapped on Monday in the eastern department of Vichada have been rescued by Colombia&#8217;s armed forces, W Radio reports. According to the army, one&hellip;
@@ -49,7 +49,7 @@ _Context: Darfur, International Criminal Court_
 The prominent Syrian human rights activist and critic of the government Haitham al-Maleh was been released from jail.
 
 ### [Mexico's youngest police chief, Marisol Valles Garcia of the town of Praxedis G. Guerrero, Chihuahua, seeks asylum to the United States after receiving death threats. ](/news/2011/03/8/mexico-s-youngest-police-chief-marisol-valles-garcaa-of-the-town-of-pra-xedis-g-guerrero-chihuahua-seeks-asylum-to-the-united-states-af.md)
-_Context: Marisol Valles García, Mexico, Práxedis G. Guerrero, Chihuahua, United States_
+_Context: Marisol Valles Garcia, Mexico, Praxedis G. Guerrero, Chihuahua, United States_
 
 ### [Twenty-one Catholic priests in the US city of Philadelphia, Pennsylvania, are suspended after being named in an investigation in claims of widespread child molestation. ](/news/2011/03/8/twenty-one-catholic-priests-in-the-us-city-of-philadelphia-pennsylvania-are-suspended-after-being-named-in-an-investigation-in-claims-of-w.md)
 Twenty-one Roman Catholic priests are suspended in Philadelphia after the release of a legal report into allegations of child molestation.

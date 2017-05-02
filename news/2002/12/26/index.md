@@ -7,9 +7,9 @@ _Context: George W. Bush, North Korea, Pyongyang, United Nations, atomic bomb, a
 _Context: Central Intelligence Agency, September 11 terrorist attacks, War on Terror, Washington Post, torture_
 
 ### [Israeli-Palestinian conflict: Israel announces it will begin with temporarily providing social services such as education, healthcare, and licenses in the West Bank. The Israeli government claims the move is necessary to provide badly needed services to the Palestinian people in light of the Palestinian Authority's inability to do so. Palestinian officials claim the move is an attempt to undermine the legitimacy of the Palestinian Authority and tantamount to the reinstatement of the Israeli occupation that existed before the 1993 Oslo Accords.](/news/2002/12/26/israeliapalestinian-conflict-israel-announces-it-will-begin-with-temporarily-providing-social-services-such-as-education-healthcare-and.md)
-_Context: Israel, Israeli–Palestinian conflict, Oslo accords, Palestinian Authority, West Bank_
+_Context: Israel, Israeli-Palestinian conflict, Oslo accords, Palestinian Authority, West Bank_
 
-### [A 55-year-old contractor from Putnam County, West Virginia named Andrew "Jack" Whittaker Jr won the {{Nowrap|$314.9 million}} Christmas Day Powerball jackpot which is the biggest undivided lottery prize in American history.](/news/2002/12/26/a-55-year-old-contractor-from-putnam-county-west-virginia-named-andrew-jack-whittaker-jr-won-the-nowrap-314-9-million-christmas-day.md)
+### [A 55-year-old contractor from Putnam County, West Virginia named Andrew "Jack" Whittaker Jr won the $314.9 million Christmas Day Powerball jackpot which is the biggest undivided lottery prize in American history.](/news/2002/12/26/a-55-year-old-contractor-from-putnam-county-west-virginia-named-andrew-jack-whittaker-jr-won-the-314-9-million-christmas-day-powerball-j.md)
 _Context: Powerball, Putnam County, West Virginia, lottery_
 
 ## [Previous Day...](/news/2002/12/25/index.md)

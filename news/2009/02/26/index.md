@@ -10,13 +10,13 @@ _Context: 2009 Bangladesh Rifles revolt, Bangladesh, Bangladesh Rifles, amnesty,
 Leaders of the rival Palestinian groups Hamas and Fatah declared Thursday a “historic day” at the conclusion of a meeting aimed at healing a 20-month schism.
 
 ### [ The International Criminal Tribunal for the former Yugoslavia acquits former Serbian President Milan Milutinovic of committing war crimes. ](/news/2009/02/26/the-international-criminal-tribunal-for-the-former-yugoslavia-acquits-former-serbian-president-milan-milutinovia-of-committing-war-crimes.md)
-_Context: International Criminal Tribunal for the former Yugoslavia, Milan Milutinović, President, Serbia, acquits, war crime_
+_Context: International Criminal Tribunal for the former Yugoslavia, Milan Milutinovic, President, Serbia, acquits, war crime_
 
 ### [ General Motors reports a US$9.6 billion loss, due to the current automotive industry crisis. ](/news/2009/02/26/general-motors-reports-a-us-9-6-billion-loss-due-to-the-current-automotive-industry-crisis.md)
 Rick Wagoner, the chief executive of General Motors, met with government officials to discuss the carmaker’s finances after the company reported a $9.6 billion loss for the quarter.
 
 ### [ Switzerland's UBS AG appoints former Credit Suisse CEO Oswald Grubel as its new Group CEO. ](/news/2009/02/26/switzerland-s-ubs-ag-appoints-former-credit-suisse-ceo-oswald-gra1-4bel-as-its-new-group-ceo.md)
-_Context: Credit Suisse, Oswald Grübel, Swiss, UBS AG, chief executive officer_
+_Context: Credit Suisse, Oswald Grubel, Swiss, UBS AG, chief executive officer_
 
 ### [ China's Navy and Denmark's Navy rescue Italian and Chinese merchant vessels from Somali pirates in the Gulf of Aden. ](/news/2009/02/26/china-s-navy-and-denmark-s-navy-rescue-italian-and-chinese-merchant-vessels-from-somali-pirates-in-the-gulf-of-aden.md)
 _Context: China's, Danish, Gulf of Aden, Italian, MV, Navy, People's Liberation Army Navy, Somali pirates, Somalia_
@@ -31,13 +31,13 @@ _Context: Latvia, President, Prime Minister of Latvia, Valdis Dombrovskis, Valdi
 _Context: 2008 Mumbai attacks, Ajmal Kasab, India, Mumbai, conflict zones_
 
 ### [ The Royal Bank of Scotland Group reports a 2008 loss of PS24.1 billion.  ](/news/2009/02/26/the-royal-bank-of-scotland-group-reports-a-2008-loss-of-aps24-1-billion.md)
-_Context: Royal Bank of Scotland Group, £_
+_Context: PS, Royal Bank of Scotland Group_
 
 ### [ Thirteen thousand civil servants stage a one-day strike action in Ireland. ](/news/2009/02/26/thirteen-thousand-civil-servants-stage-a-one-day-strike-action-in-ireland.md)
 _Context: Republic of Ireland, public sector, strike_
 
 ### [ Former Guinean President Lansana Conte's eldest son confesses to drug trafficking. ](/news/2009/02/26/former-guinean-president-lansana-conta-c-s-eldest-son-confesses-to-drug-trafficking.md)
-_Context: Guinea, Lansana Conté, President, anti-drug plan_
+_Context: Guinea, Lansana Conte, President, anti-drug plan_
 
 ### [ An outbreak of dengue fever in Bolivia has killed 18 people and infected 31,000. ](/news/2009/02/26/an-outbreak-of-dengue-fever-in-bolivia-has-killed-18-people-and-infected-31-000.md)
 _Context: Bolivia, dengue fever, outbreak_

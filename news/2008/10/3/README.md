@@ -25,7 +25,7 @@ The U.S. government has announced plans to sell billions of dollars worth of wea
 _Context: Russia, Somali pirates_
 
 ### [ The remains of a Viking-era stave church, including the skeletal remains of a woman, is uncovered near the cemetery of the Lnns church in Odensbacken outside rebro in central Sweden. ](/news/2008/10/3/the-remains-of-a-viking-era-stave-church-including-the-skeletal-remains-of-a-woman-is-uncovered-near-the-cemetery-of-the-lannas-church-in.md)
-_Context: Odensbacken, Sweden, Viking, cemetery, stave church, woman, Örebro_
+_Context: Odensbacken, Sweden, Viking, cemetery, rebro, stave church, woman_
 
 ### [ A jury convicts retired American football player O.J. Simpson of armed robbery and kidnapping, 13 years to the day after he was acquitted of killing his ex-wife and her friend in Los Angeles. ](/news/2008/10/3/a-jury-convicts-retired-american-football-player-o-j-simpson-of-armed-robbery-and-kidnapping-13-years-to-the-day-after-he-was-acquitted-o.md)
 O.J. Simpson was convicted in a Las Vegas court on 12 counts including armed robbery and kidnapping.

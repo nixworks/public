@@ -4,7 +4,7 @@
 _Context: Jamaat-ul-Ahrar, Mohmand Agency, Pakistan, Peshawar, War in North-West Pakistan_
 
 ### [A suicide bomber detonates a pick-up truck full of explosives at a busy street in northern Baghdad, killing at least nine people. ](/news/2017/02/15/a-suicide-bomber-detonates-a-pick-up-truck-full-of-explosives-at-a-busy-street-in-northern-baghdad-killing-at-least-nine-people.md)
-_Context: Baghdad, Iraqi Civil War (2014–present)_
+_Context: Baghdad, Iraqi Civil War (2014-present)_
 
 ### [Twenty-one organizers for the Eurovision Song Contest in Kiev, Ukraine, resign en masse after claiming they were completely blocked from making decisions about the show. Despite the setback, the European Broadcasting Union insists that the event must go on. ](/news/2017/02/15/twenty-one-organizers-for-the-eurovision-song-contest-in-kiev-ukraine-resign-en-masse-after-claiming-they-were-completely-blocked-from-mak.md)
 The Eurovision Song Contest hits a major road bump, as 21 top level staff resign.

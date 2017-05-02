@@ -4,7 +4,7 @@
 Four men have been arrested for the murder of an Al Jazeera journalist, and rebel officials claim evidence has emerged that Muammar Gaddafi&#039;s regime is sending undercover squads to carry out assassinations.
 
 ### [2010-2011 Ivorian crisis: Gunmen shoot four people dead at a roadblock run by supporters of disputed Cote d'Ivoire President Laurent Gbagbo. ](/news/2011/03/15/2010a2011-ivorian-crisis-gunmen-shoot-four-people-dead-at-a-roadblock-run-by-supporters-of-disputed-ca-te-d-ivoire-president-laurent-gbag.md)
-_Context: 2010–2011 Ivorian crisis, Côte d'Ivoire, Laurent Gbagbo, President_
+_Context: 2010-2011 Ivorian crisis, Cote d'Ivoire, Laurent Gbagbo, President_
 
 ### [A small bomb explodes in the offices of a moderate Islamic group in the Indonesian capital Jakarta, injuring four people. ](/news/2011/03/15/a-small-bomb-explodes-in-the-offices-of-a-moderate-islamic-group-in-the-indonesian-capital-jakarta-injuring-four-people.md)
 _Context: Indonesia, Islam, Jakarta_

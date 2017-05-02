@@ -10,7 +10,7 @@ Two previous cease-fire attempts failed, and both the Syrian Army and rebels hav
 At least 41 people have been killed in a suicide bomb attack at a mosque in northern Afghanistan, officials say.
 
 ### [Writer Javier Maras rejects the Spanish government's National Novel Prize, awarded for his novel ''Los enamoramientos'', saying "All my life I have managed to avoid state institutions, regardless of which party was in government, and I have turned down all income from the public purse. I don't want to be seen as an author who is favoured by any particular government." ](/news/2012/10/26/writer-javier-marias-rejects-the-spanish-government-s-national-novel-prize-awarded-for-his-novel-los-enamoramientos-saying-all-my-lif.md)
-_Context: Javier Marías, Los enamoramientos, National Novel Prize_
+_Context: Javier Maras, Los enamoramientos, National Novel Prize_
 
 ### [China blocks the website of the ''New York Times'' and searches on social media after it published an investigation into the finances of Premier Wen Jiabao. ](/news/2012/10/26/china-blocks-the-website-of-the-new-york-times-and-searches-on-social-media-after-it-published-an-investigation-into-the-finances-of-pre.md)
 The Chinese government began blocking access to The Times after publication of an article describing the wealth accumulated by relatives of Prime Minister Wen Jiabao.

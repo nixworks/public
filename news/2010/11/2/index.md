@@ -31,7 +31,7 @@ _Context: Bhavnagar, India, Indranaj, Surat, Tarapur_
 _Context: Indonesia, Java, Mounts Merapi, Yogyakarta_
 
 ### [President of Venezuela Hugo Chvez welcomes President of Colombia Juan Manuel Santos to Caracas. ](/news/2010/11/2/president-of-venezuela-hugo-chavez-welcomes-president-of-colombia-juan-manuel-santos-to-caracas.md)
-_Context: Caracas, Colombia, Colombian President, Hugo Chávez, Juan Manuel Santos, Venezuela, Venezuelan President_
+_Context: Caracas, Colombia, Colombian President, Hugo Chvez, Juan Manuel Santos, Venezuela, Venezuelan President_
 
 ### [A senior military intelligence officer is arrested in Taiwan for being a double agent for China. ](/news/2010/11/2/a-senior-military-intelligence-officer-is-arrested-in-taiwan-for-being-a-double-agent-for-china.md)
 _Context: China's, Taiwan, double agent_

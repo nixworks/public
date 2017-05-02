@@ -1,6 +1,6 @@
 ### [2012-01-28](/news/2012/01/28/index.md)
 
-# A police officer and four journalists associated with British tabloid ''The Sun'' are arrested in relation to the News International phone hacking scandal, by detectives investigating payments made to police by journalists. The BBC understands the four journalists are ex-deputy editor Fergus Shanahan, ex-managing editor Graham Dudman, crime editor Mike Sullivan{{dn|date=November 2012}} and head of news Chris Pharo. 
+# A police officer and four journalists associated with British tabloid ''The Sun'' are arrested in relation to the News International phone hacking scandal, by detectives investigating payments made to police by journalists. The BBC understands the four journalists are ex-deputy editor Fergus Shanahan, ex-managing editor Graham Dudman, crime editor Mike Sullivandate=November 2012 and head of news Chris Pharo. 
 
 Four current and former Sun journalists and a police officer are bailed by detectives investigating alleged corrupt payments.
 

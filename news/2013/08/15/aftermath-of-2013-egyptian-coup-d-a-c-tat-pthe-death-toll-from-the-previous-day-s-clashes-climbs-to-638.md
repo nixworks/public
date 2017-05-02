@@ -14,4 +14,4 @@ The number killed in Wednesday&#039;s violence grows to 525, as the US says its 
 
 ### Related:
 
-1. [Aftermath of 2013 Egyptian coup d'etat:Security in Cairo is tightened amid Friday prayers and protest marches called by the Muslim Brotherhood nationwide. ](/news/2013/08/16/aftermath-of-2013-egyptian-coup-d-a-c-tat-psecurity-in-cairo-is-tightened-amid-friday-prayers-and-protest-marches-called-by-the-muslim-brother.md) _Context: Aftermath of 2013 Egyptian coup d'état_
+1. [Aftermath of 2013 Egyptian coup d'etat:Security in Cairo is tightened amid Friday prayers and protest marches called by the Muslim Brotherhood nationwide. ](/news/2013/08/16/aftermath-of-2013-egyptian-coup-d-a-c-tat-psecurity-in-cairo-is-tightened-amid-friday-prayers-and-protest-marches-called-by-the-muslim-brother.md) _Context: Aftermath of 2013 Egyptian coup d'etat_

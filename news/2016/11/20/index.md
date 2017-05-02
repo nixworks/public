@@ -1,7 +1,7 @@
 ## [2016-11-20](/news/2016/11/20/index.md)
 
 ### [At least 8 people are killed and more than a dozen others are injured following an attack on Tatmadaw checkpoints, police outposts and the 105th Mile Trade Center by several insurgent groups in Muse, Shan State. The State Counselor's office issues a statement claiming that the Kachin Independence Army, Ta'ang National Liberation Army and Myanmar National Democratic Alliance Army were involved in the attack. ](/news/2016/11/20/at-least-8-people-are-killed-and-more-than-a-dozen-others-are-injured-following-an-attack-on-tatmadaw-checkpoints-police-outposts-and-the-1.md)
-_Context: Internal conflict in Myanmar, Kachin Independence Army, Muse, Myanmar State Counsellor, Myanmar's military, Myanmar National Democratic Alliance Army, Shan State, Ta'ang National Liberation Army, insurgent groups, police_
+_Context: Internal conflict in Myanmar, Kachin Independence Army, Muse, Myanmar National Democratic Alliance Army, Myanmar State Counsellor, Myanmar's military, Shan State, Ta'ang National Liberation Army, insurgent groups, police_
 
 ### [Six people are killed in a suspected chlorine gas attack in Aleppo, Syria. ](/news/2016/11/20/six-people-are-killed-in-a-suspected-chlorine-gas-attack-in-aleppo-syria.md)
 Rebel shelling killed eight children at a school in the government-held part of Aleppo on Sunday and a barrel bomb killed a family of six in the rebel-held area, part of a heavy government bombardment that has knocked out all the hospitals.
@@ -28,7 +28,7 @@ A police helicopter in Rio de Janeiro crashed Saturday evening, killing four off
 French conservatives vote on a presidential candidate, with ex-President Sarkozy facing defeat.
 
 ### [Voters in Haiti go to the polls for the first round of a presidential election. ](/news/2016/11/20/voters-in-haiti-go-to-the-polls-for-the-first-round-of-a-presidential-election.md)
-_Context: Haiti, Haitian presidential election, 2016–17_
+_Context: Haiti, Haitian presidential election, 2016-17_
 
 ### [Craig Reedie is elected for a second term as President of the World Anti-Doping Agency. ](/news/2016/11/20/craig-reedie-is-elected-for-a-second-term-as-president-of-the-world-anti-doping-agency.md)
 Sir Craig Reedie, the president of the World Anti-Doping Agency, insists sport can recover from a &quot;dreadful&quot; period.

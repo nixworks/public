@@ -11,7 +11,7 @@ The World Social Forum (WSF) is being held - after a year&#039;s break - in the 
 
 ### Related:
 
-1. [3 people are trapped and 6 others are injured after a 30-storey building collapses in Belem, Para, Brazil. ](/news/2011/01/30/3-people-are-trapped-and-6-others-are-injured-after-a-30-storey-building-collapses-in-bela-c-m-para-brazil.md) _Context: Belém, Brazil_
+1. [3 people are trapped and 6 others are injured after a 30-storey building collapses in Belem, Para, Brazil. ](/news/2011/01/30/3-people-are-trapped-and-6-others-are-injured-after-a-30-storey-building-collapses-in-bela-c-m-para-brazil.md) _Context: Belem, Brazil_
 2. [ The fifth World Social Forum begins in Porto Alegre, Brazil. The event is accompanied by tens of thousands of activists ](/news/2005/01/27/the-fifth-world-social-forum-begins-in-porto-alegre-brazil-the-event-is-accompanied-by-tens-of-thousands-of-activists.md) _Context: Brazil, World Social Forum_
 3. [A general strike is held in Brazil, the first one in twenty years. ](/news/2017/04/28/a-general-strike-is-held-in-brazil-the-first-one-in-twenty-years.md) _Context: Brazil_
 4. [In Paraguay, around 50 armed men, allegedly belonging to the Brazil-based Primeiro Comando da Capital criminal gang, storm a security vault and police headquarters in Ciudad del Este, escaping with around $6 million in a daring cross-border raid. ](/news/2017/04/24/in-paraguay-around-50-armed-men-allegedly-belonging-to-the-brazil-based-primeiro-comando-da-capital-criminal-gang-storm-a-security-vault.md) _Context: Brazil_

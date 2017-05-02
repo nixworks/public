@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [A passenger train derails in central Cameroon, killing at least 53 people and injuring 575 others. ](/news/2016/10/21/a-passenger-train-derails-in-central-cameroon-killing-at-least-53-people-and-injuring-575-others.md) _Context: 2016 Eséka train derailment_
+1. [A passenger train derails in central Cameroon, killing at least 53 people and injuring 575 others. ](/news/2016/10/21/a-passenger-train-derails-in-central-cameroon-killing-at-least-53-people-and-injuring-575-others.md) _Context: 2016 Eseka train derailment_

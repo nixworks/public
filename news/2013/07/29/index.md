@@ -18,7 +18,7 @@ Two passenger trains collided in Switzerland early Monday evening, leaving sever
 ### [Seven people have been injured following a series of explosions at a propane plant in the US town of Tavares in central Florida. ](/news/2013/07/29/seven-people-have-been-injured-following-a-series-of-explosions-at-a-propane-plant-in-the-us-town-of-tavares-in-central-florida.md)
 All the night shift workers at a central Florida gas plant are safe after a series of explosions rocked the facility late Monday. 
 
-### [Five people died and a woman was injured in a helicopter crash, in Romania [http://www.puterea.ro/eveniment/elicopter-prabusit-in-lacul-din-localitatea-taureni-5-oameni-si-au-pierdut-viata-76129.html (Puterea.ro)]{{what?|date=August 2013}}{{rs|date=August 2013}}](/news/2013/07/29/five-people-died-and-a-woman-was-injured-in-a-helicopter-crash-in-romania-http-www-puterea-ro-eveniment-elicopter-prabusit-in-lacul-din.md)
+### [Five people died and a woman was injured in a helicopter crash, in Romania [http://www.puterea.ro/eveniment/elicopter-prabusit-in-lacul-din-localitatea-taureni-5-oameni-si-au-pierdut-viata-76129.html (Puterea.ro)]date=August 2013date=August 2013](/news/2013/07/29/five-people-died-and-a-woman-was-injured-in-a-helicopter-crash-in-romania-http-www-puterea-ro-eveniment-elicopter-prabusit-in-lacul-din.md)
 _Context: Romania_
 
 ### [The New Zealand Ministry of Defence announces that it will investigate claims that it collected telephone metadata on Jon Stephenson, a freelance journalist for The McClatchy Company in Afghanistan. ](/news/2013/07/29/the-new-zealand-ministry-of-defence-announces-that-it-will-investigate-claims-that-it-collected-telephone-metadata-on-jon-stephenson-a-free.md)

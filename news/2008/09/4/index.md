@@ -15,8 +15,8 @@ _Context: Royal Thai Government, assemble, referendum_
 ### [ Tata Motors suspends work at its Tata Nano plant at Singur, West Bengal, due to continued agitations from the Trinamul Congress. ](/news/2008/09/4/tata-motors-suspends-work-at-its-tata-nano-plant-at-singur-west-bengal-due-to-continued-agitations-from-the-trinamul-congress.md)
 _Context: Singur, Tata Motors, Tata Nano, Trinamul Congress, West Bengal_
 
-### [ Physicists at the Fermi National Accelerator Laboratory report the discovery of the {{Subatomic particle|Bottom Omega-}}, a "doubly-strange" baryon containing two strange quarks and a bottom quark. ](/news/2008/09/4/physicists-at-the-fermi-national-accelerator-laboratory-report-the-discovery-of-the-subatomic-particle-bottom-omega-a-doubly-strange.md)
-_Context: Fermi National Accelerator Laboratory, baryon, quarks, strange, strange quark, {{Subatomic particle|Bottom Omega-}}_
+### [ Physicists at the Fermi National Accelerator Laboratory report the discovery of the Bottom Omega-, a "doubly-strange" baryon containing two strange quarks and a bottom quark. ](/news/2008/09/4/physicists-at-the-fermi-national-accelerator-laboratory-report-the-discovery-of-the-bottom-omega-a-doubly-strange-baryon-containing-two.md)
+_Context: Bottom Omega-, Fermi National Accelerator Laboratory, baryon, quarks, strange, strange quark_
 
 ## [Previous Day...](/news/2008/09/3/index.md)
 

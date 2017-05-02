@@ -25,7 +25,7 @@ _Context: Abu Dhabi, Shakhtar Donetsk, United Arab Emirates, Zayed Sports City S
 Olympiacos FC will begin their UEFA Europa League campaign with a new coach after Leonardo Jardim was relieved of his duties just over six months into a two-year contract.
 
 ### [FC Barcelona loses its first match in the 2012-13 La Liga, squandering a two-goal lead in a 2-3 defeat at Real Sociedad, breaking their 23 game unbeaten run. ](/news/2013/01/19/fc-barcelona-loses-its-first-match-in-the-2012a13-la-liga-squandering-a-two-goal-lead-in-a-2a3-defeat-at-real-sociedad-breaking-their.md)
-_Context: 2012–13 La Liga, FC Barcelona, Real Sociedad_
+_Context: 2012-13 La Liga, FC Barcelona, Real Sociedad_
 
 ### [Sebastien Loeb wins the 2013 Monte Carlo Rally, the first stage of the 2013 World Rally Championship season. ](/news/2013/01/19/sa-c-bastien-loeb-wins-the-2013-monte-carlo-rally-the-first-stage-of-the-2013-world-rally-championship-season.md)
 Semi-retired Frenchman Sebastien Loeb won the Monte Carlo Rally for the seventh time on Saturday after the final part of the race was cancelled because too many spectators turned up for the last two stages.

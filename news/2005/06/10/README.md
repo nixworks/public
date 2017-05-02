@@ -7,7 +7,7 @@ _Context: 2004 elections, Gloria Macapagal Arroyo, Philippine electoral crisis, 
 _Context: Colima, Mexico_
 
 ### [ The Bolivian Congress accepts the resignation of Carlos Mesa and names Supreme Court justice Eduardo Rodrguez as the new interim president ](/news/2005/06/10/the-bolivian-congress-accepts-the-resignation-of-carlos-mesa-and-names-supreme-court-justice-eduardo-rodriguez-as-the-new-interim-president.md)
-_Context: Bolivia, Carlos Mesa, Eduardo Rodríguez_
+_Context: Bolivia, Carlos Mesa, Eduardo Rodrguez_
 
 ### [ In Japan, a high school student throws a bomb into classroom in Hikari, Yamaguchi Prefecture. 69 students are injured. ](/news/2005/06/10/in-japan-a-high-school-student-throws-a-bomb-into-classroom-in-hikari-yamaguchi-prefecture-69-students-are-injured.md)
 _Context: Hikari, Japan, Yamaguchi Prefecture_

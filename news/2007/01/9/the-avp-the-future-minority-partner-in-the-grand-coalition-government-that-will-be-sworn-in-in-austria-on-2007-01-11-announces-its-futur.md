@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ Austria's new government is sworn in under Chancellor Alfred Gusenbauer (SPO) and Vice-Chancellor Wilhelm Molterer (OVP). ](/news/2007/01/11/austria-s-new-government-is-sworn-in-under-chancellor-alfred-gusenbauer-spa-and-vice-chancellor-wilhelm-molterer-avp.md) _Context: Austria, new government, ÖVP_
+1. [ Austria's new government is sworn in under Chancellor Alfred Gusenbauer (SPO) and Vice-Chancellor Wilhelm Molterer (OVP). ](/news/2007/01/11/austria-s-new-government-is-sworn-in-under-chancellor-alfred-gusenbauer-spa-and-vice-chancellor-wilhelm-molterer-avp.md) _Context: Austria, OVP, new government_
 2. [ The Social Democratic Party of Austria, the future majority partner in the grand coalition government that will be sworn in in Austria on January 11, 2007, announces its future ministers. ](/news/2007/01/10/the-social-democratic-party-of-austria-the-future-majority-partner-in-the-grand-coalition-government-that-will-be-sworn-in-in-austria-on-j.md) _Context: Austria, grand coalition, new government_
 3. [An avalanche kills four skiers in Tyrol, Austria. ](/news/2017/03/15/an-avalanche-kills-four-skiers-in-tyrol-austria.md) _Context: Austria_
 4. [An Austrian court grants a United States request to extradite Ukrainian businessman Dmytro Firtash. U.S. officials accuse Firtash of being involved in a scandal where he allegedly paid US$18.5 million in bribes for a permit to mine titanium in India, something Firtash denies. ](/news/2017/02/21/an-austrian-court-grants-a-united-states-request-to-extradite-ukrainian-businessman-dmytro-firtash-u-s-officials-accuse-firtash-of-being-i.md) _Context: Austria_

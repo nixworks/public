@@ -1,6 +1,6 @@
 ## [2006-01-15](/news/2006/01/15/index.md)
 
-### [ President Mwai Kibaki of Kenya has declared the ongoing drought a national disaster and has appealed for {{Nowrap|US$150 million}} to feed the hungry. {{Nowrap|2.5 million}} people have been left close to starvation due to the lack of rains over the last three years and corrupt officials who steal food aid. ](/news/2006/01/15/president-mwai-kibaki-of-kenya-has-declared-the-ongoing-drought-a-national-disaster-and-has-appealed-for-nowrap-us-150-million-to-feed.md)
+### [ President Mwai Kibaki of Kenya has declared the ongoing drought a national disaster and has appealed for US$150 million to feed the hungry. 2.5 million people have been left close to starvation due to the lack of rains over the last three years and corrupt officials who steal food aid. ](/news/2006/01/15/president-mwai-kibaki-of-kenya-has-declared-the-ongoing-drought-a-national-disaster-and-has-appealed-for-us-150-million-to-feed-the-hungry.md)
 _Context: Kenya, Mwai Kibaki, ongoing drought_
 
 ### [ Russia and Ukraine are set to enter more diplomatic troubled waters over the alleged occupation of a lighthouse in the Black Sea. ](/news/2006/01/15/russia-and-ukraine-are-set-to-enter-more-diplomatic-troubled-waters-over-the-alleged-occupation-of-a-lighthouse-in-the-black-sea.md)

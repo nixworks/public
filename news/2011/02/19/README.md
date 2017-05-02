@@ -34,7 +34,7 @@ _Context: Dresden, tear gas, water cannon_
 _Context: 61st Berlin International Film Festival, Albania, Argentina, Asghar Farhadi, Germany, Golden Bear, Hungary, Iran, Nader and Simin, A Separation_
 
 ### [International Petroleum Investment Company makes a $4billion bid for the remaining 53% of shares of Compania Espanola de Petroleos.](/news/2011/02/19/international-petroleum-investment-company-makes-a-4billion-bid-for-the-remaining-53-of-shares-of-compaa-aa-espaa-ola-de-petra3leos.md)
-_Context: Compañía Española de Petróleos, International Petroleum Investment Company_
+_Context: Compania Espanola de Petroleos, International Petroleum Investment Company_
 
 ### [The United States vetoes a draft of a U.N. Security Council resolution critical of Israeli settlements in the West Bank. ](/news/2011/02/19/the-united-states-vetoes-a-draft-of-a-u-n-security-council-resolution-critical-of-israeli-settlements-in-the-west-bank.md)
 The United States on Friday vetoed a draft U.N. Security Council resolution condemning Israeli settlements on Palestinian territory after the Palestinians refused to withdraw the Arab-drafted text.

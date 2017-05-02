@@ -25,7 +25,7 @@ _Context: Alfonso Portillo, Guatemala, Guatemalan President_
 A foreign agricultural worker was the first fatality from Gaza rocket fire since Israelâ€™s 2009 military offensive.
 
 ### [Turkey arrests around 20 people as it investigates an alleged attempted coup d'tat. ](/news/2010/03/18/turkey-arrests-around-20-people-as-it-investigates-an-alleged-attempted-coup-d-etat.md)
-_Context: Turkey, coup d'état_
+_Context: Turkey, coup d'tat_
 
 ### [Charges occur in The Gambia's attempted coup d'tat to overthrow President Yahya Jammeh. ](/news/2010/03/18/charges-occur-in-the-gambia-s-attempted-coup-d-etat-to-overthrow-president-yahya-jammeh.md)
 _Context: President, Yahya Jammeh, the Gambia_
@@ -34,7 +34,7 @@ _Context: President, Yahya Jammeh, the Gambia_
 Sahil Saeed, the five-year-old boy freed by kidnappers in Pakistan after his family paid a &pound;110,000 ransom has landed in England with his father.
 
 ### [French photographer Sophie Ristelhueber wins the Deutsche Brse Photography Prize. ](/news/2010/03/18/french-photographer-sophie-ristelhueber-wins-the-deutsche-borse-photography-prize.md)
-_Context: Deutsche Börse Photography Prize, France, Sophie Ristelhueber_
+_Context: Deutsche Brse Photography Prize, France, Sophie Ristelhueber_
 
 ## [Previous Day...](/news/2010/03/17/index.md)
 

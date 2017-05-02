@@ -10,7 +10,7 @@ The month-old fire in northern Santa Barbara County has burned an estimated 44,4
 _Context: 9/11 Commission, George W. Bush, president_
 
 ### [ The United States Congress allocates $250 million to rebuild the I-35W Mississippi River bridge in Minneapolis, Minnesota. ](/news/2007/08/3/the-united-states-congress-allocates-250-million-to-rebuild-the-i-35w-mississippi-river-bridge-in-minneapolis-minnesota.md)
-_Context: I-35W Mississippi River bridge, Minneapolis, U.S. Congress, U.S. dollar_
+_Context: I-35W Mississippi River bridge, Minneapolis, U.S. Congressional, U.S. dollar_
 
 ### [ The United States Senate votes to extend the powers of intelligence agents to eavesdrop on suspected terrorists in a victory for President of the United States George W. Bush. ](/news/2007/08/3/the-united-states-senate-votes-to-extend-the-powers-of-intelligence-agents-to-eavesdrop-on-suspected-terrorists-in-a-victory-for-president.md)
 The US Senate has voted to extend the power of intelligence agents to eavesdrop on terrorism suspects, in a victory for the White House after a tense showdown with congressional Democrats.

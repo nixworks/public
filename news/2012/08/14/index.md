@@ -10,7 +10,7 @@ _Context: Gulf Cartel, Mexican Drug War, Monterrey_
 A series of bombings on markets crowded with shoppers preparing for the end of Ramadan leaves 48 people dead in south-western and northern Afghanistan.
 
 ### [Turkish lawmaker Hseyin Aygn, who was kidnapped by Kurdish rebels on 12 August 2012, is released. ](/news/2012/08/14/turkish-lawmaker-huseyin-aygun-who-was-kidnapped-by-kurdish-rebels-on-12-august-2012-is-released.md)
-_Context: Hüseyin Aygün_
+_Context: Hseyin Aygn_
 
 ### [Kariem McFarlin, 35, of Alameda, California, is arrested and charged with residential burglary and selling stolen property from the Northern California home of the late Steve Jobs. ](/news/2012/08/14/kariem-mcfarlin-35-of-alameda-california-is-arrested-and-charged-with-residential-burglary-and-selling-stolen-property-from-the-northern.md)
 _Context: Alameda, California, Northern California, Steve Jobs_

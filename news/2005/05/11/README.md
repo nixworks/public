@@ -19,7 +19,7 @@ The Minister for the Environment, Dick Roche, has cleared the way for the constr
 _Context: United States Capitol, United States Secret Service, Washington, D.C., White House_
 
 ### [ Canadian Prime Minister Paul Martin has set May 19 for a vote in the House of Commons on the federal budget. He said if his government loses the vote of confidence, he will seek the dissolution of Parliament. This means an election could come as early as June 27. ](/news/2005/05/11/canadian-prime-minister-paul-martin-has-set-may-19-for-a-vote-in-the-house-of-commons-on-the-federal-budget-he-said-if-his-government-lose.md)
-_Context: Canadian, Canadian House of Commons, Canadian Prime Minister, May 19, Paul Martin_
+_Context: Canada, Canadian House of Commons, Canadian Prime Minister, May 19, Paul Martin_
 
 ### [ The Austrian parliament ratifies the European Union constitution with only one dissenting vote. ](/news/2005/05/11/the-austrian-parliament-ratifies-the-european-union-constitution-with-only-one-dissenting-vote.md)
 _Context: Austria, European constitution_

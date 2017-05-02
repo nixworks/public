@@ -7,13 +7,13 @@ Mayor Michael R. Bloomberg said the Hudson River landing of US Airways Flight 15
 _Context: Gabon, Omar Bongo, President, Spain_
 
 ### [ A Bosnian television station shows what it says is recent video footage of genocide suspect and Bosnian war commander General Ratko Mladic in Serbia. ](/news/2009/06/11/a-bosnian-television-station-shows-what-it-says-is-recent-video-footage-of-genocide-suspect-and-bosnian-war-commander-general-ratko-mladia.md)
-_Context: Bosnia, Bosnian War, Ratko Mladić, Serbia, genocide_
+_Context: Bosnia, Bosnian War, Ratko Mladic, Serbia, genocide_
 
 ### [ Swedish sports car maker Koenigsegg is to buy Saab Automobile from General Motors with support from Norwegian investors.](/news/2009/06/11/swedish-sports-car-maker-koenigsegg-is-to-buy-saab-automobile-from-general-motors-with-support-from-norwegian-investors.md)
 _Context: General Motors, Koenigsegg, Norway, Saab Automobile, Sweden_
 
 ### [ Dail Eireann debates the findings of the Commission to Inquire into Child Abuse, delayed by the motion of no confidence in the Irish Government opened by Fine Gael. ](/news/2009/06/11/da-il-aireann-debates-the-findings-of-the-commission-to-inquire-into-child-abuse-delayed-by-the-motion-of-no-confidence-in-the-irish-gove.md)
-_Context: Commission to Inquire into Child Abuse, Dáil Éireann, Fine Gael, Irish government, no-confidence_
+_Context: Commission to Inquire into Child Abuse, Dail Eireann, Fine Gael, Irish government, no-confidence_
 
 ### [ Ireland's Garda Commissioner sends two Garda forensic specialists to Brazil to assist in the identification of bodies from Air France Flight 447. ](/news/2009/06/11/ireland-s-garda-commissioner-sends-two-garda-forensic-specialists-to-brazil-to-assist-in-the-identification-of-bodies-from-air-france-fligh.md)
 Two garda forensic specialists will be assisting in the identification of bodies from the Air France crash.
@@ -73,7 +73,7 @@ _Context: 2009, North Korea, United Nations Security Council, sanctions, sanctio
 _Context: Islam, Lahore, Pakistan, Sarfraz Naeemi, Taliban, suicide bomb_
 
 ### [ The United Kingdom Foreign Secretary, David Miliband, is asked to explain how four Chinese detainees from Guantanamo Bay were released to Bermuda without the knowledge of Whitehall. ](/news/2009/06/11/the-united-kingdom-foreign-secretary-david-miliband-is-asked-to-explain-how-four-chinese-detainees-from-guanta-namo-bay-were-released-to.md)
-_Context: Bermuda, Chinese, David Miliband, Guantánamo Bay, Secretary of State for Foreign and Commonwealth Affairs, Whitehall_
+_Context: Bermuda, Chinese, David Miliband, Guantanamo Bay, Secretary of State for Foreign and Commonwealth Affairs, Whitehall_
 
 ### [ The world's first City of Film is announced by UNESCO, with Bradford  beating competition from Los Angeles, Cannes and Venice. ](/news/2009/06/11/the-world-s-first-city-of-film-is-announced-by-unesco-with-bradford-beating-competition-from-los-angeles-cannes-and-venice.md)
 _Context: Bradford, Cannes, City of Film, Los Angeles, UNESCO, Venice_

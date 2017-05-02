@@ -4,7 +4,7 @@
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
 ### [Pakistan Army's Inter-Services Public Relations (ISPR) reports seven Pakistani soldiers have been killed by Indian cross-border shelling in Bhimber District, Azad Kashmir. ](/news/2016/11/14/pakistan-army-s-inter-services-public-relations-ispr-reports-seven-pakistani-soldiers-have-been-killed-by-indian-cross-border-shelling-in.md)
-_Context: 2016 India–Pakistan military confrontation, Azad Kashmir, Bhimber District, India, Inter-Services Public Relations, Pakistan, Pakistan Army_
+_Context: 2016 India-Pakistan military confrontation, Azad Kashmir, Bhimber District, India, Inter-Services Public Relations, Pakistan, Pakistan Army_
 
 ### [A suicide bomber kills six people near Karbala. ](/news/2016/11/14/a-suicide-bomber-kills-six-people-near-karbala.md)
 Eight people were killed and nearly 20 wounded on Monday in two separate car bomb blasts that hit police checkpoints in Falluja, a former stronghold of Islamic State west of Baghdad, police sources said.
@@ -37,7 +37,7 @@ _Context: Boyko Borissov, Bulgarian Prime Minister, Bulgarian presidential elect
 Congolese Prime Minister Augustin Matata Ponyo resigned on Monday as part of the national dialogue framework agreement which stipulates that an opposition leader takes the position of Prime Minister.
 
 ### [Igor Dodon, of the Socialists' Party, wins Sunday's Moldovan presidential election run-off with 52.2 percent of the vote, besting former Education Minister  Maia Sandu of the Action and Security Party. Sandu has not yet accepted these preliminary results because of voting irregularities which she will present to the Central Election Commission for review. ](/news/2016/11/14/igor-dodon-of-the-socialistsa-party-wins-sunday-s-moldovan-presidential-election-run-off-with-52-2-percent-of-the-vote-besting-former-e.md)
-_Context: Action and Security Party, Central Election Commission, Education Minister, Igor Dodon, Maia Sandu, Moldovan presidential election, Socialists’ Party_
+_Context: Action and Security Party, Central Election Commission, Education Minister, Igor Dodon, Maia Sandu, Moldovan presidential election, Socialists' Party_
 
 ### [President-elect Donald Trump is seeking top secret security clearances for his children, according to CBS News. ](/news/2016/11/14/president-elect-donald-trump-is-seeking-top-secret-security-clearances-for-his-children-according-to-cbs-news.md)
 His children would need to fill out a security questionnaire and go through background checks, and could be designated as outside national security advisers

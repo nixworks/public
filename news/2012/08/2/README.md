@@ -4,13 +4,13 @@
 _Context: Barack Obama, Bashar al-Assad, CIA, Syrian Civil War, Syrian rebels_
 
 ### [War in Afghanistan:Afghan security forces kill five insurgents planning a suicide attack in Kabul. ](/news/2012/08/2/war-in-afghanistan-pafghan-security-forces-kill-five-insurgents-planning-a-suicide-attack-in-kabul.md)
-_Context: Afghanistan, Kabul, War in Afghanistan (2001–present)_
+_Context: Afghanistan, Kabul, War in Afghanistan (2001-present)_
 
 ### [At least 23 people are injured as two blasts hit a fruit market in Pakistan's eastern city of Lahore. ](/news/2012/08/2/at-least-23-people-are-injured-as-two-blasts-hit-a-fruit-market-in-pakistan-s-eastern-city-of-lahore.md)
 _Context: Lahore, Pakistan_
 
 ### [French L'Oreal heiress Liliane Bettencourt sells D'Arros Island for $60 million. ](/news/2012/08/2/french-l-ora-c-al-heiress-liliane-bettencourt-sells-d-arros-island-for-60-million.md)
-_Context: D'Arros Island, France, L'Oréal, Liliane Bettencourt_
+_Context: D'Arros Island, France, L'Oreal, Liliane Bettencourt_
 
 ### [Italian football club Inter Milan sells a 15% stake to a Chinese investor group. ](/news/2012/08/2/italian-football-club-inter-milan-sells-a-15-stake-to-a-chinese-investor-group.md)
 Italian football club Inter Milan says that a group of Chinese investors will become its second-largest shareholder.
@@ -37,7 +37,7 @@ Aug. 2 - Peruvian police seize over $2 million counterfeit U.S. bills heading to
 Spanish officials announced the arrest of three suspects who were believed to have been planning attacks in Spain and elsewhere.
 
 ### [The Constitutional Court of Romania postpones a decision regarding the impeachment referendum of suspended President Traian Basescu until 31 August 2012, to allow time for the reevaluation of the permanent electoral lists. ](/news/2012/08/2/the-constitutional-court-of-romania-postpones-a-decision-regarding-the-impeachment-referendum-of-suspended-president-traian-basescu-until-3.md)
-_Context: Constitutional Court of Romania, President, Traian Băsescu, presidential impeachment referendum_
+_Context: Constitutional Court of Romania, President, Traian Basescu, presidential impeachment referendum_
 
 ### [Egypt's new cabinet members are sworn in. ](/news/2012/08/2/egypt-s-new-cabinet-members-are-sworn-in.md)
 _Context: Egypt_

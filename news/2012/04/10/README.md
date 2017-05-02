@@ -4,7 +4,7 @@
 Hopes of a UN-sponsored ceasefire in Syria recede as Damascus shows little sign of abiding by a deadline to withdraw its troops and weapons.
 
 ### [Bahraini uprising:Four people are arrested in a Shiite village in Bahrain after seven policemen are injured in an apparent "terrorist attack". ](/news/2012/04/10/bahraini-uprising-pfour-people-are-arrested-in-a-shiite-village-in-bahrain-after-seven-policemen-are-injured-in-an-apparent-terrorist-attac.md)
-_Context: 2011–2012 Bahraini uprising, Bahrain, Shi'ite_
+_Context: 2011-2012 Bahraini uprising, Bahrain, Shi'ite_
 
 ### [War in Afghanistan (2001-present):A suicide bomber attacks a government office building in Afghanistan's Herat Province with 15 people killed and 22 wounded. ](/news/2012/04/10/war-in-afghanistan-2001apresent-pa-suicide-bomber-attacks-a-government-office-building-in-afghanistan-s-herat-province-with-15-people-ki.md)
 Taliban claim responsibility for suicide attacks targeting government buildings in Herat and Helmand provinces.

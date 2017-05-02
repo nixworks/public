@@ -1,7 +1,7 @@
 ## [2015-09-13](/news/2015/09/13/index.md)
 
 ### [A PKK car bombing on a checkpoint kills two Turkish police officers and injures five others in south-eastern Turkey. Also, Turkish security forces impose a curfew in the region's largest city, Diyarbakir. ](/news/2015/09/13/a-pkk-car-bombing-on-a-checkpoint-kills-two-turkish-police-officers-and-injures-five-others-in-south-eastern-turkey-also-turkish-security.md)
-_Context: Diyarbakır, Kurdistan Workers' Party, Turkey–PKK conflict, Turkish police, Turkish troops_
+_Context: Diyarbakir, Kurdistan Workers' Party, Turkey-PKK conflict, Turkish police, Turkish troops_
 
 ### [Egyptian security forces open fire on a Mexican tourist convoy in the Western Desert while pursuing militants with at least twelve people killed and 10 injured. ](/news/2015/09/13/egyptian-security-forces-open-fire-on-a-mexican-tourist-convoy-in-the-western-desert-while-pursuing-militants-with-at-least-twelve-people-ki.md)
 Egyptian security forces kill 12 Mexicans and Egyptians by accident in an attack after mistaking a tourist convoy for militants.
@@ -40,7 +40,7 @@ _Context: 3-D printing, Salamanca, Spain, sternum, titanium_
 ### [In tennis,  Novak Djokovic of Serbia defeats Roger Federer of Switzerland 3 sets to 1 in the final of the men's singles. ](/news/2015/09/13/in-tennis-novak-djokovic-of-serbia-defeats-roger-federer-of-switzerland-3-sets-to-1-in-the-final-of-the-men-s-singles.md)
 Novak Djokovic and Roger Federer will meet in Sunday’s U.S. Open men’s final.
 
-### [In golf, Lydia Ko wins the final LPGA major of the year, The Evian Championship, by six shots after a final-round 63. The New Zealander becomes the youngest person of either sex to win a professional major championship, at age {{age in years and days|1997|4|24|2015|9|13}}. ](/news/2015/09/13/in-golf-lydia-ko-wins-the-final-lpga-major-of-the-year-the-evian-championship-by-six-shots-after-a-final-round-63-the-new-zealander-beco.md)
+### [In golf, Lydia Ko wins the final LPGA major of the year, The Evian Championship, by six shots after a final-round 63. The New Zealander becomes the youngest person of either sex to win a professional major championship, at age 1997|4|24|2015|9|13. ](/news/2015/09/13/in-golf-lydia-ko-wins-the-final-lpga-major-of-the-year-the-evian-championship-by-six-shots-after-a-final-round-63-the-new-zealander-beco.md)
 _Context: LPGA, Lydia Ko, New Zealand, The Evian Championship, golf, major championship, year_
 
 ## [Previous Day...](/news/2015/09/12/index.md)

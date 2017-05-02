@@ -13,7 +13,7 @@ _Context: Dublin Central, Dublin South, Republic of Ireland, by-election, local 
 Nobel Prize-winning economist Paul Krugman has predicted that the Irish economic recovery could take five years.
 
 ### [ The Prime Minister of Italy Silvio Berlusconi threatens to sue the Spanish newspaper ''El Pais'' for publishing indecent photographs of people at his villa in Sardinia. ](/news/2009/06/5/the-prime-minister-of-italy-silvio-berlusconi-threatens-to-sue-the-spanish-newspaper-el-paas-for-publishing-indecent-photographs-of-pe.md)
-_Context: El País, Italian Prime Minister, Sardinia, Silvio Berlusconi, Spain, indecent exposure_
+_Context: El Pais, Italian Prime Minister, Sardinia, Silvio Berlusconi, Spain, indecent exposure_
 
 ### [ Ireland's rate of unemployment reaches 11.8%. ](/news/2009/06/5/ireland-s-rate-of-unemployment-reaches-11-8.md)
 The number of people on the Live Register hit 400,000 for the first time last month.
@@ -28,13 +28,13 @@ _Context: Chengdu, China's, Sichuan, bus fire_
 _Context: Air Force, Air France, Brazil, crash of Air France Flight 447_
 
 ### [ Presidential-election candidate Baciro Dabo and former Defense Minister Helder Proenca are accused of plotting a coup d'etat and killed by Guinea-Bissau's government. ](/news/2009/06/5/presidential-election-candidate-baciro-daba3-and-former-defense-minister-helder-proenca-are-accused-of-plotting-a-coup-d-a-c-tat-and-killed-b.md)
-_Context: Baciro Dabó, Defense Minister, Guinea-Bissau, Helder Proenca, coup, government, presidential election_
+_Context: Baciro Dabo, Defense Minister, Guinea-Bissau, Helder Proenca, coup, government, presidential election_
 
 ### [ A bomb kills nine people in a cafe in Baghdad, Iraq. ](/news/2009/06/5/a-bomb-kills-nine-people-in-a-cafa-c-in-baghdad-iraq.md)
 _Context: Baghdad, Iraq_
 
 ### [ Philippe Gomes is elected President of New Caledonia. ](/news/2009/06/5/philippe-goma-s-is-elected-president-of-new-caledonia.md)
-_Context: New Caledonia, Philippe Gomès, President, elected_
+_Context: New Caledonia, Philippe Gomes, President, elected_
 
 ### [ A landslide buries approximately 59 people and kills at least two others in Chongqing, China. ](/news/2009/06/5/a-landslide-buries-approximately-59-people-and-kills-at-least-two-others-in-chongqing-china.md)
 _Context: China's, Chongqing, landslide_

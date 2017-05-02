@@ -31,7 +31,7 @@ _Context: Benjamin Netanyahu, Israel_
 Vladimir Putin is officially sworn in as president of Russia after four years as prime minister, following a controversial poll in March.
 
 ### [Voters in Syria go to the polls for parliamentary elections as the death tolls from the uprising continues to increase. ](/news/2012/05/7/voters-in-syria-go-to-the-polls-for-parliamentary-elections-as-the-death-tolls-from-the-uprising-continues-to-increase.md)
-_Context: Syria, Syrian uprising (2011–present), parliamentary elections_
+_Context: Syria, Syrian uprising (2011-present), parliamentary elections_
 
 ### [Paeleoclimatology research published in ''Current Biology'' suggests that the greenhouse gas methane from dinosaur's flatulence may have warmed the Earth. ](/news/2012/05/7/paeleoclimatology-research-published-in-current-biology-suggests-that-the-greenhouse-gas-methane-from-dinosaur-s-flatulence-may-have-war.md)
 _Context: Current Biology, Earth, Paeleoclimatology, dinosaur, flatulence, greenhouse gas, methane_

@@ -11,8 +11,8 @@ British Airways reports a profit of £158m, its first in two years, as the compa
 
 ### Related:
 
-1. [A manuscript by the Austrian composer Gustav Mahler sells for about PS4.5 million at Sotheby's. ](/news/2016/11/30/a-manuscript-by-the-austrian-composer-gustav-mahler-sells-for-about-aps4-5-million-at-sothebyas.md) _Context: £_
-2. [Following the June 23 Brexit vote, the exchange rate for the British pound reaches a 31-year low against the United States dollar. ](/news/2016/10/4/following-the-june-23-brexit-vote-the-exchange-rate-for-the-british-pound-reaches-a-31-year-low-against-the-united-states-dollar.md) _Context: £_
+1. [A manuscript by the Austrian composer Gustav Mahler sells for about PS4.5 million at Sotheby's. ](/news/2016/11/30/a-manuscript-by-the-austrian-composer-gustav-mahler-sells-for-about-aps4-5-million-at-sothebyas.md) _Context: PS_
+2. [Following the June 23 Brexit vote, the exchange rate for the British pound reaches a 31-year low against the United States dollar. ](/news/2016/10/4/following-the-june-23-brexit-vote-the-exchange-rate-for-the-british-pound-reaches-a-31-year-low-against-the-united-states-dollar.md) _Context: PS_
 3. [A 35-year-old Australian man tries to headbutt a pilot over the Atlantic Ocean, causing the diversion of a British Airways transatlantic flight from New York's JFK airport to London City Airport. ](/news/2012/12/19/a-35-year-old-australian-man-tries-to-headbutt-a-pilot-over-the-atlantic-ocean-causing-the-diversion-of-a-british-airways-transatlantic-fli.md) _Context: British Airways_
 4. [Former British Airways software engineer Rajib Karim, of Newcastle upon Tyne, United Kingdom is jailed for 30 years for plotting to blow up a plane. ](/news/2011/03/18/former-british-airways-software-engineer-rajib-karim-of-newcastle-upon-tyne-united-kingdom-is-jailed-for-30-years-for-plotting-to-blow-up.md) _Context: British Airways_
 5. [British Airways IT expert Rajib Karim is convicted on charges related to plotting to blow up a plane. ](/news/2011/02/28/british-airways-it-expert-rajib-karim-is-convicted-on-charges-related-to-plotting-to-blow-up-a-plane.md) _Context: British Airways_

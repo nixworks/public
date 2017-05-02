@@ -19,7 +19,7 @@ The government is skirting an international ban on whale hunting by saying theyâ
 The new amendment means Gujarat now has the toughest laws dealing with cow slaughter in India.
 
 ### [Luisa Ortega Diaz, Venezuela's attorney general, denounces a rupture of the constitutional order. Some protesters hold banners reading: "No To Dictatorship". ](/news/2017/03/31/luisa-ortega-daaz-venezuela-s-attorney-general-denounces-a-rupture-of-the-constitutional-order-some-protesters-hold-banners-reading-no.md)
-_Context: 2017 dissolution of Venezuelan National Assembly, Luisa Ortega DÃ­az, attorney general_
+_Context: 2017 dissolution of Venezuelan National Assembly, Luisa Ortega Diaz, attorney general_
 
 ### [New York City Mayor Bill de Blasio announces that he is developing a plan to close the Rikers Island prison within 10 years. ](/news/2017/03/31/new-york-city-mayor-bill-de-blasio-announces-that-he-is-developing-a-plan-to-close-the-rikers-island-prison-within-10-years.md)
 New York Mayor Bill de Blasio says he wants to close the troubled Rikers Island prison within 10 years.

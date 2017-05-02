@@ -10,7 +10,7 @@ _Context: al-Qaeda, ricin_
 _Context: University of Miami, death penalty, lethal injection_
 
 ### [ Israeli-Palestinian conflict:  Israel kills a member of the Al Aqsa Martyrs Brigade following a raid into the Palestinian town of Nablus. Palestinians maintain that a special unit disguised as Arabs carried out the act. Israeli Defence Forces say the man was a "ticking bomb" and that soldier shot only after he opened fire on them. Witnesses from the Balata camp, however, say the Israelis opened fire without warning and then took the body away. ](/news/2005/04/14/israeliapalestinian-conflict-p-israel-kills-a-member-of-the-al-aqsa-martyrs-brigade-following-a-raid-into-the-palestinian-town-of-nablus.md)
-_Context: Al Aqsa Martyrs Brigade, Arab, Israel, Israeli Defence Forces, Israeli–Palestinian conflict, Nablus, Palestinian, raid_
+_Context: Al Aqsa Martyrs Brigade, Arab, Israel, Israeli Defence Forces, Israeli-Palestinian conflict, Nablus, Palestinian, raid_
 
 ### [ Conflict in Iraq: At least 11 people have been killed following a double suicide bombing in the Iraqi capital of Baghdad. ](/news/2005/04/14/conflict-in-iraq-at-least-11-people-have-been-killed-following-a-double-suicide-bombing-in-the-iraqi-capital-of-baghdad.md)
 _Context: Baghdad, Conflict in Iraq, Iraq, capital, suicide bomb_
@@ -31,7 +31,7 @@ The Latest International Human Rights News, Information, and Reports
 _Context: Dodi al Fayed, grandmother, paparazzi_
 
 ### [ Funding difficulties threaten the Murray-Darling basin river system in Australia. ](/news/2005/04/14/funding-difficulties-threaten-the-murrayadarling-basin-river-system-in-australia.md)
-_Context: Murray–Darling basin, river system_
+_Context: Murray-Darling basin, river system_
 
 ### [ The trial of Schapelle Corby, an Australian facing drug smuggling charges in Indonesia, is adjourned after she collapses in the Bali courtroom. ](/news/2005/04/14/the-trial-of-schapelle-corby-an-australian-facing-drug-smuggling-charges-in-indonesia-is-adjourned-after-she-collapses-in-the-bali-courtr.md)
 _Context: Bali, Indonesia, Schapelle Corby, drug smuggling_

@@ -1,7 +1,7 @@
 ## [2007-12-28](/news/2007/12/28/index.md)
 
 ### [ 2007 Zoe's Ark controversy - Six French aid workers, sentenced to eight years at hard labor by a Chadian court for allegedly attempting to rescue over 100 Chadian children, are flown to France, where they will appear before a French court which will decide how they will serve their sentences. ](/news/2007/12/28/2007-zoa-c-s-ark-controversy-six-french-aid-workers-sentenced-to-eight-years-at-hard-labor-by-a-chadian-court-for-allegedly-attempting-to.md)
-_Context: 2007 Zoé's Ark controversy, Chad, France, aid workers, hard labor_
+_Context: 2007 Zoe's Ark controversy, Chad, France, aid workers, hard labor_
 
 ### [ War in Somalia: Ethiopian troops have withdrawn from a key town in central Somalia. Islamist insurgents say they now control Guriel. ](/news/2007/12/28/war-in-somalia-ethiopian-troops-have-withdrawn-from-a-key-town-in-central-somalia-islamist-insurgents-say-they-now-control-guriel.md)
 _Context: Guriel, Somalia, two years of helping_

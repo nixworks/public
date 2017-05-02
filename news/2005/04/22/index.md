@@ -22,7 +22,7 @@ _Context: Flower portrait, National Portrait Gallery, United Kingdom, William Sh
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Togolese interior minister Franois Boko wants to postpone next Sunday's presidential election, claiming that there is a threat of civil war. ECOWAS wants them to continue as scheduled. ](/news/2005/04/22/togolese-interior-minister-francois-boko-wants-to-postpone-next-sunday-s-presidential-election-claiming-that-there-is-a-threat-of-civil-wa.md)
-_Context: ECOWAS, François Boko, Togo, Togolese presidential election, civil war, interior minister_
+_Context: ECOWAS, Franois Boko, Togo, Togolese presidential election, civil war, interior minister_
 
 ### [ Nepal releases 61 political prisoners, including the former deputy prime minister.  ](/news/2005/04/22/nepal-releases-61-political-prisoners-including-the-former-deputy-prime-minister.md)
 _Context: Nepal, political prisoner_

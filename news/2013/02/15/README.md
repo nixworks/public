@@ -27,7 +27,7 @@ The Independent Parliamentary Standards Authority says it will investigate expen
 ### [Former Congressman Jesse Jackson, Jr. is charged with misusing campaign funds while in office. ](/news/2013/02/15/former-congressman-jesse-jackson-jr-is-charged-with-misusing-campaign-funds-while-in-office.md)
 Former congressman Jesse Jackson Jr. was charged Friday with misusing $750,000 in campaign funds.
 
-### [Near-Earth asteroid 2012 DA14 with an estimated diameter of about {{convert|50|m|sp=us}} comes within 17,200 miles (27,700 km) from the Earth's surface. This distance is a record close approach for a known object of such size. ](/news/2013/02/15/near-earth-asteroid-2012-da14-with-an-estimated-diameter-of-about-convert-50-m-sp-us-comes-within-17-200-miles-27-700-km-from-the-eart.md)
+### [Near-Earth asteroid 2012 DA14 with an estimated diameter of about 50|m|sp=us comes within 17,200 miles (27,700 km) from the Earth's surface. This distance is a record close approach for a known object of such size. ](/news/2013/02/15/near-earth-asteroid-2012-da14-with-an-estimated-diameter-of-about-50-m-sp-us-comes-within-17-200-miles-27-700-km-from-the-earth-s-surface.md)
 _Context: 2012 DA14, Earth, Near-Earth, asteroid, diameter, record close approach_
 
 ## [Previous Day...](/news/2013/02/14/index.md)

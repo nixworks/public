@@ -7,7 +7,7 @@ Syrian government forces recapture a large area south-east of Damascus from rebe
 Eight Afghan policemen were killed by a colleague who turned his gun on them at a checkpoint in the volatile southern Zabul province in Afghanistan.
 
 ### [   At least three civilians are killed and 10 others wounded in a bomb attack in Baghdad, Iraq. ](/news/2016/05/19/at-least-three-civilians-are-killed-and-10-others-wounded-in-a-bomb-attack-in-baghdad-iraq.md)
-_Context: Baghdad, Iraq, Iraqi Civil War (2014–present)_
+_Context: Baghdad, Iraq, Iraqi Civil War (2014-present)_
 
 ### [ Oppenheimer Blue, a large and rare blue diamond, is sold for $57.6 million USD, the most expensive jewel ever sold at an auction. ](/news/2016/05/19/oppenheimer-blue-a-large-and-rare-blue-diamond-is-sold-for-57-6-million-usd-the-most-expensive-jewel-ever-sold-at-an-auction.md)
 (Bloomberg) -- A blue diamond set a record price for a jewel in auction when it went under the hammer for $58 million in a Christie’s sale in Geneva.
@@ -31,7 +31,7 @@ _Context: U.S. Supreme Court, constitutional, opinion, speedy trial_
 San Francisco&#39;s police chief has resigned at the request of the mayor hours after an officer fatally shot a young black woman who was reportedly driving a stolen car and amid other racial issues.
 
 ### [Montenegro and NATO sign an accession agreement, paving the way for the country's future entry into the military alliance. All of NATO's members must now ratify the agreement, with Prime Minister Milo Dukanovic expecting Montenegro to join by mid 2017. ](/news/2016/05/19/montenegro-and-nato-sign-an-accession-agreement-paving-the-way-for-the-country-s-future-entry-into-the-military-alliance-all-of-nato-s-mem.md)
-_Context: Accession of Montenegro to NATO, Milo Đukanović, Montenegro, NATO, Prime Minister, membership_
+_Context: Accession of Montenegro to NATO, Milo Dukanovic, Montenegro, NATO, Prime Minister, membership_
 
 ### [Decommunization in Ukraine:Ukraine's Parliament, the ''Verkhovna Rada'', decides that the country's third largest city, Dnipropetrovsk, be renamed Dnipro as part of the decommunization drive. ](/news/2016/05/19/decommunization-in-ukraine-pukraine-s-parliament-the-verkhovna-rada-decides-that-the-country-s-third-largest-city-dnipropetrovsk-be.md)
 _Context: Dnipro, Dnipropetrovsk, Ukrainian, Verkhovna Rada, decommunization_

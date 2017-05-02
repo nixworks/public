@@ -10,7 +10,7 @@ Israeli Prime Minister Netanyahu says army and intelligence operations will &quo
 _Context: European Union, Kiev, NATO, United Nations, War in Donbass, eastern Ukraine_
 
 ### [Iraqi insurgency (2011-present):A suicide bomber and multiple gunmen, suspected to be Shia militiamen, attack a Sunni mosque in the Diyala province, killing at least 65 people.  ](/news/2014/08/22/iraqi-insurgency-2011apresent-pa-suicide-bomber-and-multiple-gunmen-suspected-to-be-shia-militiamen-attack-a-sunni-mosque-in-the-diyal.md)
-_Context: Diyala Governorate, Iraqi insurgency (2011–present), attack a Sunni mosque_
+_Context: Diyala Governorate, Iraqi insurgency (2011-present), attack a Sunni mosque_
 
 ### [The death toll from landslides in Japan's Hiroshima prefecture rises to 39 with 26 missing. ](/news/2014/08/22/the-death-toll-from-landslides-in-japan-s-hiroshima-prefecture-rises-to-39-with-26-missing.md)
 _Context: Hiroshima prefecture, Japan, landslide_

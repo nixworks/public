@@ -40,7 +40,7 @@ _Context: Enele Sopoaga, Governor-General, Iakoba Italeli, Prime Minister of Tuv
 _Context: David Carter, Fairfax New Zealand, Parliament of New Zealand, Speaker_
 
 ### [Robert Mugabe's ZANU-PF party claims victory in yesterday's Zimbabwean general election as the opposition Movement for Democratic Change alleges "massive fraud". ](/news/2013/08/1/robert-mugabe-s-zanu-pf-party-claims-victory-in-yesterday-s-zimbabwean-general-election-as-the-opposition-movement-for-democratic-change-all.md)
-_Context: Movement for Democratic Change, Robert Mugabe, ZANU–PF, recent elections_
+_Context: Movement for Democratic Change, Robert Mugabe, ZANU-PF, recent elections_
 
 ## [Previous Day...](/news/2013/07/31/index.md)
 

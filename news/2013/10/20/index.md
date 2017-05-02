@@ -7,7 +7,7 @@ _Context: Hama, Syria, Syrian Civil War, al-Nusra, al-Qaeda_
 At least 37 people are killed and more than 40 injured by a suicide bombing at a Baghdad cafe in a mainly Shia district, Iraqi officials say.
 
 ### [South Sudan internal conflict (2011-present):Cattle raiders believed to be led by David Yau Yau attack villages in Jonglei state, leaving at least 78 dead. ](/news/2013/10/20/south-sudan-internal-conflict-2011apresent-pcattle-raiders-believed-to-be-led-by-david-yau-yau-attack-villages-in-jonglei-state-leaving.md)
-_Context: David Yau Yau, Jonglei, South Sudan internal conflict (2011–present)_
+_Context: David Yau Yau, Jonglei, South Sudan internal conflict (2011-present)_
 
 ### [Gunmen open fire on a Christian wedding in a Cairo suburb in Egypt, with at least three people killed and nine others injured. ](/news/2013/10/20/gunmen-open-fire-on-a-christian-wedding-in-a-cairo-suburb-in-egypt-with-at-least-three-people-killed-and-nine-others-injured.md)
 Three people, including a girl aged eight, are killed in Egypt as gunmen open fire on a wedding party outside a Coptic Christian church in Cairo.

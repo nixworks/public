@@ -19,7 +19,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Arnold Schwarzenegger, George W. Bush, Tony Blair, carbon emissions, global warming's, president_
 
 ### [ Incumbent Fradique de Menezes wins So Tom and Prncipe's presidential election. ](/news/2006/07/31/incumbent-fradique-de-menezes-wins-sao-tome-and-principe-s-presidential-election.md)
-_Context: Fradique de Menezes, São Tomé and Príncipe, presidential election_
+_Context: Fradique de Menezes, So Tom and Prncipe, presidential election_
 
 ### [ 2006 Israel-Lebanon crisis: The UN Security Council has expressed its "shock and distress" at the previous day's Israeli attack in which 54 Lebanese civilians, many of them children, were killed. ](/news/2006/07/31/2006-israel-lebanon-crisis-p-the-un-security-council-has-expressed-its-shock-and-distress-at-the-previous-day-s-israeli-attack-in-which-5.md)
 _Context: 2006 Israel-Lebanon crisis, Israel, Lebanon, UN Security Council, civilians_

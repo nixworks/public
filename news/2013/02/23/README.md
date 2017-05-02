@@ -10,7 +10,7 @@ _Context: Arab, Darfur, Sudan, Sudanese nomadic conflicts_
 Jewish settlers confronted Palestinian demonstrators in a West Bank village, according to villagers and an Israeli official.
 
 ### [The 33rd Golden Raspberry Awards are held with ''The Twilight Saga: Breaking Dawn - Part 2'' winning Worst Picture. ](/news/2013/02/23/the-33rd-golden-raspberry-awards-are-held-with-the-twilight-saga-breaking-dawn-a-part-2-winning-worst-picture.md)
-_Context: 33rd Golden Raspberry Awards, The Twilight Saga: Breaking Dawn – Part 2, Worst Picture_
+_Context: 33rd Golden Raspberry Awards, The Twilight Saga: Breaking Dawn - Part 2, Worst Picture_
 
 ### [Iran announces that it has discovered new uranium deposits and that it is planning to build 16 new nuclear power plants. ](/news/2013/02/23/iran-announces-that-it-has-discovered-new-uranium-deposits-and-that-it-is-planning-to-build-16-new-nuclear-power-plants.md)
 _Context: Iran, nuclear power plants, uranium_

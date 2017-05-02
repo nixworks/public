@@ -19,7 +19,7 @@ _Context: Afghanistan, Pakistan, military_
 _Context: Baghdad, Conflict in Iraq_
 
 ### [ Israeli-Palestinian conflict: A Palestinian man is shot dead near the Israeli settlement of Netzarim in the Gaza Strip. Israel Defence Force sources claim he was armed. ](/news/2005/07/17/israeliapalestinian-conflict-p-a-palestinian-man-is-shot-dead-near-the-israeli-settlement-of-netzarim-in-the-gaza-strip-israel-defence-f.md)
-_Context: Gaza Strip, Israeli settlement, Israeli soldier, Israeli–Palestinian conflict, Netzarim, Palestinian_
+_Context: Gaza Strip, Israeli settlement, Israeli soldier, Israeli-Palestinian conflict, Netzarim, Palestinian_
 
 ### [ Thailand declares emergency in three southern provinces of Narathiwat, Pattani and Yala because of increasing violence of Muslim insurgency. ](/news/2005/07/17/thailand-declares-emergency-in-three-southern-provinces-of-narathiwat-pattani-and-yala-because-of-increasing-violence-of-muslim-insurgency.md)
 _Context: Muslim, Narathiwat, Pattani, Thailand, Yala, insurgency, state of emergency_
@@ -43,7 +43,7 @@ _Context: Amaka Anajemba, Nigeria_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ In Turkey, Kurdistan Workers' Party has denied that it had anything to do with a minibus bombing in Kusadasi that killed five people. Turkish authorities have blamed the Party. ](/news/2005/07/17/in-turkey-kurdistan-workers-party-has-denied-that-it-had-anything-to-do-with-a-minibus-bombing-in-kuaadasa-that-killed-five-people-tur.md)
-_Context: Kurdistan Workers' Party, Turkey, minibus bombing in Kuşadası_
+_Context: Kurdistan Workers' Party, Turkey, minibus bombing in Kusadasi_
 
 ### [ In India, the government has dismissed a claim of Sunni Waqf Board that it should own the Taj Mahal.  ](/news/2005/07/17/in-india-the-government-has-dismissed-a-claim-of-sunni-waqf-board-that-it-should-own-the-taj-mahal.md)
 _Context: Sunni Waqf Board, Taj Mahal_

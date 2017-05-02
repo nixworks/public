@@ -4,7 +4,7 @@
 The attack hit a vehicle in northwestern Pakistan late on Thursday night, government officials said.
 
 ### [Al-Qaeda insurgency in Yemen:Two al-Qaeda fighters and two pro-government militiamen are killed in clashes in Jaar, Yemen. ](/news/2013/03/22/al-qaeda-insurgency-in-yemen-ptwo-al-qaeda-fighters-and-two-pro-government-militiamen-are-killed-in-clashes-in-jaar-yemen.md)
-_Context: Al-Qaeda insurgency in Yemen, Jaʿār, Yemen, al-Qaeda_
+_Context: Al-Qaeda insurgency in Yemen, Ja'ar, Yemen, al-Qaeda_
 
 ### [American alternative rock band My Chemical Romance announces their breakup in one paragraph after a musical career spanning 12 years. ](/news/2013/03/22/american-alternative-rock-band-my-chemical-romance-announces-their-breakup-in-one-paragraph-after-a-musical-career-spanning-12-years.md)
 My Chemical Romance has called it quits, the rock act announced on its website on Friday. The long-running group had been together for over a decade, releasing four studio albums.
@@ -64,7 +64,7 @@ _Context: Lebanon, Najib Mikati, Prime Minister_
 _Context: Chris Bowen, Ed Husic, Joel Fitzgibbon, Kim Carr, Labor Party, Martin Ferguson, Richard Marles, Simon Crean, leadership spill_
 
 ### [Former President of France Nicolas Sarkozy is being investigated over claims of illegal donations received from the country's richest woman, Liliane Bettencourt of L'Oreal. ](/news/2013/03/22/former-president-of-france-nicolas-sarkozy-is-being-investigated-over-claims-of-illegal-donations-received-from-the-country-s-richest-woman.md)
-_Context: France, L'Oréal, Liliane Bettencourt, Nicolas Sarkozy, president, richest woman_
+_Context: France, L'Oreal, Liliane Bettencourt, Nicolas Sarkozy, president, richest woman_
 
 ### [Former Pakistani President Pervez Musharraf is granted protective bail in several cases, paving the way for his return to Pakistan from self-imposed exile. ](/news/2013/03/22/former-pakistani-president-pervez-musharraf-is-granted-protective-bail-in-several-cases-paving-the-way-for-his-return-to-pakistan-from-self.md)
 Former Pakistani President Pervez Musharraf has been granted protective bail in several cases, paving the way for his return, his lawyers say.

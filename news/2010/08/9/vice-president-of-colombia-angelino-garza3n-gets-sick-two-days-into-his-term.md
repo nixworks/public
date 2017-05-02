@@ -13,4 +13,4 @@
 
 ### Related:
 
-1. [The vice president of Colombia, Angelino Garzon, awakes from an induced coma following his ischemic stroke. ](/news/2012/06/26/the-vice-president-of-colombia-angelino-garza3n-awakes-from-an-induced-coma-following-his-ischemic-stroke.md) _Context: Angelino Garzón_
+1. [The vice president of Colombia, Angelino Garzon, awakes from an induced coma following his ischemic stroke. ](/news/2012/06/26/the-vice-president-of-colombia-angelino-garza3n-awakes-from-an-induced-coma-following-his-ischemic-stroke.md) _Context: Angelino Garzon_

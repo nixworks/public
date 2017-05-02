@@ -55,7 +55,7 @@ New Zealand&#039;s earthquake-devastated Canterbury region faces an almost one-i
 ### [In Germany fourteen people have been reported dead from hemolytic-uremic syndrome outbreak as of 30 May, with another 329 confirmed and up to 1,200 suspected cases.](/news/2011/05/31/in-germany-fourteen-people-have-been-reported-dead-from-hemolytic-uremic-syndrome-outbreak-as-of-30-may-with-another-329-confirmed-and-up-t.md)
 German officials held crisis talks, with reports at least 14 people have died amid a food poisoning outbreak blamed on imported cucumbers.
 
-### [The centenary of the launch of the {{RMS|Titanic}} is celebrated. ](/news/2011/05/31/the-centenary-of-the-launch-of-the-rms-titanic-is-celebrated.md)
+### [The centenary of the launch of the Titanic is celebrated. ](/news/2011/05/31/the-centenary-of-the-launch-of-the-titanic-is-celebrated.md)
 ### [Curt Zimbelman, the mayor of the US town of Minot, North Dakota orders the mandatory evacuation of streets near the flooding Souris River. ](/news/2011/05/31/curt-zimbelman-the-mayor-of-the-us-town-of-minot-north-dakota-orders-the-mandatory-evacuation-of-streets-near-the-flooding-souris-river.md)
 _Context: Minot, Souris River_
 
@@ -87,7 +87,7 @@ _Context: 1994 bombing of a Jewish Community City, Ahmad Vahidi, Argentina, Boli
 The man suspected of shooting Russian journalist Anna Politkovskaya in 2006 is arrested in Chechnya, Russian and Chechen sources say.
 
 ### [Serbia's war crimes court rejects an appeal from former Bosnian Serb Colonel General Ratko Mladic against a transfer to a United Nations tribunal in The Hague to face genocide charges. ](/news/2011/05/31/serbia-s-war-crimes-court-rejects-an-appeal-from-former-bosnian-serb-colonel-general-ratko-mladia-against-a-transfer-to-a-united-nations-tr.md)
-_Context: Bosnian Serb, Colonel General, Ratko Mladić, Serbia, The Hague, United Nations, genocide_
+_Context: Bosnian Serb, Colonel General, Ratko Mladic, Serbia, The Hague, United Nations, genocide_
 
 ### [A Spanish court approves the extradition of former Guatemalan Interior Minister Carlos Vielmann to face murder charges in connection with a 2006 uprising at the Pavon prison in Guatemala where seven inmates were killed. ](/news/2011/05/31/a-spanish-court-approves-the-extradition-of-former-guatemalan-interior-minister-carlos-vielmann-to-face-murder-charges-in-connection-with-a.md)
 A Spanish court on Tuesday approved the extradition of former Guatemalan Interior Minister Carlos Vielmann to his homeland to face 10 murder charges stemming from incidents at two prisons there.

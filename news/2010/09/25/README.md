@@ -34,7 +34,7 @@ Japan refused to apologize on Saturday for detaining a Chinese boat captain, sho
 _Context: California, United States, federal court_
 
 ### [Pakistan International Airlines Flight 782  departing from Toronto, Canada, for Karachi, Pakistan, carrying 273 passengers lands at Arlanda Airport in Stockholm, Sweden, due to a bomb threat.  A man is taken into custody by the Swedish National Task Force and then released. ](/news/2010/09/25/pakistan-international-airlines-flight-782-departing-from-toronto-canada-for-karachi-pakistan-carrying-273-passengers-lands-at-arlanda.md)
-_Context: Arlanda Airport, Canadian, Karachi, National Task Force, Pakistan, Pakistan International Airlines, Stockholm, Sweden, Toronto, bomb threat_
+_Context: Arlanda Airport, Canada, Karachi, National Task Force, Pakistan, Pakistan International Airlines, Stockholm, Sweden, Toronto, bomb threat_
 
 ### [The U.S. government urges a judge to dismiss a lawsuit which challenges an American targeted killing program which is currently hunting an American citizen who has no charges brought against him. ](/news/2010/09/25/the-u-s-government-urges-a-judge-to-dismiss-a-lawsuit-which-challenges-an-american-targeted-killing-program-which-is-currently-hunting-an-a.md)
 The Obama administration on Saturday urged a federal judge to reject a challenge to a program that targets for killing U.S. citizens like Muslim cleric Anwar al-Awlaki who have joined militant groups and have been tied to terrorism plots.

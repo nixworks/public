@@ -45,7 +45,7 @@ The South Korean government, which accuses North Korea of sinking one of its war
 ### [The Cuban government eases jail conditions for political prisoners following talks with Catholic Church leaders and President Ral Castro. ](/news/2010/05/23/the-cuban-government-eases-jail-conditions-for-political-prisoners-following-talks-with-catholic-church-leaders-and-president-raul-castro.md)
 Cuba has agreed to move political prisoners held in far-off jails to facilities closer to their hometowns and transfer sick prisoners to hospitals, a dissident said on Saturday, following talks between Catholic Church leaders and President Raul Castro this week.
 
-### [{{Interlanguage link multi|Maria Vittoria Longhitano|it}}, Italy's first woman priest, belonging to a breakaway Catholic order, is ordained. ](/news/2010/05/23/interlanguage-link-multi-maria-vittoria-longhitano-it-italy-s-first-woman-priest-belonging-to-a-breakaway-catholic-order-is-ordained.md)
+### [Maria Vittoria Longhitano|it, Italy's first woman priest, belonging to a breakaway Catholic order, is ordained. ](/news/2010/05/23/maria-vittoria-longhitano-it-italy-s-first-woman-priest-belonging-to-a-breakaway-catholic-order-is-ordained.md)
 A married teacher who belongs to a breakaway Catholic faction becomes the first female priest to be ordained in Italy.
 
 ### [The Catholic Church requests the public to donate at least 1 million to church collections today to fund three big open air masses at which Pope Benedict XVI will present while in the UK. The rest of the money is paid for by the British government. ](/news/2010/05/23/the-catholic-church-requests-the-public-to-donate-at-least-ps1-million-to-church-collections-today-to-fund-three-big-open-air-masses-at-which.md)

@@ -1,13 +1,13 @@
 ## [2008-02-3](/news/2008/02/3/index.md)
 
 ### [ Serbian presidential election, 2008: Boris Tadic is reelected President of Serbia. ](/news/2008/02/3/serbian-presidential-election-2008-boris-tadia-is-reelected-president-of-serbia.md)
-_Context: Boris Tadić, President, Serbian presidential election, 2008_
+_Context: Boris Tadic, President, Serbian presidential election, 2008_
 
 ### [ Israeli forces open fire on Lebanon in the Wazzani River area resulting in one death and one injury. ](/news/2008/02/3/israeli-forces-open-fire-on-lebanon-in-the-wazzani-river-area-resulting-in-one-death-and-one-injury.md)
 _Context: Israel, Lebanon_
 
 ### [ War in Chad (2005-present): Battles rage in Adre near the Sudanese border. ](/news/2008/02/3/war-in-chad-2005apresent-battles-rage-in-adra-c-near-the-sudanese-border.md)
-_Context: Adré, Sudan, War in Chad (2005–present)_
+_Context: Adre, Sudan, War in Chad (2005-present)_
 
 ### [ At least 23 people die in an earthquake in western Rwanda. ](/news/2008/02/3/at-least-23-people-die-in-an-earthquake-in-western-rwanda.md)
 _Context: Rwanda, earthquake_

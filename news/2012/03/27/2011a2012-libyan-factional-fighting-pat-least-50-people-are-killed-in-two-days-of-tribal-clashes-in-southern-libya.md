@@ -12,4 +12,4 @@ THE Libyan government yesterday admitted it faces a national crisis amid an esca
 
 ### Related:
 
-1. [2011-2012 Libyan factional fighting:Unidentified gunmen shoot and kill Benghazi's police chief Faraj al-Deirsy in front of his home in the latest attack against security officials in Libya's second largest city. ](/news/2012/11/21/2011a2012-libyan-factional-fighting-punidentified-gunmen-shoot-and-kill-benghazi-s-police-chief-faraj-al-deirsy-in-front-of-his-home-in-th.md) _Context: 2011–2012 Libyan factional fighting_
+1. [2011-2012 Libyan factional fighting:Unidentified gunmen shoot and kill Benghazi's police chief Faraj al-Deirsy in front of his home in the latest attack against security officials in Libya's second largest city. ](/news/2012/11/21/2011a2012-libyan-factional-fighting-punidentified-gunmen-shoot-and-kill-benghazi-s-police-chief-faraj-al-deirsy-in-front-of-his-home-in-th.md) _Context: 2011-2012 Libyan factional fighting_

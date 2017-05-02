@@ -4,7 +4,7 @@
 _Context: Republic of Montenegro, Serbia and Montenegro, dissolution_
 
 ### [ Watford F.C. stand to gain the largest amount of money from any single sporting event by securing approximately 39 million pounds (72 million US dollars) through beating Leeds United in The Championship play off final.](/news/2006/05/21/watford-f-c-stand-to-gain-the-largest-amount-of-money-from-any-single-sporting-event-by-securing-approximately-39-million-pounds-72-milli.md)
-_Context: Leeds United, The Championship, Watford F.C., dollars, £_
+_Context: Leeds United, PS, The Championship, Watford F.C., dollars_
 
 ## [Previous Day...](/news/2006/05/20/index.md)
 

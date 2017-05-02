@@ -43,7 +43,7 @@ Russian President DmitryMedvedev ordered Prime Minister Vladimir Putin to &quot;
 _Context: Foreign Minister of Germany, Free Democrats, Guido Westerwelle_
 
 ### [Among the rising concerns about the water quality in Hanoi's Hoan Kiem Lake, its giant sacred turtle is captured for study and (possibly) medical treatment. ](/news/2011/04/3/among-the-rising-concerns-about-the-water-quality-in-hanoi-s-hoa-n-kiao-m-lake-its-giant-sacred-turtle-is-captured-for-study-and-possibly.md)
-_Context: Hanoi, Hoàn Kiếm Lake, giant sacred turtle, water quality_
+_Context: Hanoi, Hoan Kiem Lake, giant sacred turtle, water quality_
 
 ## [Previous Day...](/news/2011/04/2/index.md)
 

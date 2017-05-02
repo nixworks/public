@@ -19,10 +19,10 @@ _Context: Jos, Kuru, Nigeria, bodies, events earlier this year_
 A passenger train came off the rails in northeastern Iran Saturday, killing at least seven people, state radio reported.
 
 ### [Japanese prosecutors question Representative Ichiro Ozawa over an alleged party funding scandal. ](/news/2010/01/23/japanese-prosecutors-question-representative-ichira-ozawa-over-an-alleged-party-funding-scandal.md)
-_Context: Democratic Party, Ichirō Ozawa, Japan, funding, prosecutor, the Lower House of the Diet_
+_Context: Democratic Party, Ichiro Ozawa, Japan, funding, prosecutor, the Lower House of the Diet_
 
 ### [The American Civil Liberties Union condemns a U.S. Justice Department report that suggested 47 Guantanamo Bay detainees should be held indefinitely without trial. ](/news/2010/01/23/the-american-civil-liberties-union-condemns-a-u-s-justice-department-report-that-suggested-47-guanta-namo-bay-detainees-should-be-held-inde.md)
-_Context: ACLU, Guantánamo Bay, United States, United States Justice Department, detainees, indefinitely without trial_
+_Context: ACLU, Guantanamo Bay, United States, United States Justice Department, detainees, indefinitely without trial_
 
 ### [Jim McCormick, the director of the U.K. company manufacturing the controversial ADE 651 bomb detectors, is arrested on suspicion of fraud. ](/news/2010/01/23/jim-mccormick-the-director-of-the-u-k-company-manufacturing-the-controversial-ade-651-bomb-detectors-is-arrested-on-suspicion-of-fraud.md)
 _Context: ADE 651, Jim McCormick, United Kingdom, bomb detectors, fraud_

@@ -1,7 +1,7 @@
 ## [2008-09-16](/news/2008/09/16/index.md)
 
 ### [ Unrest in Bolivia: Governor of Pando Leopoldo Fernandez is taken into custody by the armed forces, on charges of hiring hitmen to attack pro-government protesters. ](/news/2008/09/16/unrest-in-bolivia-p-governor-of-pando-leopoldo-ferna-ndez-is-taken-into-custody-by-the-armed-forces-on-charges-of-hiring-hitmen-to-attack.md)
-_Context: Leopoldo Fernández, Pando, Unrest in Bolivia, gubernatorial elections_
+_Context: Leopoldo Fernandez, Pando, Unrest in Bolivia, gubernatorial elections_
 
 ### [ Fighting in Somalia has killed 838 people since June, according to local rights activists, bringing the total to have died in an insurgency that began early last year to 9,474. ](/news/2008/09/16/fighting-in-somalia-has-killed-838-people-since-june-according-to-local-rights-activists-bringing-the-total-to-have-died-in-an-insurgency.md)
 _Context: two years of helping_
@@ -16,7 +16,7 @@ Fearing a financial crisis, the Fed reversed course and agreed to bail out A.I.G
 Six men have been found guilty of forming a Melbourne-based terrorist cell.
 
 ### [ The United States government opens up a partnership with the Swedish municipality of Sodertalje, a city of 80,000 that has received nearly 6,000 Iraqi refugees since the beginning of the Iraq war. ](/news/2008/09/16/the-united-states-government-opens-up-a-partnership-with-the-swedish-municipality-of-sapderta-lje-a-city-of-80-000-that-has-received-nearl.md)
-_Context: Iraq, Iraq War, Sweden, Södertälje, United States_
+_Context: Iraq, Iraq War, Sodertalje, Sweden, United States_
 
 ### [ Hamas-Fatah conflict: Fierce fighting between Hamas security forces and the pro-Fatah Doghmush organised crime family leaves 5 dead in Gaza City. ](/news/2008/09/16/hamas-fatah-conflict-fierce-fighting-between-hamas-security-forces-and-the-pro-fatah-doghmush-organised-crime-family-leaves-5-dead-in-gaza.md)
 _Context: Doghmush, Fatah, Gaza, Hamas, Hamas-Fatah conflict_

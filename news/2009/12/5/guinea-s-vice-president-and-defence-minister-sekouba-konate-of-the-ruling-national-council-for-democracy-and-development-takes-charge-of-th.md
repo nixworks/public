@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Skouba Konat, the interim head of the junta in Guinea, is flown to Senegal after falling ill. ](/news/2010/01/8/sekouba-konate-the-interim-head-of-the-junta-in-guinea-is-flown-to-senegal-after-falling-ill.md) _Context: Guinea, Sékouba Konaté, junta_
+1. [Skouba Konat, the interim head of the junta in Guinea, is flown to Senegal after falling ill. ](/news/2010/01/8/sekouba-konate-the-interim-head-of-the-junta-in-guinea-is-flown-to-senegal-after-falling-ill.md) _Context: Guinea, Skouba Konat, junta_
 2. [The head of Guinea's junta Moussa Dadis Camara and interim leader General Sekouba Konate hold emergency talks with Burkina Faso's President Blaise Compaore. ](/news/2010/01/14/the-head-of-guinea-s-junta-moussa-dadis-camara-and-interim-leader-general-sa-c-kouba-konata-c-hold-emergency-talks-with-burkina-faso-s-presiden.md) _Context: Guinea, Moussa Dadis Camara, junta_
 3. [ The ruling junta in Guinea announces it has arrested 60 people so far for attempting to kill leader Captain Moussa Dadis Camara. ](/news/2009/12/8/the-ruling-junta-in-guinea-announces-it-has-arrested-60-people-so-far-for-attempting-to-kill-leader-captain-moussa-dadis-camara.md) _Context: Guinea, Moussa Dadis Camara, junta_
 4. [ The opposition in Guinea urges Captain Moussa Dadis Camara, head of the ruling junta, to resign. ](/news/2009/10/7/the-opposition-in-guinea-urges-captain-moussa-dadis-camara-head-of-the-ruling-junta-to-resign.md) _Context: Guinea, Moussa Dadis Camara, junta_

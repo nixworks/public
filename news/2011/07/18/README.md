@@ -16,7 +16,7 @@ _Context: Japan, Japanese occupation, South Korea_
 _Context: Archdiocese of Philadelphia, Cardinal, Justin Rigali, Philadelphia Daily News, grand jury, sexual abuse_
 
 ### [Cisco Systems announces plans to cut 11,500 jobs including transfer of a plant employing 5,000 people in Juarez, Mexico, to Foxconn. ](/news/2011/07/18/cisco-systems-announces-plans-to-cut-11-500-jobs-including-transfer-of-a-plant-employing-5-000-people-in-juarez-mexico-to-foxconn.md)
-_Context: Cisco, Ciudad Juárez, Foxconn_
+_Context: Cisco, Ciudad Juarez, Foxconn_
 
 ### [The eastern United States will have a heat wave this week which has already commenced in the Plains States and Midwest. ](/news/2011/07/18/the-eastern-united-states-will-have-a-heat-wave-this-week-which-has-already-commenced-in-the-plains-states-and-midwest.md)
 There is no relief in sight for more than 40 states that will see highs in the 90s or higher this week.

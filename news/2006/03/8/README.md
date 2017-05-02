@@ -10,7 +10,7 @@ _Context: Slovenia, euro, monetary union_
 _Context: Dubai Ports World, George W. Bush administration, House Appropriations Committee, U.S. House_
 
 ### [ The Government of Chad renews accusations of Sudanese support for attacks by the UFDC into eastern Chad, despite the recent signing of the Tripoli Accord and the successful formation of the ministerial committee. Sudan has accused Chad of supporting ARFWS rebels in the past, and Chad is believed to have stepped up support in light of recent attacks. ](/news/2006/03/8/the-government-of-chad-renews-accusations-of-sudanese-support-for-attacks-by-the-ufdc-into-eastern-chad-despite-the-recent-signing-of-the.md)
-_Context: ARFWS, Sudan, Tripoli Accord, UFDC, second Déby administration_
+_Context: ARFWS, Sudan, Tripoli Accord, UFDC, second Dby administration_
 
 ### [ The Channel Island of Sark votes to maintain its feudal system of governance ](/news/2006/03/8/the-channel-island-of-sark-votes-to-maintain-its-feudal-system-of-governance.md)
 _Context: Channel Islands, Sark, feudalism_

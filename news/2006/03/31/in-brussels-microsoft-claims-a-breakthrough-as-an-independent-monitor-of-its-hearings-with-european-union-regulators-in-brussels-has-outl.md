@@ -1,6 +1,6 @@
 ### [2006-03-31](/news/2006/03/31/index.md)
 
-#  In Brussels, Microsoft claims a breakthrough, as an independent monitor of its hearings with European Union regulators in Brussels has outlined what it can do to avoid paying fines of {{Nowrap|2 million}} euros a day. 
+#  In Brussels, Microsoft claims a breakthrough, as an independent monitor of its hearings with European Union regulators in Brussels has outlined what it can do to avoid paying fines of 2 million euros a day. 
 
 
 

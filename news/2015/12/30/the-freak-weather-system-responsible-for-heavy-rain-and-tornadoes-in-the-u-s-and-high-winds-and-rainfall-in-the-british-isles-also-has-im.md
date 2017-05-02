@@ -1,6 +1,6 @@
 ### [2015-12-30](/news/2015/12/30/index.md)
 
-# The freak weather system responsible for heavy rain and tornadoes in the U.S., and high winds and rainfall in the British Isles, also has impacted the Arctic where the average winter temperature is normally around {{convert|-20|F|C}}. Temperatures around the North Pole have surpassed the {{convert|32|F|C}} threshold for a brief moment, according to the  U.S. National Oceanic and Atmospheric Administration's Ocean Prediction Center, which is {{convert|50|F-change|1}} higher than usual for December. 
+# The freak weather system responsible for heavy rain and tornadoes in the U.S., and high winds and rainfall in the British Isles, also has impacted the Arctic where the average winter temperature is normally around -20|F|C. Temperatures around the North Pole have surpassed the 32|F|C threshold for a brief moment, according to the  U.S. National Oceanic and Atmospheric Administration's Ocean Prediction Center, which is 50|F-change|1 higher than usual for December. 
 
 
 

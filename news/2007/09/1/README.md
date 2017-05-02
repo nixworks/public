@@ -31,7 +31,7 @@ _Context: Iraq, Syria, United Nations, refugee_
 _Context: Poland, Radom, air show_
 
 ### [ The National Assembly of Panama selects Pedro Miguel Gonzalez Pinzon as its President despite the fact that he is wanted in the United States for an alleged murder of a United States Army sergeant and the attempted murder of another. Gonzalez has been cleared by a Panamanian court of these charges. ](/news/2007/09/1/the-national-assembly-of-panama-selects-pedro-miguel-gonza-lez-pinza3n-as-its-president-despite-the-fact-that-he-is-wanted-in-the-united-st.md)
-_Context: National Assembly of Panama, Panama, Pedro Miguel González Pinzón, United States, United States Army_
+_Context: National Assembly of Panama, Panama, Pedro Miguel Gonzalez Pinzon, United States, United States Army_
 
 ### [ Iraq is to free up to 6,000 Sunni insurgents in an attempt at reconciliation by the Government. ](/news/2007/09/1/iraq-is-to-free-up-to-6-000-sunni-insurgents-in-an-attempt-at-reconciliation-by-the-government.md)
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
@@ -46,10 +46,10 @@ _Context: Ayatollah Ali Khamenei, General, Iran, Iranian Revolutionary guards, M
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 ### [ Idaho Republican Senator Larry Craig resigns from the United States Senate effective 30 September following a guilty plea to a disorderly conduct charge following his arrest in a restroom at the Minneapolis-St. Paul International Airport. (Wikinews)](/news/2007/09/1/idaho-republican-senator-larry-craig-resigns-from-the-united-states-senate-effective-30-september-following-a-guilty-plea-to-a-disorderly-c.md)
-_Context: (Wikinews), Idaho, Larry Craig, Minneapolis-St. Paul International Airport, Republican, Senator, disorderly conduct_
+_Context: (Wikinews), Idaho, Larry Craig, Minneapolis-St. Paul International Airport, Republican, United States Senate, disorderly conduct_
 
 ### [ 2007 Ogaden conflict: International aid agency Medecins Sans Frontieres has accused Ethiopia of denying it access to the country's eastern Ogaden region.](/news/2007/09/1/2007-ogaden-conflict-international-aid-agency-ma-c-decins-sans-frontia-res-has-accused-ethiopia-of-denying-it-access-to-the-country-s-easter.md)
-_Context: 2007 Ogaden conflict, Ethiopia, Médecins Sans Frontières, Ogaden_
+_Context: 2007 Ogaden conflict, Ethiopia, Medecins Sans Frontieres, Ogaden_
 
 ### [ The Second Tuareg Rebellion spreads rapidly as a Malian army colonel has deserted to join a Tuareg rebellion in the northern desert, taking with him nearly 60 fighters. ](/news/2007/09/1/the-second-tuareg-rebellion-spreads-rapidly-as-a-malian-army-colonel-has-deserted-to-join-a-tuareg-rebellion-in-the-northern-desert-taking.md)
 _Context: Malian Army, Second Tuareg Rebellion, Tuareg_
@@ -58,7 +58,7 @@ _Context: Malian Army, Second Tuareg Rebellion, Tuareg_
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 ### [ Hurricanes and tropical storms: 2007 Atlantic hurricane season: Tropical Storm Felix forms over the Windward Islands of the Caribbean and becomes Hurricane Felix. Aruba, Bonaire and Curacao have storm warnings in place and Jamaica has a tropical storm watch. ](/news/2007/09/1/hurricanes-and-tropical-storms-p-2007-atlantic-hurricane-season-tropical-storm-felix-forms-over-the-windward-islands-of-the-caribbean-and.md)
-_Context: 2007 Atlantic hurricane season, Aruba, Bonaire, Caribbean, Curaçao, Hurricane Felix (2007), Jamaica, Windward Islands, hurricane, tropical storm_
+_Context: 2007 Atlantic hurricane season, Aruba, Bonaire, Caribbean, Curacao, Hurricane Felix (2007), Jamaica, Windward Islands, hurricane, tropical storm_
 
 ### [ A bomb in the Indian state of Assam kills one person and injures 12, with police suspecting the United Liberation Front of Asom. ](/news/2007/09/1/a-bomb-in-the-indian-state-of-assam-kills-one-person-and-injures-12-with-police-suspecting-the-united-liberation-front-of-asom.md)
 _Context: Assam, India, Indian state, United Liberation Front of Asom_
@@ -82,7 +82,7 @@ _Context: Asia-Pacific Economic Cooperation, Sydney, concrete, steel_
 _Context: Malaysia, dengue fever_
 
 ### [ 2007 Greek forest fires: The Prime Minister of Greece Costas Karamanlis says that the fires are now under control after killing 64 people and causing PS800 million worth of damage. ](/news/2007/09/1/2007-greek-forest-fires-the-prime-minister-of-greece-costas-karamanlis-says-that-the-fires-are-now-under-control-after-killing-64-people-a.md)
-_Context: 2007 Greek forest fires, Costas Karamanlis, Greek prime minister, £_
+_Context: 2007 Greek forest fires, Costas Karamanlis, Greek prime minister, PS_
 
 ### [ New laws come into effect giving the People's Republic of China more control over the selection of the Dalai Lama. ](/news/2007/09/1/new-laws-come-into-effect-giving-the-people-s-republic-of-china-more-control-over-the-selection-of-the-dalai-lama.md)
 _Context: China's, Dalai Lama_

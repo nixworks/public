@@ -9,7 +9,7 @@ _Context: South Africa, loses_
 ### [ The Naxalite movement releases 500 hostages from a hijacked train in Latehar, India. ](/news/2009/04/22/the-naxalite-movement-releases-500-hostages-from-a-hijacked-train-in-latehar-india.md)
 _Context: India, Latehar, Naxalite, Naxalite-Maoist insurgency, hostage_
 
-### [ Argentina claims {{convert|1700000|km2|mi2}} of the World Ocean. ](/news/2009/04/22/argentina-claims-convert-1700000-km2-mi2-of-the-world-ocean.md)
+### [ Argentina claims 1700000|km2|mi2 of the World Ocean. ](/news/2009/04/22/argentina-claims-1700000-km2-mi2-of-the-world-ocean.md)
 _Context: Argentina, World Ocean, claims_
 
 ### [ Japan reports its first annual trade deficit since 1981. ](/news/2009/04/22/japan-reports-its-first-annual-trade-deficit-since-1981.md)

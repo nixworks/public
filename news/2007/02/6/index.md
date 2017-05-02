@@ -13,7 +13,7 @@ _Context: Andijan massacre, European Union, Government of Uzbekistan, Human Righ
 _Context: AFRICOM, Africa, George W. Bush, The Pentagon, president_
 
 ### [ An international passenger train crashes into a freight train in Komrom, Hungary, causing the engineer's death. Two of the 25 passengers also suffered injury. ](/news/2007/02/6/an-international-passenger-train-crashes-into-a-freight-train-in-komarom-hungary-causing-the-engineer-s-death-two-of-the-25-passengers-a.md)
-_Context: Hungary, Komárom, freight train, train_
+_Context: Hungary, Komrom, freight train, train_
 
 ### [ UK Prime Minister Tony Blair says people are "increasingly alarmed" by Iran's nuclear program but military action was not being planned against it. ](/news/2007/02/6/uk-prime-minister-tony-blair-says-people-are-increasingly-alarmed-by-iran-s-nuclear-program-but-military-action-was-not-being-planned-aga.md)
 _Context: Iran, Prime Minster, Tony Blair, United Kingdom, nuclear scientist_

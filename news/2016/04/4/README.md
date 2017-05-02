@@ -4,7 +4,7 @@
 _Context: Ansaru, Boko Haram, Boko Haram insurgency, Nigeria_
 
 ### [More than 20 people have been killed in attacks targeting Shiite militias and government forces. ](/news/2016/04/4/more-than-20-people-have-been-killed-in-attacks-targeting-shiite-militias-and-government-forces.md)
-_Context: Iraqi Civil War (2014–present), Shiite_
+_Context: Iraqi Civil War (2014-present), Shiite_
 
 ### [Alaska Airlines announces plans to acquire Virgin America for $4 billion. ](/news/2016/04/4/alaska-airlines-announces-plans-to-acquire-virgin-america-for-4-billion.md)
 _Context: Alaska Airlines, Virgin America_
@@ -40,7 +40,7 @@ NORTH Korea has claimed they will kill more people in America than the September
 The constitutional maxim does not require states to use eligible voters when drawing legislative districts.
 
 ### [Icelandic Prime Minister Sigmundur David Gunnlaugsson refuses to resign after leaked "Panama Papers" tax documents showed he and his wife used an offshore firm to allegedly hide million-dollar investments. "I have not considered quitting because of this matter nor am I going to quit because of this matter," Gunnlaugsson told Icelandic television Channel 2. ](/news/2016/04/4/icelandic-prime-minister-sigmundur-davaadeg-gunnlaugsson-refuses-to-resign-after-leaked-panama-papers-tax-documents-showed-he-and-his-wife.md)
-_Context: Icelandic Prime Minister, Panama Papers, Sigmundur Davíð Gunnlaugsson_
+_Context: Icelandic Prime Minister, Panama Papers, Sigmundur David Gunnlaugsson_
 
 ### [The President of Kyrgyzstan Almazbek Atambayev signs a presidential decree officially recognizing March 17, March 24, and April 7 as public holidays for Kyrgyzstan. The dates are meant to commemorate the days of Kyrgyzstan's massive anti-government revolts. On March 17, 2002, during anti-government protests in the Aksy District, police killed four protesters, while March 24 and April 7 commemorate the Tulip Revolution of 2006 and the Second Kyrgyz Revolution of 2010, respectively. ](/news/2016/04/4/the-president-of-kyrgyzstan-almazbek-atambayev-signs-a-presidential-decree-officially-recognizing-march-17-march-24-and-april-7-as-public.md)
 _Context: Aksy District, Almazbek Atambayev, Kyrgyzstan, President, Second Kyrgyz Revolution, Tulip Revolution_

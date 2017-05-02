@@ -25,7 +25,7 @@ The unexpectedly rapid decision by the Guardian Council set off angry screaming 
 _Context: Ban Ki-moon, Burma, Secretary General, United Nations_
 
 ### [ The opposition gained a large victory in Argentine legislative elections, leading party leader Nstor Kirchner to step down. ](/news/2009/06/29/the-opposition-gained-a-large-victory-in-argentine-legislative-elections-leading-party-leader-nestor-kirchner-to-step-down.md)
-_Context: Argentine legislative elections, Néstor Kirchner, opposition_
+_Context: Argentine legislative elections, Nstor Kirchner, opposition_
 
 ### [ The U.S. resumes secret surveillance flights to aid Pakistani commanders. ](/news/2009/06/29/the-u-s-resumes-secret-surveillance-flights-to-aid-pakistani-commanders.md)
 Information is being shared with Pakistani commanders fighting militants near the Afghan border.

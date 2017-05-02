@@ -1,10 +1,10 @@
 ## [2005-10-31](/news/2005/10/31/index.md)
 
 ### [ Guinea-Bissau's president, Joo Bernardo Vieira, announces the dissolution of the government headed by his rival Prime Minister Carlos Gomes Junior. ](/news/2005/10/31/guinea-bissau-s-president-joao-bernardo-vieira-announces-the-dissolution-of-the-government-headed-by-his-rival-prime-minister-carlos-gome.md)
-_Context: Carlos Gomes Júnior, Guinea-Bissau, João Bernardo Vieira_
+_Context: Carlos Gomes Jnior, Guinea-Bissau, Joo Bernardo Vieira_
 
 ### [ In Germany, Social Democratic Party chairman Franz Mntefering announces his intention to retire after the party convention on November 14. The decision came after his candidate for Secretary General of the SPD, Kajo Wasserhvel, lost to left-wing candidate Andrea Nahles. ](/news/2005/10/31/in-germany-social-democratic-party-chairman-franz-muntefering-announces-his-intention-to-retire-after-the-party-convention-on-november-14.md)
-_Context: Andrea Nahles, Franz Müntefering, Germany, Kajo Wasserhövel, November 14, Social Democratic Party of Germany_
+_Context: Andrea Nahles, Franz Mntefering, Germany, Kajo Wasserhvel, November 14, Social Democratic Party of Germany_
 
 ### [ U.S. President George W. Bush nominates Judge Samuel Alito of the Third Circuit Court of Appeals to the U.S. Supreme Court. ](/news/2005/10/31/u-s-president-george-w-bush-nominates-judge-samuel-alito-of-the-third-circuit-court-of-appeals-to-the-u-s-supreme-court.md)
 _Context: George W. Bush, Samuel Alito, Supreme Court of the United States, Third Circuit Court of Appeals, United States, president_

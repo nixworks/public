@@ -43,7 +43,7 @@ The mother of British computer hacker Gary McKinnon says she is &quot;overwhelme
 _Context: Spain_
 
 ### [The Brazilian jurisprudence system upholds the convictions of two United States pilots for their roles in the 2006 Gol Transportes Aereos Flight 1907 disaster. ](/news/2012/10/16/the-brazilian-jurisprudence-system-upholds-the-convictions-of-two-united-states-pilots-for-their-roles-in-the-2006-gol-transportes-aa-c-reos-f.md)
-_Context: Brazilian jurisprudence system, Gol Transportes Aéreos Flight 1907, United States_
+_Context: Brazilian jurisprudence system, Gol Transportes Aereos Flight 1907, United States_
 
 ### [A 4.0-magnitude (originally, 4.6) earthquake strikes Hollis Center, Maine, roughly 20 miles west of Portland, Maine, the state's largest city. At 3.1 miles deep, it is a shallow earthquake, felt in Maine, southwestern Connecticut, and eastern New York state. There were reports of very minor damage and cellular phone outages, but no serious property damage, injuries, or deaths. ](/news/2012/10/16/a-4-0-magnitude-originally-4-6-earthquake-strikes-hollis-center-maine-roughly-20-miles-west-of-portland-maine-the-state-s-largest-cit.md)
 _Context: Connecticut, Hollis Center, Maine, New York, Portland, cellular phone_
@@ -58,10 +58,10 @@ Final reading of bill to dissolve Knesset passes with 100 in favor, none opposed
 _Context: Benedict XVI, Damascus, Vatican_
 
 ### [In 2014 FIFA World Cup qualification - UEFA Group C, Germany, second in the FIFA World Rankings, take a 4-0 first half lead then concede four second half goals to gift Sweden a 4-4 draw in Berlin. ](/news/2012/10/16/in-2014-fifa-world-cup-qualification-a-uefa-group-c-germany-second-in-the-fifa-world-rankings-take-a-4-0-first-half-lead-then-concede-f.md)
-_Context: 2014 FIFA World Cup qualification – UEFA Group C, 4–4, Berlin, FIFA World Rankings, Germany, Swedish_
+_Context: 2014 FIFA World Cup qualification - UEFA Group C, 4-4, Berlin, FIFA World Rankings, Germany, Swedish_
 
 ### [In 2014 FIFA World Cup qualification - UEFA Group F, Northern Ireland secure a famous 1-1 draw against Portugal, third in the FIFA World Rankings, in Porto. ](/news/2012/10/16/in-2014-fifa-world-cup-qualification-a-uefa-group-f-northern-ireland-secure-a-famous-1-1-draw-against-portugal-third-in-the-fifa-world-r.md)
-_Context: 1-1, 2014 FIFA World Cup qualification – UEFA Group F, FIFA World Rankings, Northern Ireland, Porto, Portugal_
+_Context: 1-1, 2014 FIFA World Cup qualification - UEFA Group F, FIFA World Rankings, Northern Ireland, Porto, Portugal_
 
 ### [Senegal are disqualified from the 2013 Africa Cup of Nations after last Saturday's stadium riot in the game with Ivory Coast. ](/news/2012/10/16/senegal-are-disqualified-from-the-2013-africa-cup-of-nations-after-last-saturday-s-stadium-riot-in-the-game-with-ivory-coast.md)
 _Context: 2013 Africa Cup of Nations, Ivory Coast, Senegal_

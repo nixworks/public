@@ -73,7 +73,7 @@ _Context: Mircea Lucescu, Raul Rusescu, Romania Coach of the Year, Romanian Foot
 _Context: Belarus, Sergei Martynov, Victoria Azarenka, shooter, tennis_
 
 ### [UEFA announces that Malaga, Hajduk Split, Osijek, Rapid Bucuresti, Dinamo Bucuresti and Partizan are banned from competing in the next UEFA Champions League or UEFA Europa League competition they qualify for after failing to meet financial obligations. ](/news/2012/12/21/uefa-announces-that-ma-laga-hajduk-split-osijek-rapid-bucureeti-dinamo-bucureeti-and-partizan-are-banned-from-competing-in-the-next-ue.md)
-_Context: Dinamo București, Hajduk Split, Málaga, Osijek, Partizan, Rapid București, UEFA, UEFA Champions League, UEFA Europa League_
+_Context: Dinamo Bucuresti, Hajduk Split, Malaga, Osijek, Partizan, Rapid Bucuresti, UEFA, UEFA Champions League, UEFA Europa League_
 
 ### [The Italian Olympic Committee requests a four-year doping ban for former race walk Olympic champion Alex Schwazer. He was excluded from the 2012 London Olympics after testing positive for EPO before the games. ](/news/2012/12/21/the-italian-olympic-committee-requests-a-four-year-doping-ban-for-former-race-walk-olympic-champion-alex-schwazer-he-was-excluded-from-the.md)
 The Italian Olympic Committee has requested a four-year doping ban for former Olympic race walk champion Alex Schwazer.

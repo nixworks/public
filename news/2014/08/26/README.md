@@ -7,7 +7,7 @@ _Context: Donetsk Oblast, Dzerkalne, Russia, Ukrainian, War in Donbass_
 Four others injured; sides agree to open Gaza crossings for aid and building supplies; Hamas claims &#8216;victory&#8217;; Abbas announces truce in Ramallah, later confirmed by Jerusalem; 12 Gazans said killed in strikes
 
 ### [Iraqi insurgency (2011-present):A car bomb explodes in a mainly Shi'ite section of Baghdad, killing at least eight people and wounding 20. ](/news/2014/08/26/iraqi-insurgency-2011apresent-pa-car-bomb-explodes-in-a-mainly-shi-ite-section-of-baghdad-killing-at-least-eight-people-and-wounding-20.md)
-_Context: Baghdad, Iraqi insurgency (2011–present), Shi'ite, car bomb_
+_Context: Baghdad, Iraqi insurgency (2011-present), Shi'ite, car bomb_
 
 ### [Taiwan scrambles fighter jets to intercept two Chinese military aircraft that breached Taiwanese airspace. ](/news/2014/08/26/taiwan-scrambles-fighter-jets-to-intercept-two-chinese-military-aircraft-that-breached-taiwanese-airspace.md)
 Taiwan said on Tuesday it had scrambled jets to intercept two Chinese military aircrafts, which breached its airspace four times.
@@ -16,7 +16,7 @@ Taiwan said on Tuesday it had scrambled jets to intercept two Chinese military a
 _Context: Hammersmith Apollo, Kate Bush, London_
 
 ### [Fast food giant Burger King agrees to acquire Canadian coffee giant Tim Hortons for $11.4 billion and move its headquarters to Canada. ](/news/2014/08/26/fast-food-giant-burger-king-agrees-to-acquire-canadian-coffee-giant-tim-hortons-for-11-4-billion-and-move-its-headquarters-to-canada.md)
-_Context: Burger King, Canadian, Canadian, Fast food, Tim Hortons, corporate tax inversions_
+_Context: Burger King, Canada, Canadian, Fast food, Tim Hortons, corporate tax inversions_
 
 ### [2014 pro-Russian unrest in Ukraine:The President of Russia Vladimir Putin meets with the President of Ukraine Petro Poroshenko in Minsk, Belarus, as disputes in eastern Ukraine continue. ](/news/2014/08/26/2014-pro-russian-unrest-in-ukraine-pthe-president-of-russia-vladimir-putin-meets-with-the-president-of-ukraine-petro-poroshenko-in-minsk-be.md)
 _Context: 2014 pro-Russian unrest in Ukraine, Belarus, Minsk, Petro Poroshenko, Russian President, Ukrainian, Ukrainian President, Vladimir Putin_

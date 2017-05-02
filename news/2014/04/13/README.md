@@ -16,7 +16,7 @@ _Context: Mexico City, Villahermosa, crashes_
 _Context: Jewish, Jewish Community Center, Kansas, Kansas City area, Leawood, Overland Park, Overland Park Jewish Community Center shooting_
 
 ### [A massive forest fire in Valparaso, Chile destroys thousands of homes and leaves 11 people dead. ](/news/2014/04/13/a-massive-forest-fire-in-valparaiso-chile-destroys-thousands-of-homes-and-leaves-11-people-dead.md)
-_Context: Chile, Valparaíso, forest fire_
+_Context: Chile, Valparaso, forest fire_
 
 ### [A 7.7 magnitude earthquake strikes 204 miles southeast of Honiara, Solomon Islands with no reported casualties or damage. ](/news/2014/04/13/a-7-7-magnitude-earthquake-strikes-204-miles-southeast-of-honiara-solomon-islands-with-no-reported-casualties-or-damage.md)
 Another powerful earthquake has struck the Solomon Islands, the second strong temblor of the day to hit the South Pacific country.

@@ -49,13 +49,13 @@ An internet blogger is jailed for 12 years after admitting soliciting the murder
 A federal appeals court ruled on Friday that genes can be patented, overturning a lower court decision that had shocked the biotechnology industry.
 
 ### [The United States House of Representatives votes to increase the debt ceiling but the Senate rejects it. ](/news/2011/07/29/the-united-states-house-of-representatives-votes-to-increase-the-debt-ceiling-but-the-senate-rejects-it.md)
-_Context:  debt, Senator, U.S. House_
+_Context:  debt, U.S. House, United States Senate_
 
 ### [The Prime Minister of Spain Jose Luis Rodriguez Zapatero calls an early election for November 20 rather than 2012. ](/news/2011/07/29/the-prime-minister-of-spain-josa-c-luis-rodraguez-zapatero-calls-an-early-election-for-november-20-rather-than-2012.md)
-_Context: José Luis Rodríguez Zapatero, Prime Minister_
+_Context: Jose Luis Rodriguez Zapatero, Prime Minister_
 
 ### [Jurgen Klinsmann is named head coach of the United States men's national soccer team, one day after Bob Bradley was relieved as coach. ](/news/2011/07/29/ja1-4rgen-klinsmann-is-named-head-coach-of-the-united-states-men-s-national-soccer-team-one-day-after-bob-bradley-was-relieved-as-coach.md)
-_Context: Bob Bradley, Jürgen Klinsmann, USA_
+_Context: Bob Bradley, Jurgen Klinsmann, USA_
 
 ## [Previous Day...](/news/2011/07/28/index.md)
 

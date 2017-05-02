@@ -10,7 +10,7 @@ Get the latest Chicago local news and US & World news. See recent updates on pol
 _Context: California, Roman Catholic Diocese of San Diego, bankruptcy, civil lawsuit, priest, sexual abuse_
 
 ### [ Canada's House of Commons votes not to extend provisions of its anti-terrorism legislation that allows for preventative arrests and forced testimony. ](/news/2007/02/27/canada-s-house-of-commons-votes-not-to-extend-provisions-of-its-anti-terrorism-legislation-that-allows-for-preventative-arrests-and-forced.md)
-_Context: Canadian, Canadian House of Commons_
+_Context: Canada, Canadian House of Commons_
 
 ### [ After rumours that authorities were going to raise interest rates in an attempt to curb inflation, the SSE Composite Index of the Shanghai Stock Exchange tumbles 9% from unexpected selloffs, the largest drop in 10 years, triggering major drops in worldwide stock markets. ](/news/2007/02/27/after-rumours-that-authorities-were-going-to-raise-interest-rates-in-an-attempt-to-curb-inflation-the-sse-composite-index-of-the-shanghai.md)
 _Context: Shanghai Composite Index, Shanghai Stock Exchange_
@@ -43,7 +43,7 @@ _Context: China's, drought, water_
 _Context: March 15, STS-117, Space Shuttle, Space Shuttle Atlantis, hail_
 
 ### [ Guinean general strike, 2007: Unions declare the strike over and urge workers to return to their jobs, following President Lansana Cont's appointment of a Prime Minister acceptable to them. ](/news/2007/02/27/guinean-general-strike-2007-unions-declare-the-strike-over-and-urge-workers-to-return-to-their-jobs-following-president-lansana-conte-s.md)
-_Context: Guinean general strike, 2007, Lansana Conté, President of Guinea, general strike, prime minister_
+_Context: Guinean general strike, 2007, Lansana Cont, President of Guinea, general strike, prime minister_
 
 ### [ The Chief Prosecutor of the International Criminal Court names the former Sudanese minister Ahmed Muhammad Harun and Janjaweed militia leader Ali Kushayb as chief suspects in its investigation into alleged war crimes and crimes against humanity in Darfur. The Government of Sudan has announced that it will not hand over the named men to the ICC. ](/news/2007/02/27/the-chief-prosecutor-of-the-international-criminal-court-names-the-former-sudanese-minister-ahmed-muhammad-harun-and-janjaweed-militia-lead.md)
 _Context: Ahmed Muhammad Harun, Ali Kushayb, Darfur, International Criminal Court, Janjaweed, Luis Moreno-Ocampo, Sudan, crimes against humanity, government, its investigation, war crimes_

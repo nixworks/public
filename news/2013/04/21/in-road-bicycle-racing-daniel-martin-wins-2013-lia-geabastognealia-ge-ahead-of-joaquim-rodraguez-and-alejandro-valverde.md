@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [In road bicycle racing, Daniel Martin wins 2013 Volta a Catalunya, the fifth stage of the 2013 UCI World Tour season, ahead of Joaquim Rodriguez. ](/news/2013/03/24/in-road-bicycle-racing-daniel-martin-wins-2013-volta-a-catalunya-the-fifth-stage-of-the-2013-uci-world-tour-season-ahead-of-joaquim-rodra.md) _Context: Daniel Martin, Joaquim Rodríguez, road bicycle racing_
+1. [In road bicycle racing, Daniel Martin wins 2013 Volta a Catalunya, the fifth stage of the 2013 UCI World Tour season, ahead of Joaquim Rodriguez. ](/news/2013/03/24/in-road-bicycle-racing-daniel-martin-wins-2013-volta-a-catalunya-the-fifth-stage-of-the-2013-uci-world-tour-season-ahead-of-joaquim-rodra.md) _Context: Daniel Martin, Joaquim Rodriguez, road bicycle racing_
 2. [In road bicycle racing, Fabian Cancellara wins 2013 Paris-Roubaix ahead of Sep Vanmarcke and Niki Terpstra. ](/news/2013/04/7/in-road-bicycle-racing-fabian-cancellara-wins-2013-parisaroubaix-ahead-of-sep-vanmarcke-and-niki-terpstra.md) _Context: road bicycle racing_
 3. [In road bicycle racing, Colombia's Nairo Quintana wins the 2013 Tour of the Basque Country. ](/news/2013/04/6/in-road-bicycle-racing-colombia-s-nairo-quintana-wins-the-2013-tour-of-the-basque-country.md) _Context: road bicycle racing_
 4. [In road bicycle racing, Czech racer Roman Kreuziger wins 2013 Amstel Gold Race, the 11th race of the 2013 UCI World Tour. ](/news/2013/04/14/in-road-bicycle-racing-czech-racer-roman-kreuziger-wins-2013-amstel-gold-race-the-11th-race-of-the-2013-uci-world-tour.md) _Context: road bicycle racing_

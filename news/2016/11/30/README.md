@@ -1,7 +1,7 @@
 ## [2016-11-30](/news/2016/11/30/index.md)
 
 ### [ Afghan security forces killed 16 militants from Taliban group in Ghazni. ](/news/2016/11/30/afghan-security-forces-killed-16-militants-from-taliban-group-in-ghazni.md)
-_Context: War in Afghanistan (2015–present)_
+_Context: War in Afghanistan (2015-present)_
 
 ### [Syrian Civil Defense claim that more than 45 people have died as a result of heavy artillery bombardment of eastern Aleppo. ](/news/2016/11/30/syrian-civil-defense-claim-that-more-than-45-people-have-died-as-a-result-of-heavy-artillery-bombardment-of-eastern-aleppo.md)
 Rescue workers said more than 45 people had been killed in artillery bombardment of rebel-held eastern Aleppo on Wednesday, and the Syrian Observatory for Human Rights said more than 50,000 people had been displaced by the fighting.

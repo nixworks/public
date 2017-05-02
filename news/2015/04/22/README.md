@@ -4,7 +4,7 @@
 _Context: Hela Province, Papua New Guinea, clan_
 
 ### [The Taliban announces the start of its annual spring offensive warning it would attack foreign embassies as well as military targets. ](/news/2015/04/22/the-taliban-announces-the-start-of-its-annual-spring-offensive-warning-it-would-attack-foreign-embassies-as-well-as-military-targets.md)
-_Context: Taliban, War in Afghanistan (2015–present)_
+_Context: Taliban, War in Afghanistan (2015-present)_
 
 ### [The Syrian Observatory for Human Rights estimates that Syrian government air strikes on areas controlled by Islamic State in Iraq and the Levant kills 32 people. The air strikes hit a hospital in Dayr Hafir killing at least 21 people. ](/news/2015/04/22/the-syrian-observatory-for-human-rights-estimates-that-syrian-government-air-strikes-on-areas-controlled-by-islamic-state-in-iraq-and-the-le.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
@@ -18,14 +18,14 @@ Google becomes a mobile virtual network operator, selling cellular service that 
 ### [The storm in Australia's New South Wales is declared a "catastrophe" with four  deaths, heavy flooding and disruption of transport to the state's largest cities Sydney and Newcastle. ](/news/2015/04/22/the-storm-in-australia-s-new-south-wales-is-declared-a-catastrophe-with-four-deaths-heavy-flooding-and-disruption-of-transport-to-the-st.md)
 The body of an 86-year-old woman has been recovered from the floodwaters into which her car was swept near Maitland on Wednesday morning. 
 
-### [South Korea approves plans to recover the {{MV|Sewol}} which sank last year with the loss of 300 people. ](/news/2015/04/22/south-korea-approves-plans-to-recover-the-mv-sewol-which-sank-last-year-with-the-loss-of-300-people.md)
+### [South Korea approves plans to recover the Sewol which sank last year with the loss of 300 people. ](/news/2015/04/22/south-korea-approves-plans-to-recover-the-sewol-which-sank-last-year-with-the-loss-of-300-people.md)
 _Context: Sinking of the MV ''Sewol'', South Korea_
 
 ### [The Calbuco volcano erupts in southern Chile forcing the evacuation of 4000 residents. ](/news/2015/04/22/the-calbuco-volcano-erupts-in-southern-chile-forcing-the-evacuation-of-4000-residents.md)
 The Calbuco volcano in southern Chile erupted on Wednesday, forcing the government to declare a “red alert” as it evacuated residents from nearby communities.
 
 ### [The United States Senate unanimously passes a bill to combat human trafficking after a long delay caused by a dispute over abortion funding. ](/news/2015/04/22/the-united-states-senate-unanimously-passes-a-bill-to-combat-human-trafficking-after-a-long-delay-caused-by-a-dispute-over-abortion-funding.md)
-_Context: Senator, abortion, human trafficking_
+_Context: United States Senate, abortion, human trafficking_
 
 ### [ An 11-judge panel of the U.S. Ninth Circuit Court of Appeals overturns the 2011 conviction of all-time Major League Baseball home run leader Barry Bonds on obstruction of justice charges stemming from the BALCO doping scandal. ](/news/2015/04/22/an-11-judge-panel-of-the-u-s-ninth-circuit-court-of-appeals-overturns-the-2011-conviction-of-all-time-major-league-baseball-home-run-leade.md)
 _Context: BALCO doping scandal, Barry Bonds, Major League Baseball, Ninth Circuit Court of Appeals, obstruction of justice charges_

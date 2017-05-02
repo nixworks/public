@@ -37,7 +37,7 @@ MANAGUA, Nicaragua (AP) — Presidents Daniel Ortega of Nicaragua and Nicolas Ma
 A NZ court orders Pike River Coal to pay nearly $3m in compensation over the 2010 mine disaster.
 
 ### [Portuguese political crisis, 2013Minister of Foreign Affairs Paulo Portas reportedly gives an ultimatum to the Prime Minister asking to exonerate the Minister of Finance Maria Luis Albuquerque in order to keep the first in the Government, as the President Cavaco Silva has demanded.](/news/2013/07/5/portuguese-political-crisis-2013pminister-of-foreign-affairs-paulo-portas-reportedly-gives-an-ultimatum-to-the-prime-minister-asking-to-exo.md)
-_Context: Cavaco Silva, Maria Luís Albuquerque, Paulo Portas_
+_Context: Cavaco Silva, Maria Luis Albuquerque, Paulo Portas_
 
 ### [The Portuguese Parliament votes down a motion to apologize to the Government of Bolivia for not allowing the plane carrying President Evo Morales to land and fly over Portuguese national airspace.](/news/2013/07/5/the-portuguese-parliament-votes-down-a-motion-to-apologize-to-the-government-of-bolivia-for-not-allowing-the-plane-carrying-president-evo-mo.md)
 _Context: Evo Morales, Government of Bolivia, parliament_

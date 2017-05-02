@@ -16,7 +16,7 @@ Mafia gangsters, corrupt politicians and a one-eyed former terrorist made millio
 _Context: Israel, Israeli legislative election, 2015, parliament in Israel_
 
 ### [Less than three months after winning the general election, Prime Minister of Sweden Stefan Lfven calls a snap general election after parliament rejected his government's budget proposal. ](/news/2014/12/3/less-than-three-months-after-winning-the-general-election-prime-minister-of-sweden-stefan-lofven-calls-a-snap-general-election-after-parlia.md)
-_Context: Stefan Löfven, general election, prime minister, snap general election_
+_Context: Stefan Lfven, general election, prime minister, snap general election_
 
 ### [The Japanese space agency, JAXA, launches the space explorer Hayabusa 2 from the Tanegashima Space Center on a six-year roundtrip mission to the asteroid (162173) 1999 JU3 to collect rock samples. ](/news/2014/12/3/the-japanese-space-agency-jaxa-launches-the-space-explorer-hayabusa-2-from-the-tanegashima-space-center-on-a-six-year-roundtrip-mission-to.md)
 _Context: (162173) 1999 JU3, Hayabusa 2, JAXA, Japan, Tanegashima Space Center_

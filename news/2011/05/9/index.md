@@ -28,7 +28,7 @@ _Context: United States, United States housing bubble_
 Qantas passengers face likely disruptions to flights after the airline&#039;s 1600 licensed aircraft engineers announced today that they intended to begin strike action later this week.
 
 ### [The Ivory Coast, the world's largest cocoa producer, makes its first shipment since January, after the cocoa industry was disrupted by the 2010-2011 Ivorian crisis. ](/news/2011/05/9/the-ivory-coast-the-world-s-largest-cocoa-producer-makes-its-first-shipment-since-january-after-the-cocoa-industry-was-disrupted-by-the-2.md)
-_Context: 2010–2011 Ivorian crisis, Ivory Coast, cocoa_
+_Context: 2010-2011 Ivorian crisis, Ivory Coast, cocoa_
 
 ### [Officials in the European Union acknowledge that Greece will need a second bailout program soon, and American ratings agency Standard & Poor's downgrades Greek bonds to junk status. ](/news/2011/05/9/officials-in-the-european-union-acknowledge-that-greece-will-need-a-second-bailout-program-soon-and-american-ratings-agency-standard-poor.md)
 _Context: European Union, Greece, Standard & Poor's_

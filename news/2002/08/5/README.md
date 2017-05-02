@@ -12,7 +12,7 @@ _Context: Legionnaires' disease_
 ### [ Microsoft has announced that it is to make some concessions towards the proposed final settlement of the United States v. Microsoft case, ahead of the judge's verdict.](/news/2002/08/5/microsoft-has-announced-that-it-is-to-make-some-concessions-towards-the-proposed-final-settlement-of-the-united-states-v-microsoft-case-a.md)
 _Context: Microsoft, United States v. Microsoft_
 
-### [ The gun turret of the {{USS|Monitor}} was raised from the sea bottom off the coast of North Carolina, where it had lain since sinking in 1869.](/news/2002/08/5/the-gun-turret-of-the-uss-monitor-was-raised-from-the-sea-bottom-off-the-coast-of-north-carolina-where-it-had-lain-since-sinking-in-18.md)
+### [ The gun turret of the Monitor was raised from the sea bottom off the coast of North Carolina, where it had lain since sinking in 1869.](/news/2002/08/5/the-gun-turret-of-the-monitor-was-raised-from-the-sea-bottom-off-the-coast-of-north-carolina-where-it-had-lain-since-sinking-in-1869.md)
 _Context: North Carolina_
 
 ## [Previous Day...](/news/2002/08/4/index.md)

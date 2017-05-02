@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Brazilian police rescue 35 hostages from InterContinental in So Conrado, Rio de Janeiro. ](/news/2010/08/22/brazilian-police-rescue-35-hostages-from-intercontinental-in-sao-conrado-rio-de-janeiro.md) _Context: Rio de Janeiro, São Conrado_
+1. [Brazilian police rescue 35 hostages from InterContinental in So Conrado, Rio de Janeiro. ](/news/2010/08/22/brazilian-police-rescue-35-hostages-from-intercontinental-in-sao-conrado-rio-de-janeiro.md) _Context: Rio de Janeiro, So Conrado_
 2. [A body found in a burnt-out vehicle north of the Brazilian city of Rio de Janeiro is confirmed to be that of missing Greek Ambassador Kyriakos Amiridis. A military police officer who had an affair with the ambassador's wife confesses to the murder. The wife and a second man are also detained. ](/news/2016/12/30/a-body-found-in-a-burnt-out-vehicle-north-of-the-brazilian-city-of-rio-de-janeiro-is-confirmed-to-be-that-of-missing-greek-ambassador-kyriak.md) _Context: Rio de Janeiro_
 3. [The Ambassador of Greece to Brazil, Kyriakos Amiridis, is reported missing while on vacation in Rio de Janeiro. A homicide team is investigating his disappearance. ](/news/2016/12/29/the-ambassador-of-greece-to-brazil-kyriakos-amiridis-is-reported-missing-while-on-vacation-in-rio-de-janeiro-a-homicide-team-is-investiga.md) _Context: Rio de Janeiro_
 4. [Contractors and suppliers for the Rio de Janeiro Olympic Games claim they are owed millions in unpaid debts. ](/news/2016/11/28/contractors-and-suppliers-for-the-rio-de-janeiro-olympic-games-claim-they-are-owed-millions-in-unpaid-debts.md) _Context: Rio de Janeiro_

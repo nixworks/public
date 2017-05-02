@@ -7,7 +7,7 @@ _Context: Ted Williams, baseball, cryonics_
 _Context: Jharkhand_
 
 ### [Senator Trent Lott resigned as Senate Majority Leader, concluding that his approving statements of fellow Senator Strom Thurmond's segregationist run for President of the United States in 1948 had limited his effectiveness and that of his fellow Republicans.](/news/2002/12/20/senator-trent-lott-resigned-as-senate-majority-leader-concluding-that-his-approving-statements-of-fellow-senator-strom-thurmond-s-segregati.md)
-_Context: Republican, Senate Majority Leader, Senator, Strom Thurmond, Trent Lott, president, segregationist_
+_Context: Republican, Senate Majority Leader, Strom Thurmond, Trent Lott, United States Senate, president, segregationist_
 
 ### [Portland Trail Blazers players, Golden State Warriors players and Warriors' fans get involved in a melee after the Trail Blazers beat the Warriors, 113-111 in Oakland. It might be the first time in NBA history that a home team's fans attack the visiting team during or after a game.](/news/2002/12/20/portland-trail-blazers-players-golden-state-warriors-players-and-warriors-fans-get-involved-in-a-melee-after-the-trail-blazers-beat-the-wa.md)
 _Context: Golden State Warriors, NBA, Oakland, California, Portland Trail Blazers_
@@ -22,7 +22,7 @@ _Context: HIV, Science, magazine, small interfering RNA_
 _Context: Caltech, Saturn, Titan, methane, moon_
 
 ### [Governor Frank H. Murkowski of Alaska announced that he had chosen his daughter, state Representative and House Majority Leader Lisa Murkowski, to succeed him in the United States Senate.  The elder Murkowski, in winning the recent election as governor, was forced to leave his Senate position.](/news/2002/12/20/governor-frank-h-murkowski-of-alaska-announced-that-he-had-chosen-his-daughter-state-representative-and-house-majority-leader-lisa-murkows.md)
-_Context: Alaska, Frank H. Murkowski, Governor, Lisa Murkowski, Senator_
+_Context: Alaska, Frank H. Murkowski, Governor, Lisa Murkowski, United States Senate_
 
 ### [ The cult television show Firefly, created by Joss Whedon is canceled.](/news/2002/12/20/the-cult-television-show-firefly-created-by-joss-whedon-is-canceled.md)
 _Context: Firefly, Joss Whedon_

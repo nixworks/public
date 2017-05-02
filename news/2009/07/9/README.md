@@ -22,7 +22,7 @@ The death toll from a mass poisoning involving home-brewed alcohol in the wester
 _Context: Ban Ki-moon, G8, Secretary General, climate change_
 
 ### [ Kul Bahadur Khadka, the Nepalese general appointed acting army chief by former Maoist Prime Minister Prachanda denies allegations of plans to stage a coup d'tat. ](/news/2009/07/9/kul-bahadur-khadka-the-nepalese-general-appointed-acting-army-chief-by-former-maoist-prime-minister-prachanda-denies-allegations-of-plans.md)
-_Context: Kul Bahadur Khadka, Maoist, Nepal, Prachanda, Prime Minister, coup d'état_
+_Context: Kul Bahadur Khadka, Maoist, Nepal, Prachanda, Prime Minister, coup d'tat_
 
 ### [ British phone tapping controversy David Cameron is asked to dismiss one of his most trusted advisers over allegations of illegal phone hacking by the Rupert Murdoch-owned ''News of the World'' tabloid. ](/news/2009/07/9/british-phone-tapping-controversyp-david-cameron-is-asked-to-dismiss-one-of-his-most-trusted-advisers-over-allegations-of-illegal-phone-hac.md)
 British police investigating whether a News Corporation subsidiary hacked into cellphone messages concluded that a report in The Guardian newspaper on Wednesday contained no new information.

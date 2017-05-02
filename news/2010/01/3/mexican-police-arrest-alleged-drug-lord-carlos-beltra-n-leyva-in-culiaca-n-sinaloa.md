@@ -13,7 +13,7 @@
 
 ### Related:
 
-1. [Mexican Beltran Leyva Cartel drug lord Alfredo Beltran Leyva is sentenced to life in prison and ordered to forfeit $US529,200,000. ](/news/2017/04/5/mexican-beltra-n-leyva-cartel-drug-lord-alfredo-beltra-n-leyva-is-sentenced-to-life-in-prison-and-ordered-to-forfeit-us529-200-000.md) _Context: Beltrán Leyva Cartel_
+1. [Mexican Beltran Leyva Cartel drug lord Alfredo Beltran Leyva is sentenced to life in prison and ordered to forfeit $US529,200,000. ](/news/2017/04/5/mexican-beltra-n-leyva-cartel-drug-lord-alfredo-beltra-n-leyva-is-sentenced-to-life-in-prison-and-ordered-to-forfeit-us529-200-000.md) _Context: Beltran Leyva Cartel_
 2. [Ciudad Juarez-based newspaper ''Norte'' closes its print edition, citing a lack of security in Mexico. ](/news/2017/04/2/ciudad-jua-rez-based-newspaper-norte-closes-its-print-edition-citing-a-lack-of-security-in-mexico.md) _Context: Mexico_
 3. [Mexico states that it will reject third-country deportees. ](/news/2017/02/24/mexico-states-that-it-will-reject-third-country-deportees.md) _Context: Mexico_
 4. [Following a start-of-year hike to the price of gas, widespread riots and looting mostly targeting gas stations, supermarkets and department stores take place in several cities in Mexico. Over 250 people are said to have been arrested so far while blockades to PEMEX installations potentially lead to critical situations in some states. ](/news/2017/01/5/following-a-start-of-year-hike-to-the-price-of-gas-widespread-riots-and-looting-mostly-targeting-gas-stations-supermarkets-and-department.md) _Context: Mexico_

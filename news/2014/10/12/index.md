@@ -19,7 +19,7 @@ The cyclone, which crossed the Visakhapatnam coast, seems to be in a period of l
 _Context: 2014 United States Ebola virus outbreak, Texas, United States of America_
 
 ### [Bakir Izetbegovic and Dragan Covic appear to have won the Bosniak and Croat seat in the presidency while the race for the Serb seat is still too close to call. ](/news/2014/10/12/bakir-izetbegovia-and-dragan-aovia-appear-to-have-won-the-bosniak-and-croat-seat-in-the-presidency-while-the-race-for-the-serb-seat-is-st.md)
-_Context: Bakir Izetbegović, Bosnia and Herzegovina general election, 2014, Bosniaks, Croat, Dragan Čović, Serb, presidency_
+_Context: Bakir Izetbegovic, Bosnia and Herzegovina general election, 2014, Bosniaks, Croat, Dragan Covic, Serb, presidency_
 
 ### [Voters in Bolivia go to the polls for a general election with incumbent President Evo Morales winning in a landslide with 60 per cent of the vote. ](/news/2014/10/12/voters-in-bolivia-go-to-the-polls-for-a-general-election-with-incumbent-president-evo-morales-winning-in-a-landslide-with-60-per-cent-of-the.md)
 _Context: Bolivia, Evo Morales, President of Bolivia, re-elected_

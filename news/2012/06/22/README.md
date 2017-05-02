@@ -61,7 +61,7 @@ _Context: Makhdoom Shahabuddin, Pakistan People's Party, Raja Pervez Ashraf, You
 One of key figures of social justice movement arrested along with 11 others; Yechimovich, Horowitz decry police violence.
 
 ### [Sinn Fein's Martin McGuinness will shake hands with Elizabeth II at a historic first meeting between a British Monarch and member of Sinn Fein during the Queen's forthcoming trip to Northern Ireland. ](/news/2012/06/22/sinn-fein-s-martin-mcguinness-will-shake-hands-with-elizabeth-ii-at-a-historic-first-meeting-between-a-british-monarch-and-member-of-sinn-fa.md)
-_Context: Elizabeth II, Martin McGuinness, Northern Ireland, Sinn Féin_
+_Context: Elizabeth II, Martin McGuinness, Northern Ireland, Sinn Fin_
 
 ## [Previous Day...](/news/2012/06/21/index.md)
 

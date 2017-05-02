@@ -13,7 +13,7 @@ _Context: Afghanistan, Kabul, Kandahar, Nangarhar Province, bomb_
 _Context: Shibam, Yemen, bomb_
 
 ### [ Mauricio Funes of the Farabundo Mart National Liberation Front wins El Salvador's presidential election. ](/news/2009/03/15/mauricio-funes-of-the-farabundo-marti-national-liberation-front-wins-el-salvador-s-presidential-election.md)
-_Context: El Salvador, Farabundo Martí National Liberation Front, Mauricio Funes, President of El Salvador, election_
+_Context: El Salvador, Farabundo Mart National Liberation Front, Mauricio Funes, President of El Salvador, election_
 
 ### [ Former Pakistani Prime Minister Nawaz Sharif is placed under house arrest to prevent the Pakistani Muslim League's proposed demonstration in Islamabad on March 16. ](/news/2009/03/15/former-pakistani-prime-minister-nawaz-sharif-is-placed-under-house-arrest-to-prevent-the-pakistani-muslim-league-s-proposed-demonstration-i.md)
 _Context: Islamabad, Nawaz Sharif, Pakistan, Pakistan Muslim League, Prime Minister, demonstration, house arrest_
@@ -22,7 +22,7 @@ _Context: Islamabad, Nawaz Sharif, Pakistan, Pakistan Muslim League, Prime Minis
 _Context: Al Hillah, Iraq, association football_
 
 ### [ Two hundred protestors are arrested after a riot against police brutality in Montreal, Canada.  ](/news/2009/03/15/two-hundred-protestors-are-arrested-after-a-riot-against-police-brutality-in-montreal-canada.md)
-_Context: Canadian, Protest, city of Montreal, police brutality, riot_
+_Context: Canada, Protest, city of Montreal, police brutality, riot_
 
 ## [Previous Day...](/news/2009/03/14/index.md)
 

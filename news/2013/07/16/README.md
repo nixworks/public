@@ -10,7 +10,7 @@ _Context: Greece, general strike_
 _Context: Ho Chi Minh City, McDonald's, Nguyen Tan Dung, Viet Nam_
 
 ### [The British Columbia coroner's office reports that actor Cory Monteith died of an overdose of heroin and alcohol. ](/news/2013/07/16/the-british-columbia-coroner-s-office-reports-that-actor-cory-monteith-died-of-an-overdose-of-heroin-and-alcohol.md)
-_Context: British Columbia, Cory Monteith, coronial, drug overdose, ethanol ({{chem|C|H|3|C|H|2|O|H}}), heroin_
+_Context: British Columbia, Cory Monteith, coronial, drug overdose, ethanol (C|H|3|C|H|2|O|H), heroin_
 
 ### [As many as 27 children die and 25 others are hospitalised after eating lunch served at their school in eastern India. ](/news/2013/07/16/as-many-as-27-children-die-and-25-others-are-hospitalised-after-eating-lunch-served-at-their-school-in-eastern-india.md)
 Eight children died and 80 others have been hospitalised after eating lunch served at their school in eastern India.

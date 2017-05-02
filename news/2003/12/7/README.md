@@ -1,7 +1,7 @@
 ## [2003-12-7](/news/2003/12/7/index.md)
 
 ### [Former Nicaraguan President Arnoldo Alemn receives a 20-year prison sentence for money laundering, embezzlement, electoral crime, etc. ](/news/2003/12/7/former-nicaraguan-president-arnoldo-aleman-receives-a-20-year-prison-sentence-for-money-laundering-embezzlement-electoral-crime-etc.md)
-_Context: Arnoldo Alemán, Nicaragua, President, anti-corruption, embezzlement, money laundering_
+_Context: Arnoldo Alemn, Nicaragua, President, anti-corruption, embezzlement, money laundering_
 
 ### [ Zimbabwean President Robert Mugabe announces that he is withdrawing his country from the Commonwealth of Nations. The Commonwealth had earlier decided to maintain Zimbabwe's suspension until human rights and democratic reforms had taken place. [http://www.reuters.co.uk/newsPackageArticle.jhtml?type=worldNews&storyID=417200&section=news]](/news/2003/12/7/zimbabwean-president-robert-mugabe-announces-that-he-is-withdrawing-his-country-from-the-commonwealth-of-nations-the-commonwealth-had-earl.md)
 _Context: Commonwealth of Nations, Human rights, Robert Mugabe, Zimbabwe_

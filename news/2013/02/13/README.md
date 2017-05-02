@@ -28,19 +28,19 @@ The EU urges members to conduct random DNA tests on processed beef for three mon
 As it prepared to meet with the deputy director of the United Nations nuclear watchdog, Iran said on Wednesday that it had begun to install more sophisticated enrichment devices.
 
 ### [Former President of the Maldives Mohamed Nasheed takes refuge in the Indian embassy in the city of Male, Maldives saying that his trial for political abuse and corruption is a "politically motivated sham". ](/news/2013/02/13/former-president-of-the-maldives-mohamed-nasheed-takes-refuge-in-the-indian-embassy-in-the-city-of-mala-c-maldives-saying-that-his-trial-for.md)
-_Context: India, Maldives, Malé, Mohamed Nasheed, President_
+_Context: India, Maldives, Male, Mohamed Nasheed, President_
 
 ### [A lawyer representing Barry Bonds appeals his obstruction of justice charge to the United States Court of Appeals for the Ninth Circuit. ](/news/2013/02/13/a-lawyer-representing-barry-bonds-appeals-his-obstruction-of-justice-charge-to-the-united-states-court-of-appeals-for-the-ninth-circuit.md)
 _Context: Barry Bonds, Ninth Circuit Court of Appeals, obstruction of justice charges_
 
-### [After a {{convert|12|mi|km|adj=on}} chase, a man was caught for shooting a woman and her stepfather near a South Carolina courthouse. ](/news/2013/02/13/after-a-convert-12-mi-km-adj-on-chase-a-man-was-caught-for-shooting-a-woman-and-her-stepfather-near-a-south-carolina-courthouse.md)
+### [After a 12|mi|km|adj=on chase, a man was caught for shooting a woman and her stepfather near a South Carolina courthouse. ](/news/2013/02/13/after-a-12-mi-km-adj-on-chase-a-man-was-caught-for-shooting-a-woman-and-her-stepfather-near-a-south-carolina-courthouse.md)
 A man involved in a paternity dispute opened fire Wednesday in front of a South Carolina courthouse, wounding a woman and her stepfather, then led police on a 12-mile chase before he was caught, a sheriff said.
 
 ### [Israel confirms that in 2010 it secretly imprisoned an Australian-Israeli man, known as Prisoner X, and that he committed suicide in custody. ](/news/2013/02/13/israel-confirms-that-in-2010-it-secretly-imprisoned-an-australianaisraeli-man-known-as-prisoner-x-and-that-he-committed-suicide-in-custo.md)
 Israel confirms it imprisoned an Australian-Israeli man under a false identity for security reasons, and that he died in custody.
 
 ### [The U.S. administration's nominee to become next Treasury Secretary, Jack Lew, testifies before the financial committee of the United States Senate at the start of his confirmation hearing. ](/news/2013/02/13/the-u-s-administration-s-nominee-to-become-next-treasury-secretary-jack-lew-testifies-before-the-financial-committee-of-the-united-states.md)
-_Context: Jack Lew, Senator, Treasury Secretary, U.S._
+_Context: Jack Lew, Treasury Secretary, U.S., United States Senate_
 
 ### [International Olympic Committee president Jacques Rogge is meeting with the head of wrestling's governing body in an attempt to revive the sport for the 2020 Summer Olympics. ](/news/2013/02/13/international-olympic-committee-president-jacques-rogge-is-meeting-with-the-head-of-wrestling-s-governing-body-in-an-attempt-to-revive-the-s.md)
 Find the latest sports news and articles on the NFL, MLB, NBA, NHL, NCAA college football, NCAA college basketball and more at ABC News.

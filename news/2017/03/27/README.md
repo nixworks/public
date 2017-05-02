@@ -1,6 +1,6 @@
 ## [2017-03-27](/news/2017/03/27/index.md)
 
-### [The Big Maple Leaf, a solid gold 1 million dollar Canadian coin weighing {{convert|100|kg|lb}}, is stolen from the Bode Museum in Berlin, Germany.](/news/2017/03/27/the-big-maple-leaf-a-solid-gold-1-million-dollar-canadian-coin-weighing-convert-100-kg-lb-is-stolen-from-the-bode-museum-in-berlin-ge.md)
+### [The Big Maple Leaf, a solid gold 1 million dollar Canadian coin weighing 100|kg|lb, is stolen from the Bode Museum in Berlin, Germany.](/news/2017/03/27/the-big-maple-leaf-a-solid-gold-1-million-dollar-canadian-coin-weighing-100-kg-lb-is-stolen-from-the-bode-museum-in-berlin-germany.md)
 _Context: Big Maple Leaf, Bode Museum_
 
 ### [An avalanche on Mount Nasu in Japan's Tochigi Prefecture, kills at least eight schoolchildren while the students were on a mountaineering excursion. There are three students and three teachers missing. ](/news/2017/03/27/an-avalanche-on-mount-nasu-in-japan-s-tochigi-prefecture-kills-at-least-eight-schoolchildren-while-the-students-were-on-a-mountaineering-ex.md)
@@ -13,7 +13,7 @@ Tropical Cyclone Debbie strengthens to category four and is expected to hit the 
 SOFIA, Bulgaria (AP) — The Latest on Bulgaria&#x27;s election Sunday: (all times local):
 
 ### [The deadline for the Government formation in Northern Ireland has expired following the refusal of the Democratic Unionist Party and  Sinn Fein to enter a power sharing agreement with each other, with both parties blaming each other for the impasse. ](/news/2017/03/27/the-deadline-for-the-government-formation-in-northern-ireland-has-expired-following-the-refusal-of-the-democratic-unionist-party-and-sinn-f.md)
-_Context: Democratic Unionist Party, Northern Ireland Assembly election, 2017, Sinn Féin_
+_Context: Democratic Unionist Party, Northern Ireland Assembly election, 2017, Sinn Fein_
 
 ### [The U.S. FDA approves Tesaro's ovarian cancer drug, Niraparib. ](/news/2017/03/27/the-u-s-fda-approves-tesaro-s-ovarian-cancer-drug-niraparib.md)
 _Context: FDA, Niraparib, Tesaro, ovarian cancer_

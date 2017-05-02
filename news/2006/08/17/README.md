@@ -10,7 +10,7 @@ _Context: Barry Bonds, Greg Anderson, Williams Alsup_
 A federal judge ruled Thursday that the government&#8217;s warrantless wiretapping program is unconstitutional and ordered an immediate halt to it. The White House said it could not disagree more with the ruling. 
 
 ### [ Thai police claim that John Mark Karr has confessed to the murder of JonBent Ramsey. Karr tells reporters after the press conference that he was with the child when she died but didn't mean to kill her. ](/news/2006/08/17/thai-police-claim-that-john-mark-karr-has-confessed-to-the-murder-of-jonbenet-ramsey-karr-tells-reporters-after-the-press-conference-that.md)
-_Context: John Mark Karr, JonBenét Ramsey_
+_Context: John Mark Karr, JonBent Ramsey_
 
 ### [ Lebanese troops deploy south of the Litani River in Lebanon as part of the ceasefire agreement ](/news/2006/08/17/lebanese-troops-deploy-south-of-the-litani-river-in-lebanon-as-part-of-the-ceasefire-agreement.md)
 _Context: Lebanon, Litani River_

@@ -22,7 +22,7 @@ The U.S. Virgin Islands and Puerto Rico offer just the number of delegates she n
 The results could be a fluke, but the research is encouraging.
 
 ### [In tennis, Garbine Muguruza of Spain wins the 2016 French Open by 7-5 6-4 in an upset defeat of Serena Williams. ](/news/2016/06/4/in-tennis-garbine-muguruza-of-spain-wins-the-2016-french-open-by-7a5-6a4-in-an-upset-defeat-of-serena-williams.md)
-_Context: 2016 French Open, 2016 French Open – Women's Singles, Garbine Muguruza, Serena Williams, Spain, tennis_
+_Context: 2016 French Open, 2016 French Open - Women's Singles, Garbine Muguruza, Serena Williams, Spain, tennis_
 
 ### [In horse racing, Harzand trained by Dermot Weld wins the Epsom Derby. It is the fifth horse owned by His Highness The Aga Khan IV to win the Derby. ](/news/2016/06/4/in-horse-racing-harzand-trained-by-dermot-weld-wins-the-epsom-derby-it-is-the-fifth-horse-owned-by-his-highness-the-aga-khan-iv-to-win-the.md)
 Two-time Melbourne Cup winning trainer Dermot Weld won the Epsom Derby for the first time on Saturday with Harzand, who had been a doubtful runner earlier in the day.

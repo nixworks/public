@@ -7,7 +7,7 @@ _Context: Liverpool F.C., Milan, UEFA Champions League_
 _Context: Iraq War, captured U.S. soldiers, manhunt_
 
 ### [ Venezuela's Supreme Court rules that Radio Caracas Television must close on Monday, May 28, after the station's appeal against a decision by the Venezuelan Government failed. ](/news/2007/05/23/venezuela-s-supreme-court-rules-that-radio-caracas-televisia3n-must-close-on-monday-may-28-after-the-station-s-appeal-against-a-decision.md)
-_Context: May 28, Radio Caracas Televisión, Supreme Court, Venezuela_
+_Context: May 28, Radio Caracas Television, Supreme Court, Venezuela_
 
 ### [ Lebanon's Defence Minister Elias Murr issues an ultimatum to Fatah al-Islam militants in the Nahr el-Bared refugee camp in Tripoli, Lebanon. ](/news/2007/05/23/lebanon-s-defence-minister-elias-murr-issues-an-ultimatum-to-fatah-al-islam-militants-in-the-nahr-el-bared-refugee-camp-in-tripoli-lebanon.md)
 _Context: Elias Murr, Fatah al-Islam, Lebanon, Nahr el-Bared, Tripoli, Lebanon_
@@ -22,7 +22,7 @@ Following relatively quiet day in southern Israel, two Qassams land south of Ash
 _Context: Carbon Reduction Commitment, His Majesty's Government, emissions trading_
 
 ### [ A Serbian court finds 12 men, including Milorad Ulemek, guilty of the 2003 assassination of Prime Minister Zoran Dindic. ](/news/2007/05/23/a-serbian-court-finds-12-men-including-milorad-ulemek-guilty-of-the-2003-assassination-of-prime-minister-zoran-ainaia.md)
-_Context: Milorad Ulemek, Prime Minster, Serbia, Zoran Đinđić_
+_Context: Milorad Ulemek, Prime Minster, Serbia, Zoran Dindic_
 
 ### [ A Thai gunman opens fire with an AK-47 in a market in Pathum Thani Province, north of Bangkok, killing a villager, a security guard and a police officer and critically injuring another six before he was shot dead by the police. ](/news/2007/05/23/a-thai-gunman-opens-fire-with-an-ak-47-in-a-market-in-pathum-thani-province-north-of-bangkok-killing-a-villager-a-security-guard-and-a-p.md)
 _Context: AK-47s, Bangkok, Pathum Thani Province, Thai police, Thailand_

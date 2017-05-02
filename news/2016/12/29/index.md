@@ -23,7 +23,7 @@ The US expels 35 Russian diplomats in the wake of cyber attacks related to the U
 _Context: Kyriakos Amiridis, Rio de Janeiro_
 
 ### [Turkish journalist Ahmet Sik is arrested in Istanbul, allegedly over a social media posting. ](/news/2016/12/29/turkish-journalist-ahmet-aa-k-is-arrested-in-istanbul-allegedly-over-a-social-media-posting.md)
-_Context: Ahmet Şık, Istanbul_
+_Context: Ahmet Sik, Istanbul_
 
 ### [Naveed Baloch, the man from Pakistan who was wrongly arrested in the aftermath of the recent attack on a Christmas market in Berlin, gives an interview outlining the conditions in which he was held and reveals he is now in hiding amid fears for his life. ](/news/2016/12/29/naveed-baloch-the-man-from-pakistan-who-was-wrongly-arrested-in-the-aftermath-of-the-recent-attack-on-a-christmas-market-in-berlin-gives-a.md)
 Exclusive: Naveed Baloch says he was tied up, blindfolded and slapped by police after being held ‘because he ran across road’

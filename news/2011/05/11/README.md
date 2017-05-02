@@ -16,7 +16,7 @@ _Context: Southern Sudan, Sudan, Zambia_
 Venezuela begins rationing electricity after blackouts on Monday affected nearly half the country.
 
 ### [Trial runs begin for the Beijing-Shanghai High-Speed Railway in the People's Republic of China, ahead of the railway's official opening on 20 June 2011. ](/news/2011/05/11/trial-runs-begin-for-the-beijingashanghai-high-speed-railway-in-the-people-s-republic-of-china-ahead-of-the-railway-s-official-opening-on.md)
-_Context: Beijing–Shanghai High-Speed Railway, China's_
+_Context: Beijing-Shanghai High-Speed Railway, China's_
 
 ### [The Bank of England says it expects inflation to reach 5% this year, due to higher fuel bills that could rise by up to 15%, and revises down its growth projection for the UK economy. ](/news/2011/05/11/the-bank-of-england-says-it-expects-inflation-to-reach-5-this-year-due-to-higher-fuel-bills-that-could-rise-by-up-to-15-and-revises-down.md)
 The Bank of England says it expects inflation to hit 5% this year, due to higher utility bills, and revises down its growth projection.

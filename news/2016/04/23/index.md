@@ -19,10 +19,10 @@ _Context: Stratford-upon-Avon, William Shakespeare_
 Spain&#x20;marks&#x20;the&#x20;fourth&#x20;centenary&#x20;of&#x20;the&#x20;death&#x20;of&#x20;its&#x20;most&#x20;famous&#x20;author&#x20;Miguel&#x20;de&#x20;Cervantes&#x20;this&#x20;week&#x20;with&#x20;hundreds&#x20;of&#x20;events&#x20;ranging&#x20;from&#x20;cultural&#x20;to&#x20;quirky...and&#x20;a&#x20;bit&#x20;of&#x20;controversy.
 
 ### [Beyonce releases the best selling album of 2016, Lemonade. The album is a visual album that was released with a film that detailed every song on the album.](/news/2016/04/23/beyonca-c-releases-the-best-selling-album-of-2016-lemonade-the-album-is-a-visual-album-that-was-released-with-a-film-that-detailed-every-so.md)
-_Context: Beyoncé, Lemonade_
+_Context: Beyonce, Lemonade_
 
 ### [Samoan authorities prepared for Severe Tropical Cyclone Amos which is forecast to make landfall later tonight. ](/news/2016/04/23/samoan-authorities-prepared-for-severe-tropical-cyclone-amos-which-is-forecast-to-make-landfall-later-tonight.md)
-_Context: 2015–16 South Pacific cyclone season, Samoa, Severe Tropical Cyclone Amos_
+_Context: 2015-16 South Pacific cyclone season, Samoa, Severe Tropical Cyclone Amos_
 
 ### [A Russian oil tanker catches fire in the Caspian Sea, killing at least one crew member. A total of 10 crew members were evacuated from the ship, which was in the territorial waters of Turkmenistan when the fire broke out. It was unclear what caused the blaze. ](/news/2016/04/23/a-russian-oil-tanker-catches-fire-in-the-caspian-sea-killing-at-least-one-crew-member-a-total-of-10-crew-members-were-evacuated-from-the-s.md)
 _Context: Caspian Sea, Russia, Turkmenistan, oil tanker_
@@ -34,7 +34,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: North Korea, North Korea and weapons of mass destruction, submarine-launched ballistic missile_
 
 ### [President of Russia Vladimir Putin accuses the United States of reneging on a 16-year-old deal that called for reducing Russia's and the United States' stockpiles of weapons-grade plutonium. He accused Washington of trying to preserve its ability to turn some of its plutonium stockpile back into a form usable for nuclear weapons. ](/news/2016/04/23/president-of-russia-vladimir-putin-accuses-the-united-states-of-reneging-on-a-16-year-old-deal-that-called-for-reducing-russia-s-and-the-uni.md)
-_Context: American, Russia, Russian President, Russia–United States relations, Vladimir Putin, plutonium_
+_Context: American, Russia, Russia-United States relations, Russian President, Vladimir Putin, plutonium_
 
 ### [Reuters reports the Friday afternoon truce between Kurdish Asayish forces and pro-Syrian government forces, declared following a three-day outbreak of violence that killed at least 26 people,  is holding. ](/news/2016/04/23/reuters-reports-the-friday-afternoon-truce-between-kurdish-asayish-forces-and-pro-syrian-government-forces-declared-following-a-three-day-o.md)
 Regional Kurdish security forces and pro-Syrian government forces have declared a ceasefire in northeastern Syria, the Kurdish side said, calming a three-day outbreak of violence which killed more than 26 people.
@@ -70,7 +70,7 @@ Thousands of people have protested in the German city of Hannover against a prop
 _Context: Darfur, Darfurian status referendum, 2016, State Department, Sudan_
 
 ### [Congo President Denis Sassou Nguesso names former opposition leader Clement Mouamba as prime minister. ](/news/2016/04/23/congo-president-denis-sassou-nguesso-names-former-opposition-leader-cla-c-ment-mouamba-as-prime-minister.md)
-_Context: Clément Mouamba, Congo President, Denis Sassou Nguesso_
+_Context: Clement Mouamba, Congo President, Denis Sassou Nguesso_
 
 ### [Solar-powered aircraft Solar Impulse 2 lands in Mountain View, California after a 62-hour flight across the Pacific Ocean from Hawaii. ](/news/2016/04/23/solar-powered-aircraft-solar-impulse-2-lands-in-mountain-view-california-after-a-62-hour-flight-across-the-pacific-ocean-from-hawaii.md)
 The aircraft performed a fly-by over the Golden Gate Bridge in the late afternoon following 56 hours of flight that began Thursday morning in Hawaii.

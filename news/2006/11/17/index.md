@@ -19,7 +19,7 @@ _Context: 2006 riots, Australia, New Zealand, Nuku'alofa, Tonga, Tongan governme
 Kazakhstan is contemplating a switch to the Latin alphabet. With the President Nursultan Nazarbayev himself raising it, observers think it may well become reality. Addressing the Assembly of Peoples 
 
 ### [ Former Uruguayan dictator Juan Mara Bordaberry is arrested in connection with the 1976 abduction and assassination of two Congressmen. ](/news/2006/11/17/former-uruguayan-dictator-juan-maria-bordaberry-is-arrested-in-connection-with-the-1976-abduction-and-assassination-of-two-congressmen.md)
-_Context: 1976, Juan María Bordaberry, Uruguay_
+_Context: 1976, Juan Mara Bordaberry, Uruguay_
 
 ### [ President of the United States George W. Bush and Prime Minister of Australia John Howard discuss Iraq strategy over lunch. The two leaders are attending an Asia-Pacific Economic Cooperation meeting in Hanoi. ](/news/2006/11/17/president-of-the-united-states-george-w-bush-and-prime-minister-of-australia-john-howard-discuss-iraq-strategy-over-lunch-the-two-leaders.md)
 _Context: Asia-Pacific Economic Cooperation, George W. Bush, Hanoi, Iraq War, John Howard, Prime Minister of Australia, president_

@@ -4,7 +4,7 @@
 _Context: Cyprus, Czech, European Parliament, European Union, France, Italian, Latvia, Maltese, Overseas departments and territories of France, Slovakia's, elections_
 
 ### [ The ruling party Fianna Fail endures significant losses in Ireland's local elections and parliamentary by-elections in Dublin Central and Dublin South. ](/news/2009/06/6/the-ruling-party-fianna-fa-il-endures-significant-losses-in-ireland-s-local-elections-and-parliamentary-by-elections-in-dublin-central-and.md)
-_Context: Dublin Central, Dublin South, Fianna Fáil, Republic of Ireland, by-election, local elections, parliament, ruling party_
+_Context: Dublin Central, Dublin South, Fianna Fail, Republic of Ireland, by-election, local elections, parliament, ruling party_
 
 ### [ The Conservative Party gains seven county councils, the Liberal Democrats lose one, and the Labour Party loses four during the United Kingdom's local elections. ](/news/2009/06/6/the-conservative-party-gains-seven-county-councils-the-liberal-democrats-lose-one-and-the-labour-party-loses-four-during-the-united-kingd.md)
 _Context: Conservative Party, Labour, Liberal Democrats, United Kingdom, county council, local elections_
@@ -22,7 +22,7 @@ A fast-moving fire killed 31 children in a day care center in northern Mexico de
 _Context: Amazon, Peru, Peruvian Army, deadly clashes, indigenous Amazon groups_
 
 ### [ At least 36 people die during combat between the Transitional Federal Government and Islamist militants in Webho, Somalia. ](/news/2009/06/6/at-least-36-people-die-during-combat-between-the-transitional-federal-government-and-islamist-militants-in-webho-somalia.md)
-_Context: Somalia, Transitional Federal Government, War in Somalia (2009–), militant, radical Islamists_
+_Context: Somalia, Transitional Federal Government, War in Somalia (2009-), militant, radical Islamists_
 
 ### [ Two male bodies and several luggage items are recovered from Air France Flight 447 in the Atlantic Ocean. ](/news/2009/06/6/two-male-bodies-and-several-luggage-items-are-recovered-from-air-france-flight-447-in-the-atlantic-ocean.md)
 _Context: Air France, Atlantic, crash of Air France Flight 447_

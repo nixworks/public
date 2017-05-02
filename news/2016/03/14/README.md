@@ -4,7 +4,7 @@
 Turkey begins operations against PKK Kurdish rebels at home and in Iraq, a day after a suicide car bomb in Ankara killed at least 37 people.
 
 ### [Three Palestinians are shot and killed by Israeli Defence Forces after attempting to run over Israeli soldiers. Multiple guns were found in their car.  ](/news/2016/03/14/three-palestinians-are-shot-and-killed-by-israeli-defence-forces-after-attempting-to-run-over-israeli-soldiers-multiple-guns-were-found-in.md)
-_Context: Israeli, Israeli Defence Forces, Israeli–Palestinian conflict (2015–present), Palestinian_
+_Context: Israeli, Israeli Defence Forces, Israeli-Palestinian conflict (2015-present), Palestinian_
 
 ### [At least nine suspected cartel members are killed in gunfights with government forces during an anti-cartel operation in the city of Reynosa, Mexico. ](/news/2016/03/14/at-least-nine-suspected-cartel-members-are-killed-in-gunfights-with-government-forces-during-an-anti-cartel-operation-in-the-city-of-reynosa.md)
 _Context: Mexican Drug War, Mexico, Reynosa_
@@ -37,7 +37,7 @@ Europe and Russia have launched a joint mission to the Red Planet.
 The NFL, for the first time, acknowledged there is a link between football-related head trauma and chronic traumatic encephalopathy, or CTE.
 
 ### [ The field of 64 teams for the NCAA Tournament is announced. Unbeaten Connecticut is the top overall seed, with Baylor, Notre Dame, and South Carolina rounding out the #1 seeds.](/news/2016/03/14/the-field-of-64-teams-for-the-ncaa-tournament-is-announced-unbeaten-connecticut-is-the-top-overall-seed-with-baylor-notre-dame-and-sout.md)
-_Context: 2015–16 NCAA Division I women's basketball season, 2016 NCAA Women's Division I Basketball Tournament, Baylor, Connecticut, Notre Dame, South Carolina_
+_Context: 2015-16 NCAA Division I women's basketball season, 2016 NCAA Women's Division I Basketball Tournament, Baylor, Connecticut, Notre Dame, South Carolina_
 
 ## [Previous Day...](/news/2016/03/13/index.md)
 

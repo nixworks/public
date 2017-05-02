@@ -7,7 +7,7 @@ _Context: Malietoa Tanumafili II, Samoa_
 _Context: European Union, Kosovo, United Nations, United States_
 
 ### [ Pope Benedict XVI canonizes Brazil's first native-born saint, Frei Galvo, an 18th century Franciscan monk. ](/news/2007/05/11/pope-benedict-xvi-canonizes-brazil-s-first-native-born-saint-frei-galvao-an-18th-century-franciscan-monk.md)
-_Context: 18th century, Benedict XVI, Brazil, Franciscan, Frei Galvão, canonize, monk, saints_
+_Context: 18th century, Benedict XVI, Brazil, Franciscan, Frei Galvo, canonize, monk, saints_
 
 ### [ Officials begin to evacuate Santa Catalina Island, California, as wildfires on the island south of Los Angeles burn out of control. ](/news/2007/05/11/officials-begin-to-evacuate-santa-catalina-island-california-as-wildfires-on-the-island-south-of-los-angeles-burn-out-of-control.md)
 _Context: California, Los Angeles, Santa Catalina Island, California, evacuation centers_

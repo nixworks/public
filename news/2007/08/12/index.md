@@ -55,7 +55,7 @@ _Context: Arctic, Danish, Greenland, Lomonosov Ridge_
 A meeting is beginning in the Indonesian capital, Jakarta, to discuss the re-establishment of an Islamic caliphate.
 
 ### [ Fossilised remains of an ancient cypress forest estimated at 8 million years old are discovered in an open cast coal mine in Bkkbrny, Hungary. ](/news/2007/08/12/fossilised-remains-of-an-ancient-cypress-forest-estimated-at-8-million-years-old-are-discovered-in-an-open-cast-coal-mine-in-bukkabrany-hu.md)
-_Context: Bükkábrány, Hungary, coal mine, cypress, forest, fossil_
+_Context: Bkkbrny, Hungary, coal mine, cypress, forest, fossil_
 
 ### [ Gloria Arroyo, the President of the Philippines, sends the chief of the army Romeo Tolentino to Zamboanga in the southern Philippines to direct operations against militants. ](/news/2007/08/12/gloria-arroyo-the-president-of-the-philippines-sends-the-chief-of-the-army-romeo-tolentino-to-zamboanga-in-the-southern-philippines-to-di.md)
 _Context: Gloria Arroyo, Philippine President, Philippines, Romeo Tolentino, Zamboanga City_

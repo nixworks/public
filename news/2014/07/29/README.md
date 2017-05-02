@@ -7,7 +7,7 @@ _Context: 2014 pro-Russian unrest in Ukraine, Azov Battalion, Dnipropetrovsk, Do
 IDF carries out heaviest strikes to date in northern Gaza. Territory plunged into darkness after power plant hit
 
 ### [Iraqi insurgency (2011-present):An Iraqi Army raid on jihadist targets in a town southwest of Baghdad kills at least 17 people. ](/news/2014/07/29/iraqi-insurgency-2011apresent-pan-iraqi-army-raid-on-jihadist-targets-in-a-town-southwest-of-baghdad-kills-at-least-17-people.md)
-_Context: Baghdad, Iraqi Army, Iraqi insurgency (2011–present)_
+_Context: Baghdad, Iraqi Army, Iraqi insurgency (2011-present)_
 
 ### [Dozens of people are dead after a mob armed with knives rampages through township of Elixku in China's restive Xinjiang region and is met with gunfire. ](/news/2014/07/29/dozens-of-people-are-dead-after-a-mob-armed-with-knives-rampages-through-township-of-elixku-in-china-s-restive-xinjiang-region-and-is-met-wi.md)
 _Context: China, Xinjiang_

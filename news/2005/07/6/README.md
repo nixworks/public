@@ -4,7 +4,7 @@
 _Context: 16 January, 2007, Directive on the patentability of computer-implemented inventions, European Parliament, lobbying_
 
 ### [ Twenty-four people confirmed dead after more than 300 heavily-armed UN troops, assisted by the Haitian National Police, carry out a major pre-dawn military raid in Cit Soleil, one of the poorest communities in Port-au-Prince, Haiti, in what eyewitnesses claim was not a firefight, but a slaughter, using machine guns, tanks, 83-CC grenades, and tear gas. Eyewitnesses reported that when people fled to escape the tear gas, UN troops shot them from behind. The UN military commander, Lieutenant General Augusto Heleno, claimed the operation a success, and that the victims were "outlaws". UN Colonel Morano suggests that ballistics tests be done on the dead. Records from Medicine Without Borders (the single hospital that serves Cit Soleil) show an influx of civilian casualties, starting at 11:00 a.m. on July 6: twenty-six live victims -- 20 of them women or children -- from Cit Soleil suffering mostly from gunshot wounds. ](/news/2005/07/6/twenty-four-people-confirmed-dead-after-more-than-300-heavily-armed-un-troops-assisted-by-the-haitian-national-police-carry-out-a-major-p.md)
-_Context: Cité Soleil, Haiti, July 6, Port-au-Prince, firefight, machine guns, tank, tear gas_
+_Context: Cit Soleil, Haiti, July 6, Port-au-Prince, firefight, machine guns, tank, tear gas_
 
 ### [ ''New York Times'' reporter Judith Miller is jailed for refusing to divulge her source in an investigation around the leak of a CIA operative's name. ](/news/2005/07/6/new-york-times-reporter-judith-miller-is-jailed-for-refusing-to-divulge-her-source-in-an-investigation-around-the-leak-of-a-cia-operati.md)
 _Context: CIA, Judith Miller, New York Times_

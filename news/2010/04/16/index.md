@@ -10,7 +10,7 @@ _Context: an earthquake struck on 14 April_
 The Government is to establish a statutory fund for former residents of institutions.
 
 ### [Israeli-Palestinian conflict:The dismembered corpse of a Palestinian fighter killed by Israeli gunfire in the Gaza Strip is recovered. ](/news/2010/04/16/israeliapalestinian-conflict-pthe-dismembered-corpse-of-a-palestinian-fighter-killed-by-israeli-gunfire-in-the-gaza-strip-is-recovered.md)
-_Context: Gaza Strip, Israel, Israeli–Palestinian conflict, Palestinian_
+_Context: Gaza Strip, Israel, Israeli-Palestinian conflict, Palestinian_
 
 ### [President of Iran Mahmoud Ahmadinejad writes a letter to President of the United States Barack Obama urging cooperation between the two countries. ](/news/2010/04/16/president-of-iran-mahmoud-ahmadinejad-writes-a-letter-to-president-of-the-united-states-barack-obama-urging-cooperation-between-the-two-coun.md)
 _Context: Barack Obama, Iranian President, Mahmoud Ahmadinejad, president_
@@ -52,7 +52,7 @@ _Context: al-Qaeda_
 _Context: Iran, Mohammad Khatami_
 
 ### [The 2010 BRIC summit opens in Brasilia amidst growing cooperation and calls for a bigger role. ](/news/2010/04/16/the-2010-bric-summit-opens-in-brasalia-amidst-growing-cooperation-and-calls-for-a-bigger-role.md)
-_Context: 2010 BRIC summit, Brasília_
+_Context: 2010 BRIC summit, Brasilia_
 
 ### [Senior red-shirt leader Arisman Pongruangrong climbs down a rope to escape an arrest attempt by Thai security forces laying siege to Thaksin Shinawatra's SC Park Hotel in Bangkok. He urges protesters to leave Ratchaprasong "to avoid being used as human shields".  ](/news/2010/04/16/senior-red-shirt-leader-arisman-pongruangrong-climbs-down-a-rope-to-escape-an-arrest-attempt-by-thai-security-forces-laying-siege-to-thaksin.md)
 An anti-government protest leader has evaded arrest in Thailand by scaling down a hotel fa&ccedil;ade with a rope and escaping in a getaway car while &#034;Red Shirt&#034; supporters took two police officers hostage.

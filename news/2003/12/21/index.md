@@ -13,7 +13,7 @@ _Context: 1997, Clarence House, Dodi al Fayed, Mohamed Al-Fayed, Prince Charles,
 _Context: Patriotic Union of Kurdistan, Saddam Hussein, Uday Hussein_
 
 ### [ Retired Gen. Wesley Clark presented 4,000 petition signatures to qualify for South Carolina's Democratic presidential primary ballot today. He's the second of the nine candidates for the Democratic nomination to file for the February 3 ballot. Campaign workers for Sen. John Kerry of Massachusetts gave the state Democratic Party a check for $2,500 last week to qualify.](/news/2003/12/21/retired-gen-wesley-clark-presented-4-000-petition-signatures-to-qualify-for-south-carolina-s-democratic-presidential-primary-ballot-today.md)
-_Context: Democrat, February 3, John Kerry, Massachusetts, South Carolina, Wesley Clark_
+_Context: Democratic, February 3, John Kerry, Massachusetts, South Carolina, Wesley Clark_
 
 ## [Previous Day...](/news/2003/12/20/index.md)
 

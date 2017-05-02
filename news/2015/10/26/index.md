@@ -16,7 +16,7 @@ At least seven civilians, more than 50 Houthi rebels and eight pro-government fi
 Defense Secretary Ash Carter said Friday the U.S. is likely to step up military raids in its campaign against Islamic State.
 
 ### [At least 11 Colombian Army soldiers and one policeman have been killed in an ELN attack in northeast Colombia. ](/news/2015/10/26/at-least-11-colombian-army-soldiers-and-one-policeman-have-been-killed-in-an-eln-attack-in-northeast-colombia.md)
-_Context: Colombia, Colombian Army, Colombian conflict (1964–present), National Liberation Army_
+_Context: Colombia, Colombian Army, Colombian conflict (1964-present), National Liberation Army_
 
 ### [MTN Group is fined $5.2 billion by the Nigerian Communications Commission for failing to disconnect non-registered SIM cards. ](/news/2015/10/26/mtn-group-is-fined-5-2-billion-by-the-nigerian-communications-commission-for-failing-to-disconnect-non-registered-sim-cards.md)
 _Context: MTN Group, Nigerian Communications Commission, SIM_

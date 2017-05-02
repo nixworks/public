@@ -4,7 +4,7 @@
 _Context: Buffalo, James Charles Kopp_
 
 ### [ Josefa Iloilo is restored as President of Fiji by Commodore Frank Bainimarama, leader of the December 2006 coup d'etat. ](/news/2007/01/4/josefa-iloilo-is-restored-as-president-of-fiji-by-commodore-frank-bainimarama-leader-of-the-december-2006-coup-d-a-c-tat.md)
-_Context: 2006 coup d'état, Commodore, Fiji, Josefa Iloilo, President of Fiji, Voreqe Bainimarama_
+_Context: 2006 coup d'etat, Commodore, Fiji, Josefa Iloilo, President of Fiji, Voreqe Bainimarama_
 
 ### [ A Russian Soyuz 2 rocket body re-enters the atmosphere as "space junk", breaking up and disintegrating over Denver, Colorado, and is seen throughout the Rocky Mountains of the United States.  The rocket was used to launch the French CoRoT astronomy satellite on December 27, 2006.  None of the "space junk" fragments are confirmed to have struck Earth. ](/news/2007/01/4/a-russian-soyuz-2-rocket-body-re-enters-the-atmosphere-as-space-junk-breaking-up-and-disintegrating-over-denver-colorado-and-is-seen-t.md)
 _Context: CoRoT, Colorado, December 27, Denver, Rocky Mountains, Soyuz 2, atmosphere, space debris_
@@ -20,7 +20,7 @@ _Context: George W. Bush, Iraq War, John Negroponte, U.S. National Intelligence 
 
 ### [ NASA announces ''](/news/2007/01/4/nasa-announces.md)
 ### [ Keith Ellison, the first Muslim member of the United States Congress and the first African American elected to the House from Minnesota is sworn in using Thomas Jefferson's Qur'an. ](/news/2007/01/4/keith-ellison-the-first-muslim-member-of-the-united-states-congress-and-the-first-african-american-elected-to-the-house-from-minnesota-is.md)
-_Context: Keith Ellison, Minnesota, Qur'an, Thomas Jefferson, U.S. Congress, U.S. House_
+_Context: Keith Ellison, Minnesota, Qur'an, Thomas Jefferson, U.S. Congressional, U.S. House_
 
 ## [Previous Day...](/news/2007/01/3/index.md)
 

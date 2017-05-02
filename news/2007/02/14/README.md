@@ -10,13 +10,13 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Kosovo, Parliament of Serbia, United Nations_
 
 ### [ United States Senate election, 2008: Author and comedian Al Franken announces his candidacy for Senator of Minnesota. ](/news/2007/02/14/united-states-senate-election-2008-author-and-comedian-al-franken-announces-his-candidacy-for-senator-of-minnesota.md)
-_Context: Al Franken, Minnesota, Senator, United States Senate election, 2008, comedian_
+_Context: Al Franken, Minnesota, United States Senate, United States Senate election, 2008, comedian_
 
 ### [ Vodafone's Chief Executive, Arun Sarin, says the company will spend US$2 billion to enhance its investments in India. ](/news/2007/02/14/vodafone-s-chief-executive-arun-sarin-says-the-company-will-spend-us-2-billion-to-enhance-its-investments-in-india.md)
 _Context: Arun Sarin, CEO, India, U.S. dollar, Vodafone Group Plc_
 
 ### [ Mid-February winter storm: A major weather system reaches the Northeastern United States and eastern Canada and hammers the region with snow and ice. The same system is responsible for  severe weather in the Midwest and a tornado in New Orleans, Louisiana. ](/news/2007/02/14/mid-february-winter-storm-a-major-weather-system-reaches-the-northeastern-united-states-and-eastern-canada-and-hammers-the-region-with-sno.md)
-_Context: Canadian, Mid-February winter storm, Midwest, New Orleans, Louisiana, Northeastern United States, snow and ice, tornado, weather system_
+_Context: Canada, Mid-February winter storm, Midwest, New Orleans, Louisiana, Northeastern United States, snow and ice, tornado, weather system_
 
 ### [ Iraq War: Operation Imposing Law: U.S. military spokesman Maj. Gen. William Caldwell announces that Muqtada Al Sadr fled Iraq several weeks ago and is in Iran. ](/news/2007/02/14/iraq-war-p-operation-imposing-law-u-s-military-spokesman-maj-gen-william-caldwell-announces-that-muqtada-al-sadr-fled-iraq-several-week.md)
 French police arrested 11 people suspected of having links to Al Qaeda in a pre-dawn sweep on Wednesday.

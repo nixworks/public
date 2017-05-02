@@ -22,7 +22,7 @@ Former U.S. spy agency contractor Edward Snowden has applied for political asylu
 _Context: Michelle Bachelet, Pablo Longueira, president_
 
 ### [Vitor Gaspar, Minister of Finance of Portugal, resigns due to lack of support and willingness to strengthen austerity measures, prompting a political crisis. The Minister is replaced by Treasury Secretary Maria Luis Albuquerque. ](/news/2013/07/1/vator-gaspar-minister-of-finance-of-portugal-resigns-due-to-lack-of-support-and-willingness-to-strengthen-austerity-measures-prompting-a.md)
-_Context: Maria Luís Albuquerque, Vítor Gaspar_
+_Context: Maria Luis Albuquerque, Vitor Gaspar_
 
 ## [Previous Day...](/news/2013/06/30/index.md)
 

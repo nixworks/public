@@ -46,7 +46,7 @@ President Obama said Friday that he had urged Israeli Prime Minister Benjamin Ne
 _Context: McAllen, Mexico, Reynosa, Tamaulipas, Texas, U.S. border_
 
 ### [Mario Viegas Carrascalao resigns as the Deputy Prime Minister of East Timor leaving the Prime Minister Xanana Gusmao without a majority in the Parliament.  ](/news/2010/09/10/ma-rio-viegas-carrascalapso-resigns-as-the-deputy-prime-minister-of-east-timor-leaving-the-prime-minister-xanana-gusmapso-without-a-majority-i.md)
-_Context: Deputy Prime Minister, East Timor, Mário Viegas Carrascalão, Parliament, Prime Minister of East Timor, Xanana Gusmão_
+_Context: Deputy Prime Minister, East Timor, Mario Viegas Carrascalao, Parliament, Prime Minister of East Timor, Xanana Gusmao_
 
 ## [Previous Day...](/news/2010/09/9/index.md)
 

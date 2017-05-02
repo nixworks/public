@@ -21,7 +21,7 @@ _Context: Congressman, Darfur conflict, Sudan_
 ### [ Around 50,000 people participate in the Puerto Rico Shouts march in San Juan, Puerto Rico, demanding a budget agreement to avert a partial shutdown of government offices and public schools. ](/news/2006/04/28/around-50-000-people-participate-in-the-puerto-rico-shouts-march-in-san-juan-puerto-rico-demanding-a-budget-agreement-to-avert-a-partial.md)
 _Context: Puerto Rico Shouts march, San Juan, Puerto Rico, public schools_
 
-### [ Chung Mong Koo, head of Hyundai Motor Company, is arrested in South Korea on charges of embezzlement of {{Nowrap|100 billion}} won ({{Nowrap|$106 million}} USD), among other corruption charges. ](/news/2006/04/28/chung-mong-koo-head-of-hyundai-motor-company-is-arrested-in-south-korea-on-charges-of-embezzlement-of-nowrap-100-billion-won-nowra.md)
+### [ Chung Mong Koo, head of Hyundai Motor Company, is arrested in South Korea on charges of embezzlement of 100 billion won ($106 million USD), among other corruption charges. ](/news/2006/04/28/chung-mong-koo-head-of-hyundai-motor-company-is-arrested-in-south-korea-on-charges-of-embezzlement-of-100-billion-won-106-million-usd.md)
 _Context: Chung Mong-koo, Hyundai, South Korea, corruption, embezzlement, won_
 
 ### [ In Port Arthur, Tasmania, Australia, memorial services are held to commemorate the tenth anniversary of the Port Arthur massacre, in which a lone gunman murdered 35 people at the popular tourist town in the country's worst killing spree. Prime Minister John Howard led prayers at the service. ](/news/2006/04/28/in-port-arthur-tasmania-australia-memorial-services-are-held-to-commemorate-the-tenth-anniversary-of-the-port-arthur-massacre-in-which.md)

@@ -28,7 +28,7 @@ _Context: Angola, Bolivia, Ethiopia, Italian, Kazakhstan, Malaysia, New Zealand,
 Gambian leader Yahya Jammeh accused West African regional body ECOWAS of declaring war, after it said it was putting forces on alert in case he refused to step down at the end of his mandate this month.
 
 ### [A gunman shoots dead at least 11 people, including his former wife, and then himself in a murder-suicide at a New Year's Eve party in the southeast Brazilian city of Campinas. Several others reportedly remain in critical condition. ](/news/2017/01/1/a-gunman-shoots-dead-at-least-11-people-including-his-former-wife-and-then-himself-in-a-murderasuicide-at-a-new-year-s-eve-party-in-the.md)
-_Context: Campinas, Campinas massacre, New Year's Eve, murder–suicide, southeast Brazilian_
+_Context: Campinas, Campinas massacre, New Year's Eve, murder-suicide, southeast Brazilian_
 
 ### [Spanish and Moroccan authorities clash with migrants on the Moroccan-Spanish border along Ceuta, as they attempt to climb and rush the border fence. ](/news/2017/01/1/spanish-and-moroccan-authorities-clash-with-migrants-on-the-moroccan-spanish-border-along-ceuta-as-they-attempt-to-climb-and-rush-the-borde.md)
 _Context: Ceuta_

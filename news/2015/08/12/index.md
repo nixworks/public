@@ -34,7 +34,7 @@ _Context: Choe Yong-gon, Kim Jong-un, North Korea_
 _Context: Japan, South Korea, World War II, sets herself alight, sex slaves_
 
 ### [Dsi Bouterse is sworn in for a second term as President of Suriname. ](/news/2015/08/12/desi-bouterse-is-sworn-in-for-a-second-term-as-president-of-suriname.md)
-_Context: Dési Bouterse, President of Suriname_
+_Context: Dsi Bouterse, President of Suriname_
 
 ## [Previous Day...](/news/2015/08/11/index.md)
 

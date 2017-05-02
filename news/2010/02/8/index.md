@@ -22,7 +22,7 @@ Shuttle Endeavour lifted off from Florida before dawn Monday, the last scheduled
 _Context: Papua New Guinea, World Health Organisation, a cholera outbreak_
 
 ### [A colony of Galapagos Islands sea lions relocate 1,500 kilometres, the first time they have set up a colony outside the islands. ](/news/2010/02/8/a-colony-of-galapagos-islands-sea-lions-relocate-1-500-kilometres-the-first-time-they-have-set-up-a-colony-outside-the-islands.md)
-_Context: Galápagos Islands, sea lion_
+_Context: Galpagos Islands, sea lion_
 
 ### [The Boeing 747-8 takes its maiden flight, lasting just under four hours.](/news/2010/02/8/the-boeing-747-8-takes-its-maiden-flight-lasting-just-under-four-hours.md)
 _Context: Boeing 747-8, maiden flight_

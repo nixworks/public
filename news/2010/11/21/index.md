@@ -49,7 +49,7 @@ _Context: Jordan, Salt_
 _Context: Iran, two American citizens_
 
 ### [Voters in Burkina Faso go to the polls, with incumbent President Blaise Compaore claiming victory with 75 per cent of the votes.](/news/2010/11/21/voters-in-burkina-faso-go-to-the-polls-with-incumbent-president-blaise-compaora-c-claiming-victory-with-75-per-cent-of-the-votes.md)
-_Context: Blaise Compaoré, Burkina Faso, President_
+_Context: Blaise Compaore, Burkina Faso, President_
 
 ### [Egypt restricts opposition before vote, with security forces arresting hundreds of opposition activists, and clamping down on the media ahead of parliamentary elections next week according to Amnesty International.  ](/news/2010/11/21/egypt-restricts-opposition-before-vote-with-security-forces-arresting-hundreds-of-opposition-activists-and-clamping-down-on-the-media-ahea.md)
 _Context: Amnesty International, Egypt, Egyptian parliamentary elections_

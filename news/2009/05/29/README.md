@@ -25,7 +25,7 @@ _Context: President, Roh Moo-hyun, Seoul, South Korea, state funeral_
 _Context: Computer security, Defense Department, United States, military command_
 
 ### [ Four people are killed when a dam bursts in Piaui, Brazil. ](/news/2009/05/29/four-people-are-killed-when-a-dam-bursts-in-piaua-brazil.md)
-_Context: Brazil, Piauí, dam_
+_Context: Brazil, Piaui, dam_
 
 ### [ The lethal Lujo virus is identified in Africa. ](/news/2009/05/29/the-lethal-lujo-virus-is-identified-in-africa.md)
 _Context: Africa, Lujo, virus_

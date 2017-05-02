@@ -13,7 +13,7 @@ _Context: barrel, crude oil, futures_
 _Context: Islamic Jihad Movement in Palestine, Israel, West Bank, commando, militant_
 
 ### [ Sweden's largest lake, the Vanern, which is also the third largest lake in Europe, will be lowered by 15 centimeters, in order to avoid flooding. ](/news/2008/03/12/swedenas-largest-lake-the-va-nern-which-is-also-the-third-largest-lake-in-europe-will-be-lowered-by-15-centimeters-in-order-to-avoid.md)
-_Context: Europe, Sweden, Vänern, lake_
+_Context: Europe, Sweden, Vanern, lake_
 
 ### [ Southwest Airlines grounds 41 jets after the FAA discovers the airline failed to inspect its Boeing 737s for structural flaws during 2006 and 2007. ](/news/2008/03/12/southwest-airlines-grounds-41-jets-after-the-faa-discovers-the-airline-failed-to-inspect-its-boeing-737s-for-structural-flaws-during-2006-a.md)
 Southwest Airlines Co said on Wednesday it had grounded more than three dozen planes, cutting 4 percent of its scheduled flights, due to another glitch in ensuring safety inspections are completed.

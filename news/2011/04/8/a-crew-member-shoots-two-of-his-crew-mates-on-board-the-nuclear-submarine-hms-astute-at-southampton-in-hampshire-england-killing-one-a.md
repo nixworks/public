@@ -12,7 +12,7 @@ A Royal Navy crewman is killed and another is in a life-threatening condition af
 
 ### Related:
 
-1. [Farnborough Airshow, Hampshire, England:An anti-aircraft laser is unveiled, a first for naval warfare. ](/news/2010/07/19/farnborough-airshow-hampshire-england-pan-anti-aircraft-laser-is-unveiled-a-first-for-naval-warfare.md) _Context: England, Hampshire_
+1. [Farnborough Airshow, An anti-aircraft laser is unveiled, a first for naval warfare. ](/news/2010/07/19/farnborough-airshow-an-anti-aircraft-laser-is-unveiled-a-first-for-naval-warfare.md) _Context: England, Hampshire_
 2. [The Met Office issues travel warnings for parts of Wales, Scotland and England as Storm Doris, described as a "weather bomb", brings gales, heavy rain and snow to the United Kingdom. At least one person is killed. ](/news/2017/02/23/the-met-office-issues-travel-warnings-for-parts-of-wales-scotland-and-england-as-storm-doris-described-as-a-aweather-bomba-brings-gal.md) _Context: England_
 3. [The United Kingdom posthumously pardons around 49,000 gay and bisexual men found guilty of decades-old sodomy laws in England and Wales.  Those still living can apply for a statutory pardon.  ](/news/2017/01/31/the-united-kingdom-posthumously-pardons-around-49-000-gay-and-bisexual-men-found-guilty-of-decades-old-sodomy-laws-in-england-and-wales-th.md) _Context: England_
 4. [As many as 200 prisoners take over parts of HM Prison Bedford in Bedford, England, amid reports of a riot and explosions inside the Category B men's prison. ](/news/2016/11/6/as-many-as-200-prisoners-take-over-parts-of-hm-prison-bedford-in-bedford-england-amid-reports-of-a-riot-and-explosions-inside-the-category.md) _Context: England_

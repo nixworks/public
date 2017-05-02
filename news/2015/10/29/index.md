@@ -1,7 +1,7 @@
 ## [2015-10-29](/news/2015/10/29/index.md)
 
 ### [The death toll from a rocket attack on a camp containing members of an Iranian opposition group next to Baghdad International Airport rises to 23. ](/news/2015/10/29/the-death-toll-from-a-rocket-attack-on-a-camp-containing-members-of-an-iranian-opposition-group-next-to-baghdad-international-airport-rises.md)
-_Context: Baghdad International Airport, Iran, Iraqi Civil War (2014–present)_
+_Context: Baghdad International Airport, Iran, Iraqi Civil War (2014-present)_
 
 ### [Adele's "Hello" beats Miley Cyrus's "Wrecking Ball" as the fastest video on Vevo to reach 100 million views and is also certified as the official Vevo Record holder. ](/news/2015/10/29/adele-s-hello-beats-miley-cyrus-s-wrecking-ball-as-the-fastest-video-on-vevo-to-reach-100-million-views-and-is-also-certified-as-the-off.md)
 _Context: Adele, Hello, Miley Cyrus, Vevo, Vevo Record, Wrecking Ball_
@@ -40,7 +40,7 @@ _Context: African Union, Nigeria, Olusegun Obasanjo, South Sudan, South Sudanese
 Edward Snowden might set up residence in any of nearly 30 European nations after their governing body passed a resolution to protect the whistleblower.
 
 ### [As a result of talks between U.S. Chief of Naval Operations Admiral John Richardson and Chinese Commander of the People's Liberation Army Navy Admiral Wu Shengli about a U.S. warship's transit with 12 nautical miles of China's man-made islands in the South China Sea, the United States and China agree to maintain dialogue and follow Code for Unplanned Encounters at Sea protocols, according to a U.S. official. ](/news/2015/10/29/as-a-result-of-talks-between-u-s-chief-of-naval-operations-admiral-john-richardson-and-chinese-commander-of-the-people-s-liberation-army-na.md)
-_Context: Admiral John M. Richardson, Admiral Wu Shengli, China, China–United States relations, Code for Unplanned Encounters at Sea, People's Liberation Army Navy, South China Sea, United States, United States Chief of Naval Operations, disputed, man-made islands_
+_Context: Admiral John M. Richardson, Admiral Wu Shengli, China, China-United States relations, Code for Unplanned Encounters at Sea, People's Liberation Army Navy, South China Sea, United States, United States Chief of Naval Operations, disputed, man-made islands_
 
 ### [Lockheed Martin vice president of air and missile defense Mike Trotsky tells the National Press Club in Washington, D.C., that the United States and South Korea are holding both formal and informal discussions on THAAD (Terminal High Altitude Area Defense System) deployment. South Korea's Defense Ministry and the U.S. Department of Defense deny the report. ](/news/2015/10/29/lockheed-martin-vice-president-of-air-and-missile-defense-mike-trotsky-tells-the-national-press-club-in-washington-d-c-that-the-united-st.md)
 _Context: Defense Department, Lockheed Martin, Ministry of National Defense, National Press Club, South Korea, THAAD, United States, Washington, D.C._
@@ -61,7 +61,7 @@ WASHINGTON — The US House passed a multiyear budget deal, deemed favorable to 
 _Context: John Boehner, Ohio, Paul Ryan, Speaker of the United States House of Representatives, Speaker of the United States House of Representatives election, October 2015_
 
 ### [The Parliament of Moldova passes a no-confidence vote against pro-EU incumbent prime-minister Valeriu Strelet's cabinet amidst growing political turmoil in the country. ](/news/2015/10/29/the-parliament-of-moldova-passes-a-no-confidence-vote-against-pro-eu-incumbent-prime-minister-valeriu-strelee-s-cabinet-amidst-growing-poli.md)
-_Context: Moldovan Prime Minister, Parliament, Valeriu Streleț, cabinet, no-confidence_
+_Context: Moldovan Prime Minister, Parliament, Valeriu Strelet, cabinet, no-confidence_
 
 ### [Astronaut Scott Kelly sets another record; this time for the single-longest spaceflight (216 days) by an American. His ISS year long mission is a scientific research project to study the health effects of long term spaceflight. Astronaut Michael Lopez-Alegria spent 215 consecutive days as Expedition 14 commander in 2006. Both are nowhere close to Valeri Polyakovs 437 days record. ](/news/2015/10/29/astronaut-scott-kelly-sets-another-record-this-time-for-the-single-longest-spaceflight-216-days-by-an-american-his-iss-year-long-mission.md)
 Scott Kelly has officially spent more time in space than any other American.

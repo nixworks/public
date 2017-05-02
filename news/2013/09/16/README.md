@@ -31,7 +31,7 @@ Four of the largest chocolate producers in Canada have agreed to pay more than $
 _Context: Paul Kagame, President, Rwanda, Rwandan Patriotic Front, parliamentary election_
 
 ### [Bombardier's CS100 successfully completes its first test flight out of Montreal-Mirabel International Airport. ](/news/2013/09/16/bombardier-s-cs100-successfully-completes-its-first-test-flight-out-of-montra-c-al-mirabel-international-airport.md)
-_Context: CS100, Montréal-Mirabel International Airport_
+_Context: CS100, Montreal-Mirabel International Airport_
 
 ### [In association football, the coach and eight players with Southern Stars FC are arrested in relation to matchfixing in Australia's Victorian Premier League. ](/news/2013/09/16/in-association-football-the-coach-and-eight-players-with-southern-stars-fc-are-arrested-in-relation-to-matchfixing-in-australia-s-victorian.md)
 _Context: Australia, Southern Stars FC, Victorian Premier League, association football_

@@ -22,7 +22,7 @@ GOHEUNG, South Jeolla Province _ South Korea bumbled its way into the Asian spac
 _Context: Barack Obama, Ben Bernanke, Chairman of the Federal Reserve, Federal Reserve_
 
 ### [ A bomb in Afghanistan kills four American soldiers, making 2009 the deadliest year for foreign troops since the 2001 invasion. ](/news/2009/08/25/a-bomb-in-afghanistan-kills-four-american-soldiers-making-2009-the-deadliest-year-for-foreign-troops-since-the-2001-invasion.md)
-_Context: Afghanistan, USA, War in Afghanistan (2001â€“present)_
+_Context: Afghanistan, USA, War in Afghanistan (2001-present)_
 
 ### [ A gas explosion at a coal mine in Shanxi, China, kills at least 14 people. ](/news/2009/08/25/a-gas-explosion-at-a-coal-mine-in-shanxi-china-kills-at-least-14-people.md)
 _Context: China, Shanxi province_
@@ -37,7 +37,7 @@ A car bomb has ripped through a restaurant packed with government officials, inj
 &lt;div>Iraq and Syria recalled their envoys Tuesday, deepening a diplomatic crisis sparked by Iraqi accusations that Damascus is sheltering insurgents who orchestrated massive truck bombings in Baghdad.&nbsp;The flare-up threw into disarray extensive efforts made in the past year to boost ties between the countries, which had been weak under former Iraqi dictator Saddam Hussein but had recently been improving.&lt;/div>
 
 ### [ Venezuelan President Hugo Chavez announces plans to break off diplomatic relations with Colombia over the neighboring country's plan to allow U.S. troops access to its military bases. ](/news/2009/08/25/venezuelan-president-hugo-chavez-announces-plans-to-break-off-diplomatic-relations-with-colombia-over-the-neighboring-country-s-plan-to-all.md)
-_Context: Colombia, Hugo Chávez, U.S., Venezuela_
+_Context: Colombia, Hugo Chvez, U.S., Venezuela_
 
 ### [ The Morris Fire begins near Morris Dam in the Angeles National Forest. This fire is thought to have been caused by arson and is the first in a series of wildfires to burn through Southern California in 2009.](/news/2009/08/25/the-morris-fire-begins-near-morris-dam-in-the-angeles-national-forest-this-fire-is-thought-to-have-been-caused-by-arson-and-is-the-first-i.md)
 _Context: Angeles National Forest, wildfires_

@@ -7,9 +7,9 @@ _Context: Abu Sayyaf, Jemaah Islamiyah, Malaysian, Philippines, Umbra Jumdail, Z
 _Context: Yemen_
 
 ### [The Mexican Army sends 4,000 soldiers to Michoacn state as a result of recent violence. ](/news/2012/02/2/the-mexican-army-sends-4-000-soldiers-to-michoacan-state-as-a-result-of-recent-violence.md)
-_Context: Mexican Army, Michoacán_
+_Context: Mexican Army, Michoacn_
 
-### [The ferry {{MV|Rabaul Queen}} sinks off the coast of Papua New Guinea near the Finschhafen District, with an estimated 350 people on board. Nearby commercial ships rescue 238 people from the sea. ](/news/2012/02/2/the-ferry-mv-rabaul-queen-sinks-off-the-coast-of-papua-new-guinea-near-the-finschhafen-district-with-an-estimated-350-people-on-board.md)
+### [The ferry Rabaul Queen sinks off the coast of Papua New Guinea near the Finschhafen District, with an estimated 350 people on board. Nearby commercial ships rescue 238 people from the sea. ](/news/2012/02/2/the-ferry-rabaul-queen-sinks-off-the-coast-of-papua-new-guinea-near-the-finschhafen-district-with-an-estimated-350-people-on-board-nearby.md)
 More than 100 people are missing and about 230 are rescued after a ferry sinks off the north coast of Papua New Guinea.
 
 ### [More than 110 people are killed across Europe as a result of a recent cold snap. ](/news/2012/02/2/more-than-110-people-are-killed-across-europe-as-a-result-of-a-recent-cold-snap.md)

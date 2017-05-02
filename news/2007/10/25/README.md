@@ -1,7 +1,7 @@
 ## [2007-10-25](/news/2007/10/25/index.md)
 
 ### [ Supporters of a U.S. congressional resolution condemning the Armenian genocide drop calls for a vote. ](/news/2007/10/25/supporters-of-a-u-s-congressional-resolution-condemning-the-armenian-genocide-drop-calls-for-a-vote.md)
-_Context: U.S. Congress, genocide of Armenians_
+_Context: U.S. Congressional, genocide of Armenians_
 
 ### [ The death toll from the California wildfires of October 2007 rises to 12 as four bodies are discovered near the Mexican border. ](/news/2007/10/25/the-death-toll-from-the-california-wildfires-of-october-2007-rises-to-12-as-four-bodies-are-discovered-near-the-mexican-border.md)
 American border patrol agents discovered four charred bodies in rugged mountains near the Mexican border, bringing the probable death toll from California&#039;s bushfires to 12, even as firefighters gained the upper hand in their five-day battle.
@@ -9,7 +9,7 @@ American border patrol agents discovered four charred bodies in rugged mountains
 ### [ Ehud Barak, the Defense Minister of Israel, approves a plan to cut off supplies of electricity to the Gaza Strip which has been recently declared as "hostile territory". ](/news/2007/10/25/ehud-barak-the-defense-minister-of-israel-approves-a-plan-to-cut-off-supplies-of-electricity-to-the-gaza-strip-which-has-been-recently-de.md)
 _Context: Ehud Barak, Gaza Strip, Israel_
 
-### [ 30 killed in a powerful explosion near the police lines in Mingora in Swat, Pakistan.{{Fact|date=December 2007}}](/news/2007/10/25/30-killed-in-a-powerful-explosion-near-the-police-lines-in-mingora-in-swat-pakistan-fact-date-december-2007.md)
+### [ 30 killed in a powerful explosion near the police lines in Mingora in Swat, Pakistan.date=December 2007](/news/2007/10/25/30-killed-in-a-powerful-explosion-near-the-police-lines-in-mingora-in-swat-pakistan-date-december-2007.md)
 _Context: Pakistan, Swat, Pakistan_
 
 ### [ The United States imposes economic sanctions against the Iranian Revolutionary Guard for its support of terrorism. ](/news/2007/10/25/the-united-states-imposes-economic-sanctions-against-the-iranian-revolutionary-guard-for-its-support-of-terrorism.md)
@@ -28,7 +28,7 @@ A magnitude 7.1 earthquake has jolted the Indian Ocean off Indonesia&#039;s Suma
 _Context: Tokelauan self-determination referendum_
 
 ### [ EasyJet announce their intentions to purchase British Airways franchise GB Airways for 103.5 million](/news/2007/10/25/easyjet-announce-their-intentions-to-purchase-british-airways-franchise-gb-airways-for-ps103-5-million.md)
-_Context: British Airways, EasyJet, £_
+_Context: , British Airways, EasyJet_
 
 ## [Previous Day...](/news/2007/10/24/index.md)
 

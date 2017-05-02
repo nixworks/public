@@ -28,7 +28,7 @@ _Context: France, PS, legislative election_
 _Context: England national football team, Kiev, Sweden, The Football Association, UEFA_
 
 ### [In tennis, David Nalbandian is disqualified from the final of the 2012 AEGON Championships after kicking an advertising board into the left shin of a line judge, seriously injuring him; his opponent, Marin Cilic, who was trailing Nalbandian at the time, is awarded the title and Nalbandian stands to lose the prize money he would have received for finishing as runner-up. ](/news/2012/06/17/in-tennis-david-nalbandian-is-disqualified-from-the-final-of-the-2012-aegon-championships-after-kicking-an-advertising-board-into-the-left.md)
-_Context: 2012 AEGON Championships, David Nalbandian, Marin Čilić, tennis_
+_Context: 2012 AEGON Championships, David Nalbandian, Marin Cilic, tennis_
 
 ### [In golf, American Webb Simpson wins the U.S. Open. ](/news/2012/06/17/in-golf-american-webb-simpson-wins-the-u-s-open.md)
 _Context: American, U.S. Open, Webb Simpson_

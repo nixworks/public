@@ -22,7 +22,7 @@ Barry Bonds was charged Thursday with perjury and obstruction of justice, the cu
 _Context: Iran, White House, nuclear scientist_
 
 ### [ The Supreme Court of Canada denies asylum to Jeremy Hinzman and Brandon Hughey, two United States soldiers who deserted the Iraq War. ](/news/2007/11/15/the-supreme-court-of-canada-denies-asylum-to-jeremy-hinzman-and-brandon-hughey-two-united-states-soldiers-who-deserted-the-iraq-war.md)
-_Context: AWOL, Brandon Hughey, Canadian, Iraq War, Jeremy Hinzman, Supreme Court of Canada, United States, asylum_
+_Context: AWOL, Brandon Hughey, Canada, Iraq War, Jeremy Hinzman, Supreme Court of Canada, United States, asylum_
 
 ### [ Iraqi insurgency: The United States Army announces it has killed 25 insurgents in Taji, but the Taji Awakening Council says airstrikes killed 45 pro-U.S. fighters. ](/news/2007/11/15/iraqi-insurgency-the-united-states-army-announces-it-has-killed-25-insurgents-in-taji-but-the-taji-awakening-council-says-airstrikes-kill.md)
 _Context: Iraqi insurgency, Taji, Taji Awakening Council, United States, United States Army, airstrike_
@@ -43,7 +43,7 @@ _Context: Florida, Mark Dean Schwab, United States, United States Supreme Court,
 _Context: 2007 Antofagasta earthquake, Chile, Michelle Bachelet, President, aftershock_
 
 ### [ United Nations human rights envoy Paulo Sergio Pinheiro visits political prisoners, including Su Su Nway, in Burma's Insein Prison. ](/news/2007/11/15/united-nations-human-rights-envoy-paulo-sergio-pinheiro-visits-political-prisoners-including-su-su-nway-in-burma-s-insein-prison.md)
-_Context: Burma, Human rights, Insein Prison, Paulo Sérgio Pinheiro, Su Su Nway, United Nations, political prisoner_
+_Context: Burma, Human rights, Insein Prison, Paulo Srgio Pinheiro, Su Su Nway, United Nations, political prisoner_
 
 ### [ Rift Valley fever kills at least 96 people in the White Nile, Sennar and Gazeera states of Sudan. ](/news/2007/11/15/rift-valley-fever-kills-at-least-96-people-in-the-white-nile-sennar-and-gazeera-states-of-sudan.md)
 _Context: Gazeera, Rift Valley Fever, Sennar, Sudan, White Nile_

@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ Dalia Grybauskaite is elected as the first female President of Lithuania. ](/news/2009/05/18/dalia-grybauskaita-is-elected-as-the-first-female-president-of-lithuania.md) _Context: Dalia Grybauskaitė, Lithuania_
+1. [ Dalia Grybauskaite is elected as the first female President of Lithuania. ](/news/2009/05/18/dalia-grybauskaita-is-elected-as-the-first-female-president-of-lithuania.md) _Context: Dalia Grybauskaite, Lithuania_
 2. [Russia deploys its S-400 missile system in Kaliningrad, an exclave between Poland and Lithuania, in response to "NATO expansion" near its borders. The United States criticizes the move as "destabilizing" to Europe. Russia announced the planned deployment over a decade ago. ](/news/2016/11/21/russia-deploys-its-s-400-missile-system-in-kaliningrad-an-exclave-between-poland-and-lithuania-in-response-to-nato-expansion-near-its-bo.md) _Context: Lithuania_
 3. [Voters in Lithuania vote to elect representatives for the 141-seat parliament. ](/news/2016/10/9/voters-in-lithuania-vote-to-elect-representatives-for-the-141-seat-parliament.md) _Context: Lithuania_
 4. [Russian President Vladimir Putin deploys the nuclear-capable Iskander mobile short-range ballistic missile system to the Russian Kaliningrad exclave between Poland and Lithuania. ](/news/2016/10/8/russian-president-vladimir-putin-deploys-the-nuclear-capable-iskander-mobile-short-range-ballistic-missile-system-to-the-russian-kaliningrad.md) _Context: Lithuania_

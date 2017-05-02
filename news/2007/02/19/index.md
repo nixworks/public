@@ -10,7 +10,7 @@ _Context: Caserma Ederle, Italian, Protest, United States Army, Vicenza, militar
 _Context: Czech, INF Treaty, Poland, Russia, U.S., eastern Europe, missile interceptor_
 
 ### [ Colombian foreign minister Mara Consuelo Arajo resigns days after the arrest of her brother, Senator lvaro Arajo, in the country's ongoing para-political scandal.  President lvaro Uribe Vlez appoints Fernando Arajo as the new Minister. ](/news/2007/02/19/colombian-foreign-minister-maria-consuelo-araujo-resigns-days-after-the-arrest-of-her-brother-senator-alvaro-araujo-in-the-country-s-ongo.md)
-_Context: Colombia, Colombian President, Fernando Araújo, María Consuelo Araújo, Senate, para-political scandal, Álvaro Araújo, Álvaro Uribe Vélez_
+_Context: Colombia, Colombian President, Fernando Arajo, Mara Consuelo Arajo, Senate, lvaro Arajo, lvaro Uribe Vlez, para-political scandal_
 
 ### [ Also in Colombia the Nevado del Huila, the country's highest volcano, has showed increasing seismic activity including a cloud of ash. A high state of alert is in place for 4 departments. ](/news/2007/02/19/also-in-colombia-the-nevado-del-huila-the-country-s-highest-volcano-has-showed-increasing-seismic-activity-including-a-cloud-of-ash-a-hi.md)
 _Context: Colombia, Nevado del Huila_

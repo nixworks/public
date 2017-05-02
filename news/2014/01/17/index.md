@@ -1,7 +1,7 @@
 ## [2014-01-17](/news/2014/01/17/index.md)
 
 ### [2013-14 Thai political crisis:An explosion rocks the protests in Bangkok resulting in dozens of injuries. ](/news/2014/01/17/2013a14-thai-political-crisis-pan-explosion-rocks-the-protests-in-bangkok-resulting-in-dozens-of-injuries.md)
-_Context: 2013–14 Thai political crisis, Bangkok_
+_Context: 2013-14 Thai political crisis, Bangkok_
 
 ### [At least three people are killed and fifteen are injured after an explosion in a passenger train travelling from Peshawar to Karachi. ](/news/2014/01/17/at-least-three-people-are-killed-and-fifteen-are-injured-after-an-explosion-in-a-passenger-train-travelling-from-peshawar-to-karachi.md)
 At least three persons were killed and 15 others injured today when a blast hit a passenger train, derailing its seven coaches in central Pakistan. The blast derailed coaches of the Khushhal Khan Khattak Express train, two of which were overturned,

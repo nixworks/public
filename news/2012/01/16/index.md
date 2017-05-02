@@ -1,7 +1,7 @@
 ## [2012-01-16](/news/2012/01/16/index.md)
 
 ### [Romanian protests: Demonstrations continue for the fifth consecutive day against president Traian Basescu and the Emil Boc government in more than 60 cities across the country. ](/news/2012/01/16/romanian-protests-demonstrations-continue-for-the-fifth-consecutive-day-against-president-traian-basescu-and-the-emil-boc-government-in-mo.md)
-_Context: Emil Boc, Traian Băsescu, major social and political unrest_
+_Context: Emil Boc, Traian Basescu, major social and political unrest_
 
 ### [John Burnside wins the T. S. Eliot Prize. ](/news/2012/01/16/john-burnside-wins-the-t-s-eliot-prize.md)
 _Context: John Burnside, T. S. Eliot Prize_
@@ -22,7 +22,7 @@ Seán Quinn who was declared bankrupt by the High Court today has accused IBRC, 
 Labour MEP Proinsias De Rossa is to step down from the European Parliament next month.
 
 ### [The English Wikipedia will be shut down on Wednesday in protest against anti-piracy legislation proposed by the United States Congress. ](/news/2012/01/16/the-english-wikipedia-will-be-shut-down-on-wednesday-in-protest-against-anti-piracy-legislation-proposed-by-the-united-states-congress.md)
-_Context: English Wikipedia, SOPA, U.S. Congress_
+_Context: English Wikipedia, SOPA, U.S. Congressional_
 
 ## [Previous Day...](/news/2012/01/15/index.md)
 

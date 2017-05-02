@@ -1,10 +1,10 @@
 ## [2012-05-11](/news/2012/05/11/index.md)
 
-### [Syrian uprising: the death toll of the May 10 Damascus double bombing reaches 55, with as many as 370 reportedly injured. Syrian authorities claim that over {{convert|1000|kg|lb}} of explosives were used in the attacks. ](/news/2012/05/11/syrian-uprising-the-death-toll-of-the-may-10-damascus-double-bombing-reaches-55-with-as-many-as-370-reportedly-injured-syrian-authorities.md)
+### [Syrian uprising: the death toll of the May 10 Damascus double bombing reaches 55, with as many as 370 reportedly injured. Syrian authorities claim that over 1000|kg|lb of explosives were used in the attacks. ](/news/2012/05/11/syrian-uprising-the-death-toll-of-the-may-10-damascus-double-bombing-reaches-55-with-as-many-as-370-reportedly-injured-syrian-authorities.md)
 _Context: Damascus, Syrian uprising (2011-present), double bombing_
 
 ### [Mexican Drug War: Gunmen open fire on an ''El Maana'' newspaper office in the border city of Nuevo Laredo, shortly after drug-related massacres in the city. ](/news/2012/05/11/mexican-drug-war-gunmen-open-fire-on-an-el-manana-newspaper-office-in-the-border-city-of-nuevo-laredo-shortly-after-drug-related-massa.md)
-_Context: El Mañana, Mexican Drug War, Nuevo Laredo, much of the violence_
+_Context: El Maana, Mexican Drug War, Nuevo Laredo, much of the violence_
 
 ### [The United States Armed Forces are embroiled in controversy over a defunct officer training course called ''Perspectives on Islam and Islamic Radicalism'', which taught that Islam is America's irreconcilable enemy. ](/news/2012/05/11/the-united-states-armed-forces-are-embroiled-in-controversy-over-a-defunct-officer-training-course-called-perspectives-on-islam-and-islami.md)
 _Context: Islam, U.S. military personnel_
@@ -24,7 +24,7 @@ _Context: Jennifer Hudson, United States_
 ### [At the Leveson Inquiry into British media practices, former News International chief executive Rebekah Brooks discloses an email that appears to show that Britain's Culture Secretary, Jeremy Hunt, sought advice from News International over how Downing Street should respond to the News of the World phone hacking scandal. ](/news/2012/05/11/at-the-leveson-inquiry-into-british-media-practices-former-news-international-chief-executive-rebekah-brooks-discloses-an-email-that-appear.md)
 _Context: Jeremy Hunt, Leveson Inquiry, News International, Rebekah Brooks, Secretary of State for Culture, Media and Sport, phone hacking_
 
-### [Chinese scientists use quantum teleportation to transmit photons over a distance of {{convert|97|km|mi}} &ndash; a world record for quantum teleportation. ](/news/2012/05/11/chinese-scientists-use-quantum-teleportation-to-transmit-photons-over-a-distance-of-convert-97-km-mi-ndash-a-world-record-for-quantum.md)
+### [Chinese scientists use quantum teleportation to transmit photons over a distance of 97|km|mi &ndash; a world record for quantum teleportation. ](/news/2012/05/11/chinese-scientists-use-quantum-teleportation-to-transmit-photons-over-a-distance-of-97-km-mi-ndash-a-world-record-for-quantum-teleportatio.md)
 _Context: China, photon, quantum teleportation_
 
 ### [A panel of American health experts recommends formal approval of the Truvada anti-HIV drug for prescription to non-infected men who have sex with multiple male partners, a decision opposed by some health workers and groups active among those with HIV. ](/news/2012/05/11/a-panel-of-american-health-experts-recommends-formal-approval-of-the-truvada-anti-hiv-drug-for-prescription-to-non-infected-men-who-have-sex.md)

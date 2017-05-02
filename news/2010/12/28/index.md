@@ -40,7 +40,7 @@ _Context: New Orleans, homeless people_
 _Context: IC3_
 
 ### [The leaders of Benin, Cape Verde and Sierra Leone arrive in Cote d'Ivoire to urge Laurent Gbagbo to resign as President. ](/news/2010/12/28/the-leaders-of-benin-cape-verde-and-sierra-leone-arrive-in-ca-te-d-ivoire-to-urge-laurent-gbagbo-to-resign-as-president.md)
-_Context: Beninese, Cape Verde, Côte d'Ivoire, Laurent Gbagbo, President, Sierra Leone_
+_Context: Beninese, Cape Verde, Cote d'Ivoire, Laurent Gbagbo, President, Sierra Leone_
 
 ### [Spain and Russia each expel two diplomats on suspicion of spying in a tit-for-tat row. ](/news/2010/12/28/spain-and-russia-each-expel-two-diplomats-on-suspicion-of-spying-in-a-tit-for-tat-row.md)
 _Context: Russia, Spain_

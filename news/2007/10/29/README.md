@@ -24,11 +24,11 @@ _Context: Azerbaijan, Baku, UK, embassies_
 ### [ People's Republic of China: The Central Committee of the Communist Party of China announces that new Politburo Standing Committee member Li Keqiang has left his post as party secretary of Liaoning and is succeeded by Liaoning Governor Zhang Wenyue. ](/news/2007/10/29/people-s-republic-of-china-p-the-central-committee-of-the-communist-party-of-china-announces-that-new-politburo-standing-committee-member-l.md)
 Regulators hailed the arrests, made during a nationwide crackdown on tainted food, drugs and agricultural products, as a major step forward for consumer safety.
 
-### [ An earthquake with magnitude of five on Richter scale shakes central Nepal.{{Fact|date=December 2007}}](/news/2007/10/29/an-earthquake-with-magnitude-of-five-on-richter-scale-shakes-central-nepal-fact-date-december-2007.md)
+### [ An earthquake with magnitude of five on Richter scale shakes central Nepal.date=December 2007](/news/2007/10/29/an-earthquake-with-magnitude-of-five-on-richter-scale-shakes-central-nepal-date-december-2007.md)
 _Context: Nepal, Richter scale, earthquake, magnitude_
 
 ### [ All banks and post offices in Borlnge, Sweden, are kept closed by the local police due to an "elevated risk level of bank robbery". ](/news/2007/10/29/all-banks-and-post-offices-in-borlange-sweden-are-kept-closed-by-the-local-police-due-to-an-elevated-risk-level-of-bank-robbery.md)
-_Context: Borlänge, Sweden, bank robbery_
+_Context: Borlnge, Sweden, bank robbery_
 
 ### [ Kasereka Kabamba, a Mai Mai militia leader in the Democratic Republic of the Congo, surrenders to Nord-Kivu Army Chief Vainqueur Mayala. Kabamba maintains his forces fought against rebels loyal to Laurent Kabila, in the service of the government. ](/news/2007/10/29/kasereka-kabamba-a-mai-mai-militia-leader-in-the-democratic-republic-of-the-congo-surrenders-to-nord-kivu-army-chief-vainqueur-mayala-ka.md)
 _Context: Democratic Republic of the Congo, Kasereka Kabamba, Laurent Kabila, Mai Mai, Nord-Kivu_

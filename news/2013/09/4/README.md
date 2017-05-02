@@ -10,7 +10,7 @@ _Context: Spring High School, Spring, Texas, stabbing_
 Day one of EuroBasket is in the books and there were plenty of upsets — Germany (without Dirk Nowitzki) beat a France team with Tony Parker, Boris Diaw and other stars. There was Italy over Russia,…
 
 ### [Al-Shorta SC win the 2012-13 Iraqi Premier League by defeating Al-Talaba SC 3-0 on the last day of the season. ](/news/2013/09/4/al-shorta-sc-win-the-2012a13-iraqi-premier-league-by-defeating-al-talaba-sc-3-0-on-the-last-day-of-the-season.md)
-_Context: 2012–13 Iraqi Premier League, Al-Shorta SC, Al-Talaba SC_
+_Context: 2012-13 Iraqi Premier League, Al-Shorta SC, Al-Talaba SC_
 
 ## [Previous Day...](/news/2013/09/3/index.md)
 

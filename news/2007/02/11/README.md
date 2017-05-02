@@ -13,19 +13,19 @@ _Context: British Academy of Film and Television Arts, Dame Helen Mirren, Forest
 _Context: 2007, American Idol, American Music, Billboard Music, Carrie Underwood, Dixie Chicks, Grammy Award, Grammy Awards, Mary J. Blige, Record of the Year, Song of the Year_
 
 ### [ Portugal votes on an abortion referendum which  despite failing due to low turnout, has a clear result in favor of legalizing abortion, prompting Portuguese Prime Minister Jose Socrates to say abortion will be legalized through the parliament. ](/news/2007/02/11/portugal-votes-on-an-abortion-referendum-which-despite-failing-due-to-low-turnout-has-a-clear-result-in-favor-of-legalizing-abortion-pro.md)
-_Context: José Sócrates, Portuguese, Portuguese Prime Minister, abortion, abortion law, parliament, referendum_
+_Context: Jose Socrates, Portuguese, Portuguese Prime Minister, abortion, abortion law, parliament, referendum_
 
 ### [ Islamist insurgency in Somalia: An explosion at a ceremony in Kismayo kills at least four people and injures 24 others, including senior military officers and regional leaders. General Abdi Mahdi, the recently appointed Somali military chief, is among the injured. ](/news/2007/02/11/islamist-insurgency-in-somalia-p-an-explosion-at-a-ceremony-in-kismayo-kills-at-least-four-people-and-injures-24-others-including-senior-m.md)
 _Context:  Insurgency in Somalia, Abdi Mahdi, Kismayo_
 
 ### [ Two people die in protests in Pristina, Kosovo over a United Nations plan for the future of the Serbian province. ](/news/2007/02/11/two-people-die-in-protests-in-pria-tina-kosovo-over-a-united-nations-plan-for-the-future-of-the-serbian-province.md)
-_Context: Kosovo, Priština, Serbia, United Nations_
+_Context: Kosovo, Pristina, Serbia, United Nations_
 
 ### [ Iran: The U. S. military accuses the government of Iran of supplying sophisticated roadside bombs to insurgents in Iraq. ](/news/2007/02/11/iran-p-the-u-s-military-accuses-the-government-of-iran-of-supplying-sophisticated-roadside-bombs-to-insurgents-in-iraq.md)
 _Context: Iran, Iranian government, Iraq, Iraqi insurgency, military, sophisticated roadside bombs_
 
 ### [ U. S. Senator Barack Obama (D-IL) following a political rally in Ames, Iowa, regretted saying the lives of military personnel had been "wasted." ](/news/2007/02/11/u-s-senator-barack-obama-d-il-following-a-political-rally-in-ames-iowa-regretted-saying-the-lives-of-military-personnel-had-been-was.md)
-_Context: Ames, Barack Obama, Democrat, Illinois, Senator, military personnel_
+_Context: Ames, Barack Obama, Democratic, Illinois, United States Senate, military personnel_
 
 ### [ Voters in Turkmenistan vote in their first presidential election to select a successor to former President of Turkmenistan Saparmurat Niyazov. Interim leader Gurbanguly Berdimuhamedow is widely expected to win the election. ](/news/2007/02/11/voters-in-turkmenistan-vote-in-their-first-presidential-election-to-select-a-successor-to-former-president-of-turkmenistan-saparmurat-niyaz.md)
 _Context: Gurbanguly Berdimuhamedow, Saparmurat Niyazov, Turkmenistan, first presidential election, president_

@@ -16,7 +16,7 @@ The head of Cologne’s police force has been suspended from his post as anger c
 The notorious Mexican drug lord Joaquin “El Chapo” Guzman has been arrested after his scandalous prison break last year, the Mexican president announced, praising the success of a months-long criminal and intelligence investigation.
 
 ### [Dragan Vasiljkovic, a former Serbian paramilitary commander, is charged with war crimes in Croatia. ](/news/2016/01/8/dragan-vasiljkovia-a-former-serbian-paramilitary-commander-is-charged-with-war-crimes-in-croatia.md)
-_Context: Croatia, Dragan Vasiljković, Serbian_
+_Context: Croatia, Dragan Vasiljkovic, Serbian_
 
 ## [Previous Day...](/news/2016/01/7/index.md)
 

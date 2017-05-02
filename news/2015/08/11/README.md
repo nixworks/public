@@ -28,7 +28,7 @@ Georgia Tuesday accused Russia of cutting off its citizens from their farmland b
 _Context: Puyallup, Washington_
 
 ### [The Parliament of Iraq approves a package of measures proposed by Prime Minister Haider al-Abadi to tackle corruption and to abolish senior posts. ](/news/2015/08/11/the-parliament-of-iraq-approves-a-package-of-measures-proposed-by-prime-minister-haider-al-abadi-to-tackle-corruption-and-to-abolish-senior.md)
-_Context: Haider al-Abadi, Iraq Prime Minister, Iraq’s parliament_
+_Context: Haider al-Abadi, Iraq Prime Minister, Iraq's parliament_
 
 ## [Previous Day...](/news/2015/08/10/index.md)
 

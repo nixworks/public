@@ -4,7 +4,7 @@
 _Context: Devon, Exeter, caesarean section_
 
 ### [ In Canada, rain begins to pound the province of Alberta starting an almost 3-week flooding crisis in the province.](/news/2005/06/8/in-canada-rain-begins-to-pound-the-province-of-alberta-starting-an-almost-3-week-flooding-crisis-in-the-province.md)
-_Context: Alberta, Canadian_
+_Context: Alberta, Canada_
 
 ### [ The infection source of Norway's recent outbreak of Legionnaire's Disease is surprisingly found to have been an industrial purification installation known as a scrubber, a device which cleans air using water. Reportedly, such facilities have never before caused a Legionnaire's outbreak anywhere in the world. Ten people have been killed, and 52 infected, in the outbreak, which is Norway's largest ever. ](/news/2005/06/8/the-infection-source-of-norway-s-recent-outbreak-of-legionnaire-s-disease-is-surprisingly-found-to-have-been-an-industrial-purification-ins.md)
 _Context: Legionellosis, Norway, scrubber_
@@ -22,7 +22,7 @@ _Context: Philippines_
 _Context: 2005 elections, Addis Ababa, EPRDF, Ethiopia_
 
 ### [ The European Commission and its president Jos Manuel Barroso survive the no confidence vote ](/news/2005/06/8/the-european-commission-and-its-president-jose-manuel-barroso-survive-the-no-confidence-vote.md)
-_Context: European Commission, José Manuel Barroso, no-confidence vote_
+_Context: European Commission, Jos Manuel Barroso, no-confidence vote_
 
 ### [ HealthSouth and the U.S. Securities and Exchange Commission reach a settlement. The company will pay $100 million to put the SEC investigation behind it.](/news/2005/06/8/healthsouth-and-the-u-s-securities-and-exchange-commission-reach-a-settlement-the-company-will-pay-100-million-to-put-the-sec-investigat.md)
 _Context: HealthSouth, SEC_

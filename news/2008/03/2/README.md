@@ -4,7 +4,7 @@
 _Context: A319, Germany, Hamburg, Lufthansa_
 
 ### [ South American diplomatic crisis: President Hugo Chvez orders the closure of the Venezuelan embassy in Colombia and moves ten battalions to the Colombian-Venezuelan border in response to the killing of FARC leader Ral Reyes in Ecuador by Colombian armed forces the previous day. Rafael Correa, the President of Ecuador, orders troops to the Colombian border. The Colombian government accuses Correa of having "a relationship and commitments" with FARC. ](/news/2008/03/2/south-american-diplomatic-crisis-president-hugo-chavez-orders-the-closure-of-the-venezuelan-embassy-in-colombia-and-moves-ten-battalions-t.md)
-_Context: Colombia, Ecuador, Hugo Chávez, President, Rafael Correa, Raul Reyes, Revolutionary Armed Forces of Colombia, South American diplomatic crisis, Venezuela, Venezuelan President, battalion_
+_Context: Colombia, Ecuador, Hugo Chvez, President, Rafael Correa, Raul Reyes, Revolutionary Armed Forces of Colombia, South American diplomatic crisis, Venezuela, Venezuelan President, battalion_
 
 ### [ Two bombings in quick succession hit a Russian police convoy in the town of Khasavyurt in the Republic of Dagestan. ](/news/2008/03/2/two-bombings-in-quick-succession-hit-a-russian-police-convoy-in-the-town-of-khasavyurt-in-the-republic-of-dagestan.md)
 Two bombings hit a police convoy Sunday in a town in southern Russia near Chechnya, leaving an unspecified number of dead and injured.

@@ -13,7 +13,7 @@ _Context: China's, Chinese Foreign Ministry spokesperson, East Turkestan Islamic
 U.S. forces raided the Iranian consulate in the mainly Kurdish city of Erbil in northern Iraq before dawn today.
 
 ### [ Underground tunnel of the future Pinheiros Subway Station, in Sao Paulo collapses, opening a huge crater and making a large number of vehicles falling into.](/news/2007/01/12/underground-tunnel-of-the-future-pinheiros-subway-station-in-sapso-paulo-collapses-opening-a-huge-crater-and-making-a-large-number-of-vehi.md)
-_Context: Pinheiros Subway Station, São Paulo, Underground tunnel_
+_Context: Pinheiros Subway Station, Sao Paulo, Underground tunnel_
 
 ### [ Fakhruddin Ahmed becomes the new Chief Advisor in Bangladesh amid the current political crisis. ](/news/2007/01/12/fakhruddin-ahmed-becomes-the-new-chief-advisor-in-bangladesh-amid-the-current-political-crisis.md)
 _Context: Bangladesh, Fakhruddin Ahmed, current political crisis_
@@ -25,7 +25,7 @@ _Context: Embassy of the United States in Athens, fire an anti-tank missile_
 _Context: Islamic Courts Union, Ras Kamboni, capture_
 
 ### [ An Argentinian judge issues an arrest warrant for former president Isabel Martinez de Peron, implicated in the disappearance of a human-rights activist in 1976. Peron has been living in Spain since 1981. ](/news/2007/01/12/an-argentinian-judge-issues-an-arrest-warrant-for-former-president-isabel-martanez-de-pera3n-implicated-in-the-disappearance-of-a-human-r.md)
-_Context: 1976, 1981, Argentina, Isabel Martínez de Perón, Spain_
+_Context: 1976, 1981, Argentina, Isabel Martinez de Peron, Spain_
 
 ### [ ''''Casino Royale'''' and ''''The Queen'''' lead this year's BAFTA film award nominations. ](/news/2007/01/12/casino-royale-and-the-queen-lead-this-year-s-bafta-film-award-nominations.md)
 _Context: ''Casino Royale'', BAFTA, The Queen_

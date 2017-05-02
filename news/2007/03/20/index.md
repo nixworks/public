@@ -19,7 +19,7 @@ _Context: Bob Woolmer, Cricket, Jamaica, Pakistan, murder_
 _Context: Pakistan, South Waziristan, Uzbek_
 
 ### [ Britain releases a school uniform policy allowing schools to ban the niqab or full-face veil for girls. ](/news/2007/03/20/britain-releases-a-school-uniform-policy-allowing-schools-to-ban-the-niqab-or-full-face-veil-for-girls.md)
-_Context: United Kingdom, girl, niqāb, school, school uniform, veil_
+_Context: United Kingdom, girl, niqab, school, school uniform, veil_
 
 ### [ Up to 65 people die as a truck overturns on a bridge near Gueckedou, Guinea. ](/news/2007/03/20/up-to-65-people-die-as-a-truck-overturns-on-a-bridge-near-gueckedou-guinea.md)
 _Context: Gueckedou, Guinea, bridge, truck_

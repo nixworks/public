@@ -7,7 +7,7 @@ _Context: Lebanese Army, Lebanon, Syria, Wadi Khaled_
 The brother of Gabriel Garcia Marquez says the Colombian writer and Nobel laureate is suffering from dementia and has stopped writing.
 
 ### [The 2012 World Karl Popper Debate Championships are held in Leon, Mexico from 2 to 6 July. The results, announced on the WKPDC official website on 7 July, declare Pakistan the winner of the championship and Zainab Hameed best speaker and debater.](/news/2012/07/7/the-2012-world-karl-popper-debate-championships-are-held-in-lea3n-mexico-from-2-to-6-july-the-results-announced-on-the-wkpdc-official-web.md)
-_Context: León, Mexico, Pakistan, World Karl Popper Debate Championships, Zainab Hameed_
+_Context: Leon, Mexico, Pakistan, World Karl Popper Debate Championships, Zainab Hameed_
 
 ### [More than 140 people are killed after torrential rains leading to heavy floods sweep through parts of the south Russian Krasnodar region. ](/news/2012/07/7/more-than-140-people-are-killed-after-torrential-rains-leading-to-heavy-floods-sweep-through-parts-of-the-south-russian-krasnodar-region.md)
 More than 144 people have been killed as flash floods swept through parts of the Krasnodar region in southern Russia, officials say.
@@ -25,7 +25,7 @@ A severe flood warning remains in place for part of south-west England, followin
 Classification, allowing Kabul to buy advanced US weaponry, announced as Afghan donors gather for conference in Japan.
 
 ### [Cuban leader Raul Castro makes his first visit to Beijing since succeeding Fidel Castro in 2008; trade deals are signed between China and Cuba. ](/news/2012/07/7/cuban-leader-raaol-castro-makes-his-first-visit-to-beijing-since-succeeding-fidel-castro-in-2008-trade-deals-are-signed-between-china-and-c.md)
-_Context: Beijing, Fidel Castro, Raúl Castro_
+_Context: Beijing, Fidel Castro, Raul Castro_
 
 ### [A 22-year-old woman is arrested in east London in connection with an ongoing counter-terrorism operation. ](/news/2012/07/7/a-22-year-old-woman-is-arrested-in-east-london-in-connection-with-an-ongoing-counter-terrorism-operation.md)
 A 22-year-old woman is arrested in east London in connection with a counter-terrorism operation, which saw six people detained on Thursday.

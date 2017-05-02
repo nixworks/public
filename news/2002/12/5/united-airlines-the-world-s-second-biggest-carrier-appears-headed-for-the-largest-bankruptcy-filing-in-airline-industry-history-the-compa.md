@@ -1,6 +1,6 @@
 ### [2002-12-5](/news/2002/12/5/index.md)
 
-# United Airlines, the world's second-biggest carrier, appears headed for the largest bankruptcy filing in airline industry history. The company's efforts  to avoid a Chapter 11 filing apparently ended Wednesday when a government board rejected its bid for {{Nowrap|$1.8 billion}} in federal loan guarantees.
+# United Airlines, the world's second-biggest carrier, appears headed for the largest bankruptcy filing in airline industry history. The company's efforts  to avoid a Chapter 11 filing apparently ended Wednesday when a government board rejected its bid for $1.8 billion in federal loan guarantees.
 
 
 

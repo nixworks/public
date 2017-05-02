@@ -7,7 +7,7 @@ _Context: Gaza, Israel, Israeli-Palestinian conflict, Operation Summer Rains_
 By Reason Of Insanity; Will Be Committed To State Mental Hospital
 
 ### [ The governments of Chad and Sudan sign an accord officially ending the Chadian-Sudanese conflict. The deal has many provisions similar to that of the Tripoli Accord, which Sudan has violated four times by aiding Janjaweed, UFDC, and anti-Boziz rebels and genocidaires. ](/news/2006/07/26/the-governments-of-chad-and-sudan-sign-an-accord-officially-ending-the-chadian-sudanese-conflict-the-deal-has-many-provisions-similar-to-t.md)
-_Context: Bozizé, Chadian-Sudanese conflict, Janjaweed, Tripoli Accord, UFDC, government, second Déby administration_
+_Context: Boziz, Chadian-Sudanese conflict, Janjaweed, Tripoli Accord, UFDC, government, second Dby administration_
 
 ### [ Germany and 11 other nations, including Israel, sign a protocol to open the International Tracing Service in Bad Arolsen in the state of Hesse up to international researchers. It contains up to 50 million documents relating to 17.5 million individuals. ](/news/2006/07/26/germany-and-11-other-nations-including-israel-sign-a-protocol-to-open-the-international-tracing-service-in-bad-arolsen-in-the-state-of-he.md)
 _Context: Bad Arolsen, Germany, Hesse, International Tracing Service, Israel_

@@ -43,10 +43,10 @@ Heavy snow hits Paris, briefly closing Charles de Gaulle airport and bringing bu
 Websites of Mastercard, a Swiss bank and Swedish prosecutor shut down in response to latest action against WikiLeaks.
 
 ### [Israeli-Palestinian conflict:Palestinian leader Mahmoud Abbas says Middle East peace talks are in crisis following Israel's refusal to stop building in settlements. ](/news/2010/12/8/israeliapalestinian-conflict-ppalestinian-leader-mahmoud-abbas-says-middle-east-peace-talks-are-in-crisis-following-israel-s-refusal-to-st.md)
-_Context: Israel, Israeli settlement, Israeli–Palestinian conflict, Mahmoud Abbas, Palestinian National Authority, resume negotiations_
+_Context: Israel, Israeli settlement, Israeli-Palestinian conflict, Mahmoud Abbas, Palestinian National Authority, resume negotiations_
 
 ### [Liberian President Ellen Johnson Sirleaf warns former rebel fighters not to get involved in the crisis in Cote d'Ivoire. ](/news/2010/12/8/liberian-president-ellen-johnson-sirleaf-warns-former-rebel-fighters-not-to-get-involved-in-the-crisis-in-ca-te-d-ivoire.md)
-_Context: Côte d'Ivoire, Ellen Johnson Sirleaf, Liberia_
+_Context: Cote d'Ivoire, Ellen Johnson Sirleaf, Liberia_
 
 ### [Former U.S. vice-president Dick Cheney is charged over a bribery scheme involving oil services company Halliburton by Nigeria's anti-corruption agency. The charges relate to when he was the company's top executive. ](/news/2010/12/8/former-u-s-vice-president-dick-cheney-is-charged-over-a-bribery-scheme-involving-oil-services-company-halliburton-by-nigeria-s-anti-corrupt.md)
 It stems from a case involving Halliburton during the time the former US vice-president was its chief executive.
