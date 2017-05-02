@@ -15,7 +15,7 @@ North Korea accuses the United States of pushing the Korean peninsula to the bri
 ### [Saudi Arabia announces the arrest of 46 of what it describes as militants connected with the summer 2016 suicide bombing of Al-Masjid an-Nabawi in Medina.  ](/news/2017/05/1/saudi-arabia-announces-the-arrest-of-46-of-what-it-describes-as-militants-connected-with-the-summer-2016-suicide-bombing-of-al-masjid-an-nab.md)
 _Context: Al-Masjid an-Nabawi, Medina, Saudi Arabia_
 
-### [A stabbing leaves one dead and three injured at the University of Texas at Austin. ](/news/2017/05/1/a-stabbing-leaves-one-dead-and-three-injured-at-the-university-of-texas-at-austin.md)
+### [A knife attack leaves one dead and three injured at the University of Texas at Austin. ](/news/2017/05/1/a-knife-attack-leaves-one-dead-and-three-injured-at-the-university-of-texas-at-austin.md)
 _Context: University of Texas at Austin_
 
 ## [Previous Day...](/news/2017/04/30/index.md)
