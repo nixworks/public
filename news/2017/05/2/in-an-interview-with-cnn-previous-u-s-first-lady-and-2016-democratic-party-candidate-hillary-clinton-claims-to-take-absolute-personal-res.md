@@ -1,6 +1,6 @@
 ### [2017-05-2](/news/2017/05/2/index.md)
 
-# In an interview with CNN, previous U.S. First Lady and 2016 Democratic Party candidate Hillary Clinton claims to take "absolute personal responsibility" for her loss, while she seems to contradict herself by also blaming FBI Director James Comey and Russian interference. 
+# In an interview with CNN, previous U.S. First Lady and 2016 Democratic Party candidate Hillary Clinton claims to take "absolute personal responsibility" for her loss, while she seems to contradict herself by also blaming FBI Director James Comey and alleged Russian interference. 
 
 
 

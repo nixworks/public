@@ -45,12 +45,13 @@ The Austrian parliament passes a controversial new law restricting asylum rights
 ### [The Taliban's Qatar office confirms its leaders are in Pakistan to talk about Afghan refugees and the release of prisoners.  The  representative did not say if the delegation will discuss the peace process.  ](/news/2016/04/27/the-taliban-s-qatar-office-confirms-its-leaders-are-in-pakistan-to-talk-about-afghan-refugees-and-the-release-of-prisoners-the-representa.md)
 Share this on WhatsApp
 
-### [United Nations Security Council members are considering a draft resolution that would  restore the UN mission in Western Sahara to full functionality. Last month, Morocco  expelled 75 UN staffers. ](/news/2016/04/27/united-nations-security-council-members-are-considering-a-draft-resolution-that-would-restore-the-un-mission-in-western-sahara-to-full-func.md)
+### [United Nations Security Council members are considering a draft resolution that would restore the UN mission in Western Sahara to full functionality. Last month, Morocco  expelled 75 UN staffers. ](/news/2016/04/27/united-nations-security-council-members-are-considering-a-draft-resolution-that-would-restore-the-un-mission-in-western-sahara-to-full-funct.md)
 _Context: MINURSO, Moroccan, United Nations Security Council_
 
 ### [Senior Kurdish and Shi'ite Muslim leaders agree to withdraw from  Tuz Khurmato, Iraq, where recent violence has killed more than 10 people. ](/news/2016/04/27/senior-kurdish-and-shi-ite-muslim-leaders-agree-to-withdraw-from-tuz-khurmato-iraq-where-recent-violence-has-killed-more-than-10-people.md)
 _Context: Iraq, Iraqi Civil War, Iraqi Kurdistan, Shi'ite, Tuz Khurmato_
 
+### [Kaitlyn and Hunter get caught committing sexual activities in a high school bathroom!!](/news/2016/04/27/kaitlyn-and-hunter-get-caught-committing-sexual-activities-in-a-high-school-bathroom.md)
 ### [Two days before the one-year anniversary of the execution of Andrew Chan and Myuran Sukumaran, the ringleaders of the Bali Nine, member Michael Czugaj is discovered to be in possession of drugs in prison. ](/news/2016/04/27/two-days-before-the-one-year-anniversary-of-the-execution-of-andrew-chan-and-myuran-sukumaran-the-ringleaders-of-the-bali-nine-member-mich.md)
 _Context: Andrew Chan, Bali Nine, Michael Czugaj, Myuran Sukumaran_
 
@@ -76,7 +77,7 @@ An Iranian asylum seeker being held on Nauru is in a critical condition after se
 North Korea announces it will hold a Workers Party congress next month, the first for the ruling party in nearly 40 years.
 
 ### [Texas Senator Ted Cruz names former Republican presidential candidate Carly Fiorina as his vice-presidential running mate. ](/news/2016/04/27/texas-senator-ted-cruz-names-former-republican-presidential-candidate-carly-fiorina-as-his-vice-presidential-running-mate.md)
-_Context: 2016 U.S. presidential election, Carly Fiorina, Republican, Ted Cruz, Ted Cruz presidential campaign, 2016, Texas, United States Senate, presidential candidate_
+_Context: Carly Fiorina, Republican, Ted Cruz, Ted Cruz presidential campaign, 2016, Texas, United States Senate, United States presidential election, 2016, presidential candidate_
 
 ### [Bradford West MP Naz Shah is suspended from the opposition Labour Party over comments she made on Facebook about Israel. ](/news/2016/04/27/bradford-west-mp-naz-shah-is-suspended-from-the-opposition-labour-party-over-comments-she-made-on-facebook-about-israel.md)
 Labour suspends MP Naz Shah over a Facebook post suggesting Israel should be moved to America.
