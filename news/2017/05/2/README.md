@@ -6,8 +6,8 @@ Many civilians are among more than 30 people killed in the incident near the Ira
 ### [  North Korea vows to accelerate its nuclear weapons programme to "maximum pace" and test a nuclear device "at any time" in response to U.S. President Donald Trump's aggressive stance towards the regime. ](/news/2017/05/2/north-korea-vows-to-accelerate-its-nuclear-weapons-programme-to-amaximum-pacea-and-test-a-nuclear-device-aat-any-timea-in-response.md)
 Tensions high as US forces in South Korea announce activation of missile defence system while Kim regime condemns ‘aggression and hysteria’
 
-### [Far-right candidate Marine le Pen is accused of allegedly plagiarising a speech by Francois Fillon. ](/news/2017/05/2/far-right-candidate-marine-le-pen-is-accused-of-allegedly-plagiarising-a-speech-by-francois-fillon.md)
-_Context: Francois Fillon, French presidential election, 2017, Marine le Pen, plagiarising_
+### [Far-right candidate Marine Le Pen is accused of plagiarising a speech by Francois Fillon. ](/news/2017/05/2/far-right-candidate-marine-le-pen-is-accused-of-plagiarising-a-speech-by-franassois-fillon.md)
+_Context: Francois Fillon, French presidential election, 2017, Marine Le Pen, plagiarising_
 
 ### [ Czech Prime Minister Bohuslav Sobotka has announced that he will submit his government's resignation because of a disagreement with Finance Minister Andrej Babis. ](/news/2017/05/2/czech-prime-minister-bohuslav-sobotka-has-announced-that-he-will-submit-his-government-s-resignation-because-of-a-disagreement-with-finance.md)
 PM Bohuslav Sobotka says he and his cabinet will leave office over a spat with the finance minister.
@@ -15,8 +15,8 @@ PM Bohuslav Sobotka says he and his cabinet will leave office over a spat with t
 ### [Philippine vice president Leni Robredo faces an impeachment charge before the House of Representatives for condemning the Philippine Drug War at the United Nations. ](/news/2017/05/2/philippine-vice-president-leni-robredo-faces-an-impeachment-charge-before-the-house-of-representatives-for-condemning-the-philippine-drug-wa.md)
 An impeachment complaint is set to be filed against Vice President Leni Robredo before the House of Representatives on Tuesday afternoon, according to reports. 
 
-### [In an event for women, previous U.S. First Lady Hillary Clinton blames FBI director James Comey for her loss. ](/news/2017/05/2/in-an-event-for-women-previous-u-s-first-lady-hillary-clinton-blames-fbi-director-james-comey-for-her-loss.md)
-_Context: FBI, Hillary Clinton, James Comey, U.S. First Lady, United States presidential election, 2016_
+### [In an interview with CNN, previous U.S. First Lady and 2016 Democratic Party candidate Hillary Clinton claims to take "absolute personal responsibility" for her loss, while she seems to contradict herself by also blaming FBI Director James Comey and Russian interference. ](/news/2017/05/2/in-an-interview-with-cnn-previous-u-s-first-lady-and-2016-democratic-party-candidate-hillary-clinton-claims-to-take-absolute-personal-res.md)
+_Context: CNN, Hillary Clinton, James Comey, U.S. First Lady, United States presidential election, 2016_
 
 ## [Previous Day...](/news/2017/05/1/index.md)
 
