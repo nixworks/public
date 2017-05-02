@@ -1,6 +1,6 @@
 ### [2017-05-1](/news/2017/05/1/index.md)
 
-# A stabbing leaves one dead and three injured at the University of Texas at Austin 
+# A stabbing leaves one dead and three injured at the University of Texas at Austin. 
 
 
 
