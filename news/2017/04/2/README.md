@@ -9,7 +9,7 @@ Norte editor tells readers the paper is closing because the safety of reporters 
 ### [The death toll from Cyclone Debbie and the associated flooding in the Australian states of New South Wales and Queensland rises to five people. ](/news/2017/04/2/the-death-toll-from-cyclone-debbie-and-the-associated-flooding-in-the-australian-states-of-new-south-wales-and-queensland-rises-to-five-peop.md)
 JUSTIN Roser couldn’t save his dad, but he knows he would be proud of him.
 
-### [A bus carrying around 50 schoolchildren rolls over on a highway south of Sveg in the northern region of Harjedalen, Sweden, killing three people. ](/news/2017/04/2/a-bus-carrying-around-50-schoolchildren-rolls-over-on-a-highway-south-of-sveg-in-the-northern-region-of-ha-rjedalen-sweden-killing-three-p.md)
+### [A bus carrying around 50 school children rolls over on a highway south of Sveg in the northern region of Harjedalen, Sweden, killing three people. ](/news/2017/04/2/a-bus-carrying-around-50-school-children-rolls-over-on-a-highway-south-of-sveg-in-the-northern-region-of-ha-rjedalen-sweden-killing-three.md)
 Three people were killed when a bus carrying around 50 school children and a few adults rolled over on a road in northern Sweden on Sunday, news agency TT said.
 
 ### [An attack occurs at a Sufi shrine near Sargodha, Pakistan, killing more than 20 people. Authorities arrest a main suspect and several others. ](/news/2017/04/2/an-attack-occurs-at-a-sufi-shrine-near-sargodha-pakistan-killing-more-than-20-people-authorities-arrest-a-main-suspect-and-several-others.md)
