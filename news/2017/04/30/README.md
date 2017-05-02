@@ -21,5 +21,8 @@ U.S. House and Senate negotiators reached a bipartisan deal on a $1.16 trillion 
 ### [Zoologists led by the University of Papua announce the first sighting of a pack of New Guinea highland wild dogs in the wild of New Guinea, near the Grasberg mine, in over four decades. ](/news/2017/04/30/zoologists-led-by-the-university-of-papua-announce-the-first-sighting-of-a-pack-of-new-guinea-highland-wild-dogs-in-the-wild-of-new-guinea.md)
 Scientists confirm the existence of one of the world&#039;s most ancient and primitive dog species.
 
+### [Sodimejo, an Indonesian man who made an unverified claim to have been born in 1870, which would have made him 146 years old, has died. ](/news/2017/04/30/sodimejo-an-indonesian-man-who-made-an-unverified-claim-to-have-been-born-in-1870-which-would-have-made-him-146-years-old-has-died.md)
+_Context: Sodimejo_
+
 ## [Previous Day...](/news/2017/04/29/index.md)
 

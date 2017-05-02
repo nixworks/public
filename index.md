@@ -1,19 +1,22 @@
 ## [News](/news/2017/05/1/index.md)
 
-### [Workers' Party of Belgium representative Raoul Hedebouw gets stabbed in the thigh, moments before holding a speech in Lige, Belgium. The presumed assailant is arrested.  ](/news/2017/05/1/workers-party-of-belgium-representative-raoul-hedebouw-gets-stabbed-in-the-thigh-moments-before-holding-a-speech-in-liege-belgium-the-pr.md)
+### [Workers' Party of Belgium representative Raoul Hedebouw gets stabbed in the thigh, moments before holding a speech in Liege, Belgium. The presumed assailant is arrested.  ](/news/2017/05/1/workers-party-of-belgium-representative-raoul-hedebouw-gets-stabbed-in-the-thigh-moments-before-holding-a-speech-in-lia-ge-belgium-the-p.md)
 Police in Istanbul fired tear gas and rubber bullets to break up a group of May Day demonstrators on Monday, a Reuters witness said, as authorities detained more than 200 people at protests around the city.
+
+### [A series of earthquakes, the largest registering 6.3, strike near Mosquito Lake, Alaska, near the Alaskan border with British Columbia, Canada. At least one office building and two schools were heavily damaged and evacuated in the Yukon. ](/news/2017/05/1/a-series-of-earthquakes-the-largest-registering-6-3-strike-near-mosquito-lake-alaska-near-the-alaskan-border-with-british-columbia-cana.md)
+A magnitude-6.3 aftershock has shaken British Columbia near the boundary with Alaska, nearly two hours after a 6.2 earthquake hit the same area.
+
+### [Severe clear-air turbulence on an Aeroflot flight from Sheremetyevo International Airport, Moscow to Suvarnabhumi Airport, Bangkok, subjects 27 passengers to injuries including bone fractures. ](/news/2017/05/1/severe-clear-air-turbulence-on-an-aeroflot-flight-from-sheremetyevo-international-airport-moscow-to-suvarnabhumi-airport-bangkok-subjects.md)
+_Context: Aeroflot, Bangkok, Moscow, Sheremetyevo International Airport, Suvarnabhumi Airport, bone fracture, clear-air turbulence_
+
+### [Two Rockwell B-1B Lancer heavy bombers are flown over the Korean Peninsula by the United States, leading North Korea to accuse the US of preparing for nuclear warfare. ](/news/2017/05/1/two-rockwell-b-1b-lancer-heavy-bombers-are-flown-over-the-korean-peninsula-by-the-united-states-leading-north-korea-to-accuse-the-us-of-pre.md)
+North Korea accuses the United States of pushing the Korean peninsula to the brink of nuclear war.
 
 ### [Saudi Arabia announces the arrest of 46 of what it describes as militants connected with the summer 2016 suicide bombing of Al-Masjid an-Nabawi in Medina.  ](/news/2017/05/1/saudi-arabia-announces-the-arrest-of-46-of-what-it-describes-as-militants-connected-with-the-summer-2016-suicide-bombing-of-al-masjid-an-nab.md)
 _Context: Al-Masjid an-Nabawi, Medina, Saudi Arabia_
 
 ### [A stabbing leaves one dead and three injured at the University of Texas at Austin. ](/news/2017/05/1/a-stabbing-leaves-one-dead-and-three-injured-at-the-university-of-texas-at-austin.md)
 _Context: University of Texas at Austin_
-
-### [A series of earthquakes, the largest registering 6.3, strike near Mosquito Lake, Alaska, near the Alaskan border with British Columbia, Canada. At least one office building and two schools were heavily damaged and evacuated in the Yukon. ](/news/2017/05/1/a-series-of-earthquakes-the-largest-registering-6-3-strike-near-mosquito-lake-alaska-near-the-alaskan-border-with-british-columbia-cana.md)
-A magnitude-6.3 aftershock has shaken British Columbia near the boundary with Alaska, nearly two hours after a 6.2 earthquake hit the same area.
-
-### [French riot police clash with protesters ahead of the French presidential election. ](/news/2017/05/1/french-riot-police-clash-with-protesters-ahead-of-the-french-presidential-election.md)
-Riot police have clashed with protesters as thousands of people joined protests in Paris ahead of the French presidential election. Security officials were forced to protect themselves from flames as the marches turned ugly on Monday afternoon. Tear gas was fired at groups of youths, while pictures from the scene showed broken glass and burning shopping trolleys.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -43,6 +46,9 @@ U.S. House and Senate negotiators reached a bipartisan deal on a $1.16 trillion 
 
 ### [Zoologists led by the University of Papua announce the first sighting of a pack of New Guinea highland wild dogs in the wild of New Guinea, near the Grasberg mine, in over four decades. ](/news/2017/04/30/zoologists-led-by-the-university-of-papua-announce-the-first-sighting-of-a-pack-of-new-guinea-highland-wild-dogs-in-the-wild-of-new-guinea.md)
 Scientists confirm the existence of one of the world&#039;s most ancient and primitive dog species.
+
+### [Sodimejo, an Indonesian man who made an unverified claim to have been born in 1870, which would have made him 146 years old, has died. ](/news/2017/04/30/sodimejo-an-indonesian-man-who-made-an-unverified-claim-to-have-been-born-in-1870-which-would-have-made-him-146-years-old-has-died.md)
+_Context: Sodimejo_
 
 ---
 
