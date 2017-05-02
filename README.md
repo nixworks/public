@@ -1,6 +1,6 @@
 ## [News](/news/2017/05/2/index.md)
 
-### [Philippine vice president Leni Robredo faces an impeachment bid for condemning the Philippine Drug War at the United Nations. ](/news/2017/05/2/philippine-vice-president-leni-robredo-faces-an-impeachment-bid-for-condemning-the-philippine-drug-war-at-the-united-nations.md)
+### [Philippine vice president Leni Robredo faces an impeachment charge before the House of Representatives for condemning the Philippine Drug War at the United Nations. ](/news/2017/05/2/philippine-vice-president-leni-robredo-faces-an-impeachment-charge-before-the-house-of-representatives-for-condemning-the-philippine-drug-wa.md)
 An impeachment complaint is set to be filed against Vice President Leni Robredo before the House of Representatives on Tuesday afternoon, according to reports. 
 
 ## Opinion
