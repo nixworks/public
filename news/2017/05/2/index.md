@@ -1,5 +1,8 @@
 ## [2017-05-2](/news/2017/05/2/index.md)
 
+### [According to the Syrian Observatory for Human Rights, at least 38 people are killed, including civilians and Syrian Democratic Forces fighters, after ISIL militants attack a camp for displaced Syrian and Iraqi refugees near Al-Shaddadah, Al-Hasakah Governorate. ](/news/2017/05/2/according-to-the-syrian-observatory-for-human-rights-at-least-38-people-are-killed-including-civilians-and-syrian-democratic-forces-fighte.md)
+Many civilians are among more than 30 people killed in the incident near the Iraqi border.
+
 ### [ Czech Prime Minister Bohuslav Sobotka has announced that he will submit his government's resignation because of a disagreement with Finance Minister Andrej Babis. ](/news/2017/05/2/czech-prime-minister-bohuslav-sobotka-has-announced-that-he-will-submit-his-government-s-resignation-because-of-a-disagreement-with-finance.md)
 PM Bohuslav Sobotka says he and his cabinet will leave office over a spat with the finance minister.
 
