@@ -1,5 +1,8 @@
 ## [2017-05-3](/news/2017/05/3/index.md)
 
+### [WhatsApp is down Aproximately since 04:00 PM EDT the WhatsApp Services went down and as of now haven't been restablished.](/news/2017/05/3/whatsapp-is-downp-aproximately-since-04-00-pm-edt-the-whatsapp-services-went-down-and-as-of-now-haven-t-been-restablished.md)
+Chaos is among us all. 
+
 ### [A suicide bombing attack on a NATO convoy in Kabul kills eight civilians and wounds at least 28 people. ](/news/2017/05/3/a-suicide-bombing-attack-on-a-nato-convoy-in-kabul-kills-eight-civilians-and-wounds-at-least-28-people.md)
 A suicide bombing in the Afghan capital Kabul on Wednesday killed eight people and wounded at least 28, officials said, in an attack on a convoy of armored personnel carriers used by the NATO-led Resolute Support mission.
 
