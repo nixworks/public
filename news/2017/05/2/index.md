@@ -6,7 +6,7 @@ Many civilians are among more than 30 people killed in the incident near the Ira
 ### [  North Korea vows to accelerate its nuclear weapons programme to "maximum pace" and test a nuclear device "at any time" in response to U.S. President Donald Trump's aggressive stance towards the regime. ](/news/2017/05/2/north-korea-vows-to-accelerate-its-nuclear-weapons-programme-to-amaximum-pacea-and-test-a-nuclear-device-aat-any-timea-in-response.md)
 Tensions high as US forces in South Korea announce activation of missile defence system while Kim regime condemns ‘aggression and hysteria’
 
-### [Conservative leader Theresa May states she will be a "bloody, difficult woman" in her negotiations with Jean-Claude Juncker regarding the rights of EU nationals after Brexit. ](/news/2017/05/2/conservative-leader-theresa-may-states-she-will-be-a-bloody-difficult-woman-in-her-negotiations-with-jean-claude-juncker-regarding-the-ri.md)
+### [Conservative leader Theresa May states she will be a "bloody difficult woman" in her negotiations with Jean-Claude Juncker regarding the rights of EU nationals after Brexit. ](/news/2017/05/2/conservative-leader-theresa-may-states-she-will-be-a-bloody-difficult-woman-in-her-negotiations-with-jean-claude-juncker-regarding-the-rig.md)
 Theresa May responds to claims she clashed with the EU Commission chief over Brexit.
 
 ### [Far-right candidate Marine Le Pen is accused of plagiarising a speech by Francois Fillon. ](/news/2017/05/2/far-right-candidate-marine-le-pen-is-accused-of-plagiarising-a-speech-by-franassois-fillon.md)

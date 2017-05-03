@@ -45,13 +45,12 @@ The Austrian parliament passes a controversial new law restricting asylum rights
 ### [The Taliban's Qatar office confirms its leaders are in Pakistan to talk about Afghan refugees and the release of prisoners.  The  representative did not say if the delegation will discuss the peace process.  ](/news/2016/04/27/the-taliban-s-qatar-office-confirms-its-leaders-are-in-pakistan-to-talk-about-afghan-refugees-and-the-release-of-prisoners-the-representa.md)
 Share this on WhatsApp
 
-### [United Nations Security Council members are considering a draft resolution that would restore the UN mission in Western Sahara to full functionality. Last month, Morocco  expelled 75 UN staffers. ](/news/2016/04/27/united-nations-security-council-members-are-considering-a-draft-resolution-that-would-restore-the-un-mission-in-western-sahara-to-full-funct.md)
+### [United Nations Security Council members are considering a draft resolution that would  restore the UN mission in Western Sahara to full functionality. Last month, Morocco  expelled 75 UN staffers. ](/news/2016/04/27/united-nations-security-council-members-are-considering-a-draft-resolution-that-would-restore-the-un-mission-in-western-sahara-to-full-func.md)
 _Context: MINURSO, Moroccan, United Nations Security Council_
 
 ### [Senior Kurdish and Shi'ite Muslim leaders agree to withdraw from  Tuz Khurmato, Iraq, where recent violence has killed more than 10 people. ](/news/2016/04/27/senior-kurdish-and-shi-ite-muslim-leaders-agree-to-withdraw-from-tuz-khurmato-iraq-where-recent-violence-has-killed-more-than-10-people.md)
 _Context: Iraq, Iraqi Civil War, Iraqi Kurdistan, Shi'ite, Tuz Khurmato_
 
-### [Kaitlyn and Hunter get caught committing sexual activities in a high school bathroom!!](/news/2016/04/27/kaitlyn-and-hunter-get-caught-committing-sexual-activities-in-a-high-school-bathroom.md)
 ### [Two days before the one-year anniversary of the execution of Andrew Chan and Myuran Sukumaran, the ringleaders of the Bali Nine, member Michael Czugaj is discovered to be in possession of drugs in prison. ](/news/2016/04/27/two-days-before-the-one-year-anniversary-of-the-execution-of-andrew-chan-and-myuran-sukumaran-the-ringleaders-of-the-bali-nine-member-mich.md)
 _Context: Andrew Chan, Bali Nine, Michael Czugaj, Myuran Sukumaran_
 
