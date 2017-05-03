@@ -6,6 +6,9 @@ A suicide bombing in the Afghan capital Kabul on Wednesday killed eight people a
 ### [An explosion at a coal mine near Azadshahr, Iran, kills at least two miners and traps over 50 others, according to state media. ](/news/2017/05/3/an-explosion-at-a-coal-mine-near-azadshahr-iran-kills-at-least-two-miners-and-traps-over-50-others-according-to-state-media.md)
 They are believed to be 1,800m underground and in danger from volatile gases.
 
+### [Somali Public Works Minister Abbas Abdullahi Sheikh Siraji is shot and killed in the capital Mogadishu. ](/news/2017/05/3/somali-public-works-minister-abbas-abdullahi-sheikh-siraji-is-shot-and-killed-in-the-capital-mogadishu.md)
+_Context: Abbas Abdullahi Sheikh Siraji_
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
