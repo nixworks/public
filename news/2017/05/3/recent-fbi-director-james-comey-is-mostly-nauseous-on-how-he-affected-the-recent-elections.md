@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [The News York Times](https://www.nytimes.com/2017/05/03/us/politics/james-comey-fbi-senate-hearing.html)
+1. [The New York Times](https://www.nytimes.com/2017/05/03/us/politics/james-comey-fbi-senate-hearing.html)
 
 ### Related:
 
