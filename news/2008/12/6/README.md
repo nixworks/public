@@ -1,7 +1,7 @@
 ## [2008-12-6](/news/2008/12/6/index.md)
 
 ### [ Filipino boxer Manny Pacquiao defeats Mexican American Oscar De La Hoya during a welterweight bout at the MGM Grand Garden Arena in Las Vegas, Nevada. ](/news/2008/12/6/filipino-boxer-manny-pacquiao-defeats-mexican-american-oscar-de-la-hoya-during-a-welterweight-bout-at-the-mgm-grand-garden-arena-in-las-veg.md)
-_Context: Las Vegas, Nevada, MGM Grand Garden Arena, Manny Pacquiao, Mexican-American, Nevada, Oscar De La Hoya, Philippines, bout, welterweight_
+_Context: Las Vegas, Nevada, MGM Grand Garden Arena, Manny Pacquiao, Mexican-American, Nevada, Oscar De La Hoya, Philippine, bout, welterweight_
 
 ### [ United States President-elect Barack Obama nominates General Eric Shinseki to be the next Secretary of Veterans Affairs. ](/news/2008/12/6/united-states-president-elect-barack-obama-nominates-general-eric-shinseki-to-be-the-next-secretary-of-veterans-affairs.md)
 US President-elect Barack Obama has selected retired General Eric Shinseki, who clashed with the Bush administration over the number of troops needed in Iraq, to be the next secretary of veterans affairs.

@@ -10,7 +10,7 @@ Afghan police say a roadside bombing has killed the police chief of a southern p
 Google Inc began selling basic laptop computers to schools at a price of $99, meeting a price point that prominent MIT professor Nicholas Negroponte famously held out in 2005 as key to bringing computing power to the masses.
 
 ### [The death toll in the Philippines from Typhoon Bopha rises to 647 with 780 people still missing. ](/news/2012/12/10/the-death-toll-in-the-philippines-from-typhoon-bopha-rises-to-647-with-780-people-still-missing.md)
-_Context: Philippines, Typhoon Bopha_
+_Context: Philippine, Typhoon Bopha_
 
 ### [A New Zealand Royal Commission finds that the CTV Building that collapsed during the 2011 Christchurch earthquake killing 115 people was poorly designed and built and should not have received a building permit. ](/news/2012/12/10/a-new-zealand-royal-commission-finds-that-the-ctv-building-that-collapsed-during-the-2011-christchurch-earthquake-killing-115-people-was-poo.md)
 _Context: 2011 Christchurch earthquake, CTV Building, New Zealand, Royal Commission_
@@ -25,7 +25,7 @@ _Context: Colombia, Tolima department_
 _Context: Japan, Japan-North Korea relations, North Korea, Unha, launches_
 
 ### [Leaders of the European Union accept the 2012 Nobel Peace Prize in Oslo, Norway. ](/news/2012/12/10/leaders-of-the-european-union-accept-the-2012-nobel-peace-prize-in-oslo-norway.md)
-_Context: 2012, European Union, Nobel Peace Prize, Norway, Oslo_
+_Context: 2012, EU, Nobel Peace Prize, Norway, Oslo_
 
 ### [John Hickenlooper, the Governor of the US state of Colorado, issues a proclamation allowing the personal use of marijuana following the passage of an amendment to the state constitution last month. ](/news/2012/12/10/john-hickenlooper-the-governor-of-the-us-state-of-colorado-issues-a-proclamation-allowing-the-personal-use-of-marijuana-following-the-pass.md)
 _Context: Colorado, Governor, John Hickenlooper, US$, marijuana, state constitution_

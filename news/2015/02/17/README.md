@@ -1,7 +1,7 @@
 ## [2015-02-17](/news/2015/02/17/index.md)
 
 ### [The office of the President of Ukraine calls on the European Union and NATO to condemn the Russian-backed rebels for military action in Debaltseve. The self-proclaimed rebel government officials claim the town was not part of the recently established ceasefire. ](/news/2015/02/17/the-office-of-the-president-of-ukraine-calls-on-the-european-union-and-nato-to-condemn-the-russian-backed-rebels-for-military-action-in-deba.md)
-_Context: Debaltseve, Donetsk People's Republic, European Union, Minsk II, NATO, Ukrainian President, War in Donbass, military intervention in Ukraine_
+_Context: Debaltseve, Donetsk People's Republic, EU, Minsk II, NATO, Ukrainian President, War in Donbass, military intervention in Ukraine_
 
 ### [Police Service of Northern Ireland received a phone call in the early hours allegedly from a dissident republican group claiming to have planted an explosive in a Curryneirin neighborhood outside Derry, Northern Ireland. Police evacuated 12 homes before finding a device, describing it as "'It's a bomb and designed to kill".](/news/2015/02/17/police-service-of-northern-ireland-received-a-phone-call-in-the-early-hours-allegedly-from-a-dissident-republican-group-claiming-to-have-pla.md)
 _Context: Derry, Dissident Irish Republican campaign, Dissident republican, Northern Ireland, Police Service of Northern Ireland_

@@ -19,7 +19,7 @@ _Context: 2006 parliamentary election, Our Ukraine Bloc, Party of Regions, Prime
 _Context: Richard Reid, September 11, 2001 attacks, White House, Zacarias Moussaoui, passenger jet, testimony_
 
 ### [ The European Union agrees to introduce a standardized European driving licence. ](/news/2006/03/27/the-european-union-agrees-to-introduce-a-standardized-european-driving-licence.md)
-_Context: European Union, European driving licence_
+_Context: EU, European driving licence_
 
 ## [Previous Day...](/news/2006/03/26/index.md)
 

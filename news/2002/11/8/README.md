@@ -7,7 +7,7 @@ _Context: gravitational wave_
 _Context: Beijing, Communist Party general secretary, Hu Jintao, Jiang Zemin, Marxism-Leninism, National Congress of the Communist Party of China_
 
 ### [ Former President of France Valry Giscard d'Estaing, head of the Convention on the Future of Europe, told the newspaper ''Le Monde'' that Turkey should not become a member of the European Union, even though Turkey is a very important country with a true elite. He particularly mentioned that the capital and 95% of the population were not located on the European continent. He also mentioned that ''one cannot discuss, as we do it, the national legislation of the Union, on very important points of everyday European issues and pretend that some discussions could be extended to countries which, for perfectly estimable reasons, have another culture, another approach, another way of life''.](/news/2002/11/8/former-president-of-france-valery-giscard-d-estaing-head-of-the-convention-on-the-future-of-europe-told-the-newspaper-le-monde-that-t.md)
-_Context: European Union, Le Monde, Turkey, Valry Giscard d'Estaing, president_
+_Context: EU, Le Monde, Turkey, Valry Giscard d'Estaing, president_
 
 ## [Previous Day...](/news/2002/11/7/index.md)
 

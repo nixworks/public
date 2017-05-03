@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Monitoring group Turkey Blocks reports that a provisional administrative order blocks access to all language editions of Wikipedia in Turkey. ](/news/2017/04/29/monitoring-group-turkey-blocks-reports-that-a-provisional-administrative-order-blocks-access-to-all-language-editions-of-wikipedia-in-turkey.md) _Context: Wikipedia_
+1. [Media freedom in Turkey, Monitoring group Turkey Blocks reports that a provisional administrative order blocks access to all language editions of Wikipedia in Turkey. ](/news/2017/04/29/media-freedom-in-turkey-monitoring-group-turkey-blocks-reports-that-a-provisional-administrative-order-blocks-access-to-all-language-editio.md) _Context: Wikipedia_
 2. [An Aerogaviota-operated Antonov An-26 plane crashes in western Artemisa Province, Cuba, killing eight troops on board. ](/news/2017/04/29/an-aerogaviota-operated-antonov-an-26-plane-crashes-in-western-artemisa-province-cuba-killing-eight-troops-on-board.md) _Context: Cuba_
 3. [The remains of former Cuban leader Fidel Castro are interred beside independence leader Jose Marti. ](/news/2016/12/4/the-remains-of-former-cuban-leader-fidel-castro-are-interred-beside-independence-leader-josa-c-marta.md) _Context: Cuba_
 4. [Cuba's National Assembly of People's Power approves a law banning commemorative statues of late President Fidel Castro, and the naming of public places after him, in accordance with the wishes of Castro, who died last month. ](/news/2016/12/27/cuba-s-national-assembly-of-people-s-power-approves-a-law-banning-commemorative-statues-of-late-president-fidel-castro-and-the-naming-of-pu.md) _Context: Cuba_

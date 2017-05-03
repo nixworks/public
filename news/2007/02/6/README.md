@@ -7,7 +7,7 @@ _Context: DNS, DNS Backbone DDoS Attacks, denial-of-service attack, root nameser
 _Context: Government of Uganda, Lord's Resistance Army, Sudan_
 
 ### [ A Human Rights Watch report concludes that European Union sanctions on the Government of Uzbekistan, which came in response to the "Andijan massacre" in May 2005, have failed due to a lack of commitment in enforcing them. ](/news/2007/02/6/a-human-rights-watch-report-concludes-that-european-union-sanctions-on-the-government-of-uzbekistan-which-came-in-response-to-the-andijan.md)
-_Context: Andijan massacre, European Union, Government of Uzbekistan, Human Rights Watch, May 2005, sanctions_
+_Context: Andijan massacre, EU, Government of Uzbekistan, Human Rights Watch, May 2005, sanctions_
 
 ### [ United States President George W. Bush approves a Pentagon plan for establishing a new command center in Africa. ](/news/2007/02/6/united-states-president-george-w-bush-approves-a-pentagon-plan-for-establishing-a-new-command-center-in-africa.md)
 _Context: AFRICOM, Africa, George W. Bush, The Pentagon, president_

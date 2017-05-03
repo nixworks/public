@@ -12,7 +12,7 @@ Microsoft Research and Wikipedia have joined forces to launch a beta version of 
 
 ### Related:
 
-1. [Monitoring group Turkey Blocks reports that a provisional administrative order blocks access to all language editions of Wikipedia in Turkey. ](/news/2017/04/29/monitoring-group-turkey-blocks-reports-that-a-provisional-administrative-order-blocks-access-to-all-language-editions-of-wikipedia-in-turkey.md) _Context: Wikipedia_
+1. [Media freedom in Turkey, Monitoring group Turkey Blocks reports that a provisional administrative order blocks access to all language editions of Wikipedia in Turkey. ](/news/2017/04/29/media-freedom-in-turkey-monitoring-group-turkey-blocks-reports-that-a-provisional-administrative-order-blocks-access-to-all-language-editio.md) _Context: Wikipedia_
 2. [Microsoft acknowledges that a Windows 10 update has stopped millions of webcams from working. ](/news/2016/08/22/microsoft-acknowledges-that-a-windows-10-update-has-stopped-millions-of-webcams-from-working.md) _Context: Microsoft_
 3. [Microsoft agrees to buy professional networking site LinkedIn for $26.2 billion (PS18 billion). ](/news/2016/06/13/microsoft-agrees-to-buy-professional-networking-site-linkedin-for-26-2-billion-aps18-billion.md) _Context: Microsoft_
 4. [Bloomberg News reports Verizon Communications plans a bid for Yahoo Inc.'s Web business, including  Yahoo Japan Corp.,  next week. Google, Time Inc., and  private equity funds Bain and TPG are considering bidding for Yahoo's core business. AT&T Inc., Comcast, and Microsoft Corp. reportedly aren't interested. ](/news/2016/04/7/bloomberg-news-reports-verizon-communications-plans-a-bid-for-yahoo-inc-as-web-business-including-yahoo-japan-corp-next-week-google.md) _Context: Microsoft_

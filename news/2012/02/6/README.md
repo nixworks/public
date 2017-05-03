@@ -13,10 +13,10 @@ State governor says issue can be resolved through negotiations after state legis
 _Context: Antoni Tapies, Barcelona, Spanish politicians, abstract art_
 
 ### [Greek government debt crisis: The government of Greece fails to reach agreement over the terms of a new bailout from the European Union, but retracts the deadline they had given themselves to do so, 30 minutes before the deadline would have passed. ](/news/2012/02/6/greek-government-debt-crisis-the-government-of-greece-fails-to-reach-agreement-over-the-terms-of-a-new-bailout-from-the-european-union-but.md)
-_Context: European Union, Greek government-debt crisis, government of Greece_
+_Context: EU, Greek government-debt crisis, government of Greece_
 
 ### [A 6.9 magnitude earthquake hits near the central Philippines off the coast of Negros Island causing at least 13 deaths and 29 people missing with houses buried in a landslide in Guihulngan. ](/news/2012/02/6/a-6-9-magnitude-earthquake-hits-near-the-central-philippines-off-the-coast-of-negros-island-causing-at-least-13-deaths-and-29-people-missing.md)
-_Context: 2012 Negros Oriental earthquake, Guihulngan, Negros Island, Philippines_
+_Context: 2012 Negros Oriental earthquake, Guihulngan, Negros Island, Philippine_
 
 ### [A three-storey factory collapses in the Pakistani city of Lahore after a gas explosion resulting in at least three deaths with dozens of workers trapped. ](/news/2012/02/6/a-three-storey-factory-collapses-in-the-pakistani-city-of-lahore-after-a-gas-explosion-resulting-in-at-least-three-deaths-with-dozens-of-wor.md)
 A three-storey factory collapsed on Monday in the Pakistani city of Lahore after a gas explosion, killing at least five people and trapping dozens, emergency officials said.

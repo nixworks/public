@@ -1,7 +1,7 @@
 ## [2013-07-12](/news/2013/07/12/index.md)
 
 ### [The Moro National Liberation Front kidnaps eight civilians in the Philippines Basilan province later releasing four of them. ](/news/2013/07/12/the-moro-national-liberation-front-kidnaps-eight-civilians-in-the-philippines-basilan-province-later-releasing-four-of-them.md)
-_Context: Basilan island, Moro National Liberation Front, Philippines_
+_Context: Basilan island, Moro National Liberation Front, Philippine_
 
 ### [War in Somalia (2009-present):A car bomb explodes near an African Union convoy killing three soldiers. ](/news/2013/07/12/war-in-somalia-2009apresent-pa-car-bomb-explodes-near-an-african-union-convoy-killing-three-soldiers.md)
 MOGADISHU, July 12 - At least three people were killed Friday when a car bomb targeting a convoy of African Union troops exploded on a major street in the - Kenya breaking news | Kenya news today | Capitalfm.co.ke

@@ -19,7 +19,7 @@ _Context: France, Iran, Simin Behbahani, Tehran International Airport_
 International Criminal Police Organization announces 27 people now wanted for alleged involvement in Hamas figure&#39;s killing. Interpol secretary-general says Dubai police&#39;s thorough probe has established clear link between passport records, security footage, DNA 
 
 ### [The French Navy, supported by European Union aircraft and vessels, seizes 35 suspected pirates in 4 mother ships and 6 little boats off the coast of Somalia in the EU's most successful mission. ](/news/2010/03/8/the-french-navy-supported-by-european-union-aircraft-and-vessels-seizes-35-suspected-pirates-in-4-mother-ships-and-6-little-boats-off-the.md)
-_Context: European Union, French naval, Somalia_
+_Context: EU, French naval, Somalia_
 
 ### [German Federal Minister of Justice Sabine Leutheusser-Schnarrenberger says the Vatican has built a "wall of silence" in response to the country's child sexual abuse controversy of recent months. ](/news/2010/03/8/german-federal-minister-of-justice-sabine-leutheusser-schnarrenberger-says-the-vatican-has-built-a-wall-of-silence-in-response-to-the-coun.md)
 _Context: Federal Minister of Justice, Germany, Sabine Leutheusser-Schnarrenberger, Vatican, sexual abuse_

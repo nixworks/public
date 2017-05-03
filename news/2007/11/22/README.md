@@ -28,7 +28,7 @@ _Context: 2007 Pakistani state of emergency, Commonwealth of Nations, Pakistan, 
 _Context: International Atomic Energy Agency, Iran, Mohamed ElBaradei, nuclear_
 
 ### [ A report by the EMCDDA says the number of cocaine users in the European Union has increased by one million in one year. ](/news/2007/11/22/a-report-by-the-emcdda-says-the-number-of-cocaine-users-in-the-european-union-has-increased-by-one-million-in-one-year.md)
-_Context: EMCDDA, European Union, cocaine_
+_Context: EMCDDA, EU, cocaine_
 
 ### [ Two Iraqi soldiers and eight members of the Hawr Rajab Awakening Council are killed by al-Qaeda militants in Hawr Rajab. ](/news/2007/11/22/two-iraqi-soldiers-and-eight-members-of-the-hawr-rajab-awakening-council-are-killed-by-al-qaeda-militants-in-hawr-rajab.md)
 _Context: Hawr Rajab, Hawr Rajab Awakening Council, Iraq, al-Qaeda, militant, soldier_

@@ -22,7 +22,7 @@ _Context: CH-47 Chinook, Iraq, United States, United States Army_
 _Context: Greece, Pirate, Somalia, bulk carrier_
 
 ### [ Bruessel/EU:In European media, journalists report that some US politicians and military personnel supported with financial help the Anti-Europe Movement in Ireland against the Treaty of Lisbon. ](/news/2008/09/18/bruessel-eu-in-european-media-journalists-report-that-some-us-politicians-and-military-personnel-supported-with-financial-help-the-anti-eu.md)
-_Context: Bruessel, European Union, Ireland, Treaty of Lisbon_
+_Context: Bruessel, EU, Ireland, Treaty of Lisbon_
 
 ## [Previous Day...](/news/2008/09/17/index.md)
 

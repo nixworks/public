@@ -46,7 +46,7 @@ _Context: Guatemalan civil war, army_
 Venezuela&#039;s President Hugo Chavez has announced that the country will soon take delivery of Russian missiles with a range of 300km. Returning from a 10-day tour of Africa, Asia and Europe, including Russia, Mr Chavez is also planning to buy Russian T-72 and T-90.
 
 ### [ President Robert Mugabe says Zimbabwe's first high-level talks with top EU officials in seven years went well. ](/news/2009/09/12/president-robert-mugabe-says-zimbabwe-s-first-high-level-talks-with-top-eu-officials-in-seven-years-went-well.md)
-_Context: European Union, Robert Mugabe, Zimbabwe_
+_Context: EU, Robert Mugabe, Zimbabwe_
 
 ## [Previous Day...](/news/2009/09/11/index.md)
 

@@ -25,7 +25,7 @@ Mexico goes to the polls to elect a new president on July 1, and Texas lawmakers
 The demonstrations reflected concerns that the new chief executive, Leung Chun-ying, may roll back some of the city’s cherished civil liberties.
 
 ### [Writing in ''The Sunday Telegraph'' British Prime Minister David Cameron says he is prepared to consider a referendum on the UK's relationship with the European Union, but only when the time is right. ](/news/2012/07/1/writing-in-the-sunday-telegraph-british-prime-minister-david-cameron-says-he-is-prepared-to-consider-a-referendum-on-the-uk-s-relationsh.md)
-_Context: David Cameron, European Union, The Sunday Telegraph_
+_Context: David Cameron, EU, The Sunday Telegraph_
 
 ### [A Soyuz space capsule containing Oleg Kononenko (Russia), Andr Kuipers (Netherlands) and Don Pettit (United States) lands safely in Kazakhstan. ](/news/2012/07/1/a-soyuz-space-capsule-containing-oleg-kononenko-russia-andre-kuipers-netherlands-and-don-pettit-united-states-lands-safely-in-kazakhs.md)
 Read the latest World and International news headlines from Sky News Australia. For coverage of breaking news from around the World visit skynews.com.au.

@@ -10,7 +10,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 The death toll from a mudslide that flattened much of a village in central Indonesia rose to 56 on Monday before rain forced rescuers to halt their search for dozens of missing people, officials said.
 
 ### [Philippine prosecutors charge a United States Marine with murder over the death of Jennifer Laude, a Filipino transgender woman. ](/news/2014/12/15/philippine-prosecutors-charge-a-united-states-marine-with-murder-over-the-death-of-jennifer-laude-a-filipino-transgender-woman.md)
-_Context: 2014 killing of a transwoman, Filipino, Philippines, U.S. Marine, transgender_
+_Context: 2014 killing of a transwoman, Filipino, Philippine, U.S. Marine, transgender_
 
 ### [Authorized by the United Nations Convention on the Law of the Sea, Denmark becomes the first country to officially submit a claim on the North Pole. ](/news/2014/12/15/authorized-by-the-united-nations-convention-on-the-law-of-the-sea-denmark-becomes-the-first-country-to-officially-submit-a-claim-on-the-nor.md)
 Denmark filed an official claim on the North Pole, making it the first country to do so.

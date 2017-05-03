@@ -64,7 +64,7 @@ The presidential bet regales a crowd in Iloilo with a story of how he shot a fel
 _Context: Petro Poroshenko, Russia, Russia-Ukraine relations, Ukrainian President_
 
 ### [The European Union cancels mediation talks on resolving the political crisis in Macedonia after that country's main political opposition, led by Zoran Zaev, declined to take part. ](/news/2016/04/21/the-european-union-cancels-mediation-talks-on-resolving-the-political-crisis-in-macedonia-after-that-country-s-main-political-opposition-le.md)
-_Context: 2016 Macedonian protests, European Union, Macedonian, Zoran Zaev_
+_Context: 2016 Macedonian protests, EU, Macedonian, Zoran Zaev_
 
 ### [The incumbent President of Chad Idriss Deby is reelected for a fifth term amid allegations of fraud. ](/news/2016/04/21/the-incumbent-president-of-chad-idriss-deby-is-reelected-for-a-fifth-term-amid-allegations-of-fraud.md)
 _Context: Chadian presidential election, 2016, Idriss Deby, President of Chad_

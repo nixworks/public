@@ -16,7 +16,7 @@ _Context: Colombia, Colombian government, Revolutionary Armed Forces of Colombia
 _Context: Bulava, Russia, ballistic missile_
 
 ### [ A TAAG-Angola Airlines Boeing 737 crashes in northern Angola, resulting in the death of at least five passengers  on the same day the European Union  bans the airline from European airspace. ](/news/2007/06/28/a-taag-angola-airlines-boeing-737-crashes-in-northern-angola-resulting-in-the-death-of-at-least-five-passengers-on-the-same-day-the-europ.md)
-_Context: 737, Angola, Europe, European Union, TAAG-Angola Airlines, commercial air traffic, international airspace_
+_Context: 737, Angola, EU, Europe, TAAG-Angola Airlines, commercial air traffic, international airspace_
 
 ### [ Scientists take a first step towards making synthetic life by transferring genetic material from one species of bacteria to another, making it a copy of the first. ](/news/2007/06/28/scientists-take-a-first-step-towards-making-synthetic-life-by-transferring-genetic-material-from-one-species-of-bacteria-to-another-making.md)
 _Context: bacteria, genetic material, synthetic life_

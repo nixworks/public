@@ -25,7 +25,7 @@ An Irish and a Canadian aid ship are currently in international waters on their 
 _Context: Georgia, Russia, World Trade Organization_
 
 ### [Greek economic referendum:The Greek Cabinet unanimously supports plans by Prime Minister George Papandreou to hold a referendum on the European Union's proposed economic rescue plan. ](/news/2011/11/2/greek-economic-referendum-pthe-greek-cabinet-unanimously-supports-plans-by-prime-minister-george-papandreou-to-hold-a-referendum-on-the-euro.md)
-_Context: European Union, George Papandreou, Greece, Greek prime minister, referendum_
+_Context: EU, George Papandreou, Greece, Greek prime minister, referendum_
 
 ### [China's unmanned Shenzhou 8 spacecraft successfully docks with the orbiting Tiangong 1 space station module, marking China's first orbital docking. ](/news/2011/11/2/china-s-unmanned-shenzhou-8-spacecraft-successfully-docks-with-the-orbiting-tiangong-1-space-station-module-marking-china-s-first-orbital-d.md)
 _Context: China, Shenzhou 8, Tiangong-1, space station_

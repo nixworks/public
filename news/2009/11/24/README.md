@@ -28,7 +28,7 @@ Two men accused of murder, rape and using child soldiers go on trial in The Hagu
 President Dmitry Medvedev of Russia has ordered an investigation into the death in prison of Sergei Magnitsky, the anti-corruption lawyer who helped uncover an alleged $230m (&pound;139m) tax fraud against the state.
 
 ### [ The European Parliament approves a major overhaul of telecommunications systems in the European Union aimed at boosting the rights of mobile and internet users. ](/news/2009/11/24/the-european-parliament-approves-a-major-overhaul-of-telecommunications-systems-in-the-european-union-aimed-at-boosting-the-rights-of-mobil.md)
-_Context: European Parliament, European Union_
+_Context: EU, European Parliament_
 
 ### [ An inquiry opens in the United Kingdom over the country's involvement in the Iraq War. ](/news/2009/11/24/an-inquiry-opens-in-the-united-kingdom-over-the-country-s-involvement-in-the-iraq-war.md)
 _Context: Iraq War, United Kingdom, inquiry opens_

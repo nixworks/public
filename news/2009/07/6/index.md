@@ -40,7 +40,7 @@ A team of diplomats and negotiators are seeking to locate an Irish aid worker an
 _Context: Bolivia, cocaine_
 
 ### [ European Union foreign policy chief Javier Solana says he will not seek another term in office. ](/news/2009/07/6/european-union-foreign-policy-chief-javier-solana-says-he-will-not-seek-another-term-in-office.md)
-_Context: European Union, Javier Solana_
+_Context: EU, Javier Solana_
 
 ### [ The center-right Citizens for European Development of Bulgaria party wins big in the Bulgarian parliamentary elections ](/news/2009/07/6/the-center-right-citizens-for-european-development-of-bulgaria-party-wins-big-in-the-bulgarian-parliamentary-elections.md)
 _Context: Bulgarian parliamentary elections, GERB_

@@ -22,7 +22,7 @@ _Context: Jon Corzine, MF Global, U.S. House of Representatives_
 Police tell people in Scotland not to travel, as severe winds of up to 165mph hit the country, leaving more than 50,000 people without power.
 
 ### [Philippines officials claim that the People's Republic of China has executed a Filipino man for drug trafficking despite a plea for clemency from the President of the Philippines Benigno Aquino III on humanitarian grounds. ](/news/2011/12/8/philippines-officials-claim-that-the-people-s-republic-of-china-has-executed-a-filipino-man-for-drug-trafficking-despite-a-plea-for-clemency.md)
-_Context: Benigno Aquino III, China's, Filipino, Philippine President, Philippines, drug trafficking_
+_Context: Benigno Aquino III, China's, Filipino, Philippine, Philippine President, drug trafficking_
 
 ### [Russian Prime Minister Vladimir Putin accuses the United States of sponsoring the opposition in the country, following protests over the outcome of the recent elections. ](/news/2011/12/8/russian-prime-minister-vladimir-putin-accuses-the-united-states-of-sponsoring-the-opposition-in-the-country-following-protests-over-the-out.md)
 _Context: Russia, United States, Vladimir Putin, parliamentary elections_

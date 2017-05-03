@@ -16,7 +16,7 @@ _Context: Georgia Board of Pardons and Paroles, Lena Baker, execution_
 Get the latest breaking news across the U.S. on ABCNews.com
 
 ### [ Madonna suffers multiple broken bones from a horseback riding accident during her 47th birthday celebration. ](/news/2005/08/16/madonna-suffers-multiple-broken-bones-from-a-horseback-riding-accident-during-her-47th-birthday-celebration.md)
-_Context: Madonna, broken bones, horseback riding_
+_Context: Madonna, bone fracture, horseback riding_
 
 ### [ ITN news announces it has uncovered classified documents which seem to imply that Jean Charles de Menezes, the man shot dead by British Police on July 22, 2005, was not wearing a heavy coat, did not jump the ticket barrier, was not given a warning, and did not at any time flee from police. ](/news/2005/08/16/itn-news-announces-it-has-uncovered-classified-documents-which-seem-to-imply-that-jean-charles-de-menezes-the-man-shot-dead-by-british-pol.md)
 _Context: British Police, ITN, Jean Charles de Menezes_

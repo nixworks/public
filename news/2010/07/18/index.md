@@ -82,7 +82,7 @@ An alleged drug kingpin, known as the Pablo Escobar of the Caribbean, has been a
 _Context: Pakistan, adultery, death by stoning_
 
 ### [Health experts condemn tobacco companies for openly flouting European Union laws against advertising by using glitzy sales teams and techniques to promote cigarette brands at young people on Facebook and at music festivals. ](/news/2010/07/18/health-experts-condemn-tobacco-companies-for-openly-flouting-european-union-laws-against-advertising-by-using-glitzy-sales-teams-and-techniq.md)
-_Context: European Union, Facebook_
+_Context: EU, Facebook_
 
 ### [Customs officers at Kuala Lumpur International Airport discover 400 rare tortoises, more than 40 rare tomato frogs and an unidentified number of chameleons bound with masking tape and stuffed into socks allegedly smuggled from Madagascar in the luggage of two women. ](/news/2010/07/18/customs-officers-at-kuala-lumpur-international-airport-discover-400-rare-tortoises-more-than-40-rare-tomato-frogs-and-an-unidentified-numbe.md)
 Customs officers at Kuala Lumpur airport recover more than 400 rare tortoises and frogs smuggled from Madagascar.

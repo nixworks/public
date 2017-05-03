@@ -7,7 +7,7 @@ _Context: Anbar province, ISIL, Iraq, Ramadi_
 Nokia has announced its intention to acquire telecoms equipment company Alcatel-Lucent for €15.6 billion ($16.6 billion). The deal will solidify Nokia&#39;s ambitions to become a major provider of...
 
 ### [The European Union formally charges Google with antitrust breaches. ](/news/2015/04/15/the-european-union-formally-charges-google-with-antitrust-breaches.md)
-_Context: European Union, Google_
+_Context: EU, Google_
 
 ### [Benjamin Netanyahu demands that any final agreement on the Iranian nuclear program include a "clear and unambiguous Iranian recognition of Israel's right to exist." ](/news/2015/04/15/benjamin-netanyahu-demands-that-any-final-agreement-on-the-iranian-nuclear-program-include-a-clear-and-unambiguous-iranian-recognition-of-i.md)
 _Context: Benjamin Netanyahu, agreement on the Iranian nuclear program_

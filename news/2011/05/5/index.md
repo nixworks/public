@@ -37,7 +37,7 @@ The rising Mississippi river lapped over downtown Memphis streets on Thursday as
 _Context: Darfur, Sudanese cabinet_
 
 ### [The South Korean National Assembly ratifies a free trade agreement with the European Union. ](/news/2011/05/5/the-south-korean-national-assembly-ratifies-a-free-trade-agreement-with-the-european-union.md)
-_Context: European Union, Free Trade Agreement, National Assembly of South Korea, South Korea_
+_Context: EU, Free Trade Agreement, National Assembly of South Korea, South Korea_
 
 ### [The United Kingdom expels two more Libyan diplomats, a week after expelling the ambassador, in order to increase diplomatic pressure on the regime of Muammar Gaddafi. ](/news/2011/05/5/the-united-kingdom-expels-two-more-libyan-diplomats-a-week-after-expelling-the-ambassador-in-order-to-increase-diplomatic-pressure-on-the.md)
 Foreign Secretary William Hague ordered the expulsion of two more Libyan diplomats from the UK today in a attempt to ratchet up the pressure on the Gaddafi regime.

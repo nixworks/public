@@ -16,7 +16,7 @@ _Context: MINOS, Standard Model, mass, neutrino, neutrino oscillation, particle 
 _Context: Chakri Dynasty, Prime Minister, Protest, Thailand, Thaksin, The Nation Group, newspaper_
 
 ### [ In Brussels, Microsoft claims a breakthrough, as an independent monitor of its hearings with European Union regulators in Brussels has outlined what it can do to avoid paying fines of 2 million euros a day. ](/news/2006/03/31/in-brussels-microsoft-claims-a-breakthrough-as-an-independent-monitor-of-its-hearings-with-european-union-regulators-in-brussels-has-outl.md)
-_Context: Brussels, European Union, Microsoft_
+_Context: Brussels, EU, Microsoft_
 
 ### [ 2006 Borujerd earthquake: An early-morning earthquake south of Borujerd, Iran causes 66 deaths and significant damage in the Luristan province in the west of the country.](/news/2006/03/31/2006-borujerd-earthquake-an-early-morning-earthquake-south-of-borujerd-iran-causes-66-deaths-and-significant-damage-in-the-luristan-provi.md)
 _Context: 2006 Borujerd earthquake, Borujerd, Iran, Luristan Province, earthquake_

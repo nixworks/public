@@ -37,7 +37,7 @@ The UN appeals for nearly $164m in aid to help fight a cholera outbreak in Haiti
 _Context: Pohang, South Korea, nursing home_
 
 ### [Mount Bulusan, a volcano in the Philippines, erupts again. ](/news/2010/11/12/mount-bulusan-a-volcano-in-the-philippines-erupts-again.md)
-_Context: Mount Bulusan, Philippines, volcanic activity_
+_Context: Mount Bulusan, Philippine, volcanic activity_
 
 ### [An intense European windstorm in the British Isles kills an elderly woman and brings gusts exceeding 160 km/h. ](/news/2010/11/12/an-intense-european-windstorm-in-the-british-isles-kills-an-elderly-woman-and-brings-gusts-exceeding-160-km-h.md)
 A 55-year-old woman has died after a tree fell on her car during 24 hours of severe gales and torrential rain.
@@ -52,7 +52,7 @@ Iran allows Nigeria to question one of its citizens inside its embassy, over a w
 Medvedev and Kan to hold talks in Japanese city amid tensions over territorial dispute.
 
 ### [The European Union agrees to meet with Iran to discuss its nuclear program. ](/news/2010/11/12/the-european-union-agrees-to-meet-with-iran-to-discuss-its-nuclear-program.md)
-_Context: European Union, Iran, nuclear scientist_
+_Context: EU, Iran, nuclear scientist_
 
 ### [The Supreme Court of the United States refuses to rescind the country's ban on openly gay soldiers. ](/news/2010/11/12/the-supreme-court-of-the-united-states-refuses-to-rescind-the-country-s-ban-on-openly-gay-soldiers.md)
 Supreme court rejects request to rescind ban on openly gay soldiers, while Obama pushes Senate to repeal it.

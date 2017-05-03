@@ -10,7 +10,7 @@ _Context: Rizgar Mohammed Amin, Saddam Hussein, Trials of Saddam Hussein_
 _Context: Niger, United Nations, West Africa_
 
 ### [ A dockworkers' strike in Europe has thousands of workers off the job in protest over proposed liberalization of European Union rules on port services. A demonstration outside the European Parliament in Strasbourg leaves twelve French police officers injured. ](/news/2006/01/16/a-dockworkers-strike-in-europe-has-thousands-of-workers-off-the-job-in-protest-over-proposed-liberalization-of-european-union-rules-on-por.md)
-_Context: European Parliament, European Union, Strasbourg, dockworker, strike_
+_Context: EU, European Parliament, Strasbourg, dockworker, strike_
 
 ### [ Former US Vice President Al Gore blasts President George W. Bush's policy of spying on American citizen conversations with suspected overseas terrorists, saying President Bush "repeatedly and persistently" broke the law in connection with the NSA warrantless surveillance controversy, says the United States Constitution is in danger. ](/news/2006/01/16/former-us-vice-president-al-gore-blasts-president-george-w-bush-s-policy-of-spying-on-american-citizen-conversations-with-suspected-overse.md)
 _Context: Al Gore, George W. Bush, U.S. Vice President, United States Constitution, president, warrantless wiretapping_

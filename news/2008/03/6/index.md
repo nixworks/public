@@ -22,7 +22,7 @@ _Context: 1997, Death of Diana, Princess of Wales, Paul Burrell, grandmother_
 _Context: A bomb causes minor damage, New York's, Times Square, military recruitment_
 
 ### [ Philippine authorities arrest three people accused of plotting terrorist attacks on foreign embassies in Manila. ](/news/2008/03/6/philippine-authorities-arrest-three-people-accused-of-plotting-terrorist-attacks-on-foreign-embassies-in-manila.md)
-_Context: Manila, Philippines_
+_Context: Manila, Philippine_
 
 ## [Previous Day...](/news/2008/03/5/index.md)
 

@@ -43,7 +43,7 @@ Israel today refused to allow Indonesian Foreign Minister Retno Marsudi to visit
 _Context: Israeli Defence Forces, Israeli-Palestinian conflict, Palestinian_
 
 ### [Authorities in Belarus detain prominent businessman Yury Chyzh, once a close adviser to Alexander Lukashenko and included in the EU's sanctions list, on suspicion of large-scale tax evasion. ](/news/2016/03/13/authorities-in-belarus-detain-prominent-businessman-yury-chyzh-once-a-close-adviser-to-alexander-lukashenko-and-included-in-the-eu-s-sancti.md)
-_Context: Alexander Lukashenko, Authorities, Belarus, European Union, Yury Chyzh, tax evasion_
+_Context: Alexander Lukashenko, Authorities, Belarus, EU, Yury Chyzh, tax evasion_
 
 ### [Regional elections take place in the German states of Baden-Wurttemberg, Rhineland-Palatinate and Saxony-Anhalt with the governing Christian Democratic Union performing poorly, the centre-left Social Democratic Party of Germany winning in Rhineland-Palatinate, and the anti-immigrant Alternative for Germany performing well in all three states. ](/news/2016/03/13/regional-elections-take-place-in-the-german-states-of-baden-wa1-4rttemberg-rhineland-palatinate-and-saxony-anhalt-with-the-governing-christia.md)
 The party of German Chancellor Angela Merkel suffers defeats in two of three states holding regional elections, exit polls suggest.

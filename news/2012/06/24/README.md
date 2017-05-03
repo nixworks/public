@@ -31,7 +31,7 @@ The iconic game show personality was admitted into Cedars-Sinai Medical Center o
 _Context: Benedict XVI, Fox News, Greg Burke, Opus Dei, secretariat of state_
 
 ### [Antonis Samaras, the Prime Minister of Greece, is to miss a European Union summit as he recovers from an eye operation. ](/news/2012/06/24/antonis-samaras-the-prime-minister-of-greece-is-to-miss-a-european-union-summit-as-he-recovers-from-an-eye-operation.md)
-_Context: Antonis Samaras, European Union, Greek prime minister_
+_Context: Antonis Samaras, EU, Greek prime minister_
 
 ### [NATO is to meet on Tuesday, based on a request from Turkey to consult them on what to do with Syria which shot down a Turkish jet after it had entered Syrian airspace. ](/news/2012/06/24/nato-is-to-meet-on-tuesday-based-on-a-request-from-turkey-to-consult-them-on-what-to-do-with-syria-which-shot-down-a-turkish-jet-after-it-h.md)
 Turkish media reports that plane wreckage was found in Syrian waters, as NATO schedules meeting to discuss incident.

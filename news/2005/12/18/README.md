@@ -22,7 +22,7 @@ _Context: Bill Gates, Bono, Melinda, Person of the Year, Time_
 _Context: Afghanistan, Dick Cheney, Egypt, Iraq, Oman, Pakistan, Saudi Arabia, U.S. Vice President_
 
 ### [ Philippines finish in 5th place in the medal tally for the 2005 ASEAN Para Games in the Philippines. Thailand finishes with 84 golds, followed by Malaysia. ](/news/2005/12/18/philippines-finish-in-5th-place-in-the-medal-tally-for-the-2005-asean-para-games-in-the-philippines-thailand-finishes-with-84-golds-follo.md)
-_Context: 2005 ASEAN Para Games, Malaysia, Philippines, Thailand_
+_Context: 2005 ASEAN Para Games, Malaysia, Philippine, Thailand_
 
 ### [ The prime minister of Israel Ariel Sharon is transferred to the Hadassah Ein Kerem hospital in Jerusalem after suffering a minor stroke. Meanwhile, some Palestinians have taken to the streets in Gaza to celebrate Sharon's health condition and the Kahane organisation has urged Jews to pray for his death. ](/news/2005/12/18/the-prime-minister-of-israel-ariel-sharon-is-transferred-to-the-hadassah-ein-kerem-hospital-in-jerusalem-after-suffering-a-minor-stroke-me.md)
 (Video) PM evacuated to Hadassah Ein Kerem hospital after suffering mild stroke; sources say his condition not serious. Deputy Prime Minister Ehud Olmert on standby to assume control if needed; Sharon: &#39;I feel much better. I&#39;m fine. I&#39;m sorry for bothering the whole hospital&#39;

@@ -11,7 +11,7 @@ Ford Motor Co (F.N) will idle its auto plant in Genk, Belgium, for five days sta
 
 ### Related:
 
-1. [Workers' Party of Belgium representative Raoul Hedebouw gets stabbed in the thigh, moments before holding a speech in Lige, Belgium. The presumed assailant is arrested.  ](/news/2017/05/1/workers-party-of-belgium-representative-raoul-hedebouw-gets-stabbed-in-the-thigh-moments-before-holding-a-speech-in-liege-belgium-the-pr.md) _Context: Belgium_
+1. [Workers' Party of Belgium representative Raoul Hedebouw gets stabbed in the thigh, moments before holding a speech in Liege, Belgium. The presumed assailant is arrested.  ](/news/2017/05/1/workers-party-of-belgium-representative-raoul-hedebouw-gets-stabbed-in-the-thigh-moments-before-holding-a-speech-in-lia-ge-belgium-the-p.md) _Context: Belgium_
 2. [The Democratic Republic of the Congo suspends its military cooperation with Belgium. ](/news/2017/04/13/the-democratic-republic-of-the-congo-suspends-its-military-cooperation-with-belgium.md) _Context: Belgium_
 3. [A power outage plunges the Belgian capital of Brussels into darkness. ](/news/2017/02/9/a-power-outage-plunges-the-belgian-capital-of-brussels-into-darkness.md) _Context: Belgium_
 4. [According to Tokyo Electric Power Company, radiations levels within one of the reactors of Fukushima Daiichi Nuclear Power Plant, damaged by an earthquake and tsunami in 2011, are at its highest level since experiencing a meltdown, with a reading of 530 sieverts an hour. ](/news/2017/02/3/according-to-tokyo-electric-power-company-radiations-levels-within-one-of-the-reactors-of-fukushima-daiichi-nuclear-power-plant-damaged-by.md) _Context: an earthquake and tsunami_

@@ -1,7 +1,7 @@
 ## [2009-05-6](/news/2009/05/6/index.md)
 
 ### [ The European Parliament delays its planned reform of the European Union's telecommunications policy. ](/news/2009/05/6/the-european-parliament-delays-its-planned-reform-of-the-european-union-s-telecommunications-policy.md)
-_Context: European Parliament, European Union, reform, telecommunication_
+_Context: EU, European Parliament, reform, telecommunication_
 
 ### [ The United States Supervisory Capital Assessment Program finds that financial services companies JPMorgan Chase, and American Express do not need more capital from the Troubled Asset Relief Program. ](/news/2009/05/6/the-united-states-supervisory-capital-assessment-program-finds-that-financial-services-companies-jpmorgan-chase-and-american-express-do-no.md)
 _Context: American Express, JPMorgan Chase, Troubled Asset Relief Program, United States, capital, company, financial services, stress test_

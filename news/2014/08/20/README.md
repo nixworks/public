@@ -16,7 +16,7 @@ _Context: Hiroshima prefecture, Japan, landslide_
 Iran has started taking action to comply with the terms of an extended agreement with six world powers over its disputed atomic activities, a U.N. nuclear watchdog report obtained by Reuters on Wednesday showed.
 
 ### [A new species of tarsier is discovered in Dinagat, Philippines. ](/news/2014/08/20/a-new-species-of-tarsier-is-discovered-in-dinagat-philippines.md)
-_Context: Dinagat, Philippines, tarsier_
+_Context: Dinagat, Philippine, tarsier_
 
 ## [Previous Day...](/news/2014/08/19/index.md)
 

@@ -13,7 +13,7 @@ BEIRUT (Reuters) - The Lebanese army said on Monday 22 of its soldiers were miss
 It is a date that marks the start of events that would go on to change the course of millions of lives – tomorrow is the 100th anniversary of the day Britain declared war on Germany and the First World War began.
 
 ### [Russian low-cost Dobrolet Airlines, Aeroflot's 100% subsidiary, suspends all flights, including to Crimea, over sanctions introduced by the European Union. ](/news/2014/08/4/russian-low-cost-dobrolet-airlines-aeroflot-s-100-subsidiary-suspends-all-flights-including-to-crimea-over-sanctions-introduced-by-the.md)
-_Context: Aeroflot, Crimea, Dobrolet Airlines, European Union_
+_Context: Aeroflot, Crimea, Dobrolet Airlines, EU_
 
 ### [China dispatches 2,500 People's Liberation Army soldiers to Yunnan province to search for hundreds of people missing after the earthquake. ](/news/2014/08/4/china-dispatches-2-500-people-s-liberation-army-soldiers-to-yunnan-province-to-search-for-hundreds-of-people-missing-after-the-earthquake.md)
 China sends 2,500 soldiers to boost rescue efforts in Yunnan province, after an earthquake killed hundreds of people on Sunday.

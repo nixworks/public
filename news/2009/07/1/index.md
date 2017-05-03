@@ -10,13 +10,13 @@ Ireland has been declared free of a cattle disease, which cost the country milli
 A flurry of negotiations began on Wednesday to lay the groundwork for a possible return of the nation’s ousted president, Manuel Zelaya.
 
 ### [ Swedish Prime Minister Fredrik Reinfeldt assumes the rotating presidency over the European Union. ](/news/2009/07/1/swedish-prime-minister-fredrik-reinfeldt-assumes-the-rotating-presidency-over-the-european-union.md)
-_Context: European Union, Fredrik Reinfeldt, Sweden_
+_Context: EU, Fredrik Reinfeldt, Sweden_
 
 ### [ Officials in Comoros confirm that one passenger from Yemenia Flight 626, a 14-year-old girl, has been found alive. ](/news/2009/07/1/officials-in-comoros-confirm-that-one-passenger-from-yemenia-flight-626-a-14-year-old-girl-has-been-found-alive.md)
 _Context: Comoros, Yemenia Flight 626_
 
 ### [ Croatian Prime Minister Ivo Sanader resigns amidst European Union negotiations standstill and economic crisis. ](/news/2009/07/1/croatian-prime-minister-ivo-sanader-resigns-amidst-european-union-negotiations-standstill-and-economic-crisis.md)
-_Context: Croatia, European Union, Ivo Sanader, economic crisis, formal entry of Croatia, prime minister_
+_Context: Croatia, EU, Ivo Sanader, economic crisis, formal entry of Croatia, prime minister_
 
 ### [ The Met Office issues a level-3 heat wave alert across London and the South East of England for the first time since June 2006. ](/news/2009/07/1/the-met-office-issues-a-level-3-heat-wave-alert-across-london-and-the-south-east-of-england-for-the-first-time-since-june-2006.md)
 _Context: London, Met Office, South East England, heat wave_

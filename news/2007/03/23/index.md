@@ -37,7 +37,7 @@ _Context: Army, Sri Lanka, Tamil Tigers_
 _Context: Democratic Republic of Congo, Jean-Pierre Bemba, Kinshasa, Senator, South Africa, prosecutor_
 
 ### [ Celebrations to mark the 50th birthday of the European Union begin. ](/news/2007/03/23/celebrations-to-mark-the-50th-birthday-of-the-european-union-begin.md)
-_Context: European Union_
+_Context: EU_
 
 ### [ At least three people die after an accident involving four cars and three trucks causes a fire in the Burnley Tunnel in Melbourne, Australia. Both the Burnley tunnel and nearby Domain Tunnel are evacuated. ](/news/2007/03/23/at-least-three-people-die-after-an-accident-involving-four-cars-and-three-trucks-causes-a-fire-in-the-burnley-tunnel-in-melbourne-australi.md)
 _Context: Australia, Burnley Tunnel, Domain Tunnel, Melbourne_

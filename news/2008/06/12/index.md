@@ -31,7 +31,7 @@ _Context: Afghanistan, Paris, international aid_
 _Context: China's, Cross-Strait relations, Taiwan_
 
 ### [ Irish voters go to the polls for the Twenty-eighth Amendment of the Constitution of Ireland to enable ratification of the Treaty of Lisbon of the European Union. ](/news/2008/06/12/irish-voters-go-to-the-polls-for-the-twenty-eighth-amendment-of-the-constitution-of-ireland-to-enable-ratification-of-the-treaty-of-lisbon.md)
-_Context: European Union, Ireland, Treaty of Lisbon, ratified, the second Irish referendum_
+_Context: EU, Ireland, Treaty of Lisbon, ratified, the second Irish referendum_
 
 ### [ In ''Boumediene v. Bush'', the U.S. Supreme Court holds that foreign terrorism suspects held at Guantanamo Bay have constitutional rights to challenge their detention there in US courts. ](/news/2008/06/12/in-boumediene-v-bush-the-u-s-supreme-court-holds-that-foreign-terrorism-suspects-held-at-guanta-namo-bay-have-constitutional-rights.md)
 The Supreme Court rejected the Bush administration’s argument that the Guantánamo Bay detainees had adequate protections under a 2005 law.

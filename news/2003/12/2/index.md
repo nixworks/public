@@ -25,7 +25,7 @@ _Context: Arnold Schwarzenegger, Chris Patten, Donald Rumsfeld, Plain English Ca
 _Context: Paris, flu_
 
 ### [ The European Union threatens retaliatory sanctions unless the United States lifts its threat of restrictions on imports of steel; the US measures have been declared illegal by the WTO. [http://abcnews.go.com/wire/Politics/ap20031201_936.html]](/news/2003/12/2/the-european-union-threatens-retaliatory-sanctions-unless-the-united-states-lifts-its-threat-of-restrictions-on-imports-of-steel-the-us-me.md)
-_Context: European Union, United States, WTO, steel_
+_Context: EU, United States, WTO, steel_
 
 ### [ Pirate copies of a pre-alpha version of Microsoft's Windows "Longhorn" operating system go on sale in Malaysia more than a year ahead of its expected release date. [http://news.bbc.co.uk/2/hi/technology/3255120.stm]](/news/2003/12/2/pirate-copies-of-a-pre-alpha-version-of-microsoft-s-windows-longhorn-operating-system-go-on-sale-in-malaysia-more-than-a-year-ahead-of-it.md)
 _Context: Malaysia, Microsoft, Windows Vista_

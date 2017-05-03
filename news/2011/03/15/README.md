@@ -22,7 +22,7 @@ Japan faced the likelihood of a catastrophic nuclear accident after an explosion
 America&#039;s last World War 1 veteran is farewelled decades after returning to a pat on the back and little else.
 
 ### [The European Union holds talks with Aung San Suu Kyi and other Burmese opposition figures over the lifting of international sanctions. ](/news/2011/03/15/the-european-union-holds-talks-with-aung-san-suu-kyi-and-other-burmese-opposition-figures-over-the-lifting-of-international-sanctions.md)
-_Context: Aung San Suu Kyi, Burma, European Union_
+_Context: Aung San Suu Kyi, Burma, EU_
 
 ### [Egypt dissolves State Security Investigations Service, its former internal security and spying agency. ](/news/2011/03/15/egypt-dissolves-state-security-investigations-service-its-former-internal-security-and-spying-agency.md)
 _Context: Egypt, security personnel_

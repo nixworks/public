@@ -19,7 +19,7 @@ _Context: (Wikinews), John Garang, Khartoum, Sudan, Uganda, civil war, crashes, 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ New European Union directive banning tobacco advertising comes into effect ](/news/2005/08/1/new-european-union-directive-banning-tobacco-advertising-comes-into-effect.md)
-_Context:  ban on tobacco advertising, European Union_
+_Context:  ban on tobacco advertising, EU_
 
 ### [ President Bush circumvents the Senate after a five-month impasse to appoint John Bolton as the United States Ambassador to the United Nations. (Wikinews) [http://news.yahoo.com/s/ap/un_ambassador;_ylt=AgR019gkpNvaUCA4yIDK7gqs0NUE;_ylu=X3oDMTA2Z2szazkxBHNlYwN0bQ-- (Yahoo News)] (Link dead as of 02:29, 15 January 2007 (UTC))](/news/2005/08/1/president-bush-circumvents-the-senate-after-a-five-month-impasse-to-appoint-john-bolton-as-the-united-states-ambassador-to-the-united-natio.md)
 _Context: (Wikinews), John R. Bolton, United States Ambassador to the United Nations_

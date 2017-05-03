@@ -1,7 +1,7 @@
 ## [2006-04-11](/news/2006/04/11/index.md)
 
 ### [ The city of Essen, Germany, is selected to be the European Capital of Culture of 2010 by the EU jury. ](/news/2006/04/11/the-city-of-essen-germany-is-selected-to-be-the-european-capital-of-culture-of-2010-by-the-eu-jury.md)
-_Context: Essen, European Capital of Culture, European Union_
+_Context: EU, Essen, European Capital of Culture_
 
 ### [ A suspected suicide bomber detonates a bomb at a religious gathering in Karachi, Pakistan, killing at least 47 and injuring more than 80 celebrating  Mawlid al-Nabi. ](/news/2006/04/11/a-suspected-suicide-bomber-detonates-a-bomb-at-a-religious-gathering-in-karachi-pakistan-killing-at-least-47-and-injuring-more-than-80-ce.md)
 _Context: Karachi, Mawlid al-Nabi, suicide bomb attack_

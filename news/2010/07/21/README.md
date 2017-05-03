@@ -67,7 +67,7 @@ _Context: India, Muslim_
 BP is to sell assets in the US, western Canada and Egypt, in order to part-fund the clean-up cost of the Gulf of Mexico oil spill.
 
 ### [Prime Minister of Hungary Viktor Orban says his government would only talk about their 2011 budget with the European Union, not the International Monetary Fund. ](/news/2010/07/21/prime-minister-of-hungary-viktor-orba-n-says-his-government-would-only-talk-about-their-2011-budget-with-the-european-union-not-the-interna.md)
-_Context: European Union, International Monetary Fund, Prime Minister, Viktor Orban_
+_Context: EU, International Monetary Fund, Prime Minister, Viktor Orban_
 
 ### [The European Commission orders the closure of loss-making coal mines across the European Union over the next four years. ](/news/2010/07/21/the-european-commission-orders-the-closure-of-loss-making-coal-mines-across-the-european-union-over-the-next-four-years.md)
 Loss-making coal mines across the EU will have to close over the next four years, the European Commission says.

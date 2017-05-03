@@ -19,7 +19,7 @@ _Context: Arctic Ocean, Obama Administration, Royal Dutch Shell_
 Fifteen people died and 20 others were injured, six of them critically, when a bus they were travelling in rolled down into a deep gorge in Udhampur district.
 
 ### [Two people are dead after Typhoon Noul hits the Philippines. The storm is now headed for Japan. ](/news/2015/05/11/two-people-are-dead-after-typhoon-noul-hits-the-philippines-the-storm-is-now-headed-for-japan.md)
-_Context: Japan, Philippines, Typhoon Noul_
+_Context: Japan, Philippine, Typhoon Noul_
 
 ### [The death toll from a tornado outbreak in the United States rises to five with dozens injured and eight people missing. ](/news/2015/05/11/the-death-toll-from-a-tornado-outbreak-in-the-united-states-rises-to-five-with-dozens-injured-and-eight-people-missing.md)
 _Context: May 5-10, 2015 tornado outbreak sequence, United States_
@@ -46,7 +46,7 @@ _Context: Guyana, Guyanese general election_
 Chilean President Michelle Bachelet names a new cabinet as she seeks to overcome a fall in popularity and a series of political scandals.
 
 ### [The Prime Minister of the United Kingdom David Cameron announces a new Cabinet consisting of members of the Conservative Party. ](/news/2015/05/11/the-prime-minister-of-the-united-kingdom-david-cameron-announces-a-new-cabinet-consisting-of-members-of-the-conservative-party.md)
-_Context: Conservative Party, David Cameron, Prime Minster, Second Cameron ministry_
+_Context: Conservative, David Cameron, Prime Minster, Second Cameron ministry_
 
 ## [Previous Day...](/news/2015/05/10/index.md)
 

@@ -13,7 +13,7 @@ _Context: Dead Sea Scrolls, Google, Israel's national museum_
 _Context: Asia, Europe, European sovereign-debt crisis, stock market_
 
 ### [More than 100,000 people in the Philippines are evacuated ahead of Typhoon Nesat, with Albay province lying directly in the storm's pathway. ](/news/2011/09/26/more-than-100-000-people-in-the-philippines-are-evacuated-ahead-of-typhoon-nesat-with-albay-province-lying-directly-in-the-storm-s-pathway.md)
-_Context: 2011 Pacific typhoon season, Albay, Philippines_
+_Context: 2011 Pacific typhoon season, Albay, Philippine_
 
 ### [Tuvaluan Prime Minister Willy Telavi signs an agreement to establish diplomatic relations with Abkhazia during an official visit to Sukhumi. ](/news/2011/09/26/tuvaluan-prime-minister-willy-telavi-signs-an-agreement-to-establish-diplomatic-relations-with-abkhazia-during-an-official-visit-to-sukhumi.md)
 _Context: Abkhazia, Prime Minister of Tuvalu, Sukhumi, Tuvalu, Willy Telavi, diplomatic relations_

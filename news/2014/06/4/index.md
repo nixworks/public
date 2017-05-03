@@ -34,7 +34,7 @@ The mayor of Venice is among 35 people arrested in Italy over alleged corruption
 _Context: Attorney General of Germany, Harald Range, NSA, surveillance of Chancellor Angela Merkel's phone_
 
 ### [The International Court of Arbitration in The Hague urges China to respond to ''Philippines v. China'', the case filed by the Philippines regarding the Nine-dotted line. ](/news/2014/06/4/the-international-court-of-arbitration-in-the-hague-urges-china-to-respond-to-philippines-v-china-the-case-filed-by-the-philippines-re.md)
-_Context: China, International Court of Arbitration, Philippines, Philippines v. China, The Hague, sweeping claim_
+_Context: China, International Court of Arbitration, Philippine, Philippines v. China, The Hague, sweeping claim_
 
 ### [In the city of Moncton, New Brunswick, Canada, an armed gunman shoots five RCMP officers, killing three. ](/news/2014/06/4/in-the-city-of-moncton-new-brunswick-canada-an-armed-gunman-shoots-five-rcmp-officers-killing-three.md)
 New Brunswick RCMP have confirmed that three officers were shot and killed and two other officers were wounded by a heavily armed gunman wearing camouflage in Moncton.

@@ -7,7 +7,7 @@ A Saudi-led military coalition announced a five-day humanitarian cease-fire in Y
 _Context: Iraq, suicide bomb attack, swimming pool_
 
 ### [Chris Brown leaves the Philippines after he is prevented from leaving for four days due to a financial dispute between Brown and the Christian sect Iglesia ni Cristo. ](/news/2015/07/25/chris-brown-leaves-the-philippines-after-he-is-prevented-from-leaving-for-four-days-due-to-a-financial-dispute-between-brown-and-the-christi.md)
-_Context: Chris Brown, Iglesia ni Cristo, Philippines_
+_Context: Chris Brown, Iglesia ni Cristo, Philippine_
 
 ### [A large fire 12|mi|abbr=off west of the French city of Bordeaux ravages more than 350|ha|abbr=off of forest. ](/news/2015/07/25/a-large-fire-12-mi-abbr-off-west-of-the-french-city-of-bordeaux-ravages-more-than-350-ha-abbr-off-of-forest.md)
 Water-bombers were called in Saturday to try to contain a forest fire burning on the western outskirts of Bordeaux that has prompted dozens of evacuations including from a psychiatric facility, authorities said.

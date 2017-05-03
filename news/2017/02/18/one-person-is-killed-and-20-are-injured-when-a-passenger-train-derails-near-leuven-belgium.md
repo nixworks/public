@@ -11,7 +11,7 @@ The passenger train bound for the Belgian capital jumps the tracks, with one car
 
 ### Related:
 
-1. [Workers' Party of Belgium representative Raoul Hedebouw gets stabbed in the thigh, moments before holding a speech in Lige, Belgium. The presumed assailant is arrested.  ](/news/2017/05/1/workers-party-of-belgium-representative-raoul-hedebouw-gets-stabbed-in-the-thigh-moments-before-holding-a-speech-in-liege-belgium-the-pr.md) _Context: Belgium_
+1. [Workers' Party of Belgium representative Raoul Hedebouw gets stabbed in the thigh, moments before holding a speech in Liege, Belgium. The presumed assailant is arrested.  ](/news/2017/05/1/workers-party-of-belgium-representative-raoul-hedebouw-gets-stabbed-in-the-thigh-moments-before-holding-a-speech-in-lia-ge-belgium-the-p.md) _Context: Belgium_
 2. [The Democratic Republic of the Congo suspends its military cooperation with Belgium. ](/news/2017/04/13/the-democratic-republic-of-the-congo-suspends-its-military-cooperation-with-belgium.md) _Context: Belgium_
 3. [A power outage plunges the Belgian capital of Brussels into darkness. ](/news/2017/02/9/a-power-outage-plunges-the-belgian-capital-of-brussels-into-darkness.md) _Context: Belgium_
 4. [Belgium supports a plan by Dutch minister Lilianne Ploumen to launch a fund compensating worldwide for the United States' newly-reinstated Mexico City policy. ](/news/2017/01/25/belgium-supports-a-plan-by-dutch-minister-lilianne-ploumen-to-launch-a-fund-compensating-worldwide-for-the-united-states-newly-reinstated-m.md) _Context: Belgium_

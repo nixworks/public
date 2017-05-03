@@ -7,7 +7,7 @@ _Context: Chief Justice, Iftikhar Muhammad Chaudhry, Pakistan, Pervez Musharraf_
 _Context: Portuguese Parliament, abortion, pregnancy, referendum_
 
 ### [ The European Union agrees to new targets to combat climate change including having a fifth of its power from renewable sources and 10% of its vehicles from biofuels. ](/news/2007/03/9/the-european-union-agrees-to-new-targets-to-combat-climate-change-including-having-a-fifth-of-its-power-from-renewable-sources-and-10-of-i.md)
-_Context: European Union, biofuels, climate change_
+_Context: EU, biofuels, climate change_
 
 ### [ Ugandan judges end a week-long strike after President Yoweri Museveni expressed regret over an incident where security men seized Opposition supporters from the High Court of Uganda. ](/news/2007/03/9/ugandan-judges-end-a-week-long-strike-after-president-yoweri-museveni-expressed-regret-over-an-incident-where-security-men-seized-oppositio.md)
 _Context: President, Uganda, Yoweri Museveni_

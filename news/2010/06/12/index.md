@@ -31,7 +31,7 @@ _Context: Auckland, New Zealand, central business district, prostitute, young re
 _Context: south China, teacher_
 
 ### [The European Union promises EUR500 million towards the 2010/11 budget of Kenya, the largest economy in East Africa. ](/news/2010/06/12/the-european-union-promises-a-500-million-towards-the-2010-11-budget-of-kenya-the-largest-economy-in-east-africa.md)
-_Context: East Africa, European Union, Kenya_
+_Context: EU, East Africa, Kenya_
 
 ### [Chinese Buddhist monks and archaeologists revealed what they believe to be a part of the skull of Siddartha Gautama, the founder of Buddhism, in east China's Jiangsu Province. ](/news/2010/06/12/chinese-buddhist-monks-and-archaeologists-revealed-what-they-believe-to-be-a-part-of-the-skull-of-siddartha-gautama-the-founder-of-buddhism.md)
 _Context: Buddhist, Buddhist monks, Gautama Buddha, Jiangsu Province_

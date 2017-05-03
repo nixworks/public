@@ -10,7 +10,7 @@ _Context: 2008 Danish embassy bombing, Jyllands-Posten Muhammad cartoons controv
 _Context: Barack Obama, Chicago, Tony Rezko, property developer_
 
 ### [ A coolant leak at Krsko Nuclear Power Plant in Slovenia triggers the European Union's ECURIE nuclear emergency alert system.  Slovenian authorities state the situation is under control, with no radiation leak into the environment. ](/news/2008/06/4/a-coolant-leak-at-kra-ko-nuclear-power-plant-in-slovenia-triggers-the-european-union-s-ecurie-nuclear-emergency-alert-system-slovenian-au.md)
-_Context: ECURIE, European Union, Krsko Nuclear Power Plant, Slovenia, coolant leak_
+_Context: ECURIE, EU, Krsko Nuclear Power Plant, Slovenia, coolant leak_
 
 ### [ Reassembly of the Obelisk of Axum begins in Axum, after the monument was returned to Ethiopia from Italy in 2005. ](/news/2008/06/4/reassembly-of-the-obelisk-of-axum-begins-in-axum-after-the-monument-was-returned-to-ethiopia-from-italy-in-2005.md)
 _Context: Axum, Obelisk of Axum_

@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Monitoring group Turkey Blocks reports that a provisional administrative order blocks access to all language editions of Wikipedia in Turkey. ](/news/2017/04/29/monitoring-group-turkey-blocks-reports-that-a-provisional-administrative-order-blocks-access-to-all-language-editions-of-wikipedia-in-turkey.md) _Context: Wikipedia_
+1. [Media freedom in Turkey, Monitoring group Turkey Blocks reports that a provisional administrative order blocks access to all language editions of Wikipedia in Turkey. ](/news/2017/04/29/media-freedom-in-turkey-monitoring-group-turkey-blocks-reports-that-a-provisional-administrative-order-blocks-access-to-all-language-editio.md) _Context: Wikipedia_
 2. [A series of explosions on a military base near the Ukrainian city of Balakliya forces thousands to be evacuated from their homes. ](/news/2017/03/23/a-series-of-explosions-on-a-military-base-near-the-ukrainian-city-of-balakliya-forces-thousands-to-be-evacuated-from-their-homes.md) _Context: Ukrainian_
 3. [A former Ukrainian soldier assassinates former Russian Duma deputy Denis Voronenkov in the Ukrainian capital Kiev. In December 2016, he received Ukrainian citizenship. Ilya Ponomarev says Voronenkov was heading to a meeting with him. ](/news/2017/03/23/a-former-ukrainian-soldier-assassinates-former-russian-duma-deputy-denis-voronenkov-in-the-ukrainian-capital-kiev-in-december-2016-he-rece.md) _Context: Ukrainian_
 4. [A methane gas explosion occurs at a coal mine in Lviv Oblast, Ukraine, killing at least eight miners, with another 20 unaccounted for. ](/news/2017/03/2/a-methane-gas-explosion-occurs-at-a-coal-mine-in-lviv-oblast-ukraine-killing-at-least-eight-miners-with-another-20-unaccounted-for.md) _Context: Ukrainian_

@@ -7,10 +7,10 @@ _Context: Iraq, Saddam Hussein, Tikrit, United States_
 _Context: 2008, Moroccan, Spain, Strait of Gibraltar, tunnel_
 
 ### [ At the EU summit, EU Commissioner Chris Patten describes the United States' method of awarding contracts for the rebuilding of Iraq as politically ''maladroit''. [http://www.smh.com.au/articles/2003/12/13/1071125715026.html]](/news/2003/12/13/at-the-eu-summit-eu-commissioner-chris-patten-describes-the-united-states-method-of-awarding-contracts-for-the-rebuilding-of-iraq-as-poli.md)
-_Context: Chris Patten, EU Commissioner, European Union, Iraq, United States_
+_Context: Chris Patten, EU, EU Commissioner, Iraq, United States_
 
 ### [ The European Union fails to reach agreement on a new constitution. [http://news.bbc.co.uk/2/hi/europe/3315447.stm]](/news/2003/12/13/the-european-union-fails-to-reach-agreement-on-a-new-constitution-http-news-bbc-co-uk-2-hi-europe-3315447-stm.md)
-_Context: European Union_
+_Context: EU_
 
 ### [ Operatic singer (tenor) Luciano Pavarotti marries his partner and producer Nicoletta Mantovani at a ceremony in Northern Italy. [http://www.abc.net.au/news/newsitems/s1009496.htm][http://newsobserver.com/24hour/entertainment/story/1086978p-7593243c.html]](/news/2003/12/13/operatic-singer-tenor-luciano-pavarotti-marries-his-partner-and-producer-nicoletta-mantovani-at-a-ceremony-in-northern-italy-http-www.md)
 _Context: Italian, Luciano Pavarotti, opera, tenor_

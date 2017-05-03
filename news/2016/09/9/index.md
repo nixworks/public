@@ -22,7 +22,7 @@ But federal authorities quickly said the pipeline near a lake will not go forwar
 Britain has become &ldquo;completely lost&rdquo; post Brexit and can eventually be expected to &ldquo;plead&rdquo; for a deal when it realises the weakness of its position at the negotiating table, senior European Commission officials now believe.
 
 ### [The alert level for the Mayon Volcano in the Philippines is increased after more than a hundred earthquakes were detected in its vicinity. ](/news/2016/09/9/the-alert-level-for-the-mayon-volcano-in-the-philippines-is-increased-after-more-than-a-hundred-earthquakes-were-detected-in-its-vicinity.md)
-_Context: Mayon Volcano, Philippines_
+_Context: Mayon Volcano, Philippine_
 
 ### [Millions of people in Nigeria are at risk of famine. ](/news/2016/09/9/millions-of-people-in-nigeria-are-at-risk-of-famine.md)
 _Context: Nigeria, famine_

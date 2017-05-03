@@ -16,7 +16,7 @@ _Context: Eon Labs, Hexal, Novartis, Swiss_
 _Context: 2004 Indian Ocean earthquake, Eritrea, World Food Program_
 
 ### [ European Union countries renew sanctions against the government of Robert Mugabe in Zimbabwe ](/news/2005/02/22/european-union-countries-renew-sanctions-against-the-government-of-robert-mugabe-in-zimbabwe.md)
-_Context: European Union, Robert Mugabe, Zimbabwe_
+_Context: EU, Robert Mugabe, Zimbabwe_
 
 ### [ In Nigeria, President Olusegun Obasanjo opens a national political conference about constitutional reform ](/news/2005/02/22/in-nigeria-president-olusegun-obasanjo-opens-a-national-political-conference-about-constitutional-reform.md)
 _Context: Nigeria, Olusegun Obasanjo, constitution_

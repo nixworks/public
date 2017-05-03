@@ -4,7 +4,7 @@
 Two UN peacekeepers are killed and others are injured in a car bomb blast in the north-east Malian town of Kidal.
 
 ### [Philippine President Benigno Aquino III downplays the significance of the recent surge of violence against journalists in the country after three deaths. ](/news/2013/12/14/philippine-president-benigno-aquino-iii-downplays-the-significance-of-the-recent-surge-of-violence-against-journalists-in-the-country-after.md)
-_Context: Benigno Aquino III, Philippine President, Philippines_
+_Context: Benigno Aquino III, Philippine, Philippine President_
 
 ### [A grenade  is thrown onto a bus in Nairobi, Kenya, killing at least four people and injuring 15 others. ](/news/2013/12/14/a-grenade-is-thrown-onto-a-bus-in-nairobi-kenya-killing-at-least-four-people-and-injuring-15-others.md)
 At least four people are killed and 15 injured by a grenade thrown onto a bus in the Kenyan capital, Nairobi, the interior ministry says.

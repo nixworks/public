@@ -19,7 +19,7 @@ _Context: 2008, Democratic, Hillary Clinton, universal healthcare_
 US President George W Bush has nominated a retired federal judge and law and order conservative to replace embattled Alberto Gonzales as US Attorney-General.
 
 ### [ Microsoft loses its appeal against a European Union antitrust ruling forcing it to pay a 497 million euro fine. ](/news/2007/09/17/microsoft-loses-its-appeal-against-a-european-union-antitrust-ruling-forcing-it-to-pay-a-497-million-euro-fine.md)
-_Context: European Union, Microsoft, antitrust, euro_
+_Context: EU, Microsoft, antitrust, euro_
 
 ### [ The Supreme Court of Pakistan hears petitions as to whether Pervez Musharraf should remain as head of the Pakistani Army while serving as the President of Pakistan. ](/news/2007/09/17/the-supreme-court-of-pakistan-hears-petitions-as-to-whether-pervez-musharraf-should-remain-as-head-of-the-pakistani-army-while-serving-as-t.md)
 _Context: Pakistani Army, Pervez Musharraf, President, Supreme Court_
@@ -28,7 +28,7 @@ _Context: Pakistani Army, Pervez Musharraf, President, Supreme Court_
 _Context: 2007 Pacific typhoon season, South Korea_
 
 ### [ A new species of bat, the Mindoro Stripe-Faced Fruit bat, is discovered on Mindoro Island in the Philippines. ](/news/2007/09/17/a-new-species-of-bat-the-mindoro-stripe-faced-fruit-bat-is-discovered-on-mindoro-island-in-the-philippines.md)
-_Context: Mindoro Island, Mindoro Stripe-Faced Fruit bat, Philippines, bat_
+_Context: Mindoro Island, Mindoro Stripe-Faced Fruit bat, Philippine, bat_
 
 ### [ Flight OG 269 crash: Fifty-five foreigners are among the 88 people who died in the crash of Flight OG 269 in Phuket. ](/news/2007/09/17/flight-og-269-crash-p-fifty-five-foreigners-are-among-the-88-people-who-died-in-the-crash-of-flight-og-269-in-phuket.md)
 A total of 55 foreigners, including one Australian, have been confirmed among the 88 people killed after a budget Thai airliner crashed whilst attempting to land on the resort island of Phuket yesterday.

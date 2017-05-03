@@ -10,7 +10,7 @@ _Context: Colombia, Colombian government, Ivn Ros, Juan Manuel Santos, Minister 
 _Context: Afghanistan, Guantanamo Bay detention camp, Muhammed Rahim, Osama bin Laden, Tora Bora, al-Qaeda_
 
 ### [ After a summit in Brussels, European Union leaders agree to a 20% reduction in greenhouse gases by 2020. ](/news/2008/03/14/after-a-summit-in-brussels-european-union-leaders-agree-to-a-20-reduction-in-greenhouse-gases-by-2020.md)
-_Context: Brussels, European Union, greenhouse gas_
+_Context: Brussels, EU, greenhouse gas_
 
 ### [ United States investment bank Bear Stearns gets emergency funding from JPMorgan Chase, with the Federal Reserve Bank of New York's backing. ](/news/2008/03/14/united-states-investment-bank-bear-stearns-gets-emergency-funding-from-jpmorgan-chase-with-the-federal-reserve-bank-of-new-york-s-backing.md)
 _Context: Bear Stearns, Federal Reserve Bank of New York, JPMorgan Chase, United States, investment bank_

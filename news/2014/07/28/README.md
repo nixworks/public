@@ -4,7 +4,7 @@
 Ukraine&#39;s Armed Forces have taken control of Savur-Mohyla in Donetsk region, Chief of the General Staff, Lieutenant-General Viktor Muzhenko, has reported to President Petro Poroshenko.
 
 ### [At least 16 people are killed and 13 injured in the Philippines in a terrorist attack by Islamic group Abu Sayyaf. ](/news/2014/07/28/at-least-16-people-are-killed-and-13-injured-in-the-philippines-in-a-terrorist-attack-by-islamic-group-abu-sayyaf.md)
-_Context: Abu Sayyaf, Philippines_
+_Context: Abu Sayyaf, Philippine_
 
 ### [Post-civil war violence in Libya:A huge fire at the National Oil Corp. depot started by a stray rocket threatens the Libyan capital Tripoli. ](/news/2014/07/28/post-civil-war-violence-in-libya-pa-huge-fire-at-the-national-oil-corp-depot-started-by-a-stray-rocket-threatens-the-libyan-capital-tripoli.md)
 _Context: Libya, National Oil Corp., Post-civil war violence in Libya, Tripoli_

@@ -12,7 +12,7 @@
 ### Related:
 
 1. [ Belgian police arrest two leaders of the Vlaams Belang party, Frank Vanhecke and Filip Dewinter, as well as dozens of party supporters during a banned march in Brussels against the "Islamisation of Europe". ](/news/2007/09/11/belgian-police-arrest-two-leaders-of-the-vlaams-belang-party-frank-vanhecke-and-filip-dewinter-as-well-as-dozens-of-party-supporters-duri.md) _Context: Belgium, Vlaams Belang_
-2. [Workers' Party of Belgium representative Raoul Hedebouw gets stabbed in the thigh, moments before holding a speech in Lige, Belgium. The presumed assailant is arrested.  ](/news/2017/05/1/workers-party-of-belgium-representative-raoul-hedebouw-gets-stabbed-in-the-thigh-moments-before-holding-a-speech-in-liege-belgium-the-pr.md) _Context: Belgium_
+2. [Workers' Party of Belgium representative Raoul Hedebouw gets stabbed in the thigh, moments before holding a speech in Liege, Belgium. The presumed assailant is arrested.  ](/news/2017/05/1/workers-party-of-belgium-representative-raoul-hedebouw-gets-stabbed-in-the-thigh-moments-before-holding-a-speech-in-lia-ge-belgium-the-p.md) _Context: Belgium_
 3. [The Democratic Republic of the Congo suspends its military cooperation with Belgium. ](/news/2017/04/13/the-democratic-republic-of-the-congo-suspends-its-military-cooperation-with-belgium.md) _Context: Belgium_
 4. [A power outage plunges the Belgian capital of Brussels into darkness. ](/news/2017/02/9/a-power-outage-plunges-the-belgian-capital-of-brussels-into-darkness.md) _Context: Belgium_
 5. [One person is killed and 20 are injured when a passenger train derails near Leuven, Belgium. ](/news/2017/02/18/one-person-is-killed-and-20-are-injured-when-a-passenger-train-derails-near-leuven-belgium.md) _Context: Belgium_

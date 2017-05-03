@@ -11,4 +11,5 @@
 
 ### Related:
 
-1. [The 2010-2011 Belgian government formation draws to a close as six parties come to an agreement which will see PS leader Elio di Rupo become Prime Minister. The deal, however, still has to be approved by the parties' conventions, and the cabinet makeup is not yet defined. ](/news/2011/12/1/the-2010a2011-belgian-government-formation-draws-to-a-close-as-six-parties-come-to-an-agreement-which-will-see-ps-leader-elio-di-rupo-beco.md) _Context: socialist_
+1. [Workers' Party of Belgium representative Raoul Hedebouw gets stabbed in the thigh, moments before holding a speech in Liege, Belgium. The presumed assailant is arrested.  ](/news/2017/05/1/workers-party-of-belgium-representative-raoul-hedebouw-gets-stabbed-in-the-thigh-moments-before-holding-a-speech-in-lia-ge-belgium-the-p.md) _Context: Liege_
+2. [The 2010-2011 Belgian government formation draws to a close as six parties come to an agreement which will see PS leader Elio di Rupo become Prime Minister. The deal, however, still has to be approved by the parties' conventions, and the cabinet makeup is not yet defined. ](/news/2011/12/1/the-2010a2011-belgian-government-formation-draws-to-a-close-as-six-parties-come-to-an-agreement-which-will-see-ps-leader-elio-di-rupo-beco.md) _Context: socialist_

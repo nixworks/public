@@ -28,7 +28,7 @@ _Context: Benjamin Netanyahu, Israel, Likud, Politics of Israel, President, Shim
 _Context: Dera Ismail Khan, Pakistan, suicide bomb attack_
 
 ### [ Forty-seven people are injured when a Northwest Airlines flight from the Philippines to Japan experiences severe turbulence. ](/news/2009/02/20/forty-seven-people-are-injured-when-a-northwest-airlines-flight-from-the-philippines-to-japan-experiences-severe-turbulence.md)
-_Context: Japan, Northwest Airlines, Philippines, turbulence_
+_Context: Japan, Northwest Airlines, Philippine, turbulence_
 
 ### [ India investigates several deaths caused by the hepatitis B virus in the western state of Gujarat. ](/news/2009/02/20/india-investigates-several-deaths-caused-by-the-hepatitis-b-virus-in-the-western-state-of-gujarat.md)
 _Context: Gujarat, India, Indian state, hepatitis B, outbreak_

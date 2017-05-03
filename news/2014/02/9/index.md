@@ -22,7 +22,7 @@ _Context: British Invasion, The Beatles_
 _Context: Civil Rights Movement, Eric Holder, same-sex marriage_
 
 ### [Shia LeBeouf walks out of the premiere of ''Nymphomaniac'' with a paper bag over his head after becoming involved in a plagiarism controversy. ](/news/2014/02/9/shia-lebeouf-walks-out-of-the-premiere-of-nymphomaniac-with-a-paper-bag-over-his-head-after-becoming-involved-in-a-plagiarism-controvers.md)
-_Context: Nymphomaniac, Shia LeBeouf, plagiarism_
+_Context: Nymphomaniac, Shia LeBeouf, plagiarising_
 
 ### [Woody Allen responds to allegations that he molested his daughter. ](/news/2014/02/9/woody-allen-responds-to-allegations-that-he-molested-his-daughter.md)
 _Context: Woody Allen_

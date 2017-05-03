@@ -40,7 +40,7 @@ _Context: England, Green Party, Wales, climate change_
 _Context: France, biometric_
 
 ### [ The European Union denies ruling out lifting an EU arms embargo on the People's Republic of China before June. ](/news/2005/04/15/the-european-union-denies-ruling-out-lifting-an-eu-arms-embargo-on-the-people-s-republic-of-china-before-june.md)
-_Context: China's, European Union_
+_Context: China's, EU_
 
 ### [ The Sea organ site opens to the public in Zadar, Croatia.](/news/2005/04/15/the-sea-organ-site-opens-to-the-public-in-zadar-croatia.md)
 _Context: Croatia, Sea organ, Zadar_

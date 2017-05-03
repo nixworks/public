@@ -4,7 +4,7 @@
 _Context: Chinese, Italian, Maltese, Sicily, illegal immigrant_
 
 ### [ Jean-Claude Juncker and Olli Rehn confirm the European Union's support for Paul Wolfowitz to become the president of the World Bank. ](/news/2005/03/30/jean-claude-juncker-and-olli-rehn-confirm-the-european-union-s-support-for-paul-wolfowitz-to-become-the-president-of-the-world-bank.md)
-_Context: European Union, Jean-Claude Juncker, Olli Rehn, Paul Wolfowitz, World Bank_
+_Context: EU, Jean-Claude Juncker, Olli Rehn, Paul Wolfowitz, World Bank_
 
 ### [ Doron Grossman, the Israeli ambassador to Ethiopia, is to be flown back to Israel after receiving a critical head injury following an apparent failed suicide attempt. ](/news/2005/03/30/doron-grossman-the-israeli-ambassador-to-ethiopia-is-to-be-flown-back-to-israel-after-receiving-a-critical-head-injury-following-an-appar.md)
 _Context: Doron Grossman, Ethiopia, Israel, ambassador, suicide_

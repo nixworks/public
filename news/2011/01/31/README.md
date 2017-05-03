@@ -34,7 +34,7 @@ _Context: Japanese government, Kyushu, Shinmoedake, volcanic activity_
 _Context: Anna Bligh, Australia, Cyclone Yasi, Premier, Queensland_
 
 ### [The European Union and United States impose new sanctions against Belarus President Alexander Lukashenko and close associates. ](/news/2011/01/31/the-european-union-and-united-states-impose-new-sanctions-against-belarus-president-alexander-lukashenko-and-close-associates.md)
-_Context: Alexander Lukashenko, Belarus, European Union, United States_
+_Context: Alexander Lukashenko, Belarus, EU, United States_
 
 ### [Oman says it has uncovered a spy network from the United Arab Emirates operating in the country. ](/news/2011/01/31/oman-says-it-has-uncovered-a-spy-network-from-the-united-arab-emirates-operating-in-the-country.md)
 Oman says it has uncovered a UAE spy network in the Gulf Arab state that targeted its government and military.

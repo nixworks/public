@@ -1,7 +1,7 @@
 ## [2007-04-11](/news/2007/04/11/index.md)
 
 ### [ Trade officials from the United States, European Union, India and Brazil meet in New Delhi, India, to revive the World Trade Organization's Doha round of negotiations. ](/news/2007/04/11/trade-officials-from-the-united-states-european-union-india-and-brazil-meet-in-new-delhi-india-to-revive-the-world-trade-organization-s.md)
-_Context: Brazil, Doha round of negotiations, European Union, India, New Delhi, United States, World Trade Organization_
+_Context: Brazil, Doha round of negotiations, EU, India, New Delhi, United States, World Trade Organization_
 
 ### [ The United States Secretary of Defense Robert M. Gates meets with the Defense Ministers of the United Kingdom, Australia, Canada, the Netherlands and Denmark as well as officials from Estonia and Romania to discuss progress in Afghanistan in expectation of a Taliban offensive. Two Canadian soldiers are killed when a roadside bomb explodes. ](/news/2007/04/11/the-united-states-secretary-of-defense-robert-m-gates-meets-with-the-defense-ministers-of-the-united-kingdom-australia-canada-the-nethe.md)
 Critics of the Bush administration say that the focus on the Iraq war has jeopardized the early military victory in Afghanistan in 2001.

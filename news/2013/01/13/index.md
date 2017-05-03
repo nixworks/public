@@ -7,7 +7,7 @@ _Context: Kachin conflict, Kachin rebellion, President of Burma, Thein Sein_
 The list of winners at the 70th annual Golden Globe Awards. 
 
 ### [Neelie Kroes, the European Commissioner for Digital Agenda, said in an interview with the ''Financial Times'' of London that the European Union is planning regulatory moves later in the year that will facilitate consolidation of the telecommunications market across national borders. ](/news/2013/01/13/neelie-kroes-the-european-commissioner-for-digital-agenda-said-in-an-interview-with-the-financial-times-of-london-that-the-european-un.md)
-_Context: European Commissioner for Digital Agenda, European Union, Financial Times, Neelie Kroes, telecommunication_
+_Context: EU, European Commissioner for Digital Agenda, Financial Times, Neelie Kroes, telecommunication_
 
 ### [Sri Lankan Chief Justice Shirani Bandaranayake is removed from office by President Mahinda Rajapaksa after being impeached. ](/news/2013/01/13/sri-lankan-chief-justice-shirani-bandaranayake-is-removed-from-office-by-president-mahinda-rajapaksa-after-being-impeached.md)
 _Context: Chief Justice, Mahinda Rajapaksa, President of Sri Lanka, Shirani Bandaranayake, Sri Lanka, being impeached_

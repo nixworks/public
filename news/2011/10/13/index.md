@@ -40,7 +40,7 @@ Raj Rajaratnam, a self-made hedge fund tycoon convicted in the biggest Wall Stre
 _Context: Ellen Johnson Sirleaf, Liberian presidential election, Nobel Peace Prize, President of Liberia, Winston Tubman, runoff election_
 
 ### [The Parliament of Slovakia passes a law providing for a parliamentary election on March 10, as part of a deal to allow the passage of the European Union's European Financial Stability Fund. ](/news/2011/10/13/the-parliament-of-slovakia-passes-a-law-providing-for-a-parliamentary-election-on-march-10-as-part-of-a-deal-to-allow-the-passage-of-the-eu.md)
-_Context: European Financial Stability Fund, European Union, Parliament of Slovakia, Slovakian parliamentary election_
+_Context: EU, European Financial Stability Fund, Parliament of Slovakia, Slovakian parliamentary election_
 
 ### [Researchers at the Universities of Texas, Wollongong, British Columbia and Hanyang announce that they have collaboratively developed carbon nanotube-based artificial muscle fibers with over 1,000 times the rotational power of previous designs. The invention is expected to have applications in the creation of nanoscale motors and electrical systems. ](/news/2011/10/13/researchers-at-the-universities-of-texas-wollongong-british-columbia-and-hanyang-announce-that-they-have-collaboratively-developed-carbon.md)
 _Context: Hanyang, Universities of Texas, University of British Columbia's, Wollongong, artificial muscle, carbon nanotube, motors, nanoscale, rotational power_

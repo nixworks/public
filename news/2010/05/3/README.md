@@ -43,7 +43,7 @@ Australian Neil Robertson has won the world snooker championship title at Sheffi
 Reports say reclusive leader on trip that could ease inter-Korea tensions.
 
 ### [The European Commission proposes rules for imports of fishery products from Greenland into the EU. ](/news/2010/05/3/the-european-commission-proposes-rules-for-imports-of-fishery-products-from-greenland-into-the-eu.md)
-_Context: European Commission, European Union, Greenland_
+_Context: EU, European Commission, Greenland_
 
 ### [Uganda's highest ice cap in the Rwenzori mountain range splits. ](/news/2010/05/3/uganda-s-highest-ice-cap-in-the-rwenzori-mountain-range-splits.md)
 _Context: Rwenzori mountain range, Uganda, ice cap_

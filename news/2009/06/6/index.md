@@ -1,7 +1,7 @@
 ## [2009-06-6](/news/2009/06/6/index.md)
 
 ### [ The European Union's parliamentary election continues in Cyprus, Italy, Latvia, Malta, Slovakia, the Czech Republic, and France's overseas departments and territories. ](/news/2009/06/6/the-european-union-s-parliamentary-election-continues-in-cyprus-italy-latvia-malta-slovakia-the-czech-republic-and-france-s-overseas.md)
-_Context: Cyprus, Czech, European Parliament, European Union, France, Italian, Latvia, Maltese, Overseas departments and territories of France, Slovakia's, elections_
+_Context: Cyprus, Czech, EU, European Parliament, France, Italian, Latvia, Maltese, Overseas departments and territories of France, Slovakia's, elections_
 
 ### [ The ruling party Fianna Fail endures significant losses in Ireland's local elections and parliamentary by-elections in Dublin Central and Dublin South. ](/news/2009/06/6/the-ruling-party-fianna-fa-il-endures-significant-losses-in-ireland-s-local-elections-and-parliamentary-by-elections-in-dublin-central-and.md)
 _Context: Dublin Central, Dublin South, Fianna Fail, Republic of Ireland, by-election, local elections, parliament, ruling party_
@@ -28,7 +28,7 @@ _Context: Somalia, Transitional Federal Government, War in Somalia (2009-), mili
 _Context: Air France, Atlantic, crash of Air France Flight 447_
 
 ### [ The Philippines' Army kill 30 Moro Islamic Liberation Front members and capture a "bomb factory" on Mindanao. ](/news/2009/06/6/the-philippines-army-kill-30-moro-islamic-liberation-front-members-and-capture-a-bomb-factory-on-mindanao.md)
-_Context: Mindanao, Moro Islamic Liberation Front, Philippine Army, Philippines, communist insurgency_
+_Context: Mindanao, Moro Islamic Liberation Front, Philippine, Philippine Army, communist insurgency_
 
 ### [ Former West Berlin police officer Karl-Heinz Kurras is revealed to have spied for East Germany's Stasi. ](/news/2009/06/6/former-west-berlin-police-officer-karl-heinz-kurras-is-revealed-to-have-spied-for-east-germany-s-stasi.md)
 _Context: East Germany, Karl-Heinz Kurras, Stasi, West Berlin, espionage, police officer_

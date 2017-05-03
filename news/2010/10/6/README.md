@@ -52,7 +52,7 @@ _Context: India, Vishwas Nagar_
 _Context: Arizona, Bellemont, United States, tornado_
 
 ### [South Korea and the European Union sign a free trade agreement. ](/news/2010/10/6/south-korea-and-the-european-union-sign-a-free-trade-agreement.md)
-_Context: European Union, Free Trade Agreement, South Korea_
+_Context: EU, Free Trade Agreement, South Korea_
 
 ### [46 police officers in Ecuador are arrested on suspicion of involvement in last week's uprising. ](/news/2010/10/6/46-police-officers-in-ecuador-are-arrested-on-suspicion-of-involvement-in-last-week-s-uprising.md)
 _Context: Ecuador, protested against being stripped of their bonuses_

@@ -12,7 +12,7 @@ Less than a week after powerful thunderstorm winds toppled a stage at the Indian
 ### Related:
 
 1. [Charles Haddon, singer of the British synthpop band Ou Est Le Swimming Pool, commits suicide after a show at the Pukkelpop festival in Belgium. ](/news/2010/08/20/charles-haddon-singer-of-the-british-synthpop-band-ou-est-le-swimming-pool-commits-suicide-after-a-show-at-the-pukkelpop-festival-in-belgi.md) _Context: Belgium, Pukkelpop_
-2. [Workers' Party of Belgium representative Raoul Hedebouw gets stabbed in the thigh, moments before holding a speech in Lige, Belgium. The presumed assailant is arrested.  ](/news/2017/05/1/workers-party-of-belgium-representative-raoul-hedebouw-gets-stabbed-in-the-thigh-moments-before-holding-a-speech-in-liege-belgium-the-pr.md) _Context: Belgium_
+2. [Workers' Party of Belgium representative Raoul Hedebouw gets stabbed in the thigh, moments before holding a speech in Liege, Belgium. The presumed assailant is arrested.  ](/news/2017/05/1/workers-party-of-belgium-representative-raoul-hedebouw-gets-stabbed-in-the-thigh-moments-before-holding-a-speech-in-lia-ge-belgium-the-p.md) _Context: Belgium_
 3. [The Democratic Republic of the Congo suspends its military cooperation with Belgium. ](/news/2017/04/13/the-democratic-republic-of-the-congo-suspends-its-military-cooperation-with-belgium.md) _Context: Belgium_
 4. [A power outage plunges the Belgian capital of Brussels into darkness. ](/news/2017/02/9/a-power-outage-plunges-the-belgian-capital-of-brussels-into-darkness.md) _Context: Belgium_
 5. [One person is killed and 20 are injured when a passenger train derails near Leuven, Belgium. ](/news/2017/02/18/one-person-is-killed-and-20-are-injured-when-a-passenger-train-derails-near-leuven-belgium.md) _Context: Belgium_

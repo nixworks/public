@@ -25,7 +25,7 @@ Read the latest national and world news on Newsday. All the top stores, latest v
 _Context: Ali Salem Tamek, Europe, Moroccan, Western Sahara_
 
 ### [ The European Union is planning an operation to monitor peace process in Aceh ](/news/2005/07/18/the-european-union-is-planning-an-operation-to-monitor-peace-process-in-aceh.md)
-_Context: Aceh, European Union_
+_Context: Aceh, EU_
 
 ### [ According to AIDS study of United Nations Council of Foreign Relations, most of the HIV strains in Asia originate from Myanmar (Burma). Study used genetic fingerprinting to find spread of the virus strains ](/news/2005/07/18/according-to-aids-study-of-united-nations-council-of-foreign-relations-most-of-the-hiv-strains-in-asia-originate-from-myanmar-burma-stu.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

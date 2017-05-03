@@ -40,7 +40,7 @@ A third uninvited guest made it into a White House state dinner in honor of the 
 _Context: United States, Yemen_
 
 ### [Andal Ampatuan Jr., charged with 41 counts of murder in the Maguindanao massacre in November, pleads not guilty at the beginning of his trial in the Philippines. ](/news/2010/01/5/andal-ampatuan-jr-charged-with-41-counts-of-murder-in-the-maguindanao-massacre-in-november-pleads-not-guilty-at-the-beginning-of-his-tria.md)
-_Context: Andal Ampatuan Jr., Maguindanao massacre, Philippines_
+_Context: Andal Ampatuan Jr., Maguindanao massacre, Philippine_
 
 ### [The President of Iceland Olafur Ragnar Grimsson announces a referendum during a live televised speech. ](/news/2010/01/5/the-president-of-iceland-alafur-ragnar-gramsson-announces-a-referendum-during-a-live-televised-speech.md)
 Iceland&#39;s president has said he will not sign a bill to compensate the British &amp; Dutch govts over the failure of Icesave bank.

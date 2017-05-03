@@ -1,13 +1,13 @@
 ## [2010-12-14](/news/2010/12/14/index.md)
 
 ### [The Philippine government says it will attempt to end the long-running communist insurgency "within three years", as it announces a resumption of peace talks with rebels. ](/news/2010/12/14/the-philippine-government-says-it-will-attempt-to-end-the-long-running-communist-insurgency-within-three-years-as-it-announces-a-resumpti.md)
-_Context: Philippines, communist insurgency_
+_Context: Philippine, communist insurgency_
 
 ### [Receivers of the Pike River Mine on the South Island of New Zealand lay off 114 workers following the closure of the mine after the Pike River Mine disaster. ](/news/2010/12/14/receivers-of-the-pike-river-mine-on-the-south-island-of-new-zealand-lay-off-114-workers-following-the-closure-of-the-mine-after-the-pike-riv.md)
 _Context: New Zealand, Pike River Mine, Pike River Mine disaster, South Island_
 
 ### [Ireland's parliament approved a controversial budget package at the behest of the International Monetary Fund, aimed at shoring up Ireland's banks while getting the country's budget deficit within European Union limits. ](/news/2010/12/14/ireland-s-parliament-approved-a-controversial-budget-package-at-the-behest-of-the-international-monetary-fund-aimed-at-shoring-up-ireland-s.md)
-_Context: European Union, International Monetary Fund, Ireland_
+_Context: EU, International Monetary Fund, Ireland_
 
 ### [At least 20 people are killed in a garment factory fire near the Bangladeshi capital Dhaka. ](/news/2010/12/14/at-least-20-people-are-killed-in-a-garment-factory-fire-near-the-bangladeshi-capital-dhaka.md)
 At least 25 killed and over 100 injured as fire sweeps through garment factory near Dhaka.

@@ -1,7 +1,7 @@
 ## [2007-10-19](/news/2007/10/19/index.md)
 
 ### [ EU leaders agree in Lisbon that the transcription "evro" (evro) will be used in Bulgarian translations of the euro in official EU documents. ](/news/2007/10/19/eu-leaders-agree-in-lisbon-that-the-transcription-ed2nd3-4-evro-will-be-used-in-bulgarian-translations-of-the-euro-in-official-eu-docume.md)
-_Context: Bulgaria, European Union, Lisbon, euro, transcription_
+_Context: Bulgaria, EU, Lisbon, euro, transcription_
 
 ### [ The Dow Jones Industrial Average drops 369.1 points, or 2.7%, on the 20th anniversary of Black Monday. ](/news/2007/10/19/the-dow-jones-industrial-average-drops-369-1-points-or-2-7-on-the-20th-anniversary-of-black-monday.md)
 _Context: Black Monday, Dow Jones Industrial Average_
@@ -31,7 +31,7 @@ _Context: Gordon Brown, President of the European Council, Reform Treaty, Tony B
 _Context: 2007 Karachi bombings_
 
 ### [ An explosion kills up to eight civilians Glorietta Mall in Makati City, PhilippinesJee Ann De Gracia was one of the 11th victim of Bombing. ](/news/2007/10/19/an-explosion-kills-up-to-eight-civilians-glorietta-mall-in-makati-city-philippinesjee-ann-de-gracia-was-one-of-the-11th-victim-of-bombing.md)
-_Context: Glorietta, Makati City, Philippines, explosion_
+_Context: Glorietta, Makati City, Philippine, explosion_
 
 ### [ A ship sinks off the coast of Sulawesi in Indonesia resulting in at least 31 deaths and 35 people missing. ](/news/2007/10/19/a-ship-sinks-off-the-coast-of-sulawesi-in-indonesia-resulting-in-at-least-31-deaths-and-35-people-missing.md)
 A capsized passenger ferry close to a port on the Indonesian island of Sulawesi has left 31 people dead and 35 missing.

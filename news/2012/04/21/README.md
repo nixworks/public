@@ -19,7 +19,7 @@ _Context: Great Rift Valley, Kenya, poachers_
 _Context: Netherlands, Party for Freedom, Rutte cabinet_
 
 ### [Four new species of freshwater crab &ndash;bright purple in colour&ndash; are found in the Philippines. ](/news/2012/04/21/four-new-species-of-freshwater-crab-ndash-bright-purple-in-colour-ndash-are-found-in-the-philippines.md)
-_Context: Philippines, species_
+_Context: Philippine, species_
 
 ### [In Major League Baseball, Philip Humber of the Chicago White Sox pitches a perfect game against the Seattle Mariners. It is the 21st perfect game in MLB history and the third in team history. ](/news/2012/04/21/in-major-league-baseball-philip-humber-of-the-chicago-white-sox-pitches-a-perfect-game-against-the-seattle-mariners-it-is-the-21st-perfect.md)
 _Context: Chicago White Sox, Major League Baseball, Philip Humber, Seattle Mariners, a perfect game, perfect game_

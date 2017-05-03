@@ -7,7 +7,7 @@ Fighter jets have bombed camps belonging to suspected Islamist militants in nort
 Fifteen people are killed as five attackers, including at least three suicide bombers, launch an attack in northwest Pakistan.
 
 ### [The antitrust chief of the European Union, Joaquin Almunia, discusses coming charges against Gazprom, the Russian natural gas monopolist. ](/news/2013/10/3/the-antitrust-chief-of-the-european-union-joaquin-almunia-discusses-coming-charges-against-gazprom-the-russian-natural-gas-monopolist.md)
-_Context: European Union, Gazprom, Joaquin Almunia, Russia, antitrust_
+_Context: EU, Gazprom, Joaquin Almunia, Russia, antitrust_
 
 ### [Twitter Inc. publicly files IPO related disclosure documents. ](/news/2013/10/3/twitter-inc-publicly-files-ipo-related-disclosure-documents.md)
 _Context: IPO, Twitter Inc._

@@ -13,7 +13,7 @@ _Context: Electronic Entertainment Expo, Los Angeles, trade show, video_
 _Context: Australia, Beaconsfield mine collapse_
 
 ### [ The Estonian parliament ratifies the European constitution, making Estonia the fifteenth EU country to do so. ](/news/2006/05/9/the-estonian-parliament-ratifies-the-european-constitution-making-estonia-the-fifteenth-eu-country-to-do-so.md)
-_Context: Estonia, Estonian parliament, European Union, European constitution, country_
+_Context: EU, Estonia, Estonian parliament, European constitution, country_
 
 ### [ Lifetime Senator Giorgio Napolitano is elected as the new President of the Italian Republic after four ballots. ](/news/2006/05/9/lifetime-senator-giorgio-napolitano-is-elected-as-the-new-president-of-the-italian-republic-after-four-ballots.md)
 _Context: Giorgio Napolitano, President, elected_

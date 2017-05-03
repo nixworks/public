@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [Workers' Party of Belgium representative Raoul Hedebouw gets stabbed in the thigh, moments before holding a speech in Lige, Belgium. The presumed assailant is arrested.  ](/news/2017/05/1/workers-party-of-belgium-representative-raoul-hedebouw-gets-stabbed-in-the-thigh-moments-before-holding-a-speech-in-liege-belgium-the-pr.md) _Context: Belgium_
+1. [Workers' Party of Belgium representative Raoul Hedebouw gets stabbed in the thigh, moments before holding a speech in Liege, Belgium. The presumed assailant is arrested.  ](/news/2017/05/1/workers-party-of-belgium-representative-raoul-hedebouw-gets-stabbed-in-the-thigh-moments-before-holding-a-speech-in-lia-ge-belgium-the-p.md) _Context: Belgium_
 2. [Pope Francis, while honoring Christians killed under Nazism, communism, dictatorships, and terrorism at Rome's Basilica of St. Bartholomew, adds to those named the wife of a Muslim he met in Lesbos, Greece, who was killed by terrorists because she wouldn't throw down her crucifix. Francis referred to the Lesbos camp as a 'concentration camp' noting, despite the good will of local communities, many refugee camps are overcrowded and little more than prisons. ](/news/2017/04/22/pope-francis-while-honoring-christians-killed-under-nazism-communism-dictatorships-and-terrorism-at-rome-s-basilica-of-st-bartholomew.md) _Context: Muslim_
 3. [The Democratic Republic of the Congo suspends its military cooperation with Belgium. ](/news/2017/04/13/the-democratic-republic-of-the-congo-suspends-its-military-cooperation-with-belgium.md) _Context: Belgium_
 4. [A power outage plunges the Belgian capital of Brussels into darkness. ](/news/2017/02/9/a-power-outage-plunges-the-belgian-capital-of-brussels-into-darkness.md) _Context: Belgium_

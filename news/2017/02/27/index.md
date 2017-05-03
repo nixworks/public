@@ -16,7 +16,7 @@ _Context: Afghan Interior Ministry, Kunduz Province, Taliban, United States, War
 Explosion hits close to army checkpoint after al-Shabab threatens attacks against new president, Mohamed Abdullahi.
 
 ### [Armenia and the European Union agree on a new pact to boost ties between the two. It is expected to be signed later this year. This comes after Armenia rejected an Association Agreement in 2013. ](/news/2017/02/27/armenia-and-the-european-union-agree-on-a-new-pact-to-boost-ties-between-the-two-it-is-expected-to-be-signed-later-this-year-this-comes-af.md)
-_Context: Armenia, Armenia-European Union relations, Association Agreement, European Union_
+_Context: Armenia, Armenia-European Union relations, Association Agreement, EU_
 
 ### [The Liberal Party of the Philippines, the party of vice president Leni Robredo and detained senator Leila de Lima, formally becomes the opposition after its members and its ally from the Akbayan party are ousted from key positions in the Senate. ](/news/2017/02/27/the-liberal-party-of-the-philippines-the-party-of-vice-president-leni-robredo-and-detained-senator-leila-de-lima-formally-becomes-the-oppo.md)
 (UPDATED) The 4 ousted senators join the Senate minority bloc

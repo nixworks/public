@@ -1,7 +1,7 @@
 ## [2005-12-3](/news/2005/12/3/index.md)
 
 ### [ Talks on the new EU budget may not be completed under the United Kingdom's presidency, the UK's minister for Europe warns. ](/news/2005/12/3/talks-on-the-new-eu-budget-may-not-be-completed-under-the-united-kingdom-s-presidency-the-uk-s-minister-for-europe-warns.md)
-_Context: European Union, United Kingdom_
+_Context: EU, United Kingdom_
 
 ### [ ROC local elections, 2005: Republic of China (Taiwan) opposition party Kuomintang (Chinese Nationalist Party) makes major gains in municipal elections, taking 14 of 23 mayor or county magistrate seats. Ruling Democratic Progressive Party takes six seats. People First Party and New Party each takes one seat, and an independent wins one seat. DPP chairman Su Tseng-chang resigns to take responsibility for his party's defeat. ](/news/2005/12/3/roc-local-elections-2005-republic-of-china-taiwan-opposition-party-kuomintang-chinese-nationalist-party-makes-major-gains-in-municipa.md)
 _Context: Democratic Progressive Party, Kuomintang (Chinese Nationalist Party), New Party, People First Party, Su Tseng-Chang, Taiwan, recent elections_

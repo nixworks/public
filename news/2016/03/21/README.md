@@ -7,7 +7,7 @@ _Context: Belgrade, Serbia_
 _Context: Bamako, European Union military training operation, Mali_
 
 ### [The competition regulators of the European Union have halted their investigation into a prospective acquisition of Baker Hughes by Halliburton, effectively freezing any such combination between two giant providers of oilfield services. ](/news/2016/03/21/the-competition-regulators-of-the-european-union-have-halted-their-investigation-into-a-prospective-acquisition-of-baker-hughes-by-halliburt.md)
-_Context: Baker Hughes, European Union, Halliburton, oilfield services_
+_Context: Baker Hughes, EU, Halliburton, oilfield services_
 
 ### [A Catalan official says the 13 exchange students killed in Sunday's accident were 19-to-25-year-old women,  seven from Italy, two Germans, an Austrian, a woman from France, a Romanian and an Uzbek. Twenty-four people are  being treated in hospital with one student in critical condition, and six people, including the driver, in serious condition. Reports from officials indicate the driver lost control of the coach and crashed to the other side before running into an oncoming car. The bus driver, who passed alcohol and drug tests, is being investigated for possible negligent homicide as police seek to determine the cause of the crash. ](/news/2016/03/21/a-catalan-official-says-the-13-exchange-students-killed-in-sunday-s-accident-were-19-to-25-year-old-women-seven-from-italy-two-germans-a.md)
 Spanish investigators were on Monday attempting to establish the cause of a weekend coach crash that killed 13 foreign students, all young women and most of them from Italy. The vehicle was carrying 57 passengers from about 20 countries, many of them students on the European Erasmus exchange programme

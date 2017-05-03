@@ -52,7 +52,7 @@ _Context: Alan Shadrake, Singapore, United Kingdom, contempt of court_
 About a dozen men, who accused UK security forces of colluding in their torture overseas, are to get millions of pounds in compensation.
 
 ### [President Herman Van Rompuy predicts the possible collapse of the European Union but then says "I'm very confident we will overcome this". ](/news/2010/11/16/president-herman-van-rompuy-predicts-the-possible-collapse-of-the-european-union-but-then-says-i-m-very-confident-we-will-overcome-this.md)
-_Context: European Union, Herman Van Rompuy_
+_Context: EU, Herman Van Rompuy_
 
 ### [Taoiseach Brian Cowen addresses Dail Eireann ahead of a meeting of EU finance ministers, saying Ireland has not applied for financial support from the European Union. ](/news/2010/11/16/taoiseach-brian-cowen-addresses-da-il-aireann-ahead-of-a-meeting-of-eu-finance-ministers-saying-ireland-has-not-applied-for-financial-supp.md)
 The Government is close to finalising its four-year fiscal plan and pending approval at Cabinet level, hopes to publish it next week, the Taoiseach has said.

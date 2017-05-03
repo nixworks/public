@@ -7,7 +7,7 @@ France will deploy more than 10,000 soldiers across France in the wake of deadly
 _Context: Ukrainian, military intervention in Ukraine_
 
 ### [Rob Wainwright, the Director of Europol, tells a British parliamentary committee that up to 5000 European Union citizens have joined jihadist groups in the Middle East. ](/news/2015/01/13/rob-wainwright-the-director-of-europol-tells-a-british-parliamentary-committee-that-up-to-5000-european-union-citizens-have-joined-jihadis.md)
-_Context: British Parliament, European Union, Europol, Middle East, Rob Wainwright, jihadist_
+_Context: British Parliament, EU, Europol, Middle East, Rob Wainwright, jihadist_
 
 ### [Divers recover the cockpit voice recorder from the crashed jet. The Indonesian National Transportation Safety Committee states that by using the now collected recorders a preliminary report on the accident will be produced within a month and a final report after a year. ](/news/2015/01/13/divers-recover-the-cockpit-voice-recorder-from-the-crashed-jet-the-indonesian-national-transportation-safety-committee-states-that-by-using.md)
 Indonesian Navy confirms the cockpit voice recorder from the AirAsia plane that crashed last month has been recovered.

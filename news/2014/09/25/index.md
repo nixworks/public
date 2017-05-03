@@ -13,7 +13,7 @@ Get up to the minute breaking political news and in-depth analysis on ABCNews.co
 _Context: Attorney General, Eric Holder, United States Senate_
 
 ### [President of Ukraine Petro Poroshenko announces a wide-ranging reform program entitled Strategy 2020 to prepare Ukraine for applying for European Union membership in 2020. ](/news/2014/09/25/president-of-ukraine-petro-poroshenko-announces-a-wide-ranging-reform-program-entitled-strategy-2020-to-prepare-ukraine-for-applying-for-eur.md)
-_Context: European Union, Petro Poroshenko, Ukrainian President_
+_Context: EU, Petro Poroshenko, Ukrainian President_
 
 ## [Previous Day...](/news/2014/09/24/index.md)
 

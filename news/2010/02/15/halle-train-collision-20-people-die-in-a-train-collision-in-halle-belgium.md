@@ -14,7 +14,7 @@
 ### Related:
 
 1. [Services from the UK, France, Germany and the Netherlands remain disrupted as investigations continue into the Halle train collision in Belgium.](/news/2010/02/17/services-from-the-uk-france-germany-and-the-netherlands-remain-disrupted-as-investigations-continue-into-the-halle-train-collision-in-belg.md) _Context: Belgium, Halle train collision_
-2. [Workers' Party of Belgium representative Raoul Hedebouw gets stabbed in the thigh, moments before holding a speech in Lige, Belgium. The presumed assailant is arrested.  ](/news/2017/05/1/workers-party-of-belgium-representative-raoul-hedebouw-gets-stabbed-in-the-thigh-moments-before-holding-a-speech-in-liege-belgium-the-pr.md) _Context: Belgium_
+2. [Workers' Party of Belgium representative Raoul Hedebouw gets stabbed in the thigh, moments before holding a speech in Liege, Belgium. The presumed assailant is arrested.  ](/news/2017/05/1/workers-party-of-belgium-representative-raoul-hedebouw-gets-stabbed-in-the-thigh-moments-before-holding-a-speech-in-lia-ge-belgium-the-p.md) _Context: Belgium_
 3. [The Democratic Republic of the Congo suspends its military cooperation with Belgium. ](/news/2017/04/13/the-democratic-republic-of-the-congo-suspends-its-military-cooperation-with-belgium.md) _Context: Belgium_
 4. [A power outage plunges the Belgian capital of Brussels into darkness. ](/news/2017/02/9/a-power-outage-plunges-the-belgian-capital-of-brussels-into-darkness.md) _Context: Belgium_
 5. [One person is killed and 20 are injured when a passenger train derails near Leuven, Belgium. ](/news/2017/02/18/one-person-is-killed-and-20-are-injured-when-a-passenger-train-derails-near-leuven-belgium.md) _Context: Belgium_

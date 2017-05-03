@@ -7,7 +7,7 @@ _Context: Hezbollah, Lebanon_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ At least 804 people are dead or missing in the Philippines as a result of Typhoon Durian with the death toll expected to rise further. ](/news/2006/12/3/at-least-804-people-are-dead-or-missing-in-the-philippines-as-a-result-of-typhoon-durian-with-the-death-toll-expected-to-rise-further.md)
-_Context: Philippines, Typhoon Durian_
+_Context: Philippine, Typhoon Durian_
 
 ### [ Former President of Chile Augusto Pinochet is in a military hospital after having had a heart attack. Doctors decide to perform coronary artery bypass surgery. ](/news/2006/12/3/former-president-of-chile-augusto-pinochet-is-in-a-military-hospital-after-having-had-a-heart-attack-doctors-decide-to-perform-coronary-ar.md)
 _Context: Augusto Pinochet, President, coronary artery bypass surgery, heart attack_

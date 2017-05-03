@@ -14,7 +14,7 @@
 ### Related:
 
 1. [American mathematician John Tate wins the Abel Prize for advancing "one of the most elaborate and sophisticated branches of modern mathematics" ](/news/2010/03/24/american-mathematician-john-tate-wins-the-abel-prize-for-advancing-one-of-the-most-elaborate-and-sophisticated-branches-of-modern-mathemati.md) _Context: Abel Prize, mathematics_
-2. [Workers' Party of Belgium representative Raoul Hedebouw gets stabbed in the thigh, moments before holding a speech in Lige, Belgium. The presumed assailant is arrested.  ](/news/2017/05/1/workers-party-of-belgium-representative-raoul-hedebouw-gets-stabbed-in-the-thigh-moments-before-holding-a-speech-in-liege-belgium-the-pr.md) _Context: Belgium_
+2. [Workers' Party of Belgium representative Raoul Hedebouw gets stabbed in the thigh, moments before holding a speech in Liege, Belgium. The presumed assailant is arrested.  ](/news/2017/05/1/workers-party-of-belgium-representative-raoul-hedebouw-gets-stabbed-in-the-thigh-moments-before-holding-a-speech-in-lia-ge-belgium-the-p.md) _Context: Belgium_
 3. [The Democratic Republic of the Congo suspends its military cooperation with Belgium. ](/news/2017/04/13/the-democratic-republic-of-the-congo-suspends-its-military-cooperation-with-belgium.md) _Context: Belgium_
 4. [French mathematician Yves Meyer wins the Abel Prize for his work on the mathematical theory of wavelets. ](/news/2017/03/17/french-mathematician-yves-meyer-wins-the-abel-prize-for-his-work-on-the-mathematical-theory-of-wavelets.md) _Context: Abel Prize_
 5. [A power outage plunges the Belgian capital of Brussels into darkness. ](/news/2017/02/9/a-power-outage-plunges-the-belgian-capital-of-brussels-into-darkness.md) _Context: Belgium_

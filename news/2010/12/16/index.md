@@ -13,7 +13,7 @@ _Context: Afghanistan, Herat_
 A U.S. missile strike killed seven militants Thursday in a Pakistani region close to the Afghan border that has rarely seen such attacks, two Pakistani intelligence officials said.
 
 ### [European Union leaders agree to change the constitution to establish a mechanism to tackle sovereign debt problems. ](/news/2010/12/16/european-union-leaders-agree-to-change-the-constitution-to-establish-a-mechanism-to-tackle-sovereign-debt-problems.md)
-_Context: European Union, constitution, sovereign debt_
+_Context: EU, constitution, sovereign debt_
 
 ### [The International Monetary Fund approves a 22.5bn euro loan to the Republic of Ireland. ](/news/2010/12/16/the-international-monetary-fund-approves-a-22-5bn-euro-loan-to-the-republic-of-ireland.md)
 The International Monetary Fund approves a 22.5bn-euro three-year loan for the Republic of Ireland.

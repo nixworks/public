@@ -76,7 +76,7 @@ _Context: Vietnam, flood_
 East Timor is facing a new humanitarian emergency, with hundreds of houses burnt in the country&#039;s east and more than 1,000 villagers fleeing to the mountains.
 
 ### [ Envoys from the United States, European Union and Russia visit Serbia and Kosovo seeking a solution to the Kosovo issue. ](/news/2007/08/10/envoys-from-the-united-states-european-union-and-russia-visit-serbia-and-kosovo-seeking-a-solution-to-the-kosovo-issue.md)
-_Context: European Union, Kosovo, Russia, Serbia, United States_
+_Context: EU, Kosovo, Russia, Serbia, United States_
 
 ### [ Britain's Chief Veterinary Officer Debby Reynolds raises concern about another possible outbreak of foot-and-mouth disease in England. ](/news/2007/08/10/britain-s-chief-veterinary-officer-debby-reynolds-raises-concern-about-another-possible-outbreak-of-foot-and-mouth-disease-in-england.md)
 _Context: Debby Reynolds, England, United Kingdom, outbreak of 2007_

@@ -25,7 +25,7 @@ The U.S. military said it had launched a major offensive against al Qaeda north 
 _Context: fossil, panda, pygmy_
 
 ### [ Fiji's interim government agrees in principle to elections in 2009, following a Pacific Islands Forum assessment, and calls for assistance from the European Union and Pacific nations like Australia for funding. ](/news/2007/06/19/fiji-s-interim-government-agrees-in-principle-to-elections-in-2009-following-a-pacific-islands-forum-assessment-and-calls-for-assistance.md)
-_Context: 2009, European Union, Fiji, Pacific Islands Forum, election_
+_Context: 2009, EU, Fiji, Pacific Islands Forum, election_
 
 ### [ A candidate in the forthcoming Papua New Guinea election is charged with attempted murder of Deputy Prime Minister Don Polye. ](/news/2007/06/19/a-candidate-in-the-forthcoming-papua-new-guinea-election-is-charged-with-attempted-murder-of-deputy-prime-minister-don-polye.md)
 One of the candidates in Papua New Guinea&#039;s elections has been charged with attempting to murder the country&#039;s deputy Prime Minister.

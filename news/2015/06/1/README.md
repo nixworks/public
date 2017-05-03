@@ -10,7 +10,7 @@ Officials say at least nine killed, including a woman, in attack on NGO compound
 “A ship carrying more than 400 people capsized Monday night in the Hubei section of China&#39;s Yangtze River.”
 
 ### [A European Union mission rescues more than 5,000 migrants over three days. ](/news/2015/06/1/a-european-union-mission-rescues-more-than-5-000-migrants-over-three-days.md)
-_Context: European Union, Illegal immigration from Africa to Europe_
+_Context: EU, Illegal immigration from Africa to Europe_
 
 ### [Nigeria's anti-graft authority arrests six senior officials from the Central Bank of Nigeria and 16 people from commercial banks for fraud. ](/news/2015/06/1/nigeria-s-anti-graft-authority-arrests-six-senior-officials-from-the-central-bank-of-nigeria-and-16-people-from-commercial-banks-for-fraud.md)
 _Context: Central Bank of Nigeria, Nigeria_

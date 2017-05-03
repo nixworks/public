@@ -31,7 +31,7 @@ In&#x20;a&#x20;live&#x20;TV&#x20;interview,&#x20;French&#x20;President&#x20;Nico
 The NHS in England is to undergo one of the biggest restructuring in its history, the government announces.
 
 ### [The EU agree to impose tougher sanctions against member countries that violate the Stability and Growth Pact. ](/news/2010/07/12/the-eu-agree-to-impose-tougher-sanctions-against-member-countries-that-violate-the-stability-and-growth-pact.md)
-_Context: European Union, Stability and Growth Pact_
+_Context: EU, Stability and Growth Pact_
 
 ### [The U.S.internet search company Google agrees to submit to official Chinese censorship of "law-breaking content". ](/news/2010/07/12/the-u-s-internet-search-company-google-agrees-to-submit-to-official-chinese-censorship-of-law-breaking-content.md)
 _Context: Google_

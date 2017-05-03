@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Monitoring group Turkey Blocks reports that a provisional administrative order blocks access to all language editions of Wikipedia in Turkey. ](/news/2017/04/29/monitoring-group-turkey-blocks-reports-that-a-provisional-administrative-order-blocks-access-to-all-language-editions-of-wikipedia-in-turkey.md) _Context: Wikipedia_
+1. [Media freedom in Turkey, Monitoring group Turkey Blocks reports that a provisional administrative order blocks access to all language editions of Wikipedia in Turkey. ](/news/2017/04/29/media-freedom-in-turkey-monitoring-group-turkey-blocks-reports-that-a-provisional-administrative-order-blocks-access-to-all-language-editio.md) _Context: Wikipedia_
 2. [The United States Supreme Court,  in a 6-2 ruling written by Justice Anthony Kennedy, upholds the  8th U.S. Circuit Court of Appeals' $5.8 million class action judgment against Tyson Foods Incorporated filed by workers at an Iowa pork-processing facility who contended they were underpaid. ](/news/2016/03/22/the-united-states-supreme-court-in-a-6-2-ruling-written-by-justice-anthony-kennedy-upholds-the-8th-u-s-circuit-court-of-appeals-5-8-m.md) _Context: 8th U.S. Circuit Court of Appeals'_
 3. [Wikipedia celebrates its 15th anniversary. ](/news/2016/01/15/wikipedia-celebrates-its-15th-anniversary.md) _Context: Wikipedia_
 4. [Wikipedia concludes a large-scale operation blocking hundreds of users centered on networks of for-pay edits violating the encyclopedia's guidelines. ](/news/2015/09/1/wikipedia-concludes-a-large-scale-operation-blocking-hundreds-of-users-centered-on-networks-of-for-pay-edits-violating-the-encyclopedia-s-gu.md) _Context: Wikipedia_

@@ -4,7 +4,7 @@
 Five suspected al Qaeda members were killed in a clash with Yemeni forces when they attacked a security checkpoint in the south of the Arabian Peninsula country, a local official said on Saturday.
 
 ### [Three people are killed by leftist rebels in Tampakan, southern Philippines. ](/news/2011/03/26/three-people-are-killed-by-leftist-rebels-in-tampakan-southern-philippines.md)
-_Context: New People's Army, Philippines, Tampakan_
+_Context: New People's Army, Philippine, Tampakan_
 
 ### [Hamas states that it will agree to a ceasefire and halt their rocket fire at Israel if Israel stops attacking targets in the Gaza Strip. ](/news/2011/03/26/hamas-states-that-it-will-agree-to-a-ceasefire-and-halt-their-rocket-fire-at-israel-if-israel-stops-attacking-targets-in-the-gaza-strip.md)
 Militant groups in Gaza say that they will agree to a ceasefire with Israel if Israel stops attacks on the Palestinian territory.

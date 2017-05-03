@@ -1,7 +1,7 @@
 ## [2014-01-25](/news/2014/01/25/index.md)
 
 ### [The Philippines and the Bangsamoro agree to a peace deal that would help end the 45-year conflict. ](/news/2014/01/25/the-philippines-and-the-bangsamoro-agree-to-a-peace-deal-that-would-help-end-the-45-year-conflict.md)
-_Context: Civil conflict in the Philippines, Filipino Muslims, Philippines, peace deal_
+_Context: Civil conflict in the Philippines, Filipino Muslims, Philippine, peace deal_
 
 ### [Post-civil war violence in Libya:Five Egyptian embassy staff  are kidnapped in the Libyan capital of Tripoli. ](/news/2014/01/25/post-civil-war-violence-in-libya-pfive-egyptian-embassy-staff-are-kidnapped-in-the-libyan-capital-of-tripoli.md)
 _Context: Egypt, Libya, Post-civil war violence in Libya, Tripoli_

@@ -13,7 +13,7 @@ Some 29 people, 20 of them women, were killed on Saturday evening in an apartmen
 _Context: Istanbul, Turkey_
 
 ### [2014 pro-Russian unrest in Ukraine:The European Union imposes sanctions on Aleksandr Borodai and ten other pro-Russian leaders including travel bans and asset freezes. ](/news/2014/07/12/2014-pro-russian-unrest-in-ukraine-pthe-european-union-imposes-sanctions-on-aleksandr-borodai-and-ten-other-pro-russian-leaders-including-tr.md)
-_Context: 2014 pro-Russian unrest in Ukraine, Aleksandr Borodai, European Union_
+_Context: 2014 pro-Russian unrest in Ukraine, Aleksandr Borodai, EU_
 
 ### [Afghan presidential election, 2014:The disputed Afghan presidential election is to be recounted in full following an agreement between the two leading candidates Abdullah Abdullah and Ashraf Ghani. ](/news/2014/07/12/afghan-presidential-election-2014-pthe-disputed-afghan-presidential-election-is-to-be-recounted-in-full-following-an-agreement-between-the.md)
 _Context: Abdullah Abdullah, Afghan presidential election, 2014, Ashraf Ghani_

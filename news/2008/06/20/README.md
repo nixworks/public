@@ -4,7 +4,7 @@
 _Context: Iran_
 
 ### [ 2008 Pacific typhoon season: Typhoon Fengshen in the  At least two people die in a landslide in Cotabato City in Mindanao  as Typhoon Fengshen hits the Philippines. ](/news/2008/06/20/2008-pacific-typhoon-season-typhoon-fengshen-in-the-at-least-two-people-die-in-a-landslide-in-cotabato-city-in-mindanao-as-typhoon-fengs.md)
-_Context: 2008 Pacific typhoon season, Cotabato City, Mindanao, Philippines, Typhoon Fengshen, landslide_
+_Context: 2008 Pacific typhoon season, Cotabato City, Mindanao, Philippine, Typhoon Fengshen, landslide_
 
 ### [ UAE wins the first ever Arab Cup of Ice Hockey by defeating Kuwait 4-1. ](/news/2008/06/20/uae-wins-the-first-ever-arab-cup-of-ice-hockey-by-defeating-kuwait-4-1.md)
 _Context: Arab Cup of Ice Hockey, Kuwait, UAE_

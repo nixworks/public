@@ -31,7 +31,7 @@ _Context: North Korea, North Korea and weapons of mass destruction, Sea of Japan
 _Context: China's, H1N1, Louisiana, Mayor, New Orleans, Ray Nagin, Shanghai, United States, quarantine, swine flu_
 
 ### [ European Union's parliamentary elections: The centre-right European People's Party increases its plurality. ](/news/2009/06/8/european-union-s-parliamentary-elections-p-the-centre-right-european-people-s-party-increases-its-plurality.md)
-_Context: European Parliament, European People's Party, European Union, centre-right, elections, plurality_
+_Context: EU, European Parliament, European People's Party, centre-right, elections, plurality_
 
 ### [ In a referendum held alongside European Parliament elections, voters in Denmark agreed to change their Acts of Succession to eliminate male preference in their line of succession. ](/news/2009/06/8/in-a-referendum-held-alongside-european-parliament-elections-voters-in-denmark-agreed-to-change-their-acts-of-succession-to-eliminate-male.md)
 _Context: Acts of Succession, Danish, line of succession, male preference, referendum_

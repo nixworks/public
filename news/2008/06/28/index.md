@@ -10,7 +10,7 @@ _Context: Anaheim Angels, Los Angeles Dodgers_
 _Context: China, Guizhou_
 
 ### [ Thousands of people rally in Paris in support of the European Union removing the People's Mujahedin of Iran from its list of terrorist organisations. ](/news/2008/06/28/thousands-of-people-rally-in-paris-in-support-of-the-european-union-removing-the-people-s-mujahedin-of-iran-from-its-list-of-terrorist-orga.md)
-_Context: European Union, Paris, People's Mujahedin of Iran, terrorist organisation_
+_Context: EU, Paris, People's Mujahedin of Iran, terrorist organisation_
 
 ### [ Police in South Korea use water cannons to disperse thousands of people protesting in Seoul about the resumption of beef imports from the United States. ](/news/2008/06/28/police-in-south-korea-use-water-cannons-to-disperse-thousands-of-people-protesting-in-seoul-about-the-resumption-of-beef-imports-from-the-u.md)
 _Context: Seoul, South Korea, United States, beef imports, water cannon_
@@ -28,7 +28,7 @@ _Context: Scottish Labour Party, Scottish Parliament, Wendy Alexander, political
 _Context: Khyber Agency, Pakistan, Peshawar, Taliban_
 
 ### [ Filipino boxer Manny Pacquiao beats the American David Daz to win the WBC world lightweight title. Pacquiao becomes the first Asian boxer to win four titles in four different weight divisions. ](/news/2008/06/28/filipino-boxer-manny-pacquiao-beats-the-american-david-diaz-to-win-the-wbc-world-lightweight-title-pacquiao-becomes-the-first-asian-boxer.md)
-_Context: David Daz, Manny Pacquiao, Philippines, United States, World Boxing Council_
+_Context: David Daz, Manny Pacquiao, Philippine, United States, World Boxing Council_
 
 ## [Previous Day...](/news/2008/06/27/index.md)
 

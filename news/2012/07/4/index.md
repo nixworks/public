@@ -22,7 +22,7 @@ _Context: Archaeologists in Israel, Galilee, Samson, mosaic, synagogue_
 British Prime Minister David Cameron has branded a rate fixing scandal which prompted Barclays CEO Bob Diamond to quit as &quot;appalling&quot; and &quot;outrageous.&quot;
 
 ### [Standard & Poor's raises the credit rating of the Philippines to BB+. ](/news/2012/07/4/standard-poor-s-raises-the-credit-rating-of-the-philippines-to-bb.md)
-_Context: Philippines, Standard & Poor's_
+_Context: Philippine, Standard & Poor's_
 
 ### [Egyptian officials deny that newly elected Egyptian President Mohammed Morsi will visit Iran to attend a conference. ](/news/2012/07/4/egyptian-officials-deny-that-newly-elected-egyptian-president-mohammed-morsi-will-visit-iran-to-attend-a-conference.md)
 Cairo says newly elected leader will not be attending conference in Tehran

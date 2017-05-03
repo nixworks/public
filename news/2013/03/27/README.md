@@ -22,7 +22,7 @@ _Context: Kate Tempest, Ted Hughes Award, poetry_
 _Context: 2013 Nantou earthquake, Taipei, Taiwan, earthquake, hits, magnitude_
 
 ### [A mini-tornado in the Philippines kills 12 people when a motorboat capsized. ](/news/2013/03/27/a-mini-tornado-in-the-philippines-kills-12-people-when-a-motorboat-capsized.md)
-_Context: Philippines, speedboat, tornado_
+_Context: Philippine, speedboat, tornado_
 
 ### [North Korea renews war threats against South Korea and the United States, saying conditions "for a simmering nuclear war" have been created on the Korean peninsula. The country also says it is cutting a military hotline, which facilitates the travel of South Korean workers to a joint industrial complex in Kaesong. ](/news/2013/03/27/north-korea-renews-war-threats-against-south-korea-and-the-united-states-saying-conditions-for-a-simmering-nuclear-war-have-been-created.md)
 Communist state says it is cutting all direct military contact with South Korea.

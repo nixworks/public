@@ -13,7 +13,7 @@ _Context: US$, United States, United States Marines, Vatican City, embassy in Ir
 _Context: Italian Prime Minister, Silvio Berlusconi, re-elected_
 
 ### [ Nabucco Pipeline: Turkmenistan agrees to supply 10 billion cubic metres of natural gas to the European Union per annum, to reduce the bloc's dependence on gas from Russia. ](/news/2008/04/14/nabucco-pipeline-turkmenistan-agrees-to-supply-10-billion-cubic-metres-of-natural-gas-to-the-european-union-per-annum-to-reduce-the-bloc.md)
-_Context: European Union, Nabucco natural gas pipeline, Russia, Turkmenistan, natural gas_
+_Context: EU, Nabucco natural gas pipeline, Russia, Turkmenistan, natural gas_
 
 ### [ Passenger trains resume between Dhaka in Bangladesh and the Indian city of Calcutta, after 43 years. ](/news/2008/04/14/passenger-trains-resume-between-dhaka-in-bangladesh-and-the-indian-city-of-calcutta-after-43-years.md)
 _Context: Bangladesh, Calcutta, Dhaka, India, train_

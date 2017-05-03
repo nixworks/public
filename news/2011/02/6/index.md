@@ -41,7 +41,7 @@ Sydney has sweated through its hottest night on record to end its longest heatwa
 A widespread blackout hit at eight states in Brazil&#039;s northeast Friday exposing energy infrastructure vulnerabilities of the nation that will host an Olympics and a World Cup.
 
 ### [Palestinian leaders express disappointment at the refusal of the Middle East Quartet &mdash; United States, United Nations, European Union and Russia &mdash; to hear their call for unilateral statehood and failure to take a strong stance on Israel's settlement construction at its February 5 meeting in Munich. ](/news/2011/02/6/palestinian-leaders-express-disappointment-at-the-refusal-of-the-middle-east-quartet-mdash-united-states-united-nations-european-union-a.md)
-_Context: European Union, Israel, Middle East Quartet, Munich, Russia, United Nations, United States_
+_Context: EU, Israel, Middle East Quartet, Munich, Russia, United Nations, United States_
 
 ### [The European Union's foreign policy chief Catherine Ashton expresses what she believes is the even more crucial need for progress in peace talks between the Israelis and the Palestinians due to events in Egypt and other countries. ](/news/2011/02/6/the-european-union-s-foreign-policy-chief-catherine-ashton-expresses-what-she-believes-is-the-even-more-crucial-need-for-progress-in-peace-t.md)
 European Union foreign policy chief Catherine Ashton said yesterday that events in Egypt and other Mideast countries make progress in peace talks between Israel and the Palestinians eve

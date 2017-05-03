@@ -19,7 +19,7 @@ _Context: Air France_
 Checks are ordered on all Airbus A380 superjumbos after cracks were found in wing components, extending an earlier safety ruling covering 20 planes.
 
 ### [A meeting of the leaders of the parties comprising the Greek Government breaks up without agreeing to cuts prescribed by the European Union, the European Central Bank and the International Monetary Fund. ](/news/2012/02/8/a-meeting-of-the-leaders-of-the-parties-comprising-the-greek-government-breaks-up-without-agreeing-to-cuts-prescribed-by-the-european-union.md)
-_Context: European Central Bank, European Union, International Monetary Fund, government of Greece_
+_Context: EU, European Central Bank, International Monetary Fund, government of Greece_
 
 ### [Vincent Van Gogh, Edgar Degas and Camille Pissarro artworks, from the personal collection of Elizabeth Taylor, sell for 13.7 million at Christie's in London. ](/news/2012/02/8/vincent-van-gogh-edgar-degas-and-camille-pissarro-artworks-from-the-personal-collection-of-elizabeth-taylor-sell-for-ps13-7-million-at-chr.md)
 _Context: Camille Pissarro, Christie's, Edgar Degas, Elizabeth Taylor, Van Gogh_

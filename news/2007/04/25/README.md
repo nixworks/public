@@ -16,7 +16,7 @@ _Context: Barbara Blida, Poland, suicide_
 _Context: Assistant Secretary of State for European and Eurasian Affairs, Belarus, U.S. government_
 
 ### [ The French centrist and pro-European Union leader of the Union for French Democracy Franois Bayrou announces the foundation of the Democratic Party in the run-up to the 2007 legislative election after his strong showing in the presidential election. ](/news/2007/04/25/the-french-centrist-and-pro-european-union-leader-of-the-union-for-french-democracy-francois-bayrou-announces-the-foundation-of-the-democra.md)
-_Context: 2007 presidential election, Democratic Party, European Union, France, Franois Bayrou, Union for French Democracy, centrist, go to the polls_
+_Context: 2007 presidential election, Democratic Party, EU, France, Franois Bayrou, Union for French Democracy, centrist, go to the polls_
 
 ### [ China detains four United States citizens who were protesting for Tibetan independence and against the Beijing Olympics at the Mount Everest base camp. ](/news/2007/04/25/china-detains-four-united-states-citizens-who-were-protesting-for-tibetan-independence-and-against-the-beijing-olympics-at-the-mount-everes.md)
 _Context: Beijing Olympiad, China, Mount Everest, Tibetan independence, United States, base camp_

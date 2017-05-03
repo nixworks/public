@@ -22,7 +22,7 @@ _Context: Association of University Teachers, Bar-Ilan, Haifa, Israel, United Ki
 _Context: Charles Kennedy, Labour, Liberal Democrats, United Kingdom_
 
 ### [ British Foreign Minister Jack Straw announces that Iran has renewed its promise to refrain from developing nuclear weapons, and talks on its atomic program will continue following a meeting between Iranian nuclear officials and European Union ministers in Geneva. ](/news/2005/05/26/british-foreign-minister-jack-straw-announces-that-iran-has-renewed-its-promise-to-refrain-from-developing-nuclear-weapons-and-talks-on-it.md)
-_Context: European Union, Geneva, Iran, Jack Straw, Secretary of State for Foreign and Commonwealth Affairs, United Kingdom, atom, nuclear warheads_
+_Context: EU, Geneva, Iran, Jack Straw, Secretary of State for Foreign and Commonwealth Affairs, United Kingdom, atom, nuclear warheads_
 
 ### [ In Thailand, police officer Somchai Visetsingha is sentenced to a life in prison for murder of two British backpackers in 2004. ](/news/2005/05/26/in-thailand-police-officer-somchai-visetsingha-is-sentenced-to-a-life-in-prison-for-murder-of-two-british-backpackers-in-2004.md)
 _Context: 2004, Somchai Visetsingha, Thailand, United Kingdom, backpacker_

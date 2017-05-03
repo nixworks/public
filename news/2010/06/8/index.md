@@ -10,7 +10,7 @@ US singer Chris Brown postpones a UK tour after being denied a visa over his con
 Twelve people, including schoolchildren, perish as boat capsizes in lake.
 
 ### [The EU proposes that Romani issues should be integrated into housing, education and culture polices at EU and national level. ](/news/2010/06/8/the-eu-proposes-that-romani-issues-should-be-integrated-into-housing-education-and-culture-polices-at-eu-and-national-level.md)
-_Context: European Union, Roma_
+_Context: EU, Roma_
 
 ### [21 nations, including the Presidents of Afghanistan, Russia and Syria, attending the Conference on Interaction and Confidence-Building Measures in Asia summit in Istanbul condemn Israel's deadly raid on the Gaza-bound aid flotilla, while Israel, the 22nd participant with a lower-level diplomat, disagrees. ](/news/2010/06/8/21-nations-including-the-presidents-of-afghanistan-russia-and-syria-attending-the-conference-on-interaction-and-confidence-building-measu.md)
 _Context: Afghanistan, Conference on Interaction and Confidence-Building Measures in Asia, Gaza Strip, Gaza flotilla raid, Israel, Istanbul, Russia, Syria_
@@ -52,7 +52,7 @@ An Irish-American who took part in the Gaza aid flotilla has denied he is involv
 At least two tonnes of cocaine with a street value of some $1bn is seized in The Gambia, destined for Europe.
 
 ### [Noynoy Aquino is elected as President of the Philippines in the Philippines presidential election, taking 42% of the vote, about 16 percentage points more than second-place Joseph Estrada. ](/news/2010/06/8/noynoy-aquino-is-elected-as-president-of-the-philippines-in-the-philippines-presidential-election-taking-42-of-the-vote-about-16-percenta.md)
-_Context: Joseph Estrada, Noynoy Aquino, Philippine President, Philippine presidential election, Philippines_
+_Context: Joseph Estrada, Noynoy Aquino, Philippine, Philippine President, Philippine presidential election_
 
 ### [Japanese Prime Minister Naoto Kan is due to name his cabinet and be formally sworn in by Emperor Akihito. ](/news/2010/06/8/japanese-prime-minister-naoto-kan-is-due-to-name-his-cabinet-and-be-formally-sworn-in-by-emperor-akihito.md)
 _Context: Emperor Akihito, Japan, Naoto Kan, Prime Minister_

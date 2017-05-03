@@ -40,7 +40,7 @@ _Context: Antarctic, Australia, Chris Ellison, Japan, Nisshin Maru, Protest, Sou
 _Context: 2004 Madrid train bombings, Madrid, Spain_
 
 ### [ The European Union plans to set up a single hotline for parents to report missing children. ](/news/2007/02/15/the-european-union-plans-to-set-up-a-single-hotline-for-parents-to-report-missing-children.md)
-_Context: European Union, hotline_
+_Context: EU, hotline_
 
 ## [Previous Day...](/news/2007/02/14/index.md)
 

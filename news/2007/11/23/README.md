@@ -1,7 +1,7 @@
 ## [2007-11-23](/news/2007/11/23/index.md)
 
 ### [ Polish parliament speaker Bronislaw Komorowski said that Poland's new government is set to be the first to ratify the EU's Reform Treaty. ](/news/2007/11/23/polish-parliament-speaker-bronislaw-komorowski-said-that-poland-s-new-government-is-set-to-be-the-first-to-ratify-the-eu-s-reform-treaty.md)
-_Context: Bronislaw Komorowski, European Union, Poland, Reform Treaty_
+_Context: Bronislaw Komorowski, EU, Poland, Reform Treaty_
 
 ### [ 2007 Pakistani state of emergency: The Supreme Court of Pakistan orders the Election Commission to declare Pervez Musharraf the winner in the 2007 Pakistani presidential election. ](/news/2007/11/23/2007-pakistani-state-of-emergency-p-the-supreme-court-of-pakistan-orders-the-election-commission-to-declare-pervez-musharraf-the-winner-in.md)
 _Context: 2007 Pakistani presidential election, 2007 Pakistani state of emergency, Election Commission, Pervez Musharraf, Supreme Court_
@@ -31,7 +31,7 @@ _Context: Alexander Litvinenko, Louise Christian, Russia, lawyer, nuclear plant,
 _Context: Paris Mtro, public-sector strikes_
 
 ### [ Typhoon Mitag remains stationary but threatens the Bicol Region, east of the Philippines, and is expected to make landfall in Virac, Catanduanes tomorrow. ](/news/2007/11/23/typhoon-mitag-remains-stationary-but-threatens-the-bicol-region-east-of-the-philippines-and-is-expected-to-make-landfall-in-virac-catand.md)
-_Context: Bicol Region, Catanduanes, Philippines, Typhoon Mitag, Virac, landfall_
+_Context: Bicol Region, Catanduanes, Philippine, Typhoon Mitag, Virac, landfall_
 
 ### [ The ice breaker/cruise ship MS Explorer sinks in the Southern Ocean after striking an iceberg. Everyone aboard is rescued.](/news/2007/11/23/the-ice-breaker-cruise-ship-ms-explorer-sinks-in-the-southern-ocean-after-striking-an-iceberg-everyone-aboard-is-rescued.md)
 _Context: MS Explorer, Southern Ocean, cruise ship, ice breaker, iceberg_

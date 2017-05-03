@@ -1,7 +1,7 @@
 ## [2009-11-23](/news/2009/11/23/index.md)
 
 ### [ Forty three people, including a local politician and about a dozen journalists, are killed in a massacre in Maguindanao, Philippines.](/news/2009/11/23/forty-three-people-including-a-local-politician-and-about-a-dozen-journalists-are-killed-in-a-massacre-in-maguindanao-philippines.md)
-_Context: Maguindanao, Maguindanao massacre, Philippines_
+_Context: Maguindanao, Maguindanao massacre, Philippine_
 
 ### [ The first atom collisions have taken place in the Large Hadron Collider at CERN, near Geneva, Switzerland. ](/news/2009/11/23/the-first-atom-collisions-have-taken-place-in-the-large-hadron-collider-at-cern-near-geneva-switzerland.md)
 _Context: CERN, Geneva, Large Hadron Collider, Swiss_
@@ -25,7 +25,7 @@ _Context: Cambodia, Extraordinary Chambers in the Courts of Cambodia, Khmer Roug
 _Context: West Africa, yellow fever_
 
 ### [ 21 bodies are discovered so far after a convoy of around 50 people including politicians, journalists and supporters is hijacked by dozens of armed gunmen in Maguindanao, southern Philippines. ](/news/2009/11/23/21-bodies-are-discovered-so-far-after-a-convoy-of-around-50-people-including-politicians-journalists-and-supporters-is-hijacked-by-dozens.md)
-_Context: Maguindanao, Philippines_
+_Context: Maguindanao, Philippine_
 
 ### [ Clashes break out between refugees from Sri Lanka and Afghanistan at an Australian immigration centre on Christmas Island. ](/news/2009/11/23/clashes-break-out-between-refugees-from-sri-lanka-and-afghanistan-at-an-australian-immigration-centre-on-christmas-island.md)
 Asylum seekers involved in a wild brawl on Christmas Island are being threatened with deportation.

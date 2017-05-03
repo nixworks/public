@@ -22,7 +22,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: Mehmet Ali Talat, Rauf Denktas, TRNC, general election_
 
 ### [ The US  and EU join the protests against Faure Gnassingbe of Togo. The Economic Community of West African States (ECOWAS) imposes sanctions and suspends Togo's membership in the organization and US does not accept his rule as legitimate and ends all military assistance ](/news/2005/02/20/the-us-and-eu-join-the-protests-against-faure-gnassingba-c-of-togo-the-economic-community-of-west-african-states-ecowas-imposes-sanction.md)
-_Context: ECOWAS, European Union, Faure Gnassingbe, Togo_
+_Context: ECOWAS, EU, Faure Gnassingbe, Togo_
 
 ## [Previous Day...](/news/2005/02/19/index.md)
 

@@ -25,7 +25,7 @@ _Context: 2016 Great Smoky Mountains wildfires, Gatlinburg, Tennessee, arson_
 The race is tight with President John Mahama and his rival Nana Akufo Addo running neck and neck in opinion polls.
 
 ### [Philippines president  Rodrigo Duterte accuses the opposition Liberal Party of trying to oust him and install the current vice president  Leni Robredo to the presidency. ](/news/2016/12/7/philippines-president-rodrigo-duterte-accuses-the-opposition-liberal-party-of-trying-to-oust-him-and-install-the-current-vice-president-le.md)
-_Context: Leni Robredo, Liberal Party, Philippine Drug War, Philippines, Rodrigo Duterte_
+_Context: Leni Robredo, Liberal Party, Philippine, Philippine Drug War, Rodrigo Duterte_
 
 ### [John  F. Kelly is selected as Secretary of Homeland Security. ](/news/2016/12/7/john-f-kelly-is-selected-as-secretary-of-homeland-security.md)
 Kelly, who retired from the military in February, is a blunt-spoken border security hawk.

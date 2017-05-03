@@ -22,7 +22,7 @@ Fighters from the Lou Nuer ethnic group in South Sudan attack the town of Pibor,
 _Context: Chile, Patagonia, Torres del Paine National Park, forest fire_
 
 ### [More than 200 people are injured by illegally huge firecrackers and celebratory gunfire in the Philippines. ](/news/2011/12/31/more-than-200-people-are-injured-by-illegally-huge-firecrackers-and-celebratory-gunfire-in-the-philippines.md)
-_Context: Philippines, firecracker_
+_Context: Philippine, firecracker_
 
 ### [The death toll from Cyclone Thane in southern India rises to at least 33 with 21 people dead in Cuddalore. ](/news/2011/12/31/the-death-toll-from-cyclone-thane-in-southern-india-rises-to-at-least-33-with-21-people-dead-in-cuddalore.md)
 _Context: Cuddalore, Cyclone Thane, India_

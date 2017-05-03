@@ -58,7 +58,7 @@ Activists have asked citizens to express their displeasure at the lack of reform
 King Abdullah announces $10.7 billion in pay raises, job creation and loan forgiveness schemes as he returns to country.
 
 ### [German defence minister Karl-Theodor zu Guttenberg has his doctorate revoked by the University of Bayreuth for submitting a thesis riddled with plagiarisms. ](/news/2011/02/23/german-defence-minister-karl-theodor-zu-guttenberg-has-his-doctorate-revoked-by-the-university-of-bayreuth-for-submitting-a-thesis-riddled-w.md)
-_Context: Federal Minister for Defence, Karl-Theodor zu Guttenberg, University of Bayreuth, doctorate, plagiarism, thesis_
+_Context: Federal Minister for Defence, Karl-Theodor zu Guttenberg, University of Bayreuth, doctorate, plagiarising, thesis_
 
 ## [Previous Day...](/news/2011/02/22/index.md)
 

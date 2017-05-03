@@ -1,7 +1,7 @@
 ## [2009-01-14](/news/2009/01/14/index.md)
 
 ### [ United Kingdom Opposition Leader David Cameron pledges to hold a referendum on the European Union's Lisbon Treaty if his Conservative Party is elected later this year. ](/news/2009/01/14/united-kingdom-opposition-leader-david-cameron-pledges-to-hold-a-referendum-on-the-european-union-s-lisbon-treaty-if-his-conservative-party.md)
-_Context: Conservative Party, David Cameron, European Union, Leader, Opposition, Treaty of Lisbon, United Kingdom, referendum_
+_Context: Conservative Party, David Cameron, EU, Leader, Opposition, Treaty of Lisbon, United Kingdom, referendum_
 
 ### [ Glen Roeder leaves his post at Norwich City amidst fears of dangerous times for FlyGlobespan. (Edinburgh Evening News)](/news/2009/01/14/glen-roeder-leaves-his-post-at-norwich-city-amidst-fears-of-dangerous-times-for-flyglobespan-edinburgh-evening-news.md)
 _Context: Edinburgh Evening News, Glen Roeder_

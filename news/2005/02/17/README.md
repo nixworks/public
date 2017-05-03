@@ -10,7 +10,7 @@ _Context: Belfast, Cork, Dublin, IRA, Northern Bank, Northern Bank robbery, PS, 
 _Context: Chubu Centrair International Airport, Ise Bay, Nagoya, Nagoya Airport, man-made islands_
 
 ### [ The European Union introduces new laws that increase the rights of air passengers so that they receive higher compensation for overbooking, delays and cancellation of flights. ](/news/2005/02/17/the-european-union-introduces-new-laws-that-increase-the-rights-of-air-passengers-so-that-they-receive-higher-compensation-for-overbooking.md)
-_Context: European Union, overbooking_
+_Context: EU, overbooking_
 
 ### [ The BNFL nuclear plant at Sellafield, in the United Kingdom, reports that 30 kg (66 lb) of plutonium is "unaccounted for".  This amount of missing plutonium would be sufficient to make seven atomic bombs.  The UK Atomic Energy Authority states that the discrepancy in the record keeping is merely an auditing issue, and that there was no "real loss" of plutonium.  ](/news/2005/02/17/the-bnfl-nuclear-plant-at-sellafield-in-the-united-kingdom-reports-that-30-kg-66-lb-of-plutonium-is-unaccounted-for-this-amount-of.md)
 News and opinion from The Times &amp; The Sunday Times

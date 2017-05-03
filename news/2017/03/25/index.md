@@ -25,7 +25,7 @@ _Context: Chicago, Driehaus Architecture Prize, New Classical architecture, Robe
 _Context: Hong Kong, Langham Place_
 
 ### [European Union leaders gather in Rome to mark 60 years since the Treaty of Rome was signed. ](/news/2017/03/25/european-union-leaders-gather-in-rome-to-mark-60-years-since-the-treaty-of-rome-was-signed.md)
-_Context: European Union, Treaty of Rome_
+_Context: EU, Treaty of Rome_
 
 ### [The UK-US air travel ban on laptops and other electronic devices in the passenger cabin comes into effect. ](/news/2017/03/25/the-uk-us-air-travel-ban-on-laptops-and-other-electronic-devices-in-the-passenger-cabin-comes-into-effect.md)
 The US and UK bans affect direct flights from some Middle East airports.

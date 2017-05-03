@@ -7,7 +7,7 @@ _Context: Baghdad International Airport, Iran, Iraqi Civil War (2014-present)_
 _Context: Adele, Hello, Miley Cyrus, Vevo, Vevo Record, Wrecking Ball_
 
 ### [Saudi Arabian blogger Raif Badawi, who has been sentenced to 1,000 lashes and 10 years in jail for insulting Islam and for cyber crime, wins the European Union's prestigious Sakharov Prize for Freedom of Thought. The Sakharov award ceremony will be held in Strasbourg, France on December 16, 2015 while the laureate remains imprisoned. ](/news/2015/10/29/saudi-arabian-blogger-raif-badawi-who-has-been-sentenced-to-1-000-lashes-and-10-years-in-jail-for-insulting-islam-and-for-cyber-crime-wins.md)
-_Context: European Union, France, Raif Badawi, Sakharov Prize for Freedom of Thought, Saudi Arabia, Strasbourg_
+_Context: EU, France, Raif Badawi, Sakharov Prize for Freedom of Thought, Saudi Arabia, Strasbourg_
 
 ### [The largest lender in Europe's most robust economy, Deutsche Bank AG, will cut 35k jobs in an effort to counter falling profits. ](/news/2015/10/29/the-largest-lender-in-europeas-most-robust-economy-deutsche-bank-ag-will-cut-35k-jobs-in-an-effort-to-counter-falling-profits.md)
 Deutsche Bank announced plans to eliminate 35,000 jobs from its payroll over the next two years as part of a sweeping overhaul under new co-Chief Executive John Cryan.

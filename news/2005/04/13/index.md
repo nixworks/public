@@ -7,7 +7,7 @@ _Context: Canada, Heritage Front, Wolfgang Droege, white supremacist_
 _Context: Lebanon, Omar Karami, Prime Minister, form of government_
 
 ### [ The European Parliament votes to allow Bulgaria and Romania to join the European Union in 2007. ](/news/2005/04/13/the-european-parliament-votes-to-allow-bulgaria-and-romania-to-join-the-european-union-in-2007.md)
-_Context: 2007, Bulgaria, European Parliament, European Union, Romania_
+_Context: 2007, Bulgaria, EU, European Parliament, Romania_
 
 ### [ Conflict in Iraq:  At least nine Iraqi police have been killed by insurgents in Kirkuk.  The police were defusing a decoy bomb, when another nearby bomb detonated and killed them. ](/news/2005/04/13/conflict-in-iraq-p-at-least-nine-iraqi-police-have-been-killed-by-insurgents-in-kirkuk-the-police-were-defusing-a-decoy-bomb-when-anoth.md)
 _Context: Conflict in Iraq, Iraq, Iraqi insurgency, Kirkuk, decoy, police_

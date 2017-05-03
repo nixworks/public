@@ -13,7 +13,7 @@ Two Belgian policewomen on guard outside a police station in the city of Charler
 ### Related:
 
 1. [Russian basketball club PBC Lokomotiv Kuban wins 2012-13 Eurocup Basketball defeating Spain's Bilbao Basket 75-64 in the final in Charleroi, Belgium. ](/news/2013/04/13/russian-basketball-club-pbc-lokomotiv-kuban-wins-2012a13-eurocup-basketball-defeating-spain-s-bilbao-basket-75a64-in-the-final-in-charle.md) _Context: Belgium, Charleroi_
-2. [Workers' Party of Belgium representative Raoul Hedebouw gets stabbed in the thigh, moments before holding a speech in Lige, Belgium. The presumed assailant is arrested.  ](/news/2017/05/1/workers-party-of-belgium-representative-raoul-hedebouw-gets-stabbed-in-the-thigh-moments-before-holding-a-speech-in-liege-belgium-the-pr.md) _Context: Belgium_
+2. [Workers' Party of Belgium representative Raoul Hedebouw gets stabbed in the thigh, moments before holding a speech in Liege, Belgium. The presumed assailant is arrested.  ](/news/2017/05/1/workers-party-of-belgium-representative-raoul-hedebouw-gets-stabbed-in-the-thigh-moments-before-holding-a-speech-in-lia-ge-belgium-the-p.md) _Context: Belgium_
 3. [The Democratic Republic of the Congo suspends its military cooperation with Belgium. ](/news/2017/04/13/the-democratic-republic-of-the-congo-suspends-its-military-cooperation-with-belgium.md) _Context: Belgium_
 4. [A power outage plunges the Belgian capital of Brussels into darkness. ](/news/2017/02/9/a-power-outage-plunges-the-belgian-capital-of-brussels-into-darkness.md) _Context: Belgium_
 5. [One person is killed and 20 are injured when a passenger train derails near Leuven, Belgium. ](/news/2017/02/18/one-person-is-killed-and-20-are-injured-when-a-passenger-train-derails-near-leuven-belgium.md) _Context: Belgium_
