@@ -10,7 +10,7 @@ Tensions high as US forces in South Korea announce activation of missile defence
 Theresa May responds to claims she clashed with the EU Commission chief over Brexit.
 
 ### [Far-right candidate Marine Le Pen is accused of plagiarising a speech by Francois Fillon. ](/news/2017/05/2/far-right-candidate-marine-le-pen-is-accused-of-plagiarising-a-speech-by-franassois-fillon.md)
-_Context: Francois Fillon, French presidential election, 2017, Marine Le Pen, plagiarising_
+_Context: Francois Fillon, French presidential election, 2017, Marine le Pen, plagiarising_
 
 ### [ Czech Prime Minister Bohuslav Sobotka has announced that he will submit his government's resignation because of a disagreement with Finance Minister Andrej Babis. ](/news/2017/05/2/czech-prime-minister-bohuslav-sobotka-has-announced-that-he-will-submit-his-government-s-resignation-because-of-a-disagreement-with-finance.md)
 PM Bohuslav Sobotka says he and his cabinet will leave office over a spat with the finance minister.
