@@ -21,9 +21,6 @@ Centrist Emmanuel Macron and Marine Le Pen, of the far-right Front National, go 
 ### [Somali Public Works Minister Abbas Abdullahi Sheikh Siraji is shot and killed in the capital Mogadishu. ](/news/2017/05/3/somali-public-works-minister-abbas-abdullahi-sheikh-siraji-is-shot-and-killed-in-the-capital-mogadishu.md)
 _Context: Abbas Abdullahi Sheikh Siraji, Somali_
 
-### [Recent FBI director James Comey is "mildly  nauseous" on hearing allegations the he affected the recent elections. ](/news/2017/05/3/recent-fbi-director-james-comey-is-mildly-nauseous-on-hearing-allegations-the-he-affected-the-recent-elections.md)
-_Context: FBI, James Comey, United States presidential election, 2016, nauseous_
-
 ### [Conservative politician Theresa May accuses European Union officials of trying to influence the upcoming elections. ](/news/2017/05/3/conservative-politician-theresa-may-accuses-european-union-officials-of-trying-to-influence-the-upcoming-elections.md)
 Theresa May has put the growing feud between Downing Street and European leaders at the heart of the general election by accusing &amp;#8220;Brussels bureaucrats&amp;#8221; of trying to interfere in the campaign.
 
