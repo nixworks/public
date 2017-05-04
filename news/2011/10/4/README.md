@@ -4,10 +4,10 @@
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [At least 130 people are killed in a car bombing in the Somali capital Mogadishu. ](/news/2011/10/4/at-least-130-people-are-killed-in-a-car-bombing-in-the-somali-capital-mogadishu.md)
-_Context: Mogadishu, Somalia, car bombing_
+_Context: Mogadishu, Somali, car bombing_
 
 ### [Regulators in the European Union are close to making a formal announcement that they object to a proposed merger of NYSE Euronext with Deutsche Boerse AG, according to an anonymous source cited by Reuters. [http://www.reuters.com/article/2011/10/04/eu-deutscheboerse-nyse-idUSB5E7KS06120111004 (Reuters)].](/news/2011/10/4/regulators-in-the-european-union-are-close-to-making-a-formal-announcement-that-they-object-to-a-proposed-merger-of-nyse-euronext-with-deuts.md)
-_Context: Deutsche Boerse AG, EU, NYSE Euronext_
+_Context: Deutsche Boerse AG, European Union, NYSE Euronext_
 
 ### [Technology company Apple Inc. announces its much-anticipated iPhone 4S at Apple's Cupertino campus. ](/news/2011/10/4/technology-company-apple-inc-announces-its-much-anticipated-iphone-4s-at-apple-s-cupertino-campus.md)
 New phone offers faster processing and downloads, a greatly improved camera and voice-activated assistance. Heading to Sprint for first time.
@@ -28,7 +28,7 @@ _Context: Japan, South Korea, defectors_
 _Context: 2011 Syrian uprising, China's, Russia, Syria, United Nations Security Council_
 
 ### [The European Court of Justice rules against "the imposition of national borders to sell broadcasting rights on a territory-by-territory basis", as this is in contravention of EU laws on free trade. It would allow members of the public to seek cheaper providers of Premier League football, whilst finding against a landlady who used Greek television to show live football in her public house. ](/news/2011/10/4/the-european-court-of-justice-rules-against-the-imposition-of-national-borders-to-sell-broadcasting-rights-on-a-territory-by-territory-basi.md)
-_Context: EU, English Premier League, European Court of Justice, public house_
+_Context: English Premier League, European Court of Justice, European Union, public house_
 
 ### [Voters in the US state of West Virginia go to the polls for a gubernatorial special election with acting Governor, Democrat Earl Ray Tomblin, being elected as Governor of West Virginia. ](/news/2011/10/4/voters-in-the-us-state-of-west-virginia-go-to-the-polls-for-a-gubernatorial-special-election-with-acting-governor-democrat-earl-ray-tomblin.md)
 _Context: Democratic, Earl Ray Tomblin, Governor of West Virginia, US state, West Virginia, gubernatorial special election_

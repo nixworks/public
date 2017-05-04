@@ -4,7 +4,7 @@
 ARA News ALEPPO – At least 3o civilians were killed and dozens wounded in the northern Syrian city of Aleppo amid heavy bombardment by forces loyal to President Bashar al-Assad, activists reported on Monday. Pro-Assad forces targeted al-Shaar neighborhood in eastern Aleppo with surface-to-surface missiles on Monday afternoon. &#8220;The missiles hit a crowded public market in al-Shaar, causing dozens &hellip;
 
 ### [A car bomb in Somalia kills at least six people at the gates of the presidential palace in Mogadishu. ](/news/2015/09/21/a-car-bomb-in-somalia-kills-at-least-six-people-at-the-gates-of-the-presidential-palace-in-mogadishu.md)
-_Context: Mogadishu, President of Somalia, Somalia, War in Somalia (2009-present), car bomb_
+_Context: Mogadishu, President of Somalia, Somali, War in Somalia (2009-present), car bomb_
 
 ### [An Islamic State car bomb kills at least 12 people in Baghdad. ](/news/2015/09/21/an-islamic-state-car-bomb-kills-at-least-12-people-in-baghdad.md)
 At least 17 people were killed in and around the Iraqi capital on Monday in four bomb attacks, including a car bomb claimed by Islamic State militants, while rockets landed near Baghdad airport.
@@ -49,7 +49,7 @@ A former peanut company executive was sentenced Monday to 28 years in prison for
 _Context: Northern Ireland_
 
 ### [Governor of Wisconsin Scott Walker quits his campaign for the Republican Party nomination. ](/news/2015/09/21/governor-of-wisconsin-scott-walker-quits-his-campaign-for-the-republican-party-nomination.md)
-_Context: 2016 U.S. presidential election, Governor of Wisconsin, Republican, Scott Walker_
+_Context: Governor of Wisconsin, Republican, Scott Walker, United States presidential election, 2016_
 
 ### [The coup leader General Gilbert Diendere says that he is ready to hand over power to transitional authorities as the army marches on the capital Ouagadougou. ](/news/2015/09/21/the-coup-leader-general-gilbert-dienda-c-ra-c-says-that-he-is-ready-to-hand-over-power-to-transitional-authorities-as-the-army-marches-on-the-c.md)
 The coup leader in Burkina Faso says he is ready to hand over power to transitional civilian authorities, as the army is reportedly marching on the capital.

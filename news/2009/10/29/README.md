@@ -25,7 +25,7 @@ _Context: Danish, Lars Loekke Rasmussen, Prime Minister of Denmark, United Natio
 A devastating fire swept through an Indian Oil fuel storage and distribution terminal leaving a dozen dead and over 100 hurt. At the time of going to press, all 12 tankers at the terminal were aflame.
 
 ### [ A Thai cargo ship is hijacked in the Gulf of Aden off the coast of Somalia. ](/news/2009/10/29/a-thai-cargo-ship-is-hijacked-in-the-gulf-of-aden-off-the-coast-of-somalia.md)
-_Context: Gulf of Aden, Somali pirates, Somalia, Thailand_
+_Context: Gulf of Aden, Somali, Somali pirates, Thailand_
 
 ### [ South Korea arrests a college lecturer accused of spying for North Korea, saying he was recruited by North Korean agents in India. ](/news/2009/10/29/south-korea-arrests-a-college-lecturer-accused-of-spying-for-north-korea-saying-he-was-recruited-by-north-korean-agents-in-india.md)
 _Context: India, North Korea, South Korea_

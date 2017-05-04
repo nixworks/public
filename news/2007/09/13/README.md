@@ -25,7 +25,7 @@ _Context: Pakistan, Pervez Musharraf, forming a government_
 _Context: 2007 Formula One World Drivers Championship, Constructors Championship, Fdration Internationale de l'Automobile, Formula One, McLaren, U.S. dollar_
 
 ### [ Alexis Debat, a consultant for ABC News and writer at ''The National Interest'', alleged expert on terrorism, is forced to resign after  ''Rue 89'' revealed that he made two bogus interviews, one with Barack Obama and another with Alan Greenspan. ](/news/2007/09/13/alexis-debat-a-consultant-for-abc-news-and-writer-at-the-national-interest-alleged-expert-on-terrorism-is-forced-to-resign-after.md)
-_Context: ABC News, Alan Greenspan, Alexis Debat, Barack Obama, Rue 89, The National Interest, terrorism_
+_Context: ABC News, Alan Greenspan, Alexis Debat, Obama, Rue 89, The National Interest, terrorism_
 
 ### [ Rita Verdonk, a controversial and popular Dutch politician, is expelled from the VVD. ](/news/2007/09/13/rita-verdonk-a-controversial-and-popular-dutch-politician-is-expelled-from-the-vvd.md)
 _Context: Netherlands, People's Party for Freedom and Democracy, Rita Verdonk_

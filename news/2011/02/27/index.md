@@ -7,7 +7,7 @@ _Context: Democratic Republic of the Congo, military coup_
 _Context: Abidjan, Ivory Coast, Laurent Gbagbo_
 
 ### [At least 115 people are killed in a government offensive against Al-Qaeda linked militants in Somalia. ](/news/2011/02/27/at-least-115-people-are-killed-in-a-government-offensive-against-al-qaeda-linked-militants-in-somalia.md)
-_Context: Somalia, al-Qaeda_
+_Context: Somali, al-Qaeda_
 
 ### [Birmingham-Shuttlesworth International Airport in the US city of Birmingham, Alabama is evacuated following the discovery of a suspicious package. ](/news/2011/02/27/birmingham-shuttlesworth-international-airport-in-the-us-city-of-birmingham-alabama-is-evacuated-following-the-discovery-of-a-suspicious-pa.md)
 BIRMINGHAM,AL (WBRC) - The Birmingham - Shuttlesworth International Airport has been evacutated because of a suspicious package found late this afternoon

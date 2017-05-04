@@ -16,7 +16,7 @@ The U.S. apologized Wednesday for a recent helicopter attack that killed two Pak
 _Context: Sana'a, United Kingdom, Yemen, embassies_
 
 ### [President of the United States Barack Obama awards a Medal of Honor posthumously to Robert James Miller of the US Army Green Berets for "conspicuous gallantry ... at risk of life above and beyond the call of duty" while fighting in the War in Afghanistan on January 25, 2008. ](/news/2010/10/6/president-of-the-united-states-barack-obama-awards-a-medal-of-honor-posthumously-to-robert-james-miller-of-the-us-army-green-berets-for-con.md)
-_Context: Barack Obama, Medal of Honor, Robert James Miller, U.S. special forces, War in Afghanistan (2001-present), president_
+_Context: Medal of Honor, Obama, Robert James Miller, U.S. special forces, War in Afghanistan (2001-present), president_
 
 ### [The 15th Pusan International Film Festival started in Pusan, South Korea. ](/news/2010/10/6/the-15th-pusan-international-film-festival-started-in-pusan-south-korea.md)
 _Context: Pusan, Pusan International Film Festival, South Korea_
@@ -52,7 +52,7 @@ _Context: India, Vishwas Nagar_
 _Context: Arizona, Bellemont, United States, tornado_
 
 ### [South Korea and the European Union sign a free trade agreement. ](/news/2010/10/6/south-korea-and-the-european-union-sign-a-free-trade-agreement.md)
-_Context: EU, Free Trade Agreement, South Korea_
+_Context: European Union, Free Trade Agreement, South Korea_
 
 ### [46 police officers in Ecuador are arrested on suspicion of involvement in last week's uprising. ](/news/2010/10/6/46-police-officers-in-ecuador-are-arrested-on-suspicion-of-involvement-in-last-week-s-uprising.md)
 _Context: Ecuador, protested against being stripped of their bonuses_

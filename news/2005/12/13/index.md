@@ -4,7 +4,7 @@
 _Context: Baghdad, Conflict in Iraq, IED, Iraq, United States, capital_
 
 ### [ The Sixth Ministerial Conference of the World Trade Organization opened in Hong Kong. European Union Trade Commissioner Peter Mandelson said that he expected little progress on resolving disagreements between ministers. Meanwhile, some protesters from South Korea unsuccessfully attempted to bypass the cordon to reach the location of the conference by swimming across Victoria Harbour. ](/news/2005/12/13/the-sixth-ministerial-conference-of-the-world-trade-organization-opened-in-hong-kong-european-union-trade-commissioner-peter-mandelson-sai.md)
-_Context: EU, European commissioner, Hong Kong, Ministerial Conference of 2005, Peter Mandelson, South Korea, Victoria Harbour, World Trade Organization, cordon, location of the conference_
+_Context: European Union, European commissioner, Hong Kong, Ministerial Conference of 2005, Peter Mandelson, South Korea, Victoria Harbour, World Trade Organization, cordon, location of the conference_
 
 ### [ The collapse of a residential building in New Jersey kills three people and sends plumes of smoke into the air. ](/news/2005/12/13/the-collapse-of-a-residential-building-in-new-jersey-kills-three-people-and-sends-plumes-of-smoke-into-the-air.md)
 _Context: New Jersey_

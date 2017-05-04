@@ -16,7 +16,7 @@ Patna, June 26 (ANI): At least seventeen people were killed and 25 others injure
 Black-clad anarchists protesting at the G20 summit have smashed storefronts and wrecked a police car.
 
 ### [President of Zambia Rupiah Banda says his country did not ask for health and road aid which has now been frozen by The Global Fund to Fight AIDS, Tuberculosis and Malaria and the European Union before an upcoming election and says "We must not allow donors to feel they can interfere in the internal affairs of this country because it is a sovereign and independent state". ](/news/2010/06/26/president-of-zambia-rupiah-banda-says-his-country-did-not-ask-for-health-and-road-aid-which-has-now-been-frozen-by-the-global-fund-to-fight.md)
-_Context: EU, President, Rupiah Banda, The Global Fund to Fight AIDS, Tuberculosis and Malaria_
+_Context: European Union, President, Rupiah Banda, The Global Fund to Fight AIDS, Tuberculosis and Malaria_
 
 ### [Voters in Somaliland take part in a presidential election. ](/news/2010/06/26/voters-in-somaliland-take-part-in-a-presidential-election.md)
 Somaliland, a relatively peaceful, organized piece of the Somali puzzle, hopes to become a separate nation.

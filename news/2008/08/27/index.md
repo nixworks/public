@@ -4,7 +4,7 @@
 _Context: Border Gateway Protocol, Internet_
 
 ### [ U.S. presidential election:  Senator Barack Obama is formally selected by acclamation as the nominee of the Democratic Party. Senator Joe Biden is formally selected as the vice presidential Democratic nominee in the same manner by acclamation. ](/news/2008/08/27/u-s-presidential-election-senator-barack-obama-is-formally-selected-by-acclamation-as-the-nominee-of-the-democratic-party-senator-joe-b.md)
-_Context: Barack Obama, Democratic, Democratic National Convention, Joe Biden, U.S. presidential election, acclamation_
+_Context: Democratic, Democratic National Convention, Joe Biden, Obama, U.S. presidential election, acclamation_
 
 ### [ As many as 71 illegal immigrants are feared drowned after their boat sinks in the Mediterranean Sea off the coast of Malta. ](/news/2008/08/27/as-many-as-71-illegal-immigrants-are-feared-drowned-after-their-boat-sinks-in-the-mediterranean-sea-off-the-coast-of-malta.md)
 _Context: Maltese, Mediterranean Sea, illegal immigrant_

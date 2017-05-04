@@ -4,7 +4,7 @@
 _Context: Jammu, Kashmir, Pakistan, State Department_
 
 ### [ The European Union ratifies the Kyoto Protocol treaty, and Japan stated they would shortly.](/news/2002/05/31/the-european-union-ratifies-the-kyoto-protocol-treaty-and-japan-stated-they-would-shortly.md)
-_Context: EU, Kyoto Protocol_
+_Context: European Union, Kyoto Protocol_
 
 ### [ Football World Cup 2002: Senegal defeats defending champion France 1-0.](/news/2002/05/31/football-world-cup-2002-senegal-defeats-defending-champion-france-1a0.md)
 _Context: Football World Cup 2002, Senegal, defending champion_

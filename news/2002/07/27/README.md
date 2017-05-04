@@ -7,7 +7,7 @@ _Context: Lviv, Sukhoi Su-27, Ukraine airshow disaster, Ukrainian, airshow_
 _Context: Ambon, Indonesia_
 
 ### [ Nine American miners have been rescued from a mine in Pennsylvania, after frantic drilling by rescuers.](/news/2002/07/27/nine-american-miners-have-been-rescued-from-a-mine-in-pennsylvania-after-frantic-drilling-by-rescuers.md)
-_Context: Pennsylvania, Rescue, drilling, mining_
+_Context: Pennsylvania, Rescue, drilling, mine_
 
 ### [ The Homeland Security Bill passes the United States House of Representatives, in a form that appears to kill Operation TIPS.](/news/2002/07/27/the-homeland-security-bill-passes-the-united-states-house-of-representatives-in-a-form-that-appears-to-kill-operation-tips.md)
 _Context: Operation TIPS, U.S. House_

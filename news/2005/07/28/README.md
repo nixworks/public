@@ -37,7 +37,7 @@ _Context: fatwa, religious extremism, terrorism_
 _Context: Radovan Karadzic, Serbia_
 
 ### [ Poland recalls its ambassador to Belarus and demands that the European Union impose sanctions after Belarusian police storms the offices of the country's Polish minority ](/news/2005/07/28/poland-recalls-its-ambassador-to-belarus-and-demands-that-the-european-union-impose-sanctions-after-belarusian-police-storms-the-offices-of.md)
-_Context: Belarus, EU, Poland, sanctions_
+_Context: Belarus, European Union, Poland, sanctions_
 
 ### [ In Canada, gene lab confirms that alleged sasquatch hairs actually belong to a bison ](/news/2005/07/28/in-canada-gene-lab-confirms-that-alleged-sasquatch-hairs-actually-belong-to-a-bison.md)
 _Context: Canada, bison, sasquatch_

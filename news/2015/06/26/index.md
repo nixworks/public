@@ -1,7 +1,7 @@
 ## [2015-06-26](/news/2015/06/26/index.md)
 
 ### [ Al Shabaab militants attack an African Union base in the Leego district of Somalia and kills more than 70 African Union soldiers and seizes control of their military base. ](/news/2015/06/26/al-shabaab-militants-attack-an-african-union-base-in-the-leego-district-of-somalia-and-kills-more-than-70-african-union-soldiers-and-seizes.md)
-_Context: African Union, Leego, Somali Civil War, Somalia, al-Shabaab, attack_
+_Context: African Union, Leego, Somali, Somali Civil War, al-Shabaab, attack_
 
 ### [  A man is decapitated and at least two others are injured during an attack in Saint-Quentin-Fallavier as a man carrying an Islamic State in Iraq and the Levant flag attacks a factory near the French city of Lyon. ](/news/2015/06/26/a-man-is-decapitated-and-at-least-two-others-are-injured-during-an-attack-in-saint-quentin-fallavier-as-a-man-carrying-an-islamic-state-in.md)
 A man was decapitated in a terrorist attack at a gas factory near Lyon, eastern France, on Friday. The attacker, who had links to an extremist movement, has been arrested. 

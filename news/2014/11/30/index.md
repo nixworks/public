@@ -19,7 +19,7 @@ _Context: Broad Front, President, Tabare Vazquez, Uruguay, Uruguayan general ele
 Swiss voters decisively reject a referendum proposal to cut net immigration to no more than 0.2% of the population.
 
 ### [Pro-European Union parties achieve a majority in the Parliament of Moldova. ](/news/2014/11/30/pro-european-union-parties-achieve-a-majority-in-the-parliament-of-moldova.md)
-_Context: EU, Moldovan Parliament, Moldovan parliamentary election_
+_Context: European Union, Moldovan Parliament, Moldovan parliamentary election_
 
 ## [Previous Day...](/news/2014/11/29/index.md)
 

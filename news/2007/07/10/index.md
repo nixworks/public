@@ -10,7 +10,7 @@ _Context: Mexico, People's Revolutionary Army, Secretary of the Interior, pipeli
 _Context: Bulgaria, HIV, Muammar al-Gaddafi, Palestinian_
 
 ### [ The European Union chooses Dominique Strauss-Kahn as its nominee to head the International Monetary Fund, making him the frontrunner to fill the position in October. ](/news/2007/07/10/the-european-union-chooses-dominique-strauss-kahn-as-its-nominee-to-head-the-international-monetary-fund-making-him-the-frontrunner-to-fil.md)
-_Context: Dominique Strauss-Kahn, EU, International Monetary Fund_
+_Context: Dominique Strauss-Kahn, European Union, International Monetary Fund_
 
 ### [ All 24 police officers missing after a fight between police and Maoist insurgents in Chhattisgarh central India have been found dead. ](/news/2007/07/10/all-24-police-officers-missing-after-a-fight-between-police-and-maoist-insurgents-in-chhattisgarh-central-india-have-been-found-dead.md)
 _Context: Chhattisgarh, India, Maoist_

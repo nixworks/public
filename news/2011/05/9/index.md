@@ -31,7 +31,7 @@ Qantas passengers face likely disruptions to flights after the airline&#039;s 16
 _Context: 2010-2011 Ivorian crisis, Ivory Coast, cocoa_
 
 ### [Officials in the European Union acknowledge that Greece will need a second bailout program soon, and American ratings agency Standard & Poor's downgrades Greek bonds to junk status. ](/news/2011/05/9/officials-in-the-european-union-acknowledge-that-greece-will-need-a-second-bailout-program-soon-and-american-ratings-agency-standard-poor.md)
-_Context: EU, Greece, Standard & Poor's_
+_Context: European Union, Greece, Standard & Poor's_
 
 ### [At least 36 people are killed after several boats capsize during a storm on Lake Togo in southeastern Togo. ](/news/2011/05/9/at-least-36-people-are-killed-after-several-boats-capsize-during-a-storm-on-lake-togo-in-southeastern-togo.md)
 Seven boats have capsized in a storm in the west African nation of Togo, leaving at least 36 people dead, a police sources says, as authorities search for more victims. 

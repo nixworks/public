@@ -31,7 +31,7 @@ _Context: Algeria, Cairo, Egypt, qualifying match_
 The Defence Forces have further increased their deployment due to the recent flooding.
 
 ### [ Somalia announces it is to ratify the United Nations Convention on the Rights of the Child, leaving the United States the only country not to ratify it. ](/news/2009/11/20/somalia-announces-it-is-to-ratify-the-united-nations-convention-on-the-rights-of-the-child-leaving-the-united-states-the-only-country-not.md)
-_Context: Convention on the Rights of the Child, Somalia, United Nations, United States_
+_Context: Convention on the Rights of the Child, Somali, United Nations, United States_
 
 ### [ Colombia accuses Venezuelan troops of blowing up two border bridges between the two countries. ](/news/2009/11/20/colombia-accuses-venezuelan-troops-of-blowing-up-two-border-bridges-between-the-two-countries.md)
 Bogota accuses Caracas of blowing up pedestrian bridges between two countries.

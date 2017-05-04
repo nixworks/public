@@ -13,7 +13,7 @@ _Context: Bonn, Germany, India, Russia, Viswanathan Anand, Vladimir Kramnik, Wor
 _Context: Danish, Iceland, Sterling Airlines, bankruptcy, low-cost carrier_
 
 ### [ Suicide bombers attack targets in Somalia: Hargeisa, the capital of the self-proclaimed republic of Somaliland, and Bosaso, a city in the autonomous state of Puntland. ](/news/2008/10/29/suicide-bombers-attack-targets-in-somalia-hargeisa-the-capital-of-the-self-proclaimed-republic-of-somaliland-and-bosaso-a-city-in-the-a.md)
-_Context: Bosaso, Hargeisa, Puntland, Somalia, Somaliland, Suicide bombers attack targets_
+_Context: Bosaso, Hargeisa, Puntland, Somali, Somaliland, Suicide bombers attack targets_
 
 ### [ At least 100 people die after a 6.4 magnitude earthquake in Pakistan in the city of Ziarat. ](/news/2008/10/29/at-least-100-people-die-after-a-6-4-magnitude-earthquake-in-pakistan-in-the-city-of-ziarat.md)
 _Context: Pakistan, Ziarat, it was struck_

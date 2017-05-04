@@ -10,7 +10,7 @@ _Context: Anaheim Angels, Los Angeles Dodgers_
 _Context: China, Guizhou_
 
 ### [ Thousands of people rally in Paris in support of the European Union removing the People's Mujahedin of Iran from its list of terrorist organisations. ](/news/2008/06/28/thousands-of-people-rally-in-paris-in-support-of-the-european-union-removing-the-people-s-mujahedin-of-iran-from-its-list-of-terrorist-orga.md)
-_Context: EU, Paris, People's Mujahedin of Iran, terrorist organisation_
+_Context: European Union, Paris, People's Mujahedin of Iran, terrorist organisation_
 
 ### [ Police in South Korea use water cannons to disperse thousands of people protesting in Seoul about the resumption of beef imports from the United States. ](/news/2008/06/28/police-in-south-korea-use-water-cannons-to-disperse-thousands-of-people-protesting-in-seoul-about-the-resumption-of-beef-imports-from-the-u.md)
 _Context: Seoul, South Korea, United States, beef imports, water cannon_

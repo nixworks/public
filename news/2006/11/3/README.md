@@ -13,7 +13,7 @@ _Context: Cory Lidle, National Transportation Safety Board, New York Yankees, Ne
 _Context: World Meteorological Organisation, greenhouse gases_
 
 ### [ A draft European Commission report raises new doubts about Turkey's bid to join the European Union. ](/news/2006/11/3/a-draft-european-commission-report-raises-new-doubts-about-turkey-s-bid-to-join-the-european-union.md)
-_Context: Accession of Turkey to the European Union, EU, European Commission, Turkey_
+_Context: Accession of Turkey to the European Union, European Commission, European Union, Turkey_
 
 ### [ Trevor Berbick's nephew Harold Berbick is charged with his uncle's murder along with another man in Jamaica. ](/news/2006/11/3/trevor-berbick-s-nephew-harold-berbick-is-charged-with-his-uncle-s-murder-along-with-another-man-in-jamaica.md)
 _Context: Jamaica, Trevor Berbick_

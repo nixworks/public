@@ -1,7 +1,7 @@
 ## [2008-09-24](/news/2008/09/24/index.md)
 
 ### [ At least 17 civilians are killed in battles between Islamist militants and African Union peacekeepers in the Somali capital Mogadishu. ](/news/2008/09/24/at-least-17-civilians-are-killed-in-battles-between-islamist-militants-and-african-union-peacekeepers-in-the-somali-capital-mogadishu.md)
-_Context: African Union, Islamist, Mogadishu, Somalia, militant_
+_Context: African Union, Islamist, Mogadishu, Somali, militant_
 
 ### [  President of the United States George W. Bush addresses the nation on prime time television to discuss the crisis and the Paulson plan. He warns that the United States faces a "long and painful recession" if the package is not passed. ](/news/2008/09/24/president-of-the-united-states-george-w-bush-addresses-the-nation-on-prime-time-television-to-discuss-the-crisis-and-the-paulson-plan-he.md)
 Barack Obama rejected John McCain’s call to halt the campaign for president during the financial crisis.

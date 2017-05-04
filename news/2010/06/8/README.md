@@ -10,7 +10,7 @@ US singer Chris Brown postpones a UK tour after being denied a visa over his con
 Twelve people, including schoolchildren, perish as boat capsizes in lake.
 
 ### [The EU proposes that Romani issues should be integrated into housing, education and culture polices at EU and national level. ](/news/2010/06/8/the-eu-proposes-that-romani-issues-should-be-integrated-into-housing-education-and-culture-polices-at-eu-and-national-level.md)
-_Context: EU, Roma_
+_Context: European Union, Roma_
 
 ### [21 nations, including the Presidents of Afghanistan, Russia and Syria, attending the Conference on Interaction and Confidence-Building Measures in Asia summit in Istanbul condemn Israel's deadly raid on the Gaza-bound aid flotilla, while Israel, the 22nd participant with a lower-level diplomat, disagrees. ](/news/2010/06/8/21-nations-including-the-presidents-of-afghanistan-russia-and-syria-attending-the-conference-on-interaction-and-confidence-building-measu.md)
 _Context: Afghanistan, Conference on Interaction and Confidence-Building Measures in Asia, Gaza Strip, Gaza flotilla raid, Israel, Istanbul, Russia, Syria_

@@ -40,7 +40,7 @@ A large explosion rocks an oil facility in the south-east Mexican state of Verac
 _Context: Abdullatif bin Rashid Al Zayani, Ash Carter, Gulf Cooperation Council, Houthi, Iran, Secretary of Defense, United States, Yemen, Yemeni Crisis_
 
 ### [The European Union proposes offering Ukraine visa-free travel to its members. However, it is still unclear how fast the liberalization process will be dealt with in the European Parliament and European Council, where some EU member states might want to slow down the process. ](/news/2016/04/20/the-european-union-proposes-offering-ukraine-visa-free-travel-to-its-members-however-it-is-still-unclear-how-fast-the-liberalization-proce.md)
-_Context: EU, European Council, European Parliament, Ukraine-European Union relations, Ukrainian, member states_
+_Context: European Council, European Parliament, European Union, Ukraine-European Union relations, Ukrainian, member states_
 
 ### [NATO reopens informal talks with Russia for the first time in nearly two years. According to the Secretary General of NATO Jens Stoltenberg "NATO and Russia have profound and persistent disagreements, today's meeting did not change that." ](/news/2016/04/20/nato-reopens-informal-talks-with-russia-for-the-first-time-in-nearly-two-years-according-to-the-secretary-general-of-nato-jens-stoltenberg.md)
 NATO has reopened informal talks with Russia for the first time in nearly two years. Diplomats met for over 90 minutes to discuss Ukraine and the

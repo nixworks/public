@@ -25,7 +25,7 @@ _Context: Bermuda, Chinese, David Miliband, Guantanamo Bay, Secretary of State f
 _Context: Bradford, Cannes, City of Film, Los Angeles, UNESCO, Venice_
 
 ### [ Mombasa's courts are overwhelmed with Somali pirate trials; some cases could be transferred to Nairobi. ](/news/2009/06/12/mombasa-s-courts-are-overwhelmed-with-somali-pirate-trials-some-cases-could-be-transferred-to-nairobi.md)
-_Context: Mombasa, Nairobi, Somali pirates, Somalia_
+_Context: Mombasa, Nairobi, Somali, Somali pirates_
 
 ### [ The trial of National League for Democracy General Secretary Aung San Suu Kyi is adjourned until June 26. ](/news/2009/06/12/the-trial-of-national-league-for-democracy-general-secretary-aung-san-suu-kyi-is-adjourned-until-june-26.md)
 _Context: Aung San Suu Kyi, General Secretary, National League for Democracy, trial_

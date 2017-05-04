@@ -13,10 +13,10 @@ _Context: Ban Ki-moon, Global food price crisis, Secretary General_
 _Context: Afghanistan, Nangarhar Province_
 
 ### [ The European Union signs the Stabilisation and Association Agreement with Serbia prior to the decisive elections on 11 May 2008, but makes ratification conditional on full cooperation with the ICTY. ](/news/2008/04/29/the-european-union-signs-the-stabilisation-and-association-agreement-with-serbia-prior-to-the-decisive-elections-on-11-may-2008-but-makes.md)
-_Context: EU, ICTY, Serbia, Stabilisation and Association Agreement, parliamentary election_
+_Context: European Union, ICTY, Serbia, Stabilisation and Association Agreement, parliamentary election_
 
 ### [ Lithuania blocked the beginning of talks on a strategic deal between the European Union and Russia because of ongoing disputes with Moscow ](/news/2008/04/29/lithuania-blocked-the-beginning-of-talks-on-a-strategic-deal-between-the-european-union-and-russia-because-of-ongoing-disputes-with-moscow.md)
-_Context: EU, Lithuania, Moscow, Russia_
+_Context: European Union, Lithuania, Moscow, Russia_
 
 ## [Previous Day...](/news/2008/04/28/index.md)
 

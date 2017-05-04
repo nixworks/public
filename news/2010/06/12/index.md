@@ -31,13 +31,13 @@ _Context: Auckland, New Zealand, central business district, prostitute, young re
 _Context: south China, teacher_
 
 ### [The European Union promises EUR500 million towards the 2010/11 budget of Kenya, the largest economy in East Africa. ](/news/2010/06/12/the-european-union-promises-a-500-million-towards-the-2010-11-budget-of-kenya-the-largest-economy-in-east-africa.md)
-_Context: EU, East Africa, Kenya_
+_Context: East Africa, European Union, Kenya_
 
 ### [Chinese Buddhist monks and archaeologists revealed what they believe to be a part of the skull of Siddartha Gautama, the founder of Buddhism, in east China's Jiangsu Province. ](/news/2010/06/12/chinese-buddhist-monks-and-archaeologists-revealed-what-they-believe-to-be-a-part-of-the-skull-of-siddartha-gautama-the-founder-of-buddhism.md)
 _Context: Buddhist, Buddhist monks, Gautama Buddha, Jiangsu Province_
 
 ### [UK Prime Minister David Cameron and U.S. President Barack Obama discuss America's oil spill problem over a telephone call. ](/news/2010/06/12/uk-prime-minister-david-cameron-and-u-s-president-barack-obama-discuss-america-s-oil-spill-problem-over-a-telephone-call.md)
-_Context: Barack Obama, David Cameron, Deepwater Horizon oil spill, Prime Minster, U.S. President, United Kingdom_
+_Context: David Cameron, Deepwater Horizon oil spill, Obama, Prime Minster, U.S. President, United Kingdom_
 
 ### [A French fishing boat rescues US teenage sailor Abby Sunderland in the Southern Ocean. ](/news/2010/06/12/a-french-fishing-boat-rescues-us-teenage-sailor-abby-sunderland-in-the-southern-ocean.md)
 _Context: Abby Sunderland, France, Southern Ocean, United States, fishing boat, sailor, teenage_

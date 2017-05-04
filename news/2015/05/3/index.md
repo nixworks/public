@@ -25,7 +25,7 @@ Two suspects opened fire outside the Curtis Culwell Center during a Muhammad art
 _Context: Madison, Wisconsin, discrimination against atheists_
 
 ### [Retired neurosurgeon  Ben Carson tells a Florida television station that he would run for the Republican Party nomination with a formal announcement to be made in the city of Detroit, Michigan, where he grew up. ](/news/2015/05/3/retired-neurosurgeon-ben-carson-tells-a-florida-television-station-that-he-would-run-for-the-republican-party-nomination-with-a-formal-anno.md)
-_Context: 2016 U.S. presidential election, Ben Carson, Detroit, Florida, Republican, neurosurgeon_
+_Context: Ben Carson, Detroit, Florida, Republican, United States presidential election, 2016, neurosurgeon_
 
 ### [Nagorno-Karabakh parliamentary election, 2015.](/news/2015/05/3/nagorno-karabakh-parliamentary-election-2015.md)
 _Context: Nagorno-Karabakh parliamentary election, 2015_

@@ -34,7 +34,7 @@ The Yemen Post newspaper described the city of Al Mukallah as being &#x201c;unde
 The U.S.’s Pacific Fleet commander vowed in a Beijing speech to continue patrols in waters claimed by China in the South China Sea while emphasizing common ground with the country.
 
 ### [The New General National Congress (Libya Dawn) which controls the capital Tripoli, and much of western Libya, threatens to send 'hundreds of thousands' of refugees to Europe unless the European Union recognizes the Islamist-led government. ](/news/2015/11/3/the-new-general-national-congress-libya-dawn-which-controls-the-capital-tripoli-and-much-of-western-libya-threatens-to-send-hundreds-of.md)
-_Context: EU, Europe, General National Congress, Libya, Libyan Crisis (2011-present), Tripoli, radical Islamists_
+_Context: Europe, European Union, General National Congress, Libya, Libyan Crisis (2011-present), Tripoli, radical Islamists_
 
 ### [Japan has delivered two more ships to Vietnam that will be refurbished into patrol boats. The ships, which arrived in the port city of Da Nang, are the second delivery of a 2014 deal in which Tokyo is to provide Vietnam with six used fishing vessels that will be converted into patrol boats for Vietnam's coast guard in the South China Sea. ](/news/2015/11/3/japan-has-delivered-two-more-ships-to-vietnam-that-will-be-refurbished-into-patrol-boats-the-ships-which-arrived-in-the-port-city-of-da-na.md)
 _Context: Coast Guard, Japan, Japan-Vietnam relations, South China Sea, Tokyo, Vietnam, disputed, port city of Da Nang_

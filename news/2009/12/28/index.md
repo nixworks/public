@@ -7,7 +7,7 @@ _Context: Hirohisa Fujii, Japan, finance minister_
 _Context: Argentine, Latin America, civil ceremony, homosexuality, same-sex marriage_
 
 ### [ Xinhua News Agency says China has rescued 25 sailors and the ''De Xin Hai'', the hijacked Chinese cargo ship, two months after they were seized off Somalia. ](/news/2009/12/28/xinhua-news-agency-says-china-has-rescued-25-sailors-and-the-de-xin-hai-the-hijacked-chinese-cargo-ship-two-months-after-they-were-se.md)
-_Context: China, China's, De Xin Hai, Somalia, Xinhua News Agency_
+_Context: China, China's, De Xin Hai, Somali, Xinhua News Agency_
 
 ### [ A mine explosion in Shuangbai County, Yunnan causes more deaths to add to those from a similar incident in Jiexiu, Shanxi yesterday, bringing the total deaths for the two incidents to 17, with six other people still trapped. ](/news/2009/12/28/a-mine-explosion-in-shuangbai-county-yunnan-causes-more-deaths-to-add-to-those-from-a-similar-incident-in-jiexiu-shanxi-yesterday-bringi.md)
 _Context: Jiexiu, Shanxi province, Shuangbai County, Yunnan_
@@ -40,7 +40,7 @@ _Context: Eastern Siberia - Pacific Ocean oil pipeline, Russia, Vladimir Putin_
 _Context: Chile, Valparaiso_
 
 ### [ President of Venezuela Hugo Chavez quotes Mary and Karl Marx in a New Year message broadcast by state media, describing an end to the "illusion" of Barack Obama and predicting a global ecological disaster. ](/news/2009/12/28/president-of-venezuela-hugo-cha-vez-quotes-mary-and-karl-marx-in-a-new-year-message-broadcast-by-state-media-describing-an-end-to-the-ill.md)
-_Context: Barack Obama, Hugo Chavez, Karl Marx, Mary, Venezuelan President_
+_Context: Hugo Chavez, Karl Marx, Mary, Obama, Venezuelan President_
 
 ### [ At least 25 people are confirmed wounded after battles over a fatal stabbing between local people and gold miners from Brazil in Albina, Suriname. ](/news/2009/12/28/at-least-25-people-are-confirmed-wounded-after-battles-over-a-fatal-stabbing-between-local-people-and-gold-miners-from-brazil-in-albina-su.md)
 _Context: Albina, Brazil, Suriname_

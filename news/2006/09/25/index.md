@@ -19,7 +19,7 @@ _Context: Comair Flight 5191, co-pilot_
 _Context: 28 September, Maria Fyodorovna, Nicholas II, Peter and Paul Cathedral, Roskilde Cathedral, Saint Petersburg_
 
 ### [ After taking over Kismayo, Somali Islamist militants open fire on anti-sharia protesters.  Three deaths are being reported. ](/news/2006/09/25/after-taking-over-kismayo-somali-islamist-militants-open-fire-on-anti-sharia-protesters-three-deaths-are-being-reported.md)
-_Context: Kismayo, Sharia, Somalia, radical Islamists_
+_Context: Kismayo, Sharia, Somali, radical Islamists_
 
 ### [ Two gunmen kill Safia Ahmed-jan, the provincial director of Afghanistan's Ministry of Women's Affairs outside her home in Kandahar. ](/news/2006/09/25/two-gunmen-kill-safia-ahmed-jan-the-provincial-director-of-afghanistan-s-ministry-of-women-s-affairs-outside-her-home-in-kandahar.md)
 _Context: Afghanistan, Kandahar, Safia Ahmed-jan_

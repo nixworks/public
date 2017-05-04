@@ -1,7 +1,7 @@
 ## [2010-11-30](/news/2010/11/30/index.md)
 
 ### [Fighting in the Somali capital Mogadishu leaves at least 15 people dead and 25 injured. ](/news/2010/11/30/fighting-in-the-somali-capital-mogadishu-leaves-at-least-15-people-dead-and-25-injured.md)
-_Context: Battle of Mogadishu (2010), Mogadishu, Somalia_
+_Context: Battle of Mogadishu (2010), Mogadishu, Somali_
 
 ### [An explosion occurs outside a stadium in Bishkek, Kyrgyzstan, injuring four people. ](/news/2010/11/30/an-explosion-occurs-outside-a-stadium-in-bishkek-kyrgyzstan-injuring-four-people.md)
 _Context: Bishkek, Kyrgyzstan_

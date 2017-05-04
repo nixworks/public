@@ -7,7 +7,7 @@ _Context: 2001, 2004, Hamid Bin Abdul Sani al-Thani, Prague, Prince, Qatar, pris
 _Context: Irenaios I, Jerusalem, Metropolitan Cornelius of Petra, Orthodox Church of Jerusalem, locum tenens_
 
 ### [ Fighting in the proposed Somali capital of Baidoa threatens the stability of the Transitional Federal Government of Somalia. ](/news/2005/05/30/fighting-in-the-proposed-somali-capital-of-baidoa-threatens-the-stability-of-the-transitional-federal-government-of-somalia.md)
-_Context: Baidoa, Somalia, Transitional Federal Government of Somalia_
+_Context: Baidoa, Somali, Transitional Federal Government of Somalia_
 
 ### [ Angela Merkel is elected by the CDU/CSU as candidate to become Chancellor of Germany in the upcoming German federal election, 2005. ](/news/2005/05/30/angela-merkel-is-elected-by-the-cdu-csu-as-candidate-to-become-chancellor-of-germany-in-the-upcoming-german-federal-election-2005.md)
 _Context: Angela Merkel, CSU, Chancellor, Christian Democratic Union, German federal election, 2005_

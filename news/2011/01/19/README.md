@@ -22,7 +22,7 @@ _Context: Brazil, the recent floods and landslides in Rio de Janeiro state_
 _Context: American Samoa, smoking_
 
 ### [President Hu Jintao of China is welcomed at an official ceremony at the White House by U.S. President Barack Obama. ](/news/2011/01/19/president-hu-jintao-of-china-is-welcomed-at-an-official-ceremony-at-the-white-house-by-u-s-president-barack-obama.md)
-_Context: Barack Obama, Hu Jintao, White House, official ceremony_
+_Context: Hu Jintao, Obama, White House, official ceremony_
 
 ### [Palestine calls for the "immediate, full lifting of the Israeli blockade" and "the sustained opening of Gaza's border crossings for the movement of persons and goods." during a debate at the UN Security Council.](/news/2011/01/19/palestine-calls-for-the-immediate-full-lifting-of-the-israeli-blockade-and-the-sustained-opening-of-gaza-s-border-crossings-for-the-move.md)
 _Context: Israeli blockade, Palestinian, UN Security Council_

@@ -22,7 +22,7 @@ _Context: North Korea, South Korea, ballistic missile_
 “#INTERPOL Red Notices for 2 former #FIFA officials &amp; 4 execs on charges inc #racketeering #conspiracy #corruption”
 
 ### [Former Governor of Rhode Island Lincoln Chafee announces he is seeking the Democratic Party nomination. ](/news/2015/06/3/former-governor-of-rhode-island-lincoln-chafee-announces-he-is-seeking-the-democratic-party-nomination.md)
-_Context: 2016 U.S. presidential election, Democratic, Governor of Rhode Island, Lincoln Chafee_
+_Context: Democratic, Governor of Rhode Island, Lincoln Chafee, United States presidential election, 2016_
 
 ## [Previous Day...](/news/2015/06/2/index.md)
 

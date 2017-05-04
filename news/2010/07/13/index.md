@@ -109,7 +109,7 @@ The Israeli authorities have used bulldozers to demolish three buildings in occu
 _Context: Federal Communications Commission's, United States appeals court_
 
 ### [President of the United States Barack Obama nominates Jacob Lew to replace Peter Orszag as the chief of the Office of Management and Budget. ](/news/2010/07/13/president-of-the-united-states-barack-obama-nominates-jacob-lew-to-replace-peter-orszag-as-the-chief-of-the-office-of-management-and-budget.md)
-_Context: Barack Obama, Jacob Lew, Office of Management and Budget, Peter Orszag_
+_Context: Jacob Lew, Obama, Office of Management and Budget, Peter Orszag_
 
 ### [The United States Senate announces it will vote on financial reform legislations on 15 July. ](/news/2010/07/13/the-united-states-senate-announces-it-will-vote-on-financial-reform-legislations-on-15-july.md)
 _Context: United States Senate, financial reform_

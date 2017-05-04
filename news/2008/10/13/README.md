@@ -10,7 +10,7 @@ _Context: Los Angeles, San Fernando Valley, Summer 2008 California wildfires, wi
 The House of Lords firmly rejected a government proposal to tighten anti-terrorism laws on Monday, saying it would not support suspects being held for up to six weeks without charge.
 
 ### [ The European Union temporarily lifts travel bans on Belarusian President Alexander Lukashenko and other top officials for six months to encourage democratic reforms in that country. ](/news/2008/10/13/the-european-union-temporarily-lifts-travel-bans-on-belarusian-president-alexander-lukashenko-and-other-top-officials-for-six-months-to-enc.md)
-_Context: Alexander Lukashenko, Belarus, Belarussian President, EU_
+_Context: Alexander Lukashenko, Belarus, Belarussian President, European Union_
 
 ### [ Nobel Prize: United States economist Paul Krugman wins the 2008 Nobel Prize in Economics for "analysis of trade patterns and location of economic activity".](/news/2008/10/13/nobel-prize-p-united-states-economist-paul-krugman-wins-the-2008-nobel-prize-in-economics-for-analysis-of-trade-patterns-and-location-of-e.md)
 _Context: 2008, Nobel Prize, Nobel Prize in Economics, Paul Krugman, United States, economist_

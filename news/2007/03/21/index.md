@@ -22,7 +22,7 @@ _Context: Ali Khamenei, Ayatollah, Iran, Supreme Leader of Iran, United Nations 
 _Context: Histadrut, Israel, strike, unionize_
 
 ### [ Islamist insurgency in Somalia (2007-present): At least seven people die in heavy fighting in Mogadishu as Somalian and Ethiopian troops enter an insurgent stronghold. ](/news/2007/03/21/islamist-insurgency-in-somalia-2007apresent-at-least-seven-people-die-in-heavy-fighting-in-mogadishu-as-somalian-and-ethiopian-troops.md)
-_Context:  Insurgency in Somalia, Ethiopia, Ethiopian army, Mogadishu, Somalia, heavy fighting_
+_Context:  Insurgency in Somalia, Ethiopia, Ethiopian army, Mogadishu, Somali, heavy fighting_
 
 ### [ Sri Lankan Civil War: Eleven people die in fighting between the Sri Lanka Army and the Tamil Tigers in the Batticaloa district. ](/news/2007/03/21/sri-lankan-civil-war-eleven-people-die-in-fighting-between-the-sri-lanka-army-and-the-tamil-tigers-in-the-batticaloa-district.md)
 _Context: Army, Batticaloa, Sri Lanka, Sri Lankan Civil War, Tamil Tigers_

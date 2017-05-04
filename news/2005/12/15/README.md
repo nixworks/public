@@ -13,7 +13,7 @@ _Context: Al Jazeera, Ayatollah Ali Sistani, Iraq, Shia_
 Palestinians in the West Bank have been voting in the final round of local elections.
 
 ### [ The European Council meets to discuss the next 7-year budget for the European Union. ](/news/2005/12/15/the-european-council-meets-to-discuss-the-next-7-year-budget-for-the-european-union.md)
-_Context: 7-year budget, EU, European Council_
+_Context: 7-year budget, European Council, European Union_
 
 ### [ Voting starts in Iraq to elect the first permanent 275-member Iraqi National Assembly under the new Constitution of Iraq. ](/news/2005/12/15/voting-starts-in-iraq-to-elect-the-first-permanent-275-member-iraqi-national-assembly-under-the-new-constitution-of-iraq.md)
 _Context: December 2005, Iraqi National Assembly, Iraqi constitution_

@@ -7,7 +7,7 @@ Syrian rebels capture a key oilfield in eastern Deir Ezzor province, activists s
 A car bomb targeting a military vehicle in southeast Turkey on Sunday killed an 11-year-old child and wounded 18 other people, Turkish officials said.
 
 ### [A policeman is killed and 11 others are injured in a grenade attack on a church in the Kenyan town of Garissa near the border with Somalia. ](/news/2012/11/4/a-policeman-is-killed-and-11-others-are-injured-in-a-grenade-attack-on-a-church-in-the-kenyan-town-of-garissa-near-the-border-with-somalia.md)
-_Context: Garissa, Somalia_
+_Context: Garissa, Somali_
 
 ### [Iran's Revolutionary Guard Corps establish and inaugurate a new naval base on the Strait of Hormuz, near Bandar Lengeh. ](/news/2012/11/4/iran-s-revolutionary-guard-corps-establish-and-inaugurate-a-new-naval-base-on-the-strait-of-hormuz-near-bandar-lengeh.md)
 _Context: Bandar Lengeh, Iranian Revolutionary guards, Strait of Hormuz_

@@ -28,7 +28,7 @@ The European Union has agreed an &quot;action plan&quot; with Turkey to help ste
 _Context: Afghanistan, Kazakhstan, Russia_
 
 ### [President Park Geun-hye of South Korea is in Washington, D.C. and met with President Barack Obama at The White House. ](/news/2015/10/16/president-park-geun-hye-of-south-korea-is-in-washington-d-c-and-met-with-president-barack-obama-at-the-white-house.md)
-_Context: Barack Obama, Park Geun-hye, South Korea, The White House, Washington, D.C._
+_Context: Obama, Park Geun-hye, South Korea, The White House, Washington, D.C._
 
 ### [China hosts the ministers of defense from the Association of Southeast Asian Nations (ASEAN).  During the meeting a Chinese defense official suggests joint maritime drills between the host and ASEAN.  At the same time, it is widely expected that U.S. Navy vessels may soon sail within 12 nautical miles of islands China is constructing upon reefs and atolls in the South China Sea. ](/news/2015/10/16/china-hosts-the-ministers-of-defense-from-the-association-of-southeast-asian-nations-asean-during-the-meeting-a-chinese-defense-official.md)
 China proposes joint maritime drills with South East Asian nations in the hotly contested South China Sea in 2016.

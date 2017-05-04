@@ -4,7 +4,7 @@
 _Context: Sri Lanka, United Nations_
 
 ### [Two rebel groups in Somalia&ndash;al-Shabaab and the Islamic Party&ndash;announce plans to merge to try to topple the UN-backed Transitional Federal Government. ](/news/2010/12/19/two-rebel-groups-in-somalia-ndash-al-shabaab-and-the-islamic-party-ndash-announce-plans-to-merge-to-try-to-topple-the-un-backed-transitional.md)
-_Context: Somalia, Transitional Federal Government, United Nations, al-Shabaab_
+_Context: Somali, Transitional Federal Government, United Nations, al-Shabaab_
 
 ### [Stars appeared at the red carpet closing ceremony of the 7th Dubai International Film Festival. ](/news/2010/12/19/stars-appeared-at-the-red-carpet-closing-ceremony-of-the-7th-dubai-international-film-festival.md)
 _Context: Dubai International Film Festival_

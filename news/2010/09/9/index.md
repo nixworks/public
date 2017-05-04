@@ -7,10 +7,10 @@ _Context: Bauchi, Boko Haram, Islam, Nigeria_
 _Context: 2010 Vladikavkaz bombing, Caucasus, Russia, Vladikavkaz, suicide bombing_
 
 ### [A bomb explodes at Mogadishu Airport in Somalia. ](/news/2010/09/9/a-bomb-explodes-at-mogadishu-airport-in-somalia.md)
-_Context: Battle of Mogadishu (2010), Mogadishu Airport, Somalia_
+_Context: Battle of Mogadishu (2010), Mogadishu Airport, Somali_
 
 ### [United States Marines board and seize control of a German-owned vessel, Magellan Star, previously captured by pirates off the coast of Somalia. ](/news/2010/09/9/united-states-marines-board-and-seize-control-of-a-german-owned-vessel-magellan-star-previously-captured-by-pirates-off-the-coast-of-somal.md)
-_Context: Germany, Magellan Star, Pirate, Somalia, United States Marines_
+_Context: Germany, Magellan Star, Pirate, Somali, United States Marines_
 
 ### [Archaeologists date the mound of Moot Hill in Scone Palace where medieval Kings of Scotland including Robert the Bruce were crowned back to at least 1,000 years ago. ](/news/2010/09/9/archaeologists-date-the-mound-of-moot-hill-in-scone-palace-where-medieval-kings-of-scotland-including-robert-the-bruce-were-crowned-back-to.md)
 _Context: Archaeologist, Kings of Scotland, Robert the Bruce, Scone Palace_

@@ -13,7 +13,7 @@ _Context: Baja California Peninsula, Hurricane John, PST, September 2, UTC_
 _Context: Flight 945, Iran, Iran Air, Mashad, Tu-154_
 
 ### [  The European Union proposes new talks on the Middle East roadmap for peace. ](/news/2006/09/1/the-european-union-proposes-new-talks-on-the-middle-east-roadmap-for-peace.md)
-_Context: EU, Israeli-Palestinian conflict, Middle East, roadmap for peace_
+_Context: European Union, Israeli-Palestinian conflict, Middle East, roadmap for peace_
 
 ### [ Spain approves plans to deploy 1,100 troops to Lebanon as part of a UN peacekeeping force. ](/news/2006/09/1/spain-approves-plans-to-deploy-1-100-troops-to-lebanon-as-part-of-a-un-peacekeeping-force.md)
 _Context: Lebanon, Spain, UN_
@@ -25,7 +25,7 @@ _Context: Iran, Japan, Middle East, Minister of Economy, Trade and Industry, Tak
 _Context: 2006 Zakouma elephant slaughter, Chad, elephant, massacres, population_
 
 ### [ Prime Minister of Poland, Jaroslaw Kaczynski, calls on the EU to develop a common foreign policy and build a "credible" military force. ](/news/2006/09/1/prime-minister-of-poland-jarosaaw-kaczyaski-calls-on-the-eu-to-develop-a-common-foreign-policy-and-build-a-credible-military-force.md)
-_Context: EU, Jaroslaw Kaczynski, Poland_
+_Context: European Union, Jaroslaw Kaczynski, Poland_
 
 ### [ The Miss World 2006 pageant officially starts with the arrival of 104 nations to Warsaw, Poland for a month of activities across the country prior to the pageant's final on September 30th, 2006. ](/news/2006/09/1/the-miss-world-2006-pageant-officially-starts-with-the-arrival-of-104-nations-to-warsaw-poland-for-a-month-of-activities-across-the-countr.md)
 _Context: Miss World 2006, Poland, Warsaw_

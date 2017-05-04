@@ -10,10 +10,10 @@ The personal details of thousands of civil servants were on laptop computers sto
 James Purnell, the work and pensions secretary, dealt a major blow to Gordon Brown&#039;s grip on power when he dramatically announced he was quitting the cabinet and asking Brown &#034;to stand aside to give Labour a fighting chance of winning the next election&#034;.
 
 ### [ The President of the United States, Barack Obama, addresses the Muslim world in Cairo, Egypt. ](/news/2009/06/4/the-president-of-the-united-states-barack-obama-addresses-the-muslim-world-in-cairo-egypt.md)
-_Context: A New Beginning, Barack Obama, Cairo, Egypt, Muslim, president_
+_Context: A New Beginning, Cairo, Egypt, Muslim, Obama, president_
 
 ### [ The European Union's parliamentary election commences in the Netherlands and United Kingdom. ](/news/2009/06/4/the-european-union-s-parliamentary-election-commences-in-the-netherlands-and-united-kingdom.md)
-_Context: EU, European Parliament, Netherlands, United Kingdom, elections_
+_Context: European Parliament, European Union, Netherlands, United Kingdom, elections_
 
 ### [ Irish Minister for Education and Science Batt O'Keeffe apologises for the postponement of a Leaving Certificate Examination. ](/news/2009/06/4/irish-minister-for-education-and-science-batt-o-keeffe-apologises-for-the-postponement-of-a-leaving-certificate-examination.md)
 An inquiry has begun into the security breach which forced the postponement of today&#39;s Leaving Cert English Paper Two.

@@ -1,7 +1,7 @@
 ## [2009-02-24](/news/2009/02/24/index.md)
 
 ### [ United States President Barack Obama addresses a joint session of Congress. ](/news/2009/02/24/united-states-president-barack-obama-addresses-a-joint-session-of-congress.md)
-_Context: Barack Obama, addresses, joint session of Congress, president_
+_Context: Obama, addresses, joint session of Congress, president_
 
 ### [ The U.S. Senate confirms Hilda Solis as the Secretary of Labor. ](/news/2009/02/24/the-u-s-senate-confirms-hilda-solis-as-the-secretary-of-labor.md)
 Earlier we reported that the Senate would hold a vote to cut off debate today on the nomination of Rep. Hilda Solis, D-Calif., as secretary of Labor. Now comes word that senators have reached an agreement to avoid that and...
@@ -37,10 +37,10 @@ Gardaí attached to the ODCE have ended their search at the Anglo Irish Bank hea
 _Context: Iraq, Iraq War, Iraqi, Iraqi Police, Mosul, U.S. military personnel, United States, interpreter_
 
 ### [ At least 15 people are killed and 90 injured in heavy fighting in Mogadishu, Somalia. ](/news/2009/02/24/at-least-15-people-are-killed-and-90-injured-in-heavy-fighting-in-mogadishu-somalia.md)
-_Context: Mogadishu, Somalia, heavy fighting_
+_Context: Mogadishu, Somali, heavy fighting_
 
 ### [ U.S. President Obama and Japanese Prime Minister Taro Aso pledge to cooperate in stimulating economic demand and combating protectionism. ](/news/2009/02/24/u-s-president-obama-and-japanese-prime-minister-taro-aso-pledge-to-cooperate-in-stimulating-economic-demand-and-combating-protectionism.md)
-_Context: Barack Obama, Japan, Prime Minister, Taro Aso, United States, president, protectionism, stimulating economic demand_
+_Context: Japan, Obama, Prime Minister, Taro Aso, United States, president, protectionism, stimulating economic demand_
 
 ### [ Italian Prime Minister Silvio Berlusconi and French President Nicolas Sarkozy agree to cooperate in reviving nuclear power in Italy. ](/news/2009/02/24/italian-prime-minister-silvio-berlusconi-and-french-president-nicolas-sarkozy-agree-to-cooperate-in-reviving-nuclear-power-in-italy.md)
 _Context: France, Italian, Italian Prime Minister, Nicolas Sarkozy, Silvio Berlusconi, nuclear power, president_

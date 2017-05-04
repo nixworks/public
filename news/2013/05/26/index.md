@@ -4,7 +4,7 @@
 Rockets have slammed into two southern Beirut neighbourhoods that are strongholds of Lebanon&#039;s Hezbollah group, wounding four people and raising fears that Syria&#039;s civil war is increasingly moving to Lebanon.
 
 ### [War in Somalia (2009-present):Six people are killed in an attack by Somali militants in police posts over the Kenyan border. ](/news/2013/05/26/war-in-somalia-2009apresent-psix-people-are-killed-in-an-attack-by-somali-militants-in-police-posts-over-the-kenyan-border.md)
-_Context: Kenya, Somalia, War in Somalia (2009-present)_
+_Context: Kenya, Somali, War in Somalia (2009-present)_
 
 ### [The French film ''Blue Is the Warmest Colour'' wins the Palme d'Or at the 2013 Cannes Film Festival. ](/news/2013/05/26/the-french-film-blue-is-the-warmest-colour-wins-the-palme-d-or-at-the-2013-cannes-film-festival.md)
 _Context: 2013 Cannes Film Festival, Blue Is the Warmest Colour, Palme d'Or_

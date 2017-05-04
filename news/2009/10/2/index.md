@@ -4,7 +4,7 @@
 _Context: Republic of Ireland, Treaty of Lisbon, the second Irish referendum_
 
 ### [ Croatia resumes membership talks with the European Union after Slovenia lifts its 10-month embargo. ](/news/2009/10/2/croatia-resumes-membership-talks-with-the-european-union-after-slovenia-lifts-its-10-month-embargo.md)
-_Context: Croatia, EU, Slovenia, formal entry of Croatia_
+_Context: Croatia, European Union, Slovenia, formal entry of Croatia_
 
 ### [ Rainstorms in Messina and other parts of Sicily sweep at least 18 people away to their deaths, wounding 40, causing 20 to disappear and surrounding the city with mud and rainwater. A state of emergency is declared by the Italian government. ](/news/2009/10/2/rainstorms-in-messina-and-other-parts-of-sicily-sweep-at-least-18-people-away-to-their-deaths-wounding-40-causing-20-to-disappear-and-sur.md)
 At least 18 people have been killed and 40 injured after rainstorms in Sicily washed away roads and destroyed homes around Messina.

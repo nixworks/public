@@ -19,7 +19,7 @@ _Context: Siberia, Yakutsk_
 _Context: Eurostar, weather-related_
 
 ### [ Serbia formally submits its application to join the European Union. ](/news/2009/12/22/serbia-formally-submits-its-application-to-join-the-european-union.md)
-_Context: EU, Serbia_
+_Context: European Union, Serbia_
 
 ### [ It is revealed that the fugitive brother of Gerry Adams has been located in County Sligo after the politician appeals for him to make his whereabouts known. ](/news/2009/12/22/it-is-revealed-that-the-fugitive-brother-of-gerry-adams-has-been-located-in-county-sligo-after-the-politician-appeals-for-him-to-make-his-w.md)
 _Context: County Sligo, Gerry Adams_

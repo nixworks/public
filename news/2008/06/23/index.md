@@ -22,7 +22,7 @@ _Context: Atlantic Yards, Brooklyn, New York's, Supreme Court of the United Stat
 _Context: China's, Guantanamo Bay detention camp, Hozaifa Parhat, U.S. Court of Appeals for the District of Columbia Circuit, United States, Uyghur, enemy combatant_
 
 ### [ The European Union agrees to new sanctions against Iran including a freeze on the assets of Bank Melli, Iran's largest bank, over the refusal to curb its nuclear program. ](/news/2008/06/23/the-european-union-agrees-to-new-sanctions-against-iran-including-a-freeze-on-the-assets-of-bank-melli-iran-s-largest-bank-over-the-refus.md)
-_Context: Bank Melli, EU, Iran, nuclear program, sanctions_
+_Context: Bank Melli, European Union, Iran, nuclear program, sanctions_
 
 ### [ Zimbabwean Electoral Crisis: Opposition leader Morgan Tsvangirai seeks refuge in Dutch Embassy. ](/news/2008/06/23/zimbabwean-electoral-crisis-p-opposition-leader-morgan-tsvangirai-seeks-refuge-in-dutch-embassy.md)
 It will be impossible for Zimbabwe to hold a free and fair run-off election on Friday amid violent assaults on the opposition and such a poll will not legitimize the government of President Robert Mugabe, U.S. Secretary of State Condoleezza Rice said on Monday.

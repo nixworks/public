@@ -1,7 +1,7 @@
 ## [2010-04-13](/news/2010/04/13/index.md)
 
 ### [Nuclear Security Summit:President of the United States Barack Obama opening the biggest international meeting hosted by the US since 1945, greets leaders from nearly 50 countries. World leaders at the summit hear dire warnings of the danger of nuclear material falling into the wrong hands. ](/news/2010/04/13/nuclear-security-summit-ppresident-of-the-united-states-barack-obama-opening-the-biggest-international-meeting-hosted-by-the-us-since-1945.md)
-_Context: Barack Obama, Nuclear Security Summit, United States, president_
+_Context: Nuclear Security Summit, Obama, United States, president_
 
 ### [A magnitude 6.9 earthquake strikes southeastern Qinghai, China, near the Yangtze River. There were no immediate reports of casualties. ](/news/2010/04/13/a-magnitude-6-9-earthquake-strikes-southeastern-qinghai-china-near-the-yangtze-river-there-were-no-immediate-reports-of-casualties.md)
 _Context: China, Qinghai, Yangtze River_
@@ -28,7 +28,7 @@ _Context: Lebanese Civil War, Lebanon, association football_
 _Context: 2010 Polish Air Force Tu-154 crash, Lech Kaczynski, Maria Kaczynska, Poland, Russia, Warsaw_
 
 ### [The First Lady of the United States, Michelle Obama, makes an unannounced visit to Haiti. It is her first official trip overseas without US President Barack Obama since he took office last year. ](/news/2010/04/13/the-first-lady-of-the-united-states-michelle-obama-makes-an-unannounced-visit-to-haiti-it-is-her-first-official-trip-overseas-without-us.md)
-_Context: Barack Obama, First Lady, Haiti, Michelle Obama_
+_Context: First Lady, Haiti, Michelle Obama, Obama_
 
 ### [11 people are killed in Isabela City, Philippines, after 25 suspected members of the Abu Sayyaf extremist group clash with security forces. ](/news/2010/04/13/11-people-are-killed-in-isabela-city-philippines-after-25-suspected-members-of-the-abu-sayyaf-extremist-group-clash-with-security-forces.md)
 _Context: Abu Sayyaf, Isabela City, Philippine_

@@ -40,7 +40,7 @@ Two people have died and another is in a critical condition after a plane carryi
 _Context: Iran, Syria, United Nations, United States_
 
 ### [Certain sanctions against Iran are lifted by the European Union and the United States through a nuclear deal. ](/news/2014/01/20/certain-sanctions-against-iran-are-lifted-by-the-european-union-and-the-united-states-through-a-nuclear-deal.md)
-_Context: EU, Iran, United States_
+_Context: European Union, Iran, United States_
 
 ### [Mike Rogers accuses Edward Snowden of collaborating with Russia. ](/news/2014/01/20/mike-rogers-accuses-edward-snowden-of-collaborating-with-russia.md)
 Several senior US lawmakers allege that intelligence leaker Edward Snowden may have been working with a foreign power, possibly Russia.

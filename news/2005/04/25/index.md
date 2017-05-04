@@ -4,7 +4,7 @@
 _Context: Amnesty International, Hebron, Israel, Israeli settlement, Israeli-Palestinian conflict, Palestinian_
 
 ### [ Bulgaria and Romania sign accession treaty to the European Union, continuing the enlargement process. ](/news/2005/04/25/bulgaria-and-romania-sign-accession-treaty-to-the-european-union-continuing-the-enlargement-process.md)
-_Context: Bulgaria, EU, Enlargement of the European Union, Romania_
+_Context: Bulgaria, Enlargement of the European Union, European Union, Romania_
 
 ### [ Mary, Crown Princess of Denmark will have a baby in October, says the Royal House in Copenhagen. ](/news/2005/04/25/mary-crown-princess-of-denmark-will-have-a-baby-in-october-says-the-royal-house-in-copenhagen.md)
 _Context: Copenhagen, Mary, Crown Princess of Denmark_

@@ -13,7 +13,7 @@ Pope Benedict XVI said Sunday that the entire world needed to rediscover hope to
 _Context: 2009, Angel Cabrera, Augusta, Georgia, Masters Tournament, PGA Tour, United States_
 
 ### [ Captain Richard Phillips of the MV ''Maersk Alabama'', who was abducted by Somali pirates, is rescued. ](/news/2009/04/12/captain-richard-phillips-of-the-mv-maersk-alabama-who-was-abducted-by-somali-pirates-is-rescued.md)
-_Context: ''Maersk Alabama'', Captain, MV, Richard Phillips, Somali pirates, Somalia_
+_Context: ''Maersk Alabama'', Captain, MV, Richard Phillips, Somali, Somali pirates_
 
 ## [Previous Day...](/news/2009/04/11/index.md)
 

@@ -7,10 +7,10 @@ The clash started after the Pakistanis fired shots or flares at two American hel
 _Context: Emergency Economic Stabilization Act, U.S. Congressional, housing crisis_
 
 ### [ The Texas Supreme Court denies a petition by the Bob Barr US Presidential campaign seeking removal of Senators Barack Obama and John McCain from that state's ballot due to both candidates missing the filing deadline. ](/news/2008/09/25/the-texas-supreme-court-denies-a-petition-by-the-bob-barr-us-presidential-campaign-seeking-removal-of-senators-barack-obama-and-john-mccain.md)
-_Context: Barack Obama, Bob Barr, John McCain, Texas Supreme Court_
+_Context: Bob Barr, John McCain, Obama, Texas Supreme Court_
 
 ### [ An effigy of Barack Obama is found hanging from a tree at George Fox University in Newberg, Oregon. ](/news/2008/09/25/an-effigy-of-barack-obama-is-found-hanging-from-a-tree-at-george-fox-university-in-newberg-oregon.md)
-_Context: Barack Obama, George Fox University, Newberg, Oregon_
+_Context: George Fox University, Newberg, Obama, Oregon_
 
 ### [ A young Canadian man is found guilty in the 2006 Toronto terrorism case of participating in a plot to storm the Parliament of Canada and behead the Prime Minister of Canada, Stephen Harper. ](/news/2008/09/25/a-young-canadian-man-is-found-guilty-in-the-2006-toronto-terrorism-case-of-participating-in-a-plot-to-storm-the-parliament-of-canada-and-be.md)
 _Context: 2006 Toronto terrorism case, Canada, Canadian Prime Minister, Parliament of Canada, Stephen Harper, behead_

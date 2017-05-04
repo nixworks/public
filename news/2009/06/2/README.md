@@ -16,7 +16,7 @@ _Context: Greenland, Inuit Ataqatigiit, election, parliament seats_
 _Context: Netherlands, headache, research, space_
 
 ### [ Oxfam International describes the humanitarian crisis in Somalia as "very dire". ](/news/2009/06/2/oxfam-international-describes-the-humanitarian-crisis-in-somalia-as-very-dire.md)
-_Context: Oxfam, Somalia, humanitarian crisis_
+_Context: Oxfam, Somali, humanitarian crisis_
 
 ### [ China blocks access to such websites as Twitter, Flickr, and Hotmail, ahead of the anniversary of the massacre in Tiananmen Square on June 4, 1989. ](/news/2009/06/2/china-blocks-access-to-such-websites-as-twitter-flickr-and-hotmail-ahead-of-the-anniversary-of-the-massacre-in-tiananmen-square-on-june.md)
 The Chinese government is trying to block access to social media, photo-sharing and many websites in an apparent effort to control discussion about the Tiananmen Square pro-democracy protests, bloodily suppressed by Chinese soldiers 20 years ago. 

@@ -1,7 +1,7 @@
 ## [2014-07-18](/news/2014/07/18/index.md)
 
 ### [2014 insurgency in Donbass:US President Barack Obama says the United States has "increasing confidence" that the missile that shot down Malaysia Airlines Flight 17 came from Russian separatists in Ukraine - and that Russia bears responsibility for the crisis. ](/news/2014/07/18/2014-insurgency-in-donbass-pus-president-barack-obama-says-the-united-states-has-increasing-confidence-that-the-missile-that-shot-down-mal.md)
-_Context: Barack Obama, Donbass war, Malaysia Airlines Flight 17_
+_Context: Donbass war, Malaysia Airlines Flight 17, Obama_
 
 ### [War in North-West Pakistan:At least eight members of the Pakistan Army Frontier Corps are killed in a militant attack in the Khyber Agency. ](/news/2014/07/18/war-in-north-west-pakistan-pat-least-eight-members-of-the-pakistan-army-frontier-corps-are-killed-in-a-militant-attack-in-the-khyber-agency.md)
 _Context: Khyber Agency, Pakistan Army, War in North-West Pakistan, paramilitary soldiers_

@@ -4,7 +4,7 @@
 Japan and Turkey join 11 countries in concerted move over massacre as Annan says country has reached tipping point.
 
 ### [Rebels attack the convoy of Somali president Sheikh Sharif Ahmed during an overland trip; he escaped unharmed. ](/news/2012/05/29/rebels-attack-the-convoy-of-somali-president-sheikh-sharif-ahmed-during-an-overland-trip-he-escaped-unharmed.md)
-_Context: Sheikh Sharif Ahmed, Somalia_
+_Context: Sheikh Sharif Ahmed, Somali_
 
 ### [2012 South Sudan-Sudan border conflict: Sudan and South Sudan restart talks to avoid war amid accusations of bombing raids. ](/news/2012/05/29/2012-south-sudanasudan-border-conflict-sudan-and-south-sudan-restart-talks-to-avoid-war-amid-accusations-of-bombing-raids.md)
 _Context: 2012 South Sudan-Sudan border conflict, South Sudan, Sudan_
@@ -55,7 +55,7 @@ PNG politicians will hold a special sitting of parliament tomorrow to elect a ne
 _Context: 1989 Tiananmen Square protests, Beijing, Chen Xitong, Hong Kong_
 
 ### [U.S. president Barack Obama gives out the Presidential Medal of Freedom to 13 recipients, including Israeli president Shimon Peres, astronaut John Glenn and musician Bob Dylan, at the White House. ](/news/2012/05/29/u-s-president-barack-obama-gives-out-the-presidential-medal-of-freedom-to-13-recipients-including-israeli-president-shimon-peres-astronau.md)
-_Context: Barack Obama, Bob Dylan, Israel, John Glenn, Presidential Medal of Freedom with Distinction, Shimon Peres, White House_
+_Context: Bob Dylan, Israel, John Glenn, Obama, Presidential Medal of Freedom with Distinction, Shimon Peres, White House_
 
 ## [Previous Day...](/news/2012/05/28/index.md)
 

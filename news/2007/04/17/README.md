@@ -1,7 +1,7 @@
 ## [2007-04-17](/news/2007/04/17/index.md)
 
 ### [ Somalia's Transitional Federal Parliament suspends a former Speaker Sharif Hassan Sheik Aden and 29 other Members of Parliament for failing to attend sessions in recent months. ](/news/2007/04/17/somalia-s-transitional-federal-parliament-suspends-a-former-speaker-sharif-hassan-sheik-aden-and-29-other-members-of-parliament-for-failing.md)
-_Context: MPs, Members of Parliament, Sharif Hassan Sheik Aden, Somalia, Speaker_
+_Context: MPs, Members of Parliament, Sharif Hassan Sheik Aden, Somali, Speaker_
 
 ### [ Nineteen people die in Rio de Janeiro in gun battles between police and drug gangs. ](/news/2007/04/17/nineteen-people-die-in-rio-de-janeiro-in-gun-battles-between-police-and-drug-gangs.md)
 _Context: Rio de Janeiro, police_

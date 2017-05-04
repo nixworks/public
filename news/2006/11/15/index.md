@@ -16,7 +16,7 @@ News and opinion from The Times &amp; The Sunday Times
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Widespread flooding is reported in East Africa especially Kenya, Somalia and Ethiopia, with at least five reported dead in Mogadishu where the Shabelle and Juba rivers have burst their banks and more than 70,000 people reported displaced in total. ](/news/2006/11/15/widespread-flooding-is-reported-in-east-africa-especially-kenya-somalia-and-ethiopia-with-at-least-five-reported-dead-in-mogadishu-where.md)
-_Context: East Africa, Ethiopia, Kenya, Somalia_
+_Context: East Africa, Ethiopia, Kenya, Somali_
 
 ### [ A patient in southern Kazakhstan has been accidentally infected with HIV. Earlier this year 79 children were accidentally infected resulting in a political scandal and the dismissal of Health Minister Yerbolat Dosayev and several lower level officials. There was another widespread infection in 2005. ](/news/2006/11/15/a-patient-in-southern-kazakhstan-has-been-accidentally-infected-with-hiv-earlier-this-year-79-children-were-accidentally-infected-resultin.md)
 _Context: HIV, Kazakhstan, Yerbolat Dosayev_

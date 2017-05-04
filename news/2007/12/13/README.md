@@ -13,7 +13,7 @@ _Context: George J. Mitchell, Major League Baseball, Mitchell Report, United Sta
 _Context: Fallujah, Iraq, United States, United States Marine Corps, reservist_
 
 ### [ European Union leaders sign the Reform Treaty in Lisbon, Portugal. ](/news/2007/12/13/european-union-leaders-sign-the-reform-treaty-in-lisbon-portugal.md)
-_Context: EU, Lisbon, Portuguese, Treaty of Lisbon_
+_Context: European Union, Lisbon, Portuguese, Treaty of Lisbon_
 
 ### [ Kivu conflict: Rebels in the Democratic Republic of the Congo loyal to General Laurent Nkunda call for peace talks with the government to resolve the crisis. ](/news/2007/12/13/kivu-conflict-rebels-in-the-democratic-republic-of-the-congo-loyal-to-general-laurent-nkunda-call-for-peace-talks-with-the-government-to-r.md)
 _Context: Democratic Republic of the Congo, Kivu conflict, Laurent Nkunda_

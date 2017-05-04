@@ -10,7 +10,7 @@ _Context: U.S. military personnel, United States, don't ask, don't tell, openly 
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
 ### [China says that relations will be undermined if U.S. President Barack Obama meets the Dalai Lama. ](/news/2010/02/2/china-says-that-relations-will-be-undermined-if-u-s-president-barack-obama-meets-the-dalai-lama.md)
-_Context: 14th Dalai Lama, Barack Obama, China's, Sino-American relations_
+_Context: 14th Dalai Lama, China's, Obama, Sino-American relations_
 
 ### [Continental Airlines and five men go on trial for their alleged role in the crash of Air France Flight 4590, a Concorde flight, that killed 113 people in 2000. ](/news/2010/02/2/continental-airlines-and-five-men-go-on-trial-for-their-alleged-role-in-the-crash-of-air-france-flight-4590-a-concorde-flight-that-killed.md)
 * Trial starts to determine cause of 2000 Concorde crash * Continental Airlines, five individuals face trial * Trial expected to last unti

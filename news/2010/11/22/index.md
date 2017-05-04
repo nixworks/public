@@ -16,7 +16,7 @@ _Context: Kim Tae-Young, North Korea, uranium enrichment_
 Bill approved by vote of 65-33 now requires either Knesset super-majority or a national referendum in order to hand over any annexed territories.
 
 ### [Ten Somalis go on trial in Germany for attacking a German ship in the country's first pirate trial in 400 years. ](/news/2010/11/22/ten-somalis-go-on-trial-in-germany-for-attacking-a-german-ship-in-the-country-s-first-pirate-trial-in-400-years.md)
-_Context: Pirate, Somalia_
+_Context: Pirate, Somali_
 
 ### [Former Vice President of the Democratic Republic of the Congo, Jean-Pierre Bemba, goes on trial for crimes against humanity and war crimes at the International Criminal Court in The Hague. ](/news/2010/11/22/former-vice-president-of-the-democratic-republic-of-the-congo-jean-pierre-bemba-goes-on-trial-for-crimes-against-humanity-and-war-crimes-a.md)
 _Context: Democratic Republic of the Congo, International Criminal Court, Jean-Pierre Bemba, The Hague, crimes against humanity, war crime_

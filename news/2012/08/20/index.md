@@ -43,7 +43,7 @@ _Context: Ethiopia, Meles Zenawi, Prime Minister_
 _Context: Myanmar, media censorship, ongoing political reforms in the country_
 
 ### [In Somalia, a new parliament is formed, with the new task of electing the country's president. ](/news/2012/08/20/in-somalia-a-new-parliament-is-formed-with-the-new-task-of-electing-the-country-s-president.md)
-_Context: President of Somalia, Somalia_
+_Context: President of Somalia, Somali_
 
 ## [Previous Day...](/news/2012/08/19/index.md)
 

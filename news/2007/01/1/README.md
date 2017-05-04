@@ -16,7 +16,7 @@ Peruvian photographer working for French press agency in Strip kidnapped; no imm
 Somali government troops backed by Ethiopian tanks and MiG fighter jets have captured the last major stronghold of a militant Islamic movement, the prime minister said Monday.
 
 ### [ Romania and Bulgaria join the European Union. ](/news/2007/01/1/romania-and-bulgaria-join-the-european-union.md)
-_Context: Bulgaria, EU, Romania_
+_Context: Bulgaria, European Union, Romania_
 
 ### [ Slovenia adopts the euro, replacing the tolar and becoming the second enlargement to the eurozone. ](/news/2007/01/1/slovenia-adopts-the-euro-replacing-the-tolar-and-becoming-the-second-enlargement-to-the-eurozone.md)
 _Context: Eurozone, Slovenia, euro, tolar_
@@ -34,7 +34,7 @@ _Context: Adam Air, Flight 574, Indonesia_
 _Context: Swiss, civil union_
 
 ### [ Irish becomes the 21st official language of the European Union](/news/2007/01/1/irish-becomes-the-21st-official-language-of-the-european-union.md)
-_Context: EU, Irish language, official language_
+_Context: European Union, Irish language, official language_
 
 ## [Previous Day...](/news/2006/12/31/index.md)
 

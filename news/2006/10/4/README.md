@@ -10,7 +10,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: ''E. coli'', California, Canada, FBI, FDA, Salinas Valley, United States, outbreak, spinach_
 
 ### [ The European Union imposes an anti-dumping tariff on leather shoe imports from the Far East - 16.5% on imports from China and 10% on imports from Vietnam. China supplies about 1.25 billion pairs of shoes to the EU each year. ](/news/2006/10/4/the-european-union-imposes-an-anti-dumping-tariff-on-leather-shoe-imports-from-the-far-east-16-5-on-imports-from-china-and-10-on-import.md)
-_Context: Chinese, EU, Vietnam_
+_Context: Chinese, European Union, Vietnam_
 
 ### [ American Roger Kornberg wins the 2006 Nobel Prize in Chemistry for describing the essential process of gene copying in cells, research that can give insight into illnesses such as cancer and heart disease. ](/news/2006/10/4/american-roger-kornberg-wins-the-2006-nobel-prize-in-chemistry-for-describing-the-essential-process-of-gene-copying-in-cells-research-that.md)
 _Context: Nobel Prize in Chemistry, Roger Kornberg, cancer, cell, gene, heart disease_

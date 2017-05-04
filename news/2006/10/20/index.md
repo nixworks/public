@@ -7,7 +7,7 @@ _Context: OPEC_
 _Context: Corus Group, Tata Group, steel, takeover_
 
 ### [ Ethiopia expels two European Union diplomats for allegedly trying to smuggle two fugitives into Kenya. The European Union criticises the expulsions as "totally unacceptable." ](/news/2006/10/20/ethiopia-expels-two-european-union-diplomats-for-allegedly-trying-to-smuggle-two-fugitives-into-kenya-the-european-union-criticises-the-ex.md)
-_Context: EU, Ethiopia, Kenya_
+_Context: Ethiopia, European Union, Kenya_
 
 ### [ United States authorities charge a Wisconsin man with making a hoax threat against seven American football stadiums that said they would be targeted by terrorists with radiological dirty bombs on the weekend. ](/news/2006/10/20/united-states-authorities-charge-a-wisconsin-man-with-making-a-hoax-threat-against-seven-american-football-stadiums-that-said-they-would-be.md)
 _Context: American football, Wisconsin, dirty bomb, radiological, terrorist_
@@ -22,7 +22,7 @@ _Context: Clare Short, Independent, Labour_
 _Context: Honiara, Manasseh Sogavare, Prime Minister, Regional Assistance Mission to the Solomon Islands, Solomon Islands_
 
 ### [ European Union leaders gather in Lahti, Finland, for a summit with Russian President Vladimir Putin. ](/news/2006/10/20/european-union-leaders-gather-in-lahti-finland-for-a-summit-with-russian-president-vladimir-putin.md)
-_Context: EU, Lahti, Russian President, Vladimir Putin_
+_Context: European Union, Lahti, Russian President, Vladimir Putin_
 
 ### [ Newly convicted prisoners in the United Kingdom are to be held in police cells rather than prisons, as the nation's prison service faces chronic overcrowding in its jails. ](/news/2006/10/20/newly-convicted-prisoners-in-the-united-kingdom-are-to-be-held-in-police-cells-rather-than-prisons-as-the-nation-s-prison-service-faces-ch.md)
 _Context: convicted prisoners, held in police cells, its jails, prison service_

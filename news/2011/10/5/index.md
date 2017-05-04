@@ -4,7 +4,7 @@
 Pro-democracy protests which swept the Arab world earlier in the year have erupted in eastern Saudi Arabia over the past three days, with police opening fire with live rounds and many people injured, opposition activists say.
 
 ### [NYSE Euronext and Deutsche Boerse AG, two exchange operating concerns planning a merger, receive a statement of objections to that merger from the European Union's business regulators. ](/news/2011/10/5/nyse-euronext-and-deutsche-boerse-ag-two-exchange-operating-concerns-planning-a-merger-receive-a-statement-of-objections-to-that-merger-fr.md)
-_Context: Deutsche Boerse AG, EU, NYSE Euronext_
+_Context: Deutsche Boerse AG, European Union, NYSE Euronext_
 
 ### [Various American labor unions, including the CWA and the ATU, join the Occupy Wall Street demonstrations in New York City. ](/news/2011/10/5/various-american-labor-unions-including-the-cwa-and-the-atu-join-the-occupy-wall-street-demonstrations-in-new-york-city.md)
 _Context: ATU, New York's, Occupy Wall Street, labor union, union_

@@ -43,7 +43,7 @@ _Context: Luis Echeverra, genocide_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ In Somalia, transitional president Abdullahi Yusuf arrives in the town of Jowhar, intending to make it a base for his new government ](/news/2005/07/26/in-somalia-transitional-president-abdullahi-yusuf-arrives-in-the-town-of-jowhar-intending-to-make-it-a-base-for-his-new-government.md)
-_Context: Abdullahi Yusuf, Jowhar, Somalia_
+_Context: Abdullahi Yusuf, Jowhar, Somali_
 
 ### [ In Nepal, king's court sentences Sher Bahadur Deuba and three others to two years in jail for alleged embezzling. Deuba denounces the sentence as "character assassination". ](/news/2005/07/26/in-nepal-king-s-court-sentences-sher-bahadur-deuba-and-three-others-to-two-years-in-jail-for-alleged-embezzling-deuba-denounces-the-sente.md)
 _Context: Nepal, Sher Bahadur Deuba, character assassination, embezzlement_

@@ -4,7 +4,7 @@
 _Context: 2007 Zoe's Ark controversy, Chad, France, aid workers, hard labor_
 
 ### [ War in Somalia: Ethiopian troops have withdrawn from a key town in central Somalia. Islamist insurgents say they now control Guriel. ](/news/2007/12/28/war-in-somalia-ethiopian-troops-have-withdrawn-from-a-key-town-in-central-somalia-islamist-insurgents-say-they-now-control-guriel.md)
-_Context: Guriel, Somalia, two years of helping_
+_Context: Guriel, Somali, two years of helping_
 
 ### [ NASA astronomers refine the trajectory of new asteroid 2007 WD5, giving it a 1-in-25 (4%) chance of striking Mars on January 30, 2008.  The object, estimated to be 50 meters wide, could impact Mars with the force of about three megatons of TNT.  The potential strike area is close to the location of the Opportunity rover. ](/news/2007/12/28/nasa-astronomers-refine-the-trajectory-of-new-asteroid-2007-wd5-giving-it-a-1-in-25-4-chance-of-striking-mars-on-january-30-2008-the.md)
 _Context: 2007 WD5, Mars, NASA, Opportunity rover_

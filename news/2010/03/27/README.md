@@ -16,7 +16,7 @@ _Context: Diyala Province, Iraq, Sunni, elections_
 _Context: RAI Television, Verona_
 
 ### [The European Union and Libya lift visa bans on each other. ](/news/2010/03/27/the-european-union-and-libya-lift-visa-bans-on-each-other.md)
-_Context: EU, Libya_
+_Context: European Union, Libya_
 
 ### [India test fires two short range missiles, the Dhanush and Prithvi II. ](/news/2010/03/27/india-test-fires-two-short-range-missiles-the-dhanush-and-prithvi-ii.md)
 _Context: Dhanush, India, Prithvi II, ballistic missile_

@@ -25,13 +25,13 @@ _Context: China, Hanlong Group, Hubei, sentencing him to death_
 _Context: 2014 Isla Vista shootings, Santa Barbara, California, University of California, drive-by shooting_
 
 ### [European Parliament election, 2014:Voters in the European Union go to the polls for a multi-day European Parliamentary election. Voters in Ireland and  the Czech Republic vote today. ](/news/2014/05/23/european-parliament-election-2014-pvoters-in-the-european-union-go-to-the-polls-for-a-multi-day-european-parliamentary-election-voters-in.md)
-_Context: Czech, EU, Ireland, newly elected_
+_Context: Czech, European Union, Ireland, newly elected_
 
 ### [2014 Thai coup d'tat:Royal Thai Army chief and coup leader General Prayuth Chan-ocha detains former Prime Minister of Thailand Yingluck Shinawatra after summoning her for talks a day after the coup. ](/news/2014/05/23/2014-thai-coup-d-etat-proyal-thai-army-chief-and-coup-leader-general-prayuth-chan-ocha-detains-former-prime-minister-of-thailand-yingluck-sh.md)
 By Amy Sawitta Lefevre and Pracha Hariraksapitak BANGKOK (Reuters) - Thailand&#x27;s military rulers detained former Prime Minister Yingluck Shinawatra on Friday, a senior officer said, after summoning her for talks a day after the army overthrew her caretaker government in a coup. As the army moved
 
 ### [Barack Obama nominates Julian Castro, the Mayor of San Antonio, to become the next Secretary of Housing and Urban Development. ](/news/2014/05/23/barack-obama-nominates-julian-castro-the-mayor-of-san-antonio-to-become-the-next-secretary-of-housing-and-urban-development.md)
-_Context: Barack Obama, Julian Castro, Mayor of San Antonio, Secretary of Housing and Urban Development_
+_Context: Julian Castro, Mayor of San Antonio, Obama, Secretary of Housing and Urban Development_
 
 ### [Research shows that the Chelyabinsk meteor was the remnants of an asteroid that collided with another asteroid 290 million years before entering the Earth's atmosphere over Russia in February of last year. ](/news/2014/05/23/research-shows-that-the-chelyabinsk-meteor-was-the-remnants-of-an-asteroid-that-collided-with-another-asteroid-290-million-years-before-ente.md)
 An asteroid that exploded over Russia had a force almost 30 times as powerful as an atomic bomb, researchers say.

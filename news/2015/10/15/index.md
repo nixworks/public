@@ -37,7 +37,7 @@ The Navy is scrambling a ship and an underwater search team to find the missing 
 Raban Alou, 18, from Wentworthville, faces terrorism charges, while Talal Alameddine, 22, has been charged with supplying a weapon
 
 ### [A cache of classified intelligence documents published from The Intercept, released by an anonymous whistleblower, highlight details surrounding post-September 11 attacks United States drone strikes in Afghanistan, Somalia, and Yemen, alleging that the United States conducts these strikes under extremely unreliable information and faulty pretenses. ](/news/2015/10/15/a-cache-of-classified-intelligence-documents-published-from-the-intercept-released-by-an-anonymous-whistleblower-highlight-details-surroun.md)
-_Context: Afghanistan, September 11 attacks, Somalia, The Intercept, United States, Yemen, whistleblower_
+_Context: Afghanistan, September 11 attacks, Somali, The Intercept, United States, Yemen, whistleblower_
 
 ### [ Five individuals - four men and a teenage boy - are arrested in connection with the gang-rape of a 16-year-old girl at a Sydney, Australia, house party. ](/news/2015/10/15/five-individuals-a-four-men-and-a-teenage-boy-a-are-arrested-in-connection-with-the-gang-rape-of-a-16-year-old-girl-at-a-sydney-austra.md)
 _Context: Australia, Sydney_

@@ -19,7 +19,7 @@ _Context: Beijing, China's, Chinese President, Hu Jintao, Hugo Chavez, Venezuela
 _Context: California, Temecula, United States_
 
 ### [ Somali pirates hijack the Danish container ship MV ''Maersk Alabama'' in the Indian Ocean. ](/news/2009/04/8/somali-pirates-hijack-the-danish-container-ship-mv-maersk-alabama-in-the-indian-ocean.md)
-_Context: ''Maersk Alabama'', Danish, Indian Ocean, MV, Somali pirates, Somalia, container ship_
+_Context: ''Maersk Alabama'', Danish, Indian Ocean, MV, Somali, Somali pirates, container ship_
 
 ### [ A rogue French Foreign Legionnaire kills four people in Chad. ](/news/2009/04/8/a-rogue-french-foreign-legionnaire-kills-four-people-in-chad.md)
 _Context: Chad, French Foreign Legion, rogue_

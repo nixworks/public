@@ -25,7 +25,7 @@ _Context: Kosovo, Pristina, Serbia, United Nations_
 _Context: Iran, Iranian government, Iraq, Iraqi insurgency, military, sophisticated roadside bombs_
 
 ### [ U. S. Senator Barack Obama (D-IL) following a political rally in Ames, Iowa, regretted saying the lives of military personnel had been "wasted." ](/news/2007/02/11/u-s-senator-barack-obama-d-il-following-a-political-rally-in-ames-iowa-regretted-saying-the-lives-of-military-personnel-had-been-was.md)
-_Context: Ames, Barack Obama, Democratic, Illinois, United States Senate, military personnel_
+_Context: Ames, Democratic, Illinois, Obama, United States Senate, military personnel_
 
 ### [ Voters in Turkmenistan vote in their first presidential election to select a successor to former President of Turkmenistan Saparmurat Niyazov. Interim leader Gurbanguly Berdimuhamedow is widely expected to win the election. ](/news/2007/02/11/voters-in-turkmenistan-vote-in-their-first-presidential-election-to-select-a-successor-to-former-president-of-turkmenistan-saparmurat-niyaz.md)
 _Context: Gurbanguly Berdimuhamedow, Saparmurat Niyazov, Turkmenistan, first presidential election, president_

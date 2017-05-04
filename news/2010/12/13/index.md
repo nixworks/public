@@ -34,13 +34,13 @@ _Context: Al Jazeera, Kuwait_
 The first person to face a second murder trial after the discovery of new forensic evidence is convicted of killing a woman in 1995.
 
 ### [United States District Court for the Eastern District of Virginia Judge Henry E. Hudson rules against Barack Obama's health care reform requirement to purchase health insurance. ](/news/2010/12/13/united-states-district-court-for-the-eastern-district-of-virginia-judge-henry-e-hudson-rules-against-barack-obama-s-health-care-reform-requ.md)
-_Context: Barack Obama, Henry E. Hudson, US Eastern District Court of Virginia, health care reform, health insurance_
+_Context: Henry E. Hudson, Obama, US Eastern District Court of Virginia, health care reform, health insurance_
 
 ### [An American  Catholic nun pleads not guilty to charges of embezzling $850,000 from  Iona College. ](/news/2010/12/13/an-american-catholic-nun-pleads-not-guilty-to-charges-of-embezzling-850-000-from-iona-college.md)
 _Context:  Catholic nun,  Iona College, embezzled_
 
 ### [Palestinian negotiator Saeb Erakat asks the European Union to  recognize "two states (Israel and Palestine) along the 1967 borders". ](/news/2010/12/13/palestinian-negotiator-saeb-erakat-asks-the-european-union-to-recognize-atwo-states-israel-and-palestine-along-the-1967-borders.md)
-_Context: EU, Israel, Palestinian, Saeb Erakat_
+_Context: European Union, Israel, Palestinian, Saeb Erakat_
 
 ### [Europe reaffirms its readiness to recognise a Palestinian state at an "appropriate" time, stopping short of outright recognition despite mounting pressure to break the Middle East impasse. ](/news/2010/12/13/europe-reaffirms-its-readiness-to-recognise-a-palestinian-state-at-an-appropriate-time-stopping-short-of-outright-recognition-despite-mou.md)
 ### [Minni Minnawi, the only Darfur faction leader to sign the Darfur Peace Agreement with the Sudanese government, declares its failure and leaves his post. ](/news/2010/12/13/minni-minnawi-the-only-darfur-faction-leader-to-sign-the-darfur-peace-agreement-with-the-sudanese-government-declares-its-failure-and-leav.md)

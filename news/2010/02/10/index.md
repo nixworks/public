@@ -1,7 +1,7 @@
 ## [2010-02-10](/news/2010/02/10/index.md)
 
 ### [Hundreds of Somali citizens flee the capital Mogadishu as hundreds of insurgents enter the city ahead of a government announcement of an offensive against them. ](/news/2010/02/10/hundreds-of-somali-citizens-flee-the-capital-mogadishu-as-hundreds-of-insurgents-enter-the-city-ahead-of-a-government-announcement-of-an-off.md)
-_Context: Mogadishu, Somalia_
+_Context: Mogadishu, Somali_
 
 ### [Frank Bainimarama, leader of the 2006 Fijian coup d'tat and current Prime Minister of Fiji, announces that he will retire in 2014. The report is denied by Fiji's Permanent Secretary for Information. ](/news/2010/02/10/frank-bainimarama-leader-of-the-2006-fijian-coup-d-etat-and-current-prime-minister-of-fiji-announces-that-he-will-retire-in-2014-the-repo.md)
 _Context: Prime Minister, Voreqe Bainimarama, coup in 2006_

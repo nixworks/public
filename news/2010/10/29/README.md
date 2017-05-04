@@ -25,7 +25,7 @@ At least nine Mexican police officers are shot and killed in an ambush - the six
 _Context: Niger Delta, Nigeria_
 
 ### [Al-Shabaab militants take control of a town on the border between Somalia, Ethiopia and Kenya from pro-government forces, following fighting that displaced 60,000 people. ](/news/2010/10/29/al-shabaab-militants-take-control-of-a-town-on-the-border-between-somalia-ethiopia-and-kenya-from-pro-government-forces-following-fighting.md)
-_Context: Ethiopia, Kenya, Somalia, al-Shabaab_
+_Context: Ethiopia, Kenya, Somali, al-Shabaab_
 
 ### [Russian and American forces conduct their first joint anti-narcotics operation in Afghanistan. ](/news/2010/10/29/russian-and-american-forces-conduct-their-first-joint-anti-narcotics-operation-in-afghanistan.md)
 Russian and U.S. special forces have carried out their first joint anti-narcotics operation in Afghanistan that marked the first time Russian security personnel set foot in that country in more than 2
@@ -82,10 +82,10 @@ _Context: China's, Sichuan_
 Find the latest business news on Wall Street, jobs and the economy, the housing market, personal finance and money investments and much more on ABC News
 
 ### [Iran says it is ready to resume international talks over its nuclear program "in a place and on a date convenient to both sides", says a letter to the European Union. ](/news/2010/10/29/iran-says-it-is-ready-to-resume-international-talks-over-its-nuclear-program-in-a-place-and-on-a-date-convenient-to-both-sides-says-a-let.md)
-_Context: EU, Iran, nuclear scientist_
+_Context: European Union, Iran, nuclear scientist_
 
 ### [European Union leaders agree to reform of the Treaty of Lisbon to keep member states budget deficits in line at a two-day summit in Brussels, Belgium. ](/news/2010/10/29/european-union-leaders-agree-to-reform-of-the-treaty-of-lisbon-to-keep-member-states-budget-deficits-in-line-at-a-two-day-summit-in-brussels.md)
-_Context: Belgium, Brussels, EU, Treaty of Lisbon, budget deficit_
+_Context: Belgium, Brussels, European Union, Treaty of Lisbon, budget deficit_
 
 ### [Foreign Ministers from Japan and China meet to try to resolve soured relations over a maritime territorial dispute. ](/news/2010/10/29/foreign-ministers-from-japan-and-china-meet-to-try-to-resolve-soured-relations-over-a-maritime-territorial-dispute.md)
 A diplomatic spat between China and Japan over a group of disputed islands flares up again, hours after an apparently friendly bilateral meeting.

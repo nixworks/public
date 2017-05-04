@@ -1,7 +1,7 @@
 ## [2009-05-13](/news/2009/05/13/index.md)
 
 ### [ United States President Barack Obama proclaims May 2009 as Jewish American Heritage Month. ](/news/2009/05/13/united-states-president-barack-obama-proclaims-may-2009-as-jewish-american-heritage-month.md)
-_Context: Barack Obama, Jewish American Heritage Month, United States, president_
+_Context: Jewish American Heritage Month, Obama, United States, president_
 
 ### [ Pope Benedict XVI advocates the creation of a Palestinian state. ](/news/2009/05/13/pope-benedict-xvi-advocates-the-creation-of-a-palestinian-state.md)
 _Context: Benedict XVI, Palestinian, Palestinian state, Pope, resume negotiations_
@@ -10,7 +10,7 @@ _Context: Benedict XVI, Palestinian, Palestinian state, Pope, resume negotiation
 _Context: European Commission, Intel Corporation, anti-competitive practices, euro, fine_
 
 ### [ The United Nations reports that Somalia is experiencing its worst drought since the 1990s. ](/news/2009/05/13/the-united-nations-reports-that-somalia-is-experiencing-its-worst-drought-since-the-1990s.md)
-_Context: 1990s, Somalia, United Nations, drought_
+_Context: 1990s, Somali, United Nations, drought_
 
 ### [ Artillery shelling kills 50 people and injures 40 more at a hospital in Sri Lanka's war zone. ](/news/2009/05/13/artillery-shelling-kills-50-people-and-injures-40-more-at-a-hospital-in-sri-lanka-s-war-zone.md)
 _Context: Sri Lanka, Sri Lankan Civil War, aerial shells, hospital, ordnance, war zone_

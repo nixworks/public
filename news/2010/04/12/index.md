@@ -22,7 +22,7 @@ At least nine people killed as train crashes near northern town of Merano.
 An attack that killed as many as five people infuriated leaders in Kandahar before an important offensive.
 
 ### [U.S. President Barack Obama opens the summit of 47 countries, the purpose of which is to discuss nuclear security, in particular how to keep nuclear weapons out of the hands of potential terrorists. ](/news/2010/04/12/u-s-president-barack-obama-opens-the-summit-of-47-countries-the-purpose-of-which-is-to-discuss-nuclear-security-in-particular-how-to-keep.md)
-_Context: Barack Obama, Nuclear Security Summit, terrorists_
+_Context: Nuclear Security Summit, Obama, terrorists_
 
 ### [The UK General Election countdown:The Labour party launches its manifesto, which states that it will halve the budget deficit within four years through a mixture of spending restraint and tax increases, mainly for the higher paid, that failing police forces will be taken over by successful ones, that every primary-school child who needs it will get one-to-one tuition and that there will be no switch to the euro without a referendum. ](/news/2010/04/12/the-uk-general-election-countdown-pthe-labour-party-launches-its-manifesto-which-states-that-it-will-halve-the-budget-deficit-within-four-y.md)
 _Context: 2010 general election, Labour, manifesto_

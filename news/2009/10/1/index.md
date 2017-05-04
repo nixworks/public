@@ -31,7 +31,7 @@ Ruling coalition breaks up as Social Democrats quit to protest sacking of minist
 Opposition leaders say the call is a tactic to divert attention from crackdown on protesters.
 
 ### [ 12 people are killed in fighting between rival Islamist groups for control of the port city of Kismayo in southern Somalia. ](/news/2009/10/1/12-people-are-killed-in-fighting-between-rival-islamist-groups-for-control-of-the-port-city-of-kismayo-in-southern-somalia.md)
-_Context: Islam, Kismayo, Somalia, port_
+_Context: Islam, Kismayo, Somali, port_
 
 ### [ Paleontologists announced the discovery of an ''Ardipithecus ramidus'' fossil skeleton, deeming it the oldest fossil skeleton of a human ancestor. ](/news/2009/10/1/paleontologists-announced-the-discovery-of-an-ardipithecus-ramidus-fossil-skeleton-deeming-it-the-oldest-fossil-skeleton-of-a-human-an.md)
 Scientists said that Ardi, short for Ardipithecus ramidus, was the earliest known skeleton from the human branch of the primate family tree.

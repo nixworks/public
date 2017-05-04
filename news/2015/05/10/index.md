@@ -22,13 +22,13 @@ Tornadoes and severe thunderstorms killed at least five people in Texas and Arka
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [The President of Cuba, Raul Castro, is received in an official private audience with Pope Francis, who will become the third Pope to visit the still officially Communist island before visiting the U.S. this October. Some restrictions on exercise of religion, and a few restrictions on other rights, have been lifted or relaxed, especially after Pope John Paul II's historic 1998 meeting with Fidel Castro, Pope Emeritus Benedict XVI's trip during his reign, and especially in 2014 and earlier this year, after Raul and Francis and U.S. President Barack Obama's diplomatic team dramatically improved U.S.-Cuba relations. President Castro went there to thank Francis, whom he publicly has stated his admiration for, for his efforts, and spoke of the possibility of converting and of officially restoring the Church. ](/news/2015/05/10/the-president-of-cuba-raul-castro-is-received-in-an-official-private-audience-with-pope-francis-who-will-become-the-third-pope-to-visit-t.md)
-_Context: Barack Obama, Communist, Fidel Castro, Pope Emeritus Benedict XVI, Pope Francis, Pope John Paul II, Raul Castro, U.S.-Cuba relations_
+_Context: Communist, Fidel Castro, Obama, Pope Emeritus Benedict XVI, Pope Francis, Pope John Paul II, Raul Castro, U.S.-Cuba relations_
 
 ### [Two boats carrying 500 members of Myanmar's Rohingya Muslim people arrive in western Indonesia. ](/news/2015/05/10/two-boats-carrying-500-members-of-myanmar-s-rohingya-muslim-people-arrive-in-western-indonesia.md)
 About 500 members of Myanmar&#039;s Rohingya Muslim community have been rescued off Aceh.
 
 ### [King Salman of Saudi Arabia will not meet with President of the United States Barack Obama at Camp David or at a summit meeting sending senior Ministers instead reportedly due to disagreement over a nuclear deal with Iran. ](/news/2015/05/10/king-salman-of-saudi-arabia-will-not-meet-with-president-of-the-united-states-barack-obama-at-camp-david-or-at-a-summit-meeting-sending-seni.md)
-_Context: Barack Obama, Camp David, Iran, King Salman, Saudi Arabia, president_
+_Context: Camp David, Iran, King Salman, Obama, Saudi Arabia, president_
 
 ### [Police in the Mississippian city of Hattiesburg arrest three people on suspicion of murdering two policemen. ](/news/2015/05/10/police-in-the-mississippian-city-of-hattiesburg-arrest-three-people-on-suspicion-of-murdering-two-policemen.md)
 _Context: Hattiesburg, Mississippi_

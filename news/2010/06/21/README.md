@@ -28,7 +28,7 @@ _Context: Bronislaw Komorowski, Jaroslaw Kaczynski, Polish presidential election
 _Context: Times Square bomber, weapon of mass destruction_
 
 ### [Search teams find the wreckage of a CASA C-212 Aviocar private plane carrying senior Australian mining executives including Ken Talbot in the jungle of the Republic of the Congo. ](/news/2010/06/21/search-teams-find-the-wreckage-of-a-casa-c-212-aviocar-private-plane-carrying-senior-australian-mining-executives-including-ken-talbot-in-th.md)
-_Context: Australia, CASA C-212 Aviocar, Ken Talbot, Republic of the Congo, jungle, mining_
+_Context: Australia, CASA C-212 Aviocar, Ken Talbot, Republic of the Congo, jungle, mine_
 
 ### [Iran bans two International Atomic Energy Agency weapons inspectors from entering the country claiming they had leaked false information about Iran's nuclear program. ](/news/2010/06/21/iran-bans-two-international-atomic-energy-agency-weapons-inspectors-from-entering-the-country-claiming-they-had-leaked-false-information-abo.md)
 Read the latest World and International news headlines from Sky News Australia. For coverage of breaking news from around the World visit skynews.com.au.

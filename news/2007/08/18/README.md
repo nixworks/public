@@ -1,7 +1,7 @@
 ## [2007-08-18](/news/2007/08/18/index.md)
 
 ### [ Rescuers say that a fourth hole in the Crandall Canyon mine near Huntington, Utah shows no sign of six trapped miners. ](/news/2007/08/18/rescuers-say-that-a-fourth-hole-in-the-crandall-canyon-mine-near-huntington-utah-shows-no-sign-of-six-trapped-miners.md)
-_Context: Crandall Canyon mine, Huntington, Utah, mining_
+_Context: Crandall Canyon mine, Huntington, Utah, mine_
 
 ### [ The death toll of a bridge collapse in Fenghuang, China rises to 64. ](/news/2007/08/18/the-death-toll-of-a-bridge-collapse-in-fenghuang-china-rises-to-64.md)
 _Context: China, Fenghuang, bridge_

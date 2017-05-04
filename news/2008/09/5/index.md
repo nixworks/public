@@ -22,7 +22,7 @@ _Context: August, December 2003, US economy, United States, unemployment_
 _Context: England, European City of Culture, La Princesse, Liverpool_
 
 ### [ The European Union's ''Rosetta'' spacecraft performs a flyby of the asteroid 2867 Steins. ](/news/2008/09/5/the-european-union-s-rosetta-spacecraft-performs-a-flyby-of-the-asteroid-2867-a-teins.md)
-_Context: ''Rosetta'' space probe, 2867 Steins, EU, asteroid_
+_Context: ''Rosetta'' space probe, 2867 Steins, European Union, asteroid_
 
 ### [ Australia: Quentin Bryce is sworn in as the first female Governor-General of Australia. ](/news/2008/09/5/australia-p-quentin-bryce-is-sworn-in-as-the-first-female-governor-general-of-australia.md)
 _Context: Australia, Governor General of Australia, Quentin Bryce_

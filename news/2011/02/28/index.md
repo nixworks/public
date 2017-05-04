@@ -4,7 +4,7 @@
 Rights groups fear dozens killed in violent backlash against supposed Gaddafi-hired mercenaries from sub-Saharan Africa.
 
 ### [Ethiopia and Kenya may attack the al-Shabaab Islamist militant group in Somalia, following its threat to target Kenya. ](/news/2011/02/28/ethiopia-and-kenya-may-attack-the-al-shabaab-islamist-militant-group-in-somalia-following-its-threat-to-target-kenya.md)
-_Context: Ethiopia, Islamist, Kenya, Somalia, al-Shabaab_
+_Context: Ethiopia, Islamist, Kenya, Somali, al-Shabaab_
 
 ### [A bomb explodes in Yangon, Burma, injuring eight people. ](/news/2011/02/28/a-bomb-explodes-in-yangon-burma-injuring-eight-people.md)
 _Context: Burma, Yangon_

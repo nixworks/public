@@ -10,7 +10,7 @@ _Context: Bhopal disaster_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ The European Union takes over from NATO in peacekeeping operations in Bosnia and Herzegovina, largely replacing the NATO-led SFOR with a new Eufor. ](/news/2004/12/2/the-european-union-takes-over-from-nato-in-peacekeeping-operations-in-bosnia-and-herzegovina-largely-replacing-the-nato-led-sfor-with-a-ne.md)
-_Context: Bosnia and Herzegovina, EU, EUFOR, NATO, SFOR, peacekeepers_
+_Context: Bosnia and Herzegovina, EUFOR, European Union, NATO, SFOR, peacekeepers_
 
 ### [The Inter-American Court of Human Rights upholds Peru's conviction and continued imprisonment of U.S. citizen Lori Berenson on terrorism charges. ](/news/2004/12/2/the-inter-american-court-of-human-rights-upholds-peru-s-conviction-and-continued-imprisonment-of-u-s-citizen-lori-berenson-on-terrorism-cha.md)
 _Context: Inter-American Court of Human Rights, Lori Berenson, terrorism_

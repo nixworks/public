@@ -13,7 +13,7 @@ _Context: County Armagh, Craigavon, Northern Ireland, Police Service of Northern
 _Context: ''Impeccable'', American, China's, South China Sea, USNS, United States_
 
 ### [ U.S. President Barack Obama lifts George W. Bush's restrictions on embryonic stem cell research. ](/news/2009/03/9/u-s-president-barack-obama-lifts-george-w-bush-s-restrictions-on-embryonic-stem-cell-research.md)
-_Context: Barack Obama, George W. Bush, United States, embryonic stem cell, president, restrictions_
+_Context: George W. Bush, Obama, United States, embryonic stem cell, president, restrictions_
 
 ### [ Argentina and Chile reject the United Kingdom's claims on Antarctic territory. ](/news/2009/03/9/argentina-and-chile-reject-the-united-kingdom-s-claims-on-antarctic-territory.md)
 _Context: Antarctica, Argentina, British Antarctic Territory, Chile, United Kingdom, territory_

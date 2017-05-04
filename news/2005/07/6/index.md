@@ -43,7 +43,7 @@ _Context: 16 January, 2007, Biafra, MASSOB, Nigeria, football, membership of ill
 _Context: Niger, Nigeria, crop failure_
 
 ### [ In Somalia, interim president Abdullah Yusuf states that he's going to march towards Mogadishu from Jowhar, collecting support and militia as he goes ](/news/2005/07/6/in-somalia-interim-president-abdullah-yusuf-states-that-he-s-going-to-march-towards-mogadishu-from-jowhar-collecting-support-and-militia.md)
-_Context: Abdullah Yusuf, Jowhar, Mogadishu, Somalia, militia_
+_Context: Abdullah Yusuf, Jowhar, Mogadishu, Somali, militia_
 
 ### [ In India 1000 demonstrators protesting attack in Ayodhya clash with riot police in New Delhi. No group has claimed responsibility for the attack. There are small protests in other cities as well but police state that disturbances are minor compared to clashes in previous years. Congress president Sonia Gandhi warns that opposition should not "politicize" the incident ](/news/2005/07/6/in-india-1000-demonstrators-protesting-attack-in-ayodhya-clash-with-riot-police-in-new-delhi-no-group-has-claimed-responsibility-for-the-a.md)
 _Context: Ayodhya, Sonia Gandhi, riot police_

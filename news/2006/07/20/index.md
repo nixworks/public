@@ -10,7 +10,7 @@ _Context: Iran_
 _Context: India, blog, censoring the Internet_
 
 ### [ A column of Ethiopian Army vehicles invades Somalia, reaching the town of Baidoa.  They have stated that they are willing to defend Somalia's Transitional Federal Parliament from the Islamic Courts Union. ](/news/2006/07/20/a-column-of-ethiopian-army-vehicles-invades-somalia-reaching-the-town-of-baidoa-they-have-stated-that-they-are-willing-to-defend-somalia.md)
-_Context: Baidoa, Ethiopia, Islamic Courts Union, MPs, Somalia, invades_
+_Context: Baidoa, Ethiopia, Islamic Courts Union, MPs, Somali, invades_
 
 ### [ The U.S. grand jury investigating baseball player Barry Bonds for possible perjury and tax evasion charges is set to expire today. It was extended and Bonds was not indicted. Greg Anderson, Bonds' trainer, was released from a federal prison in Dublin, California, after having been jailed for refusing to give evidence. ](/news/2006/07/20/the-u-s-grand-jury-investigating-baseball-player-barry-bonds-for-possible-perjury-and-tax-evasion-charges-is-set-to-expire-today-it-was-e.md)
 Get local Bay Area news plus Bay Area breaking news, business, green, national, and world news from NBC Bay Area.

@@ -25,7 +25,7 @@ _Context: Afghanistan, Lashkar Gah_
 _Context: Diet, Prime Minister, Shinzo Abe, World War II_
 
 ### [ The European Commission confirms that Bulgaria and Romania are set to join the European Union on 1 January 2007, in what may be the last EU expansion before a European constitution is established. ](/news/2006/09/26/the-european-commission-confirms-that-bulgaria-and-romania-are-set-to-join-the-european-union-on-1-january-2007-in-what-may-be-the-last-eu.md)
-_Context: Bulgaria, EU, European Commission, European constitution, Romania_
+_Context: Bulgaria, European Commission, European Union, European constitution, Romania_
 
 ### [ "Weird Al" Yankovic releases ''Straight Outta Lynwood'' in the USA.](/news/2006/09/26/weird-al-yankovic-releases-straight-outta-lynwood-in-the-usa.md)
 _Context: "Weird Al" Yankovic, Straight Outta Lynwood_

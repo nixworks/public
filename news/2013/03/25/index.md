@@ -34,7 +34,7 @@ The European Union suspends sanctions against 81 officials and eight firms in Zi
 _Context: Afghanistan President, Hamid Karzai, John Kerry, United States Secretary of State, strained relations_
 
 ### [The European Union and Japan say that they will begin talks to restart free trade between the two entities beginning in April. ](/news/2013/03/25/the-european-union-and-japan-say-that-they-will-begin-talks-to-restart-free-trade-between-the-two-entities-beginning-in-april.md)
-_Context: EU, Japan, free trade_
+_Context: European Union, Japan, free trade_
 
 ### [Hundreds of people gather outside ''Daily Mail'' headquarters to hold a vigil after the possible hounding to death of a primary school teacher Lucy Meadows by the British media. ](/news/2013/03/25/hundreds-of-people-gather-outside-daily-mail-headquarters-to-hold-a-vigil-after-the-possible-hounding-to-death-of-a-primary-school-teach.md)
 _Context: British media, Daily Mail, Lucy Meadows, primary school, teacher_

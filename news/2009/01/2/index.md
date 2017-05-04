@@ -7,7 +7,7 @@ _Context: Baghdad International Airport, Europe, Sweden, charter aircraft, comme
 _Context: 2008 SLA Northern offensive, Army, Kilinochchi, LTTE, Sri Lanka, captures_
 
 ### [ Ethiopia withdraws its military forces from Somalia after two years of helping the Transitional Federal Government combat insurgents. ](/news/2009/01/2/ethiopia-withdraws-its-military-forces-from-somalia-after-two-years-of-helping-the-transitional-federal-government-combat-insurgents.md)
-_Context: Ethiopia, Ethiopian Army, Somalia, Transitional Federal Government, insurgency, two years of helping_
+_Context: Ethiopia, Ethiopian Army, Somali, Transitional Federal Government, insurgency, two years of helping_
 
 ### [ Luis Fortuno is sworn in as Governor of Puerto Rico. ](/news/2009/01/2/luis-fortua-o-is-sworn-in-as-governor-of-puerto-rico.md)
 _Context: Governor of Puerto Rico, Luis Fortuno, Puerto Rico_

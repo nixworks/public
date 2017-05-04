@@ -16,7 +16,7 @@ _Context: Italian Prime Minister, Romano Prodi, Senate of Italy_
 _Context: Airbus, Europe_
 
 ### [ The European Union announces plans to make significant cuts to the European Union Force in Bosnia-Herzegovina. ](/news/2007/02/28/the-european-union-announces-plans-to-make-significant-cuts-to-the-european-union-force-in-bosnia-herzegovina.md)
-_Context: Bosnia-Herzegovina, EU, European Union Force_
+_Context: Bosnia-Herzegovina, European Union, European Union Force_
 
 ### [ Strong wind blows a passenger train off the tracks near Turpan, Xinjiang, China, killing four and injuring 30 more. ](/news/2007/02/28/strong-wind-blows-a-passenger-train-off-the-tracks-near-turpan-xinjiang-china-killing-four-and-injuring-30-more.md)
 _Context: China, Turpan, Xinjiang, train_

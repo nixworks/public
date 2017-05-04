@@ -19,7 +19,7 @@ _Context: Channel Islands, Sark, feudalism_
 _Context: Iran, United Nations Security Council_
 
 ### [ The European Union announces that it has lifted a worldwide ban on the export of British beef introduced in 1996 to prevent the spread of BSE (Mad Cow Disease). ](/news/2006/03/8/the-european-union-announces-that-it-has-lifted-a-worldwide-ban-on-the-export-of-british-beef-introduced-in-1996-to-prevent-the-spread-of-b.md)
-_Context: EU, beef, mad cow disease_
+_Context: European Union, beef, mad cow disease_
 
 ### [ An Argentine military aircraft crashes after take off from El Alto International Airport in La Paz, Bolivia, killing all six people on board. The aircraft was a Learjet 35A. ](/news/2006/03/8/an-argentine-military-aircraft-crashes-after-take-off-from-el-alto-international-airport-in-la-paz-bolivia-killing-all-six-people-on-boar.md)
 _Context: 35A, Argentina, El Alto International Airport, La Paz, Bolivia, Learjet_

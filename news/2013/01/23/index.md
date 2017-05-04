@@ -25,7 +25,7 @@ _Context: Antarctica, Canadian, McMurdo Station, New Zealand, airplane_
 A Thai court jails a magazine editor for 10 years for publishing two articles that were deemed to insult the monarchy.
 
 ### [In a speech in London, British Prime Minister David Cameron outlines his intention to renegotiate the terms of the UK's membership of the European Union then offer a referendum on United Kingdom withdrawal from the European Union if a new deal is agreed. ](/news/2013/01/23/in-a-speech-in-london-british-prime-minister-david-cameron-outlines-his-intention-to-renegotiate-the-terms-of-the-uk-s-membership-of-the-eu.md)
-_Context: David Cameron, EU, London, Prime Minster, United Kingdom withdrawal from the European Union, referendum_
+_Context: David Cameron, European Union, London, Prime Minster, United Kingdom withdrawal from the European Union, referendum_
 
 ### [The United States Armed Forces overturns its ban on women serving in combat, reversing a 1994 rule, and potentially clearing the way for women to serve in front-line units and elite commando forces. ](/news/2013/01/23/the-united-states-armed-forces-overturns-its-ban-on-women-serving-in-combat-reversing-a-1994-rule-and-potentially-clearing-the-way-for-wom.md)
 US Defence Secretary Leon Panetta lifts a ban on women in combat, potentially opening hundreds of thousands of frontline jobs to women.

@@ -4,7 +4,7 @@
 Iraqi government forces have retaken the town of Dhuluiya from Islamic State, sources say, reportedly inflicting heavy casualties on the jihadist group.
 
 ### [A US airstrike in Saakow kills the intelligence chief, Abdishakur, who was also known as Tahlil, of the Somali al-Shabab militants. ](/news/2014/12/30/a-us-airstrike-in-saakow-kills-the-intelligence-chief-abdishakur-who-was-also-known-as-tahlil-of-the-somali-al-shabab-militants.md)
-_Context: Saakow, Somali Civil War, Somalia, al-Shabaab_
+_Context: Saakow, Somali, Somali Civil War, al-Shabaab_
 
 ### [Luise Rainer, German-born American actress (''The Great Ziegfeld'', ''The Good Earth''), Academy Award winner (1936, 1937), dies of pneumonia at the age of 104. ](/news/2014/12/30/luise-rainer-german-born-american-actress-the-great-ziegfeld-the-good-earth-academy-award-winner-1936-1937-dies-of-pneumoni.md)
 Actress Luise Rainer, who became the first winner of consecutive Oscars in the 1930s, dies aged 104.

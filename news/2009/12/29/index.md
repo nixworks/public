@@ -1,7 +1,7 @@
 ## [2009-12-29](/news/2009/12/29/index.md)
 
 ### [ Akmal Shaikh becomes the first EU native to be executed in China in 50 years. Gordon Brown releases a statement indicating that he is appalled. ](/news/2009/12/29/akmal-shaikh-becomes-the-first-eu-native-to-be-executed-in-china-in-50-years-gordon-brown-releases-a-statement-indicating-that-he-is-appal.md)
-_Context: Akmal Shaikh, China's, EU, Gordon Brown_
+_Context: Akmal Shaikh, China's, European Union, Gordon Brown_
 
 ### [ The Sudanese parliament approves legislation for a referendum on the independence of South Sudan. ](/news/2009/12/29/the-sudanese-parliament-approves-legislation-for-a-referendum-on-the-independence-of-south-sudan.md)
 _Context: South Sudan, Sudanese parliament, independent, referendum_

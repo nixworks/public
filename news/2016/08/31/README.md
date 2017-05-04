@@ -28,7 +28,7 @@ The flight from Fort Lauderdale to Santa Clara in central Cuba on Wednesday morn
 MANILA -- China must cease all provocations in the South China Sea before the Philippines will agree to bilateral talks, Philippine Secretary of Forei
 
 ### [Mexico-United States relations U.S. Republican presidential nominee Donald Trump meets with Mexican President Enrique Pena Nieto in Mexico City after accepting an invitation from him. ](/news/2016/08/31/mexicoaunited-states-relations-pu-s-republican-presidential-nominee-donald-trump-meets-with-mexican-president-enrique-pea-a-nieto-in-mexi.md)
-_Context: 2016 U.S. presidential election, Donald Trump, Enrique Pena Nieto, Mexico City, Mexico-United States relations, President, Republican_
+_Context: Donald Trump, Enrique Pena Nieto, Mexico City, Mexico-United States relations, President, Republican, United States presidential election, 2016_
 
 ### [Singer Chris Brown is released on a US$ 250,000 bail for an assault charge. ](/news/2016/08/31/singer-chris-brown-is-released-on-a-us-250-000-bail-for-an-assault-charge.md)
 _Context: Chris Brown, U.S. dollar_

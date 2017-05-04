@@ -28,7 +28,7 @@ A millionaire businessman who sold fake bomb detectors to countries including Ir
 _Context: Myanmar, Myanmar's president's office, Thein Sein, political prisoners, prisoner of conscience_
 
 ### [2013 ricin letters: All charges against a suspect of sending letters containing ricin to US President Barack Obama are dropped due to lack of evidence. ](/news/2013/04/23/2013-ricin-letters-all-charges-against-a-suspect-of-sending-letters-containing-ricin-to-us-president-barack-obama-are-dropped-due-to-lack-o.md)
-_Context: 2013 ricin letters, Barack Obama, US President, ricin_
+_Context: 2013 ricin letters, Obama, US President, ricin_
 
 ### [The Australian Federal Police arrest 24-year-old Matthew Flannery of Sydney, the self-proclaimed leader of the LulzSec hacking group in the New South Wales city of Gosford. ](/news/2013/04/23/the-australian-federal-police-arrest-24-year-old-matthew-flannery-of-sydney-the-self-proclaimed-leader-of-the-lulzsec-hacking-group-in-the.md)
 The AFP says the self-proclaimed leader of international hacking group LulzSec has been arrested in Sydney.

@@ -25,7 +25,7 @@ _Context: Colombia, Tolima department_
 _Context: Japan, Japan-North Korea relations, North Korea, Unha, launches_
 
 ### [Leaders of the European Union accept the 2012 Nobel Peace Prize in Oslo, Norway. ](/news/2012/12/10/leaders-of-the-european-union-accept-the-2012-nobel-peace-prize-in-oslo-norway.md)
-_Context: 2012, EU, Nobel Peace Prize, Norway, Oslo_
+_Context: 2012, European Union, Nobel Peace Prize, Norway, Oslo_
 
 ### [John Hickenlooper, the Governor of the US state of Colorado, issues a proclamation allowing the personal use of marijuana following the passage of an amendment to the state constitution last month. ](/news/2012/12/10/john-hickenlooper-the-governor-of-the-us-state-of-colorado-issues-a-proclamation-allowing-the-personal-use-of-marijuana-following-the-pass.md)
 _Context: Colorado, Governor, John Hickenlooper, US$, marijuana, state constitution_

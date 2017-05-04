@@ -13,7 +13,7 @@ John Wick, the former SAS officer who blew the whistle on the MPs&rsquo; expense
 _Context: Chiautla de Tapia, Mexico, Puebla, earthquake, magnitude_
 
 ### [ At least 36 people are killed as the Transitional Federal Government and Islamist militants battle in Mogadishu, Somalia. ](/news/2009/05/22/at-least-36-people-are-killed-as-the-transitional-federal-government-and-islamist-militants-battle-in-mogadishu-somalia.md)
-_Context: Mogadishu, Somalia, Transitional Federal Government, militant, radical Islamists, violence_
+_Context: Mogadishu, Somali, Transitional Federal Government, militant, radical Islamists, violence_
 
 ### [ Bingu wa Mutharika is reelected as President of Malawi. ](/news/2009/05/22/bingu-wa-mutharika-is-reelected-as-president-of-malawi.md)
 _Context: Bingu wa Mutharika, Malawi, President, reelected_

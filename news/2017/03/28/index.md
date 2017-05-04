@@ -16,10 +16,10 @@ The disease has infected more than 1,000 people in one of the worst outbreaks fo
 _Context: Francisco Carle Airport, Jauja, Peruvian Airlines Flight 112_
 
 ### [Georgia's visa-free regime, which allows travel to most member states of the European Union, with the exception of Ireland and the United Kingdom, enters into force. ](/news/2017/03/28/georgia-s-visa-free-regime-which-allows-travel-to-most-member-states-of-the-european-union-with-the-exception-of-ireland-and-the-united-ki.md)
-_Context: EU, Georgia, Georgia-European Union relations, Republic of Ireland, United Kingdom, member states_
+_Context: European Union, Georgia, Georgia-European Union relations, Republic of Ireland, United Kingdom, member states_
 
 ### [British Prime Minister Theresa May signs a letter invoking Article 50 of the Treaty on European Union. Its notification to the European Council tomorrow will formally begin the UK's withdrawal from the European Union. ](/news/2017/03/28/british-prime-minister-theresa-may-signs-a-letter-invoking-article-50-of-the-treaty-on-european-union-its-notification-to-the-european-coun.md)
-_Context: Article 50 of the Treaty on European Union, Brexit, EU, European Council, Prime Minster, Theresa May, United Kingdom, signs a letter invoking_
+_Context: Article 50 of the Treaty on European Union, Brexit, European Council, European Union, Prime Minster, Theresa May, United Kingdom, signs a letter invoking_
 
 ### [A Belgian Court in Brussels declares that Delphine Boel's case against former king Albert II of Belgium is inadmissible even though genetic testing has proved that her legal father Jacques Boel is not her biological father. ](/news/2017/03/28/a-belgian-court-in-brussels-declares-that-delphine-boa-las-case-against-former-king-albert-ii-of-belgium-is-inadmissible-even-though-genet.md)
 Delphine Boël&#8217;s has been declared inadmissible by the Belgian Court in Brussels, and thus, Belgian King Albert II cannot legally be declared Delphine&#8217;s father. Her legal father remains …
@@ -31,7 +31,7 @@ Crimes against humanity charges relate to the deadly violence after the 2010 pre
 Motion passed 69 votes to 59 and comes a day before the UK takes the formal step towards Brexit.
 
 ### [U.S. President Trump signs an executive order undoing former President Obama's climate change policies. ](/news/2017/03/28/u-s-president-trump-signs-an-executive-order-undoing-former-president-obama-s-climate-change-policies.md)
-_Context: Barack Obama, Donald Trump, List of executive actions by Donald Trump, climate change_
+_Context: Donald Trump, List of executive actions by Donald Trump, Obama, climate change_
 
 ### [Accounts of sightings of animals thought to resemble the extinct thylacine, the largest known carnivorous marsupial of modern times, prompt a search in the Far North of the Australian state of Queensland. ](/news/2017/03/28/accounts-of-sightings-of-animals-thought-to-resemble-the-extinct-thylacine-the-largest-known-carnivorous-marsupial-of-modern-times-prompt.md)
 Eyewitness accounts of large, dog-like animals in state’s far north spur scientific hunt for thylacines, thought to have died out in 1936

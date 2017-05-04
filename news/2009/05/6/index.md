@@ -1,7 +1,7 @@
 ## [2009-05-6](/news/2009/05/6/index.md)
 
 ### [ The European Parliament delays its planned reform of the European Union's telecommunications policy. ](/news/2009/05/6/the-european-parliament-delays-its-planned-reform-of-the-european-union-s-telecommunications-policy.md)
-_Context: EU, European Parliament, reform, telecommunication_
+_Context: European Parliament, European Union, reform, telecommunication_
 
 ### [ The United States Supervisory Capital Assessment Program finds that financial services companies JPMorgan Chase, and American Express do not need more capital from the Troubled Asset Relief Program. ](/news/2009/05/6/the-united-states-supervisory-capital-assessment-program-finds-that-financial-services-companies-jpmorgan-chase-and-american-express-do-no.md)
 _Context: American Express, JPMorgan Chase, Troubled Asset Relief Program, United States, capital, company, financial services, stress test_
@@ -19,7 +19,7 @@ Czech President Vaclav Klaus has said he will not sign the EU&#39;s Lisbon Treat
 _Context: Guinea, ambassador, withdraws_
 
 ### [ Somali pirates hijack Germany's MV ''Victoria'' and release the United Arab Emirates' MV ''Al Meezan''. ](/news/2009/05/6/somali-pirates-hijack-germany-s-mv-victoria-and-release-the-united-arab-emirates-mv-al-meezan.md)
-_Context: Germany, MV, Somali pirates, Somalia, United Arab Emirates, anti-piracy_
+_Context: Germany, MV, Somali, Somali pirates, United Arab Emirates, anti-piracy_
 
 ### [ The U.S. state of Maine legalizes same-sex marriage. ](/news/2009/05/6/the-u-s-state-of-maine-legalizes-same-sex-marriage.md)
 _Context: Maine, legalizes, same-sex marriage, state_

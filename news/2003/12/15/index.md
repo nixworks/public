@@ -10,7 +10,7 @@ _Context: Colin Powell, prostate cancer_
 _Context: Capture of Saddam Hussein, George W. Bush_
 
 ### [ The results of parliamentary elections in the self-proclaimed Turkish Republic of Northern Cyprus are announced: pro-European Union parties won a narrow victory over the ruling nationalist coalition, with the opposition Republican Turkish Party becoming the largest party. However, the republic's complicated electoral system means that the two sides will each have 25 seats in the 50-seat assembly. [http://news.bbc.co.uk/1/hi/world/europe/3317125.stm]](/news/2003/12/15/the-results-of-parliamentary-elections-in-the-self-proclaimed-turkish-republic-of-northern-cyprus-are-announced-pro-european-union-parties.md)
-_Context: EU, TRNC_
+_Context: European Union, TRNC_
 
 ### [ Safeway, a British grocery store chain, is the subject of a PS3bn ($5.2bn USD) takeover bid from rival supermarket chain Morrisons. [http://money.cnn.com/2003/12/15/news/international/safeway_morris.reut/]   ](/news/2003/12/15/safeway-a-british-grocery-store-chain-is-the-subject-of-a-aps3bn-5-2bn-usd-takeover-bid-from-rival-supermarket-chain-morrisons-http.md)
 _Context: Morrisons, Safeway, United Kingdom, grocery store_

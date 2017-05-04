@@ -4,7 +4,7 @@
 _Context: Australia, Europe, HIV, Haiti, Japan, South America, United States_
 
 ### [ The USS ''Arleigh Burke'' enters Somali waters in pursuit of a Japanese ship carrying benzene that was hijacked by pirates. ](/news/2007/10/29/the-uss-arleigh-burke-enters-somali-waters-in-pursuit-of-a-japanese-ship-carrying-benzene-that-was-hijacked-by-pirates.md)
-_Context: Japan, Somalia, USS ''Arleigh Burke'', benzene, pirates_
+_Context: Japan, Somali, USS ''Arleigh Burke'', benzene, pirates_
 
 ### [ Argentine general election, 2007: Cristina Fernndez de Kirchner is elected President of Argentina. ](/news/2007/10/29/argentine-general-election-2007-cristina-fernandez-de-kirchner-is-elected-president-of-argentina.md)
 _Context: Argentine general election, 2007, Cristina Kirchner, President of Argentina_

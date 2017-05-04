@@ -1,7 +1,7 @@
 ## [2008-03-19](/news/2008/03/19/index.md)
 
 ### [ An audio tape with a voice believed to be Al-Qaeda leader Osama bin Laden's is released, criticizing the European Union for allowing publication of cartoons that he claims insulted the Prophet Mohammed and threatening a strong reaction. ](/news/2008/03/19/an-audio-tape-with-a-voice-believed-to-be-al-qaeda-leader-osama-bin-laden-s-is-released-criticizing-the-european-union-for-allowing-public.md)
-_Context: EU, Mohammed, Osama bin Laden, al-Qaeda_
+_Context: European Union, Mohammed, Osama bin Laden, al-Qaeda_
 
 ### [ Early elections are called for May 2008 in Kuwait after a crisis between the cabinet and parliament leads the emir Sabah al-Sabah to dissolve parliament. ](/news/2008/03/19/early-elections-are-called-for-may-2008-in-kuwait-after-a-crisis-between-the-cabinet-and-parliament-leads-the-emir-sabah-al-sabah-to-dissol.md)
 _Context: Early elections, Kuwait, Sabah Al-Ahmad Al-Jaber Al-Sabah_

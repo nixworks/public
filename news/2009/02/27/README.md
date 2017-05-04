@@ -1,7 +1,7 @@
 ## [2009-02-27](/news/2009/02/27/index.md)
 
 ### [ China's Navy and Denmark's Navy thwart Somali pirate attacks on Italian and Chinese merchant vessels in the Gulf of Aden. ](/news/2009/02/27/china-s-navy-and-denmark-s-navy-thwart-somali-pirate-attacks-on-italian-and-chinese-merchant-vessels-in-the-gulf-of-aden.md)
-_Context: China's, Danish, Gulf of Aden, Italian, MV, Navy, People's Liberation Army Navy, Somali pirates, Somalia_
+_Context: China's, Danish, Gulf of Aden, Italian, MV, Navy, People's Liberation Army Navy, Somali, Somali pirates_
 
 ### [ A nationwide "Chicago Tea Party" occurred across the United States, where protesters say government spending is out of control. ](/news/2009/02/27/a-nationwide-chicago-tea-party-occurred-across-the-united-states-where-protesters-say-government-spending-is-out-of-control.md)
 Fox 32 Chicago News, breaking news, local headlines, weather, sports traffic and more.
@@ -16,7 +16,7 @@ _Context: ASEAN, Australia, New Zealand, agreement, commerce, current financial 
 _Context: 2009 Bangladesh Rifles revolt, Bangladesh, Bangladesh Rifles, mass grave, military_
 
 ### [ United States President Barack Obama announces he will withdraw most soldiers from the Iraq War by August 2010. ](/news/2009/02/27/united-states-president-barack-obama-announces-he-will-withdraw-most-soldiers-from-the-iraq-war-by-august-2010.md)
-_Context: Barack Obama, Iraq War, U.S. military personnel, United States, president_
+_Context: Iraq War, Obama, U.S. military personnel, United States, president_
 
 ### [ Seven million euros are stolen from the Bank of Ireland in Dublin. ](/news/2009/02/27/seven-million-euros-are-stolen-from-the-bank-of-ireland-in-dublin.md)
 Up to &euro;7 million may have been stolen from a Dublin bank following a so-called tiger kidnapping in Co Kildare this morning.

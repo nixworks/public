@@ -10,7 +10,7 @@ _Context: Ciampino Airport, Rome, Ryanair Flight 4102_
 _Context: AIG, Global financial crisis of 2008, U.S. dollar, United States_
 
 ### [ Italian Prime Minister Silvio Berlusconi repeats a comment that United States President-elect Barack Obama is "young, handsome and also tanned," refusing to apologize for remarks he insisted are "flattering". ](/news/2008/11/10/italian-prime-minister-silvio-berlusconi-repeats-a-comment-that-united-states-president-elect-barack-obama-is-young-handsome-and-also-tan.md)
-_Context: Barack Obama, Italian, Italian Prime Minister, President-elect, Silvio Berlusconi, United States, president_
+_Context: Italian, Italian Prime Minister, Obama, President-elect, Silvio Berlusconi, United States, president_
 
 ### [ India wins the Border-Gavaskar Trophy by defeating Australia 2-0 in the five-Test-match cricket series. ](/news/2008/11/10/india-wins-the-border-gavaskar-trophy-by-defeating-australia-2-0-in-the-five-test-match-cricket-series.md)
 _Context: Australia, Border-Gavaskar Trophy, Indian, test cricket_

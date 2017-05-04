@@ -1,7 +1,7 @@
 ## [2009-02-26](/news/2009/02/26/index.md)
 
 ### [ United States President Barack Obama will withdraw most soldiers from the Iraq War by August 2010. ](/news/2009/02/26/united-states-president-barack-obama-will-withdraw-most-soldiers-from-the-iraq-war-by-august-2010.md)
-_Context: Barack Obama, Iraq, Iraq War, U.S. military personnel, United States, president_
+_Context: Iraq, Iraq War, Obama, U.S. military personnel, United States, president_
 
 ### [ The Bangladesh Rifles surrender after the government promises amnesty. ](/news/2009/02/26/the-bangladesh-rifles-surrender-after-the-government-promises-amnesty.md)
 _Context: 2009 Bangladesh Rifles revolt, Bangladesh, Bangladesh Rifles, amnesty, government_
@@ -19,7 +19,7 @@ Rick Wagoner, the chief executive of General Motors, met with government officia
 _Context: Credit Suisse, Oswald Grubel, Swiss, UBS AG, chief executive officer_
 
 ### [ China's Navy and Denmark's Navy rescue Italian and Chinese merchant vessels from Somali pirates in the Gulf of Aden. ](/news/2009/02/26/china-s-navy-and-denmark-s-navy-rescue-italian-and-chinese-merchant-vessels-from-somali-pirates-in-the-gulf-of-aden.md)
-_Context: China's, Danish, Gulf of Aden, Italian, MV, Navy, People's Liberation Army Navy, Somali pirates, Somalia_
+_Context: China's, Danish, Gulf of Aden, Italian, MV, Navy, People's Liberation Army Navy, Somali, Somali pirates_
 
 ### [ The Marriott Hotel in Islamabad, Pakistan, catches fire, five months after it was bombed. ](/news/2009/02/26/the-marriott-hotel-in-islamabad-pakistan-catches-fire-five-months-after-it-was-bombed.md)
 _Context: Islamabad, Marriott International, Pakistan, bombed_

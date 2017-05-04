@@ -1,7 +1,7 @@
 ## [2009-01-31](/news/2009/01/31/index.md)
 
 ### [ Former Cuban President Fidel Castro criticizes United States President Barack Obama for supporting "Israeli genocide" against the Palestinian people. ](/news/2009/01/31/former-cuban-president-fidel-castro-criticizes-united-states-president-barack-obama-for-supporting-israeli-genocide-against-the-palestini.md)
-_Context: Barack Obama, Cuba, Fidel Castro, Israel, Palestinian, President, United States, genocide, president_
+_Context: Cuba, Fidel Castro, Israel, Obama, Palestinian, President, United States, genocide, president_
 
 ### [ An armed mob desecrates a Sephardic synagogue in Caracas, Venezuela. ](/news/2009/01/31/an-armed-mob-desecrates-a-sephardic-synagogue-in-caracas-venezuela.md)
 _Context: Caracas, Sephardic, Venezuela, synagogue_
@@ -28,7 +28,7 @@ _Context: 2009 Southeastern Australia heat wave, Adelaide, Australia, Melbourne_
 _Context: February 11, Morgan Tsvangirai, Movement for Democratic Change, President, Prime Minister, Robert Mugabe, Zimbabwe, allows_
 
 ### [ Sharif Ahmed is elected President of Somalia. ](/news/2009/01/31/sharif-ahmed-is-elected-president-of-somalia.md)
-_Context: President, Sharif Ahmed, Somalia, elected_
+_Context: President, Sharif Ahmed, Somali, elected_
 
 ### [ Iraq's provincial elections begin. ](/news/2009/01/31/iraq-s-provincial-elections-begin.md)
 _Context: Iraq, provincial elections_

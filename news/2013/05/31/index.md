@@ -19,7 +19,7 @@ Deadly storm bore down on an interstate highway as commuters tried to beat it ho
 Italy reported its first case of the SARS-like coronavirus on Friday, a 45-year-old man who had been travelling in Jordan, the health ministry said.
 
 ### [U.S. President Barack Obama lifts a trade embargo of communications equipment and software to non-government Iranians. ](/news/2013/05/31/u-s-president-barack-obama-lifts-a-trade-embargo-of-communications-equipment-and-software-to-non-government-iranians.md)
-_Context: Barack Obama, Iran, embargo_
+_Context: Iran, Obama, embargo_
 
 ### [The United States Naval Academy announces it is investigating allegations that three football players sexually assaulted a female student. ](/news/2013/05/31/the-united-states-naval-academy-announces-it-is-investigating-allegations-that-three-football-players-sexually-assaulted-a-female-student.md)
 U.S. Naval Academy investigating allegations that three members of its football team sexually assaulted female midshipman

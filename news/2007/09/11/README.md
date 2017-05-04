@@ -49,7 +49,7 @@ _Context: OPEC, Saudi Arabia_
 _Context: Philippine_
 
 ### [ The European Union decides the United Kingdom can continue to use imperial measurements for the foreseeable future. ](/news/2007/09/11/the-european-union-decides-the-united-kingdom-can-continue-to-use-imperial-measurements-for-the-foreseeable-future.md)
-_Context: EU, United Kingdom, imperial measurement_
+_Context: European Union, United Kingdom, imperial measurement_
 
 ### [ At least 66 Israeli troops are wounded when a Qassam rocket from Gaza Strip hits an Israeli Defence Forces training base in Southern Israel. ](/news/2007/09/11/at-least-66-israeli-troops-are-wounded-when-a-qassam-rocket-from-gaza-strip-hits-an-israeli-defence-forces-training-base-in-southern-israel.md)
 _Context: Gaza Strip, Israel, Israeli Defence Forces, Qassam rocket, southern Israel_

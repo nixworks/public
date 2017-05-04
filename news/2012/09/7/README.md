@@ -4,7 +4,7 @@
 A motorcycle bomb exploded as worshippers left a mosque after Friday prayers in northern Damascus, wounding several people, Syrian state television said.
 
 ### [Iranian sources citing Ash-Shabaab say a U.S. drone attack killed eight people in Kismayo, south Somalia. ](/news/2012/09/7/iranian-sources-citing-ash-shabaab-say-a-u-s-drone-attack-killed-eight-people-in-kismayo-south-somalia.md)
-_Context: Al-Shabaab, Kismayo, Somalia, United States, drone attack, extrajudicial killing_
+_Context: Al-Shabaab, Kismayo, Somali, United States, drone attack, extrajudicial killing_
 
 ### [Humanitarian groups express concern over Chile's army head, involved in controversy over a directive instructing military recruiters not to admit homosexuals. ](/news/2012/09/7/humanitarian-groups-express-concern-over-chile-s-army-head-involved-in-controversy-over-a-directive-instructing-military-recruiters-not-to.md)
 _Context: Chile_

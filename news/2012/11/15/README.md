@@ -22,7 +22,7 @@ Dave Lee Travis, the former Radio 1 DJ and Top of the Pops presenter, has been a
 Xi Jinping is confirmed as the man to lead China for the next decade, as reformists miss out on membership of the top decision-making body.
 
 ### [The Myanmar government pardons 452 prisoners under an amnesty in a goodwill gesture before a visit by US President Barack Obama. State media said some of the people released were foreigners, though it remained unknown if any dissidents are among them at all. Human Rights Watch accuses the government of using strategically timed prisoner releases to appease the international community.  ](/news/2012/11/15/the-myanmar-government-pardons-452-prisoners-under-an-amnesty-in-a-goodwill-gesture-before-a-visit-by-us-president-barack-obama-state-media.md)
-_Context: Barack Obama, Human Rights Watch, Myanmar_
+_Context: Human Rights Watch, Myanmar, Obama_
 
 ### [Elections are held to choose 41 Police and Crime Commissioners in England and Wales. Three by-elections also take place in Cardiff South and Penarth, Corby and Manchester Central. ](/news/2012/11/15/elections-are-held-to-choose-41-police-and-crime-commissioners-in-england-and-wales-three-by-elections-also-take-place-in-cardiff-south-and.md)
 Voters are heading to the polls to elect the first police and crime commissioners for England and Wales.

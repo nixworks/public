@@ -25,7 +25,7 @@ _Context: Carnival Ride, Carrie Underwood_
 Towering wildfires burned out of control across Southern California for a third day on Tuesday as 500,000 people fled the San Diego area and firefighters made a desperate stand to save a mountain town ringed by flames.
 
 ### [ The government of Somalia frees Idris Osman, the head of the World Food Programme in Somalia, after six days in detention. ](/news/2007/10/23/the-government-of-somalia-frees-idris-osman-the-head-of-the-world-food-programme-in-somalia-after-six-days-in-detention.md)
-_Context: Idris Osman, Somalia, World Food Programme_
+_Context: Idris Osman, Somali, World Food Programme_
 
 ### [ Nike agrees to buy United Kingdom sportswear firm Umbro for PS285 million. ](/news/2007/10/23/nike-agrees-to-buy-united-kingdom-sportswear-firm-umbro-for-aps285-million.md)
 _Context: Nike, Inc., PS, Umbro, United Kingdom, sportswear_

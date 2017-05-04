@@ -13,7 +13,7 @@ The state government has cancelled the licence of AMRI Hospital. Fire department
 The PM effectively vetoes an EU-wide treaty change, after making what French President Nicolas Sarkozy called &quot;unacceptable&quot; demands.
 
 ### [Croatia's President Ivo Josipovic and Prime minister Jadranka Kosor sign the accession treaty of Croatia to the European Union, to become the 28th member state on July 1, 2013. ](/news/2011/12/9/croatia-s-president-ivo-josipovia-and-prime-minister-jadranka-kosor-sign-the-accession-treaty-of-croatia-to-the-european-union-to-become-t.md)
-_Context: Croatia, EU, Ivo Josipovic, Jadranka Kosor, accession treaty, formal entry of Croatia_
+_Context: Croatia, European Union, Ivo Josipovic, Jadranka Kosor, accession treaty, formal entry of Croatia_
 
 ### [Joshua Komisarjevsky, found guilty of the Cheshire, Connecticut home invasion murders, is sentenced to death by lethal injection. ](/news/2011/12/9/joshua-komisarjevsky-found-guilty-of-the-cheshire-connecticut-home-invasion-murders-is-sentenced-to-death-by-lethal-injection.md)
 _Context: Cheshire, Connecticut home invasion murders, death, lethal injection_

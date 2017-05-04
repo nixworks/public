@@ -22,10 +22,10 @@ Bishop of Waterford &amp; Lismore Dr William Lee has described as &#39;seriously
 Mahmoud Zahar criticizes recent firing of rockets at Israel.
 
 ### [500 homes near the airport in Mogadishu are demolished by Somali troops. ](/news/2010/03/25/500-homes-near-the-airport-in-mogadishu-are-demolished-by-somali-troops.md)
-_Context: Mogadishu, Somalia_
+_Context: Mogadishu, Somali_
 
 ### [President of the United States Barack Obama requests that Cuba's leaders release all political prisoners, describing human rights there as "deeply disturbing". ](/news/2010/03/25/president-of-the-united-states-barack-obama-requests-that-cuba-s-leaders-release-all-political-prisoners-describing-human-rights-there-as.md)
-_Context: Barack Obama, Cuba, political prisoner, president_
+_Context: Cuba, Obama, political prisoner, president_
 
 ### [3 die in a medical helicopter crash in Tennessee, United States, with the helicopter that crashed being operated by Hospital Wing. ](/news/2010/03/25/3-die-in-a-medical-helicopter-crash-in-tennessee-united-states-with-the-helicopter-that-crashed-being-operated-by-hospital-wing.md)
 _Context: Hospital Wing, Tennessee, United States_

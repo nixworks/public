@@ -40,7 +40,7 @@ _Context: Agni Air Flight 101, Makwanpur District, Nepal_
 Rescue workers established phone contact with the 33 trapped Chilean miners for an hour today, revealing new details on just how the men survived 17 days with no help. The miners were just days away from running out of their meager food supply. Engineers say that the men almost escaped; they were...
 
 ### [The United States Department of Justice states that it will appeal a decision by United States federal judge Royce C. Lamberth to block an executive order by President Barack Obama to expand embryonic stem cell research. ](/news/2010/08/24/the-united-states-department-of-justice-states-that-it-will-appeal-a-decision-by-united-states-federal-judge-royce-c-lamberth-to-block-an-e.md)
-_Context: Barack Obama, Royce C. Lamberth, U.S. Justice Department, United States federal judge, embryonic stem cell, executive actions, president_
+_Context: Obama, Royce C. Lamberth, U.S. Justice Department, United States federal judge, embryonic stem cell, executive actions, president_
 
 ### [Samantha Cameron, wife of the British Prime Minister David Cameron, gives birth to the couple's fourth child, a girl. ](/news/2010/08/24/samantha-cameron-wife-of-the-british-prime-minister-david-cameron-gives-birth-to-the-couple-s-fourth-child-a-girl.md)
 David Cameron says he is a &quot;very proud dad&quot; after his wife Samantha gave birth to a girl, their fourth child, during a family holiday in Cornwall.

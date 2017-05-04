@@ -13,7 +13,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: China's, Hu Jintao, Sudan, UN, economic sanction, paramount leader_
 
 ### [ War in Somalia: Eight people are killed in a mortar attack in Somalia's capital Mogadishu. ](/news/2007/02/2/war-in-somalia-eight-people-are-killed-in-a-mortar-attack-in-somalia-s-capital-mogadishu.md)
-_Context: Mogadishu, Mortar, Somalia, two years of helping_
+_Context: Mogadishu, Mortar, Somali, two years of helping_
 
 ### [ Martti Ahtisaari unveils a United Nations plan for the final status of Kosovo. Serbian leaders denounced the proposal. ](/news/2007/02/2/martti-ahtisaari-unveils-a-united-nations-plan-for-the-final-status-of-kosovo-serbian-leaders-denounced-the-proposal.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

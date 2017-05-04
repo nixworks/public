@@ -1,7 +1,7 @@
 ## [2008-08-23](/news/2008/08/23/index.md)
 
 ### [  Two journalists and three other people are abducted by gunmen near Elasha, Somalia. ](/news/2008/08/23/two-journalists-and-three-other-people-are-abducted-by-gunmen-near-elasha-somalia.md)
-_Context: Elasha, Somalia, War in Somalia (2006-09)_
+_Context: Elasha, Somali, War in Somalia (2006-09)_
 
 ### [  A suicide bomber attacks a police station in Swat, NWFP, killing at least six officers and injuring several more. ](/news/2008/08/23/a-suicide-bomber-attacks-a-police-station-in-swat-nwfp-killing-at-least-six-officers-and-injuring-several-more.md)
 _Context: Khyber Pakhtunkhwa, Swat, Pakistan, War in North-West Pakistan_
@@ -19,7 +19,7 @@ _Context: King Air A-100, Moab, Utah, USA_
 _Context: U.S. Health and Human Services Department's, United States, abortion, contraception_
 
 ### [ U.S. presidential candidate Senator Barack Obama picks Senator Joe Biden as his vice-presidential running mate. ](/news/2008/08/23/u-s-presidential-candidate-senator-barack-obama-picks-senator-joe-biden-as-his-vice-presidential-running-mate.md)
-_Context: 2008, Barack Obama, Joe Biden, United States Senate, running mate_
+_Context: 2008, Joe Biden, Obama, United States Senate, running mate_
 
 ## [Previous Day...](/news/2008/08/22/index.md)
 

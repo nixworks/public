@@ -49,7 +49,7 @@ _Context: Insein Prison, Khin Nyunt, Myanmar, Yangon, anti-corruption, bribes_
 _Context: Amorebieta, Basque, Bilbao, ETA, Spain, power station_
 
 ### [ In Somalia, United Nations World Food Programme threatens to stop food shipments to the country for ten years if the hijacked food ship and its crew are not released  ](/news/2005/07/12/in-somalia-united-nations-world-food-programme-threatens-to-stop-food-shipments-to-the-country-for-ten-years-if-the-hijacked-food-ship-and.md)
-_Context: Somalia, United Nations, World Food Programme_
+_Context: Somali, United Nations, World Food Programme_
 
 ### [ The European Court of Justice fines France EUR20 million ($24 million) for flouting European Union fishing quotas  ](/news/2005/07/12/the-european-court-of-justice-fines-france-a-20-million-24-million-for-flouting-european-union-fishing-quotas.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

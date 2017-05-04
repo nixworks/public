@@ -4,7 +4,7 @@
 _Context: Dmitry Medvedev, Prime Minister, Russia, Russian Government, Russian President, Russian financial crisis of 2008-2009, Vladimir Putin_
 
 ### [ European Union monitors arrive to ensure that Russia restarts its natural-gas delivery to Europe. ](/news/2009/01/11/european-union-monitors-arrive-to-ensure-that-russia-restarts-its-natural-gas-delivery-to-europe.md)
-_Context: EU, Europe, Russia, natural gas, restarts_
+_Context: Europe, European Union, Russia, natural gas, restarts_
 
 ### [ Israeli Defense Forces and Hamas and Islamic Jihad militants battle in Sheikh Ajleen, a suburb of Gaza City.  ](/news/2009/01/11/israeli-defense-forces-and-hamas-and-islamic-jihad-militants-battle-in-sheikh-ajleen-a-suburb-of-gaza-city.md)
 Israeli ground forces made their deepest foray yet Sunday into Gaza&#39;s most populated area, with tanks rolling into residential neighborhoods and infantry fighting urban warfare. 

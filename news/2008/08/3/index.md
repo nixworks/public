@@ -13,7 +13,7 @@ _Context: Falcon 1, SpaceX_
 _Context: Civil Aviation Safety Authority, Qantas, Qantas Flight 30, safety_
 
 ### [ At least 21 street cleaners are killed by a roadside bombing in Mogadishu, Somalia. ](/news/2008/08/3/at-least-21-street-cleaners-are-killed-by-a-roadside-bombing-in-mogadishu-somalia.md)
-_Context: Mogadishu, Somalia, roadside bombing_
+_Context: Mogadishu, Somali, roadside bombing_
 
 ### [ 12 people are killed when a minibus explodes in Baghdad, Iraq. ](/news/2008/08/3/12-people-are-killed-when-a-minibus-explodes-in-baghdad-iraq.md)
 _Context: Baghdad, Iraq_

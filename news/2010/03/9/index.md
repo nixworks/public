@@ -40,7 +40,7 @@ The agreements were made public in the United States years ago, but until recent
 Two men who had been staging a sit-in at the offices of the Taxi Regulator in Dublin have ended their protest.
 
 ### [The first use of a biocontrol agent against a weed in the European Union is approved -- the Japanese insect ''Aphalara itadori'' will be released at trial sites in England to combat invasive Japanese knotweed. ](/news/2010/03/9/the-first-use-of-a-biocontrol-agent-against-a-weed-in-the-european-union-is-approved-a-the-japanese-insect-aphalara-itadori-will-be-re.md)
-_Context: Aphalara itadori, EU, Japanese knotweed, biocontrol, invasive_
+_Context: Aphalara itadori, European Union, Japanese knotweed, biocontrol, invasive_
 
 ### [Burma's military junta announces the first law relating to the 2010 general election, concerning the election commission. ](/news/2010/03/9/burma-s-military-junta-announces-the-first-law-relating-to-the-2010-general-election-concerning-the-election-commission.md)
 _Context: Burma, State Peace and Development Council, general elections_

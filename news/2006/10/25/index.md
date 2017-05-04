@@ -22,7 +22,7 @@ _Context: United States Federal Reserve, inflation, interest rate_
 _Context: Conflict in the Niger Delta, Niger Delta, Nigeria, Royal Dutch Shell_
 
 ### [ The Islamic Courts Union in Somalia has begun recruiting thousands of people in response to alleged military action by neighboring Ethiopia, amid fears of all-out war across the country. ](/news/2006/10/25/the-islamic-courts-union-in-somalia-has-begun-recruiting-thousands-of-people-in-response-to-alleged-military-action-by-neighboring-ethiopia.md)
-_Context: Ethiopia, Islamic Courts Union, Somalia, alleged military action_
+_Context: Ethiopia, Islamic Courts Union, Somali, alleged military action_
 
 ### [ The government of Niger announces that due to "difficult relations with indigenous rural populations," the country's 150,000 Mahamid Arab refugee population who have lived in Niger since having fled Chad two decades earlier, will be deported back to Chad. ](/news/2006/10/25/the-government-of-niger-announces-that-due-to-difficult-relations-with-indigenous-rural-populations-the-country-s-150-000-mahamid-arab-r.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

@@ -1,7 +1,7 @@
 ## [2008-12-15](/news/2008/12/15/index.md)
 
 ### [ Montenegro presents its official application for European Union membership to current EU Council President Nicolas Sarkozy, hoping to win candidate status in 2009. ](/news/2008/12/15/montenegro-presents-its-official-application-for-european-union-membership-to-current-eu-council-president-nicolas-sarkozy-hoping-to-win-c.md)
-_Context: Council of the European Union, EU, Montenegro, Nicolas Sarkozy, presents its official application, the Council of_
+_Context: Council of the European Union, European Union, Montenegro, Nicolas Sarkozy, presents its official application, the Council of_
 
 ### [ The House of Representatives of Thailand selects Abhisit Vejjajiva of the Democrat Party as the new Prime Minister. ](/news/2008/12/15/the-house-of-representatives-of-thailand-selects-abhisit-vejjajiva-of-the-democrat-party-as-the-new-prime-minister.md)
 The vote followed the end of months of protests against pro-Thaksin parties that culminated in a weeklong shutdown of Bangkok’s two airports.

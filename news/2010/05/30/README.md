@@ -28,7 +28,7 @@ _Context: China's, North Korea, South Korea, sinking_
 _Context: BP, Deepwater Horizon oil spill_
 
 ### [Two potential pirate attacks in the Gulf of Aden off the coast of Somalia are disrupted by the Seychelles Coast Guard and the Australian navy. ](/news/2010/05/30/two-potential-pirate-attacks-in-the-gulf-of-aden-off-the-coast-of-somalia-are-disrupted-by-the-seychelles-coast-guard-and-the-australian-nav.md)
-_Context: Gulf of Aden, Royal Australian Navy, Seychelles Coast Guard, Somali pirates, Somalia_
+_Context: Gulf of Aden, Royal Australian Navy, Seychelles Coast Guard, Somali, Somali pirates_
 
 ### [Bangladesh blocks access to Facebook after satirical images of the Islamic prophet Muhammad and the country's leaders were uploaded. ](/news/2010/05/30/bangladesh-blocks-access-to-facebook-after-satirical-images-of-the-islamic-prophet-muhammad-and-the-country-s-leaders-were-uploaded.md)
 Social networking site shut down over caricatures of Prophet Mohammed.

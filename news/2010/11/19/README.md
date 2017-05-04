@@ -1,7 +1,7 @@
 ## [2010-11-19](/news/2010/11/19/index.md)
 
 ### [Eleven people are killed in clashes between the rival al-Shabaab and Ahlu Sunna Waljama'a groups in central Somalia. ](/news/2010/11/19/eleven-people-are-killed-in-clashes-between-the-rival-al-shabaab-and-ahlu-sunna-waljama-a-groups-in-central-somalia.md)
-_Context: Ahlu Sunna Waljama'a, Somalia, al-Shabaab_
+_Context: Ahlu Sunna Waljama'a, Somali, al-Shabaab_
 
 ### [A police officer dies in hospital after a suspected militant attack in Russia's North Caucasus republic of Dagestan. ](/news/2010/11/19/a-police-officer-dies-in-hospital-after-a-suspected-militant-attack-in-russiaas-north-caucasus-republic-of-dagestan.md)
 _Context: Dagestan, North Caucasus, Russia_

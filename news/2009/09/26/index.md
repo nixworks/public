@@ -13,13 +13,13 @@ _Context: Metro Manila, Philippine, Tropical Storm Ketsana_
 Three detainees held at the U.S. military prison at Guantanamo Bay, Cuba, have been sent to Ireland and Yemen, the Justice Department said on Saturday, the latest transfers as President Barack Obama tries to close the facility by January.
 
 ### [ Kenyan President Mwai Kibaki writes to President of the United States Barack Obama to express his concern and disappointment over threats it has received from that country concerning a travel ban on Kenyan officials it blames for hindering reforms. ](/news/2009/09/26/kenyan-president-mwai-kibaki-writes-to-president-of-the-united-states-barack-obama-to-express-his-concern-and-disappointment-over-threats-i.md)
-_Context: Barack Obama, Kenya, Mwai Kibaki, president, president_
+_Context: Kenya, Mwai Kibaki, Obama, president, president_
 
 ### [ Two car bomb blasts kill at least 12 people in northwestern Pakistan. ](/news/2009/09/26/two-car-bomb-blasts-kill-at-least-12-people-in-northwestern-pakistan.md)
 Police officers and civilians among casualties of car-bomb attacks in Bannu and Peshawar.
 
 ### [ Iranian President Mahmoud Ahmadinejad rejects U.S. President Barack Obama's accusation about Iran's nuclear program. ](/news/2009/09/26/iranian-president-mahmoud-ahmadinejad-rejects-u-s-president-barack-obama-s-accusation-about-iran-s-nuclear-program.md)
-_Context: Barack Obama, Iranian President, Mahmoud Ahmadinejad, U.S. President, nuclear scientist_
+_Context: Iranian President, Mahmoud Ahmadinejad, Obama, U.S. President, nuclear scientist_
 
 ### [ Families separated for over 50 years since the Korean War meet at the Kumgangsan resort, North Korea. ](/news/2009/09/26/families-separated-for-over-50-years-since-the-korean-war-meet-at-the-kamgangsan-resort-north-korea.md)
 _Context: Korean War, Mount Kumgang resort, North Korea_

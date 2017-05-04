@@ -13,7 +13,7 @@ _Context: Court of Arbitration for Sport, Floyd Landis, Tour de France, cycling_
 _Context: African Union, Egypt, President of Zimbabwe, Robert Mugabe, Sharm el-Sheikh, Zimbabwe_
 
 ### [ Peru's largest federation of mining unions commences strike action in order to pressure the Congress of Peru to pass legislation to improve labor benefits. ](/news/2008/06/30/peru-s-largest-federation-of-mining-unions-commences-strike-action-in-order-to-pressure-the-congress-of-peru-to-pass-legislation-to-improve.md)
-_Context: Congress of Peru, Peru, mining, strike, unionize_
+_Context: Congress of Peru, Peru, mine, strike, unionize_
 
 ### [ An Ilyushin Il-76 crashes minutes after takeoff from Khartoum International Airport. All four Russian crew were killed. It is the second major air crash in the country this week. ](/news/2008/06/30/an-ilyushin-il-76-crashes-minutes-after-takeoff-from-khartoum-international-airport-all-four-russian-crew-were-killed-it-is-the-second-ma.md)
 _Context: Ilyushin, Ilyushin Il-76, Khartoum International Airport, Russia_

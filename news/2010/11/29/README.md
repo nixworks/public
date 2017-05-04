@@ -7,7 +7,7 @@ An Iranian nuclear scientist is killed and another wounded in separate but simil
 Reports from Kyrgyzstan say four Islamist militants have been killed in a raid by special forces on a hide-out in the southern city of Osh.
 
 ### [Somali pirates hijack a Malaysian cargo vessel with 23 crew members 900 miles off the coast of Somalia. ](/news/2010/11/29/somali-pirates-hijack-a-malaysian-cargo-vessel-with-23-crew-members-900-miles-off-the-coast-of-somalia.md)
-_Context: Malaysia, Somali pirates, Somalia_
+_Context: Malaysia, Somali, Somali pirates_
 
 ### [Pablo Picasso's electrician says he has 271 previously unknown works given to him as gifts by the artist. ](/news/2010/11/29/pablo-picasso-s-electrician-says-he-has-271-previously-unknown-works-given-to-him-as-gifts-by-the-artist.md)
 A retired electrician in southern France says he has hundreds of previously unknown works by Pablo Picasso, worth about 60m euros.
@@ -52,7 +52,7 @@ _Context: Constitutional Court of Thailand, Democrat Party, Thailand_
 _Context: Australia, John Brumby, Premier, Ted Baillieu, Victoria, Victorian election_
 
 ### [President of the United States Barack Obama calls for a wage freeze for two million United States government workers. ](/news/2010/11/29/president-of-the-united-states-barack-obama-calls-for-a-wage-freeze-for-two-million-united-states-government-workers.md)
-_Context: Barack Obama, United States government, president, wage freeze_
+_Context: Obama, United States government, president, wage freeze_
 
 ### [The Canadian federal by-elections fills two vacant House seats in ridings for Manitoba and one in Ontario, resulting in one Conservative gain, one Conservative hold and one Liberal gain. ](/news/2010/11/29/the-canadian-federal-by-elections-fills-two-vacant-house-seats-in-ridings-for-manitoba-and-one-in-ontario-resulting-in-one-conservative-gai.md)
 _Context: Canadian  House of Commons, Canadian federal by-elections, Conservative Party's, Liberal Party's, Manitoba, Ontario, ridings_

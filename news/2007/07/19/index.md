@@ -19,7 +19,7 @@ The Dow Jones Industrial Average stock index closed above 14,000 points for the 
 _Context: England, Harrogate, United Kingdom, Viking_
 
 ### [ Suspected Somali insurgents target a peace meeting with mortar fire but accidentally kill six children. ](/news/2007/07/19/suspected-somali-insurgents-target-a-peace-meeting-with-mortar-fire-but-accidentally-kill-six-children.md)
-_Context: Mortar, Somalia_
+_Context: Mortar, Somali_
 
 ### [ A U.S. federal judge dismisses a case brought by Valerie Plame against members of the Bush Administration in connection with the Plame affair. ](/news/2007/07/19/a-u-s-federal-judge-dismisses-a-case-brought-by-valerie-plame-against-members-of-the-bush-administration-in-connection-with-the-plame-affa.md)
 _Context: Bush Administration, CIA leak scandal, George W. Bush, Valerie Plame, dismisses_

@@ -7,7 +7,7 @@ _Context: 2012 South Sudan-Sudan border conflict_
 A suicide bomber on Wednesday killed at least 12 people and injured many more in the Faryab province in northern Afghanistan, a Norwegian armed forces&#039; spokesman told AFP.
 
 ### [A suicide bomber detonates an explosion in Somalia's national theatre in Mogadishu while a ceremony is taking place, killing at least ten people, including the presidents of the Somali Olympic Committee and the Somali Football Federation. ](/news/2012/04/4/a-suicide-bomber-detonates-an-explosion-in-somalia-s-national-theatre-in-mogadishu-while-a-ceremony-is-taking-place-killing-at-least-ten-pe.md)
-_Context: Mogadishu, Somali Football Federation, Somali Olympic Committee, Somalia_
+_Context: Mogadishu, Somali, Somali Football Federation, Somali Olympic Committee_
 
 ### [German Nobel laureate Gunter Grass's  poem, that accuses Israel of plotting to "wipe out" Iran, generates controversy. ](/news/2012/04/4/german-nobel-laureate-ga1-4nter-grass-s-poem-that-accuses-israel-of-plotting-to-wipe-out-iran-generates-controversy.md)
 _Context: German, Gunter Grass, Iran, Israel, Nobel Laureate, poem_

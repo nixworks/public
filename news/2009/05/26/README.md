@@ -7,7 +7,7 @@ _Context: Beijing, China's, Communist Party general secretary, Communist Party o
 _Context: California, Supreme Court, ban, reversed its legalization, same-sex marriage, upholds_
 
 ### [ President Barack Obama nominates Federal Judge Sonia Sotomayor for the United States Supreme Court. ](/news/2009/05/26/president-barack-obama-nominates-federal-judge-sonia-sotomayor-for-the-united-states-supreme-court.md)
-_Context: Barack Obama, Sonia Sotomayor, Supreme Court of the United States, United States, United States federal judge, confirmed, president_
+_Context: Obama, Sonia Sotomayor, Supreme Court of the United States, United States, United States federal judge, confirmed, president_
 
 ### [ President Isaias Afewerki says Eritrea will not release imprisoned journalist Dawit Isaak. ](/news/2009/05/26/president-isaias-afewerki-says-eritrea-will-not-release-imprisoned-journalist-dawit-isaak.md)
 _Context: Dawit Isaak, Eritrea, Isaias Afewerki, President, journalism, prison_
@@ -34,7 +34,7 @@ _Context: Abu Dhabi, France, Nicolas Sarkozy, United Arab Emirates, military ins
 _Context: Afghanistan, Kapisa province, suicide bomb attack_
 
 ### [ The Swedish Navy arrests seven Somali pirates during the attempted hijacking of a Greek ship. ](/news/2009/05/26/the-swedish-navy-arrests-seven-somali-pirates-during-the-attempted-hijacking-of-a-greek-ship.md)
-_Context: Greece, Navy, Somali pirates, Somalia, Sweden, ship_
+_Context: Greece, Navy, Somali, Somali pirates, Sweden, ship_
 
 ### [ Nigerien President Tandja Mamadou dissolves the National Assembly. ](/news/2009/05/26/nigerien-president-tandja-mamadou-dissolves-the-national-assembly.md)
 _Context: National Assembly, Niger, Nigerien President, Tandja Mamadou, parliament's dissolution_

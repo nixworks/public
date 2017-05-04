@@ -28,7 +28,7 @@ _Context: 2007 Pakistani state of emergency, Commonwealth of Nations, Pakistan, 
 _Context: International Atomic Energy Agency, Iran, Mohamed ElBaradei, nuclear_
 
 ### [ A report by the EMCDDA says the number of cocaine users in the European Union has increased by one million in one year. ](/news/2007/11/22/a-report-by-the-emcdda-says-the-number-of-cocaine-users-in-the-european-union-has-increased-by-one-million-in-one-year.md)
-_Context: EMCDDA, EU, cocaine_
+_Context: EMCDDA, European Union, cocaine_
 
 ### [ Two Iraqi soldiers and eight members of the Hawr Rajab Awakening Council are killed by al-Qaeda militants in Hawr Rajab. ](/news/2007/11/22/two-iraqi-soldiers-and-eight-members-of-the-hawr-rajab-awakening-council-are-killed-by-al-qaeda-militants-in-hawr-rajab.md)
 _Context: Hawr Rajab, Hawr Rajab Awakening Council, Iraq, al-Qaeda, militant, soldier_
@@ -40,7 +40,7 @@ _Context: Bangladesh, aid agencies, cyclone Sidr_
 _Context: Dagestan, Farid Babayev, Makhachkala, Russia, Yabloko, politician_
 
 ### [ Nur Hassan Hussein, head of the Somali Red Crescent and former policeman, is named the new Prime Minister of Somalia. ](/news/2007/11/22/nur-hassan-hussein-head-of-the-somali-red-crescent-and-former-policeman-is-named-the-new-prime-minister-of-somalia.md)
-_Context: International Red Cross and Red Crescent Movement, Nur Hassan Hussein, Prime Minister of Somalia, Somalia, policeman_
+_Context: International Red Cross and Red Crescent Movement, Nur Hassan Hussein, Prime Minister of Somalia, Somali, policeman_
 
 ### [ Despite talks between the transport workers, the management and the government, the November 2007 strikes in France continue for a ninth day. ](/news/2007/11/22/despite-talks-between-the-transport-workers-the-management-and-the-government-the-november-2007-strikes-in-france-continue-for-a-ninth-da.md)
 _Context: government, management, public-sector strikes, transport, worker_

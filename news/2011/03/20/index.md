@@ -7,7 +7,7 @@ Arab League secretary-general Amr Moussa is now questioning whether US and Europ
 Rocket alert system rings out across Ashkelon as rocket from Gaza slams into southern part of the city; no physical injuries or damages reported.
 
 ### [12 people are killed in clashes between Transitional Federal Government troops and al-Shabaab rebels in southern Somalia. ](/news/2011/03/20/12-people-are-killed-in-clashes-between-transitional-federal-government-troops-and-al-shabaab-rebels-in-southern-somalia.md)
-_Context: Somalia, Transitional Federal Government, al-Shabaab_
+_Context: Somali, Transitional Federal Government, al-Shabaab_
 
 ### [Demonstrations against the treatment of Bradley Manning:A protest against the alleged "appalling" treatment by the United States of Bradley Manning occurs in London, with supporters from Wales, where Manning attended school, attending. ](/news/2011/03/20/demonstrations-against-the-treatment-of-bradley-manning-pa-protest-against-the-alleged-appalling-treatment-by-the-united-states-of-bradley.md)
 Campaigners from Wales travel to London to protest over the alleged treatment of a US army private accused of leaking confidential papers.
@@ -34,7 +34,7 @@ The U.S. Coast Guard is investigating reports of a &quot;sheen&quot; in the Gulf
 State says 42-year old Palestinian engineer abducted in Ukraine being interrogated in prison
 
 ### [U.S. president Barack Obama visits a favela and delivers a speech in Rio de Janeiro as part of his five-day Latin American journey. ](/news/2011/03/20/u-s-president-barack-obama-visits-a-favela-and-delivers-a-speech-in-rio-de-janeiro-as-part-of-his-five-day-latin-american-journey.md)
-_Context: Barack Obama, Rio de Janeiro, favela, president_
+_Context: Obama, Rio de Janeiro, favela, president_
 
 ### [Police are growing concerned for the safety of Sian O'Callaghan, a 22-year-old woman who went missing while walking home from a nightclub in the English city of Swindon in the early hours of Saturday 19 March. ](/news/2011/03/20/police-are-growing-concerned-for-the-safety-of-sian-o-callaghan-a-22-year-old-woman-who-went-missing-while-walking-home-from-a-nightclub-in.md)
 Police are concerned for the safety of a 22-year-old woman who went missing after leaving a Swindon nightclub in the early hours of Saturday.

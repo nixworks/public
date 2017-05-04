@@ -13,7 +13,7 @@ _Context: Geminids_
 _Context: George W. Bush, Henry Kissinger, September 11 attacks, president_
 
 ### [The European Union invited Poland, Hungary, the Czech Republic, Slovakia, Slovenia, Latvia, Estonia, Lithuania, Cyprus and Malta to join.  Expansion is scheduled for May 2004.](/news/2002/12/13/the-european-union-invited-poland-hungary-the-czech-republic-slovakia-slovenia-latvia-estonia-lithuania-cyprus-and-malta-to-join-e.md)
-_Context: Cyprus, Czech, EU, Estonia, Hungary, Latvia, Lithuania, Maltese, Poland, Slovakia's, Slovenia_
+_Context: Cyprus, Czech, Estonia, European Union, Hungary, Latvia, Lithuania, Maltese, Poland, Slovakia's, Slovenia_
 
 ### [Star Trek: Nemesis was released in North America.](/news/2002/12/13/star-trek-nemesis-was-released-in-north-america.md)
 _Context: North America, Star Trek: Nemesis_

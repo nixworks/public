@@ -13,7 +13,7 @@ _Context: Prime Minister of Turkey, Recep Tayyip Erdogan, Turkey, Twitter_
 MOSCOW (AP) — The upper house of the Russian parliament has approved Moscow&#x27;s annexation of Crimea.
 
 ### [Ukraine signs an association accord with the European Union in defiance of Russia. ](/news/2014/03/21/ukraine-signs-an-association-accord-with-the-european-union-in-defiance-of-russia.md)
-_Context: EU, Russia, Ukrainian_
+_Context: European Union, Russia, Ukrainian_
 
 ### [American judge Bernard A. Friedman of the United States District Court for the Eastern District of Michigan overturns Michigan's ban on same-sex marriages. ](/news/2014/03/21/american-judge-bernard-a-friedman-of-the-united-states-district-court-for-the-eastern-district-of-michigan-overturns-michigan-s-ban-on-same.md)
 _Context: Bernard A. Friedman, Michigan, United States District Court for the Eastern District of Michigan_

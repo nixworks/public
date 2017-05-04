@@ -16,7 +16,7 @@ At least 12 people have died after a bus carrying the Tunisian presidential guar
 Iran-backed rebels in Yemen have blown up several bridges in the mountainous southwestern Taez province to hamper the advance of pro-government forces, military sources said Tuesday. Government forces backed by air and ground support from a Saudi-led coalition launched an all-out offensive last week
 
 ### [Barack Obama presents the Presidential Medal of Freedom to 17 people including Willie Mays, Barbra Streisand, Itzhak Perlman, James Taylor, Gloria Estefan and Emilio Estefan, Stephen Sondheim and Steven Spielberg. ](/news/2015/11/24/barack-obama-presents-the-presidential-medal-of-freedom-to-17-people-including-willie-mays-barbra-streisand-itzhak-perlman-james-taylor.md)
-_Context: Barack Obama, Barbra Streisand, Emilio Estefan, Gloria Estefan, Itzhak Perlman, James Taylor, Presidential Medal of Freedom with Distinction, Stephen Sondheim, Steven Spielberg, Willie Mays_
+_Context: Barbra Streisand, Emilio Estefan, Gloria Estefan, Itzhak Perlman, James Taylor, Obama, Presidential Medal of Freedom with Distinction, Stephen Sondheim, Steven Spielberg, Willie Mays_
 
 ### [The National Assembly of Vietnam unanimously passes the law, which will take effect in 2017 as part of the revised civil code, that recognizes and allows gender reassignment surgery. ](/news/2015/11/24/the-national-assembly-of-vietnam-unanimously-passes-the-law-which-will-take-effect-in-2017-as-part-of-the-revised-civil-code-that-recogniz.md)
 Get the latest health&nbsp;news, diet &amp; fitness information, medical research, health care trends and health issues that affect you and your family on ABCNews.com
@@ -28,7 +28,7 @@ A 15-year-old boy has died of Ebola in Liberia, the first such fatality for mont
 Of the 120 major outbreaks during 2010 to 2014, fruits, leafy greens, and beef were among the most commonly implicated foods.
 
 ### [According to an opinion poll, a majority of British citizens now want the United Kingdom to leave the European Union as voter anxiety rises over the bloc's handling of a crisis provoked by an influx of migrants into Europe. A referendum on the United Kingdom's EU membership is scheduled to take place before the end of 2017. ](/news/2015/11/24/according-to-an-opinion-poll-a-majority-of-british-citizens-now-want-the-united-kingdom-to-leave-the-european-union-as-voter-anxiety-rises.md)
-_Context: EU, European migrant crisis, United Kingdom, United Kingdom European Union membership referendum, United Kingdom withdrawal from the European Union_
+_Context: European Union, European migrant crisis, United Kingdom, United Kingdom European Union membership referendum, United Kingdom withdrawal from the European Union_
 
 ### [Sweden will introduce tighter border controls and asylum rules in a bid to reduce the number of asylum seekers entering the country. Sweden expects up to 190,000 asylum seekers to reach its borders this year and says its reception system cannot cope. "The situation is untenable", according to Swedish prime minister Stefan Lofven who told reporters, "to put it bluntly, more people will have to seek asylum and get protection in other European countries". ](/news/2015/11/24/sweden-will-introduce-tighter-border-controls-and-asylum-rules-in-a-bid-to-reduce-the-number-of-asylum-seekers-entering-the-country-sweden.md)
 Sweden will introduce tighter border controls and asylum rules, in a bid to reduce the number of asylum seekers reaching the country and force other EU states to take in more refugees, the government said on Tuesday.

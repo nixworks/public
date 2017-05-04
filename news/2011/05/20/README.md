@@ -19,7 +19,7 @@ In a bid to cut costs, the financially troubled New York City Opera wants to mov
 Tokyo Electric Power Co is likely to book about a 1 trillion yen ($12.3 billion) netloss for its fiscal year that ended in March due to losses fromthe accident at its Fukushima Daiichi nuclear plant, Japanesemedia reported on Friday.
 
 ### [The International Monetary Fund approves a 26 billion euro loan to Portugal as part of a joint bailout package with the European Union to try to resolve the European sovereign debt crisis. ](/news/2011/05/20/the-international-monetary-fund-approves-a-26-billion-euro-loan-to-portugal-as-part-of-a-joint-bailout-package-with-the-european-union-to-tr.md)
-_Context: EU, European sovereign debt crisis, International Monetary Fund, Portuguese, euro_
+_Context: European Union, European sovereign debt crisis, International Monetary Fund, Portuguese, euro_
 
 ### [The TMX Group, parent corporation of the Toronto Stock Exchange, rejects an acquisition offer from a consortium of Canadian banks, opening the way to an expected deal with the London Stock Exchange. ](/news/2011/05/20/the-tmx-group-parent-corporation-of-the-toronto-stock-exchange-rejects-an-acquisition-offer-from-a-consortium-of-canadian-banks-opening-t.md)
 TMX Group, operator of the Toronto Stock Exchange, said on Friday its board has rejected a C$3.6 billion ($3.7 billion) takeover bid from a group of Canadian banks and pension funds.
@@ -46,7 +46,7 @@ _Context: Hague Convention on the Civil Aspects of International Child Abduction
 North Korean leader Kim Jong Il was visiting China on Friday, a South Korean official said, according to state-run Yonhap news agency.
 
 ### [President Barack Obama meets with the Prime Minister of Israel Benjamin Netanyahu at the White House, during which Netanyahu emphasizes that Israel would not make a full withdraw to the pre-1967 borders as Obama requested yesterday, because these borders are "not defensible".](/news/2011/05/20/president-barack-obama-meets-with-the-prime-minister-of-israel-benjamin-netanyahu-at-the-white-house-during-which-netanyahu-emphasizes-that.md)
-_Context: Barack Obama, Benjamin Netanyahu, Prime Minister of Israel, Six Day War, White House, president_
+_Context: Benjamin Netanyahu, Obama, Prime Minister of Israel, Six Day War, White House, president_
 
 ### [Military prosecutors in Taiwan indict a senior general on charges of spying for China. ](/news/2011/05/20/military-prosecutors-in-taiwan-indict-a-senior-general-on-charges-of-spying-for-china.md)
 Taiwan military prosecutors charge a senior general with spying for China - the highest-ranking officer involved in alleged espionage in decades.

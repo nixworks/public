@@ -28,7 +28,7 @@ _Context: Benedict XVI, Cardinal, Roman Catholic Church_
 The Italian docudrama shows the staging of Shakespeare’s Julius Ceasar in a maximum security prison in Rome.
 
 ### [The Greek Cabinet approves additional austerity measures demanded by the European Union and International Monetary Fund. ](/news/2012/02/18/the-greek-cabinet-approves-additional-austerity-measures-demanded-by-the-european-union-and-international-monetary-fund.md)
-_Context: EU, International Monetary Fund, government of Greece_
+_Context: European Union, International Monetary Fund, government of Greece_
 
 ### [At least nine people are killed and 24 injured after a bus crashes in China's Yunnan province. ](/news/2012/02/18/at-least-nine-people-are-killed-and-24-injured-after-a-bus-crashes-in-china-s-yunnan-province.md)
 _Context: China's, Yunnan Province_

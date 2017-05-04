@@ -40,7 +40,7 @@ _Context: Pakistan, stoned to death_
 _Context: Egyptian presidential election, 2014, Government of Egypt_
 
 ### [The White House accidentally reveals the name of the CIA's top intelligence official in Afghanistan to approximately 6,000 journalists during U.S. President Barack Obama's visit to Bagram Airfield.  ](/news/2014/05/27/the-white-house-accidentally-reveals-the-name-of-the-cia-s-top-intelligence-official-in-afghanistan-to-approximately-6-000-journalists-durin.md)
-_Context: Afghanistan, Bagram Airfield, Barack Obama, CIA, president_
+_Context: Afghanistan, Bagram Airfield, CIA, Obama, president_
 
 ### [Scientists announce the discovery of a remote mire the size of England in the Republic of the Congo. ](/news/2014/05/27/scientists-announce-the-discovery-of-a-remote-mire-the-size-of-england-in-the-republic-of-the-congo.md)
 _Context: England, Republic of the Congo, mire_

@@ -10,7 +10,7 @@ Favored by few, the Cardinals used an unlikely cast of characters to win their f
 _Context: Augusto Pinochet, President, Villa Grimaldi_
 
 ### [ Thousands of young Muslim men demonstrate in the Somali capital of Mogadishu in support of a call for a holy war against Ethiopia. ](/news/2006/10/27/thousands-of-young-muslim-men-demonstrate-in-the-somali-capital-of-mogadishu-in-support-of-a-call-for-a-holy-war-against-ethiopia.md)
-_Context: Ethiopia, Mogadishu, Muslim, Somalia, holy war_
+_Context: Ethiopia, Mogadishu, Muslim, Somali, holy war_
 
 ### [ Washington D.C.-area sniper Lee Boyd Malvo admitted that he and partner John Allen Muhammad were responsible for the 2002 murder of a 60-year-old man on a Tucson golf course, police claim. ](/news/2006/10/27/washington-d-c-area-sniper-lee-boyd-malvo-admitted-that-he-and-partner-john-allen-muhammad-were-responsible-for-the-2002-murder-of-a-60-ye.md)
 _Context: John Allen Muhammad, Lee Boyd Malvo, Tucson, Washington, D.C._

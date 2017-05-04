@@ -28,7 +28,7 @@ _Context: Kerman, unidentified flying object_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ The European Commission announces proposals for the EU to cut carbon dioxide emissions by 20% by 2020 and 60% by 2050 in order to mitigate global warming. ](/news/2007/01/10/the-european-commission-announces-proposals-for-the-eu-to-cut-carbon-dioxide-emissions-by-20-by-2020-and-60-by-2050-in-order-to-mitigate.md)
-_Context: EU, European Commission, carbon dioxide emissions, mitigation of global warming_
+_Context: European Commission, European Union, carbon dioxide emissions, mitigation of global warming_
 
 ### [ Following the 2006 general election, Daniel Ortega becomes the new President of Nicaragua, replacing Enrique Bolanos. ](/news/2007/01/10/following-the-2006-general-election-daniel-ortega-becomes-the-new-president-of-nicaragua-replacing-enrique-bolaa-os.md)
 _Context: 2006 general election, Daniel Ortega, Enrique Bolanos, Nicaraguan President_

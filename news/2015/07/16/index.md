@@ -22,7 +22,7 @@ At least 11 people are killed and many others injured in a fight between two war
 The nominations for the 2015 Primetime Emmy Awards have been announced, with HBO’s fantasy drama “Game of Thrones” leading the pack with 24 nominations — including one for outstanding drama series.…
 
 ### [The European Union launches an antitrust action against American semiconductor company Qualcomm, for possible abuse of a dominant market position, on the one hand, and predatory pricing, on the other hand. ](/news/2015/07/16/the-european-union-launches-an-antitrust-action-against-american-semiconductor-company-qualcomm-for-possible-abuse-of-a-dominant-market-pos.md)
-_Context: EU, Qualcomm, abuse of a dominant market position, antitrust, predatory pricing, semiconductor_
+_Context: European Union, Qualcomm, abuse of a dominant market position, antitrust, predatory pricing, semiconductor_
 
 ### [Sixty-five thousand people in the Indian state of Assam are affected by floods and heavy rainfall. ](/news/2015/07/16/sixty-five-thousand-people-in-the-indian-state-of-assam-are-affected-by-floods-and-heavy-rainfall.md)
 65,000 people in over 155 villages have been affected due to the incessant rains and floods in the state.

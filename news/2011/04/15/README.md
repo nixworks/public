@@ -70,7 +70,7 @@ _Context: Beijing, Toronto, York University, webcam_
 _Context: Australian Council of Trade Unions, Australian Workers' Union, Julia Gillard, carbon tax, minority government_
 
 ### [At a fundraiser, Barack Obama is caught on an open mic confronting Paul Ryan's record of creating the debt which he is now claiming to be trying to fix, among numerous other things. ](/news/2011/04/15/at-a-fundraiser-barack-obama-is-caught-on-an-open-mic-confronting-paul-ryan-s-record-of-creating-the-debt-which-he-is-now-claiming-to-be-tr.md)
-_Context: Barack Obama, Paul Ryan_
+_Context: Obama, Paul Ryan_
 
 ### [Researchers in Japan and Australia successfully teleport wave packets of light, the first transfer of quantum information from one point to another in a Schrodinger's cat experiment. ](/news/2011/04/15/researchers-in-japan-and-australia-successfully-teleport-wave-packets-of-light-the-first-transfer-of-quantum-information-from-one-point-to.md)
 Researchers from Australia and Japan have successfully teleported wave packets of light, potentially revolutionising quantum communications and computing.

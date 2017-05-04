@@ -28,7 +28,7 @@ _Context: Hong Kong, Nancy Kissel_
 _Context: Russia_
 
 ### [ Human Rights Watch says Somalia is "most ignored tragedy" and the international community has "completely failed Somali civilians" regarding destruction of Mogadishu. ](/news/2008/10/6/human-rights-watch-says-somalia-is-most-ignored-tragedy-and-the-international-community-has-completely-failed-somali-civilians-regardin.md)
-_Context: Human Rights Watch, Mogadishu, Somalia_
+_Context: Human Rights Watch, Mogadishu, Somali_
 
 ### [ Thousands of anti-government protesters march in Bangkok as People's Alliance for Democracy demand elected government step down. ](/news/2008/10/6/thousands-of-anti-government-protesters-march-in-bangkok-as-people-s-alliance-for-democracy-demand-elected-government-step-down.md)
 _Context: Bangkok, yellow shirt_

@@ -16,7 +16,7 @@ _Context: India_
 Feb. 28 - At least six people dead and four others missing after gas explosion causes collapse of apartment building in southern Russia. Travis Brecher reports.
 
 ### [European Union Foreign Ministers support Serbia's candidacy to join the European Union despite opposition from Romania. ](/news/2012/02/28/european-union-foreign-ministers-support-serbia-s-candidacy-to-join-the-european-union-despite-opposition-from-romania.md)
-_Context: EU, Romania, Serbia_
+_Context: European Union, Romania, Serbia_
 
 ### [Belarus expels the ambassadors from the European Union and Poland and recalls its ambassadors in Brussels and Warsaw due to the imposition of sanctions. ](/news/2012/02/28/belarus-expels-the-ambassadors-from-the-european-union-and-poland-and-recalls-its-ambassadors-in-brussels-and-warsaw-due-to-the-imposition-o.md)
 Belarus on Tuesday told the ambassador of the European Union and that of Poland to leave the country and recalled its own envoys from Brussels and Warsaw, sparking anger in the EU and plunging relations between Minsk and the 27-member bloc to a new low.

@@ -25,7 +25,7 @@ _Context: 1997, Death of Diana, Princess of Wales, London, Lord Stevens, Operati
 _Context: Prime Minster, Tony Blair, current political crisis_
 
 ### [ The European Union announces it will introduce a common EU-wide driving licence in 2013. ](/news/2006/12/14/the-european-union-announces-it-will-introduce-a-common-eu-wide-driving-licence-in-2013.md)
-_Context: 2013, EU_
+_Context: 2013, European Union_
 
 ### [ The Nintendo Wii breaks record sales in Australia and is the fastest selling gaming console in Australian history. ](/news/2006/12/14/the-nintendo-wii-breaks-record-sales-in-australia-and-is-the-fastest-selling-gaming-console-in-australian-history.md)
 _Context: Australia, Australian, Nintendo, Wii_

@@ -25,7 +25,7 @@ _Context: Vanni District_
 _Context: Latvia, Minister of Agriculture_
 
 ### [ The director of Somalia's independent HornAfrik radio station, Said Tahlil Ahmed, is killed in Mogadishu. ](/news/2009/02/4/the-director-of-somalia-s-independent-hornafrik-radio-station-said-tahlil-ahmed-is-killed-in-mogadishu.md)
-_Context: HornAfrik, Mogadishu, Said Tahlil Ahmed, Somalia_
+_Context: HornAfrik, Mogadishu, Said Tahlil Ahmed, Somali_
 
 ### [ An estimated 15,000 students in Dublin, Ireland, protest the threatened reintroduction of university fees. ](/news/2009/02/4/an-estimated-15-000-students-in-dublin-ireland-protest-the-threatened-reintroduction-of-university-fees.md)
 With public spending being slashed some form of third level fees could be introduced.

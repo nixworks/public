@@ -19,7 +19,7 @@ THE UN Security Council has unanimously backed sending up to 12,600 internationa
 _Context: Chuck Hagel, Government of Syria, Israel, Syrian Civil War, United Kingdom, United States Secretary of Defence, sarin gas_
 
 ### [The United Kingdom reopens its embassy in Somalia 22 years after it closed as a result of the chaos after the fall of Mohamed Siad Barre's government and subsequent Somali Civil War. ](/news/2013/04/25/the-united-kingdom-reopens-its-embassy-in-somalia-22-years-after-it-closed-as-a-result-of-the-chaos-after-the-fall-of-mohamed-siad-barre-s-g.md)
-_Context: Mohamed Siad Barre, Somali Civil War, Somalia, United Kingdom_
+_Context: Mohamed Siad Barre, Somali, Somali Civil War, United Kingdom_
 
 ### [Mexican photojournalist Daniel Alejandro Martinez Bazaldua is found dead in Saltillo, Coahuila, an area where Los Zetas drug cartel operates. With his death, Mexico consolidates itself as one of the most dangerous countries for journalists, where more than 80 have been killed since 2000. ](/news/2013/04/25/mexican-photojournalist-daniel-alejandro-martanez-bazaldaoa-is-found-dead-in-saltillo-coahuila-an-area-where-los-zetas-drug-cartel-operat.md)
 _Context: Los Zetas, Mexican, Mexico, Saltillo, Coahuila, more than 80 have been killed_

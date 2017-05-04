@@ -13,7 +13,7 @@ _Context: LTTE, Sri Lanka, Sri Lankan Civil War, declares an end, government's_
 _Context: Chad, Military, Sudan, incursions, performed_
 
 ### [ Somalia requests international assistance to establish an anti-piracy coast guard. ](/news/2009/05/18/somalia-requests-international-assistance-to-establish-an-anti-piracy-coast-guard.md)
-_Context: Somali pirates, Somalia, coast guard_
+_Context: Somali, Somali pirates, coast guard_
 
 ### [ Twenty members of the United Kingdom's Parliament demand House of Commons Speaker Michael Martin's resignation, amid at the 2009 expenses scandal. ](/news/2009/05/18/twenty-members-of-the-united-kingdom-s-parliament-demand-house-of-commons-speaker-michael-martin-s-resignation-amid-at-the-2009-expenses-s.md)
 Michael Martin, the Commons Speaker, has apologised for his role in the MPs&#039; expenses scandal but refused to resign.

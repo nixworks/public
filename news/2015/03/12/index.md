@@ -1,7 +1,7 @@
 ## [2015-03-12](/news/2015/03/12/index.md)
 
 ### [A U.S. drone strike in Somalia near the town of Bardhere kills the mastermind al-Shabab terrorist Aden Garaar responsible for the September 2013 three-day siege Westgate shopping mall attack in Nairobi, Kenya, in which 67 people were killed by four gunmen. ](/news/2015/03/12/a-u-s-drone-strike-in-somalia-near-the-town-of-bardhere-kills-the-mastermind-al-shabab-terrorist-aden-garaar-responsible-for-the-september.md)
-_Context: Aden Garaar, Bardhere, Nairobi, Somalia, Westgate shopping mall attack, al-Shabaab_
+_Context: Aden Garaar, Bardhere, Nairobi, Somali, Westgate shopping mall attack, al-Shabaab_
 
 ### [The United Steelworkers union and Royal Dutch Shell negotiate a contract, pending union ratification, to end of a six-week strike that began February 1 that has affected twelve U.S. refineries. Previously, the strike had been cited as a reason for recent oil price increases. ](/news/2015/03/12/the-united-steelworkers-union-and-royal-dutch-shell-negotiate-a-contract-pending-union-ratification-to-end-of-a-six-week-strike-that-began.md)
 _Context: Royal Dutch Shell, United Steelworkers_

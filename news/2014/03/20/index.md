@@ -10,7 +10,7 @@ _Context: Baghdad, Iraq_
 Syrian soldiers have raised the national flag on the battlements of a 900-year-old Crusader castle after a three-month siege that ended on Thursday when rebel fighters fled.
 
 ### [European Union member states and European Parliament negotiators reach a deal on a new regulatory system for banks. ](/news/2014/03/20/european-union-member-states-and-european-parliament-negotiators-reach-a-deal-on-a-new-regulatory-system-for-banks.md)
-_Context: EU, European Parliament_
+_Context: European Parliament, European Union_
 
 ### [The Prime Minister of Australia, Tony Abbott, advises the Parliament that two objects possibly related to the search for Malaysia Airlines Flight 370 have been located in the southern Indian Ocean. ](/news/2014/03/20/the-prime-minister-of-australia-tony-abbott-advises-the-parliament-that-two-objects-possibly-related-to-the-search-for-malaysia-airlines-f.md)
 Sky News Australia has the top stories in news online from Australia and the rest of the World.

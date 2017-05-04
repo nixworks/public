@@ -1,7 +1,7 @@
 ## [2008-06-9](/news/2008/06/9/index.md)
 
 ### [ French foreign minister Bernard Kouchner warns Ireland, saying the Irish would be the "first victim" if they reject the EU Treaty of Lisbon. ](/news/2008/06/9/french-foreign-minister-bernard-kouchner-warns-ireland-saying-the-irish-would-be-the-first-victim-if-they-reject-the-eu-treaty-of-lisbon.md)
-_Context: Bernard Kouchner, EU, France, Ireland, Treaty of Lisbon, the second Irish referendum_
+_Context: Bernard Kouchner, European Union, France, Ireland, Treaty of Lisbon, the second Irish referendum_
 
 ### [ June 2008 Midwest Flood: A stalled storm system  in the midwest of the United States causes further heavy flooding in Indiana, Iowa and Wisconsin with storms on the weekend causing 10 deaths in four states. ](/news/2008/06/9/june-2008-midwest-flood-a-stalled-storm-system-in-the-midwest-of-the-united-states-causes-further-heavy-flooding-in-indiana-iowa-and-wis.md)
 A stalled storm system poured heavy rain on parts of the Midwest, setting off severe flooding in Indiana, Iowa and Wisconsin.

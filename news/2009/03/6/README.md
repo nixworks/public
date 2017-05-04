@@ -1,7 +1,7 @@
 ## [2009-03-6](/news/2009/03/6/index.md)
 
 ### [ The European Union will transfer to Kenya suspected Somali pirates captured during Operation Atalanta. ](/news/2009/03/6/the-european-union-will-transfer-to-kenya-suspected-somali-pirates-captured-during-operation-atalanta.md)
-_Context: EU, Kenya, Somali pirates, Somalia, captures_
+_Context: European Union, Kenya, Somali, Somali pirates, captures_
 
 ### [ Zimbabwean Prime Minister Morgan Tsvangirai is injured and his wife, Susan, killed in a car accident south of Harare. ](/news/2009/03/6/zimbabwean-prime-minister-morgan-tsvangirai-is-injured-and-his-wife-susan-killed-in-a-car-accident-south-of-harare.md)
 _Context: Harare, Morgan Tsvangirai, Prime Minister, Zimbabwe, car accident, wife_

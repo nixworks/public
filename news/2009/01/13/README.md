@@ -1,7 +1,7 @@
 ## [2009-01-13](/news/2009/01/13/index.md)
 
 ### [ Despite an agreement to resume delivery of natural gas from Russia to Europe, the European Union says that "very limited" amounts were transmitted. ](/news/2009/01/13/despite-an-agreement-to-resume-delivery-of-natural-gas-from-russia-to-europe-the-european-union-says-that-very-limited-amounts-were-tran.md)
-_Context: EU, Europe, Russia, Russia-Ukraine gas disputes, natural gas_
+_Context: Europe, European Union, Russia, Russia-Ukraine gas disputes, natural gas_
 
 ### [ Israeli Defense Forces advance on Gaza City and engage in urban warfare with Hamas militants. ](/news/2009/01/13/israeli-defense-forces-advance-on-gaza-city-and-engage-in-urban-warfare-with-hamas-militants.md)
 _Context: Gaza, Hamas, Israel, Israel Defense Forces, fire, militant, urban warfare_

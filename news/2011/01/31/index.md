@@ -16,7 +16,7 @@ _Context: Pakistan, Peshawar, suicide bomber_
 Police in Bangladesh fire tear gas and rubber bullets to disperse villagers protesting against government plans to build a new airport for Dhaka.
 
 ### [At least 17 people are killed and scores more injured in a shootout between opposing government security forces in Mogadishu, Somalia. ](/news/2011/01/31/at-least-17-people-are-killed-and-scores-more-injured-in-a-shootout-between-opposing-government-security-forces-in-mogadishu-somalia.md)
-_Context: Mogadishu, Somalia_
+_Context: Mogadishu, Somali_
 
 ### [Pharmaceutical companies Genzyme and Sanofi-Aventis are reported to have reached an "agreement in principle" on a deal in which Sanofi, a French company, will acquire Cambridge-based Genzyme for an undetermined amount of money. ](/news/2011/01/31/pharmaceutical-companies-genzyme-and-sanofi-aventis-are-reported-to-have-reached-an-agreement-in-principle-on-a-deal-in-which-sanofi-a-fr.md)
 Genzyme and Sanofi-Aventis have reached a so called &ldquo;agreement in principle&rdquo; for a deal in which Sanofi will acquire Genzyme. 
@@ -34,7 +34,7 @@ _Context: Japanese government, Kyushu, Shinmoedake, volcanic activity_
 _Context: Anna Bligh, Australia, Cyclone Yasi, Premier, Queensland_
 
 ### [The European Union and United States impose new sanctions against Belarus President Alexander Lukashenko and close associates. ](/news/2011/01/31/the-european-union-and-united-states-impose-new-sanctions-against-belarus-president-alexander-lukashenko-and-close-associates.md)
-_Context: Alexander Lukashenko, Belarus, EU, United States_
+_Context: Alexander Lukashenko, Belarus, European Union, United States_
 
 ### [Oman says it has uncovered a spy network from the United Arab Emirates operating in the country. ](/news/2011/01/31/oman-says-it-has-uncovered-a-spy-network-from-the-united-arab-emirates-operating-in-the-country.md)
 Oman says it has uncovered a UAE spy network in the Gulf Arab state that targeted its government and military.

@@ -7,7 +7,7 @@ A Yemeni security official says some 1,200 inmates fled a prison after guards de
 The Philippines has put off signing an agreement to join the China-led Asian Infrastructure and Investment Bank (AIIB), noting the need to carefully study the proposal. 
 
 ### [The Greek bailout program by the European Union ends today with Greece failing to make a payment to the International Monetary Fund. ](/news/2015/06/30/the-greek-bailout-program-by-the-european-union-ends-today-with-greece-failing-to-make-a-payment-to-the-international-monetary-fund.md)
-_Context: EU, Greece, Greek government-debt crisis, International Monetary Fund_
+_Context: European Union, Greece, Greek government-debt crisis, International Monetary Fund_
 
 ### [British reinsurance broker the Willis Group announces a merger with American company Towers Watson to create an $18 billion company. ](/news/2015/06/30/british-reinsurance-broker-the-willis-group-announces-a-merger-with-american-company-towers-watson-to-create-an-18-billion-company.md)
 _Context: Towers Watson, Willis Group, reinsurance_
@@ -25,7 +25,7 @@ SACRAMENTO — Gov. Jerry Brown signed legislation Tuesday that will make Califo
 The Supreme Court en banc asks the Civil Registrar to respond to a petition filed by a young Filipino lawyer, who identified himself as openly gay 
 
 ### [ United States presidential election, 2016: New Jersey governor Chris Christie formally announces his candidacy for the Republican nomination for the 2016 presidential election. ](/news/2015/06/30/united-states-presidential-election-2016-p-new-jersey-governor-chris-christie-formally-announces-his-candidacy-for-the-republican-nominati.md)
-_Context: 2016 U.S. presidential election, Chris Christie, New Jersey Governor, Republican Party presidential candidates, 2016_
+_Context: Chris Christie, New Jersey Governor, Republican Party presidential candidates, 2016, United States presidential election, 2016_
 
 ### [A leap second is added to the clock for the first time in 3 years. ](/news/2015/06/30/a-leap-second-is-added-to-the-clock-for-the-first-time-in-3-years.md)
 Midnight came later on Tuesday as for the first time in three years an extra second was added to the official time set by atomic clocks.

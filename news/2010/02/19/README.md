@@ -1,7 +1,7 @@
 ## [2010-02-19](/news/2010/02/19/index.md)
 
 ### [Bill McKibben and 350.org reacted to President Barack Obama and Copenhagen Accord. ](/news/2010/02/19/bill-mckibben-and-350-org-reacted-to-president-barack-obama-and-copenhagen-accord.md)
-_Context: 350.org, Barack Obama, Bill McKibben, Copenhagen Accord_
+_Context: 350.org, Bill McKibben, Copenhagen Accord, Obama_
 
 ### [Professional golfer Tiger Woods make a public apology over reports of having extramarital affairs. ](/news/2010/02/19/professional-golfer-tiger-woods-make-a-public-apology-over-reports-of-having-extramarital-affairs.md)
 _Context: Tiger Woods, extramarital affairs_

@@ -4,7 +4,7 @@
 _Context: 2011 Syrian uprising, Gulf Co-operation Council_
 
 ### [The Islamist al-Shabaab rebels in Somalia pull out of the capital Mogadishu. ](/news/2011/08/6/the-islamist-al-shabaab-rebels-in-somalia-pull-out-of-the-capital-mogadishu.md)
-_Context: Islamist, Mogadishu, Somalia, al-Shabaab_
+_Context: Islamist, Mogadishu, Somali, al-Shabaab_
 
 ### [Police in Saudi Arabia shoot dead a gunman who fired at the palace of Prince Nayef bin Abdul-Aziz Al Saud in Jeddah. ](/news/2011/08/6/police-in-saudi-arabia-shoot-dead-a-gunman-who-fired-at-the-palace-of-prince-nayef-bin-abdul-aziz-al-saud-in-jeddah.md)
 _Context: Crown Prince Nayef, Jeddah, Saudi Arabia_

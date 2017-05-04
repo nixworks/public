@@ -37,7 +37,7 @@ _Context: Cambodia, China's, Muslim, Uyghur_
 _Context: Channel Tunnel, London Heathrow Airport_
 
 ### [ Police recruit sniffer dogs and detectives in their hunt for the ''Arbeit macht frei'' sign missing from Auschwitz as appeals for its return are made by Israel, Poland and the European Union. ](/news/2009/12/19/police-recruit-sniffer-dogs-and-detectives-in-their-hunt-for-the-arbeit-macht-frei-sign-missing-from-auschwitz-as-appeals-for-its-retur.md)
-_Context: Arbeit macht frei, Auschwitz, EU, Israel, Poland, sniffer dog_
+_Context: Arbeit macht frei, Auschwitz, European Union, Israel, Poland, sniffer dog_
 
 ### [ Scientists announced the discovery of GJ 1214 b, an ocean planet orbiting a star in the Ophiuchus constellation. ](/news/2009/12/19/scientists-announced-the-discovery-of-gj-1214-b-an-ocean-planet-orbiting-a-star-in-the-ophiuchus-constellation.md)
 _Context: GJ 1214 b, Ophiuchus, ocean planet_

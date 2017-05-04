@@ -40,7 +40,7 @@ _Context: California, Governor of California, Jerry Brown, drought_
 A stampede killed at least 18 people in Mumbai when a large crowd gathered to pay their last respects to a Muslim spiritual leader, the Press Trust of India news agency reported.
 
 ### [President Barack Obama announces a sprawling reform that would begin the process of change in the National Security Agency. ](/news/2014/01/17/president-barack-obama-announces-a-sprawling-reform-that-would-begin-the-process-of-change-in-the-national-security-agency.md)
-_Context: Barack Obama, National Security Agency_
+_Context: National Security Agency, Obama_
 
 ### [Australia apologizes to Indonesia for breaching its territorial waters while conducting operations against people smugglers in Operation Sovereign Borders. ](/news/2014/01/17/australia-apologizes-to-indonesia-for-breaching-its-territorial-waters-while-conducting-operations-against-people-smugglers-in-operation-sov.md)
 The Abbott government has admitted Australia breached Indonesian territorial waters during operations to deter asylum seeker boats.

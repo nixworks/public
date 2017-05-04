@@ -22,7 +22,7 @@ _Context: 2016 Atlantic hurricane season, Earl's, Mexico, Veracruz_
 _Context: China, People's Liberation Army Air Force, Scarborough Shoal, South China Sea, Spratly Islands, Su-30, Xian H-6, Xinhua News Agency, disputed, strategic bombers_
 
 ### [Hawaii U.S. Senator Brian Schatz criticizes Donald Trump for calling the Philippines a 'terrorist' country. ](/news/2016/08/6/hawaii-u-s-senator-brian-schatz-criticizes-donald-trump-for-calling-the-philippines-a-terrorist-country.md)
-_Context: 2016 U.S. presidential election, Brian Schatz, Donald Trump, Hawaii, Philippine_
+_Context: Brian Schatz, Donald Trump, Hawaii, Philippine, United States presidential election, 2016_
 
 ## [Previous Day...](/news/2016/08/5/index.md)
 

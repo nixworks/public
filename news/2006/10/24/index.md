@@ -1,7 +1,7 @@
 ## [2006-10-24](/news/2006/10/24/index.md)
 
 ### [ Ethiopian Prime Minister Meles Zenawi accuses the Government of Eritrea of jeopardizing regional stability by engaging in a proxy war through its assistance to the Islamic Courts Union in Somalia. Zenawi warns the Ethiopian Parliament that "Jihadists are amassing their forces near our borders."](/news/2006/10/24/ethiopian-prime-minister-meles-zenawi-accuses-the-government-of-eritrea-of-jeopardizing-regional-stability-by-engaging-in-a-proxy-war-throu.md)
-_Context: Ethiopian Prime Minister, Islamic Courts Union, Meles Zenawi, Somalia, government, jihad, proxy war_
+_Context: Ethiopian Prime Minister, Islamic Courts Union, Meles Zenawi, Somali, government, jihad, proxy war_
 
 ### [ The Dow Jones Industrial Average closes at another record high. ](/news/2006/10/24/the-dow-jones-industrial-average-closes-at-another-record-high.md)
 _Context: Dow Jones Industrial Average_
@@ -10,7 +10,7 @@ _Context: Dow Jones Industrial Average_
 _Context: Australia, Fiji, Manasseh Sogavare, Regional Assistance Mission to the Solomon Islands, Solomon Islands Prime Minister_
 
 ### [ The European Union announces it plans to assist Kazakhstan in developing nuclear power for "peaceful purposes." ](/news/2006/10/24/the-european-union-announces-it-plans-to-assist-kazakhstan-in-developing-nuclear-power-for-peaceful-purposes.md)
-_Context: EU, Kazakhstan_
+_Context: European Union, Kazakhstan_
 
 ### [ Iranian President Mahmoud Ahmadinejad opposes a bill in Iranian parliament that would require the fingerprinting of any citizens of the United States that are visiting Iran, stating, "We do not have a problem with American people. We oppose only the U.S. government." ](/news/2006/10/24/iranian-president-mahmoud-ahmadinejad-opposes-a-bill-in-iranian-parliament-that-would-require-the-fingerprinting-of-any-citizens-of-the-uni.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

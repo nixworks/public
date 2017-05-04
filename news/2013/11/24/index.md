@@ -22,7 +22,7 @@ _Context: Central American Parliament, Congress, Honduran, Honduran general elec
 Low turnout and vote abuses marred Sunday elections meant to complete democratic transition in Mali, after a coup last year led to an Islamist takeover of the north that was crushed by French military intervention.
 
 ### [Euromaidan:More than 100,000 people protest in Kiev, Ukraine, against the decision of Viktor Yanukovych's government to suspend preparations for signing of the association agreement with the European Union under pressure from Russia. ](/news/2013/11/24/euromaidan-pmore-than-100-000-people-protest-in-kiev-ukraine-against-the-decision-of-viktor-yanukovych-s-government-to-suspend-preparation.md)
-_Context: EU, Euromaidan, Kiev, Russia, Ukraine-European Union relations, Ukrainian, Viktor Yanukovych_
+_Context: Euromaidan, European Union, Kiev, Russia, Ukraine-European Union relations, Ukrainian, Viktor Yanukovych_
 
 ### [Pope Francis venerates the purported remains of his first ever predecessor, as the Vatican gives a public display for what some claim are St Peter's remains. ](/news/2013/11/24/pope-francis-venerates-the-purported-remains-of-his-first-ever-predecessor-as-the-vatican-gives-a-public-display-for-what-some-claim-are-st.md)
 Pope Francis holds relics thought to belong to the apostle during mass at St Peter&#x27;s Square

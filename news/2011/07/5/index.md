@@ -34,7 +34,7 @@ Sony Music Ireland has said it is looking into an incident on its website after 
 Former French finance minister Christine Lagarde is beginning her official duties as the managing director of the IMF.
 
 ### [European sovereign debt crisis:Bailouts for Greece's financial system are challenged in a German court amid concerns that the result may rock the European Union. ](/news/2011/07/5/european-sovereign-debt-crisis-pbailouts-for-greece-s-financial-system-are-challenged-in-a-german-court-amid-concerns-that-the-result-may-ro.md)
-_Context: EU, European sovereign-debt crisis_
+_Context: European Union, European sovereign-debt crisis_
 
 ### [Trainmaker Bombardier Transportation cuts 1,400 jobs from its United Kingdom factory in the English city of Derby after missing out on the PS1.4bn Thameslink project. ](/news/2011/07/5/trainmaker-bombardier-transportation-cuts-1-400-jobs-from-its-united-kingdom-factory-in-the-english-city-of-derby-after-missing-out-on-the-a.md)
 Train maker Bombardier, which missed out on the £1.4bn Thameslink contract, says it will cut more than 1,400 jobs at its Derby plant.
@@ -85,7 +85,7 @@ The funeral for Const. Garrett Styles, the Ontario police officer who was dragge
 The Supreme Court dismisses an attempt by police to suspend a legal ruling limiting police bail in England and Wales to a maximum of four days.
 
 ### [A Somali man, Ahmed Abdulkadir Warsame, is charged in the US city of New York with assisting the terrorist groups Al Shaabab and Al Qaeda in the Arabian Peninsula. ](/news/2011/07/5/a-somali-man-ahmed-abdulkadir-warsame-is-charged-in-the-us-city-of-new-york-with-assisting-the-terrorist-groups-al-shaabab-and-al-qaeda-in.md)
-_Context: New York, Somalia, al-Qaida, al-Shabaab_
+_Context: New York, Somali, al-Qaida, al-Shabaab_
 
 ### [Casey Anthony is acquitted of murder in relation to the death of her daughter Caylee, but guilty on four counts of misdemeanor providing false information to a law enforcement officer. ](/news/2011/07/5/casey-anthony-is-acquitted-of-murder-in-relation-to-the-death-of-her-daughter-caylee-but-guilty-on-four-counts-of-misdemeanor-providing-fal.md)
 Jurors in Orlando today found Casey Anthony not guilty of murder in the death of her 2-year-old daughter, Caylee.

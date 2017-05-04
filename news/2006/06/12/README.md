@@ -7,7 +7,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: Florida, Jeb Bush, Tropical Storm Alberto, United States_
 
 ### [ Albania signs a Stabilisation and Association Agreement, a first step toward joining the European Union. ](/news/2006/06/12/albania-signs-a-stabilisation-and-association-agreement-a-first-step-toward-joining-the-european-union.md)
-_Context: Albania, Association Agreement, EU, Enlargement of the European Union, signs_
+_Context: Albania, Association Agreement, Enlargement of the European Union, European Union, signs_
 
 ### [ U.S. officials say that North Korea is planning to test the Taepodong-2 intercontinental ballistic missile that may be able to reach the United States. ](/news/2006/06/12/u-s-officials-say-that-north-korea-is-planning-to-test-the-taepodong-2-intercontinental-ballistic-missile-that-may-be-able-to-reach-the-un.md)
 _Context: North Korea, Taepodong-2, United States, intercontinental ballistic missile_

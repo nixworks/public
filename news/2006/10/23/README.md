@@ -19,7 +19,7 @@ _Context: Baja California, Hurricane Paul, Mexico, Pacific, Saffir-Simpson Hurri
 _Context: Coca-Cola, conspiracy_
 
 ### [ Authorities say an explosion at a coal mine in eastern Pennsylvania has killed one person. ](/news/2006/10/23/authorities-say-an-explosion-at-a-coal-mine-in-eastern-pennsylvania-has-killed-one-person.md)
-_Context: Pennsylvania, coal, mining_
+_Context: Pennsylvania, coal, mine_
 
 ### [ Avigdor Liberman signs a coalitionary agreement with Israeli Prime Minister Ehud Olmert to join the cabinet as Minister for Strategic Affairs, a new position. ](/news/2006/10/23/avigdor-liberman-signs-a-coalitionary-agreement-with-israeli-prime-minister-ehud-olmert-to-join-the-cabinet-as-minister-for-strategic-affai.md)
 Israel Our Home chairman, Olmert sign agreement according to which Lieberman will be charged with establishing policy in respect to Israel&#39;s strategic threats ‘without compromising the authority of other ministers’ 

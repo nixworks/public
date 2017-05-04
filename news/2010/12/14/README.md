@@ -7,7 +7,7 @@ _Context: Philippine, communist insurgency_
 _Context: New Zealand, Pike River Mine, Pike River Mine disaster, South Island_
 
 ### [Ireland's parliament approved a controversial budget package at the behest of the International Monetary Fund, aimed at shoring up Ireland's banks while getting the country's budget deficit within European Union limits. ](/news/2010/12/14/ireland-s-parliament-approved-a-controversial-budget-package-at-the-behest-of-the-international-monetary-fund-aimed-at-shoring-up-ireland-s.md)
-_Context: EU, International Monetary Fund, Ireland_
+_Context: European Union, International Monetary Fund, Ireland_
 
 ### [At least 20 people are killed in a garment factory fire near the Bangladeshi capital Dhaka. ](/news/2010/12/14/at-least-20-people-are-killed-in-a-garment-factory-fire-near-the-bangladeshi-capital-dhaka.md)
 At least 25 killed and over 100 injured as fire sweeps through garment factory near Dhaka.

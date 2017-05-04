@@ -1,7 +1,7 @@
 ## [2006-12-19](/news/2006/12/19/index.md)
 
 ### [ Somali Civil War: Somalia's Islamic Courts Union (ICU) say they are finalising plans to fight Ethiopian forces deployed in the country as a seven-day ultimatum for Ethiopia to pull out its troops nears its deadline. ](/news/2006/12/19/somali-civil-war-somalia-s-islamic-courts-union-icu-say-they-are-finalising-plans-to-fight-ethiopian-forces-deployed-in-the-country-as-a.md)
-_Context: Ethiopia, Ethiopian war in Somalia, Islamic Courts Union, Somalia, War in Somalia_
+_Context: Ethiopia, Ethiopian war in Somalia, Islamic Courts Union, Somali, War in Somalia_
 
 ### [ Kyrgyz Prime Minister Felix Kulov resigns, automatically dismissing the Ministers of the Kyrgyz government, after political parties throughout the country called on him to resign. Deputy Prime Minister Daniar Usenov says President Kurmanbek Bakiyev should dissolve the Parliament and hold elections. ](/news/2006/12/19/kyrgyz-prime-minister-felix-kulov-resigns-automatically-dismissing-the-ministers-of-the-kyrgyz-government-after-political-parties-through.md)
 _Context: Daniar Usenov, Felix Kulov, Kurmanbek Bakiyev, Kyrgyz Prime Minister, Kyrgyz government, President_

@@ -4,7 +4,7 @@
 Around 60 people have been killed in sectarian clashes in Central African Republic between local militias and former rebels, witnesses and a local official said on Wednesday, as France increased pressure for international intervention.
 
 ### [U.S. President Barack Obama nominates Janet Yellen to become the next chair of the Federal Reserve after Ben Bernanke leaves that office. ](/news/2013/10/9/u-s-president-barack-obama-nominates-janet-yellen-to-become-the-next-chair-of-the-federal-reserve-after-ben-bernanke-leaves-that-office.md)
-_Context: Barack Obama, Ben Bernanke, Federal Reserve, Janet Yellen_
+_Context: Ben Bernanke, Federal Reserve, Janet Yellen, Obama_
 
 ### [A fire at a garment factory in Gazipur, Bangladesh, kills 10 people. ](/news/2013/10/9/a-fire-at-a-garment-factory-in-gazipur-bangladesh-kills-10-people.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

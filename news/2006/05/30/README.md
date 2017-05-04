@@ -13,7 +13,7 @@ _Context: BASF, Engelhard, U.S. dollar, catalytic converter_
 _Context: Democratic Republic of the Congo, Ituri, Nationalist and Integrationist Front, United Nations, peacekeepers_
 
 ### [ The European Court of Justice rules illegal an EU-US agreement to pass airline passenger data to the US authorities, as it does not ensure privacy protection for European passengers. ](/news/2006/05/30/the-european-court-of-justice-rules-illegal-an-eu-us-agreement-to-pass-airline-passenger-data-to-the-us-authorities-as-it-does-not-ensure.md)
-_Context: EU, European Court of Justice, United States_
+_Context: European Court of Justice, European Union, United States_
 
 ### [ The Constitutional Council of Chad, the highest court in Chad, confirms Idriss Dby's victory in the presidential elections which took place on May 3, 2006. However, the court only gives him 64.67% of the vote, instead of his administration's claim of 77.4%. Turnout was also reduced to 53.08% instead of the previous 60%. ](/news/2006/05/30/the-constitutional-council-of-chad-the-highest-court-in-chad-confirms-idriss-deby-s-victory-in-the-presidential-elections-which-took-plac.md)
 _Context: Chad, Constitutional Council of Chad, Idriss Deby, presidential elections_

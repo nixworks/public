@@ -1,7 +1,7 @@
 ## [2009-05-4](/news/2009/05/4/index.md)
 
 ### [ A South Korean Navy destroyer rescues a North Korean cargo ship from Somali pirates. ](/news/2009/05/4/a-south-korean-navy-destroyer-rescues-a-north-korean-cargo-ship-from-somali-pirates.md)
-_Context: North Korea, Somali pirates, Somalia, South Korea, South Korean Navy, cargo ship, destroyer_
+_Context: North Korea, Somali, Somali pirates, South Korea, South Korean Navy, cargo ship, destroyer_
 
 ### [ A bus collides with a building in Ilam Province, Iran, killing 28 people and injuring nine others. ](/news/2009/05/4/a-bus-collides-with-a-building-in-aalam-province-iran-killing-28-people-and-injuring-nine-others.md)
 _Context: Ilam, Iran, building, bus_

@@ -7,7 +7,7 @@ _Context: 2013 Srinagar attack, Bemina, CRPF, India, Kashmir, Srinagar_
 _Context: Afghanistan, Kunduz Province, Taliban insurgency_
 
 ### [Syrian civil war:Ahmad Shihadeh, a member of the European Union's delegation in Syria, is killed in a rocket attack in a Damascus suburb. ](/news/2013/03/13/syrian-civil-war-pahmad-shihadeh-a-member-of-the-european-union-s-delegation-in-syria-is-killed-in-a-rocket-attack-in-a-damascus-suburb.md)
-_Context: Damascus, EU, Syria, Syrian Civil War_
+_Context: Damascus, European Union, Syria, Syrian Civil War_
 
 ### [Kurdish-Turkish conflict:Kurdish rebels release eight Turkish citizens that had been held captive for two years. ](/news/2013/03/13/kurdishaturkish-conflict-pkurdish-rebels-release-eight-turkish-citizens-that-had-been-held-captive-for-two-years.md)
 _Context: Kurdish, Kurdish-Turkish conflict, Turkey_
@@ -19,7 +19,7 @@ _Context: Nigeria, Nigerian Sharia conflict_
 Bruno Latour, anthropologist and sociologist, is this year&#039;s Holberg Prize laureate. Latour is professor at Sciences Po, Paris. Photo credit: Manuel Braun. The Board of the Ludvig Holberg Memorial Fund has decided to award the 2013 Holberg International Memorial Prize to anthropologist and sociologist Bruno Latour. The Prize amount is NOK 4.5 million (EUR 610,000/USD 790,000).
 
 ### [The European Parliament rejects a European Union budget for the first time in its history. ](/news/2013/03/13/the-european-parliament-rejects-a-european-union-budget-for-the-first-time-in-its-history.md)
-_Context: EU, European Parliament, budget_
+_Context: European Parliament, European Union, budget_
 
 ### [A twin-engine Embraer 821 plane crashes in the Brazilian state of Para, killing all nine passengers and the pilot. ](/news/2013/03/13/a-twin-engine-embraer-821-plane-crashes-in-the-brazilian-state-of-para-killing-all-nine-passengers-and-the-pilot.md)
 A twin-engine plane has crashed in the Brazilian Amazon state of Para, killing all nine passengers and the pilot.

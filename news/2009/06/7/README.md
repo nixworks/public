@@ -1,7 +1,7 @@
 ## [2009-06-7](/news/2009/06/7/index.md)
 
 ### [ The European Union's parliamentary election concludes in Austria, Belgium, Bulgaria, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Italy, Lithuania, Luxembourg, Poland, Portugal, Romania, Slovenia, Spain, and Sweden. ](/news/2009/06/7/the-european-union-s-parliamentary-election-concludes-in-austria-belgium-bulgaria-denmark-estonia-finland-france-germany-greece-hu.md)
-_Context: Austria, Belgium, Bulgaria, Denmark, EU, Estonia, European Parliament, Finland, France, Germany, Greece, Hungary, Italy, Lithuania, Luxembourg, Poland, Portugal, Romania, Slovenia, Spain, Sweden, elections_
+_Context: Austria, Belgium, Bulgaria, Denmark, Estonia, European Parliament, European Union, Finland, France, Germany, Greece, Hungary, Italy, Lithuania, Luxembourg, Poland, Portugal, Romania, Slovenia, Spain, Sweden, elections_
 
 ### [ Air France Flight 447: Air France replaces airspeed sensors on its Airbus aircraft. ](/news/2009/06/7/air-france-flight-447-p-air-france-replaces-airspeed-sensors-on-its-airbus-aircraft.md)
 Search crews have spotted more bodies and found a large amount of debris from the Air France plane that plunged into the Atlantic ocean.
@@ -25,7 +25,7 @@ A co-ordinated plot by British cabinet ministers was behind the resignations las
 _Context: 14th Dalai Lama, Dalai Lama, France, Paris, honorary citizenship_
 
 ### [ Radio Shabelle director Moqtar Mohamed Hirabe is killed in Mogadishu, Somalia. ](/news/2009/06/7/radio-shabelle-director-moqtar-mohamed-hirabe-is-killed-in-mogadishu-somalia.md)
-_Context: Mogadishu, Somalia, War in Somalia (2009-)_
+_Context: Mogadishu, Somali, War in Somalia (2009-)_
 
 ### [ ''Billy Elliot the Musical'' wins Best Musical and ''God of Carnage'' wins Best Play at the 63rd Tony Awards. ](/news/2009/06/7/billy-elliot-the-musical-wins-best-musical-and-god-of-carnage-wins-best-play-at-the-63rd-tony-awards.md)
 _Context: 63rd, Best Musical, Best Play, Billy Elliot the Musical, God of Carnage, Tony Award_

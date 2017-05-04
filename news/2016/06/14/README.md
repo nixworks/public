@@ -19,7 +19,7 @@ A small plane has crashed in Papua ripping through several houses near a provinc
 Employees of a fish processing plant in the tiny Aleutian village were heading for dinner when their van crashed on Tuesday afternoon.
 
 ### [Hansjorg Haber|de, the European Union's top envoy to Turkey, resigns effective  August. Omer Celik, Turkish Minister of European Union Affairs, had complained that Haber had shown disrespect for Turkey's national values, and for President Tayyip Erdogan. EU officials declined to comment on the reason for Haber's resignation. ](/news/2016/06/14/hansjaprg-haber-de-the-european-union-s-top-envoy-to-turkey-resigns-effective-august-amer-aelik-turkish-minister-of-european-union-af.md)
-_Context: EU, European Union-Turkey relations, Minister of European Union Affairs, Omer Celik, Recep Tayyip Erdogan, Turkey_
+_Context: European Union, European Union-Turkey relations, Minister of European Union Affairs, Omer Celik, Recep Tayyip Erdogan, Turkey_
 
 ### [An armed man, holding two people hostage in a Walmart in Amarillo, Texas, is shot and killed by a police SWAT unit. No other injuries are reported. ](/news/2016/06/14/an-armed-man-holding-two-people-hostage-in-a-walmart-in-amarillo-texas-is-shot-and-killed-by-a-police-swat-unit-no-other-injuries-are-re.md)
 An armed man was fatally shot by police after holding two people hostage in an Amarillo, Texas, Walmart store on Tuesday in an incident law enforcement described as workplace violence.

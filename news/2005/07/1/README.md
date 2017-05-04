@@ -13,7 +13,7 @@ _Context: Bali bomber, Indonesia, Jakarta_
 _Context: Sandra Day O'Connor, Supreme Court of the United States, n:United States Supreme Court Justice O'Connor to retire_
 
 ### [ The UK assumes the rotating presidency of the European Union amidst its funding crisis. ([http://news.bbc.co.uk/1/hi/uk_politics/4639683.stm BBC News])](/news/2005/07/1/the-uk-assumes-the-rotating-presidency-of-the-european-union-amidst-its-funding-crisis-http-news-bbc-co-uk-1-hi-uk_politics-4639683-st.md)
-_Context: EU_
+_Context: European Union_
 
 ### [ The members of the Australian Senate elected at the election of 2004 take office, granting the government of John Howard control of both Houses of Parliament, the first time a government has had such power since 1981. ](/news/2005/07/1/the-members-of-the-australian-senate-elected-at-the-election-of-2004-take-office-granting-the-government-of-john-howard-control-of-both-ho.md)
 _Context: John Howard, Parliament, election of 2004, federal representation in Australia_

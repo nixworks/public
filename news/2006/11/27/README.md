@@ -10,7 +10,7 @@ _Context: Joseph Kabila, Supreme Court of the Democratic Republic of the Congo, 
 _Context: F-16, Fallujah, Iraq, Iraq War, United States Air Force, downed by ground fire_
 
 ### [ Somali Civil War: The Islamic Courts Union that controls much of southern Somalia has revealed they would attack Ethiopian forces in Galkayo in Mudug province, central Somalia. ](/news/2006/11/27/somali-civil-war-the-islamic-courts-union-that-controls-much-of-southern-somalia-has-revealed-they-would-attack-ethiopian-forces-in-galkay.md)
-_Context: Galkayo, Islamic Courts Union, Mudug province, Somalia, War in Somalia, its troops have invaded_
+_Context: Galkayo, Islamic Courts Union, Mudug province, Somali, War in Somalia, its troops have invaded_
 
 ### [ The British government rejects proposals to increase the length of sound recording's copyright protection from 50 years to 95 years. This means that Sir Cliff Richard's earliest songs will come out of copyright in 2008, and the earliest songs recorded by the Beatles in 2013. Songs composed and/or written will still have copyright for 70 years after the author's death. ](/news/2006/11/27/the-british-government-rejects-proposals-to-increase-the-length-of-sound-recording-s-copyright-protection-from-50-years-to-95-years-this-m.md)
 _Context: 2008, 2013, Cliff Richard, His Majesty's Government, The Beatles, copyright_

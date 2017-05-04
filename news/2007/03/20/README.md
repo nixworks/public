@@ -34,7 +34,7 @@ _Context: Deputy White House Chief of Staff, George W. Bush administration, Harr
 _Context: China's, France, death penalty, extradited, international agreement_
 
 ### [ European Union High Representative for the Common Foreign and Security Policy Javier Solana says that the EU is doing all it can to find Alan Johnston, the BBC Gaza correspondent who has been missing for 8 days. ](/news/2007/03/20/european-union-high-representative-for-the-common-foreign-and-security-policy-javier-solana-says-that-the-eu-is-doing-all-it-can-to-find-al.md)
-_Context: Alan Johnston, BBC, EU, Gaza Strip, High Representative for the Common Foreign and Security Policy, Javier Solana_
+_Context: Alan Johnston, BBC, European Union, Gaza Strip, High Representative for the Common Foreign and Security Policy, Javier Solana_
 
 ### [ At least 63 people die in a fire in a home for elderly and disabled people in a village in Russia's Krasnodar Krai. ](/news/2007/03/20/at-least-63-people-die-in-a-fire-in-a-home-for-elderly-and-disabled-people-in-a-village-in-russia-s-krasnodar-krai.md)
 _Context: Krasnodar Krai, Russia, fire, nursing home_

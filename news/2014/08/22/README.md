@@ -7,7 +7,7 @@ _Context: Syria, Syrian Civil War, United Nations_
 Israeli Prime Minister Netanyahu says army and intelligence operations will &quot;intensify&quot; after a four-year-old boy is killed by fire from Gaza.
 
 ### [War in Donbass:Russian aid convoys enter eastern Ukraine without permission from the Ukrainian government, sparking condemnation from the US, the EU, and NATO, and prompting the UN to hold an emergency meeting to discuss the action. No other country sent humanitarian aid to the region. ](/news/2014/08/22/war-in-donbass-prussian-aid-convoys-enter-eastern-ukraine-without-permission-from-the-ukrainian-government-sparking-condemnation-from-the-u.md)
-_Context: EU, Kiev, NATO, United Nations, War in Donbass, eastern Ukraine_
+_Context: European Union, Kiev, NATO, United Nations, War in Donbass, eastern Ukraine_
 
 ### [Iraqi insurgency (2011-present):A suicide bomber and multiple gunmen, suspected to be Shia militiamen, attack a Sunni mosque in the Diyala province, killing at least 65 people.  ](/news/2014/08/22/iraqi-insurgency-2011apresent-pa-suicide-bomber-and-multiple-gunmen-suspected-to-be-shia-militiamen-attack-a-sunni-mosque-in-the-diyal.md)
 _Context: Diyala Governorate, Iraqi insurgency (2011-present), attack a Sunni mosque_

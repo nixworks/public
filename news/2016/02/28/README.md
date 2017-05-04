@@ -7,7 +7,7 @@ _Context: Afghan police, Helmand Province, War in Afghanistan (2015-present)_
 Over 70 people were killed and 100 others wounded in Sadr City, a southern suburb of the Iraqi capital, as two bombs went off at a crowded market, according to Reuters. Islamic State militants claim the attack.
 
 ### [Two al-Shabaab suicide bombers kill at least 40 people in the Somali town of Baidoa. ](/news/2016/02/28/two-al-shabaab-suicide-bombers-kill-at-least-40-people-in-the-somali-town-of-baidoa.md)
-_Context: Baidoa, Somalia, War in Somalia (2009-present), al-Shabaab_
+_Context: Baidoa, Somali, War in Somalia (2009-present), al-Shabaab_
 
 ### [The 88th Academy Awards are held at the Dolby Theatre in Hollywood, California. ](/news/2016/02/28/the-88th-academy-awards-are-held-at-the-dolby-theatre-in-hollywood-california.md)
 The Oscars 2016 will air on Sunday, Feb. 28, at 8:30 p.m. EST — find out how to watch the awards ceremony online!

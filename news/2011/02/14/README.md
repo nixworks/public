@@ -1,7 +1,7 @@
 ## [2011-02-14](/news/2011/02/14/index.md)
 
 ### [At least seven people are killed in clashes between rival militant groups in Somalia. ](/news/2011/02/14/at-least-seven-people-are-killed-in-clashes-between-rival-militant-groups-in-somalia.md)
-_Context: Somalia_
+_Context: Somali_
 
 ### [Julian Assange's mother criticises leading figures in the U.S. government who called for her son's assassination on television, and expresses concerns that her son is being targeted by an American fatwa similar to the one brought against the writer Salman Rushdie in 1989. ](/news/2011/02/14/julian-assange-s-mother-criticises-leading-figures-in-the-u-s-government-who-called-for-her-son-s-assassination-on-television-and-expresse.md)
 _Context: ''The Satanic Verses'' controversy, Julian Assange, Salman Rushdie, fatwa_
@@ -76,7 +76,7 @@ The Palestinian cabinet will tender resignations Monday after which Prime Minist
 _Context: Algeria, Mourad Medelci, state of emergency_
 
 ### [The President of the United States Barack Obama puts forward a budget for 2012 proposing heavy spending cuts but still predicting substantial budget deficits. ](/news/2011/02/14/the-president-of-the-united-states-barack-obama-puts-forward-a-budget-for-2012-proposing-heavy-spending-cuts-but-still-predicting-substantia.md)
-_Context: Barack Obama, budget deficits, federal government budget, president_
+_Context: Obama, budget deficits, federal government budget, president_
 
 ### [10 Downing Street receives a new cat to boost the battle against mice seen on television scuttling past British prime minister David Cameron. ](/news/2011/02/14/10-downing-street-receives-a-new-cat-to-boost-the-battle-against-mice-seen-on-television-scuttling-past-british-prime-minister-david-cameron.md)
 _Context: 10 Downing Street, David Cameron_

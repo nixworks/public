@@ -1,7 +1,7 @@
 ## [2015-05-5](/news/2015/05/5/index.md)
 
 ### [Curtis Culwell Center attack: ISIS claims responsibility for the attack on an exhibition of drawings of the Prophet Muhammad in the American city of Garland, Texas. One of the suspects was previously interrogated and surveilled by the FBI having visited Somalia, and both suspects praised ISIS in social media. ](/news/2015/05/5/curtis-culwell-center-attack-isis-claims-responsibility-for-the-attack-on-an-exhibition-of-drawings-of-the-prophet-muhammad-in-the-american.md)
-_Context: Curtis Culwell Center attack, Garland, Texas, ISIS, Islamic State in Iraq and the Levant, Muhammad, Somalia_
+_Context: Curtis Culwell Center attack, Garland, Texas, ISIS, Islamic State in Iraq and the Levant, Muhammad, Somali_
 
 ### [Indonesia permanently bans domestic workers from employment in the Middle East citing "many problems" regarding "labor norms and human rights violations". ](/news/2015/05/5/indonesia-permanently-bans-domestic-workers-from-employment-in-the-middle-east-citing-many-problems-regarding-labor-norms-and-human-right.md)
 Jakarta angry over the recent execution of two Indonesian women found guilty of murder in Saudi Arabia
@@ -22,7 +22,7 @@ _Context: Free Trade Agreement_
 John Kerry became the first U.S. secretary of state ever to travel to Somalia on Monday.
 
 ### [The President of the United States Barack Obama nominates Joseph F. Dunford, Jr., the Commandant of the United States Marine Corps as the next Chairman of the Joint Chiefs of Staff. ](/news/2015/05/5/the-president-of-the-united-states-barack-obama-nominates-joseph-f-dunford-jr-the-commandant-of-the-united-states-marine-corps-as-the-ne.md)
-_Context: Barack Obama, Chairman of the Joint Chiefs of Staff, Commandant of the United States Marine Corps, Joseph F. Dunford, Jr._
+_Context: Chairman of the Joint Chiefs of Staff, Commandant of the United States Marine Corps, Joseph F. Dunford, Jr., Obama_
 
 ### [2016 United States presidential election: Former Governor of Arkansas Mike Huckabee announces that he is seeking the Republican Party nomination. ](/news/2015/05/5/2016-united-states-presidential-election-former-governor-of-arkansas-mike-huckabee-announces-that-he-is-seeking-the-republican-party-nomina.md)
 _Context: 2016 United States presidential election, Governor of Arkansas, Mike Huckabee, Republican_

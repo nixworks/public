@@ -1,7 +1,7 @@
 ## [2016-08-3](/news/2016/08/3/index.md)
 
 ### [The European Banking Authority supports retaining a 3% leverage ratio for most banks within the European Union. ](/news/2016/08/3/the-european-banking-authority-supports-retaining-a-3-leverage-ratio-for-most-banks-within-the-european-union.md)
-_Context: EU, European Banking Authority_
+_Context: European Banking Authority, European Union_
 
 ### [The search continues for survivors of a bridge collapse on the Mumbai-Goa highway over the flooded Savitri River in western India. Twenty two people and two buses are believed to be missing. ](/news/2016/08/3/the-search-continues-for-survivors-of-a-bridge-collapse-on-the-mumbai-goa-highway-over-the-flooded-savitri-river-in-western-india-twenty-tw.md)
 A British-era bridge across the Savitri River on the Mumbai-Goa highway collapsed late on Tuesday night, bringing traffic to a halt on the stretch. Around 20 people are believed to me missing. Two Mumbai-bound buses are among the dozen or so vehicles that are believed to have fallen into the flooded river.
