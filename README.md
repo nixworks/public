@@ -3,9 +3,6 @@
 ### [Buckingham Palace announces that 95-year-old Prince Philip, Duke of Edinburgh, the Prince consort of Queen Elizabeth II, will retire from royal duties in August. ](/news/2017/05/4/buckingham-palace-announces-that-95-year-old-prince-philip-duke-of-edinburgh-the-prince-consort-of-queen-elizabeth-ii-will-retire-from-ro.md)
 The 95-year-old royal will stop carrying out public engagements in autumn, Buckingham Palace says.
 
-### [Star Wars Day in the United States](/news/2017/05/4/star-wars-day-in-the-united-states.md)
-_Context: Star Wars Day, United States_
-
 ### [A severe dust storm impacts North China, causing flight cancellations at Beijing Capital International Airport. ](/news/2017/05/4/a-severe-dust-storm-impacts-north-china-causing-flight-cancellations-at-beijing-capital-international-airport.md)
 Beijing (AFP) - A major dust storm engulfed northern China and Beijing on Thursday, prompting authorities to cancel dozens of flights and urge children and the elderly to stay indoors.
 
@@ -29,7 +26,7 @@ In addition to the presidential museum and gardens, the new center will feature 
 ### [Puerto Rico files for the largest 'local government' bankruptcy in the United States. ](/news/2017/05/3/puerto-rico-files-for-the-largest-local-government-bankruptcy-in-the-united-states.md)
 Puerto Rico announced a historic restructuring of its public debt on Wednesday, touching off what may be the biggest bankruptcy ever in the $3.8 trillion U.S. municipal bond market.
 
-### [An explosion at a coal mine near Azadshahr, Iran, kills at least 21 miners and traps 39 others, according to state media. ](/news/2017/05/3/an-explosion-at-a-coal-mine-near-azadshahr-iran-kills-at-least-21-miners-and-traps-39-others-according-to-state-media.md)
+### [An explosion at a coal mine near Azadshahr, Iran, kills at least 35 miners and traps 39 others, according to state media. ](/news/2017/05/3/an-explosion-at-a-coal-mine-near-azadshahr-iran-kills-at-least-35-miners-and-traps-39-others-according-to-state-media.md)
 They are believed to be 1,800m underground and in danger from volatile gases.
 
 ### [A car crash at an auto auction in Billerica, Massachusetts, kills at least three and injures nine, two critically.  ](/news/2017/05/3/a-car-crash-at-an-auto-auction-in-billerica-massachusetts-kills-at-least-three-and-injures-nine-two-critically.md)

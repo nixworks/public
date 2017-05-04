@@ -9,7 +9,7 @@ In addition to the presidential museum and gardens, the new center will feature 
 ### [Puerto Rico files for the largest 'local government' bankruptcy in the United States. ](/news/2017/05/3/puerto-rico-files-for-the-largest-local-government-bankruptcy-in-the-united-states.md)
 Puerto Rico announced a historic restructuring of its public debt on Wednesday, touching off what may be the biggest bankruptcy ever in the $3.8 trillion U.S. municipal bond market.
 
-### [An explosion at a coal mine near Azadshahr, Iran, kills at least 21 miners and traps 39 others, according to state media. ](/news/2017/05/3/an-explosion-at-a-coal-mine-near-azadshahr-iran-kills-at-least-21-miners-and-traps-39-others-according-to-state-media.md)
+### [An explosion at a coal mine near Azadshahr, Iran, kills at least 35 miners and traps 39 others, according to state media. ](/news/2017/05/3/an-explosion-at-a-coal-mine-near-azadshahr-iran-kills-at-least-35-miners-and-traps-39-others-according-to-state-media.md)
 They are believed to be 1,800m underground and in danger from volatile gases.
 
 ### [A car crash at an auto auction in Billerica, Massachusetts, kills at least three and injures nine, two critically.  ](/news/2017/05/3/a-car-crash-at-an-auto-auction-in-billerica-massachusetts-kills-at-least-three-and-injures-nine-two-critically.md)
