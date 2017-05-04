@@ -21,7 +21,7 @@ A federal judge on Thursday ordered Georgia to temporarily reopen voter registra
 ### [Voter turnout is predicted to be low as Algerians go to the polls to elect members of the People's National Assembly. ](/news/2017/05/4/voter-turnout-is-predicted-to-be-low-as-algerians-go-to-the-polls-to-elect-members-of-the-people-s-national-assembly.md)
 Despite fierce government campaign, many Algerians are more worried about rising costs of living than by poll outcome.
 
-### [The United States House of Representatives votes in favor of the repeal of the Patient Protection and Affordable Care Act and the passage of the American Health Care Act into a vote in the United States Senate, with a narrow vote of 217 to 213 with Republicans voting in favor and Democrats against. ](/news/2017/05/4/the-united-states-house-of-representatives-votes-in-favor-of-the-repeal-of-the-patient-protection-and-affordable-care-act-and-the-passage-of.md)
+### [The Republican-controlled United States House of Representatives votes in favor of the repeal of the 2010 Patient Protection and Affordable Care Act and passage of the House's 2017 American Health Care Act, by a narrow, 217-213 vote. Twenty Republicans and all Democrats opposed the bill, which now heads to the United States Senate for its legislative action. ](/news/2017/05/4/the-republican-controlled-united-states-house-of-representatives-votes-in-favor-of-the-repeal-of-the-2010-patient-protection-and-affordable.md)
 House Republicans plan to vote Thursday on the latest version of the American Health Care Act – their answer to ObamaCare. Here’s what’s the bill does.
 
 ## Opinion
