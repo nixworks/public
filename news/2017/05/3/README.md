@@ -3,7 +3,7 @@
 ### [A suicide bombing attack on a NATO convoy in Kabul kills eight civilians and wounds at least 28 people. ](/news/2017/05/3/a-suicide-bombing-attack-on-a-nato-convoy-in-kabul-kills-eight-civilians-and-wounds-at-least-28-people.md)
 A suicide bombing in the Afghan capital Kabul on Wednesday killed eight people and wounded at least 28, officials said, in an attack on a convoy of armored personnel carriers used by the NATO-led Resolute Support mission.
 
-### [Plans for a Chicago-based presidential library in honour of the former U.S. president Obama is revealed. ](/news/2017/05/3/plans-for-a-chicago-based-presidential-library-in-honour-of-the-former-u-s-president-obama-is-revealed.md)
+### [Plans for a Chicago-based presidential library in honour of the former U.S. president Obama are revealed. ](/news/2017/05/3/plans-for-a-chicago-based-presidential-library-in-honour-of-the-former-u-s-president-obama-are-revealed.md)
 In addition to the presidential museum and gardens, the new center will feature film and recording studios and several gardens.
 
 ### [Puerto Rico files for the largest 'local government' bankruptcy in the United States. ](/news/2017/05/3/puerto-rico-files-for-the-largest-local-government-bankruptcy-in-the-united-states.md)
@@ -21,7 +21,7 @@ Centrist Emmanuel Macron and Marine Le Pen, of the far-right Front National, go 
 ### [Somali Public Works Minister Abbas Abdullahi Sheikh Siraji is shot and killed in the capital Mogadishu. ](/news/2017/05/3/somali-public-works-minister-abbas-abdullahi-sheikh-siraji-is-shot-and-killed-in-the-capital-mogadishu.md)
 _Context: Abbas Abdullahi Sheikh Siraji, Somali_
 
-### [Recent FBI director James Comey is "mostly nauseous" on how he affected the recent elections. ](/news/2017/05/3/recent-fbi-director-james-comey-is-mostly-nauseous-on-how-he-affected-the-recent-elections.md)
+### [Recent FBI director James Comey is "mildly  nauseous" on hearing allegations the he affected the recent elections. ](/news/2017/05/3/recent-fbi-director-james-comey-is-mildly-nauseous-on-hearing-allegations-the-he-affected-the-recent-elections.md)
 _Context: FBI, James Comey, United States presidential election, 2016, nauseous_
 
 ### [Conservative politician Theresa May accuses European Union officials of trying to influence the upcoming elections. ](/news/2017/05/3/conservative-politician-theresa-may-accuses-european-union-officials-of-trying-to-influence-the-upcoming-elections.md)
