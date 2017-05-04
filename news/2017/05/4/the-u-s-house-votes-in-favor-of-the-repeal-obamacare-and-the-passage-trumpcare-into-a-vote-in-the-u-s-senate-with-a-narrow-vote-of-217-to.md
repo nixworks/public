@@ -1,0 +1,24 @@
+### [2017-05-4](/news/2017/05/4/index.md)
+
+# The U.S. House votes in favor of the repeal Obamacare and the passage Trumpcare into a vote in the U.S. Senate. With a narrow vote of 217 to 213 with Republicans voting in favor and Democrats against. 
+
+House Republicans plan to vote Thursday on the latest version of the American Health Care Act – their answer to ObamaCare. Here’s what’s the bill does.
+
+
+### Source:
+
+1. [CNN](http://www.cnn.com/2017/05/04/politics/health-care-vote/)
+2. [Fox News](http://www.foxnews.com/politics/2017/05/04/republican-health-care-bill-whats-in-it.html)
+
+### Related:
+
+1. [ United States Senator Arlen Specter of Pennsylvania switches from the Republican to the Democratic Party. ](/news/2009/04/28/united-states-senator-arlen-specter-of-pennsylvania-switches-from-the-republican-to-the-democratic-party.md) _Context: Democrats, Republicans, U.S., U.S. Senate_
+2. [ Braving the threat of a veto from United States President George W. Bush, U.S. Senate Republicans joined Democrats, voting ](/news/2005/10/5/braving-the-threat-of-a-veto-from-united-states-president-george-w-bush-u-s-senate-republicans-joined-democrats-voting.md) _Context: Democrats, Republicans, U.S., U.S. Senate_
+3. [ Election Day: In the 2002 midterm elections, Republicans receive a net gain of two seats of the closely divided U.S. Senate, retaking control of the body. The Republicans also retain control of the U.S. House of Representatives, with a net gain of eight House seats. Democrats make some gains in the state governors' races, with a net gain of three governorships.](/news/2002/11/5/election-day-in-the-2002-midterm-elections-republicans-receive-a-net-gain-of-two-seats-of-the-closely-divided-u-s-senate-retaking-contr.md) _Context: Democrats, House, Republicans, U.S. Senate_
+4. [Democratic candidates face off with Republican candidates in a primary for a U.S. House seat vacated by Tom Price, now Health and Human Services Secretary, in a suburb of Atlanta, Georgia.  ](/news/2017/04/18/democratic-candidates-face-off-with-republican-candidates-in-a-primary-for-a-u-s-house-seat-vacated-by-tom-price-now-health-and-human-serv.md) _Context: Democrats, House, Republicans_
+5. [The United States House of Representatives approaches a vote on a replacement plan for the Patient Protection and Affordable Care Act (aka Obamacare). ](/news/2017/03/23/the-united-states-house-of-representatives-approaches-a-vote-on-a-replacement-plan-for-the-patient-protection-and-affordable-care-act-aka-o.md) _Context: House, Obamacare, Trumpcare_
+6. [The U.S. Senate confirms Donald Trump's appointment of his former opponents in the presidential primaries, neurosurgeon Ben Carson and Governor of Texas Rick Perry, as Secretaries of Housing and Urban Development and Energy respectively, with the support of all Republicans and some Democrats. ](/news/2017/03/2/the-u-s-senate-confirms-donald-trump-s-appointment-of-his-former-opponents-in-the-presidential-primaries-neurosurgeon-ben-carson-and-gover.md) _Context: Democrats, Republicans, U.S. Senate_
+7. [A leaked memo from House Republicans reveals cutting provisions from Obamacare such as Medicaid expansions and subsidies for health insurance. ](/news/2017/02/25/a-leaked-memo-from-house-republicans-reveals-cutting-provisions-from-obamacare-such-as-medicaid-expansions-and-subsidies-for-health-insuranc.md) _Context: House, Obamacare, Republicans_
+8. [Georgia Representative John Lewis leads about 40 U.S. House of Representatives Democrats in a sit-in after the U.S. Senate failed to approve any of four gun control measures Monday night. ](/news/2016/06/22/georgia-representative-john-lewis-leads-about-40-u-s-house-of-representatives-democrats-in-a-sit-in-after-the-u-s-senate-failed-to-approve.md) _Context: Democrats, House, U.S. Senate_
+9. [Voters in the U.S. state of Wisconsin go to the polls for a primary election with Ted Cruz winning the Republican Party contest and Bernie Sanders winning the Democratic Party primary. ](/news/2016/04/5/voters-in-the-u-s-state-of-wisconsin-go-to-the-polls-for-a-primary-election-with-ted-cruz-winning-the-republican-party-contest-and-bernie-s.md) _Context: Democrats, Republicans, U.S._
+10. [Elections in the United States; Democratic state Representative John Bel Edwards, the surprise winner of the October 24 open primary, is elected governor of Louisiana over  Republican U.S. Senator David Vitter. Edwards' margin is 140,931 votes (56.11 percent), all 3,945 precincts  reporting. Edwards will replace former Republican presidential candidate Bobby Jindal, who was not eligible to seek another term. ](/news/2015/11/21/elections-in-the-united-states-democratic-state-representative-john-bel-edwards-the-surprise-winner-of-the-october-24-open-primary-is-ele.md) _Context: Democrats, Republicans, U.S. Senate_
