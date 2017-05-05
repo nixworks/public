@@ -27,5 +27,8 @@ Despite fierce government campaign, many Algerians are more worried about rising
 ### [The Republican-controlled United States House of Representatives votes in favor of the repeal of the 2010 Patient Protection and Affordable Care Act and passage of the House's 2017 American Health Care Act, by a narrow, 217-213 vote. Twenty Republicans and all Democrats opposed the bill, which now heads to the United States Senate for its legislative action. ](/news/2017/05/4/the-republican-controlled-united-states-house-of-representatives-votes-in-favor-of-the-repeal-of-the-2010-patient-protection-and-affordable.md)
 House Republicans plan to vote Thursday on the latest version of the American Health Care Act – their answer to ObamaCare. Here’s what’s the bill does.
 
+### [Scientists confirm that Denmark has its first wild pack of Gray wolves for the first time in 200 years. ](/news/2017/05/4/scientists-confirm-that-denmark-has-its-first-wild-pack-of-gray-wolves-for-the-first-time-in-200-years.md)
+Arrival of a female wolf, that trekked 500km from Germany, means the pack could have cubs by spring
+
 ## [Previous Day...](/news/2017/05/3/index.md)
 
