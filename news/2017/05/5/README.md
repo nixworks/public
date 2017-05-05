@@ -1,6 +1,6 @@
 ## [2017-05-5](/news/2017/05/5/index.md)
 
-### [Turkey, Russia, and Iran reach an agreement, effective this midnight, to establish four "safe zones" in Syria over which all military aircraft, including Turkish, Russian, and American aircraft, will be barred from flying. Presidents Trump and Putin had discussed the plan on Wednesday with Putin claiming that Trump agreed with the plan, which the White House denies. ](/news/2017/05/5/turkey-russia-and-iran-reach-an-agreement-effective-this-midnight-to-establish-four-safe-zones-in-syria-over-which-all-military-aircra.md)
+### [ Russia, Iran  and Turkey reach an agreement, effective this midnight, to establish four "safe zones" in Syria over which all military aircraft, including Turkish, Russian, and American aircraft, will be barred from flying.  ](/news/2017/05/5/russia-iran-and-turkey-reach-an-agreement-effective-this-midnight-to-establish-four-safe-zones-in-syria-over-which-all-military-aircr.md)
 U.S. and coalition military planes will not be allowed to fly over designated safe zones in Syria under a Russian proposal that has the backing of Iran and Turkey, reports said Friday.
 
 ### [Afghan border police and the Pakistani military clash at a border crossing near Chaman, killing at least 13 people and wounding over 80 others. Both sides blame each other for the flareup in fighting. ](/news/2017/05/5/afghan-border-police-and-the-pakistani-military-clash-at-a-border-crossing-near-chaman-killing-at-least-13-people-and-wounding-over-80-othe.md)
