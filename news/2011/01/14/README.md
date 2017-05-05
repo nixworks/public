@@ -73,7 +73,7 @@ _Context: Guyana, Palestinian_
 _Context: Desmond Tutu, Holocaust, South Africa, Warren Goldstein, rabbi_
 
 ### [The Obama administration in the United States eases travel and other restrictions on Cuba. ](/news/2011/01/14/the-obama-administration-in-the-united-states-eases-travel-and-other-restrictions-on-cuba.md)
-_Context: Cuba, Obama, Obama Administration, United States_
+_Context: Barack Obama, Cuba, Obama Administration, United States_
 
 ### [The United States Treasury Department says "no" to calls by enraged American politicians to have Julian Assange and the WikiLeaks website added to its economic blacklist or sanctions list like so-called "terrorist groups". The Treasury Department cites a lack of "evidence at this time". ](/news/2011/01/14/the-united-states-treasury-department-says-no-to-calls-by-enraged-american-politicians-to-have-julian-assange-and-the-wikileaks-website-ad.md)
 WikiLeaks and Founder Julian Assange Will Not Be Added to Economic Terrorist Blacklist, Treasury Dept. Says, Despite Pressure

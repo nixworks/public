@@ -10,7 +10,7 @@ _Context: 16, BBC, Queen Elizabeth, Royal Charter_
 _Context: Apple Computer, California, blog, broadband providers_
 
 ### [ Haitian elections, 2006: Voter turnout in the second round of the legislative elections is deemed low. ](/news/2006/04/21/haitian-elections-2006-voter-turnout-in-the-second-round-of-the-legislative-elections-is-deemed-low.md)
-_Context: Haitian elections, 2006, turnout_
+_Context: Haitian elections, 2006, Voter turnout_
 
 ### [ The 2005-2006 National Hockey League playoffs started.](/news/2006/04/21/the-2005a2006-national-hockey-league-playoffs-started.md)
 _Context: NHL_

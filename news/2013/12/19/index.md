@@ -46,7 +46,7 @@ _Context: Berlin, Germany, Tajikistan_
 _Context: China, Eritrea, India, Iran, Pakistan, Philippine, Reporters without Borders's, Somali, Syria, Turkey_
 
 ### [In an interview with Barbara Walters, Hillary Clinton says she is "unsure" if she is going to run in the 2016 U.S. presidential election. ](/news/2013/12/19/in-an-interview-with-barbara-walters-hillary-clinton-says-she-is-unsure-if-she-is-going-to-run-in-the-2016-u-s-presidential-election.md)
-_Context: Barbara Walters, Hillary Clinton, United States presidential election, 2016_
+_Context: 2016 U.S. presidential election, Barbara Walters, Hillary Clinton_
 
 ### [Governor of Tokyo Naoki Inose submits his resignation after intense questioning amid a political funds scandal. ](/news/2013/12/19/governor-of-tokyo-naoki-inose-submits-his-resignation-after-intense-questioning-amid-a-political-funds-scandal.md)
 _Context: Governor of Tokyo, Naoki Inose_

@@ -22,7 +22,7 @@ The dump is used to supply the military in the east and officials say the blasts
 The Sewol sank on 16 April 2014 killing 304 people, almost all school children on a trip.
 
 ### [The United States House of Representatives approaches a vote on a replacement plan for the Patient Protection and Affordable Care Act (aka Obamacare). ](/news/2017/03/23/the-united-states-house-of-representatives-approaches-a-vote-on-a-replacement-plan-for-the-patient-protection-and-affordable-care-act-aka-o.md)
-_Context: American Health Care Act of 2017, Patient Protection and Affordable Care Act, U.S. House_
+_Context: 2017 American Health Care Act, Patient Protection and Affordable Care Act, United States House of Representatives_
 
 ### [The night parrot is confirmed sighted (and photographed) in Western Australia for first time in nearly 100 years. ](/news/2017/03/23/the-night-parrot-is-confirmed-sighted-and-photographed-in-western-australia-for-first-time-in-nearly-100-years.md)
 Birdwatchers ‘elated’ after snapping photo of the endangered species in state’s arid interior in discovery that could significantly impact on mining developments

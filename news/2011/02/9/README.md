@@ -71,10 +71,10 @@ _Context: Basque language, Basque nationalists, ETA, Sortu_
 _Context: Cabinet of Pakistan, Prime Minister, economic crisis, forming a government_
 
 ### [US Representative Chris Lee representing New York's 26th congressional district resigns after it is revealed that he sent a racy photo to a woman who was not his wife. ](/news/2011/02/9/us-representative-chris-lee-representing-new-york-s-26th-congressional-district-resigns-after-it-is-revealed-that-he-sent-a-racy-photo-to-a.md)
-_Context: 26th congressional district, Chris Lee, U.S. House_
+_Context: 26th congressional district, Chris Lee, United States House of Representatives_
 
 ### [The United States Democratic Leadership Council consisting of centrist Democrats announces that it will wind up. ](/news/2011/02/9/the-united-states-democratic-leadership-council-consisting-of-centrist-democrats-announces-that-it-will-wind-up.md)
-_Context: Democratic, Democratic Leadership Council, United States_
+_Context: Democratic Leadership Council, Democrats, United States_
 
 ### [The Chamber of Councillors of Tunisia passes legislation allowing the President to rule by decree. ](/news/2011/02/9/the-chamber-of-councillors-of-tunisia-passes-legislation-allowing-the-president-to-rule-by-decree.md)
 _Context: Chamber of Councillors of Tunisia, President of Tunisia_

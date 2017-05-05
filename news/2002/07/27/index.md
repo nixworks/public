@@ -10,7 +10,7 @@ _Context: Ambon, Indonesia_
 _Context: Pennsylvania, Rescue, drilling, mine_
 
 ### [ The Homeland Security Bill passes the United States House of Representatives, in a form that appears to kill Operation TIPS.](/news/2002/07/27/the-homeland-security-bill-passes-the-united-states-house-of-representatives-in-a-form-that-appears-to-kill-operation-tips.md)
-_Context: Operation TIPS, U.S. House_
+_Context: Operation TIPS, United States House of Representatives_
 
 ## [Previous Day...](/news/2002/07/26/index.md)
 

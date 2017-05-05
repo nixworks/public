@@ -19,7 +19,7 @@ About a dozen &quot;new&quot; universities are set to be created in England - as
 France confirms it intends to vote in favour of the Palestinian bid for recognition as a non-member observer state at the United Nations.
 
 ### [Aung San Suu Kyi and Thein Sein are ranked first on Foreign Policy's 2012 Top 100 Global Thinkers list ahead of Moncef Marzouki, Bill Clinton and Hillary Clinton. Also, Malala Yousafzai is ranked sixth behind Bill Gates and Melinda Gates, but ahead of Barack Obama. ](/news/2012/11/27/aung-san-suu-kyi-and-thein-sein-are-ranked-first-on-foreign-policyas-2012-top-100-global-thinkers-list-ahead-of-moncef-marzouki-bill-clin.md)
-_Context: Aung San Suu Kyi, Bill Clinton, Bill Gates, Foreign Policy, Hillary Clinton, Malala Yousafzai, Melinda, Moncef Marzouki, Obama, Thein Sein, Top 100 Global Thinkers_
+_Context: Aung San Suu Kyi, Barack Obama, Bill Clinton, Bill Gates, Foreign Policy, Hillary Clinton, Malala Yousafzai, Melinda, Moncef Marzouki, Thein Sein, Top 100 Global Thinkers_
 
 ### [The remains of Yasser Arafat are exhumed as part of an investigation into how the Palestinian leader died in November 2004. ](/news/2012/11/27/the-remains-of-yasser-arafat-are-exhumed-as-part-of-an-investigation-into-how-the-palestinian-leader-died-in-november-2004.md)
 The remains of Palestinian leader Yasser Arafat are exhumed in Ramallah so experts can investigate allegations that he was poisoned.

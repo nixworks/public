@@ -28,7 +28,7 @@ _Context: gene, genetic, motor neurone disease_
 _Context: 2009 Bangladesh Rifles revolt, Bangladesh, Bangladesh Rifles, Dhaka, army, mass grave_
 
 ### [ The Holy See claims that the Roman Catholic Church's number of priests is slowly rising. ](/news/2009/02/28/the-holy-see-claims-that-the-roman-catholic-church-s-number-of-priests-is-slowly-rising.md)
-_Context: Roman Catholic Church, Vatican, priest_
+_Context: Holy See, Roman Catholic Church, priest_
 
 ### [ Unlike February_2004#February_28, which was also a Saturday, there was no February 29 succeeding this one.](/news/2009/02/28/unlike-february_2004-february_28-which-was-also-a-saturday-there-was-no-february-29-succeeding-this-one.md)
 _Context: February_2004#February_28_

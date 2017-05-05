@@ -22,7 +22,7 @@ American International Group Inc, the insurer rescued by the U.S. government in 
 More than 100 wildfires have broken out across Australia&#039;s east coast and forced thousands to flee their homes as the nation faces a day of &#034;catastrophic&#034; fire danger.
 
 ### [A new inquest begins into the death of British singer Amy Winehouse after it was discovered that the original coroner was not qualified to conduct the inquiry. A second inquiry into Winehouse's death concludes that the singer died of alcohol poisoning. ](/news/2013/01/8/a-new-inquest-begins-into-the-death-of-british-singer-amy-winehouse-after-it-was-discovered-that-the-original-coroner-was-not-qualified-to-c.md)
-_Context: Amy Winehouse, Britons, alcohol poisoning, coronial_
+_Context: Amy Winehouse, British people, alcohol poisoning, coronial_
 
 ### [An Illinois man is killed by cyanide poisoning after winning the lottery. ](/news/2013/01/8/an-illinois-man-is-killed-by-cyanide-poisoning-after-winning-the-lottery.md)
 _Context: Illinois, cyanide poisoning_

@@ -19,7 +19,7 @@ _Context: activist, trade deal_
 Five Russian MPs call for former President Mikhail Gorbachev to be prosecuted over the collapse of the Soviet Union.
 
 ### [United States Secretary of Health and Human Services Kathleen Sebelius resigns from the Obama Administration. OMB Director Sylvia Mathews Burwell is expected to be nominated to replace Sebelius. ](/news/2014/04/10/united-states-secretary-of-health-and-human-services-kathleen-sebelius-resigns-from-the-obama-administration-omb-director-sylvia-mathews-bu.md)
-_Context: Director, Health and Human Services Secretary, Kathleen Sebelius, Obama, Office of Management and Budget, Sylvia Mathews Burwell_
+_Context: Barack Obama, Director, Health and Human Services Secretary, Kathleen Sebelius, Office of Management and Budget, Sylvia Mathews Burwell_
 
 ### [Canadian MP and former Finance Minister Jim Flaherty dies at the age of 64. ](/news/2014/04/10/canadian-mp-and-former-finance-minister-jim-flaherty-dies-at-the-age-of-64.md)
 Emergency crews were called to the 64-year-old’s Ottawa condo Thursday afternoon. A source said he died of a massive heart attack.

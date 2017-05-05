@@ -31,7 +31,7 @@ _Context: Leni Robredo, Liberal Party, Philippine, Philippine Drug War, Rodrigo 
 Kelly, who retired from the military in February, is a blunt-spoken border security hawk.
 
 ### [Mark A. Goldsmith, a United States district judge on the United States District Court for the Eastern District of Michigan ends a recount for the state of Michigan after a state court found that Green Party of the United States candidate Jill Stein had no standing to seek a recount. ](/news/2016/12/7/mark-a-goldsmith-a-united-states-district-judge-on-the-united-states-district-court-for-the-eastern-district-of-michigan-ends-a-recount-fo.md)
-_Context: Green Party of the United States, Jill Stein, Mark A. Goldsmith, Michigan, United States District Court for the Eastern District of Michigan, United States presidential election, 2016_
+_Context: 2016 U.S. presidential election, Green Party of the United States, Jill Stein, Mark A. Goldsmith, Michigan, United States District Court for the Eastern District of Michigan_
 
 ### [India has launched its Resourcesat-2A imaging satellite via its Polar Satellite Launch Vehicle (PSLV) rocket. ](/news/2016/12/7/india-has-launched-its-resourcesat-2a-imaging-satellite-via-its-polar-satellite-launch-vehicle-pslv-rocket.md)
 _Context: India, Polar Satellite Launch Vehicle_

@@ -1,7 +1,7 @@
 ## [2007-05-10](/news/2007/05/10/index.md)
 
 ### [ The United States House of Representatives passes a $96 billion war spending measure which sets benchmarks for achievements in the War in Iraq in return for funding. ](/news/2007/05/10/the-united-states-house-of-representatives-passes-a-96-billion-war-spending-measure-which-sets-benchmarks-for-achievements-in-the-war-in-i.md)
-_Context: U.S. House, War in Iraq_
+_Context: United States House of Representatives, War in Iraq_
 
 ### [ Pope Benedict XVI urges tens of thousands of young Brazilian Catholics packing the Pacaembu stadium in So Paulo to resist the temptations of wealth, power and other "snares of evil," and tells them to promote life from "its beginning to natural end." ](/news/2007/05/10/pope-benedict-xvi-urges-tens-of-thousands-of-young-brazilian-catholics-packing-the-pacaembu-stadium-in-sao-paulo-to-resist-the-temptations.md)
 _Context: Benedict XVI, Brazil, Catholic, Pacaembu stadium, Sao Paulo_

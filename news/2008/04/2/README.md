@@ -7,7 +7,7 @@ _Context: Harriet Harman, Labour, Leader of the House of Commons, Prime Minister
 _Context: Australian Stem Cell Centre, England, Newcastle University, Roman Catholic Church, cow, diseases, embryo, embryonic stem cell, human_
 
 ### [ The United States House of Representatives votes to provide $50 billion over five years to fight AIDS, tuberculosis and malaria in Africa and other third world areas. ](/news/2008/04/2/the-united-states-house-of-representatives-votes-to-provide-50-billion-over-five-years-to-fight-aids-tuberculosis-and-malaria-in-africa-a.md)
-_Context: AIDS, Africa, U.S. House, U.S. dollar, malaria, tuberculosis_
+_Context: AIDS, Africa, U.S. dollar, United States House of Representatives, malaria, tuberculosis_
 
 ### [ Suspended Serb prison workers from Lipljan, Kosovo, claim that Serbia has not paid them money promised for leaving the Kosovo institutions. ](/news/2008/04/2/suspended-serb-prison-workers-from-lipljan-kosovo-claim-that-serbia-has-not-paid-them-money-promised-for-leaving-the-kosovo-institutions.md)
 _Context: Kosovo, Lipljan, Serbia, Serbian_

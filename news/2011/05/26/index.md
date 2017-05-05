@@ -55,7 +55,7 @@ Serbian President Boris Tadic has confirmed that Serbian authorities have arrest
 Former Essex Council leader and former Tory peer Lord Hanningfield is found guilty of six counts of false accounting relating to his expenses.
 
 ### [The United States House of Representatives votes overwhelmingly against funding the involvement of ground troops in Libya. ](/news/2011/05/26/the-united-states-house-of-representatives-votes-overwhelmingly-against-funding-the-involvement-of-ground-troops-in-libya.md)
-_Context: Libya, U.S. House_
+_Context: Libya, United States House of Representatives_
 
 ### [The United States Congress votes to approve a four year extension of powers in the USA PATRIOT Act and President of the United States Barack Obama signs it into law. ](/news/2011/05/26/the-united-states-congress-votes-to-approve-a-four-year-extension-of-powers-in-the-usa-patriot-act-and-president-of-the-united-states-barack.md)
 Acting with minutes to spare, President Obama approved a four-year extension of expiring provisions of the Patriot Act, after Congress overcame mounting opposition from both parties to narrowly...

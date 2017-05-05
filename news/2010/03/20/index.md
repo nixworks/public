@@ -1,7 +1,7 @@
 ## [2010-03-20](/news/2010/03/20/index.md)
 
 ### [A series of severe sandstorms hit north China, affecting the regions of Xinjiang and Inner Mongolia and the provinces of Shanxi, Shaanxi and Hebei. ](/news/2010/03/20/a-series-of-severe-sandstorms-hit-north-china-affecting-the-regions-of-xinjiang-and-inner-mongolia-and-the-provinces-of-shanxi-shaanxi-and.md)
-_Context: Hebei, Inner Mongolia, North China, Shaanxi, Shanxi province, Xinjiang, sandstorm_
+_Context: Hebei, Inner Mongolia, North China, Shaanxi, Shanxi province, Xinjiang, dust storm_
 
 ### [Death of Girija Prasad Koirala:Former Prime Minister and Acting Head of State of Nepal Girija Prasad Koirala, "the elder statesman of South Asia" who brought down the King, dies in Kathmandu at the age of 86. ](/news/2010/03/20/death-of-girija-prasad-koirala-pformer-prime-minister-and-acting-head-of-state-of-nepal-girija-prasad-koirala-the-elder-statesman-of-south.md)
 State leaders mourned former Nepal prime minister Girija Prasad Koirala, and recalled his relations with Bihar, his birth place.
@@ -19,7 +19,7 @@ A senior official of Somali insurgent group al Shabaab was shot dead on Friday i
 _Context: Prime Minister, Russia, Vladimir Putin_
 
 ### [A severe sandstorm affecting northern parts of China hits the capital Beijing, with health authorities urging people to stay inside. ](/news/2010/03/20/a-severe-sandstorm-affecting-northern-parts-of-china-hits-the-capital-beijing-with-health-authorities-urging-people-to-stay-inside.md)
-_Context: Beijing, China's, sandstorm_
+_Context: Beijing, China's, dust storm_
 
 ### [Cabin crew at British Airways begin a three-day strike. ](/news/2010/03/20/cabin-crew-at-british-airways-begin-a-three-day-strike.md)
 _Context: British Airways_

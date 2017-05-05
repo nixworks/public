@@ -55,7 +55,7 @@ PNG politicians will hold a special sitting of parliament tomorrow to elect a ne
 _Context: 1989 Tiananmen Square protests, Beijing, Chen Xitong, Hong Kong_
 
 ### [U.S. president Barack Obama gives out the Presidential Medal of Freedom to 13 recipients, including Israeli president Shimon Peres, astronaut John Glenn and musician Bob Dylan, at the White House. ](/news/2012/05/29/u-s-president-barack-obama-gives-out-the-presidential-medal-of-freedom-to-13-recipients-including-israeli-president-shimon-peres-astronau.md)
-_Context: Bob Dylan, Israel, John Glenn, Obama, Presidential Medal of Freedom with Distinction, Shimon Peres, White House_
+_Context: Barack Obama, Bob Dylan, Israel, John Glenn, Presidential Medal of Freedom with Distinction, Shimon Peres, White House_
 
 ## [Previous Day...](/news/2012/05/28/index.md)
 

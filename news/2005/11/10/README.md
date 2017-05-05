@@ -7,7 +7,7 @@ _Context: Africa, Ellen Johnson Sirleaf, George Weah, Liberia, Liberian presiden
 _Context: 17th Street Canal, 2005 levee failures in Greater New Orleans, Hurricane Katrina, New Orleans, Louisiana_
 
 ### [ United States House of Representatives Republican leadership drops a provision from budget plans that would open the Arctic National Wildlife Refuge to drilling due to opposition from moderate Republicans and expected opposition in the Senate. ](/news/2005/11/10/united-states-house-of-representatives-republican-leadership-drops-a-provision-from-budget-plans-that-would-open-the-arctic-national-wildli.md)
-_Context: Arctic National Wildlife Refuge, U.S. House_
+_Context: Arctic National Wildlife Refuge, United States House of Representatives_
 
 ### [ A Boeing 777-200LR Worldliner jet aircraft breaks the record for the longest non-stop passenger airline flight. The 20,000-kilometer (12,500-mile) flight from Hong Kong to London lasted 23 hours. ](/news/2005/11/10/a-boeing-777-200lr-worldliner-jet-aircraft-breaks-the-record-for-the-longest-non-stop-passenger-airline-flight-the-20-000-kilometer-12-50.md)
 _Context: Boeing 777, Hong Kong, London_

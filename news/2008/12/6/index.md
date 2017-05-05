@@ -13,7 +13,7 @@ _Context: India, November terrorist attacks, SIM, mobile phone_
 _Context: 2008 Irish pork crisis, Republic of Ireland, fodder, pork_
 
 ### [ Joseph Cao defeats William J. Jefferson in Louisiana's 2nd congressional election, a major upset victory for the Republican Party. He is the first Vietnamese American ever to be elected to the U.S. House of Representatives. ](/news/2008/12/6/joseph-cao-defeats-william-j-jefferson-in-louisiana-s-2nd-congressional-election-a-major-upset-victory-for-the-republican-party-he-is-th.md)
-_Context: 2nd congressional election, Joseph Cao, Louisiana, Republican, U.S. House, Vietnamese American, William J. Jefferson_
+_Context: 2nd congressional election, Joseph Cao, Louisiana, Republican, United States House of Representatives, Vietnamese American, William J. Jefferson_
 
 ## [Previous Day...](/news/2008/12/5/index.md)
 

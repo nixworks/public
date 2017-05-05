@@ -37,7 +37,7 @@ The 10 Russian spies deported from the US will undergo three weeks of rigorous t
 _Context: North Korea, United Nations Command_
 
 ### [President of Venezuela Hugo Chavez orders a review of Venezuela's ties with the Vatican following tensions between the government and Roman Catholic bishops. ](/news/2010/07/15/president-of-venezuela-hugo-cha-vez-orders-a-review-of-venezuela-s-ties-with-the-vatican-following-tensions-between-the-government-and-roman.md)
-_Context: Hugo Chavez, Roman Catholic, Vatican, Venezuela, Venezuelan President, bishop, government_
+_Context: Holy See, Hugo Chavez, Roman Catholic, Venezuela, Venezuelan President, bishop, government_
 
 ### [The Vatican issues a decree making the "attempted ordination of women" a grave crime in ecclesiastical law equivalent to child sexual abuse. ](/news/2010/07/15/the-vatican-issues-a-decree-making-the-attempted-ordination-of-women-a-grave-crime-in-ecclesiastical-law-equivalent-to-child-sexual-abuse.md)
 _Context: child sexual abuse, ecclesiastical law, royal decrees, women bishops_

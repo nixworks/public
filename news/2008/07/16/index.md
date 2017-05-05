@@ -10,7 +10,7 @@ _Context: Dmitry Medvedev, Mikhail Khodorkovsky, Russia, Russian President, Yuko
 _Context: President's Emergency Plan for AIDS Relief, United States Senate_
 
 ### [ Ben Bernanke, the Chairman of the Federal Reserve, assures  the United States House of Representatives Financial Services Committee that giant mortgage companies Fannie Mae and Freddie Mac are in "no danger of failing." ](/news/2008/07/16/ben-bernanke-the-chairman-of-the-federal-reserve-assures-the-united-states-house-of-representatives-financial-services-committee-that-gi.md)
-_Context: Ben Bernanke, Fannie Mae, Federal Reserve, Financial Services Committee, Freddie Mac, U.S. House_
+_Context: Ben Bernanke, Fannie Mae, Federal Reserve, Financial Services Committee, Freddie Mac, United States House of Representatives_
 
 ### [ A large transport strike enters into its third day on the island of Malta, bringing the island to a halt with the blockage of several roads. Bus drivers even attempted to break into the Prime Minister's office. ](/news/2008/07/16/a-large-transport-strike-enters-into-its-third-day-on-the-island-of-malta-bringing-the-island-to-a-halt-with-the-blockage-of-several-roads.md)
 Scuffles broke out between policemen and striking transport workers who at about 11.30 a.m. ran up Glormu Cassar Avenue and protested outside the Auberge de Castille. The drivers mouthed obscenities at the government and protested that liberalisation policies would ruin them. At one time the...

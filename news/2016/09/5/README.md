@@ -31,7 +31,7 @@ Ethiopia says 23 prisoners have died after a fire at a prison where prominent an
 Singapore has added 91 new Zika cases since Friday, with a possible new cluster in the city-state&#039;s east, according to government agencies.
 
 ### [U.S. President Barack Obama and Russian President Vladimir Putin fail to agree on a peace deal regarding the Syrian civil war. ](/news/2016/09/5/u-s-president-barack-obama-and-russian-president-vladimir-putin-fail-to-agree-on-a-peace-deal-regarding-the-syrian-civil-war.md)
-_Context: 2016 G20 Hangzhou summit, Obama, Russian President, Syrian Civil War, Vladimir Putin, president_
+_Context: 2016 G20 Hangzhou summit, Barack Obama, Russian President, Syrian Civil War, Vladimir Putin, president_
 
 ### [U.S. President Barack Obama cancels a scheduled meeting with the President of the Philippines,  Rodrigo Duterte, after Duterte referred to Obama as a "son of a whore", while adding "I am no American puppet", in response to Obama's recent criticism of his war on drugs. ](/news/2016/09/5/u-s-president-barack-obama-cancels-a-scheduled-meeting-with-the-president-of-the-philippines-rodrigo-duterte-after-duterte-referred-to-o.md)
 An intemperate remark from Rodrigo Duterte derailed a bilateral meeting.
@@ -46,7 +46,7 @@ _Context: China, Philippines v. China, Scarborough Shoal, disputed_
 Nathan Law Kwun-chung, a 23-year-old pro-independence candidate has just been elected to Hong Kong&#39;s legislature.
 
 ### [Libertarian nominee Gary Johnson qualifies in Connecticut giving him ballot access to 48 states. ](/news/2016/09/5/libertarian-nominee-gary-johnson-qualifies-in-connecticut-giving-him-ballot-access-to-48-states.md)
-_Context: Connecticut, Gary Johnson, Libertarian, United States presidential election, 2016_
+_Context: 2016 U.S. presidential election, Connecticut, Gary Johnson, Libertarian_
 
 ### [The European Space Agency's robotic lander ''Philae'' is discovered wedged in a crack between some rocks in the shadow of a cliff on 67P/Churyumov-Gerasimenko by the Rosetta space probe after being lost since 2014. ](/news/2016/09/5/the-european-space-agency-s-robotic-lander-philae-is-discovered-wedged-in-a-crack-between-some-rocks-in-the-shadow-of-a-cliff-on-67p-chu.md)
 _Context: ''Rosetta'' space probe, 67P/Churyumov-Gerasimenko, European Space Agency, Philae, lander_

@@ -22,7 +22,7 @@ The government&#039;s official death toll from tropical cyclone &#039;Ruby&#039;
 _Context: Brazilian military government, National Truth Commission, police_
 
 ### [Former British radio DJ Ray Teret is jailed for 25 years for a series of sexual assaults on 11 girls in the 1960s and 1970s conducted in association with Jimmy Saville. ](/news/2014/12/11/former-british-radio-dj-ray-teret-is-jailed-for-25-years-for-a-series-of-sexual-assaults-on-11-girls-in-the-1960s-and-1970s-conducted-in-ass.md)
-_Context: Britons, Jimmy Saville, Ray Teret_
+_Context: British people, Jimmy Saville, Ray Teret_
 
 ### [British police charge Aravindan Balakrishnan or ''Comrade Bala'' with 25 offences including rape in relation to the Lambeth slavery case. ](/news/2014/12/11/british-police-charge-aravindan-balakrishnan-or-comrade-bala-with-25-offences-including-rape-in-relation-to-the-lambeth-slavery-case.md)
 A man who led an obscure Maoist collective and allegedly held three women against their will in a London house for 30 years has been charged with 25 offences including rape, police said Thursday.

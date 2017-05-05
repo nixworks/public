@@ -1,7 +1,7 @@
 ## [2012-03-23](/news/2012/03/23/index.md)
 
 ### [The Financial Services Committee of the United States House of Representatives receives a memo quoting Edith O'Brien, the treasurer of defunct broker MF Global, to the effect that Jon S. Corzine was personally ordering the transfer of customers' money to a brokerage account with JP Morgan Chase last October. ](/news/2012/03/23/the-financial-services-committee-of-the-united-states-house-of-representatives-receives-a-memo-quoting-edith-o-brien-the-treasurer-of-defun.md)
-_Context: Edith O'Brien, JP Morgan Chase, Jon Corzine, MF Global, U.S. House, financial services_
+_Context: Edith O'Brien, JP Morgan Chase, Jon Corzine, MF Global, United States House of Representatives, financial services_
 
 ### [Pope Benedict XVI arrives in Mexico and is greeted by thousands in Guanajuato, Guanajuato, and is also greeted by President Felipe Caldern. ](/news/2012/03/23/pope-benedict-xvi-arrives-in-mexico-and-is-greeted-by-thousands-in-guanajuato-guanajuato-and-is-also-greeted-by-president-felipe-calderon.md)
 Thousands of supporters greet Pope Benedict XVI on his first visit to Mexico, as he denounces the &quot;evil&quot; of drug-related violence in the country.

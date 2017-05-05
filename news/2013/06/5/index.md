@@ -28,7 +28,7 @@ year-old winner opts for $370 million lump sum
 _Context: YouTube_
 
 ### [Prince Philip is admitted to a London hospital for an exploratory operation. ](/news/2013/06/5/prince-philip-is-admitted-to-a-london-hospital-for-an-exploratory-operation.md)
-_Context: London, Prince Philip_
+_Context: London, Prince Philip, Duke of Edinburgh_
 
 ### [Paris Jackson, Michael Jackson's daughter, tries to commit suicide by cutting her wrists and overdosing on pills. ](/news/2013/06/5/paris-jackson-michael-jackson-s-daughter-tries-to-commit-suicide-by-cutting-her-wrists-and-overdosing-on-pills.md)
 _Context: Michael Jackson_

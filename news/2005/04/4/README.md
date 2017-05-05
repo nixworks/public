@@ -10,7 +10,7 @@ _Context: Arab Human Development Report, Iraq, Middle East, UNDP, United States_
 _Context: 1993, Baghdad, Medal of Honor, Paul Ray Smith, United States, Vietnam War_
 
 ### [ The Vatican announces that Pope John Paul II's funeral is to take place on the morning of April 8 and that he is to be buried in the crypt of Saint Peter in the Vatican. ](/news/2005/04/4/the-vatican-announces-that-pope-john-paul-ii-s-funeral-is-to-take-place-on-the-morning-of-april-8-and-that-he-is-to-be-buried-in-the-crypt.md)
-_Context: April 8, Pope John Paul II, Saint Peter, Vatican, Vatican, funeral of Pope John Paul II_
+_Context: April 8, Holy See, Pope John Paul II, Saint Peter, Vatican, funeral of Pope John Paul II_
 
 ### [ The wedding of Prince Charles and Camilla Parker-Bowles, also scheduled for Friday, April 8, will be postponed one day to avoid a time conflict and allow Prince Charles to attend the Papal funeral. ](/news/2005/04/4/the-wedding-of-prince-charles-and-camilla-parker-bowles-also-scheduled-for-friday-april-8-will-be-postponed-one-day-to-avoid-a-time-conf.md)
 _Context: April 8, Camilla Parker Bowles, Prince Charles, wedding_

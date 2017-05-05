@@ -4,7 +4,7 @@
 _Context: Afghanistan, presidential election, run-off election_
 
 ### [ In a set of canon laws, the Vatican welcomes groups of Anglicans as "personal ordinariates" into the Catholic Church, Pope Benedict XVI announces. ](/news/2009/10/20/in-a-set-of-canon-laws-the-vatican-welcomes-groups-of-anglicans-as-personal-ordinariates-into-the-catholic-church-pope-benedict-xvi-ann.md)
-_Context: Anglican, Benedict XVI, Catholic Church, Vatican, canon law_
+_Context: Anglican, Benedict XVI, Catholic Church, Holy See, canon law_
 
 ### [ A court in Yemen sentences 10 Shi'ite Houthi rebels to death and jailed five others over clashes which killed hundreds of people last year. ](/news/2009/10/20/a-court-in-yemen-sentences-10-shi-ite-houthi-rebels-to-death-and-jailed-five-others-over-clashes-which-killed-hundreds-of-people-last-year.md)
 Ten Houthis given death penalty and five others jailed over deadly clashes.

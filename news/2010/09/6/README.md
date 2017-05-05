@@ -28,7 +28,7 @@ _Context: Colorado, United States, wildfire_
 _Context: China's, North Korea, South Korea_
 
 ### [Bernard Kouchner, the French Minister of Foreign Affairs, and the Vatican offer to assist Sakineh Mohammadi Ashtiani sentenced to death by stoning for adultery in Iran. ](/news/2010/09/6/bernard-kouchner-the-french-minister-of-foreign-affairs-and-the-vatican-offer-to-assist-sakineh-mohammadi-ashtiani-sentenced-to-death-by-s.md)
-_Context: Bernard Kouchner, France, Iran, Minister of Foreign Affairs, Sakineh Mohammadi Ashtiani, Vatican, adultery_
+_Context: Bernard Kouchner, France, Holy See, Iran, Minister of Foreign Affairs, Sakineh Mohammadi Ashtiani, adultery_
 
 ### [Avigdor Lieberman, the Israeli Foreign Affairs Minister and leader of the Yisrael Beitenu Party says that it will block any proposal to extend a freeze on settlements on the West Bank. ](/news/2010/09/6/avigdor-lieberman-the-israeli-foreign-affairs-minister-and-leader-of-the-yisrael-beitenu-party-says-that-it-will-block-any-proposal-to-exte.md)
 _Context: Avigdor Lieberman, Foreign Affairs Minister, Israel, West Bank, Yisrael Beitenu_

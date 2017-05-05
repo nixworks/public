@@ -4,10 +4,10 @@
 _Context: Central Intelligence Agency_
 
 ### [ U.S. Representative Bob Ney (R-Ohio) has agreed to plead guilty to federal criminal charges related to his dealings with the lobbyist Jack Abramoff according to lawyers and others with knowledge of the investigation. ](/news/2006/09/14/u-s-representative-bob-ney-r-ohio-has-agreed-to-plead-guilty-to-federal-criminal-charges-related-to-his-dealings-with-the-lobbyist-jack.md)
-_Context: Bob Ney, Jack Abramoff, Ohio, Republican, U.S. House_
+_Context: Bob Ney, Jack Abramoff, Ohio, Republican, United States House of Representatives_
 
 ### [ The International Atomic Energy Agency call a United States House of Representatives committee report on Iran's nuclear capabilities "outrageous and dishonest." ](/news/2006/09/14/the-international-atomic-energy-agency-call-a-united-states-house-of-representatives-committee-report-on-iran-s-nuclear-capabilities-outra.md)
-_Context: International Atomic Energy Agency, Iran, U.S. House_
+_Context: International Atomic Energy Agency, Iran, United States House of Representatives_
 
 ### [ The United States Department of the Interior's Inspector General accuses the top officials at the agency of tolerating widespread ethical failures, from cronyism to cover-ups of incompetence. ](/news/2006/09/14/the-united-states-department-of-the-interioras-inspector-general-accuses-the-top-officials-at-the-agency-of-tolerating-widespread-ethical.md)
 The agency’s inspector general accused officials of widespread ethical failures from cronyism to cover-ups of incompetence. 

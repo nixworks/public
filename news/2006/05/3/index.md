@@ -16,7 +16,7 @@ _Context: Adler-Sochi International Airport, Airbus A320, Armavia, Armavia Fligh
 _Context: Iran, Ramin Jahanbegloo_
 
 ### [ In Chad, opposition parties boycott the 2006 presidential election and voter turnout is "extremely low". Results are not due for another 10 days, but President Idriss Deby is expected to win. ](/news/2006/05/3/in-chad-opposition-parties-boycott-the-2006-presidential-election-and-voter-turnout-is-extremely-low-results-are-not-due-for-another-10.md)
-_Context: Chad, Idriss Deby, President of Chad, presidential elections, turnout_
+_Context: Chad, Idriss Deby, President of Chad, Voter turnout, presidential elections_
 
 ## [Previous Day...](/news/2006/05/2/index.md)
 

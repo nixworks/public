@@ -31,7 +31,7 @@ James Arness, the towering actor best known for portraying Marshal Matt Dillon, 
 Greece is set to impose further austerity measures and a number of privatization plans in return for more international aid to avoid defaulting on its debt.
 
 ### [Barack Obama, the President of the United States, announces the sale of the US government's stake in Chrysler to Italian automaker Fiat at a visit to a plant at Toledo, Ohio. ](/news/2011/06/3/barack-obama-the-president-of-the-united-states-announces-the-sale-of-the-us-government-s-stake-in-chrysler-to-italian-automaker-fiat-at-a.md)
-_Context: Chrysler, Fiat, Italian, Obama, Ohio, Toledo, United States government, president_
+_Context: Barack Obama, Chrysler, Fiat, Italian, Ohio, Toledo, United States government, president_
 
 ### [Australian airline Qantas announces plans to offer 350 flight attendants voluntary redundancies. ](/news/2011/06/3/australian-airline-qantas-announces-plans-to-offer-350-flight-attendants-voluntary-redundancies.md)
 _Context: Qantas, flight attendant, voluntary redundancies_
@@ -61,7 +61,7 @@ Bosnian Serb genocide suspect Ratko Mladic dismissed as &quot;obnoxious&quot; ch
 Former Democratic vice presidential nominee and two-time presidential candidate John Edwards pleaded not guilty Friday to conspiracy and campaign law violations, acknowledging that he had &quot;done wrong,&quot; but denying that he broke the law.
 
 ### [The United States House of Representatives votes in favour of a non-binding resolution asking the Obama administration to seek Congressional authorization for the intervention in Libya. ](/news/2011/06/3/the-united-states-house-of-representatives-votes-in-favour-of-a-non-binding-resolution-asking-the-obama-administration-to-seek-congressional.md)
-_Context: Libya, Libyan Civil War, Obama Administration, U.S. Congressional, U.S. House_
+_Context: Libya, Libyan Civil War, Obama Administration, U.S. Congressional, United States House of Representatives_
 
 ### [American right-to-die activist Jack Kevorkian dies in Royal Oak, Michigan of pneumonia and kidney problems. ](/news/2011/06/3/american-right-to-die-activist-jack-kevorkian-dies-in-royal-oak-michigan-of-pneumonia-and-kidney-problems.md)
 _Context: Jack Kevorkian, Royal Oak, Michigan, pneumonia, right to die_

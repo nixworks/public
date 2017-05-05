@@ -28,7 +28,7 @@ Reuters.com is your online source for the latest U.S. news stories from coast to
 _Context: Exile, Muslim, Taslima Nasreen, West Bengal, blasphemy, citizenship, execution_
 
 ### [ The United States House of Representatives passes a Class Action Fairness Act that intends to curb class action suits, moving them from state courts to federal courts. ](/news/2005/02/17/the-united-states-house-of-representatives-passes-a-class-action-fairness-act-that-intends-to-curb-class-action-suits-moving-them-from-sta.md)
-_Context: Class Action Fairness Act, U.S. House, U.S. federal court, class action, state courts_
+_Context: Class Action Fairness Act, U.S. federal court, United States House of Representatives, class action, state courts_
 
 ### [ The Brazilian government intends to create a protected rainforest region in the aftermath of the murder of US missionary Dorothy Stang. ](/news/2005/02/17/the-brazilian-government-intends-to-create-a-protected-rainforest-region-in-the-aftermath-of-the-murder-of-us-missionary-dorothy-stang.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

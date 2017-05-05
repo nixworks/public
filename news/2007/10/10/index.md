@@ -1,7 +1,7 @@
 ## [2007-10-10](/news/2007/10/10/index.md)
 
 ### [ Polish police evict about 65 rebellious ex-nuns who had illegally occupied a convent in Kazimierz Dolny, Poland, for more than two years in defiance of a Vatican order. ](/news/2007/10/10/polish-police-evict-about-65-rebellious-ex-nuns-who-had-illegally-occupied-a-convent-in-kazimierz-dolny-poland-for-more-than-two-years-in.md)
-_Context: Kazimierz Dolny, Nun, Poland, Polish police, Vatican, convent, eviction, rebellious_
+_Context: Holy See, Kazimierz Dolny, Nun, Poland, Polish police, convent, eviction, rebellious_
 
 ### [ The general election in the Canadian province of Ontario gives the Liberal government of Premier Dalton McGuinty an enlarged majority. ](/news/2007/10/10/the-general-election-in-the-canadian-province-of-ontario-gives-the-liberal-government-of-premier-dalton-mcguinty-an-enlarged-majority.md)
 _Context: Canada, Dalton McGuinty, Ontario, Ontario Liberal Party, general election, province_

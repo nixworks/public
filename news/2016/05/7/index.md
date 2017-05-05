@@ -19,7 +19,7 @@ _Context: Malaysia, Sarawak, state election_
 The by-election is being contested by Singapore Democratic Party chief Dr Chee Soon Juan and People’s Action Party candidate, lawyer Murali Pillai.
 
 ### [Voters in Guam head to the polls to vote in the Democratic presidential caucus. ](/news/2016/05/7/voters-in-guam-head-to-the-polls-to-vote-in-the-democratic-presidential-caucus.md)
-_Context: Democratic Party presidential primaries, 2016, Guam, United States presidential election in Guam, 2016, United States presidential election, 2016, caucus_
+_Context: 2016 U.S. presidential election, Democratic Party presidential primaries, 2016, Guam, United States presidential election in Guam, 2016, caucus_
 
 ### [Iran's elected Parliament member from Maragheh and Ajabshir district, Mohammad-Ali Hosseinzadeh, dies in a car crash in Zanjan. He was set to take office on 28 May. ](/news/2016/05/7/iran-s-elected-parliament-member-from-maragheh-and-ajabshir-district-mohammad-ali-hosseinzadeh-dies-in-a-car-crash-in-zanjan-he-was-set-t.md)
 _Context: Iranian legislative election, 2016, Maragheh and Ajabshir, Mohammad-Ali Hosseinzadeh, Zanjan, parliament_

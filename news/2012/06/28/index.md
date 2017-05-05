@@ -55,7 +55,7 @@ _Context: BBC, Conservative Party, Czechoslovak, Raymond Mawby_
 _Context: Barclays, David Cameron_
 
 ### [The United States House of Representatives holds Attorney-General Eric Holder in contempt for his perceived obstruction of the Congressional investigation into Operation Fast and Furious. Most House Republicans and 17 Democrats approve the decision. ](/news/2012/06/28/the-united-states-house-of-representatives-holds-attorney-general-eric-holder-in-contempt-for-his-perceived-obstruction-of-the-congressional.md)
-_Context: Democrat, Eric Holder, Operation Fast and Furious, Republican, U.S. House, United States Attorney General, contempt_
+_Context: Democrat, Eric Holder, Operation Fast and Furious, Republican, United States Attorney General, United States House of Representatives, contempt_
 
 ### [Google vice president Sundar Pichai officially claims that Google Chrome is the most used web browser in the world. ](/news/2012/06/28/google-vice-president-sundar-pichai-officially-claims-that-google-chrome-is-the-most-used-web-browser-in-the-world.md)
 _Context: Google, Google Chrome, Sundar Pichai, web browser_

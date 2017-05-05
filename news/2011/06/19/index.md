@@ -28,7 +28,7 @@ _Context: China's, Zhejiang, heavy flood_
 _Context: China's, Hanoi, South China Sea, Vietnamese_
 
 ### [Six foreigners including two Britons and an American are jailed for lengthy terms in Somalia after the seizure of a plane containing $3.6 million in ransom for pirates. ](/news/2011/06/19/six-foreigners-including-two-britons-and-an-american-are-jailed-for-lengthy-terms-in-somalia-after-the-seizure-of-a-plane-containing-3-6-mi.md)
-_Context: Americans, Britons, Somali, Somali pirates_
+_Context: Americans, British people, Somali, Somali pirates_
 
 ### [An Indonesian woman is beheaded in Saudi Arabia for killing a Saudi woman. ](/news/2011/06/19/an-indonesian-woman-is-beheaded-in-saudi-arabia-for-killing-a-saudi-woman.md)
 _Context: Indonesia, Saudi Arabia, beheading_

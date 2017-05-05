@@ -29,7 +29,7 @@ _Context: BBC News, Gaza Strip, Israel, Israeli settlement_
 _Context: Avian flu virus, Vietnam, death toll_
 
 ### [ Initial results show that Ugandans have voted for a return to multi-party politics in a national constitutional referendum. The poll was marred by a low turnout.](/news/2005/07/29/initial-results-show-that-ugandans-have-voted-for-a-return-to-multi-party-politics-in-a-national-constitutional-referendum-the-poll-was-ma.md)
-_Context: Uganda, national constitutional referendum, turnout_
+_Context: Uganda, Voter turnout, national constitutional referendum_
 
 ### [ Robert Kilroy-Silk resigns as leader from Veritas, the political party he founded. ](/news/2005/07/29/robert-kilroy-silk-resigns-as-leader-from-veritas-the-political-party-he-founded.md)
 _Context: Robert Kilroy-Silk, Veritas_

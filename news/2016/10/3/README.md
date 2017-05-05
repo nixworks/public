@@ -31,7 +31,7 @@ The U.S. announced it has suspended bilateral talks with Russia on a cease-fire 
 Russian President Vladimir Putin on Monday suspended a treaty with Washington on cleaning up weapons-grade plutonium, signaling he is willing to use nuclear disarmament as a new bargaining chip in disputes with the United States over Ukraine and Syria.
 
 ### [The U.S. Supreme Court declines to rehear President Barack Obama's 2014 plan (Deferred Action for Parents of Americans) to spare from deportation millions of immigrants in the country illegally, a case in which the justices split 4&ndash;4 in June. The justices' June 23 decision (''United States v. Texas'') is final. ](/news/2016/10/3/the-u-s-supreme-court-declines-to-rehear-president-barack-obama-s-2014-plan-deferred-action-for-parents-of-americans-to-spare-from-deport.md)
-_Context: Deferred Action for Parents of Americans, Obama, Supreme Court of the United States, United States v. Texas_
+_Context: Barack Obama, Deferred Action for Parents of Americans, Supreme Court of the United States, United States v. Texas_
 
 ### [FARC leader Rodrigo Londono (Timoleon) says his troops will honor its commitments to the Colombian government, including the permanent cease-fire, despite voters rejection of the peace accord in Sunday's referendum.  President Juan Manuel Santos calls the country's political parties to an emergency meeting. ](/news/2016/10/3/farc-leader-rodrigo-londoa-o-timolea3n-says-his-troops-will-honor-its-commitments-to-the-colombian-government-including-the-permanent-cea.md)
 BOGOTA, Colombia (AP) — As peace talks in Colombia advanced over the past year, 7,000 rebel fighters began slowly emerging from their jungle hideouts hoping for, if not a hero&#039;s welcome, at least an outstretched hand from…

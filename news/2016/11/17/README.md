@@ -13,7 +13,7 @@ At least 73 people were killed and scores injured in Mozambique on Thursday as t
 _Context: Europe, European migrant crisis, Libya, Mediterranean Sea_
 
 ### [Japanese Prime Minister Shinzo Abe becomes the first foreign head of government to meet President-elect of the United States Donald Trump since his election as President on November 8.  ](/news/2016/11/17/japanese-prime-minister-shinza-abe-becomes-the-first-foreign-head-of-government-to-meet-president-elect-of-the-united-states-donald-trump-s.md)
-_Context: Donald Trump, Japan-United States relations, President-elect, Prime Minister, Shinzo Abe, United States presidential election, 2016_
+_Context: 2016 U.S. presidential election, Donald Trump, Japan-United States relations, President-elect, Prime Minister, Shinzo Abe_
 
 ### [The Three UK mobile phone company admits that there has been a cyber-security breach involving the details of millions of customers. ](/news/2016/11/17/the-three-uk-mobile-phone-company-admits-that-there-has-been-a-cyber-security-breach-involving-the-details-of-millions-of-customers.md)
 One of Britain&#39;s biggest mobile phone companies has admitted to a major cyber-security breach which could put the personal data of millions of customers at risk.

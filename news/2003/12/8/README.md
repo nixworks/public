@@ -13,7 +13,7 @@ _Context: King, Norway, Oslo, cancer_
 _Context: Brigitte Zypries, Enron, Germany, Justice Minister, WorldCom_
 
 ### [South Dakota Congressman Bill Janklow is convicted of a series of criminal charges including second-degree manslaughter, which can carry a prison term of up to 10 years. He says he will resign his congressional seat. [http://www.msnbc.com/news/999765.asp?vts=120820031804&cp1=1]](/news/2003/12/8/south-dakota-congressman-bill-janklow-is-convicted-of-a-series-of-criminal-charges-including-second-degree-manslaughter-which-can-carry-a-p.md)
-_Context: Bill Janklow, South Dakota, U.S. House, murder_
+_Context: Bill Janklow, South Dakota, United States House of Representatives, murder_
 
 ### [The new Conservative Party of Canada, resulting from the merger of the Canadian Alliance and the Progressive Conservative Party of Canada, is officially registered with Elections Canada. The party's first interim leader is John Lynch-Staunton, with a leadership race scheduled for March 2004. [http://www.globeandmail.com/servlet/story/RTGAM.20031208.wmerg1208/BNStory/National/]](/news/2003/12/8/the-new-conservative-party-of-canada-resulting-from-the-merger-of-the-canadian-alliance-and-the-progressive-conservative-party-of-canada-i.md)
 _Context: 2004, Canadian Alliance, Conservative Party's, Elections Canada, John Lynch-Staunton, Progressive Conservative Party of Canada_

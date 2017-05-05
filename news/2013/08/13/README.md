@@ -10,7 +10,7 @@ _Context: Columbine, Columbine High School, Frank DeAngelis_
 Israel intercepted and destroyed a rocket fired from Egyptian territory at the Red Sea town of Eilat overnight, Israeli public radio said on Tuesday.
 
 ### [American politician and former House Representative Jesse Jackson, Jr. is sentenced to 30 months in prison for spending $750,000 in campaign funds on personal items, and will serve his sentence first before his wife, former Chicago alderman Sandi Jackson, who was given a one year term for tax fraud. ](/news/2013/08/13/american-politician-and-former-house-representative-jesse-jackson-jr-is-sentenced-to-30-months-in-prison-for-spending-750-000-in-campaign.md)
-_Context: Jesse Jackson, Jr., Sandi Jackson, U.S. House_
+_Context: Jesse Jackson, Jr., Sandi Jackson, United States House of Representatives_
 
 ### [The United States Department of Justice and six states file an antitrust lawsuit to block the proposed merger of American Airlines and US Airways. ](/news/2013/08/13/the-united-states-department-of-justice-and-six-states-file-an-antitrust-lawsuit-to-block-the-proposed-merger-of-american-airlines-and-us-ai.md)
 _Context: American Airlines, U.S. Justice Department, US Airways, reduced competition and higher prices_

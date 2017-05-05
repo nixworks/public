@@ -67,10 +67,10 @@ The 14th Dalai Lama on Thursday decided to give up his political role and shift 
 Assembly Minority Leader Peter Barca filed a complaint Thursday with the Dane County DA, charging that the Joint Conference Committee that convened Wednesday and passed an amended version of Gov.
 
 ### [U.S. Representative Gabrielle Giffords announces plans to attend the launch of the Space Shuttle Endeavour, piloted by her husband Mark Kelly, three months after she was shot in the 2011 Tucson shootings. ](/news/2011/03/10/u-s-representative-gabrielle-giffords-announces-plans-to-attend-the-launch-of-the-space-shuttle-endeavour-piloted-by-her-husband-mark-kell.md)
-_Context: 2011 Tucson shootings, Gabrielle Giffords, Mark Kelly, Space Shuttle ''Endeavour'', U.S. House_
+_Context: 2011 Tucson shootings, Gabrielle Giffords, Mark Kelly, Space Shuttle ''Endeavour'', United States House of Representatives_
 
 ### [The United States House of Representatives votes to end the Federal Housing Administration Refinance Program by 256 to 171. ](/news/2011/03/10/the-united-states-house-of-representatives-votes-to-end-the-federal-housing-administration-refinance-program-by-256-to-171.md)
-_Context: Federal Housing Administration Refinance Program, U.S. House_
+_Context: Federal Housing Administration Refinance Program, United States House of Representatives_
 
 ### [The Prime Minister of Madagascar Albert Camille Vital resigns together with his Government as a part of a peace process proposed by the Southern African Development Community to end a two year political crisis. ](/news/2011/03/10/the-prime-minister-of-madagascar-albert-camille-vital-resigns-together-with-his-government-as-a-part-of-a-peace-process-proposed-by-the-sout.md)
 _Context: Albert Camille Vital, Prime Minister of Madagascar, Southern African Development Community_

@@ -4,7 +4,7 @@
 _Context: CIA, George W. Bush, Scooter Libby, president_
 
 ### [ Hungarian parliamentary election, 2006: The ruling Hungarian Socialist Party wins the first round. Voter turnout was 67.7 percent.](/news/2006/04/9/hungarian-parliamentary-election-2006-the-ruling-hungarian-socialist-party-wins-the-first-round-voter-turnout-was-67-7-percent.md)
-_Context: Hungarian Socialist Party, Parliamentary elections, turnout_
+_Context: Hungarian Socialist Party, Parliamentary elections, Voter turnout_
 
 ### [ Peru hold presidential election: Peruvian national election, 2006](/news/2006/04/9/peru-hold-presidential-election-peruvian-national-election-2006.md)
 _Context: Peru, general election in Peru_

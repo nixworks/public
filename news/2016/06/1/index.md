@@ -13,7 +13,7 @@ A suicide car bomber crashed into a gate outside a hotel frequented by lawmakers
 The group were also allegedly smoking in a no-smoking area.
 
 ### [A committee of the United States House of Representatives is looking into the way the Federal Reserve Bank of New York investigated the theft of assets it was holding for the central bank of Bangladesh. ](/news/2016/06/1/a-committee-of-the-united-states-house-of-representatives-is-looking-into-the-way-the-federal-reserve-bank-of-new-york-investigated-the-thef.md)
-_Context: Bangladesh, February's attack on Bangladesh's central bank, Federal Reserve Bank of New York, U.S. House_
+_Context: Bangladesh, February's attack on Bangladesh's central bank, Federal Reserve Bank of New York, United States House of Representatives_
 
 ### [The Saudi Arabian Public Investment Fund raises $3.5 billion for Uber. It is the largest single investment the company has ever received. ](/news/2016/06/1/the-saudi-arabian-public-investment-fund-raises-3-5-billion-for-uber-it-is-the-largest-single-investment-the-company-has-ever-received.md)
 _Context: Public Investment Fund, Saudi Arabia, Uber_

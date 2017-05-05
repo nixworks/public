@@ -55,7 +55,7 @@ President Obama outlined a new immigration policy under which young illegal immi
 _Context: Congress of Colombia_
 
 ### [The Holy See establishes the Personal Ordinariate of Our Lady of the Southern Cross, for former Anglicans in Australia. ](/news/2012/06/15/the-holy-see-establishes-the-personal-ordinariate-of-our-lady-of-the-southern-cross-for-former-anglicans-in-australia.md)
-_Context: Anglicans, Australia, Our Lady of the Southern Cross, Personal Ordinariate, Vatican_
+_Context: Anglicans, Australia, Holy See, Our Lady of the Southern Cross, Personal Ordinariate_
 
 ### [Bulgarian remains believed by some to be John The Baptist are scientifically dated to the first century AD. ](/news/2012/06/15/bulgarian-remains-believed-by-some-to-be-john-the-baptist-are-scientifically-dated-to-the-first-century-ad.md)
 _Context: Bulgarian remains, John The Baptist_

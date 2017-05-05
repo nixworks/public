@@ -13,7 +13,7 @@ _Context: Antonio Villaraigosa, California, Los Angeles Police Department, May D
 _Context: Ahmed Haroun, Ali Kushayb, Darfur conflict, International Criminal Court, Janjaweed, Sudan, arrest warrant, war crime_
 
 ### [ Iraq War: U.S. President George W. Bush meets with Democratic Party officials in Congress to try find ways to fund the Iraq War. ](/news/2007/05/2/iraq-war-u-s-president-george-w-bush-meets-with-democratic-party-officials-in-congress-to-try-find-ways-to-fund-the-iraq-war.md)
-_Context: Democratic, George W. Bush, Iraq War, U.S. Congress, U.S. President_
+_Context: Democrats, George W. Bush, Iraq War, U.S. Congress, U.S. President_
 
 ### [ French presidential election, 2007: Candidates Nicolas Sarkozy and Sgolne Royal participate in a televised debate. ](/news/2007/05/2/french-presidential-election-2007-candidates-nicolas-sarkozy-and-segolene-royal-participate-in-a-televised-debate.md)
 _Context: 2007 presidential election, Nicolas Sarkozy, Sgolne Royal, televised debate_

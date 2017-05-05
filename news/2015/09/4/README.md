@@ -40,7 +40,7 @@ Steering winds could take Ignacio, currently a post-tropical cyclone, into the s
 Forty-one people have been injured in central Switzerland when a British tourist bus and four trucks were involved in a collision.
 
 ### [Two British VICE News journalists, Jake Hanrahan and Philip Pendlebury, arrested on 28 August in Diyarbakir Province in southeastern Turkey on terror charges, are released while their colleague, translator Mohammed Ismael Rasool, remains in custody. ](/news/2015/09/4/two-british-vice-news-journalists-jake-hanrahan-and-philip-pendlebury-arrested-on-28-august-in-diyarbakir-province-in-southeastern-turkey.md)
-_Context: Britons, Diyarbakir Province, VICE News, southeast Turkey_
+_Context: British people, Diyarbakir Province, VICE News, southeast Turkey_
 
 ### [US Open (tennis) drone arrest. ](/news/2015/09/4/us-open-tennis-drone-arrest.md)
 A teacher in New York is arrested on charges of flying and crashing a drone into a row of empty seats during a tennis match at the US Open, police say.

@@ -10,16 +10,16 @@ _Context: England, Surrey, foot-and-mouth disease, livestock, outbreak of 2007_
 _Context: United States Army, gang rape, plea deals_
 
 ### [ The United States House of Representatives passes the budget for the United States Department of Defense. ](/news/2007/08/4/the-united-states-house-of-representatives-passes-the-budget-for-the-united-states-department-of-defense.md)
-_Context: Defense Department, U.S. House_
+_Context: Defense Department, United States House of Representatives_
 
 ### [ The United States House of Representatives passes an energy bill which aims to expand the use of renewable energy and reduce tax concessions to oil companies. ](/news/2007/08/4/the-united-states-house-of-representatives-passes-an-energy-bill-which-aims-to-expand-the-use-of-renewable-energy-and-reduce-tax-concession.md)
-_Context: U.S. House, energy, renewable energy_
+_Context: United States House of Representatives, energy, renewable energy_
 
 ### [ A vehicle with Florida license plates driven by men of Middle Eastern origin is stopped by police in Goose Creek, South Carolina, and found to be carrying explosive devices. ](/news/2007/08/4/a-vehicle-with-florida-license-plates-driven-by-men-of-middle-eastern-origin-is-stopped-by-police-in-goose-creek-south-carolina-and-found.md)
 _Context: Florida, Goose Creek, South Carolina, Middle East, explosives_
 
 ### [ The United States House of Representatives approves legislation expanding the United States Government's ability to conduct surveillance without a court order on foreign terrorism suspects. ](/news/2007/08/4/the-united-states-house-of-representatives-approves-legislation-expanding-the-united-states-government-s-ability-to-conduct-surveillance-wi.md)
-_Context: U.S. House, United States government, terrorism_
+_Context: United States House of Representatives, United States government, terrorism_
 
 ### [ Brazilian Defense Minister Nelson Jobim fires the head of the Brazilian airports authority, Jose Carlos Pereira for recent problems including the crash of TAM Linhas Aereas Flight 3054 and hires Sergio Gaudenzi, the President of the Brazilian Space Agency. ](/news/2007/08/4/brazilian-defense-minister-nelson-jobim-fires-the-head-of-the-brazilian-airports-authority-josa-c-carlos-pereira-for-recent-problems-includ.md)
 The political fallout from the worst plane crash in Brazilian history continued as the president of the national airports authority was fired.

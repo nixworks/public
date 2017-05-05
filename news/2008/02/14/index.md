@@ -4,7 +4,7 @@
 Bulgaria explained. Quality reporting and analyses tailored to the needs of foreign business individuals.
 
 ### [ The United States House of Representatives approves contempt of Congress citations against Harriet Miers and Joshua Bolten in the U.S. Attorneys controversy. ](/news/2008/02/14/the-united-states-house-of-representatives-approves-contempt-of-congress-citations-against-harriet-miers-and-joshua-bolten-in-the-u-s-atto.md)
-_Context: Harriet Miers, Joshua Bolten, U.S. House, contempt, firings_
+_Context: Harriet Miers, Joshua Bolten, United States House of Representatives, contempt, firings_
 
 ### [ A gunman opens fire at a lecture hall at Northern Illinois University, injuring as many as 18 students and with at least six people dead including the gunman. ](/news/2008/02/14/a-gunman-opens-fire-at-a-lecture-hall-at-northern-illinois-university-injuring-as-many-as-18-students-and-with-at-least-six-people-dead-in.md)
 _Context: Northern Illinois University, opens fire at a lecture hall_

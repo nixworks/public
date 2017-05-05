@@ -31,7 +31,7 @@ Thousands of Japanese gathered in sweltering heat on the southern island of Okin
 _Context: Democratic Republic of the Congo_
 
 ### [ The United States House of Representatives votes 220-215 to pass the highly debated health care reform act. ](/news/2009/11/8/the-united-states-house-of-representatives-votes-220-215-to-pass-the-highly-debated-health-care-reform-act.md)
-_Context: U.S. House, health care reform act_
+_Context: United States House of Representatives, health care reform act_
 
 ### [ The Dalai Lama begins a visit to Tawang, in the disputed territory of Arunachal Pradesh in northeastern India, amid objections from China. ](/news/2009/11/8/the-dalai-lama-begins-a-visit-to-tawang-in-the-disputed-territory-of-arunachal-pradesh-in-northeastern-india-amid-objections-from-china.md)
 _Context: 14th Dalai Lama, Arunachal Pradesh, China's, India, Tawang_

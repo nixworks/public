@@ -16,7 +16,7 @@ _Context: South African mines_
 _Context: Moscow, Semion Mogilevich, organized crime from Russia_
 
 ### [ United States presidential election, 2008: Ohio Congressman Dennis Kucinich withdraws his candidacy. ](/news/2008/01/25/united-states-presidential-election-2008-ohio-congressman-dennis-kucinich-withdraws-his-candidacy.md)
-_Context: 2008, Dennis Kucinich, Ohio, U.S. House_
+_Context: 2008, Dennis Kucinich, Ohio, United States House of Representatives_
 
 ### [ An explosion in a Beirut suburb (Hazmiyeh) kills Lebanon's top anti-terror investigating officer and his driver. ](/news/2008/01/25/an-explosion-in-a-beirut-suburb-hazmiyeh-kills-lebanon-s-top-anti-terror-investigating-officer-and-his-driver.md)
 _Context: Beirut, Lebanon_

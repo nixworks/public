@@ -52,7 +52,7 @@ _Context: Bislan Ismailov, Chechen, France, Theo van Gogh_
 _Context: Egypt, constitution, referendum_
 
 ### [ The Judiciary Committee of the U.S. Senate approved a bill to create a $140 billion trust fund for the payment of asbestos-related claims. The bill now goes to the Senate floor, no analogous bill is yet before the House of Representatives. ](/news/2005/05/26/the-judiciary-committee-of-the-u-s-senate-approved-a-bill-to-create-a-140-billion-trust-fund-for-the-payment-of-asbestos-related-claims.md)
-_Context: U.S. House, U.S. Senate, U.S. Senate Committee on the Judiciary, asbestos-related claims_
+_Context: U.S. Senate, U.S. Senate Committee on the Judiciary, United States House of Representatives, asbestos-related claims_
 
 ### [ In Tennessee, five members of the state legislature are arrested on federal bribery charges in Operation Tennessee Waltz.](/news/2005/05/26/in-tennessee-five-members-of-the-state-legislature-are-arrested-on-federal-bribery-charges-in-operation-tennessee-waltz.md)
 _Context: Operation Tennessee Waltz, Tennessee, bribes, federal, state legislature_

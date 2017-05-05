@@ -16,7 +16,7 @@ At least 12 people have died after a bus carrying the Tunisian presidential guar
 Iran-backed rebels in Yemen have blown up several bridges in the mountainous southwestern Taez province to hamper the advance of pro-government forces, military sources said Tuesday. Government forces backed by air and ground support from a Saudi-led coalition launched an all-out offensive last week
 
 ### [Barack Obama presents the Presidential Medal of Freedom to 17 people including Willie Mays, Barbra Streisand, Itzhak Perlman, James Taylor, Gloria Estefan and Emilio Estefan, Stephen Sondheim and Steven Spielberg. ](/news/2015/11/24/barack-obama-presents-the-presidential-medal-of-freedom-to-17-people-including-willie-mays-barbra-streisand-itzhak-perlman-james-taylor.md)
-_Context: Barbra Streisand, Emilio Estefan, Gloria Estefan, Itzhak Perlman, James Taylor, Obama, Presidential Medal of Freedom with Distinction, Stephen Sondheim, Steven Spielberg, Willie Mays_
+_Context: Barack Obama, Barbra Streisand, Emilio Estefan, Gloria Estefan, Itzhak Perlman, James Taylor, Presidential Medal of Freedom with Distinction, Stephen Sondheim, Steven Spielberg, Willie Mays_
 
 ### [The National Assembly of Vietnam unanimously passes the law, which will take effect in 2017 as part of the revised civil code, that recognizes and allows gender reassignment surgery. ](/news/2015/11/24/the-national-assembly-of-vietnam-unanimously-passes-the-law-which-will-take-effect-in-2017-as-part-of-the-revised-civil-code-that-recogniz.md)
 Get the latest health&nbsp;news, diet &amp; fitness information, medical research, health care trends and health issues that affect you and your family on ABCNews.com

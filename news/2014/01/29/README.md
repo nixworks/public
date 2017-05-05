@@ -31,7 +31,7 @@ A new Czech coalition government has assumed office after being sworn in by Pres
 Backlash over online poll on Leningrad siege leads to channel being axed from networks amid claims of Kremlin interference
 
 ### [U.S. President Barack Obama signs the myRA at a visit to U.S. Steel's Irvin Works in metropolitan Pittsburgh. ](/news/2014/01/29/u-s-president-barack-obama-signs-the-myra-at-a-visit-to-u-s-steel-s-irvin-works-in-metropolitan-pittsburgh.md)
-_Context: Irvin Works, Obama, Pittsburgh, U.S. Steel, myRA_
+_Context: Barack Obama, Irvin Works, Pittsburgh, U.S. Steel, myRA_
 
 ## [Previous Day...](/news/2014/01/28/index.md)
 

@@ -4,7 +4,7 @@
 Microsoft said it was abandoning its bid after it raised its offer by $5 billion but Yahoo rejected it as still too low.
 
 ### [ United States presidential election, 2008: The Guam caucuses result in a near-perfect tie, with Barack Obama ahead by only 7 ballots in 4,521. ](/news/2008/05/3/united-states-presidential-election-2008-the-guam-caucuses-result-in-a-near-perfect-tie-with-barack-obama-ahead-by-only-7-ballots-in-4-5.md)
-_Context: 2008, Guam caucuses, Obama_
+_Context: 2008, Barack Obama, Guam caucuses_
 
 ### [ Big Brown wins the 2008 Kentucky Derby. Eight Belles, the only filly in the field, breaks down after finishing second in the race, and is euthanized. ](/news/2008/05/3/big-brown-wins-the-2008-kentucky-derby-eight-belles-the-only-filly-in-the-field-breaks-down-after-finishing-second-in-the-race-and-is-e.md)
 _Context: 2008 Kentucky Derby, Big Brown, Eight Belles, euthanizing animals, filly_

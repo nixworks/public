@@ -43,7 +43,7 @@ _Context: Fukushima Daiichi nuclear disaster, Japan, a bill, nuclear reactor_
 Prime minister says there is &quot;still time&quot; until general elections; Netanyahu leads over Feiglin by large margin.
 
 ### [Democratic Party candidate Suzanne Bonamici wins a special election to represent the 1st congressional district of Oregon in the United States House of Representatives. ](/news/2012/01/31/democratic-party-candidate-suzanne-bonamici-wins-a-special-election-to-represent-the-1st-congressional-district-of-oregon-in-the-united-stat.md)
-_Context: 1st congressional district, Democratic, Oregon, Suzanne Bonamici, U.S. House, special election_
+_Context: 1st congressional district, Democrats, Oregon, Suzanne Bonamici, United States House of Representatives, special election_
 
 ## [Previous Day...](/news/2012/01/30/index.md)
 

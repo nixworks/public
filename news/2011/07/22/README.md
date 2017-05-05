@@ -10,7 +10,7 @@ Syrian forces shot dead at least 11 people during mass protests on Friday agains
 Malawian authorities have blocked a mass funeral for seven people killed during two days of rioting in the northern city of Mzuzu, a rights activist says. 
 
 ### [China is to ordain seven more bishops, amid a dispute with the Vatican. ](/news/2011/07/22/china-is-to-ordain-seven-more-bishops-amid-a-dispute-with-the-vatican.md)
-_Context: China's, Vatican_
+_Context: China's, Holy See_
 
 ### [Elliot Handler who cofounded Mattel with his wife dies at age 95. ](/news/2011/07/22/elliot-handler-who-cofounded-mattel-with-his-wife-dies-at-age-95.md)
 Mr. Handler helped introduce Barbie, helped design the talking doll Chatty Cathy and popularized Hot Wheels toy cars.

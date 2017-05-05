@@ -49,7 +49,7 @@ Former president, 88, has been in the hospital for a week battling a cough; cond
 A Goddard-built instrument on NASA&#039;s MESSENGER mission provided one of three new lines of evidence that water ice exists near the north pole of Mercury.
 
 ### [The new species of darter fish are classified and named as ''Etheostoma obama'' after U.S. President Barack Obama. ](/news/2012/11/29/the-new-species-of-darter-fish-are-classified-and-named-as-etheostoma-obama-after-u-s-president-barack-obama.md)
-_Context: Etheostoma obama, Obama, U.S. President, darter fish_
+_Context: Barack Obama, Etheostoma obama, U.S. President, darter fish_
 
 ### [Luiz Felipe Scolari takes over as coach of Brazil national football team, 2014 FIFA World Cup hosts, 10 years after leading the team to the 2002 FIFA World Cup title. ](/news/2012/11/29/luiz-felipe-scolari-takes-over-as-coach-of-brazil-national-football-team-2014-fifa-world-cup-hosts-10-years-after-leading-the-team-to-the.md)
 Reuters.co.uk for top sports stories from international and UK. Reuters is the leading global provider of news, financial information and technology solutions to the world’s media, financial institutions, businesses and individuals.

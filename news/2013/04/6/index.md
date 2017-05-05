@@ -37,7 +37,7 @@ Hundreds of thousands of marchers call for law that would include death penalty 
 Tammam Salam was officially named the new prime minister of Lebanon on Saturday after receiving a string of endorsements from the country’s warring factions over the past few days.
 
 ### [Pope Francis appoints Spain's Jose Rodriguez Carballo, O.F.M., as Secretary to the Congregation for Institutes of Consecrated Life and Societies of Apostolic Life, which oversees all Catholic religious orders,  his first nomination to the Vatican bureaucracy. ](/news/2013/04/6/pope-francis-appoints-spain-s-josa-c-rodraguez-carballo-o-f-m-as-secretary-to-the-congregation-for-institutes-of-consecrated-life-and-soc.md)
-_Context: Catholic faithful, Congregation for Institutes of Consecrated Life and Societies of Apostolic Life, Jose Rodriguez Carballo, O.F.M., Pope Francis, Spain, Vatican_
+_Context: Catholic faithful, Congregation for Institutes of Consecrated Life and Societies of Apostolic Life, Holy See, Jose Rodriguez Carballo, O.F.M., Pope Francis, Spain_
 
 ### [In the 2012-13 Fussball-Bundesliga, Bayern Munich wins their 23rd Bundesliga title with a record six games to spare. ](/news/2013/04/6/in-the-2012a13-fuaball-bundesliga-bayern-munich-wins-their-23rd-bundesliga-title-with-a-record-six-games-to-spare.md)
 Bayern Munich clinch the Bundesliga title with six games to spare after a win 1-0 at Eintracht Frankfurt.

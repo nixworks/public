@@ -19,7 +19,7 @@ _Context: Afghanistan, United States Army_
 A bomb threat for London has been issued by Irish dissidents - in what officials say is the first coded warning outside Northern Ireland in 10 years.
 
 ### [The Congregation for the Doctrine of the Faith in the Vatican tells Roman Catholics to cooperate with police in investigating alleged cases of sexual abuse by clergy. ](/news/2011/05/16/the-congregation-for-the-doctrine-of-the-faith-in-the-vatican-tells-roman-catholics-to-cooperate-with-police-in-investigating-alleged-cases.md)
-_Context: Congregation for the Doctrine of the Faith, Roman Catholic, Vatican, alleged cases of sexual abuse by clergy_
+_Context: Congregation for the Doctrine of the Faith, Holy See, Roman Catholic, alleged cases of sexual abuse by clergy_
 
 ### [The Fox TV network cancels ''America's Most Wanted'' after 23 years on the air and 1151 fugitives caught. ](/news/2011/05/16/the-fox-tv-network-cancels-america-s-most-wanted-after-23-years-on-the-air-and-1151-fugitives-caught.md)
 _Context: America's Most Wanted, Fox Broadcasting Company_

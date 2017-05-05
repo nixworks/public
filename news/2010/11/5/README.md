@@ -13,7 +13,7 @@ _Context: Dubai, United Parcel Service, Yemen bomb attacks, al-Qaida_
 Members of the National Union of Journalists working for BBC News take industrial action in a dispute over proposed changes to staff pensions.
 
 ### [MSNBC suspends U.S. television pundit Keith Olbermann indefinitely for making political donations to three Democratic Party candidates. ](/news/2010/11/5/msnbc-suspends-u-s-television-pundit-keith-olbermann-indefinitely-for-making-political-donations-to-three-democratic-party-candidates.md)
-_Context: Democratic, Keith Olbermann, MSNBC, political donation_
+_Context: Democrats, Keith Olbermann, MSNBC, political donation_
 
 ### [''Ready Steady Cook'', thought to be the longest running cookery show currently on television, is axed by the BBC. ](/news/2010/11/5/ready-steady-cook-thought-to-be-the-longest-running-cookery-show-currently-on-television-is-axed-by-the-bbc.md)
 _Context: BBC, Ready Steady Cook_

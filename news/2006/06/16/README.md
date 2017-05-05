@@ -1,7 +1,7 @@
 ## [2006-06-16](/news/2006/06/16/index.md)
 
 ### [ The United States House of Representatives passes a resolution supporting President Bush's policy on Iraq 256-153. ](/news/2006/06/16/the-united-states-house-of-representatives-passes-a-resolution-supporting-president-bush-s-policy-on-iraq-256-153.md)
-_Context: George W. Bush, Iraq, U.S. House_
+_Context: George W. Bush, Iraq, United States House of Representatives_
 
 ### [ Surveillance and intelligence reports have confirmed that North Korea is preparing to test its Taepodong-2 missiles on Sunday. ](/news/2006/06/16/surveillance-and-intelligence-reports-have-confirmed-that-north-korea-is-preparing-to-test-its-taepodong-2-missiles-on-sunday.md)
 _Context: North Korea, Taepodong-2_

@@ -22,7 +22,7 @@ _Context: Free Trade Agreement_
 John Kerry became the first U.S. secretary of state ever to travel to Somalia on Monday.
 
 ### [The President of the United States Barack Obama nominates Joseph F. Dunford, Jr., the Commandant of the United States Marine Corps as the next Chairman of the Joint Chiefs of Staff. ](/news/2015/05/5/the-president-of-the-united-states-barack-obama-nominates-joseph-f-dunford-jr-the-commandant-of-the-united-states-marine-corps-as-the-ne.md)
-_Context: Chairman of the Joint Chiefs of Staff, Commandant of the United States Marine Corps, Joseph F. Dunford, Jr., Obama_
+_Context: Barack Obama, Chairman of the Joint Chiefs of Staff, Commandant of the United States Marine Corps, Joseph F. Dunford, Jr._
 
 ### [2016 United States presidential election: Former Governor of Arkansas Mike Huckabee announces that he is seeking the Republican Party nomination. ](/news/2015/05/5/2016-united-states-presidential-election-former-governor-of-arkansas-mike-huckabee-announces-that-he-is-seeking-the-republican-party-nomina.md)
 _Context: 2016 United States presidential election, Governor of Arkansas, Mike Huckabee, Republican_

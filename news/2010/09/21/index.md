@@ -13,7 +13,7 @@ A helicopter crash Tuesday brought the number of NATO service members killed in 
 _Context: France, Niger, al-Qaeda, kidnapped_
 
 ### [Lawrence Summers announces that he will leave as head of the United States National Economic Council, responsible for advising President Barack Obama on economic policy. ](/news/2010/09/21/lawrence-summers-announces-that-he-will-leave-as-head-of-the-united-states-national-economic-council-responsible-for-advising-president-bar.md)
-_Context: Lawrence Summers, Obama, United States National Economic Council, president_
+_Context: Barack Obama, Lawrence Summers, United States National Economic Council, president_
 
 ### [In the Mark Cuban insider trading case, an appeals court overturns a district court decision last fall that had dismissed the civil charges brought against Cuban by the U.S. Securities and Exchange Commission. [http://www.marketwatch.com/story/mark-cuban-inside-trading-case-revived-2010-09-21 (MarketWatch)]. ](/news/2010/09/21/in-the-mark-cuban-insider-trading-case-an-appeals-court-overturns-a-district-court-decision-last-fall-that-had-dismissed-the-civil-charges.md)
 _Context: Mark Cuban, SEC, insider trading_
@@ -25,7 +25,7 @@ _Context: 2010 Atlantic hurricane season, Atlantic, Cape Verde Islands_
 _Context: China's, Japan, Naoto Kan, Prime Minister, United Nations_
 
 ### [Italian authorities seize 23&nbsp;million euro (approximately US$30&nbsp;million) from a Vatican bank account in a money laundering probe. ](/news/2010/09/21/italian-authorities-seize-23-nbsp-million-euro-approximately-us-30-nbsp-million-from-a-vatican-bank-account-in-a-money-laundering-probe.md)
-_Context: $, Italian, Vatican, euro_
+_Context: $, Holy See, Italian, euro_
 
 ### [U.S. entertainers Paris Hilton and Nicky Hilton are stopped by immigrations at a Japanese airport and forbidden to enter the country due to Paris's drug conviction the day prior. ](/news/2010/09/21/u-s-entertainers-paris-hilton-and-nicky-hilton-are-stopped-by-immigrations-at-a-japanese-airport-and-forbidden-to-enter-the-country-due-to.md)
 _Context: Japan, Nicky Hilton, Paris Hilton_

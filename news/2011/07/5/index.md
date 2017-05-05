@@ -55,7 +55,7 @@ Argentine President Cristina Fernandez unveils economic measures to help the sou
 _Context: Brian Schweitzer, Governor, Montana, Yellowstone River, state of emergency_
 
 ### [The US city of Phoenix, Arizona is hit by a large dust storm leaving thousands of people without power and grounding flights at Phoenix  Sky Harbor International Airport. ](/news/2011/07/5/the-us-city-of-phoenix-arizona-is-hit-by-a-large-dust-storm-leaving-thousands-of-people-without-power-and-grounding-flights-at-phoenix-sky.md)
-_Context: Arizona, Phoenix  Sky Harbor International Airport, Phoenix, Arizona, sandstorm_
+_Context: Arizona, Phoenix  Sky Harbor International Airport, Phoenix, Arizona, dust storm_
 
 ### [One person is killed and 29 injured in an escalator malfunction on the Beijing Subway at Beijing Zoo Station. ](/news/2011/07/5/one-person-is-killed-and-29-injured-in-an-escalator-malfunction-on-the-beijing-subway-at-beijing-zoo-station.md)
 _Context: Beijing Subway, Beijing Zoo Station, escalator_

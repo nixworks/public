@@ -4,7 +4,7 @@
 _Context: Canada, Maple Leaf Foods, Toronto, listeriosis outbreak_
 
 ### [ The 2008 National Convention of the U.S. Democratic Party begins in Denver, Colorado. ](/news/2008/08/25/the-2008-national-convention-of-the-u-s-democratic-party-begins-in-denver-colorado.md)
-_Context: 2008 National Convention, Colorado, Democratic, Denver, U.S._
+_Context: 2008 National Convention, Colorado, Democrats, Denver, U.S._
 
 ### [ Tropical Storm Gustav forms in the Atlantic Ocean and heads for the Dominican Republic and Haiti. ](/news/2008/08/25/tropical-storm-gustav-forms-in-the-atlantic-ocean-and-heads-for-the-dominican-republic-and-haiti.md)
 _Context: Atlantic, Dominican Republic, Haiti, Tropical Storm Gustav_

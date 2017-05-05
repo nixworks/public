@@ -1,7 +1,7 @@
 ## [2008-11-24](/news/2008/11/24/index.md)
 
 ### [ United States President-elect Barack Obama announces his Treasury team, which includes Timothy F. Geithner as Secretary, Lawrence Summers as president of the National Economic Council, and Christina Romer as chair of the Council of Economic Advisers. ](/news/2008/11/24/united-states-president-elect-barack-obama-announces-his-treasury-team-which-includes-timothy-f-geithner-as-secretary-lawrence-summers-a.md)
-_Context: Christina Romer, Council of Economic Advisers, Lawrence Summers, Obama, President-elect, Timothy F. Geithner, Treasury Secretary, United States, United States Department of the Treasury, United States National Economic Council, president_
+_Context: Barack Obama, Christina Romer, Council of Economic Advisers, Lawrence Summers, President-elect, Timothy F. Geithner, Treasury Secretary, United States, United States Department of the Treasury, United States National Economic Council, president_
 
 ### [ United Kingdom Prime Minister Gordon Brown outlines plans to raise the income tax rate for the first time since 1975. ](/news/2008/11/24/united-kingdom-prime-minister-gordon-brown-outlines-plans-to-raise-the-income-tax-rate-for-the-first-time-since-1975.md)
 _Context: 1975, Gordon Brown, Prime Minster, United Kingdom, tax_

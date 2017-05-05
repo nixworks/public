@@ -43,7 +43,7 @@ Barnes &amp; Noble Inc (BKS.N) has settled a lawsuit brought against it by Sprin
 _Context: Lake Mweru, Zambia_
 
 ### [A dust storm hits Christchurch, New Zealand, hampering the recovery efforts from the 2011 Canterbury earthquake. ](/news/2011/03/2/a-dust-storm-hits-christchurch-new-zealand-hampering-the-recovery-efforts-from-the-2011-canterbury-earthquake.md)
-_Context: 2011 Canterbury earthquake, Christchurch, New Zealand, sandstorm_
+_Context: 2011 Canterbury earthquake, Christchurch, New Zealand, dust storm_
 
 ### [Prosecutors in Paris, France, say that British fashion designer John Galliano will face criminal charges over alleged anti-Semitic remarks. ](/news/2011/03/2/prosecutors-in-paris-france-say-that-british-fashion-designer-john-galliano-will-face-criminal-charges-over-alleged-anti-semitic-remarks.md)
 _Context: France, John Galliano, Paris, anti-Semitism, fashion designer, prosecutor_
@@ -76,13 +76,13 @@ _Context: Cyprus, Nicosia, Turkish government, Turks_
 Senate Republicans stepped up their efforts Wednesday to compel the 14 Senate Democrats who fled Wisconsin two weeks ago to come home.
 
 ### [The President of the United States Barack Obama signs a bill preventing a shutdown of the United States government for another two weeks. ](/news/2011/03/2/the-president-of-the-united-states-barack-obama-signs-a-bill-preventing-a-shutdown-of-the-united-states-government-for-another-two-weeks.md)
-_Context: Obama, United States government, president_
+_Context: Barack Obama, United States government, president_
 
 ### [The South Dakota Senate passes a bill requiring additional steps to provide informed consent before a woman can have an abortion. ](/news/2011/03/2/the-south-dakota-senate-passes-a-bill-requiring-additional-steps-to-provide-informed-consent-before-a-woman-can-have-an-abortion.md)
 After a long and emotional debate, the South Dakota Senate on Wednesday approved a bill requiring additional steps to provide informed consent before a woman can have an abortion.
 
 ### [Hawaii Democratic Party Senator Daniel Akaka announces that he will not be standing for reelection in the United States Senate election in Hawaii. ](/news/2011/03/2/hawaii-democratic-party-senator-daniel-akaka-announces-that-he-will-not-be-standing-for-reelection-in-the-united-states-senate-election-in-h.md)
-_Context: Daniel Akaka, Democratic, Hawaii, Senator, United States Senate election in Hawaii_
+_Context: Daniel Akaka, Democrats, Hawaii, Senator, United States Senate election in Hawaii_
 
 ### [Elections in the Netherlands: Dutch provincial elections of 2011. The People's Party for Freedom and Democracy (VVD) obtain the highest number of votes cast, The Labour Party (PvdA) obtain the second highest number of votes. ](/news/2011/03/2/elections-in-the-netherlands-dutch-provincial-elections-of-2011-the-people-s-party-for-freedom-and-democracy-vvd-obtain-the-highest-numb.md)
 _Context: Dutch provincial elections of 2011, Elections in the Netherlands, Labour Party, People's Party for Freedom and Democracy_

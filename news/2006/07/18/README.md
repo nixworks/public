@@ -16,7 +16,7 @@ _Context: Iraq, Kufa, car bomb_
 _Context: A doctor, Hurricane Katrina, Memorial Medical Center, New Orleans, United States, euthanasia, murder_
 
 ### [ The United States House of Representatives fails to pass a constitutional amendment to ban same-sex marriage with a 236-187 vote; 47 short of the necessary two-thirds support needed to pass an amendment. ](/news/2006/07/18/the-united-states-house-of-representatives-fails-to-pass-a-constitutional-amendment-to-ban-same-sex-marriage-with-a-236-187-vote-47-short.md)
-_Context: U.S. House, constitutional amendment to ban, same-sex marriage_
+_Context: United States House of Representatives, constitutional amendment to ban, same-sex marriage_
 
 ### [ Tropical Storm Beryl forms off the coast of the U.S. state of North Carolina, 180 miles southeast of Cape Hatteras. It is the second tropical storm to form in the North Atlantic in the 2006 hurricane season. ](/news/2006/07/18/tropical-storm-beryl-forms-off-the-coast-of-the-u-s-state-of-north-carolina-180-miles-southeast-of-cape-hatteras-it-is-the-second-tropic.md)
 _Context: Cape Hatteras, North Carolina, Tropical Storm Beryl, hurricane, state_

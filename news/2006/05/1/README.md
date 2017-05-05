@@ -1,7 +1,7 @@
 ## [2006-05-1](/news/2006/05/1/index.md)
 
 ### [ Chinese Patriotic Catholic Association outraged Vatican by planning to  ordain another bishop, Liu Xinhong in Anhui Province. On Sunday, China has already ordained Ma Yinglin, not approved by the Holy See, as a bishop in Yunnan. Hong Kong Cardinal Joseph Zen urged the Vatican to stop diplomatic talks with China [http://www.guardian.co.uk/worldlatest/story/0,,-5793952,00.html]](/news/2006/05/1/chinese-patriotic-catholic-association-outraged-vatican-by-planning-to-ordain-another-bishop-liu-xinhong-in-anhui-province-on-sunday-ch.md)
-_Context: Anhui, Cardinal, China, Hong Kong, Joseph Zen, Liu Xinhong, Ma Yinglin, Vatican, Yunnan, state-backed church_
+_Context: Anhui, Cardinal, China, Holy See, Hong Kong, Joseph Zen, Liu Xinhong, Ma Yinglin, Yunnan, state-backed church_
 
 ### [ King Gyanendra of Nepal swears in Girija Prasad Koirala as the new Prime Minister of Nepal. Baburam Bhattarai of the CPN(M) which controls two thirds of the country, states that his party will respect the results of an election to a constituent assembly, so long as these are "free and fair". ](/news/2006/05/1/king-gyanendra-of-nepal-swears-in-girija-prasad-koirala-as-the-new-prime-minister-of-nepal-baburam-bhattarai-of-the-cpn-m-which-controls.md)
 _Context: Baburam Bhattarai, Girija Prasad Koirala, Gyanendra of Nepal, Maoist supporters, Prime Minister, constituent assembly_

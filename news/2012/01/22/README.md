@@ -28,7 +28,7 @@ _Context: Madagascar, Marc Ravalomanana, President_
 _Context: referendum on EU accession_
 
 ### [Representative Gabrielle Giffords of Arizona announces her resignation from office to focus on her recovery after surviving an attempted assassination in 2011. ](/news/2012/01/22/representative-gabrielle-giffords-of-arizona-announces-her-resignation-from-office-to-focus-on-her-recovery-after-surviving-an-attempted-ass.md)
-_Context: Arizona, Gabrielle Giffords, U.S. House, attempted assassination_
+_Context: Arizona, Gabrielle Giffords, United States House of Representatives, attempted assassination_
 
 ### [The first round of the Presidential election takes place in Finland. ](/news/2012/01/22/the-first-round-of-the-presidential-election-takes-place-in-finland.md)
 _Context: Finnish Presidential election_

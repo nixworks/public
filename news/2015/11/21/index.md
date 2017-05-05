@@ -19,7 +19,7 @@ _Context: Boko Haram insurgency, Cameroon, Far North Region, Fotokol, Nigeria, s
 After 5-hour manhunt, police capture Muhammad Tarada, 18, in yard of private residence; 2 other Palestinians also arrested on suspicion of aiding terrorist
 
 ### [British singer Adele's album ''25'' is released. ](/news/2015/11/21/british-singer-adele-s-album-25-is-released.md)
-_Context: 25, Adele, Britons_
+_Context: 25, Adele, British people_
 
 ### [Miss World Canada Anastasia Lin says that she is prevented from competing in China by the Chinese authorities after she spoke up against human rights abuses in the country. ](/news/2015/11/21/miss-world-canada-anastasia-lin-says-that-she-is-prevented-from-competing-in-china-by-the-chinese-authorities-after-she-spoke-up-against-hum.md)
 _Context: Anastasia Lin, China, Human rights in China, Miss World 2015, Miss World Canada_

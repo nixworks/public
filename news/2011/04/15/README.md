@@ -58,7 +58,7 @@ Two Croatian military leaders are jailed for war crimes committed in the 1990s, 
 PokerStars, Full Tilt Poker and Absolute Poker have been charged by Manhattan U.S. Attorney with fraud, illegal gambling and money laundering.
 
 ### [Karl Rodney, the organiser of controversial trips to the Caribbean by United States House of Representatives member Charles Rangel, is charged with lying to investigators about them. ](/news/2011/04/15/karl-rodney-the-organiser-of-controversial-trips-to-the-caribbean-by-united-states-house-of-representatives-member-charles-rangel-is-charg.md)
-_Context: Caribbean, Charles Rangel, Karl Rodney, U.S. House_
+_Context: Caribbean, Charles Rangel, Karl Rodney, United States House of Representatives_
 
 ### [US actor Nicolas Cage is arrested in New Orleans for alleged domestic abuse battery, disturbing the peace and public drunkenness. ](/news/2011/04/15/us-actor-nicolas-cage-is-arrested-in-new-orleans-for-alleged-domestic-abuse-battery-disturbing-the-peace-and-public-drunkenness.md)
 Actor Nicolas Cage was freed from jail Saturday after an alleged drunken incident on a New Orleans street the night before got him arrested, city police said.
@@ -70,7 +70,7 @@ _Context: Beijing, Toronto, York University, webcam_
 _Context: Australian Council of Trade Unions, Australian Workers' Union, Julia Gillard, carbon tax, minority government_
 
 ### [At a fundraiser, Barack Obama is caught on an open mic confronting Paul Ryan's record of creating the debt which he is now claiming to be trying to fix, among numerous other things. ](/news/2011/04/15/at-a-fundraiser-barack-obama-is-caught-on-an-open-mic-confronting-paul-ryan-s-record-of-creating-the-debt-which-he-is-now-claiming-to-be-tr.md)
-_Context: Obama, Paul Ryan_
+_Context: Barack Obama, Paul Ryan_
 
 ### [Researchers in Japan and Australia successfully teleport wave packets of light, the first transfer of quantum information from one point to another in a Schrodinger's cat experiment. ](/news/2011/04/15/researchers-in-japan-and-australia-successfully-teleport-wave-packets-of-light-the-first-transfer-of-quantum-information-from-one-point-to.md)
 Researchers from Australia and Japan have successfully teleported wave packets of light, potentially revolutionising quantum communications and computing.

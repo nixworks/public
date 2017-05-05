@@ -19,7 +19,7 @@ _Context: Cuba, economy, productivity_
 _Context: Canada, Canadian Prime Minister, Inuit, Metis, Native American, Stephen Harper, aboriginal peoples of Canada, assimilate, residential schools_
 
 ### [ The United States House of Representatives votes today on whether to refer Articles of Impeachment against George W. Bush introduced Monday evening by Rep. Dennis Kucinich to a committee. ](/news/2008/06/11/the-united-states-house-of-representatives-votes-today-on-whether-to-refer-articles-of-impeachment-against-george-w-bush-introduced-monday.md)
-_Context: Articles of Impeachment, Dennis Kucinich, U.S. House_
+_Context: Articles of Impeachment, Dennis Kucinich, United States House of Representatives_
 
 ### [ InBev, the world's largest brewing company makes an unsolicited $46 billion takeover bid for United States brewing company Anheuser-Busch. ](/news/2008/06/11/inbev-the-world-s-largest-brewing-company-makes-an-unsolicited-46-billion-takeover-bid-for-united-states-brewing-company-anheuser-busch.md)
 _Context: Anheuser-Busch, InBev, U.S. dollar, United States, brewing, takeover_

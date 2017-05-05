@@ -28,7 +28,7 @@ China loosens its currency controls in a move that may spur gains in the value o
 Police beef up airport presence in anticipation of pro-Palestinians&#8217; arrival; official letter wishes them a pleasant journey home
 
 ### [The U.S. Secret Service announces it has put 11 agents on leave while it investigates alleged "inappropriate conduct" in Cartagena, Colombia, before the 6th Summit of the Americas there attended by U.S. President Barack Obama. It emerges that five soldiers are also facing investigation. ](/news/2012/04/15/the-u-s-secret-service-announces-it-has-put-11-agents-on-leave-while-it-investigates-alleged-inappropriate-conduct-in-cartagena-colombia.md)
-_Context: 6th Summit of the Americas, Cartagena, Obama, U.S. Secret Service_
+_Context: 6th Summit of the Americas, Barack Obama, Cartagena, U.S. Secret Service_
 
 ### [In his first public speech, North Korean leader Kim Jong-un calls for a push towards "final victory" at a ceremony in Kim Il-sung Square in the capital Pyongyang. ](/news/2012/04/15/in-his-first-public-speech-north-korean-leader-kim-jong-un-calls-for-a-push-towards-final-victory-at-a-ceremony-in-kim-il-sung-square-in.md)
 _Context: Kim Il-Sung Square, Kim Jong-un, North Korea, Pyongyang_

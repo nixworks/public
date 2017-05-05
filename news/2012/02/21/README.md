@@ -13,7 +13,7 @@ _Context: Bangkok, Iran, Malaysia, Thailand, bombings, extradited_
 Police have reclaimed control of Bali&#039;s infamous Kerobokan prison, which last night erupted in rioting as prisoners set fire to parts of the desperately overcrowded facility and hurled stones at staff.
 
 ### [The 2012 BRIT Awards for British popular music are held in O2 Arena in London with Adele, One Direction, Ed Sheeran and Coldplay among the winners. ](/news/2012/02/21/the-2012-brit-awards-for-british-popular-music-are-held-in-o2-arena-in-london-with-adele-one-direction-ed-sheeran-and-coldplay-among-the-w.md)
-_Context: 2012 BRIT Awards, Adele, Britons, Coldplay, Ed Sheeran, London, O2 Arena, One Direction, popular music_
+_Context: 2012 BRIT Awards, Adele, British people, Coldplay, Ed Sheeran, London, O2 Arena, One Direction, popular music_
 
 ### [Euro zone finance ministers reach an agreement on a second Greek bailout. ](/news/2012/02/21/euro-zone-finance-ministers-reach-an-agreement-on-a-second-greek-bailout.md)
 Euro zone finance ministers struck a deal for a second bailout program for Greece that will involve financing of 130 billion euros.

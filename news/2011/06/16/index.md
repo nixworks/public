@@ -7,7 +7,7 @@ _Context: Ayman al-Zawahiri, Osama bin Laden, al-Qaeda_
 _Context: Government of Malaysia, hacker group Anonymous, hackers_
 
 ### [Sections of the British media report that Prince Harry has been cleared to return to service in the Afghan War. ](/news/2011/06/16/sections-of-the-british-media-report-that-prince-harry-has-been-cleared-to-return-to-service-in-the-afghan-war.md)
-_Context: Britons, Prince Harry, War in Afghanistan (2001-present)_
+_Context: British people, Prince Harry, War in Afghanistan (2001-present)_
 
 ### [Libyan leader Muammar Gaddafi's compound in Tripoli is hit by a NATO bombing raid. ](/news/2011/06/16/libyan-leader-muammar-gaddafi-s-compound-in-tripoli-is-hit-by-a-nato-bombing-raid.md)
 _Context: Libyan, Muammar Gaddafi, NATO, Tripoli_
@@ -19,7 +19,7 @@ The BBC must make an on-air apology to Primark over a Panorama film which showed
 _Context: London, Sir Stanley Spencer, Sotheby's_
 
 ### [British comedians Matt Lucas and David Walliams end their partnership which led to successful television shows ''Come Fly With Me'' and ''Little Britain''. ](/news/2011/06/16/british-comedians-matt-lucas-and-david-walliams-end-their-partnership-which-led-to-successful-television-shows-come-fly-with-me-and-li.md)
-_Context: Britons, Come Fly With Me, David Walliams, Little Britain, Matt Lucas_
+_Context: British people, Come Fly With Me, David Walliams, Little Britain, Matt Lucas_
 
 ### [Software company Oracle announces that it is looking for damages "in the billions of dollars" from Google in an ongoing patent law action over the smartphone. ](/news/2011/06/16/software-company-oracle-announces-that-it-is-looking-for-damages-in-the-billions-of-dollars-from-google-in-an-ongoing-patent-law-action-ov.md)
 Oracle Corp is seeking damages &quot;in the billions of dollars&quot; from Google Inc in a patent lawsuit over the smartphone market, according to a court filing.
@@ -49,7 +49,7 @@ A senior aide and consultant hired by former Maryland governor Robert L. Ehrlich
 MPs pass a motion condemning the Malaysian asylum swap deal, a move which opens the way for Greens legislation that could scrap the proposal.
 
 ### [U.S. Representative Anthony Weiner of New York resigns his office amidst pressure from Democratic leadership and President Barack Obama after admitting to sending lewd photos via Twitter. ](/news/2011/06/16/u-s-representative-anthony-weiner-of-new-york-resigns-his-office-amidst-pressure-from-democratic-leadership-and-president-barack-obama-afte.md)
-_Context: Anthony Weiner, Democratic, New York, Obama, Twitter, U.S. House, president, sending lewd photos_
+_Context: Anthony Weiner, Barack Obama, Democrats, New York, Twitter, United States House of Representatives, president, sending lewd photos_
 
 ## [Previous Day...](/news/2011/06/15/index.md)
 

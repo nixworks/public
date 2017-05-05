@@ -7,7 +7,7 @@ _Context: George W. Bush, Iraq, Tony Blair, U-2, UN resolution_
 Venezuelan President Hugo Chavez said Thursday he was expelling a U.S. Embassy military official who officials accused of spying with Venezuelan officers. 
 
 ### [ Representative John Boehner of Ohio becomes the U.S. House Majority Leader, beating out acting majority leader Roy Blunt in a house vote. ](/news/2006/02/2/representative-john-boehner-of-ohio-becomes-the-u-s-house-majority-leader-beating-out-acting-majority-leader-roy-blunt-in-a-house-vote.md)
-_Context: John Boehner, Majority Leader, Ohio, Roy Blunt, U.S. House_
+_Context: John Boehner, Majority Leader, Ohio, Roy Blunt, United States House of Representatives_
 
 ### [ Royal Dutch Shell breaks the record for the highest ever annual profit for a British company with a total of 13.12bn ](/news/2006/02/2/royal-dutch-shell-breaks-the-record-for-the-highest-ever-annual-profit-for-a-british-company-with-a-total-of-ps13-12bn.md)
 _Context: Royal Dutch Shell_

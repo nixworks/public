@@ -7,7 +7,7 @@ _Context: 7 August, Congress of Bolivia, Evo Morales, President of Bolivia, Vote
 _Context: Federal Preventive Police, Mexico, Mexico City, dgar Eusebio Milln Gmez_
 
 ### [ The United States House of Representatives approves legislation developed by Barney Frank to let the United States government insure up to $300 billion in mortgages to help homeowners avert foreclosure. ](/news/2008/05/8/the-united-states-house-of-representatives-approves-legislation-developed-by-barney-frank-to-let-the-united-states-government-insure-up-to.md)
-_Context: Barney Frank, U.S. House, U.S. dollar, United States government, foreclose, insure, mortgages_
+_Context: Barney Frank, U.S. dollar, United States House of Representatives, United States government, foreclose, insure, mortgages_
 
 ### [ The Iraqi Minister of Defence claims that the leader of Al-Qaeda in Iraq, Abu Ayyub al-Masri, has been captured. ](/news/2008/05/8/the-iraqi-minister-of-defence-claims-that-the-leader-of-al-qaeda-in-iraq-abu-ayyub-al-masri-has-been-captured.md)
 _Context: Abu Ayyub al-Masri, Iraq, Iraqi Defense Minister, al-Qaeda in Iraq_
@@ -34,7 +34,7 @@ _Context: Cyclone Nargis_
 _Context: Italian Prime Minister, Silvio Berlusconi_
 
 ### [ The PRO-IP Act passes through the United States House of Representatives. ](/news/2008/05/8/the-pro-ip-act-passes-through-the-united-states-house-of-representatives.md)
-_Context: PRO-IP Act, U.S. House_
+_Context: PRO-IP Act, United States House of Representatives_
 
 ## [Previous Day...](/news/2008/05/7/index.md)
 

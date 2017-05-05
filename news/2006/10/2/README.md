@@ -22,7 +22,7 @@ _Context: (Wikinews), AK-47s, Las Vegas, Nevada, United States_
 _Context: Harrah's Entertainment_
 
 ### [ Former U.S. Rep. Mark Foley, under FBI investigation for e-mail exchanges with teenage congressional pages, has checked himself into rehabilitation facility for alcoholism treatment.](/news/2006/10/2/former-u-s-rep-mark-foley-under-fbi-investigation-for-e-mail-exchanges-with-teenage-congressional-pages-has-checked-himself-into-rehabi.md)
-_Context: FBI, Mark Foley, U.S. House, United States, alcoholism, congressional page, e-mail_
+_Context: FBI, Mark Foley, United States, United States House of Representatives, alcoholism, congressional page, e-mail_
 
 ### [ Andrew Fire and Craig Mello win the Nobel Prize in Physiology or Medicine for their work in controlling the activity of genes. ](/news/2006/10/2/andrew-fire-and-craig-mello-win-the-nobel-prize-in-physiology-or-medicine-for-their-work-in-controlling-the-activity-of-genes.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

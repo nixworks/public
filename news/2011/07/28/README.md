@@ -49,7 +49,7 @@ _Context: Britain's nuclear weapons tests during the 1950s, Supreme Court of Eng
 _Context: President of Tunisia, Zine El Abidine Ben Ali_
 
 ### [John Boehner delays a vote on the United States House of Representatives debt ceiling legislation with the issue deferred until at least Friday. ](/news/2011/07/28/john-boehner-delays-a-vote-on-the-united-states-house-of-representatives-debt-ceiling-legislation-with-the-issue-deferred-until-at-least-fri.md)
-_Context: 2011 U.S. debt ceiling crisis, John Boehner, U.S. House_
+_Context: 2011 U.S. debt ceiling crisis, John Boehner, United States House of Representatives_
 
 ### [Astronomers using the Wide-field Infrared Survey Explorer telescope identify a Trojan asteroid, calling it ''2010 TK<sub>7</sub>'', orbiting on the same path as the Earth around the Sun.  The rock poses no danger to the Earth since it sits in a what is termed a gravitational "sweet spot". ](/news/2011/07/28/astronomers-using-the-wide-field-infrared-survey-explorer-telescope-identify-a-trojan-asteroid-calling-it-2010-tk7-orbiting-on-the-sam.md)
 Astronomers detect an asteroid not far from Earth, moving in the same orbit around the Sun, that could be a target for future manned space missions.

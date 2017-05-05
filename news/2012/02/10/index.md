@@ -61,7 +61,7 @@ _Context: Daily Mail, Nat Rothschild, Oleg Deripaska, Peter Mandelson_
 A man suspected of involvement in the 2003 killing of Serbian Prime Minister Zoran Djindjic is arrested in Spain, police say.
 
 ### [An Uzbek man Ulugbek Kodirov pleads guilty to plotting with the Islamic Movement of Uzbekistan to assassinate President of the United States Barack Obama in a hearing in Birmingham, Alabama. ](/news/2012/02/10/an-uzbek-man-ulugbek-kodirov-pleads-guilty-to-plotting-with-the-islamic-movement-of-uzbekistan-to-assassinate-president-of-the-united-states.md)
-_Context: Alabama, Birmingham, Islamic Movement of Uzbekistan, Obama, Ulugbek Kodirov, Uzbek, president_
+_Context: Alabama, Barack Obama, Birmingham, Islamic Movement of Uzbekistan, Ulugbek Kodirov, Uzbek, president_
 
 ### [Chinese Premier Wen Jiabao pledges greater freedoms in Tibet, hours after two protesters are killed demanding the end of Chinese rule in the region; seven officials are also sacked for "neglecting state duties". ](/news/2012/02/10/chinese-premier-wen-jiabao-pledges-greater-freedoms-in-tibet-hours-after-two-protesters-are-killed-demanding-the-end-of-chinese-rule-in-the.md)
 _Context: China's, Tibet, Wen Jiabao_

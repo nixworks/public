@@ -34,7 +34,7 @@ _Context: Platform Networks, hacking_
 _Context: Nguyen Tan Dung, prime minister_
 
 ### [David Wu resigns as a member of the United States House of Representatives following allegations of an unwanted sexual encounter with an 18-year-old. ](/news/2011/07/26/david-wu-resigns-as-a-member-of-the-united-states-house-of-representatives-following-allegations-of-an-unwanted-sexual-encounter-with-an-18.md)
-_Context: David Wu, U.S. House_
+_Context: David Wu, United States House of Representatives_
 
 ### [Luis Gutirrez, an Illinois member of the United States House of Representatives, is arrested outside the White House in Washington D.C. during protests calling for immigration reform. ](/news/2011/07/26/luis-gutierrez-an-illinois-member-of-the-united-states-house-of-representatives-is-arrested-outside-the-white-house-in-washington-d-c-dur.md)
  Rep. Luis Gutierrez was arrested Tuesday by U.S. Park Police while advocating for immigration reform during a demonstration in front of the White House.

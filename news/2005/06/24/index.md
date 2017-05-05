@@ -6,7 +6,7 @@ _Context: Yuma, Arizona, hospital_
 ### [ Juan Rivera Was Found Dead In His Carteret N.J Home](/news/2005/06/24/juan-rivera-was-found-dead-in-his-carteret-n-j-home.md)
 ### [ Share prices of American airlines fell sharply as oil neared $60 a barrel. ](/news/2005/06/24/share-prices-of-american-airlines-fell-sharply-as-oil-neared-60-a-barrel.md)
 ### [ The United States House of Representatives voted to prevent United Airlines from transferring its pension plan obligations to the government insurer, the Pension Benefit Guaranty Corporation. ](/news/2005/06/24/the-united-states-house-of-representatives-voted-to-prevent-united-airlines-from-transferring-its-pension-plan-obligations-to-the-governmen.md)
-_Context: Pension Benefit Guaranty Corporation, U.S. House, United Airlines_
+_Context: Pension Benefit Guaranty Corporation, United Airlines, United States House of Representatives_
 
 ### [ An Italian judge ordering the arrest of 13 people linked to the CIA on charges of kidnapping terrorism suspect Abu Omar allegedly in order to have him tortured in Egypt dramatizes a growing rift between the U.S. and its allies in the War on Terrorism. ](/news/2005/06/24/an-italian-judge-ordering-the-arrest-of-13-people-linked-to-the-cia-on-charges-of-kidnapping-terrorism-suspect-abu-omar-allegedly-in-order.md)
 _Context: Egypt, Hassan Mustafa Osama Nasr, Italian, United States, War on Terrorism, torture_

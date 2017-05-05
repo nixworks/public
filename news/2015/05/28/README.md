@@ -25,7 +25,7 @@ Dennis Hastert was charged with structuring cash withdrawals to evade currency t
 Independent TD Catherine Murphy has spoken in the Dáil about the business relationship between Denis O&#39;Brien and the Irish Bank Resolution Corporation (IBRC) - the former Anglo Irish Bank - including alleged details of his loans.
 
 ### [Former Governor of New York, George Pataki, announces that he is seeking the Republican Party nomination for the 2016 presidential election. ](/news/2015/05/28/former-governor-of-new-york-george-pataki-announces-that-he-is-seeking-the-republican-party-nomination-for-the-2016-presidential-election.md)
-_Context: George Pataki, New York Governor, Republican, United States presidential election, 2016, presidential primaries_
+_Context: 2016 U.S. presidential election, George Pataki, New York Governor, Republican, presidential primaries_
 
 ### [NASA awards Boeing a commercial contract to build and fly the next passenger spacecraft, the CST-100. ](/news/2015/05/28/nasa-awards-boeing-a-commercial-contract-to-build-and-fly-the-next-passenger-spacecraft-the-cst-100.md)
 Nasa has awarded Boeing a commercial human spaceflight mission to include the company’s first-ever service flight to the International Space Station. 

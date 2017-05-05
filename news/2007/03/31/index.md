@@ -10,7 +10,7 @@ _Context:  Insurgency in Somalia, International Committee of the Red Cross, Moga
 _Context: D-AMPS cellular network, Telecom New Zealand_
 
 ### [ 2007 Chinese Sandstorms: After severe sandstorms caused communication and transportation problems in Hohhot and other regions of Inner Mongolia, the first severe sandstorm of the year hits Beijing and the surrounding regions of Liaoning, Xinjiang and Tianjin. ](/news/2007/03/31/2007-chinese-sandstorms-after-severe-sandstorms-caused-communication-and-transportation-problems-in-hohhot-and-other-regions-of-inner-mong.md)
-_Context: Beijing, Hohhot, Inner Mongolia, Liaoning, Tianjin, Xinjiang, sandstorm_
+_Context: Beijing, Hohhot, Inner Mongolia, Liaoning, Tianjin, Xinjiang, dust storm_
 
 ### [ Iranian seizure of British Navy personnel: The United States rules out exchanging five Iranian officials seized in Irbil, Iraq, in January 2007 for the 15 Royal Navy sailors seized by Iran. ](/news/2007/03/31/iranian-seizure-of-british-navy-personnel-p-the-united-states-rules-out-exchanging-five-iranian-officials-seized-in-irbil-iraq-in-january.md)
 _Context: Iran, Iranian, Iraq, Irbil, January, Royal Navy, United States, held captive by Iran, sailors_

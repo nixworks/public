@@ -28,7 +28,7 @@ _Context: Iran, Luiz Inacio Lula da Silva, Recep Tayyip Erdogan, Tehran_
 _Context: Canada, Cathay Pacific, Vancouver International Airport_
 
 ### [United States President Barack Obama is to ask the US Congress for an extra $200m in military aid to help Israel get a short-range rocket defence system called Iron Dome in place against mortar and rocket attacks from Gaza or Southern Lebanon. ](/news/2010/05/16/united-states-president-barack-obama-is-to-ask-the-us-congress-for-an-extra-200m-in-military-aid-to-help-israel-get-a-short-range-rocket-de.md)
-_Context: Gaza Strip, Iron Dome, Israel, Obama, Southern Lebanon, US Congress, United States, military aid_
+_Context: Barack Obama, Gaza Strip, Iron Dome, Israel, Southern Lebanon, US Congress, United States, military aid_
 
 ### [French lecturer Clotilde Reiss, charged with spying in Iran after last June's disputed election, is released and returns to Paris. ](/news/2010/05/16/french-lecturer-clotilde-reiss-charged-with-spying-in-iran-after-last-june-s-disputed-election-is-released-and-returns-to-paris.md)
 Woman arrested after disputed presidential poll, released and on her way home.

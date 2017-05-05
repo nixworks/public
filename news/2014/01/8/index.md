@@ -34,7 +34,7 @@ _Context: Foreign Narcotics Kingpin Designation Act, Jos Rodrigo Archiga Gamboa,
 _Context: 2011 England Riots, High Court, London, Metropolitan Police, Tottenham, Trident Gang Crime Command, deadly police shooting of Mark Duggan, firearms officers, inquest_
 
 ### [A book released by former U.S. Defense Secretary Robert Gates criticizes President Barack Obama for his handling of the War in Afghanistan. ](/news/2014/01/8/a-book-released-by-former-u-s-defense-secretary-robert-gates-criticizes-president-barack-obama-for-his-handling-of-the-war-in-afghanistan.md)
-_Context: Obama, Robert Gates, War in Afghanistan (2001-present)_
+_Context: Barack Obama, Robert Gates, War in Afghanistan (2001-present)_
 
 ## [Previous Day...](/news/2014/01/7/index.md)
 

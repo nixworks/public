@@ -46,7 +46,7 @@ Former Zambian Finance Minister Katele Kalumba is jailed for five years with har
 Vehicles damaged in blast in southern province of Kandahar but no deaths reported.
 
 ### [Charles Djou is sworn into the United States House of Representatives, representing Hawaii's 1st congressional district. ](/news/2010/05/26/charles-djou-is-sworn-into-the-united-states-house-of-representatives-representing-hawaii-s-1st-congressional-district.md)
-_Context: 1st congressional district, Charles Djou, Hawaii, U.S. House_
+_Context: 1st congressional district, Charles Djou, Hawaii, United States House of Representatives_
 
 ### [Space Shuttle ''Atlantis'' completes its final scheduled mission after landing at Kennedy Space Center, Florida. ](/news/2010/05/26/space-shuttle-atlantis-completes-its-final-scheduled-mission-after-landing-at-kennedy-space-center-florida.md)
 The Atlantis space shuttle touches down at Kennedy Space Center in Florida after what looks to have been its final mission.

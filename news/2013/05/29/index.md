@@ -37,7 +37,7 @@ _Context: Mayors Against Illegal Guns, Michael Bloomberg, New York Police Depart
 Police say they have charged Michael Adebowale with murdering a British soldier last week in a brazen attack in broad daylight
 
 ### [U.S. Representative Michele Bachmann of Minnesota, a prominent figure in the Tea Party movement, abruptly announces that she will not seek reelection to a fifth term in November 2014. ](/news/2013/05/29/u-s-representative-michele-bachmann-of-minnesota-a-prominent-figure-in-the-tea-party-movement-abruptly-announces-that-she-will-not-seek-r.md)
-_Context: Michele Bachmann, Minnesota, Tea Party, U.S. House_
+_Context: Michele Bachmann, Minnesota, Tea Party, United States House of Representatives_
 
 ### [''Aurornis xui'' is described as the most basal species of ''Avialae'', potentially unseating ''Archaeopteryx'' as the oldest known bird. ](/news/2013/05/29/aurornis-xui-is-described-as-the-most-basal-species-of-avialae-potentially-unseating-archaeopteryx-as-the-oldest-known-bird.md)
 What may be the earliest creature yet discovered on the evolutionary line to birds has been unearthed from the famous fossil beds of Liaoning Province in China.

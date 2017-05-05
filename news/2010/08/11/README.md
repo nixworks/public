@@ -76,7 +76,7 @@ Russia says it has deployed S-300 anti-aircraft missiles in the breakaway Abkhaz
 The US says it plans to sell Kuwait its latest Patriot anti-ballistic missile to meet &quot;current and future threats&quot;.
 
 ### [Lebanese Defence Minister Elias Murr rejects military offers from the United States after $100 million due to Lebanon is blocked by the United States House of Representatives. ](/news/2010/08/11/lebanese-defence-minister-elias-murr-rejects-military-offers-from-the-united-states-after-100-million-due-to-lebanon-is-blocked-by-the-unit.md)
-_Context: Elias Murr, Lebanon, U.S. House_
+_Context: Elias Murr, Lebanon, United States House of Representatives_
 
 ### [''Australopithecus afarensis'' evidently used stone tools for consumption of animal tissues as early as 3.39 million years ago, a study published in ''Nature'' finds. ](/news/2010/08/11/australopithecus-afarensis-evidently-used-stone-tools-for-consumption-of-animal-tissues-as-early-as-3-39-million-years-ago-a-study-publ.md)
 Researchers have unearthed evidence that our ancestors used tools and ate meat 800,000 years earlier than thought.

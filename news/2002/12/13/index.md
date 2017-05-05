@@ -1,7 +1,7 @@
 ## [2002-12-13](/news/2002/12/13/index.md)
 
 ### [The Vatican announces that Pope John Paul&nbsp;II has accepted the resignation of Boston's Cardinal Bernard Francis Law due to widespread outcry among Boston Catholics over Law's role in covering up pedophilia-related and other sex crimes among priests in his diocese.](/news/2002/12/13/the-vatican-announces-that-pope-john-paul-nbsp-ii-has-accepted-the-resignation-of-boston-s-cardinal-bernard-francis-law-due-to-widespread-ou.md)
-_Context: Bernard Francis Law, Pope, Pope John Paul II, Vatican, diocese, priest, sexual relations_
+_Context: Bernard Francis Law, Holy See, Pope, Pope John Paul II, diocese, priest, sexual relations_
 
 ### [US Senate majority leader Trent Lott apologizes on television amid growing outcry for his resignation from both ends of the political spectrum for comments made at Senator Strom Thurmond's 100th birthday party which seemed to support Thurmond's 1948 segregationist presidential campaign platform. ](/news/2002/12/13/us-senate-majority-leader-trent-lott-apologizes-on-television-amid-growing-outcry-for-his-resignation-from-both-ends-of-the-political-spectr.md)
 _Context: Strom Thurmond, Trent Lott, United States Senate, segregationist_

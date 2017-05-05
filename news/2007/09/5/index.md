@@ -77,7 +77,7 @@ _Context: Nawaz Sharif, Pakistan, Pakistan Muslim League, Prime Minister, Punjab
 Prime Minister John Howard has announced that he and US President George W Bush have agreed to discuss a further upgrade of the defence relationship between the two nations.
 
 ### [ The ''Military Times'' reports that a United States Air Force B-52 bomber carried six nuclear warheads from Minot Air Force Base, North Dakota, to Barksdale Air Force Base, Louisiana, in violation of rules concerning the handling of nuclear weapons.  In addition, the bombs were not reported as missing from the Minot weapons inventory.  The squadron commander was relieved of his position, but Representative Ike Skelton says that his committee would investigate the incident.  [http://thelede.blogs.nytimes.com/2007/09/05/loose-nukes-warheads-in-the-sky/?hp (New York Times)], [http://www.msnbc.msn.com/id/20427730/?GT1=10357 (MSNBC)].](/news/2007/09/5/the-military-times-reports-that-a-united-states-air-force-b-52-bomber-carried-six-nuclear-warheads-from-minot-air-force-base-north-dak.md)
-_Context: B-52, Barksdale Air Force Base, Louisiana, Ike Skelton, Military Times, Minot Air Force Base, North Dakota, U.S. House, United States Air Force, committee, nuclear warhead, squadron_
+_Context: B-52, Barksdale Air Force Base, Louisiana, Ike Skelton, Military Times, Minot Air Force Base, North Dakota, United States Air Force, United States House of Representatives, committee, nuclear warhead, squadron_
 
 ## [Previous Day...](/news/2007/09/4/index.md)
 

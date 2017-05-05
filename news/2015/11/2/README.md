@@ -49,7 +49,7 @@ _Context: China, North Korea, Park Geun-hye, President, Prime Minister, Shinzo A
 Days after a U.S. naval ship sailed by, Chinese officials released photographs of armed aircraft training over disputed territory in the South China Sea.
 
 ### [The Vatican police arrest Msgr. Lucio Angel Vallejo Balda|it and Francesca Immacolata Chaouqui, members of a former papal commission charged with studying financial operations of the Holy See, for allegedly leaking confidential documents to the media, a crime since 2013. ](/news/2015/11/2/the-vatican-police-arrest-msgr-lucio-angel-vallejo-balda-it-and-francesca-immacolata-chaouqui-members-of-a-former-papal-commission-charge.md)
-_Context: Francesca Immacolata Chaouqui, Vatican, Vatican City_
+_Context: Francesca Immacolata Chaouqui, Holy See, Vatican City_
 
 ### [French  national public television broadcaster France Televisions fires France 2 TV channel's weatherman  Philippe Verdier, who has been  suspended since mid-October. Verdier, known as "Monsieur Meteo" (Mr Weather), has been promoting his recently published book, ''Climat Investigation'' (Climate Investigation), in which he throws doubt on the global warning findings of leading climate scientists and political leaders.  France Televisions said its rules, "prevent anyone using their professional status ... to push forward their personal opinions."   ](/news/2015/11/2/french-national-public-television-broadcaster-france-ta-c-la-c-visions-fires-france-2-tv-channel-s-weatherman-philippe-verdier-who-has-been.md)
 France 2&rsquo;s Philippe Verdier pooh-poohed global warming ahead of UN summit in Paris 

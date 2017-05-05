@@ -16,7 +16,7 @@ The daughter of a senior adviser to Iranian President Mahmoud Ahmadinejad has ap
 _Context: Bangladesh, Bay of Bengal, Burma, St. Martin's Island, warships_
 
 ### [ Three of the five members of the Norwegian Nobel Committee initially argued against awarding U.S. President Barack Obama the 2009 Nobel Peace Prize. ](/news/2009/10/15/three-of-the-five-members-of-the-norwegian-nobel-committee-initially-argued-against-awarding-u-s-president-barack-obama-the-2009-nobel-pea.md)
-_Context: 2009 Nobel Peace Prize, Norway, Obama_
+_Context: 2009 Nobel Peace Prize, Barack Obama, Norway_
 
 ### [ North Korea accuses South Korea of intruding into its territorial waters, further raising tensions on the Korean Peninsula. ](/news/2009/10/15/north-korea-accuses-south-korea-of-intruding-into-its-territorial-waters-further-raising-tensions-on-the-korean-peninsula.md)
 _Context: Korean Peninsula, North Korea, South Korea, territorial waters_

@@ -13,7 +13,7 @@ _Context: Christian, United Church of Christ, United States, mainline, same-sex 
 _Context: humans lived in the Americas_
 
 ### [ Elections in Albania: Vote tallying in the 2005 Albanian general election continues. Voter turnout was over 50% and results are expected later in the day. International observers, including OSCE, have expressed reservations about the voting process. Three people have been killed during the election.  ](/news/2005/07/5/elections-in-albania-vote-tallying-in-the-2005-albanian-general-election-continues-voter-turnout-was-over-50-and-results-are-expected-la.md)
-_Context: 2005 Albanian general election, Elections in Albania, OSCE, Vote, tallying, turnout_
+_Context: 2005 Albanian general election, Elections in Albania, OSCE, Vote, Voter turnout, tallying_
 
 ### [ In Indonesia, an earthquake ranking from 6.0-6.7 on the Richter scale hits Sumatra. No reports on any damage have yet been released. ](/news/2005/07/5/in-indonesia-an-earthquake-ranking-from-6-0-6-7-on-the-richter-scale-hits-sumatra-no-reports-on-any-damage-have-yet-been-released.md)
 _Context: Indonesia, Richter scale, Sumatra, earthquake_

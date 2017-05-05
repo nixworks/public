@@ -7,7 +7,7 @@ _Context: CeBIT, Expo, Hanover, information technology_
 _Context: Slovenia, euro, monetary union_
 
 ### [ The United States House Appropriations Committee votes to block the Bush administration's plan for Dubai Ports World to take over operations at six major U.S. ports. ](/news/2006/03/8/the-united-states-house-appropriations-committee-votes-to-block-the-bush-administration-s-plan-for-dubai-ports-world-to-take-over-operation.md)
-_Context: Dubai Ports World, George W. Bush administration, House Appropriations Committee, U.S. House_
+_Context: Dubai Ports World, George W. Bush administration, House Appropriations Committee, United States House of Representatives_
 
 ### [ The Government of Chad renews accusations of Sudanese support for attacks by the UFDC into eastern Chad, despite the recent signing of the Tripoli Accord and the successful formation of the ministerial committee. Sudan has accused Chad of supporting ARFWS rebels in the past, and Chad is believed to have stepped up support in light of recent attacks. ](/news/2006/03/8/the-government-of-chad-renews-accusations-of-sudanese-support-for-attacks-by-the-ufdc-into-eastern-chad-despite-the-recent-signing-of-the.md)
 _Context: ARFWS, Sudan, Tripoli Accord, UFDC, second Dby administration_

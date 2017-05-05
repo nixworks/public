@@ -25,7 +25,7 @@ SACRAMENTO — Gov. Jerry Brown signed legislation Tuesday that will make Califo
 The Supreme Court en banc asks the Civil Registrar to respond to a petition filed by a young Filipino lawyer, who identified himself as openly gay 
 
 ### [ United States presidential election, 2016: New Jersey governor Chris Christie formally announces his candidacy for the Republican nomination for the 2016 presidential election. ](/news/2015/06/30/united-states-presidential-election-2016-p-new-jersey-governor-chris-christie-formally-announces-his-candidacy-for-the-republican-nominati.md)
-_Context: Chris Christie, New Jersey Governor, Republican Party presidential candidates, 2016, United States presidential election, 2016_
+_Context: 2016 U.S. presidential election, Chris Christie, New Jersey Governor, Republican Party presidential candidates, 2016_
 
 ### [A leap second is added to the clock for the first time in 3 years. ](/news/2015/06/30/a-leap-second-is-added-to-the-clock-for-the-first-time-in-3-years.md)
 Midnight came later on Tuesday as for the first time in three years an extra second was added to the official time set by atomic clocks.

@@ -13,7 +13,7 @@ _Context: Kurmanbek Bakiyev, Kyrgyzstan, President, Roza Otunbayeva, the recent 
 _Context: Eyjafjallajokull, Iceland_
 
 ### [It is reported that U.S. President Barack Obama on Thursday will unveil a "bold and daring" new space mission to send astronauts to Mars months after he controversially scrapped a project to return to the Moon. ](/news/2010/04/14/it-is-reported-that-u-s-president-barack-obama-on-thursday-will-unveil-a-bold-and-daring-new-space-mission-to-send-astronauts-to-mars-mon.md)
-_Context: Mars, Obama_
+_Context: Barack Obama, Mars_
 
 ### [Controversy arises over the decision to bury Polish President Lech Kaczynski in Wawel Cathedral in Krakow--a place reserved for Poland's kings and heroes. Hundreds of people have taken to the streets in protest, and thousands have joined an internet campaign objecting to the plan. ](/news/2010/04/14/controversy-arises-over-the-decision-to-bury-polish-president-lech-kaczyaski-in-wawel-cathedral-in-kraka3waa-place-reserved-for-poland-s.md)
 _Context: Lech Kaczynski, Poland, Wawel Cathedral_
@@ -25,7 +25,7 @@ _Context: Tokelau, hunt_
 _Context: Liberal Democrats, Nick Clegg_
 
 ### [The Vatican seeks to "clarify" remarks made by a senior cardinal, who linked homosexuality with paedophilia in the abuse scandal facing the Church. ](/news/2010/04/14/the-vatican-seeks-to-clarify-remarks-made-by-a-senior-cardinal-who-linked-homosexuality-with-paedophilia-in-the-abuse-scandal-facing-the.md)
-_Context: Vatican_
+_Context: Holy See_
 
 ### [For the first time in decades, researchers report a significant drop worldwide in the number of women dying each year from pregnancy and childbirth, to about 342,900 in 2008 from 526,300 in 1980. ](/news/2010/04/14/for-the-first-time-in-decades-researchers-report-a-significant-drop-worldwide-in-the-number-of-women-dying-each-year-from-pregnancy-and-chi.md)
 ### [A cargo aircraft crashes on take-off from General Mariano Escobedo International Airport, Monterrey, Mexico, killing five crew members and one person in a car on the ground. ](/news/2010/04/14/a-cargo-aircraft-crashes-on-take-off-from-general-mariano-escobedo-international-airport-monterrey-mexico-killing-five-crew-members-and-o.md)

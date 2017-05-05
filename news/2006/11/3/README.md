@@ -4,7 +4,7 @@
 Get the latest breaking news across the U.S. on ABCNews.com
 
 ### [ U.S. Rep. Bob Ney of Ohio resigns from Congress after having pleaded guilty to charges relating to Jack Abramoff. ](/news/2006/11/3/u-s-rep-bob-ney-of-ohio-resigns-from-congress-after-having-pleaded-guilty-to-charges-relating-to-jack-abramoff.md)
-_Context: Bob Ney, Jack Abramoff, Ohio, U.S. House_
+_Context: Bob Ney, Jack Abramoff, Ohio, United States House of Representatives_
 
 ### [ The U.S. National Transportation Safety Board states that a stiff wind blew the plane carrying New York Yankees pitcher Cory Lidle off-course and into an apartment building in New York City. ](/news/2006/11/3/the-u-s-national-transportation-safety-board-states-that-a-stiff-wind-blew-the-plane-carrying-new-york-yankees-pitcher-cory-lidle-off-cour.md)
 _Context: Cory Lidle, National Transportation Safety Board, New York Yankees, New York's, United States, into an apartment building_

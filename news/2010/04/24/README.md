@@ -52,7 +52,7 @@ _Context: Cheonan, sinking_
 _Context: 2008 Mumbai attacks, Mumbai, Oberoi Hotel_
 
 ### [Prince Philip, Duke of Edinburgh injures his ankle in a carriage driving accident on the Queen's Windsor estate. ](/news/2010/04/24/prince-philip-duke-of-edinburgh-injures-his-ankle-in-a-carriage-driving-accident-on-the-queen-s-windsor-estate.md)
-_Context: Prince Philip, Windsor Castle_
+_Context: Prince Philip, Duke of Edinburgh, Windsor Castle_
 
 ## [Previous Day...](/news/2010/04/23/index.md)
 

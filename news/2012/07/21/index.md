@@ -37,7 +37,7 @@ _Context: Fukushima Daiichi Nuclear Power Plant, Japan, radiation_
 _Context: Chile, Santiago_
 
 ### [Pope Benedict XVI's butler, Paolo Gabriele, is placed under house arrest while awaiting trial for allegedly leaking confidential papers revealing fraud and disputes within the Vatican. ](/news/2012/07/21/pope-benedict-xvi-s-butler-paolo-gabriele-is-placed-under-house-arrest-while-awaiting-trial-for-allegedly-leaking-confidential-papers-reve.md)
-_Context: Benedict XVI, Vatican, house arrest_
+_Context: Benedict XVI, Holy See, house arrest_
 
 ### [President of Russia Vladimir Putin signs the bill branding non-governmental organizations, which receive funding from abroad, as "foreign agents" into law, criticized by opponents as part of a campaign to suppress dissent. ](/news/2012/07/21/president-of-russia-vladimir-putin-signs-the-bill-branding-non-governmental-organizations-which-receive-funding-from-abroad-as-foreign-ag.md)
 Russian President Vladimir Putin has approved a law which will tighten controls on civil rights groups funded from abroad, the his press office said on Saturday, a step opponents say is part of a campaign to suppress dissent.

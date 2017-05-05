@@ -34,7 +34,7 @@ _Context: Al Jazeera, Kuwait_
 The first person to face a second murder trial after the discovery of new forensic evidence is convicted of killing a woman in 1995.
 
 ### [United States District Court for the Eastern District of Virginia Judge Henry E. Hudson rules against Barack Obama's health care reform requirement to purchase health insurance. ](/news/2010/12/13/united-states-district-court-for-the-eastern-district-of-virginia-judge-henry-e-hudson-rules-against-barack-obama-s-health-care-reform-requ.md)
-_Context: Henry E. Hudson, Obama, US Eastern District Court of Virginia, health care reform, health insurance_
+_Context: Barack Obama, Henry E. Hudson, US Eastern District Court of Virginia, health care reform, health insurance_
 
 ### [An American  Catholic nun pleads not guilty to charges of embezzling $850,000 from  Iona College. ](/news/2010/12/13/an-american-catholic-nun-pleads-not-guilty-to-charges-of-embezzling-850-000-from-iona-college.md)
 _Context:  Catholic nun,  Iona College, embezzled_

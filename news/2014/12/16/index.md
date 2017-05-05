@@ -46,7 +46,7 @@ Bradley Stone, the man prosecutors say is responsible for killing his ex-wife an
 A new law allowing those in same-sex relationships to get married in Scotland comes into effect.
 
 ### [Judge Arthur J. Schwab of the US District Court of Pennsylvania declares President Barack Obama's executive order on immigration unconstitutional. ](/news/2014/12/16/judge-arthur-j-schwab-of-the-us-district-court-of-pennsylvania-declares-president-barack-obama-s-executive-order-on-immigration-unconstitut.md)
-_Context: Arthur J. Schwab, Obama, US District Court of Pennsylvania, unconstitutional_
+_Context: Arthur J. Schwab, Barack Obama, US District Court of Pennsylvania, unconstitutional_
 
 ### [For the first time, NASA emailed hardware,   a wrench, to the International Space Station that was  fabricated on the ISS's Zero Gravity 3D printer. ](/news/2014/12/16/for-the-first-time-nasa-emailed-hardware-a-wrench-to-the-international-space-station-that-was-fabricated-on-the-iss-s-zero-gravity-3d.md)
  Butch needed a wrench. Usually this isn&#039;t a big deal, but Butch couldn&#039;t just drive over to Home Depot and grab a new one. &quot;Butch&quot; is ISS Commander Barry W

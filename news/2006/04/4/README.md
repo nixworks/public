@@ -13,7 +13,7 @@ _Context: House of Representatives, Prime Minister of Thailand, Thai Rak Thai, T
 _Context: Film director, Gaza Strip, Israel, James Miller, Palestinian refugee_
 
 ### [ Former Majority Leader Tom DeLay announces his resignation from the United States House of Representatives. ](/news/2006/04/4/former-majority-leader-tom-delay-announces-his-resignation-from-the-united-states-house-of-representatives.md)
-_Context: Majority Leader, Tom DeLay, U.S. House_
+_Context: Majority Leader, Tom DeLay, United States House of Representatives_
 
 ### [ The 39th Canadian Parliament opens in Ottawa, with the Speech from the Throne delivered by the Governor General on behalf of the newly elected government of Stephen Harper. ](/news/2006/04/4/the-39th-canadian-parliament-opens-in-ottawa-with-the-speech-from-the-throne-delivered-by-the-governor-general-on-behalf-of-the-newly-elec.md)
 _Context: 39th Canadian Parliament, Governor General, Ottawa, Stephen Harper, state of the nation_

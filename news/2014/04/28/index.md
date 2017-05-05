@@ -28,7 +28,7 @@ _Context: April 2014 tornado outbreak, central, southern United States, tornado_
 A new deal will allow a limited amount of central European gas to flow to Ukraine via Slovakia.
 
 ### [U.S. Representative Michael Grimm is taken into federal custody on charges relating to a failed restaurant business and allegations that he made false statements.  ](/news/2014/04/28/u-s-representative-michael-grimm-is-taken-into-federal-custody-on-charges-relating-to-a-failed-restaurant-business-and-allegations-that-he.md)
-_Context: Michael Grimm, U.S. House_
+_Context: Michael Grimm, United States House of Representatives_
 
 ### [Paul Simon and wife Edie Brickell are arrested and charged with disorderly conduct.  ](/news/2014/04/28/paul-simon-and-wife-edie-brickell-are-arrested-and-charged-with-disorderly-conduct.md)
 Paul Simon and wife Edie Brickell are arrested and charged with disorderly conduct, according to police in New Canaan, Connecticut.

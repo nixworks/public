@@ -10,7 +10,7 @@ Police in Majorca are on heightened alert following yesterday&#39;s car bombing 
 _Context: National Assembly, Venezuela, freedom of expression_
 
 ### [ U.S. House of Representatives approves an extra $2 billion to the Car Allowance Rebate System. ](/news/2009/07/31/u-s-house-of-representatives-approves-an-extra-2-billion-to-the-car-allowance-rebate-system.md)
-_Context: Car Allowance Rebate System, U.S. House_
+_Context: Car Allowance Rebate System, United States House of Representatives_
 
 ### [ A Norwegian cargo vessel with a crew of six sinks after a storm in Swedish waters near Stromstad. ](/news/2009/07/31/a-norwegian-cargo-vessel-with-a-crew-of-six-sinks-after-a-storm-in-swedish-waters-near-strapmstad.md)
 A Norwegian cargo vessel with a crew of six is believed to have sunk in Swedish waters after a severe storm.

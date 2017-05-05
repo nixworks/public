@@ -4,7 +4,7 @@
 _Context: June 24, May 27, Ukrainian, Ukrainian President, Ukrainian parliamentary election, 2007, Viktor Yushchenko_
 
 ### [ The United States House of Representatives passes legislation that would order United States forces to start withdrawing from Iraq by October 1. ](/news/2007/04/25/the-united-states-house-of-representatives-passes-legislation-that-would-order-united-states-forces-to-start-withdrawing-from-iraq-by-octob.md)
-_Context: Iraq, October 1, U.S. House, United States, legislation_
+_Context: Iraq, October 1, United States, United States House of Representatives, legislation_
 
 ### [ Boris Yeltsin, the first President of Russia, is buried at Novodevichy Cemetery following a funeral service in central Moscow. ](/news/2007/04/25/boris-yeltsin-the-first-president-of-russia-is-buried-at-novodevichy-cemetery-following-a-funeral-service-in-central-moscow.md)
 _Context: Boris Yeltsin, Moscow, Novodevichy Cemetery, Russian President, funeral_

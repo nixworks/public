@@ -74,7 +74,7 @@ Nursultan Nazarbayev calls for early presidential election after rejecting plan 
 _Context: Brussels, European Union, Italian Prime Minister, Silvio Berlusconi_
 
 ### [NASA astronaut Mark Kelly, the husband of Rep Gabrielle Giffords shot last month, announces that he will resume training to command the Space Shuttle Endeavour's final mission STS-134 in April. ](/news/2011/02/4/nasa-astronaut-mark-kelly-the-husband-of-rep-gabrielle-giffords-shot-last-month-announces-that-he-will-resume-training-to-command-the-spac.md)
-_Context: Gabrielle Giffords, Mark Kelly, NASA, Space Shuttle ''Endeavour'', U.S. House, astronaut, final mission_
+_Context: Gabrielle Giffords, Mark Kelly, NASA, Space Shuttle ''Endeavour'', United States House of Representatives, astronaut, final mission_
 
 ### [Researchers report that fishing rates in the Arctic are 75 times higher than those reported by the U.N., suggesting future increased exploitation is less possible than previously thought. ](/news/2011/02/4/researchers-report-that-fishing-rates-in-the-arctic-are-75-times-higher-than-those-reported-by-the-u-n-suggesting-future-increased-exploit.md)
 The amount of fish caught in the Arctic has been dramatically under-reported for decades, making the northern ocean environment appear far more pristine than it really is, according to a new study.

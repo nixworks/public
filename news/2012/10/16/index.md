@@ -55,7 +55,7 @@ John Dalli has resigned from the European Commission, the Commission announced i
 Final reading of bill to dissolve Knesset passes with 100 in favor, none opposed; sets election for January 22, 2013.
 
 ### [The Vatican announces Pope Benedict XVI will send a delegation to Damascus to "express his brotherly solidarity with the entire population". ](/news/2012/10/16/the-vatican-announces-pope-benedict-xvi-will-send-a-delegation-to-damascus-to-express-his-brotherly-solidarity-with-the-entire-population.md)
-_Context: Benedict XVI, Damascus, Vatican_
+_Context: Benedict XVI, Damascus, Holy See_
 
 ### [In 2014 FIFA World Cup qualification - UEFA Group C, Germany, second in the FIFA World Rankings, take a 4-0 first half lead then concede four second half goals to gift Sweden a 4-4 draw in Berlin. ](/news/2012/10/16/in-2014-fifa-world-cup-qualification-a-uefa-group-c-germany-second-in-the-fifa-world-rankings-take-a-4-0-first-half-lead-then-concede-f.md)
 _Context: 2014 FIFA World Cup qualification - UEFA Group C, 4-4, Berlin, FIFA World Rankings, Germany, Swedish_

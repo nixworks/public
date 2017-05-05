@@ -19,7 +19,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: Associated Press, Palestinian_
 
 ### [ Speaker of the United States House of Representatives Dennis Hastert sits down with ethics investigators trying to determine when he and his staff learned about ex-Rep. Mark Foley's come-ons to former male pages and what they did to stop it. ](/news/2006/10/24/speaker-of-the-united-states-house-of-representatives-dennis-hastert-sits-down-with-ethics-investigators-trying-to-determine-when-he-and-hi.md)
-_Context: Dennis Hastert, Mark Foley, Speaker of the United States House of Representatives, U.S. House, come-ons to former male pages_
+_Context: Dennis Hastert, Mark Foley, Speaker of the United States House of Representatives, United States House of Representatives, come-ons to former male pages_
 
 ### [ Firefox 2.0 is released. ](/news/2006/10/24/firefox-2-0-is-released.md)
 _Context: Firefox_

@@ -10,7 +10,7 @@ _Context: Aceh, GAM, Indonesia, Irwandi Yusuf, civil war, elected_
 _Context: Prime Minister, Sitiveni Rabuka, mutinies of the 2000 Fijian coup d'tat_
 
 ### [ Archaeologists working for the Vatican have found the tomb of Paul of Tarsus. ](/news/2006/12/11/archaeologists-working-for-the-vatican-have-found-the-tomb-of-paul-of-tarsus.md)
-_Context: Paul of Tarsus, Vatican_
+_Context: Holy See, Paul of Tarsus_
 
 ### [ United Nations Secretary-General Kofi Annan strongly criticizes the United States, in particular the Bush administration, claiming it has strayed from multilateralism and human rights, in his final speech. ](/news/2006/12/11/united-nations-secretary-general-kofi-annan-strongly-criticizes-the-united-states-in-particular-the-bush-administration-claiming-it-has-s.md)
 _Context: George W. Bush administration, Human rights, Kofi Annan, United Nations Secretary-General, United States, multilateralism_
@@ -28,7 +28,7 @@ _Context: Baha Balousheh, Fatah, Gaza Strip, Sayid Seyam, interior minister_
 _Context: Discovery, International Space Station, Space Shuttle_
 
 ### [ In an interview with Jeff Stein, a national security editor for ''Congressional Quarterly'', Silvestre Reyes, the incoming Chairman of the U.S. House Intelligence Committee incorrectly claims that Al Qaeda is a "predominantly Shiite" organization. When asked if Hezbollah is a Sunni or a Shiite organization, Reyes said "It's hard to keep things in perspective and in the categories." ](/news/2006/12/11/in-an-interview-with-jeff-stein-a-national-security-editor-for-congressional-quarterly-silvestre-reyes-the-incoming-chairman-of-the.md)
-_Context: Congressional Quarterly, Hezbollah, Shiite, Silvestre Reyes, U.S. House, al-Qaeda_
+_Context: Congressional Quarterly, Hezbollah, Shiite, Silvestre Reyes, United States House of Representatives, al-Qaeda_
 
 ### [ A devastating bushfire rips through the town of Scamander, Tasmania in Australia, destroying 23 homes. ](/news/2006/12/11/a-devastating-bushfire-rips-through-the-town-of-scamander-tasmania-in-australia-destroying-23-homes.md)
 _Context: Australia, Scamander, Tasmania, bushfire_

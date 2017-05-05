@@ -10,7 +10,7 @@ Indian police fire water cannons to disperse hundreds of protesters in Uttar Pra
 _Context: Indians, Nepal, Pyuthan district_
 
 ### [A massive sandstorm and record winds hit Iran's capital Tehran, causing power blackouts there and killing at least four people. ](/news/2014/06/2/a-massive-sandstorm-and-record-winds-hit-iran-s-capital-tehran-causing-power-blackouts-there-and-killing-at-least-four-people.md)
-_Context: Iran, Tehran, sandstorm_
+_Context: Iran, Tehran, dust storm_
 
 ### [Four people are arrested in Paris and southern France on suspicion of recruiting militants to fight in Syria.  ](/news/2014/06/2/four-people-are-arrested-in-paris-and-southern-france-on-suspicion-of-recruiting-militants-to-fight-in-syria.md)
 _Context: Paris, Southern France, Syria_

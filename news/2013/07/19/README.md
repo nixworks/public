@@ -10,7 +10,7 @@ _Context: Colombia, FARC_
 _Context: Kevin Rudd, Papua New Guinea, Prime Minister of Australia, asylum seeker_
 
 ### [Pope Francis names a new Pontifical Commission to investigate current accounting practices among all Vatican offices and bodies and to help devise new strategies for greater fiscal responsibility and fiscal transparency. ](/news/2013/07/19/pope-francis-names-a-new-pontifical-commission-to-investigate-current-accounting-practices-among-all-vatican-offices-and-bodies-and-to-help.md)
-_Context: Pontifical Commission, Pope Francis, Vatican, accounting, fiscal responsibility, fiscal transparency_
+_Context: Holy See, Pontifical Commission, Pope Francis, accounting, fiscal responsibility, fiscal transparency_
 
 ### [A Russian court releases Kremlin critic Alexei Navalny a day after being sentenced for alleged embezzlement. ](/news/2013/07/19/a-russian-court-releases-kremlin-critic-alexei-navalny-a-day-after-being-sentenced-for-alleged-embezzlement.md)
 _Context: Alexei Navalny, Russian court, embezzlement_

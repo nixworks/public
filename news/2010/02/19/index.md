@@ -1,7 +1,7 @@
 ## [2010-02-19](/news/2010/02/19/index.md)
 
 ### [Bill McKibben and 350.org reacted to President Barack Obama and Copenhagen Accord. ](/news/2010/02/19/bill-mckibben-and-350-org-reacted-to-president-barack-obama-and-copenhagen-accord.md)
-_Context: 350.org, Bill McKibben, Copenhagen Accord, Obama_
+_Context: 350.org, Barack Obama, Bill McKibben, Copenhagen Accord_
 
 ### [Professional golfer Tiger Woods make a public apology over reports of having extramarital affairs. ](/news/2010/02/19/professional-golfer-tiger-woods-make-a-public-apology-over-reports-of-having-extramarital-affairs.md)
 _Context: Tiger Woods, extramarital affairs_
@@ -37,7 +37,7 @@ _Context: (Wikinews), Facebook, crashed his plane in Austin, United States_
 _Context: Egypt, Egyptian President, Egyptian presidential election in September, IAEA, Mohamed ElBaradei_
 
 ### [Mary MacKillop is to become Australia's first saint, after being approved by the Holy See for canonization. ](/news/2010/02/19/mary-mackillop-is-to-become-australia-s-first-saint-after-being-approved-by-the-holy-see-for-canonization.md)
-_Context: Australia, Mary MacKillop, Vatican, canonized, saints_
+_Context: Australia, Holy See, Mary MacKillop, canonized, saints_
 
 ### [Plans for a Rudyard Kipling museum in his Mumbai home are scrapped due to the uncertainty of his legacy. ](/news/2010/02/19/plans-for-a-rudyard-kipling-museum-in-his-mumbai-home-are-scrapped-due-to-the-uncertainty-of-his-legacy.md)
 _Context: Mumbai, Rudyard Kipling_

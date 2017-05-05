@@ -28,7 +28,7 @@ Twenty-nine people are rescued after a boat carrying about 130 people from Niger
 Southern China has been warned to brace for more storms after extreme weather lashed southern China.
 
 ### [U.S. President Barack Obama, in a formal visit to Israel and the Palestinian territories, states that "Palestinians deserve a state of their own". ](/news/2013/03/21/u-s-president-barack-obama-in-a-formal-visit-to-israel-and-the-palestinian-territories-states-that-palestinians-deserve-a-state-of-their.md)
-_Context: Israel, Obama, Palestinian, Palestinian, Palestinian, U.S. President, visit_
+_Context: Barack Obama, Israel, Palestinian, Palestinian, Palestinian, U.S. President, visit_
 
 ### [North Korea threatens to attack American military bases in Japan in response to the use of nuclear-capable B-52 bombers in joint military drills with South Korea. ](/news/2013/03/21/north-korea-threatens-to-attack-american-military-bases-in-japan-in-response-to-the-use-of-nuclear-capable-b-52-bombers-in-joint-military-dr.md)
 _Context: B-52 Stratofortress, Japan, North Korea, South Korea, United States of America, military drills_

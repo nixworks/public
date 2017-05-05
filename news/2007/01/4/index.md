@@ -13,14 +13,14 @@ _Context: CoRoT, Colorado, December 27, Denver, Rocky Mountains, Soyuz 2, atmosp
 _Context: Freehold Township, New Jersey, Quadrantids, golf ball, meteor shower_
 
 ### [ Nancy Pelosi is elected speaker of the United States House of Representatives, and becomes the first woman to hold that post. ](/news/2007/01/4/nancy-pelosi-is-elected-speaker-of-the-united-states-house-of-representatives-and-becomes-the-first-woman-to-hold-that-post.md)
-_Context: Nancy Pelosi, Speaker of the United States House of Representatives, U.S. House_
+_Context: Nancy Pelosi, Speaker of the United States House of Representatives, United States House of Representatives_
 
 ### [ The New Way Forward in Iraq War leadership: U.S. National Intelligence Director John Negroponte resigns. United States President George W. Bush appoints him Deputy Secretary of State according to officials. ](/news/2007/01/4/the-new-way-forward-in-iraq-war-leadership-p-u-s-national-intelligence-director-john-negroponte-resigns-united-states-president-george-w.md)
 _Context: George W. Bush, Iraq War, John Negroponte, U.S. National Intelligence Director, US Deputy Secretary of State, his strategy change in response to Iraq Study Group criticisms_
 
 ### [ NASA announces ''](/news/2007/01/4/nasa-announces.md)
 ### [ Keith Ellison, the first Muslim member of the United States Congress and the first African American elected to the House from Minnesota is sworn in using Thomas Jefferson's Qur'an. ](/news/2007/01/4/keith-ellison-the-first-muslim-member-of-the-united-states-congress-and-the-first-african-american-elected-to-the-house-from-minnesota-is.md)
-_Context: Keith Ellison, Minnesota, Qur'an, Thomas Jefferson, U.S. Congressional, U.S. House_
+_Context: Keith Ellison, Minnesota, Qur'an, Thomas Jefferson, U.S. Congressional, United States House of Representatives_
 
 ## [Previous Day...](/news/2007/01/3/index.md)
 

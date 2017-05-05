@@ -19,7 +19,7 @@ _Context: Madagascar, Maputo, Mozambique_
 GOHEUNG, South Jeolla Province _ South Korea bumbled its way into the Asian space race Tuesday, with the Naro Space Center witnessing the liftoff of the country’s first space rocket, Korea Space Launch Vehicle 1 (KSLV-1). However, the satellite that the launcher was delivering may just be lost in space or dumped at sea.
 
 ### [ U.S. President Barack Obama nominates Ben Bernanke for his second term as chairman of the Federal Reserve. ](/news/2009/08/25/u-s-president-barack-obama-nominates-ben-bernanke-for-his-second-term-as-chairman-of-the-federal-reserve.md)
-_Context: Ben Bernanke, Chairman of the Federal Reserve, Federal Reserve, Obama_
+_Context: Barack Obama, Ben Bernanke, Chairman of the Federal Reserve, Federal Reserve_
 
 ### [ A bomb in Afghanistan kills four American soldiers, making 2009 the deadliest year for foreign troops since the 2001 invasion. ](/news/2009/08/25/a-bomb-in-afghanistan-kills-four-american-soldiers-making-2009-the-deadliest-year-for-foreign-troops-since-the-2001-invasion.md)
 _Context: Afghanistan, USA, War in Afghanistan (2001-present)_

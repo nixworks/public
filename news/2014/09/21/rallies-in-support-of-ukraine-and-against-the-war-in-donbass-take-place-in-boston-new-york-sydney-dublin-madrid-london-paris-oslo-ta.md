@@ -1,6 +1,6 @@
 ### [2014-09-21](/news/2014/09/21/index.md)
 
-# Rallies in support of Ukraine and against the War in Donbass take place in Boston, New York, Sydney, Dublin, Madrid, London, Paris, Oslo, Tallin, Limassol, Istanbul, Antalya, Cologne, Milan, Rome, Vienna, Munich, Prague, Berlin, Moscow, Volgograd, Yekaterinburg, Perm, Krasnoyarsk, Novosibirsk, Berlaul and Petropavlovsk-Kamchatsky. 
+# Rallies in support of Ukraine and against the War in Donbass take place in Boston, New York, Sydney, Dublin, Madrid, London, Paris, Oslo, Tallinn, Limassol, Istanbul, Antalya, Cologne, Milan, Rome, Vienna, Munich, Prague, Berlin, Moscow, Volgograd, Yekaterinburg, Perm, Krasnoyarsk, Novosibirsk, Berlaul and Petropavlovsk-Kamchatsky. 
 
 
 

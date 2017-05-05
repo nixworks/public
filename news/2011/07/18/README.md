@@ -25,7 +25,7 @@ There is no relief in sight for more than 40 states that will see highs in the 9
 _Context: Arizona, Phoenix, Arizona, haboob_
 
 ### [The Vatican and Malaysia establish diplomatic relations. ](/news/2011/07/18/the-vatican-and-malaysia-establish-diplomatic-relations.md)
-_Context: Malaysia, Vatican_
+_Context: Holy See, Malaysia_
 
 ### [Iran claims to have taken control of three Iranian Kurdish PJAK camps inside Iraq. ](/news/2011/07/18/iran-claims-to-have-taken-control-of-three-iranian-kurdish-pjak-camps-inside-iraq.md)
 _Context: Iran, Iraq, PJAK_

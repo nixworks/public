@@ -28,7 +28,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Kandahar Province, NATO, October 24, Taliban, airstrike_
 
 ### [ Voting begins on a new Serbian constitution that would make Kosovo officially a part of Serbia; voter turnout on day one was low. ](/news/2006/10/28/voting-begins-on-a-new-serbian-constitution-that-would-make-kosovo-officially-a-part-of-serbia-voter-turnout-on-day-one-was-low.md)
-_Context: Kosovo, Serbia, Serbian constitutional referendum, 2006, officially a part of, turnout_
+_Context: Kosovo, Serbia, Serbian constitutional referendum, 2006, Voter turnout, officially a part of_
 
 ### [ Joseph Kabila and Jean-Pierre Bemba face-off in the presidential run-off election in Democratic Republic of the Congo. ](/news/2006/10/28/joseph-kabila-and-jean-pierre-bemba-face-off-in-the-presidential-run-off-election-in-democratic-republic-of-the-congo.md)
 _Context: Democratic Republic of the Congo, Jean-Pierre Bemba, Joseph Kabila, presidential candidate in 2006_

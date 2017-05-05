@@ -61,7 +61,7 @@ _Context: Chancellor of the Exchequer, George Osborne, United Kingdom, tax_
 Disgraced Barnsley Central MP resigns days before he is due to be sentenced for dishonestly claiming parliamentary expenses.
 
 ### [The United States House of Representatives fails to pass extensions of key provisions of the USA Patriot Act by the necessary two-thirds majority. ](/news/2011/02/8/the-united-states-house-of-representatives-fails-to-pass-extensions-of-key-provisions-of-the-usa-patriot-act-by-the-necessary-two-thirds-maj.md)
-_Context: U.S. House, USA PATRIOT Act_
+_Context: USA PATRIOT Act, United States House of Representatives_
 
 ### [Brazilian environmentalists and indigenous rights activists protest against the Belo Monte Dam in Brasilia. ](/news/2011/02/8/brazilian-environmentalists-and-indigenous-rights-activists-protest-against-the-belo-monte-dam-in-brasilia.md)
 _Context: Belo Monte Dam, Brasilia, Brazil, indigenous rights_

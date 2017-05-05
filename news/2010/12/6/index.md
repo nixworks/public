@@ -28,7 +28,7 @@ Officials from Turkey and Israel meet in Geneva to try to heal the diplomatic ri
 US&#x20;airline&#x20;Continental&#x20;has&#x20;been&#x20;found&#x20;criminally&#x20;responsible&#x20;for&#x20;the&#x20;fatal&#x20;2000&#x20;Concorde&#x20;crash.&#x20;The&#x20;crash&#x20;killed&#x20;113&#x20;people&#x20;and&#x20;bought&#x20;the&#x20;era&#x20;of&#x20;supersonic&#x20;passenger&#x20;flights&#x20;to&#x20;an&#x20;abrupt&#x20;end.
 
 ### [The President of the United States Barack Obama says that a deal has been reached with the Republican Party to extend the Bush era tax cuts. ](/news/2010/12/6/the-president-of-the-united-states-barack-obama-says-that-a-deal-has-been-reached-with-the-republican-party-to-extend-the-bush-era-tax-cuts.md)
-_Context: George W. Bush, Obama, Republican, president_
+_Context: Barack Obama, George W. Bush, Republican, president_
 
 ## [Previous Day...](/news/2010/12/5/index.md)
 
