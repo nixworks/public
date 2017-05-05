@@ -1,6 +1,6 @@
 ### [2017-05-3](/news/2017/05/3/index.md)
 
-# Puerto Rico files for the largest 'local government' bankruptcy in the United States. 
+# Puerto Rico files for the largest "local government" bankruptcy in the United States. 
 
 Puerto Rico announced a historic restructuring of its public debt on Wednesday, touching off what may be the biggest bankruptcy ever in the $3.8 trillion U.S. municipal bond market.
 

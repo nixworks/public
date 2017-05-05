@@ -1,5 +1,8 @@
 ## [2017-05-4](/news/2017/05/4/index.md)
 
+### [A student is killed amid gunfire in El Tigre, raising the minimum death toll of protests against Nicolas Maduro's government to 37 in the past month. ](/news/2017/05/4/a-student-is-killed-amid-gunfire-in-el-tigre-raising-the-minimum-death-toll-of-protests-against-nicola-s-maduro-s-government-to-37-in-the-p.md)
+_Context: 2017 Venezuelan protests, El Tigre, Nicolas Maduro, government, in the past month_
+
 ### [Buckingham Palace announces that 95-year-old Prince Philip, Duke of Edinburgh, the Prince consort of Queen Elizabeth II, will retire from royal duties in August. ](/news/2017/05/4/buckingham-palace-announces-that-95-year-old-prince-philip-duke-of-edinburgh-the-prince-consort-of-queen-elizabeth-ii-will-retire-from-ro.md)
 The 95-year-old royal will stop carrying out public engagements in autumn, Buckingham Palace says.
 
