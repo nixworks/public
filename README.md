@@ -4,10 +4,7 @@
 The 95-year-old royal will stop carrying out public engagements in autumn, Buckingham Palace says.
 
 ### [A severe dust storm impacts North China, causing flight cancellations at Beijing Capital International Airport. ](/news/2017/05/4/a-severe-dust-storm-impacts-north-china-causing-flight-cancellations-at-beijing-capital-international-airport.md)
-Beijing (AFP) - A major dust storm engulfed northern China and Beijing on Thursday, prompting authorities to cancel dozens of flights and urge children and the elderly to stay indoors.
-
-### [A large explosion struck a coal mine in Azadshahr, Iran on Wednesday, killing at least 21 miners and trapping several others as rescue teams worked frantically through the day and into the night to reach them. ([http://www.independent.co.uk/news/world/middle-east/iran-coal-mine-explosion-latest-rescue-miners-killed-trapped-golestan-province-death-toll-a7716731.html ''The Independent''])](/news/2017/05/4/a-large-explosion-struck-a-coal-mine-in-azadshahr-iran-on-wednesday-killing-at-least-21-miners-and-trapping-several-others-as-rescue-teams.md)
-_Context: Azadshahr, Iran_
+A dust storm enveloped a swathe of northern China yesterday dragging down air quality and visibility and prompting warnings for
 
 ### [The Holy See and Myanmar establish full diplomatic relations following a meeting between Pope Francis and Myanmar's State Counsellor Aung San Suu Kyi. ](/news/2017/05/4/the-holy-see-and-myanmar-establish-full-diplomatic-relations-following-a-meeting-between-pope-francis-and-myanmar-s-state-counsellor-aung-sa.md)
 Rome -- The Vatican establishes full relations with Myanmar for the first time after a cordial meeting May 4 between Francis and Aung San Suu Kyi.
@@ -23,6 +20,9 @@ Despite fierce government campaign, many Algerians are more worried about rising
 
 ### [The Republican-controlled United States House of Representatives votes in favor of the repeal of the 2010 Patient Protection and Affordable Care Act and passage of the House's 2017 American Health Care Act, by a narrow, 217-213 vote. Twenty Republicans and all Democrats opposed the bill, which now heads to the United States Senate for its legislative action. ](/news/2017/05/4/the-republican-controlled-united-states-house-of-representatives-votes-in-favor-of-the-repeal-of-the-2010-patient-protection-and-affordable.md)
 House Republicans plan to vote Thursday on the latest version of the American Health Care Act – their answer to ObamaCare. Here’s what’s the bill does.
+
+### [Former U.S. President Barack Obama formally endorses French candidate Emmanuel Macron. ](/news/2017/05/4/former-u-s-president-barack-obama-formally-endorses-french-candidate-emmanuel-macron.md)
+_Context: Barack Obama, Emmanuel Macron, French presidential election, 2017_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)

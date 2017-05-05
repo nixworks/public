@@ -2,12 +2,12 @@
 
 # A severe dust storm impacts North China, causing flight cancellations at Beijing Capital International Airport. 
 
-Beijing (AFP) - A major dust storm engulfed northern China and Beijing on Thursday, prompting authorities to cancel dozens of flights and urge children and the elderly to stay indoors.
+A dust storm enveloped a swathe of northern China yesterday dragging down air quality and visibility and prompting warnings for
 
 
 ### Source:
 
-1. [Seven News](https://au.news.yahoo.com/world/a/35291118/dust-storm-blows-across-north-china-flights-cancelled/#page1)
+1. [The Daily Star](http://www.thedailystar.net/world/asia/dust-storm-hits-beijing-1400716)
 
 ### Related:
 
