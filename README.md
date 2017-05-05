@@ -1,5 +1,8 @@
 ## [News](/news/2017/05/5/index.md)
 
+### [Turkey, Russia, and Iran reach an agreement, effective this midnight, to establish four "safe zones" in Syria over which all military aircraft, including Turkish, Russian, and American aircraft, will be barred from flying. Presidents Trump and Putin had discussed the plan on Wednesday with Putin claiming that Trump agreed with the plan, which the White House denies. ](/news/2017/05/5/turkey-russia-and-iran-reach-an-agreement-effective-this-midnight-to-establish-four-safe-zones-in-syria-over-which-all-military-aircra.md)
+U.S. and coalition military planes will not be allowed to fly over designated safe zones in Syria under a Russian proposal that has the backing of Iran and Turkey, reports said Friday.
+
 ### [Afghan border police and the Pakistani military clash at a border crossing near Chaman, killing at least 13 people and wounding over 80 others. Both sides blame each other for the flareup in fighting. ](/news/2017/05/5/afghan-border-police-and-the-pakistani-military-clash-at-a-border-crossing-near-chaman-killing-at-least-13-people-and-wounding-over-80-othe.md)
 _Context: Afghan border police, Chaman, Pakistani military, border crossing_
 
@@ -14,6 +17,9 @@ Result of local and mayoral elections could provide an early picture of Tory and
 
 ### [The Comac C919 makes its maiden flight from Shanghai Pudong International Airport, China. ](/news/2017/05/5/the-comac-c919-makes-its-maiden-flight-from-shanghai-pudong-international-airport-china.md)
 _Context: Comac C919, Shanghai Pudong International Airport_
+
+### [ISRO has successfully launched a new communications satellite for South Asia from Satish Dhawan Space Centre, India. ](/news/2017/05/5/isro-has-successfully-launched-a-new-communications-satellite-for-south-asia-from-satish-dhawan-space-centre-india.md)
+The satellite, funded by India, will help South Asian nations boost their communication services.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)

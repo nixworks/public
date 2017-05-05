@@ -1,0 +1,26 @@
+### [2017-05-5](/news/2017/05/5/index.md)
+
+# Turkey, Russia, and Iran reach an agreement, effective this midnight, to establish four "safe zones" in Syria over which all military aircraft, including Turkish, Russian, and American aircraft, will be barred from flying. Presidents Trump and Putin had discussed the plan on Wednesday with Putin claiming that Trump agreed with the plan, which the White House denies. 
+
+U.S. and coalition military planes will not be allowed to fly over designated safe zones in Syria under a Russian proposal that has the backing of Iran and Turkey, reports said Friday.
+
+
+### Source:
+
+1. [Al-Masdar News](https://www.almasdarnews.com/article/kurdish-forces-reject-de-escalation-zones-syria/)
+2. [Fox News](http://www.foxnews.com/world/2017/05/05/report-russia-says-syria-safe-zones-will-be-shut-for-us-warplanes.html)
+3. [Reuters](http://www.reuters.com/article/us-mideast-crisis-safezones-opposition-idUSKBN1801TF)
+4. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-agreement-idUSKBN1811KJ)
+
+### Related:
+
+1. [Russian president Vladimir Putin attends the International Arctic Forum in Arkhangelsk, Russia. He says there that he is ready to meet U.S. President Donald Trump in Helsinki, Finland. ](/news/2017/03/30/russian-president-vladimir-putin-attends-the-international-arctic-forum-in-arkhangelsk-russia-he-says-there-that-he-is-ready-to-meet-u-s.md) _Context: Putin, Trump_
+2. [When Russian President Vladimir Putin, during the January telephone conversation with President Donald Trump,  raised the possibility of extending the 2010  New START treaty that caps U.S. and Russian deployment of nuclear warheads, President Trump    declined, stating that this treaty  is a bad deal for the United States. ](/news/2017/02/9/when-russian-president-vladimir-putin-during-the-january-telephone-conversation-with-president-donald-trump-raised-the-possibility-of-ext.md) _Context: Putin, Trump_
+3. [Russian president Vladimir Putin says a ceasefire has been brokered between the Syrian government and rebel forces. The ceasefire is said to be guaranteed by Russia and Turkey and would exclude UN-denominated terror organizations such as ISIL and al-Nusra. The FSA says it would abide by the truce, while Ahrar al-Sham expresses "reservations". ](/news/2016/12/29/russian-president-vladimir-putin-says-a-ceasefire-has-been-brokered-between-the-syrian-government-and-rebel-forces-the-ceasefire-is-said-to.md) _Context: Putin, Syrian Civil War_
+4. [Russia-United States relations, APEC Peru 2016 President Barack Obama and Vladimir Putin meet in Peru on the sidelines of the Asia-Pacific Economic Cooperation conference to discuss involvement in the Syrian Civil War. ](/news/2016/11/21/russiaaunited-states-relations-apec-peru-2016-ppresident-barack-obama-and-vladimir-putin-meet-in-peru-on-the-sidelines-of-the-asia-pacifi.md) _Context: Putin, Syrian Civil War_
+5. [U.S. President Barack Obama and Russian President Vladimir Putin fail to agree on a peace deal regarding the Syrian civil war. ](/news/2016/09/5/u-s-president-barack-obama-and-russian-president-vladimir-putin-fail-to-agree-on-a-peace-deal-regarding-the-syrian-civil-war.md) _Context: Putin, Syrian Civil War_
+6. [Democratic presidential election nominee Hillary Clinton accuses Russian intelligence services of being behind recent hacks into Democratic National Committee computers, while also accusing Republican presidential nominee Donald Trump of supporting Russian President Vladimir Putin. ](/news/2016/07/31/democratic-presidential-election-nominee-hillary-clinton-accuses-russian-intelligence-services-of-being-behind-recent-hacks-into-democratic.md) _Context: Putin, Trump_
+7. [Russian President Vladimir Putin calls U.S. Republican presidential candidate Donald Trump, "a very colorful person. Talented, without any doubt" as well as an "absolute leader" in the race for the presidency. ](/news/2015/12/17/russian-president-vladimir-putin-calls-u-s-republican-presidential-candidate-donald-trump-a-very-colorful-person-talented-without-any-d.md) _Context: Putin, Trump_
+8. [The President of Syria Bashar al-Assad visits Moscow for talks with the President of Russia Vladimir Putin in an unannounced visit. ](/news/2015/10/21/the-president-of-syria-bashar-al-assad-visits-moscow-for-talks-with-the-president-of-russia-vladimir-putin-in-an-unannounced-visit.md) _Context: Putin, Syrian Civil War_
+9. [Russian President Vladimir Putin confirms that Russia is providing military aid in Syrian Civil War in support of the Bashar al-Assad regime and is providing heavy weapons, aircraft, tanks, serious training and logistical support to the Syrian Army. ](/news/2015/09/4/russian-president-vladimir-putin-confirms-that-russia-is-providing-military-aid-in-syrian-civil-war-in-support-of-the-bashar-al-assad-regime.md) _Context: Putin, Syrian Civil War_
+10. [Syrian civil war:Vladimir Putin urges the Western and Arab world to review their position. He asks to end the violence first, then sit around the table and only then move on to "these practical steps about the internal organisation of the country itself". ](/news/2012/09/6/syrian-civil-war-pvladimir-putin-urges-the-western-and-arab-world-to-review-their-position-he-asks-to-end-the-violence-first-then-sit-arou.md) _Context: Putin, Syrian Civil War_
