@@ -6,7 +6,7 @@ A suicide bombing in the Afghan capital Kabul on Wednesday killed eight people a
 ### [Somali Public Works Minister Abbas Abdullahi Sheikh Siraji is shot and killed inside his vehicle by security forces near the Villa Somalia in the capital Mogadishu, after mistaking him for a militant. ](/news/2017/05/3/somali-public-works-minister-abbas-abdullahi-sheikh-siraji-is-shot-and-killed-inside-his-vehicle-by-security-forces-near-the-villa-somalia-i.md)
 _Context: Abbas Abdullahi Sheikh Siraji, Mogadishu, Somali, Villa Somalia_
 
-### [Plans for a Chicago-based presidential library in honour of the former U.S. president Obama are revealed. ](/news/2017/05/3/plans-for-a-chicago-based-presidential-library-in-honour-of-the-former-u-s-president-obama-are-revealed.md)
+### [Plans for a Chicago-based presidential library in honour of the former U.S. President Obama are revealed. ](/news/2017/05/3/plans-for-a-chicago-based-presidential-library-in-honour-of-the-former-u-s-president-obama-are-revealed.md)
 In addition to the presidential museum and gardens, the new center will feature film and recording studios and several gardens.
 
 ### [Puerto Rico files for the largest 'local government' bankruptcy in the United States. ](/news/2017/05/3/puerto-rico-files-for-the-largest-local-government-bankruptcy-in-the-united-states.md)

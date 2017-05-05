@@ -9,6 +9,9 @@ A magnitude-6.3 aftershock has shaken British Columbia near the boundary with Al
 ### [Severe clear-air turbulence on an Aeroflot flight from Sheremetyevo International Airport, Moscow to Suvarnabhumi Airport, Bangkok, subjects 27 passengers to injuries including bone fractures. ](/news/2017/05/1/severe-clear-air-turbulence-on-an-aeroflot-flight-from-sheremetyevo-international-airport-moscow-to-suvarnabhumi-airport-bangkok-subjects.md)
 _Context: Aeroflot, Bangkok, Moscow, Sheremetyevo International Airport, Suvarnabhumi Airport, bone fracture, clear-air turbulence_
 
+### [The Momentum Movement holds a pro-EU, anti-Russia march attended by approximately 10,000 in Budapest, Hungary, chanting "Europe, not Moscow" in support of the EU and against Prime Minister Viktor Orban. ](/news/2017/05/1/the-momentum-movement-holds-a-pro-eu-anti-russia-march-attended-by-approximately-10-000-in-budapest-hungary-chanting-aeurope-not-mosco.md)
+The recently formed Momentum Mozgalom (Momentum Movement) held a pro-EU, anti-Russia march attended by thousands in Budapest during yesterdayʼs May 1 national holiday, which was also the 13th anniversary of Hungary joining the EU. Momentum has announced it will run as a political party in the 2018 general election.
+
 ### [Two Rockwell B-1B Lancer heavy bombers are flown over the Korean Peninsula by the United States, leading North Korea to accuse the US of preparing for nuclear warfare. ](/news/2017/05/1/two-rockwell-b-1b-lancer-heavy-bombers-are-flown-over-the-korean-peninsula-by-the-united-states-leading-north-korea-to-accuse-the-us-of-pre.md)
 North Korea accuses the United States of pushing the Korean peninsula to the brink of nuclear war.
 

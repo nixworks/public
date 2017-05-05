@@ -9,6 +9,9 @@ A dust storm enveloped a swathe of northern China yesterday dragging down air qu
 ### [The Holy See and Myanmar establish full diplomatic relations following a meeting between Pope Francis and Myanmar's State Counsellor Aung San Suu Kyi. ](/news/2017/05/4/the-holy-see-and-myanmar-establish-full-diplomatic-relations-following-a-meeting-between-pope-francis-and-myanmar-s-state-counsellor-aung-sa.md)
 Rome -- The Vatican establishes full relations with Myanmar for the first time after a cordial meeting May 4 between Francis and Aung San Suu Kyi.
 
+### [A memorandum is signed by Russia, Iran, and Turkey calling for de-escalation of the Syrian Civil War, although neither the Syrian government nor the Syrian opposition are signatories. ](/news/2017/05/4/a-memorandum-is-signed-by-russia-iran-and-turkey-calling-for-de-escalation-of-the-syrian-civil-war-although-neither-the-syrian-government.md)
+_Context: Iran, Russia, Syria, Syrian Civil War, Syrian opposition, Turkey, de-escalation, memorandum_
+
 ### [The British people vote locally. ](/news/2017/05/4/the-british-people-vote-locally.md)
 Thousands of voters across England, Scotland and Wales are going to the polls today to decide the fate of almost 5,000 council seats and to elect powerful new metro mayors.
 
@@ -20,9 +23,6 @@ Despite fierce government campaign, many Algerians are more worried about rising
 
 ### [The Republican-controlled United States House of Representatives votes in favor of the repeal of the 2010 Patient Protection and Affordable Care Act and passage of the House's 2017 American Health Care Act, by a narrow, 217-213 vote. Twenty Republicans and all Democrats opposed the bill, which now heads to the United States Senate for its legislative action. ](/news/2017/05/4/the-republican-controlled-united-states-house-of-representatives-votes-in-favor-of-the-repeal-of-the-2010-patient-protection-and-affordable.md)
 House Republicans plan to vote Thursday on the latest version of the American Health Care Act – their answer to ObamaCare. Here’s what’s the bill does.
-
-### [Former U.S. President Barack Obama formally endorses French candidate Emmanuel Macron. ](/news/2017/05/4/former-u-s-president-barack-obama-formally-endorses-french-candidate-emmanuel-macron.md)
-_Context: Barack Obama, Emmanuel Macron, French presidential election, 2017_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -38,7 +38,7 @@ A suicide bombing in the Afghan capital Kabul on Wednesday killed eight people a
 ### [Somali Public Works Minister Abbas Abdullahi Sheikh Siraji is shot and killed inside his vehicle by security forces near the Villa Somalia in the capital Mogadishu, after mistaking him for a militant. ](/news/2017/05/3/somali-public-works-minister-abbas-abdullahi-sheikh-siraji-is-shot-and-killed-inside-his-vehicle-by-security-forces-near-the-villa-somalia-i.md)
 _Context: Abbas Abdullahi Sheikh Siraji, Mogadishu, Somali, Villa Somalia_
 
-### [Plans for a Chicago-based presidential library in honour of the former U.S. president Obama are revealed. ](/news/2017/05/3/plans-for-a-chicago-based-presidential-library-in-honour-of-the-former-u-s-president-obama-are-revealed.md)
+### [Plans for a Chicago-based presidential library in honour of the former U.S. President Obama are revealed. ](/news/2017/05/3/plans-for-a-chicago-based-presidential-library-in-honour-of-the-former-u-s-president-obama-are-revealed.md)
 In addition to the presidential museum and gardens, the new center will feature film and recording studios and several gardens.
 
 ### [Puerto Rico files for the largest 'local government' bankruptcy in the United States. ](/news/2017/05/3/puerto-rico-files-for-the-largest-local-government-bankruptcy-in-the-united-states.md)
