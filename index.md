@@ -15,6 +15,9 @@ The students from a primary school in northern Tanzania were travelling to sit a
 ### [Voting begins in territories and diplomatic missions west of Metropolitan France for the second round of the presidential election between Emmanuel Macron and Marine Le Pen. ](/news/2017/05/6/voting-begins-in-territories-and-diplomatic-missions-west-of-metropolitan-france-for-the-second-round-of-the-presidential-election-between-e.md)
 France goes to the polls on Sunday for the final round of the presidential election, with Emmanuel Macron and Marine Le Pen vying to be the country’s next head of state. After the candidates from France’s traditional parties were eliminated in the first round, the most dramatic election campaign in the 59-year history of the Fifth Republic comes down to a stark choice between an independent centrist promising a renewal of European alliances and a nationalist who wants to pull out of the euro and
 
+### [Hamas, which is seeking to reconcile with rival Palestinian organizations, elects former Prime Minister Ismail Haniyeh its new leader, replacing term-limited Khaled Meshaal.  Last week, Hamas dropped its longstanding call for Israel's destruction, and severed ties with the Muslim Brotherhood. ](/news/2017/05/6/hamas-which-is-seeking-to-reconcile-with-rival-palestinian-organizations-elects-former-prime-minister-ismail-haniyeh-its-new-leader-repla.md)
+_Context: Hamas, Ismail Haniyeh, Israel, Khaled Meshaal, Muslim Brotherhood, Prime Minister_
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
