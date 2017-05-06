@@ -47,8 +47,8 @@ _Context: Conservative Party, Labour Party, United Kingdom local elections, 2017
 ### [Results from yesterday's election give a reduced majority of seats to Abdelaziz Bouteflika's incumbent coalition. ](/news/2017/05/5/results-from-yesterday-s-election-give-a-reduced-majority-of-seats-to-abdelaziz-bouteflika-s-incumbent-coalition.md)
 National Liberation Front secures majority in national assembly, but loses quarter of seats in Thursday&#39;s vote.
 
-### [Files purportedly from the campaign of Emmanuel Macron are posted online. Macron campaign officials say the files are a mix of fake and authentic documents. ](/news/2017/05/5/files-purportedly-from-the-campaign-of-emmanuel-macron-are-posted-online-macron-campaign-officials-say-the-files-are-a-mix-of-fake-and-auth.md)
-_Context: Emmanuel Macron, French presidential election, 2017_
+### [Files purportedly from the campaign of Emmanuel Macron are posted online. Macron campaign officials say the files are a mix of fake and authentic documents and drew parallels with what happened in the 2016 US Presidential elections. ](/news/2017/05/5/files-purportedly-from-the-campaign-of-emmanuel-macron-are-posted-online-macron-campaign-officials-say-the-files-are-a-mix-of-fake-and-auth.md)
+_Context: Emmanuel Macron, French presidential election, 2017, what happened in the 2016 US Presidential elections._
 
 ### [The Comac C919 makes its maiden flight from Shanghai Pudong International Airport, China. ](/news/2017/05/5/the-comac-c919-makes-its-maiden-flight-from-shanghai-pudong-international-airport-china.md)
 _Context: Comac C919, Shanghai Pudong International Airport_

@@ -1,6 +1,6 @@
 ### [2017-05-5](/news/2017/05/5/index.md)
 
-# Files purportedly from the campaign of Emmanuel Macron are posted online. Macron campaign officials say the files are a mix of fake and authentic documents. 
+# Files purportedly from the campaign of Emmanuel Macron are posted online. Macron campaign officials say the files are a mix of fake and authentic documents and drew parallels with what happened in the 2016 US Presidential elections. 
 
 
 
