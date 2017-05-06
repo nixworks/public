@@ -13,7 +13,7 @@ _Context: Houthi, Sana'a, Saudi-led coalition_
 _Context: Mali, UN peacekeepers_
 
 ### [London-based BP  agrees,  pending court approval, to pay $US18.7 billion to compensate the United States government and the five  Gulf Coast states--Alabama, Florida, Louisiana, Mississippi and Texas--for damages stemming from the 2010 Gulf of Mexico oil spill. The settlement includes a civil penalty of $US5.5 billion under the Clean Water Act. ](/news/2015/07/2/london-based-bp-agrees-pending-court-approval-to-pay-us18-7-billion-to-compensate-the-united-states-government-and-the-five-gulf-coast.md)
-_Context: Alabama, American, BP, Deepwater Horizon oil spill, Florida, Gulf Coast of the United States, Gulf of Mexico, London, Louisiana, Mississippi, Texas, civil penalty, federal Clean Water Act_
+_Context: Alabama, American, BP, Deepwater Horizon oil spill, FL, Gulf Coast of the United States, Gulf of Mexico, London, Louisiana, Mississippi, Texas, civil penalty, federal Clean Water Act_
 
 ### [According to a statement from Ukraine's nuclear energy authority, Yadernoye Toplivo, a private U.S. nuclear energy company, ConverDyn, could begin helping Ukraine in the production of enriched uranium, a day after Russia shut off natural gas supplies to the country after the two failed to reach agreement over Ukraine's unpaid gas debts to Russia.](/news/2015/07/2/according-to-a-statement-from-ukraine-s-nuclear-energy-authority-yadernoye-toplivo-a-private-u-s-nuclear-energy-company-converdyn-could.md)
 _Context: ConverDyn, Russia, U.S., Ukrainian, Yadernoye Toplivo, enriched uranium, natural gas, nuclear energy company, nuclear power_
@@ -25,7 +25,7 @@ The death toll from the ferry that capsized in the central Philippines rises to 
 The deceased include Pakistan Army Engineering Battalion Unit Commander Lt. Col Amir Jadoon, his wife and two kids.
 
 ### [Former Senator Jim Webb announces that he will seek the Democratic Party nomination. ](/news/2015/07/2/former-senator-jim-webb-announces-that-he-will-seek-the-democratic-party-nomination.md)
-_Context: 2016 U.S. presidential election, Democrats, Jim Webb, United States Senate_
+_Context: 2016 U.S. presidential election, D, Jim Webb, senators_
 
 ### [Health officials announced that a 21-year-old woman from Bishop, California  had died June 20th at Renown Regional Medical Center in Reno, Nevada  from cardiac arrest caused by the rare brain-eating amoeba ''Naegleria fowleri''. ](/news/2015/07/2/health-officials-announced-that-a-21-year-old-woman-from-bishop-california-had-died-june-20th-at-renown-regional-medical-center-in-reno-n.md)
 Brain-eating amoeba are blamed in the death of a 21-year-old California woman. Health officials confirmed the unidentified woman reported to the Northern Inyo

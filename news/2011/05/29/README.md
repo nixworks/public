@@ -22,7 +22,7 @@ Historically, a European has led the international financial body, but emerging 
 _Context: Miami Beach, Sean Kingston, hip hop, jet-ski_
 
 ### [3 Greenpeace activists successfully evade a Danish warship to scale an oil rig off the coast of Greenland, attempting to begin deepwater drilling in the arctic. ](/news/2011/05/29/3-greenpeace-activists-successfully-evade-a-danish-warship-to-scale-an-oil-rig-off-the-coast-of-greenland-attempting-to-begin-deepwater-dri.md)
-_Context: Danish, Greenland, Greenpeace India's_
+_Context: Denmark, Greenland, Greenpeace India's_
 
 ### [Dennis Daugaard, the Governor of the US state of South Dakota, warns residents living south of the state capital of Pierre to prepare evacuation plans ahead of likely flooding of the Missouri River. ](/news/2011/05/29/dennis-daugaard-the-governor-of-the-us-state-of-south-dakota-warns-residents-living-south-of-the-state-capital-of-pierre-to-prepare-evacua.md)
 _Context: Dennis Daugaard, Missouri River, Pierre, South Dakota, South Dakota Governor_

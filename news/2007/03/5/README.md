@@ -1,7 +1,7 @@
 ## [2007-03-5](/news/2007/03/5/index.md)
 
 ### [ The United States and North Korea commence talks in New York City to establish diplomatic relations following the abandonment of the North Korean nuclear weapons program. ](/news/2007/03/5/the-united-states-and-north-korea-commence-talks-in-new-york-city-to-establish-diplomatic-relations-following-the-abandonment-of-the-north.md)
-_Context: New York's, North Korea, North Korean nuclear weapons program, United States, diplomatic relations_
+_Context: New York's, North Korea, North Korean nuclear weapons program, U.S., diplomatic relations_
 
 ### [ Ramush Haradinaj, the former Prime Minister of Kosovo, goes on trial at the  International Criminal Tribunal for the Former Yugoslavia at The Hague for war crimes allegedly committed while he was a regional leader of the Kosovo Liberation Army. ](/news/2007/03/5/ramush-haradinaj-the-former-prime-minister-of-kosovo-goes-on-trial-at-the-international-criminal-tribunal-for-the-former-yugoslavia-at-t.md)
 _Context: International Criminal Tribunal for the former Yugoslavia, Kosovo Liberation Army, Prime Minister of Kosovo, Ramush Haradinaj, The Hague, war crimes_
@@ -10,7 +10,7 @@ _Context: International Criminal Tribunal for the former Yugoslavia, Kosovo Libe
 _Context: Baghdad, Iraq War, car bomb_
 
 ### [ Ungdomshuset in Copenhagen, Denmark, is demolished to prevent it from being re-occupied. ](/news/2007/03/5/ungdomshuset-in-copenhagen-denmark-is-demolished-to-prevent-it-from-being-re-occupied.md)
-_Context: Copenhagen, Danish, Ungdomshuset, demolishing_
+_Context: Copenhagen, Denmark, Ungdomshuset, demolishing_
 
 ### [ The government of Vanuatu declares a state of emergency in Port Vila following ethnic clashes. ](/news/2007/03/5/the-government-of-vanuatu-declares-a-state-of-emergency-in-port-vila-following-ethnic-clashes.md)
 _Context: Port Vila, Vanuatu, government of, state of emergency_

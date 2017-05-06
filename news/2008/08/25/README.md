@@ -4,7 +4,7 @@
 _Context: Canada, Maple Leaf Foods, Toronto, listeriosis outbreak_
 
 ### [ The 2008 National Convention of the U.S. Democratic Party begins in Denver, Colorado. ](/news/2008/08/25/the-2008-national-convention-of-the-u-s-democratic-party-begins-in-denver-colorado.md)
-_Context: 2008 National Convention, Colorado, Democrats, Denver, U.S._
+_Context: 2008 National Convention, Colorado, D, Denver, U.S._
 
 ### [ Tropical Storm Gustav forms in the Atlantic Ocean and heads for the Dominican Republic and Haiti. ](/news/2008/08/25/tropical-storm-gustav-forms-in-the-atlantic-ocean-and-heads-for-the-dominican-republic-and-haiti.md)
 _Context: Atlantic, Dominican Republic, Haiti, Tropical Storm Gustav_
@@ -16,7 +16,7 @@ Nawaz Sharif pulls out of Pakistan&#039;s government, leaving a dangerously feeb
 _Context: Baltic Fleet, Cold War, Russia_
 
 ### [ Israel releases 199 Palestinian prisoners as a goodwill gesture to the President of the Palestinian National Authority Mahmoud Abbas as the United States Secretary of State Condoleezza Rice visits the area. ](/news/2008/08/25/israel-releases-199-palestinian-prisoners-as-a-goodwill-gesture-to-the-president-of-the-palestinian-national-authority-mahmoud-abbas-as-the.md)
-_Context: Condoleezza Rice, Israel, Mahmoud Abbas, Palestinian Authority President, Palestinian National Authority, United States, United States Secretary of State_
+_Context: Condoleezza Rice, Israel, Mahmoud Abbas, Palestinian Authority President, Palestinian National Authority, U.S., United States Secretary of State_
 
 ### [ Lovemore Moyo is elected Speaker of the House of Assembly of Zimbabwe. He is the first opposition speaker since the country's independence in 1980. ](/news/2008/08/25/lovemore-moyo-is-elected-speaker-of-the-house-of-assembly-of-zimbabwe-he-is-the-first-opposition-speaker-since-the-country-s-independence.md)
 _Context: 1980, House of Assembly, Lovemore Moyo, Zimbabwe_

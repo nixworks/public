@@ -1,7 +1,7 @@
 ## [2008-10-27](/news/2008/10/27/index.md)
 
 ### [ Alaskan Senator Ted Stevens is found guilty on all seven counts of lying on United States Senate financial documents.  ](/news/2008/10/27/alaskan-senator-ted-stevens-is-found-guilty-on-all-seven-counts-of-lying-on-united-states-senate-financial-documents.md)
-_Context: Alaska, Ted Stevens, United States, United States Senate_
+_Context: Alaska, Ted Stevens, U.S., senators_
 
 ### [ The Washington, D.C. Metro announces it will randomly search "backpacks, gym bags and any other containers that riders carry with them onto the bus and rail system" during periods of increased threat. ](/news/2008/10/27/the-washington-d-c-metro-announces-it-will-randomly-search-backpacks-gym-bags-and-any-other-containers-that-riders-carry-with-them-onto.md)
 _Context: Washington Metro, Washington, D.C._
@@ -19,7 +19,7 @@ _Context: Lausanne, Lausanne Metro, Swiss_
 _Context: BBC, Pakistan, South Waziristan_
 
 ### [ Two Neo-Nazi white supremacists are arrested for plotting to assassinate US presidential candidate Barack Obama. ](/news/2008/10/27/two-neo-nazi-white-supremacists-are-arrested-for-plotting-to-assassinate-us-presidential-candidate-barack-obama.md)
-_Context: 2008, Barack Obama, White supremacist, neo-Nazi, plotting to assassinate_
+_Context: 2008, Obama, White supremacist, neo-Nazi, plotting to assassinate_
 
 ### [ Georgian President Mikheil Saakashvili dismisses Prime Minister Lado Gurgenidze, and nominates Grigol Mgaloblishvili as the country's new prime minister, following the 2008 South Ossetian war. ](/news/2008/10/27/georgian-president-mikheil-saakashvili-dismisses-prime-minister-lado-gurgenidze-and-nominates-grigol-mgaloblishvili-as-the-country-s-new-p.md)
 _Context: 2008 South Ossetian war, Grigol Mgaloblishvili, Lado Gurgenidze, Saakashvili_

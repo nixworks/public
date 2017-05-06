@@ -25,7 +25,7 @@ _Context: Irish government, Republic of Ireland, abortion, abortion scandal_
 _Context: High Court of England and Wales, brain tumour_
 
 ### [The bodies of Richard Hickock and Perry Smith, the murderers who were the subject of Truman Capote's non-fiction novel ''In Cold Blood'', are exhumed in the US state of Kansas to help solve a cold case in Florida from December 1959. ](/news/2012/12/18/the-bodies-of-richard-hickock-and-perry-smith-the-murderers-who-were-the-subject-of-truman-capote-s-non-fiction-novel-in-cold-blood-ar.md)
-_Context: Florida, In Cold Blood, Kansas, Perry Smith, Richard Hickock, Truman Capote, cold case, non-fiction novel_
+_Context: FL, In Cold Blood, Kansas, Perry Smith, Richard Hickock, Truman Capote, cold case, non-fiction novel_
 
 ### [A police officer's claim that he witnessed a conflict outside Downing Street involving former British Conservative Party chief whip Andrew Mitchell is being probed by the Independent Police Complaints Commission. CCTV footage of the incident also emerges, casting doubt on whether any witnesses were present at the time. ](/news/2012/12/18/a-police-officer-s-claim-that-he-witnessed-a-conflict-outside-downing-street-involving-former-british-conservative-party-chief-whip-andrew-m.md)
 The police watchdog says it is to investigate whether an officer did witness a row in which he claimed ex-Chief Whip Andrew Mitchell called officers &quot;plebs&quot;.

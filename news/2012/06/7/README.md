@@ -37,7 +37,7 @@ Two apartment buildings collapsed in the southeastern Italian town of Conversano
 _Context: Bolivia, La Paz, ravine_
 
 ### [A small Pilatus PC-12/47 aircraft crashes in a remote rural area of Florida in the Tiger Creek Swamp area near Lake Wales, Florida, southeast of Lakeland, Florida in the central portion of the state.  The airplane began to break up at around 26,000 feet in southeastern Polk County, Florida. ](/news/2012/06/7/a-small-pilatus-pc-12-47-aircraft-crashes-in-a-remote-rural-area-of-florida-in-the-tiger-creek-swamp-area-near-lake-wales-florida-southeas.md)
-_Context: Florida, Lake Wales, Florida, Lakeland, Florida, Pilatus PC-12/47, Polk County, Florida, Tiger Creek Swamp_
+_Context: FL, Lake Wales, Florida, Lakeland, Florida, Pilatus PC-12/47, Polk County, Florida, Tiger Creek Swamp_
 
 ### [CIA director David Petraeus makes an unofficial visit to Bulgaria, meeting the president and prime minister. ](/news/2012/06/7/cia-director-david-petraeus-makes-an-unofficial-visit-to-bulgaria-meeting-the-president-and-prime-minister.md)
 _Context: Bulgaria, Central Intelligence Agency, David Petraeus_

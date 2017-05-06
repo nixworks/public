@@ -4,7 +4,7 @@
 _Context: United States Federal Reserve_
 
 ### [ Two United States Air Force F-15 Eagle fighter planes crash in mid-air over the Gulf of Mexico near Florida. ](/news/2008/02/20/two-united-states-air-force-f-15-eagle-fighter-planes-crash-in-mid-air-over-the-gulf-of-mexico-near-florida.md)
-_Context: F-15 Eagle, Florida, Gulf of Mexico, United States Air Force_
+_Context: F-15 Eagle, FL, Gulf of Mexico, United States Air Force_
 
 ### [ The United States Geological Survey reports the occurrence of a 7.6 magnitude earthquake off the western coast of the Indonesian island of Sumatra. ](/news/2008/02/20/the-united-states-geological-survey-reports-the-occurrence-of-a-7-6-magnitude-earthquake-off-the-western-coast-of-the-indonesian-island-of.md)
 _Context: Indonesia, Sumatra, United States Geological Survey_

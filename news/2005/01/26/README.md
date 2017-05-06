@@ -1,7 +1,7 @@
 ## [2005-01-26](/news/2005/01/26/index.md)
 
 ### [ Condoleezza Rice is confirmed in the U.S. Senate by a vote of ](/news/2005/01/26/condoleezza-rice-is-confirmed-in-the-u-s-senate-by-a-vote-of.md)
-_Context: Condoleezza Rice, United States Senate_
+_Context: Condoleezza Rice, senators_
 
 ### [ After being incarcerated without trial for almost three years, the four British detainees at Guantanamo Bay, Moazzam Begg, Feroz Abbasi, Martin Mubanga and Richard Belmar, are free to go home, having been released without charge by the UK government. ](/news/2005/01/26/after-being-incarcerated-without-trial-for-almost-three-years-the-four-british-detainees-at-guantanamo-bay-moazzam-begg-feroz-abbasi-ma.md)
 _Context: Feroz Abbasi, Martin Mubanga, Moazzam Begg, Richard Belmar_
@@ -16,7 +16,7 @@ _Context: Davos, World Economic Forum_
 _Context: Glendale, California, Juan Manuel lvarez, SUV, commuter train crashes_
 
 ### [ United States Supreme Court rejects appeal of Florida governor Jeb Bush to keep brain damaged Terri Schiavo alive against the wishes of her husband. Her parents try to remove her husband from the post of her guardian ](/news/2005/01/26/united-states-supreme-court-rejects-appeal-of-florida-governor-jeb-bush-to-keep-brain-damaged-terri-schiavo-alive-against-the-wishes-of-her.md)
-_Context: Florida, Jeb Bush, Terri Schiavo, United States Supreme Court, brain damage_
+_Context: FL, Jeb Bush, Terri Schiavo, United States Supreme Court, brain damage_
 
 ### [ In Moscow, students from Guinea-Bissau seize the country's embassy and take the ambassador as a hostage. They protest because they have not received their student's grants for more than a year ](/news/2005/01/26/in-moscow-students-from-guinea-bissau-seize-the-country-s-embassy-and-take-the-ambassador-as-a-hostage-they-protest-because-they-have-not.md)
 _Context: Guinea-Bissau_

@@ -1,7 +1,7 @@
 ## [2009-09-22](/news/2009/09/22/index.md)
 
 ### [ American Mesac Damas is extradited from Haiti to stand trial for the murders of his six family members in Florida, USA.](/news/2009/09/22/american-mesac-damas-is-extradited-from-haiti-to-stand-trial-for-the-murders-of-his-six-family-members-in-florida-usa.md)
-_Context: Florida, Haiti, Mesac Damas, USA_
+_Context: FL, Haiti, Mesac Damas, USA_
 
 ### [ A mid-air collision destroys Iran's only AWACS equipped aircraft, an Ilyushin Il-76MD. ([http://www2.debka.com/headline.php?hid=6280 Debka]), ([http://www.defensenews.com/story.php?i=4289949&c=AIR&s=MID Defensenews])](/news/2009/09/22/a-mid-air-collision-destroys-iran-s-only-awacs-equipped-aircraft-an-ilyushin-il-76md-http-www2-debka-com-headline-php-hid-6280-debka.md)
 _Context: AWACS, Ilyushin Il-76, Iran, mid-air collision_
@@ -10,7 +10,7 @@ _Context: AWACS, Ilyushin Il-76, Iran, mid-air collision_
 _Context: Moscow, Russia, racist_
 
 ### [ U.S. President Barack Obama calls for the resumption of the Middle East peace process in meetings with the Prime Minister of Israel Benjamin Netanyahu and the President of the Palestinian Authority Mahmoud Abbas. ](/news/2009/09/22/u-s-president-barack-obama-calls-for-the-resumption-of-the-middle-east-peace-process-in-meetings-with-the-prime-minister-of-israel-benjami.md)
-_Context: Barack Obama, Benjamin Netanyahu, Mahmoud Abbas, Middle East, Palestinian Authority President, Prime Minister of Israel, president_
+_Context: Benjamin Netanyahu, Mahmoud Abbas, Middle East, Obama, Palestinian Authority President, President, Prime Minister of Israel_
 
 ### [ Honduran soldiers break up protests outside the Brazilian embassy in Tegucigalpa in support of deposed President Manuel Zelaya, who is staying inside. ](/news/2009/09/22/honduran-soldiers-break-up-protests-outside-the-brazilian-embassy-in-tegucigalpa-in-support-of-deposed-president-manuel-zelaya-who-is-stay.md)
 Honduras de facto leader Roberto Micheleti demanded that Brazil hand over deposed constitutional president Manuel Zelaya who is currently in the Brazilian embassy in Tegucigalpa following a dramatic secret return to the country.
@@ -49,7 +49,7 @@ An estimated 49,000 people attended the National Ploughing Championship today.
 _Context: Attorney General for England and Wales, Patricia Scotland, Baroness Scotland of Asthal_
 
 ### [ For the first time in at least ten years, all United States embassies and consulates in South Africa are closed following an unspecified "security threat". ](/news/2009/09/22/for-the-first-time-in-at-least-ten-years-all-united-states-embassies-and-consulates-in-south-africa-are-closed-following-an-unspecified-s.md)
-_Context: South Africa, United States_
+_Context: South Africa, U.S._
 
 ### [ The New Zealand dollar soars to a 13-month high against both the U.S. dollar and euro. ](/news/2009/09/22/the-new-zealand-dollar-soars-to-a-13-month-high-against-both-the-u-s-dollar-and-euro.md)
 Basking in good economic news, the New Zealand dollar reached multi-month highs against major currencies overnight as the greenback weakened further. - New Zealand Herald

@@ -10,10 +10,10 @@ _Context: Guantanamo Bay detention camp, Sami Mohy El Din Muhammed Al Hajj, Suda
 U.S. President George W. Bush on Thursday said a vote in Myanmar this month would not be &quot;free, fair or credible&quot; and imposed new sanctions on state-owned companies to put pressure on the military junta.
 
 ### [ The United States Federal Reserve System auctions off $24.12 billion in Treasury securities to help relieve the subprime mortgage crisis. ](/news/2008/05/1/the-united-states-federal-reserve-system-auctions-off-24-12-billion-in-treasury-securities-to-help-relieve-the-subprime-mortgage-crisis.md)
-_Context: Federal Reserve System, Treasury securities, U.S. dollar, United States, auction, housing crisis_
+_Context: Federal Reserve System, Treasury securities, U.S., U.S. dollar, auction, housing crisis_
 
 ### [ The President of the United States George W. Bush calls on the United States Congress to approve a $US700 million food aid package to help relieve the 2007-2008 world food price crisis. ](/news/2008/05/1/the-president-of-the-united-states-george-w-bush-calls-on-the-united-states-congress-to-approve-a-us700-million-food-aid-package-to-help.md)
-_Context: 2007-2008 world food price crisis, George W. Bush, U.S. Congressional, U.S. dollar, food aid, president_
+_Context: 2007-2008 world food price crisis, George W. Bush, President, U.S. Congressional, U.S. dollar, food aid_
 
 ### [ News anchor Barbara Walters admits to having affair with US Senator Edward Brooke. ](/news/2008/05/1/news-anchor-barbara-walters-admits-to-having-affair-with-us-senator-edward-brooke.md)
 _Context: Barbara Walters, Edward Brooke_
@@ -28,7 +28,7 @@ _Context: Egypt, Europe, North America, Sinai, bus, tourist_
 _Context: Australia, Sydney Harbour, runabout_
 
 ### [ Voters in England and Wales go to the polls for the United Kingdom local elections, 2008. Early results showed the opposition Conservative Party performing strongly with 44 per cent of the vote while the governing Labour Party was performing poorly with 24 per cent of the vote.](/news/2008/05/1/voters-in-england-and-wales-go-to-the-polls-for-the-united-kingdom-local-elections-2008-early-results-showed-the-opposition-conservative.md)
-_Context: Conservative Party, England, Labour, Wales, local elections_
+_Context: Conservative Party, England, Labour Party, Wales, local elections_
 
 ### [ Aden Hashi Farah "Eyrow", a leader of Al-Shabaab in Somalia, is reported as being killed in a U.S. airstrike. ](/news/2008/05/1/aden-hashi-farah-eyrow-a-leader-of-al-shabaab-in-somalia-is-reported-as-being-killed-in-a-u-s-airstrike.md)
 _Context: Aden Hashi Farah "Eyrow", Al-Shabaab, Somali, airstrike_

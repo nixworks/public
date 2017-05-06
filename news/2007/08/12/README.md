@@ -19,7 +19,7 @@ _Context: Mauritania, homeless_
 _Context: Dallas, Texas, freeway_
 
 ### [ Former Governor of Wisconsin Tommy Thompson withdraws as a candidate for the Republican nomination in the United States presidential election, 2008 following his low level of support in the Ames Straw Poll. ](/news/2007/08/12/former-governor-of-wisconsin-tommy-thompson-withdraws-as-a-candidate-for-the-republican-nomination-in-the-united-states-presidential-electi.md)
-_Context: 2008, Ames Straw Poll, Governor of Wisconsin, Republican, Tommy Thompson_
+_Context: 2008, Ames Straw Poll, Governor of Wisconsin, R, Tommy Thompson_
 
 ### [ Guatemalan authorities find 46 children believed to have been taken from the parents for illegal adoption overseas in Antigua Guatemala. ](/news/2007/08/12/guatemalan-authorities-find-46-children-believed-to-have-been-taken-from-the-parents-for-illegal-adoption-overseas-in-antigua-guatemala.md)
 _Context: Antigua Guatemala, Guatemala, adoption_
@@ -49,7 +49,7 @@ _Context: Iraq, Italian, Russia, smuggle_
 More than 500 people have been evacuated from the slopes of Mount Karangetang, which has been spewing lava and hotclouds on the northern Indonesian island of Siau.
 
 ### [ Denmark sends a scientific team to the Arctic to try to establish that the Lomonosov Ridge is an extension of Greenland  so it can claim sovereignty over oil reserves. ](/news/2007/08/12/denmark-sends-a-scientific-team-to-the-arctic-to-try-to-establish-that-the-lomonosov-ridge-is-an-extension-of-greenland-so-it-can-claim-so.md)
-_Context: Arctic, Danish, Greenland, Lomonosov Ridge_
+_Context: Arctic, Denmark, Greenland, Lomonosov Ridge_
 
 ### [ A Jakarta conference of Islamists sponsored by the Hizb ut-Tahrir discusses plans to reestablish a caliphate. ](/news/2007/08/12/a-jakarta-conference-of-islamists-sponsored-by-the-hizb-ut-tahrir-discusses-plans-to-reestablish-a-caliphate.md)
 A meeting is beginning in the Indonesian capital, Jakarta, to discuss the re-establishment of an Islamic caliphate.

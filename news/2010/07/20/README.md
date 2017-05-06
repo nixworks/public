@@ -49,7 +49,7 @@ _Context: Cuba, Ricardo Alarcon_
 US National Guard troops will begin deploying along the US-Mexico border in August to help bolster security, officials say.
 
 ### [An international conference on the future of Afghanistan opens in Kabul co-chaired by the President of Afghanistan Hamid Karzai and the Secretary-General of the United Nations Ban Ki-moon. The conference endorses a goal for Afghan forces to lead security operations across the country by 2014. Afghan President Hamid Karzai suggests raising the size of the Afghan National Army to 170,000 troops and the Afghan National Police to 134,000 officers by 2011. ](/news/2010/07/20/an-international-conference-on-the-future-of-afghanistan-opens-in-kabul-co-chaired-by-the-president-of-afghanistan-hamid-karzai-and-the-secr.md)
-_Context: Afghan National Army, Afghan security forces, Afghanistan, Afghanistan President, Ban Ki-moon, Hamid Karzai, Kabul, Secretary General_
+_Context: Afghan National Army, Afghan border police, Afghanistan, Afghanistan President, Ban Ki-moon, Hamid Karzai, Kabul, Secretary General_
 
 ### [Former North Korean spy Kim Hyon Hui is allowed into Japan via Haneda Airport on a government-chartered jet, after the country waives its own immigration rules. ](/news/2010/07/20/former-north-korean-spy-kim-hyon-hui-is-allowed-into-japan-via-haneda-airport-on-a-government-chartered-jet-after-the-country-waives-its-ow.md)
 A former North Korean spy who blew up a plane killing 115 people is in Japan to meet families of people abducted to North Korea.
@@ -64,7 +64,7 @@ Turkish Foreign Minister Ahmet Davutoglu has met with Hamas supremo Khaled Mesha
 _Context: Ban Ki-moon, Secretary General_
 
 ### [ASEAN formally invites Russia and the United States to attend the East Asia Summit and urges Myanmar to hold free and fair elections in a foreign ministers meeting in Hanoi, Vietnam. ](/news/2010/07/20/asean-formally-invites-russia-and-the-united-states-to-attend-the-east-asia-summit-and-urges-myanmar-to-hold-free-and-fair-elections-in-a-fo.md)
-_Context: ASEAN, East Asia Summit, Hanoi, Myanmar, Russia, United States, Vietnam_
+_Context: ASEAN, East Asia Summit, Hanoi, Myanmar, Russia, U.S., Vietnam_
 
 ### [Former MI5 head Baroness Manningham-Buller gives evidence in public before the Iraq Inquiry into Iraq's alleged weapons of mass destruction, admitting that the 2003 invasion of Iraq served to "substantially" increase the security threat to the UK. ](/news/2010/07/20/former-mi5-head-baroness-manningham-buller-gives-evidence-in-public-before-the-iraq-inquiry-into-iraq-s-alleged-weapons-of-mass-destruction.md)
 The ex-MI5 chief Baroness Manningham-Buller says Iraq posed only a &quot;very limited&quot; threat to the UK - but the war increased the threat from terrorism.
@@ -97,7 +97,7 @@ Santa Clara police: Activist Ly Tong arrested in pepper spray attack on singer
 South East Asian politicians reportedly give Burma &quot;an earful&quot; over its planned elections, which critics describe as a sham.
 
 ### [Prime Minister of the United Kingdom David Cameron meets with US President Barack Obama to discuss the Gulf of Mexico oil spill, Afghanistan and the global economy. ](/news/2010/07/20/prime-minister-of-the-united-kingdom-david-cameron-meets-with-us-president-barack-obama-to-discuss-the-gulf-of-mexico-oil-spill-afghanistan.md)
-_Context: Afghanistan, Barack Obama, David Cameron, Deepwater Horizon oil spill, Prime Minster, president_
+_Context: Afghanistan, David Cameron, Deepwater Horizon oil spill, Obama, President, Prime Minster_
 
 ### [The Supreme Court of Guinea confirms there will be a presidential run-off in the country's election. ](/news/2010/07/20/the-supreme-court-of-guinea-confirms-there-will-be-a-presidential-run-off-in-the-country-s-election.md)
 _Context: November's presidential poll, Supreme Court_

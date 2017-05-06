@@ -46,13 +46,13 @@ A legal action by promoters MCD against the singer Prince and his US agents has 
 _Context: Luxembourg, Mertz Glacier, iceberg_
 
 ### [''Politiken'' apologises for its reprint of a cartoon depicting the Prophet Muhammad with a bomb-shaped turban in 2008 but is criticised by other Danish newspapers. ](/news/2010/02/26/politiken-apologises-for-its-reprint-of-a-cartoon-depicting-the-prophet-muhammad-with-a-bomb-shaped-turban-in-2008-but-is-criticised-by.md)
-_Context: Danish, Muhammad, Politiken_
+_Context: Denmark, Muhammad, Politiken_
 
 ### [An experiment in Minnesota's Soudan Mine reports detection of weakly interacting massive particles, a form of cold dark matter, with masses of 7-11 billion electronvolts.](/news/2010/02/26/an-experiment-in-minnesota-s-soudan-mine-reports-detection-of-weakly-interacting-massive-particles-a-form-of-cold-dark-matter-with-masses.md)
 _Context: Minnesota, Soudan Mine, cold dark matter, electronvolts, weakly interacting massive particles_
 
 ### [New York Democratic Governor David Paterson announces he will not run in the New York gubernatorial election of 2010.](/news/2010/02/26/new-york-democratic-governor-david-paterson-announces-he-will-not-run-in-the-new-york-gubernatorial-election-of-2010.md)
-_Context: David Paterson, Democrats, Governor, New York, New York gubernatorial election of 2010_
+_Context: D, David Paterson, Governor, New York, New York gubernatorial election of 2010_
 
 ### [President Muammar Gaddafi of Libya declares a holy war on Switzerland. ](/news/2010/02/26/president-muammar-gaddafi-of-libya-declares-a-holy-war-on-switzerland.md)
 _Context: Libya, Muammar Gaddafi, President of Libya, Swiss, holy war_

@@ -28,7 +28,7 @@ _Context: Vivendi_
 _Context: Detroit, strike_
 
 ### [ Residents in south Florida prepare for Tropical Storm Ernesto with concerns that the storm could again strengthen and become a hurricane after it leaves Cuba. ](/news/2006/08/29/residents-in-south-florida-prepare-for-tropical-storm-ernesto-with-concerns-that-the-storm-could-again-strengthen-and-become-a-hurricane-af.md)
-_Context: Cuba, Florida, Tropical Storm Ernesto, hurricane_
+_Context: Cuba, FL, Tropical Storm Ernesto, hurricane_
 
 ### [ Conflict between Shiite militia and the Iraqi military in southern city of Diwaniyah leaves at least 19 dead. ](/news/2006/08/29/conflict-between-shiite-militia-and-the-iraqi-military-in-southern-city-of-diwaniyah-leaves-at-least-19-dead.md)
 _Context: Shiite_

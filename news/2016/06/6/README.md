@@ -25,7 +25,7 @@ _Context: Keiko Fujimori, Pedro Pablo Kuczynski, Peru, Peruvian general election
 _Context: Haiti, Haitian presidential election, 2015-16_
 
 ### [The Associated Press reports that Hillary Clinton has the support of enough delegates to secure the Democratic Party nomination. Since delegates do not vote until the convention though, she is the presumptive nominee of the party. ](/news/2016/06/6/the-associated-press-reports-that-hillary-clinton-has-the-support-of-enough-delegates-to-secure-the-democratic-party-nomination-since-deleg.md)
-_Context: Associated Press, Democratic Party presidential primaries, 2016, Democrats, Hillary Clinton, presumptive nominee_
+_Context: Associated Press, D, Democratic Party presidential primaries, 2016, Hillary Clinton, presumptive nominee_
 
 ## [Previous Day...](/news/2016/06/5/index.md)
 

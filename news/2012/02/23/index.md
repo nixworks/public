@@ -19,7 +19,7 @@ _Context: Bradley Manning, United States Army, WikiLeaks, court-martial_
 _Context: Alabama, Australia, Great Barrier Reef, death of his newlywed wife Tina_
 
 ### [Eric Joyce, the Labour Member of Parliament for Falkirk, is arrested after an alleged brawl in a House of Commons of the United Kingdom bar. ](/news/2012/02/23/eric-joyce-the-labour-member-of-parliament-for-falkirk-is-arrested-after-an-alleged-brawl-in-a-house-of-commons-of-the-united-kingdom-bar.md)
-_Context: Eric Joyce, Falkirk constituency, House of Commons, Labour, MP_
+_Context: Eric Joyce, Falkirk constituency, House of Commons, Labour Party, MP_
 
 ### [The Prime Minister of Australia Julia Gillard calls for a ballot of a caucus of the Australian Labor Party for Monday as a result of the resignation of Foreign Minister Kevin Rudd. ](/news/2012/02/23/the-prime-minister-of-australia-julia-gillard-calls-for-a-ballot-of-a-caucus-of-the-australian-labor-party-for-monday-as-a-result-of-the-res.md)
 _Context: Foreign Minister of Australia, Julia Gillard, Kevin Rudd, Labor Party, Prime Minister of Australia, ballot, caucus_

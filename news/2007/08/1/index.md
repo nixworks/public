@@ -4,7 +4,7 @@
 New Zealand launched its first commercially available biofuel Wednesday. The fuel is made up of 90 percent petrol and 10 percent bioethanol made from cows’ milk.
 
 ### [ The President of the United States George W. Bush orders senior adviser Karl Rove not to testify before a United States Senate committee on the Dismissal of U.S. attorneys controversy. ](/news/2007/08/1/the-president-of-the-united-states-george-w-bush-orders-senior-adviser-karl-rove-not-to-testify-before-a-united-states-senate-committee-on.md)
-_Context: George W. Bush, Karl Rove, United States Senate, firings, president_
+_Context: George W. Bush, Karl Rove, President, firings, senators_
 
 ### [ The Bombay Stock Exchange Sensex lost 615 points in a single day becoming the third biggest such crash in its history.](/news/2007/08/1/the-bombay-stock-exchange-sensex-lost-615-points-in-a-single-day-becoming-the-third-biggest-such-crash-in-its-history.md)
 _Context: Bombay Stock Exchange, Sensex_
@@ -40,7 +40,7 @@ _Context: $456 million energy debt, August 3, Belarus, Gazprom_
 _Context: North Waziristan, Pakistan_
 
 ### [ The United Kingdom Office of Fair Trading levies a fine of PS121.5 million on British Airways for price collusion over long distance passenger fuel surcharges. British Airways and Korean Air later plead guilty to conspiracies to fix the price of passenger and cargo fees in the United States with fines of $300 million each being levied. ](/news/2007/08/1/the-united-kingdom-office-of-fair-trading-levies-a-fine-of-aps121-5-million-on-british-airways-for-price-collusion-over-long-distance-passen.md)
-_Context: British Airways, Korean Air, Office of Fair Trading, PS, U.S. dollar, United Kingdom, United States_
+_Context: British Airways, Korean Air, Office of Fair Trading, PS, U.S., U.S. dollar, United Kingdom_
 
 ### [ Sudan pledges support for UNAMID, a joint United Nations and African  Union peacekeeping force in Darfur. ](/news/2007/08/1/sudan-pledges-support-for-unamid-a-joint-united-nations-and-african-union-peacekeeping-force-in-darfur.md)
 _Context: African Union, Darfur, Sudan, UNAMID, United Nations, peacekeepers_

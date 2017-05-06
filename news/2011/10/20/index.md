@@ -37,7 +37,7 @@ Members of the three largest UK parties are being told to vote against a motion 
 The Greek parliament passes a package of austerity measures despite two days of violent protests, in which one man has died.
 
 ### [The American Jobs Act fails to garner the necessary sixty votes in the United States Senate to proceed. ](/news/2011/10/20/the-american-jobs-act-fails-to-garner-the-necessary-sixty-votes-in-the-united-states-senate-to-proceed.md)
-_Context: American Jobs Act, United States Senate_
+_Context: American Jobs Act, senators_
 
 ## [Previous Day...](/news/2011/10/19/index.md)
 

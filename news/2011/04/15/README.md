@@ -43,7 +43,7 @@ _Context: Fukushima I Nuclear Power Plant, Tokyo Electric Power Company, yen_
 Three days of severe storms leave 24 people dead in the US south, with the Carolinas the latest states to suffer as they move east.
 
 ### [Wildfires in Texas, United States destroy dozens of homes and kill a firefighter. ](/news/2011/04/15/wildfires-in-texas-united-states-destroy-dozens-of-homes-and-kill-a-firefighter.md)
-_Context: Texas, United States_
+_Context: Texas, U.S._
 
 ### [Former Australian water polo player Keli Lane is jailed for 18 years for murdering her baby daughter Tegan Lane in 1996. ](/news/2011/04/15/former-australian-water-polo-player-keli-lane-is-jailed-for-18-years-for-murdering-her-baby-daughter-tegan-lane-in-1996.md)
 _Context: Australia, Keli Lane, water polo_
@@ -70,7 +70,7 @@ _Context: Beijing, Toronto, York University, webcam_
 _Context: Australian Council of Trade Unions, Australian Workers' Union, Julia Gillard, carbon tax, minority government_
 
 ### [At a fundraiser, Barack Obama is caught on an open mic confronting Paul Ryan's record of creating the debt which he is now claiming to be trying to fix, among numerous other things. ](/news/2011/04/15/at-a-fundraiser-barack-obama-is-caught-on-an-open-mic-confronting-paul-ryan-s-record-of-creating-the-debt-which-he-is-now-claiming-to-be-tr.md)
-_Context: Barack Obama, Paul Ryan_
+_Context: Obama, Paul Ryan_
 
 ### [Researchers in Japan and Australia successfully teleport wave packets of light, the first transfer of quantum information from one point to another in a Schrodinger's cat experiment. ](/news/2011/04/15/researchers-in-japan-and-australia-successfully-teleport-wave-packets-of-light-the-first-transfer-of-quantum-information-from-one-point-to.md)
 Researchers from Australia and Japan have successfully teleported wave packets of light, potentially revolutionising quantum communications and computing.

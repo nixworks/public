@@ -7,7 +7,7 @@ _Context: Nova Scotia, octopus, scallop_
 _Context: Colombia, FARC, Juan Manuel Santos_
 
 ### [ Agents from the Federal Bureau of Investigation and Internal Revenue Service search the house of Senator Ted Stevens in Girdwood, Alaska. ](/news/2007/07/30/agents-from-the-federal-bureau-of-investigation-and-internal-revenue-service-search-the-house-of-senator-ted-stevens-in-girdwood-alaska.md)
-_Context: FBI, Girdwood, Alaska, Internal Revenue Service, Ted Stevens, United States Senate_
+_Context: FBI, Girdwood, Alaska, Internal Revenue Service, Ted Stevens, senators_
 
 ### [ The United States Secretary of State Condoleezza Rice and the United States Secretary of Defense Robert Gates travel to the Middle East to offer increased aid to allies of the United States and to seek advice on Iraq. ](/news/2007/07/30/the-united-states-secretary-of-state-condoleezza-rice-and-the-united-states-secretary-of-defense-robert-gates-travel-to-the-middle-east-to.md)
 U.S. Secretary of State Condoleezza Rice and Defense Secretary Robert Gates headed for the Middle East on Monday, armed with big military aid plans for allies and seeking their help with Iraq.

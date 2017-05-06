@@ -31,16 +31,16 @@ _Context: Egypt, security personnel_
 _Context: England, London, Metropolitan Police, Smiley Culture, Surrey, reggae_
 
 ### [Former US mafia leader Joey Merlino of the Scarfo crime family is released from prison in Indiana and is sent to a halfway house in Florida. ](/news/2011/03/15/former-us-mafia-leader-joey-merlino-of-the-scarfo-crime-family-is-released-from-prison-in-indiana-and-is-sent-to-a-halfway-house-in-florida.md)
-_Context: Florida, Indiana, Joey Merlino, Mafia, Scarfo crime family, halfway house_
+_Context: FL, Indiana, Joey Merlino, Mafia, Scarfo crime family, halfway house_
 
 ### [German national Christian Gerhartsreiter is charged with the murder of a San Marino, California man in the 1980s. ](/news/2011/03/15/german-national-christian-gerhartsreiter-is-charged-with-the-murder-of-a-san-marino-california-man-in-the-1980s.md)
 _Context: California, Christian Gerhartsreiter, German, San Marino_
 
 ### [The United States Drug Enforcement Administration seizes the state of Georgia's supply of a lethal injection drug due to questions over how it was imported to the US. ](/news/2011/03/15/the-united-states-drug-enforcement-administration-seizes-the-state-of-georgia-s-supply-of-a-lethal-injection-drug-due-to-questions-over-how.md)
-_Context: Georgia, U.S. Drug Enforcement Administration, United States, lethal injection_
+_Context: Georgia, U.S., U.S. Drug Enforcement Administration, lethal injection_
 
 ### [United States nurse William Francis Melchert-Dinkel is convicted of aiding the suicides of an English man and Canadian woman. ](/news/2011/03/15/united-states-nurse-william-francis-melchert-dinkel-is-convicted-of-aiding-the-suicides-of-an-english-man-and-canadian-woman.md)
-_Context: Canadian, English, United States, William Francis Melchert-Dinkel, suicide_
+_Context: Canadian, English, U.S., William Francis Melchert-Dinkel, suicide_
 
 ### [At a British Medical Association conference, delegates call for the coalition government to halt its plans to overhaul the National Health Service in England. However, they stop short of complete opposition to the proposals. ](/news/2011/03/15/at-a-british-medical-association-conference-delegates-call-for-the-coalition-government-to-halt-its-plans-to-overhaul-the-national-health-s.md)
 Doctors at an emergency union meeting have called on the government to put a halt to its overhaul of the NHS in England, but have stopped short of opposing the plans outright.
@@ -49,7 +49,7 @@ Doctors at an emergency union meeting have called on the government to put a hal
 _Context: Angela Merkel, Chancellor, Germany, Japan, nuclear reactor_
 
 ### [The Mayor of Miami-Dade County in the U.S. state of Florida, Carlos Alvarez, and County commissioner Natacha Seijas are defeated in recall elections. ](/news/2011/03/15/the-mayor-of-miami-dade-county-in-the-u-s-state-of-florida-carlos-alvarez-and-county-commissioner-natacha-seijas-are-defeated-in-recall-e.md)
-_Context: Carlos Alvarez, County commission, Florida, Mayor of Miami-Dade County, recall referendum, state_
+_Context: Carlos Alvarez, County commission, FL, Mayor of Miami-Dade County, recall referendum, state_
 
 ### [Tickets go on sale for the 2012 Summer Olympics to be held in London. ](/news/2011/03/15/tickets-go-on-sale-for-the-2012-summer-olympics-to-be-held-in-london.md)
 A giant clock counting down the days until the start of the London Olympics is unveiled in Trafalgar Square, hours before tickets go on sale.

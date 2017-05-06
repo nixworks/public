@@ -19,7 +19,7 @@ _Context: International Atomic Energy Agency, Iran_
 _Context: Luzon, Philippine, Typhoon Man-yi_
 
 ### [ North Korea's military seeks talks with the United States to discuss "peace and security on the Korean peninsula." ](/news/2007/07/13/north-korea-s-military-seeks-talks-with-the-united-states-to-discuss-peace-and-security-on-the-korean-peninsula.md)
-_Context: Korean Peninsula, North Korea, United States_
+_Context: Korean Peninsula, North Korea, U.S._
 
 ## [Previous Day...](/news/2007/07/12/index.md)
 

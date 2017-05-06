@@ -80,7 +80,7 @@ _Context: Honduran, San Pedro Sula, football_
 Gathering in Washington called attempt to inject humour and tone down partisan division.
 
 ### [Harriet Harman, the deputy leader of the British Labour Party, issues an apology for branding Danny Alexander, a member of the British Government, a "ginger rodent". Mr Alexander tweets in response: "I am proud to be ginger and rodents do valuable work cleaning up mess others leave behind". ](/news/2010/10/30/harriet-harman-the-deputy-leader-of-the-british-labour-party-issues-an-apology-for-branding-danny-alexander-a-member-of-the-british-gover.md)
-_Context: Danny Alexander, Harriet Harman, Labour, Twitter, red hair_
+_Context: Danny Alexander, Harriet Harman, Labour Party, Twitter, red hair_
 
 ### [In an interview with ''Al-Hayat'' later quoted by Israeli television, senior Hamas official Mahmoud al-Zahar calls a "rebel" against Hamas policy anyone who fires rockets from Gaza into Israel. ](/news/2010/10/30/in-an-interview-with-al-hayat-later-quoted-by-israeli-television-senior-hamas-official-mahmoud-al-zahar-calls-a-rebel-against-hamas-p.md)
 Top Hamas official Mahmoud Zahar says Islamist group agreed to truce with Israel following Gaza war and violations of the truce could result in anarchy.

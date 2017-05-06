@@ -16,7 +16,7 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 _Context: Catania football violence, February 2, Italian Football Federation, Italian Prime Minister, Luca Pancalli, Romano Prodi, association football_
 
 ### [ British Prime Minister Tony Blair urges Labour Party to 'weather the storm' during current political crisis for the party, and that 'policies will win the next election'. ](/news/2007/02/3/british-prime-minister-tony-blair-urges-labour-party-to-weather-the-storm-during-current-political-crisis-for-the-party-and-that-polici.md)
-_Context: British Prime Minister, Labour, Tony Blair, current political crisis, election_
+_Context: British Prime Minister, Labour Party, Tony Blair, current political crisis, election_
 
 ### [ The Spring Festival travel season in China begins, in which 156 million passengers will travel by train, and 2 billion bus trips are expected. ](/news/2007/02/3/the-spring-festival-travel-season-in-china-begins-in-which-156-million-passengers-will-travel-by-train-and-2-billion-bus-trips-are-expect.md)
 _Context: stranded in train stations_

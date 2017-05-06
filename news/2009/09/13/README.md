@@ -7,7 +7,7 @@ _Context: Russia, Venezuela_
 _Context: Congo river, Democratic Republic of Congo, ferry_
 
 ### [ Kim Clijsters of Belgium defeats Caroline Wozniacki of Denmark to win the 2009 US Open Women's Singles. ](/news/2009/09/13/kim-clijsters-of-belgium-defeats-caroline-wozniacki-of-denmark-to-win-the-2009-us-open-women-s-singles.md)
-_Context: 2009 US Open Women's Singles, Belgium, Caroline Wozniacki, Danish, Kim Clijsters_
+_Context: 2009 US Open Women's Singles, Belgium, Caroline Wozniacki, Denmark, Kim Clijsters_
 
 ### [ Cork beat Kilkenny in the final of the All-Ireland Senior Camogie Championship 2009. ](/news/2009/09/13/cork-beat-kilkenny-in-the-final-of-the-all-ireland-senior-camogie-championship-2009.md)
 _Context: All-Ireland Senior Camogie Championship 2009, Cork, Kilkenny_
@@ -22,7 +22,7 @@ _Context: Brazil, Brazilian President, G8 group of nations, Luiz Incio Lula da S
 _Context: Angela Merkel, Frank-Walter Steinmeier, German Chancellor_
 
 ### [ Saudi Arabia's veteran foreign minister Prince Saud al-Faisal undergoes successful spine surgery in the United States. ](/news/2009/09/13/saudi-arabia-s-veteran-foreign-minister-prince-saud-al-faisal-undergoes-successful-spine-surgery-in-the-united-states.md)
-_Context: Prince Saud al-Faisal, Saudi Arabia, United States_
+_Context: Prince Saud al-Faisal, Saudi Arabia, U.S._
 
 ### [ 38 people are killed in a fire at a drug abuse clinic in Taldykorgan, Kazakhstan. ](/news/2009/09/13/38-people-are-killed-in-a-fire-at-a-drug-abuse-clinic-in-taldykorgan-kazakhstan.md)
 _Context: Kazakhstan, Taldykorgan, drug abuse, fire_

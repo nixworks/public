@@ -19,7 +19,7 @@ _Context: Mohamed Morsi_
 _Context: Karachi, kills eleven people_
 
 ### [President Barack Obama affirms that the US will attend the upcoming G-20 meeting, despite differences with the Russian government and the cancellation of bilateral talks between Obama and President Putin. ](/news/2013/08/7/president-barack-obama-affirms-that-the-us-will-attend-the-upcoming-g-20-meeting-despite-differences-with-the-russian-government-and-the-ca.md)
-_Context: Barack Obama, G-20, President Putin, meeting_
+_Context: G-20, Obama, President Putin, meeting_
 
 ### [Bank of England governor Mark Carney says the Bank will not consider raising United Kingdom interest rates until the unemployment rate has fallen to 7% or below. ](/news/2013/08/7/bank-of-england-governor-mark-carney-says-the-bank-will-not-consider-raising-united-kingdom-interest-rates-until-the-unemployment-rate-has-f.md)
 _Context: Bank of England, Mark Carney, United Kingdom, interest rate_

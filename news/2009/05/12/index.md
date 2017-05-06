@@ -13,7 +13,7 @@ _Context: Germany, John Demjanjuk, Munich, Nazi Germany, extermination camp, off
 _Context: Islamic Courts Union, Mogadishu, Somali, Transitional Federal Government, War in Somalia (2009-)_
 
 ### [ The United States obtains its first seat on the United Nations Human Rights Council. ](/news/2009/05/12/the-united-states-obtains-its-first-seat-on-the-united-nations-human-rights-council.md)
-_Context: United Nations, United Nations Human Rights Council, United States_
+_Context: U.S., United Nations, United Nations Human Rights Council_
 
 ## [Previous Day...](/news/2009/05/11/index.md)
 

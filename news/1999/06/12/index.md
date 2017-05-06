@@ -4,7 +4,7 @@
 _Context: Federal Republic of Yugoslavia, Kosovo, Kosovo Force, NATO, Operation Joint Guardian, United Nations_
 
 ### [ Texas Governor George W. Bush announces his intention to seek the Republican Party's nomination for President of the United States.](/news/1999/06/12/texas-governor-george-w-bush-announces-his-intention-to-seek-the-republican-party-s-nomination-for-president-of-the-united-states.md)
-_Context: George W. Bush, Texas, president_
+_Context: George W. Bush, President, Texas_
 
 ## [Previous Day...](/news/1999/06/11/index.md)
 

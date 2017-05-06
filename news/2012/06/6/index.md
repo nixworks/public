@@ -38,7 +38,7 @@ Aviation fuel is sent to Manchester Airport after it ran out of supplies, a spok
 It has been confirmed that a magnitude four earthquake struck off the west coast of the country this morning.
 
 ### [The defence of imprisoned U.S. serviceman Bradley Manning receives a boost with a ruling by the judge presiding over his trial at Fort Meade in Maryland ordering the Obama administration to hand over several documents the government had hoped would remain confidential. ](/news/2012/06/6/the-defence-of-imprisoned-u-s-serviceman-bradley-manning-receives-a-boost-with-a-ruling-by-the-judge-presiding-over-his-trial-at-fort-meade.md)
-_Context: Bradley Manning, Fort Meade, Maryland, Obama Administration_
+_Context: Bradley Manning, Fort Meade, MD, Obama Administration_
 
 ### [Hours after a bill to legalise settlement outposts is rejected, Israeli prime minister Benjamin Netanyahu orders the construction of 300 new homes at the Jewish settlement of Beit El in the West Bank. ](/news/2012/06/6/hours-after-a-bill-to-legalise-settlement-outposts-is-rejected-israeli-prime-minister-benjamin-netanyahu-orders-the-construction-of-300-new.md)
 Israeli legislators reject attempt to prevent demolition of outpost built on Palestinian land.

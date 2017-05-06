@@ -7,7 +7,7 @@ Pro-Russia activists seize official buildings in the eastern Ukrainian city of L
 At least 37 people are killed in explosions in the Syrian city of Homs, after at least 14 die in a mortar attack in Damascus, officials say.
 
 ### [The United States Senate Committee on Banking, Housing, and Urban Affairs approves three of President Barack Obama's nominees to the Federal Reserve, including the nomination of Stanley Fischer to be its vice chairman. ](/news/2014/04/29/the-united-states-senate-committee-on-banking-housing-and-urban-affairs-approves-three-of-president-barack-obama-s-nominees-to-the-federal.md)
-_Context: Barack Obama, Federal Reserve, Stanley Fischer, United States Senate Committee on Banking, Housing, and Urban Affairs_
+_Context: Federal Reserve, Obama, Stanley Fischer, United States Senate Committee on Banking, Housing, and Urban Affairs_
 
 ### [Korean maritime border incidents:North Korea warns South Korea that it will conduct live firing near the disputed maritime border. ](/news/2014/04/29/korean-maritime-border-incidents-pnorth-korea-warns-south-korea-that-it-will-conduct-live-firing-near-the-disputed-maritime-border.md)
 North Korea conducts a live-fire drill near the disputed maritime border but no shells enter South Korean territory, Seoul officials say.

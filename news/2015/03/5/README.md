@@ -10,7 +10,7 @@ _Context: Baghdad, Iraqi insurgency (2011-present)_
 _Context: Hong Kong, Mandarin Oriental_
 
 ### [The Indian government censors the documentary ''India's Daughter'' depicting a December 2012 gang rape and murder due to perceived incitement to violence that the outrage about the film might cause. Nevertheless, the BBC telecasts the film. ](/news/2015/03/5/the-indian-government-censors-the-documentary-india-s-daughter-depicting-a-december-2012-gang-rape-and-murder-due-to-perceived-incitemen.md)
-_Context: BBC, December 2012 gang rape and murder, India's Daughter, Indian government_
+_Context: 2012 Delhi gang rape, BBC, India's Daughter, Indian government_
 
 ### [The American Ringling Bros. and Barnum & Bailey Circus will phase-out the inclusion of elephants in their performances by 2018. ](/news/2015/03/5/the-american-ringling-bros-and-barnum-bailey-circus-will-phase-out-the-inclusion-of-elephants-in-their-performances-by-2018.md)
 _Context: Ringling Bros. and Barnum & Bailey Circus, elephant_

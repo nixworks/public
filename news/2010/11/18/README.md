@@ -40,7 +40,7 @@ _Context: Julian Assange, Marianne Ny, Sweden, WikiLeaks, prosecutor_
 A woman in China is sentenced to a year in a labour camp after posting a message on the social networking website Twitter.
 
 ### [Australia deports Gabe Watson to face trial in the US state of Alabama for the alleged murder of his wife Tina. ](/news/2010/11/18/australia-deports-gabe-watson-to-face-trial-in-the-us-state-of-alabama-for-the-alleged-murder-of-his-wife-tina.md)
-_Context: Alabama, Australia, United States, death of his newlywed wife Tina_
+_Context: Alabama, Australia, U.S., death of his newlywed wife Tina_
 
 ### [Japanese police arrest Kiyoshi Takayama, the number two gangster in the Yamaguchi-gumi yakuza group in Kobe. ](/news/2010/11/18/japanese-police-arrest-kiyoshi-takayama-the-number-two-gangster-in-the-yamaguchi-gumi-yakuza-group-in-kobe.md)
 _Context: Japanese police, Kiyoshi Takayama, Kobe, Yamaguchi-gumi, yakuza_
@@ -49,7 +49,7 @@ _Context: Japanese police, Kiyoshi Takayama, Kobe, Yamaguchi-gumi, yakuza_
 Prominent Egyptian blogger Abdel Kareem Nabil Soliman is released from jail after four years.
 
 ### [The United States House Committee on Standards of Official Conduct recommends that the United States House of Representatives censure Rep. Charlie Rangel D-NY for ethics violations and be required to make restitution for any unpaid taxes. ](/news/2010/11/18/the-united-states-house-committee-on-standards-of-official-conduct-recommends-that-the-united-states-house-of-representatives-censure-rep-c.md)
-_Context: Charlie Rangel, Democrats, New York, United States House Committee on Standards of Official Conduct, United States House of Representatives, censure_
+_Context: Charlie Rangel, D, New York, United States House Committee on Standards of Official Conduct, United States House of Representatives, censure_
 
 ### [US health insurers gave over $86.2million to the  Chamber of Commerce last year for the purpose of opposing the  health-care overhaul. ](/news/2010/11/18/us-health-insurers-gave-over-86-2million-to-the-chamber-of-commerce-last-year-for-the-purpose-of-opposing-the-health-care-overhaul.md)
 _Context: U.S. Chamber of Commerce, health care reform_

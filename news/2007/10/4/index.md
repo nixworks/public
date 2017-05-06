@@ -1,7 +1,7 @@
 ## [2007-10-4](/news/2007/10/4/index.md)
 
 ### [ United States Republican Party Senator Pete Domenici of New Mexico announces that he will retire at the end of his current term due to a degenerative brain disease. ](/news/2007/10/4/united-states-republican-party-senator-pete-domenici-of-new-mexico-announces-that-he-will-retire-at-the-end-of-his-current-term-due-to-a-de.md)
-_Context: New Mexico, Pete Domenici, Republican, United States, United States Senate_
+_Context: New Mexico, Pete Domenici, R, U.S., senators_
 
 ### [ The Prime Minister of Canada Stephen Harper chooses Mark Carney to succeed David Dodge as governor of the Bank of Canada. ](/news/2007/10/4/the-prime-minister-of-canada-stephen-harper-chooses-mark-carney-to-succeed-david-dodge-as-governor-of-the-bank-of-canada.md)
 _Context: Bank of Canada, Canadian Prime Minister, David Dodge, Mark Carney, Stephen Harper_
@@ -13,7 +13,7 @@ _Context: Kazaa, Minnesota, U.S. dollar, copyright, damages, recording industry_
 _Context: Augusto Pinochet, Chile, Santiago, embezzlement_
 
 ### [ Republican Party Senator Larry Craig from Idaho vows to serve out his term in the United States Senate despite losing a court bid to rescind a guilty plea for an indecent act in a Minneapolis Airport men's room. ](/news/2007/10/4/republican-party-senator-larry-craig-from-idaho-vows-to-serve-out-his-term-in-the-united-states-senate-despite-losing-a-court-bid-to-rescin.md)
-_Context: Idaho, Larry Craig, Minneapolis, Republican, United States Senate_
+_Context: Idaho, Larry Craig, Minneapolis, R, senators_
 
 ### [ India asks neighboring Myanmar to free Aung San Suu Kyi. ](/news/2007/10/4/india-asks-neighboring-myanmar-to-free-aung-san-suu-kyi.md)
 _Context: Aung San Suu Kyi, India, Myanmar_
@@ -25,7 +25,7 @@ _Context: Bangladesh, Khaleda Zia, Prime Minister, Supreme Court, bail, case, ex
 _Context: Antonov An-26, DR Congo, Kinshasa, cargo plane, crashes into a residential area_
 
 ### [ North Korea and South Korea agree to seek talks with the People's Republic of China and the United States to reach a permanent peace agreement to formally end the Korean War. ](/news/2007/10/4/north-korea-and-south-korea-agree-to-seek-talks-with-the-people-s-republic-of-china-and-the-united-states-to-reach-a-permanent-peace-agreem.md)
-_Context: China's, Korean War, North Korea, South Korea, United States_
+_Context: China's, Korean War, North Korea, South Korea, U.S._
 
 ### [ Malcolm Turnbull, the Australian Federal Environment Minister, approves the Gunns Tamar Valley Pulp Mill but with an extensive list of conditions. ](/news/2007/10/4/malcolm-turnbull-the-australian-federal-environment-minister-approves-the-gunns-tamar-valley-pulp-mill-but-with-an-extensive-list-of-cond.md)
 _Context: Australia, Gunns, Malcolm Turnbull, Tamar Valley Pulp Mill_

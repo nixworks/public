@@ -19,7 +19,7 @@ _Context: AIDS, Africa, Science, malaria, virus_
 _Context: Commonwealth of Nations, Fiji, London, coup in 2006_
 
 ### [ Alaska State Representative Tom Anderson (R) is taken into custody by the FBI in connection with the probe of alleged unethical association by Alaska Legislature with VECO Corporation.  ](/news/2006/12/8/alaska-state-representative-tom-anderson-r-is-taken-into-custody-by-the-fbi-in-connection-with-the-probe-of-alleged-unethical-association.md)
-_Context: Alaska Legislature, FBI, Republican, Tom Anderson, Veco Corp, unethical association_
+_Context: Alaska Legislature, FBI, R, Tom Anderson, Veco Corp, unethical association_
 
 ### [ Nintendo Wii is released in Europe](/news/2006/12/8/nintendo-wii-is-released-in-europe.md)
 _Context: Europe, Nintendo, Wii_

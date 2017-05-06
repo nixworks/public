@@ -4,7 +4,7 @@
 _Context: Beijing Olympiad, Government of Iraq, International Olympic Committee, Iraqi Olympic Committee, Iraqi athletes_
 
 ### [ United States Senator Ted Stevens of Alaska is indicted on seven counts related to his conduct as a Senator. ](/news/2008/07/29/united-states-senator-ted-stevens-of-alaska-is-indicted-on-seven-counts-related-to-his-conduct-as-a-senator.md)
-_Context: Alaska, Senator, Ted Stevens, United States, indicted_
+_Context: Alaska, Senator, Ted Stevens, U.S., indicted_
 
 ### [ World Trade Organisation trade talks in Geneva collapse after disagreements between developed and developing nations over access to agricultural markets. ](/news/2008/07/29/world-trade-organisation-trade-talks-in-geneva-collapse-after-disagreements-between-developed-and-developing-nations-over-access-to-agricul.md)
 _Context: Geneva, World Trade Organisation, trade talks_
@@ -16,7 +16,7 @@ _Context: 2008 Istanbul bombings, Iraq, Kurdistan Workers' Party, Turkey_
 _Context: 5.4 magnitude earthquake, California, Chino Hills, Las Vegas, Nevada, Los Angeles, Nevada, San Diego_
 
 ### [ President of the United States George W. Bush approves the execution of Army Private Ronald A. Gray, who was convicted in 1988 of multiple rapes and murders. It is the first American military execution approved since 1961. Further appeals are expected before he is executed. ](/news/2008/07/29/president-of-the-united-states-george-w-bush-approves-the-execution-of-army-private-ronald-a-gray-who-was-convicted-in-1988-of-multiple.md)
-_Context: George W. Bush, Ronald A. Gray, United States Army, death penalty, military execution, murder, president, rape_
+_Context: George W. Bush, President, Ronald A. Gray, United States Army, death penalty, military execution, murder, rape_
 
 ### [ The government of Australia ends its mandatory detention of all asylum seekers. ](/news/2008/07/29/the-government-of-australia-ends-its-mandatory-detention-of-all-asylum-seekers.md)
 _Context: Australia's government, asylum seeker, detention of children and family groups_

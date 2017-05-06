@@ -28,7 +28,7 @@ _Context: Pacific, Vanuatu, earthquake, tsunami_
 _Context: China, Gansu province, landslide_
 
 ### [A de Havilland Canada DHC-3 Otter seaplane crashes near Aleknagik, Alaska, killing five people, including former U.S. Senator Ted Stevens. Former NASA Administrator Sean O'Keefe and O'Keefe's son were aboard the plane, but survived. ](/news/2010/08/10/a-de-havilland-canada-dhc-3-otter-seaplane-crashes-near-aleknagik-alaska-killing-five-people-including-former-u-s-senator-ted-stevens-f.md)
-_Context: Administrator, Aleknagik, NASA, Sean O'Keefe, Ted Stevens, United States Senate, crashes, de Havilland Canada DHC-3 Otter, seaplane_
+_Context: Administrator, Aleknagik, NASA, Sean O'Keefe, Ted Stevens, crashes, de Havilland Canada DHC-3 Otter, seaplane, senators_
 
 ### [The United States defends its decision to appoint as Venezuelan ambassador Larry Palmer, who has expressed negative views of the country in the past, including insinuating that it has ties with Colombian rebels. ](/news/2010/08/10/the-united-states-defends-its-decision-to-appoint-as-venezuelan-ambassador-larry-palmer-who-has-expressed-negative-views-of-the-country-in.md)
 State Department says Larry Palmer remains nominee for US ambassador to Caracas.

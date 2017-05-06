@@ -7,7 +7,7 @@ _Context: Moscow, UTC, suicide bombing_
 _Context: Centers for Disease Control, flu, vaccine, virus_
 
 ### [Former U.S. Senator Bob Kerrey is appointed to the 9/11 Commission to replace Max Cleland, who is stepping down to become president of the U.S. Export-Import Bank.](/news/2003/12/9/former-u-s-senator-bob-kerrey-is-appointed-to-the-9-11-commission-to-replace-max-cleland-who-is-stepping-down-to-become-president-of-the-u.md)
-_Context: 9/11 Commission, Bob Kerrey, Max Cleland, U.S. Export-Import Bank, United States Senate_
+_Context: 9/11 Commission, Bob Kerrey, Max Cleland, U.S. Export-Import Bank, senators_
 
 ### [Al Gore endorses Howard Dean's candidacy for the Democratic presidential nomination for the 2004 U.S. presidential election. [http://www.msnbc.com/news/1002878.asp?0sl=-21&cp1=1]](/news/2003/12/9/al-gore-endorses-howard-dean-s-candidacy-for-the-democratic-presidential-nomination-for-the-2004-u-s-presidential-election-http-www-msn.md)
 _Context: 2004, 2004 U.S. presidential candidate, Al Gore, Democrat, Howard Dean_
@@ -16,7 +16,7 @@ _Context: 2004, 2004 U.S. presidential candidate, Al Gore, Democrat, Howard Dean
 _Context: December 13, M6 Toll, United Kingdom, West Midlands_
 
 ### [Occupation of Iraq:Some 60 U.S. soldiers and a handful of Iraqis are injured in Tal Afar, west of Mosul, when a pre-dawn car bomb explodes at an entrance to an army base. ](/news/2003/12/9/occupation-of-iraq-psome-60-u-s-soldiers-and-a-handful-of-iraqis-are-injured-in-tal-afar-west-of-mosul-when-a-pre-dawn-car-bomb-explodes.md)
-_Context: Iraq, Mosul, Occupation of Iraq, Tal Afar, United States, car bomb_
+_Context: Iraq, Mosul, Occupation of Iraq, Tal Afar, U.S., car bomb_
 
 ### [Political status of Taiwan: Standing next to visiting Premier Wen Jiabao, George W. Bush reiterates U.S. support for the one China policy and states that he opposes holding a referendum on Taiwan. ](/news/2003/12/9/political-status-of-taiwan-standing-next-to-visiting-premier-wen-jiabao-george-w-bush-reiterates-u-s-support-for-the-one-china-policy-an.md)
 _Context: George W. Bush, One China Policy, Premier of the People's Republic of China, Taiwan, Wen Jiabao, status_

@@ -46,7 +46,7 @@ _Context: Commonwealth of Nations, Patricia Scotland, Baroness Scotland of Astha
 _Context: Saenuri Party, South Korea, South Korean National Assembly_
 
 ### [The appellate prosecutors office in the Polish city of Krakow decides not to appeal a decision against extraditing filmmaker Roman Polanski to the United States to face prosecution for historic child sex offences. ](/news/2015/11/27/the-appellate-prosecutors-office-in-the-polish-city-of-krakow-decides-not-to-appeal-a-decision-against-extraditing-filmmaker-roman-polanski.md)
-_Context: Krakow, Roman Polanski, United States, extradited_
+_Context: Krakow, Roman Polanski, U.S., extradited_
 
 ### [An active shooter in a Planned Parenthood facility in the American city of Colorado Springs, Colorado shoots at least four members of the Colorado Springs Police Department with one officer later dying. Two civilians were also killed, and six were injured. The shooter later surrendered. ](/news/2015/11/27/an-active-shooter-in-a-planned-parenthood-facility-in-the-american-city-of-colorado-springs-colorado-shoots-at-least-four-members-of-the-co.md)
 Planned Parenthood shooting: 3 killed, including 1 police officer in Colorado Springs

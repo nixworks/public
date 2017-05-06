@@ -4,7 +4,7 @@
 A bomb attack on a bus in the southern Philippines kills nine people and injures several others, security personnel say.
 
 ### [Suspected Taliban militants kill an International Security Assistance Force (ISAF) soldier and five Afghan policeman in attacks in Afghanistan. ](/news/2010/10/21/suspected-taliban-militants-kill-an-international-security-assistance-force-isaf-soldier-and-five-afghan-policeman-in-attacks-in-afghanist.md)
-_Context: Afghan security forces, Afghanistan, International Security Assistance Force, Taliban_
+_Context: Afghan border police, Afghanistan, International Security Assistance Force, Taliban_
 
 ### [Biochemist Nick Lane wins the Royal Society Science Book Prize for ''Life Ascending: The Ten Great Inventions of Evolution''. ](/news/2010/10/21/biochemist-nick-lane-wins-the-royal-society-science-book-prize-for-life-ascending-the-ten-great-inventions-of-evolution.md)
 _Context: Biochemist, Life Ascending: The Ten Great Inventions of Evolution, Nick Lane, Royal Society Science Book Prize_

@@ -28,7 +28,7 @@ A teenage girl is still fighting for her life in hospital following the collapse
 Davao City -- About 40 houses were burned to the ground after a fire broke out in Barangay Miranda in the Island Garden City of Samal at around 4 p.m. on Thursday.
 
 ### [The members of the United Nations are scheduled to decide on Australian diplomat Peter Woolcott's draft for the first ever treaty to regulate the conventional arms trade. ](/news/2013/03/28/the-members-of-the-united-nations-are-scheduled-to-decide-on-australian-diplomat-peter-woolcott-s-draft-for-the-first-ever-treaty-to-regulat.md)
-_Context: 193 UN member states, Australia, Peter Woolcott, United Nations, global transfer of weapons, international agreement_
+_Context: 193 UN member states, Australia, Peter Woolcott, United Nations, arms sales, international agreement_
 
 ### [The Syrian opposition opens its first embassy in Qatar, a day after it was given Damascus's seat at the Arab League. ](/news/2013/03/28/the-syrian-opposition-opens-its-first-embassy-in-qatar-a-day-after-it-was-given-damascus-s-seat-at-the-arab-league.md)
 The move comes a day after opponents of Bashar al-Assad were given Syria seat at the Arab League.
@@ -73,7 +73,7 @@ _Context: Anton, England national football team, FIFA, Football Against Racism i
 _Context: Christchurch, Cricket, Jesse Ryder, New Zealand_
 
 ### [American race car driver Denny Hamlin has a compression fracture in his back resulting from a crash on March 24. ](/news/2013/03/28/american-race-car-driver-denny-hamlin-has-a-compression-fracture-in-his-back-resulting-from-a-crash-on-march-24.md)
-_Context: Denny Hamlin, United States, compression fracture, race car_
+_Context: Denny Hamlin, U.S., compression fracture, race car_
 
 ### [A judge allows South African sprint runner Oscar Pistorius to travel abroad to compete in games if he complies with certain conditions. ](/news/2013/03/28/a-judge-allows-south-african-sprint-runner-oscar-pistorius-to-travel-abroad-to-compete-in-games-if-he-complies-with-certain-conditions.md)
 South African athlete Oscar Pistorius, facing a murder charge, can travel overseas to compete under certain conditions, after contesting bail terms.

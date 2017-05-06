@@ -16,7 +16,7 @@ _Context: 33rd Golden Raspberry Awards, The Twilight Saga: Breaking Dawn - Part 
 _Context: Iran, nuclear power plants, uranium_
 
 ### [The United States Air Force grounds its entire $400 billion fleet of 51 F-35 jets due to a major engine technical issue. During a routine inspection of the aircraft, maintenance personnel detected a cracked engine blade. ](/news/2013/02/23/the-united-states-air-force-grounds-its-entire-400-billion-fleet-of-51-f-35-jets-due-to-a-major-engine-technical-issue-during-a-routine-in.md)
-_Context: F-35, United States, United States Air Force, United States dollars, aircraft, engine, grounds_
+_Context: F-35, U.S., United States Air Force, United States dollars, aircraft, engine, grounds_
 
 ### [The death toll from flooding in the Australian state of New South Wales (NSW) rises to two as residents in northern NSW towns including Kempsey, Port Macquarie and Bellingen are evacuated. ](/news/2013/02/23/the-death-toll-from-flooding-in-the-australian-state-of-new-south-wales-nsw-rises-to-two-as-residents-in-northern-nsw-towns-including-kemp.md)
 _Context: 2013 Eastern Australia floods, Australia, Bellingen, Kempsey, New South Wales, Port Macquarie_
@@ -37,7 +37,7 @@ _Context: Egypt, the upcoming parliamentary election_
 Tito&#039;s organization will hold a press conference on the 2018 Mars trip next Wednesday.
 
 ### [A crash during the final lap of the 2013 NASCAR DRIVE4COPD 300 auto race at Daytona International Speedway in Florida, United States, sends debris flying into the stands, injuring at least 33 spectators. ](/news/2013/02/23/a-crash-during-the-final-lap-of-the-2013-nascar-drive4copd-300-auto-race-at-daytona-international-speedway-in-florida-united-states-sends.md)
-_Context: 2013, DRIVE4COPD 300, Daytona International Speedway, Florida, NASCAR, United States, debris_
+_Context: 2013, DRIVE4COPD 300, Daytona International Speedway, FL, NASCAR, U.S., debris_
 
 ## [Previous Day...](/news/2013/02/22/index.md)
 

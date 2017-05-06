@@ -10,10 +10,10 @@ DNA tests confirmed that a bear bagged by a hunter in Canada&#39;s Northwest Ter
 _Context: Baidu Baike, Baidu.com, China's, Wikipedia, censorship, encyclopedia, proxy, unblocks Wikipedia in China_
 
 ### [ The United States National Security Agency is reported to operate "the largest database ever assembled in the world", containing a record of all calls (domestic and international) placed through AT&T, Verizon and BellSouth. Qwest Communications refused to provide customer records, citing the need for a warrant. ](/news/2006/05/11/the-united-states-national-security-agency-is-reported-to-operate-the-largest-database-ever-assembled-in-the-world-containing-a-record-o.md)
-_Context: AT&T, BellSouth Corporation, NSA call database, National Security Agency, Qwest Communications, United States, Verizon, warrant_
+_Context: AT&T, BellSouth Corporation, NSA call database, National Security Agency, Qwest Communications, U.S., Verizon, warrant_
 
 ### [ Ernie Fletcher, Republican governor  of the U.S. state of Kentucky, is indicted on three misdemeanor counts of conspiracy, official misconduct and political discrimination for hiring, promoting, demoting and firing state employees based on political loyalties.](/news/2006/05/11/ernie-fletcher-republican-governor-of-the-u-s-state-of-kentucky-is-indicted-on-three-misdemeanor-counts-of-conspiracy-official-miscond.md)
-_Context: Ernie Fletcher, Kentucky, Republican_
+_Context: Ernie Fletcher, Kentucky, R_
 
 ### [ Results for the state election held in Tamil Nadu, India, on May 8 were announced and the DMK and its allies have captured the power.And the AIADMK becoming a stronger opposition in the history of Tamil Nadu. The State of West Bengal also made a History. "The Communist Party of India (Marxsist) emerged victorius for another 5 years, making its stand of almost 35 years at a stretch"](/news/2006/05/11/results-for-the-state-election-held-in-tamil-nadu-india-on-may-8-were-announced-and-the-dmk-and-its-allies-have-captured-the-power-and-th.md)
 _Context: Dravida Munnetra Kazhagam, India, May 8, Tamil Nadu, state election_

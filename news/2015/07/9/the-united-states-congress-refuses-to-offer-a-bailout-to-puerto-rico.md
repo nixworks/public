@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Puerto Rico files for the largest 'local government' bankruptcy in the United States. ](/news/2017/05/3/puerto-rico-files-for-the-largest-local-government-bankruptcy-in-the-united-states.md) _Context: Puerto Rico_
+1. [Puerto Rico files for the largest "local government" bankruptcy in the United States. ](/news/2017/05/3/puerto-rico-files-for-the-largest-local-government-bankruptcy-in-the-united-states.md) _Context: Puerto Rico_
 2. [U.S. Congressional negotiators reach a bipartisan agreement on the FY 2017 federal government budget that, once approved by both Houses, will fund the entire fiscal year through September 30. The current spending authorization expires  Friday, May 5. ](/news/2017/04/30/u-s-congressional-negotiators-reach-a-bipartisan-agreement-on-the-fy-2017-federal-government-budget-that-once-approved-by-both-houses-wil.md) _Context: U.S. Congressional_
 3. [U.S. Congress passes a bill that mandates NASA send humans to Mars by 2033. ](/news/2017/03/8/u-s-congress-passes-a-bill-that-mandates-nasa-send-humans-to-mars-by-2033.md) _Context: U.S. Congressional_
 4. [The United States House of Representatives votes in favor of legislation that approves preliminary budgetary measures for the United States Congress to begin repealing the Patient Protection and Affordable Care Act, colloquially known as Obamacare. ](/news/2017/01/13/the-united-states-house-of-representatives-votes-in-favor-of-legislation-that-approves-preliminary-budgetary-measures-for-the-united-states.md) _Context: U.S. Congressional_

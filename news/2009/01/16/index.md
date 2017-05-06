@@ -22,7 +22,7 @@ _Context: Israel, Palestinian National Authority, fire_
 _Context: Italian, Perugia, killing Meredith Kercher, trial_
 
 ### [ Somali pirates release the Danish cargo ship CEC ''Future'' after receiving a ransom payment. ](/news/2009/01/16/somali-pirates-release-the-danish-cargo-ship-cec-future-after-receiving-a-ransom-payment.md)
-_Context: Danish, Somali, Somali pirates, cargo ship, ransom_
+_Context: Denmark, Somali, Somali pirates, cargo ship, ransom_
 
 ## [Previous Day...](/news/2009/01/15/index.md)
 

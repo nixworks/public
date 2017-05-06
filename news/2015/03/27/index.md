@@ -22,7 +22,7 @@ SAN FRANCISCO — A civil jury on Friday returned a verdict in the high-profile 
 _Context: Amanda Knox, British people, Italian, Raffaele Sollecito, killing Meredith Kercher_
 
 ### [U.S. Senate Minority Leader Harry Reid (D-Nevada) announces he will not seek re-election to the United States Senate and intends to retire at the end of his term in January 2017. ](/news/2015/03/27/u-s-senate-minority-leader-harry-reid-d-nevada-announces-he-will-not-seek-re-election-to-the-united-states-senate-and-intends-to-retire-a.md)
-_Context: Democrats, Harry Reid, Nevada, Senate Majority Leader, United States Senate_
+_Context: D, Harry Reid, Nevada, Senate Majority Leader, senators_
 
 ### [Soyuz TMA-16M launches carrying three crew members to the International Space Station. Russian cosmonaut Mikhail Korniyenko and American astronaut Scott Kelly begin a special year-long mission to test the effects of long-term habitation on the human body under conditions of micro gravity and radiation. ](/news/2015/03/27/soyuz-tma-16m-launches-carrying-three-crew-members-to-the-international-space-station-russian-cosmonaut-mikhail-korniyenko-and-american-ast.md)
 A Russian Soyuz spacecraft with three crew on board successfully docked at the International Space Station Saturday after blasting off from Kazakhstan, NASA said, launching a year-long mission on the orbiting outpost. The Soyuz-TMA16M spacecraft&#x27;s crew included a US astronaut and a Russian cosmonaut

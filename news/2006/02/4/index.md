@@ -13,7 +13,7 @@ _Context: International Atomic Energy Agency, United Nations Security Council, n
 _Context: A stampede, ABS-CBN, Metro Manila, Pasig City, Philippine, Wowowee_
 
 ### [ The Danish, and as a consequence of sharing the same building, the Chilean and Swedish embassies in Damascus, are firebombed by protestors denouncing the publication of what they consider sacrilegious cartoons depicting the Prophet Muhammad. The Norwegian embassy is also burned. ](/news/2006/02/4/the-danish-and-as-a-consequence-of-sharing-the-same-building-the-chilean-and-swedish-embassies-in-damascus-are-firebombed-by-protestors.md)
-_Context: Chile, Damascus, Danish, Jyllands-Posten Muhammad cartoons controversy, Norway, Sweden_
+_Context: Chile, Damascus, Denmark, Jyllands-Posten Muhammad cartoons controversy, Norway, Sweden_
 
 ## [Previous Day...](/news/2006/02/3/index.md)
 

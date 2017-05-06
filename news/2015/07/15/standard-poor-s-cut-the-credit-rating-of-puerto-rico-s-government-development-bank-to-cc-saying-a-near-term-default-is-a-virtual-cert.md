@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Puerto Rico files for the largest 'local government' bankruptcy in the United States. ](/news/2017/05/3/puerto-rico-files-for-the-largest-local-government-bankruptcy-in-the-united-states.md) _Context: Puerto Rico, Puerto Rico government-debt crisis_
+1. [Puerto Rico files for the largest "local government" bankruptcy in the United States. ](/news/2017/05/3/puerto-rico-files-for-the-largest-local-government-bankruptcy-in-the-united-states.md) _Context: Puerto Rico, Puerto Rico government-debt crisis_
 2. [ The United States Supreme Court strikes down a Puerto Rican law that would have allowed it to restructure the debts of its public utilities over the objections of creditors.  Puerto Rico's agencies have a $2 billion debt payment due July 1 and has already defaulted on a $370 million debt payment for its Government Development Bank back on May 1.  ](/news/2016/06/13/the-united-states-supreme-court-strikes-down-a-puerto-rican-law-that-would-have-allowed-it-to-restructure-the-debts-of-its-public-utilities.md) _Context: Government Development Bank, Puerto Rico_
 3. [Stephanie Del Valle of Puerto Rico is named as Miss World 2016. ](/news/2016/12/18/stephanie-del-valle-of-puerto-rico-is-named-as-miss-world-2016.md) _Context: Puerto Rico_
 4. [The Financial Industry Regulatory Authority announces it has fined Bank of America Merrill Lynch $7 million for failure to supervise the use of leverage in its brokerage accounts, especially in connection with Puerto Rico municipal bonds. ](/news/2016/11/30/the-financial-industry-regulatory-authority-announces-it-has-fined-bank-of-america-merrill-lynch-7-million-for-failure-to-supervise-the-use.md) _Context: Puerto Rico_

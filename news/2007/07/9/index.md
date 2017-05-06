@@ -7,7 +7,7 @@ _Context: Piper Cherokee_
 _Context: Andrzej Lepper, Deputy Prime Minister of Poland, Poland, Samoobrona, anti-corruption_
 
 ### [ United States Senator David Vitter of Louisiana apologises after his name is found on a list associated with an escort agency operated by the so-called D.C. Madam. ](/news/2007/07/9/united-states-senator-david-vitter-of-louisiana-apologises-after-his-name-is-found-on-a-list-associated-with-an-escort-agency-operated-by-t.md)
-_Context: D.C. Madam, David Vitter, Louisiana, United States Senate, escort agency_
+_Context: D.C. Madam, David Vitter, Louisiana, escort agency, senators_
 
 ### [ Lal Masjid siege: An attempt to negotiate a peaceful end to the seven-day standoff at Islamabad's Red Mosque ends without any progress. ](/news/2007/07/9/lal-masjid-siege-an-attempt-to-negotiate-a-peaceful-end-to-the-seven-day-standoff-at-islamabad-s-red-mosque-ends-without-any-progress.md)
 _Context: Islamabad, Lal Masjid siege, Red Mosque_

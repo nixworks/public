@@ -7,7 +7,7 @@ _Context: BBC, London, Royal Albert Hall, The Proms_
 _Context: Chen Shui-bian, President of Taiwan, Taipei, Taiwan, anti-corruption, march_
 
 ### [ Space Shuttle Atlantis lifts off from John F. Kennedy Space Center in Florida to begin STS-115. ](/news/2006/09/9/space-shuttle-atlantis-lifts-off-from-john-f-kennedy-space-center-in-florida-to-begin-sts-115.md)
-_Context: Florida, John F. Kennedy Space Center, STS-115, Space Shuttle Atlantis_
+_Context: FL, John F. Kennedy Space Center, STS-115, Space Shuttle Atlantis_
 
 ### [ A 4.4 magnitude earthquake affects Israel and the West Bank. No injuries are reported. ](/news/2006/09/9/a-4-4-magnitude-earthquake-affects-israel-and-the-west-bank-no-injuries-are-reported.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

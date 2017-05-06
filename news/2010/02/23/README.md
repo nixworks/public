@@ -28,7 +28,7 @@ Frontpage | New Straits Times : Authoritative source for Malaysia latest news on
 _Context: Newry, Northern Ireland_
 
 ### [Danish Prime Minister Lars Lokke Rasmussen carries out a major cabinet reshuffling, bringing in female ministers in charge of Defence and Foreign Affairs, the first in Denmark's history. ](/news/2010/02/23/danish-prime-minister-lars-la-kke-rasmussen-carries-out-a-major-cabinet-reshuffling-bringing-in-female-ministers-in-charge-of-defence-and-f.md)
-_Context: Danish, Defence, Foreign Affairs, Lars Lokke Rasmussen, Prime Minister of Denmark_
+_Context: Defence, Denmark, Foreign Affairs, Lars Lokke Rasmussen, Prime Minister of Denmark_
 
 ## [Previous Day...](/news/2010/02/22/index.md)
 

@@ -16,7 +16,7 @@ _Context: UN Security Council, UN peacekeeper_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Tony Blair and Arnold Schwarzenegger have announced their intention to collaborate to decrease carbon emissions and fight global warming. Their plan includes incentives for companies which limit their carbon emissions, among other carbon-limiting measures. Schwarzenegger has shown interest in a ban on excessive carbon emissions, which is directly in opposition to statements made by President George W. Bush. ](/news/2006/07/31/tony-blair-and-arnold-schwarzenegger-have-announced-their-intention-to-collaborate-to-decrease-carbon-emissions-and-fight-global-warming-t.md)
-_Context: Arnold Schwarzenegger, George W. Bush, Tony Blair, carbon emissions, global warming's, president_
+_Context: Arnold Schwarzenegger, George W. Bush, President, Tony Blair, carbon emissions, global warming's_
 
 ### [ Incumbent Fradique de Menezes wins So Tom and Prncipe's presidential election. ](/news/2006/07/31/incumbent-fradique-de-menezes-wins-sao-tome-and-principe-s-presidential-election.md)
 _Context: Fradique de Menezes, So Tom and Prncipe, presidential election_

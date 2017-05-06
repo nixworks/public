@@ -7,7 +7,7 @@ _Context: British military personnel, Iraq, September 2003, court-martial, war c
 _Context: Hizbul Mujahideen, Srinagar_
 
 ### [ US President George W. Bush has nominated federal appeals court judge John G. Roberts, Jr. to replace Sandra Day O'Connor. Wikinews ](/news/2005/07/19/us-president-george-w-bush-has-nominated-federal-appeals-court-judge-john-g-roberts-jr-to-replace-sandra-day-o-connor-wikinews.md)
-_Context: George W. Bush, John G. Roberts, Jr., Sandra Day O'Connor, Wikinews, president_
+_Context: George W. Bush, John G. Roberts, Jr., President, Sandra Day O'Connor, Wikinews_
 
 ### [ According to reports from Russia, at least 14 people have been killed and several injured in an explosion in Chechnya. ](/news/2005/07/19/according-to-reports-from-russia-at-least-14-people-have-been-killed-and-several-injured-in-an-explosion-in-chechnya.md)
 _Context: Chechnya, Russia, explosion_
@@ -19,7 +19,7 @@ _Context: Gloria Arroyo, Philippine, Philippine President, electoral fraud, trut
 _Context: Adrienne Clarkson, Bill C-38, Canadian Senate, Governor General, Royal Assent, same-sex marriage in Canada_
 
 ### [ Prime Minister Manmohan Singh of India addresses joint session of US Congress in his historic visit to the US. ](/news/2005/07/19/prime-minister-manmohan-singh-of-india-addresses-joint-session-of-us-congress-in-his-historic-visit-to-the-us.md)
-_Context: India, India's Prime Minister, Manmohan Singh, US Congress, United States_
+_Context: India, India's Prime Minister, Manmohan Singh, U.S., US Congress_
 
 ### [ In Thailand, dozens of newspapers editors of Thai Journalist's Association protest against new emergency laws that include media censorship and phone tapping  ](/news/2005/07/19/in-thailand-dozens-of-newspapers-editors-of-thai-journalist-s-association-protest-against-new-emergency-laws-that-include-media-censorship.md)
 _Context: Thai Journalist's Association, Thailand, censorship, mass media, phone tapping_

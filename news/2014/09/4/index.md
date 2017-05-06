@@ -16,7 +16,7 @@ NATO leaders have agreed that Russia should face increased sanctions for its act
 The list of proposed new EU commissioners is now complete, with enough women for the European Parliament to approve the 28-strong team led by Jean-Claude Juncker.
 
 ### [For the first time in sixty years, a new Viking ring fortress is found, the fifth in present-day Denmark; it is located near the town of Koge and believed to have been founded by Harold Bluetooth. ](/news/2014/09/4/for-the-first-time-in-sixty-years-a-new-viking-ring-fortress-is-found-the-fifth-in-present-day-denmark-it-is-located-near-the-town-of-ka.md)
-_Context: Danish, Harold Bluetooth, Koge, Viking ring fortress_
+_Context: Denmark, Harold Bluetooth, Koge, Viking ring fortress_
 
 ## [Previous Day...](/news/2014/09/3/index.md)
 

@@ -8,7 +8,7 @@ _Context: Democratic Forces for the Liberation of Rwanda, Rwandan Genocide, civi
 _Context: Last Rites, Pope John Paul II, blood pressure, fever_
 
 ### [ Terri Schiavo dies 13 days after her feeding tube was removed by court order in Florida, US. ](/news/2005/03/31/terri-schiavo-dies-13-days-after-her-feeding-tube-was-removed-by-court-order-in-florida-us.md)
-_Context: Florida, Terri Schiavo_
+_Context: FL, Terri Schiavo_
 
 ### [ Two days after surgery to repair a brain aneurysm, Neil Young collapses on a New York street, bleeding from a rupture in a femoral artery. He cancels a scheduled appearance at the Juno Awards and reveals his surgery to the press for the first time.](/news/2005/03/31/two-days-after-surgery-to-repair-a-brain-aneurysm-neil-young-collapses-on-a-new-york-street-bleeding-from-a-rupture-in-a-femoral-artery.md)
 _Context: Juno Awards, Neil Young_

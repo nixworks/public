@@ -43,7 +43,7 @@ _Context: North Korea, defectors_
 _Context: China's, Philippine, Taiwan, mainland China_
 
 ### [Denmark upgrades its relation with Palestine to a mission, the second highest rank, following many other western nations recent upgrades.](/news/2011/03/9/denmark-upgrades-its-relation-with-palestine-to-a-mission-the-second-highest-rank-following-many-other-western-nations-recent-upgrades.md)
-_Context: Danish, Palestinian, its relation_
+_Context: Denmark, Palestinian, its relation_
 
 ### [Malaysia bans Shi'ites from promoting their faith to other Muslims, but remain able to practice it themselves. ](/news/2011/03/9/malaysia-bans-shi-ites-from-promoting-their-faith-to-other-muslims-but-remain-able-to-practice-it-themselves.md)
 _Context: Malaysia, Muslim, Shi'ite_
@@ -88,10 +88,10 @@ _Context: King Mohammed VI of Morocco, Moroccan_
 _Context: Governor of Illinois, Illinois, Pat Quinn, death penalty, death row_
 
 ### [The Space Shuttle ''Discovery'' makes its final landing at the Kennedy Space Center in Florida, after 27 years of service. ](/news/2011/03/9/the-space-shuttle-discovery-makes-its-final-landing-at-the-kennedy-space-center-in-florida-after-27-years-of-service.md)
-_Context: Discovery, Florida, Kennedy Space Center, Space Shuttle_
+_Context: Discovery, FL, Kennedy Space Center, Space Shuttle_
 
 ### [The United States Food and Drug Administration approves the use of the drug Belimumab (Benlysta) to treat lupus, the first drug to be approved for this purpose in 56 years. ](/news/2011/03/9/the-united-states-food-and-drug-administration-approves-the-use-of-the-drug-belimumab-benlysta-to-treat-lupus-the-first-drug-to-be-approv.md)
-_Context: Belimumab, FDA, United States, lupus_
+_Context: Belimumab, FDA, U.S., lupus_
 
 ## [Previous Day...](/news/2011/03/8/index.md)
 

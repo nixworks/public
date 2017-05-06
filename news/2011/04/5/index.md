@@ -4,7 +4,7 @@
 _Context: 2010-2011 Ivorian crisis, Abidjan, Alassane Ouattara, Laurent Gbagbo, Presidential Palace_
 
 ### [1,000 students protest at Kabul University as protests continue in Afghanistan over the burning of a Qur'an "found guilty" by pastor Terry Jones' church in the U.S. state of Florida. ](/news/2011/04/5/1-000-students-protest-at-kabul-university-as-protests-continue-in-afghanistan-over-the-burning-of-a-qur-an-found-guilty-by-pastor-terry-j.md)
-_Context: Afghanistan, Florida, Kabul University, Qur'an, Terry Jones, church, state_
+_Context: Afghanistan, FL, Kabul University, Qur'an, Terry Jones, church, state_
 
 ### [2011 Syrian protests:Amid ongoing protests, Syria opposition says Assad wants talks ](/news/2011/04/5/2011-syrian-protests-pamid-ongoing-protests-syria-opposition-says-assad-wants-talks.md)
 _Context: Syrian uprising_
@@ -28,7 +28,7 @@ _Context: Bangladesh, Muhammad Yunus_
 A tanker is believed to have docked in rebel-held eastern Libya to begin the first export of oil for almost three weeks, as new air strikes hit government forces.
 
 ### [The United States Federal Trade Commission considers taking antitrust action against Google. ](/news/2011/04/5/the-united-states-federal-trade-commission-considers-taking-antitrust-action-against-google.md)
-_Context: Google, U.S. Federal Trade Commission, United States, antitrust_
+_Context: Google, U.S., U.S. Federal Trade Commission, antitrust_
 
 ### [Wayne Swan, the Treasurer of Australia, advises that he is inclined to reject a proposed merger of the Australian Stock Exchange and the Singapore Stock Exchange. ](/news/2011/04/5/wayne-swan-the-treasurer-of-australia-advises-that-he-is-inclined-to-reject-a-proposed-merger-of-the-australian-stock-exchange-and-the-sin.md)
 _Context: Australian Stock Exchange, Singapore Stock Exchange, Treasurer of Australia, Wayne Swan_
@@ -64,7 +64,7 @@ _Context: Idaho House of Representatives, abortion, fetus_
 _Context: David Prosser, Jr., Joanne Kloppenburg, Wisconsin, Wisconsin Supreme Court_
 
 ### [Florida Congresswoman Debbie Wasserman Schultz is appointed as the Chairwoman of the US Democratic National Committee. ](/news/2011/04/5/florida-congresswoman-debbie-wasserman-schultz-is-appointed-as-the-chairwoman-of-the-us-democratic-national-committee.md)
-_Context: Debbie Wasserman Schultz, Democratic National Committee, Florida, U.S. Congressional_
+_Context: Debbie Wasserman Schultz, Democratic National Committee, FL, U.S. Congressional_
 
 ### [The World Meteorological Organisation reports that the ozone layer is damaged to its worst extent ever in the Arctic. ](/news/2011/04/5/the-world-meteorological-organisation-reports-that-the-ozone-layer-is-damaged-to-its-worst-extent-ever-in-the-arctic.md)
 The stratospheric ozone layer, which shields the Earth from the Sun&#039;s harmful ultraviolet rays, has been damaged to its greatest-ever extent over the Arctic this winter.

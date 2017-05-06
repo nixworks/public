@@ -13,7 +13,7 @@ _Context: Iraq, Poland_
 _Context: Baghdad, Karbala, Shia, mass grave_
 
 ### [ The serial rape suspect accused of terrorizing two South Florida neighborhoods with attacks on victims ranging from elderly women to an 11-year-old girl was back in custody Tuesday, a week since his brazen jail escape, after a tipster recognized his face and called police. [http://news.yahoo.com/s/ap/20051227/ap_on_re_us/inmate_escape (AP via Yahoo! News)] (Link dead as of 21:18, 14 January 2007 (UTC))](/news/2005/12/27/the-serial-rape-suspect-accused-of-terrorizing-two-south-florida-neighborhoods-with-attacks-on-victims-ranging-from-elderly-women-to-an-11.md)
-_Context: Florida_
+_Context: FL_
 
 ### [ Rebels in Colombia kill 24 soldiers guarding coca eradication workers. ](/news/2005/12/27/rebels-in-colombia-kill-24-soldiers-guarding-coca-eradication-workers.md)
 _Context: Colombia, coca_

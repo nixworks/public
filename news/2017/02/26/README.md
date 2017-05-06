@@ -4,7 +4,7 @@
 _Context: Aleppo Governorate, ISIL, Syrian Army, Syrian Civil War, Tadef, al-Bab_
 
 ### [A Sabal Trail Transmission Pipeline protester who was seen firing a high powered rifle at the pipeline construction site in Florida was chased by police until his car crashed. The suspect was shot and killed by a deputy after he tried to engage police in a gunfight ](/news/2017/02/26/a-sabal-trail-transmission-pipeline-protester-who-was-seen-firing-a-high-powered-rifle-at-the-pipeline-construction-site-in-florida-was-chas.md)
-_Context: Florida, Sabal Trail Transmission Pipeline_
+_Context: FL, Sabal Trail Transmission Pipeline_
 
 ### [The 89th Academy Awards are held in Los Angeles, California. ](/news/2017/02/26/the-89th-academy-awards-are-held-in-los-angeles-california.md)
 The most coveted award of the Oscars descends into chaos, with La La Land mistakenly named the best picture winner.

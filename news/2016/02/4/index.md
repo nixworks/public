@@ -7,7 +7,7 @@ _Context: Shabwa province, Yemen, Yemeni Civil War (2015-present), al-Qaida_
 At least 21 civilians, including three children, were killed Thursday in Russian strikes on rebel-held districts of Syria&#x27;s Aleppo city, a monitor said. The Britain-based Syrian Observatory for Human Rights said the strikes on six neighbourhoods of the northern city had also wounded many, and that
 
 ### [The U.S. President Barack Obama announces a plan to tax crude oil $10 a barrel in order to fund infrastructure spending, according to a White House statement. ](/news/2016/02/4/the-u-s-president-barack-obama-announces-a-plan-to-tax-crude-oil-10-a-barrel-in-order-to-fund-infrastructure-spending-according-to-a-whit.md)
-_Context: Barack Obama, White House, crude oil, infrastructure_
+_Context: Obama, White House, crude oil, infrastructure_
 
 ### [The Polynesian state of Tonga declares a Zika virus epidemic with two confirmed cases and 265 suspected cases. ](/news/2016/02/4/the-polynesian-state-of-tonga-declares-a-zika-virus-epidemic-with-two-confirmed-cases-and-265-suspected-cases.md)
 Tonga has declared a Zika epidemic after confirming two people have contracted the mosquito-borne virus, with 265 suspected cases.

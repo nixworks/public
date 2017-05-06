@@ -16,7 +16,7 @@ _Context: Bad Arolsen, Germany, Hesse, International Tracing Service, Israel_
 _Context: Fragments of a Psalter, Ireland, bog_
 
 ### [ United States National Park Service director Fran P. Mainella announces her resignation. ](/news/2006/07/26/united-states-national-park-service-director-fran-p-mainella-announces-her-resignation.md)
-_Context: Fran P. Mainella, National Park Service, United States_
+_Context: Fran P. Mainella, National Park Service, U.S._
 
 ### [ 2006 Kodori Gorge clashes: Georgian forces attack surrounded rebels after an ultimatum expires. ](/news/2006/07/26/2006-kodori-gorge-clashes-georgian-forces-attack-surrounded-rebels-after-an-ultimatum-expires.md)
 _Context: 2006 Kodori Gorge clashes, Georgia_

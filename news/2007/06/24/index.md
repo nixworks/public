@@ -13,7 +13,7 @@ _Context: Colombia, Spanish language, UNIFIL, bomb_
 _Context: Karachi, Pakistan, storm_
 
 ### [ ''Government of the United Kingdom:'' Gordon Brown becomes the Leader of the Labour Party, replacing Prime Minister Tony Blair. Brown will replace Blair on 27 June. ](/news/2007/06/24/government-of-the-united-kingdom-p-gordon-brown-becomes-the-leader-of-the-labour-party-replacing-prime-minister-tony-blair-brown-will.md)
-_Context: 27 June, Gordon Brown, Government of the United Kingdom, Labour, Prime Minster, Tony Blair_
+_Context: 27 June, Gordon Brown, Government of the United Kingdom, Labour Party, Prime Minster, Tony Blair_
 
 ## [Previous Day...](/news/2007/06/23/index.md)
 

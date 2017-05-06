@@ -1,7 +1,7 @@
 ## [2006-01-29](/news/2006/01/29/index.md)
 
 ### [ Libya closes its embassy in Denmark over the Muhammad Drawings controversy. ](/news/2006/01/29/libya-closes-its-embassy-in-denmark-over-the-muhammad-drawings-controversy.md)
-_Context: Danish, Libya, Muhammad cartoons, embassy_
+_Context: Denmark, Libya, Muhammad cartoons, embassy_
 
 ### [ Al-Jazeera releases two separate videos, one of Ayman al-Zawahiri condemning the bombing of Damadola and the other of Jill Carroll again pleading for the release of female prisoners so her life will be spared. ](/news/2006/01/29/al-jazeera-releases-two-separate-videos-one-of-ayman-al-zawahiri-condemning-the-bombing-of-damadola-and-the-other-of-jill-carroll-again-pl.md)
 _Context: Al Jazeera, Ayman al-Zawahiri, Jill Carroll, bombing of Damadola_

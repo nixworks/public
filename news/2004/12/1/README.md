@@ -25,7 +25,7 @@ _Context: Secretary General, United Nations Security Council reform, reform of t
 _Context: Egypt, Gaza Strip, Israel, Jerusalem_
 
 ### [U.S. President George W. Bush holds talks with Prime Minister Paul Martin of Canada in his first official visit to the country and agrees to work together to combat terrorism. ](/news/2004/12/1/u-s-president-george-w-bush-holds-talks-with-prime-minister-paul-martin-of-canada-in-his-first-official-visit-to-the-country-and-agrees-to.md)
-_Context: Canadian Prime Minister, George W. Bush, Paul Martin, president, terrorism_
+_Context: Canadian Prime Minister, George W. Bush, Paul Martin, President, terrorism_
 
 ### [Serbia's interior minister says the "assassination attempt" on president Boris Tadic was a case of road rage against his motor convoy in Belgrade traffic. ](/news/2004/12/1/serbia-s-interior-minister-says-the-assassination-attempt-on-president-boris-tadia-was-a-case-of-road-rage-against-his-motor-convoy-in-be.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

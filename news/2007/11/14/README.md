@@ -28,7 +28,7 @@ _Context: Baghdad, Green Zone, Iraqi insurgency, civilian, roadside bomb_
 _Context: 2007 Pakistani state of emergency, Imran Khan, Lahore, Pakistan, University of the Punjab_
 
 ### [ Danish prime minister Anders Fogh Rasmussen's liberal-conservative government has secured a third term in office following early parliamentary elections to the Folketing. ](/news/2007/11/14/danish-prime-minister-anders-fogh-rasmussen-s-liberal-conservative-government-has-secured-a-third-term-in-office-following-early-parliament.md)
-_Context: Anders Fogh Rasmussen, Danish, Folketing, early parliamentary elections_
+_Context: Anders Fogh Rasmussen, Denmark, Folketing, early parliamentary elections_
 
 ### [ High Speed 1 (formerly known as the Channel Tunnel Rail Link) opens for commercial use in Britain, linking London St. Pancras, which also opened for commercial use, to the Channel Tunnel. ](/news/2007/11/14/high-speed-1-formerly-known-as-the-channel-tunnel-rail-link-opens-for-commercial-use-in-britain-linking-london-st-pancras-which-also-o.md)
 _Context: Channel Tunnel, High Speed 1_

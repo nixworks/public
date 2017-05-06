@@ -1,7 +1,7 @@
 ## [2006-12-9](/news/2006/12/9/index.md)
 
 ### [ William J. Jefferson is reelected as the member for Louisiana's 2nd congressional district in a runoff election defeating fellow Democrat Karen Carter despite facing an ongoing bribery investigation. ](/news/2006/12/9/william-j-jefferson-is-reelected-as-the-member-for-louisiana-s-2nd-congressional-district-in-a-runoff-election-defeating-fellow-democrat-k.md)
-_Context: 2nd congressional election, Democrats, Karen Carter, William J. Jefferson, bribes_
+_Context: 2nd congressional election, D, Karen Carter, William J. Jefferson, bribes_
 
 ### [ The United States Senate passes legislation normalising trade with Vietnam, renewing tax cuts and opening the Gulf of Mexico to new drilling for oil and gas fields. The legislation had earlier been passed by the United States House of Representatives  and will now go to President of the United States George W. Bush for approval. ](/news/2006/12/9/the-united-states-senate-passes-legislation-normalising-trade-with-vietnam-renewing-tax-cuts-and-opening-the-gulf-of-mexico-to-new-drillin.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

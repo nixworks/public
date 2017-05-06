@@ -1,7 +1,7 @@
 ## [2013-01-27](/news/2013/01/27/index.md)
 
 ### [War in Afghanistan (2001-present):At least twenty members of the Afghan National Police have been killed in bomb attacks over the past day with eight police officers killed in the latest attack in Kandahar. ](/news/2013/01/27/war-in-afghanistan-2001apresent-pat-least-twenty-members-of-the-afghan-national-police-have-been-killed-in-bomb-attacks-over-the-past-da.md)
-_Context: Afghan security forces, Kandahar, War in Afghanistan (2001-present)_
+_Context: Afghan border police, Kandahar, War in Afghanistan (2001-present)_
 
 ### [Syrian civil war:Reports claim that elite Syrian military forces shell the town of Darayya just southwest of Damascus. ](/news/2013/01/27/syrian-civil-war-preports-claim-that-elite-syrian-military-forces-shell-the-town-of-darayya-just-southwest-of-damascus.md)
 _Context: Damascus, Darayya, Syria, Syrian Civil War_

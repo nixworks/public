@@ -10,10 +10,10 @@ _Context: Cazenovia, Eric Hainstock, Weston High School, Wisconsin_
 Prosecutors could charge two American pilots of an executive jet with manslaughter following the high-altitude collision with a Brazilian jetliner that apparently led to a crash that killed all 155 people aboard, federal police said Wednesday.
 
 ### [ A tape of senior Al Qaeda figure Ayman al-Zawahiri is released in which he brands US President George W. Bush a "lying failure" over the war on terror. He goes on to condemn Pope Benedict XVI as an "impostor" for his recent controversial speech and labels Roman Catholicism a religion "made of myths". ](/news/2006/09/29/a-tape-of-senior-al-qaeda-figure-ayman-al-zawahiri-is-released-in-which-he-brands-us-president-george-w-bush-a-lying-failure-over-the-wa.md)
-_Context: Ayman al-Zawahiri, Benedict XVI, George W. Bush, Roman Catholic Church, War on Terror, al-Qaeda, controversial speech, president_
+_Context: Ayman al-Zawahiri, Benedict XVI, George W. Bush, President, Roman Catholic Church, War on Terror, al-Qaeda, controversial speech_
 
 ### [ Rep. Mark Foley, R-Fla., resigns from the United States House of Representatives in the wake of questions about e-mails and instant messages he wrote to a former Capitol page. ](/news/2006/09/29/rep-mark-foley-r-fla-resigns-from-the-united-states-house-of-representatives-in-the-wake-of-questions-about-e-mails-and-instant-message.md)
-_Context: Florida, Mark Foley, Republican, United States House of Representatives, e-mail, page_
+_Context: FL, Mark Foley, Republican, United States House of Representatives, e-mail, page_
 
 ### [ Soyuz TMA-8, with the Expedition 13 crew and Iranian-American space tourist Anousheh Ansari on board, lands safely on the Kazakh steppe. ](/news/2006/09/29/soyuz-tma-8-with-the-expedition-13-crew-and-iranian-american-space-tourist-anousheh-ansari-on-board-lands-safely-on-the-kazakh-steppe.md)
 _Context: Anousheh Ansari, Expedition 13, Iranian-American, Kazakhstan, Soyuz TMA-8, space tourist, steppe_

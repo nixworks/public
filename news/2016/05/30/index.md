@@ -4,7 +4,7 @@
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
 ### [  At least 11 Afghan policemen are killed in a suspected Taliban attack on security checkpoints in Helmand province. ](/news/2016/05/30/at-least-11-afghan-policemen-are-killed-in-a-suspected-taliban-attack-on-security-checkpoints-in-helmand-province.md)
-_Context: Afghan security forces, Helmand Province, Taliban, War in Afghanistan (2015-present)_
+_Context: Afghan border police, Helmand Province, Taliban, War in Afghanistan (2015-present)_
 
 ### [  Two Turkish police officers are killed in a suspected Kurdistan Workers' Party (PKK) bomb attack in the eastern province of Van. ](/news/2016/05/30/two-turkish-police-officers-are-killed-in-a-suspected-kurdistan-workersa-party-pkk-bomb-attack-in-the-eastern-province-of-van.md)
 Two police officers were killed on May 30 in an outlawed Kurdistan Workers’ Party (PKK) bomb attack in the İpekyolu district of the eastern province of Van
@@ -28,7 +28,7 @@ _Context: Alan Pulido, Ciudad Victoria, Mexico, Olympiacos, association football
 Congress proclaims Rodrigo Duterte as president-elect and Leni Robredo as vice president-elect after approving the joint canvassing committee report on Monday.
 
 ### [Chief Syrian opposition negotiator of the High Negotiations Committee Mohammed Allush resigns over the failure of the UN-backed peace talks. Allush said that without any of the opposition demands met, peace talks were a "waste of time". In April, the HNC suspended talks with the Syrian government's delegation in Vienna. ](/news/2016/05/30/chief-syrian-opposition-negotiator-of-the-high-negotiations-committee-mohammed-allush-resigns-over-the-failure-of-the-un-backed-peace-talks.md)
-_Context: Syrian government, Syrian peace process, Syrian rebels, United Nations, Vienna_
+_Context: Syrian government, Syrian opposition, Syrian peace process, United Nations, Vienna_
 
 ### [Fabiano Silveira, Minister for Transparency, Supervision and Control, resigns after leaked recordings suggested he tried to derail the Petrobras corruption investigation. This ''anti-corruption'' ministry was created on May 12, 2016, when Vice President Michel Temer was sworn in as acting president. The same tapes led to the resignation of Planning Minister Romero Juca last week. ](/news/2016/05/30/fabiano-silveira-minister-for-transparency-supervision-and-control-resigns-after-leaked-recordings-suggested-he-tried-to-derail-the-petro.md)
 _Context: Fabiano Silveira, Impeachment process against Brazilian President Dilma Rousseff, Michel Temer, Minister for Transparency, Supervision and Control, Operation Car Wash, Petrobras, Planning Minister, Romero Juca, Vice President_

@@ -40,7 +40,7 @@ _Context: 2012 All-Ireland Senior Hurling Championship Final, Croke Park, Galway
 _Context: Liverpool, Ma Long, Table Tennis World Cup, Timo Boll, Vladimir Samsonov_
 
 ### [In the final day of the 39th Ryder Cup golf competition in Illinois, Europe comes back from 10-6 down to 14.5-13.5 and retains the title against the United States. ](/news/2012/09/30/in-the-final-day-of-the-39th-ryder-cup-golf-competition-in-illinois-europe-comes-back-from-10-6-down-to-14-5-13-5-and-retains-the-title-aga.md)
-_Context: 39th Ryder Cup, Europe, Illinois, United States, golf_
+_Context: 39th Ryder Cup, Europe, Illinois, U.S., golf_
 
 ## [Previous Day...](/news/2012/09/29/index.md)
 

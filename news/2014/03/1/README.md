@@ -22,7 +22,7 @@ _Context: Malaysia, Penang, Penang Second Bridge, Southeast Asia, Sultan Abdul H
 Call for nationwide rallies comes after dozens are arrested in street battles between government forces and protesters.
 
 ### [Proposals to change the automatic trade union affiliation with the UK Labour Party are passed at a special party conference vote by 86% to 14%. ](/news/2014/03/1/proposals-to-change-the-automatic-trade-union-affiliation-with-the-uk-labour-party-are-passed-at-a-special-party-conference-vote-by-86-to-1.md)
-_Context: Labour, trade union_
+_Context: Labour Party, trade union_
 
 ### [In association football, having headbutted a player for the opposing team, an unprecedented incident during a Premier League match, Alan Pardew faces the sack. ](/news/2014/03/1/in-association-football-having-headbutted-a-player-for-the-opposing-team-an-unprecedented-incident-during-a-premier-league-match-alan-par.md)
 Newcastle United boss Alan Pardew looks set to land himself in hot water with the FA after appearing to head butt David Meyler during the win over Hull City.

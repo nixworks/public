@@ -40,7 +40,7 @@ A petition calling for Hillsborough disaster Cabinet papers to be released reach
 _Context: Andy Coulson, BBC, Conservative Party, News International, News of the World, conspiracy to hack mobile phones_
 
 ### [Hattiesburg Mayor Johnny DuPree is declared the winner in the Democratic Party primary election in Mississippi, becoming the first black candidate to win a major party nomination in a gubernatorial race. ](/news/2011/08/23/hattiesburg-mayor-johnny-dupree-is-declared-the-winner-in-the-democratic-party-primary-election-in-mississippi-becoming-the-first-black-can.md)
-_Context: Democrats, Hattiesburg, Johnny DuPree, Mississippi, major party nomination, primary election_
+_Context: D, Hattiesburg, Johnny DuPree, Mississippi, major party nomination, primary election_
 
 ## [Previous Day...](/news/2011/08/22/index.md)
 

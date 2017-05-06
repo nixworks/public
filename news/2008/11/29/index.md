@@ -16,7 +16,7 @@ _Context: 2008 Santa Catarina floods_
 _Context: November terrorist attacks_
 
 ### [ The BlackSheeps win MGP Nordic 2008 held in Aarhus, Denmark. The BlackSheeps had a lead of 74 points at the end of voting. ](/news/2008/11/29/the-blacksheeps-win-mgp-nordic-2008-held-in-aarhus-denmark-the-blacksheeps-had-a-lead-of-74-points-at-the-end-of-voting.md)
-_Context: Aarhus, Danish, MGP Nordic 2008_
+_Context: Aarhus, Denmark, MGP Nordic 2008_
 
 ## [Previous Day...](/news/2008/11/28/index.md)
 

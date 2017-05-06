@@ -10,7 +10,7 @@ _Context: 2007 Pakistani presidential election, 2007 Pakistani state of emergenc
 _Context: Emile Lahoud, Lebanon, President of Lebanon, political_
 
 ### [ A court in Copenhagen, Denmark, convicts three men for plotting terrorist attacks using triacetone triperoxide. ](/news/2007/11/23/a-court-in-copenhagen-denmark-convicts-three-men-for-plotting-terrorist-attacks-using-triacetone-triperoxide.md)
-_Context: Copenhagen, Danish, terrorist attack, triacetone triperoxide_
+_Context: Copenhagen, Denmark, terrorist attack, triacetone triperoxide_
 
 ### [ An Israeli psychiatrist and reserve officer is charged with giving classified information to Iran, Russia and Hamas. ](/news/2007/11/23/an-israeli-psychiatrist-and-reserve-officer-is-charged-with-giving-classified-information-to-iran-russia-and-hamas.md)
 _Context: Hamas, Iran, Israel, Russia, officer, psychiatrist, reserve, state secrets_

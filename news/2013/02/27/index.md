@@ -34,7 +34,7 @@ Boxer Herbie Hide has been questioned by police in connection with the supply of
 Stephane Hessel, the former French Resistance fighter whose 2010 manifesto Time for Outrage inspired social protesters in Europe, dies aged 95.
 
 ### [Chuck Hagel is sworn in as United States Secretary of Defense, replacing Leon Panetta. ](/news/2013/02/27/chuck-hagel-is-sworn-in-as-united-states-secretary-of-defense-replacing-leon-panetta.md)
-_Context: Chuck Hagel, Leon Panetta, Secretary of Defense, United States_
+_Context: Chuck Hagel, Leon Panetta, Secretary of Defense, U.S._
 
 ### [The United States Senate confirms Jack Lew as the Secretary of the Treasury. ](/news/2013/02/27/the-united-states-senate-confirms-jack-lew-as-the-secretary-of-the-treasury.md)
 The U.S. Senate, late Wednesday, confirmed Jack Lew as the nation’s next Treasury Secretary in a vote of 71-26.

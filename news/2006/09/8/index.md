@@ -13,7 +13,7 @@ _Context: Augusto Pinochet, Villa Grimaldi_
 _Context: Burma, Chechnya, Cuba, Freedom House, Human rights, Libya, NGO, North Korea, Sudan, Syria, Tibet, Turkmenistan, Uzbekistan_
 
 ### [ The United States Senate states there is no evidence of formal links between Iraqi ex-leader Saddam Hussein and al-Qaeda leaders in Iraq prior to the 2003 Iraq War. ](/news/2006/09/8/the-united-states-senate-states-there-is-no-evidence-of-formal-links-between-iraqi-ex-leader-saddam-hussein-and-al-qaeda-leaders-in-iraq-pr.md)
-_Context: Iraq, Iraq War, Saddam Hussein, United States Senate, al-Qaeda_
+_Context: Iraq, Iraq War, Saddam Hussein, al-Qaeda, senators_
 
 ### [ Missing United States Air Force officer Major Jill Metzger who disappeared in Bishkek, Kyrgyzstan earlier this week is found in good health. Metzger says she was kidnapped by three men and a woman. ](/news/2006/09/8/missing-united-states-air-force-officer-major-jill-metzger-who-disappeared-in-bishkek-kyrgyzstan-earlier-this-week-is-found-in-good-health.md)
 _Context: Bishkek, Jill Metzger, Kyrgyzstan, United States Air Force_
@@ -28,7 +28,7 @@ _Context: India, Maharashtra, Malegaon, Nashik, bomb blasts_
 _Context: Operation Murambatsvina, Zimbabwe_
 
 ### [ Taliban insurgency: A suicide car bomb explodes near the United States embassy in Kabul, killing at least ten people. ](/news/2006/09/8/taliban-insurgency-a-suicide-car-bomb-explodes-near-the-united-states-embassy-in-kabul-killing-at-least-ten-people.md)
-_Context: Kabul, Taliban insurgency, United States_
+_Context: Kabul, Taliban insurgency, U.S._
 
 ## [Previous Day...](/news/2006/09/7/index.md)
 

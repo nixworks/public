@@ -7,7 +7,7 @@ _Context: Iran, Moroccan, diplomatic_
 _Context: His Majesty's Government, Lloyds Banking Group, United Kingdom_
 
 ### [ NASA launches its Kepler spacecraft from Cape Canaveral Air Force Station in Florida. ](/news/2009/03/7/nasa-launches-its-kepler-spacecraft-from-cape-canaveral-air-force-station-in-florida.md)
-_Context: Cape Canaveral Air Force Station, Florida, Kepler Mission, NASA_
+_Context: Cape Canaveral Air Force Station, FL, Kepler Mission, NASA_
 
 ### [ A car bomb in Peshawar, Pakistan, kills at least eight people.  ](/news/2009/03/7/a-car-bomb-in-peshawar-pakistan-kills-at-least-eight-people.md)
 _Context: Pakistan, Peshawar, car bomb_

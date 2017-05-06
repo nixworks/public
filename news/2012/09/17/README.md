@@ -37,10 +37,10 @@ _Context: Indians, Jubail, Saudi Arabia_
 A ripped condom given to Swedish police by one of Julian Assange’s accusers does not contain the WikiLeaks founder’s DNA, forensic scientists have reportedly found.
 
 ### [United States and Japanese government officials agree to put a second missile defence system in Japan. ](/news/2012/09/17/united-states-and-japanese-government-officials-agree-to-put-a-second-missile-defence-system-in-japan.md)
-_Context: Japan, United States_
+_Context: Japan, U.S._
 
 ### [Nobel Laureate Aung San Suu Kyi begins a 17-day tour of the United States in a bid to help ease economic sanctions on Myanmar. ](/news/2012/09/17/nobel-laureate-aung-san-suu-kyi-begins-a-17-day-tour-of-the-united-states-in-a-bid-to-help-ease-economic-sanctions-on-myanmar.md)
-_Context: Aung San Suu Kyi, Myanmar, Nobel Laureate, United States_
+_Context: Aung San Suu Kyi, Myanmar, Nobel Laureate, U.S._
 
 ### [French police announce that they are exploring the possibility that Sylvain Mollier, and not the al-Hilli family, may have been the intended target in the Annecy murders. ](/news/2012/09/17/french-police-announce-that-they-are-exploring-the-possibility-that-sylvain-mollier-and-not-the-al-hilli-family-may-have-been-the-intended.md)
 A French cyclist who was shot dead alongside a British family in a massacre in the Alps may have been the &#034;main target&#034; of the massacre, police have suggested.
@@ -61,7 +61,7 @@ Lawyers for the Duke and Duchess of Cambridge begin civil proceedings in a Frenc
 _Context: Irish Daily Star, Kate Middleton, Michael O'Kane_
 
 ### [Ireland's justice minister Alan Shatter is involved in an eviction row with a tenant of one of his Florida properties, part of his vast U.S. property portfolio. ](/news/2012/09/17/ireland-s-justice-minister-alan-shatter-is-involved-in-an-eviction-row-with-a-tenant-of-one-of-his-florida-properties-part-of-his-vast-u-s.md)
-_Context: Alan Shatter, Florida_
+_Context: Alan Shatter, FL_
 
 ### [Protests continue at a Chinese co-owned copper mine in the Sagaing Region of Burma over alleged land grabbing and environmental concerns. ](/news/2012/09/17/protests-continue-at-a-chinese-co-owned-copper-mine-in-the-sagaing-region-of-burma-over-alleged-land-grabbing-and-environmental-concerns.md)
 _Context: Burma, China, Sagaing Region, copper_

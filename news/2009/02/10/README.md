@@ -25,7 +25,7 @@ _Context: Israel, legislative election_
 _Context: Zimbabwe, cholera, depreciates, dollar, epidemic_
 
 ### [ The United States Senate approves the American Recovery and Reinvestment Act of 2009.  ](/news/2009/02/10/the-united-states-senate-approves-the-american-recovery-and-reinvestment-act-of-2009.md)
-_Context: American Recovery and Reinvestment Act, United States Senate_
+_Context: American Recovery and Reinvestment Act, senators_
 
 ### [ The United Kingdom imposes new visa requirements on nationals from Bolivia, Lesotho, South Africa, Swaziland, and Venezuela. ](/news/2009/02/10/the-united-kingdom-imposes-new-visa-requirements-on-nationals-from-bolivia-lesotho-south-africa-swaziland-and-venezuela.md)
 _Context: Bolivia, Lesotho, Swaziland, Venezuela, national, visa-free travel_

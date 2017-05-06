@@ -31,7 +31,7 @@ _Context: Ady Gil, Sea Shepherd, Shonan Maru, whaling_
 _Context: Dauletabad - Salyp Yar gas pipeline, Iran, Turkmenistan_
 
 ### [Algerian US ambassador Abdellah Baali and Nigerian Information Minister Dora Akunyili are upset at the decision of the United States to subject Algerians and Nigerians to tougher-than-usual security tests at airports, saying it is "discrimination" and "risks ties". Both have officially complained. ](/news/2010/01/6/algerian-us-ambassador-abdellah-baali-and-nigerian-information-minister-dora-akunyili-are-upset-at-the-decision-of-the-united-states-to-subj.md)
-_Context: Abdellah Baali, Algeria, Dora Akunyili, Nigeria, United States_
+_Context: Abdellah Baali, Algeria, Dora Akunyili, Nigeria, U.S._
 
 ### [The U.S. government lowers the threshold for information deemed important enough to put suspicious individuals on a watch list or no-fly list, or have their visa revoked. ](/news/2010/01/6/the-u-s-government-lowers-the-threshold-for-information-deemed-important-enough-to-put-suspicious-individuals-on-a-watch-list-or-no-fly-lis.md)
 _Context: U.S., visa-free travel_
@@ -46,7 +46,7 @@ _Context: Beijing, Beijing Olympiad, Hebei, Li Junqi, bribes_
 _Context: Hirohisa Fujii, Japan_
 
 ### [Ex-Cabinet Ministers Geoff Hoon and Patricia Hewitt call for a secret ballot to settle the debate over the leadership of the Labour Party of British Prime Minister Gordon Brown. ](/news/2010/01/6/ex-cabinet-ministers-geoff-hoon-and-patricia-hewitt-call-for-a-secret-ballot-to-settle-the-debate-over-the-leadership-of-the-labour-party-of.md)
-_Context: British Cabinet, Geoff Hoon, Gordon Brown, Labour, Patricia Hewitt, Prime Minster_
+_Context: British Cabinet, Geoff Hoon, Gordon Brown, Labour Party, Patricia Hewitt, Prime Minster_
 
 ### [Computer scientist Fabrice Bellard claims he has computed p to almost 2.7 trillion digits. ](/news/2010/01/6/computer-scientist-fabrice-bellard-claims-he-has-computed-i-to-almost-2-7-trillion-digits.md)
 Fabrice Bellard says he has calculated the value of pi to nearly 2.7 trillion digits, some 123 billion more than the previous record.

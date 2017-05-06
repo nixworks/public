@@ -67,7 +67,7 @@ _Context: Bharatiya Janata Party, India, Karnataka state, Legislative Assembly, 
 The Bolivian government says it has annulled a new coca production law which cut by two-thirds the number of coca leaves which growers could sell.
 
 ### [Surgeons at the Shepherd Center in Atlanta, Georgia inject a spinal cord injury patient with embryonic stem cells in an experiment approved by United States Food and Drug Administration. ](/news/2010/10/11/surgeons-at-the-shepherd-center-in-atlanta-georgia-inject-a-spinal-cord-injury-patient-with-embryonic-stem-cells-in-an-experiment-approved.md)
-_Context: Atlanta, FDA, Georgia, Shepherd Center, Surgeon, United States, embryonic stem cell, spinal cord_
+_Context: Atlanta, FDA, Georgia, Shepherd Center, Surgeon, U.S., embryonic stem cell, spinal cord_
 
 ### [Nigerian athlete Oludamola Osayomi, the winner of the 100 metres sprint at the 2010 Commonwealth Games in Delhi, India, tests positive for the banned stimulant Methylhexanamine. ](/news/2010/10/11/nigerian-athlete-oludamola-osayomi-the-winner-of-the-100-metres-sprint-at-the-2010-commonwealth-games-in-delhi-india-tests-positive-for-t.md)
 The sprinter awarded a gold medal after Australia&#039;s Sally Pearson was disqualified from the 100m final in Delhi has tested positive for a banned substance.

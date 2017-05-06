@@ -22,7 +22,7 @@ _Context: Canada, Canadian Prime Minister, Inuit, Metis, Native American, Stephe
 _Context: Articles of Impeachment, Dennis Kucinich, United States House of Representatives_
 
 ### [ InBev, the world's largest brewing company makes an unsolicited $46 billion takeover bid for United States brewing company Anheuser-Busch. ](/news/2008/06/11/inbev-the-world-s-largest-brewing-company-makes-an-unsolicited-46-billion-takeover-bid-for-united-states-brewing-company-anheuser-busch.md)
-_Context: Anheuser-Busch, InBev, U.S. dollar, United States, brewing, takeover_
+_Context: Anheuser-Busch, InBev, U.S., U.S. dollar, brewing, takeover_
 
 ### [ Estonia, Greece and Finland ratify the Treaty of Lisbon. ](/news/2008/06/11/estonia-greece-and-finland-ratify-the-treaty-of-lisbon.md)
 _Context: Estonia, Finland, Greece, Treaty of Lisbon_
@@ -37,7 +37,7 @@ The former king of Nepal, Gyanendra Shah, formally turned over his palace in Kat
 _Context: His Majesty's Government, Metropolitan Police, Surrey, Waterloo Station, al-Qaeda_
 
 ### [ Sheikh Hasina, a former Prime Minister of Bangladesh detained on corruption charges, is released to seek treatment in the United States. ](/news/2008/06/11/sheikh-hasina-a-former-prime-minister-of-bangladesh-detained-on-corruption-charges-is-released-to-seek-treatment-in-the-united-states.md)
-_Context: Prime Minister, Sheikh Hasina, United States, anti-corruption_
+_Context: Prime Minister, Sheikh Hasina, U.S., anti-corruption_
 
 ### [ Stojan Zupljanin, a wartime Bosnian Serb police commander is arrested near Belgrade and will be sent to the Hague where he will face trial for alleged war crimes. ](/news/2008/06/11/stojan-a1-2upljanin-a-wartime-bosnian-serb-police-commander-is-arrested-near-belgrade-and-will-be-sent-to-the-hague-where-he-will-face-trial.md)
 _Context: Belgrade, Bosnian Serb, Stojan Zupljanin, The Hague, war crimes_
@@ -49,7 +49,7 @@ A Tim Donaghy letter to the court alleges improper conduct by referees in the NB
 President George W. Bush said on Wednesday he wants to solve the Iran issue peacefully but reiterated that all options are on the table.
 
 ### [ The British House of Commons considers anti-terrorism legislation extending the period of preventive detention to 42 days with a close vote expected due to a backbench revolt in the Labour Party. The House eventually passes the bill by 315 votes to 306. ](/news/2008/06/11/the-british-house-of-commons-considers-anti-terrorism-legislation-extending-the-period-of-preventive-detention-to-42-days-with-a-close-vote.md)
-_Context: British House of Commons, Labour, anti-terror law, backbench, preventive detention_
+_Context: British House of Commons, Labour Party, anti-terror law, backbench, preventive detention_
 
 ### [ Japan's House of Councillors passes a censure motion against the Prime Minister of Japan Yasuo Fukuda, the first such motion to be passed since World War II. ](/news/2008/06/11/japan-s-house-of-councillors-passes-a-censure-motion-against-the-prime-minister-of-japan-yasuo-fukuda-the-first-such-motion-to-be-passed-s.md)
 _Context: House of Councillors, Japan, Prime Minister, World War II, Yasuo Fukuda, censure motion_

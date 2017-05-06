@@ -31,7 +31,7 @@ _Context: China's, House of Councillors, Japan, censured_
 Like a stallion known for its strong final sprint, the Coalition has trailed Labor in all credible opinion polls for months - until now.
 
 ### [Ed Miliband launches a two-year review of British Labour Party policy, saying that the Party must move beyond New Labour and calling on activists to make it the "People's Party" again. ](/news/2010/11/27/ed-miliband-launches-a-two-year-review-of-british-labour-party-policy-saying-that-the-party-must-move-beyond-new-labour-and-calling-on-acti.md)
-_Context: Ed Miliband, Labour_
+_Context: Ed Miliband, Labour Party_
 
 ### [Tens of thousands of people march through Dublin in protest at the Irish government's austerity measures. ](/news/2010/11/27/tens-of-thousands-of-people-march-through-dublin-in-protest-at-the-irish-government-s-austerity-measures.md)
 _Context: Dublin, Irish government, march_

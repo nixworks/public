@@ -13,7 +13,7 @@ Around 7,000 migrants were rescued from overcrowded boats crossing the Mediterra
 _Context: Bradford County, Pennsylvania, Marcellus Shale, Proceedings of the National Academy of Sciences, fracking_
 
 ### [Former Hewlett-Packard Chief Executive Officer Carly Fiorina announces that she will be seeking the Republican Party nomination for the 2016 presidential election. ](/news/2015/05/4/former-hewlett-packard-chief-executive-officer-carly-fiorina-announces-that-she-will-be-seeking-the-republican-party-nomination-for-the-2016.md)
-_Context: 2016 United States presidential election, Carly Fiorina, Hewlett-Packard, Republican, chief executive officer_
+_Context: 2016 United States presidential election, Carly Fiorina, Hewlett-Packard, R, chief executive officer_
 
 ### [In basketball, Stephen Curry of the Golden State Warriors is named as Most Valuable Player of the North American National Basketball Association for the 2014-15 NBA season. ](/news/2015/05/4/in-basketball-stephen-curry-of-the-golden-state-warriors-is-named-as-most-valuable-player-of-the-north-american-national-basketball-associa.md)
 _Context: 2014-15 NBA season, Golden State Warriors, MVP, NBA, Stephen Curry, basketball, major professional sports_

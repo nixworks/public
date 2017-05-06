@@ -4,7 +4,7 @@
 _Context: Louisiana, New Orleans, Louisiana, public housing_
 
 ### [ United States presidential election, 2008: Tom Tancredo withdraws as a candidate for the Republican nomination and endorses Mitt Romney. ](/news/2007/12/20/united-states-presidential-election-2008-tom-tancredo-withdraws-as-a-candidate-for-the-republican-nomination-and-endorses-mitt-romney.md)
-_Context: 2008, Mitt Romney, Republican, Tom Tancredo_
+_Context: 2008, Mitt Romney, R, Tom Tancredo_
 
 ### [ The US$8 billion buyout of the Tribune Company is completed by Sam Zell. ](/news/2007/12/20/the-us-8-billion-buyout-of-the-tribune-company-is-completed-by-sam-zell.md)
 _Context: Sam Zell, Tribune Company, U.S. dollar_

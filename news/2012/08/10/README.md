@@ -10,7 +10,7 @@ A top Libyan defence official is shot dead in the eastern city of Benghazi, in t
 _Context: Manila, Philippine_
 
 ### [The United States says they are planning to help clean up herbicide Agent Orange from areas of Vietnam, the first time since the Vietnam War ended in 1975. ](/news/2012/08/10/the-united-states-says-they-are-planning-to-help-clean-up-herbicide-agent-orange-from-areas-of-vietnam-the-first-time-since-the-vietnam-war.md)
-_Context: Agent Orange, United States, Vietnam, Vietnam War_
+_Context: Agent Orange, U.S., Vietnam, Vietnam War_
 
 ### [The South Korean Yonhap news agency reports that the President of South Korea Lee Myung-bak is considering visiting the disputed Liancourt Rocks, which are also claimed by Japan. ](/news/2012/08/10/the-south-korean-yonhap-news-agency-reports-that-the-president-of-south-korea-lee-myung-bak-is-considering-visiting-the-disputed-liancourt-r.md)
 _Context: Japan, Lee Myung-bak, Liancourt Rocks, President, South Korea, Yonhap_

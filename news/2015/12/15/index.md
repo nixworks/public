@@ -16,7 +16,7 @@ The French air force used its first cruise missiles against Islamic State group 
 _Context: 2015 Pacific typhoon season, Philippine_
 
 ### [The United States Food and Drug Administration approves the Merck & Co. drug, Bridion, that reverses the effects of muscle relaxants used during surgery. ](/news/2015/12/15/the-united-states-food-and-drug-administration-approves-the-merck-co-drug-bridion-that-reverses-the-effects-of-muscle-relaxants-used-du.md)
-_Context: Bridion, FDA, Merck & Co., United States, muscle relaxant_
+_Context: Bridion, FDA, Merck & Co., U.S., muscle relaxant_
 
 ### [Saudi Arabia announces the formation of a 34-member Islamic Military Alliance against terrorism including Egypt, Qatar, the United Arab Emirates, Turkey, Malaysia and Pakistan with a joint operations centre based in Riyadh. ](/news/2015/12/15/saudi-arabia-announces-the-formation-of-a-34-member-islamic-military-alliance-against-terrorism-including-egypt-qatar-the-united-arab-emir.md)
 A new Saudi-led Islamic alliance to fight terrorism will share information and train, equip and provide forces if necessary for the fight against Islamic State militants, Saudi Foreign Minister Adel al-Jubeir said.
@@ -25,7 +25,7 @@ A new Saudi-led Islamic alliance to fight terrorism will share information and t
 United Nations experts said in a new report on Tuesday the launch used ballistic missile technology banned under a June 2010 resolution.
 
 ### [A Baltimore, Maryland deadlocked jury was told by the trial judge to resume deliberations after closing arguments in the first trial of police officer William Porter, charged in the death of Freddie Gray.  With demonstrations and unrest following the death, the city has cancelled leave for police officers and the mayor has called for calm when a verdict is announced. ](/news/2015/12/15/a-baltimore-maryland-deadlocked-jury-was-told-by-the-trial-judge-to-resume-deliberations-after-closing-arguments-in-the-first-trial-of-poli.md)
-_Context: Baltimore, Maryland, death of Freddie Gray_
+_Context: Baltimore, MD, death of Freddie Gray_
 
 ### [Schools in the Los Angeles Unified School District close after receiving an unspecified "electronic" threat. Later, authorities conclude the threat was a hoax, and announce schools will reopen Wednesday. New York City schools' initial response to a similar threatening email was to treat it as a hoax. The emails were largely identical and had been routed through a server in Frankfurt, apparently by the same person. ](/news/2015/12/15/schools-in-the-los-angeles-unified-school-district-close-after-receiving-an-unspecified-electronic-threat-later-authorities-conclude-the.md)
 More than 1,000 schools in Los Angeles are closed and being searched after receiving an unspecified email threat, say US police.

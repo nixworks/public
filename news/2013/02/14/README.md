@@ -34,7 +34,7 @@ The husband of the late Savita Halappanavar (31) was &ldquo;not in a condition&r
 Businessman Denis O&#39;Brien has been awarded €150,000 by a jury at the High Court after he won his defamation claim against Associated Newspapers, publishers of the Irish Daily Mail.
 
 ### [Republican Senators filibuster the nomination of Chuck Hagel as US Secretary of Defence. ](/news/2013/02/14/republican-senators-filibuster-the-nomination-of-chuck-hagel-as-us-secretary-of-defence.md)
-_Context: Chuck Hagel, Republican, Senator, United States Secretary of Defence, filibuster_
+_Context: Chuck Hagel, R, Senator, United States Secretary of Defence, filibuster_
 
 ### [The Large Hadron Collider (LHC) will switch off for two years, giving time for engineers and scientists to install upgrades to the machine. ](/news/2013/02/14/the-large-hadron-collider-lhc-will-switch-off-for-two-years-giving-time-for-engineers-and-scientists-to-install-upgrades-to-the-machine.md)
 The Large Hadron Collider shuts down for a two-year-long period of maintenance and upgrades that should see a near-doubling of its collision energies.

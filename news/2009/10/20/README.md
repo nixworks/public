@@ -10,7 +10,7 @@ _Context: Anglican, Benedict XVI, Catholic Church, Holy See, canon law_
 Ten Houthis given death penalty and five others jailed over deadly clashes.
 
 ### [ Nine North Koreans who entered the Danish embassy in Hanoi, Vietnam, last month leave for South Korea. ](/news/2009/10/20/nine-north-koreans-who-entered-the-danish-embassy-in-hanoi-vietnam-last-month-leave-for-south-korea.md)
-_Context: Danish, Hanoi, North Korea, South Korea, Vietnam_
+_Context: Denmark, Hanoi, North Korea, South Korea, Vietnam_
 
 ### [ Richard Herman resigns as the Chancellor of the University of Illinois at Urbana-Champaign as a result of an admissions scandal. ](/news/2009/10/20/richard-herman-resigns-as-the-chancellor-of-the-university-of-illinois-at-urbanaachampaign-as-a-result-of-an-admissions-scandal.md)
 _Context: Richard Herman, University of Illinois at Urbana-Champaign, admissions scandal_
@@ -46,7 +46,7 @@ _Context: Silvio Berlusconi_
 _Context: witch_
 
 ### [ The United States observes the National Day on Writing, sponsored by the National Council of Teachers of English (''Pittsburgh Post-Gazette'') [http://www.post-gazette.com/pg/09293/1006870-44.stmP].](/news/2009/10/20/the-united-states-observes-the-national-day-on-writing-sponsored-by-the-national-council-of-teachers-of-english-pittsburgh-post-gazette.md)
-_Context: National Council of Teachers of English, National Day on Writing, United States_
+_Context: National Council of Teachers of English, National Day on Writing, U.S._
 
 ## [Previous Day...](/news/2009/10/19/index.md)
 

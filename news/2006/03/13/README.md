@@ -1,7 +1,7 @@
 ## [2006-03-13](/news/2006/03/13/index.md)
 
 ### [ A cash-for-honours scandal has erupted around UK Prime Minister Tony Blair. A millionaire donor has revealed that Labour fundraisers had arranged secret loans from businessmen who were then nominated for peerages. ](/news/2006/03/13/a-cash-for-honours-scandal-has-erupted-around-uk-prime-minister-tony-blair-a-millionaire-donor-has-revealed-that-labour-fundraisers-had-ar.md)
-_Context: Labour, Tony Blair_
+_Context: Labour Party, Tony Blair_
 
 ### [ A major tornado outbreak finally ends in the central United States. In all, more than 100 tornadoes were reported and 11 people were killed. Two tornadoes hit Springfield, Illinois, late on the 12th, causing major damage to the city.](/news/2006/03/13/a-major-tornado-outbreak-finally-ends-in-the-central-united-states-in-all-more-than-100-tornadoes-were-reported-and-11-people-were-killed.md)
 _Context: Springfield, Illinois, central, major tornado outbreak, tornado_

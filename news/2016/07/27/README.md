@@ -73,7 +73,7 @@ Jupiter&#039;s Great Red Spot may fuel the extreme heat observed in the planet&#
 _Context: human speech, orangutan_
 
 ### [Biologists have determined that the only 'true' species of wolf in North America is the gray wolf while the red wolf is a wolf hybridized with a coyote. ](/news/2016/07/27/biologists-have-determined-that-the-only-true-species-of-wolf-in-north-america-is-the-gray-wolf-while-the-red-wolf-is-a-wolf-hybridized-wi.md)
-_Context: North America, coyote, gray wolf, red wolf_
+_Context: Gray wolves, North America, coyote, red wolf_
 
 ## [Previous Day...](/news/2016/07/26/index.md)
 

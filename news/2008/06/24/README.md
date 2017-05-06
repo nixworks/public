@@ -19,7 +19,7 @@ _Context: Mexico City_
 _Context: Hama Amadou, National Assembly, Prime Minister, anti-corruption_
 
 ### [ The U.S. state of Florida purchases 187,000 acres from the US Sugar Corporation to add to protected lands in the Everglades. ](/news/2008/06/24/the-u-s-state-of-florida-purchases-187-000-acres-from-the-us-sugar-corporation-to-add-to-protected-lands-in-the-everglades.md)
-_Context: Everglades, Florida, US Sugar Corporation_
+_Context: Everglades, FL, US Sugar Corporation_
 
 ### [ Franz Josef Jung, the German Minister of Defence, announces plans to commit a thousand extra troops to Afghanistan. ](/news/2008/06/24/franz-josef-jung-the-german-minister-of-defence-announces-plans-to-commit-a-thousand-extra-troops-to-afghanistan.md)
 Defence Minister Franz Josef Jung said on Tuesday that Germany planned to increase the number of troops it can send to Afghanistan by 1,000 later this year.

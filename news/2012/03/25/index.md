@@ -1,7 +1,7 @@
 ## [2012-03-25](/news/2012/03/25/index.md)
 
 ### [Syrian uprising:At least 48 people are reported killed across Syria as US President Barack Obama and Turkish Prime Minister Erdogan hold talks about a process for transitioning to a "legitimate government". ](/news/2012/03/25/syrian-uprising-pat-least-48-people-are-reported-killed-across-syria-as-us-president-barack-obama-and-turkish-prime-minister-erdoaan-hold-t.md)
-_Context: 2011-2012 Syrian uprising, Barack Obama, Recep Tayyip Erdogan, Syria, Turkish Prime Minister, US President_
+_Context: 2011-2012 Syrian uprising, Obama, Recep Tayyip Erdogan, Syria, Turkish Prime Minister, US President_
 
 ### [2012 insurgency in northern Mali: Tuareg insurgents close in on multiple northern towns where they say they will apply Islamic sharia law. ](/news/2012/03/25/2012-insurgency-in-northern-mali-tuareg-insurgents-close-in-on-multiple-northern-towns-where-they-say-they-will-apply-islamic-sharia-law.md)
 Tuareg rebels have closed in on a key city in northern Mali, taking advantage of a power vacuum in Bamako.
@@ -10,7 +10,7 @@ Tuareg rebels have closed in on a key city in northern Mali, taking advantage of
 _Context: Afghanistan, Kandahar Province, NATO_
 
 ### [Kandahar massacre: The United States pays the Afghanistan government $50,000 for every person murdered during the Kandahar massacre. ](/news/2012/03/25/kandahar-massacre-the-united-states-pays-the-afghanistan-government-50-000-for-every-person-murdered-during-the-kandahar-massacre.md)
-_Context: Afghanistan, Kandahar, Kandahar massacre, United States_
+_Context: Afghanistan, Kandahar, Kandahar massacre, U.S._
 
 ### [Kofi Annan and a special UN peace envoy meet with President of Russia Dmitry Medvedev to discuss adopting a harder stance on Syria and Bashar al-Assad. ](/news/2012/03/25/kofi-annan-and-a-special-un-peace-envoy-meet-with-president-of-russia-dmitry-medvedev-to-discuss-adopting-a-harder-stance-on-syria-and-basha.md)
 _Context: Bashar al-Assad, Dmitry Medvedev, Kofi Annan, Russian President, Syria, UN_

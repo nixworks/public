@@ -25,7 +25,7 @@ _Context: Apple Computer, IBM, Intel, Macintosh_
 _Context: ADA, Ashcroft v. Raich, Medical marijuana, Spector v. Norwegian Cruise Line Ltd., Supreme Court of the United States_
 
 ### [ U.S. Secretary of State Condoleezza Rice opened the 35th General Assembly meeting of the Organization of American States Sunday in Fort Lauderdale, Florida. Secretary Rice called on member states to do more to protect democracy in the region, and strengthen civil society. ](/news/2005/06/6/u-s-secretary-of-state-condoleezza-rice-opened-the-35th-general-assembly-meeting-of-the-organization-of-american-states-sunday-in-fort-lau.md)
-_Context: Condoleezza Rice, Florida, Fort Lauderdale, Florida, Organization of American States_
+_Context: Condoleezza Rice, FL, Fort Lauderdale, Florida, Organization of American States_
 
 ### [ The International Criminal Court announces an investigation into crimes against humanity in Darfur ](/news/2005/06/6/the-international-criminal-court-announces-an-investigation-into-crimes-against-humanity-in-darfur.md)
 _Context: Darfur, International Criminal Court, crimes against humanity_
@@ -40,7 +40,7 @@ _Context: Bougainville Island, Joseph Kabui, autonomous government_
 _Context: Australia, Chen Yonglin, China's, espionage, political asylum_
 
 ### [ In Washington state, United States, the battle over the results of the 2004 gubernatorial election is settled by a county judge, approving the final count in favor of Christine Gregoire.](/news/2005/06/6/in-washington-state-united-states-the-battle-over-the-results-of-the-2004-gubernatorial-election-is-settled-by-a-county-judge-approving.md)
-_Context: 2004 gubernatorial election, Christine Gregoire, United States, Washington_
+_Context: 2004 gubernatorial election, Christine Gregoire, U.S., Washington_
 
 ## [Previous Day...](/news/2005/06/5/index.md)
 

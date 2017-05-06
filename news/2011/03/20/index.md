@@ -34,7 +34,7 @@ The U.S. Coast Guard is investigating reports of a &quot;sheen&quot; in the Gulf
 State says 42-year old Palestinian engineer abducted in Ukraine being interrogated in prison
 
 ### [U.S. president Barack Obama visits a favela and delivers a speech in Rio de Janeiro as part of his five-day Latin American journey. ](/news/2011/03/20/u-s-president-barack-obama-visits-a-favela-and-delivers-a-speech-in-rio-de-janeiro-as-part-of-his-five-day-latin-american-journey.md)
-_Context: Barack Obama, Rio de Janeiro, favela, president_
+_Context: Obama, President, Rio de Janeiro, favela_
 
 ### [Police are growing concerned for the safety of Sian O'Callaghan, a 22-year-old woman who went missing while walking home from a nightclub in the English city of Swindon in the early hours of Saturday 19 March. ](/news/2011/03/20/police-are-growing-concerned-for-the-safety-of-sian-o-callaghan-a-22-year-old-woman-who-went-missing-while-walking-home-from-a-nightclub-in.md)
 Police are concerned for the safety of a 22-year-old woman who went missing after leaving a Swindon nightclub in the early hours of Saturday.

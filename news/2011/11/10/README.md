@@ -46,7 +46,7 @@ _Context: ANC, Julius Malema, South Africa_
 _Context: Canadian, Quebec, city of Montreal, tuition fee_
 
 ### [Incumbent Virginia State Senator Edd Houck concedes defeat in the state elections, giving the Republican Party control over the Virginia General Assembly. ](/news/2011/11/10/incumbent-virginia-state-senator-edd-houck-concedes-defeat-in-the-state-elections-giving-the-republican-party-control-over-the-virginia-gen.md)
-_Context: Edd Houck, Republican, State Senator, Virginia, Virginia General Assembly, state elections_
+_Context: Edd Houck, R, State Senator, Virginia, Virginia General Assembly, state elections_
 
 ### [The incumbent President of Liberia, Ellen Johnson Sirleaf, is declared the winner of the Liberian presidential election, gaining 90% of the vote following a boycott by opposition candidate Winston Tubman. ](/news/2011/11/10/the-incumbent-president-of-liberia-ellen-johnson-sirleaf-is-declared-the-winner-of-the-liberian-presidential-election-gaining-90-of-the.md)
 _Context: Ellen Johnson Sirleaf, Liberian presidential election, President of Liberia, Winston Tubman_

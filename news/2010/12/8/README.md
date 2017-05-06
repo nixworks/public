@@ -4,7 +4,7 @@
 _Context: Somali_
 
 ### [North Korea launches apparent artillery drills as South Korean and American military officials hold talks. ](/news/2010/12/8/north-korea-launches-apparent-artillery-drills-as-south-korean-and-american-military-officials-hold-talks.md)
-_Context: North Korea, South Korea, United States_
+_Context: North Korea, South Korea, U.S._
 
 ### [At least 18 people are killed during a bomb at a bus terminal in Kohat's main bazaar kills in Pakistan. ](/news/2010/12/8/at-least-18-people-are-killed-during-a-bomb-at-a-bus-terminal-in-kohat-s-main-bazaar-kills-in-pakistan.md)
 _Context: Kohat, Pakistan, bazaar_

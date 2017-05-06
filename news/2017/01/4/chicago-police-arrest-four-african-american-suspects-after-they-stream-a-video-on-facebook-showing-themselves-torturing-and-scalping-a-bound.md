@@ -12,7 +12,7 @@ Chicago police are investigating a video appearing to show a man tied up and ass
 
 ### Related:
 
-1. [Plans for a Chicago-based presidential library in honour of the former U.S. president Obama are revealed. ](/news/2017/05/3/plans-for-a-chicago-based-presidential-library-in-honour-of-the-former-u-s-president-obama-are-revealed.md) _Context: Chicago_
+1. [Plans for a Chicago-based presidential library in honour of the former U.S. President Obama are revealed. ](/news/2017/05/3/plans-for-a-chicago-based-presidential-library-in-honour-of-the-former-u-s-president-obama-are-revealed.md) _Context: Chicago_
 2. [A United Airlines passenger is dragged off a flight at O'Hare International Airport in Chicago. The airline company is under fire because of the mistreatment of the passenger. ](/news/2017/04/9/a-united-airlines-passenger-is-dragged-off-a-flight-at-o-hare-international-airport-in-chicago-the-airline-company-is-under-fire-because-of.md) _Context: Chicago_
 3. [The search for the suspect in the killing of an elderly man in Cleveland, whose murder was posted to Facebook, expands beyond Ohio, with the FBI urging residents in Indiana, Michigan, New York, and Pennsylvania to be on alert for the suspect. ](/news/2017/04/17/the-search-for-the-suspect-in-the-killing-of-an-elderly-man-in-cleveland-whose-murder-was-posted-to-facebook-expands-beyond-ohio-with-the.md) _Context: Facebook_
 4. [Cleveland police search for a suspect identified in a Facebook video showing one man shooting an elderly man. ](/news/2017/04/16/cleveland-police-search-for-a-suspect-identified-in-a-facebook-video-showing-one-man-shooting-an-elderly-man.md) _Context: Facebook_

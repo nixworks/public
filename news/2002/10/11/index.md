@@ -1,7 +1,7 @@
 ## [2002-10-11](/news/2002/10/11/index.md)
 
 ### [  The United States Senate voted to give war powers to President George W. Bush as part of the ongoing conflict between the United States and Iraq.](/news/2002/10/11/the-united-states-senate-voted-to-give-war-powers-to-president-george-w-bush-as-part-of-the-ongoing-conflict-between-the-united-states-an.md)
-_Context: George W. Bush, Iraq, U.S. plan to invade Iraq, United States Senate_
+_Context: George W. Bush, Iraq, U.S. plan to invade Iraq, senators_
 
 ### [  A suicide bomber explodes at the Myyrmanni Shopping Mall in Vantaa, Finland, killing seven including the bomber.](/news/2002/10/11/a-suicide-bomber-explodes-at-the-myyrmanni-shopping-mall-in-vantaa-finland-killing-seven-including-the-bomber.md)
 _Context: Myyrmanni bombing, Vantaa, suicide bomber_

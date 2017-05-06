@@ -13,7 +13,7 @@ Georgia has cut diplomatic links with Russia, withdrawing its diplomats from Mos
 _Context: Alitalia, Italian, bankruptcy, commercial air traffic_
 
 ### [ John McCain picks Alaska Governor Sarah Palin as his vice-presidential running mate for the Republican nomination for the U.S. presidential election. ](/news/2008/08/29/john-mccain-picks-alaska-governor-sarah-palin-as-his-vice-presidential-running-mate-for-the-republican-nomination-for-the-u-s-presidential.md)
-_Context: 2008, Alaska, Governor, John McCain, Republican, Sarah Palin, running mate_
+_Context: 2008, Alaska, Governor, John McCain, R, Sarah Palin, running mate_
 
 ### [ Former Bosnian Serb leader Radovan Karadzic refuses to enter pleas to charges including genocide and crimes against humanity at the International Criminal Tribunal for the former Yugoslavia at the Hague. ](/news/2008/08/29/former-bosnian-serb-leader-radovan-karada3-4ia-refuses-to-enter-pleas-to-charges-including-genocide-and-crimes-against-humanity-at-the-inter.md)
 _Context: Bosnian Serbs, Hague, International Criminal Tribunal for the former Yugoslavia, Radovan Karadzic, genocide, war crime_

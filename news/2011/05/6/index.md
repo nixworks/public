@@ -88,7 +88,7 @@ Verification of votes is under way at eight centres across Northern Ireland, in 
 _Context: Alternative Vote referendum, alternative voting_
 
 ### [Labour candidate Jon Ashworth wins the Leicester South by-election. ](/news/2011/05/6/labour-candidate-jon-ashworth-wins-the-leicester-south-by-election.md)
-_Context: Jon Ashworth, Labour, Leicester South by-election_
+_Context: Jon Ashworth, Labour Party, Leicester South by-election_
 
 ### [Thai Prime Minister Abhisit Vejjajiva seeks King Bhumibol Adulyadej's endorsement to dissolve the lower house of parliament and calls for a national election. ](/news/2011/05/6/thai-prime-minister-abhisit-vejjajiva-seeks-king-bhumibol-adulyadej-s-endorsement-to-dissolve-the-lower-house-of-parliament-and-calls-for-a.md)
 _Context: Abhisit Vejjajiva, Bhumibol Adulyadej, King, Thai Prime Minister_

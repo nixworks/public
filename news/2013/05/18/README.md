@@ -7,10 +7,10 @@ _Context: Baghdad, Iraqi Police, Iraqi insurgency (post-U.S. withdrawal)_
 _Context: Imran Khan, Karachi, Pakistan Tehreek-e-Insaf, Zahra Shahid Hussain_
 
 ### [Emmelie de Forest of Denmark wins the 2013 Eurovision Song Contest with the song "Only Teardrops". ](/news/2013/05/18/emmelie-de-forest-of-denmark-wins-the-2013-eurovision-song-contest-with-the-song-only-teardrops.md)
-_Context: 2013, Danish, Emmelie de Forest, Eurovision Song Contest, Only Teardrops_
+_Context: 2013, Denmark, Emmelie de Forest, Eurovision Song Contest, Only Teardrops_
 
 ### [A winner is found for a record $590 million Powerball jackpot with the winning ticket sold at an agent in Zephyrhills, Florida. ](/news/2013/05/18/a-winner-is-found-for-a-record-590-million-powerball-jackpot-with-the-winning-ticket-sold-at-an-agent-in-zephyrhills-florida.md)
-_Context: Florida, Powerball, Zephyrhills, jackpot_
+_Context: FL, Powerball, Zephyrhills, jackpot_
 
 ### [One hundred thousand people march in Rome, the capital of Italy, to protest the austerity measures of the new government, demanding a new policy focus on the creation of jobs. ](/news/2013/05/18/one-hundred-thousand-people-march-in-rome-the-capital-of-italy-to-protest-the-austerity-measures-of-the-new-government-demanding-a-new-po.md)
 Tens of thousands of protesters, led by trade unionists, rally in the Italian capital Rome against the policies of the new coalition government.

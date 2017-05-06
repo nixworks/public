@@ -40,7 +40,7 @@ _Context: Burundi, Burundian legislative election, 2015_
 MIAMI - Puerto Rico is just days away from a historic economic collapse after the commonwealth&#39;s governor said the island can not pay its $72 billion in debts. Governor Alejandro Garcia Padilla, who took
 
 ### [U.S. President Barack Obama signs the Defending Public Safety Employees Retirement Act (H.R. 2146), renewing Trade Promotion Authority, and the Trade Preferences Extension Act of 2015 (H.R. 1295), extending Trade Adjustment Assistance. ](/news/2015/06/29/u-s-president-barack-obama-signs-the-defending-public-safety-employees-retirement-act-h-r-2146-renewing-trade-promotion-authority-and.md)
-_Context: Barack Obama, Trade Adjustment Assistance, Trade Promotion Authority_
+_Context: Obama, Trade Adjustment Assistance, Trade Promotion Authority_
 
 ### [NBC drops support of 2016 United State Presidential candidate Donald Trump after Trump gives a campaign speech which includes accusedly racist remarks. ](/news/2015/06/29/nbc-drops-support-of-2016-united-state-presidential-candidate-donald-trump-after-trump-gives-a-campaign-speech-which-includes-accusedly-raci.md)
 Eh, perhaps on the Donald Trump curve.

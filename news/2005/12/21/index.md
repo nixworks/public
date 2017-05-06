@@ -28,7 +28,7 @@ _Context: 2005 Kashmir earthquake, SOS Children_
 _Context: December solstice, Northern Hemisphere, UTC, astronomical, southern hemisphere, spiritual, summer solstice, winter solstice_
 
 ### [ The United States Senate passes a six-month extension of the USA PATRIOT Act late Wednesday night by a voice vote. This clears the way for a final vote in the House. [http://news.yahoo.com/s/ap/20051222/ap_on_go_co/patriot_act (AP via Yahoo! News)] (Link dead as of 00:49, 15 January 2007 (UTC))](/news/2005/12/21/the-united-states-senate-passes-a-six-month-extension-of-the-usa-patriot-act-late-wednesday-night-by-a-voice-vote-this-clears-the-way-for.md)
-_Context: USA PATRIOT Act, United States House of Representatives, United States Senate_
+_Context: USA PATRIOT Act, United States House of Representatives, senators_
 
 ### [ Connecticut. A former hedge fund manager, Scott Sacane, pleaded guilty to one count of violating the Investment Advisers Act of 1940 in connection with the manipulation of the prices of two biotechnology stocks between November 2002 and July 2003. [http://www.stamfordadvocate.com/business/scn-sa-durus2dec22,0,2036231.story?coll=stam-business-headlines (Stamford (CT) Advocate)] (Link dead as of 00:49, 15 January 2007 (UTC))](/news/2005/12/21/connecticut-a-former-hedge-fund-manager-scott-sacane-pleaded-guilty-to-one-count-of-violating-the-investment-advisers-act-of-1940-in-con.md)
 _Context: Connecticut, Hedge fund, Scott Sacane, biotechnology_

@@ -31,10 +31,10 @@ A record-setting May snowstorm swept across the north-central U.S. on Thursday, 
 The US calls on North Korea to grant amnesty to US citizen Kenneth Bae, sentenced to 15 years of hard labour for alleged anti-government crimes.
 
 ### [A man fires two shots into the ceiling of Bush Intercontinental Airport in Houston, Texas, United States with a rifle before killing himself. ](/news/2013/05/2/a-man-fires-two-shots-into-the-ceiling-of-bush-intercontinental-airport-in-houston-texas-united-states-with-a-rifle-before-killing-himself.md)
-_Context: Bush Intercontinental Airport, Houston, Texas, United States_
+_Context: Bush Intercontinental Airport, Houston, Texas, U.S._
 
 ### [The U.S. state of Maryland abolishes capital punishment for future offenders. ](/news/2013/05/2/the-u-s-state-of-maryland-abolishes-capital-punishment-for-future-offenders.md)
-_Context: Maryland, death penalty_
+_Context: MD, death penalty_
 
 ### [The U.S. Court of Appeals for the Second Circuit rules that five relatives of Osama bin Laden and a construction company started by his father cannot be held liable for the September 11, 2001 terrorist attacks. ](/news/2013/05/2/the-u-s-court-of-appeals-for-the-second-circuit-rules-that-five-relatives-of-osama-bin-laden-and-a-construction-company-started-by-his-fath.md)
 _Context: Osama bin Laden, September 11, 2001 terrorist attacks, U.S. Court of Appeals for the Second Circuit_

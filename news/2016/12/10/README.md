@@ -31,10 +31,10 @@ _Context: China, North Korea, United Nations Security Council_
 Yahya Jammeh had conceded result to Adama Barrow but now claims ‘fresh and transparent elections’ are needed
 
 ### [In the Philippines, demonstrators call for President Rodrigo Duterte to address extrajudicial killings linked to the Philippine Drug War, ongoing military operations against communist rebels, and the controversial burial of Ferdinand Marcos in the Heroes' Cemetery. An effigy of Marcos was made as a centerpiece of the protest. ](/news/2016/12/10/in-the-philippines-demonstrators-call-for-president-rodrigo-duterte-to-address-extrajudicial-killings-linked-to-the-philippine-drug-war-on.md)
-_Context: Heroes' Cemetery, Human Rights Day, Philippine, Philippine Drug War, Rodrigo Duterte, burial of Ferdinand Marcos_
+_Context: Heroes' Cemetery, Human Rights Day, Philippine, Rodrigo Duterte, burial of Ferdinand Marcos, drug war_
 
 ### [John N. Kennedy of the Republican Party defeats Foster Campbell of the Democratic Party to become the junior Senator for Louisiana. ](/news/2016/12/10/john-n-kennedy-of-the-republican-party-defeats-foster-campbell-of-the-democratic-party-to-become-the-junior-senator-for-louisiana.md)
-_Context: Democrats, Foster Campbell, John N. Kennedy, Louisiana, Republican, United States Senate election in Louisiana, 2016_
+_Context: D, Foster Campbell, John N. Kennedy, Louisiana, R, United States Senate election in Louisiana, 2016_
 
 ### [In association football, Toronto FC play Seattle Sounders FC in the MLS Cup final held at Toronto's BMO Field. The Sounders win 5-4 in a penalty shootout after the game ended scoreless after extra time. It is the Sounders' first MLS title. ](/news/2016/12/10/in-association-football-toronto-fc-play-seattle-sounders-fc-in-the-mls-cup-final-held-at-toronto-s-bmo-field-the-sounders-win-5a4-in-a-p.md)
 Toronto FC will finally get their shot at becoming MLS champions on Saturday night as they take on the Seattle Sounders in a winner-takes-all game.

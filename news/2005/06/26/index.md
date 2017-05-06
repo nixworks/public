@@ -16,7 +16,7 @@ News and opinion from The Times &amp; The Sunday Times
 _Context: Elections in Bulgaria, Simeon Saxe-Coburg, Socialists, Tsar, incumbent, plurality_
 
 ### [ Florida beaches reopen after the shark attack Saturday that killed Jamie Daigle. ](/news/2005/06/26/florida-beaches-reopen-after-the-shark-attack-saturday-that-killed-jamie-daigle.md)
-_Context: Florida_
+_Context: FL_
 
 ### [ Fires in the Southwestern United States threaten a small community and close a highway in Utah. Blazes in California, Arizona, and Nevada have already consumed 200,000 acres (800 km). ](/news/2005/06/26/fires-in-the-southwestern-united-states-threaten-a-small-community-and-close-a-highway-in-utah-blazes-in-california-arizona-and-nevada-h.md)
 _Context: American Southwest, fire_

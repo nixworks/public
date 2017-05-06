@@ -7,7 +7,7 @@ _Context: Afghanistan, Central Intelligence Agency, German intelligence, Khalid 
 _Context: 16th World Economic Forum on Africa, Cape Town, South Africa_
 
 ### [ China, France, Germany, Russia, the United Kingdom and the United States agree on a package of incentives and sanctions for Iran. [http://www.cnn.com/2006/WORLD/meast/06/01/us.iran/index.html (CNN)].](/news/2006/06/1/china-france-germany-russia-the-united-kingdom-and-the-united-states-agree-on-a-package-of-incentives-and-sanctions-for-iran-http-w.md)
-_Context: China's, France, Germany, Iran, Russia, United Kingdom, United States_
+_Context: China's, France, Germany, Iran, Russia, U.S., United Kingdom_
 
 ### [ A report issued by the United States Army Corps of Engineers admits their responsibility for 2005 levee failures that flooded the majority of New Orleans, Louisiana in the aftermath of Hurricane Katrina. ](/news/2006/06/1/a-report-issued-by-the-united-states-army-corps-of-engineers-admits-their-responsibility-for-2005-levee-failures-that-flooded-the-majority.md)
 _Context: 2005 levee failures, Hurricane Katrina, New Orleans, Louisiana, United States Army Corps of Engineers_

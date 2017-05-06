@@ -7,7 +7,7 @@ _Context: American football, Pittsburgh Steelers, Seattle Seahawks, Super Bowl&n
 _Context: Iran, United Nations Security Council, nuclear scientist_
 
 ### [ The Danish embassy in Beirut, Lebanon, is set on fire by protesters because of the continued controversy over the cartoons depicting the Muhammad, and rumors of Qur'an burnings in Denmark. ](/news/2006/02/5/the-danish-embassy-in-beirut-lebanon-is-set-on-fire-by-protesters-because-of-the-continued-controversy-over-the-cartoons-depicting-the-mu.md)
-_Context: Beirut, Danish, Jyllands-Posten Muhammad cartoons controversy, Lebanon, Qur'an_
+_Context: Beirut, Denmark, Jyllands-Posten Muhammad cartoons controversy, Lebanon, Qur'an_
 
 ### [ Israel bombs a sport club in Gaza. When people came to help the wounded they fired another missile. When they manage to get a badly injured into a car a third missile is fired at the car killing three persons.  ](/news/2006/02/5/israel-bombs-a-sport-club-in-gaza-when-people-came-to-help-the-wounded-they-fired-another-missile-when-they-manage-to-get-a-badly-injured.md)
 ## [Previous Day...](/news/2006/02/4/index.md)

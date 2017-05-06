@@ -10,7 +10,7 @@ _Context: Al-Aqsa Intifada, Gaza Strip, Israeli-Palestinian conflict, Palestinia
 _Context: Antarctica, B15A, iceberg_
 
 ### [ Conflict in Iraq:  5 Danish troops, including an army intelligence officer, have been charged with mistreating Iraqi prisoners in southern Iraq last year. ](/news/2005/01/21/conflict-in-iraq-p-5-danish-troops-including-an-army-intelligence-officer-have-been-charged-with-mistreating-iraqi-prisoners-in-southern.md)
-_Context: Conflict in Iraq, Danish, Iraq_
+_Context: Conflict in Iraq, Denmark, Iraq_
 
 ### [ In Lucerne, Switzerland, a trial opens against a nurse accused of killing 24 patients. ](/news/2005/01/21/in-lucerne-switzerland-a-trial-opens-against-a-nurse-accused-of-killing-24-patients.md)
 _Context: Lucerne, Swiss_

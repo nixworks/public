@@ -4,7 +4,7 @@
 City centre in Homs in lockdown after twin suicide attacks leave scores dead.
 
 ### [According to officials, at least 11 people, mostly police officers, are killed outside a mosque in Jowzjan Province in an ambush by militants. The Taliban claimed responsibility for the attack. ](/news/2017/02/25/according-to-officials-at-least-11-people-mostly-police-officers-are-killed-outside-a-mosque-in-jowzjan-province-in-an-ambush-by-militant.md)
-_Context: Afghan security forces, Jowzjan Province, Taliban, War in Afghanistan (2015-present)_
+_Context: Afghan border police, Jowzjan Province, Taliban, War in Afghanistan (2015-present)_
 
 ### [Shifa Gardi, a prominent female reporter for Rudaw Media Network, is killed by a roadside bomb while reporting on the battle for Mosul. ](/news/2017/02/25/shifa-gardi-a-prominent-female-reporter-for-rudaw-media-network-is-killed-by-a-roadside-bomb-while-reporting-on-the-battle-for-mosul.md)
 Shifa Gardi, of the Iraqi Kurdish channel Rudaw, is killed by a roadside bomb as she covers clashes.

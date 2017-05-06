@@ -31,7 +31,7 @@ Bangladeshi Nobel laureate Muhammad Yunus seeks legal advice after the central b
 _Context: BSkyB, Competition Commission, News Corporation, Rupert Murdoch, Sky News_
 
 ### [MetLife, the largest life insurance company in the United States, claims that shares held by the American International Group (AIG) have been sold for $6.35 billion to help pay back the United States government for the bailout. ](/news/2011/03/2/metlife-the-largest-life-insurance-company-in-the-united-states-claims-that-shares-held-by-the-american-international-group-aig-have-bee.md)
-_Context: AIG, MetLife, United States, life insurance_
+_Context: AIG, MetLife, U.S., life insurance_
 
 ### [Apple Inc unveils the latest model of its tablet computer, the iPad 2. ](/news/2011/03/2/apple-inc-unveils-the-latest-model-of-its-tablet-computer-the-ipad-2.md)
 _Context: Apple Inc., iPad 2, tablets_
@@ -76,19 +76,19 @@ _Context: Cyprus, Nicosia, Turkish government, Turks_
 Senate Republicans stepped up their efforts Wednesday to compel the 14 Senate Democrats who fled Wisconsin two weeks ago to come home.
 
 ### [The President of the United States Barack Obama signs a bill preventing a shutdown of the United States government for another two weeks. ](/news/2011/03/2/the-president-of-the-united-states-barack-obama-signs-a-bill-preventing-a-shutdown-of-the-united-states-government-for-another-two-weeks.md)
-_Context: Barack Obama, United States government, president_
+_Context: Obama, President, United States government_
 
 ### [The South Dakota Senate passes a bill requiring additional steps to provide informed consent before a woman can have an abortion. ](/news/2011/03/2/the-south-dakota-senate-passes-a-bill-requiring-additional-steps-to-provide-informed-consent-before-a-woman-can-have-an-abortion.md)
 After a long and emotional debate, the South Dakota Senate on Wednesday approved a bill requiring additional steps to provide informed consent before a woman can have an abortion.
 
 ### [Hawaii Democratic Party Senator Daniel Akaka announces that he will not be standing for reelection in the United States Senate election in Hawaii. ](/news/2011/03/2/hawaii-democratic-party-senator-daniel-akaka-announces-that-he-will-not-be-standing-for-reelection-in-the-united-states-senate-election-in-h.md)
-_Context: Daniel Akaka, Democrats, Hawaii, Senator, United States Senate election in Hawaii_
+_Context: D, Daniel Akaka, Hawaii, Senator, United States Senate election in Hawaii_
 
 ### [Elections in the Netherlands: Dutch provincial elections of 2011. The People's Party for Freedom and Democracy (VVD) obtain the highest number of votes cast, The Labour Party (PvdA) obtain the second highest number of votes. ](/news/2011/03/2/elections-in-the-netherlands-dutch-provincial-elections-of-2011-the-people-s-party-for-freedom-and-democracy-vvd-obtain-the-highest-numb.md)
 _Context: Dutch provincial elections of 2011, Elections in the Netherlands, Labour Party, People's Party for Freedom and Democracy_
 
 ### [The Eastern Cougar is declared extinct in the United States. ](/news/2011/03/2/the-eastern-cougar-is-declared-extinct-in-the-united-states.md)
-_Context: Eastern Cougar, United States_
+_Context: Eastern Cougar, U.S._
 
 ### [Soccer player Luis Moreno, a defender for Deportivo Pereira in the Colombian League is suspended for two matches and given a $560 fine for kicking an owl causing its death. ](/news/2011/03/2/soccer-player-luis-moreno-a-defender-for-deportivo-pereira-in-the-colombian-league-is-suspended-for-two-matches-and-given-a-560-fine-for-k.md)
 The soccer player who kicked an injured owl off the field during a match has been suspended for two matches and fined $560 by Colombian soccer officials.

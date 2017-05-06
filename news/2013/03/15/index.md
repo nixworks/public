@@ -7,7 +7,7 @@ _Context: Lil Wayne, seizure_
 Another two fatalities have increased the death toll in a bus accident on the Hex River Pass near De Doorns to 24, the Western Cape health department said.
 
 ### [Three people die after a twin-engine plane crashes into a parking lot in Fort Lauderdale, Florida, United States. ](/news/2013/03/15/three-people-die-after-a-twin-engine-plane-crashes-into-a-parking-lot-in-fort-lauderdale-florida-united-states.md)
-_Context: Florida, Fort Lauderdale, Florida_
+_Context: FL, Fort Lauderdale, Florida_
 
 ### [At least 16 people are killed in a fireworks accident in Jesus Tepactepec, Tlaxcala, Mexico. ](/news/2013/03/15/at-least-16-people-are-killed-in-a-fireworks-accident-in-jesus-tepactepec-tlaxcala-mexico.md)
 _Context: Tlaxcala, fireworks_

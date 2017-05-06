@@ -16,7 +16,7 @@ _Context: Bank of Greece, Proton Bank_
 Two black farm workers accused of bludgeoning to death South African white separatist leader Eugene Terreblanche stand trial on Monday, in a case that recalled the darkness of the apartheid past.
 
 ### [Governor Rick Scott of Florida signs the death warrant for Oba Chandler, convicted of the murder of three women in 1989, with the execution set for November 15. ](/news/2011/10/10/governor-rick-scott-of-florida-signs-the-death-warrant-for-oba-chandler-convicted-of-the-murder-of-three-women-in-1989-with-the-execution.md)
-_Context: Florida, Governor of Florida, Oba Chandler, Rick Scott_
+_Context: FL, Governor of Florida, Oba Chandler, Rick Scott_
 
 ### [The trial of Vincent Tabak, who is accused of murdering British landscape architect Joanna Yeates, begins at Bristol Crown Court. ](/news/2011/10/10/the-trial-of-vincent-tabak-who-is-accused-of-murdering-british-landscape-architect-joanna-yeates-begins-at-bristol-crown-court.md)
 The man accused of murdering landscape architect Jo Yeates drove to Asda with her body in his car, a court hears.

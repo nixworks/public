@@ -34,7 +34,7 @@ Lack of deal to increase access casts shadow over upcoming Moscow meeting betwee
 BLANTYRE, Jun 8 - Malawi said Friday it will not host the African Union summit in July because the bloc insisted on inviting Sudan&#039;s President Omar al-Bash - Kenya breaking news | Kenya news today | Capitalfm.co.ke
 
 ### [A military judge at Fort Meade in Maryland rejects dropping charges against imprisoned U.S. serviceman Bradley Manning and says his trial would likely be delayed by two months until November. ](/news/2012/06/8/a-military-judge-at-fort-meade-in-maryland-rejects-dropping-charges-against-imprisoned-u-s-serviceman-bradley-manning-and-says-his-trial-wo.md)
-_Context: Bradley Manning, Fort Meade, Maryland_
+_Context: Bradley Manning, Fort Meade, MD_
 
 ### [Chuck Blazer, the FIFA official who blew the whistle on corruption within the governing body last year, faces accusations by Jack Warner of secretly funding the rent on a luxury New York apartment using funds from the football federation he ran. ](/news/2012/06/8/chuck-blazer-the-fifa-official-who-blew-the-whistle-on-corruption-within-the-governing-body-last-year-faces-accusations-by-jack-warner-of.md)
 Chuck Blazer, the official who blew the whistle on corruption within Fifa, is accused of secretly funding rent on a New York apartment.

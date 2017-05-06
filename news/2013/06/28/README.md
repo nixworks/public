@@ -1,7 +1,7 @@
 ## [2013-06-28](/news/2013/06/28/index.md)
 
 ### [One trainee member of the Philippine National Police is killed and six injured in an ambush in Mountain Province. ](/news/2013/06/28/one-trainee-member-of-the-philippine-national-police-is-killed-and-six-injured-in-an-ambush-in-mountain-province.md)
-_Context: Mountain Province, National Police_
+_Context: Mountain Province, Philippine National Police_
 
 ### [One person is killed and four injured in an attack on a provincial party office in the Egyptian city of Zagazig. ](/news/2013/06/28/one-person-is-killed-and-four-injured-in-an-attack-on-a-provincial-party-office-in-the-egyptian-city-of-zagazig.md)
 _Context: Egypt, Zagazig_

@@ -49,7 +49,7 @@ The largest rocket ever launched from the U.S. West Coast blasted off on Thursda
 _Context: Bolivia, China's, Hong Kong, U.S. dollar, cocaine_
 
 ### [New trials are reported to be starting soon at Guantanamo Bay after the United States Congress blocks President of the United States Barack Obama's attempts to close the prison; The Pentagon refuses to comment. ](/news/2011/01/20/new-trials-are-reported-to-be-starting-soon-at-guanta-namo-bay-after-the-united-states-congress-blocks-president-of-the-united-states-barack.md)
-_Context: Barack Obama, Guantanamo Bay, The Pentagon, U.S. Congressional, president_
+_Context: Guantanamo Bay, Obama, President, The Pentagon, U.S. Congressional_
 
 ### [Haiti's former president Jean-Claude "Baby Doc" Duvalier, now facing charges of corruption and theft of funds, hopes to becomes president again, according to his lawyer. ](/news/2011/01/20/haiti-s-former-president-jean-claude-baby-doc-duvalier-now-facing-charges-of-corruption-and-theft-of-funds-hopes-to-becomes-president-ag.md)
 Former president Jean-Claude Duvalier seeks a return to power, despite facing corruption and theft charges.
@@ -73,7 +73,7 @@ Resignations an attempt to regain credibility in the cabinet but it is unclear i
 Noel Dempsey, Dermot Ahern and Tony Killeen have joined Mary Harney in resigning from Cabinet.
 
 ### [Britain's Shadow Chancellor Alan Johnson resigns from the Labour Party's frontbench team for "personal" reasons. ](/news/2011/01/20/britain-s-shadow-chancellor-alan-johnson-resigns-from-the-labour-party-s-frontbench-team-for-personal-reasons.md)
-_Context: Alan Johnson, Chancellor of the Exchequer, Labour, Shadow_
+_Context: Alan Johnson, Chancellor of the Exchequer, Labour Party, Shadow_
 
 ### [2010 tied for the warmest year ever recorded, and the last decade was the warmest ever recorded, since records began in the 1800s.](/news/2011/01/20/2010-tied-for-the-warmest-year-ever-recorded-and-the-last-decade-was-the-warmest-ever-recorded-since-records-began-in-the-1800s.md)
 Last year tied for the hottest year on record, confirming a long-term warming trend which will continue unless greenhouse gas emissions are cut, the World Meteorological Organization (WMO) said on Thursday.

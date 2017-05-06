@@ -19,7 +19,7 @@ _Context: 2008 Atlantic hurricane season, Belize City, Tropical Storm Arthur_
 _Context: Colombia, Medellin, landslide_
 
 ### [ United States Democratic Party's Rules and Bylaws Committee meets to decide on the Florida and Michigan democratic primaries held in violation of scheduling rules. The Committee decides that both states delegate counts would be halved. ](/news/2008/05/31/united-states-democratic-party-s-rules-and-bylaws-committee-meets-to-decide-on-the-florida-and-michigan-democratic-primaries-held-in-violat.md)
-_Context: Democrats, Florida, Michigan, primary election_
+_Context: D, FL, Michigan, primary election_
 
 ### [ French foreign minister Bernard Kouchner makes surprise visit to Iraq, to meet with Iraq's vice president, Adel Abdul-Mahdi. ](/news/2008/05/31/french-foreign-minister-bernard-kouchner-makes-surprise-visit-to-iraq-to-meet-with-iraq-s-vice-president-adel-abdul-mahdi.md)
 _Context: Adel Abdul-Mahdi, Bernard Kouchner, Iraq_

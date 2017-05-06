@@ -10,7 +10,7 @@ Lawmakers Vote For English As Both National And Unifying Language
 News and opinion from The Times &amp; The Sunday Times
 
 ### [ The United Nations Committee Against Torture tells the United States it should close any secret prisons abroad and the Guantnamo Bay facility in Cuba, saying they violate international law. It also calls for the US not to use interrogation techniques that amount to torture and to stop the practice of "extraordinary renditions". ](/news/2006/05/19/the-united-nations-committee-against-torture-tells-the-united-states-it-should-close-any-secret-prisons-abroad-and-the-guantanamo-bay-facil.md)
-_Context: Committee Against Torture, Cuba, Guantnamo Bay detainment camp, United Nations, United States, extraordinary rendition, international law, torture_
+_Context: Committee Against Torture, Cuba, Guantnamo Bay detainment camp, U.S., United Nations, extraordinary rendition, international law, torture_
 
 ### [ The case of Khaled el-Masri, who says he was abducted and tortured by the CIA because he was mistaken for another person, is dismissed by a district court in Alexandria, Virginia, as it would be a "grave risk" of damage to U.S. national security by exposing government secrets. The court rules that if the claims are true he "deserves a remedy" but this cannot be found in the court. ](/news/2006/05/19/the-case-of-khaled-el-masri-who-says-he-was-abducted-and-tortured-by-the-cia-because-he-was-mistaken-for-another-person-is-dismissed-by-a.md)
 _Context: Alexandria, CIA, Khaled el-Masri, Virginia, extraordinary rendition, national security, torture_

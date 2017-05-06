@@ -70,7 +70,7 @@ _Context: Pacific Islands Forum Leaders Summit, Port Vila, Vanuatu_
 _Context: Asif Ali Zardari, David Cameron, President, United Kingdom_
 
 ### [Zimbabwe requests apologies from American, German and European Union envoys who walked out of the burial ceremony for President Robert Mugabe's sister; they refuse to apologise. ](/news/2010/08/3/zimbabwe-requests-apologies-from-american-german-and-european-union-envoys-who-walked-out-of-the-burial-ceremony-for-president-robert-mugab.md)
-_Context: European Union, Germany, President of Zimbabwe, Robert Mugabe, United States, Zimbabwe, funeral_
+_Context: European Union, Germany, President of Zimbabwe, Robert Mugabe, U.S., Zimbabwe, funeral_
 
 ### [Iran rejects Brazil's offer to grant political asylum to Sakineh Mohammadi Ashtiani, who has been sentenced to death in Iran for adultery. ](/news/2010/08/3/iran-rejects-brazil-s-offer-to-grant-political-asylum-to-sakineh-mohammadi-ashtiani-who-has-been-sentenced-to-death-in-iran-for-adultery.md)
 _Context: Brazil, Iran, Sakineh Mohammadi Ashtiani, asylum_
@@ -109,7 +109,7 @@ _Context: Colombo, Sri Lanka, dengue fever_
 Former Finnish President Martti Ahtisaari and other global leaders criticise &quot;continuing abuses&quot; in post-war Sri Lanka.
 
 ### [Denmark has a political taxes scandal involving a "big and sloppy error" by Social Democrats leader Helle Thorning-Schmidt. ](/news/2010/08/3/denmark-has-a-political-taxes-scandal-involving-a-big-and-sloppy-error-by-social-democrats-leader-helle-thorning-schmidt.md)
-_Context: Danish, Helle Thorning-Schmidt, Social Democrat_
+_Context: Denmark, Helle Thorning-Schmidt, Social Democrat_
 
 ### [Irish senator Ivor Callely is suspended from Fianna Fail over new expense allegations. ](/news/2010/08/3/irish-senator-ivor-callely-is-suspended-from-fianna-fa-il-over-new-expense-allegations.md)
 Senator Ivor Callely has been suspended from the Fianna Fáil organisation over new expense allegations.

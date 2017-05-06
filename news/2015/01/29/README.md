@@ -7,7 +7,7 @@ An inquest into the Sydney siege hears that one hostage was killed by police fir
 _Context: Afghanistan, Taliban, Taliban insurgency_
 
 ### [Philippines President Benigno Aquino III distances himself from a botched raid against a terrorist, Zulkifli Abdhir, that killed around 50 people, including police officers and Abdhir, while pledging support for a peace process with the Moro people. Supreme Court Chief Justice Maria Lourdes Sereno urges the public to continue to support the peace treaty. ](/news/2015/01/29/philippines-president-benigno-aquino-iii-distances-himself-from-a-botched-raid-against-a-terrorist-zulkifli-abdhir-that-killed-around-50-p.md)
-_Context: Benigno Aquino III, Chief Justice, Filipino Muslims, January 25 botched police operation, Maria Lourdes Sereno, Moro insurgency in the Philippines, National Police, Philippine, Philippine President, Supreme Court, Zulkifli Abdhir, peace deal, peace treaty_
+_Context: Benigno Aquino III, Chief Justice, Filipino Muslims, January 25 botched police operation, Maria Lourdes Sereno, Moro insurgency in the Philippines, Philippine, Philippine National Police, Philippine President, Supreme Court, Zulkifli Abdhir, peace deal, peace treaty_
 
 ### [Several attacks around Baghdad including bombings and shootings kill at least sixteen people. ](/news/2015/01/29/several-attacks-around-baghdad-including-bombings-and-shootings-kill-at-least-sixteen-people.md)
 _Context: Baghdad, Iraqi insurgency (2011-present)_

@@ -34,7 +34,7 @@ _Context: BMW, fuel pump_
 George Osborne says better-than-expected economic figures show the recovery is &quot;steady&quot;, but Labour warns that spending cuts will damage performance.
 
 ### [All 3 dead in US small plane crash in southwest Washington state, about 10 miles (16 km) northeast of Morton. ](/news/2010/10/26/all-3-dead-in-us-small-plane-crash-in-southwest-washington-state-about-10-miles-16-km-northeast-of-morton.md)
-_Context: Morton, United States, Washington_
+_Context: Morton, U.S., Washington_
 
 ### [Sumatra earthquake, tsunami and Merapi volcanic eruption:After receiving orders from President Susilo Bambang Yudhoyono, who is now on his visit program to China and Vietnam, Indonesian Public Welfare Minister Agung Laksono declares an emergency response. ](/news/2010/10/26/sumatra-earthquake-tsunami-and-merapi-volcanic-eruption-pafter-receiving-orders-from-president-susilo-bambang-yudhoyono-who-is-now-on-his.md)
 A tsunami that pounded remote islands in western Indonesia following an earthquake off the coast of Sumatra killed more than 100 people, officials said on Tuesday, and hundreds more were missing.

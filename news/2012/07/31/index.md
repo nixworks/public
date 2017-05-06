@@ -25,7 +25,7 @@ _Context: Deutsche Bank_
 Hundreds of millions are left without electricity in northern and eastern India, after a massive power cut that also cripples much of the transport system.
 
 ### [United States President Barack Obama announces additional sanctions against Iran for its nuclear program. ](/news/2012/07/31/united-states-president-barack-obama-announces-additional-sanctions-against-iran-for-its-nuclear-program.md)
-_Context: Barack Obama, Iran, additional sanctions, nuclear scientist_
+_Context: Iran, Obama, additional sanctions, nuclear scientist_
 
 ### [Russian anti-corruption campaigner Alexei Navalny is charged with fraudulent conversion. ](/news/2012/07/31/russian-anti-corruption-campaigner-alexei-navalny-is-charged-with-fraudulent-conversion.md)
 Russian anti-corruption campaigner Alexei Navalny is charged with embezzlement in a case he describes as &quot;strange and absurd&quot;.
@@ -37,7 +37,7 @@ _Context: Mercosur, Venezuela_
 The tea party-aligned conservative was once regarded as a long-shot candidate.
 
 ### [2012 Summer Olympics:In swimming, Michael Phelps of the United States wins a record 19th Olympic medal, with gold in the 4x200 metres freestyle relay. [http://www.bbc.co.uk/sport/0/olympics/19040217 (BBC)]In artistic gymnastics, the United States of America's women's team known as the Fierce Five (comprised of members Aly Raisman, Gabby Douglas, Jordyn Wieber, McKayla Maroney, and Kyla Ross) won the Olympic gold medal in the artistic team final, the second ever women's team gold medal for the United States, and the first to be won at an Olympics held outside the USA.](/news/2012/07/31/2012-summer-olympics-pin-swimming-michael-phelps-of-the-united-states-wins-a-record-19th-olympic-medal-with-gold-in-the-4x200-metres-frees.md)
-_Context: 2012 Summer Olympics, Aly Raisman, Fierce Five, Gabrielle Douglas, Jordyn Wieber, Kyla Ross, McKayla Maroney, Michael Phelps, United States, record 19th Olympic medal_
+_Context: 2012 Summer Olympics, Aly Raisman, Fierce Five, Gabrielle Douglas, Jordyn Wieber, Kyla Ross, McKayla Maroney, Michael Phelps, U.S., record 19th Olympic medal_
 
 ## [Previous Day...](/news/2012/07/30/index.md)
 

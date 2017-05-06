@@ -10,7 +10,7 @@ _Context: Russia, Russian Navy, Russian Northern Fleet, Vladimir Masorin, Vladim
 _Context: Afghanistan, Ramadan, Taliban_
 
 ### [ Bombardier Aerospace orders the grounding of at least 40 percent of its Q-400 turboprop following recent incidents in Scandinavian Airlines aircraft in Denmark and Lithuania. ](/news/2007/09/12/bombardier-aerospace-orders-the-grounding-of-at-least-40-percent-of-its-q-400-turboprop-following-recent-incidents-in-scandinavian-airlines.md)
-_Context: Bombardier Aerospace, Danish, Dash 8 Q400, Lithuania, Scandinavian Airlines, turboprop_
+_Context: Bombardier Aerospace, Dash 8 Q400, Denmark, Lithuania, Scandinavian Airlines, turboprop_
 
 ### [ Somali Islamists and opposition leaders meeting in Eritrea have joined forces in a new alliance to overthrow Somalia's transitional government. ](/news/2007/09/12/somali-islamists-and-opposition-leaders-meeting-in-eritrea-have-joined-forces-in-a-new-alliance-to-overthrow-somalia-s-transitional-governm.md)
 _Context: Eritrea, Somali, new alliance_

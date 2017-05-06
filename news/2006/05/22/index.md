@@ -7,7 +7,7 @@ _Context: WWF, brown bear_
 _Context: Prime Minster, Tony Blair, U.S. presence in Iraq, United Kingdom_
 
 ### [ U.S. congressman William J. Jefferson (D-La) refuses to resign, as he denies allegations of bribery after an FBI weekend raid of his office. ](/news/2006/05/22/u-s-congressman-william-j-jefferson-d-la-refuses-to-resign-as-he-denies-allegations-of-bribery-after-an-fbi-weekend-raid-of-his-office.md)
-_Context: Democrats, FBI, Louisiana, U.S. Congressional, William J. Jefferson, bribes_
+_Context: D, FBI, Louisiana, U.S. Congressional, William J. Jefferson, bribes_
 
 ## [Previous Day...](/news/2006/05/21/index.md)
 

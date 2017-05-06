@@ -46,7 +46,7 @@ _Context: South Sudan, Sudan_
 Three Tibetans who have been quietly starving themselves in the shadow of the United Nations headquarters in New York in an effort to get the UN to pressure China to end its repressive rule over Tibet ended their hunger strike March 22, a month after it began. David Common reports from the scene.
 
 ### [The parents of an unarmed black teen boy killed by gunshot wound in a suburb of Orlando in the U.S. state of Florida address a mass rally in New York to call for justice. ](/news/2012/03/22/the-parents-of-an-unarmed-black-teen-boy-killed-by-gunshot-wound-in-a-suburb-of-orlando-in-the-u-s-state-of-florida-address-a-mass-rally-in.md)
-_Context: Florida, New York, Trayvon Martin, a suburb of Orlando_
+_Context: FL, New York, Trayvon Martin, a suburb of Orlando_
 
 ### [A court hears that two British men shot dead in the U.S. state of Florida last April were found with their shirts off and trousers round their thighs. ](/news/2012/03/22/a-court-hears-that-two-british-men-shot-dead-in-the-u-s-state-of-florida-last-april-were-found-with-their-shirts-off-and-trousers-round-the.md)
 A Florida court hears two British men shot dead last year were found with their shirts off and trousers round their thighs.

@@ -10,7 +10,7 @@ Six women and two men have been killed in an attack on a bar in the Mexican reso
 Murderous terror attack on eve of peace talks: Four Israelis killed in West Bank shooting attack Tuesday evening; pregnant woman apparently among victims, officials say. Security forces nationwide ordered to go on high alert 
 
 ### [A roadside bomb kills 4 United States troops in eastern Afghanistan. ](/news/2010/08/31/a-roadside-bomb-kills-4-united-states-troops-in-eastern-afghanistan.md)
-_Context: Afghanistan, U.S. military personnel, United States, bomb_
+_Context: Afghanistan, U.S., U.S. military personnel, bomb_
 
 ### [An explosion occurs outside the head office of a government-run television station in Bangkok, Thailand. ](/news/2010/08/31/an-explosion-occurs-outside-the-head-office-of-a-government-run-television-station-in-bangkok-thailand.md)
 _Context: Bangkok, Thailand_
@@ -61,7 +61,7 @@ In an address from the Oval Office, President Obama said that the nation had met
 South African government negotiators have improved their pay offer to civil servants in a bid to end a crippling nation-wide strike which has lasted for more than two weeks.
 
 ### [US Senator Lisa Murkowski concedes defeat in the Alaskan Republican primary election to challenger to Joe Miller. ](/news/2010/08/31/us-senator-lisa-murkowski-concedes-defeat-in-the-alaskan-republican-primary-election-to-challenger-to-joe-miller.md)
-_Context: Alaska, Joe Miller, Lisa Murkowski, Republican, Senator, primary election_
+_Context: Alaska, Joe Miller, Lisa Murkowski, R, Senator, primary election_
 
 ### [As part of a lengthy interview with the Mexican newspaper ''La Jornada'', Fidel Castro admits responsibility for the persecution of homosexuals in Cuba after the revolution of 1959.](/news/2010/08/31/as-part-of-a-lengthy-interview-with-the-mexican-newspaper-la-jornada-fidel-castro-admits-responsibility-for-the-persecution-of-homosexu.md)
 Former Cuban President Fidel Castro says he is to blame for the persecution of homosexuals after the Cuban revolution of 1959.

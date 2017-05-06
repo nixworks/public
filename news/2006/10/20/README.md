@@ -16,7 +16,7 @@ _Context: American football, Wisconsin, dirty bomb, radiological, terrorist_
 Kazakhstan is building a fence along 28 miles of its long border with Uzbekistan. Officials said the eight-foot-high barbed-wire fence with searchlights would be built along heavily populated towns and cities on the southern ridge to funnel drug smugglers into the countryside, where they can be more easily captured. The border area is also a flash point in a larger regional struggle against Islamic militants. The fence means “we will be in a position to use our weapons,” a border official told Radio Free Europe.
 
 ### [ Clare Short, the former British cabinet minister, has left the Labour Party to sit as an Independent Labour MP. ](/news/2006/10/20/clare-short-the-former-british-cabinet-minister-has-left-the-labour-party-to-sit-as-an-independent-labour-mp.md)
-_Context: Clare Short, Independent, Labour_
+_Context: Clare Short, Independent, Labour Party_
 
 ### [ Solomon Islands police and members of the Regional Assistance Mission to the Solomon Islands (RAMSI) raid the office of Prime Minister Manasseh Sogavare in Honiara. ](/news/2006/10/20/solomon-islands-police-and-members-of-the-regional-assistance-mission-to-the-solomon-islands-ramsi-raid-the-office-of-prime-minister-mana.md)
 _Context: Honiara, Manasseh Sogavare, Prime Minister, Regional Assistance Mission to the Solomon Islands, Solomon Islands_

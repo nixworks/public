@@ -46,7 +46,7 @@ _Context: Alassane Ouattara, Ivorian presidential election, 2015, President of t
 Junior transport minister Wilma Mansveld has resigned following the publication of a damning report about the Dutch high speed train service Fyra.
 
 ### [Members of the Republican party in the United States House of Representatives nominate Paul Ryan of Wisconsin to replace John Boehner of Ohio as Speaker of the House.  There will be a formal vote Thursday on the House floor. ](/news/2015/10/28/members-of-the-republican-party-in-the-united-states-house-of-representatives-nominate-paul-ryan-of-wisconsin-to-replace-john-boehner-of-ohi.md)
-_Context: John Boehner, Paul Ryan, Republican, Speaker of the United States House of Representatives, United States House of Representatives, Wisconsin_
+_Context: John Boehner, Paul Ryan, R, Speaker of the United States House of Representatives, United States House of Representatives, Wisconsin_
 
 ### [Tanzania's opposition Chadema party presidential candidate Edward Lowassa calls for a recount of Sunday's election for the presidency before official results are announced tomorrow.  Meanwhile, the election commission chief of semi-autonomous Zanzibar nullifies their results, which opposition presidential candidate Seif Sharif Hamad of the Civic United Front announced he won on Monday. The United States said it's "gravely alarmed" and called for reversal of the annulment. ](/news/2015/10/28/tanzania-s-opposition-chadema-party-presidential-candidate-edward-lowassa-calls-for-a-recount-of-sunday-s-election-for-the-presidency-before.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

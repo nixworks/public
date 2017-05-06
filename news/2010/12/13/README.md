@@ -34,7 +34,7 @@ _Context: Al Jazeera, Kuwait_
 The first person to face a second murder trial after the discovery of new forensic evidence is convicted of killing a woman in 1995.
 
 ### [United States District Court for the Eastern District of Virginia Judge Henry E. Hudson rules against Barack Obama's health care reform requirement to purchase health insurance. ](/news/2010/12/13/united-states-district-court-for-the-eastern-district-of-virginia-judge-henry-e-hudson-rules-against-barack-obama-s-health-care-reform-requ.md)
-_Context: Barack Obama, Henry E. Hudson, US Eastern District Court of Virginia, health care reform, health insurance_
+_Context: Henry E. Hudson, Obama, US Eastern District Court of Virginia, health care reform, health insurance_
 
 ### [An American  Catholic nun pleads not guilty to charges of embezzling $850,000 from  Iona College. ](/news/2010/12/13/an-american-catholic-nun-pleads-not-guilty-to-charges-of-embezzling-850-000-from-iona-college.md)
 _Context:  Catholic nun,  Iona College, embezzled_
@@ -65,7 +65,7 @@ Hashim Thaci, the incumbent prime minister, has claimed victory in Kosovo&#039;s
 Tehran, Dec 13 (DPA) In a surprise move, Iranian President Mahmoud Ahmadinejad has fired Foreign Minister Manouchehr Mottaki, state media reported...
 
 ### [U.S. senator Bernie Sanders gives an 8.5 hour  senate speech denouncing the extension of tax cuts for the wealthiest Americans, citing the very large  inequality in income and  wealth and its growth, and that America is close to being a Banana republic. ](/news/2010/12/13/u-s-senator-bernie-sanders-gives-an-8-5-hour-senate-speech-denouncing-the-extension-of-tax-cuts-for-the-wealthiest-americans-citing-the-v.md)
-_Context:  inequality in income,  wealth, Banana republic, Bernie Sanders, United States Senate_
+_Context:  inequality in income,  wealth, Banana republic, Bernie Sanders, senators_
 
 ### [A new species of fork-marked lemur has been identified in northeast Madagascar. ](/news/2010/12/13/a-new-species-of-fork-marked-lemur-has-been-identified-in-northeast-madagascar.md)
 _Context: Madagascar, fork-marked lemur_

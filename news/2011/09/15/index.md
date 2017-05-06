@@ -40,7 +40,7 @@ UK Prime Minister David Cameron and French President Nicolas Sarkozy are in Liby
 _Context: UNICEF, child mortality_
 
 ### [The United States designates the Indian Mujahideen as a terrorist organisation. ](/news/2011/09/15/the-united-states-designates-the-indian-mujahideen-as-a-terrorist-organisation.md)
-_Context: Indian Mujahideen, United States, terrorism_
+_Context: Indian Mujahideen, U.S., terrorism_
 
 ### [The People's Republic of China sentences four people to death in the Xinjiang region following threats to crack down on terrorism in the far-western region. ](/news/2011/09/15/the-people-s-republic-of-china-sentences-four-people-to-death-in-the-xinjiang-region-following-threats-to-crack-down-on-terrorism-in-the-far.md)
 _Context: China's, Xinjiang, terrorism_
@@ -55,7 +55,7 @@ London police arrest trader Kweku Adoboli after Swiss bank UBS says unauthorised
 _Context: Supreme Court of the United States, Texas_
 
 ### [Danish election:Voters in Denmark go to the polls for parliamentary elections with a left-wing Coalition led by the Social Democrats winning enough seats to form Government. ](/news/2011/09/15/danish-election-pvoters-in-denmark-go-to-the-polls-for-parliamentary-elections-with-a-left-wing-coalition-led-by-the-social-democrats-winnin.md)
-_Context: Danish, Social Democrat, parliamentary elections_
+_Context: Denmark, Social Democrat, parliamentary elections_
 
 ### [Australians will now be able to choose "indeterminate" as a gender on their passports together with male and female. ](/news/2011/09/15/australians-will-now-be-able-to-choose-indeterminate-as-a-gender-on-their-passports-together-with-male-and-female.md)
 _Context: Australian, gender, passport_

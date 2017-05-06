@@ -55,7 +55,7 @@ Colombia legalises same-sex marriage, becoming the fourth country in Latin Ameri
 _Context: Kyrgyzstan, Prime Minister, Sooronbay Jeenbekov_
 
 ### [Former Mayor of London Ken Livingstone is suspended by the Labour Party for claiming that Adolf Hitler was a Zionist. ](/news/2016/04/28/former-mayor-of-london-ken-livingstone-is-suspended-by-the-labour-party-for-claiming-that-adolf-hitler-was-a-zionist.md)
-_Context: Adolf Hitler, Ken Livingstone, Labour, London Mayor, Zionist_
+_Context: Adolf Hitler, Ken Livingstone, Labour Party, London Mayor, Zionist_
 
 ### [The Parliament of Finland holds a debate on whether or not to abandon the Euro as its currency following a petition that garnered enough signatures to force the issue into parliament. This comes as Finland as dealing with a weakening economy but the petition is unlikely to lead to the country leaving the Eurozone. ](/news/2016/04/28/the-parliament-of-finland-holds-a-debate-on-whether-or-not-to-abandon-the-euro-as-its-currency-following-a-petition-that-garnered-enough-sig.md)
 Finnish lawmakers on Thursday held a rare debate on whether the Nordic country should quit the euro after 53,000 people signed a petition to force the issue into parliament.

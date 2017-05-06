@@ -11,7 +11,7 @@ A tornado hits the venue for the Central American and Caribbean games in Puerto 
 
 ### Related:
 
-1. [Puerto Rico files for the largest 'local government' bankruptcy in the United States. ](/news/2017/05/3/puerto-rico-files-for-the-largest-local-government-bankruptcy-in-the-united-states.md) _Context: Puerto Rico_
+1. [Puerto Rico files for the largest "local government" bankruptcy in the United States. ](/news/2017/05/3/puerto-rico-files-for-the-largest-local-government-bankruptcy-in-the-united-states.md) _Context: Puerto Rico_
 2. [Stephanie Del Valle of Puerto Rico is named as Miss World 2016. ](/news/2016/12/18/stephanie-del-valle-of-puerto-rico-is-named-as-miss-world-2016.md) _Context: Puerto Rico_
 3. [The Financial Industry Regulatory Authority announces it has fined Bank of America Merrill Lynch $7 million for failure to supervise the use of leverage in its brokerage accounts, especially in connection with Puerto Rico municipal bonds. ](/news/2016/11/30/the-financial-industry-regulatory-authority-announces-it-has-fined-bank-of-america-merrill-lynch-7-million-for-failure-to-supervise-the-use.md) _Context: Puerto Rico_
 4. [The United States declares a public health emergency in Puerto Rico over an outbreak of the Zika virus which has infected nearly 11,000 people. ](/news/2016/08/12/the-united-states-declares-a-public-health-emergency-in-puerto-rico-over-an-outbreak-of-the-zika-virus-which-has-infected-nearly-11-000-peop.md) _Context: Puerto Rico_

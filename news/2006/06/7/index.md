@@ -4,7 +4,7 @@
 _Context: Norway, Troms, comet impacts, dropped, meteorite_
 
 ### [ A constitutional amendment to ban same-sex marriage is killed when it fails to gain the three-fifths majority required for cloture in the United States Senate. 49 Senators voted for the motion, and 48 voted against.  This also fell far short of the two-thirds majority that would have been required for passage. ](/news/2006/06/7/a-constitutional-amendment-to-ban-same-sex-marriage-is-killed-when-it-fails-to-gain-the-three-fifths-majority-required-for-cloture-in-the-u.md)
-_Context: Cloture, United States Senate, constitutional amendment, same-sex marriage_
+_Context: Cloture, constitutional amendment, same-sex marriage, senators_
 
 ### [ A Syrian military court issues an arrest warrant for former Vice President of Syria Abdual-Halim Khaddam on charges of inciting a foreign country to invade, and having contacts in Israel. Another military court sentences prominent pro-Democracy and pro-Kurd Syrian blogger Mohammad Ghanem to 6 months in prison after he is convicted of insulting the president, discrediting the Syrian government and fomenting sectarian unrest. ](/news/2006/06/7/a-syrian-military-court-issues-an-arrest-warrant-for-former-vice-president-of-syria-abdual-halim-khaddam-on-charges-of-inciting-a-foreign-c.md)
 _Context: Abdual-Halim Khaddam, Israel, Kurd, Mohammad Ghanem, Syria, Syrian Government, Vice President of Syria, blogger, democratic progress_

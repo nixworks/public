@@ -1,7 +1,7 @@
 ## [2014-12-19](/news/2014/12/19/index.md)
 
 ### [The Pakistan Armed Forces conduct operations in the Federally Administered Tribal Areas, killing seventy-seven militants. ](/news/2014/12/19/the-pakistan-armed-forces-conduct-operations-in-the-federally-administered-tribal-areas-killing-seventy-seven-militants.md)
-_Context: Federally Administered Tribal Areas, Pakistani counter-terrorism, War in North-West Pakistan_
+_Context: Federally Administered Tribal Areas, Pakistani military, War in North-West Pakistan_
 
 ### [Paramount Pictures orders theater chains, including those in Cleveland, Atlanta, and New Orleans, not to re-release the 2004 film ''Team America: World Police'', which depicts a fictional mission to kill Kim Jong-il. ](/news/2014/12/19/paramount-pictures-orders-theater-chains-including-those-in-cleveland-atlanta-and-new-orleans-not-to-re-release-the-2004-film-team-ame.md)
 Paramount tells theaters no &#8216;Team America: World Police&#8217;

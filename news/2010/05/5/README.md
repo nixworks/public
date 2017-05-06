@@ -34,7 +34,7 @@ _Context: Caucasus, Dagestan, Lexus, Makhachkala_
 EU Economic Affairs Commissioner Olli Rehn said on Wednesday that he would push to see tougher fiscal rules introduced for the bloc, to target overall debt levels, in line with...
 
 ### [Twenty-one-term U.S. Rep. Dave Obey, a Wisconsin Democrat and chairman of the House Appropriations Committee, announces he will not run for re-election in November. ](/news/2010/05/5/twenty-one-term-u-s-rep-dave-obey-a-wisconsin-democrat-and-chairman-of-the-house-appropriations-committee-announces-he-will-not-run-for.md)
-_Context: Dave Obey, Democrats, House Appropriations Committee, U.S. House of Representatives, Wisconsin_
+_Context: D, Dave Obey, House Appropriations Committee, U.S. House of Representatives, Wisconsin_
 
 ### [Democracy Now! producers file a lawsuit against multiple law enforcement agencies for allegedly unjustifiably encroaching on their First Amendment rights at the 2008 Republican National Convention. ](/news/2010/05/5/democracy-now-producers-file-a-lawsuit-against-multiple-law-enforcement-agencies-for-allegedly-unjustifiably-encroaching-on-their-first-ame.md)
 _Context: 2008 Republican National Convention, Democracy Now!, First Amendment rights_

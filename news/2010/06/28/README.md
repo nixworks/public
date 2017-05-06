@@ -7,7 +7,7 @@ Second day of march for kidnapped soldier comes to end in northern town of Kirya
 Five American men sentenced last week to serve 10 years in a Pakistani prison on terrorism charges appealed against their conviction Monday, their defense lawyer said. The five Americans, all students in their 20s, were sentenced Thursday for contacting militants online and plotting attacks by a court in Pakistan, fighting its own battle with Islamist radicals.
 
 ### [The European Union and United States sign a five-year agreement on sharing financial data in anti-terrorist investigations for accounts suspected of being used for terrorist financing, after agreeing on limits to protect customer privacy. ](/news/2010/06/28/the-european-union-and-united-states-sign-a-five-year-agreement-on-sharing-financial-data-in-anti-terrorist-investigations-for-accounts-susp.md)
-_Context: European Union, United States, counterterrorism, customer privacy, terrorist financing_
+_Context: European Union, U.S., counterterrorism, customer privacy, terrorist financing_
 
 ### [Gulf of Mexico oil disaster:Tropical Storm Alex is expected to become a hurricane, with heavy winds, rain and rough seas in the Gulf of Mexico, driving the oil deeper inland and bringing much of the cleanup to a standstill. ](/news/2010/06/28/gulf-of-mexico-oil-disaster-ptropical-storm-alex-is-expected-to-become-a-hurricane-with-heavy-winds-rain-and-rough-seas-in-the-gulf-of-mex.md)
 Tropical Storm Alex was close to hurricane strength in the Gulf of Mexico on Tuesday but remained on a track north of Mexican oil platforms and far southwest of U.S. fields, further easing crude market concerns over supply disruption.
@@ -22,7 +22,7 @@ A look at the life and career of US Senator Robert Byrd, who has died aged 92.
 Ahmadinejad says negotiations over nuclear programme will resume only in late August.
 
 ### [World leaders at the G20 summit agree to cut their budget deficits in half by 2013, while US President Obama urges continued spending to support economic growth. ](/news/2010/06/28/world-leaders-at-the-g20-summit-agree-to-cut-their-budget-deficits-in-half-by-2013-while-us-president-obama-urges-continued-spending-to-sup.md)
-_Context: Barack Obama, G20 summit, U.S. President, budget deficit_
+_Context: G20 summit, Obama, U.S. President, budget deficit_
 
 ### [Toronto police arrest over 600 people outside the G20 summit, with police using rubber bullets and tear gas on protestors. ](/news/2010/06/28/toronto-police-arrest-over-600-people-outside-the-g20-summit-with-police-using-rubber-bullets-and-tear-gas-on-protestors.md)
 ### [Rwandan authorities arrest two people in connection with the killing of a journalist critical of Rwandan President Paul Kagame, and deny complicity in the murder. ](/news/2010/06/28/rwandan-authorities-arrest-two-people-in-connection-with-the-killing-of-a-journalist-critical-of-rwandan-president-paul-kagame-and-deny-com.md)
@@ -41,7 +41,7 @@ Ex-Panama leader faces charges of laundering Colombian drug money in French bank
 Tens of thousands of people who fled ethnic fighting in Kyrgyzstan earlier this month streamed back into the country over the course of a few days last week. 
 
 ### [Philip Gordon, the Obama administration's top diplomat on European affairs warns Turkey that it must demonstrate its commitment to NATO, Europe and the United States after its opposition to sanctions against Iran's nuclear program and rhetoric against Israel after the Gaza flotilla raid. ](/news/2010/06/28/philip-gordon-the-obama-administration-s-top-diplomat-on-european-affairs-warns-turkey-that-it-must-demonstrate-its-commitment-to-nato-eur.md)
-_Context: European Union, Gaza flotilla raid, Israel, NATO, Turkey, United States, ban on ballistic missile tests_
+_Context: European Union, Gaza flotilla raid, Israel, NATO, Turkey, U.S., ban on ballistic missile tests_
 
 ### [A presidential election takes place in Burundi with incumbent President Pierre Nkurunziza as the only candidate. A series of grenade attacks also take place. ](/news/2010/06/28/a-presidential-election-takes-place-in-burundi-with-incumbent-president-pierre-nkurunziza-as-the-only-candidate-a-series-of-grenade-attacks.md)
 Incumbent president certain to win following boycott by oppositon candidates.

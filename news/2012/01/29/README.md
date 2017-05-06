@@ -22,7 +22,7 @@ _Context: 18th Screen Actors Guild Awards, Jean Dujardin, Los Angeles, Californi
 _Context: Indonesia, Severe Tropical Cyclone Lua_
 
 ### [At least 10 people die in an accident on the Interstate 75 south of the US city of Gainesville, Florida. ](/news/2012/01/29/at-least-10-people-die-in-an-accident-on-the-interstate-75-south-of-the-us-city-of-gainesville-florida.md)
-_Context: Florida, Gainesville, Florida, Interstate 75_
+_Context: FL, Gainesville, Florida, Interstate 75_
 
 ### [Greece rejects outright German proposals for direct European Union control of the country's financial affairs, expressing opposition to further outside interference. ](/news/2012/01/29/greece-rejects-outright-german-proposals-for-direct-european-union-control-of-the-country-s-financial-affairs-expressing-opposition-to-furt.md)
 Athens rejects outright German proposals for an EU power of veto over the Greek budget, with a minister threatening to quit over the issue.

@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ Nine North Koreans enter Denmark's embassy in the Vietnamese capital Hanoi to seek political asylum. ](/news/2009/09/24/nine-north-koreans-enter-denmark-s-embassy-in-the-vietnamese-capital-hanoi-to-seek-political-asylum.md) _Context: Danish, Hanoi, North Korea, Vietnam_
+1. [ Nine North Koreans enter Denmark's embassy in the Vietnamese capital Hanoi to seek political asylum. ](/news/2009/09/24/nine-north-koreans-enter-denmark-s-embassy-in-the-vietnamese-capital-hanoi-to-seek-political-asylum.md) _Context: Denmark, Hanoi, North Korea, Vietnam_
 2. [North Korea fires a medium-range ballistic missile about 60 kilometers (37 miles) into its eastern waters, in the direction of Japan according to United States and South Korean officials. ](/news/2017/04/5/north-korea-fires-a-medium-range-ballistic-missile-about-60-kilometers-37-miles-into-its-eastern-waters-in-the-direction-of-japan-accordi.md) _Context: North Korea, South Korea_
 3. [The United States deploys parts of its Terminal High Altitude Area Defense in South Korea amidst high tension caused by North Korea's escalation of its missile and nuclear weapons programs. ](/news/2017/04/26/the-united-states-deploys-parts-of-its-terminal-high-altitude-area-defense-in-south-korea-amidst-high-tension-caused-by-north-korea-s-escala.md) _Context: North Korea, South Korea_
 4. [South Korea claims that North Korea has fired several missiles from the Sohae Satellite Launching Station into the Sea of Japan. ](/news/2017/03/6/south-korea-claims-that-north-korea-has-fired-several-missiles-from-the-sohae-satellite-launching-station-into-the-sea-of-japan.md) _Context: North Korea, South Korea_

@@ -16,7 +16,7 @@ _Context: Israel, Palestinian, Silwan_
 The Agriculture Department said on Friday it has deregulated a variety of corn genetically engineered to produce a common enzyme that speeds the breakdown of starch into sugar, a vital step in making ethanol.
 
 ### [A road in Copenhagen, Denmark has been proposed a new name after former US president Ronald Reagan. ](/news/2011/02/11/a-road-in-copenhagen-denmark-has-been-proposed-a-new-name-after-former-us-president-ronald-reagan.md)
-_Context: Copenhagen, Danish, Ronald Reagan_
+_Context: Copenhagen, Denmark, Ronald Reagan_
 
 ### [The first investigation into yesterday's plane crash at Cork Airport is expected within a month; the airport remains closed today. ](/news/2011/02/11/the-first-investigation-into-yesterday-s-plane-crash-at-cork-airport-is-expected-within-a-month-the-airport-remains-closed-today.md)
 Cork Airport is expected to resume full service tomorrow, following the clearance of the wreckage of the plane which crashed yesterday morning, killing six people.
@@ -31,7 +31,7 @@ _Context: Yang, Zimbabwe_
 In a dramatic and poignant sign of a state nearing collapse, North Korea has asked its embassies to appeal to foreign governments for aid to feed a population close to starvation.
 
 ### [Computer security company McAfee says hackers based in the People's Republic of China have targeted computer networks of global oil companies and individuals in Kazakhstan, Taiwan, Greece, and the United States, to steal information starting in 2009. ](/news/2011/02/11/computer-security-company-mcafee-says-hackers-based-in-the-people-s-republic-of-china-have-targeted-computer-networks-of-global-oil-companie.md)
-_Context: China's, Greece, Kazakhstan, McAfee, Taiwan, United States, attack, hackers, petroleum industry_
+_Context: China's, Greece, Kazakhstan, McAfee, Taiwan, U.S., attack, hackers, petroleum industry_
 
 ### [Former President of Liberia Charles Taylor's trial in The Hague is extended. ](/news/2011/02/11/former-president-of-liberia-charles-taylor-s-trial-in-the-hague-is-extended.md)
 _Context: Charles Taylor, President of Liberia, The Hague_

@@ -1,7 +1,7 @@
 ## [2008-10-29](/news/2008/10/29/index.md)
 
 ### [ The United States Treasury Department spends US$125 billion of its $700 billion bailout fund on nine banks, some of whom had argued that they did not need the money. ](/news/2008/10/29/the-united-states-treasury-department-spends-us-125-billion-of-its-700-billion-bailout-fund-on-nine-banks-some-of-whom-had-argued-that-th.md)
-_Context: Emergency Economic Stabilization Act, U.S. dollar, United States, United States Department of the Treasury_
+_Context: Emergency Economic Stabilization Act, U.S., U.S. dollar, United States Department of the Treasury_
 
 ### [ The Philadelphia Phillies win the 2008 World Series 4 games to 1, defeating the Tampa Bay Rays 4-3 in Game 5. ](/news/2008/10/29/the-philadelphia-phillies-win-the-2008-world-series-4-games-to-1-defeating-the-tampa-bay-rays-4-3-in-game-5.md)
 _Context: 2008 World Series, Philadelphia Phillies, Tampa Bay Rays_
@@ -10,7 +10,7 @@ _Context: 2008 World Series, Philadelphia Phillies, Tampa Bay Rays_
 _Context: Bonn, Germany, India, Russia, Viswanathan Anand, Vladimir Kramnik, World Chess Championship_
 
 ### [ Danish-based low-cost carrier Sterling Airlines files for bankruptcy and stops all passenger flights after its cash-strapped Icelandic investors were unable keep the company afloat.](/news/2008/10/29/danish-based-low-cost-carrier-sterling-airlines-files-for-bankruptcy-and-stops-all-passenger-flights-after-its-cash-strapped-icelandic-inve.md)
-_Context: Danish, Iceland, Sterling Airlines, bankruptcy, low-cost carrier_
+_Context: Denmark, Iceland, Sterling Airlines, bankruptcy, low-cost carrier_
 
 ### [ Suicide bombers attack targets in Somalia: Hargeisa, the capital of the self-proclaimed republic of Somaliland, and Bosaso, a city in the autonomous state of Puntland. ](/news/2008/10/29/suicide-bombers-attack-targets-in-somalia-hargeisa-the-capital-of-the-self-proclaimed-republic-of-somaliland-and-bosaso-a-city-in-the-a.md)
 _Context: Bosaso, Hargeisa, Puntland, Somali, Somaliland, Suicide bombers attack targets_

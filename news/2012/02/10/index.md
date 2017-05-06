@@ -22,7 +22,7 @@ _Context: Puntland, Somali, Somaliland_
 _Context: Afghanistan, Leon Panetta, Nazi, Schutzstaffel, Secretary of Defense, United States Marine Corps, sniper_
 
 ### [The United States Central Intelligence Agency website  and Alabama state websites go down with reports that Anonymous is responsible. ](/news/2012/02/10/the-united-states-central-intelligence-agency-website-and-alabama-state-websites-go-down-with-reports-that-anonymous-is-responsible.md)
-_Context: Alabama, Central Intelligence Agency, United States, hacker group Anonymous_
+_Context: Alabama, Central Intelligence Agency, U.S., hacker group Anonymous_
 
 ### [A new book of poetry by President of Ireland Michael D. Higgins is negatively reviewed by leading critic Professor Kevin Kiely, who says the President "can be accused of crimes against literature". ](/news/2012/02/10/a-new-book-of-poetry-by-president-of-ireland-michael-d-higgins-is-negatively-reviewed-by-leading-critic-professor-kevin-kiely-who-says-the.md)
 _Context: Michael D. Higgins, President_
@@ -61,7 +61,7 @@ _Context: Daily Mail, Nat Rothschild, Oleg Deripaska, Peter Mandelson_
 A man suspected of involvement in the 2003 killing of Serbian Prime Minister Zoran Djindjic is arrested in Spain, police say.
 
 ### [An Uzbek man Ulugbek Kodirov pleads guilty to plotting with the Islamic Movement of Uzbekistan to assassinate President of the United States Barack Obama in a hearing in Birmingham, Alabama. ](/news/2012/02/10/an-uzbek-man-ulugbek-kodirov-pleads-guilty-to-plotting-with-the-islamic-movement-of-uzbekistan-to-assassinate-president-of-the-united-states.md)
-_Context: Alabama, Barack Obama, Birmingham, Islamic Movement of Uzbekistan, Ulugbek Kodirov, Uzbek, president_
+_Context: Alabama, Birmingham, Islamic Movement of Uzbekistan, Obama, President, Ulugbek Kodirov, Uzbek_
 
 ### [Chinese Premier Wen Jiabao pledges greater freedoms in Tibet, hours after two protesters are killed demanding the end of Chinese rule in the region; seven officials are also sacked for "neglecting state duties". ](/news/2012/02/10/chinese-premier-wen-jiabao-pledges-greater-freedoms-in-tibet-hours-after-two-protesters-are-killed-demanding-the-end-of-chinese-rule-in-the.md)
 _Context: China's, Tibet, Wen Jiabao_

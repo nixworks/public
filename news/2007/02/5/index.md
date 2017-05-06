@@ -1,16 +1,16 @@
 ## [2007-02-5](/news/2007/02/5/index.md)
 
 ### [ U.S. Presidential Election, 2008: Former New York City mayor Rudy Giuliani (R) officially files for candidacy for President of the United States of America. ](/news/2007/02/5/u-s-presidential-election-2008-former-new-york-city-mayor-rudy-giuliani-r-officially-files-for-candidacy-for-president-of-the-united-s.md)
-_Context: 2008, Mayor, New York's, President of the United States of America, Republican, Rudy Giuliani_
+_Context: 2008, Mayor, New York's, President of the United States of America, R, Rudy Giuliani_
 
 ### [ Space Shuttle astronaut Lisa Nowak is arrested in Florida for attempted kidnapping. ](/news/2007/02/5/space-shuttle-astronaut-lisa-nowak-is-arrested-in-florida-for-attempted-kidnapping.md)
-_Context: Florida, Lisa Nowak, Space Shuttle, astronaut, kidnapped_
+_Context: FL, Lisa Nowak, Space Shuttle, astronaut, kidnapped_
 
 ### [ Boris Berezovsky tells the BBC that Alexander Litvinenko, on his deathbed, said that Andrei Lugovoi was responsible for his poisoning. ](/news/2007/02/5/boris-berezovsky-tells-the-bbc-that-alexander-litvinenko-on-his-deathbed-said-that-andrei-lugovoi-was-responsible-for-his-poisoning.md)
 _Context: Alexander Litvinenko, Andrei Lugovoi, BBC, Boris Berezovsky, murder of Russian spy Alexander Litvinenko_
 
 ### [ U.S. President George W. Bush has submitted a $2.9 trillion budget to Congress including almost $700 billion in new military spending. ](/news/2007/02/5/u-s-president-george-w-bush-has-submitted-a-2-9-trillion-budget-to-congress-including-almost-700-billion-in-new-military-spending.md)
-_Context: 110th United States Congress, George W. Bush, U.S. dollar, United States, federal government budget, military spending, president_
+_Context: 110th United States Congress, George W. Bush, President, U.S., U.S. dollar, federal government budget, military spending_
 
 ### [ Syrian President Bashar al-Assad has said his country can play a major role in international efforts to end the Civil war in Iraq. ](/news/2007/02/5/syrian-president-bashar-al-assad-has-said-his-country-can-play-a-major-role-in-international-efforts-to-end-the-civil-war-in-iraq.md)
 _Context: Bashar al-Assad, Civil war in Iraq, Syria, Syrian President_

@@ -34,7 +34,7 @@ _Context: Fukushima Daiichi Nuclear Power Plant, Japan, cold shutdown_
 _Context: Hand, foot and mouth disease, Vietnam_
 
 ### [The United States and North Korea are expected to hold diplomatic talks regarding North Korea's nuclear program. The talks are the first meeting after the six-party talks stalled in 2008. ](/news/2011/12/16/the-united-states-and-north-korea-are-expected-to-hold-diplomatic-talks-regarding-north-korea-s-nuclear-program-the-talks-are-the-first-mee.md)
-_Context: North Korea, North Korea and weapons of mass destruction, United States, six-party talks_
+_Context: North Korea, North Korea and weapons of mass destruction, U.S., six-party talks_
 
 ### [The International Criminal Court dismisses charges against Callixte Mbarushimana, a Rwandan rebel accused of the torture, rape and murder of Congolese villagers by Hutu militia in 2009. ](/news/2011/12/16/the-international-criminal-court-dismisses-charges-against-callixte-mbarushimana-a-rwandan-rebel-accused-of-the-torture-rape-and-murder-of.md)
 _Context: Callixte Mbarushimana, Democratic Republic of the Congo, Hutu, International Criminal Court, Rwanda_
@@ -58,7 +58,7 @@ _Context: Barry Bonds, baseball, home detention, obstruction of justice_
 _Context: Thailand, Thaksin_
 
 ### [Labour's Seema Malhotra wins the Feltham and Heston by-election. ](/news/2011/12/16/labour-s-seema-malhotra-wins-the-feltham-and-heston-by-election.md)
-_Context: Feltham and Heston by-election, Labour, Seema Malhotra_
+_Context: Feltham and Heston by-election, Labour Party, Seema Malhotra_
 
 ### [Minister of the Interior and Kingdom Relations of the Netherlands Piet Hein Donner resigns after being named the new Vice President of the Council of State, succeeding Herman Tjeenk Willink. ](/news/2011/12/16/minister-of-the-interior-and-kingdom-relations-of-the-netherlands-piet-hein-donner-resigns-after-being-named-the-new-vice-president-of-the-c.md)
 _Context: Herman Tjeenk Willink, Minister of Colonial Affairs, Piet Hein Donner, Vice President of the Council of State_

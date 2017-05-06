@@ -31,7 +31,7 @@ Tokyo police are also inspecting the tunnel where hundreds of falling concrete c
 All Commonwealth realms agree to a bill to change royal succession rules which discriminated against women, as a pregnant Duchess of Cambridge remains in hospital with severe morning sickness.
 
 ### [The United States Senate fails to ratify the United Nations Convention on the Rights of Persons with Disabilities, with the motion failing to win the two-thirds majority. ](/news/2012/12/4/the-united-states-senate-fails-to-ratify-the-united-nations-convention-on-the-rights-of-persons-with-disabilities-with-the-motion-failing-t.md)
-_Context: Convention on the Rights of Persons with Disabilities, United Nations, United States Senate_
+_Context: Convention on the Rights of Persons with Disabilities, United Nations, senators_
 
 ### [One hundred thousand people protest outside the President of Egypt's palace over proposed constitutional changes. ](/news/2012/12/4/one-hundred-thousand-people-protest-outside-the-president-of-egypt-s-palace-over-proposed-constitutional-changes.md)
 _Context: Draft constitution, Egyptian President_

@@ -31,7 +31,7 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 _Context: Benazir Bhutto, Interpol, Pakistan, red notice_
 
 ### [ Saudi Arabia recalled their envoy from Denmark after Muhammad Drawings controversy, and has initiated a boycott of Danish products. ](/news/2006/01/26/saudi-arabia-recalled-their-envoy-from-denmark-after-muhammad-drawings-controversy-and-has-initiated-a-boycott-of-danish-products.md)
-_Context: Danish, Muhammad Drawings, Saudi Arabia_
+_Context: Denmark, Muhammad Drawings, Saudi Arabia_
 
 ## [Previous Day...](/news/2006/01/25/index.md)
 

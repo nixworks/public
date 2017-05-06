@@ -25,7 +25,7 @@ International weapons inspectors say a trove of new evidence makes a “credible
 _Context: China's, Chinese President, Hu Jintao, Tibetan, repressive policies in Tibet, sets herself alight_
 
 ### [Journalists report comments by French President Nicolas Sarkozy to US President Barack Obama at the G20 summit in Cannes, in which Sarkozy called Israeli Prime Minister Benjamin Netanyahu a "liar". ](/news/2011/11/8/journalists-report-comments-by-french-president-nicolas-sarkozy-to-us-president-barack-obama-at-the-g20-summit-in-cannes-in-which-sarkozy-c.md)
-_Context: Barack Obama, Benjamin Netanyahu, French President, G20 summit in Cannes, Israel, Nicolas Sarkozy, US President_
+_Context: Benjamin Netanyahu, French President, G20 summit in Cannes, Israel, Nicolas Sarkozy, Obama, US President_
 
 ### [The Australian Senate votes to introduce a controversial carbon tax, a form of carbon pricing. ](/news/2011/11/8/the-australian-senate-votes-to-introduce-a-controversial-carbon-tax-a-form-of-carbon-pricing.md)
 _Context: Senate of Australia, carbon pricing, carbon tax_

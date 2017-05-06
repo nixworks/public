@@ -7,7 +7,7 @@ No injuries reported in attack on western Negev; latest rocket follows IAF strik
 Harrowing details of alleged sex abuse by Roman Catholic clergy in Belgium are released by an official Church investigator.
 
 ### [An alleged suicide bomber is detained after "suicide" blast at hotel in Copenhagen, Denmark. ](/news/2010/09/10/an-alleged-suicide-bomber-is-detained-after-suicide-blast-at-hotel-in-copenhagen-denmark.md)
-_Context: Copenhagen, Danish_
+_Context: Copenhagen, Denmark_
 
 ### [A Russian Ministry of Emergency Situations plane loaded with victims of the 2010 Vladikavkaz bombing lands at Moscow's Ramenskoye Airport as the death toll reaches 17. ](/news/2010/09/10/a-russian-ministry-of-emergency-situations-plane-loaded-with-victims-of-the-2010-vladikavkaz-bombing-lands-at-moscow-s-ramenskoye-airport-as.md)
 _Context: 2010 Vladikavkaz bombing, Ministry of Emergency Situations, Moscow, Ramenskoye Airport, Russia_

@@ -7,7 +7,7 @@ _Context: 2006 parliamentary election, Party of Regions, Ukrainian, Viktor Yanuk
 _Context: Abakar Itno, Chad, Janjaweed, Rally for Democracy and Liberty, Sudanese military, assassinated_
 
 ### [ Jack Abramoff scandals: Lobbyist Tony C. Rudy, former chief of staff for Rep. Tom DeLay (R-TX), pleads guilty to conspiracy and agrees to cooperate with the ongoing investigation into the Jack Abramoff Indian lobbying scandal. ](/news/2006/03/31/jack-abramoff-scandals-lobbyist-tony-c-rudy-former-chief-of-staff-for-rep-tom-delay-r-tx-pleads-guilty-to-conspiracy-and-agrees-to-c.md)
-_Context: Jack Abramoff Indian lobbying scandal, Jack Abramoff scandals, Republican, Texas, Tom DeLay, Tony C. Rudy_
+_Context: Jack Abramoff Indian lobbying scandal, Jack Abramoff scandals, R, Texas, Tom DeLay, Tony C. Rudy_
 
 ### [ MINOS (the Main Injector Neutrino Oscillation Search) observes neutrino oscillation, implying that neutrinos have mass, which would require a substantial revision to the Standard Model of particle physics.  ](/news/2006/03/31/minos-the-main-injector-neutrino-oscillation-search-observes-neutrino-oscillation-implying-that-neutrinos-have-mass-which-would-require.md)
 _Context: MINOS, Standard Model, mass, neutrino, neutrino oscillation, particle physics_

@@ -1,7 +1,7 @@
 ## [2007-05-16](/news/2007/05/16/index.md)
 
 ### [ Tony Blair, the Prime Minister of the United Kingdom, meets with the President of the United States George W. Bush for the final time before his departure from politics. ](/news/2007/05/16/tony-blair-the-prime-minister-of-the-united-kingdom-meets-with-the-president-of-the-united-states-george-w-bush-for-the-final-time-befor.md)
-_Context: George W. Bush, Prime Minster, Tony Blair, president_
+_Context: George W. Bush, President, Prime Minster, Tony Blair_
 
 ### [ Alex Salmond, the leader of the Scottish National Party, is elected as the first non-Labour First Minister of Scotland.  ](/news/2007/05/16/alex-salmond-the-leader-of-the-scottish-national-party-is-elected-as-the-first-non-labour-first-minister-of-scotland.md)
 _Context: Alex Salmond, First Minister, Scottish Labour Party, Scottish National Party_

@@ -52,7 +52,7 @@ London commuters are in for more chaos and disruption as unions set to embark up
 The Sydney Morning Herald 404 Page
 
 ### [ Denmark's intelligence service arrests several people on suspicion of plotting a bomb attack. ](/news/2007/09/4/denmark-s-intelligence-service-arrests-several-people-on-suspicion-of-plotting-a-bomb-attack.md)
-_Context: Danish, arrests several people_
+_Context: Denmark, arrests several people_
 
 ### [ The Iranian military bombs villages in northern Iraq, targeting PEJAK militants. ](/news/2007/09/4/the-iranian-military-bombs-villages-in-northern-iraq-targeting-pejak-militants.md)
 Hoshyar Zebari said the bombardment has driven as many as 3,000 Kurdish villagers from their homes and set orchards and fields ablaze.

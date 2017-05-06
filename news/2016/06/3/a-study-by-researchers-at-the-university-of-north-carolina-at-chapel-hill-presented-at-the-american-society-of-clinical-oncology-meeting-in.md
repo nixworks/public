@@ -13,7 +13,7 @@
 
 ### Related:
 
-1. [Plans for a Chicago-based presidential library in honour of the former U.S. president Obama are revealed. ](/news/2017/05/3/plans-for-a-chicago-based-presidential-library-in-honour-of-the-former-u-s-president-obama-are-revealed.md) _Context: Chicago_
+1. [Plans for a Chicago-based presidential library in honour of the former U.S. President Obama are revealed. ](/news/2017/05/3/plans-for-a-chicago-based-presidential-library-in-honour-of-the-former-u-s-president-obama-are-revealed.md) _Context: Chicago_
 2. [A United Airlines passenger is dragged off a flight at O'Hare International Airport in Chicago. The airline company is under fire because of the mistreatment of the passenger. ](/news/2017/04/9/a-united-airlines-passenger-is-dragged-off-a-flight-at-o-hare-international-airport-in-chicago-the-airline-company-is-under-fire-because-of.md) _Context: Chicago_
 3. [The Driehaus Architecture Prize for New Classical architecture is awarded to Robert Adam in Chicago. ](/news/2017/03/25/the-driehaus-architecture-prize-for-new-classical-architecture-is-awarded-to-robert-adam-in-chicago.md) _Context: Chicago_
 4. [Chicago Police arrest four African-American suspects after they stream a video on Facebook showing themselves torturing and scalping a bound and gagged, kidnapped, white man with a mental disorder. The four suspects will face elevated hate crime charges. ](/news/2017/01/4/chicago-police-arrest-four-african-american-suspects-after-they-stream-a-video-on-facebook-showing-themselves-torturing-and-scalping-a-bound.md) _Context: Chicago_

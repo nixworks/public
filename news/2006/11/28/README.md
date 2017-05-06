@@ -4,7 +4,7 @@
 Judge rules that the Treasury Department has denied blind people reasonable access to paper money by keeping it the same size and texture.
 
 ### [ Speaker-designate of the United States House of Representatives Nancy Pelosi announces that controversial Democratic Rep. Alcee Hastings will not be the chairman of the House Permanent Select Committee on Intelligence in the 110th Congress. ](/news/2006/11/28/speaker-designate-of-the-united-states-house-of-representatives-nancy-pelosi-announces-that-controversial-democratic-rep-alcee-hastings-wi.md)
-_Context: 110th Congress, Democrats, House Permanent Select Committee on Intelligence, Nancy Pelosi, Rep. Alcee Hastings, Speaker-designate, United States House of Representatives_
+_Context: 110th Congress, D, House Permanent Select Committee on Intelligence, Nancy Pelosi, Rep. Alcee Hastings, Speaker-designate, United States House of Representatives_
 
 ### [ Rafael Correa will be the next President of Ecuador after winning the election with 57 per cent of the vote (94% counted). He will not be officially confirmed until all the votes are counted. ](/news/2006/11/28/rafael-correa-will-be-the-next-president-of-ecuador-after-winning-the-election-with-57-per-cent-of-the-vote-94-counted-he-will-not-be-o.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
@@ -13,7 +13,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Canada, Canadian House of Commons, Quebec, nation_
 
 ### [ Ben Bernanke, the Chairman of the United States Federal Reserve predicts that the US economy should undertake a moderate expansion but inflation risks are "primarily to the upside." ](/news/2006/11/28/ben-bernanke-the-chairman-of-the-united-states-federal-reserve-predicts-that-the-us-economy-should-undertake-a-moderate-expansion-but-infl.md)
-_Context: Ben Bernanke, Federal Reserve, United States, inflation_
+_Context: Ben Bernanke, Federal Reserve, U.S., inflation_
 
 ### [ War in Chad (2005-present):  Chadian rebels said they shot down a government military plane with a captured ground-to-air missile in fighting near the eastern town of Abeche, which they briefly seized at the weekend. ](/news/2006/11/28/war-in-chad-2005apresent-p-chadian-rebels-said-they-shot-down-a-government-military-plane-with-a-captured-ground-to-air-missile-in-fig.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
@@ -28,7 +28,7 @@ _Context: Benedict XVI, Turkey_
 _Context: Sonthi Boonyaratglin, Thailand, coup, martial law_
 
 ### [ Nuclear envoys from North Korea, China and the United States meet to discuss North Korea's nuclear program. ](/news/2006/11/28/nuclear-envoys-from-north-korea-china-and-the-united-states-meet-to-discuss-north-korea-s-nuclear-program.md)
-_Context: China, North Korea, United States_
+_Context: China, North Korea, U.S._
 
 ### [ The Prime Minister of Fiji Laisenia Qarase flies to New Zealand to hold talks with Commodore Frank Bainimarama tomorrow as part of efforts sponsored by the New Zealand Government to avert a coup d'etat. ](/news/2006/11/28/the-prime-minister-of-fiji-laisenia-qarase-flies-to-new-zealand-to-hold-talks-with-commodore-frank-bainimarama-tomorrow-as-part-of-efforts.md)
 _Context: Laisenia Qarase, New Zealand, Prime Minister, Voreqe Bainimarama, coup_

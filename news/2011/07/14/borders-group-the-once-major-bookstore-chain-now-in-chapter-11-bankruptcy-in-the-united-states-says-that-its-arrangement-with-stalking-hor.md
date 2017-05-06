@@ -11,7 +11,7 @@ Borders Group Inc BGPIQ.PK moved closer to going out of business as a bankruptcy
 
 ### Related:
 
-1. [Puerto Rico files for the largest 'local government' bankruptcy in the United States. ](/news/2017/05/3/puerto-rico-files-for-the-largest-local-government-bankruptcy-in-the-united-states.md) _Context: bankruptcy_
+1. [Puerto Rico files for the largest "local government" bankruptcy in the United States. ](/news/2017/05/3/puerto-rico-files-for-the-largest-local-government-bankruptcy-in-the-united-states.md) _Context: bankruptcy_
 2. [Energy Future Holdings, a Texas electric utility, asks a bankruptcy court in Delaware to confirm a plan that would allow it to exit Chapter 11 after more than two years. ](/news/2016/08/17/energy-future-holdings-a-texas-electric-utility-asks-a-bankruptcy-court-in-delaware-to-confirm-a-plan-that-would-allow-it-to-exit-chapter.md) _Context: Chapter 11_
 3. [Peabody Energy, the largest privately-owned producer of coal in the world headquartered in St. Louis, Missouri, files for bankruptcy court protection due to high debts and a drop in world prices. ](/news/2016/04/13/peabody-energy-the-largest-privately-owned-producer-of-coal-in-the-world-headquartered-in-st-louis-missouri-files-for-bankruptcy-court-p.md) _Context: bankruptcy_
 4. [Arch Coal, the second largest coal-mining concern in the United States, files for chapter 11 protection because it has been hit hard by the collapsing market demand for that commodity. ](/news/2016/01/11/arch-coal-the-second-largest-coal-mining-concern-in-the-united-states-files-for-chapter-11-protection-because-it-has-been-hit-hard-by-the.md) _Context: Chapter 11_

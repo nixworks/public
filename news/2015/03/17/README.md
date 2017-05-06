@@ -19,7 +19,7 @@ Adelaide Catholic Archbishop Philip Wilson is charged with concealing child sexu
 _Context: U.S. Secret Service, White House, cyanide_
 
 ### [Federal authorities arrest a Missouri man, Cameron James Stout, 24, of Stover, Missouri for threatening to shoot U.S. President Barack Obama. ](/news/2015/03/17/federal-authorities-arrest-a-missouri-man-cameron-james-stout-24-of-stover-missouri-for-threatening-to-shoot-u-s-president-barack-obama.md)
-_Context: Barack Obama, Stover, Missouri_
+_Context: Obama, Stover, Missouri_
 
 ### [A drive-by shooting in Stockton, California kills three people and injures four more. ](/news/2015/03/17/a-drive-by-shooting-in-stockton-california-kills-three-people-and-injures-four-more.md)
 _Context: Stockton, California, drive-by shooting_

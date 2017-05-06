@@ -25,7 +25,7 @@ A Philippines human rights body will probe claims by President Duterte that he k
 _Context: Australia, Claremont murders_
 
 ### [U.S. president Barack Obama scraps the National Security Entry-Exit Registration System (NSEERS), a registration system for Muslim immigrants. ](/news/2016/12/22/u-s-president-barack-obama-scraps-the-national-security-entry-exit-registration-system-nseers-a-registration-system-for-muslim-immigrant.md)
-_Context: Barack Obama, National Security Entry-Exit Registration System_
+_Context: National Security Entry-Exit Registration System, Obama_
 
 ### [President-elect Donald Trump names his former presidential campaign manager Kellyanne Conway as his Counselor to the President. ](/news/2016/12/22/president-elect-donald-trump-names-his-former-presidential-campaign-manager-kellyanne-conway-as-his-counselor-to-the-president.md)
 Former campaign manager praised as ‘tireless and tenacious advocate of my agenda’ by president-elect

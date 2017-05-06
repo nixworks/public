@@ -40,7 +40,7 @@ _Context: A$, Australia, Canberra, Kevin Rudd, Prime Minister of Australia, Xi J
 _Context: Iraq, Shirqat_
 
 ### [''The Washington Post'' reports that Gizab villagers in Afghanistan overturned their local Taliban movement during April, with some members putting down their weapons and being welcomed back into their local community. The United States did not hear of this before now as it happened in a remote part of the country ignored by the military. ](/news/2010/06/21/the-washington-post-reports-that-gizab-villagers-in-afghanistan-overturned-their-local-taliban-movement-during-april-with-some-members.md)
-_Context: Gizab, Taliban, The Washington Post, United States_
+_Context: Gizab, Taliban, The Washington Post, U.S._
 
 ### [Three Australian soldiers and a United States army soldier are killed in a helicopter crash in Afghanistan with nine NATO casualties overall. ](/news/2010/06/21/three-australian-soldiers-and-a-united-states-army-soldier-are-killed-in-a-helicopter-crash-in-afghanistan-with-nine-nato-casualties-overall.md)
 _Context: Afghanistan, Australia, NATO, United States Army, helicopter, soldiers_

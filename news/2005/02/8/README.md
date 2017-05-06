@@ -7,7 +7,7 @@ _Context: Baquba, Conflict in Iraq, Iraq, Mortar, Mosul, guerillas_
 _Context: Abdullah II, Ariel Sharon, Egypt, Egyptian President, Hamas, Hosni Mubarak, Israel, Israeli-Palestinian conflict, Jordan, Jordanian King, Mahmoud Abbas, Palestinian, Palestinian Authority, President of the Palestinian Authority, Prime Minister of Israel, Sharm el-Sheikh, truce_
 
 ### [ In Denmark, parliamentary elections result in a continuation of the center-right coalition of Prime Minister Anders Fogh Rasmussen. ](/news/2005/02/8/in-denmark-parliamentary-elections-result-in-a-continuation-of-the-center-right-coalition-of-prime-minister-anders-fogh-rasmussen.md)
-_Context: Anders Fogh Rasmussen, Danish, Prime Minister of Denmark, last elections in early 2005_
+_Context: Anders Fogh Rasmussen, Denmark, Prime Minister of Denmark, last elections in early 2005_
 
 ### [ In Nepal, phone lines and internet connections are restored. ](/news/2005/02/8/in-nepal-phone-lines-and-internet-connections-are-restored.md)
 Get the latest breaking news and top news headlines at Reuters.com

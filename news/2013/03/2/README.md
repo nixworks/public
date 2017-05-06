@@ -28,7 +28,7 @@ The popular multi-platform, note-taking web application Evernote has had its mas
 _Context: 2012-13 La Liga, El Clasico, FC Barcelona, Real Madrid, Sergio Ramos_
 
 ### [The 1,000 mile 2013 Iditarod Trail Sled Dog Race begins in Anchorage, Alaska, United States. The winner of the race will get a new truck and $50,400. ](/news/2013/03/2/the-1-000-mile-2013-iditarod-trail-sled-dog-race-begins-in-anchorage-alaska-united-states-the-winner-of-the-race-will-get-a-new-truck-and.md)
-_Context: Alaska, Anchorage, Alaska, Iditarod Trail Sled Dog Race, United States, truck_
+_Context: Alaska, Anchorage, Alaska, Iditarod Trail Sled Dog Race, U.S., truck_
 
 ## [Previous Day...](/news/2013/03/1/index.md)
 

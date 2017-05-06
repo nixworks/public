@@ -11,7 +11,7 @@ Trio accused of making petrol bombs and plotting attacks, but supporters say sus
 
 ### Related:
 
-1. [Plans for a Chicago-based presidential library in honour of the former U.S. president Obama are revealed. ](/news/2017/05/3/plans-for-a-chicago-based-presidential-library-in-honour-of-the-former-u-s-president-obama-are-revealed.md) _Context: Chicago_
+1. [Plans for a Chicago-based presidential library in honour of the former U.S. President Obama are revealed. ](/news/2017/05/3/plans-for-a-chicago-based-presidential-library-in-honour-of-the-former-u-s-president-obama-are-revealed.md) _Context: Chicago_
 2. [A suicide bombing attack on a NATO convoy in Kabul kills eight civilians and wounds at least 28 people. ](/news/2017/05/3/a-suicide-bombing-attack-on-a-nato-convoy-in-kabul-kills-eight-civilians-and-wounds-at-least-28-people.md) _Context: NATO_
 3. [A United Airlines passenger is dragged off a flight at O'Hare International Airport in Chicago. The airline company is under fire because of the mistreatment of the passenger. ](/news/2017/04/9/a-united-airlines-passenger-is-dragged-off-a-flight-at-o-hare-international-airport-in-chicago-the-airline-company-is-under-fire-because-of.md) _Context: Chicago_
 4. [The Parliament of Montenegro votes 46-0 to ratify Montenegro's membership of NATO, while opposition politicians boycott the vote and hold protests. ](/news/2017/04/28/the-parliament-of-montenegro-votes-46a0-to-ratify-montenegro-s-membership-of-nato-while-opposition-politicians-boycott-the-vote-and-hold.md) _Context: NATO_

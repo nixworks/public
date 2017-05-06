@@ -28,7 +28,7 @@ _Context: Fatah, Hamas, Yasser Arafat_
 _Context: Abdullah Gl, Ankara, President, President, Shimon Peres, Turkish Parliament_
 
 ### [ Danish voters go to the polls for an early parliamentary election called by Prime Minister Anders Fogh Rasmussen. ](/news/2007/11/13/danish-voters-go-to-the-polls-for-an-early-parliamentary-election-called-by-prime-minister-anders-fogh-rasmussen.md)
-_Context: Anders Fogh Rasmussen, Danish, Prime Minister of Denmark, Voters, early parliamentary elections_
+_Context: Anders Fogh Rasmussen, Denmark, Prime Minister of Denmark, Voters, early parliamentary elections_
 
 ### [ 2007 Pakistani state of emergency: Backed by hundreds of police officers, the Pakistani government again placed former Prime Minister Benazir Bhutto under house arrest to prevent a protest against President Pervez Musharraf. ](/news/2007/11/13/2007-pakistani-state-of-emergency-backed-by-hundreds-of-police-officers-the-pakistani-government-again-placed-former-prime-minister-benaz.md)
 Benazir Bhutto faces a seven-day detention order if she presses ahead with a planned opposition march.

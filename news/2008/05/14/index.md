@@ -10,7 +10,7 @@ A bitter debate over biofuels, blamed by critics for high global food prices and
 _Context: Attorney General, Marc Dann, sexual harassment_
 
 ### [ United States presidential election, 2008: John Edwards, a former contender to be the Democratic Party nominee, endorses the bid of Barack Obama. ](/news/2008/05/14/united-states-presidential-election-2008-john-edwards-a-former-contender-to-be-the-democratic-party-nominee-endorses-the-bid-of-barack.md)
-_Context: 2008, Barack Obama, Democrats, John Edwards_
+_Context: 2008, D, John Edwards, Obama_
 
 ### [ The United States Department of the Interior declares that the polar bear is a threatened species due to declining levels of Arctic Ocean ice as a result of global warming. ](/news/2008/05/14/the-united-states-department-of-the-interior-declares-that-the-polar-bear-is-a-threatened-species-due-to-declining-levels-of-arctic-ocean-i.md)
 _Context: Arctic Ocean, United States Department of the Interior, global warming's, polar bear, threatened species_

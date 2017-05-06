@@ -19,7 +19,7 @@ Amanda Knox has been dramatically acquitted of the murder of Meredith Kercher, d
 _Context: Africa, Somali, Somali pirates_
 
 ### [Helle Thorning-Schmidt presents her new coalition government, thereby becoming the 41st and the first female Prime Minister of Denmark. She takes over the office from Lars Lkke Rasmussen. ](/news/2011/10/3/helle-thorning-schmidt-presents-her-new-coalition-government-thereby-becoming-the-41st-and-the-first-female-prime-minister-of-denmark-she.md)
-_Context: 41st, Danish, Danish coalition government, Helle Thorning-Schmidt, Lars Lkke Rasmussen, Prime Minister of Denmark, first female_
+_Context: 41st, Danish coalition government, Denmark, Helle Thorning-Schmidt, Lars Lkke Rasmussen, Prime Minister of Denmark, first female_
 
 ### [Advocates for prisoners in the US state of California claim that more than 12,000 inmates are now participating in a hunger strike over prison conditions. ](/news/2011/10/3/advocates-for-prisoners-in-the-us-state-of-california-claim-that-more-than-12-000-inmates-are-now-participating-in-a-hunger-strike-over-pris.md)
 _Context: California, hunger strike_

@@ -13,7 +13,7 @@ _Context: Fernando Lugo, Paraguay, Paraguayan President_
 Ulster Bank is to open 20 branches on a Sunday for the first time, to help customers whose accounts have stopped working because of a technical fault.
 
 ### [Tropical Storm Debby continues to organize off the coast of Florida, lashing the state with high winds and heavy rains. The outer bands of the storm spawn two tornadoes, killing one person near Sarasota. ](/news/2012/06/24/tropical-storm-debby-continues-to-organize-off-the-coast-of-florida-lashing-the-state-with-high-winds-and-heavy-rains-the-outer-bands-of-t.md)
-_Context: Florida, Sarasota, Tropical Storm Debby_
+_Context: FL, Sarasota, Tropical Storm Debby_
 
 ### [Rescue efforts end after a boat capsized near Christmas Island, with more than 90 people still missing. ](/news/2012/06/24/rescue-efforts-end-after-a-boat-capsized-near-christmas-island-with-more-than-90-people-still-missing.md)
 Rescue effort ends after refugee boat with 200 people capsized near Christmas Island, with more than 90 still missing.

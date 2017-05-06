@@ -109,10 +109,10 @@ The Israeli authorities have used bulldozers to demolish three buildings in occu
 _Context: Federal Communications Commission's, United States appeals court_
 
 ### [President of the United States Barack Obama nominates Jacob Lew to replace Peter Orszag as the chief of the Office of Management and Budget. ](/news/2010/07/13/president-of-the-united-states-barack-obama-nominates-jacob-lew-to-replace-peter-orszag-as-the-chief-of-the-office-of-management-and-budget.md)
-_Context: Barack Obama, Jacob Lew, Office of Management and Budget, Peter Orszag_
+_Context: Jacob Lew, Obama, Office of Management and Budget, Peter Orszag_
 
 ### [The United States Senate announces it will vote on financial reform legislations on 15 July. ](/news/2010/07/13/the-united-states-senate-announces-it-will-vote-on-financial-reform-legislations-on-15-july.md)
-_Context: United States Senate, financial reform_
+_Context: financial reform, senators_
 
 ### [The Philippines' first typhoon of the year moves toward the country's eastern coast, with 33 of the country's 81 provinces and the capital Manila being placed under storm alert. ](/news/2010/07/13/the-philippines-first-typhoon-of-the-year-moves-toward-the-country-s-eastern-coast-with-33-of-the-country-s-81-provinces-and-the-capital-m.md)
 _Context: Manila, Philippine_
@@ -133,7 +133,7 @@ _Context: 2010 FIFA World Cup Final, Amsterdam, Netherlands football team_
 _Context: Cricket, Lord's Cricket Ground_
 
 ### [George Steinbrenner, owner of the New York Yankees, dies after suffering a massive heart attack in Florida. ](/news/2010/07/13/george-steinbrenner-owner-of-the-new-york-yankees-dies-after-suffering-a-massive-heart-attack-in-florida.md)
-_Context: Florida, George Steinbrenner, New York Yankees, heart attack_
+_Context: FL, George Steinbrenner, New York Yankees, heart attack_
 
 ## [Previous Day...](/news/2010/07/12/index.md)
 

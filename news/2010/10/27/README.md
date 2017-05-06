@@ -7,7 +7,7 @@ _Context: India, Jammu and Kashmir_
 _Context: Somali, al-Shabaab_
 
 ### [A United States drone attack kills three in Pakistan. ](/news/2010/10/27/a-united-states-drone-attack-kills-three-in-pakistan.md)
-_Context: Pakistan, United States_
+_Context: Pakistan, U.S._
 
 ### [At least three people are killed in an explosion in Baghdad, Iraq. ](/news/2010/10/27/at-least-three-people-are-killed-in-an-explosion-in-baghdad-iraq.md)
 _Context: Baghdad, Iraq_
@@ -52,7 +52,7 @@ _Context: North Korea, South Korea_
 _Context: India, Malaysia, free trade_
 
 ### [Transparency International releases its Corruption Perception Index showing Denmark, New Zealand and Singapore as the least corrupt nations and Somalia as the most corrupt. ](/news/2010/10/27/transparency-international-releases-its-corruption-perception-index-showing-denmark-new-zealand-and-singapore-as-the-least-corrupt-nations.md)
-_Context: Corruption Perception Index, Danish, New Zealand, Singapore, Somali, Transparency International_
+_Context: Corruption Perception Index, Denmark, New Zealand, Singapore, Somali, Transparency International_
 
 ### [Judge Kimba Wood of the United States District Court for the Southern District of New York shuts down filesharing service LimeWire. ](/news/2010/10/27/judge-kimba-wood-of-the-united-states-district-court-for-the-southern-district-of-new-york-shuts-down-filesharing-service-limewire.md)
 Popular online file-sharing service LimeWire was shut down by a US federal court today following a lawsuit filed by the music industry.

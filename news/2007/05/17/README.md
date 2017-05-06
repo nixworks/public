@@ -7,10 +7,10 @@ _Context: Bronze Soldier, Defence Minister, Estonia, Jaak Aaviksoo, Russia, hack
 Paul Wolfowitz resigned as president of the World Bank on Thursday, ending a protracted battle over his stewardship prompted by his involvement in a high-paying promotion for his companion.
 
 ### [ United States Senate Democratic Party officials seek a vote of no confidence on Attorney-General Alberto Gonzales. ](/news/2007/05/17/united-states-senate-democratic-party-officials-seek-a-vote-of-no-confidence-on-attorney-general-alberto-gonzales.md)
-_Context: Alberto Gonzales, Attorney General, Democrats, United States Senate, vote of no confidence_
+_Context: Alberto Gonzales, Attorney General, D, senators, vote of no confidence_
 
 ### [ Gordon Brown is confirmed as the next leader of the British Labour Party, taking effect on 24 June. Brown will succeed Tony Blair as Prime Minister of the United Kingdom when he kisses the hand of Queen Elizabeth II on 27 June. ](/news/2007/05/17/gordon-brown-is-confirmed-as-the-next-leader-of-the-british-labour-party-taking-effect-on-24-june-brown-will-succeed-tony-blair-as-prime.md)
-_Context: 24 June, 27 June, Elizabeth II, Gordon Brown, Labour, Prime Minster, Tony Blair, confirmed, kisses the hand_
+_Context: 24 June, 27 June, Elizabeth II, Gordon Brown, Labour Party, Prime Minster, Tony Blair, confirmed, kisses the hand_
 
 ### [ 2007 Israel-Gaza conflict: An Israeli aircraft bombs a building of the Hamas-run Executive Force in Gaza, killing at least one person and injuring about 45 others. ](/news/2007/05/17/2007-israel-gaza-conflict-an-israeli-aircraft-bombs-a-building-of-the-hamas-run-executive-force-in-gaza-killing-at-least-one-person-and-i.md)
 _Context: 2007 Israel-Gaza conflict, Gaza Strip, Hamas, Israel_

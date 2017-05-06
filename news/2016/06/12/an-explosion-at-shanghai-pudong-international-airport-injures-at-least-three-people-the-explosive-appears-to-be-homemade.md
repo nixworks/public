@@ -11,4 +11,5 @@ Explosion at check-in desk seems to have been caused by homemade explosive, says
 
 ### Related:
 
-1. [ Three people are killed and four injured after a Zimbabwean cargo plane catches fire at Shanghai Pudong International Airport. ](/news/2009/11/28/three-people-are-killed-and-four-injured-after-a-zimbabwean-cargo-plane-catches-fire-at-shanghai-pudong-international-airport.md) _Context: Shanghai Pudong International Airport_
+1. [The Comac C919 makes its maiden flight from Shanghai Pudong International Airport, China. ](/news/2017/05/5/the-comac-c919-makes-its-maiden-flight-from-shanghai-pudong-international-airport-china.md) _Context: Shanghai Pudong International Airport_
+2. [ Three people are killed and four injured after a Zimbabwean cargo plane catches fire at Shanghai Pudong International Airport. ](/news/2009/11/28/three-people-are-killed-and-four-injured-after-a-zimbabwean-cargo-plane-catches-fire-at-shanghai-pudong-international-airport.md) _Context: Shanghai Pudong International Airport_
