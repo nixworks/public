@@ -8,6 +8,7 @@ France goes to the polls on Sunday for the final round of the presidential elect
 ### Source:
 
 1. [Bloomberg](https://www.bloomberg.com/politics/articles/2017-05-05/france-votes-an-hour-by-hour-guide-to-the-presidential-election-j2bwgxko)
+2. [The Independent](http://www.independent.co.uk/news/world/europe/emmanuel-macron-email-hack-leaks-election-marine-le-pen-russia-media-ordered-not-publish-commission-a7721111.html)
 
 ### Related:
 
