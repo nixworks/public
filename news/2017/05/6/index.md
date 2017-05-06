@@ -6,6 +6,12 @@ American special forces are in the country as part of a train and advise mission
 ### [A young man is shot dead in Valencia, Carabobo, amid ongoing protests against the government of Nicolas Maduro. A video circulates on social media showing protesters tearing down a statue of former President Hugo Chavez in Rosario de Perija. ](/news/2017/05/6/a-young-man-is-shot-dead-in-valencia-carabobo-amid-ongoing-protests-against-the-government-of-nicola-s-maduro-a-video-circulates-on-socia.md)
 Young protester shot in the head amid continuation of demonstrations that brand President Nicolás Maduro a dictator and demand elections
 
+### [Nigerian officials report, as a result of negotiations, Boko Haram has released 82 schoolgirls who were among about 220 kidnapped from a college in Chibok in Borno State in April 2014. ](/news/2017/05/6/nigerian-officials-report-as-a-result-of-negotiations-boko-haram-has-released-82-schoolgirls-who-were-among-about-220-kidnapped-from-a-col.md)
+Boko Haram militants have released dozens of schoolgirls out of a group of more than 200 whom they kidnapped from the northeastern town of Chibok in April 2014, officials said on Saturday.
+
+### [Pope Francis criticizes naming the U.S. military's biggest non-nuclear explosive as the Mother of All Bombs. The word "mother" should not be used in reference to a deadly weapon. ](/news/2017/05/6/pope-francis-criticizes-naming-the-u-s-military-s-biggest-non-nuclear-explosive-as-the-mother-of-all-bombs-the-word-mother-should-not-be.md)
+_Context: Mother of All Bombs, Pope Francis_
+
 ### [Severe Tropical Cyclone Donna is upgraded to a Category Four, and continues to damage houses and infrastructure in the north of Vanuatu, particularly in Torba Province. ](/news/2017/05/6/severe-tropical-cyclone-donna-is-upgraded-to-a-category-four-and-continues-to-damage-houses-and-infrastructure-in-the-north-of-vanuatu-par.md)
 _Context: 2016-17 South Pacific cyclone season, Category Four, Torba Province, Vanuatu_
 
