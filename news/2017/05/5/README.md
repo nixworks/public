@@ -12,8 +12,17 @@ _Context: Ben Cardin, D, FL, MD, Marco Rubio, Philippine National Police, R, U.S
 ### [The Indian Supreme Court upholds the death sentences imposed on four men convicted in the  2012 gang rape and murder of a 23-year-old woman on board a bus in South Delhi. ](/news/2017/05/5/the-indian-supreme-court-upholds-the-death-sentences-imposed-on-four-men-convicted-in-the-2012-gang-rape-and-murder-of-a-23-year-old-woman.md)
 The Supreme Court on Friday upheld death sentences against four men who fatally gang raped a woman on board a bus in 2012, a crime that sparked widespread protests and drew international attention to violence against women.
 
-### [Early results from yesterday's elections indicate that the Conservative Party has gained ground, while the Labour Party and the UK Independence Party have lost ground. ](/news/2017/05/5/early-results-from-yesterday-s-elections-indicate-that-the-conservative-party-has-gained-ground-while-the-labour-party-and-the-uk-independe.md)
-Result of local and mayoral elections could provide an early picture of Tory and Labour prospects in general election on 8 June
+### [Hundreds of prisoners escape from an overcrowded jail in Pekanbaru, Indonesia. ](/news/2017/05/5/hundreds-of-prisoners-escape-from-an-overcrowded-jail-in-pekanbaru-indonesia.md)
+Indonesian authorities search for scores of inmates who escaped from an overcrowded prison.
+
+### [Results from yesterday's elections show significant swings towards the Conservative Party and away from the Labour Party. ](/news/2017/05/5/results-from-yesterday-s-elections-show-significant-swings-towards-the-conservative-party-and-away-from-the-labour-party.md)
+_Context: Conservative Party, Labour Party, United Kingdom local elections, 2017_
+
+### [Results from yesterday's election give a reduced majority of seats to Abdelaziz Bouteflika's incumbent coalition. ](/news/2017/05/5/results-from-yesterday-s-election-give-a-reduced-majority-of-seats-to-abdelaziz-bouteflika-s-incumbent-coalition.md)
+National Liberation Front secures majority in national assembly, but loses quarter of seats in Thursday&#39;s vote.
+
+### [Election frontrunner Emmanuel Macron is the victim of a "massive and co-ordinated hacking event". ](/news/2017/05/5/election-frontrunner-emmanuel-macron-is-the-victim-of-a-massive-and-co-ordinated-hacking-event.md)
+_Context: Emmanuel Macron, French presidential election, 2017_
 
 ### [The Comac C919 makes its maiden flight from Shanghai Pudong International Airport, China. ](/news/2017/05/5/the-comac-c919-makes-its-maiden-flight-from-shanghai-pudong-international-airport-china.md)
 _Context: Comac C919, Shanghai Pudong International Airport_
