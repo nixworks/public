@@ -9,6 +9,9 @@ Young protester shot in the head amid continuation of demonstrations that brand 
 ### [Severe Tropical Cyclone Donna is upgraded to a Category Four, and continues to damage houses and infrastructure in the north of Vanuatu, particularly in Torba Province. ](/news/2017/05/6/severe-tropical-cyclone-donna-is-upgraded-to-a-category-four-and-continues-to-damage-houses-and-infrastructure-in-the-north-of-vanuatu-par.md)
 _Context: 2016-17 South Pacific cyclone season, Category Four, Torba Province, Vanuatu_
 
+### [As many as 30 people, mostly children, are killed after a school bus plunges off a road into a steep ravine in the Arusha Region of northern Tanzania. ](/news/2017/05/6/as-many-as-30-people-mostly-children-are-killed-after-a-school-bus-plunges-off-a-road-into-a-steep-ravine-in-the-arusha-region-of-northern.md)
+The students from a primary school in northern Tanzania were travelling to sit an exam.
+
 ### [Voting begins in territories and diplomatic missions west of Metropolitan France for the second round of the presidential election between Emmanuel Macron and Marine Le Pen. ](/news/2017/05/6/voting-begins-in-territories-and-diplomatic-missions-west-of-metropolitan-france-for-the-second-round-of-the-presidential-election-between-e.md)
 France goes to the polls on Sunday for the final round of the presidential election, with Emmanuel Macron and Marine Le Pen vying to be the country’s next head of state. After the candidates from France’s traditional parties were eliminated in the first round, the most dramatic election campaign in the 59-year history of the Fifth Republic comes down to a stark choice between an independent centrist promising a renewal of European alliances and a nationalist who wants to pull out of the euro and
 
