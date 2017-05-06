@@ -1,5 +1,8 @@
 ## [News](/news/2017/05/6/index.md)
 
+### [Pope Francis criticizes naming the U.S. military's biggest non-nuclear explosive as the Mother of All Bombs, saying that the word "mother" should not be used in reference to a deadly weapon. ](/news/2017/05/6/pope-francis-criticizes-naming-the-u-s-military-s-biggest-non-nuclear-explosive-as-the-mother-of-all-bombs-saying-that-the-word-mother-s.md)
+_Context: Mother of All Bombs, Pope Francis, War in Afghanistan (2001-present)_
+
 ### [A United States Navy SEAL is killed, becoming the first U.S. service member killed in Somalia since 1993, and three others are injured in a gunfight with al-Shabaab militants, west of Mogadishu.  ](/news/2017/05/6/a-united-states-navy-seal-is-killed-becoming-the-first-u-s-service-member-killed-in-somalia-since-1993-and-three-others-are-injured-in-a.md)
 American special forces are in the country as part of a train and advise mission.
 
@@ -9,17 +12,14 @@ Young protester shot in the head amid continuation of demonstrations that brand 
 ### [Nigerian officials report, as a result of negotiations, Boko Haram has released 82 schoolgirls who were among about 220 kidnapped from a college in Chibok in Borno State in April 2014. ](/news/2017/05/6/nigerian-officials-report-as-a-result-of-negotiations-boko-haram-has-released-82-schoolgirls-who-were-among-about-220-kidnapped-from-a-col.md)
 Boko Haram militants have released dozens of schoolgirls out of a group of more than 200 whom they kidnapped from the northeastern town of Chibok in April 2014, officials said on Saturday.
 
-### [Pope Francis criticizes naming the U.S. military's biggest non-nuclear explosive as the Mother of All Bombs. The word "mother" should not be used in reference to a deadly weapon. ](/news/2017/05/6/pope-francis-criticizes-naming-the-u-s-military-s-biggest-non-nuclear-explosive-as-the-mother-of-all-bombs-the-word-mother-should-not-be.md)
-_Context: Mother of All Bombs, Pope Francis_
+### [American comedian Stephen Colbert is to be investigated by the Federal Communications Commission over a 'joke' about U.S. president Donald Trump. ](/news/2017/05/6/american-comedian-stephen-colbert-is-to-be-investigated-by-the-federal-communications-commission-over-a-joke-about-u-s-president-donald-t.md)
+TV network CBS faces a fine if the joke, perceived by some to be homophobic, is deemed &quot;indecent&quot;.
 
 ### [Severe Tropical Cyclone Donna is upgraded to a Category Four, and continues to damage houses and infrastructure in the north of Vanuatu, particularly in Torba Province. ](/news/2017/05/6/severe-tropical-cyclone-donna-is-upgraded-to-a-category-four-and-continues-to-damage-houses-and-infrastructure-in-the-north-of-vanuatu-par.md)
 _Context: 2016-17 South Pacific cyclone season, Category Four, Torba Province, Vanuatu_
 
 ### [As many as 30 people, mostly children, are killed after a school bus plunges off a road into a steep ravine in the Arusha Region of northern Tanzania. ](/news/2017/05/6/as-many-as-30-people-mostly-children-are-killed-after-a-school-bus-plunges-off-a-road-into-a-steep-ravine-in-the-arusha-region-of-northern.md)
 The students from a primary school in northern Tanzania were travelling to sit an exam.
-
-### [US comedian Stephen Colbert is to be investigated by the Federal Communications Commission over a joke about President Donald Trump. ](/news/2017/05/6/us-comedian-stephen-colbert-is-to-be-investigated-by-the-federal-communications-commission-over-a-joke-about-president-donald-trump.md)
-TV network CBS faces a fine if the joke, perceived by some to be homophobic, is deemed &quot;indecent&quot;.
 
 ### [Voting begins in territories and diplomatic missions west of Metropolitan France for the second round of the presidential election between Emmanuel Macron and Marine Le Pen. ](/news/2017/05/6/voting-begins-in-territories-and-diplomatic-missions-west-of-metropolitan-france-for-the-second-round-of-the-presidential-election-between-e.md)
 France goes to the polls on Sunday for the final round of the presidential election, with Emmanuel Macron and Marine Le Pen vying to be the country’s next head of state. After the candidates from France’s traditional parties were eliminated in the first round, the most dramatic election campaign in the 59-year history of the Fifth Republic comes down to a stark choice between an independent centrist promising a renewal of European alliances and a nationalist who wants to pull out of the euro and
