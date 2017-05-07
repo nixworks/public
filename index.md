@@ -1,5 +1,8 @@
 ## [News](/news/2017/05/7/index.md)
 
+### [At least 11 people are dead after a bus and truck collide in Vietnam's Gia Lai province. ](/news/2017/05/7/at-least-11-people-are-dead-after-a-bus-and-truck-collide-in-vietnam-s-gia-lai-province.md)
+HANOI (AFP) - A truck driving in the wrong direction on a one-way road smashed into a bus in Vietnam&#039;s central highlands on Sunday (May 7) killing at least 11 people, state media said.. Read more at straitstimes.com.
+
 ### [Voters in France return to the polls for a run-off, to elect either Emmanuel Macron or Marine Le Pen as the new President of France. Final opinion polls continue to predict that the centrist Macron will defeat the far-right Le Pen. ](/news/2017/05/7/voters-in-france-return-to-the-polls-for-a-run-off-to-elect-either-emmanuel-macron-or-marine-le-pen-as-the-new-president-of-france-final-o.md)
 Opinion polls over the past two weeks have consistently suggested Emmanuel Macron is about 20 points ahead of his rival, but in an era of political upsets and growing populism, many are unwilling to write off Marine Le Pen.
 
@@ -17,7 +20,7 @@ _Context: Mother of All Bombs, Pope Francis, War in Afghanistan (2001-present)_
 ### [A United States Navy SEAL is killed, becoming the first U.S. service member killed in Somalia since 1993, and three others are injured in a gunfight with al-Shabaab militants, west of Mogadishu.  ](/news/2017/05/6/a-united-states-navy-seal-is-killed-becoming-the-first-u-s-service-member-killed-in-somalia-since-1993-and-three-others-are-injured-in-a.md)
 American special forces are in the country as part of a train and advise mission.
 
-### [A young man is shot dead in Valencia, Carabobo, amid ongoing protests against the government of Nicolas Maduro. A video circulates on social media showing protesters tearing down a statue of former President Hugo Chavez in Rosario de Perija. ](/news/2017/05/6/a-young-man-is-shot-dead-in-valencia-carabobo-amid-ongoing-protests-against-the-government-of-nicola-s-maduro-a-video-circulates-on-socia.md)
+### [A young man is shot dead in Valencia, Carabobo, amid ongoing protests against the government of Nicolas Maduro. Protesters tear down a statue of former President Hugo Chavez in Rosario de Perija. ](/news/2017/05/6/a-young-man-is-shot-dead-in-valencia-carabobo-amid-ongoing-protests-against-the-government-of-nicola-s-maduro-protesters-tear-down-a-stat.md)
 Young protester shot in the head amid continuation of demonstrations that brand President Nicolás Maduro a dictator and demand elections
 
 ### [Nigerian officials report, as a result of negotiations, Boko Haram has released an estimated 82 schoolgirls who were among about 220 kidnapped from a secondary school in Chibok in Borno State in April 2014. ](/news/2017/05/6/nigerian-officials-report-as-a-result-of-negotiations-boko-haram-has-released-an-estimated-82-schoolgirls-who-were-among-about-220-kidnapp.md)
