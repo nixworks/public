@@ -12,8 +12,8 @@ Mayor Denis Coderre has declared a state of emergency for Montreal amid the risk
 ### [France bans the breeding of killer whales and dolphins in captivity and orders aquariums and water parks to expand their pools within three years following a campaign by animal rights groups. ](/news/2017/05/7/france-bans-the-breeding-of-killer-whales-and-dolphins-in-captivity-and-orders-aquariums-and-water-parks-to-expand-their-pools-within-three.md)
 France has banned the breeding of killer whales and dolphins in captivity. Campaigners hope the move will eventually bring an end to shows involving the marine animals. The government has also banned the captivity of all whales, dolphins and porpoises, except for orcas and bottlenose dolphins.
 
-### [Voters in France return to the polls for a run-off, to elect either Emmanuel Macron or Marine Le Pen as the new President of France. Final opinion polls continue to predict that the centrist Macron will defeat the far-right Le Pen. ](/news/2017/05/7/voters-in-france-return-to-the-polls-for-a-run-off-to-elect-either-emmanuel-macron-or-marine-le-pen-as-the-new-president-of-france-final-o.md)
-Opinion polls over the past two weeks have consistently suggested Emmanuel Macron is about 20 points ahead of his rival, but in an era of political upsets and growing populism, many are unwilling to write off Marine Le Pen.
+### [Emmanuel Macron is elected President of France with 65.1% of the vote. ](/news/2017/05/7/emmanuel-macron-is-elected-president-of-france-with-65-1-of-the-vote.md)
+Centrist independent is projected to win by 65.1% to 34.9% but defeat still marks historically high vote for France’s far right
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
