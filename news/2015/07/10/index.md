@@ -1,7 +1,7 @@
 ## [2015-07-10](/news/2015/07/10/index.md)
 
 ### [ Al Shabaab militants have stormed two hotels in Somalia's capital Mogadishu killing at least 10 civilians. ](/news/2015/07/10/al-shabaab-militants-have-stormed-two-hotels-in-somalia-s-capital-mogadishu-killing-at-least-10-civilians.md)
-_Context: Mogadishu, Somali, War in Somalia (2009-present), al-Shabaab_
+_Context: Mogadishu, Somalia, War in Somalia (2009-present), al-Shabaab_
 
 ### [Turkey arrests 21 people with alleged links to Daesh (ISIL). ](/news/2015/07/10/turkey-arrests-21-people-with-alleged-links-to-daesh-isil.md)
 _Context: Daesh, ISIL, Islamic State in Iraq and the Levant, Turkey_

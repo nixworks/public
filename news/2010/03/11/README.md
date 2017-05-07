@@ -25,7 +25,7 @@ More than 30,000 people join rally against austerity plans as services grind to 
 _Context: Abuja, Jos, Nigeria, events earlier this year_
 
 ### [More than 20 civilians die during the second day of conflict between Somali government troops and opposition forces in Mogadishu. ](/news/2010/03/11/more-than-20-civilians-die-during-the-second-day-of-conflict-between-somali-government-troops-and-opposition-forces-in-mogadishu.md)
-_Context: Mogadishu, Somali_
+_Context: Mogadishu, Somalia_
 
 ### [The Gambia arrests people, including former fisheries minister Antouman Saho, without telling them why. ](/news/2010/03/11/the-gambia-arrests-people-including-former-fisheries-minister-antouman-saho-without-telling-them-why.md)
 _Context: Antouman Saho, the Gambia_

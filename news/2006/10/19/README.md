@@ -19,7 +19,7 @@ _Context: Duke, metamaterials_
 _Context: Dow Jones Industrial Average_
 
 ### [ Jendayi Frazer, U.S. Assistant Secretary of State for African Affairs, accuses Eritrea of arming the Islamic Courts Union in Somalia and of attacking Ethiopia. ](/news/2006/10/19/jendayi-frazer-u-s-assistant-secretary-of-state-for-african-affairs-accuses-eritrea-of-arming-the-islamic-courts-union-in-somalia-and-of.md)
-_Context: Assistant Secretary of State for African Affairs, Eritrea, Ethiopia, Islamic Courts Union, Jendayi Frazer, Somali_
+_Context: Assistant Secretary of State for African Affairs, Eritrea, Ethiopia, Islamic Courts Union, Jendayi Frazer, Somalia_
 
 ### [ A spokesman for New York Attorney General Eliot Spitzer says that a judge has ordered former New York Stock Exchange Chairman and Chief Executive Richard Grasso to repay part of his deferred compensation pay package. ](/news/2006/10/19/a-spokesman-for-new-york-attorney-general-eliot-spitzer-says-that-a-judge-has-ordered-former-new-york-stock-exchange-chairman-and-chief-exe.md)
 _Context: Eliot Spitzer, New York, New York Stock Exchange, Richard Grasso_
@@ -31,7 +31,7 @@ _Context: U.S., space weapon_
 Find the latest business news on Wall Street, jobs and the economy, the housing market, personal finance and money investments and much more on ABC News
 
 ### [ Ethiopia's prime minister Meles Zenawi tells the parliament that he had sent military trainers to help Somalia's struggling government, but had not deployed a fighting force. ](/news/2006/10/19/ethiopia-s-prime-minister-meles-zenawi-tells-the-parliament-that-he-had-sent-military-trainers-to-help-somalia-s-struggling-government-but.md)
-_Context: Ethiopia, Meles Zenawi, Prime Minister, Somali_
+_Context: Ethiopia, Meles Zenawi, Prime Minister, Somalia_
 
 ### [ 2006 North Korean nuclear testing: former Chinese Foreign Minister Tang Jiaxuan has met North Korea's reclusive leader Kim Jong-il as tensions mount over the North's nuclear test, according to Chinese officials. ](/news/2006/10/19/2006-north-korean-nuclear-testing-p-former-chinese-foreign-minister-tang-jiaxuan-has-met-north-korea-s-reclusive-leader-kim-jong-il-as-tens.md)
 _Context: 2006, Kim Jong-il, Tang Jiaxuan_

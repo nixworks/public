@@ -7,13 +7,13 @@ _Context: Catholic, Republic of Ireland, Roman Catholic, Treaty of Lisbon, bisho
 _Context: 'Amran Governorate, Yemen, soldiers_
 
 ### [ The President of France Nicolas Sarkozy says European Union leaders agree to impose a cap on banker pay. ](/news/2009/09/17/the-president-of-france-nicolas-sarkozy-says-european-union-leaders-agree-to-impose-a-cap-on-banker-pay.md)
-_Context: European Union, Nicolas Sarkozy, banking, president_
+_Context: European Union, Nicolas Sarkozy, President of France, banking_
 
 ### [ The Prime Minister of the Czech Republic, Jan Fischer, says that President Barack Obama told him that the United States is abandoning plans for a missile shield based in Poland and the Czech Republic. ](/news/2009/09/17/the-prime-minister-of-the-czech-republic-jan-fischer-says-that-president-barack-obama-told-him-that-the-united-states-is-abandoning-plans.md)
 _Context: Czech, Jan Fischer, Obama, Poland, President, Prime Minister of the Czech Republic, U.S., missile shield_
 
 ### [ Two large explosions hit the main base of African Union peacekeepers in Mogadishu, Somalia. ](/news/2009/09/17/two-large-explosions-hit-the-main-base-of-african-union-peacekeepers-in-mogadishu-somalia.md)
-_Context: African Union, Mogadishu, Somali_
+_Context: African Union, Mogadishu, Somalia_
 
 ### [ Shia insurgency in Yemen: More than 80 people are killed in an air raid on a camp for displaced people in northern Yemen. ](/news/2009/09/17/shia-insurgency-in-yemen-more-than-80-people-are-killed-in-an-air-raid-on-a-camp-for-displaced-people-in-northern-yemen.md)
 _Context: Shia insurgency in Yemen, Yemen_

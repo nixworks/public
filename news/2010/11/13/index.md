@@ -34,7 +34,7 @@ Pro-democracy leader emerges from seven-year house arrest and addresses supporte
 _Context: Bangladesh, Dhaka, Khaleda Zia_
 
 ### [The French Cabinet led by Prime Minister Francois Fillon resigns ahead of a reshuffle by President Nicolas Sarkozy. ](/news/2010/11/13/the-french-cabinet-led-by-prime-minister-franassois-fillon-resigns-ahead-of-a-reshuffle-by-president-nicolas-sarkozy.md)
-_Context: France, Francois Fillon, Nicolas Sarkozy, Prime Minister, president_
+_Context: France, Francois Fillon, Nicolas Sarkozy, President of France, Prime Minister_
 
 ## [Previous Day...](/news/2010/11/12/index.md)
 

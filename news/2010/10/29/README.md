@@ -25,7 +25,7 @@ At least nine Mexican police officers are shot and killed in an ambush - the six
 _Context: Niger Delta, Nigeria_
 
 ### [Al-Shabaab militants take control of a town on the border between Somalia, Ethiopia and Kenya from pro-government forces, following fighting that displaced 60,000 people. ](/news/2010/10/29/al-shabaab-militants-take-control-of-a-town-on-the-border-between-somalia-ethiopia-and-kenya-from-pro-government-forces-following-fighting.md)
-_Context: Ethiopia, Kenya, Somali, al-Shabaab_
+_Context: Ethiopia, Kenya, Somalia, al-Shabaab_
 
 ### [Russian and American forces conduct their first joint anti-narcotics operation in Afghanistan. ](/news/2010/10/29/russian-and-american-forces-conduct-their-first-joint-anti-narcotics-operation-in-afghanistan.md)
 Russian and U.S. special forces have carried out their first joint anti-narcotics operation in Afghanistan that marked the first time Russian security personnel set foot in that country in more than 2

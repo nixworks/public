@@ -10,7 +10,7 @@ _Context: Beirut, Shiite, car bomb_
 At least five people are killed in an attack on the Kenyan coast, close to the scene of raids last week in which more than 60 people died.
 
 ### [An Afghan man who saved the life of a Navy SEAL requests asylum in the United States after the Taliban has declared they will try to kill him. ](/news/2014/06/24/an-afghan-man-who-saved-the-life-of-a-navy-seal-requests-asylum-in-the-united-states-after-the-taliban-has-declared-they-will-try-to-kill-hi.md)
-_Context: United States Navy SEALs_
+_Context: United States Navy SEAL_
 
 ### [At least 1 killed and 2 injured as unidentified gunmen open fire on a Pakistan International Airlines aircraft at Bacha Khan International Airport in Peshawar, Pakistan. ](/news/2014/06/24/at-least-1-killed-and-2-injured-as-unidentified-gunmen-open-fire-on-a-pakistan-international-airlines-aircraft-at-bacha-khan-international-a.md)
 _Context: Bacha Khan International Airport, Pakistan International Airlines, Peshawar_

@@ -16,7 +16,7 @@ A protester has been shot dead by security forces in the city of Qatif in easter
 _Context: England, gay_
 
 ### [Secessionists battle with forces from Somaliland near the border with Puntland in northern Somalia. ](/news/2012/02/10/secessionists-battle-with-forces-from-somaliland-near-the-border-with-puntland-in-northern-somalia.md)
-_Context: Puntland, Somali, Somaliland_
+_Context: Puntland, Somalia, Somaliland_
 
 ### [The United States Secretary of Defense Leon Panetta tells the Marine Corps to re-investigate and take appropriate action against snipers who posed with a logo resembling that of the Nazi Schutzstaffel in Afghanistan. ](/news/2012/02/10/the-united-states-secretary-of-defense-leon-panetta-tells-the-marine-corps-to-re-investigate-and-take-appropriate-action-against-snipers-who.md)
 _Context: Afghanistan, Leon Panetta, Nazi, Schutzstaffel, Secretary of Defense, United States Marine Corps, sniper_

@@ -13,7 +13,7 @@ _Context: Houthi, Mocha, Saudi-led coalition, Yemen, Yemeni Civil War (2015-pres
 NEW ORLEANS (AP) — The tornadoes that struck southeastern Louisiana on Tuesday injured about 20 people, destroyed homes and businesses, flipped cars and trucks, and left about 10,000 customers without power, but no deaths…
 
 ### [Former President of France Nicolas Sarkozy is ordered to stand trial for alleged campaign finance fraud during his failed 2012 presidential election campaign. ](/news/2017/02/7/former-president-of-france-nicolas-sarkozy-is-ordered-to-stand-trial-for-alleged-campaign-finance-fraud-during-his-failed-2012-presidential.md)
-_Context: 2012 presidential election, Nicolas Sarkozy, president_
+_Context: 2012 presidential election, Nicolas Sarkozy, President of France_
 
 ### [The Ninth Circuit Court of Appeals holds a hearing, by telephone, for the U.S. Justice Department and plaintiffs (states of Washington and Minnesota) arguments whether or not to reinstate the travel ban suspended on Friday by U.S. District Court Judge James Robart. Judge Michelle Friedland states the court will work to deliver its decision quickly. ](/news/2017/02/7/the-ninth-circuit-court-of-appeals-holds-a-hearing-by-telephone-for-the-u-s-justice-department-and-plaintiffs-states-of-washington-and-m.md)
 The U.S. Court of Appeals for the 9th Circuit asked the Justice Department and lawyers for the states of Washington and Minnesota to argue the matter Tuesday.

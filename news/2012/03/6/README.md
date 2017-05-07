@@ -16,7 +16,7 @@ Songwriter Robert Sherman, who composed classic Disney tunes such as Supercalifr
 Lehman Brothers, the US investment bank that collapsed in 2008, exits bankruptcy protection to sell its remaining assets.
 
 ### [Turkish Airlines begins a service to Somalia, the first regular service to the capital Mogadishu except regional East African flights to operate in twenty years. ](/news/2012/03/6/turkish-airlines-begins-a-service-to-somalia-the-first-regular-service-to-the-capital-mogadishu-except-regional-east-african-flights-to-ope.md)
-_Context: East Africa, Mogadishu, Somali, Turkish Airlines_
+_Context: East Africa, Mogadishu, Somalia, Turkish Airlines_
 
 ### [Approximately 9,000 residents of the Australian town of Wagga Wagga, New South Wales, are evacuated as the Murrumbidgee River nears record levels threatening the town's levee. ](/news/2012/03/6/approximately-9-000-residents-of-the-australian-town-of-wagga-wagga-new-south-wales-are-evacuated-as-the-murrumbidgee-river-nears-record-l.md)
 _Context: Australia, Murrumbidgee River, Wagga Wagga, New South Wales, levee_

@@ -19,7 +19,7 @@ Police in Bahrain detain prominent blogger and rights activist Zainab al-Khawaja
 Homosexuals and transgender people in all regions face discrimination and violence, including killings, rape and torture because of their orientation, and risk the death penalty in at least five countries, the United Nations said on Thursday.
 
 ### [Former President of France Jacques Chirac is found guilty of embezzlement and violating trust due to his hiring members of his party to fill non-existent jobs while Mayor of Paris. ](/news/2011/12/15/former-president-of-france-jacques-chirac-is-found-guilty-of-embezzlement-and-violating-trust-due-to-his-hiring-members-of-his-party-to-fill.md)
-_Context: Jacques Chirac, Mayor of Paris, embezzlement, president_
+_Context: Jacques Chirac, Mayor of Paris, President of France, embezzlement_
 
 ### [Former editor of ''The Sun'' and the ''News of the World'' Piers Morgan is called to give evidence before the Leveson Inquiry, and will appear next week. ](/news/2011/12/15/former-editor-of-the-sun-and-the-news-of-the-world-piers-morgan-is-called-to-give-evidence-before-the-leveson-inquiry-and-will-appe.md)
 _Context: Leveson Inquiry, News of the World, Piers Morgan, The Sun_

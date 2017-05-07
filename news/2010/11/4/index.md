@@ -4,7 +4,7 @@
 _Context: Burma, ethnic groups, general elections_
 
 ### [The United Nations says child soldiers continue to be recruited to fight and engage in piracy in Somalia. ](/news/2010/11/4/the-united-nations-says-child-soldiers-continue-to-be-recruited-to-fight-and-engage-in-piracy-in-somalia.md)
-_Context: Somali, Somali pirates, United Nations, child soldiers_
+_Context: Somali pirates, Somalia, United Nations, child soldiers_
 
 ### [Somali pirates hijack a vessel under the flag of the Comoros Islands with 29 people on board off the coast of Tanzania. ](/news/2010/11/4/somali-pirates-hijack-a-vessel-under-the-flag-of-the-comoros-islands-with-29-people-on-board-off-the-coast-of-tanzania.md)
 _Context: Comoros Islands, Tanzania_

@@ -46,7 +46,7 @@ _Context: Oxford, River Thames_
 _Context: North Korea, South Korea_
 
 ### [ The President of France Nicolas Sarkozy travels to Libya following the release of the medical workers sentenced to death in the HIV trial in Libya. ](/news/2007/07/25/the-president-of-france-nicolas-sarkozy-travels-to-libya-following-the-release-of-the-medical-workers-sentenced-to-death-in-the-hiv-trial-i.md)
-_Context: HIV trial in Libya, Libya, Nicolas Sarkozy, president_
+_Context: HIV trial in Libya, Libya, Nicolas Sarkozy, President of France_
 
 ### [ Controversial American academic Ward Churchill is dismissed by the Board of Regents of the University of Colorado after accusations of academic misconduct. ](/news/2007/07/25/controversial-american-academic-ward-churchill-is-dismissed-by-the-board-of-regents-of-the-university-of-colorado-after-accusations-of-acad.md)
 _Context: Board of Regents, Colorado, Ward Churchill_

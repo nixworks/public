@@ -25,7 +25,7 @@ _Context: Bill Richardson, Governor, House, New Mexico, bill into law, death pen
 _Context: Ben Bernanke, Chairman of the Federal Reserve, Federal Reserve System, U.S., United States Department of the Treasury, caps, yields_
 
 ### [ Somali pirates hijack an Iranian fishing vessel in the Gulf of Aden.  ](/news/2009/03/18/somali-pirates-hijack-an-iranian-fishing-vessel-in-the-gulf-of-aden.md)
-_Context: Gulf of Aden, Iran, Somali, Somali pirates, fishing boat_
+_Context: Gulf of Aden, Iran, Somali pirates, Somalia, fishing boat_
 
 ## [Previous Day...](/news/2009/03/17/index.md)
 

@@ -1,7 +1,7 @@
 ## [2008-10-17](/news/2008/10/17/index.md)
 
 ### [ The President of France Nicolas Sarkozy withdraws tacit support for the Quebec sovereignty movement shown by some of his predecessors in a visit to Quebec City. ](/news/2008/10/17/the-president-of-france-nicolas-sarkozy-withdraws-tacit-support-for-the-quebec-sovereignty-movement-shown-by-some-of-his-predecessors-in-a.md)
-_Context: Nicolas Sarkozy, Quebec City, Quebec sovereignty movement, president_
+_Context: Nicolas Sarkozy, President of France, Quebec City, Quebec sovereignty movement_
 
 ### [ U.S. Congressman Vito Fossella is convicted of drunken driving. ](/news/2008/10/17/u-s-congressman-vito-fossella-is-convicted-of-drunken-driving.md)
 Fox 5 NY, New York News, Breaking News, weather, sports, traffic, entertainment

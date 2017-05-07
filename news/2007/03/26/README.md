@@ -25,7 +25,7 @@ _Context: Alan Johnston, Arab League, BBC News, Gaza Strip, Reporters without Bo
 _Context: Japan, Prime Minister, Shinzo Abe, World War II, brothel, sex slave, women_
 
 ### [ French presidential election: Nicolas Sarkozy resigns as Interior Minister to concentrate on his presidential candidacy. ](/news/2007/03/26/french-presidential-election-nicolas-sarkozy-resigns-as-interior-minister-to-concentrate-on-his-presidential-candidacy.md)
-_Context: 2007 presidential election, Minister of the Interior, Nicolas Sarkozy, president_
+_Context: 2007 presidential election, Minister of the Interior, Nicolas Sarkozy, President of France_
 
 ### [ Egyptians go to the polls to vote on 34 amendments to the constitution of Egypt which the government claims will help combat terrorism. Opposition groups are boycotting the referendum claiming that they will erode civil liberties. The amendments achieved approval with 76% of the vote but with only a 27% turnout. ](/news/2007/03/26/egyptians-go-to-the-polls-to-vote-on-34-amendments-to-the-constitution-of-egypt-which-the-government-claims-will-help-combat-terrorism-opp.md)
 Issues of politics were overshadowed by more basic concerns, like lack of jobs, inadequate housing and the price of food.

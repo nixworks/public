@@ -16,7 +16,7 @@ _Context: Maoist supporters, Nepal, Pushpa Kamal Dahal, ceasefire, unilateral_
 _Context: Japan Meteorological Agency, Kyushu, Okinawa Island, Ryukyu Islands, Saffir-Simpson Hurricane Scale, Typhoon Nabi_
 
 ### [ French President Jacques Chirac, 72, will be hospitalised for a week after suffering a "minor vascular incident" which is affecting his vision. ](/news/2005/09/3/french-president-jacques-chirac-72-will-be-hospitalised-for-a-week-after-suffering-a-minor-vascular-incident-which-is-affecting-his-vis.md)
-_Context: Jacques Chirac, president_
+_Context: Jacques Chirac, President of France_
 
 ## [Previous Day...](/news/2005/09/2/index.md)
 

@@ -22,7 +22,7 @@ _Context: Amnesty International, Hezbollah, Israel, targeting of civilians, war,
 _Context: Mahon Airport, Minorca, Spain_
 
 ### [ The African Union has endorsed an IGAD peacekeeping operation in Somalia, to be known as IGASOM. ](/news/2006/09/14/the-african-union-has-endorsed-an-igad-peacekeeping-operation-in-somalia-to-be-known-as-igasom.md)
-_Context: African Union, IGAD, IGASOM, Somali, peacekeepers_
+_Context: African Union, IGAD, IGASOM, Somalia, peacekeepers_
 
 ## [Previous Day...](/news/2006/09/13/index.md)
 

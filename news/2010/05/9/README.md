@@ -22,7 +22,7 @@ _Context: North Waziristan, Pakistan, U.S._
 A Chinese man who spent nearly 10 years in jail for murder has been cleared after the supposed victim reappeared alive and well.
 
 ### [Somali pirates seize MS ''Marida Marguerite'', a German-owned tanker, off the coast of Somalia. ](/news/2010/05/9/somali-pirates-seize-ms-marida-marguerite-a-german-owned-tanker-off-the-coast-of-somalia.md)
-_Context: Somali, Somali pirates_
+_Context: Somali pirates, Somalia_
 
 ### [Dallas Braden of the Oakland Athletics throws the 19th perfect game in Major League Baseball history in a 4-0 win over the Tampa Bay Rays. ](/news/2010/05/9/dallas-braden-of-the-oakland-athletics-throws-the-19th-perfect-game-in-major-league-baseball-history-in-a-4-0-win-over-the-tampa-bay-rays.md)
 Dallas Braden threw the 19th perfect game in major league history, leading the Oakland Athletics past the Tampa Bay Rays, 4-0.

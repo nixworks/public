@@ -4,7 +4,7 @@
 Dozens of people are killed in a government air strike on a bakery in central Syria, activists say, but Damascus blames the attack on a &quot;terrorist group&quot;.
 
 ### [Piracy in Somalia:Troops in Somalia's region of Puntland free 22 hostages seized by pirates nearly three years ago. ](/news/2012/12/23/piracy-in-somalia-ptroops-in-somalia-s-region-of-puntland-free-22-hostages-seized-by-pirates-nearly-three-years-ago.md)
-_Context: Puntland, Somali, Somali pirates_
+_Context: Puntland, Somali pirates, Somalia_
 
 ### [2012 Northern Mali conflict:Islamists in Mali are reported to have resumed a campaign to destroy mausoleums that they consider idolatrous in the historic city of Timbuktu. ](/news/2012/12/23/2012-northern-mali-conflict-pislamists-in-mali-are-reported-to-have-resumed-a-campaign-to-destroy-mausoleums-that-they-consider-idolatrous-i.md)
 Islamists in Mali are reported to have resumed a campaign to destroy mausoleums that they consider idolatrous in the historic city of Timbuktu.

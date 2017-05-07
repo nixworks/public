@@ -4,7 +4,7 @@
 _Context: Hakkari Province, IED, Semdinli, Turkey-PKK conflict, Turkish Army_
 
 ### [The President of France, Francois Hollande, presents the Legion d'honneur to four people, three of them Americans, Spencer Stone, Alek Skarlatos, Anthony Sadler; and Briton Chris Norman, for foiling a suspected terrorist act last Friday. ](/news/2015/08/24/the-president-of-france-franassois-hollande-presents-the-la-c-gion-d-honneur-to-four-people-three-of-them-americans-spencer-stone-alek-ska.md)
-_Context: 2015 Thalys attack, Francois Hollande, Legion d'honneur, president, terrorism_
+_Context: 2015 Thalys attack, Francois Hollande, Legion d'honneur, President of France, terrorism_
 
 ### [A bomb explodes on a bus carrying Egyptian police killing one of them and injuring 29 others in the Nile delta. ](/news/2015/08/24/a-bomb-explodes-on-a-bus-carrying-egyptian-police-killing-one-of-them-and-injuring-29-others-in-the-nile-delta.md)
 A bomb struck a bus carrying Egyptian policemen today, killing one and wounding 29, police said, the latest attack against security forces who are being targeted by Islamist State group jihadists.

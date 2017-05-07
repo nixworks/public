@@ -13,7 +13,7 @@ _Context: Afghanistan, NATO, Taliban insurgency, U.S._
 _Context: its largest political protest_
 
 ### [ Battle of Mogadishu (November 2007): More than 70 people die and over 200 are wounded in battles in Somalia's capital, Mogadishu. ](/news/2007/11/10/battle-of-mogadishu-november-2007-more-than-70-people-die-and-over-200-are-wounded-in-battles-in-somalia-s-capital-mogadishu.md)
-_Context: Battle of Mogadishu (November 2007), Mogadishu, Somali_
+_Context: Battle of Mogadishu (November 2007), Mogadishu, Somalia_
 
 ### [ 2007 North Sea flood: The German ports of Hamburg and Bremerhaven suffer in the floods. ](/news/2007/11/10/2007-north-sea-flood-the-german-ports-of-hamburg-and-bremerhaven-suffer-in-the-floods.md)
 _Context: 2007 North Sea flood, Bremerhaven, Germany, Hamburg_

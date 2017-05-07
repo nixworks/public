@@ -16,7 +16,7 @@ _Context: China's, Urumqi, Xinjiang, riots_
 _Context: Bhopal, Bhopal disaster, India_
 
 ### [ Three Somali cabinet ministers are amongst dozens killed in a bomb blast at a university graduation ceremony at a hotel in Mogadishu. ](/news/2009/12/3/three-somali-cabinet-ministers-are-amongst-dozens-killed-in-a-bomb-blast-at-a-university-graduation-ceremony-at-a-hotel-in-mogadishu.md)
-_Context: Mogadishu, Somali, bomb blast, universities_
+_Context: Mogadishu, Somalia, bomb blast, universities_
 
 ### [ Three Iranian pilgrims are killed after their bus exploded at a petrol station in the Syrian capital Damascus. ](/news/2009/12/3/three-iranian-pilgrims-are-killed-after-their-bus-exploded-at-a-petrol-station-in-the-syrian-capital-damascus.md)
 _Context: Damascus, Iran, Syria_

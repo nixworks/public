@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Philippine vice president Leni Robredo faces an impeachment charge before the House of Representatives for condemning the Philippine Drug War at the United Nations. ](/news/2017/05/2/philippine-vice-president-leni-robredo-faces-an-impeachment-charge-before-the-house-of-representatives-for-condemning-the-philippine-drug-wa.md) _Context: Philippine_
+1. [Philippine vice president Leni Robredo faces an impeachment charge before the House of Representatives for condemning the country's war on drugs at the United Nations. ](/news/2017/05/2/philippine-vice-president-leni-robredo-faces-an-impeachment-charge-before-the-house-of-representatives-for-condemning-the-country-s-war-on-d.md) _Context: Philippine_
 2. [ Czech Prime Minister Bohuslav Sobotka has announced that he will submit his government's resignation because of a disagreement with Finance Minister Andrej Babis. ](/news/2017/05/2/czech-prime-minister-bohuslav-sobotka-has-announced-that-he-will-submit-his-government-s-resignation-because-of-a-disagreement-with-finance.md) _Context: Czech_
 3. [A 6.8 earthquake strikes off the coast of Mindanao, Philippines triggering tsunami warnings. ](/news/2017/04/28/a-6-8-earthquake-strikes-off-the-coast-of-mindanao-philippines-triggering-tsunami-warnings.md) _Context: Philippine_
 4. [A Filipino lawyer files a complaint of "mass murder and crimes against humanity" against Philippines president Rodrigo Duterte and eleven other officials at the International Criminal Court in The Hague, Netherlands. ](/news/2017/04/24/a-filipino-lawyer-files-a-complaint-of-mass-murder-and-crimes-against-humanity-against-philippines-president-rodrigo-duterte-and-eleven-ot.md) _Context: Philippine_

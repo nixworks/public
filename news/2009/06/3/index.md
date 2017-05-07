@@ -22,7 +22,7 @@ _Context: Obama, Osama bin Laden, President, U.S., al-Qaeda, cassette, criticize
 _Context: 2009, Jacob Zuma, President of South Africa, South Africa, State of the Nation Address_
 
 ### [ The Nigerian government recaptures 130 of 150 inmates who escaped from a prison in Enugu. ](/news/2009/06/3/the-nigerian-government-recaptures-130-of-150-inmates-who-escaped-from-a-prison-in-enugu.md)
-_Context: Enugu, Nigeria, government, prison escape_
+_Context: Enugu, Nigeria, escape, government_
 
 ### [ Former Malagasy President Marc Ravalomanana is sentenced ''in absentia'' to incarceration until 2013 for misconduct. ](/news/2009/06/3/former-malagasy-president-marc-ravalomanana-is-sentenced-in-absentia-to-incarceration-until-2013-for-misconduct.md)
 _Context: 2013, Madagascar, Marc Ravalomanana, President, in absentia, incarceration, misconduct in office, political crisis_

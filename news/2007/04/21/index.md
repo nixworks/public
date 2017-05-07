@@ -13,7 +13,7 @@ Investigators looked through wreckage Sunday to determine what caused a Navy Blu
 _Context: Egypt, Mohammed al-Attar, Mossad, prison_
 
 ### [ An appeals court decides that the two candidates in the runoff election to decide the next President of East Timor will be current Prime Minister of East Timor Jos Ramos-Horta and Francisco Guterres of Fretilin. Two of the unsuccessful candidates have announced that they will support Dr Ramos-Horta. ](/news/2007/04/21/an-appeals-court-decides-that-the-two-candidates-in-the-runoff-election-to-decide-the-next-president-of-east-timor-will-be-current-prime-mi.md)
-_Context: Francisco Guterres, Fretilin, Jose Ramos-Horta, President, Prime Minister of East Timor, appeals court, second round_
+_Context: Francisco Guterres, Fretilin, Jose Ramos-Horta, President, Prime Minister of East Timor, appeals court, run-off_
 
 ### [ The United States and Australia issue travel advisories warning their citizens not to go to the Philippines due to a potentially imminent terrorist threat. ](/news/2007/04/21/the-united-states-and-australia-issue-travel-advisories-warning-their-citizens-not-to-go-to-the-philippines-due-to-a-potentially-imminent-t.md)
 _Context: Australia, Philippine, U.S., terrorist, travel advisories_

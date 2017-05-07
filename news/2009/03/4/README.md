@@ -10,7 +10,7 @@ _Context: Juarez, Mexico, prison, riot_
 _Context: Gordon Brown, Prime Minster, U.S., U.S. Congressional, United Kingdom, joint session of Congress_
 
 ### [ President Nicolas Sarkozy and eight other top French politicians receive death threats. ](/news/2009/03/4/president-nicolas-sarkozy-and-eight-other-top-french-politicians-receive-death-threats.md)
-_Context: France, Nicolas Sarkozy, death threat, politician, president_
+_Context: France, Nicolas Sarkozy, President of France, death threat, politician_
 
 ### [ China plans to increase its military budget by 14.9% in 2009. ](/news/2009/03/4/china-plans-to-increase-its-military-budget-by-14-9-in-2009.md)
 _Context: China's, military budget_
@@ -34,7 +34,7 @@ _Context: Darfur, International Criminal Court, Omar al-Bashir, President, Sudan
 _Context: Kiev, Naftogas, Security Service of Ukraine, Ukrainian_
 
 ### [ British-Norwegian cruise line Fred Olsen's cruise ship ''Balmoral'' escapes a Somali pirate attack in the Gulf of Aden. ](/news/2009/03/4/british-norwegian-cruise-line-fred-olsen-s-cruise-ship-balmoral-escapes-a-somali-pirate-attack-in-the-gulf-of-aden.md)
-_Context: Balmoral, Fred Olsen, Gulf of Aden, Norway, Somali, Somali pirates, United Kingdom, cruise line, cruise ship_
+_Context: Balmoral, Fred Olsen, Gulf of Aden, Norway, Somali pirates, Somalia, United Kingdom, cruise line, cruise ship_
 
 ### [ The Netherlands' Safety Board finds that Turkish Airlines Flight 1951 crash-landed near Amsterdam's Schiphol Airport because of a faulty altimeter. ](/news/2009/03/4/the-netherlands-safety-board-finds-that-turkish-airlines-flight-1951-crash-landed-near-amsterdam-s-schiphol-airport-because-of-a-faulty-al.md)
 _Context: Amsterdam, Amsterdam Airport Schiphol, Dutch Safety Board, Flight 1951, Netherlands, Turkish Airlines, altimeter, emergency landing_

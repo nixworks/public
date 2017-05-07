@@ -16,7 +16,7 @@ _Context: Fouad Siniora, Lebanon, Prime Minister_
 _Context: Hassan al-Turabi, Popular Congress Party, Sudan, coup_
 
 ### [ Somalian gunmen hijack a ship carrying United Nations food aid and demand $500.000 ransom for the crew.](/news/2005/06/30/somalian-gunmen-hijack-a-ship-carrying-united-nations-food-aid-and-demand-500-000-ransom-for-the-crew.md)
-_Context: Somali, United Nations, food aid, ransom_
+_Context: Somalia, United Nations, food aid, ransom_
 
 ### [ Spain's parliament votes to legalize same-sex marriages, the third European country to do so after the Netherlands and Belgium, and in the same week as Canada. The bill passed by a margin of 40 votes, with 187 votes in favor, 147 opposed, and four abstentions.](/news/2005/06/30/spain-s-parliament-votes-to-legalize-same-sex-marriages-the-third-european-country-to-do-so-after-the-netherlands-and-belgium-and-in-the.md)
 _Context: same-sex marriage_

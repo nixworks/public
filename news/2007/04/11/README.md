@@ -49,7 +49,7 @@ _Context: Japan, Premier of the People's Republic of China, Wen Jiabao, bilatera
 _Context: Kurt Vonnegut_
 
 ### [ There will be a runoff election to select the next President of East Timor after no candidate achieves a majority of votes in the first round of voting. There are three candidates in contention for the runoff; the Prime Minister of East Timor Dr Jos Ramos-Horta, the Fretilin candidate Francisco Guterres and Fernando de Arajo of the Democratic Party. ](/news/2007/04/11/there-will-be-a-runoff-election-to-select-the-next-president-of-east-timor-after-no-candidate-achieves-a-majority-of-votes-in-the-first-rou.md)
-_Context: 2007, Democratic Party, Fernando de Arajo, Francisco Guterres, Fretilin, Jose Ramos-Horta, President, Prime Minister of East Timor, second round_
+_Context: 2007, Democratic Party, Fernando de Arajo, Francisco Guterres, Fretilin, Jose Ramos-Horta, President, Prime Minister of East Timor, run-off_
 
 ### [ Ice hockey: The 2007 NHL Stanley Cup Playoffs begin.  The inaugural matchup features the Pittsburgh Penguins visiting the Ottawa Senators at Scotiabank Place in Ottawa, Ontario.](/news/2007/04/11/ice-hockey-the-2007-nhl-stanley-cup-playoffs-begin-the-inaugural-matchup-features-the-pittsburgh-penguins-visiting-the-ottawa-senators-a.md)
 _Context: NHL, Ottawa Senators, Ottawa, Ontario, Pittsburgh Penguins, Scotiabank Place, ice hockey, playoff system_

@@ -4,7 +4,7 @@
 The U.S. military launched cruise missile strikes on Thursday to knock out three coastal radar sites in areas of Yemen controlled by Iran-aligned Houthi forces, retaliating after failed missile attacks this week on a U.S. Navy destroyer, U.S. officials said.
 
 ### [Negotiations between the Nigerian president's administration and Islamist militants free 21 of the 270 schoolgirls kidnapped in 2014 by Boko Haram in Chibok, Nigeria (leaving 218 victims still unaccounted for). ](/news/2016/10/13/negotiations-between-the-nigerian-president-s-administration-and-islamist-militants-free-21-of-the-270-schoolgirls-kidnapped-in-2014-by-boko.md)
-_Context: 270 schoolgirls kidnapped in 2014, Boko Haram, Chibok, Nigerian_
+_Context: Boko Haram, Chibok, Chibok schoolgirls kidnapping, Nigerian_
 
 ### [American singer-songwriter Bob Dylan wins the Nobel Prize in Literature. ](/news/2016/10/13/american-singer-songwriter-bob-dylan-wins-the-nobel-prize-in-literature.md)
 The prolific musician is the first American to win the prize for lifetime literary achievement in 23 years. While Dylan long enjoyed favor as an outside shot for the award, few expected him to win.

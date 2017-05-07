@@ -25,7 +25,7 @@ _Context: Abkhazia, Georgia, South Ossetia, Tuvalu, recognition_
 _Context: Pakistan, Pervez Musharraf, President, emergency rule, high treason_
 
 ### [French politicsFrench government and Socialist Party  admit major defeat following the The President of France Franois Hollande appoints Manuel Valls, previously Minister of the Interior, as the new Prime Minister. He replaces Jean-Marc Ayrault. ](/news/2014/03/31/french-politicspfrench-government-and-socialist-party-admit-major-defeat-following-the-the-president-of-france-francois-hollande-appoints-m.md)
-_Context: Francois Hollande, French municipal elections, 2014, Jean-Marc Ayrault, Manuel Valls, Minister of the Interior, PS, Prime Minister, president_
+_Context: Francois Hollande, French municipal elections, 2014, Jean-Marc Ayrault, Manuel Valls, Minister of the Interior, PS, President of France, Prime Minister_
 
 ### [The Intergovernmental Panel on Climate Change releases a new report outlining the impact of climate change on the world at the end of a week of meetings in Yokohama, Japan. ](/news/2014/03/31/the-intergovernmental-panel-on-climate-change-releases-a-new-report-outlining-the-impact-of-climate-change-on-the-world-at-the-end-of-a-week.md)
 Global warming is likely to have a &quot;severe, pervasive and irreversible&quot; impact, a major UN report warns.

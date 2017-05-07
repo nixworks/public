@@ -19,7 +19,7 @@ An increase in forward speed is expected through Thursday
 Former West Australian premier Brian Burke is set to face a new corruption trial after a previous acquittal was overturned on appeal.
 
 ### [A French Appeals Court clears former Prime Minister Dominique de Villepin of charges of involvement in a smear campaign against current President Nicolas Sarkozy. ](/news/2011/09/14/a-french-appeals-court-clears-former-prime-minister-dominique-de-villepin-of-charges-of-involvement-in-a-smear-campaign-against-current-pres.md)
-_Context: Dominique de Villepin, Frenchman, Nicolas Sarkozy, Prime Minister, president_
+_Context: Dominique de Villepin, Frenchman, Nicolas Sarkozy, President of France, Prime Minister_
 
 ### [Paul Tiensten, a former Minister in Papua New Guinea, flees to Australia after being summonsed in East New Britain Province to face charges of fraud and corruption. ](/news/2011/09/14/paul-tiensten-a-former-minister-in-papua-new-guinea-flees-to-australia-after-being-summonsed-in-east-new-britain-province-to-face-charges.md)
 _Context: Australia, East New Britain Province, Papua New Guinea, Paul Tiensten, summons_

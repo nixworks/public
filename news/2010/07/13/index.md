@@ -106,7 +106,7 @@ _Context: Indian Supreme Court, Scheduled Castes and Scheduled Tribes, education
 The Israeli authorities have used bulldozers to demolish three buildings in occupied East Jerusalem.
 
 ### [The United States 2nd Circuit Court of Appeals in New York City strikes down the Federal Communications Commission's "fleeting expletives" policy that gave it power to fine broadcasters who air a single expletive on air. ](/news/2010/07/13/the-united-states-2nd-circuit-court-of-appeals-in-new-york-city-strikes-down-the-federal-communications-commission-s-fleeting-expletives-p.md)
-_Context: Federal Communications Commission's, United States appeals court_
+_Context: Federal Communications Commission, United States appeals court_
 
 ### [President of the United States Barack Obama nominates Jacob Lew to replace Peter Orszag as the chief of the Office of Management and Budget. ](/news/2010/07/13/president-of-the-united-states-barack-obama-nominates-jacob-lew-to-replace-peter-orszag-as-the-chief-of-the-office-of-management-and-budget.md)
 _Context: Jacob Lew, Obama, Office of Management and Budget, Peter Orszag_

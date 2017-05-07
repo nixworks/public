@@ -52,7 +52,7 @@ _Context: Khurshid Mahmud Kasuri, Pakistan, Pervez Musharraf, Richard Boucher, U
 _Context: Argentina, Argentine general election, 2007, Cristina Fernandez de Kirchner, Julio Cobos, running mate_
 
 ### [ Ali Mohammed Ghedi, the interim Prime Minister of Somalia, says he plans to create a Green Zone in Mogadishu and criticizes the United Nations for giving "so much emphasis on Darfur and not to Somalia". ](/news/2007/08/15/ali-mohammed-ghedi-the-interim-prime-minister-of-somalia-says-he-plans-to-create-a-green-zone-in-mogadishu-and-criticizes-the-united-nati.md)
-_Context: Ali Mohammed Ghedi, Darfur, Green Zone, Mogadishu, Prime Minister of Somalia, Somali, United Nations_
+_Context: Ali Mohammed Ghedi, Darfur, Green Zone, Mogadishu, Prime Minister of Somalia, Somalia, United Nations_
 
 ### [ ODM-Kenya, the main Kenyan opposition party, splits in two four months before the general elections. ](/news/2007/08/15/odm-kenya-the-main-kenyan-opposition-party-splits-in-two-four-months-before-the-general-elections.md)
 _Context: 2007 presidential election, Kenya, ODM-Kenya_

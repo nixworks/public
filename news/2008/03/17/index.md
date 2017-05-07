@@ -34,7 +34,7 @@ _Context: Kosovo Force, Mitrovica, Serbia, United Nations, clashes_
 _Context: David Paterson, Eliot Spitzer prostitution scandal, New York Governor_
 
 ### [ French President Nicolas Sarkozy's Union for a Popular Movement party loses the 2008 municipal elections. ](/news/2008/03/17/french-president-nicolas-sarkozy-s-union-for-a-popular-movement-party-loses-the-2008-municipal-elections.md)
-_Context: 2008 municipal elections, France, Nicolas Sarkozy, UMP, president_
+_Context: 2008 municipal elections, France, Nicolas Sarkozy, President of France, UMP_
 
 ### [ German Chancellor Angela Merkel and half of her cabinet visit Israel in a move to upgrade bilateral relations ](/news/2008/03/17/german-chancellor-angela-merkel-and-half-of-her-cabinet-visit-israel-in-a-move-to-upgrade-bilateral-relations.md)
 _Context: Angela Merkel, Chancellor, Germany, Israel_

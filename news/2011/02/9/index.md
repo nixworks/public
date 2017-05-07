@@ -40,7 +40,7 @@ _Context: Canada, Langley Regional Airport, Mission, British Columbia_
 Five people -- including a 4-month-old boy -- have died in Allentown&apos;s massive gas explosion and fire, authorities confirmed at a Thursday afternoon news conferece.
 
 ### [President of France Nicolas Sarkozy calls for an end to government ministers holidaying abroad after it emerges they went to countries such as Egypt and Tunisia while anti-regime protests were underway. The controversy has led to calls for resignations. ](/news/2011/02/9/president-of-france-nicolas-sarkozy-calls-for-an-end-to-government-ministers-holidaying-abroad-after-it-emerges-they-went-to-countries-such.md)
-_Context: Egypt, Nicolas Sarkozy, Tunisia, anti-regime protests were underway, president_
+_Context: Egypt, Nicolas Sarkozy, President of France, Tunisia, anti-regime protests were underway_
 
 ### [Korean talksSouth Korea agrees in principle to resume discussions with North Korea on humanitarian issues including reuniting families separated by the Korean War. ](/news/2011/02/9/korean-talkspsouth-korea-agrees-in-principle-to-resume-discussions-with-north-korea-on-humanitarian-issues-including-reuniting-families-sepa.md)
 Military talks aimed at easing tensions between North and South Korea have broken down, officials in Seoul say.

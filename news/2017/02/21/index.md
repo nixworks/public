@@ -22,7 +22,7 @@ _Context: Indonesia, Jakarta_
 _Context: South Sudan, a famine_
 
 ### [French National Front presidential candidate Marine Le Pen leaves before her scheduled meeting in Beirut with Lebanon's top Sunni Muslim religious leader, Grand Mufti Abdellatif Deryan, following her refusal to accept the offered headscarf to cover her hair. Le Pen's aides had been informed earlier about the traditional, religious need for a headscarf for this meeting. ](/news/2017/02/21/french-national-front-presidential-candidate-marine-le-pen-leaves-before-her-scheduled-meeting-in-beirut-with-lebanon-s-top-sunni-muslim-rel.md)
-_Context: France-Lebanon relations, Marine Le Pen, National Front, Sunni Muslim, headscarf_
+_Context: France-Lebanon relations, Marine Le Pen, Sunni Muslim, far-right, headscarf_
 
 ### [After Swedish police arrest a suspect on drug-related charges, rioting occurs in Rinkeby, a suburb of the Swedish capital Stockholm. ](/news/2017/02/21/after-swedish-police-arrest-a-suspect-on-drug-related-charges-rioting-occurs-in-rinkeby-a-suburb-of-the-swedish-capital-stockholm.md)
 Swedish police say riots broke out overnight in a predominantly immigrant Stockholm suburb after officers arrested a suspect on drug charges.

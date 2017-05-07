@@ -4,7 +4,7 @@
 _Context: International Red Cross and Red Crescent Movement, Red Crystal_
 
 ### [ The Union for a Popular Movement nominates Nicolas Sarkozy as its candidate to become the next President of France in the 2007 French presidential election. ](/news/2007/01/14/the-union-for-a-popular-movement-nominates-nicolas-sarkozy-as-its-candidate-to-become-the-next-president-of-france-in-the-2007-french-presi.md)
-_Context: 2007 presidential election, Nicolas Sarkozy, UMP, president_
+_Context: 2007 presidential election, Nicolas Sarkozy, President of France, UMP_
 
 ### [ Palestinian President Mahmoud Abbas tells United States Secretary of State Condoleezza Rice that he opposes the establishment of a provisional Palestinian state with temporary borders. ](/news/2007/01/14/palestinian-president-mahmoud-abbas-tells-united-states-secretary-of-state-condoleezza-rice-that-he-opposes-the-establishment-of-a-provisio.md)
 _Context: Condoleezza Rice, Mahmoud Abbas, Palestinian President, United States Secretary of State_

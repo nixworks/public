@@ -22,7 +22,7 @@ _Context: Angela Merkel, German Chancellor, Germany, U.S._
 Portuguese police reopen their inquiry into the disappearance of British girl Madeleine McCann, saying there are &quot;new lines of inquiry&quot;.
 
 ### [France's top football clubs announce plans for a strike in Ligue 1 and Ligue 2 at the end of November in protest at the President Franois Hollande's 75% supertax proposal. ](/news/2013/10/24/france-s-top-football-clubs-announce-plans-for-a-strike-in-ligue-1-and-ligue-2-at-the-end-of-november-in-protest-at-the-president-francois-h.md)
-_Context: France, Francois Hollande, Ligue 1, Ligue 2, football, president, supertax_
+_Context: France, Francois Hollande, Ligue 1, Ligue 2, President of France, football, supertax_
 
 ### [2013 World Series: The St. Louis Cardinals defeat the Boston Red Sox 4-2 to tie the World Series at 1-1. ](/news/2013/10/24/2013-world-series-the-st-louis-cardinals-defeat-the-boston-red-sox-4-2-to-tie-the-world-series-at-1-1.md)
 Michael Wacha won again in October and the St. Louis Cardinals got just enough help from Boston, beating the Red Sox 4-2 on Thursday night to tie the World Series at a game apiece.

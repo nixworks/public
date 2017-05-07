@@ -19,7 +19,7 @@ _Context: Australia, Baghdad, Iraq, Unity Resources Group, War in Iraq_
 _Context: Japan, North Korea_
 
 ### [ The President of France Nicolas Sarkozy travels to Moscow to meet with the President of Russia Vladimir Putin to discuss a broad range of policies including Kosovo, Chechnya, and Iran. ](/news/2007/10/9/the-president-of-france-nicolas-sarkozy-travels-to-moscow-to-meet-with-the-president-of-russia-vladimir-putin-to-discuss-a-broad-range-of-p.md)
-_Context: Chechnya, Iran, Kosovo, Moscow, Nicolas Sarkozy, Russian President, Vladimir Putin, president_
+_Context: Chechnya, Iran, Kosovo, Moscow, Nicolas Sarkozy, President of France, Russian President, Vladimir Putin_
 
 ### [ Albert Fert and Peter Grnberg are announced as winners of the 2007 Nobel Prize in Physics for the discovery of giant magnetoresistance. ](/news/2007/10/9/albert-fert-and-peter-grunberg-are-announced-as-winners-of-the-2007-nobel-prize-in-physics-for-the-discovery-of-giant-magnetoresistance.md)
 _Context: Albert Fert, Nobel Prize in Physics, Peter Grnberg, giant magnetoresistance_

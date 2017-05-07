@@ -13,7 +13,7 @@ A mass shooting in San Bernardino, California, that left 14 people dead, is bein
 A Molotov cocktail hurled at a Cairo restaurant killed 16 people and wounded two on Friday, Egyptian security officials said.
 
 ### [A three-judge panel of the U.S. Court of Appeals for the D.C. Circuit hears arguments about whether the net neutrality rules of the Federal Communications Commission are within the FCC's statutory mandate. ](/news/2015/12/4/a-three-judge-panel-of-the-u-s-court-of-appeals-for-the-d-c-circuit-hears-arguments-about-whether-the-net-neutrality-rules-of-the-federal.md)
-_Context: Federal Communications Commission's, U.S. Court of Appeals for the District of Columbia Circuit, net neutrality_
+_Context: Federal Communications Commission, U.S. Court of Appeals for the District of Columbia Circuit, net neutrality_
 
 ### [Many parts of Chennai still remain flooded, including almost all of South Chennai. Food and other basics are in short supply throughout the city. ](/news/2015/12/4/many-parts-of-chennai-still-remain-flooded-including-almost-all-of-south-chennai-food-and-other-basics-are-in-short-supply-throughout-the.md)
 As thousands of residents of Chennai and suburbs were rescued from inundated areas on Thursday , several more were confined to their homes, surrounded by sheets of water.

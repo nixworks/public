@@ -40,7 +40,7 @@ _Context: Czech, Uhersky Brod, opens fire_
 _Context: British Parliament, House of Commons, House of Lords, in vitro fertilization, mitochondria, mitochondrial disorders_
 
 ### [Eddie Ray Routh is found guilty of the 2013 murder of United States Navy SEALs' sniper Chris Kyle and Kyle's friend Chad Littlefield in Texas. Routh is automatically sentenced to life imprisonment without parole. ](/news/2015/02/24/eddie-ray-routh-is-found-guilty-of-the-2013-murder-of-united-states-navy-seals-sniper-chris-kyle-and-kyle-s-friend-chad-littlefield-in-texa.md)
-_Context: Chris Kyle, Texas, United States Navy SEALs, life imprisonment, parole, sniper_
+_Context: Chris Kyle, Texas, United States Navy SEAL, life imprisonment, parole, sniper_
 
 ### [Voters in the American city of Chicago, Illinois, go to the polls to elect a Mayor and 50 aldermen. In the mayoral election, there will be a runoff between incumbent Rahm Emanuel and Cook County Commissioner Jesus "Chuy" Garcia.  ](/news/2015/02/24/voters-in-the-american-city-of-chicago-illinois-go-to-the-polls-to-elect-a-mayor-and-50-aldermen-in-the-mayoral-election-there-will-be-a.md)
 Chicago voters on Tuesday will decide whether Mayor Rahm Emanuel collects a majority and quickly wins a second term or faces a runoff.

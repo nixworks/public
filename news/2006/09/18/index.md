@@ -7,7 +7,7 @@ _Context: England, Scotland, Wales, child seats_
 _Context: Canada, Kandahar, NATO, Taliban insurgency_
 
 ### [ Somali President Abdullahi Yusuf survives an assassination attempt when two bombs explode near the parliament building, killing 11 people. ](/news/2006/09/18/somali-president-abdullahi-yusuf-survives-an-assassination-attempt-when-two-bombs-explode-near-the-parliament-building-killing-11-people.md)
-_Context: Abdullahi Yusuf, Somali, assassinated_
+_Context: Abdullahi Yusuf, Somalia, assassinated_
 
 ### [ A chemical spill is reported on the International Space Station and a fire is feared, although this latter report proves to be unfounded. ](/news/2006/09/18/a-chemical-spill-is-reported-on-the-international-space-station-and-a-fire-is-feared-although-this-latter-report-proves-to-be-unfounded.md)
 _Context: International Space Station_

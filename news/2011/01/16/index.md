@@ -49,7 +49,7 @@ The Irish prime minister announces he will not be standing down as leader of the
 _Context: Gabon, Libya, Muammar al-Gaddafi, Omar Bongo, President, died in 2009_
 
 ### [France's National Front confirms 42-year-old Marine Le Pen as party leader, succeeding her father Jean-Marie Le Pen. ](/news/2011/01/16/france-s-national-front-confirms-42-year-old-marine-le-pen-as-party-leader-succeeding-her-father-jean-marie-le-pen.md)
-_Context: France, Jean-Marie Le Pen, Marine Le Pen, National Front_
+_Context: France, Jean-Marie Le Pen, Marine Le Pen, far-right_
 
 ### [Saad Hariri becomes caretaker Prime Minister of Lebanon following the collapse of his government due to resignation of 11 opposition ministers. ](/news/2011/01/16/saad-hariri-becomes-caretaker-prime-minister-of-lebanon-following-the-collapse-of-his-government-due-to-resignation-of-11-opposition-ministe.md)
 Lebanon was plunged deeper into political turmoil Wednesday with the collapse of Prime Minister Saad Hariri&#39;s national unity Cabinet after 10 ministers from the March 8 coalition and a minister loyal to President Michel Sleiman resigned over the U.N.-backed Special Tribunal for Lebanon.

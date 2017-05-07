@@ -10,7 +10,7 @@ Nations scramble to deliver aid and assistance to the Philippines in the wake th
 _Context: India, Mumbai, Vikhroli_
 
 ### [At least 100 people are killed in a tropical cyclone in Somalia's semi-autonomous Puntland region. ](/news/2013/11/11/at-least-100-people-are-killed-in-a-tropical-cyclone-in-somalia-s-semi-autonomous-puntland-region.md)
-_Context: Puntland, Somali_
+_Context: Puntland, Somalia_
 
 ### [Three members of the Iranian rock band The Yellow Dogs are shot and killed in Brooklyn, New York by a member of a different band. The shooter then commits suicide. ](/news/2013/11/11/three-members-of-the-iranian-rock-band-the-yellow-dogs-are-shot-and-killed-in-brooklyn-new-york-by-a-member-of-a-different-band-the-shoote.md)
 _Context: Brooklyn, Iran, New York, The Yellow Dogs, rock music_

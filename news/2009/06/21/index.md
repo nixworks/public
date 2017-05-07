@@ -13,7 +13,7 @@ England have beaten New Zealand twice in World Cup finals in a span of three mon
 The Taoiseach has said a Yes vote on Lisbon would provide Ireland with a better means of dealing with the current economic crisis.
 
 ### [ The Somali government declares a state of emergency. ](/news/2009/06/21/the-somali-government-declares-a-state-of-emergency.md)
-_Context: Somali, War in Somalia (2009-), state of emergency_
+_Context: Somalia, War in Somalia (2009-), state of emergency_
 
 ### [ Self-rule is introduced in Greenland following a 2008 referendum. ](/news/2009/06/21/self-rule-is-introduced-in-greenland-following-a-2008-referendum.md)
 _Context: 2008 referendum, Greenland, Self-rule_

@@ -7,7 +7,7 @@ _Context: Germany, Koblenz, Rhine River, World War II, bomb squad_
 _Context: Australia, India, uranium_
 
 ### [Transparency International releases the 2011 Corruption Perceptions Index, declaring North Korea and Somalia the most corrupt nations in the world, and New Zealand the least corrupt. ](/news/2011/12/4/transparency-international-releases-the-2011-corruption-perceptions-index-declaring-north-korea-and-somalia-the-most-corrupt-nations-in-the.md)
-_Context: Corruption Perceptions Index, New Zealand, North Korea, Somali, Transparency International_
+_Context: Corruption Perceptions Index, New Zealand, North Korea, Somalia, Transparency International_
 
 ### [Voters in Slovenia go to the polls for a parliamentary election with early results showing Positive Slovenia with an early lead. ](/news/2011/12/4/voters-in-slovenia-go-to-the-polls-for-a-parliamentary-election-with-early-results-showing-positive-slovenia-with-an-early-lead.md)
 _Context:  previous elections, Positive Slovenia, Slovenia_

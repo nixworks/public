@@ -22,7 +22,7 @@ A bomb attack on an election meeting in the southern Pakistani city of Karachi o
 A man is charged in the US state of Mississippi in connection with sending letters containing the poison ricin to President Barack Obama and others.
 
 ### [North Korea announces that it will place American Pae Jun-Ho on trial for unspecified "crimes aimed to topple the Democratic People's Republic of Korea". ](/news/2013/04/27/north-korea-announces-that-it-will-place-american-pae-jun-ho-on-trial-for-unspecified-crimes-aimed-to-topple-the-democratic-people-s-republ.md)
-_Context: Americans, North Korea, Pae Jun-Ho_
+_Context: American, North Korea, Pae Jun-Ho_
 
 ### [United States Supreme Court Justice Stephen G. Breyer is taken to hospital by ambulance after he breaks his shoulder in a fall from his bicycle. ](/news/2013/04/27/united-states-supreme-court-justice-stephen-g-breyer-is-taken-to-hospital-by-ambulance-after-he-breaks-his-shoulder-in-a-fall-from-his-bicy.md)
 Justice Breyer undergoes shoulder surgery after third biking accident

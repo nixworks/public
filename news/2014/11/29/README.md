@@ -28,7 +28,7 @@ Pro-government Sunni candidates including Islamists have won the most seats in p
 Coalition leader Denis Napthine has conceded defeat and announced that he will be stepping down as leader of the Liberal Party in Victoria.
 
 ### [The Union for a Popular Movement reelects former French President Nicolas Sarkozy,  as the party leader. ](/news/2014/11/29/the-union-for-a-popular-movement-reelects-former-french-president-nicolas-sarkozy-as-the-party-leader.md)
-_Context: Nicolas Sarkozy, UMP, president_
+_Context: Nicolas Sarkozy, President of France, UMP_
 
 ## [Previous Day...](/news/2014/11/28/index.md)
 

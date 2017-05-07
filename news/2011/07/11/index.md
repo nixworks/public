@@ -1,7 +1,7 @@
 ## [2011-07-11](/news/2011/07/11/index.md)
 
 ### [Protesters loyal to President Bashar al-Assad in the 2011 Syrian uprising break into the United States embassy in Damascus and try to break into the French embassy. ](/news/2011/07/11/protesters-loyal-to-president-bashar-al-assad-in-the-2011-syrian-uprising-break-into-the-united-states-embassy-in-damascus-and-try-to-break.md)
-_Context: 2011 Syrian uprising, Bashar al-Assad, Damascus, French embassy, President, embassy_
+_Context: 2011 Syrian uprising, Bashar al-Assad, Damascus, President, diplomatic missions, embassy_
 
 ### [Pakistan jails a doctor who helped the US Central Intelligence Agency confirm that Osama bin Laden was living in Abbottabad. ](/news/2011/07/11/pakistan-jails-a-doctor-who-helped-the-us-central-intelligence-agency-confirm-that-osama-bin-laden-was-living-in-abbottabad.md)
 Pakistan holds doctor who tried to collect bin Laden DNA

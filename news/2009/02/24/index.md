@@ -37,13 +37,13 @@ Gardaí attached to the ODCE have ended their search at the Anglo Irish Bank hea
 _Context: Iraq, Iraq War, Iraqi, Iraqi Police, Mosul, U.S., U.S. military personnel, interpreter_
 
 ### [ At least 15 people are killed and 90 injured in heavy fighting in Mogadishu, Somalia. ](/news/2009/02/24/at-least-15-people-are-killed-and-90-injured-in-heavy-fighting-in-mogadishu-somalia.md)
-_Context: Mogadishu, Somali, heavy fighting_
+_Context: Mogadishu, Somalia, heavy fighting_
 
 ### [ U.S. President Obama and Japanese Prime Minister Taro Aso pledge to cooperate in stimulating economic demand and combating protectionism. ](/news/2009/02/24/u-s-president-obama-and-japanese-prime-minister-taro-aso-pledge-to-cooperate-in-stimulating-economic-demand-and-combating-protectionism.md)
 _Context: Japan, Obama, President, Prime Minister, Taro Aso, U.S., protectionism, stimulating economic demand_
 
 ### [ Italian Prime Minister Silvio Berlusconi and French President Nicolas Sarkozy agree to cooperate in reviving nuclear power in Italy. ](/news/2009/02/24/italian-prime-minister-silvio-berlusconi-and-french-president-nicolas-sarkozy-agree-to-cooperate-in-reviving-nuclear-power-in-italy.md)
-_Context: France, Italian, Italian Prime Minister, Nicolas Sarkozy, Silvio Berlusconi, nuclear power, president_
+_Context: France, Italian, Italian Prime Minister, Nicolas Sarkozy, President of France, Silvio Berlusconi, nuclear power_
 
 ### [ Teachers in Zimbabwe will end their strike action upon receiving government aid.  ](/news/2009/02/24/teachers-in-zimbabwe-will-end-their-strike-action-upon-receiving-government-aid.md)
 _Context: Zimbabwe, government, strike, teacher_

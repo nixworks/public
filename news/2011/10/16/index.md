@@ -13,7 +13,7 @@ Somali opposition fighters driven out from two bases near the border in joint Ke
 A ceremony to rename Wootton Bassett with the prefix &quot;Royal&quot; takes place in the Wiltshire town.
 
 ### [Franois Hollande defeats Martine Aubry in a primary runoff election held by the French Socialist Party, becoming the party's official candidate to challenge incumbent President of France Nicolas Sarkozy in the 2012 presidential election. ](/news/2011/10/16/francois-hollande-defeats-martine-aubry-in-a-primary-runoff-election-held-by-the-french-socialist-party-becoming-the-party-s-official-candi.md)
-_Context: 2012 presidential election, Francois Hollande, French Socialist Party, Martine Aubry, Nicolas Sarkozy, president, primary election, runoff election_
+_Context: 2012 presidential election, Francois Hollande, French Socialist Party, Martine Aubry, Nicolas Sarkozy, President of France, primary election, runoff election_
 
 ### [Voters in Bolivia go to the polls for a judicial election - the first ever held in Latin America - with opposition politicians urging voters to spoil their ballots in protest against the government of incumbent President Evo Morales. ](/news/2011/10/16/voters-in-bolivia-go-to-the-polls-for-a-judicial-election-the-first-ever-held-in-latin-america-with-opposition-politicians-urging-voters.md)
 Most Bolivians voting in the first ever ballot to elect top judges cast invalid votes, exit polls suggest, in an apparent protest against President Evo Morales.

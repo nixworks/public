@@ -16,7 +16,7 @@ Three people, including a teenager, were injured after a gunman opened fire outs
 An aid group finds two capsized boats capable of carrying 100 migrants each, and only five bodies.
 
 ### [French National Front presidential candidate Marine Le Pen meets with Russian president Vladimir Putin and afterwards urges that European Union sanctions on Russia be lifted. ](/news/2017/03/24/french-national-front-presidential-candidate-marine-le-pen-meets-with-russian-president-vladimir-putin-and-afterwards-urges-that-european-un.md)
-_Context: European Union, France-Russia relations, Marine Le Pen, National Front, Russia, Vladimir Putin_
+_Context: European Union, France-Russia relations, Marine Le Pen, Russia, Vladimir Putin, far-right_
 
 ### [Former Egyptian President Hosni Mubarak is released from detention in Cairo. ](/news/2017/03/24/former-egyptian-president-hosni-mubarak-is-released-from-detention-in-cairo.md)
 _Context: Cairo, Egyptian, Hosni Mubarak_

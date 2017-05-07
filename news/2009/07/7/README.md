@@ -25,7 +25,7 @@ _Context: Batt O'Keeffe, Education Minister, Labour Party, Republic of Ireland, 
 _Context: North Korea, United Nations, United Nations Security Council, missile launches_
 
 ### [ The United Nations says around 204,000 people have fled violence in Mogadishu, Somalia as a result of a militant offensive against government forces. ](/news/2009/07/7/the-united-nations-says-around-204-000-people-have-fled-violence-in-mogadishu-somalia-as-a-result-of-a-militant-offensive-against-governme.md)
-_Context: Mogadishu, Somali, United Nations, violence_
+_Context: Mogadishu, Somalia, United Nations, violence_
 
 ### [ Two bombs explode in the southern Philippines, killing two and injuring 53. ](/news/2009/07/7/two-bombs-explode-in-the-southern-philippines-killing-two-and-injuring-53.md)
 _Context: Philippine, explode_

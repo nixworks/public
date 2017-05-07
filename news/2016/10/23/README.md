@@ -19,7 +19,7 @@ _Context: Desert Hot Springs, California_
 _Context: Aftermath of Brexit, Bill Etheridge, Member of the European Parliament, Nigel Farage, Paul Nuttall, Peter Whittle, Raheem Kassam, Suzanne Evans, UK Independence Party, UK Independence Party leadership election, November 2016_
 
 ### [Voters head to the polls in second round elections in constituencies where no candidate won over 50 percent on October 9 with the Lithuanian Peasant and Greens Union winning a plurality of seats. ](/news/2016/10/23/voters-head-to-the-polls-in-second-round-elections-in-constituencies-where-no-candidate-won-over-50-percent-on-october-9-with-the-lithuanian.md)
-_Context: Lithuanian Peasant and Greens Union, Lithuanian parliamentary election, 2016, second round_
+_Context: Lithuanian Peasant and Greens Union, Lithuanian parliamentary election, 2016, run-off_
 
 ### [The Socialist Workers' Party, following the party's 139-96 vote approving this action, say they will abstain from voting against acting Prime Minister Mariano Rajoy when he puts his People's Party coalition government to parliament this week, thereby ending the 10-month deadlock. ](/news/2016/10/23/the-socialist-workers-party-following-the-party-s-139a96-vote-approving-this-action-say-they-will-abstain-from-voting-against-acting-pr.md)
 _Context: Mariano Rajoy, People's Party, Prime Minister, Socialist Workers' Party, ten month interregnum_

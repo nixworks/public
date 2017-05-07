@@ -19,7 +19,7 @@ Former Israeli Prime Minister Ehud Olmert has gone on trial in Jerusalem on corr
 The US President said he preferred diplomacy in dealing with Iran over its nuclear program, but would consider imposing &#39;sanctions that bite&#39; if the diplomatic track did not work.
 
 ### [ Lawyers for the former Prime Minister of France, Dominique de Villepin, say they will sue President Nicolas Sarkozy for having called him "guilty" of the "Clearstream" affair and violating the principle of presumption of innocence. ](/news/2009/09/25/lawyers-for-the-former-prime-minister-of-france-dominique-de-villepin-say-they-will-sue-president-nicolas-sarkozy-for-having-called-him.md)
-_Context: Clearstream, Dominique de Villepin, Nicolas Sarkozy, Prime Minister, president, presumption of innocence_
+_Context: Clearstream, Dominique de Villepin, Nicolas Sarkozy, President of France, Prime Minister, presumption of innocence_
 
 ### [ At least two people are killed and fifteen injured in a blast at a fireworks shop in Santo Andr, Greater So Paulo, Brazil. ](/news/2009/09/25/at-least-two-people-are-killed-and-fifteen-injured-in-a-blast-at-a-fireworks-shop-in-santo-andre-greater-sao-paulo-brazil.md)
 _Context: Brazil, Greater So Paulo, Santo Andr_

@@ -13,7 +13,7 @@ _Context: 2007 Georgian demonstrations, President of Georgia, Saakashvili, state
 _Context: Nepal, Nepalese Constituent Assembly election, 2008, Supreme Court, legal, moral_
 
 ### [ Strikes in France: French train drivers' strike against President Nicolas Sarkozy's pension reform enters its third day. ](/news/2007/11/16/strikes-in-france-french-train-drivers-strike-against-president-nicolas-sarkozy-s-pension-reform-enters-its-third-day.md)
-_Context: France, Nicolas Sarkozy, pension reform, president, public-sector strikes, strike, train driver_
+_Context: France, Nicolas Sarkozy, President of France, pension reform, public-sector strikes, strike, train driver_
 
 ### [ German architect Heike Hanada of Weimar wins the international competition for extending the Stockholm Public Library. ](/news/2007/11/16/german-architect-heike-hanada-of-weimar-wins-the-international-competition-for-extending-the-stockholm-public-library.md)
 _Context: Germany, Heike Hanada, Weimar, architect, central library, competition_

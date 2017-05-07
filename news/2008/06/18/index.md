@@ -4,7 +4,7 @@
 _Context: Brazil, Japanese Immigration_
 
 ### [ Somali President Abdullahi Yusuf Ahmed survives an assassination attempt. ](/news/2008/06/18/somali-president-abdullahi-yusuf-ahmed-survives-an-assassination-attempt.md)
-_Context: Abdullahi Yusuf Ahmed, President, Somali, assassinated_
+_Context: Abdullahi Yusuf Ahmed, President, Somalia, assassinated_
 
 ### [ The Parliament of the United Kingdom ratifies the Treaty of Lisbon. ](/news/2008/06/18/the-parliament-of-the-united-kingdom-ratifies-the-treaty-of-lisbon.md)
 _Context: British Parliament, Treaty of Lisbon_

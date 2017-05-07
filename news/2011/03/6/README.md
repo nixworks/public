@@ -67,7 +67,7 @@ _Context: North Korea, South Korea_
 _Context: 2011 Yemeni protests, State Department, Yemen_
 
 ### [Kenya arrests six Somali Islamist al-Shabaab fighters in the border town of Mandera. ](/news/2011/03/6/kenya-arrests-six-somali-islamist-al-shabaab-fighters-in-the-border-town-of-mandera.md)
-_Context: Islamist, Kenya, Mandera, Somali, al-Shabaab_
+_Context: Islamist, Kenya, Mandera, Somalia, al-Shabaab_
 
 ### [Gunmen attacked patrons at a bar near the United States consulate in Ciudad Juarez, Mexico killing three people. ](/news/2011/03/6/gunmen-attacked-patrons-at-a-bar-near-the-united-states-consulate-in-ciudad-jua-rez-mexico-killing-three-people.md)
 _Context: Ciudad Juarez, Mexico, U.S._

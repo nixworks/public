@@ -4,7 +4,7 @@
 _Context: Mount Everest, Nepal, Retreat of glaciers since 1850, global warming's_
 
 ### [ Somali pirates capture the Greek owned oil tanker ''Maran Centaurus'' 1,300 kilometres off the coast of Somalia. ](/news/2009/11/29/somali-pirates-capture-the-greek-owned-oil-tanker-maran-centaurus-1-300-kilometres-off-the-coast-of-somalia.md)
-_Context: Greece, Somali, Somali pirates, oil tanker_
+_Context: Greece, Somali pirates, Somalia, oil tanker_
 
 ### [ Uruguayan voters elect Broad Front candidate Jos Mujica as their new president. ](/news/2009/11/29/uruguayan-voters-elect-broad-front-candidate-jose-mujica-as-their-new-president.md)
 (For more on the Honduras election, click [ID:nHONDURAS]) * Leftist Mujica wins -- exit polls, projections * Rightist rival Lacalle concede

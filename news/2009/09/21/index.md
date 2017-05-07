@@ -40,7 +40,7 @@ _Context: Japanese government_
 _Context: Duk Padiet, Jonglei, Lou Nuer, Sudan_
 
 ### [ A judicial official says a 51-year-old man has confessed to sending threatening letters containing bullets to President of France Nicolas Sarkozy and other prominent figures. ](/news/2009/09/21/a-judicial-official-says-a-51-year-old-man-has-confessed-to-sending-threatening-letters-containing-bullets-to-president-of-france-nicolas-s.md)
-_Context: Nicolas Sarkozy, president_
+_Context: Nicolas Sarkozy, President of France_
 
 ### [ In swimming, Lisa Cummins becomes the first Irish person and the 20th person ever to complete a two way crossing of the English Channel. ](/news/2009/09/21/in-swimming-lisa-cummins-becomes-the-first-irish-person-and-the-20th-person-ever-to-complete-a-two-way-crossing-of-the-english-channel.md)
 A Cork woman arrived back in her native city today after becoming the first Irish person to swim the English Channel over and&hellip;

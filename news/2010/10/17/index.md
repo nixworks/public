@@ -52,7 +52,7 @@ Attempts to build a multicultural society in Germany have &quot;utterly failed&q
 _Context: Chandra Levy, El Salvador_
 
 ### [Somali pirates hijack a South Korean owned Kenyan registered fishing boat with 43 crew aboard. ](/news/2010/10/17/somali-pirates-hijack-a-south-korean-owned-kenyan-registered-fishing-boat-with-43-crew-aboard.md)
-_Context: Kenya, Somali, Somali pirates, South Korea, fishing boat_
+_Context: Kenya, Somali pirates, Somalia, South Korea, fishing boat_
 
 ### [At least twelve people die when gunmen try to rob jewellery shops in Baghdad, Iraq and get into a gunfight with security, police and military. ](/news/2010/10/17/at-least-twelve-people-die-when-gunmen-try-to-rob-jewellery-shops-in-baghdad-iraq-and-get-into-a-gunfight-with-security-police-and-militar.md)
 At least 12 people died when gunmen swooped on a row of goldsmiths&#039; shops in a brazen robbery in the Iraqi capital and ended up in a gunfight with security forces, police and military sources said.

@@ -37,7 +37,7 @@ _Context: Wonsan_
 _Context: Gioia Tauro, Syrian chemical weapons_
 
 ### [Former President of France Nicolas Sarkozy is charged with corruption and influence peddling. ](/news/2014/07/2/former-president-of-france-nicolas-sarkozy-is-charged-with-corruption-and-influence-peddling.md)
-_Context: Nicolas Sarkozy, president_
+_Context: Nicolas Sarkozy, President of France_
 
 ### [Luxembourg's Viviane Reding, Finland's Olli Rehn, Italy's Antonio Tajani and Poland's Janusz Lewandowski step down as EU commissioners in order to take office as newly elected members of the European Parliament. ](/news/2014/07/2/luxembourg-s-viviane-reding-finland-s-olli-rehn-italy-s-antonio-tajani-and-poland-s-janusz-lewandowski-step-down-as-eu-commissioners-in-or.md)
 Four out of the seven commissioners who were elected to the EU parliament have quit their jobs in order to become MEPs.

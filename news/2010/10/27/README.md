@@ -4,7 +4,7 @@
 _Context: India, Jammu and Kashmir_
 
 ### [Clashes between pro-government forces and al-Shabaab militants in southern Somalia kill 17 people. ](/news/2010/10/27/clashes-between-pro-government-forces-and-al-shabaab-militants-in-southern-somalia-kill-17-people.md)
-_Context: Somali, al-Shabaab_
+_Context: Somalia, al-Shabaab_
 
 ### [A United States drone attack kills three in Pakistan. ](/news/2010/10/27/a-united-states-drone-attack-kills-three-in-pakistan.md)
 _Context: Pakistan, U.S._
@@ -52,7 +52,7 @@ _Context: North Korea, South Korea_
 _Context: India, Malaysia, free trade_
 
 ### [Transparency International releases its Corruption Perception Index showing Denmark, New Zealand and Singapore as the least corrupt nations and Somalia as the most corrupt. ](/news/2010/10/27/transparency-international-releases-its-corruption-perception-index-showing-denmark-new-zealand-and-singapore-as-the-least-corrupt-nations.md)
-_Context: Corruption Perception Index, Denmark, New Zealand, Singapore, Somali, Transparency International_
+_Context: Corruption Perception Index, Denmark, New Zealand, Singapore, Somalia, Transparency International_
 
 ### [Judge Kimba Wood of the United States District Court for the Southern District of New York shuts down filesharing service LimeWire. ](/news/2010/10/27/judge-kimba-wood-of-the-united-states-district-court-for-the-southern-district-of-new-york-shuts-down-filesharing-service-limewire.md)
 Popular online file-sharing service LimeWire was shut down by a US federal court today following a lawsuit filed by the music industry.
@@ -76,7 +76,7 @@ _Context: Kenya, Moses Wetangula_
 Three days of mourning have been declared in Argentina after former president Nestor Kirchner died of a heart attack.
 
 ### [The National Assembly of France takes a final vote on pension reform, with President Nicolas Sarkozy hoping that it will end the recent strikes and demonstrations. ](/news/2010/10/27/the-national-assembly-of-france-takes-a-final-vote-on-pension-reform-with-president-nicolas-sarkozy-hoping-that-it-will-end-the-recent-stri.md)
-_Context: France, National Assembly, Nicolas Sarkozy, president, recent strikes and demonstrations_
+_Context: France, National Assembly, Nicolas Sarkozy, President of France, recent strikes and demonstrations_
 
 ### [Scientists announce the discovery of the Myanmar snub-nosed monkey. ](/news/2010/10/27/scientists-announce-the-discovery-of-the-myanmar-snub-nosed-monkey.md)
 Pictured moments before humans ate it, a snub-nosed monkey represents a new species that sneezes when it rains.

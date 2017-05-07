@@ -4,7 +4,7 @@
 _Context: Harare, Morgan Tsvangirai, Movement for Democratic Change, Robert Mugabe, Zimbabwe_
 
 ### [ The President of France Jacques Chirac announces that he will not be seeking a third term. ](/news/2007/03/11/the-president-of-france-jacques-chirac-announces-that-he-will-not-be-seeking-a-third-term.md)
-_Context: Jacques Chirac, president_
+_Context: Jacques Chirac, President of France_
 
 ### [ Voters in Russia go to the polls in elections in 14 regions including Saint Petersburg. The elections have been widely criticised by the Opposition. ](/news/2007/03/11/voters-in-russia-go-to-the-polls-in-elections-in-14-regions-including-saint-petersburg-the-elections-have-been-widely-criticised-by-the-op.md)
 _Context: Russia, Saint Petersburg_

@@ -1,7 +1,7 @@
 ## [2009-09-19](/news/2009/09/19/index.md)
 
 ### [ A six-nation east African regional bloc consisting of Djibouti, Ethiopia, Kenya, Somalia, Sudan and Uganda urges global sanctions on Eritrea for backing Islamist rebels in neighbouring war-torn Somalia. ](/news/2009/09/19/a-six-nation-east-african-regional-bloc-consisting-of-djibouti-ethiopia-kenya-somalia-sudan-and-uganda-urges-global-sanctions-on-eritre.md)
-_Context: Africa, Djibouti, Eritrea, Ethiopia, Islam, Kenya, Somali, Sudan, Uganda_
+_Context: Africa, Djibouti, Eritrea, Ethiopia, Islam, Kenya, Somalia, Sudan, Uganda_
 
 ### [ Two men are arrested in Denver, Colorado, United States, as part of an FBI terror probe. ](/news/2009/09/19/two-men-are-arrested-in-denver-colorado-united-states-as-part-of-an-fbi-terror-probe.md)
 _Context: Colorado, Denver, FBI, U.S._

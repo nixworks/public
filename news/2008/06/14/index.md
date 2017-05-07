@@ -10,7 +10,7 @@ _Context: Condoleezza Rice, East Jerusalem, Israel, Middle East, United States S
 _Context: Discovery, STS-124_
 
 ### [ The President of the United States George W. Bush and the President of France Nicolas Sarkozy warn Syria to break with Iran and state that they will not allow Iran to obtain nuclear weapons. ](/news/2008/06/14/the-president-of-the-united-states-george-w-bush-and-the-president-of-france-nicolas-sarkozy-warn-syria-to-break-with-iran-and-state-that.md)
-_Context: George W. Bush, Iran, Iran and weapons of mass destruction, Nicolas Sarkozy, President, Syria, president_
+_Context: George W. Bush, Iran, Iran and weapons of mass destruction, Nicolas Sarkozy, President, President of France, Syria_
 
 ### [ A fire breaks out at Campsfield House, a privately run Immigration detention Centre near Oxford in the United Kingdom. ](/news/2008/06/14/a-fire-breaks-out-at-campsfield-house-a-privately-run-immigration-detention-centre-near-oxford-in-the-united-kingdom.md)
 _Context: Campsfield House, Oxford, detention facilities_

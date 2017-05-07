@@ -19,7 +19,7 @@ _Context: Brazil, crash of Air France Flight 447_
 World whaling body expected to see fierce debate between pro- and anti-whaling camps.
 
 ### [ For the first time in 136 years, the Congress of France convenes in the Palace of Versailles to listen to an address by the President of France, Nicolas Sarkozy. ](/news/2009/06/22/for-the-first-time-in-136-years-the-congress-of-france-convenes-in-the-palace-of-versailles-to-listen-to-an-address-by-the-president-of-fr.md)
-_Context: Congress of France, Nicolas Sarkozy, Palace of Versailles, president_
+_Context: Congress of France, Nicolas Sarkozy, Palace of Versailles, President of France_
 
 ### [ Zimbabwe's Prime Minister Morgan Tsvangirai insists the coalition government is tackling the country's dire humanitarian and economic crisis at a talk at Southwark Cathedral in London. ](/news/2009/06/22/zimbabwe-s-prime-minister-morgan-tsvangirai-insists-the-coalition-government-is-tackling-the-country-s-dire-humanitarian-and-economic-crisi.md)
 _Context: London, Morgan Tsvangirai, Southwark Cathedral, Zimbabwe_
@@ -28,7 +28,7 @@ _Context: London, Morgan Tsvangirai, Southwark Cathedral, Zimbabwe_
 _Context: Conservative Party, House of Commons, John Bercow, MP, Speaker of the British House of Commons, elected_
 
 ### [ French President Nicolas Sarkozy calls for the burqa to be banned in France. ](/news/2009/06/22/french-president-nicolas-sarkozy-calls-for-the-burqa-to-be-banned-in-france.md)
-_Context: France, Nicolas Sarkozy, burqa, president_
+_Context: France, Nicolas Sarkozy, President of France, burqa_
 
 ### [ The email at the heart of the Utegate scandal in Australia is declared a forgery by Federal Police. ](/news/2009/06/22/the-email-at-the-heart-of-the-utegate-scandal-in-australia-is-declared-a-forgery-by-federal-police.md)
 _Context: Utegate scandal in Australia_

@@ -7,7 +7,7 @@ A suicide attack on a Turkish embassy vehicle in the Afghan capital, Kabul, kill
 Intelligence official confirms masked ISIS militant seen in many beheading videos identified as college grad from London
 
 ### [French actresses Marion Cotillard and Melanie Laurent, and French President Francois Hollande begin their two-day state visit to the Philippines, where they are to discuss climate change. ](/news/2015/02/26/french-actresses-marion-cotillard-and-ma-c-lanie-laurent-and-french-president-franassois-hollande-begin-their-two-day-state-visit-to-the-phili.md)
-_Context: France, Francois Hollande, Marion Cotillard, Melanie Laurent, Philippine, climate change, president_
+_Context: France, Francois Hollande, Marion Cotillard, Melanie Laurent, Philippine, President of France, climate change_
 
 ### [Norwegian police raid the offices of the Catholic Church's diocese in Oslo, charging the church administration with serious fraud under the suspicion of wrongfully claiming as much as NOK 50 million in state support by presenting fraudulent membership statistics. ](/news/2015/02/26/norwegian-police-raid-the-offices-of-the-catholic-churchas-diocese-in-oslo-charging-the-church-administration-with-serious-fraud-under-th.md)
 _Context: Catholic Church's diocese in Oslo, Norway, kroner_
@@ -22,7 +22,7 @@ A North Korean shipping company has renamed and reflagged its vessels in an atte
 _Context: Alaska, Colorado, U.S., Washington, Washington, D.C., marijuana_
 
 ### [The US Federal Communications Commission votes to classify internet service providers as public utilities, creating net neutrality rules. The FCC also votes to preempt state laws in North Carolina and Tennessee that effectively prevent municipal broadband providers from expanding outside their existing service areas. ](/news/2015/02/26/the-us-federal-communications-commission-votes-to-classify-internet-service-providers-as-public-utilities-creating-net-neutrality-rules-th.md)
-_Context: Federal Communications Commission's, North Carolina, Tennessee, internet service providers, municipal broadband, net neutrality, public utilities_
+_Context: Federal Communications Commission, North Carolina, Tennessee, internet service providers, municipal broadband, net neutrality, public utilities_
 
 ## [Previous Day...](/news/2015/02/25/index.md)
 

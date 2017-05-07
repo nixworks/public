@@ -19,7 +19,7 @@ Rick Wagoner, the chief executive of General Motors, met with government officia
 _Context: Credit Suisse, Oswald Grubel, Swiss, UBS AG, chief executive officer_
 
 ### [ China's Navy and Denmark's Navy rescue Italian and Chinese merchant vessels from Somali pirates in the Gulf of Aden. ](/news/2009/02/26/china-s-navy-and-denmark-s-navy-rescue-italian-and-chinese-merchant-vessels-from-somali-pirates-in-the-gulf-of-aden.md)
-_Context: China's, Denmark, Gulf of Aden, Italian, MV, Navy, People's Liberation Army Navy, Somali, Somali pirates_
+_Context: China's, Denmark, Gulf of Aden, Italian, MV, Navy, People's Liberation Army Navy, Somali pirates, Somalia_
 
 ### [ The Marriott Hotel in Islamabad, Pakistan, catches fire, five months after it was bombed. ](/news/2009/02/26/the-marriott-hotel-in-islamabad-pakistan-catches-fire-five-months-after-it-was-bombed.md)
 _Context: Islamabad, Marriott International, Pakistan, bombed_

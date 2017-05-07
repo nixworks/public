@@ -22,7 +22,7 @@ _Context: Afghanistan, International Security Assistance Force, Taliban, War, wh
 _Context: Alex Salmond, Europe, First Minister, Scotland, Whitelee Wind Farm, wind farm_
 
 ### [ Three civilians die during combat between Islamist insurgents and the African Union Mission in Mogadishu, Somalia. ](/news/2009/05/20/three-civilians-die-during-combat-between-islamist-insurgents-and-the-african-union-mission-in-mogadishu-somalia.md)
-_Context: AMISOM, African Union, Mogadishu, Somali, War in Somalia (2009-), civilian, insurgency, radical Islamists_
+_Context: AMISOM, African Union, Mogadishu, Somalia, War in Somalia (2009-), civilian, insurgency, radical Islamists_
 
 ### [ Japan's economy contracted by 4% during the first fiscal quarter of 2009. ](/news/2009/05/20/japan-s-economy-contracted-by-4-during-the-first-fiscal-quarter-of-2009.md)
 _Context: 4th quarter of 2007 and the second quarter of 2009, Japan, Japanese economy, fiscal year_

@@ -22,7 +22,7 @@ _Context: Germany, current financial crisis, unemployment_
 Hundreds of thousands of French workers staged a nationwide strike on Thursday to try to force President Nicolas Sarkozy and business leaders to do more to protect jobs and wages during the economic crisis.
 
 ### [ Somali pirates hijack the German oil tanker MV ''Longchamp'' in the Gulf of Aden. ](/news/2009/01/29/somali-pirates-hijack-the-german-oil-tanker-mv-longchamp-in-the-gulf-of-aden.md)
-_Context: Germany, Gulf of Aden, MV, Somali, Somali pirates, oil tanker_
+_Context: Germany, Gulf of Aden, MV, Somali pirates, Somalia, oil tanker_
 
 ### [ Violent anti-government protests in Antananarivo, Madagascar, are temporarily halted. ](/news/2009/01/29/violent-anti-government-protests-in-antananarivo-madagascar-are-temporarily-halted.md)
 _Context: Antananarivo, Madagascar, government, protests_

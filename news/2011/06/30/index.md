@@ -76,7 +76,7 @@ Tánaiste Eamon Gilmore has said he is concerned about reports that a Gaza bound
 _Context: Lee Teng-hui, President of Taiwan, Taiwan, embezzlement, indicted_
 
 ### [A man who attempts to knock down President of France Nicolas Sarkozy in Brax is arrested by officers. ](/news/2011/06/30/a-man-who-attempts-to-knock-down-president-of-france-nicolas-sarkozy-in-brax-is-arrested-by-officers.md)
-_Context: Nicolas Sarkozy, president_
+_Context: Nicolas Sarkozy, President of France_
 
 ### [Carson Yeung, the Hong Kong businessman who owns English Football League Championship side Birmingham City F.C., is formally charged with money laundering and released on bail. ](/news/2011/06/30/carson-yeung-the-hong-kong-businessman-who-owns-english-football-league-championship-side-birmingham-city-f-c-is-formally-charged-with-mo.md)
 Hairdresser turned tycoon and Birmingham City club owner Carson Yeung was released on HK$7 million (558,000 pounds) bail after being charged with money laundering by a Hong Kong court on Thursday.

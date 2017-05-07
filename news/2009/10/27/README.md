@@ -22,7 +22,7 @@ Group fined $900,000 for fraud but is allowed to continue practising in France.
 _Context: China's, Tibet, unrest in 2008_
 
 ### [ The son of ex-French President Franois Mitterrand, Jean-Christophe Mitterrand and an ex-government minister, Charles Pasqua, are convicted for their roles in illegal arms sales to Angola. ](/news/2009/10/27/the-son-of-ex-french-president-francois-mitterrand-jean-christophe-mitterrand-and-an-ex-government-minister-charles-pasqua-are-convicted.md)
-_Context: Charles Pasqua, France, Franois Mitterrand, Jean-Christophe Mitterrand, illegal arms sales to Angola, president_
+_Context: Charles Pasqua, France, Franois Mitterrand, Jean-Christophe Mitterrand, President of France, illegal arms sales to Angola_
 
 ### [ A nephew of Honduran interim leader Robert Micheletti and a high ranking army officer are found murdered. ](/news/2009/10/27/a-nephew-of-honduran-interim-leader-robert-micheletti-and-a-high-ranking-army-officer-are-found-murdered.md)
 _Context: Honduran, Robert Micheletti_
@@ -34,7 +34,7 @@ _Context: Seychelles, Somali pirates, United Kingdom_
 _Context: Korean Demilitarized Zone, North Korea, South Korea_
 
 ### [ Burundi and Uganda tighten security after threats by the militant Somali Al-Shabaab, a group with links to Al-Qaeda, to attack their capitals. ](/news/2009/10/27/burundi-and-uganda-tighten-security-after-threats-by-the-militant-somali-al-shabaab-a-group-with-links-to-al-qaeda-to-attack-their-capita.md)
-_Context: Al-Shabaab, Burundi, Somali, Uganda, al-Qaeda_
+_Context: Al-Shabaab, Burundi, Somalia, Uganda, al-Qaeda_
 
 ### [ The autonomous Aceh province in Indonesia is to ban women from wearing tight trousers under a new law, while a law authorising the stoning to death of adulterers and the whipping of homosexuals will be reviewed. ](/news/2009/10/27/the-autonomous-aceh-province-in-indonesia-is-to-ban-women-from-wearing-tight-trousers-under-a-new-law-while-a-law-authorising-the-stoning.md)
 _Context: Aceh, Indonesia_

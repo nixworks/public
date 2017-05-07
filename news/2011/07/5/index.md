@@ -85,7 +85,7 @@ The funeral for Const. Garrett Styles, the Ontario police officer who was dragge
 The Supreme Court dismisses an attempt by police to suspend a legal ruling limiting police bail in England and Wales to a maximum of four days.
 
 ### [A Somali man, Ahmed Abdulkadir Warsame, is charged in the US city of New York with assisting the terrorist groups Al Shaabab and Al Qaeda in the Arabian Peninsula. ](/news/2011/07/5/a-somali-man-ahmed-abdulkadir-warsame-is-charged-in-the-us-city-of-new-york-with-assisting-the-terrorist-groups-al-shaabab-and-al-qaeda-in.md)
-_Context: New York, Somali, al-Qaida, al-Shabaab_
+_Context: New York, Somalia, al-Qaida, al-Shabaab_
 
 ### [Casey Anthony is acquitted of murder in relation to the death of her daughter Caylee, but guilty on four counts of misdemeanor providing false information to a law enforcement officer. ](/news/2011/07/5/casey-anthony-is-acquitted-of-murder-in-relation-to-the-death-of-her-daughter-caylee-but-guilty-on-four-counts-of-misdemeanor-providing-fal.md)
 Jurors in Orlando today found Casey Anthony not guilty of murder in the death of her 2-year-old daughter, Caylee.

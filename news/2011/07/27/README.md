@@ -16,7 +16,7 @@ The Australian dollar has cracked new highs above 110 US cents after the release
 _Context: Chuncheon, South Korea, landslide_
 
 ### [The United Nations World Food Programme prepares an airlift to Mogadishu in Somalia to help relieve the 2011 Horn of Africa famine. ](/news/2011/07/27/the-united-nations-world-food-programme-prepares-an-airlift-to-mogadishu-in-somalia-to-help-relieve-the-2011-horn-of-africa-famine.md)
-_Context: Mogadishu, Somali, United Nations, World Food Programme, famine_
+_Context: Mogadishu, Somalia, United Nations, World Food Programme, famine_
 
 ### [At least seventeen people are dead and 25 missing after Severe Tropical Storm Nock-ten (Juaning) hits the Philippines. ](/news/2011/07/27/at-least-seventeen-people-are-dead-and-25-missing-after-severe-tropical-storm-nock-ten-juaning-hits-the-philippines.md)
 _Context: 2011 Pacific typhoon season, Philippine_

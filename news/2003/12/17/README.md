@@ -40,7 +40,7 @@ _Context: George H. Ryan, Governor of Illinois, Illinois_
 _Context: Governor, John G. Rowland_
 
 ### [Islam in France: the ''hidjab'' issue: President of France Jacques Chirac announces that he will support a ban on the wearing of Muslim headscarves, Jewish yarmulkes and large Christian crosses in schools and government offices. If passed, the law will come into effect in September 2004. Muslim clerics counter that the ban is an attack on their religion. ](/news/2003/12/17/islam-in-france-the-hidjab-issue-president-of-france-jacques-chirac-announces-that-he-will-support-a-ban-on-the-wearing-of-muslim-head.md)
-_Context: Christian, Islam in France: the ''hidjab'' issue, Jacques Chirac, Jew, Muslim, cross, president, yarmulke_
+_Context: Christian, Islam in France: the ''hidjab'' issue, Jacques Chirac, Jew, Muslim, President of France, cross, yarmulke_
 
 ### [Space exploration:Space tourism magnates celebrate the 100th anniversary of the Wright Brothers' first flight by demonstrating SpaceShipOne, a privately-funded passenger-ferrying suborbital space plane, flying at supersonic speeds to an altitude of 68,000 feet. ](/news/2003/12/17/space-exploration-pspace-tourism-magnates-celebrate-the-100th-anniversary-of-the-wright-brothers-first-flight-by-demonstrating-spaceshipone.md)
 _Context: Space exploration, SpaceShipOne, Wright Brothers, commercial space flights, space plane, suborbital_

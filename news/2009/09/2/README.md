@@ -52,7 +52,7 @@ _Context: Burkina Faso, Ouagadougou, Tertius Zongo, prime minister_
 _Context: Barcelona, Spain_
 
 ### [ Sixteen Somalis drown after being forced overboard into the Gulf of Aden. ](/news/2009/09/2/sixteen-somalis-drown-after-being-forced-overboard-into-the-gulf-of-aden.md)
-_Context: Gulf of Aden, Somali_
+_Context: Gulf of Aden, Somalia_
 
 ### [ Malaysia reverses a ruling which had banned Muslims from attending a Black Eyed Peas concert in Kuala Lumpur. ](/news/2009/09/2/malaysia-reverses-a-ruling-which-had-banned-muslims-from-attending-a-black-eyed-peas-concert-in-kuala-lumpur.md)
 _Context: Black Eyed Peas, Kuala Lumpur, Malaysia, Muslims_

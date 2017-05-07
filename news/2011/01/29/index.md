@@ -16,7 +16,7 @@ _Context: Domodedovo International Airport, Moscow, Russia, bombing_
 _Context: Afghanistan, Kandahar Province, War in Afghanistan (2001-present)_
 
 ### [Clashes between rebels and government forces in Somalia leave several civilians dead in the capital Mogadishu. ](/news/2011/01/29/clashes-between-rebels-and-government-forces-in-somalia-leave-several-civilians-dead-in-the-capital-mogadishu.md)
-_Context: Mogadishu, Somali_
+_Context: Mogadishu, Somalia_
 
 ### [China begins the first test flights of private helicopters in its airspace. ](/news/2011/01/29/china-begins-the-first-test-flights-of-private-helicopters-in-its-airspace.md)
 _Context: China's, helicopters_

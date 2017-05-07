@@ -9,6 +9,9 @@ _Context: Benghazi, Khalifa Haftar, Libya_
 ### [A suicide bomber detonates his explosives near a military vehicle in Islamabad, Pakistan, killing 5 people. ](/news/2014/06/4/a-suicide-bomber-detonates-his-explosives-near-a-military-vehicle-in-islamabad-pakistan-killing-5-people.md)
 _Context: Islamabad, Pakistan_
 
+### [Iraqi Civil War begins.](/news/2014/06/4/iraqi-civil-war-begins.md)
+_Context: Iraqi Civil War (2014-present)_
+
 ### [The master stylist John Banville wins this year's Prince of Asturias Award for Literature, announced in Oviedo, Spain. ](/news/2014/06/4/the-master-stylist-john-banville-wins-this-year-s-prince-of-asturias-award-for-literature-announced-in-oviedo-spain.md)
 The winner for this year’s Prince of Asturias Award for literature has gone to Irish novelist John Banville. The announcement was made from the
 

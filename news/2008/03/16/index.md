@@ -34,7 +34,7 @@ _Context: Pakistan, South Waziristan, U.S., United States Army, Wana, rocket att
 _Context: Harvard Medical School, cancer, enzyme, inhibiting, pyruvate kinase_
 
 ### [ French voters go to the polls in the second round of the 2008 municipal elections, with President Nicolas Sarkozy's party Union for a Popular Movement likely to lose. ](/news/2008/03/16/french-voters-go-to-the-polls-in-the-second-round-of-the-2008-municipal-elections-with-president-nicolas-sarkozy-s-party-union-for-a-popul.md)
-_Context: 2008 municipal elections, France, Nicolas Sarkozy, UMP, president_
+_Context: 2008 municipal elections, France, Nicolas Sarkozy, President of France, UMP_
 
 ### [ United States Senator and Republican candidate to the 2008 presidential election John McCain makes a surprise visit to Iraq. ](/news/2008/03/16/united-states-senator-and-republican-candidate-to-the-2008-presidential-election-john-mccain-makes-a-surprise-visit-to-iraq.md)
 _Context: 2008, Iraq, John McCain, Republican candidate, U.S., United States Senator_

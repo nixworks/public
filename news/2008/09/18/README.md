@@ -19,7 +19,7 @@ The federal government, trying to boost investor confidence in the face of a mar
 _Context: CH-47 Chinook, Iraq, U.S., United States Army_
 
 ### [ Pirates hijack a Greek bulk carrier with 25 crew aboard off the coast of Somalia. ](/news/2008/09/18/pirates-hijack-a-greek-bulk-carrier-with-25-crew-aboard-off-the-coast-of-somalia.md)
-_Context: Greece, Pirate, Somali, bulk carrier_
+_Context: Greece, Pirate, Somalia, bulk carrier_
 
 ### [ Bruessel/EU:In European media, journalists report that some US politicians and military personnel supported with financial help the Anti-Europe Movement in Ireland against the Treaty of Lisbon. ](/news/2008/09/18/bruessel-eu-in-european-media-journalists-report-that-some-us-politicians-and-military-personnel-supported-with-financial-help-the-anti-eu.md)
 _Context: Bruessel, European Union, Ireland, Treaty of Lisbon_

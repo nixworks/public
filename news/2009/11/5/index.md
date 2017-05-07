@@ -7,7 +7,7 @@
 _Context: Berlin Wall, Brandenburg Gate, U2_
 
 ### [ Saudi Arabia lifts a nine-year ban on Somali livestock imports, reopening Somalia's main export market. ](/news/2009/11/5/saudi-arabia-lifts-a-nine-year-ban-on-somali-livestock-imports-reopening-somalia-s-main-export-market.md)
-_Context: Saudi Arabia, Somali, reopening Somalia's main export market_
+_Context: Saudi Arabia, Somalia, reopening Somalia's main export market_
 
 ### [ An international team of scientists announces that the genome of the domestic horse has been successfully sequenced. ](/news/2009/11/5/an-international-team-of-scientists-announces-that-the-genome-of-the-domestic-horse-has-been-successfully-sequenced.md)
 An old grey mare named Twilight has provided an international team of researchers with the entire genetic code of a domestic horse.

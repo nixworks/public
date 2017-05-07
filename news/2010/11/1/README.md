@@ -4,7 +4,7 @@
 _Context: Afghanistan, Garmser, Helmand River, Lashkar Gah_
 
 ### [Battle of Mogadishu (2010):At least 12 people are killed in fighting in Mogadishu, Somalia, between pro-government forces, African Union troops and the Islamist militant al-Shabaab group. ](/news/2010/11/1/battle-of-mogadishu-2010-pat-least-12-people-are-killed-in-fighting-in-mogadishu-somalia-between-pro-government-forces-african-union-tr.md)
-_Context: African Union, Battle of Mogadishu (2010), Islamist, Mogadishu, Somali, al-Shabaab_
+_Context: African Union, Battle of Mogadishu (2010), Islamist, Mogadishu, Somalia, al-Shabaab_
 
 ### [Photographs, diaries and footage of Gyles Mackrell's rescue of refugees from the Japanese invasion of Burma in World War II are made available. ](/news/2010/11/1/photographs-diaries-and-footage-of-gyles-mackrell-s-rescue-of-refugees-from-the-japanese-invasion-of-burma-in-world-war-ii-are-made-availab.md)
 Photographs, diaries and remarkable amateur film charting the epic rescue of refugees fleeing the Japanese invasion of Burma during the Second World War have been made available to the public today.

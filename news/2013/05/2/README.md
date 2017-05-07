@@ -13,7 +13,7 @@ Fierce clashes between troops and rebels erupted on Thursday for the first time 
 _Context: U.S., jobless claims_
 
 ### [Intel elects American Brian Krzanich as their new CEO. ](/news/2013/05/2/intel-elects-american-brian-krzanich-as-their-new-ceo.md)
-_Context: Americans, Brian Krzanich, CEO, Intel_
+_Context: American, Brian Krzanich, CEO, Intel_
 
 ### [More than 60 miners die when a recently reopened gold mine collapses in Jebel Amir, North Darfur, Sudan. ](/news/2013/05/2/more-than-60-miners-die-when-a-recently-reopened-gold-mine-collapses-in-jebel-amir-north-darfur-sudan.md)
 _Context: North Darfur, Sudan, gold mine_

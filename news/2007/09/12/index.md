@@ -13,7 +13,7 @@ _Context: Afghanistan, Ramadan, Taliban_
 _Context: Bombardier Aerospace, Dash 8 Q400, Denmark, Lithuania, Scandinavian Airlines, turboprop_
 
 ### [ Somali Islamists and opposition leaders meeting in Eritrea have joined forces in a new alliance to overthrow Somalia's transitional government. ](/news/2007/09/12/somali-islamists-and-opposition-leaders-meeting-in-eritrea-have-joined-forces-in-a-new-alliance-to-overthrow-somalia-s-transitional-governm.md)
-_Context: Eritrea, Somali, new alliance_
+_Context: Eritrea, Somalia, new alliance_
 
 ### [ A new case of Foot-and-mouth disease in the UK was confirmed after it was assumed that the outbreak of 2007 had been under control. ](/news/2007/09/12/a-new-case-of-foot-and-mouth-disease-in-the-uk-was-confirmed-after-it-was-assumed-that-the-outbreak-of-2007-had-been-under-control.md)
 _Context: United Kingdom, foot-and-mouth disease, outbreak of 2007_

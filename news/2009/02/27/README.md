@@ -1,7 +1,7 @@
 ## [2009-02-27](/news/2009/02/27/index.md)
 
 ### [ China's Navy and Denmark's Navy thwart Somali pirate attacks on Italian and Chinese merchant vessels in the Gulf of Aden. ](/news/2009/02/27/china-s-navy-and-denmark-s-navy-thwart-somali-pirate-attacks-on-italian-and-chinese-merchant-vessels-in-the-gulf-of-aden.md)
-_Context: China's, Denmark, Gulf of Aden, Italian, MV, Navy, People's Liberation Army Navy, Somali, Somali pirates_
+_Context: China's, Denmark, Gulf of Aden, Italian, MV, Navy, People's Liberation Army Navy, Somali pirates, Somalia_
 
 ### [ A nationwide "Chicago Tea Party" occurred across the United States, where protesters say government spending is out of control. ](/news/2009/02/27/a-nationwide-chicago-tea-party-occurred-across-the-united-states-where-protesters-say-government-spending-is-out-of-control.md)
 Fox 32 Chicago News, breaking news, local headlines, weather, sports traffic and more.

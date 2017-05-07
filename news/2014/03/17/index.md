@@ -1,7 +1,7 @@
 ## [2014-03-17](/news/2014/03/17/index.md)
 
 ### [United States Navy SEALs take over a disavowed oil tanker in international waters previously seized by Libyan rebels. ](/news/2014/03/17/united-states-navy-seals-take-over-a-disavowed-oil-tanker-in-international-waters-previously-seized-by-libyan-rebels.md)
-_Context: United States Navy SEALs_
+_Context: United States Navy SEAL_
 
 ### [Model and fashion designer L'Wren Scott is found dead in her New York apartment. ](/news/2014/03/17/model-and-fashion-designer-l-wren-scott-is-found-dead-in-her-new-york-apartment.md)
 _Context: L'Wren Scott, New York's_

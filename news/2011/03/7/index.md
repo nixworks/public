@@ -58,7 +58,7 @@ _Context: Arab Spring, President, Robert Mugabe, Zimbabwe_
 _Context: Tunisia_
 
 ### [Former President of France Jacques Chirac faces charges that related to alleged use of Paris city government resources to benefit his Rally for the Republic party while serving as Mayor of Paris. ](/news/2011/03/7/former-president-of-france-jacques-chirac-faces-charges-that-related-to-alleged-use-of-paris-city-government-resources-to-benefit-his-rally.md)
-_Context: Jacques Chirac, Mayor of Paris, Paris, Rally for the Republic, president_
+_Context: Jacques Chirac, Mayor of Paris, Paris, President of France, Rally for the Republic_
 
 ### [A new cabinet of Egypt is sworn in by the Chairman of the Supreme Council of the Armed Forces Mohamed Hussein Tantawi. ](/news/2011/03/7/a-new-cabinet-of-egypt-is-sworn-in-by-the-chairman-of-the-supreme-council-of-the-armed-forces-mohamed-hussein-tantawi.md)
 _Context: Egypt, Mohamed Hussein Tantawi, governing body_

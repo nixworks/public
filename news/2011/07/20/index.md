@@ -16,7 +16,7 @@ _Context: Alpha Conde's, Guinea, President_
 Mr. Freud, a grandson of Sigmund Freud, was called “the greatest living realist painter” by one art critic in the late 1980s.
 
 ### [2011 Horn of Africa famine: The United Nations declares a famine in southern Somalia. ](/news/2011/07/20/2011-horn-of-africa-famine-the-united-nations-declares-a-famine-in-southern-somalia.md)
-_Context: Somali, United Nations, famine, famine_
+_Context: Somalia, United Nations, famine, famine_
 
 ### [Typhoon Ma-on hits Japan, landing in Tokushima Prefecture; at least 47 people are injured and 1 person is left missing before the typhoon is downgraded to a tropical storm. ](/news/2011/07/20/typhoon-ma-on-hits-japan-landing-in-tokushima-prefecture-at-least-47-people-are-injured-and-1-person-is-left-missing-before-the-typhoon-is.md)
 _Context: Japan, Tokushima Prefecture, Typhoon Ma-on, tropical storm_

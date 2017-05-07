@@ -7,7 +7,7 @@ Further violence has broken out in the city of Jos in central Nigeria following 
 _Context: Afghanistan, Turkey_
 
 ### [Somali pirates seize a Thai-flagged ship off the coast of Somalia. ](/news/2010/12/26/somali-pirates-seize-a-thai-flagged-ship-off-the-coast-of-somalia.md)
-_Context: Somali, Somali pirates, Thailand_
+_Context: Somali pirates, Somalia, Thailand_
 
 ### [Israeli forces kill 2 Palestinian militants of the al-Quds Brigades of the Islamic Jihad who were planting an explosive device to be used against an Israeli patrol near the border in the southern Gaza Strip. ](/news/2010/12/26/israeli-forces-kill-2-palestinian-militants-of-the-al-quds-brigades-of-the-islamic-jihad-who-were-planting-an-explosive-device-to-be-used-ag.md)
 Two Islamic Jihad militants killed by fire along Strip border; Deputy PM: &quot;I hope there is not need for another operation such as Cast Lead.”

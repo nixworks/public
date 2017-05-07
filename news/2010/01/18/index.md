@@ -13,7 +13,7 @@ Pakistani security forces said Indian troops fired on their positions near Lahor
 _Context: Mehmet Ali Agca, Pope, Pope John Paul II, Turkey_
 
 ### [Somalia sends a letter of protest to Kenya after the arrest of MPs and other officials, including Muslim leader Al-Amin Kimathi, over recent riots. ](/news/2010/01/18/somalia-sends-a-letter-of-protest-to-kenya-after-the-arrest-of-mps-and-other-officials-including-muslim-leader-al-amin-kimathi-over-recent.md)
-_Context: Al-Amin Kimathi, Kenya, MP, Muslim, Somali_
+_Context: Al-Amin Kimathi, Kenya, MP, Muslim, Somalia_
 
 ### [Two dozen Afghan Taliban insurgents launch coordinated attacks against the presidential palace and other buildings in central Kabul on the day a new government is to be sworn in. ](/news/2010/01/18/two-dozen-afghan-taliban-insurgents-launch-coordinated-attacks-against-the-presidential-palace-and-other-buildings-in-central-kabul-on-the-d.md)
 _Context: Afghanistan, Kabul, Taliban_

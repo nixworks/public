@@ -7,7 +7,7 @@ _Context: Samoa, Tokelau, Tokelauan self-determination referendum_
 _Context: Turkey, constitutional referendum, electoral reform_
 
 ### [ Voters go to the polls in Slovenia to elect a new President, with Lojze Peterle winning most votes but not a majority. A runoff between him and Danilo Trk will be held on November 11. ](/news/2007/10/21/voters-go-to-the-polls-in-slovenia-to-elect-a-new-president-with-lojze-peterle-winning-most-votes-but-not-a-majority-a-runoff-between-him.md)
-_Context: 2007 Slovenian presidential elections, Danilo Trk, Lojze Peterle, November 11, President of Slovenia, Slovenia, second round_
+_Context: 2007 Slovenian presidential elections, Danilo Trk, Lojze Peterle, November 11, President of Slovenia, Slovenia, run-off_
 
 ### [ Marco Fu wins the 2007 Royal London Watches Grand Prix snooker tournament, defeating Ronnie O'Sullivan 9 frames to 6. ](/news/2007/10/21/marco-fu-wins-the-2007-royal-london-watches-grand-prix-snooker-tournament-defeating-ronnie-o-sullivan-9-frames-to-6.md)
 _Context: 2007 Royal London Watches Grand Prix snooker tournament, Marco Fu, Ronnie O'Sullivan_

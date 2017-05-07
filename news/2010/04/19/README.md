@@ -40,7 +40,7 @@ _Context: Bangkok, Thailand_
 Three letters - GST - are standing between Kevin Rudd and the most dramatic overhaul of the health and hospital network since the introduction of Medicare.
 
 ### [UN Goodwill Ambassador Angelina Jolie appeals for safety in Somalia for thousands of Somalis trapped in the country's capital of Mogadishu. ](/news/2010/04/19/un-goodwill-ambassador-angelina-jolie-appeals-for-safety-in-somalia-for-thousands-of-somalis-trapped-in-the-countryas-capital-of-mogadishu.md)
-_Context: Angelina Jolie, Mogadishu, Somali, UN Goodwill Ambassador_
+_Context: Angelina Jolie, Mogadishu, Somalia, UN Goodwill Ambassador_
 
 ### [Franck Ribery and other footballers from the French national football team are investigated by police in connection with an underage prostitution ring. ](/news/2010/04/19/franck-riba-c-ry-and-other-footballers-from-the-french-national-football-team-are-investigated-by-police-in-connection-with-an-underage-prosti.md)
 _Context: France, Franck Ribery, association football, prostitution_

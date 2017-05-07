@@ -10,7 +10,7 @@ An architect has unveiled plans to build the world&#039;s first rotating skyscra
 _Context: Baghdad, bomb_
 
 ### [ An Israeli security officer shoots himself as French President Nicolas Sarkozy is about to board his plane after a 3-day trip to Israel and the West Bank. ](/news/2008/06/24/an-israeli-security-officer-shoots-himself-as-french-president-nicolas-sarkozy-is-about-to-board-his-plane-after-a-3-day-trip-to-israel-and.md)
-_Context: Israel, Nicolas Sarkozy, West Bank, president, suicide_
+_Context: Israel, Nicolas Sarkozy, President of France, West Bank, suicide_
 
 ### [ The authorities in Mexico City sack 17 police officers for their role in a stampede during a raid at a nightclub that caused the death of 12 people. ](/news/2008/06/24/the-authorities-in-mexico-city-sack-17-police-officers-for-their-role-in-a-stampede-during-a-raid-at-a-nightclub-that-caused-the-death-of-1.md)
 _Context: Mexico City_

@@ -10,7 +10,7 @@ The official source of CFL news, opinion, video highlights, schedules, scores, s
 _Context: Ammar al-Saffar, Iraq_
 
 ### [ Somali Civil War: UN Secretary-General Kofi Annan warns Somalia's neighbours to stay out, as UN experts paint an alarming picture of foreign and extremist intervention in a nation on the brink of all-out war that could engulf the Horn of Africa. ](/news/2006/11/19/somali-civil-war-un-secretary-general-kofi-annan-warns-somalia-s-neighbours-to-stay-out-as-un-experts-paint-an-alarming-picture-of-foreig.md)
-_Context: Horn of Africa, Kofi Annan, Somali, United Nations, United Nations Secretary-General, War in Somalia_
+_Context: Horn of Africa, Kofi Annan, Somalia, United Nations, United Nations Secretary-General, War in Somalia_
 
 ### [ Suspected assassination plot: Alexander Litvinenko, a former Russian spy who defected to Britain six years ago, is fighting for his life in a London hospital after being poisoned with polonium-210 in a sushi bar. ](/news/2006/11/19/suspected-assassination-plot-alexander-litvinenko-a-former-russian-spy-who-defected-to-britain-six-years-ago-is-fighting-for-his-life-in.md)
 News and opinion from The Times &amp; The Sunday Times

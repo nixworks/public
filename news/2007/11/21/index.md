@@ -19,7 +19,7 @@ _Context: Croatia, England, Euro 2008_
 _Context: CIA leak scandal, George W. Bush, President, Scott McClellan, U.S., White House, White House Press Secretary_
 
 ### [ Former President of France Jacques Chirac is probed by a judge for alleged embezzlement of public funds when he was Mayor of Paris. ](/news/2007/11/21/former-president-of-france-jacques-chirac-is-probed-by-a-judge-for-alleged-embezzlement-of-public-funds-when-he-was-mayor-of-paris.md)
-_Context: Jacques Chirac, Mayor of Paris, embezzlement, president, public funds_
+_Context: Jacques Chirac, Mayor of Paris, President of France, embezzlement, public funds_
 
 ### [ Researchers in Kyoto, San Francisco, and Wisconsin publish evidence of turning human skin cells into stem cells by the retroviral insertion of genes. ](/news/2007/11/21/researchers-in-kyoto-san-francisco-and-wisconsin-publish-evidence-of-turning-human-skin-cells-into-stem-cells-by-the-retroviral-insertion.md)
 Turning human skin cells into what appear to be embryonic stem cells without having to make or destroy an embryo could quell an ethical debate.

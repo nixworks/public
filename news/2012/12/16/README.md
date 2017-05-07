@@ -55,7 +55,7 @@ _Context: 2012 European Women's Handball Championship, Belgrade, Montenegro, Nor
 _Context: Channel One Cup, Czech Republic, Euro Hockey Tour, Finland, Moscow, Russia, Sweden, ice hockey_
 
 ### [In swimming, American swimmer Ryan Lochte with eight medals (six gold, one silver, one bronze) and two world records becomes the main hero of the 2012 FINA World Swimming Championships (25 m) in a short course that ended in Turkey's Istanbul. ](/news/2012/12/16/in-swimming-american-swimmer-ryan-lochte-with-eight-medals-six-gold-one-silver-one-bronze-and-two-world-records-becomes-the-main-hero-o.md)
-_Context: 2012 FINA World Swimming Championships (25 m), Americans, Istanbul, Ryan Lochte, Turkey, short course, swimmer, world records_
+_Context: 2012 FINA World Swimming Championships (25 m), American, Istanbul, Ryan Lochte, Turkey, short course, swimmer, world records_
 
 ### [British professional racing cyclist Bradley Wiggins wins the 2012 BBC Sports Personality of the Year Award ahead of track and field athlete Jessica Ennis and tennis player Andy Murray. ](/news/2012/12/16/british-professional-racing-cyclist-bradley-wiggins-wins-the-2012-bbc-sports-personality-of-the-year-award-ahead-of-track-and-field-athlete.md)
 Olympic gold medallist and Tour de France winner Bradley Wiggins is voted the 2012 BBC Sports Personality of the Year.

@@ -22,7 +22,7 @@ USIP was established by Congress in 1984 as an independent institution devoted t
 _Context: Sudan, clashes_
 
 ### [ Nicolas Sarkozy, the French Interior Minister, announces plans to run as a candidate for the French Presidency in elections in April 2007. ](/news/2006/11/30/nicolas-sarkozy-the-french-interior-minister-announces-plans-to-run-as-a-candidate-for-the-french-presidency-in-elections-in-april-2007.md)
-_Context: 2007 presidential election, Minister of the Interior, Nicolas Sarkozy, president_
+_Context: 2007 presidential election, Minister of the Interior, Nicolas Sarkozy, President of France_
 
 ### [ Hezbollah-led Lebanon opposition groups call for protests on Friday in an effort to bring down the Government, ](/news/2006/11/30/hezbollah-led-lebanon-opposition-groups-call-for-protests-on-friday-in-an-effort-to-bring-down-the-government.md)
 _Context: Hezbollah, Lebanon_

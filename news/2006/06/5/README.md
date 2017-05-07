@@ -4,7 +4,7 @@
 _Context: European Union, Iran, Javier Solana, Tehran_
 
 ### [ The Islamic Court Union announces that it has seized Mogadishu, the capital of Somalia, after battles with the Alliance for the Restoration of Peace and Counterterrorism, a group of secular US-backed warlords. ](/news/2006/06/5/the-islamic-court-union-announces-that-it-has-seized-mogadishu-the-capital-of-somalia-after-battles-with-the-alliance-for-the-restoration.md)
-_Context: Alliance for the Restoration of Peace and Counterterrorism, Islamic Court Union, Mogadishu, Somali, battles_
+_Context: Alliance for the Restoration of Peace and Counterterrorism, Islamic Court Union, Mogadishu, Somalia, battles_
 
 ### [ Alan Garca of the APRA is re-elected President of Peru after winning a runoff with the Union for Peru's Ollanta Humala on Sunday. ](/news/2006/06/5/alan-garcia-of-the-apra-is-re-elected-president-of-peru-after-winning-a-runoff-with-the-union-for-peru-s-ollanta-humala-on-sunday.md)
 Former President Alan Garcia won a runoff election against the Hugo Chavez-backed Ollanta Humala to win the Peruvian presidential election

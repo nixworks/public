@@ -1,7 +1,7 @@
 ## [2007-04-10](/news/2007/04/10/index.md)
 
 ### [ A Somali committee estimates the death toll of recent fighting between Ethiopian and Somali Government forces and insurgents in Mogadishu at more than 1,000. ](/news/2007/04/10/a-somali-committee-estimates-the-death-toll-of-recent-fighting-between-ethiopian-and-somali-government-forces-and-insurgents-in-mogadishu-a.md)
-_Context: Ethiopia, Mogadishu, Somali, heavy clashes_
+_Context: Ethiopia, Mogadishu, Somalia, heavy clashes_
 
 ### [ The United States authorises $59 million worth of aid for the Palestinian Authority. ](/news/2007/04/10/the-united-states-authorises-59-million-worth-of-aid-for-the-palestinian-authority.md)
 _Context: Palestinian Authority, U.S._

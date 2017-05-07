@@ -1,7 +1,7 @@
 ## [News](/news/2017/05/7/index.md)
 
-### [Voters in France return to the polls for a run-off, to elect either Emmanuel Macron or Marine Le Pen as the new President of France. ](/news/2017/05/7/voters-in-france-return-to-the-polls-for-a-run-off-to-elect-either-emmanuel-macron-or-marine-le-pen-as-the-new-president-of-france.md)
-_Context: Emmanuel Macron, France, French presidential election, 2017, Marine Le Pen, President of France, run-off_
+### [Voters in France return to the polls for a run-off, to elect either Emmanuel Macron or Marine Le Pen as the new President of France. Final opinion polls continue to predict that the centrist Macron will defeat the far-right Le Pen. ](/news/2017/05/7/voters-in-france-return-to-the-polls-for-a-run-off-to-elect-either-emmanuel-macron-or-marine-le-pen-as-the-new-president-of-france-final-o.md)
+Opinion polls over the past two weeks have consistently suggested Emmanuel Macron is about 20 points ahead of his rival, but in an era of political upsets and growing populism, many are unwilling to write off Marine Le Pen.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -23,7 +23,7 @@ Young protester shot in the head amid continuation of demonstrations that brand 
 ### [Nigerian officials report, as a result of negotiations, Boko Haram has released an estimated 82 schoolgirls who were among about 220 kidnapped from a secondary school in Chibok in Borno State in April 2014. ](/news/2017/05/6/nigerian-officials-report-as-a-result-of-negotiations-boko-haram-has-released-an-estimated-82-schoolgirls-who-were-among-about-220-kidnapp.md)
 Boko Haram militants have released dozens of schoolgirls out of a group of more than 200 whom they kidnapped from the northeastern town of Chibok in April 2014, officials said on Saturday.
 
-### [American comedian Stephen Colbert is to be investigated by the Federal Communications Commission over a 'joke' about U.S. president Donald Trump. ](/news/2017/05/6/american-comedian-stephen-colbert-is-to-be-investigated-by-the-federal-communications-commission-over-a-joke-about-u-s-president-donald-t.md)
+### [American comedian and ''Late Show'' host Stephen Colbert is to be investigated by the Federal Communications Commission over a sexually explicit joke about U.S. president Donald Trump's relationship with Russian president Vladimir Putin. ](/news/2017/05/6/american-comedian-and-late-show-host-stephen-colbert-is-to-be-investigated-by-the-federal-communications-commission-over-a-sexually-expl.md)
 TV network CBS faces a fine if the joke, perceived by some to be homophobic, is deemed &quot;indecent&quot;.
 
 ### [Severe Tropical Cyclone Donna is upgraded to a Category Four, and continues to damage houses and infrastructure in the north of Vanuatu, particularly in Torba Province. ](/news/2017/05/6/severe-tropical-cyclone-donna-is-upgraded-to-a-category-four-and-continues-to-damage-houses-and-infrastructure-in-the-north-of-vanuatu-par.md)

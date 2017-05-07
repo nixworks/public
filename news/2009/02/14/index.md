@@ -16,7 +16,7 @@ Ehud Olmert rules out truce with Hamas until seized Israeli soldier is freed.
 _Context: Japan, Moon, National Astronomical Observatory, topographic map_
 
 ### [ Somali pirates release the Japanese oil tanker ''Chemstar Venus'' and its 23 crew members. ](/news/2009/02/14/somali-pirates-release-the-japanese-oil-tanker-chemstar-venus-and-its-23-crew-members.md)
-_Context: ''Chemstar Venus'', Japan, Somali, Somali pirates, oil tanker_
+_Context: ''Chemstar Venus'', Japan, Somali pirates, Somalia, oil tanker_
 
 ## [Previous Day...](/news/2009/02/13/index.md)
 

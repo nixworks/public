@@ -16,10 +16,10 @@ Riots broke out at a high-security prison in the Sri Lankan capital of Colombo, 
 _Context: Rwanda, grenade_
 
 ### [A United States rescue operation in Somalia frees two foreign hostages and kills nine pirates. ](/news/2012/01/25/a-united-states-rescue-operation-in-somalia-frees-two-foreign-hostages-and-kills-nine-pirates.md)
-_Context: Somali, U.S._
+_Context: Somalia, U.S._
 
 ### [A truck bomb detonates at an Ethiopian military base in Somalia. ](/news/2012/01/25/a-truck-bomb-detonates-at-an-ethiopian-military-base-in-somalia.md)
-_Context: Ethiopia, Somali_
+_Context: Ethiopia, Somalia_
 
 ### [A landslide in central Papua New Guinea leaves four people dead and 60 missing. ](/news/2012/01/25/a-landslide-in-central-papua-new-guinea-leaves-four-people-dead-and-60-missing.md)
 _Context: Papua New Guinea_

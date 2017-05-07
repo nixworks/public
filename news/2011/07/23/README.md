@@ -25,7 +25,7 @@ _Context: Chile, Escondida_
 Near Wenzhou, China, a train halted by lightning was struck by another train, derailing six cars, two of which were thrown from a bridge.
 
 ### [Unicef states that a child dies from malnutrition every six minutes (250 a day) in Somalia. ](/news/2011/07/23/unicef-states-that-a-child-dies-from-malnutrition-every-six-minutes-250-a-day-in-somalia.md)
-_Context: Somali, UNICEF, famine_
+_Context: Somalia, UNICEF, famine_
 
 ### [Kim Sung-hwan, the South Korean Minister for Foreign Affairs, meets with Pak Ui-chun, his North Korean counterpart, on the sidelines of an ASEAN meeting in Bali, Indonesia. ](/news/2011/07/23/kim-sung-hwan-the-south-korean-minister-for-foreign-affairs-meets-with-pak-ui-chun-his-north-korean-counterpart-on-the-sidelines-of-an-a.md)
 _Context: ASEAN, Bali, Indonesia, Kim Sung-hwan, North Korea, Pak Ui-chun, South Korea_

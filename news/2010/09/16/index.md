@@ -4,7 +4,7 @@
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews
 
 ### [Somalia:The United Nations Special Representative for Somalia, Augustine Mahinga, says the situation in the country remains "dire" and the AMISOM mission is "underfunded". ](/news/2010/09/16/somalia-pthe-united-nations-special-representative-for-somalia-augustine-mahinga-says-the-situation-in-the-country-remains-dire-and-the.md)
-_Context: AMISOM, Somali, United Nations_
+_Context: AMISOM, Somalia, United Nations_
 
 ### [The Taliban kidnaps 18 election officials and campaign workers for the Afghan parliamentary election in Badghis Province, Afghanistan. ](/news/2010/09/16/the-taliban-kidnaps-18-election-officials-and-campaign-workers-for-the-afghan-parliamentary-election-in-badghis-province-afghanistan.md)
 _Context: Afghanistan, Badghis Province, Taliban, parliamentary election_

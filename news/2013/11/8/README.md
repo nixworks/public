@@ -1,7 +1,7 @@
 ## [2013-11-8](/news/2013/11/8/index.md)
 
 ### [War in Somalia (2009-present):At least 11 people are killed in the Somalian capital Mogadishu after a bomb explodes in a carpark. ](/news/2013/11/8/war-in-somalia-2009apresent-pat-least-11-people-are-killed-in-the-somalian-capital-mogadishu-after-a-bomb-explodes-in-a-carpark.md)
-_Context: Mogadishu, Somali, War in Somalia (2009-present)_
+_Context: Mogadishu, Somalia, War in Somalia (2009-present)_
 
 ### [UNESCO suspends the voting rights of the United States and Israel after both countries refused to pay their dues as a protest to the membership of the State of Palestine. ](/news/2013/11/8/unesco-suspends-the-voting-rights-of-the-united-states-and-israel-after-both-countries-refused-to-pay-their-dues-as-a-protest-to-the-members.md)
 _Context: Israel, Palestinian, U.S., UNESCO_

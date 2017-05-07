@@ -16,7 +16,7 @@ More than a dozen bomb attacks in and around Baghdad left 18 people dead and mor
 The United Nations Security Council called on the north Sudanese army to withdraw from positions it has taken in the disputed region of Abyei, it said in a statement on Sunday.
 
 ### [African Union and Somali troops advance on Mogadishu's Bakara market, a rebel-held area, amid intense fighting. ](/news/2011/05/22/african-union-and-somali-troops-advance-on-mogadishu-s-bakara-market-a-rebel-held-area-amid-intense-fighting.md)
-_Context: African Union, Mogadishu, Somali_
+_Context: African Union, Mogadishu, Somalia_
 
 ### [Three explosions rock a Pakistan Air Force base in the southern city of Karachi. ](/news/2011/05/22/three-explosions-rock-a-pakistan-air-force-base-in-the-southern-city-of-karachi.md)
 _Context: Karachi, Pakistan Air Force_

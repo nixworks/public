@@ -7,7 +7,7 @@ _Context: President of Zimbabwe, Robert Mugabe, Roman Catholic, Zimbabwe, bishop
 _Context: Algeria, Islamist, soldier_
 
 ### [ Pope  Benedict laments the violence in Darfur, the Democratic Republic of Congo, Zimbabwe, Somalia, Afghanistan, and the Middle East, stating, "nothing positive is happening in Iraq" in his Easter homily. ](/news/2007/04/8/pope-benedict-laments-the-violence-in-darfur-the-democratic-republic-of-congo-zimbabwe-somalia-afghanistan-and-the-middle-east-stati.md)
-_Context: Afghanistan, Benedict XVI, Darfur, Democratic Republic of Congo, Easter, Iraq War, Middle East, Pope, Somali, Zimbabwe, homily_
+_Context: Afghanistan, Benedict XVI, Darfur, Democratic Republic of Congo, Easter, Iraq War, Middle East, Pope, Somalia, Zimbabwe, homily_
 
 ### [ War in Afghanistan: Seven NATO soldiers die as a result of car bombings in southern Afghanistan as it conducts an offensive against the Taliban. ](/news/2007/04/8/war-in-afghanistan-p-seven-nato-soldiers-die-as-a-result-of-car-bombings-in-southern-afghanistan-as-it-conducts-an-offensive-against-the-ta.md)
 _Context: Afghanistan, NATO, Taliban, War in Afghanistan (2001-present), car bombing, soldier_

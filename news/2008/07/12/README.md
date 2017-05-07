@@ -4,7 +4,7 @@
 _Context: Aleutian Islands, Okmok Caldera, Umnak, Unalaska Island_
 
 ### [ French President Nicolas Sarkozy announces that Syria and Lebanon have agreed to establish embassies in each other's capitals. ](/news/2008/07/12/french-president-nicolas-sarkozy-announces-that-syria-and-lebanon-have-agreed-to-establish-embassies-in-each-other-s-capitals.md)
-_Context: Lebanon, Nicolas Sarkozy, Syria, embassies, president_
+_Context: Lebanon, Nicolas Sarkozy, President of France, Syria, embassies_
 
 ### [ Six party talks being held in Beijing agrees on steps to verify the end of North Korea's nuclear weapons program. ](/news/2008/07/12/six-party-talks-being-held-in-beijing-agrees-on-steps-to-verify-the-end-of-north-korea-s-nuclear-weapons-program.md)
 Six-party talks agree on steps to verify disarmament.

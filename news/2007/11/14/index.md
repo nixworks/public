@@ -1,7 +1,7 @@
 ## [2007-11-14](/news/2007/11/14/index.md)
 
 ### [ Strikes in France: French transport and energy workers' strike against President Nicolas Sarkozy's pension reform broadens, disrupting especially rail services. ](/news/2007/11/14/strikes-in-france-p-french-transport-and-energy-workers-strike-against-president-nicolas-sarkozy-s-pension-reform-broadens-disrupting-esp.md)
-_Context: France, Nicolas Sarkozy, energy, pension reform, president, public-sector strikes, rail service, strike, transport_
+_Context: France, Nicolas Sarkozy, President of France, energy, pension reform, public-sector strikes, rail service, strike, transport_
 
 ### [ The 2007 National Book Awards go to Denis Johnson (''Tree of Smoke''), fiction, Tim Weiner (''Legacy of Ashes: The History of the CIA''), non-fiction, Sherman Alexie (''The Absolutely True Diary of a Part-Time Indian''), young people's literature, and Robert Hass (''Time and Materials''), poetry.  ](/news/2007/11/14/the-2007-national-book-awards-go-to-denis-johnson-tree-of-smoke-fiction-tim-weiner-legacy-of-ashes-the-history-of-the-cia-n.md)
 _Context: Denis Johnson, Legacy of Ashes: The History of the CIA, National Book Award's, Robert Hass, Sherman Alexie, The Absolutely True Diary of a Part-Time Indian, Tim Weiner, Time and Materials, Tree of Smoke_

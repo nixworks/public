@@ -40,7 +40,7 @@ _Context: China's, Nanping_
 Beijing accuses search giant of breaking promises to abide by Chinese laws.
 
 ### [A Turkish ship is hijacked by Somali pirates more than 1,000 miles away from the coast of Somalia and closer to India. ](/news/2010/03/23/a-turkish-ship-is-hijacked-by-somali-pirates-more-than-1-000-miles-away-from-the-coast-of-somalia-and-closer-to-india.md)
-_Context: India, Somali, Somali pirates, Turkey_
+_Context: India, Somali pirates, Somalia, Turkey_
 
 ### [Virgin Galactic's SpaceShipTwo is shown on its maiden flight from the Mojave Air and Spaceport in Mojave, California, United States. ](/news/2010/03/23/virgin-galactic-s-spaceshiptwo-is-shown-on-its-maiden-flight-from-the-mojave-air-and-spaceport-in-mojave-california-united-states.md)
 _Context: Mojave Air and Spaceport, Mojave, California, SpaceShipTwo, Virgin Galactic's_

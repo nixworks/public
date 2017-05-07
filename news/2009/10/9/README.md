@@ -40,7 +40,7 @@ A suspected suicide car-bomber killed 49 people on Friday in the Pakistani city 
 _Context: Arizona, U.S._
 
 ### [ Public amputations on three men accused of robbery occur in Somalia. ](/news/2009/10/9/public-amputations-on-three-men-accused-of-robbery-occur-in-somalia.md)
-_Context: Somali, amputee_
+_Context: Somalia, amputee_
 
 ## [Previous Day...](/news/2009/10/8/index.md)
 

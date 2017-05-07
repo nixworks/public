@@ -1,7 +1,7 @@
 ## [2006-11-26](/news/2006/11/26/index.md)
 
 ### [ Somali Civil War: The Islamic Courts Union that controls much of southern Somalia has dispatched thousands of troops to within 15km of the border with Ethiopia. ](/news/2006/11/26/somali-civil-war-the-islamic-courts-union-that-controls-much-of-southern-somalia-has-dispatched-thousands-of-troops-to-within-15km-of-the.md)
-_Context: Ethiopia, Islamic Courts Union, Somali, War in Somalia_
+_Context: Ethiopia, Islamic Courts Union, Somalia, War in Somalia_
 
 ### [ War in Chad (2005-present):  Chad's armed forces have retaken Abeche with no major fighting being reported. ](/news/2006/11/26/war-in-chad-2005apresent-p-chad-s-armed-forces-have-retaken-aba-c-cha-c-with-no-major-fighting-being-reported.md)
 _Context: Abeche, Chad, War in Chad (2005-present)_

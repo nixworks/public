@@ -19,7 +19,7 @@ _Context: Birmingham, London Heathrow Airport, London Stansted Airport, United K
 _Context: FDA, contraception, morning-after pill, prescriptions_
 
 ### [ Somalia: 31 people die in the course of fighting between rival militias.[http://story.news.yahoo.com/news?tmpl=story&u=/ap/20031217/ap_on_re_af/somalia_fighting]](/news/2003/12/16/somalia-31-people-die-in-the-course-of-fighting-between-rival-militias-http-story-news-yahoo-com-news-tmpl-story-u-ap-20031217-ap_on_r.md)
-_Context: Somali_
+_Context: Somalia_
 
 ## [Previous Day...](/news/2003/12/15/index.md)
 

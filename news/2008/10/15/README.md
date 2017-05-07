@@ -10,7 +10,7 @@ The Phillies beat the Dodgers in Game 5 of the N.L.C.S. to advance to the World 
 _Context: Retail sales, September 2008, U.S., United States economy, recession_
 
 ### [ The International Maritime Bureau claims that pirates have hijacked a bulk carrier with 21 crew members in the Gulf of Aden near Somalia. ](/news/2008/10/15/the-international-maritime-bureau-claims-that-pirates-have-hijacked-a-bulk-carrier-with-21-crew-members-in-the-gulf-of-aden-near-somalia.md)
-_Context: Gulf of Aden, International Maritime Bureau, Pirate, Somali, Somali pirates, bulk carrier_
+_Context: Gulf of Aden, International Maritime Bureau, Pirate, Somali pirates, Somalia, bulk carrier_
 
 ### [ 2008 Cambodian-Thai stand-off: Cambodia claims that Thai forces are grouping near the disputed area with later reports of an exchange of gunfire resulting in the death of two Royal Cambodian Army soldiers. ](/news/2008/10/15/2008-cambodian-thai-stand-off-cambodia-claims-that-thai-forces-are-grouping-near-the-disputed-area-with-later-reports-of-an-exchange-of-gu.md)
 _Context: Army, Cambodia, Thailand, exchange gunfire_

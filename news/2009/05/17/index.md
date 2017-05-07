@@ -1,7 +1,7 @@
 ## [2009-05-17](/news/2009/05/17/index.md)
 
 ### [ Al-Shabaab captures Jowhar, Somalia, from the Transitional Federal Government. ](/news/2009/05/17/al-shabaab-captures-jowhar-somalia-from-the-transitional-federal-government.md)
-_Context: Al-Shabaab, Jowhar, Somali, Transitional Federal Government, War in Somalia (2009-)_
+_Context: Al-Shabaab, Jowhar, Somalia, Transitional Federal Government, War in Somalia (2009-)_
 
 ### [ Four oil companies announce a plan to supply Europe with natural gas from Kurdistan, Iraq, via the Nabucco pipeline. ](/news/2009/05/17/four-oil-companies-announce-a-plan-to-supply-europe-with-natural-gas-from-kurdistan-iraq-via-the-nabucco-pipeline.md)
 _Context: Europe, Iraq, Iraqi Kurdistan, Nabucco natural gas pipeline, natural gas, petroleum industry, pipeline_

@@ -13,7 +13,7 @@ _Context: Dambulla, Sri Lanka_
 _Context: Chad, N'Djamena, War in Chad (2005-present), military assault_
 
 ### [ French President Nicolas Sarkozy marries singer and former supermodel Carla Bruni at the Elysee Palace. ](/news/2008/02/2/french-president-nicolas-sarkozy-marries-singer-and-former-supermodel-carla-bruni-at-the-alysa-c-e-palace.md)
-_Context: Carla Bruni, Elysee Palace, France, Nicolas Sarkozy, president, supermodel_
+_Context: Carla Bruni, Elysee Palace, France, Nicolas Sarkozy, President of France, supermodel_
 
 ## [Previous Day...](/news/2008/02/1/index.md)
 

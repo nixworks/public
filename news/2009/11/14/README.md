@@ -7,7 +7,7 @@ _Context: 2010 FIFA World Cup, Bahrain, New Zealand national football team_
 Tony Alamo, a US preacher, has been sentenced to 175 years in prison for taking underage girls across state lines for sexual intercourse.
 
 ### [ The Ogaden National Liberation Front, a separatist Somali rebel group in the southeast of Ethiopia, says it has begun a new offensive. ](/news/2009/11/14/the-ogaden-national-liberation-front-a-separatist-somali-rebel-group-in-the-southeast-of-ethiopia-says-it-has-begun-a-new-offensive.md)
-_Context: Ethiopia, Ogaden National Liberation Front, Somali_
+_Context: Ethiopia, Ogaden National Liberation Front, Somalia_
 
 ### [ A Peruvian court orders the arrest of two Chilean military officers on charges of spying, causing a diplomatic row between the two countries. ](/news/2009/11/14/a-peruvian-court-orders-the-arrest-of-two-chilean-military-officers-on-charges-of-spying-causing-a-diplomatic-row-between-the-two-countrie.md)
 _Context: Chile, Peru, espionage_

@@ -1,7 +1,7 @@
 ## [2011-02-14](/news/2011/02/14/index.md)
 
 ### [At least seven people are killed in clashes between rival militant groups in Somalia. ](/news/2011/02/14/at-least-seven-people-are-killed-in-clashes-between-rival-militant-groups-in-somalia.md)
-_Context: Somali_
+_Context: Somalia_
 
 ### [Julian Assange's mother criticises leading figures in the U.S. government who called for her son's assassination on television, and expresses concerns that her son is being targeted by an American fatwa similar to the one brought against the writer Salman Rushdie in 1989. ](/news/2011/02/14/julian-assange-s-mother-criticises-leading-figures-in-the-u-s-government-who-called-for-her-son-s-assassination-on-television-and-expresse.md)
 _Context: ''The Satanic Verses'' controversy, Julian Assange, Salman Rushdie, fatwa_

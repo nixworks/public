@@ -16,7 +16,7 @@ _Context: Democratic Forces for the Liberation of Rwanda, Democratic Republic of
 _Context: 1989, China's, Communist Party general secretary, Communist Party of China, Tiananmen Square, Tiananmen Square protests of 1989, Zhao Ziyang, memoir_
 
 ### [ The South Korean Navy destroyer ''Mummu the Great'' and the U.S. Navy cruiser ''Gettysburg'' capture 17 suspected Somali pirates in the Gulf of Aden. ](/news/2009/05/14/the-south-korean-navy-destroyer-mummu-the-great-and-the-u-s-navy-cruiser-gettysburg-capture-17-suspected-somali-pirates-in-the-gul.md)
-_Context: ''Gettysburg'', ''Mummu the Great'', Gulf of Aden, Somali, Somali pirates, South Korea, South Korean Navy, U.S., U.S. Navy, cruiser, destroyer_
+_Context: ''Gettysburg'', ''Mummu the Great'', Gulf of Aden, Somali pirates, Somalia, South Korea, South Korean Navy, U.S., U.S. Navy, cruiser, destroyer_
 
 ## [Previous Day...](/news/2009/05/13/index.md)
 

@@ -4,7 +4,7 @@
 _Context: Strait of Hormuz, U.S., U.S. Navy, USS ''Hartford'', USS ''New Orleans'', collide_
 
 ### [ Somali pirates hijack the Greek cargo ship MV ''Titan''. ](/news/2009/03/20/somali-pirates-hijack-the-greek-cargo-ship-mv-titan.md)
-_Context: Greece, MV, Somali, Somali pirates, cargo ship_
+_Context: Greece, MV, Somali pirates, Somalia, cargo ship_
 
 ### [ A bomb severely damages a government building in Athens, Greece. ](/news/2009/03/20/a-bomb-severely-damages-a-government-building-in-athens-greece.md)
 A homemade bomb exploded in a central Athens avenue late on Thursday, causing serious damage to a state building and shops but no injuries, police said.

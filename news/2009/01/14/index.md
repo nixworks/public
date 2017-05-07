@@ -19,7 +19,7 @@ _Context: Israel, Muslim, Osama bin Laden, fire, jihad_
 _Context: Gazprom, Russia, Russia-Ukraine gas disputes, Ukrainian, natural gas_
 
 ### [ Somali pirates release two ships off the coast of East Africa. ](/news/2009/01/14/somali-pirates-release-two-ships-off-the-coast-of-east-africa.md)
-_Context: East Africa, Somali, Somali pirates, seize_
+_Context: East Africa, Somali pirates, Somalia, seize_
 
 ### [ U.S. Federal Judge Richard J. Leon orders the release of 21-year-old Guantanamo Bay detainee Muhammad Hamid Al Qarani, who was imprisoned in 2002. ](/news/2009/01/14/u-s-federal-judge-richard-j-leon-orders-the-release-of-21-year-old-guanta-namo-bay-detainee-muhammad-hamid-al-qarani-who-was-imprisoned.md)
 _Context: Guantanamo Bay detention camp, Muhammad Hamid Al Qarani, Richard Leon, U.S., United States federal judge, detainees_

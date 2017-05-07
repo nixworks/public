@@ -4,7 +4,7 @@
 _Context: Egypt, Egyptian Army, Sinai, policemen_
 
 ### [At least 37 people are killed in Iraq amid a two-day spate of suicide bombings and armed prison escapes. ](/news/2013/07/22/at-least-37-people-are-killed-in-iraq-amid-a-two-day-spate-of-suicide-bombings-and-armed-prison-escapes.md)
-_Context: Iraq, prison escape, suicide bombing_
+_Context: Iraq, escape, suicide bombing_
 
 ### [Catherine, Duchess of Cambridge, gives birth to a healthy boy, George Alexander Louis. The child, formally known as His Royal Highness Prince George of Cambridge, is third in line to the British throne. ](/news/2013/07/22/catherine-duchess-of-cambridge-gives-birth-to-a-healthy-boy-george-alexander-louis-the-child-formally-known-as-his-royal-highness-princ.md)
 The Duke and Duchess of Cambridge name their son George Alexander Louis, Kensington Palace says.

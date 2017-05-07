@@ -4,7 +4,7 @@
 _Context: 2006 riots, Nuku'alofa, Tonga_
 
 ### [ Segolene Royal wins the Socialist Party's nomination to run for President of France in next year's election; she becomes France's first-ever female presidential candidate representing a major party. ](/news/2006/11/16/sa-c-gola-ne-royal-wins-the-socialist-party-s-nomination-to-run-for-president-of-france-in-next-year-s-election-she-becomes-france-s-first-e.md)
-_Context: 2007 presidential election, PS, Segolene Royal, president_
+_Context: 2007 presidential election, PS, President of France, Segolene Royal_
 
 ### [ Nancy Pelosi is unanimously nominated by the Democratic Party to become the next Speaker of the United States House of Representatives. Steny Hoyer wins the election over Jack Murtha to become Majority Leader. ](/news/2006/11/16/nancy-pelosi-is-unanimously-nominated-by-the-democratic-party-to-become-the-next-speaker-of-the-united-states-house-of-representatives-ste.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

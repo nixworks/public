@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Philippine vice president Leni Robredo faces an impeachment charge before the House of Representatives for condemning the Philippine Drug War at the United Nations. ](/news/2017/05/2/philippine-vice-president-leni-robredo-faces-an-impeachment-charge-before-the-house-of-representatives-for-condemning-the-philippine-drug-wa.md) _Context: Philippine_
+1. [Philippine vice president Leni Robredo faces an impeachment charge before the House of Representatives for condemning the country's war on drugs at the United Nations. ](/news/2017/05/2/philippine-vice-president-leni-robredo-faces-an-impeachment-charge-before-the-house-of-representatives-for-condemning-the-country-s-war-on-d.md) _Context: Philippine_
 2. [Robert Bentley, the Governor of Alabama, declares a state of emergency due to forecasts of storms with the threat of tornadoes during the day. The neighboring state of Georgia also faces the threat of severe weather. ](/news/2017/04/4/robert-bentley-the-governor-of-alabama-declares-a-state-of-emergency-due-to-forecasts-of-storms-with-the-threat-of-tornadoes-during-the-da.md) _Context: tornado_
 3. [The death tolls from tornadoes and floods in the midwestern and southern United States rises to ten with two people missing. ](/news/2017/04/30/the-death-tolls-from-tornadoes-and-floods-in-the-midwestern-and-southern-united-states-rises-to-ten-with-two-people-missing.md) _Context: tornado_
 4. [A 6.8 earthquake strikes off the coast of Mindanao, Philippines triggering tsunami warnings. ](/news/2017/04/28/a-6-8-earthquake-strikes-off-the-coast-of-mindanao-philippines-triggering-tsunami-warnings.md) _Context: Philippine_

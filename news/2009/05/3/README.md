@@ -10,7 +10,7 @@ A multimillionaire supermarket chain owner defeated a candidate of the governing
 _Context: Alps, Austria, Central Eastern, avalanche, kills_
 
 ### [ The French Navy frigate ''Nivse'' captures 11 Somali pirates. ](/news/2009/05/3/the-french-navy-frigate-nivose-captures-11-somali-pirates.md)
-_Context: France, French naval, Nivse, Somali, Somali pirates, captures, frigate_
+_Context: France, French naval, Nivse, Somali pirates, Somalia, captures, frigate_
 
 ### [ An Army helicopter crashes in Tchira, Venezuela, killing at least 18 people. ](/news/2009/05/3/an-army-helicopter-crashes-in-tachira-venezuela-killing-at-least-18-people.md)
 _Context: Army, Tchira, Venezuela, crashes, helicopter_

@@ -16,7 +16,7 @@ Scotland Yard says it has &quot;new evidence and new witnesses&quot; in the Made
 The&#x20;supreme&#x20;leader&#x20;of&#x20;Egypt&#x27;s&#x20;Muslim&#x20;Brotherhood,&#x20;Mohammed&#x20;Badie,&#x20;has&#x20;been&#x20;arrested&#x20;and&#x20;taken&#x20;to&#x20;Cairo&#x20;on&#x20;a&#x20;military&#x20;helicopter,&#x20;security&#x20;officials&#x20;say.&#x20;Ousted&#x20;president&#x20;Mohammed&#x20;Morsi&#x20;was&#x20;a&#x20;member&#x20;and&#x20;former&#x20;leader&#x20;of&#x20;the&#x20;Islamist&#x20;movement.
 
 ### [Former President of France, Nicolas Sarkozy, announces his resignation from the Constitutional Council of France following a finding that he exceeded spending limits in his 2012 Presidential election campaign. ](/news/2013/07/4/former-president-of-france-nicolas-sarkozy-announces-his-resignation-from-the-constitutional-council-of-france-following-a-finding-that-he.md)
-_Context: 2012 presidential election, Constitutional Council of France, Nicolas Sarkozy, president_
+_Context: 2012 presidential election, Constitutional Council of France, Nicolas Sarkozy, President of France_
 
 ### [At least 19 people have been shot in the US city of Chicago since Wednesday with four people killed and 15 injured. ](/news/2013/07/4/at-least-19-people-have-been-shot-in-the-us-city-of-chicago-since-wednesday-with-four-people-killed-and-15-injured.md)
 Seven men were killed and at least 42 other people were wounded in shootings throughout Chicago so far this holiday weekend. A 5-year-old boy was among the wounded -- shot early Friday alongside two men at...

@@ -7,7 +7,7 @@ _Context: Afghanistan, Khyber Pakhtunkhwa, Obama, Pakistan, President, U.S., War
 _Context: Abel Prize, France, Mathematicians, Mikhail Gromov, Russia_
 
 ### [ French President Nicolas Sarkozy will renounce his title of Co-Prince of Andorra if the country does not change its banking laws. ](/news/2009/03/26/french-president-nicolas-sarkozy-will-renounce-his-title-of-co-prince-of-andorra-if-the-country-does-not-change-its-banking-laws.md)
-_Context: Andorra, Co-Prince, France, Nicolas Sarkozy, bank, president_
+_Context: Andorra, Co-Prince, France, Nicolas Sarkozy, President of France, bank_
 
 ### [ Germany admits that the unidentified Phantom of Heilbronn serial killer never existed. ](/news/2009/03/26/germany-admits-that-the-unidentified-phantom-of-heilbronn-serial-killer-never-existed.md)
 _Context: Germany, Phantom of Heilbronn, serial killer_
@@ -31,7 +31,7 @@ _Context: Jandola, Pakistan, Taliban, suicide bomb attack_
 _Context: Mississippi, U.S., tornado_
 
 ### [ Somali pirates hijack ships from the Isle of Man, Greece, and the Seychelles, while three other ships escape. ](/news/2009/03/26/somali-pirates-hijack-ships-from-the-isle-of-man-greece-and-the-seychelles-while-three-other-ships-escape.md)
-_Context: Greece, Isle of Man, Seychelles, Somali, Somali pirates, ship_
+_Context: Greece, Isle of Man, Seychelles, Somali pirates, Somalia, ship_
 
 ### [ A bus-truck collision kills 14 people and injures four others in Petushki, Russia. ](/news/2009/03/26/a-busatruck-collision-kills-14-people-and-injures-four-others-in-petushki-russia.md)
 14 people have been killed and four injured after a bus collided with a truck and burst into flames east of Moscow.
