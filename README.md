@@ -1,4 +1,15 @@
-## [News](/news/2017/05/6/index.md)
+## [News](/news/2017/05/7/index.md)
+
+### [Voters in France return to the polls for a run-off, to elect either Emmanuel Macron or Marine Le Pen as the new President of France. ](/news/2017/05/7/voters-in-france-return-to-the-polls-for-a-run-off-to-elect-either-emmanuel-macron-or-marine-le-pen-as-the-new-president-of-france.md)
+_Context: Emmanuel Macron, France, French presidential election, 2017, Marine Le Pen, President of France, run-off_
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/05/6/index.md)
 
 ### [Pope Francis criticizes naming the U.S. military's biggest non-nuclear explosive as the Mother of All Bombs, saying that the word "mother" should not be used in reference to a deadly weapon. ](/news/2017/05/6/pope-francis-criticizes-naming-the-u-s-military-s-biggest-non-nuclear-explosive-as-the-mother-of-all-bombs-saying-that-the-word-mother-s.md)
 _Context: Mother of All Bombs, Pope Francis, War in Afghanistan (2001-present)_
@@ -9,7 +20,7 @@ American special forces are in the country as part of a train and advise mission
 ### [A young man is shot dead in Valencia, Carabobo, amid ongoing protests against the government of Nicolas Maduro. A video circulates on social media showing protesters tearing down a statue of former President Hugo Chavez in Rosario de Perija. ](/news/2017/05/6/a-young-man-is-shot-dead-in-valencia-carabobo-amid-ongoing-protests-against-the-government-of-nicola-s-maduro-a-video-circulates-on-socia.md)
 Young protester shot in the head amid continuation of demonstrations that brand President Nicolás Maduro a dictator and demand elections
 
-### [Nigerian officials report, as a result of negotiations, Boko Haram has released 82 schoolgirls who were among about 220 kidnapped from a college in Chibok in Borno State in April 2014. ](/news/2017/05/6/nigerian-officials-report-as-a-result-of-negotiations-boko-haram-has-released-82-schoolgirls-who-were-among-about-220-kidnapped-from-a-col.md)
+### [Nigerian officials report, as a result of negotiations, Boko Haram has released an estimated 82 schoolgirls who were among about 220 kidnapped from a secondary school in Chibok in Borno State in April 2014. ](/news/2017/05/6/nigerian-officials-report-as-a-result-of-negotiations-boko-haram-has-released-an-estimated-82-schoolgirls-who-were-among-about-220-kidnapp.md)
 Boko Haram militants have released dozens of schoolgirls out of a group of more than 200 whom they kidnapped from the northeastern town of Chibok in April 2014, officials said on Saturday.
 
 ### [American comedian Stephen Colbert is to be investigated by the Federal Communications Commission over a 'joke' about U.S. president Donald Trump. ](/news/2017/05/6/american-comedian-stephen-colbert-is-to-be-investigated-by-the-federal-communications-commission-over-a-joke-about-u-s-president-donald-t.md)
@@ -27,13 +38,9 @@ France goes to the polls on Sunday for the final round of the presidential elect
 ### [Hamas, which is seeking to reconcile with rival Palestinian organizations, elects former Prime Minister Ismail Haniyeh its new leader, replacing term-limited Khaled Meshaal.  Last week, Hamas dropped its longstanding call for Israel's destruction, and severed ties with the Muslim Brotherhood. ](/news/2017/05/6/hamas-which-is-seeking-to-reconcile-with-rival-palestinian-organizations-elects-former-prime-minister-ismail-haniyeh-its-new-leader-repla.md)
 _Context: Hamas, Ismail Haniyeh, Israel, Khaled Meshaal, Muslim Brotherhood, Prime Minister_
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/05/5/index.md)
+## [Day Before Yesterday](/news/2017/05/5/index.md)
 
 ### [ Russia, Iran  and Turkey reach an agreement, effective this midnight, to establish four "safe zones" in Syria over which all military aircraft, including Turkish, Russian, and American aircraft, will be barred from flying.  ](/news/2017/05/5/russia-iran-and-turkey-reach-an-agreement-effective-this-midnight-to-establish-four-safe-zones-in-syria-over-which-all-military-aircr.md)
 U.S. and coalition military planes will not be allowed to fly over designated safe zones in Syria under a Russian proposal that has the backing of Iran and Turkey, reports said Friday.
@@ -70,41 +77,7 @@ The satellite, funded by India, will help South Asian nations boost their commun
 
 ---
 
-## [Day Before Yesterday](/news/2017/05/4/index.md)
-
-### [A student is killed amid gunfire in El Tigre, raising the death toll in protests against Nicolas Maduro's government to at least 37 in the past month. ](/news/2017/05/4/a-student-is-killed-amid-gunfire-in-el-tigre-raising-the-death-toll-in-protests-against-nicola-s-maduro-s-government-to-at-least-37-in-the.md)
-_Context: 2017 Venezuelan protests, El Tigre, Nicolas Maduro, government, in the past month_
-
-### [Buckingham Palace announces that 95-year-old Prince Philip, Duke of Edinburgh, the Prince consort of Queen Elizabeth II, will retire from royal duties in August. ](/news/2017/05/4/buckingham-palace-announces-that-95-year-old-prince-philip-duke-of-edinburgh-the-prince-consort-of-queen-elizabeth-ii-will-retire-from-ro.md)
-The 95-year-old royal will stop carrying out public engagements in autumn, Buckingham Palace says.
-
-### [A severe dust storm impacts North China, causing flight cancellations at Beijing Capital International Airport. ](/news/2017/05/4/a-severe-dust-storm-impacts-north-china-causing-flight-cancellations-at-beijing-capital-international-airport.md)
-A dust storm enveloped a swathe of northern China yesterday dragging down air quality and visibility and prompting warnings for
-
-### [The Holy See and Myanmar establish full diplomatic relations following a meeting between Pope Francis and Myanmar's State Counsellor Aung San Suu Kyi. ](/news/2017/05/4/the-holy-see-and-myanmar-establish-full-diplomatic-relations-following-a-meeting-between-pope-francis-and-myanmar-s-state-counsellor-aung-sa.md)
-Rome -- The Vatican establishes full relations with Myanmar for the first time after a cordial meeting May 4 between Francis and Aung San Suu Kyi.
-
-### [A memorandum is signed by Russia, Iran, and Turkey calling for de-escalation of the Syrian Civil War, although neither the Syrian government nor the Syrian opposition are signatories. ](/news/2017/05/4/a-memorandum-is-signed-by-russia-iran-and-turkey-calling-for-de-escalation-of-the-syrian-civil-war-although-neither-the-syrian-government.md)
-_Context: Iran, Russia, Syria, Syrian Civil War, Syrian opposition, Turkey, de-escalation, memorandum_
-
-### [The British people vote locally. ](/news/2017/05/4/the-british-people-vote-locally.md)
-Thousands of voters across England, Scotland and Wales are going to the polls today to decide the fate of almost 5,000 council seats and to elect powerful new metro mayors.
-
-### [The campaign of Jon Ossoff wins a lawsuit extending voter registration. ](/news/2017/05/4/the-campaign-of-jon-ossoff-wins-a-lawsuit-extending-voter-registration.md)
-A federal judge on Thursday ordered Georgia to temporarily reopen voter registration ahead of&nbsp;a...
-
-### [Voter turnout is predicted to be low as Algerians go to the polls to elect members of the People's National Assembly. ](/news/2017/05/4/voter-turnout-is-predicted-to-be-low-as-algerians-go-to-the-polls-to-elect-members-of-the-people-s-national-assembly.md)
-Despite fierce government campaign, many Algerians are more worried about rising costs of living than by poll outcome.
-
-### [The Republican-controlled United States House of Representatives votes in favor of the repeal of the 2010 Patient Protection and Affordable Care Act and passage of the House's 2017 American Health Care Act, by a narrow, 217-213 vote. Twenty Republicans and all Democrats opposed the bill, which now heads to the United States Senate for its legislative action. ](/news/2017/05/4/the-republican-controlled-united-states-house-of-representatives-votes-in-favor-of-the-repeal-of-the-2010-patient-protection-and-affordable.md)
-House Republicans plan to vote Thursday on the latest version of the American Health Care Act – their answer to ObamaCare. Here’s what’s the bill does.
-
-### [Scientists confirm that Denmark has its first wild pack of Gray wolves for the first time in 200 years. ](/news/2017/05/4/scientists-confirm-that-denmark-has-its-first-wild-pack-of-gray-wolves-for-the-first-time-in-200-years.md)
-Arrival of a female wolf, that trekked 500km from Germany, means the pack could have cubs by spring
-
----
-
-## [Previous Day...](/news/2017/05/3/index.md)
+## [Previous Day...](/news/2017/05/4/index.md)
 
 ---
 
