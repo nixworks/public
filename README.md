@@ -15,6 +15,9 @@ France has banned the breeding of killer whales and dolphins in captivity. Campa
 ### [Voters in France return to the polls for a run-off, to elect either Emmanuel Macron or Marine Le Pen as the new President of France. Exit polls indicate that the centrist Macron defeated the far-right Le Pen. ](/news/2017/05/7/voters-in-france-return-to-the-polls-for-a-run-off-to-elect-either-emmanuel-macron-or-marine-le-pen-as-the-new-president-of-france-exit-po.md)
 _Context: Emmanuel Macron, France, French presidential election, 2017, Marine Le Pen, President of France, centrist, far-right, run-off_
 
+### [The United States Air Force's unmanned spacecraft X-37B successfully lands at Kennedy Space Center's Shuttle Landing Facility in Merritt Island, Florida, after spending a record-breaking 718 days in orbit. The landing was responsible for reports of sonic booms across central Florida. ](/news/2017/05/7/the-united-states-air-force-s-unmanned-spacecraft-x-37b-successfully-lands-at-kennedy-space-center-s-shuttle-landing-facility-in-merritt-isl.md)
+Air Force X-37B space plane glided to an autonomous landing at the Kennedy Space Center Sunday, closing out a 718-day flight
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
@@ -64,7 +67,7 @@ U.S. and coalition military planes will not be allowed to fly over designated sa
 _Context: Afghan border police, Chaman, Pakistani military, border crossing_
 
 ### [United States senators Ben Cardin (D-MD) and Marco Rubio (R-FL) file a bill restricting arms sales to the Philippine National Police over its drug war. ](/news/2017/05/5/united-states-senators-ben-cardin-d-md-and-marco-rubio-r-fl-file-a-bill-restricting-arms-sales-to-the-philippine-national-police-over-it.md)
-_Context: Ben Cardin, D, FL, MD, Marco Rubio, Philippine National Police, R, United States senators, arms sales, drug war_
+_Context: Ben Cardin, D, Florida, MD, Marco Rubio, Philippine National Police, R, United States senators, arms sales, drug war_
 
 ### [The Indian Supreme Court upholds the death sentences imposed on four men convicted in the  2012 gang rape and murder of a 23-year-old woman on board a bus in South Delhi. ](/news/2017/05/5/the-indian-supreme-court-upholds-the-death-sentences-imposed-on-four-men-convicted-in-the-2012-gang-rape-and-murder-of-a-23-year-old-woman.md)
 The Supreme Court on Friday upheld death sentences against four men who fatally gang raped a woman on board a bus in 2012, a crime that sparked widespread protests and drew international attention to violence against women.

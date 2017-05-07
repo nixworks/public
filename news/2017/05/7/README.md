@@ -15,5 +15,8 @@ France has banned the breeding of killer whales and dolphins in captivity. Campa
 ### [Voters in France return to the polls for a run-off, to elect either Emmanuel Macron or Marine Le Pen as the new President of France. Exit polls indicate that the centrist Macron defeated the far-right Le Pen. ](/news/2017/05/7/voters-in-france-return-to-the-polls-for-a-run-off-to-elect-either-emmanuel-macron-or-marine-le-pen-as-the-new-president-of-france-exit-po.md)
 _Context: Emmanuel Macron, France, French presidential election, 2017, Marine Le Pen, President of France, centrist, far-right, run-off_
 
+### [The United States Air Force's unmanned spacecraft X-37B successfully lands at Kennedy Space Center's Shuttle Landing Facility in Merritt Island, Florida, after spending a record-breaking 718 days in orbit. The landing was responsible for reports of sonic booms across central Florida. ](/news/2017/05/7/the-united-states-air-force-s-unmanned-spacecraft-x-37b-successfully-lands-at-kennedy-space-center-s-shuttle-landing-facility-in-merritt-isl.md)
+Air Force X-37B space plane glided to an autonomous landing at the Kennedy Space Center Sunday, closing out a 718-day flight
+
 ## [Previous Day...](/news/2017/05/6/index.md)
 
