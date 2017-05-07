@@ -1,6 +1,6 @@
 ### [2017-05-7](/news/2017/05/7/index.md)
 
-# France bans the breeding of Killer whales and Dolphins in captivity and orders aquariums and water parks to expand their pools within three years following a campaign by animal rights groups. 
+# France bans the breeding of killer whales and dolphins in captivity and orders aquariums and water parks to expand their pools within three years following a campaign by animal rights groups. 
 
 France has banned the breeding of killer whales and dolphins in captivity. Campaigners hope the move will eventually bring an end to shows involving the marine animals. The government has also banned the captivity of all whales, dolphins and porpoises, except for orcas and bottlenose dolphins.
 
