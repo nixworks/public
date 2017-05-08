@@ -1,4 +1,15 @@
-## [News](/news/2017/05/7/index.md)
+## [News](/news/2017/05/8/index.md)
+
+### [The United Nations Human Rights Council conducts a periodic review of the human rights situation in the Philippines. ](/news/2017/05/8/the-united-nations-human-rights-council-conducts-a-periodic-review-of-the-human-rights-situation-in-the-philippines.md)
+The Philippine government will present the human rights situation before the United Nations Human Rights Council in Geneva, Switzerland during the third cycle of its Universal Periodic Review. LIVE at 3 p.m. 
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/05/7/index.md)
 
 ### [At least 11 people are dead after a bus and truck collide in Vietnam's Gia Lai province. ](/news/2017/05/7/at-least-11-people-are-dead-after-a-bus-and-truck-collide-in-vietnam-s-gia-lai-province.md)
 HANOI (AFP) - A truck driving in the wrong direction on a one-way road smashed into a bus in Vietnam&#039;s central highlands on Sunday (May 7) killing at least 11 people, state media said.. Read more at straitstimes.com.
@@ -18,13 +29,9 @@ _Context: Emmanuel Macron, France, French presidential election, 2017, Marine Le
 ### [The United States Air Force's unmanned spacecraft X-37B successfully lands at Kennedy Space Center's Shuttle Landing Facility in Merritt Island, Florida, after spending a record-breaking 718 days in orbit. The landing was responsible for reports of sonic booms across central Florida. ](/news/2017/05/7/the-united-states-air-force-s-unmanned-spacecraft-x-37b-successfully-lands-at-kennedy-space-center-s-shuttle-landing-facility-in-merritt-isl.md)
 Air Force X-37B space plane glided to an autonomous landing at the Kennedy Space Center Sunday, closing out a 718-day flight
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/05/6/index.md)
+## [Day Before Yesterday](/news/2017/05/6/index.md)
 
 ### [Pope Francis criticizes naming the U.S. military's biggest non-nuclear explosive as the Mother of All Bombs, saying that the word "mother" should not be used in reference to a deadly weapon. ](/news/2017/05/6/pope-francis-criticizes-naming-the-u-s-military-s-biggest-non-nuclear-explosive-as-the-mother-of-all-bombs-saying-that-the-word-mother-s.md)
 _Context: Mother of All Bombs, Pope Francis, War in Afghanistan (2001-present)_
@@ -58,44 +65,7 @@ _Context: Hamas, Ismail Haniyeh, Israel, Khaled Meshaal, Muslim Brotherhood, Pri
 
 ---
 
-## [Day Before Yesterday](/news/2017/05/5/index.md)
-
-### [ Russia, Iran  and Turkey reach an agreement, effective this midnight, to establish four "safe zones" in Syria over which all military aircraft, including Turkish, Russian, and American aircraft, will be barred from flying.  ](/news/2017/05/5/russia-iran-and-turkey-reach-an-agreement-effective-this-midnight-to-establish-four-safe-zones-in-syria-over-which-all-military-aircr.md)
-U.S. and coalition military planes will not be allowed to fly over designated safe zones in Syria under a Russian proposal that has the backing of Iran and Turkey, reports said Friday.
-
-### [Afghan border police and the Pakistani military clash at a border crossing near Chaman, killing at least 13 people and wounding over 80 others. Both sides blame each other for the flareup in fighting. ](/news/2017/05/5/afghan-border-police-and-the-pakistani-military-clash-at-a-border-crossing-near-chaman-killing-at-least-13-people-and-wounding-over-80-othe.md)
-_Context: Afghan border police, Chaman, Pakistani military, border crossing_
-
-### [United States senators Ben Cardin (D-MD) and Marco Rubio (R-FL) file a bill restricting arms sales to the Philippine National Police over its drug war. ](/news/2017/05/5/united-states-senators-ben-cardin-d-md-and-marco-rubio-r-fl-file-a-bill-restricting-arms-sales-to-the-philippine-national-police-over-it.md)
-_Context: Ben Cardin, D, Florida, MD, Marco Rubio, Philippine National Police, R, United States senators, arms sales, drug war_
-
-### [The Indian Supreme Court upholds the death sentences imposed on four men convicted in the  2012 gang rape and murder of a 23-year-old woman on board a bus in South Delhi. ](/news/2017/05/5/the-indian-supreme-court-upholds-the-death-sentences-imposed-on-four-men-convicted-in-the-2012-gang-rape-and-murder-of-a-23-year-old-woman.md)
-The Supreme Court on Friday upheld death sentences against four men who fatally gang raped a woman on board a bus in 2012, a crime that sparked widespread protests and drew international attention to violence against women.
-
-### [Hundreds of prisoners escape from an overcrowded jail in Pekanbaru, Indonesia. ](/news/2017/05/5/hundreds-of-prisoners-escape-from-an-overcrowded-jail-in-pekanbaru-indonesia.md)
-Indonesian authorities search for scores of inmates who escaped from an overcrowded prison.
-
-### [Results from yesterday's elections show significant swings towards the Conservative Party and away from the Labour Party. ](/news/2017/05/5/results-from-yesterday-s-elections-show-significant-swings-towards-the-conservative-party-and-away-from-the-labour-party.md)
-_Context: Conservative Party, Labour Party, United Kingdom local elections, 2017_
-
-### [Results from yesterday's election give a reduced majority of seats to Abdelaziz Bouteflika's incumbent coalition. ](/news/2017/05/5/results-from-yesterday-s-election-give-a-reduced-majority-of-seats-to-abdelaziz-bouteflika-s-incumbent-coalition.md)
-National Liberation Front secures majority in national assembly, but loses quarter of seats in Thursday&#39;s vote.
-
-### [Files purportedly from the campaign of Emmanuel Macron are posted online. Macron campaign officials say the files are a mix of fake and authentic documents and drew parallels with what happened in the 2016 US Presidential elections. ](/news/2017/05/5/files-purportedly-from-the-campaign-of-emmanuel-macron-are-posted-online-macron-campaign-officials-say-the-files-are-a-mix-of-fake-and-auth.md)
-_Context: Emmanuel Macron, French presidential election, 2017, what happened in the 2016 US Presidential elections._
-
-### [Tennessee state senator and former Army flight surgeon Mark E. Green withdraws his name from consideration as Secretary of the Army because of political opposition. Green was the Trump Administration's second nominee for this position. ](/news/2017/05/5/tennessee-state-senator-and-former-army-flight-surgeon-mark-e-green-withdraws-his-name-from-consideration-as-secretary-of-the-army-because.md)
-_Context: Mark E. Green, Political appointments of Donald Trump, Secretary of the Army, Tennessee, flight surgeon_
-
-### [The Comac C919 makes its maiden flight from Shanghai Pudong International Airport, China. ](/news/2017/05/5/the-comac-c919-makes-its-maiden-flight-from-shanghai-pudong-international-airport-china.md)
-_Context: Comac C919, Shanghai Pudong International Airport_
-
-### [ISRO has successfully launched a new communications satellite for South Asia from Satish Dhawan Space Centre, India. ](/news/2017/05/5/isro-has-successfully-launched-a-new-communications-satellite-for-south-asia-from-satish-dhawan-space-centre-india.md)
-The satellite, funded by India, will help South Asian nations boost their communication services.
-
----
-
-## [Previous Day...](/news/2017/05/4/index.md)
+## [Previous Day...](/news/2017/05/5/index.md)
 
 ---
 
