@@ -1,5 +1,8 @@
 ## [News](/news/2017/05/8/index.md)
 
+### [The Mayor pf the Canadian city of Montreal, Quebec declares a state pf emergency over rising floodwaters. ](/news/2017/05/8/the-mayor-pf-the-canadian-city-of-montreal-quebec-declares-a-state-pf-emergency-over-rising-floodwaters.md)
+_Context: 2017 Quebec floods, Canadian, Mayor, Montreal, Quebec, state pf emergency_
+
 ### [The United Nations Human Rights Council conducts a periodic review of the human rights situation in the Philippines. ](/news/2017/05/8/the-united-nations-human-rights-council-conducts-a-periodic-review-of-the-human-rights-situation-in-the-philippines.md)
 The Philippine government will present the human rights situation before the United Nations Human Rights Council in Geneva, Switzerland during the third cycle of its Universal Periodic Review. LIVE at 3 p.m. 
 
