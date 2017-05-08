@@ -8,7 +8,8 @@
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/live/world-europe-39823865)
-2. [The New York Times](https://www.nytimes.com/interactive/2017/05/07/world/europe/france-election-results-maps.html?_r=0)
+2. [Reuters](http://www.reuters.com/article/us-france-election-macron-profile-idUSKBN1830XP)
+3. [The New York Times](https://www.nytimes.com/interactive/2017/05/07/world/europe/france-election-results-maps.html?_r=0)
 
 ### Related:
 
