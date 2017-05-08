@@ -1,7 +1,7 @@
 ## [2017-05-6](/news/2017/05/6/index.md)
 
 ### [Pope Francis criticizes naming the U.S. military's biggest non-nuclear explosive as the Mother of All Bombs, saying that the word "mother" should not be used in reference to a deadly weapon. ](/news/2017/05/6/pope-francis-criticizes-naming-the-u-s-military-s-biggest-non-nuclear-explosive-as-the-mother-of-all-bombs-saying-that-the-word-mother-s.md)
-_Context: Mother of All Bombs, Pope Francis, War in Afghanistan (2001-present)_
+_Context: Mother of All Bombs, Pope Francis, War in Afghanistan (2015-present)_
 
 ### [A United States Navy SEAL is killed, becoming the first U.S. service member killed in Somalia since 1993, and three others are injured in a gunfight with al-Shabaab militants, west of Mogadishu.  ](/news/2017/05/6/a-united-states-navy-seal-is-killed-becoming-the-first-u-s-service-member-killed-in-somalia-since-1993-and-three-others-are-injured-in-a.md)
 American special forces are in the country as part of a train and advise mission.

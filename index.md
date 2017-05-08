@@ -3,6 +3,9 @@
 ### [The United Nations Human Rights Council conducts a periodic review of the human rights situation in the Philippines. ](/news/2017/05/8/the-united-nations-human-rights-council-conducts-a-periodic-review-of-the-human-rights-situation-in-the-philippines.md)
 The Philippine government will present the human rights situation before the United Nations Human Rights Council in Geneva, Switzerland during the third cycle of its Universal Periodic Review. LIVE at 3 p.m. 
 
+### [Rare specimens of daisies from the 1850s originally held in the National Museum of Natural History in Paris were reportedly destroyed by Australia in March allegedly due to incomplete paperwork. ](/news/2017/05/8/rare-specimens-of-daisies-from-the-1850s-originally-held-in-the-national-museum-of-natural-history-in-paris-were-reportedly-destroyed-by-aus.md)
+The French collection was incinerated by Australian biosecurity officers due to missing paperwork.
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
@@ -34,7 +37,7 @@ Air Force X-37B space plane glided to an autonomous landing at the Kennedy Space
 ## [Day Before Yesterday](/news/2017/05/6/index.md)
 
 ### [Pope Francis criticizes naming the U.S. military's biggest non-nuclear explosive as the Mother of All Bombs, saying that the word "mother" should not be used in reference to a deadly weapon. ](/news/2017/05/6/pope-francis-criticizes-naming-the-u-s-military-s-biggest-non-nuclear-explosive-as-the-mother-of-all-bombs-saying-that-the-word-mother-s.md)
-_Context: Mother of All Bombs, Pope Francis, War in Afghanistan (2001-present)_
+_Context: Mother of All Bombs, Pope Francis, War in Afghanistan (2015-present)_
 
 ### [A United States Navy SEAL is killed, becoming the first U.S. service member killed in Somalia since 1993, and three others are injured in a gunfight with al-Shabaab militants, west of Mogadishu.  ](/news/2017/05/6/a-united-states-navy-seal-is-killed-becoming-the-first-u-s-service-member-killed-in-somalia-since-1993-and-three-others-are-injured-in-a.md)
 American special forces are in the country as part of a train and advise mission.
