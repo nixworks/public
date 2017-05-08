@@ -16,7 +16,7 @@ _Context: 2002 Pacific hurricane season, Johnston Island, National Wildlife Refu
 Iran on Sunday test-fired a surface-to-surface short-range missile a day after its army launched large-scale military exercises, state-run television reported.
 
 ### [ Controversy arises at cricket's Fourth test between Pakistan and England at The Oval, London when umpires rule that ball-tampering has occurred and award the game to England. ](/news/2006/08/20/controversy-arises-at-cricket-s-fourth-test-between-pakistan-and-england-at-the-oval-london-when-umpires-rule-that-ball-tampering-has-occu.md)
-_Context: Cricket, England, Fourth test, London, Pakistan, The Oval, ball-tampering_
+_Context: England, Fourth test, London, Pakistan, The Oval, ball-tampering, cricketer_
 
 ## [Previous Day...](/news/2006/08/19/index.md)
 

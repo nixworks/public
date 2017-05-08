@@ -39,11 +39,5 @@ Rep. Jesse Jackson Jr. will announce his resignation from Congress &quot;momenta
 ### [Toshiba Corporation unveil a robot that they believe will help in nuclear disasters and could enter the crippled Fukushima Daiichi Nuclear Power Plant damaged during the Fukushima Daiichi nuclear disaster. ](/news/2012/11/21/toshiba-corporation-unveil-a-robot-that-they-believe-will-help-in-nuclear-disasters-and-could-enter-the-crippled-fukushima-daiichi-nuclear-p.md)
 THE robot which can withstand high radiation, can be controlled via a wireless network and is able to climb over debris.
 
-### [Roberto Di Matteo is sacked by Chelsea F.C. after a 2012-13 UEFA Champions League defeat 0-3 to Juventus F.C. left them in danger of becoming the first title holders to exit the competition in the group stage. Di Matteo managed Chelsea to their first ever Champions League title in Munich last May. Rafael Benitez appointed Chelsea interim manager until end of season. ](/news/2012/11/21/roberto-di-matteo-is-sacked-by-chelsea-f-c-after-a-2012a13-uefa-champions-league-defeat-0-3-to-juventus-f-c-left-them-in-danger-of-becom.md)
-_Context: 2012-13 Premier League, 2012-13 UEFA Champions League, Chelsea F.C., Juventus, Munich, Rafael Benitez, Roberto Di Matteo, UEFA Champions League, group stage, last May, title holders_
-
-### [The 2012-13 UEFA Europa League game between Hapoel Ironi Kiryat Shmona F.C. and Athletic Bilbao which was scheduled to take place on 22 November at the Kiryat Eliezer Stadium in Haifa is postponed by UEFA due to the tense security situation in the region. ](/news/2012/11/21/the-2012a13-uefa-europa-league-game-between-hapoel-ironi-kiryat-shmona-f-c-and-athletic-bilbao-which-was-scheduled-to-take-place-on-22-no.md)
-Following a meeting of the UEFA Emergency Panel, the UEFA Europa League game between Hapoel Kiryat Shmona FC and Athletic Club has been postponed for security reasons.
-
 ## [Previous Day...](/news/2012/11/20/index.md)
 

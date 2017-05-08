@@ -24,11 +24,5 @@ Health authorities in Amsterdam are warning of dangerous drugs being sold to tou
 ### [Hong Kong authorities start clearing away barricades in the district of Mong Kok. ](/news/2014/11/25/hong-kong-authorities-start-clearing-away-barricades-in-the-district-of-mong-kok.md)
 _Context: 2014 pro-democracy street protests, Hong Kong, Mong Kok_
 
-### [Days after his hat-trick broke the Primera Division's 59-year goal-scoring record, Barcelona striker Lionel Messi scores another hat-trick in Nicosia to become the UEFA Champions League all-time top scorer. ](/news/2014/11/25/days-after-his-hat-trick-broke-the-primera-divisia3n-s-59-year-goal-scoring-record-barcelona-striker-lionel-messi-scores-another-hat-trick.md)
-Lionel Messi became the all-time leading scorer in the Champions League after scoring twice for Barcelona in their Group F clash against Apoel Nicosia
-
-### [The Australian cricketer Phillip Hughes is in critical condition after being injured by a bouncer during a Sheffield Shield game. ](/news/2014/11/25/the-australian-cricketer-phillip-hughes-is-in-critical-condition-after-being-injured-by-a-bouncer-during-a-sheffield-shield-game.md)
-Phillip Hughes has undergone surgery and remains in a critical condition after suffering a sickening blow to the head during the Sheffield Shield match between New South Wales and South Australia at the SCG
-
 ## [Previous Day...](/news/2014/11/24/index.md)
 

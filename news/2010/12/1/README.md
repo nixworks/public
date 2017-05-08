@@ -19,7 +19,7 @@ _Context: Google, Google Earth, U.N. climate change talks, climate change, defor
 _Context: Kazakhstan, OSCE_
 
 ### [South Korea states that it will hold more military exercises with the United States following the conclusion of a naval exercise in the Yellow Sea, despite threats from North Korea. ](/news/2010/12/1/south-korea-states-that-it-will-hold-more-military-exercises-with-the-united-states-following-the-conclusion-of-a-naval-exercise-in-the-yell.md)
-_Context: North Korea, South Korea, U.S., Yellow Sea_
+_Context: North Korea, South Korea, United States, Yellow Sea_
 
 ### [Israel reveals plans to build 625 more homes in the Palestinian territories, close to East Jerusalem. ](/news/2010/12/1/israel-reveals-plans-to-build-625-more-homes-in-the-palestinian-territories-close-to-east-jerusalem.md)
 Israel on Wednesday revealed plans to build new homes on West Bank land it has annexed as part of its Jerusalem boundaries, a move likely to further hamper any resumption of peace talks with the Palestinians.
@@ -41,9 +41,6 @@ The results of parliamentary elections in Afghanistan have ushered in uncertaint
 
 ### [Rob Ford becomes mayor of Toronto. ](/news/2010/12/1/rob-ford-becomes-mayor-of-toronto.md)
 Neophyte Mayor Rob Ford may be facing a brand new headache of a moniker on only his second day in office: Mayor of Sex City.
-
-### [The Football Association will investigate crowd violence at an English League Cup quarter-final fixture between Birmingham City FC and local rivals Aston Villa FC. ](/news/2010/12/1/the-football-association-will-investigate-crowd-violence-at-an-english-league-cup-quarter-final-fixture-between-birmingham-city-fc-and-local.md)
-Twenty-four hours before the destination of 2018 World Cup is to be decided, Birmingham City&rsquo;s Carling Cup quarter-final victory over Aston Villa was overshadowed by violent scenes as supporters invaded the pitch and flares were thrown from the stands.
 
 ## [Previous Day...](/news/2010/11/30/index.md)
 

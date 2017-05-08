@@ -4,7 +4,7 @@
 A jetliner bound for Madrid returned to Kennedy Airport as a precaution Thursday evening after a passenger reported strange wiring in the bathroom, but no explosive device was found, law enforcement officials...
 
 ### [Bedouin men kidnap two tourists from the United States and their guide in Egypt's Sinai region and demand the release of a jailed tribesman for their return. ](/news/2012/07/13/bedouin-men-kidnap-two-tourists-from-the-united-states-and-their-guide-in-egypt-s-sinai-region-and-demand-the-release-of-a-jailed-tribesman.md)
-_Context: Bedouin, Egypt, Sinai, U.S._
+_Context: Bedouin, Egypt, Sinai, United States_
 
 ### [Cambodian troops aim machine gun fire at a Thai passenger jet, saying they believed it to be a spy plane, but do not hit the plane. ](/news/2012/07/13/cambodian-troops-aim-machine-gun-fire-at-a-thai-passenger-jet-saying-they-believed-it-to-be-a-spy-plane-but-do-not-hit-the-plane.md)
 _Context: Cambodia, Thai passenger jet, machine gun_
@@ -68,12 +68,6 @@ An Uzbek man who came to America pursuing an Ivy League medical degree but wound
 
 ### [Mexico's presidential runner-up and PRD candidate, Andres Manuel Lopez Obrador, files a lawsuit against Enrique Pena Nieto for alleged vote-buyings, biased media coverage, and manipulated opinion polls in the recent Mexican elections. ](/news/2012/07/13/mexico-s-presidential-runner-up-and-prd-candidate-andra-c-s-manuel-la3pez-obrador-files-a-lawsuit-against-enrique-pea-a-nieto-for-alleged-vo.md)
 _Context: Andres Manuel Lopez Obrador, Enrique Pena Nieto, Mexican presidential elections, Party of the Democratic Revolution_
-
-### [A convention of Scottish football clubs vote to demote the financially stricken Rangers into the Third Division. ](/news/2012/07/13/a-convention-of-scottish-football-clubs-vote-to-demote-the-financially-stricken-rangers-into-the-third-division.md)
-_Context: Rangers, Scottish, Third Division, football_
-
-### [John Terry is found not guilty of racially abusing Anton Ferdinand. ](/news/2012/07/13/john-terry-is-found-not-guilty-of-racially-abusing-anton-ferdinand.md)
-_Context: Anton, John Terry, racist_
 
 ## [Previous Day...](/news/2012/07/12/index.md)
 

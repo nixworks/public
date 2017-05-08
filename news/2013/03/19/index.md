@@ -48,17 +48,5 @@ The U.S. Air Force launched its second next-generation missile defense satellite
 ### [NASA publishes LRO images of the two craters on the Moon, where twin GRAIL probes ended their gravity-mapping mission in December 2012. ](/news/2013/03/19/nasa-publishes-lro-images-of-the-two-craters-on-the-moon-where-twin-grail-probes-ended-their-gravity-mapping-mission-in-december-2012.md)
 NASA ended its successful GRAIL mission by intentionally crashing the twin spacecraft into the moon. Another satellite observed the event.
 
-### [English striker Michael Owen, who plays for Stoke City, announces his retirement from football at the end of the 2012-13 Premier League season. ](/news/2013/03/19/english-striker-michael-owen-who-plays-for-stoke-city-announces-his-retirement-from-football-at-the-end-of-the-2012a13-premier-league-se.md)
-Former England striker Michael Owen announces he is to retire from football at the end of the season.
-
-### [Former Danish road bicycle racer Rolf Sorensen admits in a press release that he utilised EPO and cortisone during his professional career. ](/news/2013/03/19/former-danish-road-bicycle-racer-rolf-sa-rensen-admits-in-a-press-release-that-he-utilised-epo-and-cortisone-during-his-professional-career.md)
-Dane confesses to taking EPO, cortisone
-
-### [In baseball, the Dominican Republic wins the 2013 World Baseball Classic defeating Puerto Rico 3-0 in the final. ](/news/2013/03/19/in-baseball-the-dominican-republic-wins-the-2013-world-baseball-classic-defeating-puerto-rico-3a0-in-the-final.md)
-_Context: 2013 World Baseball Classic, Dominican Republic, Puerto Rico, baseball, final_
-
-### [In wrestling, the 2013 European Wrestling Championships begins today in Tbilisi, Georgia. ](/news/2013/03/19/in-wrestling-the-2013-european-wrestling-championships-begins-today-in-tbilisi-georgia.md)
-_Context: 2013 European Wrestling Championships, Georgia, Tbilisi, wrestling_
-
 ## [Previous Day...](/news/2013/03/18/index.md)
 

@@ -58,17 +58,5 @@ Dr Shinya Yamanaka is the joint winner of major technology prize for his work on
 ### [Scientists decode the bonobo genome, making it last great ape to have its DNA sequence laid bare, following the chimpanzee, orang-utan and gorilla. ](/news/2012/06/13/scientists-decode-the-bonobo-genome-making-it-last-great-ape-to-have-its-dna-sequence-laid-bare-following-the-chimpanzee-orang-utan-and-g.md)
 Scientists decode the genetics of the bonobo, the last great ape to have its DNA sequence laid bare for comparison with humans.
 
-### [UEFA Euro 2012:Germany striker Mario Gomez tears a lacklustre Netherlands team apart at the Metalist Stadium in Kharkiv. ](/news/2012/06/13/uefa-euro-2012-pgermany-striker-mario-ga3mez-tears-a-lacklustre-netherlands-team-apart-at-the-metalist-stadium-in-kharkiv.md)
-Mario Gomez gives the Netherlands a lesson in finishing as Germany leave their rivals on the brink of an early exit from Euro 2012.
-
-### [Two ex-heads of China's football league, Nan Yong and his predecessor Xie Yalong, are both accused of accepting bribes and are jailed for 10-and-a-half years each for corruption, making them the most senior football officials sentenced in the country. ](/news/2012/06/13/two-ex-heads-of-china-s-football-league-nan-yong-and-his-predecessor-xie-yalong-are-both-accused-of-accepting-bribes-and-are-jailed-for-10.md)
-_Context: China, football league_
-
-### [The U.S. Anti-Doping Agency brings drugs charges against seven-time Tour de France winner Lance Armstrong. ](/news/2012/06/13/the-u-s-anti-doping-agency-brings-drugs-charges-against-seven-time-tour-de-france-winner-lance-armstrong.md)
-Seven-time Tour de France winner Lance Armstrong denies drug charges brought against him by the US Anti-Doping Agency.
-
-### [In baseball, pitcher Matt Cain of the San Francisco Giants throws the first perfect game in the club's history. ](/news/2012/06/13/in-baseball-pitcher-matt-cain-of-the-san-francisco-giants-throws-the-first-perfect-game-in-the-club-s-history.md)
-_Context: Giants', Matt Cain, baseball, perfect game, the first_
-
 ## [Previous Day...](/news/2012/06/12/index.md)
 

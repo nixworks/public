@@ -60,17 +60,5 @@ _Context: Kosovan parliamentary election, Kosovo, Serbia_
 ### [Scottish Transport Minister Stewart Stevenson resigns following severe criticism of his handling of the travel chaos caused in Scotland by recent extreme winter weather conditions. ](/news/2010/12/11/scottish-transport-minister-stewart-stevenson-resigns-following-severe-criticism-of-his-handling-of-the-travel-chaos-caused-in-scotland-by-r.md)
 _Context: Scottish Transport Minister, Stewart Stevenson, extreme winter weather_
 
-### [Authorities investigate what went wrong at a football game between Al-Wahdat and Al-Faisaly when 250 people received injuries. ](/news/2010/12/11/authorities-investigate-what-went-wrong-at-a-football-game-between-al-wahdat-and-al-faisaly-when-250-people-received-injuries.md)
-An investigation is launched in Jordan after clashes and a stampede at a football match in the capital Amman leave 250 people injured.
-
-### [In American football, Auburn University quarterback Cam Newton wins the Heisman Trophy,  awarded to the best college football player of the year. ](/news/2010/12/11/in-american-football-auburn-university-quarterback-cam-newton-wins-the-heisman-trophy-awarded-to-the-best-college-football-player-of-the.md)
-_Context: American football, Auburn University football, Cam Newton, Heisman Trophy, quarterback_
-
-### [A crowd of 113,411, the largest in ice hockey history, packs Michigan Stadium for a game between the University of Michigan and cross-state rival Michigan State University. ](/news/2010/12/11/a-crowd-of-113-411-the-largest-in-ice-hockey-history-packs-michigan-stadium-for-a-game-between-the-university-of-michigan-and-cross-state.md)
-Michigan and Michigan State have set a world record for attendance at a hockey game, playing in front of 113,411 at Michigan Stadium.
-
-### [Finland wins the 2010 World Floorball Championship.](/news/2010/12/11/finland-wins-the-2010-world-floorball-championship.md)
-_Context: 2010 World Floorball Championship, Finland_
-
 ## [Previous Day...](/news/2010/12/10/index.md)
 

@@ -99,8 +99,5 @@ The South African government begins talks with striking workers after President 
 ### [The InterAcademy Panel on International Issues issues a report finding that ''The IPCC assessment process has been successful overall'' but making seven formal recommendations for improving the IPCC's assessment process, and that ""Straying into advocacy can only hurt I.P.C.C.'s credibility."  ](/news/2010/08/30/the-interacademy-panel-on-international-issues-issues-a-report-finding-that-the-ipcc-assessment-process-has-been-successful-overall-but.md)
 The scientists involved in crafting the panel’s climate reports need to be more open to alternative views and more transparent, an independent review said.
 
-### [The International Cricket Council states that Pakistan's tour of England is to continue despite yesterday's spot-fixing allegations exposed by a British newspaper. ](/news/2010/08/30/the-international-cricket-council-states-that-pakistan-s-tour-of-england-is-to-continue-despite-yesterday-s-spot-fixing-allegations-exposed.md)
-Australia captain Ponting shocked at claims as ICC expected to look into 82 Test matches.
-
 ## [Previous Day...](/news/2010/08/29/index.md)
 

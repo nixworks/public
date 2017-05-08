@@ -36,8 +36,5 @@ _Context: Police Department, death of Freddie Gray_
 ### [NASA's MESSENGER spacecraft crashes into Mercury after surpassing its one year primary mission by three years. ](/news/2015/04/30/nasa-s-messenger-spacecraft-crashes-into-mercury-after-surpassing-its-one-year-primary-mission-by-three-years.md)
 The team for NASA&#x27;s Messenger mission to Mercury reported that the spacecraft smashed into the planet&#x27;s surface as expected on Thursday.
 
-### [2015 NFL draft: In American football, the 80th annual National Football League draft is held in Chicago's Auditorium Theater. Jameis Winston of Florida State University is drafted first by the Tampa Bay Buccaneers despite his problematic past. ](/news/2015/04/30/2015-nfl-draft-in-american-football-the-80th-annual-national-football-league-draft-is-held-in-chicago-s-auditorium-theater-jameis-winston.md)
-_Context: 2015 NFL draft, American football, Auditorium Theater, Chicago, Florida State University, Jameis Winston, National Football League, Tampa Bay Buccaneers_
-
 ## [Previous Day...](/news/2015/04/29/index.md)
 

@@ -1,10 +1,10 @@
 ## [2008-07-20](/news/2008/07/20/index.md)
 
 ### [ Golfer Pdraig Harrington of Ireland wins his second successive Open Championship (British Open). ](/news/2008/07/20/golfer-padraig-harrington-of-ireland-wins-his-second-successive-open-championship-british-open.md)
-_Context: Open Championship (British Open), Pdraig Harrington, Republic of Ireland, golf, second successive_
+_Context: Golf, Open Championship (British Open), Pdraig Harrington, Republic of Ireland, second successive_
 
 ### [ ''The Dark Knight'' sets a new record for box office receipts for an opening weekend in the United States with US$158.4 million earned between Friday and Sunday. ](/news/2008/07/20/the-dark-knight-sets-a-new-record-for-box-office-receipts-for-an-opening-weekend-in-the-united-states-with-us-158-4-million-earned-betw.md)
-_Context: The Dark Knight, U.S., U.S. dollar_
+_Context: The Dark Knight, U.S. dollar, United States_
 
 ### [ The Colombian diaspora celebrates Colombia's Independence Day with concerts and marches against violence, kidnapping and the FARC in Bogot, Leticia, the country's other 1,119 cities and municipalities, and events in cities around the world including  Paris (attended by Ingrid Betancourt), London, Washington, D.C., New York City and Miami. ](/news/2008/07/20/the-colombian-diaspora-celebrates-colombia-s-independence-day-with-concerts-and-marches-against-violence-kidnapping-and-the-farc-in-bogota.md)
 _Context: Bogota, Colombia, FARC, Independence Day, Ingrid Betancourt, Leticia, London, Miami, New York's, Paris, Washington, D.C., diaspora_
@@ -19,7 +19,7 @@ _Context: Beijing, Beijing Olympiad, air pollution_
 _Context: Australia, Benedict XVI, Madrid, Mass, Pope, Sydney, World Youth Day 2008, next World Youth Day in 2011_
 
 ### [ 1,600,000 people attend the Loveparade in Dortmund, Germany. ](/news/2008/07/20/1-600-000-people-attend-the-loveparade-in-dortmund-germany.md)
-_Context: Dortmund, Germany, Loveparade_
+_Context: Dortmund, German, Loveparade_
 
 ## [Previous Day...](/news/2008/07/19/index.md)
 

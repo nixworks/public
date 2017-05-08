@@ -27,11 +27,5 @@ _Context: Khovanskoye Cemetery, Mayor of Moscow, Moscow, North Caucasus, Sergey 
 ### [Venezuelan President Nicolas Maduro orders the seizure of factories that have stopped production and the jailing of their owners amid a nationwide state of emergency. During a speech to pro-government supporters in Caracas, he said the country had to recover the means of production, to counter its deep economic crisis. He also said military exercises would take place next weekend to counter "foreign threats". ](/news/2016/05/14/venezuelan-president-nicola-s-maduro-orders-the-seizure-of-factories-that-have-stopped-production-and-the-jailing-of-their-owners-amid-a-nat.md)
 The Venezuelan president threatens the seizure of factories that have stopped production as opposition protesters press for his removal.
 
-### [In football, FC Barcelona wins La Liga for the 24th time. It is FC Barcelona's second straight title and sixth in the last eight years. ](/news/2016/05/14/in-football-fc-barcelona-wins-la-liga-for-the-24th-time-it-is-fc-barcelona-s-second-straight-title-and-sixth-in-the-last-eight-years.md)
-Cristiano Ronaldo scored twice to lead Real Madrid, but Luis Suarez netted a hat trick for Barcelona, and the Catalan side lifts the trophy again. 
-
-### [Arsenal LFC defeats Chelsea LFC 1-0 to win their 14th title before a record match for this fixture at Wembley Stadium. ](/news/2016/05/14/arsenal-lfc-defeats-chelsea-lfc-1-0-to-win-their-14th-title-before-a-record-match-for-this-fixture-at-wembley-stadium.md)
-_Context: Arsenal LFC, Chelsea LFC, FA Women's Cup, Wembley Stadium_
-
 ## [Previous Day...](/news/2016/05/13/index.md)
 

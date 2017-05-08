@@ -30,14 +30,5 @@ Nicolas Maduro, the hand-picked successor of the late Venezuelan leader Hugo Cha
 ### [Croatia's opposition coalition led by the Croatian Democratic Union wins six out of twelve seats in the country's first ever vote for the European Parliament, while the ruling coalition led by the Social Democratic Party manages to take five seats. ](/news/2013/04/15/croatiaas-opposition-coalition-led-by-the-croatian-democratic-union-wins-six-out-of-twelve-seats-in-the-countryas-first-ever-vote-for-th.md)
 Croatia’s opposition right-wing coalition has won most seats in the country’s first ever vote for the European Parliament. Out of a possible
 
-### [Ethiopian long-distance runner Lelisa Desisa wins the 2013 Boston Marathon with a time of 2:10:22, two hours before the Boston Marathon bombings occur. ](/news/2013/04/15/ethiopian-long-distance-runner-lelisa-desisa-wins-the-2013-boston-marathon-with-a-time-of-2-10-22-two-hours-before-the-boston-marathon-bomb.md)
-BOSTON (AP) — Lelisa Desisa of Ethiopia has won the 117th edition of the Boston Marathon.It&#39;s just his second race at the 26.2-mile distance. Desisa outsprinted two other East Africans down Boylston Street to
-
-### [Formula One chief Bernie Ecclestone dismisses concerns over this week's 2013 Bahrain Grand Prix as pro-democracy protests threaten to overshadow the event for the third year running. ](/news/2013/04/15/formula-one-chief-bernie-ecclestone-dismisses-concerns-over-this-week-s-2013-bahrain-grand-prix-as-pro-democracy-protests-threaten-to-oversh.md)
-_Context: 2013 Bahrain Grand Prix, Bahrain Grand Prix, Bahraini uprising (2011-present), Bernie Ecclestone, Formula One_
-
-### [Two football fans killed in the Brazilian football clashes near Fortaleza, Brazil. ](/news/2013/04/15/two-football-fans-killed-in-the-brazilian-football-clashes-near-fortaleza-brazil.md)
-Two football supporters are shot dead by rival fans in Fortaleza, Brazil near one of the venues for the World Cup.
-
 ## [Previous Day...](/news/2013/04/14/index.md)
 

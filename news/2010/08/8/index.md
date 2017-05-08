@@ -46,7 +46,7 @@ Flash floods brought on by torrential rains cause at least 15 deaths in central 
 Rescuers in Chile start drilling holes to provide 33 trapped miners with oxygen after a cave-in blocks a rescue attempt.
 
 ### [Several countries evacuate staff from their embassies in Moscow due to the 2010 Russian wildfires including Germany, Austria, Poland and Canada, ](/news/2010/08/8/several-countries-evacuate-staff-from-their-embassies-in-moscow-due-to-the-2010-russian-wildfires-including-germany-austria-poland-and-can.md)
-_Context: Austria, Canada, Germany, Moscow, Poland, embassies, the recent wildfires_
+_Context: Austria, Canada, German, Moscow, Poland, embassies, the recent wildfires_
 
 ### [President of Sudan Omar al-Bashir says the "mandate" of the United Nations, African Union and international aid organisations in Darfur is to "support government authorities" and that expulsion is the other option. ](/news/2010/08/8/president-of-sudan-omar-al-bashir-says-the-mandate-of-the-united-nations-african-union-and-international-aid-organisations-in-darfur-is-t.md)
 _Context: African Union, Darfur, Omar al-Bashir, Sudanese President, United Nations, mandate_
@@ -98,12 +98,6 @@ Protesters who have been holding a Bolivian city hostage for 10 days have now cu
 
 ### [Rwanda prepares for a presidential election, its second since the 1994 Rwandan Genocide. ](/news/2010/08/8/rwanda-prepares-for-a-presidential-election-its-second-since-the-1994-rwandan-genocide.md)
 Incumbent Paul Kagame expected to win easily as opposition claim intimidation.
-
-### [Officials say the World Sauna Championships will not run again after the death yesterday of Russian competitor Vladimir Ladyzhenskiy in Heinola, Finland. ](/news/2010/08/8/officials-say-the-world-sauna-championships-will-not-run-again-after-the-death-yesterday-of-russian-competitor-vladimir-ladyzhenskiy-in-hein.md)
-_Context: Finland, Heinola, Russia, Vladimir Ladyzhenskiy, World Sauna Championships_
-
-### [Australia defeats England 4-0 to win the Hockey Champions Trophy in field hockey held in Monchengladbach Germany. ](/news/2010/08/8/australia-defeats-england-4-0-to-win-the-hockey-champions-trophy-in-field-hockey-held-in-mapnchengladbach-germany.md)
-_Context: Australia, England, Germany, Hockey Champions Trophy, Monchengladbach, field hockey_
 
 ## [Previous Day...](/news/2010/08/7/index.md)
 

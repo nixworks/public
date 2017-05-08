@@ -18,14 +18,5 @@ Reviving the long-stagnant economy is the top priority for voters.
 ### [King Albert II of Belgium abdicates in favour of his son Prince Philippe. ](/news/2013/07/21/king-albert-ii-of-belgium-abdicates-in-favour-of-his-son-prince-philippe.md)
 _Context: Albert II of Belgium, Prince Philippe_
 
-### [In cycling, the 2013 Tour de France finishes today in Paris with Kenyan-born British rider Chris Froome winning his first Tour de France. ](/news/2013/07/21/in-cycling-the-2013-tour-de-france-finishes-today-in-paris-with-kenyan-born-british-rider-chris-froome-winning-his-first-tour-de-france.md)
-Britain&#039;s Chris Froome has won the Tour de France after completing the largely-ceremonial final stage to Paris.
-
-### [In golf, American golfer Phil Mickelson wins the 2013 Open Championship  at Muirfield in Scotland for the first time. ](/news/2013/07/21/in-golf-american-golfer-phil-mickelson-wins-the-2013-open-championship-at-muirfield-in-scotland-for-the-first-time.md)
-Westwood edges ahead as Woods sits in second place going in to the final day of the British Open.
-
-### [In motorcycling, the World Superbike Championship race at the Moscow Raceway is cancelled after the Italian rider Andrea Antonelli dies after a crash on the opening lap. ](/news/2013/07/21/in-motorcycling-the-world-superbike-championship-race-at-the-moscow-raceway-is-cancelled-after-the-italian-rider-andrea-antonelli-dies-afte.md)
-_Context: Andrea Antonelli, Moscow Raceway, World Superbike Championship_
-
 ## [Previous Day...](/news/2013/07/20/index.md)
 

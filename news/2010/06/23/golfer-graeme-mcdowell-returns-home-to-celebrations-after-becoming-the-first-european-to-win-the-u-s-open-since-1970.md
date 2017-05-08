@@ -13,5 +13,4 @@
 
 ### Related:
 
-1. [2010 U.S. Open champion Graeme McDowell of Northern Ireland defeats Hunter Mahan of the United States in the final match to win the 2010 Ryder Cup for Europe by 141/2-131/2. ](/news/2010/10/4/2010-u-s-open-champion-graeme-mcdowell-of-northern-ireland-defeats-hunter-mahan-of-the-united-states-in-the-final-match-to-win-the-2010-ryd.md) _Context: Graeme McDowell_
-2. [Graeme McDowell of Northern Ireland wins the 2010 U.S. Open at Pebble Beach Golf Links in California. ](/news/2010/06/20/graeme-mcdowell-of-northern-ireland-wins-the-2010-u-s-open-at-pebble-beach-golf-links-in-california.md) _Context: Graeme McDowell_
+1. [Graeme McDowell of Northern Ireland wins the 2010 U.S. Open at Pebble Beach Golf Links in California. ](/news/2010/06/20/graeme-mcdowell-of-northern-ireland-wins-the-2010-u-s-open-at-pebble-beach-golf-links-in-california.md) _Context: Graeme McDowell_

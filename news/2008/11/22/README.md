@@ -10,7 +10,7 @@ Separatist Kurdish rebels are reported to have claimed responsibility for an exp
 _Context: NATO, Royal Navy, Saudi Arabia, Somali pirates, Somalia_
 
 ### [ New Zealand's national rugby league team defeats Australia's team 34 to 20 in the final of the 2008 Rugby League World Cup. ](/news/2008/11/22/new-zealand-s-national-rugby-league-team-defeats-australia-s-team-34-to-20-in-the-final-of-the-2008-rugby-league-world-cup.md)
-_Context: 2008 Rugby League World Cup, Australia, Australia national rugby league team, New Zealand, national rugby league team_
+_Context: 2008 Rugby League World Cup, Australia, New Zealand, national rugby league team, team_
 
 ### [ Studies reveal children in the Northern Hemisphere born in the autumn months have the highest rates of asthma, probably caused by winter viruses like RSV. ](/news/2008/11/22/studies-reveal-children-in-the-northern-hemisphere-born-in-the-autumn-months-have-the-highest-rates-of-asthma-probably-caused-by-winter-vi.md)
 _Context: Northern Hemisphere, RSV, asthma, autumn, virus_

@@ -66,14 +66,5 @@ _Context: Bolivia, Potosi_
 ### [Former Israeli soldier Eden Aberjil is criticized for her Facebook images of herself smiling with blindfolded and bound Palestinian prisoners. ](/news/2010/08/17/former-israeli-soldier-eden-aberjil-is-criticized-for-her-facebook-images-of-herself-smiling-with-blindfolded-and-bound-palestinian-prisoner.md)
 A former Israeli soldier is criticised for posting images of herself on Facebook posing with bound Palestinian prisoners.
 
-### [The French Football Federation bans Nicolas Anelka for 18 France games, Patrice Evra for 5, Franck Ribery for 3, and Jeremy Toulalan for 1, while Eric Abidal escapes punishment, for their roles as the key players behind the 2010 FIFA World Cup player strike. ](/news/2010/08/17/the-french-football-federation-bans-nicolas-anelka-for-18-france-games-patrice-evra-for-5-franck-riba-c-ry-for-3-and-ja-c-ra-c-my-toulalan-for.md)
-_Context: 2010 FIFA World Cup, Eric Abidal, Franck Ribery, French Football Federation, Jeremy Toulalan, Nicolas Anelka, Patrice Evra_
-
-### [Zimbabwe Football Association (Zifa) chief executive Henrietta Rushwaya is charged in relation to allegations of match-fixing. ](/news/2010/08/17/zimbabwe-football-association-zifa-chief-executive-henrietta-rushwaya-is-charged-in-relation-to-allegations-of-match-fixing.md)
-_Context: Henrietta Rushwaya, Zimbabwe Football Association_
-
-### [Chess champion Bobby Fischer is, as a result of a DNA test, deemed not to have fathered a 9-year-old girl in the Philippines. ](/news/2010/08/17/chess-champion-bobby-fischer-is-as-a-result-of-a-dna-test-deemed-not-to-have-fathered-a-9-year-old-girl-in-the-philippines.md)
-A DNA test has proved that late chess champion Bobby Fischer is not the father of a nine-year-old Filipino girl, her lawyer says.
-
 ## [Previous Day...](/news/2010/08/16/index.md)
 

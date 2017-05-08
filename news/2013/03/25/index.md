@@ -51,8 +51,5 @@ _Context: President, Rupiah Banda, Zambia, abuse of authority, corruption_
 ### [Hong Kong's Court of Final Appeal rules that foreign domestic workers are not allowed to become Hong Kong permanent residents. ](/news/2013/03/25/hong-kong-s-court-of-final-appeal-rules-that-foreign-domestic-workers-are-not-allowed-to-become-hong-kong-permanent-residents.md)
 Court ruling denies foreign domestic workers the right to apply for permanent residency, ending two-year court battle.
 
-### [American professional golfer Tiger Woods returns to World Number One with victory at the 2013 Arnold Palmer Invitational. ](/news/2013/03/25/american-professional-golfer-tiger-woods-returns-to-world-number-one-with-victory-at-the-2013-arnold-palmer-invitational.md)
-Tiger Woods, who last held the No. 1 ranking in October 2010, fell as low as No. 58 as he coped with a personal crisis and injuries to his left leg.
-
 ## [Previous Day...](/news/2013/03/24/index.md)
 

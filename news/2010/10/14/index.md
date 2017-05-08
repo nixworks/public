@@ -78,8 +78,5 @@ Scientists working for the UN say that they have eradicated a virus which can be
 ### [French-American mathematician Benoit Mandelbrot dies of cancer in Cambridge, Massachusetts. ](/news/2010/10/14/french-american-mathematician-benoa-r-t-mandelbrot-dies-of-cancer-in-cambridge-massachusetts.md)
 Maverick French-American mathematician Benoit Mandelbrot, who explored a new class of mathematical shapes known as fractals, has died at age 85 in the United States, his family said.
 
-### [Australia tops the medal tally followed by India and England. ](/news/2010/10/14/australia-tops-the-medal-tally-followed-by-india-and-england.md)
-_Context: 2010 Commonwealth Games, Australia, England, India_
-
 ## [Previous Day...](/news/2010/10/13/index.md)
 

@@ -63,11 +63,5 @@ _Context: Majority Leader, R, Tom DeLay, United States House of Representatives,
 ### [More than 150 Israeli university lecturers support a boycott of the University Centre of Samaria in Ariel over concerns of "unbearably harsh conditions" faced by Palestinians living nearby, as well as Ariel being an "illegal settlement" and a roadblock to the establishment of an independent Palestinian state. ](/news/2011/01/10/more-than-150-israeli-university-lecturers-support-a-boycott-of-the-university-centre-of-samaria-in-ariel-over-concerns-of-unbearably-harsh.md)
 MORE THAN 150 Israeli university lecturers have signed a petition calling for a boycott of the University Centre of Samaria, &hellip;
 
-### [Lionel Messi of Argentina wins the FIFA Ballon d'Or as world football player for the second successive year. ](/news/2011/01/10/lionel-messi-of-argentina-wins-the-fifa-ballon-d-or-as-world-football-player-for-the-second-successive-year.md)
-_Context: Argentina, FIFA Ballon d'Or, Lionel Messi, association football_
-
-### [The Auburn Tigers defeat the Oregon Ducks to win the 2011 BCS National Championship Game. ](/news/2011/01/10/the-auburn-tigers-defeat-the-oregon-ducks-to-win-the-2011-bcs-national-championship-game.md)
-Auburn beats Oregon 22-19 to win BCS national college football championship.
-
 ## [Previous Day...](/news/2011/01/9/index.md)
 

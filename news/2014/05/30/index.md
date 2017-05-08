@@ -24,11 +24,5 @@ Carney will be replaced by his deputy, longtime Obama aide Josh Earnest.
 ### [Opposition candidate Peter Mutharika is declared the winner of the disputed presidential election. ](/news/2014/05/30/opposition-candidate-peter-mutharika-is-declared-the-winner-of-the-disputed-presidential-election.md)
 _Context: Malawian general election, 2014, Peter Mutharika_
 
-### [In basketball, the NBA announces that it has approved the US$2 billion bid of former Microsoft CEO Steve Ballmer for the Los Angeles Clippers. The sale must still be approved by the league's owners, and banned Clippers owner Donald Sterling has filed a $1 billion lawsuit against the NBA. The sale price far exceeds the previous NBA record of $550 million paid for the Milwaukee Bucks earlier this year. ](/news/2014/05/30/in-basketball-the-nba-announces-that-it-has-approved-the-us-2-billion-bid-of-former-microsoft-ceo-steve-ballmer-for-the-los-angeles-clipper.md)
-_Context: Donald Sterling, Los Angeles Clippers, Microsoft, Milwaukee Bucks, NBA, Steve Ballmer, U.S. dollar, basketball_
-
-### [The Palestine national football team defeat The Philippines to win the 2014 AFC Challenge Cup, qualifying for the AFC Asian Cup for the first time. ](/news/2014/05/30/the-palestine-national-football-team-defeat-the-philippines-to-win-the-2014-afc-challenge-cup-qualifying-for-the-afc-asian-cup-for-the-firs.md)
-_Context: 2014 AFC Challenge Cup, AFC Asian Cup, Palestine national football team, The Philippines_
-
 ## [Previous Day...](/news/2014/05/29/index.md)
 

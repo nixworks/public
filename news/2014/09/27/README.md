@@ -24,8 +24,5 @@ _Context: Artur Mas i Gavarr, Catalonia, President of the Generalitat of Catalon
 ### [Dozens of people are arrested as Hong Kong pro-democracy rallies continue. ](/news/2014/09/27/dozens-of-people-are-arrested-as-hong-kong-pro-democracy-rallies-continue.md)
 _Context: Hong Kong_
 
-### [In Australian rules football, Hawthorn Football Club defeats the Sydney Swans in the 2014 AFL Grand Final 137-74. ](/news/2014/09/27/in-australian-rules-football-hawthorn-football-club-defeats-the-sydney-swans-in-the-2014-afl-grand-final-137-74.md)
-A rampant Hawthorn has won a 12th flag after belting the Sydney Swans by 63 points in the AFL grand final at the MCG.
-
 ## [Previous Day...](/news/2014/09/26/index.md)
 

@@ -52,16 +52,10 @@ _Context: X-ray astronomers, black hole, dwarf galaxy, star_
 Former PM and general was polarising figure who backed Jewish settlements but pulled out of Gaza.
 
 ### [India says that it has "no stand-off" with the United States even after the Devyani Khobragade incident. ](/news/2014/01/11/india-says-that-it-has-no-stand-off-with-the-united-states-even-after-the-devyani-khobragade-incident.md)
-_Context: Devyani Khobragade incident, India, U.S._
+_Context: Devyani Khobragade incident, India, United States_
 
 ### [French President Francois Hollande is under pressure after photos of him and actress Julie Gayet appear in a magazine. ](/news/2014/01/11/french-president-franassois-hollande-is-under-pressure-after-photos-of-him-and-actress-julie-gayet-appear-in-a-magazine.md)
 French President Francois Hollande is under pressure to clarify his personal situation, after a magazine report about an alleged secret affair.
-
-### [British footballer Ian Redford is found dead in the woods of Irvine, North Ayrshire, Scotland. ](/news/2014/01/11/british-footballer-ian-redford-is-found-dead-in-the-woods-of-irvine-north-ayrshire-scotland.md)
-Tributes have been paid to Ian Redford, once Scotland&#039;s most expensive footballer, who was found dead at the age of 53.
-
-### [The United States State Department issues a warning to those going to the host city of Sochi, informing that local medical facilities are "untested" and that there are threats of terrorist activity. ](/news/2014/01/11/the-united-states-state-department-issues-a-warning-to-those-going-to-the-host-city-of-sochi-informing-that-local-medical-facilities-are-u.md)
-U.S. visitors to Russia next month have been warned to be watchful in the wake of recent terror threats and suicide bombings. 
 
 ## [Previous Day...](/news/2014/01/10/index.md)
 

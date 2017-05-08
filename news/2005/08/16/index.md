@@ -31,7 +31,7 @@ _Context: Colombia, Venezuela, West Caribbean Airways Flight 708_
 _Context: A magnitude-7.2 earthquake, Honshu Island, Japan, UTC, tsunami_
 
 ### [ World Youth Day 2005 begins in Cologne, Germany. ](/news/2005/08/16/world-youth-day-2005-begins-in-cologne-germany.md)
-_Context: Cologne, Germany, World Youth Day 2005_
+_Context: Cologne, German, World Youth Day 2005_
 
 ## [Previous Day...](/news/2005/08/15/index.md)
 

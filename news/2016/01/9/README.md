@@ -18,8 +18,5 @@ _Context: Brussels Agreement (2013), Kosovo, Kosovo-Serbia relations, Pristina, 
 ### [Sian Blake's partner Arthur Simpson-Kent is arrested in Ghana in connection with the murder of Blake and her two children. ](/news/2016/01/9/sian-blake-s-partner-arthur-simpson-kent-is-arrested-in-ghana-in-connection-with-the-murder-of-blake-and-her-two-children.md)
 Arthur Simpson-Kent, who fled following the death of EastEnders actor and her two children, arrested by police
 
-### [A Bolivian spectator dies in the seventh stage between Bolivia and Argentina after being hit by a Mitsubishi driven by French driver Lionel Baud. ](/news/2016/01/9/a-bolivian-spectator-dies-in-the-seventh-stage-between-bolivia-and-argentina-after-being-hit-by-a-mitsubishi-driven-by-french-driver-lionel.md)
-Organisers say a spectator has been killed at the Dakar Rally after being hit by a Mitsubishi driven by Frenchman Lionel Baud during the seventh stage from Bolivia to Argentina.
-
 ## [Previous Day...](/news/2016/01/8/index.md)
 

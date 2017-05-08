@@ -57,17 +57,5 @@ _Context: Venezuela, drone_
 ### [The final steel beam of 4 World Trade Center is lifted into place in a ceremony. ](/news/2012/06/25/the-final-steel-beam-of-4-world-trade-center-is-lifted-into-place-in-a-ceremony.md)
 _Context: 4 World Trade Center_
 
-### [UEFA Euro 2012:Police launch an investigation into allegations of online racist abuse during England's quarter-final exit on penalties after their latest defeat on Sunday. ](/news/2012/06/25/uefa-euro-2012-ppolice-launch-an-investigation-into-allegations-of-online-racist-abuse-during-england-s-quarter-final-exit-on-penalties-afte.md)
-Uefa fine the German Football Association 25,000 euros for the &quot;improper conduct&quot; of fans in the 2-1 win over Denmark.
-
-### [Liquidation of Rangers Football Club:The Crown Office asks Strathclyde Police to investigate Craig Whyte's takeover of Rangers Football Club in May last year. ](/news/2012/06/25/liquidation-of-rangers-football-club-pthe-crown-office-asks-strathclyde-police-to-investigate-craig-whyte-s-takeover-of-rangers-football-clu.md)
-A newco Rangers will be refused admittance to the Scottish Premier League, with six clubs publicly opposed to the move.
-
-### [2012 Wimbledon Championships:Five-time Wimbledon champion Venus Williams is dumped out of the first round by Elena Vesnina. ](/news/2012/06/25/2012-wimbledon-championships-pfive-time-wimbledon-champion-venus-williams-is-dumped-out-of-the-first-round-by-elena-vesnina.md)
-Five-time Wimbledon champion Venus Williams has no thoughts of retiring, despite her first-round defeat by Elena Vesnina.
-
-### [2012 College World Series:Arizona defeats South Carolina to win its first College World Series title since 1986 and fourth overall. Arizona outfielder Robert Refsnyder is named the Most Outstanding Player. ](/news/2012/06/25/2012-college-world-series-parizona-defeats-south-carolina-to-win-its-first-college-world-series-title-since-1986-and-fourth-overall-arizona.md)
-_Context: 2012 College World Series, Arizona, College World Series, Most Outstanding Player, Robert Refsnyder, South Carolina_
-
 ## [Previous Day...](/news/2012/06/24/index.md)
 

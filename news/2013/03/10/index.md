@@ -1,7 +1,7 @@
 ## [2013-03-10](/news/2013/03/10/index.md)
 
 ### [War in Afghanistan:President of Afghanistan Hamid Karzai alleges that the U.S. armed forces are collaborating in some way with the Afghan Taliban in an effort to ensure that some troops remain after the scheduled 2014 pullout. ](/news/2013/03/10/war-in-afghanistan-ppresident-of-afghanistan-hamid-karzai-alleges-that-the-u-s-armed-forces-are-collaborating-in-some-way-with-the-afghan-t.md)
-_Context: Afghan Taliban, Afghanistan, Afghanistan President, Hamid Karzai, U.S., U.S. military personnel, U.S. withdrawal, War in Afghanistan (2001-present)_
+_Context: Afghan Taliban, Afghanistan, Afghanistan President, Hamid Karzai, U.S. military personnel, U.S. withdrawal, United States, War in Afghanistan (2001-present)_
 
 ### [2013 in Pakistan:Hundreds of Christian protestors clash with police across Pakistan after the burning of Christian houses in Lahore. ](/news/2013/03/10/2013-in-pakistan-phundreds-of-christian-protestors-clash-with-police-across-pakistan-after-the-burning-of-christian-houses-in-lahore.md)
 _Context: 2013 in Pakistan, Christian, Christian, Lahore, Pakistan_
@@ -19,10 +19,10 @@ James Franco-led, Toto-free Wizard of Oz prequel posts biggest debut of slumping
 A dog called Jilly, who despite a very ordinary name is a Petit Basset Griffon Vendeen, won the Best in Show title at Crufts tonight, after competing against thousands of other pedigrees to win the...
 
 ### [Six teenagers are killed and two other people are injured in a car accident near Warren, Ohio, United States. It is the deadliest accident in Trumbull County history and the deadliest in Ohio in three years. ](/news/2013/03/10/six-teenagers-are-killed-and-two-other-people-are-injured-in-a-car-accident-near-warren-ohio-united-states-it-is-the-deadliest-accident-i.md)
-_Context: Ohio, Trumbull County, U.S., Warren_
+_Context: Ohio, Trumbull County, United States, Warren_
 
 ### [Five teenagers are killed after a Chevrolet SUV and a gas tanker collide at the intersection of two county roads in Dumas, Texas, United States. ](/news/2013/03/10/five-teenagers-are-killed-after-a-chevrolet-suv-and-a-gas-tanker-collide-at-the-intersection-of-two-county-roads-in-dumas-texas-united-sta.md)
-_Context: Chevrolet, Dumas, SUV, Texas, U.S., gas tanker_
+_Context: Chevrolet, Dumas, SUV, Texas, United States, gas tanker_
 
 ### [The head of Sierra Leone's Anti-corruption Commission says that 29 government health officials will appear in court on corruption charges for having allegedly defrauded the Bill & Melinda Gates Foundation's vaccine programme. ](/news/2013/03/10/the-head-of-sierra-leone-s-anti-corruption-commission-says-that-29-government-health-officials-will-appear-in-court-on-corruption-charges-fo.md)
 _Context: Anti-corruption Commission, Bill & Melinda Gates Foundation, Sierra Leone, vaccine_
@@ -38,12 +38,6 @@ The people of the Falkland Islands are voting in a referendum on whether to rema
 
 ### [Former President of South Africa Nelson Mandela is released from the hospital after "successful" medical tests. ](/news/2013/03/10/former-president-of-south-africa-nelson-mandela-is-released-from-the-hospital-after-successful-medical-tests.md)
 _Context: Nelson Mandela, President of South Africa, South Africa, medical tests_
-
-### [Titleholders Chelsea comes from two goals down to draw 2-2 with Manchester United and earns a replay of their 2012-13 FA Cup quarter-final. ](/news/2013/03/10/titleholders-chelsea-comes-from-two-goals-down-to-draw-2a2-with-manchester-united-and-earns-a-replay-of-their-2012a13-fa-cup-quarter-fin.md)
-Chelsea come back from two goals down to draw with Manchester United and set up an FA Cup quarter-final replay.
-
-### [France's Sebastien Ogier at the wheel of his Volkswagen Polo R WRC wins 2013 Rally Mexico, the third stage of the 2013 WRC season. ](/news/2013/03/10/france-s-sa-c-bastien-ogier-at-the-wheel-of-his-volkswagen-polo-r-wrc-wins-2013-rally-ma-c-xico-the-third-stage-of-the-2013-wrc-season.md)
-The FIA World Rally Championship belongs to the master class of Rally racing. The WRC rally places t
 
 ## [Previous Day...](/news/2013/03/9/index.md)
 

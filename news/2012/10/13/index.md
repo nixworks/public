@@ -30,14 +30,5 @@ Syria bans Turkish civilian flights over its territory, days after Turkey interc
 ### [The UK's Department of Health is to investigate the decision to appoint the broadcaster Sir James Savile as head of a taskforce overseeing the high security Broadmoor Hospital, a facility for the criminally insane, following recent allegations of sexual abuse. He was appointed to the position in the late 1980s. ](/news/2012/10/13/the-uk-s-department-of-health-is-to-investigate-the-decision-to-appoint-the-broadcaster-sir-james-savile-as-head-of-a-taskforce-overseeing-t.md)
 The Department of Health is to investigate the decision to appoint Sir Jimmy Savile as head of a taskforce overseeing the high security psychiatric hospital Broadmoor in the late 1980s.
 
-### [An Africa Cup of Nations qualification match between Senegal and Ivory Coast is abandoned due to rioting at the Stade Leopold Senghor in Dakar. ](/news/2012/10/13/an-africa-cup-of-nations-qualification-match-between-senegal-and-ivory-coast-is-abandoned-due-to-rioting-at-the-stade-leopold-senghor-in-dak.md)
-A crucial Africa Cup of Nations football match between Senegal and Ivory Coast is abandoned after fans rioted at a stadium in Dakar.
-
-### [Despite universal condemnation from the print media, television analysts and fans, Ireland soccer manager Giovanni Trapattoni refuses to resign following last night's humiliation at the hands of Germany in 2014 FIFA World Cup qualification - UEFA Group C. ](/news/2012/10/13/despite-universal-condemnation-from-the-print-media-television-analysts-and-fans-ireland-soccer-manager-giovanni-trapattoni-refuses-to-res.md)
-Giovanni Trapattoni&rsquo;s &pound;1.5 million-a-year contract as Republic of Ireland manager is likely to keep the Italian in his post for the remainder of the World Cup qualifiers, despite the ignominy of Friday&rsquo;s 6-1 defeat against Germany in Dublin.
-
-### [Sligo Rovers claim their first league title in nearly forty years with an historic 3-2 win over St Patrick's Athletic at the Showgrounds. ](/news/2012/10/13/sligo-rovers-claim-their-first-league-title-in-nearly-forty-years-with-an-historic-3-2-win-over-st-patrick-s-athletic-at-the-showgrounds.md)
- Sligo Rovers 3 St Patrick&rsquo;s Athletic 2: A late penalty converted by Mark Quigley helped Sligo Rovers get the better of St Patrick&hellip;
-
 ## [Previous Day...](/news/2012/10/12/index.md)
 

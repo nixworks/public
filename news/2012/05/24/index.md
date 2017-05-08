@@ -22,8 +22,5 @@ _Context: BSkyB, David Cameron, Fred Michel, Jeremy Hunt, Leveson Inquiry, News 
 ### [Voters in Egypt go to the polls for a second day to vote in a presidential election. ](/news/2012/05/24/voters-in-egypt-go-to-the-polls-for-a-second-day-to-vote-in-a-presidential-election.md)
 _Context: Egypt, presidential election_
 
-### [Football goal-line technology will be tested at Wembley Stadium when England play Belgium in a friendly on 2 June. ](/news/2012/05/24/football-goal-line-technology-will-be-tested-at-wembley-stadium-when-england-play-belgium-in-a-friendly-on-2-june.md)
-_Context: Belgium, England, Wembley Stadium, association football, friendly, goal-line technology_
-
 ## [Previous Day...](/news/2012/05/23/index.md)
 

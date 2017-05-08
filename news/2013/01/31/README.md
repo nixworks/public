@@ -54,20 +54,5 @@ _Context: 274301 Wikipedia, Andrushivka Astronomical Observatory, Ukrainian, Wik
 ### [NASA unveils the prototype of a lunar mining robot called the Regolith Advanced Surface Systems Operations Robot (RASSOR). ](/news/2013/01/31/nasa-unveils-the-prototype-of-a-lunar-mining-robot-called-the-regolith-advanced-surface-systems-operations-robot-rassor.md)
 The Regolith Advanced Surface Systems Operations Robot — RASSOR, for short — is the robot that will help NASA find water on the moon, and could eventually lead to a permanent, manned lunar base....
 
-### [In association football, the draw for the 2015 UEFA European Under-21 Football Championship qualification is held in Nyon, Switzerland. ](/news/2013/01/31/in-association-football-the-draw-for-the-2015-uefa-european-under-21-football-championship-qualification-is-held-in-nyon-switzerland.md)
-Most recent winners Spain and Germany face tough schedules while Greece will meet Turkey after the 2013/15 UEFA European Under-21 Championship qualifying draw in Nyon.
-
-### [Ryuji Sonoda will resign as head coach of Japan's national women's judo team after he was accused of physical abuse of 15 members of the team. ](/news/2013/01/31/ryuji-sonoda-will-resign-as-head-coach-of-japan-s-national-women-s-judo-team-after-he-was-accused-of-physical-abuse-of-15-members-of-the-tea.md)
-_Context: Japan, Ryuji Sonoda, judo, physical abuse_
-
-### [American snowmobiler Caleb Moore dies in Grand Junction, Colorado, United States, from complications of injuries suffered in a crash on January 24 during the Winter X Games in Aspen. He becomes the first X Games participant to die from injuries sustained during the event. ](/news/2013/01/31/american-snowmobiler-caleb-moore-dies-in-grand-junction-colorado-united-states-from-complications-of-injuries-suffered-in-a-crash-on-janu.md)
-Texas snowmobiler Caleb Moore died today after succumbing to injuries he sustained at the Winter X Games in Aspen, Colo., when his snowmobile flipped on top of him in a violent crash during competition last week.
-
-### [Former England national football team captain David Beckham joins French club Paris Saint-Germain after leaving the Los Angeles Galaxy. He will also donate his entire salary to charity. ](/news/2013/01/31/former-england-national-football-team-captain-david-beckham-joins-french-club-paris-saint-germain-after-leaving-the-los-angeles-galaxy-he-w.md)
-Former England captain David Beckham arrives in Paris to complete the formalities of a deadline day move to Paris St-Germain.
-
-### [Brazilian midfielder Willian moves from Shakhtar Donetsk to Anzhi Makhachkala for a deal believed to be around EUR35 million. ](/news/2013/01/31/brazilian-midfielder-willian-moves-from-shakhtar-donetsk-to-anzhi-makhachkala-for-a-deal-believed-to-be-around-a-35-million.md)
-_Context: Anzhi Makhachkala, Brazil, Shakhtar Donetsk, Willian, midfielder_
-
 ## [Previous Day...](/news/2013/01/30/index.md)
 

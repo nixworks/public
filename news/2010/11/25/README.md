@@ -45,8 +45,5 @@ _Context: Khoratosuchus jintasakuli, Thailand, crocodile, fossil_
 ### [A World Health Organization study estimates that 600,000 deaths a year are attributable to second hand smoking. ](/news/2010/11/25/a-world-health-organization-study-estimates-that-600-000-deaths-a-year-are-attributable-to-second-hand-smoking.md)
 Around one in a hundred deaths worldwide is due to passive smoking, which kills an estimated 600,000 people a year, World Health Organization (WHO) researchers said on Friday.
 
-### [The 2010-11 Ashes series begins at The Gabba in Brisbane, with Australian bowler Peter Siddle taking a hat-trick on his birthday. ](/news/2010/11/25/the-2010a11-ashes-series-begins-at-the-gabba-in-brisbane-with-australian-bowler-peter-siddle-taking-a-hat-trick-on-his-birthday.md)
-_Context: Brisbane, England's Ashes victory over Australia, Peter Siddle, The Gabba, hat-trick_
-
 ## [Previous Day...](/news/2010/11/24/index.md)
 

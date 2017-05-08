@@ -39,11 +39,5 @@ Visiting leader Khaled Meshal used a Hamas anniversary rally to restate
 ### [Russia announces a tit-for-tat visa bar on Americans guilty of human rights violations, over the US Magnitsky bill. ](/news/2012/12/7/russia-announces-a-tit-for-tat-visa-bar-on-americans-guilty-of-human-rights-violations-over-the-us-magnitsky-bill.md)
 Russia announces a tit-for-tat visa bar on Americans guilty of human rights violations, over the US Magnitsky Act.
 
-### [The promoters of Formula Two decide not to run the series in 2013 after completing just four years of their five-year contract with the FIA. ](/news/2012/12/7/the-promoters-of-formula-two-decide-not-to-run-the-series-in-2013-after-completing-just-four-years-of-their-five-year-contract-with-the-fia.md)
-_Context: FIA, Formula Two, series_
-
-### [UEFA announces they will organise a new under-19 club competition, the UEFA Youth League, first for the 2013-14 season. The 32 clubs which qualify for the 2013-14 UEFA Champions League group stage will also be given the opportunity to participate in the 2013-14 UEFA Youth League. ](/news/2012/12/7/uefa-announces-they-will-organise-a-new-under-19-club-competition-the-uefa-youth-league-first-for-the-2013a14-season-the-32-clubs-which.md)
-_Context: 2013-14 UEFA Champions League, 2013-14 UEFA Youth League, UEFA, UEFA Youth League_
-
 ## [Previous Day...](/news/2012/12/6/index.md)
 

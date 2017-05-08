@@ -45,14 +45,5 @@ WASHINGTON -- Energy Secretary Steven Chu said he is leaving the Obama administr
 ### [A Ukrainian-Russian carrier rocket Zenit-3SL carrying a telecommunications satellite Intelsat 27 fails 40 seconds after the lift-off and plunges into the Pacific Ocean shortly during Sea Launch. ](/news/2013/02/1/a-ukrainianarussian-carrier-rocket-zenit-3sl-carrying-a-telecommunications-satellite-intelsat-27-fails-40-seconds-after-the-lift-off-and-p.md)
 A Ukrainian-Russian Zenit rocket carrying a US-made telecommunications satellite falls into the Pacific Ocean shortly after its launch.
 
-### [Premier League clubs spent about PS120 million in the January transfer window which expired last night, double last year's figures. ](/news/2013/02/1/premier-league-clubs-spent-about-aps120-million-in-the-january-transfer-window-which-expired-last-night-double-last-year-s-figures.md)
-Premier League clubs spent about £120m in the January transfer window, twice the amount they spent last year, figures show.
-
-### [In tennis, 2013 Davis Cup begins today with eight matches in the World Group. ](/news/2013/02/1/in-tennis-2013-davis-cup-begins-today-with-eight-matches-in-the-world-group.md)
-Categorizing the first-round Davis Cup ties.
-
-### [Hurling star Lar Corbett denies media reports claiming he has won a EUR10.6 million lottery jackpot. ](/news/2013/02/1/hurling-star-lar-corbett-denies-media-reports-claiming-he-has-won-a-a-10-6-million-lottery-jackpot.md)
-_Context: Lar Corbett, hurling_
-
 ## [Previous Day...](/news/2013/01/31/index.md)
 

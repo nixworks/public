@@ -42,11 +42,5 @@ DHAKA (AFP) - Protesters rallied in the Bangladesh capital on Sunday (Nov 1) ove
 ### [''Smart Sheriff'', the most widely used child surveillance mobile app in South Korea, is pulled from the market after specialists raised serious concerns about the program's safety. Security experts say its programming left the door wide open to hackers and put the personal information of some 380,000 users at risk. The country's April 2015 law requires all new smartphones sold to those 18 and under have software parents can use to monitor their kids' social media activity. ](/news/2015/11/1/smart-sheriff-the-most-widely-used-child-surveillance-mobile-app-in-south-korea-is-pulled-from-the-market-after-specialists-raised-ser.md)
 _Context: Security experts, Smart Sheriff, South Korea, child surveillance, hackers, mobile app, personal information, smartphone, social media_
 
-### [In athletics, Stanley Biwott and Mary Jepkosgei Keitany of Kenya win the 2015 New York City Marathon. ](/news/2015/11/1/in-athletics-stanley-biwott-and-mary-jepkosgei-keitany-of-kenya-win-the-2015-new-york-city-marathon.md)
-The 33-year-old Kenyan defends her title.
-
-### [In Major League Baseball, the Kansas City Royals defeat the New York Mets in the 2015 World Series 4 games to 1. ](/news/2015/11/1/in-major-league-baseball-the-kansas-city-royals-defeat-the-new-york-mets-in-the-2015-world-series-4-games-to-1.md)
-This is their first World Series win since 1985.
-
 ## [Previous Day...](/news/2015/10/31/index.md)
 

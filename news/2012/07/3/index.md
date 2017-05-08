@@ -24,8 +24,5 @@ _Context: President, Social Liberal Union, assembly_
 ### [Hundreds of activists demonstrate in Ramallah to protest against the violent dispersal of two similar rallies at the weekend in a rare expression of public discontent with the ruling party of the Palestinian Authority headed by Mahmud Abbas. ](/news/2012/07/3/hundreds-of-activists-demonstrate-in-ramallah-to-protest-against-the-violent-dispersal-of-two-similar-rallies-at-the-weekend-in-a-rare-expre.md)
 _Context: Mahmud Abbas, Palestinian Authority, Ramallah_
 
-### [American gambler Antonio Esfandiari wins the 2012 World Series of Poker $1,000,000 Buy-In "The Big One for One Drop" with the highest prize money in poker of $18.3 million. ](/news/2012/07/3/american-gambler-antonio-esfandiari-wins-the-2012-world-series-of-poker-1-000-000-buy-in-the-big-one-for-one-drop-with-the-highest-prize.md)
-_Context: 2012 World Series of Poker, Antonio Esfandiari, poker_
-
 ## [Previous Day...](/news/2012/07/2/index.md)
 

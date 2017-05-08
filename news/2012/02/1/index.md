@@ -39,11 +39,5 @@ Former Ottawa resident Naser al-Raas has been arrested in a Bahrain court after 
 ### [The State Senate in the US state of Washington passes legislation allowing same sex marriage in the state. ](/news/2012/02/1/the-state-senate-in-the-us-state-of-washington-passes-legislation-allowing-same-sex-marriage-in-the-state.md)
 _Context: State Senate, Washington, same-sex marriage_
 
-### [The Zimbabwe Football Association suspends 80 players including members of the Zimbabwe national football team on suspicion of participation in match-fixing. ](/news/2012/02/1/the-zimbabwe-football-association-suspends-80-players-including-members-of-the-zimbabwe-national-football-team-on-suspicion-of-participation.md)
-The Zimbabwe Football Association (ZIFA) has suspended 80 players, including the core of the national team, on suspicion of match-fixing.
-
-### [England national football team and Chelsea captain John Terry faces charges at the Westminster Magistrates' Court in London that he used an ethnic slur against QPR defender Anton Ferdinand during a match in October. ](/news/2012/02/1/england-national-football-team-and-chelsea-captain-john-terry-faces-charges-at-the-westminster-magistrates-court-in-london-that-he-used-an.md)
-_Context: Anton, Chelsea F.C., England national football team, John Terry, London, Queens Park Rangers, Westminster Magistrates Court_
-
 ## [Previous Day...](/news/2012/01/31/index.md)
 

@@ -57,8 +57,5 @@ Plan includes 930 apartments for immediate construction and around 300 that coul
 ### [In his Christmas Day message, Sean Brady, the controversial head of Ireland's Catholic hierarchy, calls upon his flock to continue their opposition to abortion. In the wake of the death of Savita Halappanavar, the Indian dentist recently denied an abortion of her dying foetus by Ireland's conservative laws, the country's government is once again to attempt to legislate for the 1992 X Case in the coming year, with Ireland the only remaining EU state to outlaw the procedure. ](/news/2012/12/25/in-his-christmas-day-message-sea-n-brady-the-controversial-head-of-ireland-s-catholic-hierarchy-calls-upon-his-flock-to-continue-their-op.md)
 Cardinal Seán Brady has urged everyone who believes that the right to life is fundamental to tell legislators that no government is entitled to remove that right from an innocent person.
 
-### [In tennis, Rafael Nadal's long-awaited comeback from a knee injury has had to be postponed because of illness. He is out of an exhibition tournament in Abu Dhabi, UAE. ](/news/2012/12/25/in-tennis-rafael-nadal-s-long-awaited-comeback-from-a-knee-injury-has-had-to-be-postponed-because-of-illness-he-is-out-of-an-exhibition-to.md)
-_Context: Abu Dhabi, Rafael Nadal, United Arab Emirates, exhibition tournament, illness, knee injury, tennis_
-
 ## [Previous Day...](/news/2012/12/24/index.md)
 

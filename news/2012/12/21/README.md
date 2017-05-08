@@ -60,26 +60,5 @@ Three new Expedition 34 crew members were welcomed aboard the station after the 
 ### [MIT researchers discover that Herbertsmithite exhibits a quantum spin liquid behavior, a new kind of magnetism. ](/news/2012/12/21/mit-researchers-discover-that-herbertsmithite-exhibits-a-quantum-spin-liquid-behavior-a-new-kind-of-magnetism.md)
 Researchers at MIT have discovered a new state of matter with a new kind of magnetism. This new state, called a quantum spin liquid (QSL), could lead to significant advances in data storage. QSLs also exhibit a quantum phenomenon called long-range entanglement, which could lead to new types of communications systems, and more.
 
-### [The NHL announces the cancellation of the 2012-13 regular-season schedule through 14 January due to the 2012 NHL lockout bringing the total to 625 games, more than 50 percent of the entire schedule. ](/news/2012/12/21/the-nhl-announces-the-cancellation-of-the-2012a13-regular-season-schedule-through-14-january-due-to-the-2012-nhl-lockout-bringing-the-tota.md)
-With no end in sight to the 96-day-old NHL lockout, the league announced Thursday that it is canceling games through Jan. 14.
-
-### [Ice hockey player Anze Kopitar and judoka Urska Zolnir are named as 2012 Slovenian Sportsperson of the Year. ](/news/2012/12/21/ice-hockey-player-ana3-4e-kopitar-and-judoka-ura-ka-a1-2olnir-are-named-as-2012-slovenian-sportsperson-of-the-year.md)
-Winning a Stanley Cup must have factored in.
-
-### [Raul Rusescu is named as 2012 Romanian Footballer of the Year while Mircea Lucescu becomes the 2012 Romania Coach of the Year. ](/news/2012/12/21/raul-rusescu-is-named-as-2012-romanian-footballer-of-the-year-while-mircea-lucescu-becomes-the-2012-romania-coach-of-the-year.md)
-_Context: Mircea Lucescu, Raul Rusescu, Romania Coach of the Year, Romanian Footballer of the Year_
-
-### [Professional shooter Sergei Martynov and tennis star Victoria Azarenka are named the 2012 Belarus Sportpersons of the Year. ](/news/2012/12/21/professional-shooter-sergei-martynov-and-tennis-star-victoria-azarenka-are-named-the-2012-belarus-sportpersons-of-the-year.md)
-_Context: Belarus, Sergei Martynov, Victoria Azarenka, shooter, tennis_
-
-### [UEFA announces that Malaga, Hajduk Split, Osijek, Rapid Bucuresti, Dinamo Bucuresti and Partizan are banned from competing in the next UEFA Champions League or UEFA Europa League competition they qualify for after failing to meet financial obligations. ](/news/2012/12/21/uefa-announces-that-ma-laga-hajduk-split-osijek-rapid-bucureeti-dinamo-bucureeti-and-partizan-are-banned-from-competing-in-the-next-ue.md)
-_Context: Dinamo Bucuresti, Hajduk Split, Malaga, Osijek, Partizan, Rapid Bucuresti, UEFA, UEFA Champions League, UEFA Europa League_
-
-### [The Italian Olympic Committee requests a four-year doping ban for former race walk Olympic champion Alex Schwazer. He was excluded from the 2012 London Olympics after testing positive for EPO before the games. ](/news/2012/12/21/the-italian-olympic-committee-requests-a-four-year-doping-ban-for-former-race-walk-olympic-champion-alex-schwazer-he-was-excluded-from-the.md)
-The Italian Olympic Committee has requested a four-year doping ban for former Olympic race walk champion Alex Schwazer.
-
-### [Michael Phelps and Gabrielle Douglas are named as 2012 Associated Press Athletes of the Year. ](/news/2012/12/21/michael-phelps-and-gabrielle-douglas-are-named-as-2012-associated-press-athletes-of-the-year.md)
-_Context: Associated Press, Athletes of the Year, Gabrielle Douglas, Michael Phelps_
-
 ## [Previous Day...](/news/2012/12/20/index.md)
 

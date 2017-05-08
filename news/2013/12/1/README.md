@@ -24,8 +24,5 @@ Previous reports of Comet ISON&#x27;s death may have been somewhat exaggerated, 
 ### [China launches the Chang'e 3 lunar probe incorporating a robotic lander and Jade Rabbit rover. ](/news/2013/12/1/china-launches-the-chang-e-3-lunar-probe-incorporating-a-robotic-lander-and-jade-rabbit-rover.md)
 _Context: Chang'e 3, China's, Jade Rabbit, lander, rover_
 
-### [Assem Allam, the Egyptian-born businessman and owner of Premier League club Hull City, tells the club's fans, whom he refers to as "hooligans", that they can "die as soon as they want" following protests against his plans to rename the club Hull Tigers. ](/news/2013/12/1/assem-allam-the-egyptian-born-businessman-and-owner-of-premier-league-club-hull-city-tells-the-club-s-fans-whom-he-refers-to-as-hooligan.md)
-_Context: Assem Allam, English Premier League, Hull City_
-
 ## [Previous Day...](/news/2013/11/30/index.md)
 

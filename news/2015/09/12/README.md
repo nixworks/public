@@ -30,14 +30,5 @@ An explosive, fast-moving wildfire in California&#039;s Sierra Nevada mountains 
 ### [The outcome of the election for the next leader of the United Kingdom Labour Party is announced with Jeremy Corbyn winning the contest ahead of Yvette Cooper, Andy Burnham and Liz Kendall while Tom Watson is elected as the new deputy leader. ](/news/2015/09/12/the-outcome-of-the-election-for-the-next-leader-of-the-united-kingdom-labour-party-is-announced-with-jeremy-corbyn-winning-the-contest-ahead.md)
 Jeremy Corbyn records extraordinary victory in Labour leadership election with more than 251,000 of 422,000 votes
 
-### [In tennis, Italian Flavia Pennetta defeats fellow countrywoman Roberta Vinci in two sets to win the 2015 US Open women's singles title. During the awards ceremony, Pennetta announces her retirement from tennis. ](/news/2015/09/12/in-tennis-italian-flavia-pennetta-defeats-fellow-countrywoman-roberta-vinci-in-two-sets-to-win-the-2015-us-open-women-s-singles-title-duri.md)
-All the latest news and match reports at the 2017 US Open Tennis Championships.
-
-### [David Ortiz of the Boston Red Sox hits two home runs in the Sox' 10-4 win over the Tampa Bay Rays at Tropicana Field in St. Petersburg, Florida, making him the 27th player in MLB history with 500 career homers. ](/news/2015/09/12/david-ortiz-of-the-boston-red-sox-hits-two-home-runs-in-the-sox-10a4-win-over-the-tampa-bay-rays-at-tropicana-field-in-st-petersburg-fl.md)
-David Ortiz has become the 27th player in major league history, the fourth player in Boston Red Sox history, and the fourth Dominican Republic native to reach the 500-home run threshold.
-
-### [In boxing, Floyd Mayweather, in what is expected to be the final fight of his career, defeats Andre Berto by unanimous decision to extend his record to 49-0. ](/news/2015/09/12/in-boxing-floyd-mayweather-in-what-is-expected-to-be-the-final-fight-of-his-career-defeats-andre-berto-by-unanimous-decision-to-extend-hi.md)
-_Context: Andre Berto, Floyd Mayweather, boxing, defeats_
-
 ## [Previous Day...](/news/2015/09/11/index.md)
 

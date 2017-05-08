@@ -24,14 +24,5 @@ _Context: Arab Spring, Jasmine Revolution of 2011, Tunisia, Tunisia's presidenti
 ### [The Cabinet of Israel approves legislation defining it as the nation state of the Jewish people. ](/news/2014/11/23/the-cabinet-of-israel-approves-legislation-defining-it-as-the-nation-state-of-the-jewish-people.md)
 _Context: Israel, Jews_
 
-### [World Chess Championship 2014:Norwegian chessplayer Magnus Carlsen defends his World Chess Championship title after defeating Vishy Anand of India in 11th game of their match in Sochi, Russia. ](/news/2014/11/23/world-chess-championship-2014-pnorwegian-chessplayer-magnus-carlsen-defends-his-world-chess-championship-title-after-defeating-vishy-anand-o.md)
-_Context: Magnus Carlsen, Russia, Sochi, Vishy Anand, World Chess Championship 2014_
-
-### [Britain's Lewis Hamilton wins the 2014 Formula One world title after finishing first in the Abu Dhabi Grand Prix. ](/news/2014/11/23/britain-s-lewis-hamilton-wins-the-2014-formula-one-world-title-after-finishing-first-in-the-abu-dhabi-grand-prix.md)
-_Context: 2014 Formula One, Abu Dhabi Grand Prix, Lewis Hamilton_
-
-### [In tennis, Switzerland wins the Davis Cup for the first time defeating France in the final. ](/news/2014/11/23/in-tennis-switzerland-wins-the-davis-cup-for-the-first-time-defeating-france-in-the-final.md)
-_Context: Davis Cup, France, Switzerland, tennis, wins_
-
 ## [Previous Day...](/news/2014/11/22/index.md)
 

@@ -37,16 +37,13 @@ Footage posted online showed officer striking pro-Palestinian activist in face d
 _Context: 2011 Norway attacks, Anders Behring Breivik, Oslo, trial_
 
 ### [The murderer of two girls in Krailling, Bavaria (Germany) is convicted and sentenced to life imprisonment. ](/news/2012/04/16/the-murderer-of-two-girls-in-krailling-bavaria-germany-is-convicted-and-sentenced-to-life-imprisonment.md)
-_Context: Bavaria, Germany, Krailling, two girls_
+_Context: Bavaria, German, Krailling, two girls_
 
 ### [The European Court of Human Rights rules that Russia violated the rights of ten relatives of victims of the 1940 Katyn Massacre, and describes the massacre as a war crime. ](/news/2012/04/16/the-european-court-of-human-rights-rules-that-russia-violated-the-rights-of-ten-relatives-of-victims-of-the-1940-katyn-massacre-and-describ.md)
 The European Court of Human Rights ruled on Monday that Russia had violated the rights of relatives of Poles who were killed by the Soviet secret police in 1940, and described the Katyn massacre as a &quot;war crime&quot;.
 
 ### [Crown Prince Willem-Alexander, the heir to the Dutch throne, buys a villa for EUR4.5 million beside the Greek town of Kranidi near a home owned by Russian President-elect Vladimir Putin. ](/news/2012/04/16/crown-prince-willem-alexander-the-heir-to-the-dutch-throne-buys-a-villa-for-a-4-5-million-beside-the-greek-town-of-kranidi-near-a-home-ow.md)
 The heir to the Dutch throne, Crown Prince Willem-Alexander, buys a villa in southern Greece where Vladimir Putin is said by Dutch media to own a home.
-
-### [Fabrice Muamba is discharged from hospital after his cardiac arrest during an FA Cup match. ](/news/2012/04/16/fabrice-muamba-is-discharged-from-hospital-after-his-cardiac-arrest-during-an-fa-cup-match.md)
-Bolton Wanderers midfielder Fabrice Muamba pays tribute to the London Chest Hospital staff after being discharged.
 
 ## [Previous Day...](/news/2012/04/15/index.md)
 

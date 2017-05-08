@@ -10,7 +10,7 @@ Brazil has become Chile&rsquo;s third largest trading partner, displacing Japan,
 _Context: Angola, Jacob Zuma, President of South Africa, South Africa, apartheid_
 
 ### [ The presidents or heads of state of five nations, including Seretse Ian Khama of Botswana and Robert Mugabe of Zimbabwe, along with ministers and musical troupes gather at the cricket stadium in Oranjemund, Namibia, for a welcoming ceremony at the conclusion of explorer Kingsley Holgate's latest expedition, which took him through nine countries. ](/news/2009/08/21/the-presidents-or-heads-of-state-of-five-nations-including-seretse-ian-khama-of-botswana-and-robert-mugabe-of-zimbabwe-along-with-ministe.md)
-_Context: Botswana, Cricket, Kingsley Holgate, Namibia, Oranjemund, Robert Mugabe, Seretse Ian Khama, Zimbabwe_
+_Context: Botswana, Kingsley Holgate, Namibia, Oranjemund, Robert Mugabe, Seretse Ian Khama, Zimbabwe, cricketer_
 
 ### [ William Calley, the former US army officer found guilty of organizing mass killings in the Vietnamese community of My Lai during the Vietnam War makes a public apology.](/news/2009/08/21/william-calley-the-former-us-army-officer-found-guilty-of-organizing-mass-killings-in-the-vietnamese-community-of-my-lai-during-the-vietna.md)
 _Context: My Lai, Vietnam War, William Calley, mass killings_

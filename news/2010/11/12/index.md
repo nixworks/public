@@ -93,8 +93,5 @@ Protestors threw eggs and cheese at Health Minister Mary Harney&#39;s car as she
 ### [The Prime Minister of Somalia Mohamed Abdullahi Mohamed names a new Cabinet with doubts that the parliament will approve his choices. ](/news/2010/11/12/the-prime-minister-of-somalia-mohamed-abdullahi-mohamed-names-a-new-cabinet-with-doubts-that-the-parliament-will-approve-his-choices.md)
 _Context: Mohamed Abdullahi Mohamed, Prime Minister of Somalia, parliament_
 
-### [The International Cricket Council forms a three man tribunal to hear charges against former Pakistan captain Salman Butt and fast bowlers Mohammad Asif and Mohammad Aamer for involvement in the Pakistan spot fixing controversy. ](/news/2010/11/12/the-international-cricket-council-forms-a-three-man-tribunal-to-hear-charges-against-former-pakistan-captain-salman-butt-and-fast-bowlers-mo.md)
-The International Cricket Council (ICC) has formed a three-man anti-corruption tribunal which in January will hear the case of three Pakistani players allegedly involved in spot-fixing.
-
 ## [Previous Day...](/news/2010/11/11/index.md)
 

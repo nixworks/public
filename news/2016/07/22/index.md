@@ -21,11 +21,5 @@ The People&rsquo;s Republic has cut off official communications with the island.
 ### [Presumptive  Democratic Party presidential nominee Hillary Clinton selects Senator Tim Kaine (Virginia) as her vice-presidential running mate. ](/news/2016/07/22/presumptive-democratic-party-presidential-nominee-hillary-clinton-selects-senator-tim-kaine-virginia-as-her-vice-presidential-running-mat.md)
 Hillary Clinton on Friday announced Virginia Sen. Timothy Kaine as her running mate, going with an experienced politician seen as a strong centrist who could attract independents and possibly disenchanted Republicans – and most certainly the safe pick.
 
-### [Sam Allardyce is appointed as the new England national football team manager by The Football Association following the resignation of Roy Hodgson in June. ](/news/2016/07/22/sam-allardyce-is-appointed-as-the-new-england-national-football-team-manager-by-the-football-association-following-the-resignation-of-roy-ho.md)
-Sam Allardyce is appointed England manager, signing an initial two-year contract after leaving Sunderland.
-
-### [American hurdler Kendra Harrison sets a new world record in the women's 100 meters hurdles with a time of  12.20 seconds in the  London Anniversary Games at the Olympic Stadium. ](/news/2016/07/22/american-hurdler-kendra-harrison-sets-a-new-world-record-in-the-women-s-100-meters-hurdles-with-a-time-of-12-20-seconds-in-the-london-anni.md)
-_Context: 100 meters hurdles, Kendra Harrison, London Anniversary Games, Olympic Stadium_
-
 ## [Previous Day...](/news/2016/07/21/index.md)
 

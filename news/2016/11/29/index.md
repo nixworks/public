@@ -69,8 +69,5 @@ MANILA, Philippines (AP) — The Philippine government&#039;s top historian resi
 ### [Scientists say warm seas around Australia's Great Barrier Reef have killed two-thirds of a 435-mile stretch of coral in the past nine months. ](/news/2016/11/29/scientists-say-warm-seas-around-australia-s-great-barrier-reef-have-killed-two-thirds-of-a-435-mile-stretch-of-coral-in-the-past-nine-months.md)
 _Context: Great Barrier Reef, coral_
 
-### [Three of Brazil's leading football clubs - Clube de Regatas do Flamengo, Sociedade Esportiva Palmeiras and Sao Paulo FC - offer players to Associacao Chapecoense de Futebol after the team loses the majority of its squad in the LaMia Airlines Flight 2933 crash. ](/news/2016/11/29/three-of-brazil-s-leading-football-clubs-a-clube-de-regatas-do-flamengo-sociedade-esportiva-palmeiras-and-sapso-paulo-fc-a-offer-players.md)
-_Context: Associacao Chapecoense de Futebol, Brazil, Clube de Regatas do Flamengo, LaMia Airlines Flight 2933, Sao Paulo FC, Sociedade Esportiva Palmeiras_
-
 ## [Previous Day...](/news/2016/11/28/index.md)
 

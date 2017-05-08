@@ -51,8 +51,5 @@ Siddaramaiah was on Monday sworn in as the 22nd Chief Minister of Karnataka at a
 ### [In Canada's Newfoundland and Labrador Province, Liberal Party's Yvonne Jones won a by-election to the province's Labrador electoral riding, formerly held by Conservative Party's Peter Penashue. The by-election was widely viewed as a crucial test for new Liberal Party leader Justin Trudeau. ](/news/2013/05/13/in-canada-s-newfoundland-and-labrador-province-liberal-party-s-yvonne-jones-won-a-by-election-to-the-province-s-labrador-electoral-riding.md)
 Liberal candidate Yvonne Jones won the federal byelection in Labrador on Monday, recapturing a traditional Grit seat that became vacant when former Conservative MP Peter Penashue quit due to campaign overspending and illegal contributions during the 2011 election.
 
-### [In association football, Premier League and FA Cup runners-up Manchester City sack manager Roberto Mancini. ](/news/2013/05/13/in-association-football-premier-league-and-fa-cup-runners-up-manchester-city-sack-manager-roberto-mancini.md)
-Roberto Mancini is sacked as Manchester City manager a year to the day since winning the Premier League.
-
 ## [Previous Day...](/news/2013/05/12/index.md)
 

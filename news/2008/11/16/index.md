@@ -7,7 +7,7 @@ Jimmie Johnson locked up his third consecutive championship with a solid 15th-pl
 _Context: Indonesia, earthquake, magnitude, tsunami_
 
 ### [ United States President-elect Barack Obama resigns his Senate seat. ](/news/2008/11/16/united-states-president-elect-barack-obama-resigns-his-senate-seat.md)
-_Context: Obama, President, President-elect, U.S., senators_
+_Context: Obama, President, President-elect, United States, United States senators_
 
 ## [Previous Day...](/news/2008/11/15/index.md)
 

@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ The India national cricket team starts a victory parade in Mumbai after winning the inaugural 2007 ICC World Twenty20. ](/news/2007/09/26/the-india-national-cricket-team-starts-a-victory-parade-in-mumbai-after-winning-the-inaugural-2007-icc-world-twenty20.md) _Context: 2007 ICC World Twenty20, Indian_
+1. [ The India national cricket team starts a victory parade in Mumbai after winning the inaugural 2007 ICC World Twenty20. ](/news/2007/09/26/the-india-national-cricket-team-starts-a-victory-parade-in-mumbai-after-winning-the-inaugural-2007-icc-world-twenty20.md) _Context: 2007 ICC World Twenty20, India_
 2. [At least ten Iranian border guards are killed in an ambush in the southeastern Sistan and Baluchestan Province on the border with Pakistan. Sunni militant group Jaish ul-Adl claims responsibility. ](/news/2017/04/26/at-least-ten-iranian-border-guards-are-killed-in-an-ambush-in-the-southeastern-sistan-and-baluchestan-province-on-the-border-with-pakistan.md) _Context: Pakistan_
 3. [Pakistan's opposition interrupts Parliament's scheduled session demanding   Prime Minister Nawaz Sharif resign during the investigation of his finances, per Thursday's Supreme Court ruling. ](/news/2017/04/21/pakistan-s-opposition-interrupts-parliament-s-scheduled-session-demanding-prime-minister-nawaz-sharif-resign-during-the-investigation-of-h.md) _Context: Pakistan_
 4. [Arms trader Jacques Monsieur is to defend himself again at a Brussels court against accusations of arms trafficking to Libya, Chad, Guinea-Bissau, Pakistan and Iran between 2006 and 2009. ](/news/2017/04/21/arms-trader-jacques-monsieur-is-to-defend-himself-again-at-a-brussels-court-against-accusations-of-arms-trafficking-to-libya-chad-guinea-b.md) _Context: Pakistan_

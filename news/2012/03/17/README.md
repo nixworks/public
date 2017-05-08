@@ -51,11 +51,5 @@ WIKILEAKS founder Julian Assange plans to run for a seat in the Australian Senat
 ### [Personal documents released from the papers of Margaret Thatcher show the former British Prime Minister held a private meeting with Rupert Murdoch at Chequers weeks before his purchase of Times Newspapers in 1981. ](/news/2012/03/17/personal-documents-released-from-the-papers-of-margaret-thatcher-show-the-former-british-prime-minister-held-a-private-meeting-with-rupert-m.md)
 Private papers released for the first time reveal a meeting kept secret and denied between Margaret Thatcher and Rupert Murdoch over his bid to buy the Times newspapers.
 
-### [Association football:Fabrice Muamba collapses on live television in the 41st minute of the FA Cup quarter-final between Tottenham Hotspur and Bolton Wanderers. The match is abandoned, and Muamba is rushed to a London hospital in critical condition after being resuscitated for several minutes on the pitch. ](/news/2012/03/17/association-football-pfabrice-muamba-collapses-on-live-television-in-the-41st-minute-of-the-fa-cup-quarter-final-between-tottenham-hotspur-a.md)
-Bolton Wanderers midfielder Fabrice Muamba collapses on the pitch during an FA Cup quarter-final against Tottenham.
-
-### [Wales win against France in rugby union's Six Nations Championship, achieving the Grand Slam for the 11th time.](/news/2012/03/17/wales-win-against-france-in-rugby-union-s-six-nations-championship-achieving-the-grand-slam-for-the-11th-time.md)
-_Context: France, Grand Slam, Six Nations Championship, Wales_
-
 ## [Previous Day...](/news/2012/03/16/index.md)
 

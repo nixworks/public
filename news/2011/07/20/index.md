@@ -7,7 +7,7 @@ Residents of Harasta say entrances blocked by elite forces as foreign minister g
 _Context: Bingu wa Mutharika, Malawi, President_
 
 ### [Iranian Ali Aghazadeh Dafsari claims that Revolutionary Guard forces shot down a U.S. spy drone over the Fordo located uranium enrichment facility. ](/news/2011/07/20/iranian-ali-aghazadeh-dafsari-claims-that-revolutionary-guard-forces-shot-down-a-u-s-spy-drone-over-the-fordo-located-uranium-enrichment-fa.md)
-_Context: Ali Aghazadeh Dafsari, Fordo, Iran, Iranian Revolutionary guards, U.S., uranium enrichment_
+_Context: Ali Aghazadeh Dafsari, Fordo, Iran, Iranian Revolutionary guards, United States, uranium enrichment_
 
 ### [Up to 80 people, including soldiers, are arrested in Guinea after a failed assassination attempt on President Alpha Conde on 19 July. ](/news/2011/07/20/up-to-80-people-including-soldiers-are-arrested-in-guinea-after-a-failed-assassination-attempt-on-president-alpha-conda-c-on-19-july.md)
 _Context: Alpha Conde's, Guinea, President_
@@ -44,18 +44,6 @@ _Context: Andrew Grant DeYoung, Cobb County, Georgia, Supreme Court_
 
 ### [News International phone hacking scandal:The Prime Minister of the United Kingdom David Cameron faces questions in parliament over his decision to hire Andy Coulson, a former editor of the ''News of the World'' at the time of the phone hacking affair. ](/news/2011/07/20/news-international-phone-hacking-scandal-pthe-prime-minister-of-the-united-kingdom-david-cameron-faces-questions-in-parliament-over-his-deci.md)
 MPs accuse the Met Police of a &quot;catalogue of failures&quot; over phone hacking, as the prime minister makes a statement to the Commons.
-
-### [Chinese basketball player Yao Ming of the Houston Rockets National Basketball Association team announces his retirement in Shanghai. ](/news/2011/07/20/chinese-basketball-player-yao-ming-of-the-houston-rockets-national-basketball-association-team-announces-his-retirement-in-shanghai.md)
-Wracked by injuries that curtailed his playing time in the NBA, Yao Ming called it quits on his basketball career Wednesday during a packed news conference in his hometown.
-
-### [In golf, the LPGA announces that the Evian Masters, a tournament held in France that is a major championship on the Ladies European Tour, will become the LPGA's fifth major in 2013. ](/news/2011/07/20/in-golf-the-lpga-announces-that-the-evian-masters-a-tournament-held-in-france-that-is-a-major-championship-on-the-ladies-european-tour-wi.md)
-The Evian Masters in France will become the fifth major on the LPGA Tour starting in 2013.
-
-### [Japanese baseball player Hideki Matsui of the Oakland Athletics hits his 500th career home run in his professional career playing in both North America's Major League Baseball and Nippon Professional Baseball in his homeland. ](/news/2011/07/20/japanese-baseball-player-hideki-matsui-of-the-oakland-athletics-hits-his-500th-career-home-run-in-his-professional-career-playing-in-both-no.md)
-_Context: Hideki Matsui, Japan, Major League Baseball, Nippon Professional Baseball, North America, Oakland Athletics, baseball, home run_
-
-### [The 2011 Alzheimer's Association International Conference in Paris, France announces that Samantha Burnham and others at the Australian national science agency, CSIRO, working with several universities, have produced what may one day become a routine, valid blood test for nine hormones and proteins that, when too high, can serve as predictors of the presence of the hallmark beta amyloid plaques of Alzheimer's disease.](/news/2011/07/20/the-2011-alzheimer-s-association-international-conference-in-paris-france-announces-that-samantha-burnham-and-others-at-the-australian-nati.md)
-_Context: Alzheimer's Association, Alzheimer's disease, CSIRO, Paris, France, beta amyloid_
 
 ## [Previous Day...](/news/2011/07/19/index.md)
 

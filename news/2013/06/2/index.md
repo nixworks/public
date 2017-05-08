@@ -30,11 +30,5 @@ _Context: Constituent Assembly of Egypt, Islamist, Parliament of Egypt, Supreme 
 ### [New research finds that graphene is the strongest material in the world, even when patched together. ](/news/2013/06/2/new-research-finds-that-graphene-is-the-strongest-material-in-the-world-even-when-patched-together.md)
 _Context: graphene_
 
-### [N. Srinivasan steps aside as the President of the Board of Control for Cricket in India in the wake of the 2013 Indian Premier League spot-fixing case to allow an investigation. ](/news/2013/06/2/n-srinivasan-steps-aside-as-the-president-of-the-board-of-control-for-cricket-in-india-in-the-wake-of-the-2013-indian-premier-league-spot-f.md)
-Indian cricket board head to step aside while investigation takes place into alleged spot-fixing in IPL.
-
-### [In a friendly soccer match in Washington, D.C. organized to celebrate the centennial of the United States Soccer Federation, the USA defeats Germany 4-3. ](/news/2013/06/2/in-a-friendly-soccer-match-in-washington-d-c-organized-to-celebrate-the-centennial-of-the-united-states-soccer-federation-the-usa-defeats.md)
-_Context: Germany, U.S. Soccer Federation, USA, Washington, D.C., association football, friendly match_
-
 ## [Previous Day...](/news/2013/06/1/index.md)
 

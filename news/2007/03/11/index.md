@@ -16,7 +16,7 @@ _Context: Ariane 5, French Guiana, Kourou, Skynet 5, released an object into orb
 _Context: 2007 presidential election, Colonel, Ely Ould Mohamed Vall, Mauritania, President, coup d'etat, runoff election_
 
 ### [ The ninth Cricket World Cup opens in Trelawny Stadium, Montego Bay, Jamaica. The 2007 championship will feature cricket matches staged in various locations across the Caribbean. ](/news/2007/03/11/the-ninth-cricket-world-cup-opens-in-trelawny-stadium-montego-bay-jamaica-the-2007-championship-will-feature-cricket-matches-staged-in-v.md)
-_Context: 2007 Cricket World Cup, Caribbean, Cricket, Cricket World Cup, Jamaica, Montego Bay, Trelawny Stadium_
+_Context: 2007 Cricket World Cup, Caribbean, Cricket World Cup, Jamaica, Montego Bay, Trelawny Stadium, cricketer_
 
 ## [Previous Day...](/news/2007/03/10/index.md)
 

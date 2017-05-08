@@ -37,7 +37,7 @@ _Context: 16 January, 2007, shopping mall_
 _Context: Aung San Suu Kyi, Burma, Myanmar, dissident, house arrest_
 
 ### [ In Nigeria, treason charges against 53 football players are dropped and changed to charges of membership of illegal organization. They are member of pro-Biafra group MASSOB [http://news.bbc.co.uk/2/hi/africa/4656765.stm (BBC)] [http://za.today.reuters.com/news/NewsArticle.aspx?type=topNews&storyID=2005-07-07T064401Z_01_BAN724195_RTRIDST_0_OZATP-NIGERIA-BIAFRA-20050707.XML (Reuters SA)] (Link dead as of 04:20, 16 January 2007 (UTC))](/news/2005/07/6/in-nigeria-treason-charges-against-53-football-players-are-dropped-and-changed-to-charges-of-membership-of-illegal-organization-they-are.md)
-_Context: 16 January, 2007, Biafra, MASSOB, Nigeria, football, membership of illegal organization, treason_
+_Context: 16 January, 2007, Biafra, MASSOB, Nigeria, membership of illegal organization, soccer, treason_
 
 ### [ In Niger, thousands of people flee to Nigeria to escape crop failure and famine. Government says it cannot afford any food aid ](/news/2005/07/6/in-niger-thousands-of-people-flee-to-nigeria-to-escape-crop-failure-and-famine-government-says-it-cannot-afford-any-food-aid.md)
 _Context: Niger, Nigeria, crop failure_

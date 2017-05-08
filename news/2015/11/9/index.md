@@ -51,8 +51,5 @@ MPs have backed the Scotland Bill on new devolved powers as it completes its fin
 ### [The World Meteorological Organization (WMO) says greenhouse gas levels in the atmosphere reached a record high in 2014 and the relentless fueling of climate change is endangering the planet for future generations. ](/news/2015/11/9/the-world-meteorological-organization-wmo-says-greenhouse-gas-levels-in-the-atmosphere-reached-a-record-high-in-2014-and-the-relentless-fu.md)
 Relentless emissions of heat-trapping gases are endangering the planet, the World Meteorological Organization says
 
-### [A World Anti-Doping Agency investigation into a Russian doping scandal recommends the suspension of Russian athletes from international competition and lifetime bans for five athletes, four coaches and an administrator. Among the athletes are London Olympic medalists Mariya Savinova-Farnosova and Ekaterina Poistogova. ](/news/2015/11/9/a-world-anti-doping-agency-investigation-into-a-russian-doping-scandal-recommends-the-suspension-of-russian-athletes-from-international-comp.md)
-Find the latest sports news and articles on the NFL, MLB, NBA, NHL, NCAA college football, NCAA college basketball and more at ABC News.
-
 ## [Previous Day...](/news/2015/11/8/index.md)
 

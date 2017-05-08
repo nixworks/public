@@ -39,17 +39,5 @@ _Context: 2011 Norway attacks, Anders Behring Breivik, Gro Harlem Brundtland, be
 ### [A report commissioned by the Irish Department of Health finds significant increase in narcolepsy among individuals given the GlaxoSmithKline developed swine flu vaccine Pandemrix compared to those who did not receive the vaccine. ](/news/2012/04/19/a-report-commissioned-by-the-irish-department-of-health-finds-significant-increase-in-narcolepsy-among-individuals-given-the-glaxosmithkline.md)
 An official report has concluded that an increase in the sleep disorder narcolepsy among young people since 2009 is associated&hellip;
 
-### [In golf, 13-year-old Chinese Guan Tian-lang becomes the youngest player to compete on the PGA European Tour when he bogeys at the Volvo China Open. ](/news/2012/04/19/in-golf-13-year-old-chinese-guan-tian-lang-becomes-the-youngest-player-to-compete-on-the-pga-european-tour-when-he-bogeys-at-the-volvo-chin.md)
-Guan Tian-lang shoots a five-over-par 77 as he becomes the youngest player to compete on the European Tour, aged 13.
-
-### [In cycling, Italian Riccardo Ricco is given a 12-year ban, effectively ending his career. ](/news/2012/04/19/in-cycling-italian-riccardo-ricca2-is-given-a-12-year-ban-effectively-ending-his-career.md)
-_Context: Riccardo Ricco, cycling_
-
-### [In tennis, world number one Novak Djokovic defeats Alexandr Dolgopolov at the 2012 Monte-Carlo Masters in Roquebrune-Cap-Martin, hours after his grandfather, who provided refuge for the Djokovic family in his Belgrade apartment during the 1999 NATO bombing raids, dies. ](/news/2012/04/19/in-tennis-world-number-one-novak-djokovic-defeats-alexandr-dolgopolov-at-the-2012-monte-carlo-masters-in-roquebrune-cap-martin-hours-after.md)
-Novak Djokovic beats Alexandr Dolgopolov at the Monte Carlo Masters, hours after suffering the loss of his grandfather.
-
-### [In association football, thousands of people converge on the city of Bergamo for the funeral of Piermario Morosini who collapsed and died on the field of play last Saturday. ](/news/2012/04/19/in-association-football-thousands-of-people-converge-on-the-city-of-bergamo-for-the-funeral-of-piermario-morosini-who-collapsed-and-died-on.md)
-Thousands of fans attend the funeral of footballer Piermario Morosini, who collapsed and died during a match in Italy.
-
 ## [Previous Day...](/news/2012/04/18/index.md)
 

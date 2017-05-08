@@ -72,11 +72,5 @@ _Context: Cecilia Romero, National Institute of Migration, drug cartel_
 ### [United States primary electionsChristine O'Donnell is elected the Republican Party candidate in the Delaware US Senate race. ](/news/2010/09/14/united-states-primary-electionspchristine-o-donnell-is-elected-the-republican-party-candidate-in-the-delaware-us-senate-race.md)
 _Context: Christine O'Donnell, Delaware, R, US Senate race, primary election_
 
-### [FIFA investigates allegations that a fake Togo national football team played against Bahrain last week. ](/news/2010/09/14/fifa-investigates-allegations-that-a-fake-togo-national-football-team-played-against-bahrain-last-week.md)
-_Context: Bahrain, FIFA, Togo_
-
-### [Reggie Bush of the New Orleans Saints gives up his Heisman Trophy won while playing for the USC Trojans due to receiving improper payments. ](/news/2010/09/14/reggie-bush-of-the-new-orleans-saints-gives-up-his-heisman-trophy-won-while-playing-for-the-usc-trojans-due-to-receiving-improper-payments.md)
-_Context: Heisman Trophy, New Orleans Saints, Reggie Bush, USC Trojans_
-
 ## [Previous Day...](/news/2010/09/13/index.md)
 

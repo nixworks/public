@@ -10,7 +10,7 @@ Tuareg rebels have closed in on a key city in northern Mali, taking advantage of
 _Context: Afghanistan, Kandahar Province, NATO_
 
 ### [Kandahar massacre: The United States pays the Afghanistan government $50,000 for every person murdered during the Kandahar massacre. ](/news/2012/03/25/kandahar-massacre-the-united-states-pays-the-afghanistan-government-50-000-for-every-person-murdered-during-the-kandahar-massacre.md)
-_Context: Afghanistan, Kandahar, Kandahar massacre, U.S._
+_Context: Afghanistan, Kandahar, Kandahar massacre, United States_
 
 ### [Kofi Annan and a special UN peace envoy meet with President of Russia Dmitry Medvedev to discuss adopting a harder stance on Syria and Bashar al-Assad. ](/news/2012/03/25/kofi-annan-and-a-special-un-peace-envoy-meet-with-president-of-russia-dmitry-medvedev-to-discuss-adopting-a-harder-stance-on-syria-and-basha.md)
 _Context: Bashar al-Assad, Dmitry Medvedev, Kofi Annan, Russian President, Syria, UN_
@@ -35,9 +35,6 @@ _Context: Chief Executive, Leung Chun-ying, election_
 
 ### [Voters in Senegal go to the polls for a runoff in the presidential election with reports indicating that challenger Macky Sall has defeated incumbent Abdoulaye Wade. ](/news/2012/03/25/voters-in-senegal-go-to-the-polls-for-a-runoff-in-the-presidential-election-with-reports-indicating-that-challenger-macky-sall-has-defeated.md)
 _Context: Abdoulaye Wade, Macky Sall, Senegal, elected_
-
-### [In golf, Tiger Woods wins the Arnold Palmer Invitational tournament in Orlando, his first US PGA Tour victory since 2009. ](/news/2012/03/25/in-golf-tiger-woods-wins-the-arnold-palmer-invitational-tournament-in-orlando-his-first-us-pga-tour-victory-since-2009.md)
-_Context: Arnold Palmer Invitational, Orlando, Florida, PGA Tour, Tiger Woods, golf_
 
 ## [Previous Day...](/news/2012/03/24/index.md)
 

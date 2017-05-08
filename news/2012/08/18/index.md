@@ -30,8 +30,5 @@ _Context: Facebook, U.S. district court_
 ### [The Treasury Committee of the House of Commons of the United Kingdom releases the first volume of a planned two-volume report on the LIBOR fixing scandal. ](/news/2012/08/18/the-treasury-committee-of-the-house-of-commons-of-the-united-kingdom-releases-the-first-volume-of-a-planned-two-volume-report-on-the-libor-f.md)
 _Context: House of Commons, LIBOR scandal, Libor_
 
-### [Indian cricketer V. V. S. Laxman retires from international cricket, bringing an end to a 16 year illustrious international career. ](/news/2012/08/18/indian-cricketer-v-v-s-laxman-retires-from-international-cricket-bringing-an-end-to-a-16-year-illustrious-international-career.md)
-VVS Laxman has announced his retirement from international cricket with immediate effect
-
 ## [Previous Day...](/news/2012/08/17/index.md)
 

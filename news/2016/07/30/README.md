@@ -15,8 +15,5 @@ A massive wildfire burning north of Big Sur has scorched more than 33,000 acres 
 ### [Tunisian lawmakers, dissatisfied with the lack of progress on a financial reforms package, vote (118-3)  to dismiss Prime Minister Habib Essid from office. ](/news/2016/07/30/tunisian-lawmakers-dissatisfied-with-the-lack-of-progress-on-a-financial-reforms-package-vote-118-3-to-dismiss-prime-minister-habib-ess.md)
 Tunisian lawmakers voted on Saturday to dismiss Prime Minister Habib Essid from office during a no-confidence ballot in parliament, clearing the way for a new government that must push through delayed economic reforms.
 
-### [In skydiving, American Luke Aikins sets a world record for jumping from a height of 25,000 feet (7,620 meters) without a parachute or wing suit. ](/news/2016/07/30/in-skydiving-american-luke-aikins-sets-a-world-record-for-jumping-from-a-height-of-25-000-feet-7-620-meters-without-a-parachute-or-wing-s.md)
-The 42-year-old daredevil made a perfect landing into a net 25,000 feet below in Simi Valley, Calif., on Saturday.
-
 ## [Previous Day...](/news/2016/07/29/index.md)
 

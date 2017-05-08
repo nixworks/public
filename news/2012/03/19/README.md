@@ -54,14 +54,5 @@ _Context: 2012, Francisco Guterres, Jose Ramos-Horta, President, Taur Matan Ruak
 ### [Tonga is in mourning following the death of King George Tupou V. ](/news/2012/03/19/tonga-is-in-mourning-following-the-death-of-king-george-tupou-v.md)
 The South Pacific nation of Tonga is in mourning following the death of its king, George Tupou V, at the age of 63.
 
-### [Doctors monitoring the condition of Fabrice Muamba report that he has regained movement in his arms and legs, and his heart is now beating again without the aid of medication. ](/news/2012/03/19/doctors-monitoring-the-condition-of-fabrice-muamba-report-that-he-has-regained-movement-in-his-arms-and-legs-and-his-heart-is-now-beating-a.md)
-Fabrice Muamba has regained movement in his arms and legs, and his heart is now beating again without the aid of medication, doctors have reported.
-
-### [Fans and police clash and damage the Olympic Stadium in Athens two hours ahead of a match between Panathenians and Piraeus. ](/news/2012/03/19/fans-and-police-clash-and-damage-the-olympic-stadium-in-athens-two-hours-ahead-of-a-match-between-panathenians-and-piraeus.md)
-_Context: Athens, Olympiacos, Panathenians_
-
-### [Gaelic football and Aussie rules icon Jim Stynes dies at the age of 45. ](/news/2012/03/19/gaelic-football-and-aussie-rules-icon-jim-stynes-dies-at-the-age-of-45.md)
-_Context: Aussie rules, Gaelic football, Jim Stynes_
-
 ## [Previous Day...](/news/2012/03/18/index.md)
 

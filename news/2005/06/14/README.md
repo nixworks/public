@@ -4,7 +4,7 @@
 _Context: California, earthquake, tsunami_
 
 ### [ Asafa Powell breaks the world record in the 100 meters (328 feet, 1 inch) Tuesday with a 9.77 clocking at the Athens, Greece Olympic Stadium, making him the world's fastest human at 36.85 km/h (22.9 mi/h). ](/news/2005/06/14/asafa-powell-breaks-the-world-record-in-the-100-meters-328-feet-1-inch-tuesday-with-a-9-77-clocking-at-the-athens-greece-olympic-stadiu.md)
-_Context: Asafa Powell, Athens, Greece_
+_Context: Asafa Powell, Athens_
 
 ### [ The Supreme Court of Argentina declares unconstitutional two laws that granted immunity to Dirty War human rights abusers. ](/news/2005/06/14/the-supreme-court-of-argentina-declares-unconstitutional-two-laws-that-granted-immunity-to-dirty-war-human-rights-abusers.md)
 _Context: Argentina, Dirty War_
@@ -28,7 +28,7 @@ _Context: European Union, European constitution, Ireland, The Irish Times, opini
 _Context: Epcot, Mission: SPACE, Walt Disney World_
 
 ### [ According to ''Washington Post'', US and Russian defense officials blocked NATO demand of investigation into crackdown of unrest in Uzbekistan ](/news/2005/06/14/according-to-washington-post-us-and-russian-defense-officials-blocked-nato-demand-of-investigation-into-crackdown-of-unrest-in-uzbekis.md)
-_Context: NATO, Russia, U.S., Uzbekistan, Washington Post_
+_Context: NATO, Russia, United States, Uzbekistan, Washington Post_
 
 ### [ In Indonesia, lawyers of Schapelle Corby file appeal in Bali court ](/news/2005/06/14/in-indonesia-lawyers-of-schapelle-corby-file-appeal-in-bali-court.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

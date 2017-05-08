@@ -28,7 +28,7 @@ Former PM Margaret Thatcher was told a senior Merseyside police officer blamed &
 A Ugandan gay rights group sues a US minister accusing him of involvement in a campaign to persecute gay people in the East African country.
 
 ### [A free trade agreement between the United States and South Korea comes into effect. ](/news/2012/03/15/a-free-trade-agreement-between-the-united-states-and-south-korea-comes-into-effect.md)
-_Context: Free Trade Agreement, South Korea, U.S._
+_Context: Free Trade Agreement, South Korea, United States_
 
 ### [The Government of Papua New Guinea reacts angrily after the new Australian Minister for Foreign Affairs Bob Carr threatens the imposition of sanctions if elections are delayed. ](/news/2012/03/15/the-government-of-papua-new-guinea-reacts-angrily-after-the-new-australian-minister-for-foreign-affairs-bob-carr-threatens-the-imposition-of.md)
 PAPUA New Guinea has responded with dismay over Bob Carr&#039;s surprise threat to sanction the country, calling in Australia&#039;s top diplomat in Port Moresby for a dressing down.
@@ -55,13 +55,10 @@ Leanne Wood wins a three-cornered contest to be elected the new leader of Plaid 
 _Context: Chilean police, Santiago, tear gas, water cannon_
 
 ### [More than 100 students are arrested at a protest in the Canadian city of Montreal, Quebec. ](/news/2012/03/15/more-than-100-students-are-arrested-at-a-protest-in-the-canadian-city-of-montreal-quebec.md)
-_Context: Canadian, Quebec, city of Montreal_
+_Context: Canadian, Montreal, Quebec_
 
 ### [The President of Venezuela Hugo Chavez returns home after three weeks in Cuba for cancer surgery. ](/news/2012/03/15/the-president-of-venezuela-hugo-chavez-returns-home-after-three-weeks-in-cuba-for-cancer-surgery.md)
 _Context: Cuba, Hugo Chvez, President_
-
-### [In association football, Esteghlal wins the Hazfi Cup, beating Shahin Bushehr in the final. ](/news/2012/03/15/in-association-football-esteghlal-wins-the-hazfi-cup-beating-shahin-bushehr-in-the-final.md)
-_Context: Esteghlal, Hazfi Cup, Shahin Bushehr, final_
 
 ## [Previous Day...](/news/2012/03/14/index.md)
 

@@ -4,7 +4,7 @@
 _Context: British Parliament, Hayes and Harlington, House of Commons, John McDonnell, MP, United Kingdom, ceremonial mace_
 
 ### [ President George W. Bush bids farewell to the United States in a 15-minute televised address, during which he touted his record and warned his successor, Barack Obama, to maintain an aggressive stance against terrorism. ](/news/2009/01/15/president-george-w-bush-bids-farewell-to-the-united-states-in-a-15-minute-televised-address-during-which-he-touted-his-record-and-warned.md)
-_Context: George W. Bush, Obama, President, U.S., terrorism_
+_Context: George W. Bush, Obama, President, United States, terrorism_
 
 ### [ Sweden's National Bank announces that all 1-krona coins minted in 2009 will carry a new motif on their reverse to commemorate the 200th anniversary of Finland's separation from Sweden. ](/news/2009/01/15/sweden-s-national-bank-announces-that-all-1-krona-coins-minted-in-2009-will-carry-a-new-motif-on-their-reverse-to-commemorate-the-200th-ann.md)
 _Context: Finland, National Bank, SKr, Sweden, separation_
@@ -22,7 +22,7 @@ _Context: Canada, Toronto, Ontario_
 _Context: Mars, Mars' atmosphere, NASA, geologists, methane_
 
 ### [ China's gross domestic product grew 13&nbsp;percent during 2007, overtaking Germany to become the world's third largest economy. ](/news/2009/01/15/china-s-gross-domestic-product-grew-13-nbsp-percent-during-2007-overtaking-germany-to-become-the-world-s-third-largest-economy.md)
-_Context: China's, GDP, Germany, sixth-largest economy_
+_Context: China's, GDP, German, sixth-largest economy_
 
 ### [ 2008-2009 Israel-Gaza conflict: Hamas 'in principle' accepts the United Nations' call for an immediate ceasefire in the Gaza Strip. ](/news/2009/01/15/2008a2009-israelagaza-conflict-p-hamas-in-principle-accepts-the-united-nations-call-for-an-immediate-ceasefire-in-the-gaza-strip.md)
 _Context: Gaza Strip, Hamas, United Nations, call, ceasefire, fire_
@@ -37,7 +37,7 @@ _Context: Japan, late 2000s recession, machine orders_
 _Context: Hawaii, North Carolina, Wilmington, digital television, media market, state, switch from analog_
 
 ### [ Despite the corruption scandal surrounding Illinois Governor Rod Blagojevich, the United States Senate confirms Roland Burris as a member. ](/news/2009/01/15/despite-the-corruption-scandal-surrounding-illinois-governor-rod-blagojevich-the-united-states-senate-confirms-roland-burris-as-a-member.md)
-_Context: Governor of Illinois, Illinois, Rod Blagojevich, Roland Burris, corruption, senators_
+_Context: Governor of Illinois, Illinois, Rod Blagojevich, Roland Burris, United States senators, corruption_
 
 ## [Previous Day...](/news/2009/01/14/index.md)
 

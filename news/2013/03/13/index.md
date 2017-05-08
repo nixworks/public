@@ -51,8 +51,5 @@ The National Science Council (NSC) and Academia Sinica yesterday announced that 
 ### [The 2013 Intel Science Talent Search concludes with a Colorado high school senior winning the top prize for her work on algae biofuels. ](/news/2013/03/13/the-2013-intel-science-talent-search-concludes-with-a-colorado-high-school-senior-winning-the-top-prize-for-her-work-on-algae-biofuels.md)
 _Context: Colorado, Intel Science Talent Search, algae biofuel, high school_
 
-### [Germany's Bayern Munich and Spain's Malaga reach 2012-13 UEFA Champions League quarter-finals defeating Arsenal and Porto on aggregate respectively. ](/news/2013/03/13/germany-s-bayern-munich-and-spain-s-ma-laga-reach-2012a13-uefa-champions-league-quarter-finals-defeating-arsenal-and-porto-on-aggregate-re.md)
-Arsenal bow out of the Champions League on away goals, despite an impressive 2-0 away win at Bayern Munich.
-
 ## [Previous Day...](/news/2013/03/12/index.md)
 

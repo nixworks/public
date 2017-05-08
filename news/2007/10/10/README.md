@@ -1,7 +1,7 @@
 ## [2007-10-10](/news/2007/10/10/index.md)
 
 ### [ Polish police evict about 65 rebellious ex-nuns who had illegally occupied a convent in Kazimierz Dolny, Poland, for more than two years in defiance of a Vatican order. ](/news/2007/10/10/polish-police-evict-about-65-rebellious-ex-nuns-who-had-illegally-occupied-a-convent-in-kazimierz-dolny-poland-for-more-than-two-years-in.md)
-_Context: Holy See, Kazimierz Dolny, Nun, Poland, Polish police, convent, eviction, rebellious_
+_Context: Holy See, Kazimierz Dolny, Nun, Poland, Polish police, convent, evict, rebellious_
 
 ### [ The general election in the Canadian province of Ontario gives the Liberal government of Premier Dalton McGuinty an enlarged majority. ](/news/2007/10/10/the-general-election-in-the-canadian-province-of-ontario-gives-the-liberal-government-of-premier-dalton-mcguinty-an-enlarged-majority.md)
 _Context: Canada, Dalton McGuinty, Ontario, Ontario Liberal Party, general election, province_
@@ -13,7 +13,7 @@ _Context: China, China's, New Delhi, Tibet, embassies, religious freedom_
 _Context: Taliban, hostages_
 
 ### [ The United States Centers for Disease Control and Prevention warns consumers not to eat Banquet pot pies or other pot pies made by ConAgra with a printed code ending in C9 due to possible links with a salmonella outbreak. ](/news/2007/10/10/the-united-states-centers-for-disease-control-and-prevention-warns-consumers-not-to-eat-banquet-pot-pies-or-other-pot-pies-made-by-conagra.md)
-_Context: Centers for Disease Control and Prevention, ConAgra, U.S., pot pies, salmonella_
+_Context: Centers for Disease Control and Prevention, ConAgra, United States, pot pies, salmonella_
 
 ### [ Mahmoud Abbas, the President of the Palestinian Authority, spells out his conditions for a peace deal with Israel prior to a conference in Annapolis, Maryland next month. ](/news/2007/10/10/mahmoud-abbas-the-president-of-the-palestinian-authority-spells-out-his-conditions-for-a-peace-deal-with-israel-prior-to-a-conference-in.md)
 _Context: 2007 Mideast peace conference, Annapolis, Maryland, Israel, Mahmoud Abbas, Palestinian Authority_
@@ -25,7 +25,7 @@ The UAW and Chrysler have reached a tentative deal Wednesday afternoon, Forbes r
 _Context: International Space Station, Malaysia, Peggy Whitson, Sheikh Muszaphar Shukor, Soyuz TMA-11_
 
 ### [ German scientist Gerhard Ertl is announced as the winner of the 2007 Nobel Prize for Chemistry for his work on chemical processes on solid surfaces. ](/news/2007/10/10/german-scientist-gerhard-ertl-is-announced-as-the-winner-of-the-2007-nobel-prize-for-chemistry-for-his-work-on-chemical-processes-on-solid.md)
-_Context: Gerhard Ertl, Germany, Nobel Prize for Chemistry_
+_Context: Gerhard Ertl, German, Nobel Prize for Chemistry_
 
 ### [ The International Monetary Fund warns of a slowdown of the global economy in 2008 as a result of financial turmoil on global markets. ](/news/2007/10/10/the-international-monetary-fund-warns-of-a-slowdown-of-the-global-economy-in-2008-as-a-result-of-financial-turmoil-on-global-markets.md)
 _Context: International Monetary Fund_

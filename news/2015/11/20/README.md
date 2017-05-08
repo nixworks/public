@@ -60,11 +60,5 @@ NASA has officially ordered its first commercial crew mission from private space
 ### [A jury in a Texas federal court finds for Apple Inc., in a lawsuit brought against Apple by a subsidiary of Pendrell Corporation. Pendrell has charged that Apple infringed patents on techniques that help restrict the use of web content to authorized persons, i.e. anti-piracy software. ](/news/2015/11/20/a-jury-in-a-texas-federal-court-finds-for-apple-inc-in-a-lawsuit-brought-against-apple-by-a-subsidiary-of-pendrell-corporation-pendrell-h.md)
 _Context: Apple Inc., Pendrell Corporation, anti-piracy_
 
-### [Russian pole vaulter Yelena Isinbayeva, who has two Olympic gold medals and 30 world records, told Sky News she is going to fight for what she believes to be her right to compete at the 2016 Olympics. She calls on the IAAF, at the world governing track and field organization's annual meeting on 26 November,  to rescind their ban on clean Russian athletes.  ](/news/2015/11/20/russian-pole-vaulter-yelena-isinbayeva-who-has-two-olympic-gold-medals-and-30-world-records-told-sky-news-she-is-going-to-fight-for-what-s.md)
-Pole vaulter Yelena Isinbayeva says most Russian athletes are clean and should not be punished for the deeds of a few others.
-
-### [In association football, Corinthians win their sixth Campeonato Brasileiro Serie A title with four games remaining of the season. ](/news/2015/11/20/in-association-football-corinthians-win-their-sixth-campeonato-brasileiro-sa-c-rie-a-title-with-four-games-remaining-of-the-season.md)
-Sao Paulo (AFP) - Corinthians sealed a sixth Brazilian league title after a late 1-1 draw at Vasco de Gama late Thursday gave them an unassailable 12-point lead with three games remaining.
-
 ## [Previous Day...](/news/2015/11/19/index.md)
 

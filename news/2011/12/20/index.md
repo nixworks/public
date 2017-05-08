@@ -39,8 +39,5 @@ A man-made virus that could wipe out half humanity has been deemed a terrorist t
 ### [Two Earth-sized planets, Kepler-20e and Kepler-20d, are found orbiting a star 950 light-years away from Earth. ](/news/2011/12/20/two-earth-sized-planets-kepler-20e-and-kepler-20d-are-found-orbiting-a-star-950-light-years-away-from-earth.md)
 _Context: Earth, Kepler-20e and Kepler-20d_
 
-### [The National Collegiate Athletic Association announces that it is penalizing the Ohio State Buckeyes football program with a one-year bowl game ban, among other penalties, as a result of a scandal at the program. Former head coach Jim Tressel is given a 5-year show-cause penalty as well. ](/news/2011/12/20/the-national-collegiate-athletic-association-announces-that-it-is-penalizing-the-ohio-state-buckeyes-football-program-with-a-one-year-bowl-g.md)
-_Context: Buckeyes, Jim Tressel, NCAA, Ohio State University, a scandal, college football, show-cause penalty_
-
 ## [Previous Day...](/news/2011/12/19/index.md)
 

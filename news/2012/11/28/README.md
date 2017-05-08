@@ -13,7 +13,7 @@ More than 200 people are wounded as protesters demanding jobs clash with securit
 Ministers are proposing to set a minimum price of 45p a unit for the sale of alcohol in England and Wales as part of a drive to tackle problem drinking.
 
 ### [The United States Environmental Protection Agency announces that BP has been suspended from bidding on future US government contracts as a result of the 2010 ''Deepwater Horizon'' oil spill. ](/news/2012/11/28/the-united-states-environmental-protection-agency-announces-that-bp-has-been-suspended-from-bidding-on-future-us-government-contracts-as-a-r.md)
-_Context: 2010 ''Deepwater Horizon'' oil spill, BP, Environmental Protection Agency, U.S., government_
+_Context: 2010 ''Deepwater Horizon'' oil spill, BP, Environmental Protection Agency, United States, government_
 
 ### [The European Commission approves a Spanish government plan to shrink and restructure three major Spanish banks (Bankia, NCG Banco and Catalunya Banc) and sell a fourth (Banco de Valencia). ](/news/2012/11/28/the-european-commission-approves-a-spanish-government-plan-to-shrink-and-restructure-three-major-spanish-banks-bankia-ncg-banco-and-catalu.md)
 The European Commission gives the go-ahead to a major restructuring of four nationalised Spanish banks, which includes bank closures and thousands of job losses.
@@ -35,12 +35,6 @@ _Context: CNN, CNN Heroes, Nepal, Pushpa Basnet, social worker_
 
 ### [President of Egypt Mohamed Morsi will address the nation about a decree greatly increasing his powers. ](/news/2012/11/28/president-of-egypt-mohamed-morsi-will-address-the-nation-about-a-decree-greatly-increasing-his-powers.md)
 _Context: Egyptian President, Mohamed Morsi, decree_
-
-### [The draw for the 2013 UEFA European Under-21 Football Championship is made in Tel Aviv. Hosts Israel will face England, Norway and Italy in group A while title holders Spain will play the Netherlands, Russia and Germany in group B. ](/news/2012/11/28/the-draw-for-the-2013-uefa-european-under-21-football-championship-is-made-in-tel-aviv-hosts-israel-will-face-england-norway-and-italy-in.md)
-Holders Spain will play the Netherlands, Russia and Germany while hosts Israel will face England, Norway and Italy after the draw for the Under-21 finals was made in Tel Aviv.
-
-### [River Plate president Daniel Passarella fires a coach Matias Almeyda on disappointing performance by the team in the Torneo Inicial. ](/news/2012/11/28/river-plate-president-daniel-passarella-fires-a-coach-mataas-almeyda-on-disappointing-performance-by-the-team-in-the-torneo-inicial.md)
-Former River Plate midfielder Matias Almeyda ended his 18 months as the Argentine club&#39;s coach yesterday, with two matches to go to the end of the &#39;Inicial&#39; championship.
 
 ## [Previous Day...](/news/2012/11/27/index.md)
 

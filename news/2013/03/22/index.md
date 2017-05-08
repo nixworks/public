@@ -72,8 +72,5 @@ Former Pakistani President Pervez Musharraf has been granted protective bail in 
 ### [Two new species of lizards are discovered in the Andes Mountains in Peru. ](/news/2013/03/22/two-new-species-of-lizards-are-discovered-in-the-andes-mountains-in-peru.md)
 _Context: Andes Mountains, Peru, lizards_
 
-### [2014 FIFA World Cup qualification:In the UEFA Group I, defending champions Spain are held to 1-1 draw at home by Finland. ](/news/2013/03/22/2014-fifa-world-cup-qualification-pin-the-uefa-group-i-defending-champions-spain-are-held-to-1a1-draw-at-home-by-finland.md)
-Spain cede Group I leadership to France after failing to convert dominance to victory in a 1-1 draw to Finland.
-
 ## [Previous Day...](/news/2013/03/21/index.md)
 

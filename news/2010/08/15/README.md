@@ -16,7 +16,7 @@ _Context: Jamaica, Kingston_
 Prime minister calls for end to violence in speech marking independence day.
 
 ### [A United States missile attack on a militant compound in the village of Essori near Miranshah in the North Waziristan area of Pakistan kills 13 people. ](/news/2010/08/15/a-united-states-missile-attack-on-a-militant-compound-in-the-village-of-essori-near-miranshah-in-the-north-waziristan-area-of-pakistan-kills.md)
-_Context: Miranshah, North Waziristan, Pakistan, Taliban, U.S._
+_Context: Miranshah, North Waziristan, Pakistan, Taliban, United States_
 
 ### [Ayman al-Zawahiri, speaking via an audio message, criticises the Turkish government for what he says is co-operation with Israel, as well as "killing Muslims in Afghanistan". ](/news/2010/08/15/ayman-al-zawahiri-speaking-via-an-audio-message-criticises-the-turkish-government-for-what-he-says-is-co-operation-with-israel-as-well-as.md)
 _Context: Afghanistan, Ayman al-Zawahiri, Israel, Muslim, Turkey_
@@ -80,21 +80,6 @@ _Context: Julia Gillard, Prime Minister of Australia, climate change_
 
 ### [The entire cabinet of Japanese Prime Minister Naoto Kan avoids visiting Yasukuni Shrine on the anniversary of Japan's surrender in World War II. ](/news/2010/08/15/the-entire-cabinet-of-japanese-prime-minister-naoto-kan-avoids-visiting-yasukuni-shrine-on-the-anniversary-of-japan-s-surrender-in-world-war.md)
 _Context: Japan, Japan's surrender in World War II, Naoto Kan, Prime Minister, Tokyo, Yasukuni Shrine_
-
-### [The 2010 Women's Baseball World Cup is moved after Hong Kong player Cheuk Woon Yee was shot through her lower left calf during the game against the Netherlands. ](/news/2010/08/15/the-2010-women-s-baseball-world-cup-is-moved-after-hong-kong-player-cheuk-woon-yee-was-shot-through-her-lower-left-calf-during-the-game-agai.md)
-_Context: 2010, Cheuk Woon Yee, Hong Kong, Netherlands, Women's Baseball World Cup_
-
-### [Prime Minister of India Manmohan Singh sets up a ministerial committee as he intervenes to rescue the 2010 Commonwealth Games due to be held in Delhi in October. ](/news/2010/08/15/prime-minister-of-india-manmohan-singh-sets-up-a-ministerial-committee-as-he-intervenes-to-rescue-the-2010-commonwealth-games-due-to-be-held.md)
-_Context: 2010 Commonwealth Games, Delhi, India's Prime Minister, Manmohan Singh_
-
-### [Golfer Martin Kaymer of Germany wins the United States PGA Championship at the Whistling Straits course in Wisconsin beating US golfer Bubba Watson in a three hole playoff. ](/news/2010/08/15/golfer-martin-kaymer-of-germany-wins-the-united-states-pga-championship-at-the-whistling-straits-course-in-wisconsin-beating-us-golfer-bubba.md)
-Martin Kaymer has emerged last man standing after a dramatic and controversial finish to the PGA Championship in Wisconsin.
-
-### [Yuka Sato of Japan wins the first gold medal of the 2010 Summer Youth Olympic Games in the girls' triathlon event. ](/news/2010/08/15/yuka-sato-of-japan-wins-the-first-gold-medal-of-the-2010-summer-youth-olympic-games-in-the-girls-triathlon-event.md)
-_Context: 2010 Summer, Japan, Youth Olympic Games, girls' triathlon_
-
-### [7-time world champion Valentino Rossi confirms he is to depart the Fiat Yamaha team for the Ducati team for 2 years from 2011. ](/news/2010/08/15/7-time-world-champion-valentino-rossi-confirms-he-is-to-depart-the-fiat-yamaha-team-for-the-ducati-team-for-2-years-from-2011.md)
-_Context: Ducati, Fiat Yamaha, Valentino Rossi_
 
 ## [Previous Day...](/news/2010/08/14/index.md)
 

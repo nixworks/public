@@ -42,8 +42,5 @@ FRANKFURT, Germany (AP) — The European Central Bank has restored a key waiver 
 ### [India's ISRO successfully launches 20 satellites in a single mission. ](/news/2016/06/22/india-s-isro-successfully-launches-20-satellites-in-a-single-mission.md)
 India took a big leap in space technology on Wednesday when Indian Space Research Organization (ISRO) used its workhorse PSLV-C34 to inject 20 satellites including 17 foreign satellites into orbit in a single mission and set a new record.
 
-### [In ice hockey, the NHL awards Las Vegas an expansion team to begin play in the 2017-18 season. The Board of Governors defers Quebec City's bid with the league, citing factors such as conference imbalance, difficulty of bringing two teams at the same time, and the weakening Canadian dollar. ](/news/2016/06/22/in-ice-hockey-the-nhl-awards-las-vegas-an-expansion-team-to-begin-play-in-the-2017a18-season-the-board-of-governors-defers-quebec-city-s.md)
-NHL Commissioner Gary Bettman announced Wednesday in the ballroom of Encore at Wynn Las Vegas that the League has granted an expansion franchise to Las Vegas that will start playing as its 31st team in the 2017-18 season.
-
 ## [Previous Day...](/news/2016/06/21/index.md)
 

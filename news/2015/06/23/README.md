@@ -24,8 +24,5 @@ Hungary on Tuesday suspended European Union asylum rules requiring it to take ba
 ### [Amazon.com announces that it is removing Confederate Flag merchandise from sale following the shootings. ](/news/2015/06/23/amazon-com-announces-that-it-is-removing-confederate-flag-merchandise-from-sale-following-the-shootings.md)
 _Context: Amazon.com, Charleston church shooting, Confederate Battle Flag_
 
-### [The suspension appeal hearings for Tom Brady's 4-game suspension over Deflategate begin today. ](/news/2015/06/23/the-suspension-appeal-hearings-for-tom-brady-s-4-game-suspension-over-deflategate-begin-today.md)
-_Context: Deflategate, Tom Brady_
-
 ## [Previous Day...](/news/2015/06/22/index.md)
 

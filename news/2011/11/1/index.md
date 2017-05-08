@@ -25,7 +25,7 @@ _Context: China's, Fuquan City, Guizhou province_
 _Context: Australia, Indonesia, Java, asylum seeker_
 
 ### [Almazbek Atambayev, the newly elected President of Kyrgyzstan, states that a lease for a United States air base in Manas will not be renewed when it expires in 2014. ](/news/2011/11/1/almazbek-atambayev-the-newly-elected-president-of-kyrgyzstan-states-that-a-lease-for-a-united-states-air-base-in-manas-will-not-be-renewed.md)
-_Context: Almazbek Atambayev, Manas, President, U.S._
+_Context: Almazbek Atambayev, Manas, President, United States_
 
 ### [At least twelve people are arrested in London outside the Parliament of the United Kingdom after a protest against anti-squatting legislation turns violent. ](/news/2011/11/1/at-least-twelve-people-are-arrested-in-london-outside-the-parliament-of-the-united-kingdom-after-a-protest-against-anti-squatting-legislatio.md)
 Twelve people are arrested after a clash between police and protesters outside the Houses of Parliament.

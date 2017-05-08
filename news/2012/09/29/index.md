@@ -18,8 +18,5 @@ _Context: Canada, Omar Khadr, the Guantanamo detainees_
 ### [Iran accuses the United States of "double standards" over the U.S.' delisting of the Mujahideen-e Khalq as a terrorist entity. ](/news/2012/09/29/iran-accuses-the-united-states-of-double-standards-over-the-u-s-delisting-of-the-mujahideen-e-khalq-as-a-terrorist-entity.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-### [In Australian rules football, the Sydney Swans win the 2012 Australian Football League premiership by defeating Hawthorn by 10 points in the Grand Final. ](/news/2012/09/29/in-australian-rules-football-the-sydney-swans-win-the-2012-australian-football-league-premiership-by-defeating-hawthorn-by-10-points-in-the.md)
-Relive ABC Grandstand&#039;s live coverage of the AFL grand final, as Sydney upset Hawthorn by 10 points.
-
 ## [Previous Day...](/news/2012/09/28/index.md)
 

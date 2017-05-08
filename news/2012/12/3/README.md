@@ -45,23 +45,5 @@ _Context: Eutelsat 70B, Odyssey Launch Platform, Pacific, Sea Launch, Zenit-3SL,
 ### [NASA announces that the Voyager 1 spacecraft, launched in 1977, has nearly reached the edge of the solar system and is imminently to past through the heliosphere into interstellar space. ](/news/2012/12/3/nasa-announces-that-the-voyager-1-spacecraft-launched-in-1977-has-nearly-reached-the-edge-of-the-solar-system-and-is-imminently-to-past-th.md)
 NASA&#039;s Voyager 1 spacecraft has entered a new region at the far reaches of our solar system that scientists feel is the final area the spacecraft has to cross before reaching interstellar space.
 
-### [Ernesto Valverde is appointed Valencia CF coach until the end of the season, replacing Mauricio Pellegrino, who was sacked two days ago. ](/news/2012/12/3/ernesto-valverde-is-appointed-valencia-cf-coach-until-the-end-of-the-season-replacing-mauricio-pellegrino-who-was-sacked-two-days-ago.md)
-_Context: 2012-13 La Liga, Ernesto Valverde, Mauricio Pellegrino, Valencia_
-
-### [Bundesliga football club Hoffenheim fires head coach Markus Babbel after the 1-4 loss to Werder Bremen in the 2012-13 season game. ](/news/2012/12/3/bundesliga-football-club-hoffenheim-fires-head-coach-markus-babbel-after-the-1a4-loss-to-werder-bremen-in-the-2012a13-season-game.md)
-Hoffenheim sporting director Andreas Muller has confirmed the departure of coach Markus Babbel from the club
-
-### [Argentine player Juan Ignacio Chela says he is retiring from professional tennis, leaving with six ATP singles titles and three in doubles. ](/news/2012/12/3/argentine-player-juan-ignacio-chela-says-he-is-retiring-from-professional-tennis-leaving-with-six-atp-singles-titles-and-three-in-doubles.md)
-Argentine Juan Ignacio Chela has decided to retire from professional tennis.
-
-### [The Scottish Premier League announces its expansion to 24 teams, split into two divisions of 12. ](/news/2012/12/3/the-scottish-premier-league-announces-its-expansion-to-24-teams-split-into-two-divisions-of-12.md)
-Scottish Premier League clubs unanimously agree to pursue their plan for two top-flight divisions of 12 teams.
-
-### [Jorge Sampaoli is appointed Chile national football team coach to replace Claudio Borghi, who was fired last month due to problems in qualifying for the 2014 World Cup in Brazil. ](/news/2012/12/3/jorge-sampaoli-is-appointed-chile-national-football-team-coach-to-replace-claudio-borghi-who-was-fired-last-month-due-to-problems-in-qualif.md)
-_Context: 2014 World Cup, Brazil, Chile, Claudio Borghi, Jorge Sampaoli, qualifying_
-
-### [Spanish racing driver Maria de Villota is released from hospital following her latest operation at the end of November. She has had further surgery to rebuild her face after she lost an eye in a high-speed crash. ](/news/2012/12/3/spanish-racing-driver-maria-de-villota-is-released-from-hospital-following-her-latest-operation-at-the-end-of-november-she-has-had-further.md)
-Maria de Villota has been released from hospital following her latest operation at the end of last month
-
 ## [Previous Day...](/news/2012/12/2/index.md)
 

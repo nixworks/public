@@ -34,7 +34,7 @@ _Context: Gujarat, India, hepatitis B, outbreak_
 _Context: Greece, Gulf of Aden, MV, Somali pirates, Somalia_
 
 ### [ The European Council meets in Berlin, Germany, to discuss the current economic crisis. ](/news/2009/02/22/the-european-council-meets-in-berlin-germany-to-discuss-the-current-economic-crisis.md)
-_Context: Berlin, European Council, Germany, current financial crisis_
+_Context: Berlin, European Council, German, current financial crisis_
 
 ## [Previous Day...](/news/2009/02/21/index.md)
 

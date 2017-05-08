@@ -33,20 +33,5 @@ _Context: Dragon, International Space Station, SpaceX, SpaceX CRS-2_
 ### [NASA's Curiosity rover is switched to a redundant onboard computer in response to an undefined memory issue on the active computer. ](/news/2013/03/3/nasa-s-curiosity-rover-is-switched-to-a-redundant-onboard-computer-in-response-to-an-undefined-memory-issue-on-the-active-computer.md)
 The ground team for NASA&#039;s Mars rover Curiosity has switched the rover to a redundant onboard computer in response to a memory issue on the computer that had been active.
 
-### [Norway's Marit Bjorgen wins five medals in 2013 FIS Nordic World Ski Championships that ends today in Val di Fiemme, Italy. ](/news/2013/03/3/norway-s-marit-bja-rgen-wins-five-medals-in-2013-fis-nordic-world-ski-championships-that-ends-today-in-val-di-fiemme-italy.md)
-Marit Bjoergen secured her 12th world title on Saturday in Val di Fiemme, Italy by beating Olympic champion Justyna Kowalczyk in a sprint finish to win the 30-kilometre classical event at the Nordic skiing world championships.
-
-### [Norwegian biathlete Tora Berger secures the women's overall title in the 2012-13 Biathlon World Cup with five individual races still remaining. ](/news/2013/03/3/norwegian-biathlete-tora-berger-secures-the-women-s-overall-title-in-the-2012a13-biathlon-world-cup-with-five-individual-races-still-remai.md)
-_Context: 2012-13 Biathlon World Cup, Biathlon World Cup, Norway, Tora Berger, biathlon, women's overall_
-
-### [Lauren Silberman becomes the first woman to try out for the National Football League, but her attempt to make a team ends after two kicks with an injury. ](/news/2013/03/3/lauren-silberman-becomes-the-first-woman-to-try-out-for-the-national-football-league-but-her-attempt-to-make-a-team-ends-after-two-kicks-wi.md)
-Lauren Silberman, the first woman to participate in an NFL-sponsored tryout, is injured on her first kickoff
-
-### [Russia, Great Britain and France become the top-3 countries in the medal table of the 2013 European Athletics Indoor Championships in Gothenburg, Sweden. ](/news/2013/03/3/russia-great-britain-and-france-become-the-top-3-countries-in-the-medal-table-of-the-2013-european-athletics-indoor-championships-in-gothen.md)
-_Context: 2013 European Athletics Indoor Championships, France, Gothenburg, Russia, Sweden, United Kingdom_
-
-### [Mexico scores twice in extra time and defeates United States 3-1 to win the 2013 CONCACAF U-20 Championship. ](/news/2013/03/3/mexico-scores-twice-in-extra-time-and-defeates-united-states-3a1-to-win-the-2013-concacaf-u-20-championship.md)
-The United States lost to Mexico in the CONCACAF U-20 Championship final on Sunday night in Puebla, Mexico.
-
 ## [Previous Day...](/news/2013/03/2/index.md)
 

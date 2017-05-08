@@ -4,7 +4,3 @@
 
 
 
-
-### Related:
-
-1. [John Cena defeats AJ Styles to become a 16-time WWE Champion, tying Ric Flair with the most world championship reigns. ](/news/2017/01/29/john-cena-defeats-aj-styles-to-become-a-16-time-wwe-champion-tying-ric-flair-with-the-most-world-championship-reigns.md) _Context: WWE Champion_

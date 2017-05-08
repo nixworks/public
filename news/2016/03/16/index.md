@@ -48,8 +48,5 @@ Protests erupted in several Brazilian cities on Wednesday after President Dilma 
 ### [Scientists release a small flock of pigeons, dubbed "The Pigeon Air Patrol", carrying tiny backpacks to monitor London's air quality during a period of moderate to high pollution. The backpacks contain sensors used to measure nitrogen dioxide and ozone levels. ](/news/2016/03/16/scientists-release-a-small-flock-of-pigeons-dubbed-the-pigeon-air-patrol-carrying-tiny-backpacks-to-monitor-london-s-air-quality-during.md)
 Lightweight pollution sensors record the nitrogen dioxide and ozone in the air.
 
-### [The PGA of America announces it is discontinuing the PGA Grand Slam of Golf, a special postseason event among the year's winners of the four major championships of regular men's golf. This year, it was set to be held at Trump National Golf Club in Los Angeles, California. The 2015 event was cancelled after the PGA decided to move the exhibition contest from the same Trump Club, and they couldn't find a replacement course golf course with suitable dates. ](/news/2016/03/16/the-pga-of-america-announces-it-is-discontinuing-the-pga-grand-slam-of-golf-a-special-postseason-event-among-the-year-s-winners-of-the-four.md)
-PGA of America decides to discontinue the PGA Grand Slam of Golf 
-
 ## [Previous Day...](/news/2016/03/15/index.md)
 

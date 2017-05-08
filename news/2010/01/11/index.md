@@ -40,11 +40,5 @@ Thousands of supporters of former premier Thaksin Shinawatra rallied on Monday o
 ### [Tombs discovered near Egypt's pyramids reinforce the theory they were built by free workers rather than slaves. ](/news/2010/01/11/tombs-discovered-near-egypt-s-pyramids-reinforce-the-theory-they-were-built-by-free-workers-rather-than-slaves.md)
 _Context: Egypt's pyramids, Tombs, slaves_
 
-### [Angola makes two arrests over an attack on the Togo national football team in Cabinda Province. ](/news/2010/01/11/angola-makes-two-arrests-over-an-attack-on-the-togo-national-football-team-in-cabinda-province.md)
-_Context: Angola, Cabinda Province, Togo, Togo national football team attack_
-
-### [The 2010 Africa Cup of Nations continues without Togo as Malawi unexpectedly beat World Cup qualifiers Algeria by three goals. ](/news/2010/01/11/the-2010-africa-cup-of-nations-continues-without-togo-as-malawi-unexpectedly-beat-world-cup-qualifiers-algeria-by-three-goals.md)
-_Context: 2010 Africa Cup of Nations, 2010 FIFA World Cup, Algeria, Malawi_
-
 ## [Previous Day...](/news/2010/01/10/index.md)
 

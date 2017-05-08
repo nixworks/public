@@ -10,7 +10,7 @@ _Context: Almaty, Kazakhstan, Syria_
 A military court sentences an Afghan soldier to death over the killing of five French soldiers in January, officials say.
 
 ### [Several 1-inch needles are found in sandwiches on multiple Delta Air Lines flights from Amsterdam Airport Schiphol to the United States. The FBI and Dutch authorities launch a criminal investigation. ](/news/2012/07/17/several-1-inch-needles-are-found-in-sandwiches-on-multiple-delta-air-lines-flights-from-amsterdam-airport-schiphol-to-the-united-states-the.md)
-_Context: Amsterdam Airport Schiphol, Delta Air Lines, FBI, Netherlands, U.S._
+_Context: Amsterdam Airport Schiphol, Delta Air Lines, FBI, Netherlands, United States_
 
 ### [A pilot for SkyWest Airlines on administrative leave attempts to steal a Bombardier CRJ200 at St. George Municipal Airport in the U.S. state of Utah, killing himself after. ](/news/2012/07/17/a-pilot-for-skywest-airlines-on-administrative-leave-attempts-to-steal-a-bombardier-crj200-at-st-george-municipal-airport-in-the-u-s-state.md)
 _Context: Bombardier CRJ200, SkyWest Airlines, St. George Municipal Airport, Utah, administrative leave_
@@ -32,9 +32,6 @@ _Context: Benjamin Netanyahu, Kadima party, military conscription for ultra-Orth
 
 ### [Three astronauts, Sunita Williams of the United States, Yuri Malenchenko of Russia and Aki Hoshide of Japan, arrive at the International Space Station for a three month visit. ](/news/2012/07/17/three-astronauts-sunita-williams-of-the-united-states-yuri-malenchenko-of-russia-and-aki-hoshide-of-japan-arrive-at-the-international-spa.md)
 A Russian Soyuz spacecraft linked up with the International Space Station early Tuesday (July 17) carrying three new residents for the lab representing Russia, the United States and Japan.
-
-### [The International Cycling Union (UCI) announces that Frnk Schleck failed a drugs test at the Tour de France; he withdraws from the event. ](/news/2012/07/17/the-international-cycling-union-uci-announces-that-frank-schleck-failed-a-drugs-test-at-the-tour-de-france-he-withdraws-from-the-event.md)
-_Context: Frnk Schleck, International Cycling Union, Tour de France_
 
 ## [Previous Day...](/news/2012/07/16/index.md)
 

@@ -30,14 +30,5 @@ The Italian neurologist Rita Levi-Montalcini, who won the Nobel prize for her wo
 ### [The Beijing Subway expands to 442 km with the opening of Line 6, making it the longest metro network in the world. ](/news/2012/12/30/the-beijing-subway-expands-to-442-km-with-the-opening-of-line-6-making-it-the-longest-metro-network-in-the-world.md)
 CHINA: Five further sections of the Beijing metro, with a combined length of 69·8&nbsp;km, were put into revenue service on December 30. Adding...
 
-### [The Egyptian Football Association says the launch 2012-13 Egyptian Premier League is postponed for a third time, this time until 1 February. The first round of matches will be played behind closed doors following the Port Said Stadium disaster. ](/news/2012/12/30/the-egyptian-football-association-says-the-launch-2012a13-egyptian-premier-league-is-postponed-for-a-third-time-this-time-until-1-februar.md)
-_Context: 2012-13 Egyptian Premier League, Egyptian Football Association, mass attack_
-
-### [Bayern Munich's striker Mario Mandzukic is named as 2012 Croatian Footballer of the Year. ](/news/2012/12/30/bayern-munich-s-striker-mario-manda3-4ukia-is-named-as-2012-croatian-footballer-of-the-year.md)
-_Context: Croatian Footballer of the Year, FC Bayern Munich, Mario Mandzukic, striker_
-
-### [Deportivo de La Coruna announces that manager Jose Luis Oltra has been sacked due to a poor start to the 2012-13 La Liga season. ](/news/2012/12/30/deportivo-de-la-corua-a-announces-that-manager-josa-c-luis-oltra-has-been-sacked-due-to-a-poor-start-to-the-2012a13-la-liga-season.md)
-_Context: 2012-13 La Liga, Deportivo de La Coruna, Jose Luis Oltra_
-
 ## [Previous Day...](/news/2012/12/29/index.md)
 

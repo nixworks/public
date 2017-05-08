@@ -54,8 +54,5 @@ Ruling frees states from federal oversight, calling for new way to identify juri
 ### [China's Shenzhou 10 spacecraft returns to Earth after its crew complete a 15-day mission. ](/news/2013/06/25/china-s-shenzhou-10-spacecraft-returns-to-earth-after-its-crew-complete-a-15-day-mission.md)
 _Context: Shenzhou 10_
 
-### [In college baseball, the UCLA Bruins win the 2013 College World Series for the first time. ](/news/2013/06/25/in-college-baseball-the-ucla-bruins-win-the-2013-college-world-series-for-the-first-time.md)
-UCLA sweeps Mississippi State and wins its first College World Series championship.
-
 ## [Previous Day...](/news/2013/06/24/index.md)
 

@@ -42,11 +42,5 @@ _Context: Senate Judiciary Committee, citizenship_
 ### [Microsoft announces their eighth generation console, the Xbox One. ](/news/2013/05/21/microsoft-announces-their-eighth-generation-console-the-xbox-one.md)
 Microsoft has finally revealed its next-generation console, called Xbox One.
 
-### [Premier League club Stoke City unexpectedly sack manager Tony Pulis after seven years in charge. Pulis led the side to the Premier League, then the 2011 FA Cup Final and the 2011-12 UEFA Europa League. ](/news/2013/05/21/premier-league-club-stoke-city-unexpectedly-sack-manager-tony-pulis-after-seven-years-in-charge-pulis-led-the-side-to-the-premier-league-t.md)
-_Context: 2011 FA Cup Final, 2011-12 UEFA Europa League, English Premier League, Stoke City, Tony Pulis_
-
-### [In basketball, the Cleveland Cavaliers win the NBA Draft Lottery for number one pick in the 2013 NBA Draft. ](/news/2013/05/21/in-basketball-the-cleveland-cavaliers-win-the-nba-draft-lottery-for-number-one-pick-in-the-2013-nba-draft.md)
-The NBA draft lottery could make or break teams&#39; futures.
-
 ## [Previous Day...](/news/2013/05/20/index.md)
 

@@ -4,7 +4,7 @@
 _Context: Libya, Muammar al-Gaddafi, State Department, minaret controversy in Switzerland_
 
 ### [Roman Catholic child sexual abuse investigation: The Dutch Catholic Church apologises and the country's religious leaders request an independent inquiry. A monastery head in Salzburg admits abuse of a boy more than four decades ago. The brother of Pope Benedict XVI admits physically disciplining students at a school in Germany before corporal punishment was banned in 1980. ](/news/2010/03/9/roman-catholic-child-sexual-abuse-investigation-the-dutch-catholic-church-apologises-and-the-country-s-religious-leaders-request-an-indepen.md)
-_Context:  within the church, Benedict XVI, Germany, Netherlands, Salzburg_
+_Context:  within the church, Benedict XVI, German, Netherlands, Salzburg_
 
 ### [Prince Ernst August of Hanover, husband of Caroline, Princess of Hanover, is fined EUR200,000 by a court in Hildesheim for assaulting a hotelier on Lamu Island in 2000. ](/news/2010/03/9/prince-ernst-august-of-hanover-husband-of-caroline-princess-of-hanover-is-fined-a-200-000-by-a-court-in-hildesheim-for-assaulting-a-hote.md)
 Prince Ernst August of Hanover, he husband of Princess Caroline of Monaco, has been fined 200,000 euros (&pound;181,000) by a German court for assaulting a hotel manager on an African island.

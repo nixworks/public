@@ -7,7 +7,7 @@ _Context: Ali Mohammed Ghedi, Mogadishu, Prime Minister of Somalia, Somalia, bom
 _Context: 2000, Alberto Fujimori, Chile, Interpol, Japan, Peru, President, Santiago_
 
 ### [ People in several parts of Germany report several fireballs in the sky, leading to speculation that they may be UFOs. Scientists report that the sightings are of the Taurid meteor shower. [http://news.yahoo.com/s/nm/20051104/od_nm/germany_fireballs_dc;_ylt=AjWQoG6SgP4bZ3_rwYhiSaGs0NUE;_ylu=X3oDMTA3NW1oMDRpBHNlYwM3NTc- (Yahoo! News)] (Link dead as of 20:57, 14 January 2007 (UTC))](/news/2005/11/6/people-in-several-parts-of-germany-report-several-fireballs-in-the-sky-leading-to-speculation-that-they-may-be-ufos-scientists-report-tha.md)
-_Context: Germany, Taurid meteor shower, fireballs, unidentified flying object_
+_Context: German, Taurid meteor shower, fireballs, unidentified flying object_
 
 ### [ Azerbaijani citizens go to the polls in the Azerbaijan parliamentary election, 2005. Opposition parties have alleged that there is voting fraud. [http://news.yahoo.com/s/ap/20051106/ap_on_re_eu/azerbaijan_s_vote;_ylt=AjII18T4eukdh74MbJxdGv6s0NUE;_ylu=X3oDMTA3b3JuZGZhBHNlYwM3MjE- (Reuters)] (Link dead as of 22:17, 14 January 2007 (UTC))](/news/2005/11/6/azerbaijani-citizens-go-to-the-polls-in-the-azerbaijan-parliamentary-election-2005-opposition-parties-have-alleged-that-there-is-voting-f.md)
 _Context: Azerbaijan parliamentary election, 2005, Azerbaijani citizens, voting fraud_

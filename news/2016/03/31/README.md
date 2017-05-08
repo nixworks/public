@@ -57,8 +57,5 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [Astronomers' study reveals the surface of exoplanet 55 Cancri e has a 2500degC liquid face, constantly facing its star 55 Cancri, while the other side is relatively colder and solid. ](/news/2016/03/31/astronomers-study-reveals-the-surface-of-exoplanet-55-cancri-e-has-a-2500adegc-liquid-face-constantly-facing-its-star-55-cancri-while-the-o.md)
 For the first time, astronomers map a nearby &quot;super-Earth&quot; exoplanet called 55 Cancri e to find that one hemisphere is almost completely molten rock, while the other half is almost completely solid.
 
-### [Five U.S. women's national soccer team players file federal wage discrimination complaints with the  Equal Employment Opportunity Commission against the U.S. Soccer Federation (USSF). In the filing, the players cite 2015 USSF figures which show they were paid nearly four times less than men's players despite generating nearly $20 million more revenue. A U.S. Soccer statement says, "... we are disappointed about this action."  ](/news/2016/03/31/five-u-s-womenas-national-soccer-team-players-file-federal-wage-discrimination-complaints-with-the-equal-employment-opportunity-commissi.md)
-&quot;The pay disparity between men and women is just too large,&quot; Carli Lloyd says.
-
 ## [Previous Day...](/news/2016/03/30/index.md)
 

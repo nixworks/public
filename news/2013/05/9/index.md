@@ -24,11 +24,5 @@ A gang of cyber-criminals operating in 26 countries stole $45 million by hacking
 ### [The Australian government announces that it will hold a referendum on recognition of local government in the constitution simultaneously with the federal election on September 14. ](/news/2013/05/9/the-australian-government-announces-that-it-will-hold-a-referendum-on-recognition-of-local-government-in-the-constitution-simultaneously-wit.md)
 _Context: Australia's government, Senate election, constitution, local government, referendum_
 
-### [Current Everton manager David Moyes is confirmed as Alex Ferguson's successor at Manchester United. ](/news/2013/05/9/current-everton-manager-david-moyes-is-confirmed-as-alex-ferguson-s-successor-at-manchester-united.md)
-_Context: David Moyes, Everton, Manchester United, Sir Alex Ferguson_
-
-### [In sailing training for the America's Cup, British, two-time Olympic medallist Andrew Simpson dies in San Francisco Bay as part of the Swedish team, Artemis Racing. ](/news/2013/05/9/in-sailing-training-for-the-america-s-cup-british-two-time-olympic-medallist-andrew-simpson-dies-in-san-francisco-bay-as-part-of-the-swedi.md)
-_Context: America's Cup, Andrew Simpson, Artemis Racing, Olympic Games, San Francisco Bay, Swede, sailing_
-
 ## [Previous Day...](/news/2013/05/8/index.md)
 

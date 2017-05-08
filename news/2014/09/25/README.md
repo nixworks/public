@@ -10,7 +10,7 @@ _Context: Anchorage_
 Get up to the minute breaking political news and in-depth analysis on ABCNews.com.
 
 ### [Eric Holder announces his resignation as Attorney General of the United States, effective from when the Senate confirms a successor. [http://www.npr.org/blogs/thetwo-way/2014/09/25/351363171/eric-holder-to-step-down-as-attorney-general (NPR)].](/news/2014/09/25/eric-holder-announces-his-resignation-as-attorney-general-of-the-united-states-effective-from-when-the-senate-confirms-a-successor-http.md)
-_Context: Attorney General, Eric Holder, senators_
+_Context: Attorney General, Eric Holder, United States senators_
 
 ### [President of Ukraine Petro Poroshenko announces a wide-ranging reform program entitled Strategy 2020 to prepare Ukraine for applying for European Union membership in 2020. ](/news/2014/09/25/president-of-ukraine-petro-poroshenko-announces-a-wide-ranging-reform-program-entitled-strategy-2020-to-prepare-ukraine-for-applying-for-eur.md)
 _Context: European Union, Petro Poroshenko, Ukrainian President_

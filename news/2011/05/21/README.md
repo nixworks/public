@@ -66,11 +66,5 @@ _Context: Herman Cain, United States presidential election, 2012, his campaign, 
 ### [The Minnesota House of Representatives votes to put a constitutional referendum on marriage before voters in the US state of Minnesota. ](/news/2011/05/21/the-minnesota-house-of-representatives-votes-to-put-a-constitutional-referendum-on-marriage-before-voters-in-the-us-state-of-minnesota.md)
 After a long and passionate debate, the House passed a proposed constitutional amendment to define marriage as the union of one man and one woman.
 
-### [In rugby union, Leinster defeat Northampton Saints after a surprise comeback in the 2011 Heineken Cup Final at the Millennium Stadium in Cardiff, Wales. ](/news/2011/05/21/in-rugby-union-leinster-defeat-northampton-saints-after-a-surprise-comeback-in-the-2011-heineken-cup-final-at-the-millennium-stadium-in-car.md)
- Leinster 33 Northampton 22: The final scoreline said little about this epic Leinster comeback from 22-6 down at halftime to &hellip;
-
-### [Cristiano Ronaldo of Real Madrid scores a record 40th goal in La Liga. ([http://soccernet.espn.go.com/news/story/_/id/921986/cristiano-ronaldo-breaks-la-liga-scoring-record?cc=5739 ESPN Soccernet])](/news/2011/05/21/cristiano-ronaldo-of-real-madrid-scores-a-record-40th-goal-in-la-liga-http-soccernet-espn-go-com-news-story-_-id-921986-cristiano-ronal.md)
-_Context: Cristiano Ronaldo, La Liga, Real Madrid_
-
 ## [Previous Day...](/news/2011/05/20/index.md)
 

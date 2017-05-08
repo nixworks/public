@@ -33,14 +33,5 @@ Hardy, who is appealing a conviction for assaulting a woman, was supposed to pla
 ### [Swedish general election, 2014:Voters in Sweden go to the polls for a general election with a leftist coalition led by the Swedish Social Democratic Party set to form government. Incumbent Prime Minister Fredrik Reinfeldt announces that he will step aside as PM and as leader of the Moderate Party. ](/news/2014/09/14/swedish-general-election-2014-pvoters-in-sweden-go-to-the-polls-for-a-general-election-with-a-leftist-coalition-led-by-the-swedish-social-d.md)
 Swedish Social Democrat leader Stefan Lofven says he is ready to start coalition talks after winning elections, but will not work with the far right.
 
-### [The closing ceremony of the inaugural Invictus Games takes place in London, with a music concert at Olympic Park featuring artists and groups such as Bryan Adams, Ellie Goulding, James Blunt and the Kaiser Chiefs. ](/news/2014/09/14/the-closing-ceremony-of-the-inaugural-invictus-games-takes-place-in-london-with-a-music-concert-at-olympic-park-featuring-artists-and-group.md)
-The Queen tells competitors in the Invictus Games she has been &quot;deeply moved by your courage, determination and talent&quot;.
-
-### [In basketball, the United States defeats Serbia 129-92 to win the 2014 FIBA Basketball World Cup. ](/news/2014/09/14/in-basketball-the-united-states-defeats-serbia-129-92-to-win-the-2014-fiba-basketball-world-cup.md)
-_Context: 2014 FIBA Basketball World Cup, Serbia, United States, basketball_
-
-### [In golf:American Billy Horschel wins the The Tour Championship played in Atlanta. ](/news/2014/09/14/in-golf-pamerican-billy-horschel-wins-the-the-tour-championship-played-in-atlanta.md)
-Billy Horschel took the limelight from world number one Rory McIlroy to win the biggest title of his career at the Tour Championship on Sunday, along with FedExCup honors and an eye-popping $10 million bonus.
-
 ## [Previous Day...](/news/2014/09/13/index.md)
 

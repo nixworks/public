@@ -19,7 +19,7 @@ _Context: Italian, Roberto Calvi_
 _Context: Benedict XVI, Vatican police, audience, popemobile_
 
 ### [ Leaders of the G8 assemble in Rostock, Germany for the 33rd annual G8 summit to discuss primarily issues of climate change and international aid, but also U.S.-Russia tensions over an antimissile system in Europe. ](/news/2007/06/6/leaders-of-the-g8-assemble-in-rostock-germany-for-the-33rd-annual-g8-summit-to-discuss-primarily-issues-of-climate-change-and-internationa.md)
-_Context: 33rd G8 summit, G8 group of nations, Germany, Rostock, climate change, international aid_
+_Context: 33rd G8 summit, G8 group of nations, German, Rostock, climate change, international aid_
 
 ### [ Dozens of people are trapped in a collapsed hall in Leshan in the southwestern province of Sichuan in China. ](/news/2007/06/6/dozens-of-people-are-trapped-in-a-collapsed-hall-in-leshan-in-the-southwestern-province-of-sichuan-in-china.md)
 _Context: China, Leshan, Sichuan_

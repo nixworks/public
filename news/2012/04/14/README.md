@@ -18,11 +18,5 @@ _Context: North Korea, South Korea, Yellow Sea, failed North Korean rocket launc
 ### [Iran and world powers, including the United States, Russia, and China, begin talks about Iran's nuclear program. ](/news/2012/04/14/iran-and-world-powers-including-the-united-states-russia-and-china-begin-talks-about-iran-s-nuclear-program.md)
 The decision to hold a new round of talks on May 23 appeared to reflect what officials saw as a serious commitment from Iran.
 
-### [Former Italy under-21 footballer Piermario Morosini dies after collapsing face down with a suspected heart attack on the pitch. ](/news/2012/04/14/former-italy-under-21-footballer-piermario-morosini-dies-after-collapsing-face-down-with-a-suspected-heart-attack-on-the-pitch.md)
-Ex-Italy under-21 footballer Piermario Morosini dies following a suspected heart attack on the pitch in a game in Pescara, officials say.
-
-### [Neptune Collonges ridden by Daryl Jacob wins the 2012 Grand National, but the race is tinged with sadness following the deaths of  this year's Cheltenham Gold Cup winner Synchronised and Yorkshire horse According To Pete. ](/news/2012/04/14/neptune-collonges-ridden-by-daryl-jacob-wins-the-2012-grand-national-but-the-race-is-tinged-with-sadness-following-the-deaths-of-this-year.md)
-Neptune Collonges became the first grey winner of the John Smith&rsquo;s Grand National for 62 years when he beat Sunnyhillboy by a nose, in the closest ever finish in its 173-year history, at Aintree.
-
 ## [Previous Day...](/news/2012/04/13/index.md)
 

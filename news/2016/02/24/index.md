@@ -54,8 +54,5 @@ Hungary will hold a referendum on whether to accept mandatory EU quotas for relo
 ### [South Korea's opposition holds a parliamentary filibuster, the first in the National Assembly  since 1969, to block the current anti-terrorism bill that would expand National Intelligence Service powers. The opposition plans to continue until March 11, when the session is scheduled to end. ](/news/2016/02/24/south-korea-s-opposition-holds-a-parliamentary-filibuster-the-first-in-the-national-assembly-since-1969-to-block-the-current-anti-terrori.md)
 Wearing a white sweater and a blue blazer, her eyes framed by round spectacles, Eun Soo-mi looked more like a librarian than a political saboteur as she approached the podium in South Korea’s parliament at 2:30 a.m. on Wednesday.
 
-### [Former President of FIFA Sepp Blatter and suspended President of UEFA boss Michel Platini lose their appeals against being banned from all football related activities but the period of the ban is reduced from eight to six years. ](/news/2016/02/24/former-president-of-fifa-sepp-blatter-and-suspended-president-of-uefa-boss-michel-platini-lose-their-appeals-against-being-banned-from-all-f.md)
-Outgoing Fifa president Sepp Blatter and suspended Uefa boss Michel Platini fail in their appeal against bans from football.
-
 ## [Previous Day...](/news/2016/02/23/index.md)
 

@@ -19,10 +19,10 @@ The Colombian armed forces say they killed a senior Farc rebel leader in an atta
 _Context: Glastonbury Abbey, Hollywood, King Arthur, Nicolas Cage_
 
 ### [More than 600 antiquities lost in mysterious circumstances due to "inappropriate handover procedures" after being repatriated by the United States in 2009 are found and returned to the National Museum of Iraq. ](/news/2010/09/20/more-than-600-antiquities-lost-in-mysterious-circumstances-due-to-inappropriate-handover-procedures-after-being-repatriated-by-the-united.md)
-_Context: National Museum of Iraq, U.S._
+_Context: National Museum of Iraq, United States_
 
 ### [Jailed U.S. entertainer Lindsay Lohan has her probation revoked by Judge Elden Fox following a failed drug test. ](/news/2010/09/20/jailed-u-s-entertainer-lindsay-lohan-has-her-probation-revoked-by-judge-elden-fox-following-a-failed-drug-test.md)
-_Context: Lindsay Lohan, U.S., drug test, probation_
+_Context: Lindsay Lohan, United States, drug test, probation_
 
 ### [110 people are wounded as a stadium collapses during a car race in Paran, Brazil. ](/news/2010/09/20/110-people-are-wounded-as-a-stadium-collapses-during-a-car-race-in-parana-brazil.md)
 About 110 people have been injured, 22 seriously, when part of the seating at a stadium in Brazil collapsed during a car race, rescue services say.
@@ -43,7 +43,7 @@ _Context: BP, Deepwater Horizon oil spill, Macondo, Thad Allen, U.S. Coast Guard
 _Context: International Atomic Energy Agency, Vienna_
 
 ### [The United States and Australia issue travel warnings for India following the shooting of two Taiwanese tourists outside the Jama Masjid mosque in Delhi. ](/news/2010/09/20/the-united-states-and-australia-issue-travel-warnings-for-india-following-the-shooting-of-two-taiwanese-tourists-outside-the-jama-masjid-mos.md)
-_Context: Australia, Delhi, India, Jama Masjid, Taiwan, U.S., mosque_
+_Context: Australia, Delhi, India, Jama Masjid, Taiwan, United States, mosque_
 
 ### [World leaders arrive in New York City for a United Nations summit to discuss progress in implementing Millennium Development Goals. ](/news/2010/09/20/world-leaders-arrive-in-new-york-city-for-a-united-nations-summit-to-discuss-progress-in-implementing-millennium-development-goals.md)
 _Context: Millennium Development Goal, New York's, United Nations_
@@ -72,9 +72,6 @@ _Context: Australia, Fiji, Sydney, Tamil, Villawood Detention Centre_
 
 ### [Jupiter becomes the brightest object in the night sky after the Moon as it makes its closest approach to Earth since 1963. ](/news/2010/09/20/jupiter-becomes-the-brightest-object-in-the-night-sky-after-the-moon-as-it-makes-its-closest-approach-to-earth-since-1963.md)
 Jupiter will be the brightest object in the sky, except for the moon, when it makes its closest approach to Earth in more than a decade, U.S. astronomers say.
-
-### [Kenny McKinley, a wide receiver for the Denver Broncos in the US National Football League, is found dead. ](/news/2010/09/20/kenny-mckinley-a-wide-receiver-for-the-denver-broncos-in-the-us-national-football-league-is-found-dead.md)
-Denver Broncos wide receiver Kenny McKinley died on Monday. He was 23. The team confirmed the news on Twitter and said it was &quot;deeply saddened&quot; after being informed.
 
 ## [Previous Day...](/news/2010/09/19/index.md)
 

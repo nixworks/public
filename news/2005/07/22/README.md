@@ -13,7 +13,7 @@ _Context: Abdullah Ahmad Badawi, Islam_
 _Context: Berlin, Federal Chancellor's Office, Reichstag, airplane_
 
 ### [ In Dubai, police are on alert due to the wedding of Junaid Miandad and Mahrukh Ibrahim. Junaid is the son of former Pakistani cricket captain Javed Miandad. Mahrukh is the daughter of India's most wanted crime boss, Dawood Ibrahim. ](/news/2005/07/22/in-dubai-police-are-on-alert-due-to-the-wedding-of-junaid-miandad-and-mahrukh-ibrahim-junaid-is-the-son-of-former-pakistani-cricket-capta.md)
-_Context: Cricket, Dawood Ibrahim, India, Javed Miandad, Pakistan, crime boss_
+_Context: Dawood Ibrahim, India, Javed Miandad, Pakistan, cricketer, crime boss_
 
 ### [ Microsoft announces that the former codenamed "Windows Longhorn" will now officially be known as "Windows Vista". The first beta test will be launched on August 3.](/news/2005/07/22/microsoft-announces-that-the-former-codenamed-windows-longhorn-will-now-officially-be-known-as-windows-vista-the-first-beta-test-will.md)
 _Context: Microsoft, Windows Vista, beta test_

@@ -84,8 +84,5 @@ _Context: Bharatiya Janata Party, India, Kashmir Valley, Republic Day (India), S
 ### [An emerging outbreak of avian cholera kills thousands of eider ducks in Arctic regions of Canada. Scientists are studying the outbreak and its potential to spread to Greenland. ](/news/2011/01/24/an-emerging-outbreak-of-avian-cholera-kills-thousands-of-eider-ducks-in-arctic-regions-of-canada-scientists-are-studying-the-outbreak-and-i.md)
 Avian cholera could spread into areas of the Arctic, including parts of Canada and Greenland, where the contagious bird disease has not been present before, say scientists.
 
-### [Sky Sports soccer commentators Richard Keys and Andy Gray apologise after making sexist comments about a woman during a live television broadcast. ](/news/2011/01/24/sky-sports-soccer-commentators-richard-keys-and-andy-gray-apologise-after-making-sexist-comments-about-a-woman-during-a-live-television-broa.md)
-A pair of British television football pundits were caught offside when they made &#034;unacceptable remarks&#034; off-air about a woman assistant referee officiating in a Premier League clash.
-
 ## [Previous Day...](/news/2011/01/23/index.md)
 

@@ -36,11 +36,5 @@ Palestinian President Mahmoud Abbas on Sunday accepted the resignation of his ne
 ### [Nelson Mandela, former President of South Africa, is in a critical condition after his lung infection takes a turn for the worse. ](/news/2013/06/23/nelson-mandela-former-president-of-south-africa-is-in-a-critical-condition-after-his-lung-infection-takes-a-turn-for-the-worse.md)
 _Context: Nelson Mandela, President of South Africa_
 
-### [In cricket, India narrowly defeats England by 5 runs to win the 2013 ICC Champions Trophy at Edgbaston Cricket Ground in the English city of Birmingham. ](/news/2013/06/23/in-cricket-india-narrowly-defeats-england-by-5-runs-to-win-the-2013-icc-champions-trophy-at-edgbaston-cricket-ground-in-the-english-city-of.md)
-_Context: 2013 ICC Champions Trophy, Birmingham, Cricket, Edgbaston Cricket Ground, England, Indian_
-
-### [American daredevil Nik Wallenda becomes the first person to complete a high wire walk across a Little Colorado River Gorge near the Grand Canyon. ](/news/2013/06/23/american-daredevil-nik-wallenda-becomes-the-first-person-to-complete-a-high-wire-walk-across-a-little-colorado-river-gorge-near-the-grand-ca.md)
-Daredevil Nik Wallenda completed a historic high-wire walk over a section of the Grand Canyon on Sunday, greeted with wild cheers after finishing his journey over the yawning chasm on a five centimetre steel cable.
-
 ## [Previous Day...](/news/2013/06/22/index.md)
 

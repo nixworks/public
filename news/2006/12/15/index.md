@@ -13,7 +13,7 @@ _Context: Bhutan, Jigme Singye Wangchuck_
 _Context: Pacific Northwest, Portland, Stanley Park, Washington, windstorm_
 
 ### [ United States district court judge Jeremy Fogel imposes a moratorium on lethal injections in California stating that they are unconstitutional. In an unrelated incident, the Governor of Florida Jeb Bush has suspended lethal injections in Florida pending an investigation into the system after the recent execution of ngel Nieves Daz took 34 minutes after it was botched. ](/news/2006/12/15/united-states-district-court-judge-jeremy-fogel-imposes-a-moratorium-on-lethal-injections-in-california-stating-that-they-are-unconstitutio.md)
-_Context: California, FL, Governor of Florida, Jeb Bush, Jeremy Fogel, U.S. federal court, lethal injection, moratorium, ngel Nieves Daz_
+_Context: California, Florida, Governor of Florida, Jeb Bush, Jeremy Fogel, U.S. federal court, lethal injection, moratorium, ngel Nieves Daz_
 
 ### [ The 2006 Asian Games is officially closed at the 50,000 seater Khalifa International Stadium in Doha, Qatar marking the end of 15 days of competition.](/news/2006/12/15/the-2006-asian-games-is-officially-closed-at-the-50-000-seater-khalifa-international-stadium-in-doha-qatar-marking-the-end-of-15-days-of-c.md)
 _Context: 2006 Asian Games, Doha, Khalifa International Stadium, Qatar, closed_

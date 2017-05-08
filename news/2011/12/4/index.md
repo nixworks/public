@@ -1,7 +1,7 @@
 ## [2011-12-4](/news/2011/12/4/index.md)
 
 ### [45,000 citizens of Koblenz, Germany, are allowed to return home after bomb squads defused World War II bombs that were hidden under the Rhine River for almost 65 years. ](/news/2011/12/4/45-000-citizens-of-koblenz-germany-are-allowed-to-return-home-after-bomb-squads-defused-world-war-ii-bombs-that-were-hidden-under-the-rhin.md)
-_Context: Germany, Koblenz, Rhine River, World War II, bomb squad_
+_Context: German, Koblenz, Rhine River, World War II, bomb squad_
 
 ### [Australia approves exports of uranium to India. ](/news/2011/12/4/australia-approves-exports-of-uranium-to-india.md)
 _Context: Australia, India, uranium_
@@ -23,15 +23,6 @@ _Context: Al Nour Party, Egypt, Freedom and Justice Party, Muslim Brotherhood, S
 
 ### [The President of Peru Ollanta Humala declares a state of emergency in the Cajamarca region to stop anti-mining protests. ](/news/2011/12/4/the-president-of-peru-ollanta-humala-declares-a-state-of-emergency-in-the-cajamarca-region-to-stop-anti-mining-protests.md)
 _Context: Cajamarca, Ollanta Humala, President, state of emergency_
-
-### [Former Brazilian football captain Socrates dies in hospital in Sao Paulo from complications of food poisoning. ](/news/2011/12/4/former-brazilian-football-captain-sa3crates-dies-in-hospital-in-sao-paulo-from-complications-of-food-poisoning.md)
-Former Brazil World Cup captain Socrates, regarded as one of the greatest players of his generation, has died in hospital at the age of 57.
-
-### [American golfer Tiger Woods wins the Chevron World Challenge, his first tournament win in over two years. ](/news/2011/12/4/american-golfer-tiger-woods-wins-the-chevron-world-challenge-his-first-tournament-win-in-over-two-years.md)
-_Context: American, Chevron World Challenge, Tiger Woods, golf_
-
-### [In lawn tennis, Spain wins the 2011 Davis Cup. ](/news/2011/12/4/in-lawn-tennis-spain-wins-the-2011-davis-cup.md)
-_Context: 2011 Davis Cup, Spain, lawn tennis_
 
 ## [Previous Day...](/news/2011/12/3/index.md)
 

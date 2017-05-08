@@ -13,7 +13,7 @@ A bomb has exploded outside a branch of a French supermarket chain in Alexandria
 Sam Simon, an Emmy-winning writer and producer, gave away much of his money to charity after he was diagnosed with colon cancer.
 
 ### [A unknown gunman in a vehicle kills Dreekius Oricko Johnson, 28, and wounds former Tennessee Titans and New York Jets running back Chris Johnson in Orlando, Florida. ](/news/2015/03/8/a-unknown-gunman-in-a-vehicle-kills-dreekius-oricko-johnson-28-and-wounds-former-tennessee-titans-and-new-york-jets-running-back-chris-joh.md)
-_Context: Chris Johnson, FL, New York Jets, Orlando, Tennessee Titans, running back_
+_Context: Chris Johnson, Florida, New York Jets, Orlando, Tennessee Titans, running back_
 
 ### [A court in Moscow charges two men of Chechen origin, Zaur Dadayev and Ansor Gubashev, who were among five arrested March 7, with the murder of Russian opposition leader Boris Nemtsov. The others also arrested, Gubashev's younger brother Shahid Gubashev and two others named only as Bakhayev and Eskerkhanov, are still only suspects. ](/news/2015/03/8/a-court-in-moscow-charges-two-men-of-chechen-origin-zaur-dadayev-and-ansor-gubashev-who-were-among-five-arrested-march-7-with-the-murder.md)
 _Context: Boris Nemtsov, Boris Nemtsov's assassination, Chechen, Moscow, Zaur Dadayev_

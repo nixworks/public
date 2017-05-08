@@ -33,23 +33,5 @@ _Context: Ahmed Moaz al-Khatib, European Union, Syria, Syrian National Coalition
 ### [Hundreds of thousands of people march in Paris against proposals to legalise same-sex marriage in France with violent clashes after police deny marchers access to the Champs-Elysees. ](/news/2013/03/24/hundreds-of-thousands-of-people-march-in-paris-against-proposals-to-legalise-same-sex-marriage-in-france-with-violent-clashes-after-police-d.md)
 _Context: Champs-Elysees, same-sex marriages_
 
-### [In Formula One, Sebastian Vettel wins the 2013 edition of the Malaysian Grand Prix ahead of Mark Webber and Lewis Hamilton. ](/news/2013/03/24/in-formula-one-sebastian-vettel-wins-the-2013-edition-of-the-malaysian-grand-prix-ahead-of-mark-webber-and-lewis-hamilton.md)
-_Context: 2013 edition, Formula One, Lewis Hamilton, Malaysian Grand Prix, Mark Webber, Sebastian Vettel_
-
-### [In cricket, India defeats Australia by six wickets in the final test match to clean-sweep the 2013 Border-Gavaskar Trophy 4-0. ](/news/2013/03/24/in-cricket-india-defeats-australia-by-six-wickets-in-the-final-test-match-to-clean-sweep-the-2013-borderagavaskar-trophy-4a0.md)
-India secure a 4-0 whitewash over Australia after winning the fourth Test in Delhi by six wickets.
-
-### [In road bicycle racing, Daniel Martin wins 2013 Volta a Catalunya, the fifth stage of the 2013 UCI World Tour season, ahead of Joaquim Rodriguez. ](/news/2013/03/24/in-road-bicycle-racing-daniel-martin-wins-2013-volta-a-catalunya-the-fifth-stage-of-the-2013-uci-world-tour-season-ahead-of-joaquim-rodra.md)
-Find out the latest news, stage reports, race scores and expert analysis from the 2013 Volta Ciclista a Catalunya Stage 7. Cyclingnews.com: The world centre of cycling.
-
-### [In curling, Scotland wins the 2013 World Women's Curling Championship defeating Sweden 6-5 in the final. ](/news/2013/03/24/in-curling-scotland-wins-the-2013-world-women-s-curling-championship-defeating-sweden-6a5-in-the-final.md)
-Scotland beat Sweden by 6-5 in an exciting gold medal final on Sunday afternoon at the Titlis Glacier Mountain World Women&#39s Curling Championship to take the world crown.Sweden started with last stone advantage and used it to blank the first end
-
-### [In cross-country skiing, Norway's Petter Northug and Poland's Justyna Kowalczyk win the overall 2012-13 FIS Cross-Country World Cup titles. ](/news/2013/03/24/in-cross-country-skiing-norway-s-petter-northug-and-poland-s-justyna-kowalczyk-win-the-overall-2012a13-fis-cross-country-world-cup-titles.md)
-_Context: 2012-13 FIS Cross-Country World Cup, Justyna Kowalczyk, Petter Northug, cross-country skiers_
-
-### [In association football, the Costa Rican Football Federation files an official protest with FIFA requesting that their national team's 0-1 loss to the USA on March 22 in near-blizzard conditions at Dick's Sporting Goods Park in Commerce City, Colorado, be replayed. ](/news/2013/03/24/in-association-football-the-costa-rican-football-federation-files-an-official-protest-with-fifa-requesting-that-their-national-team-s-0a1.md)
-_Context: 0-1 loss, Colorado, Commerce City, Costa Rican Football Federation, Dick's Sporting Goods Park, FIFA, USA, association football, blizzard, their national team's_
-
 ## [Previous Day...](/news/2013/03/23/index.md)
 

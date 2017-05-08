@@ -10,7 +10,7 @@ Palestinian sources say Israel Air Force strike in central Gaza leaves three al-
 _Context: 3rd Infantry Division, Fort Stewart, Georgia, Iraq_
 
 ### [US movie director Arthur Penn best known as the director of ''Bonnie and Clyde'' dies of congestive heart failure in New York City. ](/news/2010/09/28/us-movie-director-arthur-penn-best-known-as-the-director-of-bonnie-and-clyde-dies-of-congestive-heart-failure-in-new-york-city.md)
-_Context: Arthur Penn, Bonnie and Clyde, New York's, U.S., congestive heart failure, movie director_
+_Context: Arthur Penn, Bonnie and Clyde, New York's, United States, congestive heart failure, movie director_
 
 ### [The business-software giant Oracle files a lawsuit in the U.S. District Court in San Francisco alleging that Micron Technology, a manufacturer of  memory chips, colluded with other manufacturers to fix prices. ](/news/2010/09/28/the-business-software-giant-oracle-files-a-lawsuit-in-the-u-s-district-court-in-san-francisco-alleging-that-micron-technology-a-manufactur.md)
 Oracle Corp ORCL.O hassued Micron Technology Inc (MU.O) for fixing prices of computermemory chips, in a continuance of litigation it inherited fromSun Microsystems.
@@ -59,9 +59,6 @@ Ed Miliband says a new generation is running Labour and signals a break from the
 
 ### [Iceland's parliament, the Althing, refers charges of misconduct in office related to the 2008-2012 Icelandic financial crisis against former Prime Minister of Iceland Geir Haarde to the Landsdomur, a special court for such cases. ](/news/2010/09/28/iceland-s-parliament-the-althing-refers-charges-of-misconduct-in-office-related-to-the-2008a2012-icelandic-financial-crisis-against-form.md)
 _Context: 2008 economic meltdown, Geir Haarde, Iceland, Icelandic Prime Minister, Landsdomur, parliament (Althing)_
-
-### [The Cincinnati Reds win the National League Central in Major League Baseball. ](/news/2010/09/28/the-cincinnati-reds-win-the-national-league-central-in-major-league-baseball.md)
-CINCINNATI — Chris Johnson is exactly 100 games into his major league career, and he’s already tired of watching what he saw Tuesday night: the raised arms, the human pileups, the jubilation of the home crowd that comes with a win to clinch a playoff berth. Cincinnati’s young, homegrown core, embodied by Bruce, MVP candidate Joey Votto, Drew Stubbs and Johnny Cueto, is supplemented by low-cost veteran acquisitions like Scott Rolen, Orlando Cabrera and Jonny Gomes. [...] Votto was signed in 2002, Cueto in 2004, Bruce in 2005, and Stubbs in 2006, and they have come of age together, with the essential veterans added to the mix like good seasonings, not overwhelming ingredients. [...] when 15 years of frustration ended with Bruce’s drive to center on the first pitch of the ninth from Tim Byrdak, what a release. Wandy Rodriguez walked the first two hitters of the game and got a double play and another ground ball, but Johnson bounced a long throw to Brett Wallace as the play went for an RBI single and error on Johnson, allowing the batter Rolen to take second. The Astros grabbed the lead with a two-run fourth highlighted by a Jason Castro RBI single and a successful squeeze bunt by Rodriguez to score Angel Sanchez. Back-to-back singles by Cabrera and Votto and Rolen’s comeback from an 0-2 count to work a walk got the Reds in prime position.
 
 ## [Previous Day...](/news/2010/09/27/index.md)
 

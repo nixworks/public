@@ -9,11 +9,5 @@ _Context: 2012 Delhi gang rape case, Zee News_
 ### [An armed standoff between a gunman and police leaves three hostages and the perpetrator dead in an Aurora, Colorado home. ](/news/2013/01/5/an-armed-standoff-between-a-gunman-and-police-leaves-three-hostages-and-the-perpetrator-dead-in-an-aurora-colorado-home.md)
 Four people, including a gunman, are found dead following a shooting incident and stand-off with police in Aurora, in the US state of Colorado.
 
-### [In tennis, Fernando Verdasco and Anabel Medina Garrigues from Spain win the 2013 Hopman Cup beating Serbia team in the final. ](/news/2013/01/5/in-tennis-fernando-verdasco-and-anabel-medina-garrigues-from-spain-win-the-2013-hopman-cup-beating-serbia-team-in-the-final.md)
-Spain are the Hyundai Hopman Cup 2013 champions in the event&#039;s 25th year after defeating Serbia 2-1 in the final at the Perth Arena.
-
-### [In ice hockey, USA team wins the 2013 IIHF World U20 Championship after a 3-1 win over Sweden in the final in Ufa, Russia. ](/news/2013/01/5/in-ice-hockey-usa-team-wins-the-2013-iihf-world-u20-championship-after-a-3a1-win-over-sweden-in-the-final-in-ufa-russia.md)
-_Context: 2013 IIHF World U20 Championship, Russia, Sweden, USA team, Ufa, ice hockey_
-
 ## [Previous Day...](/news/2013/01/4/index.md)
 

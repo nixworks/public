@@ -54,8 +54,5 @@ _Context: Julia Gillard, Kevin Rudd, Labor Party, Prime Minister of Australia, l
 ### [Former Ukrainian interior minister Yuriy Lutsenko is sentenced to fours year in jail for embezzlement and abuse of office. ](/news/2012/02/27/former-ukrainian-interior-minister-yuriy-lutsenko-is-sentenced-to-fours-year-in-jail-for-embezzlement-and-abuse-of-office.md)
 _Context: Ukraine's Minister of the Interior, Yuriy Lutsenko, abuse of office, embezzlement_
 
-### [In motor sport, the 2012 Daytona 500 is postponed to be run at 7pm Monday due to heavy rain in Daytona. ](/news/2012/02/27/in-motor-sport-the-2012-daytona-500-is-postponed-to-be-run-at-7pm-monday-due-to-heavy-rain-in-daytona.md)
-_Context: Daytona 500, Daytona, Florida_
-
 ## [Previous Day...](/news/2012/02/26/index.md)
 

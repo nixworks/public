@@ -13,7 +13,7 @@ Police officer kills 10 people in shooting rampage near station outside Nairobi,
 Action in Arab town in Negev, following a court order, prompts protest call by Muslim residents.
 
 ### [Fourteen people are killed in United States drone attacks in North Waziristan, Pakistan. ](/news/2010/11/7/fourteen-people-are-killed-in-united-states-drone-attacks-in-north-waziristan-pakistan.md)
-_Context: North Waziristan, Pakistan, U.S., drone aircraft, drones launch_
+_Context: North Waziristan, Pakistan, United States, drone aircraft, drones launch_
 
 ### [At least three people die, including two members of Sons of Iraq due to a bomb planted at their checkpoint in central Iraq, and an imam was shot dead in Baghdad. ](/news/2010/11/7/at-least-three-people-die-including-two-members-of-sons-of-iraq-due-to-a-bomb-planted-at-their-checkpoint-in-central-iraq-and-an-imam-was.md)
 _Context: Baghdad, Iraq, Sons of Iraq, imam_
@@ -34,7 +34,7 @@ _Context: Cap d'Agde_
 Qantas considers cancelling flights to Jakarta due to the risk posed by ash clouds from the eruption of Mount Merapi.
 
 ### [Iranian Foreign Minister Manouchehr Mottaki said that Iran has agreed to hold talks with the five UN Security Council permanent members and Germany (G5+1) in Turkey. ](/news/2010/11/7/iranian-foreign-minister-manouchehr-mottaki-said-that-iran-has-agreed-to-hold-talks-with-the-five-un-security-council-permanent-members-and.md)
-_Context: G5, Germany, Iran, Iranian Foreign Minister, Manouchehr Mottaki, Turkey, UN Security Council_
+_Context: G5, German, Iran, Iranian Foreign Minister, Manouchehr Mottaki, Turkey, UN Security Council_
 
 ### [Israel expels Riksdag member Mehmet Kaplan, a veteran of the Gaza flotilla raid, moments after his arrival, claiming he had "failed to follow procedure". Ex-Israeli artist Dror Feiler, who is also currently based in Sweden, is expelled with him. ](/news/2010/11/7/israel-expels-riksdag-member-mehmet-kaplan-a-veteran-of-the-gaza-flotilla-raid-moments-after-his-arrival-claiming-he-had-failed-to-follo.md)
 _Context: Dror Feiler, Gaza flotilla raid, Israel, Mehmet Kaplan, Riksdag, Sweden_
@@ -62,15 +62,6 @@ Azerbaijan elects a new parliament, with the ruling party set to retain power ea
 
 ### [Scores of candidates in the Afghan parliamentary election protest at the lack of any results from the election held on September 18 and call for a new election. ](/news/2010/11/7/scores-of-candidates-in-the-afghan-parliamentary-election-protest-at-the-lack-of-any-results-from-the-election-held-on-september-18-and-call.md)
 _Context: parliamentary election_
-
-### [Sebastian Vettel of Red Bull Racing wins the 2010 Brazilian Grand Prix with Red Bull winning the Constructors Championship. ](/news/2010/11/7/sebastian-vettel-of-red-bull-racing-wins-the-2010-brazilian-grand-prix-with-red-bull-winning-the-constructors-championship.md)
-_Context: 2010 Brazilian Grand Prix, Constructors Championship, Red Bull Racing, Sebastian Vettel_
-
-### [Haile Gebrselassie of Ethiopia, one of the greatest long distance runners, announces his retirement after failing to complete the marathon. ](/news/2010/11/7/haile-gebrselassie-of-ethiopia-one-of-the-greatest-long-distance-runners-announces-his-retirement-after-failing-to-complete-the-marathon.md)
-After pulling out because of a knee injury, the world record holder, Haile Gebrselassie, said he would retire.
-
-### [The Nintendo Wii and Nintendo DSi XL come out in color red celebrating mario's 25th anniversary.](/news/2010/11/7/the-nintendo-wii-and-nintendo-dsi-xl-come-out-in-color-red-celebrating-mario-s-25th-anniversary.md)
-_Context: Nintendo DSi XL, Nintendo Wii, mario_
 
 ## [Previous Day...](/news/2010/11/6/index.md)
 

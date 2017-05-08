@@ -36,8 +36,5 @@ _Context: Kizza Besigye, Uganda_
 ### [Current U.S. officials and former president Jimmy Carter disagree over allegations that the U.S. is deliberately keeping food aid from North Korea despite severe food shortages among people there. ](/news/2011/04/30/current-u-s-officials-and-former-president-jimmy-carter-disagree-over-allegations-that-the-u-s-is-deliberately-keeping-food-aid-from-north.md)
 US officials deny an accusation from former US President Jimmy Carter that the US is withholding food aid from North Korea.
 
-### [The French Football Federation's national technical director Francois Blaquart is suspended in the wake of the trainee racial quota scandal targeting blacks and Arabs. ](/news/2011/04/30/the-french-football-federation-s-national-technical-director-francois-blaquart-is-suspended-in-the-wake-of-the-trainee-racial-quota-scandal.md)
-_Context: Francois Blaquart, French Football Federation_
-
 ## [Previous Day...](/news/2011/04/29/index.md)
 

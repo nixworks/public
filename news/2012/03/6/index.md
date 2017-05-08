@@ -7,7 +7,7 @@ _Context: Korean, South Korea, World War II, bombing of Tokyo_
 _Context: Homs, Red Cross, Syria_
 
 ### [A gunman kills the headmaster of the Episcopal School of Jacksonville in Jacksonville, Florida, USA, and then kills himself. ](/news/2012/03/6/a-gunman-kills-the-headmaster-of-the-episcopal-school-of-jacksonville-in-jacksonville-florida-usa-and-then-kills-himself.md)
-_Context: Episcopal School of Jacksonville, FL, Jacksonville, Florida, headmaster_
+_Context: Episcopal School of Jacksonville, Florida, Jacksonville, Florida, headmaster_
 
 ### [Robert B. Sherman, half of the American songwriting duo the Sherman Brothers, dies at the age of 86. ](/news/2012/03/6/robert-b-sherman-half-of-the-american-songwriting-duo-the-sherman-brothers-dies-at-the-age-of-86.md)
 Songwriter Robert Sherman, who composed classic Disney tunes such as Supercalifragilisticexpialidocious, has died.
@@ -70,13 +70,10 @@ Folks, our live coverage of state elections in Uttar Pradesh, Uttarakhand, Punja
 The head of the Pakistani Taliban has removed his deputy commander, the militant group confirms to the BBC, the latest sign of a growing power struggle.
 
 ### [The United States Congress votes to restore higher tariffs against the People's Republic of China and other nations that allegedly subsidize exports to the United States. ](/news/2012/03/6/the-united-states-congress-votes-to-restore-higher-tariffs-against-the-people-s-republic-of-china-and-other-nations-that-allegedly-subsidize.md)
-_Context: China's, U.S., U.S. Congressional, import tariffs_
+_Context: China's, U.S. Congressional, United States, import tariffs_
 
 ### [The Parliament of New South Wales officially appoints Bob Carr as a member of the Australian Senate filling a casual vacancy left by the resignation of Mark Arbib. ](/news/2012/03/6/the-parliament-of-new-south-wales-officially-appoints-bob-carr-as-a-member-of-the-australian-senate-filling-a-casual-vacancy-left-by-the-res.md)
 Despite earlier heckling from a protester, Bob Carr is officially endorsed by the NSW Parliament to fill the Senate vacancy left by Mark Arbib.
-
-### [Chris Cairns, former New Zealand cricket team captain, begins a UK High Court action for libel damages over an accusation on Twitter that he was involved in match-fixing. ](/news/2012/03/6/chris-cairns-former-new-zealand-cricket-team-captain-begins-a-uk-high-court-action-for-libel-damages-over-an-accusation-on-twitter-that-he.md)
-Ex-New Zealand cricket all-rounder Chris Cairns sues Lalit Modi, the former chairman of the IPL, for libel over claims of involvement in match fixing.
 
 ## [Previous Day...](/news/2012/03/5/index.md)
 

@@ -25,7 +25,7 @@ _Context: American Academy of Pediatrics, American College of Obstetricians and 
 _Context: Bashar al-Assad, Moscow, Russian President, Syrian Civil War, Syrian President, Vladimir Putin_
 
 ### [Iran's Supreme Leader Ayatollah Ali Khamenei approves the nuclear deal between Tehran and world powers, and orders it to be implemented subject to certain conditions. The letter states the United States and European Union should clearly announce the elimination of sanctions against Iran. The imposition of sanctions at any level and under any pretext from any of the negotiating countries would violate the JCPOA. ](/news/2015/10/21/iran-s-supreme-leader-ayatollah-ali-khamenei-approves-the-nuclear-deal-between-tehran-and-world-powers-and-orders-it-to-be-implemented-subj.md)
-_Context: Ali Khamenei, European Union, Iranian government, Joint Comprehensive Plan of Action, Supreme Leader of Iran, U.S., pre-sanction_
+_Context: Ali Khamenei, European Union, Iranian government, Joint Comprehensive Plan of Action, Supreme Leader of Iran, United States, pre-sanction_
 
 ### [The Vatican denies an Italian newspaper report that Pope Francis has a benign brain tumour, saying the 78-year-old pontiff is in good health, and denounces the article as utterly reprehensible. ](/news/2015/10/21/the-vatican-denies-an-italian-newspaper-report-that-pope-francis-has-a-benign-brain-tumour-saying-the-78-year-old-pontiff-is-in-good-health.md)
 The Vatican denied an Italian newspaper report on Wednesday that Pope Francis has a benign brain tumour, saying the 78-year-old pontiff was in good health and denouncing the article as &quot;inexcusable&quot;.
@@ -47,9 +47,6 @@ A British man has been murdered alongside his wife during a suspected robbery at
 
 ### [Vice President Joe Biden says that he will not be seeking the Democratic Party nomination. ](/news/2015/10/21/vice-president-joe-biden-says-that-he-will-not-be-seeking-the-democratic-party-nomination.md)
 More from Trail Guide Dec. 11 Ben Carson joins Donald Trump as a threat to leave Republicans behind Dec. 10 Donald Trump backs out of his Israel trip Dec. 9 Some U.S. mayors want Donald Trump to stay out of their cities Dec. 8 Hillary Clinton looks to tie GOP candidates to Trump&apos;s rhetoric about...
-
-### [In Major League Baseball, the New York Mets defeat the Chicago Cubs 8-3, completing a four-game sweep of the 2015 National League Championship Series, and advance to the 2015 World Series. ](/news/2015/10/21/in-major-league-baseball-the-new-york-mets-defeat-the-chicago-cubs-8a3-completing-a-four-game-sweep-of-the-2015-national-league-champion.md)
-Daniel Murphy, the Most Valuable Player of the NLCS, lashed four hits, including a two-run shot in the eighth that sent the chill of winter 
 
 ## [Previous Day...](/news/2015/10/20/index.md)
 

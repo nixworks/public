@@ -39,8 +39,5 @@ Skywatchers enjoy the last total lunar eclipse before 2014, with Australia, Asia
 ### [NASA clears SpaceX to launch Dragon COTS Demo Flight 2 toward the International Space Station in a window opening on February 7, 2012. ](/news/2011/12/10/nasa-clears-spacex-to-launch-dragon-cots-demo-flight-2-toward-the-international-space-station-in-a-window-opening-on-february-7-2012.md)
 A private company will make a trial cargo run to the International Space Station in February, a key step in a new U.S. program to buy spaceflight services on a commercial basis, NASA said on Friday.
 
-### [Robert Griffin III, the quarterback for the Baylor Bears wins the  Heisman Trophy, awarded to the best player in college football. ](/news/2011/12/10/robert-griffin-iii-the-quarterback-for-the-baylor-bears-wins-the-heisman-trophy-awarded-to-the-best-player-in-college-football.md)
-Robert Griffin III edged out Stanford quarterback Andrew Luck to become the first winner of the most storied award in college sports in Baylor’s less-than-notable football history.
-
 ## [Previous Day...](/news/2011/12/9/index.md)
 

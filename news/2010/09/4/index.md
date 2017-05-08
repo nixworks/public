@@ -54,8 +54,5 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [Cabinet formation in the Netherlands; Informateur Ivo Opstelten informs Queen Beatrix that the coalition formation between the People's Party for Freedom and Democracy (VVD) and the Christian Democratic Appeal (CDA) with support from the Party for Freedom (PVV) failed, after PVV leader Geert Wilders lost his confidence in the internal stability of the CDA parliamentary group after a letter of criticism was sent by CDA negotiator Ab Klink (CDA). ](/news/2010/09/4/cabinet-formation-in-the-netherlands-informateur-ivo-opstelten-informs-queen-beatrix-that-the-coalition-formation-between-the-people-s-part.md)
 _Context: Ab Klink, Beatrix, Cabinet formation in the Netherlands, Christian Democratic Appeal, Geert Wilders, Informateur, Ivo Opstelten, Party for Freedom, People's Party for Freedom and Democracy_
 
-### [The ''News of the World'' alleges that a 4th cricketer from Pakistan is being probed by the International Cricket Council (ICC) into the corruption allegations it broke last week. ](/news/2010/09/4/the-news-of-the-world-alleges-that-a-4th-cricketer-from-pakistan-is-being-probed-by-the-international-cricket-council-icc-into-the-cor.md)
-_Context: International Cricket Council, News of the World, Pakistan national cricket team_
-
 ## [Previous Day...](/news/2010/09/3/index.md)
 

@@ -78,8 +78,5 @@ The Serious Fraud Office has confirmed it has laid 50 charges of fraud against f
 ### [The Internet Corporation for Assigned Names and Numbers votes to allow the creation of new website domain suffixes by private companies. ](/news/2011/06/20/the-internet-corporation-for-assigned-names-and-numbers-votes-to-allow-the-creation-of-new-website-domain-suffixes-by-private-companies.md)
 Any word, in any characters, can be used in biggest internet shake-up ever.
 
-### [Jack Warner resigns his post as vice-president of FIFA, the world governing body of association football, amid corruption allegations. ](/news/2011/06/20/jack-warner-resigns-his-post-as-vice-president-of-fifa-the-world-governing-body-of-association-football-amid-corruption-allegations.md)
-_Context: FIFA, Jack Warner, association football_
-
 ## [Previous Day...](/news/2011/06/19/index.md)
 

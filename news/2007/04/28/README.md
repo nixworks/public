@@ -1,7 +1,7 @@
 ## [2007-04-28](/news/2007/04/28/index.md)
 
 ### [ Australia wins its third consecutive Cricket World Cup with a victory over Sri Lanka in the 2007 ICC Cricket World Cup finals in Barbados. ](/news/2007/04/28/australia-wins-its-third-consecutive-cricket-world-cup-with-a-victory-over-sri-lanka-in-the-2007-icc-cricket-world-cup-finals-in-barbados.md)
-_Context: 2007 ICC Cricket World Cup, Australia, Barbados, Cricket, Sri Lanka, World Cup_
+_Context: 2007 ICC Cricket World Cup, Australia, Barbados, Sri Lanka, World Cup, cricketer_
 
 ### [ Human rights in Tajikistan: Two police officers in Dushanbe, Tajikistan are found guilty of beating and torturing a 16-year-old boy while in police custody. They are sentenced to two years in prison. ](/news/2007/04/28/human-rights-in-tajikistan-two-police-officers-in-dushanbe-tajikistan-are-found-guilty-of-beating-and-torturing-a-16-year-old-boy-while-i.md)
 _Context: Dushanbe, Human rights in Tajikistan, Tajikistan, police officer, torture_
@@ -22,7 +22,7 @@ _Context: An earthquake, England, Kent, Richter scale_
 _Context: 29th Dil, Irish general election, Mary McAleese, President, Republic of Ireland_
 
 ### [ 80,000 people gather throughout the United States joining 'Displace Me' to raise awareness of displaced refugees in Northern Uganda. ](/news/2007/04/28/80-000-people-gather-throughout-the-united-states-joining-displace-me-to-raise-awareness-of-displaced-refugees-in-northern-uganda.md)
-_Context: Displace Me, U.S._
+_Context: Displace Me, United States_
 
 ## [Previous Day...](/news/2007/04/27/index.md)
 

@@ -18,8 +18,5 @@ A Chinese court sentences disgraced former top politician Bo Xilai to life after
 ### [Voters in Germany go to the polls for a federal election, with Chancellor Angela Merkel's Christian Democratic Union achieving its highest vote since 1990. ](/news/2013/09/22/voters-in-germany-go-to-the-polls-for-a-federal-election-with-chancellor-angela-merkel-s-christian-democratic-union-achieving-its-highest-v.md)
 Polls give Merkel ratings of about 70%. The sky-high popularity doesn&#39;t extend to her coalition.
 
-### [In Gaelic football, Dublin win the Championship Final - their second in three years - by a single point (2-12 - 1-14), condemning opponents Mayo to yet another final defeat, their seventh  since their last victory in 1951. ](/news/2013/09/22/in-gaelic-football-dublin-win-the-championship-final-their-second-in-three-years-by-a-single-point-2-12-1-14-condemning-opponents.md)
-Mayo let superiority slip as Jim Gavin&rsquo;s side come good in second half 
-
 ## [Previous Day...](/news/2013/09/21/index.md)
 

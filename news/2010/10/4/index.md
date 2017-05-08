@@ -114,11 +114,5 @@ The man who devised the fertility treatment IVF is awarded the Nobel prize for m
 ### [The first Census of Marine Life (CoML), a 10-year major international project described as the most comprehensive study of its kind, is completed, sparking celebration among scientists. ](/news/2010/10/4/the-first-census-of-marine-life-coml-a-10-year-major-international-project-described-as-the-most-comprehensive-study-of-its-kind-is-comp.md)
 _Context: Census of Marine Life_
 
-### [2010 U.S. Open champion Graeme McDowell of Northern Ireland defeats Hunter Mahan of the United States in the final match to win the 2010 Ryder Cup for Europe by 141/2-131/2. ](/news/2010/10/4/2010-u-s-open-champion-graeme-mcdowell-of-northern-ireland-defeats-hunter-mahan-of-the-united-states-in-the-final-match-to-win-the-2010-ryd.md)
-All the latest Golf News, Results &amp; Fixtures, brought to you as it happens, including sports analysis and results from Ireland and around the world.
-
-### [Football:FIFA suspends the Nigeria Football Federation due to government interference, thereby barring the country's men's, women's, and age-grade national teams from all competitions. ](/news/2010/10/4/football-pfifa-suspends-the-nigeria-football-federation-due-to-government-interference-thereby-barring-the-country-s-men-s-women-s-and-ag.md)
-Network calls on Jordan for a full investigation into disruptions of its signal during the football World Cup games.
-
 ## [Previous Day...](/news/2010/10/3/index.md)
 

@@ -58,7 +58,7 @@ The leaders of Colombia and Venezuela met in an effort to repair relations that 
 Israeli army offiocial tell inquiry that troops were right to use live ammunition.
 
 ### [The Palestine Liberation Organization's (PLO) executive committee announces that America's George J. Mitchell informed President of Palestine Mahmoud Abbas that the United States had given preliminary approval to the idea of the Quartet on the Middle East having peace talks with Israel. ](/news/2010/08/11/the-palestine-liberation-organization-s-plo-executive-committee-announces-that-america-s-george-j-mitchell-informed-president-of-palestin.md)
-_Context: George J. Mitchell, Israel, Mahmoud Abbas, Palestine Liberation Organization's, U.S., diplomatic Quartet_
+_Context: George J. Mitchell, Israel, Mahmoud Abbas, Palestine Liberation Organization's, United States, diplomatic Quartet_
 
 ### [President Luiz Inacio Lula da Silva signs a decree promising Brazil's co-operation with United Nations sanctions against Iran. ](/news/2010/08/11/president-luiz-ina-cio-lula-da-silva-signs-a-decree-promising-brazil-s-co-operation-with-united-nations-sanctions-against-iran.md)
 _Context: Brazil, Brazilian President, Iran, Luiz Inacio Lula da Silva, United Nations_
@@ -94,7 +94,7 @@ _Context: Igor Chudinov_
 _Context: West Bengal_
 
 ### [Michael Mara, a man dubbed the "Granddad Bandit"  suspected of bank robbery in 13 US states is arrested in Baton Rouge, Louisiana. ](/news/2010/08/11/michael-mara-a-man-dubbed-the-granddad-bandit-suspected-of-bank-robbery-in-13-us-states-is-arrested-in-baton-rouge-louisiana.md)
-_Context: Baton Rouge, Granddad Bandit, Louisiana, U.S., bank robbery_
+_Context: Baton Rouge, Granddad Bandit, Louisiana, United States, bank robbery_
 
 ### [Peruvian indigenous Amazon groups announce a plan to launch their own political party before next year's election; protecting the rainforest and indigenous rights are to be among its aims. ](/news/2010/08/11/peruvian-indigenous-amazon-groups-announce-a-plan-to-launch-their-own-political-party-before-next-year-s-election-protecting-the-rainforest.md)
 Indigenous groups in the Peruvian Amazon say they plan to launch their own political party ahead of general elections next year.
@@ -107,12 +107,6 @@ Paraguayan President Fernando Lugo is ordered to take a DNA test to see if he is
 
 ### [American Republican politician Bill McCollum proposes stricter immigration legislation for the U.S. state of Florida, similar to that in the U.S. state of Arizona. ](/news/2010/08/11/american-republican-politician-bill-mccollum-proposes-stricter-immigration-legislation-for-the-u-s-state-of-florida-similar-to-that-in-the.md)
 Florida Attorney General Bill McCollum proposes tough new immigration legislation ahead of congressional elections on 2 November.
-
-### [President of FIFA Sepp Blatter says that FIFA is investigating reports that members of the North Korea national football team have been publicly humiliated and the coach Kim Jong-Hun sentenced to hard labour following a poor performance in the 2010 FIFA World Cup. ](/news/2010/08/11/president-of-fifa-sepp-blatter-says-that-fifa-is-investigating-reports-that-members-of-the-north-korea-national-football-team-have-been-publ.md)
-_Context: 2010 FIFA World Cup, FIFA, Kim Jong-Hun, North Korea national football team, President of FIFA, Sepp Blatter, hard labour_
-
-### [Wendy Chapman, the doctor at the centre of the Bloodgate rugby union scandal, is summoned to a disciplinary hearing on 23 August. ](/news/2010/08/11/wendy-chapman-the-doctor-at-the-centre-of-the-bloodgate-rugby-union-scandal-is-summoned-to-a-disciplinary-hearing-on-23-august.md)
-Bloodgate doctor Wendy Chapman has been summoned to appear before a General Medical Council misconduct hearing.
 
 ## [Previous Day...](/news/2010/08/10/index.md)
 

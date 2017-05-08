@@ -43,8 +43,5 @@ _Context: London Mayor, United Kingdom local elections, 2016_
 ### [Former Governor of Texas and Republican presidential candidate Rick Perry endorses Donald Trump for president and says he is open to being Trump's vice-presidential running mate. ](/news/2016/05/5/former-governor-of-texas-and-republican-presidential-candidate-rick-perry-endorses-donald-trump-for-president-and-says-he-is-open-to-being-t.md)
 _Context: 2016 U.S. presidential election, Donald Trump, Governor of Texas, R, Rick Perry, presidential candidate_
 
-### [Major League Baseball Commissioner Rob Manfred says the decision whether the Miami Marlins and Pittsburgh Pirates two-game series scheduled for later this month will be moved from Puerto Rico  because of concerns about the Zika virus, will be announced Monday "at the latest." ](/news/2016/05/5/major-league-baseball-commissioner-rob-manfred-says-the-decision-whether-the-miami-marlins-and-pittsburgh-pirates-two-game-series-scheduled.md)
-CHICAGO (AP) — The Miami Marlins and Pittsburgh Pirates will find out within the next few days if they will play in Puerto Rico this month. Commissioner Rob Manfred said Thursday that the announcement on whether the two-game…
-
 ## [Previous Day...](/news/2016/05/4/index.md)
 

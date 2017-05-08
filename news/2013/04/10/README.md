@@ -16,13 +16,13 @@ _Context: China, Japan, Senkaku Islands, Senkaku Islands dispute, Taiwan, fishin
 With his pledge to create a morally irreproachable republic in tatters over a ministerial tax fraud scandal, Fran&ccedil;ois Hollande has already had to eat his hat. Now, it emerges, someone else has eaten his camel.
 
 ### [The United States, Canada, and Jordan boycott a meeting of the UN General Assembly organized by a former Serbian foreign minister, Vuk Jeremic. ](/news/2013/04/10/the-united-states-canada-and-jordan-boycott-a-meeting-of-the-un-general-assembly-organized-by-a-former-serbian-foreign-minister-vuk-jerem.md)
-_Context: Canada, Jordan, Serbia, Serbia's Foreign Minister, U.S., UN General Assembly, Vuk Jeremic, boycott_
+_Context: Canada, Jordan, Serbia, Serbia's Foreign Minister, UN General Assembly, United States, Vuk Jeremic, boycott_
 
 ### [Liu Zhijun, the leader of the construction of the Chinese bullet train system and Minister of Railways, is arrested on corruption charges for allegedly taking bribes and abusing his power as Minister of Railways. ](/news/2013/04/10/liu-zhijun-the-leader-of-the-construction-of-the-chinese-bullet-train-system-and-minister-of-railways-is-arrested-on-corruption-charges-fo.md)
 China charges once-powerful former Railways Minister Liu Zhijun with corruption and abuse of power, state media reports.
 
 ### [A man who took four firefighters hostage in Suwanee, Georgia, United States, is killed in a gun battle with police. ](/news/2013/04/10/a-man-who-took-four-firefighters-hostage-in-suwanee-georgia-united-states-is-killed-in-a-gun-battle-with-police.md)
-_Context: Georgia, Police, Suwanee, U.S., firefighter, hostage_
+_Context: Georgia, Police, Suwanee, United States, firefighter, hostage_
 
 ### [In Pakistan, a gunman kills one police officer and injures another who were guarding health workers fighting polio. ](/news/2013/04/10/in-pakistan-a-gunman-kills-one-police-officer-and-injures-another-who-were-guarding-health-workers-fighting-polio.md)
 There was no immediate claim of responsibility for the attack, but the Pakistani Taliban have repeatedly targeted health workers vaccinating against polio.
@@ -41,12 +41,6 @@ The Senate voted 87 to 11 Wednesday to confirm Sally Jewell, chief executive of 
 
 ### [Robert G. Edwards, Nobel Prize in Physiology or Medicine winner for in vitro fertilisation, dies at the age of 87. ](/news/2013/04/10/robert-g-edwards-nobel-prize-in-physiology-or-medicine-winner-for-in-vitro-fertilisation-dies-at-the-age-of-87.md)
 Robert Edwards, the scientist known as the father of IVF for pioneering the development of &quot;test tube babies&quot; for couples unable to conceive naturally, died on Wednesday aged 87.
-
-### [Spain's Barcelona and Germany's Bayern Munich reach 2012-13 UEFA Champions League semi-finals defeating Paris Saint-Germain and Juventus respectively. ](/news/2013/04/10/spain-s-barcelona-and-germany-s-bayern-munich-reach-2012a13-uefa-champions-league-semi-finals-defeating-paris-saint-germain-and-juventus-r.md)
-_Context: 2012-13 UEFA Champions League, FC Barcelona, FC Bayern Munich, Germany, Juventus, La Liga, Paris Saint-Germain F.C., semi-finals_
-
-### [In tennis, the draw for the 2013 Davis Cup World Group Play-offs is held. Great Britain will face Croatia away after a heroic victory over Russia. ](/news/2013/04/10/in-tennis-the-draw-for-the-2013-davis-cup-world-group-play-offs-is-held-great-britain-will-face-croatia-away-after-a-heroic-victory-over-r.md)
-_Context: 2013 Davis Cup, Croatia, Great Britain Davis Cup team, Russia, World Group Play-offs, heroic victory, tennis_
 
 ## [Previous Day...](/news/2013/04/9/index.md)
 

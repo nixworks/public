@@ -7,7 +7,7 @@ Russian security forces in the southern region of Dagestan on Saturday said they
 Get the latest breaking news across the U.S. on ABCNews.com
 
 ### [ Ireland defeats Wales in rugby union's Six Nations Championship. ](/news/2009/03/21/ireland-defeats-wales-in-rugby-union-s-six-nations-championship.md)
-_Context: Ireland, Wales, defeats, rugby union, titleholders_
+_Context: Ireland, Six Nations Championship, Wales, defeats, rugby union_
 
 ### [ Anna Bligh of the Labor Party is reelected Premier of Queensland, Australia. ](/news/2009/03/21/anna-bligh-of-the-labor-party-is-reelected-premier-of-queensland-australia.md)
 Liberal National Party leader Lawrence Springborg has conceded defeat in the Queensland State Election.

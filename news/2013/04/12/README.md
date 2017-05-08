@@ -75,12 +75,5 @@ _Context: Russia, Russian President, U.S. dollar, Vladimir Putin, Vostochny Cosm
 ### [A 32-foot tall, 60,000 ton stone monument found in the Sea of Galilee in 2003 is determined to be man-made, dating to approximately 2000 B.C. ](/news/2013/04/12/a-32-foot-tall-60-000-ton-stone-monument-found-in-the-sea-of-galilee-in-2003-is-determined-to-be-man-made-dating-to-approximately-2000-b-c.md)
 _Context: B.C., Sea of Galilee, monument, stone_
 
-### [The draw for the semi-finals of the 2012-13 UEFA Champions League is held in Nyon, Switzerland. Bayern Munich will play Barcelona while Borussia Dortmund will face Real Madrid. ](/news/2013/04/12/the-draw-for-the-semi-finals-of-the-2012a13-uefa-champions-league-is-held-in-nyon-switzerland-bayern-munich-will-play-barcelona-while-bo.md)
-_Context: 2012-13 UEFA Champions League, Borussia Dortmund, FC Barcelona, FC Bayern Munich, Nyon, Real Madrid, Swiss, semi-final_
-
-### [The draw for the semi-finals of the 2012-13 UEFA Europa League is held in Nyon, Switzerland. Basel will play Chelsea while Fenerbahce will face Benfica. ](/news/2013/04/12/the-draw-for-the-semi-finals-of-the-2012a13-uefa-europa-league-is-held-in-nyon-switzerland-basel-will-play-chelsea-while-fenerbahasse-wil.md)
-_Context: 2012-13 UEFA Europa League, Basel, Benfica, Chelsea F.C., Fenerbahce, Nyon, Swiss, semi-finals_
-
-### [Kobe hits two free throws after tearing his achilles, leading the team to a 118-116 victory over the Golden State Warriors.](/news/2013/04/12/kobe-hits-two-free-throws-after-tearing-his-achilles-leading-the-team-to-a-118-116-victory-over-the-golden-state-warriors.md)
 ## [Previous Day...](/news/2013/04/11/index.md)
 

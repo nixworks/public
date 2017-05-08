@@ -66,14 +66,5 @@ _Context: Earth, North Korea, South Korea, U.S., first, orbit, released an objec
 ### [U.S. space agency NASA admits it posted online a photograph taken from the International Space Station of an Indian mountain Saser Muztagh, claiming it as Mount Everest. With Nepalese netizens left puzzled by this, it took a Nepalese expert to point out the agency's inaccuracy. ](/news/2012/12/13/u-s-space-agency-nasa-admits-it-posted-online-a-photograph-taken-from-the-international-space-station-of-an-indian-mountain-saser-muztagh.md)
 _Context: India, International Space Station, Mount Everest, NASA, Nepal, Netizen, Saser Muztagh, U.S., photograph_
 
-### [English football club Chelsea to face Brazil's Corinthians in the 2012 FIFA Club World Cup final on 16 December, after 3-1 win over Mexican club Monterrey in the semifinal. ](/news/2012/12/13/english-football-club-chelsea-to-face-brazil-s-corinthians-in-the-2012-fifa-club-world-cup-final-on-16-december-after-3a1-win-over-mexica.md)
-_Context: 2012 FIFA Club World Cup, Brazil, Chelsea F.C., Corinthians, England, Mexico, Monterrey, association football, final_
-
-### [Sao Paulo FC are crowned champions of the 2012 Copa Sudamericana after Argentine club Tigre refused to take to the field for the second half of the second leg in Brazil, claiming they were threatened at gunpoint by security officials at the Estadio do Morumbi, which was overlooked as a host stadium for the 2014 FIFA World Cup. ](/news/2012/12/13/sapso-paulo-fc-are-crowned-champions-of-the-2012-copa-sudamericana-after-argentine-club-tigre-refused-to-take-to-the-field-for-the-second-hal.md)
-An Argentine football club accuses Brazilian security officials of beating and pulling guns on its players during half time at a cup final in Sao Paulo.
-
-### [Maurice Herzog, the French mountaineer, who was the first person to climb a mountain above 8000 metres when he climbed Annapurna with Louis Lachenal in 1950, dies at the age of 93. ](/news/2012/12/13/maurice-herzog-the-french-mountaineer-who-was-the-first-person-to-climb-a-mountain-above-8000-metres-when-he-climbed-annapurna-with-louis.md)
-_Context: Annapurna, Frenchman, Louis Lachenal, Maurice Herzog, above 8000 metres, mountaineering_
-
 ## [Previous Day...](/news/2012/12/12/index.md)
 

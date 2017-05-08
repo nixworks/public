@@ -4,10 +4,10 @@
 _Context: Malaysia, Parti Keadilan Rakyat, Penang, Penanti, by-election_
 
 ### [ Russian cyclist Denis Menchov wins the 2009 Giro d'Italia in Rome, Italy. ](/news/2009/05/31/russian-cyclist-denis-menchov-wins-the-2009-giro-d-italia-in-rome-italy.md)
-_Context: 2009, Denis Menchov, Giro d'Italia, Italian, Rome, Russia, road bicycle racing_
+_Context: 2009, Denis Menchov, Giro d'Italia, Italian, Rome, Russia, cyclist_
 
 ### [ Late-term abortion provider George Tiller is shot and killed in Wichita, Kansas, United States. ](/news/2009/05/31/late-term-abortion-provider-george-tiller-is-shot-and-killed-in-wichita-kansas-united-states.md)
-_Context: George Tiller, Kansas, Late-term abortion, U.S., Wichita, Kansas_
+_Context: George Tiller, Kansas, Late-term abortion, United States, Wichita, Kansas_
 
 ### [ South Ossetia holds its parliamentary election.  ](/news/2009/05/31/south-ossetia-holds-its-parliamentary-election.md)
 _Context: South Ossetia, parliamentary election_

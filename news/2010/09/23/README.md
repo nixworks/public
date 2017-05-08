@@ -31,7 +31,7 @@ France wants to contact the al-Qaeda group which abducted five of its citizens i
 _Context: International Atomic Energy Agency, Iran_
 
 ### [The United States and other western nations including Britain, Sweden, Australia, Belgium, Uruguay and Spain walk out of the United Nations General Assembly following claims by the President of Iran Mahmoud Ahmadinejad that the "majority of the American people as well as most nations and politicians around the world" say that the 9/11 attacks were the work of the Government of the United States trying to protect Israel. ](/news/2010/09/23/the-united-states-and-other-western-nations-including-britain-sweden-australia-belgium-uruguay-and-spain-walk-out-of-the-united-nations.md)
-_Context: 9/11 attacks, Australia, Belgium, Government of the United States, Iranian President, Israel, Mahmoud Ahmadinejad, Spain, Sweden, U.S., United Kingdom, United Nations General Assembly, Uruguay_
+_Context: 9/11 attacks, Australia, Belgium, Government of the United States, Iranian President, Israel, Mahmoud Ahmadinejad, Spain, Sweden, United Kingdom, United Nations General Assembly, United States, Uruguay_
 
 ### [The President of the United States Barack Obama meets with the Premier of China Wen Jiabao, with the value of the renminbi the top issue for discussion. ](/news/2010/09/23/the-president-of-the-united-states-barack-obama-meets-with-the-premier-of-china-wen-jiabao-with-the-value-of-the-renminbi-the-top-issue-for.md)
 _Context: Obama, Premier of the People's Republic of China, President, Wen Jiabao, yuan_
@@ -43,7 +43,7 @@ China is investigating four Japanese who allegedly entered and filmed a Chinese 
 _Context: Teresa Lewis, U.S., Virginia_
 
 ### [Pakistani scientist Aafia Siddiqui is sentenced to 86 years in jail in a New York federal court for trying to kill United States soldiers in Afghanistan. ](/news/2010/09/23/pakistani-scientist-aafia-siddiqui-is-sentenced-to-86-years-in-jail-in-a-new-york-federal-court-for-trying-to-kill-united-states-soldiers-in.md)
-_Context: Aafia Siddiqui, Afghanistan, New York, Pakistan, U.S._
+_Context: Aafia Siddiqui, Afghanistan, New York, Pakistan, United States_
 
 ### [North Korea reshuffles senior officials days ahead of a meeting of the Korean Workers' Party expected to lead to a transition of power from Kim Jong-il to his son Kim Jong-un. ](/news/2010/09/23/north-korea-reshuffles-senior-officials-days-ahead-of-a-meeting-of-the-korean-workers-party-expected-to-lead-to-a-transition-of-power-from.md)
 _Context: Kim Jong-il, Kim Jong-un, Korean Workers' Party, North Korea_
@@ -56,9 +56,6 @@ Cambodian opposition leader Sam Rainsy is sentenced to 10 years in jail in his a
 
 ### [The final count for the Swedish general election shows that The Alliance finished two seats short of an absolute majority. ](/news/2010/09/23/the-final-count-for-the-swedish-general-election-shows-that-the-alliance-finished-two-seats-short-of-an-absolute-majority.md)
 Swedish Prime Minister Fredrik Reinfeldt&#039;s centre-right bloc missed out on a parliamentary majority by two seats, a final count of votes cast in a weekend election showed on Thursday.
-
-### [2010 Commonwealth Games: Countries including New Zealand, Canada and Scotland delay their departure for the host city of Delhi, India, due to concerns about unsafe and unhygienic accommodation in the athletes' village. ](/news/2010/09/23/2010-commonwealth-games-pcountries-including-new-zealand-canada-and-scotland-delay-their-departure-for-the-host-city-of-delhi-india-due.md)
-_Context: 2010 Commonwealth Games, Canada, Delhi, India, New Zealand, Scotland, athletes' village_
 
 ## [Previous Day...](/news/2010/09/22/index.md)
 

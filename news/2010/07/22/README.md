@@ -64,7 +64,7 @@ _Context: Chad, International Criminal Court_
 _Context: Fiji, Voreqe Bainimarama_
 
 ### [The United States decides to resume training Indonesian soldiers after 12 years. ](/news/2010/07/22/the-united-states-decides-to-resume-training-indonesian-soldiers-after-12-years.md)
-_Context: Indonesia, U.S._
+_Context: Indonesia, United States_
 
 ### [Israel warns the United Nations that two ships carrying aid to Gaza would not, by "all necessary means", be allowed to reach their destination. ](/news/2010/07/22/israel-warns-the-united-nations-that-two-ships-carrying-aid-to-gaza-would-not-by-all-necessary-means-be-allowed-to-reach-their-destinati.md)
 Israel warned the United Nations on Thursday that two ships preparing to sail from Lebanon to the Gaza Strip to bring aid to the blockaded territory would not be allowed to reach their destination.
@@ -103,7 +103,7 @@ Kyrgyz police detain a brother of ex-leader Kurmanbek Bakiyev on suspicion of or
 Egyptian President Hosni Mubarak makes a televised national address, calming renewed fears over the state of his health.
 
 ### [U.S. Agriculture Secretary Tom Vilsack Wednesday apologizes to Shirley Sherrod for firing her over a heavily-edited video tape of a speech, circulated by Tea Party activists, which alleged that Sherrod's actions were the result of racism, and offers her an official job. ](/news/2010/07/22/u-s-agriculture-secretary-tom-vilsack-wednesday-apologizes-to-shirley-sherrod-for-firing-her-over-a-heavily-edited-video-tape-of-a-speech.md)
-_Context: Shirley Sherrod, Tea Party, Tom Vilsack, racist_
+_Context: Shirley Sherrod, Tea Party, Tom Vilsack, racial bias_
 
 ### [Cabinet formation in the Netherlands: Former Prime Minister Ruud Lubbers is appointed the new informateur for the formation of a new coalition cabinet. ](/news/2010/07/22/cabinet-formation-in-the-netherlands-former-prime-minister-ruud-lubbers-is-appointed-the-new-informateur-for-the-formation-of-a-new-coaliti.md)
 _Context: Cabinet formation in the Netherlands, Informateur, Prime Minister, Ruud Lubbers_

@@ -33,11 +33,5 @@ Australia is deeply concernedover the arrest of two Australian journalists in Ma
 ### [The joint European Space Agency and Russian Federal Space Agency ExoMars Trace Gas Orbiter blasts off from the Baikonur Cosmodrome in Kazakhstan. ](/news/2016/03/14/the-joint-european-space-agency-and-russian-federal-space-agency-exomars-trace-gas-orbiter-blasts-off-from-the-baikonur-cosmodrome-in-kazakh.md)
 Europe and Russia have launched a joint mission to the Red Planet.
 
-### [The National Football League's top health and safety official acknowledges a link between American football and chronic traumatic encephalopathy. ](/news/2016/03/14/the-national-football-league-s-top-health-and-safety-official-acknowledges-a-link-between-american-football-and-chronic-traumatic-encephalop.md)
-The NFL, for the first time, acknowledged there is a link between football-related head trauma and chronic traumatic encephalopathy, or CTE.
-
-### [ The field of 64 teams for the NCAA Tournament is announced. Unbeaten Connecticut is the top overall seed, with Baylor, Notre Dame, and South Carolina rounding out the #1 seeds.](/news/2016/03/14/the-field-of-64-teams-for-the-ncaa-tournament-is-announced-unbeaten-connecticut-is-the-top-overall-seed-with-baylor-notre-dame-and-sout.md)
-_Context: 2015-16 NCAA Division I women's basketball season, 2016 NCAA Women's Division I Basketball Tournament, Baylor, Connecticut, Notre Dame, South Carolina_
-
 ## [Previous Day...](/news/2016/03/13/index.md)
 

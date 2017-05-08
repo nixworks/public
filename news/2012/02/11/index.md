@@ -39,8 +39,5 @@ _Context: Lisbon_
 ### [The Republican caucuses in the state of Maine finish with Mitt Romney finishing just ahead of Ron Paul. ](/news/2012/02/11/the-republican-caucuses-in-the-state-of-maine-finish-with-mitt-romney-finishing-just-ahead-of-ron-paul.md)
 _Context: Maine, Mitt Romney, Republican caucuses, Ron Paul_
 
-### [The live televised France versus Ireland match in the 2012 Six Nations Championship is cancelled minutes prior to kick-off, prompting boos to ring out among disgruntled spectators inside a packed Stade de France. It is the first time such an event has happened since 1985. ](/news/2012/02/11/the-live-televised-france-versus-ireland-match-in-the-2012-six-nations-championship-is-cancelled-minutes-prior-to-kick-off-prompting-boos-t.md)
-The France versus Ireland Six Nations match was cancelled just minutes before kick-off because of a frozen pitch.
-
 ## [Previous Day...](/news/2012/02/10/index.md)
 

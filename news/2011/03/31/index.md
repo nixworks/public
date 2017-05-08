@@ -66,11 +66,5 @@ COLUMBUS—Gov. John Kasich plans to follow through on Thursday night with his p
 ### [Paleontologists announce the discovery of Zhuchengtyrannus, a large dinosaur from Zucheng, Shandong Province in China. ](/news/2011/03/31/paleontologists-announce-the-discovery-of-zhuchengtyrannus-a-large-dinosaur-from-zucheng-shandong-province-in-china.md)
 _Context: Paleontologist, Shandong Province, Zhuchengtyrannus, Zucheng, dinosaur_
 
-### [Boxing Hall of Fame trainer Gil Clancy, who trained Muhammad Ali, Joe Frazier and George Foreman, dies. ](/news/2011/03/31/boxing-hall-of-fame-trainer-gil-clancy-who-trained-muhammad-ali-joe-frazier-and-george-foreman-dies.md)
-Gil Clancy, a Hall of Fame trainer and manager who worked with many top fighters including Muhammad Ali, Joe Frazier and George Foreman, died on Thursday at age 88.
-
-### [Australian mining magnate Nathan Tinkler takes over control of the Newcastle Knights in the National Rugby League. ](/news/2011/03/31/australian-mining-magnate-nathan-tinkler-takes-over-control-of-the-newcastle-knights-in-the-national-rugby-league.md)
-MULTIMILLIONAIRE Nathan Tinkler owns the Knights after a staggering 97 per cent of the NRL club&#039;s members voted in favour of the racing and mining baron&#039;s privatisation proposal at an extraordinary general meeting at Newcastle Entertainment Centre last night.
-
 ## [Previous Day...](/news/2011/03/30/index.md)
 

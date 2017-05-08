@@ -21,8 +21,5 @@ Canadian police revealed that 348 people have been arrested and 386 children res
 ### [Following the heightened scrutiny from the April 2012 controversy, two U.S. Secret Service agents are relieved of duty from Barack Obama's security detail after charges of sexual harassment towards a female subordinate. ](/news/2013/11/14/following-the-heightened-scrutiny-from-the-april-2012-controversy-two-u-s-secret-service-agents-are-relieved-of-duty-from-barack-obama-s-s.md)
 Agents cited for misconduct dropped from the Secret Service&#039;s most elite assignment
 
-### [In cricket, Indian player Sachin Tendulkar, the leading run scorer of all time, starts his 200th and final test match in Mumbai. ](/news/2013/11/14/in-cricket-indian-player-sachin-tendulkar-the-leading-run-scorer-of-all-time-starts-his-200th-and-final-test-match-in-mumbai.md)
-Sachin Tendulkar’s ability to generate mind-numbing numbers has survived to the very end of his prodigious career.
-
 ## [Previous Day...](/news/2013/11/13/index.md)
 

@@ -7,7 +7,7 @@ Residents across the middle of the country began to clean up after storms splint
 Afghan President Hamid Karzai on Friday called on the United States to halt air strikes in his country, following attacks this week that Afghan officials said killed 147 people.
 
 ### [ Louis Caldera resigns as Director of the White House Military Office. ](/news/2009/05/8/louis-caldera-resigns-as-director-of-the-white-house-military-office.md)
-_Context: Executive Director, Louis Caldera, White House Military Office, resigns_
+_Context: Director, Louis Caldera, White House Military Office, resigns_
 
 ### [ Wildfires cause at least 30,000 people to evacuate Santa Barbara, California, United States. ](/news/2009/05/8/wildfires-cause-at-least-30-000-people-to-evacuate-santa-barbara-california-united-states.md)
 A Californian bushfire that consumed 75 homes has raged for a fourth day, forcing at least 30,000 people to flee.

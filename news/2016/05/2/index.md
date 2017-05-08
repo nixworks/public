@@ -54,11 +54,5 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [Researchers report in the journal Nature the discovery of three potentially habitable, Earth-like exoplanets  orbiting TRAPPIST-1, an ultracool dwarf star 40 light-years away in the constellation Aquarius. ](/news/2016/05/2/researchers-report-in-the-journal-nature-the-discovery-of-three-potentially-habitable-earth-like-exoplanets-orbiting-trappist-1-an-ultrac.md)
 The newly discovered worlds are now the most promising targets in the search for life among the stars—and the race to take a closer look at them has begun.
 
-### [Following a 2-2 draw between Chelsea F.C. and Tottenham Hotspur F.C. at Stamford Bridge, Leicester City F.C. are confirmed as champions of the Premier League for the first time in their history. Leicester City were 5000-1 outsiders at the beginning of the season. ](/news/2016/05/2/following-a-2-2-draw-between-chelsea-f-c-and-tottenham-hotspur-f-c-at-stamford-bridge-leicester-city-f-c-are-confirmed-as-champions-of-t.md)
-Leicester City have completed one of the most remarkable triumphs in sporting history by winning the 2015/16 Premier League title.
-
-### [Mark Selby wins the 2016 World Snooker Championship. ](/news/2016/05/2/mark-selby-wins-the-2016-world-snooker-championship.md)
-_Context: 2016 World Snooker Championship, Mark Selby, Snooker_
-
 ## [Previous Day...](/news/2016/05/1/index.md)
 

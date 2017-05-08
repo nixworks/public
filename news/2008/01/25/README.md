@@ -22,7 +22,7 @@ _Context: 2008, Dennis Kucinich, Ohio, United States House of Representatives_
 _Context: Beirut, Lebanon_
 
 ### [ A fire at the Monte Carlo Resort and Casino in Las Vegas, Nevada causes the entire building to be evacuated. ](/news/2008/01/25/a-fire-at-the-monte-carlo-resort-and-casino-in-las-vegas-nevada-causes-the-entire-building-to-be-evacuated.md)
-_Context: Las Vegas, Nevada, Monte Carlo Resort and Casino, Nevada_
+_Context: Las Vegas Strip, Monte Carlo Resort and Casino, Nevada_
 
 ## [Previous Day...](/news/2008/01/24/index.md)
 

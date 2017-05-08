@@ -75,8 +75,5 @@ _Context: Oregon Supreme Court_
 ### [Take-off of the Space Shuttle Endeavour for its final mission is postponed due to technical problems. ](/news/2011/04/29/take-off-of-the-space-shuttle-endeavour-for-its-final-mission-is-postponed-due-to-technical-problems.md)
 _Context: Space Shuttle ''Endeavour'', final mission_
 
-### [The French Football Federation (FFF) announces an internal inquiry over allegations of a secret racial quota targeting blacks and Arabs and supported by its own officials. ](/news/2011/04/29/the-french-football-federation-fff-announces-an-internal-inquiry-over-allegations-of-a-secret-racial-quota-targeting-blacks-and-arabs-and.md)
-_Context: French Football Federation_
-
 ## [Previous Day...](/news/2011/04/28/index.md)
 

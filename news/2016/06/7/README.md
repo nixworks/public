@@ -21,8 +21,5 @@ Despite the media framing people who commit violent crimes as having mental illn
 ### [Voters go to the polls in six states, including California and New Jersey, with Hillary Clinton gaining enough delegates to become the presumptive nominee of the Democratic Party. She will be the first woman nominee by a major party to run for President of the United States. ](/news/2016/06/7/voters-go-to-the-polls-in-six-states-including-california-and-new-jersey-with-hillary-clinton-gaining-enough-delegates-to-become-the-presu.md)
 U.S. presidential candidates Hillary Clinton and Donald Trump kicked off a fierce general election battle, with Democrats accusing Trump of erratic behavior and the Republican threatening to bring up old Clinton scandals.
 
-### [A German federal court upholds the Court of Arbitration for Sport's  2009 blood doping ruling against  Olympic speed skating champion Claudia Pechstein who is seeking compensation from the International Skating Union for the two-year ban.  ](/news/2016/06/7/a-german-federal-court-upholds-the-court-of-arbitration-for-sport-s-2009-blood-doping-ruling-against-olympic-speed-skating-champion-claudi.md)
-FRANKFURT, Germany (AP) — The highest court in international sports won a major legal victory Tuesday when a German court rejected five-time Olympic speedskating champion Claudio Pechstein&#039;s claim for damages in a doping…
-
 ## [Previous Day...](/news/2016/06/6/index.md)
 

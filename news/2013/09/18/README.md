@@ -30,8 +30,5 @@ _Context: Apple Inc., iOS, iOS 7, mobile operating system_
 ### [Cygnus 1 (also known as Orbital Sciences COTS Demo Flight) launches the first planned flight of the Orbital Sciences' unmanned resupply spacecraft Cygnus, its first flight to the International Space Station and the second launch of the company's Antares launch vehicle. The flight is under contract to NASA as Cygnus' demonstration mission in the Commercial Orbital Transportation Services (COTS) program. The launch site is MARS on the Delmarva Peninsula in Virginia. ](/news/2013/09/18/cygnus-1-also-known-as-orbital-sciences-cots-demo-flight-launches-the-first-planned-flight-of-the-orbital-sciences-unmanned-resupply-spac.md)
 Orbital Sciences Corp. launched its Cygnus cargo spacecraft at 10:58 a.m. EDT Wednesday from NASA’s Wallops Flight Facility.
 
-### [Ken Norton, a boxer who was one of the few to defeat Muhammad Ali, dies, aged 70. ](/news/2013/09/18/ken-norton-a-boxer-who-was-one-of-the-few-to-defeat-muhammad-ali-dies-aged-70.md)
-_Context: Ken Norton, Muhammad Ali, boxing_
-
 ## [Previous Day...](/news/2013/09/17/index.md)
 

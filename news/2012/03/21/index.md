@@ -36,8 +36,5 @@ British finance minister George Osborne on Wednesday used his annual budget to c
 ### [Nick Smith resigns as New Zealand's Minister for the Environment, Minister for Climate Change Issues and Minister for Local Government due to improper conduct. ](/news/2012/03/21/nick-smith-resigns-as-new-zealand-s-minister-for-the-environment-minister-for-climate-change-issues-and-minister-for-local-government-due-t.md)
 _Context: New Zealand, Nick Smith_
 
-### [New Orleans Saints head coach Sean Payton is suspended for a year without pay while former Saints defensive coordinator Gregg Williams is banned indefinitely from the National Football League for their role in the New Orleans Saints bounty scandal. ](/news/2012/03/21/new-orleans-saints-head-coach-sean-payton-is-suspended-for-a-year-without-pay-while-former-saints-defensive-coordinator-gregg-williams-is-ba.md)
-With his harsh penalties for the Saints, commissioner Roger Goodell has ensured that bounty systems are a thing of the past in the NFL, writes Ashley Fox.
-
 ## [Previous Day...](/news/2012/03/20/index.md)
 

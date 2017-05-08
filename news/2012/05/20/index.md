@@ -36,14 +36,5 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [Tomislav Nikolic is elected President of Serbia with 49.4% of the vote. ](/news/2012/05/20/tomislav-nikolia-is-elected-president-of-serbia-with-49-4-of-the-vote.md)
 _Context: President, Tomislav Nikolic, elected_
 
-### [Thousands of people gather in London for an open-top bus parade to celebrate Chelsea's UEFA Champions League victory over Munich in last night's final. ](/news/2012/05/20/thousands-of-people-gather-in-london-for-an-open-top-bus-parade-to-celebrate-chelsea-s-uefa-champions-league-victory-over-munich-in-last-nig.md)
-_Context: Chelsea F.C., London, UEFA Champions League, last May_
-
-### [A homegrown Montpellier overcome big-spending rivals Paris Saint-Germain to shock fans worldwide by winning their first Ligue 1 title and qualifying for the UEFA Champions League for the first time in their history. ](/news/2012/05/20/a-homegrown-montpellier-overcome-big-spending-rivals-paris-saint-germain-to-shock-fans-worldwide-by-winning-their-first-ligue-1-title-and-qu.md)
-Minnows Montpellier focus on keeping home-grown stars after outlasting big-spending rivals PSG to the Championnat crown.
-
-### [Russia wins 2012 IIHF World Championship. ](/news/2012/05/20/russia-wins-2012-iihf-world-championship.md)
-The 2012 IIHF World Championships wrapped up Sunday with Russia continuing its recent dominance earning its third gold medal in five years with a 6-2 victory over Slovakia. Russia won all 10 of its games of the tournament and scored … Continue reading →
-
 ## [Previous Day...](/news/2012/05/19/index.md)
 

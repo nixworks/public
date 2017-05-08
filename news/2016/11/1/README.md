@@ -33,8 +33,5 @@ Thailand is making preparations for Crown Prince Maha Vajiralongkorn to ascend t
 ### [Iranian parliament approves three President Hassan Rouhani's new designated ministers, including Reza Salehi Amiri, Fakhruddin Danesh-Ashtiani and Masoud Soltanifar as culture, education and sports ministers respectively. ](/news/2016/11/1/iranian-parliament-approves-three-president-hassan-rouhani-s-new-designated-ministers-including-reza-salehi-amiri-fakhruddin-danesh-ashtia.md)
 Iranian lawmakers approved three new ministers on Tuesday, signaling support for changes in the cabinet of pragmatist President Hassan Rouhani seven months before a presidential election.
 
-### [In thoroughbred horse racing, Almandin, ridden by Kerrin McEvoy, trained by Robert Hickmott and owned by five-time winner Lloyd Williams, wins the 156th Melbourne Cup. ](/news/2016/11/1/in-thoroughbred-horse-racing-almandin-ridden-by-kerrin-mcevoy-trained-by-robert-hickmott-and-owned-by-five-time-winner-lloyd-williams-wi.md)
-Almandin, ridden by Kerrin McEvoy, wins the 156th Melbourne Cup at Flemington, narrowly taking the victory from Heartbreak City in the race that stops the nation.
-
 ## [Previous Day...](/news/2016/10/31/index.md)
 

@@ -51,8 +51,5 @@ Republican Matt Bevin, a businessman and Tea Party favorite, beat Democrat Jack 
 ### [The U.S. Department of Education's Office for Civil Rights (OCR) issues a two-year investigative report finding the Palatine, Illinois, school district unfairly denied a transgender teenager -- who was undergoing hormone therapy but had not undergone gender reassignment surgery -- access to school facilities in violation of Title IX, that bars discrimination in federally funded education programs, causing her "isolation," "ostracism" and at least one "tearful breakdown." The school district has 30 days to reach an agreement with authorities or risk losing up to $6 million in federal funding and case-referral  to the Department of Justice. The ''Washington Post'' report called this "The Palatine standoff". ](/news/2015/11/3/the-u-s-department-of-educationas-office-for-civil-rights-ocr-issues-a-two-year-investigative-report-finding-the-palatine-illinois-sc.md)
 Federal authorities on Monday declared that officials at Illinois&apos; largest high school district violated federal law by barring a transgender student from using the girls&apos; locker room.
 
-### [In Australian horse racing, Prince of Penzance wins the 2015 Melbourne Cup becoming the first 100-1 winner since World War II; Michelle Payne becomes the first female jockey to ride the winning horse. ](/news/2015/11/3/in-australian-horse-racing-prince-of-penzance-wins-the-2015-melbourne-cup-becoming-the-first-100-1-winner-since-world-war-ii-michelle-payn.md)
-It was a historic Melbourne Cup in numerous respects, not least the price of the winner.
-
 ## [Previous Day...](/news/2015/11/2/index.md)
 

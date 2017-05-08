@@ -19,7 +19,7 @@ Unmarked planes with sensors being flown between secret air bases and bush strip
 Westlife singer Shane Filan is declared bankrupt in the UK after his Irish property development company got into difficulties.
 
 ### [German deputy finance minister Steffen Kampeter rejects calls to pool European debt, saying "debt is a national responsibility." ](/news/2012/06/14/german-deputy-finance-minister-steffen-kampeter-rejects-calls-to-pool-european-debt-saying-debt-is-a-national-responsibility.md)
-_Context: Germany, Steffen Kampeter_
+_Context: German, Steffen Kampeter_
 
 ### [Nokia announces it will cut 10,000 jobs. ](/news/2012/06/14/nokia-announces-it-will-cut-10-000-jobs.md)
 Nokia cuts another 10,000 jobs and warns that second-quarter losses from its mobile phone business will be larger than expected.
@@ -71,21 +71,6 @@ _Context: Australia, marine reserve_
 
 ### [A second person dies after contracting Legionnaires' disease in Edinburgh. ](/news/2012/06/14/a-second-person-dies-after-contracting-legionnaires-disease-in-edinburgh.md)
 _Context: Edinburgh, Legionnaires' disease_
-
-### [UEFA Euro 2012:Fernando Torres scores twice, while David Silva and Cesc Fabregas also score, to knock the Republic of Ireland out of the tournament in Gdansk. ](/news/2012/06/14/uefa-euro-2012-pfernando-torres-scores-twice-while-david-silva-and-cesc-fa-bregas-also-score-to-knock-the-republic-of-ireland-out-of-the-t.md)
-Fernando Torres scores twice as Spain move top of Group C with a win that knocks Republic of Ireland out of Euro 2012.
-
-### [Premier League club Tottenham sack manager Harry Redknapp. ](/news/2012/06/14/premier-league-club-tottenham-sack-manager-harry-redknapp.md)
-Tottenham sack manager Harry Redknapp after a topsy-turvy season that ended in Champions League disappointment.
-
-### [Turkish weightlifting champion Nurcan Taylan is banned for four years for doping and therefore misses the London Olympics. ](/news/2012/06/14/turkish-weightlifting-champion-nurcan-taylan-is-banned-for-four-years-for-doping-and-therefore-misses-the-london-olympics.md)
-_Context: Nurcan Taylan, Olympics_
-
-### [Financier and cricket mogul Allen Stanford is sentenced to 110 years in prison after siphoning billions from investors. ](/news/2012/06/14/financier-and-cricket-mogul-allen-stanford-is-sentenced-to-110-years-in-prison-after-siphoning-billions-from-investors.md)
-Lengthy sentence is handed down to financier and cricket mogul Allen Stanford after he siphoned billions from investors.
-
-### [Robert Nkemdiche, top high school football recruit in the U.S. according to several sources, makes a verbal commitment to play collegiately for Clemson University.  ](/news/2012/06/14/robert-nkemdiche-top-high-school-football-recruit-in-the-u-s-according-to-several-sources-makes-a-verbal-commitment-to-play-collegiately.md)
-Robert Nkemdiche (Loganville, Ga./Grayson), the No. 1 prospect in the ESPN 150, committed to Clemson Thursday during Day 2 of an expected three-day, unofficial visit to the ACC program.
 
 ## [Previous Day...](/news/2012/06/13/index.md)
 

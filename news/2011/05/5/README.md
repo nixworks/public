@@ -61,7 +61,7 @@ _Context: Calisto Tanzi, Italian, Parmalat_
 _Context: Camorra, Italian Prime Minister, Naples, People of Freedom party, Silvio Berlusconi, U.S. dollar_
 
 ### [A shipping vessel registered in Taiwan with a history of oil spills is fined CAD $80,000 for the illegal dumping of pollutants in Canadian waters south of Newfoundland. ](/news/2011/05/5/a-shipping-vessel-registered-in-taiwan-with-a-history-of-oil-spills-is-fined-cad-80-000-for-the-illegal-dumping-of-pollutants-in-canadian-w.md)
-_Context: Canadian dollar, Newfoundland, Taiwan, illegal dumping, oil spill_
+_Context: CAN$, Newfoundland, Taiwan, illegal dumping, oil spill_
 
 ### [British electionsVoters in the United Kingdom go to the polls for a referendum on whether to use the alternative vote electoral system for the House of Commons. ](/news/2011/05/5/british-electionspvoters-in-the-united-kingdom-go-to-the-polls-for-a-referendum-on-whether-to-use-the-alternative-vote-electoral-system-for.md)
 The people of Wales are going to the polls to elect the next Welsh Assembly Government and vote in the AV referendum.
@@ -83,9 +83,6 @@ _Context: Greenville, R, South Carolina, United States presidential election, 20
 
 ### [A report warns of accumulating mercury in the Arctic regions and that global emissions of mercury could increase by 25% by 2020, after another report suggested a global sea level rise by 1.6 metres by 2100, while a previous study detected chemical changes from elemental mercury to neurotoxic monomethylmercury occurring in the Arctic Ocean. ](/news/2011/05/5/a-report-warns-of-accumulating-mercury-in-the-arctic-regions-and-that-global-emissions-of-mercury-could-increase-by-25-by-2020-after-anoth.md)
 _Context: Arctic, Arctic Ocean, mercury, monomethylmercury, neurotoxic, sea level rise_
-
-### [FC Porto and SC Braga, both from Portugal, qualify for the 2011 UEFA Europa League Final at the Aviva Stadium in Dublin, after aggregate wins over Villarreal CF and Benfica respectively. The final is also the first ever time that two finalists have been situated less than 50 kilometers from each other. ](/news/2011/05/5/fc-porto-and-sc-braga-both-from-portugal-qualify-for-the-2011-uefa-europa-league-final-at-the-aviva-stadium-in-dublin-after-aggregate-win.md)
-_Context: 2011 UEFA Europa League Final, Aviva Stadium, Benfica, Dublin, FC Porto, Portuguese, SC Braga, Villarreal_
 
 ## [Previous Day...](/news/2011/05/4/index.md)
 

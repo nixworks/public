@@ -24,8 +24,5 @@ _Context: Jack Lew, Obama, President, Treasury Secretary, White House Chief of S
 ### [Near-Earth asteroid 99942 Apophis passes close to the Earth with observations by European astronomers estimating that it is larger than previously thought. ](/news/2013/01/10/near-earth-asteroid-99942-apophis-passes-close-to-the-earth-with-observations-by-european-astronomers-estimating-that-it-is-larger-than-prev.md)
 Asteroid, which was once deemed a danger to the planet, will return much closer in 2036; watch it zoom by online
 
-### [Researchers confirm that deceased NFL linebacker Junior Seau's suicide was brought on by chronic traumatic encephalopathy. ](/news/2013/01/10/researchers-confirm-that-deceased-nfl-linebacker-junior-seau-s-suicide-was-brought-on-by-chronic-traumatic-encephalopathy.md)
-Junior Seau suffered from the type of chronic brain damage that also has been found in dozens of deceased former players, three independent scientists concluded.
-
 ## [Previous Day...](/news/2013/01/9/index.md)
 

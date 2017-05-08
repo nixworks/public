@@ -1,7 +1,7 @@
 ## [2007-02-14](/news/2007/02/14/index.md)
 
 ### [ The United States redeploys the 173rd Airborne Brigade to Afghanistan to prepare for an anticipated spring offensive by the Taliban. ](/news/2007/02/14/the-united-states-redeploys-the-173rd-airborne-brigade-to-afghanistan-to-prepare-for-an-anticipated-spring-offensive-by-the-taliban.md)
-_Context: 173rd Airborne Brigade, Afghanistan, Taliban, U.S., redeploys_
+_Context: 173rd Airborne Brigade, Afghanistan, Taliban, United States, redeploys_
 
 ### [ Bombay Stock Exchange sells 5 percent stake to Germany's Deutsche Brse. ](/news/2007/02/14/bombay-stock-exchange-sells-5-percent-stake-to-germany-s-deutsche-borse.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
@@ -10,7 +10,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Kosovo, Parliament of Serbia, United Nations_
 
 ### [ United States Senate election, 2008: Author and comedian Al Franken announces his candidacy for Senator of Minnesota. ](/news/2007/02/14/united-states-senate-election-2008-author-and-comedian-al-franken-announces-his-candidacy-for-senator-of-minnesota.md)
-_Context: Al Franken, Minnesota, United States Senate election, 2008, comedian, senators_
+_Context: Al Franken, Minnesota, United States Senate election, 2008, United States senators, comedian_
 
 ### [ Vodafone's Chief Executive, Arun Sarin, says the company will spend US$2 billion to enhance its investments in India. ](/news/2007/02/14/vodafone-s-chief-executive-arun-sarin-says-the-company-will-spend-us-2-billion-to-enhance-its-investments-in-india.md)
 _Context: Arun Sarin, CEO, India, U.S. dollar, Vodafone Group Plc_

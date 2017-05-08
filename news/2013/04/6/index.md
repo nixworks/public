@@ -39,20 +39,5 @@ Tammam Salam was officially named the new prime minister of Lebanon on Saturday 
 ### [Pope Francis appoints Spain's Jose Rodriguez Carballo, O.F.M., as Secretary to the Congregation for Institutes of Consecrated Life and Societies of Apostolic Life, which oversees all Catholic religious orders,  his first nomination to the Vatican bureaucracy. ](/news/2013/04/6/pope-francis-appoints-spain-s-josa-c-rodraguez-carballo-o-f-m-as-secretary-to-the-congregation-for-institutes-of-consecrated-life-and-soc.md)
 _Context: Catholic faithful, Congregation for Institutes of Consecrated Life and Societies of Apostolic Life, Holy See, Jose Rodriguez Carballo, O.F.M., Pope Francis, Spain_
 
-### [In the 2012-13 Fussball-Bundesliga, Bayern Munich wins their 23rd Bundesliga title with a record six games to spare. ](/news/2013/04/6/in-the-2012a13-fuaball-bundesliga-bayern-munich-wins-their-23rd-bundesliga-title-with-a-record-six-games-to-spare.md)
-Bayern Munich clinch the Bundesliga title with six games to spare after a win 1-0 at Eintracht Frankfurt.
-
-### [In road bicycle racing, Colombia's Nairo Quintana wins the 2013 Tour of the Basque Country. ](/news/2013/04/6/in-road-bicycle-racing-colombia-s-nairo-quintana-wins-the-2013-tour-of-the-basque-country.md)
-Find out the latest news, stage reports, race scores and expert analysis from the 2013 Vuelta Ciclista al Pais Vasco Stage 6. Cyclingnews.com: The world centre of cycling.
-
-### [In horse racing, Auroras Encore springs a 66/1 surprise to win the 2013 Grand National by nine lengths at Aintree Racecourse in Liverpool, United Kingdom. ](/news/2013/04/6/in-horse-racing-auroras-encore-springs-a-66-1-surprise-to-win-the-2013-grand-national-by-nine-lengths-at-aintree-racecourse-in-liverpool-u.md)
-The 66-1 chance Auroras Encore, ridden by Ryan Mania and trained by Sue Smith, wins the 2013 Aintree Grand National.
-
-### [In college basketball, the University of Louisville and University of Michigan advance to the championship game of the 2013 NCAA Men's Division I Basketball Tournament. ](/news/2013/04/6/in-college-basketball-the-university-of-louisville-and-university-of-michigan-advance-to-the-championship-game-of-the-2013-ncaa-men-s-divis.md)
-Get a recap of the Wichita State Shockers vs. Louisville Cardinals basketball game.
-
-### [In synchronized skating, Team Unique of Finland wins the 2013 World Championships, with NEXXICE of Canada placing second and Haydenettes of the USA third. ](/news/2013/04/6/in-synchronized-skating-team-unique-of-finland-wins-the-2013-world-championships-with-nexxice-of-canada-placing-second-and-haydenettes-of.md)
-_Context: 2013, Canada, Finland, Haydenettes, NEXXICE, Team Unique, USA, World Championships, synchronized skating_
-
 ## [Previous Day...](/news/2013/04/5/index.md)
 

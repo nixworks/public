@@ -16,7 +16,7 @@ _Context: LTTE, Sri Lanka, Tamils Rehabilitation Organisation_
 _Context: North Ossetia, Russia, bomb, bus_
 
 ### [ England football coach Steve McClaren and his deputy Terry Venables are sacked after England lose 3-2 to Croatia at Wembley Stadium. ](/news/2007/11/22/england-football-coach-steve-mcclaren-and-his-deputy-terry-venables-are-sacked-after-england-lose-3-2-to-croatia-at-wembley-stadium.md)
-_Context: Croatia, England national football team, Steve McClaren, Terry Venables, Wembley Stadium_
+_Context: Croatia, England, Steve McClaren, Terry Venables, Wembley Stadium_
 
 ### [ Danish Prime Minister Anders Fogh Rasmussen says that Denmark will hold a new referendum on relinquishing its opt-outs, including an exemption from the European common currency, the euro, during the next four years. ](/news/2007/11/22/danish-prime-minister-anders-fogh-rasmussen-says-that-denmark-will-hold-a-new-referendum-on-relinquishing-its-opt-outs-including-an-exempt.md)
 _Context: Anders Fogh Rasmussen, Denmark, Europe, a new referendum on relinquishing its opt-outs, common currency, euro_

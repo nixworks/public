@@ -39,8 +39,5 @@ A South Pacific island shown on marine charts and world maps as well as on Googl
 ### [ESO says Makemake, one of the solar system's five dwarf planets, has been found to have no atmosphere. ](/news/2012/11/22/eso-says-makemake-one-of-the-solar-systemas-five-dwarf-planets-has-been-found-to-have-no-atmosphere.md)
 First look at Kuiper Belt object also reveals no shroud of gases
 
-### [The Russian Premier League awards FC Dynamo Moscow a technical 3-0 victory after a league match in Arena Khimki on 17 November was abandoned when a goalkeeper Anton Shunin was hurt by a firecracker thrown from the FC Zenit Saint Petersburg supporters end. ](/news/2012/11/22/the-russian-premier-league-awards-fc-dynamo-moscow-a-technical-3-0-victory-after-a-league-match-in-arena-khimki-on-17-november-was-abandoned.md)
-_Context: Anton Shunin, Arena Khimki, FC Dynamo Moscow, Russian Premier League, Russian Premier League, Zenit St. Petersburg, firecracker, goalkeeper, technical 3-0 victory_
-
 ## [Previous Day...](/news/2012/11/21/index.md)
 

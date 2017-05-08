@@ -19,13 +19,13 @@ VATICAN CITY (AP) — In a sweeping document on family life that opened a door t
 _Context: Bruce Springsteen and the E Street Band, Greensboro, North Carolina, North Carolina bathroom bill, bathroom bill_
 
 ### [Both Starwood Hotels and Resorts Worldwide  and Marriott International   shareholders  approve Marriott's acquisition of Starwood, which will create the world's largest  hotelier.   The deal has cleared the pre-merger antitrust reviews in the United States and Canada; approvals from the European Union and China is pending. Last week, Anbang Insurance Group topped Marriott's bid, then withdrew their offer three days later. ](/news/2016/04/8/both-starwood-hotels-and-resorts-worldwide-and-marriott-international-shareholders-approve-marriott-s-acquisition-of-starwood-which-wil.md)
-_Context: Anbang Insurance Group, Canada, China, European Union, Marriott International, Starwood Hotels and Resorts Worldwide, U.S., pre-merger, reduced competition and higher prices, shareholders_
+_Context: Anbang Insurance Group, Canada, China, European Union, Marriott International, Starwood Hotels and Resorts Worldwide, United States, pre-merger, reduced competition and higher prices, shareholders_
 
 ### [At least 245 people are reportedly injured following a head-on collision between two commuter trains in San Jose, Costa Rica. ](/news/2016/04/8/at-least-245-people-are-reportedly-injured-following-a-head-on-collision-between-two-commuter-trains-in-san-josa-c-costa-rica.md)
 _Context: San Jose, Costa Rica_
 
 ### [Three people are killed, and there was one survivor, following the crash of a small plane headed to Angoon in Southeast Alaska, United States. ](/news/2016/04/8/three-people-are-killed-and-there-was-one-survivor-following-the-crash-of-a-small-plane-headed-to-angoon-in-southeast-alaska-united-state.md)
-_Context: Angoon, Southeast Alaska, U.S._
+_Context: Angoon, Southeast Alaska, United States_
 
 ### [A group of 13 North Koreans working at a restaurant in an unidentified country defect en masse to South Korea, according to Seoul's Ministry of Unification. ](/news/2016/04/8/a-group-of-13-north-koreans-working-at-a-restaurant-in-an-unidentified-country-defect-en-masse-to-south-korea-according-to-seoul-s-ministry.md)
 Friday&#39;s public announcement is unusual for South Korea, which typically keeps a low-profile about defections.
@@ -80,9 +80,6 @@ The way Colorado Republicans pick their national delegates appears to be too muc
 
 ### [SpaceX  launches a NASA cargo run to the International Space Station, and in a spaceflight first, successfully lands its reusable main-stage booster on an autonomous spaceport drone ship. ](/news/2016/04/8/spacex-launches-a-nasa-cargo-run-to-the-international-space-station-and-in-a-spaceflight-first-successfully-lands-its-reusable-main-stage.md)
 SpaceX has finally landed its Falcon 9 rocket on a drone ship at sea, after launching the vehicle into space this afternoon. It&#39;s the first time the company has been able to pull off an ocean...
-
-### [Russian Sports Minister Vitaly Mutko says they will not open up a formal investigation into the doping scandals that were reported by the World Anti-Doping Agency last November, where it documented Russian athletes systematically taking banned performance-enhancing drugs with state support. ](/news/2016/04/8/russian-sports-minister-vitaly-mutko-says-they-will-not-open-up-a-formal-investigation-into-the-doping-scandals-that-were-reported-by-the-wo.md)
-_Context: Russia, Sports Minister, Vitaly Mutko, World Anti-Doping Agency_
 
 ## [Previous Day...](/news/2016/04/7/index.md)
 

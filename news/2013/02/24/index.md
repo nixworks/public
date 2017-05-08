@@ -33,17 +33,5 @@ Cuban leader Raul Castro announced on Sunday he would step down from power after
 ### [A new study finds that chimpanzees will solve puzzles for the fun of it. ](/news/2013/02/24/a-new-study-finds-that-chimpanzees-will-solve-puzzles-for-the-fun-of-it.md)
 _Context: chimpanzee, fun, puzzle_
 
-### [In stock car racing, Jimmie Johnson wins the 2013 Daytona 500. Pole winner Danica Patrick finishes eighth, marking the highest ever finish by a woman. ](/news/2013/02/24/in-stock-car-racing-jimmie-johnson-wins-the-2013-daytona-500-pole-winner-danica-patrick-finishes-eighth-marking-the-highest-ever-finish-b.md)
-Danica Patrick gets cheers as loud as those for Dale Earnhardt Jr.
-
-### [In association football, Swansea City beat Bradford City 5-0 to win the 2013 Football League Cup Final. ](/news/2013/02/24/in-association-football-swansea-city-beat-bradford-city-5a0-to-win-the-2013-football-league-cup-final.md)
-Swansea claim their first major knockout trophy as they brush aside League Two Bradford to win the Capital One Cup.
-
-### [Derby della Madonnina:  Inter Milan and AC Milan battle to a 1-1 draw in their 2012-13 Serie A local derby. AC Milan's striker Mario Balotelli was the target of racial abuse from fans of his ex-club Inter Milan. ](/news/2013/02/24/derby-della-madonnina-inter-milan-and-ac-milan-battle-to-a-1a1-draw-in-their-2012a13-serie-a-local-derby-ac-milan-s-striker-mario-bal.md)
-Inter Milan are fined 50,000 euros after their fans are found guilty of racial abuse towards AC Milan striker Mario Balotelli.
-
-### [Slovenian alpine ski racer Tina Maze secures the ladies overall title in the 2013 Alpine Skiing World Cup with nine races still remaining. ](/news/2013/02/24/slovenian-alpine-ski-racer-tina-maze-secures-the-ladies-overall-title-in-the-2013-alpine-skiing-world-cup-with-nine-races-still-remaining.md)
-Tina Maze of Slovenia clinched her first overall World Cup title Sunday, winning the super-combined in France, for her eighth victory this season.
-
 ## [Previous Day...](/news/2013/02/23/index.md)
 

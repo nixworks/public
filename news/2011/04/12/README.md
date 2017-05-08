@@ -36,8 +36,5 @@ _Context: 2011 Canadian federal election, Canada_
 ### [The Senate of the US state of North Carolina pardons former Governor William Woods Holden who was impeached in 1871 because of his suspension of habeas corpus in the process of battling the  Ku Klux Klan terror campaign. ](/news/2011/04/12/the-senate-of-the-us-state-of-north-carolina-pardons-former-governor-william-woods-holden-who-was-impeached-in-1871-because-of-his-suspensio.md)
 _Context: Governor, Ku Klux Klan, North Carolina, Senate, William Woods Holden, habeas corpus_
 
-### [Australian rugby league coach Wayne Bennett agrees to coach the Newcastle Knights in the National Rugby League in the next four seasons starting in 2012. ](/news/2011/04/12/australian-rugby-league-coach-wayne-bennett-agrees-to-coach-the-newcastle-knights-in-the-national-rugby-league-in-the-next-four-seasons-star.md)
-_Context: National Rugby League, Newcastle Knights, Wayne Bennett_
-
 ## [Previous Day...](/news/2011/04/11/index.md)
 

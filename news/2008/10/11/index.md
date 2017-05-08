@@ -4,7 +4,7 @@
 _Context: Global financial crisis of September-October 2008_
 
 ### [United States President George W. Bush commits to collaborative action with G7 finance ministers. ](/news/2008/10/11/united-states-president-george-w-bush-commits-to-collaborative-action-with-g7-finance-ministers.md)
-_Context: G7, George W. Bush, President, U.S._
+_Context: G7, George W. Bush, President, United States_
 
 ### [The International Monetary Fund warns of a global meltdown and offers to lend to countries if needed. ](/news/2008/10/11/the-international-monetary-fund-warns-of-a-global-meltdown-and-offers-to-lend-to-countries-if-needed.md)
 _Context: International Monetary Fund, housing crisis_
@@ -40,7 +40,7 @@ _Context: Austria, Carinthia, Governor, Jorg Haider, Klagenfurt_
 _Context: Commission on Human Rights, Philippine, kill_
 
 ### [ The University of Toledo's Rockets stunned the Michigan Wolverines 13-10 at the Big House, in the first ever match up between the two schools, only fifty miles apart.](/news/2008/10/11/the-university-of-toledo-s-rockets-stunned-the-michigan-wolverines-13-10-at-the-big-house-in-the-first-ever-match-up-between-the-two-schoo.md)
-_Context: Michigan, University of Toledo_
+_Context: Michigan Wolverines, University of Toledo_
 
 ## [Previous Day...](/news/2008/10/10/index.md)
 

@@ -24,17 +24,5 @@ _Context: 7th, ASEAN, East Asia Summit, Human rights_
 ### [Clashes take place at an anti-gay marriage protest in Paris, France. ](/news/2012/11/18/clashes-take-place-at-an-anti-gay-marriage-protest-in-paris-france.md)
 _Context: France, Paris, same-sex marriage_
 
-### [Brazil wins the 2012 FIFA Futsal World Cup after a thrilling final in which they beat Spain 3-2 after extra time in Bangkok, Thailand. ](/news/2012/11/18/brazil-wins-the-2012-fifa-futsal-world-cup-after-a-thrilling-final-in-which-they-beat-spain-3-2-after-extra-time-in-bangkok-thailand.md)
-_Context: 2012 FIFA Futsal World Cup, Bangkok, Brazil, Spain, Thailand_
-
-### [In the 2012 Davis Cup final Czech Republic defeats Spain 3-2 in Prague. Radek Stepanek wins a decisive fifth match against Nicolas Almagro. ](/news/2012/11/18/in-the-2012-davis-cup-final-czech-republic-defeats-spain-3-2-in-prague-radek-a-tapa-nek-wins-a-decisive-fifth-match-against-nicola-s-almag.md)
-Radek Stepanek is the hero as the Czech Republic beat defending champions Spain 3-2 in the Davis Cup final in Prague.
-
-### [British racing driver Lewis Hamilton wins Formula One's 2012 United States Grand Prix ahead of Sebastian Vettel and Fernando Alonso. ](/news/2012/11/18/british-racing-driver-lewis-hamilton-wins-formula-one-s-2012-united-states-grand-prix-ahead-of-sebastian-vettel-and-fernando-alonso.md)
-Lewis Hamilton wins the US Grand Prix after a tight battle with Sebastian Vettel, as Fernando Alonso keeps the title fight alive.
-
-### [Brad Keselowski wins the 2012 NASCAR Sprint Cup Championship ahead of Clint Bowyer and former 5-time champion Jimmie Johnson. ](/news/2012/11/18/brad-keselowski-wins-the-2012-nascar-sprint-cup-championship-ahead-of-clint-bowyer-and-former-5-time-champion-jimmie-johnson.md)
-_Context: 2012, Brad Keselowski, Clint Bowyer, Jimmie Johnson, NASCAR, Sprint Cup Series_
-
 ## [Previous Day...](/news/2012/11/17/index.md)
 

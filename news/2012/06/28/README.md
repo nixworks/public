@@ -63,17 +63,5 @@ _Context: Google, Google Chrome, Sundar Pichai, web browser_
 ### [The Emirates Air Line gondola lift opens in London. ](/news/2012/06/28/the-emirates-air-line-gondola-lift-opens-in-london.md)
 The new Thames cable car, spanning the river in east London, opens to the public.
 
-### [UEFA Euro 2012:Italy defeat Germany during their semi-final meeting at the National Stadium in Warsaw, with two first-half goals from Mario Balotelli helping Italy to the UEFA Euro 2012 Final. ](/news/2012/06/28/uefa-euro-2012-pitaly-defeat-germany-during-their-semi-final-meeting-at-the-national-stadium-in-warsaw-with-two-first-half-goals-from-mario.md)
-Mario Balotelli scores two superb goals as Italy shock Germany to book a Euro 2012 final showdown with Spain in Kiev.
-
-### [English football:Alan Shearer suggests England cannot win the 2014 FIFA World Cup. ](/news/2012/06/28/english-football-palan-shearer-suggests-england-cannot-win-the-2014-fifa-world-cup.md)
-Alan Shearer says England have no chance of winning the 2014 World Cup, saying they are &quot;a million miles away&quot;.
-
-### [In basketball, the 2012 NBA Draft takes place in Newark, New Jersey. ](/news/2012/06/28/in-basketball-the-2012-nba-draft-takes-place-in-newark-new-jersey.md)
-USA TODAY Sports is bringing you instant analysis on each pick of the NBA draft, from Anthony Davis to the 60th selection.
-
-### [At the 2012 Wimbledon Championships, World No. 100 Lukas Rosol upsets World No. 2 and two-time Wimbledon champion Rafael Nadal in five sets, to achieve one of the biggest upsets in Grand Slam history. ](/news/2012/06/28/at-the-2012-wimbledon-championships-world-no-100-luka-a-rosol-upsets-world-no-2-and-two-time-wimbledon-champion-rafael-nadal-in-five-set.md)
-Rafael Nadal was upset in the second round by Lukas Rosol, while Andy Murray, Andy Roddick and Brian Baker advanced to the third round at Wimbledon.
-
 ## [Previous Day...](/news/2012/06/27/index.md)
 

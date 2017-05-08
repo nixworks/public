@@ -7,7 +7,7 @@ _Context: China, Xinjiang_
 Heavy fighting raged near Baba Amro in Homs on Wednesday after elite Syrian troops attacked the rebel-held bastion that has endured 25 days of siege and fierce bombardment, activists said.
 
 ### [Davy Jones of The Monkees dies in Florida of a heart attack. ](/news/2012/02/29/davy-jones-of-the-monkees-dies-in-florida-of-a-heart-attack.md)
-_Context: Davy Jones, FL, The Monkees_
+_Context: Davy Jones, Florida, The Monkees_
 
 ### [James Murdoch resigns from News International to focus on running News Limited's television business with the News International phone hacking scandal as a factor in the decision. ](/news/2012/02/29/james-murdoch-resigns-from-news-international-to-focus-on-running-news-limited-s-television-business-with-the-news-international-phone-hacki.md)
 James Murdoch has resigned as chairman of News International a day after its parent company revealed it may sell off its publishing business.
@@ -32,9 +32,6 @@ _Context: Egypt, presidential election_
 
 ### [Mitt Romney wins the Republican caucuses held in the US state of Wyoming. ](/news/2012/02/29/mitt-romney-wins-the-republican-caucuses-held-in-the-us-state-of-wyoming.md)
 _Context: Mitt Romney, R, Wyoming, Wyoming_
-
-### [In soccer, Gold Coast United is axed from the Australian A-league following a dispute between owner Clive Palmer and the Football Federation Australia. ](/news/2012/02/29/in-soccer-gold-coast-united-is-axed-from-the-australian-a-league-following-a-dispute-between-owner-clive-palmer-and-the-football-federation.md)
-_Context: A-league, Australian, Clive Palmer, Football Federation Australia, Gold Coast United, football_
 
 ## [Previous Day...](/news/2012/02/28/index.md)
 

@@ -48,17 +48,5 @@ Rep. Thaddeus McCotter resigned from Congress on Friday, capping a bizarre two-m
 ### [The California State Senate votes to approve funding for a bullet train between Los Angeles and San Francisco. ](/news/2012/07/6/the-california-state-senate-votes-to-approve-funding-for-a-bullet-train-between-los-angeles-and-san-francisco.md)
 California lawmakers approve financing for a bullet train that would eventually become part of the first dedicated high-speed line in the US.
 
-### [Major League Soccer star David Beckham, the former English soccer team captain, is banned for one match after committing an act of violence on the pitch. ](/news/2012/07/6/major-league-soccer-star-david-beckham-the-former-english-soccer-team-captain-is-banned-for-one-match-after-committing-an-act-of-violence.md)
-David Beckham is given a one-game ban and fined for &quot;confrontational and provocative behaviour&quot;.
-
-### [Andy Murray makes it to the final of the 2012 Wimbledon Championships - Men's Singles, becoming the first Briton to do so in 74 years. ](/news/2012/07/6/andy-murray-makes-it-to-the-final-of-the-2012-wimbledon-championships-a-men-s-singles-becoming-the-first-briton-to-do-so-in-74-years.md)
-Andy Murray beats Jo-Wilfried Tsonga in four sets to become the first British man in 74 years to reach the Wimbledon final.
-
-### [Jonny Marray makes it to final of the men's doubles at Wimbledon, becoming the first Briton to do so in 52 years. ](/news/2012/07/6/jonny-marray-makes-it-to-final-of-the-men-s-doubles-at-wimbledon-becoming-the-first-briton-to-do-so-in-52-years.md)
-_Context: Jonny Marray_
-
-### [Louis van Gaal is selected as the new manager of the Netherlands football team, replacing Bert van Marwijk who resigned after increasing criticism of his team's performances during the UEFA Euro 2012. ](/news/2012/07/6/louis-van-gaal-is-selected-as-the-new-manager-of-the-netherlands-football-team-replacing-bert-van-marwijk-who-resigned-after-increasing-cri.md)
-The official site of the international governing body of football with news, national associations, competitions, results, fixtures, development, organisation, world rankings, statistics, the International Football Association Board, history, laws of the game, futsal, publications, downloads, and contact details.
-
 ## [Previous Day...](/news/2012/07/5/index.md)
 

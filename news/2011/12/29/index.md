@@ -48,8 +48,5 @@ The Rajya Sabha broke up for recess on Thursday without voting on a bill to crea
 ### [Poland announces an amnesty for illegal immigrants from January 1, 2012. ](/news/2011/12/29/poland-announces-an-amnesty-for-illegal-immigrants-from-january-1-2012.md)
 _Context: Poland, amnesty, illegal migrants_
 
-### [Rosman Garcia, a Venezuelan former relief pitcher who played for the Texas Rangers during the 2003-2004 baseball seasons, is killed in a car crash in Valencia, Venezuela.](/news/2011/12/29/rosman-garcaa-a-venezuelan-former-relief-pitcher-who-played-for-the-texas-rangers-during-the-2003a2004-baseball-seasons-is-killed-in-a.md)
-_Context: Rosman Garcia, Texas Rangers, Valencia, Venezuela, Venezuela, relief pitcher_
-
 ## [Previous Day...](/news/2011/12/28/index.md)
 

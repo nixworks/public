@@ -10,7 +10,7 @@ First Ebola vaccine trial starts on African soil; Hagel to discuss Ebola with Ce
 Pakistani child education activist Malala Yousafzai and Indian child rights campaigner Kailash Satyarthi win the Nobel Peace Prize.
 
 ### [The local KGB in Minsk arrests about 100 Ukrainian and 30 Belarusian soccer fans at a qualifying match between Ukraine and Belarus for the 2016 European Championship after they a sang the song, Putin-Huilo! (which roughly translates as "Putin is a dickhead!"). ](/news/2014/10/10/the-local-kgb-in-minsk-arrests-about-100-ukrainian-and-30-belarusian-soccer-fans-at-a-qualifying-match-between-ukraine-and-belarus-for-the-2.md)
-_Context: 2016 UEFA European Championship, Belarus, KGB, Minsk, Ukrainian, Vladimir Putin_
+_Context: 2016 European Championship, Belarus, KGB, Minsk, Ukrainian, Vladimir Putin_
 
 ### [2014 Hong Kong protests:Hong Kong's Occupy Central protest leaders call for supporters to hold a major rally after the Government of Hong Kong calls off planned talks. ](/news/2014/10/10/2014-hong-kong-protests-phong-kong-s-occupy-central-protest-leaders-call-for-supporters-to-hold-a-major-rally-after-the-government-of-hong-k.md)
 _Context: 2014 pro-democracy street protests, Government of Hong Kong, Hong Kong, Occupy Central with Love and Peace_

@@ -39,8 +39,5 @@ _Context: Beijing, China, Tiananmen Square, last October_
 ### [Israeli police arrest Aziz Duwaik, Speaker of the Palestinian Legislative Council and Hamas member,  during a wave of arrests linked to a manhunt for three kidnapped teenagers. ](/news/2014/06/16/israeli-police-arrest-aziz-duwaik-speaker-of-the-palestinian-legislative-council-and-hamas-member-during-a-wave-of-arrests-linked-to-a-ma.md)
 _Context: Aziz Duwaik, Hamas, Israel, Speaker of the Palestinian Legislative Council, three kidnapped teenagers_
 
-### [German ex-Formula 1 champion Michael Schumacher is out of an induced coma and has left Grenoble Hospital in France for further rehabilitation. ](/news/2014/06/16/german-ex-formula-1-champion-michael-schumacher-is-out-of-an-induced-coma-and-has-left-grenoble-hospital-in-france-for-further-rehabilitatio.md)
-German Formula One legend Michael Schumacher is out of a coma and has left the hospital treating him for the past six months.
-
 ## [Previous Day...](/news/2014/06/15/index.md)
 

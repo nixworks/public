@@ -25,7 +25,7 @@ _Context: Irish government, Republic of Ireland, abortion, abortion scandal_
 _Context: High Court of England and Wales, brain tumour_
 
 ### [The bodies of Richard Hickock and Perry Smith, the murderers who were the subject of Truman Capote's non-fiction novel ''In Cold Blood'', are exhumed in the US state of Kansas to help solve a cold case in Florida from December 1959. ](/news/2012/12/18/the-bodies-of-richard-hickock-and-perry-smith-the-murderers-who-were-the-subject-of-truman-capote-s-non-fiction-novel-in-cold-blood-ar.md)
-_Context: FL, In Cold Blood, Kansas, Perry Smith, Richard Hickock, Truman Capote, cold case, non-fiction novel_
+_Context: Florida, In Cold Blood, Kansas, Perry Smith, Richard Hickock, Truman Capote, cold case, non-fiction novel_
 
 ### [A police officer's claim that he witnessed a conflict outside Downing Street involving former British Conservative Party chief whip Andrew Mitchell is being probed by the Independent Police Complaints Commission. CCTV footage of the incident also emerges, casting doubt on whether any witnesses were present at the time. ](/news/2012/12/18/a-police-officer-s-claim-that-he-witnessed-a-conflict-outside-downing-street-involving-former-british-conservative-party-chief-whip-andrew-m.md)
 The police watchdog says it is to investigate whether an officer did witness a row in which he claimed ex-Chief Whip Andrew Mitchell called officers &quot;plebs&quot;.
@@ -47,12 +47,6 @@ _Context: Jalal Talabani, President_
 
 ### [Senator Patrick Leahy of Vermont is sworn in as the President pro tempore of the United States Senate, making him third in the United States presidential line of succession. ](/news/2012/12/18/senator-patrick-leahy-of-vermont-is-sworn-in-as-the-president-pro-tempore-of-the-united-states-senate-making-him-third-in-the-united-states.md)
 Sen. Patrick Leahy was officially sworn in as the third-in-line for the presidency, following the death of Sen. Inouye. 
-
-### [Italian football club Napoli is penalised a two-point deduction in the 2012-13 Serie A due to involvement to the 2011-12 Italian football scandal. ](/news/2012/12/18/italian-football-club-napoli-is-penalised-a-two-point-deduction-in-the-2012a13-serie-a-due-to-involvement-to-the-2011a12-italian-footbal.md)
-Napoli have been docked two points in the Scommessopoli scandal, while Paolo Cannavaro and Giuanluca Grava were handed six-month bans
-
-### [The funeral of Irish Gaelic football player Paidi O Se is to take place. ](/news/2012/12/18/the-funeral-of-irish-gaelic-football-player-pa-ida-a-sa-c-is-to-take-place.md)
-_Context: Gaelic football, Irish, Paidi O Se_
 
 ## [Previous Day...](/news/2012/12/17/index.md)
 

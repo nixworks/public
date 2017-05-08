@@ -4,7 +4,7 @@
 A wave of apparently co-ordinated bomb attacks in the Iraqi capital, Baghdad, kills at least 68 people and injure scores, officials say.
 
 ### [The United States admits it was significantly responsible for an airstrike last month that killed 24 Pakistani soldiers. ](/news/2011/12/22/the-united-states-admits-it-was-significantly-responsible-for-an-airstrike-last-month-that-killed-24-pakistani-soldiers.md)
-_Context: NATO airstrike, Pakistan, U.S._
+_Context: NATO airstrike, Pakistan, United States_
 
 ### [Killings and coverups are reported to be occurring in the Democratic Republic of the Congo. ](/news/2011/12/22/killings-and-coverups-are-reported-to-be-occurring-in-the-democratic-republic-of-the-congo.md)
 At least 24 people have been killed by police in DR Congo since the results of disputed elections were announced, a US-based rights group says.
@@ -41,9 +41,6 @@ Turkey recalls its ambassador to France in protest at a bill making it illegal t
 
 ### [The Large Hadron Collider makes its first clear observation of a new particle since opening in 2009, the boson Chi<sub>b</sub> 3P. ](/news/2011/12/22/the-large-hadron-collider-makes-its-first-clear-observation-of-a-new-particle-since-opening-in-2009-the-boson-chib-3p.md)
 The first clear evidence for a new particle at the Large Hadron Collider emerges, which may make finding particles such as the Higgs boson easier.
-
-### [A KNVB Cup game between AFC Ajax and AZ is abandoned after the AZ manager leads his team off the pitch in protest at the sending-off of his goalkeeper, Esteban Alvarado, who kicked an Ajax fan who attacked him. ](/news/2011/12/22/a-knvb-cup-game-between-afc-ajax-and-az-is-abandoned-after-the-az-manager-leads-his-team-off-the-pitch-in-protest-at-the-sending-off-of-his.md)
-_Context: AZ, Ajax, Esteban Alvarado, KNVB Cup_
 
 ## [Previous Day...](/news/2011/12/21/index.md)
 

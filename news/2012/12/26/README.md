@@ -31,19 +31,10 @@ _Context: Nelson Mandela, President of South Africa, Pretoria, South Africa, gal
 _Context: George H. W. Bush, Houston, Texas, The Methodist Hospital, U.S. President, bronchitis_
 
 ### [Hawaii's Democratic Governor Neil Abercrombie appoints Lieutenant Governor Brian Schatz (a former state legislator and nonprofit group executive) to fill the term of the recently-deceased longtime Democratic U.S. Senator Daniel Inouye until 2014, when a special election will be called to fill the slot until 2016. His was one of three names known to have been submitted by the state party's central committee, along with an unnamed person and U.S. Democrat Colleen Hanabusa, whom Inouye had stated as his preferred successor hours before his death. ](/news/2012/12/26/hawaii-s-democratic-governor-neil-abercrombie-appoints-lieutenant-governor-brian-schatz-a-former-state-legislator-and-nonprofit-group-execu.md)
-_Context: Brian Schatz, Colleen Hanabusa, D, Daniel Inouye, Hawaii, Hawaii Governor, Lieutenant Governor, Neil Abercrombie, U.S., senators_
+_Context: Brian Schatz, Colleen Hanabusa, D, Daniel Inouye, Hawaii, Hawaii Governor, Lieutenant Governor, Neil Abercrombie, U.S., United States senators_
 
 ### [China officially opens the world's longest high-speed rail route, which links Beijing and Guangzhou. ](/news/2012/12/26/china-officially-opens-the-world-s-longest-high-speed-rail-route-which-links-beijing-and-guangzhou.md)
 _Context: Beijing, China, Guangzhou, bullet train system, high-speed rail, route, world's longest_
-
-### [In ice hockey, the 2013 IIHF World U20 Championship begins today in Ufa, Russia with 10 teams split into two groups of five. ](/news/2012/12/26/in-ice-hockey-the-2013-iihf-world-u20-championship-begins-today-in-ufa-russia-with-10-teams-split-into-two-groups-of-five.md)
-_Context: 2013 IIHF World U20 Championship, Russia, Ufa, ice hockey_
-
-### [Mykhaylo Fomenko is appointed the Ukraine national football team coach by the Football Federation of Ukraine. Serhiy Kovalets will lead the Ukraine national under-21 football team. ](/news/2012/12/26/mykhaylo-fomenko-is-appointed-the-ukraine-national-football-team-coach-by-the-football-federation-of-ukraine-serhiy-kovalets-will-lead-the.md)
-_Context: Football Federation of Ukraine, Mykhaylo Fomenko, Serhiy Kovalets, Ukraine, Ukraine national under-21 football team_
-
-### [NBA postpones regular season game between Chicago Bulls and Indiana Pacers due to snowstorm that hit the Indianapolis area. ](/news/2012/12/26/nba-postpones-regular-season-game-between-chicago-bulls-and-indiana-pacers-due-to-snowstorm-that-hit-the-indianapolis-area.md)
-There’s a blizzard hitting Indiana and specifically the Indianapolis area hard right now — up to a foot of snow had fallen as of this writing in some areas with more to come, leading to a host of t…
 
 ## [Previous Day...](/news/2012/12/25/index.md)
 

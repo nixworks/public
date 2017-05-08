@@ -15,11 +15,5 @@ Several people are reported killed by a bomb near a field hospital near the Turk
 ### [Estonian Prime Minister Andrus Ansip announces that he will be leaving office before scheduled parliamentary elections in 2015. ](/news/2014/02/23/estonian-prime-minister-andrus-ansip-announces-that-he-will-be-leaving-office-before-scheduled-parliamentary-elections-in-2015.md)
 _Context: Andrus Ansip_
 
-### [2014 Winter Olympics:The Winter Olympics in Sochi, Russia officially concludes. ](/news/2014/02/23/2014-winter-olympics-pthe-winter-olympics-in-sochi-russia-officially-concludes.md)
-Australia&#039;s only new medallist of Games will be flagbearer for the closing ceremony.
-
-### [In NASCAR, Dale Earnhardt, Jr. eventually wins the Daytona 500, ending a 55-race winless streak in the Sprint Cup Series, after the race is red flagged for several hours due to heavy rain, while a tornado warning is put into effect for the area. ](/news/2014/02/23/in-nascar-dale-earnhardt-jr-eventually-wins-the-daytona-500-ending-a-55-race-winless-streak-in-the-sprint-cup-series-after-the-race-is.md)
-_Context: Dale Earnhardt, Jr., Daytona 500, NASCAR, Sprint Cup Series, tornado_
-
 ## [Previous Day...](/news/2014/02/22/index.md)
 

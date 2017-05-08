@@ -76,7 +76,7 @@ _Context: Metro Goldwyn Mayer, Skyfall_
 _Context: Orange Prize for Fiction_
 
 ### [Karim Benzema and Hatem Ben Arfa are named as being involved in the France national football team's sex scandal. Franck Ribry admits sexual relations with an underage prostitute. ](/news/2010/04/20/karim-benzema-and-hatem-ben-arfa-are-named-as-being-involved-in-the-france-national-football-team-s-sex-scandal-franck-ribery-admits-sexual.md)
-_Context: France, Franck Ribry, Hatem Ben Arfa, Karim Benzema_
+_Context: Franck Ribry, French, Hatem Ben Arfa, Karim Benzema_
 
 ### [Former International Olympic Committee (IOC) president (1980 - 2001) and honorary life president Juan Antonio Samaranch is in a "very critical" condition in Quiron Hospital, Barcelona, after suffering a heart attack. ](/news/2010/04/20/former-international-olympic-committee-ioc-president-1980-2001-and-honorary-life-president-juan-antonio-samaranch-is-in-a-very-critic.md)
 Former International Olympic Committee president Juan Antonio Samaranch is in &#034;very serious&#034; condition in an intensive care unit at a hospital in Barcelona.

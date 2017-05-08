@@ -1,7 +1,7 @@
 ## [2005-11-14](/news/2005/11/14/index.md)
 
 ### [ Germany: Conferences of the CDU, CSU and SPD approve a coalition deal that will see Angela Merkel become Chancellor on November 22. ](/news/2005/11/14/germany-conferences-of-the-cdu-csu-and-spd-approve-a-coalition-deal-that-will-see-angela-merkel-become-chancellor-on-november-22.md)
-_Context: Angela Merkel, CSU, Chancellor, Christian Democratic Union, Germany, November 22, Social Democratic Party of Germany_
+_Context: Angela Merkel, CSU, Chancellor, Christian Democratic Union, German, November 22, Social Democratic Party of Germany_
 
 ### [ Mexico and Venezuela have withdrawn their ambassadors amid rising tension between the two countries. ](/news/2005/11/14/mexico-and-venezuela-have-withdrawn-their-ambassadors-amid-rising-tension-between-the-two-countries.md)
 _Context: Mexico, Venezuela_
@@ -16,7 +16,7 @@ _Context: Somalia, Somaliland_
 _Context: 1986, Kizza Besigye, Lord's Resistance Army, People's Redemption Army, President, Uganda, Yoweri Museveni_
 
 ### [ The United States government issues warning after receiving credible information that a terrorist threat may exist against official U.S. government facilities in Guangzhou, China. ](/news/2005/11/14/the-united-states-government-issues-warning-after-receiving-credible-information-that-a-terrorist-threat-may-exist-against-official-u-s-go.md)
-_Context: China's, Guangzhou, U.S._
+_Context: China's, Guangzhou, United States_
 
 ### [ Knesset Member Omri Sharon, the son of the Prime Minister of Israel Ariel Sharon, struck a deal with prosecutors that would see him plead guilty to a series of charges in connection with illegal fundraising during Ariel Sharon's 1999 primaries campaign. ](/news/2005/11/14/knesset-member-omri-sharon-the-son-of-the-prime-minister-of-israel-ariel-sharon-struck-a-deal-with-prosecutors-that-would-see-him-plead-g.md)
 MK Omri Sharon, the prime minister&#39;s son, pleads guilty to charges of illegal political fundraising at Tel Aviv Magistrates court Tuesday. Sharon will address court during sentence hearing, his attorney reports 

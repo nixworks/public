@@ -48,8 +48,5 @@ _Context: NASA, Scott Kelly, astronaut_
 ### [A report from  the National Academies of Sciences, Engineering, and Medicine states climate science progress makes it possible to  accurately detect global warming's fingerprints on certain extreme weather events. There is "high confidence" in studies looking for climate change connections between extreme hot and cold temperatures,  while efforts trying to attribute droughts and extreme rainfall has medium confidence. ](/news/2016/03/11/a-report-from-the-national-academies-of-sciences-engineering-and-medicine-states-climate-science-progress-makes-it-possible-to-accuratel.md)
 Man-made climate change is worsening some extreme weather events, according to a report made public Friday by a top science group in Washington.
 
-### [Newcastle United F.C. (NUFC) appoint Rafael Benitez as manager on a three-year deal after sacking Steve McClaren. ](/news/2016/03/11/newcastle-united-f-c-nufc-appoint-rafael-benatez-as-manager-on-a-three-year-deal-after-sacking-steve-mcclaren.md)
-_Context: Newcastle United F.C., Rafael Benitez, Steve McClaren_
-
 ## [Previous Day...](/news/2016/03/10/index.md)
 

@@ -1,7 +1,7 @@
 ## [2005-04-22](/news/2005/04/22/index.md)
 
 ### [ Rumors abound that a nuclear test by North Korea may be imminent, and that the United States is urging the People's Republic of China to pressure North Korea not to do so. [http://www.hindu.com/thehindu/holnus/003200504231210.htm (The Hindu)] [http://www.washingtonpost.com/wp-dyn/articles/A10477-2005Apr22.html (Washington Post)] There was no test however for over a year following.](/news/2005/04/22/rumors-abound-that-a-nuclear-test-by-north-korea-may-be-imminent-and-that-the-united-states-is-urging-the-people-s-republic-of-china-to-pr.md)
-_Context: China's, North Korea, North Korea and weapons of mass destruction, U.S._
+_Context: China's, North Korea, North Korea and weapons of mass destruction, United States_
 
 ### [ Zacarias Moussaoui pleads guilty to terror charges in U.S. federal court. ](/news/2005/04/22/zacarias-moussaoui-pleads-guilty-to-terror-charges-in-u-s-federal-court.md)
 _Context: Zacarias Moussaoui, federal court, terrorism_
@@ -10,7 +10,7 @@ _Context: Zacarias Moussaoui, federal court, terrorism_
 _Context: London, Old Bailey, Richard Reid, Saajid Badat_
 
 ### [ A German court orders a retrial in the case of Armin Meiwes, who was jailed in 2004 for eight years for killing and eating a man (with the man's supposed consent). ](/news/2005/04/22/a-german-court-orders-a-retrial-in-the-case-of-armin-meiwes-who-was-jailed-in-2004-for-eight-years-for-killing-and-eating-a-man-with-the.md)
-_Context: 2004, Armin Meiwes, Germany_
+_Context: 2004, Armin Meiwes, German_
 
 ### [ In an attempt to ease recent tensions between the two Asian economic powerhouses in the Japanese history textbooks controversy, Japanese prime minister Junichiro Koizumi publicly expressed his "deep remorse" for actions of Japanese troops in China during World War II for the first time in a decade. He intends to meet PRC president Hu Jintao at the Asia-Africa Conference in Jakarta. However, 81 Diet members visit Yasukuni Shrine the same day, causing more controversy inside and outside Japan about the true attitude of Tokyo on this subject. ](/news/2005/04/22/in-an-attempt-to-ease-recent-tensions-between-the-two-asian-economic-powerhouses-in-the-japanese-history-textbooks-controversy-japanese-pr.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

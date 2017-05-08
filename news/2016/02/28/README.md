@@ -36,8 +36,5 @@ People in Switzerland reject a plan to automatically expel foreigners who commit
 ### [Tulsi Gabbard resigns as vice-chair of the Democratic National Committee and endorses Vermont Senator Bernie Sanders. ](/news/2016/02/28/tulsi-gabbard-resigns-as-vice-chair-of-the-democratic-national-committee-and-endorses-vermont-senator-bernie-sanders.md)
 Democratic National Committee Vice Chair Tulsi Gabbard resigned from her post on Sunday to endorse Democratic presidential candidate Bernie Sanders, following months of rising tensions within the group.
 
-### [Manchester City beat Liverpool 3-1 on penalties at Wembley Stadium to win the 2015-16 Football League Cup. ](/news/2016/02/28/manchester-city-beat-liverpool-3-1-on-penalties-at-wembley-stadium-to-win-the-2015a16-football-league-cup.md)
-_Context: 2015-16 Football League Cup, 2016 Football League Cup Final, Liverpool F.C., Manchester City, Wembley Stadium_
-
 ## [Previous Day...](/news/2016/02/27/index.md)
 

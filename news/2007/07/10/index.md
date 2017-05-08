@@ -31,16 +31,16 @@ _Context: Benedict XVI, Christian, Congregation for the Doctrine of the Faith, E
 _Context: Baghdad, Green Zone_
 
 ### [ A Cessna 310 registered to the Competitor Liaison Bureau, an arm of NASCAR, attempting an emergency landing at Orlando Sanford International Airport crashes into two homes in Sanford, Florida.  Three people in one of the homes are critically injured, and a fourth person, a four-year-old girl, died; an off-duty firefighter that first responded to the scene was also injured.  Two people in the other house and both the pilot and passenger in the Cessna are killed; the passenger was Dr. Bruce Kennedy, husband of International Speedway Corporation president Lesa Kennedy and brother-in-law of NASCAR chief Brian France. ](/news/2007/07/10/a-cessna-310-registered-to-the-competitor-liaison-bureau-an-arm-of-nascar-attempting-an-emergency-landing-at-orlando-sanford-internationa.md)
-_Context: Brian France, Cessna 310, FL, International Speedway Corporation, Lesa Kennedy, NASCAR, Orlando Sanford International Airport, a suburb of Orlando, emergency landing_
+_Context: Brian France, Cessna 310, Florida, International Speedway Corporation, Lesa Kennedy, NASCAR, Orlando Sanford International Airport, a suburb of Orlando, emergency landing_
 
 ### [ Julian Moti is appointed as the Attorney-General of the Solomon Islands despite being wanted in Australia on child sex charges. ](/news/2007/07/10/julian-moti-is-appointed-as-the-attorney-general-of-the-solomon-islands-despite-being-wanted-in-australia-on-child-sex-charges.md)
 _Context: Australia, Julian Moti, Solomon Islands, child-sex_
 
 ### [ Simn Trinidad, a high-ranking member of the Revolutionary Armed Forces of Colombia, is found guilty of conspiracy to hold three Americans hostage by a U.S. court. ](/news/2007/07/10/simon-trinidad-a-high-ranking-member-of-the-revolutionary-armed-forces-of-colombia-is-found-guilty-of-conspiracy-to-hold-three-americans.md)
-_Context: Revolutionary Armed Forces of Colombia, Simn Trinidad, U.S._
+_Context: Revolutionary Armed Forces of Colombia, Simn Trinidad, United States_
 
 ### [ In observance of Captive Nations Week, there was a brief ceremony and laying of a wreath today at the Victims of Communism Memorial, Massachusetts and New Jersey Avenues, NW, Washington, D.C.. On 10 July, George W. Bush issued a Proclamation, designating July 15 through 21 as Captive Nations Week and called upon the American people to reaffirm the country's "commitment to all those seeking liberty, justice and self-determination." This year marks the 49th observance of Captive Nations Week. ](/news/2007/07/10/in-observance-of-captive-nations-week-there-was-a-brief-ceremony-and-laying-of-a-wreath-today-at-the-victims-of-communism-memorial-massac.md)
-_Context: 10 July, Captive Nations Week, George W. Bush, Massachusetts, Proclamation, U.S., Washington, D.C., communism, self-determination_
+_Context: 10 July, Captive Nations Week, George W. Bush, Massachusetts, Proclamation, United States, Washington, D.C., communism, self-determination_
 
 ### [ Thailand's highest court rules that a corruption case may proceed against former Prime Minister of Thailand Thaksin Shinawatra. ](/news/2007/07/10/thailand-s-highest-court-rules-that-a-corruption-case-may-proceed-against-former-prime-minister-of-thailand-thaksin-shinawatra.md)
 _Context: Prime Minister of Thailand, Thailand, Thaksin_

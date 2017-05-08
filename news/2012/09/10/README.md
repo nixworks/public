@@ -57,8 +57,5 @@ Political allies of Hong Kong’s new Beijing-backed leader perform solidly in c
 ### [Chairman Justice Markandey Katju of the Press Council of India, defends Aseem Trivedi: "he did nothing illegal". Since September 9th, the Indian cartoonist Aseem Trivedi is detained in Mumbai on charges of sedition related to the content of his work. ](/news/2012/09/10/chairman-justice-markandey-katju-of-the-press-council-of-india-defends-aseem-trivedi-he-did-nothing-illegal-since-september-9th-the-in.md)
 Aseem Trivedi was arrested on charges of sedition and insulting national honor, raising concerns in India that the government is increasingly intolerant of dissent.
 
-### [In lawn tennis, Andy Murray of the United Kingdom wins the Men's Singles of the 2012 US Open defeating Novak Djokovic of Serbia to become the first British player to win a Grand Slam singles title since Virginia Wade, and the first British man to do so since Fred Perry. ](/news/2012/09/10/in-lawn-tennis-andy-murray-of-the-united-kingdom-wins-the-men-s-singles-of-the-2012-us-open-defeating-novak-djokovic-of-serbia-to-become-th.md)
-The wait is over. Seventy-six years after Fred Perry became the last British man to win a Grand Slam singles title with his victory just down the road from here at Forest Hills, Andy Murray achieved his lifetime’s ambition at Flushing Meadows last night when he won the US Open.
-
 ## [Previous Day...](/news/2012/09/9/index.md)
 

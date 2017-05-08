@@ -33,14 +33,5 @@ Gunmen in Guatemala kill the mayor of the town of Jutiapa as President Otto Pere
 ### [US Interior Secretary Ken Salazar announces that he is to leave the office in March. ](/news/2013/01/16/us-interior-secretary-ken-salazar-announces-that-he-is-to-leave-the-office-in-march.md)
 _Context: Ken Salazar, United States Secretary of the Interior_
 
-### [Bayern Munich confirms Pep Guardiola will become the club's new manager in the summer 2013. ](/news/2013/01/16/bayern-munich-confirms-pep-guardiola-will-become-the-club-s-new-manager-in-the-summer-2013.md)
-Bayern Munich announce that former Barcelona boss Pep Guardiola will take over as their manager at the end of the season.
-
-### [Saudi Arabia sacks Frank Rijkaard as coach of the national football team after 18 months in charge  due to bad results in the 2013 Gulf Cup of Nations. ](/news/2013/01/16/saudi-arabia-sacks-frank-rijkaard-as-coach-of-the-national-football-team-after-18-months-in-charge-due-to-bad-results-in-the-2013-gulf-cup.md)
-_Context: 2013 Gulf Cup of Nations, Frank Rijkaard, Saudi Arabia, Saudi Arabia_
-
-### [In basketball, Miami Heat forward LeBron James becomes the youngest player in NBA history to score 20,000 career points. ](/news/2013/01/16/in-basketball-miami-heat-forward-lebron-james-becomes-the-youngest-player-in-nba-history-to-score-20-000-career-points.md)
-_Context: 20,000 career points, LeBron James, Miami Heat, basketball, basketball_
-
 ## [Previous Day...](/news/2013/01/15/index.md)
 

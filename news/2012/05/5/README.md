@@ -27,14 +27,5 @@ _Context: Cambodia_
 ### [A supermoon is formed as the moon gets closest to the earth for the year. ](/news/2012/05/5/a-supermoon-is-formed-as-the-moon-gets-closest-to-the-earth-for-the-year.md)
 _Context: Earth, Moon, supermoon_
 
-### [In US horse racing, I'll Have Another wins the 2012 Kentucky Derby. ](/news/2012/05/5/in-us-horse-racing-i-ll-have-another-wins-the-2012-kentucky-derby.md)
-_Context: 2012 Kentucky Derby, I'll Have Another, horse racing_
-
-### [In English soccer, Chelsea defeat Liverpool in the 2012 FA Cup Final. ](/news/2012/05/5/in-english-soccer-chelsea-defeat-liverpool-in-the-2012-fa-cup-final.md)
-Chelsea win the FA Cup for the seventh time after goals by Ramires and Didier Drogba sink Liverpool at Wembley.
-
-### [In Spanish soccer, Lionel Messi scores all the goals, including a Spanish league-record 50th goal, to take his season tally to an unprecedented 72 in the 4-0 defeat of rivals Espanyol. ](/news/2012/05/5/in-spanish-soccer-lionel-messi-scores-all-the-goals-including-a-spanish-league-record-50th-goal-to-take-his-season-tally-to-an-unpreceden.md)
-_Context: Espanyol, Lionel Messi_
-
 ## [Previous Day...](/news/2012/05/4/index.md)
 

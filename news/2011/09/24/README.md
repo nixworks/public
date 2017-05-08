@@ -19,7 +19,7 @@ _Context: Oswald Grbel, Swiss, UBS_
 Russian Prime Minister Vladimir Putin announces he has accepted a proposal to run for president next year, all but guaranteeing his return to the Kremlin.
 
 ### [Herman Cain wins a Florida straw poll for the 2012 Republican presidential primaries. ](/news/2011/09/24/herman-cain-wins-a-florida-straw-poll-for-the-2012-republican-presidential-primaries.md)
-_Context: FL, Herman Cain, nomination_
+_Context: Florida, Herman Cain, nomination_
 
 ### [Voters in Bahrain go to the polls for byelections caused by the resignation of Shiite members during the 2011 Bahraini uprising; many Shiite voters are expected to boycott the election. ](/news/2011/09/24/voters-in-bahrain-go-to-the-polls-for-byelections-caused-by-the-resignation-of-shiite-members-during-the-2011-bahraini-uprising-many-shiite.md)
 _Context: 2011 Bahraini uprising, Bahrain, Shiite, byelection_

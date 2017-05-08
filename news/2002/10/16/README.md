@@ -10,7 +10,7 @@ _Context: murdered_
 _Context: Brussels, CDA, Dutch politics, European Union, LPF, VVD, cabinet of Balkenende, coalition government_
 
 ### [ Gerhard Schroder and Joschka Fischer sign the coalition treaty for the second red-green cabinet of Germany.](/news/2002/10/16/gerhard-schrapder-and-joschka-fischer-sign-the-coalition-treaty-for-the-second-red-green-cabinet-of-germany.md)
-_Context: Gerhard Schroder, Germany, Joschka Fischer, coalition_
+_Context: Gerhard Schroder, German, Joschka Fischer, coalition_
 
 ## [Previous Day...](/news/2002/10/15/index.md)
 

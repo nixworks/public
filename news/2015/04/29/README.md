@@ -25,7 +25,7 @@ France and Australia have condemned the death penalty as executions for three of
 _Context: Crown Prince Muqrin, Succession to the Saudi Arabian throne_
 
 ### [Nominally independent Senator Bernie Sanders from Vermont announces that he will be seeking the Democratic Party nomination in the US Presidential election. ](/news/2015/04/29/nominally-independent-senator-bernie-sanders-from-vermont-announces-that-he-will-be-seeking-the-democratic-party-nomination-in-the-us-presid.md)
-_Context: 2016 United States presidential election, Bernie Sanders, D, Vermont, presidential campaign, senators_
+_Context: 2016 United States presidential election, Bernie Sanders, D, United States senators, Vermont, presidential campaign_
 
 ### [Scientists discover the first known dinosaur with membranous wings, ''Yi Qi''. ](/news/2015/04/29/scientists-discover-the-first-known-dinosaur-with-membranous-wings-yi-qi.md)
 _Context: Yi Qi_

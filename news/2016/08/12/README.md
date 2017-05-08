@@ -27,8 +27,5 @@ The ruling deepens the split in the party and disenfranchises almost 130,000 new
 ### [Scientists say Greenland sharks are now known to be the longest-living vertebrates on Earth, after researchers at the University of Copenhagen, using radiocarbon dating, determined the ages of 28 of the animals, and estimated that one female was about 400 years old. The former vertebrate record-holder was a Bowhead whale estimated to be 211 years old. ](/news/2016/08/12/scientists-say-greenland-sharks-are-now-known-to-be-the-longest-living-vertebrates-on-earth-after-researchers-at-the-university-of-copenhag.md)
 Scientists say they have found a Greenland shark that is about 400 years old - making it the longest-living vertebrate known.
 
-### [2016 Summer Olympics Singaporean swimmer Joseph Schooling defeats American swimmer Michael Phelps in the 100m butterfly event, attaining Singapore's first-ever Olympic gold; Schooling's winning time of 50.39 seconds is an Olympic, Asian, and national record. ](/news/2016/08/12/2016-summer-olympics-psingaporean-swimmer-joseph-schooling-defeats-american-swimmer-michael-phelps-in-the-100m-butterfly-event-attaining-si.md)
-_Context: 100m butterfly event, 2016 Summer Olympics, Asian, Joseph Schooling, Michael Phelps, Olympic, Singapore, Singaporean, national record, swimmer_
-
 ## [Previous Day...](/news/2016/08/11/index.md)
 

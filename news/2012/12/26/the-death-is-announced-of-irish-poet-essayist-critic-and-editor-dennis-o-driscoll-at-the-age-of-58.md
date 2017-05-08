@@ -11,5 +11,4 @@
 
 ### Related:
 
-1. [The funeral of Irish Gaelic football player Paidi O Se is to take place. ](/news/2012/12/18/the-funeral-of-irish-gaelic-football-player-pa-ida-a-sa-c-is-to-take-place.md) _Context: Irish_
-2. [ Abortion in Ireland: Three Irish women are taking the Government of Ireland to the European Court of Human Rights to challenge Ireland's constitutional ban on Abortion. ](/news/2005/08/11/abortion-in-ireland-three-irish-women-are-taking-the-government-of-ireland-to-the-european-court-of-human-rights-to-challenge-ireland-s-co.md) _Context: Irish_
+1. [ Abortion in Ireland: Three Irish women are taking the Government of Ireland to the European Court of Human Rights to challenge Ireland's constitutional ban on Abortion. ](/news/2005/08/11/abortion-in-ireland-three-irish-women-are-taking-the-government-of-ireland-to-the-european-court-of-human-rights-to-challenge-ireland-s-co.md) _Context: Irish_

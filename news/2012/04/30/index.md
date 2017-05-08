@@ -39,8 +39,5 @@ _Context: Sunni, Tariq al-Hashimi, Vice President_
 ### [Burmese opposition leader Aung San Suu Kyi says that a dispute over the wording of the oath of office has been resolved and that she and her colleagues from the National League for Democracy will attend parliament for the first time. ](/news/2012/04/30/burmese-opposition-leader-aung-san-suu-kyi-says-that-a-dispute-over-the-wording-of-the-oath-of-office-has-been-resolved-and-that-she-and-her.md)
 _Context: Aung San Suu Kyi, Burma, MP, National League for Democracy, opposition_
 
-### [In association football, Manchester City defeat Manchester United in what had been described as the biggest match in Premier League history. Vincent Kompany scores the winning goal to take City to the summit of the Premier League table with two games of the season left to play. ](/news/2012/04/30/in-association-football-manchester-city-defeat-manchester-united-in-what-had-been-described-as-the-biggest-match-in-premier-league-history.md)
-_Context: English Premier League, Manchester City, Manchester United, Vincent Kompany, association football, reigning_
-
 ## [Previous Day...](/news/2012/04/29/index.md)
 

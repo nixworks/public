@@ -18,14 +18,5 @@ Venezuelan cabinet ministers gather at the presidential palace to pray for the h
 ### [Research by study author Kerry O'Banion, of the University of Rochester Medical Center in Rochester, New York, announces that a particularly harmful type of space radiation may accelerate the development of Alzheimer's disease. ](/news/2012/12/31/research-by-study-author-kerry-o-banion-of-the-university-of-rochester-medical-center-in-rochester-new-york-announces-that-a-particularly.md)
 Space radiation exposure could accelerate Alzheimer&#039;s disease in the brains of astronauts, a new study suggests. A single two-year mission to Mars could be enough to create the effect, scientists say.
 
-### [Deportivo de La Coruna announces it has hired former Sporting Lisbon manager Domingos Paciencia to replace fired coach Jose Luis Oltra. ](/news/2012/12/31/deportivo-de-la-corua-a-announces-it-has-hired-former-sporting-lisbon-manager-domingos-paciaancia-to-replace-fired-coach-josa-c-luis-oltra.md)
-Having amassed just 12 points from their opening 17 games to lie bottom of the Liga, RC Deportivo La Coruña have brought in Domingos Paciência to replace José Luis Oltra as coach.
-
-### [In ice hockey, Team Canada wins 2012 Spengler Cup after a 7-2 win over HC Davos in the final. ](/news/2012/12/31/in-ice-hockey-team-canada-wins-2012-spengler-cup-after-a-7a2-win-over-hc-davos-in-the-final.md)
-_Context: 2012 Spengler Cup, HC Davos, Team Canada, ice hockey_
-
-### [Paris Saint-Germain defender Thiago Silva is awarded the 2012 Samba Gold trophy, a football award given to the best Brazilian footballer in Europe. ](/news/2012/12/31/paris-saint-germain-defender-thiago-silva-is-awarded-the-2012-samba-gold-trophy-a-football-award-given-to-the-best-brazilian-footballer-in.md)
-_Context: Brazil, Europe, Paris Saint-Germain, Samba Gold, Thiago Silva, association football, defender_
-
 ## [Previous Day...](/news/2012/12/30/index.md)
 

@@ -30,8 +30,5 @@ Politicians in Haiti reach an agreement to install a transitional government hou
 ### [The Parliament of Algeria considers a new constitution imposing term limits for the President and recognising Amazigh as an official language. ](/news/2016/02/7/the-parliament-of-algeria-considers-a-new-constitution-imposing-term-limits-for-the-president-and-recognising-amazigh-as-an-official-languag.md)
 _Context: Amazigh, Parliament of Algeria, term limits_
 
-### [In American football, the Denver Broncos defeat the Carolina Panthers 24-10 in Super Bowl 50. Broncos outside linebacker Von Miller is named as the game's Most Valuable Player.  ](/news/2016/02/7/in-american-football-the-denver-broncos-defeat-the-carolina-panthers-24a10-in-super-bowl-50-broncos-outside-linebacker-von-miller-is-nam.md)
-_Context: American football, Carolina Panthers, Denver Broncos, Super Bowl 50, Von Miller, outside linebacker, the game's Most Valuable Player_
-
 ## [Previous Day...](/news/2016/02/6/index.md)
 

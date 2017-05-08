@@ -27,15 +27,5 @@ Former pop star Gary Glitter is released on bail after being arrested on suspici
 ### [The Euromillions lottery website is hacked; its homepage is replaced by a Quran passage which condemns gambling. ](/news/2012/10/28/the-euromillions-lottery-website-is-hacked-its-homepage-is-replaced-by-a-quran-passage-which-condemns-gambling.md)
 The French site of the Euromillions lottery is hacked, with a passage from the Koran discouraging gambling posted on its homepage.
 
-### [Chelsea lose their unbeaten league record against Manchester United as Manchester United wins 3-2 at Stamford Bridge. Referee Mark Clattenburg sends off Branislav Ivanovic and Fernando Torres. In addition, Javier Hernandez is pelted with objects after scoring the winning goal, a steward is injured and hospitalized, and Chelsea issue a formal complaint to the Premier League over the referee's alleged racial abuse of several players, including Mikel John Obi. ](/news/2012/10/28/chelsea-lose-their-unbeaten-league-record-against-manchester-united-as-manchester-united-wins-3-2-at-stamford-bridge-referee-mark-clattenbu.md)
-Chelsea make a formal complaint against referee Mark Clattenburg, alleging he used racial language against a player.
-
-### [In Formula One racing, Sebastian Vettel wins the 2012 Indian Grand Prix, with Fernando Alonso and Mark Webber in second and third place. ](/news/2012/10/28/in-formula-one-racing-sebastian-vettel-wins-the-2012-indian-grand-prix-with-fernando-alonso-and-mark-webber-in-second-and-third-place.md)
-Sebastian Vettel dominates the Indian GP to take a fourth win in a row and extend his title lead over Fernando Alonso.
-
-### [In Major League Baseball, the San Francisco Giants defeat the Detroit Tigers in game four of the 2012 World Series, sweeping the Tigers and winning their second World Series in three years. Pablo Sandoval is named World Series MVP. ](/news/2012/10/28/in-major-league-baseball-the-san-francisco-giants-defeat-the-detroit-tigers-in-game-four-of-the-2012-world-series-sweeping-the-tigers-and.md)
-Marco Scutaro singled home the tiebreaking run in the 10th inning, and the Giants beat the Tigers 4-3 on Sunday night to complete a four-game sweep and win their second World Series title in three years.
-
-### [Jose Isaac Guardado](/news/2012/10/28/jose-isaac-guardado.md)
 ## [Previous Day...](/news/2012/10/27/index.md)
 

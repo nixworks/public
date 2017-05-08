@@ -10,7 +10,7 @@ The Sony hackers story has taken a serious turn. A message from the Guardians of
 _Context: Repsol, Talisman Energy, United States dollars_
 
 ### [The United States and Cuba re-establish diplomatic relations after severing them 55 years ago. An American embassy will open in Havana and talks to lift the embargo will begin. ](/news/2014/12/17/the-united-states-and-cuba-re-establish-diplomatic-relations-after-severing-them-55-years-ago-an-american-embassy-will-open-in-havana-and-t.md)
-_Context: American embassy, Cuba, Cuba-United States relations, Havana, U.S., United States embargo against Cuba_
+_Context: American embassy, Cuba, Cuba-United States relations, Havana, United States, United States embargo against Cuba_
 
 ### [The European Union removes Hamas from its list of terrorist organizations. ](/news/2014/12/17/the-european-union-removes-hamas-from-its-list-of-terrorist-organizations.md)
 The EU General Court has ordered that the Palestinian militant group Hamas be removed from the bloc’s terror blacklist. The move comes over four years after Hamas appealed its terror designation before the EU.
@@ -23,9 +23,6 @@ _Context: Framingham, Mass., New England Compounding Center, meningitis, outbrea
 
 ### [The Parliament of Greece fails to elect a new president in the first round of voting. ](/news/2014/12/17/the-parliament-of-greece-fails-to-elect-a-new-president-in-the-first-round-of-voting.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
-
-### [FIFA's independent ethics investigator Michael J. Garcia resigns from that position in protest over the organization's handling of his compiled report on corruption allegations in connection with the bidding process for the 2018 and 2022 FIFA World Cups. ](/news/2014/12/17/fifa-s-independent-ethics-investigator-michael-j-garcia-resigns-from-that-position-in-protest-over-the-organization-s-handling-of-his-compi.md)
-_Context: 2018, 2022 FIFA World Cup, FIFA, Michael J. Garcia, World Cup, his compiled report on corruption allegations_
 
 ## [Previous Day...](/news/2014/12/16/index.md)
 

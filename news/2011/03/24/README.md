@@ -49,7 +49,7 @@ A British man dubbed the Night Stalker has been convicted of being one of the mo
 _Context: Oxfordshire, Sian O'Callaghan, Swindon, Wiltshire_
 
 ### [Two girls (11 and 8 years old) were brutally murdered in their home in Krailling, Bavaria (Germany). ](/news/2011/03/24/two-girls-11-and-8-years-old-were-brutally-murdered-in-their-home-in-krailling-bavaria-germany.md)
-_Context: Bavaria, Germany, Krailling, two girls_
+_Context: Bavaria, German, Krailling, two girls_
 
 ### [European Council ](/news/2011/03/24/european-council.md)
 ### [Moriarty Tribunal in Ireland:Former government minister Michael Lowry refuses to resign the seat he recently claimed back in Dail Eireann in the aftermath of the Moriarty Tribunal's findings that he assisted billionaire businessman Denis O'Brien "beyond doubt" in gaining a mobile phone license for Esat Digifone, in actions judged "disgraceful and insidious" by the tribunal. Taoiseach Enda Kenny admits Fine Gael accepted a donation worth thousands of dollars from Esat at the time. ](/news/2011/03/24/moriarty-tribunal-in-ireland-pformer-government-minister-michael-lowry-refuses-to-resign-the-seat-he-recently-claimed-back-in-da-il-aireann.md)

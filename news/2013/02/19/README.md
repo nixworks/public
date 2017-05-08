@@ -10,7 +10,7 @@ _Context: February 2013 Quetta bombing, Pakistan, Pakistani police, War in North
 A Yemeni air force plane crashed in the capital Sanaa on Tuesday, killing at least 12 people, security sources said.
 
 ### [Two people are missing and at least 14 injured after a car struck a gas main causing an explosion at the Country Club Plaza in the American city of Kansas City, Missouri. ](/news/2013/02/19/two-people-are-missing-and-at-least-14-injured-after-a-car-struck-a-gas-main-causing-an-explosion-at-the-country-club-plaza-in-the-american.md)
-_Context: Country Club Plaza, Kansas City, Missouri, U.S._
+_Context: Country Club Plaza, Kansas City, Missouri, United States_
 
 ### [European sovereign-debt crisis: Workers for the Spanish  flag carrier airline Iberia strike over plans to axe 3,807 jobs. ](/news/2013/02/19/european-sovereign-debt-crisis-workers-for-the-spanish-flag-carrier-airline-iberia-strike-over-plans-to-axe-3-807-jobs.md)
 _Context: European sovereign-debt crisis, Iberia, Spain, commercial air traffic, flag carrier_
@@ -28,13 +28,13 @@ An overwhelming percentage of the attacks on American companies and government a
 North Korea has been criticised for remarks about the &quot;final destruction&quot; of South Korea made during a UN debate on disarmament
 
 ### [A one-man carjacking and shooting spree in Orange County, California, United States, results in the death of 4 people including the alleged gunman. ](/news/2013/02/19/a-one-man-carjacking-and-shooting-spree-in-orange-county-california-united-states-results-in-the-death-of-4-people-including-the-alleged.md)
-_Context: California, Orange County, U.S., shooting spree_
+_Context: California, Orange County, United States, shooting spree_
 
 ### [A memorial service is held for South African Reeva Steenkamp, who was shot dead at the home of athlete Oscar Pistorius last week. Pistorius faced murder hearings. ](/news/2013/02/19/a-memorial-service-is-held-for-south-african-reeva-steenkamp-who-was-shot-dead-at-the-home-of-athlete-oscar-pistorius-last-week-pistorius.md)
 Adam Steenkamp, the brother of Reeva Steenkamp, says her family wants to remember his sister and &quot;all the goodness that she stood for&quot;, as her memorial service takes place on Tuesday. Athlete Oscar Pistorius denies a charge of pre-meditated murder.
 
 ### [The City Hall of the Canadian city of Montreal is shut down as the Quebec police conduct anti-corruption raids. ](/news/2013/02/19/the-city-hall-of-the-canadian-city-of-montreal-is-shut-down-as-the-quebec-police-conduct-anti-corruption-raids.md)
-_Context: Canada, City Hall, Quebec police, anti-corruption, city of Montreal_
+_Context: Canada, City Hall, Montreal, Quebec police, anti-corruption_
 
 ### [Christine Milne, the leader of The Australian Greens, announces that the party has ended its agreement with the Australian Labor Party which led to the formation of the minority government led by Prime Minister Julia Gillard. ](/news/2013/02/19/christine-milne-the-leader-of-the-australian-greens-announces-that-the-party-has-ended-its-agreement-with-the-australian-labor-party-which.md)
 _Context: Christine Milne, Julia Gillard, Labor Party, Prime Minister of Australia, The Australian Greens_
@@ -56,15 +56,6 @@ Dr. Richardson’s prize-winning work involved cooling helium to liquid form, a 
 
 ### [NASA loses direct contact with the International Space Station due to an equipment failure. Communications are restored three hours later. ](/news/2013/02/19/nasa-loses-direct-contact-with-the-international-space-station-due-to-an-equipment-failure-communications-are-restored-three-hours-later.md)
 The International Space Station lost contact with NASA&#039;s Mission Control center in Houston Tuesday (Feb. 19). Engineers are scrambling to restore contact while using a Russian link as a backup.
-
-### [2012-13 UEFA Champions League:FC Bayern Munich puts themselves in a strong position to reach the quarterfinals with a 3-1 away victory at Arsenal F.C. in London, England. ](/news/2013/02/19/2012a13-uefa-champions-league-pfc-bayern-munich-puts-themselves-in-a-strong-position-to-reach-the-quarterfinals-with-a-3a1-away-victory.md)
-Arsenal face a huge task to qualify for the Champions League quarter-finals after losing 3-1 to Bayern Munich.
-
-### [In a widening doping scandal, an ESPN report links five additional Major League Baseball players to the purchase of performance-enhancing drugs from the Biogenesis anti-aging clinic in Miami. The report indicates that Gio Gonzalez, previously linked to PED purchases from Biogenesis, did not receive any banned substances from the clinic. ](/news/2013/02/19/in-a-widening-doping-scandal-an-espn-report-links-five-additional-major-league-baseball-players-to-the-purchase-of-performance-enhancing-dr.md)
-Five more professional baseball players have connections to a South Florida clinic at the heart of a widening doping scandal, according to documents obtained by &quot;Outside the Lines.&quot;
-
-### [In ice hockey, the National Hockey League's Chicago Blackhawks defeat the Vancouver Canucks in a shooutout for the Blackhawks' sixteenth consecutive game without a regulation loss to start the 2012-13 NHL season, tying the 2006-07 Anaheim Ducks' record. Blackhawks forward Marian Hossa is forced to leave the game after being struck in the back of the head by Canucks forward Jannik Hansen. ](/news/2013/02/19/in-ice-hockey-the-national-hockey-league-s-chicago-blackhawks-defeat-the-vancouver-canucks-in-a-shooutout-for-the-blackhawks-sixteenth-con.md)
-The Chicago Blackhawks beat the Vancouver Canucks 4-3 on Tuesday night to match the NHL record for season-opening point streak.
 
 ## [Previous Day...](/news/2013/02/18/index.md)
 

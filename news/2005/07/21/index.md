@@ -31,7 +31,7 @@ _Context: Moroccan, Western Sahara_
 _Context: Aceh, Susilo Bambang Yudhoyono_
 
 ### [ In Mexico, police are looking for kidnapped soccer coach Omar Romano. ](/news/2005/07/21/in-mexico-police-are-looking-for-kidnapped-soccer-coach-omar-romano.md)
-_Context: Omar Romano, football_
+_Context: Omar Romano, soccer_
 
 ### [ In Rwanda, gacaca court investigating the Rwandan genocide summons Thaddee Ntihinyurwa, head of the Catholic Church in the country, to testify. ](/news/2005/07/21/in-rwanda-gacaca-court-investigating-the-rwandan-genocide-summons-thaddee-ntihinyurwa-head-of-the-catholic-church-in-the-country-to-test.md)
 _Context: Catholic Church, Rwanda, Rwandan Genocide, Thaddee Ntihinyurwa, gacaca_

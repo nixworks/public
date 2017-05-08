@@ -54,20 +54,5 @@ NASA plans to crash a pair of small robotic science probes into the moon next we
 ### [The Large Hadron Collider completes the first proton run and stops today for renovation until 2015. ](/news/2012/12/17/the-large-hadron-collider-completes-the-first-proton-run-and-stops-today-for-renovation-until-2015.md)
 _Context: Large Hadron Collider, proton_
 
-### [Tennis player Roger Federer and triathlete Nicola Spirig are awarded the 2012 Swiss Sports Personality of the Year. ](/news/2012/12/17/tennis-player-roger-federer-and-triathlete-nicola-spirig-are-awarded-the-2012-swiss-sports-personality-of-the-year.md)
-_Context: Nicola Spirig, Roger Federer, Swiss Sports Personality of the Year, tennis, triathlete_
-
-### [Discus thrower Robert Harting and retired biathlete Magdalena Neuner are named as 2012 German Sportspersonality of the Year. ](/news/2012/12/17/discus-thrower-robert-harting-and-retired-biathlete-magdalena-neuner-are-named-as-2012-german-sportspersonality-of-the-year.md)
-_Context: Discus throw, German Sportspersonality of the Year, Magdalena Neuner, Robert Harting, biathlon_
-
-### [Mourners attend the home of Gaelic football legend Paidi O Se who died suddenly. ](/news/2012/12/17/mourners-attend-the-home-of-gaelic-football-legend-pa-ida-a-sa-c-who-died-suddenly.md)
-_Context: Gaelic football, Paidi O Se_
-
-### [In Serie A, Siena appoints former Sampdoria boss Giuseppe Iachini as their new coach after dismissing Serse Cosmi. Also Sampdoria sacks coach Ciro Ferrara after five months in charge on and replaces him with former Lazio and Palermo boss Delio Rossi. ](/news/2012/12/17/in-serie-a-siena-appoints-former-sampdoria-boss-giuseppe-iachini-as-their-new-coach-after-dismissing-serse-cosmi-also-sampdoria-sacks-coac.md)
-UC Sampdoria have replaced coach Ciro Ferrara with Delio Rossi following their 3-1 defeat at Calcio Catania on Sunday, while Serse Cosmi has left bottom club AC Siena.
-
-### [Brazil opens Castelao in Fortaleza, the first of 12 stadiums being built or extensively renovated to host the 2014 FIFA World Cup. ](/news/2012/12/17/brazil-opens-castelapso-in-fortaleza-the-first-of-12-stadiums-being-built-or-extensively-renovated-to-host-the-2014-fifa-world-cup.md)
-Brazilian President Dilma Rousseff inaugurates the Castelao Arena in Fortaleza, the first of 12 stadiums being renovated or built for the 2014 Fifa World Cup.
-
 ## [Previous Day...](/news/2012/12/16/index.md)
 

@@ -37,7 +37,7 @@ Two apartment buildings collapsed in the southeastern Italian town of Conversano
 _Context: Bolivia, La Paz, ravine_
 
 ### [A small Pilatus PC-12/47 aircraft crashes in a remote rural area of Florida in the Tiger Creek Swamp area near Lake Wales, Florida, southeast of Lakeland, Florida in the central portion of the state.  The airplane began to break up at around 26,000 feet in southeastern Polk County, Florida. ](/news/2012/06/7/a-small-pilatus-pc-12-47-aircraft-crashes-in-a-remote-rural-area-of-florida-in-the-tiger-creek-swamp-area-near-lake-wales-florida-southeas.md)
-_Context: FL, Lake Wales, Florida, Lakeland, Florida, Pilatus PC-12/47, Polk County, Florida, Tiger Creek Swamp_
+_Context: Florida, Lake Wales, Florida, Lakeland, Florida, Pilatus PC-12/47, Polk County, Florida, Tiger Creek Swamp_
 
 ### [CIA director David Petraeus makes an unofficial visit to Bulgaria, meeting the president and prime minister. ](/news/2012/06/7/cia-director-david-petraeus-makes-an-unofficial-visit-to-bulgaria-meeting-the-president-and-prime-minister.md)
 _Context: Bulgaria, Central Intelligence Agency, David Petraeus_
@@ -49,7 +49,7 @@ Washington is losing patience with Pakistan over alleged safe havens for Taliban
 _Context: Ariel Attias, Beit El, Benjamin Netanyahu, Israel, West Bank_
 
 ### [UK government ministers announce their intention to boycott group games involving the England national football team at UEFA Euro 2012 in Ukraine. ](/news/2012/06/7/uk-government-ministers-announce-their-intention-to-boycott-group-games-involving-the-england-national-football-team-at-uefa-euro-2012-in-uk.md)
-_Context: England national football team, UEFA Euro 2012, Ukrainian_
+_Context: England, UEFA Euro 2012, Ukrainian_
 
 ### [An Israeli court paves the way for the deportation of hundreds of illegal South Sudanese migrants, despite opposition to the move from human rights groups. ](/news/2012/06/7/an-israeli-court-paves-the-way-for-the-deportation-of-hundreds-of-illegal-south-sudanese-migrants-despite-opposition-to-the-move-from-human.md)
 Interior minister welcomes decision, calls it first step in expelling the remaining African &#8216;infiltrators&#8217;
@@ -59,12 +59,6 @@ _Context: Golden Dawn_
 
 ### [UK Labour leader Ed Miliband claims that so-called "Englishness" is being overlooked in the debate about Scottish independence, though he rejects calls for an English Parliament. ](/news/2012/06/7/uk-labour-leader-ed-miliband-claims-that-so-called-englishness-is-being-overlooked-in-the-debate-about-scottish-independence-though-he-re.md)
 Ed Miliband urges Labour to be positive about English identity - but rejects calls for an English Parliament.
-
-### [Football coach Manuel Preciado Rebolledo, due to be unveiled as the new Villarreal manager on Friday, is found dead from a heart attack at the age of 54. ](/news/2012/06/7/football-coach-manuel-preciado-rebolledo-due-to-be-unveiled-as-the-new-villarreal-manager-on-friday-is-found-dead-from-a-heart-attack-at-t.md)
-_Context: Manuel Preciado Rebolledo, Villarreal, heart attack_
-
-### [Usain Bolt triumphs in the 100m in Oslo in a time of 9.79 seconds. ](/news/2012/06/7/usain-bolt-triumphs-in-the-100m-in-oslo-in-a-time-of-9-79-seconds.md)
-Usain Bolt is pushed all the way in the 100m before powering home to take victory at the Diamond League in Oslo in 9.79 seconds.
 
 ## [Previous Day...](/news/2012/06/6/index.md)
 

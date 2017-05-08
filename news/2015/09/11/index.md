@@ -13,7 +13,7 @@ _Context: Iraqi Kurdistan, PKK, Turkey-PKK conflict, Turkish_
 _Context: 2015 Burundian unrest, Bujumbura, Burundi, assassinated_
 
 ### [Britney Spears announces a two-year extension in performing ''Britney: Piece of Me'' on the Las Vegas Strip. ](/news/2015/09/11/britney-spears-announces-a-two-year-extension-in-performing-britney-piece-of-me-on-the-las-vegas-strip.md)
-_Context: Britney Spears, Britney: Piece of Me, Las Vegas, Nevada_
+_Context: Britney Spears, Britney: Piece of Me, Las Vegas Strip_
 
 ### [At least three people die, 27 are injured, and 26 people are missing, the majority of them in and around Joso city in Ibaraki Prefecture, as a result of floods and landslides in Japan after heavy rainfall caused by Tropical Storm Etau. ](/news/2015/09/11/at-least-three-people-die-27-are-injured-and-26-people-are-missing-the-majority-of-them-in-and-around-jasa-city-in-ibaraki-prefecture.md)
 Floods that swept housesoff their foundations and crushed others under landslides spreadacross Japan on Friday as more rivers burst their banks, leavingat least 25 people missing and forcing more than 100,000 toflee.

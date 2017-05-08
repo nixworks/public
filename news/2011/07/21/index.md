@@ -45,11 +45,5 @@ _Context: Central Bank of Iran_
 ### [Space Shuttle Atlantis lands at the Kennedy Space Center, concluding its final mission and marking the end of the 30-year Space Shuttle program. ](/news/2011/07/21/space-shuttle-atlantis-lands-at-the-kennedy-space-center-concluding-its-final-mission-and-marking-the-end-of-the-30-year-space-shuttle-prog.md)
 Soaring across the predawn haze, the space shuttle Atlantis glided back to Earth early Thursday -- capping a 30-year program that saw hundreds of astronauts go into space.
 
-### [Team owners in the National Football League have voted to approve a 10-year deal with the National Football League Players Association and to end a lockout if players approve. ](/news/2011/07/21/team-owners-in-the-national-football-league-have-voted-to-approve-a-10-year-deal-with-the-national-football-league-players-association-and-t.md)
-The league and players are divided over how long it would take the players to re-form their union.
-
-### [The 2000th match in the history of Test Cricket starts at Lord's Cricket Ground in London between England and India. ](/news/2011/07/21/the-2000th-match-in-the-history-of-test-cricket-starts-at-lord-s-cricket-ground-in-london-between-england-and-india.md)
-_Context: England, Indian, London, Lord's Cricket Ground, test cricket_
-
 ## [Previous Day...](/news/2011/07/20/index.md)
 

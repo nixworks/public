@@ -7,7 +7,7 @@ _Context: Kenya, Somalia_
 _Context: Ja'ar, Yemen_
 
 ### [Officials in Kenya say that two Iranian Islamic Revolutionary Guards arrested with explosives planned to attack Israeli, American, British and Saudi Arabian targets inside Kenya. ](/news/2012/07/2/officials-in-kenya-say-that-two-iranian-islamic-revolutionary-guards-arrested-with-explosives-planned-to-attack-israeli-american-british-a.md)
-_Context: Iran, Islamic Revolutionary Guards, Israelis, Kenya, Saudi Arabian, U.S., United Kingdom_
+_Context: Iran, Islamic Revolutionary Guards, Israelis, Kenya, Saudi Arabian, United Kingdom, United States_
 
 ### [Finland says it will block the euro zone's permanent bailout fund (ESM) from buying government bonds in the open market, while The Netherlands also indicates opposition to the bond-buying idea. ](/news/2012/07/2/finland-says-it-will-block-the-euro-zone-s-permanent-bailout-fund-esm-from-buying-government-bonds-in-the-open-market-while-the-netherlan.md)
 _Context: Finland, Netherlands_
@@ -43,7 +43,7 @@ Four staff members from the International Criminal Court held in Libya for four 
 Ichiro Ozawa and his faction resign from the ruling Democratic Party of Japan, amid a bitter row over the sales tax rise.
 
 ### [The head of Germany's domestic intelligence agency, Heinz Fromm, resigns due to a series of blunders in an investigation about a neo-Nazi cell. ](/news/2012/07/2/the-head-of-germany-s-domestic-intelligence-agency-heinz-fromm-resigns-due-to-a-series-of-blunders-in-an-investigation-about-a-neo-nazi-ce.md)
-_Context: Germany, Heinz Fromm, neo-nazi_
+_Context: German, Heinz Fromm, neo-nazi_
 
 ### [Miguel Angel Mancera wins the 2012 Mexico City head of state (mayoral) election. ](/news/2012/07/2/miguel-angel-mancera-wins-the-2012-mexico-city-head-of-state-mayoral-election.md)
 _Context: Mexico City, Miguel Angel Mancera, head of state (mayoral) election_

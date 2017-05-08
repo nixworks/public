@@ -16,7 +16,7 @@ A state of emergency is declared in Ecuador after President Rafael Correa accuse
 _Context: Afghanistan, NATO, Pakistan, Sindh province, convoy, fuel tanker_
 
 ### [US actor Tony Curtis, who appeared in more than 100 films including ''Some Like It Hot'' and ''The Defiant Ones'', dies in Henderson, Nevada. ](/news/2010/09/30/us-actor-tony-curtis-who-appeared-in-more-than-100-films-including-some-like-it-hot-and-the-defiant-ones-dies-in-henderson-nevada.md)
-_Context: Henderson, Nevada, Some Like It Hot, The Defiant Ones, Tony Curtis, U.S._
+_Context: Henderson, Nevada, Some Like It Hot, The Defiant Ones, Tony Curtis, United States_
 
 ### [The International Monetary Fund calls for tighter regulation of credit rating agencies. ](/news/2010/09/30/the-international-monetary-fund-calls-for-tighter-regulation-of-credit-rating-agencies.md)
 Credit rating agencies should improve their procedures, says the International Monetary Fund.
@@ -28,10 +28,10 @@ _Context: Indonesia, Papua, earthquake_
 _Context: Dhaulagiri, Himalayan, Japan, Nepal, mountain climbers_
 
 ### [Heavy rain from former Tropical Storm Nicole causes flooding the US states of North Carolina and Virginia and delays in airline flights on the east coast. ](/news/2010/09/30/heavy-rain-from-former-tropical-storm-nicole-causes-flooding-the-us-states-of-north-carolina-and-virginia-and-delays-in-airline-flights-on-t.md)
-_Context: East Coast of the United States, North Carolina, Tropical Storm Nicole, U.S., Virginia_
+_Context: East Coast of the United States, North Carolina, Tropical Storm Nicole, United States, Virginia_
 
 ### [The United States imposes sanctions on a Swiss-based Iranian oil company, the Naftiran Inter-trade Company. ](/news/2010/09/30/the-united-states-imposes-sanctions-on-a-swiss-based-iranian-oil-company-the-naftiran-inter-trade-company.md)
-_Context: Iran, Naftiran Inter-trade Company, U.S._
+_Context: Iran, Naftiran Inter-trade Company, United States_
 
 ### [The first inter-Korean military talks between North and South Korea in two years end without progress. ](/news/2010/09/30/the-first-inter-korean-military-talks-between-north-and-south-korea-in-two-years-end-without-progress.md)
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews
@@ -71,9 +71,6 @@ A ban on wearing the full Islamic veil in the Netherlands will be proposed if a 
 
 ### [China's state-run Xinhua News Agency reports that the computer worm Stuxnet has affected 6&nbsp;million computers and almost 1,000 enterprises in the country. ](/news/2010/09/30/china-s-state-run-xinhua-news-agency-reports-that-the-computer-worm-stuxnet-has-affected-6-nbsp-million-computers-and-almost-1-000-enterpris.md)
 The Stuxnet computer worm has wreaked havoc in China, infecting millions of computers around the country, state media reported this week.
-
-### [The International Cycling Union provisionally suspends Spanish cyclist Alberto Contador, the current Tour de France champion, after he was found to have tested positive for a small amount of clenbuterol, a banned substance, on July 21. He blames food contamination for the positive sample.](/news/2010/09/30/the-international-cycling-union-provisionally-suspends-spanish-cyclist-alberto-contador-the-current-tour-de-france-champion-after-he-was-f.md)
-Tour de France champion Alberto Contador has tested positive to a banned substance in news that will send shockwaves through the cycling world.
 
 ## [Previous Day...](/news/2010/09/29/index.md)
 

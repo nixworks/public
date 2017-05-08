@@ -66,17 +66,5 @@ _Context: Italian, Maundy Thursday, Pope Francis, Rome, juvenile detention centr
 ### [American bioengineers at Stanford University build a transistor-like transcriptor out of DNA and RNA molecules. ](/news/2013/03/28/american-bioengineers-at-stanford-university-build-a-transistor-like-transcriptor-out-of-dna-and-rna-molecules.md)
 Transistors are the basic building blocks of electronics; now they can be made with living cells. -&gt;
 
-### [Football Against Racism in Europe (FARE), a pan-European anti-racism group, reports England's football fans to FIFA over racist chants roared throughout last Friday's World Cup qualifying match in San Marino. Among the chants were songs referring to the IRA and Second World War and a ditty calling for Anton and Rio Ferdinand to be tossed on a bonfire. England face a heavy fine as punishment and the prospect of further sanctions, such as playing qualifiers behind closed doors. ](/news/2013/03/28/football-against-racism-in-europe-fare-a-pan-european-anti-racism-group-reports-england-s-football-fans-to-fifa-over-racist-chants-roare.md)
-_Context: Anton, England national football team, FIFA, Football Against Racism in Europe, IRA, Rio Ferdinand, San Marino, World Cup qualifying, World War II_
-
-### [New Zealand cricketer Jesse Ryder is in a critical condition in hospital, after being severely beaten as he left a bar in Christchurch. ](/news/2013/03/28/new-zealand-cricketer-jesse-ryder-is-in-a-critical-condition-in-hospital-after-being-severely-beaten-as-he-left-a-bar-in-christchurch.md)
-_Context: Christchurch, Cricket, Jesse Ryder, New Zealand_
-
-### [American race car driver Denny Hamlin has a compression fracture in his back resulting from a crash on March 24. ](/news/2013/03/28/american-race-car-driver-denny-hamlin-has-a-compression-fracture-in-his-back-resulting-from-a-crash-on-march-24.md)
-_Context: Denny Hamlin, U.S., compression fracture, race car_
-
-### [A judge allows South African sprint runner Oscar Pistorius to travel abroad to compete in games if he complies with certain conditions. ](/news/2013/03/28/a-judge-allows-south-african-sprint-runner-oscar-pistorius-to-travel-abroad-to-compete-in-games-if-he-complies-with-certain-conditions.md)
-South African athlete Oscar Pistorius, facing a murder charge, can travel overseas to compete under certain conditions, after contesting bail terms.
-
 ## [Previous Day...](/news/2013/03/27/index.md)
 

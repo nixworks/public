@@ -27,8 +27,5 @@ _Context: Iran, Royal Navy, UK, held captive by Iran_
 ### [ Up to 10,000 people protest in Minsk against President of Belarus Alexander Lukashenko. ](/news/2007/03/25/up-to-10-000-people-protest-in-minsk-against-president-of-belarus-alexander-lukashenko.md)
 _Context: Alexander Lukashenko, Belarussian President, Minsk_
 
-### [ Donald Tsang wins a second term as the Chief Executive of Hong Kong in the city's first contested race. ](/news/2007/03/25/donald-tsang-wins-a-second-term-as-the-chief-executive-of-hong-kong-in-the-city-s-first-contested-race.md)
-_Context: Chief Executive, Donald Tsang_
-
 ## [Previous Day...](/news/2007/03/24/index.md)
 

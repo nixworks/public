@@ -43,7 +43,7 @@ _Context: Fukushima I Nuclear Power Plant, Tokyo Electric Power Company, yen_
 Three days of severe storms leave 24 people dead in the US south, with the Carolinas the latest states to suffer as they move east.
 
 ### [Wildfires in Texas, United States destroy dozens of homes and kill a firefighter. ](/news/2011/04/15/wildfires-in-texas-united-states-destroy-dozens-of-homes-and-kill-a-firefighter.md)
-_Context: Texas, U.S._
+_Context: Texas, United States_
 
 ### [Former Australian water polo player Keli Lane is jailed for 18 years for murdering her baby daughter Tegan Lane in 1996. ](/news/2011/04/15/former-australian-water-polo-player-keli-lane-is-jailed-for-18-years-for-murdering-her-baby-daughter-tegan-lane-in-1996.md)
 _Context: Australia, Keli Lane, water polo_
@@ -74,9 +74,6 @@ _Context: Obama, Paul Ryan_
 
 ### [Researchers in Japan and Australia successfully teleport wave packets of light, the first transfer of quantum information from one point to another in a Schrodinger's cat experiment. ](/news/2011/04/15/researchers-in-japan-and-australia-successfully-teleport-wave-packets-of-light-the-first-transfer-of-quantum-information-from-one-point-to.md)
 Researchers from Australia and Japan have successfully teleported wave packets of light, potentially revolutionising quantum communications and computing.
-
-### [US health officials report that 21 players on 13 National Basketball Association teams were sickened with the novovirus  stomach virus last fall including Dwight Howard of the Orlando Magic. ](/news/2011/04/15/us-health-officials-report-that-21-players-on-13-national-basketball-association-teams-were-sickened-with-the-novovirus-stomach-virus-last.md)
-_Context: Dwight Howard, NBA, Orlando Magic, novovirus_
 
 ## [Previous Day...](/news/2011/04/14/index.md)
 

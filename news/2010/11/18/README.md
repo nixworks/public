@@ -40,7 +40,7 @@ _Context: Julian Assange, Marianne Ny, Sweden, WikiLeaks, prosecutor_
 A woman in China is sentenced to a year in a labour camp after posting a message on the social networking website Twitter.
 
 ### [Australia deports Gabe Watson to face trial in the US state of Alabama for the alleged murder of his wife Tina. ](/news/2010/11/18/australia-deports-gabe-watson-to-face-trial-in-the-us-state-of-alabama-for-the-alleged-murder-of-his-wife-tina.md)
-_Context: Alabama, Australia, U.S., death of his newlywed wife Tina_
+_Context: Alabama, Australia, United States, death of his newlywed wife Tina_
 
 ### [Japanese police arrest Kiyoshi Takayama, the number two gangster in the Yamaguchi-gumi yakuza group in Kobe. ](/news/2010/11/18/japanese-police-arrest-kiyoshi-takayama-the-number-two-gangster-in-the-yamaguchi-gumi-yakuza-group-in-kobe.md)
 _Context: Japanese police, Kiyoshi Takayama, Kobe, Yamaguchi-gumi, yakuza_
@@ -65,9 +65,6 @@ Scientists at Idaho State University map out a new, active seismic fault in the 
 
 ### [A planet, HIP 13044 b, which was formed in another galaxy has been discovered in the Helmi Stream. ](/news/2010/11/18/a-planet-hip-13044-b-which-was-formed-in-another-galaxy-has-been-discovered-in-the-helmi-stream.md)
 Astronomers claim to have discovered the first planet originating from outside our own galaxy, the Milky Way.
-
-### [FIFA bans executive committee members Amos Adamu and Reynald Temarii following claims of corruption associated with the 2018 and 2022 FIFA World Cup bids. ](/news/2010/11/18/fifa-bans-executive-committee-members-amos-adamu-and-reynald-temarii-following-claims-of-corruption-associated-with-the-2018-and-2022-fifa-w.md)
-_Context: 2018 and 2022 FIFA World Cup bids, Amos Adamu, FIFA, Reynald Temarii_
 
 ## [Previous Day...](/news/2010/11/17/index.md)
 

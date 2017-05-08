@@ -7,10 +7,10 @@ _Context: Gay rights in Russia, Moscow, Russia, Yuri Luzhkov, gay pride parade, 
 _Context: Bhutan, Nepal, United Nations, asylum seeker_
 
 ### [ Auto racing: Scotland's Dario Franchitti wins the rain-shortened 91st Indianapolis 500. ](/news/2007/05/27/auto-racing-scotland-s-dario-franchitti-wins-the-rain-shortened-91st-indianapolis-500.md)
-_Context: 91st Indianapolis 500, Dario Franchitti, Scotland, auto racing, rain_
+_Context: 91st Indianapolis 500, Dario Franchitti, Scotland, automobile racing, rain_
 
 ### [ Iraq War: United States forces rescue 42 Iraqis from an al-Qaeda hideout northeast of Baghdad with some captives showing signs of torture. ](/news/2007/05/27/iraq-war-united-states-forces-rescue-42-iraqis-from-an-al-qaeda-hideout-northeast-of-baghdad-with-some-captives-showing-signs-of-torture.md)
-_Context: Baghdad, Iraq, Iraq War, U.S., al-Qaeda in Iraq, military, torture_
+_Context: Baghdad, Iraq, Iraq War, United States, al-Qaeda in Iraq, military, torture_
 
 ### [ China claims all gold and silver medals in the Table Tennis World Championships in Zagreb, Croatia. ](/news/2007/05/27/china-claims-all-gold-and-silver-medals-in-the-table-tennis-world-championships-in-zagreb-croatia.md)
 _Context: China, Croatia, Table Tennis, Zagreb_

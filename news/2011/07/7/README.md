@@ -61,7 +61,7 @@ Rodrick Dantzler, 34, fatally shot himself after an hours-long standoff, manhunt
 _Context: Mexican, Texas, international law_
 
 ### [Casey Anthony is sentenced to four years for lying to law enforcement regarding the death of her child Caylee in the U.S. state of Florida but after credit for time served will be released on July 17. ](/news/2011/07/7/casey-anthony-is-sentenced-to-four-years-for-lying-to-law-enforcement-regarding-the-death-of-her-child-caylee-in-the-u-s-state-of-florida-b.md)
-_Context: Casey Anthony, FL_
+_Context: Casey Anthony, Florida_
 
 ### [A general strike continues in Bangladesh over a proposed change to the electoral system. ](/news/2011/07/7/a-general-strike-continues-in-bangladesh-over-a-proposed-change-to-the-electoral-system.md)
 Riot police patrolled the streets to break up opposition protests in Dhaka and elsewhere in Bangladesh on Wednesday as opposition parties began a 48-hour general strike protesting a government move to change the electoral system

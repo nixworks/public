@@ -31,7 +31,7 @@ _Context: Nigeria, Suleja_
 China confirms the detained artist, Ai Weiwei, is being investigated for &quot;economic crimes&quot; as another activist alleges he was tortured while in jail.
 
 ### [Politicians in Montreal call for French rock star Bertrand Cantat to be denied entry after Theatre du Nouveau Monde hires him for some plays by Sophocles. ](/news/2011/04/7/politicians-in-montreal-call-for-french-rock-star-bertrand-cantat-to-be-denied-entry-after-tha-c-ac-tre-du-nouveau-monde-hires-him-for-some-pla.md)
-_Context: Bertrand Cantat, Sophocles, Theatre du Nouveau Monde, city of Montreal_
+_Context: Bertrand Cantat, Montreal, Sophocles, Theatre du Nouveau Monde_
 
 ### [Eurozone interest rates are raised to 1.25 per cent from the record low of 1 per cent by the European Central Bank (ECB) amid concerns this could cause problems for countries such as Portugal and the Republic of Ireland. ](/news/2011/04/7/eurozone-interest-rates-are-raised-to-1-25-per-cent-from-the-record-low-of-1-per-cent-by-the-european-central-bank-ecb-amid-concerns-this.md)
 European Central Bank increases eurozone interest rates for the first time since 2008 and admits it will be &quot;unwelcome&quot; for weaker economies.
@@ -80,9 +80,6 @@ Australia will become the first country in the world to require tobacco products
 
 ### [Seventeen people are arrested at a protest organised by the Service Employees International Union trying to storm the Governor of the US state of Washington's office in Olympia. ](/news/2011/04/7/seventeen-people-are-arrested-at-a-protest-organised-by-the-service-employees-international-union-trying-to-storm-the-governor-of-the-us-sta.md)
 _Context: Governor of Washington, Olympia, Service Employees International Union, Washington_
-
-### [League football is to resume in Tunisia on 17 April for the first time since December when the Tunisian revolution, which toppled Zine El Abidine Ben Ali from decades-long rule, began. ](/news/2011/04/7/league-football-is-to-resume-in-tunisia-on-17-april-for-the-first-time-since-december-when-the-tunisian-revolution-which-toppled-zine-el-ab.md)
-_Context: Jasmine Revolution of 2011, Tunisia, Zine El Abidine Ben Ali_
 
 ## [Previous Day...](/news/2011/04/6/index.md)
 

@@ -15,11 +15,5 @@ A vaccine against dengue fever could protect more than half the children who are
 ### [The People's Republic of China jails 32 people for allegedly downloading and spreading violent Islamist material via the Internet to Xinjiang. ](/news/2014/07/11/the-people-s-republic-of-china-jails-32-people-for-allegedly-downloading-and-spreading-violent-islamist-material-via-the-internet-to-xinjian.md)
 _Context: China, Xinjiang_
 
-### [Four-time NBA MVP LeBron James, who opted out of the final two years of his contract with the Miami Heat, announces that he will return to the Cleveland Cavaliers, where he played for the first seven seasons of his NBA career. ](/news/2014/07/11/four-time-nba-mvp-lebron-james-who-opted-out-of-the-final-two-years-of-his-contract-with-the-miami-heat-announces-that-he-will-return-to-t.md)
-LeBron James explains to SI&#x27;s Lee Jenkins why he&#x27;s returning to the Cleveland Cavaliers after spending four seasons with the Miami Heat. 
-
-### [Four Slovenian skiing officials are suspended for allegedly rigging results so that violinist Vanessa-Mae could compete for Thailand in alpine skiing. ](/news/2014/07/11/four-slovenian-skiing-officials-are-suspended-for-allegedly-rigging-results-so-that-violinist-vanessa-mae-could-compete-for-thailand-in-alpi.md)
-_Context: 2014 Sochi Winter Olympics, Slovenia, Thailand, Vanessa-Mae, alpine skiing, violinist_
-
 ## [Previous Day...](/news/2014/07/10/index.md)
 

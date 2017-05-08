@@ -48,11 +48,5 @@ _Context: CyberBunker, Internet, cyberattack, hosting firm, spam-fighting group_
 ### [Police in Wales says they will call off the search for missing April Jones in about a month. ](/news/2013/03/27/police-in-wales-says-they-will-call-off-the-search-for-missing-april-jones-in-about-a-month.md)
 Police will focus on specific areas of land before ending their search operation seven months after the five-year-old disappeared.
 
-### [In basketball, the Chicago Bulls defeated the Miami Heat 101-97, ending their winning streak at 27 games. The Heat had not lost a game since February 1st. This was also the game that featured Jimmy Butler dunking on Chris Bosh. ](/news/2013/03/27/in-basketball-the-chicago-bulls-defeated-the-miami-heat-101-97-ending-their-winning-streak-at-27-games-the-heat-had-not-lost-a-game-since.md)
-Get a recap of the Miami Heat vs. Chicago Bulls basketball game.
-
-### [In ice hockey, Jarome Iginla of the Calgary Flames is traded to the Pittsburgh Penguins, with Calgary acquiring prospects Ben Hanowski and Kenneth Agostino, and also Pittsburgh's first-round pick in the 2013 NHL Draft. Iginla has played for the Flames since the 1996 Stanley Cup playoffs, and has served as Flames captain since 2003. ](/news/2013/03/27/in-ice-hockey-jarome-iginla-of-the-calgary-flames-is-traded-to-the-pittsburgh-penguins-with-calgary-acquiring-prospects-ben-hanowski-and-k.md)
-The latest news, analysis and stories from NHL.com, the official site of the National Hockey League
-
 ## [Previous Day...](/news/2013/03/26/index.md)
 

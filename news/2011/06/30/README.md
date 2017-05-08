@@ -22,7 +22,7 @@ _Context: Amnesty International, China's, Human rights_
 _Context: Al-Shamukh, jihad_
 
 ### [Iraq War: The United States has lost a total of 15 troops in Iraq this month, making it the deadliest month for U.S. forces in Iraq since June 2009, when 14 soldiers were killed fighting the Iraqi insurgency. ](/news/2011/06/30/iraq-war-the-united-states-has-lost-a-total-of-15-troops-in-iraq-this-month-making-it-the-deadliest-month-for-u-s-forces-in-iraq-since-ju.md)
-_Context: Iraq, Iraq War, Iraqi insurgency, U.S._
+_Context: Iraq, Iraq War, Iraqi insurgency, United States_
 
 ### [Glenn Beck hosts his final program on the US Fox News Channel. ](/news/2011/06/30/glenn-beck-hosts-his-final-program-on-the-us-fox-news-channel.md)
 _Context: Fox News, Glenn Beck_
@@ -113,12 +113,6 @@ Labour wins the Inverclyde by-election but its majority is more than halved.
 
 ### [The President of Venezuela Hugo Chavez speaks on Venezuelan television that he is fighting cancer in Cuba. ](/news/2011/06/30/the-president-of-venezuela-hugo-chavez-speaks-on-venezuelan-television-that-he-is-fighting-cancer-in-cuba.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
-
-### [In tennis, Petra Kvitova defeats Victoria Azarenka to reach her first Grand Slam final at Wimbledon. ](/news/2011/06/30/in-tennis-petra-kvitova-defeats-victoria-azarenka-to-reach-her-first-grand-slam-final-at-wimbledon.md)
-_Context: Grand Slam, Petra Kvitova, Victoria Azarenka, Wimbledon, tennis_
-
-### [Owners in the North American National Basketball Association are expected to start a lockout after failing to reach a new collective bargaining agreement. ](/news/2011/06/30/owners-in-the-north-american-national-basketball-association-are-expected-to-start-a-lockout-after-failing-to-reach-a-new-collective-bargain.md)
-NBA owners expected to lock out players at midnight after both sides fail to agree on new CBA.
 
 ## [Previous Day...](/news/2011/06/29/index.md)
 

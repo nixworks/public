@@ -39,23 +39,5 @@ A controversial referendum on whether to build a new nuclear power plant in Bulg
 ### [Using H-IIA rocket, Japan launches two spy satellites to collect sharp imagery for the government's defence and intelligence agency. ](/news/2013/01/27/using-h-iia-rocket-japan-launches-two-spy-satellites-to-collect-sharp-imagery-for-the-government-s-defence-and-intelligence-agency.md)
 Japan launched two spy satellites Sunday to collect sharp imagery for the government&#039;s defense and intelligence agencies.
 
-### [In tennis, Novak Djokovic wins the men's singles at the 2013 Australian Open after his four-set victory over Andy Murray in the final. The Serbian player becomes the first male player in the Open Era to win three consecutive Australian Open singles titles. ](/news/2013/01/27/in-tennis-novak-djokovic-wins-the-men-s-singles-at-the-2013-australian-open-after-his-four-set-victory-over-andy-murray-in-the-final-the-s.md)
-Novak Djokovic fights back to beat Andy Murray in four sets and win his third successive Australian Open in Melbourne.
-
-### [In chess, Magnus Carlsen, the world number one from Norway, wins the 2013 Tata Steel Chess Tournament ahead of Levon Aronian and Viswanathan Anand. ](/news/2013/01/27/in-chess-magnus-carlsen-the-world-number-one-from-norway-wins-the-2013-tata-steel-chess-tournament-ahead-of-levon-aronian-and-viswanathan.md)
-_Context: Levon Aronian, Magnus Carlsen, Norway, Tata Steel Chess Tournament, Viswanathan Anand, chess, world number one_
-
-### [In team handball, Spain wins 2013 World Men's Handball Championship defeating Denmark with a 35-19 score in the final. ](/news/2013/01/27/in-team-handball-spain-wins-2013-world-men-s-handball-championship-defeating-denmark-with-a-35a19-score-in-the-final.md)
-_Context: 2013 World Men's Handball Championship, Denmark, Spain, team handball_
-
-### [In boxing, 17-year-old Indonesian boxer Tubagus Sakti dies of a brain haemorrhage after losing a fight to Ical Tobida in Jakarta. ](/news/2013/01/27/in-boxing-17-year-old-indonesian-boxer-tubagus-sakti-dies-of-a-brain-haemorrhage-after-losing-a-fight-to-ical-tobida-in-jakarta.md)
-_Context: Indonesia, Jakarta, boxing, brain haemorrhage_
-
-### [In auto racing, Charlie Kimball, Juan Pablo Montoya, Scott Pruett and Memo Rojas from Chip Ganassi Racing team win 2013 24 Hours of Daytona. ](/news/2013/01/27/in-auto-racing-charlie-kimball-juan-pablo-montoya-scott-pruett-and-memo-rojas-from-chip-ganassi-racing-team-win-2013-24-hours-of-daytona.md)
-Chip Ganassi Racing claimed a fifth victory in its 10 years of competing at the Daytona 24 Hours after Juan Pablo Montoya came through to seal the honours in a thrilling final hour
-
-### [2012-13 FA Cup fourth round:European champions Chelsea twice come from behind to secure a replay against third-tier club Brentford in the first meeting between the teams since 1950. ](/news/2013/01/27/2012a13-fa-cup-fourth-round-peuropean-champions-chelsea-twice-come-from-behind-to-secure-a-replay-against-third-tier-club-brentford-in-the.md)
-Leeds send Tottenham crashing out of the FA Cup with a famous fourth-round victory at Elland Road.
-
 ## [Previous Day...](/news/2013/01/26/index.md)
 

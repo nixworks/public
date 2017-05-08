@@ -12,11 +12,5 @@ _Context: Jung Hong-won, Prime Minister, Sinking of the MV ''Sewol''_
 ### [Germany starts easing immigration restrictions on Ukrainian Jews as a result of the crisis in Ukraine.](/news/2014/06/26/germany-starts-easing-immigration-restrictions-on-ukrainian-jews-as-a-result-of-the-crisis-in-ukraine.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-### [Uruguay's star striker Luis Surez is expelled from the tournament, banned for nine international matches and suspended from all football-related activity for four months for biting Giorgio Chiellini of Italy in Tuesday's Group D match. The verdict, the most severe against any player in FIFA World Cup history, means Surez will be unable to play or train for his club Liverpool until 27 October. ](/news/2014/06/26/uruguay-s-star-striker-luis-suarez-is-expelled-from-the-tournament-banned-for-nine-international-matches-and-suspended-from-all-football-re.md)
-Liverpool are to ‘wait and see’ after Luis Suarez was handed a record nine-game international ban and a four-month suspension from all football for biting Italy defender Giorgio Chielli
-
-### [In North American basketball, the National Basketball Association holds its annual draft in the Barclays Center in Brooklyn with the Cleveland Cavaliers selecting Canadian Andrew Wiggins as the first pick. ](/news/2014/06/26/in-north-american-basketball-the-national-basketball-association-holds-its-annual-draft-in-the-barclays-center-in-brooklyn-with-the-clevela.md)
-_Context: 2014 NBA draft, Andrew Wiggins, Barclays Center, Brooklyn, Canadian, Cleveland Cavaliers, NBA, North America, basketball_
-
 ## [Previous Day...](/news/2014/06/25/index.md)
 

@@ -24,8 +24,5 @@ _Context: Democratic Party, Liberal Democratic Party, Prime Minister, Yoshihiko 
 ### [Astronomers announce the discovery of CFBDSIR 2149-0403, the closest known rogue planet to Earth at approximately 100 light-years away. ](/news/2012/11/14/astronomers-announce-the-discovery-of-cfbdsir-2149-0403-the-closest-known-rogue-planet-to-earth-at-approximately-100-light-years-away.md)
 Astronomers spot a planet wandering the cosmos without a host star about 100 light-years away, finding it to have a mass a few times that of Jupiter.
 
-### [Swedish striker Zlatan Ibrahimovic scores four goals in a friendly match against England, with his last coming from a 30-metre bicycle kick.  ](/news/2012/11/14/swedish-striker-zlatan-ibrahimovia-scores-four-goals-in-a-friendly-match-against-england-with-his-last-coming-from-a-30-metre-bicycle-kick.md)
- Friendly international round-up: Zlaten Ibrahimovic send out a chilling warning to the Republic of Ireland ahead of their World&hellip;
-
 ## [Previous Day...](/news/2012/11/13/index.md)
 

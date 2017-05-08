@@ -13,7 +13,7 @@ _Context: Andrew Cuomo, Hurricane Sandy, New York, New York Governor_
 Paraguayan president Federico Franco announced that starting in 2013, his country will become an oil producing nation, after a recent discovery made close to the border with Argentina.
 
 ### [A fire at a Caritas International workshop for the disabled in Titisee-Neustadt, Baden-Wurttemberg, Germany, kills at least 14 and injures several others. ](/news/2012/11/26/a-fire-at-a-caritas-international-workshop-for-the-disabled-in-titisee-neustadt-baden-wa1-4rttemberg-germany-kills-at-least-14-and-injures.md)
-_Context: Baden-Wurttemberg, Caritas International, Germany, Titisee-Neustadt_
+_Context: Baden-Wurttemberg, Caritas International, German, Titisee-Neustadt_
 
 ### [A scorpion stings a passenger on a flight from Costa Rica to Spain, which forced the sealing of the Iberia airlines Airbus A340 at Madrid's Barajas International Airport. ](/news/2012/11/26/a-scorpion-stings-a-passenger-on-a-flight-from-costa-rica-to-spain-which-forced-the-sealing-of-the-iberia-airlines-airbus-a340-at-madrid-s.md)
 _Context: Airbus A340, Barajas International Airport, Costa Rica, Iberia airlines, Madrid, Spain, scorpion_
@@ -35,9 +35,6 @@ _Context: Antarctic, Lake Vida_
 
 ### [American plastic surgeon and Nobel Prize winner Joseph Murray, who performed the first kidney transplantation, dies at 93. ](/news/2012/11/26/american-plastic-surgeon-and-nobel-prize-winner-joseph-murray-who-performed-the-first-kidney-transplantation-dies-at-93.md)
 Dr. Murray died in the hospital where he performed the first successful human organ transplant in 1954, when he gave a 23-year-old’s kidney to his identical twin.
-
-### [The Spanish club Espanyol fires coach Mauricio Pochettino due to real trouble of facing relegation from La Liga. Mexican manager Javier Aguirre is named as new Espanyol head coach. ](/news/2012/11/26/the-spanish-club-espanyol-fires-coach-mauricio-pochettino-due-to-real-trouble-of-facing-relegation-from-la-liga-mexican-manager-javier-agui.md)
-The official site of the international governing body of football with news, national associations, competitions, results, fixtures, development, organisation, world rankings, statistics, the International Football Association Board, history, laws of the game, futsal, publications, downloads, and contact details.
 
 ## [Previous Day...](/news/2012/11/25/index.md)
 

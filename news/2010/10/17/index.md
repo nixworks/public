@@ -22,7 +22,7 @@ _Context: Australia, Benedict XVI, Mary MacKillop, Saint Peter's Square, Vatican
 _Context: $50 billion government bailout, General Motors, Michigan, a new car plant, tax incentive_
 
 ### [Workers in Hilton Hotels in the US cities of Chicago, San Francisco, and Honolulu continue a strike over what they claim are efforts to "lock workers into cheap recession contracts." ](/news/2010/10/17/workers-in-hilton-hotels-in-the-us-cities-of-chicago-san-francisco-and-honolulu-continue-a-strike-over-what-they-claim-are-efforts-to-loc.md)
-_Context: Chicago, Hilton Hotels, Honolulu, San Francisco, U.S., strike_
+_Context: Chicago, Hilton Hotels, Honolulu, San Francisco, United States, strike_
 
 ### [The Philippines prepares for Typhoon Megi, potentially the strongest typhoon to hit the country this year. ](/news/2010/10/17/the-philippines-prepares-for-typhoon-megi-potentially-the-strongest-typhoon-to-hit-the-country-this-year.md)
 Authorities in the Philippines are preparing for the onslaught of Typhoon Megi, the tenth tropical cyclone and the strongest to hit the country this year.
@@ -83,12 +83,6 @@ Canada has declared bisphenol A a toxic chemical, prompting calls for far-reachi
 
 ### [The first babies to have been created through in-vitro fertilization utilizing a full gene screen are born this year. This gene screen looks for chromosomal defects which often lead to unsuccessful IVF treatments. ](/news/2010/10/17/the-first-babies-to-have-been-created-through-in-vitro-fertilization-utilizing-a-full-gene-screen-are-born-this-year-this-gene-screen-looks.md)
 Two women have given birth to healthy babies from eggs screened for genetic defects before being implanted in the womb, in a study of a new technique that could improve the success rate of in-vitro fertilization.
-
-### [FIFA, the world's football governing body, is hit by an undercover sting operation by the ''Sunday Times''; it investigates claims that two of its officials offered to sell their votes in return for hosting the 2018 FIFA World Cup. ](/news/2010/10/17/fifa-the-world-s-football-governing-body-is-hit-by-an-undercover-sting-operation-by-the-sunday-times-it-investigates-claims-that-two.md)
-_Context: 2018 and 2022 FIFA World Cup bids, FIFA, Sunday Times, association football, governing body, sting operation_
-
-### [Andy Murray of the United Kingdom beats Roger Federer of Switzerland 6-3 6-2 to win the 2010 Shanghai Rolex Masters 1000 in Shanghai, China. ](/news/2010/10/17/andy-murray-of-the-united-kingdom-beats-roger-federer-of-switzerland-6-3-6-2-to-win-the-2010-shanghai-rolex-masters-1000-in-shanghai-china.md)
-_Context: 2010 Shanghai Rolex Masters 1000, Andy Murray, China's, Roger Federer, Shanghai, Swiss, United Kingdom_
 
 ## [Previous Day...](/news/2010/10/16/index.md)
 

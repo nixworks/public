@@ -7,13 +7,13 @@ _Context: Mairead Corrigan, Nobel Peace Prize, barrier_
 _Context: Chinese Communist Party, Fidel Castro, Politburo, President, Wu Guanzheng, transferring power_
 
 ### [ The G4 group of nations, which includes Brazil, India, Germany and Japan, says that it would revive efforts for United Nations Security Council reform. ](/news/2007/04/20/the-g4-group-of-nations-which-includes-brazil-india-germany-and-japan-says-that-it-would-revive-efforts-for-united-nations-security-cou.md)
-_Context: Brazil, G4, Germany, India, Japan, United Nations Security Council reform_
+_Context: Brazil, G4, German, India, Japan, United Nations Security Council reform_
 
 ### [ India and the People's Republic of China resume talks to resolve border disputes. ](/news/2007/04/20/india-and-the-people-s-republic-of-china-resume-talks-to-resolve-border-disputes.md)
 _Context: China's, India_
 
 ### [ The United States asks India to stop military cooperation with Iran. ](/news/2007/04/20/the-united-states-asks-india-to-stop-military-cooperation-with-iran.md)
-_Context: India, Iran, U.S._
+_Context: India, Iran, United States_
 
 ### [ The U.S. state of Virginia observes a day of mourning for the victims in the Virginia Tech massacre. ](/news/2007/04/20/the-u-s-state-of-virginia-observes-a-day-of-mourning-for-the-victims-in-the-virginia-tech-massacre.md)
 _Context: Virginia, day of mourning, massacre, state_

@@ -40,7 +40,7 @@ French President Nicolas Sarkozy has said he would be prepared to travel to Irel
 _Context: Australia, India, Kumari Selja, attacks on Indian students_
 
 ### [ The U.S. Supreme Court denies a bail request by Conrad Black, a member of the British House of Lords who remains in a federal prison in Florida.](/news/2009/06/11/the-u-s-supreme-court-denies-a-bail-request-by-conrad-black-a-member-of-the-british-house-of-lords-who-remains-in-a-federal-prison-in-flo.md)
-_Context: Conrad Black, FL, House of Lords, U.S. Supreme Court_
+_Context: Conrad Black, Florida, House of Lords, U.S. Supreme Court_
 
 ### [ Egyptian Culture Minister Farouk Hosni announces that the ministry will publish Arabic translations of novels by Israeli writers Amos Oz and David Grossman. ](/news/2009/06/11/egyptian-culture-minister-farouk-hosni-announces-that-the-ministry-will-publish-arabic-translations-of-novels-by-israeli-writers-amos-oz-an.md)
 _Context: Amos Oz, Arabic, David Grossman, Egypt, Farouk Hosni, Israel_

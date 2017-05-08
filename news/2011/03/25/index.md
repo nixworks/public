@@ -72,8 +72,5 @@ _Context: Northern Ireland Assembly, Northern Ireland Assembly election_
 ### [The minority of the Conservative Party of Canada led by Prime Minister Stephen Harper is defeated in a no confidence motion in the House of Commons with an election to be held in early May. ](/news/2011/03/25/the-minority-of-the-conservative-party-of-canada-led-by-prime-minister-stephen-harper-is-defeated-in-a-no-confidence-motion-in-the-house-of.md)
 Stephen Harper on Saturday will ask that an election be called, after opposition MPs voted together to defeat the Conservative government.
 
-### [2011 Hong Kong Sevens, the highest number of participants event of the 2010-11 IRB Sevens World Series, has started at Hong Kong Stadium in Hong Kong and features 24 teams. ](/news/2011/03/25/2011-hong-kong-sevens-the-highest-number-of-participants-event-of-the-2010a11-irb-sevens-world-series-has-started-at-hong-kong-stadium-i.md)
-_Context: 2010-11 IRB Sevens World Series, 2011 Hong Kong Sevens, Hong Kong, Hong Kong Stadium_
-
 ## [Previous Day...](/news/2011/03/24/index.md)
 

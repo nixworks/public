@@ -21,8 +21,5 @@ _Context: Hassan Rouhani, Iran_
 ### [The Greenpeace ship ''Arctic Sunrise'', which was protesting against Gazprom drilling in the Arctic area 60km north of the Russian coast, is boarded by the Russian military. The activists claim that oil exploitation would risk three nature reserves protected by Russian law. ](/news/2013/09/20/the-greenpeace-ship-arctic-sunrise-which-was-protesting-against-gazprom-drilling-in-the-arctic-area-60km-north-of-the-russian-coast-is.md)
 Russians drop armed guards on to the deck and round up the crew of the Arctic Sunrise, which is protesting against Gazprom drilling
 
-### [In baseball, Alex Rodriguez of the New York Yankees sets a new record in Major League Baseball for grand slam home runs with 24. ](/news/2013/09/20/in-baseball-alex-rodriguez-of-the-new-york-yankees-sets-a-new-record-in-major-league-baseball-for-grand-slam-home-runs-with-24.md)
-_Context: Alex Rodriguez, Major League Baseball, New York Yankees, baseball, grand slam, home run_
-
 ## [Previous Day...](/news/2013/09/19/index.md)
 

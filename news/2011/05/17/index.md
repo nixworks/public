@@ -66,17 +66,5 @@ A row breaks out in India after Rahul Gandhi accuses police of killing farmers a
 ### [Former Governor of California Arnold Schwarzenegger admits to fathering the child of a longterm member of his household staff. ](/news/2011/05/17/former-governor-of-california-arnold-schwarzenegger-admits-to-fathering-the-child-of-a-longterm-member-of-his-household-staff.md)
 His wife, Maria Shriver, moved out of their Brentwood home earlier this year after the former governor acknowledged the paternity. The staff member worked for the family for 20 years, retiring in January.
 
-### [In golf, France is declared the host country for the 2018 Ryder Cup, defeating the favourite, Spain. ](/news/2011/05/17/in-golf-france-is-declared-the-host-country-for-the-2018-ryder-cup-defeating-the-favourite-spain.md)
-_Context: 2018 Ryder Cup, Spain, golf_
-
-### [The Cleveland Cavaliers win the NBA Draft Lottery earning first and fourth picks in the 2011 NBA Draft. ](/news/2011/05/17/the-cleveland-cavaliers-win-the-nba-draft-lottery-earning-first-and-fourth-picks-in-the-2011-nba-draft.md)
-_Context: 2011 NBA Draft, Cleveland Cavaliers, NBA Draft Lottery_
-
-### [An outbreak of Equine herpesvirus 1 in the western United States leads to the cancellation of scores of horse events such as equestrian events and rodeos. ](/news/2011/05/17/an-outbreak-of-equine-herpesvirus-1-in-the-western-united-states-leads-to-the-cancellation-of-scores-of-horse-events-such-as-equestrian-even.md)
-A outbreak of equine herpes in at least six Western U.S. states has forced the cancellation of scores of horse events, just as the prime season for riding shows, sales and rodeos is getting under way.
-
-### [In Australia, football legend Bob Davis dies.](/news/2011/05/17/in-australia-football-legend-bob-davis-dies.md)
-_Context: Bob Davis_
-
 ## [Previous Day...](/news/2011/05/16/index.md)
 

@@ -48,8 +48,5 @@ _Context: Hashim Thaci, Parliament, President_
 ### [The United States Air Force unveils the Northrop Grumman B-21 long-range strategic bomber at the Air Force Association's annual Air Warfare Symposium in Orlando, Florida. The B-21 is designed to replace the aging fleet of B-1 Lancer and B-52 bombers. ](/news/2016/02/26/the-united-states-air-force-unveils-the-northrop-grumman-b-21-long-range-strategic-bomber-at-the-air-force-associationas-annual-air-warfar.md)
 It has been designated the B-21.
 
-### [Officials of FIFA meet in Zurich for the 2016 FIFA Extraordinary Congress to select a new President of FIFA to replace Sepp Blatter. Gianni Infantino is elected with a majority of votes in the second round of voting. ](/news/2016/02/26/officials-of-fifa-meet-in-za1-4rich-for-the-2016-fifa-extraordinary-congress-to-select-a-new-president-of-fifa-to-replace-sepp-blatter-gianni.md)
-Gianni Infantino polls the most votes in round one of the Fifa presidential election but fails to secure enough for victory.
-
 ## [Previous Day...](/news/2016/02/25/index.md)
 

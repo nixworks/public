@@ -33,8 +33,5 @@ Egypt signed a contract Saturday to buy two Mistral warships, whose sale to Russ
 ### [ Over 150,000 people protest in Berlin against the Transatlantic Trade and Investment Partnership accord between the European Union and the United States. ](/news/2015/10/10/over-150-000-people-protest-in-berlin-against-the-transatlantic-trade-and-investment-partnership-accord-between-the-european-union-and-the.md)
 Protesters from a range of political groups have gathered in central Berlin for a protest against TTIP, a trade deal between the US and the European Union that critics say will benefit large corporations at the expense of average Europeans.
 
-### [Mexico defeats the United States 3-2 in the 2015 CONCACAF Cup. ](/news/2015/10/10/mexico-defeats-the-united-states-3-2-in-the-2015-concacaf-cup.md)
-Follow the #GoldCup Scores via CONCACAF Gamecast 
-
 ## [Previous Day...](/news/2015/10/9/index.md)
 

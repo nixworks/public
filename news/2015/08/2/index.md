@@ -22,7 +22,7 @@ LAS CRUCES, N. M. -- Explosions about a half hour apart shattered the serenity o
 The congregation of a vandalized western Ohio church held its Sunday services outdoors and prayed for the man charged in the incident.
 
 ### [Authorities jail a man in Melbourne, Florida, after he tries to rob the church during a sermon with an airsoft gun before being subdued by the Pastor. ](/news/2015/08/2/authorities-jail-a-man-in-melbourne-florida-after-he-tries-to-rob-the-church-during-a-sermon-with-an-airsoft-gun-before-being-subdued-by-t.md)
-_Context: FL_
+_Context: Florida_
 
 ### [In an apparent road rage incident in Reedley, California, an 18-year-old pregnant woman is shot in the left eye after passing a slow-driving SUV which subsequently pulls up alongside and opens fire.](/news/2015/08/2/in-an-apparent-road-rage-incident-in-reedley-california-an-18-year-old-pregnant-woman-is-shot-in-the-left-eye-after-passing-a-slow-driving.md)
 The shooting happened after an SUV driven by the victim&#039;s husband passed another vehicle as it was driving too slowly.

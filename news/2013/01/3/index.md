@@ -25,7 +25,7 @@ _Context: Hormel, Skippy peanut butter, Unilever_
 Coffee giant opening first outlet in the country next month
 
 ### [Subaru issues a recall for nearly 634,000 vehicles in the United States due to a lighting problem. ](/news/2013/01/3/subaru-issues-a-recall-for-nearly-634-000-vehicles-in-the-united-states-due-to-a-lighting-problem.md)
-_Context: Subaru, U.S._
+_Context: Subaru, United States_
 
 ### [The Prime Minister of the United Kingdom  David Cameron say the future of the Falkland Islands is up to its inhabitants, not Argentina. His statement comes after the President of Argentina Cristina Fernndez de Kirchner urged the prime minister to abide by a 1965 UN resolution to "negotiate a solution" to the dispute. ](/news/2013/01/3/the-prime-minister-of-the-united-kingdom-david-cameron-say-the-future-of-the-falkland-islands-is-up-to-its-inhabitants-not-argentina-his.md)
 Prime Minister David Cameron strongly rebuffs a call by Argentine President Cristina Fernandez de Kirchner for the UK to return the South Atlantic islands.
@@ -35,9 +35,6 @@ Five men are charged with the kidnap, rape and murder of a 23-year-old student o
 
 ### [United States Congress:The 113th United States Congress is sworn in, replacing the 112th Congress. ](/news/2013/01/3/united-states-congress-pthe-113th-united-states-congress-is-sworn-in-replacing-the-112th-congress.md)
 _Context: 112th Congress, 113th United States Congress, U.S. Congressional_
-
-### [A friendly game between A.C. Milan and  Italian lower division Pro Patria is suspended after Kevin-Prince Boateng and several other A.C. Milan were the target of racists chants by Pro Patria crowd. ](/news/2013/01/3/a-friendly-game-between-a-c-milan-and-italian-lower-division-pro-patria-is-suspended-after-kevin-prince-boateng-and-several-other-a-c-mil.md)
-A friendly between AC Milan and Italian lower division club Pro Patria is suspended after players walk off because of racist chants.
 
 ## [Previous Day...](/news/2013/01/2/index.md)
 

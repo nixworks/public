@@ -36,11 +36,5 @@ Former fugitive tycoon Asil Nadir is jailed for 10 years for stealing nearly £2
 ### [The 7th parole request of Mark David Chapman, murderer of former Beatle John Lennon, is denied. ](/news/2012/08/23/the-7th-parole-request-of-mark-david-chapman-murderer-of-former-beatle-john-lennon-is-denied.md)
 _Context: Beatle, John Lennon, Mark David Chapman_
 
-### [American cyclist Lance Armstrong announces that he will not contest United States Anti-Doping Agency charges of doping paving the way for him to be stripped of his titles including seven Tour de France victories. ](/news/2012/08/23/american-cyclist-lance-armstrong-announces-that-he-will-not-contest-united-states-anti-doping-agency-charges-of-doping-paving-the-way-for-hi.md)
-In stripping Armstrong of his titles, USADA said he used EPO, blood transfusions, testosterone, cortisone and HGH during his cycling career.
-
-### [The U.S. tests helium-filled surveillance balloons on the Mexican border. The two airships float about 800 meter high and are equipped with very advanced cameras. It is said that the balloons will not watch too far into Mexican territory. ](/news/2012/08/23/the-u-s-tests-helium-filled-surveillance-balloons-on-the-mexican-border-the-two-airships-float-about-800-meter-high-and-are-equipped-with.md)
-_Context: Mexico-U.S. border, balloon, helium, surveillance, tests_
-
 ## [Previous Day...](/news/2012/08/22/index.md)
 

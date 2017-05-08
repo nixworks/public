@@ -28,7 +28,7 @@ Some 10,000 women and girls entered Magdalene laundries since 1922 with more tha
 _Context: 2012 Delhi gang rape case, India, Pranab Mukherjee, President of India, death, death penalty_
 
 ### [Three people are shot to death in a house near Forestville, Sonoma County, California, United States. ](/news/2013/02/5/three-people-are-shot-to-death-in-a-house-near-forestville-sonoma-county-california-united-states.md)
-_Context: California, Forestville, Sonoma County, U.S._
+_Context: California, Forestville, Sonoma County, United States_
 
 ### [Four people are dead in a possible murder-suicide in Johns Creek, Georgia, United States. ](/news/2013/02/5/four-people-are-dead-in-a-possible-murder-suicide-in-johns-creek-georgia-united-states.md)
 Parents, sons 5 and 12, were found dead at apartment in Johns Creek, Ga.
@@ -44,9 +44,6 @@ A German university votes to strip Education Minister Annette Schavan of her doc
 
 ### [Curtis Cooper, a mathematician and computer science professor at the University of Central Missouri, discovers the largest known 17.4 million-digit prime number. ](/news/2013/02/5/curtis-cooper-a-mathematician-and-computer-science-professor-at-the-university-of-central-missouri-discovers-the-largest-known-17-4-millio.md)
 _Context: Curtis Cooper, University of Central Missouri, prime number_
-
-### [The Australian Football League announces an Australian Sports Anti-Doping Authority investigation into whether players from the Essendon Football Club were given performance enhancing drugs. ](/news/2013/02/5/the-australian-football-league-announces-an-australian-sports-anti-doping-authority-investigation-into-whether-players-from-the-essendon-foo.md)
-_Context: Australian Football League, Australian Sports Anti-Doping Authority, Essendon Football Club, doping_
 
 ## [Previous Day...](/news/2013/02/4/index.md)
 

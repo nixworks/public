@@ -16,7 +16,7 @@ _Context: Homs, Syrian Observatory for Human Rights_
 * All Malev flights grounded as of 0500 GMT on Friday* Comes after EU ruling in January to repay state aid* Malev accounted for 40 pc
 
 ### [Stocks rise sharply in the United States following positive jobs information with the Nasdaq Composite reaching its highest level since 2000 and the Dow Jones Industrial Average nearing levels last reached in 2008. ](/news/2012/02/3/stocks-rise-sharply-in-the-united-states-following-positive-jobs-information-with-the-nasdaq-composite-reaching-its-highest-level-since-2000.md)
-_Context: Dow Jones Industrial Average, NASDAQ, U.S._
+_Context: Dow Jones Industrial Average, NASDAQ, United States_
 
 ### [In the United States, employers added over 240,000 jobs in the month of January and the unemployment rate dropped to 8.3%, the lowest percent in three years. ](/news/2012/02/3/in-the-united-states-employers-added-over-240-000-jobs-in-the-month-of-january-and-the-unemployment-rate-dropped-to-8-3-the-lowest-percen.md)
 American employers substantially stepped up their hiring in January, bringing the unemployment rate down for the fifth month in a row.
@@ -47,12 +47,6 @@ Chris Huhne vows to clear his name as he resigns as energy secretary to fight a 
 
 ### [Thousands of Bahrainis hold a peaceful protest in Manama calling for political reform and release of political prisoners. ](/news/2012/02/3/thousands-of-bahrainis-hold-a-peaceful-protest-in-manama-calling-for-political-reform-and-release-of-political-prisoners.md)
 _Context: Bahrain, Manama_
-
-### [The Football Association removes John Terry as captain of the England national football team over allegations of racial abuse of Anton Ferdinand during a match. ](/news/2012/02/3/the-football-association-removes-john-terry-as-captain-of-the-england-national-football-team-over-allegations-of-racial-abuse-of-anton-ferdi.md)
-John Terry is stripped of the England captaincy, the Football Association has confirmed.
-
-### [The ''Daily Mail'' reports that the world record for the number of water skiers pulled by a single boat (145) has been broken. ](/news/2012/02/3/the-daily-mail-reports-that-the-world-record-for-the-number-of-water-skiers-pulled-by-a-single-boat-145-has-been-broken.md)
-_Context: Daily Mail_
 
 ## [Previous Day...](/news/2012/02/2/index.md)
 

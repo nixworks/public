@@ -21,17 +21,5 @@ Iran confirmed Sunday that it has executed an Iranian nuclear scientist.
 ### [Voters in Thailand go to the polls to vote on whether a new constitution, which would restore elections but empower the military, should it be adopted. The military junta has banned campaigning in opposition to the new constitution.  The constitution is approved by 61.45 percent. ](/news/2016/08/7/voters-in-thailand-go-to-the-polls-to-vote-on-whether-a-new-constitution-which-would-restore-elections-but-empower-the-military-should-it.md)
 A clear majority of Thai referendum voters back a draft constitution written by an army-appointed committee, with unofficial tallies saying more than 60% voted in favour.
 
-### [ After the men's 400-metre freestyle final of the 2016 Summer Olympics, Australian gold medalist Mack Horton says Chinese silver medalist Sun Yang is a "drug cheat", referring to Sun's three-month doping ban in 2014; Chinese netizens have swarmed Horton's online pages to demand an apology; Chinese state media has since called Horton "immoral" and described Australia as a former "offshore prison". ](/news/2016/08/7/after-the-men-s-400-metre-freestyle-final-of-the-2016-summer-olympics-australian-gold-medalist-mack-horton-says-chinese-silver-medalist-su.md)
-Chinese sports fans and local media have turned on Australia&#039;s newest Olympic swimming sensation Mack Horton for calling home favourite Sun Yang a drug cheat.
-
-### [The International Paralympic Committee bans all Russian athletes from the Paralympics due to state-sponsored sample doctoring to avoid the detection of the use of banned drugs. ](/news/2016/08/7/the-international-paralympic-committee-bans-all-russian-athletes-from-the-paralympics-due-to-state-sponsored-sample-doctoring-to-avoid-the-d.md)
-_Context: 2016 Summer Paralympics, International Paralympic Committee_
-
-### [ In baseball, the Miami Marlins' Ichiro Suzuki becomes the 30th Major League Baseball player with 3,000 career hits, reaching the milestone with a seventh-inning triple against the Colorado Rockies. ](/news/2016/08/7/in-baseball-the-miami-marlins-ichiro-suzuki-becomes-the-30th-major-league-baseball-player-with-3-000-career-hits-reaching-the-milestone.md)
-Ichiro Suzuki became the 30th player in MLB history and first from Japan to join the 3,000-hit club 119 years after Cap Anson first did it in 1897.
-
-### [ Jim Furyk becomes the first golfer to shoot a round of 58 in an official PGA Tour event, doing so in the final round of the Travelers Championship. ](/news/2016/08/7/jim-furyk-becomes-the-first-golfer-to-shoot-a-round-of-58-in-an-official-pga-tour-event-doing-so-in-the-final-round-of-the-travelers-champ.md)
-_Context: Jim Furyk, PGA Tour, Travelers Championship, golf_
-
 ## [Previous Day...](/news/2016/08/6/index.md)
 

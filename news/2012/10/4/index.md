@@ -30,11 +30,5 @@ _Context: Abdullah II, Jordan_
 ### [GCHQ director Iain Lobban gives a rare public speech in which he speaks of the "enduring lessons" to be drawn from the work of Alan Turing, who reportedly committed suicide. ](/news/2012/10/4/gchq-director-iain-lobban-gives-a-rare-public-speech-in-which-he-speaks-of-the-enduring-lessons-to-be-drawn-from-the-work-of-alan-turing.md)
 _Context: Alan Turing, GCHQ, Iain Lobban_
 
-### [The 2013 Championship draw is made at GAA headquarters in Croke Park. ](/news/2012/10/4/the-2013-championship-draw-is-made-at-gaa-headquarters-in-croke-park.md)
- NEWS ROUND-UP: IT SEEMS Donegal are only wrapping up their All-Ireland homecoming, and Kilkenny are only in the midst of theirs&hellip;
-
-### [The German Formula 1 driver Michael Schumacher announces his retirement from the sport. ](/news/2012/10/4/the-german-formula-1-driver-michael-schumacher-announces-his-retirement-from-the-sport.md)
-Sir Jackie Stewart is relieved Michael Schumacher is retiring, as he believes the German risked his reputation by carrying on.
-
 ## [Previous Day...](/news/2012/10/3/index.md)
 

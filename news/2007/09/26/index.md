@@ -37,7 +37,7 @@ A section of a bridge under construction in southern Vietnam collapsed Wednesday
 Police baton-charged a crowd of about 700 anti-junta protesters including students and some Buddhist monks who gathered near a pagoda in Burma&#039;s main city Rangoon in defiance of a ban, witnesses say.
 
 ### [ The India national cricket team starts a victory parade in Mumbai after winning the inaugural 2007 ICC World Twenty20. ](/news/2007/09/26/the-india-national-cricket-team-starts-a-victory-parade-in-mumbai-after-winning-the-inaugural-2007-icc-world-twenty20.md)
-_Context: 2007 ICC World Twenty20, Indian, Mumbai, victory parade_
+_Context: 2007 ICC World Twenty20, India, Mumbai, victory parade_
 
 ## [Previous Day...](/news/2007/09/25/index.md)
 

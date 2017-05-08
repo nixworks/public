@@ -22,7 +22,7 @@ _Context: Australia, Victoria, recent bushfires_
 _Context: 110P1, Amazonas, Brazil, Embraer, air taxi, crash_
 
 ### [ Romanian handball player Marian Cozma is killed and two others are injured after a knife attack in Veszprm, Hungary. ](/news/2009/02/8/romanian-handball-player-marian-cozma-is-killed-and-two-others-are-injured-after-a-knife-attack-in-veszprem-hungary.md)
-_Context: Hungary, Marian Cozma, Romania, Veszprem, team handball_
+_Context: Hungary, Marian Cozma, Romania, Veszprem, handball_
 
 ### [ United States Treasury Secretary Timothy F. Geithner delays announcing a bailout of the banking industry until Tuesday. ](/news/2009/02/8/united-states-treasury-secretary-timothy-f-geithner-delays-announcing-a-bailout-of-the-banking-industry-until-tuesday.md)
 An administration official said the overhaul of the government&#39;s $700 billion financial rescue program is likely to include a partnership with the private sectors.

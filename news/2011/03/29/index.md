@@ -42,11 +42,5 @@ _Context: Burma, President of Burma, State Peace and Development Council_
 ### [Jose Alencar, the former Vice-President of Brazil between 2003 and 2010, dies after a long battle of cancer. ](/news/2011/03/29/josa-c-alencar-the-former-vice-president-of-brazil-between-2003-and-2010-dies-after-a-long-battle-of-cancer.md)
 _Context: Jose Alencar, Vice President, cancer_
 
-### [Ricky Ponting steps down as the captain of the Australian cricket team in both Tests and One Day Internationals. ](/news/2011/03/29/ricky-ponting-steps-down-as-the-captain-of-the-australian-cricket-team-in-both-tests-and-one-day-internationals.md)
-_Context: Australia, One Day International, Ricky Ponting, captain, test cricket_
-
-### [Arrest warrants are issued for Tampa Bay Buccaneers cornerback Aqib Talib and his mother on charges of aggravated assault with a deadly weapon in Garland, Texas. ](/news/2011/03/29/arrest-warrants-are-issued-for-tampa-bay-buccaneers-cornerback-aqib-talib-and-his-mother-on-charges-of-aggravated-assault-with-a-deadly-weap.md)
-_Context: Aqib Talib, Garland, Texas, Tampa Bay Buccaneers, Texas, cornerback_
-
 ## [Previous Day...](/news/2011/03/28/index.md)
 

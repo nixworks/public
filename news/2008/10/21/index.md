@@ -4,7 +4,7 @@
 _Context: Global financial crisis of September-October 2008, Iceland, Japan, Kaupthing Bank, U.S. dollar, yen_
 
 ### [ India wins the second test match of the 2008-09 Border-Gavaskar cricket test series against Australia at Mohali by 320 runs](/news/2008/10/21/india-wins-the-second-test-match-of-the-2008-09-border-gavaskar-cricket-test-series-against-australia-at-mohali-by-320-runs.md)
-_Context: 2008-09 Border-Gavaskar cricket test series, Australia, Indian, Mohali_
+_Context: 2008-09 Border-Gavaskar cricket test series, Australia, India, Mohali_
 
 ### [ A trade route opens within Pakistan-administered Kashmir and India's Jammu and Kashmir state after a 60-year barrier. ](/news/2008/10/21/a-trade-route-opens-within-pakistan-administered-kashmir-and-india-s-jammu-and-kashmir-state-after-a-60-year-barrier.md)
 _Context: India, Jammu and Kashmir, Line of Control, Pakistan, Pakistan-administered Kashmir_

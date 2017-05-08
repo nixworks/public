@@ -19,7 +19,7 @@ Security was tightened in the Philippines capital on Friday ahead of anti-Chines
 A man and a woman are being questioned on suspicion of murdering five children who died in a house fire in Derby.
 
 ### [William Balfour is found guilty of murdering the mother, brother and nephew of American entertainer Jennifer Hudson. ](/news/2012/05/11/william-balfour-is-found-guilty-of-murdering-the-mother-brother-and-nephew-of-american-entertainer-jennifer-hudson.md)
-_Context: Jennifer Hudson, U.S._
+_Context: Jennifer Hudson, United States_
 
 ### [At the Leveson Inquiry into British media practices, former News International chief executive Rebekah Brooks discloses an email that appears to show that Britain's Culture Secretary, Jeremy Hunt, sought advice from News International over how Downing Street should respond to the News of the World phone hacking scandal. ](/news/2012/05/11/at-the-leveson-inquiry-into-british-media-practices-former-news-international-chief-executive-rebekah-brooks-discloses-an-email-that-appear.md)
 _Context: Jeremy Hunt, Leveson Inquiry, News International, Rebekah Brooks, Secretary of State for Culture, Media and Sport, phone hacking_
@@ -32,9 +32,6 @@ A panel of US health experts recommends formal approval of Truvada, a drug to pr
 
 ### [American researchers report that preventable infections are the leading cause of child mortality worldwide. Of the 7.6 million children who died before their fifth birthday in 2010, over 60% died of infections such as pneumonia. ](/news/2012/05/11/american-researchers-report-that-preventable-infections-are-the-leading-cause-of-child-mortality-worldwide-of-the-7-6-million-children-who.md)
 Most deaths of young children around the world are from mainly preventable infectious causes, experts say.
-
-### [Thousands of fans attend a memorial service for the late San Diego Chargers linebacker Junior Seau at Qualcomm Stadium. Team president Dean Spanos announces that Seau's #55 will be retired by the team. ](/news/2012/05/11/thousands-of-fans-attend-a-memorial-service-for-the-late-san-diego-chargers-linebacker-junior-seau-at-qualcomm-stadium-team-president-dean.md)
-Hours after Junior Seau was buried in his hometown, thousands of fans got their chance to cheer one more time for the hard-hitting, fist-pumping linebacker at the stadium where he starred for 13 seasons.
 
 ## [Previous Day...](/news/2012/05/10/index.md)
 

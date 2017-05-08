@@ -7,7 +7,7 @@ Minister for Finance Brian Lenihan has outlined six steps to restore the Irish e
 _Context: East Jerusalem, Israel, Israeli police, Palestinian_
 
 ### [ United States District Judge Emmet G. Sullivan overturns the conviction of former Alaska Senator Ted Stevens. ](/news/2009/04/7/united-states-district-judge-emmet-g-sullivan-overturns-the-conviction-of-former-alaska-senator-ted-stevens.md)
-_Context: Alaska, Emmet Sullivan, Ted Stevens, U.S., U.S. District Court for the District of Columbia, conviction, senators_
+_Context: Alaska, Emmet Sullivan, Ted Stevens, U.S. District Court for the District of Columbia, United States, United States senators, conviction_
 
 ### [ Former Peruvian President Alberto Fujimori is convicted of violating human rights and imprisoned until 2034. ](/news/2009/04/7/former-peruvian-president-alberto-fujimori-is-convicted-of-violating-human-rights-and-imprisoned-until-2034.md)
 _Context: Alberto Fujimori, Human rights, Peru, President, convicted, prison_
@@ -19,7 +19,7 @@ _Context: Batang Ai, Bukit Gantang, Bukit Selambau, Malaysia, by-election_
 _Context: Chisinau, Moldova, PCRM, Parliament, absolute majority, demonstration, election, protesters_
 
 ### [ Two people are killed and two injured during a shooting in Landshut, Bavaria, Germany. ](/news/2009/04/7/two-people-are-killed-and-two-injured-during-a-shooting-in-landshut-bavaria-germany.md)
-_Context: Bavaria, Germany, Landshut, shooting_
+_Context: Bavaria, German, Landshut, shooting_
 
 ### [ Twenty-four people are killed as a Fokker F27 airliner crashes in Bandung, West Java, Indonesia. ](/news/2009/04/7/twenty-four-people-are-killed-as-a-fokker-f27-airliner-crashes-in-bandung-west-java-indonesia.md)
 _Context: Bandung, Fokker F27, Indonesia, West Java, airliner, crashes_
@@ -31,7 +31,7 @@ _Context: ETA, France, French police, Grenoble, Isere, bomb, raid_
 _Context: A$, Australia, Australia's government, National Broadband Network, financial investment_
 
 ### [ The General Assembly legalizes same-sex marriage in Vermont, United States. ](/news/2009/04/7/the-general-assembly-legalizes-same-sex-marriage-in-vermont-united-states.md)
-_Context: General Assembly, U.S., Vermont, legalizes, same-sex marriage_
+_Context: General Assembly, United States, Vermont, legalizes, same-sex marriage_
 
 ## [Previous Day...](/news/2009/04/6/index.md)
 

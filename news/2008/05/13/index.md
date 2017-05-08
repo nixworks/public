@@ -1,7 +1,7 @@
 ## [2008-05-13](/news/2008/05/13/index.md)
 
 ### [ U.S. federal prosecutors have filed a new indictment against baseball slugger Barry Bonds, charging him with 14 counts of lying to a grand jury and one count of obstruction of justice when he denied knowingly using performance-enhancing drugs. ](/news/2008/05/13/u-s-federal-prosecutors-have-filed-a-new-indictment-against-baseball-slugger-barry-bonds-charging-him-with-14-counts-of-lying-to-a-grand.md)
-_Context: Barry Bonds, U.S., baseball, obstruction of justice, perjury_
+_Context: Barry Bonds, U.S., baseball game, obstruction of justice, perjury_
 
 ### [ Wayne Swan, the Treasurer of Australia, delivers his first budget establishing $40 billion funds for infrastructure, health and education. ](/news/2008/05/13/wayne-swan-the-treasurer-of-australia-delivers-his-first-budget-establishing-40-billion-funds-for-infrastructure-health-and-education.md)
 _Context: A$, Treasurer of Australia, Wayne Swan, infrastructure_
@@ -31,7 +31,7 @@ _Context: Baghdad, Iraq, Sadr City, United States Army, militia_
 _Context: Defense Department, Mohammed al Qahtani, September 11, 2001 attacks_
 
 ### [ Colombian warlord extradition Colombia extradites 14 former paramilitary leaders, including Salvatore Mancuso, Rodrigo Tovar Pupo, and Diego Murillo Bejarano, to the United States where they have been charged with drug trafficking. [http://news.bbc.co.uk/2/hi/americas/7398332.stm (BBC News)] President of Colombia  lvaro Uribe says that the assets of warlords will be confiscated to compensate victims.date=October 2012 ](/news/2008/05/13/colombian-warlord-extraditionp-colombia-extradites-14-former-paramilitary-leaders-including-salvatore-mancuso-rodrigo-tovar-pupo-and-die.md)
-_Context: Alvaro Uribe, Colombia, Colombian President, Diego Murillo Bejarano, Rodrigo Tovar Pupo, Salvatore Mancuso, U.S., drug trafficking, paramilitary_
+_Context: Alvaro Uribe, Colombia, Colombian President, Diego Murillo Bejarano, Rodrigo Tovar Pupo, Salvatore Mancuso, United States, drug trafficking, paramilitary_
 
 ## [Previous Day...](/news/2008/05/12/index.md)
 

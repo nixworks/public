@@ -31,13 +31,13 @@ _Context: Australia, East Timor, peacekeepers_
 _Context: Daewoo, Kim Woo Choong, South Korea, fraud_
 
 ### [ In Canada, Cineplex Odeon announces that it is purchasing Famous Players, uniting the two largest movie theatre chains. Famous Players is currently owned by Viacom and will be purchased for about $500 million CAD. In fear of unfair competition, the Federal Commission of Competition has announced that Cineplex needs to sell off 35 of its theatres. ](/news/2005/06/13/in-canada-cineplex-odeon-announces-that-it-is-purchasing-famous-players-uniting-the-two-largest-movie-theatre-chains-famous-players-is-c.md)
-_Context: Canada, Canadian dollar, Cineplex Odeon, Famous Players, Viacom_
+_Context: CAN$, Canada, Cineplex Odeon, Famous Players, Viacom_
 
 ### [ In Nigeria, president Olusegun Obasanjo gives an order that all illegal oil refineries in the Niger River delta should be destroyed ](/news/2005/06/13/in-nigeria-president-olusegun-obasanjo-gives-an-order-that-all-illegal-oil-refineries-in-the-niger-river-delta-should-be-destroyed.md)
 _Context: Niger River, Nigeria, Olusegun Obasanjo, refinery_
 
 ### [ In Mexico, army soldiers and federales take over the city of Nuevo Laredo near the US border. The whole local police force is detained for investigation in connection to drug trafficking and for drug testing. City's just-appointed police chief Alejandro Dominguez was assassinated last Wednesday. On Saturday, a policeman shot a federal agent ](/news/2005/06/13/in-mexico-army-soldiers-and-federales-take-over-the-city-of-nuevo-laredo-near-the-us-border-the-whole-local-police-force-is-detained-for.md)
-_Context: Mexico, Nuevo Laredo, U.S., drug testing, drug trafficking, federales, police_
+_Context: Mexico, Nuevo Laredo, United States, drug testing, drug trafficking, federales, police_
 
 ### [ 14 people drown off the coast of Morocco in a boat that tried to reach Spain ](/news/2005/06/13/14-people-drown-off-the-coast-of-morocco-in-a-boat-that-tried-to-reach-spain.md)
 _Context: Moroccan, Spain_

@@ -33,8 +33,5 @@ Morocco formally announces its wish to rejoin the African Union, 32 years after 
 ### [The 2016 Republican National Convention gets underway in Cleveland, Ohio. With the day's theme being national and local security, notable speakers include reality television star Willie Robertson, actor Scott Baio, former Governor of Texas Rick Perry, former Mayor of New York City Rudy Giuliani, Milwaukee County sheriff David Clarke, retired United States Army lieutenant general Michael T. Flynn and Melania Trump, wife of presumptive Republican nominee for President of the United States Donald Trump. ](/news/2016/07/18/the-2016-republican-national-convention-gets-underway-in-cleveland-ohio-with-the-day-s-theme-being-national-and-local-security-notable-sp.md)
 Several protests took place in Cleveland on the opening day of the Republican National Convention, but they remained peaceful.
 
-### [The World Anti-Doping Agency finds that the Government of Russia was involved in an intensive doping program including at the 2014 Winter Olympics at Sochi. ](/news/2016/07/18/the-world-anti-doping-agency-finds-that-the-government-of-russia-was-involved-in-an-intensive-doping-program-including-at-the-2014-winter-ol.md)
-Russia operated a state-dictated doping system during the 2014 Sochi Winter Olympics and other events, an independent investigator says.
-
 ## [Previous Day...](/news/2016/07/17/index.md)
 

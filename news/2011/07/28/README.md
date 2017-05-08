@@ -54,11 +54,5 @@ _Context: 2011 U.S. debt ceiling crisis, John Boehner, United States House of Re
 ### [Astronomers using the Wide-field Infrared Survey Explorer telescope identify a Trojan asteroid, calling it ''2010 TK<sub>7</sub>'', orbiting on the same path as the Earth around the Sun.  The rock poses no danger to the Earth since it sits in a what is termed a gravitational "sweet spot". ](/news/2011/07/28/astronomers-using-the-wide-field-infrared-survey-explorer-telescope-identify-a-trojan-asteroid-calling-it-2010-tk7-orbiting-on-the-sam.md)
 Astronomers detect an asteroid not far from Earth, moving in the same orbit around the Sun, that could be a target for future manned space missions.
 
-### [In swimming, Ryan Lochte of the United States sets a new world record in the 200-meter individual medley in winning a gold medal at the 2011 World Aquatics Championships in Shanghai, People's Republic of China. Lochte becomes the first person to set a long-course world record since FINA banned rubberized swimsuits in 2010. ](/news/2011/07/28/in-swimming-ryan-lochte-of-the-united-states-sets-a-new-world-record-in-the-200-meter-individual-medley-in-winning-a-gold-medal-at-the-2011.md)
-Ryan Lochte continued to hold Michael Phelps at bay in an event Phelps used to own, the 200-meter individual medley, winning his second consecutive world title in the event and setting a world record of 1:54.00.
-
-### [In soccer, Bob Bradley is dismissed as manager of the United States men's national soccer team. ](/news/2011/07/28/in-soccer-bob-bradley-is-dismissed-as-manager-of-the-united-states-men-s-national-soccer-team.md)
-_Context: Bob Bradley, USA, association football_
-
 ## [Previous Day...](/news/2011/07/27/index.md)
 

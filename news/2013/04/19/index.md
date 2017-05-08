@@ -21,8 +21,5 @@ _Context: Nicolas Maduro, President, Venezuela, last month's presidential electi
 ### [In Italy, after failing to elect the President of Italy on the fourth ballot, Democratic leader Pier Luigi Bersani is to step down, pointing out traitors in his own party. ](/news/2013/04/19/in-italy-after-failing-to-elect-the-president-of-italy-on-the-fourth-ballot-democratic-leader-pier-luigi-bersani-is-to-step-down-pointing.md)
 _Context: Democratic Party, Italian, Pier Luigi Bersani, President of Italy_
 
-### [Russia's Aliya Mustafina and David Belyavskiy win all-around titles at the 2013 European Artistic Gymnastics Championships in Moscow, Russia. ](/news/2013/04/19/russia-s-aliya-mustafina-and-david-belyavskiy-win-all-around-titles-at-the-2013-european-artistic-gymnastics-championships-in-moscow-russia.md)
-_Context: 2013 European Artistic Gymnastics Championships, Aliya Mustafina, David Belyavskiy, Moscow, Russia_
-
 ## [Previous Day...](/news/2013/04/18/index.md)
 

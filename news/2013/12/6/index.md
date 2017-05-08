@@ -24,8 +24,5 @@ _Context: Chang'e 3, China National Space Administration, transorbital insertion
 ### [Researchers at the Sanford-Burnham Medical Research Institute are published in the journal ''Cell'', describing a link between Parkinsonism (Parkinson's disease) and the agricultural pesticides of paraquat and maneb. ](/news/2013/12/6/researchers-at-the-sanford-burnham-medical-research-institute-are-published-in-the-journal-cell-describing-a-link-between-parkinsonism.md)
 _Context: Cell, Parkinson's-like, Parkinsonism, Sanford-Burnham Medical Research Institute, maneb, paraquat, pesticides_
 
-### [2014 FIFA World Cup:The draw for the 2014 FIFA World Cup is done in Brazil with the 2010 FIFA World Cup champions Spain and runners-up The Netherlands both drawn in Group B. ](/news/2013/12/6/2014-fifa-world-cup-pthe-draw-for-the-2014-fifa-world-cup-is-done-in-brazil-with-the-2010-fifa-world-cup-champions-spain-and-runners-up-the.md)
-Champions Spain have been drawn against the team they beat in the 2010 SWC final, the Netherlands at the official draw ceremony.
-
 ## [Previous Day...](/news/2013/12/5/index.md)
 

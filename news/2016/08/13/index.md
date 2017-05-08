@@ -21,8 +21,5 @@ A New York City man appeared in court on Tuesday and denied charges he shot and 
 ### [Violence breaks out in Milwaukee, Wisconsin, following a fatal police shooting of a 23-year-old male criminal armed with a handgun earlier in the day. The Milwaukee Police Department says an officer was injured after being struck in the head by a brick, while a police car and gas station were set on fire. ](/news/2016/08/13/violence-breaks-out-in-milwaukee-wisconsin-following-a-fatal-police-shooting-of-a-23-year-old-male-criminal-armed-with-a-handgun-earlier-i.md)
 A police officer was injured by a thrown brick and a gas station was set on fire hours after an officer fatally shot a man police said was armed.
 
-### [Darya Klishina, Russia's sole track and field competitor at the Rio Olympics, has her exemption to Russia's blanket ban revoked. Reportedly, new evidence  emerged in relation to a World Anti-Doping Agency report. Klishina is appealing the decision to the Court of Arbitration for Sport. ](/news/2016/08/13/darya-klishina-russia-s-sole-track-and-field-competitor-at-the-rio-olympics-has-her-exemption-to-russia-s-blanket-ban-revoked-reportedly.md)
-Three trips to the top of the podium on Saturday clinched the milestone. 
-
 ## [Previous Day...](/news/2016/08/12/index.md)
 

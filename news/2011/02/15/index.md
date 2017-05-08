@@ -40,7 +40,7 @@ _Context: Boeing 757, United Airlines_
 reaching impact on deals (Adds background, judge and Airgas comment, from paragraphfour)
 
 ### [Argentina lodges an official complaint against the United States after America's landing of a military plane loaded with undeclared "sensitive material", including guns, drugs and satellite phones, leading the Argentinian government to express concerns that the U.S. was attempting to sneak its cargo into the country.  ](/news/2011/02/15/argentina-lodges-an-official-complaint-against-the-united-states-after-america-s-landing-of-a-military-plane-loaded-with-undeclared-sensiti.md)
-_Context: Argentina, U.S._
+_Context: Argentina, United States_
 
 ### [The United States Secretary of State Hillary Clinton outlines a new policy on Internet freedom. ](/news/2011/02/15/the-united-states-secretary-of-state-hillary-clinton-outlines-a-new-policy-on-internet-freedom.md)
 The State Department will finance programs to help Internet users around the world limit surveillance.
@@ -74,15 +74,6 @@ _Context: Israel, boycotting Israeli, parliament in Israel_
 
 ### [A proposal by a consortium of private contractors to attack WikiLeaks and to discredit journalists in favour of the website - including Glenn Greenwald - is uncovered after thousands of e-mails are leaked onto the internet, some of which call for people who donate to be tracked and intimidated. ](/news/2011/02/15/a-proposal-by-a-consortium-of-private-contractors-to-attack-wikileaks-and-to-discredit-journalists-in-favour-of-the-website-including-glen.md)
 The computer hackers&#039; collective Anonymous has uncovered a proposal by a consortium of private contractors to attack and discredit WikiLeaks.
-
-### [The 2012 Summer Olympics timetable is released. ](/news/2011/02/15/the-2012-summer-olympics-timetable-is-released.md)
-_Context: 2012 Summer Olympics_
-
-### [The International Cricket Council bans the use of Twitter by players and officials during the 2011 Cricket World Cup due to fears that players will be contacted by illegal bookmakers during matches. ](/news/2011/02/15/the-international-cricket-council-bans-the-use-of-twitter-by-players-and-officials-during-the-2011-cricket-world-cup-due-to-fears-that-playe.md)
-BANGALORE: Players and officials have been banned from tweeting during World Cup matches because the International Cricket Council fears they may be contacted by illegal bookmakers during play.
-
-### [Foxcliffe Hickory Wind, a Scottish Deerhound, wins Best in Show at the Westminster Kennel Club Dog Show. ](/news/2011/02/15/foxcliffe-hickory-wind-a-scottish-deerhound-wins-best-in-show-at-the-westminster-kennel-club-dog-show.md)
-_Context: Best in Show, Scottish Deerhound, Westminster Kennel Club Dog Show_
 
 ## [Previous Day...](/news/2011/02/14/index.md)
 

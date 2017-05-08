@@ -58,11 +58,5 @@ _Context: Chairman of the Joint Chiefs of Staff, John M. Shalikashvili_
 ### [CERN's Large Hadron Collider (LHC) produces notable fluctuations in search for Higgs Boson particle. ](/news/2011/07/23/cern-s-large-hadron-collider-lhc-produces-notable-fluctuations-in-search-for-higgs-boson-particle.md)
 The Large Hadron Collider (LHC) has picked up tantalising fluctuations which might - or might not - be hints of the sought-after Higgs boson particle.
 
-### [Australian cyclist Cadel Evans wins the right to wear the yellow jersey on the final stage of the 2011 Tour de France. ](/news/2011/07/23/australian-cyclist-cadel-evans-wins-the-right-to-wear-the-yellow-jersey-on-the-final-stage-of-the-2011-tour-de-france.md)
-_Context: 2011 Tour de France, Australian, Cadel Evans, final stage, yellow jersey_
-
-### [The world footballing body FIFA bans former presidential candidate Mohamed Bin Hammam for life over claims he tried to buy presidential votes. ](/news/2011/07/23/the-world-footballing-body-fifa-bans-former-presidential-candidate-mohamed-bin-hammam-for-life-over-claims-he-tried-to-buy-presidential-vote.md)
-_Context: FIFA, Mohamed Bin Hammam_
-
 ## [Previous Day...](/news/2011/07/22/index.md)
 

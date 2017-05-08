@@ -7,7 +7,7 @@ _Context: Hugo Chvez, Venezuela, Venezuelan President, constitutional amendments
 Russian President Vladimir Putin won a big endorsement in a parliamentary election on Sunday but the United States urged Moscow to investigate opposition charges of widespread fraud.
 
 ### [ Sbastien Loeb wins the World Rally Championship for the fourth time in a row, a feat only so far accomplished by Tommi Mkinen. ](/news/2007/12/2/sebastien-loeb-wins-the-world-rally-championship-for-the-fourth-time-in-a-row-a-feat-only-so-far-accomplished-by-tommi-makinen.md)
-_Context: Sbastien Loeb, Tommi Mkinen, WRC_
+_Context: Sbastien Loeb, Tommi Mkinen, World Rally Championship_
 
 ### [ Brazil starts free-to-air digital television transmissions in So Paulo, but broadcasting companies must transmit signals in both analogue and digital formats until June 2016. ](/news/2007/12/2/brazil-starts-free-to-air-digital-television-transmissions-in-sao-paulo-but-broadcasting-companies-must-transmit-signals-in-both-analogue.md)
 _Context: Brazil, Sao Paulo, digital television_

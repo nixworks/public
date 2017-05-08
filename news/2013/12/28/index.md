@@ -24,8 +24,5 @@ _Context: Soyuz-2-1v_
 ### [Four new species of sea creatures discovered at a cold seep on the seabed near Rockall ](/news/2013/12/28/four-new-species-of-sea-creatures-discovered-at-a-cold-seep-on-the-seabed-near-rockall.md)
 Four animals previously unknown to science discovered in deep water off Scotland, says the Scottish government.
 
-### [In mixed martial arts:Chris Weidman defeats Anderson Silva via technical knockout to retain the UFC Middleweight Championship. ](/news/2013/12/28/in-mixed-martial-arts-pchris-weidman-defeats-anderson-silva-via-technical-knockout-to-retain-the-ufc-middleweight-championship.md)
-LAS VEGAS – For Ronda Rousey, one streak ended, but another remained intact. Living up to her reputation as the world&#39;s nastiest arm collector, Ronda Rousey again stopped Miesha Tate with an armbar to retain
-
 ## [Previous Day...](/news/2013/12/27/index.md)
 

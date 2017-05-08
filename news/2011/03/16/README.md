@@ -22,19 +22,13 @@ _Context: an earthquake and tsunami_
 Cambodian police ask prosecutors to charge a recruitment firm with illegally detaining its staff, after one woman died and another was injured at its training centre.
 
 ### [Raymond Davis, an official with the United States embassy in Pakistan, is acquitted of charges of two counts of murder and released from jail after compensation is paid to the victims' families, the result of intense diplomatic talks between the United States and Pakistan.](/news/2011/03/16/raymond-davis-an-official-with-the-united-states-embassy-in-pakistan-is-acquitted-of-charges-of-two-counts-of-murder-and-released-from-jai.md)
-_Context: Pakistan, Raymond Davis, U.S._
+_Context: Pakistan, Raymond Davis, United States_
 
 ### [Hillary Clinton, the United States Secretary of State, states that she will not serve a second term in President Obama's Cabinet if he is reelected in 2012 and will retire from public life. ](/news/2011/03/16/hillary-clinton-the-united-states-secretary-of-state-states-that-she-will-not-serve-a-second-term-in-president-obama-s-cabinet-if-he-is-re.md)
 _Context: Hillary Clinton, Obama, President, United States Secretary of State, United States presidential election, 2012_
 
 ### [Michigan protests:The Governor of Michigan Rick Snyder signs legislation giving enhanced powers to emergency managers appointed to manage cities and schools including the power to terminate union contracts. ](/news/2011/03/16/michigan-protests-pthe-governor-of-michigan-rick-snyder-signs-legislation-giving-enhanced-powers-to-emergency-managers-appointed-to-manage-c.md)
 _Context: Governor, Michigan, Rick Snyder, unionize_
-
-### [The organisers of the 2011 Rugby World Cup in New Zealand decide to reschedule games originally due to be held in Christchurch due to damage caused to Lancaster Park by the 2011 Canterbury earthquake. ](/news/2011/03/16/the-organisers-of-the-2011-rugby-world-cup-in-new-zealand-decide-to-reschedule-games-originally-due-to-be-held-in-christchurch-due-to-damage.md)
-Earthquake-ravaged Christchurch has lost its rights to host seven Rugby World Cup games.
-
-### [Indian Railways driver Surekha Yadav loco pilot mail, drives the Deccan Queen from Pune to Mumbai CST, for Central Railways division, and becomes the first woman from this country to do so.](/news/2011/03/16/indian-railways-driver-surekha-yadav-loco-pilot-mail-drives-the-deccan-queen-from-pune-to-mumbai-cst-for-central-railways-division-and-be.md)
-_Context: Surekha Yadav_
 
 ## [Previous Day...](/news/2011/03/15/index.md)
 

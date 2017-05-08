@@ -57,11 +57,5 @@ _Context: Africa, Burkina Faso, Mali, Niger, meningitis_
 ### [Scientists announce the discovery of more than 1,000 new species resulting from a 2006 survey conducted on Espiritu Santo island in Vanuatu. ](/news/2011/06/9/scientists-announce-the-discovery-of-more-than-1-000-new-species-resulting-from-a-2006-survey-conducted-on-espiritu-santo-island-in-vanuatu.md)
 _Context: Espiritu Santo, Vanuatu, species_
 
-### [The 2011 Bahrain Grand Prix is officially cancelled due to continuing unrest. ](/news/2011/06/9/the-2011-bahrain-grand-prix-is-officially-cancelled-due-to-continuing-unrest.md)
-Bahrain Grand Prix organisers have now given up on their hopes of holding a Formula 1 race this year, leaving the way open for India to have its October 30 date reinstated.
-
-### [In North American basketball, the Dallas Mavericks beat the Miami Heat 112-103 to win Game 5 of the 2011 NBA Finals and take a 3-2 lead in the series. ](/news/2011/06/9/in-north-american-basketball-the-dallas-mavericks-beat-the-miami-heat-112-103-to-win-game-5-of-the-2011-nba-finals-and-take-a-3-2-lead-in-t.md)
-_Context: 2011 NBA Finals, Dallas Mavericks, Miami Heat, North America_
-
 ## [Previous Day...](/news/2011/06/8/index.md)
 

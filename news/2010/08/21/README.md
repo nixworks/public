@@ -57,8 +57,5 @@ First female PM fighting to keep power amid strong challenge from conservative c
 ### [Musician Wyclef Jean is formally declared unsuitable as a presidential candidate in Haiti's election. ](/news/2010/08/21/musician-wyclef-jean-is-formally-declared-unsuitable-as-a-presidential-candidate-in-haiti-s-election.md)
 _Context: Haiti, Haiti's presidential election, Wyclef Jean_
 
-### [Dutch sailor Laura Dekker starts her bid to become the youngest person to circumnavigate the world solo in Portimo, Portugal. ](/news/2010/08/21/dutch-sailor-laura-dekker-starts-her-bid-to-become-the-youngest-person-to-circumnavigate-the-world-solo-in-portimao-portugal.md)
-_Context: Dutch, Laura Dekker, Portimo, Portuguese, circumnavigation_
-
 ## [Previous Day...](/news/2010/08/20/index.md)
 

@@ -64,7 +64,7 @@ _Context: Midland, Ontario, Toronto_
 &ldquo;I&rsquo;M RUNNING pretty much on adrenaline,&rdquo; said the US Open golf champion as the cheers died down
 
 ### [Isner-Mahut match at the 2010 Wimbledon Championships becomes the longest match in Association of Tennis Professionals history, and is adjourned after 9 hours. ](/news/2010/06/23/isneramahut-match-at-the-2010-wimbledon-championships-becomes-the-longest-match-in-association-of-tennis-professionals-history-and-is-adj.md)
-_Context: ATP, last year's record-breaking epic_
+_Context: Association of Tennis Professionals, Isner-Mahut match at the 2010 Wimbledon Championships_
 
 ## [Previous Day...](/news/2010/06/22/index.md)
 

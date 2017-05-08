@@ -36,11 +36,5 @@ Thousands of protersters have moved on Downing Street to call for tough action o
 ### [Puerto Rican Governor Alejandro Garcia Padilla announces he declared a state of emergency at the Commonwealth's Government Development Bank yesterday, which allows withdrawals only to fund necessary costs for health, public safety, and education services. Without this measure and debt restructuring,  the United States territory would be forced to default as it faces nearly $2.5 billion in bond payments from May through July. ](/news/2016/04/9/puerto-rican-governor-alejandro-garcaa-padilla-announces-he-adeclared-a-state-of-emergency-at-the-commonwealth-s-government-development-ba.md)
 The order allows withdrawals only to fund necessary costs for health, public safety and education services.
 
-### [British horse Rule The World wins the 2016 Grand National. ](/news/2016/04/9/british-horse-rule-the-world-wins-the-2016-grand-national.md)
-_Context: 2016 Grand National, Rule The World_
-
-### [In boxing, Anthony Joshua wins the International Boxing Federation heavyweight championship defeating Charles Martin the defending champion. ](/news/2016/04/9/in-boxing-anthony-joshua-wins-the-international-boxing-federation-heavyweight-championship-defeating-charles-martin-the-defending-champion.md)
-Anthony Joshua made light work of Charles Martin to claim the IBF world heavyweight title, sending the defending champion to the canvas twice in round two before the referee brought a swift end to the fight
-
 ## [Previous Day...](/news/2016/04/8/index.md)
 

@@ -33,8 +33,5 @@ RIO DE JANEIRO (AP) — The rollercoaster ride that is the impeachment drive aga
 ### [ A transit of Mercury occurs, visible from Africa, the Americas, Europe and most of Asia. ](/news/2016/05/9/a-transit-of-mercury-occurs-visible-from-africa-the-americas-europe-and-most-of-asia.md)
 _Context: transit of Mercury_
 
-### [UEFA President Michel Platini, who had been suspended by the FIFA Ethics Committee last fall, announces his resignation following the Court of Arbitration for Sport decision  that let stand his ban, shortened to four years which corresponds to the duration of his remaining time in office. The court ruled that Platini was guilty of conflict of interest for taking a $2 million payment from FIFA approved by Sepp Blatter in 2011.  ](/news/2016/05/9/uefa-president-michel-platini-who-had-been-suspended-by-the-fifa-ethics-committee-last-fall-announces-his-resignation-following-the-court.md)
-Platini called the verdict a &quot;deep injustice.&quot;
-
 ## [Previous Day...](/news/2016/05/8/index.md)
 

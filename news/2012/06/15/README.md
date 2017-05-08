@@ -60,8 +60,5 @@ _Context: Anglicans, Australia, Holy See, Our Lady of the Southern Cross, Person
 ### [Bulgarian remains believed by some to be John The Baptist are scientifically dated to the first century AD. ](/news/2012/06/15/bulgarian-remains-believed-by-some-to-be-john-the-baptist-are-scientifically-dated-to-the-first-century-ad.md)
 _Context: Bulgarian remains, John The Baptist_
 
-### [UEFA Euro 2012:In an unprecedented development, the match between France and Ukraine at the Donbass Arena in Donetsk, Ukraine, is postponed for 55 minutes in the midst of a lightning storm and torrential rain. ](/news/2012/06/15/uefa-euro-2012-pin-an-unprecedented-development-the-match-between-france-and-ukraine-at-the-donbass-arena-in-donetsk-ukraine-is-postponed.md)
-_Context: Donbass Arena, Donetsk, France, UEFA Euro 2012, Ukraine_
-
 ## [Previous Day...](/news/2012/06/14/index.md)
 

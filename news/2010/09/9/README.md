@@ -10,7 +10,7 @@ _Context: 2010 Vladikavkaz bombing, Caucasus, Russia, Vladikavkaz, suicide bombi
 _Context: Battle of Mogadishu (2010), Mogadishu Airport, Somalia_
 
 ### [United States Marines board and seize control of a German-owned vessel, Magellan Star, previously captured by pirates off the coast of Somalia. ](/news/2010/09/9/united-states-marines-board-and-seize-control-of-a-german-owned-vessel-magellan-star-previously-captured-by-pirates-off-the-coast-of-somal.md)
-_Context: Germany, Magellan Star, Pirate, Somalia, United States Marines_
+_Context: German, Magellan Star, Pirate, Somalia, United States Marines_
 
 ### [Archaeologists date the mound of Moot Hill in Scone Palace where medieval Kings of Scotland including Robert the Bruce were crowned back to at least 1,000 years ago. ](/news/2010/09/9/archaeologists-date-the-mound-of-moot-hill-in-scone-palace-where-medieval-kings-of-scotland-including-robert-the-bruce-were-crowned-back-to.md)
 _Context: Archaeologist, Kings of Scotland, Robert the Bruce, Scone Palace_
@@ -25,7 +25,7 @@ _Context: China's, Fujian, Guangdong province, Guangxi Zhuang, Hainan, Taiwan, T
 The official death toll from the natural-gas-line explosion in a Bay Area suburb stands at four people, with 38 homes destroyed, as authorities investigate what caused the blast.
 
 ### [An Iranian diplomat at the United Nations states that United States citizen Sarah Shourd will be released "very soon". ](/news/2010/09/9/an-iranian-diplomat-at-the-united-nations-states-that-united-states-citizen-sarah-shourd-will-be-released-very-soon.md)
-_Context: Iran, Sarah Shourd, U.S., United Nations, diplomat_
+_Context: Iran, Sarah Shourd, United Nations, United States, diplomat_
 
 ### ["Ground zero" mosque and cultural centre controversySusilo Bambang Yudhoyono, the President of Indonesia, and Asif Ali Zardari, the President of Pakistan, call on President of the United States, Barack Obama, to stop International Burn a Koran Day being organised by the Dove World Outreach Center. ](/news/2010/09/9/ground-zero-mosque-and-cultural-centre-controversypsusilo-bambang-yudhoyono-the-president-of-indonesia-and-asif-ali-zardari-the-preside.md)
 Barack Obama has condemned an American pastor&rsquo;s plan to burn copies of the Koran on the ninth anniversary of September 11 as a &ldquo;recruitment bonanza for al-Qaeda&rdquo;, as outrage has built across the Islam world.

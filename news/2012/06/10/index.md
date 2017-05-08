@@ -22,7 +22,7 @@ A STRONG earthquake hit off the southwest coast of Turkey overnight near a popul
 The M1 in West Yorkshire is closed and homes are flooded following sudden torrential downpours.
 
 ### [Heavy rainfall damages roadways and bridges the Southeastern United States, with 20 inches falling in Escambia County, Florida. ](/news/2012/06/10/heavy-rainfall-damages-roadways-and-bridges-the-southeastern-united-states-with-20-inches-falling-in-escambia-county-florida.md)
-_Context: Escambia County, FL, Southeastern United States_
+_Context: Escambia County, Florida, Southeastern United States_
 
 ### [Over documents delivered to Saif al-Islam, detained son of slain leader Muammar Gaddafi, Libya arrests an Australian lawyer from the International Criminal Court (ICC) for trying "to deliver documents to the accused, documents that have nothing to do with his case and that represent a danger to the security of Libya". ](/news/2012/06/10/over-documents-delivered-to-saif-al-islam-detained-son-of-slain-leader-muammar-gaddafi-libya-arrests-an-australian-lawyer-from-the-interna.md)
 _Context: International Criminal Court, Libya, Muammar Gaddafi, Saif al-Islam_
@@ -38,15 +38,6 @@ _Context: Local elections, Romania, Social Liberal Union_
 
 ### [Voters in France go to the polls for the first round of parliamentary elections with the Socialist Party doing well. ](/news/2012/06/10/voters-in-france-go-to-the-polls-for-the-first-round-of-parliamentary-elections-with-the-socialist-party-doing-well.md)
 French President Francois Hollande is on track to win a solid parliamentary majority after a first-round election that leaves him strengthened heading into a flurry of talks with euro zone leaders that could make or break the currency union.
-
-### [UEFA Euro 2012:Nikica Jelavic's controversial offside goal helps Croatia to a victory over the Irish at the Stadion Miejski in Poznan. ](/news/2012/06/10/uefa-euro-2012-pnikica-jelavia-s-controversial-offside-goal-helps-croatia-to-a-victory-over-the-irish-at-the-stadion-miejski-in-poznaa.md)
-Giovanni Trapattoni laments costly offside decision as the Republic of Ireland lose out to Croatia
-
-### [Usain Bolt is unhurt following a car accident in Jamaica. ](/news/2012/06/10/usain-bolt-is-unhurt-following-a-car-accident-in-jamaica.md)
-_Context: Jamaica, Usain Bolt_
-
-### [In golf, Shanshan Feng becomes the first Chinese player to win a major after winning the 2012 LPGA Championship. ](/news/2012/06/10/in-golf-shanshan-feng-becomes-the-first-chinese-player-to-win-a-major-after-winning-the-2012-lpga-championship.md)
-Golfer Feng Shanshan becomes the first player from China to win a major event after winning the LPGA Championship in the United States.
 
 ## [Previous Day...](/news/2012/06/9/index.md)
 

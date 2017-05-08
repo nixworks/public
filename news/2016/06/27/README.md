@@ -36,8 +36,5 @@ _Context: Supreme Court of the United States, Texas, Whole Woman's Health v. Hel
 ### [United Kingdom withdrawal from the European Union:Peter Altmaier, German Chancellor Angela Merkel's chief of staff, warns Britain of dire consequences of exit from the European Union, saying in a newspaper interview that UK leaders should not rule out the possibility of another referendum on the same issue. ](/news/2016/06/27/united-kingdom-withdrawal-from-the-european-union-ppeter-altmaier-german-chancellor-angela-merkelas-chief-of-staff-warns-britain-of-dire.md)
 German Chancellor Angela Merkel’s chief of staff urged a time-out in Britain’s exit from the European Union, saying in a newspaper interview that U.K. leaders should pause to consider the implications.
 
-### [Underdogs Iceland defeat England 2-1 at the Allianz Riviera in Nice to reach the quarter-finals of the UEFA European Championship. ](/news/2016/06/27/underdogs-iceland-defeat-england-2-1-at-the-allianz-riviera-in-nice-to-reach-the-quarter-finals-of-the-uefa-european-championship.md)
-England suffer a humiliating exit from Euro 2016 as they go out to minnows Iceland in the last 16 in Nice.
-
 ## [Previous Day...](/news/2016/06/26/index.md)
 

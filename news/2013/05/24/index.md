@@ -45,11 +45,5 @@ _Context: President, Rafael Correa_
 ### [President of Uganda Yoweri Museveni removes Aronda Nyakairima as head of the military and names him as Minister of the Interior. ](/news/2013/05/24/president-of-uganda-yoweri-museveni-removes-aronda-nyakairima-as-head-of-the-military-and-names-him-as-minister-of-the-interior.md)
 _Context: Aronda Nyakairima, President, Yoweri Museveni_
 
-### [In association football, Gibraltar is accepted as a full UEFA member at the organization's XXVIII congress. ](/news/2013/05/24/in-association-football-gibraltar-is-accepted-as-a-full-uefa-member-at-the-organization-s-xxviii-congress.md)
-_Context: Gibraltar, UEFA, association football_
-
-### [In cycling, 2007 Giro d'Italia winner Danilo Di Luca of Italy tests positive for Erythropoietin (EPO). ](/news/2013/05/24/in-cycling-2007-giro-d-italia-winner-danilo-di-luca-of-italy-tests-positive-for-erythropoietin-epo.md)
-_Context: Danilo Di Luca, Erythropoietin, Giro d'Italia, Italian, cycling_
-
 ## [Previous Day...](/news/2013/05/23/index.md)
 

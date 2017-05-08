@@ -12,11 +12,5 @@ A man has randomly driven his van into a crowd in Graz, Austria, killing 3 peopl
 ### [Tens of thousands in London demonstrate anti-austerity protests outside the Parliament. ](/news/2015/06/20/tens-of-thousands-in-london-demonstrate-anti-austerity-protests-outside-the-parliament.md)
 _Context: Anti-austerity movement_
 
-### [ In association football, the 2015 FIFA U-20 World Cup concludes in Auckland with Serbia defeating Brazil, 2-1, in the final. ](/news/2015/06/20/in-association-football-the-2015-fifa-u-20-world-cup-concludes-in-auckland-with-serbia-defeating-brazil-2a1-in-the-final.md)
-_Context: 2015 FIFA U-20 World Cup, Auckland, Brazil, Serbia, association football_
-
-### [ In Major League Baseball, Washington Nationals pitcher Max Scherzer, one strike away from a perfect game, loses his bid when he hits the Pittsburgh Pirates' Jose Tabata with a pitch. Scherzer retires the next batter to complete a 6-0 win and a no-hitter. ](/news/2015/06/20/in-major-league-baseball-washington-nationals-pitcher-max-scherzer-one-strike-away-from-a-perfect-game-loses-his-bid-when-he-hits-the-pi.md)
-_Context: Jose Tabata, Major League Baseball, Max Scherzer, Pittsburgh Pirates, Washington Nationals, hits, no-hitter, perfect game_
-
 ## [Previous Day...](/news/2015/06/19/index.md)
 

@@ -51,11 +51,5 @@ By Syed Raza HassanKARACHI (Reuters) -...
 ### [A man goes on a shooting spree in Maine, U.S., killing two people and wounding three others in the towns of Lee and Benedicta. A manhunt is executed, and the suspect is arrested in Houlton. ](/news/2015/07/17/a-man-goes-on-a-shooting-spree-in-maine-u-s-killing-two-people-and-wounding-three-others-in-the-towns-of-lee-and-benedicta-a-manhunt-is.md)
 A manhunt in Maine for a suspect wanted in connection with the fatal shootings of two people, wounding of three others and an alleged hostage taking ended Friday afternoon near the New Brunswick border.
 
-### [Genzebe Dibaba of Ethiopia breaks the world record for women's 1500|meter|abbr=off at the Herculis IAAF Diamond League event in Monaco running  3 minutes, 50.08 seconds. ](/news/2015/07/17/genzebe-dibaba-of-ethiopia-breaks-the-world-record-for-women-s-1500-meter-abbr-off-at-the-herculis-iaaf-diamond-league-event-in-monaco-runni.md)
-_Context: Ethiopia, Genzebe Dibaba, Herculis, IAAF Diamond League, List of world records in athletics, Monaco_
-
-### [University marine scientists observe that a shipwreck discovered off the North Carolina Coast on July 12 may date back to the American Revolution. ](/news/2015/07/17/university-marine-scientists-observe-that-a-shipwreck-discovered-off-the-north-carolina-coast-on-july-12-may-date-back-to-the-american-revol.md)
-Scientists discovered a previously unknown shipwreck off the North Carolina Coast that may date back to the American Revolution.
-
 ## [Previous Day...](/news/2015/07/16/index.md)
 

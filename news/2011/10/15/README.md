@@ -18,11 +18,5 @@ _Context: El Paso, Kinder Morgan, natural gas_
 ### [Occupy Wall Street protests:Activists affiliated with the Occupy Wall Street movement, which opposes economic inequality and corporate greed, take to the streets in numerous cities worldwide, including Sydney, Rome, Bucharest, Taipei, Tokyo, Toronto, Berlin, and Madrid, in a day of coordinated mass protests. ](/news/2011/10/15/occupy-wall-street-protests-pactivists-affiliated-with-the-occupy-wall-street-movement-which-opposes-economic-inequality-and-corporate-gree.md)
 About 2,000 protesters with the Occupy Wall Street movement marched through New York’s financial district Saturday.
 
-### [France defeats Wales 9-8 in the 2011 Rugby World Cup semi-final at Eden Park in Auckland, New Zealand. ](/news/2011/10/15/france-defeats-wales-9-8-in-the-2011-rugby-world-cup-semi-final-at-eden-park-in-auckland-new-zealand.md)
-Read a full match report of the World Cup semi-final between France and Wales at Eden Park, Auckland, on Saturday Oct 15 2011.
-
-### [The Netherlands becomes the first European country to win a professional world baseball championship since 1938, after defeating Cuba 2-1 in the 2011 Baseball World Cup final in Panama City, Panama. ](/news/2011/10/15/the-netherlands-becomes-the-first-european-country-to-win-a-professional-world-baseball-championship-since-1938-after-defeating-cuba-2-1-in.md)
-_Context: 1938, 2011 Baseball World Cup, Cuban National Team, Panama, Panama City, The Netherlands, baseball_
-
 ## [Previous Day...](/news/2011/10/14/index.md)
 

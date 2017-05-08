@@ -10,7 +10,7 @@ _Context: Grand Central Terminal, Midtown, New York's, evacuation centers, steam
 _Context: Europe, Great Britain, Nature, Weald-Artois Anticline, flood, island_
 
 ### [ Florida Governor Charlie Crist ends the state's temporary voluntary moratorium on the death penalty by signing the death warrant of Mark Dean Schwab, convicted in 1992 of kidnapping, raping and murdering an 11-year-old boy in Cocoa, Florida.  He is scheduled to die on November 15, 2007. ](/news/2007/07/18/florida-governor-charlie-crist-ends-the-state-s-temporary-voluntary-moratorium-on-the-death-penalty-by-signing-the-death-warrant-of-mark-de.md)
-_Context: 1992, Charlie Crist, Cocoa, Florida, FL, Florida Governor, Mark Dean Schwab, death penalty, death warrant, moratorium_
+_Context: 1992, Charlie Crist, Cocoa, Florida, Florida, Florida Governor, Mark Dean Schwab, death penalty, death warrant, moratorium_
 
 ### [ Atlanta Falcons quarterback Michael Vick and three others are indicted by a federal grand jury in connection with the Bad Newz Kennels dog fighting investigation. ](/news/2007/07/18/atlanta-falcons-quarterback-michael-vick-and-three-others-are-indicted-by-a-federal-grand-jury-in-connection-with-the-bad-newz-kennels-dog.md)
 Michael Vick has been indicted by a federal grand jury in connection with the dogfighting probe of his property in Virginia.

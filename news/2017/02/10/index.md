@@ -39,11 +39,5 @@ Price, who served in Congress since 2005, has been a major proponent of dismantl
 ### [Iran marks its 38th anniversary of the Iranian Revolution with nationwide rallies and ceremonies. The ceremony also contains some anti-Trump protests. ](/news/2017/02/10/iran-marks-its-38th-anniversary-of-the-iranian-revolution-with-nationwide-rallies-and-ceremonies-the-ceremony-also-contains-some-anti-trump.md)
 _Context: Iranian Revolution_
 
-### [Russian track and field athlete Mariya Savinova is banned by the Court of Arbitration for Sport from partaking in any sporting events for four years and is stripped of her gold medal that she won in the 800 metres at the 2012 Summer Olympics for doping between 2010 and 2013. ](/news/2017/02/10/russian-track-and-field-athlete-mariya-savinova-is-banned-by-the-court-of-arbitration-for-sport-from-partaking-in-any-sporting-events-for-fo.md)
-_Context: Court of Arbitration for Sport, Doping in Russia, Mariya Savinova, the 800 metres at the 2012 Summer Olympics, track and field_
-
-### [The Iditarod Trail Committee announces the race's March official start has been moved from the Anchorage area northeast to Fairbanks, Alaska, due to low-snow conditions in the Alaska Range. ](/news/2017/02/10/the-iditarod-trail-committee-announces-the-race-s-march-official-start-has-been-moved-from-the-anchorage-area-northeast-to-fairbanks-alaska.md)
-ANCHORAGE, Alaska (AP) — Low-snow conditions in the Alaska Range have forced officials with the world&#039;s most famous sled dog race to move its official start from the Anchorage area to Fairbanks. It&#039;s the second time in…
-
 ## [Previous Day...](/news/2017/02/9/index.md)
 

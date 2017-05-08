@@ -15,8 +15,5 @@ _Context: Basic Law, Hong Kong, Hong Kong Basic Law Article 23, Tung Chee-Hwa_
 ### [ Premier John Hamm of Nova Scotia, Canada, calls a provincial election for August 5.](/news/2003/07/5/premier-john-hamm-of-nova-scotia-canada-calls-a-provincial-election-for-august-5.md)
 _Context: August 5, John Hamm, Nova Scotia_
 
-### [ Wimbledon championships: Serena Williams repeats as women's champion by beating her sister Venus, by scores of 4-6, 6-4, 6-2.](/news/2003/07/5/wimbledon-championships-serena-williams-repeats-as-women-s-champion-by-beating-her-sister-venus-by-scores-of-4a6-6a4-6a2.md)
-_Context: Serena Williams, Venus Williams, Wimbledon Championships_
-
 ## [Previous Day...](/news/2003/07/4/index.md)
 

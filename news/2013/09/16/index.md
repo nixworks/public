@@ -33,11 +33,5 @@ _Context: Paul Kagame, President, Rwanda, Rwandan Patriotic Front, parliamentary
 ### [Bombardier's CS100 successfully completes its first test flight out of Montreal-Mirabel International Airport. ](/news/2013/09/16/bombardier-s-cs100-successfully-completes-its-first-test-flight-out-of-montra-c-al-mirabel-international-airport.md)
 _Context: CS100, Montreal-Mirabel International Airport_
 
-### [In association football, the coach and eight players with Southern Stars FC are arrested in relation to matchfixing in Australia's Victorian Premier League. ](/news/2013/09/16/in-association-football-the-coach-and-eight-players-with-southern-stars-fc-are-arrested-in-relation-to-matchfixing-in-australia-s-victorian.md)
-_Context: Australia, Southern Stars FC, Victorian Premier League, association football_
-
-### [Naegleria fowleri is found in tap water near New Orleans, marking the first time the pathogenic amoeba has been detected in U.S. public water supply. ](/news/2013/09/16/naegleria-fowleri-is-found-in-tap-water-near-new-orleans-marking-the-first-time-the-pathogenic-amoeba-has-been-detected-in-u-s-public-wate.md)
-A deadly brain amoeba that’s killed two boys this year has been found in a U.S. drinking water supply system for the first time, officials said Monday -- in a New Orleans-area system. The Naegleria fowleri parasite killed a 4-year-old Mississippi boy who likely got it playing on a back yard Slip &#x27;N Slide, Centers for Disease Control and Prevention officials say.
-
 ## [Previous Day...](/news/2013/09/15/index.md)
 

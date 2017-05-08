@@ -19,7 +19,7 @@ _Context: 2008 unrest in Tibet, China's, Lhasa, Qiangba Puncog, Tibet, Tibet Aut
 _Context: 2008 National People's Congress, Hui Liangyu, Li Keqiang, Wang Qishan, Zhang Dejiang, parliament_
 
 ### [ War in Iraq: United States Vice President Dick Cheney visits Baghdad, three days before the fifth anniversary of the 2003 invasion. ](/news/2008/03/17/war-in-iraq-p-united-states-vice-president-dick-cheney-visits-baghdad-three-days-before-the-fifth-anniversary-of-the-2003-invasion.md)
-_Context: 2003 invasion of Iraq, Baghdad, Dick Cheney, Iraq, U.S., U.S. Vice President, War in Iraq_
+_Context: 2003 invasion of Iraq, Baghdad, Dick Cheney, Iraq, U.S. Vice President, United States, War in Iraq_
 
 ### [ Pakistan: The new Parliament convenes for the first time after the 2008 general election. ](/news/2008/03/17/pakistan-p-the-new-parliament-convenes-for-the-first-time-after-the-2008-general-election.md)
 _Context: Pakistan, Parliament, by-elections_
@@ -37,7 +37,7 @@ _Context: David Paterson, Eliot Spitzer prostitution scandal, New York Governor_
 _Context: 2008 municipal elections, France, Nicolas Sarkozy, President of France, UMP_
 
 ### [ German Chancellor Angela Merkel and half of her cabinet visit Israel in a move to upgrade bilateral relations ](/news/2008/03/17/german-chancellor-angela-merkel-and-half-of-her-cabinet-visit-israel-in-a-move-to-upgrade-bilateral-relations.md)
-_Context: Angela Merkel, Chancellor, Germany, Israel_
+_Context: Angela Merkel, Chancellor, German, Israel_
 
 ### [ The trial of Jovica Stanisic and Franko Simatovic, two former Serbian State Security Service officers and allies of Slobodan Milosevic, starts at the International Criminal Tribunal for the former Yugoslavia in The Hague. ](/news/2008/03/17/the-trial-of-jovica-stania-ia-and-franko-simatovia-two-former-serbian-state-security-service-officers-and-allies-of-slobodan-miloa-evia.md)
 _Context: Franko Simatovic, International Criminal Tribunal for the former Yugoslavia, Jovica Stanisic, Serbia, Slobodan Milosevic, State Security Service, The Hague_

@@ -30,14 +30,5 @@ _Context: Port of Amsterdam, Steve Jobs, Venus, high-tech, yacht_
 ### [SpaceX releases video of the latest test of their Grasshopper rocket with vertical takeoff and vertical landing, where it rose 40 meters (131 feet), hovered and landed safely on the pad on 17 December. ](/news/2012/12/24/spacex-releases-video-of-the-latest-test-of-their-grasshopper-rocket-with-vertical-takeoff-and-vertical-landing-where-it-rose-40-meters-13.md)
 SpaceX recently released video of the latest test of their Grasshopper Vertical Take Off and Landing Vehicle, where it rose 40 meters (131 feet), hovered a
 
-### [RCD Mallorca football club's president Jaume Cladera resigns from his post with the La Liga club. ](/news/2012/12/24/rcd-mallorca-football-club-s-president-jaume-cladera-resigns-from-his-post-with-the-la-liga-club.md)
-_Context: La Liga, RCD Mallorca, association football_
-
-### [Oleksandr Yaroslavsky resigns as president of Metalist Kharkiv and transfer the obligations regarding its financing to another investor. ](/news/2012/12/24/oleksandr-yaroslavsky-resigns-as-president-of-metalist-kharkiv-and-transfer-the-obligations-regarding-its-financing-to-another-investor.md)
-_Context: Metalist Kharkiv, Oleksandr Yaroslavsky_
-
-### [Former FC Barcelona coach Radomir Antic appointed as new manager of China's football club Shandong Luneng. ](/news/2012/12/24/former-fc-barcelona-coach-radomir-antia-appointed-as-new-manager-of-china-s-football-club-shandong-luneng.md)
-_Context: China, FC Barcelona, Radomir Antic, Shandong Luneng, association football_
-
 ## [Previous Day...](/news/2012/12/23/index.md)
 

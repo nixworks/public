@@ -16,7 +16,7 @@ _Context: Defense Department, United States House of Representatives_
 _Context: United States House of Representatives, energy, renewable energy_
 
 ### [ A vehicle with Florida license plates driven by men of Middle Eastern origin is stopped by police in Goose Creek, South Carolina, and found to be carrying explosive devices. ](/news/2007/08/4/a-vehicle-with-florida-license-plates-driven-by-men-of-middle-eastern-origin-is-stopped-by-police-in-goose-creek-south-carolina-and-found.md)
-_Context: FL, Goose Creek, South Carolina, Middle East, explosives_
+_Context: Florida, Goose Creek, South Carolina, Middle East, explosives_
 
 ### [ The United States House of Representatives approves legislation expanding the United States Government's ability to conduct surveillance without a court order on foreign terrorism suspects. ](/news/2007/08/4/the-united-states-house-of-representatives-approves-legislation-expanding-the-united-states-government-s-ability-to-conduct-surveillance-wi.md)
 _Context: United States House of Representatives, United States government, terrorism_
@@ -25,13 +25,13 @@ _Context: United States House of Representatives, United States government, terr
 The political fallout from the worst plane crash in Brazilian history continued as the president of the national airports authority was fired.
 
 ### [ San Francisco Giants outfielder Barry Bonds ties Hank Aaron for most career home runs with 755, while Alex Rodriguez becomes the youngest player to hit 500 home runs in Major League Baseball. ](/news/2007/08/4/san-francisco-giants-outfielder-barry-bonds-ties-hank-aaron-for-most-career-home-runs-with-755-while-alex-rodriguez-becomes-the-youngest-p.md)
-_Context: Alex Rodriguez, Barry Bonds, Giants', Hank Aaron, Major League Baseball, home run_
+_Context: Alex Rodriguez, Barry Bonds, Hank Aaron, Major League Baseball, San Francisco Giants, home run_
 
 ### [ Oakland police claim that a 19-year-old man has confessed to the murder of Chauncey Bailey, the editor of ''The Oakland Post''. ](/news/2007/08/4/oakland-police-claim-that-a-19-year-old-man-has-confessed-to-the-murder-of-chauncey-bailey-the-editor-of-the-oakland-post.md)
 _Context: Chauncey Bailey, Oakland, California, The Oakland Post, police_
 
 ### [ United States forces claim that they have killed Haitham al-Badri, the leader of al-Qaeda in Salahuddin province in Iraq and believed to be the man responsible for the bombing of the Al-Askari Mosque in Samarra in June. ](/news/2007/08/4/united-states-forces-claim-that-they-have-killed-haitham-al-badri-the-leader-of-al-qaeda-in-salahuddin-province-in-iraq-and-believed-to-be.md)
-_Context: Al-Askari Mosque, Haitham al-Badri, Iraq, Salahuddin province, Samarra, U.S., al-Qaeda_
+_Context: Al-Askari Mosque, Haitham al-Badri, Iraq, Salahuddin province, Samarra, United States, al-Qaeda_
 
 ### [ NASA launches the Phoenix Mars Lander which is due to land in Planum Boreum on the Martian northern ice cap next year. ](/news/2007/08/4/nasa-launches-the-phoenix-mars-lander-which-is-due-to-land-in-planum-boreum-on-the-martian-northern-ice-cap-next-year.md)
 _Context: Martian, NASA, Phoenix Mars Lander, Planum Boreum_

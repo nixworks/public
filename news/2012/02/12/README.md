@@ -51,8 +51,5 @@ _Context: Bayelsa State, Henry Dickson, Nigeria, People's Democratic Party_
 ### [The Venezuelan opposition Mesa de la Unidad Democratica holds a primary election, selecting Henrique Capriles as its candidate for the presidential election in early October. ](/news/2012/02/12/the-venezuelan-opposition-mesa-de-la-unidad-democra-tica-holds-a-primary-election-selecting-henrique-capriles-as-its-candidate-for-the-pres.md)
 _Context: Henrique Capriles, Mesa de la Unidad Democratica, Venezuela, inauguration approaches, primary election_
 
-### [In football, the final of the 2012 Africa Cup of Nations played at Libreville, Gabon, between Zambia and Ivory Coast, with Zambia winning 8-7 on penalties in a shock result. ](/news/2012/02/12/in-football-the-final-of-the-2012-africa-cup-of-nations-played-at-libreville-gabon-between-zambia-and-ivory-coast-with-zambia-winning-8.md)
-_Context: 2012 Africa Cup of Nations, Cote d'Ivoire, Gabon, Libreville, Zambia national football team, association football, final_
-
 ## [Previous Day...](/news/2012/02/11/index.md)
 

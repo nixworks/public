@@ -37,7 +37,7 @@ President Obama on Monday will kick off a two-day summit with 10 Southeast Asian
 _Context: Ehud Olmert, Prime Minister of Israel_
 
 ### [ Two German intelligence officers are suspected of having given money to Al Qaeda in 2010. ](/news/2016/02/15/two-german-intelligence-officers-are-suspected-of-having-given-money-to-al-qaeda-in-2010.md)
-_Context: Germany, al-Qaeda, intelligence_
+_Context: German, al-Qaeda, intelligence_
 
 ### [Officials are counting ballots from Sunday's presidential election. The final results of the run-off are not expected for several weeks. ](/news/2016/02/15/officials-are-counting-ballots-from-sunday-s-presidential-election-the-final-results-of-the-run-off-are-not-expected-for-several-weeks.md)
 SBS World News Radio: Vote-counting in the Central African Republic&#039;s presidential elections has begun.

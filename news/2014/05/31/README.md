@@ -27,17 +27,5 @@ The United States and China squared off at an Asian security forum on Saturday, 
 ### [Peter Mutharika is sworn into office as the President of Malawi. ](/news/2014/05/31/peter-mutharika-is-sworn-into-office-as-the-president-of-malawi.md)
 _Context: Peter Mutharika, President of Malawi_
 
-### [In association football, the Fiji national under-19 football team win the 2014 OFC U-20 Championship, thus qualifying for the 2015 FIFA U-20 World Cup to be held in New Zealand. ](/news/2014/05/31/in-association-football-the-fiji-national-under-19-football-team-win-the-2014-ofc-u-20-championship-thus-qualifying-for-the-2015-fifa-u-20.md)
-_Context: 2014 OFC U-20 Championship, 2015 FIFA U-20 World Cup, Fiji national under-19 football team, association football_
-
-### [In association football, Latvia win the 2014 Baltic Cup. ](/news/2014/05/31/in-association-football-latvia-win-the-2014-baltic-cup.md)
-_Context: 2014 Baltic Cup_
-
-### [In motorsport, three spectators are killed in a crash at the Jim Clark Rally near Coldstream, Scotland. ](/news/2014/05/31/in-motorsport-three-spectators-are-killed-in-a-crash-at-the-jim-clark-rally-near-coldstream-scotland.md)
-Three people are killed and six injured after cars collide with spectators in two separate incidents at the Jim Clark Rally in Scotland on Saturday.
-
-### [In boxing, Carl Froch knocks out George Groves in the eighth round to retain the World Boxing Association and International Boxing Federation super middleweight championships. ](/news/2014/05/31/in-boxing-carl-froch-knocks-out-george-groves-in-the-eighth-round-to-retain-the-world-boxing-association-and-international-boxing-federatio.md)
-_Context: Carl Froch, George Groves, International Boxing Federation, World Boxing Association_
-
 ## [Previous Day...](/news/2014/05/30/index.md)
 

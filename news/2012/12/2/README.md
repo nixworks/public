@@ -36,14 +36,5 @@ Pier Luigi Bersani won a run-off primary election by a huge margin on Sunday to 
 ### [French very-high-resolution optical Earth-imaging satellite Pleiades-HR 1B is launched successfully via a Russian Soyuz STA rocket out of the Guiana Space Centre, Kourou, French Guiana. ](/news/2012/12/2/french-very-high-resolution-optical-earth-imaging-satellite-pla-c-iades-hr-1b-is-launched-successfully-via-a-russian-soyuz-sta-rocket-out-of-t.md)
 A Russian-made Soyuz rocket blasted off from French Guiana on Saturday and placed into orbit an Earth observation satellite for France, space officials said.
 
-### [Spanish racing team HRT F1 leave Formula One after they were unable to find a buyer before the deadline of 30 November. The team was subsequently omitted from the 2013 entry list. ](/news/2012/12/2/spanish-racing-team-hrt-f1-leave-formula-one-after-they-were-unable-to-find-a-buyer-before-the-deadline-of-30-november-the-team-was-subsequ.md)
-_Context: 2013 Formula One season, Formula One, HRT F1, Spain_
-
-### [The International Volleyball Federation confirms the structure of the 2013 FIVB Volleyball World League with the competition increasing from 16 to 18 teams split into three pools of six. ](/news/2012/12/2/the-international-volleyball-federation-confirms-the-structure-of-the-2013-fivb-volleyball-world-league-with-the-competition-increasing-from.md)
-_Context: 2013 FIVB Volleyball World League, International Volleyball Federation_
-
-### [The Sambafoot Association announces their list of 30 contenders nominated as the 2012 Samba Gold, a football award given to the best Brazilian footballer in Europe. ](/news/2012/12/2/the-sambafoot-association-announces-their-list-of-30-contenders-nominated-as-the-2012-samba-gold-a-football-award-given-to-the-best-brazili.md)
-_Context: Brazil, Europe, Samba Gold, association football_
-
 ## [Previous Day...](/news/2012/12/1/index.md)
 

@@ -9,7 +9,3 @@
 
 1. [Cylingnews](http://autobus.cyclingnews.com/track/2008/mar08/wtc08/?id=/news/2008/mar08/mar31news2)
 2. [WielerRevue](http://www.wielerrevue.nl/2008/03/30/goud-voor-ellen-van-dijk-op-scratch/)
-
-### Related:
-
-1. [In road cycling, Ellen van Dijk won the women's time trial at the 2013 UCI Road World Championships. ](/news/2013/09/24/in-road-cycling-ellen-van-dijk-won-the-women-s-time-trial-at-the-2013-uci-road-world-championships.md) _Context: Ellen van Dijk_

@@ -8,7 +8,7 @@ _Context: Caracas_
 
 ### [An empty American Airlines jet parked outside a hangar at Los Angeles International Airport trolls through a fence before coming to a stop on a service road.](/news/2002/04/11/an-empty-american-airlines-jet-parked-outside-a-hangar-at-los-angeles-international-airport-trolls-through-a-fence-before-coming-to-a-stop-o.md)
 ### [A truck full of explosives was detonated close to the El Ghriba synagogue in Djerba, Tunisia killing 21 people, of whom 14 were German tourists, 2 French nationals and 5 Tunisians. Al Qaeda claimed responsibility for the Ghriba synagogue bombing.](/news/2002/04/11/a-truck-full-of-explosives-was-detonated-close-to-the-el-ghriba-synagogue-in-djerba-tunisia-killing-21-people-of-whom-14-were-german-touri.md)
-_Context: Djerba, El Ghriba synagogue, Germany, Ghriba synagogue bombing, Tunisia, al-Qaeda_
+_Context: Djerba, El Ghriba synagogue, German, Ghriba synagogue bombing, Tunisia, al-Qaeda_
 
 ## [Previous Day...](/news/2002/04/10/index.md)
 

@@ -36,11 +36,5 @@ The retirement of the Republican senator from Maine could reconfigure the race f
 ### [Two new species of prehistoric penguin are discovered - ''Kairuku grebneffi'' and ''Kairuku waitaki''.  Standing nearly 5ft tall, ''Kairuku grebneffi'' is the largest penguin ever discovered. ](/news/2012/02/28/two-new-species-of-prehistoric-penguin-are-discovered-kairuku-grebneffi-and-kairuku-waitaki-standing-nearly-5ft-tall-kairuku.md)
 The hefty penguin lived about 27 million years ago and weighed up to 130 pounds.
 
-### [In auto racing, Matt Kenseth wins the Daytona 500 in Daytona, Florida. ](/news/2012/02/28/in-auto-racing-matt-kenseth-wins-the-daytona-500-in-daytona-florida.md)
-In a crash-laden race, after the smoke cleared and dust settled, Matt Kenseth earned the checkered flag at the 54th Daytona 500.
-
-### [IBM claims to be on the verge of creating the world's first quantum computer. ](/news/2012/02/28/ibm-claims-to-be-on-the-verge-of-creating-the-world-s-first-quantum-computer.md)
-A team of IBM researchers reports that several recent advances put them &#39;close to the minimum requirements for a full-scale quantum computing system.&#39;
-
 ## [Previous Day...](/news/2012/02/27/index.md)
 

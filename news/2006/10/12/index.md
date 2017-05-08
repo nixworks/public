@@ -1,7 +1,7 @@
 ## [2006-10-12](/news/2006/10/12/index.md)
 
 ### [ The Federal Reserve finds that economic growth in the United States is "moderate or mixed" with "widespread cooling" in the housing market. ](/news/2006/10/12/the-federal-reserve-finds-that-economic-growth-in-the-united-states-is-moderate-or-mixed-with-widespread-cooling-in-the-housing-market.md)
-_Context: Federal Reserve, U.S., economic growth, housing market_
+_Context: Federal Reserve, United States, economic growth, housing market_
 
 ### [ Members of the Janjaweed militia attack Sudanese refugees from the Darfur region in eastern Chad. [http://news.bbc.co.uk/2/hi/africa/6042096.stm (BBC)]. ](/news/2006/10/12/members-of-the-janjaweed-militia-attack-sudanese-refugees-from-the-darfur-region-in-eastern-chad-http-news-bbc-co-uk-2-hi-africa-604209.md)
 _Context: Chad, Darfur, Janjaweed, Sudanese, militia_

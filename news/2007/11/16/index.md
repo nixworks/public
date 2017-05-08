@@ -16,7 +16,7 @@ _Context: Nepal, Nepalese Constituent Assembly election, 2008, Supreme Court, le
 _Context: France, Nicolas Sarkozy, President of France, pension reform, public-sector strikes, strike, train driver_
 
 ### [ German architect Heike Hanada of Weimar wins the international competition for extending the Stockholm Public Library. ](/news/2007/11/16/german-architect-heike-hanada-of-weimar-wins-the-international-competition-for-extending-the-stockholm-public-library.md)
-_Context: Germany, Heike Hanada, Weimar, architect, central library, competition_
+_Context: German, Heike Hanada, Weimar, architect, central library, competition_
 
 ### [ The International Criminal Tribunal for Rwanda sentences Juvnal Rugambarara, the former mayor of Bicumbi, to 11 years in jail for crimes he committed during the Rwandan Genocide. ](/news/2007/11/16/the-international-criminal-tribunal-for-rwanda-sentences-juvenal-rugambarara-the-former-mayor-of-bicumbi-to-11-years-in-jail-for-crimes-h.md)
 _Context: Bicumbi, International Criminal Tribunal for Rwanda, Juvnal Rugambarara, Rwandan Genocide, mayor_
@@ -25,7 +25,7 @@ _Context: Bicumbi, International Criminal Tribunal for Rwanda, Juvnal Rugambarar
 _Context: Ban Ki-moon, Lebanon, President of Lebanon, United Nations, United Nations Secretary-General, political leader, standoff_
 
 ### [ The German train driver strike enters its third day.  ](/news/2007/11/16/the-german-train-driver-strike-enters-its-third-day.md)
-_Context: Germany, strike, train driver_
+_Context: German, strike, train driver_
 
 ### [ Turkish prosecutors ask the Constitutional Court to ban the Kurdish Democratic Society Party, claiming it has links to the outlawed Kurdistan Workers Party. ](/news/2007/11/16/turkish-prosecutors-ask-the-constitutional-court-to-ban-the-kurdish-democratic-society-party-claiming-it-has-links-to-the-outlawed-kurdist.md)
 _Context: Constitutional Court of Turkey, Democratic Society Party, Kurdistan Workers' Party, Turkey, prosecutor_
@@ -34,7 +34,7 @@ _Context: Constitutional Court of Turkey, Democratic Society Party, Kurdistan Wo
 _Context: OSCE, parliamentary elections, visa-free travel_
 
 ### [ 2007 Pakistani state of emergency: United States Deputy Secretary of State John Negroponte speaks with former Prime Minister Benazir Bhutto on the phone and tells her that "moderate forces" should work together to bring the country back to democracy. ](/news/2007/11/16/2007-pakistani-state-of-emergency-p-united-states-deputy-secretary-of-state-john-negroponte-speaks-with-former-prime-minister-benazir-bhutt.md)
-_Context: 2007 Pakistani state of emergency, Benazir Bhutto, John Negroponte, Prime Minister, U.S., US Deputy Secretary of State, democratic progress_
+_Context: 2007 Pakistani state of emergency, Benazir Bhutto, John Negroponte, Prime Minister, US Deputy Secretary of State, United States, democratic progress_
 
 ### [ Donald Tusk, leader of the Civic Platform party, is sworn in as Prime Minister of Poland in coalition with the Polish People's Party. ](/news/2007/11/16/donald-tusk-leader-of-the-civic-platform-party-is-sworn-in-as-prime-minister-of-poland-in-coalition-with-the-polish-people-s-party.md)
 _Context: Civic Platform, Donald Tusk, Polish People's Party, Polish Prime Minister_
@@ -43,7 +43,7 @@ _Context: Civic Platform, Donald Tusk, Polish People's Party, Polish Prime Minis
 _Context: India, Jaish-e-Mohammed, Kidnap, Pakistan, Uttar Pradesh_
 
 ### [ Japanese Prime Minister Yasuo Fukuda flies to the United States to hold talks with U.S. President George W. Bush. ](/news/2007/11/16/japanese-prime-minister-yasuo-fukuda-flies-to-the-united-states-to-hold-talks-with-u-s-president-george-w-bush.md)
-_Context: George W. Bush, Japan, President, Prime Minister, U.S., Yasuo Fukuda_
+_Context: George W. Bush, Japan, President, Prime Minister, United States, Yasuo Fukuda_
 
 ### [ The death toll from Cyclone Sidr increases to 242 as the storm weakens and passes through the Bangladeshi capital Dhaka. ](/news/2007/11/16/the-death-toll-from-cyclone-sidr-increases-to-242-as-the-storm-weakens-and-passes-through-the-bangladeshi-capital-dhaka.md)
 _Context: Bangladesh, Dhaka, cyclone Sidr_

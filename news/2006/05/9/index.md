@@ -7,7 +7,7 @@ _Context: Opus Dei, Roman Catholic, Ruth Kelly, United Kingdom, homosexuality_
 _Context: Alliance for the Restoration of Peace and Counter-Terrorism, Mogadishu, Mogadishu Islamic Courts, Somalia_
 
 ### [ The world's largest annual trade show for the computer and video games industry, the Electronic Entertainment Expo (E), is held in Los Angeles. ](/news/2006/05/9/the-world-s-largest-annual-trade-show-for-the-computer-and-video-games-industry-the-electronic-entertainment-expo-e3-is-held-in-los-ang.md)
-_Context: Electronic Entertainment Expo, Los Angeles, trade show, video_
+_Context: Electronic Entertainment Expo, Los Angeles, trade show, video game_
 
 ### [ Two Australian miners are rescued after 14 days trapped in the Beaconsfield mine collapse. ](/news/2006/05/9/two-australian-miners-are-rescued-after-14-days-trapped-in-the-beaconsfield-mine-collapse.md)
 _Context: Australia, Beaconsfield mine collapse_

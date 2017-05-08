@@ -25,7 +25,7 @@ _Context: Bangkok, Thailand, floods_
 _Context: 7.1 magnitude earthquake, Turkey_
 
 ### [Twelve thousand people are evacuated from the German city of Halle, following the discovery of an unexploded World War II-era bomb. ](/news/2011/10/27/twelve-thousand-people-are-evacuated-from-the-german-city-of-halle-following-the-discovery-of-an-unexploded-world-war-ii-era-bomb.md)
-_Context: Germany, Halle, World War II_
+_Context: German, Halle, World War II_
 
 ### [Scottish serial murderer Robert Black is convicted of the 1981 murder of Northern Irish schoolgirl Jennifer Cardy. ](/news/2011/10/27/scottish-serial-murderer-robert-black-is-convicted-of-the-1981-murder-of-northern-irish-schoolgirl-jennifer-cardy.md)
 Child killer Robert Black has been found guilty of murdering Jennifer Cardy in Ballinderry, County Antrim, 30 years ago.

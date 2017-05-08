@@ -22,16 +22,16 @@ _Context: Baghdad, Bremer wall, Government of Iraq, Iraq_
 _Context: Khartoum, Nile, Sudan_
 
 ### [ Two United States journalists, Laura Ling and Euna Lee, who had been detained by North Korea, return home with former U.S. President Bill Clinton. ](/news/2009/08/5/two-united-states-journalists-laura-ling-and-euna-lee-who-had-been-detained-by-north-korea-return-home-with-former-u-s-president-bill-c.md)
-_Context: Bill Clinton, Euna Lee, Laura Ling, North Korea, President, U.S., detained_
+_Context: Bill Clinton, Euna Lee, Laura Ling, North Korea, President, United States, detained_
 
 ### [ Former Madagascar leader Marc Ravalomanana is hopeful that a relaunch of peace talks between the country's rival factions will bring progress toward a return of political stability. ](/news/2009/08/5/former-madagascar-leader-marc-ravalomanana-is-hopeful-that-a-relaunch-of-peace-talks-between-the-country-s-rival-factions-will-bring-progre.md)
 _Context: Madagascar, Marc Ravalomanana_
 
 ### [ A dog featured in an American film called ''I Love You, Man'', which was named after assassinated Egyptian President Anwar El Sadat, leads to a court case as bloggers complain that their country has been insulted. ](/news/2009/08/5/a-dog-featured-in-an-american-film-called-i-love-you-man-which-was-named-after-assassinated-egyptian-president-anwar-el-sadat-leads.md)
-_Context: Anwar El Sadat, Egypt, Egyptian President, I Love You, Man, U.S., blog_
+_Context: Anwar El Sadat, Egypt, Egyptian President, I Love You, Man, United States, blog_
 
 ### [ Fourteen people are shot at a women's dance class in LA Fitness gymnasium in Collier Township, Pennsylvania, United States. Three women die, as does the gunman. ](/news/2009/08/5/fourteen-people-are-shot-at-a-women-s-dance-class-in-la-fitness-gymnasium-in-collier-township-pennsylvania-united-states-three-women-die.md)
-_Context: Collier Township, LA Fitness, Pennsylvania, U.S., shot_
+_Context: Collier Township, LA Fitness, Pennsylvania, United States, shot_
 
 ### [ Eight people are injured when an Airbus A320 plane catches fire on one of its engines at Paris-Orly Airport. The fire is quickly brought under control. ](/news/2009/08/5/eight-people-are-injured-when-an-airbus-a320-plane-catches-fire-on-one-of-its-engines-at-paris-orly-airport-the-fire-is-quickly-brought-un.md)
 _Context: Airbus A320, Paris-Orly Airport, catches fire_
@@ -64,7 +64,7 @@ The White House has defended its decision to award the highest civilian honour i
 _Context: Austria_
 
 ### [ An anthem sung by FC Schalke 04's fans draws Islamic protests because of its reference to the Prophet Muhammad. ](/news/2009/08/5/an-anthem-sung-by-fc-schalke-04-s-fans-draws-islamic-protests-because-of-its-reference-to-the-prophet-muhammad.md)
-_Context: Islam, Muhammad, Prophet, Schalke 04_
+_Context: FC Schalke 04, Islam, Muhammad, Prophet_
 
 ### [ Romanians who fled Belfast following racist attacks return to Northern Ireland. ](/news/2009/08/5/romanians-who-fled-belfast-following-racist-attacks-return-to-northern-ireland.md)
 A number of Romanians who fled Belfast in the wake of racist attacks have returned to Northern Ireland, it was revealed tonight&hellip;

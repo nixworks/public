@@ -4,13 +4,13 @@
 Shelling and tank fire rage in Aleppo as the ceasefire and evacuation plan stalls.
 
 ### [ A U.S. airstrike in Al-Raqqah, Syria, kills four ISIL leaders, two of which were confirmed to have roles in the November 2015 Paris Attacks. ](/news/2016/12/14/a-u-s-airstrike-in-al-raqqah-syria-kills-four-isil-leaders-two-of-which-were-confirmed-to-have-roles-in-the-november-2015-paris-attacks.md)
-_Context: Al-Raqqah, ISIL, Military intervention against ISIL, November 2015 Paris Attacks, Syria, U.S._
+_Context: Al-Raqqah, ISIL, Military intervention against ISIL, November 2015 Paris Attacks, Syria, United States_
 
 ### [Merger talks between Danish oil and gas corporations DONG Energy and Maersk have reached an impasse over valuation. ](/news/2016/12/14/merger-talks-between-danish-oil-and-gas-corporations-dong-energy-and-maersk-have-reached-an-impasse-over-valuation.md)
 Pedersen and Ron Bousso
 
 ### [The Federal Reserve System raises the benchmark interest rate in the United States to a level between 0.5 and 0.75%. This is the second time in a decade that the Federal Reserve has increased interest rates. ](/news/2016/12/14/the-federal-reserve-system-raises-the-benchmark-interest-rate-in-the-united-states-to-a-level-between-0-5-and-0-75-this-is-the-second-time.md)
-_Context: Federal Reserve System, U.S._
+_Context: Federal Reserve System, United States_
 
 ### [Satellite images show anti-aircraft guns and missile defence systems being built on artificial islands in the South China Sea; China had previously committed to not militarising its controversial developments in the region. ](/news/2016/12/14/satellite-images-show-anti-aircraft-guns-and-missile-defence-systems-being-built-on-artificial-islands-in-the-south-china-sea-china-had-pre.md)
 New satellite photos seem to show &quot;significant&quot; Chinese military defences on controversial islands.

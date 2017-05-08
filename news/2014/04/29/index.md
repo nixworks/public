@@ -25,7 +25,7 @@ Major Eliecer Otaiza, who served as the head of the Venezuelan intelligence serv
 Death from heart attack after failed delivery of new drug cocktail forces 14-day delay of second prisoner execution.
 
 ### [NBA Commissioner Adam Silver announces that Los Angeles Clippers owner Donald Sterling is banned from the league for life after a recording of Sterling making racist comments surfaces. Sterling is also fined the maximum allowable US$2.5 million as the NBA examines options for a forced sale. ](/news/2014/04/29/nba-commissioner-adam-silver-announces-that-los-angeles-clippers-owner-donald-sterling-is-banned-from-the-league-for-life-after-a-recording.md)
-_Context: Adam Silver, Donald Sterling, Los Angeles Clippers, NBA, league commissioner_
+_Context: Adam Silver, Commissioner, Donald Sterling, Los Angeles Clippers, National Basketball Association_
 
 ## [Previous Day...](/news/2014/04/28/index.md)
 

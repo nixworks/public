@@ -60,11 +60,5 @@ Nick Clegg says people should not &quot;write off&quot; the Lib Dems despite the
 ### [NASA's attempt to launch the Glory satellite aboard a Taurus XL rocket fails. ](/news/2011/03/4/nasa-s-attempt-to-launch-the-glory-satellite-aboard-a-taurus-xl-rocket-fails.md)
 _Context: Glory, NASA, Taurus XL_
 
-### [Real Madrid soccer coach Jos Mourinho evades being stabbed to death after a man wielding a knife attacks a member of the club's security staff at an airport in A Corua, Galicia. ](/news/2011/03/4/real-madrid-soccer-coach-jose-mourinho-evades-being-stabbed-to-death-after-a-man-wielding-a-knife-attacks-a-member-of-the-club-s-security-st.md)
-A man armed with a dagger is reported to have tried to stab Real Madrid manager Jose Mourinho as he signed autographs in a Spanish airport.
-
-### [ESPN reports that the US National Football League and the National Football League Players Association have agreed to extend talks on a collective bargaining agreement. ](/news/2011/03/4/espn-reports-that-the-us-national-football-league-and-the-national-football-league-players-association-have-agreed-to-extend-talks-on-a-coll.md)
-_Context: ESPN, National Football League, National Football League Players Association, collective bargaining agreement_
-
 ## [Previous Day...](/news/2011/03/3/index.md)
 

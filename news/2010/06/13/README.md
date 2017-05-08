@@ -10,7 +10,7 @@ _Context: Afghanistan, Dai Kundi_
 _Context: International Whaling Commission , Japan, The Sunday Times, hunt_
 
 ### [A plane carrying 16 Al Jazeera Sports broadcast staff to the 2010 FIFA World Cup game between Algeria and Slovenia in Polokwane made an emergency landing at Lanseria International Airport following the jamming of the aircraft's landing gear. Lanseria International Airport is shut down. ](/news/2010/06/13/a-plane-carrying-16-al-jazeera-sports-broadcast-staff-to-the-2010-fifa-world-cup-game-between-algeria-and-slovenia-in-polokwane-made-an-emer.md)
-_Context: 2010 FIFA World Cup, Al Jazeera Sports, Algeria, Lanseria International Airport, Polokwane, Slovenia national football team_
+_Context: 2010 FIFA World Cup, Al Jazeera Sports, Algeria, Lanseria International Airport, Polokwane, Slovenia_
 
 ### [2010 Kyrgyzstan crisis:Tensions remain high in Kyrgyzstan, with police patrolling the streets and special forces standing guard in the city of Osh and Jalal-Abad, after ethnic clashes left more than 100 people dead and about 1,400 others injured since fighting broke out Thursday night. ](/news/2010/06/13/2010-kyrgyzstan-crisis-ptensions-remain-high-in-kyrgyzstan-with-police-patrolling-the-streets-and-special-forces-standing-guard-in-the-city.md)
 Authorities struggling to restore order in southern region where ethnic violence has left at least 100 dead.

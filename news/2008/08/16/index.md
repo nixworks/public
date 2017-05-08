@@ -4,7 +4,7 @@
 Rebels from the breakaway region of Abkhazia, backed by Russian forces, have seized control of 13 Georgian villages and land surrounding a power plant on the border of the region, Georgia&#039;s foreign ministry said.
 
 ### [ 2008 Atlantic Hurricane season: The Governor of Florida Charlie Crist declares a state of emergency as Tropical Storm Fay is due to hit Florida on Monday, possibly at hurricane strength. ](/news/2008/08/16/2008-atlantic-hurricane-season-the-governor-of-florida-charlie-crist-declares-a-state-of-emergency-as-tropical-storm-fay-is-due-to-hit-flo.md)
-_Context: 2008 Atlantic hurricane season, Charlie Crist, FL, Governor of Florida, Tropical Storm Fay, hurricane, state of emergency_
+_Context: 2008 Atlantic hurricane season, Charlie Crist, Florida, Governor of Florida, Tropical Storm Fay, hurricane, state of emergency_
 
 ### [ A bomb explodes outside the house of Mayor Lito Pinol in the city of Mlang, Philippines, but fails to assassinate the Mayor. Police successfully defuse a bomb placed in the market of Kidapawan City. ](/news/2008/08/16/a-bomb-explodes-outside-the-house-of-mayor-lito-pinol-in-the-city-of-mlang-philippines-but-fails-to-assassinate-the-mayor-police-success.md)
 _Context: Kidapawan City, Mlang, Philippine_

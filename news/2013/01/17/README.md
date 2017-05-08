@@ -34,14 +34,5 @@ _Context: Fukushima Daiichi Nuclear Power Plant, Fukushima Prefecture, Japan, wi
 ### [The European Space Agency officially joins a project to build a Service Module based on their Automated Transfer Vehicle for NASA's Orion, a spacecraft to carry astronauts into deep space. ](/news/2013/01/17/the-european-space-agency-officially-joins-a-project-to-build-a-service-module-based-on-their-automated-transfer-vehicle-for-nasaas-orion.md)
 NASA signed an agreement for the European Space Agency to provide a service module for the Orion spacecraft&#039;s Exploration Mission-1 in 2017.
 
-### [U.S. cyclist Lance Armstrong is stripped of his bronze medal from the 2000 Summer Olympics by the IOC because of his involvement in doping. ](/news/2013/01/17/u-s-cyclist-lance-armstrong-is-stripped-of-his-bronze-medal-from-the-2000-summer-olympics-by-the-ioc-because-of-his-involvement-in-doping.md)
-Lance Armstrong is stripped of the Olympic bronze medal he won at the Sydney Olympics in 2000, the IOC confirms.
-
-### [In association football, the Uruguay and Liverpool player Luis Suarez faces sanctions as a result of his latest diving controversy. ](/news/2013/01/17/in-association-football-the-uruguay-and-liverpool-player-luis-sua-rez-faces-sanctions-as-a-result-of-his-latest-diving-controversy.md)
-_Context: Liverpool F.C., Luis Suarez, Uruguay, association football, diving_
-
-### [In Serie A, two-point penalty for S.S.C. Napoli is annulled on appeal in the match-fixing scandal with Paolo Cannavaro and Gianluca Grava also cleared. ](/news/2013/01/17/in-serie-a-two-point-penalty-for-s-s-c-napoli-is-annulled-on-appeal-in-the-match-fixing-scandal-with-paolo-cannavaro-and-gianluca-grava-al.md)
-Napoli have seen their two-point deduction erased, while Paolo Cannavaro and Gianluca Grava had their six-month ban overturned
-
 ## [Previous Day...](/news/2013/01/16/index.md)
 

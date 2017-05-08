@@ -15,11 +15,5 @@ _Context: Bradford County, Pennsylvania, Marcellus Shale, Proceedings of the Nat
 ### [Former Hewlett-Packard Chief Executive Officer Carly Fiorina announces that she will be seeking the Republican Party nomination for the 2016 presidential election. ](/news/2015/05/4/former-hewlett-packard-chief-executive-officer-carly-fiorina-announces-that-she-will-be-seeking-the-republican-party-nomination-for-the-2016.md)
 _Context: 2016 United States presidential election, Carly Fiorina, Hewlett-Packard, R, chief executive officer_
 
-### [In basketball, Stephen Curry of the Golden State Warriors is named as Most Valuable Player of the North American National Basketball Association for the 2014-15 NBA season. ](/news/2015/05/4/in-basketball-stephen-curry-of-the-golden-state-warriors-is-named-as-most-valuable-player-of-the-north-american-national-basketball-associa.md)
-_Context: 2014-15 NBA season, Golden State Warriors, MVP, NBA, Stephen Curry, basketball, major professional sports_
-
-### [ Stuart Bingham wins 2015 World Snooker Championship defeating Shaun Murphy in the final. ](/news/2015/05/4/stuart-bingham-wins-2015-world-snooker-championship-defeating-shaun-murphy-in-the-final.md)
-Stuart Bingham won the Betfred World Championship for the first time by beating Shaun Murphy 18-15 in an extraordinary final at the Crucible.
-
 ## [Previous Day...](/news/2015/05/3/index.md)
 

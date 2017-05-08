@@ -79,11 +79,5 @@ _Context: Gabrielle Giffords, Mark Kelly, NASA, Space Shuttle ''Endeavour'', Uni
 ### [Researchers report that fishing rates in the Arctic are 75 times higher than those reported by the U.N., suggesting future increased exploitation is less possible than previously thought. ](/news/2011/02/4/researchers-report-that-fishing-rates-in-the-arctic-are-75-times-higher-than-those-reported-by-the-u-n-suggesting-future-increased-exploit.md)
 The amount of fish caught in the Arctic has been dramatically under-reported for decades, making the northern ocean environment appear far more pristine than it really is, according to a new study.
 
-### [Falling ice injures seven people at Cowboys Stadium in Arlington, Texas, due to host Super Bowl XLV on Sunday. ](/news/2011/02/4/falling-ice-injures-seven-people-at-cowboys-stadium-in-arlington-texas-due-to-host-super-bowl-xlv-on-sunday.md)
-Breaking News News - get the latest from the Dallas News. Read it here first.
-
-### [The Cleveland Cavaliers match the United States National Basketball Association record for a single-season losing streak by losing their 23rd straight match to the Memphis Grizzlies. ](/news/2011/02/4/the-cleveland-cavaliers-match-the-united-states-national-basketball-association-record-for-a-single-season-losing-streak-by-losing-their-23r.md)
-The Cleveland Cavaliers matched the longest single-season losing streak in NBA history, dropping their 23rd straight with a 112-105 loss to the Memphis Grizzlies on Friday night.
-
 ## [Previous Day...](/news/2011/02/3/index.md)
 

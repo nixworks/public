@@ -30,8 +30,5 @@ President Obama has been accused of anti-Catholic remarks during his recent visi
 ### [2013 Korean crisis: Anonymous claims that it managed to steal military documents from North Korea. The documents are due to be released on 25 June, the anniversary of the start of the Korean War. ](/news/2013/06/22/2013-korean-crisis-anonymous-claims-that-it-managed-to-steal-military-documents-from-north-korea-the-documents-are-due-to-be-released-on-2.md)
 In the latest salvo in #OpNorthKorea, the hacktivist collective claims it will release the documents on June 25.
 
-### [In car racing, Tom Kristensen, Allan McNish, and Loc Duval in an Audi win the 2013 24 Hours of Le Mans, while Danish driver Allan Simonsen dies from injuries suffered when his car leaves the track at high speed and crashes. ](/news/2013/06/22/in-car-racing-tom-kristensen-allan-mcnish-and-loic-duval-in-an-audi-win-the-2013-24-hours-of-le-mans-while-danish-driver-allan-simonsen.md)
-_Context: 2013 24 Hours of Le Mans, Allan McNish, Allan Simonsen, Audi, Denmark, Loc Duval, Tom Kristensen, car racing_
-
 ## [Previous Day...](/news/2013/06/21/index.md)
 

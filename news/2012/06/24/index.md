@@ -13,7 +13,7 @@ _Context: Fernando Lugo, Paraguay, Paraguayan President_
 Ulster Bank is to open 20 branches on a Sunday for the first time, to help customers whose accounts have stopped working because of a technical fault.
 
 ### [Tropical Storm Debby continues to organize off the coast of Florida, lashing the state with high winds and heavy rains. The outer bands of the storm spawn two tornadoes, killing one person near Sarasota. ](/news/2012/06/24/tropical-storm-debby-continues-to-organize-off-the-coast-of-florida-lashing-the-state-with-high-winds-and-heavy-rains-the-outer-bands-of-t.md)
-_Context: FL, Sarasota, Tropical Storm Debby_
+_Context: Florida, Sarasota, Tropical Storm Debby_
 
 ### [Rescue efforts end after a boat capsized near Christmas Island, with more than 90 people still missing. ](/news/2012/06/24/rescue-efforts-end-after-a-boat-capsized-near-christmas-island-with-more-than-90-people-still-missing.md)
 Rescue effort ends after refugee boat with 200 people capsized near Christmas Island, with more than 90 still missing.
@@ -53,21 +53,6 @@ China successfully carries out its first ever manual docking of a spacecraft, th
 
 ### [Lonesome George, the last known Pinta Island Tortoise, is found dead in the Galapagos Islands. ](/news/2012/06/24/lonesome-george-the-last-known-pinta-island-tortoise-is-found-dead-in-the-galapagos-islands.md)
 Lonesome George, a giant tortoise which became an icon for conservation on the Galapagos islands, has died, making its subspecies extinct.
-
-### [Miki Roqu, a defender of the Spanish football club Real Betis, dies of cancer at the age of 23. ](/news/2012/06/24/miki-roque-a-defender-of-the-spanish-football-club-real-betis-dies-of-cancer-at-the-age-of-23.md)
-_Context: Miki Roqu, Real Betis_
-
-### [UEFA Euro 2012:England lose by a penalty shoot-out, with former West Ham player Alessandro Diamanti converting from the spot at the Olimpiyskiy National Sports Complex in Kiev to take Italy through to the semi-final against Germany.  ](/news/2012/06/24/uefa-euro-2012-pengland-lose-by-a-penalty-shoot-out-with-former-west-ham-player-alessandro-diamanti-converting-from-the-spot-at-the-olimpiy.md)
-England are once again knocked out on penalties as the Azzuri make it through to the last four of Euro 2012.
-
-### [Several former Rangers players, including Steven Naismith and Steven Whittaker, lodge objections to their transfer from the old team to the new, saying they now consider themselves free agents. ](/news/2012/06/24/several-former-rangers-players-including-steven-naismith-and-steven-whittaker-lodge-objections-to-their-transfer-from-the-old-team-to-the.md)
-Steven Naismith and Steven Whittaker lodge objections to their transfer from the old Rangers to the newco.
-
-### [Saudi Arabia allows its women athletes to compete in the Olympics for the first time. ](/news/2012/06/24/saudi-arabia-allows-its-women-athletes-to-compete-in-the-olympics-for-the-first-time.md)
-_Context: Olympics, Saudi Arabia_
-
-### [In single-seater auto racing, the Ferrari driver Fernando Alonso wins the 2012 European Grand Prix at the Valencia Street Circuit, becoming the first driver this season to win two races. ](/news/2012/06/24/in-single-seater-auto-racing-the-ferrari-driver-fernando-alonso-wins-the-2012-european-grand-prix-at-the-valencia-street-circuit-becoming.md)
-Fernando Alonso becomes first driver of season to win two races as he reigns in front of home support at European GP.
 
 ## [Previous Day...](/news/2012/06/23/index.md)
 

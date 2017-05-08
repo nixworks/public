@@ -13,7 +13,7 @@ Deadly downpours cause widespread flooding along the Cape Coast as the West Afri
 _Context: China, Guangdong province, Paiwan aboriginal tribe, Taiwan, Tsai Ing-wen, national anthem_
 
 ### [France deports twenty Russian football fans including Alexander Shprygin, the leader of the All-Russia Supporters Union, following violence at the England-Russia match in Marseille. ](/news/2016/06/16/france-deports-twenty-russian-football-fans-including-alexander-shprygin-the-leader-of-the-all-russia-supporters-union-following-violence.md)
-_Context: England national football team, France, Marseille, Russia, Russian, Violence at UEFA Euro 2016_
+_Context: England, France, Marseille, Russia, Russian, Violence at UEFA Euro 2016_
 
 ### [Switzerland's Federal Assembly votes to officially withdraw the country's application to join the European Union. Following the vote, foreign minister Didier Burkhalter was quoted as saying that the government will now tell the EU to "consider the application as withdrawn". ](/news/2016/06/16/switzerland-s-federal-assembly-votes-to-officially-withdraw-the-country-s-application-to-join-the-european-union-following-the-vote-foreig.md)
 Switzerland&amp;#39;s Parliament votes to officially withdraw long-dormant application to join the EU&nbsp;
@@ -40,16 +40,7 @@ MOMBASA, Kenya (AP) — A Kenyan court on Thursday upheld the use of anal examin
 An agreement was apparently reached to allow votes on whether to ban people on a terror watch list from buying guns and to expand background checks.
 
 ### [The Philadelphia, Pennsylvania, City Council approves a 1.5-cent-per-ounce tax on sugar-sweetened and diet beverages, effective January 1, 2017. This is the first so-called sugary drinks tax in a major U.S. city.  ](/news/2016/06/16/the-philadelphia-pennsylvania-city-council-approves-a-1-5-cent-per-ounce-tax-on-sugar-sweetened-and-diet-beverages-effective-january-1-2.md)
-_Context: City Council, Pennsylvania, Philadelphia, U.S., sugar-sweetened and diet beverages, sugary drinks tax_
-
-### [Ten Olympic weightlifters fail a drug test in a reanalysis of samples from the 2012 Summer Olympics. Among them are four Kazakh gold medalists: Ilya Ilyin, Zulfiya Chinshanlo, Svetlana Podobedova and Maiya Maneza. The other athletes represent Azerbaijan, Belarus, Russia, and  Ukraine. All ten lifters are provisionally suspended by the International Weightlifting Federation and are expected to be stripped of their titles. ](/news/2016/06/16/ten-olympic-weightlifters-fail-a-drug-test-in-a-reanalysis-of-samples-from-the-2012-summer-olympics-among-them-are-four-kazakh-gold-medalis.md)
-_Context: 2012 Summer Olympics, Azerbaijan, Belarus, Ilya Ilyin, International Weightlifting Federation, Kazakhstan, Maiya Maneza, Olympic weightlifters, Russia, Svetlana Podobedova, Ukrainian, Zulfiya Chinshanlo_
-
-### [Northern Ireland achieves their first victory in a UEFA European Championship by defeating Ukraine 2-0; other results eliminate Ukraine. ](/news/2016/06/16/northern-ireland-achieves-their-first-victory-in-a-uefa-european-championship-by-defeating-ukraine-2a0-other-results-eliminate-ukraine.md)
-Germany and Poland play out the first goalless draw of Euro 2016 as both teams move closer to the knockout stages.
-
-### [ The Cleveland Cavaliers defeated the Golden State Warriors in Game 6 of the NBA finals 115-101, forcing a Game 7 which will be held in Oakland, California on June 19.](/news/2016/06/16/the-cleveland-cavaliers-defeated-the-golden-state-warriors-in-game-6-of-the-nba-finals-115a101-forcing-a-game-7-which-will-be-held-in-oa.md)
-_Context: 2016 NBA Championship, Cleveland Cavaliers, Golden State Warriors, Oakland, California_
+_Context: City Council, Pennsylvania, Philadelphia, United States, sugar-sweetened and diet beverages, sugary drinks tax_
 
 ## [Previous Day...](/news/2016/06/15/index.md)
 

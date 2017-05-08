@@ -54,8 +54,5 @@ Early results in East Timor&#039;s parliamentary election indicate Xanana Gusmao
 ### [American politician Barney Frank marries his long-time partner James Ready, becoming the first member of the United States House of Representatives to enter into a same-sex marriage. ](/news/2012/07/7/american-politician-barney-frank-marries-his-long-time-partner-james-ready-becoming-the-first-member-of-the-united-states-house-of-represen.md)
 _Context: Barney Frank, United States House of Representatives, same-sex marriage_
 
-### [2012 Wimbledon Championships in England:Serena Williams of the United States beats Agnieszka Radwanska of Poland in the final of the Women's Singles. ](/news/2012/07/7/2012-wimbledon-championships-in-england-pserena-williams-of-the-united-states-beats-agnieszka-radwaaska-of-poland-in-the-final-of-the-women.md)
-Serena Williams beats Agnieszka Radwanska to claim her fifth Wimbledon singles title before winning the doubles with sister Venus.
-
 ## [Previous Day...](/news/2012/07/6/index.md)
 

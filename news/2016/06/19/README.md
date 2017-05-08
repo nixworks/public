@@ -21,11 +21,5 @@ The anti-establishment Five Star Movement wins key mayoral races in the capital,
 ### [Wukan protests, 2016's events :Thousands of people  are reported to have spontaneously marched in  southern China's village of Wukan in Guangdong province over the arrest of the village's democratically elected leader, 70-year-old  Lin Zuluan, who had been planning meetings and  protests about corruption, illegal land grabs, and the government's failure to return land to the people, per the 2011 agreement. ](/news/2016/06/19/wukan-protests-2016-s-events-pthousands-of-people-are-reported-to-have-spontaneously-marched-in-southern-china-s-village-of-wukan-in-gua.md)
 Police have locked down a village in southern China to ward off fresh anti-corruption protests nearly five years after an uprising there made it an internationally known symbol of grass-roots defiance against the ruling Communist Party. 
 
-### [In golf, American golfer Dustin Johnson wins the 2016 U.S. Open, his first major. ](/news/2016/06/19/in-golf-american-golfer-dustin-johnson-wins-the-2016-u-s-open-his-first-major.md)
-_Context: 2016 U.S. Open, Dustin Johnson, golf, major championship_
-
-### [In basketball, the Cleveland Cavaliers beat the Golden State Warriors in seven games to win the 2016 NBA Championship. Cleveland, winning its first NBA title in the franchise's 45-year history, also became the first NBA team to rally from a 3-1 deficit and win the crown. Tonight's victory also ends the 52-year title drought of Cleveland's major sports teams; in 1964, the Cleveland Browns shut out the Baltimore Colts for the NFL title. Cleveland's LeBron James is unanimously voted the Most Valuable Player of the NBA Finals, his third such award. ](/news/2016/06/19/in-basketball-the-cleveland-cavaliers-beat-the-golden-state-warriors-in-seven-games-to-win-the-2016-nba-championship-cleveland-winning-it.md)
-Minute-by-minute report: The Cavaliers ended their long wait for a title with victory over the Warriors in Game 7
-
 ## [Previous Day...](/news/2016/06/18/index.md)
 

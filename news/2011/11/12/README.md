@@ -30,8 +30,5 @@ Silvio Berlusconi resigned on Saturday to make way for an emergency government I
 ### [At a Republican party presidential primary debate, US Presidential candidates Mitt Romney and Newt Gingrich say they would go to war to stop Iran from obtaining nuclear weapons. ](/news/2011/11/12/at-a-republican-party-presidential-primary-debate-us-presidential-candidates-mitt-romney-and-newt-gingrich-say-they-would-go-to-war-to-stop.md)
 At CBS News/National Journal Republican presidential debate, candidates split on willingness to go to war over nuclear weapons
 
-### [In athletics, the International Association of Athletics Federations names Usain Bolt of Jamaica and Sally Pearson of Australia as its World Athletes of the Year. ](/news/2011/11/12/in-athletics-the-international-association-of-athletics-federations-names-usain-bolt-of-jamaica-and-sally-pearson-of-australia-as-its-world.md)
-_Context: Australia, International Association of Athletics Federations, Jamaica, Sally Pearson, Usain Bolt, athletics_
-
 ## [Previous Day...](/news/2011/11/11/index.md)
 

@@ -48,14 +48,5 @@ _Context: Australia, Barry O'Farrell, New South Wales, Premier, state election_
 ### [The Governor of the US state of Michigan Rick Snyder signs legislation lowering the period that jobless workers can claim state unemployment benefits from 26 weeks to 20 weeks. ](/news/2011/03/28/the-governor-of-the-us-state-of-michigan-rick-snyder-signs-legislation-lowering-the-period-that-jobless-workers-can-claim-state-unemployment.md)
 _Context: Governor, Michigan, Rick Snyder, unemployment benefits_
 
-### [The captain of the Australia national rugby league team Darren Lockyer announces his retirement as at the end of the 2011 NRL season. ](/news/2011/03/28/the-captain-of-the-australia-national-rugby-league-team-darren-lockyer-announces-his-retirement-as-at-the-end-of-the-2011-nrl-season.md)
-Brisbane Broncos captain Darren Lockyer will hang up the boots at the end of the NRL season, bringing his glittering rugby league career to an end.
-
-### [The opening date of the Nippon Professional Baseball season is deferred due to the 2011 Tohoku earthquake and tsunami. ](/news/2011/03/28/the-opening-date-of-the-nippon-professional-baseball-season-is-deferred-due-to-the-2011-tahoku-earthquake-and-tsunami.md)
-_Context: Nippon Professional Baseball, an earthquake and tsunami_
-
-### [French urban climber Alain Robert scales the worlds tallest building, Burj Khalifa in Dubai. ](/news/2011/03/28/french-urban-climber-alain-robert-scales-the-worlds-tallest-building-burj-khalifa-in-dubai.md)
-_Context: Alain Robert, Burj Khalifa, Dubai, Frenchman, urban climber_
-
 ## [Previous Day...](/news/2011/03/27/index.md)
 

@@ -7,7 +7,7 @@ Thousands march outside Manama while police use sound bombs to disperse a smalle
 A museum in Italy has started burning its artworks in protest at budget cuts which it says have left cultural institutions out of pocket.
 
 ### [American television personality and producer Dick Clark dies of a heart attack at the age of 82. ](/news/2012/04/18/american-television-personality-and-producer-dick-clark-dies-of-a-heart-attack-at-the-age-of-82.md)
-_Context: Dick Clark, U.S._
+_Context: Dick Clark, United States_
 
 ### [In the U.S., the Commodity Futures Trading Commission and the Securities and Exchange Commission finalize joint rules that will limit which firms must register with either or both of those agencies as "swap dealers." ](/news/2012/04/18/in-the-u-s-the-commodity-futures-trading-commission-and-the-securities-and-exchange-commission-finalize-joint-rules-that-will-limit-which.md)
 U.S. regulators limited the number of market players that will be slapped with a pricey &quot;swap dealer&quot; tag, heeding warnings by swap users about getting too tough but dismaying advocates of greater oversight.
@@ -29,12 +29,6 @@ China promises a &quot;thorough&quot; investigation into a top politician linked
 
 ### [In a rare move for courts in the United Kingdom, television cameras are allowed into the High Court in Edinburgh to film the sentencing of David Gilroy for the murder of Suzanne Pilley. ](/news/2012/04/18/in-a-rare-move-for-courts-in-the-united-kingdom-television-cameras-are-allowed-into-the-high-court-in-edinburgh-to-film-the-sentencing-of-d.md)
 _Context: murder of Suzanne Pilley, the High Court in Edinburgh_
-
-### [Pat Summitt resigns as head coach of the Tennessee Lady Volunteers basketball team. ](/news/2012/04/18/pat-summitt-resigns-as-head-coach-of-the-tennessee-lady-volunteers-basketball-team.md)
-Pat Summitt, who received a diagnosis of early onset Alzheimer’s last year, will take the title of head coach emeritus, and longtime assistant Holly Warlick will replace her.
-
-### [Chelsea stun title holders Barcelona with a 1-0 win UEFA Champions League semi-final first-leg match in London, Ivorian footballer Didier Drogba scoring the only goal of the game. ](/news/2012/04/18/chelsea-stun-title-holders-barcelona-with-a-1-0-win-uefa-champions-league-semi-final-first-leg-match-in-london-ivorian-footballer-didier-dr.md)
-Chelsea take a narrow advantage into the second leg of Champions League semi-final with 1-0 home win over Barcelona.
 
 ## [Previous Day...](/news/2012/04/17/index.md)
 

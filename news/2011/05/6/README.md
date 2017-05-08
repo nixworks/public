@@ -93,8 +93,5 @@ _Context: Jon Ashworth, Labour Party, Leicester South by-election_
 ### [Thai Prime Minister Abhisit Vejjajiva seeks King Bhumibol Adulyadej's endorsement to dissolve the lower house of parliament and calls for a national election. ](/news/2011/05/6/thai-prime-minister-abhisit-vejjajiva-seeks-king-bhumibol-adulyadej-s-endorsement-to-dissolve-the-lower-house-of-parliament-and-calls-for-a.md)
 _Context: Abhisit Vejjajiva, Bhumibol Adulyadej, King, Thai Prime Minister_
 
-### [Craig Whyte, the Scottish businessman, completes his takeover of Glasgow Rangers, succeeding Sir David Murray, who was owner of the club for 23 years. ](/news/2011/05/6/craig-whyte-the-scottish-businessman-completes-his-takeover-of-glasgow-rangers-succeeding-sir-david-murray-who-was-owner-of-the-club-for.md)
-_Context: Craig Whyte, Rangers F.C., Scotland, Sir David Murray_
-
 ## [Previous Day...](/news/2011/05/5/index.md)
 

@@ -12,8 +12,5 @@ _Context: China, Kangding, Sichuan_
 ### [Voters in Bahrain go to the polls for the first parliamentary elections since the unsuccessful Pearl Revolution. ](/news/2014/11/22/voters-in-bahrain-go-to-the-polls-for-the-first-parliamentary-elections-since-the-unsuccessful-pearl-revolution.md)
 _Context: Bahrain, Pearl Revolution, election_
 
-### [In football, Argentinian Lionel Messi of FC Barcelona sets a new goal scoring record in La Liga of 253 goals. ](/news/2014/11/22/in-football-argentinian-lionel-messi-of-fc-barcelona-sets-a-new-goal-scoring-record-in-la-liga-of-253-goals.md)
-BARCELONA (Reuters) - Barcelona forward Lionel Messi set a La Liga scoring record of 253 goals when he grabbed a hat-trick in Saturday&#039;s 5-1 win at home to Sevilla.
-
 ## [Previous Day...](/news/2014/11/21/index.md)
 

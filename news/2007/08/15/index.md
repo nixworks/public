@@ -46,7 +46,7 @@ _Context: Kenya, Nairobi_
 _Context: Alexander Downer, Australia, India, nuclear scientist, uranium_
 
 ### [ Richard Boucher, the U.S. Assistant Secretary of State, arrives in Pakistan to meet foreign minister Khurshid Mahmud Kasuri and President Pervez Musharraf. ](/news/2007/08/15/richard-boucher-the-u-s-assistant-secretary-of-state-arrives-in-pakistan-to-meet-foreign-minister-khurshid-mahmud-kasuri-and-president-p.md)
-_Context: Khurshid Mahmud Kasuri, Pakistan, Pervez Musharraf, Richard Boucher, U.S., U.S. Assistant Secretary of State_
+_Context: Khurshid Mahmud Kasuri, Pakistan, Pervez Musharraf, Richard Boucher, U.S. Assistant Secretary of State, United States_
 
 ### [ Cristina Fernandez de Kirchner, Argentinian presidential candidate, presents Julio Cobos as her running mate. ](/news/2007/08/15/cristina-ferna-ndez-de-kirchner-argentinian-presidential-candidate-presents-julio-cobos-as-her-running-mate.md)
 _Context: Argentina, Argentine general election, 2007, Cristina Fernandez de Kirchner, Julio Cobos, running mate_
@@ -61,7 +61,7 @@ _Context: 2007 presidential election, Kenya, ODM-Kenya_
 _Context: Charles Murigande, Democratic Forces for the Liberation of Rwanda, Democratic Republic of Congo, Rwanda_
 
 ### [ War in Afghanistan: Three Germans are killed by a bomb attack near Kabul. ](/news/2007/08/15/war-in-afghanistan-p-three-germans-are-killed-by-a-bomb-attack-near-kabul.md)
-_Context: Germany, Kabul, War in Afghanistan (2001-present)_
+_Context: German, Kabul, War in Afghanistan (2001-present)_
 
 ### [ On the 62nd anniversary of Japan's surrender in World War II, Prime Minister Shinzo Abe and his ministers do not visit the Yasukuni Shrine. ](/news/2007/08/15/on-the-62nd-anniversary-of-japan-s-surrender-in-world-war-ii-prime-minister-shinzo-abe-and-his-ministers-do-not-visit-the-yasukuni-shrine.md)
 _Context: Japan, Prime Minister, Shinzo Abe, World War II, Yasukuni Shrine_
@@ -91,7 +91,7 @@ Queen Elizabeth II and British Prime Minister Gordon Brown have congratulated In
 _Context: Bangladesh, President, Sheikh Mujibur Rahman, assassinating, independence war_
 
 ### [ The United States declares Iran's Islamic Revolutionary Guard Corps a "specially designated global terrorist," paving the way for increased financial pressure on Iran and its assets abroad. ](/news/2007/08/15/the-united-states-declares-iran-s-islamic-revolutionary-guard-corps-a-specially-designated-global-terrorist-paving-the-way-for-increased.md)
-_Context: Iran, Islamic Revolutionary Guard Corps, U.S._
+_Context: Iran, Islamic Revolutionary Guard Corps, United States_
 
 ## [Previous Day...](/news/2007/08/14/index.md)
 

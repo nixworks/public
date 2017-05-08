@@ -54,8 +54,5 @@ _Context: Israel, Mahmoud Abbas, Oslo Peace Accords, PLO, Palestinian Authority 
 ### [CERN scientists present recent results from CMS and ATLAS experiments consistent with the existence of a Higgs boson particle. ](/news/2012/07/4/cern-scientists-present-recent-results-from-cms-and-atlas-experiments-consistent-with-the-existence-of-a-higgs-boson-particle.md)
 Scientists are meeting in Geneva shortly to reveal the latest results in the hunt for the Higgs boson, as rumours about them reach a peak.
 
-### [The Scottish Premier League refuses to admit Newco Rangers, the team that emerged from the ashes of Rangers F.C. following its disintegration. ](/news/2012/07/4/the-scottish-premier-league-refuses-to-admit-newco-rangers-the-team-that-emerged-from-the-ashes-of-rangers-f-c-following-its-disintegratio.md)
-Ten out of 12 chairmen vote to reject the application from Rangers newco to join the Scottish Premier League.
-
 ## [Previous Day...](/news/2012/07/3/index.md)
 

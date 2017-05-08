@@ -51,8 +51,5 @@ Tens of thousands of Argentines paid tribute on Thursday to former President Nes
 ### [China's Tianhe-1 overtakes Nebule to regain top spot as the world's fastest  supercomputer. ](/news/2010/10/28/china-s-tianhe-1-overtakes-nebule-to-regain-top-spot-as-the-world-s-fastest-supercomputer.md)
 China has wrested the title of the nation with the most powerful supercomputer on the planet away from the US.
 
-### [Sandy Alderson is chosen as the new general manager of the New York Mets. ](/news/2010/10/28/sandy-alderson-is-chosen-as-the-new-general-manager-of-the-new-york-mets.md)
-_Context: New York Mets, Sandy Alderson_
-
 ## [Previous Day...](/news/2010/10/27/index.md)
 

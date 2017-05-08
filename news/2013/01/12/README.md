@@ -24,8 +24,5 @@ _Context: Kuala Lumpur, Malaysia, People's Uprising Rally_
 ### [Beijing's air pollution reaches levels judged as hazardous to human health. ](/news/2013/01/12/beijing-s-air-pollution-reaches-levels-judged-as-hazardous-to-human-health.md)
 Air pollution in the Chinese capital Beijing reaches levels judged as hazardous to health, with visibility down to a few hundred metres.
 
-### [In ice hockey, the National Hockey League Players' Association overwhelmingly votes to ratify a new collective bargaining agreement reached with the league. NHL training camps are scheduled to open on January 13, with a shortened 48-game regular season to begin on January 19. ](/news/2013/01/12/in-ice-hockey-the-national-hockey-league-players-association-overwhelmingly-votes-to-ratify-a-new-collective-bargaining-agreement-reached.md)
-NHL players finally are headed back to work.
-
 ## [Previous Day...](/news/2013/01/11/index.md)
 

@@ -15,11 +15,5 @@ _Context: Anna Hazare, Jan Lokpal, Parliament of India, hunger strike_
 ### [Hundreds of thousands of Canadians attend events and tributes across Canada in honour of Jack Layton, as an unprecedented state funeral is held. ](/news/2011/08/27/hundreds-of-thousands-of-canadians-attend-events-and-tributes-across-canada-in-honour-of-jack-layton-as-an-unprecedented-state-funeral-is-h.md)
 _Context: Jack Layton, state funeral_
 
-### [In rugby union, the Australian Wallabies defeat the New Zealand All Blacks to win the 2011 Tri Nations Series. ](/news/2011/08/27/in-rugby-union-the-australian-wallabies-defeat-the-new-zealand-all-blacks-to-win-the-2011-tri-nations-series.md)
-_Context: 2011 Tri Nations Series, Australian Wallabies, New Zealand, rugby union_
-
-### [In cricket, the Leicestershire Foxes win the Friends Life T20 Cup, beating Somerset Sabres by 18 runs in the final. Both teams reached the final after winning a one over eliminator, the first time such decider had been used in the finals of the competition. [http://www.espncricinfo.com/friends-life-t20/engine/current/match/492510.html]](/news/2011/08/27/in-cricket-the-leicestershire-foxes-win-the-friends-life-t20-cup-beating-somerset-sabres-by-18-runs-in-the-final-both-teams-reached-the-f.md)
-_Context: Cricket, Friends Life T20 Cup, Leicestershire Foxes, Somerset Sabres, one over eliminator_
-
 ## [Previous Day...](/news/2011/08/26/index.md)
 

@@ -22,7 +22,7 @@ Apple Inc. must pay $450 million to end an antitrust suit after the U.S. Supreme
 A Bay Area commuter train en route to Stockton derailed Monday night, authorities said. The Altamont Corridor Express, also known as the ACE train, issued a bulletin about 7:45 p.m. that Train 10, which departed San Jose at 6:38 p.m. and was scheduled to arrive in Stockton by 9 p.m., had derailed in Niles Canyon.
 
 ### [South Korea and the United States start a joint military exercise as North Korea repeats threats of "indiscriminate" nuclear strikes. ](/news/2016/03/7/south-korea-and-the-united-states-start-a-joint-military-exercise-as-north-korea-repeats-threats-of-indiscriminate-nuclear-strikes.md)
-_Context: North Korea, South Korea, South Korea-United States relations, U.S._
+_Context: North Korea, South Korea, South Korea-United States relations, United States_
 
 ### [Indonesian President Joko "Jokowi" Widodo calls on Muslim leaders at the  Organisation of Islamic Cooperation (OIC) summit meeting in Jakarta to  unite and be part of the solution on Palestine, noting the entire world is concerned about its deteriorating situation. Jokowi also criticizes what he calls Israel's "unilateral and illegal policies." ](/news/2016/03/7/indonesian-president-joko-ajokowia-widodo-calls-on-muslim-leaders-at-the-organisation-of-islamic-cooperation-oic-summit-meeting-in-ja.md)
 Unity: President Joko &acirc;Jokowi&acirc; Widodo welcomes Palestinian President Mahmoud Abbas before they carry out a bilateral meeting on the sidelines of the Organization of the Islamic Cooperation (OIC) Summit at the Jakarta Convention Center (JCC) on Sunday
@@ -53,12 +53,6 @@ The former mayor of New York City revealed his decision in a column for Bloomber
 
 ### [Research, published in the peer-reviewed scientific journal ''Nature Geoscience'', confirms that  Mercury's darker than expected crusty exterior is from carbon, likely  the remains of the planet's ancient surface crust of graphite, rather than carbon dust from comet impacts as previously postulated. ](/news/2016/03/7/research-published-in-the-peer-reviewed-scientific-journal-nature-geoscience-confirms-that-mercury-s-darker-than-expected-crusty-exte.md)
 Mercury may have comet dust to thank for its dark appearance.
-
-### [Russian tennis star Maria Sharapova tests positive for meldonium at the 2016 Australian Open tennis championship. She has taken the drug since 2006 on prescription for health issues. World Anti-Doping Agency President Craig Reedie says an athlete found guilty of using meldonium would normally face a one-year suspension. ](/news/2016/03/7/russian-tennis-star-maria-sharapova-tests-positive-for-meldonium-at-the-2016-australian-open-tennis-championship-she-has-taken-the-drug-sin.md)
-Five-time Grand Slam winner Maria Sharapova reveals she failed a drugs test at the Australian Open in January.
-
-### [American football quarterback Peyton Manning retires after eighteen seasons in the National Football League with two Super Bowl championships, five MVP awards, and single-season and career league records for most passing yards and touchdown passes. ](/news/2016/03/7/american-football-quarterback-peyton-manning-retires-after-eighteen-seasons-in-the-national-football-league-with-two-super-bowl-championship.md)
-Denver Broncos quarterback Peyton Manning put together a nearly perfect NFL career. On Monday, he ended it with a perfect goodbye news conference.
 
 ## [Previous Day...](/news/2016/03/6/index.md)
 

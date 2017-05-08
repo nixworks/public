@@ -52,7 +52,7 @@ _Context: Banja Luka, Bosnia, Catherine Ashton, Milorad Dodik, President, Republ
 Ieuan Wyn Jones reveals he will stand down as Plaid Cymru leader some time in this assembly term, and Lord Elis-Thomas, one of his predecessors, says he may run for the job again.
 
 ### [FIFA President Sepp Blatter fears being plunged into "a black hole" if AFC President Mohammed Bin Hammam defeats him in next month's leadership election. ](/news/2011/05/13/fifa-president-sepp-blatter-fears-being-plunged-into-a-black-hole-if-afc-president-mohammed-bin-hammam-defeats-him-in-next-month-s-leaders.md)
-_Context: AFC, FIFA, Mohammed Bin Hammam, President, President of FIFA, Sepp Blatter_
+_Context: AFC, FIFA, FIFA President, Mohammed Bin Hammam, President, Sepp Blatter_
 
 ### [Pope Benedict XVI tells Roman Catholic bishops around the world they must obey Summorum Pontificum, a papal order allowing priests to say the old-style Tridentine Mass, regardless of their opinion on it. ](/news/2011/05/13/pope-benedict-xvi-tells-roman-catholic-bishops-around-the-world-they-must-obey-summorum-pontificum-a-papal-order-allowing-priests-to-say-th.md)
 The Vatican told Catholic bishops around the world on Friday they had to obey a papal order allowing priests to say the old-style Latin mass for traditionalist Catholics, whether they liked it or not.

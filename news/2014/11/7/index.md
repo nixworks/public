@@ -1,7 +1,7 @@
 ## [2014-11-7](/news/2014/11/7/index.md)
 
 ### [United States President Barack Obama orders 1500 more troops into Iraq. ](/news/2014/11/7/united-states-president-barack-obama-orders-1500-more-troops-into-iraq.md)
-_Context: 2014 military intervention against ISIS, Iraq, Obama, U.S._
+_Context: 2014 military intervention against ISIS, Iraq, Obama, United States_
 
 ### [The Philippines commemorates the anniversary of Typhoon Haiyan (Yolanda) which destroyed much of the city of Tacloban. ](/news/2014/11/7/the-philippines-commemorates-the-anniversary-of-typhoon-haiyan-yolanda-which-destroyed-much-of-the-city-of-tacloban.md)
 _Context: Philippine, Tacloban, Typhoon Haiyan (Yolanda)_

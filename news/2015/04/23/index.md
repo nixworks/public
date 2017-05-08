@@ -25,7 +25,7 @@ Former US army general and CIA director fined $100,000 – $60,000 more than exp
 _Context: Djoomart Otorbaev, Prime Minister_
 
 ### [The United States Senate confirms Loretta Lynch as the Attorney General of the United States. Lynch will be the first African-American woman to hold the position. ](/news/2015/04/23/the-united-states-senate-confirms-loretta-lynch-as-the-attorney-general-of-the-united-states-lynch-will-be-the-first-african-american-woman.md)
-_Context: African-American, Attorney General, Loretta Lynch, senators_
+_Context: African-American, Attorney General, Loretta Lynch, United States senators_
 
 ## [Previous Day...](/news/2015/04/22/index.md)
 

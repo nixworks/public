@@ -33,20 +33,5 @@ _Context: Irish government, Shane McEntee, austerity measures, budget_
 ### [Former Prime Minister of the United Kingdom Margaret Thatcher recovers in hospital after having a growth removed from her bladder and is likely to remain in hospital over the Christmas period. ](/news/2012/12/22/former-prime-minister-of-the-united-kingdom-margaret-thatcher-recovers-in-hospital-after-having-a-growth-removed-from-her-bladder-and-is-lik.md)
 Former UK prime minister Margaret Thatcher is recovering in hospital after having a growth removed from her bladder.
 
-### [Brazil opens the 62,160 capacity Mineirao in Belo Horizonte, the second stadium for the 2014 FIFA World Cup. ](/news/2012/12/22/brazil-opens-the-62-160-capacity-mineirapso-in-belo-horizonte-the-second-stadium-for-the-2014-fifa-world-cup.md)
-_Context: 2014 FIFA World Cup, Belo Horizonte, Brazil, Mineirao_
-
-### [Bundesliga club Wolfsburg appoint former Nuremberg boss Dieter Hecking as their new head coach. ](/news/2012/12/22/bundesliga-club-wolfsburg-appoint-former-nuremberg-boss-dieter-hecking-as-their-new-head-coach.md)
-The official site of the international governing body of football with news, national associations, competitions, results, fixtures, development, organisation, world rankings, statistics, the International Football Association Board, history, laws of the game, futsal, publications, downloads, and contact details.
-
-### [Lionel Messi scores his 91st, and final, goal of a record breaking year as Barcelona win 3-1 against Real Valladolid in the 2012-13 La Liga. ](/news/2012/12/22/lionel-messi-scores-his-91st-and-final-goal-of-a-record-breaking-year-as-barcelona-win-3a1-against-real-valladolid-in-the-2012a13-la-l.md)
-_Context: 2012-13 La Liga, FC Barcelona, Lionel Messi, Real Valladolid_
-
-### [Spanish footballer Isco who plays for Malaga CF is named as 2012 Golden Boy running ahead of Stephan El Shaarawy and Thibaut Courtois. ](/news/2012/12/22/spanish-footballer-isco-who-plays-for-ma-laga-cf-is-named-as-2012-golden-boy-running-ahead-of-stephan-el-shaarawy-and-thibaut-courtois.md)
-_Context: Golden Boy, Isco, Malaga, Spain, Stephan El Shaarawy, Thibaut Courtois_
-
-### [In boxing, Tomasz Adamek outpoints Steve Cunningham in a split decision in their IBF heavyweight title eliminator at the Sands Casino Resort Bethlehem in Bethlehem, Pennsylvania, USA. ](/news/2012/12/22/in-boxing-tomasz-adamek-outpoints-steve-cunningham-in-a-split-decision-in-their-ibf-heavyweight-title-eliminator-at-the-sands-casino-resort.md)
-_Context: Bethlehem, IBF, Pennsylvania, Sands Casino Resort Bethlehem, Steve Cunningham, Tomasz Adamek, USA, boxing, heavyweight title_
-
 ## [Previous Day...](/news/2012/12/21/index.md)
 

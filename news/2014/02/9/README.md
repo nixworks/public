@@ -63,8 +63,5 @@ Astronomers have observed a star which they believe is the the oldest ever disco
 ### [Research from the ''Science Translational Medicine'' suggest that Vitamin C may be useful in aiding chemotherapy against cancer. ](/news/2014/02/9/research-from-the-science-translational-medicine-suggest-that-vitamin-c-may-be-useful-in-aiding-chemotherapy-against-cancer.md)
 High doses of vitamin C can boost the cancer-killing effect of chemotherapy, according to new research.
 
-### [Head coach Mo Cheeks is fired by the Detroit Pistons after a disappointing 21-29 start to the season. ](/news/2014/02/9/head-coach-mo-cheeks-is-fired-by-the-detroit-pistons-after-a-disappointing-21-29-start-to-the-season.md)
-_Context: Detroit Pistons, Mo Cheeks, season_
-
 ## [Previous Day...](/news/2014/02/8/index.md)
 

@@ -28,11 +28,5 @@ _Context: Colorado, addicts, marijuana_
 ### [Bill de Blasio is sworn in as the 109th Mayor of New York City. ](/news/2014/01/1/bill-de-blasio-is-sworn-in-as-the-109th-mayor-of-new-york-city.md)
 NEW YORK (AP) — Bill de Blasio took the oath of office administered by former president Bill Clinton on Wednesday, formally becoming the 109th mayor of New York City while pledging to pursue a sweeping liberal agenda.
 
-### [In front of a crowd of 105,491 at Michigan Stadium in Ann Arbor, Michigan, potentially the largest ever to attend an ice hockey game, the Toronto Maple Leafs defeat the Detroit Red Wings 3-2 after a shootout in the 2014 NHL Winter Classic. ](/news/2014/01/1/in-front-of-a-crowd-of-105-491-at-michigan-stadium-in-ann-arbor-michigan-potentially-the-largest-ever-to-attend-an-ice-hockey-game-the-to.md)
-_Context: 2014 NHL Winter Classic, Ann Arbor, Michigan, Detroit Red Wings, Michigan Stadium, Toronto Maple Leafs, ice hockey, largest ever, shootout_
-
-### [Michael van Gerwen wins the 2014 PDC World Darts Championship by defeating Peter Wright. ](/news/2014/01/1/michael-van-gerwen-wins-the-2014-pdc-world-darts-championship-by-defeating-peter-wright.md)
-_Context: 2014 PDC World Darts Championship, Michael van Gerwen, Peter Wright_
-
 ## [Previous Day...](/news/2013/12/31/index.md)
 

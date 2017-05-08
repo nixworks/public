@@ -22,7 +22,7 @@ _Context: Defence Ministry, North Korea, South Korea_
 _Context: International Atomic Energy Agency, Japan, Yukiya Amano_
 
 ### [ The first vaccine for H1N1 swine flu virus strain has been made by Novartis in Marburg, Germany. ](/news/2009/07/2/the-first-vaccine-for-h1n1-swine-flu-virus-strain-has-been-made-by-novartis-in-marburg-germany.md)
-_Context: Germany, H1N1, Marburg, Novartis, swine flu, vaccine_
+_Context: German, H1N1, Marburg, Novartis, swine flu, vaccine_
 
 ### [ A Royal Air Force plane crashes in a rural area of Argyll, United Kingdom. ](/news/2009/07/2/a-royal-air-force-plane-crashes-in-a-rural-area-of-argyll-united-kingdom.md)
 _Context: Argyll, Royal Air Force, United Kingdom_

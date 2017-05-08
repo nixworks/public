@@ -24,11 +24,5 @@ _Context: North Korea, its nuclear weapons program_
 ### [Russian police arrest a former senior police officer Dmitry Pavlyuchenkov suspected of organising the murder of former Kremlin reporter Anna Politkovskaya in 2006. ](/news/2011/08/24/russian-police-arrest-a-former-senior-police-officer-dmitry-pavlyuchenkov-suspected-of-organising-the-murder-of-former-kremlin-reporter-anna.md)
 _Context: Anna Politkovskaya, Kremlin, state police_
 
-### [In athletics, Lamine Diack of Senegal is elected unopposed to another term as President of the International Association of Athletics Federations. ](/news/2011/08/24/in-athletics-lamine-diack-of-senegal-is-elected-unopposed-to-another-term-as-president-of-the-international-association-of-athletics-federa.md)
-Senegal&#x27;s Lamine Diack has been elected unopposed to a new term as president of the IAAF, the world governing body for athletics.
-
-### [A Progress resupply vehicle destined for the International Space Station experiences a catastrophic engine failure and fails to reach orbit impacting in the Altai Republic.](/news/2011/08/24/a-progress-resupply-vehicle-destined-for-the-international-space-station-experiences-a-catastrophic-engine-failure-and-fails-to-reach-orbit.md)
-_Context: Altai, International Space Station, Progress_
-
 ## [Previous Day...](/news/2011/08/23/index.md)
 

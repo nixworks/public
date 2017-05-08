@@ -18,8 +18,5 @@ _Context: Kenya, Nairobi_
 ### [Pope Francis announces the appointment of 20 new Cardinals, many of them coming from outside of Europe. ](/news/2015/01/4/pope-francis-announces-the-appointment-of-20-new-cardinals-many-of-them-coming-from-outside-of-europe.md)
 Pope Francis on Sunday named new cardinals to the group that will choose his successor, with appointments that strengthened the Catholic Church in Asia, Africa and Latin America and further shifted its power center away from the developed world.
 
-### [In darts, Gary Anderson of Scotland defeats Phil Taylor of England 7-6 to win his first PDC World Darts Championship. ](/news/2015/01/4/in-darts-gary-anderson-of-scotland-defeats-phil-taylor-of-england-7-6-to-win-his-first-pdc-world-darts-championship.md)
-Scottish darts player Gary Anderson has won his first world title, beating Phil &#039;The Power&#039; Taylor 7-6 in the final.
-
 ## [Previous Day...](/news/2015/01/3/index.md)
 

@@ -24,8 +24,5 @@ _Context: Bundestag, European Financial Stability Facility, German_
 ### [The People's Republic of China successfully launches the Tiangong 1 space laboratory, the country's first space station module, from the Jiuquan Satellite Launch Center in Gansu Province. ](/news/2011/09/29/the-people-s-republic-of-china-successfully-launches-the-tiangong-1-space-laboratory-the-country-s-first-space-station-module-from-the-jiu.md)
 _Context: China's, Gansu province, Jiuquan Satellite Launch Center, Tiangong-1, space station module_
 
-### [Iran beats China 3-1 to win the 2011 Asian Men's Volleyball Championship held in Tehran. ](/news/2011/09/29/iran-beats-china-3-1-to-win-the-2011-asian-men-s-volleyball-championship-held-in-tehran.md)
-_Context: 2011 Asian Men's Volleyball Championship, China, Iran, Tehran_
-
 ## [Previous Day...](/news/2011/09/28/index.md)
 

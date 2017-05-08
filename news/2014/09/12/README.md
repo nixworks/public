@@ -27,8 +27,5 @@ Former first minister and Democratic Unionist Party leader Ian Paisley has died 
 ### [NASA's Mars ''Curiosity'' rover reaches its final destination Aeolis Mons, a mountain that rises 5.5 km at the center of Gale Crater. ](/news/2014/09/12/nasa-s-mars-curiosity-rover-reaches-its-final-destination-aeolis-mons-a-mountain-that-rises-5-5-km-at-the-center-of-gale-crater.md)
 This is it. Curiosity has reached its prime destination. After a brilliant conception, an amazing landing, and two years of continuous travel, the rover...
 
-### [In cricket, former New Zealand player Chris Cairns is to be charged with perjury by London's Metropolitan Police Service in relation to a 2012 libel trial regarding allegations of match fixing made by former Indian Premier League boss Lalit Modi. ](/news/2014/09/12/in-cricket-former-new-zealand-player-chris-cairns-is-to-be-charged-with-perjury-by-london-s-metropolitan-police-service-in-relation-to-a-20.md)
-Former New Zealand cricketer Chris Cairns will be charged with perjury by London&#039;s Metropolitan Police in a dramatic climax to the game&#039;s latest match-fixing investigation.
-
 ## [Previous Day...](/news/2014/09/11/index.md)
 

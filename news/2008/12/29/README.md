@@ -7,7 +7,7 @@ _Context: Abdullahi Yusuf Ahmed, Adan Mohamed Nuur Madobe, MPs, President, Somal
 _Context: Bangladesh, wins_
 
 ### [ Liverpool F.C. player Steven Gerrard is arrested following an altercation at a Southport nightclub and subsequently charged with Section 20 grievous bodily harm. ](/news/2008/12/29/liverpool-f-c-player-steven-gerrard-is-arrested-following-an-altercation-at-a-southport-nightclub-and-subsequently-charged-with-section-20.md)
-_Context: Liverpool F.C., Section 20, Southport, Steven Gerrard, grievous bodily harm_
+_Context: Liverpool, Section 20, Southport, Steven Gerrard, grievous bodily harm_
 
 ### [ An Ebola outbreak in West Kasai in the Democratic Republic of Congo kills 11 people. ](/news/2008/12/29/an-ebola-outbreak-in-west-kasai-in-the-democratic-republic-of-congo-kills-11-people.md)
 _Context: Democratic Republic of Congo, Ebola, Kasai-Occidental_

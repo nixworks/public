@@ -31,7 +31,7 @@ _Context: Alaska, Cook Inlet, National Oceanic and Atmospheric Administration, b
 Measure approved under fast-track procedure as European markets rally.
 
 ### [ Sachin Tendulkar of the India cricket team becomes the highest aggregate run scorer in Test cricket at 0901 hrs(GMT) and the first to pass 12,000 in scoring 88 during the second test against Australia at the Punjab Cricket Association Stadium in Mohali. ](/news/2008/10/17/sachin-tendulkar-of-the-india-cricket-team-becomes-the-highest-aggregate-run-scorer-in-test-cricket-at-0901-hrs-gmt-and-the-first-to-pass.md)
-_Context: 2008-09 Border-Gavaskar cricket test series, Australia, India cricket team, Mohali, Mohali, Sachin Tendulkar, test cricket_
+_Context: 2008-09 Border-Gavaskar cricket test series, Australia, India cricket team, Mohali, Mohali, Sachin Tendulkar, Test_
 
 ## [Previous Day...](/news/2008/10/16/index.md)
 

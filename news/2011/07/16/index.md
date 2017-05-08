@@ -33,8 +33,5 @@ Rupert Murdoch takes out national press adverts to apologise for the phone hacki
 ### [The funeral of Otto von Habsburg, final heir to the Austro-Hungarian Empire, occurs in Vienna, attended by monarchs and members of the political elite; his corpse is to be buried in the Imperial Crypt. ](/news/2011/07/16/the-funeral-of-otto-von-habsburg-final-heir-to-the-austro-hungarian-empire-occurs-in-vienna-attended-by-monarchs-and-members-of-the-polit.md)
 European royals and political leaders are among the mourners at the funeral of the last heir to the Austro-Hungarian Empire, Otto von Habsburg, in Vienna.
 
-### [Three more members of the North Korea women's national football team fail drug tests at the 2011 FIFA Women's World Cup. ](/news/2011/07/16/three-more-members-of-the-north-korea-women-s-national-football-team-fail-drug-tests-at-the-2011-fifa-women-s-world-cup.md)
-_Context: 2011 FIFA Women's World Cup, North Korea women's national football team_
-
 ## [Previous Day...](/news/2011/07/15/index.md)
 

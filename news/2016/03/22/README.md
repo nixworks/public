@@ -39,8 +39,5 @@ He may never be commemorated with a statue or have a park named after him, but R
 ### [Brazil President Dilma Rousseff says she will not resign under any circumstances because she hadn't committed a crime, and equated a bid to impeach her to a coup d'etat against democratic rule.  A congressional impeachment committee has started hearings.  Rousseff could be suspended if the Chamber of Deputies approves the motion to impeach. The president urged the Supreme Court to remain impartial in this political crisis.   ](/news/2016/03/22/brazil-president-dilma-rousseff-says-she-will-not-resign-under-any-circumstances-because-she-hadn-t-committed-a-crime-and-equated-a-bid-to.md)
 _Context: 2015-16 protests in Brazil, Brazil's Chamber of Deputies, Brazilian President, Dilma Rousseff, Supreme Court Justice, coup_
 
-### [Indian Wells (California)  CEO and tennis tournament director Raymond Moore resigns following reactions of outrage, including by top-ranked Serena Williams and retired legend Martina Navratilova, to his comment that top-level women's players rode "on the coattails of the men" and were "very, very lucky" to have equal prize money. This is the event's second controversy involving female players. Serena and her sister Venus boycotted the tournament (also known as the BNP Paribas Open) until 2015 following verbal abuse directed toward the sisters in the 2001 open. ](/news/2016/03/22/indian-wells-california-ceo-and-tennis-tournament-director-raymond-moore-resigns-following-reactions-of-outrage-including-by-top-ranked.md)
-_Context: BNP Paribas, California, Indian Wells, Martina Navratilova, Raymond Moore, Serena Williams, Venus Williams_
-
 ## [Previous Day...](/news/2016/03/21/index.md)
 

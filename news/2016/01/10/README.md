@@ -39,8 +39,5 @@ _Context: Arely Gomez, Attorney General of Mexico, Joaquin "El Chapo" Guzman, Ka
 ### [The newly appointed President of Catalonia, Carles Puigdemont, vows to continue his predecessor Artur Mas i Gavarro's plans to secede from Spain within 18 months. ](/news/2016/01/10/the-newly-appointed-president-of-catalonia-carles-puigdemont-vows-to-continue-his-predecessor-artur-mas-i-gavarra3-s-plans-to-secede-from.md)
 _Context: Artur Mas i Gavarro, Carles Puigdemont, Catalan independence, President of the Generalitat of Catalonia, Spain_
 
-### [Lawyers for former FIFA chief Sepp Blatter confirm that he will appeal his eight year ban from the organisation. ](/news/2016/01/10/lawyers-for-former-fifa-chief-sepp-blatter-confirm-that-he-will-appeal-his-eight-year-ban-from-the-organisation.md)
-Fallen FIFA chief Sepp Blatter will appeal against his eight-year ban, his lawyer said Sunday, joining fellow suspended official Michel Platini in a fight to clear his name. &quot;We will appeal it, of course,&quot; Blatter&#x27;s US-based attorney Richard Cullen confirmed to AFP in an email. The confirmation
-
 ## [Previous Day...](/news/2016/01/9/index.md)
 

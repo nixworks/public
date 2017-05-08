@@ -36,14 +36,5 @@ The AFP says the self-proclaimed leader of international hacking group LulzSec h
 ### [The French National Assembly passes an amended bill legalizing same-sex marriage, paving the way for President Francois Hollande to promulgate it. ](/news/2013/04/23/the-french-national-assembly-passes-an-amended-bill-legalizing-same-sex-marriage-paving-the-way-for-president-franassois-hollande-to-promulg.md)
 PARIS (AP) — France legalized gay marriage on Tuesday after a wrenching national debate that has exposed deep social conservatism in the nation&#x27;s heartland and triggered huge protests in Paris from both sides of the divide. Legions of officers with water cannon braced outside the National Assembly
 
-### [Bayern Munich thrash Barcelona 4-0 in their 2012-13 UEFA Champions League semi-final first leg. ](/news/2013/04/23/bayern-munich-thrash-barcelona-4a0-in-their-2012a13-uefa-champions-league-semi-final-first-leg.md)
-_Context: 2012-13 UEFA Champions League, Bayern Munich, FC Barcelona, semi-final_
-
-### [Wimbledon announced that the prize money will be raised by 40% in the 2013 tournament, marking the largest payout in tennis history. ](/news/2013/04/23/wimbledon-announced-that-the-prize-money-will-be-raised-by-40-in-the-2013-tournament-marking-the-largest-payout-in-tennis-history.md)
-Total prize money for the Grand Slam event will be $34.4 million.
-
-### [West Indies cricketer Chris Gayle slams the fastest century in cricket history, reaching the triple figure in just 30 balls. ](/news/2013/04/23/west-indies-cricketer-chris-gayle-slams-the-fastest-century-in-cricket-history-reaching-the-triple-figure-in-just-30-balls.md)
-Chris Gayle not only scored the fastest ton in cricket history but also became the highest individual scorer and powered RCB to the maximum T20 total.
-
 ## [Previous Day...](/news/2013/04/22/index.md)
 

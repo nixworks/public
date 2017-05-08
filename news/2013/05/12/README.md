@@ -16,10 +16,10 @@ The &#034;Swarmagaddon,&#034;-a cicada invasion as many people call, that is exp
 The World Health Organization warns that it appears &quot;increasingly&quot; likely that the new coronavirus can be passed between people in close contact.
 
 ### [Nineteen people are injured during a shooting at a Mother's Day parade in New Orleans, Louisiana, United States. ](/news/2013/05/12/nineteen-people-are-injured-during-a-shooting-at-a-mother-s-day-parade-in-new-orleans-louisiana-united-states.md)
-_Context: Louisiana, Mother's Day, New Orleans, U.S., shooting_
+_Context: Louisiana, Mother's Day, New Orleans, United States, shooting_
 
 ### [Four people are found fatally shot in Waynesville, Indiana, United States. ](/news/2013/05/12/four-people-are-found-fatally-shot-in-waynesville-indiana-united-states.md)
-_Context: Indiana, U.S., Waynesville_
+_Context: Indiana, United States, Waynesville_
 
 ### [A 12-year-old boy is arrested in connection to the April 27 Valley Springs, California, United States stabbing of his 8-year-old sister. ](/news/2013/05/12/a-12-year-old-boy-is-arrested-in-connection-to-the-april-27-valley-springs-california-united-states-stabbing-of-his-8-year-old-sister.md)
 Authorities on Saturday arrested the 12-year-old brother of an 8-year-old girl who was mysteriously stabbed at her home in a quiet Northern California community last month.
@@ -41,12 +41,6 @@ _Context: Benedict XVI, Catholic Church, Martyrs of Otranto, Pope Francis_
 
 ### [In a study by SUNY Buffalo, it is discovered that ''Utricularia gibba'', a carnivorous bladderwort plant, has the shortest known DNA sequence of any multicellular plant and that it lacks "junk DNA", sequences of code that do not encode proteins. ](/news/2013/05/12/in-a-study-by-suny-buffalo-it-is-discovered-that-utricularia-gibba-a-carnivorous-bladderwort-plant-has-the-shortest-known-dna-sequenc.md)
 How much of your DNA is constructive? Of the 3 billion letters that make up your genome, only 1.5 percent consists of genes-DNA actually does something useful, which carry the information for protein synthesis. Of the remaining 98.5 percent-the vast majority of the genetic material known as noncoding DNA that does not code for proteins, is not needed for a healthy organism, according to new research.
-
-### [In association football:Paris Saint-Germain wins the French Ligue 1 championship, their third Ligue 1 title and first since 1994. ](/news/2013/05/12/in-association-football-pparis-saint-germain-wins-the-french-ligue-1-championship-their-third-ligue-1-title-and-first-since-1994.md)
-Paris St-Germain win the title in France, while over in Spain the discontent rumbles on at Real Madrid.
-
-### [In American football, Hall of Fame member Jack Butler dies at the age of 85. ](/news/2013/05/12/in-american-football-hall-of-fame-member-jack-butler-dies-at-the-age-of-85.md)
-Mr. Butler, who in nine seasons with the Steelers intercepted 52 passes, was a first-team all-N.F.L. player three times and was elected to the Pro Football Hall of Fame in 2012.
 
 ## [Previous Day...](/news/2013/05/11/index.md)
 

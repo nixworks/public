@@ -16,7 +16,7 @@ _Context: Australia, Glenrowan, Victoria, Ned Kelly, bushranger, heritage site_
 _Context: Dave Zabriskie, Lance Armstrong, Tour de France_
 
 ### [ Former World No.1 Venus Williams comes back from match point down to defeat Lindsay Davenport in the longest ever Wimbledon Ladies' final of all time (4-6 7-6 9-7) for her third Wimbledon title and her first Grand Slam title since September 2001.](/news/2005/07/2/former-world-no-1-venus-williams-comes-back-from-match-point-down-to-defeat-lindsay-davenport-in-the-longest-ever-wimbledon-ladies-final-o.md)
-_Context: Lindsay Davenport, Venus Williams, Wimbledon_
+_Context: Lindsay Davenport, Venus Williams, Wimbledon Championships_
 
 ## [Previous Day...](/news/2005/07/1/index.md)
 

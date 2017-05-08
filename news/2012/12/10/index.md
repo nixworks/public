@@ -51,11 +51,5 @@ The Budget was defeated this evening, with Franco Debono, as promised, joining t
 ### [Specialists from Thales Alenia Space carry out some maneuvers to bring the Russian Yamal-402 satellite into its designated orbit after a premature separation from Briz-M, the upper stage of a Proton-M carrier rocket, during the launch on 8 December. ](/news/2012/12/10/specialists-from-thales-alenia-space-carry-out-some-maneuvers-to-bring-the-russian-yamal-402-satellite-into-its-designated-orbit-after-a-pre.md)
 _Context: Briz-M, Proton-M, Russia, Thales Alenia Space, Yamal-402, carrier rocket, orbit, released an object into orbit, successfully_
 
-### [Norwegian chess player Magnus Carlsen wins the 2012 London Chess Classic ahead of Vladimir Kramnik from Russia. His performance is enough to break the 13-year-old Elo rating record of Garry Kasparov. ](/news/2012/12/10/norwegian-chess-player-magnus-carlsen-wins-the-2012-london-chess-classic-ahead-of-vladimir-kramnik-from-russia-his-performance-is-enough-to.md)
-Magnus Carlsen has won the 2012 London Chess Classic after an exceptional tournament that will live long in the memory. His +5 performance in earning a third Classic title was enough to break the 13-year...
-
-### [The NHL announces the cancellation of the 2012-13 regular-season schedule through 30 December due to the 2012 NHL lockout. ](/news/2012/12/10/the-nhl-announces-the-cancellation-of-the-2012a13-regular-season-schedule-through-30-december-due-to-the-2012-nhl-lockout.md)
-The National Hockey League (NHL) canceled another two weeks of the regular season on Monday, wiping out all games through December 30 due to a labor dispute with locked-out players that threatens to wipe out the entire campaign.
-
 ## [Previous Day...](/news/2012/12/9/index.md)
 

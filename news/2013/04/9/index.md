@@ -39,11 +39,5 @@ _Context: Bill 344, France, French Senate, same-sex marriages_
 ### [Grenada Prime Minister Keith Mitchell announces that Dr. Cecile La Grenade will become the country's first female Governor General. She will succeed Sir Carlyle Glean. ](/news/2013/04/9/grenada-prime-minister-keith-mitchell-announces-that-dr-cecile-la-grenade-will-become-the-country-s-first-female-governor-general-she-will.md)
 _Context: Carlyle Glean, Governor General, Grenada, Keith Mitchell, Prime Minister_
 
-### [2012-13 UEFA Champions League quarter-finals:Borussia Dortmund score twice against Malaga in a dramatic period of injury time and wins 3-2, securing the semi-final berth. The British match officials are lambasted for their incompetence, with replays showing that at least two of the game's goals - including the winner - were scored illegally. ](/news/2013/04/9/2012a13-uefa-champions-league-quarter-finals-pborussia-dortmund-score-twice-against-ma-laga-in-a-dramatic-period-of-injury-time-and-wins-3.md)
-Borussia Dortmund score twice in injury time to snatch a dramatic Champions League win over Malaga and reach the semi-finals.
-
-### [In ice hockey, the United States win 2013 IIHF Women's World Championship defeating Canada 3-2 in the final. ](/news/2013/04/9/in-ice-hockey-the-united-states-win-2013-iihf-women-s-world-championship-defeating-canada-3a2-in-the-final.md)
-_Context: 2013 IIHF Women's World Championship, Canada, United States, ice hockey_
-
 ## [Previous Day...](/news/2013/04/8/index.md)
 

@@ -24,11 +24,5 @@ Australian PM Kevin Rudd and opposition leader Tony Abbott clash over the econom
 ### [Argentina held the first round of legislative elections to renew half the Chamber of Deputies and one third of the Senate. The final round will be held October 27. ](/news/2013/08/11/argentina-held-the-first-round-of-legislative-elections-to-renew-half-the-chamber-of-deputies-and-one-third-of-the-senate-the-final-round-w.md)
 Kirchnerism loses key electoral district in primaries
 
-### [American golfer Jason Dufner wins the 2013 PGA Championship played at the Oak Hill Country Club in Pittsford, New York. ](/news/2013/08/11/american-golfer-jason-dufner-wins-the-2013-pga-championship-played-at-the-oak-hill-country-club-in-pittsford-new-york.md)
-_Context: 2013 PGA Championship, American, Jason Dufner, New York, Oak Hill Country Club, Pittsford, golf_
-
-### [Iran wins the 2013 FIBA Asia Championship over Philippines, 85-71. ](/news/2013/08/11/iran-wins-the-2013-fiba-asia-championship-over-philippines-85-71.md)
-_Context: 2013 FIBA Asia Championship, Iran, Philippines_
-
 ## [Previous Day...](/news/2013/08/10/index.md)
 

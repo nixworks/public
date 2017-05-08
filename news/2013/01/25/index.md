@@ -16,7 +16,7 @@ More than 50 people have been killed and dozens more injured in a prison riot in
 Iraq9 are killed as protesters, army clash
 
 ### [The U.S. writer Stephen King issues a 25-page essay calling for gun control after numerous mass shootings. ](/news/2013/01/25/the-u-s-writer-stephen-king-issues-a-25-page-essay-calling-for-gun-control-after-numerous-mass-shootings.md)
-_Context: Stephen King, U.S., essay, gun control, mass shooting_
+_Context: Stephen King, United States, essay, gun control, mass shooting_
 
 ### [Tropical cyclone Oswald makes landfall in Queensland, Australia, and causes widespread flooding. ](/news/2013/01/25/tropical-cyclone-oswald-makes-landfall-in-queensland-australia-and-causes-widespread-flooding.md)
 Torrential rain has caused widespread flooding in the Australian state of Queensland.
@@ -50,21 +50,6 @@ In yet another struggle over speech on the Internet, a French court told Twitter
 
 ### [Scuffles occur on the streets of Moscow as supporters and opponents clash over the Russian parliament's attempts to implement anti-gay legislation. If legalised it would result in fines for those who promote events with a gay theme. ](/news/2013/01/25/scuffles-occur-on-the-streets-of-moscow-as-supporters-and-opponents-clash-over-the-russian-parliament-s-attempts-to-implement-anti-gay-legis.md)
 The Russian parliament backs a ban on the promotion of homosexuality among children in its first reading amid scuffles outside.
-
-### [UEFA announces details of Euro 2020: it is to be held in 13 cities across Europe with no more than one venue per country permitted: the semi-finals and final are to be played in the same stadium and the venues are to be chosen in September next year. ](/news/2013/01/25/uefa-announces-details-of-euro-2020-it-is-to-be-held-in-13-cities-across-europe-with-no-more-than-one-venue-per-country-permitted-the-semi.md)
-_Context: Euro 2020, Europe, UEFA_
-
-### [Chelsea and Belgian international midfielder Eden Hazard is charged with violent conduct after his controversial assault of a ball boy on the sideline during the 2012-13 Football League Cup semifinal match in Wales this week. ](/news/2013/01/25/chelsea-and-belgian-international-midfielder-eden-hazard-is-charged-with-violent-conduct-after-his-controversial-assault-of-a-ball-boy-on-th.md)
-_Context: 2013, Belgian international, Chelsea F.C., Eden Hazard, Wales, ball boy_
-
-### [Aston Villa's woes continue as they are sent crashing out of the 2012-13 FA Cup by Millwall. It is the second cup competition they have been knocked out of by lower league opposition this week. ](/news/2013/01/25/aston-villa-s-woes-continue-as-they-are-sent-crashing-out-of-the-2012a13-fa-cup-by-millwall-it-is-the-second-cup-competition-they-have-be.md)
- Milwall 2 Aston Villa 1: A fragile Aston Villa side were fed to the Lions in the fourth round of the FA Cup as they succumbed&hellip;
-
-### [In tennis, Andy Murray will face Novak Djokovic in the men's final at the 2013 Australian Open after his five-set victory over Roger Federer in the semifinal. ](/news/2013/01/25/in-tennis-andy-murray-will-face-novak-djokovic-in-the-men-s-final-at-the-2013-australian-open-after-his-five-set-victory-over-roger-federer.md)
-Andy Murray beats Roger Federer 6-4 6-7 6-3 6-7 6-2 to set up an Australian Open final against Novak Djokovic.
-
-### [Gaelic football manager Kevin Heffernan dies at the age of 83. ](/news/2013/01/25/gaelic-football-manager-kevin-heffernan-dies-at-the-age-of-83.md)
-Tributes are paid to Kevin Heffernan after the death of the legendary former Dublin football manager on Friday.
 
 ## [Previous Day...](/news/2013/01/24/index.md)
 

@@ -57,14 +57,5 @@ Exhaust fumes from diesel engines do cause cancer, a panel of experts working fo
 ### [Scientists announce creation of a new chemical compound, NOTT-202, capable of selectively absorbing carbon dioxide. ](/news/2012/06/12/scientists-announce-creation-of-a-new-chemical-compound-nott-202-capable-of-selectively-absorbing-carbon-dioxide.md)
 Scientists report the development of a novel material that soaks up gases like a sponge at high temperatures, but retains CO2 as the pressure is reduced.
 
-### [UEFA Euro 2012:Jakub Blaszczykowski scores the equaliser as Poland hold Russia to a draw at the National Stadium in Warsaw. ](/news/2012/06/12/uefa-euro-2012-pjakub-baaszczykowski-scores-the-equaliser-as-poland-hold-russia-to-a-draw-at-the-national-stadium-in-warsaw.md)
-Poland captain Jakub Blaszczykowski scores a stunning second-half equaliser as the co-hosts claim a point against Russia.
-
-### [FIFA president Sepp Blatter writes to the Israel Football Association amid reports that several players from the Palestine national football team have been illegally detained in Israel. ](/news/2012/06/12/fifa-president-sepp-blatter-writes-to-the-israel-football-association-amid-reports-that-several-players-from-the-palestine-national-football.md)
-- FIFA president Sepp Blatter has expressed grave concern over reports that several Palestine players have been illegally detained in Israel.
-
-### [Rangers Football Club will face liquidation after main creditor HM Revenue and Customs rejects a Company Voluntary Arrangement to bring the club out of administration. ](/news/2012/06/12/rangers-football-club-will-face-liquidation-after-main-creditor-hm-revenue-and-customs-rejects-a-company-voluntary-arrangement-to-bring-the.md)
-_Context: Company Voluntary Arrangement, HM Revenue and Customs, Rangers F.C., administration, liquidation_
-
 ## [Previous Day...](/news/2012/06/11/index.md)
 

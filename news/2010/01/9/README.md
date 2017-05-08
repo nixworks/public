@@ -1,7 +1,7 @@
 ## [2010-01-9](/news/2010/01/9/index.md)
 
 ### [The United States warns against an attack by "regional extremists" on an Air Uganda flight between Uganda and Sudan. ](/news/2010/01/9/the-united-states-warns-against-an-attack-by-regional-extremists-on-an-air-uganda-flight-between-uganda-and-sudan.md)
-_Context: Air Uganda, Sudan, U.S., Uganda_
+_Context: Air Uganda, Sudan, Uganda, United States_
 
 ### [A bomb explodes outside the Greek Parliament in Athens with no casualties. ](/news/2010/01/9/a-bomb-explodes-outside-the-greek-parliament-in-athens-with-no-casualties.md)
 _Context: Athens, Hellenic Parliament_
@@ -16,7 +16,7 @@ Devaluation and setting of double exchange rate is attempt to improve export lev
 _Context: Eureka, California, earthquake, strikes offshore_
 
 ### [Hundreds of flights are cancelled in Germany as the severe weather conditions across Europe continue. The government asks people to buy several days worth of food and retreat indoors for the rest of the week. ](/news/2010/01/9/hundreds-of-flights-are-cancelled-in-germany-as-the-severe-weather-conditions-across-europe-continue-the-government-asks-people-to-buy-seve.md)
-_Context: Europe, Germany, severe weather conditions_
+_Context: Europe, German, severe weather conditions_
 
 ### [Egypt bans all future aid convoys to Gaza, following recent clashes with Viva Palestina. ](/news/2010/01/9/egypt-bans-all-future-aid-convoys-to-gaza-following-recent-clashes-with-viva-palestina.md)
 No convoys to be allowed passage in future following clashes over Viva Palestina.
@@ -41,9 +41,6 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 
 ### [Afghanistan's President Hamid Karzai resubmits his proposal for forming the cabinet after his previous selection was rejected by the National Assembly. ](/news/2010/01/9/afghanistan-s-president-hamid-karzai-resubmits-his-proposal-for-forming-the-cabinet-after-his-previous-selection-was-rejected-by-the-nationa.md)
 _Context: Afghanistan, Hamid Karzai, National Assembly_
-
-### [Togo national football team bus attack:The Togo national football team withdraw from the 2010 Africa Cup of Nations as a third member of the team is confirmed dead following the attack on their team bus. ](/news/2010/01/9/togo-national-football-team-bus-attack-pthe-togo-national-football-team-withdraw-from-the-2010-africa-cup-of-nations-as-a-third-member-of-th.md)
-Three people were reported killed in Friday’s attack on Togo’s team bus in Angola days before the start of the African Nations Cup tournament.
 
 ## [Previous Day...](/news/2010/01/8/index.md)
 

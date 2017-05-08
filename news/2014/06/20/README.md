@@ -18,8 +18,5 @@ _Context: Bong Revilla, PDAF scam, Sandiganbayan, Senate_
 ### [Italy's Five Star Movement joins the eurosceptic political group Europe of Freedom and Democracy in the European Parliament, a group otherwise dominated by the United Kingdom Independence Party. ](/news/2014/06/20/italy-s-five-star-movement-joins-the-eurosceptic-political-group-europe-of-freedom-and-democracy-in-the-european-parliament-a-group-otherwi.md)
 _Context: Europe of Freedom and Democracy, European Parliament, Five Star Movement, United Kingdom Independence Party_
 
-### [In basketball, David Blatt, who coached Maccabi Tel Aviv to the Euroleague title this past season, has reportedly reached a deal to become the new head coach of the Cleveland Cavaliers. Blatt is the first Euroleague coach to become an NBA head coach. ](/news/2014/06/20/in-basketball-david-blatt-who-coached-maccabi-tel-aviv-to-the-euroleague-title-this-past-season-has-reportedly-reached-a-deal-to-become-t.md)
-The Cleveland Cavaliers announced David Blatt as their new coach Friday.
-
 ## [Previous Day...](/news/2014/06/19/index.md)
 

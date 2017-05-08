@@ -31,7 +31,7 @@ The Dominican Republic confirms a Haitian man is the first to die of cholera in 
 Negotiations to resolve the stand-off over Iran&#039;s nuclear programme have ended in deadlock &ndash; raising fears that its regime could accelerate its nuclear weapons programme, potentially sparking off a dangerous Middle East crisis.
 
 ### [The BBC apologises after offending the sensibilities of Japanese viewers by broadcasting jokes targeting Tsutomu Yamaguchi, who survived both atomic bomb attacks carried out by the United States on Hiroshima and Nagasaki in 1945. ](/news/2011/01/23/the-bbc-apologises-after-offending-the-sensibilities-of-japanese-viewers-by-broadcasting-jokes-targeting-tsutomu-yamaguchi-who-survived-bot.md)
-_Context: BBC, Hiroshima, Japan, Nagasaki, Tsutomu Yamaguchi, U.S._
+_Context: BBC, Hiroshima, Japan, Nagasaki, Tsutomu Yamaguchi, United States_
 
 ### [WikiLeaks revelations:A "spy" computer is found in an office next to Icelandic MP Birgitta Jonsdottir who has been the target in the United States Department of Justice/Twitter case concerning the WikiLeaks website. ](/news/2011/01/23/wikileaks-revelations-pa-spy-computer-is-found-in-an-office-next-to-icelandic-mp-birgitta-jonsdottir-who-has-been-the-target-in-the-united.md)
 The founder of whistleblower site WikiLeaks attacked Switzerland on Sunday for arresting a Swiss banker on suspicion of breaching banking secrecy instead of investigating the tax evasion he said he had uncovered.
@@ -77,15 +77,6 @@ _Context: Ali Akbar Salehi, Iranian President, Mahmoud Ahmadinejad, Manouchehr M
 
 ### [President of Pakistan Asif Ali Zardari launches an emergency polio immunisation programme targeting 32 million children under the age of five. ](/news/2011/01/23/president-of-pakistan-asif-ali-zardari-launches-an-emergency-polio-immunisation-programme-targeting-32-million-children-under-the-age-of-fiv.md)
 _Context: Asif Ali Zardari, President, polio_
-
-### [Sky Sports soccer commentators Richard Keys and Andy Gray are embroiled in controversy over multiple sexist comments about "hopeless" women they had a discussion about during a live television broadcast. One of their targets describes comments aimed at her as "absolutely abhorrent" and a spokesperson says they are "not acceptable". ](/news/2011/01/23/sky-sports-soccer-commentators-richard-keys-and-andy-gray-are-embroiled-in-controversy-over-multiple-sexist-comments-about-hopeless-women.md)
-Andy Gray and Richard Keys, the Sky Sports presenters, were forced to apologise for sexist comments aimed at a lineswoman during Liverpool&rsquo;s 3-0 victory over Wolves.
-
-### [Lance Armstrong ends his international cycling career after a final race in Australia. ](/news/2011/01/23/lance-armstrong-ends-his-international-cycling-career-after-a-final-race-in-australia.md)
-Seven-time Tour de France winner says goodbye to international cycling career during a final race in Australia.
-
-### [The Green Bay Packers win the National Football Conference Championship Game defeating the Chicago Bears 21-14. ](/news/2011/01/23/the-green-bay-packers-win-the-national-football-conference-championship-game-defeating-the-chicago-bears-21-14.md)
-The Bears were forced to entrust their comeback efforts to a third-string quarterback after Jay Cutler was hurt and his backup proved ineffective.
 
 ## [Previous Day...](/news/2011/01/22/index.md)
 

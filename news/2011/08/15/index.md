@@ -30,11 +30,5 @@ _Context: Environment Ministry, Japan_
 ### [Former Egyptian President Hosni Mubarak appears in court for the second session of his trial with his two sons Alaa and Gamal who share corruption charges with him; the trial is subsequently adjourned and ordered to be merged with that of former Interior Minister Habib al-Adly. ](/news/2011/08/15/former-egyptian-president-hosni-mubarak-appears-in-court-for-the-second-session-of-his-trial-with-his-two-sons-alaa-and-gamal-who-share-corr.md)
 _Context: Alaa Mubarak, Egypt, Egyptian President, Egyptian interior minister, Gamel, Habib al-Adly, Hosni Mubarak_
 
-### [In baseball, Jim Thome of the Minnesota Twins becomes the eighth player in the history of North American Major League Baseball to hit 600 career home runs. ](/news/2011/08/15/in-baseball-jim-thome-of-the-minnesota-twins-becomes-the-eighth-player-in-the-history-of-north-american-major-league-baseball-to-hit-600-ca.md)
-_Context: Jim Thome, Major League Baseball, Minnesota Twins, baseball, home run_
-
-### [In motorsport, Marcos Ambrose wins the Heluva Good! Sour Cream Dips at The Glen, becoming the first Australian ever to win a race in the NASCAR  Sprint Cup Series. ](/news/2011/08/15/in-motorsport-marcos-ambrose-wins-the-heluva-good-sour-cream-dips-at-the-glen-becoming-the-first-australian-ever-to-win-a-race-in-the-nas.md)
-Marcos Ambrose became the first Australian to win a NASCAR Sprint Cup race with his maiden victory at Watkins Glen International in New York.
-
 ## [Previous Day...](/news/2011/08/14/index.md)
 

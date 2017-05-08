@@ -54,8 +54,5 @@ _Context: Jose Luis Rodriguez Zapatero, Prime Minister, next election_
 ### [Police make 12 arrests following protest marches by the English Defence League and opposing groups in Blackburn, Lancashire. ](/news/2011/04/2/police-make-12-arrests-following-protest-marches-by-the-english-defence-league-and-opposing-groups-in-blackburn-lancashire.md)
 Arrests are made during a huge police operation in Blackburn for protests by the English Defence League and opposing groups.
 
-### [The India cricket team wins the 2011 Cricket World Cup, defeating Sri Lanka by six wickets. ](/news/2011/04/2/the-india-cricket-team-wins-the-2011-cricket-world-cup-defeating-sri-lanka-by-six-wickets.md)
-_Context: 2011 Cricket World Cup, India cricket team, Sri Lanka_
-
 ## [Previous Day...](/news/2011/04/1/index.md)
 

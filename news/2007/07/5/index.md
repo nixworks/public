@@ -25,7 +25,7 @@ _Context: Zimbabwe, Zimbabwe Congress of Trade Unions, wages_
 _Context: Culiacn International Airport, Mexican state, Sinaloa_
 
 ### [ An armed man holds several people hostage at a bank in the Montreal suburb of Longueuil. The situation is resolved without injury. ](/news/2007/07/5/an-armed-man-holds-several-people-hostage-at-a-bank-in-the-montreal-suburb-of-longueuil-the-situation-is-resolved-without-injury.md)
-_Context: Longueuil, city of Montreal_
+_Context: Longueuil, Montreal_
 
 ### [ Two die and seven are seriously injured when a small plane crashes after missing the runway at Aerfort na Minna, in County Galway, Ireland. ](/news/2007/07/5/two-die-and-seven-are-seriously-injured-when-a-small-plane-crashes-after-missing-the-runway-at-aerfort-na-minna-in-county-galway-ireland.md)
 Two people have been killed and seven others injured following a plane crash in Indreabhán in Connemara, Galway.

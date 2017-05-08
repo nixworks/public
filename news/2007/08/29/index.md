@@ -34,7 +34,7 @@ A Darfur rebel group says it has seized control of a Sudanese army base in Kordo
 An internal investigation has found no evidence of heavy drinking or drunkenness among astronauts before space missions, NASA officials said.
 
 ### [ The United States Senate Republican Party leadership requests that Senator Larry Craig of Idaho stand aside from his Senate committees until the United States Senate Select Committee on Ethics makes a ruling on his situation. Senator Craig agrees. ](/news/2007/08/29/the-united-states-senate-republican-party-leadership-requests-that-senator-larry-craig-of-idaho-stand-aside-from-his-senate-committees-unti.md)
-_Context: Idaho, Larry Craig, R, Senate Select Committee on Ethics, Senate committees, senators_
+_Context: Idaho, Larry Craig, R, Senate Select Committee on Ethics, Senate committees, United States senators_
 
 ### [ John Holmes, the United Nations' emergency relief coordinator, warns that refugees of the Darfur conflict are arming themselves and may soon be able to defend themselves if the Sudanese government renews its attacks.  ](/news/2007/08/29/john-holmes-the-united-nations-emergency-relief-coordinator-warns-that-refugees-of-the-darfur-conflict-are-arming-themselves-and-may-soo.md)
 _Context: Darfur conflict, John Holmes, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, United Nations_
@@ -58,7 +58,7 @@ _Context: Agra, India, curfew_
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 ### [ The United States releases seven Iranians hours after detaining them in a Baghdad hotel. ](/news/2007/08/29/the-united-states-releases-seven-iranians-hours-after-detaining-them-in-a-baghdad-hotel.md)
-_Context: Baghdad, Iran, U.S._
+_Context: Baghdad, Iran, United States_
 
 ### [ Three people are killed - including a father and son - in a "targeted incident" involving firearms at a house in Bishop's Stortford. Two others are injured, but a 3 year-old girl is unharmed. Police are hunting "two Asian men" in connection with the attack. ](/news/2007/08/29/three-people-are-killed-including-a-father-and-son-in-a-targeted-incident-involving-firearms-at-a-house-in-bishop-s-stortford-two-ot.md)
 _Context: Bishop's Stortford_

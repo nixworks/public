@@ -27,8 +27,5 @@ College of Cardinals will vote Friday evening onw hen to start process of select
 ### [Russian scientists announce they have found a wholly new type of bacteria in the mysterious subglacial Lake Vostok in Antarctica. ](/news/2013/03/8/russian-scientists-announce-they-have-found-a-wholly-new-type-of-bacteria-in-the-mysterious-subglacial-lake-vostok-in-antarctica.md)
 Russian scientists believe they have found a wholly new type of bacteria in the subglacial Lake Vostok in Antarctica.
 
-### [Shane Flanagan is stood down as coach of the Cronulla-Sutherland Sharks as the Australian Sports Anti-Doping Authority continues its investigation of alleged use of performance-enhancing drugs by the club during the 2011 NRL season. ](/news/2013/03/8/shane-flanagan-is-stood-down-as-coach-of-the-cronulla-sutherland-sharks-as-the-australian-sports-anti-doping-authority-continues-its-investi.md)
-EX-BRONCOS boss Bruno Cullen has been called in to take control of the Cronulla Sharks following a dramatic day that saw coach Shane Flanagan stood down as the drug scandal widened.
-
 ## [Previous Day...](/news/2013/03/7/index.md)
 

@@ -43,7 +43,7 @@ A powerful earthquake struck a sparsely populated district of southeastern Iran,
 Russian President Dimitry Medvedev arrives in India on Tuesday to secure nuclear and defence contracts worth billions of dollars.
 
 ### [North Korea agrees with United States troubleshooter Bill Richardson to permit the return of United Nations nuclear inspectors. ](/news/2010/12/20/north-korea-agrees-with-united-states-troubleshooter-bill-richardson-to-permit-the-return-of-united-nations-nuclear-inspectors.md)
-_Context: Bill Richardson, International Atomic Energy Agency, North Korea, U.S., United Nations_
+_Context: Bill Richardson, International Atomic Energy Agency, North Korea, United Nations, United States_
 
 ### [Israel orders all of their foreign envoys to thwart Palestinian attempts to draft a UN resolution with the aims of recognition of Palestinian and to pressure Israel to stop settling its citizens within Palestine. ](/news/2010/12/20/israel-orders-all-of-their-foreign-envoys-to-thwart-palestinian-attempts-to-draft-a-un-resolution-with-the-aims-of-recognition-of-palestinia.md)
 _Context: Israel, Palestinian, UN_
@@ -74,9 +74,6 @@ _Context: Diego Fernandez de Cevallos, Mexico_
 
 ### [1,200 new species and varieties of sea creatures discovered during the first world survey of marine life are presented at a conference in Jerusalem, Israel. ](/news/2010/12/20/1-200-new-species-and-varieties-of-sea-creatures-discovered-during-the-first-world-survey-of-marine-life-are-presented-at-a-conference-in-je.md)
 First world &quot;census&quot; of marine life to take place in Jerusalem, with 3,000 scientists from 80 countries participating.
-
-### [Samuel Eto'o sets a new landmark for individual success in African football after winning Footballer of the Year for the fourth time. ](/news/2010/12/20/samuel-eto-o-sets-a-new-landmark-for-individual-success-in-african-football-after-winning-footballer-of-the-year-for-the-fourth-time.md)
-All the latest Football News, Results &amp; Fixtures, brought to you as it happens, including sports analysis and results from Ireland and around the world.
 
 ## [Previous Day...](/news/2010/12/19/index.md)
 

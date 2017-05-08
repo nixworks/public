@@ -30,8 +30,5 @@ _Context: European Union, George Papandreou, Greece, Greek prime minister, refer
 ### [China's unmanned Shenzhou 8 spacecraft successfully docks with the orbiting Tiangong 1 space station module, marking China's first orbital docking. ](/news/2011/11/2/china-s-unmanned-shenzhou-8-spacecraft-successfully-docks-with-the-orbiting-tiangong-1-space-station-module-marking-china-s-first-orbital-d.md)
 _Context: China, Shenzhou 8, Tiangong-1, space station_
 
-### [In baseball, the Chicago Cubs fire their manager Mike Quade. ](/news/2011/11/2/in-baseball-the-chicago-cubs-fire-their-manager-mike-quade.md)
-Chicago Cubs fired manager Mike Quade on Wednesday and will begin a search for his replacement.
-
 ## [Previous Day...](/news/2011/11/1/index.md)
 

@@ -44,7 +44,7 @@ Heads of three regional countries say they will not recognise new government aft
 The Rio+20 summit ends with an agreement from world leaders that charities say represents a &quot;missed chance&quot; to tackle environmental problems.
 
 ### [A United States judge dismisses an injunction from Apple Inc. against Motorola for patent infringement. ](/news/2012/06/23/a-united-states-judge-dismisses-an-injunction-from-apple-inc-against-motorola-for-patent-infringement.md)
-_Context: Apple Inc., Motorola, U.S._
+_Context: Apple Inc., Motorola, United States_
 
 ### [After a five-day trial in the High Court, 27-year-old assistant tutor Luke Cooper, who is completing a PhD in international relations at the University of Sussex, is awarded 35,000 over a front page ''Evening Standard'' article and 25,000 over a follow-up piece in the ''Daily Mail''. These articles threatened his future academic prospects during the November 2010 march against government cuts. ](/news/2012/06/23/after-a-five-day-trial-in-the-high-court-27-year-old-assistant-tutor-luke-cooper-who-is-completing-a-phd-in-international-relations-at-the.md)
 _Context: Daily Mail, Evening Standard, High Court, PhD, University of Sussex, international relations, the November 2010 march against government cuts_
@@ -60,15 +60,6 @@ _Context: Belfast, Elizabeth II_
 
 ### [Former FIFA vice-president Jack Warner becomes the national security minister of Trinidad and Tobago. ](/news/2012/06/23/former-fifa-vice-president-jack-warner-becomes-the-national-security-minister-of-trinidad-and-tobago.md)
 _Context: FIFA, Jack Warner, Trinidad and Tobago_
-
-### [UEFA Euro 2012:Spain tear through a feeble France team in their quarter-final meeting at the Donbass Arena in Donetsk, with Xabi Alonso scoring two goals on his 100th international appearance. ](/news/2012/06/23/uefa-euro-2012-pspain-tear-through-a-feeble-france-team-in-their-quarter-final-meeting-at-the-donbass-arena-in-donetsk-with-xabi-alonso-sco.md)
-Spain waltz past a feeble France side in Donetsk to set up a Euro 2012 semi-final meeting with Portugal.
-
-### [Alan McDonald, former Northern Ireland captain and veteran of his country's 1986 FIFA World Cup campaign, collapses and dies suddenly at the age of 48. ](/news/2012/06/23/alan-mcdonald-former-northern-ireland-captain-and-veteran-of-his-country-s-1986-fifa-world-cup-campaign-collapses-and-dies-suddenly-at-the.md)
-Former Northern Ireland and Queens Park Rangers captain Alan McDonald dies suddenly at the age of 48.
-
-### [In athletics, Ashton Eaton sets a new world record for the decathlon in the US selection trials for the 2012 Summer Olympics. ](/news/2012/06/23/in-athletics-ashton-eaton-sets-a-new-world-record-for-the-decathlon-in-the-us-selection-trials-for-the-2012-summer-olympics.md)
-Find the latest sports news and articles on the NFL, MLB, NBA, NHL, NCAA college football, NCAA college basketball and more at ABC News.
 
 ## [Previous Day...](/news/2012/06/22/index.md)
 

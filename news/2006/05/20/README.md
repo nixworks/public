@@ -28,7 +28,7 @@ _Context: Indiana University Bloomington, Science Olympiad_
 _Context: A. J. Pierzynski, Chicago Cubs, Chicago White Sox, Crosstown Classic, Michael Barrett_
 
 ### [ Munster win their first Heineken European Cup, defeating Biarritz Olympique in the final by 23 points to 19. Team captain Anthony Foley lifts the cup for the first time for the Irish province.](/news/2006/05/20/munster-win-their-first-heineken-european-cup-defeating-biarritz-olympique-in-the-final-by-23-points-to-19-team-captain-anthony-foley-lif.md)
-_Context: Anthony Foley, Biarritz Olympique, Heineken Cup, Munster Rugby_
+_Context: Anthony Foley, Biarritz Olympique, Heineken European Rugby Cup, Munster Rugby_
 
 ### [ Kentucky Derby winner, Barbaro breaks down during the Preakness Stakes. Eight months later he is euthanized.](/news/2006/05/20/kentucky-derby-winner-barbaro-breaks-down-during-the-preakness-stakes-eight-months-later-he-is-euthanized.md)
 ## [Previous Day...](/news/2006/05/19/index.md)

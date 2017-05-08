@@ -116,7 +116,7 @@ _Context: Alaska, Don Young, R, U.S. Justice Department, United States House of 
 _Context: 2010, Cologne, Gay Games_
 
 ### [Surrey defeat Glamorgan by 39 runs on the Duckworth-Lewis method to achieve a world record for the highest score in 40-over cricket in the CB 40 at The Oval. ](/news/2010/08/4/surrey-defeat-glamorgan-by-39-runs-on-the-duckworthalewis-method-to-achieve-a-world-record-for-the-highest-score-in-40-over-cricket-in-the.md)
-_Context: Cricket, Duckworth-Lewis method, Glamorgan, Surrey, The Oval, run_
+_Context: Duckworth-Lewis method, Glamorgan, Surrey, The Oval, cricketer, run_
 
 ### [Alex Rodriguez of the New York Yankees becomes the seventh player in the history of Major League Baseball to hit 600 home runs. ](/news/2010/08/4/alex-rodriguez-of-the-new-york-yankees-becomes-the-seventh-player-in-the-history-of-major-league-baseball-to-hit-600-home-runs.md)
 _Context: Alex Rodriguez, Major League Baseball, New York Yankees, home run_

@@ -70,7 +70,7 @@ British and Japanese ultranationalists will shrug off protests from war veterans
 _Context: Japan, Pink Panthers, Rifat Hadziahmetovic, Spain, Tokyo, extradited_
 
 ### [United States prosecutors are investigating whether the Louis Berger Group overcharged the U.S. Agency for International Development for foreign aid projects. ](/news/2010/08/14/united-states-prosecutors-are-investigating-whether-the-louis-berger-group-overcharged-the-u-s-agency-for-international-development-for-for.md)
-_Context: Louis Berger Group, U.S., U.S. Agency for International Development, foreign aid, prosecutor_
+_Context: Louis Berger Group, U.S. Agency for International Development, United States, foreign aid, prosecutor_
 
 ### [A court in Somalia imprisons for six years and fines $500 radio journalist Abdifatah Jama Mire for the broadcast of an interview with a militia leader in Puntland. ](/news/2010/08/14/a-court-in-somalia-imprisons-for-six-years-and-fines-500-radio-journalist-abdifatah-jama-mire-for-the-broadcast-of-an-interview-with-a-mili.md)
 Puntland court jails journalist for interviewing Muslim leader with ties to fighters.
@@ -95,18 +95,6 @@ A Sri Lankan government war inquiry hears testimonies from Tamils who allege the
 
 ### [Data from a study at Purdue University suggest that the 2010 Haiti earthquake was caused by a previously unknown fault line, as opposed to the Enriquillo Fault Line as was initially presumed. ](/news/2010/08/14/data-from-a-study-at-purdue-university-suggest-that-the-2010-haiti-earthquake-was-caused-by-a-previously-unknown-fault-line-as-opposed-to-t.md)
 _Context: 2010 Haiti earthquake, Enriquillo Fault Line, Purdue University_
-
-### [The 2010 Summer Youth Olympics, the first of the Youth Olympic Games, begins in Singapore with 3,531 participating athletes aged 14-18 from 204 National Olympic Committees. ](/news/2010/08/14/the-2010-summer-youth-olympics-the-first-of-the-youth-olympic-games-begins-in-singapore-with-3-531-participating-athletes-aged-14a18-fro.md)
-_Context: 2010 Summer, National Olympic Committee, Singapore, Youth Olympic Games_
-
-### [The 2010 Women's Baseball World Cup is suspended after Hong Kong player Cheuk Woon Yee is shot through her lower left calf during the game against the Netherlands; Hong Kong are forced to withdraw from the competition. ](/news/2010/08/14/the-2010-women-s-baseball-world-cup-is-suspended-after-hong-kong-player-cheuk-woon-yee-is-shot-through-her-lower-left-calf-during-the-game-a.md)
-_Context: 2010, Cheuk Woon Yee, Hong Kong, Netherlands, Women's Baseball World Cup_
-
-### [Tennis player Andy Roddick has mononucleosis. ](/news/2010/08/14/tennis-player-andy-roddick-has-mononucleosis.md)
-Andy Roddick has been struggling with a mild case of mononucleosis.
-
-### [The 2010 World Blind Football Championship begins in Hereford, United Kingdom with ten teams competing for the title. ](/news/2010/08/14/the-2010-world-blind-football-championship-begins-in-hereford-united-kingdom-with-ten-teams-competing-for-the-title.md)
-Ten of the best blind football teams from around the world are competing in Hereford.
 
 ## [Previous Day...](/news/2010/08/13/index.md)
 

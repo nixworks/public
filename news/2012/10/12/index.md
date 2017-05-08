@@ -21,8 +21,5 @@ The biggest ever independent investigation into police wrongdoing is to be carri
 ### [The high court of Botswana overturns a customary law which prevented women from inheriting the family home. ](/news/2012/10/12/the-high-court-of-botswana-overturns-a-customary-law-which-prevented-women-from-inheriting-the-family-home.md)
 _Context: Botswana_
 
-### [In 2014 FIFA World Cup qualification - UEFA Group C, Republic of Ireland lose 6-1 to Germany, their joint worst ever competitive defeat and their worst home defeat since 1931. Calls increase for the removal of manager Giovanni Trapattoni. ](/news/2012/10/12/in-2014-fifa-world-cup-qualification-a-uefa-group-c-republic-of-ireland-lose-6a1-to-germany-their-joint-worst-ever-competitive-defeat.md)
- VIEW FROM THE COUCH: &ldquo;THE WORST in my lifetime,&rdquo; said Ronnie Whelan, marking the end of a tortuous night of watching the Irish&hellip;
-
 ## [Previous Day...](/news/2012/10/11/index.md)
 

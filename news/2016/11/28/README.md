@@ -16,7 +16,7 @@ A Royal Canadian Air Force pilot has been killed in a CF-18 fighter crash near a
 Wind conditions worsen and fires grow, threatening resort towns near Smokies.
 
 ### [Texas confirms its first case of locally transmitted Zika virus by mosquitoes, becoming the second U.S. state to report a local transmission of the virus after Florida. The Texas Department of State Health Services says the case involves a woman living in Cameron County, who is not pregnant. ](/news/2016/11/28/texas-confirms-its-first-case-of-locally-transmitted-zika-virus-by-mosquitoes-becoming-the-second-u-s-state-to-report-a-local-transmission.md)
-_Context: 2015-16 Zika virus epidemic, Cameron County, FL, Texas, Texas Department of State Health Services, U.S., Zika virus_
+_Context: 2015-16 Zika virus epidemic, Cameron County, Florida, Texas, Texas Department of State Health Services, United States, Zika virus_
 
 ### [ Eleven people are hospitalized, one in critical condition, after a suspect rammed his  car  into a crowd, and then stabbed numerous people on Ohio State's Columbus campus. Police have declared the scene secure. The suspect, a refugee from Somalia, and a student at the university, is shot and killed by a police officer after he failed to obey orders to stop. ](/news/2016/11/28/eleven-people-are-hospitalized-one-in-critical-condition-after-a-suspect-rammed-his-car-into-a-crowd-and-then-stabbed-numerous-people.md)
 Abdul Razak Ali Artan was killed by a police officer after the car-and-knife ambush.
@@ -47,9 +47,6 @@ _Context: 2016 U.S. presidential election, Donald Trump, Hillary Clinton, Michig
 
 ### [The campaign of Jill Stein files for a recount in Pennsylvania and plans to do so in Michigan. ](/news/2016/11/28/the-campaign-of-jill-stein-files-for-a-recount-in-pennsylvania-and-plans-to-do-so-in-michigan.md)
 Jill Stein said she plans to request a recount in Michigan as similar cases progress in Wisconsin and Pennsylvania.
-
-### [Contractors and suppliers for the Rio de Janeiro Olympic Games claim they are owed millions in unpaid debts. ](/news/2016/11/28/contractors-and-suppliers-for-the-rio-de-janeiro-olympic-games-claim-they-are-owed-millions-in-unpaid-debts.md)
-Three months after the closing ceremonies of the 2016 Summer Olympics, vendors and fans say they’re still owed money by the local organizing committee. Some contractors and suppliers have threatened to sue over unpaid bills. Last month, 400 workers from a cleaning company brandished brooms in protest outside of the Rio 2016 headquarters.
 
 ## [Previous Day...](/news/2016/11/27/index.md)
 

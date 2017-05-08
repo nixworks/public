@@ -42,8 +42,5 @@ Court yet to rule whether it will confirm or commute a death sentence it handed 
 ### [Real estate mogul and reality television host Donald Trump announces that he will be a candidate for the Republican Party nomination. ](/news/2015/06/16/real-estate-mogul-and-reality-television-host-donald-trump-announces-that-he-will-be-a-candidate-for-the-republican-party-nomination.md)
 _Context: 2016 U.S. presidential election, Donald Trump, R_
 
-### [In basketball, the Golden State Warriors defeat the Cleveland Cavaliers 105-97 in Game 6 to secure their first title since 1975. Andre Iguodala is named the series MVP.  ](/news/2015/06/16/in-basketball-the-golden-state-warriors-defeat-the-cleveland-cavaliers-105-97-in-game-6-to-secure-their-first-title-since-1975-andre-iguod.md)
-_Context: 2015 NBA Finals, Andre Iguodala, Cleveland Cavaliers, Golden State Warriors, Most Valuable Player of the NBA Finals, basketball_
-
 ## [Previous Day...](/news/2015/06/15/index.md)
 

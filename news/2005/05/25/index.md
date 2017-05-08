@@ -1,7 +1,7 @@
 ## [2005-05-25](/news/2005/05/25/index.md)
 
 ### [ At Ataturk Olympic Stadium in Istanbul, Liverpool F.C. scores three goals in six minutes to tie the game and after extra-time goes on to defeat AC Milan 3-2 in a penalty shootout to win its first UEFA Champions League title since 1984. Goals from Steven Gerrard, Vladmir Smicer and Xabi Alonso levelled he game in the second half.Liverpool eventually winning 3-2 on penalties In one of the greatest comebacks in sporting history](/news/2005/05/25/at-atata1-4rk-olympic-stadium-in-istanbul-liverpool-f-c-scores-three-goals-in-six-minutes-to-tie-the-game-and-after-extra-time-goes-on-to-d.md)
-_Context: 1984, Ataturk Olympic Stadium, Istanbul, Liverpool F.C., Milan, Steven Gerrard, UEFA Champions League, Vladmir Smicer, Xabi Alonso, penalty shootout, three goals in six minutes_
+_Context: 1984, AC Milan, Ataturk Olympic Stadium, Istanbul, Liverpool, Steven Gerrard, UEFA Champions League, Vladmir Smicer, Xabi Alonso, penalty shootout, three goals in six minutes_
 
 ### [ Carrie Underwood won the fourth season of American Idol. ](/news/2005/05/25/carrie-underwood-won-the-fourth-season-of-american-idol.md)
 _Context: American Idol, Carrie Underwood_

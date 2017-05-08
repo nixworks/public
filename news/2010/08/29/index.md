@@ -51,11 +51,5 @@ An aboriginal man has won a narrow victory in Australia&#039;s election to becom
 ### [President of the United States Barack Obama pledges to restore the Gulf Coast on the fifth anniversary of Hurricane Katrina in a speech in New Orleans. ](/news/2010/08/29/president-of-the-united-states-barack-obama-pledges-to-restore-the-gulf-coast-on-the-fifth-anniversary-of-hurricane-katrina-in-a-speech-in-n.md)
 U.S. President Barack Obama pledged Sunday to finish restoring the Gulf Coast area hit by Hurricane Katrina, five years after the storm ravaged the region and hurt the credibility of his Republican predecessor.
 
-### [A man is arrested in connection to an alleged sports betting scam centered on the current Test match at Lord's Cricket Ground in London between England and Pakistan. ](/news/2010/08/29/a-man-is-arrested-in-connection-to-an-alleged-sports-betting-scam-centered-on-the-current-test-match-at-lord-s-cricket-ground-in-london-betw.md)
-Police question a man over an alleged cricket betting scam during the current Pakistan-England Test, with claims Pakistan players were paid to bowl no-balls.
-
-### [David Lekuta Rudisha lowers the 800 metres world record to 1:41.01 seconds. ](/news/2010/08/29/david-lekuta-rudisha-lowers-the-800-metres-world-record-to-1-41-01-seconds.md)
-_Context: 800 metres, David Lekuta Rudisha_
-
 ## [Previous Day...](/news/2010/08/28/index.md)
 

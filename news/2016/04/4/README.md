@@ -54,8 +54,5 @@ Mehbooba Mufti of People’s Democractic party takes oath of office, ending stal
 ### [Former New Zealand prime minister Helen Clark is running for Secretary-General of the United Nations, to succeed Ban Ki-moon whose second term expires at the end of this year. Clark, who is the first non-European and fourth woman among the eight announced candidates, was prime minister for nine years (1999-2008) and has been Administrator of the United Nations Development Programme since April 2009. The United Nations Trusteeship Council will begin preliminary meetings with candidates next week in New York City. ](/news/2016/04/4/former-new-zealand-prime-minister-helen-clark-is-running-for-secretary-general-of-the-united-nations-to-succeed-ban-ki-moon-whose-second-te.md)
 Clark announces candidacy in New York in push to succeed Ban Ki-moon and become first woman to hold the position
 
-### [In American college basketball, the Villanova Wildcats defeat the North Carolina Tar Heels 77-74. ](/news/2016/04/4/in-american-college-basketball-the-villanova-wildcats-defeat-the-north-carolina-tar-heels-77a74.md)
-_Context: 2016 NCAA Men's Division I Basketball Championship Game, North Carolina Tar Heels, Villanova Wildcats, basketball_
-
 ## [Previous Day...](/news/2016/04/3/index.md)
 

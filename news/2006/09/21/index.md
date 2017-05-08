@@ -10,7 +10,7 @@ _Context: Colombia, FARC, Peru, Vladimiro Montesinos_
 _Context: $, Israel, Jordan National Bank_
 
 ### [ A U.S. federal judge in San Francisco orders two ''San Francisco Chronicle'' reporters jailed for up to 18 months for refusing to reveal who leaked them secret grand jury testimony about steroids in baseball. ](/news/2006/09/21/a-u-s-federal-judge-in-san-francisco-orders-two-san-francisco-chronicle-reporters-jailed-for-up-to-18-months-for-refusing-to-reveal-wh.md)
-_Context: San Francisco, San Francisco Chronicle, anabolic steroid, baseball, grand jury_
+_Context: San Francisco, San Francisco Chronicle, anabolic steroid, baseball game, grand jury_
 
 ### [ Cong Thanh Do, a U.S. democracy activist, is released by Vietnam. ](/news/2006/09/21/cong-thanh-do-a-u-s-democracy-activist-is-released-by-vietnam.md)
 _Context: Cong Thanh Do, Vietnam_
@@ -25,7 +25,7 @@ _Context: 2001, Pervez Musharraf, Richard Armitage, September 11 attacks, Stone 
 _Context: George W. Bush, Hugo Chvez, President, devil_
 
 ### [ United States Senate Republicans and the Bush administration announce an agreement on interrogation methods and the trial of suspects in the War on Terror. ](/news/2006/09/21/united-states-senate-republicans-and-the-bush-administration-announce-an-agreement-on-interrogation-methods-and-the-trial-of-suspects-in-th.md)
-_Context: George W. Bush, Republican, War on Terror, senators_
+_Context: George W. Bush, Republican, United States senators, War on Terror_
 
 ### [ ''Top Gear'' presenter Richard Hammond is seriously injured during filming for upcoming series. Hammond rolled a jet powered car at 300 mph. ](/news/2006/09/21/top-gear-presenter-richard-hammond-is-seriously-injured-during-filming-for-upcoming-series-hammond-rolled-a-jet-powered-car-at-300-mph.md)
 _Context: Richard Hammond, Top Gear_

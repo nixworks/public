@@ -27,14 +27,5 @@ _Context: Egyptian President, Egyptians, Mohamed Morsi_
 ### [90,000 people attended the 'Concert per la llibertat' (Concert for freedom) for the independence of Catalonia, organized by Omnium Cultural and the Assemblea Nacional Catalana in Camp Nou in Barcelona, Catalonia. ](/news/2013/06/30/90-000-people-attended-the-concert-per-la-llibertat-concert-for-freedom-for-the-independence-of-catalonia-organized-by-amnium-cultural.md)
 _Context: Camp Nou_
 
-### [In golf:Korean Inbee Park wins the U.S. Women's Open, becoming only the fourth woman to win three major championships in a season. ](/news/2013/06/30/in-golf-pkorean-inbee-park-wins-the-u-s-women-s-open-becoming-only-the-fourth-woman-to-win-three-major-championships-in-a-season.md)
-Inbee Park set many golfing goals. Etching her name alongside Babe Zaharias was never one of them.
-
-### [In football, Brazil defeats Spain 3-0 in the 2013 FIFA Confederations Cup. ](/news/2013/06/30/in-football-brazil-defeats-spain-3-0-in-the-2013-fifa-confederations-cup.md)
-_Context: 2013 FIFA Confederations Cup, Brazil national football team, Spain, association football_
-
-### [In ice hockey, Nathan MacKinnon, a Canadian centre with the Halifax Mooseheads of the Quebec Major Junior Hockey League, is chosen by the Colorado Avalanche as the first pick in the 2013 NHL Entry Draft. ](/news/2013/06/30/in-ice-hockey-nathan-mackinnon-a-canadian-centre-with-the-halifax-mooseheads-of-the-quebec-major-junior-hockey-league-is-chosen-by-the-co.md)
-The Colorado Avalanche have selected center Nathan MacKinnon with the first pick of the NHL draft.
-
 ## [Previous Day...](/news/2013/06/29/index.md)
 

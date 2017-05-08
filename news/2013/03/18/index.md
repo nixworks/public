@@ -22,7 +22,7 @@ _Context: China's, DCNS, France, Japan_
 _Context: Argentina, Cristina Fernandez de Kirchner, Falkland Islands sovereignty dispute, Pope Francis, President of Argentina, United Kingdom_
 
 ### [China says that United States plans to bolster missile defences in response to provocations by North Korea would only intensify antagonism, and urges Washington to act prudently. ](/news/2013/03/18/china-says-that-united-states-plans-to-bolster-missile-defences-in-response-to-provocations-by-north-korea-would-only-intensify-antagonism.md)
-_Context: China, North Korea, U.S., Washington, D.C., missile defence_
+_Context: China, North Korea, United States, Washington, D.C., missile defence_
 
 ### [North Korea threatens Japan with a preemptive nuclear strike. ](/news/2013/03/18/north-korea-threatens-japan-with-a-preemptive-nuclear-strike.md)
 WASHINGTON D.C. – North Korea today warned that Japan would &quot;not be exempt&quot; from a pre-emptive nuclear strike, following announcements by the U.S. government that it was expanding its own missile defense systems in the region. An article in the official North Korean Workers’ Party newspaper the Rodong denounced Japanese calls for “independent additional sanctions” following Pyongyang&#039;s third nuclear test in February. Japan, the article argued, is using the nuclear test as an excuse to increase its military presence in the region. &quot;It is a fatal mistake for Japan to think it is safe when a war breaks out on the Korean Peninsula,” the article warned. &quot;North Korea exercise the right to a preemptive nuclear attack to destroy the strongholds of the aggressors,” the article said, claiming that Japan is included in that &quot;stronghold.&quot; North Korean propaganda has been particularly venomous over the last week, with threats of preemptive strikes and a &quot;war-like readiness&quot; becoming an almost
@@ -40,7 +40,7 @@ The Sun newspaper apologises for accessing private information on a stolen mobil
 HOUSTON -- An undergraduate student at the University of Central Florida apparently&nbsp; committed suicide in his dorm room, and campus evacuations were ordered after explosives, an assault rifle...
 
 ### [The United States FBI states that they know who carried out greatest art heist in American history at Boston's Isabella Stewart Gardner Museum in 1990. ](/news/2013/03/18/the-united-states-fbi-states-that-they-know-who-carried-out-greatest-art-heist-in-american-history-at-boston-s-isabella-stewart-gardner-muse.md)
-_Context: Boston, FBI, Isabella Stewart Gardner Museum, U.S., art heist_
+_Context: Boston, FBI, Isabella Stewart Gardner Museum, United States, art heist_
 
 ### [Ghassan Hitto is elected as the Syrian National Coalition's provisional Prime Minister. He will be tasked with forming a government amid the Syrian civil war. ](/news/2013/03/18/ghassan-hitto-is-elected-as-the-syrian-national-coalition-s-provisional-prime-minister-he-will-be-tasked-with-forming-a-government-amid-the.md)
 Syria&#39;s opposition coalition has elected Ghassan Hitto to serve as prime minister of its interim government.
@@ -49,16 +49,13 @@ Syria&#39;s opposition coalition has elected Ghassan Hitto to serve as prime min
 Plans for a new press watchdog able to impose million-pound fines and demand apologies are set out as a deal is struck between the three main parties after the phone-hacking scandal.
 
 ### [Former United States Secretary of State Hillary Clinton officially announces her support for same-sex marriage. ](/news/2013/03/18/former-united-states-secretary-of-state-hillary-clinton-officially-announces-her-support-for-same-sex-marriage.md)
-_Context: Hillary Clinton, U.S., United States Secretary of State, same-sex marriage_
+_Context: Hillary Clinton, United States, United States Secretary of State, same-sex marriage_
 
 ### [US President Barack Obama nominates Assistant Attorney General Thomas Perez to be the next United States Secretary of Labor. ](/news/2013/03/18/us-president-barack-obama-nominates-assistant-attorney-general-thomas-perez-to-be-the-next-united-states-secretary-of-labor.md)
 UPDATE 12:09 p.m. ET President Barack Obama on Monday highlighted the professional experience as well as the background of Assistant Attorney General Tom Perez, head of the Justice Department&#x27;s Civil Rights Division, as he announced Perez&#x27;s nomination as the next secretary of labor. Obama noted
 
 ### [Pope Francis appoints Alfred Xuereb, an Honorary Prelate of the Roman Catholic Church, to succeed archbishop Georg Ganswein as his first private secretary. ](/news/2013/03/18/pope-francis-appoints-alfred-xuereb-an-honorary-prelate-of-the-roman-catholic-church-to-succeed-archbishop-georg-ga-nswein-as-his-first-pr.md)
 Gozitan Mgr Alfred Xuereb, 54, has been asked to serve as personal secretary to Pope Francis, informed sources said. The appointment has been reported on international media but has not been officially confirmed by the Vatican. To date, Mgr Xuereb was assistant secretary to Pope Benedict. He...
-
-### [International Olympic Committee's evaluation commission begins four-day inspection of Madrid for 2020 Summer Olympics bid. ](/news/2013/03/18/international-olympic-committee-s-evaluation-commission-begins-four-day-inspection-of-madrid-for-2020-summer-olympics-bid.md)
-_Context: 2020 Summer Olympics, International Olympic Committee, Madrid, bid_
 
 ## [Previous Day...](/news/2013/03/17/index.md)
 

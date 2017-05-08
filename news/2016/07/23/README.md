@@ -48,8 +48,5 @@ _Context: 2016 Zimbabwe protests, Robert Mugabe_
 ### [President Recep Tayyip Erdogan's  order under the state of emergency declared Wednesday after the failed military coup calls for closure of thousands of private schools, charities, and other institutions suspected of having links to Fethullah Gulen. ](/news/2016/07/23/president-recep-tayyip-erdoaan-s-order-under-the-state-of-emergency-declared-wednesday-after-the-failed-military-coup-calls-for-closure-of.md)
 President Tayyip Erdogan tightened his grip on Turkey on Saturday, ordering the closure of thousands of private schools, charities and other institutions in his first decree since imposing a state of emergency after the failed military coup.
 
-### [Russian balloonist Fyodor Konyukhov  breaks the world record of American Steve Fossett for the fastest hot air balloon ride to circumnavigate the globe. ](/news/2016/07/23/russian-balloonist-fyodor-konyukhov-breaks-the-world-record-of-american-steve-fossett-for-the-fastest-hot-air-balloon-ride-to-circumnavigat.md)
-_Context: Fyodor Konyukhov , Russia, Steve Fossett, circumnavigate, hot air balloon_
-
 ## [Previous Day...](/news/2016/07/22/index.md)
 

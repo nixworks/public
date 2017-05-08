@@ -75,11 +75,5 @@ _Context: Egypt, Egyptian presidential election in September, November_
 ### [The first virophage virus found in a natural environment is discovered in Organic Lake in East Antarctica. ](/news/2011/03/30/the-first-virophage-virus-found-in-a-natural-environment-is-discovered-in-organic-lake-in-east-antarctica.md)
 _Context: East Antarctica, Organic Lake, virophage, virus_
 
-### [2011 Cricket World Cup:The World Cup semi-final in Mohali between India and Pakistan is watched by over 1 billion people as both countries come to a standstill and both prime ministers attend. ](/news/2011/03/30/2011-cricket-world-cup-pthe-world-cup-semi-final-in-mohali-between-india-and-pakistan-is-watched-by-over-1-billion-people-as-both-countries.md)
-_Context: 2011 Cricket World Cup, Indian, Mohali, Pakistan national cricket team_
-
-### [Michael Clarke is announced as the captain of the Australia national cricket team in both test cricket and One Day Internationals replacing Ricky Ponting. ](/news/2011/03/30/michael-clarke-is-announced-as-the-captain-of-the-australia-national-cricket-team-in-both-test-cricket-and-one-day-internationals-replacing.md)
-Michael Clarke has been confirmed as captain of Australia&#039;s Test match and one-day international teams.
-
 ## [Previous Day...](/news/2011/03/29/index.md)
 

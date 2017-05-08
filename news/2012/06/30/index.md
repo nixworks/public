@@ -22,7 +22,7 @@ _Context: Apple Inc., Galaxy Nexus, Samsung_
 _Context: Chinese, Xinjiang_
 
 ### [The death toll from storms in the Mid-Atlantic states of the United States reaches 13, with millions out of power and states of emergencies declared in the states of Ohio, West Virginia, Virginia and Maryland as well as the District of Columbia. ](/news/2012/06/30/the-death-toll-from-storms-in-the-mid-atlantic-states-of-the-united-states-reaches-13-with-millions-out-of-power-and-states-of-emergencies.md)
-_Context: District of Columbia, MD, Mid-Atlantic states, Ohio, U.S., Virginia, West Virginia, state of emergency, strong storms_
+_Context: District of Columbia, MD, Mid-Atlantic states, Ohio, United States, Virginia, West Virginia, state of emergency, strong storms_
 
 ### [A top leader of the Texan gang known as Barrio Azteca is extradited to the United States from Mexico. The gang member was responsible for killing two U.S. consulate workers in Ciudad Juarez in March 2010. ](/news/2012/06/30/a-top-leader-of-the-texan-gang-known-as-barrio-azteca-is-extradited-to-the-united-states-from-mexico-the-gang-member-was-responsible-for-ki.md)
 MEXICO CITY (Reuters) - Mexico has extradited a drug gang leader to face charges that he played a key part in the daylight execution of a U.S. consulate employee two years ago, officials said on...
@@ -35,9 +35,6 @@ _Context: President of Georgia, Prime Minister of Georgia, Saakashvili, Vano Mer
 
 ### [The Molecule of the Year 2011 is BMP7 as announced by Isidro A. T. Savillo, President, ISMCBBPR. ](/news/2012/06/30/the-molecule-of-the-year-2011-is-bmp7-as-announced-by-isidro-a-t-savillo-president-ismcbbpr.md)
 _Context: BMP7, ISMCBBPR, Isidro A. T. Savillo, Molecule of the Year_
-
-### [UEFA Euro 2012:Laurent Blanc vacates his job as manager of the France national football team following his team's exit from the tournament. ](/news/2012/06/30/uefa-euro-2012-plaurent-blanc-vacates-his-job-as-manager-of-the-france-national-football-team-following-his-team-s-exit-from-the-tournament.md)
-Laurent Blanc leaves his job as manager of the French national team after his contract comes to an end.
 
 ## [Previous Day...](/news/2012/06/29/index.md)
 

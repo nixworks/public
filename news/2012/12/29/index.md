@@ -24,14 +24,5 @@ To extend the FISA Amendments Act of 2008 for five years.
 ### [France's Constitutional Council strikes down the government's plan to impose a 75 percent marginal income tax rate on the wealthy. ](/news/2012/12/29/franceas-constitutional-council-strikes-down-the-governmentas-plan-to-impose-a-75-percent-marginal-income-tax-rate-on-the-wealthy.md)
 The Constitutional Council opposed a plan to impose a 75 percent marginal income tax rate on the wealthy that would have applied to annual income above 1 million euros, or about $1.3 million.
 
-### [Bradley Wiggins and Dave Brailsford are awarded knighthoods in the 2013 New Year Honours list, while Sarah Storey becomes a Dame, the female equivalent of a knight. ](/news/2012/12/29/bradley-wiggins-and-dave-brailsford-are-awarded-knighthoods-in-the-2013-new-year-honours-list-while-sarah-storey-becomes-a-dame-the-female.md)
-Knighthoods for Wiggo and DB, Sarah Storey made a Dame; honours too for other London 2012 gold medallists
-
-### [In Premier League's Boxing Day, Theo Walcott hits a hat-trick as Arsenal beat Newcastle United 7-3 while Manchester City cling on for a thrilling 4-3 victory over Norwich City at Carrow Road. ](/news/2012/12/29/in-premier-league-s-boxing-day-theo-walcott-hits-a-hat-trick-as-arsenal-beat-newcastle-united-7a3-while-manchester-city-cling-on-for-a-th.md)
-_Context: 2012-13 Premier League, Arsenal, Boxing Day, Carrow Road, Manchester City, Newcastle United F.C., Norwich City, Theo Walcott, hat-trick_
-
-### [In the Russian Premier League, former Volga Nizhny Novgorod manager Gadzhi Gadzhiyev is named as new coach of Krylia Sovetov Samara. ](/news/2012/12/29/in-the-russian-premier-league-former-volga-nizhny-novgorod-manager-gadzhi-gadzhiyev-is-named-as-new-coach-of-krylia-sovetov-samara.md)
-_Context: Gadzhi Gadzhiyev, Krylia Sovetov Samara, Russian Premier League, Volga Nizhny Novgorod_
-
 ## [Previous Day...](/news/2012/12/28/index.md)
 

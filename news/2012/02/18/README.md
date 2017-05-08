@@ -34,7 +34,7 @@ _Context: European Union, International Monetary Fund, government of Greece_
 _Context: China's, Yunnan Province_
 
 ### [Twenty one people are given jail sentences in the People's Republic of China for match fixing, including Yang Yimin, a former deputy chief of the Chinese Football Association. ](/news/2012/02/18/twenty-one-people-are-given-jail-sentences-in-the-people-s-republic-of-china-for-match-fixing-including-yang-yimin-a-former-deputy-chief-o.md)
-_Context: China's, football league, match fixing_
+_Context: China's, Chinese Football Association, match fixing_
 
 ### [Former International Monetary Fund Managing Director Dominique Strauss-Kahn is summoned by French police to face questions about alleged involvement in a prostitution ring in the city of Lille. ](/news/2012/02/18/former-international-monetary-fund-managing-director-dominique-strauss-kahn-is-summoned-by-french-police-to-face-questions-about-alleged-inv.md)
 Former IMF chief Dominique Strauss is to be questioned next week by police in France investigating an alleged prostitution ring in the northern French city of Lille, officials say.

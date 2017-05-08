@@ -21,8 +21,5 @@ _Context: Chen Guangcheng_
 ### [British Secretary of State for Culture, Media and Sport Jeremy Hunt agrees to hand over private emails to the Leveson Inquiry relating to the BSkyB takeover as pressure mounts for a separate inquiry into his conduct. ](/news/2012/04/27/british-secretary-of-state-for-culture-media-and-sport-jeremy-hunt-agrees-to-hand-over-private-emails-to-the-leveson-inquiry-relating-to-th.md)
 Jeremy Hunt has said he will hand over emails about the BSkyB takeover bid to the Leveson Inquiry as Labour accuses David Cameron of a &quot;cover-up&quot;.
 
-### [In association football, Barcelona manager Josep Guardiola announces that he will resign at the end of the season. His assistant, Tito Vilanova, is appointed as his successor. ](/news/2012/04/27/in-association-football-barcelona-manager-josep-guardiola-announces-that-he-will-resign-at-the-end-of-the-season-his-assistant-tito-vilan.md)
-_Context: FC Barcelona, Josep Guardiola, Tito Vilanova, association football_
-
 ## [Previous Day...](/news/2012/04/26/index.md)
 

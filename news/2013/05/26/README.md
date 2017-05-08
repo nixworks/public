@@ -33,26 +33,5 @@ Counter-terrorism officers have arrested another man in connection with the hack
 ### [An estimated 150,000 people rally against gay marriage in Paris, France, with 100 people arrested. ](/news/2013/05/26/an-estimated-150-000-people-rally-against-gay-marriage-in-paris-france-with-100-people-arrested.md)
 Police are forced to use tear gas to subdue demonstrations on the streets of Paris against same-sex marriage.
 
-### [In motorsport: In Formula One, German Nico Rosberg wins the Monaco Grand Prix. ](/news/2013/05/26/in-motorsport-pin-formula-one-german-nico-rosberg-wins-the-monaco-grand-prix.md)
-Tony Kanaan, racing in his 12th Indy 500, secured his first win in the race when he passed Ryan Hunter-Reay with three laps to go and Dario Franchitti crashed a lap later.
-
-### [In road cycling, Vincenzo Nibali of Italy wins the Giro d'Italia. ](/news/2013/05/26/in-road-cycling-vincenzo-nibali-of-italy-wins-the-giro-d-italia.md)
-_Context: Giro d'Italia, Vincenzo Nibali, road cycling_
-
-### [In Twenty20 cricket, the Mumbai Indians defeat Chennai Super Kings in the final to win a maiden Indian Premier League title. ](/news/2013/05/26/in-twenty20-cricket-the-mumbai-indians-defeat-chennai-super-kings-in-the-final-to-win-a-maiden-indian-premier-league-title.md)
-_Context: Chennai Super Kings, Indian Premier League, Mumbai Indians, Twenty20 cricket, the final_
-
-### [In Gaelic football, Donegal open the defence of their All-Ireland title with a victory over Tyrone in the Ulster Senior Football Championship. ](/news/2013/05/26/in-gaelic-football-donegal-open-the-defence-of-their-all-ireland-title-with-a-victory-over-tyrone-in-the-ulster-senior-football-championshi.md)
-Jim McGuinness&rsquo;s team serve notice that thet have retained their hunger 
-
-### [In tennis, Venus Williams loses in the first round of the French Open for the first time since 2001. ](/news/2013/05/26/in-tennis-venus-williams-loses-in-the-first-round-of-the-french-open-for-the-first-time-since-2001.md)
-_Context: French Open, Venus Williams, tennis_
-
-### [In ice hockey, the Halifax Mooseheads defeat the Portland Winterhawks to win the 2013 Memorial Cup [http://www.mastercardmemorialcup.ca/article/halifax-mooseheads-win-mastercard-memorial-cup/144418]](/news/2013/05/26/in-ice-hockey-the-halifax-mooseheads-defeat-the-portland-winterhawks-to-win-the-2013-memorial-cup-http-www-mastercardmemorialcup-ca-arti.md)
-_Context: 2013 Memorial Cup, Halifax Mooseheads, Portland Winterhawks, ice hockey_
-
-### [In Boo Weekley wins the Crowne Plaza Invitational. ](/news/2013/05/26/in-boo-weekley-wins-the-crowne-plaza-invitational.md)
-Boo Weekley claimed a maiden Crowne Plaza Invitational at Fort Worth after the American kept his cool to seal a one-shot victory ahead of Matt Kuchar
-
 ## [Previous Day...](/news/2013/05/25/index.md)
 

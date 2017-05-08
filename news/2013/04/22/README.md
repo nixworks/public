@@ -36,11 +36,5 @@ A six-month search for the missing five-year-old comes to an end, as police say 
 ### [The U.S. International Trade Commission sides with Apple against a claim by Google that Apple's popular iPhones violate a Google patent. ](/news/2013/04/22/the-u-s-international-trade-commission-sides-with-apple-against-a-claim-by-google-that-apple-s-popular-iphones-violate-a-google-patent.md)
 Apple Inc scored a win on Monday when the U.S. International Trade Commission ruled that it did not violate a Google patent to make the popular iPhones.
 
-### [2012-13 Premier League:Manchester United secure the 2012-13 Premier League title thanks to a Robin van Persie hat trick against Aston Villa at Old Trafford, which moves them 16 points clear of rivals and reigning champions Manchester City who have only a maximum of 15 points left to play for. This is Sir Alex Ferguson's 13th title of his 27-year tenure as United's manager. ](/news/2013/04/22/2012a13-premier-league-pmanchester-united-secure-the-2012a13-premier-league-title-thanks-to-a-robin-van-persie-hat-trick-against-aston-v.md)
-_Context: 2012-13 Premier League, Aston Villa, English Premier League, Manchester City, Manchester United, Old Trafford, Robin van Persie, Sir Alex Ferguson, United's manager, hat-trick, title_
-
-### [In tennis, Russia and Italy advance to the final of the 2013 Fed Cup World Group defeating Slovakia and Czech Republic respectively. ](/news/2013/04/22/in-tennis-russia-and-italy-advance-to-the-final-of-the-2013-fed-cup-world-group-defeating-slovakia-and-czech-republic-respectively.md)
-_Context: 2013 Fed Cup, Czech Republic, Italy, Russia, Slovakia, World Group, tennis_
-
 ## [Previous Day...](/news/2013/04/21/index.md)
 

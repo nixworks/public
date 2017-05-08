@@ -13,10 +13,10 @@ _Context: Guadalajara, Jalisco, Mexican state, Mexico, Nayarit, Phoenix, Arizona
 _Context: United States Capitol, anti-Iraq War_
 
 ### [ A helicopter registered in the name of former World Rally Championship champion Colin McRae crashes killing four people near McRae's home in Scotland. ](/news/2007/09/15/a-helicopter-registered-in-the-name-of-former-world-rally-championship-champion-colin-mcrae-crashes-killing-four-people-near-mcrae-s-home-i.md)
-_Context: Colin McRae, Scotland, WRC, helicopter_
+_Context: Colin McRae, Scotland, World Rally Championship, helicopter_
 
 ### [ The new cruise ferry Color Magic was christened in Kiel.The ship is the largest cruise ferry in the world.She was christened by the German actress Veronica Ferres.](/news/2007/09/15/the-new-cruise-ferry-color-magic-was-christened-in-kiel-the-ship-is-the-largest-cruise-ferry-in-the-world-she-was-christened-by-the-german.md)
-_Context: Color Magic, Germany, Kiel, Veronica Ferres, cruise ferry_
+_Context: Color Magic, German, Kiel, Veronica Ferres, cruise ferry_
 
 ### [ Sierra Leone's ruling People's Party seeks an injunction against the National Electoral Commission publishing further results of the 2007 general election with results published so far showing Opposition candidate for president Ernest Bai Koroma in the lead. ](/news/2007/09/15/sierra-leone-s-ruling-people-s-party-seeks-an-injunction-against-the-national-electoral-commission-publishing-further-results-of-the-2007-g.md)
 _Context: Ernest Bai Koroma, Sierra Leone, injunction, main opposition party, run-off election_

@@ -24,8 +24,5 @@ Former Minnesota governor Tim Pawlenty&rsquo;s decision to drop out of the Repub
 ### [Jhala Nath Khanal resigns as the Prime Minister of Nepal due to the failure of Nepalese political parties to adopt a constitution or end infighting. ](/news/2011/08/14/jhala-nath-khanal-resigns-as-the-prime-minister-of-nepal-due-to-the-failure-of-nepalese-political-parties-to-adopt-a-constitution-or-end-inf.md)
 _Context: Jhala Nath Khanal, Nepal, Prime Minister_
 
-### [American golfer Keegan Bradley wins the United States 2011 PGA Championship at the Atlanta Athletic Club, defeating Jason Dufner in a playoff. ](/news/2011/08/14/american-golfer-keegan-bradley-wins-the-united-states-2011-pga-championship-at-the-atlanta-athletic-club-defeating-jason-dufner-in-a-playof.md)
-_Context: 2011 PGA Championship, American, Atlanta Athletic Club, Jason Dufner, Keegan Bradley, U.S._
-
 ## [Previous Day...](/news/2011/08/13/index.md)
 

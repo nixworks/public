@@ -63,8 +63,5 @@ Chilean fishermen clash with police as they protest in several coastal towns aga
 ### [Astronomers announce the discovery of S/2012 P 1, the fifth moon of Pluto. ](/news/2012/07/11/astronomers-announce-the-discovery-of-s-2012-p-1-the-fifth-moon-of-pluto.md)
 A fifth moon has just been discovered orbiting former planet Pluto, scientists with the Hubble Space Telescope announced Wednesday -- but it’s still not enough to bump the dwarf planet back into the big leagues.
 
-### [British Armed Forces are on standby to provide an extra 3,500 troops to help with security at the 2012 Olympics. ](/news/2012/07/11/british-armed-forces-are-on-standby-to-provide-an-extra-3-500-troops-to-help-with-security-at-the-2012-olympics.md)
-UK armed forces are on standby to provide an additional 3,500 troops for Olympic security, amid fears private contractor G4S will be unable to provide enough staff, the BBC learns.
-
 ## [Previous Day...](/news/2012/07/10/index.md)
 

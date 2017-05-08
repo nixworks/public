@@ -21,11 +21,5 @@ _Context: Czech, Zdar nad Sazavou, police, schizophrenia_
 ### [The President of the Generalitat of Catalonia, Artur Mas i Gavarro, drops plans for a referendum on independence on November 9 from Spain following opposition from the Constitutional Court of Spain. ](/news/2014/10/14/the-president-of-the-generalitat-of-catalonia-artur-mas-i-gavarra3-drops-plans-for-a-referendum-on-independence-on-november-9-from-spain-f.md)
 _Context: Artur Mas i Gavarro, Constitutional Court of Spain, President of the Generalitat of Catalonia, Spain_
 
-### [UEFA Euro 2016 qualifying Group D:Ireland stuns world champion Germany in Gelsenkirchen, with Ireland drawing the match at 1-1 when John O'Shea scores in stoppage time. ](/news/2014/10/14/uefa-euro-2016-qualifying-group-d-pireland-stuns-world-champion-germany-in-gelsenkirchen-with-ireland-drawing-the-match-at-1a1-when-john.md)
-Ireland stunned World Cup winners Germany with a stoppage time equaliser by John O&#039;Shea on his 100th appearance to draw 1-1 in their Euro 2016 qualifier on Tuesday.
-
-### [UEFA Euro 2016 qualifying Group I:The game between Albania and Serbia is abandoned after a drone carrying a flag promoting the concept of Greater Albania descends onto the pitch in Belgrade, sparking riots, mass brawling and an explosion. Albania players are attacked on the pitch by Serbia fans, who in turn clash with riot police. ](/news/2014/10/14/uefa-euro-2016-qualifying-group-i-pthe-game-between-albania-and-serbia-is-abandoned-after-a-drone-carrying-a-flag-promoting-the-concept-of-g.md)
-Qualifier between Serbia and Albania was abandoned on Tuesday following a brawl between players from both sides.
-
 ## [Previous Day...](/news/2014/10/13/index.md)
 

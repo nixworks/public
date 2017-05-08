@@ -22,7 +22,7 @@ The National Weather Service chief calls it a heat wave more intense than any he
 _Context: North Korea, Sky News, illegal drugs trade_
 
 ### [The shutdown of the United States Federal Aviation Administration will end August 8th. ](/news/2011/08/4/the-shutdown-of-the-united-states-federal-aviation-administration-will-end-august-8th.md)
-_Context: Federal Aviation Administration, U.S._
+_Context: Federal Aviation Administration, United States_
 
 ### [A judge rules that Donald Rumsfeld can be sued personally for damages by a U.S. Army veteran in his 50s who says he was imprisoned unjustly and tortured by the U.S. military in Iraq. ](/news/2011/08/4/a-judge-rules-that-donald-rumsfeld-can-be-sued-personally-for-damages-by-a-u-s-army-veteran-in-his-50s-who-says-he-was-imprisoned-unjustly.md)
 _Context: Donald Rumsfeld_
@@ -38,9 +38,6 @@ _Context: Brazil, Brazilian President, Celso Amorim, Dilma Rousseff, Minister of
 
 ### [The British Government launches a new e-petition website to encourage the public to prompt parliamentary debate on topics they feel are important. Several petitions concern proposals for and against restoring the death penalty, last used in the UK in 1964.](/news/2011/08/4/the-british-government-launches-a-new-e-petition-website-to-encourage-the-public-to-prompt-parliamentary-debate-on-topics-they-feel-are-impo.md)
 An online campaign is calling for the death penalty to be reinstated citing opinion polls which suggest half the population are in favour. But is this what the public really wants?
-
-### [In American football, players in the US National Football League ratify a new collective bargaining agreement including provisions for tests for human growth hormone. ](/news/2011/08/4/in-american-football-players-in-the-us-national-football-league-ratify-a-new-collective-bargaining-agreement-including-provisions-for-tests.md)
-Players ratified the league’s new agreement, which includes blood testing for human growth hormone.
 
 ## [Previous Day...](/news/2011/08/3/index.md)
 

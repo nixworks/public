@@ -7,7 +7,7 @@ _Context: Johnny Weir, U.S. Figure Skating Championships_
 _Context: Dancing on Ice_
 
 ### [ Liverpool F.C. wins a football match against Tottenham Hotspur F.C. by 1-0. ](/news/2006/01/14/liverpool-f-c-wins-a-football-match-against-tottenham-hotspur-f-c-by-1-0.md)
-_Context: Liverpool F.C., Tottenham Hotspur F.C._
+_Context: Liverpool, Tottenham Hotspur_
 
 ## [Previous Day...](/news/2006/01/13/index.md)
 

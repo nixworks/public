@@ -31,16 +31,10 @@ South Sudan says it is suspending talks with the north, accusing President Bashi
 _Context: Australia, Christmas Island, Christmas Island Immigration Detention Centre, asylum seeker_
 
 ### [United States aid worker Alan Gross is sentenced to 15 years in a Cuban jail, ostensibly for working to undermine the Government of Cuba. ](/news/2011/03/12/united-states-aid-worker-alan-gross-is-sentenced-to-15-years-in-a-cuban-jail-ostensibly-for-working-to-undermine-the-government-of-cuba.md)
-_Context: Cuba, Government of Cuba, U.S._
+_Context: Cuba, Government of Cuba, United States_
 
 ### [Tens of thousands of Portuguese young people march in protest at budget cuts. ](/news/2011/03/12/tens-of-thousands-of-portuguese-young-people-march-in-protest-at-budget-cuts.md)
 _Context: Portuguese_
-
-### [National Football League owners in the United States lock out their players in the first labour dispute since 1987. ](/news/2011/03/12/national-football-league-owners-in-the-united-states-lock-out-their-players-in-the-first-labour-dispute-since-1987.md)
-_Context: National Football League, U.S., locks out_
-
-### [Zuffa, LLC, the parent company of the Ultimate Fighting Championship, buys its main rival Strikeforce. ](/news/2011/03/12/zuffa-llc-the-parent-company-of-the-ultimate-fighting-championship-buys-its-main-rival-strikeforce.md)
-LAS VEGAS -- In a transaction that will forever change the mixed martial arts world, Zuffa, the parent company of the Ultimate Fighting Championship, has purchased its top competitor, Strikeforce. ...
 
 ## [Previous Day...](/news/2011/03/11/index.md)
 

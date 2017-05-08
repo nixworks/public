@@ -33,11 +33,5 @@ _Context: Archbishop of Sao Paulo, Brazil, Brazilian, Cardinal, Conference of Bi
 ### [A newly discovered Y-chromosome haplogroup is thought to push back the time of Y-chromosomal Adam to 338,000 years ago. ](/news/2013/03/6/a-newly-discovered-y-chromosome-haplogroup-is-thought-to-push-back-the-time-of-y-chromosomal-adam-to-338-000-years-ago.md)
 _Context: Y-chromosomal Adam, Y-chromosome haplogroup, push back_
 
-### [Italy's Juventus and France's Paris Saint-Germain reach 2012-13 UEFA Champions League quarter-finals defeating Celtic and Valencia respectively. ](/news/2013/03/6/italy-s-juventus-and-france-s-paris-saint-germain-reach-2012a13-uefa-champions-league-quarter-finals-defeating-celtic-and-valencia-respect.md)
-Juventus avoided any slip-ups against Celtic, cruising to an easy 2-0 win Wednesday to seal a spot in the Champions League quarter-finals, while Ezequiel Lavezzi scored the equalizer as Paris Saint-Germain drew 1-1 with Valencia to reach quarters for the first time since 1995.
-
-### [Fallout of Manchester United v. Real Madrid:UEFA backs Turkish referee Cuneyt Cakir over his controversial decision to red card Manchester United's Nani in last night's elimination by a 2-1 scoreline (3-2 on aggregate) at the feet of Real Madrid in the second leg of their 2012-13 UEFA Champions League last 16 tie at Old Trafford. ](/news/2013/03/6/fallout-of-manchester-united-v-real-madrid-puefa-backs-turkish-referee-ca1-4neyt-aaka-r-over-his-controversial-decision-to-red-card-manchest.md)
-Uefa have said they have “no problem” with referee Cuneyt Cakir following the fall-out from his decision to send off Nani in Manchester United&#039;s Champions League defeat to Real Madrid.
-
 ## [Previous Day...](/news/2013/03/5/index.md)
 

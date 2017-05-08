@@ -28,23 +28,5 @@ Nigel Wright, chief of staff of Canadian Prime Minister Stephen Harper, resigns 
 ### [US Navy dolphins find a rare nineteenth-century torpedo off the coast of California. ](/news/2013/05/19/us-navy-dolphins-find-a-rare-nineteenth-century-torpedo-off-the-coast-of-california.md)
 The discovery itself is notable enough: Navy specialists found a rare torpedo off the San Diego coast, an 11-foot brass gem that dates back 130 years or so and was one of the first torpedoes to propel itself.
 
-### [In cricket, the Board of Control for Cricket in India holds an emergency meeting to tackle the 2013 Indian Premier League spot-fixing case which has resulted in the arrest of three cricketers and eleven bookmakers. ](/news/2013/05/19/in-cricket-the-board-of-control-for-cricket-in-india-holds-an-emergency-meeting-to-tackle-the-2013-indian-premier-league-spot-fixing-case-w.md)
-_Context: 2013 Indian Premier League spot-fixing case, Board of Control for Cricket in India, Cricket_
-
-### [In golf, Bae Sang-moon wins his first PGA tour event at the Byron Nelson Championship. ](/news/2013/05/19/in-golf-bae-sang-moon-wins-his-first-pga-tour-event-at-the-byron-nelson-championship.md)
-_Context: Bae Sang-moon, Byron Nelson Championship, golf_
-
-### [Sweden defeats Switzerland 5-1 to win the Ice Hockey World Championships. ](/news/2013/05/19/sweden-defeats-switzerland-5-1-to-win-the-ice-hockey-world-championships.md)
-Sweden became the first home team to win the ice hockey world championships in 27 years, coming from behind to beat Switzerland 5-1 in the final on Sunday after Henrik Sedin scored twice.
-
-### [Salisbury University defeats Trinity College 12-5 to win the Division III NCAA women's Lacrosse championship. ](/news/2013/05/19/salisbury-university-defeats-trinity-college-12-5-to-win-the-division-iii-ncaa-women-s-lacrosse-championship.md)
-Salisbury ends undefeated season with Division III women&apos;s lacrosse title
-
-### [Raha Moharrak becomes the first Saudi woman to summit Mount Everest. ](/news/2013/05/19/raha-moharrak-becomes-the-first-saudi-woman-to-summit-mount-everest.md)
-_Context: Mount Everest, Raha Moharrak, Saudi Arabia_
-
-### [Samina Baig becomes the first Pakistani woman to summit Mount Everest. ](/news/2013/05/19/samina-baig-becomes-the-first-pakistani-woman-to-summit-mount-everest.md)
-Samina Baig on 19 May 2013 became the first Pakistani woman to scale Mount Everest. Samina Baig is 22 years of age.
-
 ## [Previous Day...](/news/2013/05/18/index.md)
 

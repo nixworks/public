@@ -51,11 +51,5 @@ Ten men convicted for producing tainted alcohol that killed more than 30 people 
 ### [Guinea-Bissau general election, 2014:Former Guinea-Bissau Finance Minister Jose Mario Vaz is elected President of Guinea-Bissau. ](/news/2014/05/21/guinea-bissau-general-election-2014-pformer-guinea-bissau-finance-minister-josa-c-ma-rio-vaz-is-elected-president-of-guinea-bissau.md)
 By Alberto Dabo BISSAU (Reuters) - Former finance minister Jose Mario Vaz won a high-stakes presidential run-off election in Guinea-Bissau meant to draw a line under a 2012 coup, the elections commission said on Tuesday, but the losing candidate rejected the result. The looming dispute over the outcome
 
-### [Sacramento, California, approves a new arena, worth $447 million, for the Sacramento Kings. ](/news/2014/05/21/sacramento-california-approves-a-new-arena-worth-447-million-for-the-sacramento-kings.md)
-Sacramento&apos;s City Council on Tuesday approved a financing plan for the Kings NBA franchise, clearing the way for construction on a $477 million downtown arena.
-
-### [England wins the 2014 UEFA European Under-17 Championship, beating Netherlands on penalties after a 1-1 draw. ](/news/2014/05/21/england-wins-the-2014-uefa-european-under-17-championship-beating-netherlands-on-penalties-after-a-1-1-draw.md)
-_Context: 2014 UEFA European Under-17 Championship, England, Netherlands_
-
 ## [Previous Day...](/news/2014/05/20/index.md)
 

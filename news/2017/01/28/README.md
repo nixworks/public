@@ -18,8 +18,5 @@ The ACLU filed a legal challenge to President Donald Trump&#039;s order to deny 
 ### [An Italian court orders former Prime Minister Silvio Berlusconi to stand trial on April 4 on charges of allegedly bribing witnesses with EUR10 million (US$11 million) in order to silence them over accusations he paid for sex with young women. ](/news/2017/01/28/an-italian-court-orders-former-prime-minister-silvio-berlusconi-to-stand-trial-on-april-4-on-charges-of-allegedly-bribing-witnesses-with-a.md)
 An Italian court on Saturday ordered ex-prime minister Silvio Berlusconi to stand trial on charges he bribed witnesses to silence them over accusations he paid for sex with young women.
 
-### [Serena Williams defeats her sister Venus Williams 6-4, 6-4 to win the women's singles and an Open era-record 23rd Grand Slam singles title. ](/news/2017/01/28/serena-williams-defeats-her-sister-venus-williams-6-4-6-4-to-win-the-women-s-singles-and-an-open-era-record-23rd-grand-slam-singles-title.md)
-A 6-4, 6-4 victory over sister Venus gave Serena Williams her seventh Australian Open title and a record open-era haul of 23 grand slam titles
-
 ## [Previous Day...](/news/2017/01/27/index.md)
 

@@ -45,8 +45,5 @@ _Context: Aung San Suu Kyi, Burma, passport_
 ### [The U.S. state of North Carolina bans same-sex marriage. ](/news/2012/05/8/the-u-s-state-of-north-carolina-bans-same-sex-marriage.md)
 Residents of North Carolina approve a constitutional ban on gay unions, initial results suggest, making the state the 29th to limit gay marriage rights.
 
-### [Former Northern Ireland U-21 footballer James McClean, who burst onto the scene in the 2011-12 Premier League, is subjected to sectarian abuse by disgruntled fans after Giovanni Trapattoni named him in the Irish UEFA Euro 2012 squad yesterday. ](/news/2012/05/8/former-northern-ireland-u-21-footballer-james-mcclean-who-burst-onto-the-scene-in-the-2011a12-premier-league-is-subjected-to-sectarian-a.md)
-_Context: Giovanni Trapattoni, James McClean, UEFA Euro 2012, reigning_
-
 ## [Previous Day...](/news/2012/05/7/index.md)
 

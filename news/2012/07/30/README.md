@@ -30,8 +30,5 @@ _Context: Brazil, Brazilian military government, Dilma Rousseff_
 ### [Romanian President Traian Basescu could survive the referendum on his impeachment that shows a massive vote against him but under 50% turnout.The Constitutional Court of Romania will give the final word on whether to validate the referendum later this week.](/news/2012/07/30/romanian-president-traian-basescu-could-survive-the-referendum-on-his-impeachment-that-shows-a-massive-vote-against-him-but-under-50-turno.md)
 Turnout of less than 50% means Romanian President Traian Basescu survives a strong vote against him in a referendum on his impeachment.
 
-### [2012 Summer Olympics:15-year-old Ruta Meilutyte wins Lithuania's first ever Olympic gold in the pool. ](/news/2012/07/30/2012-summer-olympics-p15-year-old-ra-ta-meilutyta-wins-lithuania-s-first-ever-olympic-gold-in-the-pool.md)
-_Context: 2012 Summer Olympics, Ruta Meilutyte_
-
 ## [Previous Day...](/news/2012/07/29/index.md)
 

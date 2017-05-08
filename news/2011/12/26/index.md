@@ -15,8 +15,5 @@ _Context: Florence Hartmann, International Criminal Tribunal for the former Yugo
 ### [The government of China sentences activist Chen Xi to ten years imprisonment for "inciting subversion". ](/news/2011/12/26/the-government-of-china-sentences-activist-chen-xi-to-ten-years-imprisonment-for-inciting-subversion.md)
 A Chinese activist, Chen Xi, has been sentenced to 10 years in jail for subversion, as authorities continue to crack down on critics of the country&#039;s one-party government.
 
-### [In American football, Drew Brees, the quarterback for the New Orleans Saints, breaks the 1984 National Football League record for yards passing in a single season. ](/news/2011/12/26/in-american-football-drew-brees-the-quarterback-for-the-new-orleans-saints-breaks-the-1984-national-football-league-record-for-yards-pass.md)
-_Context: American football, Drew Brees, National Football League, New Orleans Saints, quarterback_
-
 ## [Previous Day...](/news/2011/12/25/index.md)
 

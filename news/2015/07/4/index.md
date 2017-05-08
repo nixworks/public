@@ -45,17 +45,5 @@ _Context: King of Tonga, Tupou VI_
 ### [ Fidel Castro makes his first public appearance at a Cuban cheese factory since February 2015. ](/news/2015/07/4/fidel-castro-makes-his-first-public-appearance-at-a-cuban-cheese-factory-since-february-2015.md)
 Former Cuban President Fidel Castro made his first public appearance in three months Friday, visiting 19 cheese masters at the Food Industry Ministry.
 
-### [  In cycling, the 2015 Tour de France gets underway in the Dutch city of Utrecht with an individual time trial. ](/news/2015/07/4/in-cycling-the-2015-tour-de-france-gets-underway-in-the-dutch-city-of-utrecht-with-an-individual-time-trial.md)
-All eyes will be on Utrecht this Saturday for the Tour’s Grand Départ, but there are many reasons beyond cycling to visit the city some call a mini Amsterdam
-
-### [  The Highlanders from the New Zealand region of Otago defeat the Hurricanes from the New Zealand capital Wellington in the Super Rugby final, 21-14. It is the Highlanders' first Super 15 final. ](/news/2015/07/4/the-highlanders-from-the-new-zealand-region-of-otago-defeat-the-hurricanes-from-the-new-zealand-capital-wellington-in-the-super-rugby-fina.md)
-They had knocked off the Chiefs in Dunedin, then bamboozled the Waratahs in Sydney, but few thought they could beat the regular season champion Hurricanes on their home patch.
-
-### [  In association football, England defeat Germany 1-0 through an extra time penalty goal by Fara Williams to win third place in the FIFA Women's World Cup. ](/news/2015/07/4/in-association-football-england-defeat-germany-1a0-through-an-extra-time-penalty-goal-by-fara-williams-to-win-third-place-in-the-fifa-w.md)
-_Context: 2015 FIFA Women's World Cup, England, Fara Williams, Germany, association football_
-
-### [  In football, the Chile national football team win the Copa America for the first time, defeating Argentina 4-1 in a penalty shoot-out following a 0-0 draw.](/news/2015/07/4/in-football-the-chile-national-football-team-win-the-copa-ama-c-rica-for-the-first-time-defeating-argentina-4a1-in-a-penalty-shoot-out-f.md)
-Chile win Copa America for the first time in their history after a 4-1 victory on penalties over Argentina
-
 ## [Previous Day...](/news/2015/07/3/index.md)
 

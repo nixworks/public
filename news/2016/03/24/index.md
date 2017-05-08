@@ -30,11 +30,5 @@ Prime Minister John Key says he is disappointed New Zealanders have voted to kee
 ### [Current President of the Republic of the Congo Denis Sassou Nguesso is reelected with 60 percent of the vote amid tight security and a communications blackout. Opposition leaders say that they will not accept the outcome. ](/news/2016/03/24/current-president-of-the-republic-of-the-congo-denis-sassou-nguesso-is-reelected-with-60-percent-of-the-vote-amid-tight-security-and-a-commu.md)
 Final poll results released amid tight security and a communications blackout, extending leader&#39;s 32-year rule.
 
-### [Dutch iconic professional footballer and manager Johan Cruyff dies from lung cancer at the age of 68. ](/news/2016/03/24/dutch-iconic-professional-footballer-and-manager-johan-cruyff-dies-from-lung-cancer-at-the-age-of-68.md)
-_Context: Johan Cruyff, Netherlands_
-
-### [Six Russian athletes are to be stripped of the medals they won at World and European championships in 2010 and 2011 and the 2012 Summer Olympics following a ruling by the Court of Arbitration for Sport. The athletes affected are Sergei Balukin, Valeriy Borchin, Vladimir Kanaikin, Olga Kaniskina, Yulia Zaripova and Sergey Kirdyapkin. The ruling means Kirdyapkin is set to lose his gold medal won at the 2012 Olympics. ](/news/2016/03/24/six-russian-athletes-are-to-be-stripped-of-the-medals-they-won-at-world-and-european-championships-in-2010-and-2011-and-the-2012-summer-olym.md)
-_Context: 2010, 2011, 2012 Summer Olympics, Court of Arbitration for Sport, European championships, Olga Kaniskina, Russia, Sergey Kirdyapkin, Valeriy Borchin, Vladimir Kanaikin, World_
-
 ## [Previous Day...](/news/2016/03/23/index.md)
 

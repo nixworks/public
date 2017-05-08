@@ -36,8 +36,5 @@ _Context: Moldovan President, Nicolae Timofti_
 ### [North Korea announces plans to launch a new satellite in honour of regime founder Kim Il-Sung's birthday in April. ](/news/2012/03/16/north-korea-announces-plans-to-launch-a-new-satellite-in-honour-of-regime-founder-kim-il-sung-s-birthday-in-april.md)
 WTOP brings you the latest news, traffic, and weather information for the Washington, D.C. region. Catch up on the issues and topics important to you today.
 
-### [Sachin Tendulkar  of India becomes the first cricketer to score 100 international centuries in an Asia Cup match against Bangladesh at the Sher-e-Bangla Cricket Stadium in Dhaka. ](/news/2012/03/16/sachin-tendulkar-of-india-becomes-the-first-cricketer-to-score-100-international-centuries-in-an-asia-cup-match-against-bangladesh-at-the-s.md)
-_Context: Asia Cup, Bangladesh, Dhaka, Indian, Sachin Tendulkar, Sher-e-Bangla Cricket Stadium_
-
 ## [Previous Day...](/news/2012/03/15/index.md)
 

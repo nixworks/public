@@ -16,7 +16,7 @@ _Context: Michael Jackson, wrongful death_
 Official European Union figures published Tuesday showed unemployment in the eurozone hit a record high of 12.0% in February. 
 
 ### [United States Government owned mortgage firms Fannie Mae and Freddie Mac announce record profits during 2012. ](/news/2013/04/2/united-states-government-owned-mortgage-firms-fannie-mae-and-freddie-mac-announce-record-profits-during-2012.md)
-_Context: Fannie Mae, Freddie Mac, U.S., United States government, mortgage_
+_Context: Fannie Mae, Freddie Mac, United States, United States government, mortgage_
 
 ### [Thirteen children are killed in a fire at a mosque in Yangon, Burma. ](/news/2013/04/2/thirteen-children-are-killed-in-a-fire-at-a-mosque-in-yangon-burma.md)
 The police in Myanmar said Tuesday that 13 children died when an electrical fire broke out at a mosque in Yangon, the country’s largest city.
@@ -34,7 +34,7 @@ China has placed military forces on heightened alert in the northeastern part of
 The UN General Assembly adopts a historic treaty to control the trade in conventional arms, voting it through by a huge majority.
 
 ### [Three men are arrested for allegedly raping and robbing a foreign tourist on a minibus in Rio de Janeiro, Brazil, amid concerns about security before the country hosts 2014 FIFA World Cup and the 2016 Summer Olympics. ](/news/2013/04/2/three-men-are-arrested-for-allegedly-raping-and-robbing-a-foreign-tourist-on-a-minibus-in-rio-de-janeiro-brazil-amid-concerns-about-securi.md)
-_Context: 2014 FIFA World Cup, 2016 Summer Olympics, Brazil, Rio de Janeiro, minibus, rape, robbery_
+_Context: 2014 FIFA World Cup, Brazil, Olympics, Rio de Janeiro, minibus, rape, robbery_
 
 ### [Police in Colombo, Sri Lanka, arrest three Sinhalese Buddhist monks for torching a Muslim-owned clothing store, raising fears for safety among Muslims. ](/news/2013/04/2/police-in-colombo-sri-lanka-arrest-three-sinhalese-buddhist-monks-for-torching-a-muslim-owned-clothing-store-raising-fears-for-safety-amo.md)
 _Context: Buddhist monks, Colombo, Muslim, Muslims, Police, Sinhalese, Sri Lanka_
@@ -46,7 +46,7 @@ The Palestinian Authority accused Israel of deliberately delaying the treatment 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [Tonya S. Bundick is charged in connection with seventy arsons in Virginia, United States. ](/news/2013/04/2/tonya-s-bundick-is-charged-in-connection-with-seventy-arsons-in-virginia-united-states.md)
-_Context: U.S., Virginia, arson_
+_Context: United States, Virginia, arson_
 
 ### [The Palestinian Islamic organization Hamas re-elects Khaled Meshaal as its leader. The group also passes a new law ordering gender segregation in Gaza's schools that will go into effect in September. ](/news/2013/04/2/the-palestinian-islamic-organization-hamas-re-elects-khaled-meshaal-as-its-leader-the-group-also-passes-a-new-law-ordering-gender-segregati.md)
 Hamas passes new law ordering gender segregation in schools that will go into effect in September.
@@ -68,18 +68,6 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### [Top NASA scientist James Hansen retires in order to concentrate on global warming activism. ](/news/2013/04/2/top-nasa-scientist-james-hansen-retires-in-order-to-concentrate-on-global-warming-activism.md)
 _Context: James Hansen, NASA, global warming's_
-
-### [In the 2012-13 UEFA Champions League quarter-finals, Paris Saint-Germain secures a 2-2 draw against Barcelona while Bayern Munich beats Juventus 2-0. ](/news/2013/04/2/in-the-2012a13-uefa-champions-league-quarter-finals-paris-saint-germain-secures-a-2a2-draw-against-barcelona-while-bayern-munich-beats.md)
-Zlatan Ibrahimovic scores as Paris St-Germain draw with his former side Barcelona in an absorbing Champions League tie.
-
-### [In baseball, Texas Rangers pitcher Yu Darvish comes within one batter of throwing a perfect game. ](/news/2013/04/2/in-baseball-texas-rangers-pitcher-yu-darvish-comes-within-one-batter-of-throwing-a-perfect-game.md)
-_Context: Texas Rangers, Yu Darvish, baseball, perfect game_
-
-### [Video is released showing Rutgers Scarlet Knights men's basketball head coach Mike Rice assaulting and yelling obscenities and slurs at his players during practice. ](/news/2013/04/2/video-is-released-showing-rutgers-scarlet-knights-men-s-basketball-head-coach-mike-rice-assaulting-and-yelling-obscenities-and-slurs-at-his.md)
-_Context: Mike Rice, Rutgers University basketball_
-
-### [Longtime college and professional American football coach Chuck Fairbanks dies at the age of 79. ](/news/2013/04/2/longtime-college-and-professional-american-football-coach-chuck-fairbanks-dies-at-the-age-of-79.md)
-Mr. Fairbanks built successful football teams in college at the University of Oklahoma and in the N.F.L. with New England. But controversy often followed him.
 
 ## [Previous Day...](/news/2013/04/1/index.md)
 

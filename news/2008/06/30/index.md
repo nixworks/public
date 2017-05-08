@@ -7,7 +7,7 @@ _Context: International Security Assistance Force, Khost_
 _Context: Chrysler, Missouri, South St. Louis, minivan_
 
 ### [ The Court of Arbitration for Sport upholds a two year ban against cyclist Floyd Landis meaning that he will lose his 2006 Tour de France title. ](/news/2008/06/30/the-court-of-arbitration-for-sport-upholds-a-two-year-ban-against-cyclist-floyd-landis-meaning-that-he-will-lose-his-2006-tour-de-france-ti.md)
-_Context: Court of Arbitration for Sport, Floyd Landis, Tour de France, cycling_
+_Context: Court of Arbitration for Sport, Floyd Landis, Tour de France, cyclist_
 
 ### [ The African Union meets at Sharm el-Sheikh in Egypt with Robert Mugabe recently reelected as President of Zimbabwe representing Zimbabwe. ](/news/2008/06/30/the-african-union-meets-at-sharm-el-sheikh-in-egypt-with-robert-mugabe-recently-reelected-as-president-of-zimbabwe-representing-zimbabwe.md)
 _Context: African Union, Egypt, President of Zimbabwe, Robert Mugabe, Sharm el-Sheikh, Zimbabwe_

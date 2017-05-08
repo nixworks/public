@@ -4,7 +4,7 @@
 _Context: Michael Phelps, USA Swimming, marijuana_
 
 ### [ Muttiah Muralitharan of Sri Lanka's national cricket team becomes the highest wicket-taker in One Day Internationals with 503.  ](/news/2009/02/5/muttiah-muralitharan-of-sri-lanka-s-national-cricket-team-becomes-the-highest-wicket-taker-in-one-day-internationals-with-503.md)
-_Context: Muttiah Muralitharan, One Day International, Sri Lanka, Sri Lanka, wicket_
+_Context: Muttiah Muralitharan, One Day International, Sri Lanka, Sri Lanka cricket team, wicket_
 
 ### [ Russia, Belarus, Armenia, Kazakhstan, Kyrgyzstan, Tajikistan, and Uzbekistan agree to form a rapid reaction force based in the Federation. ](/news/2009/02/5/russia-belarus-armenia-kazakhstan-kyrgyzstan-tajikistan-and-uzbekistan-agree-to-form-a-rapid-reaction-force-based-in-the-federation.md)
 _Context: Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia, Tajikistan, Uzbekistan, rapid reaction force_

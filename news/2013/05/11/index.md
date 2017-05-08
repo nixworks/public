@@ -30,11 +30,5 @@ Nawaz Sharif tells his supporters that voters have handed him a landmark third t
 ### [Canadian Senator and former Conservative  Party campaign director Doug Finley dies of cancer. ](/news/2013/05/11/canadian-senator-and-former-conservative-party-campaign-director-doug-finley-dies-of-cancer.md)
 Sen. Doug Finley, husband to Minister of Human Resources Diane Finley, has died after a battle with colorectal cancer. He was 66.
 
-### [In NASCAR, American Matt Kenseth wins the 2013 Bojangles' Southern 500 at the Darlington Raceway. ](/news/2013/05/11/in-nascar-american-matt-kenseth-wins-the-2013-bojangles-southern-500-at-the-darlington-raceway.md)
-Matt Kenseth snatched the lead from Joe Gibbs Racing teammate Kyle Busch with 13 laps remaining Saturday night and cruised to a victory in the Bojangles&#39; Southern 500 at Darlington Raceway.
-
-### [Association football:In England, Wigan Athletic, playing in their first FA Cup Final, defeat Manchester City with a last minute goal by Ben Watson at Wembley Stadium. ](/news/2013/05/11/association-football-pin-england-wigan-athletic-playing-in-their-first-fa-cup-final-defeat-manchester-city-with-a-last-minute-goal-by-ben.md)
-Record-breaking champions Bayern Munich officially lifted their 22nd Bundesliga trophy on Saturday after a comfortable 3-0 over Augsburg as they prepare for the all-German Champions League final against Borussia Dortmund in two weeks.
-
 ## [Previous Day...](/news/2013/05/10/index.md)
 

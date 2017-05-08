@@ -10,7 +10,7 @@ At least 156 people were killed and more than 800 injured in by far the worst in
 _Context: South Africa_
 
 ### [ Egyptians mourn the death of Marwa El-Sherbini, called the "hijab martyr" after she was killed in a German courtroom by a man convicted of insulting her religion. ](/news/2009/07/6/egyptians-mourn-the-death-of-marwa-el-sherbini-called-the-hijab-martyr-after-she-was-killed-in-a-german-courtroom-by-a-man-convicted-of.md)
-_Context: Egyptians, Germany, Hijab, Marwa El-Sherbini_
+_Context: Egyptians, German, Hijab, Marwa El-Sherbini_
 
 ### [ Burundi and Rwanda join the East African Community Customs Union. ](/news/2009/07/6/burundi-and-rwanda-join-the-east-african-community-customs-union.md)
 _Context: Burundi, East African Community, Rwanda_
@@ -46,7 +46,7 @@ _Context: European Union, Javier Solana_
 _Context: Bulgarian parliamentary elections, GERB_
 
 ### [ Three gunmen open fire at a house in Miami, Florida, United States, killing one person and wounding eleven others. ](/news/2009/07/6/three-gunmen-open-fire-at-a-house-in-miami-florida-united-states-killing-one-person-and-wounding-eleven-others.md)
-_Context: FL, Miami, U.S., shooting_
+_Context: Florida, Miami, United States, shooting_
 
 ### [ Iran says it will hold the US responsible for any Israeli attack against their country, in response to US Vice President Joe Biden's claim that the US will not interfere in an Israeli attack on Iranian nuclear facilities. ](/news/2009/07/6/iran-says-it-will-hold-the-us-responsible-for-any-israeli-attack-against-their-country-in-response-to-us-vice-president-joe-biden-s-claim.md)
 US vice-president Joe Biden says Iran nuclear issue for Israel to decide how to fix.

@@ -13,7 +13,7 @@ _Context: Doha round of negotiations, G33, Indonesia, World Trade Organisation, 
 The second test launch of the privately-built Falcon 1 rocket failed to reach its intended orbit late Tuesday, nearly one year to the day of the booster’s ill-fated spaceflight debut. 
 
 ### [ Jamaican police announce investigation into the death of former Pakistan cricket coach Bob Woolmer with suspicions that it was murder. ](/news/2007/03/20/jamaican-police-announce-investigation-into-the-death-of-former-pakistan-cricket-coach-bob-woolmer-with-suspicions-that-it-was-murder.md)
-_Context: Bob Woolmer, Cricket, Jamaica, Pakistan, murder_
+_Context: Bob Woolmer, Jamaica, Pakistan, cricketer, murder_
 
 ### [ Local tribesmen and Uzbek militants clash in South Waziristan, Pakistan, leaving at least 46 people dead. ](/news/2007/03/20/local-tribesmen-and-uzbek-militants-clash-in-south-waziristan-pakistan-leaving-at-least-46-people-dead.md)
 _Context: Pakistan, South Waziristan, Uzbek_
@@ -43,7 +43,7 @@ _Context: Krasnodar Krai, Russia, fire, nursing home_
 _Context: Baath Party, Baghdad, Dujail, Iraq, Taha Yassin Ramadan, Vice President, most-wanted Iraqi playing cards_
 
 ### [ The wife of Sami Al-Arian, a former university professor convicted by a United States district court of funneling money to Islamic Jihad, fears for his life as his hunger strike to protest his imprisonment enters its 58th day. ](/news/2007/03/20/the-wife-of-sami-al-arian-a-former-university-professor-convicted-by-a-united-states-district-court-of-funneling-money-to-islamic-jihad-f.md)
-_Context: Islamic Jihad Movement in Palestine, Sami Al-Arian, U.S., U.S. federal court, hunger strike_
+_Context: Islamic Jihad Movement in Palestine, Sami Al-Arian, U.S. federal court, United States, hunger strike_
 
 ## [Previous Day...](/news/2007/03/19/index.md)
 

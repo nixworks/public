@@ -33,17 +33,5 @@ Hundreds of thousands of North Korean soldiers and civilians have rallied in the
 ### [Avigdor Lieberman resigns as the Israeli Foreign Affairs Minister  and as Deputy Prime Minister following an indictment for fraud. ](/news/2012/12/14/avigdor-lieberman-resigns-as-the-israeli-foreign-affairs-minister-and-as-deputy-prime-minister-following-an-indictment-for-fraud.md)
 Israeli Foreign Minister Avigdor Lieberman resigns after prosecutors decide to charge him with breach of trust.
 
-### [FIFA announces Moscow's Luzhniki Stadium will stage both the opening match and the final at the 2018 FIFA World Cup. Also FIFA chooses four cities for the 2017 FIFA Confederations Cup that will take place in the Russian cities of Moscow, Saint Petersburg, Kazan and Sochi. ](/news/2012/12/14/fifa-announces-moscow-s-luzhniki-stadium-will-stage-both-the-opening-match-and-the-final-at-the-2018-fifa-world-cup-also-fifa-chooses-four.md)
-_Context: 2017 FIFA Confederations Cup, 2018, FIFA, Kazan, Luzhniki Stadium, Moscow, Russia, Saint Petersburg, Sochi_
-
-### [The 2014 Tour de France will start in the northeastern English county of Yorkshire. A third stage will be held in southern England with a finish in London before the race moves into France. ](/news/2012/12/14/the-2014-tour-de-france-will-start-in-the-northeastern-english-county-of-yorkshire-a-third-stage-will-be-held-in-southern-england-with-a-fi.md)
-Yorkshire will host the opening two stages of the 2014 Tour de France, bringing the race back to England seven years since it last visited it 2007
-
-### [Lionel Messi wins ''World Soccer'''s 2012 Player of the Year award ahead of Cristiano Ronaldo and Andres Iniesta. Vicente del Bosque is chosen as the Manager of the Year. ](/news/2012/12/14/lionel-messi-wins-world-soccer-s-2012-player-of-the-year-award-ahead-of-cristiano-ronaldo-and-andra-c-s-iniesta-vicente-del-bosque-is-cho.md)
-Brilliant Barcelona forward takes World Player prize for third time! Find out how the votes were shared out year&#039;s poll as well as discovering who won the Manager and Team awards.
-
-### [Australian surfer Joel Parkinson wins the 2012 ASP World Tour at the Billabong Pipeline Masters in Oahu, Hawaii. ](/news/2012/12/14/australian-surfer-joel-parkinson-wins-the-2012-asp-world-tour-at-the-billabong-pipeline-masters-in-oahu-hawaii.md)
-_Context: 2012 ASP World Tour, Australian, Billabong Pipeline Masters, Hawaii, Joel Parkinson, Oahu, surfer_
-
 ## [Previous Day...](/news/2012/12/13/index.md)
 

@@ -42,11 +42,5 @@ For almost 40 years, Rupert Murdoch’s newspaper has fought against European in
 ### [Hillary Clinton wins the Washington D.C. Democratic Party primary, the last scheduled primary on the party's schedule before the 2016 Democratic National Convention in late July. ](/news/2016/06/14/hillary-clinton-wins-the-washington-d-c-democratic-party-primary-the-last-scheduled-primary-on-the-party-s-schedule-before-the-2016-democr.md)
 The D.C. primary came more than a week after Clinton was declared the presumptive nominee of the Democratic Party.
 
-### [UEFA fines the Russian Football Union EUR150,000 (US$168,000) for the violence that broke out between Russian and English supporters in Marseille on June 11. UEFA also warned that any further misconduct will disqualify the Russian team. ](/news/2016/06/14/uefa-fines-the-russian-football-union-a-150-000-us-168-000-for-the-violence-that-broke-out-between-russian-and-english-supporters-in-mars.md)
-_Context: 2016 UEFA European Championship, Marseille, Russian Football Union, U.S. dollar, UEFA, violence_
-
-### [ In ice hockey, ESPN reports that the NHL will place an expansion team in Las Vegas, provided the team's backers can pay a US$500 million expansion fee. The team, which would enter the league no earlier than the 2017-18 season, would be the first major professional sports team in Las Vegas. The league's board of governors is scheduled to hold a formal vote on the expansion on June 22. ](/news/2016/06/14/in-ice-hockey-espn-reports-that-the-nhl-will-place-an-expansion-team-in-las-vegas-provided-the-team-s-backers-can-pay-a-us-500-million-ex.md)
-The NHL has settled on Las Vegas as its choice for expansion, provided organizers can come up with a $500 million fee.
-
 ## [Previous Day...](/news/2016/06/13/index.md)
 

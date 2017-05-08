@@ -16,7 +16,7 @@ Prime minister gambles on opposition support as Labour split deepens and Jeremy 
 Tests in Egypt were carried out after British archaeologist suggested Queen Nefertiti&#039;s tomb might be in an adjoining chamber.
 
 ### [A slow moving wintry storm system is responsible for more than a dozen deaths in the U.S. states of Texas, Oklahoma and Kansas. ](/news/2015/11/28/a-slow-moving-wintry-storm-system-is-responsible-for-more-than-a-dozen-deaths-in-the-u-s-states-of-texas-oklahoma-and-kansas.md)
-_Context: Kansas, Oklahoma!, Texas, U.S._
+_Context: Kansas, Oklahoma!, Texas, United States_
 
 ### [A day after Turkey's president Recep Tayyip Erdogan had harsh words for Russia, Turkish Prime Minister Ahmet Davutoglu, in an essay in the London ''Times'', says the downing of the Russian jet,  "was not -- and is not -- an act against a specific country. ... While the measures to defend our territory will remain in place, Turkey will work with Russia and our allies to calm tensions." ](/news/2015/11/28/a-day-after-turkey-s-president-recep-tayyip-erdoaan-had-harsh-words-for-russia-turkish-prime-minister-ahmet-davutoalu-in-an-essay-in-the.md)
 The downing of an unidentified jet in Turkish airspace was not — and is not — an act against a specific country. Turkey took action, based on standing rules of engagement, to protect the integrity...
@@ -38,12 +38,6 @@ International Court of Justice ruled last year that Japanese whaling must stop, 
 
 ### [The United Kingdom's Minister of State for International Development, Grant Shapps, resigns amid claims he failed to act on allegations of in-party bullying of a young Conservative Party activist who committed suicide in September. ](/news/2015/11/28/the-united-kingdom-s-minister-of-state-for-international-development-grant-shapps-resigns-amid-claims-he-failed-to-act-on-allegations-of-i.md)
 Grant Shapps quits as a minister amid claims he failed to act on allegations of bullying in the Tory youth wing, saying the &quot;buck should stop with me&quot;.
-
-### [Tyson Fury of the United Kingdom defeats Ukrainian boxer Wladimir Klitschko in a title fight in Dusseldorf winning the WBA Super, IBF and WBO heavyweight titles. ](/news/2015/11/28/tyson-fury-of-the-united-kingdom-defeats-ukrainian-boxer-wladimir-klitschko-in-a-title-fight-in-dusseldorf-winning-the-wba-super-ibf-and-wb.md)
-_Context: Dsseldorf, Tyson Fury, Ukrainian, United Kingdom, Wladimir Klitschko, heavyweight_
-
-### [Leicester City's Jamie Vardy scores in a record eleven consecutive Premier League matches after scoring against Manchester United in a 1-1 draw at the King Power Stadium, breaking former Manchester United player Ruud van Nistelrooy's record. ](/news/2015/11/28/leicester-city-s-jamie-vardy-scores-in-a-record-eleven-consecutive-premier-league-matches-after-scoring-against-manchester-united-in-a-1-1-d.md)
-_Context: 2015-16 Premier League, Jamie Vardy, King Power Stadium, Leicester City F.C., Manchester United, Ruud van Nistelrooy_
 
 ## [Previous Day...](/news/2015/11/27/index.md)
 

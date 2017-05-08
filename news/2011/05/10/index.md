@@ -90,11 +90,5 @@ _Context: Governor of Indiana, Indiana, Mitch Daniels , Planned Parenthood, abor
 ### [Voters in Qatar go to the polls for municipal elections, with women allowed to vote for the first time. ](/news/2011/05/10/voters-in-qatar-go-to-the-polls-for-municipal-elections-with-women-allowed-to-vote-for-the-first-time.md)
 _Context: Qatar, municipal elections_
 
-### [Former Football Association chairman David Triesman alleges that four members of FIFA sought "bribes" in return for backing England's failed bid to host the 2018 World Cup. ](/news/2011/05/10/former-football-association-chairman-david-triesman-alleges-that-four-members-of-fifa-sought-bribes-in-return-for-backing-england-s-failed.md)
-_Context: 2018, David Triesman, FIFA, The Football Association_
-
-### [The Minnesota Vikings NFL team and Ramsey County announce plans to build a $1.2 billion stadium for the team at Arden Hills. ](/news/2011/05/10/the-minnesota-vikings-nfl-team-and-ramsey-county-announce-plans-to-build-a-1-2-billion-stadium-for-the-team-at-arden-hills.md)
-Billion-dollar plan faces obstacles at the Legislature. Money needed for major road improvements could be a problem.
-
 ## [Previous Day...](/news/2011/05/9/index.md)
 

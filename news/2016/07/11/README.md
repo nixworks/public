@@ -36,11 +36,5 @@ Rolling coverage of the day’s political developments as they happen, including
 ### [The former Shadow Leader of the House of Commons Angela Eagle formally announces her bid to become the new leader of the Labour Party after Jeremy Corbyn refused calls to resign. ](/news/2016/07/11/the-former-shadow-leader-of-the-house-of-commons-angela-eagle-formally-announces-her-bid-to-become-the-new-leader-of-the-labour-party-after.md)
 Angela Eagle has pledged to unite her party and the country as she formally announced her challenge to replace Jeremy Corbyn as Labour leader. Describing herself as a &quot;practical socialist&quot;, she said: &quot;I&amp;#39;m not a Blairite, I&amp;#39;m not a Brownite and I&amp;#39;m not a Corbynista. I am my own woman.&quot; Ms Eagle said the country faced &quot;dark times&quot; after leaving the European Union and said: &quot;Jeremy Corbyn is unable to provide the leadership this huge task needs. I believe I can.&quot; 
 
-### [The Ultimate Fighting Championship Mixed Martial Arts competition is sold to a consortium led by Hollywood talent agents WME-IMG. ](/news/2016/07/11/the-ultimate-fighting-championship-mixed-martial-arts-competition-is-sold-to-a-consortium-led-by-hollywood-talent-agents-wme-img.md)
-LOS ANGELES (AP) — In less than 16 years, the UFC has grown from a money-losing company in a widely reviled sport into a global entertainment property worth $4 billion. While the UFC and its new owners figure out the company&#039;s…
-
-### [ In basketball, Tim Duncan, who played his entire 19-season NBA career with the San Antonio Spurs, where he won five NBA titles and two MVP awards, made 15 All-Star appearances and made the All-NBA first team 10 times, announces his retirement. ](/news/2016/07/11/in-basketball-tim-duncan-who-played-his-entire-19-season-nba-career-with-the-san-antonio-spurs-where-he-won-five-nba-titles-and-two-mvp.md)
-Tim Duncan, who turned 40 in April, announced Monday that he is retiring from the NBA after 19 seasons with the San Antonio Spurs.
-
 ## [Previous Day...](/news/2016/07/10/index.md)
 

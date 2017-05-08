@@ -33,8 +33,5 @@ _Context: Obama, President, U.S. Congressional, joint session of Congress_
 ### [Former President of Vietnam Vo Chi Cong dies in Ho Chi Minh City at the age of 99. ](/news/2011/09/8/former-president-of-vietnam-vo-chi-cong-dies-in-ho-chi-minh-city-at-the-age-of-99.md)
 _Context: Ho Chi Minh City, President of Vietnam, Vo Chi Cong_
 
-### [In American football, the 2011 NFL season begins, with the Green Bay Packers playing the New Orleans Saints at Lambeau Field in Green Bay, Wisconsin with the Packers winning a shootout 42-34. ](/news/2011/09/8/in-american-football-the-2011-nfl-season-begins-with-the-green-bay-packers-playing-the-new-orleans-saints-at-lambeau-field-in-green-bay-w.md)
-The National Football League (NFL) season gets underway with a bang on Thursday as the past two Super Bowl champions, the Green Bay Packers and the New Orleans Saints, go head-to-head at a packed Lambeau Field.
-
 ## [Previous Day...](/news/2011/09/7/index.md)
 

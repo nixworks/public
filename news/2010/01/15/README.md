@@ -4,7 +4,7 @@
 _Context: Americas, Fiji, Johnson & Johnson, Motrin, Rolaids, Tylenol, United Arab Emirates_
 
 ### [President Faure Gnassingb and national team captain Emmanuel Adebayor are among dignitaries to attend a funeral ceremony held in Lom for the two football officials killed during the Togo national football team attack in Angola. ](/news/2010/01/15/president-faure-gnassingbe-and-national-team-captain-emmanuel-adebayor-are-among-dignitaries-to-attend-a-funeral-ceremony-held-in-lome-for-t.md)
-_Context: Angola, Emmanuel Adebayor, Faure Gnassingb, Lom, President, Togo, Togo national football team attack, captain_
+_Context: Angola, Emmanuel Adebayor, Faure Gnassingb, Lom, President, Togo national football team, Togo national football team attack, captain_
 
 ### [At least five people die and dozens are injured in Nairobi, Kenya, when police clash with protesters demanding the release of Jamaican Muslim cleric Abdullah al-Faisal. ](/news/2010/01/15/at-least-five-people-die-and-dozens-are-injured-in-nairobi-kenya-when-police-clash-with-protesters-demanding-the-release-of-jamaican-musli.md)
 _Context: Abdullah al-Faisal, Jamaica, Kenya, Muslim, Nairobi_

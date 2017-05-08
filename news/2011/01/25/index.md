@@ -13,10 +13,10 @@ A woman injured in the powerful bomb explosion in a bus in the Philippine capita
 A Rwandan rebel leader is extradited from France to The Hague, as his group is accused of attacking a Congolese wildlife park.
 
 ### [Somali pirates hijack a German cargo ship. ](/news/2011/01/25/somali-pirates-hijack-a-german-cargo-ship.md)
-_Context: Germany, Somali pirates_
+_Context: German, Somali pirates_
 
 ### [Gunmen open fire on a crowd at a soccer game in Ciudad Juarez, Mexico, killing seven people.](/news/2011/01/25/gunmen-open-fire-on-a-crowd-at-a-soccer-game-in-ciudad-juarez-mexico-killing-seven-people.md)
-_Context: Juarez, Mexico, football_
+_Context: Juarez, Mexico, soccer_
 
 ### [Insurgents kill nine civilians and injure two others in a bombing in southern Thailand. ](/news/2011/01/25/insurgents-kill-nine-civilians-and-injure-two-others-in-a-bombing-in-southern-thailand.md)
 _Context: South Thailand insurgency, Thailand_

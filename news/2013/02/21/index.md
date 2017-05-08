@@ -19,7 +19,7 @@ _Context: Ally Financial, Bank of America, Citigroup, JPMorgan Chase, United Sta
 A major winter storm in the US Midwest that is already blamed for two deaths blankets several states in up to 17in (43cm) of snow.
 
 ### [A car crash and shooting occurs at the Las Vegas Strip in Paradise, Nevada, United States. Three people are dead, and six others are wounded. ](/news/2013/02/21/a-car-crash-and-shooting-occurs-at-the-las-vegas-strip-in-paradise-nevada-united-states-three-people-are-dead-and-six-others-are-wounded.md)
-_Context: Las Vegas, Nevada, Nevada, Paradise, Nevada, U.S., shooting_
+_Context: Las Vegas Strip, Nevada, Paradise, Nevada, United States, shooting_
 
 ### [Three young girls are kidnapped, raped, and killed in the Bhandara district of India. ](/news/2013/02/21/three-young-girls-are-kidnapped-raped-and-killed-in-the-bhandara-district-of-india.md)
 _Context: Bhandara district, India_
@@ -38,15 +38,6 @@ A pyramid that dates back more than 3000 years and was built for an adviser to K
 
 ### [A study finds that bumblebees can sense electric fields around flowers. ](/news/2013/02/21/a-study-finds-that-bumblebees-can-sense-electric-fields-around-flowers.md)
 _Context: bumblebee, electric field, flower_
-
-### [The second legs of the 2012-13 UEFA Europa League round of 32 are held across Europe. Among the football teams eliminated are titleholders Atletico Madrid, Ajax (in the first ever penalty shootout in the knockout phase of the competition) and European giants Liverpool, while both London sides left, Tottenham and Chelsea, advance into the last 16. ](/news/2013/02/21/the-second-legs-of-the-2012a13-uefa-europa-league-round-of-32-are-held-across-europe-among-the-football-teams-eliminated-are-titleholders.md)
-While Chelsea FC and Tottenham Hotspur FC struck at the death, Liverpool FC and holders Club Atl&#233;tico de Madrid fell just short and AFC Ajax went out in historic fashion.
-
-### [29-year-old superheavyweight amateur boxer Jerimiah Moen dies in the hospital after his fight during Upper Midwest Golden Gloves tournament  in East Grand Forks, Minnesota, United States. ](/news/2013/02/21/29-year-old-superheavyweight-amateur-boxer-jerimiah-moen-dies-in-the-hospital-after-his-fight-during-upper-midwest-golden-gloves-tournament.md)
-Jerimiah &quot;J.J.&quot; Moen, a 29-year-old super-heavyweight, collapsed and lost consciousness seconds after the opening round in the first ring death in Minnesota in nearly 20 years and probably the second boxing match fatality in state history.
-
-### [The 2013 FIS Nordic World Ski Championships begin today in Val di Fiemme, Italy, with men's and women's sprint in cross-country skiing. ](/news/2013/02/21/the-2013-fis-nordic-world-ski-championships-begin-today-in-val-di-fiemme-italy-with-men-s-and-women-s-sprint-in-cross-country-skiing.md)
-FIS-Ski - International Ski Federation
 
 ## [Previous Day...](/news/2013/02/20/index.md)
 

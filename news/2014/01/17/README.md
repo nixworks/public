@@ -51,8 +51,5 @@ US lawyers are to challenge the drugs used in executions in Ohio after a murdere
 ### [Two students, a male and a female in stable condition, are each shot in the arm by an at-large gunman, who may be a student, at Philadelphia, Pennsylvania's Delaware Valley Charter School high school. ](/news/2014/01/17/two-students-a-male-and-a-female-in-stable-condition-are-each-shot-in-the-arm-by-an-at-large-gunman-who-may-be-a-student-at-philadelphia.md)
 _Context: Delaware Valley Charter School, Pennsylvania, Philadelphia_
 
-### [Vladimir Putin cautions gay people should not "spread gay propaganda" when visiting the host city of Sochi. ](/news/2014/01/17/vladimir-putin-cautions-gay-people-should-not-spread-gay-propaganda-when-visiting-the-host-city-of-sochi.md)
-Russian President Vladimir Putin says homosexuals will be welcome in Sochi for the Olympics but warns them against spreading &quot;gay propaganda&quot;.
-
 ## [Previous Day...](/news/2014/01/16/index.md)
 

@@ -25,7 +25,7 @@ _Context: African Renaissance Monument, Dakar, Senegal, Statue of Liberty_
 _Context: Bangkok, Thailand, red shirt_
 
 ### [Cambridge Boat Club defeats Oxford Boat Club to win the 156th University Boat Race in London, England. ](/news/2010/04/3/cambridge-boat-club-defeats-oxford-boat-club-to-win-the-156th-university-boat-race-in-london-england.md)
-_Context: Boat Race, Cambridge Boat Club, England, London, Oxford Boat Club_
+_Context: 156th University Boat Race, Cambridge Boat Club, England, London, Oxford Boat Club_
 
 ### [ Apple released the iPad in the United States.](/news/2010/04/3/apple-released-the-ipad-in-the-united-states.md)
 _Context: Apple Inc., iPad_

@@ -25,7 +25,7 @@ The Pentagon will deploy more missile interceptors on the Pacific Coast to count
 A group of eight men have allegedly raped a 39-year-old Swiss tourist and assaulted her husband in the central Indian state of Madhya Pradesh.
 
 ### [Seven people are shot and wounded at a family gathering in an apparent gang-related drive-by shooting in Galt, California, United States. ](/news/2013/03/16/seven-people-are-shot-and-wounded-at-a-family-gathering-in-an-apparent-gang-related-drive-by-shooting-in-galt-california-united-states.md)
-_Context: California, Galt, U.S., drive-by shooting_
+_Context: California, Galt, United States, drive-by shooting_
 
 ### [Voters in Zimbabwe go to the polls to vote on a new constitution with both major parties Zanu-PF and Movement for Democratic Change&nbsp;- Tsvangirai supporting the new constitution. ](/news/2013/03/16/voters-in-zimbabwe-go-to-the-polls-to-vote-on-a-new-constitution-with-both-major-parties-zanu-pf-and-movement-for-democratic-change-nbsp-a.md)
 Zimbabweans have been voting in a key referendum on a new constitution that would limit future presidents to two terms in office.
@@ -38,12 +38,6 @@ Pope Francis says he wants a &quot;poor Church for the poor&quot; as he confirms
 
 ### [Soyuz TMA-06M: Three astronauts return safely to Earth from the International Space Station aboard a Russian capsule. ](/news/2013/03/16/soyuz-tma-06m-three-astronauts-return-safely-to-earth-from-the-international-space-station-aboard-a-russian-capsule.md)
 _Context: Earth, International Space Station, Russia, Soyuz TMA-06M, astronauts_
-
-### [In rugby union:Wales defeat England 30-3 in Cardiff to win the 2013 Six Nations Championship. ](/news/2013/03/16/in-rugby-union-pwales-defeat-england-30a3-in-cardiff-to-win-the-2013-six-nations-championship.md)
-England are left without an answer to Wales at the Millennium Stadium, as the home team display a stunning win.
-
-### [In figure skating, Kim Yuna of South Korea wins the Ladies Championship at the 2013 World Figure Skating Championships. ](/news/2013/03/16/in-figure-skating-kim-yuna-of-south-korea-wins-the-ladies-championship-at-the-2013-world-figure-skating-championships.md)
-_Context: 2013 World Figure Skating Championships, Kim Yuna, South Korea, figure skater_
 
 ## [Previous Day...](/news/2013/03/15/index.md)
 

@@ -24,17 +24,5 @@ _Context: Mayor, Mohammad Bagher Ghalibaf, reelected_
 ### [The President of Pakistan, Asif Ali Zardari has a farewell ceremony after the completion of his five year term. He will be replaced by Mamnoon Hussain. ](/news/2013/09/8/the-president-of-pakistan-asif-ali-zardari-has-a-farewell-ceremony-after-the-completion-of-his-five-year-term-he-will-be-replaced-by-mamno.md)
 _Context: Asif Ali Zardari, Mamnoon Hussain, President_
 
-### [In hurling, Clare (0-25) and Cork (3-16) draw in the Championship Final, marking the second straight time that the Final has been drawn. ](/news/2013/09/8/in-hurling-clare-0-25-and-cork-3-16-draw-in-the-championship-final-marking-the-second-straight-time-that-the-final-has-been-drawn.md)
-_Context: Championship Final, Clare, Cork, hurling_
-
-### [The International Olympic Committee votes to reinstate wrestling as an Olympic sport at the 2020 Summer Olympics in Tokyo. ](/news/2013/09/8/the-international-olympic-committee-votes-to-reinstate-wrestling-as-an-olympic-sport-at-the-2020-summer-olympics-in-tokyo.md)
-Wrestling has regained its place in the 2020 Tokyo Olympics after beating out squash and a combined baseball-softball bid
-
-### [In Formula One, Sebastian Vettel wins the 2013 Italian Grand Prix for Red Bull Racing.](/news/2013/09/8/in-formula-one-sebastian-vettel-wins-the-2013-italian-grand-prix-for-red-bull-racing.md)
-_Context: 2013 Italian Grand Prix, Formula One, Red Bull Racing, Sebastian Vettel_
-
-### [American tennis player Serena Williams wins her fifth Women's Singles at the US Open over Victoria Azarenka. ](/news/2013/09/8/american-tennis-player-serena-williams-wins-her-fifth-women-s-singles-at-the-us-open-over-victoria-azarenka.md)
-_Context: Serena Williams, US Open, Victoria Azarenka, Women's Singles_
-
 ## [Previous Day...](/news/2013/09/7/index.md)
 

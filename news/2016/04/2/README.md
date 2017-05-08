@@ -57,14 +57,5 @@ Voters in Guam may finally get the chance to vote on the territory&#39;s politic
 ### [Aftermath of the Police in Brussels, Belgium arrest multiple right-wing and anti-racist protesters, with riot squads engaged in a tense confrontation with local youths in the district of Sint-Jans-Molenbeek. A standoff grew when far-right protesters faced a counter-demonstration, despite protests being banned by local authorities who were fearful of last Sunday's event, in which police forcefully dispersed a right-wing protest with water cannons. ](/news/2016/04/2/aftermath-of-the-police-in-brussels-belgium-arrest-multiple-right-wing-and-anti-racist-protesters-with-riot-squads-engaged-in-a-tense-conf.md)
 Belgian police made a series of arrests of right-wing and anti-racist protesters in Brussels on Saturday, and riot squads engaged in a tense confrontation with local youths in the district of Molenbeek.
 
-### [2016 World Figure Skating Championships Spanish figure skater Javier Fernandez defends his world title after making a stunning comeback from behind Japanese figure skater Yuzuru Hanyu, who was ahead by 12 points, to win gold. ](/news/2016/04/2/2016-world-figure-skating-championships-pspanish-figure-skater-javier-ferna-ndez-defends-his-world-title-after-making-a-stunning-comeback-fr.md)
-Bryan Armen Graham: Javier Fernandez delivered one of the greatest long programs in figure skating history to complete a dramatic comeback at worlds
-
-### [In basketball, the visiting Boston Celtics defeat the Golden State Warriors, snapping the Warrior's 14-month, 54-game home win streak which leaves the San Antonio Spurs with the only undefeated home record this season. ](/news/2016/04/2/in-basketball-the-visiting-boston-celtics-defeat-the-golden-state-warriors-snapping-the-warrior-s-14-month-54-game-home-win-streak-which.md)
-With an incredible performance, the Celtics handed Golden State their first home loss all season.
-
-### [In the U.S. men's national college basketball tournament semifinals in Houston's NRG Stadium, the Villanova Wildcats thrash the Oklahoma Sooners 95-51, the most lopsided result in men's Final Four history; and in a battle between Atlantic Coast Conference members, the North Carolina Tar Heels defeat the Syracuse Orange 83-66. The title game on April 4 pits the Wildcats, 1985 champions, and the five-time champion Tar Heels. ](/news/2016/04/2/in-the-u-s-men-s-national-college-basketball-tournament-semifinals-in-houston-s-nrg-stadium-the-villanova-wildcats-thrash-the-oklahoma-soo.md)
-Villanova put together one of the most dominating performances we saw all season long.
-
 ## [Previous Day...](/news/2016/04/1/index.md)
 

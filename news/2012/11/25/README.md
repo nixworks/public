@@ -39,17 +39,5 @@ President Aziz returned after five weeks in France for medical treatment followi
 ### [Basque separatist group ETA has reportedly indicated a readiness to disband, give up its weapons and enter talks with the governments of France and Spain. ](/news/2012/11/25/basque-separatist-group-eta-has-reportedly-indicated-a-readiness-to-disband-give-up-its-weapons-and-enter-talks-with-the-governments-of-fra.md)
 Basque separatist group Eta says it is ready to disband, give up its weapons and enter talks with the French and Spanish governments.
 
-### [In Formula One, Sebastian Vettel wins the 2012 Championship for the third consecutive year with sixth place in the Brazilian GP, which was won by Jenson Button. ](/news/2012/11/25/in-formula-one-sebastian-vettel-wins-the-2012-championship-for-the-third-consecutive-year-with-sixth-place-in-the-brazilian-gp-which-was-w.md)
-_Context: 2012 Championship, Brazilian GP, Formula One, Jenson Button, Sebastian Vettel, third consecutive year_
-
-### [English professional boxer Ricky Hatton loses to Ukrainian Vyacheslav Senchenko in his comeback fight at the Manchester Arena. Ricky announces his retirement at the press conference after the fight. ](/news/2012/11/25/english-professional-boxer-ricky-hatton-loses-to-ukrainian-vyacheslav-senchenko-in-his-comeback-fight-at-the-manchester-arena-ricky-announc.md)
-_Context: English, Manchester Arena, Ricky Hatton, Ukrainian, Vyacheslav Senchenko, boxing, comeback, press conference_
-
-### [Spanish manager Unai Emery is fired as coach of FC Spartak Moscow after a loss 1-5 to FC Dynamo Moscow in a 2012-13 Russian Premier League local derby and elimination from 2012-13 UEFA Champions League. ](/news/2012/11/25/spanish-manager-unai-emery-is-fired-as-coach-of-fc-spartak-moscow-after-a-loss-1-5-to-fc-dynamo-moscow-in-a-2012a13-russian-premier-league.md)
-Spartak Moscow have sacked coach Unai Emery after just six months following their thrashing at the hands of rivals Dinamo Moscow
-
-### [In Canadian football, the Toronto Argonauts win the 100th Grey Cup defeating the Calgary Stampeders 35-22. ](/news/2012/11/25/in-canadian-football-the-toronto-argonauts-win-the-100th-grey-cup-defeating-the-calgary-stampeders-35-22.md)
-_Context: 100th Grey Cup, Calgary Stampeders, Canadian football, Toronto Argonauts_
-
 ## [Previous Day...](/news/2012/11/24/index.md)
 

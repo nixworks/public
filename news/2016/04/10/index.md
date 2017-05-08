@@ -19,7 +19,7 @@ A magnitude 6.6 earthquake centred in Afghanistan shakes major cities across sou
 John Kerry says US is prepared to address Iran’s concerns if it halts missile launches, as Iran official suggests US allies are providing arms to Isis
 
 ### [German Justice Minister Heiko Maas, during a newspaper interview, appeals to media to hand over "Panama Papers" data that will help governments around the globe that already have started investigating possible financial wrongdoing by the world's rich and powerful. ](/news/2016/04/10/german-justice-minister-heiko-maas-during-a-newspaper-interview-appeals-to-media-to-hand-over-panama-papers-data-that-will-help-governme.md)
-_Context: Germany, Heiko Maas, Justice Minister, Panama Papers, investigating possible financial wrongdoing_
+_Context: German, Heiko Maas, Justice Minister, Panama Papers, investigating possible financial wrongdoing_
 
 ### [Welsh drug smuggler turned author Howard Marks dies at age 70, after suffering from cancer for more than one year. ](/news/2016/04/10/welsh-drug-smuggler-turned-author-howard-marks-dies-at-age-70-after-suffering-from-cancer-for-more-than-one-year.md)
 Former drug smuggler turned author Howard Marks has died at the age of 70.
@@ -44,12 +44,6 @@ _Context: David Cameron, European Union membership referendum, Panama Papers, Pr
 
 ### [The World Wildlife Fund reports global populations of tigers, an endangered species,  are up about 20 percent over the past six years.  This increase in tiger numbers, after declining for a century, was primarily in India, Russia, Nepal, and Bhutan. The third Asian Ministerial Conference on Tiger Conservation starts Monday in New Delhi, India.  ](/news/2016/04/10/the-world-wildlife-fund-reports-global-populations-of-tigers-an-endangered-species-are-up-about-20-percent-over-the-past-six-years-this.md)
 The increase in tiger numbers is primarily seen in India, Russia, Nepal and Bhutan.
-
-### [In golf, Danny Willett of England wins the 2016 Masters Tournament at the Augusta National Golf Club. ](/news/2016/04/10/in-golf-danny-willett-of-england-wins-the-2016-masters-tournament-at-the-augusta-national-golf-club.md)
-Golf, b----- hell, as my colleague, Charlie Eccleshare, just opined but without the Govan accent.
-
-### [The Golden State Warriors, with today's win at San Antonio, tie the 1995-96 Chicago Bulls NBA regular season record with their 72nd win this season. The Warriors can still break the record; on Wednesday, they host the Memphis Grizzlies in their final regular season game. ](/news/2016/04/10/the-golden-state-warriors-with-today-s-win-at-san-antonio-tie-the-1995a96-chicago-bulls-nba-regular-season-record-with-their-72nd-win-th.md)
-The Warriors have a chance to break the record when they play the Memphis Grizzlies on Wednesday, April 13.
 
 ## [Previous Day...](/news/2016/04/9/index.md)
 

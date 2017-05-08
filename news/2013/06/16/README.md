@@ -53,14 +53,5 @@ PRAGUE - Czech Prime Minister Petr Necas says he will resign because a top aide 
 ### [Pope Francis blesses thousands of Harley Davidson motorcycle enthusiasts on the company's 110th anniversary. ](/news/2013/06/16/pope-francis-blesses-thousands-of-harley-davidson-motorcycle-enthusiasts-on-the-company-s-110th-anniversary.md)
 _Context: Harley Davidson, Pope Francis_
 
-### [In golf, Justin Rose of England wins the 2013 U.S. Open. ](/news/2013/06/16/in-golf-justin-rose-of-england-wins-the-2013-u-s-open.md)
-Justin Rose of England has won the the US Open from perennial runner-up Phil Mickelson and Australia&#039;s Jason Day.
-
-### [In motorsport, Greg Biffle wins the Quicken Loans 400 earning Ford its 1000th NASCAR victory. ](/news/2013/06/16/in-motorsport-greg-biffle-wins-the-quicken-loans-400-earning-ford-its-1000th-nascar-victory.md)
-Greg Biffle raced to his second straight Sprint Cup race at Michigan International Speedway, easily holding off Kevin Harvick after points leader Jimmie Johnson smacked the wall in the final laps Sunday.
-
-### [In tennis, Roger Federer wins the Gerry Weber Open for his 77th career victory and first in 10 months. ](/news/2013/06/16/in-tennis-roger-federer-wins-the-gerry-weber-open-for-his-77th-career-victory-and-first-in-10-months.md)
-_Context: Gerry Weber Open, Roger Federer_
-
 ## [Previous Day...](/news/2013/06/15/index.md)
 

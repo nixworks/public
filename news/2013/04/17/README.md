@@ -1,7 +1,7 @@
 ## [2013-04-17](/news/2013/04/17/index.md)
 
 ### [War in North-West Pakistan:A United States drone attack kills at least five people in the Pakistani city of Wana, located in the South Waziristan Agency. ](/news/2013/04/17/war-in-north-west-pakistan-pa-united-states-drone-attack-kills-at-least-five-people-in-the-pakistani-city-of-wana-located-in-the-south-wazi.md)
-_Context: Pakistan, South Waziristan, U.S., Wana, War in North-West Pakistan, drones launch_
+_Context: Pakistan, South Waziristan, United States, Wana, War in North-West Pakistan, drones launch_
 
 ### [Arab-Israeli conflict:Two rockets fired from Egypt's Sinai Peninsula hit the Israeli resort of Eilat, but land in open areas, causing no damage. Three more rockets hit open areas in neighboring Jordan. ](/news/2013/04/17/arabaisraeli-conflict-ptwo-rockets-fired-from-egypt-s-sinai-peninsula-hit-the-israeli-resort-of-eilat-but-land-in-open-areas-causing-no.md)
 _Context: Arab-Israeli conflict, Egypt, Eilat, Israel, Jordan, Sinai_
@@ -13,7 +13,7 @@ Sixteen people are injured in an explosion near the office of a political party 
 Images show a backpack and apparent fragments of a pressure cooker as bureau probes attack that left three people dead.
 
 ### [2013 ricin attacks:Further suspicious letters are found addressed to President Barack Obama and to members of the United States Senate. ](/news/2013/04/17/2013-ricin-attacks-pfurther-suspicious-letters-are-found-addressed-to-president-barack-obama-and-to-members-of-the-united-states-senate.md)
-_Context: 2013 ricin attacks, Obama, President, senators_
+_Context: 2013 ricin attacks, Obama, President, United States senators_
 
 ### [West Fertilizer Company explosion:An explosion at a fertilizer plant in the city of West, Texas, United States, kills 15 and injures more than 100 people and damages many nearby buildings, including residences, a nursing home, and a middle school. ](/news/2013/04/17/west-fertilizer-company-explosion-pan-explosion-at-a-fertilizer-plant-in-the-city-of-west-texas-united-states-kills-15-and-injures-more-t.md)
 Rescuers searched on Thursday for survivors in the rubble of homes destroyed by a fiery fertilizer plant explosion in a small rural Texas town, as authorities struggled to determine how many people had been killed.
@@ -46,16 +46,7 @@ _Context: Henrique Capriles, National Electoral Council, Venezuela, last month's
 A bill to legalise same-sex marriage has passed into law after its third reading in Parliament tonight, after months of emotional debate, parliamentary submissions, and passionate - New Zealand Herald
 
 ### [A proposal to tighten gun control in the United States fails in a Senate vote. ](/news/2013/04/17/a-proposal-to-tighten-gun-control-in-the-united-states-fails-in-a-senate-vote.md)
-_Context: Gun politics in the United States, U.S., senators_
-
-### [In horse racing, the owners and trainer Peter Moody announce the retirement of Australian Thoroughbred racehorse Black Caviar undefeated over 25 races, the second-most of all time. ](/news/2013/04/17/in-horse-racing-the-owners-and-trainer-peter-moody-announce-the-retirement-of-australian-thoroughbred-racehorse-black-caviar-undefeated-ove.md)
-Unbeaten Australian mare Black Caviar is to be retired after winning 25 consecutive races during a four-year career.
-
-### [In basketball, Brittney Griner, who was selected two days earlier by the Phoenix Mercury as the top overall pick in the 2013 WNBA Draft, comes out as lesbian. ](/news/2013/04/17/in-basketball-brittney-griner-who-was-selected-two-days-earlier-by-the-phoenix-mercury-as-the-top-overall-pick-in-the-2013-wnba-draft-com.md)
-Brittney Griner, the No. 1 pick in the WNBA draft, acknowledged Wednesday in interviews that she is gay.
-
-### [In ice hockey, Dynamo Moscow wins 2013 Gagarin Cup playoffs of the KHL defeating Traktor Chelyabinsk in sixth game with a 3-2 overtime win. ](/news/2013/04/17/in-ice-hockey-dynamo-moscow-wins-2013-gagarin-cup-playoffs-of-the-khl-defeating-traktor-chelyabinsk-in-sixth-game-with-a-3a2-overtime-win.md)
-_Context: 2013 Gagarin Cup playoffs, Dynamo Moscow, KHL, Traktor Chelyabinsk, ice hockey, overtime_
+_Context: Gun politics in the United States, United States, United States senators_
 
 ## [Previous Day...](/news/2013/04/16/index.md)
 

@@ -27,8 +27,5 @@ _Context: Ethiopia, Sudan, adultery, death penalty, gang rape_
 ### [A linguists professor from the University of Bedfordshire manages to decipher 10 of the words in the enigmatic Voynich manuscript. ](/news/2014/02/21/a-linguists-professor-from-the-university-of-bedfordshire-manages-to-decipher-10-of-the-words-in-the-enigmatic-voynich-manuscript.md)
 A Bedfordshire professor claims to have made a breakthrough in deciphering a mysterious manuscript written in an unknown language.
 
-### [Aogan O' Fearghail is elected as the 38th President of the GAA, and the first from Cavan in the organisation's 130-year history. ](/news/2014/02/21/aogan-o-fearghail-is-elected-as-the-38th-president-of-the-gaa-and-the-first-from-cavan-in-the-organisation-s-130-year-history.md)
-Aogán Ó Fearghaíl becomes the seventh Ulster man to be GAA president after being elected at congress on Friday night.
-
 ## [Previous Day...](/news/2014/02/20/index.md)
 

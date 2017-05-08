@@ -39,8 +39,5 @@ The family of murdered teenager Milly Dowler say they paid &quot;too high a pric
 ### [The New York Senate votes to legalise same-sex marriage in New York, assuring passage of the legislation and making New York the largest state to approve such legislation since California reversed its legalization in 2008. ](/news/2011/06/24/the-new-york-senate-votes-to-legalise-same-sex-marriage-in-new-york-assuring-passage-of-the-legislation-and-making-new-york-the-largest-sta.md)
 The vote assures adoption of the measure, making New York the largest state to permit such unions.
 
-### [Applications begin for second chance tickets for the 2012 Summer Olympics in London, England. ](/news/2011/06/24/applications-begin-for-second-chance-tickets-for-the-2012-summer-olympics-in-london-england.md)
-Over one million people who failed to secure a ticket to the London 2012 Olympics in the first round of sales have the chance to purchase the remaining 2.3 million tickets from this morning.
-
 ## [Previous Day...](/news/2011/06/23/index.md)
 

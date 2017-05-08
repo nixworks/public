@@ -39,11 +39,5 @@ _Context: Obama Administration_
 ### [Truong Tan Sang becomes the new President of Vietnam. ](/news/2011/07/25/truong-tan-sang-becomes-the-new-president-of-vietnam.md)
 _Context: President of Vietnam, Truong Tan Sang_
 
-### [In American football, the NFL Players Association executive unanimously accepts a 10 year pay deal with team owners in the US National Football League. ](/news/2011/07/25/in-american-football-the-nfl-players-association-executive-unanimously-accepts-a-10-year-pay-deal-with-team-owners-in-the-us-national-footb.md)
-The NFL Players Association executive committee has voted to accept the labor settlement with the NFL, a source said Monday.
-
-### [In softball, the United States defeats Japan 6-4 to win its fifth straight World Cup. ](/news/2011/07/25/in-softball-the-united-states-defeats-japan-6-4-to-win-its-fifth-straight-world-cup.md)
-_Context: Japan, United States, World Cup, softball_
-
 ## [Previous Day...](/news/2011/07/24/index.md)
 

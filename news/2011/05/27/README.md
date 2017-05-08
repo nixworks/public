@@ -46,16 +46,13 @@ Group of Eight leaders promised Friday to support new Arab democracies, accordin
 _Context: 2008 Chinese milk scandal, China's, Zhao Lianhai_
 
 ### [More than 270 people are hospitalised after an E. coli outbreak in Germany, thought to have originated from Spanish cucumbers. ](/news/2011/05/27/more-than-270-people-are-hospitalised-after-an-e-coli-outbreak-in-germany-thought-to-have-originated-from-spanish-cucumbers.md)
-_Context: ''E. coli'', Germany, Spain_
+_Context: ''E. coli'', German, Spain_
 
 ### [A second woman dies of a mystery virus, reported to be similar to pneumonia, in South Korea. ](/news/2011/05/27/a-second-woman-dies-of-a-mystery-virus-reported-to-be-similar-to-pneumonia-in-south-korea.md)
 _Context: South Korea, pneumonia_
 
 ### [Space Shuttle ''Endeavour'' crewmembers Mike Fincke and Greg Chamitoff undertake what is expected to be the last spacewalk ever conducted by a space shuttle crew. ](/news/2011/05/27/space-shuttle-endeavour-crewmembers-mike-fincke-and-greg-chamitoff-undertake-what-is-expected-to-be-the-last-spacewalk-ever-conducted-by.md)
 NASA completed its part in the construction of the International Space Station on Friday, with the final spacewalkers in the 30-year shuttle program attaching an extension boom. 
-
-### [The Boston Bruins defeat the Tampa Bay Lightning 1-0 in the Eastern Conference of  National Hockey League to progress to the 2011 Stanley Cup Finals against the Vancouver Canucks. ](/news/2011/05/27/the-boston-bruins-defeat-the-tampa-bay-lightning-1-0-in-the-eastern-conference-of-national-hockey-league-to-progress-to-the-2011-stanley-cu.md)
-_Context: 2011 Stanley Cup Finals, Boston Bruins, NHL, Tampa Bay Lightning, Vancouver Canucks_
 
 ## [Previous Day...](/news/2011/05/26/index.md)
 

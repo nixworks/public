@@ -28,7 +28,7 @@ Flood waters on Tuesday ripped through a retirement community in northwestern Ar
 _Context: Armenian, Turkey, United States House of Representatives, genocide of Armenians_
 
 ### [The United States Senate votes to ratify the New START Treaty with the Russia, which halves the number of deployed strategic nuclear missile launchers maintained by each nation. ](/news/2010/12/22/the-united-states-senate-votes-to-ratify-the-new-start-treaty-with-the-russia-which-halves-the-number-of-deployed-strategic-nuclear-missile.md)
-_Context: New START Treaty, Russia, nuclear missile, senators_
+_Context: New START Treaty, Russia, United States senators, nuclear missile_
 
 ### [The United Nations votes in favour of restoring a reference to sexual orientation in a resolution banning the unjustified killing of minority groups. ](/news/2010/12/22/the-united-nations-votes-in-favour-of-restoring-a-reference-to-sexual-orientation-in-a-resolution-banning-the-unjustified-killing-of-minorit.md)
 The UN votes to restore a reference to sexual orientation in a resolution against the unjustified killing of minority groups, after heavy US pressure.
@@ -56,7 +56,7 @@ _Context: Metropolitan Police Authority, kettling_
 Former Argentine military ruler Jorge Videla is sentenced to life in prison for crimes against humanity.
 
 ### [President of the United States Barack Obama signs into law the Don't Ask, Don't Tell Repeal Act of 2010, which will bring an end the "don't ask, don't tell" policy of discriminating against the presence of openly gay people in the country's military. More than 13,000 people were sacked by the United States under this policy. ](/news/2010/12/22/president-of-the-united-states-barack-obama-signs-into-law-the-don-t-ask-don-t-tell-repeal-act-of-2010-which-will-bring-an-end-the-don-t.md)
-_Context: Don't Ask, Don't Tell Repeal Act of 2010, Obama, President, comes out, don't ask, don't tell_
+_Context: Don't Ask, Don't Tell Repeal Act of 2010, Obama, President, don't ask, don't tell, openly gay_
 
 ### [The fears of British Liberal Democrat government ministers over policies relating to welfare and tuition fees are secretly recorded by ''The Daily Telegraph'' newspaper. ](/news/2010/12/22/the-fears-of-british-liberal-democrat-government-ministers-over-policies-relating-to-welfare-and-tuition-fees-are-secretly-recorded-by-the.md)
 Fresh secret recording released by a newspaper shows Liberal Democrat ministers expressing concerns over coalition government policies.

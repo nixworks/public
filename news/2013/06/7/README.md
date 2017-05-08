@@ -69,11 +69,5 @@ _Context: Khmer Rouge_
 ### [Iranian presidential election:Candidates hold a third and final televised debate, giving their plans on domestic and foreign policies and also criticizing Mahmoud Ahmadinejad's nuclear and human rights policies. ](/news/2013/06/7/iranian-presidential-election-pcandidates-hold-a-third-and-final-televised-debate-giving-their-plans-on-domestic-and-foreign-policies-and-a.md)
 _Context: Foreign relations of Iran, Human rights in Iran, Iranian government, Mahmoud Ahmadinejad, nuclear scientist, presidential, televised debate_
 
-### [In association football, on the night he becomes Ireland's most capped player, Robbie Keane scores a hat-trick to take his international goals tally to 59 and become the 5th all-time goal scorer in European football, after Pusks, Kocsis, Mller and Klose. ](/news/2013/06/7/in-association-football-on-the-night-he-becomes-ireland-s-most-capped-player-robbie-keane-scores-a-hat-trick-to-take-his-international-goa.md)
-Robbie Keane scored a hat-trick on his record-breaking 126th international appearance as the Republic of Ireland beat the Faroe Islands 3-0 in their World Cup qualifier.
-
-### [In tennis, Rafael Nadal edges Novak Djokovic in five sets to advance to the finals of the French Open where he will play David Ferrer. ](/news/2013/06/7/in-tennis-rafael-nadal-edges-novak-djokovic-in-five-sets-to-advance-to-the-finals-of-the-french-open-where-he-will-play-david-ferrer.md)
-Find the latest sports news and articles on the NFL, MLB, NBA, NHL, NCAA college football, NCAA college basketball and more at ABC News.
-
 ## [Previous Day...](/news/2013/06/6/index.md)
 

@@ -30,8 +30,5 @@ _Context: Nepal, Prime Minister, Pushpa Kamal Dahal_
 ### [China's unmanned lunar rover Yutu shuts down after exploring the Moon for 31 months. ](/news/2016/08/4/china-s-unmanned-lunar-rover-yutu-shuts-down-after-exploring-the-moon-for-31-months.md)
 _Context: China, Moon, Yutu, lunar rover_
 
-### [The International Olympic Committee rules that 271 of the 389 athletes nominated by the Russian Olympic Committee will be eligible to participate in the 2016 summer Olympics. ](/news/2016/08/4/the-international-olympic-committee-rules-that-271-of-the-389-athletes-nominated-by-the-russian-olympic-committee-will-be-eligible-to-partic.md)
-_Context: 2016 Summer Olympics, International Olympic Committee, Russian Olympic Committee_
-
 ## [Previous Day...](/news/2016/08/3/index.md)
 

@@ -15,8 +15,5 @@ Police in Sweden have shot and killed a knife-wielding man after he allegedly st
 ### [Opponents of deposed Egyptian president Mohamed Morsi call for demonstrations to be held today in the aftermath of the 2013 Egyptian coup d'etat ](/news/2013/07/7/opponents-of-deposed-egyptian-president-mohamed-morsi-call-for-demonstrations-to-be-held-today-in-the-aftermath-of-the-2013-egyptian-coup-d.md)
 _Context: Aftermath of the 2013 Egyptian coup d'etat, Egyptian President, Mohamed Morsi_
 
-### [Andy Murray of the United Kingdom wins the Men's Singles at Wimbledon, defeating Novak Djokovic of Serbia in straight sets. Murray becomes the first British man to win Wimbledon since Fred Perry in 1936. ](/news/2013/07/7/andy-murray-of-the-united-kingdom-wins-the-men-s-singles-at-wimbledon-defeating-novak-djokovic-of-serbia-in-straight-sets-murray-becomes-t.md)
-_Context: Andy Murray, Fred Perry, Men's Singles, Novak Djokovic, Serbia, United Kingdom, Wimbledon_
-
 ## [Previous Day...](/news/2013/07/6/index.md)
 

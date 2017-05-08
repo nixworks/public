@@ -13,10 +13,10 @@ A railroad bridge collapsed on Friday over a creek in southern New Jersey, causi
 _Context: Russia, Siberian, Tomsk, gas explosion_
 
 ### [A freight train derails at the Stuttgart-Feuerbach station, Germany, after a collision with the railway platform. There were no reports of injuries. ](/news/2012/11/30/a-freight-train-derails-at-the-stuttgart-feuerbach-station-germany-after-a-collision-with-the-railway-platform-there-were-no-reports-of-i.md)
-_Context: Germany, Stuttgart-Feuerbach station, freight train, railway platform_
+_Context: German, Stuttgart-Feuerbach station, freight train, railway platform_
 
 ### [A murder-suicide attack occurs in Casper, Wyoming, United States. Two people are murdered, including a female computer science instructor (off campus), and a male faculty member that she'd been seeing (in a classroom) at Casper College, before the perpetrator, the male professor's son, killed himself in the classroom. ](/news/2012/11/30/a-murderasuicide-attack-occurs-in-casper-wyoming-united-states-two-people-are-murdered-including-a-female-computer-science-instructor.md)
-_Context: Casper College, Casper, Wyoming, U.S., murder-suicide_
+_Context: Casper College, Casper, Wyoming, United States, murder-suicide_
 
 ### [A New Hampshire federal grand jury indicts David Kwiatkowski, 33, a former employee of Exeter Hospital in Exeter, New Hampshire, on fraud and product-tampering charges in connection with an outbreak of hepatitis C that sickened more than 30 people and caused concern in 7 states. ](/news/2012/11/30/a-new-hampshire-federal-grand-jury-indicts-david-kwiatkowski-33-a-former-employee-of-exeter-hospital-in-exeter-new-hampshire-on-fraud-an.md)
 _Context: Exeter, New Hampshire, New Hampshire, fraud, grand jury, hepatitis C_
@@ -41,15 +41,6 @@ Contrary to rampant speculation, NASA&#039;s Mars rover Curiosity has not made a
 
 ### [The first direct photograph of DNA, by Enzo Di Fabrizio, a physics professor at Magna Graecia University in Catanzaro, Italy, is taken. He used an electron microscope (not the usual X-ray crystallography) and a nanoscopic landscape of extremely water-repellant silicon pillars (the water evaporated quickly and left behind the DNA). ](/news/2012/11/30/the-first-direct-photograph-of-dna-by-enzo-di-fabrizio-a-physics-professor-at-magna-graecia-university-in-catanzaro-italy-is-taken-he-u.md)
 Fifty-nine years after James Watson and Francis Crick deduced the double-helix structure of DNA, a scientist has captured the first direct photograph of the twisted ladder that props up life.
-
-### [The Russian Premier League is looking at setting up a pan-CIS football league, as analog of KHL in ice hockey or VTB United League in basketball, after several clubs expressed an interest. ](/news/2012/11/30/the-russian-premier-league-is-looking-at-setting-up-a-pan-cis-football-league-as-analog-of-khl-in-ice-hockey-or-vtb-united-league-in-basket.md)
-_Context: CIS, KHL, Russian Premier League, VTB United League, association football, basketball, ice hockey_
-
-### [Former England cricket captain Andrew Flintoff makes his debut as a professional boxer, and wins his first fight against Richard Dawson. ](/news/2012/11/30/former-england-cricket-captain-andrew-flintoff-makes-his-debut-as-a-professional-boxer-and-wins-his-first-fight-against-richard-dawson.md)
-_Context: Andrew Flintoff, Cricket, England, boxing_
-
-### [Following Israel's recent assault on Gaza, some footballers sign a letter of condemnation against plans to hold the 2013 UEFA European Under-21 Football Championship in Israel next summer; among the signatories are Eden Hazard, Abou Diaby, Papiss Cisse, Cheick Tiote, Sylvain Marveaux, Yohan Cabaye, Demba Ba, Didier Drogba and Frederic Kanoute. ](/news/2012/11/30/following-israel-s-recent-assault-on-gaza-some-footballers-sign-a-letter-of-condemnation-against-plans-to-hold-the-2013-uefa-european-under.md)
- SOCCER: Footballers in major European leagues have condemned plans to hold the Under-21 European championship in Israel next&hellip;
 
 ## [Previous Day...](/news/2012/11/29/index.md)
 

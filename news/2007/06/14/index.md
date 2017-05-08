@@ -7,10 +7,10 @@ _Context: 1964, African-American, James Seale, Ku Klux Klan, Mississippi, conspi
 _Context: Fatah-Hamas conflict, Gaza Strip, Palestinian Authority_
 
 ### [ Golf's U.S. Open begins at Oakmont Country Club in Oakmont, Pennsylvania. ](/news/2007/06/14/golf-s-u-s-open-begins-at-oakmont-country-club-in-oakmont-pennsylvania.md)
-_Context: Oakmont Country Club, Oakmont, Pennsylvania, U.S. Open, golf_
+_Context: Golf, Oakmont Country Club, Oakmont, Pennsylvania, U.S. Open_
 
 ### [ Music producer and alleged con artist Lou Pearlman is arrested in Nusa Dua, Bali, Indonesia and deported to the United States territory of Guam.  He is accused of defrauding over 1,800 individual investors out of a total of $317-million.  He will eventually be returned to Florida to face criminal charges and a growing list of civil litigation. ](/news/2007/06/14/music-producer-and-alleged-con-artist-lou-pearlman-is-arrested-in-nusa-dua-bali-indonesia-and-deported-to-the-united-states-territory-of.md)
-_Context: Bali, FL, Guam, Indonesia, Lou Pearlman, Music producer, Nusa Dua, U.S. dollar, con artist, deportees_
+_Context: Bali, Florida, Guam, Indonesia, Lou Pearlman, Music producer, Nusa Dua, U.S. dollar, con artist, deportees_
 
 ### [ Bertie Ahern of Fianna Fail is elected as Ireland's Taoiseach for a record third term upon the opening of the 30th Dail; the Taoiseach then announces his new cabinet with ministries. ](/news/2007/06/14/bertie-ahern-of-fianna-fa-il-is-elected-as-ireland-s-taoiseach-for-a-record-third-term-upon-the-opening-of-the-30th-da-il-the-taoiseach-th.md)
 The Taoiseach has said that a new Fianna Fáil face will be appointed to a senior position when he appoints his cabinet later this evening.
@@ -34,10 +34,10 @@ _Context: Fiji, High Commissioner, Voreqe Bainimarama, military government_
 _Context: Cuba, Puerto Rico, United Nations, United Nations General Assembly, Vieques_
 
 ### [ The San Antonio Spurs defeat the Cleveland Cavaliers in Game 4 of the 2007 NBA Finals to win the 2007 National Basketball Association Championship. ](/news/2007/06/14/the-san-antonio-spurs-defeat-the-cleveland-cavaliers-in-game-4-of-the-2007-nba-finals-to-win-the-2007-national-basketball-association-champ.md)
-_Context: 2007 NBA Finals, Cleveland Cavaliers, NBA, San Antonio Spurs_
+_Context: 2007 NBA Finals, Cleveland Cavaliers, National Basketball Association, San Antonio Spurs_
 
 ### [ Sidney Crosby of the Pittsburgh Penguins wins the Hart Memorial Trophy as the National Hockey League's most valuable player during the  2006&ndash;07 season in the annual NHL awards. ](/news/2007/06/14/sidney-crosby-of-the-pittsburgh-penguins-wins-the-hart-memorial-trophy-as-the-national-hockey-league-s-most-valuable-player-during-the-200.md)
-_Context:  2006&ndash;07 season, NHL, Pittsburgh Penguins, Sidney Crosby, most valuable player_
+_Context:  2006&ndash;07 season, Hart Memorial Trophy, National Hockey League, Pittsburgh Penguins, Sidney Crosby_
 
 ## [Previous Day...](/news/2007/06/13/index.md)
 

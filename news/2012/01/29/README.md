@@ -22,7 +22,7 @@ _Context: 18th Screen Actors Guild Awards, Jean Dujardin, Los Angeles, Californi
 _Context: Indonesia, Severe Tropical Cyclone Lua_
 
 ### [At least 10 people die in an accident on the Interstate 75 south of the US city of Gainesville, Florida. ](/news/2012/01/29/at-least-10-people-die-in-an-accident-on-the-interstate-75-south-of-the-us-city-of-gainesville-florida.md)
-_Context: FL, Gainesville, Florida, Interstate 75_
+_Context: Florida, Gainesville, Florida, Interstate 75_
 
 ### [Greece rejects outright German proposals for direct European Union control of the country's financial affairs, expressing opposition to further outside interference. ](/news/2012/01/29/greece-rejects-outright-german-proposals-for-direct-european-union-control-of-the-country-s-financial-affairs-expressing-opposition-to-furt.md)
 Athens rejects outright German proposals for an EU power of veto over the Greek budget, with a minister threatening to quit over the issue.
@@ -59,12 +59,6 @@ _Context: Oscar Luigi Scalfaro, President of Italy_
 
 ### [The President of France Nicolas Sarkozy outlines an economic reform package increasing taxes and proposing a new tax on financial transactions. ](/news/2012/01/29/the-president-of-france-nicolas-sarkozy-outlines-an-economic-reform-package-increasing-taxes-and-proposing-a-new-tax-on-financial-transactio.md)
 French&#x20;President&#x20;Nicolas&#x20;Sarkozy&#x20;unveiled&#x20;economic&#x20;reforms&#x20;aimed&#x20;at&#x20;reviving&#x20;France&#x2019;s&#x20;ailing&#x20;economy&#x20;during&#x20;a&#x20;televised&#x20;interview&#x20;on&#x20;Sunday,&#x20;but&#x20;did&#x20;not&#x20;confirm&#x20;his&#x20;intention&#x20;to&#x20;seek&#x20;a&#x20;second&#x20;term&#x20;in&#x20;April&#x27;s&#x20;presidential&#x20;election.
-
-### [In tennis, Novak Djokovic of Serbia wins the Men's Singles championship of the 2012 Australian Open defeating Rafael Nadal of Spain  5-7, 6-4, 6-2, 6-7(5-7), 7-5. ](/news/2012/01/29/in-tennis-novak-djokovic-of-serbia-wins-the-men-s-singles-championship-of-the-2012-australian-open-defeating-rafael-nadal-of-spain-5a7.md)
-_Context: 2012 Australian Open, Men's Singles, Novak Djokovic, Rafael Nadal, Serbia, Spain, tennis_
-
-### [The 2012 Men's European Water Polo Championship concludes with Serbia defeating Montenegro in the final. ](/news/2012/01/29/the-2012-men-s-european-water-polo-championship-concludes-with-serbia-defeating-montenegro-in-the-final.md)
-_Context: 2012 Men's European Water Polo Championship, Montenegro, Serbia, final_
 
 ## [Previous Day...](/news/2012/01/28/index.md)
 

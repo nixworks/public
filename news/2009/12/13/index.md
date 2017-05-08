@@ -34,7 +34,7 @@ _Context: Constitutional Court of Turkey, Democratic Society Party, Turkey_
 _Context: "Dhanush" missile, India, Orissa State_
 
 ### [ Global consulting firm Accenture and multinational corporation Procter & Gamble end their endorsement deals with golfer Tiger Woods following a marital infidelity controversy. ](/news/2009/12/13/global-consulting-firm-accenture-and-multinational-corporation-procter-gamble-end-their-endorsement-deals-with-golfer-tiger-woods-followi.md)
-_Context: Accenture, Procter & Gamble, Tiger Woods, endorsement deals, golf, marital infidelity controversy, multinational_
+_Context: Accenture, Golf, Procter & Gamble, Tiger Woods, endorsement deals, marital infidelity controversy, multinational_
 
 ### [ Italian Prime Minister Silvio Berlusconi is hit in the face and knocked to the ground after a political rally in Milan. ](/news/2009/12/13/italian-prime-minister-silvio-berlusconi-is-hit-in-the-face-and-knocked-to-the-ground-after-a-political-rally-in-milan.md)
 _Context: Italian, Milan, Silvio Berlusconi_

@@ -7,7 +7,7 @@ _Context: Haiti, Michle Pierre-Louis, Prime Minister of Haiti, Senate_
 _Context: Brazil, Honduran, International Court of Justice, Manuel Zelaya, Tegucigalpa, political crisis in the country_
 
 ### [ English Premier League footballer Marlon King is convicted of sexual assault, imprisoned and sacked by his club Wigan Athletic F.C. ](/news/2009/10/29/english-premier-league-footballer-marlon-king-is-convicted-of-sexual-assault-imprisoned-and-sacked-by-his-club-wigan-athletic-f-c.md)
-_Context: England, English Premier League, Marlon King, Wigan Athletic, association football, sexual assault_
+_Context: England, English Premier League, Marlon King, Wigan Athletic F.C., association football, sexual assault_
 
 ### [ India's Prime Minister Manmohan Singh announces a "new chapter" in the Jammu and Kashmir peace process, and withdraws some troops from the region. ](/news/2009/10/29/india-s-prime-minister-manmohan-singh-announces-a-new-chapter-in-the-jammu-and-kashmir-peace-process-and-withdraws-some-troops-from-the.md)
 _Context: India, India's Prime Minister, Jammu and Kashmir, Manmohan Singh_
@@ -40,7 +40,7 @@ _Context: African Union, Guinea, Moussa Dadis Camara_
 _Context: Canada, Crimes Against Humanity and War Crimes Act, Dsir Munyaneza, Rwanda, Rwandan Genocide_
 
 ### [ A gunman opens fire at the Adat Yeshurun Valley Sephardic synagogue in North Hollywood, Los Angeles, United States, and wounds two people. ](/news/2009/10/29/a-gunman-opens-fire-at-the-adat-yeshurun-valley-sephardic-synagogue-in-north-hollywood-los-angeles-united-states-and-wounds-two-people.md)
-_Context: Los Angeles, North Hollywood, U.S., synagogue_
+_Context: Los Angeles, North Hollywood, United States, synagogue_
 
 ### [ The composer and pianist Elton John cancels his 30 October final date of The Red Piano Tour scheduled for The O2, Dublin, due to declining health. ](/news/2009/10/29/the-composer-and-pianist-elton-john-cancels-his-30-october-final-date-of-the-red-piano-tour-scheduled-for-the-o2-dublin-due-to-declining.md)
 Elton John (62) has pulled out of his Dublin concert tomorrow night after suffering a serious bout of flu.

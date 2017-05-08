@@ -37,28 +37,13 @@ Rahul Gandhi, appointed the Congress&#039; number 2 on Saturday evening, will be
 The Cabinet Committee on Political Affairs (CCPA) on Thursday raised the cap on supply of subsidised LPG cylinders to nine bottles from six per year per household and authorised the oil marketing comp
 
 ### [In Germany, Chancellor Angela Merkel's centre-left opponents win a narrow victory in Lower Saxony state election. ](/news/2013/01/20/in-germany-chancellor-angela-merkel-s-centre-left-opponents-win-a-narrow-victory-in-lower-saxony-state-election.md)
-_Context: Angela Merkel, German Chancellor, Germany, Lower Saxony state election_
+_Context: Angela Merkel, German, German Chancellor, Lower Saxony state election_
 
 ### [Austrian conscription referendum, 2013:Austria holds a national referendum, choosing between keeping the current system of a conscripted army and optional social service for young men, or introducing a professional army and a voluntary community service. ](/news/2013/01/20/austrian-conscription-referendum-2013-paustria-holds-a-national-referendum-choosing-between-keeping-the-current-system-of-a-conscripted-ar.md)
 _Context: Austria, army, community service, national referendum, professional army_
 
 ### [A NASA spacecraft, Mars Reconnaissance Orbiter, is providing new evidence of a wet underground environment on Mars that adds to an increasingly complex picture of the Red Planet's early evolution. ](/news/2013/01/20/a-nasa-spacecraft-mars-reconnaissance-orbiter-is-providing-new-evidence-of-a-wet-underground-environment-on-mars-that-adds-to-an-increasin.md)
 A NASA spacecraft is providing new evidence of a wet underground environment on Mars that adds to an increasingly complex picture of the Red Planet&#039;s early evolution.
-
-### [In mixed martial arts, Vitor Belfort defeats Michael Bisping via TKO at 1:27 in the 2nd round in the main event of UFC on FX: Belfort vs. Bisping. ](/news/2013/01/20/in-mixed-martial-arts-vitor-belfort-defeats-michael-bisping-via-tko-at-1-27-in-the-2nd-round-in-the-main-event-of-ufc-on-fx-belfort-vs-bi.md)
-_Context: Michael Bisping, Mixed Martial Arts, UFC on FX: Belfort vs. Bisping, Vitor Belfort_
-
-### [In snooker, Mark Selby wins 2013 Masters defeating Neil Robertson in the final with a 10-6 score. ](/news/2013/01/20/in-snooker-mark-selby-wins-2013-masters-defeating-neil-robertson-in-the-final-with-a-10a6-score.md)
-_Context: 2013 Masters, Mark Selby, Neil Robertson, Snooker_
-
-### [In Serie A, Genoa C.F.C. makes its second coaching change of the season, sacking Luigi Delneri and reportedly rehiring Davide Ballardini. ](/news/2013/01/20/in-serie-a-genoa-c-f-c-makes-its-second-coaching-change-of-the-season-sacking-luigi-delneri-and-reportedly-rehiring-davide-ballardini.md)
-The official site of the international governing body of football with news, national associations, competitions, results, fixtures, development, organisation, world rankings, statistics, the International Football Association Board, history, laws of the game, futsal, publications, downloads, and contact details.
-
-### [In American football, the NFL's San Francisco 49ers and the Baltimore Ravens win the NFC and AFC championship games, respectively, to advance to Super Bowl XLVII. The game will be the first time in NFL history that two brothers - Jim Harbaugh of the 49ers and John Harbaugh of the Ravens - have been opposing head coaches in the Super Bowl. ](/news/2013/01/20/in-american-football-the-nfl-s-san-francisco-49ers-and-the-baltimore-ravens-win-the-nfc-and-afc-championship-games-respectively-to-advanc.md)
-Get a recap of the Baltimore Ravens vs. New England Patriots football game.
-
-### [In basketball, the owners of the NBA's Sacramento Kings reportedly reach an agreement to sell a controlling stake in the team to a Seattle-based group, fueling speculation that the team will move to Seattle. ](/news/2013/01/20/in-basketball-the-owners-of-the-nba-s-sacramento-kings-reportedly-reach-an-agreement-to-sell-a-controlling-stake-in-the-team-to-a-seattle-b.md)
-The Maloof family that owns the Sacramento Kings has reached an agreement to sell the controlling interest in the franchise to a Seattle group intent on moving it in time for next season.
 
 ## [Previous Day...](/news/2013/01/19/index.md)
 

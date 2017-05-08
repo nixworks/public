@@ -28,7 +28,7 @@ Actress Zsa Zsa Gabor is rushed back to hospital in Los Angeles after slipping i
 _Context: A Journey, Prime Minster, Tony Blair, United Kingdom, autobiography, bestseller_
 
 ### [United States rapper T.I. and his wife singer Tameka Cottle are arrested on Sunset Boulevard in Los Angeles for illegal drug possession. ](/news/2010/09/1/united-states-rapper-t-i-and-his-wife-singer-tameka-cottle-are-arrested-on-sunset-boulevard-in-los-angeles-for-illegal-drug-possession.md)
-_Context: Los Angeles, California, Sunset Boulevard, T.I., Tameka Cottle, U.S., rapper_
+_Context: Los Angeles, California, Sunset Boulevard, T.I., Tameka Cottle, United States, rapper_
 
 ### [Archaeologists discover 200 year old bottles of beer in a shipwreck south of the autonomous Aland Islands in the Baltic Sea believed to be the world's oldest. ](/news/2010/09/1/archaeologists-discover-200-year-old-bottles-of-beer-in-a-shipwreck-south-of-the-autonomous-aland-islands-in-the-baltic-sea-believed-to-be-t.md)
 _Context: Aland Islands, Archaeologist, Baltic Sea, beer, shipwreck_
@@ -95,9 +95,6 @@ The Foreign Secretary, William Hague, was forced to issue an extraordinary publi
 
 ### [More than 150 Israeli academics say they will no longer lecture or work in Jewish settlements in the West Bank. ](/news/2010/09/1/more-than-150-israeli-academics-say-they-will-no-longer-lecture-or-work-in-jewish-settlements-in-the-west-bank.md)
 More than 150 Israeli academics say they will no longer lecture or work in Jewish settlements in the West Bank.
-
-### [Mohammad Asif of Pakistan is dropped from an Indian movie due to the recent allegations of match-fixing. ](/news/2010/09/1/mohammad-asif-of-pakistan-is-dropped-from-an-indian-movie-due-to-the-recent-allegations-of-match-fixing.md)
-Mohammad Asif may be dropped from an Indian film in which he was supposed to play a cricket coach after it emerged he was one of the three Pakistani players embroiled in a spot-fixing scandal.
 
 ## [Previous Day...](/news/2010/08/31/index.md)
 

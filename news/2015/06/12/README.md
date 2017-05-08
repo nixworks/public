@@ -37,7 +37,7 @@ _Context: Pacific, Palau, Vietnam, sea cucumber_
 Pakistan orders the charity Save the Children out of the country, sealing its offices and accusing it of &quot;anti-Pakistan&quot; activities.
 
 ### [Germany doubles its funding to states and cities for asylum seekers as 450,000 are expected to enter the country during 2015. ](/news/2015/06/12/germany-doubles-its-funding-to-states-and-cities-for-asylum-seekers-as-450-000-are-expected-to-enter-the-country-during-2015.md)
-_Context: Germany, asylum seekers_
+_Context: German, asylum seekers_
 
 ### [Two Russian citizens are arrested for entering a Latvian military base as the Baltic nation was participating in US-led military exercises. ](/news/2015/06/12/two-russian-citizens-are-arrested-for-entering-a-latvian-military-base-as-the-baltic-nation-was-participating-in-us-led-military-exercises.md)
 _Context: Baltics, Latvia, Russian_
@@ -56,9 +56,6 @@ _Context: Chiril Gaburici, Moldovan Prime Minister_
 
 ### [The United States House of Representatives votes down key supporting legislation that would support the Trans-Pacific Partnership with 11 Pacific Rim nations. ](/news/2015/06/12/the-united-states-house-of-representatives-votes-down-key-supporting-legislation-that-would-support-the-trans-pacific-partnership-with-11-pa.md)
 The president draws the wrath of his own party as his personal appeals for support on free trade go unheeded.
-
-### [Hachim Mastour, aged 16 years and 363 days, becomes the youngest ever footballer to represent the Morocco national football team. ([http://afriquefoot.rfi.fr/20150612-maroc-hachim-mastour-plus-jeune-international-lions-atlas/?aef_campaign_date=2015-06-12 RFI Afrique])](/news/2015/06/12/hachim-mastour-aged-16-years-and-363-days-becomes-the-youngest-ever-footballer-to-represent-the-morocco-national-football-team-http-a.md)
-_Context: Hachim Mastour, Morocco national football team_
 
 ## [Previous Day...](/news/2015/06/11/index.md)
 

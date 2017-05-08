@@ -30,14 +30,5 @@ French conservatives vote on a presidential candidate, with ex-President Sarkozy
 ### [Voters in Haiti go to the polls for the first round of a presidential election. ](/news/2016/11/20/voters-in-haiti-go-to-the-polls-for-the-first-round-of-a-presidential-election.md)
 _Context: Haiti, Haitian presidential election, 2016-17_
 
-### [Craig Reedie is elected for a second term as President of the World Anti-Doping Agency. ](/news/2016/11/20/craig-reedie-is-elected-for-a-second-term-as-president-of-the-world-anti-doping-agency.md)
-Sir Craig Reedie, the president of the World Anti-Doping Agency, insists sport can recover from a &quot;dreadful&quot; period.
-
-### [In tennis, Andy Murray defeats Novak Djokovic 6-3, 6-4 in the final of the 2016 ATP World Tour finals and finishes the year as the world's number 1. ](/news/2016/11/20/in-tennis-andy-murray-defeats-novak-djokovic-6a3-6a4-in-the-final-of-the-2016-atp-world-tour-finals-and-finishes-the-year-as-the-world.md)
-Game-by-game report: Andy Murray finished the year as the world No1 after claiming the title for the first time with a 6-3, 6-4 win over the world No2
-
-### [In motorsport, Jimmie Johnson wins the 2016 NASCAR Sprint Cup Series Championship with a victory in the final race of the season. It is his 7th Cup championship, which ties the all-time record set by Richard Petty in 1979 and Dale Earnhardt in 1994. ](/news/2016/11/20/in-motorsport-jimmie-johnson-wins-the-2016-nascar-sprint-cup-series-championship-with-a-victory-in-the-final-race-of-the-season-it-is-his.md)
-Jimmie Johnson won his seventh NASCAR championship Sunday at Homestead-Miami Speedway, besting three other title contenders in the third edition of the elimination-style Chase for the Sprint Cup.
-
 ## [Previous Day...](/news/2016/11/19/index.md)
 

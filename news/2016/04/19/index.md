@@ -31,7 +31,7 @@ The Indian government tells the Supreme Court that the country should not try to
 Huang Yu convicted of leaking state secrets to unidentified foreign power, state television said on Tuesday
 
 ### [Lutz Bachmann, the leader of the German far-right and anti-Islam Pegida movement,  goes on trial in Dresden on charges of hate speech. ](/news/2016/04/19/lutz-bachmann-the-leader-of-the-german-far-right-and-anti-islam-pegida-movement-goes-on-trial-in-dresden-on-charges-of-hate-speech.md)
-_Context: Dresden, Germany, Lutz Bachmann, Pegida_
+_Context: Dresden, German, Lutz Bachmann, Pegida_
 
 ### [An American federal appeals court in Richmond, Virginia, rules a transgender high school student who was banned from the boys' bathroom can proceed with the lawsuit against the school board. ](/news/2016/04/19/an-american-federal-appeals-court-in-richmond-virginia-rules-a-transgender-high-school-student-who-was-banned-from-the-boys-bathroom-can.md)
 In a case that may have national implications, the Richmond-based 4th U.S. Circuit Court of Appeals ruled Tuesday in favor of a transgender student fighting to use the boys bathroom

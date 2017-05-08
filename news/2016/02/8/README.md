@@ -39,8 +39,5 @@ _Context: FBI, U.S. Department of Homeland Security, hackers_
 ### [The French data protection authority  and the independent watchdog CNIL cite Facebook for breaching privacy laws by the collection and transfer of 30 million users' Internet data, and by tracking non-users. Companies are no longer protected by the International Safe Harbor pact that was ruled illegal last October. ](/news/2016/02/8/the-french-data-protection-authority-and-the-independent-watchdog-cnil-cite-facebook-for-breaching-privacy-laws-by-the-collection-and-trans.md)
 Get the latest science news and technology news, read tech reviews and more at ABC News.
 
-### [Daniel Bryan announces that he will retire from WWE. ](/news/2016/02/8/daniel-bryan-announces-that-he-will-retire-from-wwe.md)
-_Context: Daniel Bryan, WWE_
-
 ## [Previous Day...](/news/2016/02/7/index.md)
 

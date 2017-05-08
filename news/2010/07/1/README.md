@@ -64,8 +64,5 @@ Scientists report the discovery of centimetre-sized fossils that may be the earl
 ### [Astronomers confirm the first-ever direct picture of an extrasolar planet orbiting its star. ](/news/2010/07/1/astronomers-confirm-the-first-ever-direct-picture-of-an-extrasolar-planet-orbiting-its-star.md)
 A team of astronomers says it holds bragging rights to releasing the first ever direct picture of an alien planet around a sunlike star.
 
-### [Rio de Janeiro's iconic ''Christ the Redeemer'' statue is unveiled after a PS2.7 million restoration, in a display of green and yellow honouring the Brazil national football team at the 2010 FIFA World Cup. ](/news/2010/07/1/rio-de-janeiro-s-iconic-christ-the-redeemer-statue-is-unveiled-after-a-aps2-7-million-restoration-in-a-display-of-green-and-yellow-honou.md)
-_Context: 2010 FIFA World Cup, Brazil national football team, Christ the Redeemer, Rio de Janeiro_
-
 ## [Previous Day...](/news/2010/06/30/index.md)
 

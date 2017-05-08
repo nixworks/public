@@ -22,7 +22,7 @@ Vicky Pryce, the former wife of ex-MP Chris Huhne, is found guilty of perverting
 Hilton Botha, the former lead detective in the murder case involving Paralympian Oscar Pistorius, has resigned from the SA Police Service.
 
 ### [Sulaiman Abu Ghaith, alleged spokesman for al-Qaeda and said to be the son-in-law of Osama bin Laden, is captured in Jordan and faces criminal charges in the United States. ](/news/2013/03/7/sulaiman-abu-ghaith-alleged-spokesman-for-al-qaeda-and-said-to-be-the-son-in-law-of-osama-bin-laden-is-captured-in-jordan-and-faces-crimin.md)
-_Context: Jordan, Osama bin Laden, Sulaiman Abu Ghaith, U.S., al-Qaeda_
+_Context: Jordan, Osama bin Laden, Sulaiman Abu Ghaith, United States, al-Qaeda_
 
 ### [Denis Napthine is sworn in as the Premier of the Australian state of Victoria replacing Ted Baillieu. ](/news/2013/03/7/denis-napthine-is-sworn-in-as-the-premier-of-the-australian-state-of-victoria-replacing-ted-baillieu.md)
 _Context: Australia, Denis Napthine, Premier, Ted Baillieu, Victoria_
@@ -35,9 +35,6 @@ Sen. Rand Paul declared victory Thursday after Attorney General Eric Holder assu
 
 ### [The first built Bombardier CSeries test aircraft is publicly presented during a program update event at the Montreal-Mirabel International Airport, where the manufacturer, Bombardier Aerospace, has its Final Assembly Line facility and flight test facility. ](/news/2013/03/7/the-first-built-bombardier-cseries-test-aircraft-is-publicly-presented-during-a-program-update-event-at-the-montra-c-alamirabel-internationa.md)
 _Context: Bombardier Aerospace, CS100, Montreal-Mirabel International Airport_
-
-### [The first legs of the 2012-13 UEFA Europa League round of 16 are held across Europe. Gareth Bale helps Tottenham to a 3-0 defeat of Inter Milan. ](/news/2013/03/7/the-first-legs-of-the-2012a13-uefa-europa-league-round-of-16-are-held-across-europe-gareth-bale-helps-tottenham-to-a-3a0-defeat-of-inte.md)
-_Context: 2012-13 UEFA Europa League, Europe, Gareth Bale, Inter Milan, Tottenham Hotspur F.C., quarter-finals_
 
 ## [Previous Day...](/news/2013/03/6/index.md)
 

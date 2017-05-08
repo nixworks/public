@@ -1,13 +1,13 @@
 ## [2009-09-22](/news/2009/09/22/index.md)
 
 ### [ American Mesac Damas is extradited from Haiti to stand trial for the murders of his six family members in Florida, USA.](/news/2009/09/22/american-mesac-damas-is-extradited-from-haiti-to-stand-trial-for-the-murders-of-his-six-family-members-in-florida-usa.md)
-_Context: FL, Haiti, Mesac Damas, USA_
+_Context: Florida, Haiti, Mesac Damas, USA_
 
 ### [ A mid-air collision destroys Iran's only AWACS equipped aircraft, an Ilyushin Il-76MD. ([http://www2.debka.com/headline.php?hid=6280 Debka]), ([http://www.defensenews.com/story.php?i=4289949&c=AIR&s=MID Defensenews])](/news/2009/09/22/a-mid-air-collision-destroys-iran-s-only-awacs-equipped-aircraft-an-ilyushin-il-76md-http-www2-debka-com-headline-php-hid-6280-debka.md)
 _Context: AWACS, Ilyushin Il-76, Iran, mid-air collision_
 
 ### [ A gang of racist youths are sent to jail for a string of attacks on foreigners in Moscow, Russia, in 2008. ](/news/2009/09/22/a-gang-of-racist-youths-are-sent-to-jail-for-a-string-of-attacks-on-foreigners-in-moscow-russia-in-2008.md)
-_Context: Moscow, Russia, racist_
+_Context: Moscow, Russia, racial bias_
 
 ### [ U.S. President Barack Obama calls for the resumption of the Middle East peace process in meetings with the Prime Minister of Israel Benjamin Netanyahu and the President of the Palestinian Authority Mahmoud Abbas. ](/news/2009/09/22/u-s-president-barack-obama-calls-for-the-resumption-of-the-middle-east-peace-process-in-meetings-with-the-prime-minister-of-israel-benjami.md)
 _Context: Benjamin Netanyahu, Mahmoud Abbas, Middle East, Obama, Palestinian Authority President, President, Prime Minister of Israel_
@@ -49,7 +49,7 @@ An estimated 49,000 people attended the National Ploughing Championship today.
 _Context: Attorney General for England and Wales, Patricia Scotland, Baroness Scotland of Asthal_
 
 ### [ For the first time in at least ten years, all United States embassies and consulates in South Africa are closed following an unspecified "security threat". ](/news/2009/09/22/for-the-first-time-in-at-least-ten-years-all-united-states-embassies-and-consulates-in-south-africa-are-closed-following-an-unspecified-s.md)
-_Context: South Africa, U.S._
+_Context: South Africa, United States_
 
 ### [ The New Zealand dollar soars to a 13-month high against both the U.S. dollar and euro. ](/news/2009/09/22/the-new-zealand-dollar-soars-to-a-13-month-high-against-both-the-u-s-dollar-and-euro.md)
 Basking in good economic news, the New Zealand dollar reached multi-month highs against major currencies overnight as the greenback weakened further. - New Zealand Herald
@@ -79,7 +79,7 @@ Sixteen Vietnamese doctors, nurses and officials sold 266 babies for overseas ad
 _Context: Bhutan_
 
 ### [ Security is tightened across Germany after the emergence of al-Qaeda videos threatening attacks if troops are not withdrawn from Afghanistan. ](/news/2009/09/22/security-is-tightened-across-germany-after-the-emergence-of-al-qaeda-videos-threatening-attacks-if-troops-are-not-withdrawn-from-afghanista.md)
-_Context: Afghanistan, Germany, al-Qaeda_
+_Context: Afghanistan, German, al-Qaeda_
 
 ### [ Cities around the world celebrate World Car Free Day. ](/news/2009/09/22/cities-around-the-world-celebrate-world-car-free-day.md)
 _Context: World Car Free Day_

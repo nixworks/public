@@ -12,8 +12,5 @@ _Context: Newfoundland and Labrador, Royal Commission_
 ### [ There are reports of the discovery of a possible new type of subatomic particle, a pentaquark. ](/news/2003/07/2/there-are-reports-of-the-discovery-of-a-possible-new-type-of-subatomic-particle-a-pentaquark.md)
 _Context: pentaquark, subatomic particle_
 
-### [ The International Olympic Committee announced in Prague, Czech Republic, that Vancouver, British Columbia will host the 2010 Winter Olympics.](/news/2003/07/2/the-international-olympic-committee-announced-in-prague-czech-republic-that-vancouver-british-columbia-will-host-the-2010-winter-olympic.md)
-_Context: 2010 Winter Olympics, Czech, International Olympic Committee, Prague, Vancouver, British Columbia_
-
 ## [Previous Day...](/news/2003/07/1/index.md)
 

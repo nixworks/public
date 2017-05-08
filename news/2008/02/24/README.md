@@ -22,7 +22,7 @@ _Context: Christofias, Cypriot presidential election, 2008, Ioannis Kasoulidis, 
 _Context: Pakistan, YouTube_
 
 ### [ Tottenham Hotspur Football Club win the 2008 League Cup after beating Chelsea F.C. 2-1 after extra time. ](/news/2008/02/24/tottenham-hotspur-football-club-win-the-2008-league-cup-after-beating-chelsea-f-c-2-1-after-extra-time.md)
-_Context: Chelsea F.C., Football League Cup, Tottenham Hotspur Football Club_
+_Context: Chelsea F.C., League Cup, Tottenham Hotspur Football Club_
 
 ## [Previous Day...](/news/2008/02/23/index.md)
 

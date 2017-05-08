@@ -10,7 +10,7 @@ _Context: Fitna, Geert Wilders, Islam_
 Puerto Rican Gov. Anibal Acevedo Vila and 12 political associates in the Caribbean island and on the U.S. mainland were charged with election funding fraud in an indictment unsealed on Thursday.
 
 ### [ Germany scraps plans to build the Transrapid high-speed monorail link between the Bavarian capital Munich and its airport because of a massive overrun in costs. ](/news/2008/03/27/germany-scraps-plans-to-build-the-transrapid-high-speed-monorail-link-between-the-bavarian-capital-munich-and-its-airport-because-of-a-mass.md)
-_Context: Bavaria, Germany, Munich, Transrapid, airport, monorail_
+_Context: Bavaria, German, Munich, Transrapid, airport, monorail_
 
 ### [ Airbus parent EADS wins a 13 billion contract for airtankers from the United Kingdom. ](/news/2008/03/27/airbus-parent-eads-wins-a-ps13-billion-contract-for-airtankers-from-the-united-kingdom.md)
 _Context: , Airbus, EADS, United Kingdom_
@@ -19,7 +19,7 @@ _Context: , Airbus, EADS, United Kingdom_
 A recording found in Paris is believed to predate Thomas Edison’s invention of the phonograph by nearly 20 years.
 
 ### [ A gunman opens fire at Doctors Hospital in Columbus, Georgia, United States, killing two people and critically wounding one other who later died of his injuries before being shot and wounded by police. ](/news/2008/03/27/a-gunman-opens-fire-at-doctors-hospital-in-columbus-georgia-united-states-killing-two-people-and-critically-wounding-one-other-who-later.md)
-_Context: Columbus, Georgia's, Georgia, U.S._
+_Context: Columbus, Georgia's, Georgia, United States_
 
 ## [Previous Day...](/news/2008/03/26/index.md)
 

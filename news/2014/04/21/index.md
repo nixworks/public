@@ -42,14 +42,5 @@ _Context: Salt Lake City, U.S. federal court, US Marshals, Utah_
 ### [The Syrian government sets the presidential election for June 3, with opposition groups calling it a "parody of democracy". ](/news/2014/04/21/the-syrian-government-sets-the-presidential-election-for-june-3-with-opposition-groups-calling-it-a-parody-of-democracy.md)
 Syria announced on Monday a presidential election for June 3, preparing the ground for Bashar al-Assad to defy widespread opposition and extend his grip on power, days after he said the civil war was turning in his favor.
 
-### [According to reports, David Moyes will soon be sacked as manager of Manchester United after a season that left United without Champions League football for the first time in decades. ](/news/2014/04/21/according-to-reports-david-moyes-will-soon-be-sacked-as-manager-of-manchester-united-after-a-season-that-left-united-without-champions-leag.md)
-David Moyes is facing the sack by Manchester United, who have finally run out of patience with him and do not believe he can be trusted with the £150m overhaul the club intends to carry out this summer.
-
-### [More than a million people gather to participate and watch in the Boston Marathon, one year after the Boston Marathon bombings. ](/news/2014/04/21/more-than-a-million-people-gather-to-participate-and-watch-in-the-boston-marathon-one-year-after-the-boston-marathon-bombings.md)
-American Meb Keflezighi won the Boston Marathon men&#39;s title on a day that was marked by remembrances of the bombings one year ago. Keflezighi, who will turn 39 next month, was cheered by massive crowds from
-
-### [The New York Knicks fire head coach Mike Woodson. ](/news/2014/04/21/the-new-york-knicks-fire-head-coach-mike-woodson.md)
-NEW YORK (AP) — Mike Woodson was fired as coach the New York Knicks on Monday after his team fell from division champions to out of the playoffs in one season.
-
 ## [Previous Day...](/news/2014/04/20/index.md)
 

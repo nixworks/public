@@ -25,7 +25,7 @@ _Context: Etta James, Riverside County, California, Superior Court, blues_
 CBS has pulled the plug on “Two and a Half Men”… for now.
 
 ### [Toyota recalls more than two million  vehicles in the United States to address problems with accelerator pedals being trapped in floormats. ](/news/2011/02/24/toyota-recalls-more-than-two-million-vehicles-in-the-united-states-to-address-problems-with-accelerator-pedals-being-trapped-in-floormats.md)
-_Context: Toyota, U.S., accelerator_
+_Context: Toyota, United States, accelerator_
 
 ### [Allison Transmission, a maker of transmissions for trucks and buses, is planning an initial public offering expected to raise between US$500 million and $1 billion, according to Reuters, which cites "four sources familiar with the situation."  ](/news/2011/02/24/allison-transmission-a-maker-of-transmissions-for-trucks-and-buses-is-planning-an-initial-public-offering-expected-to-raise-between-us-500.md)
 Private equity-backed Allison Transmission has hired banks and is planning an initial public offering that could raise around $1 billion in the third quarter of the year, four sources familiar with the situation said.
@@ -55,7 +55,7 @@ _Context: California, Colorado, Dallas, Texas, George W. Bush, New York's, Presi
 A BRITISH judge has ordered Julian Assange to be extradited to Sweden to face sexual assault allegations, but the Australian plans to lodge an appeal and still hopes the matter can be finalised in the UK.
 
 ### [German prosecutors investigate several companies for possible illegal sales of HIV drugs including those intended for use in Africa. ](/news/2011/02/24/german-prosecutors-investigate-several-companies-for-possible-illegal-sales-of-hiv-drugs-including-those-intended-for-use-in-africa.md)
-_Context: Africa, Germany, HIV_
+_Context: Africa, German, HIV_
 
 ### [United States authorities arrest more than 60 suspected members of Mexican drug cartels following the execution of a US Drug Enforcement Administration agent in Mexico last week. ](/news/2011/02/24/united-states-authorities-arrest-more-than-60-suspected-members-of-mexican-drug-cartels-following-the-execution-of-a-us-drug-enforcement-adm.md)
 Law enforcement officials across the country are conducting a nationwide sweep of suspected members of Mexican drug cartels working in the United States.
@@ -73,13 +73,7 @@ A carbon price scheme will be rolled out from July 2012 with a fixed price for t
 _Context: Providence Public School District, Providence, Rhode Island, School Board_
 
 ### [The United States Space Shuttle Discovery takes off for its final mission. ](/news/2011/02/24/the-united-states-space-shuttle-discovery-takes-off-for-its-final-mission.md)
-_Context: Discovery, U.S., final mission_
-
-### [The Canterbury Crusaders cancel a planned match against the Wellington Hurricanes due to the earthquake with doubts over Christchurch's capacity to host 2011 Rugby World Cup games. ](/news/2011/02/24/the-canterbury-crusaders-cancel-a-planned-match-against-the-wellington-hurricanes-due-to-the-earthquake-with-doubts-over-christchurch-s-capa.md)
-THE Crusaders have cancelled this weekend&#039;s Super 15 match as players deal with the tragedy of the Christchurch earthquake, and there are doubts about the city&#039;s capacity to host World Cup matches later this year.
-
-### [Police clash with angry cricket fans in Bangalore after a 2011 Cricket World Cup fixture between India and England is sold out. ](/news/2011/02/24/police-clash-with-angry-cricket-fans-in-bangalore-after-a-2011-cricket-world-cup-fixture-between-india-and-england-is-sold-out.md)
-_Context: 2011 Cricket World Cup, Bangalore, England, Indian_
+_Context: Discovery, United States, final mission_
 
 ## [Previous Day...](/news/2011/02/23/index.md)
 

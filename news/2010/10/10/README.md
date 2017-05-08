@@ -10,7 +10,7 @@ _Context: Honduran_
 Security forces deployed to protect gay-rights marchers clash with protesters, triggering violence in Belgrade.
 
 ### [The United States fires four missiles in Shewa district about 40 kilometres northeast of the region's main town of Miramshah, North Waziristan, Pakistan, killing seven and destroying two cars, as the country increases its attacks on the tribal area. ](/news/2010/10/10/the-united-states-fires-four-missiles-in-shewa-district-about-40-kilometres-northeast-of-the-region-s-main-town-of-miramshah-north-wazirist.md)
-_Context: Miramshah, North Waziristan, Pakistan, Shewa, U.S._
+_Context: Miramshah, North Waziristan, Pakistan, Shewa, United States_
 
 ### [2 Communist Party of India-Marxist (CPI-M) workers are shot dead by suspected Maoists at Balarampur in Maoist-hit Purulia district. ](/news/2010/10/10/2-communist-party-of-india-marxist-cpi-m-workers-are-shot-dead-by-suspected-maoists-at-balarampur-in-maoist-hit-purulia-district.md)
 _Context: Balarampur, Communist Party of India-Marxist, Maoist, Purulia district_
@@ -34,7 +34,7 @@ _Context: Hanoi, Vietnam_
 More than 39,000 couples have chosen Sunday as their wedding day, figuring that “a perfect 10, times 3” is good luck.
 
 ### [U.S. soul singer Solomon Burke dies at Amsterdam's Airport Schiphol. ](/news/2010/10/10/u-s-soul-singer-solomon-burke-dies-at-amsterdam-s-airport-schiphol.md)
-_Context: Amsterdam, Amsterdam Airport Schiphol, Solomon Burke, U.S., soul music_
+_Context: Amsterdam, Amsterdam Airport Schiphol, Solomon Burke, United States, soul music_
 
 ### [12 people die and 73 are injured when two express buses, a van and three cars collide at Km 223, Plus Highway near the Simpang Ampat toll in Negri Sembilan, Malaysia. ](/news/2010/10/10/12-people-die-and-73-are-injured-when-two-express-buses-a-van-and-three-cars-collide-at-km-223-plus-highway-near-the-simpang-ampat-toll-in.md)
 A collision involving two buses, a van and three cars left at least 11 people dead in Malaysia on Sunday, state media reported.
@@ -89,21 +89,6 @@ _Context: Ata-Zhurt, Kyrgyzstan, Kyrgyzstani parliamentary election_
 
 ### [10:10 and 350.org's "Global Work Party: a day of positive action on climate change" attracts a wide range of events in over 180 countries. ](/news/2010/10/10/10-10-and-350-org-s-global-work-party-a-day-of-positive-action-on-climate-change-attracts-a-wide-range-of-events-in-over-180-countries.md)
 Silicon Valley joins Global Work Party to combat climate change
-
-### [Sebastian Vettel of Red Bull Racing wins the 2010 Japanese Grand Prix with teammate Mark Webber finishing second. ](/news/2010/10/10/sebastian-vettel-of-red-bull-racing-wins-the-2010-japanese-grand-prix-with-teammate-mark-webber-finishing-second.md)
-Red Bulls Sebastian Vettel won the Japanese Grand Prix on Sunday ahead of team-mate Mark Webber.
-
-### [Australian V8 Supercar drivers Craig Lowndes and Mark Skaife win the 2010 Supercheap Auto Bathurst 1000 ahead of Triple Eight teammates . ](/news/2010/10/10/australian-v8-supercar-drivers-craig-lowndes-and-mark-skaife-win-the-2010-supercheap-auto-bathurst-1000-ahead-of-triple-eight-teammates.md)
-Craig Lowndes and Mark Skaife won the Supercheap Auto Bathurst 1000, leading home team-mates Jamie Whincup and Steve Owen in a 1-2 finish for Team Vodafone.
-
-### [Sachin Tendulkar of India becomes the first cricketer to pass 14,000 runs in Test cricket. ](/news/2010/10/10/sachin-tendulkar-of-india-becomes-the-first-cricketer-to-pass-14-000-runs-in-test-cricket.md)
-_Context: Cricket, Indian, Sachin Tendulkar, test cricket_
-
-### [Brazil beats Cuba 3-0 to win the 2010 FIVB Men's World Championship held in Italy. ](/news/2010/10/10/brazil-beats-cuba-3-0-to-win-the-2010-fivb-men-s-world-championship-held-in-italy.md)
-_Context: 2010 FIVB Men's World Championship, Brazil, Cuba men's national volleyball team, Italian_
-
-### [In the United States, the Philadelphia Phillies sweep the Cincinnati Reds in the 2010 National League Division Series to make the 2010 National League Championship Series.  ](/news/2010/10/10/in-the-united-states-the-philadelphia-phillies-sweep-the-cincinnati-reds-in-the-2010-national-league-division-series-to-make-the-2010-natio.md)
-_Context: 2010 National League Championship Series, 2010 National League Division Series, Cincinnati Reds, Philadelphia Phillies, U.S._
 
 ## [Previous Day...](/news/2010/10/9/index.md)
 

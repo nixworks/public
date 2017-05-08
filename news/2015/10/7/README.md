@@ -30,11 +30,5 @@ _Context: Brazil, Brazilian President, Dilma Rousseff, Federal Accounts Court, i
 ### [Tomas Lindahl, Paul L. Modrich and Aziz Sancar win the 2015 Nobel Prize in Chemistry for their work in DNA repair. ](/news/2015/10/7/tomas-lindahl-paul-l-modrich-and-aziz-sancar-win-the-2015-nobel-prize-in-chemistry-for-their-work-in-dna-repair.md)
 The 2015 Nobel Prize in Chemistry is awarded for discoveries in DNA repair.
 
-### [Federation Internationale de Football Association ethics committee recommends FIFA President Sepp Blatter be suspended, re: the Swiss attorney general's ongoing criminal investigation. The final decision will be made by Chairman of the Ethics Committee's adjudication chamber, Hans-Joachim Eckert. ](/news/2015/10/7/fa-c-da-c-ration-internationale-de-football-association-ethics-committee-recommends-fifa-president-sepp-blatter-be-suspended-re-the-swiss-atto.md)
-_Context: 2015 FIFA corruption case, FIFA, President of FIFA, Sepp Blatter, Swiss, attorney general's_
-
-### [The Chicago Cubs beat the Pittsburgh Pirates 4-0 in the MLB  National League Wild Card Game. ](/news/2015/10/7/the-chicago-cubs-beat-the-pittsburgh-pirates-4-0-in-the-mlb-national-league-wild-card-game.md)
-Jake Arrieta threw a complete-game shutout while Dexter Fowler and Kyle Schwarber provided the offense for the Chicago Cubs in their wild-card win.
-
 ## [Previous Day...](/news/2015/10/6/index.md)
 

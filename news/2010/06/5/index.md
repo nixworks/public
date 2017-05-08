@@ -19,7 +19,7 @@ _Context: 11th Panchen Lama, Buddha, Jokhang Temple, Lhasa, Tibet Autonomous Reg
 time grand slam winner since 1969
 
 ### [Horse racing:Workforce wins the Epsom Derby. Jockey Ryan L. Moore also won the Epsom Oaks on Friday. (](/news/2010/06/5/horse-racing-pworkforce-wins-the-epsom-derby-jockey-ryan-l-moore-also-won-the-epsom-oaks-on-friday.md)
-_Context: Epsom Derby, Epsom Oaks, Ryan L. Moore, Workforce, horse racing_
+_Context: Epsom Derby, Epsom Oaks, Horse racing, Ryan L. Moore, Workforce_
 
 ## [Previous Day...](/news/2010/06/4/index.md)
 

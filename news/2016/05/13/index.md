@@ -30,8 +30,5 @@ Brazil&#x27;s Senate voted to impeach President Dilma Rousseff early Thursday am
 ### [ Venezuelan President Nicolas Maduro declares a sixty-day state of emergency. ](/news/2016/05/13/venezuelan-president-nicola-s-maduro-declares-a-sixty-day-state-of-emergency.md)
 Nicolas Maduro says ‘Washington is activating measures at the request of Venezuela’s fascist right’
 
-### [Fatma Samoura, a Senegalese United Nations official, is appointed as the Secretary General of FIFA. She is the first woman and first person from outside Europe to be appointed to the position. ](/news/2016/05/13/fatma-samoura-a-senegalese-united-nations-official-is-appointed-as-the-secretary-general-of-fifa-she-is-the-first-woman-and-first-person.md)
-Kosovo and Gibraltar become the 210th and 211th members of Fifa and can enter World Cup 2018 qualifying.
-
 ## [Previous Day...](/news/2016/05/12/index.md)
 

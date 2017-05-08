@@ -7,7 +7,7 @@ _Context: General, James L. Jones, National Security Advisor, Obama, President-e
 _Context: 800 billion "stimulus" package, U.S. Federal Reserve, US$_
 
 ### [ Armenia retains their championship title by beating China 2.5-1.5 in the 11th and final round at the 38th Chess Olympiad in Dresden, Germany. ](/news/2008/11/25/armenia-retains-their-championship-title-by-beating-china-2-5-1-5-in-the-11th-and-final-round-at-the-38th-chess-olympiad-in-dresden-german.md)
-_Context: 38th Chess Olympiad, Armenia, China, Dresden, Germany_
+_Context: 38th Chess Olympiad, Armenia, China, Dresden, German_
 
 ### [ Three people are killed in a car bombing near the Udelnaya  Metro station in Saint Petersburg, Russia. ](/news/2008/11/25/three-people-are-killed-in-a-car-bombing-near-the-udelnaya-metro-station-in-saint-petersburg-russia.md)
 _Context: Russia, Saint Petersburg, Saint Petersburg Metro, car bombing_

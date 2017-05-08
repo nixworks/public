@@ -39,20 +39,5 @@ _Context: Kuwait, Kuwaiti election history, Opposition, Voter turnout, boycott, 
 ### [The Enterprise|CVN-65|6, the world's first nuclear-powered aircraft carrier, is officially inactivated in ceremonies held at Naval Station Norfolk, Virginia, completing a 51-year career in the United States Navy. In a pre-recorded speech, U.S. Secretary of the Navy Ray Mabus announces that the U.S. Navy's third Gerald R. Ford|aircraft carrier, CVN-80, will be named ''Enterprise''. ](/news/2012/12/1/the-enterprise-cvn-65-6-the-world-s-first-nuclear-powered-aircraft-carrier-is-officially-inactivated-in-ceremonies-held-at-naval-station-n.md)
 _Context: CVN-80, Naval Station Norfolk, Ray Mabus, Secretary of the Navy, U.S. Navy, aircraft carrier_
 
-### [Ukrainian chess player Anna Ushenina wins the Women's World Chess Championship 2012 in Khanty-Mansiysk, Russia, by defeating Antoaneta Stefanova from Bulgaria on rapid tie-breaks. ](/news/2012/12/1/ukrainian-chess-player-anna-ushenina-wins-the-women-s-world-chess-championship-2012-in-khanty-mansiysk-russia-by-defeating-antoaneta-stefa.md)
-FLASH REPORT - Anna Ushenina of Ukraine has become the 2012 Women&#039;s World Chess Champion by defeating Antoaneta Stefanova on tie-breaks 1½-½. Ushenina drew the first rapid tie-break game with the black...
-
-### [The draw for the 2013 FIFA Confederations Cup is held at the Anhembi Convention Center in Sao Paulo, Brazil. Title holders Brazil will face Japan, Mexico, Italy in Group A while World Champions Spain will play Uruguay, Tahiti and the 2013 African Champion in Group B. ](/news/2012/12/1/the-draw-for-the-2013-fifa-confederations-cup-is-held-at-the-anhembi-convention-center-in-sapso-paulo-brazil-title-holders-brazil-will-face.md)
-_Context: 2010 FIFA World Cup, 2013 Africa Cup of Nations, 2013 FIFA Confederations Cup, Anhembi Convention Center, Brazil, Brazil national football team, Italy, Japan, Mexico, Sao Paulo, Spain, Tahiti, Title holders, Uruguay_
-
-### [Spanish football club Valencia fires Mauricio Pellegrino as coach after the 2-5 home loss to Real Sociedad in the 2012-13 La Liga. ](/news/2012/12/1/spanish-football-club-valencia-fires-mauricio-pellegrino-as-coach-after-the-2a5-home-loss-to-real-sociedad-in-the-2012a13-la-liga.md)
-_Context: 2012-13 La Liga, Mauricio Pellegrino, Real Sociedad, Spain, Valencia_
-
-### [The Los Angeles Galaxy defeat the Houston Dynamo 3-1 to win the 2012 Major League Soccer Cup. It is David Beckham's final game. ](/news/2012/12/1/the-los-angeles-galaxy-defeat-the-houston-dynamo-3a1-to-win-the-2012-major-league-soccer-cup-it-is-david-beckham-s-final-game.md)
-_Context: 2012 Major League Soccer Cup, David Beckham, Houston Dynamo, Los Angeles Galaxy_
-
-### [In college football, the Alabama Crimson Tide defeat the Georgia Bulldogs 32-28 in the 2012 Southeastern Conference Championship Game, projecting Alabama to play the Notre Dame Fighting Irish in the 2013 BCS National Championship Game. ](/news/2012/12/1/in-college-football-the-alabama-crimson-tide-defeat-the-georgia-bulldogs-32a28-in-the-2012-southeastern-conference-championship-game-pro.md)
-Get a recap of the Alabama Crimson Tide vs. Georgia Bulldogs football game.
-
 ## [Previous Day...](/news/2012/11/30/index.md)
 

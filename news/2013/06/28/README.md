@@ -42,8 +42,5 @@ _Context: John Constable, The Hay Wain_
 ### [Gay marriage in the state of California is legalized after the stay held on the unconstitutional California Proposition 8 is lifted. Two women who successfully challenged Proposition 8 in the Supreme Court of the United States are married in San Francisco. ](/news/2013/06/28/gay-marriage-in-the-state-of-california-is-legalized-after-the-stay-held-on-the-unconstitutional-california-proposition-8-is-lifted-two-wom.md)
 _Context: California, California Proposition 8, San Francisco, California, Supreme Court of the United States_
 
-### [Former captain of the Pakistan cricket team Salman Butt admits to fixing matches in 2010. ](/news/2013/06/28/former-captain-of-the-pakistan-cricket-team-salman-butt-admits-to-fixing-matches-in-2010.md)
-_Context: Cricket, Salman Butt_
-
 ## [Previous Day...](/news/2013/06/27/index.md)
 

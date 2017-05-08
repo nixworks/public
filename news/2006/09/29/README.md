@@ -13,7 +13,7 @@ Prosecutors could charge two American pilots of an executive jet with manslaught
 _Context: Ayman al-Zawahiri, Benedict XVI, George W. Bush, President, Roman Catholic Church, War on Terror, al-Qaeda, controversial speech_
 
 ### [ Rep. Mark Foley, R-Fla., resigns from the United States House of Representatives in the wake of questions about e-mails and instant messages he wrote to a former Capitol page. ](/news/2006/09/29/rep-mark-foley-r-fla-resigns-from-the-united-states-house-of-representatives-in-the-wake-of-questions-about-e-mails-and-instant-message.md)
-_Context: FL, Mark Foley, Republican, United States House of Representatives, e-mail, page_
+_Context: Florida, Mark Foley, Republican, United States House of Representatives, e-mail, page_
 
 ### [ Soyuz TMA-8, with the Expedition 13 crew and Iranian-American space tourist Anousheh Ansari on board, lands safely on the Kazakh steppe. ](/news/2006/09/29/soyuz-tma-8-with-the-expedition-13-crew-and-iranian-american-space-tourist-anousheh-ansari-on-board-lands-safely-on-the-kazakh-steppe.md)
 _Context: Anousheh Ansari, Expedition 13, Iranian-American, Kazakhstan, Soyuz TMA-8, space tourist, steppe_

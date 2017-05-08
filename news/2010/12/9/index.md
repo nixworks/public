@@ -4,7 +4,7 @@
 Dame Helen Mirren condemns film-makers for aiming movies at young men, saying Hollywood worships &quot;at the altar of the 18- to 25-year-old male.&quot;
 
 ### [Governor of the U.S. state of Florida Charlie Crist posthumously pardons Jim Morrison, the lead singer of The Doors, for indecent exposure. ](/news/2010/12/9/governor-of-the-u-s-state-of-florida-charlie-crist-posthumously-pardons-jim-morrison-the-lead-singer-of-the-doors-for-indecent-exposure.md)
-_Context: Charlie Crist, Doors, FL, Governor of Florida, Jim Morrison, indecent exposure_
+_Context: Charlie Crist, Doors, Florida, Governor of Florida, Jim Morrison, indecent exposure_
 
 ### [An hour-long live episode of ''Coronation Street'' is broadcast on the soap opera's 50th anniversary. ](/news/2010/12/9/an-hour-long-live-episode-of-coronation-street-is-broadcast-on-the-soap-opera-s-50th-anniversary.md)
 _Context: Coronation Street, soap opera_
@@ -28,7 +28,7 @@ Queanbeyan, south-east of Canberra, has been declared a natural disaster zone af
 The African Union suspends Ivory Coast, following a disputed presidential election in the West African nation.
 
 ### [India is to complain to the United States after its ambassador, Meera Shankar,  was pulled from a security line and patted down at an airport. ](/news/2010/12/9/india-is-to-complain-to-the-united-states-after-its-ambassador-meera-shankar-was-pulled-from-a-security-line-and-patted-down-at-an-airpor.md)
-_Context: India, Meera Shankar, U.S._
+_Context: India, Meera Shankar, United States_
 
 ### [United States diplomatic cables leak:Thousands of WikiLeaks supporters launch further and more intense denial-of-service attack against companies who have blacklisted the website. ](/news/2010/12/9/united-states-diplomatic-cables-leak-pthousands-of-wikileaks-supporters-launch-further-and-more-intense-denial-of-service-attack-against-com.md)
 A group of computer hackers are planning to attack Amazon, the online retailer, over its treatment of the whistle-blowing website WikiLeaks.

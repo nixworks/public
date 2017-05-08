@@ -13,7 +13,7 @@ A day after heavy storms left at least five dead and large swaths of the city un
 _Context: 2015 Indian heat wave, Andhra Pradesh, Telangana_
 
 ### [Representatives from the United States, Japan and South Korea meet in Seoul on how to respond to North Korea's nuclear weapons program. ](/news/2015/05/27/representatives-from-the-united-states-japan-and-south-korea-meet-in-seoul-on-how-to-respond-to-north-korea-s-nuclear-weapons-program.md)
-_Context: Japan, North Korea and weapons of mass destruction, Seoul, South Korea, U.S._
+_Context: Japan, North Korea and weapons of mass destruction, Seoul, South Korea, United States_
 
 ### [Former Prime Minister of the United Kingdom Tony Blair resigns as the peace envoy of the Quartet on the Middle East. ](/news/2015/05/27/former-prime-minister-of-the-united-kingdom-tony-blair-resigns-as-the-peace-envoy-of-the-quartet-on-the-middle-east.md)
 Former British prime minister Tony Blair resigns as envoy of the Middle East Quartet diplomatic group.
@@ -38,12 +38,6 @@ _Context: 2016 U.S. presidential election, Republican Party presidential candida
 
 ### [Elon Musk's SpaceX wins U.S. Air Force approval to launch military satellites. ](/news/2015/05/27/elon-musk-s-spacex-wins-u-s-air-force-approval-to-launch-military-satellites.md)
 Elon Musk&#39;s firm SpaceX has won long-waited approval from the US Air Force to launch military satellites, opening the way to a lucrative market.
-
-### [In association football, Sevilla FC of Spain becomes the first club to win the UEFA Europa League four times defeating FC Dnipro Dnipropetrovsk of Ukraine 3-2 with Colombian striker Carlos Bacca scoring twice in the final. ](/news/2015/05/27/in-association-football-sevilla-fc-of-spain-becomes-the-first-club-to-win-the-uefa-europa-league-four-times-defeating-fc-dnipro-dnipropetro.md)
-Dnipro Dnipropetrovsk winger Matheus Nascimento collapses during the Europa League final against Sevilla in Warsaw.
-
-### [In basketball, the Golden State Warriors defeat the Houston Rockets 104-90 to win the Western Conference 4-1 and go to the NBA Finals for the first time since 1975. ](/news/2015/05/27/in-basketball-the-golden-state-warriors-defeat-the-houston-rockets-104-90-to-win-the-western-conference-4-1-and-go-to-the-nba-finals-for-th.md)
-_Context: 2015 NBA Finals, Golden State Warriors, Houston Rockets, Western Conference_
 
 ## [Previous Day...](/news/2015/05/26/index.md)
 

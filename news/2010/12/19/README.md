@@ -54,20 +54,5 @@ Prime Minister Wen Jiabao lavishly praised Pakistan’s efforts to combat terror
 ### [Belarusian presidential election, 2010:Belarus votes.Thousands of opposition protesters encounter riot police at government headquarters in Minsk, while opposition candidate Vladimir Neklyaev is seriously injured. ](/news/2010/12/19/belarusian-presidential-election-2010-pbelarus-votes-pthousands-of-opposition-protesters-encounter-riot-police-at-government-headquarters-i.md)
 Thousands of opposition protesters in Belarus try to storm the main government building, as President Lukashenko is declared winner of disputed elections.
 
-### [Sachin Tendulkar of the Indian cricket team becomes the first player in the history of Test cricket to score 50 centuries in test matches, during a match against South Africa at SuperSport Park in Centurion in Gauteng Province. ](/news/2010/12/19/sachin-tendulkar-of-the-indian-cricket-team-becomes-the-first-player-in-the-history-of-test-cricket-to-score-50-centuries-in-test-matches-d.md)
-_Context: Centurion, Gauteng Province, Indian cricket team, Sachin Tendulkar, South Africa, SuperSport Park, century, test cricket_
-
-### [Disappointed fans of unsuccessful 2010 FIFA Club World Cup finalists TP Mazembe express their frustration with Chinese businesses, though no one is injured. ](/news/2010/12/19/disappointed-fans-of-unsuccessful-2010-fifa-club-world-cup-finalists-tp-mazembe-express-their-frustration-with-chinese-businesses-though-no.md)
-Police fire shots to disperse disgruntled fans in DR Congo, after TP Mazembe lose 3-0 to Inter Milan in the Club World Cup final.
-
-### [Sir Alex Ferguson becomes the longest serving manager of Manchester United F.C.. ](/news/2010/12/19/sir-alex-ferguson-becomes-the-longest-serving-manager-of-manchester-united-f-c.md)
-_Context: Manchester United, Sir Alex Ferguson_
-
-### [Tony McCoy wins 2010 BBC Sports Personality of the Year Award, with Phil Taylor 2nd and Jessica Ennis 3rd at the National Exhibition Centre in Birmingham. ](/news/2010/12/19/tony-mccoy-wins-2010-bbc-sports-personality-of-the-year-award-with-phil-taylor-2nd-and-jessica-ennis-3rd-at-the-national-exhibition-centre.md)
-_Context: Award, Jessica Ennis, National Exhibition Centre, Phil Taylor, Tony McCoy_
-
-### [The Philadelphia Eagles overcome a 4th quarter 21-point deficit to defeat the New York Giants 38-31 after a DeSean Jackson walk-off punt return for a touchdown in the Miracle at the New Meadowlands. ](/news/2010/12/19/the-philadelphia-eagles-overcome-a-4th-quarter-21-point-deficit-to-defeat-the-new-york-giants-38-31-after-a-desean-jackson-walk-off-punt-ret.md)
-_Context: DeSean Jackson, Miracle at the New Meadowlands, New York Giants, Philadelphia Eagles_
-
 ## [Previous Day...](/news/2010/12/18/index.md)
 

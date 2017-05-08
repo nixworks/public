@@ -54,8 +54,5 @@ Republican presidential candidates gang up on rival Ron Paul as a poll gives him
 ### [China's Compass satellite navigation system, a rival to the American Global Positioning System (GPS), becomes operational, offering navigation services on the Chinese mainland. The system is expected to become available worldwide by 2020. ](/news/2011/12/28/china-s-compass-satellite-navigation-system-a-rival-to-the-american-global-positioning-system-gps-becomes-operational-offering-navigati.md)
 _Context: China, Chinese mainland, Compass satellite navigation system, Global Positioning System_
 
-### [In yachting, ''Investec LOYAL'' wins line honours in the 2011 Sydney to Hobart Yacht Race, subject to a protest by ''Wild Oats XI''. ](/news/2011/12/28/in-yachting-investec-loyal-wins-line-honours-in-the-2011-sydney-to-hobart-yacht-race-subject-to-a-protest-by-wild-oats-xi.md)
-Investec LOYAL&#039;s thrilling Sydney to Hobart line honours win is under threat after its crew was accused of using an ABC helicopter pilot to spy on rival Wild Oats XI.
-
 ## [Previous Day...](/news/2011/12/27/index.md)
 

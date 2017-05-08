@@ -24,20 +24,5 @@ _Context: AKEL, Cyprus, Democratic Rally, Nicos Anastasiades, Stavros Malas, pre
 ### [Protests occur in Pakistan demanding protection for Shiite Muslims following yesterday's bombing in Quetta that killed 84 people. ](/news/2013/02/17/protests-occur-in-pakistan-demanding-protection-for-shiite-muslims-following-yesterday-s-bombing-in-quetta-that-killed-84-people.md)
 _Context: February 2013 Quetta bombing, Pakistan, Quetta, Shiite_
 
-### [In cricket, Australia defeats West Indies in the final of the 2013 Women's Cricket World Cup. ](/news/2013/02/17/in-cricket-australia-defeats-west-indies-in-the-final-of-the-2013-women-s-cricket-world-cup.md)
-Live Cricket News - Latest cricket updates, live cricket scores, cricket fan blogs, &amp; world cup history. Discuss cricket&#039;s best innings, bowling spells, heroes, upsets, Sachin&#039;s records, IPL T20, world cup and more at Cricket Country - Cricket Country
-
-### [In biathlon, Norway's Emil Hegle Svendsen and Tora Berger become the main heroes of the 2013 Biathlon World Championships in Nove Mesto, Czech Republic. ](/news/2013/02/17/in-biathlon-norway-s-emil-hegle-svendsen-and-tora-berger-become-the-main-heroes-of-the-2013-biathlon-world-championships-in-nova-c-masto-c.md)
-_Context: 2013, Biathlon World Championships, Czech, Emil Hegle Svendsen, Norway, Nove Mesto, Tora Berger, biathlon_
-
-### [In beach soccer, Argentina, Paraguay and Brazil secure qualification for the 2013 FIFA Beach Soccer World Cup. ](/news/2013/02/17/in-beach-soccer-argentina-paraguay-and-brazil-secure-qualification-for-the-2013-fifa-beach-soccer-world-cup.md)
-Argentina and Paraguay qualified for the FIFA Beach Soccer World Cup thanks to wins over Ecuador and Brazil, with the four-time world champion A Seleção to play off as they seek to avoid missing the tournament for the first time.
-
-### [In motorsport, Danica Patrick becomes the first woman to win pole position at the Daytona 500 and the NASCAR Sprint Cup Series. ](/news/2013/02/17/in-motorsport-danica-patrick-becomes-the-first-woman-to-win-pole-position-at-the-daytona-500-and-the-nascar-sprint-cup-series.md)
-Danica Patrick has won the Daytona 500 pole, becoming the first woman to secure the top spot for any Sprint Cup race.
-
-### [In speed skating, Sven Kramer wins the men's 2013 World Allround Speed Skating Championships for a record sixth time. Ireen Wust wins the women's title. ](/news/2013/02/17/in-speed-skating-sven-kramer-wins-the-men-s-2013-world-allround-speed-skating-championships-for-a-record-sixth-time-ireen-wa1-4st-wins-the-w.md)
-_Context: 2013 World Allround Speed Skating Championships, Ireen Wust, Sven Kramer, record sixth time, speed skating_
-
 ## [Previous Day...](/news/2013/02/16/index.md)
 

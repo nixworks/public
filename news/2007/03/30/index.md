@@ -1,7 +1,7 @@
 ## [2007-03-30](/news/2007/03/30/index.md)
 
 ### [ India's legendary leg spinner Anil Kumble retires from One Day International cricket. ](/news/2007/03/30/india-s-legendary-leg-spinner-anil-kumble-retires-from-one-day-international-cricket.md)
-_Context: Anil Kumble, Cricket, Indian cricket team, One Day International, leg spinner_
+_Context: Anil Kumble, India, One Day International, cricketer, leg spinner_
 
 ### [ Insurgency in Somalia: An Ethiopian helicopter is downed in Mogadishu as Ethiopian and Somali government troops battle insurgents. ](/news/2007/03/30/insurgency-in-somalia-an-ethiopian-helicopter-is-downed-in-mogadishu-as-ethiopian-and-somali-government-troops-battle-insurgents.md)
 _Context:  Insurgency in Somalia, Ethiopia, Mogadishu, heavy clashes_

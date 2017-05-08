@@ -57,11 +57,5 @@ He had been on a medical leave of absence since June 11, following a seizure and
 ### [President of Paraguay Fernando Lugo faces impeachment. ](/news/2012/06/21/president-of-paraguay-fernando-lugo-faces-impeachment.md)
 _Context: Fernando Lugo, Paraguayan President_
 
-### [UEFA Euro 2012:Cristiano Ronaldo scores the match-winning goal as Portugal defeat the Czech Republic and continue into the semi-finals. ](/news/2012/06/21/uefa-euro-2012-pcristiano-ronaldo-scores-the-match-winning-goal-as-portugal-defeat-the-czech-republic-and-continue-into-the-semi-finals.md)
-Cristiano Ronaldo scores the match-winning goal as Portugal power past Czech Republic and into the semi-finals of Euro 2012.
-
-### [In American basketball, the Miami Heat wins the 2012 NBA Finals defeating the Oklahoma City Thunder four games to one. LeBron James wins the NBA Finals MVP award. ](/news/2012/06/21/in-american-basketball-the-miami-heat-wins-the-2012-nba-finals-defeating-the-oklahoma-city-thunder-four-games-to-one-lebron-james-wins-the.md)
-Get a recap of the Oklahoma City Thunder vs. Miami Heat basketball game.
-
 ## [Previous Day...](/news/2012/06/20/index.md)
 

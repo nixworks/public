@@ -90,11 +90,5 @@ _Context: New York, Somalia, al-Qaida, al-Shabaab_
 ### [Casey Anthony is acquitted of murder in relation to the death of her daughter Caylee, but guilty on four counts of misdemeanor providing false information to a law enforcement officer. ](/news/2011/07/5/casey-anthony-is-acquitted-of-murder-in-relation-to-the-death-of-her-daughter-caylee-but-guilty-on-four-counts-of-misdemeanor-providing-fal.md)
 Jurors in Orlando today found Casey Anthony not guilty of murder in the death of her 2-year-old daughter, Caylee.
 
-### [A United Kingdom House of Commons inquiry into allegations of corruption associated with bids for the 2018 and 2022 FIFA World Cup tournaments accuses FIFA of trying to dismiss the allegations and questions FIFA President Sepp Blatter's commitment to reform. ](/news/2011/07/5/a-united-kingdom-house-of-commons-inquiry-into-allegations-of-corruption-associated-with-bids-for-the-2018-and-2022-fifa-world-cup-tournamen.md)
-_Context: 2018, 2022 FIFA World Cup, FIFA, Sepp Blatter, United Kingdom House of Commons, World Cup_
-
-### [Yuri Ogorodonik is sacked as the coach of India's track and field squad after eight athletes were suspended within a week for failing doping tests. ](/news/2011/07/5/yuri-ogorodonik-is-sacked-as-the-coach-of-india-s-track-and-field-squad-after-eight-athletes-were-suspended-within-a-week-for-failing-doping.md)
-_Context: India, Yuri Ogorodonik, doping test, track and field_
-
 ## [Previous Day...](/news/2011/07/4/index.md)
 

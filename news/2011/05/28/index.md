@@ -30,8 +30,5 @@ Unrest flares in the south-eastern Peruvian city of Puno, with indigenous protes
 ### [Malta votes on the introduction of divorce. ](/news/2011/05/28/malta-votes-on-the-introduction-of-divorce.md)
 Voters will head to the polls today in a historic consultative referendum on divorce. The Electoral Commission confirmed yesterday 20,775 voting documents remained uncollected by midnight on Thursday. According to the October Electoral Register there were 325,157 eligible voters. The number of...
 
-### [FootballFC Barcelona wins the 2010-11 UEFA Champions League beating Manchester United F.C. 3-1 in the 2011 UEFA Champions League Final. ](/news/2011/05/28/footballpfc-barcelona-wins-the-2010-11-uefa-champions-league-beating-manchester-united-f-c-3-1-in-the-2011-uefa-champions-league-final.md)
-_Context: 2010-11, 2011 UEFA Champions League Final, FC Barcelona, Manchester United, UEFA Champions League_
-
 ## [Previous Day...](/news/2011/05/27/index.md)
 

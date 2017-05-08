@@ -22,25 +22,13 @@ _Context: Cambodia, Khmer Rouge, Nuon Chea, United Nations_
 A terror alert at the Eiffel Tower has been cleared after the monument was evacuated Saturday when an anonymous caller phoned in a bomb threat.
 
 ### [Three people are shot (one critically) at three stores at the Edgewood Towne Center shopping plaza near Pittsburgh, Pennsylvania, United States. The victims were taken to UPMC Presbyterian Hospital while police searched the area. ](/news/2013/03/30/three-people-are-shot-one-critically-at-three-stores-at-the-edgewood-towne-center-shopping-plaza-near-pittsburgh-pennsylvania-united-sta.md)
-_Context: Pennsylvania, Pittsburgh, U.S._
+_Context: Pennsylvania, Pittsburgh, United States_
 
 ### [Famous panda Mei Xiang is artificially inseminated in the U.S. National Zoo after natural breeding failed to occur. ](/news/2013/03/30/famous-panda-mei-xiang-is-artificially-inseminated-in-the-u-s-national-zoo-after-natural-breeding-failed-to-occur.md)
 _Context: Mei Xiang's, U.S. National Zoo, artificially inseminated, breeding, panda_
 
 ### [Scientists announce that a green meteorite Northwest Africa 7325, found in Morocco in 2012, may have originated on Mercury, which, if proven, would be the first known meteorite from that planet. ](/news/2013/03/30/scientists-announce-that-a-green-meteorite-northwest-africa-7325-found-in-morocco-in-2012-may-have-originated-on-mercury-which-if-proven.md)
 A strange, green meteorite called NWA 7325 may actually the first piece of Mercury ever found on Earth. Find out where the ancient meteorite was found. 
-
-### [New Zealand cricketer Jesse Ryder, who was assaulted outside a bar, is now out of the induced coma and off the ventilator, but has no recollection of the attack. ](/news/2013/03/30/new-zealand-cricketer-jesse-ryder-who-was-assaulted-outside-a-bar-is-now-out-of-the-induced-coma-and-off-the-ventilator-but-has-no-recoll.md)
-_Context: Cricket, Jesse Ryder, New Zealand, assailant, induced coma, ventilator_
-
-### [The UCLA Bruins men's basketball team hires Steve Alford as its new head coach. ](/news/2013/03/30/the-ucla-bruins-men-s-basketball-team-hires-steve-alford-as-its-new-head-coach.md)
-Steve Alford has been hired as UCLA&rsquo;s basketball coach, the university announced Saturday morning. Alford, 48, spent the last six seasons at New Mexico, compiling a 155-52 record. He replaces...
-
-### [Long time University of Alabama athletics director Mal Moore dies at age 73. ](/news/2013/03/30/long-time-university-of-alabama-athletics-director-mal-moore-dies-at-age-73.md)
-Longtime University of Alabama Athletics Director Mal Moore, who stepped down roughly 10 days ago, passed away Saturday at Duke University Medical Center in Durham, N.C. Moore, 73, had been battling pulmonary difficulties.
-
-### [The University of Michigan wins the 2013 NCAA Men's Swimming and Diving Championships. ](/news/2013/03/30/the-university-of-michigan-wins-the-2013-ncaa-men-s-swimming-and-diving-championships.md)
-_Context: NCAA Men's Swimming and Diving Championships, University of Michigan_
 
 ## [Previous Day...](/news/2013/03/29/index.md)
 

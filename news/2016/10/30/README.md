@@ -19,7 +19,7 @@ Canada and the EU sign the long-delayed Ceta free trade deal at a summit in Brus
 _Context: Boko Haram, Boko Haram insurgency, Nigeria, United Nations_
 
 ### [The United States orders all civilian staff family members to leave its consulate in Istanbul, Turkey, due to increasing threats from terrorist organizations. ](/news/2016/10/30/the-united-states-orders-all-civilian-staff-family-members-to-leave-its-consulate-in-istanbul-turkey-due-to-increasing-threats-from-terror.md)
-_Context: Istanbul, Turkey, U.S., consulate_
+_Context: Istanbul, Turkey, United States, consulate_
 
 ### [Turkey dismisses another 10,000 civil servants and closes 15 more media outlets for alleged ties to terrorist organizations and cleric Fethullah Gulen. ](/news/2016/10/30/turkey-dismisses-another-10-000-civil-servants-and-closes-15-more-media-outlets-for-alleged-ties-to-terrorist-organizations-and-cleric-fethu.md)
 Turkey said it had dismissed a further 10,000 civil servants and closed 15 more media outlets over suspected links with terrorist organizations and U.S.-based cleric Fethullah Gulen, blamed by Ankara for orchestrating a failed coup in July.
@@ -32,9 +32,6 @@ _Context: Igor Dodon, Maia Sandu, Moldova, Moldovan presidential election_
 
 ### [Iceland's incumbent, centre-right Independence Party surprised pollsters by winning 29 percent of the vote (21 seats), thereby putting leader Bjarni Benediktsson in position to organize another coalition government.  The Progressive Party, the current ruling partner,  garnered 11.5% and eight positions, a loss of  11 seats. The new Pirate Party didn't perform as predicted with 14.5% of the ballots, though it did get 10 seats, an increase of seven more positions in the 63-seat parliament (Althing). ](/news/2016/10/30/icelandas-incumbent-centre-right-independence-party-surprised-pollsters-by-winning-29-percent-of-the-vote-21-seats-thereby-putting-lea.md)
 The Pirates — formed just four years ago — had polled between 18 and 30 percent in the six months leading up to the contest.
-
-### [The Chicago Cubs defeat the Cleveland Indians 3 runs to 2 at Illinois' Wrigley Field in Game 5 of the 2016 World Series to avoid elimination and force a Game 6 with the series standing at 3 games to 2 in favor of the Cleveland Indians. It is the Cubs' first-ever win of a World Series game at the stadium since October 1945. ](/news/2016/10/30/the-chicago-cubs-defeat-the-cleveland-indians-3-runs-to-2-at-illinois-wrigley-field-in-game-5-of-the-2016-world-series-to-avoid-elimination.md)
-_Context: 2016 World Series, Chicago Cubs, Cleveland Indians, October 1945, Wrigley Field_
 
 ## [Previous Day...](/news/2016/10/29/index.md)
 

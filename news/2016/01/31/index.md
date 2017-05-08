@@ -24,8 +24,5 @@ Twelve bodies have been recovered from a factory fire in eastern Moscow, Russiaâ
 ### [Japan deploys two MIM-104 Patriot surface-to-air missile interceptor systems in Tokyo in preparation for any North Korean ballistic missiles potentially heading for the city. The deployment comes amid concerns of an imminent North Korean missile launch following the detection of "increased activity" at a North Korean missile facility. ](/news/2016/01/31/japan-deploys-two-mim-104-patriot-surface-to-air-missile-interceptor-systems-in-tokyo-in-preparation-for-any-north-korean-ballistic-missiles.md)
 Japan says it has deployed two Patriot missile interceptors in Tokyo to counter North Koreaâ€™s activity. The deployment comes amid reports that Pyongyang is preparing for a space rocket launch.
 
-### [In tennis, defending champion Novak Djokovic of Serbia defeats second seed Andy Murray of the United Kingdom in the men's singles in straight sets. It is Djokovic's third straight Grand Slam title. ](/news/2016/01/31/in-tennis-defending-champion-novak-djokovic-of-serbia-defeats-second-seed-andy-murray-of-the-united-kingdom-in-the-men-s-singles-in-straigh.md)
-Novak Djokovic has history and a record-equalling sixth Australian Open title in his sights when he takes on Andy Murray in Sunday night&#039;s final.
-
 ## [Previous Day...](/news/2016/01/30/index.md)
 

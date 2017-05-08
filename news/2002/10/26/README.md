@@ -4,7 +4,7 @@
 _Context: Chechen War, Chechnya, Moscow theatre siege, gas, poison, special forces_
 
 ### [ The Anaheim Angels force a decisive seventh game with the San Francisco Giants in the 2002 World Series with a dramatic late-inning rally from 5-0 to win 6-5.](/news/2002/10/26/the-anaheim-angels-force-a-decisive-seventh-game-with-the-san-francisco-giants-in-the-2002-world-series-with-a-dramatic-late-inning-rally-f.md)
-_Context: 2002 World Series, Giants', Los Angeles Angels_
+_Context: 2002 World Series, Anaheim Angels, San Francisco Giants_
 
 ## [Previous Day...](/news/2002/10/25/index.md)
 

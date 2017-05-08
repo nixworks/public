@@ -4,7 +4,7 @@
 _Context: CIA, Khaled el-Masri, extraordinary rendition, torture_
 
 ### [ The International Committee of the Red Cross criticizes the United States for denying access to detainees in violation of the Geneva Convention. The US admits holding detainees secretly but claims they do not fall under that convention. ](/news/2006/05/13/the-international-committee-of-the-red-cross-criticizes-the-united-states-for-denying-access-to-detainees-in-violation-of-the-geneva-conven.md)
-_Context: Geneva Convention, International Committee of the Red Cross, U.S._
+_Context: Geneva Convention, International Committee of the Red Cross, United States_
 
 ### [ Typhoon Chanchu makes landfall twice in the Philippines. 23 people are killed and five remain missing after a boat capsizes in the stormy seas off Masbate island. ](/news/2006/05/13/typhoon-chanchu-makes-landfall-twice-in-the-philippines-23-people-are-killed-and-five-remain-missing-after-a-boat-capsizes-in-the-stormy-s.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
@@ -19,7 +19,7 @@ _Context: Australia, George Seitz, Labor Party, Victoria, Victorian Legislative 
 Lava streamed down the sides of Indonesia&#8217;s Mount Merapi on Tuesday, but the clouds of hot gas belching from the top were substantially smaller than the day before.
 
 ### [ Liverpool F.C. win the FA Cup against West Ham United F.C. on penalties after a last minute 40-yard Steven Gerrard equalizer. ](/news/2006/05/13/liverpool-f-c-win-the-fa-cup-against-west-ham-united-f-c-on-penalties-after-a-last-minute-40-yard-steven-gerrard-equalizer.md)
-_Context: FA Cup, Liverpool F.C., West Ham_
+_Context: FA Cup, Liverpool, West Ham United F.C._
 
 ### [ ](/news/2006/05/13/.md)
 ## [Previous Day...](/news/2006/05/12/index.md)

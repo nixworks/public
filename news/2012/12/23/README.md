@@ -36,17 +36,5 @@ Metropolitan Police Commissioner Bernard Hogan-Howe says his force will launch &
 ### [Egyptian constitutional referendum, 2012:A Draft constitution by the Constitutuent Assembly is approved by a majority of Egyptians in a referendum on 15 and 22 December. ](/news/2012/12/23/egyptian-constitutional-referendum-2012-pa-draft-constitution-by-the-constitutuent-assembly-is-approved-by-a-majority-of-egyptians-in-a-ref.md)
 Egyptians appear to have voted in favour of a deeply divisive new constitution, unofficial and preliminary referendum results suggest.
 
-### [2014 FIFA World Cup host Brazil will play Italy in a friendly game in Geneva, Switzerland, on 21 March 2013 ahead of their 2013 FIFA Confederations Cup match on 22 June 2013 in Salvador, Bahia. ](/news/2012/12/23/2014-fifa-world-cup-host-brazil-will-play-italy-in-a-friendly-game-in-geneva-switzerland-on-21-march-2013-ahead-of-their-2013-fifa-confede.md)
- Brazil have confirmed that they will face Italy in a friendly match on March 21 as preparation for the 2013 Confederations Cup
-
-### [Manchester United striker Robin van Persie is "lucky to be alive", according to his manager Sir Alex Ferguson, after a nasty incident during a Premier League game in Wales which ended in a 1-1 draw. ](/news/2012/12/23/manchester-united-striker-robin-van-persie-is-lucky-to-be-alive-according-to-his-manager-sir-alex-ferguson-after-a-nasty-incident-during.md)
-Sir Alex Ferguson believes Robin van Persie could have broken his neck when Swansea captain Ashley Williams hit the ball at him during a 1-1 draw at the Liberty Stadium
-
-### [Chelsea miss numerous chances, including a penalty, though still manage an 8-0 Premier League victory over Aston Villa, the team's worst defeat in their 138-year history. ](/news/2012/12/23/chelsea-miss-numerous-chances-including-a-penalty-though-still-manage-an-8a0-premier-league-victory-over-aston-villa-the-team-s-worst-d.md)
-Follow minute-by-minute commentary of the Premier League game between Chelsea and Aston Villa at Stamford Bridge on Sunday Dec 23 2012.
-
-### [Aykut Kocaman resigns as Fenerbahce coach after pressure from fans mounted following defeat to Karabukspor in the 2012-13 Super Lig. ](/news/2012/12/23/aykut-kocaman-resigns-as-fenerbahasse-coach-after-pressure-from-fans-mounted-following-defeat-to-karaba1-4kspor-in-the-2012a13-sa1-4per-lig.md)
-_Context: 2012-13 Super Lig, Aykut Kocaman, Fenerbahce, Karabukspor_
-
 ## [Previous Day...](/news/2012/12/22/index.md)
 

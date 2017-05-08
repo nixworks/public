@@ -45,8 +45,5 @@ Nigel Farage says UKIP can win seats at the general election after it made gains
 ### [The International Institute for Species Exploration announces the "Top 10 New Species" of 2013. ](/news/2014/05/22/the-international-institute-for-species-exploration-announces-the-top-10-new-species-of-2013.md)
 Each year, an international committee of taxonomists and related experts form a list of the top 10 species of the year. In 2013, the list included such species as the Lesula monkey, lightning roaches and the lyre sponge. Not to be outdone, 2014’s list includes a rich mix of biodiversity as well.
 
-### [In cricket, former New Zealand player Lou Vincent and Pakistan A team player Naveed Arif are charged with match fixing while playing for Sussex County Cricket Club in 2011. ](/news/2014/05/22/in-cricket-former-new-zealand-player-lou-vincent-and-pakistan-a-team-player-naveed-arif-are-charged-with-match-fixing-while-playing-for-sus.md)
-_Context: Cricket, Lou Vincent, Naveed Arif, New Zealand, Pakistan, Sussex County Cricket Club, match fixing_
-
 ## [Previous Day...](/news/2014/05/21/index.md)
 

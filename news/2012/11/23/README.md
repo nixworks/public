@@ -13,7 +13,7 @@ _Context: Aero L-159 Alca, Bohemia, Czech, aircraft, subsonic_
 _Context: 10 Most Wanted Fugitives list, Guadalajara, Joe Saenz, Mexican Police_
 
 ### [After a 2012-13 UEFA Europa League football match between Lazio and Tottenham Hotspur in Rome, Lazio and A.S. Roma fans wearing masks and armed with knives surround a pub while chanting "Jews, Jews". They then attacked the Jewish contingent of Tottenham fans in the pub and injured 10, with one individual severely wounded. ](/news/2012/11/23/after-a-2012a13-uefa-europa-league-football-match-between-lazio-and-tottenham-hotspur-in-rome-lazio-and-a-s-roma-fans-wearing-masks-and.md)
-_Context: 2012-13 UEFA Europa League, Jewish, Lazio, Roma, Rome, Tottenham Hotspur F.C._
+_Context: 2012-13 UEFA Europa League, Jewish, Lazio, Roma, Rome, Tottenham Hotspur_
 
 ### [Opposition leaders in Egypt call for large protests after President of Egypt Mohamed Morsi passed a decree giving himself sweeping new powers. Protests for and against his decision are taking place in Cairo, and violence has occurred throughout Egypt. ](/news/2012/11/23/opposition-leaders-in-egypt-call-for-large-protests-after-president-of-egypt-mohamed-morsi-passed-a-decree-giving-himself-sweeping-new-power.md)
 Police fired tear gas at protesters as supporters and opponents of President Mohamed Morsi clashed in Cairo. Over 100 people were reportedly injured as sporadic clashes continued into the night, while protesters organized a sit-in on Tahrir Square.
@@ -23,15 +23,6 @@ _Context: England, GCHQ, Surrey, United Kingdom, World War II, chimney, pigeon, 
 
 ### [A rail operator JR Tokai unveil a prototype of high-speed maglev L0 train, which it plans to operate on a route  Tokyo-Nagoya from 2027. ](/news/2012/11/23/a-rail-operator-jr-tokai-unveil-a-prototype-of-high-speed-maglev-l0-train-which-it-plans-to-operate-on-a-route-tokyoanagoya-from-2027.md)
 _Context: JR Tokai, L0 train, Nagoya, Tokyo, maglev_
-
-### [Harry Redknapp is appointed as the manager of Queens Park Rangers, taking over from Mark Hughes whose contract was terminated after fail to win any of their 12 Premier League games this season. ](/news/2012/11/23/harry-redknapp-is-appointed-as-the-manager-of-queens-park-rangers-taking-over-from-mark-hughes-whose-contract-was-terminated-after-fail-to.md)
-Harry Redknapp is the new Queens Park Rangers manager after the club finally decided to sack Mark Hughes.
-
-### [Mano Menezes has left his post as Brazil national football team coach two days after winning the 2012 Superclasico de las Americas against Argentina on penalties, and just 19 months before the 2014 FIFA World Cup in Brazil. ](/news/2012/11/23/mano-menezes-has-left-his-post-as-brazil-national-football-team-coach-two-days-after-winning-the-2012-supercla-sico-de-las-ama-c-ricas-against.md)
-Menezes out as Brazil coach
-
-### [A bronze statue of Sir Alex Ferguson, a most successful manager in Manchester United's history, was unveiled outside Old Trafford. ](/news/2012/11/23/a-bronze-statue-of-sir-alex-ferguson-a-most-successful-manager-in-manchester-unitedas-history-was-unveiled-outside-old-trafford.md)
-_Context: Manchester United, Old Trafford, Sir Alex Ferguson_
 
 ## [Previous Day...](/news/2012/11/22/index.md)
 

@@ -7,7 +7,7 @@ _Context: Lil Wayne, seizure_
 Another two fatalities have increased the death toll in a bus accident on the Hex River Pass near De Doorns to 24, the Western Cape health department said.
 
 ### [Three people die after a twin-engine plane crashes into a parking lot in Fort Lauderdale, Florida, United States. ](/news/2013/03/15/three-people-die-after-a-twin-engine-plane-crashes-into-a-parking-lot-in-fort-lauderdale-florida-united-states.md)
-_Context: FL, Fort Lauderdale, Florida_
+_Context: Florida, Fort Lauderdale, Florida_
 
 ### [At least 16 people are killed in a fireworks accident in Jesus Tepactepec, Tlaxcala, Mexico. ](/news/2013/03/15/at-least-16-people-are-killed-in-a-fireworks-accident-in-jesus-tepactepec-tlaxcala-mexico.md)
 _Context: Tlaxcala, fireworks_
@@ -35,15 +35,6 @@ The Vatican has denied that Pope Francis failed to speak out against human right
 
 ### [Scientists working on the Lazarus Project announce that they have successfully rejuvenated cells of ''Rheobatrachus silus'', a species of frog extinct since 1983. ](/news/2013/03/15/scientists-working-on-the-lazarus-project-announce-that-they-have-successfully-rejuvenated-cells-of-rheobatrachus-silus-a-species-of-fr.md)
 The Lazarus Project team says they have been able to recover cell nuclei of the extinct gastric-brooding frog, Rheobatrachus silus, from tissues collected in the 1970s and kept for 40 years in a conventional deep freezer. The genome of Rheobatrachus silus, extinct since 1983, has been revived and reactivated by a team of scientists using soma
-
-### [The draw for the quarterfinals of the 2012-13 UEFA Champions League and 2012-13 UEFA Europa League is held in Nyon, Switzerland. ](/news/2013/03/15/the-draw-for-the-quarterfinals-of-the-2012a13-uefa-champions-league-and-2012a13-uefa-europa-league-is-held-in-nyon-switzerland.md)
-Zlatan Ibrahimović will return to FC Barcelona in the quarter-finals with Paris Saint-Germain FC while 2012 runners-up FC Bayern München were drawn to play Juventus.
-
-### [Mehdi Mahdavikia, the former Hamburger SV and Iran midfielder, announces his retirement from football at the end of the current season. ](/news/2013/03/15/mehdi-mahdavikia-the-former-hamburger-sv-and-iran-midfielder-announces-his-retirement-from-football-at-the-end-of-the-current-season.md)
-_Context: Hamburger SV, Iran, Mehdi Mahdavikia, current season_
-
-### [In figure skating, Patrick Chan of Canada wins his third world title at the 2013 World Figure Skating Championships in London, Ontario, Canada. ](/news/2013/03/15/in-figure-skating-patrick-chan-of-canada-wins-his-third-world-title-at-the-2013-world-figure-skating-championships-in-london-ontario-cana.md)
-Chan, who won his third consecutive world title, apologized to fans for errors in program.
 
 ## [Previous Day...](/news/2013/03/14/index.md)
 

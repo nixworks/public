@@ -24,8 +24,5 @@ _Context: Australia, Defence Signals Directorate, Indonesia, President of Indone
 ### [Sound supervisor Bryce Dion is accidentally shot and killed by police after being caught in the crossfire while working to film an episode for the reality series ''Cops''. ](/news/2014/08/28/sound-supervisor-bryce-dion-is-accidentally-shot-and-killed-by-police-after-being-caught-in-the-crossfire-while-working-to-film-an-episode-f.md)
 _Context: Cops_
 
-### [In association football, Cristiano Ronaldo of Real Madrid wins the UEFA Best Player in Europe Award ahead of Manuel Neuer and Arjen Robben of Bayern Munich. ](/news/2014/08/28/in-association-football-cristiano-ronaldo-of-real-madrid-wins-the-uefa-best-player-in-europe-award-ahead-of-manuel-neuer-and-arjen-robben-o.md)
-_Context: Arjen Robben, Bayern Munich, Cristiano Ronaldo, Manuel Neuer, Real Madrid, UEFA Best Player in Europe Award, association football_
-
 ## [Previous Day...](/news/2014/08/27/index.md)
 

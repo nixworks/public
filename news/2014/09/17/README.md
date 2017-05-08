@@ -27,8 +27,5 @@ _Context: Chinese President, India, Xi Jinping_
 ### [Fijian general election, 2014:Voters in Fiji go to the polls for the first election since a coup in 2006 with coup leader Voreqe Bainimarama's Fiji First Party achieving 60 per cent of the vote. ](/news/2014/09/17/fijian-general-election-2014-pvoters-in-fiji-go-to-the-polls-for-the-first-election-since-a-coup-in-2006-with-coup-leader-voreqe-bainimaram.md)
 Long queues at poll stations in Fiji&#039;s first election since the 2006 military coup.
 
-### [The Minnesota Vikings National Football League team place star running back Adrian Peterson on the exempt/commissioner's permission list until his child abuse charges have been dealt with. ](/news/2014/09/17/the-minnesota-vikings-national-football-league-team-place-star-running-back-adrian-peterson-on-the-exempt-commissioner-s-permission-list-unt.md)
-Find the latest sports news and articles on the NFL, MLB, NBA, NHL, NCAA college football, NCAA college basketball and more at ABC News.
-
 ## [Previous Day...](/news/2014/09/16/index.md)
 

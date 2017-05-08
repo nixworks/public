@@ -1,10 +1,10 @@
 ## [2008-10-5](/news/2008/10/5/index.md)
 
 ### [ Subprime mortgage crisis: The German government moves to back troubled Hypo Real Estate with a 50 billion euro rescue plan. ](/news/2008/10/5/subprime-mortgage-crisis-p-the-german-government-moves-to-back-troubled-hypo-real-estate-with-a-50-billion-euro-rescue-plan.md)
-_Context: Germany, Hypo Real Estate, euro, housing crisis_
+_Context: German, Hypo Real Estate, euro, housing crisis_
 
 ### [ Rugby League: The Manly-Warringah Sea Eagles win the 2008 NRL Grand Final, defeating the Melbourne Storm 40-0. ](/news/2008/10/5/rugby-league-the-manly-warringah-sea-eagles-win-the-2008-nrl-grand-final-defeating-the-melbourne-storm-40-0.md)
-_Context: 2008 NRL Grand Final, Manly-Warringah Sea Eagles, Melbourne Storm, rugby league_
+_Context: 2008 NRL Grand Final, Manly-Warringah Sea Eagles, Melbourne Storm, Rugby League_
 
 ### [ Thai police arrest former mayor of Bangkok and protest leader Chamlong Srimuang on charges of insurrection. ](/news/2008/10/5/thai-police-arrest-former-mayor-of-bangkok-and-protest-leader-chamlong-srimuang-on-charges-of-insurrection.md)
 Read the latest national and world news on Newsday. All the top stores, latest videos and photo galleries are available at Newsday.com

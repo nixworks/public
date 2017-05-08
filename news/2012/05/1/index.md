@@ -54,14 +54,5 @@ _Context: Turkey, constitution_
 ### [Former opposition leader and foreign minister Tzipi Livni quits the Israeli parliament. ](/news/2012/05/1/former-opposition-leader-and-foreign-minister-tzipi-livni-quits-the-israeli-parliament.md)
 _Context: Israel, Tzipi Livni_
 
-### [Norwegian world swimming champion and Olympic medalist Alexander Dale Oen dies at age 26 after suffering a cardiac arrest during a training camp in Flagstaff, Arizona. ](/news/2012/05/1/norwegian-world-swimming-champion-and-olympic-medalist-alexander-dale-oen-dies-at-age-26-after-suffering-a-cardiac-arrest-during-a-training.md)
-_Context: Alexander Dale Oen, Flagstaff, Arizona_
-
-### [Kenya rugby captain Aberdeen Shikoyi is paid tribute to in death after being injured in a match against Uganda. ](/news/2012/05/1/kenya-rugby-captain-aberdeen-shikoyi-is-paid-tribute-to-in-death-after-being-injured-in-a-match-against-uganda.md)
-_Context: Aberdeen Shikoyi, Kenya, Uganda_
-
-### [The sale for Guggenheim Partners to purchase the Los Angeles Dodgers is finalized for US$2.1 billion, the most ever for a professional sports franchise. ](/news/2012/05/1/the-sale-for-guggenheim-partners-to-purchase-the-los-angeles-dodgers-is-finalized-for-us-2-1-billion-the-most-ever-for-a-professional-sport.md)
-The $2 billion sale of the Los Angeles Dodgers was finalized Tuesday, ending the tumultuous era under former owner Frank McCourt, who took the team into bankruptcy and had his private life made public through a nasty divorce battle with his ex-wife.
-
 ## [Previous Day...](/news/2012/04/30/index.md)
 

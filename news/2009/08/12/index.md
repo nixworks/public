@@ -4,7 +4,7 @@
 Venezuelan President Hugo Chavez received on Tuesday Argentine President Cristina Fernandez de Kirchner in Caracas to sign agreements expanding trade between the two countries. Among the deals was an accord to import as many as 10,000 cars from Argentina this year instead of Colombia.
 
 ### [ It is discovered that the Killer Whale creates and visits 'social clubs'. ](/news/2009/08/12/it-is-discovered-that-the-killer-whale-creates-and-visits-social-clubs.md)
-_Context: Killer Whale_
+_Context: killer whale_
 
 ### [ Yemeni troops, backed by tanks and fighter aircraft, launch a major offensive on the stronghold of Shia fighters in northern Yemen. ](/news/2009/08/12/yemeni-troops-backed-by-tanks-and-fighter-aircraft-launch-a-major-offensive-on-the-stronghold-of-shia-fighters-in-northern-yemen.md)
 _Context: Shia, Shia insurgency in Yemen, Yemen_
@@ -37,7 +37,7 @@ _Context: New Caledonia, Noumea, police, trade unionists_
 Tongan Transport Minister Paul Karalus has resigned, six days after the sinking of the Princess Ashika. - New Zealand Herald
 
 ### [ German CDU politician Vera Lengsfeld attracts controversy for displaying a photo of Angela Merkel in a revealing gown without the authorisation of the Chancellor. ](/news/2009/08/12/german-cdu-politician-vera-lengsfeld-attracts-controversy-for-displaying-a-photo-of-angela-merkel-in-a-revealing-gown-without-the-authorisa.md)
-_Context: Angela Merkel, Christian Democratic Union, German Chancellor, Germany, Vera Lengsfeld_
+_Context: Angela Merkel, Christian Democratic Union, German, German Chancellor, Vera Lengsfeld_
 
 ### [ Lubna al-Hussein, the Sudanese woman facing forty lashes for wearing trousers in public, is prevented from leaving the country for a trip to Lebanon, where she was to take part in a televised talk-show about women's issues. ](/news/2009/08/12/lubna-al-hussein-the-sudanese-woman-facing-forty-lashes-for-wearing-trousers-in-public-is-prevented-from-leaving-the-country-for-a-trip-t.md)
 _Context: Lebanon, Lubna al-Hussein, Sudan_

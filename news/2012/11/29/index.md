@@ -51,20 +51,5 @@ A Goddard-built instrument on NASA&#039;s MESSENGER mission provided one of thre
 ### [The new species of darter fish are classified and named as ''Etheostoma obama'' after U.S. President Barack Obama. ](/news/2012/11/29/the-new-species-of-darter-fish-are-classified-and-named-as-etheostoma-obama-after-u-s-president-barack-obama.md)
 _Context: Etheostoma obama, Obama, U.S. President, darter fish_
 
-### [Luiz Felipe Scolari takes over as coach of Brazil national football team, 2014 FIFA World Cup hosts, 10 years after leading the team to the 2002 FIFA World Cup title. ](/news/2012/11/29/luiz-felipe-scolari-takes-over-as-coach-of-brazil-national-football-team-2014-fifa-world-cup-hosts-10-years-after-leading-the-team-to-the.md)
-Reuters.co.uk for top sports stories from international and UK. Reuters is the leading global provider of news, financial information and technology solutions to the world’s media, financial institutions, businesses and individuals.
-
-### [In cricket, former Australian captain Ricky Ponting announces his retirement from Test matches after the completion of the match against South Africa in Perth. ](/news/2012/11/29/in-cricket-former-australian-captain-ricky-ponting-announces-his-retirement-from-test-matches-after-the-completion-of-the-match-against-sou.md)
-Cricket: Legendary Australian Test cricketer Ricky Ponting will play his 168th and final Test against South Africa in Perth. Ponting&#039;s illustrious international car
-
-### [Barcelona's Lionel Messi and Andres Iniesta, and Real Madrid's Cristiano Ronaldo are named in shortlist for 2012 FIFA Ballon d'Or prize for best player of the year. ](/news/2012/11/29/barcelonaas-lionel-messi-and-andra-c-s-iniesta-and-real-madridas-cristiano-ronaldo-are-named-in-shortlist-for-2012-fifa-ballon-d-or-prize.md)
-_Context: 2012, Andres Iniesta, Cristiano Ronaldo, FC Barcelona, FIFA Ballon d'Or, Lionel Messi, Real Madrid_
-
-### [Argentine football club River Plate confirm Ramon Diaz will replace the sacked Matias Almeyda as manager. ](/news/2012/11/29/argentine-football-club-river-plate-confirm-rama3n-daaz-will-replace-the-sacked-mataas-almeyda-as-manager.md)
-_Context: Argentine, Matias Almeyda, Ramon Diaz, River Plate_
-
-### [South Korean international Lee Keun-Ho is named as Asian Footballer of the Year in a ceremony held in Kuala Lumpur. Shinji Kagawa, Japanese midfielder of Manchester United, is the first recipient of the Asian International Footballer of the Year award. ](/news/2012/11/29/south-korean-international-lee-keun-ho-is-named-as-asian-footballer-of-the-year-in-a-ceremony-held-in-kuala-lumpur-shinji-kagawa-japanese.md)
-_Context: Asian Footballer of the Year, Asian International Footballer of the Year, Japan, Kuala Lumpur, Lee Keun-Ho, Manchester United, Shinji Kagawa, South Korean_
-
 ## [Previous Day...](/news/2012/11/28/index.md)
 

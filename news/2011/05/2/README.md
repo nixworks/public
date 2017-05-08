@@ -54,8 +54,5 @@ _Context: Brazilian President, Dilma Rousseff, Sao Paulo, pneumonia_
 ### [In Guatemala the country's electoral supreme court calls for general elections to be held on September 11 to elect President and Vice President, Mayors of the 333 municipal corporations, members for a new Congress and members for the Central American Parliament (PARLACEN). A second round of voting for President and Vice-President will be held on November 6 if needed.](/news/2011/05/2/in-guatemala-the-country-s-electoral-supreme-court-calls-for-general-elections-to-be-held-on-september-11-to-elect-president-and-vice-presid.md)
 _Context: Central American Parliament, Guatemala, Guatemala's Congress, Guatemalan President, Vice President, mayor_
 
-### [John Higgins wins the World Snooker Championship for the fourth time. ](/news/2011/05/2/john-higgins-wins-the-world-snooker-championship-for-the-fourth-time.md)
-_Context: John Higgins, World Snooker Championship, wins_
-
 ## [Previous Day...](/news/2011/05/1/index.md)
 

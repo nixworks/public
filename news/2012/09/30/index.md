@@ -30,17 +30,5 @@ _Context: Nippon Steel, Sumitomo Metal Industries, Tokyo Stock Exchange, second-
 ### [Bo Guagua, the son of disgraced Chinese politician Bo Xilai, defends his father in his first comments on the political scandal. ](/news/2012/09/30/bo-guagua-the-son-of-disgraced-chinese-politician-bo-xilai-defends-his-father-in-his-first-comments-on-the-political-scandal.md)
 _Context: Bo Guagua, Bo Xilai, China_
 
-### [In rugby league, the Melbourne Storm defeats the Canterbury Bulldogs in the 2012 NRL Grand Final ](/news/2012/09/30/in-rugby-league-the-melbourne-storm-defeats-the-canterbury-bulldogs-in-the-2012-nrl-grand-final.md)
-It won&#039;t go down as the greatest grand final, and certainly won&#039;t be considered the greatest night for rugby league, given the fallout ahead of us. But Melbourne&#039;s second official premiership is something worthy of greatness.
-
-### [In hurling, Kilkenny defeats Galway in the 2012 All-Ireland Senior Hurling Championship Final replay at Croke Park. Hurling legend Henry Shefflin breaks another record, becoming the first Gaelic athlete to win nine All-Ireland Senior Championship medals on the field of play. ](/news/2012/09/30/in-hurling-kilkenny-defeats-galway-in-the-2012-all-ireland-senior-hurling-championship-final-replay-at-croke-park-hurling-legend-henry-she.md)
-_Context: 2012 All-Ireland Senior Hurling Championship Final, Croke Park, Galway, Henry Shefflin, Kilkenny, hurling_
-
-### [Ma Long wins the Table Tennis World Cup in Liverpool. Timo Boll gets silver and Vladimir Samsonov, bronze. ](/news/2012/09/30/ma-long-wins-the-table-tennis-world-cup-in-liverpool-timo-boll-gets-silver-and-vladimir-samsonov-bronze.md)
-_Context: Liverpool, Ma Long, Table Tennis World Cup, Timo Boll, Vladimir Samsonov_
-
-### [In the final day of the 39th Ryder Cup golf competition in Illinois, Europe comes back from 10-6 down to 14.5-13.5 and retains the title against the United States. ](/news/2012/09/30/in-the-final-day-of-the-39th-ryder-cup-golf-competition-in-illinois-europe-comes-back-from-10-6-down-to-14-5-13-5-and-retains-the-title-aga.md)
-_Context: 39th Ryder Cup, Europe, Illinois, U.S., golf_
-
 ## [Previous Day...](/news/2012/09/29/index.md)
 

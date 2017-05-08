@@ -15,14 +15,5 @@ Treasury Secretary Timothy Geithner said on Sunday that after careful review it 
 ### [Democratic Party leaders call for the United States House Committee on Ethics to investigate claims that Rep David Wu of Oregon had sexually assaulted a teenager. ](/news/2011/07/24/democratic-party-leaders-call-for-the-united-states-house-committee-on-ethics-to-investigate-claims-that-rep-david-wu-of-oregon-had-sexually.md)
 Oregon Rep. David Wu&rsquo;s, accused of an unwanted sexual encounter late last year, is rapidly watching his political problems mount.THE FIX | Ore. legislator with history of allegedly bizarre behavior faces charge of sexual misconduct.THE FIX | Accused of an unwanted sexual encounter, lawmaker watches his problems mount.
 
-### [The 2011 Tour de France finishes in Paris with cyclist Cadel Evans becoming the first Australian to win the event. ](/news/2011/07/24/the-2011-tour-de-france-finishes-in-paris-with-cyclist-cadel-evans-becoming-the-first-australian-to-win-the-event.md)
-Cadel&#x20;Evans,&#x20;a&#x20;two-time&#x20;runner-up&#x20;at&#x20;the&#x20;Tour&#x20;de&#x20;France,&#x20;became&#x20;the&#x20;first&#x20;Australian&#x20;to&#x20;win&#x20;cycling&#x27;s&#x20;most&#x20;prestigious&#x20;race&#x20;on&#x20;Sunday,&#x20;in&#x20;what&#x20;has&#x20;been&#x20;described&#x20;back&#x20;home&#x20;as&#x20;one&#x20;of&#x20;Australia&#x27;s&#x20;finest&#x20;ever&#x20;sporting&#x20;achievements.
-
-### [Uruguay defeats Paraguay 3-0 in the finals of the 2011 Copa Amrica, capturing their 15th title and becomes the nation with most Copa Amrica titles. ](/news/2011/07/24/uruguay-defeats-paraguay-3-0-in-the-finals-of-the-2011-copa-america-capturing-their-15th-title-and-becomes-the-nation-with-most-copa-americ.md)
-_Context: 2011 Copa Amrica, Paraguay, Uruguay_
-
-### [The Tevatron collider near Chicago produces results similar to recent results from the Large Hadron Collider (LHC) in the on-going search for the Higgs Boson. ](/news/2011/07/24/the-tevatron-collider-near-chicago-produces-results-similar-to-recent-results-from-the-large-hadron-collider-lhc-in-the-on-going-search-fo.md)
-A US particle machine has also seen possible hints of the Higgs boson, it emerges, following reports of similar glimpses at the Large Hadron Collider.
-
 ## [Previous Day...](/news/2011/07/23/index.md)
 

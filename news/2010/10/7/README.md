@@ -105,11 +105,5 @@ _Context: Beatrix, Mark Rutte, Netherlands, People's Party for Freedom and Democ
 ### [South African Archbishop Desmond Tutu retires from public life after reaching his 79th birthday. ](/news/2010/10/7/south-african-archbishop-desmond-tutu-retires-from-public-life-after-reaching-his-79th-birthday.md)
 Anti-apartheid figurehead Archbishop Desmond Tutu is retiring from public life, as he reaches his 79th birthday.
 
-### [English team officials at the 2010 Commonwealth Games in Delhi, India seek reassurance about water safety at the Dr SPM Aquatics Centre after up to fifteen members of the English and Australian swim teams come down with a stomach virus. ](/news/2010/10/7/english-team-officials-at-the-2010-commonwealth-games-in-delhi-india-seek-reassurance-about-water-safety-at-the-dr-spm-aquatics-centre-afte.md)
-Australian and English doctors want more investigations of a virus that has struck up to 50 swimmers, as two withdraw.
-
-### [Danish tennis player Caroline Wozniacki becomes the new world number one during the 2010 China Open. ](/news/2010/10/7/danish-tennis-player-caroline-wozniacki-becomes-the-new-world-number-one-during-the-2010-china-open.md)
-Caroline Wozniacki became the first Danish tennis player to be crowned world number one when she beat Czech Petra Kvitova 6-3 6-2 to reach the quarter-finals of the China Open Thursday.
-
 ## [Previous Day...](/news/2010/10/6/index.md)
 

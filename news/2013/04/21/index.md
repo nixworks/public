@@ -19,7 +19,7 @@ Former Divinyls singer Chrissy Amphlett has died aged 53 after suffering from br
 _Context: China, Jilin province, mining accident_
 
 ### [River flooding continues in six states in the midwestern United States with several towns north of St. Louis, Missouri, expecting the Mississippi River to reach a crest. ](/news/2013/04/21/river-flooding-continues-in-six-states-in-the-midwestern-united-states-with-several-towns-north-of-st-louis-missouri-expecting-the-missis.md)
-_Context: Mississippi River, Missouri, St. Louis's, U.S., crest, flooding, midwestern_
+_Context: Mississippi River, Missouri, St. Louis's, United States, crest, flooding, midwestern_
 
 ### [2013 Korean crisis:North Korea reportedly moves two more missile launchers to its east coast in anticipation of an expected missile launch. ](/news/2013/04/21/2013-korean-crisis-pnorth-korea-reportedly-moves-two-more-missile-launchers-to-its-east-coast-in-anticipation-of-an-expected-missile-launch.md)
 North Korea has moved two more missile launchers to its east coast, where preparations are apparently under way for a missile test as tensions simmer on the peninsula, reports say.
@@ -28,7 +28,7 @@ North Korea has moved two more missile launchers to its east coast, where prepar
 A court in Brazil has sentenced 23 police officers to 156 years in jail each for their involvement in the notorious Carandiru prison massacre in 1992.
 
 ### [Five people are killed in a shooting incident at an apartment complex in Federal Way, Washington, south of Seattle, United States. ](/news/2013/04/21/five-people-are-killed-in-a-shooting-incident-at-an-apartment-complex-in-federal-way-washington-south-of-seattle-united-states.md)
-_Context: Federal Way, Seattle, U.S., Washington_
+_Context: Federal Way, Seattle, United States, Washington_
 
 ### [Egypt's Justice Minister Ahmed Mekki resigns in protest of perceived attacks on judiciary by the nation's leadership. ](/news/2013/04/21/egypt-s-justice-minister-ahmed-mekki-resigns-in-protest-of-perceived-attacks-on-judiciary-by-the-nation-s-leadership.md)
 Egyptian Justice Minister Ahmed Mekky resigns, following demands from Islamist supporters of President Morsi for the &quot;cleansing&quot; of the judiciary.
@@ -47,24 +47,6 @@ A new rocket launches from the US eastern seaboard to prove its readiness to hel
 
 ### [A study concludes that stress leads to faster growth in squirrels. ](/news/2013/04/21/a-study-concludes-that-stress-leads-to-faster-growth-in-squirrels.md)
 According to a new study, red squirrels born to mothers with high level of stress hormones are able to outcompete others for food and territories.
-
-### [In Formula One, Sebastian Vettel wins the 2013 Bahrain Grand Prix ahead of Kimi Raikkonen and Romain Grosjean. ](/news/2013/04/21/in-formula-one-sebastian-vettel-wins-the-2013-bahrain-grand-prix-ahead-of-kimi-ra-ikkapnen-and-romain-grosjean.md)
-_Context: 2013 Bahrain Grand Prix, Formula One, Kimi Raikkonen, Romain Grosjean, Sebastian Vettel_
-
-### [In road bicycle racing, Daniel Martin wins 2013 Liege-Bastogne-Liege ahead of Joaquim Rodriguez and Alejandro Valverde. ](/news/2013/04/21/in-road-bicycle-racing-daniel-martin-wins-2013-lia-geabastognealia-ge-ahead-of-joaquim-rodraguez-and-alejandro-valverde.md)
-_Context: 2013 Liege-Bastogne-Liege, Alejandro Valverde, Daniel Martin, Joaquim Rodriguez, road bicycle racing_
-
-### [In football, Central Coast Mariners defeat Western Sydney Wanderers 2-0 to win the 2013 A-League Grand Final and are crowned the 2012-13 A-League champions. ](/news/2013/04/21/in-football-central-coast-mariners-defeat-western-sydney-wanderers-2a0-to-win-the-2013-a-league-grand-final-and-are-crowned-the-2012a13.md)
-All the latest A-League news, videos, tickets and more
-
-### [In tennis, Novak Djokovic defeats Rafael Nadal to win the singles at the 2013 Monte-Carlo Rolex Masters. ](/news/2013/04/21/in-tennis-novak-djokovic-defeats-rafael-nadal-to-win-the-singles-at-the-2013-monte-carlo-rolex-masters.md)
-_Context: 2013 Monte-Carlo Rolex Masters, Novak Djokovic, Rafael Nadal, singles, tennis_
-
-### [In athletics, Tsegaye Kebede wins the 2013 London Marathon men's race; Priscah Jeptoo wins the women's race. ](/news/2013/04/21/in-athletics-tsegaye-kebede-wins-the-2013-london-marathon-men-s-race-priscah-jeptoo-wins-the-women-s-race.md)
-_Context: 2013 London Marathon, Priscah Jeptoo, Tsegaye Kebede, athletics_
-
-### [In volleyball, Russia wins the 2013 Boys' Youth European Volleyball Championship defeating Poland 3-1 in the final in Laktasi, Bosnia and Herzegovina. ](/news/2013/04/21/in-volleyball-russia-wins-the-2013-boys-youth-european-volleyball-championship-defeating-poland-3a1-in-the-final-in-laktaa-i-bosnia-and.md)
-_Context: 2013 Boys' Youth European Volleyball Championship, Bosnia and Herzegovina, Laktasi, Poland, Russia, volleyball_
 
 ## [Previous Day...](/news/2013/04/20/index.md)
 

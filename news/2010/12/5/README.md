@@ -53,7 +53,7 @@ Body of German tourist washes up on shore of Sharm el-Sheikh, just days after fo
 _Context: Palestinian, West Bank_
 
 ### [United States diplomatic cables leak:Newly released cables show the United States lobbied Spanish Prime Minister Jose Luis Rodriguez Zapatero, causing Rolls-Royce to lose an important contract. ](/news/2010/12/5/united-states-diplomatic-cables-leak-pnewly-released-cables-show-the-united-states-lobbied-spanish-prime-minister-josa-c-luis-rodraguez-zapa.md)
-_Context: 250,000 documents, Jose Luis Rodriguez Zapatero, Rolls-Royce, U.S._
+_Context: 250,000 documents, Jose Luis Rodriguez Zapatero, Rolls-Royce, United States_
 
 ### [Hundreds of people march in Hong Kong to demand the release of Chinese dissident Liu Xiaobo ahead of the Nobel Prize ceremony on Friday. ](/news/2010/12/5/hundreds-of-people-march-in-hong-kong-to-demand-the-release-of-chinese-dissident-liu-xiaobo-ahead-of-the-nobel-prize-ceremony-on-friday.md)
 Hong Kong, Dec 5 (DPA) Hundreds of protesters marched to Beijings de facto embassy in Hong Kong Sunday calling for the release of jailed dissident and...
@@ -69,15 +69,6 @@ Thousands march against the conservative government, saying it has failed on the
 
 ### [Three Russian satellites fail to achieve orbit after launch from Kazakhstan's Baikonur Cosmodrome; experts suggest they probably crashed into the Pacific Ocean. ](/news/2010/12/5/three-russian-satellites-fail-to-achieve-orbit-after-launch-from-kazakhstan-s-baikonur-cosmodrome-experts-suggest-they-probably-crashed-int.md)
 Three Russian satellites fail to enter orbit after launch, possibly crashing into the Pacific, Russian news agencies report.
-
-### [Serbia wins the 2010 Davis Cup, beating France, after Viktor Troicki beats Michael Llodra in the decisive match, the first time Serbia has won the cup. ](/news/2010/12/5/serbia-wins-the-2010-davis-cup-beating-france-after-viktor-troicki-beats-michaa-l-llodra-in-the-decisive-match-the-first-time-serbia-has.md)
-_Context: 2010 Davis Cup, France, Michael Llodra, Serbia, Viktor Troicki_
-
-### [Mayor of London Boris Johnson withdraws his offer to FIFA executives, including Sepp Blatter, of free accommodation in London's exclusive Dorchester Hotel during the 2012 Summer Olympics in the city, as the fallout from the failed England 2018 FIFA World Cup bid continues. ](/news/2010/12/5/mayor-of-london-boris-johnson-withdraws-his-offer-to-fifa-executives-including-sepp-blatter-of-free-accommodation-in-london-s-exclusive-do.md)
-_Context: 2012 Summer Olympics, Boris Johnson, Dorchester Hotel, England 2018 FIFA World Cup bid, FIFA, London Mayor, Sepp Blatter_
-
-### [UEFA Champions League debutants Tottenham Hotspur become the first ever club to score more than two goals in all group stage matches. They are also the only competition debutants through to the last 16.](/news/2010/12/5/uefa-champions-league-debutants-tottenham-hotspur-become-the-first-ever-club-to-score-more-than-two-goals-in-all-group-stage-matches-they-a.md)
-_Context: Tottenham Hotspur, UEFA Champions League_
 
 ## [Previous Day...](/news/2010/12/4/index.md)
 

@@ -25,7 +25,7 @@ Former Ukrainian prime minister Yulia Tymoshenko, already sentenced to seven yea
 A man who confessed to murdering a Ugandan gay activist by beating him with a hammer has been sentenced to 30 years in prison for the crime, a local newspaper reported on Friday.
 
 ### [Washington Nationals baseball catcher Wilson Ramos is found alive in Venezuela near where he was kidnapped on Wednesday. ](/news/2011/11/11/washington-nationals-baseball-catcher-wilson-ramos-is-found-alive-in-venezuela-near-where-he-was-kidnapped-on-wednesday.md)
-_Context: Venezuela, Washington Nationals, Wilson Ramos, baseball, catcher_
+_Context: Venezuela, Washington Nationals, Wilson Ramos, baseball game, catcher_
 
 ### [Michael D. Higgins is inaugurated as the ninth President of Ireland. ](/news/2011/11/11/michael-d-higgins-is-inaugurated-as-the-ninth-president-of-ireland.md)
 Michael D Higgins has been inaugurated as the ninth President of Ireland in a ceremony at Dublin Castle today.
@@ -38,18 +38,6 @@ Italy&#039;s parliament on Friday began rushing through austerity measures deman
 
 ### [The Senate of Italy passes austerity measures demanded by the European Union. ](/news/2011/11/11/the-senate-of-italy-passes-austerity-measures-demanded-by-the-european-union.md)
 Italy&#039;s parliament on Friday began rushing through austerity measures demanded by the European Union to avert a euro zone meltdown and Washington ratcheted up pressure for more dramatic action from the currency bloc.
-
-### [The Gold Coast in the Australian state of Queensland is chosen as the host city for the 2018 Commonwealth Games ahead of Hambantota in Sri Lanka. ](/news/2011/11/11/the-gold-coast-in-the-australian-state-of-queensland-is-chosen-as-the-host-city-for-the-2018-commonwealth-games-ahead-of-hambantota-in-sri-l.md)
-_Context: 2018 Commonwealth Games, Australia, Gold Coast, Hambantota, Queensland, Sri Lanka_
-
-### [London in the United Kingdom wins the rights to host the 2017 World Athletics Championships ahead of Doha, Qatar. ](/news/2011/11/11/london-in-the-united-kingdom-wins-the-rights-to-host-the-2017-world-athletics-championships-ahead-of-doha-qatar.md)
-_Context: 2017 World Athletics Championships, Doha, London, Qatar, United Kingdom_
-
-### [In Major League Baseball, the Florida Marlins officially change their name to the Miami Marlins. ](/news/2011/11/11/in-major-league-baseball-the-florida-marlins-officially-change-their-name-to-the-miami-marlins.md)
-Hanley Ramirez emerged from the back of the stage, wearing a grin and a new uniform, arms raised as he basked in the first applause for a Miami Marlin.
-
-### [2011 Southeast Asian Games, the largest multi-sport event in the region, was opened in Palembang by the President of Indonesia, Susilo Bambang Yudhoyono. ](/news/2011/11/11/2011-southeast-asian-games-the-largest-multi-sport-event-in-the-region-was-opened-in-palembang-by-the-president-of-indonesia-susilo-bamba.md)
-Palembang in 2011 is not Jakarta in 1997, but both cities now share the same place in Southeast Asian sporting history as co-hosts of the region&rsquo;s biennial festival of sport
 
 ## [Previous Day...](/news/2011/11/10/index.md)
 

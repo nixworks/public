@@ -30,11 +30,5 @@ _Context: Providence River, Sunil Tripathi_
 ### [The George W. Bush Presidential Center in Dallas, Texas, is dedicated in the presence of President of the United States Barack Obama, former president George W. Bush and all living former presidents. The complex will be opened to the public on May 1. ](/news/2013/04/25/the-george-w-bush-presidential-center-in-dallas-texas-is-dedicated-in-the-presence-of-president-of-the-united-states-barack-obama-former.md)
 Presidential libraries offer former leaders the opportunity to influence the way their legacies are perceived
 
-### [In American football, the 2013 NFL Draft begins with Kansas City Chiefs selecting Eric Fisher in New York City's Radio City Music Hall. ](/news/2013/04/25/in-american-football-the-2013-nfl-draft-begins-with-kansas-city-chiefs-selecting-eric-fisher-in-new-york-city-s-radio-city-music-hall.md)
-_Context: 2013 NFL Draft, American football, Eric Fisher, Kansas City Chiefs, New York's, Radio City Music Hall_
-
-### [In horse racing, the British Horseracing Authority bans Godolphin Racing trainer Mahmood Al Zarooni for eight years after 11 racehorses in his care test positive for anabolic steroids. ](/news/2013/04/25/in-horse-racing-the-british-horseracing-authority-bans-godolphin-racing-trainer-mahmood-al-zarooni-for-eight-years-after-11-racehorses-in-h.md)
-_Context: British Horseracing Authority, Godolphin Racing, Mahmood Al Zarooni, anabolic steroids, horse racing_
-
 ## [Previous Day...](/news/2013/04/24/index.md)
 

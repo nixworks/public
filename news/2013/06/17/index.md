@@ -19,7 +19,7 @@ Six teenagers and the father of one of them are found guilty of kicking a volunt
 BBC broadcaster Stuart Hall, 83, is jailed for 15 months for sexually abusing girls as it emerges some of his victims plan to sue.
 
 ### [Michael Applebaum, mayor of Montreal, Quebec is arrested on charges of fraud and abuse of public office. ](/news/2013/06/17/michael-applebaum-mayor-of-montreal-quebec-is-arrested-on-charges-of-fraud-and-abuse-of-public-office.md)
-_Context: Michael Applebaum, Quebec, city of Montreal_
+_Context: Michael Applebaum, Montreal, Quebec_
 
 ### [The Prime Minister of the Czech Republic, Petr Necas, submits his resignation following a corruption scandal. ](/news/2013/06/17/the-prime-minister-of-the-czech-republic-petr-neaas-submits-his-resignation-following-a-corruption-scandal.md)
 Prime Minister Petr Necas of the Czech Republic said Sunday that he would resign, following a corruption scandal involving a senior aide.

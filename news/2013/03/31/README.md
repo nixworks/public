@@ -37,10 +37,10 @@ Afghan president and Qatari emir discussed opening of office for Taliban in Doha
 Leader Kim Jong-Un presides over a party meeting that declares Pyongyang&#039;s &quot;nuclear treasures&quot; will not be swapped for aid.
 
 ### [A suspect is being sought in connection with the slayings of Kaufman County District Attorney Mike McLelland and his wife, whose bodies were found at their home in Kaufman County, Texas, United States. ](/news/2013/03/31/a-suspect-is-being-sought-in-connection-with-the-slayings-of-kaufman-county-district-attorney-mike-mclelland-and-his-wife-whose-bodies-were.md)
-_Context: District Attorney, Kaufman County, Texas, U.S._
+_Context: District Attorney, Kaufman County, Texas, United States_
 
 ### [Three people are shot and killed and two others are wounded during a gang-related shooting at a party in Merced, California, United States. ](/news/2013/03/31/three-people-are-shot-and-killed-and-two-others-are-wounded-during-a-gang-related-shooting-at-a-party-in-merced-california-united-states.md)
-_Context: California, Merced, U.S., gang_
+_Context: California, Merced, United States, gang_
 
 ### [Christians across the globe celebrate Easter, Christianity's most sacred holiday. ](/news/2013/03/31/christians-across-the-globe-celebrate-easter-christianity-s-most-sacred-holiday.md)
 Faithful around the world celebrate Easter Sunday with church services and community events.
@@ -50,21 +50,6 @@ _Context: IBM Roadrunner, supercomputer_
 
 ### [The Met Office confirms Sunday as the coldest Easter Day on record for the United Kingdom. The lowest temperature of -12.5degC is recorded in Braemar in the Scottish Highlands. ](/news/2013/03/31/the-met-office-confirms-sunday-as-the-coldest-easter-day-on-record-for-the-united-kingdom-the-lowest-temperature-of-a12-5adegc-is-recorded.md)
 Easter Sunday is the coldest Easter day since modern records began, with temperatures as low as -12.5C in Braemar in the Scottish Highlands.
-
-### [2013 NCAA Men's Division I Basketball Tournament:University of Louisville basketball player Kevin Ware breaks his right leg during a game at Lucas Oil Stadium in Indianapolis, Indiana. He was taken to Methodist Hospital of Indianapolis. ](/news/2013/03/31/2013-ncaa-men-s-division-i-basketball-tournament-puniversity-of-louisville-basketball-player-kevin-ware-breaks-his-right-leg-during-a-game-a.md)
-Top overall seed Louisville will face Wichita State at the Georgia Dome next Saturday, while Michigan takes on Syracuse in the other national semifinal. The winners advance to the April 8 championship.
-
-### [In tennis, Andy Murray defeats David Ferrer to win men's singles at the 2013 Sony Open Tennis. ](/news/2013/03/31/in-tennis-andy-murray-defeats-david-ferrer-to-win-men-s-singles-at-the-2013-sony-open-tennis.md)
-Andy Murray erased a championship point Sunday and rallied past David Ferrer 2-6, 6-4, 7-6 (1) in a grueling final at the Sony Open.
-
-### [In snooker, Neil Robertson wins 2013 China Open defeating Mark Selby 10-6 in the final. ](/news/2013/03/31/in-snooker-neil-robertson-wins-2013-china-open-defeating-mark-selby-10a6-in-the-final.md)
-Neil Robertson captures his first title of the season with a 10-6 win over Mark Selby in the China Open final.
-
-### [Russian ice hockey player Dmitri Uchaykin dies from cerebral hemorrhage in hospital after receiving a high check in a game for HC Ertis-Pavlodar in the Kazakhstan Major League. ](/news/2013/03/31/russian-ice-hockey-player-dmitri-uchaykin-dies-from-cerebral-hemorrhage-in-hospital-after-receiving-a-high-check-in-a-game-for-hc-ertis-pavl.md)
-Tragic news out of the Kazakhstan Vyschaya Liga, the highest professional hockey league in Kazakhstan, where Russian forward Dmitri Uchaykin has passed away the morning after being hospitalized due to a hit to the head. Uchaykin suited up Saturday night … Continue reading →
-
-### [Oxford finish a length and a half ahead of Cambridge to win the 159th annual University Boat Race. ](/news/2013/03/31/oxford-finish-a-length-and-a-half-ahead-of-cambridge-to-win-the-159th-annual-university-boat-race.md)
-_Context: Boat Race, Cambridge University , University of Oxford_
 
 ## [Previous Day...](/news/2013/03/30/index.md)
 

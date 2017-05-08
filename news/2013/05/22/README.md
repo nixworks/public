@@ -27,8 +27,5 @@ A man is killed in a machete attack and two suspects shot and wounded by police 
 ### [A decorated combat veteran of the Iraq War and United States Military Academy (West Point) U.S. Army staff member, Sgt. 1st Class Michael McClendon, is relieved of his duties for allegedly planting cameras to spy on female cadets. ](/news/2013/05/22/a-decorated-combat-veteran-of-the-iraq-war-and-united-states-military-academy-west-point-u-s-army-staff-member-sgt-1st-class-michael-mc.md)
 _Context: Iraq War, U.S. Army, West Point_
 
-### [Former professional Major League Baseball slugger Jose Canseco, 48, a former Oakland Athletics Rookie of the Year (who also played for six other teams, from 1985 to 2001, and admitted to steroid use) is accused of sexual assault in Las Vegas, Nevada. He has not yet been formally charged, and claimed on social media that the woman's accusations were false. ](/news/2013/05/22/former-professional-major-league-baseball-slugger-jose-canseco-48-a-former-oakland-athletics-rookie-of-the-year-who-also-played-for-six-o.md)
-_Context: Jose Canseco, Las Vegas, Nevada, Major League Baseball, Oakland Athletics, Rookie of the Year, admitted, sexual assault, steroid use_
-
 ## [Previous Day...](/news/2013/05/21/index.md)
 

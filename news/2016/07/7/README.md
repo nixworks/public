@@ -60,8 +60,5 @@ _Context: D, Hillary Clinton, Hillary Clinton email scandal, State Department_
 ### [Scientists manage to extract one last image from the Hitomi x-ray spacecraft, which broke up last March while orbiting Earth. Before it died, the spacecraft captured an image which measured the X-ray activity of the Perseus cluster. ](/news/2016/07/7/scientists-manage-to-extract-one-last-image-from-the-hitomi-x-ray-spacecraft-which-broke-up-last-march-while-orbiting-earth-before-it-died.md)
 A doomed Japanese satellite managed to capture a spectacular view of a cluster of galaxies 250 million light years away just before it died, scientists reveal.
 
-### [Attorneys for 80-year old American pro football legend and Hall of Famer Paul Hornung, who has dementia, sue Riddell sports equipment manufacturer, stating its helmets failed to protect Hornung from brain injury. The suit says Hornung suffered multiple concussions as a player and his neurodegenerative disease has been linked to repetitive head trauma. ](/news/2016/07/7/attorneys-for-80-year-old-american-pro-football-legend-and-hall-of-famer-paul-hornung-who-has-dementia-sue-riddell-sports-equipment-manufa.md)
-CHICAGO (AP) — Pro Football Hall of Famer and former Heisman Trophy winner Paul Hornung sued equipment manufacturer Riddell Inc. on Thursday, saying football helmets that he wore during his professional career in the 1950s…
-
 ## [Previous Day...](/news/2016/07/6/index.md)
 

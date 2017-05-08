@@ -48,8 +48,5 @@ Italian Prime Minister Silvio Berlusconi loses the key cities of Milan and Naple
 ### [Space Shuttle Endeavour undocks from the International Space Station to return to earth on its final mission. ](/news/2011/05/30/space-shuttle-endeavour-undocks-from-the-international-space-station-to-return-to-earth-on-its-final-mission.md)
 _Context: International Space Station, Space Shuttle ''Endeavour'', final mission_
 
-### [Ohio State football head coach Jim Tressel resigns amidst a scandal over NCAA rules violations committed by him and members of the team. ](/news/2011/05/30/ohio-state-football-head-coach-jim-tressel-resigns-amidst-a-scandal-over-ncaa-rules-violations-committed-by-him-and-members-of-the-team.md)
-Jim Tressel has resigned from Ohio State amid his 11th season as head coach.
-
 ## [Previous Day...](/news/2011/05/29/index.md)
 

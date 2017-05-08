@@ -1,7 +1,7 @@
 ## [2009-03-15](/news/2009/03/15/index.md)
 
 ### [ Space Shuttle ''Discovery'' successfully launches from the Kennedy Space Center in Florida. ](/news/2009/03/15/space-shuttle-discovery-successfully-launches-from-the-kennedy-space-center-in-florida.md)
-_Context: Discovery, FL, Kennedy Space Center, Space Shuttle, lands_
+_Context: Discovery, Florida, Kennedy Space Center, Space Shuttle, lands_
 
 ### [ More than 500 Zenit St. Petersburg fans are arrested in Moscow after a riot during a Russian Premier League match with Spartak Moscow. ](/news/2009/03/15/more-than-500-zenit-st-petersburg-fans-are-arrested-in-moscow-after-a-riot-during-a-russian-premier-league-match-with-spartak-moscow.md)
 More than 500 fans of UEFA Cup champions Zenit St Petersburg have been arrested in Moscow as violence broke out at their Russian Premier League match with Spartak Moscow, police reported.
@@ -22,7 +22,7 @@ _Context: Islamabad, Nawaz Sharif, Pakistan, Pakistan Muslim League, Prime Minis
 _Context: Al Hillah, Iraq, association football_
 
 ### [ Two hundred protestors are arrested after a riot against police brutality in Montreal, Canada.  ](/news/2009/03/15/two-hundred-protestors-are-arrested-after-a-riot-against-police-brutality-in-montreal-canada.md)
-_Context: Canada, Protest, city of Montreal, police brutality, riot_
+_Context: Canada, Montreal, Protest, police brutality, riot_
 
 ## [Previous Day...](/news/2009/03/14/index.md)
 

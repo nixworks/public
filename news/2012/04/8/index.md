@@ -4,7 +4,7 @@
 _Context: 2011-2012 Syrian uprising, Kofi Annan, Syria, military_
 
 ### [Afghanistan and the United States reach an agreement giving the Government of Afghanistan more control over night raids. ](/news/2012/04/8/afghanistan-and-the-united-states-reach-an-agreement-giving-the-government-of-afghanistan-more-control-over-night-raids.md)
-_Context: Afghan government, Afghanistan, U.S._
+_Context: Afghan government, Afghanistan, United States_
 
 ### [A car bomb explodes in the Nigerian city of Kaduna killing dozens of people. ](/news/2012/04/8/a-car-bomb-explodes-in-the-nigerian-city-of-kaduna-killing-dozens-of-people.md)
 _Context: Kaduna, Nigeria, car bomb_
@@ -26,9 +26,6 @@ News - Your daily dose of information: European and International latest breakin
 
 ### [The President of Mali Amadou Toumani Toure resigns as part of a deal with coup leaders. ](/news/2012/04/8/the-president-of-mali-amadou-toumani-toure-resigns-as-part-of-a-deal-with-coup-leaders.md)
 President Amadou Toumani Toure of Mali formally resigns as part of a deal with coup leaders to end the crisis gripping the west African state.
-
-### [American golfer Bubba Watson wins the US Masters defeating Louis Oosthuizen of South Africa in a playoff. ](/news/2012/04/8/american-golfer-bubba-watson-wins-the-us-masters-defeating-louis-oosthuizen-of-south-africa-in-a-playoff.md)
-Follow the final holes of the 2012 US Masters here this morning. In fine and windless conditions, the contenders have no excuses as they battle Augusta and each other for the year&#039;s first major title.
 
 ## [Previous Day...](/news/2012/04/7/index.md)
 

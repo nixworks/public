@@ -7,7 +7,7 @@ Syrian troops massed onthe Turkish border overnight, witnesses said on Thursday,
 _Context: 2010-2011 Senegal protests, Dakar, riot police, rubber bullet, tear gas_
 
 ### [France announces plans to withdraw troops from Afghanistan in a similar timeframe to that announced for United States forces by President Barack Obama yesterday. ](/news/2011/06/23/france-announces-plans-to-withdraw-troops-from-afghanistan-in-a-similar-timeframe-to-that-announced-for-united-states-forces-by-president-ba.md)
-_Context: Afghanistan, France, Obama, President, U.S._
+_Context: Afghanistan, France, Obama, President, United States_
 
 ### [After Hamas rejects a call from the International Red Cross for access to  Israeli soldier Gilad Shalit, held incommunicado since he was captured nearly five years ago, Israeli Prime Minister Benjamin Netanyahu says Israel will reduce Palestinian prisoners' privileges in response. ](/news/2011/06/23/after-hamas-rejects-a-call-from-the-international-red-cross-for-access-to-israeli-soldier-gilad-shalit-held-incommunicado-since-he-was-cap.md)
 Noam Schalit asks why it took Israeli governments five years to make move; Hamas rejects Red Cross call for sign of life.
@@ -83,12 +83,6 @@ After three hours of debate, the bill overhauling public worker pension and bene
 
 ### [A study finds that the 2011 E. coli O104:H4 outbreak was a mix of two dangerous ''E. coli'' strains. ](/news/2011/06/23/a-study-finds-that-the-2011-e-coli-o104-h4-outbreak-was-a-mix-of-two-dangerous-e-coli-strains.md)
 _Context: E. coli, E. coli blamed for 46 deaths_
-
-### [In tennis, wild card Sabine Lisicki defeats French Open champion Li Na 3-6 6-4 8-6 in the women's singles at Wimbledon. ](/news/2011/06/23/in-tennis-wild-card-sabine-lisicki-defeats-french-open-champion-li-na-3-6-6-4-8-6-in-the-women-s-singles-at-wimbledon.md)
-French Open champion Li Na of China has become the biggest name to crash out of Wimbledon so far, beaten in a three-set second round thriller by German wildcard Sabine Lisicki.
-
-### [The 2011 NBA Draft is held in Newark, New Jersey, with Duke's Kyrie Irving as the #1 pick. ](/news/2011/06/23/the-2011-nba-draft-is-held-in-newark-new-jersey-with-duke-s-kyrie-irving-as-the-1-pick.md)
-_Context: 2011 NBA Draft, Duke's, Kyrie Irving, New Jersey, Newark, New Jersey's_
 
 ## [Previous Day...](/news/2011/06/22/index.md)
 

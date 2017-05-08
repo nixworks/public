@@ -25,10 +25,10 @@ THE UN Security Council will meet Wednesday to discuss the situation in Libya af
 _Context: Australian, David Hicks, Guantanamo Bay, U.S. Court of Military Commission Review, U.S. Navy, terrorism_
 
 ### [Swede Alex Yucel pleads guilty in the United States to distributing Blackshades software that was used to hack into 500,000 computers worldwide. ](/news/2015/02/18/swede-alex-yucel-pleads-guilty-in-the-united-states-to-distributing-blackshades-software-that-was-used-to-hack-into-500-000-computers-worldw.md)
-_Context: Blackshades, Swede, U.S., hackers, software_
+_Context: Blackshades, Swede, United States, hackers, software_
 
 ### [Robert van Winkle aka Vanilla Ice is arrested for burglary and grand theft in Florida. ](/news/2015/02/18/robert-van-winkle-aka-vanilla-ice-is-arrested-for-burglary-and-grand-theft-in-florida.md)
-_Context: FL, Vanilla Ice, burglary, grand theft_
+_Context: Florida, Vanilla Ice, burglary, grand theft_
 
 ### [The President of Indonesia Joko Widodo drops his nomination of Budi Gunawan as national police chief following allegations that Gunawan was involved in a bribery scandal. ](/news/2015/02/18/the-president-of-indonesia-joko-widodo-drops-his-nomination-of-budi-gunawan-as-national-police-chief-following-allegations-that-gunawan-was.md)
 JAKARTA – Indonesian President Joko Widodo on Wednesday dropped his sole nomination for the post of national police chief after public outcry over the candidate’s implication in a bribery scandal.. Read more at straitstimes.com.

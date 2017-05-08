@@ -7,7 +7,7 @@ _Context: Polish Minister of National Defence, Radek Sikorski, Soviet, Warsaw Pa
 _Context: ABN Amro, Antonio Fazio, Banca Antonveneta, Banca Popolare Italiana, Bank of Italy, European Commission, Italian, Netherlands, lawsuit_
 
 ### [ Conflict in Iraq: German archaeologist Susanne Osthoff is kidnapped in Iraq. ](/news/2005/11/25/conflict-in-iraq-german-archaeologist-susanne-osthoff-is-kidnapped-in-iraq.md)
-_Context: Archaeologist, Conflict in Iraq, Germany, Iraq, Susanne Osthoff_
+_Context: Archaeologist, Conflict in Iraq, German, Iraq, Susanne Osthoff_
 
 ### [ Cebu leads the "soft-opening" of the 23rd Southeast Asian Games in the Philippines. Games will formally start on November 27, 2005, at Manila's Quirino Grandstand. ](/news/2005/11/25/cebu-leads-the-soft-opening-of-the-23rd-southeast-asian-games-in-the-philippines-games-will-formally-start-on-november-27-2005-at-mani.md)
 _Context: Cebu City, Manila, Philippine, Southeast Asian Games_

@@ -36,8 +36,5 @@ _Context: Spain, Spanish general election, 2016_
 ### [Nicola Sturgeon, the First Minister of Scotland, says that Scottish Parliament has the power to veto the United Kingdom's exit from the European Union. ](/news/2016/06/26/nicola-sturgeon-the-first-minister-of-scotland-says-that-scottish-parliament-has-the-power-to-veto-the-united-kingdom-s-exit-from-the-euro.md)
 Labour leader Jeremy Corbyn announces a reshaped shadow cabinet following a wave of resignations in protest at his leadership.
 
-### [In football, Chile wins the Copa America, defeating Argentina in a penalty shootout after regular time and extra time end scoreless. ](/news/2016/06/26/in-football-chile-wins-the-copa-ama-c-rica-defeating-argentina-in-a-penalty-shootout-after-regular-time-and-extra-time-end-scoreless.md)
-The Albiceleste went in search of a first major tournament success since 1993 but current holders Chile were seeking to retain their crown
-
 ## [Previous Day...](/news/2016/06/25/index.md)
 

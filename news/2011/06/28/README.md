@@ -64,7 +64,7 @@ _Context: Davao City, Flash flooding, The Philippines_
 _Context: Beijing, Chinese President, Hu Jintao, Omar Hassan al-Bashir, President of Sudan, Southern Sudan_
 
 ### [Germany and the People's Republic of China hold a joint cabinet meeting in Berlin with many lucrative contracts signed. ](/news/2011/06/28/germany-and-the-people-s-republic-of-china-hold-a-joint-cabinet-meeting-in-berlin-with-many-lucrative-contracts-signed.md)
-_Context: Berlin, China's, Germany_
+_Context: Berlin, China's, German_
 
 ### [Six police officers are found guilty of crimes against the security of the state as a result of last September's attempted coup against President of Ecuador Rafael Correa who was tear gassed and imprisoned in a hospital. ](/news/2011/06/28/six-police-officers-are-found-guilty-of-crimes-against-the-security-of-the-state-as-a-result-of-last-september-s-attempted-coup-against-pres.md)
 A court in Ecuador convicts six policemen of crimes against state security after protests last September in which President Correa was detained.
@@ -89,12 +89,6 @@ _Context: California State Legislature_
 
 ### [Anti-pi groups mark Tau Day. ](/news/2011/06/28/anti-pi-groups-mark-tau-day.md)
 A movement to replace the mathematical constant pi with tau - a constant twice as large, or 6.28 - celebrates &quot;Tau Day&quot; on 28 June.
-
-### [In baseball, a  judge in the U.S. state of Delaware authorizes the Los Angeles Dodgers to enter into a $150 million bankruptcy financing deal after the club addresses concerns of Major League Baseball. ](/news/2011/06/28/in-baseball-a-judge-in-the-u-s-state-of-delaware-authorizes-the-los-angeles-dodgers-to-enter-into-a-150-million-bankruptcy-financing-dea.md)
-_Context: $, Delaware, Los Angeles Dodgers, Major League Baseball, baseball, state_
-
-### [In association football, 8 players from the Mexico national football team's Copa America squad are suspended for six months. ](/news/2011/06/28/in-association-football-8-players-from-the-mexico-national-football-team-s-copa-ama-c-rica-squad-are-suspended-for-six-months.md)
-_Context: Copa America, Mexico, association football_
 
 ## [Previous Day...](/news/2011/06/27/index.md)
 

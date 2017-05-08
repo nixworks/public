@@ -16,7 +16,7 @@ Only nine of the 44 people inside a bus that drove off a cliff on the R408, betw
 A powerful and rare summertime windstorm packing 50-70 mph winds is being blamed for two deaths, four injuries and knocking out power to our 450,000 people Saturday afternoon.
 
 ### [A man, who fell from the upper deck of Atlanta's Turner Field during Saturday night's Braves-New York Yankees baseball game, dies. ](/news/2015/08/29/a-man-who-fell-from-the-upper-deck-of-atlanta-s-turner-field-during-saturday-night-s-braves-new-york-yankees-baseball-game-dies.md)
-_Context: Atlanta, Braves, New York Yankees, Turner Field, baseball_
+_Context: Atlanta, Braves, New York Yankees, Turner Field, baseball game_
 
 ### [Five deaths occurred in Haiti as Tropical Storm Erika dumped heavy rains there, on the Dominican Republic, and on Puerto Rico. The storm weakened to a Tropical Depression before it hit Cuba (max winds 56 kph (35 mph), heading to the southeastern Gulf of Mexico. ](/news/2015/08/29/five-deaths-occurred-in-haiti-as-tropical-storm-erika-dumped-heavy-rains-there-on-the-dominican-republic-and-on-puerto-rico-the-storm-wea.md)
 The latest forecast from the center said Erika is expected to weaken and could even dissipate in the next 12 to 24 hours.

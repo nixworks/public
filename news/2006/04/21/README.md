@@ -13,7 +13,7 @@ _Context: Apple Computer, California, blog, broadband providers_
 _Context: Haitian elections, 2006, Voter turnout_
 
 ### [ The 2005-2006 National Hockey League playoffs started.](/news/2006/04/21/the-2005a2006-national-hockey-league-playoffs-started.md)
-_Context: NHL_
+_Context: National Hockey League_
 
 ## [Previous Day...](/news/2006/04/20/index.md)
 

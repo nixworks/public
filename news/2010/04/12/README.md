@@ -61,7 +61,7 @@ The phones have social-networking features, like the ability to update status me
 _Context: 2010 Chile earthquake_
 
 ### [Manchester City and Togo striker Emmanuel Adebayor announces his retirement from international football at the age of 26, saying he is "still haunted" by the Togo national football team attack which killed three of his colleagues in Angola ahead of the 2010 Africa Cup of Nations three months ago. ](/news/2010/04/12/manchester-city-and-togo-striker-emmanuel-adebayor-announces-his-retirement-from-international-football-at-the-age-of-26-saying-he-is-stil.md)
-_Context: 2010 Africa Cup of Nations, Angola, Emmanuel Adebayor, Manchester City, Togo, Togo national football team attack_
+_Context: 2010 Africa Cup of Nations, Angola, Emmanuel Adebayor, Manchester City, Togo national football team, Togo national football team attack_
 
 ### [Thierry Henry, the footballer involved in a notorious handball controversy in the France vs Republic of Ireland 2010 FIFA World Cup play-off in November 2009, is not assured of playing for his team in the 2010 FIFA World Cup, according to his manager Raymond Domenech on French television show ''Canal Football Club''. ](/news/2010/04/12/thierry-henry-the-footballer-involved-in-a-notorious-handball-controversy-in-the-france-vs-republic-of-ireland-2010-fifa-world-cup-play-off.md)
 _Context: 2010 FIFA World Cup, Controversial, Raymond Domenech, Thierry Henry_

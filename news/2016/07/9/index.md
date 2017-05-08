@@ -42,8 +42,5 @@ Polling stations are now open in Nauru for the 2016 general election.
 ### [Green Party presumptive presidential candidate Jill Stein invites Bernie Sanders to take over her place as the party's nominee. ](/news/2016/07/9/green-party-presumptive-presidential-candidate-jill-stein-invites-bernie-sanders-to-take-over-her-place-as-the-party-s-nominee.md)
 The Greens’ probable presidential candidate Jill Stein has invited the Vermont Senator to take over the party’s ticket, making way for a “political movement” led by Sanders.
 
-### [In tennis, American defending champion Serena Williams defeats Angelique Kerber of Germany in straight sets to win her seventh Wimbledon Championships title and her 22nd Grand Slam title, tying the Open era record held by Steffi Graf. ](/news/2016/07/9/in-tennis-american-defending-champion-serena-williams-defeats-angelique-kerber-of-germany-in-straight-sets-to-win-her-seventh-wimbledon-cha.md)
-Serena Williams beats Angelique Kerber to win Wimbledon and a record-equalling 22nd Grand Slam singles title.
-
 ## [Previous Day...](/news/2016/07/8/index.md)
 

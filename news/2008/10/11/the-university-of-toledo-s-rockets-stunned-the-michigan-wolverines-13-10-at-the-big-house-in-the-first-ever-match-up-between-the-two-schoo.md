@@ -4,7 +4,3 @@
 
 
 
-
-### Related:
-
-1. [Michigan wins the men's NCAA gymnastics title, Florida takes the women's title. ](/news/2013/04/20/michigan-wins-the-men-s-ncaa-gymnastics-title-florida-takes-the-women-s-title.md) _Context: Michigan_

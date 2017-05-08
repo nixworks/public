@@ -48,11 +48,5 @@ _Context: Assembly, President of Albania, Republic of Albania, elects_
 ### [UK Home Secretary Theresa May announces plans to introduce new laws to jail parents who force their children into arranged marriages. ](/news/2012/06/8/uk-home-secretary-theresa-may-announces-plans-to-introduce-new-laws-to-jail-parents-who-force-their-children-into-arranged-marriages.md)
 New laws are to be introduced for England and Wales by the home secretary to jail parents who force their children to marry.
 
-### [UEFA Euro 2012:The UEFA European Football Championship gets underway in Poland. ](/news/2012/06/8/uefa-euro-2012-pthe-uefa-european-football-championship-gets-underway-in-poland.md)
-After weeks of anticipation, speculation and debate, Euro 2012 finally gets under way on Friday when co-hosts Poland take on Greece.
-
-### [Novak Djokovic beats Roger Federer in straight sets to reach his first French Open final. ](/news/2012/06/8/novak-djokovic-beats-roger-federer-in-straight-sets-to-reach-his-first-french-open-final.md)
-World number one Novak Djokovic outclasses Roger Federer 6-4 7-5 6-3 to reach the final of the French Open for the first time.
-
 ## [Previous Day...](/news/2012/06/7/index.md)
 

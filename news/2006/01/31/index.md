@@ -1,7 +1,7 @@
 ## [2006-01-31](/news/2006/01/31/index.md)
 
 ### [ U.S. President George W. Bush delivers the State of the Union Address to a joint session of the U.S. Congress (the House of Representatives and the Senate).  Moments before the address began, anti-war protester Cindy Sheehan is arrested in the U.S. Capitol Building for refusing to cover up a T-shirt she was wearing to protest the war and occupation of Iraq. [http://www.cnn.com/2006/POLITICS/01/31/sheehan.arrest/index.html?section=cnn_topstories (CNN)] Also directed out of the U.S. Capitol Building was Beverly Young, wife of GOP congressman Bill Young, for wearing a T-shirt that read "Support the Troops: Defending Our Freedom" [http://abcnews.go.com/WNT/story?id=1567217&WNTad=true (ABC)].](/news/2006/01/31/u-s-president-george-w-bush-delivers-the-state-of-the-union-address-to-a-joint-session-of-the-u-s-congress-the-house-of-representatives.md)
-_Context: (Wikinews), Bill Young, Cindy Sheehan, George W. Bush, Iraq War, President, U.S. presence in Iraq, United States Capitol, United States House of Representatives, anti-war, joint session of the U.S. Congress, protester, senators, the State of the Union Address_
+_Context: (Wikinews), Bill Young, Cindy Sheehan, George W. Bush, Iraq War, President, U.S. presence in Iraq, United States Capitol, United States House of Representatives, United States senators, anti-war, joint session of the U.S. Congress, protester, the State of the Union Address_
 
 ### [  Iran reacts with anger to its referral to the U.N. Security Council, saying diplomatic avenues have been closed. ](/news/2006/01/31/iran-reacts-with-anger-to-its-referral-to-the-u-n-security-council-saying-diplomatic-avenues-have-been-closed.md)
 _Context: Iran, Iran's nuclear program, U.N. Security Council_
@@ -11,7 +11,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### [ In the United States, a female ex-postal worker opens fire in a mail-processing plant, killing six people and critically wounding another before committing suicide in what's believed to be the deadliest workplace shooting ever carried out by a woman in U.S. history. ](/news/2006/01/31/in-the-united-states-a-female-ex-postal-worker-opens-fire-in-a-mail-processing-plant-killing-six-people-and-critically-wounding-another-b.md)
 ### [ United States Supreme Court nominee Samuel Alito is confirmed by the United States Senate and sworn in.](/news/2006/01/31/united-states-supreme-court-nominee-samuel-alito-is-confirmed-by-the-united-states-senate-and-sworn-in.md)
-_Context: Samuel Alito, United States Supreme Court, senators_
+_Context: Samuel Alito, United States Supreme Court, United States senators_
 
 ### [ Russian President Vladimir Putin has voiced renewed opposition to the U.S. decision to abandon the 30-year-old Anti-Ballistic Missile Treaty in favour of missile defence saying it would damage world security. He also claimed that Russia has developed a new category of hypersonic intercontinental missile which can zig-zag in flight and is immune to any missile defense system. ](/news/2006/01/31/russian-president-vladimir-putin-has-voiced-renewed-opposition-to-the-u-s-decision-to-abandon-the-30-year-old-anti-ballistic-missile-treat.md)
 _Context: Anti-Ballistic Missile Treaty, Russian President, Vladimir Putin, hypersonic, missile defence_

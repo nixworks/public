@@ -63,14 +63,5 @@ Yemeni President Abd-Rabbu Mansour Hadi appointed a new vice-president and prime
 ### [The Associated Press reports a government-sponsored committee of 27 companies/trade associations, set up by the U.S. FAA in February, on Friday submitted recommendations that could clear the way for commercial drone flights over populated areas, and help speed the introduction of package delivery drones. ](/news/2016/04/3/the-associated-press-reports-a-government-sponsored-committee-of-27-companies-trade-associations-set-up-by-the-u-s-faa-in-february-on-fri.md)
 WASHINGTON (AP) — A government-sponsored committee is recommending standards that could clear the way for commercial drone flights over populated areas and help speed the introduction of package delivery drones and other…
 
-### [West Indies women's national cricket team beat defending champions Australia women's national cricket team by 8 wickets the final in Kolkata. ](/news/2016/04/3/west-indies-women-s-national-cricket-team-beat-defending-champions-australia-women-s-national-cricket-team-by-8-wickets-the-final-in-kolkata.md)
-_Context: 2016 ICC Women's World Twenty20, Australia women's national cricket team, ICC Women's World Twenty20, Kolkata, West Indies women's national cricket team_
-
-### [Defending champions The West Indies beat England by 4 wickets in the final in Kolkata. ](/news/2016/04/3/defending-champions-the-west-indies-beat-england-by-4-wickets-in-the-final-in-kolkata.md)
-_Context: 2016 ICC World Twenty20, England, The West Indies_
-
-### [The 2016 United States women's college basketball national championship will be decided when two former Big East Conference foes meet at Bankers Life Fieldhouse in Indianapolis at 8:30 p.m. EDT, Tuesday, April 5, 2016. Connecticut topped Oregon State 80-51, and Syracuse claimed an 80-59 win over Washington in Sunday's semifinals. Syracuse (30-7, 13-3 ACC) will be making its first appearance in the NCAA title game. UConn (37-0, 18-0 American), a 10-time national champion and defending champion for the fourth straight season, has won every title game it has played in. ](/news/2016/04/3/the-2016-united-states-women-s-college-basketball-national-championship-will-be-decided-when-two-former-big-east-conference-foes-meet-at-ban.md)
-Breanna Stewart had a slow start and UConn lost Katie Lou Samuelson to injury. But it was business as usual for Morgan Tuck, who led the Huskies to the title game with 21 points.
-
 ## [Previous Day...](/news/2016/04/2/index.md)
 

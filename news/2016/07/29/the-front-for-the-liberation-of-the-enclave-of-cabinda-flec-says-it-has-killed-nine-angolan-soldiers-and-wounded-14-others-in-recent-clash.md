@@ -12,4 +12,3 @@
 ### Related:
 
 1. [A convoy carrying Chinese mine workers is attacked in Cabinda Province, Angola, killing two soldiers. ](/news/2010/11/12/a-convoy-carrying-chinese-mine-workers-is-attacked-in-cabinda-province-angola-killing-two-soldiers.md) _Context: Cabinda Province_
-2. [Angola makes two arrests over an attack on the Togo national football team in Cabinda Province. ](/news/2010/01/11/angola-makes-two-arrests-over-an-attack-on-the-togo-national-football-team-in-cabinda-province.md) _Context: Cabinda Province_

@@ -43,7 +43,7 @@ _Context: China's, Hunan_
 _Context: Vietnam_
 
 ### [A tanker carrying sulfuric acid capsizes in the Rhine River in Germany with two crew members missing. ](/news/2011/01/13/a-tanker-carrying-sulfuric-acid-capsizes-in-the-rhine-river-in-germany-with-two-crew-members-missing.md)
-_Context: Germany, Rhine River, sulfuric acid, tanker_
+_Context: German, Rhine River, sulfuric acid, tanker_
 
 ### [Tajikistan's lower house of parliament ratifies an agreement to turn over 380 square miles (approx. 1,000 square kilometers) of territory to the People's Republic of China, ending a century-old conflict over disputed territory. ](/news/2011/01/13/tajikistan-s-lower-house-of-parliament-ratifies-an-agreement-to-turn-over-380-square-miles-approx-1-000-square-kilometers-of-territory-to.md)
 China and Tajikistan say they have settled a century-old border dispute, after the Central Asian nation agreed to cede land to China.
@@ -77,12 +77,6 @@ _Context: South Korea, an outbreak of foot-and-mouth disease, domestic pig_
 
 ### [Researchers discover prions spreading through airborne transmission on aerosol particles, in an animal testing experiment focusing on scrapie infection in laboratory mice. ](/news/2011/01/13/researchers-discover-prions-spreading-through-airborne-transmission-on-aerosol-particles-in-an-animal-testing-experiment-focusing-on-scrapi.md)
 _Context: aerosol, animal testing, laboratory mice, prion, scrapie_
-
-### [2011 AFC Asian Cup:Japan controversially beat Syria by a score of 2-1 in the 2011 AFC Asian Cup. ](/news/2011/01/13/2011-afc-asian-cup-pjapan-controversially-beat-syria-by-a-score-of-2-1-in-the-2011-afc-asian-cup.md)
-Penalty six minutes from time gives Japan 2-1 victory after an earlier spot kick had allowed Syria to draw level.
-
-### [North Korea is to host its first ever golf tournament, on a course used by leader Kim Jong-il. ](/news/2011/01/13/north-korea-is-to-host-its-first-ever-golf-tournament-on-a-course-used-by-leader-kim-jong-il.md)
-_Context: Kim Jong-il, North Korea, golf_
 
 ## [Previous Day...](/news/2011/01/12/index.md)
 

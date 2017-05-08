@@ -1,7 +1,7 @@
 ## [2008-06-7](/news/2008/06/7/index.md)
 
 ### [ Big Brown becomes the first Triple Crown favorite to place last in the 2008 Belmont Stakes in New York. The undefeated colt previously won the 2008 Kentucky Derby and the 2008 Preakness Stakes. The 38/1 longshot Da'Tara wins in a wire-to-wire finish. The last Triple Crown winner was Affirmed in 1978. ](/news/2008/06/7/big-brown-becomes-the-first-triple-crown-favorite-to-place-last-in-the-2008-belmont-stakes-in-new-york-the-undefeated-colt-previously-won.md)
-_Context: 2008 Belmont Stakes, 2008 Kentucky Derby, 2008 Preakness Stakes, Affirmed, Big Brown, Da'Tara, United States Triple Crown of Thoroughbred Racing_
+_Context: 2008 Belmont Stakes, 2008 Kentucky Derby, 2008 Preakness Stakes, Affirmed, Big Brown, Da'Tara, Triple Crown_
 
 ### [ The Lord's Resistance Army, reportedly drafting recruits and acquiring new weapons, kills at least 23 people in attacks against south Sudanese troops. ](/news/2008/06/7/the-lord-s-resistance-army-reportedly-drafting-recruits-and-acquiring-new-weapons-kills-at-least-23-people-in-attacks-against-south-sudan.md)
 _Context: Lord's Resistance Army, Sudan_

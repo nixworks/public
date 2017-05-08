@@ -10,7 +10,7 @@ At least six people killed and many injured in attacks in the Iraqi capital.
 _Context: Glasgow, Oban, derails_
 
 ### [16 people are injured during a crush outside Makhulong Stadium in Tembisa, Johannesburg ahead of the 2010 FIFA World Cup warm-up match between Nigeria and North Korea, to which entry was free. ](/news/2010/06/6/16-people-are-injured-during-a-crush-outside-makhulong-stadium-in-tembisa-johannesburg-ahead-of-the-2010-fifa-world-cup-warm-up-match-betwe.md)
-_Context: 2010 FIFA World Cup, Johannesburg, Korea DPR national football team, Makhulong Stadium, Nigeria, Tembisa_
+_Context: 2010 FIFA World Cup, Johannesburg, Korea DPR national football team, Makhulong Stadium, Tembisa, national football team_
 
 ### [United States Coast Guard Admiral Thad Allen, the US government's response manager to the Gulf of Mexico oil disaster says that BP is making progress stopping the oil flow, but that it is too early to call the effort a success and the spill may continue for several months. ](/news/2010/06/6/united-states-coast-guard-admiral-thad-allen-the-us-government-s-response-manager-to-the-gulf-of-mexico-oil-disaster-says-that-bp-is-making.md)
 The Coast Guard warned that even if the flow of oil was capped by summer, it could take until autumn to deal with the damage spreading across the gulf.
@@ -31,7 +31,7 @@ The head of police in the Democratic Republic of Congo has been suspended follow
 _Context: France, Greenpeace India's, Maltese, Zodiac boats_
 
 ### [Two men bound for Somalia to join an Islamic extremist group with links to Al-Qaeda are arrested at Kennedy International Airport, New York City, United States. ](/news/2010/06/6/two-men-bound-for-somalia-to-join-an-islamic-extremist-group-with-links-to-al-qaeda-are-arrested-at-kennedy-international-airport-new-york.md)
-_Context: Islamic extremist group, New York, New York's, Somalia, U.S., al-Qaeda_
+_Context: Islamic extremist group, New York, New York's, Somalia, United States, al-Qaeda_
 
 ### [The 11th Panchen Lama hosted a religious prayer ceremony at the Razheng Monastery, 240 kilometers away from Lhasa. ](/news/2010/06/6/the-11th-panchen-lama-hosted-a-religious-prayer-ceremony-at-the-razheng-monastery-240-kilometers-away-from-lhasa.md)
 _Context: 11th Panchen Lama, Razheng Monastery_

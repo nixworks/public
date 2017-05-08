@@ -40,7 +40,7 @@ _Context: Russia, Udmurt Republic, ammo depot_
 UN says up to 150 bodies found off the Tunisian coast a day after a boat reportedly carrying 850 people capsized.
 
 ### [South Korea and the United States launch an investigation into allegations by former United States Army soldiers that chemicals including Agent Orange were dumped at Camp Carroll near the city of Daegu. ](/news/2011/06/2/south-korea-and-the-united-states-launch-an-investigation-into-allegations-by-former-united-states-army-soldiers-that-chemicals-including-ag.md)
-_Context: Agent Orange, Camp Carroll, Daegu, South Korea, U.S., United States Army_
+_Context: Agent Orange, Camp Carroll, Daegu, South Korea, United States, United States Army_
 
 ### [WikiLeaks releases secret documents on Egypt's nuclear power plant. ](/news/2011/06/2/wikileaks-releases-secret-documents-on-egypt-s-nuclear-power-plant.md)
 _Context: Egypt, WikiLeaks, nuclear power plants_
@@ -62,9 +62,6 @@ Saying President Obama &ldquo;has failed America,&rdquo; former Massachusetts go
 
 ### [The World Health Organization states that the strain of E. coli responsible for the 2011 E. coli O104:H4 outbreak had never "been isolated from patients before." ](/news/2011/06/2/the-world-health-organization-states-that-the-strain-of-e-coli-responsible-for-the-2011-e-coli-o104-h4-outbreak-had-never-been-isolated-f.md)
 _Context: ''E. coli'', E. coli blamed for 46 deaths, World Health Organization_
-
-### [The Dallas Mavericks beat the Miami Heat 95-93 in the second game of the 2011 NBA Finals to tie the series. ](/news/2011/06/2/the-dallas-mavericks-beat-the-miami-heat-95-93-in-the-second-game-of-the-2011-nba-finals-to-tie-the-series.md)
-Dirk Nowitzki and the Dallas Mavericks put a stunning end to their misery in Miami.
 
 ## [Previous Day...](/news/2011/06/1/index.md)
 

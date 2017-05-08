@@ -34,7 +34,7 @@ _Context: Central-African, Dembia_
 _Context: Edd al-Fursan, Egypt, South Darfur_
 
 ### [Confederation of African Football (CAF) president Issa Hayatou asks his executive committee to lift sanctions imposed on the Togo national football team following an attack on their team bus ahead of the 2010 Africa Cup of Nations in Angola. ](/news/2010/05/7/confederation-of-african-football-caf-president-issa-hayatou-asks-his-executive-committee-to-lift-sanctions-imposed-on-the-togo-national-f.md)
-_Context: 2010 Africa Cup of Nations, Angola, CAF, Issa Hayatou, Togo, Togo national football team attack_
+_Context: 2010 Africa Cup of Nations, Angola, Confederation of African Football, Issa Hayatou, Togo national football team, Togo national football team attack_
 
 ### [A faction of the National League for Democracy in Burma forms its own political party to compete in elections, one day after the party disbanded. ](/news/2010/05/7/a-faction-of-the-national-league-for-democracy-in-burma-forms-its-own-political-party-to-compete-in-elections-one-day-after-the-party-disba.md)
 _Context: Burma, National League for Democracy_

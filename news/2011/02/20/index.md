@@ -31,7 +31,7 @@ _Context: Minneapolis-Saint Paul International Airport, Minnesota, state_
 An American official held in Pakistan after shooting dead two men is a CIA agent who was on assignment at the time of the incident, according to reports.
 
 ### [German-Iranian relations:Following a visit by German Foreign Minister Guido Westerwelle to Iran, two German journalists charged with espionage are released and return to Germany having been imprisoned since October for interviewing the son and lawyer of Sakineh Mohammadi Ashtiani.](/news/2011/02/20/germanairanian-relations-pfollowing-a-visit-by-german-foreign-minister-guido-westerwelle-to-iran-two-german-journalists-charged-with-espi.md)
-_Context: German Foreign Minister, German journalist, German-Iranian relations, Germany, Guido Westerwelle, Iran, Sakineh Mohammadi Ashtiani_
+_Context: German, German Foreign Minister, German journalist, German-Iranian relations, Guido Westerwelle, Iran, Sakineh Mohammadi Ashtiani_
 
 ### [North Korea has been observed digging tunnels at a nuclear test site in Punggye-ri in North Hamgyong Province raising concerns about another test. ](/news/2011/02/20/north-korea-has-been-observed-digging-tunnels-at-a-nuclear-test-site-in-punggye-ri-in-north-hamgyong-province-raising-concerns-about-another.md)
 _Context: North Hamgyong Province, North Korea, Punggye-ri, nuclear test_
@@ -59,18 +59,6 @@ _Context: Trident_
 
 ### [Thousands of protesters continue to demonstrate in the U.S. state of Wisconsin over reform of unions and taxes. ](/news/2011/02/20/thousands-of-protesters-continue-to-demonstrate-in-the-u-s-state-of-wisconsin-over-reform-of-unions-and-taxes.md)
 _Context: 2011 Wisconsin budget protests, Wisconsin, state_
-
-### [Iran and Russia meet in the final of the Greco-Roman Wrestling World Championships in Belarus. ](/news/2011/02/20/iran-and-russia-meet-in-the-final-of-the-greco-roman-wrestling-world-championships-in-belarus.md)
-_Context: Belarus, Greco-Roman Wrestling, World Championships_
-
-### [Carlos Noe Gomez, the vice-president of Guatemalan football club Deportivo Xinabaju, is reported to have been shot dead by two men. ](/news/2011/02/20/carlos-noe-gomez-the-vice-president-of-guatemalan-football-club-deportivo-xinabaju-is-reported-to-have-been-shot-dead-by-two-men.md)
-_Context: Carlos Noe Gomez, Deportivo Xinabaju_
-
-### [Rookie NASCAR driver Trevor Bayne wins the Daytona 500. ](/news/2011/02/20/rookie-nascar-driver-trevor-bayne-wins-the-daytona-500.md)
-_Context: Daytona 500, NASCAR, Rookie, Trevor Bayne_
-
-### [The Western Conference defeats the Eastern Conference in the 2011 NBA All-Star Game 148-143 played in Los Angeles. ](/news/2011/02/20/the-western-conference-defeats-the-eastern-conference-in-the-2011-nba-all-star-game-148-143-played-in-los-angeles.md)
-_Context: 2011 NBA All-Star Game, Eastern Conference, Los Angeles, Western Conference_
 
 ## [Previous Day...](/news/2011/02/19/index.md)
 

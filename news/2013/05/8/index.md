@@ -45,8 +45,5 @@ Karnataka has delivered an unambiguous verdict. The Congress will form the next 
 ### [British Conservative Party MP Nadine Dorries is allowed to rejoin the party, having been suspended in November 2012 for her appearance on a reality television show during parliamentary time. ](/news/2013/05/8/british-conservative-party-mp-nadine-dorries-is-allowed-to-rejoin-the-party-having-been-suspended-in-november-2012-for-her-appearance-on-a.md)
 _Context: Conservative Party, Nadine Dorries_
 
-### [In football, Sir Alex Ferguson announces his retirement as the Manager of Manchester United at the end of the 2012-13 Premier League season after 26 years in charge having won 38 trophies. ](/news/2013/05/8/in-football-sir-alex-ferguson-announces-his-retirement-as-the-manager-of-manchester-united-at-the-end-of-the-2012a13-premier-league-seaso.md)
-_Context: 2012-13 Premier League, Manchester United, Sir Alex Ferguson, association football_
-
 ## [Previous Day...](/news/2013/05/7/index.md)
 

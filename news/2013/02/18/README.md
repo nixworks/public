@@ -19,7 +19,7 @@ _Context: 2013 meat adulteration scandal, France, Italian, Nestl, Spain, beef, h
 Armed robbers disguised as police escape with a massive haul of diamonds after a rapid raid at Brussels Airport, Belgian police say.
 
 ### [The perpetrator and his girlfriend's father are dead in a murder-suicide near Fairdealing, Missouri, United States, and two others are injured. ](/news/2013/02/18/the-perpetrator-and-his-girlfriend-s-father-are-dead-in-a-murder-suicide-near-fairdealing-missouri-united-states-and-two-others-are-injur.md)
-_Context: Fairdealing, Missouri, U.S., murder-suicide_
+_Context: Fairdealing, Missouri, United States, murder-suicide_
 
 ### [Voters in Armenia go to the polls for a presidential election with incumbent President Serzh Sargsyan expected to win. Independent observers including the Parliamentary Assembly of the Council of Europe have expressed concern about the conduct of the elections. ](/news/2013/02/18/voters-in-armenia-go-to-the-polls-for-a-presidential-election-with-incumbent-president-serzh-sargsyan-expected-to-win-independent-observers.md)
 Armenian President Serge Sarkisian wins re-election, getting nearly 59% of votes cast, in a poll criticised for lack of competition.
@@ -29,9 +29,6 @@ The predawn homecoming of President Hugo Chávez more than two months after havi
 
 ### [Prime Minister of Tunisia Hamadi Jebali announces that plans for a new government of technocrats has failed. ](/news/2013/02/18/prime-minister-of-tunisia-hamadi-jebali-announces-that-plans-for-a-new-government-of-technocrats-has-failed.md)
 _Context: Hamadi Jebali, Prime Minister of Tunisia, Tunisia, government_
-
-### [In cycling, Team Katusha is granted a World Tour licence by the Union Cycliste Internationale (UCI) after the Court of Arbitration for Sport (CAS) last week upheld the Russian team's appeal against the UCI's original decision to deny it a ProTeam licence. ](/news/2013/02/18/in-cycling-team-katusha-is-granted-a-world-tour-licence-by-the-union-cycliste-internationale-uci-after-the-court-of-arbitration-for-sport.md)
-Katusha take their place alongside 18 original WorldTour squads
 
 ## [Previous Day...](/news/2013/02/17/index.md)
 

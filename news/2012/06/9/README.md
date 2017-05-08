@@ -25,19 +25,7 @@ _Context: Pensacola, Florida_
 Residents caught up in severe overnight flooding in mid Wales speak of the speed the floods hit.
 
 ### [Protesters and riot police clash for the third night in a row in Montreal near the Grand Prix events on the corner of Sainte-Catherine and Crescent. ](/news/2012/06/9/protesters-and-riot-police-clash-for-the-third-night-in-a-row-in-montreal-near-the-grand-prix-events-on-the-corner-of-sainte-catherine-and-c.md)
-_Context: Crescent, Grand Prix, Sainte-Catherine, city of Montreal, student protests_
-
-### [UEFA Euro 2012:Michael Krohn-Dehli's first-half strike earns the Danes a shock win against the Dutch at the Metalist Stadium in Kharkiv. ](/news/2012/06/9/uefa-euro-2012-pmichael-krohn-dehli-s-first-half-strike-earns-the-danes-a-shock-win-against-the-dutch-at-the-metalist-stadium-in-kharkiv.md)
-Moments before he was supposed to be taken off, Mario Gomez headed in the winning goal for Germany.
-
-### [Maria Sharapova defeats Sara Errani in the 2012 French Open Women's Singles final, returning to the World No. 1 ranking, ending a four-year major title drought and completing a career Grand Slam. Sharapova had been as low as World No. 126 during the drought, having suffered a serious shoulder injury in 2008. ](/news/2012/06/9/maria-sharapova-defeats-sara-errani-in-the-2012-french-open-women-s-singles-final-returning-to-the-world-no-1-ranking-ending-a-four-year.md)
-Maria Sharapova beats Sara Errani 6-3, 6-2 to win the French Open and complete a career Grand Slam.
-
-### [In NBA basketball, Miami Heat defeat the Boston Celtics to win their 3rd Eastern Conference title and proceed to the 2012 NBA Finals, where they will face Oklahoma City Thunder. ](/news/2012/06/9/in-nba-basketball-miami-heat-defeat-the-boston-celtics-to-win-their-3rd-eastern-conference-title-and-proceed-to-the-2012-nba-finals-where.md)
-_Context: 2012 NBA Finals, Boston Celtics, Eastern Conference, Miami Heat, NBA, Oklahoma City Thunder_
-
-### [The Norfolk Admirals defeat the Toronto Marlies in a sweep to clinch their first ever AHL championship. ](/news/2012/06/9/the-norfolk-admirals-defeat-the-toronto-marlies-in-a-sweep-to-clinch-their-first-ever-ahl-championship.md)
-The Lightning affiliate scored a four-game sweep over the Toronto Marlies.
+_Context: Crescent, Grand Prix, Montreal, Sainte-Catherine, student protests_
 
 ## [Previous Day...](/news/2012/06/8/index.md)
 

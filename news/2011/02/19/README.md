@@ -31,7 +31,7 @@ Fifty-eight foot American-owned yacht seized off the coast of Oman with four US 
 _Context: Dresden, tear gas, water cannon_
 
 ### [Iranian director Asghar Farhadi wins three awards, including the Golden Bear, for his film ''Nader and Simin, A Separation'' as the 61st Berlin International Film Festival ends. There are other winners from Argentina, Albania, Germany and Hungary. ](/news/2011/02/19/iranian-director-asghar-farhadi-wins-three-awards-including-the-golden-bear-for-his-film-nader-and-simin-a-separation-as-the-61st-ber.md)
-_Context: 61st Berlin International Film Festival, Albania, Argentina, Asghar Farhadi, Germany, Golden Bear, Hungary, Iran, Nader and Simin, A Separation_
+_Context: 61st Berlin International Film Festival, Albania, Argentina, Asghar Farhadi, German, Golden Bear, Hungary, Iran, Nader and Simin, A Separation_
 
 ### [International Petroleum Investment Company makes a $4billion bid for the remaining 53% of shares of Compania Espanola de Petroleos.](/news/2011/02/19/international-petroleum-investment-company-makes-a-4billion-bid-for-the-remaining-53-of-shares-of-compaa-aa-espaa-ola-de-petra3leos.md)
 _Context: Compania Espanola de Petroleos, International Petroleum Investment Company_

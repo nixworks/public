@@ -30,14 +30,5 @@ _Context: National Convention, R, Ron Paul, presidential campaign bid_
 ### [Scientists at California's Stanford University invent a working bionic eye powered only by focused light. Though currently a prototype, the device could eventually restore the sight of millions of people suffering from eye diseases such as macular degeneration and retinal pigmentosa. ](/news/2012/05/14/scientists-at-california-s-stanford-university-invent-a-working-bionic-eye-powered-only-by-focused-light-though-currently-a-prototype-the.md)
 A retinal implant - or bionic eye - which is powered by light has been invented by scientists at Stanford University in California.
 
-### [Tens of thousands of people line the streets of Manchester in celebration of Manchester City's victory in the Premier League season finale &ndash; the team's first Premier League win since 1968. ](/news/2012/05/14/tens-of-thousands-of-people-line-the-streets-of-manchester-in-celebration-of-manchester-city-s-victory-in-the-premier-league-season-finale.md)
-About 100,000 Manchester City fans line the streets for a parade celebrating the Premier League title win.
-
-### [Queens Park Rangers player Joey Barton is charged by the Football Association in relation to his behaviour during yesterday's game at Manchester City, in which he assaulted several opposing players. ](/news/2012/05/14/queens-park-rangers-player-joey-barton-is-charged-by-the-football-association-in-relation-to-his-behaviour-during-yesterday-s-game-at-manche.md)
-QPR midfielder Joey Barton accepts one Football Association charge of violent conduct, but denies a second.
-
-### [Malaga CF player Ruud van Nistelrooy announces his retirement from professional football. ](/news/2012/05/14/ma-laga-cf-player-ruud-van-nistelrooy-announces-his-retirement-from-professional-football.md)
-_Context: Malaga, Ruud van Nistelrooy_
-
 ## [Previous Day...](/news/2012/05/13/index.md)
 

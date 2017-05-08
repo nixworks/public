@@ -60,8 +60,5 @@ Minority Leader Nancy Pelosi held onto her job leading House Democrats today as 
 ### [South Africa launches the HVTN 702 trial for an experimental AIDS vaccine, which will involve over 5,400 men and women over the course of four years. ](/news/2016/11/30/south-africa-launches-the-hvtn-702-trial-for-an-experimental-aids-vaccine-which-will-involve-over-5-400-men-and-women-over-the-course-of-fo.md)
 _Context: AIDS, HVTN 702, South Africa_
 
-### [Norwegian chess grandmaster Magnus Carlsen defeats Russian challenger Sergey Karjakin to retain the World Chess Championship title. ](/news/2016/11/30/norwegian-chess-grandmaster-magnus-carlsen-defeats-russian-challenger-sergey-karjakin-to-retain-the-world-chess-championship-title.md)
-_Context: Magnus Carlsen, Norway, Russia, Sergey Karjakin, World Chess Championship, World Chess Championship 2016_
-
 ## [Previous Day...](/news/2016/11/29/index.md)
 

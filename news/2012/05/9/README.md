@@ -48,11 +48,5 @@ _Context: Ukrainian, Yulia Tymoshenko_
 ### [United States President Barack Obama officially states that he supports the right for same-sex partners to marry. ](/news/2012/05/9/united-states-president-barack-obama-officially-states-that-he-supports-the-right-for-same-sex-partners-to-marry.md)
 _Context: Obama, President, same-sex marriage_
 
-### [Atletico Madrid defeat Athletic Bilbao in the 2012 UEFA Europa League Final in Bucharest to win the competition for the second time in three years. ](/news/2012/05/9/atla-c-tico-madrid-defeat-athletic-bilbao-in-the-2012-uefa-europa-league-final-in-bucharest-to-win-the-competition-for-the-second-time-in-thre.md)
-Atletico Madrid clinch the Europa League as Radamel Falcao scores twice in a comfortable victory over fellow Spaniards Athletic Bilbao.
-
-### [Lionel Messi is embroiled in a racism scandal. ](/news/2012/05/9/lionel-messi-is-embroiled-in-a-racism-scandal.md)
-_Context: Lionel Messi_
-
 ## [Previous Day...](/news/2012/05/8/index.md)
 

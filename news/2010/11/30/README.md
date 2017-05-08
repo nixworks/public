@@ -79,16 +79,10 @@ _Context: Central Asia, Kyrgyzstan, parliamentary democracy_
 Minister for Justice Dermot Ahern has said that he will not contest his Dáil seat at the next General Election.
 
 ### [United States Secretary of Defense Robert Gates urges the United States Senate to abolish "don't ask don't tell" for gays and lesbians serving in the US military and releases a report showing that ending the policy would have little impact. ](/news/2010/11/30/united-states-secretary-of-defense-robert-gates-urges-the-united-states-senate-to-abolish-don-t-ask-don-t-tell-for-gays-and-lesbians-servi.md)
-_Context: Robert Gates, Secretary of Defense, US military, don't ask, don't tell, senators_
+_Context: Robert Gates, Secretary of Defense, US military, United States senators, don't ask, don't tell_
 
 ### [The Slurpee Summit occurs in Washington, DC. ](/news/2010/11/30/the-slurpee-summit-occurs-in-washington-dc.md)
 _Context: Slurpee Summit_
-
-### [FIFA controversy:FIFA Vice-President and CAF President Issa Hayatou denies allegations of bribery and threatens to sue the BBC after its ''Panorama'' programme alleges he received bribes from sports marketing firm ISL. ](/news/2010/11/30/fifa-controversy-pfifa-vice-president-and-caf-president-issa-hayatou-denies-allegations-of-bribery-and-threatens-to-sue-the-bbc-after-its.md)
-Fifa Vice-President Issa Hayatou denies bribery claims carried by the BBC and threatens legal action, as World Cup hopefuls for 2018 and 2022 prepare to make their final presentations.
-
-### [Police investigating allegations of financial irregularities at the 2010 Commonwealth Games in Delhi raid 11 places. ](/news/2010/11/30/police-investigating-allegations-of-financial-irregularities-at-the-2010-commonwealth-games-in-delhi-raid-11-places.md)
-Indian police raid 11 locations in connection with alleged financial irregularities at the 2010 Commonwealth Games in Delhi.
 
 ## [Previous Day...](/news/2010/11/29/index.md)
 

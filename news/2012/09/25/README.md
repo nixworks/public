@@ -13,7 +13,7 @@ Seven people - mainly members of the security forces - are killed in a blast in 
 China says its first aircraft carrier - a refurbished Soviet ship - has entered into service, expanding its ability to defend its sovereignty.
 
 ### [American singer Andy Williams dies at the age of 84 at his home in Branson, Missouri. ](/news/2012/09/25/american-singer-andy-williams-dies-at-the-age-of-84-at-his-home-in-branson-missouri.md)
-_Context: Andy Williams, Branson, Missouri, U.S._
+_Context: Andy Williams, Branson, Missouri, United States_
 
 ### [A 6.2-magnitude earthquake hits near the Baja California peninsula with no immediate reports of injuries or damage. ](/news/2012/09/25/a-6-2-magnitude-earthquake-hits-near-the-baja-california-peninsula-with-no-immediate-reports-of-injuries-or-damage.md)
 _Context: Baja California Peninsula, magnitude_
@@ -38,9 +38,6 @@ Spanish police ringing parliament in Madrid fire rubber bullets at protesters ta
 
 ### [Anouchka van Miltenburg of the People's Party for Freedom and Democracy (VVD) is elected as President of the House of Representatives of the Netherlands, giving the VVD the ''Big Three'' in Dutch politics: Prime Minister, President of the Senate and President of the House of Representatives. ](/news/2012/09/25/anouchka-van-miltenburg-of-the-people-s-party-for-freedom-and-democracy-vvd-is-elected-as-president-of-the-house-of-representatives-of-the.md)
 _Context: Anouchka van Miltenburg, Dutch politics, People's Party for Freedom and Democracy, President of the House of Representatives of the Netherlands, President of the Senate, Prime Minister_
-
-### [The organizing committee for the 2014 Winter Olympics in Sochi, Russia, adopts the slogan ''Hot. Cool. Yours''.  ](/news/2012/09/25/the-organizing-committee-for-the-2014-winter-olympics-in-sochi-russia-adopts-the-slogan-hot-cool-yours.md)
-With 500 days left before the opening of the 2014 Winter Olympics in Sochi, the organizers have unveiled the Games’ official slogan: “Hot.Cool.Yours.”
 
 ## [Previous Day...](/news/2012/09/24/index.md)
 

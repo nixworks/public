@@ -45,8 +45,5 @@ President Obama will designate three new national monuments on Friday. As part o
 ### [The Indian Space Research Organisation successfully launches five commercial satellites for the United Kingdom. ](/news/2015/07/10/the-indian-space-research-organisation-successfully-launches-five-commercial-satellites-for-the-united-kingdom.md)
 Since 1999 India till date has launched 40 satellites of other countries and the successful launch of the five British satellites would take the tally to 45. 
 
-### [The Games officially commence following Friday's opening ceremony in Toronto. ](/news/2015/07/10/the-games-officially-commence-following-friday-s-opening-ceremony-in-toronto.md)
-_Context: 2015 Pan American Games, Toronto, opening ceremony_
-
 ## [Previous Day...](/news/2015/07/9/index.md)
 

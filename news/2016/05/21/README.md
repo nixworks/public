@@ -34,13 +34,7 @@ Venezuela is holding the biggest military exercise in its history this weekend, 
 Violent protests have broken out in Chile as President Michelle Bachelet presents a state-of-the-nation report to Congress.
 
 ### [Lake Mead in Mohave County, Arizona, the largest reservoir in the United States, drops to its lowest level in history, declining to its lowest level since it was filled in the 1930s. The reservoir serves water to the states of Arizona, Nevada and California. ](/news/2016/05/21/lake-mead-in-mohave-county-arizona-the-largest-reservoir-in-the-united-states-drops-to-its-lowest-level-in-history-declining-to-its-lowe.md)
-_Context: Arizona, California, Lake Mead, Mohave County, Arizona, Nevada, U.S., reservoir_
-
-### [Exaggerator wins the Preakness Stakes at Pimlico Race Course in Baltimore, Maryland. ](/news/2016/05/21/exaggerator-wins-the-preakness-stakes-at-pimlico-race-course-in-baltimore-maryland.md)
-Before Nyquist&#39;s brilliance was evident, it wasn&#39;t obvious to the experts.
-
-### [Manchester United F.C. beat Crystal Palace F.C. 2-1 at Wembley Stadium in London to win the 2015-16 FA Cup. ](/news/2016/05/21/manchester-united-f-c-beat-crystal-palace-f-c-2-1-at-wembley-stadium-in-london-to-win-the-2015a16-fa-cup.md)
-_Context: 2015-16 FA Cup, 2016 FA Cup Final, Crystal Palace F.C., London, Manchester United, Wembley Stadium_
+_Context: Arizona, California, Lake Mead, Mohave County, Arizona, Nevada, United States, reservoir_
 
 ## [Previous Day...](/news/2016/05/20/index.md)
 

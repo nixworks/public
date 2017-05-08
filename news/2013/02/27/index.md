@@ -34,7 +34,7 @@ Boxer Herbie Hide has been questioned by police in connection with the supply of
 Stephane Hessel, the former French Resistance fighter whose 2010 manifesto Time for Outrage inspired social protesters in Europe, dies aged 95.
 
 ### [Chuck Hagel is sworn in as United States Secretary of Defense, replacing Leon Panetta. ](/news/2013/02/27/chuck-hagel-is-sworn-in-as-united-states-secretary-of-defense-replacing-leon-panetta.md)
-_Context: Chuck Hagel, Leon Panetta, Secretary of Defense, U.S._
+_Context: Chuck Hagel, Leon Panetta, Secretary of Defense, United States_
 
 ### [The United States Senate confirms Jack Lew as the Secretary of the Treasury. ](/news/2013/02/27/the-united-states-senate-confirms-jack-lew-as-the-secretary-of-the-treasury.md)
 The U.S. Senate, late Wednesday, confirmed Jack Lew as the nation’s next Treasury Secretary in a vote of 71-26.
@@ -47,9 +47,6 @@ On his final full day as the leader of the Roman Catholic Church, Pope Benedict 
 
 ### [Inspiration Mars Foundation: First space tourist Dennis Tito announces a plan to send a married couple on the first manned mission to Mars in January 2018 on a round-trip journey lasting 501 days. ](/news/2013/02/27/inspiration-mars-foundation-first-space-tourist-dennis-tito-announces-a-plan-to-send-a-married-couple-on-the-first-manned-mission-to-mars-i.md)
 A new nonprofit foundation headed by the first private space traveler, Dennis Tito, seeks to take advantage of a once-in-15-years alignment of planets to beat NASA astronauts to Mars.
-
-### [Atletico Madrid advances to the 2012-13 Copa del Rey Final against city rivals Real Madrid after drawing 2-2 with a Sevilla in the semi-final secong leg. ](/news/2013/02/27/atla-c-tico-madrid-advances-to-the-2012a13-copa-del-rey-final-against-city-rivals-real-madrid-after-drawing-2a2-with-a-sevilla-in-the-semi.md)
-_Context: 2012-13 Copa del Rey, Atletico Madrid, Final, Real Madrid, Sevilla FC, city rivals_
 
 ## [Previous Day...](/news/2013/02/26/index.md)
 

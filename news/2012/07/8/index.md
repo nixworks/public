@@ -39,11 +39,5 @@ _Context: Enrique Pena Nieto, Mexican presidential elections, Mexico City_
 ### [Cambodian health officials identify Enterovirus 71 as a possible cause for an outbreak in which at least 64 children have died. ](/news/2012/07/8/cambodian-health-officials-identify-enterovirus-71-as-a-possible-cause-for-an-outbreak-in-which-at-least-64-children-have-died.md)
 _Context: Cambodia, Enterovirus 71_
 
-### [In tennis, Roger Federer of Switzerland defeats Andy Murray of the United Kingdom three sets to one at the men's singles final of the 2012 Wimbledon Championships in England. ](/news/2012/07/8/in-tennis-roger-federer-of-switzerland-defeats-andy-murray-of-the-united-kingdom-three-sets-to-one-at-the-men-s-singles-final-of-the-2012-w.md)
-Centre Court at Wimbledon. With its oak panelling and its sacred turf, it is one of the great sporting arenas, a place that has given so much pleasure to the tennis fans of Britain &ndash; even those who clock on to the sport for only one fortnight of the year.
-
-### [In mixed martial arts, the UFC Middleweight Champion, Anderson Silva, retains his belt after defeating Chael Sonnen via TKO in the second round on UFC 148. ](/news/2012/07/8/in-mixed-martial-arts-the-ufc-middleweight-champion-anderson-silva-retains-his-belt-after-defeating-chael-sonnen-via-tko-in-the-second-ro.md)
-Anderson Silva had his revenge and cemented his legacy with a definitive second-round TKO of bitter rival Chael Sonnen for his UFC-record 10th consecutive title defense.
-
 ## [Previous Day...](/news/2012/07/7/index.md)
 

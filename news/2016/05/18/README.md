@@ -33,8 +33,5 @@ _Context: New Jersey, Timothy Wiltsey_
 ### [Amid a state of emergency, Venezuelan police clash and fire tear gas at protesters calling for the downfall of socialist president Nicolas Maduro in central Caracas. The protests come a day after Maduro warned that the opposition-controlled National Assembly may soon "disappear". ](/news/2016/05/18/amid-a-state-of-emergency-venezuelan-police-clash-and-fire-tear-gas-at-protesters-calling-for-the-downfall-of-socialist-president-nicola-s.md)
 Wednesday’s protests in Caracas came the day after Maduro said the opposition-controlled parliament had become irrelevant amid a shrinking economy
 
-### [Spanish side Sevilla FC beats English opponent Liverpool F.C., 3-1, at St. Jakob-Park in Basel, Switzerland, to win the 2015-16 UEFA Europa League. It is their third straight UEFA Europa League title win. ](/news/2016/05/18/spanish-side-sevilla-fc-beats-english-opponent-liverpool-f-c-3-1-at-st-jakob-park-in-basel-switzerland-to-win-the-2015a16-uefa-europ.md)
-Spanish side Sevilla survived a first-half battering before hitting back with three second-half goals to beat English club Liverpool 3-1 in Basel and claim their third Europa League title in a row.
-
 ## [Previous Day...](/news/2016/05/17/index.md)
 

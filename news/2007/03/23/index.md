@@ -19,7 +19,7 @@ _Context: Iranian President, Mahmoud Ahmadinejad, United Nations Security Counci
 _Context: AMISOM, Mogadishu, missile hits an Ilyushin airplane_
 
 ### [ The United States Senate votes 52-47 to approve a budget plan that aims to achieve a balanced budget within five years and aims to find offsets for tax cuts passed in President Bush's first term. ](/news/2007/03/23/the-united-states-senate-votes-52-47-to-approve-a-budget-plan-that-aims-to-achieve-a-balanced-budget-within-five-years-and-aims-to-find-off.md)
-_Context: George W. Bush, President, balanced budget, budget, first term, senators, tax cuts passed_
+_Context: George W. Bush, President, United States senators, balanced budget, budget, first term, tax cuts passed_
 
 ### [ Iraq War: The United States House of Representatives votes in favor of withdrawing all U.S. troops from Iraq by August 2008. President Bush promises to veto the bill. ](/news/2007/03/23/iraq-war-p-the-united-states-house-of-representatives-votes-in-favor-of-withdrawing-all-u-s-troops-from-iraq-by-august-2008-president-bus.md)
 _Context: 2008, George W. Bush, Iraq War, President, United States House of Representatives, bill into law, troop cut, veto_

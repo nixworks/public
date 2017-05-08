@@ -43,10 +43,10 @@ _Context: Gaza Strip_
 _Context: Cristina Fernandez de Kirchner, Malvinas Islands, Sean Penn_
 
 ### [The Vice-President of the People's Republic of China Xi Jinping meets with the President of the United States Barack Obama during a visit to the United States. ](/news/2012/02/14/the-vice-president-of-the-people-s-republic-of-china-xi-jinping-meets-with-the-president-of-the-united-states-barack-obama-during-a-visit-to.md)
-_Context: Obama, President, U.S., Vice President, Xi Jinping_
+_Context: Obama, President, United States, Vice President, Xi Jinping_
 
 ### [An employee in the United States embassy in Islamabad is detained in the Pakistani city of Peshawar after bullets are found in his luggage. ](/news/2012/02/14/an-employee-in-the-united-states-embassy-in-islamabad-is-detained-in-the-pakistani-city-of-peshawar-after-bullets-are-found-in-his-luggage.md)
-_Context: Islamabad, Pakistan, Peshawar, U.S._
+_Context: Islamabad, Pakistan, Peshawar, United States_
 
 ### [The Venezuelan Supreme Tribunal orders the opposition not to destroy the voter list following its primary. ](/news/2012/02/14/the-venezuelan-supreme-tribunal-orders-the-opposition-not-to-destroy-the-voter-list-following-its-primary.md)
 _Context: Supreme Court, Venezuela, opposition_
@@ -62,22 +62,6 @@ _Context: Kuwait_
 
 ### [Thousands of opposition supporters from Iran's Green Movement march silently through the capital Tehran calling for the release of political prisoners. ](/news/2012/02/14/thousands-of-opposition-supporters-from-iran-s-green-movement-march-silently-through-the-capital-tehran-calling-for-the-release-of-political.md)
 _Context: Iran, Iranian opposition, Tehran_
-
-### [FIFA warns the Argentine Football Association (AFA) against renaming their top league after the ARA ''General Belgrano'' cruiser on which hundreds of people were killed after it was sunk by a British nuclear submarine in 1982. FIFA says such a move might breach rules on mixing politics with football. ](/news/2012/02/14/fifa-warns-the-argentine-football-association-afa-against-renaming-their-top-league-after-the-ara-general-belgrano-cruiser-on-which-hu.md)
-_Context: ARA ''General Belgrano'', Argentine Football Association, FIFA, a British nuclear submarine_
-
-### [Rangers enter administration and are docked 10 points, effectively ending their 2011-12 Scottish Premier League challenge and giving the title to bitter rivals Celtic. ](/news/2012/02/14/rangers-enter-administration-and-are-docked-10-points-effectively-ending-their-2011a12-scottish-premier-league-challenge-and-giving-the-t.md)
-Rangers Football Club enters administration - meaning the club will be docked an immediate 10 points in the Scottish Premier League.
-
-### [93 people, including the Fenerbahce S.K. president, go to trial on match fixing charges involving 19 Super Lig matches in the Turkish city of Istanbul. ](/news/2012/02/14/93-people-including-the-fenerbahasse-s-k-president-go-to-trial-on-match-fixing-charges-involving-19-sa1-4per-lig-matches-in-the-turkish-city.md)
-_Context: Fenerbahce, Istanbul, Super Lig, Turks, match fixing_
-
-### [The Six Nations Council announces that the match between France versus Ireland in the 2012 Six Nations Championship, called off minutes prior to kick-off on Saturday night, has been rescheduled for Sunday 4 March, with a 3.00pm kick-off, Irish time. ](/news/2012/02/14/the-six-nations-council-announces-that-the-match-between-france-versus-ireland-in-the-2012-six-nations-championship-called-off-minutes-prio.md)
-The Six Nations game between France and Ireland will now be played on Sunday, 4 March in Paris
-
-### [Apoel Nicosia have a win against Lion and drive the team to the top 8 UCL (UEFA CHAMPIONS LEAGUE)wins 1-0(agg. 1-1)p. 4-3.  ](/news/2012/02/14/apoel-nicosia-have-a-win-against-lion-and-drive-the-team-to-the-top-8-ucl-uefa-champions-league-wins-1-0-agg-1-1-p-4-3.md)
-### [In ice hockey, the Detroit Red Wings set a new record of 21 consecutive home victories in the National Hockey League by defeating the Dallas Stars 3-1. ](/news/2012/02/14/in-ice-hockey-the-detroit-red-wings-set-a-new-record-of-21-consecutive-home-victories-in-the-national-hockey-league-by-defeating-the-dallas.md)
-_Context: Dallas Stars, Detroit Red Wings, NHL, ice hockey_
 
 ## [Previous Day...](/news/2012/02/13/index.md)
 

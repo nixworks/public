@@ -45,11 +45,5 @@ _Context: Department of Energy, Obama Administration, Solyndra, sun_
 ### [NASA launches its NPOESS Preparatory Project (NPP) satellite to send back data on weather and climate conditions. ](/news/2011/10/28/nasa-launches-its-npoess-preparatory-project-npp-satellite-to-send-back-data-on-weather-and-climate-conditions.md)
 _Context: NASA, NPOESS Preparatory Project (NPP)_
 
-### [In basketball, the North American National Basketball Association cancels all games scheduled up until November 30, 2011 after failing to achieve a resolution of the 2011 NBA lockout with the National Basketball Players Association. ](/news/2011/10/28/in-basketball-the-north-american-national-basketball-association-cancels-all-games-scheduled-up-until-november-30-2011-after-failing-to-ac.md)
-_Context: 2011 NBA lockout, NBA, National Basketball Players Association, North America, basketball_
-
-### [The St. Louis Cardinals win the 2011 World Series, defeating the Texas Rangers 6-2 in Game 7. ](/news/2011/10/28/the-st-louis-cardinals-win-the-2011-world-series-defeating-the-texas-rangers-6a2-in-game-7.md)
-_Context: 2011 World Series, St. Louis Cardinals, Texas Rangers_
-
 ## [Previous Day...](/news/2011/10/27/index.md)
 

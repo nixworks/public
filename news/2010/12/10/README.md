@@ -37,7 +37,7 @@ Jailed Chinese dissident Liu Xiaobo was awarded the Nobel Peace Prize in a cerem
 The British government has trained a paramilitary force accused of hundreds of killings in Bangladesh, according to leaked U.S. embassy cables. 
 
 ### [For the first time since World War II, German troops are stationed in France. ](/news/2010/12/10/for-the-first-time-since-world-war-ii-german-troops-are-stationed-in-france.md)
-_Context: France, Germany, World War II_
+_Context: France, German, World War II_
 
 ### [Detention of Julian Assange:Christine Assange, mother of the imprisoned WikiLeaks spokesperson Julian Assange, expresses her anger with the Australian government, especially Julia Gillard, on the Seven Network. ](/news/2010/12/10/detention-of-julian-assange-pchristine-assange-mother-of-the-imprisoned-wikileaks-spokesperson-julian-assange-expresses-her-anger-with-the.md)
 London, Dec 10 (DPA) WikiLeaks founder Julian Assange, who is being held in extradition custody in London, has been refused the use of his own laptop but...
@@ -62,12 +62,6 @@ _Context: Arkady Dvorkovich, Dmitry Medvedev, Russia_
 
 ### [A school in Dublin threatens to expel a student who led a protest march against education cuts outlined by the Irish government. ](/news/2010/12/10/a-school-in-dublin-threatens-to-expel-a-student-who-led-a-protest-march-against-education-cuts-outlined-by-the-irish-government.md)
 A Leaving Cert student who organised a protest march against budget cuts in education is facing expulsion from his Dublin school.
-
-### [Association football team FC Barcelona ends its 111-year history of refusing commercial shirt sponsorship as it signs a record 125 million deal with the Qatar Foundation. ](/news/2010/12/10/association-football-team-fc-barcelona-ends-its-111-year-history-of-refusing-commercial-shirt-sponsorship-as-it-signs-a-record-ps125-million.md)
-Spanish football giant sign $218m shirt sponsorship deal with non-profit Qatar Foundation.
-
-### [At least 250 people are injured due to a fence collapse at a game between Al-Wahdat and Al-Faisaly. ](/news/2010/12/10/at-least-250-people-are-injured-due-to-a-fence-collapse-at-a-game-between-al-wahdat-and-al-faisaly.md)
-At least 250 injured as fence collapses during violence between Al-Wahdat and Al-Faisaly supporters.
 
 ## [Previous Day...](/news/2010/12/9/index.md)
 

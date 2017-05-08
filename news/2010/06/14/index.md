@@ -55,7 +55,7 @@ _Context: Baghdad, Iraq, Iraqi Parliament, elections_
 Poland holds a suspected Israeli agent wanted in Germany in connection with the murder of a Hamas commander in Dubai.
 
 ### [Lanseria International Airport reopens after the removal of the wreckage of yesterday's emergency landing involving mainly Al Jazeera Sports broadcast staff on their way to cover the 2010 FIFA World Cup game between Algeria and Slovenia in Polokwane. ](/news/2010/06/14/lanseria-international-airport-reopens-after-the-removal-of-the-wreckage-of-yesterday-s-emergency-landing-involving-mainly-al-jazeera-sports.md)
-_Context: 2010 FIFA World Cup, Al Jazeera Sports, Algeria, Lanseria International Airport, Polokwane, Slovenia national football team_
+_Context: 2010 FIFA World Cup, Al Jazeera Sports, Algeria, Lanseria International Airport, Polokwane, Slovenia_
 
 ### [New files on American politician Ted Kennedy, which were previously secret, are released. ](/news/2010/06/14/new-files-on-american-politician-ted-kennedy-which-were-previously-secret-are-released.md)
 Over 2,200 pages of previously secret files on the late Senator Edward Kennedy are released by the FBI.

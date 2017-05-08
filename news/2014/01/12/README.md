@@ -12,11 +12,5 @@ _Context: Pope Francis_
 ### [The Golden Globe Awards are held in Beverly Hills, California, with ''12 Years a Slave'' winning the Golden Globe Award for Best Motion Picture - Drama and ''American Hustle'' winning the Golden Globe Award for Best Motion Picture - Musical or Comedy. ](/news/2014/01/12/the-golden-globe-awards-are-held-in-beverly-hills-california-with-12-years-a-slave-winning-the-golden-globe-award-for-best-motion-pict.md)
 &quot;12 Years a Slave&quot; went into the 71st Golden Globe Awards on Sunday night with seven nominations but was passed over again and again. That is, until the last award of the evening, and arguably the best of them all. The harrowing portrayal of slavery in America took home the prize for best drama of 2013.
 
-### [In golf, American Jimmy Walker wins the 2014 Sony Open in Hawaii. ](/news/2014/01/12/in-golf-american-jimmy-walker-wins-the-2014-sony-open-in-hawaii.md)
-Walker hits three consecutive birdies on the back nine to earn his second-career PGA Tour victory.
-
-### [In darts, Stephen Bunting  and Lisa Ashton win the 2014 BDO World Darts Championship. ](/news/2014/01/12/in-darts-stephen-bunting-and-lisa-ashton-win-the-2014-bdo-world-darts-championship.md)
-Stephen Bunting gained his first world title when beating Alan Norris 7-4 in the BDO final at Lakeside
-
 ## [Previous Day...](/news/2014/01/11/index.md)
 

@@ -19,7 +19,7 @@ Denmark has resumed rail services to Germany, after closing the train line and a
 Images reportedly shows Russia pressing ahead with a military buildup in Syria, but Moscow says it is only bringing aid.
 
 ### [The United States Senate fails to pass a resolution blocking approval of the nuclear agreement with Iran, meaning it will be formally adopted on October 19. ](/news/2015/09/10/the-united-states-senate-fails-to-pass-a-resolution-blocking-approval-of-the-nuclear-agreement-with-iran-meaning-it-will-be-formally-adopte.md)
-_Context: Iran, Joint Comprehensive Plan of Action, senators_
+_Context: Iran, Joint Comprehensive Plan of Action, United States senators_
 
 ### [An indigenous Lumad child dies in an evacuation center while the Philippine Senate investigates the alleged September 1 murders of an indigenous Lumad family and the alleged rape of an indigenous Manobo girl by soldiers and militiamen of the Philippine Army. ](/news/2015/09/10/an-indigenous-lumad-child-dies-in-an-evacuation-center-while-the-philippine-senate-investigates-the-alleged-september-1-murders-of-an-indige.md)
 The communist rebellion lives in the so-called Timber and Mining Corridor of the Philippines, where guerrillas easily find allies among residents because of their battlecry to keep big business away from ancestral domains

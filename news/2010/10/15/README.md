@@ -13,10 +13,10 @@ _Context: 5th Stryker Brigade Combat Team, Afghanistan, United States Army, cour
 _Context: England, G4S, Jimmy Mubenga_
 
 ### [A museum in Berlin opens an exhibition on Adolf Hitler and his relationship with the German people, the first museum in Germany to do so. ](/news/2010/10/15/a-museum-in-berlin-opens-an-exhibition-on-adolf-hitler-and-his-relationship-with-the-german-people-the-first-museum-in-germany-to-do-so.md)
-_Context: Adolf Hitler, Berlin, German, Germany_
+_Context: Adolf Hitler, Berlin, German, German_
 
 ### [US rapper T.I. is sentenced to eleven months in prison for violating the terms of his parole. ](/news/2010/10/15/us-rapper-t-i-is-sentenced-to-eleven-months-in-prison-for-violating-the-terms-of-his-parole.md)
-_Context: T.I., U.S., parole, rapper_
+_Context: T.I., United States, parole, rapper_
 
 ### [Canton Fair opens, China's largest trade fair and a key barometer of its trade and economic development. ](/news/2010/10/15/canton-fair-opens-china-s-largest-trade-fair-and-a-key-barometer-of-its-trade-and-economic-development.md)
 _Context: Canton Fair, barometer_
@@ -61,19 +61,13 @@ A Saudi prince accused of beating his servant to death in a London hotel will no
 Iran says two Germans have admitted breaking the law after they were arrested for interviewing the son of a woman sentenced to death for adultery.
 
 ### [Former Countrywide Financial Chief Executive Officer Angelo Mozilo and two other senior executives agree to settle United States Securities and Exchange Commission claims that they misled investors and of insider trading. ](/news/2010/10/15/former-countrywide-financial-chief-executive-officer-angelo-mozilo-and-two-other-senior-executives-agree-to-settle-united-states-securities.md)
-_Context: Angelo Mozilo, Countrywide Financial, Securities and Exchange Commission, U.S., chief executive officer, insider trading_
+_Context: Angelo Mozilo, Countrywide Financial, Securities and Exchange Commission, United States, chief executive officer, insider trading_
 
 ### [More than 100 Chinese scholars, journalists and lawyers publish an open letter demanding the release of Liu Xiaobo. ](/news/2010/10/15/more-than-100-chinese-scholars-journalists-and-lawyers-publish-an-open-letter-demanding-the-release-of-liu-xiaobo.md)
 China&#039;s leaders faced fresh calls for freedom of speech on Friday after group of 100 scholars, journalists and lawyers published an open letter demanding the release of Nobel peace laureate Liu Xiaobo.
 
 ### [A senior official from the Sudanese National Congress Party says it is "not possible" to hold a referendum on whether the disputed region of Abyei remains a part of northern or Southern Sudan. ](/news/2010/10/15/a-senior-official-from-the-sudanese-national-congress-party-says-it-is-not-possible-to-hold-a-referendum-on-whether-the-disputed-region-of.md)
 North-south tensions rise as Khartoum says referendum on disputed oil-rich region may be delayed.
-
-### [2010 Commonwealth Games: Nigerian athlete Folashade Abugan tests positive for testosterone prohormone and is stripped of two silver medals in the 400 metres and 4x400 metres. ](/news/2010/10/15/2010-commonwealth-games-nigerian-athlete-folashade-abugan-tests-positive-for-testosterone-prohormone-and-is-stripped-of-two-silver-medals-i.md)
-_Context: 2010 Commonwealth Games, 400 metres and 4x400 metres, Folashade Abugan, Nigeria, testosterone prohormone_
-
-### [New England Sports Ventures, the owner of the Boston Red Sox, takes over as owners of English Premier League team Liverpool Football Club. ](/news/2010/10/15/new-england-sports-ventures-the-owner-of-the-boston-red-sox-takes-over-as-owners-of-english-premier-league-team-liverpool-football-club.md)
-_Context: Boston Red Sox, English Premier League, Liverpool F.C., New England Sports Ventures_
 
 ## [Previous Day...](/news/2010/10/14/index.md)
 

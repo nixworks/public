@@ -48,11 +48,5 @@ A giant asteroid will make a flyby of Earth over the next few days, and armchair
 ### [A British research team launches a long-awaited project to hunt for life in Lake Ellsworth hidden beneath the ice-sheet in Antarctica. ](/news/2012/12/12/a-british-research-team-launches-a-long-awaited-project-to-hunt-for-life-in-lake-ellsworth-hidden-beneath-the-ice-sheet-in-antarctica.md)
 A British research team in Antarctica has launched a long-awaited project to hunt for life in a lake hidden beneath the ice-sheet.
 
-### [In swimming, the 2012 FINA World Swimming Championships in a short course (25m) pool begins today in Turkey's Istanbul,  2012 European Capital of Sport. ](/news/2012/12/12/in-swimming-the-2012-fina-world-swimming-championships-in-a-short-course-25m-pool-begins-today-in-turkey-s-istanbul-2012-european-capit.md)
-_Context: 2012 European Capital of Sport, 2012 FINA World Swimming Championships (25 m), Istanbul, Turkey, short course, swimmer_
-
-### [Former Brazil manager Dunga is named as new coach of Internacional, returning to the club where he began and ended his career. ](/news/2012/12/12/former-brazil-manager-dunga-is-named-as-new-coach-of-internacional-returning-to-the-club-where-he-began-and-ended-his-career.md)
-Dunga appointed Internacional coach
-
 ## [Previous Day...](/news/2012/12/11/index.md)
 

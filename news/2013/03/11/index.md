@@ -16,7 +16,7 @@ _Context: Fitch Ratings, Italian, creditworthiness, stock_
 Five Americans from the Nato-led foreign forces in Afghanistan die in a helicopter crash blamed on a rainstorm, the US says.
 
 ### [An EA-6B Prowler military plane crashes about 50 miles west of Spokane, Washington, United States, and kills three American Navy crew members. ](/news/2013/03/11/an-ea-6b-prowler-military-plane-crashes-about-50-miles-west-of-spokane-washington-united-states-and-kills-three-american-navy-crew-member.md)
-_Context: American Navy, EA-6B Prowler, Spokane, U.S., Washington, crashes_
+_Context: American Navy, EA-6B Prowler, Spokane, United States, Washington, crashes_
 
 ### [Three minor earthquakes strike Southern California, United States. ](/news/2013/03/11/three-minor-earthquakes-strike-southern-california-united-states.md)
 Three earthquakes have shaken Southern California, according to the U.S. Geological Survey.
@@ -68,9 +68,6 @@ A pair of brown dwarfs has been spotted slightly more than six light years away.
 
 ### [A group of astrobiologists including Chandra Wickramasinghe say that algae-like structures inside a Polonnaruwa meteorite, that fell on December 29, 2012, in Sri Lanka, are clear evidence of panspermia, the idea that life exists throughout the Universe. ](/news/2013/03/11/a-group-of-astrobiologists-including-chandra-wickramasinghe-say-that-algae-like-structures-inside-a-polonnaruwa-meteorite-that-fell-on-dece.md)
 _Context: Chandra Wickramasinghe, December 29, Polonnaruwa meteorite, Sri Lanka, Universe, algae, astrobiologist, extraterrestrial, panspermia_
-
-### [English football club Reading fires coach Brian McDermott after a fourth successive loss in the 2012-13 Premier League. ](/news/2013/03/11/english-football-club-reading-fires-coach-brian-mcdermott-after-a-fourth-successive-loss-in-the-2012a13-premier-league.md)
-Reading have sacked manager Brian McDermott following a dismal run of results that has left them joint-bottom of the Premier League.
 
 ## [Previous Day...](/news/2013/03/10/index.md)
 

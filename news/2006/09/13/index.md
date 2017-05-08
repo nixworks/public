@@ -7,7 +7,7 @@ _Context: Dysnomia, Eris, Solar System, dwarf planet_
 _Context: Andrei Kozlov, Russia_
 
 ### [ Dawson College in Montreal is the scene of a shooting, with preliminary reports indicating at least two killed (one being the gunman) and 20 injured. ](/news/2006/09/13/dawson-college-in-montreal-is-the-scene-of-a-shooting-with-preliminary-reports-indicating-at-least-two-killed-one-being-the-gunman-and-2.md)
-_Context: Dawson College, city of Montreal, shooting_
+_Context: Dawson College, Montreal, shooting_
 
 ### [ Imam Zulqarnain Sakandar Madni, the spiritual leader of Norwegian Muslims, accuses the United States Government of masterminding the September 11 attacks and expresses doubt that Osama bin Laden exists, citing the online documentary ''Loose Change''. The U.S. embassy in Oslo issues a statement condemning Madni for "spreading false stories to protect terrorists." Mohammad Hamdan, leader of the Islamic Council in Norway, says Madni's views must be put into context and that it is not important "who is behind it, but how we can fight terrorism and live together in peace." ](/news/2006/09/13/imam-zulqarnain-sakandar-madni-the-spiritual-leader-of-norwegian-muslims-accuses-the-united-states-government-of-masterminding-the-septem.md)
 _Context: Islamic Council in Norway, Loose Change, Mohammad Hamdan, Muslim, Norway, Osama bin Laden, Oslo, September 11 attacks, United States government, Zulqarnain Sakandar Madni, documentary, imam_

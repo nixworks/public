@@ -15,14 +15,5 @@ _Context: Chief Justice, Mahinda Rajapaksa, President of Sri Lanka, Shirani Band
 ### [NASA announces new data effectively rules out a 2036 Earth impact for the near-Earth asteroid 99942 Apophis. ](/news/2013/01/13/nasa-announces-new-data-effectively-rules-out-a-2036-earth-impact-for-the-near-earth-asteroid-99942-apophis.md)
 NASA scientists at the agency&#039;s Jet Propulsion Laboratory in Pasadena, Calif., effectively have ruled out the possibility the asteroid Aphophis will impact Earth during a close flyby in 2036.
 
-### [In ice hockey, Ukrainian club HC Donbass wins the 2012-13 IIHF Continental Cup in Donetsk, Ukraine. ](/news/2013/01/13/in-ice-hockey-ukrainian-club-hc-donbass-wins-the-2012a13-iihf-continental-cup-in-donetsk-ukraine.md)
-_Context: 2012-13 IIHF Continental Cup, Donetsk, HC Donbass, Ukrainian, ice hockey_
-
-### [2013 Kontinental Hockey League All-Star Game is held at the Traktor Sport Palace in Chelyabinsk, Russia. ](/news/2013/01/13/2013-kontinental-hockey-league-all-star-game-is-held-at-the-traktor-sport-palace-in-chelyabinsk-russia.md)
-_Context: 2013, All-Star Game, Chelyabinsk, KHL, Russia, Traktor Sport Palace_
-
-### [In tennis, David Ferrer wins the 2013 Heineken Open for the third straight year and fourth time overall, beating Philipp Kohlschreiber in the final with a 7-6, 6-1 score in Auckland, New Zealand, as part of the 2013 ATP World Tour. ](/news/2013/01/13/in-tennis-david-ferrer-wins-the-2013-heineken-open-for-the-third-straight-year-and-fourth-time-overall-beating-philipp-kohlschreiber-in-th.md)
-Top seed David Ferrer beat second-seeded Philipp Kohlschreiber 7-6 (5), 6-1 on Saturday to win the Heineken Open title for the third straight year and fourth time overall.
-
 ## [Previous Day...](/news/2013/01/12/index.md)
 

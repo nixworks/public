@@ -15,14 +15,5 @@ President Obama names Chuck Hagel to head the Pentagon and terrorism adviser Joh
 ### [Scientists from the Harvard-Smithsonian Center for Astrophysics estimate that there are at least 17 billion planets approximately the size of Earth in the Milky Way. ](/news/2013/01/7/scientists-from-the-harvardasmithsonian-center-for-astrophysics-estimate-that-there-are-at-least-17-billion-planets-approximately-the-size.md)
 _Context: Earth, Harvard-Smithsonian Center for Astrophysics, Milky Way, planets_
 
-### [In association football, Lionel Messi of Argentina wins the 2012 FIFA Ballon d'Or as the best player for a third consecutive time. Abby Wambach of the United States wins the FIFA Women's World Player of the Year award, the first time in ten years that an American has won the award. ](/news/2013/01/7/in-association-football-lionel-messi-of-argentina-wins-the-2012-fifa-ballon-d-or-as-the-best-player-for-a-third-consecutive-time-abby-wamb.md)
-Lionel Messi added yet another record to his stellar list of achievements over the past 12 months on Monday when he won an unprecedented fourth consecutive Ballon d&#039;Or at a FIFA gala in Zurich.
-
-### [Three cities, Tokyo, Istanbul and Madrid, submit their official bid books to the International Olympic Committee as part of their efforts to secure the 2020 Summer Olympics and Paralympics for their cities. ](/news/2013/01/7/three-cities-tokyo-istanbul-and-madrid-submit-their-official-bid-books-to-the-international-olympic-committee-as-part-of-their-efforts-to.md)
-The International Olympic Committee was offered a choice between a 2020 Games in Asia, Europe or a combination of the two when delegations from Tokyo, Madrid and Istanbul submitted their official candidature files at the IOC&rsquo;s headquarters in Lausanne on Monday.
-
-### [In American football, the Alabama Crimson Tide defeats Notre Dame Fighting Irish to win the 2013 BCS National Championship Game. ](/news/2013/01/7/in-american-football-the-alabama-crimson-tide-defeats-notre-dame-fighting-irish-to-win-the-2013-bcs-national-championship-game.md)
-Get a recap of the Notre Dame Fighting Irish vs. Alabama Crimson Tide football game.
-
 ## [Previous Day...](/news/2013/01/6/index.md)
 

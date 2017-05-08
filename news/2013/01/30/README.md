@@ -16,7 +16,7 @@ _Context: BlackBerry, BlackBerry, BlackBerry 10, BlackBerry Z10, Canada, operati
 Tornadoes ripped through four states on Tuesday night and Wednesday, killing at least two people, as an Arctic cold front clashed with warm air to produce severe weather over a wide swath of the nation.
 
 ### [Three people are dead, including the shooter, one person is wounded after a shooting at an office building in Phoenix, Arizona, United States. ](/news/2013/01/30/three-people-are-dead-including-the-shooter-one-person-is-wounded-after-a-shooting-at-an-office-building-in-phoenix-arizona-united-state.md)
-_Context: Arizona, Phoenix, Arizona, U.S., office building, shooting_
+_Context: Arizona, Phoenix, Arizona, United States, office building, shooting_
 
 ### [A gunman kills a school bus driver and holds a 6-year-old boy hostage in an underground bunker in Midland City, Alabama, United States. ](/news/2013/01/30/a-gunman-kills-a-school-bus-driver-and-holds-a-6-year-old-boy-hostage-in-an-underground-bunker-in-midland-city-alabama-united-states.md)
 Authorities say a man shot the driver, grabbed a 5-year-old passenger and ran, holding him hostage overnight in an underground bunker.
@@ -35,15 +35,6 @@ _Context: Scottish Government, independence referendum_
 
 ### [South Korea launches its first civilian rocket called Naro-1 carrying a scientific satellite STSAT-2C amidst tension with North Korea. ](/news/2013/01/30/south-korea-launches-its-first-civilian-rocket-called-naro-1-carrying-a-scientific-satellite-stsat-2c-amidst-tension-with-north-korea.md)
 South Korea says its third attempt at putting a satellite into space has been a success, weeks after a similar move by North Korea.
-
-### [El Clasico: Real Madrid and Barcelona play a 1-1 draw in the first leg of their 2012-13 Copa del Rey semifinal at Santiago Bernabeu Stadium. Lionel Messi's streak of scoring in 16 straight matches ends. ](/news/2013/01/30/el-cla-sico-real-madrid-and-barcelona-play-a-1a1-draw-in-the-first-leg-of-their-2012a13-copa-del-rey-semifinal-at-santiago-bernabeu-sta.md)
-Real Madrid come from behind to draw the first leg of their Copa del Rey semi-final with arch-rivals Barcelona at the Bernabeu.
-
-### [Former Executive Director of the NHLPA Paul Kelly reveals that the NHL wants to expand the league to 32 teams in the next 2-3 years, most likely to Quebec City and Toronto. ](/news/2013/01/30/former-executive-director-of-the-nhlpa-paul-kelly-reveals-that-the-nhl-wants-to-expand-the-league-to-32-teams-in-the-next-2a3-years-most.md)
-_Context: Executive Director, NHL, National Hockey League Players' Association, Paul Kelly, Quebec City, Toronto, expand the league_
-
-### [Spanish football club Granada fires Juan Antonio Anquela and replaces him with Lucas Alcaraz after a poor run in the 2012-13 La Liga. ](/news/2013/01/30/spanish-football-club-granada-fires-juan-antonio-anquela-and-replaces-him-with-lucas-alcaraz-after-a-poor-run-in-the-2012a13-la-liga.md)
-Spanish strugglers Granada CF have sacked coach Juan Antonio Anquela, with Lucas Alcaraz arriving from Greece to take over at the club where he began his coaching career.
 
 ## [Previous Day...](/news/2013/01/29/index.md)
 

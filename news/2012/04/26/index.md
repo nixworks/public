@@ -13,7 +13,7 @@ Suicide bomber explodes car bomb outside office in capital; Separate attack targ
 _Context: Afghanistan, U.S. military personnel_
 
 ### [Indonesia suspends imports of beef from the United States after a dairy cow with mad cow disease is discovered in California. ](/news/2012/04/26/indonesia-suspends-imports-of-beef-from-the-united-states-after-a-dairy-cow-with-mad-cow-disease-is-discovered-in-california.md)
-_Context: California, Indonesia, U.S., mad cow disease_
+_Context: California, Indonesia, United States, mad cow disease_
 
 ### [The Argentine Senate passes with an overwhelming majority a bill submitted by president Cristina Fernandez de Kirchner to nationalise 51% of YPF. ](/news/2012/04/26/the-argentine-senate-passes-with-an-overwhelming-majority-a-bill-submitted-by-president-cristina-ferna-ndez-de-kirchner-to-nationalise-51-o.md)
 * Polls show most Argentines favor the expropriation * Spain, in reprisal, halts imports of Argentine biodiesel (Recasts, adds context, bac
@@ -41,9 +41,6 @@ Bo Xilai was toppled amid accusations that his wife arranged the killing of a Br
 
 ### [In a second day of evidence, Rupert Murdoch tells the Leveson Inquiry there was a "cover-up" at the ''News of the World'', but that it was kept hidden from him. ](/news/2012/04/26/in-a-second-day-of-evidence-rupert-murdoch-tells-the-leveson-inquiry-there-was-a-cover-up-at-the-news-of-the-world-but-that-it-was-k.md)
 Rupert Murdoch tells the Leveson Inquiry into media ethics there was a &quot;cover-up&quot; at the News of the World but that it was kept hidden from him.
-
-### [In American football, the National Football League draft commences in New York City's Radio City Music Hall, with quarterbacks Andrew Luck and Robert Griffin III the first two players chosen. ](/news/2012/04/26/in-american-football-the-national-football-league-draft-commences-in-new-york-city-s-radio-city-music-hall-with-quarterbacks-andrew-luck-a.md)
-Minute-by-minute analysis from the first round of the 2012 NFL Draft in Radio City Music Hall. The Colts took Andrew Luck with the top pick, and the Redskins went with Robert Griffin III. 
 
 ## [Previous Day...](/news/2012/04/25/index.md)
 

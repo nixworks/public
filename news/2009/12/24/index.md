@@ -43,7 +43,7 @@ The United States has followed the Economic Community of West African States (Ec
 _Context: Archbishop of York, John Sentamu, Uganda, bill into law, homosexuality_
 
 ### [ The United States Senate passes a health-care bill expected to extend insurance coverage to 30 million additional Americans, in a party-line vote, 60-39. ](/news/2009/12/24/the-united-states-senate-passes-a-health-care-bill-expected-to-extend-insurance-coverage-to-30-million-additional-americans-in-a-party-lin.md)
-_Context: health care reform, senators_
+_Context: United States senators, health care reform_
 
 ### [ An Israeli man is shot dead  by Palestinian gunmen in the northern West Bank. ](/news/2009/12/24/an-israeli-man-is-shot-dead-by-palestinian-gunmen-in-the-northern-west-bank.md)
 _Context: Israel, Palestinian terrorist, West Bank_
@@ -61,7 +61,7 @@ _Context: Hellenic Parliament_
 A Sri Lankan asylum seeker who spent the past 11 weeks refusing to leave his boat in Indonesia, has died after allegedly being denied medical help.
 
 ### [ Hewlett-Packard admits face detection software on its laptops has trouble detecting dark-skinned faces, leading to casual claims of racism by some. ](/news/2009/12/24/hewlett-packard-admits-face-detection-software-on-its-laptops-has-trouble-detecting-dark-skinned-faces-leading-to-casual-claims-of-racism.md)
-_Context: Hewlett-Packard, dark-skinned, face detection, laptop, racist, software_
+_Context: Hewlett-Packard, dark-skinned, face detection, laptop, racial bias, software_
 
 ## [Previous Day...](/news/2009/12/23/index.md)
 

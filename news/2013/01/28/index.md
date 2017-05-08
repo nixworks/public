@@ -33,11 +33,5 @@ Queen Beatrix of the Netherlands announces she is abdicating, and will hand the 
 ### [Iran's state news agency announces that a monkey was sent successfully into space by the Iranian Space Agency and returned safely aboard the Pishgam rocket. ](/news/2013/01/28/iran-s-state-news-agency-announces-that-a-monkey-was-sent-successfully-into-space-by-the-iranian-space-agency-and-returned-safely-aboard-the.md)
 Saying the animal returned successfully, state TV calls mission another step towards goal of a manned space flight.
 
-### [Ivorian footballer Didier Drogba is signed for Turkish champions Galatasaray on an 18-month deal from Chinese club Shanghai Shenhua. ](/news/2013/01/28/ivorian-footballer-didier-drogba-is-signed-for-turkish-champions-galatasaray-on-an-18-month-deal-from-chinese-club-shanghai-shenhua.md)
-Galatasaray says it has reached a deal to sign former Chelsea forward Didier Drogba, a deal that follows last week&#39;s acquisition of Wesley Sneijder from Inter Milan.
-
-### [In boxing, WBO Super bantamweight titleholder Nonito Donaire is named as 2012 Sugar Ray Robinson Fighter of the Year by the Boxing Writers Association of America. ](/news/2013/01/28/in-boxing-wbo-super-bantamweight-titleholder-nonito-donaire-is-named-as-2012-sugar-ray-robinson-fighter-of-the-year-by-the-boxing-writers-a.md)
-Junior featherweight titleholder Nonito Donaire, who had a dominant 2012 campaign, was voted Sugar Ray Robinson Fighter of the Year in balloting results announced on Sunday by the Boxing Writers Association of America.
-
 ## [Previous Day...](/news/2013/01/27/index.md)
 

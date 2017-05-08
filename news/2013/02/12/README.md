@@ -10,7 +10,7 @@ Two University of Maryland students died early on Tuesday in an apparent murder-
 The man accused of killing two police officers in a gun and grenade attack now admits their killings.
 
 ### [2013 Southern California shootings: Christopher Dorner kills a sheriff's deputy and injures another in the Big Bear Lake, California, United States. He then barricades himself in a cabin, which catches on fire during a police assault. The suspect was killed in the fire. ](/news/2013/02/12/2013-southern-california-shootings-christopher-dorner-kills-a-sheriff-s-deputy-and-injures-another-in-the-big-bear-lake-california-united.md)
-_Context: 2013 Southern California shootings, Big Bear Lake, California, Christopher Dorner, U.S._
+_Context: 2013 Southern California shootings, Big Bear Lake, California, Christopher Dorner, United States_
 
 ### [Three people are dead and 11 are wounded in a stabbing attack on the U.S. territory island of Guam. ](/news/2013/02/12/three-people-are-dead-and-11-are-wounded-in-a-stabbing-attack-on-the-u-s-territory-island-of-guam.md)
 _Context: Guam, U.S. territory, stabbed_
@@ -23,12 +23,6 @@ _Context: Britain's Court of Appeal, British_
 
 ### [Prince Sattam bin Abdulaziz Al Saud, a member of the House of Saud and the governor of the Riyadh Province, dies at the age of 72 in Riyadh. ](/news/2013/02/12/prince-sattam-bin-abdulaziz-al-saud-a-member-of-the-house-of-saud-and-the-governor-of-the-riyadh-province-dies-at-the-age-of-72-in-riyadh.md)
 _Context: Riyadh, Riyadh Province, Sattam bin Abdulaziz Al Saud, Saudi Royal Family_
-
-### [The International Olympic Committee drops wrestling from the 2020 Summer Olympics. ](/news/2013/02/12/the-international-olympic-committee-drops-wrestling-from-the-2020-summer-olympics.md)
-Wrestling is dropped from the 2020 Olympic Games after the IOC decides to make space for a new sport.
-
-### [Juan Ramn Lpez Caro is named the new coach of Saudi Arabia's national football team, replacing Frank Rijkaard. ](/news/2013/02/12/juan-ramon-lopez-caro-is-named-the-new-coach-of-saudi-arabia-s-national-football-team-replacing-frank-rijkaard.md)
-_Context: Frank Rijkaard, Juan Ramn Lpez Caro, Saudi Arabia, Saudi Arabia_
 
 ## [Previous Day...](/news/2013/02/11/index.md)
 

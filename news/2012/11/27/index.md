@@ -33,8 +33,5 @@ Tens of thousands of Egyptians take part in a rally in Cairo against President M
 ### [A Hungarian MP from the far right Jobbik party calls for a list of Jewish politicians and government employees who are a "threat to national security". The Hungarian Government later released a statement condemning the comments. ](/news/2012/11/27/a-hungarian-mp-from-the-far-right-jobbik-party-calls-for-a-list-of-jewish-politicians-and-government-employees-who-are-a-threat-to-national.md)
 The Hungarian government condemns comments by a leading nationalist MP, who said officials of Jewish origin might be a &quot;national security risk&quot;.
 
-### [UEFA President Michel Platini announces that the administrative body is considering scrapping the Europa League in favour of an extended Champions League. A proposal may involve extending the final phase of the Champions League from 32 to 64 teams from 2015, with the final decision to be made in 2014. ](/news/2012/11/27/uefa-president-michel-platini-announces-that-the-administrative-body-is-considering-scrapping-the-europa-league-in-favour-of-an-extended-cha.md)
-_Context: Europa League, Michel Platini, President of UEFA, UEFA, UEFA Champions League_
-
 ## [Previous Day...](/news/2012/11/26/index.md)
 

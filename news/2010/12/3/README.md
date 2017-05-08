@@ -60,8 +60,5 @@ Former Labour MP Phil Woolas admits defeat in his battle to overturn a court rul
 ### [The Boeing X-37B, a United States Air Force unmanned spaceplane, lands autonomously at Vandenberg Air Force Base, California, at 1:16am PST (0916 UTC) after 7 1/2 months in space. ](/news/2010/12/3/the-boeing-x-37b-a-united-states-air-force-unmanned-spaceplane-lands-autonomously-at-vandenberg-air-force-base-california-at-1-16am-pst.md)
 The United States Air Force&#039;s mysterious X-37B robot space plan returned to Earth with a successful landing at Vandenberg Air Force Base in California.
 
-### [There are mass celebrations on the streets of Doha, Qatar, following FIFA's announcement that the country of 1,696,563 people is to present the 2022 FIFA World Cup. ](/news/2010/12/3/there-are-mass-celebrations-on-the-streets-of-doha-qatar-following-fifa-s-announcement-that-the-country-of-1-696-563-people-is-to-present.md)
-Frenzied celebrations erupt across tiny Gulf nation after it wins bid to host 2022 football World Cup.
-
 ## [Previous Day...](/news/2010/12/2/index.md)
 

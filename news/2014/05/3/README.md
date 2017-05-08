@@ -24,8 +24,5 @@ Get the latest breaking news across the U.S. on ABCNews.com
 ### [Murder of Jean McConville and Arrest of Gerry Adams:A mural of Sinn Fein Leader Gerry Adams is painted on a wall on the Falls Road, Belfast, as police are granted a further 48 hours to question him about the murder of Jean McConville. ](/news/2014/05/3/murder-of-jean-mcconville-and-arrest-of-gerry-adams-pa-mural-of-sinn-fein-leader-gerry-adams-is-painted-on-a-wall-on-the-falls-road-belfast.md)
 A source close to Gerry Adams tells the BBC the Sinn Fein leader is being questioned for up to 17 hours a day by detectives investigating the murder of Jean McConville.
 
-### [In American horse racing, California Chrome ridden by Victor Espinoza wins the 2014 Kentucky Derby. ](/news/2014/05/3/in-american-horse-racing-california-chrome-ridden-by-victor-espinoza-wins-the-2014-kentucky-derby.md)
-The most exciting two minutes in sports is now complete with the 140th running of the Kentucky Derby, and in the end, California Chrome was too much for th...
-
 ## [Previous Day...](/news/2014/05/2/index.md)
 

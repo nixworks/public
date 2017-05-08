@@ -54,8 +54,5 @@ _Context: BBC Radio 4, Orwell Day, Politics and the English Language, en masse_
 ### [NASA's Kepler space telescope is placed in a precautionary 10-day safe mode after engineers noticed a problem with the instrument's orientation mechanism. ](/news/2013/01/21/nasa-s-kepler-space-telescope-is-placed-in-a-precautionary-10-day-safe-mode-after-engineers-noticed-a-problem-with-the-instrument-s-orientat.md)
 NASA&#039;s prolific planet-hunting Kepler Space Telescope has been placed in a precautionary &quot;safe mode&quot; after engineers noticed a problem with the instrument&#039;s orientation mechanism.
 
-### [Sampdoria President Riccardo Garrone dies at the age of 76 after a long illness. ](/news/2013/01/21/sampdoria-president-riccardo-garrone-dies-at-the-age-of-76-after-a-long-illness.md)
-_Context: Riccardo Garrone, Sampdoria_
-
 ## [Previous Day...](/news/2013/01/20/index.md)
 

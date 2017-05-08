@@ -4,7 +4,7 @@
 Police in Venezuela search for a soldier who shot dead two officers and wounded six soldiers at a military base in the capital, Caracas.
 
 ### [The Philippines and the United States hold a joint exercise of their forces. ](/news/2010/08/22/the-philippines-and-the-united-states-hold-a-joint-exercise-of-their-forces.md)
-_Context: Philippine, U.S._
+_Context: Philippine, United States_
 
 ### [Brazilian police rescue 35 hostages from InterContinental in So Conrado, Rio de Janeiro. ](/news/2010/08/22/brazilian-police-rescue-35-hostages-from-intercontinental-in-sao-conrado-rio-de-janeiro.md)
 _Context: Brazil, InterContinental, Rio de Janeiro, So Conrado_
@@ -31,7 +31,7 @@ About 150,000 people leave their homes in Sindh as flood defences are threatened
 Thirty-three&#x20;Chilean&#x20;miners&#x20;trapped&#x20;more&#x20;than&#x20;two&#x20;weeks&#x20;underground&#x20;sent&#x20;up&#x20;a&#x20;message&#x20;tied&#x20;to&#x20;a&#x20;drill&#x20;that&#x20;said&#x20;they&#x20;were&#x20;all&#x20;alive.&#x20;President&#x20;Pinera&#x20;said&#x20;he&#x20;was&#x20;hopeful&#x20;of&#x20;a&#x20;&quot;happy&#x20;ending&quot;,&#x20;even&#x20;though&#x20;it&#x20;would&#x20;take&#x20;months&#x20;to&#x20;get&#x20;them&#x20;out.
 
 ### [A Bolivian-flagged all-female international aid ship bound for Gaza is delayed as Cyprus bans it from passing, with Israel's Ehud Barak calling on France and the United States to prevent it from sailing because, he says, it is "a needless provocation". ](/news/2010/08/22/a-bolivian-flagged-all-female-international-aid-ship-bound-for-gaza-is-delayed-as-cyprus-bans-it-from-passing-with-israel-s-ehud-barak-call.md)
-_Context: Bolivia, Cyprus, Ehud Barak, France, Gaza Strip, Israel, U.S._
+_Context: Bolivia, Cyprus, Ehud Barak, France, Gaza Strip, Israel, United States_
 
 ### [Iran unveils a long range unmanned bomber, the Karrar drone their latest addition in a number of recently disclosed military hardware. ](/news/2010/08/22/iran-unveils-a-long-range-unmanned-bomber-the-karrar-drone-their-latest-addition-in-a-number-of-recently-disclosed-military-hardware.md)
 _Context: Iran, drone aircraft_
@@ -59,15 +59,6 @@ Australian Prime Minister Julia Gillard contacts independent candidates as she b
 
 ### [United States authorities give the green light to human trials of an Ebola drug said to have worked during tests on monkeys. ](/news/2010/08/22/united-states-authorities-give-the-green-light-to-human-trials-of-an-ebola-drug-said-to-have-worked-during-tests-on-monkeys.md)
 A treatment for the Ebola virus could be nearer after US authorities approve human trials of a drug proven to be effective in monkeys.
-
-### [Kenyan runner David Lekuta Rudisha breaks a 13-year-old world record in the 800 metres at the ISTAF IAAF World Challenge meeting in Berlin, overshadowing Caster Semenya's return to the venue of her triumph. ](/news/2010/08/22/kenyan-runner-david-lekuta-rudisha-breaks-a-13-year-old-world-record-in-the-800-metres-at-the-istaf-iaaf-world-challenge-meeting-in-berlin.md)
-Kenya&#039;s David Rudisha became the fastest 800 metres runner in history at Berlin&rsquo;s ISATF meeting on Sunday with a stunning world record of 1min 41.09sec before predicting that he could go even faster.
-
-### [Brazil wins the 2010 World Blind Football Championship after beating Spain 2-0 in the final. ](/news/2010/08/22/brazil-wins-the-2010-world-blind-football-championship-after-beating-spain-2-0-in-the-final.md)
-England finished fourth after losing to China in the play-off for third place. 
-
-### [The All Blacks win the 2010 Tri Nations Series 29-22 in a final minute try against the Springboks. ](/news/2010/08/22/the-all-blacks-win-the-2010-tri-nations-series-29-22-in-a-final-minute-try-against-the-springboks.md)
-_Context: 2010 Tri Nations Series, New Zealand, South Africa_
 
 ## [Previous Day...](/news/2010/08/21/index.md)
 

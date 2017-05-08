@@ -48,14 +48,5 @@ _Context: Bashar Assad's, Government of Syria, Senator_
 ### [New Jersey Governor Chris Christie vetoes a bill that would legalize same-sex marriage in the state. ](/news/2012/02/17/new-jersey-governor-chris-christie-vetoes-a-bill-that-would-legalize-same-sex-marriage-in-the-state.md)
 _Context: Chris Christie, New Jersey, same-sex marriage_
 
-### [Leeds Rhinos became rugby league World Club Champions for the third time by beating Manly in the World Club Challenge.](/news/2012/02/17/leeds-rhinos-became-rugby-league-world-club-champions-for-the-third-time-by-beating-manly-in-the-world-club-challenge.md)
-_Context: Leeds Rhinos, Manly, World Club Challenge, rugby league_
-
-### [English footballer Ravel Morrison is charged by The Football Association in connection with homophobic remarks he made on Twitter. ](/news/2012/02/17/english-footballer-ravel-morrison-is-charged-by-the-football-association-in-connection-with-homophobic-remarks-he-made-on-twitter.md)
-West Ham midfielder Ravel Morrison is fined £7,000 by the Football Association and warned as to his future conduct following comments made on Twitter.
-
-### [Manchester City lodge an official complaint to UEFA after their players were targeted by racial abuse during Thursday's Europa League game at defending champions Porto. Ivorian footballer Yaya Toure, one of those targeted, tells Sky Sports News: "That's why we like the Premier League, it never happens there." ](/news/2012/02/17/manchester-city-lodge-an-official-complaint-to-uefa-after-their-players-were-targeted-by-racial-abuse-during-thursday-s-europa-league-game-a.md)
-Uefa opens disciplinary proceedings against Porto after Manchester City complain about alleged racial abuse suffered by some of their players in Portugal.
-
 ## [Previous Day...](/news/2012/02/16/index.md)
 

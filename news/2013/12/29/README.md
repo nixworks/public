@@ -24,8 +24,5 @@ Thousands of people in eastern El Salvador are leaving their homes as the Chapar
 ### [Saudi Arabia pledges US$3 billion to Lebanon to help strengthen their military. ](/news/2013/12/29/saudi-arabia-pledges-us-3-billion-to-lebanon-to-help-strengthen-their-military.md)
 _Context: Lebanon, Saudi Arabia, military_
 
-### [Seven-time Formula One drivers' champion Michael Schumacher is reported to be in critical condition after brain surgery in Grenoble for a head injury suffered while skiing in the French Alps. ](/news/2013/12/29/seven-time-formula-one-drivers-champion-michael-schumacher-is-reported-to-be-in-critical-condition-after-brain-surgery-in-grenoble-for-a-he.md)
-Seven-time Formula One champion Michael Schumacher was in critical condition after undergoing brain surgery following a skiing accident in the French Alps on Sunday, doctors said.
-
 ## [Previous Day...](/news/2013/12/28/index.md)
 

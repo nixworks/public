@@ -39,14 +39,5 @@ _Context: Goodluck Jonathan, President of Nigeria, presidential election_
 ### [The Supreme Leader of Iran Ayatollah Ali Khamenei refuses to accept the resignation of Intelligence Chief Heyder Moslehi. ](/news/2011/04/17/the-supreme-leader-of-iran-ayatollah-ali-khamenei-refuses-to-accept-the-resignation-of-intelligence-chief-heyder-moslehi.md)
 _Context: Ali Khamenei, Ayatollah, Heyder Moslehi, Supreme Leader of Iran_
 
-### [The 17th edition of the CAF African Youth Championship begins in South Africa. ](/news/2011/04/17/the-17th-edition-of-the-caf-african-youth-championship-begins-in-south-africa.md)
-_Context: 17th edition, African Youth Championship, CAF, South Africa_
-
-### [Lewis Hamilton of McLaren wins the 2011 Chinese Grand Prix. ](/news/2011/04/17/lewis-hamilton-of-mclaren-wins-the-2011-chinese-grand-prix.md)
-_Context: 2011 Chinese Grand Prix, Lewis Hamilton, McLaren_
-
-### [Emmanuel Mutai wins the London Marathon, setting a new course record. ](/news/2011/04/17/emmanuel-mutai-wins-the-london-marathon-setting-a-new-course-record.md)
-Thousands of runners join top athletes for a record-breaking London marathon, won by Kenyans Emmanuel Mutai and Mary Keitany.
-
 ## [Previous Day...](/news/2011/04/16/index.md)
 

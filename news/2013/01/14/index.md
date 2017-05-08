@@ -18,11 +18,5 @@ Troubled music and DVD retailer HMV, which began trading in 1921, announces it i
 ### [Former U.S. President George H. W. Bush is released from The Methodist Hospital in Houston, Texas, after more than seven weeks of treatment for bronchitis. ](/news/2013/01/14/former-u-s-president-george-h-w-bush-is-released-from-the-methodist-hospital-in-houston-texas-after-more-than-seven-weeks-of-treatment.md)
 Former U.S. President George H.W. Bush was released from a Houston hospital on Monday after more than seven weeks of treatment for bronchitis and related ailments, according to a statement issued by a family spokesman.
 
-### [Spanish football club Sevilla fires coach Michel due to a poor run in the 2012-13 La Liga season and replaces him with Unai Emery. ](/news/2013/01/14/spanish-football-club-sevilla-fires-coach-machel-due-to-a-poor-run-in-the-2012a13-la-liga-season-and-replaces-him-with-unai-emery.md)
-Sevilla have appointed former Spartak Moscow and Valencia boss Unai Emery as their new coach after sacking Michel earlier on Monday
-
-### [In tennis, 2013 Australian Open begins today in Melbourne Park in Melbourne, Australia. ](/news/2013/01/14/in-tennis-2013-australian-open-begins-today-in-melbourne-park-in-melbourne-australia.md)
-World number two Murray cagey as first grand slam of the year commences.
-
 ## [Previous Day...](/news/2013/01/13/index.md)
 

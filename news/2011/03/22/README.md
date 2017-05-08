@@ -28,7 +28,7 @@ Sony said on Tuesday shortages of parts and materials would force it to reduce o
 _Context: Chinese, Chinese Foreign Ministry spokesperson, Gmail, Google_
 
 ### [Germany's Federal Court of Justice rules that Deutsche Bank must compensate a customer, Ille Papier Service, for selling it an interest rate swap product without adequate disclosures. ](/news/2011/03/22/germany-s-federal-court-of-justice-rules-that-deutsche-bank-must-compensate-a-customer-ille-papier-service-for-selling-it-an-interest-rate.md)
-_Context: Deutsche Bank, Federal Court of Justice, Germany, Ille Papier Service, interest rate swap_
+_Context: Deutsche Bank, Federal Court of Justice, German, Ille Papier Service, interest rate swap_
 
 ### [The Mozilla Foundation releases Firefox 4. ](/news/2011/03/22/the-mozilla-foundation-releases-firefox-4.md)
 _Context: Firefox 4, Mozilla Foundation_
@@ -73,7 +73,7 @@ _Context: Dennis Daugaard, South Dakota Governor, abortion, counselling_
 _Context: Canadian House of Commons, election_
 
 ### [Bob Buckhorn is elected as the mayor of the US city of Tampa, Florida. ](/news/2011/03/22/bob-buckhorn-is-elected-as-the-mayor-of-the-us-city-of-tampa-florida.md)
-_Context: Bob Buckhorn, FL, Tampa, mayor_
+_Context: Bob Buckhorn, Florida, Tampa, mayor_
 
 ### [Sly James is elected as the Mayor of the US city of Kansas City, Missouri. ](/news/2011/03/22/sly-james-is-elected-as-the-mayor-of-the-us-city-of-kansas-city-missouri.md)
 _Context: Kansas City, Mayor, Sly James_

@@ -37,10 +37,10 @@ Heavy rains are forecast this week, potentially worsening floods which have kill
 Two people have died and another is in a critical condition after a plane carrying a medical team to a transplant crashed in Romania&#8217;s Apuseni mountains. Seven passengers were on board the Britten Norman 2 light aircraft, which crashed landed in remote terrain on Monday evening (January 20) while was flying to Oradea to harvest
 
 ### [The United States rejects the invitation of Iran by the United Nations in peace talks involving Syria. ](/news/2014/01/20/the-united-states-rejects-the-invitation-of-iran-by-the-united-nations-in-peace-talks-involving-syria.md)
-_Context: Iran, Syria, U.S., United Nations_
+_Context: Iran, Syria, United Nations, United States_
 
 ### [Certain sanctions against Iran are lifted by the European Union and the United States through a nuclear deal. ](/news/2014/01/20/certain-sanctions-against-iran-are-lifted-by-the-european-union-and-the-united-states-through-a-nuclear-deal.md)
-_Context: European Union, Iran, U.S._
+_Context: European Union, Iran, United States_
 
 ### [Mike Rogers accuses Edward Snowden of collaborating with Russia. ](/news/2014/01/20/mike-rogers-accuses-edward-snowden-of-collaborating-with-russia.md)
 Several senior US lawmakers allege that intelligence leaker Edward Snowden may have been working with a foreign power, possibly Russia.
@@ -77,12 +77,6 @@ European Space Agency controllers wait for a signal from the Rosetta probe that 
 
 ### [Dolphin hunting in the Japanese town of Taiji is criticized by US Ambassador to Japan Caroline Kennedy after protests by environmental groups. ](/news/2014/01/20/dolphin-hunting-in-the-japanese-town-of-taiji-is-criticized-by-us-ambassador-to-japan-caroline-kennedy-after-protests-by-environmental-group.md)
 With the start of the dolphin-hunt season in the town of Taiji in Japan, a lot of conservationists have expressed concern over the activity, calling it a “brutal practice”. US Ambassador to Japan C…
-
-### [Jerome Champagne, a former French diplomat and advisor to multiple football federations, announces his candidacy to become FIFA President in 2015. ](/news/2014/01/20/ja-c-ra-me-champagne-a-former-french-diplomat-and-advisor-to-multiple-football-federations-announces-his-candidacy-to-become-fifa-president.md)
-Jérôme Champagne, a former close advisor of the Fifa president Sepp Blatter, has announced that he is to stand for the presidency of the world governing body
-
-### [The Hong Kong Football Association is fined for not preventing an alleged racist incident against fans of the Philippine national football team in 2013. ](/news/2014/01/20/the-hong-kong-football-association-is-fined-for-not-preventing-an-alleged-racist-incident-against-fans-of-the-philippine-national-football-t.md)
-_Context: Hong Kong Football Association, Philippine national football team, racist_
 
 ## [Previous Day...](/news/2014/01/19/index.md)
 

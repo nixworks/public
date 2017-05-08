@@ -37,7 +37,7 @@ Thai police have arrested a man convicted of involvement in a bomb attack in Ind
 The Safeway supermarket chain has been ordered to pay nearly $10 million for illegally dumping batteries, electronics and pharmaceuticals in California landfills.
 
 ### [A man claiming to be the Lord's Resistance Army top commander Ugandan Dominic Ongwen turns himself in to United States forces in the Central African Republic. ](/news/2015/01/6/a-man-claiming-to-be-the-lord-s-resistance-army-top-commander-ugandan-dominic-ongwen-turns-himself-in-to-united-states-forces-in-the-central.md)
-_Context: Central-African, Dominic Ongwen, Lord's Resistance Army, U.S., Ugandan_
+_Context: Central-African, Dominic Ongwen, Lord's Resistance Army, Ugandan, United States_
 
 ### [A U.S. District Judge sentences former Virginia Governor Bob McDonnell to two years in prison for corruption. ](/news/2015/01/6/a-u-s-district-judge-sentences-former-virginia-governor-bob-mcdonnell-to-two-years-in-prison-for-corruption.md)
 Former Virginia Gov. Bob McDonnell was sentenced Tuesday to two years in federal prison for taking bribes to promote a dietary supplement.
@@ -56,9 +56,6 @@ House Speaker John Boehner, R-Ohio, faces a test of support on the first day of 
 
 ### [NASA's Kepler space observatory announces the discovery of three new planets in the Goldilocks zone capable of supporting life. ](/news/2015/01/6/nasa-s-kepler-space-observatory-announces-the-discovery-of-three-new-planets-in-the-goldilocks-zone-capable-of-supporting-life.md)
 THREE new planets, roughly the size of Earth, have been found in the ‘not too hot, not too cold — just right’ zone around their stars, significantly boosting the numbers of potentially habitable worlds.
-
-### [A proposal to change the demolition of Candlestick Park in San Francisco, California from a gradual process to implosion has been met with opposition from the city's residents, citing health risks from the dispersal of concrete dust. ](/news/2015/01/6/a-proposal-to-change-the-demolition-of-candlestick-park-in-san-francisco-california-from-a-gradual-process-to-implosion-has-been-met-with-o.md)
-The Lennar Corporation asking for an implosion permit for Candlestick Park, but many Bayview residents are opposed to that takedown method so close to their homes.
 
 ## [Previous Day...](/news/2015/01/5/index.md)
 

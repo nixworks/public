@@ -69,14 +69,5 @@ The former president of Argentina, Nestor Kirchner, has surgery to clear a block
 ### [Taxpayer March on Washington (also known as the 9/12 Tea Party) takes place in Washington, D. C. According to various estimates ranging from 60,000 to more than 1 million people march from Freedom Plaza to the United States Capitol. The event coincided with other similar protests organized in various cities across the nation.The protesters rallied against what they consider big government, the dismantling of free market capitalism, abortion, and President Barack Obama's proposals on health care reform, taxation, and federal spending, among other issues. ](/news/2010/09/12/taxpayer-march-on-washington-also-known-as-the-9-12-tea-party-takes-place-in-washington-d-c-according-to-various-estimates-ranging-from.md)
 A sea of angry taxpayers marched on the Capitol on Saturday afternoon. That much is certain. But even before the march was over, the news media, bloggers and rally supporters were wrangling over the...
 
-### [Albanians jeer Serbs following a Serbian defeat in an international basketball game leading to clashes in Mitrovica. ](/news/2010/09/12/albanians-jeer-serbs-following-a-serbian-defeat-in-an-international-basketball-game-leading-to-clashes-in-mitrovica.md)
-Mobs of Albanian and Serb youths clash in Kosovo following the defeat of Serbia by Turkey in a basketball championship game.
-
-### [In basketball, the United States defeats Turkey 81-64 in the 2010 FIBA World Championship Final to win the 2010 FIBA World Championship. ](/news/2010/09/12/in-basketball-the-united-states-defeats-turkey-81-64-in-the-2010-fiba-world-championship-final-to-win-the-2010-fiba-world-championship.md)
-Kevin Durant went 7-of-13 from three-point range, on the way to a 28-point night and an 81-64 United States victory over Turkey in the gold medal game at the 2010 FIBA World Championship.
-
-### [The men's singles final and women's doubles finals for the 2010 US Open tennis final are postponed until Monday due to rain. ](/news/2010/09/12/the-men-s-singles-final-and-women-s-doubles-finals-for-the-2010-us-open-tennis-final-are-postponed-until-monday-due-to-rain.md)
-_Context: 2010 US Open, tennis_
-
 ## [Previous Day...](/news/2010/09/11/index.md)
 

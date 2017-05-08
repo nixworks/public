@@ -16,7 +16,7 @@ State media says unnamed American man detained after trespassing on border with 
 The death toll from a collapsed apartment block in eastern Belgium has risen to nine, but rescue efforts have been suspended because of fears that more buildings could fall down, Belgian media reported on Thursday.
 
 ### [Three players are dismissed during the semi-final football match between rivals Algeria and Egypt in the 2010 Africa Cup of Nations, months following their previous meeting which led to international violence and diplomatic skirmishes. ](/news/2010/01/28/three-players-are-dismissed-during-the-semi-final-football-match-between-rivals-algeria-and-egypt-in-the-2010-africa-cup-of-nations-months.md)
-_Context: 2010 Africa Cup of Nations, Algeria, Egypt national football team, association football_
+_Context: 2010 Africa Cup of Nations, Algeria, Egypt, association football_
 
 ### [Colombia makes a formal diplomatic protest to Venezuela over the latter's alleged violation of Colombian airspace by a military helicopter. ](/news/2010/01/28/colombia-makes-a-formal-diplomatic-protest-to-venezuela-over-the-latter-s-alleged-violation-of-colombian-airspace-by-a-military-helicopter.md)
 _Context: Colombia, Venezuela_

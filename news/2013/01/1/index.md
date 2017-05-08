@@ -51,14 +51,5 @@ _Context: Kim Jong-un, Korea, New Year, North Korea, reunified_
 ### [Prince William, Duke of Cambridge, as part of his military duties, pilots a Royal Air Force (RAF) Sea King helicopter which was sent out in the early morning hours to an as of yet unsuccessful search for a Blackpool, England man swept out to sea there. ](/news/2013/01/1/prince-william-duke-of-cambridge-as-part-of-his-military-duties-pilots-a-royal-air-force-raf-sea-king-helicopter-which-was-sent-out-in.md)
 _Context: Blackpool, England, Duke of Cambridge, Royal Air Force, Sea King helicopter_
 
-### [Santos FC striker Neymar is named as 2012 South American Footballer of the Year, running ahead of Paolo Guerrero and Lucas Moura. ](/news/2013/01/1/santos-fc-striker-neymar-is-named-as-2012-south-american-footballer-of-the-year-running-ahead-of-paolo-guerrero-and-lucas-moura.md)
-Neymar beat Corinthians striker Paolo Guerrero, who scored the winning goal in the World Club Cup final against Chelsea, and compatriot Lucas Moura to the prize, reports Xinhua.
-
-### [In chess, the world number one Magnus Carlsen achieves the highest-ever FIDE official rating (2861) based on Elo rating system, breaking Garry Kasparov's 13-year record. ](/news/2013/01/1/in-chess-the-world-number-one-magnus-carlsen-achieves-the-highest-ever-fide-official-rating-2861-based-on-elo-rating-system-breaking-gar.md)
-_Context: Elo rating system, FIDE, Garry Kasparov, Magnus Carlsen, achieves, chess, world number one, world number one_
-
-### [Srecko Katanec  is appointed Slovenia national football team coach, replacing Slavisa Stojanovic. ](/news/2013/01/1/sreako-katanec-is-appointed-slovenia-national-football-team-coach-replacing-slavia-a-stojanovia.md)
-Srečko Katanec has been reappointed Slovenia coach, a decade after ending a successful first spell that brought qualification for UEFA EURO 2000 and the 2002 FIFA World Cup.
-
 ## [Previous Day...](/news/2012/12/31/index.md)
 

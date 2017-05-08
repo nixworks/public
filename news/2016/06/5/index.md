@@ -22,7 +22,7 @@ A passenger train crashed into the back of a freight train in the eastern Belgia
 Calabasas is a city of about 24,000 northwest of downtown Los Angeles. The city is home to several affluent communities and numerous celebrities.
 
 ### [Tropical Storm Colin forms in the Gulf of Mexico and is likely to hit Florida's Gulf Coast tomorrow. ](/news/2016/06/5/tropical-storm-colin-forms-in-the-gulf-of-mexico-and-is-likely-to-hit-florida-s-gulf-coast-tomorrow.md)
-_Context: FL, Gulf Coast of the United States, Gulf of Mexico, Tropical Storm Colin_
+_Context: Florida, Gulf Coast of the United States, Gulf of Mexico, Tropical Storm Colin_
 
 ### [ Six people are hurt as an unknown assailant fires shots at a Czech tourist bus on the A7 autoroute near Saulce-sur-Rhone in southeastern France. ](/news/2016/06/5/six-people-are-hurt-as-an-unknown-assailant-fires-shots-at-a-czech-tourist-bus-on-the-a7-autoroute-near-saulce-sur-rha-ne-in-southeastern-f.md)
 Six people are hurt as shots are fired at a bus carrying Czech tourists in south-east France, police say.
@@ -41,15 +41,6 @@ _Context: Swiss, Swiss referendums, 2016, basic income, francs, referenda_
 
 ### [Amid frustrations with the ongoing economic crisis, Puerto Rican Democrats  vote in the Commonwealth's primary  with front-runner Hillary Clinton forecast to win following yesterday's sweep in the  Virgin Islands' caucus, moving even closer to locking up her party's presidential nomination. There are 60 pledged delegates at stake. ](/news/2016/06/5/amid-frustrations-with-the-ongoing-economic-crisis-puerto-rican-democrats-vote-in-the-commonwealth-s-primary-with-front-runner-hillary-cl.md)
 SAN JUAN, Puerto Rico (AP) — Hillary Clinton overwhelmed Bernie Sanders in Puerto Rico&#039;s Democratic presidential primary on Sunday, putting her within striking distance of capturing her party&#039;s nomination. After a blowout…
-
-### [Novak Djokovic tops Andy Murray to win the French Open men's championship. This completes his non-calendar year Grand Slam. Djokovic is the first man since 1969 (Rod Laver) to hold all four Grand Slam singles titles at once. ](/news/2016/06/5/novak-djokovic-tops-andy-murray-to-win-the-french-open-men-s-championship-this-completes-his-non-calendar-year-grand-slam-djokovic-is-the.md)
-_Context: 2016 French Open - Men's Singles, Andy Murray, Novak Djokovic, Rod Laver, non-calendar year Grand Slam_
-
-### [Indian bodybuilder Mr Universe Manohar Aich dies at age 104. ](/news/2016/06/5/indian-bodybuilder-mr-universe-manohar-aich-dies-at-age-104.md)
-From a coconut vendor at Sealdah station to world acclaim, it had been a long journey for the little big man. A journey with a dramatic beginning — in a military prison.
-
-### [ Eid al-Fitr marks the end of Ramadan.](/news/2016/06/5/eid-al-fitr-marks-the-end-of-ramadan.md)
-_Context: Eid al-Fitr, Ramadan_
 
 ## [Previous Day...](/news/2016/06/4/index.md)
 

@@ -57,11 +57,5 @@ _Context: Aung San Suu Kyi, Burma, Davos, Swiss, World Economic Forum, democrati
 ### [Students and union members stage protest marches in London and Manchester against increases in tuition fees and public spending cuts in the United Kingdom. ](/news/2011/01/29/students-and-union-members-stage-protest-marches-in-london-and-manchester-against-increases-in-tuition-fees-and-public-spending-cuts-in-the.md)
 Demonstrations are held in London and Manchester against raising university tuition fees in England and public spending cuts.
 
-### [2011 AFC Asian Cup in Qatar:The tournament ends and the closing ceremony is held in Khalifa International Stadium. ](/news/2011/01/29/2011-afc-asian-cup-in-qatar-pthe-tournament-ends-and-the-closing-ceremony-is-held-in-khalifa-international-stadium.md)
-_Context: 2011 AFC Asian Cup, Khalifa International Stadium, Qatar_
-
-### [The Confederation of African Football announces in Lubumbashi the hosts of the 2015 (Morocco) and 2017 Africa Cup of Nations (South Africa). ](/news/2011/01/29/the-confederation-of-african-football-announces-in-lubumbashi-the-hosts-of-the-2015-morocco-and-2017-africa-cup-of-nations-south-africa.md)
-_Context: 2015, 2017 Africa Cup of Nations, CAF, Lubumbashi, Moroccan, South Africa_
-
 ## [Previous Day...](/news/2011/01/28/index.md)
 

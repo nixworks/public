@@ -28,14 +28,5 @@ _Context: Beijing, Chen Guangcheng, Newark Liberty_
 ### [Retired American psychiatrist Robert Spitzer apologises for his "fatally flawed" study, published in 2001, which falsely lent credence to the myth that gay people could be "cured". ](/news/2012/05/19/retired-american-psychiatrist-robert-spitzer-apologises-for-his-fatally-flawed-study-published-in-2001-which-falsely-lent-credence-to-th.md)
 _Context: Robert Spitzer_
 
-### [Association football:The final of the 2011-12 UEFA Champions League occurs in Munich, with Chelsea defeating Bayern Munich in a penalty shoot out after extra time, winning the competition for the first time in the club's history. ](/news/2012/05/19/association-football-pthe-final-of-the-2011a12-uefa-champions-league-occurs-in-munich-with-chelsea-defeating-bayern-munich-in-a-penalty-s.md)
-Live text commentary as Chelsea beat Bayern Munich on penalties in the Champions League final at the Allianz Arena.
-
-### [Leinster defeat Ulster in the 2012 Heineken Cup Final at Twickenham, their third Heineken Cup win in four seasons. ](/news/2012/05/19/leinster-defeat-ulster-in-the-2012-heineken-cup-final-at-twickenham-their-third-heineken-cup-win-in-four-seasons.md)
-Leinster were crowned European champions for a third time in four years after crushing Ulster with a record 42-14 Heineken Cup final victory at Twickenham.
-
-### [In horse racing, I'll Have Another wins the 2012 Preakness Stakes giving him the chance to become the first horse to win the United States Triple Crown of Thoroughbred Racing since Affirmed in 1978. ](/news/2012/05/19/in-horse-racing-i-ll-have-another-wins-the-2012-preakness-stakes-giving-him-the-chance-to-become-the-first-horse-to-win-the-united-states-t.md)
-_Context: 2012 Preakness Stakes, Affirmed, I'll Have Another, United States Triple Crown of Thoroughbred Racing, horse racing_
-
 ## [Previous Day...](/news/2012/05/18/index.md)
 

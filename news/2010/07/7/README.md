@@ -22,7 +22,7 @@ Thirteen Farc rebels are killed in northern Colombia, an operation President Uri
 A complex in Norway housing rejected asylum seekers was burned to the ground following a second night of rioting to protest conditions at the facility.
 
 ### [The United Kingdom is to hand over responsibility for Afghanistan's Sangin area to the United States. ](/news/2010/07/7/the-united-kingdom-is-to-hand-over-responsibility-for-afghanistan-s-sangin-area-to-the-united-states.md)
-_Context: Afghanistan, Sangin, U.S., United Kingdom_
+_Context: Afghanistan, Sangin, United Kingdom, United States_
 
 ### [A judge orders the arrest of Bruno Fernandes de Souza, one of Brazil's top footballers, in connection with the disappearance of his former mistress. ](/news/2010/07/7/a-judge-orders-the-arrest-of-bruno-fernandes-de-souza-one-of-brazil-s-top-footballers-in-connection-with-the-disappearance-of-his-former-m.md)
 _Context: Brazil, Bruno Fernandes de Souza_
@@ -88,7 +88,7 @@ A row erupts after the firm behind World of Warcraft announced that users of its
 _Context: European Union_
 
 ### [Spain defeats Germany 1-0 to win its semi-final and for its first time, along with Netherlands make the 2010 FIFA World Cup Final. ](/news/2010/07/7/spain-defeats-germany-1-0-to-win-its-semi-final-and-for-its-first-time-along-with-netherlands-make-the-2010-fifa-world-cup-final.md)
-_Context: 2010 FIFA World Cup Final, FIFA World Cup 2010, Germany, Netherlands football team, Spain, third_
+_Context: 2010 FIFA World Cup Final, FIFA World Cup 2010, Germany, Netherlands, Spain, third_
 
 ## [Previous Day...](/news/2010/07/6/index.md)
 

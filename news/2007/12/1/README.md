@@ -15,8 +15,5 @@ _Context: 17th Party Congress, Bo Xilai, China's, Chongqing, Guangdong province,
 ### [  Formateur Yves Leterme resigns. ](/news/2007/12/1/formateur-yves-leterme-resigns.md)
 _Context: Informateur, Yves Leterme, forms a temporary coalition government_
 
-### [ The United States wins its first Davis Cup since 1995 taking an unbeatable 3-0 lead over Russia in the final in Portland, Oregon. ](/news/2007/12/1/the-united-states-wins-its-first-davis-cup-since-1995-taking-an-unbeatable-3-0-lead-over-russia-in-the-final-in-portland-oregon.md)
-_Context: 1995, Davis Cup, Portland, Russia, United States_
-
 ## [Previous Day...](/news/2007/11/30/index.md)
 

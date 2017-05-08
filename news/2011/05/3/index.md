@@ -58,7 +58,7 @@ _Context: India, Kirti monastery, New Delhi, Tibet, exiled Tibetan parliament, r
 Five men are being held under the Terrorism Act after being arrested close to the Sellafield nuclear site, police said today.
 
 ### [Iranian police clash with protesters at a club soccer match between Piroozi Athletic and Saudi Arabia's Ittihad FC. ](/news/2011/05/3/iranian-police-clash-with-protesters-at-a-club-soccer-match-between-piroozi-athletic-and-saudi-arabia-s-ittihad-fc.md)
-_Context: Iranian police, Ittihad FC, Piroozi Athletic, Saudi Arabia, football_
+_Context: Iranian police, Ittihad FC, Piroozi Athletic, Saudi Arabia, soccer_
 
 ### [The murder of a South African lesbian activist who was stoned and stabbed to death is condemned as part of an "epidemic" of hate crimes against gays in South Africa. ](/news/2011/05/3/the-murder-of-a-south-african-lesbian-activist-who-was-stoned-and-stabbed-to-death-is-condemned-as-part-of-an-epidemic-of-hate-crimes-agai.md)
 The murder of a lesbian activist who was stoned and stabbed to death is part of an &quot;epidemic&quot; of hate crimes against gays, Human Rights Watch says.

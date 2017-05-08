@@ -22,7 +22,7 @@ Veteran US political activist and intellectual Noam Chomsky has received another
 _Context: Jay Leno, Jimmy Fallon, Late Night with Jimmy Fallon, NBC, TV network, The Tonight Show, U.S._
 
 ### [Subaru recalls around 200,000 vehicles in the United States to fix a defect which could lead to corrosion of the brake lines. ](/news/2013/04/3/subaru-recalls-around-200-000-vehicles-in-the-united-states-to-fix-a-defect-which-could-lead-to-corrosion-of-the-brake-lines.md)
-_Context: Subaru, U.S., corrosion_
+_Context: Subaru, United States, corrosion_
 
 ### [Disney announces that it is ceasing all internal development at its LucasArts game division. ](/news/2013/04/3/disney-announces-that-it-is-ceasing-all-internal-development-at-its-lucasarts-game-division.md)
 _Context: Disney, LucasArts_
@@ -71,21 +71,6 @@ _Context: Malaysia, Malaysian Prime Minister, Najib Razak, Negeri Sembilan, Parl
 
 ### [NASA announces that the Alpha Magnetic Spectrometer module on board the International Space Station has found possible evidence of dark matter. ](/news/2013/04/3/nasa-announces-that-the-alpha-magnetic-spectrometer-module-on-board-the-international-space-station-has-found-possible-evidence-of-dark-matt.md)
 The Alpha Magnetic Spectrometer (AMS) on the International Space Station may have found hints of elusive dark matter in antimatter particles in cosmic radiation.
-
-### [In the 2012-13 UEFA Champions League quarter-finals, Malaga secures a 0-0 draw against Borussia Dortmund while Real Madrid beats Galatasaray S.K. 3-0. ](/news/2013/04/3/in-the-2012a13-uefa-champions-league-quarter-finals-ma-laga-secures-a-0a0-draw-against-borussia-dortmund-while-real-madrid-beats-galata.md)
-Borussia Dortmund waste a clutch of good chances as they are held to a goalless draw at Malaga in the Champions League.
-
-### [In cricket, Afghanistan defeats Nepal by 7 wickets to win the 2013 ACC Twenty20 Cup in Kathmandu. United Arab Emirates defeats Hong Kong by 32 runs for the third place. All four have qualified for the 2013 ICC World Twenty20 Qualifier. ](/news/2013/04/3/in-cricket-afghanistan-defeats-nepal-by-7-wickets-to-win-the-2013-acc-twenty20-cup-in-kathmandu-united-arab-emirates-defeats-hong-kong-by.md)
-_Context: 2013 ACC Twenty20 Cup, 2013 ICC World Twenty20 Qualifier, Afghanistan, Cricket, Hong Kong, Kathmandu, Nepal, United Arab Emirates_
-
-### [In cricket, the 2013 edition of the Indian Premier League begins with the Kolkata Knight Riders taking on the Delhi Daredevils. ](/news/2013/04/3/in-cricket-the-2013-edition-of-the-indian-premier-league-begins-with-the-kolkata-knight-riders-taking-on-the-delhi-daredevils.md)
-IPL 6 is a crucial season for the players with the big auction shuffle coming up next year
-
-### [Rutgers University men's basketball coach Mike Rice, Jr. is fired after a video is released of him abusing players during practice. ](/news/2013/04/3/rutgers-university-men-s-basketball-coach-mike-rice-jr-is-fired-after-a-video-is-released-of-him-abusing-players-during-practice.md)
-_Context: Mike Rice, Rutgers University, Rutgers University basketball_
-
-### [The football-sponsoring conference that will operate under the charter of the soon-to-split Big East Conference announces it will operate as the American Athletic Conference effective July 1. The AAC schools previously sold the "Big East" name to a group of seven schools that will leave the conference at that time. ](/news/2013/04/3/the-football-sponsoring-conference-that-will-operate-under-the-charter-of-the-soon-to-split-big-east-conference-announces-it-will-operate-as.md)
-The American Athletic Conference is the new name for the former Big East Conference, according to sources.
 
 ## [Previous Day...](/news/2013/04/2/index.md)
 

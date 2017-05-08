@@ -4,7 +4,7 @@
 An asteroid expected to fly past Earth in 2029 inside the orbits of some satellite will be visible without telescopes.
 
 ### [ United States: Alberto Gonzales becomes the first Hispanic U.S. Attorney General, confirmed by a 60-36 Senate vote split across party lines. ](/news/2005/02/4/united-states-alberto-gonzales-becomes-the-first-hispanic-u-s-attorney-general-confirmed-by-a-60-36-senate-vote-split-across-party-lines.md)
-_Context: Alberto Gonzales, Hispanic, United States Attorney General, senators_
+_Context: Alberto Gonzales, Hispanic, United States Attorney General, United States senators_
 
 ### [ In Congo (Kinshasa), the equestrian statue of King Lopold of the Belgians, who founded the Congo Free State in 1885, is briefly re-erected in Kinshasa before it is again removed.  ](/news/2005/02/4/in-congo-kinshasa-the-equestrian-statue-of-king-leopold-of-the-belgians-who-founded-the-congo-free-state-in-1885-is-briefly-re-erected.md)
 _Context: Congo Free State, Democratic Republic of Congo, King Lopold of the Belgians, Kinshasa, equestrian statue_

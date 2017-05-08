@@ -42,11 +42,5 @@ Army&#x20;rulers&#x20;in&#x20;Egypt&#x20;decided&#x20;Sunday&#x20;to&#x20;bring&
 ### [The second of NASA's Gravity Recovery and Interior Laboratory spacecraft is in orbit around the moon. ](/news/2012/01/1/the-second-of-nasa-s-gravity-recovery-and-interior-laboratory-spacecraft-is-in-orbit-around-the-moon.md)
 _Context: GRAIL, NASA_
 
-### [In football, the Swaziland national football team withdraws from the qualifying rounds of the Africa Cup of Nations due to financial constraints. ](/news/2012/01/1/in-football-the-swaziland-national-football-team-withdraws-from-the-qualifying-rounds-of-the-africa-cup-of-nations-due-to-financial-constra.md)
-_Context: Africa Cup of Nations, Swaziland national football team_
-
-### [In motor sports, Argentine motorcycle rider Jorge Andres Boero dies in the first leg of the Dakar Rally in Argentina. ](/news/2012/01/1/in-motor-sports-argentine-motorcycle-rider-jorge-andra-c-s-boero-dies-in-the-first-leg-of-the-dakar-rally-in-argentina.md)
-_Context: Argentina, Argentine, Dakar Rally, Jorge Andres Boero, motorcycle-riding_
-
 ## [Previous Day...](/news/2011/12/31/index.md)
 

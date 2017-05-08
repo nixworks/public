@@ -51,11 +51,5 @@ Hezbollah leader says UN tribunal investigating death of former Lebanese PM shou
 ### [British Communities Secretary Eric Pickles has warned Downing Street that plans to cap Housing Benefit could result in 20,000 people in the UK being made homeless. ](/news/2011/07/3/british-communities-secretary-eric-pickles-has-warned-downing-street-that-plans-to-cap-housing-benefit-could-result-in-20-000-people-in-the.md)
 A government department warned Downing Street that a flagship policy to cap benefits could result in 20,000 people being made homeless, a situation Labour says is &quot;not good enough&quot;.
 
-### [An executive and her director boyfriend working with the Olympic Park Legacy Company are reportedly suspended following claims that they were paid by West Ham United F.C. to secure the use of the 2012 Summer Olympics stadium after the games. ](/news/2011/07/3/an-executive-and-her-director-boyfriend-working-with-the-olympic-park-legacy-company-are-reportedly-suspended-following-claims-that-they-wer.md)
-_Context: 2012 Summer Olympics, Olympic Park Legacy Company, West Ham_
-
-### [In tennis, Novak Djokovic of Serbia wins the Men's singles at the 2011 Wimbledon Championships defeating Rafael Nadal of Spain 6-4, 6-1, 1-6, 6-3, and becoming number 1 on the ATP World Tour. ](/news/2011/07/3/in-tennis-novak-djokovic-of-serbia-wins-the-men-s-singles-at-the-2011-wimbledon-championships-defeating-rafael-nadal-of-spain-6-4-6-1-1-6.md)
-Serbian outplays Spanish defending champion Rafael Nadal to claim his second Grand Slam title of the year.
-
 ## [Previous Day...](/news/2011/07/2/index.md)
 

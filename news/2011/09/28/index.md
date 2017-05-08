@@ -36,8 +36,5 @@ A US citizen is arrested in Boston accused of planning to bomb the Pentagon and 
 ### [Henry Tang resigns as the Chief Secretary for Administration in Hong Kong with the expectation that he will run for Chief Executive of Hong Kong in next year's election. ](/news/2011/09/28/henry-tang-resigns-as-the-chief-secretary-for-administration-in-hong-kong-with-the-expectation-that-he-will-run-for-chief-executive-of-hong.md)
 _Context: Chief Executive, Chief Secretary, Henry Tang_
 
-### [In baseball, the St. Louis Cardinals and the Tampa Bay Rays qualify for wild card positions in the playoffs for the 2011 Major League Baseball season, while the Philadelphia Phillies complete their season with 102 wins, breaking their franchise record set in 1976 for most wins in a season. ](/news/2011/09/28/in-baseball-the-st-louis-cardinals-and-the-tampa-bay-rays-qualify-for-wild-card-positions-in-the-playoffs-for-the-2011-major-league-baseba.md)
-_Context: 1976, 2011 Major League Baseball season, Philadelphia Phillies, St. Louis Cardinals, Tampa Bay Rays, baseball, season_
-
 ## [Previous Day...](/news/2011/09/27/index.md)
 

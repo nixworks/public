@@ -34,7 +34,7 @@ Former Cuban President Fidel Castro makes his first reported appearance outside 
 _Context: 2010 Tour de France, Alberto Contador, Lance Armstrong_
 
 ### [Fernando Alonso wins the German Grand Prix ahead of Ferrari team-mate Felipe Massa at Hockenheim. ](/news/2010/07/25/fernando-alonso-wins-the-german-grand-prix-ahead-of-ferrari-team-mate-felipe-massa-at-hockenheim.md)
-_Context: Felipe Massa, Fernando Alonso, German Grand Prix, Hockenheim, Scuderia Ferrari_
+_Context: Felipe Massa, Fernando Alonso, Ferrari, German Grand Prix, Hockenheim_
 
 ### [The FIVB World League 2010 ends with Brazil becoming the first country to win the competition nine times.](/news/2010/07/25/the-fivb-world-league-2010-ends-with-brazil-becoming-the-first-country-to-win-the-competition-nine-times.md)
 _Context: Brazil, FIVB World League 2010_

@@ -22,7 +22,7 @@ _Context: China, Taiwan_
 _Context: Cyprus dispute_
 
 ### [Talks between North Korea and the United States occur, with North and South Korea scheduled to start high-level talks tomorrow. ](/news/2014/02/11/talks-between-north-korea-and-the-united-states-occur-with-north-and-south-korea-scheduled-to-start-high-level-talks-tomorrow.md)
-_Context: North Korea, U.S._
+_Context: North Korea, United States_
 
 ### [The second round of the Geneva II discussion occurs. ](/news/2014/02/11/the-second-round-of-the-geneva-ii-discussion-occurs.md)
 _Context: Geneva II_
@@ -34,13 +34,10 @@ The European Union agrees to launch negotiations with Cuba aimed at restoring fu
 The first of four U.S. Navy destroyers to form the centerpiece of Europe&rsquo;s missile defense shield arrived in southern Spain on Tuesday.
 
 ### [The Republican Party-controlled U.S. House of Representatives votes to raise the government's borrowing limit for the next year, without attaching conditions, and sends the measure to the Senate for approval. ](/news/2014/02/11/the-republican-party-controlled-u-s-house-of-representatives-votes-to-raise-the-government-s-borrowing-limit-for-the-next-year-without-att.md)
-_Context: R, U.S. House of Representatives, borrowing limit, senators_
+_Context: R, U.S. House of Representatives, United States senators, borrowing limit_
 
 ### [Kevin Faulconer is elected as Mayor of San Diego, California. ](/news/2014/02/11/kevin-faulconer-is-elected-as-mayor-of-san-diego-california.md)
 _Context: California, Kevin Faulconer, San Diego_
-
-### [2014 Winter Olympics:The International Olympic Committee lifts the suspension of the Indian Olympic Association effective immediately. Indian athletes are now able to compete at the 2014 Winter Olympics under their nation's flag. ](/news/2014/02/11/2014-winter-olympics-pthe-international-olympic-committee-lifts-the-suspension-of-the-indian-olympic-association-effective-immediately-indi.md)
-_Context: 2014 Winter Olympics, Indian Olympic Association, International Olympic Committee_
 
 ## [Previous Day...](/news/2014/02/10/index.md)
 

@@ -42,11 +42,5 @@ _Context: Federal Social Readaptation Center No. 1, Joaquin Guzman Loera, Mexica
 ### [Aung San Suu Kyi announces that the National League for Democracy will participate in Myanmar's general election later this year. ](/news/2015/07/11/aung-san-suu-kyi-announces-that-the-national-league-for-democracy-will-participate-in-myanmar-s-general-election-later-this-year.md)
 Myanmar’s democracy leader says her National League for Democracy party will participate in the country’s historic general elections in November.
 
-### [Serena Williams defeats Garbine Muguruza to win the 2015 Wimbledon Women's Singles title. ](/news/2015/07/11/serena-williams-defeats-garbia-e-muguruza-to-win-the-2015-wimbledon-women-s-singles-title.md)
-Garbiñe Muguruza started her first Wimbledon final with a break and rallied from 5-1 down in the second set but lost 6-4, 6-4 to the grand-slam chasing Serena Williams
-
-### [The First Test of the 2015 Ashes Series between England and Australia ends with a 169-run victory for England after four days at the Swalec Stadium in Cardiff. ](/news/2015/07/11/the-first-test-of-the-2015-ashes-series-between-england-and-australia-ends-with-a-169-run-victory-for-england-after-four-days-at-the-swalec.md)
-_Context: 2015 Ashes series_
-
 ## [Previous Day...](/news/2015/07/10/index.md)
 

@@ -45,11 +45,5 @@ _Context: Kim Jong-il, Kim Jong-un, Pyongyang, Workers Party of North Korea_
 ### [Omar Abdirashid Ali Sharmarke resigns as Prime Minister of Somalia following an impasse developing with President Sharif Ahmed over a new constitution. ](/news/2010/09/21/omar-abdirashid-ali-sharmarke-resigns-as-prime-minister-of-somalia-following-an-impasse-developing-with-president-sharif-ahmed-over-a-new-co.md)
 _Context: Omar Abdirashid Ali Sharmarke, President of Somalia, Prime Minister of Somalia, Sharif Ahmed, constitution_
 
-### [The Commonwealth Games Federation demands that India improve conditions at the athletes' village in Delhi. ](/news/2010/09/21/the-commonwealth-games-federation-demands-that-india-improve-conditions-at-the-athletes-village-in-delhi.md)
-At least 19 people wereinjured when a foot bridge near the main Commonwealth Gamesstadium collapsed on Tuesday, police said, barely days beforethe sports event starts, police and witnesses said.
-
-### [The Minnesota Twins win the American League Central in Major League Baseball and become the first team to qualify for postseason play in 2010. ](/news/2010/09/21/the-minnesota-twins-win-the-american-league-central-in-major-league-baseball-and-become-the-first-team-to-qualify-for-postseason-play-in-201.md)
-Can we take that the 2010 American League Central Division championship and. . .to borrow a phrase. . .put it on the board? Why yes. . .yes, we can. The Minnesota Twins became the first team in...
-
 ## [Previous Day...](/news/2010/09/20/index.md)
 

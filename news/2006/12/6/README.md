@@ -4,16 +4,16 @@
 _Context: Democratic Republic of the Congo, Joseph Kabila, President, presidential candidate in 2006_
 
 ### [ The Iraq Study Group Report calls the situation in Iraq "grave and deteriorating" and calls for a change in strategy including the removal of most United States troops by early 2008. ](/news/2006/12/6/the-iraq-study-group-report-calls-the-situation-in-iraq-grave-and-deteriorating-and-calls-for-a-change-in-strategy-including-the-removal.md)
-_Context: Iraq, Iraq Study Group Report, U.S._
+_Context: Iraq, Iraq Study Group Report, United States_
 
 ### [ The Australian House of Representatives passes private members legislation allowing therapeutic cloning after a conscience vote. The Australian Senate had already approved the bill prepared by Senator Kay Patterson meaning that it will become law. ](/news/2006/12/6/the-australian-house-of-representatives-passes-private-members-legislation-allowing-therapeutic-cloning-after-a-conscience-vote-the-austra.md)
 _Context: Kay Patterson, Lower House, conscience vote, federal representation in Australia, therapeutic cloning_
 
 ### [ The United States Senate confirms Robert Gates as the next United States Secretary of Defense by 95-2. Gates will be sworn in on December 18. ](/news/2006/12/6/the-united-states-senate-confirms-robert-gates-as-the-next-united-states-secretary-of-defense-by-95-2-gates-will-be-sworn-in-on-december-1.md)
-_Context: Robert Gates, Secretary of Defense, senators_
+_Context: Robert Gates, Secretary of Defense, United States senators_
 
 ### [ Philippe Douste-Blazy, the Foreign Minister of France, says that the United Nations Security Council will impose sanctions on Iran for its nuclear program. However, the five permanent members of the Security Council as well as Germany have failed to agree on what the sanctions should be. ](/news/2006/12/6/philippe-douste-blazy-the-foreign-minister-of-france-says-that-the-united-nations-security-council-will-impose-sanctions-on-iran-for-its.md)
-_Context: Foreign Minister of France, Germany, Iran, Philippe Douste-Blazy, United Nations Security Council_
+_Context: Foreign Minister of France, German, Iran, Philippe Douste-Blazy, United Nations Security Council_
 
 ### [ 2006 Fijian coup d'tat: Fijian military Commodore Frank Bainimarama, the leader of the coup, usurps Ratu Josefa Iloilo as President of Fiji.  He promises to ask the Great Council of Chiefs to reappoint Iloilo to the office in one week's time. ](/news/2006/12/6/2006-fijian-coup-d-etat-p-fijian-military-commodore-frank-bainimarama-the-leader-of-the-coup-usurps-ratu-josefa-iloilo-as-president-of-fi.md)
 _Context: Great Council of Chiefs, Josefa Iloilo, President of Fiji, Ratu, Voreqe Bainimarama, coup in 2006_

@@ -30,8 +30,5 @@ Japan ordered its military on Monday to be ready at any time to shoot down any N
 ### [A report showing a negative evaluation of the British Government's Troubled Families programme is leaked to the BBC. ](/news/2016/08/8/a-report-showing-a-negative-evaluation-of-the-british-government-s-troubled-families-programme-is-leaked-to-the-bbc.md)
 _Context: Troubled Families_
 
-### [Manchester United complete the signing of Paul Pogba on five-year deal from Juventus for a world record transfer fee of PS89m (EUR105m), making Pogba the most expensive football player ever. ](/news/2016/08/8/manchester-united-complete-the-signing-of-paul-pogba-on-five-year-deal-from-juventus-for-a-world-record-transfer-fee-of-aps89m-a-105m-mak.md)
-Paul Pogba says &quot;the time is right to go back to Old Trafford&quot; as he completes his world-record £89m transfer to Manchester United.
-
 ## [Previous Day...](/news/2016/08/7/index.md)
 

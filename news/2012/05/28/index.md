@@ -54,8 +54,5 @@ _Context: Nepal, no sitting national Legislature_
 ### [Early voting begins in the Irish European Fiscal Compact referendum, 2012. ](/news/2012/05/28/early-voting-begins-in-the-irish-european-fiscal-compact-referendum-2012.md)
 The first votes were cast in Ireland&rsquo;s referendum on the European Union&rsquo;s fiscal pact, with the &#039;yes&rsquo; vote leading in the polls.
 
-### [Several Italian football players, including Lazio captain Stefano Mauri, are arrested as part of an ongoing investigation of a sports betting scandal involving match fixing. ](/news/2012/05/28/several-italian-football-players-including-lazio-captain-stefano-mauri-are-arrested-as-part-of-an-ongoing-investigation-of-a-sports-bettin.md)
-_Context: Italian, Lazio, Stefano Mauri, a sports betting scandal, match fixing_
-
 ## [Previous Day...](/news/2012/05/27/index.md)
 

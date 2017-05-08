@@ -69,8 +69,5 @@ Drug researcher David Nutt discusses brain-imaging studies with hallucinogens.
 ### [ British cosmologist Stephen Hawking and Russian venture capitalist and physicist Yuri Milner announce " Breaktrough Starshot," a $100 million effort to plan a trip to the sun's closest stellar neighbor, Alpha Centauri, via developing nanotechnology that would put the craft within the star system roughly 20 years after leaving Earth. ](/news/2016/04/12/british-cosmologist-stephen-hawking-and-russian-venture-capitalist-and-physicist-yuri-milner-announce-breaktrough-starshot-a-100-milli.md)
 Russian venture capitalist and physicist Yuri Milner is teaming up with famed cosmologist Stephen Hawking on an ambitious space travel project.
 
-### [ In rugby union, Allister Coetzee is named as the new coach of the South Africa national rugby team. ](/news/2016/04/12/in-rugby-union-allister-coetzee-is-named-as-the-new-coach-of-the-south-africa-national-rugby-team.md)
-_Context: Allister Coetzee, South Africa national rugby team, rugby union_
-
 ## [Previous Day...](/news/2016/04/11/index.md)
 

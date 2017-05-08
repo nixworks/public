@@ -30,17 +30,5 @@ _Context: Donald Tusk, Poland, Polish Prime Minister, infection, respiratory tra
 ### [Scientists from the European Bioinformatics Institute in Hinxton, England, successfully use DNA as a means of data storage. ](/news/2013/01/24/scientists-from-the-european-bioinformatics-institute-in-hinxton-england-successfully-use-dna-as-a-means-of-data-storage.md)
 _Context: DNA, England, European Bioinformatics Institute, Hinxton, data storage_
 
-### [French football is reported to be stunned at yesterday evening's red card for Chelsea midfielder Eden Hazard, who violently kicked a ball boy in the midriff during the 2012-13 Football League Cup game in Wales. The Belgian midfielder, who previously played in Ligue 1, was thought to have had an exemplary disciplinary record before the assault. ](/news/2013/01/24/french-football-is-reported-to-be-stunned-at-yesterday-evening-s-red-card-for-chelsea-midfielder-eden-hazard-who-violently-kicked-a-ball-bo.md)
-_Context: 2013, Belgian international, Chelsea F.C., Eden Hazard, Ligue 1, Wales, ball boy, football, midriff, red card_
-
-### [El Clasico: Barcelona are to play Real Madrid in the 2012-13 Copa del Rey semifinal after the Catalan club defeated Malaga CF 4-2. ](/news/2013/01/24/el-cla-sico-barcelona-are-to-play-real-madrid-in-the-2012a13-copa-del-rey-semifinal-after-the-catalan-club-defeated-ma-laga-cf-4a2.md)
-_Context: 2012-13 Copa del Rey, Catalan, El Clasico, FC Barcelona, Malaga, Real Madrid_
-
-### [In tennis, Li Na will face Victoria Azarenka in the women's final at the 2013 Australian Open after her straight-set victory over Maria Sharapova in the semifinal. ](/news/2013/01/24/in-tennis-li-na-will-face-victoria-azarenka-in-the-women-s-final-at-the-2013-australian-open-after-her-straight-set-victory-over-maria-shar.md)
-Victoria Azarenka overcomes Sloane Stephens and set up an Australian Open final with Li Na who beat Maria Sharapova.
-
-### [NBA team New Orleans Hornets announce it will change its name to the Pelicans after the current season, the new team logo is officially released. ](/news/2013/01/24/nba-team-new-orleans-hornets-announce-it-will-change-its-name-to-the-pelicans-after-the-current-season-the-new-team-logo-is-officially-rele.md)
-New Orleans changing its NBA nickname from Hornets to Pelicans was not a secret. But the logo and color scheme was, until today. New Orleans on Thursday officially unveiled its new nickname, logo and color.
-
 ## [Previous Day...](/news/2013/01/23/index.md)
 

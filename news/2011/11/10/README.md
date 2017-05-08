@@ -43,7 +43,7 @@ _Context: Arab League, Imam Moussa al-Sadr, Iranian-Lebanese scholar, Libya, Mua
 _Context: ANC, Julius Malema, South Africa_
 
 ### [200,000 Canadian college and university students vote in favour of boycotting classes in Quebec. Thousands are expected to participate in a protest march against tuition fee increases in Montreal. ](/news/2011/11/10/200-000-canadian-college-and-university-students-vote-in-favour-of-boycotting-classes-in-quebec-thousands-are-expected-to-participate-in-a.md)
-_Context: Canadian, Quebec, city of Montreal, tuition fee_
+_Context: Canadian, Montreal, Quebec, tuition fee_
 
 ### [Incumbent Virginia State Senator Edd Houck concedes defeat in the state elections, giving the Republican Party control over the Virginia General Assembly. ](/news/2011/11/10/incumbent-virginia-state-senator-edd-houck-concedes-defeat-in-the-state-elections-giving-the-republican-party-control-over-the-virginia-gen.md)
 _Context: Edd Houck, R, State Senator, Virginia, Virginia General Assembly, state elections_

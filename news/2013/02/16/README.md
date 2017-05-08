@@ -24,8 +24,5 @@ Malaysian officials detain Australian senator, Nick Xenophon, under national sec
 ### [During presidential election Anthony Carmona is elected to be the next President of Trinidad and Tobago from 18 March 2013. ](/news/2013/02/16/during-presidential-election-anthony-carmona-is-elected-to-be-the-next-president-of-trinidad-and-tobago-from-18-march-2013.md)
 _Context: Anthony Carmona, President, Trinidad and Tobago, presidential election_
 
-### [Lionel Messi extends his record streak by scoring in his 14th consecutive 2012-13 La Liga game to give leader Barcelona a 2-1 win against Granada. The Argentine forward completes his 300th goal during 365th appearance for Catalan club. ](/news/2013/02/16/lionel-messi-extends-his-record-streak-by-scoring-in-his-14th-consecutive-2012a13-la-liga-game-to-give-leader-barcelona-a-2a1-win-agains.md)
-_Context: 2012-13 La Liga, Argentina, Catalonia, FC Barcelona, Granada, Lionel Messi, record streak_
-
 ## [Previous Day...](/news/2013/02/15/index.md)
 

@@ -55,7 +55,7 @@ _Context: Obama Administration, Somalia, Yemen bomb attacks_
 Israel reveals plans to build nearly 1,300 housing units for Jewish settlers in occupied East Jerusalem.
 
 ### [The United States offers to drop Sudan from its list of "state sponsors of terrorism", ending its isolation, if two scheduled referendums take place with respected results. ](/news/2010/11/8/the-united-states-offers-to-drop-sudan-from-its-list-of-state-sponsors-of-terrorism-ending-its-isolation-if-two-scheduled-referendums-ta.md)
-_Context: Sudan, U.S._
+_Context: Sudan, United States_
 
 ### [Libyan authorities arrest 10 reporters apparently for criticizing Libya's leadership. ](/news/2010/11/8/libyan-authorities-arrest-10-reporters-apparently-for-criticizing-libya-s-leadership.md)
 _Context: Libya_
@@ -86,9 +86,6 @@ _Context: Ba Ria-Vung Tau Province, Leiolepis ngovantrii, Vietnam Academy of Sci
 
 ### [Chinese Premier Wen Jiabao unveils pictures of the moon's Sinus Iridum, or Bay of Rainbows, taken during China's Chang`e-2 lunar probe mission. ](/news/2010/11/8/chinese-premier-wen-jiabao-unveils-pictures-of-the-moon-s-sinus-iridum-or-bay-of-rainbows-taken-during-china-s-chang-e-2-lunar-probe-missi.md)
 _Context: Chang'e 2, China's, Moon, Sinus Iridum, Wen Jiabao_
-
-### [Cycling's world body Union Cycliste Internationale asks the Spanish federation to take action against Tour de France winner Alberto Contador who tested positive for a small amount of clenbuterol. ](/news/2010/11/8/cycling-s-world-body-union-cycliste-internationale-asks-the-spanish-federation-to-take-action-against-tour-de-france-winner-alberto-contador.md)
-_Context: Alberto Contador, Spanish federation, Tour de France, Union Cycliste Internationale, clenbuterol, cycling_
 
 ## [Previous Day...](/news/2010/11/7/index.md)
 

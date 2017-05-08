@@ -16,7 +16,7 @@ _Context: Science Olympiad, University of Illinois at Urbana-Champaign_
 _Context: Kingda Ka, Six Flags Great Adventure_
 
 ### [ Arsenal won the English FA Cup, in the first final to go to a penalty shootout; Arsenal beat Manchester United 5-4 on spot-kicks after 120 minutes of a goalless draw at the Millennium Stadium in Cardiff.](/news/2005/05/21/arsenal-won-the-english-fa-cup-in-the-first-final-to-go-to-a-penalty-shootout-arsenal-beat-manchester-united-5-4-on-spot-kicks-after-120.md)
-_Context: Arsenal, Cardiff, FA Cup, Manchester United, penalty shootout, their own ground_
+_Context: Arsenal, Cardiff, FA Cup, Manchester United, Millennium Stadium, penalty shootout_
 
 ### [ Livingston drew 1-1 at home to Dundee to survive in the SPL, on the final game of the season. This result relegated the visiting side.](/news/2005/05/21/livingston-drew-1-1-at-home-to-dundee-to-survive-in-the-spl-on-the-final-game-of-the-season-this-result-relegated-the-visiting-side.md)
 _Context: Dundee, Livingston, SPL, home_

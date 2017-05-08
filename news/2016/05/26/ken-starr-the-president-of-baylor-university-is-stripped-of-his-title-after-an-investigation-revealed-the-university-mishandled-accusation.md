@@ -12,4 +12,3 @@
 ### Related:
 
 1. [Wellesley College and Baylor University publish love letters between English poets Robert Browning and Elizabeth Barrett online. ](/news/2012/02/14/wellesley-college-and-baylor-university-publish-love-letters-between-english-poets-robert-browning-and-elizabeth-barrett-online.md) _Context: Baylor University_
-2. [Robert Griffin III, the quarterback for the Baylor Bears wins the  Heisman Trophy, awarded to the best player in college football. ](/news/2011/12/10/robert-griffin-iii-the-quarterback-for-the-baylor-bears-wins-the-heisman-trophy-awarded-to-the-best-player-in-college-football.md) _Context: football_

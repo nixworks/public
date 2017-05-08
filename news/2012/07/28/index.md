@@ -10,13 +10,10 @@ _Context: Afghanistan, NATO_
 Deadly clashes between two communities in southern Ethiopia cause 20,000 people to flee across the border into Kenya, the Red Cross says.
 
 ### [The sunken German U-Boat ''U-550'' is discovered off the coast of Massachusetts, United States. ](/news/2012/07/28/the-sunken-german-u-boat-u-550-is-discovered-off-the-coast-of-massachusetts-united-states.md)
-_Context: Germany, Massachusetts, U-550, U.S._
+_Context: German, Massachusetts, U-550, United States_
 
 ### [Andriy Shevchenko announces his retirement from football in order to go into politics. ](/news/2012/07/28/andriy-shevchenko-announces-his-retirement-from-football-in-order-to-go-into-politics.md)
 _Context: Andriy Shevchenko_
-
-### [2012 Summer Olympics:In archery, Im Dong-Hyun of South Korea sets a new world record at Lord's Cricket Ground. ](/news/2012/07/28/2012-summer-olympics-pin-archery-im-dong-hyun-of-south-korea-sets-a-new-world-record-at-lord-s-cricket-ground.md)
-LONDON (Reuters) - South African Cameron Van der Burgh, struggling to contain his emotions, shook his finger in disbelief at the screen above the pool as it flashed his 100 meters breaststroke world...
 
 ## [Previous Day...](/news/2012/07/27/index.md)
 

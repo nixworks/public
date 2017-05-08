@@ -4,7 +4,7 @@
 _Context: Chinese Foreign Ministry spokesperson, United Nations Register of Conventional Arms, defense spending_
 
 ### [ The United States men's national basketball team defeats Argentina 118-81 to win the 2007 FIBA Americas Championship, with both teams qualifying for the 2008 Summer Olympics. ](/news/2007/09/2/the-united-states-men-s-national-basketball-team-defeats-argentina-118-81-to-win-the-2007-fiba-americas-championship-with-both-teams-quali.md)
-_Context: 2007 FIBA Americas Championship, 2008 Summer Olympics, Argentina, United States_
+_Context: 2007 FIBA Americas Championship, 2008 Summer Olympics, Argentina, United States men's national basketball team_
 
 ### [ Israeli police recommend that former Finance Minister Avraham Hirchson be indicted for allegedly stealing millions from a trade union he led in 2003. ](/news/2007/09/2/israeli-police-recommend-that-former-finance-minister-avraham-hirchson-be-indicted-for-allegedly-stealing-millions-from-a-trade-union-he-le.md)
 _Context: Avraham Hirchson, Israel, unionize_

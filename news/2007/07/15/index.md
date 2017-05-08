@@ -25,7 +25,7 @@ Australia has extradited to Croatia a man convicted for the murder of a senior p
 _Context: Taliban, Waziristan conflict (July 2007-present)_
 
 ### [ Brazil defeats Argentina 3-0 in the 2007 Copa Amrica final. ](/news/2007/07/15/brazil-defeats-argentina-3-0-in-the-2007-copa-america-final.md)
-_Context: 2007 Copa Amrica, Argentina, Brazil national football team_
+_Context: 2007 Copa Amrica, Argentina national football team, Brazil national football team_
 
 ## [Previous Day...](/news/2007/07/14/index.md)
 

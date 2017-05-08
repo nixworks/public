@@ -36,8 +36,5 @@ A former president of the UN General Assembly, John Ashe, was arrested on Tuesda
 ### [Takaaki Kajita and Arthur B. McDonald win the 2015 Nobel Prize in Physics for their discovery of neutrino oscillations. ](/news/2015/10/6/takaaki-kajita-and-arthur-b-mcdonald-win-the-2015-nobel-prize-in-physics-for-their-discovery-of-neutrino-oscillations.md)
 _Context: Arthur B. McDonald, Nobel Prize in Physics, Takaaki Kajita, neutrino_
 
-### [South Korean FIFA presidential candidate Chung Mong-joon admits that he is facing charges before FIFA's ethics committee but denies wrongdoing. ](/news/2015/10/6/south-korean-fifa-presidential-candidate-chung-mong-joon-admits-that-he-is-facing-charges-before-fifa-s-ethics-committee-but-denies-wrongdoi.md)
-_Context: 2015 FIFA corruption case, Chung Mong-joon, President of FIFA, South Korea_
-
 ## [Previous Day...](/news/2015/10/5/index.md)
 

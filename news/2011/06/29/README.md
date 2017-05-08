@@ -90,14 +90,5 @@ Fianna Fáil Senator Ned O&#39;Sullivan has said he made &#39;around a dozen&#39
 ### [The Rhode Island General Assembly passes legislation allowing same-sex couples in the US state to enter civil unions. ](/news/2011/06/29/the-rhode-island-general-assembly-passes-legislation-allowing-same-sex-couples-in-the-us-state-to-enter-civil-unions.md)
 _Context: Rhode Island General Assembly, civil union_
 
-### [In association football, Choi Sung-Kuk, a former forward with the South Korea national football team, admits involvement in a K-League match fixing scheme. ](/news/2011/06/29/in-association-football-choi-sung-kuk-a-former-forward-with-the-south-korea-national-football-team-admits-involvement-in-a-k-league-match.md)
-_Context: Choi Sung-Kuk, K-League, South Korean, association football, match fixing, striker_
-
-### [In tennis, Jo-Wilfried Tsonga comes back to defeat Roger Federer at Wimbledon, the first loss Federer has sustained from being two sets ahead at a Grand Slam. ](/news/2011/06/29/in-tennis-jo-wilfried-tsonga-comes-back-to-defeat-roger-federer-at-wimbledon-the-first-loss-federer-has-sustained-from-being-two-sets-ahea.md)
-Frenchman defeats six-time champion to reach semi-final against second seed Djokovic, while Murray will take on Nadal.
-
-### [Carson Yeung, president of England's Birmingham City F.C., is quizzed by police in Hong Kong over criminal investigations. ](/news/2011/06/29/carson-yeung-president-of-england-s-birmingham-city-f-c-is-quizzed-by-police-in-hong-kong-over-criminal-investigations.md)
-Birmingham City president Carson Yeung is helping Hong Kong police with criminal investigations, the football club says on its website.
-
 ## [Previous Day...](/news/2011/06/28/index.md)
 

@@ -45,11 +45,5 @@ _Context: Italian Wikipedia_
 ### [Saul Perlmutter, Brian P. Schmidt and  Adam Riess share the Nobel Prize for Physics for work on the accelerating expansion of the universe. ](/news/2011/10/4/saul-perlmutter-brian-p-schmidt-and-adam-riess-share-the-nobel-prize-for-physics-for-work-on-the-accelerating-expansion-of-the-universe.md)
 _Context: Adam Riess, Brian P. Schmidt, Nobel Prize for Physics, Saul Perlmutter, Universe, accelerating expansion_
 
-### [In basketball, the North American National Basketball Association cancels the remainder of the preseason due to the 2011 NBA lockout, with cancellation of games in the regular season occurring if the lockout continues for another week. ](/news/2011/10/4/in-basketball-the-north-american-national-basketball-association-cancels-the-remainder-of-the-preseason-due-to-the-2011-nba-lockout-with-c.md)
-Tuesday was billed as they most crucial day of NBA labor talks, but the results after four hours looked exactly like every other meeting over the past several weeks: There was incremental progress,…
-
-### [In soccer, Seattle Sounders F.C. defeat Chicago Fire 2-0 to win the Lamar Hunt U.S. Open Cup for the third year in a row, the first time a team has done this in over 40 years. ](/news/2011/10/4/in-soccer-seattle-sounders-f-c-defeat-chicago-fire-2-0-to-win-the-lamar-hunt-u-s-open-cup-for-the-third-year-in-a-row-the-first-time-a-t.md)
-_Context: Chicago Fire, Lamar Hunt U.S. Open Cup, Seattle Sounders F.C., football, win_
-
 ## [Previous Day...](/news/2011/10/3/index.md)
 

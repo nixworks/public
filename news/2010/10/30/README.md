@@ -74,7 +74,7 @@ _Context: Mustafa Kemal Ataturk, Turkey, YouTube_
 Two people remain in detention in connection with alleged attack plot in Gothenburg.
 
 ### [Fourteen people are killed by gunmen at a soccer field in San Pedro Sula, Honduras. ](/news/2010/10/30/fourteen-people-are-killed-by-gunmen-at-a-soccer-field-in-san-pedro-sula-honduras.md)
-_Context: Honduran, San Pedro Sula, football_
+_Context: Honduran, San Pedro Sula, soccer_
 
 ### [An estimated 200,000 people attend the Rally to Restore Sanity and/or Fear by political satirists Jon Stewart and Stephen Colbert on the National Mall in Washington, D.C. ](/news/2010/10/30/an-estimated-200-000-people-attend-the-rally-to-restore-sanity-and-or-fear-by-political-satirists-jon-stewart-and-stephen-colbert-on-the-nat.md)
 Gathering in Washington called attempt to inject humour and tone down partisan division.
@@ -84,9 +84,6 @@ _Context: Danny Alexander, Harriet Harman, Labour Party, Twitter, red hair_
 
 ### [In an interview with ''Al-Hayat'' later quoted by Israeli television, senior Hamas official Mahmoud al-Zahar calls a "rebel" against Hamas policy anyone who fires rockets from Gaza into Israel. ](/news/2010/10/30/in-an-interview-with-al-hayat-later-quoted-by-israeli-television-senior-hamas-official-mahmoud-al-zahar-calls-a-rebel-against-hamas-p.md)
 Top Hamas official Mahmoud Zahar says Islamist group agreed to truce with Israel following Gaza war and violations of the truce could result in anarchy.
-
-### [Australia defeat Ireland by a score of 102-92 to win the 2010 International Rules Series at Croke Park. ](/news/2010/10/30/australia-defeat-ireland-by-a-score-of-102-92-to-win-the-2010-international-rules-series-at-croke-park.md)
-All the latest GAA News, Results &amp; Fixtures, brought to you as it happens, including sports analysis and results from Ireland and around the world.
 
 ## [Previous Day...](/news/2010/10/29/index.md)
 

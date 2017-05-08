@@ -76,7 +76,7 @@ _Context: Hugo Chvez, President, Simn Bolvar, exhumed_
 Fraud police in Nigeria seize the passports of four top football officials sacked after the World Cup.
 
 ### [Pakistan's cricket captain, Shahid Afridi, quits in controversy after losing his team's first Test to Australia. ](/news/2010/07/16/pakistan-s-cricket-captain-shahid-afridi-quits-in-controversy-after-losing-his-team-s-first-test-to-australia.md)
-_Context: Cricket, Shahid Afridi_
+_Context: Shahid Afridi, cricketer_
 
 ## [Previous Day...](/news/2010/07/15/index.md)
 

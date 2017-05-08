@@ -24,11 +24,5 @@ Call for nationwide rallies comes after dozens are arrested in street battles be
 ### [Proposals to change the automatic trade union affiliation with the UK Labour Party are passed at a special party conference vote by 86% to 14%. ](/news/2014/03/1/proposals-to-change-the-automatic-trade-union-affiliation-with-the-uk-labour-party-are-passed-at-a-special-party-conference-vote-by-86-to-1.md)
 _Context: Labour Party, trade union_
 
-### [In association football, having headbutted a player for the opposing team, an unprecedented incident during a Premier League match, Alan Pardew faces the sack. ](/news/2014/03/1/in-association-football-having-headbutted-a-player-for-the-opposing-team-an-unprecedented-incident-during-a-premier-league-match-alan-par.md)
-Newcastle United boss Alan Pardew looks set to land himself in hot water with the FA after appearing to head butt David Meyler during the win over Hull City.
-
-### [In U.S. college basketball, Wichita State becomes the first NCAA Division I men's team to complete an undefeated regular season since Saint Joseph's in 2003-04. ](/news/2014/03/1/in-u-s-college-basketball-wichita-state-becomes-the-first-ncaa-division-i-men-s-team-to-complete-an-undefeated-regular-season-since-saint.md)
-Cleanthony Early scored 19 points, Ron Baker added 13 and the second-ranked Shockers rolled to a 68-45 victory over Missouri State on Saturday, easily putting away a team that had given them fits this season.
-
 ## [Previous Day...](/news/2014/02/28/index.md)
 

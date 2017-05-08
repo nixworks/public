@@ -27,8 +27,5 @@ Afghanistan’s rival presidential candidates have signed a power-sharing deal t
 ### [Pope Francis celebrates Mass in Albania. ](/news/2014/09/21/pope-francis-celebrates-mass-in-albania.md)
 Tens of thousands of people attend a Mass by Pope Francis, as the pontiff hits out at extremists &quot;perverting&quot; religion to justify violence.
 
-### [In tennis, two-time Australian Open champion Victoria Azarenka is to miss the remainder of the season because of the foot injury that has blighted her year. ](/news/2014/09/21/in-tennis-two-time-australian-open-champion-victoria-azarenka-is-to-miss-the-remainder-of-the-season-because-of-the-foot-injury-that-has-bl.md)
-Victoria Azarenka will miss the remainder of the season because of the foot injury that has blighted her year.
-
 ## [Previous Day...](/news/2014/09/20/index.md)
 

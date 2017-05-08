@@ -25,7 +25,7 @@ South Korea deploys two warships with missile-defence systems, reports say, afte
 Iran has failed to give &quot;a concrete response&quot; to proposals aimed at ending deadlock over its nuclear programme, a Western diplomat at talks in Almaty says.
 
 ### [The United States agrees to a plan to return some land, used by the US Military's Futenma Airbase in Okinawa, to Japan. ](/news/2013/04/5/the-united-states-agrees-to-a-plan-to-return-some-land-used-by-the-us-military-s-futenma-airbase-in-okinawa-to-japan.md)
-_Context: Japan, Marine Corps Air Station Futenma, Okinawa, U.S., United States military_
+_Context: Japan, Marine Corps Air Station Futenma, Okinawa, United States, United States military_
 
 ### [Eight people are killed when Buddhists and Muslims from Myanmar brawl in a detention center in Indonesia. ](/news/2013/04/5/eight-people-are-killed-when-buddhists-and-muslims-from-myanmar-brawl-in-a-detention-center-in-indonesia.md)
 _Context: Buddhists, Indonesia, Muslims, Myanmar, detention center_
@@ -35,12 +35,6 @@ Police in Gatineau, Que., have identified one of two men who were found dead aft
 
 ### [Doan Van Vuon, a fish farmer who became a cult hero in Vietnam after fighting off an illegal eviction with homemade guns and mines, is jailed for five years for "attempted murder in a case that has stirred public anger over state-backed land grabs." ](/news/2013/04/5/doan-van-vuon-a-fish-farmer-who-became-a-cult-hero-in-vietnam-after-fighting-off-an-illegal-eviction-with-homemade-guns-and-mines-is-jaile.md)
 A fish farmer who became a cult hero in Vietnam after fighting off an illegal eviction with homemade guns and mines was jailed on Friday for five years for attempted murder in a case that has stirred public anger over state-backed land grabs.
-
-### [In further fallout from the Rutgers University basketball scandal, assistant coach Jimmy Martelli, seen on practice videos abusing players in the same manner as fired head coach Mike Rice, and athletic director Tim Pernetti both resign. ](/news/2013/04/5/in-further-fallout-from-the-rutgers-university-basketball-scandal-assistant-coach-jimmy-martelli-seen-on-practice-videos-abusing-players-i.md)
-_Context: Mike Rice, Rutgers University basketball, Tim Pernetti, athletic director_
-
-### [An ESPN investigation claims that 12 Auburn University football players tested positive for synthetic cannabis in the 2011 season, and that the school's athletic department kept the test results confidential. The investigation also reveals widespread use of the drug among members of Auburn's 2010 national championship team. ](/news/2013/04/5/an-espn-investigation-claims-that-12-auburn-university-football-players-tested-positive-for-synthetic-cannabis-in-the-2011-season-and-that.md)
-The 2010 national champion Auburn Tigers were gripped by an epidemic of synthetic marijuana use that led to a rash of failed drug tests and a decision at the highest levels of the university to keep the results confidential, ESPN has learned.
 
 ## [Previous Day...](/news/2013/04/4/index.md)
 

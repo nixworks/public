@@ -15,8 +15,5 @@ _Context: Andrej Kiska, Prime Minister, Robert Fico's, Slovakia's, presidential 
 ### [2014 Crimean crisis and The March of Peace took place in Russia a day before the Crimean referendum. 30,000 people participated in anti-war protests in Moscow. ](/news/2014/03/15/2014-crimean-crisis-and-the-march-of-peace-took-place-in-russia-a-day-before-the-crimean-referendum-30-000-people-participated-in-anti-war.md)
 _Context: 2014 Crimean crisis, Crimean referendum, 2014, March of Peace_
 
-### [In motorsports, the Chip Ganassi Racing #01 Riley-Ford Ecoboost Daytona Prototype, driven by Scott Pruett, Memo Rojas and Marino Franchitti, wins the 2014 12 Hours of Sebring ](/news/2014/03/15/in-motorsports-the-chip-ganassi-racing-01-riley-ford-ecoboost-daytona-prototype-driven-by-scott-pruett-memo-rojas-and-marino-franchitti.md)
-_Context: 12 Hours of Sebring, Chip Ganassi Racing, Daytona Prototype, Ford Ecoboost, Marino Franchitti, Memo Rojas, Riley, Scott Pruett_
-
 ## [Previous Day...](/news/2014/03/14/index.md)
 

@@ -34,7 +34,7 @@ _Context: 2015 FIFA corruption case, President of FIFA, Sepp Blatter, Swiss_
 _Context: Croatia, European migrant crisis, Serbia_
 
 ### [Hakubun Shimomura resigns as Japan's Minister of Education, Culture, Sports, Science and Technology due to the design for the stadium for the 2020 Summer Olympics being abandoned. ](/news/2015/09/25/hakubun-shimomura-resigns-as-japan-s-minister-of-education-culture-sports-science-and-technology-due-to-the-design-for-the-stadium-for-th.md)
-_Context: 2020 Summer Olympics, Hakubun Shimomura, Japan, Minister of Education, Culture, Sports, Science and Technology, National Olympic Stadium_
+_Context: 2020 Summer Olympics, Hakubun Shimomura, Japan, Minister of Education, Culture, Sports, Science and Technology, stadium_
 
 ### [John Boehner schedules his resignation from the position of Speaker of the United States House of Representatives and from Congress for the end of October. ](/news/2015/09/25/john-boehner-schedules-his-resignation-from-the-position-of-speaker-of-the-united-states-house-of-representatives-and-from-congress-for-the.md)
 The likely successor is House Majority Leader Kevin McCarthy (R-Calif.)

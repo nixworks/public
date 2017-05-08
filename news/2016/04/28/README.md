@@ -66,8 +66,5 @@ _Context: Africa, Elections in Equatorial Guinea, President of Equatorial Guinea
 ### [India launches IRNSS-1G, the seventh and final series of satellite for the Indian Regional Navigation Satellite System (NAVIC) ](/news/2016/04/28/india-launches-irnss-1g-the-seventh-and-final-series-of-satellite-for-the-indian-regional-navigation-satellite-system-navic.md)
 The country will not have to depend on a foreign power for military navigation anymore
 
-### [In American football, the National Football League starts its draft for the 2016 NFL season with the Los Angeles Rams choosing Jared Goff with the first pick. ](/news/2016/04/28/in-american-football-the-national-football-league-starts-its-draft-for-the-2016-nfl-season-with-the-los-angeles-rams-choosing-jared-goff-wi.md)
-Cal QB will face immense expectations as he takes reins to team following its big move.
-
 ## [Previous Day...](/news/2016/04/27/index.md)
 

@@ -27,8 +27,5 @@ _Context: India, Pune_
 ### [A second Israeli who set himself on fire in protest of economic difficulties in Tel Aviv dies of his injuries in hospital. ](/news/2012/08/1/a-second-israeli-who-set-himself-on-fire-in-protest-of-economic-difficulties-in-tel-aviv-dies-of-his-injuries-in-hospital.md)
 A second Israeli who set himself on fire in protest at economic difficulties has died of his injuries, the hospital treating him said on Wednesday.
 
-### [2012 Summer Olympics: The Badminton World Federation charges eight women's doubles players from South Korea, China and Indonesia with "not using one's best efforts to win a match". ](/news/2012/08/1/2012-summer-olympics-the-badminton-world-federation-charges-eight-women-s-doubles-players-from-south-korea-china-and-indonesia-with-not-u.md)
-Eight female Olympic players are accused of not &quot;using best efforts to win&quot; - as British gold medal hopes focus on rowing and cycling.
-
 ## [Previous Day...](/news/2012/07/31/index.md)
 

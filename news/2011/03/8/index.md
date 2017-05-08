@@ -49,7 +49,7 @@ _Context: Darfur, International Criminal Court_
 The prominent Syrian human rights activist and critic of the government Haitham al-Maleh was been released from jail.
 
 ### [Mexico's youngest police chief, Marisol Valles Garcia of the town of Praxedis G. Guerrero, Chihuahua, seeks asylum to the United States after receiving death threats. ](/news/2011/03/8/mexico-s-youngest-police-chief-marisol-valles-garcaa-of-the-town-of-pra-xedis-g-guerrero-chihuahua-seeks-asylum-to-the-united-states-af.md)
-_Context: Marisol Valles Garcia, Mexico, Praxedis G. Guerrero, Chihuahua, U.S._
+_Context: Marisol Valles Garcia, Mexico, Praxedis G. Guerrero, Chihuahua, United States_
 
 ### [Twenty-one Catholic priests in the US city of Philadelphia, Pennsylvania, are suspended after being named in an investigation in claims of widespread child molestation. ](/news/2011/03/8/twenty-one-catholic-priests-in-the-us-city-of-philadelphia-pennsylvania-are-suspended-after-being-named-in-an-investigation-in-claims-of-w.md)
 Twenty-one Roman Catholic priests are suspended in Philadelphia after the release of a legal report into allegations of child molestation.
@@ -68,9 +68,6 @@ Iranian security forces fired teargas to disperse anti-government protesters in 
 
 ### [Voters in the U.S. city of Memphis, Tennessee, agree to hand over controls of Memphis City Schools to Shelby County. ](/news/2011/03/8/voters-in-the-u-s-city-of-memphis-tennessee-agree-to-hand-over-controls-of-memphis-city-schools-to-shelby-county.md)
 No significant problems have been reported at the polls as Memphis residents vote to decide the fate of their city school system.&#xD;&#xA;
-
-### [The Ohio State University suspends head coach Jim Tressel and fines him $250,000 for failing to advise the NCAA of breaches of its rules and conduct by some star Ohio State players. ](/news/2011/03/8/the-ohio-state-university-suspends-head-coach-jim-tressel-and-fines-him-250-000-for-failing-to-advise-the-ncaa-of-breaches-of-its-rules-and.md)
-_Context: Jim Tressel, Ohio State University, head coach_
 
 ## [Previous Day...](/news/2011/03/7/index.md)
 

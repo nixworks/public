@@ -39,17 +39,5 @@ Nasa scientists are planning to capture a 500,000kg asteroid, relocate it and tr
 ### [Team members from the British Antarctic Survey temporarily abandon a project to drill through two miles of Antarctica's ice sheet to reach Lake Ellsworth due to problems linking boreholes in the ice. ](/news/2012/12/27/team-members-from-the-british-antarctic-survey-temporarily-abandon-a-project-to-drill-through-two-miles-of-antarctica-s-ice-sheet-to-reach-l.md)
 A UK project to drill through 3km of ice to reach a lake sequestered for thousands of years has been called off following problems with borehole drilling.
 
-### [In the Football League Championship, Norwegian manager Henning Berg is sacked as coach of Blackburn Rovers after only 57 days in the job. Also, Sean O'Driscoll is sacked as Nottingham Forest manager after five months in charge. ](/news/2012/12/27/in-the-football-league-championship-norwegian-manager-henning-berg-is-sacked-as-coach-of-blackburn-rovers-after-only-57-days-in-the-job-al.md)
-Championship club Blackburn Rovers sack manager Henning Berg after 10 matches and 57 days in charge at Ewood Park.
-
-### [Roland Duchatelet, owner of Standard Liege, warns that club will breakaway from the Belgian Pro League and join France's Ligue 1 if a new Belgian-Dutch league is not created. ](/news/2012/12/27/roland-duchac-telet-owner-of-standard-lia-ge-warns-that-club-will-breakaway-from-the-belgian-pro-league-and-join-france-s-ligue-1-if-a-new.md)
-_Context: Belgian, Belgian Pro League, Dutch, France, Ligue 1, Roland Duchatelet, Standard Liege_
-
-### [Colombian football player Radamel Falcao is awarded the 2012 Globe Soccer Awards. ](/news/2012/12/27/colombian-football-player-radamel-falcao-is-awarded-the-2012-globe-soccer-awards.md)
-_Context: Colombia, Globe Soccer Awards, Radamel Falcao, association football_
-
-### [Canada soccer international forward Christine Sinclair wins the 2012 Bobbie Rosenfeld Award given to the country's female athlete of the year. ](/news/2012/12/27/canada-soccer-international-forward-christine-sinclair-wins-the-2012-bobbie-rosenfeld-award-given-to-the-country-s-female-athlete-of-the-yea.md)
-The Burnaby, B.C., native earns the Bobbie Rosenfeld Award as The Canadian Press female athlete of 2012
-
 ## [Previous Day...](/news/2012/12/26/index.md)
 

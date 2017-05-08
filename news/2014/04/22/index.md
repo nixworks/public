@@ -30,14 +30,5 @@ MOSCOW (AP) — Russian opposition leader and anti-corruption crusader Alexei Na
 ### [The Health Minister of Saudi Arabia, Abdullah bin Abdulaziz Al Rabiah, is dismissed as the Middle East respiratory syndrome coronavirus rages in the nation, killing 81 people to date. ](/news/2014/04/22/the-health-minister-of-saudi-arabia-abdullah-bin-abdulaziz-al-rabiah-is-dismissed-as-the-middle-east-respiratory-syndrome-coronavirus-rage.md)
 As Saudi Arabia dismisses its health minister, the Mers virus death toll continues to rise.
 
-### [Manchester United manager David Moyes is fired and player-coach Ryan Giggs takes charge on an interim basis. Moyes' dismissal comes 10 months after he succeeded Sir Alex Ferguson. ](/news/2014/04/22/manchester-united-manager-david-moyes-is-fired-and-player-coach-ryan-giggs-takes-charge-on-an-interim-basis-moyes-dismissal-comes-10-month.md)
-_Context: David Moyes, Manchester United, Ryan Giggs, Sir Alex Ferguson, player-coach_
-
-### [Former American cycling team boss Johan Bruyneel is suspended for 10 years for his involvement in the Lance Armstrong doping scandal. ](/news/2014/04/22/former-american-cycling-team-boss-johan-bruyneel-is-suspended-for-10-years-for-his-involvement-in-the-lance-armstrong-doping-scandal.md)
-_Context: Johan Bruyneel, Lance Armstrong_
-
-### [Albert Pujols of the Los Angeles Angels becomes the 26th player in Major League Baseball history to hit 500 career home runs. ](/news/2014/04/22/albert-pujols-of-the-los-angeles-angels-becomes-the-26th-player-in-major-league-baseball-history-to-hit-500-career-home-runs.md)
-Albert Pujols has hit the 500th home run of his career, becoming the 26th player in major league history to reach that milestone.
-
 ## [Previous Day...](/news/2014/04/21/index.md)
 

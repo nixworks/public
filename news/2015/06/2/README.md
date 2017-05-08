@@ -36,11 +36,5 @@ Dias Kadyrbayev apologized to the bombing victims and their families at his sent
 ### [The United States Senate passes the USA Freedom Act, which will transfer the responsibility of Americans' bulk telephone metadata collection from the National Security Agency to telephone companies. ](/news/2015/06/2/the-united-states-senate-passes-the-usa-freedom-act-which-will-transfer-the-responsibility-of-americans-bulk-telephone-metadata-collection.md)
 Bulk collection of Americans’ phone records to end as US Senate passes USA Freedom Act
 
-### [Sepp Blatter announces that he will resign as President of FIFA as a result of the corruption scandals with an emergency congress to be called as soon as possible. ](/news/2015/06/2/sepp-blatter-announces-that-he-will-resign-as-president-of-fifa-as-a-result-of-the-corruption-scandals-with-an-emergency-congress-to-be-call.md)
-Sepp Blatter is to resign as president of Fifa amid a corruption scandal and is reportedly under investigation in the US.
-
-### [In Cricket, New Zealand beats England by 199 runs to draw the test series. ](/news/2015/06/2/in-cricket-new-zealand-beats-england-by-199-runs-to-draw-the-test-series.md)
-Follow live over-by-over commentary from day five of the second Test between England and New Zealand at Headingley on Tuesday, June 2
-
 ## [Previous Day...](/news/2015/06/1/index.md)
 

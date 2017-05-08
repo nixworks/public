@@ -48,23 +48,5 @@ The scale of the battering the Moon received early in its history is revealed in
 ### [The extinct reptile ''Nyasasaurus'' is described as the possible oldest known dinosaur from 243-million-year old fossils discovered in Tanzania. ](/news/2012/12/6/the-extinct-reptile-nyasasaurus-is-described-as-the-possible-oldest-known-dinosaur-from-243-million-year-old-fossils-discovered-in-tanza.md)
 Dinosaurs originated 15 million years earlier than previously thought.
 
-### [Four athletes who won medals at the 2004 Olympic Games in Athens are disqualified for doping. Ukraine's Yuriy Bilonoh will lose his gold medal in the shot put, while Belarus hammer thrower Ivan Tsikhan must return his silver. Two Athens bronze medalists, Russian shot putter Svetlana Krivelyova and discus thrower Irina Yatchenko of Belarus, are also affected by the IOC decision. No decision was taken on reallocating the medals yet. ](/news/2012/12/6/four-athletes-who-won-medals-at-the-2004-olympic-games-in-athens-are-disqualified-for-doping-ukraine-s-yuriy-bilonoh-will-lose-his-gold-med.md)
-Four 2004 Athens Olympic medallists have been stripped of their medals after testing positive for anabolic steroids.
-
-### [The 2012 FIFA Club World Cup begins today in Japan with a qualifying game between Sanfrecce Hiroshima and Auckland City FC. ](/news/2012/12/6/the-2012-fifa-club-world-cup-begins-today-in-japan-with-a-qualifying-game-between-sanfrecce-hiroshima-and-auckland-city-fc.md)
-_Context: 2012 FIFA Club World Cup, Auckland City FC, Japan, Sanfrecce Hiroshima_
-
-### [American professional basketball player Kobe Bryant becomes the fifth player in NBA history to reach 30,000 points. ](/news/2012/12/6/american-professional-basketball-player-kobe-bryant-becomes-the-fifth-player-in-nba-history-to-reach-30-000-points.md)
-Get a recap of the Los Angeles Lakers vs. New Orleans Hornets basketball game.
-
-### [UEFA announces Olympiastadion in Berlin will host the 2015 UEFA Champions League Final while Milan's San Siro will host the 2016 final. ](/news/2012/12/6/uefa-announces-olympiastadion-in-berlin-will-host-the-2015-uefa-champions-league-final-while-milan-s-san-siro-will-host-the-2016-final.md)
-_Context: Berlin, Milan, Milan, Italy, Olympic Stadium, UEFA, UEFA Champions League_
-
-### [Real Madrid star Cristiano Ronaldo is named the greatest Ibero-American athlete of last year. He receives the Ibero-American Community Trophy from Queen Sofia of Spain at the 2011 National Awards ceremony held at the Royal Palace of El Pardo near Madrid, Spain. ](/news/2012/12/6/real-madrid-star-cristiano-ronaldo-is-named-the-greatest-ibero-american-athlete-of-last-year-he-receives-the-ibero-american-community-troph.md)
-See all the latest Real Madrid news about the football team including all the games, training, signings, and everything else on the Official Real Madrid Website. 
-
-### [UEFA announces Euro 2020 final tournament will be staged across the continent in various major cities throughout Europe. ](/news/2012/12/6/uefa-announces-euro-2020-final-tournament-will-be-staged-across-the-continent-in-various-major-cities-throughout-europe.md)
-_Context: Euro 2020, Europe, UEFA_
-
 ## [Previous Day...](/news/2012/12/5/index.md)
 

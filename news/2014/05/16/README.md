@@ -36,8 +36,5 @@ _Context: Bharatiya Janata Party, Indian National Congress, Indian general elect
 ### [Dr. Robert Petzel resigns as the US Under Secretary of Veterans Affairs for Health following a scandal over long waits for care, treatment delays, and falsification of records at VA hospitals. ](/news/2014/05/16/dr-robert-petzel-resigns-as-the-us-under-secretary-of-veterans-affairs-for-health-following-a-scandal-over-long-waits-for-care-treatment-d.md)
 The Obama administration, battling to tamp down yet another scandal, announced the resignation Friday afternoon of a top Veterans Affairs official amid mounting questions over patient deaths possibly tied to delayed care.
 
-### [In association football, Paris Saint-Germain F.C. and Manchester City F.C. are fined EUR60 million by UEFA for breaches of the Fair Play regulations. ](/news/2014/05/16/in-association-football-paris-saint-germain-f-c-and-manchester-city-f-c-are-fined-a-60-million-by-uefa-for-breaches-of-the-fair-play-reg.md)
-_Context: Fair Play regulations, Manchester City, Paris Saint-Germain F.C., UEFA, association football_
-
 ## [Previous Day...](/news/2014/05/15/index.md)
 

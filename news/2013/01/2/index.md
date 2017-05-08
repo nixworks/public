@@ -36,8 +36,5 @@ _Context: American Taxpayer Relief Act of 2012, Obama, President, fiscal cliff_
 ### [U.S. Secretary of State Hillary Clinton is discharged from the NewYork-Presbyterian Hospital after being treated for a blood clot. ](/news/2013/01/2/u-s-secretary-of-state-hillary-clinton-is-discharged-from-the-newyorkapresbyterian-hospital-after-being-treated-for-a-blood-clot.md)
 _Context: Hillary Clinton, NewYork-Presbyterian Hospital, United States Secretary of State, blood clot_
 
-### [American football linebacker Ray Lewis announces he will retire at the end of the 2012 NFL season. ](/news/2013/01/2/american-football-linebacker-ray-lewis-announces-he-will-retire-at-the-end-of-the-2012-nfl-season.md)
-Baltimore Ravens linebacker Ray Lewis said Wednesday he plans to retire as the end of this season.
-
 ## [Previous Day...](/news/2013/01/1/index.md)
 

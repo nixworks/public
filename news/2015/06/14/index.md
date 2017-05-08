@@ -30,8 +30,5 @@ Two of Hong Kong’s top lawmakers said a China-backed plan for the city’s fir
 ### [The European Space Agency's ''Philae'' spacecraft wakes up after six months in hibernation as comet 67P/Churyumov-Gerasimenko gets closer to the sun. ](/news/2015/06/14/the-european-space-agency-s-philae-spacecraft-wakes-up-after-six-months-in-hibernation-as-comet-67p-churyumovagerasimenko-gets-closer.md)
 The European Space Agency says its comet lander, Philae, has woken up and contacted Earth, seven months after it lost power.
 
-### [In motor sport, the Porsche 19 team of Earl Bamber, Nick Tandy and Nico Hulkenberg wins the 2015 24 Hours of Le Mans. ](/news/2015/06/14/in-motor-sport-the-porsche-19-team-of-earl-bamber-nick-tandy-and-nico-hulkenberg-wins-the-2015-24-hours-of-le-mans.md)
-_Context: 2015 24 Hours of Le Mans, Earl Bamber, Nick Tandy, Nico Hulkenberg, Porsche_
-
 ## [Previous Day...](/news/2015/06/13/index.md)
 

@@ -10,7 +10,7 @@ _Context: Alpha Conde's, Conakry, Guinea, President_
 _Context: South Kordofan, Sudan, United Nations, conflict, war crime_
 
 ### [War in North-West Pakistan:Eight Pakistani employees of the United States based American Refugee Committee are kidnapped in southwest Pakistan near the border with Afghanistan. ](/news/2011/07/19/war-in-north-west-pakistan-peight-pakistani-employees-of-the-united-states-based-american-refugee-committee-are-kidnapped-in-southwest-pakis.md)
-_Context: Afghanistan, American Refugee Committee, Pakistan, U.S., War in North-West Pakistan_
+_Context: Afghanistan, American Refugee Committee, Pakistan, United States, War in North-West Pakistan_
 
 ### [Israel's navy confiscates a French yacht bound for Gaza, which departed from Greece and attempted to run the blockade after repeated warnings to make for Ashdod instead.  No casualties are reported. ](/news/2011/07/19/israel-s-navy-confiscates-a-french-yacht-bound-for-gaza-which-departed-from-greece-and-attempted-to-run-the-blockade-after-repeated-warning.md)
 _Context: Ashdod, France, Gaza Strip, Greece, Israeli Navy, blockade_
@@ -52,7 +52,7 @@ The balloting in the Green Bay area will be a first definitive outcome in the se
 An ambitious plan to slice $3.7 trillion from the federal budget over the next decade was gaining momentum in the Senate Tuesday.
 
 ### [The United States House of Representatives votes to approve the "Cut, Cap and Balance Act" by 234-190 but it is unlikely to pass the United States Senate. ](/news/2011/07/19/the-united-states-house-of-representatives-votes-to-approve-the-cut-cap-and-balance-act-by-234-190-but-it-is-unlikely-to-pass-the-united.md)
-_Context: United States House of Representatives, senators_
+_Context: United States House of Representatives, United States senators_
 
 ### [Pope Benedict XVI appoints Charles J. Chaput, the current Archbishop of Denver, as the head of the Roman Catholic Archdiocese of Philadelphia replacing Cardinal Justin Rigali. ](/news/2011/07/19/pope-benedict-xvi-appoints-charles-j-chaput-the-current-archbishop-of-denver-as-the-head-of-the-roman-catholic-archdiocese-of-philadelphi.md)
 _Context: Archbishop, Benedict XVI, Cardinal, Charles J. Chaput, Denver, Colorado, Justin Rigali, Roman Catholic Archdiocese of Philadelphia_
@@ -62,9 +62,6 @@ _Context: Iran, nuclear centrifuge, uranium enrichment_
 
 ### [The Space Shuttle Atlantis undocks from the International Space Station for the final time in the history of the space shuttle program. ](/news/2011/07/19/the-space-shuttle-atlantis-undocks-from-the-international-space-station-for-the-final-time-in-the-history-of-the-space-shuttle-program.md)
 NASA&#039;s space shuttle fleet began setting records with its first launch on April 12, 1981 and continued to set high marks of achievement and endurance through 30 years of missions.
-
-### [The Japan women's national football team returns home to be greeted by thousands of fans after winning the 2011 FIFA Women's World Cup. ](/news/2011/07/19/the-japan-women-s-national-football-team-returns-home-to-be-greeted-by-thousands-of-fans-after-winning-the-2011-fifa-women-s-world-cup.md)
-_Context: 2011 FIFA Women's World Cup, Japan women's national football team_
 
 ## [Previous Day...](/news/2011/07/18/index.md)
 

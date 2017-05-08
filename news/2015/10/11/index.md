@@ -39,8 +39,5 @@ _Context: Alexander Lukashenko, Belarusian presidential election, 2015, Belaruss
 ### [Millions of Guineans vote peacefully in the West African country's second free election since gaining independence from France nearly 60 years ago. Ballot counting started;  the provisional outcome is not expected until the end of this week, an official said. Incumbent President Alpha Conde is expected to win reelection. ](/news/2015/10/11/millions-of-guineans-vote-peacefully-in-the-west-african-country-s-second-free-election-since-gaining-independence-from-france-nearly-60-yea.md)
 The country&#39;s constitutional court has ruled out postponing Sunday&#39;s election despite calls from opposition parties. Incumbent Alpha Conde faces challenges from six other hopefuls but is likely to retain the top job.
 
-### [In motor sport, Australian driver Craig Lowndes wins the 2015 Supercheap Auto Bathurst 1000 for the sixth time. He also appeared on the podium for the 13th time, setting a new record for the event. ](/news/2015/10/11/in-motor-sport-australian-driver-craig-lowndes-wins-the-2015-supercheap-auto-bathurst-1000-for-the-sixth-time-he-also-appeared-on-the-podi.md)
-_Context: 2015 Supercheap Auto Bathurst 1000, Bathurst 1000, Craig Lowndes_
-
 ## [Previous Day...](/news/2015/10/10/index.md)
 

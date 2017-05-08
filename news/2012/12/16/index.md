@@ -39,26 +39,5 @@ President Hugo Chavez&#039;s allies have won a sweeping victory in Venezuela&#03
 ### [Scientists report Chinese deep-space probe Chang'e 2 successfully took a series of images of the asteroid 4179 Toutatis during flyby on 13 December. ](/news/2012/12/16/scientists-report-chinese-deep-space-probe-chang-e-2-successfully-took-a-series-of-images-of-the-asteroid-4179-toutatis-during-flyby-on-13-d.md)
 The closest fly-by was at 08:30:09 UTC on December 13 at an altitude of just 3.2 km and at a relative velocity of 10.73 km/s. Quite a few photos were snapped by the CCD camera - including this series of photos taken 93 - 240 km away from Toutatis:
 
-### [Brazil football club Corinthians wins the 2012 FIFA Club World Cup, after a 1-0 win over Chelsea in the final. Paolo Guerrero scored the only goal of the game in Yokohama, Japan. Brazilian player Cassio Ramos is named as MVP of the tournament. ](/news/2012/12/16/brazil-football-club-corinthians-wins-the-2012-fifa-club-world-cup-after-a-1a0-win-over-chelsea-in-the-final-paolo-guerrero-scored-the-o.md)
-_Context: 2012 FIFA Club World Cup, Brazil, Cassio Ramos, Chelsea F.C., Corinthians, Japan, MVP, Paolo Guerrero, Yokohama, association football, final_
-
-### [Bundesliga football club Schalke 04 sacks coach Huub Stevens following their 1-3 loss to Freiburg in the 2012-2013 season game. ](/news/2012/12/16/bundesliga-football-club-schalke-04-sacks-coach-huub-stevens-following-their-1a3-loss-to-freiburg-in-the-2012a2013-season-game.md)
-The official site of the international governing body of football with news, national associations, competitions, results, fixtures, development, organisation, world rankings, statistics, the International Football Association Board, history, laws of the game, futsal, publications, downloads, and contact details.
-
-### [French racing driver Romain Grosjean wins the 2012 Race of Champions with a 2-0 victory over Tom Kristensen in the final in Bangkok, Thailand. ](/news/2012/12/16/french-racing-driver-romain-grosjean-wins-the-2012-race-of-champions-with-a-2a0-victory-over-tom-kristensen-in-the-final-in-bangkok-thail.md)
-_Context: 2012 Race of Champions, Bangkok, France, Romain Grosjean, Thailand, Tom Kristensen, racing driver_
-
-### [In handball, Montenegro beats Norway 34-31 after double overtime in a thriller final of the 2012 European Women's Handball Championship in  Belgrade, Serbia. ](/news/2012/12/16/in-handball-montenegro-beats-norway-34a31-after-double-overtime-in-a-thriller-final-of-the-2012-european-women-s-handball-championship-in.md)
-_Context: 2012 European Women's Handball Championship, Belgrade, Montenegro, Norway, Serbia, overtime, team handball_
-
-### [In ice hockey, Russia wins the 2012 Channel One Cup, the Moscow stage of Euro Hockey Tour, ahead of Sweden, Finland and Czech Republic. ](/news/2012/12/16/in-ice-hockey-russia-wins-the-2012-channel-one-cup-the-moscow-stage-of-euro-hockey-tour-ahead-of-sweden-finland-and-czech-republic.md)
-_Context: Channel One Cup, Czech Republic, Euro Hockey Tour, Finland, Moscow, Russia, Sweden, ice hockey_
-
-### [In swimming, American swimmer Ryan Lochte with eight medals (six gold, one silver, one bronze) and two world records becomes the main hero of the 2012 FINA World Swimming Championships (25 m) in a short course that ended in Turkey's Istanbul. ](/news/2012/12/16/in-swimming-american-swimmer-ryan-lochte-with-eight-medals-six-gold-one-silver-one-bronze-and-two-world-records-becomes-the-main-hero-o.md)
-_Context: 2012 FINA World Swimming Championships (25 m), American, Istanbul, Ryan Lochte, Turkey, short course, swimmer, world records_
-
-### [British professional racing cyclist Bradley Wiggins wins the 2012 BBC Sports Personality of the Year Award ahead of track and field athlete Jessica Ennis and tennis player Andy Murray. ](/news/2012/12/16/british-professional-racing-cyclist-bradley-wiggins-wins-the-2012-bbc-sports-personality-of-the-year-award-ahead-of-track-and-field-athlete.md)
-Olympic gold medallist and Tour de France winner Bradley Wiggins is voted the 2012 BBC Sports Personality of the Year.
-
 ## [Previous Day...](/news/2012/12/15/index.md)
 

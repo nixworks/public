@@ -13,7 +13,7 @@ Tens of thousands of people across Indian-administered Kashmir join protests aga
 Director Sofia Coppola has taken the top prize at the Venice Film Festival for her fourth film, Somewhere.
 
 ### [US actor Kevin McCarthy best known for his roles in ''Invasion of the Body Snatchers'' and ''Death of a Salesman'' dies. ](/news/2010/09/11/us-actor-kevin-mccarthy-best-known-for-his-roles-in-invasion-of-the-body-snatchers-and-death-of-a-salesman-dies.md)
-_Context: Death of a Salesman, Invasion of the Body Snatchers, Kevin McCarthy, U.S._
+_Context: Death of a Salesman, Invasion of the Body Snatchers, Kevin McCarthy, United States_
 
 ### [Greek protests against austerity:Police tear gas people in Thessaloniki as tens of thousands of people protest against Prime Minister George Papandreou's austerity plans. ](/news/2010/09/11/greek-protests-against-austerity-ppolice-tear-gas-people-in-thessaloniki-as-tens-of-thousands-of-people-protest-against-prime-minister-georg.md)
 Greek unions stage mass protests in Thessaloniki but Prime Minister George Papandreou says he will not scale back his austerity plans.
@@ -37,7 +37,7 @@ Mexico said Thursday it is experiencing its worst rainy season on record and the
 A moderate 5.9-magnitude earthquake struck Indonesia&#039;s North Maluku province, the meteorology and geophysics agency said, but no tsunami warning was issued.
 
 ### [The death toll rises to 6 from the pipeline explosion in San Bruno, California near the U.S. city of San Francisco. ](/news/2010/09/11/the-death-toll-rises-to-6-from-the-pipeline-explosion-in-san-bruno-california-near-the-u-s-city-of-san-francisco.md)
-_Context: California, San Bruno, San Francisco, California, U.S., pipeline explosion_
+_Context: California, San Bruno, San Francisco, California, United States, pipeline explosion_
 
 ### [Four people are dead and twenty-five people are hospitalised after a Coach USA Megabus crashes into a railroad overpass in Salina, New York. ](/news/2010/09/11/four-people-are-dead-and-twenty-five-people-are-hospitalised-after-a-coach-usa-megabus-crashes-into-a-railroad-overpass-in-salina-new-york.md)
 _Context: Coach USA, Megabus, New York, Salina, overpass, railroad_
@@ -77,12 +77,6 @@ Remembrance ceremonies, marred by tensions over a pastor&#039;s threat to burn t
 
 ### [2010 Qur'an-burning controversy:Thousands of Afghans protest in Badakhshan province over U.S. plans to hold an "International Burn-a-Koran Day", despite its cancellation. ](/news/2010/09/11/2010-qur-an-burning-controversy-pthousands-of-afghans-protest-in-badakhshan-province-over-u-s-plans-to-hold-an-international-burn-a-koran.md)
 E-ALAM, Afghanistan (Reuters) - Protestors clashed with Afghan security forces on Saturday, as thousands of Afghans demonstrated for a second day, despite a U.S. pastor suspending plans to burn copies of the Koran, officials said.
-
-### [The 3 Pakistan national cricket team members alleged to have spot fixed by the UK's ''News of the World'' tabloid arrive back in Pakistan; they deny any involvement. ](/news/2010/09/11/the-3-pakistan-national-cricket-team-members-alleged-to-have-spot-fixed-by-the-uk-s-news-of-the-world-tabloid-arrive-back-in-pakistan-t.md)
- Players avoid crowds and leave airport by the back door
-
-### [Kim Clijsters of Belgium wins her second successive US Open championship, defeating Russia's Vera Zvonareva 6-2 6-1. ](/news/2010/09/11/kim-clijsters-of-belgium-wins-her-second-successive-us-open-championship-defeating-russia-s-vera-zvonareva-6-2-6-1.md)
-_Context: Belgium, Kim Clijsters, Russia, US Open (tennis), Vera Zvonareva_
 
 ## [Previous Day...](/news/2010/09/10/index.md)
 

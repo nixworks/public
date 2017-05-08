@@ -24,11 +24,5 @@ Australian Prime Minister Malcolm Turnbull declared victory on Sunday in a marat
 ### [Shooting of Alton Sterling and Protests continue in multiple cities across the United States following the death of two black men by police. Numerous confrontations and arrests have been reported. ](/news/2016/07/10/shooting-of-alton-sterling-and-protests-continue-in-multiple-cities-across-the-united-states-following-the-death-of-two-black-men-by-police.md)
 Protests against the shootings of two black men by police officers shut down main arteries in a number of U.S. cities on Saturday, leading to numerous arrests, scuffles and injuries in confrontations between police and demonstrators.
 
-### [In tennis, Andy Murray of Scotland defeats Canadian Milos Raonic in the finals of the men's singles to win his second Wimbledon championship. It is the first time that a men's Wimbledon final has not featured Roger Federer, Rafael Nadal or Novak Djokovic since 2002. ](/news/2016/07/10/in-tennis-andy-murray-of-scotland-defeats-canadian-milos-raonic-in-the-finals-of-the-men-s-singles-to-win-his-second-wimbledon-championship.md)
-_Context: 2016 Wimbledon Championships - Men's Singles, Andy Murray, Canada, Milos Raonic, Novak Djokovic, Rafael Nadal, Roger Federer, Scotland, tennis_
-
-### [In football, host nation France plays against Portugal for the 2016 UEFA European Championship at the Stade de France in Saint-Denis.  Portugal wins 1-0 with an Eder goal in extra time. ](/news/2016/07/10/in-football-host-nation-france-plays-against-portugal-for-the-2016-uefa-european-championship-at-the-stade-de-france-in-saint-denis-portu.md)
-Europe&#39;s football website, UEFA.com, is the official site of UEFA, the Union of European Football Associations, and the governing body of football in Europe. UEFA organises some of the most famous and prestigious football competitions on the European continent including the UEFA Champions League, the UEFA Europa League and the UEFA European Football Championship (UEFA EURO 2012, UEFA EURO 2016 etc). The website features live video streaming of many UEFA competitions together with an extensive video archive and mobile service. In addition, there is coverage of the 54 national association domestic leagues, the route to UEFA&#39;s club competitions.
-
 ## [Previous Day...](/news/2016/07/9/index.md)
 

@@ -1,7 +1,7 @@
 ## [2009-03-17](/news/2009/03/17/index.md)
 
 ### [ The New Jersey Devils' Martin Brodeur passes Patrick Roy to becomes the National Hockey League's winningest goaltender. ](/news/2009/03/17/the-new-jersey-devils-martin-brodeur-passes-patrick-roy-to-becomes-the-national-hockey-league-s-winningest-goaltender.md)
-_Context: Martin Brodeur, NHL, New Jersey Devils, Patrick Roy, goaltender_
+_Context: Martin Brodeur, National Hockey League, New Jersey Devils, Patrick Roy, goaltender_
 
 ### [ Luxembourg becomes the European Union's third country to legalize euthanasia. ](/news/2009/03/17/luxembourg-becomes-the-european-union-s-third-country-to-legalize-euthanasia.md)
 _Context: European Union, Luxembourg, euthanasia_
@@ -25,7 +25,7 @@ _Context: Arkhangelsk Oblast, European Space Agency, Goce, Plesetsk Cosmodrome, 
 _Context: Coahuila, Mexico, Saltillo, car accident_
 
 ### [ Saint Patrick's Day: United States President Barack Obama meets Irish Taoiseach Brian Cowen and Northern Irish First Minister Peter Robinson and Deputy First Minister Martin McGuinness at the White House. ](/news/2009/03/17/saint-patrick-s-day-p-united-states-president-barack-obama-meets-irish-taoiseach-brian-cowen-and-northern-irish-first-minister-peter-robins.md)
-_Context: Brian Cowen, Martin McGuinness, Northern Ireland, Obama, Peter Robinson, President, Republic of Ireland, Saint Patrick's Day, Taoiseach, U.S., White House, deputy First Minister of Northern Ireland_
+_Context: Brian Cowen, Martin McGuinness, Northern Ireland, Obama, Peter Robinson, President, Republic of Ireland, Saint Patrick's Day, Taoiseach, United States, White House, deputy First Minister of Northern Ireland_
 
 ## [Previous Day...](/news/2009/03/16/index.md)
 

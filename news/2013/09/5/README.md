@@ -24,8 +24,5 @@ _Context: Adolf Hitler, Fuhrerbunker, Rochus Misch_
 ### [The new Iranian Foreign Minister Mohammad-Javad Zarif says Iran doesn't deny the Holocaust. "The man who was perceived to be denying it is now gone. Happy New Year," he adds. ](/news/2013/09/5/the-new-iranian-foreign-minister-mohammad-javad-zarif-says-iran-doesn-t-deny-the-holocaust-the-man-who-was-perceived-to-be-denying-it-is-n.md)
 Iran&#039;s new U.S.-educated Foreign Minister offers latest indication of rapprochement
 
-### [US Open in tennis:In the men's singles quarterfinals, defending champion Andy Murray is beaten in straight sets by Stanislas Wawrinka 6-4, 6-3, 6-2. ](/news/2013/09/5/us-open-in-tennis-pin-the-men-s-singles-quarterfinals-defending-champion-andy-murray-is-beaten-in-straight-sets-by-stanislas-wawrinka-6a4.md)
-_Context: Andy Murray, Stanislas Wawrinka, US Open, defending champion, men's singles, tennis_
-
 ## [Previous Day...](/news/2013/09/4/index.md)
 

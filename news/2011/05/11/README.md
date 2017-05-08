@@ -34,7 +34,7 @@ WikiLeaks founder Julian Assange is given an award by the Sydney Peace Foundatio
 A US report says 48 women and girls are raped every hour in DR Congo, a rate significantly higher than a previous UN estimate.
 
 ### [The trial of United States citizens Josh Fattal and Shane Bauer in Tehran, Iran, on espionage charges is again delayed. ](/news/2011/05/11/the-trial-of-united-states-citizens-josh-fattal-and-shane-bauer-in-tehran-iran-on-espionage-charges-is-again-delayed.md)
-_Context: Iran, Josh Fattal and Shane Bauer, Tehran, U.S., espionage_
+_Context: Iran, Josh Fattal and Shane Bauer, Tehran, United States, espionage_
 
 ### [The Supreme Court of India dismisses a government petition for seven people convicted for their role in the Bhopal disaster in 1984 to receive tougher sentences. ](/news/2011/05/11/the-supreme-court-of-india-dismisses-a-government-petition-for-seven-people-convicted-for-their-role-in-the-bhopal-disaster-in-1984-to-recei.md)
 _Context: Bhopal disaster, Government of India, Indian Supreme Court_
@@ -49,7 +49,7 @@ _Context: John Hinckley Jr, President, Ronald Reagan, Washington DC, shot by Joh
 The suspects, whom a law enforcement official characterized as “homegrown,” intended to carry out a terrorist attack in New York City, law enforcement officials said.
 
 ### [John Clark Wilson is arrested in Edinburgh, Scotland, during a high-profile Hearts v Celtic tie in the SPL; the 26-year-old Hearts fan invaded the pitch and attempted to attack Celtic manager Neil Lennon. He is charged with breach of the peace and assault. ](/news/2011/05/11/john-clark-wilson-is-arrested-in-edinburgh-scotland-during-a-high-profile-hearts-v-celtic-tie-in-the-spl-the-26-year-old-hearts-fan-invad.md)
-_Context: Celtic, Edinburgh, Hearts, Neil Lennon, Scotland, Scottish Premier League_
+_Context: Celtic, Edinburgh, Hearts, Neil Lennon, SPL, Scotland_
 
 ### [President Manny Mori and Vice President Alik Alik are re-elected to a second term in the Federated States of Micronesia. ](/news/2011/05/11/president-manny-mori-and-vice-president-alik-alik-are-re-elected-to-a-second-term-in-the-federated-states-of-micronesia.md)
 _Context: Alik Alik, Federated States of Micronesia, Manny Mori, President, Vice President, re-elected to a second term_
@@ -77,12 +77,6 @@ The government suffers a surprise defeat in the House of Lords over plans for di
 
 ### [Silvana Koch-Mehrin, Vice President of the European Parliament, resigns amid claims that she plagiarised her doctoral thesis. ](/news/2011/05/11/silvana-koch-mehrin-vice-president-of-the-european-parliament-resigns-amid-claims-that-she-plagiarised-her-doctoral-thesis.md)
 Silvana Koch-Mehrin resigns as vice-president of the European Parliament - a second senior German politician to have fallen victim to plagiarism claims.
-
-### [The Nepalese Sherpa Apa Sherpa climbs Mount Everest for a record 21st time. ](/news/2011/05/11/the-nepalese-sherpa-apa-sherpa-climbs-mount-everest-for-a-record-21st-time.md)
-_Context: Apa Sherpa, Mount Everest, Nepalese, Sherpa_
-
-### [The Miami Heat beat the Boston Celtics 97-87 to go through to the Eastern Conference Final in the US National Basketball Association. ](/news/2011/05/11/the-miami-heat-beat-the-boston-celtics-97-87-to-go-through-to-the-eastern-conference-final-in-the-us-national-basketball-association.md)
-_Context: Boston Celtics, Eastern Conference, Miami Heat, NBA_
 
 ## [Previous Day...](/news/2011/05/10/index.md)
 

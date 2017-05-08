@@ -34,7 +34,7 @@ _Context: China's, January, trade surplus_
 An Ecuadorean lawyer for theplaintiffs said on Monday that a court in the Amazon city of LagoAgrio had ordered U.S. oil giant Chevron (CVX.N) to pay more than$8 billion in environmental damages.
 
 ### [General Motors announces that it will pay its United States hourly workers more than $4000 each as a share of profits. ](/news/2011/02/14/general-motors-announces-that-it-will-pay-its-united-states-hourly-workers-more-than-4000-each-as-a-share-of-profits.md)
-_Context: General Motors, U.S., hourly worker, profit_
+_Context: General Motors, United States, hourly worker, profit_
 
 ### [Eurozone finance ministers agree to set up a permanent bail-out fund of EUR500 billion - the European Stability Mechanism (ESM). This replaces the European Financial Stability Facility (EFSF). ](/news/2011/02/14/eurozone-finance-ministers-agree-to-set-up-a-permanent-bail-out-fund-of-a-500-billion-the-european-stability-mechanism-esm-this-replac.md)
 Eurozone leaders agree to set up a new bail-out fund of 500bn euros - almost double the current amount that can be lent.
@@ -86,12 +86,6 @@ The House of Representatives Monday night approved a nine-month extension of the
 
 ### [Monarch butterfly colonies in Mexico more than double in size after bad storms reduced their numbers a year ago. ](/news/2011/02/14/monarch-butterfly-colonies-in-mexico-more-than-double-in-size-after-bad-storms-reduced-their-numbers-a-year-ago.md)
 Monarch butterfly colonies in Mexico more than doubled in size this winter after bad storms devastated their numbers a year ago, conservationists said on Monday although the migrating insect remains under threat.
-
-### [In soccer, Brazilian media reports that Brazil national football team star Ronaldo is to retire at the age of 34. ](/news/2011/02/14/in-soccer-brazilian-media-reports-that-brazil-national-football-team-star-ronaldo-is-to-retire-at-the-age-of-34.md)
-Striker quits football at the age of 34 to leave the legacy of a brilliant but sporadic career for club and country.
-
-### [In golf, Tiger Woods is fined after being caught spitting on the course during the Dubai Desert Classic. ](/news/2011/02/14/in-golf-tiger-woods-is-fined-after-being-caught-spitting-on-the-course-during-the-dubai-desert-classic.md)
-World number three apologises after being caught on television spitting on course during Dubai Desert Classic.
 
 ## [Previous Day...](/news/2011/02/13/index.md)
 

@@ -39,11 +39,5 @@ Government says that all is calm in capital Asmara a day after dissident soldier
 ### [An ancient human fossil in China is found to be closely related to both Asian and Native American peoples. ](/news/2013/01/22/an-ancient-human-fossil-in-china-is-found-to-be-closely-related-to-both-asian-and-native-american-peoples.md)
 Researchers have been able to trace a line between some of the earliest modern humans to settled China and people living in the region today.
 
-### [In association football, Dutch midfielder Wesley Sneijder completes his move from Inter Milan to Galatasaray. ](/news/2013/01/22/in-association-football-dutch-midfielder-wesley-sneijder-completes-his-move-from-inter-milan-to-galatasaray.md)
-_Context: Galatasaray S.K., Inter Milan, Netherlands, Wesley Sneijder, association football_
-
-### [Shakhtar Donetsk wins 2013 Super Cup of Champions defeating Zenit St. Petersburg in Abu Dhabi, UAE. ](/news/2013/01/22/shakhtar-donetsk-wins-2013-super-cup-of-champions-defeating-zenit-st-petersburg-in-abu-dhabi-uae.md)
-_Context: Abu Dhabi, Shakhtar Donetsk, UAE, Zenit St. Petersburg_
-
 ## [Previous Day...](/news/2013/01/21/index.md)
 

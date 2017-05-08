@@ -4,7 +4,7 @@
 At least 30 people were killed in heavy fighting between police and Muslim rebels in the Philippines on Sunday, military and local officials said, threatening a year-old peace agreement and shattering a ceasefire that held for three years.
 
 ### [The Miss Universe pageant crowns Miss Colombia Paulina Vega in Miami, Florida. ](/news/2015/01/25/the-miss-universe-pageant-crowns-miss-colombia-paulina-vega-in-miami-florida.md)
-_Context: FL, Miami, Miss Colombia, Miss Universe, Paulina Vega, crowns_
+_Context: Florida, Miami, Miss Colombia, Miss Universe, Paulina Vega, crowns_
 
 ### [A massive blackout strikes Pakistan, leaving as much as 80 percent of the country without electricity at its height as officials rush to restore power. ](/news/2015/01/25/a-massive-blackout-strikes-pakistan-leaving-as-much-as-80-percent-of-the-country-without-electricity-at-its-height-as-officials-rush-to-res.md)
 _Context: Pakistan_

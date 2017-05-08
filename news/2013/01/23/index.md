@@ -33,14 +33,5 @@ US Defence Secretary Leon Panetta lifts a ban on women in combat, potentially op
 ### [A parliamentary election is held in Jordan with boycotting by the opposition, which alleges fraud. ](/news/2013/01/23/a-parliamentary-election-is-held-in-jordan-with-boycotting-by-the-opposition-which-alleges-fraud.md)
 _Context: Jordan, parliamentary election_
 
-### [Bradford City are scheduled to play Swansea City in the 2012-13 Football League Cup Final after their respective defeats of Aston Villa and Chelsea in the semifinals. ](/news/2013/01/23/bradford-city-are-scheduled-to-play-swansea-city-in-the-2012a13-football-league-cup-final-after-their-respective-defeats-of-aston-villa-an.md)
-Swansea reach the Capital One Cup final with a 2-0 aggregate win over Chelsea, who have Eden Hazard sent off for kicking a ball boy.
-
-### [European champions Chelsea are defeated by Swansea City after a 0-0 draw in the second semifinal match; the game is marred by an incident involving Chelsea midfielder Eden Hazard, who is sent off after violently kicking a ball boy in the midriff during the game. ](/news/2013/01/23/european-champions-chelsea-are-defeated-by-swansea-city-after-a-0a0-draw-in-the-second-semifinal-match-the-game-is-marred-by-an-incident.md)
-As the FA investigates the Chelsea star&#039;s kick, details emerge of the privileged &quot;hustler&quot; lifestyle of ballboy Charlie Morgan.
-
-### [Ferencvarosi TC, football club from Hungary, wins 2013 Football Impact Cup in Marbella, Spain. ](/news/2013/01/23/ferencva-rosi-tc-football-club-from-hungary-wins-2013-football-impact-cup-in-marbella-spain.md)
-_Context: 2013 Football Impact Cup, Ferencvarosi TC, Hungary, Marbella, Spain, association football_
-
 ## [Previous Day...](/news/2013/01/22/index.md)
 

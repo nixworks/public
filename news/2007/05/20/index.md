@@ -1,7 +1,7 @@
 ## [2007-05-20](/news/2007/05/20/index.md)
 
 ### [ Alltel, a mobile phone provider in the United States, is acquired by TPG Capital, L.P. and Goldman Sachs leveraged-buyout unit. ](/news/2007/05/20/alltel-a-mobile-phone-provider-in-the-united-states-is-acquired-by-tpg-capital-l-p-and-goldman-sachs-leveraged-buyout-unit.md)
-_Context: Alltel, Goldman Sachs, TPG Capital, L.P., U.S., mobile phone_
+_Context: Alltel, Goldman Sachs, TPG Capital, L.P., United States, mobile phone_
 
 ### [ A suicide bomber kills at least 10 people and injures 32 people in Gardez, the capital of Afghanistan's Paktia Province. ](/news/2007/05/20/a-suicide-bomber-kills-at-least-10-people-and-injures-32-people-in-gardez-the-capital-of-afghanistan-s-paktia-province.md)
 The attack came a day after another suicide bombing killed nine people, among them three German soldiers in the northern province of Kunduz.
@@ -28,7 +28,7 @@ _Context: Battle of Nahr al-Bared, Fatah al-Islam, Lebanon, Nahr al-Bared, Tripo
 _Context: David Hicks, Guantanamo Bay, South Australia, Yatala Labour Prison_
 
 ### [ Romrio scores his 1000th goal for Vasco da Gama by penalty kick against Sport Recife. He is only the second player in the history of professional soccer to achieve this, the first being Pel in 1969. ](/news/2007/05/20/romario-scores-his-1000th-goal-for-vasco-da-gama-by-penalty-kick-against-sport-recife-he-is-only-the-second-player-in-the-history-of-profe.md)
-_Context: 1969, Pel, Romrio, Sport Recife, Vasco da Gama, football, goal, penalty kick_
+_Context: 1969, Pel, Romrio, Sport Recife, Vasco da Gama, goal, penalty kick, soccer_
 
 ## [Previous Day...](/news/2007/05/19/index.md)
 

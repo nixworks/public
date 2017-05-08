@@ -36,8 +36,5 @@ _Context: Emil Boc, Prime Minister of Romania, Romania, major social and politic
 ### [The BBC reports that rival Palestinian factions have agreed to form a government led by President Mahmoud Abbas ahead of elections. ](/news/2012/02/6/the-bbc-reports-that-rival-palestinian-factions-have-agreed-to-form-a-government-led-by-president-mahmoud-abbas-ahead-of-elections.md)
 Palestinian leader Mahmoud Abbas says he will head a unity government between Hamas and Fatah ahead of elections in the West Bank and Gaza.
 
-### [In cycling, the Court of Arbitration for Sport bans Spanish rider Alberto Contador for two years for doping and strips him of championships including the 2010 Tour de France. ](/news/2012/02/6/in-cycling-the-court-of-arbitration-for-sport-bans-spanish-rider-alberto-contador-for-two-years-for-doping-and-strips-him-of-championships.md)
-_Context: 2010 Tour de France, Alberto Contador, Court of Arbitration for Sport, Spanish politicians, cycling_
-
 ## [Previous Day...](/news/2012/02/5/index.md)
 

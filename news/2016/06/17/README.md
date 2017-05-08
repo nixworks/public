@@ -24,8 +24,5 @@ A fast-moving fire in Santa Barbara County more than tripled in size Friday as s
 ### [A court in India sentences dozens of people to prison, some of them for life, for their roles in riots that killed 69 Muslims in the city of Ahmedabad in 2002. ](/news/2016/06/17/a-court-in-india-sentences-dozens-of-people-to-prison-some-of-them-for-life-for-their-roles-in-riots-that-killed-69-muslims-in-the-city-of.md)
 A court in India sentences 11 people to life in prison for their roles in a notorious massacre during the 2002 anti-Muslim riots in Gujarat.
 
-### [The International Olympic Committee (IOC) upholds its ban on Russian track and field athletes participating in the 2016 Summer Olympics in Rio de Janeiro due to various doping scandals. IOC officials plan to gather next Tuesday to discuss the matter further. ](/news/2016/06/17/the-international-olympic-committee-ioc-upholds-its-ban-on-russian-track-and-field-athletes-participating-in-the-2016-summer-olympics-in-r.md)
-Russian athletes remain banned from international competition, including Rio 2016, but demonstrably clean athletes can compete as neutrals.
-
 ## [Previous Day...](/news/2016/06/16/index.md)
 

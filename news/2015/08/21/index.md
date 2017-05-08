@@ -10,7 +10,7 @@ At least 65 civilians die in air strikes by a Saudi-led coalition in the Yemeni 
 Police investigate incident near Arras, France, in which three US citizens – two of them soldiers – prevented attack by suspect reportedly armed with AK-47
 
 ### [A bottle with a letter left inside by British marine biologist George Parker Bidder III is discovered by a woman vacationing in Germany. The bottle dating from 1906, if confirmed, would be the world's oldest message in a bottle found to date. ](/news/2015/08/21/a-bottle-with-a-letter-left-inside-by-british-marine-biologist-george-parker-bidder-iii-is-discovered-by-a-woman-vacationing-in-germany-the.md)
-_Context: George Parker Bidder III, Germany, message in a bottle_
+_Context: George Parker Bidder III, German, message in a bottle_
 
 ### [Britain's Information Commissioner's Office orders Google, Inc. to remove,  from its search engines, links to news stories about Google's implementation of a "right to be forgotten" request, that include identifying information about a decade-old shoplifting conviction, which the Information Commission's Office considers as being no longer relevant. The order applies only in the United Kingdom. ](/news/2015/08/21/britain-s-information-commissioner-s-office-orders-google-inc-to-remove-from-its-search-engines-links-to-news-stories-about-google-s-im.md)
 _Context: Google, Information Commissioner's Office, Right to be forgotten (RTBF), United Kingdom_
@@ -31,7 +31,7 @@ Winds will continue to challenge firefighters across North Central Washington. P
 North Korean leader Kim Jong-un has ordered his frontline troops to be on a war footing, state media says, as tensions rise with the South.
 
 ### [The United States halts, then resumes its annual military exercise with South Korea, Foal Eagle, amid rising tensions. ](/news/2015/08/21/the-united-states-halts-then-resumes-its-annual-military-exercise-with-south-korea-foal-eagle-amid-rising-tensions.md)
-_Context: Foal Eagle, South Korea, U.S., military exercise_
+_Context: Foal Eagle, South Korea, United States, military exercise_
 
 ### [Ranil Wickremesinghe is sworn in as the new Prime Minister of Sri Lanka following a strong performance by his United National Front for Good Governance in last Monday's election. ](/news/2015/08/21/ranil-wickremesinghe-is-sworn-in-as-the-new-prime-minister-of-sri-lanka-following-a-strong-performance-by-his-united-national-front-for-good.md)
 _Context: Prime Minister of Sri Lanka, Ranil Wickremesinghe, United National Front for Good Governance, election_

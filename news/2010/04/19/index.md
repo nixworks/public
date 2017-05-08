@@ -43,7 +43,7 @@ Three letters - GST - are standing between Kevin Rudd and the most dramatic over
 _Context: Angelina Jolie, Mogadishu, Somalia, UN Goodwill Ambassador_
 
 ### [Franck Ribery and other footballers from the French national football team are investigated by police in connection with an underage prostitution ring. ](/news/2010/04/19/franck-riba-c-ry-and-other-footballers-from-the-french-national-football-team-are-investigated-by-police-in-connection-with-an-underage-prosti.md)
-_Context: France, Franck Ribery, association football, prostitution_
+_Context: Franck Ribery, French, association football, prostitution_
 
 ### [Drug trafficker Carl Williams of Melbourne gangland killings fame is murdered in prison. ](/news/2010/04/19/drug-trafficker-carl-williams-of-melbourne-gangland-killings-fame-is-murdered-in-prison.md)
 _Context: Carl Williams, Melbourne gangland killings_

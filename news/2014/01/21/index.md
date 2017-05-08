@@ -33,8 +33,5 @@ The Thai government imposes a 60-day state of emergency in Bangkok and the surro
 ### [The US National Academy of Sciences found that pollution from China's manufacturing industry drifts across the Pacific Ocean and affects US cities. ](/news/2014/01/21/the-us-national-academy-of-sciences-found-that-pollution-from-chinaas-manufacturing-industry-drifts-across-the-pacific-ocean-and-affects-u.md)
 Pollution from China is travelling in large quantities to the US, with a large proportion of emissions attributed to US-China trade.
 
-### [Australian cyclist Simon Gerrans wins the first stage of Tour Down Under in Adelaide, Australia. ](/news/2014/01/21/australian-cyclist-simon-gerrans-wins-the-first-stage-of-tour-down-under-in-adelaide-australia.md)
-Australia&#039;s Simon Gerrans has out-sprinted Andre Greipel to win the first stage of the Tour Down Under.
-
 ## [Previous Day...](/news/2014/01/20/index.md)
 

@@ -33,11 +33,5 @@ _Context: George Tupou V, King, Nuku'alofa, Tonga_
 ### [Allegations surface over Bo Xilai's extrajudicial measures used to extract confessions during the Chongqing gang trials. ](/news/2012/03/27/allegations-surface-over-bo-xilai-s-extrajudicial-measures-used-to-extract-confessions-during-the-chongqing-gang-trials.md)
 Disturbing new details are emerging about an anticrime initiative led by the ousted party official Bo Xilai.
 
-### [In baseball, a consortium led by American basketball star Magic Johnson wins an auction process for ownership of the Los Angeles Dodgers. ](/news/2012/03/27/in-baseball-a-consortium-led-by-american-basketball-star-magic-johnson-wins-an-auction-process-for-ownership-of-the-los-angeles-dodgers.md)
-_Context: American, Los Angeles Dodgers, Magic Johnson, baseball_
-
-### [In rugby league, three-time World Club Champions Bradford Bulls announce that they needed to raise PS1 million to stay in business. ](/news/2012/03/27/in-rugby-league-three-time-world-club-champions-bradford-bulls-announce-that-they-needed-to-raise-aps1-million-to-stay-in-business.md)
-Bradford Bulls have been inundated with pledges after revealing they need £1m to stay in business, with half needed in 10 days.
-
 ## [Previous Day...](/news/2012/03/26/index.md)
 

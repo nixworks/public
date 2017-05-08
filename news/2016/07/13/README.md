@@ -45,8 +45,5 @@ Baron Waqa has been re-elected as president of Nauru taking 16 of the 18 votes.
 ### [In a report by Amnesty International, the group documents findings of Egyptian officials forcibly making hundreds of people disappear and face torture in the past year in an attempt to crack down on dissent in the country. ](/news/2016/07/13/in-a-report-by-amnesty-international-the-group-documents-findings-of-egyptian-officials-forcibly-making-hundreds-of-people-disappear-and-fa.md)
 _Context: Amnesty International, Human rights in Egypt, disappear, torture_
 
-### [In American football, a United States appeals court has denied New England Patriots quarterback Tom Brady's appeal for his role in the Deflategate controversy. ](/news/2016/07/13/in-american-football-a-united-states-appeals-court-has-denied-new-england-patriots-quarterback-tom-brady-s-appeal-for-his-role-in-the-defla.md)
-_Context: American football, Deflategate, New England Patriots, Tom Brady, United States appeals court_
-
 ## [Previous Day...](/news/2016/07/12/index.md)
 

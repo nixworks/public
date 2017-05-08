@@ -31,7 +31,7 @@ _Context: Japan, Japanese economy, economic growth_
 Rangers Football Club lodges legal papers signalling its intention to go into administration.
 
 ### [The European Union and United States approve Google's $12.5 billion acquisition of smartphone maker Motorola. ](/news/2012/02/13/the-european-union-and-united-states-approve-google-s-12-5-billion-acquisition-of-smartphone-maker-motorola.md)
-_Context: European Union, Google, Motorola Mobility, U.S., smartphone_
+_Context: European Union, Google, Motorola Mobility, United States, smartphone_
 
 ### [Moody's Investors Service downgrades the credit ratings of several European Union members including Italy, Malta, Portugal, Slovakia, Slovenia and Spain and issues a negative outlook for the ratings of Austria, France and the United Kingdom. ](/news/2012/02/13/moody-s-investors-service-downgrades-the-credit-ratings-of-several-european-union-members-including-italy-malta-portugal-slovakia-sloven.md)
 continues to be well supported by a large, diversified and highly competitive economy, a particularly flexible labour market, and a banking sector that
@@ -59,12 +59,6 @@ _Context: New Jersey, allow_
 
 ### [The first launch of a new ESA carrier rocket Vega takes place from the Guiana Space Centre. ](/news/2012/02/13/the-first-launch-of-a-new-esa-carrier-rocket-vega-takes-place-from-the-guiana-space-centre.md)
 _Context: European Space Agency, Guiana Space Centre, Vega_
-
-### [The victorious Zambia national football team arrives back in Lusaka after winning the 2012 Africa Cup of Nations in a penalty shoot-out. ](/news/2012/02/13/the-victorious-zambia-national-football-team-arrives-back-in-lusaka-after-winning-the-2012-africa-cup-of-nations-in-a-penalty-shoot-out.md)
-_Context: 2012 Africa Cup of Nations, Lusaka, Zambia national football team_
-
-### [The Six Nations Council announces that the match between France versus Ireland in the 2012 Six Nations Championship, called off minutes prior to kick-off on Saturday night, will not take place this weekend. A date has not yet been announced. ](/news/2012/02/13/the-six-nations-council-announces-that-the-match-between-france-versus-ireland-in-the-2012-six-nations-championship-called-off-minutes-prio.md)
-The Six Nations game between France and Ireland will now be played on Sunday, 4 March in Paris
 
 ## [Previous Day...](/news/2012/02/12/index.md)
 

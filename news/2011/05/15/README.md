@@ -90,14 +90,5 @@ Local elections in Italy are seen as a test of Prime Minister Silvio Berlusconi 
 ### [British Prime Minister David Cameron confirms that his government will write into law the principles of the Military Covenant. ](/news/2011/05/15/british-prime-minister-david-cameron-confirms-that-his-government-will-write-into-law-the-principles-of-the-military-covenant.md)
 The government is planning to write into law for the first time the principles of the military covenant, the prime minister confirms.
 
-### [Sepahan FC wins the 2010-11 Iran Pro League, marking its third league victory and becoming the most successful team in Iranian football league history. ](/news/2011/05/15/sepahan-fc-wins-the-2010-11-iran-pro-league-marking-its-third-league-victory-and-becoming-the-most-successful-team-in-iranian-football-leag.md)
-_Context: 2010-11 Iran Pro League, Iran, Sepahan FC_
-
-### [Finland wins the 2011 Men's World Ice Hockey Championships, defeating Sweden 6-1 (0-0, 1-1, 5-0).](/news/2011/05/15/finland-wins-the-2011-men-s-world-ice-hockey-championships-defeating-sweden-6-1-0-0-1-1-5-0.md)
-_Context: 2011 Men's World Ice Hockey Championships, Finland, Sweden_
-
-### [Rangers F.C. win their 3rd consecutive Scottish Premier League title, beating 2nd-placed rivals Celtic by a single point.](/news/2011/05/15/rangers-f-c-win-their-3rd-consecutive-scottish-premier-league-title-beating-2nd-placed-rivals-celtic-by-a-single-point.md)
-_Context: Celtic, Rangers F.C., Scottish Premier League, rivals_
-
 ## [Previous Day...](/news/2011/05/14/index.md)
 

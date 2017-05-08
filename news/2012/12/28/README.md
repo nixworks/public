@@ -30,17 +30,5 @@ _Context: Iraq, Iraq Prime Minister, Nouri al-Maliki, Sunni Muslim_
 ### [A 17-year-old girl and Indian rape victim commits suicide after local police pressure her to marry her attacker. It echos with recent outcry over Indian police tolerance over rape in India. ([http://www.democracynow.org/2012/12/28/headlines#12289 DemocracyNow.org])](/news/2012/12/28/a-17-year-old-girl-and-indian-rape-victim-commits-suicide-after-local-police-pressure-her-to-marry-her-attacker-it-echos-with-recent-outcry.md)
 _Context: 2012 Delhi gang rape case, Indian rape_
 
-### [Real Madrid's coach Jose Mourinho is awarded the 2012 Best Coach at the Globe Soccer Awards ceremony in Dubai, UAE. ](/news/2012/12/28/real-madrid-s-coach-josa-c-mourinho-is-awarded-the-2012-best-coach-at-the-globe-soccer-awards-ceremony-in-dubai-uae.md)
-_Context: Dubai, Globe Soccer Awards, Jose Mourinho, Real Madrid, UAE_
-
-### [Former Romania midfielder Dorinel Munteanu is named as coach of Mordovia Saransk, the Russian Premier League club from the Volga Region. ](/news/2012/12/28/former-romania-midfielder-dorinel-munteanu-is-named-as-coach-of-mordovia-saransk-the-russian-premier-league-club-from-the-volga-region.md)
-_Context: Dorinel Munteanu, Mordovia Saransk, Russian Premier League, Volga Region_
-
-### [Former Czech Republic and Aston Villa defender Vaclav Drobny dies at the age of 32 in bobsleigh accident. ](/news/2012/12/28/former-czech-republic-and-aston-villa-defender-va-clav-drobna1-2-dies-at-the-age-of-32-in-bobsleigh-accident.md)
-_Context: Aston Villa, Czech Republic, Vaclav Drobny, bobsledding_
-
-### [Henrikh Mkhitaryan is named as 2012 Ukrainian Premier League Footballer of the Year running ahead of Willian and Yevhen Konoplyanka. ](/news/2012/12/28/henrikh-mkhitaryan-is-named-as-2012-ukrainian-premier-league-footballer-of-the-year-running-ahead-of-willian-and-yevhen-konoplyanka.md)
-_Context: Footballer of the Year, Henrikh Mkhitaryan, Ukrainian Premier League, Willian, Yevhen Konoplyanka_
-
 ## [Previous Day...](/news/2012/12/27/index.md)
 

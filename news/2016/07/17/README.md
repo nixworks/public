@@ -33,8 +33,5 @@ The ruling party candidate and former prime minister Evaristo Carvalho has won t
 ### [The Bahrain High Civil Court  in Manama dissolves Al Wefaq, Bahrain's main Shia opposition group, accusing it of helping to foster violence and terrorism in the Sunni-led, Shia-majority island country. The Bahraini court previously issued a three-month suspension of the group last month. ](/news/2016/07/17/the-bahrain-high-civil-court-in-manama-dissolves-al-wefaq-bahrain-s-main-shia-opposition-group-accusing-it-of-helping-to-foster-violence.md)
 Manama dissolves main Shia opposition group Al-Wefaq, accusing it of fostering violence in the island kingdom.
 
-### [In golf, Henrik Stenson wins the 2016 Open Championship defeating Phil Mickelson after a closely fought battle in the final round at the Royal Troon Golf Club in Scotland. Stenson's total of 264, 20 under par, is the lowest stroke total ever recorded in any major championship and ties Jason Day's performance at last year's PGA Championship for the lowest score in relation to par at a major. It is also Stenson's first victory in a major tournament. ](/news/2016/07/17/in-golf-henrik-stenson-wins-the-2016-open-championship-defeating-phil-mickelson-after-a-closely-fought-battle-in-the-final-round-at-the-roy.md)
-Henrik Stenson has won the Open after shooting a brilliant final round of 63 at Royal Troon
-
 ## [Previous Day...](/news/2016/07/16/index.md)
 

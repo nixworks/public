@@ -27,11 +27,5 @@ _Context: Benigno Fitial, Governor of the Northern Mariana Islands, Northern Mar
 ### [Alpha Centauri Bb, an exoplanet, is discovered orbiting around Alpha Centauri, the nearest star system to our Solar System. ](/news/2012/10/17/alpha-centauri-bb-an-exoplanet-is-discovered-orbiting-around-alpha-centauri-the-nearest-star-system-to-our-solar-system.md)
 Astronomers spot the nearest known planet outside our Solar System, circling a star in the Alpha Centauri system just four light-years away.
 
-### [Lance Armstrong-USADA doping scandal:Lance Armstrong resigns as chairman of his anti-cancer charity, LIVESTRONG.Athletic apparel conglomerate Nike and cycling equipment manufacturer Trek revoke their endorsement contracts with U.S. cyclist Lance Armstrong in the wake of growing allegations of doping. Both will continue to support LIVESTRONG. ](/news/2012/10/17/lance-armstrong-usada-doping-scandal-plance-armstrong-resigns-as-chairman-of-his-anti-cancer-charity-livestrong-pathletic-apparel-conglomer.md)
-Lance Armstrong loses three main sponsors and steps down as chairman of his Livestrong charity.
-
-### [The FA files a complaint with UEFA over allegations that midfielder Danny Rose was subjected to racial abuse during a U-21 Euro 2013 play-off qualifying match between Serbia and England. Rose was issued a red card for kicking the ball into the stands at the end of the match, setting off a brawl involving players and staff of both teams.  The Serbian Football Association denies the allegations.  ](/news/2012/10/17/the-fa-files-a-complaint-with-uefa-over-allegations-that-midfielder-danny-rose-was-subjected-to-racial-abuse-during-a-u-21-euro-2013-play-of.md)
-_Context: Danny Rose, Serbian Football Association, The Football Association, U-21 Euro 2013 play-off qualifying match between Serbia and England, UEFA, red card_
-
 ## [Previous Day...](/news/2012/10/16/index.md)
 

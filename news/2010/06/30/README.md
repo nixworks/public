@@ -82,7 +82,7 @@ A war crimes court rules that model Naomi Campbell can be called to testify agai
 _Context: European Court of Human Rights, Italian, crucifix_
 
 ### [Goodluck Jonathan suspends the Nigeria national football team from international competition for two years due to poor performances in the 2010 FIFA World Cup in South Africa. ](/news/2010/06/30/goodluck-jonathan-suspends-the-nigeria-national-football-team-from-international-competition-for-two-years-due-to-poor-performances-in-the-2.md)
-_Context: 2010 FIFA World Cup, Goodluck Jonathan, Nigeria, South Africa_
+_Context: 2010 FIFA World Cup, Goodluck Jonathan, South Africa, national football team_
 
 ### [Roger Federer is defeated by Tomas Berdych of the Czech Republic at Wimbledon, so Federer will not contest the final for the first time since 2002, also his second Wimbledon loss during that time. ](/news/2010/06/30/roger-federer-is-defeated-by-toma-a-berdych-of-the-czech-republic-at-wimbledon-so-federer-will-not-contest-the-final-for-the-first-time-si.md)
 _Context: 2010 Wimbledon Championships, Czech, Roger Federer, Tomas Berdych_

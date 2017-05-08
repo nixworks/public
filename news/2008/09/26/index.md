@@ -7,7 +7,7 @@ US presidential rivals John McCain and Barack Obama have gone head-to-head in th
 _Context: 2008 Chinese milk scandal, China's, Hong Kong, Japan, breakfast cereal, cracker, melamine_
 
 ### [ German commandos storm a KLM airliner at Cologne-Bonn Airport and arrest two men suspected of planning to carry out a terrorist attack. ](/news/2008/09/26/german-commandos-storm-a-klm-airliner-at-cologne-bonn-airport-and-arrest-two-men-suspected-of-planning-to-carry-out-a-terrorist-attack.md)
-_Context: Cologne-Bonn Airport, Germany, KLM, airliner, commando, terrorism_
+_Context: Cologne-Bonn Airport, German, KLM, airliner, commando, terrorism_
 
 ### [ Subprime mortgage crisis: In the biggest bank failure in American history, the Federal Deposit Insurance Corporation seizes Washington Mutual and sells most of the bank to JPMorgan Chase. ](/news/2008/09/26/subprime-mortgage-crisis-p-in-the-biggest-bank-failure-in-american-history-the-federal-deposit-insurance-corporation-seizes-washington-mut.md)
 Washington Mutual was seized by federal regulators in what is the largest bank failure in American history.

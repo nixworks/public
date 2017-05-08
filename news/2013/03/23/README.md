@@ -45,8 +45,5 @@ Senate Democrats neared approval of their first budget proposal in four years on
 ### [Newly elected Pope Francis meets his predecessor, Pope Emeritus Benedict XVI for lunch at the Papal Palace of Castel Gandolfo, the first time the two are meeting since the change of guard. ](/news/2013/03/23/newly-elected-pope-francis-meets-his-predecessor-pope-emeritus-benedict-xvi-for-lunch-at-the-papal-palace-of-castel-gandolfo-the-first-tim.md)
 _Context: Benedict XVI, Papal Palace of Castel Gandolfo, Pope Francis_
 
-### [Kyle Dake of Cornell University defeats David Taylor of Penn State in the final of the 165-pound (75 kg) weight class at the NCAA Division I Wrestling Championships in Des Moines, Iowa, becoming the first wrestler to win four individual NCAA titles in four different weight classes. ](/news/2013/03/23/kyle-dake-of-cornell-university-defeats-david-taylor-of-penn-state-in-the-final-of-the-165-pound-75-kg-weight-class-at-the-ncaa-division-i.md)
-Cornell senior Kyle Dake became the first wrestler in NCAA history to win four national titles at four weights Saturday night, and Penn State won the national team title for the third year in a row.
-
 ## [Previous Day...](/news/2013/03/22/index.md)
 

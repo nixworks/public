@@ -9,10 +9,3 @@ Europe&#39;s football website, UEFA.com, is the official site of UEFA, the Union
 
 1. [BBC](http://news.bbc.co.uk/sport1/hi/football/europe/8057354.stm)
 2. [UEFA](http://www.uefa.com/competitions/uefacup/news/kind=1/newsid=831323.html)
-
-### Related:
-
-1. [In other association football news:Ukrainian club Shakhtar Donetsk wins the 2013 Copa del Sol by defeating Poland's Widzew Lodz in the final. ](/news/2013/02/2/in-other-association-football-news-pukrainian-club-shakhtar-donetsk-wins-the-2013-copa-del-sol-by-defeating-poland-s-widzew-aa3dao-in-the-f.md) _Context: Shakhtar Donetsk_
-2. [Brazilian midfielder Willian moves from Shakhtar Donetsk to Anzhi Makhachkala for a deal believed to be around EUR35 million. ](/news/2013/01/31/brazilian-midfielder-willian-moves-from-shakhtar-donetsk-to-anzhi-makhachkala-for-a-deal-believed-to-be-around-a-35-million.md) _Context: Shakhtar Donetsk_
-3. [Shakhtar Donetsk wins 2013 Super Cup of Champions defeating Zenit St. Petersburg in Abu Dhabi, UAE. ](/news/2013/01/22/shakhtar-donetsk-wins-2013-super-cup-of-champions-defeating-zenit-st-petersburg-in-abu-dhabi-uae.md) _Context: Shakhtar Donetsk_
-4. [In association football, FC Shakhtar Donetsk wins the 2013 Match World Cup, played this week at Zayed Sports City Stadium in Abu Dhabi, UAE. ](/news/2013/01/19/in-association-football-fc-shakhtar-donetsk-wins-the-2013-match-world-cup-played-this-week-at-zayed-sports-city-stadium-in-abu-dhabi-uae.md) _Context: Shakhtar Donetsk_

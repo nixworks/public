@@ -45,8 +45,5 @@ _Context: Egypt_
 ### [Quebec premier Jean Charest calls a general election for September 2012 amidst student protests against tuition fee increases. ](/news/2012/08/2/quebec-premier-jean-charest-calls-a-general-election-for-september-2012-amidst-student-protests-against-tuition-fee-increases.md)
 &lt;p>Jean Charest is calling upon a “silent majority” to restore him to office in a Sept. 4 Quebec election, when he will seek to tie a provincial record with his fourth consecutive victory.&lt;/p>
 
-### [Russian President Vladimir Putin makes an unofficial visit to the London Olympics to watch the judo competition. ](/news/2012/08/2/russian-president-vladimir-putin-makes-an-unofficial-visit-to-the-london-olympics-to-watch-the-judo-competition.md)
-Both the UK and Russia want to see an end to the violence in Syria, David Cameron says after holding talks with Vladimir Putin in London.
-
 ## [Previous Day...](/news/2012/08/1/index.md)
 

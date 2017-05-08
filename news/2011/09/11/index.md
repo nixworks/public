@@ -18,8 +18,5 @@ _Context: Leighton Buzzard, caravan site, rescuing 24 men, slave_
 ### [Voters in Guatemala go to the polls for a general election. ](/news/2011/09/11/voters-in-guatemala-go-to-the-polls-for-a-general-election.md)
 _Context: Guatemala, general election_
 
-### [In tennis, Samantha Stosur of Australia wins the Women's Singles in the 2011 US Open, defeating Serena Williams of the United States  6-2, 6-3. ](/news/2011/09/11/in-tennis-samantha-stosur-of-australia-wins-the-women-s-singles-in-the-2011-us-open-defeating-serena-williams-of-the-united-states-6-2-6.md)
-_Context: 2011 US Open, Australia, Samantha Stosur, Serena Williams, U.S., Women's Singles, tennis_
-
 ## [Previous Day...](/news/2011/09/10/index.md)
 

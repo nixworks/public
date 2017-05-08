@@ -21,8 +21,5 @@ Supreme leader gives official approval to Rouhani, who won landslide victory in 
 ### [Zimbabwean general election, 2013:Robert Mugabe is declared the run-away winner of Zimbabwe's controversial presidential election by a 61% majority, extending his 33-year rule. ](/news/2013/08/3/zimbabwean-general-election-2013-probert-mugabe-is-declared-the-run-away-winner-of-zimbabwe-s-controversial-presidential-election-by-a-61.md)
 Robert Mugabe has been declared the run-away winner of Zimbabwe&#39;s controversial presidential election, extending his 33-year rule.
 
-### [In rugby union, the Chiefs win the 2013 Super Rugby Final, defeating the Brumbies 27-22 at Waikato Stadium in Hamilton, New Zealand. ](/news/2013/08/3/in-rugby-union-the-chiefs-win-the-2013-super-rugby-final-defeating-the-brumbies-27-22-at-waikato-stadium-in-hamilton-new-zealand.md)
-_Context: 2013 Super Rugby Final, Brumbies, Chiefs, Hamilton, New Zealand, Waikato Stadium, rugby union_
-
 ## [Previous Day...](/news/2013/08/2/index.md)
 

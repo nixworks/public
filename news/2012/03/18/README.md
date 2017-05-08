@@ -22,7 +22,7 @@ Gunmen on motorbikes kill man believed to have been a language teacher in southe
 _Context: Montevideo, Uruguay, hospital, nurses_
 
 ### [A Superleague Greece match between Athens football clubs Olympiacos and Panathinaikos is abandoned after fans set fire to parts of the Athens Olympic Stadium. ](/news/2012/03/18/a-superleague-greece-match-between-athens-football-clubs-olympiacos-and-panathinaikos-is-abandoned-after-fans-set-fire-to-parts-of-the-athen.md)
-_Context: Athens, Olympiacos, Olympic Stadium, Panathinaikos, Superleague Greece's_
+_Context: Athens, Olympiacos, Olympic Stadium, Panathinaikos, Superleague Greece_
 
 ### [A tourist in Downtown Baltimore, Maryland is beaten, robbed, and stripped by a group of African-Americans. ](/news/2012/03/18/a-tourist-in-downtown-baltimore-maryland-is-beaten-robbed-and-stripped-by-a-group-of-african-americans.md)
 _Context: Baltimore, Maryland, Downtown, beaten, robbed, and stripped_
@@ -44,12 +44,6 @@ The King of Tonga has died in Hong Kong, sparking an outpouring of grief in the 
 
 ### [Dinesh Trivedi resigns as India's Minister for Railways following a negative response to fare increases. ](/news/2012/03/18/dinesh-trivedi-resigns-as-india-s-minister-for-railways-following-a-negative-response-to-fare-increases.md)
 _Context: Dinesh Trivedi, India, Minister for Railways_
-
-### [Association football:Ali Daei, Iran's football legend and the world's all-time leading goalscorer, is rushed to hospital following a serious car accident. ](/news/2012/03/18/association-football-pali-daei-iran-s-football-legend-and-the-world-s-all-time-leading-goalscorer-is-rushed-to-hospital-following-a-seriou.md)
-Fabrice Muamba can recognise family and breathe by himself, his hospital and his club Bolton confirm in a joint statement.
-
-### [In motor sports, British driver Jenson Button of McLaren wins the 2012 Australian Grand Prix, the first race of the 2012 Formula One season. ](/news/2012/03/18/in-motor-sports-british-driver-jenson-button-of-mclaren-wins-the-2012-australian-grand-prix-the-first-race-of-the-2012-formula-one-season.md)
-_Context: 2012 Australian Grand Prix, 2012 Championship, British people, Jenson Button, McLaren, motor sports_
 
 ## [Previous Day...](/news/2012/03/17/index.md)
 

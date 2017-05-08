@@ -21,11 +21,5 @@ _Context: Abdi Farah Shirdon, Fowsiyo Yussuf Haji Aadan_
 ### [Bishop Tawadros is selected as the new 118th pope of the Coptic Orthodox Church. ](/news/2012/11/4/bishop-tawadros-is-selected-as-the-new-118th-pope-of-the-coptic-orthodox-church.md)
 _Context: 118th, Coptic Christian pope, Coptic Orthodox Church, Tawadros_
 
-### [Finnish racing driver Kimi Rikknen wins Formula One's 2012 Abu Dhabi Grand Prix ahead of Fernando Alonso and Sebastian Vettel. ](/news/2012/11/4/finnish-racing-driver-kimi-raikkonen-wins-formula-one-s-2012-abu-dhabi-grand-prix-ahead-of-fernando-alonso-and-sebastian-vettel.md)
-Kimi Raikkonen wins the Abu Dhabi GP as Sebastian Vettel held on to his championship lead despite starting from the pit lane.
-
-### [In women's tennis, the Czech Republic defeats Serbia 3-1 to win the 2012 Fed Cup. ](/news/2012/11/4/in-women-s-tennis-the-czech-republic-defeats-serbia-3-1-to-win-the-2012-fed-cup.md)
-Lucie Safarova beats Jelena Jankovic to ensure the Czech Republic defend their Fed Cup title with a 3-1 victory over Serbia.
-
 ## [Previous Day...](/news/2012/11/3/index.md)
 

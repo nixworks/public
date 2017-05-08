@@ -22,7 +22,7 @@ _Context: Camilla Parker Bowles, Prince Charles, Windsor, Windsor Castle_
 _Context: Conflict in Iraq, Iraq, Latifiya_
 
 ### [ Pakistani President Pervez Musharraf says that despite his plans to go to New Delhi to watch the last Indo-Pak cricket ODI, Kashmir, and not cricket, was on top of his agenda. ](/news/2005/04/9/pakistani-president-pervez-musharraf-says-that-despite-his-plans-to-go-to-new-delhi-to-watch-the-last-indo-pak-cricket-odi-kashmir-and-no.md)
-_Context: Cricket, Kashmir, New Delhi, One Day International, Pakistan, Pervez Musharraf, President_
+_Context: Kashmir, New Delhi, One Day International, Pakistan, Pervez Musharraf, President, cricketer_
 
 ### [ Calling for the abolition of death penalty, the Dalai Lama, currently on a visit to Japan, says criminals must be treated with compassion and made to feel part of the society. ](/news/2005/04/9/calling-for-the-abolition-of-death-penalty-the-dalai-lama-currently-on-a-visit-to-japan-says-criminals-must-be-treated-with-compassion-a.md)
 _Context: Dalai Lama, Japan, death penalty_

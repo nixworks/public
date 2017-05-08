@@ -54,8 +54,5 @@ _Context: Japan, military_
 ### [Snow falls in Sa Pa, Vietnam. ](/news/2013/12/17/snow-falls-in-sa-pa-vietnam.md)
 _Context: Sa Pa, Vietnam_
 
-### [The Ashes:Australia wins the third test at the WACA, taking an unbeatable 3-0 lead over England in the 2013-14 Ashes series played in Australia. ](/news/2013/12/17/the-ashes-paustralia-wins-the-third-test-at-the-waca-taking-an-unbeatable-3-0-lead-over-england-in-the-2013a14-ashes-series-played-in-aus.md)
-_Context: 2013-14 Ashes series, Australia, England, The Ashes, WACA, test cricket_
-
 ## [Previous Day...](/news/2013/12/16/index.md)
 

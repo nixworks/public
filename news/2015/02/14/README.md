@@ -42,11 +42,5 @@ _Context: Benigno Aquino III, Philippine, journalist_
 ### [Canadian Police foil a planned Valentines Day massacre in Halifax, Nova Scotia. ](/news/2015/02/14/canadian-police-foil-a-planned-valentines-day-massacre-in-halifax-nova-scotia.md)
 A group of &#39;murderous misfits&#39; planned to massacre as many people as possible in a Valentine&#39;s Day shooting spree that police foiled after an anonymous tip off.
 
-### [ The 2015 Cricket World Cup begins with New Zealand playing Sri Lanka at Christchurch's Hagley Oval and Australia playing England at the Melbourne Cricket Ground. ](/news/2015/02/14/the-2015-cricket-world-cup-begins-with-new-zealand-playing-sri-lanka-at-christchurch-s-hagley-oval-and-australia-playing-england-at-the-mel.md)
-Hosts get their campaign off to flying start thanks to Corey Anderson’s 75 off 46 as Lasith Malinga goes wicketless.
-
-### [ The Naismith Memorial Basketball Hall of Fame announces the first five members of its 2015 induction class. Louie Dampier and John Isaacs will be inducted as players, Lindsay Gaze and Tom Heinsohn as coaches, and George Raveling as a contributor. Heinsohn, already a member as a player, will become the fourth person enshrined as both a player and a coach. Other members of the induction class will be announced on April 6. ](/news/2015/02/14/the-naismith-memorial-basketball-hall-of-fame-announces-the-first-five-members-of-its-2015-induction-class-louie-dampier-and-john-isaacs-w.md)
-_Context: George Raveling, John Isaacs, Lindsay Gaze, Louie Dampier, Naismith Memorial Basketball Hall of Fame, Tom Heinsohn, a member as a player_
-
 ## [Previous Day...](/news/2015/02/13/index.md)
 

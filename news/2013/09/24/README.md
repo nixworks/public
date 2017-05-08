@@ -15,8 +15,5 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [The General debate of the 68th UN General Assembly opens. ](/news/2013/09/24/the-general-debate-of-the-68th-un-general-assembly-opens.md)
 _Context: General debate of the 68th UN General Assembly_
 
-### [In road cycling, Ellen van Dijk won the women's time trial at the 2013 UCI Road World Championships. ](/news/2013/09/24/in-road-cycling-ellen-van-dijk-won-the-women-s-time-trial-at-the-2013-uci-road-world-championships.md)
-The Dutch cyclist led from start to finish along the 21.8km course and created a 24.1 second gap with No 2 Linda Villumsen.
-
 ## [Previous Day...](/news/2013/09/23/index.md)
 

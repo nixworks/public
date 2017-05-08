@@ -6,8 +6,5 @@ _Context: Syria, Syrian Civil War, Taftanaz_
 ### [Two suicide bombers attack a restaurant in the Somali capital, Mogadishu, and a security guard is killed in the attack. ](/news/2012/11/3/two-suicide-bombers-attack-a-restaurant-in-the-somali-capital-mogadishu-and-a-security-guard-is-killed-in-the-attack.md)
 Two suicide bombers attack a restaurant in the Somali capital, killing a security guard who stopped them entering the building, locals say.
 
-### [The city of Turin, Italy, is chosen as 2015 European Capital of Sport. ](/news/2012/11/3/the-city-of-turin-italy-is-chosen-as-2015-european-capital-of-sport.md)
-_Context: 2012 European Capital of Sport, Italian, Turin_
-
 ## [Previous Day...](/news/2012/11/2/index.md)
 

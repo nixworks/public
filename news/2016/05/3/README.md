@@ -45,11 +45,5 @@ Exclusive: Independence leader Benny Wenda joins parliamentarians, lawyers and h
 ### [Voters in the U.S. state of Indiana head to the polls to vote in Democratic and Republican presidential primaries. ](/news/2016/05/3/voters-in-the-u-s-state-of-indiana-head-to-the-polls-to-vote-in-democratic-and-republican-presidential-primaries.md)
 INDIANAPOLIS — In a stunning triumph for a political outsider, Donald Trump all but clinched the Republican presidential nomination Tuesday with a resounding victory in Indiana that knocked rival T…
 
-### [Cho Yang-ho resigns as President of the PyeongChang Organizing Committee for the 2018 Olympic & Paralympic Winter Games due to growing financial problems with the Hanjin Group he is chairman of. ](/news/2016/05/3/cho-yang-ho-resigns-as-president-of-the-pyeongchang-organizing-committee-for-the-2018-olympic-paralympic-winter-games-due-to-growing-finan.md)
-_Context: 2018 Winter Olympics, 2018 Winter Paralympics, Cho Yang-ho, Hanjin, PyeongChang Organizing Committee for the 2018 Olympic & Paralympic Winter Games_
-
-### [The Football Federation of Kosovo becomes the 55th member of UEFA following a secret ballot at the 40th Ordinary UEFA Congress in Budapest.](/news/2016/05/3/the-football-federation-of-kosovo-becomes-the-55th-member-of-uefa-following-a-secret-ballot-at-the-40th-ordinary-uefa-congress-in-budapest.md)
-_Context: Football Federation of Kosovo, UEFA, association football_
-
 ## [Previous Day...](/news/2016/05/2/index.md)
 

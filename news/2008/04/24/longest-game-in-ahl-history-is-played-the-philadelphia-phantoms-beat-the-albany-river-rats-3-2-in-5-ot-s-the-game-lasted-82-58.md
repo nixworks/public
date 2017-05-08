@@ -4,7 +4,3 @@
 
 
 
-
-### Related:
-
-1. [The Norfolk Admirals defeat the Toronto Marlies in a sweep to clinch their first ever AHL championship. ](/news/2012/06/9/the-norfolk-admirals-defeat-the-toronto-marlies-in-a-sweep-to-clinch-their-first-ever-ahl-championship.md) _Context: AHL_

@@ -45,11 +45,5 @@ _Context: Autumn Pasquale, Clayton, New Jersey_
 ### [Okinawa's legislative assembly passes a resolution expressing "overwhelming indignation" at the alleged rape of a Japanese woman by two U.S. soldiers, the latest of 5,747 crimes on record allegedly involving U.S. personnel over the past 40 years, and condemns the worsening criminal activity of foreign troops on the island. ](/news/2012/10/22/okinawa-s-legislative-assembly-passes-a-resolution-expressing-overwhelming-indignation-at-the-alleged-rape-of-a-japanese-woman-by-two-u-s.md)
 Assembly of the Japanese island passes a protest resolution following the arrests of two US sailors accused of rape.
 
-### [U.S. former professional road racing cyclist Lance Armstrong is stripped by the International Cycling Union of his seven Tour de France titles and banned for life from participating in UCI-sanctioned events. ](/news/2012/10/22/u-s-former-professional-road-racing-cyclist-lance-armstrong-is-stripped-by-the-international-cycling-union-of-his-seven-tour-de-france-titl.md)
-The International Cycling Union (UCI) strips Lance Armstrong of his seven Tour de France titles and bans him for life.
-
-### [A football fan is jailed after an attack on former England international goalkeeper Chris Kirkland during a match last week. Twenty-one-year-old Aaron Cawley was filmed on live television jumping from the stand and striking Kirkland with both arms on the head following a goal during the league match at Hillsborough. Kirkland, who described the assault as like being "hit by a ton of bricks", was thrown off balance, crashed to the ground against his goal area and required treatment for his injuries. ](/news/2012/10/22/a-football-fan-is-jailed-after-an-attack-on-former-england-international-goalkeeper-chris-kirkland-during-a-match-last-week-twenty-one-year.md)
-_Context: Chris Kirkland, England national football team, Football League Championship, Hillsborough_
-
 ## [Previous Day...](/news/2012/10/21/index.md)
 

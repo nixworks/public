@@ -39,11 +39,5 @@ _Context: Basic Law, China, Hong Kong, oath-taking controversy_
 ### [Federal Bureau of Investigation chief James Comey tells the United States Congress that he has found no evidence of criminality by Hillary Clinton in relation to a new batch of emails. ](/news/2016/11/6/federal-bureau-of-investigation-chief-james-comey-tells-the-united-states-congress-that-he-has-found-no-evidence-of-criminality-by-hillary-c.md)
 An FBI investigation finds no evidence of criminality in the latest batch of Hillary Clinton emails.
 
-### [In boxing, Philippine Senator Manny Pacquiao defeats Jessie Vargas in Las Vegas to claim the World Boxing Organization's welterweight title. ](/news/2016/11/6/in-boxing-philippine-senator-manny-pacquiao-defeats-jessie-vargas-in-las-vegas-to-claim-the-world-boxing-organization-s-welterweight-title.md)
-Round-by-round report: Manny Pacquiao challenged for – and claimed – Jessie Vargas’ WBO welterweight title in Las Vegas
-
-### [ Mary Keitany of Kenya and Ghirmay Ghebreslassie of Eritrea win the 2016 New York City marathon. It is Keitany's third victory in the event and Ghebreslassie's first. ](/news/2016/11/6/mary-keitany-of-kenya-and-ghirmay-ghebreslassie-of-eritrea-win-the-2016-new-york-city-marathon-it-is-keitany-s-third-victory-in-the-event.md)
-NEW YORK (AP) — Mary Keitany and Ghirmay Ghebreslassie came in first place in the women&#039;s and men&#039;s heats, respectively, of the 2016 TCS New York City Marathon. Keitany, 34, is from Kenya and this win is her third consecutive TCS New York City Marathon title. Her time was 2:24:26 according to the NYC Marathon Twitter account.
-
 ## [Previous Day...](/news/2016/11/5/index.md)
 

@@ -43,7 +43,7 @@ _Context: China's, Kyrgyzstan, Tajikistan, Xinjiang_
 _Context: Belarus, Russia_
 
 ### [The ''Yomiuri'' reports that Japan and the United States have given up on plans to relocate Marine Corps Air Station Futenma from Okinawa by 2014. ](/news/2011/05/7/the-yomiuri-reports-that-japan-and-the-united-states-have-given-up-on-plans-to-relocate-marine-corps-air-station-futenma-from-okinawa-by.md)
-_Context: Japan, Marine Corps Air Station Futenma, Okinawa, U.S., Yomiuri_
+_Context: Japan, Marine Corps Air Station Futenma, Okinawa, United States, Yomiuri_
 
 ### [Voters in Singapore go to the polls for a general election.The ruling People's Action Party retains control of government, winning 81 of 87 seats. ](/news/2011/05/7/voters-in-singapore-go-to-the-polls-for-a-general-election-pthe-ruling-people-s-action-party-retains-control-of-government-winning-81-of-87.md)
 Singapore’s long-governing People’s Action Party (PAP) won an absolute parliamentary majority in the early hours of Sunday following Saturday’s general election. Prime Minister Lee Hsien Loong and for
@@ -68,15 +68,6 @@ Labour say they expect to be in government in Cardiff Bay by the end of next wee
 
 ### [Voters in Ecuador go to the polls for the Ecuadorian constitutional referendum with the government declaring victory based on exit polls. ](/news/2011/05/7/voters-in-ecuador-go-to-the-polls-for-the-ecuadorian-constitutional-referendum-with-the-government-declaring-victory-based-on-exit-polls.md)
 _Context: Ecuador, Ecuadorian constitutional referendum, exit poll_
-
-### [Golf champion Seve Ballesteros dies after surgery to remove a brain tumour in Spain. ](/news/2011/05/7/golf-champion-seve-ballesteros-dies-after-surgery-to-remove-a-brain-tumour-in-spain.md)
-_Context: Seve Ballesteros, Spain, brain tumour, golf_
-
-### [Jockey John R. Velazquez wins the 2011 Kentucky Derby riding Animal Kingdom. ](/news/2011/05/7/jockey-john-r-velazquez-wins-the-2011-kentucky-derby-riding-animal-kingdom.md)
-_Context: 2011 Kentucky Derby, Animal Kingdom, Jockey, John R. Velazquez_
-
-### [American baseball pitcher Justin Verlander of the Detroit Tigers throws a no-hitter against the Toronto Blue Jays. ](/news/2011/05/7/american-baseball-pitcher-justin-verlander-of-the-detroit-tigers-throws-a-no-hitter-against-the-toronto-blue-jays.md)
-_Context: Detroit Tigers, Justin Verlander, Toronto Blue Jays, baseball, no-hitter_
 
 ## [Previous Day...](/news/2011/05/6/index.md)
 

@@ -57,8 +57,5 @@ _Context: Sepp Blatter_
 ### [Georges Tron resigns from his position as Civil Service Minister in the French government over accusations of sexually harassing his own staff. ](/news/2011/05/29/georges-tron-resigns-from-his-position-as-civil-service-minister-in-the-french-government-over-accusations-of-sexually-harassing-his-own-sta.md)
 A French junior minister accused of having sexually harassed staff of a town hall where he is mayor resigns from the government.
 
-### [English auto racing driver Dan Wheldon wins the 2011 Indianapolis 500. ](/news/2011/05/29/english-auto-racing-driver-dan-wheldon-wins-the-2011-indianapolis-500.md)
-_Context: 2011 Indianapolis 500, Dan Wheldon, auto racing_
-
 ## [Previous Day...](/news/2011/05/28/index.md)
 

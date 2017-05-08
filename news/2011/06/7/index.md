@@ -57,11 +57,5 @@ Seoul college students vow to go on strike for tuition cut
 ### [The President of Brazil Dilma Rousseff accepts the resignation of her Chief-of-staff Antonio Palocci following the publication of reports that he became wealthy as a consultant while serving as a member of the National Congress of Brazil. ](/news/2011/06/7/the-president-of-brazil-dilma-rousseff-accepts-the-resignation-of-her-chief-of-staff-antonio-palocci-following-the-publication-of-reports-th.md)
 Brazilian President DilmaRousseff has accepted the resignation of her chief of staffAntonio Palocci, a government source told Reuters on Tuesday.
 
-### [The American television network NBC buys the rights for four Olympic Games from 2014 onwards for $4.3 billion. ](/news/2011/06/7/the-american-television-network-nbc-buys-the-rights-for-four-olympic-games-from-2014-onwards-for-4-3-billion.md)
-NBC extended its Olympic reign to 2020 as Comcast, its parent company, agreed Tuesday to acquire the rights.
-
-### [In North American basketball, the Dallas Mavericks beat the Miami Heat 86-83 to tie the 2011 NBA Finals at 2 games all. ](/news/2011/06/7/in-north-american-basketball-the-dallas-mavericks-beat-the-miami-heat-86-83-to-tie-the-2011-nba-finals-at-2-games-all.md)
-Despite a triple-digit fever, Dirk Nowitzki broke out the comeback mojo in Game 4.
-
 ## [Previous Day...](/news/2011/06/6/index.md)
 

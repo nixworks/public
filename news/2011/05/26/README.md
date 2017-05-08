@@ -60,8 +60,5 @@ _Context: Libya, United States House of Representatives_
 ### [The United States Congress votes to approve a four year extension of powers in the USA PATRIOT Act and President of the United States Barack Obama signs it into law. ](/news/2011/05/26/the-united-states-congress-votes-to-approve-a-four-year-extension-of-powers-in-the-usa-patriot-act-and-president-of-the-united-states-barack.md)
 Acting with minutes to spare, President Obama approved a four-year extension of expiring provisions of the Patriot Act, after Congress overcame mounting opposition from both parties to narrowly...
 
-### [The Miami Heat wins the Eastern Conference in the North American National Basketball Association and will meet the Dallas Mavericks in the 2011 NBA Finals. ](/news/2011/05/26/the-miami-heat-wins-the-eastern-conference-in-the-north-american-national-basketball-association-and-will-meet-the-dallas-mavericks-in-the-2.md)
-_Context: 2011 NBA Finals, Dallas Mavericks, Eastern Conference, Miami Heat, NBA, North America_
-
 ## [Previous Day...](/news/2011/05/25/index.md)
 

@@ -21,14 +21,5 @@ _Context: Alberta, Alison Redford, Canadian, Premier of Alberta, Progressive Con
 ### [In the United States, the Occupy Wall Street protests spread from New York to other major cities. ](/news/2011/10/7/in-the-united-states-the-occupy-wall-street-protests-spread-from-new-york-to-other-major-cities.md)
 Protests against corporate greed and economic inequality spread across America on Thursday and found unlikely sympathy from a top official of one of main targets of scorn -- the Federal Reserve.
 
-### [The Detroit Tigers defeat the New York Yankees in Game 5 of the 2011 American League Division Series. They move on to play the Texas Rangers in the 2011 ALCS. ](/news/2011/10/7/the-detroit-tigers-defeat-the-new-york-yankees-in-game-5-of-the-2011-american-league-division-series-they-move-on-to-play-the-texas-rangers.md)
-The Tigers jumped out to a quick 2-0 lead after consecutive home runs off starter Ivan Nova and the Yankees stranded 11 runners on base in the 3-2 loss.
-
-### [The Milwaukee Brewers defeat the Arizona Diamondbacks in Game 5 to move onto the 2011 National League Championship Series. ](/news/2011/10/7/the-milwaukee-brewers-defeat-the-arizona-diamondbacks-in-game-5-to-move-onto-the-2011-national-league-championship-series.md)
-Nyjer Morgan got the game-winning hit in the 10th inning for the Brewers and Chris Carpenter pitched a three-hit shutout for the Cardinals as each team reached the NLCS Friday.
-
-### [Spanish ''torero'' ('bullfighter') Juan Jose Padilla is gored by a bull in Zaragoza, almost dying from his injuries. ](/news/2011/10/7/spanish-torero-bullfighter-juan-josa-c-padilla-is-gored-by-a-bull-in-zaragoza-almost-dying-from-his-injuries.md)
-_Context: Juan Jose Padilla, torero_
-
 ## [Previous Day...](/news/2011/10/6/index.md)
 

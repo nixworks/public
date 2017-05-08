@@ -40,10 +40,7 @@ A man involved in a paternity dispute opened fire Wednesday in front of a South 
 Israel confirms it imprisoned an Australian-Israeli man under a false identity for security reasons, and that he died in custody.
 
 ### [The U.S. administration's nominee to become next Treasury Secretary, Jack Lew, testifies before the financial committee of the United States Senate at the start of his confirmation hearing. ](/news/2013/02/13/the-u-s-administration-s-nominee-to-become-next-treasury-secretary-jack-lew-testifies-before-the-financial-committee-of-the-united-states.md)
-_Context: Jack Lew, Treasury Secretary, U.S., senators_
-
-### [International Olympic Committee president Jacques Rogge is meeting with the head of wrestling's governing body in an attempt to revive the sport for the 2020 Summer Olympics. ](/news/2013/02/13/international-olympic-committee-president-jacques-rogge-is-meeting-with-the-head-of-wrestling-s-governing-body-in-an-attempt-to-revive-the-s.md)
-Find the latest sports news and articles on the NFL, MLB, NBA, NHL, NCAA college football, NCAA college basketball and more at ABC News.
+_Context: Jack Lew, Treasury Secretary, U.S., United States senators_
 
 ## [Previous Day...](/news/2013/02/12/index.md)
 

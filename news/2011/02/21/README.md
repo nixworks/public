@@ -55,11 +55,5 @@ _Context: Alex Chernov, Governor, Victoria_
 ### [Three Venezuelan hunger strikers are hospitalised after calling for an international probe into alleged human rights abuses by the President of Venezuela Hugo Chvez. ](/news/2011/02/21/three-venezuelan-hunger-strikers-are-hospitalised-after-calling-for-an-international-probe-into-alleged-human-rights-abuses-by-the-president.md)
 _Context: Hugo Chvez, Human rights, President, Venezuela, hunger strike_
 
-### [The Bahrain Royal Family calls off the Bahrain Grand Prix, the opening round of the 2011 Formula One season, due to the ongoing 2011 Bahrain protests. ](/news/2011/02/21/the-bahrain-royal-family-calls-off-the-bahrain-grand-prix-the-opening-round-of-the-2011-formula-one-season-due-to-the-ongoing-2011-bahrain.md)
-_Context: Bahrain, Bahrain Grand Prix, Bahrain's protests, Formula One World Championship, Royal Family_
-
-### [In the North American National Basketball Association, Carmelo Anthony is traded from the Denver Nuggets to the New York Knicks as part of a multi-player deal. ](/news/2011/02/21/in-the-north-american-national-basketball-association-carmelo-anthony-is-traded-from-the-denver-nuggets-to-the-new-york-knicks-as-part-of-a.md)
-The New York Knicks acquired Carmelo Anthony on Monday night, according to the Denver Post.
-
 ## [Previous Day...](/news/2011/02/20/index.md)
 

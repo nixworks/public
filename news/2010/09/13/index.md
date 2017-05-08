@@ -42,8 +42,5 @@ _Context: Andre-Joseph Leonard, Archbishopric of Mechelen-Brussels, Belgium, Rom
 ### [US defense officials claim they are preparing to notify  Congress of plans to sell $60 billion of military equipment to Saudi Arabia. ](/news/2010/09/13/us-defense-officials-claim-they-are-preparing-to-notify-congress-of-plans-to-sell-60-billion-of-military-equipment-to-saudi-arabia.md)
 _Context: Saudi Arabia, U.S. Congressional_
 
-### [Rafael Nadal of Spain wins the Men's Singles at the 2010 US Open defeating Novak Djokovic of Serbia 6-4 5-7 6-4 6-2 becoming the seventh man in history to win all four Grand Slam titles, and the youngest man to ever achieve the Career Golden Slam. ](/news/2010/09/13/rafael-nadal-of-spain-wins-the-men-s-singles-at-the-2010-us-open-defeating-novak-djokovic-of-serbia-6-4-5-7-6-4-6-2-becoming-the-seventh-man.md)
-_Context: 2010 US Open, Grand Slam, Novak Djokovic, Rafael Nadal, Serbia, Spain_
-
 ## [Previous Day...](/news/2010/09/12/index.md)
 

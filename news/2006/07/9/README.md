@@ -1,10 +1,10 @@
 ## [2006-07-9](/news/2006/07/9/index.md)
 
 ### [ 25 people are injured on the Son of Beast wooden roller coaster near Cincinnati, Ohio, United States, as it came to a rapid stop. Several rescue units were sent to the scene. ](/news/2006/07/9/25-people-are-injured-on-the-son-of-beast-wooden-roller-coaster-near-cincinnati-ohio-united-states-as-it-came-to-a-rapid-stop-several-r.md)
-_Context: Cincinnati, Ohio, Son of Beast, U.S., roller coaster_
+_Context: Cincinnati, Ohio, Son of Beast, United States, roller coaster_
 
 ### [ 2006 FIFA World Cup: Italy defeats France in the final game of the FIFA World Cup. The score remained 1-1 after both regulation time and extra time; however, Italy won 5-3 in penalty kicks. The match is marred by the dismissal of Zinedine Zidane in the second period of Extra Time. ](/news/2006/07/9/2006-fifa-world-cup-italy-defeats-france-in-the-final-game-of-the-fifa-world-cup-the-score-remained-1-1-after-both-regulation-time-and-ex.md)
-_Context: France, Italy, Zinedine Zidane, defending champion, dismissal, extra-time_
+_Context: French, Italy, Zinedine Zidane, defending champion, dismissal, extra time_
 
 ### [ Israeli-Palestinian conflict (Operation Summer Rains): Israeli prime minister Ehud Olmert says Operation Summer Rains will only end once abducted soldier Gilad Shalit is released: "There is no intention to reoccupy Gaza in order to stay there, but if certain operations are needed they will be carried out". ](/news/2006/07/9/israeli-palestinian-conflict-operation-summer-rains-p-israeli-prime-minister-ehud-olmert-says-operation-summer-rains-will-only-end-once-a.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

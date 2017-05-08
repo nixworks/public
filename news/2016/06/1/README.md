@@ -34,7 +34,7 @@ Gov. Greg Abbott declared a state of disaster in 31 counties across the state on
 A 6.5 magnitude earthquake struck off the coast of West Sumatra in Indonesia, according to the U.S. Geological Survey.
 
 ### [Turkish President Recep Tayyip Erdogan warns Germany against recognizing the Armenian Genocide. ](/news/2016/06/1/turkish-president-recep-tayyip-erdoaan-warns-germany-against-recognizing-the-armenian-genocide.md)
-_Context: Germany, President, Recep Tayyip Erdogan, Turkey, genocide of Armenians, recognizing_
+_Context: German, President, Recep Tayyip Erdogan, Turkey, genocide of Armenians, recognizing_
 
 ### [According to the Secretary General of NATO Jens Stoltenberg, defense spending by European member states will grow for the first time in a decade. Stoltenberg went on to say that "we are faced with uncertainty. We are faced with more threats, more security challenges, than in a generation". ](/news/2016/06/1/according-to-the-secretary-general-of-nato-jens-stoltenberg-defense-spending-by-european-member-states-will-grow-for-the-first-time-in-a-de.md)
 _Context: Jens Stoltenberg, Secretary General of NATO, membership_
@@ -62,9 +62,6 @@ Richard Huckle admitted 71 charges - but investigators believe he abused up to 2
 
 ### [The world's longest and deepest rail tunnel, the 57 km (35 miles) Gotthard Base Tunnel, opens in Switzerland. ](/news/2016/06/1/the-world-s-longest-and-deepest-rail-tunnel-the-57-km-35-miles-gotthard-base-tunnel-opens-in-switzerland.md)
 _Context: Gotthard Base Tunnel, Swiss_
-
-### [The International Olympic Committee (IOC) executive board backs host Tokyo's  proposal to include baseball-softball, surfing, karate, sport climbing, and skateboarding in the 2020 Summer Olympics. The full IOC will vote on this in Rio de Janeiro, Brazil, in August. ](/news/2016/06/1/the-international-olympic-committee-ioc-executive-board-backs-host-tokyo-s-proposal-to-include-baseball-softball-surfing-karate-sport.md)
-LAUSANNE, Switzerland (AP) — Olympic leaders took action on two fronts Wednesday, ramping up efforts to keep drug cheats out of the upcoming Olympics in Rio de Janeiro and recommending the inclusion of baseball-softball…
 
 ## [Previous Day...](/news/2016/05/31/index.md)
 

@@ -39,14 +39,5 @@ The Japanese and Philippine leaders will agree this week on a deal paving the wa
 ### [Aung San Suu Kyi holds talks with parliament's outgoing chairman, Shwe Mann, seeking his help in an orderly democratic transition to the newly-elected National League for Democracy (NLD) government. Mann, who was ousted as head of the Union Solidarity and Development Party in August, lost his house seat in the November 8 vote. The current parliament will have at least one more session. ](/news/2015/11/15/aung-san-suu-kyi-holds-talks-with-parliament-s-outgoing-chairman-shwe-mann-seeking-his-help-in-an-orderly-democratic-transition-to-the-new.md)
 _Context: Aung San Suu Kyi, Myanmar general election, 2015, National League for Democracy, Shwe Mann, Union Solidarity and Development Party, outgoing chairman, parliament's_
 
-### [Holly Holm defeats Ronda Rousey in a women's bantamweight title match at Etihad Stadium in the Australian city of Melbourne, Victoria. ](/news/2015/11/15/holly-holm-defeats-ronda-rousey-in-a-women-s-bantamweight-title-match-at-etihad-stadium-in-the-australian-city-of-melbourne-victoria.md)
-UFC 193 takes place Saturday night in the United States, emanating from Etihad Stadium in Melbourne, Australia. The event is expected to draw over 50,000 fans and set the UFC&apos;s live attendance record. Headlining the event is the undefeated UFC women&apos;s bantamweight champion Ronda Rousey defending her title against undefeated former boxing world champion Holly Holm . Rousey has become the sport&apos;s biggest star and a breakthrough mainstream celebrity. In the co-feature, the other UFC women&apos;s champion, strawweight queen Joanna Jedrzejczyk defends her title against Valerie Letourneau. Rousey and Jedrzejczyk are heavy betting favorites.
-
-### [In a suit filed by two former American professional football (NFL) players, the Ohio Supreme Court upholds a lower court ruling that Cleveland's formula for taxing visiting professional athletes, the so-called "jock tax," violates players' due process rights. A spokesman says the city will begin issuing refunds to players. ](/news/2015/11/15/in-a-suit-filed-by-two-former-american-professional-football-nfl-players-the-ohio-supreme-court-upholds-a-lower-court-ruling-that-clevela.md)
-_Context: Cleveland, National Football League, Ohio Supreme Court, U.S., jock tax, professional football, refunds_
-
-### [In tennis, the Czech Republic retains the Fed Cup defeating Russia 3-2 in the final played at the O2 Arena in Prague. This is the Czech Republic's fourth title in five years. ](/news/2015/11/15/in-tennis-the-czech-republic-retains-the-fed-cup-defeating-russia-3-2-in-the-final-played-at-the-o2-arena-in-prague-this-is-the-czech-repu.md)
-_Context: 2015 Fed Cup, Czech, Fed Cup, O2 Arena, Prague, Russia, tennis_
-
 ## [Previous Day...](/news/2015/11/14/index.md)
 

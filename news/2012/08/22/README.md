@@ -33,11 +33,5 @@ _Context: FBI, Graham Spanier, Jerry Sandusky, Louis Freeh, Penn State scandal, 
 ### [Russia becomes the 156th member of the World Trade Organization. Vanuatu becomes the 157th member. ](/news/2012/08/22/russia-becomes-the-156th-member-of-the-world-trade-organization-vanuatu-becomes-the-157th-member.md)
 _Context: Russia, Vanuatu, member, the World Trade Organization_
 
-### [Former Irish footballer Kevin Sheedy is diagnosed with bowel cancer at the age of 52. ](/news/2012/08/22/former-irish-footballer-kevin-sheedy-is-diagnosed-with-bowel-cancer-at-the-age-of-52.md)
-Former Republic of Ireland midfielder Kevin Sheedy has been diagnosed with bowel cancer.
-
-### [It becomes known that a freight train derailment, yesterday near Baltimore, caused military fiber optic cables to be cut so much that communications were quite seriously disrupted. This in turn caused to justify further delaying the start of the big-gun suspects' trial at Guantnamo Bay by two more days, to within "likely more than a year". ](/news/2012/08/22/it-becomes-known-that-a-freight-train-derailment-yesterday-near-baltimore-caused-military-fiber-optic-cables-to-be-cut-so-much-that-commun.md)
-_Context: Baltimore, Guantanamo Bay_
-
 ## [Previous Day...](/news/2012/08/21/index.md)
 

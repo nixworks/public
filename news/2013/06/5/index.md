@@ -85,8 +85,5 @@ _Context: National Security Advisor, Susan Rice, Tom Donilon_
 ### [A newly discovered fossil species, ''Archicebus achilles'', is described as the oldest known primate. ](/news/2013/06/5/a-newly-discovered-fossil-species-archicebus-achilles-is-described-as-the-oldest-known-primate.md)
 A 55-million-year-old, mouse-sized fossil from China provides remarkable new insights into the origin of primates, the broad grouping of animals that also includes humans.
 
-### [In tennis, Maria Sharapova beats Jelena Jankovic to advance to the semi-finals of the French Open; Serena Williams wins her match, setting up a showdown between her and Sharapova. ](/news/2013/06/5/in-tennis-maria-sharapova-beats-jelena-jankovic-to-advance-to-the-semi-finals-of-the-french-open-serena-williams-wins-her-match-setting-u.md)
-_Context: French Open, Jelena Jankovic, Maria Sharapova, Serena Williams_
-
 ## [Previous Day...](/news/2013/06/4/index.md)
 

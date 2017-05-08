@@ -60,11 +60,5 @@ _Context: Benghazi, Libya_
 ### [Meta-analysis of 42 previous studies concludes chocolate may be good for the heart. ](/news/2012/03/2/meta-analysis-of-42-previous-studies-concludes-chocolate-may-be-good-for-the-heart.md)
 Eating chocolate is not only a treat for the tongue -- it may also have some tangible benefits for heart health, such as lowering blood pressure slightly, according to a study involving more than a thousand people.
 
-### [In baseball,  North America's Major League Baseball expands its playoffs to ten teams. ](/news/2012/03/2/in-baseball-north-america-s-major-league-baseball-expands-its-playoffs-to-ten-teams.md)
-MLB and the union have agreed to expand the playoff field to 10 teams.
-
-### [In American football, the National Football League finds that the New Orleans Saints paid bounties for injuries on opposition players including Kurt Warner and Brett Favre. ](/news/2012/03/2/in-american-football-the-national-football-league-finds-that-the-new-orleans-saints-paid-bounties-for-injuries-on-opposition-players-includ.md)
-_Context: American football, Brett Favre, Kurt Warner, National Football League, New Orleans Saints_
-
 ## [Previous Day...](/news/2012/03/1/index.md)
 

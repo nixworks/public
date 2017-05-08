@@ -10,7 +10,7 @@ Human rights activists accuse Kenya of secretly sending four terrorism suspects 
 Blast hits crowd of people in restive west, officials blame a minority Uighur.
 
 ### [The last United States brigade combat team leaves Iraq: there are still 56,000 members of the United States armed forces in the country. ](/news/2010/08/19/the-last-united-states-brigade-combat-team-leaves-iraq-there-are-still-56-000-members-of-the-united-states-armed-forces-in-the-country.md)
-_Context: Iraq, U.S., U.S. military personnel, brigade_
+_Context: Iraq, U.S. military personnel, United States, brigade_
 
 ### [Winston Churchill's butterfly house is rebuilt. ](/news/2010/08/19/winston-churchill-s-butterfly-house-is-rebuilt.md)
 It was 1939 and the Nazi menace threatened Europe. But while Britain clamoured for the leadership of Winston Churchill, the thoughts of the great warrior himself were focused on an altogether more pacific subject: butterflies.
@@ -92,12 +92,6 @@ Military-ruled Myanmar Thursday announced restrictions on campaigning for Novemb
 
 ### [The Fields Medal is awarded to Elon Lindenstrauss, Ngo Bao Chau, Stanislav Smirnov and Cedric Villani at the 2010 International Congress of Mathematicians in Hyderabad, India. ](/news/2010/08/19/the-fields-medal-is-awarded-to-elon-lindenstrauss-nga-baopso-chac-u-stanislav-smirnov-and-ca-c-dric-villani-at-the-2010-international-congres.md)
 _Context: Cedric Villani, Elon Lindenstrauss, Fields Medals, Hyderabad, International Congress of Mathematicians, Ngo Bao Chau, Stanislav Smirnov_
-
-### [Former Australian swimmer Dawn Fraser is criticised for controversial remarks during which she called for the boycott of the 2010 Commonwealth Games in Delhi. ](/news/2010/08/19/former-australian-swimmer-dawn-fraser-is-criticised-for-controversial-remarks-during-which-she-called-for-the-boycott-of-the-2010-commonweal.md)
-_Context: 2010 Commonwealth Games, Australia, Dawn Fraser, Delhi_
-
-### [A U.S. federal grand jury in Washington indicts former Major League Baseball superstar pitcher Roger Clemens on charges of making false statements to Congress about his alleged use of performance-enhancing drugs. ](/news/2010/08/19/a-u-s-federal-grand-jury-in-washington-indicts-former-major-league-baseball-superstar-pitcher-roger-clemens-on-charges-of-making-false-stat.md)
-Former pitcher Roger Clemens has been indicted for lying to Congress about steroid use. He faces six counts - one for obstruction of Congress, three for false statements and two for perjury.
 
 ## [Previous Day...](/news/2010/08/18/index.md)
 

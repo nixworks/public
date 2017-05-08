@@ -13,7 +13,7 @@ _Context: Duma, Human Rights Watch, Indem, Memorial rights organization, Non-gov
 _Context: China, Harbin, Songhua River, benzene, explosion at a chemical factory_
 
 ### [ The new Chancellor of Germany, Angela Merkel, goes to Paris, France for her first foreign trip in office. Some observers see this as a signal that intra-European affairs will be a high priority. ](/news/2005/11/23/the-new-chancellor-of-germany-angela-merkel-goes-to-paris-france-for-her-first-foreign-trip-in-office-some-observers-see-this-as-a-sign.md)
-_Context: Angela Merkel, Chancellor, Europe, France, Germany, Paris_
+_Context: Angela Merkel, Chancellor, Europe, France, German, Paris_
 
 ### [ Ellen Johnson-Sirleaf is officially declared as the winner of the Liberian presidential runoff, after she took 59.4 percent of the vote, making her Africa's first elected female head of state. ](/news/2005/11/23/ellen-johnson-sirleaf-is-officially-declared-as-the-winner-of-the-liberian-presidential-runoff-after-she-took-59-4-percent-of-the-vote-ma.md)
 _Context: Ellen Johnson Sirleaf, Liberian presidential runoff_

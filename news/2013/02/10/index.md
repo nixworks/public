@@ -28,13 +28,13 @@ Gotye takes out three Grammys including record of the year for Somebody That I U
 A stampede at a railway station in Allahabad killed at least 36 Hindu pilgrims on Sunday, the busiest day of the Kumbh Mela at which some 30 million had gathered to wash away their sins in the sacred Ganges river.
 
 ### [2013 Hattiesburg, Mississippi tornado: A tornado causes significant damage to the American town of Hattiesburg, Mississippi. ](/news/2013/02/10/2013-hattiesburg-mississippi-tornado-a-tornado-causes-significant-damage-to-the-american-town-of-hattiesburg-mississippi.md)
-_Context: 2013 Hattiesburg, Mississippi tornado, Hattiesburg, Mississippi, U.S., tornado_
+_Context: 2013 Hattiesburg, Mississippi tornado, Hattiesburg, Mississippi, United States, tornado_
 
 ### [A lifeboat falls off of a cruise ship MS Thomson Majesty while it was docked in the port of Santa Cruz de La Palma in the Canary Islands, killing 5 people. ](/news/2013/02/10/a-lifeboat-falls-off-of-a-cruise-ship-ms-thomson-majesty-while-it-was-docked-in-the-port-of-santa-cruz-de-la-palma-in-the-canary-islands-ki.md)
 A lifeboat fell off a cruise ship docked in the Canary Islands and into the sea, Spanish officials say; an additional 3 injured
 
 ### [Three crew members are killed when a Bell 206 helicopter crashes at the Polsa Rosa Movie Ranch in Acton, California, United States, while filming a documentary. ](/news/2013/02/10/three-crew-members-are-killed-when-a-bell-206-helicopter-crashes-at-the-polsa-rosa-movie-ranch-in-acton-california-united-states-while-fi.md)
-_Context: Acton, Bell 206, California, Polsa Rosa Movie Ranch, U.S., helicopter_
+_Context: Acton, Bell 206, California, Polsa Rosa Movie Ranch, United States, helicopter_
 
 ### [Cruise ship ''Carnival Triumph'' suffers a fire in the aft engine room. The fire is automatically extinguished, but it results in a loss of power and propulsion. There are no casualties or injuries to passengers or crew. ](/news/2013/02/10/cruise-ship-carnival-triumph-suffers-a-fire-in-the-aft-engine-room-the-fire-is-automatically-extinguished-but-it-results-in-a-loss-of.md)
 A Carnival cruise ship in the Caribbean is operating on emergency power in the wake of an engine room fire. Carnival says the 102,000-ton Carnival Triumph was sailing approximately 150 miles off the coast of
@@ -47,12 +47,6 @@ _Context: Hamadi Jebali, Prime Minister of Tunisia, Tunisia_
 
 ### [Boeing conducts the first test flight of the Dreamliner since it was taken out of service for battery problems. ](/news/2013/02/10/boeing-conducts-the-first-test-flight-of-the-dreamliner-since-it-was-taken-out-of-service-for-battery-problems.md)
 Boeing has taken its first test flight of its 787 Dreamliner since problems with lithium-ion batteries aboard two planes grounded the worldwide fleet of innovative planes nearly a month ago. But no results
-
-### [In association football, Nigeria defeats Burkina Faso by a score of 1-0 in the final to win the 2013 Africa Cup of Nations. ](/news/2013/02/10/in-association-football-nigeria-defeats-burkina-faso-by-a-score-of-1a0-in-the-final-to-win-the-2013-africa-cup-of-nations.md)
-_Context: 2013 Africa Cup of Nations, Burkina Faso, Nigeria, association football, final_
-
-### [In ice hockey, Austria, Latvia and Slovenia secure qualification for the men's tournament at the 2014 Winter Olympics. ](/news/2013/02/10/in-ice-hockey-austria-latvia-and-slovenia-secure-qualification-for-the-men-s-tournament-at-the-2014-winter-olympics.md)
-The 2014 Sochi Olympic Games are a little under a year away and on Sunday the men&#x27;s hockey qualification finally came to an end. Already qualified were USA, Canada, Russia, Sweden, Finland, Slovakia, Czech Republic, Switzerland, and Norway. September and … Continue reading →
 
 ## [Previous Day...](/news/2013/02/9/index.md)
 

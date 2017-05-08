@@ -63,11 +63,5 @@ Up to 750,000 public sector workers will strike on 30 June after members of the 
 ### [The first lunar eclipse of the year occurs with it being the first central lunar eclipse since 1990. ](/news/2011/06/15/the-first-lunar-eclipse-of-the-year-occurs-with-it-being-the-first-central-lunar-eclipse-since-1990.md)
 _Context: central lunar eclipse, first, lunar eclipse_
 
-### [The Caribbean Football Union accuses FIFA whisteblower Chuck Blazer of "slander" after making allegations of corruption against members of the FIFA committee. ](/news/2011/06/15/the-caribbean-football-union-accuses-fifa-whisteblower-chuck-blazer-of-slander-after-making-allegations-of-corruption-against-members-of-t.md)
-_Context: Caribbean Football Union, Chuck Blazer, FIFA_
-
-### [The Boston Bruins defeat the Vancouver Canucks 4-0 in Game 7 to win the Stanley Cup Finals in the North American National Hockey League. ](/news/2011/06/15/the-boston-bruins-defeat-the-vancouver-canucks-4-0-in-game-7-to-win-the-stanley-cup-finals-in-the-north-american-national-hockey-league.md)
-It took a small army of police over two hours but the chaos in downtown Vancouver is &quot;substantially under control,&quot; said VDP spokeswoman Const. Jana McGuinness.
-
 ## [Previous Day...](/news/2011/06/14/index.md)
 

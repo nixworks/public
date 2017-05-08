@@ -75,14 +75,5 @@ Ruling party fights to maintain domination of the National Assembly against a un
 ### [Ed Miliband declares the death of Tony Blair's centrist New Labour in his first interview since being elected leader of the British Labour Party yesterday. ](/news/2010/09/26/ed-miliband-declares-the-death-of-tony-blair-s-centrist-new-labour-in-his-first-interview-since-being-elected-leader-of-the-british-labour-p.md)
 Ed Miliband declared the era of New Labour over as he sought to distance himself from the legacy of Tony Blair and instead lead a &ldquo;new generation&rdquo; back into power.
 
-### [2010 Commonwealth Games:Thousands of slum dwellers are handed eviction notices in the Indian capital Delhi, a week before the 2010 Commonwealth Games is due to open. ](/news/2010/09/26/2010-commonwealth-games-pthousands-of-slum-dwellers-are-handed-eviction-notices-in-the-indian-capital-delhi-a-week-before-the-2010-commonwe.md)
-_Context: 2010 Commonwealth Games, Delhi, India, eviction, slum_
-
-### [Fernando Alonso wins the 2010 Singapore Grand Prix. ](/news/2010/09/26/fernando-alonso-wins-the-2010-singapore-grand-prix.md)
-_Context: 2010 Singapore Grand Prix, Fernando Alonso_
-
-### [The corpse of 31-year-old former Great Britain rugby league hooker Terry Newton is located hanging dead at a house in England. ](/news/2010/09/26/the-corpse-of-31-year-old-former-great-britain-rugby-league-hooker-terry-newton-is-located-hanging-dead-at-a-house-in-england.md)
-The former Great Britain hooker, Terry Newton, has been found dead at his home at the age of 31.
-
 ## [Previous Day...](/news/2010/09/25/index.md)
 

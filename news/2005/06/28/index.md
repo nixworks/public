@@ -46,7 +46,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: Malawi, Rodwell Munyenyembe_
 
 ### [ In Germany, former deputy defense minister Holger Pfahls admits that in 1990 he took a bribe worth million euros from arms dealer Karlheinz Schreiber in connection of a sale of armored vehicles to the US. He is in trial accused of taking bribes from Saudi Arabia in a similar deal in 1991. ](/news/2005/06/28/in-germany-former-deputy-defense-minister-holger-pfahls-admits-that-in-1990-he-took-a-bribe-worth-million-euros-from-arms-dealer-karlheinz.md)
-_Context: Germany, Holger Pfahls, Karlheinz Schreiber, Saudi Arabia, bribe, euro_
+_Context: German, Holger Pfahls, Karlheinz Schreiber, Saudi Arabia, bribe, euro_
 
 ### [ In Australia, councillor Paul Tully wants to exhume the bodies of outlaws Steve Hart and Dan Kelly, two members of Ned Kelly's gang, because he suspects they may have survived and fled to Queensland. ](/news/2005/06/28/in-australia-councillor-paul-tully-wants-to-exhume-the-bodies-of-outlaws-steve-hart-and-dan-kelly-two-members-of-ned-kelly-s-gang-becaus.md)
 _Context: Australia, Ned Kelly, Paul Tully, Queensland_

@@ -22,7 +22,7 @@ _Context: Chinese, Philippine, Philippine Navy, South China Sea_
 _Context: House of Reeves, last year's riots in London_
 
 ### [A Florida special prosecutor charges George Zimmerman with murder in the second degree in relation to the death of Trayvon Martin. ](/news/2012/04/11/a-florida-special-prosecutor-charges-george-zimmerman-with-murder-in-the-second-degree-in-relation-to-the-death-of-trayvon-martin.md)
-_Context: FL, George Zimmerman, Trayvon Martin_
+_Context: Florida, George Zimmerman, Trayvon Martin_
 
 ### [Voters in South Korea go to the polls for a legislative election with the governing Saenuri Party retaining control of the National Assembly of South Korea. ](/news/2012/04/11/voters-in-south-korea-go-to-the-polls-for-a-legislative-election-with-the-governing-saenuri-party-retaining-control-of-the-national-assembly.md)
 _Context: National Assembly of South Korea, Saenuri Party, South Korea, legislative election_

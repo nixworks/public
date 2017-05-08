@@ -10,10 +10,10 @@ _Context: Hugo Chavez, National Assembly, President, Roman Catholic Church_
 _Context: Iraq, Moroccan_
 
 ### [ President George W. Bush attends the final United States-European Union summit of his Presidency with agreements to tighten sanctions against Iran for its nuclear program. ](/news/2008/06/10/president-george-w-bush-attends-the-final-united-states-european-union-summit-of-his-presidency-with-agreements-to-tighten-sanctions-again.md)
-_Context: European Union, George W. Bush, Iran, President, U.S., nuclear scientist_
+_Context: European Union, George W. Bush, Iran, President, United States, nuclear scientist_
 
 ### [ United States Republican senators block moves to levy a windfall profits tax on oil companies. ](/news/2008/06/10/united-states-republican-senators-block-moves-to-levy-a-windfall-profits-tax-on-oil-companies.md)
-_Context: R, U.S., senators, windfall profits tax_
+_Context: R, United States, United States senators, windfall profits tax_
 
 ### [ Water from the Tangjiashan Lake, created in the 2008 Sichuan earthquake, floods the abandoned town of Beichuan. ](/news/2008/06/10/water-from-the-tangjiashan-lake-created-in-the-2008-sichuan-earthquake-floods-the-abandoned-town-of-beichuan.md)
 _Context: Beichuan, Tangjiashan Lake, deadly earthquake, flood_
@@ -25,7 +25,7 @@ _Context: Han Seung-soo, Prime Minister, South Korea, beef imports, forming a go
 Officials say confirmed death toll from Khartoum plane crash now 28, not 120 as previously stated.
 
 ### [ A series of strong thunderstorms track through Southern Quebec, causing heavy damage south of Montreal and leaving over 250,000 people out of electricity. Champlain Bridge is closed for several hours after a wind gust causes over a half-dozen semi-trailer to tip on their side. ](/news/2008/06/10/a-series-of-strong-thunderstorms-track-through-southern-quebec-causing-heavy-damage-south-of-montreal-and-leaving-over-250-000-people-out.md)
-_Context: Champlain Bridge, Quebec, city of Montreal, semi-trailer, thunderstorm_
+_Context: Champlain Bridge, Montreal, Quebec, semi-trailer, thunderstorm_
 
 ## [Previous Day...](/news/2008/06/9/index.md)
 

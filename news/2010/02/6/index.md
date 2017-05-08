@@ -19,7 +19,7 @@ _Context: G7, Haiti, Iqaluit, Nunavut_
 First the bad news: Spain&#039;s economy contracted by 3.6% in 2009, the most in decades, as domestic demand plummeted according to a Bank of Spain estimate that was in line with government forecasts.
 
 ### [Thousands protest in Togo against a decision by the Confederation of African Football to ban the country from the next two editions of the Africa Cup of Nations. ](/news/2010/02/6/thousands-protest-in-togo-against-a-decision-by-the-confederation-of-african-football-to-ban-the-country-from-the-next-two-editions-of-the-a.md)
-_Context: Africa Cup of Nations, CAF, Togo_
+_Context: Africa Cup of Nations, Confederation of African Football, Togo_
 
 ### [An Australian mining company signs a $70 billion deal to supply Chinese power stations with coal, in the country's biggest ever export contract. ](/news/2010/02/6/an-australian-mining-company-signs-a-70-billion-deal-to-supply-chinese-power-stations-with-coal-in-the-country-s-biggest-ever-export-contr.md)
 MINING magnate Clive Palmer has secured Australia&#039;s biggest export deal, with a $70 billion agreement to sell coal to China.

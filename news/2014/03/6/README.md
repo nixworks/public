@@ -16,7 +16,7 @@ The friendly-fire incident is considered one of the worst in the war&rsquo;s 12-
 LONDON -- The European Union has frozen the assets of former Ukrainian President Viktor Yanukovich , two of his sons and more than a dozen advisors who it says are responsible for stealing state funds.
 
 ### [The Government of Venezuela cuts diplomatic ties with Panama calling it a "lackey of the United States". ](/news/2014/03/6/the-government-of-venezuela-cuts-diplomatic-ties-with-panama-calling-it-a-lackey-of-the-united-states.md)
-_Context: Panama, U.S., Venezuela_
+_Context: Panama, United States, Venezuela_
 
 ### [Niger deports Saadi al-Gaddafi, son of Muammar al-Gaddafi, to Libya. ](/news/2014/03/6/niger-deports-saadi-al-gaddafi-son-of-muammar-al-gaddafi-to-libya.md)
 _Context: Libya, Muammar al-Gaddafi, Niger, Saadi al-Gaddafi_
@@ -30,12 +30,5 @@ _Context: Jasmine Revolution of 2011, Moncef Marzouki, President of Tunisia_
 ### [The 14th Dalai Lama delivers the Opening Prayer at the US Senate on Capitol Hill in Washington, D.C. ](/news/2014/03/6/the-14th-dalai-lama-delivers-the-opening-prayer-at-the-us-senate-on-capitol-hill-in-washington-d-c.md)
 _Context: 14th Dalai Lama, US Senate, Washington, D.C._
 
-### [Prince Harry launches the Invictus Games, a Paralympic-style sporting championship for wounded soldiers. ](/news/2014/03/6/prince-harry-launches-the-invictus-games-a-paralympic-style-sporting-championship-for-wounded-soldiers.md)
-Prince Harry launches Paralympic-style games for injured members of the armed services.
-
-### [Vietnamese defender Tran Dinh Dong given 28-match ban in March 2014 after breaking an opponent's leg. ](/news/2014/03/6/vietnamese-defender-tran-dinh-dong-given-28-match-ban-in-march-2014-after-breaking-an-opponent-s-leg.md)
-uring a Vietnamese league match in February, Song Lam Nghe An defender Tran Dinh Dong put in a crunching tackle on Hung Vuong An Giang midfielder Nguyen Anh Hung. Nguyen broke his leg and will be out of action for up to a year, but his assailant will also be facing a lengthy spell on the sidelines as
-
-### [The Los Angeles Clippers defeat the Los Angeles Lakers 142-94. The worst Lakers regular season loss in franchise history. ](/news/2014/03/6/the-los-angeles-clippers-defeat-the-los-angeles-lakers-142-94-the-worst-lakers-regular-season-loss-in-franchise-history.md)
 ## [Previous Day...](/news/2014/03/5/index.md)
 

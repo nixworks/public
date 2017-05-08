@@ -39,8 +39,5 @@ _Context: Bradford West, George Galloway, Respect, United Kingdom House of Commo
 ### [The UK government says that viaspan, a solution used to preserve some donor organs, could be contaminated with bacteria after routine tests detected ''Bacillus cereus'' in the solution used to test the sterility of viaspan. ](/news/2012/03/29/the-uk-government-says-that-viaspan-a-solution-used-to-preserve-some-donor-organs-could-be-contaminated-with-bacteria-after-routine-tests.md)
 The solution used to preserve some donor organs could be contaminated with bacteria, the government says.
 
-### [Stuart Lancaster is named permanent England rugby union head coach after signing a four-year contract. ](/news/2012/03/29/stuart-lancaster-is-named-permanent-england-rugby-union-head-coach-after-signing-a-four-year-contract.md)
-_Context: England, Stuart Lancaster_
-
 ## [Previous Day...](/news/2012/03/28/index.md)
 

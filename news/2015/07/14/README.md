@@ -30,11 +30,5 @@ _Context: England, Northumbria University, Sun, solar cycle_
 ### [Scientists at CERN's Large Hadron Collider announce discovery of the pentaquark. ](/news/2015/07/14/scientists-at-cern-s-large-hadron-collider-announce-discovery-of-the-pentaquark.md)
 Scientists at the Large Hadron Collider have announced the discovery of a new particle called the pentaquark.
 
-### [A panel appointed by the Supreme Court of India recommends that two Indian Premier League cricket teams, the Chennai Super Kings and Rajasthan Royals be suspended for two years due to a corruption scandal. ](/news/2015/07/14/a-panel-appointed-by-the-supreme-court-of-india-recommends-that-two-indian-premier-league-cricket-teams-the-chennai-super-kings-and-rajasth.md)
-_Context: Chennai Super Kings, Indian Premier League, Indian Supreme Court, Rajasthan Royals_
-
-### [In baseball, the American League defeats the National League 6-3 to win home-field advantage in the 2015 World Series. ](/news/2015/07/14/in-baseball-the-american-league-defeats-the-national-league-6-3-to-win-home-field-advantage-in-the-2015-world-series.md)
-“That&#39;ll do it! The American League defeats the National League 6-3 to secure home-field advantage in the World Series. #AllStarGame”
-
 ## [Previous Day...](/news/2015/07/13/index.md)
 

@@ -54,14 +54,5 @@ _Context: Stanford University, lithium-ion, zinc-air battery_
 ### [The asteroid (285263) 1998 QE2, expected to approach within 3.6 million miles of Earth on May 31, is discovered to have its own moon.](/news/2013/05/30/the-asteroid-285263-1998-qe2-expected-to-approach-within-3-6-million-miles-of-earth-on-may-31-is-discovered-to-have-its-own-moon.md)
 When asteroid 1998 QE2 makes its closest approach to Earth on Friday, it will not be traveling alone: The massive space rock is hurtling through space accompanied by its own moon.
 
-### [In association football, a judge suspends England's match against Brazil over safety fears at the Estadio do Maracana in Rio de Janeiro. ](/news/2013/05/30/in-association-football-a-judge-suspends-england-s-match-against-brazil-over-safety-fears-at-the-esta-dio-do-maracanaps-in-rio-de-janeiro.md)
-_Context: Brazil national football team, England national football team, Estadio do Maracana, Rio de Janeiro, association football_
-
-### [FC Barcelona releases Eric Abidal, who had fought back from a liver tumour and a liver transplant to play again. ](/news/2013/05/30/fc-barcelona-releases-aric-abidal-who-had-fought-back-from-a-liver-tumour-and-a-liver-transplant-to-play-again.md)
-_Context: Eric Abidal, FC Barcelona_
-
-### [Arvind Mahankali wins the 86th annual Scripps National Spelling Bee. ](/news/2013/05/30/arvind-mahankali-wins-the-86th-annual-scripps-national-spelling-bee.md)
-_Context: 86th annual Scripps National Spelling Bee_
-
 ## [Previous Day...](/news/2013/05/29/index.md)
 

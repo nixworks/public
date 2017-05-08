@@ -18,8 +18,5 @@ Russia is to deploy its advanced long-range surface-to-air missiles S-400 in Cri
 ### [Donald Trump chooses Indiana governor Mike Pence as his vice presidential running mate. ](/news/2016/07/15/donald-trump-chooses-indiana-governor-mike-pence-as-his-vice-presidential-running-mate.md)
 _Context: Donald Trump, Indiana, Mike Pence, Republican Party vice presidential candidate selection, 2016_
 
-### [  The largest video fighting game tournament in the world begins its three day event running from July 15-17. Over 15,000 players registered to compete with record breaking entrants for ''Street Fighter 5'' at 5,107, ''Super Smash Bros for Wii U'' at 2,662 and ''Super Smash Bros. Melee'' at 2,372 entrants. ](/news/2016/07/15/the-largest-video-fighting-game-tournament-in-the-world-begins-its-three-day-event-running-from-july-15a17-over-15-000-players-register.md)
-_Context: Evolution Championship Series, Street Fighter 5, Super Smash Bros for Wii U, Super Smash Bros. Melee, fighting game, video_
-
 ## [Previous Day...](/news/2016/07/14/index.md)
 

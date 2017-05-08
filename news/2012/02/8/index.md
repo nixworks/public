@@ -43,7 +43,7 @@ _Context: Mohamed Nasheed, Mohammed Waheed Hassan, President, national unity gov
 _Context: Bharatiya Janata Party, C C Patil, India, J. Krishna Palemar, Karnataka, Laxman Savadi, Legislative Assembly_
 
 ### [The Washington State Legislature in the United States approves a bill that will allow same-sex marriage in the state. ](/news/2012/02/8/the-washington-state-legislature-in-the-united-states-approves-a-bill-that-will-allow-same-sex-marriage-in-the-state.md)
-_Context: U.S., Washington State Legislature, same-sex marriage_
+_Context: United States, Washington State Legislature, same-sex marriage_
 
 ### [Wang Lijun, former police chief of the central Chinese city of Chongqing, unexpectedly leaves his position and goes to the Chongqing U.S. Consulate, sparking rumours of his political downfall. ](/news/2012/02/8/wang-lijun-former-police-chief-of-the-central-chinese-city-of-chongqing-unexpectedly-leaves-his-position-and-goes-to-the-chongqing-u-s-co.md)
 A top Chinese policeman in charge of a major crackdown on organised crime goes on leave, amid rumours of an investigation and a bid for asylum.
@@ -53,12 +53,6 @@ _Context: Cour de Justice de la Rpublique, Frenchman, L'Oral, Liliane Bettencour
 
 ### [In Charlottesville, Virginia, U.S., the prosecution and defense both make their opening statements in the trial of former University of Virginia men's lacrosse player George Huguely on murder charges in the 2010 death of former UVA women's lacrosse player Yeardley Love. ](/news/2012/02/8/in-charlottesville-virginia-u-s-the-prosecution-and-defense-both-make-their-opening-statements-in-the-trial-of-former-university-of-virg.md)
 A former University of Virginia lacrosse player and the ex-girlfriend he is accused of killing traded allegations of infidelity and angry emails in the months before her death, with one of his messages saying: &quot;I should have killed you,&quot; prosecutors said
-
-### [English football:Tottenham Hotspur manager Harry Redknapp is cleared of tax evasion at a London court. ](/news/2012/02/8/english-football-ptottenham-hotspur-manager-harry-redknapp-is-cleared-of-tax-evasion-at-a-london-court.md)
-Harry Redknapp says his &quot;nightmare&quot; is over after being cleared of tax evasion along with Milan Mandaric.
-
-### [The semi-finals of the 2012 Africa Cup of Nations take place in Equatorial Guinea and Gabon. ](/news/2012/02/8/the-semi-finals-of-the-2012-africa-cup-of-nations-take-place-in-equatorial-guinea-and-gabon.md)
-_Context: 2012 Africa Cup of Nations, Equatorial Guinea, Gabon_
 
 ## [Previous Day...](/news/2012/02/7/index.md)
 

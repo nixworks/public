@@ -7,7 +7,7 @@ _Context: Mozdok - Makhachkala - Kazi Magomed pipeline, Republic of Dagestan, Ru
 _Context: Baidu, China's, Iran_
 
 ### [Masoud Alimohammadi, an Iranian nuclear physics professor, is killed in a bomb attack in the capital Tehran; Iran state media accuses Israel and the United States of involvement. ](/news/2010/01/12/masoud-alimohammadi-an-iranian-nuclear-physics-professor-is-killed-in-a-bomb-attack-in-the-capital-tehran-iran-state-media-accuses-israel.md)
-_Context: Iran, Israel, Masoud Alimohammadi, Tehran, U.S._
+_Context: Iran, Israel, Masoud Alimohammadi, Tehran, United States_
 
 ### [Mexican Drug War:Mexican authorities report the capture of Teodoro Garcia Simental, one of the country's most notorious drug lords, in a raid in La Paz, Baja California Sur. ](/news/2010/01/12/mexican-drug-war-pmexican-authorities-report-the-capture-of-teodoro-garcaa-simental-one-of-the-country-s-most-notorious-drug-lords-in-a-r.md)
 _Context: La Paz, Baja California Sur, Mexican Drug War, Mexico, Teodoro Garcia Simental_
@@ -62,12 +62,6 @@ _Context: Mahinda Rajapaksa, Sri Lanka, Tamil_
 
 ### [The "bizarre behaviour" of a nocturnal raspy cricket pollinating a flower is caught on camera on the island of Reunion, contradicting the image of crickets destroying flowers. ](/news/2010/01/12/the-bizarre-behaviour-of-a-nocturnal-raspy-cricket-pollinating-a-flower-is-caught-on-camera-on-the-island-of-ra-c-union-contradicting-the-i.md)
 _Context: Reunion, cricket, pollinating_
-
-### [The Confederation of African Football officially "disqualifies" and plans to punish the Togo national football team for failing to take part in the 2010 Africa Cup of Nations, despite the fatal machine gun attack on their team bus. ](/news/2010/01/12/the-confederation-of-african-football-officially-disqualifies-and-plans-to-punish-the-togo-national-football-team-for-failing-to-take-part.md)
-Togo have been threatened with punishment after their withdrawal from the Africa Cup of Nations, adding outrageous insult to the grievous injuries they have suffered.
-
-### [Australia experiences its hottest night since 1902, as a heat wave grips the country. ](/news/2010/01/12/australia-experiences-its-hottest-night-since-1902-as-a-heat-wave-grips-the-country.md)
-_Context: Australia, heat wave_
 
 ## [Previous Day...](/news/2010/01/11/index.md)
 

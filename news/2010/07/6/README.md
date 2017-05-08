@@ -19,7 +19,7 @@ _Context: Europe, Finland, McDonald_
 An American soldier suspected of leaking video footage of a US Apache helicopter strike which killed civilians in Baghdad has been charged, the US military said.
 
 ### [The Ghana national football team are to receive national awards after their success at the 2010 FIFA World Cup, while former UN Secretary-General Kofi Annan writes of his heartbreak. ](/news/2010/07/6/the-ghana-national-football-team-are-to-receive-national-awards-after-their-success-at-the-2010-fifa-world-cup-while-former-un-secretary-ge.md)
-_Context: 2010 FIFA World Cup, Ghana, Kofi Annan_
+_Context: 2010 FIFA World Cup, Ghana national football team, Kofi Annan_
 
 ### [The Federal government of the United States files a lawsuit against the U.S. state of Arizona in its bid to overturn its controversial immigration law. ](/news/2010/07/6/the-federal-government-of-the-united-states-files-a-lawsuit-against-the-u-s-state-of-arizona-in-its-bid-to-overturn-its-controversial-immig.md)
 _Context: American, Arizona, immigration law, state_

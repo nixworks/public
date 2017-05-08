@@ -21,8 +21,5 @@ Sir Rex Hunt, who was governor of the Falkland Islands during the Argentine inva
 ### [2012 EPS Edison Volta Prize was awarded to Rolf-Dieter Heuer, CERN Director General, and two his colleagues.](/news/2012/11/12/2012-eps-edison-volta-prize-was-awarded-to-rolf-dieter-heuer-cern-director-general-and-two-his-colleagues.md)
 _Context: CERN, EPS, Edison Volta Prize, Rolf-Dieter Heuer_
 
-### [Serbian Novak Djokovic beats Swiss Roger Federer 7-6 (8-6), 7-5 in final to win 2012 ATP World Tour Finals in singles. ](/news/2012/11/12/serbian-novak-djokovic-beats-swiss-roger-federer-7-6-8-6-7-5-in-final-to-win-2012-atp-world-tour-finals-in-singles.md)
-Follow live game-by-game coverage of the ATP World Tour final between Novak Djokovic and Roger Federer at the 02 on Monday November 12, 2012. Scheduled to start 8pm GMT.
-
 ## [Previous Day...](/news/2012/11/11/index.md)
 

@@ -33,8 +33,5 @@ News - Your daily dose of information: European and International latest breakin
 ### [The Trademark Trial and Appeal Board, a tribunal of the United States Patent and Trademark Office, rules 2-1 to cancel several trademarks of the NFL's Washington Redskins on the basis that they were "disparaging to Native Americans." The cancellation will be stayed while the team appeals in federal court, a process likely to take years. ](/news/2014/06/18/the-trademark-trial-and-appeal-board-a-tribunal-of-the-united-states-patent-and-trademark-office-rules-2a1-to-cancel-several-trademarks.md)
 _Context: National Football League, Native American, Trademark Trial and Appeal Board, United States Patent and Trademark Office, Washington Redskins, cancel several trademarks, disparaging, federal court_
 
-### [Al-Shorta are declared champions of the 2013-14 Iraqi Premier League season after the Iraqi Football Association decide to end the league prematurely due to the war situation in the country. ](/news/2014/06/18/al-shorta-are-declared-champions-of-the-2013a14-iraqi-premier-league-season-after-the-iraqi-football-association-decide-to-end-the-league.md)
-_Context: 2013-14 Iraqi Premier League, Al-Shorta, Iraqi Football Association_
-
 ## [Previous Day...](/news/2014/06/17/index.md)
 

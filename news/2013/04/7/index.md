@@ -33,20 +33,5 @@ _Context: Canada, Halifax, Novia Scotia, Rehtaeh Parsons, Royal Canadian Mounted
 ### [Voters in Montenegro go to the polls for a presidential election with both candidates declaring themselves winner. ](/news/2013/04/7/voters-in-montenegro-go-to-the-polls-for-a-presidential-election-with-both-candidates-declaring-themselves-winner.md)
 Incumbent Vujanovic holds lead in opinion polls going into election day, as statehood issue dominates voter concerns.
 
-### [In road bicycle racing, Fabian Cancellara wins 2013 Paris-Roubaix ahead of Sep Vanmarcke and Niki Terpstra. ](/news/2013/04/7/in-road-bicycle-racing-fabian-cancellara-wins-2013-parisaroubaix-ahead-of-sep-vanmarcke-and-niki-terpstra.md)
-The heavy favorite settles accounts first on the road, then on the Roubaix velodrome, taking his third victory ahead of Sep Vanmarcke
-
-### [In motorcycle racing, Spain's Jorge Lorenzo wins 2013 Qatar Grand Prix, the first stage of the 2013 MotoGP season. ](/news/2013/04/7/in-motorcycle-racing-spain-s-jorge-lorenzo-wins-2013-qatar-grand-prix-the-first-stage-of-the-2013-motogp-season.md)
-_Context: 2013, 2013 MotoGP season, Jorge Lorenzo, Qatar Grand Prix, Spain, motorcycle racing_
-
-### [In curling, Sweden wins the 2013 World Men's Curling Championship defeating Canada 8-6 in the final. ](/news/2013/04/7/in-curling-sweden-wins-the-2013-world-men-s-curling-championship-defeating-canada-8a6-in-the-final.md)
-Niklas Edin came up with the double take-out in the 10th end to run Canada out of rocks and give Sweden the world curling championships on Sunday evening. 
-
-### [In tennis, Canada, Serbia, Argentina and Czech Republic reach 2013 Davis Cup semifinals. ](/news/2013/04/7/in-tennis-canada-serbia-argentina-and-czech-republic-reach-2013-davis-cup-semifinals.md)
-Argentina will face defending champions Czech Republic after they eliminated Kazakhstan earlier in the day.
-
-### [In college basketball:The University of Louisville and University of Connecticut advance to the championship game of the 2013 NCAA Women's Division I Basketball Tournament. ](/news/2013/04/7/in-college-basketball-pthe-university-of-louisville-and-university-of-connecticut-advance-to-the-championship-game-of-the-2013-ncaa-women-s.md)
-Get a recap of the Louisville Cardinals vs. California Golden Bears basketball game.
-
 ## [Previous Day...](/news/2013/04/6/index.md)
 

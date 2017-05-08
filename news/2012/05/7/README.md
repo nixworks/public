@@ -36,14 +36,5 @@ _Context: Syria, Syrian uprising (2011-present), parliamentary elections_
 ### [Paeleoclimatology research published in ''Current Biology'' suggests that the greenhouse gas methane from dinosaur's flatulence may have warmed the Earth. ](/news/2012/05/7/paeleoclimatology-research-published-in-current-biology-suggests-that-the-greenhouse-gas-methane-from-dinosaur-s-flatulence-may-have-war.md)
 _Context: Current Biology, Earth, Paeleoclimatology, dinosaur, flatulence, greenhouse gas, methane_
 
-### [Germany and the Republic of Ireland name their squads for UEFA Euro 2012. ](/news/2012/05/7/germany-and-the-republic-of-ireland-name-their-squads-for-uefa-euro-2012.md)
-_Context: Germany, Ireland, UEFA Euro 2012_
-
-### [Gael Givet, troubled by a heart problem, suffers a further health scare during the live televised Premier League game between Blackburn Rovers and Wigan Athletic, prompting treatment from physios and paramedics. ](/news/2012/05/7/gaa-l-givet-troubled-by-a-heart-problem-suffers-a-further-health-scare-during-the-live-televised-premier-league-game-between-blackburn-rov.md)
-Gael Givet suffers a reported health scare, delaying the restart of Blackburn&#039;s match with Wigan at Ewood Park.
-
-### [Former Premier League champions Blackburn Rovers are relegated to The Championship. ](/news/2012/05/7/former-premier-league-champions-blackburn-rovers-are-relegated-to-the-championship.md)
-Blackburn are relegated to the Championship after losing at home to Wigan, whose Premier League status is secure.
-
 ## [Previous Day...](/news/2012/05/6/index.md)
 

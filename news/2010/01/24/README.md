@@ -10,7 +10,7 @@ _Context: Indianapolis Colts, National Football League, New Orleans Saints, Supe
 _Context: Gryfino, Poland_
 
 ### [The Chinese government denies state involvement in the cyber attacks on Google, while the state-run ''China Daily'' newspaper accuses the United States of hypocrisy. ](/news/2010/01/24/the-chinese-government-denies-state-involvement-in-the-cyber-attacks-on-google-while-the-state-run-china-daily-newspaper-accuses-the-un.md)
-_Context: China Daily, China's, Google, U.S., cyber attacks, government, hypocrisy_
+_Context: China Daily, China's, Google, United States, cyber attacks, government, hypocrisy_
 
 ### [A flight operated by Kolavia on behalf of Taban Air crashes on landing at Mashhad International Airport, Iran, injuring at least 46 people. ](/news/2010/01/24/a-flight-operated-by-kolavia-on-behalf-of-taban-air-crashes-on-landing-at-mashhad-international-airport-iran-injuring-at-least-46-people.md)
 _Context: International Airport, Iran, Kolavia, Mashhad, Taban Air, crashes on landing_
@@ -46,7 +46,7 @@ A candidate who opposed a plan to move a U.S. air base won, raising pressure on 
 Two people have been arrested in Wales in connection with the discovery of an eight-month-old baby boy at a cathedral in Carlow.
 
 ### [Ghana eliminate the hosts of the 2010 Africa Cup of Nations Angola following accusations of "intimidatory" tactics carried out by the country's security forces. ](/news/2010/01/24/ghana-eliminate-the-hosts-of-the-2010-africa-cup-of-nations-angola-following-accusations-of-intimidatory-tactics-carried-out-by-the-countr.md)
-_Context: 2010 Africa Cup of Nations, Angola, Ghana_
+_Context: 2010 Africa Cup of Nations, Angola, Ghana national football team_
 
 ### [James Cameron's ''Avatar'' becomes (not accounting for inflation) the second highest grossing movie in the United States and Canada and the best selling movie overseas. ](/news/2010/01/24/james-cameron-s-avatar-becomes-not-accounting-for-inflation-the-second-highest-grossing-movie-in-the-united-states-and-canada-and-the.md)
 Sci-fi epic&#039;s international boxoffice reaches $1.288 billion

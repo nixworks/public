@@ -22,7 +22,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: 2005 Giro d'Italia, Paolo Savoldelli_
 
 ### [ The Coca Cola League One Play Off Final is won by Sheffield Wednesday at the Millennium Stadium, Cardiff after they beat Hartlepool United 4-2 to gain promotion to the Coca Cola Championship.](/news/2005/05/29/the-coca-cola-league-one-play-off-final-is-won-by-sheffield-wednesday-at-the-millennium-stadium-cardiff-after-they-beat-hartlepool-united.md)
-_Context: Cardiff, Coca Cola Championship, Coca Cola League One, Hartlepool United, Sheffield Wednesday, their own ground_
+_Context: Cardiff, Coca Cola Championship, Coca Cola League One, Hartlepool United, Millennium Stadium, Sheffield Wednesday_
 
 ## [Previous Day...](/news/2005/05/28/index.md)
 

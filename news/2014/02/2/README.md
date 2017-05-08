@@ -18,8 +18,5 @@ On Feb. 2, Costa Ricans will head to the polls to elect a new president and memb
 ### [Salvadoran presidential election, 2014:Voters in El Salvador go to the polls with a tight race expected. ](/news/2014/02/2/salvadoran-presidential-election-2014-pvoters-in-el-salvador-go-to-the-polls-with-a-tight-race-expected.md)
 MEXICO CITY — Salvadorans vote Sunday in a presidential election that may give former leftist rebels a second chance at government — or return national leadership to the right-wing party that ruled the country for two decades.
 
-### [Super Bowl XLVIII:In American football, the Seattle Seahawks defeat the Denver Broncos with a final score of 43-8 at MetLife Stadium in East Rutherford, New Jersey. ](/news/2014/02/2/super-bowl-xlviii-pin-american-football-the-seattle-seahawks-defeat-the-denver-broncos-with-a-final-score-of-43a8-at-metlife-stadium-in-e.md)
-_Context: American football, Denver Broncos, East Rutherford, New Jersey, MetLife Stadium, Seattle Seahawks, Super Bowl XLVIII_
-
 ## [Previous Day...](/news/2014/02/1/index.md)
 

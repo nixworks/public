@@ -45,11 +45,5 @@ China sends its first woman into space as 33-year-old fighter pilot Liu Yang is 
 ### [The United States Air Force's robotic Boeing X-37B spaceplane returns to Earth after a classified 469-day orbital mission. ](/news/2012/06/16/the-united-states-air-force-s-robotic-boeing-x-37b-spaceplane-returns-to-earth-after-a-classified-469-day-orbital-mission.md)
 The U.S. Air Force&#039;s secretive X-37B space plane landed after completing its hush-hush second mission, which officials have deemed a &quot;spectacular success.&quot;
 
-### [UEFA Euro 2012:UEFA opens disciplinary proceedings against the Croatian Football Federation after bananas are thrown and racist chants are heard at the Italy-Croatia game. ](/news/2012/06/16/uefa-euro-2012-puefa-opens-disciplinary-proceedings-against-the-croatian-football-federation-after-bananas-are-thrown-and-racist-chants-are.md)
-Uefa fines the Croatian Football Federation £65,000 after racist chanting was directed at Mario Balotelli during the Italy game.
-
-### [Daredevil Nik Wallenda becomes the first person to walk a tightrope above the brink of Niagara Falls between the United States and Canada. ](/news/2012/06/16/daredevil-nik-wallenda-becomes-the-first-person-to-walk-a-tightrope-above-the-brink-of-niagara-falls-between-the-united-states-and-canada.md)
-_Context: Canada, Niagara Falls, Nik Wallenda, U.S., tightrope_
-
 ## [Previous Day...](/news/2012/06/15/index.md)
 

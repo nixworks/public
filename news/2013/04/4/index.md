@@ -34,7 +34,7 @@ _Context: Chechnya, Grozny, Russia_
 The death toll from a new strain of bird flu rose to six in China on Thursday as scientists at the U.S. Centers for Disease Control and Prevention and around the world stepped up efforts to determine...
 
 ### [A group of American scientists at Washington University announce in a study published in the journal ''Neuron'' that they have identified a number of genetic markers that are associated with increased risk of Alzheimer's disease. ](/news/2013/04/4/a-group-of-american-scientists-at-washington-university-announce-in-a-study-published-in-the-journal-neuron-that-they-have-identified-a.md)
-_Context: ''Neuron'', Alzheimer's disease, U.S., Washington University, genetic markers_
+_Context: ''Neuron'', Alzheimer's disease, United States, Washington University, genetic markers_
 
 ### [2013 Korean crisis:South Korean sources say a North Korean medium range missile has been moved to the eastern coast and that it may be ready for testing or for attacking Japan or Guam. ](/news/2013/04/4/2013-korean-crisis-psouth-korean-sources-say-a-north-korean-medium-range-missile-has-been-moved-to-the-eastern-coast-and-that-it-may-be-read.md)
 John Everard, former UK Ambassador, explains that North Korea &quot;believe that they are the victim, [and] they believe that they are being hounded by the United States.&quot;
@@ -68,21 +68,6 @@ Scientists have built a 3-D printer that creates material resembling human tissu
 
 ### [A new species of giant tarantula, ''Poecilotheria rajaei'', is discovered in Sri Lanka. ](/news/2013/04/4/a-new-species-of-giant-tarantula-poecilotheria-rajaei-is-discovered-in-sri-lanka.md)
 _Context: Poecilotheria rajaei, Sri Lanka, tarantula_
-
-### [The first legs of the 2012-13 UEFA Europa League quarter-finals are held in Europe. Fernando Torres scores twice and helps Chelsea to a 3-1 defeat of Rubin Kazan. ](/news/2013/04/4/the-first-legs-of-the-2012a13-uefa-europa-league-quarter-finals-are-held-in-europe-fernando-torres-scores-twice-and-helps-chelsea-to-a-3a.md)
-Fernando Torres scores twice as Chelsea establish a first-leg lead over Rubin Kazan in the Europa League quarter-final.
-
-### [Commonwealth Games Minister Jann Stuckey unveils the logo and a countdown clock for the 2018 Commonwealth Games in Gold Coast, Queensland, Australia, at an official launch ceremony. ](/news/2013/04/4/commonwealth-games-minister-jann-stuckey-unveils-the-logo-and-a-countdown-clock-for-the-2018-commonwealth-games-in-gold-coast-queensland-a.md)
-_Context: 2018 Commonwealth Games, Australia, Commonwealth Games, Gold Coast, Jann Stuckey, Queensland_
-
-### [In association football, former England and current Blackburn Rovers goalkeeper Paul Robinson is sidelined after developing a pulmonary embolism. ](/news/2013/04/4/in-association-football-former-england-and-current-blackburn-rovers-goalkeeper-paul-robinson-is-sidelined-after-developing-a-pulmonary-embo.md)
-_Context: Blackburn Rovers, England national football team, Paul Robinson, association football, goalkeeper, pulmonary embolism_
-
-### [Pac-12 Coordinator of Men's Basketball Officiating Ed T. Rush resigns amid controversy over comments he made about Arizona Wildcats head coach Sean Miller. ](/news/2013/04/4/pac-12-coordinator-of-menas-basketball-officiating-ed-t-rush-resigns-amid-controversy-over-comments-he-made-about-arizona-wildcats-head-c.md)
-_Context: Arizona Wildcats, Ed T. Rush, Pac-12, Sean Miller, college basketball_
-
-### [In college basketball, Miami's Jim Larranaga is named Coach of the Year by the Associated Press. ](/news/2013/04/4/in-college-basketball-miami-s-jim-larraa-aga-is-named-coach-of-the-year-by-the-associated-press.md)
-Jim Larranaga was in Atlanta on Thursday, arriving a couple days early for the NCAA Final Four. Larranaga will be a spectator, not a participant, in the national semifinals after his University of Miami squad was knocked out of the tournament last week by Marquette in Washington D.
 
 ## [Previous Day...](/news/2013/04/3/index.md)
 

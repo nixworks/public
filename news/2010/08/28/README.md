@@ -33,8 +33,5 @@ The exiled Madagascan president is sentenced to life in prison with hard labour 
 ### [A large gathering of people attend Glenn Beck's "Restoring Honor" rally at the National Mall in Washington, D.C. ](/news/2010/08/28/a-large-gathering-of-people-attend-glenn-beck-s-restoring-honor-rally-at-the-national-mall-in-washington-d-c.md)
 _Context: "Restoring Honor" rally, Glenn Beck, National Mall, Washington, D.C._
 
-### [Four members of the Pakistan national cricket team are allegedly involved in a betting scandal including captain Salman Butt fast bowlers Mohammad Asif and Mohammad Amir and wicketkeeper Kamran Akmal during their current tour of England. ](/news/2010/08/28/four-members-of-the-pakistan-national-cricket-team-are-allegedly-involved-in-a-betting-scandal-including-captain-salman-butt-fast-bowlers-mo.md)
-_Context: Kamran Akmal, Mohammad Amir, Mohammad Asif, Pakistan national cricket team, Pakistani cricket team in England in 2010, Salman Butt, betting, fast bowler, wicketkeeper_
-
 ## [Previous Day...](/news/2010/08/27/index.md)
 

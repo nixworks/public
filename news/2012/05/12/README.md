@@ -39,8 +39,5 @@ Presumptive US Republican presidential nominee Mitt Romney restates his oppositi
 ### [The discovery of a missing piece of the Mayan calendar appears to render the 2012 phenomenon obsolete, by proving that the Maya did not believe 2012 to be the end of the world. ](/news/2012/05/12/the-discovery-of-a-missing-piece-of-the-mayan-calendar-appears-to-render-the-2012-phenomenon-obsolete-by-proving-that-the-maya-did-not-beli.md)
 &#xD;&#xA;The world is not going to end on December 21. No, not even according to the Mayan calendar. And especially&#xD;&#xA; not according to the awesome newly uncovered Mayan calendar -- the &#xD;&#xA;oldest known Mayan cale
 
-### [Fans clash in Istanbul, Turkey, as Galatasaray draw with Fenerbahce S.K. to secure their 18th Turkish football title. ](/news/2012/05/12/fans-clash-in-istanbul-turkey-as-galatasaray-draw-with-fenerbahasse-s-k-to-secure-their-18th-turkish-football-title.md)
-Fenerbahce supporters storm onto pitch and battle police in Istanbul as draw hands title to archrivals Galatasaray.
-
 ## [Previous Day...](/news/2012/05/11/index.md)
 

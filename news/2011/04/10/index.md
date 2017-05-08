@@ -30,11 +30,5 @@ Ollanta Humala, a nationalist critical of the expanding influence of foreign com
 ### [The governing Democratic Party of Japan loses 70 seats in local government elections due to concerns over handling of the Fukushima I nuclear accidents. ](/news/2011/04/10/the-governing-democratic-party-of-japan-loses-70-seats-in-local-government-elections-due-to-concerns-over-handling-of-the-fukushima-i-nuclea.md)
 _Context: Democratic Party, Fukushima I nuclear accidents_
 
-### [Sebastian Vettel of Red Bull Racing wins the 2011 Malaysian Grand Prix. ](/news/2011/04/10/sebastian-vettel-of-red-bull-racing-wins-the-2011-malaysian-grand-prix.md)
-_Context: 2011 Malaysian Grand Prix, Red Bull Racing, Sebastian Vettel_
-
-### [South African golfer Charl Schwartzel wins the United States 2011 Masters Tournament. ](/news/2011/04/10/south-african-golfer-charl-schwartzel-wins-the-united-states-2011-masters-tournament.md)
-_Context: 2011 Masters Tournament, Charl Schwartzel, South Africa, U.S., golf_
-
 ## [Previous Day...](/news/2011/04/9/index.md)
 

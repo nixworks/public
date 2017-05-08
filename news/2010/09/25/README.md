@@ -31,7 +31,7 @@ Palestinians are willing and ready to reach a comprehensive and just peace agree
 Japan refused to apologize on Saturday for detaining a Chinese boat captain, showing no signs of softening in a dispute between the two economic powers after Japan gave ground and released him.
 
 ### [A U.S. federal court judge denies convicted murderer and rapist Albert Green's request for a stay of execution, clearing the way for California's first execution in five years. ](/news/2010/09/25/a-u-s-federal-court-judge-denies-convicted-murderer-and-rapist-albert-green-s-request-for-a-stay-of-execution-clearing-the-way-for-califor.md)
-_Context: California, U.S., federal court_
+_Context: California, United States, federal court_
 
 ### [Pakistan International Airlines Flight 782  departing from Toronto, Canada, for Karachi, Pakistan, carrying 273 passengers lands at Arlanda Airport in Stockholm, Sweden, due to a bomb threat.  A man is taken into custody by the Swedish National Task Force and then released. ](/news/2010/09/25/pakistan-international-airlines-flight-782-departing-from-toronto-canada-for-karachi-pakistan-carrying-273-passengers-lands-at-arlanda.md)
 _Context: Arlanda Airport, Canada, Karachi, National Task Force, Pakistan, Pakistan International Airlines, Stockholm, Sweden, Toronto, bomb threat_
@@ -50,15 +50,6 @@ _Context: International Space Station, Kazakhstan, Soyuz TMA-18_
 
 ### [The Uganda Wildlife Authority (UWA) states that the population of some animals in the country's national parks and game reserves has doubled since 1999. ](/news/2010/09/25/the-uganda-wildlife-authority-uwa-states-that-the-population-of-some-animals-in-the-country-s-national-parks-and-game-reserves-has-doubled.md)
 _Context: Uganda Wildlife Authority_
-
-### [The Australian Football League Grand Final between Collingwood and St Kilda ends in a draw, resulting in a rematch to be played next weekend. ](/news/2010/09/25/the-australian-football-league-grand-final-between-collingwood-and-st-kilda-ends-in-a-draw-resulting-in-a-rematch-to-be-played-next-weekend.md)
-Collingwood and St Kilda will go through it all again in a replay next weekend, after the 2010 AFL grand final finished in a remarkable draw at the MCG.
-
-### [Michael Fennell, the President of the Commonwealth Games Federation, says that the Games will go ahead but that there "was extensive work to be done" for the 2010 Commonwealth Games in Delhi, India, ahead of its opening on 3 October. ](/news/2010/09/25/michael-fennell-the-president-of-the-commonwealth-games-federation-says-that-the-games-will-go-ahead-but-that-there-was-extensive-work-to.md)
-Head of Commonwealth Games says event will go ahead, but warns that New Delhi has extensive work to do before it begins.
-
-### [The Texas Rangers clinch the American League West division in Major League Baseball. ](/news/2010/09/25/the-texas-rangers-clinch-the-american-league-west-division-in-major-league-baseball.md)
-Ron Washington, Texas Rangers clinch AL West against Oakland A&#8217;s
 
 ## [Previous Day...](/news/2010/09/24/index.md)
 

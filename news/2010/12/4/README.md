@@ -37,8 +37,5 @@ _Context: China's, Guangdong province, Hong Kong_
 ### [Ivorian political crisis:A swearing-in ceremony for Laurent Gbagbo takes place in Cte d'Ivoire, although world leaders and the election commission back Alassane Ouattara as winner of the presidential election. ](/news/2010/12/4/ivorian-political-crisis-pa-swearing-in-ceremony-for-laurent-gbagbo-takes-place-in-cote-d-ivoire-although-world-leaders-and-the-election-co.md)
 Ivory Coast is in a deep political crisis, as rival presidential candidates both swear themselves in after a disputed poll.
 
-### [FIFA executive committee member Franz Beckenbauer says Qatar ought to be allowed to host the 2022 FIFA World Cup, the first in the Middle East and in an Arab country, during winter in an unusual move. The event is usually held during summer months. ](/news/2010/12/4/fifa-executive-committee-member-franz-beckenbauer-says-qatar-ought-to-be-allowed-to-host-the-2022-fifa-world-cup-the-first-in-the-middle-ea.md)
-_Context: 2022 FIFA World Cup, FIFA, Franz Beckenbauer, Qatar_
-
 ## [Previous Day...](/news/2010/12/3/index.md)
 

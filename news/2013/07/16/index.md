@@ -30,8 +30,5 @@ A neo-Nazi musician linked to Norwegian mass killer Anders Behring Breivik is ar
 ### [Italian astronaut Luca Parmitano almost drowns while undertaking a spacewalk on the International Space Station. ](/news/2013/07/16/italian-astronaut-luca-parmitano-almost-drowns-while-undertaking-a-spacewalk-on-the-international-space-station.md)
 Water accumulated inside astronaut Luca Parmitano&rsquo;s helmet this morning during a spacewalk at the International Space Station, causing Mission Control to abort the walk.
 
-### [In baseball, the American League defeats the National League 3-0 in the 2013 Major League Baseball All-Star Game played at Citi Field in New York City. New York Yankees closer Mariano Rivera, in his final MLB season, is named MVP. ](/news/2013/07/16/in-baseball-the-american-league-defeats-the-national-league-3a0-in-the-2013-major-league-baseball-all-star-game-played-at-citi-field-in-n.md)
-_Context: 2013 Major League Baseball All-Star Game, American League, Citi Field, MVP, Mariano Rivera, National League, New York Yankees, New York's, baseball, closer_
-
 ## [Previous Day...](/news/2013/07/15/index.md)
 

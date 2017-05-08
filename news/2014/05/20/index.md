@@ -48,8 +48,5 @@ Modi will meet President Pranab Mukherjee after his election in the first formal
 ### [Malawian general election:Voters in Malawi go to the polls for a general election. ](/news/2014/05/20/malawian-general-election-pvoters-in-malawi-go-to-the-polls-for-a-general-election.md)
 _Context: Malawi, Malawian general election, 2014_
 
-### [In basketball, the NBA team known as the Charlotte Bobcats since 2004|start officially changes its name to the Charlotte Hornets. The team also reclaims the history and records of the franchise now known as the New Orleans Pelicans starting with the 1988|app=season and ending with 2001, a period in which that franchise played as the Charlotte Hornets. ](/news/2014/05/20/in-basketball-the-nba-team-known-as-the-charlotte-bobcats-since-2004-start-officially-changes-its-name-to-the-charlotte-hornets-the-team-a.md)
-The Charlotte Hornets are back.
-
 ## [Previous Day...](/news/2014/05/19/index.md)
 

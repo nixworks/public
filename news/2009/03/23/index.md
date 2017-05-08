@@ -1,7 +1,7 @@
 ## [2009-03-23](/news/2009/03/23/index.md)
 
 ### [ A car bomb is located and defused near a shopping mall in Haifa, Israel. ](/news/2009/03/23/a-car-bomb-is-located-and-defused-near-a-shopping-mall-in-haifa-israel.md)
-_Context: Haifa, Israel, bomb squad, car bomb, shopping mall_
+_Context: Haifa, Israel, bomb disposal, car bomb, shopping mall_
 
 ### [ Two suicide attacks in Iraq kill at least 22 people and injure more than 50 others. ](/news/2009/03/23/two-suicide-attacks-in-iraq-kill-at-least-22-people-and-injure-more-than-50-others.md)
 _Context: Iraq, suicide bomb attack_
@@ -10,7 +10,7 @@ _Context: Iraq, suicide bomb attack_
 _Context: Alaska, Mount Redoubt, volcanic activity_
 
 ### [ The United States Treasury Department announces that it will purchase high-yield debts from banks. ](/news/2009/03/23/the-united-states-treasury-department-announces-that-it-will-purchase-high-yield-debts-from-banks.md)
-_Context: 4th quarter of 2007 and the second quarter of 2009, U.S., United States Department of the Treasury, banks, junk_
+_Context: 4th quarter of 2007 and the second quarter of 2009, United States, United States Department of the Treasury, banks, junk_
 
 ### [ Gjorge Ivanov of the VMRO-DPMNE leads the first round of Macedonia's presidential election. ](/news/2009/03/23/gjorge-ivanov-of-the-vmroadpmne-leads-the-first-round-of-macedonia-s-presidential-election.md)
 _Context: Gjorge Ivanov, Macedonian, VMRO-DPMNE, election, presidential, run-off_

@@ -4,7 +4,7 @@
 A Boeing 737-8HG (WL) passenger plane, registered VT-AXV, was destroyed in a landing accident at Mangalore-Bajpe Airport (IXE), India. There were 160 passengers and six crew members on board. The airplane operated on a flight from Dubai Airport (DXB) to Mangalore-Bajpe Airport (IXE).
 
 ### [Apa, a Nepalese Sherpa mountain climber who already held the world record for summiting Mount Everest more than any other person, reaches the summit for the 20th time. ](/news/2010/05/22/apa-a-nepalese-sherpa-mountain-climber-who-already-held-the-world-record-for-summiting-mount-everest-more-than-any-other-person-reaches-th.md)
-_Context: Apa Sherpa, Mount Everest, Nepal, Sherpa, mountain climber_
+_Context: Apa, Mount Everest, Nepal, Sherpa, mountain climber_
 
 ### [The death toll of Cyclone Laila in Andhra Pradesh, the worst storm to hit the Indian state in 14 years, reaches 36. ](/news/2010/05/22/the-death-toll-of-cyclone-laila-in-andhra-pradesh-the-worst-storm-to-hit-the-indian-state-in-14-years-reaches-36.md)
 Cyclone Laila on Friday weakened into a depression and further into a low pressure area while moving towards south Orissa. 
@@ -40,7 +40,7 @@ British Airways chief executive Willie Walsh had to be escorted to safety from a
 _Context: Ariane 5_
 
 ### [In the 2010 UEFA Champions League Final, Inter Milan defeats Bayern Munich 2-0, for their first major European title since 1965. ](/news/2010/05/22/in-the-2010-uefa-champions-league-final-inter-milan-defeats-bayern-munich-2a0-for-their-first-major-european-title-since-1965.md)
-_Context: 1965, 2010 UEFA Champions League Final, FC Bayern Munich, Inter Milan_
+_Context: 1965, 2010 UEFA Champions League Final, Bayern Munich, Inter Milan_
 
 ### [More than 74,000 South African football fans attend the first match at Soccer City--venue for the 2010 FIFA World Cup Final--less than three weeks before the tournament begins. ](/news/2010/05/22/more-than-74-000-south-african-football-fans-attend-the-first-match-at-soccer-cityavenue-for-the-2010-fifa-world-cup-finalaless-than-thr.md)
 More than 74,000 South African football fans attend the first match at Soccer City - venue for the World Cup final.

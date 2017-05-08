@@ -7,7 +7,7 @@ _Context: Darfur, Doha, Omar al-Bashir, Sudanese government_
 Officers on patrol opened fire on the infiltrator after he refused orders to stop, hitting him twice in the stomach.
 
 ### [The U.S. Internal Revenue Service announces that, due to the late passage of the extension of the Bush tax cuts and other itemizations, up to 50 million Americans will not be able to file their 2010 tax returns until mid-February. ](/news/2011/01/2/the-u-s-internal-revenue-service-announces-that-due-to-the-late-passage-of-the-extension-of-the-bush-tax-cuts-and-other-itemizations-up-t.md)
-_Context: Internal Revenue Service, U.S., extension of the Bush tax cuts and other itemizations, tax returns_
+_Context: Internal Revenue Service, United States, extension of the Bush tax cuts and other itemizations, tax returns_
 
 ### [Officials in Afghanistan said that the price of opium has doubled due to a blight.  There are fears the higher prices will draw more farmers into that business. ](/news/2011/01/2/officials-in-afghanistan-said-that-the-price-of-opium-has-doubled-due-to-a-blight-there-are-fears-the-higher-prices-will-draw-more-farmers.md)
 Opium prices have almost doubled after a blight halved production in 2010, Afghan officials said on Sunday, raising fears more farmers would turn to the illicit crop in the absence of profitable alternatives.

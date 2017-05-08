@@ -52,7 +52,7 @@ _Context: Bushehr, Iran, nuclear reactor_
 _Context: Dick Cheney, Halliburton, Nigeria_
 
 ### [Police in Iran make several arrests of suspects in relation to an attack on two nuclear physicists that it claims are connected to the United States Central Intelligence Agency, Mossad from Israel, and MI6 in the United Kingdom. ](/news/2010/12/2/police-in-iran-make-several-arrests-of-suspects-in-relation-to-an-attack-on-two-nuclear-physicists-that-it-claims-are-connected-to-the-unite.md)
-_Context: Central Intelligence Agency, Iran, Iranian police, Israel, MI6, Mossad, U.S., United Kingdom, nuclear physicists_
+_Context: Central Intelligence Agency, Iran, Iranian police, Israel, MI6, Mossad, United Kingdom, United States, nuclear physicists_
 
 ### [Former Taiwanese President Chen Shui-bian enters prison on being convicted of corruption charges. ](/news/2010/12/2/former-taiwanese-president-chen-shui-bian-enters-prison-on-being-convicted-of-corruption-charges.md)
 Former president Chen Shui-bian (陳水扁) will now be identified by his personal identification number, 1020, as he began serving his prison sentence at Taipei Prison on Thursday after being convicted on corruption charges.
@@ -68,9 +68,6 @@ _Context: Russia, state media_
 
 ### [The United States House of Representatives votes to censure New York Democratic Party member Charlie Rangel. ](/news/2010/12/2/the-united-states-house-of-representatives-votes-to-censure-new-york-democratic-party-member-charlie-rangel.md)
 Despite an impassioned plea by Representative Charles B. Rangel, the House voted 333-79 for a severe sanction.
-
-### [2018 and 2022 FIFA World Cup bids:The results of the 2018 and 2022 FIFA World Cup bids are announced. ](/news/2010/12/2/2018-and-2022-fifa-world-cup-bids-pthe-results-of-the-2018-and-2022-fifa-world-cup-bids-are-announced.md)
-Bulgaria explained. Quality reporting and analyses tailored to the needs of foreign business individuals.
 
 ## [Previous Day...](/news/2010/12/1/index.md)
 

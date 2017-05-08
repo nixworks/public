@@ -36,20 +36,5 @@ Sheikh Imran Abdulla detained and accused of attempting to overthrow regime amid
 ### [In Queens Village, a part of the New York City borough of Queens, 25-year-old New York Police Department (NYPD) officer Brian Moore is shot in the head through the cheek while on patrol with his partner, Erik Jansen, who was uninjured, according to NYPD Police Commissioner William Bratton. The officer was placed in an induced coma at Jamaica Hospital Medical Center, but his condition eventually deteriorated, and he died on Monday, May 4, 2015, after being taken off of life support. Demetrius Blackwell, 35, is charged with first-degree murder in the case. ](/news/2015/05/2/in-queens-village-a-part-of-the-new-york-city-borough-of-queens-25-year-old-new-york-police-department-nypd-officer-brian-moore-is-shot.md)
 _Context: Jamaica Hospital Medical Center, NYPD Police Commissioner, New York Police Department, New York's, Queens, Queens Village, William Bratton, borough, induced coma, life support, shot in the head_
 
-### [Floyd Mayweather, Jr. vs. Manny Pacquiao: In boxing, Floyd Mayweather, Jr. of the United States defeats Manny Pacquiao of the Philippines for the united welterweight championship at the MGM Grand Garden Arena on the Las Vegas Strip in the U.S. state of Nevada. Mayweather wins a unanimous points decision. ](/news/2015/05/2/floyd-mayweather-jr-vs-manny-pacquiao-in-boxing-floyd-mayweather-jr-of-the-united-states-defeats-manny-pacquiao-of-the-philippines-fo.md)
-Exclusive: Floyd Mayweather beats Manny Pacquiao with brilliant performance, but promoter Bob Arum says one-armed Filipino was crucially denied shoulder injection pre-fight
-
-### [In horse racing, the 141st running of the Kentucky Derby occurs at the Churchill Downs racecourse in the American city of Louisville, Kentucky with American Pharoah ridden by Victor Espinoza and trained by Bob Baffert winning in front of a record crowd. ](/news/2015/05/2/in-horse-racing-the-141st-running-of-the-kentucky-derby-occurs-at-the-churchill-downs-racecourse-in-the-american-city-of-louisville-kentuc.md)
-American Pharoah won the 141st Kentucky Derby in brilliant fashion at Churchill Downs on Saturday
-
-### [ In rugby union, Toulon defeat Clermont 24-18 in an all-French European Rugby Champions Cup final at Twickenham in London. Toulon becomes the first side ever to win three consecutive European club championships. ](/news/2015/05/2/in-rugby-union-toulon-defeat-clermont-24a18-in-an-all-french-european-rugby-champions-cup-final-at-twickenham-in-london-toulon-becomes.md)
-_Context: Clermont, European Rugby Champions Cup, French, London, Toulon, Twickenham, final, rugby union_
-
-### [In football, Celtic wins the 2014-15 Scottish Premiership with three games to go. ](/news/2015/05/2/in-football-celtic-wins-the-2014a15-scottish-premiership-with-three-games-to-go.md)
-Celtic has been crowned champion of Scotland for the 46th time after Aberdeen&#039;s loss to Dundee United gave it an unassailable lead at the top of the table.
-
-### [In auto racing, a crewman from Aric Almirola's team is airlifted to a hospital during the Winn-Dixie 300 of the NASCAR Xfinity Series, after Brendan Gaughan's vehicle crashed into the pit wall and struck tires and a sign, which then struck the crew member. ](/news/2015/05/2/in-auto-racing-a-crewman-from-aric-almirola-s-team-is-airlifted-to-a-hospital-during-the-winn-dixie-300-of-the-nascar-xfinity-series-after.md)
-For the second consecutive week, Brendan Gaughan was involved in a scary pit-road incident that sent a crewman from another team to the hospital.
-
 ## [Previous Day...](/news/2015/05/1/index.md)
 

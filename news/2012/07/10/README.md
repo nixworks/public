@@ -36,17 +36,5 @@ The government abandons plans for a crucial vote on its plans to reform the Hous
 ### [The US city of San Bernardino becomes the third city in the state of California to file for bankruptcy protection. ](/news/2012/07/10/the-us-city-of-san-bernardino-becomes-the-third-city-in-the-state-of-california-to-file-for-bankruptcy-protection.md)
 _Context: California, San Bernardino, California_
 
-### [Luis Garcia del Moral, Michele Ferrari, and Jose "Pepe" Marti, who were former staff members and consultants for Lance Armstrong's winning Tour de France teams, are banned for life from sports by the U.S. Anti-Doping Agency (USADA). ](/news/2012/07/10/luis-garcia-del-moral-michele-ferrari-and-jose-pepe-marti-who-were-former-staff-members-and-consultants-for-lance-armstrong-s-winning-t.md)
-Find the latest sports news and articles on the NFL, MLB, NBA, NHL, NCAA college football, NCAA college basketball and more at ABC News.
-
-### [The Olympic torch arrives at Windsor Castle in Berkshire, where the bearer is greeted by Queen Elizabeth II before taking off for the next leg of the torch's journey to London. ](/news/2012/07/10/the-olympic-torch-arrives-at-windsor-castle-in-berkshire-where-the-bearer-is-greeted-by-queen-elizabeth-ii-before-taking-off-for-the-next-l.md)
-_Context: Berkshire, Olympic torch, Queen Elizabeth II, Windsor Castle_
-
-### [South Africa cricket player Mark Boucher ends his career after sustaining an eye injury during the tour of England. ](/news/2012/07/10/south-africa-cricket-player-mark-boucher-ends-his-career-after-sustaining-an-eye-injury-during-the-tour-of-england.md)
-South Africa wicketkeeper Mark Boucher retires from international cricket after sustaining an eye injury during the tour of England.
-
-### [In baseball, the National League defeats the American League 8-0 in the All-Star Game played at Kauffman Stadium in Kansas City, Missouri. ](/news/2012/07/10/in-baseball-the-national-league-defeats-the-american-league-8-0-in-the-all-star-game-played-at-kauffman-stadium-in-kansas-city-missouri.md)
-The National League came of the gates swinging and never really stopped in an easy 8-0 victory over the American League in the 2012 All Star Game. Justin Verlander got beat around in the first...
-
 ## [Previous Day...](/news/2012/07/9/index.md)
 

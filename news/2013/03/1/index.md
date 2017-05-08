@@ -28,7 +28,7 @@ _Context: China, Kunming, Myanmar, Naw Kham, Yunnan Province, drug kingpin, leth
 Google was handed a small victory in Germany this week when lawmakers there approved a bill that will allow the search giant to freely include headlines and snippets from German publishers on services like Google News.
 
 ### [2013 Sequestration: A budget sequestration comes into effect today in the United States Government. ](/news/2013/03/1/2013-sequestration-a-budget-sequestration-comes-into-effect-today-in-the-united-states-government.md)
-_Context: 2013 Sequestration, American, U.S., budget sequestration_
+_Context: 2013 Sequestration, American, United States, budget sequestration_
 
 ### [British Prime Minister David Cameron says he will "win people back" after his party, the Conservatives came third in the Eastleigh by-election behind the Liberal Democrats and UK Independence Party. ](/news/2013/03/1/british-prime-minister-david-cameron-says-he-will-win-people-back-after-his-party-the-conservatives-came-third-in-the-eastleigh-by-electi.md)
 David Cameron insists the Conservatives can &quot;win people back&quot;, amid criticism from some MPs after the party came third in the Eastleigh by-election.
@@ -38,12 +38,6 @@ _Context: Cape Canaveral Air Force Station, Falcon 9, SLC-40, SpaceX, SpaceX CRS
 
 ### [Boston Dynamics upgrades the prototype United States Army robot BigDog with an arm strong enough to hurl cinderblocks. ](/news/2013/03/1/boston-dynamics-upgrades-the-prototype-united-states-army-robot-bigdog-with-an-arm-strong-enough-to-hurl-cinderblocks.md)
 If you thought the U.S. Army&#39;s BigDog robot was scary before, then get a load of what it can do now.
-
-### [Juventus stays six points clear at the top of the 2012-13 Serie A after earning a 1-1 draw at second-place Napoli. ](/news/2013/03/1/juventus-stays-six-points-clear-at-the-top-of-the-2012a13-serie-a-after-earning-a-1a1-draw-at-second-place-napoli.md)
-_Context: 2012-13  Serie A, Juventus, Napoli_
-
-### [In golf, Northern Irish player Rory McIlroy abruptly quits 2013 The Honda Classic mid-round. ](/news/2013/03/1/in-golf-northern-irish-player-rory-mcilroy-abruptly-quits-2013-the-honda-classic-mid-round.md)
-_Context: Northern Irish, Rory McIlroy, The Honda Classic, golf_
 
 ## [Previous Day...](/news/2013/02/28/index.md)
 

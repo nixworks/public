@@ -42,8 +42,5 @@ Conservative politician and novelist Louise Mensch is to stand down as an MP, tr
 ### [NASA's Mars Science Laboratory  Curiosity rover lands safely on the surface of Mars. ](/news/2012/08/6/nasa-s-mars-science-laboratory-curiosity-rover-lands-safely-on-the-surface-of-mars.md)
 The Mars rover Curiosity, on a quest for signs the Red Planet once hosted ingredients for life, streaked into the home stretch of its eight-month voyage on Sunday nearing a make-or-break landing attempt that NASA calls one of its toughest feats of robotic exploration.
 
-### [2012 Summer Olympics:Nicholas Delpopolo, an American Judo fighter, is expelled from competition after testing positive for marijuana. ](/news/2012/08/6/2012-summer-olympics-pnicholas-delpopolo-an-american-judo-fighter-is-expelled-from-competition-after-testing-positive-for-marijuana.md)
-_Context: 2012 Summer Olympics, Nicholas Delpopolo, marijuana_
-
 ## [Previous Day...](/news/2012/08/5/index.md)
 

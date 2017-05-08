@@ -13,7 +13,7 @@ _Context: Addis Ababa, Coalition for Unity and Democracy, Ethiopia, Meles Zenawi
 Another 200 people died in clashes with Uzbekistan security forces on top of 500 killed Friday, human rights group says Monday.
 
 ### [ A jury in West Palm Beach, Florida, finds for Ronald Perelman in his lawsuit against the brokerage firm Morgan Stanley, on the grounds that Morgan Stanley helped appliance maker Sunbeam falsify its financial condition at the expense of investors like Perelman. He was awarded $ 604 million. ](/news/2005/05/16/a-jury-in-west-palm-beach-florida-finds-for-ronald-perelman-in-his-lawsuit-against-the-brokerage-firm-morgan-stanley-on-the-grounds-that.md)
-_Context: $, FL, Morgan Stanley, Ronald Perelman, Sunbeam, West Palm Beach_
+_Context: $, Florida, Morgan Stanley, Ronald Perelman, Sunbeam, West Palm Beach_
 
 ### [ An Indonesian court upholds the two-and-half year sentence of Abu Bakar Bashir. ](/news/2005/05/16/an-indonesian-court-upholds-the-two-and-half-year-sentence-of-abu-bakar-bashir.md)
 _Context: Abu Bakar Bashir, Indonesia_

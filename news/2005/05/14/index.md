@@ -16,10 +16,10 @@ _Context: Andijan, Uzbekistan, unrest_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Peter Gloystein, financial minister for the German state Free Hanseatic City of Bremen, resigns from his posts after he was photographed pouring a bottle of wine over a homeless man ](/news/2005/05/14/peter-gloystein-financial-minister-for-the-german-state-free-hanseatic-city-of-bremen-resigns-from-his-posts-after-he-was-photographed-po.md)
-_Context: Free Hanseatic City of Bremen, Germany, Peter Gloystein_
+_Context: Free Hanseatic City of Bremen, German, Peter Gloystein_
 
 ### [ Suspected Guatemalan drug lord Otto Roberto Herrera Garcia escapes from prison in Mexico City. He was held pending extradition to United States. ](/news/2005/05/14/suspected-guatemalan-drug-lord-otto-roberto-herrera-garcia-escapes-from-prison-in-mexico-city-he-was-held-pending-extradition-to-united-st.md)
-_Context: Guatemala, Mexico City, Otto Roberto Herrera Garcia, U.S., extradited_
+_Context: Guatemala, Mexico City, Otto Roberto Herrera Garcia, United States, extradited_
 
 ### [ 28 men in Sudan are sentenced to 5&ndash;15 years in jail for connection in a coup attempt. The government claims that they are connected to Islamist Popular Congress Party, but the party denies the allegations. ](/news/2005/05/14/28-men-in-sudan-are-sentenced-to-5-ndash-15-years-in-jail-for-connection-in-a-coup-attempt-the-government-claims-that-they-are-connected-t.md)
 _Context: Islamist Popular Congress Party, Sudan, coup_

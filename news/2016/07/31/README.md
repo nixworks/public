@@ -27,11 +27,5 @@ U.S. Democratic presidential candidate Hillary Clinton said Russian intelligence
 ### [Thousands of people protest in the capital Kinshasa after the national electoral commission decides to postpone the election. ](/news/2016/07/31/thousands-of-people-protest-in-the-capital-kinshasa-after-the-national-electoral-commission-decides-to-postpone-the-election.md)
 Congo&#x2019;s&#x20;veteran&#x20;opposition&#x20;chief&#x20;Etienne&#x20;Tshisekedi&#x20;on&#x20;Sunday&#x20;called&#x20;for&#x20;elections&#x20;to&#x20;be&#x20;held&#x20;this&#x20;year&#x20;and&#x20;for&#x20;President&#x20;Joseph&#x20;Kabila&#x20;to&#x20;step&#x20;down&#x20;as&#x20;scheduled&#x20;on&#x20;December&#x20;20.
 
-### [  American Jimmy Walker wins the 98th PGA Championship, his first major championship. ](/news/2016/07/31/american-jimmy-walker-wins-the-98th-pga-championship-his-first-major-championship.md)
-American Jimmy Walker holes a three-foot putt on the last to beat world number one Jason Day by one shot at Baltusrol, New Jersey.
-
-### [  Ariya Jutanugarn of Thailand wins the Women's British Open for her first major championship. ](/news/2016/07/31/ariya-jutanugarn-of-thailand-wins-the-women-s-british-open-for-her-first-major-championship.md)
-_Context: 2016 Women's British Open, Ariya Jutanugarn, Thailand, Women's British Open, major championship_
-
 ## [Previous Day...](/news/2016/07/30/index.md)
 

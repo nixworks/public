@@ -30,8 +30,5 @@ _Context: Abdullah, Saudi Arabia, voting_
 ### [The Prime Minister of Jamaica Bruce Golding announces plans to step down as soon as the Jamaica Labour Party announces its new leader in December. ](/news/2011/09/25/the-prime-minister-of-jamaica-bruce-golding-announces-plans-to-step-down-as-soon-as-the-jamaica-labour-party-announces-its-new-leader-in-dec.md)
 _Context: Bruce Golding, Jamaica Labour Party, Prime Minister of Jamaica_
 
-### [In athletics, Patrick Makau Musyoki of Kenya breaks the world record for the marathon at the Berlin Marathon, pending official ratification by the International Association of Athletics Federations. ](/news/2011/09/25/in-athletics-patrick-makau-musyoki-of-kenya-breaks-the-world-record-for-the-marathon-at-the-berlin-marathon-pending-official-ratification.md)
-_Context: Berlin Marathon, International Association of Athletics Federations, Kenya, Patrick Makau Musyoki, athletics, marathon, world record_
-
 ## [Previous Day...](/news/2011/09/24/index.md)
 

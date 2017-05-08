@@ -10,7 +10,7 @@ _Context: African Union, Bingu wa Mutharika, Chairman, President of Malawi_
 _Context: 2010 Australian Open, Andy Murray, Roger Federer_
 
 ### [Egypt become African Cup of Nations champions for a record third consecutive title after beating Ghana 1-0 in Estdio 11 de Novembro, Luanda, Angola, in the 2010 Africa Cup of Nations final. ](/news/2010/01/31/egypt-become-african-cup-of-nations-champions-for-a-record-third-consecutive-title-after-beating-ghana-1-0-in-estadio-11-de-novembro-luanda.md)
-_Context: 2010 Africa Cup of Nations, African Cup of Nations, Angola, Egypt national football team, Estdio 11 de Novembro, Ghana, Luanda_
+_Context: 2010 Africa Cup of Nations, African Cup of Nations, Angola, Egypt, Estdio 11 de Novembro, Ghana national football team, Luanda_
 
 ### [A M<sub>w</sub>&nbsp;5.2 earthquake in Sichuan province, China, kills one person and injures 11 others, destroying at least 100 homes. ](/news/2010/01/31/a-mw-nbsp-5-2-earthquake-in-sichuan-province-china-kills-one-person-and-injures-11-others-destroying-at-least-100-homes.md)
 _Context: China, Sichuan, earthquake, magnitude, province_

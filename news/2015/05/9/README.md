@@ -48,8 +48,5 @@ Get the latest breaking news across the U.S. on ABCNews.com
 ### [ The Moro Islamic Liberation Front registers the United Bangsamoro Justice Party as its vehicle to run in future elections in the Philippines. ](/news/2015/05/9/the-moro-islamic-liberation-front-registers-the-united-bangsamoro-justice-party-as-its-vehicle-to-run-in-future-elections-in-the-philippine.md)
 _Context: Moro Islamic Liberation Front, Philippine, United Bangsamoro Justice Party_
 
-### [In cycling, the 2015 Giro d'Italia gets underway at San Lorenzo al Mare. ](/news/2015/05/9/in-cycling-the-2015-giro-d-italia-gets-underway-at-san-lorenzo-al-mare.md)
-_Context: 2015 Giro d'Italia, San Lorenzo al Mare, cycling_
-
 ## [Previous Day...](/news/2015/05/8/index.md)
 

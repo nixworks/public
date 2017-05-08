@@ -21,17 +21,5 @@ Tens of thousands of people took to the streets in Romania’s main cities, on S
 ### [In the second round run-off to select the Socialist Party's candidate in this year's spring presidential election, the leftist candidate, former Minister of National Education Benoit Hamon, topped former Prime Minister Manuel Valls, a centrist, with 58.65 percent of the vote. ](/news/2017/01/29/in-the-second-round-run-off-to-select-the-socialist-party-s-candidate-in-this-year-s-spring-presidential-election-the-leftist-candidate-fo.md)
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
-### [In tennis, Roger Federer of Switzerland defeats Rafael Nadal of Spain in the final of the men's singles. ](/news/2017/01/29/in-tennis-roger-federer-of-switzerland-defeats-rafael-nadal-of-spain-in-the-final-of-the-men-s-singles.md)
-Roger Federer and Rafael Nadal will do battle in what organisers have declared the biggest Australian Open final in the tournament&#039;s 105-year history.
-
-### [The World Championship Division A starts, Sweden defeats Finland 8-2.](/news/2017/01/29/the-world-championship-division-a-starts-sweden-defeats-finland-8-2.md)
-_Context: 2017 Bandy World Championship, Finland, Sweden_
-
-### [John Cena defeats AJ Styles to become a 16-time WWE Champion, tying Ric Flair with the most world championship reigns. ](/news/2017/01/29/john-cena-defeats-aj-styles-to-become-a-16-time-wwe-champion-tying-ric-flair-with-the-most-world-championship-reigns.md)
-_Context: AJ Styles, John Cena, Ric Flair, Royal Rumble 2017, WWE Champion_
-
-### [Winter X Games Aspen '17 The United States won 22 medals, including  seven gold medals. Canada was second with two golds, nine overall. ](/news/2017/01/29/winter-x-games-aspen-17-pthe-united-states-won-22-medals-including-seven-gold-medals-canada-was-second-with-two-golds-nine-overall.md)
-_Context: Winter X Games Aspen '17_
-
 ## [Previous Day...](/news/2017/01/28/index.md)
 

@@ -25,7 +25,7 @@ _Context: Darfur, Jan Pronk, Sudan, United Nations, blog_
 _Context: Amir Peretz, Israel, Lebanon, UN Security Council Resolution 1701, defense minister_
 
 ### [ Michael Schumacher, seven times Formula One World Champion, retires from the sport. ](/news/2006/10/22/michael-schumacher-seven-times-formula-one-world-champion-retires-from-the-sport.md)
-_Context: Formula One, Michael Schumacher, drivers' champion_
+_Context: 2008 Formula One Drivers' Championship, Formula One, Michael Schumacher_
 
 ## [Previous Day...](/news/2006/10/21/index.md)
 

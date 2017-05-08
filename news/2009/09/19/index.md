@@ -4,7 +4,7 @@
 _Context: Africa, Djibouti, Eritrea, Ethiopia, Islam, Kenya, Somalia, Sudan, Uganda_
 
 ### [ Two men are arrested in Denver, Colorado, United States, as part of an FBI terror probe. ](/news/2009/09/19/two-men-are-arrested-in-denver-colorado-united-states-as-part-of-an-fbi-terror-probe.md)
-_Context: Colorado, Denver, FBI, U.S._
+_Context: Colorado, Denver, FBI, United States_
 
 ### [ Attacks by rebels in Yemen are reported despite a  ceasefire. ](/news/2009/09/19/attacks-by-rebels-in-yemen-are-reported-despite-a-ceasefire.md)
 _Context: Yemen, ceasefire_
@@ -28,13 +28,13 @@ European Commission President José Manuel Barroso has said a No vote will affec
 _Context: Gifu Prefecture, Japan, Takayama_
 
 ### [ Pakistani police raid a local security firm that provides security for the United States embassy for illegal weapons possession. ](/news/2009/09/19/pakistani-police-raid-a-local-security-firm-that-provides-security-for-the-united-states-embassy-for-illegal-weapons-possession.md)
-_Context: Pakistan, Security experts, U.S._
+_Context: Pakistan, Security experts, United States_
 
 ### [ The German government raises its terrorism alert level after al Qaeda posted a video on the Internet threatening attacks in Germany based on the outcome of this month's elections.  ](/news/2009/09/19/the-german-government-raises-its-terrorism-alert-level-after-al-qaeda-posted-a-video-on-the-internet-threatening-attacks-in-germany-based-o.md)
-_Context: Germany, al-Qaeda_
+_Context: German, al-Qaeda_
 
 ### [ Two German ships become the first Western commercial vessels to navigate the Northern Sea Route. ](/news/2009/09/19/two-german-ships-become-the-first-western-commercial-vessels-to-navigate-the-northern-sea-route.md)
-_Context: Germany, Northern Sea Route_
+_Context: German, Northern Sea Route_
 
 ### [ Singer Vera Lynn, aged 92, becomes the oldest artist to obtain a number one album in the United Kingdom. ](/news/2009/09/19/singer-vera-lynn-aged-92-becomes-the-oldest-artist-to-obtain-a-number-one-album-in-the-united-kingdom.md)
 Bittersweet memories of other difficult times helped push an anthology of reissued World War II-era songs to the top of the British music charts.

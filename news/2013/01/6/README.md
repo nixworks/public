@@ -27,8 +27,5 @@ _Context: Gerard Helders, Minister of Colonial Affairs_
 ### [At Apple, applications developers say they gave Apple plenty of warning about issues with its iOS maps issues. ](/news/2013/01/6/at-apple-applications-developers-say-they-gave-apple-plenty-of-warning-about-issues-with-its-ios-maps-issues.md)
 _Context: Apple Inc., developers, iOS_
 
-### [In ice hockey, the National Hockey League and the National Hockey League Players' Association reach an agreement that ends the 2012-13 NHL lockout and averts the cancellation of the 2012-13 NHL season. ](/news/2013/01/6/in-ice-hockey-the-national-hockey-league-and-the-national-hockey-league-players-association-reach-an-agreement-that-ends-the-2012a13-nhl.md)
-_Context: 119-day lockout, 2012-13 NHL season, NHL, National Hockey League Players' Association, ice hockey_
-
 ## [Previous Day...](/news/2013/01/5/index.md)
 

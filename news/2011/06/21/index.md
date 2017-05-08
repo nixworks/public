@@ -57,8 +57,5 @@ _Context: Health and Social Care Bill, House of Commons_
 ### [An Emperor Penguin is sighted on a New Zealand beach, the first time this has happened in 44 years. ](/news/2011/06/21/an-emperor-penguin-is-sighted-on-a-new-zealand-beach-the-first-time-this-has-happened-in-44-years.md)
 A young emperor penguin takes a wrong turn from the Antarctic and arrives on a New Zealand beach, said to be the first such visit since 1967.
 
-### [In tennis, John Isner and Nicolas Mahut meet again following last year's record-breaking epic at Wimbledon. ](/news/2011/06/21/in-tennis-john-isner-and-nicolas-mahut-meet-again-following-last-year-s-record-breaking-epic-at-wimbledon.md)
-The sequel between John Isner and Nicolas Mahut was not as memorable as their history-making first-round match last year as Isner needed a mere 2 hours 3 minutes to dispatch Mahut.
-
 ## [Previous Day...](/news/2011/06/20/index.md)
 

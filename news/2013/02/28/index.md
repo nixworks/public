@@ -69,11 +69,5 @@ NASA has discovered a new radiation ring encircling the Earth. The short-lived r
 ### [A Duke research scientist announces that he has successfully connected the brains of two rats in such a way that they share information. ](/news/2013/02/28/a-duke-research-scientist-announces-that-he-has-successfully-connected-the-brains-of-two-rats-in-such-a-way-that-they-share-information.md)
 A Duke neuroscientist says he has connected the brains of two rats in such a way that when one moves to press a lever, the other one does, too — most of the time.
 
-### [Sacramento, California mayor Kevin Johnson announces that a local investor will head a group that will seek to buy the NBA's Sacramento Kings, and a second investor will finance a new downtown arena, in an attempt to stop the team's proposed move to Seattle. ](/news/2013/02/28/sacramento-california-mayor-kevin-johnson-announces-that-a-local-investor-will-head-a-group-that-will-seek-to-buy-the-nba-s-sacramento-king.md)
-_Context: California, Kevin Johnson, NBA, Sacramento Kings, Sacramento, California, Seattle_
-
-### [ESPN reports that the seven Catholic schools that have announced plans to leave the Big East Conference will do so in July 2013, and will keep the "Big East" name. Butler University and Xavier University will reportedly leave the Atlantic 10 Conference to join the new Big East, and Creighton University may leave the Missouri Valley Conference to join as well. ](/news/2013/02/28/espn-reports-that-the-seven-catholic-schools-that-have-announced-plans-to-leave-the-big-east-conference-will-do-so-in-july-2013-and-will-ke.md)
-The Catholic 7 schools are expected to start their own league next season and will keep the Big East Conference name, sources told ESPN. Joining the Catholic 7 schools in the new &quot;Big East&quot; this fall will be Xavier and Butler, sources said.
-
 ## [Previous Day...](/news/2013/02/27/index.md)
 

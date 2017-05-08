@@ -25,10 +25,7 @@ _Context: North Korea, South Korea_
 _Context: Sian O'Callaghan, Swindon_
 
 ### [Winfried Kretschmann is set to be the first Green German state premier after the party success in elections in Baden-Wrttemberg. ](/news/2011/03/27/winfried-kretschmann-is-set-to-be-the-first-green-german-state-premier-after-the-party-success-in-elections-in-baden-wurttemberg.md)
-_Context: Baden-Wrttemberg, Germany, Greens, Winfried Kretschmann, state, success in elections_
-
-### [Sebastian Vettel of Red Bull Racing wins the 2011 Australian Grand Prix, the opening round of the 2011 Formula One season. ](/news/2011/03/27/sebastian-vettel-of-red-bull-racing-wins-the-2011-australian-grand-prix-the-opening-round-of-the-2011-formula-one-season.md)
-_Context: 2011, Australian Grand Prix, Formula One World Championship, Red Bull Racing, Sebastian Vettel_
+_Context: Baden-Wrttemberg, German, Greens, Winfried Kretschmann, state, success in elections_
 
 ## [Previous Day...](/news/2011/03/26/index.md)
 

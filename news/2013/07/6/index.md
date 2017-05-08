@@ -27,9 +27,6 @@ _Context: Mohamed ElBaradei, prime minister_
 ### [Portuguese political crisis, 2013:Paulo Portas becomes Deputy Prime Minister, the first since 1985. Prime Minister Passos Coelho will make additional reshuffles to his cabinet.](/news/2013/07/6/portuguese-political-crisis-2013-ppaulo-portas-becomes-deputy-prime-minister-the-first-since-1985-prime-minister-passos-coelho-will-make.md)
 _Context: 1985, Passos Coelho, Paulo Portas_
 
-### [At the 2013 Wimbledon Championships in tennis:Marion Bartoli of France defeats Sabine Lisicki of Germany 6-1, 6-4 in the Ladies' Singles final, claiming her first Grand Slam singles title. ](/news/2013/07/6/at-the-2013-wimbledon-championships-in-tennis-pmarion-bartoli-of-france-defeats-sabine-lisicki-of-germany-6a1-6a4-in-the-ladies-single.md)
-Ever since she was a kid, practicing until midnight with her father, Marion Bartoli went about playing tennis her own way.
-
 ### [In rugby union, the British and Irish Lions rout Australia 41-16 in Sydney to win their three-Test series 2-1. It is the Lions' first series win since 1997, when they defeated South Africa. ](/news/2013/07/6/in-rugby-union-the-british-and-irish-lions-rout-australia-41a16-in-sydney-to-win-their-three-test-series-2a1-it-is-the-lions-first-se.md)
 The British and Irish Lions secure a first series win in 16 years with a dominant victory over Australia in Sydney.
 

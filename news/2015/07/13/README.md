@@ -42,8 +42,5 @@ Dutch Finance Minister Jeroen Dijsselbloem was re-elected on Monday as president
 ### [Scott Walker, the Governor of Wisconsin, announces that he will be seeking the Republican Party nomination. ](/news/2015/07/13/scott-walker-the-governor-of-wisconsin-announces-that-he-will-be-seeking-the-republican-party-nomination.md)
 Wisconsin Gov. Scott Walker made his long-expected White House run official Monday morning, tweeting that he will seek the GOP nomination for president.
 
-### [The male New Zealand national under-23 football team are disqualified from the qualifying tournament by the Oceania Football Confederation for fielding allegedly ineligible player Deklan Wynne.([http://www.bbc.co.uk/sport/0/football/33500785 BBC])](/news/2015/07/13/the-male-new-zealand-national-under-23-football-team-are-disqualified-from-the-qualifying-tournament-by-the-oceania-football-confederation-f.md)
-_Context: Deklan Wynne, Football at the 2016 Summer Olympics, New Zealand national under-23 football team, Oceania Football Confederation, qualifying tournament_
-
 ## [Previous Day...](/news/2015/07/12/index.md)
 

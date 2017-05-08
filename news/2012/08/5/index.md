@@ -30,11 +30,5 @@ At least nine people killed in makeshift camp for people displaced by clashes be
 ### [Flash floods in India's Uttarakhand state kill 12 people with up to 40 missing. ](/news/2012/08/5/flash-floods-in-india-s-uttarakhand-state-kill-12-people-with-up-to-40-missing.md)
 ITBP and police personnel on Sunday searched debris of flattened homes and dug rubbles to look for more bodies in rain-ravaged Uttarakhand where the toll due to the incessant downpour reached 34.
 
-### [2012 Summer Olympics:In tennis, Andy Murray defeats Roger Federer to win the men's singles final, securing Britain's 16th gold medal in the process. ](/news/2012/08/5/2012-summer-olympics-pin-tennis-andy-murray-defeats-roger-federer-to-win-the-men-s-singles-final-securing-britain-s-16th-gold-medal-in-the.md)
-Why did we ever doubt him? The imperiousness with which Usain Bolt demolished the questions over his own fallibility on Sunday night in London made fools of us all. For now we know what we should have known then: that Usain Bolt is not only the Olympic 100m champion again, he is what he has long professed he will become – a legend and probably the greatest athlete ever.
-
-### [Mixed martial arts: The light-heavyweight fighter Lyoto Machida defeats Ryan Bader on UFC on Fox: Shogun vs. Vera, earning a rematch with the current champion in the division, Jon Jones. ](/news/2012/08/5/mixed-martial-arts-the-light-heavyweight-fighter-lyoto-machida-defeats-ryan-bader-on-ufc-on-fox-shogun-vs-vera-earning-a-rematch-with-th.md)
-A four-man shootout for the next UFC light-heavyweight title shot ensued on Saturday night, and at the end of it Lyoto Machida was the man who shone brightly above the others
-
 ## [Previous Day...](/news/2012/08/4/index.md)
 

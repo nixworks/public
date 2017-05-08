@@ -25,7 +25,7 @@ Two Russian fighter jets have violated Japanese airspace, prompting Tokyo to scr
 _Context: Bucharest, Hungary, Romania_
 
 ### [The Supreme Leader of Iran Ali Khamenei accuses the United States of "holding a gun" to Tehran's head to pressure it to hold direct talks and states that it's very unlikely that these talks may take place. ](/news/2013/02/7/the-supreme-leader-of-iran-ali-khamenei-accuses-the-united-states-of-holding-a-gun-to-tehran-s-head-to-pressure-it-to-hold-direct-talks-an.md)
-_Context: Ali Khamenei, Iran, Supreme Leader of Iran, Tehran, U.S._
+_Context: Ali Khamenei, Iran, Supreme Leader of Iran, Tehran, United States_
 
 ### [South Korean soldiers on the world's most heavily armed border now have orders to shoot back immediately if they come under attack. ](/news/2013/02/7/south-korean-soldiers-on-the-world-s-most-heavily-armed-border-now-have-orders-to-shoot-back-immediately-if-they-come-under-attack.md)
 _Context: South Korea, world's most heavily armed border_
@@ -44,12 +44,6 @@ _Context: Canadian Senator, Conservative Party's, Patrick Brazeau, caucus_
 
 ### [Azerbaijan's first satellite Azerspace-1 is launched aboard an Ariane 5 launch rocket in French Guiana. ](/news/2013/02/7/azerbaijan-s-first-satellite-azerspace-1-is-launched-aboard-an-ariane-5-launch-rocket-in-french-guiana.md)
 _Context: Ariane 5, Azerbaijan, Azerspace-1, French Guiana, launch rocket, released an object into orbit_
-
-### [An investigation by the Australian Crime Commission finds that there is widespread use of illegal drugs in Australian professional sport. ](/news/2013/02/7/an-investigation-by-the-australian-crime-commission-finds-that-there-is-widespread-use-of-illegal-drugs-in-australian-professional-sport.md)
-An Australian Crime Commission investigation has found widespread drug use in Australian professional sport, with some athletes being given substances not yet approved for human use.
-
-### [The Deutscher Fuball-Bund establishes a working group intended to help football clubs deal with the potential outing of a professional player. ](/news/2013/02/7/the-deutscher-fussball-bund-establishes-a-working-group-intended-to-help-football-clubs-deal-with-the-potential-outing-of-a-professional-play.md)
-German Chancellor Angela Merkel told gay footballers they should have no fear of revealing their homosexuality
 
 ## [Previous Day...](/news/2013/02/6/index.md)
 

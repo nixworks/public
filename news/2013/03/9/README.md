@@ -13,16 +13,16 @@ Diplomats investigate claims by Nigerian militant group Ansaru that it has kille
 Somali pirates have released a chemical tanker they hijacked a year ago with about 20 crew on board after receiving a ransom, the pirates and a minister from the semi-autonomous Puntland region said on Saturday.
 
 ### [A house fire kills five children and two adults (including a pregnant woman) in the Gray community of Knox County, Kentucky, United States, cause undetermined and under investigation. ](/news/2013/03/9/a-house-fire-kills-five-children-and-two-adults-including-a-pregnant-woman-in-the-gray-community-of-knox-county-kentucky-united-states.md)
-_Context: Kentucky, Knox County, U.S._
+_Context: Kentucky, Knox County, United States_
 
 ### [One man is killed and five others are injured after a sailboat breaks up and sinks off of San Clemente, California, United States. ](/news/2013/03/9/one-man-is-killed-and-five-others-are-injured-after-a-sailboat-breaks-up-and-sinks-off-of-san-clemente-california-united-states.md)
-_Context: California, San Clemente, U.S., sailboat_
+_Context: California, San Clemente, United States, sailboat_
 
 ### [Three time "Best Restaurant in the World" winner Noma is accused of giving 63 customers food poisoning. ](/news/2013/03/9/three-time-best-restaurant-in-the-world-winner-noma-is-accused-of-giving-63-customers-food-poisoning.md)
 Regardless of all the &#034;Please wash hands after using the toilet&#034; in most public restrooms in restaurants, many people still chose to overlook this crucial hygiene step. As a consequence, dirty hands have been found to be the culprit in the recent norovirus outbreak at Noma, an exclusive restaurant in Copenhagen, Denmark, according to food inspectors. 
 
 ### [Google will pay a $7 million penalty to settle an investigation into the collection of e-mails, passwords and other sensitive information sent over wireless networks from 2007-2010 in the United States. Google company cars taking street-level photos for its online mapping service also had been vacuuming up personal data transmitted over wireless networks that weren't protected by passwords. ](/news/2013/03/9/google-will-pay-a-7-million-penalty-to-settle-an-investigation-into-the-collection-of-e-mails-passwords-and-other-sensitive-information-se.md)
-_Context: Google, Google Maps, Street View, U.S., United States dollars, e-mail, password, personal data, wireless network_
+_Context: Google, Google Maps, Street View, United States, United States dollars, e-mail, password, personal data, wireless network_
 
 ### [An Egyptian court reaffirms the death sentence for 21 football fans for their role in the 2012 Port Said Stadium riot and sentenced two security officers to 15 years in jail for negligence. ](/news/2013/03/9/an-egyptian-court-reaffirms-the-death-sentence-for-21-football-fans-for-their-role-in-the-2012-port-said-stadium-riot-and-sentenced-two-secu.md)
 Twenty-one people had been sentenced to death for their roles in the deadly 2012 soccer riot that killed more than 70 people in the city of Port Said.
@@ -44,18 +44,6 @@ NASA&#039;s Mars Reconnaissance Orbiter has provided images allowing scientists 
 
 ### [A newly observed near-Earth asteroid 2013 ET with an estimated diameter of about 100 meters comes within 960,000 km from the Earth's surface. ](/news/2013/03/9/a-newly-observed-near-earth-asteroid-2013-et-with-an-estimated-diameter-of-about-100-meters-comes-within-960-000-km-from-the-earth-s-surface.md)
 A newly discovered Asteroid 2013 ET is making a close flyby, just days after another space rock made an even closer approach to our planet. The Catalina Sky Survey discovered Asteroid 2013 ET on March 3, 2013 and estimated its size around 100 meters...
-
-### [In baseball:At the 2013 World Baseball Classic, a bench-clearing brawl between Canada and Mexico breaks out after Canada bunts with a 9-3 lead in the ninth inning. ](/news/2013/03/9/in-baseball-pat-the-2013-world-baseball-classic-a-bench-clearing-brawl-between-canada-and-mexico-breaks-out-after-canada-bunts-with-a-9a3.md)
-_Context: 2013 World Baseball Classic, Canada, Mexico, World Baseball Classic, baseball, bench-clearing brawl_
-
-### [In basketball, Florida Gulf Coast University becomes the first team to officially secure its spot in the 2013 NCAA Men's Division I Basketball Tournament. ](/news/2013/03/9/in-basketball-florida-gulf-coast-university-becomes-the-first-team-to-officially-secure-its-spot-in-the-2013-ncaa-men-s-division-i-basketba.md)
-Find the latest sports news and articles on the NFL, MLB, NBA, NHL, NCAA college football, NCAA college basketball and more at ABC News.
-
-### [In biathlon, France's Martin Fourcade wins his eighth 2012-13 Biathlon World Cup event when he wins the 10 km sprint race on the Laura Biathlon & Ski Complex in Sochi, Russia. He also secures the men's overall title. ](/news/2013/03/9/in-biathlon-france-s-martin-fourcade-wins-his-eighth-2012a13-biathlon-world-cup-event-when-he-wins-the-10-km-sprint-race-on-the-laura-bia.md)
-_Context: 10 km sprint race, 2012-13 Biathlon World Cup, Biathlon World Cup, France, Laura Biathlon & Ski Complex, Martin Fourcade, Russia, Sochi, biathlon, men's overall_
-
-### [In boxing, 48-year-old Bernard Hopkins defeats Tavoris Cloud at the Barclays Center in Brooklyn, New York, to win IBF Light Heavyweight title. ](/news/2013/03/9/in-boxing-48-year-old-bernard-hopkins-defeats-tavoris-cloud-at-the-barclays-center-in-brooklyn-new-york-to-win-ibf-light-heavyweight-titl.md)
-Bernard Hopkins became the oldest boxer to win a major title on Saturday night, scoring a 12-round unanimous decision over Tavoris Cloud to claim the IBF light heavyweight championship.
 
 ## [Previous Day...](/news/2013/03/8/index.md)
 

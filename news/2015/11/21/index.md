@@ -57,23 +57,5 @@ The Democratic state representative held onto an early lead to beat the Republic
 ### [A 14-year-old boy solves the Rubik's Cube in 4.90 seconds, beating the previous record of 5.25 seconds, and becoming the first person to solve it in under 5 seconds ](/news/2015/11/21/a-14-year-old-boy-solves-the-rubik-s-cube-in-4-90-seconds-beating-the-previous-record-of-5-25-seconds-and-becoming-the-first-person-to-sol.md)
 World Cube Association confirms speedcuber Lucas Etter, 14, has beaten previous 3x3 record, with reported time of just 4.9 seconds
 
-### [In motor sport, the team of Timo Bernhard, Brendon Hartley and Mark Webber win the FIA World Endurance Championship. ](/news/2015/11/21/in-motor-sport-the-team-of-timo-bernhard-brendon-hartley-and-mark-webber-win-the-fia-world-endurance-championship.md)
-_Context: Brendon Hartley, FIA World Endurance Championship, Mark Webber, Timo Bernhard_
-
-### [In baseball, South Korea defeats the United States in the 2015 WBSC Premier12. ](/news/2015/11/21/in-baseball-south-korea-defeats-the-united-states-in-the-2015-wbsc-premier12.md)
-South Korea unleashed the human bat flip during its Premier 12 celebration.
-
-### [Anthony Crolla of England wins the World Boxing Association lightweight title defeating Darleys Perez in a title fight in Manchester. ](/news/2015/11/21/anthony-crolla-of-england-wins-the-world-boxing-association-lightweight-title-defeating-darleys-perez-in-a-title-fight-in-manchester.md)
-_Context: Anthony Crolla, Darleys Perez, England, Manchester, World Boxing Association, boxing, lightweight_
-
-### [Ireland beat Australia in the 2015 International Rules Series at Croke Park. ](/news/2015/11/21/ireland-beat-australia-in-the-2015-international-rules-series-at-croke-park.md)
-In four-degree weather in Dublin and playing with the Gaelic football, Australia are cruelled by wayward kicking, going down 56-52 to the amateur Irish
-
-### [The Athens derby match between Superleague Greece's top two football teams,  Panathinaikos and Olympiakos Piraeus, is called off before play could start. There were scuffles between riot police and fans outside the Apostolos Nikolaidis Stadium. Flares were also tossed onto the pitch. ](/news/2015/11/21/the-athens-derby-match-between-superleague-greece-s-top-two-football-teams-panathinaikos-and-olympiakos-piraeus-is-called-off-before-play.md)
-The top of the table Athens derby clash between hosts Panathinaikos and league leaders Olympiakos Piraeus was called off before kick-off on Saturday following violent scenes with flares being thrown on to the pitch.
-
-### [Guangzhou Evergrande Taobao F.C. win the AFC Champions League for their second time, after defeating Al-Ahli in the final. ](/news/2015/11/21/guangzhou-evergrande-taobao-f-c-win-the-afc-champions-league-for-their-second-time-after-defeating-al-ahli-in-the-final.md)
-_Context: AFC Champions League, Al-Ahli, Guangzhou Evergrande Taobao F.C., final_
-
 ## [Previous Day...](/news/2015/11/20/index.md)
 

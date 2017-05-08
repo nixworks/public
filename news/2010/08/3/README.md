@@ -70,7 +70,7 @@ _Context: Pacific Islands Forum Leaders Summit, Port Vila, Vanuatu_
 _Context: Asif Ali Zardari, David Cameron, President, United Kingdom_
 
 ### [Zimbabwe requests apologies from American, German and European Union envoys who walked out of the burial ceremony for President Robert Mugabe's sister; they refuse to apologise. ](/news/2010/08/3/zimbabwe-requests-apologies-from-american-german-and-european-union-envoys-who-walked-out-of-the-burial-ceremony-for-president-robert-mugab.md)
-_Context: European Union, Germany, President of Zimbabwe, Robert Mugabe, U.S., Zimbabwe, funeral_
+_Context: European Union, German, President of Zimbabwe, Robert Mugabe, United States, Zimbabwe, funeral_
 
 ### [Iran rejects Brazil's offer to grant political asylum to Sakineh Mohammadi Ashtiani, who has been sentenced to death in Iran for adultery. ](/news/2010/08/3/iran-rejects-brazil-s-offer-to-grant-political-asylum-to-sakineh-mohammadi-ashtiani-who-has-been-sentenced-to-death-in-iran-for-adultery.md)
 _Context: Brazil, Iran, Sakineh Mohammadi Ashtiani, asylum_

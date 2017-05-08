@@ -1,7 +1,7 @@
 ## [2007-05-23](/news/2007/05/23/index.md)
 
 ### [ AC Milan defeats Liverpool F.C. 2-1 in the UEFA Champions League final. ](/news/2007/05/23/ac-milan-defeats-liverpool-f-c-2-1-in-the-uefa-champions-league-final.md)
-_Context: Liverpool F.C., Milan, UEFA Champions League_
+_Context: AC Milan, Liverpool, UEFA Champions League_
 
 ### [ One of three captured US soldiers in Iraq is found dead, during an extensive manhunt which occupied nearly 3% of US troops. ](/news/2007/05/23/one-of-three-captured-us-soldiers-in-iraq-is-found-dead-during-an-extensive-manhunt-which-occupied-nearly-3-of-us-troops.md)
 _Context: Iraq War, captured U.S. soldiers, manhunt_

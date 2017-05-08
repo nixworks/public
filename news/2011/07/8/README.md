@@ -24,8 +24,5 @@ _Context: 2011 Egyptian revolution, A large protest, Cairo, Egypt_
 ### [The Space Shuttle Atlantis lifts off for the final mission of the US Space Shuttle program. ](/news/2011/07/8/the-space-shuttle-atlantis-lifts-off-for-the-final-mission-of-the-us-space-shuttle-program.md)
 Space shuttle Atlantis rocketed off its seaside launch pad on Friday, rising atop a tower of smoke and flames as it left Earth on the final flight of the U.S. space shuttle program.
 
-### [London More tickets go on sale for the 2012 Summer Olympics in the United Kingdom in the "second chance" phase. ](/news/2011/07/8/london-more-tickets-go-on-sale-for-the-2012-summer-olympics-in-the-united-kingdom-in-the-second-chance-phase.md)
-People who obtained tickets for the 2012 Olympics in the first round sale get an opportunity to buy seats for more events.
-
 ## [Previous Day...](/news/2011/07/7/index.md)
 

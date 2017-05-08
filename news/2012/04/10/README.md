@@ -51,8 +51,5 @@ The wife of Bo Xilai, who had been seen as one of the handful of rising leaders 
 ### [An Egyptian court halts the creation of a constitutional assembly pending a ruling on its legality. ](/news/2012/04/10/an-egyptian-court-halts-the-creation-of-a-constitutional-assembly-pending-a-ruling-on-its-legality.md)
 _Context: Egypt_
 
-### [University of Arkansas head football coach Bobby Petrino is fired because of misconduct involving an inappropriate relationship with a female employee. ](/news/2012/04/10/university-of-arkansas-head-football-coach-bobby-petrino-is-fired-because-of-misconduct-involving-an-inappropriate-relationship-with-a-femal.md)
-_Context: Bobby Petrino, University of Arkansas_
-
 ## [Previous Day...](/news/2012/04/9/index.md)
 

@@ -72,8 +72,5 @@ _Context: NASA, U.S. Congressional_
 ### [China launches the Chang'e 2 lunar probe from Sichuan. ](/news/2010/10/1/china-launches-the-chang-e-2-lunar-probe-from-sichuan.md)
 _Context: Chang'e 2, China's, Sichuan_
 
-### [The 2010 Ryder Cup between golfers representing the PGA of America and the PGA European Tour begins at the Celtic Manor Resort in Newport, Wales. ](/news/2010/10/1/the-2010-ryder-cup-between-golfers-representing-the-pga-of-america-and-the-pga-european-tour-begins-at-the-celtic-manor-resort-in-newport-w.md)
-_Context: 2010 Ryder Cup, Celtic Manor Resort, Newport, Wales, PGA European Tour, PGA of America, Ryder Cup, golf_
-
 ## [Previous Day...](/news/2010/09/30/index.md)
 

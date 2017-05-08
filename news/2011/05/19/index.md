@@ -1,7 +1,7 @@
 ## [2011-05-19](/news/2011/05/19/index.md)
 
 ### [Syria condemns the decision by the United States to impose sanctions on President Bashar al-Assad in response to ongoing anti-government protests. ](/news/2011/05/19/syria-condemns-the-decision-by-the-united-states-to-impose-sanctions-on-president-bashar-al-assad-in-response-to-ongoing-anti-government-pro.md)
-_Context: Bashar al-Assad, President, Syria, Syrian uprising, U.S._
+_Context: Bashar al-Assad, President, Syria, Syrian uprising, United States_
 
 ### [2011 Libyan civil war:Rebels in Libya launch a television channel to counter Muammar Gaddafi's state media. ](/news/2011/05/19/2011-libyan-civil-war-prebels-in-libya-launch-a-television-channel-to-counter-muammar-gaddafi-s-state-media.md)
 _Context: Libya, Libyan Civil War, Muammar Gaddafi, state media_
@@ -74,9 +74,6 @@ _Context: Dublin, Garret FitzGerald, Republic of Ireland, Taoiseach_
 
 ### [Ugandan opposition leader Kizza Besigye is placed under house arrest. ](/news/2011/05/19/ugandan-opposition-leader-kizza-besigye-is-placed-under-house-arrest.md)
 Ugandan police on Thursday blocked opposition leader Kizza Besigye from driving from his home to the Kampala city centre, saying the outing would spark criminal acts after he vowed to resume
-
-### [Tyler Hamilton, a former teammate of American Tour de France champion Lance Armstrong, tells 60 Minutes that he saw Armstrong use performance-enhancing drugs while a member of the US Postal Service Pro Cycling Team. ](/news/2011/05/19/tyler-hamilton-a-former-teammate-of-american-tour-de-france-champion-lance-armstrong-tells-60-minutes-that-he-saw-armstrong-use-performanc.md)
-_Context: 60 Minutes, Lance Armstrong, Tour de France, Tyler Hamilton, US Postal Service Pro Cycling Team, performance-enhancing drug_
 
 ## [Previous Day...](/news/2011/05/18/index.md)
 

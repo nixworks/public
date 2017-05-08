@@ -37,7 +37,7 @@ The government cut the number of Jeeps it wants recalled and in turn, Chrysler s
 The rains left 102 people dead in Uttarakhand, almost as many injured, and smashed several houses. The remaining deaths were reported from Himachal Pradesh.
 
 ### [2013 NBA Finals:The San Antonio Spurs lead by 5 points against the Miami Heat with 28 seconds remaining in game 6 of the NBA finals as a victory will secure a fifth NBA title for the Spurs. They fail to collect a defensive rebound, allow Miami to score back-to-back three-pointers and go 1 out of 2 on the free throw line. The game is sent to overtime where they eventually lose by three points. ](/news/2013/06/18/2013-nba-finals-pthe-san-antonio-spurs-lead-by-5-points-against-the-miami-heat-with-28-seconds-remaining-in-game-6-of-the-nba-finals-as-a-vi.md)
-_Context: NBA Finals_
+_Context: 2013 NBA Finals_
 
 ### [The Malian government announces it has reached an agreement with the National Movement for the Liberation of Azawad that allows the Malian Army to return to Kidal in anticipation of upcoming elections. ](/news/2013/06/18/the-malian-government-announces-it-has-reached-an-agreement-with-the-national-movement-for-the-liberation-of-azawad-that-allows-the-malian-a.md)
 Deal would pave way for army and civilian administrators to return to rebel-held region before planned polls next month.

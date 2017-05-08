@@ -4,7 +4,7 @@
 The Islamic State (IS) group says it targeted Shia Muslims at a Baghdad shopping centre, on a day of violence that claims nearly 40 lives.
 
 ### [A U.S. airstrike destroys an ISIL money and payroll hub in central Mosul. ](/news/2016/01/11/a-u-s-airstrike-destroys-an-isil-money-and-payroll-hub-in-central-mosul.md)
-_Context: Mosul, U.S., U.S. airstrikes_
+_Context: Mosul, U.S. airstrikes, United States_
 
 ### [Armed militiamen, also known as the Citizens for Constitutional Freedom, who are occupying the USFWS administered Malheur National Wildlife Refuge in Harney County, Oregon, tear down a part of a fence that they claim was erected by the federal government in order to allow privately owned cattle to graze on the adjacent public land. USFWS condemns the actions through a written statement which states that, "Removing fences, damaging any refuge property, or unauthorized use of equipment would be additional unlawful actions by the illegal occupiers. Any movement of cattle onto the refuge or other activities that are not specifically authorized by [the Fish and Wildlife Service] constitutes trespassing." ](/news/2016/01/11/armed-militiamen-also-known-as-the-citizens-for-constitutional-freedom-who-are-occupying-the-usfws-administered-malheur-national-wildlife.md)
 Local support is waning with people in the town of Burns expressing dismay at methods employed by the armed occupation
@@ -20,15 +20,6 @@ Environment Agency chairman Sir Philip Dilley has quit after coming under fire f
 
 ### [Thousands of protesters in Leipzig demonstrate against a record refugee influx they blame for mass sexual violence at New Year's Eve events in Cologne and other German cities. Many chanted 'We are the people', 'Resistance!' and 'Deport them!'. The rally was organized by a local chapter of PEGIDA (Patriotic Europeans Against the Islamisation of the Occident). Six Pakistani men and one Syrian man were also attacked by so-called vigilantes in Cologne, following calls on social media for "revenge" in the wake of the New Year's Eve assaults. ](/news/2016/01/11/thousands-of-protesters-in-leipzig-demonstrate-against-a-record-refugee-influx-they-blame-for-mass-sexual-violence-at-new-year-s-eve-events.md)
 _Context: Cologne, European migrant crisis, Leipzig, New Year's Eve sexual assaults in Germany, Pakistan, Pegida, Syria, social media_
-
-### [In association football, Lionel Messi of FC Barcelona and Argentina wins the 2015 FIFA Ballon d'Or, for his fifth time. Barca manager Luis Enrique is named FIFA World Coach of the Year for Men's Football. Carli Lloyd of the Houston Dash and the USA is named FIFA Women's World Player of the Year, and USA coach Jill Ellis is named FIFA World Coach of the Year for Women's Football. ](/news/2016/01/11/in-association-football-lionel-messi-of-fc-barcelona-and-argentina-wins-the-2015-fifa-ballon-d-or-for-his-fifth-time-barassa-manager-luis.md)
-_Context: 2015 FIFA Ballon d'Or, Argentina, Carli Lloyd, FC Barcelona, Houston Dash, Jill Ellis, Lionel Messi, Luis Enrique, U.S. women's national soccer team players, association football_
-
-### [In Australian football, 34 current and former players with the Essendon Football Club are banned from playing in the Australian Football League during the 2016 AFL season after the Court of Arbitration for Sport finds that they took the banned substance thymosin-beta 4. ](/news/2016/01/11/in-australian-football-34-current-and-former-players-with-the-essendon-football-club-are-banned-from-playing-in-the-australian-football-lea.md)
-_Context: 2016 AFL season, Australian Football League, Australian football, Court of Arbitration for Sport, Essendon Football Club_
-
-### [In American football, the Alabama Crimson Tide defeat the Clemson Tigers 45-40 to win the College Football Playoff National Championship. ](/news/2016/01/11/in-american-football-the-alabama-crimson-tide-defeat-the-clemson-tigers-45-40-to-win-the-college-football-playoff-national-championship.md)
-College football playoff championship: Alabama vs. Clemson live updates
 
 ## [Previous Day...](/news/2016/01/10/index.md)
 

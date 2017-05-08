@@ -19,7 +19,7 @@ Hungary’s Speaker of Parliament Laszlo Kover said he insisted on his plan to v
 _Context: China, Russian President, Vladimir Putin_
 
 ### [Der Spiegel reports that Israel is arming submarines supplied by Germany with nuclear-tipped cruise missiles, provoking debate within Germany and internationally. ](/news/2012/06/5/der-spiegel-reports-that-israel-is-arming-submarines-supplied-by-germany-with-nuclear-tipped-cruise-missiles-provoking-debate-within-german.md)
-_Context: Der Spiegel, Germany, Israel, nuclear-tipped cruise missiles, submarines_
+_Context: Der Spiegel, German, Israel, nuclear-tipped cruise missiles, submarines_
 
 ### [Voters in the U.S. state of Wisconsin go to the polls for the gubernatorial and Wisconsin Senate recall election with incumbent governor Scott Walker retaining his office, and the Democrats control of the state Senate. ](/news/2012/06/5/voters-in-the-u-s-state-of-wisconsin-go-to-the-polls-for-the-gubernatorial-and-wisconsin-senate-recall-election-with-incumbent-governor-sco.md)
 RACINE &mdash; In a crucial election that swings control of the state Senate to the Democrats, Racine County appeared to have ousted current state Sen. Van Wanggaard Tuesday.

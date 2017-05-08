@@ -7,7 +7,7 @@ _Context: Civic Platform, Donald Tusk, Law and Justice, Lech Kaczynski, Polish P
 _Context: African-American, New Orleans, Robert Davis, white_
 
 ### [ New York Senator Hillary Clinton is inducted into the National Women's Hall of Fame. ](/news/2005/10/9/new-york-senator-hillary-clinton-is-inducted-into-the-national-women-s-hall-of-fame.md)
-_Context: Hillary Clinton, National Women's Hall of Fame, senators_
+_Context: Hillary Clinton, National Women's Hall of Fame, United States senators_
 
 ### [ United Kingdom: In a joint statement, Anglican and Catholic leaders voice concerns over euthanasia as the House of Lords gears up for debate on legislation. ](/news/2005/10/9/united-kingdom-in-a-joint-statement-anglican-and-catholic-leaders-voice-concerns-over-euthanasia-as-the-house-of-lords-gears-up-for-debat.md)
 _Context: Anglican, Catholic, House of Lords, United Kingdom, euthanasia_

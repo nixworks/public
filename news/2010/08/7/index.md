@@ -78,11 +78,5 @@ Ex-president makes first appearance in national assembly in four years after fal
 ### [United States astronauts Douglas H. Wheelock and Tracy Caldwell Dyson fail on the International Space Station (ISS)'s longest spacewalk and sixth longest spacewalk to repair a cooling system, which means two more spacewalks are now required. ](/news/2010/08/7/united-states-astronauts-douglas-h-wheelock-and-tracy-caldwell-dyson-fail-on-the-international-space-station-iss-s-longest-spacewalk-and.md)
 Two International Space Station astronauts achieve only &quot;partial success&quot; in efforts to repair a cooling system, and two more spacewalks will be needed.
 
-### [New Zealand's All Blacks defeat the Australian Wallabies 20-10 to win the Bledisloe Cup and Tri Nations. ](/news/2010/08/7/new-zealand-s-all-blacks-defeat-the-australian-wallabies-20-10-to-win-the-bledisloe-cup-and-tri-nations.md)
-The All Blacks beat Australia 20-10 in Christchurch on Saturday night to record their ninth straight win over the Wallabies and virtually sew up this year&#39;s Tri- Nations series with two games still to play.
-
-### [The 2010 World Sauna Championships ends upon the death of Russian finalist Vladimir Ladyzhensky in Heinola, Finland. ](/news/2010/08/7/the-2010-world-sauna-championships-ends-upon-the-death-of-russian-finalist-vladimir-ladyzhensky-in-heinola-finland.md)
-A Russian finalist in the World Sauna Championships in Finland dies and his rival is rushed to hospital after facing temperatures of 110C.
-
 ## [Previous Day...](/news/2010/08/6/index.md)
 

@@ -19,16 +19,13 @@ Railways, while confirming the death of 4 people in the accident, has not ruled 
 China sends its first ever ministerial-level official on a charm offensive to Taiwan following mass protests over a proposed trade agreement.
 
 ### [The United States has added several LeT-affiliated organizations including Jama'at-ud-Dawa to its list of foreign terror organisations.](/news/2014/06/25/the-united-states-has-added-several-let-affiliated-organizations-including-jama-at-ud-dawa-to-its-list-of-foreign-terror-organisations.md)
-_Context: Jama'at-ud-Dawa, LeT, U.S._
+_Context: Jama'at-ud-Dawa, LeT, United States_
 
 ### [Algeria-Egypt relations:Egypt's president Abdel Fattah el-Sisi makes his first official visit abroad to Algeria where security was top of the agenda. ](/news/2014/06/25/algeriaaegypt-relations-pegypt-s-president-abdel-fattah-el-sisi-makes-his-first-official-visit-abroad-to-algeria-where-security-was-top-of.md)
 * Gas deal part of supply talks since early this year* Five cargoes to be delivered by year-end* Sisi, Algeria talk over security, Libya (A
 
 ### [Both houses of the Romanian parliament widely adopt a joint statement urging Romania's president Traian Basescu to resign, following corruption scandals involving his arrested brother's graft case and one of his sons-in-law's implication in a criminal investigation. ](/news/2014/06/25/both-houses-of-the-romanian-parliament-widely-adopt-a-joint-statement-urging-romania-s-president-traian-basescu-to-resign-following-corrup.md)
 _Context: Romania, Traian Basescu, assembly, corruption, graft_
-
-### [Luis Suarez of Uruguay is charged with biting Giorgio Chiellini of Italy in yesterday's Group D match. ](/news/2014/06/25/luis-sua-rez-of-uruguay-is-charged-with-biting-giorgio-chiellini-of-italy-in-yesterday-s-group-d-match.md)
-_Context: 2014 FIFA World Cup, Giorgio Chiellini, Group D, Italy, Luis Suarez, Uruguay_
 
 ## [Previous Day...](/news/2014/06/24/index.md)
 

@@ -48,8 +48,5 @@ _Context: John O'Dowd, Martin McGuinness, Sinn Fein, deputy First Minister of No
 ### [The President of the United States, Barack Obama, outlines a plan to cut US deficits by $3 trillion over 10 years, with half of the reductions coming from tax increases. ](/news/2011/09/19/the-president-of-the-united-states-barack-obama-outlines-a-plan-to-cut-us-deficits-by-3-trillion-over-10-years-with-half-of-the-reductio.md)
 _Context: Obama, President_
 
-### [In baseball, Mariano Rivera of the New York Yankees sets a record in Major League Baseball for career saves. ](/news/2011/09/19/in-baseball-mariano-rivera-of-the-new-york-yankees-sets-a-record-in-major-league-baseball-for-career-saves.md)
-_Context: Major League Baseball, Mariano Rivera, New York Yankees, baseball, saves_
-
 ## [Previous Day...](/news/2011/09/18/index.md)
 

@@ -27,8 +27,5 @@ _Context: California, hunger strike_
 ### [Bruce Beutler of the US, Jules A. Hoffmann of France and Ralph Steinman of Canada (posthumously) share the Nobel Prize in Physiology or Medicine for research into the immune system. ](/news/2011/10/3/bruce-beutler-of-the-us-jules-a-hoffmann-of-france-and-ralph-steinman-of-canada-posthumously-share-the-nobel-prize-in-physiology-or-medi.md)
 _Context: Bruce Beutler, Jules A. Hoffmann, Nobel Prize in Physiology or Medicine, Ralph Steinman_
 
-### [US golfer Tiger Woods drops out of the top 50 in the world ranking for the first time in nearly 15 years, ending a streak of 778 consecutive weeks inside the top 50, dating to when Woods was No. 61 on October 13, 1996. ](/news/2011/10/3/us-golfer-tiger-woods-drops-out-of-the-top-50-in-the-world-ranking-for-the-first-time-in-nearly-15-years-ending-a-streak-of-778-consecutive.md)
-_Context: No. 1 spot in the Official World Golf Ranking, Tiger Woods_
-
 ## [Previous Day...](/news/2011/10/2/index.md)
 

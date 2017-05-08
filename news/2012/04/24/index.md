@@ -39,11 +39,5 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 ### [Pennsylvania 2012 primary electionsU.S. Rep. Jason Altmire (D-Pennsylvania) is defeated in the redrawn 12th congressional district Democratic primary by U.S. Rep. Mark Critz. ](/news/2012/04/24/pennsylvania-2012-primary-electionspu-s-rep-jason-altmire-d-pennsylvania-is-defeated-in-the-redrawn-12th-congressional-district-democrat.md)
 U.S. Rep. Jason Altmire matched his expectations in his political strongholds of Beaver and Allegheny counties in last week&rsquo;s primary, but he was simply overwhelmed by Cambria County voters loyal
 
-### [In the UEFA Champions League semi-final, Chelsea pull off a remarkable comeback against FC Barcelona at the Camp Nou, coming back from two goals down despite having captain John Terry sent off, central defender Gary Cahill injured in the opening minutes and Didier Drogba's concession of a penalty to Lionel Messi which hits the crossbar. Chelsea are left without the suspended quartet of Terry, Ramires, Branislav Ivanovic and Raul Meireles for the final at the Allianz Arena. ](/news/2012/04/24/in-the-uefa-champions-league-semi-final-chelsea-pull-off-a-remarkable-comeback-against-fc-barcelona-at-the-camp-nou-coming-back-from-two-g.md)
-Chelsea claimed a stunning draw against Barcelona at the Camp Nou to book their place in the Champions League final in a game that will go down as a classic. Relive the action here.
-
-### [An arrest warrant is issued for Premier League footballer Steven Pienaar after he failed to appear in court to answer speeding charges. ](/news/2012/04/24/an-arrest-warrant-is-issued-for-premier-league-footballer-steven-pienaar-after-he-failed-to-appear-in-court-to-answer-speeding-charges.md)
-Everton footballer Steven Pienaar is given unconditional bail after missing a court hearing in Essex over speeding allegations.
-
 ## [Previous Day...](/news/2012/04/23/index.md)
 

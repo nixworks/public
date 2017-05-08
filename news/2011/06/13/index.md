@@ -75,8 +75,5 @@ Italian Prime Minister Silvio Berlusconi accepts the rejection of his nuclear po
 ### [A report by an independent panel of experts has recommended the British government rethink its controversial plans for reform of the National Health Service in England. ](/news/2011/06/13/a-report-by-an-independent-panel-of-experts-has-recommended-the-british-government-rethink-its-controversial-plans-for-reform-of-the-nationa.md)
 The NHS plans for England need a major re-write to ensure the best interests of patients are protected, an independent review says.
 
-### [The Boston Bruins defeat the Vancouver Canucks 5-2 to force the 2011 Stanley Cup Finals into a seventh game. ](/news/2011/06/13/the-boston-bruins-defeat-the-vancouver-canucks-5-2-to-force-the-2011-stanley-cup-finals-into-a-seventh-game.md)
-_Context: 2011 Stanley Cup Finals, Boston Bruins, Vancouver Canucks_
-
 ## [Previous Day...](/news/2011/06/12/index.md)
 

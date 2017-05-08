@@ -19,7 +19,7 @@ UPS plane went down in a ball of fire in military area between Emirates Road and
 _Context: Indonesia, Mount Sinabung, North Sumatra_
 
 ### [States in the New England region of the United States prepare for a possible impact from Hurricane Earl which has weakened to a tropical storm. ](/news/2010/09/3/states-in-the-new-england-region-of-the-united-states-prepare-for-a-possible-impact-from-hurricane-earl-which-has-weakened-to-a-tropical-sto.md)
-_Context: Hurricane Earl, New England, U.S., tropical storm_
+_Context: Hurricane Earl, New England, United States, tropical storm_
 
 ### [Forest fires flare up in the southern Russian regions of Volgograd and Saratov, killing two people and burning down 500 buildings. ](/news/2010/09/3/forest-fires-flare-up-in-the-southern-russian-regions-of-volgograd-and-saratov-killing-two-people-and-burning-down-500-buildings.md)
 At least four people have died and hundreds of homes have been destroyed in a new outbreak of wildfires in Russia.
@@ -40,7 +40,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: United Nations Food and Agriculture Organization_
 
 ### [Miami International Airport in the US state of Florida is evacuated after a suspicious package is found. A passenger is taken into custody. ](/news/2010/09/3/miami-international-airport-in-the-us-state-of-florida-is-evacuated-after-a-suspicious-package-is-found-a-passenger-is-taken-into-custody.md)
-_Context: FL, Miami International Airport, U.S._
+_Context: Florida, Miami International Airport, United States_
 
 ### [The President of the Philippines, Benigno Aquino III, takes responsibility for the handling of the Manila hostage crisis in August. ](/news/2010/09/3/the-president-of-the-philippines-benigno-aquino-iii-takes-responsibility-for-the-handling-of-the-manila-hostage-crisis-in-august.md)
 _Context: Benigno Aquino III, Manila hostage crisis, Philippine President_
@@ -59,12 +59,6 @@ _Context: Royal Mail, United Kingdom, image recognition, postage stamp_
 
 ### [A study published in the journal ''Cell'' reports the discovery that the cerebral cortex of mammals shares a common evolutionary origin with mushroom bodies, brain structures involved in learning and memory in insects and other invertebrates. ](/news/2010/09/3/a-study-published-in-the-journal-cell-reports-the-discovery-that-the-cerebral-cortex-of-mammals-shares-a-common-evolutionary-origin-with.md)
 _Context: cerebral cortex, mushroom bodies_
-
-### [The International Cricket Council charges three Pakistan cricketers who are then formally interviewed by police into a betting scam alleged by the ''News of the World''. ](/news/2010/09/3/the-international-cricket-council-charges-three-pakistan-cricketers-who-are-then-formally-interviewed-by-police-into-a-betting-scam-alleged.md)
-_Context: International Cricket Council, News of the World, Pakistan national cricket team_
-
-### [UEFA Euro 2012 qualifying:Qualification starts for UEFA Euro 2012 in European football, with wins for Germany and 2010 FIFA World Cup finalists Spain and the Netherlands. ](/news/2010/09/3/uefa-euro-2012-qualifying-pqualification-starts-for-uefa-euro-2012-in-european-football-with-wins-for-germany-and-2010-fifa-world-cup-final.md)
-_Context: 2010 FIFA World Cup, Europe, Germany, Netherlands football team, Spain, UEFA Euro 2012, footballer, qualifying_
 
 ## [Previous Day...](/news/2010/09/2/index.md)
 

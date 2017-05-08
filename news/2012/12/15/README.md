@@ -33,14 +33,5 @@ _Context: Moscow, Russia, Russian President, Vladimir Putin, police officers, ra
 ### [Yamal-402, the Russian communications satellite, is taken to its planned geostationary orbit following a series of four adjustment operations. ](/news/2012/12/15/yamal-402-the-russian-communications-satellite-is-taken-to-its-planned-geostationary-orbit-following-a-series-of-four-adjustment-operation.md)
 _Context: Russia, Yamal-402, communications satellite, geostationary orbit_
 
-### [Team Germany's  Michael Schumacher and Sebastian Vettel win a sixth consecutive Race of Champions Nations Cup in Bangkok, Thailand. ](/news/2012/12/15/team-germany-s-michael-schumacher-and-sebastian-vettel-win-a-sixth-consecutive-race-of-champions-nations-cup-in-bangkok-thailand.md)
-_Context: 2012 Race of Champions, Bangkok, Germany, Michael Schumacher, Sebastian Vettel, Thailand, sixth_
-
-### [In curling, Sweden men's team and Russian women's team win the 2012 European Curling Championships in Karlstad, Sweden. ](/news/2012/12/15/in-curling-sweden-men-s-team-and-russian-women-s-team-win-the-2012-european-curling-championships-in-karlstad-sweden.md)
-Official website for the Le Gruy&egrave;re European Curling Championships 2012 held in Karlstad Sweden 8-15 December 2012.
-
-### [The body of the much-decorated Kerry Gaelic footballer Paidi O Se is found at his home, shocking the world of Gaelic games. ](/news/2012/12/15/the-body-of-the-much-decorated-kerry-gaelic-footballer-pa-ida-a-sa-c-is-found-at-his-home-shocking-the-world-of-gaelic-games.md)
-The GAA is in shock after Kerry legend Paidi O Se is found dead at his home on Saturday morning.
-
 ## [Previous Day...](/news/2012/12/14/index.md)
 

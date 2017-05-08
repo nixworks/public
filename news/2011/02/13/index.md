@@ -73,13 +73,10 @@ Cuba releases the political prisoners Hector Maseda and Angel Moya, after a seve
 _Context: Hina Rabbani Khar, Minister of Foreign Affairs, Pakistan, Prime Minister, Yousaf Raza Gillani_
 
 ### [Thousands of protesters in Dresden, Germany form a human chain to mark the 66th anniversary of the Dresden bombing and to protest against racism. ](/news/2011/02/13/thousands-of-protesters-in-dresden-germany-form-a-human-chain-to-mark-the-66th-anniversary-of-the-dresden-bombing-and-to-protest-against-ra.md)
-_Context: Dresden, Dresden bombing, Germany, human chain_
+_Context: Dresden, Dresden bombing, German, human chain_
 
 ### [Writing in ''The Observer'', British Prime Minister David Cameron defends his vision for a Big Society, dismissing claims that it is a "cover" for spending cuts. ](/news/2011/02/13/writing-in-the-observer-british-prime-minister-david-cameron-defends-his-vision-for-a-big-society-dismissing-claims-that-it-is-a-cove.md)
 _Context: Big Society, David Cameron, The Observer_
-
-### [In golf, Spaniard Alvaro Quiros fires a hole in one to win the Dubai Desert Classic; Tiger Woods concludes in 20th place. ](/news/2011/02/13/in-golf-spaniard-alvaro-quira3s-fires-a-hole-in-one-to-win-the-dubai-desert-classic-tiger-woods-concludes-in-20th-place.md)
-Spaniard Alvaro Quiros fires a hole-in-one to win the Dubai Desert Classic as Tiger Woods finishes a lowly 20th.
 
 ## [Previous Day...](/news/2011/02/12/index.md)
 

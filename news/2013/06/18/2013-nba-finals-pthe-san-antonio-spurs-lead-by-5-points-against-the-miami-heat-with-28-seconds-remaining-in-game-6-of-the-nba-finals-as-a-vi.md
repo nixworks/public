@@ -4,7 +4,3 @@
 
 
 
-
-### Related:
-
-1. [In basketball, the Miami Heat defeat the San Antonio Spurs to win the NBA Finals 4-3, successfully defending their title from last season. Season MVP LeBron James is named Finals MVP for the second straight year. ](/news/2013/06/20/in-basketball-the-miami-heat-defeat-the-san-antonio-spurs-to-win-the-nba-finals-4a3-successfully-defending-their-title-from-last-season.md) _Context: NBA Finals_

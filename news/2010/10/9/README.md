@@ -40,7 +40,7 @@ Rescuers drill right through to the underground chamber where 33 miners are trap
 More than 200 passengers and crew are rescued after a Baltic Sea ferry catches fire near the German island of Fehmarn.
 
 ### [The United States leads a group of non-EU developed countries in attempts to thoroughly revamp the Kyoto Protocol, blocking any possible progress in the climate negotiations currently under way in Tianjin, according to negotiator Sui Wei. ](/news/2010/10/9/the-united-states-leads-a-group-of-non-eu-developed-countries-in-attempts-to-thoroughly-revamp-the-kyoto-protocol-blocking-any-possible-pro.md)
-_Context: European Union, Kyoto Protocol, Sui Wei, Tianjin, U.S._
+_Context: European Union, Kyoto Protocol, Sui Wei, Tianjin, United States_
 
 ### [An Ecuadorean court orders the imprisonment of 12 police after last week's 2010 Ecuador crisis, with a lawyer saying they are being swept up in a "witch hunt". ](/news/2010/10/9/an-ecuadorean-court-orders-the-imprisonment-of-12-police-after-last-week-s-2010-ecuador-crisis-with-a-lawyer-saying-they-are-being-swept-up.md)
 _Context: Ecuador, protested against being stripped of their bonuses_
@@ -53,9 +53,6 @@ Police have arrested the former editor of Indonesian Playboy, Erwin Arnada, to f
 
 ### [Kim Jong-un attends the Arirang Festival performance in Pyongyang with his father Kim Jong-il. It is Kim Jong-un's first appearance before the world's media. ](/news/2010/10/9/kim-jong-un-attends-the-arirang-festival-performance-in-pyongyang-with-his-father-kim-jong-il-it-is-kim-jong-un-s-first-appearance-before-t.md)
 _Context: Arirang Festival, Kim Jong-il, Kim Jong-un, Pyongyang_
-
-### [The New York Yankees sweep the Minnesota Twins to progress to the 2010 American League Championship Series in Major League Baseball. ](/news/2010/10/9/the-new-york-yankees-sweep-the-minnesota-twins-to-progress-to-the-2010-american-league-championship-series-in-major-league-baseball.md)
-_Context: 2010 American League Championship Series, Major League Baseball, Minnesota Twins, New York Yankees_
 
 ## [Previous Day...](/news/2010/10/8/index.md)
 

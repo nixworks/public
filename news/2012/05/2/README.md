@@ -19,7 +19,7 @@ _Context: Eskinder Nega, Ethiopia, PEN America_
 _Context: Edvard Munch, New York's, The Scream_
 
 ### [A court in the German city of Mannheim rules that Microsoft has infringed Motorola Mobility's patents and bans Xbox 360 gaming consoles and Windows 7 operating system from sale in Germany. ](/news/2012/05/2/a-court-in-the-german-city-of-mannheim-rules-that-microsoft-has-infringed-motorola-mobility-s-patents-and-bans-xbox-360-gaming-consoles-and.md)
-_Context: German, Germany, Mannheim, Microsoft, Motorola Mobility, Windows 7, Xbox 360_
+_Context: German, German, Mannheim, Microsoft, Motorola Mobility, Windows 7, Xbox 360_
 
 ### [The News Corporation board expresses its "full confidence" in Rupert Murdoch following a UK government media committee's conclusion yesterday that Murdoch is "not a fit person" to run a major international business. ](/news/2012/05/2/the-news-corporation-board-expresses-its-full-confidence-in-rupert-murdoch-following-a-uk-government-media-committee-s-conclusion-yesterda.md)
 The News Corporation board says it has &quot;full confidence&quot; in Rupert Murdoch following a highly critical UK parliamentary committee report.
@@ -56,18 +56,6 @@ _Context: Mitt Romney, Newt Gingrich, Republican primaries, United States presid
 
 ### [Gujarat MP Prabha Taviad breaks down and weeps in parliament alleging assault by police as she tried to attend a government function. ](/news/2012/05/2/gujarat-mp-prabha-taviad-breaks-down-and-weeps-in-parliament-alleging-assault-by-police-as-she-tried-to-attend-a-government-function.md)
 Indian MP Prabha Taviad breaks down and weeps in parliament, alleging she was assaulted by police on her way to a government function.
-
-### [Lionel Messi breaks Gerd Muller's scoring record for a single European football season with a league hat-trick as Barcelona defeat Malaga. ](/news/2012/05/2/lionel-messi-breaks-gerd-ma1-4ller-s-scoring-record-for-a-single-european-football-season-with-a-league-hat-trick-as-barcelona-defeat-malaga.md)
-Real Madrid seal the Spanish title with a 3-0 win over Athletic Bilbao, while Lionel Messi scores a record 68th goal this season for Barcelona.
-
-### [Papiss Cisse fires two goals past UEFA Champions League finalists Chelsea to keep Newcastle United firmly in contention for a place in the Premier League's top four which would require Chelsea to defeat Bayern Munich in the final to qualify for next season. ](/news/2012/05/2/papiss-cissa-c-fires-two-goals-past-uefa-champions-league-finalists-chelsea-to-keep-newcastle-united-firmly-in-contention-for-a-place-in-the.md)
-_Context: 2012-13 UEFA Champions League, Chelsea F.C., English Premier League, FC Bayern Munich, Newcastle United F.C., Papiss Cisse, UEFA Champions League, last May_
-
-### [Fabrice Muamba makes an emotional return to the Reebok Stadium following his collapse on the pitch on 17 March 2012. ](/news/2012/05/2/fabrice-muamba-makes-an-emotional-return-to-the-reebok-stadium-following-his-collapse-on-the-pitch-on-17-march-2012.md)
-Bolton midfielder Fabrice Muamba is overcome with emotion as he returns to the Reebok Stadium to greet the cheering and chanting crowd.
-
-### [Former National Football League All-Pro and Pro Bowl linebacker Junior Seau is found dead in his home in Oceanside, California, of an apparent self-inflicted gunshot wound. ](/news/2012/05/2/former-national-football-league-all-pro-and-pro-bowl-linebacker-junior-seau-is-found-dead-in-his-home-in-oceanside-california-of-an-appare.md)
-Former NFL great Junior Seau, who played most of his career at linebacker for the San Diego Chargers, has died. He was 43.
 
 ## [Previous Day...](/news/2012/05/1/index.md)
 

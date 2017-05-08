@@ -36,8 +36,5 @@ WASHINGTON — Key sections of the Patriot Act anti-terrorism law will expire at
 ### [The East African Community calls on Burundi to postpone its presidential election due to unrest sparked by the decision by President Pierre Nkurunziza to run for a third term. ](/news/2015/05/31/the-east-african-community-calls-on-burundi-to-postpone-its-presidential-election-due-to-unrest-sparked-by-the-decision-by-president-pierre.md)
 _Context: 2015 Burundian unrest, Burundi, Burundian presidential election, 2015, East African Community, Pierre Nkurunziza, Presidents_
 
-### [In cycling, Alberto Contador of Spain wins his second Giro d'Italia. ](/news/2015/05/31/in-cycling-alberto-contador-of-spain-wins-his-second-giro-d-italia.md)
-_Context: 2015 Giro d'Italia, Alberto Contador, Giro d'Italia, Spain, cycling_
-
 ## [Previous Day...](/news/2015/05/30/index.md)
 

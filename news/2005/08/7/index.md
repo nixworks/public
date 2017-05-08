@@ -13,7 +13,7 @@ _Context: Al-Aqsa Martyrs' Brigades, Ateret, Israeli settlement, Israeli-Palesti
 _Context: AS-28, Priz class_
 
 ### [ England wins the second match of The 2005 Ashes test cricket series over Australia in a nail biter, winning by 2 runs at Edgbaston in Birmingham, England. ](/news/2005/08/7/england-wins-the-second-match-of-the-2005-ashes-test-cricket-series-over-australia-in-a-nail-biter-winning-by-2-runs-at-edgbaston-in-birmi.md)
-_Context: Australia, Birmingham, Edgbaston Cricket Ground, England, test cricket, the 2005 Ashes_
+_Context: Australia, Birmingham, Edgbaston, England, Test, the 2005 Ashes_
 
 ### [ Venezuelan president Hugo Chvez dismisses cooperation with the US DEA, claiming that they spy on him  ](/news/2005/08/7/venezuelan-president-hugo-chavez-dismisses-cooperation-with-the-us-dea-claiming-that-they-spy-on-him.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

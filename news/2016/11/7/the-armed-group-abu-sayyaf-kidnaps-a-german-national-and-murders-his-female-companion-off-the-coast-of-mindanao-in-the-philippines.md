@@ -11,7 +11,7 @@ An Islamist militant group has claimed it has abducted a German sailor and kille
 
 ### Related:
 
-1. [The Abu Sayyaf militant group beheads their German hostage Jurgen Kantner in Indanan, Philippines. ](/news/2017/02/27/the-abu-sayyaf-militant-group-beheads-their-german-hostage-jurgen-kantner-in-indanan-philippines.md) _Context: Abu Sayyaf, Germany, Philippine_
+1. [The Abu Sayyaf militant group beheads their German hostage Jurgen Kantner in Indanan, Philippines. ](/news/2017/02/27/the-abu-sayyaf-militant-group-beheads-their-german-hostage-jurgen-kantner-in-indanan-philippines.md) _Context: Abu Sayyaf, German, Philippine_
 2. [A 6.8 earthquake strikes off the coast of Mindanao, Philippines triggering tsunami warnings. ](/news/2017/04/28/a-6-8-earthquake-strikes-off-the-coast-of-mindanao-philippines-triggering-tsunami-warnings.md) _Context: Mindanao, Philippine_
 3. [Gunmen attack a Vietnamese vessel near Tawi-Tawi, Philippines, killing at least one sailor and abducting seven others, according to the Philippine Coast Guard. Abu Sayyaf militants are suspected of being behind the attack. ](/news/2017/02/20/gunmen-attack-a-vietnamese-vessel-near-tawi-tawi-philippines-killing-at-least-one-sailor-and-abducting-seven-others-according-to-the-phil.md) _Context: Abu Sayyaf, Philippine_
 4. [A 6.5 magnitude earthquake strikes 14 kilometers (8 miles) northwest of Surigao City on the Philippines island of Mindanao and kills four people, injures  more than 100  others, and damages multiple buildings. ](/news/2017/02/10/a-6-5-magnitude-earthquake-strikes-14-kilometers-8-miles-northwest-of-surigao-city-on-the-philippines-island-of-mindanao-and-kills-four-pe.md) _Context: Mindanao, Philippine_

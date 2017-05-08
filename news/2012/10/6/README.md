@@ -15,8 +15,5 @@ _Context: Iran, Israel, Treaty on the Non-Proliferation of Nuclear Weapons_
 ### [Former Social Democratic and Labour Party leader John Hume receives the papal knighthood at a special Mass in Derry's St Eugene's Cathedral. ](/news/2012/10/6/former-social-democratic-and-labour-party-leader-john-hume-receives-the-papal-knighthood-at-a-special-mass-in-derry-s-st-eugene-s-cathedral.md)
 _Context: Derry, John Hume, Social Democratic and Labour Party, St Eugene's Cathedral, papal knighthood_
 
-### [The 2012 rugby league Super League was won by Leeds Rhinos who defeated Warrington Wolves 26-18 in the Old Trafford Grand Final. ](/news/2012/10/6/the-2012-rugby-league-super-league-was-won-by-leeds-rhinos-who-defeated-warrington-wolves-26-18-in-the-old-trafford-grand-final.md)
-Defending Super League champions Leeds beat Warrington in the Grand Final to claim a record sixth title.
-
 ## [Previous Day...](/news/2012/10/5/index.md)
 

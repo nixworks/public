@@ -22,7 +22,7 @@ Malawi accuses US singer Madonna of &quot;bullying state officials&quot; after s
 Reaction has been strong to Thursday&#39;s Glee episode, Shooting Star, which included a character bringing a gun to school. And a shooting occurred.
 
 ### [American comedian Jonathan Winters dies at the age of 87 in Montecito, California. ](/news/2013/04/11/american-comedian-jonathan-winters-dies-at-the-age-of-87-in-montecito-california.md)
-_Context: California, Jonathan Winters, Montecito, U.S., comedian_
+_Context: California, Jonathan Winters, Montecito, United States, comedian_
 
 ### [Maria Tallchief, the first Native American to achieve the rank of prima ballerina at a major ballet company, dies at the age of 88. ](/news/2013/04/11/maria-tallchief-the-first-native-american-to-achieve-the-rank-of-prima-ballerina-at-a-major-ballet-company-dies-at-the-age-of-88.md)
 Ms. Tallchief achieved renown as an early prima ballerina with the New York City Ballet, dancing for George Balanchine and entertaining audiences with her speed, energy and fire.
@@ -34,7 +34,7 @@ Japanese automakers Honda, Nissan, Toyota and Mazda announced Thursday they are 
 _Context: Electricity, Jay Nixon, Missouri, Missouri Governor, church, destroy, midwestern, state of emergency, tornado_
 
 ### [Two people are killed and 41 injured in a bus crash in Irving, Texas, United States. ](/news/2013/04/11/two-people-are-killed-and-41-injured-in-a-bus-crash-in-irving-texas-united-states.md)
-_Context: Irving, Texas, U.S., bus_
+_Context: Irving, Texas, United States, bus_
 
 ### [2013 Korean crisis:North Korea renews a threat to permanently close its Kaesong joint industrial zone with South Korea, blaming the "confrontation" policies of the South Korea's new president, Park Geun-hye. ](/news/2013/04/11/2013-korean-crisis-pnorth-korea-renews-a-threat-to-permanently-close-its-kaesong-joint-industrial-zone-with-south-korea-blaming-the-confro.md)
 A powerful US military sea-based radar is now in place to detect any possible missile launches by North Korea, according to a senior US defence official.
@@ -68,9 +68,6 @@ Fast-growing bones point to SUPER-SHORT incubation period
 
 ### [A study finds that carefully timed sounds played during sleep can enhance memory. ](/news/2013/04/11/a-study-finds-that-carefully-timed-sounds-played-during-sleep-can-enhance-memory.md)
 _Context: memory, sleep_
-
-### [2012-13 UEFA Europa League quarter-finals:Fenerbahce defeat Lazio and Basel see off Tottenham to reach their first European semi-finals. ](/news/2013/04/11/2012a13-uefa-europa-league-quarter-finals-pfenerbahasse-defeat-lazio-and-basel-see-off-tottenham-to-reach-their-first-european-semi-finals.md)
-Tottenham bow out of the Europa League after losing 4-1 on penalties after a pulsating quarter-final second leg at Basel.
 
 ## [Previous Day...](/news/2013/04/10/index.md)
 

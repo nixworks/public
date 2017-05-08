@@ -54,11 +54,5 @@ More than 50,000 people attend the beatification in Sicily of Don Giuseppe Pugli
 ### [An Apple I computer sells for US$671,000 at auction. ](/news/2013/05/25/an-apple-i-computer-sells-for-us-671-000-at-auction.md)
 An auction for a working Apple I system barely beats out the cost of a one-hour chit-chat with CEO Tim Cook.
 
-### [In football, Bayern Munich defeats Borussia Dortmund 2-1 in the 2012-13 UEFA Champions League Final. ](/news/2013/05/25/in-football-bayern-munich-defeats-borussia-dortmund-2-1-in-the-2012-13-uefa-champions-league-final.md)
-_Context: 2012-13 UEFA Champions League, Bayern Munich, Borussia Dortmund, Final, association football_
-
-### [Japanese climber Yuichiro Miura becomes the oldest person ever the summit Mount Everest at the age of 80. ](/news/2013/05/25/japanese-climber-yuichiro-miura-becomes-the-oldest-person-ever-the-summit-mount-everest-at-the-age-of-80.md)
-The oldest person to climb Mount Everest said Sunday that he won&#039;t make any further attempts to scale the world&#039;s highest peak — even though his new record may soon be in jeopardy. 
-
 ## [Previous Day...](/news/2013/05/24/index.md)
 

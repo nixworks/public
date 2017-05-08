@@ -45,14 +45,5 @@ The hospital treating the pregnant Duchess of Cambridge says it &quot;deeply reg
 ### [The peace talks between the Colombian government and the Revolutionary Armed Forces of Colombia (FARC) resume in Havana, Cuba. ](/news/2012/12/5/the-peace-talks-between-the-colombian-government-and-the-revolutionary-armed-forces-of-colombia-farc-resume-in-havana-cuba.md)
 _Context: Colombian government, Cuba, Havana, Revolutionary Armed Forces of Colombia_
 
-### [The New Orleans Hornets plan to change their nickname to the Pelicans (after the state bird of Louisiana) for the 2013-14 NBA season. ](/news/2012/12/5/the-new-orleans-hornets-plan-to-change-their-nickname-to-the-pelicans-after-the-state-bird-of-louisiana-for-the-2013a14-nba-season.md)
-The New Orleans Hornets are expected to become the New Orleans Pelicans, perhaps as early as the 2013-14 season, according to a Yahoo! Sports report.
-
-### [The draw for the elite qualification round of the 2013 UEFA European Under-19 Football Championship is held by UEFA. Title holders Spain face Croatia, Poland and last season's runners-up Greece. ](/news/2012/12/5/the-draw-for-the-elite-qualification-round-of-the-2013-uefa-european-under-19-football-championship-is-held-by-uefa-title-holders-spain-fac.md)
-_Context: 2013 UEFA European Under-19 Football Championship, Croatia, Greece, Poland, Spain, Title holders, UEFA, elite qualification round, last season_
-
-### [Lionel Messi is carried off on a stretcher with an apparent knee injury as FC Barcelona are held to 0-0 by Benfica at Camp Nou in the 2012-13 UEFA Champions League. ](/news/2012/12/5/lionel-messi-is-carried-off-on-a-stretcher-with-an-apparent-knee-injury-as-fc-barcelona-are-held-to-0a0-by-benfica-at-camp-nou-in-the-2012.md)
-_Context: 2012-13 UEFA Champions League, Benfica, Camp Nou, FC Barcelona, Lionel Messi, knee injury, stretcher_
-
 ## [Previous Day...](/news/2012/12/4/index.md)
 

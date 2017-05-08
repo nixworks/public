@@ -78,11 +78,5 @@ _Context: Nigeria, state governor elections_
 ### [Counting begins in elections for the 24th Seanad in Ireland. ](/news/2011/04/26/counting-begins-in-elections-for-the-24th-seanad-in-ireland.md)
 Former Fine Gael TD Deirdre Clune has become the first person to be deemed elected to the 24th Seanad.
 
-### [The deadline to buy tickets for the 2012 Summer Olympics in London, England is extended due to a last-minute computer crash. ](/news/2011/04/26/the-deadline-to-buy-tickets-for-the-2012-summer-olympics-in-london-england-is-extended-due-to-a-last-minute-computer-crash.md)
-The deadline to apply for tickets for the London 2012 Olympics had to be extended beyond midnight last night after the website crashed due to a last-minute surge.
-
-### [Sony's PlayStation Network remains offline after a worldwide security breach obtains millions of users' personal information. ](/news/2011/04/26/sony-s-playstation-network-remains-offline-after-a-worldwide-security-breach-obtains-millions-of-users-personal-information.md)
-_Context: PlayStation Network, offline, user_
-
 ## [Previous Day...](/news/2011/04/25/index.md)
 

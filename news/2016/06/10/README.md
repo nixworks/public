@@ -45,8 +45,5 @@ The campaign to take Britain out of the EU has opened up a remarkable 10-point l
 ### [Georgia Senator David Perdue is criticized for remarks at the Faith and Freedom Coalition's Road to Majority conference in which his quote of Psalm 109:8, "Let his days be few, and may another have his office," appears to be a prayer for President Barack Obama's death. Perdue says, "It was a little humor and I said it in a way that we were talking about his days as president." ](/news/2016/06/10/georgia-senator-david-perdue-is-criticized-for-remarks-at-the-faith-and-freedom-coalitionas-road-to-majority-conference-in-which-his-quote.md)
 Georgia Sen. David Perdue said people should pray for President Barack Obama, then recited a Bible verse about death, praying &quot;let his days be few.&quot;
 
-### [Gordie Howe, who scored 801 goals, was a six-time most valuable player during 26 years in the National Hockey League and won four Stanley Cups with the Detroit Red Wings, dies at the age of 88. ](/news/2016/06/10/gordie-howe-who-scored-801-goals-was-a-six-time-most-valuable-player-during-26-years-in-the-national-hockey-league-and-won-four-stanley-cu.md)
-_Context: Detroit Red Wings, Gordie Howe, NHL, Stanley Cups, most valuable player_
-
 ## [Previous Day...](/news/2016/06/9/index.md)
 

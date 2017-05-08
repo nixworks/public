@@ -19,7 +19,7 @@ _Context: Central-African, Lord's Resistance Army, Ugandan soldier_
 _Context: China, Hunan Province, Pingjiang County_
 
 ### [Paul Watson, the founder of the Sea Shepherd Conservation Society, is arrested in Germany for allegedly violating Guatemalan territorial waters in 2002. ](/news/2012/05/13/paul-watson-the-founder-of-the-sea-shepherd-conservation-society-is-arrested-in-germany-for-allegedly-violating-guatemalan-territorial-wat.md)
-_Context: Germany, Guatemala, Paul Watson, Sea Shepherd Conservation Society, allegedly violating_
+_Context: German, Guatemala, Paul Watson, Sea Shepherd Conservation Society, allegedly violating_
 
 ### [Voters in the German state of North Rhine-Westphalia head to the polls for an election, with the Social Democratic Party of Germany winning the most votes, allowing it to continue in government with the support of the Greens. ](/news/2012/05/13/voters-in-the-german-state-of-north-rhine-westphalia-head-to-the-polls-for-an-election-with-the-social-democratic-party-of-germany-winning.md)
 Angela Merkel&#039;s conservative party suffers a crushing defeat in a crucial state vote ahead of Germany&#039;s national elections next year.
@@ -32,15 +32,6 @@ _Context: Greece, Karolos Papoulias, President of Greece, coalition government_
 
 ### [Scientists claim that there is a visible link between the loss of biodiversity and the disappearance of endangered languages and cultures. ](/news/2012/05/13/scientists-claim-that-there-is-a-visible-link-between-the-loss-of-biodiversity-and-the-disappearance-of-endangered-languages-and-cultures.md)
 A study by US researchers highlights a link between the loss of biologically rich areas and a decline in linguistic and cultural diversity.
-
-### [Manchester City win the Premier League for the first time, beating Manchester United on goal difference. ](/news/2012/05/13/manchester-city-win-the-premier-league-for-the-first-time-beating-manchester-united-on-goal-difference.md)
-_Context: English Premier League, Manchester City, Manchester United_
-
-### [British international motorcycle speedway racer Lee Richardson dies in hospital in the Polish city of Wroclaw following a crash in a racing event. ](/news/2012/05/13/british-international-motorcycle-speedway-racer-lee-richardson-dies-in-hospital-in-the-polish-city-of-wrocaaw-following-a-crash-in-a-racing.md)
-Great Britain international speedway rider Lee Richardson dies following a crash at a race in Poland.
-
-### [After winning the Spanish Grand Prix with driver Pastor Maldonado, the British Formula One team Williams suffers a fire in its pit garage, leaving 31 people injured. ](/news/2012/05/13/after-winning-the-spanish-grand-prix-with-driver-pastor-maldonado-the-british-formula-one-team-williams-suffers-a-fire-in-its-pit-garage-l.md)
-Four Williams mechanics are injured in a fire in the team garage following their first Formula 1 victory in eight years.
 
 ## [Previous Day...](/news/2012/05/12/index.md)
 

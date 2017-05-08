@@ -27,8 +27,5 @@ Nicola Sturgeon will succeed Alex Salmond as SNP leader and first minister, afte
 ### [Popular Saudi Shia Sheikh Nimr al-Nimr sentenced to death by Saudi court that tries terrorists and human rights activists. ](/news/2014/10/15/popular-saudi-shia-sheikh-nimr-al-nimr-sentenced-to-death-by-saudi-court-that-tries-terrorists-and-human-rights-activists.md)
 _Context: Nimr al-Nimr, Saudi Arabia, Saudi court, Shi'ite_
 
-### [In North American Major League Baseball, the Kansas City Royals sweep the Baltimore Orioles in the 2014 American League Championship Series 4-0 to progress to the 2014 World Series. ](/news/2014/10/15/in-north-american-major-league-baseball-the-kansas-city-royals-sweep-the-baltimore-orioles-in-the-2014-american-league-championship-series.md)
-_Context: 2014 American League Championship Series, 2014 World Series, Baltimore Orioles, Kansas City Royals, Major League Baseball_
-
 ## [Previous Day...](/news/2014/10/14/index.md)
 

@@ -28,7 +28,7 @@ _Context: Taiwan, Typhoon Chaba_
 _Context: Ghana, Zagyuri, truck_
 
 ### [Two airplanes crash at a retro air show near the city of Warngau in southern Germany. ](/news/2010/09/18/two-airplanes-crash-at-a-retro-air-show-near-the-city-of-warngau-in-southern-germany.md)
-_Context: Germany, Warngau, air show, airplane_
+_Context: German, Warngau, air show, airplane_
 
 ### [The President of Iran Mahmoud Ahmadinejad meets with the President of Algeria Abdelaziz Bouteflika in Algiers to discuss trade agreements. ](/news/2010/09/18/the-president-of-iran-mahmoud-ahmadinejad-meets-with-the-president-of-algeria-abdelaziz-bouteflika-in-algiers-to-discuss-trade-agreements.md)
 _Context: Abdelaziz Bouteflika, Algiers, Iranian President, Mahmoud Ahmadinejad, President, trade_
@@ -49,13 +49,10 @@ _Context:  within the church, Benedict XVI, Roman Catholic Church, visit of Pope
 _Context: Guinea, November's presidential poll, United Nations_
 
 ### [Tens of thousands of Germans protest in Berlin against the plans of the German government to extend the life of the country's nuclear power plants by another ten years. ](/news/2010/09/18/tens-of-thousands-of-germans-protest-in-berlin-against-the-plans-of-the-german-government-to-extend-the-life-of-the-country-s-nuclear-power.md)
-_Context: Berlin, Germany, Government of Germany, nuclear power_
+_Context: Berlin, German, Government of Germany, nuclear power_
 
 ### [Bulgarian Romani protest outside the French embassy in Sofia about expulsions of Romani from France. ](/news/2010/09/18/bulgarian-romani-protest-outside-the-french-embassy-in-sofia-about-expulsions-of-romani-from-france.md)
 _Context: Bulgaria, France, Roma, Sofia_
-
-### [Frenchman Philippe Croizon becomes the first limbless man to swim the English Channel. ](/news/2010/09/18/frenchman-philippe-croizon-becomes-the-first-limbless-man-to-swim-the-english-channel.md)
-_Context: English Channel, France, Philippe Croizon_
 
 ## [Previous Day...](/news/2010/09/17/index.md)
 

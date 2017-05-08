@@ -54,14 +54,5 @@ Demonstrations in support of the United Liberation Movement for West Papua have 
 ### [ A number of people were injured in clashes between police and several thousand protestors in Skopje, Macedonia, with demonstrators  breaking into President Gjorge Ivanov's offices. ](/news/2016/04/13/a-number-of-people-were-injured-in-clashes-between-police-and-several-thousand-protestors-in-skopje-macedonia-with-demonstrators-breakin.md)
 An anti-government protest in the Macedonian capital of Skopje has resulted in violence, with police being reportedly involved in clashes with demonstrators who have reportedly stormed the president&#039;s office.
 
-### [The World Anti-Doping Agency advises that WADA-accredited laboratories are currently conducting studies on meldonium excretion rates since existing data is lacking. Meldonium became a banned substance on January 1, 2016. A large number of athletes, including grand-slam tennis champion Maria Sharapova, had taken the medication in the past, and  have tested positive this year. The new data will address how long meldonium stays in the body and determine if athletes were provided a reasonable amount of time to adhere to the new restrictions prior to testing. The drug was used by many Soviet-bloc athletes since the 80s. ](/news/2016/04/13/the-world-anti-doping-agency-advises-that-wada-accredited-laboratories-are-currently-conducting-studies-on-meldonium-excretion-rates-since-e.md)
-Athletes who tested positive for meldonium before March 1 could have bans overturned less than four months before the Rio de Janeiro Olympics after WADA said it was unable to establish how quickly the drug, outlawed since Jan. 1, cleared the human body.
-
-### [In basketball, the 2015-16 Golden State Warriors team sets a new NBA record for regular season wins with 73 wins this season. The 1995-96 Chicago Bulls previously held the record with 72. ](/news/2016/04/13/in-basketball-the-2015-16-golden-state-warriors-team-sets-a-new-nba-record-for-regular-season-wins-with-73-wins-this-season-the-1995-96-ch.md)
-Stephen Curry and the Warriors stand alone in NBA history after a historic 73-9 regular season.
-
-### [The world's longest webcomic, Homestuck, ends.](/news/2016/04/13/the-world-s-longest-webcomic-homestuck-ends.md)
-_Context: Homestuck, webcomic_
-
 ## [Previous Day...](/news/2016/04/12/index.md)
 

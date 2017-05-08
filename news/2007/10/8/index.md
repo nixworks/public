@@ -1,7 +1,7 @@
 ## [2007-10-8](/news/2007/10/8/index.md)
 
 ### [ U.S. athlete Marion Jones returns the five medals she won at the Sydney Olympics and accepts a two-year ban from the sport after admitting to her use of a prohibited substance. ](/news/2007/10/8/u-s-athlete-marion-jones-returns-the-five-medals-she-won-at-the-sydney-olympics-and-accepts-a-two-year-ban-from-the-sport-after-admitting.md)
-_Context: 2000 Summer Olympics, Marion Jones, U.S., athlete, banned substances_
+_Context: 2000 Olympics, Marion Jones, U.S., athlete, banned substances_
 
 ### [ Australia suffers its first combat casualty in Afghanistan following the explosion of a bomb in the southern province of Oruzgan. ](/news/2007/10/8/australia-suffers-its-first-combat-casualty-in-afghanistan-following-the-explosion-of-a-bomb-in-the-southern-province-of-ora-zgan.md)
 _Context: Afghanistan, Australia, Oruzgan Province_

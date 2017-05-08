@@ -54,11 +54,5 @@ Rick Santorum won the Alabama and Mississippi primaries, holding off stiff chall
 ### [A research study conducted by Harvard Medical School shows that red meat increases the risk of death and has other negative health implications. ](/news/2012/03/13/a-research-study-conducted-by-harvard-medical-school-shows-that-red-meat-increases-the-risk-of-death-and-has-other-negative-health-implicati.md)
 A diet high in red meat can shorten life expectancy, according to researchers at Harvard Medical School.
 
-### [In basketball, the 2012 NCAA Men's Division I Basketball Tournament gets underway with first round games in Dayton ](/news/2012/03/13/in-basketball-the-2012-ncaa-men-s-division-i-basketball-tournament-gets-underway-with-first-round-games-in-dayton.md)
-_Context: 2012 NCAA Men's Division I Basketball Tournament, basketball_
-
-### [In sled dog racing, Dallas Seavey becomes the youngest winner of the Iditarod Trail Sled Dog Race  run in the US state of Alaska. ](/news/2012/03/13/in-sled-dog-racing-dallas-seavey-becomes-the-youngest-winner-of-the-iditarod-trail-sled-dog-race-run-in-the-us-state-of-alaska.md)
-Led by his team of nine dogs, Dallas Seavey made his way down a crowded Front Street in Nome, Alaska, to become the champion of the 2012 Iditarod, crossing under the famous &quot;burled arch&quot; -- and the...
-
 ## [Previous Day...](/news/2012/03/12/index.md)
 

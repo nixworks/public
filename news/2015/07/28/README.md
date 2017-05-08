@@ -10,7 +10,7 @@ _Context: Fokker Technologies, GKN, Netherlands, aerospace, multinational_
 _Context: Libya_
 
 ### [Florida law enforcement and civilians continue the search for two boys, both aged 14, who were intending to travel to the Bahamas by boat. ](/news/2015/07/28/florida-law-enforcement-and-civilians-continue-the-search-for-two-boys-both-aged-14-who-were-intending-to-travel-to-the-bahamas-by-boat.md)
-_Context: FL_
+_Context: Florida_
 
 ### [At least 25 people have been killed and 22 injured at a fire in a furniture factory in Obour City near the Egyptian capital Cairo. ](/news/2015/07/28/at-least-25-people-have-been-killed-and-22-injured-at-a-fire-in-a-furniture-factory-in-obour-city-near-the-egyptian-capital-cairo.md)
 A fire started by an exploding gas canister kills at least 25 people in the Egyptian capital Cairo, officials say.

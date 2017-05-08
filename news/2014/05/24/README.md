@@ -45,14 +45,5 @@ Military says it is assuming all political power, a day after arresting former p
 ### [North America experiences a meteor shower. ](/news/2014/05/24/north-america-experiences-a-meteor-shower.md)
 _Context: meteor shower_
 
-### [In football, Real Madrid defeat Atletico Madrid by a score of 4-1 in extra time in the 2014 UEFA Champions League Final played at Lisbon's Estadio da Luz. ](/news/2014/05/24/in-football-real-madrid-defeat-atla-c-tico-madrid-by-a-score-of-4-1-in-extra-time-in-the-2014-uefa-champions-league-final-played-at-lisbon-s.md)
-_Context: 2014 UEFA Champions League Final, Atletico Madrid, Estadio da Luz, Lisbon, Real Madrid, association football_
-
-### [In rugby union, Toulon defeat Saracens 23-6 in the last-ever Heineken Cup final, successfully defending their title from last season. ](/news/2014/05/24/in-rugby-union-toulon-defeat-saracens-23a6-in-the-last-ever-heineken-cup-final-successfully-defending-their-title-from-last-season.md)
-_Context: Saracens, Toulon, last season, last-ever Heineken Cup final, rugby union_
-
-### [In mixed martial arts, T.J. Dillashaw defeats Renan Barao to become the Bantamweight champion. ](/news/2014/05/24/in-mixed-martial-arts-t-j-dillashaw-defeats-renan-barapso-to-become-the-bantamweight-champion.md)
-A relentless barrage of kicks and punches helped TJ Dillashaw wrest the bantamweight belt from Renan Barao and land a title for Team Alpha Male.
-
 ## [Previous Day...](/news/2014/05/23/index.md)
 

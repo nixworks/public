@@ -33,11 +33,5 @@ _Context: Nguyen Duc Kien, Vietnam_
 ### [A Russian court in Moscow sentences five men to prison for the 2006 assassination of journalist Anna Politkovskaya.  ](/news/2014/06/9/a-russian-court-in-moscow-sentences-five-men-to-prison-for-the-2006-assassination-of-journalist-anna-politkovskaya.md)
 _Context: 2006 assassination, Anna Politkovskaya, Moscow, Russia_
 
-### [A construction worker dies building a monorail extension to Congonhas-So Paulo Airport, one of several World Cup projects that have fallen well behind schedule. ](/news/2014/06/9/a-construction-worker-dies-building-a-monorail-extension-to-congonhas-sao-paulo-airport-one-of-several-world-cup-projects-that-have-fallen.md)
-A worker is hit by a huge concrete slab in Sao Paulo just days before the city hosts the opening game of the World Cup.
-
-### [Basketball:In a reversal of recent reports, banned Los Angeles Clippers owner Donald Sterling withdraws his approval for the sale of the team to Steve Ballmer, and will pursue a US$1 billion lawsuit in federal court against the NBA and league commissioner Adam Silver. ](/news/2014/06/9/basketball-pin-a-reversal-of-recent-reports-banned-los-angeles-clippers-owner-donald-sterling-withdraws-his-approval-for-the-sale-of-the-te.md)
-In a reversal, Los Angeles Clippers owner Donald Sterling will pursue a $1 billion lawsuit against the NBA and commissioner Adam Silver, and withdraw his support for the sale of the team negotiated by his wife.
-
 ## [Previous Day...](/news/2014/06/8/index.md)
 

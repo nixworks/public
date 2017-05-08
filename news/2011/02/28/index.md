@@ -10,7 +10,7 @@ _Context: Ethiopia, Islamist, Kenya, Somalia, al-Shabaab_
 _Context: Burma, Yangon_
 
 ### [Frank Buckles, the last surviving veteran of World War I in the United States, passes away in Charles Town, West Virginia, aged 110. ](/news/2011/02/28/frank-buckles-the-last-surviving-veteran-of-world-war-i-in-the-united-states-passes-away-in-charles-town-west-virginia-aged-110.md)
-_Context: Charles Town, West Virginia, First World War, Frank Buckles, U.S., last surviving veteran_
+_Context: Charles Town, West Virginia, First World War, Frank Buckles, United States, last surviving veteran_
 
 ### [Television advertising in the United KingdomThe ban on product placement in television programmes is lifted, allowing advertisers to pay for their goods to be seen on British TV. The first product to be displayed in this regard is a Nescafe coffee machine, which appeared on ''This Morning''. ](/news/2011/02/28/television-advertising-in-the-united-kingdompthe-ban-on-product-placement-in-television-programmes-is-lifted-allowing-advertisers-to-pay-fo.md)
 A ban on product placement is lifted, allowing advertisers to pay for their goods to be seen on British TV for the first time.
@@ -19,7 +19,7 @@ A ban on product placement is lifted, allowing advertisers to pay for their good
 &quot;Gentlemen Prefer Blondes&quot; movie star Jane Russell, who became a controversial Hollywood sex symbol, died on Monday at the age of 89, her family said.
 
 ### [Crude oil prices rise to their highest levels in two years as stock market indexes fall in Europe and the United States due to continued uncertainty in the Middle East. ](/news/2011/02/28/crude-oil-prices-rise-to-their-highest-levels-in-two-years-as-stock-market-indexes-fall-in-europe-and-the-united-states-due-to-continued-unc.md)
-_Context: Arab Spring, Europe, U.S., crude oil, stock market_
+_Context: Arab Spring, Europe, United States, crude oil, stock market_
 
 ### [The United Kingdom's largest bank HSBC doubles its profits to $19bn (11.8bn) in 2010. ](/news/2011/02/28/the-united-kingdom-s-largest-bank-hsbc-doubles-its-profits-to-19bn-ps11-8bn-in-2010.md)
 _Context: HSBC, United Kingdom_
@@ -74,12 +74,6 @@ _Context: Iran, Mehdi Karroubi, Mir-Hossein Mousavi, house arrest, reformist_
 
 ### [2011 Yemeni protests:President Ali Abdullah Saleh offers to form a unity government with the opposition. ](/news/2011/02/28/2011-yemeni-protests-ppresident-ali-abdullah-saleh-offers-to-form-a-unity-government-with-the-opposition.md)
 _Context: 2011 Yemeni protests, Saleh_
-
-### [Iran threatens to boycott the 2012 Summer Olympics ostensibly because its logo spells Zion. ](/news/2011/02/28/iran-threatens-to-boycott-the-2012-summer-olympics-ostensibly-because-its-logo-spells-zion.md)
-_Context: 2012 Summer Olympics, Iran, Zion, logo_
-
-### [US tennis champion Serena Williams is hospitalised in Los Angeles, California with a pulmonary embolism. ](/news/2011/02/28/us-tennis-champion-serena-williams-is-hospitalised-in-los-angeles-california-with-a-pulmonary-embolism.md)
-_Context: California, Los Angeles, Serena Williams, pulmonary embolism, tennis_
 
 ## [Previous Day...](/news/2011/02/27/index.md)
 

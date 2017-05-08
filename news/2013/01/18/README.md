@@ -45,14 +45,5 @@ NASA beamed an image of the Mona Lisa to the LRO spacecraft as part of the first
 ### [NASA's Cassini spacecraft observations show that the craters on Saturn's moon Titan are disappearing. ](/news/2013/01/18/nasaas-cassini-spacecraft-observations-show-that-the-craters-on-saturnas-moon-titan-are-disappearing.md)
 _Context: Cassini spacecraft, NASA, Saturn, Titan_
 
-### [American cyclist Lance Armstrong admits to doping in all of his seven Tour de France victories in his interview given to Oprah Winfrey. ](/news/2013/01/18/american-cyclist-lance-armstrong-admits-to-doping-in-all-of-his-seven-tour-de-france-victories-in-his-interview-given-to-oprah-winfrey.md)
-operate with doping authorities (Adds reaction)
-
-### [In football, the United Arab Emirates wins the 2013 Gulf Cup of Nations defeating Iraq in the final with a 2-1 score after extra time. ](/news/2013/01/18/in-football-the-united-arab-emirates-wins-the-2013-gulf-cup-of-nations-defeating-iraq-in-the-final-with-a-2a1-score-after-extra-time.md)
-_Context: 2013 Gulf Cup of Nations, Iraq, United Arab Emirates, extra time_
-
-### [In NBA, the Phoenix Suns fires coach Alvin Gentry, calling it a mutual agreement, ending his five-year run. ](/news/2013/01/18/in-nba-the-phoenix-suns-fires-coach-alvin-gentry-calling-it-a-mutual-agreement-ending-his-five-year-run.md)
-The Phoenix Suns parted ways with coach Alvin Gentry after the team&#39;s 13-28 start. No interim coach has been names, but the Suns said in a press release one will be name in the next two days.
-
 ## [Previous Day...](/news/2013/01/17/index.md)
 

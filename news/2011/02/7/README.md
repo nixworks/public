@@ -45,14 +45,5 @@ _Context: Southern Sudanese Independence Referendum_
 ### [The government of Haiti issues a new passport to former President of Haiti Jean-Bertrand Aristide allowing him to end his exile in South Africa. ](/news/2011/02/7/the-government-of-haiti-issues-a-new-passport-to-former-president-of-haiti-jean-bertrand-aristide-allowing-him-to-end-his-exile-in-south-afr.md)
 _Context: Government of Haiti, Jean Bertrand-Aristide, President of Haiti, South Africa_
 
-### [The Fox Broadcasting Company coverage of Super Bowl XLV on Sunday breaks the record for most viewed television program in the United States. ](/news/2011/02/7/the-fox-broadcasting-company-coverage-of-super-bowl-xlv-on-sunday-breaks-the-record-for-most-viewed-television-program-in-the-united-states.md)
-AOL has the latest sports news and breaking sporting headlines from the NFL, NBA, MLB, NHL, NASCAR, MLS, World Cup Soccer and more!
-
-### [Spanish tennis player Rafael Nadal is named Laureus World Sportsman of the Year. ](/news/2011/02/7/spanish-tennis-player-rafael-nadal-is-named-laureus-world-sportsman-of-the-year.md)
-The world tennis number one Rafael Nadal has been named world sportsman of the year at the Laureus Sports Awards in Abu Dhabi. The American skier Lindsay Vonn picked up...
-
-### [The Cleveland Cavaliers set a new record for consecutive losses in the National Basketball Association with their 25th straight defeat, a 99-96 loss to the Dallas Mavericks. ](/news/2011/02/7/the-cleveland-cavaliers-set-a-new-record-for-consecutive-losses-in-the-national-basketball-association-with-their-25th-straight-defeat-a-99.md)
-AOL has the latest sports news and breaking sporting headlines from the NFL, NBA, MLB, NHL, NASCAR, MLS, World Cup Soccer and more!
-
 ## [Previous Day...](/news/2011/02/6/index.md)
 

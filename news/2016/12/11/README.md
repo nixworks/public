@@ -76,8 +76,5 @@ _Context: Gambian presidential election, 2016, Yahya Jammeh, the Gambia_
 ### [Mexico's Coronado Islands become a national reserve. ](/news/2016/12/11/mexico-s-coronado-islands-become-a-national-reserve.md)
 Mexico established a new marine biosphere reserve to protect broad areas near the U.S. border.
 
-### [Tokyo breaks ground for the National Olympic Stadium on the site of the stadium used for the 1964 Olympic Games. ](/news/2016/12/11/tokyo-breaks-ground-for-the-national-olympic-stadium-on-the-site-of-the-stadium-used-for-the-1964-olympic-games.md)
-Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
-
 ## [Previous Day...](/news/2016/12/10/index.md)
 

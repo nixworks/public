@@ -60,8 +60,5 @@ _Context: Mahamadou Issoufou, Mamadou Tandja, President of Niger, Prime Minister
 ### [Voters in the German state of Saxony-Anhalt go to the polls for an election with the results indicating that the Christian Democratic Union is likely to remain in power. ](/news/2011/03/20/voters-in-the-german-state-of-saxony-anhalt-go-to-the-polls-for-an-election-with-the-results-indicating-that-the-christian-democratic-union.md)
 Early election returns indicate that Chancellor Angela Merkel’s Christian Democratic Union will remain in power in the eastern state of Saxony-Anhalt.
 
-### [In tennis, Novak Djokovic threatens the world number one by defeating Rafael Nadal in the final of the BNP Paribas Open. ](/news/2011/03/20/in-tennis-novak-djokovic-threatens-the-world-number-one-by-defeating-rafael-nadal-in-the-final-of-the-bnp-paribas-open.md)
-_Context: BNP Paribas Open, Novak Djokovic, Rafael Nadal, tennis, world number one_
-
 ## [Previous Day...](/news/2011/03/19/index.md)
 

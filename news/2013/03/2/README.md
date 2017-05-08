@@ -24,11 +24,5 @@ _Context: California, Lindsay Lohan, judge_
 ### [Hackers hack the popular note-taking application Evernote. The website says that the hackers gained access to user passwords, e-mails, and usernames. ](/news/2013/03/2/hackers-hack-the-popular-note-taking-application-evernote-the-website-says-that-the-hackers-gained-access-to-user-passwords-e-mails-and-u.md)
 The popular multi-platform, note-taking web application Evernote has had its master website hacked — and you must change your password before you can use it.
 
-### [El Clasico: Real Madrid defeat rivals FC Barcelona 2-1 in the 2012-13 La Liga match. Sergio Ramos scores winning goal. ](/news/2013/03/2/el-cla-sico-real-madrid-defeat-rivals-fc-barcelona-2a1-in-the-2012a13-la-liga-match-sergio-ramos-scores-winning-goal.md)
-_Context: 2012-13 La Liga, El Clasico, FC Barcelona, Real Madrid, Sergio Ramos_
-
-### [The 1,000 mile 2013 Iditarod Trail Sled Dog Race begins in Anchorage, Alaska, United States. The winner of the race will get a new truck and $50,400. ](/news/2013/03/2/the-1-000-mile-2013-iditarod-trail-sled-dog-race-begins-in-anchorage-alaska-united-states-the-winner-of-the-race-will-get-a-new-truck-and.md)
-_Context: Alaska, Anchorage, Alaska, Iditarod Trail Sled Dog Race, U.S., truck_
-
 ## [Previous Day...](/news/2013/03/1/index.md)
 

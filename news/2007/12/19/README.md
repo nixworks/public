@@ -1,7 +1,7 @@
 ## [2007-12-19](/news/2007/12/19/index.md)
 
 ### [ An explosion and fire at a T2 Laboratories facility in Jacksonville, Florida, results in four deaths and 14 injuries. ](/news/2007/12/19/an-explosion-and-fire-at-a-t2-laboratories-facility-in-jacksonville-florida-results-in-four-deaths-and-14-injuries.md)
-_Context: FL, Jacksonville, Florida, T2 Laboratories_
+_Context: Florida, Jacksonville, Florida, T2 Laboratories_
 
 ### [ A fire breaks out at the Old Executive Office Building in Washington, D.C., which houses ceremonial offices of Vice President Dick Cheney and the majority of White House staff. No injuries are reported. ](/news/2007/12/19/a-fire-breaks-out-at-the-old-executive-office-building-in-washington-d-c-which-houses-ceremonial-offices-of-vice-president-dick-cheney-a.md)
 _Context: Dick Cheney, Old Executive Office Building, U.S. Vice President, Washington, D.C., White House_

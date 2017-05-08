@@ -16,7 +16,7 @@ _Context: Lahore, Pakistan_
 _Context: Assistant Secretary of State for European and Eurasian Affairs, Dan Fried, Kosovo, U.S. dollar, United States of America_
 
 ### [ India wins cricket's Commonwealth Bank Series in Australia. ](/news/2008/03/4/india-wins-cricket-s-commonwealth-bank-series-in-australia.md)
-_Context: Commonwealth Bank Series, Cricket_
+_Context: Commonwealth Bank Series, cricketer_
 
 ## [Previous Day...](/news/2008/03/3/index.md)
 

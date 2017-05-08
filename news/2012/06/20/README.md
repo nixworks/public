@@ -39,8 +39,5 @@ Authorities gave no new date for the announcement of the winner of the president
 ### [Operation Fast and Furious:The United States House Committee on Oversight and Government Reform cites the Attorney-General Eric Holder for contempt of Congress for failing to cooperate with an investigation into Operation "Fast and Furious". ](/news/2012/06/20/operation-fast-and-furious-pthe-united-states-house-committee-on-oversight-and-government-reform-cites-the-attorney-general-eric-holder-for.md)
 The president asserted executive privilege over documents related to the &ldquo;Fast and Furious&rdquo; operation as a House panel moved forward with plans to hold the attorney general in contempt.
 
-### [UEFA Euro 2012:UEFA Euro 2012's off-day is dominated by the fall-out of yesterday's ghost goal scored by Ukraine against England, with John Terry hooking the ball from behind the goal line after a shot by Marko Devic under the eyes of the additional assistant beside the goal. ](/news/2012/06/20/uefa-euro-2012-puefa-euro-2012-s-off-day-is-dominated-by-the-fall-out-of-yesterday-s-ghost-goal-scored-by-ukraine-against-england-with-john.md)
-Uefa&#039;s chief refereeing officer Pierluigi Collina on Wednesday said that a Ukraine effort ruled out against England in their final Euro 2012 Group D match for not crossing the goal line should have been given.
-
 ## [Previous Day...](/news/2012/06/19/index.md)
 

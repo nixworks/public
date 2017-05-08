@@ -16,10 +16,10 @@ Tropical Storm Fay was downgraded to a tropical depression Saturday night, but c
 _Context: King Air A-100, Moab, Utah, USA_
 
 ### [ The United States Department of Health and Human Services announces plans to implement a rule that would protect healthcare workers from being fired or otherwise penalized for refusing to provide  services they find morally objectionable, such as performing abortions or dispensing contraception. ](/news/2008/08/23/the-united-states-department-of-health-and-human-services-announces-plans-to-implement-a-rule-that-would-protect-healthcare-workers-from-be.md)
-_Context: U.S., U.S. Health and Human Services Department's, abortion, contraception_
+_Context: U.S. Health and Human Services Department's, United States, abortion, contraception_
 
 ### [ U.S. presidential candidate Senator Barack Obama picks Senator Joe Biden as his vice-presidential running mate. ](/news/2008/08/23/u-s-presidential-candidate-senator-barack-obama-picks-senator-joe-biden-as-his-vice-presidential-running-mate.md)
-_Context: 2008, Joe Biden, Obama, running mate, senators_
+_Context: 2008, Joe Biden, Obama, United States senators, running mate_
 
 ## [Previous Day...](/news/2008/08/22/index.md)
 

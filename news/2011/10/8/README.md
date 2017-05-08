@@ -12,11 +12,5 @@ _Context: Ethiopia, South Sudan, Sudan, United Nations High Commissioner for Ref
 ### [Indonesian police arrest four people in connection with the suicide bombing of a mosque in Cirebon, West Java. ](/news/2011/10/8/indonesian-police-arrest-four-people-in-connection-with-the-suicide-bombing-of-a-mosque-in-cirebon-west-java.md)
 _Context: Cirebon, Indonesian police, West Java, mosque, suicide bombing_
 
-### [In horse racing, the Australian mare Black Caviar ties the record set by Phar Lap for consecutive victories,with an unbeaten run of 14 wins. ](/news/2011/10/8/in-horse-racing-the-australian-mare-black-caviar-ties-the-record-set-by-phar-lap-for-consecutive-victories-with-an-unbeaten-run-of-14-wins.md)
-_Context: Australian, Black Caviar, Phar Lap, horse racing_
-
-### [In rugby league, Leeds Rhinos win the European Super League Grand Final at Old Trafford by defeating St Helens 32-16. ](/news/2011/10/8/in-rugby-league-leeds-rhinos-win-the-european-super-league-grand-final-at-old-trafford-by-defeating-st-helens-32-16.md)
-_Context: European Super League Grand Final, Leeds Rhinos, Old Trafford, St Helens, rugby league_
-
 ## [Previous Day...](/news/2011/10/7/index.md)
 

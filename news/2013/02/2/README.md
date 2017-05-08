@@ -27,20 +27,5 @@ Chris Kyle, a former Navy SEAL, had taken a troubled fellow veteran to a gun ran
 ### [Iran unveils a new Qaher-313 combat jet which is said can evade radar detection. ](/news/2013/02/2/iran-unveils-a-new-qaher-313-combat-jet-which-is-said-can-evade-radar-detection.md)
 _Context: Iran, Qaher-313, fighter aircraft, stealthy planes_
 
-### [2013 Africa Cup of Nations:Ghana eliminates Cape Verde to reach the semi-finals of the 2013 Africa Cup of Nations. ](/news/2013/02/2/2013-africa-cup-of-nations-pghana-eliminates-cape-verde-to-reach-the-semi-finals-of-the-2013-africa-cup-of-nations.md)
-Ghana reach the semi-finals of the Africa Cup of Nations after Mubarak Wakaso scored a penalty and a breakaway goal.
-
-### [In other association football news:Ukrainian club Shakhtar Donetsk wins the 2013 Copa del Sol by defeating Poland's Widzew Lodz in the final. ](/news/2013/02/2/in-other-association-football-news-pukrainian-club-shakhtar-donetsk-wins-the-2013-copa-del-sol-by-defeating-poland-s-widzew-aa3dao-in-the-f.md)
-Moussa Sissoko crowns a superb home debut by scoring twice as Newcastle come back to beat Chelsea in a thrilling game.
-
-### [In Gaelic football, the 2013 National Football League gets underway, with wins for Kildare, Dublin, Tyrone and Laois on the opening night of action. ](/news/2013/02/2/in-gaelic-football-the-2013-national-football-league-gets-underway-with-wins-for-kildare-dublin-tyrone-and-laois-on-the-opening-night-of.md)
-Donegal returned to the scene of last September&#8217;s glory this evening. Standing in their way was Kieran McGeeney&#8217;s Kildare team. Here&#8217;s how it all unfolded.
-
-### [In rugby union, titleholders Wales are defeated by Ireland on their own ground as the 2013 Six Nations Championship gets underway in Cardiff. ](/news/2013/02/2/in-rugby-union-titleholders-wales-are-defeated-by-ireland-on-their-own-ground-as-the-2013-six-nations-championship-gets-underway-in-cardiff.md)
-Ireland hold off a stirring second-half Wales revival to launch their Six Nations campaign with a thrilling victory in Cardiff.
-
-### [In tennis, the Czech Republic's Tomas Berdych and Lukas Rosol defeat Switzerland's Stanislas Wawrinka and Marco Chiudinelli in the longest match in Davis Cup history, with a time of 7 hours and 2 minutes. ](/news/2013/02/2/in-tennis-the-czech-republic-s-toma-a-berdych-and-luka-a-rosol-defeat-switzerland-s-stanislas-wawrinka-and-marco-chiudinelli-in-the-longe.md)
-Czech Republic and Switzerland played the longest ever Davis Cup match when their doubles rubber lasted more than seven hours before the visitors won 6-4 5-7 6-4 6-7 24-22 on Saturday.
-
 ## [Previous Day...](/news/2013/02/1/index.md)
 

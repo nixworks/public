@@ -30,8 +30,5 @@ Sandra Ávila Beltrán, the first woman to be charged as the leader of an intern
 ### [Two journalists are arrested for posing for photographs holding teddy bears in a pro-democracy stunt in Belarus. ](/news/2012/08/9/two-journalists-are-arrested-for-posing-for-photographs-holding-teddy-bears-in-a-pro-democracy-stunt-in-belarus.md)
 _Context: Belarus_
 
-### [2012 Summer Olympics:Ireland's Katie Taylor wins gold by defeating Russia's Sofya Ochigava in the women's boxing event at ExCeL London. ](/news/2012/08/9/2012-summer-olympics-pireland-s-katie-taylor-wins-gold-by-defeating-russia-s-sofya-ochigava-in-the-women-s-boxing-event-at-excel-london.md)
-Ireland&#39;s Katie Taylor completed a lifetime dream by winning an Olympic gold medal when she beat Russia&#39;s Sofya Ochigava 10-8 in the women&#39;s lightweight final at the ExCel Arena.
-
 ## [Previous Day...](/news/2012/08/8/index.md)
 

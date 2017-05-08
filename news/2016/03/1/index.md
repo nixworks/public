@@ -4,7 +4,7 @@
 _Context: Luhansk Oblast, Ukrainian military, War in Donbass_
 
 ### [The United States Army's elite Delta Force captures their first suspected ISIL operative during a raid in northern Iraq. The detainee is being interrogated by the U.S. and is expected to be turned over to Iraqi officials in the coming days. ](/news/2016/03/1/the-united-states-army-s-elite-delta-force-captures-their-first-suspected-isil-operative-during-a-raid-in-northern-iraq-the-detainee-is-bei.md)
-_Context: Delta Force, ISIL, Iraq, Iraqi Civil War (2014-present), U.S., U.S. airstrikes, United States Army_
+_Context: Delta Force, ISIL, Iraq, Iraqi Civil War (2014-present), U.S. airstrikes, United States, United States Army_
 
 ### [Faulty readings from a  GPS system apparently resulted in two Israeli soldiers driving into the Qalandiya refugee camp in the occupied West Bank. Israeli forces sent in on a rescue mission, engaged armed Palestinians. One 22-year-old Palestinian man was killed with 10 others wounded, one seriously, in the ensuing gun battle.  At least 10 Israeli soldiers were wounded. ](/news/2016/03/1/faulty-readings-from-a-gps-system-apparently-resulted-in-two-israeli-soldiers-driving-into-the-qalandiya-refugee-camp-in-the-occupied-west.md)
 Two Israeli troops were following directions from the Waze app when they drove into Qalandiya refugee camp
@@ -19,7 +19,7 @@ The authorities in Peru are sending the military to help areas affected by flood
 Dozens of residents in western New York town were evacuated from their homes early on Wednesday after a train carrying hazardous liquid derailed, local officials said.
 
 ### [The first Zika virus case is confirmed in the U.S. state of New Hampshire. ](/news/2016/03/1/the-first-zika-virus-case-is-confirmed-in-the-u-s-state-of-new-hampshire.md)
-_Context: New Hampshire, U.S., Zika virus, Zika virus outbreak (2015-present)_
+_Context: New Hampshire, United States, Zika virus, Zika virus outbreak (2015-present)_
 
 ### [The United Nations Security Council vote on the United States-China draft resolution on North Korea is rescheduled to 10:00 a.m. EST Wednesday.   Russia requests more time to review the text. ](/news/2016/03/1/the-united-nations-security-council-vote-on-the-united-states-china-draft-resolution-on-north-korea-is-rescheduled-to-10-00-a-m-est-wednesd.md)
 A U.N. Security Council vote on a resolution to dramatically expand sanctions on North Korea after its recent nuclear test and satellite launch has been delayed to Wednesday after Russia negotiated changes in the U.S.-Chinese drafted text.
@@ -59,9 +59,6 @@ US astronaut Scott Kelly and Russian cosmonaut Mikhail Kornienko touch down safe
 
 ### [The Association for Computing Machinery awards the 2015 A.M. Turing Award to  Whitfield Diffie and Martin Hellman  for the invention of public-key cryptography and digital signatures which revolutionized computer security. ](/news/2016/03/1/the-association-for-computing-machinery-awards-the-2015-a-m-turing-award-to-whitfield-diffie-and-martin-hellman-for-the-invention-of-publ.md)
 _Context: 2016 A.M. Turing Award, Association for Computing Machinery, Computer security, Martin Hellman, Whitfield Diffie, digital signature, public-key cryptography_
-
-### [MLB announces the Tampa Bay Rays professional baseball team will play an exhibition game with the Cuban National Team on March 22, 2016, in Havana. United States President Barack Obama, who is scheduled to visit the island nation then, is expected to attend. ](/news/2016/03/1/mlb-announces-the-tampa-bay-rays-professional-baseball-team-will-play-an-exhibition-game-with-the-cuban-national-team-on-march-22-2016-in.md)
-U.S. President Barack Obama is expected to be in attendance as the Rays travel to Cuba to play the Cuban National Team in March.
 
 ## [Previous Day...](/news/2016/02/29/index.md)
 

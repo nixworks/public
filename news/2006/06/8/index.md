@@ -25,7 +25,7 @@ _Context: Abdullah Ahmad Badawi, Mahathir Mohamad, Malaysian Prime Minister_
 _Context: U.S. House of Representatives, net neutrality_
 
 ### [ In Game 1 of the NBA Finals (Dallas Mavericks vs. Miami Heat) the Mavs beat Miami 90-80.](/news/2006/06/8/in-game-1-of-the-nba-finals-dallas-mavericks-vs-miami-heat-the-mavs-beat-miami-90-80.md)
-_Context: Dallas Mavericks, Miami Heat, NBA titles_
+_Context: Dallas Mavericks, Miami Heat, NBA Finals_
 
 ## [Previous Day...](/news/2006/06/7/index.md)
 

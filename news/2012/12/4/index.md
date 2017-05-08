@@ -7,7 +7,7 @@ As shelling in the Damascus suburbs worsened, the United Nations warned that it 
 _Context: Belfast City Council, Belfast City Hall, Belfast City Hall flag protests, Northern Ireland, Union Flag_
 
 ### [In a setback to the movement toward banking union in the EU, Germany's finance minister Wolfgang Schauble says he will not allow a unitary system of supervision without changes in the underlying treaties. [http://www.ft.com/intl/cms/s/0/ae18eb32-3e03-11e2-93cb-00144feabdc0.html#axzz2E7D09ala (Financial Times)]. ](/news/2012/12/4/in-a-setback-to-the-movement-toward-banking-union-in-the-eu-germany-s-finance-minister-wolfgang-scha-uble-says-he-will-not-allow-a-unitary.md)
-_Context: European Union, Germany, Wolfgang Schauble, finance minister_
+_Context: European Union, German, Wolfgang Schauble, finance minister_
 
 ### [Typhoon Bopha makes landfall on the Philippines island of Mindanao with reports of floods and landslides. Authorities confirm at least 81 deaths amid widespread property damage. ](/news/2012/12/4/typhoon-bopha-makes-landfall-on-the-philippines-island-of-mindanao-with-reports-of-floods-and-landslides-authorities-confirm-at-least-81-de.md)
 Typhoon Bopha has killed at least 52 people in the Philippines.
@@ -22,7 +22,7 @@ _Context: Chengdu J-7, China, Guangdong province, Shantou, fighter jet_
 As shelling in the Damascus suburbs worsened, the United Nations warned that it was getting harder to get food to displaced Syrians.
 
 ### [The International Olympic Committee suspends India's national Olympic committee because of government interference in its election process. India's athletes will be barred from competing in Olympic events under their national flag, although the IOC could allow them to do so under the Olympic flag. ](/news/2012/12/4/the-international-olympic-committee-suspends-india-s-national-olympic-committee-because-of-government-interference-in-its-election-process.md)
-_Context: Government of India, IOC, India, Indian Olympic Association, International Olympic Committee, Olympic events, Olympic flag, national flag_
+_Context: Government of India, IOC, India, International Olympic Committee, Olympic events, Olympic flag, national Olympic committee, national flag_
 
 ### [Japanese police raid the headquarters of the Central Nippon Expressway Company, which operates the Sasago Tunnel that had collapsed over the weekend. ](/news/2012/12/4/japanese-police-raid-the-headquarters-of-the-central-nippon-expressway-company-which-operates-the-sasago-tunnel-that-had-collapsed-over-the.md)
 Tokyo police are also inspecting the tunnel where hundreds of falling concrete ceiling slabs killed nine people
@@ -31,28 +31,13 @@ Tokyo police are also inspecting the tunnel where hundreds of falling concrete c
 All Commonwealth realms agree to a bill to change royal succession rules which discriminated against women, as a pregnant Duchess of Cambridge remains in hospital with severe morning sickness.
 
 ### [The United States Senate fails to ratify the United Nations Convention on the Rights of Persons with Disabilities, with the motion failing to win the two-thirds majority. ](/news/2012/12/4/the-united-states-senate-fails-to-ratify-the-united-nations-convention-on-the-rights-of-persons-with-disabilities-with-the-motion-failing-t.md)
-_Context: Convention on the Rights of Persons with Disabilities, United Nations, senators_
+_Context: Convention on the Rights of Persons with Disabilities, United Nations, United States senators_
 
 ### [One hundred thousand people protest outside the President of Egypt's palace over proposed constitutional changes. ](/news/2012/12/4/one-hundred-thousand-people-protest-outside-the-president-of-egypt-s-palace-over-proposed-constitutional-changes.md)
 _Context: Draft constitution, Egyptian President_
 
 ### [NASA announces new plans to launch another Curiosity-like robotic science rover to Mars in 2020. ](/news/2012/12/4/nasa-announces-new-plans-to-launch-another-curiosity-like-robotic-science-rover-to-mars-in-2020.md)
 NASA plans to send another robotic explorer to the Red Planet in 2020, building on the success of the Curiosity rover.
-
-### [Former Colombian goalkeeper from C.F. Pachuca, Miguel Calero, dies after suffering from cerebral thrombosis. ](/news/2012/12/4/former-colombian-goalkeeper-from-c-f-pachuca-miguel-calero-dies-after-suffering-from-cerebral-thrombosis.md)
-MEXICO CITY (Reuters) - Former Colombia goalkeeper Miguel Calero died at the age of 41 on Tuesday, one week after being taken to hospital suffering from cerebral thrombosis, his ex-club Pachuca...
-
-### [Polish boxer Mariusz Wach has failed a doping test after losing a world heavyweight title fight against Ukrainian Vladimir Klitschko on 10 November. Should the results of the B sample come back positive, he faces a one-year suspension. ](/news/2012/12/4/polish-boxer-mariusz-wach-has-failed-a-doping-test-after-losing-a-world-heavyweight-title-fight-against-ukrainian-vladimir-klitschko-on-10-n.md)
-_Context: Mariusz Wach, Poland, Ukrainian, Vladimir Klitschko, boxing, champion, doping test_
-
-### [Norwegian rally driver Petter Solberg, 2003 World Champion, announces his retirement from World Rally Championship. ](/news/2012/12/4/norwegian-rally-driver-petter-solberg-2003-world-champion-announces-his-retirement-from-world-rally-championship.md)
-_Context: 2003, Norway, Petter Solberg, WRC, World Champion, rally driver_
-
-### [The 2012 European Women's Handball Championship begins today in Serbia with 16 participating teams split into four groups. ](/news/2012/12/4/the-2012-european-women-s-handball-championship-begins-today-in-serbia-with-16-participating-teams-split-into-four-groups.md)
-_Context: 2012 European Women's Handball Championship, Serbia_
-
-### [The second tournament of the FIDE Grand Prix 2012-2013 is ended in Tashkent, Uzbekistan, with a 3-way tie for first place between Sergey Karjakin, Wang Hao and Alexander Morozevich. ](/news/2012/12/4/the-second-tournament-of-the-fide-grand-prix-2012a2013-is-ended-in-tashkent-uzbekistan-with-a-3-way-tie-for-first-place-between-sergey-k.md)
-The 2012 FIDE Tashkent Grand Prix has ended with a 3-way tie for first place between Sergey Karjakin, Wang Hao and Alexander Morozevich on a score of 6½/11. Alexander Morozevich and Shakhriyar Mamedyarov...
 
 ## [Previous Day...](/news/2012/12/3/index.md)
 

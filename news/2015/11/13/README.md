@@ -40,7 +40,7 @@ _Context: China, Zhejiang_
 A prominent Burundi opposition politician urged the United Nations on Friday to send peacekeepers quickly to help deal with rising violence, after the Security Council discussed ways to boost its presence there.
 
 ### [German Chancellor Angela Merkel asserts she still isn't prepared to name an upper limit to the number of refugees who can come to Germany, despite mounting domestic political pressure. ](/news/2015/11/13/german-chancellor-angela-merkel-asserts-she-still-isn-t-prepared-to-name-an-upper-limit-to-the-number-of-refugees-who-can-come-to-germany-d.md)
-_Context: Angela Merkel, European migrant crisis, German Chancellor, Germany_
+_Context: Angela Merkel, European migrant crisis, German, German Chancellor_
 
 ### [U.S. Secretary of State John Kerry meets in Vienna, Austria,  with the foreign ministers of Turkey and Saudi Arabia, as well as the U.N. special envoy for Syria, ahead of Saturday's next round of international summits on the Syrian Civil War. The talks, aimed toward a cease-fire in Syria's devastating war and a  political transition to a post-war government, will include senior officials from 19 nations/groups  and, as in October, Iran will participate. ](/news/2015/11/13/u-s-secretary-of-state-john-kerry-meets-in-vienna-austria-with-the-foreign-ministers-of-turkey-and-saudi-arabia-as-well-as-the-u-n-spe.md)
 _Context: Austria, Iran, John Kerry, Saudi Arabia, Syria, Syrian Civil War peace process, Turkey, United Nations, United States Secretary of State, Vienna_
@@ -59,12 +59,6 @@ Colombia said on Friday it plans to legalize medical marijuana in a further shif
 
 ### [WT1190F, an artificial satellite orbiting the Earth since before June 2009, impacts the Earth south of Sri Lanka. ](/news/2015/11/13/wt1190f-an-artificial-satellite-orbiting-the-earth-since-before-june-2009-impacts-the-earth-south-of-sri-lanka.md)
 A hunk of space junk is expected to fall to Earth in a spectacular light show near Sri Lanka early this Friday the 13th. The prediction has prompted the Sri Lankan government to impose a temporary no-fly zone and a fishing ban as a precaution.
-
-### [The International Association of Athletics Federations votes overwhelmingly to ban Russian athletes and the All-Russia Athletic Federation from international competitions following overwhelming evidence of widespread state sponsored doping in a World Anti-Doping Agency report. ](/news/2015/11/13/the-international-association-of-athletics-federations-votes-overwhelmingly-to-ban-russian-athletes-and-the-all-russia-athletic-federation-f.md)
-The move follows a breathtaking independent report this week which uncovered systematic state-sponsored doping. 
-
-### [Yelena Isinbayeva, a former Russian Olympic pole-vaulting champion calls on the IAAF not to punish honest athletes in response to doping allegations against Russia. ](/news/2015/11/13/yelena-isinbayeva-a-former-russian-olympic-pole-vaulting-champion-calls-on-the-iaaf-not-to-punish-honest-athletes-in-response-to-doping-all.md)
-Yelena Isinbayeva, a former Russian Olympic pole-vaulting champion, on Friday called on the International Association of Athletics Federations (IAAF) not to punish honest athletes in response to doping allegations against Russia.
 
 ## [Previous Day...](/news/2015/11/12/index.md)
 

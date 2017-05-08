@@ -36,11 +36,5 @@ UNITED NATIONS (AP) — U.S. and European diplomats welcomed a &quot;significant
 ### [French police arrest six people in Paris over their suspected involvement in an attempt to steal 1.6 million euros worth of gold bars from an Air France plane on September 19. ](/news/2013/09/27/french-police-arrest-six-people-in-paris-over-their-suspected-involvement-in-an-attempt-to-steal-1-6-million-euros-worth-of-gold-bars-from-a.md)
 _Context: Air France, French police, Paris, gold bar_
 
-### [In golf, Tiger Woods is named as the PGA Tour's Player of the Year for a record 11th time. ](/news/2013/09/27/in-golf-tiger-woods-is-named-as-the-pga-tour-s-player-of-the-year-for-a-record-11th-time.md)
-_Context: PGA Tour, Player of the Year, Tiger Woods_
-
-### [In swimming, retired Paralympic swimmer Natalie du Toit is awarded an honorary MBE (Member of the Most Excellent Order of the British Empire) ](/news/2013/09/27/in-swimming-retired-paralympic-swimmer-natalie-du-toit-is-awarded-an-honorary-mbe-member-of-the-most-excellent-order-of-the-british-empire.md)
-Retired Paralympic swimmer Natalie du Toit has been awarded an honorary MBE (Member of the Most Excellent Order of the British Empire), the British High Commission says.
-
 ## [Previous Day...](/news/2013/09/26/index.md)
 

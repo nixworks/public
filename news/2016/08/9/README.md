@@ -30,8 +30,5 @@ Julian Assange seemed to suggest Seth Rich was the source of DNC email leak.
 ### [A study conducted at the Royal Melbourne Institute of Technology shows a positive correlation with playing online video games and higher test scores in math, science and reading while a negative correlation with social media use. ](/news/2016/08/9/a-study-conducted-at-the-royal-melbourne-institute-of-technology-shows-a-positive-correlation-with-playing-online-video-games-and-higher-tes.md)
 _Context: Royal Melbourne Institute of Technology, social media, video games_
 
-### [French swimmer Camille Lacourt accuses Chinese swimmer Sun Yang of doping, saying "he pisses purple", while American swimmer Michael Phelps says "something needs to be done" to prevent doping from infiltrating swimming. ](/news/2016/08/9/french-swimmer-camille-lacourt-accuses-chinese-swimmer-sun-yang-of-doping-saying-he-pisses-purple-while-american-swimmer-michael-phelps.md)
-Camille Lacourt wades into the Olympic doping controversy, casting further doubt on the new 200m freestyle champion.
-
 ## [Previous Day...](/news/2016/08/8/index.md)
 

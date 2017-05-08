@@ -69,11 +69,5 @@ Emergency legislation designed to reverse a controversial judgement on police ba
 ### [Experts declare that drugs used during ''in vitro fertilisation'' for older women may increase the risk of Down syndrome for their baby. ](/news/2011/07/4/experts-declare-that-drugs-used-during-in-vitro-fertilisation-for-older-women-may-increase-the-risk-of-down-syndrome-for-their-baby.md)
 _Context: Down syndrome, in vitro fertilization_
 
-### [In tennis, Novak Djokovic returns home to Serbia and is welcomed by tens of thousands of people in Belgrade, one day after winning Wimbledon by defeating Rafael Nadal. ](/news/2011/07/4/in-tennis-novak-djokovic-returns-home-to-serbia-and-is-welcomed-by-tens-of-thousands-of-people-in-belgrade-one-day-after-winning-wimbledon.md)
-Tennis champion Novak Djokovic receives a rapturous welcome in his native Serbia, a day after winning the Wimbledon title for the first time.
-
-### [In American football, retired National Football League players take legal action against current players and team owners in efforts to preserve current pension entitlements. ](/news/2011/07/4/in-american-football-retired-national-football-league-players-take-legal-action-against-current-players-and-team-owners-in-efforts-to-prese.md)
-A class-action lawsuit says the current players and the N.F.L. are shutting retired players out of negotiations to end a lockout and agree to a labor deal.
-
 ## [Previous Day...](/news/2011/07/3/index.md)
 

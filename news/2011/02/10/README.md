@@ -51,11 +51,5 @@ The Commons overwhelmingly votes to keep the ban on prisoners voting, in defianc
 ### [Former British Labour MP Eric Illsley is jailed for 12 months for dishonestly claiming parliamentary expenses. The sentence comes on the same day that Jim Devine, another former Labour MP, is convicted of dishonestly claiming PS8,385 of expenses by using false invoices for cleaning and printing work. ](/news/2011/02/10/former-british-labour-mp-eric-illsley-is-jailed-for-12-months-for-dishonestly-claiming-parliamentary-expenses-the-sentence-comes-on-the-sam.md)
 Former Labour MP Eric Illsley is sentenced to a year in jail for dishonestly claiming parliamentary expenses.
 
-### [Utah Jazz head coach Jerry Sloan, the longest-tenured coach in any of North America's four major leagues, announces his resignation effective immediately. Sloan, inducted in the Basketball Hall of Fame in 2009, had been with the Jazz since 1988. ](/news/2011/02/10/utah-jazz-head-coach-jerry-sloan-the-longest-tenured-coach-in-any-of-north-america-s-four-major-leagues-announces-his-resignation-effectiv.md)
-Jerry Sloan resigned as head coach of the Utah Jazz at a news conference Thursday.
-
-### [Ray Allen scores his 2,561st 3-point shot, passing Reggie Miller for the all-time NBA record for 3-point field goals made.](/news/2011/02/10/ray-allen-scores-his-2-561st-3-point-shot-passing-reggie-miller-for-the-all-time-nba-record-for-3-point-field-goals-made.md)
-_Context: Ray Allen, Reggie Miller_
-
 ## [Previous Day...](/news/2011/02/9/index.md)
 

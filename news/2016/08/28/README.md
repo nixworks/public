@@ -36,8 +36,5 @@ _Context: Ali Bongo Ondimba, Foreign Minister, Gabonese presidential election, 2
 ### [The Indian Space agency ISRO successfully tests its Scramjet engines. Two scramjet engines were mounted alongside of a two-stage, solid fueled rocket called Advanced Technology Vehicle (ATV), which is an advanced sounding rocket. Scramjet engines were then ignited when ATV achieved a speed of Mach 6 (7350 km/hr) at an altitude of 20 km. ](/news/2016/08/28/the-indian-space-agency-isro-successfully-tests-its-scramjet-engines-two-scramjet-engines-were-mounted-alongside-of-a-two-stage-solid-fuel.md)
 The test-flight of the indigenously-developed supersonic combustion ramjet engine took place from the Satish Dhawan Space Centre in Sriharikota at 6 a.m.
 
-### [Anita Wlodarczyk of Poland breaks her own hammer throw world record, set earlier this month at the Rio Olympics, by close to 3/4 meter, with a throw of 82.98 meters at the Kamila Skolimowska Memorial in Warsaw. ](/news/2016/08/28/anita-waodarczyk-of-poland-breaks-her-own-hammer-throw-world-record-set-earlier-this-month-at-the-rio-olympics-by-close-to-a3-4-meter-with.md)
-WARSAW (AP) — World and Olympic champion Anita Wlodarczyk of Poland broke her own hammer world record with a throw of 82.98 meters on Sunday. Wlodarczyk set the previous world record of 82.29 meters to claim the Olympic…
-
 ## [Previous Day...](/news/2016/08/27/index.md)
 

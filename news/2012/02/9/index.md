@@ -24,11 +24,5 @@ _Context: Hu Jintao, Li Keqiang, Stephen Harper, Wen Jiabao_
 ### [Spain's best-known judge Baltasar Garzon, who helped arrest Chilean dictator Augusto Pinochet and was charged with attempting to investigate Franco-era crimes against humanity, is banned from the legal profession for 11 years, without appeal, for illegal wire-tapping. ](/news/2012/02/9/spain-s-best-known-judge-baltasar-garza3n-who-helped-arrest-chilean-dictator-augusto-pinochet-and-was-charged-with-attempting-to-investigat.md)
 Judge found guilty of ordering illegal recordings in corruption case and suspended from bench for 11 years.
 
-### [Analyst Roland S. Martin is suspended from CNN over numerous offensive comments he made about gay men on Twitter during the broadcast of Super Bowl XLVI. ](/news/2012/02/9/analyst-roland-s-martin-is-suspended-from-cnn-over-numerous-offensive-comments-he-made-about-gay-men-on-twitter-during-the-broadcast-of-sup.md)
-_Context: CNN, Roland S. Martin, Super Bowl XLVI, Twitter, gay_
-
-### [In football, UEFA suspends Czech defender David Bystron of Viktoria Plzen for two years for testing positive for a banned substance after a Champions League match against Belarus side BATE Borisov. ](/news/2012/02/9/in-football-uefa-suspends-czech-defender-david-bystroa-of-viktoria-plzea-for-two-years-for-testing-positive-for-a-banned-substance-after.md)
-_Context: BATE Borisov, Belarus, Czech, David Bystron, UEFA, UEFA Champions League, Viktoria Plzen, association football_
-
 ## [Previous Day...](/news/2012/02/8/index.md)
 

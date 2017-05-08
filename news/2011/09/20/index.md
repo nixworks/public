@@ -13,7 +13,7 @@ Gunmen in Baluchistan Province attacked a bus carrying Shiite pilgrims to Iran, 
 A bombing attack in central Ankara on Tuesday killed three people and wounded at least 34 in the first deadly bombing in Turkey’s capital in more than four years.
 
 ### [''Gears of War 3'', the final game in the acclaimed ''Gears of War'' video game franchise, goes on sale, with 20,000 game stores around the world opening at midnight for its release. ](/news/2011/09/20/gears-of-war-3-the-final-game-in-the-acclaimed-gears-of-war-video-game-franchise-goes-on-sale-with-20-000-game-stores-around-the.md)
-_Context: Gears of War, Gears of War 3, video_
+_Context: Gears of War, Gears of War 3, video game_
 
 ### [Qantas flights throughout Australia are disrupted by a four-hour strike by airport ground staff and baggage handlers. ](/news/2011/09/20/qantas-flights-throughout-australia-are-disrupted-by-a-four-hour-strike-by-airport-ground-staff-and-baggage-handlers.md)
 _Context: Australia, Qantas_
@@ -22,7 +22,7 @@ _Context: Australia, Qantas_
 _Context: International Monetary Fund, double-dip recession_
 
 ### [The world's 8th-largest search engine, Yandex, expands into Turkey, marking its first venture outside the Commonwealth of Independent States. ](/news/2011/09/20/the-world-s-8th-largest-search-engine-yandex-expands-into-turkey-marking-its-first-venture-outside-the-commonwealth-of-independent-states.md)
-_Context: CIS, Turkey, Yandex, search engine_
+_Context: Commonwealth of Independent States, Turkey, Yandex, search engine_
 
 ### [Wadah Khanfar steps down as the head of the Al Jazeera news network, and is replaced by Sheikh Ahmad bin Jassim bin Mohammad Al Thani, a member of the Qatari royal family. ](/news/2011/09/20/wadah-khanfar-steps-down-as-the-head-of-the-al-jazeera-news-network-and-is-replaced-by-sheikh-ahmad-bin-jassim-bin-mohammad-al-thani-a-mem.md)
 WADAH KHANFAR, seated behind a vast desk and surrounded by TV screens, deep leather sofas and a wall of global media awards, &hellip;

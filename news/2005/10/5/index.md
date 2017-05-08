@@ -4,7 +4,7 @@
 A contract dispute between Level 3 and Cogent leaves some customers cut off from parts of the Net.
 
 ### [ England international football player Wayne Rooney is named as ](/news/2005/10/5/england-international-football-player-wayne-rooney-is-named-as.md)
-_Context: England national football team, Wayne Rooney, footballer_
+_Context: England, Wayne Rooney, footballer_
 
 ### [ Uganda-born John Sentamu is formally confirmed in office as the Archbishop of York, the second-highest post in the Church of England. ](/news/2005/10/5/uganda-born-john-sentamu-is-formally-confirmed-in-office-as-the-archbishop-of-york-the-second-highest-post-in-the-church-of-england.md)
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
@@ -31,10 +31,10 @@ _Context: British government, British military personnel, Conflict in Iraq, Iran
 At least 66 people have died as Hurricane Stan sweeps across Mexico and Central America
 
 ### [ Braving the threat of a veto from United States President George W. Bush, U.S. Senate Republicans joined Democrats, voting ](/news/2005/10/5/braving-the-threat-of-a-veto-from-united-states-president-george-w-bush-u-s-senate-republicans-joined-democrats-voting.md)
-_Context: D, George W. Bush, R, U.S., senators, veto_
+_Context: D, George W. Bush, R, United States, United States senators, veto_
 
 ### [ The National Hockey League returns after a year-long lockout.  Opening night featured all 30 teams in action, including Sidney Crosby's debut against the New Jersey Devils and Alexander Ovechkin's debut against the Columbus Blue Jackets where he scored 2 goals.](/news/2005/10/5/the-national-hockey-league-returns-after-a-year-long-lockout-opening-night-featured-all-30-teams-in-action-including-sidney-crosby-s-deb.md)
-_Context: Alexander Ovechkin, Columbus Blue Jackets, NHL, New Jersey Devils, Sidney Crosby_
+_Context: Alexander Ovechkin, Columbus Blue Jackets, National Hockey League, New Jersey Devils, Sidney Crosby_
 
 ## [Previous Day...](/news/2005/10/4/index.md)
 

@@ -19,7 +19,7 @@ The so-called Sand Fire north of Los Angeles was at 11,000 acres at noon Saturda
 A volcanic eruption has killed 7 in Indonesia.
 
 ### [The leader of the Australian delegation says the country's athletes would not be checking in at the athletes' village  because it's unsafe for human habitation. Australian athletes have been staying at nearby Rio de Janeiro hotels. ](/news/2016/07/24/the-leader-of-the-australian-delegation-says-the-country-s-athletes-would-not-be-checking-in-at-the-athletes-village-because-it-s-unsafe-f.md)
-_Context: 2016 Summer Olympics, Australia, Rio de Janeiro, athletes' village_
+_Context: Australia, Olympics, Rio de Janeiro, athletes' village_
 
 ### [''Philippines v. China''Cambodia continues to block consensus in the Association of Southeast Asian Nations meeting. The country has political and economical dependencies with China. ](/news/2016/07/24/philippines-v-china-pcambodia-continues-to-block-consensus-in-the-association-of-southeast-asian-nations-meeting-the-country-has-politi.md)
 South East Asian nations have released a watered-down statement on the South China Sea that avoids mention of a recent court ruling against Chinese claims.
@@ -35,9 +35,6 @@ _Context: Khadga Prasad Oli, Prime Minister, parliament_
 
 ### [In an unusual show of unity, tens of thousands of supporters of Turkey's ruling party and the country's main opposition parties hold a cross-party "Republic and Democracy" rally in support of democracy in Istanbul's central Taksim Square. ](/news/2016/07/24/in-an-unusual-show-of-unity-tens-of-thousands-of-supporters-of-turkey-s-ruling-party-and-the-country-s-main-opposition-parties-hold-a-cross.md)
 _Context: CHP, Istanbul, Taksim Square, Turkey, last year's coup attempt, ruling party_
-
-### [The International Olympic Committee states it considers all Russian athletes tainted by the country's state-run doping scheme but individual athletes can compete in 2016 Games if they are able to convince individual sports federations of their innocence. A daunting task for these organizations to handle hundreds of appeals just 12 days before the start of the Rio Games on 5 August. ](/news/2016/07/24/the-international-olympic-committee-states-it-considers-all-russian-athletes-tainted-by-the-countryas-state-run-doping-scheme-but-individu.md)
-The IOC is leaving it up to global federations to decide which Russian athletes to accept in their sports.
 
 ## [Previous Day...](/news/2016/07/23/index.md)
 

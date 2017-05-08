@@ -42,8 +42,5 @@ _Context: 2011 Yemeni uprising, Saleh, Yemen, Yemeni President_
 ### [The party of Democratic Republic of the Congo politician tienne Tshisekedi says he has been placed under house arrest in Kinshasa since he claimed to have won the presidential election earlier this year. ](/news/2011/12/30/the-party-of-democratic-republic-of-the-congo-politician-etienne-tshisekedi-says-he-has-been-placed-under-house-arrest-in-kinshasa-since-he.md)
 _Context: Democratic Republic of the Congo, Kinshasa, presidential election, tienne Tshisekedi_
 
-### [In yachting, the New South Wales boat ''Loki'' is declared the overall winner of the 2011 Sydney to Hobart Yacht Race. ](/news/2011/12/30/in-yachting-the-new-south-wales-boat-loki-is-declared-the-overall-winner-of-the-2011-sydney-to-hobart-yacht-race.md)
-_Context: 2011 Sydney to Hobart Yacht Race, New South Wales, yachting_
-
 ## [Previous Day...](/news/2011/12/29/index.md)
 

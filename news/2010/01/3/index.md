@@ -40,7 +40,7 @@ Remains of the first plane taken to Antarctica, in 1912, have been found by Aust
 Burst oil pipeline dumps thousands of litres of diesel into major tributary.
 
 ### [The United States and United Kingdom close their embassies in Yemen, citing threats from Al-Qaeda. ](/news/2010/01/3/the-united-states-and-united-kingdom-close-their-embassies-in-yemen-citing-threats-from-al-qaeda.md)
-_Context: U.S., United Kingdom, Yemen, al-Qaeda_
+_Context: United Kingdom, United States, Yemen, al-Qaeda_
 
 ### [The Supreme Court of Peru upholds a 25 year prison sentence for former President Alberto Fujimori, convicted of mass human rights violations. ](/news/2010/01/3/the-supreme-court-of-peru-upholds-a-25-year-prison-sentence-for-former-president-alberto-fujimori-convicted-of-mass-human-rights-violations.md)
 _Context: Alberto Fujimori, Human rights, President, Supreme Court of Peru_
@@ -53,9 +53,6 @@ _Context: Iranian police, South Khorasan Province, a shootout, drug trafficking_
 
 ### [British Prime Minister Gordon Brown announces that full body scanners will be introduced at UK airports following the failed attack on Northwest Airlines Flight 253 on Christmas Day. ](/news/2010/01/3/british-prime-minister-gordon-brown-announces-that-full-body-scanners-will-be-introduced-at-uk-airports-following-the-failed-attack-on-north.md)
 _Context: Christmas Day, Gordon Brown, Northwest Airlines Flight 253, body scanners_
-
-### [Lowly League One team Leeds United defeated Manchester United, 1-0 at Old Trafford, thanks to a great goal by Jermaine Beckford, scored at the Stretford End to knock Manchester United out of the FA Cup in the Third Round. ](/news/2010/01/3/lowly-league-one-team-leeds-united-defeated-manchester-united-1-0-at-old-trafford-thanks-to-a-great-goal-by-jermaine-beckford-scored-at-t.md)
-_Context: FA Cup, Jermaine Beckford, League One, Leeds United, Manchester United, Old Trafford, Stretford End_
 
 ## [Previous Day...](/news/2010/01/2/index.md)
 

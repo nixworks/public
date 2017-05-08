@@ -57,8 +57,5 @@ _Context: Obama, President, United States government, wage freeze_
 ### [The Canadian federal by-elections fills two vacant House seats in ridings for Manitoba and one in Ontario, resulting in one Conservative gain, one Conservative hold and one Liberal gain. ](/news/2010/11/29/the-canadian-federal-by-elections-fills-two-vacant-house-seats-in-ridings-for-manitoba-and-one-in-ontario-resulting-in-one-conservative-gai.md)
 _Context: Canadian  House of Commons, Canadian federal by-elections, Conservative Party's, Liberal Party's, Manitoba, Ontario, ridings_
 
-### [The BBC ''Panorama'' programme accuses Nicolas Leoz, Issa Hayatou and Ricardo Teixeira, three senior FIFA officials due to vote on the 2018 and 2022 FIFA World Cup bids, of accepting bribes in the 1990s. ](/news/2010/11/29/the-bbc-panorama-programme-accuses-nicola-s-la-c-oz-issa-hayatou-and-ricardo-teixeira-three-senior-fifa-officials-due-to-vote-on-the-201.md)
-_Context: 2018 and 2022 FIFA World Cup bids, BBC, FIFA, Issa Hayatou, Nicolas Leoz, Panorama, Ricardo Teixeira_
-
 ## [Previous Day...](/news/2010/11/28/index.md)
 

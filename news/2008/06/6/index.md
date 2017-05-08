@@ -19,7 +19,7 @@ _Context: Ainu, Diet, indigenous_
 _Context: Our Ukraine Bloc, Verkhovna Rada, opposition party_
 
 ### [ The America's Climate Security Act of 2007, a greenhouse gas emissions reduction bill, stalls in the U.S. Senate after a 48-36 vote fails to invoke cloture on a Republican filibuster. Presidential candidates John McCain and Barack Obama were among six senators absent from the vote who expressed support for the bill. ](/news/2008/06/6/the-america-s-climate-security-act-of-2007-a-greenhouse-gas-emissions-reduction-bill-stalls-in-the-u-s-senate-after-a-48-36-vote-fails-t.md)
-_Context: 2008, America's Climate Security Act of 2007, John McCain, Obama, R, cloture, filibuster, senators_
+_Context: 2008, America's Climate Security Act of 2007, John McCain, Obama, R, United States senators, cloture, filibuster_
 
 ### [ A rush-hour explosion targeting a bus in Colombo, Sri Lanka kills at least 21 people and injures 80. ](/news/2008/06/6/a-rush-hour-explosion-targeting-a-bus-in-colombo-sri-lanka-kills-at-least-21-people-and-injures-80.md)
 _Context: Colombo, Sri Lanka_

@@ -10,7 +10,7 @@ _Context: Ipswich murder case, Steven Wright, Suffolk police_
 Four U.S. marines, including a squad leader, were charged with murder Thursday in the slaughter of 24 Iraqi civilians &mdash; in the biggest American criminal case involving civilian deaths to arise from the Iraqi war.
 
 ### [ New Jersey Governor Jon S. Corzine signs a bill granting civil unions to same-sex couples, with all the rights and privileges of marriage. New Jersey becomes the third U.S. state to offer civil unions, and the fifth to offer some version of marriage to gay couples. ](/news/2006/12/21/new-jersey-governor-jon-s-corzine-signs-a-bill-granting-civil-unions-to-same-sex-couples-with-all-the-rights-and-privileges-of-marriage.md)
-_Context: Jon Corzine, New Jersey, U.S., civil union, gubernatorial elections, marriage, same-sex marriage_
+_Context: Jon Corzine, New Jersey, United States, civil union, gubernatorial elections, marriage, same-sex marriage_
 
 ### [ War in Somalia: Fresh heavy fighting is reported near the weak Somali government's Baidoa base, amid fears conflict could plunge the entire Horn of Africa into crisis. ](/news/2006/12/21/war-in-somalia-p-fresh-heavy-fighting-is-reported-near-the-weak-somali-government-s-baidoa-base-amid-fears-conflict-could-plunge-the-entir.md)
 _Context: Baidoa, Horn of Africa, War in Somalia_
@@ -22,7 +22,7 @@ _Context: Assembly of Experts, Iranian President, Mahmoud Ahmadinejad, elections
 _Context: Saparmurat Niyazov, Turkmenistan_
 
 ### [ Shane Warne, the leading test cricket wicket taker of all time, announces that he will retire from international cricket at the end of the 2006-07 Ashes series. ](/news/2006/12/21/shane-warne-the-leading-test-cricket-wicket-taker-of-all-time-announces-that-he-will-retire-from-international-cricket-at-the-end-of-the.md)
-_Context: Ashes, Shane Warne, test cricket_
+_Context: Ashes, Shane Warne, Test_
 
 ## [Previous Day...](/news/2006/12/20/index.md)
 

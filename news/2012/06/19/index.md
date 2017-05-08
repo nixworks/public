@@ -36,8 +36,5 @@ _Context: Najran Province, Saudi Arabia_
 ### [Antonis Samaras, leader of the New Democracy party in Greece, continues to negotiate with political rivals to form a coalition government, as Greece struggles to overcome its economic crisis. ](/news/2012/06/19/antonis-samaras-leader-of-the-new-democracy-party-in-greece-continues-to-negotiate-with-political-rivals-to-form-a-coalition-government-a.md)
 Greek politicians face the dual challenges of enforcing Greece’s loan agreement with its foreign creditors while renegotiating enough of the bailout terms to keep the government in power.
 
-### [UEFA Euro 2012:The debate surrounding goal-line technology resurfaces as co-hosts Ukraine are denied an apparent goal in controversial circumstances against England, with John Terry hooking the ball from behind the goal line after a shot by Marko Devic under the eyes of the fifth official beside the goal. Wayne Rooney's header in the second half carries England through at the Donbass Arena in Donetsk. ](/news/2012/06/19/uefa-euro-2012-pthe-debate-surrounding-goal-line-technology-resurfaces-as-co-hosts-ukraine-are-denied-an-apparent-goal-in-controversial-circ.md)
-Ukraine striker Andriy Shevchenko has announced he will retire from international football after his country&#x27;s elimination from Euro 2012.
-
 ## [Previous Day...](/news/2012/06/18/index.md)
 

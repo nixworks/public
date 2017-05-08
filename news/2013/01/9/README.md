@@ -24,11 +24,5 @@ _Context: Hilda Solis, United States Secretary of Labor, second inauguration_
 ### [The Venezuelan Supreme Tribunal of Justice rules that the latest inauguration of President Hugo Chavez can be deferred while his recovery continues from a cancer operation. ](/news/2013/01/9/the-venezuelan-supreme-tribunal-of-justice-rules-that-the-latest-inauguration-of-president-hugo-cha-vez-can-be-deferred-while-his-recovery-c.md)
 Venezuelan President Hugo Chavez remained on his sickbed in Cuba on Thursday while supporters planned to rally in his honor on the day he should have been sworn in for a new six-year term in the South American OPEC nation.
 
-### [In baseball, no candidates were elected to the National Baseball Hall of Fame for the first time since 1996, with some candidates such as Barry Bonds and Roger Clemens performing poorly due to allegations of steroid use. ](/news/2013/01/9/in-baseball-no-candidates-were-elected-to-the-national-baseball-hall-of-fame-for-the-first-time-since-1996-with-some-candidates-such-as-ba.md)
-In the most resounding referendum yet on the legacy of steroids in baseball, voters for the Hall of Fame emphatically rejected the candidacies of Barry Bonds and Roger Clemens in balloting results announced Wednesday.
-
-### [In ice hockey, the Board of Governors of the National Hockey League unanimously approves the new CBA between the league and the National Hockey League Players' Association. Pending approval of the CBA by the players' association, the league will play a shortened 48-game 2012-13 NHL season beginning January 19. ](/news/2013/01/9/in-ice-hockey-the-board-of-governors-of-the-national-hockey-league-unanimously-approves-the-new-cba-between-the-league-and-the-national-hoc.md)
-The board of governors ratified the tentative agreement reached Sunday between the NHL and NHLPA, commissioner Gary Bettman confirmed Wednesday.
-
 ## [Previous Day...](/news/2013/01/8/index.md)
 

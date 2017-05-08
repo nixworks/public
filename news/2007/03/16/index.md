@@ -7,7 +7,7 @@ Three suicide attacks in Anbar Province employed a tactic that insurgents began 
 _Context: $, Americas, Bolivia, Guyana, Haiti, Honduran, Inter-American Development Bank, Nicaragua_
 
 ### [ Herschelle Gibbs of South Africa becomes the first cricketer to hit six sixes in one over in a One Day International at the 2007 Cricket World Cup. ](/news/2007/03/16/herschelle-gibbs-of-south-africa-becomes-the-first-cricketer-to-hit-six-sixes-in-one-over-in-a-one-day-international-at-the-2007-cricket-wo.md)
-_Context: 2007 Cricket World Cup, Cricket, Herschelle Gibbs, One Day International, South Africa, six_
+_Context: 2007 Cricket World Cup, Herschelle Gibbs, One Day International, South Africa, cricketer, six_
 
 ### [ Three officers of the New York Police Department are indicted on charges related to the death of a black man, Sean Bell, on his wedding day. ](/news/2007/03/16/three-officers-of-the-new-york-police-department-are-indicted-on-charges-related-to-the-death-of-a-black-man-sean-bell-on-his-wedding-day.md)
 _Context: New York Police Department, Sean Bell_

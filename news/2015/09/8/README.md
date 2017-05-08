@@ -48,11 +48,5 @@ Pope Francis unveils reforms intended to make it easier for Roman Catholics to g
 ### [Shinzo Abe, the Prime Minister of Japan, is reelected (unopposed)  President of the Liberal Democratic Party. ](/news/2015/09/8/shinzo-abe-the-prime-minister-of-japan-is-reelected-unopposed-president-of-the-liberal-democratic-party.md)
 _Context: Liberal Democratic Party, Prime Minister, Shinzo Abe_
 
-### [In football, Wayne Rooney becomes the highest goalscorer for the England national football team with a goal against Switzerland in a UEFA Euro 2016 qualifying match. ](/news/2015/09/8/in-football-wayne-rooney-becomes-the-highest-goalscorer-for-the-england-national-football-team-with-a-goal-against-switzerland-in-a-uefa-eu.md)
-_Context: England national football team, Switzerland, UEFA Euro 2016 qualifying, Wayne Rooney, football_
-
-### [The 2018 FIFA World Cup qualifier between Malaysia and Saudi Arabia was abandoned due to crowd trouble just before full time. date=September 2015](/news/2015/09/8/the-2018-fifa-world-cup-qualifier-between-malaysia-and-saudi-arabia-was-abandoned-due-to-crowd-trouble-just-before-full-time-date-september.md)
-_Context: 2018 FIFA World Cup, Malaysia, Saudi Arabia, abandoned_
-
 ## [Previous Day...](/news/2015/09/7/index.md)
 

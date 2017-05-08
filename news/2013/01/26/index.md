@@ -33,11 +33,5 @@ In less than a year, Singapore will have a second by-election, as Prime Minister
 ### [Kathleen Wynne is elected as the leader of the ruling Ontario Liberal Party and will become the first female Premier of the Canadian province of Ontario and the first openly gay premier in Canadian history. ](/news/2013/01/26/kathleen-wynne-is-elected-as-the-leader-of-the-ruling-ontario-liberal-party-and-will-become-the-first-female-premier-of-the-canadian-provinc.md)
 _Context: Canada, Kathleen Wynne, Ontario, Ontario Liberal Party, Premier, gay and bisexual men_
 
-### [In tennis, Victoria Azarenka wins the women's singles at the 2013 Australian Open after her three-set victory over Li Na in the final. ](/news/2013/01/26/in-tennis-victoria-azarenka-wins-the-women-s-singles-at-the-2013-australian-open-after-her-three-set-victory-over-li-na-in-the-final.md)
-Victoria Azarenka retains her Australian Open title and kept hold of the world number one spot with victory over Li Na in the Melbourne final.
-
-### [2012-13 FA Cup fourth round:For the first time in 24 years, a non-league team knocks a top flight team out of the FA Cup. Conference outfit Luton Town eliminate Premier League Norwich City with 1-0 victory at Carrow Road. ](/news/2013/01/26/2012a13-fa-cup-fourth-round-pfor-the-first-time-in-24-years-a-non-league-team-knocks-a-top-flight-team-out-of-the-fa-cup-conference-outf.md)
-Queens Park Rangers suffer an embarrassing defeat by League One MK Dons to crash out of the FA Cup in the fourth round.
-
 ## [Previous Day...](/news/2013/01/25/index.md)
 

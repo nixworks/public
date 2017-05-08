@@ -28,7 +28,7 @@ Kuwaiti government has filed a lawsuit against the Olympic body for more than $1
 _Context: Baltimore, death of Freddie Gray_
 
 ### [An unidentified man who had been reported to have fired shots inside a theater has been shot dead by police in Viernheim, Germany.  No other fatalities were reported. ](/news/2016/06/23/an-unidentified-man-who-had-been-reported-to-have-fired-shots-inside-a-theater-has-been-shot-dead-by-police-in-viernheim-germany-no-other.md)
-_Context: Germany, Viernheim, Viernheim shooting_
+_Context: German, Viernheim, Viernheim shooting_
 
 ### [Voters in the United Kingdom go to the polls to vote in a referendum on whether the UK should leave the European Union. ](/news/2016/06/23/voters-in-the-united-kingdom-go-to-the-polls-to-vote-in-a-referendum-on-whether-the-uk-should-leave-the-european-union.md)
 _Context: European Union, European Union membership referendum, United Kingdom_
@@ -41,9 +41,6 @@ CLEVELAND (AP) — A federal judge on Thursday ruled that Cleveland&#039;s regul
 
 ### [Solar Impulse 2, a plane powered only by the sun, lands safely in  Seville, Spain, shortly after 7.30 a.m. local time after a flight of just over 71 hours.   The 15th leg of the round-the-world journey  had been expected to take up to 90 hours. ](/news/2016/06/23/solar-impulse-2-a-plane-powered-only-by-the-sun-lands-safely-in-seville-spain-shortly-after-7-30-a-m-local-time-after-a-flight-of-just.md)
 An airplane powered solely by the sun landed safely in Seville in Spain early on Thursday after an almost three-day flight across the Atlantic from New York in one of the longest legs of the first ever fuel-less flight around the world.
-
-### [In basketball, the NBA draft is held with the Philadelphia 76ers choosing Australian Ben Simmons as the number one pick. ](/news/2016/06/23/in-basketball-the-nba-draft-is-held-with-the-philadelphia-76ers-choosing-australian-ben-simmons-as-the-number-one-pick.md)
-Philadelphia selected LSU forward Ben Simmons with the No. 1 overall pick in the draft. Sixers fans on hand at Barclays Center roared in approval when commissioner Adam Silver announced his name.
 
 ## [Previous Day...](/news/2016/06/22/index.md)
 

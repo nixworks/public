@@ -43,7 +43,7 @@ _Context: Japan, an earthquake and tsunami_
 _Context: Cote d'Ivoire_
 
 ### [Exelon Corp., the top nuclear power concern in the United States, announces a deal to buy ](/news/2011/04/28/exelon-corp-the-top-nuclear-power-concern-in-the-united-states-announces-a-deal-to-buy.md)
-_Context: Exelon Corp., U.S._
+_Context: Exelon Corp., United States_
 
 ### [U.S. tornado outbreak:Seven US states declare a state of emergency following heavy storms including Alabama, Arkansas, Kentucky, Mississippi, Missouri, Tennessee and Oklahoma. ](/news/2011/04/28/u-s-tornado-outbreak-pseven-us-states-declare-a-state-of-emergency-following-heavy-storms-including-alabama-arkansas-kentucky-mississipp.md)
 STORMS that spawned deadly tornadoes have flattened buildings and knocked out power lines across the central and southern United States, raising the death toll to at least 56.
@@ -56,12 +56,6 @@ Chronic illnesses such as heart disease, cancer and diabetes are the leading cau
 
 ### [The skeleton of a girl thought to have been stabbed to death by Roman soldiers is discovered in Kent, England, UK. ](/news/2011/04/28/the-skeleton-of-a-girl-thought-to-have-been-stabbed-to-death-by-roman-soldiers-is-discovered-in-kent-england-uk.md)
 The body of a girl thought to have been murdered by Roman soldiers is discovered by archaeologists alongside the A2 in north Kent.
-
-### [Foxtel and the Seven Network agree to pay  $1.253 billion over five years to broadcast Australian Football League matches. ](/news/2011/04/28/foxtel-and-the-seven-network-agree-to-pay-1-253-billion-over-five-years-to-broadcast-australian-football-league-matches.md)
-_Context: Australian Football League, Foxtel, Seven Network_
-
-### [The US National Football League 2011 draft starts in Radio City Music Hall in New York City. ](/news/2011/04/28/the-us-national-football-league-2011-draft-starts-in-radio-city-music-hall-in-new-york-city.md)
-_Context: 2011 draft, National Football League, New York's, Radio City Music Hall_
 
 ## [Previous Day...](/news/2011/04/27/index.md)
 

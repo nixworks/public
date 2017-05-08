@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ India's Board of Control for Cricket will relocate the 2009 Premier League to South Africa. ](/news/2009/03/25/india-s-board-of-control-for-cricket-will-relocate-the-2009-premier-league-to-south-africa.md) _Context: Board of Control for Cricket in India, India, Indian Premier League, win_
+1. [ India's Board of Control for Cricket will relocate the 2009 Premier League to South Africa. ](/news/2009/03/25/india-s-board-of-control-for-cricket-will-relocate-the-2009-premier-league-to-south-africa.md) _Context: Board of Control for Cricket, India, Indian Premier League, win_
 2. [ The Deccan Chargers defeat the Royal Challengers Bangalore to win the Indian Premier League. ](/news/2009/05/24/the-deccan-chargers-defeat-the-royal-challengers-bangalore-to-win-the-indian-premier-league.md) _Context: Indian Premier League, win_
 3. [ISRO has successfully launched a new communications satellite for South Asia from Satish Dhawan Space Centre, India. ](/news/2017/05/5/isro-has-successfully-launched-a-new-communications-satellite-for-south-asia-from-satish-dhawan-space-centre-india.md) _Context: India_
 4. [Somali pirates hijack an Indian cargo ship off the coast of Puntland. ](/news/2017/04/3/somali-pirates-hijack-an-indian-cargo-ship-off-the-coast-of-puntland.md) _Context: India_

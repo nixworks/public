@@ -19,10 +19,10 @@ _Context: Osama bin Laden, Pakistan, Pervez Musharraf, President_
 _Context: Howard University, Jena Six, Jena, Louisiana, NAACP, U.S._
 
 ### [ CNN reports that Iran has released Iranian-American social scientist Kian Tajbakhsh. ](/news/2007/09/20/cnn-reports-that-iran-has-released-iranian-american-social-scientist-kian-tajbakhsh.md)
-_Context: CNN, Iran, Kian Tajbakhsh, U.S., social scientist_
+_Context: CNN, Iran, Kian Tajbakhsh, United States, social scientist_
 
 ### [ Al Qaeda's Deputy Leader Ayman al-Zawahri claims that the United States is being defeated in Iraq, Afghanistan, Somalia and North Africa. ](/news/2007/09/20/al-qaeda-s-deputy-leader-ayman-al-zawahri-claims-that-the-united-states-is-being-defeated-in-iraq-afghanistan-somalia-and-north-africa.md)
-_Context: Afghanistan, Ayman al-Zawahri, Iraq, North African, Somalia, U.S., al-Qaeda_
+_Context: Afghanistan, Ayman al-Zawahri, Iraq, North African, Somalia, United States, al-Qaeda_
 
 ### [ Qian Xun Xue case: Questions are asked in the New Zealand parliament as to why Nai Yin Xue was able to leave the country with his daughter despite a court order. ](/news/2007/09/20/qian-xun-xue-case-questions-are-asked-in-the-new-zealand-parliament-as-to-why-nai-yin-xue-was-able-to-leave-the-country-with-his-daughter.md)
 _Context: New Zealand parliament, Qian Xun Xue case, court order_
@@ -34,7 +34,7 @@ _Context: Aurukun, Queensland, Australia, riot_
 _Context: Japan, Kashiwazaki-Kariwa Nuclear Power Plant, Niigata_
 
 ### [ The Canadian dollar briefly reaches parity with the American dollar for the first time since 1976. ](/news/2007/09/20/the-canadian-dollar-briefly-reaches-parity-with-the-american-dollar-for-the-first-time-since-1976.md)
-_Context: $, 1976, Canadian dollar_
+_Context: $, 1976, CAN$_
 
 ## [Previous Day...](/news/2007/09/19/index.md)
 

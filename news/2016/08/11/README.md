@@ -24,8 +24,5 @@ _Context: Edgar Lungu, Hakainde Hichilema, President, United Party for National 
 ### [The 2016 Perseid meteor shower  peaks tonight. ](/news/2016/08/11/the-2016-perseid-meteor-shower-peaks-tonight.md)
 The online astronomy service Slooh will provide a live webcast of the annular solar eclipse of Sunday, Feb. 26 , and you can watch it live here, courtesy of Slooh.
 
-### [American  Michael Phelps wins the gold medal in the 200-meter individual medley becoming the first swimmer to win gold medals in the same event at four successive Olympic Games. It is Phelps' 22nd gold medal in total. ](/news/2016/08/11/american-michael-phelps-wins-the-gold-medal-in-the-200-meter-individual-medley-becoming-the-first-swimmer-to-win-gold-medals-in-the-same-ev.md)
-_Context: Chronological summary of the 2016 Summer Olympics, Michael Phelps, Olympic Games_
-
 ## [Previous Day...](/news/2016/08/10/index.md)
 

@@ -18,8 +18,5 @@ _Context: Bingu wa Mutharika, Joyce Banda, Malawi, President_
 ### [The United Kingdom Home Office is subjected to an attack believed to be from the Anonymous computer hacking group. ](/news/2012/04/7/the-united-kingdom-home-office-is-subjected-to-an-attack-believed-to-be-from-the-anonymous-computer-hacking-group.md)
 The hacking group Anonymous is alleged to have disrupted access to the Home Office website, apparently as a protest against government policies.
 
-### [The 158th Boat Race between Oxford and Cambridge is stopped mid-race due to a swimmer in the water. After a clash of oars at the restart, Cambridge won easily. ](/news/2012/04/7/the-158th-boat-race-between-oxford-and-cambridge-is-stopped-mid-race-due-to-a-swimmer-in-the-water-after-a-clash-of-oars-at-the-restart-ca.md)
-A man is charged over an incident which led to the 158th University Boat Race being halted half-way through.
-
 ## [Previous Day...](/news/2012/04/6/index.md)
 

@@ -106,13 +106,13 @@ _Context: Indian Supreme Court, Scheduled Castes and Scheduled Tribes, education
 The Israeli authorities have used bulldozers to demolish three buildings in occupied East Jerusalem.
 
 ### [The United States 2nd Circuit Court of Appeals in New York City strikes down the Federal Communications Commission's "fleeting expletives" policy that gave it power to fine broadcasters who air a single expletive on air. ](/news/2010/07/13/the-united-states-2nd-circuit-court-of-appeals-in-new-york-city-strikes-down-the-federal-communications-commission-s-fleeting-expletives-p.md)
-_Context: Federal Communications Commission, United States appeals court_
+_Context: Court of Appeals, Federal Communications Commission_
 
 ### [President of the United States Barack Obama nominates Jacob Lew to replace Peter Orszag as the chief of the Office of Management and Budget. ](/news/2010/07/13/president-of-the-united-states-barack-obama-nominates-jacob-lew-to-replace-peter-orszag-as-the-chief-of-the-office-of-management-and-budget.md)
 _Context: Jacob Lew, Obama, Office of Management and Budget, Peter Orszag_
 
 ### [The United States Senate announces it will vote on financial reform legislations on 15 July. ](/news/2010/07/13/the-united-states-senate-announces-it-will-vote-on-financial-reform-legislations-on-15-july.md)
-_Context: financial reform, senators_
+_Context: United States senators, financial reform_
 
 ### [The Philippines' first typhoon of the year moves toward the country's eastern coast, with 33 of the country's 81 provinces and the capital Manila being placed under storm alert. ](/news/2010/07/13/the-philippines-first-typhoon-of-the-year-moves-toward-the-country-s-eastern-coast-with-33-of-the-country-s-81-provinces-and-the-capital-m.md)
 _Context: Manila, Philippine_
@@ -127,13 +127,13 @@ Torrential rains in southwestern China triggered landslides that have killed 17 
 _Context: 2010 FIFA World Cup, 2020 Summer Olympics_
 
 ### [The 2010 FIFA World Cup runner-up Netherlands national football team embarks on an open-top boat tour of Amsterdam's canals drinking beer, lined by hundreds of thousands of people. ](/news/2010/07/13/the-2010-fifa-world-cup-runner-up-netherlands-national-football-team-embarks-on-an-open-top-boat-tour-of-amsterdam-s-canals-drinking-beer-l.md)
-_Context: 2010 FIFA World Cup Final, Amsterdam, Netherlands football team_
+_Context: 2010 FIFA World Cup Final, Amsterdam, Netherlands_
 
 ### [Cricket: Australia and Pakistan contest the first neutral Test at Lord's Cricket Ground since 1912. ](/news/2010/07/13/cricket-australia-and-pakistan-contest-the-first-neutral-test-at-lord-s-cricket-ground-since-1912.md)
-_Context: Cricket, Lord's Cricket Ground_
+_Context: Lord's Cricket Ground, cricketer_
 
 ### [George Steinbrenner, owner of the New York Yankees, dies after suffering a massive heart attack in Florida. ](/news/2010/07/13/george-steinbrenner-owner-of-the-new-york-yankees-dies-after-suffering-a-massive-heart-attack-in-florida.md)
-_Context: FL, George Steinbrenner, New York Yankees, heart attack_
+_Context: Florida, George Steinbrenner, New York Yankees, heart attack_
 
 ## [Previous Day...](/news/2010/07/12/index.md)
 

@@ -36,14 +36,5 @@ _Context: Italian, Italian Prime Minister, Mario Monti, Politics of Italy_
 ### [Hugo Chvez, the President of Venezuela, announces that he has cancer again. Preparing to travel to Havana, Cuba, for further cancer surgery, he named Vice President Nicols Maduro to carry out his legacy if he is unable to remain in office. ](/news/2012/12/8/hugo-chavez-the-president-of-venezuela-announces-that-he-has-cancer-again-preparing-to-travel-to-havana-cuba-for-further-cancer-surgery.md)
 Doctors found malignant cells during tests in Cuba, President Hugo Chávez of Venezuela said, adding that his vice president would succeed him if his health worsened.
 
-### [The European Olympic Committees during the General Assembly in Rome choose Baku, Azerbaijan, as the host city for the inaugural edition of the European Games in 2015. ](/news/2012/12/8/the-european-olympic-committees-during-the-general-assembly-in-rome-choose-baku-azerbaijan-as-the-host-city-for-the-inaugural-edition-of-t.md)
-_Context: Azerbaijan, Baku, European Games, European Olympic Committees, Rome_
-
-### [Reigning champions Brazil and host Portugal will play in the final of the 2012 Women's Futsal World Tournament after they beat Russia and Spain in the semifinals respectively. ](/news/2012/12/8/reigning-champions-brazil-and-host-portugal-will-play-in-the-final-of-the-2012-women-s-futsal-world-tournament-after-they-beat-russia-and-sp.md)
-_Context: 2012 Women's Futsal World Tournament, Brazil, Portuguese, Russia, Spain, world title_
-
-### [Texas A&M University quarterback Johnny Manziel becomes the first freshman ever to win the Heisman Trophy as the most outstanding player in U.S. college football. ](/news/2012/12/8/texas-a-m-university-quarterback-johnny-manziel-becomes-the-first-freshman-ever-to-win-the-heisman-trophy-as-the-most-outstanding-player-in.md)
-_Context: Heisman Trophy, Johnny Manziel, Texas A&M University, college football, quarterback_
-
 ## [Previous Day...](/news/2012/12/7/index.md)
 

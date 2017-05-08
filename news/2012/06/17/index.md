@@ -24,14 +24,5 @@ _Context: Ahmed Shafiq, Egypt, Freedom and Justice Party, Mohamed Morsi, preside
 ### [Voters in France go to the polls for legislative election with the Socialist Party winning a majority. ](/news/2012/06/17/voters-in-france-go-to-the-polls-for-legislative-election-with-the-socialist-party-winning-a-majority.md)
 _Context: France, PS, legislative election_
 
-### [UEFA opens disciplinary proceedings against The Football Association after England fans attempted to invade the pitch during their game with Sweden in Kiev. ](/news/2012/06/17/uefa-opens-disciplinary-proceedings-against-the-football-association-after-england-fans-attempted-to-invade-the-pitch-during-their-game-with.md)
-_Context: England national football team, Kiev, Sweden, The Football Association, UEFA_
-
-### [In tennis, David Nalbandian is disqualified from the final of the 2012 AEGON Championships after kicking an advertising board into the left shin of a line judge, seriously injuring him; his opponent, Marin Cilic, who was trailing Nalbandian at the time, is awarded the title and Nalbandian stands to lose the prize money he would have received for finishing as runner-up. ](/news/2012/06/17/in-tennis-david-nalbandian-is-disqualified-from-the-final-of-the-2012-aegon-championships-after-kicking-an-advertising-board-into-the-left.md)
-_Context: 2012 AEGON Championships, David Nalbandian, Marin Cilic, tennis_
-
-### [In golf, American Webb Simpson wins the U.S. Open. ](/news/2012/06/17/in-golf-american-webb-simpson-wins-the-u-s-open.md)
-_Context: American, U.S. Open, Webb Simpson_
-
 ## [Previous Day...](/news/2012/06/16/index.md)
 

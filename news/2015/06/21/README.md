@@ -15,8 +15,5 @@ Soldier is in critical condition after sustaining stab wounds to his neck in att
 ### [Prime Minister of Greece Alexis Tsipras makes a new offer for reforms which could signal a late deal in the country's debt talks. ](/news/2015/06/21/prime-minister-of-greece-alexis-tsipras-makes-a-new-offer-for-reforms-which-could-signal-a-late-deal-in-the-country-s-debt-talks.md)
 Greek debt talks are resuming after creditors accused the country&#x27;s Prime Minister Alexis Tsipras of failing to compromise. Greece faces a 1.6 billion euro debt repayment to the International Monetary Fund on Tuesday, and is thought to require a new deal to avoid default and a possible withdrawal from the eurozone.
 
-### [In golf, American Jordan Spieth wins his second major championship of the year winning the U.S. Open by a stroke and becomes the first golfer since Gene Sarazen to win two majors before the age of 22. ](/news/2015/06/21/in-golf-american-jordan-spieth-wins-his-second-major-championship-of-the-year-winning-the-u-s-open-by-a-stroke-and-becomes-the-first-golfe.md)
-_Context: 2015 U.S. Open (golf), Gene Sarazen, Jordan Spieth, U.S. Open, golf, major championship_
-
 ## [Previous Day...](/news/2015/06/20/index.md)
 

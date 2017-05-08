@@ -10,7 +10,7 @@ Police say thieves planned to sell three stolen Picassos for a fraction of their
 _Context: Argentina, Buenos Aires, Venezuela_
 
 ### [ Barry Bonds of the San Francisco Giants hits his 756th career home run, passing Hank Aaron as the all-time leader in Major League Baseball. Bonds hits the shot against Washington Nationals pitcher Mike Bacsik in the fifth inning of their game at AT&T Park in San Francisco, California. ](/news/2007/08/7/barry-bonds-of-the-san-francisco-giants-hits-his-756th-career-home-run-passing-hank-aaron-as-the-all-time-leader-in-major-league-baseball.md)
-_Context: AT&T Park, Barry Bonds, Giants', Hank Aaron, Major League Baseball, Mike Bacsik, San Francisco, California, Washington Nationals, all-time leader, home run_
+_Context: AT&T Park, Barry Bonds, Hank Aaron, Major League Baseball, Mike Bacsik, San Francisco Giants, San Francisco, California, Washington Nationals, all-time leader, home run_
 
 ### [ Seismic activity frustrates rescue efforts for six coal miners trapped underground near Huntington, Utah. ](/news/2007/08/7/seismic-activity-frustrates-rescue-efforts-for-six-coal-miners-trapped-underground-near-huntington-utah.md)
 _Context: Huntington, Utah, coal mine, seismic_
@@ -31,7 +31,7 @@ _Context: Iraq, Jordan, government school, refugee_
 Israel has plunged into a bitter debate over the source of authority for many of its soldiers after a group of troops refused orders to evacuate hardline Jewish settlers in the occupied West Bank.
 
 ### [ Juan Carlos Ramirez-Abadia, Colombian cocaine trafficker boss of the Norte del Valle Cartel is apprehended in Brazil and faces extradition to the United States. The US Government had offered a reward of US$5 million dollars. ](/news/2007/08/7/juan-carlos-ramirez-abadia-colombian-cocaine-trafficker-boss-of-the-norte-del-valle-cartel-is-apprehended-in-brazil-and-faces-extradition.md)
-_Context: Brazil, Colombian, Juan Carlos Ramirez-Abadia, Norte del Valle cartel, U.S., cocaine_
+_Context: Brazil, Colombian, Juan Carlos Ramirez-Abadia, Norte del Valle cartel, United States, cocaine_
 
 ### [ Malaysia bans hiring of foreign security guards following rape and murder of a student by a Pakistani security guard recently. ](/news/2007/08/7/malaysia-bans-hiring-of-foreign-security-guards-following-rape-and-murder-of-a-student-by-a-pakistani-security-guard-recently.md)
 _Context: Malaysia, Pakistan, security guard_

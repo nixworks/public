@@ -48,8 +48,5 @@ _Context: Sri Lanka_
 ### [Tens of thousands of people demonstrate in Dhaka, Bangladesh, demanding the government step down and hold elections. ](/news/2012/03/12/tens-of-thousands-of-people-demonstrate-in-dhaka-bangladesh-demanding-the-government-step-down-and-hold-elections.md)
 Opposition demands that a non-partisan caretaker government be charged with conducting next general election.
 
-### [In American football, the NCAA imposes a penalty on the North Carolina Tar Heels football of loss of post-season play for next season and loss of scholarships for code violations. ](/news/2012/03/12/in-american-football-the-ncaa-imposes-a-penalty-on-the-north-carolina-tar-heels-football-of-loss-of-post-season-play-for-next-season-and-lo.md)
-_Context: American football, NCAA, North Carolina Tar Heels football_
-
 ## [Previous Day...](/news/2012/03/11/index.md)
 

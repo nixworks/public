@@ -22,7 +22,7 @@ A massive search-and-rescue effort was launched after the vessel made a mayday c
 European leaders held an emergency summit Sunday to find ways of easing the plight of those caught up in the continent&apos;s greatest immigration crisis in decades.
 
 ### [United States military and intelligence sources cite concerns about Russian activities near undersea cables that suggest plans to intercept or cut communication over these vital links. ](/news/2015/10/25/united-states-military-and-intelligence-sources-cite-concerns-about-russian-activities-near-undersea-cables-that-suggest-plans-to-intercept.md)
-_Context: Russia, U.S., undersea cables_
+_Context: Russia, United States, undersea cables_
 
 ### [Police have updated information on the casualties from this crash. Four died and 47 were injured; five remain in critical condition. ](/news/2015/10/25/police-have-updated-information-on-the-casualties-from-this-crash-four-died-and-47-were-injured-five-remain-in-critical-condition.md)
 A toddler was among four people killed when an allegedly inebriated woman drove a car into crowds at an Oklahoma State University parade, Stillwater police said. The Saturday crash also injured dozens of people, including 11 victims younger than 13. The car&#039;s driver has been arrested on suspicion of driving under the influence.
@@ -37,7 +37,7 @@ Poland&#039;s conservative Law and Justice (PiS) party led by eurosceptic Jarosl
 Jimmy Morales, a former TV comedy actor who promised to clean up Guatemala’s corrupt politics, has won a landslide victory in the country’s presidential election on Sunday.
 
 ### [Elections in the United States; Republican U.S. Senator David Vitter and Democratic state Representative John Bel Edwards top two Republican candidates for spots in the November 21 runoff election. Edwards wins 40 percent and Vitter 23 percent of the primary vote, according to unofficial returns. ](/news/2015/10/25/elections-in-the-united-states-republican-u-s-senator-david-vitter-and-democratic-state-representative-john-bel-edwards-top-two-republican.md)
-_Context: D, David Vitter, Elections in the United States, John Bel Edwards, Louisiana gubernatorial election, 2015, R, primary election, run-off, senators, state Representative_
+_Context: D, David Vitter, Elections in the United States, John Bel Edwards, Louisiana gubernatorial election, 2015, R, United States senators, primary election, run-off, state Representative_
 
 ### [Unlike the first round of the Haitian parliamentary elections when balloting was  cancelled in 22 constituencies, voting appeared orderly, and largely peaceful, with a large turnout in Sunday's presidential and parliamentary second round elections. Electoral officials said there might be partial results in 10 days but final results would not be ready until late November. Haitians faced lengthy ballots featuring 54 presidential hopefuls and significant numbers of legislative and municipal candidates. An expected runoff between the top two presidential candidates is scheduled for December 27. ](/news/2015/10/25/unlike-the-first-round-of-the-haitian-parliamentary-elections-when-balloting-was-cancelled-in-22-constituencies-voting-appeared-orderly-a.md)
 Haiti&rsquo;s elections officials Sunday thanked voters for a relatively calm election day and appealed for patience as they try to figure out who the winners are in the balloting for presidential, legislative and local mayoral elections.

@@ -57,8 +57,5 @@ Michael Hirst considers the cases made by critics of Pope Benedict XVI, and the 
 ### [Cocoa tree genome (DNA) raw sequence to be made public from Mars, Incorporated and combined Pennsylvania State University, French laboratories, and The Hershey Company research.](/news/2010/09/16/cocoa-tree-genome-dna-raw-sequence-to-be-made-public-from-mars-incorporated-and-combined-pennsylvania-state-university-french-laboratori.md)
 Two separate groups are vying for credit in what some might consider the research arm of a chocolate war.
 
-### [The Seattle Storm win the WNBA Finals for the second time defeating the Atlanta Dream in Game 3 87-84 with Lauren Jackson of the Storm winning the WNBA Finals MVP Award. ](/news/2010/09/16/the-seattle-storm-win-the-wnba-finals-for-the-second-time-defeating-the-atlanta-dream-in-game-3-87-84-with-lauren-jackson-of-the-storm-winni.md)
-_Context: Atlanta Dream, Lauren Jackson, Seattle Storm, WNBA Finals, WNBA Finals MVP Award_
-
 ## [Previous Day...](/news/2010/09/15/index.md)
 

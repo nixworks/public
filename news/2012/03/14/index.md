@@ -45,11 +45,5 @@ _Context: Virginia Tech, massacre_
 ### [Iran's Islamic Consultative Assembly starts questioning the President Mahmoud Ahmadinejad on his handling of the economy. ](/news/2012/03/14/iran-s-islamic-consultative-assembly-starts-questioning-the-president-mahmoud-ahmadinejad-on-his-handling-of-the-economy.md)
 _Context: Iran, Iranian President, Islamic Consultative Assembly, Mahmoud Ahmadinejad_
 
-### [Dereck Chisora loses his British Boxing Board of Control license indefinitely following a clash with fellow boxer David Haye after his bout with World Boxing Council champion Vitali Klitschko in February. ](/news/2012/03/14/dereck-chisora-loses-his-british-boxing-board-of-control-license-indefinitely-following-a-clash-with-fellow-boxer-david-haye-after-his-bout.md)
-Dereck Chisora has his boxing licence withdrawn for his actions before and after his defeat by Vitali Klitschko in Munich.
-
-### [In basketball, Mike D'Antoni resigns as the coach of the New York Knicks. ](/news/2012/03/14/in-basketball-mike-d-antoni-resigns-as-the-coach-of-the-new-york-knicks.md)
-_Context: Mike D'Antoni, New York Knicks, basketball_
-
 ## [Previous Day...](/news/2012/03/13/index.md)
 

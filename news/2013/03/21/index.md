@@ -19,7 +19,7 @@ An explosion at a mosque in the Syrian capital on Thursday killed at least 42 pe
 Chinua Achebe dies at 82
 
 ### [2013 Berlin helicopter crash: Two helicopters collide and crash near Berlin's Olympic Stadium in Germany, killing the pilot of one helicopter and injuring four people. ](/news/2013/03/21/2013-berlin-helicopter-crash-two-helicopters-collide-and-crash-near-berlin-s-olympic-stadium-in-germany-killing-the-pilot-of-one-helicopte.md)
-_Context: 2013 Berlin helicopter crash, Berlin, Germany, Olympic Stadium_
+_Context: 2013 Berlin helicopter crash, Berlin, German, Olympic Stadium_
 
 ### [At least 45 people drown and 60 are missing after a boat carrying Nigerian migrants capsizes and sinks off shore from Libreville, Gabon. ](/news/2013/03/21/at-least-45-people-drown-and-60-are-missing-after-a-boat-carrying-nigerian-migrants-capsizes-and-sinks-off-shore-from-libreville-gabon.md)
 Twenty-nine people are rescued after a boat carrying about 130 people from Nigeria to Gabon sinks, rescue officials say.
@@ -40,13 +40,13 @@ _Context: Buddhist, Muslim, Myanmar, communal violence, mosque_
 SC upheld the conviction of Sanjay Dutt in the Mumbai serial blasts case and sentenced him to 5 years imprisonment. The actor has one month to surrender.
 
 ### [Seven people are shot and wounded at a nightclub in Chicago, Illinois, United States. ](/news/2013/03/21/seven-people-are-shot-and-wounded-at-a-nightclub-in-chicago-illinois-united-states.md)
-_Context: Chicago, Illinois, U.S., nightclub_
+_Context: Chicago, Illinois, United States, nightclub_
 
 ### [Several BBC Twitter accounts are hacked including its Weather, Arabic and  Radio Ulster feeds by a group calling itself the Syrian Electronic Army. ](/news/2013/03/21/several-bbc-twitter-accounts-are-hacked-including-its-weather-arabic-and-radio-ulster-feeds-by-a-group-calling-itself-the-syrian-electroni.md)
 The BBC has become the latest victim of Twitter hackers as several of its feeds, including @bbcweather, are taken over by pro-Syrian hackers.
 
 ### [The suspect wanted in connection with the shooting death of prison chief Tom Clements in Colorado, is believed to be the man that was killed in a shootout with deputies in Montague County, Texas, United States. A deputy was seriously injured in the shootout. ](/news/2013/03/21/the-suspect-wanted-in-connection-with-the-shooting-death-of-prison-chief-tom-clements-in-colorado-is-believed-to-be-the-man-that-was-killed.md)
-_Context: Colorado, Montague County, Texas, U.S., shooting, shootout_
+_Context: Colorado, Montague County, Texas, United States, shooting, shootout_
 
 ### [Leader of the Australian Labor Party Julia Gillard calls a spill for all leadership positions. ](/news/2013/03/21/leader-of-the-australian-labor-party-julia-gillard-calls-a-spill-for-all-leadership-positions.md)
 _Context: Julia Gillard, Labor Party, leadership spill_
@@ -56,15 +56,6 @@ The Most Reverend Justin Welby is enthroned as Archbishop of Canterbury, and say
 
 ### [The European Space Agency releases the Planck space observatory's first all-sky map of the cosmic microwave background, the most accurate ever created. It determines that the Universe is older than expected, at 13.82 billion years old. ](/news/2013/03/21/the-european-space-agency-releases-the-planck-space-observatory-s-first-all-sky-map-of-the-cosmic-microwave-background-the-most-accurate-ev.md)
 The Planck space mission has released the most accurate and detailed map ever made of the oldest light in the universe, revealing new information about its age, contents and origins.
-
-### [In snooker, Martin Gould wins 2013 Championship League defeating Ali Carter 3-2 in the final. ](/news/2013/03/21/in-snooker-martin-gould-wins-2013-championship-league-defeating-ali-carter-3a2-in-the-final.md)
-Martin Gould made a century in the deciding frame to beat Ali Carter 3-2 in the final of the Championship League.
-
-### [In speed skating, the 2013 World Single Distance Speed Skating Championships begins today at the Adler Arena Skating Center in Sochi, Russia. ](/news/2013/03/21/in-speed-skating-the-2013-world-single-distance-speed-skating-championships-begins-today-at-the-adler-arena-skating-center-in-sochi-russia.md)
-_Context: 2013 World Single Distance Speed Skating Championships, Adler Arena Skating Center, Russia, Sochi, speed skating_
-
-### [New Jersey Devils goaltender Martin Brodeur is credited with his third NHL goal when Jordan Staal of Carolina Hurricanes accidentally put the puck in his own empty net. ](/news/2013/03/21/new-jersey-devils-goaltender-martin-brodeur-is-credited-with-his-third-nhl-goal-when-jordan-staal-of-carolina-hurricanes-accidentally-put-th.md)
-_Context: Carolina Hurricanes, Jordan Staal, Martin Brodeur, NHL, New Jersey Devils, credited, goaltender_
 
 ## [Previous Day...](/news/2013/03/20/index.md)
 

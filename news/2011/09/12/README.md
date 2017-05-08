@@ -36,8 +36,5 @@ Ex-Conservative peers Lord Taylor of Warwick and Lord Hanningfield are released 
 ### [Bernard Hogan-Howe is named as the new Commissioner of London's Metropolitan Police. ](/news/2011/09/12/bernard-hogan-howe-is-named-as-the-new-commissioner-of-london-s-metropolitan-police.md)
 Bernard Hogan-Howe is named as the new commissioner of the Metropolitan Police.
 
-### [In tennis, Novak Djokovic of Serbia wins the Men's Singles at the 2011 US Open defeating Rafael Nadal of Spain 6-2, 6-4, 6-7 (3-7), 6-1. ](/news/2011/09/12/in-tennis-novak-djokovic-of-serbia-wins-the-men-s-singles-at-the-2011-us-open-defeating-rafael-nadal-of-spain-6-2-6-4-6-7-3-7-6-1.md)
-Live Coverage of the 2011 U.S. Open Tennis Tournament
-
 ## [Previous Day...](/news/2011/09/11/index.md)
 

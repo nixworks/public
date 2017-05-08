@@ -34,16 +34,10 @@ A deal on legislation to ban gun sales to suspected terrorists still looks unlik
 _Context: Canadian  House of Commons, O Canada_
 
 ### [The Philadelphia, Pennsylvania, City Council approves a a 1.5-cent-per-ounce tax on sugar-sweetened and diet beverages, effective January 1, 2017. This the first so-called sugary drinks tax in a major U.S. city.  ](/news/2016/06/15/the-philadelphia-pennsylvania-city-council-approves-a-a-1-5-cent-per-ounce-tax-on-sugar-sweetened-and-diet-beverages-effective-january-1.md)
-_Context: City Council, Pennsylvania, Philadelphia, U.S., sugar-sweetened and diet beverages, sugary drinks tax_
+_Context: City Council, Pennsylvania, Philadelphia, United States, sugar-sweetened and diet beverages, sugary drinks tax_
 
 ### [Scientists  confirm a second detection of gravitational waves by LIGO. ](/news/2016/06/15/scientists-confirm-a-second-detection-of-gravitational-waves-by-ligo.md)
 Following February’s historic announcement, LIGO has again spotted ripples in the fabric of spacetime, from the collision of a second set of black holes
-
-### [Renewed clashes take place between English and Russian football fans in the French city of Lille following Russia's 2-1 defeat against Slovakia. Riot police fired tear gas at England supporters outside Gare de Lille Europe. ](/news/2016/06/15/renewed-clashes-take-place-between-english-and-russian-football-fans-in-the-french-city-of-lille-following-russia-s-2-1-defeat-against-slova.md)
-French riot police use teargas to disperse fans from city’s main square, with dozens arrested and 16 people taken to hospital over course of the day
-
-### [In baseball, Ichiro Suzuki reaches a combined total of career hits of 4,257 spanning Major League Baseball and Nippon Professional Baseball. It passes Pete Rose's career total encompassing Major League Baseball only of 4,256 but the MLB is considered to be a higher quality competition. ](/news/2016/06/15/in-baseball-ichiro-suzuki-reaches-a-combined-total-of-career-hits-of-4-257-spanning-major-league-baseball-and-nippon-professional-baseball.md)
-_Context: Ichiro Suzuki, Major League Baseball, Nippon Professional Baseball, Pete Rose, baseball_
 
 ## [Previous Day...](/news/2016/06/14/index.md)
 

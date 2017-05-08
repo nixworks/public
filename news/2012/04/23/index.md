@@ -43,7 +43,7 @@ Ofcom launches an investigation into email hacking by Sky News after the broadca
 The police chief who chose not to arrest George Zimmerman after he shot and killed Trayvon Martin in Florida sees his offer to resign blocked.
 
 ### [The North Carolina trial of former U.S. Senator and presidential hopeful John Edwards, concerning the use of illegal campaign donations to cover up an affair with a mistress, begins. ](/news/2012/04/23/the-north-carolina-trial-of-former-u-s-senator-and-presidential-hopeful-john-edwards-concerning-the-use-of-illegal-campaign-donations-to-c.md)
-_Context: John Edwards, North Carolina, an affair, senators_
+_Context: John Edwards, North Carolina, United States senators, an affair_
 
 ### [Around 45 people are detained across China in a tainted capsule medicine scandal. ](/news/2012/04/23/around-45-people-are-detained-across-china-in-a-tainted-capsule-medicine-scandal.md)
 _Context: China_
@@ -65,12 +65,6 @@ Venezuelan President Hugo Chavez phones state TV to deny rumours he has died whi
 
 ### [Scientists record what they believe to be the first adult white orca in the wild off the coast of Kamchatka, Russia. ](/news/2012/04/23/scientists-record-what-they-believe-to-be-the-first-adult-white-orca-in-the-wild-off-the-coast-of-kamchatka-russia.md)
 _Context: Kamchatka, Russia, orca_
-
-### [The home and email addresses of the 38,000 entrants to the London Marathon are published on the website of the organisers. ](/news/2012/04/23/the-home-and-email-addresses-of-the-38-000-entrants-to-the-london-marathon-are-published-on-the-website-of-the-organisers.md)
-_Context: London Marathon_
-
-### [Rangers F.C. owner Craig Whyte is banned for life from any involvement in Scottish football while a 12-month transfer embargo is imposed on the club. ](/news/2012/04/23/rangers-f-c-owner-craig-whyte-is-banned-for-life-from-any-involvement-in-scottish-football-while-a-12-month-transfer-embargo-is-imposed-on.md)
-Rangers owner Craig Whyte is banned for life by the SFA, which also hands the club a 12-month transfer embargo.
 
 ## [Previous Day...](/news/2012/04/22/index.md)
 

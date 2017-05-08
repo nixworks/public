@@ -39,8 +39,5 @@ _Context: Russia, St Petersburg, gay pride_
 ### [2013 protests in Brazil: Brazilian president, Dilma Rousseff, experiences a sharp drop in popularity. Only 30 percent of people asked by the Datafolha's opinion poll considered Rousseff's administration "great" or "good". ](/news/2013/06/29/2013-protests-in-brazil-brazilian-president-dilma-rousseff-experiences-a-sharp-drop-in-popularity-only-30-percent-of-people-asked-by-the.md)
 _Context: 2013 protests in Brazil, Datafolha, Dilma Rousseff, opinion poll, popularity_
 
-### [In cycling, the 100th running of the Tour de France gets underway in Corsica. ](/news/2013/06/29/in-cycling-the-100th-running-of-the-tour-de-france-gets-underway-in-corsica.md)
-_Context: 2013 Tour de France, Corsica, Tour de France_
-
 ## [Previous Day...](/news/2013/06/28/index.md)
 

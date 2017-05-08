@@ -51,14 +51,5 @@ The death of Crown Prince Nayef of Saudi Arabia may bring the Saudi royal family
 ### [Blue Gene/Q becomes the world's fastest supercomputer. ](/news/2012/06/18/blue-gene-q-becomes-the-world-s-fastest-supercomputer.md)
 _Context: Blue Gene/Q_
 
-### [UEFA Euro 2012:Italy trash ten-man Ireland to go through to the quarter-finals, with Ireland on their worst run for more than 40 years. ](/news/2012/06/18/uefa-euro-2012-pitaly-trash-ten-man-ireland-to-go-through-to-the-quarter-finals-with-ireland-on-their-worst-run-for-more-than-40-years.md)
-Italy earn the victory they needed against an already eliminated Republic of Ireland to go through to the last eight of Euro 2012.
-
-### [Next season's soccer fixtures:Premier League fixtures are announced, with champions Manchester City kicking off at home against newly promoted Southampton. ](/news/2012/06/18/next-season-s-soccer-fixtures-ppremier-league-fixtures-are-announced-with-champions-manchester-city-kicking-off-at-home-against-newly-promo.md)
-_Context: English Premier League, Manchester City, Southampton_
-
-### [British police investigate tennis player David Nalbandian after yesterday's disqualification from the final of the 2012 AEGON Championships over kicking an advertising board into the left shin of a line judge, seriously injuring him; his opponent, Marin Cilic, who was trailing Nalbandian at the time, was awarded the title and Nalbandian lost the prize money he would have received for finishing as runner-up. ](/news/2012/06/18/british-police-investigate-tennis-player-david-nalbandian-after-yesterday-s-disqualification-from-the-final-of-the-2012-aegon-championships.md)
-_Context: 2012 AEGON Championships, David Nalbandian, Marin Cilic, tennis_
-
 ## [Previous Day...](/news/2012/06/17/index.md)
 

@@ -1,7 +1,7 @@
 ## [2009-02-9](/news/2009/02/9/index.md)
 
 ### [ Ten-year-old Sussex spaniel Clussexx Three D Grinchy Glee wins the 2009 Westminster Kennel Club Dog Show's Best-in-Show Award. ](/news/2009/02/9/ten-year-old-sussex-spaniel-clussexx-three-d-grinchy-glee-wins-the-2009-westminster-kennel-club-dog-show-s-best-in-show-award.md)
-_Context: Best in Show, Clussexx Three D Grinchy Glee, Sussex spaniel, Westminster Kennel Club Dog Show, dog show_
+_Context: Clussexx Three D Grinchy Glee, Sussex spaniel, Westminster Kennel Club Dog Show, dog show, wins_
 
 ### [ Thirty mummies are discovered in a 2,600-year-old ancient Egyptian tomb at Saqqara. ](/news/2009/02/9/thirty-mummies-are-discovered-in-a-2-600-year-old-ancient-egyptian-tomb-at-saqqara.md)
 _Context: Ancient Egypt, Saqqara, mummies, tomb_

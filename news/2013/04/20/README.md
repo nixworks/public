@@ -10,7 +10,7 @@ A magnitude 6.6 earthquake has hit south-western China, killing at least 192 peo
 Get the latest breaking news across the U.S. on ABCNews.com
 
 ### [In southern California, United States, 200 residents are evacuated due to a brush fire. ](/news/2013/04/20/in-southern-california-united-states-200-residents-are-evacuated-due-to-a-brush-fire.md)
-_Context: California, U.S., brush fire_
+_Context: California, United States, brush fire_
 
 ### [Five people are killed and 17 are injured in Vail, Arizona, United States, when a car accident occurs during a U.S. Border Patrol pursuit. ](/news/2013/04/20/five-people-are-killed-and-17-are-injured-in-vail-arizona-united-states-when-a-car-accident-occurs-during-a-u-s-border-patrol-pursuit.md)
 TUCSON -- At least five people were killed and 17 injured when a van crashed during a border patrol pursuit, Pima County Rural/Metro Fire Chief Willie Treatch said Sunday. The incident happened late...
@@ -38,24 +38,6 @@ The launch, which may be visible from the District, has been rescheduled for Sun
 
 ### [A study finds that men who wear kilts and no underwear have higher sperm counts than men who sport underwear. ](/news/2013/04/20/a-study-finds-that-men-who-wear-kilts-and-no-underwear-have-higher-sperm-counts-than-men-who-sport-underwear.md)
 _Context: kilt, sperm, underwear_
-
-### [In snooker, the 2013 World Snooker Championship begins in Sheffield, England. Defending champion Ronnie O'Sullivan takes part after one-year break. ](/news/2013/04/20/in-snooker-the-2013-world-snooker-championship-begins-in-sheffield-england-defending-champion-ronnie-o-sullivan-takes-part-after-one-year.md)
-_Context: 2013 World Snooker Championship, Ronnie O'Sullivan, Sheffield, Snooker, champion_
-
-### [In Formula One, Germany's Nico Rosberg wins qualifying for the 2013 Bahrain Grand Prix, the fourth stage of the 2013 Formula One season. ](/news/2013/04/20/in-formula-one-germany-s-nico-rosberg-wins-qualifying-for-the-2013-bahrain-grand-prix-the-fourth-stage-of-the-2013-formula-one-season.md)
-_Context: 2013 Bahrain Grand Prix, 2013 Formula One season, Formula One, Nico Rosberg_
-
-### [In sledge hockey, Canada wins the 2013 IPC Ice Sledge Hockey World Championships defeating the United States 1-0 in the final. ](/news/2013/04/20/in-sledge-hockey-canada-wins-the-2013-ipc-ice-sledge-hockey-world-championships-defeating-the-united-states-1a0-in-the-final.md)
-Graeme Murray scored the lone goal for Canada in a 1-0 gold-medal victory over the United States on Saturday at the IPC Sledge Hockey World Championship in Goyang, South Korea on Saturday.
-
-### [In ice hockey, Kazakhstan and Italy win the 2013 IIHF World Championship Division I and will be promoted to the 2014 IIHF World Championship. ](/news/2013/04/20/in-ice-hockey-kazakhstan-and-italy-win-the-2013-iihf-world-championship-division-i-and-will-be-promoted-to-the-2014-iihf-world-championship.md)
-_Context: 2013 IIHF World Championship Division I, 2014 IIHF World Championship, Italy, Kazakhstan, ice hockey_
-
-### [UFC on Fox: Henderson vs. Melendez: Benson Henderson narrowly defeats Gilbert Melendez to retain his lightweight UFC title. ](/news/2013/04/20/ufc-on-fox-henderson-vs-melendez-benson-henderson-narrowly-defeats-gilbert-melendez-to-retain-his-lightweight-ufc-title.md)
-Benson Henderson earned a rugged, split decision over Gilbert Melendez -- then proposed to his girlfriend -- in the UFC on Fox 7 main event Saturday.
-
-### [Michigan wins the men's NCAA gymnastics title, Florida takes the women's title. ](/news/2013/04/20/michigan-wins-the-men-s-ncaa-gymnastics-title-florida-takes-the-women-s-title.md)
-_Context: Florida, Michigan, NCAA, gymnastics_
 
 ## [Previous Day...](/news/2013/04/19/index.md)
 

@@ -45,8 +45,5 @@ _Context: Democratic United Party, Moon Jae-in, Park Geun-hye, Saenuri Party, So
 ### [The Russian Soyuz TMA-07M spacecraft launches from the Baikonur Cosmodrome in Kazakhstan, carrying Roman Romanenko, Chris Hadfield and Thomas Marshburn for the ISS Expedition 34 and 35 crews. ](/news/2012/12/19/the-russian-soyuz-tma-07m-spacecraft-launches-from-the-baikonur-cosmodrome-in-kazakhstan-carrying-roman-romanenko-chris-hadfield-and-thoma.md)
 _Context: Baikonur Cosmodrome, Chris Hadfield, Expedition 34, Expedition 35, ISS, Kazakhstan, Roman Romanenko, Russia, Soyuz TMA-07M, Thomas Marshburn_
 
-### [FC Barcelona coach Tito Vilanova will have surgery, followed by chemotherapy and radiotherapy over the next six weeks, after the relapse of a cancer in the salivary gland. Assistant manager Jordi Roura will lead FC Barcelona in the head manager's stead. ](/news/2012/12/19/fc-barcelona-coach-tito-vilanova-will-have-surgery-followed-by-chemotherapy-and-radiotherapy-over-the-next-six-weeks-after-the-relapse-of.md)
-FC Barcelona coach Tito Vilanova will have surgery, followed by chemotherapy and radiotherapy over the next six weeks, after the relapse of a cancer in the salivary gland.
-
 ## [Previous Day...](/news/2012/12/18/index.md)
 

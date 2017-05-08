@@ -55,7 +55,7 @@ _Context: Pakistan, Pakistan Army, Taliban, Waziristan War, convoy_
 _Context: United Nations, climate change, greenhouse gas_
 
 ### [ Republican Senator John Warner announces that he will not seek re-election to the United States Senate. ](/news/2007/08/31/republican-senator-john-warner-announces-that-he-will-not-seek-re-election-to-the-united-states-senate.md)
-_Context: John Warner, R, senators_
+_Context: John Warner, R, United States senators_
 
 ### [ Two Egyptian students at the University of South Florida are indicted for carrying explosive materials across state lines with one indicted for terrorism charges. ](/news/2007/08/31/two-egyptian-students-at-the-university-of-south-florida-are-indicted-for-carrying-explosive-materials-across-state-lines-with-one-indicted.md)
 _Context: Egypt, University of South Florida, border, terrorism_

@@ -51,14 +51,5 @@ The prime minister has called for MPs to support Lords reform, as a Bill to crea
 ### [The U.S. Food and Drug Administration (FDA) approves weight loss drug lorcaserin, the first such drug approved since 1999. ](/news/2012/06/27/the-u-s-food-and-drug-administration-fda-approves-weight-loss-drug-lorcaserin-the-first-such-drug-approved-since-1999.md)
 _Context: FDA, lorcaserin_
 
-### [UEFA Euro 2012:Spain beat Portugal in a penalty shoot-out, with Fabregas as game winner, to go through to Sunday's final in Kiev. ](/news/2012/06/27/uefa-euro-2012-pspain-beat-portugal-in-a-penalty-shoot-out-with-fa-bregas-as-game-winner-to-go-through-to-sunday-s-final-in-kiev.md)
-Cesc Fabregas is the hero again as Spain keep alive their hopes of defending their European title with a dramatic shootout win over Portugal.
-
-### [In professional basketball, the Indiana Pacers team president Larry Bird resigns, with Donnie Walsh being named to replace him. ](/news/2012/06/27/in-professional-basketball-the-indiana-pacers-team-president-larry-bird-resigns-with-donnie-walsh-being-named-to-replace-him.md)
-Larry Bird is calling it quits with the Indiana Pacers.
-
-### [In professional ice hockey, the Edmonton Oilers name associate coach Ralph Krueger as the team's tenth head coach in franchise history. ](/news/2012/06/27/in-professional-ice-hockey-the-edmonton-oilers-name-associate-coach-ralph-krueger-as-the-team-s-tenth-head-coach-in-franchise-history.md)
-_Context: Edmonton Oilers, Ralph Krueger_
-
 ## [Previous Day...](/news/2012/06/26/index.md)
 

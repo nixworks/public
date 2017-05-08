@@ -19,25 +19,13 @@ _Context: Almaty, Bombardier CRJ200, Kazakhstan, SCAT Air, crashes_
 A Ukrainian court convicts a former police surveillance chief of killing journalist Georgy Gongadze in 2000, a crime which rocked the country.
 
 ### [The United States Senate confirms John Kerry to become United States Secretary of State by a vote of 94-3. Kerry succeeds outgoing Secretary Hillary Clinton on February 1. ](/news/2013/01/29/the-united-states-senate-confirms-john-kerry-to-become-united-states-secretary-of-state-by-a-vote-of-94a3-kerry-succeeds-outgoing-secreta.md)
-_Context: Hillary Clinton, John Kerry, U.S., United States Secretary of State, senators_
+_Context: Hillary Clinton, John Kerry, United States, United States Secretary of State, United States senators_
 
 ### [UK government plans to redraw constituency boundaries before the next general election are defeated in the House of Commons by 334 to 292. ](/news/2013/01/29/uk-government-plans-to-redraw-constituency-boundaries-before-the-next-general-election-are-defeated-in-the-house-of-commons-by-334-to-292.md)
 Government plans to redraw constituency boundaries before 2015, which split Tories and Lib Dems, are defeated in the House of Commons.
 
 ### [Google expands its Google Maps map data coverage of North Korea for what has been blank on most of that country satellite images on its search engine. ](/news/2013/01/29/google-expands-its-google-maps-map-data-coverage-of-north-korea-for-what-has-been-blank-on-most-of-that-country-satellite-images-on-its-sear.md)
 _Context: Google, Google Maps, North Korea, satellite images, search engine_
-
-### [The 15-page article published by French football magazine ''France Football'' and titled ''The Qatargate'' reveals evidence pointing towards Qatar buying the right to host the 2022 FIFA World Cup. ](/news/2013/01/29/the-15-page-article-published-by-french-football-magazine-france-football-and-titled-the-qatargate-reveals-evidence-pointing-towards.md)
-_Context: 2022 FIFA World Cup, France, France Football, Qatar, association football_
-
-### [A.C. Milan says it has reached an agreement with Manchester City F.C. to sign Italian striker Mario Balotelli. ](/news/2013/01/29/a-c-milan-says-it-has-reached-an-agreement-with-manchester-city-f-c-to-sign-italian-striker-mario-balotelli.md)
-Manchester City have agreed to sell Italian striker Mario Balotelli to AC Milan for a fee of £20 million to be paid over five years
-
-### [The ''Miami New Times'' reports that Biogenesis, a Miami anti-aging clinic that closed in December 2012, sold a wide array of performance-enhancing drugs to several prominent Major League Baseball players, among them Alex Rodriguez, Melky Cabrera, Nelson Cruz, and Gio Gonzalez. ](/news/2013/01/29/the-miami-new-times-reports-that-biogenesis-a-miami-anti-aging-clinic-that-closed-in-december-2012-sold-a-wide-array-of-performance-en.md)
-Records from an anti-aging clinic in Miami list the names of baseball players -- including Alex Rodriguez, Melky Cabrera and Gio Gonzalez -- and detail PEDs administered to them and others, according to a report by Miami New Times.
-
-### [According to a report in ''Sports Illustrated'', Baltimore Ravens linebacker Ray Lewis used the supplement deer-antler spray (containing a dilute solution of IGF-1 which has been banned by the NFL) to aid his recovery from a torn triceps. Lewis has denied using the substance. The report also alleges that members of the Alabama Crimson Tide used the substance before the 2012 BCS National Championship Game against the LSU Tigers. ](/news/2013/01/29/according-to-a-report-in-sports-illustrated-baltimore-ravens-linebacker-ray-lewis-used-the-supplement-deer-antler-spray-containing-a-d.md)
-_Context: 2012 BCS National Championship Game, Alabama Crimson Tide, Baltimore Ravens, IGF-1, LSU Tigers, National Football League, Ray Lewis, Sports Illustrated, deer-antler spray, linebacker, triceps_
 
 ## [Previous Day...](/news/2013/01/28/index.md)
 

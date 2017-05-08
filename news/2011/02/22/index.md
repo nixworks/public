@@ -13,7 +13,7 @@ _Context: 2010-2011 Algerian protests, state of emergency_
 Iranian security forces have arrested a son of opposition leader Mehdi Karoubi, his website reported on Tuesday.
 
 ### [Jamaican reggae singer Buju Banton is found guilty on drugs charges in the U.S. state of Florida. ](/news/2011/02/22/jamaican-reggae-singer-buju-banton-is-found-guilty-on-drugs-charges-in-the-u-s-state-of-florida.md)
-_Context: Buju Banton, FL, Jamaica, drugs, reggae_
+_Context: Buju Banton, Florida, Jamaica, drugs, reggae_
 
 ### [Moody's Investors Service downgrades Japan's credit rating due to concerns over high levels of government debt. ](/news/2011/02/22/moody-s-investors-service-downgrades-japan-s-credit-rating-due-to-concerns-over-high-levels-of-government-debt.md)
 _Context: Japan, Moody's, credit rating, government debt_

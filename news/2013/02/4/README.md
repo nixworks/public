@@ -31,7 +31,7 @@ _Context: Areva, France, Mahamadou Issoufou, Niger, President of Niger, uranium 
 Ex-cabinet minister Chris Huhne resigns as an MP after admitting he perverted the course of justice over claims his ex-wife took speeding points for him.
 
 ### [Three people are injured after a stabbing on a subway platform in the Parsons/Archer subway station in Queens, New York City, United States. ](/news/2013/02/4/three-people-are-injured-after-a-stabbing-on-a-subway-platform-in-the-parsons-archer-subway-station-in-queens-new-york-city-united-states.md)
-_Context: New York's, Parsons/Archer subway station, Queens, U.S._
+_Context: New York's, Parsons/Archer subway station, Queens, United States_
 
 ### [The death of Jimmy Lee Dykes results in the end of the 2013 Alabama bunker hostage crisis. ](/news/2013/02/4/the-death-of-jimmy-lee-dykes-results-in-the-end-of-the-2013-alabama-bunker-hostage-crisis.md)
 Authorities rescue five-year-old boy held in a bunker for seven days.
@@ -47,15 +47,6 @@ _Context: 2014 Winter Olympics, Black Sea, G8 group of nations, Russia, Russian 
 
 ### [In the Liechtenstein parliamentary election the Progressive Citizens' Party wins a plurality of seats in the Landtag. ](/news/2013/02/4/in-the-liechtenstein-parliamentary-election-the-progressive-citizens-party-wins-a-plurality-of-seats-in-the-landtag.md)
 _Context: Landtag, Liechtenstein, Progressive Citizens' Party, parliamentary election_
-
-### [Europol announces that a total of 680 football matches are under investigation for match fixing.  Of these, 380 are in Europe, including World Cup and European Championship qualifying matches as well as Champions League matches in England.  ](/news/2013/02/4/europol-announces-that-a-total-of-680-football-matches-are-under-investigation-for-match-fixing-of-these-380-are-in-europe-including-wor.md)
-A Champions League tie played in England is one of 680 matches investigators believe was fixed by a crime syndicate.
-
-### [Italian football club Palermo fires coach Gian Piero Gasperini following a disappointing run of form in the 2012-13 Serie A. ](/news/2013/02/4/italian-football-club-palermo-fires-coach-gian-piero-gasperini-following-a-disappointing-run-of-form-in-the-2012a13-serie-a.md)
-The official site of the international governing body of football with news, national associations, competitions, results, fixtures, development, organisation, world rankings, statistics, the International Football Association Board, history, laws of the game, futsal, publications, downloads, and contact details.
-
-### [Former Sevilla coach Michel appointed as new manager of Greek football club Olympiacos. ](/news/2013/02/4/former-sevilla-coach-machel-appointed-as-new-manager-of-greek-football-club-olympiacos.md)
-The official site of the international governing body of football with news, national associations, competitions, results, fixtures, development, organisation, world rankings, statistics, the International Football Association Board, history, laws of the game, futsal, publications, downloads, and contact details.
 
 ## [Previous Day...](/news/2013/02/3/index.md)
 

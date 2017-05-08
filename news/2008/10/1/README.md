@@ -4,7 +4,7 @@
 _Context: Bolshevik, Nicholas II, Romanov, Russia, Supreme Court of Russia, imperial dynasty_
 
 ### [ The United States Senate passes the civilian nuclear agreement with India by a vote of 86-13. India has not signed the Non-Proliferation Treaty, but may now undertake nuclear trade to the States ](/news/2008/10/1/the-united-states-senate-passes-the-civilian-nuclear-agreement-with-india-by-a-vote-of-86a13-india-has-not-signed-the-non-proliferation.md)
-_Context: India, Nuclear Non-Proliferation Treaty, U.S., civilian nuclear agreement, senators_
+_Context: India, Nuclear Non-Proliferation Treaty, United States, United States senators, civilian nuclear agreement_
 
 ### [ The National Transportation Safety Board reports that a Metrolink engineer sent a text message 22 seconds before the Chatsworth train collision in Los Angeles, California, that killed 25 people. ](/news/2008/10/1/the-national-transportation-safety-board-reports-that-a-metrolink-engineer-sent-a-text-message-22-seconds-before-the-chatsworth-train-colli.md)
 _Context: California, Chatsworth train collision, Los Angeles, California, Metrolink, National Transportation Safety Board, text message_

@@ -42,8 +42,5 @@ _Context: 2016 U.S. presidential election, Donald Trump, Governor, John Kasich, 
 ### [IBM allows the public to access a five-qubit quantum computer its researchers have developed in Yorktown Heights, New York. ](/news/2016/05/4/ibm-allows-the-public-to-access-a-five-qubit-quantum-computer-its-researchers-have-developed-in-yorktown-heights-new-york.md)
 Quantum computing is computing at its most esoteric. But by sharing its prototype with the world at large, IBM hopes to change that.
 
-### [Real Madrid beat Manchester City 1&ndash;0 to set-up a UEFA Champions League Final against city rivals Atletico Madrid on May 28, in Milan, Italy. It will be a repeat of the 2014 UEFA Champions League Final. ](/news/2016/05/4/real-madrid-beat-manchester-city-1-ndash-0-to-set-up-a-uefa-champions-league-final-against-city-rivals-atla-c-tico-madrid-on-may-28-in-milan.md)
-_Context: 2014 UEFA Champions League Final, 2015-16 UEFA Champions League, Atletico Madrid, Manchester City, Milan, Italy, Real Madrid, UEFA Champions League Final, city rivals_
-
 ## [Previous Day...](/news/2016/05/3/index.md)
 

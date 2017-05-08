@@ -21,11 +21,5 @@ _Context: Pedro Sanchez, Socialist Workers' Party_
 ### [The Obama administration through the United States Department of Commerce transfers oversight of the technical management of the Internet by the Internet Corporation for Assigned Names and Numbers to an international consortium of stakeholders. ](/news/2016/10/1/the-obama-administration-through-the-united-states-department-of-commerce-transfers-oversight-of-the-technical-management-of-the-internet-by.md)
 _Context: Internet, Internet Corporation for Assigned Names and Numbers, Obama Administration, U.S. Commerce Department_
 
-### [Dublin defeats Mayo in the 2016 All-Ireland Senior Football Championship Final, retaining the Sam Maguire Cup for the first time since 1977. ](/news/2016/10/1/dublin-defeats-mayo-in-the-2016-all-ireland-senior-football-championship-final-retaining-the-sam-maguire-cup-for-the-first-time-since-1977.md)
-Defending champions Dublin held out a strong Mayo side to claim their 26th All-Ireland title by a single point, winning 1-15 to 1-14.
-
-### [In Australian Rules football, the Western Bulldogs defeat the Sydney Swans to win their first premiership since 1954. ](/news/2016/10/1/in-australian-rules-football-the-western-bulldogs-defeat-the-sydney-swans-to-win-their-first-premiership-since-1954.md)
-Grand finals are often decided by the little moments, and in 2016 it was the Western Bulldogs who came up trumps. Relive the magic moments that made the difference for the Dogs.
-
 ## [Previous Day...](/news/2016/09/30/index.md)
 

@@ -45,8 +45,5 @@ _Context: Prime Minister_
 ### [A new coalition government takes office in Finland, the first led by a Swedish-speaking Finn since 1959. ](/news/2014/06/24/a-new-coalition-government-takes-office-in-finland-the-first-led-by-a-swedish-speaking-finn-since-1959.md)
 _Context: Swedish-speaking Finn, coalition government_
 
-### [In ice hockey, Sidney Crosby, captain of the Pittsburgh Penguins, wins both the Hart Memorial Trophy and the Ted Lindsay Award for most valuable player as voted by the media and National Hockey League Players' Association, respectively. ](/news/2014/06/24/in-ice-hockey-sidney-crosby-captain-of-the-pittsburgh-penguins-wins-both-the-hart-memorial-trophy-and-the-ted-lindsay-award-for-most-valu.md)
-The official National Hockey League website including news, rosters, stats, schedules, teams, and video.
-
 ## [Previous Day...](/news/2014/06/23/index.md)
 

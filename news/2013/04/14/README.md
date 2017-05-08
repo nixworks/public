@@ -4,7 +4,7 @@
 At least 19 people are killed in bomb and gun attacks in the Somali capital Mogadishu, including an assault on the main courts.
 
 ### [War in North-West Pakistan:A drone attack conducted by the United States kills at least five people in Datta Khel, North Waziristan, Pakistan. ](/news/2013/04/14/war-in-north-west-pakistan-pa-drone-attack-conducted-by-the-united-states-kills-at-least-five-people-in-datta-khel-north-waziristan-pakist.md)
-_Context: Datta Khel, North Waziristan, Pakistan, U.S., War in North-West Pakistan, drones launch_
+_Context: Datta Khel, North Waziristan, Pakistan, United States, War in North-West Pakistan, drones launch_
 
 ### [At least 33 people die when a bus tumbles into a river near Trujillo, Peru. ](/news/2013/04/14/at-least-33-people-die-when-a-bus-tumbles-into-a-river-near-trujillo-peru.md)
 _Context: Peru, Trujillo, bus_
@@ -26,30 +26,6 @@ _Context: Croatia, European Parliament, European Union, MP, country's first ever
 
 ### [Justin Trudeau, son of former Canadian Prime Minister Pierre Trudeau, is chosen as the new leader of the Liberal Party of Canada. ](/news/2013/04/14/justin-trudeau-son-of-former-canadian-prime-minister-pierre-trudeau-is-chosen-as-the-new-leader-of-the-liberal-party-of-canada.md)
 _Context: Canada, Canadian Prime Minister, Justin Trudeau, Liberal Party's, Pierre Trudeau_
-
-### [Manchester City will meet Wigan Athletic in the 2012-13 FA Cup Final after winning the semi-final against Chelsea 2-1 at Wembley Stadium. ](/news/2013/04/14/manchester-city-will-meet-wigan-athletic-in-the-2012a13-fa-cup-final-after-winning-the-semi-final-against-chelsea-2a1-at-wembley-stadium.md)
-Manchester City overcome Chelsea to book an FA Cup final date with Wigan Athletic on 11 May.
-
-### [In the 2012-13  Serie A, Milan and Napoli play out an entertaining 1-1 draw at San Siro in a battle for an automatic Champions League spot. ](/news/2013/04/14/in-the-2012a13-serie-a-milan-and-napoli-play-out-an-entertaining-1a1-draw-at-san-siro-in-a-battle-for-an-automatic-champions-league-sp.md)
-_Context: 2012-13  Serie A, Milan, Milan, Italy, Napoli, UEFA Champions League_
-
-### [In the 2013 Formula One season, Fernando Alonso of Scuderia Ferrari wins the 2013 Chinese Grand Prix ahead of Kimi Raikkonen and Lewis Hamilton. ](/news/2013/04/14/in-the-2013-formula-one-season-fernando-alonso-of-scuderia-ferrari-wins-the-2013-chinese-grand-prix-ahead-of-kimi-ra-ikkapnen-and-lewis-ham.md)
-_Context: 2013 Chinese Grand Prix, 2013 Formula One season, Fernando Alonso, Formula One, Kimi Raikkonen, Lewis Hamilton, Scuderia Ferrari_
-
-### [France's Sebastien Ogier at the wheel of his Volkswagen Polo R WRC wins the 2013 Rally de Portugal, the fourth stage of the 2013 WRC season. ](/news/2013/04/14/france-s-sa-c-bastien-ogier-at-the-wheel-of-his-volkswagen-polo-r-wrc-wins-the-2013-rally-de-portugal-the-fourth-stage-of-the-2013-wrc-season.md)
-Sebastien Ogier wrapped up his third straight World Rally Championship victory with an assured, and yet sometimes fraught, performance in Portugal.
-
-### [In road bicycle racing, Czech racer Roman Kreuziger wins 2013 Amstel Gold Race, the 11th race of the 2013 UCI World Tour. ](/news/2013/04/14/in-road-bicycle-racing-czech-racer-roman-kreuziger-wins-2013-amstel-gold-race-the-11th-race-of-the-2013-uci-world-tour.md)
-_Context: 2013 Amstel Gold Race, 2013 UCI World Tour, Czech, Roman Kreuziger, road bicycle racing_
-
-### [In weightlifting, Russia wins the medal table of the 2013 European Weightlifting Championships that ended in Tirana, Albania. ](/news/2013/04/14/in-weightlifting-russia-wins-the-medal-table-of-the-2013-european-weightlifting-championships-that-ended-in-tirana-albania.md)
-_Context: 2013 European Weightlifting Championships, Albania, Olympic weightlifters, Russia, Tirana_
-
-### [In golf, Adam Scott becomes the first Australian to win the Masters Tournament by defeating Angel Cabrera in a sudden-death final. ](/news/2013/04/14/in-golf-adam-scott-becomes-the-first-australian-to-win-the-masters-tournament-by-defeating-angel-cabrera-in-a-sudden-death-final.md)
-_Context: Adam Scott, Angel Cabrera, Australian, Masters Tournament, golf, win_
-
-### [In figure skating, the United States win the 2013 ISU World Team Trophy in Figure Skating in Tokyo ahead of Canada and Japan. ](/news/2013/04/14/in-figure-skating-the-united-states-win-the-2013-isu-world-team-trophy-in-figure-skating-in-tokyo-ahead-of-canada-and-japan.md)
-_Context: 2013 ISU World Team Trophy in Figure Skating, Canada, Japan, Tokyo, U.S., figure skater_
 
 ## [Previous Day...](/news/2013/04/13/index.md)
 

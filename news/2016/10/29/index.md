@@ -27,8 +27,5 @@ Parliament in Spain votes to allow Mariano Rajoy to lead a minority government, 
 ### [ With about 25 percent of the votes counted,  the Independence Party is receiving about 30 percent of the ballots cast.  The Pirate Party, which led in most of this month's polls, is getting about 13 percent.  ](/news/2016/10/29/with-about-25-percent-of-the-votes-counted-the-independence-party-is-receiving-about-30-percent-of-the-ballots-cast-the-pirate-party-w.md)
 REYKJAVIK, Iceland (AP) — Iceland looked likely to steer away from a Pirate takeover Sunday, as voters favored the incumbent Independence Party over the upstart band of buccaneers advocating direct democracy and Internet…
 
-### [In baseball, the Hokkaido Nippon-Ham Fighters defeat the Hiroshima Toyo Carp to win the Japan Series.  ](/news/2016/10/29/in-baseball-the-hokkaido-nippon-ham-fighters-defeat-the-hiroshima-toyo-carp-to-win-the-japan-series.md)
-A pitcher getting it done on the mound and at the plate helped the Hokkaido Nippon Ham Fighters bring home a championship, just like everyone expected. Not
-
 ## [Previous Day...](/news/2016/10/28/index.md)
 

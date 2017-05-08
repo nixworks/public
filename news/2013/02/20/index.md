@@ -39,11 +39,5 @@ Sony announces the fourth generation of its PlayStation games console featuring 
 ### [NASA reports the discovery of Kepler-37b, the smallest exoplanet yet known. ](/news/2013/02/20/nasa-reports-the-discovery-of-kepler-37b-the-smallest-exoplanet-yet-known.md)
 _Context: Kepler-37b, NASA, exoplanet_
 
-### [AC Milan defeat FC Barcelona 2-0 in the first leg of the 2012-13 UEFA Champions League round of 16, while Galatasaray S.K. and FC Schalke 04 draw 1-1. ](/news/2013/02/20/ac-milan-defeat-fc-barcelona-2a0-in-the-first-leg-of-the-2012a13-uefa-champions-league-round-of-16-while-galatasaray-s-k-and-fc-schalk.md)
-Kevin-Prince Boateng and Sulley Muntari goals give AC Milan the advantage as they surprise Barcelona in the first leg of their Champions League tie.
-
-### [Lindy Ruff, the active longest tenured coach in the National Hockey League is fired by the Buffalo Sabres after serving as the team's head coach for fifteen seasons. Ruff leaves the Sabres as the franchise's all time leader in wins and games coached. Ruff's 571 victories with the Sabres, rank second to Al Arbour's 709 with the New York Islanders. ](/news/2013/02/20/lindy-ruff-the-active-longest-tenured-coach-in-the-national-hockey-league-is-fired-by-the-buffalo-sabres-after-serving-as-the-team-s-head-c.md)
-_Context: Al Arbour, Buffalo Sabres, Lindy Ruff, NHL, New York Islanders_
-
 ## [Previous Day...](/news/2013/02/19/index.md)
 

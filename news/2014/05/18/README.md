@@ -24,14 +24,5 @@ More than 3,000 Chinese nationals have been evacuated from Vietnam, state news a
 ### [Voters in Switzerland resoundingly reject a proposed law change that would have given that country the world's highest minimum wage. ](/news/2014/05/18/voters-in-switzerland-resoundingly-reject-a-proposed-law-change-that-would-have-given-that-country-the-world-s-highest-minimum-wage.md)
 _Context: Swiss, minimum wage reform, proposed law change_
 
-### [Professional golfer Adam Scott takes over Tiger Woods' No. 1 spot in the Official World Golf Ranking. ](/news/2014/05/18/professional-golfer-adam-scott-takes-over-tiger-woods-no-1-spot-in-the-official-world-golf-ranking.md)
-_Context: Adam Scott, No. 1 spot in the Official World Golf Ranking, Tiger Woods_
-
-### [In basketball, Maccabi Tel Aviv wins its sixth Euroleague championship. ](/news/2014/05/18/in-basketball-maccabi-tel-aviv-wins-its-sixth-euroleague-championship.md)
-_Context: Euroleague, Maccabi Tel Aviv, basketball, sixth_
-
-### [In football, River Plate defeats Quilmes 5-0 to secure its 35th championship in the Argentine Primera Division. ](/news/2014/05/18/in-football-river-plate-defeats-quilmes-5-0-to-secure-its-35th-championship-in-the-argentine-primera-divisia3n.md)
-_Context: 35th, Argentine Primera Division, Quilmes, River Plate, association football_
-
 ## [Previous Day...](/news/2014/05/17/index.md)
 

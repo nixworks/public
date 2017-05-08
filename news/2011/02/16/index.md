@@ -28,7 +28,7 @@ By Madeleine Cowley LONDON (Reuters Life!) - Ancient Britons devoured their dead
 _Context: Axel A. Weber, Deutsche Bundesbank, Jens Weidmann_
 
 ### [Borders Group, the second largest bookstore chain in the United States, files for bankruptcy with plans to sell at least 200 stores. ](/news/2011/02/16/borders-group-the-second-largest-bookstore-chain-in-the-united-states-files-for-bankruptcy-with-plans-to-sell-at-least-200-stores.md)
-_Context: Borders Group, U.S., bankruptcy_
+_Context: Borders Group, United States, bankruptcy_
 
 ### [The Northern Territory Emergency Service in the north of Australia warns residents in low-lying coastal areas including in the capital Darwin ahead of Tropical Cyclone Carlos. ](/news/2011/02/16/the-northern-territory-emergency-service-in-the-north-of-australia-warns-residents-in-low-lying-coastal-areas-including-in-the-capital-darwi.md)
 _Context: Australia, Darwin, Northern Territory, Tropical Cyclone Carlos_
@@ -68,9 +68,6 @@ _Context: Brad Rutter, IBM, Jeopardy!, Ken Jennings, Watson, Wikipedia, artifici
 
 ### [It is announced that people who suffer from Laron syndrome have a gene that inhibits cancer. ](/news/2011/02/16/it-is-announced-that-people-who-suffer-from-laron-syndrome-have-a-gene-that-inhibits-cancer.md)
 _Context: Laron syndrome_
-
-### [Lance Armstrong officially announces his retirement from professional cycling, again. ](/news/2011/02/16/lance-armstrong-officially-announces-his-retirement-from-professional-cycling-again.md)
-_Context: Lance Armstrong, cycling_
 
 ## [Previous Day...](/news/2011/02/15/index.md)
 

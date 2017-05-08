@@ -42,11 +42,5 @@ Yangon, Nov 22 (DPA) The second son of Nobel peace laureate Aung San Suu Kyi has
 ### [Minoru Yanagida resigns as the Japanese Minister of Justice for joking about how easy his job was. ](/news/2010/11/22/minoru-yanagida-resigns-as-the-japanese-minister-of-justice-for-joking-about-how-easy-his-job-was.md)
 _Context: Minister of Justice, Minoru Yanagida_
 
-### [Canadian baseball player Joey Votto of the Cincinnati Reds wins Most Valuable Player of the National League in Major League Baseball in an almost unanimous vote. ](/news/2010/11/22/canadian-baseball-player-joey-votto-of-the-cincinnati-reds-wins-most-valuable-player-of-the-national-league-in-major-league-baseball-in-an-a.md)
-_Context: Cincinnati Reds, Joey Votto, Major League Baseball, Most Valuable Player, National League_
-
-### [Brad Childress is sacked as head coach of the Minnesota Vikings National Football League team. ](/news/2010/11/22/brad-childress-is-sacked-as-head-coach-of-the-minnesota-vikings-national-football-league-team.md)
-_Context: Brad Childress, Minnesota Vikings, National Football League_
-
 ## [Previous Day...](/news/2010/11/21/index.md)
 

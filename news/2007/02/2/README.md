@@ -22,7 +22,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Intergovernmental Panel on Climate Change, fourth assessment report, global climate change_
 
 ### [ Storms hit Florida during the early morning hours, forecasters suspect tornadoes as the cause. At least 20 fatalities are reported from the storm. ](/news/2007/02/2/storms-hit-florida-during-the-early-morning-hours-forecasters-suspect-tornadoes-as-the-cause-at-least-20-fatalities-are-reported-from-the.md)
-_Context: FL, Storms hit, tornadoes_
+_Context: Florida, Storms hit, tornadoes_
 
 ### [ Tongan MP Clive Williams is arrested and charged with sedition arising from the 2006 Tonga riots. Williams had earlier claimed that Tongan soldiers had beaten hundreds of people following the riots. ](/news/2007/02/2/tongan-mp-clive-williams-is-arrested-and-charged-with-sedition-arising-from-the-2006-tonga-riots-williams-had-earlier-claimed-that-tongan.md)
 _Context: 2006 riots, Tonga_

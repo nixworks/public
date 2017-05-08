@@ -64,7 +64,7 @@ A Chinese-born US geologist loses his appeal against an eight-year sentence in C
 _Context: Ergenekon, Turkey, Turkish government, dissident_
 
 ### [A McCann family spokesman insists reports that Madeleine McCann was taken to the United States after being snatched during a family holiday in Portugal must be treated with caution. ](/news/2011/02/18/a-mccann-family-spokesman-insists-reports-that-madeleine-mccann-was-taken-to-the-united-states-after-being-snatched-during-a-family-holiday.md)
-_Context: Madeleine McCann, Portuguese, U.S._
+_Context: Madeleine McCann, Portuguese, United States_
 
 ### [New Caledonia's coalition government collapses after the pro-independence Caledonian Union party withdraws its support for President Philippe Gomes in a dispute over the use of New Caledonian flags. ](/news/2011/02/18/new-caledonia-s-coalition-government-collapses-after-the-pro-independence-caledonian-union-party-withdraws-its-support-for-president-philipp.md)
 _Context: Caledonian Union, New Caledonia, New Caledonian flags, Philippe Gomes, President of New Caledonia, coalition government_
@@ -73,7 +73,7 @@ _Context: Caledonian Union, New Caledonia, New Caledonian flags, Philippe Gomes,
 Museveni confident of a fourth term while opposition threatens mass protests if vote is deemed to be rigged.
 
 ### [The ''Washington Post'' reports that United States Senator Jeff Bingaman of New Mexico will announce that he will not contest the 2012 Senate election for New Mexico. ](/news/2011/02/18/the-washington-post-reports-that-united-states-senator-jeff-bingaman-of-new-mexico-will-announce-that-he-will-not-contest-the-2012-senat.md)
-_Context: 2012 Senate election for New Mexico, Jeff Bingaman, New Mexico, Senator, U.S., Washington Post_
+_Context: 2012 Senate election for New Mexico, Jeff Bingaman, New Mexico, Senator, United States, Washington Post_
 
 ### [The Obama administration rescinds most of a regulation designed to protect health care workers who refuse to provide a service that they find objectionable but retains protections against performing abortions when you have strong anti-abortion convictions. ](/news/2011/02/18/the-obama-administration-rescinds-most-of-a-regulation-designed-to-protect-health-care-workers-who-refuse-to-provide-a-service-that-they-fin.md)
 _Context: Obama Administration, abortion, health care, regulation_
@@ -86,9 +86,6 @@ _Context: Illinois, Senate, Wisconsin, state_
 
 ### [NASA clears the Space Shuttle Discovery for its final flight on Thursday. ](/news/2011/02/18/nasa-clears-the-space-shuttle-discovery-for-its-final-flight-on-thursday.md)
 Top NASA officials met today and unanimously agreed to proceed with the planned launch of the space shuttle Discovery on Feb. 24 – the orbiter&#039;s final mission to the International Space Station before its impending retirement. 
-
-### [The soccer player Ronaldo, who retired recently, joins Brazil's 2014 FIFA World Cup organising committee. ](/news/2011/02/18/the-soccer-player-ronaldo-who-retired-recently-joins-brazil-s-2014-fifa-world-cup-organising-committee.md)
-_Context: 2014 FIFA World Cup, Brazil, Ronaldo, football_
 
 ## [Previous Day...](/news/2011/02/17/index.md)
 

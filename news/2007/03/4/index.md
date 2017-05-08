@@ -7,7 +7,7 @@ _Context: Andrus Ansip, Estonian parliamentary election, 2007, Internet, Reform 
 _Context: Abkhazia, Abkhazian parliamentary election, 2007, Georgia, government_
 
 ### [ Sunil Kumar Mahato, an Indian member of parliament from the Jharkhand Mukti Morcha, is killed by suspected Maoist rebels while watching football in Jharkhand. ](/news/2007/03/4/sunil-kumar-mahato-an-indian-member-of-parliament-from-the-jharkhand-mukti-morcha-is-killed-by-suspected-maoist-rebels-while-watching-foo.md)
-_Context: India, Jharkhand, Jharkhand Mukti Morcha, Lok Sabha, Naxalite, Sunil Kumar Mahato, football_
+_Context: India, Jharkhand, Jharkhand Mukti Morcha, Lok Sabha, Naxalite, Sunil Kumar Mahato, soccer_
 
 ### [ China raises its defense budget by 17.8 percent, while cutting the budget deficit to 1.1 percent of GDP. ](/news/2007/03/4/china-raises-its-defense-budget-by-17-8-percent-while-cutting-the-budget-deficit-to-1-1-percent-of-gdp.md)
 China plans to cut its 2007budget deficit to 245 billion yuan, or 1.1 percent of grossdomestic product, the finance ministry will project in a reportto parliament on Monday.

@@ -33,11 +33,5 @@ An enigmatic preacher with thousands of followers is demanding the government’
 ### [Russia launches three Kosmos series military-purpose satellites using Rokot launch vehicle. ](/news/2013/01/15/russia-launches-three-kosmos-series-military-purpose-satellites-using-rokot-launch-vehicle.md)
 _Context: Kosmos series, Rokot, Russia, launch vehicle, launches, released an object into orbit_
 
-### [Paul McGinley is chosen to lead Europe in their defence of the 2014 Ryder Cup at Gleneagles in Perthshire, Scotland. ](/news/2013/01/15/paul-mcginley-is-chosen-to-lead-europe-in-their-defence-of-the-2014-ryder-cup-at-gleneagles-in-perthshire-scotland.md)
-_Context: 2014 Ryder Cup, Gleneagles, Paul McGinley, Perthshire, Scotland_
-
-### [The Associated Press reports that the U.S. cyclist Lance Armstrong has admitted to doping in his career during his interview with Oprah Winfrey, yet to be aired. ](/news/2013/01/15/the-associated-press-reports-that-the-u-s-cyclist-lance-armstrong-has-admitted-to-doping-in-his-career-during-his-interview-with-oprah-winf.md)
-During two-and-a-half-hour interview, former cyclist confesses to using to PEDs, AP reports, citing source.
-
 ## [Previous Day...](/news/2013/01/14/index.md)
 

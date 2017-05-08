@@ -24,11 +24,5 @@ Former Miss Venezuela Monica Spear and British ex-husband murdered and daughter 
 ### [The US Senate confirms Janet Yellen as the new chair of the Federal Reserve; Yellen will be the first woman to hold this post. ](/news/2014/01/6/the-us-senate-confirms-janet-yellen-as-the-new-chair-of-the-federal-reserve-yellen-will-be-the-first-woman-to-hold-this-post.md)
 Central bank veteran will oversee shift out of crisis mode
 
-### [In college football, the Florida State Seminoles defeat the Auburn Tigers to win the 2014 BCS National Championship Game. ](/news/2014/01/6/in-college-football-the-florida-state-seminoles-defeat-the-auburn-tigers-to-win-the-2014-bcs-national-championship-game.md)
-_Context: 2014 BCS National Championship Game, Auburn Tigers, Florida State Seminoles, college football_
-
-### [In golf, Zach Johnson wins the 2014 Hyundai Tournament of Champions. ](/news/2014/01/6/in-golf-zach-johnson-wins-the-2014-hyundai-tournament-of-champions.md)
-Zach Johnson started the new year the same way he ended the last one.
-
 ## [Previous Day...](/news/2014/01/5/index.md)
 

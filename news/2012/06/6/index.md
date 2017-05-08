@@ -55,14 +55,5 @@ _Context: Council of the District of Columbia, Kwame R. Brown, Washington, D.C._
 ### [The Solar Impulse, a solar plane, lands in Morocco, completing the world's first intercontinental flight powered by the Sun. ](/news/2012/06/6/the-solar-impulse-a-solar-plane-lands-in-morocco-completing-the-world-s-first-intercontinental-flight-powered-by-the-sun.md)
 _Context: Moroccan, Solar Impulse, Sun, solar plane_
 
-### [Footballer Mahmoud al-Sarsak, who has been on hunger strike for 80 days while in prison without trial or charge, faces imminent danger of death according to human rights groups. ](/news/2012/06/6/footballer-mahmoud-al-sarsak-who-has-been-on-hunger-strike-for-80-days-while-in-prison-without-trial-or-charge-faces-imminent-danger-of-de.md)
-Human rights groups warn that a Palestinian footballer who has been on hunger strike for 80 days in an Israeli jail faces imminent danger of death.
-
-### [Cardiff City Football Club announces it is to change to a red kit from its traditional blue, effective immediately. ](/news/2012/06/6/cardiff-city-football-club-announces-it-is-to-change-to-a-red-kit-from-its-traditional-blue-effective-immediately.md)
-_Context: Cardiff City Football Club_
-
-### [Four-time world snooker champion Ronnie O'Sullivan announces his decision to take time off from the game. ](/news/2012/06/6/four-time-world-snooker-champion-ronnie-o-sullivan-announces-his-decision-to-take-time-off-from-the-game.md)
-_Context: Ronnie O'Sullivan, Snooker_
-
 ## [Previous Day...](/news/2012/06/5/index.md)
 

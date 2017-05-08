@@ -72,11 +72,5 @@ Labour wins the Inverclyde by-election but its majority is more than halved.
 ### [Leon Panetta is sworn in as the new United States Secretary of Defense, succeeding Robert Gates. ](/news/2011/07/1/leon-panetta-is-sworn-in-as-the-new-united-states-secretary-of-defense-succeeding-robert-gates.md)
 New US Defence Secretary Leon Panetta pledges to maintain the &quot;excellence&quot; of the US military while finding ways to trim its budget.
 
-### [In basketball, owners in the North American National Basketball Association commence a lockout after failing to reach a collective bargaining agreement with players. ](/news/2011/07/1/in-basketball-owners-in-the-north-american-national-basketball-association-commence-a-lockout-after-failing-to-reach-a-collective-bargainin.md)
-_Context: NBA, North America, basketball, collective bargaining agreement, locks out_
-
-### [In tennis, Rafael Nadal defeats Andy Murray in the semi-final of Wimbledon. ](/news/2011/07/1/in-tennis-rafael-nadal-defeats-andy-murray-in-the-semi-final-of-wimbledon.md)
-_Context: Andy Murray, Rafael Nadal, Wimbledon, tennis_
-
 ## [Previous Day...](/news/2011/06/30/index.md)
 

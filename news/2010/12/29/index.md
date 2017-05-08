@@ -34,7 +34,7 @@ Proposed draft resolution calls on Security Council to condemn Israeli settlemen
 A letter published by a group of rabbis in Israel has sparked calls for their dismissal.
 
 ### [The United States revokes the visa for Bernardo Alvarez Herrera, the Venezuelan ambassador to the country. ](/news/2010/12/29/the-united-states-revokes-the-visa-for-bernardo-alvarez-herrera-the-venezuelan-ambassador-to-the-country.md)
-_Context: Bernardo Alvarez Herrera, U.S., visa-free travel_
+_Context: Bernardo Alvarez Herrera, United States, visa-free travel_
 
 ### [Cote d'Ivoire President Laurent Gbagbo refuses to step down after a meeting with other African leaders. ](/news/2010/12/29/ca-te-d-ivoire-president-laurent-gbagbo-refuses-to-step-down-after-a-meeting-with-other-african-leaders.md)
 _Context: Africa, Cote d'Ivoire, Laurent Gbagbo, President_
@@ -56,12 +56,6 @@ The&#x20;former&#x20;vice&#x20;president&#x20;of&#x20;Comoros&#x20;and&#x20;ruli
 
 ### [The Chinese government sets out new measures to tackle corruption. ](/news/2010/12/29/the-chinese-government-sets-out-new-measures-to-tackle-corruption.md)
 _Context: anti-corruption, government_
-
-### [England retain the Ashes for the first time in 24 years after winning the fourth Test of the 2010-11 series against Australia in Melbourne. ](/news/2010/12/29/england-retain-the-ashes-for-the-first-time-in-24-years-after-winning-the-fourth-test-of-the-2010a11-series-against-australia-in-melbourne.md)
-_Context: Australia, England, England's Ashes victory over Australia, The Ashes_
-
-### [Malaysia wins 2010 AFF Suzuki Cup with a total of 4-2 over Indonesia in the final matches. ](/news/2010/12/29/malaysia-wins-2010-aff-suzuki-cup-with-a-total-of-4-2-over-indonesia-in-the-final-matches.md)
-MANILA, Philippines -- Indonesia has failed to score the necessary aggregate points in the second leg of their finals duel, allowing Malaysia to win the 2010 ASEAN Football Federation (AFF) Suzuki Cup on Wednesday.
 
 ## [Previous Day...](/news/2010/12/28/index.md)
 

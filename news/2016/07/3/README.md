@@ -21,11 +21,5 @@ _Context: Philippine National Police, Rodrigo Duterte, addicts, drug war, human 
 ### [Former French President Nicolas Sarkozy resigns as leader of The Republicans party and announces his candidacy for President again. ](/news/2016/07/3/former-french-president-nicolas-sarkozy-resigns-as-leader-of-the-republicans-party-and-announces-his-candidacy-for-president-again.md)
 Leader of conservative Les Republicains party announces he will step down as its head, paving the way to enter primaries ahead of 2017 contest
 
-### [Lewis Hamilton wins the Austrian Grand Prix at the Red Bull Ring in Spielberg, Austria. ](/news/2016/07/3/lewis-hamilton-wins-the-austrian-grand-prix-at-the-red-bull-ring-in-spielberg-austria.md)
-Lewis Hamilton passes Mercedes team-mate Nico Rosberg as they collide on the last lap in a thrilling finish to win the Austrian GP.
-
-### [The Russian Olympic Committee appeals the ban of its track and field team from participating in the upcoming summer Olympics by the International Association of Athletics Federations (IAAF), because of large scale doping, with the Court of Arbitration for Sport. A hearing on the case will take place on July 19. ](/news/2016/07/3/the-russian-olympic-committee-appeals-the-ban-of-its-track-and-field-team-from-participating-in-the-upcoming-summer-olympics-by-the-internat.md)
-_Context: 2016 Summer Olympics, Court of Arbitration for Sport, International Association of Athletics Federations, Russian Olympic Committee, track and field_
-
 ## [Previous Day...](/news/2016/07/2/index.md)
 

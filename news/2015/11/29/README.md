@@ -33,11 +33,5 @@ Labour’s deputy leader, Tom Watson, has demanded that Jeremy Corbyn abandon pl
 ### [About 20,000 pairs of empty shoes lay around Paris, symbolizing  the absent marchers who would have joined this weekend's worldwide climate change protests pressing for a bold international agreement at the upcoming climate summit there. The capital city was planned to be the center for demonstrations but French police banned large protests following the terrorist attacks this month. ](/news/2015/11/29/about-20-000-pairs-of-empty-shoes-lay-around-paris-symbolizing-the-absent-marchers-who-would-have-joined-this-weekend-s-worldwide-climate.md)
 The Pope, actress Marion Cotillard and designer Vivienne Westwood were among those that left their footwear along with messages of support after the march was banned due to security fears
 
-### [In tennis, the Great Britain Davis Cup team wins their tenth title in the Davis Cup and their first since 1936 defeating Belgium 3&ndash;2 in the final in Ghent. Andy Murray won all of their games he played with two singles wins and teaming with his brother Jamie Murray to win the doubles. ](/news/2015/11/29/in-tennis-the-great-britain-davis-cup-team-wins-their-tenth-title-in-the-davis-cup-and-their-first-since-1936-defeating-belgium-3-ndash-2-i.md)
-_Context: 2015 Davis Cup, Andy Murray, Belgium, Davis Cup, Ghent, Great Britain Davis Cup team, Jamie Murray_
-
-### [In basketball, American star Kobe Bryant of the Los Angeles Lakers announces he will retire at the end of the season. ](/news/2015/11/29/in-basketball-american-star-kobe-bryant-of-the-los-angeles-lakers-announces-he-will-retire-at-the-end-of-the-season.md)
-_Context: 2015-16 NBA season, Kobe Bryant, Los Angeles Lakers, basketball_
-
 ## [Previous Day...](/news/2015/11/28/index.md)
 

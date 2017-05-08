@@ -30,8 +30,5 @@ _Context: Pussy Riot, Russia_
 ### [The Parliament of Afghanistan votes to dismiss the Defence and Interior Ministers over continued cross-border shelling by Pakistan. ](/news/2012/08/4/the-parliament-of-afghanistan-votes-to-dismiss-the-defence-and-interior-ministers-over-continued-cross-border-shelling-by-pakistan.md)
 _Context: Pakistan, Parliament of Afghanistan_
 
-### [2012 Summer Olympics:In athletics, Oscar Pistorius of South Africa becomes the first amputee to compete at the Olympic Games in the 400 meters. ](/news/2012/08/4/2012-summer-olympics-pin-athletics-oscar-pistorius-of-south-africa-becomes-the-first-amputee-to-compete-at-the-olympic-games-in-the-400-met.md)
-Oscar Pistorius has made history by becoming the first double amputee to compete at the Olympic Games, crossing the line second in the men&#039;s 400 metres heat.
-
 ## [Previous Day...](/news/2012/08/3/index.md)
 

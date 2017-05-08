@@ -39,14 +39,5 @@ _Context: Laos, Vientiane_
 ### [Former Rwandan minister Augustin Ngirabatware is sentenced to 35 years imprisonment for his role during the 1994 Rwandan Genocide. ](/news/2012/12/20/former-rwandan-minister-augustin-ngirabatware-is-sentenced-to-35-years-imprisonment-for-his-role-during-the-1994-rwandan-genocide.md)
 _Context: Augustin Ngirabatware, Rwanda, Rwandan Genocide_
 
-### [UEFA announces the 2012-13 UEFA Champions League Round of 16 draw. Barcelona will face Milan while Real Madrid will play Manchester United. ](/news/2012/12/20/uefa-announces-the-2012a13-uefa-champions-league-round-of-16-draw-barcelona-will-face-milan-while-real-madrid-will-play-manchester-united.md)
-Cristiano Ronaldo will return to Old Trafford for the first time since leaving Manchester United FC for Real Madrid CF while FC Barcelona were paired with AC Milan in the round of 16 draw.
-
-### [The 2012-13 UEFA Europa League Round of 32 and Round of 16 draw is held in Nyon, Switzerland. Europa League title holders Atletico Madrid will play Rubin Kazan while Champions League title holders Chelsea will face Sparta Prague. ](/news/2012/12/20/the-2012a13-uefa-europa-league-round-of-32-and-round-of-16-draw-is-held-in-nyon-switzerland-europa-league-title-holders-atla-c-tico-madrid.md)
-European champions Chelsea FC will begin their UEFA Europa League title bid against AC Sparta Praha after a draw that also pitted FC Zenit St Petersburg against Liverpool FC.
-
-### [Manchester City midfielder Yaya Toure is named African Footballer of the Year for the second year running ahead of Didier Drogba and Alex Song. Also Herve Renard emerged the 2012 Coach of the Year at the annual CAF awards staged in Accra, Ghana. ](/news/2012/12/20/manchester-city-midfielder-yaya-toura-c-is-named-african-footballer-of-the-year-for-the-second-year-running-ahead-of-didier-drogba-and-alex-s.md)
-_Context: Accra, African Footballer of the Year, Alex Song, CAF, Didier Drogba, Ghana, Herve Renard, Manchester City, Yaya Toure_
-
 ## [Previous Day...](/news/2012/12/19/index.md)
 

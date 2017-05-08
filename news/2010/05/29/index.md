@@ -40,7 +40,7 @@ _Context: Greece, Novo Nordisk, diabetes, insulin_
 Fans of rival hanball teams clash in the central Greek town of Lamia, with at least 14 people hurt.
 
 ### [Another riot occurs in Austria as the Serbia national football team meet the New Zealand national football team ahead of the 2010 FIFA World Cup. ](/news/2010/05/29/another-riot-occurs-in-austria-as-the-serbia-national-football-team-meet-the-new-zealand-national-football-team-ahead-of-the-2010-fifa-world.md)
-_Context: 2010 FIFA World Cup, Austria, New Zealand national football team, Serbia_
+_Context: 2010 FIFA World Cup, Austria, New Zealand national football team, Serbia national football team_
 
 ### [The leaders of Pakistan's Ahmadiyya religious minority ask the government to provide better protection for the group, as they bury those killed in yesterday's double mosque attack in Lahore. ](/news/2010/05/29/the-leaders-of-pakistan-s-ahmadiyya-religious-minority-ask-the-government-to-provide-better-protection-for-the-group-as-they-bury-those-kil.md)
 _Context: Ahmadiyya, Friday's attack, Lahore, Pakistan_

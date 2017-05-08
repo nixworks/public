@@ -19,7 +19,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: China's, Harbin, Heilongjiang, Yilan County, Heilongjiang, benzene_
 
 ### [ The United Nations Climate Change Conference opens in Montreal. - ](/news/2005/11/28/the-united-nations-climate-change-conference-opens-in-montreal.md)
-_Context: UN Climate Change Conference, city of Montreal_
+_Context: Montreal, UN Climate Change Conference_
 
 ## [Previous Day...](/news/2005/11/27/index.md)
 

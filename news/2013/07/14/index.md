@@ -18,8 +18,5 @@ U.S. offering $5M reward for Miguel Angel Trevino Morales, accused of being lead
 ### [Protests occur in several American cities following the acquittal of George Zimmerman in relation to the shooting of Trayvon Martin. ](/news/2013/07/14/protests-occur-in-several-american-cities-following-the-acquittal-of-george-zimmerman-in-relation-to-the-shooting-of-trayvon-martin.md)
 _Context: American, shooting of Trayvon Martin_
 
-### [In athletics, six athletes are announced to have failed drug tests including American Tyson Gay and Jamaican Asafa Powell. ](/news/2013/07/14/in-athletics-six-athletes-are-announced-to-have-failed-drug-tests-including-american-tyson-gay-and-jamaican-asafa-powell.md)
-_Context: Asafa Powell, Tyson Gay, athletics_
-
 ## [Previous Day...](/news/2013/07/13/index.md)
 

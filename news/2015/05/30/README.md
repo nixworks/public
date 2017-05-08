@@ -27,14 +27,5 @@ _Context: 2016 U.S. presidential election, D, Martin O'Malley_
 ### [A mystery disease has killed over 120,000 saiga antelopes - more than a third of the world's total population - in Kazakhstan in recent weeks. ](/news/2015/05/30/a-mystery-disease-has-killed-over-120-000-saiga-antelopes-a-more-than-a-third-of-the-world-s-total-population-a-in-kazakhstan-in-recent.md)
 The sudden deaths of tens of thousands of endangered antelopes in Kazakhstan over the past two weeks leave scientists scrambling for answers and conservationists worried about the animal&#039;s future.
 
-### [In England, Arsenal defeat Aston Villa 4-0 in the 2015 FA Cup Final at Wembley Stadium, with the victors playing in a record 19th final and achieving a record 12th win. ](/news/2015/05/30/in-england-arsenal-defeat-aston-villa-4-0-in-the-2015-fa-cup-final-at-wembley-stadium-with-the-victors-playing-in-a-record-19th-final-and.md)
-The English FA and Scottish Cup finals on Saturday will see Arsenal face Aston Villa and Falkirk play Inverness CT.
-
-### [Alastair Cook becomes the leading run scorer of all time in test cricket for England playing against New Zealand in the second test at Headingley Cricket Ground in Leeds. ](/news/2015/05/30/alastair-cook-becomes-the-leading-run-scorer-of-all-time-in-test-cricket-for-england-playing-against-new-zealand-in-the-second-test-at-headi.md)
-_Context: Alastair Cook, England, Headingley Cricket Ground, Leeds, New Zealand, test cricket_
-
-### [Chicago Blackhawks defeat the Anaheim Ducks in a seven game series to advance to the 2015 Stanley Cup Finals. ](/news/2015/05/30/chicago-blackhawks-defeat-the-anaheim-ducks-in-a-seven-game-series-to-advance-to-the-2015-stanley-cup-finals.md)
-The official National Hockey League website including news, rosters, stats, schedules, teams, and video.
-
 ## [Previous Day...](/news/2015/05/29/index.md)
 

@@ -1,7 +1,7 @@
 ## [2000-10-1](/news/2000/10/1/index.md)
 
 ### [ The 2000 Summer Olympics close in Sydney, Australia.](/news/2000/10/1/the-2000-summer-olympics-close-in-sydney-australia.md)
-_Context: 2000 Summer Olympics, Sydney_
+_Context: 2000 Olympics, Sydney_
 
 ### [ Incorporation of Bharat Sanchar Nigam Limited & Mahanagar Telephone Nigam Limited under the Indian Companies Act, 1956.](/news/2000/10/1/incorporation-of-bharat-sanchar-nigam-limited-mahanagar-telephone-nigam-limited-under-the-indian-companies-act-1956.md)
 _Context: Bharat Sanchar Nigam Limited, Mahanagar Telephone Nigam Limited_

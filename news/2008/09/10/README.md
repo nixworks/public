@@ -4,7 +4,7 @@
 _Context: 2008, Bob Barr, Chuck Baldwin, Cynthia McKinney, R, Ralph Nader, Ron Paul, candidate, third party, two-party system_
 
 ### [ President of Bolivia Evo Morales expels the United States ambassador, Philip Goldberg, for allegedly encouraging anti-government protests. ](/news/2008/09/10/president-of-bolivia-evo-morales-expels-the-united-states-ambassador-philip-goldberg-for-allegedly-encouraging-anti-government-protests.md)
-_Context: Evo Morales, Philip Goldberg, President of Bolivia, U.S., ambassador_
+_Context: Evo Morales, Philip Goldberg, President of Bolivia, United States, ambassador_
 
 ### [ OPEC announces it will cut oil production by 500,000 barrels a day; prices rise accordingly. ](/news/2008/09/10/opec-announces-it-will-cut-oil-production-by-500-000-barrels-a-day-prices-rise-accordingly.md)
 _Context: OPEC_
@@ -13,7 +13,7 @@ _Context: OPEC_
 _Context: Lehman Brothers, U.S., U.S. dollar_
 
 ### [ The European Commission predicts the U.K., Germany, and Spain 'to fall into recession'; the outlook for rest of the Eurozone is gloomy. ](/news/2008/09/10/the-european-commission-predicts-the-u-k-germany-and-spain-to-fall-into-recession-the-outlook-for-rest-of-the-eurozone-is-gloomy.md)
-_Context: European Commission, Eurozone, Germany, Spain, U.K._
+_Context: European Commission, Eurozone, German, Spain, U.K._
 
 ### [ The Yonhap News Agency in South Korea reports North Korean leader Kim Jong-il has a serious health problem. ](/news/2008/09/10/the-yonhap-news-agency-in-south-korea-reports-north-korean-leader-kim-jong-il-has-a-serious-health-problem.md)
 North Korean leader Kim Jong Il is reported to be in failing health. North Korean officials denied the report, while a U.S. intelligence official told NPR that Kim may have suffered a stroke in recent weeks.

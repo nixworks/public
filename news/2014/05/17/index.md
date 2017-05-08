@@ -18,14 +18,5 @@ _Context: Mariam Yahia Ibrahim Ishag, Sudanese_
 ### [Palaeontologists report that the remains of the largest dinosaur ever discovered have been unearthed in Patagonia, Argentina. ](/news/2014/05/17/palaeontologists-report-that-the-remains-of-the-largest-dinosaur-ever-discovered-have-been-unearthed-in-patagonia-argentina.md)
 A new species of titanosaur unearthed in Argentina is the largest animal ever to walk the Earth, palaeontologists say.
 
-### [In Spain, Atletico Madrid draws with FC Barcelona to win the 2013-14 La Liga. ](/news/2014/05/17/in-spain-atla-c-tico-madrid-draws-with-fc-barcelona-to-win-the-2013a14-la-liga.md)
-Arsenal fans have lined the streets of north London for the team&#x27;s victory parade after the Gunners won the FA Cup with a thrilling 3-2 victory over Hull City at Wembley yesterday. The triumph ended the club&#x27;s nine-year trophy drought.
-
-### [Horse racing:Frankie Dettori wins his 200th group one race riding "Olympic Glory" at the Lockinge Stakes at Newbury, the first time that a Europe-based jockey achieves this milestone. ](/news/2014/05/17/horse-racing-pfrankie-dettori-wins-his-200th-group-one-race-riding-olympic-glory-at-the-lockinge-stakes-at-newbury-the-first-time-that-a.md)
-California Chrome is just one victory away from becoming the first Triple Crown winner since 1978.
-
-### [Auto racing:In the 2014 NASCAR Sprint All-Star Race at Charlotte Motor Speedway, Jamie McMurray wins the 30th running of the event, his first All-Star victory.](/news/2014/05/17/auto-racing-pin-the-2014-nascar-sprint-all-star-race-at-charlotte-motor-speedway-jamie-mcmurray-wins-the-30th-running-of-the-event-his-fir.md)
-_Context: 2014 NASCAR Sprint All-Star Race, Charlotte Motor Speedway, Jamie McMurray, auto racing_
-
 ## [Previous Day...](/news/2014/05/16/index.md)
 

@@ -34,7 +34,7 @@ French President Francois Hollande names a new government under Prime Minister M
 _Context: CPC party chief, China Resources Power, Shanxi province, Taiyuan_
 
 ### [Klaus Wowereit makes it official that he will resign as the mayor of Berlin on 11 December, after having held the post for nearly 14 years, making him Germany's current longest-serving head of a state government. ](/news/2014/08/26/klaus-wowereit-makes-it-official-that-he-will-resign-as-the-mayor-of-berlin-on-11-december-after-having-held-the-post-for-nearly-14-years.md)
-_Context: Germany, Klaus Wowereit, mayor of Berlin_
+_Context: German, Klaus Wowereit, mayor of Berlin_
 
 ### [Michael Spindelegger resigns as vice-chancellor and finance minister of Austria; as leader of the Austrian People's Party, he is replaced by Reinhold Mitterlehner. ](/news/2014/08/26/michael-spindelegger-resigns-as-vice-chancellor-and-finance-minister-of-austria-as-leader-of-the-austrian-people-s-party-he-is-replaced-by.md)
 _Context: Austria, Austrian People's Party, Michael Spindelegger, Reinhold Mitterlehner, finance minister, vice-chancellor_

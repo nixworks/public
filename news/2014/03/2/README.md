@@ -22,11 +22,5 @@ _Context: March of Peace_
 ### [Over 250,000 Haredim in Israel staged a protest against military conscription. [http://www.theguardian.com/world/2014/mar/02/ultra-orthodox-haredim-law-israel-military-exemption]](/news/2014/03/2/over-250-000-haredim-in-israel-staged-a-protest-against-military-conscription-http-www-theguardian-com-world-2014-mar-02-ultra-orthodox.md)
 _Context: Haredim, military conscription_
 
-### [In association football, Newcastle United fine their manager Alan Pardew nearly PS100,000 for headbutting David Meyler on the opposing Hull City during a Premier League match yesterday. ](/news/2014/03/2/in-association-football-newcastle-united-fine-their-manager-alan-pardew-nearly-aps100-000-for-headbutting-david-meyler-on-the-opposing-hull.md)
-Alan Pardew was sent from the touchline during Newcastle United&#x27;s Premier League game at Hull City after clashing with David Meyler
-
-### [In the second race of the 2014 NASCAR Sprint Cup Series, Kevin Harvick dominates the The Profit on CNBC 500, leading to his 2nd straight win at Phoenix International Raceway. ](/news/2014/03/2/in-the-second-race-of-the-2014-nascar-sprint-cup-series-kevin-harvick-dominates-the-the-profit-on-cnbc-500-leading-to-his-2nd-straight-win.md)
-Kevin Harvick wins with a dominating performance at Phoenix for his fifth career win at the track and his first win with Stewart-Haas Racing.
-
 ## [Previous Day...](/news/2014/03/1/index.md)
 

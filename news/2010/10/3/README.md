@@ -79,11 +79,5 @@ Political stalemate likely to continue as voters are expected to cast their ball
 ### [Healthcare Professionals for Change, the first professional body established with the aim of improving the United Kingdom's Suicide Act 1961, is to launch its campaign to change death laws, described as "unprecedented". ](/news/2010/10/3/healthcare-professionals-for-change-the-first-professional-body-established-with-the-aim-of-improving-the-united-kingdom-s-suicide-act-1961.md)
 _Context: Suicide Act 1961_
 
-### [The 2010 Commonwealth Games officially start at the Jawaharlal Nehru Stadium in Delhi, India. ](/news/2010/10/3/the-2010-commonwealth-games-officially-start-at-the-jawaharlal-nehru-stadium-in-delhi-india.md)
-Prince Charles declares the Commonwealth Games officially open at a colourful ceremony in Delhi, as organisers seek to shake off a chaotic run-up to the event.
-
-### [Rugby league:The St. George Illawarra Dragons defeat the Sydney Roosters 32-8 to win the 2010 NRL Grand Final in Sydney. ](/news/2010/10/3/rugby-league-pthe-st-george-illawarra-dragons-defeat-the-sydney-roosters-32a8-to-win-the-2010-nrl-grand-final-in-sydney.md)
-_Context: Grand Final, National Rugby League, St. George Illawarra Dragons, Sydney, Sydney Roosters, rugby league_
-
 ## [Previous Day...](/news/2010/10/2/index.md)
 

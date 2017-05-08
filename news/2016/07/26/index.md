@@ -42,8 +42,5 @@ Solar Impulse 2 has become the first sun-powered, fuel-free aircraft to circle t
 ### [Every square inch of the United States is forecasted to have hotter-than-normal temperatures for the first time in recorded history.](/news/2016/07/26/every-square-inch-of-the-united-states-is-forecasted-to-have-hotter-than-normal-temperatures-for-the-first-time-in-recorded-history.md)
 The entire nation is forecast to see above-average temperatures for the next three months
 
-### [Serie A defending champions Juventus break the Italian transfer record fee after completing the signing of Argentinian forward Gonzalo Higuain from Napoli for EUR90M (PS75.3m) on a five-year-deal. ](/news/2016/07/26/serie-a-defending-champions-juventus-break-the-italian-transfer-record-fee-after-completing-the-signing-of-argentinian-forward-gonzalo-higua.md)
-_Context: Argentina, Gonzalo Higuain, Juventus, Napoli, Serie A_
-
 ## [Previous Day...](/news/2016/07/25/index.md)
 

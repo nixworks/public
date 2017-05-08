@@ -39,14 +39,5 @@ Education Secretary Michael Gove and Rotherham Council are to investigate separa
 ### [DUP leader and Northern Ireland First Minister Peter Robinson dismisses calls from Sinn Fin for a Scotland-style referendum on independence for Northern Ireland, telling his party's annual conference that a majority of Catholics want Northern Ireland to stay part of the United Kingdom. ](/news/2012/11/24/dup-leader-and-northern-ireland-first-minister-peter-robinson-dismisses-calls-from-sinn-fein-for-a-scotland-style-referendum-on-independence.md)
 Stormont First Minister Peter Robinson tells the DUP conference he believes a majority of Catholics now support Northern Ireland staying within the UK.
 
-### [Puerto Rican professional boxer and former world champion Hctor Camacho dies four days after being shot in his hometown of Bayamn, Puerto Rico. ](/news/2012/11/24/puerto-rican-professional-boxer-and-former-world-champion-hector-camacho-dies-four-days-after-being-shot-in-his-hometown-of-bayamon-puerto.md)
-_Context: Bayamn, Hctor Camacho, Puerto Rican, Puerto Rico, boxing_
-
-### [In athletics, Jamaican sprinter Usain Bolt and American sprinter Allyson Felix are named 2012 IAAF World Athletes of the Year. ](/news/2012/11/24/in-athletics-jamaican-sprinter-usain-bolt-and-american-sprinter-allyson-felix-are-named-2012-iaaf-world-athletes-of-the-year.md)
-_Context: Allyson Felix, American, IAAF, Jamaican, Usain Bolt, World Athletes of the Year, athletics_
-
-### [The NHL cancels all games through 14 December, plus the 2013 NHL All-Star Game scheduled for 27 January in Columbus, Ohio, due to the 2012 NHL lockout. ](/news/2012/11/24/the-nhl-cancels-all-games-through-14-december-plus-the-2013-nhl-all-star-game-scheduled-for-27-january-in-columbus-ohio-due-to-the-2012-n.md)
-_Context: 2012 NHL lockout, 2013 NHL All-Star Game, Columbus, NHL_
-
 ## [Previous Day...](/news/2012/11/23/index.md)
 

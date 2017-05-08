@@ -18,11 +18,5 @@ _Context: Chinese rule, Tibet, protest_
 ### [Jimmy Savile sexual abuse scandal:The family of disgraced disc jockey and television presenter Jimmy Savile makes its first public statement since his reputation was destroyed by a sexual abuse scandal. ](/news/2012/10/27/jimmy-savile-sexual-abuse-scandal-pthe-family-of-disgraced-disc-jockey-and-television-presenter-jimmy-savile-makes-its-first-public-statemen.md)
 _Context: Jimmy Savile, Jimmy Savile sexual abuse scandal_
 
-### [In composite rules shinty-hurling, Ireland defeat Scotland to claim the International Series. ](/news/2012/10/27/in-composite-rules-shintyahurling-ireland-defeat-scotland-to-claim-the-international-series.md)
-Scotland suffer a heavy defeat in the second leg of the annual shinty-hurling international against Ireland.
-
-### [Karl Lacey of Donegal is named the GAA All Stars Footballer of the Year, alongside which he picks up his fourth All Star. ](/news/2012/10/27/karl-lacey-of-donegal-is-named-the-gaa-all-stars-footballer-of-the-year-alongside-which-he-picks-up-his-fourth-all-star.md)
-Karl Lacey edges out Donegal team-mates Colm McFadden and Frank McGlynn to be named Gaelic Footballer of 2012.
-
 ## [Previous Day...](/news/2012/10/26/index.md)
 

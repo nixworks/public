@@ -63,11 +63,5 @@ _Context: China's, State Internet Information Office, blocks mentions_
 ### [The United States House of Representatives passes the "No Taxpayer Funding for Abortion Act" banning the direct Federal funding of abortions. ](/news/2011/05/4/the-united-states-house-of-representatives-passes-the-no-taxpayer-funding-for-abortion-act-banning-the-direct-federal-funding-of-abortions.md)
 The Republican-led House passed a bill today to restrict taxpayer funding of abortions, as well as tax credits for private insurance plans that cover abortion
 
-### [The United States Department of Justice considers launching an antitrust action against the National Collegiate Athletic Association over the bowl system. ](/news/2011/05/4/the-united-states-department-of-justice-considers-launching-an-antitrust-action-against-the-national-collegiate-athletic-association-over-th.md)
-In a letter to the NCAA disclosed Wednesday, the Justice Department said it has received several requests for an antitrust investigation into the current Bowl Championship Series system, and it wants information to help it decide what to do.
-
-### [Manchester United F.C. beat FC Schalke 04 4-1 to progress to the final (their third final in 5 years) of the 2010-11 UEFA Champions League against Barcelona at Wembley Stadium on May 28. ](/news/2011/05/4/manchester-united-f-c-beat-fc-schalke-04-4-1-to-progress-to-the-final-their-third-final-in-5-years-of-the-2010-11-uefa-champions-league-a.md)
-Manchester United will face Barcelona in the Champions League final after the English Premier League side thrashed Schalke 4-1 at Old Trafford on Wednesday for a comfortable 6-1 aggregate win.
-
 ## [Previous Day...](/news/2011/05/3/index.md)
 

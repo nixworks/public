@@ -57,8 +57,5 @@ _Context: Amnesty International, Egypt, Egyptian parliamentary elections_
 ### [Iranian President Mahmoud Ahmadinejad rejects the country's once effective family planning program as an "ungodly Western import" and urges girls to marry at age of 16. ](/news/2010/11/21/iranian-president-mahmoud-ahmadinejad-rejects-the-country-s-once-effective-family-planning-program-as-an-ungodly-western-import-and-urges.md)
 Iranian president criticizes family planning program that reduced birth rate as &#39;ungodly Western import&#39;
 
-### [US stock car racer Jimmie Johnson wins his fifth straight NASCAR Sprint Cup Series championship, the first driver to do so. ](/news/2010/11/21/us-stock-car-racer-jimmie-johnson-wins-his-fifth-straight-nascar-sprint-cup-series-championship-the-first-driver-to-do-so.md)
-_Context: Jimmie Johnson, NASCAR, Sprint Cup Series, U.S., stock car racing_
-
 ## [Previous Day...](/news/2010/11/20/index.md)
 

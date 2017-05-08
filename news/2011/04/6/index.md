@@ -54,8 +54,5 @@ Efforts to curtail the environmental agency’s programs are not likely to end: 
 ### [The Chinese state-run ''Global Times'' newspaper dismisses international criticism over the arrest of artist Ai Weiwei. ](/news/2011/04/6/the-chinese-state-run-global-times-newspaper-dismisses-international-criticism-over-the-arrest-of-artist-ai-weiwei.md)
 _Context: Ai Weiwei, China's, Global Times, state media_
 
-### [Basketball star LeBron James buys a minority interest in Premier League team Liverpool Football Club. ](/news/2011/04/6/basketball-star-lebron-james-buys-a-minority-interest-in-premier-league-team-liverpool-football-club.md)
-_Context: English Premier League, LeBron James, Liverpool F.C., basketball_
-
 ## [Previous Day...](/news/2011/04/5/index.md)
 

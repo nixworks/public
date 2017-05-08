@@ -10,7 +10,7 @@ _Context: 2011 Syrian uprising, Jisr al-Shughour, Syria_
 Tear gas and rubber bullets reportedly used to break up religious gatherings in villages across the country.
 
 ### [Two United States drone missiles kill 14 people in  Pakistani Taliban compounds near Wana in South Waziristan. ](/news/2011/06/6/two-united-states-drone-missiles-kill-14-people-in-pakistani-taliban-compounds-near-wana-in-south-waziristan.md)
-_Context: Pakistani Taliban, South Waziristan, U.S., Wana, drone_
+_Context: Pakistani Taliban, South Waziristan, United States, Wana, drone_
 
 ### [2011 Yemeni uprising: Armed men affiliated with al-Qaeda kill seven soldiers and injure 12 others near the city of Zinjibar. ](/news/2011/06/6/2011-yemeni-uprising-armed-men-affiliated-with-al-qaeda-kill-seven-soldiers-and-injure-12-others-near-the-city-of-zinjibar.md)
 Armed men killed sevensoldiers and wounded 12 others in clashes in the southern Yemenicity of Zinjibar on Monday, a local official and witnesses said.
@@ -40,7 +40,7 @@ Apple&#039;s new cloud music service has been criticised by sections of the musi
 _Context: China's, coal mine_
 
 ### [Test results will confirm whether the German ''E. Coli'' outbreak came from vegetable sprouts grown in the Uelzen area. ](/news/2011/06/6/test-results-will-confirm-whether-the-german-e-coli-outbreak-came-from-vegetable-sprouts-grown-in-the-uelzen-area.md)
-_Context: E. coli blamed for 46 deaths, Germany, Uelzen_
+_Context: E. coli blamed for 46 deaths, German, Uelzen_
 
 ### [Residents of three Western United States towns - Springerville, Arizona, Eagar, Arizona and Luna, New Mexico - are warned to prepare for evacuation ahead of the Wallow Fire. one of the biggest in Arizona history. ](/news/2011/06/6/residents-of-three-western-united-states-towns-springerville-arizona-eagar-arizona-and-luna-new-mexico-are-warned-to-prepare-for-eva.md)
 The Apache County Sheriff&rsquo;s Office has issued a mandatory evacuation order for Greer, Arizona.
@@ -70,7 +70,7 @@ _Context: Dominique Strauss-Kahn, International Monetary Fund, New York, arraign
 _Context: Anwar Ibrahim, Malaysia, Mohamad Zabidin Diah_
 
 ### [The United States Federal Bureau of Investigation announces that it has arrested 13 members of the Mafia in the city of Philadelphia in relation to an illegal gambling operation. ](/news/2011/06/6/the-united-states-federal-bureau-of-investigation-announces-that-it-has-arrested-13-members-of-the-mafia-in-the-city-of-philadelphia-in-rela.md)
-_Context: FBI, Philadelphia, Sicilian Mafia, U.S._
+_Context: FBI, Philadelphia, Sicilian Mafia, United States_
 
 ### [The outgoing speaker of the House of Representatives in Nigeria, Dimeji Bankole, is arrested on fraud charges. ](/news/2011/06/6/the-outgoing-speaker-of-the-house-of-representatives-in-nigeria-dimeji-bankole-is-arrested-on-fraud-charges.md)
 _Context: Dimeji Bankole, House of Representatives, Nigeria_

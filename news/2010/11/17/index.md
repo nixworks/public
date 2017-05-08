@@ -25,7 +25,7 @@ Prime Minister Saad Hariri on Tuesday wrapped up a two-day official visit to Rus
 European finance ministers say they did not hold detailed discussions on a potential bail-out for the Irish Republic at a meeting in Brussels.
 
 ### [A United States bankruptcy judge orders Bank of America to return $500 million it seized from the bank accounts of the defunct Lehman Brothers trading firm a few weeks before Lehman declared bankruptcy in 2008. ](/news/2010/11/17/a-united-states-bankruptcy-judge-orders-bank-of-america-to-return-500-million-it-seized-from-the-bank-accounts-of-the-defunct-lehman-brothe.md)
-_Context: Bank of America, Lehman Brothers, U.S., U.S. dollar_
+_Context: Bank of America, Lehman Brothers, U.S. dollar, United States_
 
 ### [New home construction fell to its lowest level since April 2009. ](/news/2010/11/17/new-home-construction-fell-to-its-lowest-level-since-april-2009.md)
 _Context: April 2009, economy of the United States_
@@ -55,7 +55,7 @@ _Context: D, John Boehner, Minority Leader, Nancy Pelosi, R, Speaker of the Unit
 _Context: Guinea, November's presidential poll, state of emergency_
 
 ### [Senator Lisa Murkowski wins the Alaska senate  election becoming the first successful write-in candidate to be elected since 1954. ](/news/2010/11/17/senator-lisa-murkowski-wins-the-alaska-senate-election-becoming-the-first-successful-write-in-candidate-to-be-elected-since-1954.md)
-_Context: Alaska senate  election, Lisa Murkowski, senators, write-in candidate_
+_Context: Alaska senate  election, Lisa Murkowski, United States senators, write-in candidate_
 
 ### [Facebook inadvertently disabled some users' accounts when a system designed to detect fake accounts malfunctioned. The problem has since been resolved. ](/news/2010/11/17/facebook-inadvertently-disabled-some-users-accounts-when-a-system-designed-to-detect-fake-accounts-malfunctioned-the-problem-has-since-bee.md)
 _Context: Facebook_

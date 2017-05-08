@@ -55,20 +55,5 @@ _Context: 2011 Georgian protests, Badri Bitsadze, Nino Burdzhanadze_
 ### [The Space Shuttle ''Endeavour'' finishes its final mission. ](/news/2011/06/1/the-space-shuttle-endeavour-finishes-its-final-mission.md)
 The US space shuttle Endeavour brings its 19-year operational career to a close with a textbook landing in Florida.
 
-### [Sepp Blatter is to be elected unopposed as the Head of FIFA at its 61st Congress despite an ongoing bribery scandal and calls by the English Football Association to delay the election. ](/news/2011/06/1/sepp-blatter-is-to-be-elected-unopposed-as-the-head-of-fifa-at-its-61st-congress-despite-an-ongoing-bribery-scandal-and-calls-by-the-english.md)
-FIFA’s leaders gathered in Zurich with little choice but to re-elect a president weakened by a corruption scandal.
-
-### [CONCACAF general secretary Chuck Blazer survives attempts by FIFA to fire him after Blazer blew the whistle on alleged corruption within the world football governing body. ](/news/2011/06/1/concacaf-general-secretary-chuck-blazer-survives-attempts-by-fifa-to-fire-him-after-blazer-blew-the-whistle-on-alleged-corruption-within-the.md)
-_Context: CONCACAF, Chuck Blazer, FIFA, whistleblower_
-
-### [Murray McCully, the New Zealand Minister of Foreign Affairs, advises that the NZ Government ban on all members of the Republic of Fiji Military Forces entering the country for the 2011 Rugby World Cup means that several members of the Fiji national rugby union team will have to sit out the competition. ](/news/2011/06/1/murray-mccully-the-new-zealand-minister-of-foreign-affairs-advises-that-the-nz-government-ban-on-all-members-of-the-republic-of-fiji-milit.md)
-_Context: 2011 Rugby World Cup, Fiji national rugby union team, Minister of Foreign Affairs, Murray McCully, New Zealand, military government_
-
-### [Veteran US National Basketball Association star Shaquille O'Neal announces his retirement by Twitter. ](/news/2011/06/1/veteran-us-national-basketball-association-star-shaquille-o-neal-announces-his-retirement-by-twitter.md)
-_Context: NBA, Shaquille O'Neal, Twitter_
-
-### [The Vancouver Canucks beat the Boston Bruins 1-0 in the first game of the 2011 Stanley Cup Finals with Raffi Torres scoring the winning goal. ](/news/2011/06/1/the-vancouver-canucks-beat-the-boston-bruins-1-0-in-the-first-game-of-the-2011-stanley-cup-finals-with-raffi-torres-scoring-the-winning-goal.md)
-_Context: 2011 Stanley Cup Finals, Boston Bruins, Raffi Torres, Vancouver Canucks_
-
 ## [Previous Day...](/news/2011/05/31/index.md)
 

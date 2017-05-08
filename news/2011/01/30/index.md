@@ -40,7 +40,7 @@ Grass fires erupted in parts of Oklahoma on Saturday, damaging several homes and
 A Vietnamese journalist, set on fire after being doused with chemicals as he slept 10 days ago, dies of his injuries.
 
 ### [The directors of two companies based in York and Kent are charged with conspiring to illegally export Chinese-produced weapons to the United States after having imported them into the UK via Germany. The incident breaches an embargo by the United States, which disagrees with the importation of weapons made in China. ](/news/2011/01/30/the-directors-of-two-companies-based-in-york-and-kent-are-charged-with-conspiring-to-illegally-export-chinese-produced-weapons-to-the-united.md)
-_Context: Kent, U.S., York_
+_Context: Kent, United States, York_
 
 ### [Ahead of his court case Julian Assange is interviewed at the Norfolk country house where he is staying, having been up all night preparing U.S. State Department cables relevant to ongoing events in Egypt for inclusion on the WikiLeaks website. ](/news/2011/01/30/ahead-of-his-court-case-julian-assange-is-interviewed-at-the-norfolk-country-house-where-he-is-staying-having-been-up-all-night-preparing-u.md)
 _Context: 250,000 documents, Julian Assange, Norfolk, Protesters, WikiLeaks_
@@ -52,17 +52,5 @@ South Sudan almost unanimously voted to declare independence from the north in a
 _Context: Ali Akbar Salehi, Atomic Energy Organisation of Iran, Iranian President, Mahmoud Ahmadinejad, foreign minister, nuclear scientist, parliament_
 
 ### [Exotic birds are found to have been driven into Britain's back gardens by the extreme cold, as more than half a million people participate in the largest wildlife survey in the world. ](/news/2011/01/30/exotic-birds-are-found-to-have-been-driven-into-britain-s-back-gardens-by-the-extreme-cold-as-more-than-half-a-million-people-participate-i.md)
-### [It emerges that police locked international ticket-holders out of Khalifa Stadium in Qatar ahead of the final of the 2011 Asian Cup between Australia and Japan. ](/news/2011/01/30/it-emerges-that-police-locked-international-ticket-holders-out-of-khalifa-stadium-in-qatar-ahead-of-the-final-of-the-2011-asian-cup-between.md)
-_Context: 2011 Asian Cup, Australia, Japan, Khalifa Stadium, Qatar_
-
-### [Novak Djokovic defeats Andy Murray, 6-4, 6-2, 6-3, to win the Men's Singles tournament at the 2011 Australian Open in the first major final without either Roger Federer or Rafael Nadal in three years. ](/news/2011/01/30/novak-djokovic-defeats-andy-murray-6-4-6-2-6-3-to-win-the-men-s-singles-tournament-at-the-2011-australian-open-in-the-first-major-final.md)
-_Context: 2011 Australian Open, Andy Murray, Men's Singles tournament, Novak Djokovic, Rafael Nadal, Roger Federer_
-
-### [France beats Denmark in the 2011 World Men's Handball Championship final.](/news/2011/01/30/france-beats-denmark-in-the-2011-world-men-s-handball-championship-final.md)
-_Context: 2011 World Men's Handball Championship, Denmark, France_
-
-### [Scott Pruett wins his fourth 24 Hours of Daytona endurance race for Chip Ganassi Racing. ](/news/2011/01/30/scott-pruett-wins-his-fourth-24-hours-of-daytona-endurance-race-for-chip-ganassi-racing.md)
-_Context: 24 Hours of Daytona, Chip Ganassi Racing, Scott Pruett_
-
 ## [Previous Day...](/news/2011/01/29/index.md)
 

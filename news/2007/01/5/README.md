@@ -28,7 +28,7 @@ _Context: Commodore, Josefa Iloilo, Prime Minister, Voreqe Bainimarama, coup in 
 _Context: Alejandro Daniel Wolff, George W. Bush, Senator, U.S. President, U.S. ambassador to Iraq, U.S. ambassador to the United Nations, U.S. government, Zalmay Khalilzad_
 
 ### [ Australia beats England by ten wickets in the final Ashes cricket test match. The 5-0 series whitewash is only the second in history, the previous being in the 1920-1921 series. It is the final test match for Australian team members Shane Warne, Glenn McGrath and Justin Langer. ](/news/2007/01/5/australia-beats-england-by-ten-wickets-in-the-final-ashes-cricket-test-match-the-5-0-series-whitewash-is-only-the-second-in-history-the-p.md)
-_Context: Ashes, Australia, Cricket, England, Glenn McGrath, Justin Langer, Shane Warne, test cricket, whitewash_
+_Context: Ashes, Australia, England, Glenn McGrath, Justin Langer, Shane Warne, Test, cricketer, whitewash_
 
 ### [ Leading U.S. Democrats oppose Bush's plan of deploying more troops to Iraq, calling it "a strategy that you have already tried and that has already failed." ](/news/2007/01/5/leading-u-s-democrats-oppose-bush-s-plan-of-deploying-more-troops-to-iraq-calling-it-a-strategy-that-you-have-already-tried-and-that-has.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

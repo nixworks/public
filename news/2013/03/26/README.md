@@ -31,7 +31,7 @@ Amanda Knox and her former boyfriend Raffaele Sollecito were acquitted on appeal
 _Context: Afghan government's, Afghanistan, Arab League, Doha, Qatar, Syrian Civil War, Taliban, summit_
 
 ### [North Korea issues a new threat to strike targets on the United States mainland, Hawaii and Guam, as well as South Korea, days after a new US-South Korea military pact. ](/news/2013/03/26/north-korea-issues-a-new-threat-to-strike-targets-on-the-united-states-mainland-hawaii-and-guam-as-well-as-south-korea-days-after-a-new-u.md)
-_Context: Guam, Hawaii, North Korea, South Korea, U.S., US-South Korea, continental United States, military pact_
+_Context: Guam, Hawaii, North Korea, South Korea, US-South Korea, United States, continental United States, military pact_
 
 ### [Vietnam accuses a Chinese vessel of firing on one of its fishing boats in disputed waters in the South China Sea, setting it on fire. ](/news/2013/03/26/vietnam-accuses-a-chinese-vessel-of-firing-on-one-of-its-fishing-boats-in-disputed-waters-in-the-south-china-sea-setting-it-on-fire.md)
 China defends the action of one of its patrol boats which is accused of opening fire on a Vietnamese fishing boat last week in the South China Sea.
@@ -56,12 +56,6 @@ _Context: Giulio Terzi, India, Italian, Italian marines, face charges, fishermen
 
 ### [Former British Foreign Secretary David Miliband confirms he is to resign as an MP and move to the United States to become head of the International Rescue Committee in New York. ](/news/2013/03/26/former-british-foreign-secretary-david-miliband-confirms-he-is-to-resign-as-an-mp-and-move-to-the-united-states-to-become-head-of-the-intern.md)
 Former Labour Foreign Secretary David Miliband is to leave Parliament to move to New York to work for a charity, a close friend confirms to the BBC.
-
-### [2014 FIFA World Cup qualification:In the AFC Fourth Round, Japan, on the verge of becoming the first team to qualify for the 2014 FIFA World Cup, suffers a shock loss to Jordan, whose own chances of qualifying for their first ever FIFA World Cup are boosted by the result in Amman. ](/news/2013/03/26/2014-fifa-world-cup-qualification-pin-the-afc-fourth-round-japan-on-the-verge-of-becoming-the-first-team-to-qualify-for-the-2014-fifa-worl.md)
-Japan wasted a second half penalty as they blew the chance to become the first team to qualify for the World Cup finals when they were humbled 2-1 by Jordan in a pulsating clash in Amman on Tuesday.
-
-### [In cricket, England manage to bat through the 5th day of the final test match against New Zealand in Auckland, to draw the three match series 0-0. ](/news/2013/03/26/in-cricket-england-manage-to-bat-through-the-5th-day-of-the-final-test-match-against-new-zealand-in-auckland-to-draw-the-three-match-serie.md)
-_Context: Auckland, Cricket, England, New Zealand, test cricket, three match series_
 
 ## [Previous Day...](/news/2013/03/25/index.md)
 

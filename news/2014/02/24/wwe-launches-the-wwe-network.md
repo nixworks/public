@@ -8,7 +8,3 @@ The WWE Network is ready to launch next month. It’s just not what you may have
 ### Source:
 
 1. [Variety](http://variety.com/2014/digital/news/wwe-network-to-launch-in-february-as-streaming-service-1201036864/)
-
-### Related:
-
-1. [Daniel Bryan announces that he will retire from WWE. ](/news/2016/02/8/daniel-bryan-announces-that-he-will-retire-from-wwe.md) _Context: WWE_

@@ -48,8 +48,5 @@ _Context: Kim Jong-il, Kim Jong-un, North Korea_
 ### [NASA succeeds in putting the first of two Gravity Recovery and Interior Laboratory satellites in orbit around the moon. ](/news/2011/12/31/nasa-succeeds-in-putting-the-first-of-two-gravity-recovery-and-interior-laboratory-satellites-in-orbit-around-the-moon.md)
 _Context: GRAIL, Moon, NASA, released an object into orbit_
 
-### [In motor sports, WilliamsF1 co-founder Patrick Head resigns as a director of the team after 34 years in Formula One. ](/news/2011/12/31/in-motor-sports-williamsf1-co-founder-patrick-head-resigns-as-a-director-of-the-team-after-34-years-in-formula-one.md)
-_Context: Formula One, Patrick Head, WilliamsF1, motor sports_
-
 ## [Previous Day...](/news/2011/12/30/index.md)
 

@@ -24,8 +24,5 @@ MSP Bill Walker resigns from the Scottish Parliament after being convicted of a 
 ### [Voters in the Maldives go to the polls for a Presidential election with no candidate achieving an outright majority with a runoff election to be held on September 28. ](/news/2013/09/7/voters-in-the-maldives-go-to-the-polls-for-a-presidential-election-with-no-candidate-achieving-an-outright-majority-with-a-runoff-election-t.md)
 The presidential elections in the Maldives will go to a second round after frontrunner Mohamed Nasheed fails to win an outright majority.
 
-### [During the 125th IOC Session, the IOC announces the winning bid for the 2020 Summer Olympics to be held in Tokyo, Japan. ](/news/2013/09/7/during-the-125th-ioc-session-the-ioc-announces-the-winning-bid-for-the-2020-summer-olympics-to-be-held-in-tokyo-japan.md)
-_Context: 125th IOC Session, 2020 Summer Olympics, International Olympic Committee, Japan, Tokyo_
-
 ## [Previous Day...](/news/2013/09/6/index.md)
 

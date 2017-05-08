@@ -30,11 +30,5 @@ _Context: David Cameron, European Union, The Sunday Telegraph_
 ### [A Soyuz space capsule containing Oleg Kononenko (Russia), Andr Kuipers (Netherlands) and Don Pettit (United States) lands safely in Kazakhstan. ](/news/2012/07/1/a-soyuz-space-capsule-containing-oleg-kononenko-russia-andre-kuipers-netherlands-and-don-pettit-united-states-lands-safely-in-kazakhs.md)
 Read the latest World and International news headlines from Sky News Australia. For coverage of breaking news from around the World visit skynews.com.au.
 
-### [UEFA Euro 2012:The Olimpiyskiy National Sports Complex in Kiev prepares to host the UEFA Euro 2012 Final, contested by Spain and Italy. ](/news/2012/07/1/uefa-euro-2012-pthe-olimpiyskiy-national-sports-complex-in-kiev-prepares-to-host-the-uefa-euro-2012-final-contested-by-spain-and-italy.md)
-Spain are the undisputed kings of European football after masterful display inspires a 4-0 win over Italy in Euro 2012.
-
-### [In golf, Tiger Woods wins the AT&T National passing Jack Nicklaus for PGA Tour wins and is now second behind Sam Snead. ](/news/2012/07/1/in-golf-tiger-woods-wins-the-at-t-national-passing-jack-nicklaus-for-pga-tour-wins-and-is-now-second-behind-sam-snead.md)
-Tiger Woods won the AT&#38;amp;T National on Sunday at scorching Congressional Country Club for his 74th career PGA Tour title.
-
 ## [Previous Day...](/news/2012/06/30/index.md)
 

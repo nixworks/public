@@ -45,8 +45,5 @@ A mission that aims to slam a spacecraft into a near-Earth asteroid now has a ta
 ### [Koryo Tours and Nosotek release the first North Korean video game, titled ''Pyongyang Racer''. ](/news/2013/02/22/koryo-tours-and-nosotek-release-the-first-north-korean-video-game-titled-pyongyang-racer.md)
 You know how much fun you have driving around and finding places to fill up your car with fuel? North Korea has come up with a fascinatingly awful simulation of this mind-numbing menial chore.
 
-### [In boxing, on the "B" sample of the doping tests for his November 2012 fight with Wladimir Klitschko,  Mariusz Wach also tested positive for anabolic steroids. ](/news/2013/02/22/in-boxing-on-the-b-sample-of-the-doping-tests-for-his-november-2012-fight-with-wladimir-klitschko-mariusz-wach-also-tested-positive-for.md)
-_Context: Mariusz Wach, Wladimir Klitschko, anabolic steroids, boxing, doping_
-
 ## [Previous Day...](/news/2013/02/21/index.md)
 
