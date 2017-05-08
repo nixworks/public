@@ -1,13 +1,14 @@
 ### [2017-05-7](/news/2017/05/7/index.md)
 
-# Voters in France return to the polls for a run-off, to elect either Emmanuel Macron or Marine Le Pen as the new President of France. 
+# Voters in France return to the polls for a run-off, to elect either Emmanuel Macron or Marine Le Pen as the new President of France.
 
 
 
 
 ### Source:
 
-1. [Financial Times](https://www.ft.com/content/28426baa-3197-11e7-9555-23ef563ecf9a)
+1. [BBC](http://www.bbc.com/news/live/world-europe-39823865)
+2. [The New York Times](https://www.nytimes.com/interactive/2017/05/07/world/europe/france-election-results-maps.html?_r=0)
 
 ### Related:
 
