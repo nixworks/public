@@ -9,9 +9,6 @@ _Context: Moon Jae-in, South Korea, South Korean presidential election, 2017_
 ### [Jeremy Corbyn says the 'elites' want to hijack Brexit. ](/news/2017/05/9/jeremy-corbyn-says-the-elites-want-to-hijack-brexit.md)
 _Context: Brexit, Jeremy Corbyn, United Kingdom general election, 2017_
 
-### [United States Congressman Rod Blum from Iowa is heckled at a town hall meeting from a "pre-screened" audience as he attempted to explain his vote for the American Health Care Act of 2017. ](/news/2017/05/9/united-states-congressman-rod-blum-from-iowa-is-heckled-at-a-town-hall-meeting-from-a-pre-screened-audience-as-he-attempted-to-explain-his.md)
-Rod Blum then tells The Post that the GOP health-care bill &ldquo;isn&rsquo;t a repeal and replace. This is Obamacare 2.0.&quot;
-
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
@@ -35,8 +32,8 @@ The Senate has confirmed Heather Wilson as Air Force secretary, making her Presi
 ### [Rare specimens of daisies from the 1850s originally held in the National Museum of Natural History in Paris were reportedly destroyed by Australia in March allegedly due to incomplete paperwork. ](/news/2017/05/8/rare-specimens-of-daisies-from-the-1850s-originally-held-in-the-national-museum-of-natural-history-in-paris-were-reportedly-destroyed-by-aus.md)
 The French collection was incinerated by Australian biosecurity officers due to missing paperwork.
 
-### [Scientists have discovered why hair turns grey and goes bald in mice after researchers from the University of Texas Southwestern Medical Center accidentally made the connection while studying an unrelated rare genetic disease. ](/news/2017/05/8/scientists-have-discovered-why-hair-turns-grey-and-goes-bald-in-mice-after-researchers-from-the-university-of-texas-southwestern-medical-cen.md)
-_Context: University of Texas Southwestern Medical Center_
+### [The Journal ''Genes & Development'' publishes research from the University of Texas Southwestern Medical Center in a mouse-model study (which may translate over to humans) alluding as to why hair turns gray and goes bald. The scientists describe a protein called KROX20 which switches on skin cells that become a hair shaft, which then causes cells to produce another protein called stem cell factor. In mice, these two proteins are important for baldness and graying. ](/news/2017/05/8/the-journal-genes-development-publishes-research-from-the-university-of-texas-southwestern-medical-center-in-a-mouse-model-study-whic.md)
+_Context: Genes & Development, KROX20, University of Texas Southwestern Medical Center, bald, cell, gray, hair, mouse, protein, skin, stem cell factor_
 
 ---
 

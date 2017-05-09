@@ -9,8 +9,5 @@ _Context: Moon Jae-in, South Korea, South Korean presidential election, 2017_
 ### [Jeremy Corbyn says the 'elites' want to hijack Brexit. ](/news/2017/05/9/jeremy-corbyn-says-the-elites-want-to-hijack-brexit.md)
 _Context: Brexit, Jeremy Corbyn, United Kingdom general election, 2017_
 
-### [United States Congressman Rod Blum from Iowa is heckled at a town hall meeting from a "pre-screened" audience as he attempted to explain his vote for the American Health Care Act of 2017. ](/news/2017/05/9/united-states-congressman-rod-blum-from-iowa-is-heckled-at-a-town-hall-meeting-from-a-pre-screened-audience-as-he-attempted-to-explain-his.md)
-Rod Blum then tells The Post that the GOP health-care bill &ldquo;isn&rsquo;t a repeal and replace. This is Obamacare 2.0.&quot;
-
 ## [Previous Day...](/news/2017/05/8/index.md)
 
