@@ -9,5 +9,8 @@ min Park and Cynthia Kim
 ### [Jeremy Corbyn says the "elites" want to hijack Brexit. ](/news/2017/05/9/jeremy-corbyn-says-the-elites-want-to-hijack-brexit.md)
 _Context: Brexit, Jeremy Corbyn, United Kingdom general election, 2017_
 
+### [U.S. President Donald Trump removes James Comey as Director of the Federal Bureau of Investigation, according to the White House. ](/news/2017/05/9/u-s-president-donald-trump-removes-james-comey-as-director-of-the-federal-bureau-of-investigation-according-to-the-white-house.md)
+The Trump administration says Mr Comey made &quot;serious mistakes&quot; in the Clinton email investigation.
+
 ## [Previous Day...](/news/2017/05/8/index.md)
 
