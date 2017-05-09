@@ -1,6 +1,6 @@
 ### [2017-05-9](/news/2017/05/9/index.md)
 
-# Jeremy Corbyn says the 'elites' want to hijack Brexit. 
+# Jeremy Corbyn says the "elites" want to hijack Brexit. 
 
 
 

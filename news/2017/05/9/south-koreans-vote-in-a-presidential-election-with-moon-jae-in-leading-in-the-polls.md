@@ -2,12 +2,13 @@
 
 # South Koreans vote in a presidential election, with Moon Jae-in leading in the polls. 
 
-
+min Park and Cynthia Kim
 
 
 ### Source:
 
-1. [TIME'' magazine](http://time.com/4771661/park-guen-hye-moon-jae-in-south-korea-election/)
+1. [Reuters](http://www.reuters.com/article/us-southkorea-election-idUSKBN18425S?il=0)
+2. [TIME'' magazine](http://time.com/4771661/park-guen-hye-moon-jae-in-south-korea-election/)
 
 ### Related:
 
