@@ -3,6 +3,12 @@
 ### [The United Nations Human Rights Council conducts a periodic review of the human rights situation in the Philippines. ](/news/2017/05/8/the-united-nations-human-rights-council-conducts-a-periodic-review-of-the-human-rights-situation-in-the-philippines.md)
 The Philippine government will present the human rights situation before the United Nations Human Rights Council in Geneva, Switzerland during the third cycle of its Universal Periodic Review. LIVE at 3 p.m. 
 
+### [The Phoenix, Arizona police arrest the suspected Maryvale serial shooter. ](/news/2017/05/8/the-phoenix-arizona-police-arrest-the-suspected-maryvale-serial-shooter.md)
+A man arrested last month in a 2015 homicide has been charged in the Phoenix serial street shootings case. 
+
+### [Sally Yates testifies before the United States Senate Judiciary Subcommittee on Crime and Terrorism concerning investigations into Russia's role in the 2016 U.S. presidential election and in the Trump administration. ](/news/2017/05/8/sally-yates-testifies-before-the-united-states-senate-judiciary-subcommittee-on-crime-and-terrorism-concerning-investigations-into-russia-s.md)
+_Context: 2016 U.S. presidential election, Russian interference in the 2016 United States elections, Sally Yates, Trump administration, United States Senate Judiciary Subcommittee on Crime and Terrorism_
+
 ### [Rare specimens of daisies from the 1850s originally held in the National Museum of Natural History in Paris were reportedly destroyed by Australia in March allegedly due to incomplete paperwork. ](/news/2017/05/8/rare-specimens-of-daisies-from-the-1850s-originally-held-in-the-national-museum-of-natural-history-in-paris-were-reportedly-destroyed-by-aus.md)
 The French collection was incinerated by Australian biosecurity officers due to missing paperwork.
 

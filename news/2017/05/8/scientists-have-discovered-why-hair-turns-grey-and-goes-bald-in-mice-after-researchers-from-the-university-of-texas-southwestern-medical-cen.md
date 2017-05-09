@@ -7,4 +7,4 @@
 
 ### Source:
 
-1. [Time](http://time.com/4770554/grey-hair-loss/?iid=sr-link7)
+1. [Time](http://time.com/4770554/grey-hair-loss/)
