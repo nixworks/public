@@ -1,7 +1,7 @@
 ## [2006-02-24](/news/2006/02/24/index.md)
 
 ### [ Philippine President Gloria Macapagal-Arroyo declares a state of emergency in attempt to subdue a possible military coup. ](/news/2006/02/24/philippine-president-gloria-macapagal-arroyo-declares-a-state-of-emergency-in-attempt-to-subdue-a-possible-military-coup.md)
-_Context: Gloria Macapagal Arroyo, Philippine, Philippine President, an alleged plot_
+_Context: Gloria Macapagal Arroyo, Philippine President, Philippines, an alleged plot_
 
 ### [ Jyllands-Posten Muhammad cartoons controversy: A Finnish editor of the paper ''Kaltio'', Jussi Vilkuna, was fired after refusing to remove a Muhammed-cartoon on the online version of the paper. This cartoon featured a westerner in the grips of Muhammad (who was masked), and Finnish politicians burning Danish flags. ](/news/2006/02/24/jyllands-posten-muhammad-cartoons-controversy-a-finnish-editor-of-the-paper-kaltio-jussi-vilkuna-was-fired-after-refusing-to-remove.md)
 _Context: Finland, Jyllands-Posten Muhammad cartoons controversy, Kaltio_

@@ -25,7 +25,7 @@ _Context: Broadway, OSHA, Spider-Man: Turn Off the Dark, occupational safety and
 _Context: Government Accountability Office, Government of the United States, U.S. dollar_
 
 ### [An earthquake occurs offshore near the Philippines city of Surigao causing property damage. ](/news/2011/03/4/an-earthquake-occurs-offshore-near-the-philippines-city-of-surigao-causing-property-damage.md)
-_Context: Philippine, Surigao City, earthquake_
+_Context: Philippines, Surigao City, earthquake_
 
 ### [The U.S. Chemical Safety and Hazard Investigation Board believes that there may have been a fundamental safety design problems with the device that failed to stop the Deepwater Horizon oil spill and has asked for more time to test it. ](/news/2011/03/4/the-u-s-chemical-safety-and-hazard-investigation-board-believes-that-there-may-have-been-a-fundamental-safety-design-problems-with-the-devi.md)
 _Context: Deepwater Horizon oil spill, U.S. Chemical Safety and Hazard Investigation Board_

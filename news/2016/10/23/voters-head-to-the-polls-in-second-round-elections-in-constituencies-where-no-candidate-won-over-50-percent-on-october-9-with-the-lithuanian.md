@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [Voters in France return to the polls for a run-off, to elect either Emmanuel Macron or Marine Le Pen as the new President of France. Exit polls indicate that the centrist Macron defeated the far-right Le Pen. ](/news/2017/05/7/voters-in-france-return-to-the-polls-for-a-run-off-to-elect-either-emmanuel-macron-or-marine-le-pen-as-the-new-president-of-france-exit-po.md) _Context: run-off_
+1. [Voters in France return to the polls for a run-off, to elect either Emmanuel Macron or Marine Le Pen as the new President of France.](/news/2017/05/7/voters-in-france-return-to-the-polls-for-a-run-off-to-elect-either-emmanuel-macron-or-marine-le-pen-as-the-new-president-of-france.md) _Context: run-off_
 2. [Voting begins in territories and diplomatic missions west of Metropolitan France for the second round of the presidential election between Emmanuel Macron and Marine Le Pen. ](/news/2017/05/6/voting-begins-in-territories-and-diplomatic-missions-west-of-metropolitan-france-for-the-second-round-of-the-presidential-election-between-e.md) _Context: run-off_
 3. [Voters in Lithuania vote to elect representatives for the 141-seat parliament. ](/news/2016/10/9/voters-in-lithuania-vote-to-elect-representatives-for-the-141-seat-parliament.md) _Context: Lithuanian parliamentary election, 2016_
 4. [The second round of voting takes place to elect either Norbert Hofer or Alexander Van der Bellen as President of Austria. ](/news/2016/05/22/the-second-round-of-voting-takes-place-to-elect-either-norbert-hofer-or-alexander-van-der-bellen-as-president-of-austria.md) _Context: run-off_

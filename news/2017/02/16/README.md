@@ -19,7 +19,7 @@ President Donald Trump on Wednesday called on Venezuela to release opposition le
 The DOJ told a federal court Thursday that there&#x27;s no point in further court battles over President Trump&#x27;s executive order on immigration.
 
 ### [The Supreme Court of the Philippines allows the electoral protest of defeated candidate  Bongbong Marcos against Philippine vice president  Leni Robredo to continue. ](/news/2017/02/16/the-supreme-court-of-the-philippines-allows-the-electoral-protest-of-defeated-candidate-bongbong-marcos-against-philippine-vice-president.md)
-_Context: Bongbong Marcos, Leni Robredo, Philippine, Philippine presidential election, 2016, Supreme Court_
+_Context: Bongbong Marcos, Leni Robredo, Philippine presidential election, 2016, Philippines, Supreme Court_
 
 ### [United Nations officials announce the creation of a new team in Geneva to investigate possible war crimes, crimes against humanity and genocide during the Syrian Civil War in order to prepare for future prosecutions of those responsible. ](/news/2017/02/16/united-nations-officials-announce-the-creation-of-a-new-team-in-geneva-to-investigate-possible-war-crimes-crimes-against-humanity-and-genoc.md)
 Geneva-based team will investigate ‘abuses that amount to international crimes’ and prepare files for future prosecutions

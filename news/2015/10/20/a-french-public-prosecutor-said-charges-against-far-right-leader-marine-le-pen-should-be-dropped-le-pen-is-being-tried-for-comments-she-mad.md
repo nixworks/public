@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [Voters in France return to the polls for a run-off, to elect either Emmanuel Macron or Marine Le Pen as the new President of France. Exit polls indicate that the centrist Macron defeated the far-right Le Pen. ](/news/2017/05/7/voters-in-france-return-to-the-polls-for-a-run-off-to-elect-either-emmanuel-macron-or-marine-le-pen-as-the-new-president-of-france-exit-po.md) _Context: Marine Le Pen_
+1. [Voters in France return to the polls for a run-off, to elect either Emmanuel Macron or Marine Le Pen as the new President of France.](/news/2017/05/7/voters-in-france-return-to-the-polls-for-a-run-off-to-elect-either-emmanuel-macron-or-marine-le-pen-as-the-new-president-of-france.md) _Context: Marine Le Pen_
 2. [Voting begins in territories and diplomatic missions west of Metropolitan France for the second round of the presidential election between Emmanuel Macron and Marine Le Pen. ](/news/2017/05/6/voting-begins-in-territories-and-diplomatic-missions-west-of-metropolitan-france-for-the-second-round-of-the-presidential-election-between-e.md) _Context: Marine Le Pen_
 3. [Candidates Marine Le Pen and Emmanuel Macron face off in a debate. ](/news/2017/05/3/candidates-marine-le-pen-and-emmanuel-macron-face-off-in-a-debate.md) _Context: Marine Le Pen_
 4. [Far-right candidate Marine Le Pen is accused of plagiarising a speech by Francois Fillon. ](/news/2017/05/2/far-right-candidate-marine-le-pen-is-accused-of-plagiarising-a-speech-by-franassois-fillon.md) _Context: Marine Le Pen_

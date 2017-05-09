@@ -19,7 +19,7 @@ _Context: China, Flash flooding, Heilongjiang, Shalan_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ In the Philippines, president Gloria Arroyo's press secretary Ignacio Bunye states that the president is ready to face proper impeachment charges if the opposition follows the proper legal process. Many politicians have expressed support to her. ](/news/2005/06/13/in-the-philippines-president-gloria-arroyo-s-press-secretary-ignacio-bunye-states-that-the-president-is-ready-to-face-proper-impeachment-c.md)
-_Context: Gloria Arroyo, Ignacio Bunye, Philippine, impeach_
+_Context: Gloria Arroyo, Ignacio Bunye, Philippines, impeach_
 
 ### [ Philippines police are ready to charge former National Bureau of Investigation deputy director Samuel Ong for illegal wiretapping and sedition ](/news/2005/06/13/philippines-police-are-ready-to-charge-former-national-bureau-of-investigation-deputy-director-samuel-ong-for-illegal-wiretapping-and-sedit.md)
 _Context: Samuel Ong, sedition, wiretapping_

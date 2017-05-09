@@ -28,7 +28,7 @@ _Context: Somalia, Transitional Federal Government, War in Somalia (2009-), mili
 _Context: Air France, Atlantic, crash of Air France Flight 447_
 
 ### [ The Philippines' Army kill 30 Moro Islamic Liberation Front members and capture a "bomb factory" on Mindanao. ](/news/2009/06/6/the-philippines-army-kill-30-moro-islamic-liberation-front-members-and-capture-a-bomb-factory-on-mindanao.md)
-_Context: Mindanao, Moro Islamic Liberation Front, Philippine, Philippine Army, communist insurgency_
+_Context: Mindanao, Moro Islamic Liberation Front, Philippine Army, Philippines, communist insurgency_
 
 ### [ Former West Berlin police officer Karl-Heinz Kurras is revealed to have spied for East Germany's Stasi. ](/news/2009/06/6/former-west-berlin-police-officer-karl-heinz-kurras-is-revealed-to-have-spied-for-east-germany-s-stasi.md)
 _Context: East Germany, Karl-Heinz Kurras, Stasi, West Berlin, espionage, police officer_

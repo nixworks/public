@@ -19,7 +19,7 @@ U.S. oil prices closed at a 17-month high on Friday in quiet trade ahead of the 
 Bonanza Creek Energy Inc (BCEI.N) and two other energy firms announced on Friday plans to file for bankruptcy in coming weeks, joining a long list of U.S. energy companies that have succumbed to a drop in oil prices.
 
 ### [Former Philippines president and current mayor of Manila Joseph Estrada is hospitalized for pneumonia. ](/news/2016/12/23/former-philippines-president-and-current-mayor-of-manila-joseph-estrada-is-hospitalized-for-pneumonia.md)
-_Context: Joseph Estrada, Manila, Philippine, pneumonia_
+_Context: Joseph Estrada, Manila, Philippines, pneumonia_
 
 ### [ United Nations Security Council Resolution 2334 The United States Ambassador to the United Nations Samantha Power abstains from voting in a 14-0 Security Council decision condemning Israeli settlement of the Palestinian territories. ](/news/2016/12/23/united-nations-security-council-resolution-2334-pthe-united-states-ambassador-to-the-united-nations-samantha-power-abstains-from-voting-in.md)
 The United States in the past has used its veto on similar resolutions but abstained from the vote Friday.

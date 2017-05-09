@@ -1,7 +1,7 @@
 ## [2012-02-2](/news/2012/02/2/index.md)
 
 ### [The Philippines military claim to have killed Abu Sayyaf leader Umbra Jumdail,  Malaysian Zulkifli bin Hir, a leader of Jemaah Islamiyah, and Singaporean Abdullah Ali. ](/news/2012/02/2/the-philippines-military-claim-to-have-killed-abu-sayyaf-leader-umbra-jumdail-malaysian-zulkifli-bin-hir-a-leader-of-jemaah-islamiyah-an.md)
-_Context: Abu Sayyaf, Jemaah Islamiyah, Malaysian, Philippine, Umbra Jumdail, Zulkifli bin Hir_
+_Context: Abu Sayyaf, Jemaah Islamiyah, Malaysian, Philippines, Umbra Jumdail, Zulkifli bin Hir_
 
 ### [Six kidnapped aid workers are released in Yemen. ](/news/2012/02/2/six-kidnapped-aid-workers-are-released-in-yemen.md)
 _Context: Yemen_

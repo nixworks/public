@@ -46,7 +46,7 @@ _Context: President of Tunisia, Tunisia, Zine El Abidine Ben Ali, recent unrest_
 _Context: Lebanon, Najib Mikati_
 
 ### [Burma faces criticism at the United Nations Human Rights Council over its human rights record. ](/news/2011/01/27/burma-faces-criticism-at-the-united-nations-human-rights-council-over-its-human-rights-record.md)
-_Context: Burma, United Nations Human Rights Council, human rights record_
+_Context: Burma, Human Rights Council, human rights record_
 
 ### [The Supreme Court in the U.S. state of Illinois rules that Rahm Emanuel, former Chief of Staff to President of the United States Barack Obama, is eligible to run for Mayor of Chicago. ](/news/2011/01/27/the-supreme-court-in-the-u-s-state-of-illinois-rules-that-rahm-emanuel-former-chief-of-staff-to-president-of-the-united-states-barack-obam.md)
 _Context: Illinois, Mayor of Chicago, Obama, President, Rahm Emanuel, Supreme Court, state_

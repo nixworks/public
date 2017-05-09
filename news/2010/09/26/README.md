@@ -55,7 +55,7 @@ _Context: Wisconsin, Wisconsin River, state_
 Aid boat carrying Jewish activists sails to Gaza
 
 ### [UNHRC report into the Gaza flotilla raid:The 57-member United Nations Human Rights Council is to investigate the facts found by a report into the Gaza flotilla raid carried out by Israel earlier this year. ](/news/2010/09/26/unhrc-report-into-the-gaza-flotilla-raid-pthe-57-member-united-nations-human-rights-council-is-to-investigate-the-facts-found-by-a-report-in.md)
-_Context: Gaza flotilla raid, Israel, United Nations Human Rights Council_
+_Context: Gaza flotilla raid, Human Rights Council, Israel_
 
 ### [Philip Alston, the international law scholar who recently stepped down as the United Nations's senior official on extrajudicial killings, calls for the UN to investigate war crimes in Afghanistan and to convict those responsible. ](/news/2010/09/26/philip-alston-the-international-law-scholar-who-recently-stepped-down-as-the-united-nations-s-senior-official-on-extrajudicial-killings-ca.md)
 _Context: Afghanistan, Philip Alston, United Nations, extrajudicial killing, international law, war crime_

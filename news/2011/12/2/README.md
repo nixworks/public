@@ -10,7 +10,7 @@ _Context: Agriculture Committee, Jon Corzine, MF Global, New Jersey, U.S. House 
 _Context: Aung San Suu Kyi, Burma, Hillary Clinton, United States Secretary of State, democratic reforms_
 
 ### [The United Nations Human Rights Council denounces the crimes against humanity during the 2011 Syrian uprising which killed over 4,000 people since the uprising started in March. ](/news/2011/12/2/the-united-nations-human-rights-council-denounces-the-crimes-against-humanity-during-the-2011-syrian-uprising-which-killed-over-4-000-people.md)
-_Context: 2011 Syrian uprising, United Nations Human Rights Council, crimes against humanity_
+_Context: 2011 Syrian uprising, Human Rights Council, crimes against humanity_
 
 ## [Previous Day...](/news/2011/12/1/index.md)
 

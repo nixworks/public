@@ -13,7 +13,7 @@ China says it will send medical teams and a naval hospital ship to the typhoon-h
 Freshman lawmaker is set to be arraigned Wednesday, admits he is an alcoholic.
 
 ### [The Supreme Court of the Philippines abolishes the Priority Development Assistance Fund, otherwise known as the 'pork barrel', prompting Philippine President Benigno Aquino III to fly back to Manila. ](/news/2013/11/20/the-supreme-court-of-the-philippines-abolishes-the-priority-development-assistance-fund-otherwise-known-as-the-pork-barrel-prompting-phi.md)
-_Context: Benigno Aquino III, Manila, Philippine, Philippine President, Priority Development Assistance Fund, Supreme Court, pork barrel_
+_Context: Benigno Aquino III, Manila, Philippine President, Philippines, Priority Development Assistance Fund, Supreme Court, pork barrel_
 
 ### [The General Synod of the Church of England votes in favour of legislation to allow the ordination of women bishops by 2014. ](/news/2013/11/20/the-general-synod-of-the-church-of-england-votes-in-favour-of-legislation-to-allow-the-ordination-of-women-bishops-by-2014.md)
 The Church of England votes in favour of proposals which could see final approval given to women bishops next year.

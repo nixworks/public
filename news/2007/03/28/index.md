@@ -43,7 +43,7 @@ _Context: North Korea, World Food Programme, starvation_
 _Context: Khyber Pakhtunkhwa, Pakistan, Tank_
 
 ### [ Armed gunmen take 32 children and two teachers hostage in the centre of Manila, the capital of the Philippines. The gunmen later surrendered and released the hostages. ](/news/2007/03/28/armed-gunmen-take-32-children-and-two-teachers-hostage-in-the-centre-of-manila-the-capital-of-the-philippines-the-gunmen-later-surrendere.md)
-_Context: Manila, Philippine, teacher_
+_Context: Manila, Philippines, teacher_
 
 ## [Previous Day...](/news/2007/03/27/index.md)
 

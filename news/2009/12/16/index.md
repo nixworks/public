@@ -28,7 +28,7 @@ Scientists have found an ancient burial shroud in Jerusalem which they say is ve
 _Context: Guinea, Moussa Dadis Camara, Toumba Diakite, massacre of opposition protesters_
 
 ### [ The Philippine province of Albay is put under a "state of imminent disaster" as activity at the Mayon Volcano increases. ](/news/2009/12/16/the-philippine-province-of-albay-is-put-under-a-state-of-imminent-disaster-as-activity-at-the-mayon-volcano-increases.md)
-_Context: Albay, Mayon Volcano, Philippine_
+_Context: Albay, Mayon Volcano, Philippines_
 
 ### [ North Korea reportedly bans all foreigners from entering the country until early February 2010, for unknown reasons. ](/news/2009/12/16/north-korea-reportedly-bans-all-foreigners-from-entering-the-country-until-early-february-2010-for-unknown-reasons.md)
 North Korea reportedly plans to ban foreigners from the country from Sunday unti..

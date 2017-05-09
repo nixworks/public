@@ -10,7 +10,7 @@ _Context: Aleppo, Aleppo offensive (November-December 2016), Hezbollah, Internat
 So-called Islamic State says one of its militants carried out the deadly Berlin lorry attack.
 
 ### [A news publisher is allegedly killed in the Philippine province of Catanduanes after publishing a story about the controversial drug purge campaign. ](/news/2016/12/20/a-news-publisher-is-allegedly-killed-in-the-philippine-province-of-catanduanes-after-publishing-a-story-about-the-controversial-drug-purge-c.md)
-_Context: Catanduanes, Philippine, drug war_
+_Context: Catanduanes, Philippine Drug War, Philippines_
 
 ### [Four police officers and one suspect have been killed following a raid on an apartment near Al-Karak in Jordan. Two more suspects have been arrested under suspicions of connections with Sunday's attack in the city by the Islamic State. ](/news/2016/12/20/four-police-officers-and-one-suspect-have-been-killed-following-a-raid-on-an-apartment-near-al-karak-in-jordan-two-more-suspects-have-been.md)
 One suspect among five dead after raid on apartment in Jordanian province which saw a deadly castle assault on Sunday.

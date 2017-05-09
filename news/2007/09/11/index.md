@@ -46,7 +46,7 @@ Turkish police foiled a bomb attack in Ankara on Tuesday, the sixth anniversary 
 _Context: OPEC, Saudi Arabia_
 
 ### [ Police in the Philippines arrest seven militants suspected of plotting to bomb tourist and shopping locations in the southern Philippines. ](/news/2007/09/11/police-in-the-philippines-arrest-seven-militants-suspected-of-plotting-to-bomb-tourist-and-shopping-locations-in-the-southern-philippines.md)
-_Context: Philippine_
+_Context: Philippines_
 
 ### [ The European Union decides the United Kingdom can continue to use imperial measurements for the foreseeable future. ](/news/2007/09/11/the-european-union-decides-the-united-kingdom-can-continue-to-use-imperial-measurements-for-the-foreseeable-future.md)
 _Context: European Union, United Kingdom, imperial measurement_

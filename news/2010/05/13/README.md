@@ -10,7 +10,7 @@ _Context: Baghdad_
 _Context: Moscow_
 
 ### [Seven countries who have faced accusations of human rights violations win three-year seats on the United Nations Human Rights Council in an uncontested election. ](/news/2010/05/13/seven-countries-who-have-faced-accusations-of-human-rights-violations-win-three-year-seats-on-the-united-nations-human-rights-council-in-an.md)
-_Context: United Nations Human Rights Council_
+_Context: Human Rights Council_
 
 ### [At least 21 people are killed and five are wounded in an outburst at a colliery in Puding County, Anshun, Guizhou. ](/news/2010/05/13/at-least-21-people-are-killed-and-five-are-wounded-in-an-outburst-at-a-colliery-in-puding-county-anshun-guizhou.md)
 _Context: Anshun, Guizhou, Puding County, coal miners, outburst_

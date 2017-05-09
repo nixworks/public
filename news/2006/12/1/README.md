@@ -16,7 +16,7 @@ _Context: Bahrain, MP, parliamentary elections_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Typhoon Durian has killed at least 388 people in Albay province on the island of Luzon in the Philippines with the death toll expected to climb as rescuers get to affected villages. ](/news/2006/12/1/typhoon-durian-has-killed-at-least-388-people-in-albay-province-on-the-island-of-luzon-in-the-philippines-with-the-death-toll-expected-to-c.md)
-_Context: Albay, Luzon, Philippine, Typhoon Durian_
+_Context: Albay, Luzon, Philippines, Typhoon Durian_
 
 ### [ Kim Beazley calls a vote for the leadership of the Federal Australian Labor Party for Monday. He will face a challenge from Kevin Rudd, the Opposition spokesman on foreign affairs. Jenny Macklin faces a challenge from Julia Gillard for the Deputy Leadership. ](/news/2006/12/1/kim-beazley-calls-a-vote-for-the-leadership-of-the-federal-australian-labor-party-for-monday-he-will-face-a-challenge-from-kevin-rudd-the.md)
 _Context: Jenny Macklin, Julia Gillard, Kevin Rudd, Kim Beazley, Labor Party_

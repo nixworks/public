@@ -40,7 +40,7 @@ Microblogging site Twitter went offline Friday after hackers calling themselves 
 _Context: Atlantic, The Azores, crater, meteor_
 
 ### [ Lava flows and ash explosions continue to emerge from Philippine volcano Mount Mayon while scientists predict a major eruption in the coming weeks and 30,000 people remain in temporary shelter. ](/news/2009/12/18/lava-flows-and-ash-explosions-continue-to-emerge-from-philippine-volcano-mount-mayon-while-scientists-predict-a-major-eruption-in-the-comin.md)
-_Context: Mount Mayon, Philippine, ash, eruption, lava, volcanic activity_
+_Context: Mount Mayon, Philippines, ash, eruption, lava, volcanic activity_
 
 ### [ In a reversal of a previous decision, Sir John Chilcot insists that former British Prime Minister Tony Blair will give the majority of his evidence to The Iraq Inquiry in public. ](/news/2009/12/18/in-a-reversal-of-a-previous-decision-sir-john-chilcot-insists-that-former-british-prime-minister-tony-blair-will-give-the-majority-of-his.md)
 _Context: Iraq Inquiry, John Chilcot, Prime Minster, Tony Blair_

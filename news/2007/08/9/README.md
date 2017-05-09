@@ -49,7 +49,7 @@ _Context: Drug Enforcement Commission, Levy Mwanawasa, President, Ryan Chitoba_
 _Context: Assam, United Liberation Front of Asom_
 
 ### [ Suspected Abu Sayyaf militants ambush Philippines Government troops on the island of Jolo, killing nine. More than 50 people died in fighting during the day between the army, Abu Sayyaf and elements of the Moro National Liberation Front.   ](/news/2007/08/9/suspected-abu-sayyaf-militants-ambush-philippines-government-troops-on-the-island-of-jolo-killing-nine-more-than-50-people-died-in-fighti.md)
-_Context: Abu Sayyaf, Jolo, Moro National Liberation Front, Philippine_
+_Context: Abu Sayyaf, Jolo, Moro National Liberation Front, Philippines_
 
 ### [  A standoff occurs at Dili Airport as to whether jailed former Government Minister Rogerio Lobato can leave East Timor for medical treatment in Malaysia. [http://www.abc.net.au/news/stories/2007/08/09/2000939.htm (ABC News Australia)] Mobs burn hundreds of houses in pro-Fretilin areas between Viqueque and Baucau in protest at the appointment of Xanana Gusmao as the Prime Minister of East Timor with 60 people arrested in Baucau](/news/2007/08/9/a-standoff-occurs-at-dili-airport-as-to-whether-jailed-former-government-minister-rogerio-lobato-can-leave-east-timor-for-medical-treatmen.md)
 _Context: Baucau, Dili, East Timor, Fretilin, Malaysia, Prime Minister of East Timor, Rogerio Lobato, Viqueque, Xanana Gusmao_

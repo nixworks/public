@@ -10,7 +10,7 @@ Ousted Honduran president Manuel Zelaya said he expects the US administration to
 _Context: Republic of Dagestan, Russia_
 
 ### [ At least 23 government soldiers and more than 20 Muslim extremists are killed in a day-long clash in the southern Philippines. ](/news/2009/08/13/at-least-23-government-soldiers-and-more-than-20-muslim-extremists-are-killed-in-a-day-long-clash-in-the-southern-philippines.md)
-_Context: Islam, Philippine_
+_Context: Islam, Philippines_
 
 ### [ Former Afghan President Burhanuddin Rabbani survives an ambush by the Taliban in the Ali Abad District of Kunduz province, Afghanistan. ](/news/2009/08/13/former-afghan-president-burhanuddin-rabbani-survives-an-ambush-by-the-taliban-in-the-ali-abad-district-of-kunduz-province-afghanistan.md)
 _Context: Afghan President, Afghanistan, Ali Abad District, Burhanuddin Rabbani, Kunduz Province, Taliban, ambush_

@@ -28,7 +28,7 @@ _Context: Scottish Labour Party, Scottish Parliament, Wendy Alexander, political
 _Context: Khyber Agency, Pakistan, Peshawar, Taliban_
 
 ### [ Filipino boxer Manny Pacquiao beats the American David Daz to win the WBC world lightweight title. Pacquiao becomes the first Asian boxer to win four titles in four different weight divisions. ](/news/2008/06/28/filipino-boxer-manny-pacquiao-beats-the-american-david-diaz-to-win-the-wbc-world-lightweight-title-pacquiao-becomes-the-first-asian-boxer.md)
-_Context: David Daz, Manny Pacquiao, Philippine, United States, WBC_
+_Context: David Daz, Manny Pacquiao, Philippines, United States, WBC_
 
 ## [Previous Day...](/news/2008/06/27/index.md)
 

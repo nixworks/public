@@ -1,7 +1,7 @@
 ## [2005-11-27](/news/2005/11/27/index.md)
 
 ### [ 23rd Southeast Asian Games formally opens in Manila, Philippines. ](/news/2005/11/27/23rd-southeast-asian-games-formally-opens-in-manila-philippines.md)
-_Context: 23rd Southeast Asian Games, Manila, Philippine_
+_Context: 23rd Southeast Asian Games, Manila, Philippines_
 
 ### [ A tornado outbreak across four U.S. states kills at least two people. ](/news/2005/11/27/a-tornado-outbreak-across-four-u-s-states-kills-at-least-two-people.md)
 _Context: state, tornado outbreak_

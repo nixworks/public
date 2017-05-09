@@ -25,7 +25,7 @@ _Context: 2008 invasion of Anjouan, African Union, Anjouan, Comoros, drop leafle
 _Context: Iftikhar Chaudhry, MNA, Pakistan Peoples Party, Prime Minister, Yusuf Raza Gillani, house arrest_
 
 ### [ Former President of the Philippines Corazon Aquino, the leader of the 1986 People Power Revolution, is diagnosed with colon cancer. ](/news/2008/03/24/former-president-of-the-philippines-corazon-aquino-the-leader-of-the-1986-people-power-revolution-is-diagnosed-with-colon-cancer.md)
-_Context: 1986 People Power Revolution, Corazon Aquino, Philippine, Philippine President, colon cancer_
+_Context: 1986 People Power Revolution, Corazon Aquino, Philippine President, Philippines, colon cancer_
 
 ### [ The Olympic Flame of the 2008 Summer Olympics is lit in Olympia, despite disruption by three protesters from Reporters Without Borders, among whom was Robert Mnard.  ](/news/2008/03/24/the-olympic-flame-of-the-2008-summer-olympics-is-lit-in-olympia-despite-disruption-by-three-protesters-from-reporters-without-borders-amo.md)
 _Context: Beijing Olympiad, Olympia, Greece, Olympic Torch, Reporters without Borders's, Robert Mnard_

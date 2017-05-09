@@ -16,7 +16,7 @@ Czech President Vaclav Klaus may be the European Union’s bad boy now, but gene
 _Context: Indonesia, Jakarta_
 
 ### [ The United Nations Human Rights Council endorses the Goldstone report on the Gaza War, accusing both Israel and Hamas of war crimes. ](/news/2009/10/16/the-united-nations-human-rights-council-endorses-the-goldstone-report-on-the-gaza-war-accusing-both-israel-and-hamas-of-war-crimes.md)
-_Context: 2008-2009 Gaza War, Goldstone Report, Hamas, Israel, United Nations, United Nations Human Rights Council, war crime_
+_Context: 2008-2009 Gaza War, Goldstone Report, Hamas, Human Rights Council, Israel, United Nations, war crime_
 
 ### [ Five men are convicted in Sydney, Australia of plotting a terrorist attack. ](/news/2009/10/16/five-men-are-convicted-in-sydney-australia-of-plotting-a-terrorist-attack.md)
 _Context: 2005 Sydney terrorism plot, Australia, Sydney_
