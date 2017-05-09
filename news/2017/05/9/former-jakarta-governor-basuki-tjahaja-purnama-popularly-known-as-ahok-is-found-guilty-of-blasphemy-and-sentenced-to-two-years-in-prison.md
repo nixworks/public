@@ -1,6 +1,6 @@
 ### [2017-05-9](/news/2017/05/9/index.md)
 
-# Former Jakarta Governor Basuki Tjahaja Purnama, popularly known as "Ahok" is found guilty of blasphemy and sentenced to two years in prison. The accusation that he insulted the Quran sparked large protest last November. 
+# Former Jakarta Governor Basuki Tjahaja Purnama, popularly known as "Ahok", is found guilty of blasphemy and sentenced to two years in prison. The accusation that he insulted the Quran sparked large protest last November. 
 
 Shock sentence comes after hardline Islamist groups called for Christian official to be jailed for referencing Qur’an verse
 
