@@ -1,6 +1,6 @@
 ### [2017-05-8](/news/2017/05/8/index.md)
 
-# The Journal ''Genes & Development'' publishes research from the University of Texas Southwestern Medical Center in a mouse-model study (which may translate over to humans) alluding as to why hair turns gray and goes bald. The scientists describe a protein called KROX20 which switches on skin cells that become a hair shaft, which then causes cells to produce another protein called stem cell factor. In mice, these two proteins are important for baldness and graying. 
+# The journal ''Genes & Development'' publishes research from the University of Texas Southwestern Medical Center in a mouse-model study (which may translate over to humans) alluding as to why hair turns gray and goes bald. The scientists describe a protein called KROX20 which switches on skin cells that become a hair shaft, which then causes cells to produce another protein called stem cell factor. In mice, these two proteins are important for baldness and graying. 
 
 
 

@@ -1,6 +1,6 @@
 ### [2017-05-8](/news/2017/05/8/index.md)
 
-# At the Fort Lauderdale-Hollywood International Airport, Spirit Airlines cancels eleven flights and delays 30 due to a dispute between the airline and its pilots (as talks occur between the airline and the pilot's union, Air Line Pilots Association, International). Protests break out and three travelers are arrested. 
+# At the Fort Lauderdale-Hollywood International Airport, Spirit Airlines cancels eleven flights and delays 30 due to a dispute between the airline and its pilots (as talks occur between the airline and the pilots' union, Air Line Pilots Association, International). Protests break out and three travelers are arrested. 
 
 
 

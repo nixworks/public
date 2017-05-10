@@ -1,5 +1,11 @@
 ## [News](/news/2017/05/10/index.md)
 
+### [Mexico is reported to be the second deadliest country after Syria. ](/news/2017/05/10/mexico-is-reported-to-be-the-second-deadliest-country-after-syria.md)
+_Context: Mexican Drug War, Mexico, Syria_
+
+### [U.S. President Donald Trump contemplates on sending 5,000 more troops to Afghanistan. ](/news/2017/05/10/u-s-president-donald-trump-contemplates-on-sending-5-000-more-troops-to-afghanistan.md)
+President Trump has yet to decide on a variety of options being presented to him by U.S. military leaders, senior administration officials say.
+
 ### [Voters in the Bahamas go to the polls to elect all 39 members of the House of Assembly. ](/news/2017/05/10/voters-in-the-bahamas-go-to-the-polls-to-elect-all-39-members-of-the-house-of-assembly.md)
 Prime Minister Perry Christie is seeking a second-consecutive term for his Progressive Liberal Party in the Bahamas. But will voter anger and frustration over the lack of progress in the island-nation stymie his bid?
 
@@ -30,7 +36,7 @@ Being a communist would no longer be a fireable offense for California governmen
 
 ## [Day Before Yesterday](/news/2017/05/8/index.md)
 
-### [At the Fort Lauderdale-Hollywood International Airport, Spirit Airlines cancels eleven flights and delays 30 due to a dispute between the airline and its pilots (as talks occur between the airline and the pilot's union, Air Line Pilots Association, International). Protests break out and three travelers are arrested. ](/news/2017/05/8/at-the-fort-lauderdaleahollywood-international-airport-spirit-airlines-cancels-eleven-flights-and-delays-30-due-to-a-dispute-between-the.md)
+### [At the Fort Lauderdale-Hollywood International Airport, Spirit Airlines cancels eleven flights and delays 30 due to a dispute between the airline and its pilots (as talks occur between the airline and the pilots' union, Air Line Pilots Association, International). Protests break out and three travelers are arrested. ](/news/2017/05/8/at-the-fort-lauderdaleahollywood-international-airport-spirit-airlines-cancels-eleven-flights-and-delays-30-due-to-a-dispute-between-the.md)
 _Context: Air Line Pilots Association, International, Fort Lauderdale-Hollywood International Airport, Spirit Airlines_
 
 ### [The United Nations Human Rights Council conducts a periodic review of the human rights situation in the Philippines. ](/news/2017/05/8/the-united-nations-human-rights-council-conducts-a-periodic-review-of-the-human-rights-situation-in-the-philippines.md)
@@ -48,7 +54,7 @@ The Senate has confirmed Heather Wilson as Air Force secretary, making her Presi
 ### [Rare specimens of daisies from the 1850s originally held in the National Museum of Natural History in Paris were reportedly destroyed by Australia in March allegedly due to incomplete paperwork. ](/news/2017/05/8/rare-specimens-of-daisies-from-the-1850s-originally-held-in-the-national-museum-of-natural-history-in-paris-were-reportedly-destroyed-by-aus.md)
 The French collection was incinerated by Australian biosecurity officers due to missing paperwork.
 
-### [The Journal ''Genes & Development'' publishes research from the University of Texas Southwestern Medical Center in a mouse-model study (which may translate over to humans) alluding as to why hair turns gray and goes bald. The scientists describe a protein called KROX20 which switches on skin cells that become a hair shaft, which then causes cells to produce another protein called stem cell factor. In mice, these two proteins are important for baldness and graying. ](/news/2017/05/8/the-journal-genes-development-publishes-research-from-the-university-of-texas-southwestern-medical-center-in-a-mouse-model-study-whic.md)
+### [The journal ''Genes & Development'' publishes research from the University of Texas Southwestern Medical Center in a mouse-model study (which may translate over to humans) alluding as to why hair turns gray and goes bald. The scientists describe a protein called KROX20 which switches on skin cells that become a hair shaft, which then causes cells to produce another protein called stem cell factor. In mice, these two proteins are important for baldness and graying. ](/news/2017/05/8/the-journal-genes-development-publishes-research-from-the-university-of-texas-southwestern-medical-center-in-a-mouse-model-study-whic.md)
 _Context: Genes & Development, KROX20, University of Texas Southwestern Medical Center, bald, cell, gray, hair, mouse, protein, skin, stem cell factor_
 
 ---
