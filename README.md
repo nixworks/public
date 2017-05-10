@@ -11,8 +11,8 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2017/05/9/index.md)
 
-### [Despite opposition from Turkey, President Donald Trump authorizes an arms deal with the Syrian Kurds to assist the Syrian Democratic Forces in their fight against ISIS. ](/news/2017/05/9/despite-opposition-from-turkey-president-donald-trump-authorizes-an-arms-deal-with-the-syrian-kurds-to-assist-the-syrian-democratic-forces.md)
-_Context: Donald Trump, ISIS, Syria-United States relations, Syrian Democratic Forces, Syrian Kurds, Turkey, Turkey-United States relations_
+### [Despite opposition from Turkey, President Donald Trump authorizes an arms deal with the Syrian Kurds to assist the Syrian Democratic Forces in their fight against Islamic State of Iraq and the Levant (ISIL). ](/news/2017/05/9/despite-opposition-from-turkey-president-donald-trump-authorizes-an-arms-deal-with-the-syrian-kurds-to-assist-the-syrian-democratic-forces.md)
+_Context: Donald Trump, Islamic State of Iraq and the Levant, Syria-United States relations, Syrian Democratic Forces, Syrian Kurds, Turkey, Turkey-United States relations_
 
 ### [Former Jakarta Governor Basuki Tjahaja Purnama, popularly known as "Ahok", is found guilty of blasphemy and sentenced to two years in prison. The accusation that he insulted the Quran sparked large protests last November. ](/news/2017/05/9/former-jakarta-governor-basuki-tjahaja-purnama-popularly-known-as-ahok-is-found-guilty-of-blasphemy-and-sentenced-to-two-years-in-prison.md)
 Shock sentence comes after hardline Islamist groups called for Christian official to be jailed for referencing Qur’an verse
@@ -20,15 +20,18 @@ Shock sentence comes after hardline Islamist groups called for Christian officia
 ### [South Koreans vote in a presidential election, with Moon Jae-in of the Democratic Party of Korea winning the election. ](/news/2017/05/9/south-koreans-vote-in-a-presidential-election-with-moon-jae-in-of-the-democratic-party-of-korea-winning-the-election.md)
 min Park and Cynthia Kim
 
-### [U.S. President Donald Trump removes James Comey as Director of the Federal Bureau of Investigation, according to the White House. ](/news/2017/05/9/u-s-president-donald-trump-removes-james-comey-as-director-of-the-federal-bureau-of-investigation-according-to-the-white-house.md)
+### [U.S. President Donald Trump removes James Comey as Director of the Federal Bureau of Investigation, with Andrew G. McCabe stepping in as acting director. ](/news/2017/05/9/u-s-president-donald-trump-removes-james-comey-as-director-of-the-federal-bureau-of-investigation-with-andrew-g-mccabe-stepping-in-as-act.md)
 The Trump administration says Mr Comey made &quot;serious mistakes&quot; in the Clinton email investigation.
 
-### [The Assembly of California votes in favor of allowing Communists to hold positions in the state government. ](/news/2017/05/9/the-assembly-of-california-votes-in-favor-of-allowing-communists-to-hold-positions-in-the-state-government.md)
+### [The Assembly of California votes in favor of ending a ban which barred members the Communist Party USA from holding positions in the state government. ](/news/2017/05/9/the-assembly-of-california-votes-in-favor-of-ending-a-ban-which-barred-members-the-communist-party-usa-from-holding-positions-in-the-state-g.md)
 Being a communist would no longer be a fireable offense for California government employees under a bill passed Monday by the state Assembly.
 
 ---
 
 ## [Day Before Yesterday](/news/2017/05/8/index.md)
+
+### [At the Fort Lauderdale-Hollywood International Airport, Spirit Airlines cancels eleven flights and delays 30 due to a dispute between the airline and its pilots (as talks occur between the airline and the pilot's union, Air Line Pilots Association, International). Protests break out and three travelers are arrested. ](/news/2017/05/8/at-the-fort-lauderdaleahollywood-international-airport-spirit-airlines-cancels-eleven-flights-and-delays-30-due-to-a-dispute-between-the.md)
+_Context: Air Line Pilots Association, International, Fort Lauderdale-Hollywood International Airport, Spirit Airlines_
 
 ### [The United Nations Human Rights Council conducts a periodic review of the human rights situation in the Philippines. ](/news/2017/05/8/the-united-nations-human-rights-council-conducts-a-periodic-review-of-the-human-rights-situation-in-the-philippines.md)
 The Philippine government will present the human rights situation before the United Nations Human Rights Council in Geneva, Switzerland during the third cycle of its Universal Periodic Review. LIVE at 3 p.m. 
