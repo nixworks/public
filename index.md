@@ -29,7 +29,7 @@ min Park and Cynthia Kim
 ### [U.S. President Donald Trump removes James Comey as Director of the Federal Bureau of Investigation, with Andrew G. McCabe stepping in as acting director. ](/news/2017/05/9/u-s-president-donald-trump-removes-james-comey-as-director-of-the-federal-bureau-of-investigation-with-andrew-g-mccabe-stepping-in-as-act.md)
 The Trump administration says Mr Comey made &quot;serious mistakes&quot; in the Clinton email investigation.
 
-### [The Assembly of California votes in favor of ending a ban which barred members the Communist Party USA from holding positions in the state government. ](/news/2017/05/9/the-assembly-of-california-votes-in-favor-of-ending-a-ban-which-barred-members-the-communist-party-usa-from-holding-positions-in-the-state-g.md)
+### [The Assembly of California votes in favor of ending a ban which barred members of the Communist Party USA from holding positions in the state government. ](/news/2017/05/9/the-assembly-of-california-votes-in-favor-of-ending-a-ban-which-barred-members-of-the-communist-party-usa-from-holding-positions-in-the-stat.md)
 Being a communist would no longer be a fireable offense for California government employees under a bill passed Monday by the state Assembly.
 
 ---
