@@ -34,7 +34,7 @@ _Context: North Korea, South Korea_
 _Context: Christian, Pakistan, Punjab, Qur'an_
 
 ### [ Rare Buddhist treasures, buried in the 1930s during Mongolia's Communist purge, are unearthed in the Gobi Desert. ](/news/2009/08/1/rare-buddhist-treasures-buried-in-the-1930s-during-mongolia-s-communist-purge-are-unearthed-in-the-gobi-desert.md)
-_Context: Buddhist, Gobi Desert, Mongolia, communism_
+_Context: Buddhist, Communists, Gobi Desert, Mongolia_
 
 ## [Previous Day...](/news/2009/07/31/index.md)
 

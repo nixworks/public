@@ -55,7 +55,7 @@ _Context: D, John Boehner, Minority Leader, Nancy Pelosi, R, Speaker of the Unit
 _Context: Guinea, November's presidential poll, state of emergency_
 
 ### [Senator Lisa Murkowski wins the Alaska senate  election becoming the first successful write-in candidate to be elected since 1954. ](/news/2010/11/17/senator-lisa-murkowski-wins-the-alaska-senate-election-becoming-the-first-successful-write-in-candidate-to-be-elected-since-1954.md)
-_Context: Alaska senate  election, Lisa Murkowski, United States senators, write-in candidate_
+_Context: Alaska senate  election, Lisa Murkowski, United States Senate, write-in candidate_
 
 ### [Facebook inadvertently disabled some users' accounts when a system designed to detect fake accounts malfunctioned. The problem has since been resolved. ](/news/2010/11/17/facebook-inadvertently-disabled-some-users-accounts-when-a-system-designed-to-detect-fake-accounts-malfunctioned-the-problem-has-since-bee.md)
 _Context: Facebook_

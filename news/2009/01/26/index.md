@@ -1,7 +1,7 @@
 ## [2009-01-26](/news/2009/01/26/index.md)
 
 ### [ The United States Senate confirms Timothy F. Geithner as Secretary of the Treasury. ](/news/2009/01/26/the-united-states-senate-confirms-timothy-f-geithner-as-secretary-of-the-treasury.md)
-_Context: Timothy F. Geithner, Treasury Secretary, United States, United States senators_
+_Context: Timothy F. Geithner, Treasury Secretary, United States, United States Senate_
 
 ### [ 2008-2009 Israel-Gaza conflict: An Israeli soldier is killed and three others injured in a bombing at the Gaza Strip border. ](/news/2009/01/26/2008a2009-israelagaza-conflict-p-an-israeli-soldier-is-killed-and-three-others-injured-in-a-bombing-at-the-gaza-strip-border.md)
 _Context: Gaza Strip, Israel, Israel Defense Forces, bomb, fire_

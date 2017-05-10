@@ -10,7 +10,7 @@ _Context: Gambia, Liberia, Liberia, Monrovia, Samuel K. Doe, qualifying match_
 _Context: Chennai Super Kings, DY Patil Stadium, Indian Premier League, Navi Mumbai, Rajasthan Royals, Shane Warne, cricketer_
 
 ### [ United States presidential election, 2008: New York Senator Hillary Clinton wins the Puerto Rico Democratic primary, 2008. ](/news/2008/06/1/united-states-presidential-election-2008-new-york-senator-hillary-clinton-wins-the-puerto-rico-democratic-primary-2008.md)
-_Context: 2008, Hillary Clinton, New York, Puerto Rico Democratic primary, 2008, United States senators_
+_Context: 2008, Hillary Clinton, New York, Puerto Rico Democratic primary, 2008, United States Senate_
 
 ### [ The Australian Army ends its combat role in Iraq, as about 500 troops withdraw from Nasiriyah. ](/news/2008/06/1/the-australian-army-ends-its-combat-role-in-iraq-as-about-500-troops-withdraw-from-nasiriyah.md)
 About 500 Australian combat troops pulled out of their base in southern Iraq on Sunday, fulfilling an election promise by Australian Prime Minister Kevin Rudd to bring the soldiers home this year.

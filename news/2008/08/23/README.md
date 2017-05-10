@@ -19,7 +19,7 @@ _Context: King Air A-100, Moab, Utah, USA_
 _Context: U.S. Health and Human Services Department's, United States, abortion, contraception_
 
 ### [ U.S. presidential candidate Senator Barack Obama picks Senator Joe Biden as his vice-presidential running mate. ](/news/2008/08/23/u-s-presidential-candidate-senator-barack-obama-picks-senator-joe-biden-as-his-vice-presidential-running-mate.md)
-_Context: 2008, Joe Biden, Obama, United States senators, running mate_
+_Context: 2008, Joe Biden, Obama, United States Senate, running mate_
 
 ## [Previous Day...](/news/2008/08/22/index.md)
 

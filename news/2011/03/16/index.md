@@ -25,7 +25,7 @@ Cambodian police ask prosecutors to charge a recruitment firm with illegally det
 _Context: Pakistan, Raymond Davis, United States_
 
 ### [Hillary Clinton, the United States Secretary of State, states that she will not serve a second term in President Obama's Cabinet if he is reelected in 2012 and will retire from public life. ](/news/2011/03/16/hillary-clinton-the-united-states-secretary-of-state-states-that-she-will-not-serve-a-second-term-in-president-obama-s-cabinet-if-he-is-re.md)
-_Context: Hillary Clinton, Obama, President, United States Secretary of State, United States presidential election, 2012_
+_Context: Hillary Clinton, Obama, U.S. President, United States Secretary of State, United States presidential election, 2012_
 
 ### [Michigan protests:The Governor of Michigan Rick Snyder signs legislation giving enhanced powers to emergency managers appointed to manage cities and schools including the power to terminate union contracts. ](/news/2011/03/16/michigan-protests-pthe-governor-of-michigan-rick-snyder-signs-legislation-giving-enhanced-powers-to-emergency-managers-appointed-to-manage-c.md)
 _Context: Governor, Michigan, Rick Snyder, unionize_

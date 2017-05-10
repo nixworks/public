@@ -19,10 +19,10 @@ _Context: Iranian President, Mahmoud Ahmadinejad, United Nations Security Counci
 _Context: AMISOM, Mogadishu, missile hits an Ilyushin airplane_
 
 ### [ The United States Senate votes 52-47 to approve a budget plan that aims to achieve a balanced budget within five years and aims to find offsets for tax cuts passed in President Bush's first term. ](/news/2007/03/23/the-united-states-senate-votes-52-47-to-approve-a-budget-plan-that-aims-to-achieve-a-balanced-budget-within-five-years-and-aims-to-find-off.md)
-_Context: George W. Bush, President, United States senators, balanced budget, budget, first term, tax cuts passed_
+_Context: George W. Bush, U.S. President, United States Senate, balanced budget, budget, first term, tax cuts passed_
 
 ### [ Iraq War: The United States House of Representatives votes in favor of withdrawing all U.S. troops from Iraq by August 2008. President Bush promises to veto the bill. ](/news/2007/03/23/iraq-war-p-the-united-states-house-of-representatives-votes-in-favor-of-withdrawing-all-u-s-troops-from-iraq-by-august-2008-president-bus.md)
-_Context: 2008, George W. Bush, Iraq War, President, United States House of Representatives, bill into law, troop cut, veto_
+_Context: 2008, George W. Bush, Iraq War, U.S. President, United States House of Representatives, bill into law, troop cut, veto_
 
 ### [ 15 Royal Navy servicemen of the HMS ''Cornwall'' operating in Iraqi waters are seized by Iranian authorities after inspecting a ship suspected of smuggling. ](/news/2007/03/23/15-royal-navy-servicemen-of-the-hms-cornwall-operating-in-iraqi-waters-are-seized-by-iranian-authorities-after-inspecting-a-ship-suspec.md)
 _Context: HMS ''Cornwall'', Iraq, Royal Navy, held captive by Iran_

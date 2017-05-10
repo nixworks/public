@@ -52,7 +52,7 @@ _Context: Down's syndrome, Pablo Pineda, San Sebastian International Film Festiv
 Jackson Pollock hid his signature inside one of his most important and valuable paintings, an art historian believes.
 
 ### [ North Korea revises its constitution, removing all references to communism, while mentioning human rights for the first time, as well as stating Kim Jong-il as its "Supreme Leader". ](/news/2009/09/28/north-korea-revises-its-constitution-removing-all-references-to-communism-while-mentioning-human-rights-for-the-first-time-as-well-as-st.md)
-_Context: Human rights, Kim Jong-il, North Korea, communism, constitution_
+_Context: Communists, Human rights, Kim Jong-il, North Korea, constitution_
 
 ### [ At least 58 people are killed at a large opposition rally in Guinea against Moussa Dadis Camara who seized power in a coup last year. ](/news/2009/09/28/at-least-58-people-are-killed-at-a-large-opposition-rally-in-guinea-against-moussa-dadis-camara-who-seized-power-in-a-coup-last-year.md)
 Security forces open fire on opposition supporters in capital, human rights group says.

@@ -46,10 +46,10 @@ _Context: Bur Dubai, Dubai, Lee Bradley Brown, United Kingdom_
 Police in China have sent two activists to labor camps and charged a veteran dissident with subversion over calls for public rallies echoing those in the Arab world, a rights group said yesterday.
 
 ### [Former US Senator Rick Santorum announces that he has formed a committee to explore a bid for the Republican Party nomination in the presidential election. ](/news/2011/04/13/former-us-senator-rick-santorum-announces-that-he-has-formed-a-committee-to-explore-a-bid-for-the-republican-party-nomination-in-the-preside.md)
-_Context: R, Rick Santorum, United States presidential election, 2012, United States senators_
+_Context: R, Rick Santorum, United States Senate, United States presidential election, 2012_
 
 ### [The Permanent Subcommittee on Investigations of the United States Senate releases a report on the financial crisis of 2008, focusing largely on the role played by Goldman Sachs in "creating and selling structured finance products" that had their customers betting in one direction while Goldman itself bet the other way.   ](/news/2011/04/13/the-permanent-subcommittee-on-investigations-of-the-united-states-senate-releases-a-report-on-the-financial-crisis-of-2008-focusing-largely.md)
-_Context: Goldman Sachs, Permanent Subcommittee on Investigations, United States senators_
+_Context: Goldman Sachs, Permanent Subcommittee on Investigations, United States Senate_
 
 ## [Previous Day...](/news/2011/04/12/index.md)
 

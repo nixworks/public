@@ -28,7 +28,7 @@ Two West Virginia towns have been evacuated after a freight train carrying crude
 Scientists have found an aggressive strain of human immunodeficiency virus (HIV) in Cuba that they say can progress to AIDS so rapidly that patients may not even know they are infected before symptoms appear, Medical News Today reported.
 
 ### [A Federal District Court judge in Brownsville, Texas, temporarily halts President Barack Obama's November 2014 executive orders on immigration, allowing Texas and 25 other states to file a lawsuit opposing the orders. The Department of Justice indicated it will appeal. ](/news/2015/02/16/a-federal-district-court-judge-in-brownsville-texas-temporarily-halts-president-barack-obama-s-november-2014-executive-orders-on-immigrati.md)
-_Context: Brownsville, Texas, Obama, President, U.S. District Court Judge, executive orders, immigration, judge_
+_Context: Brownsville, Texas, Obama, U.S. District Court Judge, U.S. President, executive orders, immigration, judge_
 
 ### [Voters in Saint Kitts and Nevis go to the polls for a national election with the governing Labour Party, led by Prime Minister Denzil Douglas. seeking a fifth term. The opposition Team Unity, an alliance of three opposition parties led by former foreign minister Timothy Harris, wins the election, with Douglas conceding defeat on February 17th. ](/news/2015/02/16/voters-in-saint-kitts-and-nevis-go-to-the-polls-for-a-national-election-with-the-governing-labour-party-led-by-prime-minister-denzil-dougla.md)
 An alliance of three opposition parties won parliamentary elections in St. Kitts and Nevis, denying its prime minister a fifth consecutive term in power, o

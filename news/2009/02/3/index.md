@@ -7,7 +7,7 @@
 _Context: Al Jazeera, Israel, fire_
 
 ### [ California's government goes broke and issues IOUs on all expenditures not required by law. ](/news/2009/02/3/california-s-government-goes-broke-and-issues-ious-on-all-expenditures-not-required-by-law.md)
-_Context: California, Government of California, IOU_
+_Context: California, IOU, state government_
 
 ### [ Afghanistan's National Directorate of Security eliminates a Pakistani terrorist cell responsible for at least six suicide bombings in Kabul. ](/news/2009/02/3/afghanistan-s-national-directorate-of-security-eliminates-a-pakistani-terrorist-cell-responsible-for-at-least-six-suicide-bombings-in-kabul.md)
 _Context: Afghanistan, Kabul, National Directorate of Security, Pakistan, suicide bomb attack, supply lines, terrorism_

@@ -25,7 +25,7 @@ _Context: 2001, Pervez Musharraf, Richard Armitage, September 11 attacks, Stone 
 _Context: George W. Bush, Hugo Chvez, President, devil_
 
 ### [ United States Senate Republicans and the Bush administration announce an agreement on interrogation methods and the trial of suspects in the War on Terror. ](/news/2006/09/21/united-states-senate-republicans-and-the-bush-administration-announce-an-agreement-on-interrogation-methods-and-the-trial-of-suspects-in-th.md)
-_Context: George W. Bush, Republican, United States senators, War on Terror_
+_Context: George W. Bush, Republican, United States Senate, War on Terror_
 
 ### [ ''Top Gear'' presenter Richard Hammond is seriously injured during filming for upcoming series. Hammond rolled a jet powered car at 300 mph. ](/news/2006/09/21/top-gear-presenter-richard-hammond-is-seriously-injured-during-filming-for-upcoming-series-hammond-rolled-a-jet-powered-car-at-300-mph.md)
 _Context: Richard Hammond, Top Gear_

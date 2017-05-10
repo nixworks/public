@@ -4,7 +4,7 @@
 Official website of The Church of Jesus Christ of Latter-day Saints (Mormons). Find messages of Christ to uplift your soul and invite the Spirit.
 
 ### [ United States Presidential Election, 2008: Former United States Secretary of Health and Human Services Tommy Thompson announces his candidacy for President. ](/news/2007/04/1/united-states-presidential-election-2008-former-united-states-secretary-of-health-and-human-services-tommy-thompson-announces-his-candida.md)
-_Context: 2008, Health and Human Services Secretary, President, Tommy Thompson_
+_Context: 2008, Health and Human Services Secretary, Tommy Thompson, U.S. President_
 
 ### [ Iranian Basiji students protest outside the British embassy in Tehran. ](/news/2007/04/1/iranian-basiji-students-protest-outside-the-british-embassy-in-tehran.md)
 _Context: Basij, Iran, Tehran, United Kingdom, demonstration, embassies_

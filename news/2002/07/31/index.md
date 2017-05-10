@@ -1,7 +1,7 @@
 ## [2002-07-31](/news/2002/07/31/index.md)
 
 ### [The Foreign Relations Committee of the United States Senate begins hearings on the proposed invasion of Iraq](/news/2002/07/31/the-foreign-relations-committee-of-the-united-states-senate-begins-hearings-on-the-proposed-invasion-of-iraq.md)
-_Context: 2003 invasion of Iraq, United States senators_
+_Context: 2003 invasion of Iraq, United States Senate_
 
 ### [The stock market continues its recovery from the Stock market downturn of 2002](/news/2002/07/31/the-stock-market-continues-its-recovery-from-the-stock-market-downturn-of-2002.md)
 _Context: Stock market downturn of 2002, stock market_

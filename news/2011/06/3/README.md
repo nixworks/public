@@ -31,7 +31,7 @@ James Arness, the towering actor best known for portraying Marshal Matt Dillon, 
 Greece is set to impose further austerity measures and a number of privatization plans in return for more international aid to avoid defaulting on its debt.
 
 ### [Barack Obama, the President of the United States, announces the sale of the US government's stake in Chrysler to Italian automaker Fiat at a visit to a plant at Toledo, Ohio. ](/news/2011/06/3/barack-obama-the-president-of-the-united-states-announces-the-sale-of-the-us-government-s-stake-in-chrysler-to-italian-automaker-fiat-at-a.md)
-_Context: Chrysler, Fiat, Italian, Obama, Ohio, President, Toledo, United States government_
+_Context: Chrysler, Fiat, Italian, Obama, Ohio, Toledo, U.S. President, United States government_
 
 ### [Australian airline Qantas announces plans to offer 350 flight attendants voluntary redundancies. ](/news/2011/06/3/australian-airline-qantas-announces-plans-to-offer-350-flight-attendants-voluntary-redundancies.md)
 _Context: Qantas, flight attendant, voluntary redundancies_

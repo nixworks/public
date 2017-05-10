@@ -10,7 +10,7 @@ Thousands of supporters greet Pope Benedict XVI on his first visit to Mexico, as
 THE AFRICAN Union has suspended Mali following Thursday&rsquo;s military coup, which deposed long-time president Amadou Toumani Tour&eacute;&hellip;
 
 ### [In a statement by Pope Benedict XVI he says that Communism does not work for Cuba and that he is ready to help the island find new ways to move forward in a peaceful manner. ](/news/2012/03/23/in-a-statement-by-pope-benedict-xvi-he-says-that-communism-does-not-work-for-cuba-and-that-he-is-ready-to-help-the-island-find-new-ways-to-m.md)
-_Context: Benedict XVI, Cuba, communism_
+_Context: Benedict XVI, Communists, Cuba_
 
 ### [U.S. President Barack Obama nominates current President of Dartmouth College Jim Yong Kim to be head of the World Bank.](/news/2012/03/23/u-s-president-barack-obama-nominates-current-president-of-dartmouth-college-jim-yong-kim-to-be-head-of-the-world-bank.md)
 President Obama on Friday nominated Dartmouth College President Jim Yong Kim, a physician and anthropologist by training, to succeed Robert Zoellick as the next president of the World Bank. The...

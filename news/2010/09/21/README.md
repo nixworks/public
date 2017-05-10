@@ -13,7 +13,7 @@ A helicopter crash Tuesday brought the number of NATO service members killed in 
 _Context: France, Niger, al-Qaeda, kidnapped_
 
 ### [Lawrence Summers announces that he will leave as head of the United States National Economic Council, responsible for advising President Barack Obama on economic policy. ](/news/2010/09/21/lawrence-summers-announces-that-he-will-leave-as-head-of-the-united-states-national-economic-council-responsible-for-advising-president-bar.md)
-_Context: Lawrence Summers, Obama, President, United States National Economic Council_
+_Context: Lawrence Summers, Obama, U.S. President, United States National Economic Council_
 
 ### [In the Mark Cuban insider trading case, an appeals court overturns a district court decision last fall that had dismissed the civil charges brought against Cuban by the U.S. Securities and Exchange Commission. [http://www.marketwatch.com/story/mark-cuban-inside-trading-case-revived-2010-09-21 (MarketWatch)]. ](/news/2010/09/21/in-the-mark-cuban-insider-trading-case-an-appeals-court-overturns-a-district-court-decision-last-fall-that-had-dismissed-the-civil-charges.md)
 _Context: Mark Cuban, SEC, insider trading_

@@ -19,7 +19,7 @@ At least 28 people have died and 40 are injured after two passenger trains derai
 _Context: Lake Victoria_
 
 ### [Researchers from the University of California,  Riverside discover that soybean oil and corn oil increase diabetes rates in mice more than coconut oil and fructose. ](/news/2015/08/4/researchers-from-the-university-of-california-riverside-discover-that-soybean-oil-and-corn-oil-increase-diabetes-rates-in-mice-more-than-c.md)
-_Context: University of California,  Riverside, coconut oil, corn oil, diabetes, fructose, mice, soybean oil_
+_Context: University of California,  Riverside, coconut oil, corn oil, diabetes, fructose, mouse, soybean oil_
 
 ### [The Roman Catholic Archdiocese of Milwaukee, in Milwaukee, Wisconsin, according to its Archbishop, Jerome  Listecki, reaches a collective settlement agreement of $21 million for its sex abuse claims, meaning it could emerge from its January 4, 2011 Chapter 11 bankruptcy. ](/news/2015/08/4/the-roman-catholic-archdiocese-of-milwaukee-in-milwaukee-wisconsin-according-to-its-archbishop-jerome-listecki-reaches-a-collective-se.md)
 _Context: Chapter 11 bankruptcy, Jerome  Listecki, Milwaukee, Roman Catholic Archdiocese of Milwaukee, U.S. dollar, Wisconsin_

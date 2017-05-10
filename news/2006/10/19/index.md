@@ -7,7 +7,7 @@ _Context: 2005, Baghdad, Iraq, Mohammad Munaf, Royce Lamberth, U.S. federal cour
 _Context: Baghdad, Iraqi insurgency, Operation Together Forward, United States Army, William B. Caldwell IV, coalition operation_
 
 ### [ Tan D. Nguyen, a Republican candidate for California's 47th congressional district in  Orange County, California, denies authorizing a letter warning Hispanic immigrants that they could go to jail or be deported if they vote next month, a mailing that prompted an investigation by the state government. ](/news/2006/10/19/tan-d-nguyen-a-republican-candidate-for-california-s-47th-congressional-district-in-orange-county-california-denies-authorizing-a-lett.md)
-_Context: California, California's 47th congressional district, Government of California, Hispanic, Orange County, Republican, Tan D. Nguyen_
+_Context: California, California's 47th congressional district, Hispanic, Orange County, Republican, Tan D. Nguyen, state government_
 
 ### [ An Uzbek military Antonov An-2 aircraft crashes near Tashkent, Uzbekistan, killing all of the 15 people on board. The Uzbek Emergency Ministry says the pilots lost control of the plane while trying to land. ](/news/2006/10/19/an-uzbek-military-antonov-an-2-aircraft-crashes-near-tashkent-uzbekistan-killing-all-of-the-15-people-on-board-the-uzbek-emergency-minis.md)
 _Context: Antonov An-2, Tashkent, Uzbek military, Uzbekistan_

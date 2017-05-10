@@ -16,7 +16,7 @@ Britain will cut its military presence in Iraq by more than half to leave 2,500 
 _Context: Chief Minister, Governor, H D Kumaraswamy, India, Indian state, Karnataka, Rameshwar Thakur_
 
 ### [ Mario R. Capecchi, Oliver Smithies, and Sir Martin J. Evans are announced as winners of the 2007 Nobel Prize in Physiology or Medicine for their discoveries of the principles for introducing specific gene modifications by the use of embryonic stem cells in mice. ](/news/2007/10/8/mario-r-capecchi-oliver-smithies-and-sir-martin-j-evans-are-announced-as-winners-of-the-2007-nobel-prize-in-physiology-or-medicine-for.md)
-_Context: Mario R. Capecchi, Nobel Prize in Physiology or Medicine, Oliver Smithies, Sir Martin J. Evans, embryonic stem cell, mice, specific gene modifications_
+_Context: Mario R. Capecchi, Nobel Prize in Physiology or Medicine, Oliver Smithies, Sir Martin J. Evans, embryonic stem cell, mouse, specific gene modifications_
 
 ### [ Pakistan: A helicopter escorting the helicopter of President Pervez Musharraf crashes in Pakistan-administered Kashmir, killing four security officials and injuring his spokesman.date=December 2007  Forty five Pakistani soldiers and 130 pro-Taliban militants have died in two days of fierce fighting in North Waziristan, the Pakistani army says. ](/news/2007/10/8/pakistan-p-a-helicopter-escorting-the-helicopter-of-president-pervez-musharraf-crashes-in-pakistan-administered-kashmir-killing-four-secur.md)
 _Context: Battle of Mir Ali, Kashmir, Pakistan, Pervez Musharraf, President, Security experts, Taliban, escort, helicopter, spokesman_

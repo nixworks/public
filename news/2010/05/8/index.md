@@ -7,7 +7,7 @@ _Context: 2010 Philippine general election_
 _Context: 2010 general election, New Zealand, disenfranchised_
 
 ### [U.S. Senator Bob Bennett, Republican from Utah, is ousted from his party's primary ballot at the state's Republican convention, meaning he will not have a chance for a fourth term. ](/news/2010/05/8/u-s-senator-bob-bennett-republican-from-utah-is-ousted-from-his-party-s-primary-ballot-at-the-state-s-republican-convention-meaning-he-w.md)
-_Context: Bob Bennett, Republican, United States senators, Utah, primary election_
+_Context: Bob Bennett, Republican, United States Senate, Utah, primary election_
 
 ### [Mudslides and floods have killed 16, and more than 40 are missing in some districts of the southern Khatlon region in Tajikistan. ](/news/2010/05/8/mudslides-and-floods-have-killed-16-and-more-than-40-are-missing-in-some-districts-of-the-southern-khatlon-region-in-tajikistan.md)
 _Context: Khatlon, Tajikistan_

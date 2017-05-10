@@ -25,7 +25,7 @@ _Context: Iran, Tehran, United Kingdom, protests against the regime, trial_
 Meet Australia&#039;s answer to velociraptor.
 
 ### [ Syria invites United States President Barack Obama to the Damascus summit. ](/news/2009/07/3/syria-invites-united-states-president-barack-obama-to-the-damascus-summit.md)
-_Context: Damascus, Obama, President, Syria, United States_
+_Context: Damascus, Obama, Syria, U.S. President, United States_
 
 ### [ Algerian ra music star Cheb Mami is jailed for five years in France for trying to force his former partner to have an abortion. ](/news/2009/07/3/algerian-rai-music-star-cheb-mami-is-jailed-for-five-years-in-france-for-trying-to-force-his-former-partner-to-have-an-abortion.md)
 Algerian singer Cheb Mami went on trial in France on Thursday over accusations that he forced his former lover into an attempted abortion in 2005.

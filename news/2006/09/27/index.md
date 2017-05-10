@@ -7,7 +7,7 @@ _Context: Bailey, Colorado, Platte Canyon High School, hostage situation_
 _Context: 2008 Republican National Convention, Minneapolis-St. Paul, R_
 
 ### [ Legislation passes in the U.S. House and Senate giving President Bush authority to detain, interrogate and try terrorism detainees before military commissions. (San Francisco Examiner)](/news/2006/09/27/legislation-passes-in-the-u-s-house-and-senate-giving-president-bush-authority-to-detain-interrogate-and-try-terrorism-detainees-before-m.md)
-_Context: George W. Bush, United States House of Representatives, United States senators, military commission, terrorism_
+_Context: George W. Bush, United States House of Representatives, United States Senate, military commission, terrorism_
 
 ### [ A funeral service for Empress Maria Fyodorovna of Russia is held at the Gothic Chapel at Peterhof. ](/news/2006/09/27/a-funeral-service-for-empress-maria-fyodorovna-of-russia-is-held-at-the-gothic-chapel-at-peterhof.md)
 _Context: Gothic Chapel, Maria Fyodorovna, Peterhof_

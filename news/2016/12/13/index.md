@@ -13,7 +13,7 @@ Deal that eliminates long distances signal have to travel through Venezuela remo
 _Context: Saudi Arabia, Saudi Arabia-United States relations, Saudi-led coalition, United States, Yemen, Yemeni Civil War (2015-present)_
 
 ### [Jakarta Governor Basuki Tjahaja Purnama (Ahok)  pleads not guilty  to charges of blaspheming Islam  during a September 27 campaign speech. Ahok is an  ethnic Chinese Christian. ](/news/2016/12/13/jakarta-governor-basuki-tjahaja-purnama-ahok-pleads-not-guilty-to-charges-of-blaspheming-islam-during-a-september-27-campaign-speech-a.md)
-_Context: Basuki Tjahaja Purnama, Islam, ethnic Chinese Christian, gubernatorial, mass protests_
+_Context: Basuki Tjahaja Purnama, Islam, ethnic Chinese Christian, gubernatorial, large protests_
 
 ### [Muhammad V becomes the new monarch of Malaysia. ](/news/2016/12/13/muhammad-v-becomes-the-new-monarch-of-malaysia.md)
 The Sultan of Kelantan, Sultan Muhammad V is set to become the 15th Yang di-Pertuan Agong. Sultan Muhammad V was elected on Oct, 14, to become the next Yang di-Pertuan Agong, the head of state

@@ -16,7 +16,7 @@ The last full U.S. combat brigade crossed the border into Kuwait on Thursday mor
 Rebels kill three Indian peacekeepers in a night-time ambush at a base in the eastern region of the Democratic Republic of Congo.
 
 ### [The United States deploys troops along its border with Mexico by the order of President Barack Obama. ](/news/2010/08/18/the-united-states-deploys-troops-along-its-border-with-mexico-by-the-order-of-president-barack-obama.md)
-_Context: Mexico, Obama, President, United States_
+_Context: Mexico, Obama, U.S. President, United States_
 
 ### [The American Ballet Theatre is given permission by its country's President, Barack Obama, to perform in Cuba; it would be the first time in 50 years. American tourists are still banned by their government from travelling to Cuba. ](/news/2010/08/18/the-american-ballet-theatre-is-given-permission-by-its-country-s-president-barack-obama-to-perform-in-cuba-it-would-be-the-first-time-in.md)
 The American Ballet Theatre company is to perform in Cuba later this year for the first time in 50 years.

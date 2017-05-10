@@ -1,7 +1,7 @@
 ## [2007-08-30](/news/2007/08/30/index.md)
 
 ### [ Militants fire rockets on a United States military aircraft containing three US Senators (Richard Shelby, Mel Martinez and James Inhofe) as well as Rep. Bud Cramer as it leaves Baghdad for Amman in Jordan. ](/news/2007/08/30/militants-fire-rockets-on-a-united-states-military-aircraft-containing-three-us-senators-richard-shelby-mel-martinez-and-james-inhofe-as.md)
-_Context: Amman, Baghdad, Bud Cramer, James Inhofe, Jordan, Mel Martinez, Richard Shelby, United States, United States House of Representatives, United States senators, rocket_
+_Context: Amman, Baghdad, Bud Cramer, James Inhofe, Jordan, Mel Martinez, Richard Shelby, United States, United States House of Representatives, United States Senate, rocket_
 
 ### [ At least 10 Malians are killed and several others injured after their vehicle hits a land mine. ](/news/2007/08/30/at-least-10-malians-are-killed-and-several-others-injured-after-their-vehicle-hits-a-land-mine.md)
 _Context: Mali, land mine_

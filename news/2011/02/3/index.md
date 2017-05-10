@@ -4,7 +4,7 @@
 Ahmad Shafiq promises not to allow street violence again, after clashes in Cairo left seven dead and hundreds wounded.
 
 ### [The United States Senate passes a motion supporting democracy in Egypt and calling on President Hosni Mubarak to begin transferring power. ](/news/2011/02/3/the-united-states-senate-passes-a-motion-supporting-democracy-in-egypt-and-calling-on-president-hosni-mubarak-to-begin-transferring-power.md)
-_Context: Egyptian President, Hosni Mubarak, United States senators, democratic progress_
+_Context: Egyptian President, Hosni Mubarak, United States Senate, democratic progress_
 
 ### [2011 Yemeni protests: Thousands of pro- and anti-government supporters demonstrate in Yemen over the rule of President Ali Abdullah Saleh in a planned "day of rage". ](/news/2011/02/3/2011-yemeni-protests-thousands-of-pro-and-anti-government-supporters-demonstrate-in-yemen-over-the-rule-of-president-ali-abdullah-saleh-in.md)
 Anti-government demonstrators reiterate calls for president to stand down while his supporters stage a counter rally.

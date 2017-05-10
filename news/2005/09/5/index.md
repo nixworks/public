@@ -10,13 +10,13 @@ _Context: 2005 elections, EPRDF, Ethiopia_
 _Context: Japan, Kyushu, Typhoon Nabi_
 
 ### [ Hurricane Katrina: Senator and former First Lady Hillary Clinton calls for a "9/11 Style Inquiry" into the U.S. federal government's response to the Hurricane. ](/news/2005/09/5/hurricane-katrina-senator-and-former-first-lady-hillary-clinton-calls-for-a-9-11-style-inquiry-into-the-u-s-federal-government-s-respon.md)
-_Context: First Lady, Government of the United States, Hillary Clinton, Hurricane Katrina, United States senators_
+_Context: First Lady, Government of the United States, Hillary Clinton, Hurricane Katrina, United States Senate_
 
 ### [ A cable car crash at Solden, Otztal, in the Austrian Alps leaves nine people dead when a helicopter carrying construction materials dropped concrete onto the cable. ](/news/2005/09/5/a-cable-car-crash-at-saplden-atztal-in-the-austrian-alps-leaves-nine-people-dead-when-a-helicopter-carrying-construction-materials-dropp.md)
 _Context: Alps, Austria, Otztal, Solden, cable car_
 
 ### [ American jurist John G. Roberts, Jr. is nominated by US President George W. Bush as the next Chief Justice of the United States. [http://www.msnbc.msn.com/id/9215790/ (MSNBC)]  Bush withdrew Roberts' original nomination to succeed retiring Associate Justice Sandra Day O'Connor.](/news/2005/09/5/american-jurist-john-g-roberts-jr-is-nominated-by-us-president-george-w-bush-as-the-next-chief-justice-of-the-united-states-http-ww.md)
-_Context: Chief Justice, George W. Bush, John G. Roberts, Jr., Justice, President, Sandra Day O'Connor, jurist_
+_Context: Chief Justice, George W. Bush, John G. Roberts, Jr., Justice, Sandra Day O'Connor, U.S. President, jurist_
 
 ### [ Three teenage girls admit starting a fire in Paris on September 3 which left 16 people dead. ](/news/2005/09/5/three-teenage-girls-admit-starting-a-fire-in-paris-on-september-3-which-left-16-people-dead.md)
 _Context: Paris, September 3, teenage_

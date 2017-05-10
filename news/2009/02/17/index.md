@@ -1,7 +1,7 @@
 ## [2009-02-17](/news/2009/02/17/index.md)
 
 ### [ United States President Barack Obama authorizes the deployment of 12,000 more soldiers into the Afghanistan War. ](/news/2009/02/17/united-states-president-barack-obama-authorizes-the-deployment-of-12-000-more-soldiers-into-the-afghanistan-war.md)
-_Context: Afghanistan, Obama, President, U.S. military personnel, United States, War in Afghanistan (2001-present), deployment_
+_Context: Afghanistan, Obama, U.S. President, U.S. military personnel, United States, War in Afghanistan (2001-present), deployment_
 
 ### [ The U.S. Securities and Exchange Commission charges Stanford Financial Group Chairman Allen Stanford with fraud. ](/news/2009/02/17/the-u-s-securities-and-exchange-commission-charges-stanford-financial-group-chairman-allen-stanford-with-fraud.md)
 _Context: Allen Stanford, SEC, Stanford Financial Group, United States, chairman, fraud_
@@ -16,7 +16,7 @@ _Context: Democratic Party, Italian, Walter Veltroni_
 _Context: The Pirate Bay, trial_
 
 ### [ Late 2000s recession in the Americas: U.S. President Obama signs the American Recovery and Reinvestment Act of 2009 in Denver, Colorado. ](/news/2009/02/17/late-2000s-recession-in-the-americas-p-u-s-president-obama-signs-the-american-recovery-and-reinvestment-act-of-2009-in-denver-colorado.md)
-_Context: American Recovery and Reinvestment Act, Colorado, Denver, Late 2000s recession in the Americas, Obama, President, United States_
+_Context: American Recovery and Reinvestment Act, Colorado, Denver, Late 2000s recession in the Americas, Obama, U.S. President, United States_
 
 ### [ Shoichi Nakagawa will resign as Japan's Minister of Finance after the National Diet approves a budget in April. ](/news/2009/02/17/shaichi-nakagawa-will-resign-as-japan-s-minister-of-finance-after-the-national-diet-approves-a-budget-in-april.md)
 _Context: Diet, Japan, Minister of Finance, Shoichi Nakagawa, money_

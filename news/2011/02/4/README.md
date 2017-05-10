@@ -26,7 +26,7 @@ _Context: Angela Merkel, Eurozone, Nicolas Sarkozy, euro_
 Lawyers agreed to make complaint public after settlement talks broke down.
 
 ### [Target Corp. has agreed to pay $22.5 million in settlement with the Government of California and local governments in settlement over alleged illegal hazardous waste dumping. ](/news/2011/02/4/target-corp-has-agreed-to-pay-22-5-million-in-settlement-with-the-government-of-california-and-local-governments-in-settlement-over-allege.md)
-_Context: Government of California, Target Corp., hazardous waste_
+_Context: Target Corp., hazardous waste, state government_
 
 ### [A court in Canada strikes down the government's decision to allow Globalive to operate a wireless telecomm network in that country, given the extent of foreign holdings. ](/news/2011/02/4/a-court-in-canada-strikes-down-the-government-s-decision-to-allow-globalive-to-operate-a-wireless-telecomm-network-in-that-country-given-th.md)
 A Canadian court struck down on Friday a federal government move to allow Globalive, a company with substantial foreign control, to operate a wireless service in Canada.

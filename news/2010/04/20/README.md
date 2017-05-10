@@ -46,7 +46,7 @@ _Context: Afghanistan, Azizollah Yarmal, Kandahar, mosque_
 _Context: Nawalapitiya, Sri Lanka, Trincomalee, parliamentary election_
 
 ### [President of the United States Barack Obama speaks of the "unbreakable bonds" and "special relationship" between his country and Israel on the 62nd anniversary of Israel's birth. ](/news/2010/04/20/president-of-the-united-states-barack-obama-speaks-of-the-unbreakable-bonds-and-special-relationship-between-his-country-and-israel-on-t.md)
-_Context: Israel, Obama, President_
+_Context: Israel, Obama, U.S. President_
 
 ### [The United States Supreme Court, in ruling on ''United States v. Stevens'', strikes down a law outlawing videos that depict animal cruelty. ](/news/2010/04/20/the-united-states-supreme-court-in-ruling-on-united-states-v-stevens-strikes-down-a-law-outlawing-videos-that-depict-animal-cruelty.md)
 _Context: United States Supreme Court, United States v. Stevens_

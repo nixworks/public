@@ -19,7 +19,7 @@ The Italian navy has found the sunken wreck of a migrant boat in which 700 peopl
 The Royal Navy makes its first intervention of 2015 in migrant crisis, pulling 110 migrants from a dinghy which was about to sink off the coast of Libya.
 
 ### [The United States Senate passes a bill giving the Congress a voice in any nuclear deal negotiated between Iran and world powers. ](/news/2015/05/7/the-united-states-senate-passes-a-bill-giving-the-congress-a-voice-in-any-nuclear-deal-negotiated-between-iran-and-world-powers.md)
-_Context: Iran, United States senators_
+_Context: Iran, United States Senate_
 
 ### [A three-judge panel of the U.S. Second Circuit Court of Appeals rules that the National Security Agency's mass surveillance of telephones metadata is illegal under the Patriot Act. ](/news/2015/05/7/a-three-judge-panel-of-the-u-s-second-circuit-court-of-appeals-rules-that-the-national-security-agency-s-mass-surveillance-of-telephones-me.md)
 Bulk collection of millions of Americans’ phone records is ruled unlawful, as opponents of program including Rand Paul share their delight

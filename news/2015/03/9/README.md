@@ -10,10 +10,10 @@ Two helicopters collide in mid-air over northern Argentina, killing 10 people in
 The lawyer wife of actor George Clooney has asked the United Nations Human Rights Committee (UNHRC) to call on the Philippine government to issue a public apology for violating the rights of former President Gloria Macapagal-Arroyo under the International Covenant on Civil and Political Rights (ICCPR). 
 
 ### [U.S. President Barack Obama signs an executive order declaring Venezuela a national security threat to the U.S. ](/news/2015/03/9/u-s-president-barack-obama-signs-an-executive-order-declaring-venezuela-a-national-security-threat-to-the-u-s.md)
-_Context: Obama, President, Venezuela, executive order_
+_Context: Obama, U.S. President, Venezuela, executive order_
 
 ### [The U.S.'s Federal Bureau of Investigation (FBI) Director, James Comey, announces an increased reward of $5 million (up from $1 million, issued in 2012) for information leading to the return of a former FBI agent Robert Levinson (who disappeared March 9, 2007, in Iran and who was paid by the Central Intelligence Agency (CIA) to gather information about Iran's nuclear program). ](/news/2015/03/9/the-u-s-s-federal-bureau-of-investigation-fbi-director-james-comey-announces-an-increased-reward-of-5-million-up-from-1-million-iss.md)
-_Context: Central Intelligence Agency, FBI, FBI Director, Iran, James Comey, Robert Levinson_
+_Context: Central Intelligence Agency, Director of the Federal Bureau of Investigation, FBI, Iran, James Comey, Robert Levinson_
 
 ### [A man kills five people in the Japanese city of Sumoto in a prolonged stabbing attack. ](/news/2015/03/9/a-man-kills-five-people-in-the-japanese-city-of-sumoto-in-a-prolonged-stabbing-attack.md)
 A 40-year-old man described as a social misfit is being questioned by Japanese police after the fatal stabbing of five residents in a quiet rural city.

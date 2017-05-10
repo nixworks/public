@@ -70,7 +70,7 @@ ANOTHER Corrib Gas protester has released details of a conversation he had with 
 Group of elderly Kenyans who say they were tortured by British officers in the 1950s uprising take case to London court.
 
 ### [The Hawaii Intermediate Court of Appeals dismisses an appeal from a man wanting to see the President of the United States Barack Obama's birth certificate. ](/news/2011/04/7/the-hawaii-intermediate-court-of-appeals-dismisses-an-appeal-from-a-man-wanting-to-see-the-president-of-the-united-states-barack-obama-s-bir.md)
-_Context: Barack Obama citizenship conspiracy theories, Hawaii Intermediate Court of Appeals, Obama, President, birth certificate_
+_Context: Barack Obama citizenship conspiracy theories, Hawaii Intermediate Court of Appeals, Obama, U.S. President, birth certificate_
 
 ### [Former British Labour Party minister Elliot Morley pleads guilty to dishonestly claiming more than PS30,000 in parliamentary expenses. ](/news/2011/04/7/former-british-labour-party-minister-elliot-morley-pleads-guilty-to-dishonestly-claiming-more-than-aps30-000-in-parliamentary-expenses.md)
 _Context: Elliot Morley, Labour Party, MPs expenses_

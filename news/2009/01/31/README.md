@@ -1,7 +1,7 @@
 ## [2009-01-31](/news/2009/01/31/index.md)
 
 ### [ Former Cuban President Fidel Castro criticizes United States President Barack Obama for supporting "Israeli genocide" against the Palestinian people. ](/news/2009/01/31/former-cuban-president-fidel-castro-criticizes-united-states-president-barack-obama-for-supporting-israeli-genocide-against-the-palestini.md)
-_Context: Cuba, Fidel Castro, Israel, Obama, Palestinian, President, President, United States, genocide_
+_Context: Cuba, Fidel Castro, Israel, Obama, Palestinian, President, U.S. President, United States, genocide_
 
 ### [ An armed mob desecrates a Sephardic synagogue in Caracas, Venezuela. ](/news/2009/01/31/an-armed-mob-desecrates-a-sephardic-synagogue-in-caracas-venezuela.md)
 _Context: Caracas, Sephardic, Venezuela, synagogue_

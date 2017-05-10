@@ -37,7 +37,7 @@ A police officer is killed during a shootout involving machine guns and anti-tan
 The Supreme Court upheld the use of federal financial aid for more than 6 million people enrolled in health insurance through HealthCare.gov. 
 
 ### [The United States House of Representatives votes to grant President Barack Obama fast track authority for the Trans-Pacific Partnership. ](/news/2015/06/25/the-united-states-house-of-representatives-votes-to-grant-president-barack-obama-fast-track-authority-for-the-trans-pacific-partnership.md)
-_Context: Obama, President, Trans-Pacific Partnership, United States House of Representatives_
+_Context: Obama, Trans-Pacific Partnership, U.S. President, United States House of Representatives_
 
 ## [Previous Day...](/news/2015/06/24/index.md)
 
