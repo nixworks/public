@@ -3,7 +3,7 @@
 ### [Mexico is reported to be the second deadliest country after Syria. ](/news/2017/05/10/mexico-is-reported-to-be-the-second-deadliest-country-after-syria.md)
 _Context: Mexican Drug War, Mexico, Syria_
 
-### [U.S. President Donald Trump contemplates on sending 5,000 more troops to Afghanistan. ](/news/2017/05/10/u-s-president-donald-trump-contemplates-on-sending-5-000-more-troops-to-afghanistan.md)
+### [U.S. President Donald Trump contemplates sending 5,000 more troops to Afghanistan. ](/news/2017/05/10/u-s-president-donald-trump-contemplates-sending-5-000-more-troops-to-afghanistan.md)
 President Trump has yet to decide on a variety of options being presented to him by U.S. military leaders, senior administration officials say.
 
 ### [Voters in the Bahamas go to the polls to elect all 39 members of the House of Assembly. ](/news/2017/05/10/voters-in-the-bahamas-go-to-the-polls-to-elect-all-39-members-of-the-house-of-assembly.md)
