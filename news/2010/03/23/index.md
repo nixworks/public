@@ -34,7 +34,7 @@ _Context: Bavaria, German_
 The most sweeping social legislation enacted in decades became law after a festive, at times raucous, signing ceremony in the White House on Tuesday.
 
 ### [A man in Nanping, China, stabs and kills eight children, and wounds another five at an elementary school. ](/news/2010/03/23/a-man-in-nanping-china-stabs-and-kills-eight-children-and-wounds-another-five-at-an-elementary-school.md)
-_Context: China's, Nanping_
+_Context: Nanping, People's Republic of China_
 
 ### [China says Google is "totally wrong" to stop censoring its search results. ](/news/2010/03/23/china-says-google-is-totally-wrong-to-stop-censoring-its-search-results.md)
 Beijing accuses search giant of breaking promises to abide by Chinese laws.

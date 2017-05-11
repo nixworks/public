@@ -49,7 +49,7 @@ _Context: Bariyapur, Gadhimai, Hindu, Nepal, festival, goddess, ritually slaught
 _Context: 2009 gubernatorial election and runoff, Benigno Fitial, Covenant Party, Governor of the Northern Mariana Islands, Heinz Hofschneider, Northern Mariana Islands, Northern Mariana Islands House of Representatives, Republican, run-off_
 
 ### [ Web browser Opera closes a loophole which allowed Chinese users to access websites banned by the government. ](/news/2009/11/24/web-browser-opera-closes-a-loophole-which-allowed-chinese-users-to-access-websites-banned-by-the-government.md)
-_Context: China's, Opera, blocks mentions_
+_Context: Opera, People's Republic of China, blocks mentions_
 
 ### [ Chilean writer and historian, Jose Arrano Acevedo dies at the age of 88. [http://www.pichilemu.cl/noticias/sep2009/2511/index.htm]](/news/2009/11/24/chilean-writer-and-historian-josa-c-arraa-o-acevedo-dies-at-the-age-of-88-http-www-pichilemu-cl-noticias-sep2009-2511-index-htm.md)
 _Context: Chilean, Jose Arrano Acevedo, historian, writer_

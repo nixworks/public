@@ -37,7 +37,7 @@ Many Brisbane residents have taken the ongoing flood crisis in their stride, eve
 Sri Lanka’s government says three more people have been killed by widespread floods and mudslides, bringing the death toll from days of heavy rain to 21. The Disaster Management Center said on Thursda
 
 ### [10 people are killed in a hotel fire in Hunan, China. ](/news/2011/01/13/10-people-are-killed-in-a-hotel-fire-in-hunan-china.md)
-_Context: China's, Hunan_
+_Context: Hunan, People's Republic of China_
 
 ### [Three people drown and six are missing after a boat taking people home from an engagement ceremony capsized in northern Vietnam. ](/news/2011/01/13/three-people-drown-and-six-are-missing-after-a-boat-taking-people-home-from-an-engagement-ceremony-capsized-in-northern-vietnam.md)
 _Context: Vietnam_

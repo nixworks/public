@@ -19,7 +19,7 @@ _Context: Nursultan Nazarbayev's, President, parliament_
 _Context: Cotabato City, Philippines, bus station_
 
 ### [ Rioting breaks out in Guangxi province, China, in protest at the government imposing fines for breaches of its strict one-child policy. ](/news/2007/05/18/rioting-breaks-out-in-guangxi-province-china-in-protest-at-the-government-imposing-fines-for-breaches-of-its-strict-one-child-policy.md)
-_Context: China's, Guangxi Zhuang, government, one-child policy_
+_Context: Guangxi Zhuang, People's Republic of China, government, one-child policy_
 
 ## [Previous Day...](/news/2007/05/17/index.md)
 

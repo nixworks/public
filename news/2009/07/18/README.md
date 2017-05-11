@@ -28,7 +28,7 @@ More than 1,400 tonnes of waste including bags of blood, used syringes and old m
 _Context: Beijing, United Kingdom, United States, swine flu_
 
 ### [ China admits it shot dead 12 rioters in one riot incident in rmqi. ](/news/2009/07/18/china-admits-it-shot-dead-12-rioters-in-one-riot-incident-in-urumqi.md)
-_Context: China's, Urumqi, riots_
+_Context: People's Republic of China, Urumqi, riots_
 
 ### [ Forty-seven people are injured in a collision between two Muni Metro light rail cars at the West Portal Station in San Francisco, United States. ](/news/2009/07/18/forty-seven-people-are-injured-in-a-collision-between-two-muni-metro-light-rail-cars-at-the-west-portal-station-in-san-francisco-united-st.md)
 _Context: Muni Metro, San Francisco, United States, West Portal Station, collision, light rail cars_

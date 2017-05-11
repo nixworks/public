@@ -25,7 +25,7 @@ _Context: Homo floresiensis, dwarfism, microcephaly_
 Government official says last batch of inmates of detention camps to go home in December.
 
 ### [ A gas blast at a coal mine in Heilongjiang province, northeastern China, kills 42 people and traps 66. ](/news/2009/11/21/a-gas-blast-at-a-coal-mine-in-heilongjiang-province-northeastern-china-kills-42-people-and-traps-66.md)
-_Context: China's, Heilongjiang_
+_Context: Heilongjiang, People's Republic of China_
 
 ### [ The Netherlands win the Junior Eurovision Song Contest 2009 with the song "Click Clack" by Ralf Mackenbach. ](/news/2009/11/21/the-netherlands-win-the-junior-eurovision-song-contest-2009-with-the-song-click-clack-by-ralf-mackenbach.md)
 _Context: Junior Eurovision Song Contest 2009, Netherlands, Ralf Mackenbach_

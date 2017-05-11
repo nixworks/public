@@ -16,7 +16,7 @@ _Context: Baltimore, Edgar Allan Poe, United States, his death_
 The top UN official in Afghanistan today acknowledged &quot;widespread fraud&quot; in the disputed presidential election and rejected allegations from a former deputy that he covered up cheating to smooth the path to victory for President Hamid Karzai.
 
 ### [ Six Uyghurs are sentenced to death over riots in the western region of Xinjiang, China in July. ](/news/2009/10/12/six-uyghurs-are-sentenced-to-death-over-riots-in-the-western-region-of-xinjiang-china-in-july.md)
-_Context: China's, Uyghur, Xinjiang, riots_
+_Context: People's Republic of China, Uyghur, Xinjiang, riots_
 
 ### [ A large fire sweeps through a shanty town in Sao Paulo, Brazil, leaving at least 200 families without homes. ](/news/2009/10/12/a-large-fire-sweeps-through-a-shanty-town-in-sao-paulo-brazil-leaving-at-least-200-families-without-homes.md)
 _Context: Brazil, Sao Paulo, hutment_

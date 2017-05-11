@@ -1,10 +1,10 @@
 ## [2003-12-22](/news/2003/12/22/index.md)
 
 ### [ After getting FCC approval on December 19, News Corporation Ltd. completed a US$7.6 billion cash and stock deal to buy control of Hughes Electronics and its DirecTV satellite television division from General Motors. [http://www.hughes.com/ir/pr/03_12_22_gmh.asp]](/news/2003/12/22/after-getting-fcc-approval-on-december-19-news-corporation-ltd-completed-a-us-7-6-billion-cash-and-stock-deal-to-buy-control-of-hughes-el.md)
-_Context: December 19, DirecTV, Federal Communications Commission, General Motors, Hughes Electronics, News Corporation_
+_Context: December 19, DirecTV, Federal Communications Commission's, General Motors, Hughes Electronics, News Corporation_
 
 ### [ The People's Republic of China plans to peg its currency, the yuan, to a basket of ten currencies instead of only the U.S. dollar, according to its state press. [http://money.inq7.net/breakingnews/view_breakingnews.php?yyyy=2003&mon=12&dd=22&file=9]](/news/2003/12/22/the-people-s-republic-of-china-plans-to-peg-its-currency-the-yuan-to-a-basket-of-ten-currencies-instead-of-only-the-u-s-dollar-accordin.md)
-_Context: China's, U.S. dollar, currency, yuan_
+_Context: People's Republic of China, U.S. dollar, currency, yuan_
 
 ### [ Parmalat is likely to declare "controlled administration" as Italian Prime Minister Silvio Berlusconi said the government would intervene and "above all save the industrial part of the company and jobs". [http://news.bbc.co.uk/1/hi/business/3339459.stm]](/news/2003/12/22/parmalat-is-likely-to-declare-controlled-administration-as-italian-prime-minister-silvio-berlusconi-said-the-government-would-intervene-a.md)
 _Context: Italian Prime Minister, Parmalat, Politics of Italy, Silvio Berlusconi_

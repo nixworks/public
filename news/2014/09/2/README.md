@@ -13,7 +13,7 @@ Officials say bomb attack killed 11 soldiers in region, where attacks on army ha
 Government says 88 people, including Saudis and Yemenis, held on suspicion of plotting attacks in kingdom and abroad.
 
 ### [ISIL releases an Internet video showing the beheading of American journalist Steven Sotloff. ](/news/2014/09/2/isil-releases-an-internet-video-showing-the-beheading-of-american-journalist-steven-sotloff.md)
-_Context: ISIL, Steven Sotloff, Syrian Civil War_
+_Context: Islamic State of Iraq and the Levant, Steven Sotloff, Syrian Civil War_
 
 ### [The United States sends an additional 250 US troops to protect American personnel. ](/news/2014/09/2/the-united-states-sends-an-additional-250-us-troops-to-protect-american-personnel.md)
 _Context: Iraqi insurgency (2011-present), United States_

@@ -31,7 +31,7 @@ _Context: Georgia, Gori_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ The government of the People's Republic of China issues emergency orders to stop a meningitis outbreak that has killed 16 people. ](/news/2005/02/1/the-government-of-the-people-s-republic-of-china-issues-emergency-orders-to-stop-a-meningitis-outbreak-that-has-killed-16-people.md)
-_Context: China's, meningitis, outbreak_
+_Context: People's Republic of China, meningitis, outbreak_
 
 ### [ Ex-president of Kenya and chairman of KANU party, Daniel arap Moi, is due to step down. His successor will be Uhuru Kenyatta, son of Jomo Kenyatta. ](/news/2005/02/1/ex-president-of-kenya-and-chairman-of-kanu-party-daniel-arap-moi-is-due-to-step-down-his-successor-will-be-uhuru-kenyatta-son-of-jomo-k.md)
 _Context: Daniel arap Moi, Jomo Kenyatta, KANU, Kenya, Uhuru Kenyatta_

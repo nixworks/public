@@ -10,7 +10,7 @@ Suspected drug lord Nazario Moreno was gunned down late on Thursday by security 
 _Context: Stockholm, Sweden, car bombs explode_
 
 ### [Inflation in China reaches a 28-month high, at 5.1%. ](/news/2010/12/11/inflation-in-china-reaches-a-28-month-high-at-5-1.md)
-_Context: China's_
+_Context: People's Republic of China_
 
 ### [Bolivia lowers its retirement age from 65 to 58 as other countries raise their retirement ages. ](/news/2010/12/11/bolivia-lowers-its-retirement-age-from-65-to-58-as-other-countries-raise-their-retirement-ages.md)
 Bucking a global trend which pushes workers to work longer and older, Bolivians can now retire at age 58, down from 65.

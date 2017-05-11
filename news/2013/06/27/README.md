@@ -4,7 +4,7 @@
 _Context: European Union, United Kingdom_
 
 ### [The President of South Korea Park Geun-hye arrives in the People's Republic of China for four days of talks with the President of China Xi Jinping in an effort to reduce tensions on the Korean Peninsula. ](/news/2013/06/27/the-president-of-south-korea-park-geun-hye-arrives-in-the-people-s-republic-of-china-for-four-days-of-talks-with-the-president-of-china-xi-j.md)
-_Context: China's, Chinese President, Korean Peninsula, Park Geun-hye, President, Xi Jinping_
+_Context: Chinese President, Korean Peninsula, Park Geun-hye, People's Republic of China, President, Xi Jinping_
 
 ### [A US federal grand jury issues a thirty count indictment against Dzhokhar Tsarnaev for his alleged role in the Boston Marathon bombings. ](/news/2013/06/27/a-us-federal-grand-jury-issues-a-thirty-count-indictment-against-dzhokhar-tsarnaev-for-his-alleged-role-in-the-boston-marathon-bombings.md)
 Dzhokhar Tsarnaev, the surviving Boston Marathon bombing suspect, was indicted Thursday and is scheduled to be arraigned on July 10.

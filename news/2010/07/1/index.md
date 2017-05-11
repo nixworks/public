@@ -19,7 +19,7 @@ Hundreds of thousands of Senegalese are expected at ceremonies to mourn the lead
 _Context: Ottawa, birthday_
 
 ### [China's Xinhua launches a global 24-hour English TV news channel. ](/news/2010/07/1/china-s-xinhua-launches-a-global-24-hour-english-tv-news-channel.md)
-_Context: 24-hour English TV news channel, China, China's, Xinhua_
+_Context: 24-hour English TV news channel, China, People's Republic of China, Xinhua_
 
 ### [Hurricane Alex, the first hurricane of the 2010 Atlantic hurricane season, makes landfall in northeastern Mexico as a Category&nbsp;2 hurricane on the Saffir-Simpson Hurricane Scale with winds of 105&nbsp;mph (165&nbsp;km/h), and  causes tornadoes that force people into shelters in southern Texas. ](/news/2010/07/1/hurricane-alex-the-first-hurricane-of-the-2010-atlantic-hurricane-season-makes-landfall-in-northeastern-mexico-as-a-category-nbsp-2-hurric.md)
 Storm makes landfall as heavy seas hamper oil clean-up efforts in Gulf of Mexico.

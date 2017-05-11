@@ -7,7 +7,7 @@ Sectarian outfit Lashkar-e-Jhangvi al-Alami claims responsibility for the attack
 _Context: Damascus, Douma, Eastern Ghouta, Mortar, Saqba, Syria, Syrian Civil War, Syrian Observatory for Human Rights, Syrian opposition, airstrike, surface-to-surface missile_
 
 ### [Israel says an Arab-Israeli man who served in the Israel Defense Forces (IDF) has joined Islamic State militants in Syria. ](/news/2015/12/13/israel-says-an-arab-israeli-man-who-served-in-the-israel-defense-forces-idf-has-joined-islamic-state-militants-in-syria.md)
-_Context: Arab citizen, ISIL, Israel, Israel Defense Forces, Syria_
+_Context: Arab citizen, Islamic State of Iraq and the Levant, Israel, Israel Defense Forces, Syria_
 
 ### [The U.S. State Department issues a travel advisory for Burundi and advises its citizens there to leave  as soon as possible due to the increased violence in the capital Bujumbura where 87 people were killed this weekend. Families of U.S. government personnel  and non-emergency  personnel have been ordered to leave immediately.   ](/news/2015/12/13/the-u-s-state-department-issues-a-travel-advisory-for-burundi-and-advises-its-citizens-there-to-leave-as-soon-as-possible-due-to-the-incre.md)
 The United States advised its citizens to leave Burundi as soon as possible following attacks on military barracks that killed 87.

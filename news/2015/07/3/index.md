@@ -28,7 +28,7 @@ _Context: Brazil, UBS, currency manipulation_
 After slamming the eastern coast of China, Chan-hom bring heavy rain to Korean Peninsula.
 
 ### [At least four people are dead and 48 injured following a 6.5 magnitude earthquake in Pishan County in China's Xinjiang region. ](/news/2015/07/3/at-least-four-people-are-dead-and-48-injured-following-a-6-5-magnitude-earthquake-in-pishan-county-in-china-s-xinjiang-region.md)
-_Context: China's, Pishan County, Xinjiang, earthquake_
+_Context: People's Republic of China, Pishan County, Xinjiang, earthquake_
 
 ### [The death toll from yesterday's capsizing of the M/B Nivana off the coast of the Philippines rises to 56 as murder charges are filed against the owner and crew. ](/news/2015/07/3/the-death-toll-from-yesterday-s-capsizing-of-the-m-b-nivana-off-the-coast-of-the-philippines-rises-to-56-as-murder-charges-are-filed-against.md)
 At least three more bodies have been recovered from a ferry that capsized in choppy waters in the central Philippines

@@ -16,7 +16,7 @@ _Context: Dutch, France, Iran, Italian, sanctions_
 MANILA, Philippines - The Department of Justice on Tuesday recommended the filing of 57 counts of murder against former Maguindanao governor Andal Ampatuan Sr. and 196 others linked to the gruesome massacre of 57 people in Maguindanao last November 23.
 
 ### [China sentences Tan Zuoren, who investigated poor construction after the 2008 Sichuan earthquake, to five years in prison for "inciting subversion of state power". ](/news/2010/02/9/china-sentences-tan-zuoren-who-investigated-poor-construction-after-the-2008-sichuan-earthquake-to-five-years-in-prison-for-inciting-subv.md)
-_Context: China's, Tan Zuoren, deadly earthquake, subversion_
+_Context: People's Republic of China, Tan Zuoren, deadly earthquake, subversion_
 
 ## [Previous Day...](/news/2010/02/8/index.md)
 

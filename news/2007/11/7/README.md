@@ -28,7 +28,7 @@ _Context: 2007 Georgian demonstrations, Mikhail Saakashvili, Tbilisi_
 _Context: Finland, Helsinki, Tuusula (Tusby), school shooting_
 
 ### [ The U.S. dollar stumbles to new lows after Cheng Siwei, vice chairman of the Standing Committee of the National People's Congress, calls for China to shift more of its $1.43 trillion of currency reserves into "stronger currencies", such as the euro. ](/news/2007/11/7/the-u-s-dollar-stumbles-to-new-lows-after-cheng-siwei-vice-chairman-of-the-standing-committee-of-the-national-people-s-congress-calls-fo.md)
-_Context: Cheng Siwei, China's, Standing Committee of the National People's Congress, U.S. dollar, euro, foreign exchange reserves_
+_Context: Cheng Siwei, People's Republic of China, Standing Committee of the National People's Congress, U.S. dollar, euro, foreign exchange reserves_
 
 ### [ Brad Wall is elected as Premier of Saskatchewan as his Saskatchewan Party defeats the Saskatchewan New Democratic Party by a 37-21 margin in the 26th Saskatchewan general election. ](/news/2007/11/7/brad-wall-is-elected-as-premier-of-saskatchewan-as-his-saskatchewan-party-defeats-the-saskatchewan-new-democratic-party-by-a-37-21-margin-i.md)
 _Context: 26th Saskatchewan general election, Brad Wall, Premier, Saskatchewan New Democratic Party, Saskatchewan Party_

@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [The Assembly of California votes in favor of allowing Communists to hold positions in the state government. ](/news/2017/05/9/the-assembly-of-california-votes-in-favor-of-allowing-communists-to-hold-positions-in-the-state-government.md) _Context: California, state government_
+1. [The Assembly of California votes in favor of ending a ban which barred members of the Communist Party USA from holding positions in the state government. ](/news/2017/05/9/the-assembly-of-california-votes-in-favor-of-ending-a-ban-which-barred-members-of-the-communist-party-usa-from-holding-positions-in-the-stat.md) _Context: California, state government_
 2. [ California will lay off 20,000 government workers, due to the State Legislature's failure to pass a budget. ](/news/2009/02/17/california-will-lay-off-20-000-government-workers-due-to-the-state-legislature-s-failure-to-pass-a-budget.md) _Context: California, state government_
 3. [ Tan D. Nguyen, a Republican candidate for California's 47th congressional district in  Orange County, California, denies authorizing a letter warning Hispanic immigrants that they could go to jail or be deported if they vote next month, a mailing that prompted an investigation by the state government. ](/news/2006/10/19/tan-d-nguyen-a-republican-candidate-for-california-s-47th-congressional-district-in-orange-county-california-denies-authorizing-a-lett.md) _Context: California, state government_
 4. [One person is killed and seven are injured in a shooting at a pool party in San Diego, California. The suspect is killed by police. ](/news/2017/04/30/one-person-is-killed-and-seven-are-injured-in-a-shooting-at-a-pool-party-in-san-diego-california-the-suspect-is-killed-by-police.md) _Context: California_

@@ -16,13 +16,13 @@ _Context: Pakistan, Peshawar_
 Archaeologists unearth thousands of stone tools in North America they say predate the technology widely assumed to have been carried by the first settlers.
 
 ### [More than 600 workers at a Chinese-owned mine in Zambia strike over pay. ](/news/2011/03/25/more-than-600-workers-at-a-chinese-owned-mine-in-zambia-strike-over-pay.md)
-_Context: China's, Zambia_
+_Context: People's Republic of China, Zambia_
 
 ### [The U.S. International Trade Commission has agreed to hear an appeal from Kodak to an initial unfavorable decision by an administrative judge on Kodak's claim that Research in Motion and Apple have infringed its patents, in connection with wireless devices equipped with digital cameras. ](/news/2011/03/25/the-u-s-international-trade-commission-has-agreed-to-hear-an-appeal-from-kodak-to-an-initial-unfavorable-decision-by-an-administrative-judg.md)
 _Context: Apple Inc., International Trade Commission, Kodak, Research in Motion, U.S., digital cameras_
 
 ### [More than 100 people are poisoned by lead from a battery plant built in a residential area in Zhejiang, China. ](/news/2011/03/25/more-than-100-people-are-poisoned-by-lead-from-a-battery-plant-built-in-a-residential-area-in-zhejiang-china.md)
-_Context: China's, Zhejiang, lead_
+_Context: People's Republic of China, Zhejiang, lead_
 
 ### [Japan's National Police Agency states that the official death toll from the 2011 Tohoku earthquake and tsunami has passed 10,000 with 17,053 missing. ](/news/2011/03/25/japan-s-national-police-agency-states-that-the-official-death-toll-from-the-2011-tahoku-earthquake-and-tsunami-has-passed-10-000-with-17-05.md)
 _Context: Japan, an earthquake and tsunami, police_

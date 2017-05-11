@@ -55,7 +55,7 @@ _Context: Lubna al-Hussein, Sudan, teargas_
 _Context: Anna Politkovskaya, Moscow, Russia_
 
 ### [ A Chinese teenager sent to an internet addiction rehabilitation camp is allegedly beaten to death by its counsellors. ](/news/2009/08/5/a-chinese-teenager-sent-to-an-internet-addiction-rehabilitation-camp-is-allegedly-beaten-to-death-by-its-counsellors.md)
-_Context: China's, internet addiction_
+_Context: People's Republic of China, internet addiction_
 
 ### [ The United States White House defends its decision to award its Presidential Medal of Freedom to former President of Ireland Mary Robinson. ](/news/2009/08/5/the-united-states-white-house-defends-its-decision-to-award-its-presidential-medal-of-freedom-to-former-president-of-ireland-mary-robinson.md)
 The White House has defended its decision to award the highest civilian honour in the United States to former president Mary &hellip;

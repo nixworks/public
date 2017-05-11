@@ -10,7 +10,7 @@ _Context: Randy Travis, congestive heart failure_
 _Context: Apple Inc., U.S. district court, eBooks_
 
 ### [A rain-triggered landslide in southern China's Sichuan Province buries between 30-40 people. ](/news/2013/07/10/a-rain-triggered-landslide-in-southern-china-s-sichuan-province-buries-between-30-40-people.md)
-_Context: China's, Sichuan Province, landslide_
+_Context: People's Republic of China, Sichuan Province, landslide_
 
 ### [The death toll from the Lac-Mgantic derailment in the Canadian province of Quebec rises to 20, with 30 people missing presumed dead. ](/news/2013/07/10/the-death-toll-from-the-lac-megantic-derailment-in-the-canadian-province-of-quebec-rises-to-20-with-30-people-missing-presumed-dead.md)
 _Context: Lac-Mgantic derailment, Quebec_

@@ -38,7 +38,7 @@ The British government has trained a paramilitary force accused of hundreds of k
 
 ### [The Russian government is "forced to take an adequate corresponding measure" following Britain's expulsion of one of its diplomats. ](/news/2010/12/22/the-russian-government-is-forced-to-take-an-adequate-corresponding-measure-following-britain-s-expulsion-of-one-of-its-diplomats.md)
 ### [Three Tibetan Buddhist monks are unaccounted for after being sentenced to long prison terms by Chinese authorities earlier this year for participating in a peaceful protest march by Drepung monastery monks in 2008. ](/news/2010/12/22/three-tibetan-buddhist-monks-are-unaccounted-for-after-being-sentenced-to-long-prison-terms-by-chinese-authorities-earlier-this-year-for-par.md)
-_Context: Bhikkhu, Buddhist, China's, Drepung monastery, Tibet_
+_Context: Bhikkhu, Buddhist, Drepung monastery, People's Republic of China, Tibet_
 
 ### [WikiLeaks:The United Nations office for torture issues in Geneva investigates an abuse complaint concerning United States Army private Bradley Manning, suspected by the United States government of passing classified documents to the WikiLeaks website. ](/news/2010/12/22/wikileaks-pthe-united-nations-office-for-torture-issues-in-geneva-investigates-an-abuse-complaint-concerning-united-states-army-private-brad.md)
 The United Nations says it is looking into a complaint that the Army private suspected of giving classified documents to WikiLeaks has been mistreated in custody. The U.N office for torture issues in

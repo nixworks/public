@@ -1,13 +1,13 @@
 ## [2009-02-27](/news/2009/02/27/index.md)
 
 ### [ China's Navy and Denmark's Navy thwart Somali pirate attacks on Italian and Chinese merchant vessels in the Gulf of Aden. ](/news/2009/02/27/china-s-navy-and-denmark-s-navy-thwart-somali-pirate-attacks-on-italian-and-chinese-merchant-vessels-in-the-gulf-of-aden.md)
-_Context: China's, Denmark, Gulf of Aden, Italian, MV, Navy, People's Liberation Army Navy, Somali pirates, Somalia_
+_Context: Denmark, Gulf of Aden, Italian, MV, Navy, People's Liberation Army Navy, People's Republic of China, Somali pirates, Somalia_
 
 ### [ A nationwide "Chicago Tea Party" occurred across the United States, where protesters say government spending is out of control. ](/news/2009/02/27/a-nationwide-chicago-tea-party-occurred-across-the-united-states-where-protesters-say-government-spending-is-out-of-control.md)
 Fox 32 Chicago News, breaking news, local headlines, weather, sports traffic and more.
 
 ### [ China's Armed Police shoot a Tibetan monk as he immolates himself in Sichuan. ](/news/2009/02/27/china-s-armed-police-shoot-a-tibetan-monk-as-he-immolates-himself-in-sichuan.md)
-_Context: China's, People's Armed Police, Sichuan, Tibet, monk, sets herself alight_
+_Context: People's Armed Police, People's Republic of China, Sichuan, Tibet, monk, sets herself alight_
 
 ### [ Global financial crisis of 2008-2009: ASEAN, Australia, and New Zealand sign a free trade agreement to increase commerce.  ](/news/2009/02/27/global-financial-crisis-of-2008a2009-p-asean-australia-and-new-zealand-sign-a-free-trade-agreement-to-increase-commerce.md)
 _Context: ASEAN, Australia, New Zealand, agreement, commerce, current financial crisis, free trade_
@@ -31,7 +31,7 @@ _Context: Fox Broadcasting Company, The Simpsons, United States, animated, longe
 _Context: Cuba, Fidel Castro, Havana, Hugo Chavez, Venezuela, Venezuelan President_
 
 ### [ A report by China's State Council criticizes the United States' human rights record. [http://english.people.com.cn/90001/90776/90883/6602168.html (''People's Daily'')]`](/news/2009/02/27/a-report-by-china-s-state-council-criticizes-the-united-states-human-rights-record-http-english-people-com-cn-90001-90776-90883-660216.md)
-_Context: China's, China's State Council, United States, human rights record_
+_Context: China's State Council, People's Republic of China, United States, human rights record_
 
 ## [Previous Day...](/news/2009/02/26/index.md)
 

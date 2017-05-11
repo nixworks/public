@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [The Assembly of California votes in favor of allowing Communists to hold positions in the state government. ](/news/2017/05/9/the-assembly-of-california-votes-in-favor-of-allowing-communists-to-hold-positions-in-the-state-government.md) _Context: California, state government_
+1. [The Assembly of California votes in favor of ending a ban which barred members of the Communist Party USA from holding positions in the state government. ](/news/2017/05/9/the-assembly-of-california-votes-in-favor-of-ending-a-ban-which-barred-members-of-the-communist-party-usa-from-holding-positions-in-the-stat.md) _Context: California, state government_
 2. [A one-man carjacking and shooting spree in Orange County, California, United States, results in the death of 4 people including the alleged gunman. ](/news/2013/02/19/a-one-man-carjacking-and-shooting-spree-in-orange-county-california-united-states-results-in-the-death-of-4-people-including-the-alleged.md) _Context: California, Orange County_
 3. [ California's government goes broke and issues IOUs on all expenditures not required by law. ](/news/2009/02/3/california-s-government-goes-broke-and-issues-ious-on-all-expenditures-not-required-by-law.md) _Context: California, state government_
 4. [ California will lay off 20,000 government workers, due to the State Legislature's failure to pass a budget. ](/news/2009/02/17/california-will-lay-off-20-000-government-workers-due-to-the-state-legislature-s-failure-to-pass-a-budget.md) _Context: California, state government_

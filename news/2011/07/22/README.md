@@ -10,7 +10,7 @@ Syrian forces shot dead at least 11 people during mass protests on Friday agains
 Malawian authorities have blocked a mass funeral for seven people killed during two days of rioting in the northern city of Mzuzu, a rights activist says. 
 
 ### [China is to ordain seven more bishops, amid a dispute with the Vatican. ](/news/2011/07/22/china-is-to-ordain-seven-more-bishops-amid-a-dispute-with-the-vatican.md)
-_Context: China's, Holy See_
+_Context: Holy See, People's Republic of China_
 
 ### [Elliot Handler who cofounded Mattel with his wife dies at age 95. ](/news/2011/07/22/elliot-handler-who-cofounded-mattel-with-his-wife-dies-at-age-95.md)
 Mr. Handler helped introduce Barbie, helped design the talking doll Chatty Cathy and popularized Hot Wheels toy cars.
@@ -22,7 +22,7 @@ _Context: Qantas, industrial action_
 General Electric Co notched a better-than-expected 21.6 percent rise in earnings, helped by strong demand for jet engines as well as equipment used in oil and natural gas production.
 
 ### [At least 41 people are killed in a fire on a bus in Xinyang City, central China. ](/news/2011/07/22/at-least-41-people-are-killed-in-a-fire-on-a-bus-in-xinyang-city-central-china.md)
-_Context: China's, Xinyang_
+_Context: People's Republic of China, Xinyang_
 
 ### [Nepalese officials say monsoon rains have swollen two major rivers in the country and have increased the threat of widespread flooding. ](/news/2011/07/22/nepalese-officials-say-monsoon-rains-have-swollen-two-major-rivers-in-the-country-and-have-increased-the-threat-of-widespread-flooding.md)
 _Context: Nepal, monsoon_

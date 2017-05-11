@@ -25,7 +25,7 @@ _Context: First World War, France, French Foreign Legion, Italian, Lazare Pontic
 _Context: Bernard Kouchner, Carl Bildt, European Union, France, Minister of Foreign Affairs, Serbia, Sweden_
 
 ### [ Chinese police fire tear gas to disperse protesters during the second day of demonstrations by Buddhist monks in Lhasa, Tibet demanding the region's independence. ](/news/2008/03/12/chinese-police-fire-tear-gas-to-disperse-protesters-during-the-second-day-of-demonstrations-by-buddhist-monks-in-lhasa-tibet-demanding-the.md)
-_Context: China's, Lhasa, Tibet Autonomous Region, free Tibet_
+_Context: Lhasa, People's Republic of China, Tibet Autonomous Region, free Tibet_
 
 ### [ Governor of New York Eliot Spitzer resigns effective March 17 amid a prostitution ring scandal. He will be replaced by David Paterson, the first African American and legally blind person to hold this position. ](/news/2008/03/12/governor-of-new-york-eliot-spitzer-resigns-effective-march-17-amid-a-prostitution-ring-scandal-he-will-be-replaced-by-david-paterson-the.md)
 _Context: African-American, David Paterson, Eliot Spitzer, Governor, March 17, New York_

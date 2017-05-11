@@ -13,7 +13,7 @@ Somali Interior Minister Abdi Shakur Sheikh Hassan is killed in a suicide attack
 _Context: Libyan Civil War, NATO, Tripoli_
 
 ### [The People's Republic of China's only ratings house that grades sovereign entities, the Dagong Global Credit Rating Company, states that the United States is already defaulting on its debt by allowing the U.S. dollar to devalue against other currencies, diminishing the wealth of China as a U.S. creditor. ](/news/2011/06/10/the-people-s-republic-of-china-s-only-ratings-house-that-grades-sovereign-entities-the-dagong-global-credit-rating-company-states-that-the.md)
-_Context:  debt, China's, Dagong Global Credit Rating, U.S. dollar, United States, creditor, defaults_
+_Context:  debt, Dagong Global Credit Rating, People's Republic of China, U.S. dollar, United States, creditor, defaults_
 
 ### [The South Korean Central Bank raises its benchmark interest rate by 25 basis points to 3.25 percent. ](/news/2011/06/10/the-south-korean-central-bank-raises-its-benchmark-interest-rate-by-25-basis-points-to-3-25-percent.md)
 _Context: Bank of Korea, South Korea_
@@ -37,7 +37,7 @@ China accuses Vietnam of &quot;gravely violating&quot; its sovereignty in an esc
 _Context: Chechen, Chechen War, Moscow, Russia, Yuri Budanov_
 
 ### [Hundreds of Mainland Chinese and Taiwanese people are arrested in several countries across Asia during a crackdown on a telephone scam network. ](/news/2011/06/10/hundreds-of-mainland-chinese-and-taiwanese-people-are-arrested-in-several-countries-across-asia-during-a-crackdown-on-a-telephone-scam-netwo.md)
-_Context: Asia, China's, Taiwan_
+_Context: Asia, People's Republic of China, Taiwan_
 
 ### [Sinn Fein's Paul Maskey wins the West Belfast by-election. ](/news/2011/06/10/sinn-fein-s-paul-maskey-wins-the-west-belfast-by-election.md)
 Sinn Fein candidate Paul Maskey is elected as the new MP for West Belfast, taking 70.6% of the vote.

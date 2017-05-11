@@ -7,7 +7,7 @@ _Context: Burkina Faso, Mali, Niger, Nigeria, United Nations, United Nations Chi
 _Context: Discovery, International Space Station, NASA, Space Shuttle, United States, hydrogen gas, lands, natural gas leak_
 
 ### [ China's exports contract 25.7%, the worst decline since 1993. ](/news/2009/03/11/china-s-exports-contract-25-7-the-worst-decline-since-1993.md)
-_Context: 4th quarter of 2007 and the second quarter of 2009, China's, export_
+_Context: 4th quarter of 2007 and the second quarter of 2009, People's Republic of China, export_
 
 ### [ The Liberal Democrats claim that more than 1,000 police officers in the United Kingdom have criminal records. ](/news/2009/03/11/the-liberal-democrats-claim-that-more-than-1-000-police-officers-in-the-united-kingdom-have-criminal-records.md)
 _Context: Liberal Democrats, United Kingdom, United Kingdom police, criminal records_

@@ -16,7 +16,7 @@ _Context: Boko Haram, Borno State, Gubio, Nigeria_
 Charter Communications Inc. is near an agreement to buy Time Warner Cable Inc. for about $55.1 billion in cash and stock, after French billionaire Patrick Drahi expressed interest in the assets, according to people familiar with the matter.
 
 ### [Police in China catch 175 looters who raided the Niuheliang Neolithic archaeological site in Manchuria. ](/news/2015/05/26/police-in-china-catch-175-looters-who-raided-the-niuheliang-neolithic-archaeological-site-in-manchuria.md)
-_Context: China's, Manchuria, Neolithic, Niuheliang_
+_Context: Manchuria, Neolithic, Niuheliang, People's Republic of China_
 
 ### [Thirteen die in Ciudad Acuna, Mexico in the city's first-ever tornado. ](/news/2015/05/26/thirteen-die-in-ciudad-acua-a-mexico-in-the-city-s-first-ever-tornado.md)
 _Context: Ciudad Acuna, Tornadoes of 2015_

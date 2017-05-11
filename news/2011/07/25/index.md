@@ -16,7 +16,7 @@ _Context: Greece, Moody's, defaults_
 Efforts to save starving Somalis and others suffering from drought in East Africa were intensified Monday, with United Nations agencies pitching for more funding for relief efforts.
 
 ### [South Korea and the People's Republic of China will hold inaugural defense strategic meetings this week. ](/news/2011/07/25/south-korea-and-the-people-s-republic-of-china-will-hold-inaugural-defense-strategic-meetings-this-week.md)
-_Context: China's, South Korea_
+_Context: People's Republic of China, South Korea_
 
 ### [Australia and Malaysia sign a pact to exchange asylum seekers in Kuala Lumpur. ](/news/2011/07/25/australia-and-malaysia-sign-a-pact-to-exchange-asylum-seekers-in-kuala-lumpur.md)
 _Context: Australia, Kuala Lumpur, Malaysia, asylum seeker_

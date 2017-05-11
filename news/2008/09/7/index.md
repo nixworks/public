@@ -28,7 +28,7 @@ _Context: Assam, Brahmaputra River, Floods, India, million_
 _Context: Democratic Alliance, Hong Kong, Hong Kong legislative election, 2008_
 
 ### [ Xinhua reports that 20 people are trapped in a coal mine in the Henan province of China following flooding. ](/news/2008/09/7/xinhua-reports-that-20-people-are-trapped-in-a-coal-mine-in-the-henan-province-of-china-following-flooding.md)
-_Context: China's, Henan, Xinhua, coal mine_
+_Context: Henan, People's Republic of China, Xinhua, coal mine_
 
 ### [ Vineet Raj Srivastava, The top Developer of HP India died](/news/2008/09/7/vineet-raj-srivastava-the-top-developer-of-hp-india-died.md)
 ## [Previous Day...](/news/2008/09/6/index.md)

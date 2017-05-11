@@ -10,7 +10,7 @@ _Context: Gary Locke, Governor, Obama, U.S. President, United States, United Sta
 _Context: Afghanistan, British Army, Gerishk District, Helmand Province, IED, United Kingdom_
 
 ### [ Three people set themselves on fire near Tiananmen Square in Beijing, China. ](/news/2009/02/25/three-people-set-themselves-on-fire-near-tiananmen-square-in-beijing-china.md)
-_Context: Beijing, China's, Tiananmen Square, sets herself alight_
+_Context: Beijing, People's Republic of China, Tiananmen Square, sets herself alight_
 
 ### [ Iran tests its first nuclear power plant at Bushehr. ](/news/2009/02/25/iran-tests-its-first-nuclear-power-plant-at-bushehr.md)
 _Context: Bushehr, Bushehr power plant, Iran, nuclear scientist_
@@ -43,7 +43,7 @@ _Context: Belgrade, Milorad Ulemek, Serbia, aiding, assassinated, officer_
 _Context: Japan, export_
 
 ### [ The U.S. State Department criticizes China's human rights record. ](/news/2009/02/25/the-u-s-state-department-criticizes-china-s-human-rights-record.md)
-_Context: China's, Chinese human rights, State Department, United States_
+_Context: Chinese human rights, People's Republic of China, State Department, United States_
 
 ### [ Islamist terrorist group Al-Shabaab seizes Hudur, Somalia. ](/news/2009/02/25/islamist-terrorist-group-al-shabaab-seizes-hudur-somalia.md)
 _Context: Al-Shabaab, Somali Civil War, Somalia, radical Islamists, terrorism_

@@ -28,7 +28,7 @@ _Context: Van Gogh_
 _Context: Central Bank of Egypt, Protesters, bank_
 
 ### [China records a trade surplus of $6.5 billion for January, less than expected. ](/news/2011/02/14/china-records-a-trade-surplus-of-6-5-billion-for-january-less-than-expected.md)
-_Context: China's, January, trade surplus_
+_Context: January, People's Republic of China, trade surplus_
 
 ### [A court in the city of Lago Agrio, on behalf of 30,000 Ecuadorean people, orders United States oil company Chevron to pay more than $8 billion in environmental damages for dumping wastewater in the Amazon River twenty years ago. ](/news/2011/02/14/a-court-in-the-city-of-lago-agrio-on-behalf-of-30-000-ecuadorean-people-orders-united-states-oil-company-chevron-to-pay-more-than-8-billi.md)
 An Ecuadorean lawyer for theplaintiffs said on Monday that a court in the Amazon city of LagoAgrio had ordered U.S. oil giant Chevron (CVX.N) to pay more than$8 billion in environmental damages.

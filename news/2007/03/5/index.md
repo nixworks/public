@@ -4,7 +4,7 @@
 _Context: New York's, North Korea, North Korean nuclear weapons program, United States, diplomatic relations_
 
 ### [ Ramush Haradinaj, the former Prime Minister of Kosovo, goes on trial at the  International Criminal Tribunal for the Former Yugoslavia at The Hague for war crimes allegedly committed while he was a regional leader of the Kosovo Liberation Army. ](/news/2007/03/5/ramush-haradinaj-the-former-prime-minister-of-kosovo-goes-on-trial-at-the-international-criminal-tribunal-for-the-former-yugoslavia-at-t.md)
-_Context: International Criminal Tribunal for the former Yugoslavia, Kosovo Liberation Army, Prime Minister of Kosovo, Ramush Haradinaj, The Hague, war crimes_
+_Context: International Criminal Tribunal for the former Yugoslavia, Kosovo Liberation Army, Prime Minister, Ramush Haradinaj, The Hague, war crimes_
 
 ### [ Iraq War: A car bomb in Baghdad kills at least 26 people. ](/news/2007/03/5/iraq-war-p-a-car-bomb-in-baghdad-kills-at-least-26-people.md)
 _Context: Baghdad, Iraq War, car bomb_

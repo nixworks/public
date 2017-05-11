@@ -16,7 +16,7 @@ _Context: Bank of America, WikiLeaks_
 _Context: Bangladesh_
 
 ### [A Chinese fishing boat capsizes during a scuffle with a South Korean coastguard ship, leaving one dead and two missing. ](/news/2010/12/18/a-chinese-fishing-boat-capsizes-during-a-scuffle-with-a-south-korean-coastguard-ship-leaving-one-dead-and-two-missing.md)
-_Context: China's, South Korea_
+_Context: People's Republic of China, South Korea_
 
 ### [Roads, railways and airports across the United Kingdom are severely affected by further heavy snowfall. Severe weather warnings have been issued for many areas. ](/news/2010/12/18/roads-railways-and-airports-across-the-united-kingdom-are-severely-affected-by-further-heavy-snowfall-severe-weather-warnings-have-been-is.md)
 Travellers face chaotic journeys as heavy snow falls across the UK, although some outgoing Heathrow flights are expected to resume from 0600 GMT.

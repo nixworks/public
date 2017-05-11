@@ -1,7 +1,7 @@
 ## [2008-12-26](/news/2008/12/26/index.md)
 
 ### [ China's People's Liberation Army Navy begins escorting three warships (two destroyers and one replenishment oiler) to the Gulf of Aden to combat piracy in Somalia. ](/news/2008/12/26/china-s-people-s-liberation-army-navy-begins-escorting-three-warships-two-destroyers-and-one-replenishment-oiler-to-the-gulf-of-aden-to-c.md)
-_Context: China's, Gulf of Aden, People's Liberation Army Navy, Somali pirates, Somalia, destroyer, replenishment oiler, warships_
+_Context: Gulf of Aden, People's Liberation Army Navy, People's Republic of China, Somali pirates, Somalia, destroyer, replenishment oiler, warships_
 
 ### [ Ten suspected former members of the Kosovo Liberation Army are arrested in Serbia. ](/news/2008/12/26/ten-suspected-former-members-of-the-kosovo-liberation-army-are-arrested-in-serbia.md)
 _Context: Kosovo, Kosovo Liberation Army, Serbia_

@@ -4,7 +4,7 @@
 _Context:  in a crowd of Muslim pilgrims, Al Hillah, Iraq War, suicide bomb_
 
 ### [ Foreign Minister of People's Republic of China Li Zhaoxing criticises President of the Republic of China Chen Shui-bian for making calls for Taiwan independence. ](/news/2007/03/6/foreign-minister-of-people-s-republic-of-china-li-zhaoxing-criticises-president-of-the-republic-of-china-chen-shui-bian-for-making-calls-fo.md)
-_Context: Chen Shui-bian, China's, Foreign Minister, Li Zhaoxing, President of Taiwan, independence_
+_Context: Chen Shui-bian, Foreign Minister, Li Zhaoxing, People's Republic of China, President of Taiwan, independence_
 
 ### [ ''United States v. Libby'': Former Bush administration aide Lewis Libby is found guilty of perjury and obstruction of justice. ](/news/2007/03/6/united-states-v-libby-former-bush-administration-aide-lewis-libby-is-found-guilty-of-perjury-and-obstruction-of-justice.md)
 _Context: George W. Bush administration, Scooter Libby, United States v. Libby, obstruction of justice, perjury_

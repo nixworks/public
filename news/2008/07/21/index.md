@@ -4,7 +4,7 @@
 _Context: Congress of France, Constitution of France, National Assembly, Senate_
 
 ### [ Russia and China sign a pact demarcating their 4,300-kilometer border, bringing an end to more than 40 years of negotiations. ](/news/2008/07/21/russia-and-china-sign-a-pact-demarcating-their-4-300-kilometer-border-bringing-an-end-to-more-than-40-years-of-negotiations.md)
-_Context: China's, Russia, demarcating their 4,300-kilometer border, more than 40 years of negotiations_
+_Context: People's Republic of China, Russia, demarcating their 4,300-kilometer border, more than 40 years of negotiations_
 
 ### [ Fugitive Radovan Karadzic, indicted for war crimes by the International Criminal Tribunal for the Former Yugoslavia, is arrested in Serbia. ](/news/2008/07/21/fugitive-radovan-karada3-4ia-indicted-for-war-crimes-by-the-international-criminal-tribunal-for-the-former-yugoslavia-is-arrested-in-serbi.md)
 _Context: International Criminal Tribunal for the former Yugoslavia, Radovan Karadzic, Serbia, fugitive, war crimes_
@@ -25,7 +25,7 @@ _Context: Zimbabwe, dollar, inflation_
 _Context: Nepal, Ram Baran Yadav, presidential election_
 
 ### [ At least three people die and 14 are injured in deliberate explosions on buses in the city of Kunming, the capital of Yunnan province in the People's Republic of China. ](/news/2008/07/21/at-least-three-people-die-and-14-are-injured-in-deliberate-explosions-on-buses-in-the-city-of-kunming-the-capital-of-yunnan-province-in-th.md)
-_Context: China's, Kunming, Yunnan, bus, bus explosions_
+_Context: Kunming, People's Republic of China, Yunnan, bus, bus explosions_
 
 ### [ A United States Air Force B-52 bomber crashes near Guam in the western Pacific Ocean. ](/news/2008/07/21/a-united-states-air-force-b-52-bomber-crashes-near-guam-in-the-western-pacific-ocean.md)
 All six crew members aboard a B-52 bomber that crashed off Guam were killed, the Air Force said Wednesday.

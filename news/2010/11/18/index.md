@@ -58,7 +58,7 @@ _Context: U.S. Chamber of Commerce, health care reform_
 _Context: Leonid, meteor_
 
 ### [China is to use own uranium resources to meet growing nuclear demand. ](/news/2010/11/18/china-is-to-use-own-uranium-resources-to-meet-growing-nuclear-demand.md)
-_Context: China's, uranium_
+_Context: People's Republic of China, uranium_
 
 ### [A fault discovered in Idaho could produce an earthquake of 7.5 magnitude. ](/news/2010/11/18/a-fault-discovered-in-idaho-could-produce-an-earthquake-of-7-5-magnitude.md)
 Scientists at Idaho State University map out a new, active seismic fault in the US Rocky Mountains capable of unleashing a 7.5 magnitude earthquake.

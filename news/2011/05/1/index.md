@@ -70,7 +70,7 @@ _Context: Bradley Manning, United Nations, United States_
 _Context: Police, al-Qaeda_
 
 ### [China outlaws smoking in public places, affecting one third of smokers internationally. ](/news/2011/05/1/china-outlaws-smoking-in-public-places-affecting-one-third-of-smokers-internationally.md)
-_Context: China's, tobacco smoking_
+_Context: People's Republic of China, tobacco smoking_
 
 ### [Iranian President Mahmoud Ahmadinejad is to end a boycott of official duties, amid an apparent rift with the Supreme Leader Ayatollah Ali Khamenei. ](/news/2011/05/1/iranian-president-mahmoud-ahmadinejad-is-to-end-a-boycott-of-official-duties-amid-an-apparent-rift-with-the-supreme-leader-ayatollah-ali-kh.md)
 Mahmoud Ahmadinejad has been boycotting cabinet sessions since intelligence minister was reinstated by supreme leader.

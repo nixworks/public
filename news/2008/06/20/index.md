@@ -16,7 +16,7 @@ _Context: Bangkok, Government House, Samak Sundaravej, Thailand, yellow shirt_
 _Context: Jason-2, physical oceanography_
 
 ### [ Police in Nepal detain more than 700 Tibetan exiles protesting outside the Chinese embassy and arrest three activists for alleged anti-China activities. ](/news/2008/06/20/police-in-nepal-detain-more-than-700-tibetan-exiles-protesting-outside-the-chinese-embassy-and-arrest-three-activists-for-alleged-anti-chin.md)
-_Context: China's, Nepal, Tibet_
+_Context: Nepal, People's Republic of China, Tibet_
 
 ### [ A suicide bomb attack in southern Afganistan kills 6 civilians. ](/news/2008/06/20/a-suicide-bomb-attack-in-southern-afganistan-kills-6-civilians.md)
 _Context: Afganistan, suicide bomb_

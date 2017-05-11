@@ -64,7 +64,7 @@ _Context: Davao City, Flash flooding, The Philippines_
 _Context: Beijing, Chinese President, Hu Jintao, Omar Hassan al-Bashir, President of Sudan, Southern Sudan_
 
 ### [Germany and the People's Republic of China hold a joint cabinet meeting in Berlin with many lucrative contracts signed. ](/news/2011/06/28/germany-and-the-people-s-republic-of-china-hold-a-joint-cabinet-meeting-in-berlin-with-many-lucrative-contracts-signed.md)
-_Context: Berlin, China's, German_
+_Context: Berlin, German, People's Republic of China_
 
 ### [Six police officers are found guilty of crimes against the security of the state as a result of last September's attempted coup against President of Ecuador Rafael Correa who was tear gassed and imprisoned in a hospital. ](/news/2011/06/28/six-police-officers-are-found-guilty-of-crimes-against-the-security-of-the-state-as-a-result-of-last-september-s-attempted-coup-against-pres.md)
 A court in Ecuador convicts six policemen of crimes against state security after protests last September in which President Correa was detained.

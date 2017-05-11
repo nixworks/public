@@ -13,10 +13,10 @@ _Context: Armenia, Caspian Airlines, Flight 7908, Iran, Tehran, Yerevan_
 Officials are today checking for damage after a huge earthquake rocked parts of the South Island last night. - New Zealand Herald
 
 ### [ China's foreign exchange reserves have reached a record of US$ 2.13 trillion, which is more than twice the size of Japan's&mdash;the second-biggest holder. ](/news/2009/07/15/china-s-foreign-exchange-reserves-have-reached-a-record-of-us-2-13-trillion-which-is-more-than-twice-the-size-of-japan-s-mdash-the-second.md)
-_Context: China's, Japan, U.S. dollar, foreign exchange reserves_
+_Context: Japan, People's Republic of China, U.S. dollar, foreign exchange reserves_
 
 ### [ China urges its citizens in Algeria to "take extra care" after reports circulate of a militant group's plans to avenge recent deaths of Muslim Uyghurs. ](/news/2009/07/15/china-urges-its-citizens-in-algeria-to-take-extra-care-after-reports-circulate-of-a-militant-group-s-plans-to-avenge-recent-deaths-of-mus.md)
-_Context: Algeria, China's, Uyghur_
+_Context: Algeria, People's Republic of China, Uyghur_
 
 ### [ Maria del Carmen Bousada de Lara, the world's oldest new mother, is announced to have died of cancer aged 69, three years after giving birth. ](/news/2009/07/15/maria-del-carmen-bousada-de-lara-the-world-s-oldest-new-mother-is-announced-to-have-died-of-cancer-aged-69-three-years-after-giving-birt.md)
 _Context: Maria del Carmen Bousada de Lara, cancer_

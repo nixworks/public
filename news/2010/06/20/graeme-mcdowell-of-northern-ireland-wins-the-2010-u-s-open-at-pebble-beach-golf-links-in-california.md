@@ -13,7 +13,7 @@
 
 ### Related:
 
-1. [The Assembly of California votes in favor of allowing Communists to hold positions in the state government. ](/news/2017/05/9/the-assembly-of-california-votes-in-favor-of-allowing-communists-to-hold-positions-in-the-state-government.md) _Context: California_
+1. [The Assembly of California votes in favor of ending a ban which barred members of the Communist Party USA from holding positions in the state government. ](/news/2017/05/9/the-assembly-of-california-votes-in-favor-of-ending-a-ban-which-barred-members-of-the-communist-party-usa-from-holding-positions-in-the-stat.md) _Context: California_
 2. [One person is killed and seven are injured in a shooting at a pool party in San Diego, California. The suspect is killed by police. ](/news/2017/04/30/one-person-is-killed-and-seven-are-injured-in-a-shooting-at-a-pool-party-in-san-diego-california-the-suspect-is-killed-by-police.md) _Context: California_
 3. [European Union leaders approve negotiating guidelines that seek to secure "sufficient progress" on the rights of European Union expatriates living in the United Kingdom, on the financial terms of the separation and on a "soft border" between the Republic of Ireland and Northern Ireland, before committing to talk about a new free trade deal. ](/news/2017/04/29/european-union-leaders-approve-negotiating-guidelines-that-seek-to-secure-sufficient-progress-on-the-rights-of-european-union-expatriates.md) _Context: Northern Ireland_
 4. [The United States test launch a Minuteman III missile from California to the Marshall Islands. ](/news/2017/04/26/the-united-states-test-launch-a-minuteman-iii-missile-from-california-to-the-marshall-islands.md) _Context: California_

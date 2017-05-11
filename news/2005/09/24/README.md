@@ -1,7 +1,7 @@
 ## [2005-09-24](/news/2005/09/24/index.md)
 
 ### [ Unofficial reports from Hong Kong say the second Chinese human spaceflight, ''Shenzhou 6'',  is expected to launch October 13 carrying two astronauts on a five day mission. ](/news/2005/09/24/unofficial-reports-from-hong-kong-say-the-second-chinese-human-spaceflight-shenzhou-6-is-expected-to-launch-october-13-carrying-two.md)
-_Context: China's, Hong Kong, October 13, Shenzhou 6, astronaut, fly humans to space_
+_Context: Hong Kong, October 13, People's Republic of China, Shenzhou 6, astronaut, fly humans to space_
 
 ### [ Human Rights Watch reports whistleblowers accuse U.S. troops of routinely torturing Iraqi prisoners and declining to investigate complaints. ](/news/2005/09/24/human-rights-watch-reports-whistleblowers-accuse-u-s-troops-of-routinely-torturing-iraqi-prisoners-and-declining-to-investigate-complaints.md)
 _Context: Human Rights Watch, torturing, whistleblower_

@@ -22,7 +22,7 @@ _Context: Shanghai, police_
 _Context: Mongolia, legislative elections, violent protests_
 
 ### [ Thousands of citizens battle local government officials in a major riot in Guizhou in China over a police cover-up dealing with the death of a local girl. ](/news/2008/07/1/thousands-of-citizens-battle-local-government-officials-in-a-major-riot-in-guizhou-in-china-over-a-police-cover-up-dealing-with-the-death-o.md)
-_Context: China's, cover-up, major riot in Guizhou_
+_Context: People's Republic of China, cover-up, major riot in Guizhou_
 
 ## [Previous Day...](/news/2008/06/30/index.md)
 

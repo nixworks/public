@@ -4,7 +4,7 @@
 Syrian pro-government forces captured a strategic southern rebel town close to the Jordanian border after weeks of fighting, a monitor said on Tuesday. The Syrian Observatory for Human Rights said regime troops and allied militia including fighters from Lebanon&#x27;s Hezbollah movement and Iranian officers
 
 ### [A U.S. drone strike kills at least 6 ISIL militants in Afghanistan's Nangarhar Province, according to the Afghan defense ministry. ](/news/2016/01/26/a-u-s-drone-strike-kills-at-least-6-isil-militants-in-afghanistan-s-nangarhar-province-according-to-the-afghan-defense-ministry.md)
-_Context: Afghanistan, ISIL, Nangarhar Province, War in Afghanistan (2015-present)_
+_Context: Afghanistan, Islamic State of Iraq and the Levant, Nangarhar Province, War in Afghanistan (2015-present)_
 
 ### [French taxidrivers, air traffic controllers and school teachers go on strike over working conditions and competition from non-traditional services such as Uber. ](/news/2016/01/26/french-taxidrivers-air-traffic-controllers-and-school-teachers-go-on-strike-over-working-conditions-and-competition-from-non-traditional-se.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
@@ -25,7 +25,7 @@ _Context: Chisinau, Europe, Moldova, Moldova-Romania relations, Moldovan Prime M
 _Context: Malaysia, Malaysian Prime Minister, Najib Razak, Saudi Royal Family_
 
 ### [Authorities in the People's Republic of China say that Wang Baoan is under suspicion for "serious violation of discipline" (a phrase usually associated with corruption charges) as the head of that country's powerful National Bureau of Statistics. ](/news/2016/01/26/authorities-in-the-people-s-republic-of-china-say-that-wang-baoan-is-under-suspicion-for-serious-violation-of-discipline-a-phrase-usually.md)
-_Context: China's_
+_Context: People's Republic of China_
 
 ### [ U.S. federal authorities arrest militia leader Ammon Bundy and several of his followers following an exchange of gunfire at a traffic stop on U.S. Route 395 in Harney County, Oregon. One person, LaVoy Finicum, a rancher from Arizona and spokesman for the militia, was killed in the shootout. ](/news/2016/01/26/u-s-federal-authorities-arrest-militia-leader-ammon-bundy-and-several-of-his-followers-following-an-exchange-of-gunfire-at-a-traffic-stop.md)
 Law enforcement officials Tuesday afternoon arrested the leaders of the Oregon wildlife occupation, with one killed in a roadside shooting north of Burns.

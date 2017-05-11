@@ -1,7 +1,7 @@
 ## [2006-08-5](/news/2006/08/5/index.md)
 
 ### [ The Republic of China (Taiwan) severs diplomatic relations with Chad reducing the number of countries maintaining official relations with it to 24. The ROC foreign ministry cited Chad's intention to establish relations with the People's Republic of China as the reason. ](/news/2006/08/5/the-republic-of-china-taiwan-severs-diplomatic-relations-with-chad-reducing-the-number-of-countries-maintaining-official-relations-with-i.md)
-_Context: Chad, China's, Taiwan, maintaining official relations, relations_
+_Context: Chad, People's Republic of China, Taiwan, maintaining official relations, relations_
 
 ### [ Iran bans Nobel Peace Prize laureate Shirin Ebadi's Defenders of Human Rights Center on the grounds that the human rights organization did not have a permit from the Interior Ministry. According to Iranian law, to form a nongovernmental organization, one does not need a permit. ](/news/2006/08/5/iran-bans-nobel-peace-prize-laureate-shirin-ebadi-s-defenders-of-human-rights-center-on-the-grounds-that-the-human-rights-organization-did.md)
 _Context: Defenders of Human Rights Center, Iran, Nobel Peace Prize, Shirin Ebadi, nongovernmental organization_

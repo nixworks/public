@@ -7,7 +7,7 @@ Israeli aircraft have carried out a strike near the Syrian coastal city of Latak
 The leader of the Pakistani Taliban, Hakimullah Mehsud, has been killed in a drone strike, a high-ranking Taliban official tells the BBC.
 
 ### [2013 Tiananmen Square attack:China's top security official blames the East Turkestan Islamic Movement for a suicide attack that killed five people at the Tiananmen Gate in Beijing on Monday. ](/news/2013/11/1/2013-tiananmen-square-attack-pchina-s-top-security-official-blames-the-east-turkestan-islamic-movement-for-a-suicide-attack-that-killed-five.md)
-_Context: Beijing, China's, East Turkestan Islamic Movement, Tiananmen Gate, last October_
+_Context: Beijing, East Turkestan Islamic Movement, People's Republic of China, Tiananmen Gate, last October_
 
 ### [Fannie Mae files a lawsuit for $800 million against nine different banks, including Citigroup and Bank of America, for manipulating the Libor benchmark interest rate. ](/news/2013/11/1/fannie-mae-files-a-lawsuit-for-800-million-against-nine-different-banks-including-citigroup-and-bank-of-america-for-manipulating-the-libo.md)
 _Context: Bank of America, Citigroup, Fannie Mae, LIBOR scandal, Libor, United States dollars_

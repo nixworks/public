@@ -7,7 +7,7 @@
 _Context: Goldman Sachs, Morgan Stanley, Wall Street, housing crisis, investment bank_
 
 ### [ The number of babies in China hospitalized due to adulterated milk products and infant formula reaches 12,892.  ](/news/2008/09/21/the-number-of-babies-in-china-hospitalized-due-to-adulterated-milk-products-and-infant-formula-reaches-12-892.md)
-_Context: China's, adulterated milk products and infant formula_
+_Context: People's Republic of China, adulterated milk products and infant formula_
 
 ### [ The Social Democrats, led by Borut Pahor, presumably win the Slovenian parliamentary election. ](/news/2008/09/21/the-social-democrats-led-by-borut-pahor-presumably-win-the-slovenian-parliamentary-election.md)
 _Context: Borut Pahor, Slovenia, Social Democrats, parliamentary election_

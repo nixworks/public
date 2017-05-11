@@ -52,7 +52,7 @@ _Context: Samoa, time zone_
 _Context: ASEAN, Burma_
 
 ### [The People's Republic of China, Kyrgyzstan and Tajikistan hold an antiterrorism drill in Xinjiang. ](/news/2011/05/6/the-people-s-republic-of-china-kyrgyzstan-and-tajikistan-hold-an-antiterrorism-drill-in-xinjiang.md)
-_Context: China's, Kyrgyzstan, Tajikistan, Xinjiang_
+_Context: Kyrgyzstan, People's Republic of China, Tajikistan, Xinjiang_
 
 ### [A court in Russia sentences ultranationalist Nikita Tikhonov to life imprisonment for the murder of human rights lawyer Stanislav Markelov and journalist Anastasia Baburova in 2009. ](/news/2011/05/6/a-court-in-russia-sentences-ultranationalist-nikita-tikhonov-to-life-imprisonment-for-the-murder-of-human-rights-lawyer-stanislav-markelov-a.md)
 _Context: Anastasia Baburova, Nikita Tikhonov, Russia, Stanislav Markelov_

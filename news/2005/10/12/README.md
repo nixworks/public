@@ -13,7 +13,7 @@ _Context: Anglo-Saxon, Chancellor, Gerhard Schroder, Hurricane Katrina, United S
 _Context: Conflict in Iraq, Iraq, Iraqi insurgency, Talafar, suicide bomb_
 
 ### [ The People's Republic of China launches the manned ''Shenzhou 6'' spacecraft. Fei Junlong and Nie Haisheng will spend five days in orbit in their Shenzhou spacecraft. ](/news/2005/10/12/the-people-s-republic-of-china-launches-the-manned-shenzhou-6-spacecraft-fei-junlong-and-nia-hcisha-ng-will-spend-five-days-in-orbit.md)
-_Context: China's, Fei Junlong, Nie Haisheng, Shenzhou 6, Shenzhou spacecraft, fly humans to space_
+_Context: Fei Junlong, Nie Haisheng, People's Republic of China, Shenzhou 6, Shenzhou spacecraft, fly humans to space_
 
 ### [ Iraq's Constitutional referendum: the prospects of the proposed Iraqi constitution being approved in Saturday's referendum are boosted by a deal struck with a major Sunni Arab party, the Iraqi Islamic Party. ](/news/2005/10/12/iraq-s-constitutional-referendum-the-prospects-of-the-proposed-iraqi-constitution-being-approved-in-saturday-s-referendum-are-boosted-by-a.md)
 _Context: Iraqi Islamic Party, Sunni Muslim, in the vote held, proposed Iraqi constitution_

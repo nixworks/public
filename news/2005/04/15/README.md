@@ -28,7 +28,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: Australia, HIH Insurance, Raymond Williams, insure, jailed_
 
 ### [ Canada's Federal Court of Appeal denies Chinese businessman Lai Changxing refugee status. China wants him for large-scale smuggling. ](/news/2005/04/15/canada-s-federal-court-of-appeal-denies-chinese-businessman-lai-changxing-refugee-status-china-wants-him-for-large-scale-smuggling.md)
-_Context: Canada, China's, Federal Court of Canada, Lai Changxing, refugee, smuggling_
+_Context: Canada, Federal Court of Canada, Lai Changxing, People's Republic of China, refugee, smuggling_
 
 ### [ UK passport applicants must give fingerprints. Preparation for ID cards goes ahead without parliament. ](/news/2005/04/15/uk-passport-applicants-must-give-fingerprints-preparation-for-id-cards-goes-ahead-without-parliament.md)
 _Context: United Kingdom, fingerprint_
@@ -40,7 +40,7 @@ _Context: England, Green Party, Wales, climate change_
 _Context: France, biometric_
 
 ### [ The European Union denies ruling out lifting an EU arms embargo on the People's Republic of China before June. ](/news/2005/04/15/the-european-union-denies-ruling-out-lifting-an-eu-arms-embargo-on-the-people-s-republic-of-china-before-june.md)
-_Context: China's, European Union_
+_Context: European Union, People's Republic of China_
 
 ### [ The Sea organ site opens to the public in Zadar, Croatia.](/news/2005/04/15/the-sea-organ-site-opens-to-the-public-in-zadar-croatia.md)
 _Context: Croatia, Sea organ, Zadar_

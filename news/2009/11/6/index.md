@@ -28,7 +28,7 @@ Rights group says head of another rights group in Moscow kidnapped and taken to 
 At each stage, the camps of the ousted president and of the acting president have been on different pages.
 
 ### [ 19 people are killed after a truck runs into a crowd in Luanxian, Hebei, China. ](/news/2009/11/6/19-people-are-killed-after-a-truck-runs-into-a-crowd-in-luanxian-hebei-china.md)
-_Context: China's, Hebei, Luanxian_
+_Context: Hebei, Luanxian, People's Republic of China_
 
 ### [ Indian and Burmese armed forces target a Nagaland separatist rebel base in the northeast of Burma. ](/news/2009/11/6/indian-and-burmese-armed-forces-target-a-nagaland-separatist-rebel-base-in-the-northeast-of-burma.md)
 _Context: Burma, India, Nagaland, separatist rebel_

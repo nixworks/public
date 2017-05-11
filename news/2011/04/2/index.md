@@ -37,7 +37,7 @@ Attorney General GE Vahanvati and corporate lobbyist Niira Radia have been named
 _Context: Arab Spring, North Korea, information technology_
 
 ### [Almost half of China's dairies are to close after failing to obtain new licenses following a safety audit. ](/news/2011/04/2/almost-half-of-china-s-dairies-are-to-close-after-failing-to-obtain-new-licenses-following-a-safety-audit.md)
-_Context: China's_
+_Context: People's Republic of China_
 
 ### [Gunmen attack a bar in Ciudad Juarez in northern Mexico, killing five people. ](/news/2011/04/2/gunmen-attack-a-bar-in-ciudad-jua-rez-in-northern-mexico-killing-five-people.md)
 _Context: Ciudad Juarez, Mexico_

@@ -46,7 +46,7 @@ _Context: Beninese, Cape Verde, Cote d'Ivoire, Laurent Gbagbo, President, Sierra
 _Context: Russia, Spain_
 
 ### [A Chinese investigative reporter known for reporting on sensitive issues dies after being attacked by six men. ](/news/2010/12/28/a-chinese-investigative-reporter-known-for-reporting-on-sensitive-issues-dies-after-being-attacked-by-six-men.md)
-_Context: China's_
+_Context: People's Republic of China_
 
 ### [Nepal amends legislation allowing children with disabilities to be adopted abroad. ](/news/2010/12/28/nepal-amends-legislation-allowing-children-with-disabilities-to-be-adopted-abroad.md)
 _Context: Nepal_

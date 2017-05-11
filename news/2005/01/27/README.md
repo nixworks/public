@@ -31,7 +31,7 @@ _Context: Brazil, Porto Alegre, World Social Forum_
 _Context: Burundi, Domitien Ndayizeye, Jacob Zuma, constitution, draft, transitional government_
 
 ### [ According to family members, funeral of the purged Chinese communist leader Zhao Ziyang will be held on next Saturday ](/news/2005/01/27/according-to-family-members-funeral-of-the-purged-chinese-communist-leader-zhao-ziyang-will-be-held-on-next-saturday.md)
-_Context: China's, Communist Party of China, Zhao Ziyang_
+_Context: Communist Party of China, People's Republic of China, Zhao Ziyang_
 
 ### [ In a conference hosted by the Exxon Valdez Oil Spill Trustee Council, several scientists state that the ecology of Prince William Sound in Alaska still has not recovered from the 1989 Exxon Valdez oil spill ](/news/2005/01/27/in-a-conference-hosted-by-the-exxon-valdez-oil-spill-trustee-council-several-scientists-state-that-the-ecology-of-prince-william-sound-in.md)
 _Context: Alaska, Exxon Valdez Oil Spill Trustee Council, Exxon Valdez oil spill, Prince William Sound, ecology_

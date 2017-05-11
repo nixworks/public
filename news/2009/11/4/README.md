@@ -37,7 +37,7 @@ Italian political leaders have united to condemn a European court ruling that cr
 _Context: Iran, earthquake_
 
 ### [ China approves a Disney theme park in Shanghai after a decade of negotiations. ](/news/2009/11/4/china-approves-a-disney-theme-park-in-shanghai-after-a-decade-of-negotiations.md)
-_Context: China's, Disney, Shanghai, theme park_
+_Context: Disney, People's Republic of China, Shanghai, theme park_
 
 ### [ Australia and New Zealand expel Fiji's top diplomats in response to the decision of the Government of Prime Minister Frank Bainimarama to expel senior Australian and New Zealand diplomats from Fiji. ](/news/2009/11/4/australia-and-new-zealand-expel-fiji-s-top-diplomats-in-response-to-the-decision-of-the-government-of-prime-minister-frank-bainimarama-to-e.md)
 _Context: Australia, Fiji, New Zealand, Prime Minister, Voreqe Bainimarama_

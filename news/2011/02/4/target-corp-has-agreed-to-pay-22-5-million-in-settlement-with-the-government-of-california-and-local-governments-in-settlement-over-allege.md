@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [The Assembly of California votes in favor of allowing Communists to hold positions in the state government. ](/news/2017/05/9/the-assembly-of-california-votes-in-favor-of-allowing-communists-to-hold-positions-in-the-state-government.md) _Context: state government_
+1. [The Assembly of California votes in favor of ending a ban which barred members of the Communist Party USA from holding positions in the state government. ](/news/2017/05/9/the-assembly-of-california-votes-in-favor-of-ending-a-ban-which-barred-members-of-the-communist-party-usa-from-holding-positions-in-the-stat.md) _Context: state government_
 2. [Governor of the U.S. state of California Arnold Schwarzenegger declares a "fiscal state of emergency" requiring most state employees to take three days a month of unpaid leave until a new budget is enacted. ](/news/2010/07/28/governor-of-the-u-s-state-of-california-arnold-schwarzenegger-declares-a-fiscal-state-of-emergency-requiring-most-state-employees-to-take.md) _Context: state government_
 3. [ California's government goes broke and issues IOUs on all expenditures not required by law. ](/news/2009/02/3/california-s-government-goes-broke-and-issues-ious-on-all-expenditures-not-required-by-law.md) _Context: state government_
 4. [ California will lay off 20,000 government workers, due to the State Legislature's failure to pass a budget. ](/news/2009/02/17/california-will-lay-off-20-000-government-workers-due-to-the-state-legislature-s-failure-to-pass-a-budget.md) _Context: state government_

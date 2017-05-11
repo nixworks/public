@@ -16,7 +16,7 @@ _Context: Saddam Hussein_
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ Running water is restored to the city of Harbin, in Heilongjiang, China after several days of a water cut-off due to the toxic benzene spill. Yilan County, Heilongjiang, however, is still without running water. ](/news/2005/11/28/running-water-is-restored-to-the-city-of-harbin-in-heilongjiang-china-after-several-days-of-a-water-cut-off-due-to-the-toxic-benzene-spil.md)
-_Context: China's, Harbin, Heilongjiang, Yilan County, Heilongjiang, benzene_
+_Context: Harbin, Heilongjiang, People's Republic of China, Yilan County, Heilongjiang, benzene_
 
 ### [ The United Nations Climate Change Conference opens in Montreal. - ](/news/2005/11/28/the-united-nations-climate-change-conference-opens-in-montreal.md)
 _Context: Montreal, UN Climate Change Conference_

@@ -19,7 +19,7 @@ _Context: Al-Amin Kimathi, Kenya, MP, Muslim, Somalia_
 _Context: Afghanistan, Kabul, Taliban_
 
 ### [A 3.4 M<sub>w</sub> earthquake hits Guizhou Province, China, and kills seven people. ](/news/2010/01/18/a-3-4-mw-earthquake-hits-guizhou-province-china-and-kills-seven-people.md)
-_Context: China's, Guizhou province, earthquake, magnitude_
+_Context: Guizhou province, People's Republic of China, earthquake, magnitude_
 
 ### [Burma's Supreme Court hears a last appeal against the house arrest of detained National League for Democracy leader Aung San Suu Kyi. ](/news/2010/01/18/burma-s-supreme-court-hears-a-last-appeal-against-the-house-arrest-of-detained-national-league-for-democracy-leader-aung-san-suu-kyi.md)
 _Context: Aung San Suu Kyi, Burma, National League for Democracy, house arrest_

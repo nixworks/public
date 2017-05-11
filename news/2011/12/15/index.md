@@ -10,7 +10,7 @@ The flag of American forces in Iraq has been lowered in Baghdad bringing nearly 
 _Context: 2010 Census_
 
 ### [A truck drives into a restaurant in Ningxia, China, killing seven people. ](/news/2011/12/15/a-truck-drives-into-a-restaurant-in-ningxia-china-killing-seven-people.md)
-_Context: China's, Ningxia_
+_Context: Ningxia, People's Republic of China_
 
 ### [Police in Bahrain detain prominent blogger Zainab Alkhawaja during a protest near the capital Manama. ](/news/2011/12/15/police-in-bahrain-detain-prominent-blogger-zainab-alkhawaja-during-a-protest-near-the-capital-manama.md)
 Police in Bahrain detain prominent blogger and rights activist Zainab al-Khawaja during a protest near the capital Manama, reports say.

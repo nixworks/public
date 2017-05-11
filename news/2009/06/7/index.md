@@ -10,7 +10,7 @@ Search crews have spotted more bodies and found a large amount of debris from th
 _Context: April 2009, Bolivia, Evo Morales, President of Bolivia, Republic of Ireland, assassinated, government, passport_
 
 ### [ A seven-day gay pride festival is held for the first time in Shanghai, China. ](/news/2009/06/7/a-seven-day-gay-pride-festival-is-held-for-the-first-time-in-shanghai-china.md)
-_Context: China's, Shanghai, festival, gay pride_
+_Context: People's Republic of China, Shanghai, festival, gay pride_
 
 ### [ The United States Supreme Court is requested to block Italian automaker Fiat's purchase of Chrysler. ](/news/2009/06/7/the-united-states-supreme-court-is-requested-to-block-italian-automaker-fiat-s-purchase-of-chrysler.md)
 _Context: Chrysler, Fiat, Indiana State Police Pension Trust v. Chrysler, Italian, Supreme Court of the United States, United States, automakers, purchase_

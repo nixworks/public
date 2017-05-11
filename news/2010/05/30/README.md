@@ -22,7 +22,7 @@ Seven deaths in Badakhshan reported as Nato commander accuses Iran of aiding Tal
 _Context: 2010 Thai political protests, Abhisit Vejjajiva, Bangkok, Thailand, United Front for Democracy Against Dictatorship_
 
 ### [China encourages North Korea and South Korea  to avoid violent clashes in the aftermath of the sinking of a South Korean warship. ](/news/2010/05/30/china-encourages-north-korea-and-south-korea-to-avoid-violent-clashes-in-the-aftermath-of-the-sinking-of-a-south-korean-warship.md)
-_Context: China's, North Korea, South Korea, sinking_
+_Context: North Korea, People's Republic of China, South Korea, sinking_
 
 ### [BP turns to a new strategy to stop the Gulf of Mexico oil spill, but it will take at least four to seven days before the containment device that could capture the leaking oil can be put into place. ](/news/2010/05/30/bp-turns-to-a-new-strategy-to-stop-the-gulf-of-mexico-oil-spill-but-it-will-take-at-least-four-to-seven-days-before-the-containment-device.md)
 _Context: BP, Deepwater Horizon oil spill_

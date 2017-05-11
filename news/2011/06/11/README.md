@@ -28,7 +28,7 @@ _Context: Burma, go on sale_
 _Context: Italian, Rome, same sex rights_
 
 ### [Two officials are detained in China after 1,500 people clashed with riot police over the death of a local legislator in police custody. ](/news/2011/06/11/two-officials-are-detained-in-china-after-1-500-people-clashed-with-riot-police-over-the-death-of-a-local-legislator-in-police-custody.md)
-_Context: China's_
+_Context: People's Republic of China_
 
 ## [Previous Day...](/news/2011/06/10/index.md)
 

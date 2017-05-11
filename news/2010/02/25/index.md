@@ -13,7 +13,7 @@ _Context: Sarath Fonseka, Sri Lanka, treason_
 _Context: Turkey, military coup_
 
 ### [South Africa announces it has intercepted a ship carrying North Korean arms destined for central Africa, travelling by way of China, in violation of Security Council Resolution 1874. ](/news/2010/02/25/south-africa-announces-it-has-intercepted-a-ship-carrying-north-korean-arms-destined-for-central-africa-travelling-by-way-of-china-in-viol.md)
-_Context: China's, North Korea, South Africa, sanctions_
+_Context: North Korea, People's Republic of China, South Africa, sanctions_
 
 ### [Australia summons the Israeli ambassador to explain why three new suspects over the Dubai killing of a Hamas leader, Mahmoud al-Mabhouh, used Australian passports. ](/news/2010/02/25/australia-summons-the-israeli-ambassador-to-explain-why-three-new-suspects-over-the-dubai-killing-of-a-hamas-leader-mahmoud-al-mabhouh-use.md)
 _Context: Australia, Dubai, Hamas, Israel, Mahmoud al-Mabhouh_

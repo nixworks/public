@@ -25,7 +25,7 @@ _Context: Australia, Joel Fitzgibbon, Minister for Defence_
 _Context: Linguistic analysis, Moon, Neil Armstrong, United States, article, astronaut, phrase, walked_
 
 ### [ 150,000 people assemble in Hong Kong, China, to commemorate the 20th anniversary of the massacre in Tiananmen Square on June 4, 1989. ](/news/2009/06/4/150-000-people-assemble-in-hong-kong-china-to-commemorate-the-20th-anniversary-of-the-massacre-in-tiananmen-square-on-june-4-1989.md)
-_Context: China's, Hong Kong, Tiananmen Square, Tiananmen Square protests of 1989_
+_Context: Hong Kong, People's Republic of China, Tiananmen Square, Tiananmen Square protests of 1989_
 
 ### [ Two hundred thousand people attend the funeral of Dera Sach Khand leader Sant Ramanand Dass in Jalandhar, Punjab, India. ](/news/2009/06/4/two-hundred-thousand-people-attend-the-funeral-of-dera-sach-khand-leader-sant-ramanand-dass-in-jalandhar-punjab-india.md)
 Around two lakh devotees, many of them in tears, attended the funeral of Dera Sachkhand Ballan leader Sant Ramanand Dass, 57, whose murder in Vienna last month triggered riots in Punjab and Haryana.

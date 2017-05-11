@@ -43,7 +43,7 @@ _Context: Arizona Attorney General, Medical marijuana, Tom Horne, U.S. Justice D
 Group of Eight leaders promised Friday to support new Arab democracies, according to a statement they were due to release following a meeting in the French town of Deauville.
 
 ### [Chinese activist Zhao Lianhai is back home after being detained for campaigning for victims of the 2008 Chinese milk scandal. ](/news/2011/05/27/chinese-activist-zhao-lianhai-is-back-home-after-being-detained-for-campaigning-for-victims-of-the-2008-chinese-milk-scandal.md)
-_Context: 2008 Chinese milk scandal, China's, Zhao Lianhai_
+_Context: 2008 Chinese milk scandal, People's Republic of China, Zhao Lianhai_
 
 ### [More than 270 people are hospitalised after an E. coli outbreak in Germany, thought to have originated from Spanish cucumbers. ](/news/2011/05/27/more-than-270-people-are-hospitalised-after-an-e-coli-outbreak-in-germany-thought-to-have-originated-from-spanish-cucumbers.md)
 _Context: ''E. coli'', German, Spain_

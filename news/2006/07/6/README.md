@@ -22,13 +22,13 @@ A U.S. military helicopter made an emergency landing in South Korea Thursday, bu
 Follow all the latest news on Long Island with Newsday. Read top local stories, watch video, and see pictures from all around Nassau and Suffolk counties.
 
 ### [ Taiwan plans to test a missile capable of hitting mainland China. This has alarmed the island's main ally, the United States. ](/news/2006/07/6/taiwan-plans-to-test-a-missile-capable-of-hitting-mainland-china-this-has-alarmed-the-island-s-main-ally-the-united-states.md)
-_Context: China's, Taiwan, United States, test_
+_Context: People's Republic of China, Taiwan, United States, test_
 
 ### [ South Korean media states that there are three or four short to medium range missiles on the launch pad in North Korea, ready for launch. North Korea has now threatened to do so.](/news/2006/07/6/south-korean-media-states-that-there-are-three-or-four-short-to-medium-range-missiles-on-the-launch-pad-in-north-korea-ready-for-launch-n.md)
 _Context: North Korea, South Korea, launch_
 
 ### [ The Nathula Pass between India and China, sealed during the Sino-Indian War in 1962, reopens after 44 years. (](/news/2006/07/6/the-nathula-pass-between-india-and-china-sealed-during-the-sino-indian-war-in-1962-reopens-after-44-years.md)
-_Context: China's, India, Nathula Pass, Sino-Indian War_
+_Context: India, Nathula Pass, People's Republic of China, Sino-Indian War_
 
 ### [ Sectarian violence in Iraq: A car bomb explodes outside a Shi'ite Muslim shrine near the holy city of Najaf in Iraq, killing at least seven people. ](/news/2006/07/6/sectarian-violence-in-iraq-a-car-bomb-explodes-outside-a-shi-ite-muslim-shrine-near-the-holy-city-of-najaf-in-iraq-killing-at-least-seven.md)
 _Context: Iraq, Najaf, Shi'ite, sectarian conflict_

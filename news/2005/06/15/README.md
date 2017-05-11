@@ -10,7 +10,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: Human rights, Luis Echeverria, Mexico_
 
 ### [ Microsoft is criticized for censoring Chinese blogs. They are accused of censoring words such as "freedom", "democracy", and "human rights". ](/news/2005/06/15/microsoft-is-criticized-for-censoring-chinese-blogs-they-are-accused-of-censoring-words-such-as-freedom-democracy-and-human-rights.md)
-_Context: China's, Microsoft_
+_Context: Microsoft, People's Republic of China_
 
 ### [ World leaders of the Group of 77 and China today launched in Doha the two-day second South Summit amid calls to wealthy countries to honour pledges of additional aid to close the gap between the rich and poor. ](/news/2005/06/15/world-leaders-of-the-group-of-77-and-china-today-launched-in-doha-the-two-day-second-south-summit-amid-calls-to-wealthy-countries-to-honour.md)
 Reuters India offers top Business and market news updates covering Indian Stock market news, finance, investment and more news headlines. Read breaking news from India in business, stocks, sensex, market, entertainment and more with videos, pictures, discussions & more Indian news.

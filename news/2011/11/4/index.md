@@ -19,7 +19,7 @@ Toyota extends production cuts at its factories in Thailand and Japan due to sho
 _Context: Bank of Canada, Financial Stability Board, Mark Carney_
 
 ### [Rescuers are working to save 57 coal miners trapped in Sanmenxia in China's Henan province. ](/news/2011/11/4/rescuers-are-working-to-save-57-coal-miners-trapped-in-sanmenxia-in-china-s-henan-province.md)
-_Context: China's, Henan Province, Sanmenxia, coal miner_
+_Context: Henan Province, People's Republic of China, Sanmenxia, coal miner_
 
 ### [A 27-vehicle traffic collision on the M5 Motorway, near Taunton in the English county of Somerset, results in at least 7 deaths, 35 injuries and the closure of the motorway. ](/news/2011/11/4/a-27-vehicle-traffic-collision-on-the-m5-motorway-near-taunton-in-the-english-county-of-somerset-results-in-at-least-7-deaths-35-injuries.md)
 More than 10 people are feared to have died and 43 are injured after 27 vehicles collided - many bursting into flames - on the M5 in Somerset.

@@ -16,7 +16,7 @@ The German economy shrank by a sharp 2.1 per cent in the fourth quarter of 2008,
 A female homicide bomber attacked a tent filled with women and children resting from a pilgrimage to a Shiite holy city south of Baghdad on Friday, killing 40 people and injuring 60 others.
 
 ### [ China's government urges Yves Saint Laurent's estate to return two Qing Dynasty sculptures scheduled for auction in Paris. ](/news/2009/02/13/china-s-government-urges-yves-saint-laurent-s-estate-to-return-two-qing-dynasty-sculptures-scheduled-for-auction-in-paris.md)
-_Context: China's, Paris, Qing Dynasty, Yves Saint Laurent, auction, estate, government, sculpture_
+_Context: Paris, People's Republic of China, Qing Dynasty, Yves Saint Laurent, auction, estate, government, sculpture_
 
 ### [ Australia's Senate approves a $42-billion economic stimulus package. ](/news/2009/02/13/australia-s-senate-approves-a-42-billion-economic-stimulus-package.md)
 _Context: A$, Australia, economy of Australia, federal representation in Australia, stimulus package_
@@ -43,7 +43,7 @@ At least 15 passengers were killed and around 150 injured when the Howrah-Chenna
 _Context: Air Accident Investigation Unit, Airbus A340, Virgin Atlantic Airways, electrical wiring_
 
 ### [ Six crew members are missing after China's MV ''Changhai 178'' capsizes in the South China Sea. ](/news/2009/02/13/six-crew-members-are-missing-after-china-s-mv-changhai-178-capsizes-in-the-south-china-sea.md)
-_Context: China's, MV, South China Sea, capsize_
+_Context: MV, People's Republic of China, South China Sea, capsize_
 
 ### [ At least 40 FDLR members are killed in airstrikes in the Democratic Republic of the Congo. ](/news/2009/02/13/at-least-40-fdlr-members-are-killed-in-airstrikes-in-the-democratic-republic-of-the-congo.md)
 _Context: Democratic Forces for the Liberation of Rwanda, Democratic Republic of the Congo, airstrike, killed_

@@ -31,7 +31,7 @@ _Context: Arizona, Eagar, Springerville, Wallow Fire_
 With the heaviest flooding yet to come, officials closed 260 miles of the Missouri River to boaters and residents from Iowa through Nebraska and Missouri were sandbagging on Wednesday to hold back the waters.
 
 ### [Floods in the People's Republic of China kill 52 people with 32 people missing with more heavy rain expected. ](/news/2011/06/8/floods-in-the-people-s-republic-of-china-kill-52-people-with-32-people-missing-with-more-heavy-rain-expected.md)
-_Context: China's, heavy flood_
+_Context: People's Republic of China, heavy flood_
 
 ### [Australia announces a ban of live cattle exports to Indonesia of up to six months following recent reports of cruel treatment in Indonesian abattoirs. ](/news/2011/06/8/australia-announces-a-ban-of-live-cattle-exports-to-indonesia-of-up-to-six-months-following-recent-reports-of-cruel-treatment-in-indonesian.md)
 _Context: Australia, Indonesia, abattoir, cattle_

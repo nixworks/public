@@ -1,7 +1,7 @@
 ## [2009-05-26](/news/2009/05/26/index.md)
 
 ### [ General Secretary Hu Jintao of the Communist Party in the People's Republic of China and Nationalist Party Chairman Wu Poh-hsiung in Taiwan meet in Beijing to discuss cross-Strait relations. ](/news/2009/05/26/general-secretary-hu-jintao-of-the-communist-party-in-the-people-s-republic-of-china-and-nationalist-party-chairman-wu-poh-hsiung-in-taiwan.md)
-_Context: Beijing, China's, Communist Party general secretary, Communist Party of China, Cross-Strait relations, Hu Jintao, Kuomintang (Chinese Nationalist Party), Taiwan, Taiwan Strait, Wu Poh-hsiung, chairman_
+_Context: Beijing, Communist Party general secretary, Communist Party of China, Cross-Strait relations, Hu Jintao, Kuomintang (Chinese Nationalist Party), People's Republic of China, Taiwan, Taiwan Strait, Wu Poh-hsiung, chairman_
 
 ### [ The Supreme Court of California upholds Proposition 8, the state's ban on same-sex marriage. ](/news/2009/05/26/the-supreme-court-of-california-upholds-proposition-8-the-state-s-ban-on-same-sex-marriage.md)
 _Context: California, Supreme Court, ban, reversed its legalization, same-sex marriage, upholds_

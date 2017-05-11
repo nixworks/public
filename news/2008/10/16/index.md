@@ -4,7 +4,7 @@
 A strong 6.5-magnitude earthquake struck in the Pacific near the Mexico-Guatemala border on Thursday, but there was no tsunami alert and no initial reports of casualties.
 
 ### [ An explosion at a coal mine in Shizuishan city in the Ningxia Hui Autonomous Region in the People's Republic of China results in at least 16 deaths. ](/news/2008/10/16/an-explosion-at-a-coal-mine-in-shizuishan-city-in-the-ningxia-hui-autonomous-region-in-the-people-s-republic-of-china-results-in-at-least-1.md)
-_Context: China's, Ningxia Hui Autonomous Region, Shizuishan, coal mine, explosion_
+_Context: Ningxia Hui Autonomous Region, People's Republic of China, Shizuishan, coal mine, explosion_
 
 ### [ 2008 Cambodian-Thai stand-off: Cambodia and Thailand agree to joint border controls following a recent clash. ](/news/2008/10/16/2008-cambodian-thai-stand-off-cambodia-and-thailand-agree-to-joint-border-controls-following-a-recent-clash.md)
 _Context: Cambodia, Thailand, border controls, exchange gunfire_

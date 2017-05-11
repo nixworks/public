@@ -16,7 +16,7 @@ _Context: Gulf War, Iraq, Kuwait, ambassador_
 _Context: Benedict XVI, Sydney, World Youth Day 2008, pilgrims_
 
 ### [ The Chinese National People's Congress holds a press conference and releases mid-year financial statistics on the nation's gross domestic product. ](/news/2008/07/17/the-chinese-national-people-s-congress-holds-a-press-conference-and-releases-mid-year-financial-statistics-on-the-nation-s-gross-domestic-p.md)
-_Context: China's, GDP, parliament_
+_Context: GDP, People's Republic of China, parliament_
 
 ## [Previous Day...](/news/2008/07/16/index.md)
 

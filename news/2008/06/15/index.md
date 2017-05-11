@@ -22,7 +22,7 @@ _Context: Iraq, Muqtada al-Sadr, Shiite, United States_
 U.S-led and Afghan forces killed more than 15 insurgents in a search for hundreds of prisoners, including Taliban, who broke out of jail after comrades blew up the gates, the U.S. military said on Sunday.
 
 ### [ Heavy rain in southern China causes flooding with at least six people dead, four missing and 150,000 people evacuated from Guangdong and Guangxi provinces. ](/news/2008/06/15/heavy-rain-in-southern-china-causes-flooding-with-at-least-six-people-dead-four-missing-and-150-000-people-evacuated-from-guangdong-and-gu.md)
-_Context: China's, Guangdong province, Guangxi Zhuang, flood_
+_Context: Guangdong province, Guangxi Zhuang, People's Republic of China, flood_
 
 ### [ Japanese rescue squads resume the search for missing people after the 2008 Iwate earthquake including seven people feared buried by a mudslide at a hot springs hotel in mountains outside the town of Kurihara, Miyagi. ](/news/2008/06/15/japanese-rescue-squads-resume-the-search-for-missing-people-after-the-2008-iwate-earthquake-including-seven-people-feared-buried-by-a-mudsl.md)
 _Context: 2008 Iwate earthquake, Japan, Kurihara, Miyagi, hot spring, mudslides_

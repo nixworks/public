@@ -28,7 +28,7 @@ _Context: North Korea, United States, found guilty, penal labour_
 _Context: North Korea, North Korea and weapons of mass destruction, Sea of Japan, Wonsan_
 
 ### [ Mayor Ray Nagin of New Orleans, Louisiana, is quarantined in Shanghai, China, after a passenger on his flight from the United States was diagnosed with A(H1N1) influenza. ](/news/2009/06/8/mayor-ray-nagin-of-new-orleans-louisiana-is-quarantined-in-shanghai-china-after-a-passenger-on-his-flight-from-the-united-states-was-di.md)
-_Context: China's, H1N1, Louisiana, Mayor, New Orleans, Ray Nagin, Shanghai, United States, quarantine, swine flu_
+_Context: H1N1, Louisiana, Mayor, New Orleans, People's Republic of China, Ray Nagin, Shanghai, United States, quarantine, swine flu_
 
 ### [ European Union's parliamentary elections: The centre-right European People's Party increases its plurality. ](/news/2009/06/8/european-union-s-parliamentary-elections-p-the-centre-right-european-people-s-party-increases-its-plurality.md)
 _Context: European Parliament, European People's Party, European Union, centre-right, elections, plurality_

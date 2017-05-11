@@ -1,7 +1,7 @@
 ## [2016-07-24](/news/2016/07/24/index.md)
 
 ### [At least 21 are killed and more than 35 people injured in a suicide attack at one of the residential entrances to district Kadhimiyah, in northern Baghdad, Iraq. ISIL claims responsibility, as published in its official media. ](/news/2016/07/24/at-least-21-are-killed-and-more-than-35-people-injured-in-a-suicide-attack-at-one-of-the-residential-entrances-to-district-kadhimiyah-in-no.md)
-_Context: Baghdad, ISIL, Iraqi Civil War, Kadhimiyah, Military intervention against ISIL_
+_Context: Baghdad, Iraqi Civil War, Islamic State of Iraq and the Levant, Kadhimiyah, Military intervention against ISIL_
 
 ### [Fifteen people are injured following a suicide bombing in Ansbach, Germany. ](/news/2016/07/24/fifteen-people-are-injured-following-a-suicide-bombing-in-ansbach-germany.md)
 A failed Syrian asylum seeker blows himself up and injures 15 other people with a backpack bomb near a festival in the south German town of Ansbach.

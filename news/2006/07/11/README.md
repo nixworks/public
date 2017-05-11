@@ -4,7 +4,7 @@
 _Context: Dushanbe-Chanak highway, Emomali Rahmonov, Silk Route, Tajikistan, government_
 
 ### [ Liu Xiang of China sets a new World Record for the 110 metres hurdles at the Super Grand Prix in Lausanne with a time of 12.88 seconds. ](/news/2006/07/11/liu-xiang-of-china-sets-a-new-world-record-for-the-110-metres-hurdles-at-the-super-grand-prix-in-lausanne-with-a-time-of-12-88-seconds.md)
-_Context: China's, Lausanne, Liu Xiang, World Record, hurdles_
+_Context: Lausanne, Liu Xiang, People's Republic of China, World Record, hurdles_
 
 ### [ On the 17th day to the abduction of Cpl. Gilad Shalit, his father asks why Red Cross representatives were not allowed to visit the hostage, as established in the Geneva Conventions. ](/news/2006/07/11/on-the-17th-day-to-the-abduction-of-cpl-gilad-shalit-his-father-asks-why-red-cross-representatives-were-not-allowed-to-visit-the-hostage.md)
 17 days after kidnapping of IDF soldier, President Katsav visits family, calls for Gilad’s release. Father Noam Shalit responds to IDF inquiry into incident which found ‘operational failures’: I expect events won’t repeat themselves

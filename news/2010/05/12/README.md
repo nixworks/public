@@ -25,7 +25,7 @@ _Context: Chengdu-Dujiangyan High-Speed Railway, deadly earthquake_
 _Context: George Athor, South Sudan_
 
 ### [9 people, including 7 children, are killed at a school near Hanzhong city, Shaanxi, China. ](/news/2010/05/12/9-people-including-7-children-are-killed-at-a-school-near-hanzhong-city-shaanxi-china.md)
-_Context: China's, Hanzhong, Shaanxi_
+_Context: Hanzhong, People's Republic of China, Shaanxi_
 
 ### [A bomb planted inside a grocery store in a mainly Shi'ite area of Baghdad kills three people and wounds 23. ](/news/2010/05/12/a-bomb-planted-inside-a-grocery-store-in-a-mainly-shi-ite-area-of-baghdad-kills-three-people-and-wounds-23.md)
 _Context: Baghdad, Shi'ite_

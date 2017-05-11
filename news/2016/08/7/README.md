@@ -1,7 +1,7 @@
 ## [2016-08-7](/news/2016/08/7/index.md)
 
 ### [ISIL claims responsibility for the machete attack in Belgium. ](/news/2016/08/7/isil-claims-responsibility-for-the-machete-attack-in-belgium.md)
-_Context: 2016 stabbing of Charleroi police officers, Belgium, ISIL_
+_Context: 2016 stabbing of Charleroi police officers, Belgium, Islamic State of Iraq and the Levant_
 
 ### [Floods in Macedonia's capital, Skopje, kill at least 21 people with  six others missing and dozens injured following torrential rain and strong winds late Saturday. ](/news/2016/08/7/floods-in-macedonia-s-capital-skopje-kill-at-least-21-people-with-six-others-missing-and-dozens-injured-following-torrential-rain-and-str.md)
 At least 21 people are killed as freak winds and flooding hit Skopje, the capital of Macedonia, with many victims drowned in their cars.

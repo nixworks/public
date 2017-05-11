@@ -31,7 +31,7 @@ Police investigating allegations of phone hacking by the News of the World plead
 _Context: Kermadec Islands, New Zealand, earthquake, tidal surge_
 
 ### [At least 36 people are trapped underground in a coal mine in China's Shandong Province after a fire breaks out. ](/news/2011/07/7/at-least-36-people-are-trapped-underground-in-a-coal-mine-in-china-s-shandong-province-after-a-fire-breaks-out.md)
-_Context: China's, Shandong Province, coal mine_
+_Context: People's Republic of China, Shandong Province, coal mine_
 
 ### [At least thirty people are feared dead after a collision between a passenger train and a bus in Uttar Pradesh, India. ](/news/2011/07/7/at-least-thirty-people-are-feared-dead-after-a-collision-between-a-passenger-train-and-a-bus-in-uttar-pradesh-india.md)
 The bus passengers were returning from a marriage celebration. The accident happened at an unmanned railway crossing. Manmohan Singh announced ex-gratia relief of Rs 2 lakhs for the kin of those killed.
@@ -67,7 +67,7 @@ _Context: Casey Anthony, Florida_
 Riot police patrolled the streets to break up opposition protests in Dhaka and elsewhere in Bangladesh on Wednesday as opposition parties began a 48-hour general strike protesting a government move to change the electoral system
 
 ### [The People's Republic of China dismisses reports of the death of former President Jiang Zemin as "pure rumour". ](/news/2011/07/7/the-people-s-republic-of-china-dismisses-reports-of-the-death-of-former-president-jiang-zemin-as-pure-rumour.md)
-_Context: China's, Chinese President, Jiang Zemin_
+_Context: Chinese President, Jiang Zemin, People's Republic of China_
 
 ### [Freedom Flotilla II: The Greek Coast Guard prevents the ship ''Dignity Al Karama'' from sailing to the Gaza Strip after it stops to refuel in Crete. ](/news/2011/07/7/freedom-flotilla-ii-the-greek-coast-guard-prevents-the-ship-dignity-al-karama-from-sailing-to-the-gaza-strip-after-it-stops-to-refuel-i.md)
 _Context: Crete, Freedom Flotilla II, Gaza Strip, Greek coast guard_

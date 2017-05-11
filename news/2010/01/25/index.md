@@ -10,19 +10,19 @@ _Context: Caracas, Ramn Carrizales, Venezuela_
 Houthi fighters offer a ceasefire after three months of fighting along the border.
 
 ### [Representatives of the Dalai Lama head to Beijing for the first discussions with Chinese authorities in 15 months. ](/news/2010/01/25/representatives-of-the-dalai-lama-head-to-beijing-for-the-first-discussions-with-chinese-authorities-in-15-months.md)
-_Context: 14th Dalai Lama, Beijing, China's_
+_Context: 14th Dalai Lama, Beijing, People's Republic of China_
 
 ### [Voters in Saint Kitts and Nevis go to the polls in the 2010 general election. ](/news/2010/01/25/voters-in-saint-kitts-and-nevis-go-to-the-polls-in-the-2010-general-election.md)
 _Context: 2010 general election, Saint Kitts and Nevis_
 
 ### [New traces of melamine in milk products are discovered in China, more than a year after thousands of children became ill from a previous incident. ](/news/2010/01/25/new-traces-of-melamine-in-milk-products-are-discovered-in-china-more-than-a-year-after-thousands-of-children-became-ill-from-a-previous-inc.md)
-_Context: 2008 Chinese milk scandal, China's, melamine_
+_Context: 2008 Chinese milk scandal, People's Republic of China, melamine_
 
 ### [The European Union agrees to send a team to train up to 2,000 Somali troops to help fight insurgents in the country, as intense gun battles take place in the capital Mogadishu. ](/news/2010/01/25/the-european-union-agrees-to-send-a-team-to-train-up-to-2-000-somali-troops-to-help-fight-insurgents-in-the-country-as-intense-gun-battles.md)
 Intense gun battles between African Union peacekeepers and Islamic fundamentalists erupted Monday in parts of the Somali capital, Mogadishu, witnesses said.
 
 ### [Environment ministers from the G4 bloc (IBSA Dialogue Forum & China) meet in New Delhi, India, to agree a common position ahead of future climate change talks, such as the  2010 United Nations Climate Change Conference ("COP-16") at Cancn, Mexico, to be held from 29 November 2010 to 10 December 2010 ](/news/2010/01/25/environment-ministers-from-the-g4-bloc-ibsa-dialogue-forum-china-meet-in-new-delhi-india-to-agree-a-common-position-ahead-of-future-cl.md)
-_Context: Cancun, China's, G4 bloc, IBSA Dialogue Forum, India, Mexico, New Delhi, U.N. climate change talks, climate change_
+_Context: Cancun, G4 bloc, IBSA Dialogue Forum, India, Mexico, New Delhi, People's Republic of China, U.N. climate change talks, climate change_
 
 ### [Dutch football club HFC Haarlem, national champion in 1946, is declared bankrupt, becoming the first Dutch professional club to be disestablished since FC Wageningen and VCV Zeeland in 1992. ](/news/2010/01/25/dutch-football-club-hfc-haarlem-national-champion-in-1946-is-declared-bankrupt-becoming-the-first-dutch-professional-club-to-be-disestabl.md)
 _Context: 1992, Dutch professional club, FC Wageningen, HFC Haarlem, Netherlands, VCV Zeeland, association football, national champion_

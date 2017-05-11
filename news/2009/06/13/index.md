@@ -10,7 +10,7 @@ _Context: Arnold Schwarzenegger, California, Governor of California, bonds, stat
 Pyongyang threatens increased nuclear activity and military action after UN vote.
 
 ### [ China begins the third large-scale excavation of the Mausoleum of the First Qin Emperor in 24 years. ](/news/2009/06/13/china-begins-the-third-large-scale-excavation-of-the-mausoleum-of-the-first-qin-emperor-in-24-years.md)
-_Context: China's, Terracotta Army_
+_Context: People's Republic of China, Terracotta Army_
 
 ### [ The planned launch of Space Shuttle ''Endeavour'' is scrubbed because of a gaseous hydrogen leak. ](/news/2009/06/13/the-planned-launch-of-space-shuttle-endeavour-is-scrubbed-because-of-a-gaseous-hydrogen-leak.md)
 NASA.gov brings you images, videos and interactive features from the unique perspective of America&rsquo;s space agency. Get the latest updates on NASA missions, subscribe to blogs, RSS feeds and podcasts, watch NASA TV live, or simply read about our mission to pioneer the future in space exploration, scientific discovery and aeronautics research.

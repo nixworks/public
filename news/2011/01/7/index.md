@@ -46,7 +46,7 @@ Former Labour MP David Chaytor is jailed for 18 months for fraudulently claiming
 _Context: Southern Sudan, Southern Sudanese Independence Referendum, Sudan, United Nations_
 
 ### [Parents in China demand compensation after more than 200 children are poisoned by lead. ](/news/2011/01/7/parents-in-china-demand-compensation-after-more-than-200-children-are-poisoned-by-lead.md)
-_Context: China's, lead contamination_
+_Context: People's Republic of China, lead contamination_
 
 ### [Youths in Algeria riot for a second night in unrest over social and political grievances. ](/news/2011/01/7/youths-in-algeria-riot-for-a-second-night-in-unrest-over-social-and-political-grievances.md)
 Fresh rioting breaks out in the Algerian capital and several other cities, after days of unrest over food price increases and unemployment.

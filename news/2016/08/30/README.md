@@ -4,7 +4,7 @@
 _Context: Sinjar massacre, Yazidi_
 
 ### [A car bomb explodes near the Chinese embassy in Kyrgyzstan, killing the perpetrator and injuring three. ](/news/2016/08/30/a-car-bomb-explodes-near-the-chinese-embassy-in-kyrgyzstan-killing-the-perpetrator-and-injuring-three.md)
-_Context: China's, Kyrgyzstan, car bomb_
+_Context: Kyrgyzstan, People's Republic of China, car bomb_
 
 ### [A car bomb explodes outside the President of Somalia's compound in Mogadishu claiming at least ten people's lives. Al Shabaab has claimed responsibility for the attack. ](/news/2016/08/30/a-car-bomb-explodes-outside-the-president-of-somalia-s-compound-in-mogadishu-claiming-at-least-ten-people-s-lives-al-shabaab-has-claimed-re.md)
 _Context: Mogadishu, President of Somalia, War in Somalia (2009-present), al-Shabaab, car bomb_

@@ -28,7 +28,7 @@ _Context: New Line, New Zealand, The Hobbit, Warner Bros._
 _Context: Real estate, Wells Fargo, foreclose_
 
 ### [One sailor drowns and 12 are missing after a freighter carrying Chinese crew capsized off Taiwan. ](/news/2010/10/27/one-sailor-drowns-and-12-are-missing-after-a-freighter-carrying-chinese-crew-capsized-off-taiwan.md)
-_Context: China's, Taiwan_
+_Context: People's Republic of China, Taiwan_
 
 ### [Floods in 18 Thai provinces kill 59 people. ](/news/2010/10/27/floods-in-18-thai-provinces-kill-59-people.md)
 _Context: Thailand_
@@ -43,7 +43,7 @@ The death toll from a tsunami in western Indonesia rises to 282, officials say, 
 Nearly 100 people on board a fishing ship which is on fire 230 miles south-west of the Isles of Scilly take to life rafts.
 
 ### [A surprise trip by U.S. Secretary of State Hillary Clinton to China has been confirmed. ](/news/2010/10/27/a-surprise-trip-by-u-s-secretary-of-state-hillary-clinton-to-china-has-been-confirmed.md)
-_Context: China's, Hillary Clinton, United States Secretary of State_
+_Context: Hillary Clinton, People's Republic of China, United States Secretary of State_
 
 ### [North Korea demands 500,000 tonnes of rice and 300,000 of fertilizer from South Korea in return for family reunions. ](/news/2010/10/27/north-korea-demands-500-000-tonnes-of-rice-and-300-000-of-fertilizer-from-south-korea-in-return-for-family-reunions.md)
 _Context: North Korea, South Korea_

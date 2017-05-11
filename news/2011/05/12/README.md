@@ -25,7 +25,7 @@ _Context: BBC, Home Secretary, Jack Straw, Kenneth Clarke, London, Question Time
 _Context: Elizabeth II, second-longest-reigning British monarch_
 
 ### [A US$600 million project to revamp the Democratic Republic of the Congo's colonial-era railway system is launched in the capital Kinshasa, primarily funded by the World Bank and China. ](/news/2011/05/12/a-us-600-million-project-to-revamp-the-democratic-republic-of-the-congo-s-colonial-era-railway-system-is-launched-in-the-capital-kinshasa-p.md)
-_Context: China's, Democratic Republic of the Congo, Kinshasa, World Bank_
+_Context: Democratic Republic of the Congo, Kinshasa, People's Republic of China, World Bank_
 
 ### [The Brazilian Senate approves a plan to triple payments to Paraguay for the use of excess electricity generated at the jointly-run Itaipu Dam. ](/news/2011/05/12/the-brazilian-senate-approves-a-plan-to-triple-payments-to-paraguay-for-the-use-of-excess-electricity-generated-at-the-jointly-run-itaipu-da.md)
 _Context: Brazil, Brazilian Senate, Itaipu Dam, Paraguay_
@@ -76,7 +76,7 @@ _Context: Belarus, election protesters_
 _Context: Egypt, Egyptian President, Muslim Brotherhood_
 
 ### [A petition is delivered to the Chinese parliament by underground Christian churches asking for their religious freedom to be respected. ](/news/2011/05/12/a-petition-is-delivered-to-the-chinese-parliament-by-underground-christian-churches-asking-for-their-religious-freedom-to-be-respected.md)
-_Context: China's, Christian, parliament, religious freedom_
+_Context: Christian, People's Republic of China, parliament, religious freedom_
 
 ### [The ruling National Alliance Party in Papua New Guinea to elect an interim leader with concerns that Prime Minister Sir Michael Somare may not return to office after having heart surgery in Singapore. ](/news/2011/05/12/the-ruling-national-alliance-party-in-papua-new-guinea-to-elect-an-interim-leader-with-concerns-that-prime-minister-sir-michael-somare-may-n.md)
 _Context: Michael Somare, National Alliance Party, Papua New Guinea, Prime Minister, Singapore, heart surgery_

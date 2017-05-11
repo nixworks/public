@@ -52,7 +52,7 @@ At least 12 people are thought to have been killed and up to 80 injured after oi
 THE VATICAN&rsquo;s two-week long synod on the Middle East ended on a polemical note this weekend when Israeli deputy foreign minister&hellip;
 
 ### [Japan lodges a formal protest with China after two Chinese fishing boats were seen near the Senkaku Islands. ](/news/2010/10/25/japan-lodges-a-formal-protest-with-china-after-two-chinese-fishing-boats-were-seen-near-the-senkaku-islands.md)
-_Context: China's, Japan, Senkaku Islands_
+_Context: Japan, People's Republic of China, Senkaku Islands_
 
 ### [President Hamid Karzai acknowledges that his office has regularly received cash from Iran and the United States but claims that the process was transparent. ](/news/2010/10/25/president-hamid-karzai-acknowledges-that-his-office-has-regularly-received-cash-from-iran-and-the-united-states-but-claims-that-the-process.md)
 A Dutch aid worker and his Afghan driver have been abducted by gunmen in north eastern Afghanistan, officials say.

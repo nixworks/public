@@ -31,7 +31,7 @@ MPs release a letter from a journalist jailed for phone hacking, alleging senior
 Two men are jailed for four years each for using Facebook to incite disorder during riots in England last week.
 
 ### [Chinese Vice-Premier Li Keqiang visits Hong Kong on a three-day official tour; observers indicate that this solidifies his status as the next Premier of China. ](/news/2011/08/16/chinese-vice-premier-li-keqiang-visits-hong-kong-on-a-three-day-official-tour-observers-indicate-that-this-solidifies-his-status-as-the-nex.md)
-_Context: China's, Hong Kong, Li Keqiang_
+_Context: Hong Kong, Li Keqiang, People's Republic of China_
 
 ## [Previous Day...](/news/2011/08/15/index.md)
 

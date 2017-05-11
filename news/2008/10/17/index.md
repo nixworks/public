@@ -7,7 +7,7 @@ _Context: Nicolas Sarkozy, President of France, Quebec City, Quebec sovereignty 
 Fox 5 NY, New York News, Breaking News, weather, sports, traffic, entertainment
 
 ### [ China has made rules which were introduced for the Olympic Games allowing foreign reporters to interview without applying for permission permanent. ](/news/2008/10/17/china-has-made-rules-which-were-introduced-for-the-olympic-games-allowing-foreign-reporters-to-interview-without-applying-for-permission-pe.md)
-_Context: Beijing Olympiad, China's_
+_Context: Beijing Olympiad, People's Republic of China_
 
 ### [ Turkey, Austria, Japan, Mexico and Uganda are elected by the United Nations General Assembly to the Security Council. Iran and Iceland fail in their bids. ](/news/2008/10/17/turkey-austria-japan-mexico-and-uganda-are-elected-by-the-united-nations-general-assembly-to-the-security-council-iran-and-iceland-fail.md)
 Turkey, Austria and Japan won nonpermanent seats on the United Nations Security Council, defeating Iceland and Iran in elections in the General Assembly.

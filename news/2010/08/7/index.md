@@ -31,7 +31,7 @@ Pakistan issues a red alert as floods that have devastated northern areas sweep 
 Residents advised to leave city as smog from raging wildfires envelopes Moscow.
 
 ### [At least 16 miners are killed during a fire at a gold mine in Zhaoyuan, Shandong, in China. 23 others are still trapped inside. ](/news/2010/08/7/at-least-16-miners-are-killed-during-a-fire-at-a-gold-mine-in-zhaoyuan-shandong-in-china-23-others-are-still-trapped-inside.md)
-_Context: China's, Shandong, Zhaoyuan_
+_Context: People's Republic of China, Shandong, Zhaoyuan_
 
 ### [Efforts intensify to rescue at least 34 people trapped in a mine near Copiap, Chile, in the Atacama Desert. ](/news/2010/08/7/efforts-intensify-to-rescue-at-least-34-people-trapped-in-a-mine-near-copiapo-chile-in-the-atacama-desert.md)
 At least 34 people trapped in collapsed mine near Copiapo city in the Atacama desert.

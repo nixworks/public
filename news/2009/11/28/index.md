@@ -7,7 +7,7 @@ Rescue workers struggled to find survivors Saturday after at least 33 people die
 Sarath Fonseka says he plans to contest presidential polls - Sri Lanka&#039;s former Army Chief Sarath Fonseka has said he plans to contest the January 26 presidential polls and his goal is to &quot;counter dictatorship&quot; and set up a democratic society.
 
 ### [ A Chinese court hears the first civil lawsuit by a parent whose child fell ill during last year's tainted milk scandal. ](/news/2009/11/28/a-chinese-court-hears-the-first-civil-lawsuit-by-a-parent-whose-child-fell-ill-during-last-year-s-tainted-milk-scandal.md)
-_Context: 2008 Chinese milk scandal, China's_
+_Context: 2008 Chinese milk scandal, People's Republic of China_
 
 ### [ The Government of Ireland promises more money to the flood relief fund as ongoing flooding worsens in some counties, including Clare, Galway and Offaly. ](/news/2009/11/28/the-government-of-ireland-promises-more-money-to-the-flood-relief-fund-as-ongoing-flooding-worsens-in-some-counties-including-clare-galwa.md)
 The Government has confirmed that further financial assistance will be made available to victims of the recent flooding.

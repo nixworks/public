@@ -7,7 +7,7 @@ _Context: 2016 Brussels bombings, Brussels, Schaerbeek_
 _Context: Boko Haram, Boko Haram insurgency, Nigeria, Nigerian Army_
 
 ### [The Pentagon announces the death of Islamic State of Iraq and the Levant finance minister and deputy leader, Abu Ala al-Afri. ](/news/2016/03/25/the-pentagon-announces-the-death-of-islamic-state-of-iraq-and-the-levant-finance-minister-and-deputy-leader-abu-ala-al-afri.md)
-_Context: Abu Ala al-Afri, ISIL, Military intervention against ISIL, Pentagon_
+_Context: Abu Ala al-Afri, Islamic State of Iraq and the Levant, Military intervention against ISIL, Pentagon_
 
 ### [The Syrian Army and allies make major advances near Palmyra against ISIL as the group start pulling out its equipment from the town. ](/news/2016/03/25/the-syrian-army-and-allies-make-major-advances-near-palmyra-against-isil-as-the-group-start-pulling-out-its-equipment-from-the-town.md)
 Syrian government forces advance further into IS-held Palmyra, reportedly capturing a castle perched on a hill above the ruins of the ancient city.

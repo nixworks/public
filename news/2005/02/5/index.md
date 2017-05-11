@@ -10,7 +10,7 @@ _Context: Bareilly, India, uranium_
 _Context: Faure Gnassingb, Gnassingb Eyadma, President, Togo, heart attack_
 
 ### [ In the People's Republic of China, The Tenth Shaanxi Provincial People's Congress votes in favour of Acting Governor Chen Deming to become the next Governor of Shaanxi. ](/news/2005/02/5/in-the-people-s-republic-of-china-the-tenth-shaanxi-provincial-people-s-congress-votes-in-favour-of-acting-governor-chen-deming-to-become.md)
-_Context: Chen Deming, China's, People's Congress, Shaanxi, gubernatorial elections_
+_Context: Chen Deming, People's Congress, People's Republic of China, Shaanxi, gubernatorial elections_
 
 ### [ In Malawi, President Bingu wa Mutharika quits the governing party, the United Democratic Front, stating he is fed up of criticism of his anti-corruption campaign. The party had debated whether to expel him for alleged misconduct. ](/news/2005/02/5/in-malawi-president-bingu-wa-mutharika-quits-the-governing-party-the-united-democratic-front-stating-he-is-fed-up-of-criticism-of-his-an.md)
 _Context: Bingu wa Mutharika, Malawi, President, United Democratic Front, anti-corruption_

@@ -10,7 +10,7 @@ _Context: Greek letter, Honduran, Hurricane Beta, Nicaragua, Saffir-Simpson Hurr
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ After an official 3-day visit to Pyongyang, North Korea, President Hu Jintao of the People's Republic of China returns to Beijing, having reached new directions in Sino-DPRK relations. This comes after North Korean Leader Kim Jong-il called Hu the "most respected guest". ](/news/2005/10/30/after-an-official-3-day-visit-to-pyongyang-north-korea-president-hu-jintao-of-the-people-s-republic-of-china-returns-to-beijing-having-r.md)
-_Context: Beijing, China's, Chinese President, Hu Jintao, Kim Jong-il, North Korea, Pyongyang, leader_
+_Context: Beijing, Chinese President, Hu Jintao, Kim Jong-il, North Korea, People's Republic of China, Pyongyang, leader_
 
 ### [ The Dresden Frauenkirche (Church of Our Lady), a Protestant Church in Dresden, Germany is re-consecrated. The church was destroyed during the bombing of Dresden in World War II. The remains of the church had been left untouched by the government of East Germany as an anti-war monument. Some 60,000 people celebrated the reopening. Both Queen Elizabeth II of the United Kingdom and German President Horst Khler said that the rebuilding was a 'symbol of reconciliation'. ](/news/2005/10/30/the-dresden-frauenkirche-church-of-our-lady-a-protestant-church-in-dresden-germany-is-re-consecrated-the-church-was-destroyed-during-t.md)
 _Context: Dresden, Dresden Frauenkirche, East Germany, German, Horst Khler, President of Germany, Protestantism, Queen Elizabeth, United Kingdom, bombing of Dresden in World War II, church, consecrated_

@@ -13,7 +13,7 @@ Egyptian police say they intercepted and killed two African migrants who were ap
 _Context: Sri Lanka, Tablighi Jamaat_
 
 ### [China reports the death of a second person this month to H5N1 bird flu. ](/news/2012/01/22/china-reports-the-death-of-a-second-person-this-month-to-h5n1-bird-flu.md)
-_Context: China's, Influenza A virus subtype H5N1_
+_Context: Influenza A virus subtype H5N1, People's Republic of China_
 
 ### [At least 16 people drown after a passenger boat sinks off Iran's southern coast. ](/news/2012/01/22/at-least-16-people-drown-after-a-passenger-boat-sinks-off-iran-s-southern-coast.md)
 Sixteen bodies recovered after passenger boat sinks off southern coast due to engine malfunction in stormy weather.

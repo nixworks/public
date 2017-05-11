@@ -22,7 +22,7 @@ _Context: 1949, Iceland, NATO, National Police, protesters, riots, tear gas_
 _Context: 7 July, London, Pakistan, Peshawar, militant_
 
 ### [ Two Sanlu Group executives are sentenced to death for endangering public safety during China's 2008 milk scandal. ](/news/2009/01/22/two-sanlu-group-executives-are-sentenced-to-death-for-endangering-public-safety-during-china-s-2008-milk-scandal.md)
-_Context: 2008, 2008 Chinese milk scandal, China's, Sanlu Group, death penalty, public safety_
+_Context: 2008, 2008 Chinese milk scandal, People's Republic of China, Sanlu Group, death penalty, public safety_
 
 ### [ General Motors receives a second loan installment of US$5.4 billion. ](/news/2009/01/22/general-motors-receives-a-second-loan-installment-of-us-5-4-billion.md)
 GM received the second piece of its government loan package Wednesday, a $5.4 billion installment that will allow the automaker to pay its bills and avoid running out of cash.

@@ -49,7 +49,7 @@ _Context: Haiti, Jean Bertrand-Aristide, South Africa_
 US President Barack Obama has said he will visit Ireland in May.
 
 ### [Malaysia seizes "suspected nuclear parts" in a Chinese ship bound for Iran. ](/news/2011/03/17/malaysia-seizes-suspected-nuclear-parts-in-a-chinese-ship-bound-for-iran.md)
-_Context: China's, Iran, Malaysia_
+_Context: Iran, Malaysia, People's Republic of China_
 
 ### [A court in Burma denies bail to the chief of the ''Myanmar Times'' newspaper, charged with violating immigration law. ](/news/2011/03/17/a-court-in-burma-denies-bail-to-the-chief-of-the-myanmar-times-newspaper-charged-with-violating-immigration-law.md)
 _Context: Burma, Myanmar Times_

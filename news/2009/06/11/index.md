@@ -46,7 +46,7 @@ _Context: Conrad Black, Florida, House of Lords, U.S. Supreme Court_
 _Context: Amos Oz, Arabic, David Grossman, Egypt, Farouk Hosni, Israel_
 
 ### [ Xu Zongheng, the mayor of Shenzhen, southern China, is dismissed for "disciplinary offences" after being questioned on corruption allegations. ](/news/2009/06/11/xu-zongheng-the-mayor-of-shenzhen-southern-china-is-dismissed-for-disciplinary-offences-after-being-questioned-on-corruption-allegatio.md)
-_Context: China's, Shenzhen, Xu Zongheng_
+_Context: People's Republic of China, Shenzhen, Xu Zongheng_
 
 ### [ For the first time ever, Brazil offers US$10 billion in financing to the International Monetary Fund to help improve the availability of credit in developing countries. ](/news/2009/06/11/for-the-first-time-ever-brazil-offers-us-10-billion-in-financing-to-the-international-monetary-fund-to-help-improve-the-availability-of-cr.md)
 _Context: Brazil, International Monetary Fund, U.S. dollar_

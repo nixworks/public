@@ -31,7 +31,7 @@ Complaint filed with International Criminal Court accuses Israel of war crimes i
 _Context: Afghanistan, Iran_
 
 ### [The Prime Minister of Japan Naoto Kan calls on China to release Nobel Peace Prize winner Liu Xiaobo. ](/news/2010/10/14/the-prime-minister-of-japan-naoto-kan-calls-on-china-to-release-nobel-peace-prize-winner-liu-xiaobo.md)
-_Context: China's, Liu Xiaobo, Naoto Kan, Nobel Peace Prize, Prime Minister_
+_Context: Liu Xiaobo, Naoto Kan, Nobel Peace Prize, People's Republic of China, Prime Minister_
 
 ### [Canada's PM Stephen Harper and Lan Lijun, China's Ambassador to Canada, take part in a ceremony to mark the 40th anniversary of Sino-Canadian relations. ](/news/2010/10/14/canada-s-pm-stephen-harper-and-lan-lijun-china-s-ambassador-to-canada-take-part-in-a-ceremony-to-mark-the-40th-anniversary-of-sino-canadia.md)
 _Context: Lan Lijun, Sino-Canadian relations, Stephen Harper_

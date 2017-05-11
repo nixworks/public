@@ -10,7 +10,7 @@ _Context: Muttiah Muralitharan, One Day International, Sri Lanka, Sri Lanka cric
 _Context: Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia, Tajikistan, Uzbekistan, rapid reaction force_
 
 ### [ China declares a national emergency due to severe droughts throughout the country. ](/news/2009/02/5/china-declares-a-national-emergency-due-to-severe-droughts-throughout-the-country.md)
-_Context: China's, drought, state of emergency_
+_Context: People's Republic of China, drought, state of emergency_
 
 ### [ Somali pirates release Ukraine's MV ''Faina''  following a US$3.2-million ransom payment. ](/news/2009/02/5/somali-pirates-release-ukraine-s-mv-faina-following-a-us-3-2-million-ransom-payment.md)
 _Context: Faina, MV, Somali pirates, Somalia, U.S. dollar, Ukrainian, ransom_

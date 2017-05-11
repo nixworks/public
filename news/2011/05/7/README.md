@@ -37,7 +37,7 @@ _Context: Spring 2011 Mississippi River Floods_
 _Context: Bolivia, United Nations_
 
 ### [China, Kyrgyzstan and Tajikistan conduct an anti-terror drill in the restive Xinjiang region of western China. ](/news/2011/05/7/china-kyrgyzstan-and-tajikistan-conduct-an-anti-terror-drill-in-the-restive-xinjiang-region-of-western-china.md)
-_Context: China's, Kyrgyzstan, Tajikistan, Xinjiang_
+_Context: Kyrgyzstan, People's Republic of China, Tajikistan, Xinjiang_
 
 ### [Three Russian human rights activists monitoring trials of opposition activists in Belarus are expelled. ](/news/2011/05/7/three-russian-human-rights-activists-monitoring-trials-of-opposition-activists-in-belarus-are-expelled.md)
 _Context: Belarus, Russia_

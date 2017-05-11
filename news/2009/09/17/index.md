@@ -49,7 +49,7 @@ Chavez says deal, along with another with Russian firms, will produce 900,000 ba
 _Context: Aung San Suu Kyi, State Peace and Development Council_
 
 ### [ Four more people are found guilty and jailed for carrying out attacks with syringes in the western Chinese province of Xinjiang. ](/news/2009/09/17/four-more-people-are-found-guilty-and-jailed-for-carrying-out-attacks-with-syringes-in-the-western-chinese-province-of-xinjiang.md)
-_Context: China's, Xinjiang, attacks with syringes_
+_Context: People's Republic of China, Xinjiang, attacks with syringes_
 
 ### [ The National Assembly of Kenya passes a bill to reduce the number of ministries from 40 to 24. ](/news/2009/09/17/the-national-assembly-of-kenya-passes-a-bill-to-reduce-the-number-of-ministries-from-40-to-24.md)
 _Context: bill into law, lawmakers_

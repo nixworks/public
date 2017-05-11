@@ -10,7 +10,7 @@ _Context: United States, kill, southern United States, tornado_
 _Context: East Asia Summit, Fourth, Pattaya, Thailand_
 
 ### [ China imposes pay limits for executive officers of state-owned financial institutions. ](/news/2009/04/10/china-imposes-pay-limits-for-executive-officers-of-state-owned-financial-institutions.md)
-_Context: China's, executives, financial institution, state-owned_
+_Context: People's Republic of China, executives, financial institution, state-owned_
 
 ### [ Japan strengthens its economic sanctions against North Korea, following the launch of Kwangmyongsong-2. ](/news/2009/04/10/japan-strengthens-its-economic-sanctions-against-north-korea-following-the-launch-of-kwangmyangsang-2.md)
 _Context: Japan, Kwangmyongsong-2, North Korea, sanctions_

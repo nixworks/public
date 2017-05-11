@@ -28,7 +28,7 @@ _Context: Chicago, Hilton Hotels, Honolulu, San Francisco, United States, strike
 Authorities in the Philippines are preparing for the onslaught of Typhoon Megi, the tenth tropical cyclone and the strongest to hit the country this year.
 
 ### [Five more bodies are found after a gas leak in a coal mine in China's Henan province, bringing the death toll to 26. ](/news/2010/10/17/five-more-bodies-are-found-after-a-gas-leak-in-a-coal-mine-in-china-s-henan-province-bringing-the-death-toll-to-26.md)
-_Context: China's, Henan, coal mine_
+_Context: Henan, People's Republic of China, coal mine_
 
 ### [Israeli Prime Minister Benjamin Netanyahu says that Israel had recently renewed contacts with a German mediator to negotiate the release of a captured Israeli soldier, Staff Sgt. Gilad Shalit, who is being held incommunicado by Hamas. ](/news/2010/10/17/israeli-prime-minister-benjamin-netanyahu-says-that-israel-had-recently-renewed-contacts-with-a-german-mediator-to-negotiate-the-release-of.md)
 Prime Minister Benjamin Netanyahu said Israel renewed contacts with a German mediator to negotiate the release of a captured Israeli soldier, Staff Sgt. Gilad Shalit.

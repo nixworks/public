@@ -13,7 +13,7 @@ _Context: HSBC, United Kingdom_
 A massive fire at a Ukrainian fuel depot killed five people on Tuesday, officials said, including three firemen who went missing after the flames triggered a powerful explosion.
 
 ### [At least four people are killed (including the gunman) and five people injured in a shooting incident in China's northern Hebei province. ](/news/2015/06/9/at-least-four-people-are-killed-including-the-gunman-and-five-people-injured-in-a-shooting-incident-in-china-s-northern-hebei-province.md)
-_Context: China's, Hebei_
+_Context: Hebei, People's Republic of China_
 
 ### [The United States Court of Appeals for the Fifth Circuit upholds a Texan law providing that abortion clinics meet the same standards as hospital style surgical clinics meaning that many abortion clinics must upgrade or close. ](/news/2015/06/9/the-united-states-court-of-appeals-for-the-fifth-circuit-upholds-a-texan-law-providing-that-abortion-clinics-meet-the-same-standards-as-hosp.md)
 _Context: 5th Circuit Court of Appeals, Texas, abortion_

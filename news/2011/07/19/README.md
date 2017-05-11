@@ -37,7 +37,7 @@ Fourteen people have been arrested as part of an ongoing operation targeting the
 Assaults, smoke bombs and vandalism were left in the wake of a protest in San Francisco Tuesday night.
 
 ### [Chinese Vice President Xi Jinping says the Chinese government will "smash" attempts for an independent Tibet in a speech outside the Potala Palace. ](/news/2011/07/19/chinese-vice-president-xi-jinping-says-the-chinese-government-will-smash-attempts-for-an-independent-tibet-in-a-speech-outside-the-potala.md)
-_Context: China's, Potala Palace, Tibet, Vice President, Xi Jinping, independent_
+_Context: People's Republic of China, Potala Palace, Tibet, Vice President, Xi Jinping, independent_
 
 ### [Northern Mariana Islands Governor Benigno Fitial and Guam Governor Eddie Calvo state that they are in serious talks to potentially merge the U.S. territories of Guam and the Northern Mariana Islands. ](/news/2011/07/19/northern-mariana-islands-governor-benigno-fitial-and-guam-governor-eddie-calvo-state-that-they-are-in-serious-talks-to-potentially-merge-the.md)
 _Context: Benigno Fitial, Eddie Calvo, Guam, Guam Governor, Northern Mariana Islands, Northern Mariana Islands Governor, U.S. territories_

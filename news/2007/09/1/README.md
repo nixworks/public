@@ -85,7 +85,7 @@ _Context: Malaysia, dengue fever_
 _Context: 2007 Greek forest fires, Costas Karamanlis, Greek prime minister, PS_
 
 ### [ New laws come into effect giving the People's Republic of China more control over the selection of the Dalai Lama. ](/news/2007/09/1/new-laws-come-into-effect-giving-the-people-s-republic-of-china-more-control-over-the-selection-of-the-dalai-lama.md)
-_Context: China's, Dalai Lama_
+_Context: Dalai Lama, People's Republic of China_
 
 ### [ Finland ceased all of its analog television transmissions in the terrestrial network as part of the digital switchover. (Wikinews)](/news/2007/09/1/finland-ceased-all-of-its-analog-television-transmissions-in-the-terrestrial-network-as-part-of-the-digital-switchover-wikinews.md)
 _Context: (Wikinews), Finland, digital switchover_

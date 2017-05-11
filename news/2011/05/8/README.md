@@ -19,7 +19,7 @@ The U.S. wants access to Osama bin Laden&#39;s three widows and any intelligence
 Eman al-Obeidy, who garnered worldwide attention for her vocal rape allegations against the regime of Moammar Gadhafi, says she has fled Libya, fearing for her safety.
 
 ### [There is a near riot in the Beijing Apple Store as the Apple iPad 2 goes on sale in the People's Republic of China. ](/news/2011/05/8/there-is-a-near-riot-in-the-beijing-apple-store-as-the-apple-ipad-2-goes-on-sale-in-the-people-s-republic-of-china.md)
-_Context: Apple Inc., Apple Store, Beijing, China's, iPad 2_
+_Context: Apple Inc., Apple Store, Beijing, People's Republic of China, iPad 2_
 
 ### [Peter Beale, Nick Stephenson, John Edwards and John Towers - the so-called "Phoenix Four" who ran MG Rover following its collapse - have agreed to be disqualified from serving as company directors for between 3 and 6 years. The deal was made with the UK's Department of Business, Innovation and Skills, following a "lengthy and complex investigation" into the affair. ](/news/2011/05/8/peter-beale-nick-stephenson-john-edwards-and-john-towers-the-so-called-phoenix-four-who-ran-mg-rover-following-its-collapse-have-agr.md)
 The bosses who ran MG Rover when it collapsed have been banned from serving as directors of any company for up to six years.

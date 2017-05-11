@@ -16,7 +16,7 @@ _Context: Hokkaido, Japan, derail_
 At least 10 people are now thought to have died and hundreds made sick in Germany by E.coli-infected cucumbers.
 
 ### [Vietnam accuses the People's Republic of China of "violating" its sovereignty after Chinese ships damaged a Petrovietnam boat in the disputed Spratly Islands. ](/news/2011/05/28/vietnam-accuses-the-people-s-republic-of-china-of-violating-its-sovereignty-after-chinese-ships-damaged-a-petrovietnam-boat-in-the-dispute.md)
-_Context: China's, Petrovietnam, Spratly Islands, Vietnam_
+_Context: People's Republic of China, Petrovietnam, Spratly Islands, Vietnam_
 
 ### [North Korea releases Eddie Jun, a United States citizen who was held in custody for half a year. ](/news/2011/05/28/north-korea-releases-eddie-jun-a-united-states-citizen-who-was-held-in-custody-for-half-a-year.md)
 The United States is welcoming a North Korean announcement that it will free an ..

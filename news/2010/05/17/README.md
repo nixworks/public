@@ -13,7 +13,7 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 _Context: Afghanistan, Kabul, Kunduz, Pamir Airways, crashes_
 
 ### [Six people are attacked with a meat cleaver before the assailant commits suicide at a market in Foshan, China. ](/news/2010/05/17/six-people-are-attacked-with-a-meat-cleaver-before-the-assailant-commits-suicide-at-a-market-in-foshan-china.md)
-_Context: China's, Foshan, suicide_
+_Context: Foshan, People's Republic of China, suicide_
 
 ### [Brazil, Iran and Turkey agree on a nuclear fuel swap aimed at easing concerns from the West that Iran might building a bomb. ](/news/2010/05/17/brazil-iran-and-turkey-agree-on-a-nuclear-fuel-swap-aimed-at-easing-concerns-from-the-west-that-iran-might-building-a-bomb.md)
 Brazil and Turkey reach deal with Iran over uranium stockpile, but details remain unclear.

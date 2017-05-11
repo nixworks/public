@@ -10,7 +10,7 @@ _Context: Hans-Gert Pottering, Jerzy Buzek, President of the European Parliament
 _Context: H1N1, World Health Organization, vaccine, virus_
 
 ### [  China urges Turkish Prime Minister Tayyip Erdogan to retract his comments of "genocide" in Xinjiang. ](/news/2009/07/14/china-urges-turkish-prime-minister-tayyip-erdoaan-to-retract-his-comments-of-genocide-in-xinjiang.md)
-_Context: China's, Prime Minister of Turkey, Tayyip Erdogan, Turkey, Xinjiang, ethnic riots_
+_Context: People's Republic of China, Prime Minister of Turkey, Tayyip Erdogan, Turkey, Xinjiang, ethnic riots_
 
 ### [ Two foreign nationals, believed to be French, are kidnapped by gunmen after a hotel is stormed in Mogadishu, Somalia. ](/news/2009/07/14/two-foreign-nationals-believed-to-be-french-are-kidnapped-by-gunmen-after-a-hotel-is-stormed-in-mogadishu-somalia.md)
 Armed men take hostage two French guests from a hotel in Mogadishu as fighting rages.

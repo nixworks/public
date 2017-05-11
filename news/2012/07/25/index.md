@@ -22,7 +22,7 @@ _Context: Leonid Khabarov_
 _Context: International Criminal Court, Korean War, North Korea, South Korea, prisoners_
 
 ### [Guo Jinlong resigns as the Mayor of the Chinese capital Beijing with Wang Anshun appointed as the acting mayor. ](/news/2012/07/25/guo-jinlong-resigns-as-the-mayor-of-the-chinese-capital-beijing-with-wang-anshun-appointed-as-the-acting-mayor.md)
-_Context: Beijing, China's, Guo Jinlong, Mayor, Wang Anshun_
+_Context: Beijing, Guo Jinlong, Mayor, People's Republic of China, Wang Anshun_
 
 ### [Pranab Mukherjee is sworn in as the President of India. [http://ibnlive.in.com/news/live-pranab-set-to-take-oath-leaves-for-rajghat/274233-37-64.html (IBN Live)].](/news/2012/07/25/pranab-mukherjee-is-sworn-in-as-the-president-of-india-http-ibnlive-in-com-news-live-pranab-set-to-take-oath-leaves-for-rajghat-274233-3.md)
 _Context: Pranab Mukherjee, President of India_

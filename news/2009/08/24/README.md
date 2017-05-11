@@ -19,7 +19,7 @@ _Context: Indonesia, Sumatran Tiger, intestine_
 THE GREEN Party and gay rights organisations have defended plans to introduce civil partnerships for same-sex couples following&hellip;
 
 ### [ China is to try 200 people suspected of their involvement in the rmqi riots last month. ](/news/2009/08/24/china-is-to-try-200-people-suspected-of-their-involvement-in-the-urumqi-riots-last-month.md)
-_Context: China's, riots_
+_Context: People's Republic of China, riots_
 
 ### [ Two mass graves containing the remains of communist soldiers dating from the Vietnam War are discovered in central Vietnam. ](/news/2009/08/24/two-mass-graves-containing-the-remains-of-communist-soldiers-dating-from-the-vietnam-war-are-discovered-in-central-vietnam.md)
 _Context: Vietnam, Vietnam War, communist soldiers_

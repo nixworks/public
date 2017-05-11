@@ -16,7 +16,7 @@ Over in Yemen, At least 40 people have been killed in a battle between Yemeni so
 The International Monetary Fund, which manages global financial crises, has been the target of a major cyber attack by hackers seeking access to confidential information about economies across the world.
 
 ### [A bomb is detonated outside a local government headquarters in Tianjin, northeastern China. This is the third explosion outside government facilities in three weeks. ](/news/2011/06/12/a-bomb-is-detonated-outside-a-local-government-headquarters-in-tianjin-northeastern-china-this-is-the-third-explosion-outside-government-f.md)
-_Context: China's, Tianjin_
+_Context: People's Republic of China, Tianjin_
 
 ### [The leaders of the Southern African Development Community, the Common Market for Eastern and Southern Africa, and the East African Community signed an agreement in South Africa to develop a joint free trade bloc to stretch from Cape Town to Cairo, to encompass 26 countries. ](/news/2011/06/12/the-leaders-of-the-southern-african-development-community-the-common-market-for-eastern-and-southern-africa-and-the-east-african-community.md)
 _Context: Common Market for Eastern and Southern Africa, East African Community, South Africa, Southern African Development Community, free trade, trade bloc_
@@ -25,7 +25,7 @@ _Context: Common Market for Eastern and Southern Africa, East African Community,
 Ash clouds from a Chilean volcano prompted numerous flight cancellations in Australia and New Zealand on Sunday, leaving thousands of passengers stranded.
 
 ### [Over 600 people are poisoned by lead in Zhejiang, eastern China. ](/news/2011/06/12/over-600-people-are-poisoned-by-lead-in-zhejiang-eastern-china.md)
-_Context: China's, Zhejiang, lead contamination_
+_Context: People's Republic of China, Zhejiang, lead contamination_
 
 ### [A series of moderate magnitude 4-5 earthquakes hit eastern Eritrea, preceding reports of a possible volcanic eruption. ](/news/2011/06/12/a-series-of-moderate-magnitude-4-5-earthquakes-hit-eastern-eritrea-preceding-reports-of-a-possible-volcanic-eruption.md)
 _Context: Eritrea_
@@ -34,7 +34,7 @@ _Context: Eritrea_
 _Context: Bilderberg Group, Mario Borghezio, Member of the European Parliament, St. Moritz, Swiss_
 
 ### [An anti-China protest takes place in Hanoi, Vietnam, for the second weekend in a row, amid a territorial dispute between the two countries. ](/news/2011/06/12/an-anti-china-protest-takes-place-in-hanoi-vietnam-for-the-second-weekend-in-a-row-amid-a-territorial-dispute-between-the-two-countries.md)
-_Context: China's, Hanoi, Vietnam_
+_Context: Hanoi, People's Republic of China, Vietnam_
 
 ### [The United Nations Security Council reports that Iran is buying foreign banks and money-exchange bureaus to sidestep economic sanctions. ](/news/2011/06/12/the-united-nations-security-council-reports-that-iran-is-buying-foreign-banks-and-money-exchange-bureaus-to-sidestep-economic-sanctions.md)
 Leaked report by the UNSC says Iran is circumventing sanctions through foreign money-exchange bureaus and banks.

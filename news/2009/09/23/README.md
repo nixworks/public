@@ -52,7 +52,7 @@ _Context: Argentina, Dirty War, Julio Alberto Poch, Spain, Transavia_
 In his first U.N. appearance, Libyan leader Moammar Gadhafi slams the Security Council and chastised the world body on Wednesday for failing to intervene or prevent some 65 wars.
 
 ### [ China relaxes travel curbs for Guangdong residents visiting Macau. ](/news/2009/09/23/china-relaxes-travel-curbs-for-guangdong-residents-visiting-macau.md)
-_Context: China's, Guangdong province, Macau_
+_Context: Guangdong province, Macau, People's Republic of China_
 
 ### [ Human Rights Watch urges world leaders to call on Sri Lanka to free hundreds of thousands of displaced people detained in camps since the island's civil war ended. ](/news/2009/09/23/human-rights-watch-urges-world-leaders-to-call-on-sri-lanka-to-free-hundreds-of-thousands-of-displaced-people-detained-in-camps-since-the-i.md)
 _Context: Human Rights Watch, Sri Lanka_

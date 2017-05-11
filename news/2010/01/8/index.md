@@ -16,7 +16,7 @@ No statue of a pharaoh has ever been found further south of Egypt than this one.
 _Context: China Mobile, Zhang Chunjiang, world's largest mobile telephone operator_
 
 ### [China becomes the number one automobile market in the world. ](/news/2010/01/8/china-becomes-the-number-one-automobile-market-in-the-world.md)
-_Context: Auto, China's_
+_Context: Auto, People's Republic of China_
 
 ### [Mehdi Karroubi's car is hit by fire in Qazvin, Iran. ](/news/2010/01/8/mehdi-karroubi-s-car-is-hit-by-fire-in-qazvin-iran.md)
 Iran opposition leader Mehdi Karroubi&#039;s car has been fired on in the country&#039;s northern city of Qazvin.

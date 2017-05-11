@@ -16,7 +16,7 @@ _Context: riots_
 Peacekeepers to stay another year as war estimated to have taken five million lives rages on.
 
 ### [Amnesty International calls on the People's Republic of China to stop the harassment, arbitrary detention and torture of human rights lawyers. ](/news/2011/06/30/amnesty-international-calls-on-the-people-s-republic-of-china-to-stop-the-harassment-arbitrary-detention-and-torture-of-human-rights-lawyer.md)
-_Context: Amnesty International, China's, Human rights_
+_Context: Amnesty International, Human rights, People's Republic of China_
 
 ### [Al-Shamukh, a popular jihadist Internet forum, is knocked off the Internet by a fairly sophisticated cyberattack. ](/news/2011/06/30/al-shamukh-a-popular-jihadist-internet-forum-is-knocked-off-the-internet-by-a-fairly-sophisticated-cyberattack.md)
 _Context: Al-Shamukh, jihad_
@@ -28,7 +28,7 @@ _Context: Iraq, Iraq War, Iraqi insurgency, United States_
 _Context: Fox News, Glenn Beck_
 
 ### [The Beijing-Shanghai High-Speed Railway commences commercial operation in the People's Republic of China. ](/news/2011/06/30/the-beijingashanghai-high-speed-railway-commences-commercial-operation-in-the-people-s-republic-of-china.md)
-_Context: Beijing-Shanghai High-Speed Railway, China's_
+_Context: Beijing-Shanghai High-Speed Railway, People's Republic of China_
 
 ### [The Japanese auto industry begins designated weekday shutdowns as part of an effort to save energy as a result of the Fukushima Daiichi nuclear disaster. ](/news/2011/06/30/the-japanese-auto-industry-begins-designated-weekday-shutdowns-as-part-of-an-effort-to-save-energy-as-a-result-of-the-fukushima-daiichi-nucl.md)
 _Context: Fukushima Daiichi nuclear disaster, automakers_

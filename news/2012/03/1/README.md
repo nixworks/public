@@ -25,7 +25,7 @@ Residents in parts of Goulburn are being ordered to leave their homes and busine
 Passengers on the Costa Allegra speak of difficult conditions on board as the stricken cruise ship docks in the Seychelles.
 
 ### [Vietnam claims that the People's Republic of China has assaulted Vietnamese fishermen in disputed waters in the South China Sea. ](/news/2012/03/1/vietnam-claims-that-the-people-s-republic-of-china-has-assaulted-vietnamese-fishermen-in-disputed-waters-in-the-south-china-sea.md)
-_Context: China's, South China Sea, Vietnam, Vietnamese, disputed waters_
+_Context: People's Republic of China, South China Sea, Vietnam, Vietnamese, disputed waters_
 
 ### [Americans working for non-government organisations who had been facing trial in Egypt are allowed to leave. ](/news/2012/03/1/americans-working-for-non-government-organisations-who-had-been-facing-trial-in-egypt-are-allowed-to-leave.md)
 Two United States-financed nonprofit groups paid about $4 million in bail to fly 11 employees out of reach of Egyptian courts.

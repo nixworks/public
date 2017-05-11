@@ -40,7 +40,7 @@ _Context: Jestina Mukoko, Robert Mugabe, Zimbabwe_
 _Context: Gregoire Ndahimana, Rwanda, United Nations_
 
 ### [ ''Chinese Civilisation Revisited'' by Xiao Jiansheng, a book about Chinese history which is outlawed in China, goes on sale in Hong Kong. ](/news/2009/09/28/chinese-civilisation-revisited-by-xiao-jiansheng-a-book-about-chinese-history-which-is-outlawed-in-china-goes-on-sale-in-hong-kong.md)
-_Context: China's, Chinese Civilisation Revisited, Hong Kong_
+_Context: Chinese Civilisation Revisited, Hong Kong, People's Republic of China_
 
 ### [ A police officer who served at the G20 demonstrations in London in April 2009 is to face a charge of assaulting a woman with a baton after becoming involved in a confrontation at a vigil for Ian Tomlinson. ](/news/2009/09/28/a-police-officer-who-served-at-the-g20-demonstrations-in-london-in-april-2009-is-to-face-a-charge-of-assaulting-a-woman-with-a-baton-after.md)
 A police sergeant who allegedly struck a woman, Nicola Fisher, during G20 protests will be charged with assault, the Crown Prosecution Service (CPS) said.
@@ -52,7 +52,7 @@ _Context: Down's syndrome, Pablo Pineda, San Sebastian International Film Festiv
 Jackson Pollock hid his signature inside one of his most important and valuable paintings, an art historian believes.
 
 ### [ North Korea revises its constitution, removing all references to communism, while mentioning human rights for the first time, as well as stating Kim Jong-il as its "Supreme Leader". ](/news/2009/09/28/north-korea-revises-its-constitution-removing-all-references-to-communism-while-mentioning-human-rights-for-the-first-time-as-well-as-st.md)
-_Context: Communists, Human rights, Kim Jong-il, North Korea, constitution_
+_Context: Human rights, Kim Jong-il, North Korea, communism, constitution_
 
 ### [ At least 58 people are killed at a large opposition rally in Guinea against Moussa Dadis Camara who seized power in a coup last year. ](/news/2009/09/28/at-least-58-people-are-killed-at-a-large-opposition-rally-in-guinea-against-moussa-dadis-camara-who-seized-power-in-a-coup-last-year.md)
 Security forces open fire on opposition supporters in capital, human rights group says.

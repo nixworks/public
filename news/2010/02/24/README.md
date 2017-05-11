@@ -16,7 +16,7 @@ The hunger strike death of a Cuban political prisoner provoked international con
 _Context: ExxonMobil Corporation, LNG train, Qatar, Qatar Petroleum, RasGas, liquefied natural gas_
 
 ### [Oxfam Hong Kong suspends its student training programme in China after the Chinese government said the charity had "unfriendly intentions". ](/news/2010/02/24/oxfam-hong-kong-suspends-its-student-training-programme-in-china-after-the-chinese-government-said-the-charity-had-unfriendly-intentions.md)
-_Context: China's, Oxfam_
+_Context: Oxfam, People's Republic of China_
 
 ### [Sachin Tendulkar becomes the first cricketer in history to score a double century in One Day International cricket. ](/news/2010/02/24/sachin-tendulkar-becomes-the-first-cricketer-in-history-to-score-a-double-century-in-one-day-international-cricket.md)
 Sachin Tendulkar hit the first double century in the history of ODI cricket to lead India to a crushing 153-run victory against South Africa in the second One-Day International, in Gwalior, on Wednesday. Tendulkar was at his vintage best as he blazed his way to 200 from a mere 147 deliveries, inclusive of 25 boundaries and three sixes. In carrying his bat through the innings he propelled India to a mammoth 401 for three in 50 overs. | Tendulkar double ton leads India to series win

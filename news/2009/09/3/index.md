@@ -22,7 +22,7 @@ Burma&#39;s opposition leader Aung San Suu Kyi has lodged an appeal against her 
 Family and friends of Michael Jackson will bid a final farewell on Thursday (Friday 1200 AEST) as the singer is laid to rest in a private ceremony at a star-studded Los Angeles cemetery.
 
 ### [ China's State Food and Drug Administration grants approval to a homegrown swine flu vaccine, which producer Sinovac Biotech claims is effective after only one dose. ](/news/2009/09/3/china-s-state-food-and-drug-administration-grants-approval-to-a-homegrown-swine-flu-vaccine-which-producer-sinovac-biotech-claims-is-effec.md)
-_Context: China's, Sinovac Biotech, State Food and Drug Administration, swine flu_
+_Context: People's Republic of China, Sinovac Biotech, State Food and Drug Administration, swine flu_
 
 ### [ Fresh protests are reported in the province of Xinjiang in western China, after a series of stabbings with hypodermic needles. ](/news/2009/09/3/fresh-protests-are-reported-in-the-province-of-xinjiang-in-western-china-after-a-series-of-stabbings-with-hypodermic-needles.md)
 Hundreds of Han Chinese demonstrate in Urumqui against syringe attacks, state media reports.

@@ -43,7 +43,7 @@ Typhoon Fanapi punished Taiwan with 125 mph winds Sunday, downing trees and powe
 Hurricane Igor barreled north on Monday on a path expected to take it near Newfoundland and energy interests off eastern Canada, after battering Bermuda with heavy winds, waves and rain that caused damage but no casualties.
 
 ### [China suspends high level diplomatic exchanges with Japan after the latter extended the detention of a Chinese fishing captain. ](/news/2010/09/19/china-suspends-high-level-diplomatic-exchanges-with-japan-after-the-latter-extended-the-detention-of-a-chinese-fishing-captain.md)
-_Context: China's, Japan_
+_Context: Japan, People's Republic of China_
 
 ### [A humanitarian aid convoy for the Viva Palestina charity starts in London, England, headed for the Gaza Strip. ](/news/2010/09/19/a-humanitarian-aid-convoy-for-the-viva-palestina-charity-starts-in-london-england-headed-for-the-gaza-strip.md)
 Viva Palestina vehicles leave London en route to besieged Strip for what organisers say will be biggest aid convoy yet.

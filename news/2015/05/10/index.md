@@ -4,7 +4,7 @@
 _Context: Saleh, Sana'a, Saudi Arabia, Yemeni Civil War, Yemeni President_
 
 ### [The People's Bank of China in the People's Republic of China lowers its benchmark interest rate for the third time in half a year. ](/news/2015/05/10/the-people-s-bank-of-china-in-the-people-s-republic-of-china-lowers-its-benchmark-interest-rate-for-the-third-time-in-half-a-year.md)
-_Context: China's, People's Bank of China, interest rate_
+_Context: People's Bank of China, People's Republic of China, interest rate_
 
 ### [Typhoon Noul (Dodong) makes landfall in the northern Philippines as a Category&nbsp;5 typhoon with thousands of passengers stranded and warnings of landslides. ](/news/2015/05/10/typhoon-noul-dodong-makes-landfall-in-the-northern-philippines-as-a-category-nbsp-5-typhoon-with-thousands-of-passengers-stranded-and-warn.md)
 Typhoon expected to hit coast on Sunday, as volcano spews ash over central province, forcing evacuation of thousands.

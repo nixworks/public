@@ -46,7 +46,7 @@ Romania condemns Russia for arresting and expelling one of its diplomats, accuse
 The Lebanese parliament finally passes a law allowing the 400,000 Palestinian refugees living in the country to work legally.
 
 ### [A U.S. report claims that the Chinese military has been secretly expanding; the U.S. asks for dialogue with China to avert a "miscalculated" response. ](/news/2010/08/17/a-u-s-report-claims-that-the-chinese-military-has-been-secretly-expanding-the-u-s-asks-for-dialogue-with-china-to-avert-a-miscalculated.md)
-_Context: China's, military_
+_Context: People's Republic of China, military_
 
 ### [Two kidnapped Jordanian peacekeepers from the joint African Union - United Nations force in Darfur, Sudan, are released. ](/news/2010/08/17/two-kidnapped-jordanian-peacekeepers-from-the-joint-african-union-united-nations-force-in-darfur-sudan-are-released.md)
 Two Jordanians seized while serving with UN African Union mission in Sudan are freed.

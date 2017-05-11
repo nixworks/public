@@ -13,7 +13,7 @@ _Context: Egypt, Gaza Strip, Palestinian, Viva Palestina_
 The wife of Northern Ireland First Minister Peter Robinson tried to kill herself after confessing to her husband that she had an affair.
 
 ### [China becomes the largest exporting country, pushing Germany from first place. ](/news/2010/01/6/china-becomes-the-largest-exporting-country-pushing-germany-from-first-place.md)
-_Context: China's, German, top export market_
+_Context: German, People's Republic of China, top export market_
 
 ### [China's tourism revenue hits USD 185 billion in 2009. ](/news/2010/01/6/china-s-tourism-revenue-hits-usd-185-billion-in-2009.md)
 _Context: U.S. dollar, tourism_

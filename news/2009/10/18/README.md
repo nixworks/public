@@ -28,7 +28,7 @@ _Context: Category 4, Hurricane Rick, Pacific, strongest hurricane in a decade_
 State of emergency declared in Queensland where homes have been destroyed.
 
 ### [ Eight people are jailed in Hubei, China, for "disrupting public order" after 10,000 people participated in riots following the controversial death of a chef in June. ](/news/2009/10/18/eight-people-are-jailed-in-hubei-china-for-disrupting-public-order-after-10-000-people-participated-in-riots-following-the-controversia.md)
-_Context: China's, Hubei_
+_Context: Hubei, People's Republic of China_
 
 ### [ Scotland Yard investigates a complaint about an article by Jan Moir in the UK's ''Daily Mail'' tabloid concerning her views on the death of Boyzone singer Stephen Gately. ](/news/2009/10/18/scotland-yard-investigates-a-complaint-about-an-article-by-jan-moir-in-the-uk-s-daily-mail-tabloid-concerning-her-views-on-the-death-of.md)
 Scotland Yard has said that it has received a complaint about an article written by a newspaper columnist about the death of Stephen Gately.

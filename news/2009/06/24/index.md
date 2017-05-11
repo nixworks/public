@@ -4,7 +4,7 @@
 _Context: Togo, death penalty_
 
 ### [ China blocks Google services. ](/news/2009/06/24/china-blocks-google-services.md)
-_Context: China's, Google_
+_Context: Google, People's Republic of China_
 
 ### [ A flute carved over 35,000 years ago, and thought to be the oldest musical instrument in the world, is unearthed in Germany. ](/news/2009/06/24/a-flute-carved-over-35-000-years-ago-and-thought-to-be-the-oldest-musical-instrument-in-the-world-is-unearthed-in-germany.md)
 Archaeologists said a bone flute and two fragments of ivory flutes discovered last fall represent the earliest known flowering of music-making in Stone Age culture.

@@ -7,7 +7,7 @@ Arshed Masih, a 38 year-old Pakistani Christian, died yesterday evening at 7.45 
 _Context: Health Care and Education Reconciliation Act of 2010, United States, United States House of Representatives_
 
 ### [Google stops censoring its search results in China, redirecting users to its Hong Kong site. ](/news/2010/03/22/google-stops-censoring-its-search-results-in-china-redirecting-users-to-its-hong-kong-site.md)
-_Context: China's, Google, Hong Kong, blocks mentions_
+_Context: Google, Hong Kong, People's Republic of China, blocks mentions_
 
 ### [The Rio Tinto Group bribery trial opens in China. ](/news/2010/03/22/the-rio-tinto-group-bribery-trial-opens-in-china.md)
 Australia says trial on charges of bribery and theft of secrets will be closely watched.

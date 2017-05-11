@@ -22,7 +22,7 @@ _Context: California, Santa Barbara, California, United States, Wildfires, evacu
 _Context: Chad, Goz Beida, Military, Ouaddai Region, Union of Forces for Democracy and Development, performed_
 
 ### [ China announces that 5,335 schoolchildren died during an earthquake in Sichuan on May 12, 2008. ](/news/2009/05/7/china-announces-that-5-335-schoolchildren-died-during-an-earthquake-in-sichuan-on-may-12-2008.md)
-_Context: China's, Sichuan, deadly earthquake_
+_Context: People's Republic of China, Sichuan, deadly earthquake_
 
 ### [ An American man is arrested in Burma for trespassing on National League for Democracy General Secretary Aung San Suu Kyi's property. ](/news/2009/05/7/an-american-man-is-arrested-in-burma-for-trespassing-on-national-league-for-democracy-general-secretary-aung-san-suu-kyi-s-property.md)
 _Context: Aung San Suu Kyi, Burma, General Secretary, National League for Democracy, United States, property, trespass_

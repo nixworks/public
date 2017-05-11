@@ -4,7 +4,7 @@
 _Context: Carl Bildt, European Union, Foreign Minister, Kosovo, Sweden, United Nations_
 
 ### [ Kosovar Prime Minister Hashim Thai unveils a "Welcome to the Republic of Kosovo" sign (in Albanian, Serbian, and English) at the border with Serbia. ](/news/2008/03/9/kosovar-prime-minister-hashim-thaci-unveils-a-welcome-to-the-republic-of-kosovo-sign-in-albanian-serbian-and-english-at-the-border-wi.md)
-_Context: Albanian, English, Hashim Thai, Kosovo, Prime Minister of Kosovo, Serbia, Serbian_
+_Context: Albanian, English, Hashim Thai, Kosovo, Prime Minister, Serbia, Serbian_
 
 ### [ Venezuela announces that it will reopen its embassy in Colombia and welcome back Colombian diplomats expelled during the regional diplomatic crisis. ](/news/2008/03/9/venezuela-announces-that-it-will-reopen-its-embassy-in-colombia-and-welcome-back-colombian-diplomats-expelled-during-the-regional-diplomati.md)
 _Context: Andean diplomatic crisis, Colombia, Venezuela_

@@ -1,7 +1,7 @@
 ## [2007-12-6](/news/2007/12/6/index.md)
 
 ### [ The death toll rises to 104 in a northern China coal mine gas blast. ](/news/2007/12/6/the-death-toll-rises-to-104-in-a-northern-china-coal-mine-gas-blast.md)
-_Context: China's_
+_Context: People's Republic of China_
 
 ### [ France begins construction on the third unit of the Flamanville Nuclear Power Plant, which will be the world's second European Pressurized Reactor following a week after a record breaking deal with China for new nuclear power. ](/news/2007/12/6/france-begins-construction-on-the-third-unit-of-the-flamanville-nuclear-power-plant-which-will-be-the-world-s-second-european-pressurized.md)
 _Context: European Pressurized Reactor, Flamanville Nuclear Power Plant, France, deal with China_

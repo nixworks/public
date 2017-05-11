@@ -22,7 +22,7 @@ Former Bosnian Serb leader Radovan Karadzic appeared on Tuesday for an administr
 _Context: India, Indian Supreme Court_
 
 ### [ China accuses the Dalai Lama of damaging Sino-Indian relations ahead of his visit to the disputed border region of Arunachal Pradesh. ](/news/2009/11/3/china-accuses-the-dalai-lama-of-damaging-sino-indian-relations-ahead-of-his-visit-to-the-disputed-border-region-of-arunachal-pradesh.md)
-_Context: 14th Dalai Lama, Arunachal Pradesh, China's, to deal_
+_Context: 14th Dalai Lama, Arunachal Pradesh, People's Republic of China, to deal_
 
 ### [ Dubai announces it is to appoint female muftis for the first time in 2010. ](/news/2009/11/3/dubai-announces-it-is-to-appoint-female-muftis-for-the-first-time-in-2010.md)
 _Context: Dubai, mufti_

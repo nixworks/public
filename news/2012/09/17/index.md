@@ -19,7 +19,7 @@ More than 100 arrests were reported today, the first anniversary of the Occupy W
 _Context: Australia, Rip Curl, surf wear_
 
 ### [Senkaku Islands dispute:Japanese electronics company Panasonic suspends operations at its three factories in the People's Republic of China until Tuesday as a result of the Senkaku Islands dispute. ](/news/2012/09/17/senkaku-islands-dispute-pjapanese-electronics-company-panasonic-suspends-operations-at-its-three-factories-in-the-people-s-republic-of-china.md)
-_Context: China's, Japanese, Panasonic, Senkaku Islands dispute_
+_Context: Japanese, Panasonic, People's Republic of China, Senkaku Islands dispute_
 
 ### [The United States and the People's Republic of China exchange WTO trade complaints: the US complaining of China's support for automotive exports, and China complaining of new U.S. duties on several of their products. ](/news/2012/09/17/the-united-states-and-the-people-s-republic-of-china-exchange-wto-trade-complaints-the-us-complaining-of-china-s-support-for-automotive-exp.md)
 President Barack Obama on Monday said the United States was challenging Chinese auto and auto-parts subsidies that threatened American jobs as he campaigned in Ohio, an auto manufacturing state that could be decisive in the November presidential election.

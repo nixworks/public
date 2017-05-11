@@ -13,7 +13,7 @@ _Context: Sarath Fonseka, Sri Lanka_
 The fashion world&#039;s leading voices have paid tribute to the outlandish avant-garde &#034;genius&#034; of Alexander McQueen, the British designer found dead at home in London, after an apparent suicide.
 
 ### [A court in Beijing upholds a sentence against Chinese dissident Liu Xiaobo who was sentenced to 11 years imprisonment on charges of subversion. ](/news/2010/02/11/a-court-in-beijing-upholds-a-sentence-against-chinese-dissident-liu-xiaobo-who-was-sentenced-to-11-years-imprisonment-on-charges-of-subversi.md)
-_Context: Beijing, China's, Liu Xiaobo, dissident, subversion_
+_Context: Beijing, Liu Xiaobo, People's Republic of China, dissident, subversion_
 
 ### [Iran:President Mahmoud Ahmadinejad announces that Iran is now a nuclear state, following a successful 20% uranium enrichment. ](/news/2010/02/11/iran-ppresident-mahmoud-ahmadinejad-announces-that-iran-is-now-a-nuclear-state-following-a-successful-20-uranium-enrichment.md)
 On the anniversary of the Islamic Revolution, Iran’s president sent forces onto the streets to break up protests and taunted the West by claiming progress on uranium enrichment.

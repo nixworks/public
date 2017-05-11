@@ -7,7 +7,7 @@ _Context: 2011 Syrian uprising, Arab Spring, Syrian Army_
 Israeli troops begin to dismantle part of the West Bank barrier near Bilin, for years a flashpoint for clashes with Palestinians.
 
 ### [Vietnamese protesters march in the capital Hanoi for the fourth successive week calling on the People's Republic of China to stop entering Vietnamese territorial waters on the South China Sea. ](/news/2011/06/26/vietnamese-protesters-march-in-the-capital-hanoi-for-the-fourth-successive-week-calling-on-the-people-s-republic-of-china-to-stop-entering-v.md)
-_Context: China's, Hanoi, South China Sea, Vietnamese, territorial waters_
+_Context: Hanoi, People's Republic of China, South China Sea, Vietnamese, territorial waters_
 
 ### [At least 25 people are killed and many others are wounded after a bomb explodes in Maiduguri. ](/news/2011/06/26/at-least-25-people-are-killed-and-many-others-are-wounded-after-a-bomb-explodes-in-maiduguri.md)
 Gunmen believed to be from the Boko Haram Islamist sect throw bombs at a beer garden in the Nigerian town of Maiduguri killing at least 25 people, security sources say.

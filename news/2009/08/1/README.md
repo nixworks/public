@@ -25,7 +25,7 @@ Thousands of people have taken to the streets of Kuala Lumpur in protest at laws
 _Context: Venezuela_
 
 ### [ Chinese hackers target the website of the Melbourne International Film Festival for a second time as Uyghur leader Rebiya Kadeer is to visit the country. ](/news/2009/08/1/chinese-hackers-target-the-website-of-the-melbourne-international-film-festival-for-a-second-time-as-uyghur-leader-rebiya-kadeer-is-to-visi.md)
-_Context: China's, Melbourne International Film Festival, Rebiya Kadeer, Uyghur_
+_Context: Melbourne International Film Festival, People's Republic of China, Rebiya Kadeer, Uyghur_
 
 ### [ North Korea says a South Korean fishing boat it seized "illegally" entered its waters. ](/news/2009/08/1/north-korea-says-a-south-korean-fishing-boat-it-seized-illegally-entered-its-waters.md)
 _Context: North Korea, South Korea_
@@ -34,7 +34,7 @@ _Context: North Korea, South Korea_
 _Context: Christian, Pakistan, Punjab, Qur'an_
 
 ### [ Rare Buddhist treasures, buried in the 1930s during Mongolia's Communist purge, are unearthed in the Gobi Desert. ](/news/2009/08/1/rare-buddhist-treasures-buried-in-the-1930s-during-mongolia-s-communist-purge-are-unearthed-in-the-gobi-desert.md)
-_Context: Buddhist, Communists, Gobi Desert, Mongolia_
+_Context: Buddhist, Gobi Desert, Mongolia, communism_
 
 ## [Previous Day...](/news/2009/07/31/index.md)
 

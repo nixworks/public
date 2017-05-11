@@ -4,7 +4,7 @@
 _Context: Lutheran Church, Sweden, decides, same-sex marriage_
 
 ### [ China's economy grows at 8.9% in the third quarter from a year earlier, the fastest pace in a year. ](/news/2009/10/22/china-s-economy-grows-at-8-9-in-the-third-quarter-from-a-year-earlier-the-fastest-pace-in-a-year.md)
-_Context: China's, Chinese economy_
+_Context: Chinese economy, People's Republic of China_
 
 ### [ In a change of policy, the British Broadcasting Corporation controversially gives a platform on ''Question Time'' to the far right British National Party (BNP) leader Nick Griffin. ](/news/2009/10/22/in-a-change-of-policy-the-british-broadcasting-corporation-controversially-gives-a-platform-on-question-time-to-the-far-right-british.md)
 _Context: BBC, British National Party, Nick Griffin, Question Time, controversially gives a platform_

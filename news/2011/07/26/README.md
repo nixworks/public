@@ -10,7 +10,7 @@ _Context: Reserve Bank of India, inflation, interest rates_
 _Context: News of the World, Trinity Mirror, phone hacking affair_
 
 ### [U.S. Senator Al Franken of Minnesota, in a letter to the Justice Department and the Federal Communications Commission, demands that they block the effort of telephone giant AT&T to buy rival T-Mobile USA. ](/news/2011/07/26/u-s-senator-al-franken-of-minnesota-in-a-letter-to-the-justice-department-and-the-federal-communications-commission-demands-that-they-blo.md)
-_Context: AT&T, Al Franken, Federal Communications Commission, Minnesota, T-Mobile USA, U.S. Justice Department_
+_Context: AT&T, Al Franken, Federal Communications Commission's, Minnesota, T-Mobile USA, U.S. Justice Department_
 
 ### [A Moroccan military transport plane crashes into a mountain in the south of the country killing 78 of 81 on board. ](/news/2011/07/26/a-moroccan-military-transport-plane-crashes-into-a-mountain-in-the-south-of-the-country-killing-78-of-81-on-board.md)
 A Hercules military transport plane crashes in southern Morocco, killing 78 people, the Moroccan army says.

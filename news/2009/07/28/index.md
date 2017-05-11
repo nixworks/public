@@ -10,7 +10,7 @@ _Context: Borno State, Maiduguri, Nigeria, Yusuf Mohamed_
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
 ### [ The United States and China continue the first U.S.-China Strategic and Economic Dialogue. ](/news/2009/07/28/the-united-states-and-china-continue-the-first-u-s-china-strategic-and-economic-dialogue.md)
-_Context: China's, U.S.-China Strategic and Economic Dialogue, United States_
+_Context: People's Republic of China, U.S.-China Strategic and Economic Dialogue, United States_
 
 ### [ South African police clash with about 200 protesters at an informal settlement outside Johannesburg. ](/news/2009/07/28/south-african-police-clash-with-about-200-protesters-at-an-informal-settlement-outside-johannesburg.md)
 _Context: Johannesburg, South Africa_
@@ -31,7 +31,7 @@ Efforts to free two workers for aid agency Goal kidnapped in Darfur almost a mon
 Iran released 140 people detained in Iran&#039;s post-election turmoil on Tuesday and the supreme leader ordered the closure of a prison where human rights groups say jailed protesters were killed.
 
 ### [ Uyghur activist Rebiya Kadeer lands in Tokyo despite anger from China. ](/news/2009/07/28/uyghur-activist-rebiya-kadeer-lands-in-tokyo-despite-anger-from-china.md)
-_Context: China's, Rebiya Kadeer, Tokyo, Uyghur_
+_Context: People's Republic of China, Rebiya Kadeer, Tokyo, Uyghur_
 
 ### [ Protests outside Croke Park threaten to disrupt U2's 360 Tour Gothenburg dates and several football matches. ](/news/2009/07/28/protests-outside-croke-park-threaten-to-disrupt-u2-s-360deg-tour-gothenburg-dates-and-several-football-matches.md)
 White House Press Secretary Sean Spicer’s contentious relationship with the media may have finally reached its apex.

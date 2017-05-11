@@ -37,7 +37,7 @@ Parts of Co Clare are on high flood alert because of increasing water levels in 
 Relatives of the 104 people killed in a gas blast at a coal mine in northeast China have demanded answers from the owners.
 
 ### [ Chinese human rights activist Huang Qi, who campaigned for the parents of the children killed in schools in the 2008 Sichuan earthquake, is sentenced to three years in prison for "illegally holding state secrets". ](/news/2009/11/23/chinese-human-rights-activist-huang-qi-who-campaigned-for-the-parents-of-the-children-killed-in-schools-in-the-2008-sichuan-earthquake-is.md)
-_Context: China's, Huang Qi, deadly earthquake, state secrets_
+_Context: Huang Qi, People's Republic of China, deadly earthquake, state secrets_
 
 ## [Previous Day...](/news/2009/11/22/index.md)
 

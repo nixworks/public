@@ -46,7 +46,7 @@ _Context: Bangladesh, Kishoreganj District_
 At least 26 people killed as armed men stage attack in Pakistani garrison city.
 
 ### [ A further three people are sentenced to death for their involvement in the July riots in rmqi, Xinjiang, in northwestern China. ](/news/2009/12/4/a-further-three-people-are-sentenced-to-death-for-their-involvement-in-the-july-riots-in-urumqi-xinjiang-in-northwestern-china.md)
-_Context: China's, Urumqi, Xinjiang, riots_
+_Context: People's Republic of China, Urumqi, Xinjiang, riots_
 
 ### [ Militants in southern Thailand kill a Muslim family of three while a bomb attack injures two in Pattani Province. ](/news/2009/12/4/militants-in-southern-thailand-kill-a-muslim-family-of-three-while-a-bomb-attack-injures-two-in-pattani-province.md)
 Three people have been shot dead at their family home in Thailand.

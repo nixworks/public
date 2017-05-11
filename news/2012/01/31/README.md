@@ -31,7 +31,7 @@ _Context: 2011-2012 Syrian uprising, Arab League, Bashar al-Assad, President, Sy
 The UN watchdog says it is satisfied with series of safety tests carried out by Japan in wake of Fukushima meltdown.
 
 ### [China tightens control of monasteries and on main roads in Tibet following deadly protests in the region. ](/news/2012/01/31/china-tightens-control-of-monasteries-and-on-main-roads-in-tibet-following-deadly-protests-in-the-region.md)
-_Context: China's, Tibet Autonomous Region_
+_Context: People's Republic of China, Tibet Autonomous Region_
 
 ### [Voters in the US state of Florida go to the polls for a Republican primary with Mitt Romney projected to win. ](/news/2012/01/31/voters-in-the-us-state-of-florida-go-to-the-polls-for-a-republican-primary-with-mitt-romney-projected-to-win.md)
 The latest Quinnipiac poll show former Massachusetts governor Mitt Romney surging in the final days before the Florida Republican presidential primary, report Amy Gardner, Philip Rucker and William Br...

@@ -19,7 +19,7 @@ _Context: Eastern U.S., nor'easter, state of emergency_
 _Context: LOT Polish Airlines Flight 016, Warsaw Chopin Airport_
 
 ### [At least seven people are killed and 200 injured following an explosion caused by two trucks carrying explosives crashing in Fuquan City in China's Guizhou Province. ](/news/2011/11/1/at-least-seven-people-are-killed-and-200-injured-following-an-explosion-caused-by-two-trucks-carrying-explosives-crashing-in-fuquan-city-in.md)
-_Context: China's, Fuquan City, Guizhou province_
+_Context: Fuquan City, Guizhou province, People's Republic of China_
 
 ### [A boat carrying 70 asylum seekers en route to Australia sinks off the coast of Java in Indonesia with eight confirmed deaths and fifteen people missing. ](/news/2011/11/1/a-boat-carrying-70-asylum-seekers-en-route-to-australia-sinks-off-the-coast-of-java-in-indonesia-with-eight-confirmed-deaths-and-fifteen-peo.md)
 _Context: Australia, Indonesia, Java, asylum seeker_

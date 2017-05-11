@@ -10,7 +10,7 @@ BAGA, Nigeria (AP) — Fighting between Nigeria&#39;s military and Islamic extre
 Mohamed Ibrahim Rageh had fled Mogadishu, the Somali capital, in 2009 after a spate of killings, but returned to continue his career.
 
 ### [American actress Reese Witherspoon is arrested in Atlanta, Georgia, on charges of disorderly conduct. ](/news/2013/04/21/american-actress-reese-witherspoon-is-arrested-in-atlanta-georgia-on-charges-of-disorderly-conduct.md)
-_Context: American, Atlanta, Georgia, Reese Witherspoon_
+_Context: Americans, Atlanta, Georgia, Reese Witherspoon_
 
 ### [Australian rock singer Chrissy Amphlett (Divinyls - "I Touch Myself"), dies at the age of 53 from breast cancer and multiple sclerosis. ](/news/2013/04/21/australian-rock-singer-chrissy-amphlett-divinyls-a-i-touch-myself-dies-at-the-age-of-53-from-breast-cancer-and-multiple-sclerosis.md)
 Former Divinyls singer Chrissy Amphlett has died aged 53 after suffering from breast cancer and multiple sclerosis.

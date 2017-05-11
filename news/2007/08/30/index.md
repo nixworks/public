@@ -40,7 +40,7 @@ _Context: Al-Aqsa Martyrs' Brigades, Fatah, Gaza Strip, Israel, Sderot, rocket a
 _Context: 'Ndrangheta, Calabria, Italian_
 
 ### [ Cao Gangchuan, the Defense Minister of People's Republic of China and Masahiko Komura, Defense Minister of Japan. meet and agree to strengthen exchanges. ](/news/2007/08/30/cao-gangchuan-the-defense-minister-of-people-s-republic-of-china-and-masahiko-komura-defense-minister-of-japan-meet-and-agree-to-strengt.md)
-_Context: Cao Gangchuan, China's, Japan, Masahiko Komura_
+_Context: Cao Gangchuan, Japan, Masahiko Komura, People's Republic of China_
 
 ### [ The Chinese Finance Minister, Jin Renqing, resigns due to "personal reasons". ](/news/2007/08/30/the-chinese-finance-minister-jin-renqing-resigns-due-to-personal-reasons.md)
 _Context: China, Jin Renqing_

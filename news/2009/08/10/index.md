@@ -46,7 +46,7 @@ _Context: Baghdad, Iraq, Mosul_
 South America&#039;s twelve nations on Saturday pledged to respect regional vaccine price ceilings to prevent businesses from exploiting fear of the A/H1N1 flu pandemic, Ecuador&#039;s Health Minister Caroline Chang said.
 
 ### [ Two Namibians and a Chinese who are suspected in a corruption investigation involving a firm linked to the son of China's President Hu Jintao appear in a Windhoek court asking to be released on bail. ](/news/2009/08/10/two-namibians-and-a-chinese-who-are-suspected-in-a-corruption-investigation-involving-a-firm-linked-to-the-son-of-china-s-president-hu-jint.md)
-_Context: China's, Chinese President, Hu Jintao, Namibia, Windhoek_
+_Context: Chinese President, Hu Jintao, Namibia, People's Republic of China, Windhoek_
 
 ## [Previous Day...](/news/2009/08/9/index.md)
 

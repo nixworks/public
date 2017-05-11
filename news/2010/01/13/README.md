@@ -4,7 +4,7 @@
 _Context: Cape Town, South Africa_
 
 ### [Mercedes-Benz's 2009 sales rise 77% in the People's Republic of China. ](/news/2010/01/13/mercedes-benz-s-2009-sales-rise-77-in-the-people-s-republic-of-china.md)
-_Context: China's, Mercedes-Benz_
+_Context: Mercedes-Benz, People's Republic of China_
 
 ### [The United States trade deficit rose 9.7% to 36.4 billion US dollars in November. ](/news/2010/01/13/the-united-states-trade-deficit-rose-9-7-to-36-4-billion-us-dollars-in-november.md)
 _Context: U.S. dollar, United States trade deficit, billion_

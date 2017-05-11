@@ -22,7 +22,7 @@ North Korea says it will accept all South Korean delegations wishing to pay resp
 _Context: Czech, Vaclav Havel_
 
 ### [A Chinese court sentences dissident Chen Wei to nine years imprisonment for "inciting subversion of state power", after he published essays online calling for multiparty democracy. ](/news/2011/12/23/a-chinese-court-sentences-dissident-chen-wei-to-nine-years-imprisonment-for-inciting-subversion-of-state-power-after-he-published-essays.md)
-_Context: Chen Wei, China's, democratic progress, multiparty_
+_Context: Chen Wei, People's Republic of China, democratic progress, multiparty_
 
 ### [Police fire teargas in the southern Chinese town of Haimen, and state media air confessions from two detained activists amid a protest against a proposed new power plant. ](/news/2011/12/23/police-fire-teargas-in-the-southern-chinese-town-of-haimen-and-state-media-air-confessions-from-two-detained-activists-amid-a-protest-again.md)
 Riot police fired teargas to break up a protest against a planned power station in southern China on Friday and state media showed confessions by two detained activists in an obvious bid to get protesters off the streets.

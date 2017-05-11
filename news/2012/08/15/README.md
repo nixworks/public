@@ -16,7 +16,7 @@ Rev. Moon Sun-myung, the founder of the Unification Church, is gravely ill, acco
 Two people on a bus used by the US band Baroness were injured when it fell 30ft from a viaduct near Bath, their agents confirm.
 
 ### [Two Japanese cabinet ministers, Jin Matsubara and Yuichiro Hata, visit the controversial Yasukuni Shrine amid territorial disputes with both the People's Republic of China and South Korea. ](/news/2012/08/15/two-japanese-cabinet-ministers-jin-matsubara-and-yuichiro-hata-visit-the-controversial-yasukuni-shrine-amid-territorial-disputes-with-both.md)
-_Context: China's, Japanese, Jin Matsubara, South Korea, Yasukuni Shrine, Yuichiro Hata_
+_Context: Japanese, Jin Matsubara, People's Republic of China, South Korea, Yasukuni Shrine, Yuichiro Hata_
 
 ### [The High Court of Australia upholds legislation providing for plain packaging of cigarettes. ](/news/2012/08/15/the-high-court-of-australia-upholds-legislation-providing-for-plain-packaging-of-cigarettes.md)
 Australia&amp;#39;s High Court has upheld the world&amp;#39;s toughest laws on cigarette marketing, dismissing a legal challenge from tobacco companies in a major test case. Tobacco giants British American Tobacco, Britain&amp;#39;s Imperial Tobacco, Philip Morris and Japan Tobacco challenged the laws passed by parliament to ban logos and branding appearing on cigarette packages in Australia&amp;#39;s High Court. They said the new rules were unconstitutional because they infringed on their intellectual property rights. The seven judges did not agree and so from December 1 this year all cigarettes and tobacco products must be sold in plain olive green packets without branding. The packets will carry graphic health warnings. 

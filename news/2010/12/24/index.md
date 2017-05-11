@@ -61,7 +61,7 @@ _Context: Christmas tree, North Korea, South Korea_
 The city will celebrate Christmas and New Year under the shadow of terror . Mumbai police officials issued a high terror alert for the city on Thursday and released a picture of one of the four suspected Lashkar-e-Taiba (LeT) terrorists who have reportedly sneaked into Mumbai to cause destruction on a mega scale.
 
 ### [New laws restricting car purchases in the Chinese capital Beijing come into force, in an attempt to combat serious traffic problems. ](/news/2010/12/24/new-laws-restricting-car-purchases-in-the-chinese-capital-beijing-come-into-force-in-an-attempt-to-combat-serious-traffic-problems.md)
-_Context: Beijing, China's_
+_Context: Beijing, People's Republic of China_
 
 ### [Thongsing Thammavong is named as the new Prime Minister of Laos, a day after the unexpected resignation of Bouasone Bouphavanh. ](/news/2010/12/24/thongsing-thammavong-is-named-as-the-new-prime-minister-of-laos-a-day-after-the-unexpected-resignation-of-bouasone-bouphavanh.md)
 Laos approves a new prime minister after the surprise resignation of Bouasone Bouphavanh, citing &quot;family issues&quot;.

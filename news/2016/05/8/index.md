@@ -13,7 +13,7 @@ Turkish shelling killed 55 Islamic State insurgents in northern Syria on Saturda
 KABUL, Afghanistan - Two buses and a fuel tanker collided Sunday on a major highway in Afghanistan, killing 52 people, officials said.
 
 ### [At least 41 people are missing in Taining County of China's Fujian province after a landslide hits a construction workers dormitory. ](/news/2016/05/8/at-least-41-people-are-missing-in-taining-county-of-china-s-fujian-province-after-a-landslide-hits-a-construction-workers-dormitory.md)
-_Context: China's, Fujian, Taining County_
+_Context: Fujian, People's Republic of China, Taining County_
 
 ### [ North Korean leader Kim Jong-un rules out a nuclear first strike unless North Korea's sovereignty is violated. ](/news/2016/05/8/north-korean-leader-kim-jong-un-rules-out-a-nuclear-first-strike-unless-north-korea-s-sovereignty-is-violated.md)
 _Context: Kim Jong-un, North Korea, first strike_

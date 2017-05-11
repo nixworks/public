@@ -31,7 +31,7 @@ _Context: Australia, Guantanamo Bay detention camp, Nauru, United States, asylum
 The mayor of the Japanese city of Nagasaki died early on Wednesday after being gunned down by a suspected gangster, stunning a nation where shootings are extremely rare.
 
 ### [ The People's Republic of China begins a new service of high-speed trains capable of reaching speeds of 200km/h (124 mph). ](/news/2007/04/18/the-people-s-republic-of-china-begins-a-new-service-of-high-speed-trains-capable-of-reaching-speeds-of-200km-h-124-mph.md)
-_Context: China's, high-speed rail_
+_Context: People's Republic of China, high-speed rail_
 
 ### [ Thirty-two steel workers are killed and two more injured in China after a ladle full of liquid steel failed, engulfing an adjacent room full of workers. ](/news/2007/04/18/thirty-two-steel-workers-are-killed-and-two-more-injured-in-china-after-a-ladle-full-of-liquid-steel-failed-engulfing-an-adjacent-room-ful.md)
 _Context: China, ladle_

@@ -37,7 +37,7 @@ _Context: Supreme Court of the United States, freedom of expression, pharmaceuti
 An earthquake with a preliminary magnitude of 6.7 struck off the coast of Iwate prefecture in northeast Japan Thursday, one of the areas devastated by the March 11 quake and tsunami, but there were no immediate reports of damage or injuries.
 
 ### [The fourth tropical storm of the 2011 Pacific typhoon season, Tropical Storm Haima (Egay), makes landfall in southern Guangdong Province in the People's Republic of China. ](/news/2011/06/23/the-fourth-tropical-storm-of-the-2011-pacific-typhoon-season-tropical-storm-haima-egay-makes-landfall-in-southern-guangdong-province-in.md)
-_Context: 2011 Pacific typhoon season, China's, Guangdong province, tropical storm_
+_Context: 2011 Pacific typhoon season, Guangdong province, People's Republic of China, tropical storm_
 
 ### [2011 Missouri River floods:U.S. nuclear regulators say two  nuclear power plants at the Fort Calhoun plant, about 20 miles north of Omaha, Nebraska, have protected critical equipment from the rising waters of the Missouri River even though flooding has already reached the grounds of one of them. ](/news/2011/06/23/2011-missouri-river-floods-pu-s-nuclear-regulators-say-two-nuclear-power-plants-at-the-fort-calhoun-plant-about-20-miles-north-of-omaha.md)
 U.S. nuclear regulators say two Nebraska nuclear power plants have protected critical equipment from the rising waters of the Missouri River even though flooding has reached the grounds of one of them.

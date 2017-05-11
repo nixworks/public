@@ -10,7 +10,7 @@ _Context: Iraq, Iraqi insurgency (post-U.S. withdrawal)_
 Father of Ibragim Todashev, who died during questioning over links to alleged Boston Marathon bombers, demands probe.
 
 ### [Maroon 5 frontman Adam Levine makes an "unpatriotic" comment on television, prompting calls for him to be removed to a "Communist country" or pursued by secretive anti-terrorism hit squads. Levine responds by tweeting dictionary definitions of words such as "joke", "humourless" and "lighthearted" but is later forced to apologise for his indiscretion. ](/news/2013/05/30/maroon-5-frontman-adam-levine-makes-an-unpatriotic-comment-on-television-prompting-calls-for-him-to-be-removed-to-a-communist-country-o.md)
-_Context: Adam Levine, Communists, Maroon 5_
+_Context: Adam Levine, Maroon 5, communism_
 
 ### [It is announced that Internet sensation Grumpy Cat will star in a feature-length movie. ](/news/2013/05/30/it-is-announced-that-internet-sensation-grumpy-cat-will-star-in-a-feature-length-movie.md)
 _Context: Grumpy Cat_

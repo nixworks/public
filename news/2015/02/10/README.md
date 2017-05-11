@@ -7,7 +7,7 @@ _Context: Kramatorsk, Ukrainian, War in Donbass_
 Calling the destructive cyberattack on Sony Pictures &quot;a game changer,&quot; a top White House official on Tuesday announced a new intelligence unit to coordinate analysis of cyberthreats, modeled on similar U.S. government efforts to fight terrorism.
 
 ### [The United States confirms the death of ISIL hostage Kayla Mueller. ](/news/2015/02/10/the-united-states-confirms-the-death-of-isil-hostage-kayla-mueller.md)
-_Context: ISIL, Kayla Mueller, United States_
+_Context: Islamic State of Iraq and the Levant, Kayla Mueller, United States_
 
 ### [''NBC Nightly News'' suspends American newsreader Brian Williams from broadcasting for six months for exaggerating a story about his personal experiences on a helicopter during the 2003 invasion of Iraq. ](/news/2015/02/10/nbc-nightly-news-suspends-american-newsreader-brian-williams-from-broadcasting-for-six-months-for-exaggerating-a-story-about-his-persona.md)
 _Context: 2003 invasion of Iraq, Brian Williams, NBC Nightly News, helicopter_
@@ -22,7 +22,7 @@ Australia will participate in Eurovision 2015! Read all the latest news about Eu
 _Context: Apple Inc., U.S. dollar, market capitalization_
 
 ### [Wang Yu-chi resigns as Taiwan's Minister of the Mainland Affairs Council responsible for maintaining relations with the People's Republic of China. ](/news/2015/02/10/wang-yu-chi-resigns-as-taiwan-s-minister-of-the-mainland-affairs-council-responsible-for-maintaining-relations-with-the-people-s-republic-of.md)
-_Context: China's, Mainland Affairs Council, Taiwan, Wang Yu-chi_
+_Context: Mainland Affairs Council, People's Republic of China, Taiwan, Wang Yu-chi_
 
 ### [The Federal Court of Malaysia rejects opposition leader Anwar Ibrahim's appeal against sodomy charges meaning he will start serving a five-year sentence. ](/news/2015/02/10/the-federal-court-of-malaysia-rejects-opposition-leader-anwar-ibrahim-s-appeal-against-sodomy-charges-meaning-he-will-start-serving-a-five-y.md)
 _Context: Anwar Ibrahim, Federal Court of Malaysia, sodomy_

@@ -19,7 +19,7 @@ _Context: Korean Demilitarized Zone, North Korea, South Korea, dam_
 Police in Tehran shut offices of Mehdi Karroubi, prominent opposition politician.
 
 ### [ A new series of hypodermic needle stabbings occur in rmqi, northwestern China. ](/news/2009/09/9/a-new-series-of-hypodermic-needle-stabbings-occur-in-urumqi-northwestern-china.md)
-_Context: China's, Urumqi, hypodermic needle, stabbings_
+_Context: People's Republic of China, Urumqi, hypodermic needle, stabbings_
 
 ### [ The son of former Filipino President Corazon Aquino, Benigno Aquino III, announces his intention to run for the presidency. ](/news/2009/09/9/the-son-of-former-filipino-president-corazon-aquino-benigno-aquino-iii-announces-his-intention-to-run-for-the-presidency.md)
 _Context: Benigno Aquino III, Corazon Aquino, Philippine President, Philippines_

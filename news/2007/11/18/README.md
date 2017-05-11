@@ -13,7 +13,7 @@ _Context: Bangladesh, Rescue, cyclone Sidr_
 _Context: 2007 Burmese anti-government protests, ASEAN, Burma, Ong Keng Yong, Secretary General_
 
 ### [ Hong Kong voters go to the polls in District Council elections, with pro-Beijing parties expected to recover. ](/news/2007/11/18/hong-kong-voters-go-to-the-polls-in-district-council-elections-with-pro-beijing-parties-expected-to-recover.md)
-_Context: China's, District Council, Hong Kong, elections, parties_
+_Context: District Council, Hong Kong, People's Republic of China, elections, parties_
 
 ### [ 2007 Pakistani state of emergency: Hina Jilani leads a protest in London to ask for the release of all political prisoners and to vocalize the call for President Pervez Musharraf's resignation. [http://news.bbc.co.uk/2/hi/uk_news/7100762.stm (BBC)] United States Deputy Secretary of State John Negroponte says President Pervez Musharraf should lift the state of emergency and free political opponents. [http://news.bbc.co.uk/2/hi/south_asia/7100322.stm (BBC)] One person dies in a bomb explosion on a railway track near Peshawar targeted at a passenger train.date=December 2007](/news/2007/11/18/2007-pakistani-state-of-emergency-p-hina-jilani-leads-a-protest-in-london-to-ask-for-the-release-of-all-political-prisoners-and-to-vocalize.md)
 _Context: 2007 Pakistani state of emergency, Hina Jilani, John Negroponte, London, Pervez Musharraf, Peshawar, President, US Deputy Secretary of State, United States, bomb, explosion, passenger train, political opponent, railway track, state of emergency_

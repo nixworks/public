@@ -7,7 +7,7 @@ _Context: Islamist, Mogadishu, Somalia, capital, death toll, militia, warlord_
 DNA tests confirmed that a bear bagged by a hunter in Canada&#39;s Northwest Territory is half grizzly and half polar bear, a mix that some experts had never expected to find in the wild.
 
 ### [ Baidu Baike, a collaborative online encyclopedia, is launched in People's Republic of China by Baidu.com, modelled on Wikipedia but heavily self censored. Wikipedia is largely inaccessible without a proxy in China. ](/news/2006/05/11/baidu-baike-a-collaborative-online-encyclopedia-is-launched-in-people-s-republic-of-china-by-baidu-com-modelled-on-wikipedia-but-heavily.md)
-_Context: Baidu Baike, Baidu.com, China's, Wikipedia, censorship, encyclopedia, proxy, unblocks Wikipedia in China_
+_Context: Baidu Baike, Baidu.com, People's Republic of China, Wikipedia, censorship, encyclopedia, proxy, unblocks Wikipedia in China_
 
 ### [ The United States National Security Agency is reported to operate "the largest database ever assembled in the world", containing a record of all calls (domestic and international) placed through AT&T, Verizon and BellSouth. Qwest Communications refused to provide customer records, citing the need for a warrant. ](/news/2006/05/11/the-united-states-national-security-agency-is-reported-to-operate-the-largest-database-ever-assembled-in-the-world-containing-a-record-o.md)
 _Context: AT&T, BellSouth Corporation, NSA call database, National Security Agency, Qwest Communications, United States, Verizon, warrant_

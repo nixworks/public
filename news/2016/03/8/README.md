@@ -10,7 +10,7 @@ A West Point graduate from Lubbock died after he was stabbed while on a trip to 
 The swoop by the army and security forces came after 17 suspects were arrested earlier in a manhunt following Monday&#x27;s dawn attacks in the border town of Ben Guerdane, which left dozens of jihadists dead. &quot;As part of the continuing operation at Ben Guerdane, security forces and the army were
 
 ### [The United States military says ISIL's so-called minister-of-war, Abu Omar al-Shishani, ne Tarkhan Tayumurazovich Batirashvili, appears to have been killed in a U.S. air strike near the town of Al-Shaddadi in Syria. ](/news/2016/03/8/the-united-states-military-says-isil-s-so-called-minister-of-war-abu-omar-al-shishani-na-c-tarkhan-tayumurazovich-batirashvili-appears-to.md)
-_Context: Al-Shaddadah, Defense Department, ISIL, Military intervention against ISIL, Omar al-Shishani, Syria, airstrike_
+_Context: Al-Shaddadah, Defense Department, Islamic State of Iraq and the Levant, Military intervention against ISIL, Omar al-Shishani, Syria, airstrike_
 
 ### [International Women's Day is celebrated. The International Women's Day theme for 2016 is "Planet 50-50 by 2030: Step It Up for Gender Equality". ](/news/2016/03/8/international-women-s-day-is-celebrated-the-international-womenas-day-theme-for-2016-is-planet-50-50-by-2030-step-it-up-for-gender-equa.md)
 Celebrating women from the Philippines to Afghanistan to Poland and beyond.

@@ -70,7 +70,7 @@ Researchers say imprints left by the large bird, which lived in Peru more than 3
 _Context: NASA, U.S. Congressional_
 
 ### [China launches the Chang'e 2 lunar probe from Sichuan. ](/news/2010/10/1/china-launches-the-chang-e-2-lunar-probe-from-sichuan.md)
-_Context: Chang'e 2, China's, Sichuan_
+_Context: Chang'e 2, People's Republic of China, Sichuan_
 
 ## [Previous Day...](/news/2010/09/30/index.md)
 

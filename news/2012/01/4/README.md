@@ -7,7 +7,7 @@ _Context: Boko Haram, Maiduguri, Nigeria_
 Two more people died and one was missing Monday following flooding in the southeastern Brazilian state of Minas Gerais that brought the total death toll to four.
 
 ### [At least 16 people die after a bus runs off a bridge in China's Guizhou province. ](/news/2012/01/4/at-least-16-people-die-after-a-bus-runs-off-a-bridge-in-china-s-guizhou-province.md)
-_Context: China's, Guizhou province_
+_Context: Guizhou province, People's Republic of China_
 
 ### [The China Air Transport Association advises that Chinese airlines will not pay the carbon costs under the European Union's Emissions Trading Scheme. ](/news/2012/01/4/the-china-air-transport-association-advises-that-chinese-airlines-will-not-pay-the-carbon-costs-under-the-european-union-s-emissions-trading.md)
 The European Commission said airlines that refused to participate in its carbon trading system could be banned from European airports.

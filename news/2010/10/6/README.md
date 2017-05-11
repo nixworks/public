@@ -34,7 +34,7 @@ _Context: Hanoi, My Dinh National Stadium_
 Military sources in Tajikistan say at least 25 soldiers have been killed in a helicopter crash in the east of the country.
 
 ### [Floods leave 1 dead, 3 missing, 33,000 evacuated in the Chinese province of Hainan. ](/news/2010/10/6/floods-leave-1-dead-3-missing-33-000-evacuated-in-the-chinese-province-of-hainan.md)
-_Context: China's, Hainan_
+_Context: Hainan, People's Republic of China_
 
 ### [At least 75 people are killed in flash floods in eastern Indonesia. ](/news/2010/10/6/at-least-75-people-are-killed-in-flash-floods-in-eastern-indonesia.md)
 At least 75 people have been killed and many are missing after flash floods and mudslides hit mountainous villages.

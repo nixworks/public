@@ -13,7 +13,7 @@ Three more NATO service members were killed in attacks in Afghanistan on Saturda
 _Context: 2011 Yemeni protests, Sana'a_
 
 ### [China raises its bank reserves requirements as an anti-inflation move, an increase of 50 basis points (half of a percent) effective April 21. ](/news/2011/04/17/china-raises-its-bank-reserves-requirements-as-an-anti-inflation-move-an-increase-of-50-basis-points-half-of-a-percent-effective-april-21.md)
-_Context: China's, inflation_
+_Context: People's Republic of China, inflation_
 
 ### [Oman is to spend 1 billion rials in an attempt to prevent further anti-government protests. ](/news/2011/04/17/oman-is-to-spend-1-billion-rials-in-an-attempt-to-prevent-further-anti-government-protests.md)
 _Context: Oman, anti-government protests, rials_
@@ -28,7 +28,7 @@ _Context: Mid-April 2011 Southern United States tornado outbreak, North Carolina
 At least 12 people were killed and 27 injured as hailstones, lashing rain and gales pounded southern China&#039;s Guangdong province on Sunday, state media said.
 
 ### [Police in China detain dozens of underground Protestant church followers in Beijing. ](/news/2011/04/17/police-in-china-detain-dozens-of-underground-protestant-church-followers-in-beijing.md)
-_Context: Beijing, China's, Protestant_
+_Context: Beijing, People's Republic of China, Protestant_
 
 ### [The National Coalition Party wins the Finnish parliamentary election (44 seats), with the True Finns, third-place finishers, emerging as a new major political party (39 seats). Biggest losers are the Centre Party (36 seats); coalition talks will probably be held between the Coalition, the True Finns and the Social Democrats (42 seats).](/news/2011/04/17/the-national-coalition-party-wins-the-finnish-parliamentary-election-44-seats-with-the-true-finns-third-place-finishers-emerging-as-a-n.md)
 _Context: Centre Party, Finland, National Coalition Party, Social Democratic Party, True Finns, parliamentary election_

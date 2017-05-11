@@ -37,7 +37,7 @@ _Context: 1970s, Baader, Brigitte Mohnhaupt, German, Meinhof, Red Army Faction, 
 _Context: 2007 Guinean general strike, Conakry, Eugene Camara, Guinea, Lansana Conte, President of Guinea, Prime Minister of Guinea, general strike, state of emergency, unionize_
 
 ### [ China's trade surplus increases by 67%, increasing pressure on the government to float the yuan. ](/news/2007/02/12/china-s-trade-surplus-increases-by-67-increasing-pressure-on-the-government-to-float-the-yuan.md)
-_Context: China's, float, government, trade deficit, yuan_
+_Context: People's Republic of China, float, government, trade deficit, yuan_
 
 ### [ The Sea Shepherd Conservation Society claims that one of its ships has collided with a Japanese whaling vessel in the Ross Sea, leading to the Japanese vessel lodging a distress call. ](/news/2007/02/12/the-sea-shepherd-conservation-society-claims-that-one-of-its-ships-has-collided-with-a-japanese-whaling-vessel-in-the-ross-sea-leading-to.md)
 _Context: Japan, Ross Sea, Sea Shepherd, distress call, whaling_
@@ -46,7 +46,7 @@ _Context: Japan, Ross Sea, Sea Shepherd, distress call, whaling_
 _Context:  Insurgency in Somalia, Mogadishu, Mortar_
 
 ### [ Four state-owned enterprises of the Republic of China (Taiwan)--Chunghwa Post, the Chinese Petroleum Corporation, the China Shipbuilding Corporation, and the Central Bank of China--change their names to remove "China" from their titles at the request of President Chen Shui-bian. The decision is condemned by the Pan-Blue Coalition, the United States and People's Republic of China as a move towards Taiwan independence. ](/news/2007/02/12/four-state-owned-enterprises-of-the-republic-of-china-taiwan-achunghwa-post-the-chinese-petroleum-corporation-the-china-shipbuilding-c.md)
-_Context: Central Bank of China, Chen Shui-bian, China, China Shipbuilding Corporation, China's, Chinese Petroleum Corporation, Chunghwa Post, President of Taiwan, Taiwan, Taiwan, United States, coalition allies, independence_
+_Context: Central Bank of China, Chen Shui-bian, China, China Shipbuilding Corporation, Chinese Petroleum Corporation, Chunghwa Post, People's Republic of China, President of Taiwan, Taiwan, Taiwan, United States, coalition allies, independence_
 
 ### [ Israel has carried out a successful test of its Arrow missile, the defence ministry says. ](/news/2007/02/12/israel-has-carried-out-a-successful-test-of-its-arrow-missile-the-defence-ministry-says.md)
 _Context: Arrow missile, Israel, Israeli security guard_

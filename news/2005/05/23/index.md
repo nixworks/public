@@ -22,7 +22,7 @@ _Context: BBC, strike_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ The death toll of the bird flu in Vietnam rises to 18. China informs the United Nations Food and Agriculture Organization that it has sealed off the Qinghai province to stop the spread of bird flu and vaccinated farmbirds. ](/news/2005/05/23/the-death-toll-of-the-bird-flu-in-vietnam-rises-to-18-china-informs-the-united-nations-food-and-agriculture-organization-that-it-has-seale.md)
-_Context: Avian flu virus, China's, Food and Agriculture Organization, Qinghai, Vietnam, vaccination_
+_Context: Avian flu virus, Food and Agriculture Organization, People's Republic of China, Qinghai, Vietnam, vaccination_
 
 ### [ The Walt Disney Internet Group launches the Virtual Magic Kingdom (VMK) in beta testing, scheduled to open to the public in July](/news/2005/05/23/the-walt-disney-internet-group-launches-the-virtual-magic-kingdom-vmk-in-beta-testing-scheduled-to-open-to-the-public-in-july.md)
 _Context: Virtual Magic Kingdom, Walt Disney Internet Group_

@@ -37,10 +37,10 @@ _Context: Benigno Aquino III, Philippine President, Taiwan_
 _Context: Iran, Senegal, diplomatic relations_
 
 ### [The People's Republic of China refuses to let the United Nations Security Council publish a report on North Korea's efforts to avoid sanctions on its nuclear program. ](/news/2011/02/23/the-people-s-republic-of-china-refuses-to-let-the-united-nations-security-council-publish-a-report-on-north-korea-s-efforts-to-avoid-sanctio.md)
-_Context: China's, North Korea, North Korea and weapons of mass destruction, United Nations Security Council, sanctions_
+_Context: North Korea, North Korea and weapons of mass destruction, People's Republic of China, United Nations Security Council, sanctions_
 
 ### [Four men from Xinjiang in western China are to be executed following convictions for terrorism in the region last year. ](/news/2011/02/23/four-men-from-xinjiang-in-western-china-are-to-be-executed-following-convictions-for-terrorism-in-the-region-last-year.md)
-_Context: China's, Xinjiang_
+_Context: People's Republic of China, Xinjiang_
 
 ### [Thai police seize six tiger cubs at the house of a suspected weapons dealer. ](/news/2011/02/23/thai-police-seize-six-tiger-cubs-at-the-house-of-a-suspected-weapons-dealer.md)
 _Context: Thailand, tiger_

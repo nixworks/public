@@ -37,7 +37,7 @@ _Context: Italian, Mortar, Sri Lanka, United States, ambassador_
 _Context: Julian Moti, Martin Aini, Michael Somare, Minister for Defence, Prime Minister_
 
 ### [ Drought in southwestern China is threatening the drinking water supply of 1.5 million people. ](/news/2007/02/27/drought-in-southwestern-china-is-threatening-the-drinking-water-supply-of-1-5-million-people.md)
-_Context: China's, drought, water_
+_Context: People's Republic of China, drought, water_
 
 ### [ A hail storm damages the Space Shuttle ''Atlantis'', delaying the STS-117 launch originally scheduled for March 15. ](/news/2007/02/27/a-hail-storm-damages-the-space-shuttle-atlantis-delaying-the-sts-117-launch-originally-scheduled-for-march-15.md)
 _Context: March 15, STS-117, Space Shuttle, Space Shuttle Atlantis, hail_

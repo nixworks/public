@@ -4,7 +4,7 @@
 _Context: Syria_
 
 ### [Chinese police beat protesters and fire tear gas after demonstrators storm government buildings in Haimen (70km NNW from Shanghai), in protest against a local 'polluting' coal-powered electricity generation plant. ](/news/2011/12/20/chinese-police-beat-protesters-and-fire-tear-gas-after-demonstrators-storm-government-buildings-in-haimen-70km-nnw-from-shanghai-in-prote.md)
-_Context: China's, Haimen, Shanghai, coal-fired power station, tear gas_
+_Context: Haimen, People's Republic of China, Shanghai, coal-fired power station, tear gas_
 
 ### [Indian Foreign Minister S. M. Krishna condemns a court case in Russia that could see the ''Bhagavad Gita As It Is'' holy book banned there. ](/news/2011/12/20/indian-foreign-minister-s-m-krishna-condemns-a-court-case-in-russia-that-could-see-the-bhagavad-gita-as-it-is-holy-book-banned-there.md)
 _Context: Bhagavad Gita As It Is, India, Russia, SM Krishna, attempt to ban_
@@ -25,7 +25,7 @@ Former Daily Mirror editor Piers Morgan tells the Leveson Inquiry he does not be
 Son and assumed heir of Kim Jong-il pays respects as South Korea sends condolences, despite tensions.
 
 ### [Villagers rebelling in village of Wukan in southern China, say they will hold talks with the government and demand concessions in return for calling off a march. ](/news/2011/12/20/villagers-rebelling-in-village-of-wukan-in-southern-china-say-they-will-hold-talks-with-the-government-and-demand-concessions-in-return-for.md)
-_Context: China's, rebellion by villagers in Wukan_
+_Context: People's Republic of China, rebellion by villagers in Wukan_
 
 ### [Joseph Kabila is sworn in as President of the Democratic Republic of the Congo, despite the presidency being contested by opposition leader Etienne Tshisekedi. ](/news/2011/12/20/joseph-kabila-is-sworn-in-as-president-of-the-democratic-republic-of-the-congo-despite-the-presidency-being-contested-by-opposition-leader.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

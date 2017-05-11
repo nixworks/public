@@ -46,7 +46,7 @@ The Queen is to make a state visit to the Irish Republic this year - the first b
 A grand jury has charged&nbsp;him with dozens of new counts for his alleged role in the Arizona shooting.
 
 ### [China is to boost defence spending by 12.7% this year. ](/news/2011/03/4/china-is-to-boost-defence-spending-by-12-7-this-year.md)
-_Context: China's_
+_Context: People's Republic of China_
 
 ### [Japan's Prime Minister Naoto Kan apologises over a fundraising scandal. ](/news/2011/03/4/japan-s-prime-minister-naoto-kan-apologises-over-a-fundraising-scandal.md)
 _Context: Japan, Naoto Kan_

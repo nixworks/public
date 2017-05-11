@@ -28,7 +28,7 @@ Iranian opposition leader Mir-Hossein Mousavi urged his supporters to continue t
 At least 72 people are now known to have died in a bombing in the Iraqi city of Kirkuk yesterday.
 
 ### [ At least sixteen people are killed in a factory blast in Fengyang county, Anhui, China. ](/news/2009/06/21/at-least-sixteen-people-are-killed-in-a-factory-blast-in-fengyang-county-anhui-china.md)
-_Context: Anhui, China's_
+_Context: Anhui, People's Republic of China_
 
 ### [ An open top sightseeing bus with 40 tourists on board is stoned in Belfast. ](/news/2009/06/21/an-open-top-sightseeing-bus-with-40-tourists-on-board-is-stoned-in-belfast.md)
 _Context: Belfast_

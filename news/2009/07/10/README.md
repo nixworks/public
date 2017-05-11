@@ -7,7 +7,7 @@ _Context: Recep Tayyip Erdogan, Turkey, genocide, riots_
 _Context: Aung San Suu Kyi, National League for Democracy_
 
 ### [ More than 400,000 people are evacuated following an earthquake in Yunnan, China. ](/news/2009/07/10/more-than-400-000-people-are-evacuated-following-an-earthquake-in-yunnan-china.md)
-_Context: China's, Yunnan, earthquake_
+_Context: People's Republic of China, Yunnan, earthquake_
 
 ### [ One person is killed by a bull, the first such fatality in 14 years, during the Running of the Bulls in Pamplona, Spain. ](/news/2009/07/10/one-person-is-killed-by-a-bull-the-first-such-fatality-in-14-years-during-the-running-of-the-bulls-in-pamplona-spain.md)
 _Context: Pamplona, Running of the Bulls, Spain_

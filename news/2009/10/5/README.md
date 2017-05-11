@@ -22,7 +22,7 @@ An explosion apparently caused by a suicide bomber in the lobby of the World Foo
 Roberto Micheletti cancels decree limiting freedom of speech, assembly and movement.
 
 ### [ United States President Barack Obama delays a meeting with the Dalai Lama until after a visit to China. ](/news/2009/10/5/united-states-president-barack-obama-delays-a-meeting-with-the-dalai-lama-until-after-a-visit-to-china.md)
-_Context: 14th Dalai Lama, China's, Obama, U.S. President, United States_
+_Context: 14th Dalai Lama, Obama, People's Republic of China, U.S. President, United States_
 
 ### [ The Deputy Chief Executive of France Tlcom, Louis-Pierre Wene, resigns over a series of suicides at the company. ](/news/2009/10/5/the-deputy-chief-executive-of-france-telecom-louis-pierre-wene-resigns-over-a-series-of-suicides-at-the-company.md)
 _Context: France Tlcom, suicide_

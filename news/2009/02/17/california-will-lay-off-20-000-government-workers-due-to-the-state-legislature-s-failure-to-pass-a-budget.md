@@ -11,7 +11,7 @@ California, which is on the brink of running out of cash, will notify 20,000 sta
 
 ### Related:
 
-1. [The Assembly of California votes in favor of allowing Communists to hold positions in the state government. ](/news/2017/05/9/the-assembly-of-california-votes-in-favor-of-allowing-communists-to-hold-positions-in-the-state-government.md) _Context: California, state government_
+1. [The Assembly of California votes in favor of ending a ban which barred members of the Communist Party USA from holding positions in the state government. ](/news/2017/05/9/the-assembly-of-california-votes-in-favor-of-ending-a-ban-which-barred-members-of-the-communist-party-usa-from-holding-positions-in-the-stat.md) _Context: California, state government_
 2. [The legislature of the US state of California passes a bill banning new sales of semi-automatic rifles with removable magazines. ](/news/2013/09/10/the-legislature-of-the-us-state-of-california-passes-a-bill-banning-new-sales-of-semi-automatic-rifles-with-removable-magazines.md) _Context: California, California State Legislature_
 3. [ California's government goes broke and issues IOUs on all expenditures not required by law. ](/news/2009/02/3/california-s-government-goes-broke-and-issues-ious-on-all-expenditures-not-required-by-law.md) _Context: California, state government_
 4. [ California's State Legislature approves a US$143-billion budget and fills a $41-billion deficit with a combination of loans, spending and service reductions, and tax increases. ](/news/2009/02/19/california-s-state-legislature-approves-a-us-143-billion-budget-and-fills-a-41-billion-deficit-with-a-combination-of-loans-spending-and-s.md) _Context: California, California State Legislature_

@@ -1,7 +1,7 @@
 ## [2016-06-25](/news/2016/06/25/index.md)
 
 ### [The Islamic State of Iraq and the Levant urges its supporters in Indonesia and Malaysia to go to the Philippines and fight against newly-elected president Rodrigo Duterte. ](/news/2016/06/25/the-islamic-state-of-iraq-and-the-levant-urges-its-supporters-in-indonesia-and-malaysia-to-go-to-the-philippines-and-fight-against-newly-ele.md)
-_Context: ISIL, Malaysia, Moro conflict, Rodrigo Duterte_
+_Context: Islamic State of Iraq and the Levant, Malaysia, Moro conflict, Rodrigo Duterte_
 
 ### [At least three people are killed and three more injured as hundreds of Syrian Kurds flee Aleppo Province villages controlled by the Islamic State of Iraq and the Levant, which continues to abduct and enslave Kurds.  Yesterday, the Syrian Observatory for Human Rights reported ISIL militants have kidnapped about 900 civilians over the past three weeks. ](/news/2016/06/25/at-least-three-people-are-killed-and-three-more-injured-as-hundreds-of-syrian-kurds-flee-aleppo-province-villages-controlled-by-the-islamic.md)
 Islamic State (ISIS) militants abducted about 900 Kurdish civilians in the northern Syrian province of Aleppo over the past three weeks, forcing the captives to build fortifications for the extremists in retaliation for a Kurdish-led assault on a nearby ISIS stronghold, activists said Friday.
@@ -22,7 +22,7 @@ Nine people died on Saturday while eight others survived after a boat they were 
 A massive wildfire burning out of control in the foothills of central California has left at least 150 homes in ruins and damaged another 75, officials said on Saturday, warning that more residents may be forced to flee the advancing flames.
 
 ### [The People's Republic of China cuts communication mechanism with Taiwan after the new government refuses to acknowledge the One China policy. ](/news/2016/06/25/the-people-s-republic-of-china-cuts-communication-mechanism-with-taiwan-after-the-new-government-refuses-to-acknowledge-the-one-china-policy.md)
-_Context: China's, Cross-Strait relations, One China, Taiwan_
+_Context: Cross-Strait relations, One China, People's Republic of China, Taiwan_
 
 ### [Diplomats from Germany, France, Italy, the Netherlands, Belgium, and Luxembourg meet in Berlin to discuss the consequences of the United Kingdom voting to leave the European Union. ](/news/2016/06/25/diplomats-from-germany-france-italy-the-netherlands-belgium-and-luxembourg-meet-in-berlin-to-discuss-the-consequences-of-the-united-kin.md)
 German Chancellor Angela Merkel sought on Saturday to temper pressure from Paris, Brussels and her own government to force Britain into negotiating a quick divorce from the EU, despite warnings that hesitation will let populism take hold.

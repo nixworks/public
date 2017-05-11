@@ -25,7 +25,7 @@ _Context: Qatif, policeman_
 The government of disputed President Laurent Gbagbo bans UN and French peacekeeping aircraft from flying in Ivory Coast and rejects a unity government plan.
 
 ### [China posts a trade deficit for the first time since March 2010, amid slowing exports. ](/news/2011/03/10/china-posts-a-trade-deficit-for-the-first-time-since-march-2010-amid-slowing-exports.md)
-_Context: China's_
+_Context: People's Republic of China_
 
 ### [The Bank of Korea increases the main interest rate in South Korea by a quarter percentage point to 3% due to concerns over inflation. ](/news/2011/03/10/the-bank-of-korea-increases-the-main-interest-rate-in-south-korea-by-a-quarter-percentage-point-to-3-due-to-concerns-over-inflation.md)
 _Context: Bank of Korea, South Korea, inflation, interest rate_
@@ -37,7 +37,7 @@ _Context: Moody's, Spain, credit rating_
 _Context: floods, north Queensland_
 
 ### [At least 25 people are killed and 250 injured following a 5.4 magnitude earthquake in Yingjiang County, Yunnan province, China, near the Burma border. ](/news/2011/03/10/at-least-25-people-are-killed-and-250-injured-following-a-5-4-magnitude-earthquake-in-yingjiang-county-yunnan-province-china-near-the-bur.md)
-_Context: 5.4 magnitude earthquake, Burma, China's, Yingjiang County, Yunnan Province_
+_Context: 5.4 magnitude earthquake, Burma, People's Republic of China, Yingjiang County, Yunnan Province_
 
 ### [A senior diplomat in charge of relations with Japan at the United States State Department is replaced for allegedly making disparaging remarks about the people of Okinawa. ](/news/2011/03/10/a-senior-diplomat-in-charge-of-relations-with-japan-at-the-united-states-state-department-is-replaced-for-allegedly-making-disparaging-remar.md)
 _Context: Japan, Okinawa, State Department_
