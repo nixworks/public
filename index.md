@@ -1,15 +1,18 @@
 ## [News](/news/2017/05/11/index.md)
 
+### [The Iraqi army's chief of staff Lt Gen Othman al-Ghanimi states that his security forces are only days away from completing the operation to recapture Mosul from ISIL. ](/news/2017/05/11/the-iraqi-army-s-chief-of-staff-lt-gen-othman-al-ghanimi-states-that-his-security-forces-are-only-days-away-from-completing-the-operation-to.md)
+_Context: ISIL, Iraq, Mosul_
+
 ### [Representatives of the Arctic Council, a group of eight countries that border the Arctic Circle, meet in Alaska to discuss oil drilling. ](/news/2017/05/11/representatives-of-the-arctic-council-a-group-of-eight-countries-that-border-the-arctic-circle-meet-in-alaska-to-discuss-oil-drilling.md)
 High-level officials from the world&rsquo;s eight Arctic nations will meet in Alaska amid concerns about the future of the sensitive region after President Donald Trump called for more oil drilling and development.
 
 ### [The Supreme Court of India begins hearings on whether oral divorce is a fundamental right of Islam. ](/news/2017/05/11/the-supreme-court-of-india-begins-hearings-on-whether-oral-divorce-is-a-fundamental-right-of-islam.md)
 _Context: Islam, Supreme Court of India, Triple Talaq in India, oral divorce_
 
-### [Five protesters are detained in Moscow, after attempting to deliver a petition to investigate the poor state of LGBT rights in Chechnya to the Prosecutor General of Russia. ](/news/2017/05/11/five-protesters-are-detained-in-moscow-after-attempting-to-deliver-a-petition-to-investigate-the-poor-state-of-lgbt-rights-in-chechnya-to-t.md)
+### [Moscow police detain five protesters after they attempted to deliver a petition to investigate the status of LGBT rights in Chechnya to the Prosecutor General of Russia. ](/news/2017/05/11/moscow-police-detain-five-protesters-after-they-attempted-to-deliver-a-petition-to-investigate-the-status-of-lgbt-rights-in-chechnya-to-the.md)
 They were calling for an investigation into the alleged torture of gay people in Chechnya.
 
-### [A draft campaign manifesto of the Labour Party is leaked. ](/news/2017/05/11/a-draft-campaign-manifesto-of-the-labour-party-is-leaked.md)
+### [An unknown person or organization leaks a draft campaign manifesto of the Labour Party. ](/news/2017/05/11/an-unknown-person-or-organization-leaks-a-draft-campaign-manifesto-of-the-labour-party.md)
 _Context: Labour Party, United Kingdom general election, 2017_
 
 ## Opinion
@@ -35,8 +38,8 @@ Prime Minister Perry Christie is seeking a second-consecutive term for his Progr
 ### [Lawmakers in the Parliament Assembly of Kosovo vote in a no-confidence motion to remove the government of Prime Minister Isa Mustafa from office, triggering a snap election that is due to take place next month. ](/news/2017/05/10/lawmakers-in-the-parliament-assembly-of-kosovo-vote-in-a-no-confidence-motion-to-remove-the-government-of-prime-minister-isa-mustafa-from-of.md)
 Members of parliament dismiss government in no-confidence motion, triggering a snap election in June.
 
-### [Former National Security Advisor Michael T. Flynn is subpoenaed to assess the extent of his ties to Russia during the Trump campaign. ](/news/2017/05/10/former-national-security-advisor-michael-t-flynn-is-subpoenaed-to-assess-the-extent-of-his-ties-to-russia-during-the-trump-campaign.md)
-_Context: Michael T. Flynn, National Security Advisor, Russia, Russian interference in the 2016 United States elections, Trump campaign, subpoena_
+### [The U.S. Attorney's Office in Alexandria, Virginia thru U.S. Attorney Dana Boente issues subpoenas to former National Security Advisor Michael T. Flynn to assess the extent of his ties to Russia. ](/news/2017/05/10/the-u-s-attorney-s-office-in-alexandria-virginia-thru-u-s-attorney-dana-boente-issues-subpoenas-to-former-national-security-advisor-micha.md)
+_Context: Alexandria, Virginia, Dana Boente, Michael T. Flynn, National Security Advisor, Russia, Russian interference in the 2016 United States elections, subpoena_
 
 ---
 
