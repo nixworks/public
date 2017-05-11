@@ -9,7 +9,7 @@ _Context: Islam, Supreme Court of India, Triple Talaq in India, oral divorce_
 ### [Five protesters are detained in Moscow, after attempting to deliver a petition to investigate the poor state of LGBT rights in Chechnya to the Prosecutor General of Russia. ](/news/2017/05/11/five-protesters-are-detained-in-moscow-after-attempting-to-deliver-a-petition-to-investigate-the-poor-state-of-lgbt-rights-in-chechnya-to-t.md)
 They were calling for an investigation into the alleged torture of gay people in Chechnya.
 
-### [The alleged campaign manifesto of the Labour Party is 'leaked'. ](/news/2017/05/11/the-alleged-campaign-manifesto-of-the-labour-party-is-leaked.md)
+### [A draft campaign manifesto of the Labour Party is leaked. ](/news/2017/05/11/a-draft-campaign-manifesto-of-the-labour-party-is-leaked.md)
 _Context: Labour Party, United Kingdom general election, 2017_
 
 ## Opinion
