@@ -33,5 +33,8 @@ WESTON, Wis. (AP) — The Latest on a string of shootings in northern Wisconsin 
 ### [A jury acquits the former head of the now-closed Massachusetts pharmacy, New England Compounding Center, Barry Cadden, on 25 counts of second-degree murder but convicts him of racketeering and other crimes in a meningitis outbreak that was traced to fungus-contaminated drugs and killed 64 people across the country. Cadden disregarded sanitary conditions to boost production and make more money. ](/news/2017/03/22/a-jury-acquits-the-former-head-of-the-now-closed-massachusetts-pharmacy-new-england-compounding-center-barry-cadden-on-25-counts-of-secon.md)
 BOSTON (AP) — The former head of a Massachusetts pharmacy was acquitted Wednesday of murder allegations but convicted of racketeering and other 
 
+### [In regards to if the Obama administration, through the United States Department of Justice, through the Federal Bureau of Investigation wiretapped President Elect Donald Trump, U.S. Representative Devin Nunes states that "the intelligence community incidentally collected information" regarding communications between Donald Trump and his team as part of their surveillance of foreign agents. ](/news/2017/03/22/in-regards-to-if-the-obama-administration-through-the-united-states-department-of-justice-through-the-federal-bureau-of-investigation-wire.md)
+Members of the intelligence community incidentally collected communications from the Trump transition team during legal surveillance operations of foreign targets, a top Republican lawmaker said Wednesday afternoon.
+
 ## [Previous Day...](/news/2017/03/21/index.md)
 
