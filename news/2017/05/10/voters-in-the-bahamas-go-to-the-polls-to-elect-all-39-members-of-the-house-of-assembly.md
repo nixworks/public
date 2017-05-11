@@ -7,7 +7,8 @@ Prime Minister Perry Christie is seeking a second-consecutive term for his Progr
 
 ### Source:
 
-1. [Miami Herald](http://www.miamiherald.com/news/nation-world/world/americas/haiti/article149294109.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/2017/05/bahamas-elects-hubert-minnis-prime-minister-170511092838273.html)
+2. [Miami Herald](http://www.miamiherald.com/news/nation-world/world/americas/haiti/article149294109.html)
 
 ### Related:
 

@@ -3,6 +3,12 @@
 ### [Representatives of the Arctic Council, a group of eight countries that border the Arctic Circle, meet in Alaska to discuss of oil drilling. ](/news/2017/05/11/representatives-of-the-arctic-council-a-group-of-eight-countries-that-border-the-arctic-circle-meet-in-alaska-to-discuss-of-oil-drilling.md)
 High-level officials from the world&rsquo;s eight Arctic nations will meet in Alaska amid concerns about the future of the sensitive region after President Donald Trump called for more oil drilling and development.
 
+### [The Supreme Court of India beings hearings on whether oral divorce is a fundamental right of Islam. ](/news/2017/05/11/the-supreme-court-of-india-beings-hearings-on-whether-oral-divorce-is-a-fundamental-right-of-islam.md)
+_Context: Islam, Supreme Court of India, Triple Talaq in India, oral divorce_
+
+### [Five protesters are detained in Moscow, after attempting to deliver a petition to investigate the poor state of LGBT rights in Chechnya to the Prosecutor General of Russia. ](/news/2017/05/11/five-protesters-are-detained-in-moscow-after-attempting-to-deliver-a-petition-to-investigate-the-poor-state-of-lgbt-rights-in-chechnya-to-t.md)
+They were calling for an investigation into the alleged torture of gay people in Chechnya.
+
 ### [The alleged campaign manifesto of the Labour Party is 'leaked'. ](/news/2017/05/11/the-alleged-campaign-manifesto-of-the-labour-party-is-leaked.md)
 _Context: Labour Party, United Kingdom general election, 2017_
 
@@ -20,7 +26,7 @@ President Trump has yet to decide on a variety of options being presented to him
 ### [Pope Francis intends to canonize two of the children who had visions at Fatima. ](/news/2017/05/10/pope-francis-intends-to-canonize-two-of-the-children-who-had-visions-at-fatima.md)
 _Context: Fatima, Pope Francis, canonize_
 
-### [A spokesman for the Taiwan Affairs Office of People's Republic of China says Taiwan is barred from observing this year's World Health Assembly because current President Tsai Ing-wen has not endorsed both the Beijing and U.S. view that both sides belong to a single China under the One-China policy. ](/news/2017/05/10/a-spokesman-for-the-taiwan-affairs-office-of-people-s-republic-of-china-says-taiwan-is-barred-from-observing-this-yearas-world-health-asse.md)
+### [A spokesman for the Taiwan Affairs Office of People's Republic of China says Taiwan is barred from observing this year's World Health Assembly because current President Tsai Ing-wen has not endorsed the Beijing view that both sides belong to a single China under the One-China policy; the spokesman further said that the health of people in Taiwan is not being put at risk by Taiwan's inability to attend. ](/news/2017/05/10/a-spokesman-for-the-taiwan-affairs-office-of-people-s-republic-of-china-says-taiwan-is-barred-from-observing-this-yearas-world-health-asse.md)
 _Context: Cross-Strait relations, One-China policy, People's Republic of China, Taiwan, Taiwan Affairs Office, Tsai Ing-wen, World Health Assembly_
 
 ### [Voters in the Bahamas go to the polls to elect all 39 members of the House of Assembly. ](/news/2017/05/10/voters-in-the-bahamas-go-to-the-polls-to-elect-all-39-members-of-the-house-of-assembly.md)
@@ -28,6 +34,9 @@ Prime Minister Perry Christie is seeking a second-consecutive term for his Progr
 
 ### [Lawmakers in the Parliament Assembly of Kosovo vote in a no-confidence motion to remove the government of Prime Minister Isa Mustafa from office, triggering a snap election that is due to take place next month. ](/news/2017/05/10/lawmakers-in-the-parliament-assembly-of-kosovo-vote-in-a-no-confidence-motion-to-remove-the-government-of-prime-minister-isa-mustafa-from-of.md)
 Members of parliament dismiss government in no-confidence motion, triggering a snap election in June.
+
+### [Former National Security Advisor Michael T. Flynn is subpoenaed to assess the extent of his ties to Russia during the Trump campaign. ](/news/2017/05/10/former-national-security-advisor-michael-t-flynn-is-subpoenaed-to-assess-the-extent-of-his-ties-to-russia-during-the-trump-campaign.md)
+_Context: Michael T. Flynn, National Security Advisor, Russia, Russian interference in the 2016 United States elections, Trump campaign, subpoena_
 
 ---
 
