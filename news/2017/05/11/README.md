@@ -3,7 +3,7 @@
 ### [The Iraqi army's chief of staff, Lt Gen Othman al-Ghanmi, states that his security forces are only days away from completing the operation to recapture Mosul from ISIL. ](/news/2017/05/11/the-iraqi-army-s-chief-of-staff-lt-gen-othman-al-ghanmi-states-that-his-security-forces-are-only-days-away-from-completing-the-operation-t.md)
 _Context: ISIL, Iraq, Mosul, Othman al-Ghanmi_
 
-### [The statue of Confederate hero Jefferson Davis in New Orleans is removed. ](/news/2017/05/11/the-statue-of-confederate-hero-jefferson-davis-in-new-orleans-is-removed.md)
+### [The statue of Confederate President Jefferson Davis in New Orleans is removed. ](/news/2017/05/11/the-statue-of-confederate-president-jefferson-davis-in-new-orleans-is-removed.md)
 Mayor Mitch Landrieu and his allies say monuments to Confederate-era figures celebrate the &quot;cult of the Lost Cause&quot; and hold the city back.
 
 ### [Representatives of the Arctic Council, a group of eight countries that border the Arctic Circle, meet in Alaska to discuss oil drilling. ](/news/2017/05/11/representatives-of-the-arctic-council-a-group-of-eight-countries-that-border-the-arctic-circle-meet-in-alaska-to-discuss-oil-drilling.md)
