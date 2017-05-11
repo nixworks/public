@@ -3,6 +3,9 @@
 ### [U.S. President Donald Trump contemplates sending 5,000 more troops to Afghanistan. ](/news/2017/05/10/u-s-president-donald-trump-contemplates-sending-5-000-more-troops-to-afghanistan.md)
 President Trump has yet to decide on a variety of options being presented to him by U.S. military leaders, senior administration officials say.
 
+### [Pope Francis intends to canonize two of the children who had visions at Fatima. ](/news/2017/05/10/pope-francis-intends-to-canonize-two-of-the-children-who-had-visions-at-fatima.md)
+_Context: Fatima, Pope Francis, canonize_
+
 ### [A spokesman for the Taiwan Affairs Office of People's Republic of China says Taiwan is barred from observing this year's World Health Assembly because current President Tsai Ing-wen has not endorsed both the Beijing and U.S. view that both sides belong to a single China under the One-China policy. ](/news/2017/05/10/a-spokesman-for-the-taiwan-affairs-office-of-people-s-republic-of-china-says-taiwan-is-barred-from-observing-this-yearas-world-health-asse.md)
 _Context: Cross-Strait relations, One-China policy, People's Republic of China, Taiwan, Taiwan Affairs Office, Tsai Ing-wen, World Health Assembly_
 

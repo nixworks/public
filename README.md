@@ -1,6 +1,9 @@
 ## [News](/news/2017/05/11/index.md)
 
-### [An alleged campaign manifesto is 'leaked' from the Labour Party. ](/news/2017/05/11/an-alleged-campaign-manifesto-is-leaked-from-the-labour-party.md)
+### [Representatives of the Arctic Council, a group of eight countries that border the Arctic Circle, meet in Alaska to discuss of oil drilling. ](/news/2017/05/11/representatives-of-the-arctic-council-a-group-of-eight-countries-that-border-the-arctic-circle-meet-in-alaska-to-discuss-of-oil-drilling.md)
+High-level officials from the world&rsquo;s eight Arctic nations will meet in Alaska amid concerns about the future of the sensitive region after President Donald Trump called for more oil drilling and development.
+
+### [The alleged campaign manifesto of the Labour Party is 'leaked'. ](/news/2017/05/11/the-alleged-campaign-manifesto-of-the-labour-party-is-leaked.md)
 _Context: Labour Party, United Kingdom general election, 2017_
 
 ## Opinion
@@ -13,6 +16,9 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ### [U.S. President Donald Trump contemplates sending 5,000 more troops to Afghanistan. ](/news/2017/05/10/u-s-president-donald-trump-contemplates-sending-5-000-more-troops-to-afghanistan.md)
 President Trump has yet to decide on a variety of options being presented to him by U.S. military leaders, senior administration officials say.
+
+### [Pope Francis intends to canonize two of the children who had visions at Fatima. ](/news/2017/05/10/pope-francis-intends-to-canonize-two-of-the-children-who-had-visions-at-fatima.md)
+_Context: Fatima, Pope Francis, canonize_
 
 ### [A spokesman for the Taiwan Affairs Office of People's Republic of China says Taiwan is barred from observing this year's World Health Assembly because current President Tsai Ing-wen has not endorsed both the Beijing and U.S. view that both sides belong to a single China under the One-China policy. ](/news/2017/05/10/a-spokesman-for-the-taiwan-affairs-office-of-people-s-republic-of-china-says-taiwan-is-barred-from-observing-this-yearas-world-health-asse.md)
 _Context: Cross-Strait relations, One-China policy, People's Republic of China, Taiwan, Taiwan Affairs Office, Tsai Ing-wen, World Health Assembly_
@@ -41,6 +47,9 @@ The Trump administration says Mr Comey made &quot;serious mistakes&quot; in the 
 
 ### [The Assembly of California votes in favor of ending a ban which barred members of the Communist Party USA from holding positions in the state government. ](/news/2017/05/9/the-assembly-of-california-votes-in-favor-of-ending-a-ban-which-barred-members-of-the-communist-party-usa-from-holding-positions-in-the-stat.md)
 Being a communist would no longer be a fireable offense for California government employees under a bill passed Monday by the state Assembly.
+
+### [The election between Democrat Jon Ossoff and Republican Karen Handel to replace the seat vacated by Tom Price becomes the most expensive congressional race in United States history. ](/news/2017/05/9/the-election-between-democrat-jon-ossoff-and-republican-karen-handel-to-replace-the-seat-vacated-by-tom-price-becomes-the-most-expensive-con.md)
+_Context: Georgia's 6th congressional district special election, 2017, Jon Ossoff, Karen Handel, Tom Price, United States_
 
 ---
 
