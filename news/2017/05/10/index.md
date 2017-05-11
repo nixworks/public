@@ -1,6 +1,6 @@
 ## [2017-05-10](/news/2017/05/10/index.md)
 
-### [Mexico is reported to be the second deadliest country after Syria. ](/news/2017/05/10/mexico-is-reported-to-be-the-second-deadliest-country-after-syria.md)
+### [Mexico is reported to be the second deadliest country after Syria by number of absolute conflict-related deaths in 2016. ](/news/2017/05/10/mexico-is-reported-to-be-the-second-deadliest-country-after-syria-by-number-of-absolute-conflict-related-deaths-in-2016.md)
 _Context: Global Peace Index, Mexican Drug War, Mexico, Syria_
 
 ### [U.S. President Donald Trump contemplates sending 5,000 more troops to Afghanistan. ](/news/2017/05/10/u-s-president-donald-trump-contemplates-sending-5-000-more-troops-to-afghanistan.md)
