@@ -1,7 +1,10 @@
 ## [2017-05-11](/news/2017/05/11/index.md)
 
-### [The Iraqi army's chief of staff Lt Gen Othman al-Ghanimi states that his security forces are only days away from completing the operation to recapture Mosul from ISIL. ](/news/2017/05/11/the-iraqi-army-s-chief-of-staff-lt-gen-othman-al-ghanimi-states-that-his-security-forces-are-only-days-away-from-completing-the-operation-to.md)
-_Context: ISIL, Iraq, Mosul_
+### [The Iraqi army's chief of staff, Lt Gen Othman al-Ghanmi, states that his security forces are only days away from completing the operation to recapture Mosul from ISIL. ](/news/2017/05/11/the-iraqi-army-s-chief-of-staff-lt-gen-othman-al-ghanmi-states-that-his-security-forces-are-only-days-away-from-completing-the-operation-t.md)
+_Context: ISIL, Iraq, Mosul, Othman al-Ghanmi_
+
+### [The statue of Confederate hero Jefferson Davis in New Orleans is removed. ](/news/2017/05/11/the-statue-of-confederate-hero-jefferson-davis-in-new-orleans-is-removed.md)
+Mayor Mitch Landrieu and his allies say monuments to Confederate-era figures celebrate the &quot;cult of the Lost Cause&quot; and hold the city back.
 
 ### [Representatives of the Arctic Council, a group of eight countries that border the Arctic Circle, meet in Alaska to discuss oil drilling. ](/news/2017/05/11/representatives-of-the-arctic-council-a-group-of-eight-countries-that-border-the-arctic-circle-meet-in-alaska-to-discuss-oil-drilling.md)
 High-level officials from the world&rsquo;s eight Arctic nations will meet in Alaska amid concerns about the future of the sensitive region after President Donald Trump called for more oil drilling and development.
@@ -12,8 +15,11 @@ _Context: Islam, Supreme Court of India, Triple Talaq in India, oral divorce_
 ### [Moscow police detain five protesters after they attempted to deliver a petition to investigate the status of LGBT rights in Chechnya to the Prosecutor General of Russia. ](/news/2017/05/11/moscow-police-detain-five-protesters-after-they-attempted-to-deliver-a-petition-to-investigate-the-status-of-lgbt-rights-in-chechnya-to-the.md)
 They were calling for an investigation into the alleged torture of gay people in Chechnya.
 
-### [An unknown person or organization leaks a draft campaign manifesto of the Labour Party. ](/news/2017/05/11/an-unknown-person-or-organization-leaks-a-draft-campaign-manifesto-of-the-labour-party.md)
-_Context: Labour Party, United Kingdom general election, 2017_
+### [An unknown person or organization leaks a draft campaign manifesto, described as "the most left-wing," of the Labour Party. ](/news/2017/05/11/an-unknown-person-or-organization-leaks-a-draft-campaign-manifesto-described-as-the-most-left-wing-of-the-labour-party.md)
+_Context: Labour Party, United Kingdom general election, 2017, left-wing_
+
+### [French President-elect Emmanuel Macron announces his slate for the upcoming elections. ](/news/2017/05/11/french-president-elect-emmanuel-macron-announces-his-slate-for-the-upcoming-elections.md)
+_Context: Emmanuel Macron, French parliamentary election, 2017_
 
 ## [Previous Day...](/news/2017/05/10/index.md)
 
