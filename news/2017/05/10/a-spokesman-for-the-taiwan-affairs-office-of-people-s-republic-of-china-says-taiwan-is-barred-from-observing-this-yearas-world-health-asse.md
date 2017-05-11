@@ -1,6 +1,6 @@
 ### [2017-05-10](/news/2017/05/10/index.md)
 
-# A spokesman for the Taiwan Affairs Office of People's Republic of China says Taiwan is barred from observing this year's World Health Assembly because current President Tsai Ing-wen has not endorsed the Beijing view that both sides belong to a single China. 
+# A spokesman for the Taiwan Affairs Office of People's Republic of China says Taiwan is barred from observing this year's World Health Assembly because current President Tsai Ing-wen has not endorsed both the Beijing and U.S. view that both sides belong to a single China under the One-China Policy. 
 
 
 
