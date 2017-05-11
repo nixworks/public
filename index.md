@@ -1,6 +1,6 @@
 ## [News](/news/2017/05/11/index.md)
 
-### [An alleged campaign memo is 'leaked' from the Labour Party. ](/news/2017/05/11/an-alleged-campaign-memo-is-leaked-from-the-labour-party.md)
+### [An alleged campaign manifesto is 'leaked' from the Labour Party. ](/news/2017/05/11/an-alleged-campaign-manifesto-is-leaked-from-the-labour-party.md)
 _Context: Labour Party, United Kingdom general election, 2017_
 
 ## Opinion
