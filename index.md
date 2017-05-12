@@ -15,7 +15,7 @@ _Context: Islam, Supreme Court of India, Triple Talaq in India, oral divorce_
 ### [Moscow police detain five protesters after they attempted to deliver a petition to investigate the status of LGBT rights in Chechnya to the Prosecutor General of Russia. ](/news/2017/05/11/moscow-police-detain-five-protesters-after-they-attempted-to-deliver-a-petition-to-investigate-the-status-of-lgbt-rights-in-chechnya-to-the.md)
 They were calling for an investigation into the alleged torture of gay people in Chechnya.
 
-### [An unknown person or organization leaks a draft campaign manifesto, described as "the most left-wing," of the Labour Party. ](/news/2017/05/11/an-unknown-person-or-organization-leaks-a-draft-campaign-manifesto-described-as-the-most-left-wing-of-the-labour-party.md)
+### [An unknown person or organization leaks a 45-page draft campaign manifesto, described as "the most left-wing," of the Labour Party, that is due for official confirmation tomorrow. ](/news/2017/05/11/an-unknown-person-or-organization-leaks-a-45-page-draft-campaign-manifesto-described-as-the-most-left-wing-of-the-labour-party-that-is.md)
 _Context: Labour Party, United Kingdom general election, 2017, left-wing_
 
 ### [French President-elect Emmanuel Macron announces his slate for the upcoming elections. ](/news/2017/05/11/french-president-elect-emmanuel-macron-announces-his-slate-for-the-upcoming-elections.md)
@@ -35,8 +35,8 @@ President Trump has yet to decide on a variety of options being presented to him
 ### [Pope Francis intends to canonize two of the children who had visions at Fatima. ](/news/2017/05/10/pope-francis-intends-to-canonize-two-of-the-children-who-had-visions-at-fatima.md)
 _Context: Fatima, Pope Francis, canonize_
 
-### [A spokesman for the Taiwan Affairs Office of People's Republic of China says Taiwan is barred from observing this year's World Health Assembly because current President Tsai Ing-wen has not endorsed the Beijing view that both sides belong to a single China under the One-China policy; the spokesman further said that the health of people in Taiwan is not being put at risk by Taiwan's inability to attend. ](/news/2017/05/10/a-spokesman-for-the-taiwan-affairs-office-of-people-s-republic-of-china-says-taiwan-is-barred-from-observing-this-yearas-world-health-asse.md)
-_Context: Cross-Strait relations, One-China policy, People's Republic of China, Taiwan, Taiwan Affairs Office, Tsai Ing-wen, World Health Assembly_
+### [A spokesman for the Taiwan Affairs Office of People's Republic of China says Taiwan is barred from observing this year's World Health Assembly because current President Tsai Ing-wen has not endorsed the Beijing view that both sides belong to a single China under the One-China policy, a policy which is also shared by the United States; the spokesman further said that the health of people in Taiwan is not being put at risk by Taiwan's inability to attend. ](/news/2017/05/10/a-spokesman-for-the-taiwan-affairs-office-of-people-s-republic-of-china-says-taiwan-is-barred-from-observing-this-yearas-world-health-asse.md)
+_Context: Cross-Strait relations, One-China policy, People's Republic of China, Taiwan, Taiwan Affairs Office, Tsai Ing-wen, United States, World Health Assembly_
 
 ### [Voters in the Bahamas go to the polls to elect all 39 members of the House of Assembly. ](/news/2017/05/10/voters-in-the-bahamas-go-to-the-polls-to-elect-all-39-members-of-the-house-of-assembly.md)
 Prime Minister Perry Christie is seeking a second-consecutive term for his Progressive Liberal Party in the Bahamas. But will voter anger and frustration over the lack of progress in the island-nation stymie his bid?

@@ -15,7 +15,7 @@ _Context: Islam, Supreme Court of India, Triple Talaq in India, oral divorce_
 ### [Moscow police detain five protesters after they attempted to deliver a petition to investigate the status of LGBT rights in Chechnya to the Prosecutor General of Russia. ](/news/2017/05/11/moscow-police-detain-five-protesters-after-they-attempted-to-deliver-a-petition-to-investigate-the-status-of-lgbt-rights-in-chechnya-to-the.md)
 They were calling for an investigation into the alleged torture of gay people in Chechnya.
 
-### [An unknown person or organization leaks a draft campaign manifesto, described as "the most left-wing," of the Labour Party. ](/news/2017/05/11/an-unknown-person-or-organization-leaks-a-draft-campaign-manifesto-described-as-the-most-left-wing-of-the-labour-party.md)
+### [An unknown person or organization leaks a 45-page draft campaign manifesto, described as "the most left-wing," of the Labour Party, that is due for official confirmation tomorrow. ](/news/2017/05/11/an-unknown-person-or-organization-leaks-a-45-page-draft-campaign-manifesto-described-as-the-most-left-wing-of-the-labour-party-that-is.md)
 _Context: Labour Party, United Kingdom general election, 2017, left-wing_
 
 ### [French President-elect Emmanuel Macron announces his slate for the upcoming elections. ](/news/2017/05/11/french-president-elect-emmanuel-macron-announces-his-slate-for-the-upcoming-elections.md)
