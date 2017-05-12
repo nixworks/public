@@ -28,7 +28,7 @@ _Context: Hurricane Jova, Mexico, hurricane_
 Indonesian President Susilo Bambang Yudhoyono urges Asian nations to agree on a code of conduct for disputes in the South China Sea, as a regional summit in Bali gets under way.
 
 ### [The Federal Bureau of Investigation (FBI) arrests an alleged agent of Pakistan's Inter-Services Intelligence in the US state of Virginia for making illegal campaign contributions. ](/news/2011/07/19/the-federal-bureau-of-investigation-fbi-arrests-an-alleged-agent-of-pakistan-s-inter-services-intelligence-in-the-us-state-of-virginia-for.md)
-_Context: FBI, Inter-Services Intelligence, Pakistan, Virginia_
+_Context: Federal Bureau of Investigation, Inter-Services Intelligence, Pakistan, Virginia_
 
 ### [Sixteen alleged members of the computer hacking group Anonymous are arrested in FBI raids across several states in the US. ](/news/2011/07/19/sixteen-alleged-members-of-the-computer-hacking-group-anonymous-are-arrested-in-fbi-raids-across-several-states-in-the-us.md)
 Fourteen people have been arrested as part of an ongoing operation targeting the notorious hacking collective known as Anonymous, the U.S. Department of Justice and the FBI said on Tuesday.

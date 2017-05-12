@@ -31,7 +31,7 @@ _Context: China, China-Nepal relations, India, Nepal_
 _Context: DPRK, Han Song-ryol, Mike Pence, North Korea, United States Vice President_
 
 ### [The search for the suspect in the killing of an elderly man in Cleveland, whose murder was posted to Facebook, expands beyond Ohio, with the FBI urging residents in Indiana, Michigan, New York, and Pennsylvania to be on alert for the suspect. ](/news/2017/04/17/the-search-for-the-suspect-in-the-killing-of-an-elderly-man-in-cleveland-whose-murder-was-posted-to-facebook-expands-beyond-ohio-with-the.md)
-_Context: Cleveland, FBI, Facebook, Indiana, Michigan, New York, Ohio, Pennsylvania, Shooting of Robert Godwin_
+_Context: Cleveland, Facebook, Federal Bureau of Investigation, Indiana, Michigan, New York, Ohio, Pennsylvania, Shooting of Robert Godwin_
 
 ### [A Brazilian federal judge orders Petrobras to suspend the sale to Norway's Statoil of its stake in an  offshore prospect,  in response to the National Federation of Oil Workers petition there should have been an open bidding process for this transaction. ](/news/2017/04/17/a-brazilian-federal-judge-orders-petrobras-to-suspend-the-sale-to-norway-s-statoil-of-its-stake-in-an-offshore-prospect-in-response-to-th.md)
 _Context: Brazilian federal judge, Norway, Petrobras, Statoil_

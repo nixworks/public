@@ -28,7 +28,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Islam, Israel, Mahmoud Ahmadinejad, Operation Summer Rains, Tehran, Westerners_
 
 ### [ The FBI announces that a plot to bomb the Holland Tunnel and flood Lower Manhattan with water has been foiled. ](/news/2006/07/7/the-fbi-announces-that-a-plot-to-bomb-the-holland-tunnel-and-flood-lower-manhattan-with-water-has-been-foiled.md)
-_Context: FBI, Holland Tunnel, Lower Manhattan, plot to bomb_
+_Context: Federal Bureau of Investigation, Holland Tunnel, Lower Manhattan, plot to bomb_
 
 ### [ South Korea is developing cruise missile technology, Yoon Kwang-ung, South Korea's defense minister says. This is legal under the  South Korea-U.S. missile guideline signed in 2001. ](/news/2006/07/7/south-korea-is-developing-cruise-missile-technology-yoon-kwang-ung-south-korea-s-defense-minister-says-this-is-legal-under-the-south-ko.md)
 South Korea is researching and developing cruise-missile technology, the defense minister told reporters Friday.

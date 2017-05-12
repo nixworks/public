@@ -19,7 +19,7 @@ _Context: Africa, Barcelona, Spain, United Nations_
 Former Bosnian Serb leader Radovan Karadzic appeared on Tuesday for an administrative hearing in his war crimes trial, temporarily giving up his boycott to ask for more time to prepare his case. Karadzic, who is acting as his own attorney, refused to attend the opening of the proceedings before the Yugoslavia war crimes tribunal last week. He has said he needs another 10 months to prepare his defence against 11 war crimes charges, including genocide, related to the 1992-1995 war. (Reporting by Aaron Gray-Block, writing by Ben Berkowitz; editing by David Stamp)
 
 ### [ India's Supreme Court judges disclose their assets online. ](/news/2009/11/3/india-s-supreme-court-judges-disclose-their-assets-online.md)
-_Context: India, Indian Supreme Court_
+_Context: India, Supreme Court of India_
 
 ### [ China accuses the Dalai Lama of damaging Sino-Indian relations ahead of his visit to the disputed border region of Arunachal Pradesh. ](/news/2009/11/3/china-accuses-the-dalai-lama-of-damaging-sino-indian-relations-ahead-of-his-visit-to-the-disputed-border-region-of-arunachal-pradesh.md)
 _Context: 14th Dalai Lama, Arunachal Pradesh, People's Republic of China, to deal_

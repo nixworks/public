@@ -19,7 +19,7 @@ Thousands of people have joined silent vigils across Germany to pay tribute to a
 _Context: Parliament of Finland, same-sex marriage_
 
 ### [The social-democratic Siumut narrowly retains a government-forming plurality of votes in the Greenlandic general election, tying with leftist opposition Inuit Ataqatigiit for number of parliament seats. ](/news/2014/11/28/the-social-democratic-siumut-narrowly-retains-a-government-forming-plurality-of-votes-in-the-greenlandic-general-election-tying-with-leftis.md)
-_Context: Greenlandic general election, Inuit Ataqatigiit, Siumut, leftist, parliament seats, social-democratic_
+_Context: Greenlandic general election, Inuit Ataqatigiit, Siumut, left-wing, parliament seats, social-democratic_
 
 ### [Post-coup unrest in Egypt (2013-14):Three army officers and two protesters are killed and more than one hundred protesters are arrested during anti-government protests across Egypt. ](/news/2014/11/28/post-coup-unrest-in-egypt-2013a14-pthree-army-officers-and-two-protesters-are-killed-and-more-than-one-hundred-protesters-are-arrested-d.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

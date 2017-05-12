@@ -100,7 +100,7 @@ French&#x20;Labour&#x20;Minister&#x20;Eric&#x20;Woerth&#x20;has&#x20;said&#x20;h
 The French government approves a controversial draft law that would raise the retirement age from 60 to 62.
 
 ### [The Supreme Court of India tentatively approves the Tamil Nadu government's new quota law, providing 69% of employment in educational institutions to Scheduled Castes and Scheduled Tribes and other backward classes. ](/news/2010/07/13/the-supreme-court-of-india-tentatively-approves-the-tamil-nadu-government-s-new-quota-law-providing-69-of-employment-in-educational-instit.md)
-_Context: Indian Supreme Court, Scheduled Castes and Scheduled Tribes, education, quota_
+_Context: Scheduled Castes and Scheduled Tribes, Supreme Court of India, education, quota_
 
 ### [Israeli authorities use bulldozers to demolish three Palestinian buildings in East Jerusalem. ](/news/2010/07/13/israeli-authorities-use-bulldozers-to-demolish-three-palestinian-buildings-in-east-jerusalem.md)
 The Israeli authorities have used bulldozers to demolish three buildings in occupied East Jerusalem.

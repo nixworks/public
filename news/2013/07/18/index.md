@@ -28,7 +28,7 @@ The families of 29 miners killed in a New Zealand pit explosion said Thursday th
 _Context: Alexei Navalny, Russian_
 
 ### [The Supreme Court of India has ordered acid sales to be regulated by local and national governments. Acid is mainly used for attacks on people, especially women. ](/news/2013/07/18/the-supreme-court-of-india-has-ordered-acid-sales-to-be-regulated-by-local-and-national-governments-acid-is-mainly-used-for-attacks-on-peop.md)
-_Context: Indian Supreme Court_
+_Context: Supreme Court of India_
 
 ### [The Hellenic Parliament passes a bill that will cut thousands of public sector jobs. ](/news/2013/07/18/the-hellenic-parliament-passes-a-bill-that-will-cut-thousands-of-public-sector-jobs.md)
 _Context: Hellenic Parliament_

@@ -58,7 +58,7 @@ _Context: Google, Internet, People's Daily, hackers, search engine_
 The Government should set up a statutory investigation into allegations of torture and degrading treatment against women committed&hellip;
 
 ### [The Supreme Court of India calls on the Indian government to explain why police were sent in to disperse a peaceful anti-corruption demonstration. ](/news/2011/06/6/the-supreme-court-of-india-calls-on-the-indian-government-to-explain-why-police-were-sent-in-to-disperse-a-peaceful-anti-corruption-demonstr.md)
-_Context: Government of India, Indian Supreme Court_
+_Context: Government of India, Supreme Court of India_
 
 ### [Abu Bakar Bashir, a prominent Indonesian cleric, rejects his terrorism trial as "outside Islamic law." ](/news/2011/06/6/abu-bakar-bashir-a-prominent-indonesian-cleric-rejects-his-terrorism-trial-as-outside-islamic-law.md)
 Co-founder of Jemaah Islamiyah proclaims innocence over terror charges and rejects trial as outside Islamic law.
@@ -70,7 +70,7 @@ _Context: Dominique Strauss-Kahn, International Monetary Fund, New York, arraign
 _Context: Anwar Ibrahim, Malaysia, Mohamad Zabidin Diah_
 
 ### [The United States Federal Bureau of Investigation announces that it has arrested 13 members of the Mafia in the city of Philadelphia in relation to an illegal gambling operation. ](/news/2011/06/6/the-united-states-federal-bureau-of-investigation-announces-that-it-has-arrested-13-members-of-the-mafia-in-the-city-of-philadelphia-in-rela.md)
-_Context: FBI, Philadelphia, Sicilian Mafia, United States_
+_Context: Federal Bureau of Investigation, Philadelphia, Sicilian Mafia, United States_
 
 ### [The outgoing speaker of the House of Representatives in Nigeria, Dimeji Bankole, is arrested on fraud charges. ](/news/2011/06/6/the-outgoing-speaker-of-the-house-of-representatives-in-nigeria-dimeji-bankole-is-arrested-on-fraud-charges.md)
 _Context: Dimeji Bankole, House of Representatives, Nigeria_

@@ -4,7 +4,7 @@
 _Context: Moscow, Russia, Sheremetyevo International Airport, Vologda Air, Yakovlev Yak-40_
 
 ### [ FBI arrests suspected purveyor of art forgeries, Ely Sakhai, in New York City.](/news/2000/03/9/fbi-arrests-suspected-purveyor-of-art-forgeries-ely-sakhai-in-new-york-city.md)
-_Context: Ely Sakhai, FBI, forgery_
+_Context: Ely Sakhai, Federal Bureau of Investigation, forgery_
 
 ## [Previous Day...](/news/2000/03/8/index.md)
 

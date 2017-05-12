@@ -37,7 +37,7 @@ _Context: (Wikinews), Facebook, crashed his plane in Austin, United States_
 _Context: Egypt, Egyptian President, Egyptian presidential election in September, IAEA, Mohamed ElBaradei_
 
 ### [Mary MacKillop is to become Australia's first saint, after being approved by the Holy See for canonization. ](/news/2010/02/19/mary-mackillop-is-to-become-australia-s-first-saint-after-being-approved-by-the-holy-see-for-canonization.md)
-_Context: Australia, Holy See, Mary MacKillop, canonized, saints_
+_Context: Australia, Holy See, Mary MacKillop, canonize, saints_
 
 ### [Plans for a Rudyard Kipling museum in his Mumbai home are scrapped due to the uncertainty of his legacy. ](/news/2010/02/19/plans-for-a-rudyard-kipling-museum-in-his-mumbai-home-are-scrapped-due-to-the-uncertainty-of-his-legacy.md)
 _Context: Mumbai, Rudyard Kipling_

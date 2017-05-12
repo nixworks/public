@@ -28,7 +28,7 @@ Tony Nicklinson, a man with locked-in syndrome who fought for the right for doct
 Men who become fathers later in life pass on more brand-new genetic mutations to their offspring, a study has found - probably contributing to disorders such as autism and schizophrenia in the...
 
 ### [Penn State's ex-president Graham Spanier rejects the report by former FBI head Louis Freeh accusing the university of a cover-up, saying he never heard even a hint of child sex abuse by Jerry Sandusky, despite indications of "horseplay", having never met a higher level of awareness. ](/news/2012/08/22/penn-state-s-ex-president-graham-spanier-rejects-the-report-by-former-fbi-head-louis-freeh-accusing-the-university-of-a-cover-up-saying-he.md)
-_Context: FBI, Graham Spanier, Jerry Sandusky, Louis Freeh, Penn State scandal, Pennsylvania State University, awareness_
+_Context: Federal Bureau of Investigation, Graham Spanier, Jerry Sandusky, Louis Freeh, Penn State scandal, Pennsylvania State University, awareness_
 
 ### [Russia becomes the 156th member of the World Trade Organization. Vanuatu becomes the 157th member. ](/news/2012/08/22/russia-becomes-the-156th-member-of-the-world-trade-organization-vanuatu-becomes-the-157th-member.md)
 _Context: Russia, Vanuatu, member, the World Trade Organization_

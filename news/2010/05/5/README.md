@@ -7,7 +7,7 @@ _Context: Goodluck Jonathan, President of Nigeria, Umaru Yar'Adua_
 Protests against proposed spending cuts by the Greek government have turned violent, as protesters clashed with riot police and torched buildings, killing at least three people.
 
 ### [The Supreme Court of India in a landmark judgment declares the use of narco tests, brain mapping tests and lie detector tests by investigative agencies unconstitutional. ](/news/2010/05/5/the-supreme-court-of-india-in-a-landmark-judgment-declares-the-use-of-narco-tests-brain-mapping-tests-and-lie-detector-tests-by-investigati.md)
-_Context: Indian Supreme Court, brain mapping tests, landmark judgment, lie detector, narco tests_
+_Context: Supreme Court of India, brain mapping tests, landmark judgment, lie detector, narco tests_
 
 ### [Landsides killed 15 Chinese workers in the Tengchong County, Yunnan Province. ](/news/2010/05/5/landsides-killed-15-chinese-workers-in-the-tengchong-county-yunnan-province.md)
 _Context: Tengchong County, Yunnan Province_

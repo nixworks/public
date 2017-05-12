@@ -34,7 +34,7 @@ _Context: Bo Xilai, China, Chongqing, Gu Kailai, Neil Heywood, Politburo of the 
 Former tycoon Asil Nadir is found guilty of three counts of stealing millions from his company Polly Peck before fleeing the country two decades ago.
 
 ### [In a case before the Supreme Court, the Indian Patent Office and pharmaceutical giant Novartis will present final arguments this week concerning the right to make and sell patented medicine. ](/news/2012/08/20/in-a-case-before-the-supreme-court-the-indian-patent-office-and-pharmaceutical-giant-novartis-will-present-final-arguments-this-week-concer.md)
-_Context: Indian Patent Office, Indian Supreme Court, Novartis, generic_
+_Context: Indian Patent Office, Novartis, Supreme Court of India, generic_
 
 ### [Meles Zenawi, the long-term Prime Minister of Ethiopia, dies of a mystery illness after not having been seen in public for weeks. ](/news/2012/08/20/meles-zenawi-the-long-term-prime-minister-of-ethiopia-dies-of-a-mystery-illness-after-not-having-been-seen-in-public-for-weeks.md)
 _Context: Ethiopia, Meles Zenawi, Prime Minister_

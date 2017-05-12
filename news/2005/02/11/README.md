@@ -22,7 +22,7 @@ _Context: Balochistan, Pakistan, Shakidor Dam_
 _Context: Cambodia, Khmer Rouge, United Nations, crimes against humanity, tribunal_
 
 ### [ The Supreme Court of India agrees to examine the legality of the sensitive issue raised in a petition demanding reservation for Dalits even after conversion to Christianity. ](/news/2005/02/11/the-supreme-court-of-india-agrees-to-examine-the-legality-of-the-sensitive-issue-raised-in-a-petition-demanding-reservation-for-dalits-even.md)
-_Context: Christian, Dalits, Indian Supreme Court, convert_
+_Context: Christian, Dalits, Supreme Court of India, convert_
 
 ### [ In Karnataka, India, armed Naxalites gun down six State Reserve Police personnel and a civilian and injure five others at Venkammanahali in the Tumkur district bordering Andhra Pradesh. ](/news/2005/02/11/in-karnataka-india-armed-naxalites-gun-down-six-state-reserve-police-personnel-and-a-civilian-and-injure-five-others-at-venkammanahali-in.md)
 PAVAGADA (Tumkur): In what appears to be the first retaliation against the police for gunning down their two colleagues, Naxals killed six policemen at Venkammanahalli in Pavagada taluk of Tumkur district on Friday.

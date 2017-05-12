@@ -16,7 +16,7 @@ Pro-Palestinian activists have their sights set on sailing to Gaza, despite Gree
 At least 10 people die in attacks blamed on Islamist militants in the north-eastern Nigerian city of Maiduguri, a week after a similar attack killed 25.
 
 ### [A. E. Hotchner, a friend and collaborator of the Nobel Prize-winning writer Ernest Hemingway, writing in ''The New York Times'' on the 50th anniversary of Hemingway's death, expresses his belief that the J. Edgar Hoover-led Federal Bureau of Investigation's surveillance "substantially contributed to his anguish and his suicide", with Hotchner saying he "regretfully misjudged" Hemingway's fear of the FBI. ](/news/2011/07/3/a-e-hotchner-a-friend-and-collaborator-of-the-nobel-prize-winning-writer-ernest-hemingway-writing-in-the-new-york-times-on-the-50th.md)
-_Context: A. E. Hotchner, Ernest Hemingway, FBI, J. Edgar Hoover, Nobel Prize, The New York Times_
+_Context: A. E. Hotchner, Ernest Hemingway, Federal Bureau of Investigation, J. Edgar Hoover, Nobel Prize, The New York Times_
 
 ### [American televangelist Robert H. Schuller is ousted from the board of the Crystal Cathedral. ](/news/2011/07/3/american-televangelist-robert-h-schuller-is-ousted-from-the-board-of-the-crystal-cathedral.md)
 _Context: Crystal Cathedral, Robert H. Schuller, televangelist_

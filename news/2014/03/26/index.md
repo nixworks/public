@@ -31,7 +31,7 @@ A court in Turkey orders the suspension of a controversial ban on the social med
 _Context: Al Qaida's, New York's, Osama bin Laden, Sulaiman Abu Ghaith_
 
 ### [California State Senator Leland Yee is arrested in a raid involving the Federal Bureau of Investigation and the California Highway Patrol for alleged firearms trafficking, bribery, and corruption. ](/news/2014/03/26/california-state-senator-leland-yee-is-arrested-in-a-raid-involving-the-federal-bureau-of-investigation-and-the-california-highway-patrol-fo.md)
-_Context: California Highway Patrol, FBI, Leland Yee_
+_Context: California Highway Patrol, Federal Bureau of Investigation, Leland Yee_
 
 ### [Egyptian Field Marshal Abdel Fattah el-Sisi resigns from his position as Minister of Defense and announces his bid for the upcoming presidential election. ](/news/2014/03/26/egyptian-field-marshal-abdel-fattah-el-sisi-resigns-from-his-position-as-minister-of-defense-and-announces-his-bid-for-the-upcoming-presiden.md)
 _Context: Abdel Fattah el-Sisi, Egypt, Egyptian military, Egyptian presidential election, 2014_

@@ -22,7 +22,7 @@ _Context: Alberta, Alberta Highway 63, Canadian, Fort McMurray, forest fire_
 Get the latest breaking news across the U.S. on ABCNews.com
 
 ### [Senate elections in France result in a left-wing majority, headed by the Socialist Party, for the first time in the history of the Fifth Republic. ](/news/2011/09/25/senate-elections-in-france-result-in-a-left-wing-majority-headed-by-the-socialist-party-for-the-first-time-in-the-history-of-the-fifth-rep.md)
-_Context: Fifth Republic, France, PS, Senate elections, leftist_
+_Context: Fifth Republic, France, PS, Senate elections, left-wing_
 
 ### [King Abdullah of Saudi Arabia announces reforms giving women the right to vote and run in municipal elections. ](/news/2011/09/25/king-abdullah-of-saudi-arabia-announces-reforms-giving-women-the-right-to-vote-and-run-in-municipal-elections.md)
 _Context: Abdullah, Saudi Arabia, voting_

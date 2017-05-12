@@ -7,7 +7,7 @@ World leaders urged Turkey to step back from the brink of war with Syria after i
 _Context: Libyan Parliament, Mustafa Abushagur, Tripoli_
 
 ### [The FBI conducts its investigation into the attack on the U.S. Consulate in Benghazi, Libya, in one day. ](/news/2012/10/4/the-fbi-conducts-its-investigation-into-the-attack-on-the-u-s-consulate-in-benghazi-libya-in-one-day.md)
-_Context: FBI, attack on the U.S. Consulate in Benghazi, Libya_
+_Context: Federal Bureau of Investigation, attack on the U.S. Consulate in Benghazi, Libya_
 
 ### [Hong Kong Chief Executive Leung Chun-ying and other government officials observe three minutes of silence to mourn the victims of a ferry collision off Lamma Island on October 1, marking the start of a three-day mourning period. ](/news/2012/10/4/hong-kong-chief-executive-leung-chun-ying-and-other-government-officials-observe-three-minutes-of-silence-to-mourn-the-victims-of-a-ferry-co.md)
 _Context: Chief Executive, Lamma Island, Leung Chun-ying, ferry collision, national mourning, three minutes of silence_

@@ -10,7 +10,7 @@ Rain poured down Thursday for the 16th consecutive day across Texas and Oklahoma
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 ### [ Eleven Colombian lawmakers hostages out of twelve are killed by the leftist guerilla group FARC. Abducted in 2002, the FARC alleges that the hostages died in a crossfire when an unidentified military group attacked. The FARC blames the Colombian government, but the government says they knew nothing of the location or of any attempt of rescue. ](/news/2007/06/28/eleven-colombian-lawmakers-hostages-out-of-twelve-are-killed-by-the-leftist-guerilla-group-farc-abducted-in-2002-the-farc-alleges-that-th.md)
-_Context: Colombia, Colombian government, Revolutionary Armed Forces of Colombia, crossfire, guerilla, lawmakers, leftist_
+_Context: Colombia, Colombian government, Revolutionary Armed Forces of Colombia, crossfire, guerilla, lawmakers, left-wing_
 
 ### [ Russia successfully test fires a sea-based ballistic missile, the Bulava. ](/news/2007/06/28/russia-successfully-test-fires-a-sea-based-ballistic-missile-the-bulava.md)
 _Context: Bulava, Russia, ballistic missile_

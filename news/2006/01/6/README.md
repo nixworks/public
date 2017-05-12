@@ -19,7 +19,7 @@ News and opinion from The Times &amp; The Sunday Times
 _Context: Ariel Sharon, Prime Minister of Israel, cranial, surgery_
 
 ### [ The Supreme Court of India denies access to the Alang port to the French warship Clemenceau since it contains tonnes of asbestos. ](/news/2006/01/6/the-supreme-court-of-india-denies-access-to-the-alang-port-to-the-french-warship-clemenceau-since-it-contains-tonnes-of-asbestos.md)
-_Context: Alang, Clemenceau, Indian Supreme Court, asbestos_
+_Context: Alang, Clemenceau, Supreme Court of India, asbestos_
 
 ## [Previous Day...](/news/2006/01/5/index.md)
 

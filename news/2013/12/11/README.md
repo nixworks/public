@@ -22,7 +22,7 @@ Twenty people have died following a deadly outbreak of the bubonic plague, medic
 _Context: Google, National Security Agency, cookies_
 
 ### [LGBT rights in India:The Supreme Court of India upholds the primacy of Section 377 of the Indian penal code banning homosexual activities. ](/news/2013/12/11/lgbt-rights-in-india-pthe-supreme-court-of-india-upholds-the-primacy-of-section-377-of-the-indian-penal-code-banning-homosexual-activities.md)
-_Context: Indian Supreme Court, Indian penal code, LGBT rights in India, homosexuality_
+_Context: Indian penal code, LGBT rights in India, Supreme Court of India, homosexuality_
 
 ### [A revenge porn website is shutdown in San Diego after the owner, Kevin Christopher Bollaert, is accused of extorting money from one of its victims. ](/news/2013/12/11/a-revenge-porn-website-is-shutdown-in-san-diego-after-the-owner-kevin-christopher-bollaert-is-accused-of-extorting-money-from-one-of-its-v.md)
 SAN DIEGO - A 27-year-old San Diego man was arrested Tuesday on suspicion of operating a &quot;revenge porn&quot; website and demanding up to $350 to remove sexually explicit photos of women that were...

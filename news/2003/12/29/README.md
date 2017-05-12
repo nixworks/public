@@ -10,7 +10,7 @@ _Context: U.S. Department of Homeland Security_
 _Context: Adolf Hitler, Cuba, Fidel Castro, Granma, newspaper_
 
 ### [The Federal Bureau of Investigation issues a memo instructing police to be alert of people carrying almanacs, stating that information in these reference works could be used to aid in the planning of terrorist attacks. [http://www.guardian.co.uk/uslatest/story/0,1282,-3564366,00.html]](/news/2003/12/29/the-federal-bureau-of-investigation-issues-a-memo-instructing-police-to-be-alert-of-people-carrying-almanacs-stating-that-information-in-th.md)
-_Context: FBI, almanac_
+_Context: Federal Bureau of Investigation, almanac_
 
 ## [Previous Day...](/news/2003/12/28/index.md)
 

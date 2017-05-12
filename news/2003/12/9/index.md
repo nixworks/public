@@ -19,7 +19,7 @@ _Context: December 13, M6 Toll, United Kingdom, West Midlands_
 _Context: Iraq, Mosul, Occupation of Iraq, Tal Afar, United States, car bomb_
 
 ### [Political status of Taiwan: Standing next to visiting Premier Wen Jiabao, George W. Bush reiterates U.S. support for the one China policy and states that he opposes holding a referendum on Taiwan. ](/news/2003/12/9/political-status-of-taiwan-standing-next-to-visiting-premier-wen-jiabao-george-w-bush-reiterates-u-s-support-for-the-one-china-policy-an.md)
-_Context: George W. Bush, One China Policy, Premier of the People's Republic of China, Taiwan, Wen Jiabao, status_
+_Context: George W. Bush, One-China policy, Premier of the People's Republic of China, Taiwan, Wen Jiabao, status_
 
 ### [Democrat Gavin Newsom defeats Green Party challenger Matt Gonzalez in run-off election for San Francisco mayor, succeeding term-limit blocked Willie Brown. [http://abcnews.go.com/wire/Politics/ap20031210_872.html]](/news/2003/12/9/democrat-gavin-newsom-defeats-green-party-challenger-matt-gonzalez-in-run-off-election-for-san-francisco-mayor-succeeding-term-limit-blocke.md)
 _Context: Democrat, Gavin Newsom, Green Party, Matt Gonzalez, San Francisco, Willie Brown_

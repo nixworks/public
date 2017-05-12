@@ -130,7 +130,7 @@ _Context: King Mswati III, Ndumiso Mamba, Swaziland_
 A disease known as white-nose syndrome is likely to wipe out a once-common species of bat in the north-eastern US, according to scientists.
 
 ### [U.S. scientists plan to rotate the Confederate submarine, the ''H. L. Hunley'', buried in the outer harbour of Charleston, South Carolina so that they can examine it more closely. ](/news/2010/08/6/u-s-scientists-plan-to-rotate-the-confederate-submarine-the-h-l-hunley-buried-in-the-outer-harbour-of-charleston-south-carolina-so.md)
-_Context: ''H. L. Hunley'', Charleston, South Carolina, Confederate soldiers, South Carolina, submarine_
+_Context: ''H. L. Hunley'', Charleston, South Carolina, Confederate, South Carolina, submarine_
 
 ### [American scientists announce an ice sheet has broken from Greenland's Petermann Glacier. ](/news/2010/08/6/american-scientists-announce-an-ice-sheet-has-broken-from-greenland-s-petermann-glacier.md)
 A giant block of ice measuring 260 sq km (100 sq miles) breaks off a glacier in Greenland, according to researchers at a US university.

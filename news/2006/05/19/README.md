@@ -13,7 +13,7 @@ News and opinion from The Times &amp; The Sunday Times
 _Context: Committee Against Torture, Cuba, Guantnamo Bay detainment camp, United Nations, United States, extraordinary rendition, international law, torture_
 
 ### [ The case of Khaled el-Masri, who says he was abducted and tortured by the CIA because he was mistaken for another person, is dismissed by a district court in Alexandria, Virginia, as it would be a "grave risk" of damage to U.S. national security by exposing government secrets. The court rules that if the claims are true he "deserves a remedy" but this cannot be found in the court. ](/news/2006/05/19/the-case-of-khaled-el-masri-who-says-he-was-abducted-and-tortured-by-the-cia-because-he-was-mistaken-for-another-person-is-dismissed-by-a.md)
-_Context: Alexandria, CIA, Khaled el-Masri, Virginia, extraordinary rendition, national security, torture_
+_Context: Alexandria, Virginia, CIA, Khaled el-Masri, Virginia, extraordinary rendition, national security, torture_
 
 ### [ Fijian opposition (Labour) led by Mahendra Chaudhry decides to join Prime Minister Laisenia Qarase's United Fiji Party to form a multi-party multi-ethnic cabinet. ](/news/2006/05/19/fijian-opposition-labour-led-by-mahendra-chaudhry-decides-to-join-prime-minister-laisenia-qarase-s-united-fiji-party-to-form-a-multi-part.md)
 _Context: Fiji, Labour, Laisenia Qarase, Mahendra Chaudhry, Prime Minister, United Fiji Party_

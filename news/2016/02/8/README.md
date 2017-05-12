@@ -34,7 +34,7 @@ Turkish aid workers set up tents and distribute supplies for thousands of new Sy
 _Context: Paramo, Supreme Court_
 
 ### [DotGovs, a hacker group that released data on almost 10,000 Department of Homeland Security employees yesterday, publish contact information for 20,000 FBI employees. ](/news/2016/02/8/dotgovs-a-hacker-group-that-released-data-on-almost-10-000-department-of-homeland-security-employees-yesterday-publish-contact-information.md)
-_Context: FBI, U.S. Department of Homeland Security, hackers_
+_Context: Federal Bureau of Investigation, U.S. Department of Homeland Security, hackers_
 
 ### [The French data protection authority  and the independent watchdog CNIL cite Facebook for breaching privacy laws by the collection and transfer of 30 million users' Internet data, and by tracking non-users. Companies are no longer protected by the International Safe Harbor pact that was ruled illegal last October. ](/news/2016/02/8/the-french-data-protection-authority-and-the-independent-watchdog-cnil-cite-facebook-for-breaching-privacy-laws-by-the-collection-and-trans.md)
 Get the latest science news and technology news, read tech reviews and more at ABC News.

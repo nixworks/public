@@ -52,7 +52,7 @@ The Obama administration imposed sanctions on about two dozen Russians under a n
 _Context: China, Chinese Embassy, Foreign Ministry, Hanoi, Paracel Islands, Vietnam, archipelago, tourists_
 
 ### [India's Supreme Court clears the way for the execution of Devinder Pal Singh Bhullar, a Sikh militant, rejecting his appeal for his sentence to be commuted to life imprisonment. ](/news/2013/04/12/india-s-supreme-court-clears-the-way-for-the-execution-of-devinder-pal-singh-bhullar-a-sikh-militant-rejecting-his-appeal-for-his-sentence.md)
-_Context: Devinder Pal Singh Bhullar, India, Indian Supreme Court, Khalistan Liberation Force, Sikh, death, life imprisonment_
+_Context: Devinder Pal Singh Bhullar, India, Khalistan Liberation Force, Sikh, Supreme Court of India, death, life imprisonment_
 
 ### [The French Senate approves same-sex marriage in France putting the bill on track to become law by summer. ](/news/2013/04/12/the-french-senate-approves-same-sex-marriage-in-france-putting-the-bill-on-track-to-become-law-by-summer.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

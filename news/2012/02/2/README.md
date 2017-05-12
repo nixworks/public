@@ -25,7 +25,7 @@ China will press South Sudan for help in securing the release of 29 Chinese work
 Corruption charges against former West Australian Labor premier Brian Burke have been dropped.
 
 ### [The Supreme Court of India cancels 122 telecom licences granted in the 2008 sale at the centre of a corruption scandal involving former minister A. Raja. ](/news/2012/02/2/the-supreme-court-of-india-cancels-122-telecom-licences-granted-in-the-2008-sale-at-the-centre-of-a-corruption-scandal-involving-former-mini.md)
-_Context: A. Raja, Indian Supreme Court, telecommunication_
+_Context: A. Raja, Supreme Court of India, telecommunication_
 
 ### [A French appeals court upholds a 2009 conviction of the Church of Scientology on fraud charges. ](/news/2012/02/2/a-french-appeals-court-upholds-a-2009-conviction-of-the-church-of-scientology-on-fraud-charges.md)
 _Context: Church of Scientology, Frenchman, fraud_

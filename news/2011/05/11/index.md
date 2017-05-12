@@ -37,7 +37,7 @@ A US report says 48 women and girls are raped every hour in DR Congo, a rate sig
 _Context: Iran, Josh Fattal and Shane Bauer, Tehran, United States, espionage_
 
 ### [The Supreme Court of India dismisses a government petition for seven people convicted for their role in the Bhopal disaster in 1984 to receive tougher sentences. ](/news/2011/05/11/the-supreme-court-of-india-dismisses-a-government-petition-for-seven-people-convicted-for-their-role-in-the-bhopal-disaster-in-1984-to-recei.md)
-_Context: Bhopal disaster, Government of India, Indian Supreme Court_
+_Context: Bhopal disaster, Government of India, Supreme Court of India_
 
 ### [Former member of the Virginia House of Delegates Phillip A. Hamilton is convicted of bribery and extortion. ](/news/2011/05/11/former-member-of-the-virginia-house-of-delegates-phillip-a-hamilton-is-convicted-of-bribery-and-extortion.md)
 _Context: Phillip A. Hamilton, Virginia House of Delegates_

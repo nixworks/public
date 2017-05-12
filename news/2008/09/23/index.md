@@ -4,7 +4,7 @@
 _Context: North Waziristan, Pakistani, South Waziristan, United States, helicopters_
 
 ### [ Government officials say that the Federal Bureau of Investigation is looking into possible fraud for mortgage financing companies Fannie Mae and Freddie Mac, Lehman Brothers, and insurer American International Group. ](/news/2008/09/23/government-officials-say-that-the-federal-bureau-of-investigation-is-looking-into-possible-fraud-for-mortgage-financing-companies-fannie-ma.md)
-_Context: AIG, FBI, Fannie Mae, Freddie Mac, Lehman Brothers, fraud_
+_Context: AIG, Fannie Mae, Federal Bureau of Investigation, Freddie Mac, Lehman Brothers, fraud_
 
 ### [ The Large Hadron Collider near Geneva is shut down until the northern spring while engineers probe magnet failures. ](/news/2008/09/23/the-large-hadron-collider-near-geneva-is-shut-down-until-the-northern-spring-while-engineers-probe-magnet-failures.md)
 _Context: Geneva, Large Hadron Collider, spring_

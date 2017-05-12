@@ -64,7 +64,7 @@ The judge in the first civilian case against an ex-Guantanamo inmate bars a key 
 _Context: Conservative Party's, Federal Court of Canada, Francophone, Quebec, census_
 
 ### [United States Federal Bureau of Investigation agents arrest dozens of Puerto Rico police officers accused of aiding drug traffickers. ](/news/2010/10/6/united-states-federal-bureau-of-investigation-agents-arrest-dozens-of-puerto-rico-police-officers-accused-of-aiding-drug-traffickers.md)
-_Context: FBI, Puerto Rico, United States, police officers_
+_Context: Federal Bureau of Investigation, Puerto Rico, United States, police officers_
 
 ### [Law enforcement agencies in Victoria, Australia, the United Kingdom and Spain conduct raids in relation to allegedly corrupt behaviour by the currency subsidiary of the Reserve Bank of Australia. ](/news/2010/10/6/law-enforcement-agencies-in-victoria-australia-the-united-kingdom-and-spain-conduct-raids-in-relation-to-allegedly-corrupt-behaviour-by-th.md)
 Law enforcement agencies in Melbourne, Britain and Spain have launched raids over claims of corrupt conduct by the currency subsidiary of the Reserve Bank of Australia.

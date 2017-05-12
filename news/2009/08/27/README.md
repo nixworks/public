@@ -31,7 +31,7 @@ _Context: Sri Lanka, Tamil, armed forces_
 _Context: Korean War, North Korea, South Korea_
 
 ### [ Judges at the Supreme Court of India agree to make their financial assets public. ](/news/2009/08/27/judges-at-the-supreme-court-of-india-agree-to-make-their-financial-assets-public.md)
-_Context: India, Indian Supreme Court_
+_Context: India, Supreme Court of India_
 
 ### [ The Standing Committee of the National People's Congress passes its first law on the People's Armed Police, giving it statutory authority to respond to riots, terrorist attacks or other emergencies. ](/news/2009/08/27/the-standing-committee-of-the-national-people-s-congress-passes-its-first-law-on-the-people-s-armed-police-giving-it-statutory-authority-t.md)
 The law details the authority of the paramilitary force that played a key role in putting down the riots in the western Xinjiang region last month.
