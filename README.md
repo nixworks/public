@@ -1,7 +1,7 @@
 ## [News](/news/2017/05/12/index.md)
 
-### [In an alleged case of abuse of power, a United Airlines worker has canceled a passanger's flight ticket because the passager was recording a baggage fee dispute with a smartphone. This incident follows just one month after the United Express Flight 3411 incident. Officials have later apologized for the incident. ](/news/2017/05/12/in-an-alleged-case-of-abuse-of-power-a-united-airlines-worker-has-canceled-a-passanger-s-flight-ticket-because-the-passager-was-recording-a.md)
-“I guess @united harassment isn&#39;t limited to the unfriendly skies. #unacceptable #united #lackofcustomerservice https://t.co/A5P6A8XJjC”
+### [Catholics in Portugal converge in a shrine in Fatima for a visit by Pope Francis. ](/news/2017/05/12/catholics-in-portugal-converge-in-a-shrine-in-fatima-for-a-visit-by-pope-francis.md)
+Catholics converge on the Portuguese shrine 100 years after &quot;miraculous&quot; visions of the Virgin Mary.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -12,10 +12,13 @@ Most of the daily information we see on the mainstream media today is the news e
 ## [Yesterday](/news/2017/05/11/index.md)
 
 ### [The Iraqi army's chief of staff, Lt Gen Othman al-Ghanmi, states that his security forces are only days away from completing the operation to recapture Mosul from ISIL. ](/news/2017/05/11/the-iraqi-army-s-chief-of-staff-lt-gen-othman-al-ghanmi-states-that-his-security-forces-are-only-days-away-from-completing-the-operation-t.md)
-_Context: ISIL, Iraq, Mosul, Othman al-Ghanmi_
+_Context: Battle of Mosul, ISIL, Iraq, Mosul, Othman al-Ghanmi_
 
-### [The statue of Confederate President Jefferson Davis in New Orleans is removed. ](/news/2017/05/11/the-statue-of-confederate-president-jefferson-davis-in-new-orleans-is-removed.md)
+### [The statue of Confederate President Jefferson Davis in New Orleans is removed; this is the second of four planned removals of Confederate monuments in the city. ](/news/2017/05/11/the-statue-of-confederate-president-jefferson-davis-in-new-orleans-is-removed-this-is-the-second-of-four-planned-removals-of-confederate-mo.md)
 Mayor Mitch Landrieu and his allies say monuments to Confederate-era figures celebrate the &quot;cult of the Lost Cause&quot; and hold the city back.
+
+### [The federal government of Brazil informs the World Health Organization that it is ending its state of emergency concerning the Zika virus, following a 95.3% reduction in cases in early 2017 compared to early 2016. ](/news/2017/05/11/the-federal-government-of-brazil-informs-the-world-health-organization-that-it-is-ending-its-state-of-emergency-concerning-the-zika-virus-f.md)
+Rio de Janeiro (AFP) - Brazil&amp;#39;s government on Thursday declared an end to a national emergency over the Zika virus which was detected in the Latin American country late in 2015 before becoming a global concern.
 
 ### [Representatives of the Arctic Council, a group of eight countries that border the Arctic Circle, meet in Alaska to discuss oil drilling. ](/news/2017/05/11/representatives-of-the-arctic-council-a-group-of-eight-countries-that-border-the-arctic-circle-meet-in-alaska-to-discuss-oil-drilling.md)
 High-level officials from the world&rsquo;s eight Arctic nations will meet in Alaska amid concerns about the future of the sensitive region after President Donald Trump called for more oil drilling and development.

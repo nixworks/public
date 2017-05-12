@@ -1,7 +1,7 @@
 ## [2017-05-12](/news/2017/05/12/index.md)
 
-### [In an alleged case of abuse of power, a United Airlines worker has canceled a passanger's flight ticket because the passager was recording a baggage fee dispute with a smartphone. This incident follows just one month after the United Express Flight 3411 incident. Officials have later apologized for the incident. ](/news/2017/05/12/in-an-alleged-case-of-abuse-of-power-a-united-airlines-worker-has-canceled-a-passanger-s-flight-ticket-because-the-passager-was-recording-a.md)
-“I guess @united harassment isn&#39;t limited to the unfriendly skies. #unacceptable #united #lackofcustomerservice https://t.co/A5P6A8XJjC”
+### [Catholics in Portugal converge in a shrine in Fatima for a visit by Pope Francis. ](/news/2017/05/12/catholics-in-portugal-converge-in-a-shrine-in-fatima-for-a-visit-by-pope-francis.md)
+Catholics converge on the Portuguese shrine 100 years after &quot;miraculous&quot; visions of the Virgin Mary.
 
 ## [Previous Day...](/news/2017/05/11/index.md)
 
