@@ -9,7 +9,7 @@ Explosion outside building near Aventine hill, which damaged a car but caused no
 ### [Catholics in Portugal converge in a shrine in Fatima for a visit by Pope Francis. ](/news/2017/05/12/catholics-in-portugal-converge-in-a-shrine-in-fatima-for-a-visit-by-pope-francis.md)
 Catholics converge on the Portuguese shrine 100 years after &quot;miraculous&quot; visions of the Virgin Mary.
 
-### [British author JK Rowling begs fans to refrain from buying an allegedly stolen manuscript. ](/news/2017/05/12/british-author-jk-rowling-begs-fans-to-refrain-from-buying-an-allegedly-stolen-manuscript.md)
+### [British author J. K. Rowling begs fans to refrain from buying an allegedly stolen manuscript. ](/news/2017/05/12/british-author-j-k-rowling-begs-fans-to-refrain-from-buying-an-allegedly-stolen-manuscript.md)
 &#8220;Originally auctioned for @englishpen, the owner supported writers&#8217; freedoms by bidding for it,&#8221; J.K.. Rowling tweeted Friday of the one-of-a-kind story
 
 ### [A judge in Alkmaar, the Netherlands, grants a 12-year-old boy the right to decide for himself on whether or not to continue chemotherapy. The ruling was based on a psychiatric evaluation of the patient as being "capable of a reasonable evaluation of his interests and realizes the consequences -- including the negative ones -- of his decision." ](/news/2017/05/12/a-judge-in-alkmaar-the-netherlands-grants-a-12-year-old-boy-the-right-to-decide-for-himself-on-whether-or-not-to-continue-chemotherapy-th.md)
@@ -57,7 +57,7 @@ They were calling for an investigation into the alleged torture of gay people in
 The Federal Bureau of Investigation carried out a raid on a Republican fundraising firm in Maryland that had been accused in a 2014 lawsuit of defrauding political donors, according to several area news outlets.
 
 ### [An unknown person or organization leaks a 45-page draft campaign manifesto, described as "the most left-wing," of the Labour Party, that is due for official confirmation tomorrow. ](/news/2017/05/11/an-unknown-person-or-organization-leaks-a-45-page-draft-campaign-manifesto-described-as-the-most-left-wing-of-the-labour-party-that-is.md)
-_Context: Labour, United Kingdom general election, 2017, left-wing_
+_Context: Labour Party, United Kingdom general election, 2017, left-wing_
 
 ### [French President-elect Emmanuel Macron announces his slate of candidates for the upcoming elections for French Parliament. ](/news/2017/05/11/french-president-elect-emmanuel-macron-announces-his-slate-of-candidates-for-the-upcoming-elections-for-french-parliament.md)
 _Context: Emmanuel Macron, French Parliament, French parliamentary election, 2017_

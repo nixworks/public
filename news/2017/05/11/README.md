@@ -22,7 +22,7 @@ They were calling for an investigation into the alleged torture of gay people in
 The Federal Bureau of Investigation carried out a raid on a Republican fundraising firm in Maryland that had been accused in a 2014 lawsuit of defrauding political donors, according to several area news outlets.
 
 ### [An unknown person or organization leaks a 45-page draft campaign manifesto, described as "the most left-wing," of the Labour Party, that is due for official confirmation tomorrow. ](/news/2017/05/11/an-unknown-person-or-organization-leaks-a-45-page-draft-campaign-manifesto-described-as-the-most-left-wing-of-the-labour-party-that-is.md)
-_Context: Labour, United Kingdom general election, 2017, left-wing_
+_Context: Labour Party, United Kingdom general election, 2017, left-wing_
 
 ### [French President-elect Emmanuel Macron announces his slate of candidates for the upcoming elections for French Parliament. ](/news/2017/05/11/french-president-elect-emmanuel-macron-announces-his-slate-of-candidates-for-the-upcoming-elections-for-french-parliament.md)
 _Context: Emmanuel Macron, French Parliament, French parliamentary election, 2017_
