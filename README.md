@@ -9,6 +9,12 @@ Explosion outside building near Aventine hill, which damaged a car but caused no
 ### [Catholics in Portugal converge in a shrine in Fatima for a visit by Pope Francis. ](/news/2017/05/12/catholics-in-portugal-converge-in-a-shrine-in-fatima-for-a-visit-by-pope-francis.md)
 Catholics converge on the Portuguese shrine 100 years after &quot;miraculous&quot; visions of the Virgin Mary.
 
+### [A judge in Alkmaar, the Netherlands, grants a 12-year old boy, David, the right to decide for himself on whether or not to continue chemotherapy. He is ruled "capable of a reasonable evaluation of his interests and realizes the consequences -- including the negative ones -- of his decision." ](/news/2017/05/12/a-judge-in-alkmaar-the-netherlands-grants-a-12-year-old-boy-david-the-right-to-decide-for-himself-on-whether-or-not-to-continue-chemothe.md)
+A judge in the Netherlands has ruled that a 12-year-old boy does not have to undergo chemotherapy if he does not want it.
+
+### [In a massive landslide in the 2017 election, Bahamian Prime Minister Perry Christie loses not only the control of the government, but his own seat. He was replaced by Hubert Minnis as PM.](/news/2017/05/12/in-a-massive-landslide-in-the-2017-election-bahamian-prime-minister-perry-christie-loses-not-only-the-control-of-the-government-but-his-ow.md)
+_Context: 2017 election, Bahamian Prime Minister, Hubert Minnis, Perry Christie_
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
