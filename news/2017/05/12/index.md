@@ -12,7 +12,7 @@ Catholics converge on the Portuguese shrine 100 years after &quot;miraculous&quo
 ### [A judge in Alkmaar, the Netherlands, grants a 12-year old boy, David, the right to decide for himself on whether or not to continue chemotherapy. He is ruled "capable of a reasonable evaluation of his interests and realizes the consequences -- including the negative ones -- of his decision." ](/news/2017/05/12/a-judge-in-alkmaar-the-netherlands-grants-a-12-year-old-boy-david-the-right-to-decide-for-himself-on-whether-or-not-to-continue-chemothe.md)
 A judge in the Netherlands has ruled that a 12-year-old boy does not have to undergo chemotherapy if he does not want it.
 
-### [A large scale ransomware cyber-attack disrupts NHS computer and telephone systems across England with doctors reporting messages demanding money. ](/news/2017/05/12/a-large-scale-ransomware-cyber-attack-disrupts-nhs-computer-and-telephone-systems-across-england-with-doctors-reporting-messages-demanding-m.md)
+### [A large scale cyber-attack using the WannaCry ransomware package disrupts NHS computer and telephone systems across England with doctors reporting messages demanding money. ](/news/2017/05/12/a-large-scale-cyber-attack-using-the-wannacry-ransomware-package-disrupts-nhs-computer-and-telephone-systems-across-england-with-doctors-rep.md)
 Patient data at many GP surgeries and hospitals has been encrypted by ransomware and cannot be accessed by staff.
 
 ## [Previous Day...](/news/2017/05/11/index.md)
