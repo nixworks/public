@@ -1,6 +1,6 @@
 ### [2017-05-12](/news/2017/05/12/index.md)
 
-# A judge in Alkmaar, the Netherlands, grants a 12-year old boy the right to decide for himself on whether or not to continue chemotherapy. The ruling was based on a psychiatric evaluation of the patient as being "capable of a reasonable evaluation of his interests and realizes the consequences -- including the negative ones -- of his decision." 
+# A judge in Alkmaar, the Netherlands, grants a 12-year-old boy the right to decide for himself on whether or not to continue chemotherapy. The ruling was based on a psychiatric evaluation of the patient as being "capable of a reasonable evaluation of his interests and realizes the consequences -- including the negative ones -- of his decision." 
 
 A judge in the Netherlands has ruled that a 12-year-old boy does not have to undergo chemotherapy if he does not want it.
 
