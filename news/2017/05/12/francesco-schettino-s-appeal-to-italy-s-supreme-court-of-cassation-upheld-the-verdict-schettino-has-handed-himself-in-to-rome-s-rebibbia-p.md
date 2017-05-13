@@ -1,9 +1,14 @@
 ### [2017-05-12](/news/2017/05/12/index.md)
 
-# Francesco Schettino's appeal to Italy's Supreme Court of Cassation upheld the verdict.  Schettino has handed himself in to Rome's Rebibbia prison to begin his 16-year sentence for his role as Captain in the ''Costa Concordia'' disaster. ([http://www.bbc.co.uk/news/world-europe-39903968 ''BBC''], [http://www.reuters.com/article/us-italy-ship-idUSKBN1882MF?il=0 ''Reuters''])
+# Francesco Schettino's appeal to Italy's Supreme Court of Cassation upheld the verdict.  Schettino has handed himself in to Rome's Rebibbia prison to begin his 16-year sentence for his role as Captain in the ''Costa Concordia'' disaster. 
 
 
 
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-europe-39903968)
+2. [Reuters](http://www.reuters.com/article/us-italy-ship-idUSKBN1882MF?il=0)
 
 ### Related:
 
