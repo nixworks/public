@@ -7,7 +7,7 @@ The government&#39;s cyber emergency response team is looking into a massive glo
 
 ### Source:
 
-1. [BBC/Reuters/RNZ](http://www.radionz.co.nz/news/world/330677/nz-computers-caught-up-in-global-cyberattack)
+1. [BBC/Reuters/RNZ via RNZ](http://www.radionz.co.nz/news/world/330677/nz-computers-caught-up-in-global-cyberattack)
 
 ### Related:
 

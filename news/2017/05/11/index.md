@@ -3,7 +3,7 @@
 ### [The Iraqi army's chief of staff, Lt Gen Othman al-Ghanmi, states that his security forces are only days away from completing the operation to recapture Mosul from ISIL. ](/news/2017/05/11/the-iraqi-army-s-chief-of-staff-lt-gen-othman-al-ghanmi-states-that-his-security-forces-are-only-days-away-from-completing-the-operation-t.md)
 _Context: Battle of Mosul, ISIL, Iraq, Mosul, Othman al-Ghanmi_
 
-### [The statue of Confederate President Jefferson Davis in New Orleans is removed; this is the second of four planned removals of Confederate monuments in the city. ](/news/2017/05/11/the-statue-of-confederate-president-jefferson-davis-in-new-orleans-is-removed-this-is-the-second-of-four-planned-removals-of-confederate-mo.md)
+### [The New Orleans City Council removes the statue of Confederate President Jefferson Davis in New Orleans. This action is the second of four planned removals of Confederate monuments in the city. ](/news/2017/05/11/the-new-orleans-city-council-removes-the-statue-of-confederate-president-jefferson-davis-in-new-orleans-this-action-is-the-second-of-four-p.md)
 Mayor Mitch Landrieu and his allies say monuments to Confederate-era figures celebrate the &quot;cult of the Lost Cause&quot; and hold the city back.
 
 ### [The federal government of Brazil informs the World Health Organization that it is ending its state of emergency concerning the Zika virus, following a 95.3% reduction in cases in early 2017 compared to early 2016. ](/news/2017/05/11/the-federal-government-of-brazil-informs-the-world-health-organization-that-it-is-ending-its-state-of-emergency-concerning-the-zika-virus-f.md)

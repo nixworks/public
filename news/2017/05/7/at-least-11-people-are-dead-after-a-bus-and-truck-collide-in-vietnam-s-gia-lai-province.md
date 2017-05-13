@@ -7,7 +7,7 @@ HANOI (AFP) - A truck driving in the wrong direction on a one-way road smashed i
 
 ### Source:
 
-1. [Straits Times](http://www.straitstimes.com/asia/se-asia/11-dead-in-vietnam-bus-crash)
+1. [The Straits Times](http://www.straitstimes.com/asia/se-asia/11-dead-in-vietnam-bus-crash)
 
 ### Related:
 

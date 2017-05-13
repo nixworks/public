@@ -7,7 +7,7 @@ Being a communist would no longer be a fireable offense for California governmen
 
 ### Source:
 
-1. [Fox News](http://www.foxnews.com/politics/2017/05/09/california-bill-would-end-ban-on-communists-in-government-jobs.html)
+1. [AP via Fox News](http://www.foxnews.com/politics/2017/05/09/california-bill-would-end-ban-on-communists-in-government-jobs.html)
 2. [NPR](http://www.npr.org/sections/thetwo-way/2017/05/09/527586682/california-assembly-votes-to-allow-communists-to-hold-state-jobs)
 
 ### Related:

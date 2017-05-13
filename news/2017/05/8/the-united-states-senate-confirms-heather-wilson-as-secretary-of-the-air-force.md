@@ -7,7 +7,7 @@ The Senate has confirmed Heather Wilson as Air Force secretary, making her Presi
 
 ### Source:
 
-1. [Washington Post](https://www.washingtonpost.com/politics/congress/senate-to-vote-on-trumps-pick-for-air-force-secretary/2017/05/08/13550bc4-340a-11e7-ab03-aa29f656f13e_story.html)
+1. [The Washington Post](https://www.washingtonpost.com/politics/congress/senate-to-vote-on-trumps-pick-for-air-force-secretary/2017/05/08/13550bc4-340a-11e7-ab03-aa29f656f13e_story.html)
 
 ### Related:
 

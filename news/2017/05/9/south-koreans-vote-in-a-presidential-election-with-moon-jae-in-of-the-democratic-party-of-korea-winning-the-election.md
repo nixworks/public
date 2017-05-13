@@ -8,7 +8,7 @@ min Park and Cynthia Kim
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-southkorea-election-idUSKBN18425S?il=0)
-2. [TIME'' magazine](http://time.com/4771661/park-guen-hye-moon-jae-in-south-korea-election/)
+2. [TIME](http://time.com/4771661/park-guen-hye-moon-jae-in-south-korea-election/)
 3. [The Hill](http://thehill.com/policy/international/332525-liberal-candidate-wins-south-koreas-presidential-election)
 
 ### Related:
