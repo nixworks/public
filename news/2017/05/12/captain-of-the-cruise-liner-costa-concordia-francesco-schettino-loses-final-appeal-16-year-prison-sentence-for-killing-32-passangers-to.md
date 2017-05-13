@@ -1,18 +1,18 @@
 ### [2017-05-12](/news/2017/05/12/index.md)
 
-# The Italian Supreme Court of Cassation upholds Francesco Schettino's sentence for his role as Captain in the ''Costa Concordia'' disaster.  Schettino handed himself in to Rome's Rebibbia prison to begin his 16-year sentence. 
+# Captain of the Cruise liner ''Costa Concordia'' Francesco Schettino loses final appeal 16-year prison sentence for killing 32 passangers to Italy's Supreme Court of Cassation, which upheld the original sentence. 
 
 
 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-europe-39903968)
+1. [BBC](http://www.bbc.com/news/world-europe-39903968)
 2. [Reuters](http://www.reuters.com/article/us-italy-ship-idUSKBN1882MF?il=0)
 
 ### Related:
 
-1. [Captain of the Cruise liner ''Costa Concordia'' Francesco Schettino loses final appeal 16-year prison sentence for killing 32 passangers to Italy's Supreme Court of Cassation, which upheld the original sentence. ](/news/2017/05/12/captain-of-the-cruise-liner-costa-concordia-francesco-schettino-loses-final-appeal-16-year-prison-sentence-for-killing-32-passangers-to.md) _Context: ''Costa Concordia'' disaster, Francesco Schettino, Supreme Court of Cassation_
+1. [The Italian Supreme Court of Cassation upholds Francesco Schettino's sentence for his role as Captain in the ''Costa Concordia'' disaster.  Schettino handed himself in to Rome's Rebibbia prison to begin his 16-year sentence. ](/news/2017/05/12/the-italian-supreme-court-of-cassation-upholds-francesco-schettino-s-sentence-for-his-role-as-captain-in-the-costa-concordia-disaster.md) _Context: ''Costa Concordia'' disaster, Francesco Schettino, Supreme Court of Cassation_
 2. [A court in the city of Grosseto convicts the former captain of the ''Costa Concordia'', Francesco Schettino, of manslaughter for his part in the ship's January 2012 sinking, and sentences him to 16 years in jail. ](/news/2015/02/11/a-court-in-the-city-of-grosseto-convicts-the-former-captain-of-the-costa-concordia-francesco-schettino-of-manslaughter-for-his-part-in.md) _Context: ''Costa Concordia'' disaster, Francesco Schettino_
 3. [Efforts to refloat the Italian cruise ship ''Costa Concordia'' begin off the coast of Italy two and a half years after it sank. ](/news/2014/07/14/efforts-to-refloat-the-italian-cruise-ship-costa-concordia-begin-off-the-coast-of-italy-two-and-a-half-years-after-it-sank.md) _Context: ''Costa Concordia'' disaster_
 4. [The ''Costa Concordia'' is pulled completely upright from the place where it sunk in early 2012 off the coast of Tuscany in Italy. ](/news/2013/09/17/the-costa-concordia-is-pulled-completely-upright-from-the-place-where-it-sunk-in-early-2012-off-the-coast-of-tuscany-in-italy.md) _Context: ''Costa Concordia'' disaster_
