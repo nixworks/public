@@ -1,6 +1,6 @@
 ## [News](/news/2017/05/13/index.md)
 
-### [Gunmen opened fire on construction workers at Gwadar Port, Pakistan, killing at least 10 people. The Balochistan Liberation Army claimed responsibility for the attack. ](/news/2017/05/13/gunmen-opened-fire-on-construction-workers-at-gwadar-port-pakistan-killing-at-least-10-people-the-balochistan-liberation-army-claimed-res.md)
+### [Gunmen open fire on construction workers at Gwadar Port, Pakistan, killing at least 10 people. The Balochistan Liberation Army claimed responsibility for the attack. ](/news/2017/05/13/gunmen-open-fire-on-construction-workers-at-gwadar-port-pakistan-killing-at-least-10-people-the-balochistan-liberation-army-claimed-respo.md)
 Attack was claimed by the Baloch Liberation Army, which has been fighting for an independent homeland for the Baloch.
 
 ### [A bus carrying tourists crashes near the resort town of Marmaris in southwest Turkey, killing at least 17 people and leaving 13 others injured. ](/news/2017/05/13/a-bus-carrying-tourists-crashes-near-the-resort-town-of-marmaris-in-southwest-turkey-killing-at-least-17-people-and-leaving-13-others-injur.md)
@@ -37,9 +37,6 @@ A judge in the Netherlands has ruled that a 12-year-old boy does not have to und
 
 ### [The Italian Supreme Court of Cassation upholds Francesco Schettino's sentence for his role as Captain in the ''Costa Concordia'' disaster.  Schettino handed himself in to Rome's Rebibbia prison to begin his 16-year sentence. ](/news/2017/05/12/the-italian-supreme-court-of-cassation-upholds-francesco-schettino-s-sentence-for-his-role-as-captain-in-the-costa-concordia-disaster.md)
 _Context: ''Costa Concordia'' disaster, Francesco Schettino, Rebibbia prison, Supreme Court of Cassation_
-
-### [Captain of the Cruise liner ''Costa Concordia'' Francesco Schettino loses final appeal 16-year prison sentence for killing 32 passangers to Italy's Supreme Court of Cassation, which upheld the original sentence. ](/news/2017/05/12/captain-of-the-cruise-liner-costa-concordia-francesco-schettino-loses-final-appeal-16-year-prison-sentence-for-killing-32-passangers-to.md)
-_Context: ''Costa Concordia'' disaster, Francesco Schettino, Supreme Court of Cassation_
 
 ### [Labour leader Jeremy Corbyn criticises British Prime Minister Theresa May for being complicit with U.S. President Donald Trump. ](/news/2017/05/12/labour-leader-jeremy-corbyn-criticises-british-prime-minister-theresa-may-for-being-complicit-with-u-s-president-donald-trump.md)
 All the day’s campaign news, as Labour leader announces return to ‘ethical foreign policy’ and Theresa May takes the Tory battlebus to northeast England

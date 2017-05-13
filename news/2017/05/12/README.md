@@ -21,9 +21,6 @@ A judge in the Netherlands has ruled that a 12-year-old boy does not have to und
 ### [The Italian Supreme Court of Cassation upholds Francesco Schettino's sentence for his role as Captain in the ''Costa Concordia'' disaster.  Schettino handed himself in to Rome's Rebibbia prison to begin his 16-year sentence. ](/news/2017/05/12/the-italian-supreme-court-of-cassation-upholds-francesco-schettino-s-sentence-for-his-role-as-captain-in-the-costa-concordia-disaster.md)
 _Context: ''Costa Concordia'' disaster, Francesco Schettino, Rebibbia prison, Supreme Court of Cassation_
 
-### [Captain of the Cruise liner ''Costa Concordia'' Francesco Schettino loses final appeal 16-year prison sentence for killing 32 passangers to Italy's Supreme Court of Cassation, which upheld the original sentence. ](/news/2017/05/12/captain-of-the-cruise-liner-costa-concordia-francesco-schettino-loses-final-appeal-16-year-prison-sentence-for-killing-32-passangers-to.md)
-_Context: ''Costa Concordia'' disaster, Francesco Schettino, Supreme Court of Cassation_
-
 ### [Labour leader Jeremy Corbyn criticises British Prime Minister Theresa May for being complicit with U.S. President Donald Trump. ](/news/2017/05/12/labour-leader-jeremy-corbyn-criticises-british-prime-minister-theresa-may-for-being-complicit-with-u-s-president-donald-trump.md)
 All the day’s campaign news, as Labour leader announces return to ‘ethical foreign policy’ and Theresa May takes the Tory battlebus to northeast England
 
