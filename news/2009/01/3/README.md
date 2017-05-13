@@ -16,7 +16,7 @@ _Context: 2009, Argentina, Buenos Aires, Dakar Rally_
 _Context: American Samoa, Governor, Togiola Tulafono_
 
 ### [ Satoshi Nakamoto creates the genesis block of bitcoin. ](/news/2009/01/3/satoshi-nakamoto-creates-the-genesis-block-of-bitcoin.md)
-_Context: Bitcoin, Satoshi Nakamoto_
+_Context: Satoshi Nakamoto, bitcoin_
 
 ## [Previous Day...](/news/2009/01/2/index.md)
 

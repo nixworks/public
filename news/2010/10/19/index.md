@@ -55,7 +55,7 @@ _Context: Ethiopia, Human Rights Watch, government_
 The military ruler in Niger sacks his intelligence chief following the arrest of several junta members accused of plotting a coup.
 
 ### [The Prime Minister of the United Kingdom David Cameron announces a cut to British Armed Forces of 17,000 or ten per cent over five years. ](/news/2010/10/19/the-prime-minister-of-the-united-kingdom-david-cameron-announces-a-cut-to-british-armed-forces-of-17-000-or-ten-per-cent-over-five-years.md)
-_Context: British military personnel, David Cameron, Prime Minster_
+_Context: British military personnel, David Cameron, Prime Minister_
 
 ### [Naheed Nenshi is voted mayor of Calgary, Alberta, the first Muslim person to be elected mayor of a major city in Canada. ](/news/2010/10/19/naheed-nenshi-is-voted-mayor-of-calgary-alberta-the-first-muslim-person-to-be-elected-mayor-of-a-major-city-in-canada.md)
 _Context: Alberta, Calgary, Alberta, Canada, Muslim, Naheed Nenshi, is voted mayor_

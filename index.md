@@ -1,4 +1,15 @@
-## [News](/news/2017/05/12/index.md)
+## [News](/news/2017/05/13/index.md)
+
+### [A ransomware cyberattack continues to infect computers of private and public organisations around the world, and demand payment in bitcoin. The program was originally developed by the National Security Agency to exploit a vulnerability in Microsoft Windows, and was leaked by The Shadow Brokers in April. ](/news/2017/05/13/a-ransomware-cyberattack-continues-to-infect-computers-of-private-and-public-organisations-around-the-world-and-demand-payment-in-bitcoin.md)
+The government&#39;s cyber emergency response team is looking into a massive global extortion attack that has hit computers here.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/05/12/index.md)
 
 ### [A bomb hits a convoy of the Deputy Chairman of the Senate of Pakistan, Abdul Ghafoor Haideri, near Mastung in the province of Balochistan, killing at least 25 people and wounding 35 others, including the Senate's Deputy Chairman. ](/news/2017/05/12/a-bomb-hits-a-convoy-of-the-deputy-chairman-of-the-senate-of-pakistan-abdul-ghafoor-haideri-near-mastung-in-the-province-of-balochistan-k.md)
 A bomb exploded next to a convoy of the deputy chairman of the Pakistan Senate on Friday in the violence-plagued province of Baluchistan, killing at least 25 people, officials said.
@@ -18,7 +29,7 @@ Catholics converge on the Portuguese shrine 100 years after &quot;miraculous&quo
 ### [A judge in Alkmaar, the Netherlands, grants a 12-year-old boy the right to decide for himself on whether or not to continue chemotherapy. The ruling was based on a psychiatric evaluation of the patient as being "capable of a reasonable evaluation of his interests and realizes the consequences -- including the negative ones -- of his decision." ](/news/2017/05/12/a-judge-in-alkmaar-the-netherlands-grants-a-12-year-old-boy-the-right-to-decide-for-himself-on-whether-or-not-to-continue-chemotherapy-th.md)
 A judge in the Netherlands has ruled that a 12-year-old boy does not have to undergo chemotherapy if he does not want it.
 
-### [Francesco Schettino's appeal to Italy's Supreme Court of Cassation upheld the verdict.  Schettino has handed himself in to Rome's Rebibbia prison to begin his 16-year sentence for his role as Captain in the ''Costa Concordia'' disaster. ](/news/2017/05/12/francesco-schettino-s-appeal-to-italy-s-supreme-court-of-cassation-upheld-the-verdict-schettino-has-handed-himself-in-to-rome-s-rebibbia-p.md)
+### [The Italian Supreme Court of Cassation upholds Francesco Schettino's sentence for his role as Captain in the ''Costa Concordia'' disaster.  Schettino handed himself in to Rome's Rebibbia prison to begin his 16-year sentence. ](/news/2017/05/12/the-italian-supreme-court-of-cassation-upholds-francesco-schettino-s-sentence-for-his-role-as-captain-in-the-costa-concordia-disaster.md)
 _Context: ''Costa Concordia'' disaster, Francesco Schettino, Rebibbia prison, Supreme Court of Cassation_
 
 ### [Labour leader Jeremy Corbyn criticises British Prime Minister Theresa May for being complicit with U.S. President Donald Trump. ](/news/2017/05/12/labour-leader-jeremy-corbyn-criticises-british-prime-minister-theresa-may-for-being-complicit-with-u-s-president-donald-trump.md)
@@ -30,13 +41,9 @@ Iranian President Hassan Rouhani launched a stinging attack on his main conserva
 ### [A large scale international cyber-attack using the WannaCry ransomware package disrupts computer and telephone systems in thousands of cases across 99 countries. Affected organisations include: England's NHS, with doctors reporting messages demanding money; MegaFon and Sberbank in Russia; Telefonica, Iberdrola, and Gas Natural in Spain; and FedEx. ](/news/2017/05/12/a-large-scale-international-cyber-attack-using-the-wannacry-ransomware-package-disrupts-computer-and-telephone-systems-in-thousands-of-cases.md)
 Patient data at many GP surgeries and hospitals has been encrypted by ransomware and cannot be accessed by staff.
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/05/11/index.md)
+## [Day Before Yesterday](/news/2017/05/11/index.md)
 
 ### [The Iraqi army's chief of staff, Lt Gen Othman al-Ghanmi, states that his security forces are only days away from completing the operation to recapture Mosul from ISIL. ](/news/2017/05/11/the-iraqi-army-s-chief-of-staff-lt-gen-othman-al-ghanmi-states-that-his-security-forces-are-only-days-away-from-completing-the-operation-t.md)
 _Context: Battle of Mosul, ISIL, Iraq, Mosul, Othman al-Ghanmi_
@@ -67,29 +74,7 @@ _Context: Emmanuel Macron, French Parliament, French parliamentary election, 201
 
 ---
 
-## [Day Before Yesterday](/news/2017/05/10/index.md)
-
-### [U.S. President Donald Trump contemplates sending 5,000 more troops to Afghanistan. ](/news/2017/05/10/u-s-president-donald-trump-contemplates-sending-5-000-more-troops-to-afghanistan.md)
-President Trump has yet to decide on a variety of options being presented to him by U.S. military leaders, senior administration officials say.
-
-### [Pope Francis intends to canonize two of the children who had visions at Fatima. ](/news/2017/05/10/pope-francis-intends-to-canonize-two-of-the-children-who-had-visions-at-fatima.md)
-_Context: Fatima, Pope Francis, canonize_
-
-### [A spokesman for the Taiwan Affairs Office of People's Republic of China says Taiwan is barred from observing this year's World Health Assembly because current President Tsai Ing-wen has not endorsed the Beijing view that both sides belong to a single China under the One-China policy; the spokesman further said that the health of people in Taiwan is not being put at risk by Taiwan's inability to attend. ](/news/2017/05/10/a-spokesman-for-the-taiwan-affairs-office-of-people-s-republic-of-china-says-taiwan-is-barred-from-observing-this-yearas-world-health-asse.md)
-_Context: Cross-Strait relations, One-China policy, People's Republic of China, Taiwan, Taiwan Affairs Office, Tsai Ing-wen, World Health Assembly_
-
-### [Voters in the Bahamas go to the polls to elect all 39 members of the House of Assembly. ](/news/2017/05/10/voters-in-the-bahamas-go-to-the-polls-to-elect-all-39-members-of-the-house-of-assembly.md)
-Prime Minister Perry Christie is seeking a second-consecutive term for his Progressive Liberal Party in the Bahamas. But will voter anger and frustration over the lack of progress in the island-nation stymie his bid?
-
-### [Lawmakers in the Parliament Assembly of Kosovo vote in a no-confidence motion to remove the government of Prime Minister Isa Mustafa from office, triggering a snap election that is due to take place next month. ](/news/2017/05/10/lawmakers-in-the-parliament-assembly-of-kosovo-vote-in-a-no-confidence-motion-to-remove-the-government-of-prime-minister-isa-mustafa-from-of.md)
-Members of parliament dismiss government in no-confidence motion, triggering a snap election in June.
-
-### [The U.S. Attorney's Office in Alexandria, Virginia thru U.S. Attorney Dana Boente issues subpoenas to former National Security Advisor Michael T. Flynn to assess the extent of his ties to Russia. ](/news/2017/05/10/the-u-s-attorney-s-office-in-alexandria-virginia-thru-u-s-attorney-dana-boente-issues-subpoenas-to-former-national-security-advisor-micha.md)
-_Context: Alexandria, Virginia, Dana Boente, Michael T. Flynn, National Security Advisor, Russia, Russian interference in the 2016 United States elections, subpoena_
-
----
-
-## [Previous Day...](/news/2017/05/9/index.md)
+## [Previous Day...](/news/2017/05/10/index.md)
 
 ---
 

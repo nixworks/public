@@ -49,7 +49,7 @@ The U.N. Security Council voted to extend the mandate for the mission to Darfur 
 Israel unveils preliminary plans for 238 new homes for Jewish settlers in East Jerusalem, sparking an angry Palestinian response.
 
 ### [Iranian President Mahmoud Ahmadinejad wraps up a controversial visit to Lebanon ](/news/2010/10/15/iranian-president-mahmoud-ahmadinejad-wraps-up-a-controversial-visit-to-lebanon.md)
-_Context: Iran, Iranian President, Lebanon, Mahmoud Ahmadinejad, visit_
+_Context: Iran, Lebanon, Mahmoud Ahmadinejad, President, visit_
 
 ### [18-year-old Andrew Conley is sentenced to life imprisonment without the possibility of parole in Ohio, USA.](/news/2010/10/15/18-year-old-andrew-conley-is-sentenced-to-life-imprisonment-without-the-possibility-of-parole-in-ohio-usa.md)
 _Context: Andrew Conley, Ohio, USA_

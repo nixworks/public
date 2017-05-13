@@ -31,7 +31,7 @@ _Context: Damascus, Obama, Syria, U.S. President, United States_
 Algerian singer Cheb Mami went on trial in France on Thursday over accusations that he forced his former lover into an attempted abortion in 2005.
 
 ### [ Manuel Pinho, Portugal's Economy Minister, resigns after performing a cuckold gesture at an opposition MP. ](/news/2009/07/3/manuel-pinho-portugal-s-economy-minister-resigns-after-performing-a-cuckold-gesture-at-an-opposition-mp.md)
-_Context: MP, Portuguese, cuckold_
+_Context: MP, Portugal, cuckold_
 
 ### [ North Korea broadcasts its first ever beer commercial, for Taedonggang beer. ](/news/2009/07/3/north-korea-broadcasts-its-first-ever-beer-commercial-for-taedonggang-beer.md)
 _Context: North Korea, Taedonggang, beer_

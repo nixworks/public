@@ -10,7 +10,7 @@ _Context: China, United States, lead paint, toy_
 Fast-food chain Burger King Holdings Inc said on Tuesday that, beginning late next year, it will limit advertising aimed at children younger than 12 to food and drinks that meet strict nutritional guidelines.
 
 ### [ Disappearance of Madeleine McCann: Portuguese police refer the case to the public prosecutor. ](/news/2007/09/11/disappearance-of-madeleine-mccann-portuguese-police-refer-the-case-to-the-public-prosecutor.md)
-_Context: Portuguese, disappearance of Madeleine McCann_
+_Context: Portugal, disappearance of Madeleine McCann_
 
 ### [ Doctors say injured National Football League player Kevin Everett has moved his arms and legs and, contrary to earlier predictions, is likely to recover his ability to walk. ](/news/2007/09/11/doctors-say-injured-national-football-league-player-kevin-everett-has-moved-his-arms-and-legs-and-contrary-to-earlier-predictions-is-like.md)
 _Context: Kevin Everett, National Football League_

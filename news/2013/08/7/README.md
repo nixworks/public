@@ -34,7 +34,7 @@ North and South Korea agree to resume talks on reopening the joint Kaesong zone,
 _Context: Jiri Rusnok, Prime Minister of the Czech Republic_
 
 ### [Portugal's treasury secretary Joaquim Pais Jorge resigns after media reports and opposition politicians questioned his previous role at Citigroup. ](/news/2013/08/7/portugal-s-treasury-secretary-joaquim-pais-jorge-resigns-after-media-reports-and-opposition-politicians-questioned-his-previous-role-at-citi.md)
-_Context: Citigroup, Portuguese_
+_Context: Citigroup, Portugal_
 
 ## [Previous Day...](/news/2013/08/6/index.md)
 

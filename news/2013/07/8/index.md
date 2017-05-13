@@ -7,7 +7,7 @@ At least 42 people are shot dead outside an army barracks in Cairo where support
 _Context: Hyderabad, India_
 
 ### [After six days with temperatures over 40degC (104degF), Portugal officially has a heat wave. Temperatures have reached as high as 45degC in some places in Alentejo and Ribatejo.](/news/2013/07/8/after-six-days-with-temperatures-over-40adegc-104adegf-portugal-officially-has-a-heat-wave-temperatures-have-reached-as-high-as-45adegc-in-som.md)
-_Context: Alentejo, Portuguese, Ribatejo, heat wave_
+_Context: Alentejo, Portugal, Ribatejo, heat wave_
 
 ### [In the Greater Toronto Area, Canada, 126 mm of rain falls causing major flooding bursting most rivers and creeks. It is the single highest rain total in a day since Hurricane Hazel. ](/news/2013/07/8/in-the-greater-toronto-area-canada-126-mm-of-rain-falls-causing-major-flooding-bursting-most-rivers-and-creeks-it-is-the-single-highest-r.md)
 A Toronto police marine unit rescues some 1,400 people from a commuter train that had become stranded on tracks &mdash; with water up to the windows &mdash; after a record rainfall pounded the city and slowed the evening commute. 

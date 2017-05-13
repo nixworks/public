@@ -31,7 +31,7 @@ Student protesters in Auckland have returned to the university for pizza and a f
 _Context: Kenya, Nobel Peace Prize, Wangari Maathai, cancer_
 
 ### [The British Labour Party votes to scrap the tradition of Shadow Cabinet elections at their annual conference in Liverpool. ](/news/2011/09/26/the-british-labour-party-votes-to-scrap-the-tradition-of-shadow-cabinet-elections-at-their-annual-conference-in-liverpool.md)
-_Context: Labour Party, Liverpool, Shadow Cabinet, annual conference, elections_
+_Context: Labour, Liverpool, Shadow Cabinet, annual conference, elections_
 
 ### [The United States Senate reaches a temporary deal to avoid a government shutdown. ](/news/2011/09/26/the-united-states-senate-reaches-a-temporary-deal-to-avoid-a-government-shutdown.md)
 FEMA now says money could last through the week

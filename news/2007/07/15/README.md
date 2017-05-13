@@ -7,7 +7,7 @@ _Context: Darfur, Justice and Equality Movement, Sudan_
 _Context: 2007 attack, Paisley, Royal Alexandra Hospital_
 
 ### [ A law legalising abortion in the first ten weeks of pregnancy comes into effect in Portugal. ](/news/2007/07/15/a-law-legalising-abortion-in-the-first-ten-weeks-of-pregnancy-comes-into-effect-in-portugal.md)
-_Context: Portuguese, abortion, pregnancy_
+_Context: Portugal, abortion, pregnancy_
 
 ### [ A Somali peace conference in Mogadishu gets off to a bad start as it is disrupted by mortar shells. ](/news/2007/07/15/a-somali-peace-conference-in-mogadishu-gets-off-to-a-bad-start-as-it-is-disrupted-by-mortar-shells.md)
 Somalia&#039;s much-delayed peace conference has gotten off to a rocky start with seven mortar shells exploding near the Mogadishu venue.

@@ -49,7 +49,7 @@ Mumbai: The authorities on Sunday launched efforts on a war footing to combat an
 US PRESIDENT Barack Obama&rsquo;s popularity in the Arab world has plunged dramatically since he delivered his conciliatory address&hellip;
 
 ### [President of Iran Mahmoud Ahmadinejad and President of Guinea-Bissau Malam Bacai Sanh meet in Tehran. ](/news/2010/08/7/president-of-iran-mahmoud-ahmadinejad-and-president-of-guinea-bissau-malam-bacai-sanha-meet-in-tehran.md)
-_Context: Iranian President, Mahmoud Ahmadinejad, Malam Bacai Sanha, Tehran, acting president_
+_Context: Mahmoud Ahmadinejad, Malam Bacai Sanha, President, Tehran, acting president_
 
 ### [President of Colombia Juan Manuel Santos, in his inauguration speech, vows to improve relations with Ecuador and Venezuela. ](/news/2010/08/7/president-of-colombia-juan-manuel-santos-in-his-inauguration-speech-vows-to-improve-relations-with-ecuador-and-venezuela.md)
 _Context: Colombian President, Ecuador, Juan Manuel Santos, Venezuela_

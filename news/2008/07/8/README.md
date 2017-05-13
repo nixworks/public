@@ -4,7 +4,7 @@
 _Context: Czech, United States, missile defense shield_
 
 ### [ The President of Iran Mahmoud Ahmadinejad indicates that he does not expect an attack by the United States or Israel because he considers George W. Bush to be a lame duck president. ](/news/2008/07/8/the-president-of-iran-mahmoud-ahmadinejad-indicates-that-he-does-not-expect-an-attack-by-the-united-states-or-israel-because-he-considers-g.md)
-_Context: George W. Bush, Iran, Iranian President, Israel, Mahmoud Ahmadinejad, United States, lame duck president_
+_Context: George W. Bush, Iran, Israel, Mahmoud Ahmadinejad, President, United States, lame duck president_
 
 ### [ Leaders of the G8 nations meeting at the 34th G8 summit in Japan agree to a target of cutting world greenhouse gas emissions by at least 50% by 2050. ](/news/2008/07/8/leaders-of-the-g8-nations-meeting-at-the-34th-g8-summit-in-japan-agree-to-a-target-of-cutting-world-greenhouse-gas-emissions-by-at-least-50.md)
 _Context: 2050, 34th G8 summit, G8 group of nations, Japan, greenhouse gas_

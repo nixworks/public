@@ -28,7 +28,7 @@ Former tabloid editor failed to engage with his American audience and network wi
 _Context: Pope Francis, Roman Curia_
 
 ### [Mt Gox, an exchange of central importance in the history of the crypto currency bitcoin, closes down for an indefinite period under pressure from hackers. ](/news/2014/02/24/mt-gox-an-exchange-of-central-importance-in-the-history-of-the-crypto-currency-bitcoin-closes-down-for-an-indefinite-period-under-pressure.md)
-_Context: Bitcoin, Mt. Gox, hackers_
+_Context: Mt. Gox, bitcoin, hackers_
 
 ### [The death toll in the Papua province of Indonesia reaches 11 people as torrential rain continues to form floods and landslides, occurring since Saturday. ](/news/2014/02/24/the-death-toll-in-the-papua-province-of-indonesia-reaches-11-people-as-torrential-rain-continues-to-form-floods-and-landslides-occurring-si.md)
 _Context: Indonesia, Papua_

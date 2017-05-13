@@ -13,7 +13,7 @@ _Context: July 2006 Java earthquake, tsunami_
 _Context: Iraq, Kufa, car bomb_
 
 ### [ A doctor and two nurses from Memorial Medical Center in the U.S. city of New Orleans are charged with murder in connection with the possible mercy killings of 34 patients in the immediate aftermath of Hurricane Katrina. ](/news/2006/07/18/a-doctor-and-two-nurses-from-memorial-medical-center-in-the-u-s-city-of-new-orleans-are-charged-with-murder-in-connection-with-the-possibl.md)
-_Context: A doctor, Hurricane Katrina, Memorial Medical Center, New Orleans, United States, euthanasia, murder_
+_Context: A doctor, Hurricane Katrina, Memorial Medical Center, New Orleans, United States, murder, whether or not to continue_
 
 ### [ The United States House of Representatives fails to pass a constitutional amendment to ban same-sex marriage with a 236-187 vote; 47 short of the necessary two-thirds support needed to pass an amendment. ](/news/2006/07/18/the-united-states-house-of-representatives-fails-to-pass-a-constitutional-amendment-to-ban-same-sex-marriage-with-a-236-187-vote-47-short.md)
 _Context: United States House of Representatives, constitutional amendment to ban, same-sex marriage_

@@ -25,7 +25,7 @@ _Context: Communist Party of the Philippines, Philippines_
 _Context: African Union, Mauritania, coup_
 
 ### [ Portuguese firefighters fight huge forest fires in the districts of Aveiro, Braga and Porto ](/news/2005/08/4/portuguese-firefighters-fight-huge-forest-fires-in-the-districts-of-aveiro-braga-and-porto.md)
-_Context: Aveiro, Braga, Porto, Portuguese, forest fire_
+_Context: Aveiro, Braga, Porto, Portugal, forest fire_
 
 ### [ Italian scientists have found cocaine residue in the Po River water  ](/news/2005/08/4/italian-scientists-have-found-cocaine-residue-in-the-po-river-water.md)
 _Context: Italian, Po River, cocaine_

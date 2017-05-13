@@ -64,7 +64,7 @@ Tunisian-style protests erupted in Yemen over the weekend with thousands demandi
 The Greens in the Republic of Ireland are to decide whether to leave the coalition cabinet of PM Brian Cowen - a move that would trigger snap elections.
 
 ### [Voters in Portugal take part in a presidential election with current President Anibal Cavaco Silva being reelected. ](/news/2011/01/23/voters-in-portugal-take-part-in-a-presidential-election-with-current-president-anibal-cavaco-silva-being-reelected.md)
-_Context: Anibal Cavaco Silva, Portuguese, President, presidential election_
+_Context: Anibal Cavaco Silva, Portugal, President, presidential election_
 
 ### [The Central African Republic votes: voters complain of long delays in the country's presidential and legislative elections. ](/news/2011/01/23/the-central-african-republic-votes-voters-complain-of-long-delays-in-the-country-s-presidential-and-legislative-elections.md)
 _Context: Central-African, presidential and legislative elections_
@@ -73,7 +73,7 @@ _Context: Central-African, presidential and legislative elections_
 Tasmanian Premier David Bartlett has confirmed he will stand down as the state&#039;s leader, citing family reasons.
 
 ### [President of Iran Mahmoud Ahmadinejad designed Ali Akbar Salehi, the current acting Foreign Minister to the Parliament to succeed Manouchehr Mottaki who was dismissed on December. ](/news/2011/01/23/president-of-iran-mahmoud-ahmadinejad-designed-ali-akbar-salehi-the-current-acting-foreign-minister-to-the-parliament-to-succeed-manouchehr.md)
-_Context: Ali Akbar Salehi, Iranian President, Mahmoud Ahmadinejad, Manouchehr Mottaki, foreign minister, parliament_
+_Context: Ali Akbar Salehi, Mahmoud Ahmadinejad, Manouchehr Mottaki, President, foreign minister, parliament_
 
 ### [President of Pakistan Asif Ali Zardari launches an emergency polio immunisation programme targeting 32 million children under the age of five. ](/news/2011/01/23/president-of-pakistan-asif-ali-zardari-launches-an-emergency-polio-immunisation-programme-targeting-32-million-children-under-the-age-of-fiv.md)
 _Context: Asif Ali Zardari, President, polio_

@@ -34,7 +34,7 @@ _Context: Australia, Christmas Island, Christmas Island Immigration Detention Ce
 _Context: Cuba, Government of Cuba, United States_
 
 ### [Tens of thousands of Portuguese young people march in protest at budget cuts. ](/news/2011/03/12/tens-of-thousands-of-portuguese-young-people-march-in-protest-at-budget-cuts.md)
-_Context: Portuguese_
+_Context: Portugal_
 
 ## [Previous Day...](/news/2011/03/11/index.md)
 

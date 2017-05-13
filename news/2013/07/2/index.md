@@ -40,7 +40,7 @@ _Context: Edward Snowden, Evo Morales_
 A change in the law to bring in an opt-out organ donation system has been voted through by Welsh assembly members.
 
 ### [Portuguese political crisis, 2013:Portuguese Minister of Foreign Affairs Paulo Portas quits after disagreeing with the prime minister's choice for Finance Minister, Maria Luis Albuquerque. The Minister for the Environment and Agriculture and the Minister of Social Security are also set to resign. ](/news/2013/07/2/portuguese-political-crisis-2013-pportuguese-minister-of-foreign-affairs-paulo-portas-quits-after-disagreeing-with-the-prime-minister-s-cho.md)
-_Context: Finance Minister, Maria Luis Albuquerque, Minister of Foreign Affairs, Paulo Portas, Portuguese, Prime Minister of Portugal_
+_Context: Finance Minister, Maria Luis Albuquerque, Minister of Foreign Affairs, Paulo Portas, Portugal, Prime Minister of Portugal_
 
 ### [The Communist Party of Cuba announces a shakeup of its leadership with former President of the National Assembly of People's Power Ricardo Alarcon and several others losing roles on the Central Committee. ](/news/2013/07/2/the-communist-party-of-cuba-announces-a-shakeup-of-its-leadership-with-former-president-of-the-national-assembly-of-people-s-power-ricardo-a.md)
 _Context: Communist Party of Cuba, National Assembly of People's Power, Ricardo Alarcon_

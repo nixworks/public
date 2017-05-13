@@ -7,7 +7,7 @@ The bodies of two civilians are found on the South Korean island of Yeonpyeong, 
 _Context: Amy Sackville, John Llewellyn Rhys Prize, The Still Point_
 
 ### [Workers in Portugal hold a general strike to protest against proposed cuts to wages. ](/news/2010/11/24/workers-in-portugal-hold-a-general-strike-to-protest-against-proposed-cuts-to-wages.md)
-_Context: Portuguese, general strike_
+_Context: Portugal, general strike_
 
 ### [Chinese Premier Wen Jiabao visits Moscow and meets with Russian President Dmitry Medvedev. Chinese companies sign deals worth over $8.6 billion with Russian counterparts. ](/news/2010/11/24/chinese-premier-wen-jiabao-visits-moscow-and-meets-with-russian-president-dmitry-medvedev-chinese-companies-sign-deals-worth-over-8-6-bill.md)
 _Context: Dmitry Medvedev, Wen Jiabao_

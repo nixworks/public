@@ -28,7 +28,7 @@ _Context: Egypt, Europe, North America, Sinai, bus, tourist_
 _Context: Australia, Sydney Harbour, runabout_
 
 ### [ Voters in England and Wales go to the polls for the United Kingdom local elections, 2008. Early results showed the opposition Conservative Party performing strongly with 44 per cent of the vote while the governing Labour Party was performing poorly with 24 per cent of the vote.](/news/2008/05/1/voters-in-england-and-wales-go-to-the-polls-for-the-united-kingdom-local-elections-2008-early-results-showed-the-opposition-conservative.md)
-_Context: Conservative Party, England, Labour Party, Wales, local elections_
+_Context: Conservative Party, England, Labour, Wales, local elections_
 
 ### [ Aden Hashi Farah "Eyrow", a leader of Al-Shabaab in Somalia, is reported as being killed in a U.S. airstrike. ](/news/2008/05/1/aden-hashi-farah-eyrow-a-leader-of-al-shabaab-in-somalia-is-reported-as-being-killed-in-a-u-s-airstrike.md)
 _Context: Aden Hashi Farah "Eyrow", Al-Shabaab, Somalia, airstrike_

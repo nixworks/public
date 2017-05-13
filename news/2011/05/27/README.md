@@ -10,7 +10,7 @@ The Yemeni air force Friday bombed tribesmen fighting to overthrow President Ali
 _Context: Syrian uprising_
 
 ### [David Cameron, the Prime Minister of the United Kingdom, confirms that his government will be sending AgustaWestland Apache attack helicopters to Libya to assist the 2011 Libyan civil war. ](/news/2011/05/27/david-cameron-the-prime-minister-of-the-united-kingdom-confirms-that-his-government-will-be-sending-agustawestland-apache-attack-helicopte.md)
-_Context: AgustaWestland Apache, David Cameron, Libya, Libyan Civil War, Prime Minster_
+_Context: AgustaWestland Apache, David Cameron, Libya, Libyan Civil War, Prime Minister_
 
 ### [A camp in Tunisia for people fleeing the conflict in Libya is destroyed after clashes among refugees and local residents. ](/news/2011/05/27/a-camp-in-tunisia-for-people-fleeing-the-conflict-in-libya-is-destroyed-after-clashes-among-refugees-and-local-residents.md)
 A camp in Tunisia for people fleeing the conflict in Libya is nearly completely destroyed in deadly clashes also involving local residents, the UN says.
@@ -19,7 +19,7 @@ A camp in Tunisia for people fleeing the conflict in Libya is nearly completely 
 _Context: Italian, Lebanon, UNIFIL_
 
 ### [British Labour Party leader Ed Miliband marries his long term partner Justine Thornton in a low-key ceremony at Langar Hall in Nottinghamshire. ](/news/2011/05/27/british-labour-party-leader-ed-miliband-marries-his-long-term-partner-justine-thornton-in-a-low-key-ceremony-at-langar-hall-in-nottinghamshi.md)
-_Context: Ed Miliband, Justine Thornton, Labour Party, Langar Hall, Nottinghamshire_
+_Context: Ed Miliband, Justine Thornton, Labour, Langar Hall, Nottinghamshire_
 
 ### [India gives Tanzania US$180 million in aid to support its development. ](/news/2011/05/27/india-gives-tanzania-us-180-million-in-aid-to-support-its-development.md)
 India said on Friday it would give Tanzania $180 million to upgrade water supplies in the East African nation, and the two countries agreed to remove tax hurdles and boost bilateral trade.

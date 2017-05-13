@@ -4,7 +4,7 @@
 Deadly attack in volatile southwestern province followed small arms fire on US Marines.
 
 ### [U.S. defense contractor Lockheed Martin, the largest military contractor in the world, is targeted by a "significant and tenacious" cyber attack. ](/news/2011/05/29/u-s-defense-contractor-lockheed-martin-the-largest-military-contractor-in-the-world-is-targeted-by-a-significant-and-tenacious-cyber-at.md)
-_Context: Lockheed Martin, cyber attack, defense contractor_
+_Context: Lockheed Martin, cyber-attack, defense contractor_
 
 ### [2011 Yemeni uprising:Three French foreign aid workers disappear in Yemen's Hadramout province. ](/news/2011/05/29/2011-yemeni-uprising-pthree-french-foreign-aid-workers-disappear-in-yemen-s-hadramout-province.md)
 Hundreds of suspected al-Qaeda gunmen have captured the southern Yemeni city of Zinjibar after heavy fighting with security forces.

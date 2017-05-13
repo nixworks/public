@@ -46,7 +46,7 @@ _Context: Annecy murders, French Alps, foothills_
 _Context: English Premier League_
 
 ### [The Iranian ministry of interior sets 14 June 2013 as the date of the next presidential election, for a successor of current president, Mahmoud Ahmadinejad. For the first time, this election is to be held on the same date as the next municipal elections. ](/news/2012/09/7/the-iranian-ministry-of-interior-sets-14-june-2013-as-the-date-of-the-next-presidential-election-for-a-successor-of-current-president-mahm.md)
-_Context: Elections in Iran, Iran, Iranian President, Mahmoud Ahmadinejad, ministry of interior, next municipal elections, presidential_
+_Context: Elections in Iran, Iran, Mahmoud Ahmadinejad, President, ministry of interior, next municipal elections, presidential_
 
 ## [Previous Day...](/news/2012/09/6/index.md)
 

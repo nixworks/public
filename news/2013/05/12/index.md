@@ -37,7 +37,7 @@ _Context: Boyko Borisov, Bulgaria, GERB, Sergei Stanishev, Socialist Party, parl
 Activists in northern New South Wales, who&#039;ve declared an Aboriginal republic, say they will take their campaign to the United Nations.
 
 ### [Pope Francis canonizes a record-breaking 800+ new Catholic Church saints - Emeritus Pope Benedict XVI had submitted the 813 "Martyrs of Otranto" who had been beheaded by Ottoman soldiers for refusing to convert to Islam.  ](/news/2013/05/12/pope-francis-canonizes-a-record-breaking-800-new-catholic-church-saints-emeritus-pope-benedict-xvi-had-submitted-the-813-martyrs-of-otra.md)
-_Context: Benedict XVI, Catholic Church, Martyrs of Otranto, Pope Francis_
+_Context: Benedict XVI, Catholics, Martyrs of Otranto, Pope Francis_
 
 ### [In a study by SUNY Buffalo, it is discovered that ''Utricularia gibba'', a carnivorous bladderwort plant, has the shortest known DNA sequence of any multicellular plant and that it lacks "junk DNA", sequences of code that do not encode proteins. ](/news/2013/05/12/in-a-study-by-suny-buffalo-it-is-discovered-that-utricularia-gibba-a-carnivorous-bladderwort-plant-has-the-shortest-known-dna-sequenc.md)
 How much of your DNA is constructive? Of the 3 billion letters that make up your genome, only 1.5 percent consists of genes-DNA actually does something useful, which carry the information for protein synthesis. Of the remaining 98.5 percent-the vast majority of the genetic material known as noncoding DNA that does not code for proteins, is not needed for a healthy organism, according to new research.

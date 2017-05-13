@@ -22,7 +22,7 @@ _Context: Baghdad, kidnapped_
 _Context: 1997, Death of Diana, Princess of Wales, London, Lord Stevens, Operation Paget, Scotland Yard, grandmother_
 
 ### [ UK Prime Minister Tony Blair is interviewed by police investigating cash for honours allegations. ](/news/2006/12/14/uk-prime-minister-tony-blair-is-interviewed-by-police-investigating-cash-for-honours-allegations.md)
-_Context: Prime Minster, Tony Blair, current political crisis_
+_Context: Prime Minister, Tony Blair, current political crisis_
 
 ### [ The European Union announces it will introduce a common EU-wide driving licence in 2013. ](/news/2006/12/14/the-european-union-announces-it-will-introduce-a-common-eu-wide-driving-licence-in-2013.md)
 _Context: 2013, European Union_

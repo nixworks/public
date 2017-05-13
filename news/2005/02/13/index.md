@@ -19,7 +19,7 @@ _Context: 2004 Indian Ocean earthquake, Aceh, Indonesia, aftershock_
 _Context: Deloitte & Touche, February 12, Mayor of Madrid, Spain, Windsor Tower, central Madrid, time zone_
 
 ### [ Sister Lucia de Jesus Santos dies. She was the last survivor of three children to whom the Virgin Mary is said to have  appeared at  Fatima in central Portugal in 1917. ](/news/2005/02/13/sister-lucia-de-jesus-santos-dies-she-was-the-last-survivor-of-three-children-to-whom-the-virgin-mary-is-said-to-have-appeared-at-fatima.md)
-_Context: 1917, Fatima, Lucia de Jesus Santos, Nun, Portuguese, Virgin Mary, appeared_
+_Context: 1917, Fatima, Lucia de Jesus Santos, Nun, Portugal, Virgin Mary, appeared_
 
 ### [ Germans mark the 60th anniversary of the Dresden fire bombing. ](/news/2005/02/13/germans-mark-the-60th-anniversary-of-the-dresden-fire-bombing.md)
 _Context: German, bombing of Dresden in World War II_

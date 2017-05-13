@@ -19,7 +19,7 @@ There has been a broad welcome for the announcement by the loyalist paramilitary
 _Context: England, National Assembly for Wales, Scotland, winning the most seats_
 
 ### [ Madeleine McCann disappears from her hotel room in Praia da Luz, Portugal. date=September 2008](/news/2007/05/3/madeleine-mccann-disappears-from-her-hotel-room-in-praia-da-luz-portugal-date-september-2008.md)
-_Context: Madeleine McCann, Portuguese, Praia da Luz_
+_Context: Madeleine McCann, Portugal, Praia da Luz_
 
 ## [Previous Day...](/news/2007/05/2/index.md)
 

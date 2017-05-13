@@ -25,7 +25,7 @@ _Context: Texas Department of Family and Protective Services, YFZ Ranch_
 _Context: Burma, Cyclone Nargis, Rangoon, United Nations_
 
 ### [ Fishermen in Spain, Portugal and Italy strike to protest against high fuel prices; Spain's economy minister says his government cannot cut fuel taxes, but is looking into ways to help fishermen. ](/news/2008/05/30/fishermen-in-spain-portugal-and-italy-strike-to-protest-against-high-fuel-prices-spain-s-economy-minister-says-his-government-cannot-cut.md)
-_Context: Italian, Portuguese, Spain, fuel prices_
+_Context: Italian, Portugal, Spain, fuel prices_
 
 ### [ Sadr supporters protest against a planned U.S.-Iraq security agreement to replace the current United Nations mandate for U.S. troops in Iraq, which expires at end of 2008. ](/news/2008/05/30/sadr-supporters-protest-against-a-planned-u-s-airaq-security-agreement-to-replace-the-current-united-nations-mandate-for-u-s-troops-in-i.md)
 _Context: Iraq, Muqtada al-Sadr, U.S._

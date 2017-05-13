@@ -22,7 +22,7 @@ Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, c
 _Context: Egypt, Eiffel Tower, Empire State Building, New York's, Paris, Pyramid, United Nations, countries, landmark_
 
 ### [The three-week synod on the family convened by Pope Francis at the Vatican concludes with traditional Catholic orientations toward marriage and the family intact. ](/news/2015/10/24/the-three-week-synod-on-the-family-convened-by-pope-francis-at-the-vatican-concludes-with-traditional-catholic-orientations-toward-marriage.md)
-_Context: Catholic Church, Pope Francis, Vatican, synod on the family_
+_Context: Catholics, Pope Francis, Vatican, synod on the family_
 
 ### [A Union Pacific freight train derails in flooded North Texas, near Corsicana, where the tracks washed away. The two crewmen on board swam to safety. ](/news/2015/10/24/a-union-pacific-freight-train-derails-in-flooded-north-texas-near-corsicana-where-the-tracks-washed-away-the-two-crewmen-on-board-swam-to.md)
 San Antonio man missing after being swept into drainage ditch while walking his dog; washed out railroad track causes freight train derailment

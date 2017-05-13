@@ -22,7 +22,7 @@ Tensions from clashes in the South China Sea erupt in the most serious outbreak 
 The judge in the Oscar Pistorius trial orders that the South African Paralympic athlete should undergo a mental evaluation.
 
 ### [Portuguese authorities charge Luiz Felipe Scolari, the coach of the Brazil national football team, with tax fraud allegedly carried out when he was the coach of Portugal. ](/news/2014/05/14/portuguese-authorities-charge-luiz-felipe-scolari-the-coach-of-the-brazil-national-football-team-with-tax-fraud-allegedly-carried-out-when.md)
-_Context: Brazil national football team, Luiz Felipe Scolari, Portugal, Portuguese, tax fraud_
+_Context: Brazil national football team, Luiz Felipe Scolari, Portugal, Portugal, tax fraud_
 
 ## [Previous Day...](/news/2014/05/13/index.md)
 

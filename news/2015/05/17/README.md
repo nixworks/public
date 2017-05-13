@@ -7,7 +7,7 @@ _Context: Afghanistan, Kabul International Airport, Taliban_
 The Iraqi city of Ramadi falls to IS militants after troops abandoned their positions, officials say, but the US says the situation remains fluid.
 
 ### [Pope Francis of the Roman Catholic Church canonises two saints from Palestine, Sister Mariam Baouardy and Sister Marie Alphonsine Ghattas. ](/news/2015/05/17/pope-francis-of-the-roman-catholic-church-canonises-two-saints-from-palestine-sister-mariam-baouardy-and-sister-marie-alphonsine-ghattas.md)
-_Context: Catholic Church, Mariam Baouardy, Marie Alphonsine Ghattas, Palestine, Pope Francis, canonize, saints_
+_Context: Catholics, Mariam Baouardy, Marie Alphonsine Ghattas, Palestine, Pope Francis, canonize, saints_
 
 ### [American pop music star Taylor Swift wins 8 awards at the ''Billboard'' Music Awards, including top artist. ](/news/2015/05/17/american-pop-music-star-taylor-swift-wins-8-awards-at-the-billboard-music-awards-including-top-artist.md)
 Taylor Swift dominated last night&#039;s Billboard Music Awards in Las Vegas, winning a massive eight gongs, mostly for her first pop album 1989.

@@ -13,7 +13,7 @@ _Context: Ethiopia, Ethiopian Army, Somalia, Transitional Federal Government, in
 _Context: Governor of Puerto Rico, Luis Fortuno, Puerto Rico_
 
 ### [ Gertrude Baines succeeds Maria de Jesus, who died in her home in Portugal at age 115, as the world's oldest person. ](/news/2009/01/2/gertrude-baines-succeeds-maria-de-jesus-who-died-in-her-home-in-portugal-at-age-115-as-the-world-s-oldest-person.md)
-_Context: Gertrude Baines, Maria de Jesus, Portuguese, oldest person in the world_
+_Context: Gertrude Baines, Maria de Jesus, Portugal, oldest person in the world_
 
 ## [Previous Day...](/news/2009/01/1/index.md)
 

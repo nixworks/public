@@ -52,7 +52,7 @@ Israel approves the construction of 1,100 homes in the Jewish settlement of Gilo
 _Context: CEO, Melli Bank, Saderat Bank_
 
 ### [Fugitive hijacker George Wright is caught in Portugal, thirty-nine years after he and members of the Black Liberation Army took control of Delta Air Lines Flight 841 and flew it to Algeria. ](/news/2011/09/27/fugitive-hijacker-george-wright-is-caught-in-portugal-thirty-nine-years-after-he-and-members-of-the-black-liberation-army-took-control-of-d.md)
-_Context: Black Liberation Army, Delta Air Lines Flight 841, George Wright, Portuguese, aircraft piracy_
+_Context: Black Liberation Army, Delta Air Lines Flight 841, George Wright, Portugal, aircraft piracy_
 
 ### [The trial of Dr Conrad Murray for manslaughter in connection to the death of American singer Michael Jackson begins in California. ](/news/2011/09/27/the-trial-of-dr-conrad-murray-for-manslaughter-in-connection-to-the-death-of-american-singer-michael-jackson-begins-in-california.md)
 _Context: California, Michael Jackson, death, manslaughter, trial of Dr Conrad Murray_

@@ -4,7 +4,7 @@
 _Context: Martin Brodeur, National Hockey League, New Jersey Devils, Patrick Roy, goaltender_
 
 ### [ Luxembourg becomes the European Union's third country to legalize euthanasia. ](/news/2009/03/17/luxembourg-becomes-the-european-union-s-third-country-to-legalize-euthanasia.md)
-_Context: European Union, Luxembourg, euthanasia_
+_Context: European Union, Luxembourg, whether or not to continue_
 
 ### [ Madagascar's military installs former Antananarivo Mayor Andry Rajoelina as the country's new President, replacing Marc Ravalomanana. ](/news/2009/03/17/madagascar-s-military-installs-former-antananarivo-mayor-andry-rajoelina-as-the-country-s-new-president-replacing-marc-ravalomanana.md)
 _Context: Andry Rajoelina, Antananarivo, Madagascan Army, Madagascar, Marc Ravalomanana, Mayor, President, political crisis_

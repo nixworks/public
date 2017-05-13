@@ -4,7 +4,7 @@
 _Context: Barawa, MV Miltzow, Merka, Pirate, Somalia, United Nations, cargo ship, hijack_
 
 ### [ CNN reports that the Louisiana attorney general is investigating the possibility that mercy killings of critically ill patients by staff medical professionals  at Memorial Medical Center in New Orleans, Louisiana occurred during Hurricane Katrina. ](/news/2005/10/12/cnn-reports-that-the-louisiana-attorney-general-is-investigating-the-possibility-that-mercy-killings-of-critically-ill-patients-by-staff-me.md)
-_Context: CNN, Hurricane Katrina, Louisiana, Memorial Medical Center, New Orleans, Louisiana, attorney general, euthanasia_
+_Context: CNN, Hurricane Katrina, Louisiana, Memorial Medical Center, New Orleans, Louisiana, attorney general, whether or not to continue_
 
 ### [ German Chancellor Gerhard Schroder informs that he won't play a role in the Merkel grand coalition cabinet. He criticizes the United States for its response to Hurricane Katrina and "Anglo-Saxon economic policies," while stressing the importance of Franco-Germanic ties. ](/news/2005/10/12/german-chancellor-gerhard-schrapder-informs-that-he-won-t-play-a-role-in-the-merkel-grand-coalition-cabinet-he-criticizes-the-united-state.md)
 _Context: Anglo-Saxon, Chancellor, Gerhard Schroder, Hurricane Katrina, United States, grand coalition_

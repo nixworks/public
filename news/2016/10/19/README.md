@@ -25,7 +25,7 @@ A Russian hacker suspected of targeting the U.S. is being held in Czech Republic
 Hillary Clinton and Donald Trump will square off for the third and final time in Las Vegas tonight for what has been dubbed &quot;Fight Night&quot;.
 
 ### [Iranian President Hassan Rouhani reshuffles his cabinet, replacing culture, education, and sports ministers. The new ministers still need the parliament's approval. ](/news/2016/10/19/iranian-president-hassan-rouhani-reshuffles-his-cabinet-replacing-culture-education-and-sports-ministers-the-new-ministers-still-need-th.md)
-_Context: Hassan Rouhani, Iran, Iranian President, cabinet, parliament_
+_Context: Hassan Rouhani, Iran, President, cabinet, parliament_
 
 ### [Croatian lawmakers approve conservative Croatian Democratic Union party leader Andrej Plenkovic's new coalition government 91-45. ](/news/2016/10/19/croatian-lawmakers-approve-conservative-croatian-democratic-union-party-leader-andrej-plenkovia-s-new-coalition-government-91a45.md)
 ZAGREB, Croatia (AP) — Lawmakers in Croatia approved a new government on Wednesday as the prime minister promised to boost economic recovery and overcome political divisions in the European Union&#039;s newest member state.…

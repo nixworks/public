@@ -49,7 +49,7 @@ Powerful storm blew into metro, killing 1, injuring 30 and putting North Side un
 _Context: Japan, Lee Myung-bak, Naoto Kan, Premier of China, President, Prime Minister, Wen Jiabao_
 
 ### [Hamid Baqai, the Chief of Staff of the Iranian President, is banned from public office for four years, after it was exposed that he was involved in a multi-million dollar embezzlement during the construction of a building on Kish Island in 2010. ](/news/2011/05/22/hamid-baqai-the-chief-of-staff-of-the-iranian-president-is-banned-from-public-office-for-four-years-after-it-was-exposed-that-he-was-invo.md)
-_Context: Hamid Baqai, Iranian President, Kish Island_
+_Context: Hamid Baqai, Kish Island, President_
 
 ### [Scottish newspaper ''The Sunday Herald'' names a footballer accused of being linked to a privacy superinjunction by users of social networking website Twitter, arguing that the injunction is only enforceable under English law and does not apply in Scots law. ](/news/2011/05/22/scottish-newspaper-the-sunday-herald-names-a-footballer-accused-of-being-linked-to-a-privacy-superinjunction-by-users-of-social-networki.md)
 A Scottish newspaper names a footballer accused of being linked to a privacy injunction by users of social networking website Twitter.
@@ -64,7 +64,7 @@ _Context: Vietnam, parliamentary election_
 _Context: Cyprus, parliamentary election_
 
 ### [Mahmoud Ahmadinejad, President of Iran, nominates Ali Nikzad to head the newly-established Ministry of Infrastructure. ](/news/2011/05/22/mahmoud-ahmadinejad-president-of-iran-nominates-ali-nikzad-to-head-the-newly-established-ministry-of-infrastructure.md)
-_Context: Ali Nikzad, Iranian President, Mahmoud Ahmadinejad, Ministry of Infrastructure_
+_Context: Ali Nikzad, Mahmoud Ahmadinejad, Ministry of Infrastructure, President_
 
 ### [20,000 people attend an anti-nuclear rally in Switzerland. ](/news/2011/05/22/20-000-people-attend-an-anti-nuclear-rally-in-switzerland.md)
 An estimated 20,000 people participated in the biggest anti-nuclear protest in Switzerland for 25 years on Sunday. Chanting and ...

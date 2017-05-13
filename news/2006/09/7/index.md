@@ -19,7 +19,7 @@ _Context: DoD Directive 2310, unlawful combatant_
 _Context: Israel, Lebanon, blockade, war_
 
 ### [Tony Blair announces that he will step down as Prime Minister of the United Kingdom within 12 months but declines to give an exact date for his departure. ](/news/2006/09/7/tony-blair-announces-that-he-will-step-down-as-prime-minister-of-the-united-kingdom-within-12-months-but-declines-to-give-an-exact-date-for.md)
-_Context: Prime Minster, Tony Blair_
+_Context: Prime Minister, Tony Blair_
 
 ## [Previous Day...](/news/2006/09/6/index.md)
 

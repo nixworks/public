@@ -1,7 +1,7 @@
 ## [2008-04-2](/news/2008/04/2/index.md)
 
 ### [ Leader of the House of Commons Harriet Harman becomes the first Labour woman ever to answer Prime Minister's Questions. ](/news/2008/04/2/leader-of-the-house-of-commons-harriet-harman-becomes-the-first-labour-woman-ever-to-answer-prime-minister-s-questions.md)
-_Context: Harriet Harman, Labour Party, Leader of the House of Commons, Prime Minister's Questions_
+_Context: Harriet Harman, Labour, Leader of the House of Commons, Prime Minister's Questions_
 
 ### [ A cross human-cow embryo survives a third straight day after being fertilized at Newcastle University, England. A director for embryonic stem cell laboratories at the Australian Stem Cell Centre said that the "99 per cent human" embryo could improve research within the field of human diseases. The Catholic Church in England however said that the creation was "monstrous" and says that the later destruction of it is unethical. ](/news/2008/04/2/a-cross-human-cow-embryo-survives-a-third-straight-day-after-being-fertilized-at-newcastle-university-england-a-director-for-embryonic-st.md)
 _Context: Australian Stem Cell Centre, England, Newcastle University, Roman Catholic Church, cow, diseases, embryo, embryonic stem cell, human_

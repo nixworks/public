@@ -4,7 +4,7 @@
 _Context: Cairns, Pacific Islands Forum_
 
 ### [ Mahmoud Ahmadinejad is officially sworn in as President of Iran for a second term. ](/news/2009/08/5/mahmoud-ahmadinejad-is-officially-sworn-in-as-president-of-iran-for-a-second-term.md)
-_Context: Iran, Iranian President, Mahmoud Ahmadinejad, re-election_
+_Context: Iran, Mahmoud Ahmadinejad, President, re-election_
 
 ### [ The funeral of Corazon Aquino, the first female President of an Asian country and the Philippines, takes place in the Philippines. ](/news/2009/08/5/the-funeral-of-corazon-aquino-the-first-female-president-of-an-asian-country-and-the-philippines-takes-place-in-the-philippines.md)
 _Context: Asia, Corazon Aquino, Philippine President, Philippines, first female_

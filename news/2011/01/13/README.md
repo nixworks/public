@@ -67,7 +67,7 @@ Celebrations erupt as turnout of registered voters exceeds necessary 60 per cent
 The Irish prime minister tells his party he will not resign - but acknowledges &quot;issues&quot; surrounding his leadership.
 
 ### [Voters in the English constituency of Oldham East and Saddleworth go to the polls for a by-election resulting in a win by Labour candidate Debbie Abrahams. ](/news/2011/01/13/voters-in-the-english-constituency-of-oldham-east-and-saddleworth-go-to-the-polls-for-a-by-election-resulting-in-a-win-by-labour-candidate-d.md)
-_Context: Debbie Abrahams, England, Labour Party, Oldham East and Saddleworth, Oldham East and Saddleworth by-election_
+_Context: Debbie Abrahams, England, Labour, Oldham East and Saddleworth, Oldham East and Saddleworth by-election_
 
 ### [U.S. Senator Kay Bailey Hutchison, a Republican from Texas, announces she will not seek re-election in 2012. ](/news/2011/01/13/u-s-senator-kay-bailey-hutchison-a-republican-from-texas-announces-she-will-not-seek-re-election-in-2012.md)
 Republican U.S. Sen. Kay Bailey Hutchison has announced that she will retire after her current term expires.

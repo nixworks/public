@@ -1,7 +1,7 @@
 ## [2008-10-7](/news/2008/10/7/index.md)
 
 ### [ Portugal recognizes Kosovo.](/news/2008/10/7/portugal-recognizes-kosovo.md)
-_Context: Kosovo, Portuguese, officially recognizes_
+_Context: Kosovo, Portugal, officially recognizes_
 
 ### [ War on Terrorism in Afghanistan: In talks brokered by Saudi Arabia, the Taliban renounces its ties to al-Qaeda and sues for peace with Afghanistan. ](/news/2008/10/7/war-on-terrorism-in-afghanistan-p-in-talks-brokered-by-saudi-arabia-the-taliban-renounces-its-ties-to-al-qaeda-and-sues-for-peace-with-afg.md)
 _Context: Afghanistan, Saudi Arabia, Taliban, War in Afghanistan (2001-present), War on Terrorism, al-Qaeda_

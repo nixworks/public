@@ -10,7 +10,7 @@ BEIRUT (AP) — A car bomb ripped through a Shiite neighborhood in south Beirut 
 _Context: North Waziristan, Pakistan, Taliban, War in North-West Pakistan_
 
 ### [First time in the history of digital currency, two Las Vegas casinos begin to accept Bitcoin. ](/news/2014/01/21/first-time-in-the-history-of-digital-currency-two-las-vegas-casinos-begin-to-accept-bitcoin.md)
-_Context: Bitcoin, Las Vegas, digital currency_
+_Context: Las Vegas, bitcoin, digital currency_
 
 ### [A polar vortex bears down on the east coast of the United States cancelling thousands of flights and creating dangerously cold conditions. ](/news/2014/01/21/a-polar-vortex-bears-down-on-the-east-coast-of-the-united-states-cancelling-thousands-of-flights-and-creating-dangerously-cold-conditions.md)
 A winter storm bearing down on the East Coast Tuesday is bringing forecasts of heavy snow, strong winds and frigid temperature to major metropolitan centers from North Carolina to New England.

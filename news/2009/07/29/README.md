@@ -4,7 +4,7 @@
 _Context: Nigeria, Nigerian battles, alive when captured_
 
 ### [ So Tom and Prncipe signs a loan deal with former colonial power Portugal aimed at anchoring the dobra to the euro. ](/news/2009/07/29/sao-tome-and-principe-signs-a-loan-deal-with-former-colonial-power-portugal-aimed-at-anchoring-the-dobra-to-the-euro.md)
-_Context: Portuguese, So Tom and Prncipe, dobra, euro_
+_Context: Portugal, So Tom and Prncipe, dobra, euro_
 
 ### [ Moldova goes to the polls for a parliamentary election, with an exit poll suggesting a setback for the Communist Party. ](/news/2009/07/29/moldova-goes-to-the-polls-for-a-parliamentary-election-with-an-exit-poll-suggesting-a-setback-for-the-communist-party.md)
 _Context: Communist Party, Moldova, exit poll, parliamentary election_

@@ -4,7 +4,7 @@
 _Context: Cuba, Granma_
 
 ### [ The Prime Minister of the United Kingdom Gordon Brown rules out calling an early election. ](/news/2007/10/6/the-prime-minister-of-the-united-kingdom-gordon-brown-rules-out-calling-an-early-election.md)
-_Context: Gordon Brown, Prime Minster_
+_Context: Gordon Brown, Prime Minister_
 
 ### [ Danish police arrest more than 400 people in protests in Copenhagen over the closure of the Ungdomshuset youth centre earlier in the year. ](/news/2007/10/6/danish-police-arrest-more-than-400-people-in-protests-in-copenhagen-over-the-closure-of-the-ungdomshuset-youth-centre-earlier-in-the-year.md)
 _Context: Copenhagen, Denmark, Ungdomshuset_

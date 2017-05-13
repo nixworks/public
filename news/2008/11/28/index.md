@@ -10,7 +10,7 @@ _Context: Black Friday, California, Christmas, New York, Palm Desert, Toys R Us,
 _Context: India, Mumbai, November terrorist attacks_
 
 ### [ United Kingdom Conservative Party Shadow Minister Damian Green is arrested for alleged leaking of Government immigration statistics ](/news/2008/11/28/united-kingdom-conservative-party-shadow-minister-damian-green-is-arrested-for-alleged-leaking-of-government-immigration-statistics.md)
-_Context: Conservative Party, Damian Green, Labour Party, Shadow Minister_
+_Context: Conservative Party, Damian Green, Labour, Shadow Minister_
 
 ### [ 2008 Thai political crisis: The Prime Minister of Thailand, Somchai Wongsawat, declares a state of emergency to allow police to clear Bangkok's two international airports of protesters. ](/news/2008/11/28/2008-thai-political-crisis-p-the-prime-minister-of-thailand-somchai-wongsawat-declares-a-state-of-emergency-to-allow-police-to-clear-bang.md)
 Listen to highlights from our radio broadcasts, including news, current affairs, interviews and other stories.

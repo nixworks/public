@@ -58,7 +58,7 @@ _Context: Barry Bonds, baseball game, home detention, obstruction of justice_
 _Context: Thailand, Thaksin_
 
 ### [Labour's Seema Malhotra wins the Feltham and Heston by-election. ](/news/2011/12/16/labour-s-seema-malhotra-wins-the-feltham-and-heston-by-election.md)
-_Context: Feltham and Heston by-election, Labour Party, Seema Malhotra_
+_Context: Feltham and Heston by-election, Labour, Seema Malhotra_
 
 ### [Minister of the Interior and Kingdom Relations of the Netherlands Piet Hein Donner resigns after being named the new Vice President of the Council of State, succeeding Herman Tjeenk Willink. ](/news/2011/12/16/minister-of-the-interior-and-kingdom-relations-of-the-netherlands-piet-hein-donner-resigns-after-being-named-the-new-vice-president-of-the-c.md)
 _Context: Herman Tjeenk Willink, Minister of Colonial Affairs, Piet Hein Donner, Vice President of the Council of State_

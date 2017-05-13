@@ -13,7 +13,7 @@ _Context: Mozambique, Zambezi River_
 _Context: Arizona, Jefferson Hotel, John McCain, R, Richmond, Virginia, United States, United States Senate, Virginia Supreme Court_
 
 ### [ Iranian President Mahmoud Ahmadinejad states in an interview that Iran does not fear the U.S. and that any foreign attack would be "severely punished". ](/news/2007/02/12/iranian-president-mahmoud-ahmadinejad-states-in-an-interview-that-iran-does-not-fear-the-u-s-and-that-any-foreign-attack-would-be-severel.md)
-_Context: Iran, Iranian President, Mahmoud Ahmadinejad, United States_
+_Context: Iran, Mahmoud Ahmadinejad, President, United States_
 
 ### [ United States Assistant Secretary of State for East Asian and Pacific Affairs, Christopher R. Hill, announces that tentative agreement has been reached over North Korean nuclear disarmament pending review by the signatories. ](/news/2007/02/12/united-states-assistant-secretary-of-state-for-east-asian-and-pacific-affairs-christopher-r-hill-announces-that-tentative-agreement-has.md)
 _Context: Assistant Secretary of State for East Asian and Pacific Affairs, Christopher R. Hill, North Korea, United States_

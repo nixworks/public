@@ -10,7 +10,7 @@ _Context: Catalonia, Parliament of Catalonia, Spain, bull fighting_
 A giant pyramid which appears to be a UFO hovering over the Kremlin has caused frenzied speculation in Russia that it is an alien spacecraft.
 
 ### [ The Vatican dismisses Zambia's controversial Roman Catholic Church archbishop Emmanuel Milingo. ](/news/2009/12/18/the-vatican-dismisses-zambia-s-controversial-roman-catholic-church-archbishop-emmanuel-milingo.md)
-_Context: Catholic Church, Emmanuel Milingo, Holy See, Zambia_
+_Context: Catholics, Emmanuel Milingo, Holy See, Zambia_
 
 ### [ A Paris court rules that Google is infringing copyright, sentencing it to pay 300,000&nbsp;euros in damages and interest to French publisher Editions de la Martinire, and 10,000&nbsp;euros a day until it removes extracts of the books from its database. ](/news/2009/12/18/a-paris-court-rules-that-google-is-infringing-copyright-sentencing-it-to-pay-300-000-nbsp-euros-in-damages-and-interest-to-french-publishe.md)
 _Context: Google, copyright infringement_
@@ -43,7 +43,7 @@ _Context: Atlantic, The Azores, crater, meteor_
 _Context: Mount Mayon, Philippines, ash, eruption, lava, volcanic activity_
 
 ### [ In a reversal of a previous decision, Sir John Chilcot insists that former British Prime Minister Tony Blair will give the majority of his evidence to The Iraq Inquiry in public. ](/news/2009/12/18/in-a-reversal-of-a-previous-decision-sir-john-chilcot-insists-that-former-british-prime-minister-tony-blair-will-give-the-majority-of-his.md)
-_Context: Iraq Inquiry, John Chilcot, Prime Minster, Tony Blair_
+_Context: Iraq Inquiry, John Chilcot, Prime Minister, Tony Blair_
 
 ### [ Snowfall across the east of England disrupts transport and power supplies. ](/news/2009/12/18/snowfall-across-the-east-of-england-disrupts-transport-and-power-supplies.md)
 _Context: weather-related_

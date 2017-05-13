@@ -43,7 +43,7 @@ _Context: Iran, legislative elections_
 The results confirmed late Friday install him as the host of the upcoming 2012 Olympics.
 
 ### [The Labour Party make significant gains in local elections throughout the United Kingdom. ](/news/2012/05/4/the-labour-party-make-significant-gains-in-local-elections-throughout-the-united-kingdom.md)
-_Context: Labour Party, United Kingdom, local elections_
+_Context: Labour, United Kingdom, local elections_
 
 ## [Previous Day...](/news/2012/05/3/index.md)
 

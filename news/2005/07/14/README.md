@@ -37,7 +37,7 @@ _Context: Haiti, Jacques Roche_
 _Context: Samukeliso Sithole, Zimbabwe, male and female_
 
 ### [ In Isiolo, Kenya, catholic missionary and bishop Luigi Locati is shot to death ](/news/2005/07/14/in-isiolo-kenya-catholic-missionary-and-bishop-luigi-locati-is-shot-to-death.md)
-_Context: Catholic Church, Isiolo, Kenya, Luigi Locati, missionaries_
+_Context: Catholics, Isiolo, Kenya, Luigi Locati, missionaries_
 
 ## [Previous Day...](/news/2005/07/13/index.md)
 

@@ -11,7 +11,7 @@ Actor Nicolas Cage was freed from jail Saturday after an alleged drunken inciden
 
 ### Related:
 
-1. [The statue of Confederate President Jefferson Davis in New Orleans is removed. ](/news/2017/05/11/the-statue-of-confederate-president-jefferson-davis-in-new-orleans-is-removed.md) _Context: New Orleans_
+1. [The statue of Confederate President Jefferson Davis in New Orleans is removed; this is the second of four planned removals of Confederate monuments in the city. ](/news/2017/05/11/the-statue-of-confederate-president-jefferson-davis-in-new-orleans-is-removed-this-is-the-second-of-four-planned-removals-of-confederate-mo.md) _Context: New Orleans_
 2. [Multiple tornadoes tear through New Orleans, Baton Rouge, and other parts of  southeastern Louisiana, injuring at least 20 people; no deaths have been reported. The severe weather also delivers heavy rain and hail in Mississippi and Alabama.  ](/news/2017/02/7/multiple-tornadoes-tear-through-new-orleans-baton-rouge-and-other-parts-of-southeastern-louisiana-injuring-at-least-20-people-no-deaths.md) _Context: New Orleans_
 3. [ A man is killed and two wounded in a triple shooting in Algiers neighborhood of New Orleans ](/news/2016/12/11/a-man-is-killed-and-two-wounded-in-a-triple-shooting-in-algiers-neighborhood-of-new-orleans.md) _Context: New Orleans_
 4. [One person is killed, and nine others wounded in a mass shooting in the French Quarter section of New Orleans, following the Bayou Classic football game. Police arrest two men, one of whom was injured during the shooting. ](/news/2016/11/27/one-person-is-killed-and-nine-others-wounded-in-a-mass-shooting-in-the-french-quarter-section-of-new-orleans-following-the-bayou-classic-f.md) _Context: New Orleans_

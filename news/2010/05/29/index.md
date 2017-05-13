@@ -7,7 +7,7 @@ _Context: BP, Deepwater Horizon oil spill_
 _Context: Florida Marlins, Major League Baseball, Philadelphia Phillies, Roy Halladay, perfect game, pitcher_
 
 ### [Tens of thousands of Portuguese rally in central Lisbon against the government's austerity measures in one of the biggest protests in recent years. ](/news/2010/05/29/tens-of-thousands-of-portuguese-rally-in-central-lisbon-against-the-government-s-austerity-measures-in-one-of-the-biggest-protests-in-recent.md)
-_Context: Lisbon, Portuguese_
+_Context: Lisbon, Portugal_
 
 ### [Thousands of people are evacuated as Attabad Lake in Pakistan's Hunza Valley begins to overflow. ](/news/2010/05/29/thousands-of-people-are-evacuated-as-attabad-lake-in-pakistan-s-hunza-valley-begins-to-overflow.md)
 Evacuation of villages under way in Hunza and Gilgit amid fears of a dangerous burst.

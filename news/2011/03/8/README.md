@@ -61,7 +61,7 @@ _Context: Darfur, Sudan_
 _Context: Gyaincain Norbu, Panchen Lama, Tibetan, unrest in 2008_
 
 ### [Former President of Iran Hashemi Rafsanjani loses his position as head of the Assembly of Experts, the body responsible for choosing the Supreme Leader of Iran, being replaced by Mohammad-Reza Mahdavi Kani. ](/news/2011/03/8/former-president-of-iran-hashemi-rafsanjani-loses-his-position-as-head-of-the-assembly-of-experts-the-body-responsible-for-choosing-the-sup.md)
-_Context: Assembly of Experts, Hashemi Rafsanjani, Iranian President, Mohammad-Reza Mahdavi Kani, Supreme Leader of Iran_
+_Context: Assembly of Experts, Hashemi Rafsanjani, Mohammad-Reza Mahdavi Kani, President, Supreme Leader of Iran_
 
 ### [Opposition websites report that Iranian security forces have fired teargas at crowds in Tehran to disperse protestors. ](/news/2011/03/8/opposition-websites-report-that-iranian-security-forces-have-fired-teargas-at-crowds-in-tehran-to-disperse-protestors.md)
 Iranian security forces fired teargas to disperse anti-government protesters in Tehran on Tuesday, the opposition website Kaleme reported.

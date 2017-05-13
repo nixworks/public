@@ -40,7 +40,7 @@ _Context: People's Republic of China, Taiwan, double agent_
 Russian President Dmitry Medvedev is said to be planning to visit more of the disputed Kuril Islands, despite growing anger from Japan.
 
 ### [UK Prime Minister David Cameron and the French President Nicolas Sarkozy meet in London and sign a treaty allowing joint development and testing of nuclear warheads, and outline plans for a joint army expeditionary force. ](/news/2010/11/2/uk-prime-minister-david-cameron-and-the-french-president-nicolas-sarkozy-meet-in-london-and-sign-a-treaty-allowing-joint-development-and-tes.md)
-_Context: David Cameron, London, Nicolas Sarkozy, President of France, Prime Minster, army, expeditionary force, nuclear warhead_
+_Context: David Cameron, London, Nicolas Sarkozy, President of France, Prime Minister, army, expeditionary force, nuclear warhead_
 
 ### [A court in Zambia grants bail to two Chinese managers accused of attempted murder for shooting and injuring 11 coal miners during a protest over pay and working conditions. ](/news/2010/11/2/a-court-in-zambia-grants-bail-to-two-chinese-managers-accused-of-attempted-murder-for-shooting-and-injuring-11-coal-miners-during-a-protest.md)
 _Context: People's Republic of China, Zambia, bail_

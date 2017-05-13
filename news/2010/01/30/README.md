@@ -31,7 +31,7 @@ Government rejects resignation
 _Context: People's Republic of China, Taiwan, United States_
 
 ### [Google begins to phase out its support for Internet Explorer 6 after it was identified as a weak link in cyber attacks on the search engine. ](/news/2010/01/30/google-begins-to-phase-out-its-support-for-internet-explorer-6-after-it-was-identified-as-a-weak-link-in-cyber-attacks-on-the-search-engine.md)
-_Context: Google, Internet Explorer 6, cyber attack_
+_Context: Google, Internet Explorer 6, cyber-attack_
 
 ### [Honda recalls 650,000 of the Honda Fit (also known as Honda Jazz) vehicles worldwide over potential electrical faults. ](/news/2010/01/30/honda-recalls-650-000-of-the-honda-fit-also-known-as-honda-jazz-vehicles-worldwide-over-potential-electrical-faults.md)
 _Context: Fit, Honda Motor Co._

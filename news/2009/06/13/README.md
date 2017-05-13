@@ -1,7 +1,7 @@
 ## [2009-06-13](/news/2009/06/13/index.md)
 
 ### [ Mahmoud Ahmadinejad is reelected as the President of Iran, although opposition leader Mir-Hossein Mousavi demands a recount. ](/news/2009/06/13/mahmoud-ahmadinejad-is-reelected-as-the-president-of-iran-although-opposition-leader-mir-hossein-mousavi-demands-a-recount.md)
-_Context: Iran, Iranian President, Mahmoud Ahmadinejad, Mir-Hossein Mousavi, re-election_
+_Context: Iran, Mahmoud Ahmadinejad, Mir-Hossein Mousavi, President, re-election_
 
 ### [ California Governor Arnold Schwarzenegger delivers a speech regarding the state's financial crisis, favoring state spending cuts rather than the issuing of bonds. ](/news/2009/06/13/california-governor-arnold-schwarzenegger-delivers-a-speech-regarding-the-state-s-financial-crisis-favoring-state-spending-cuts-rather-tha.md)
 _Context: Arnold Schwarzenegger, California, Governor of California, bonds, state's financial crisis_

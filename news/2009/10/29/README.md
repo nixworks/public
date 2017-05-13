@@ -31,7 +31,7 @@ _Context: Gulf of Aden, Somali pirates, Somalia, Thailand_
 _Context: India, North Korea, South Korea_
 
 ### [ Iranian President Mahmoud Ahmadinejad says the government is ready for a deal on its nuclear program. ](/news/2009/10/29/iranian-president-mahmoud-ahmadinejad-says-the-government-is-ready-for-a-deal-on-its-nuclear-program.md)
-_Context: Iran, Iranian President, Mahmoud Ahmadinejad, nuclear scientist_
+_Context: Iran, Mahmoud Ahmadinejad, President, nuclear scientist_
 
 ### [ The African Union imposes a travel ban on the leader of Guinea's military junta, Moussa Dadis Camara, and 41 of his colleagues and freezes their bank accounts. ](/news/2009/10/29/the-african-union-imposes-a-travel-ban-on-the-leader-of-guinea-s-military-junta-moussa-dadis-camara-and-41-of-his-colleagues-and-freezes.md)
 _Context: African Union, Guinea, Moussa Dadis Camara_

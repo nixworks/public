@@ -4,7 +4,7 @@
 _Context: CAIR, Internet porn, Iraq, The Pentagon, US soldiers, website_
 
 ### [ Trade unions inflict defeats against the UK Labour Party government, during the party's annual conference, including on the plan to use private companies in the National Health Service. ](/news/2005/09/28/trade-unions-inflict-defeats-against-the-uk-labour-party-government-during-the-party-s-annual-conference-including-on-the-plan-to-use-pri.md)
-_Context: Labour Party, National Health Service, United Kingdom, unionize_
+_Context: Labour, National Health Service, United Kingdom, unionize_
 
 ### [ U.S. House Majority Leader Tom DeLay is indicted on one count of criminal conspiracy by Texas grand jury, for allegedly funding Texas state elections secretly through the Republican national office.](/news/2005/09/28/u-s-house-majority-leader-tom-delay-is-indicted-on-one-count-of-criminal-conspiracy-by-texas-grand-jury-for-allegedly-funding-texas-state.md)
 _Context: Majority Leader, Texas, Tom DeLay_

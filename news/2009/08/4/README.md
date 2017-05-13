@@ -49,7 +49,7 @@ Protesting former staff at traveloperator Thomas Cook (TCG.L) were arrested on T
 _Context: Nigeria, President of Nigeria, Umaru Yar'Adua, sectarian violence_
 
 ### [ Opposition groups in Iran call for further protests ahead of President Mahmoud Ahmadinejad's inauguration. ](/news/2009/08/4/opposition-groups-in-iran-call-for-further-protests-ahead-of-president-mahmoud-ahmadinejad-s-inauguration.md)
-_Context: Iran, Iranian President, Mahmoud Ahmadinejad, protests against the regime_
+_Context: Iran, Mahmoud Ahmadinejad, President, protests against the regime_
 
 ### [ The trial of a Sudanese woman accused of public indecency after wearing trousers is adjourned for a second time after police disperse protesters outside the court. ](/news/2009/08/4/the-trial-of-a-sudanese-woman-accused-of-public-indecency-after-wearing-trousers-is-adjourned-for-a-second-time-after-police-disperse-prote.md)
 _Context: Sudan, public indecency, trousers_

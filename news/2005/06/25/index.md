@@ -22,7 +22,7 @@ _Context: Muslim, Sri Lanka, Tamil_
 _Context: China, Guangdong province, Pearl_
 
 ### [ In Iran, the hardline Mayor of Tehran, Mahmoud Ahmadinejad, wins Friday's run-off election for the nation's presidency with 62% of the vote. ](/news/2005/06/25/in-iran-the-hardline-mayor-of-tehran-mahmoud-ahmadinejad-wins-friday-s-run-off-election-for-the-nation-s-presidency-with-62-of-the-vote.md)
-_Context: Friday's run-off election, Iran, Iranian President, Mahmoud Ahmadinejad, Tehran_
+_Context: Friday's run-off election, Iran, Mahmoud Ahmadinejad, President, Tehran_
 
 ### [ Residents in St. Louis, Missouri are allowed back to their homes early today after an explosion at an industrial gas plant forced emergency evacuations Friday. ](/news/2005/06/25/residents-in-st-louis-missouri-are-allowed-back-to-their-homes-early-today-after-an-explosion-at-an-industrial-gas-plant-forced-emergency.md)
 _Context: St Louis, evacuation centers, explosion_

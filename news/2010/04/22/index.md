@@ -31,7 +31,7 @@ _Context: Brazil, Minas Gerais, Toyota Corolla_
 _Context: Sarath Fonseka, Sri Lanka_
 
 ### [President of Iran Mahmoud Ahmadinejad arrives in Zimbabwe; Prime Minister Morgan Tsvangirai's Movement for Democratic Change - Tsvangirai objects, labelling Mr Ahmadinejad a "war-monger, a trampler of human rights [and] an executioner". ](/news/2010/04/22/president-of-iran-mahmoud-ahmadinejad-arrives-in-zimbabwe-prime-minister-morgan-tsvangirai-s-movement-for-democratic-change-a-tsvangirai.md)
-_Context: Iranian President, Mahmoud Ahmadinejad, Morgan Tsvangirai, Movement for Democratic Change, Prime Minister, Zimbabwe_
+_Context: Mahmoud Ahmadinejad, Morgan Tsvangirai, Movement for Democratic Change, President, Prime Minister, Zimbabwe_
 
 ### [A Utrecht court acquits the Dutch arm of the Arab European League of hate crime charges relating to the publication of a cartoon questioning the Holocaust.  The publication was intended to highlight double standards after MP Geert Wilders was not put on trial for distributing cartoons of Muhammad. ](/news/2010/04/22/a-utrecht-court-acquits-the-dutch-arm-of-the-arab-european-league-of-hate-crime-charges-relating-to-the-publication-of-a-cartoon-questioning.md)
 _Context: Arab European League, Geert Wilders, Holocaust, Muhammad, Netherlands, Utrecht_

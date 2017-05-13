@@ -46,7 +46,7 @@ _Context: Florida, Miami International Airport, United States_
 _Context: Benigno Aquino III, Manila hostage crisis, Philippine President_
 
 ### [Seven defendants are found guilty of abusing children in the Casa Pia child sex abuse trial in Lisbon, Portugal. ](/news/2010/09/3/seven-defendants-are-found-guilty-of-abusing-children-in-the-casa-pia-child-sex-abuse-trial-in-lisbon-portugal.md)
-_Context: Casa Pia, Lisbon, Portuguese, child abuse, child sex abuse_
+_Context: Casa Pia, Lisbon, Portugal, child abuse, child sex abuse_
 
 ### [Pro-government crowds in Iran attack the home of opposition leader Mahdi Karroubi ahead of Al-Quds day protests. ](/news/2010/09/3/pro-government-crowds-in-iran-attack-the-home-of-opposition-leader-mahdi-karroubi-ahead-of-al-quds-day-protests.md)
 President Mahmoud Ahmadinejad addresses thousands in Tehran, saying that Middle East peace talks are doomed to failure.

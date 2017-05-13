@@ -37,7 +37,7 @@ Former Chief Executive Donald Tsang Yam-kuen has been formally charged by the In
 _Context: Atlanta, Pacific Rim, Trans-Pacific Partnership, United States_
 
 ### [Governor Jerry Brown signs legislation which will go into effect in late 2016, legalizing euthanasia statewide in California. ](/news/2015/10/5/governor-jerry-brown-signs-legislation-which-will-go-into-effect-in-late-2016-legalizing-euthanasia-statewide-in-california.md)
-_Context: Governor Jerry Brown, euthanasia_
+_Context: Governor Jerry Brown, whether or not to continue_
 
 ### [William C. Campbell, Satoshi Omura, and Tu Youyou win the 2015 Nobel Prize in Medicine for their work on parasitic diseases. ](/news/2015/10/5/william-c-campbell-satoshi-omura-and-tu-youyou-win-the-2015-nobel-prize-in-medicine-for-their-work-on-parasitic-diseases.md)
 William Campbell had a eureka moment in 1975 while testing a new medicine for animals.

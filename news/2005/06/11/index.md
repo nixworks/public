@@ -10,7 +10,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 _Context: Coalition for Unity and Democracy, Ethiopia, Hailu Shawel, Lidetu Ayalew, house arrest_
 
 ### [ In Portugal, former prime minister Vasco Gonalves, one of the figures of the Carnation Revolution, dies ](/news/2005/06/11/in-portugal-former-prime-minister-vasco-goncalves-one-of-the-figures-of-the-carnation-revolution-dies.md)
-_Context: Carnation Revolution, Portuguese, Vasco Gonalves_
+_Context: Carnation Revolution, Portugal, Vasco Gonalves_
 
 ### [ In Poland, gay rights activists defy ban and march in the streets of Warsaw ](/news/2005/06/11/in-poland-gay-rights-activists-defy-ban-and-march-in-the-streets-of-warsaw.md)
 _Context: Poland, Warsaw, gay rights_
