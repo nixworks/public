@@ -15,7 +15,7 @@ Prime Minister Perry Christie is seeking a second-consecutive term for his Progr
 ### [Lawmakers in the Parliament Assembly of Kosovo vote in a no-confidence motion to remove the government of Prime Minister Isa Mustafa from office, triggering a snap election that is due to take place next month. ](/news/2017/05/10/lawmakers-in-the-parliament-assembly-of-kosovo-vote-in-a-no-confidence-motion-to-remove-the-government-of-prime-minister-isa-mustafa-from-of.md)
 Members of parliament dismiss government in no-confidence motion, triggering a snap election in June.
 
-### [The U.S. Attorney's Office in Alexandria, Virginia thru U.S. Attorney Dana Boente issues subpoenas to former National Security Advisor Michael T. Flynn to assess the extent of his ties to Russia. ](/news/2017/05/10/the-u-s-attorney-s-office-in-alexandria-virginia-thru-u-s-attorney-dana-boente-issues-subpoenas-to-former-national-security-advisor-micha.md)
+### [The U.S. Attorney's Office in Alexandria, Virginia, through U.S. Attorney Dana Boente, issues subpoenas to former National Security Advisor Michael T. Flynn to assess the extent of his ties to Russia. ](/news/2017/05/10/the-u-s-attorney-s-office-in-alexandria-virginia-through-u-s-attorney-dana-boente-issues-subpoenas-to-former-national-security-advisor.md)
 _Context: Alexandria, Virginia, Dana Boente, Michael T. Flynn, National Security Advisor, Russia, Russian interference in the 2016 United States elections, subpoena_
 
 ## [Previous Day...](/news/2017/05/9/index.md)
