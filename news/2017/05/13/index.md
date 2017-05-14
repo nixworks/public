@@ -24,5 +24,8 @@ Seventeen people were killed and 13 injured when a bus carrying Turkish tourists
 ### [A TrainOSE passenger train derails near the Greek village of Adendro, leaving at least four people dead and five seriously injured. ](/news/2017/05/13/a-trainose-passenger-train-derails-near-the-greek-village-of-adendro-leaving-at-least-four-people-dead-and-five-seriously-injured.md)
 The intercity train was travelling from Athens to the northern city of Thessaloniki when it derailed and slammed into a house.
 
+### [A 5.7 magnitude earthquake kills at least three people in the town of Pish Qaleh in northeast Iran. ](/news/2017/05/13/a-5-7-magnitude-earthquake-kills-at-least-three-people-in-the-town-of-pish-qaleh-in-northeast-iran.md)
+_Context: Iran, Pish Qaleh_
+
 ## [Previous Day...](/news/2017/05/12/index.md)
 
