@@ -31,7 +31,7 @@ _Context: Lake Albert, Uganda_
 _Context: European Union, Guinea-Bissau_
 
 ### [The Government of Pakistan summons the British High Commissioner to Islamabad for a "dressing down" by Foreign Minister Shah Mehmood Qureshi over remarks made by the British Prime Minister David Cameron on Pakistan "looking both ways" on terrorism. ](/news/2010/08/2/the-government-of-pakistan-summons-the-british-high-commissioner-to-islamabad-for-a-dressing-down-by-foreign-minister-shah-mehmood-qureshi.md)
-_Context: David Cameron, Islamabad, Minister of Foreign Affairs, Pakistan, Prime Minister, Shah Mehmood Qureshi, United Kingdom, government, terrorism_
+_Context: David Cameron, Islamabad, Minister of Foreign Affairs, Pakistan, Prime Minster, Shah Mehmood Qureshi, United Kingdom, government, terrorism_
 
 ### [The trial of Malaysian opposition leader Anwar Ibrahim on sodomy charges is deferred until August 9. ](/news/2010/08/2/the-trial-of-malaysian-opposition-leader-anwar-ibrahim-on-sodomy-charges-is-deferred-until-august-9.md)
 _Context: Anwar Ibrahim, Malaysia, sodomy, trial_
@@ -46,7 +46,7 @@ Politicians in Nepal fail for a third time to elect a new prime minister after b
 Seven civilians died in continuing violence in the Kashmir Valley on Monday as thousands of people defied curfew at several places. At least 50 people were injured. Mobs set on fire several government
 
 ### [A Greek truck drivers strike ends with the situation expected  to get back to normal quickly. ](/news/2010/08/2/a-greek-truck-drivers-strike-ends-with-the-situation-expected-to-get-back-to-normal-quickly.md)
-_Context: Greece, truck driver_
+_Context: Greek, truck driver_
 
 ### [The United States House of Representatives ethics committee charges California Democrat Maxine Waters with breaking ethics rules. ](/news/2010/08/2/the-united-states-house-of-representatives-ethics-committee-charges-california-democrat-maxine-waters-with-breaking-ethics-rules.md)
 A House ethics panel charged California Democrat Rep. Maxine Waters today with breaking unspecified ethics rules -- making the 10-term veteran the second lawmaker to face an ethics trial just months before the midterm election.

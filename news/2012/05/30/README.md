@@ -37,7 +37,7 @@ Wikileaks founder Julian Assange loses his Supreme Court fight against extraditi
 A UN-backed court in The Hague sentences former Liberian President Charles Taylor to 50 years in jail for aiding war crimes in Sierra Leone.
 
 ### [Andy Coulson, former director of communications for British Prime Minister David Cameron, is detained for questioning by police investigating claims of perjury. ](/news/2012/05/30/andy-coulson-former-director-of-communications-for-british-prime-minister-david-cameron-is-detained-for-questioning-by-police-investigatin.md)
-_Context: Andy Coulson, David Cameron, Prime Minister, perjury_
+_Context: Andy Coulson, David Cameron, Prime Minster, perjury_
 
 ### [At the Leveson Inquiry into British media practices, UK Secretary of State for Business Vince Cable, who initially had responsibility for overseeing News Corporation's bid to take full control of BSkyB, tells the hearing he was warned the Liberal Democrats would be "done over" by the company's newspapers if he ruled against the takeover. ](/news/2012/05/30/at-the-leveson-inquiry-into-british-media-practices-uk-secretary-of-state-for-business-vince-cable-who-initially-had-responsibility-for-ov.md)
 _Context: BSkyB, BSkyB takeover bid, Leveson Inquiry, Liberal Democrats, News Corporation, Secretary of State for Business, Vince Cable_

@@ -43,7 +43,7 @@ A woman accused of attacking Leonardo DiCaprio with a broken bottle at a 2005 pa
 _Context: Daniel Akerson, Edward Whitacre, Jr., General Motors, chief executive officer_
 
 ### [Greece's economy shrinks further. ](/news/2010/08/12/greece-s-economy-shrinks-further.md)
-_Context: Greece_
+_Context: Greek_
 
 ### [2010 Pakistan floods:The United Nations launches a major appeal for assistance dealing with the ongoing floods that have devastated Pakistan. ](/news/2010/08/12/2010-pakistan-floods-pthe-united-nations-launches-a-major-appeal-for-assistance-dealing-with-the-ongoing-floods-that-have-devastated-pakista.md)
 Zardari meets flood victims after heavy criticism of decision to continue European tour.

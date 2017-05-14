@@ -1,7 +1,7 @@
 ## [2007-01-31](/news/2007/01/31/index.md)
 
 ### [ Lord Levy, The British Prime Minister Tony Blair's Middle East Envoy, and the Labour Party's chief fundraiser (or 'Lord Cashpoint') is arrested for a second time in the Cash for Honours investigation by John Yates of Scotland Yard. This time Levy is arrested on account of perverting the course of justice.](/news/2007/01/31/lord-levy-the-british-prime-minister-tony-blair-s-middle-east-envoy-and-the-labour-party-s-chief-fundraiser-or-lord-cashpoint-is-arre.md)
-_Context: Cash for honours, Cashpoint, John Yates, Labour, Lord Levy, Scotland Yard, Tony Blair_
+_Context: Cash for honours, Cashpoint, John Yates, Labour Party, Lord Levy, Scotland Yard, Tony Blair_
 
 ### [ French President Jacques Chirac, in an interview with the ''International Herald Tribune'', says that if the Government of Iran produces one or two nuclear weapons it will pose little danger to its  neighbors. If Iran were to try to use a nuclear weapon against Israel, "It would not have gone off 200 meters into the atmosphere before Tehran would be razed to the ground." He later retracts his statements, saying he did not realize his comments were on the record. ](/news/2007/01/31/french-president-jacques-chirac-in-an-interview-with-the-international-herald-tribune-says-that-if-the-government-of-iran-produces-on.md)
 _Context: International Herald Tribune, Iranian government, Israel, Jacques Chirac, Middle East, Tehran, nuclear warheads_

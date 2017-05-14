@@ -73,7 +73,7 @@ _Context: Central-African, presidential and legislative elections_
 Tasmanian Premier David Bartlett has confirmed he will stand down as the state&#039;s leader, citing family reasons.
 
 ### [President of Iran Mahmoud Ahmadinejad designed Ali Akbar Salehi, the current acting Foreign Minister to the Parliament to succeed Manouchehr Mottaki who was dismissed on December. ](/news/2011/01/23/president-of-iran-mahmoud-ahmadinejad-designed-ali-akbar-salehi-the-current-acting-foreign-minister-to-the-parliament-to-succeed-manouchehr.md)
-_Context: Ali Akbar Salehi, Mahmoud Ahmadinejad, Manouchehr Mottaki, President, foreign minister, parliament_
+_Context: Ali Akbar Salehi, Mahmoud Ahmadinejad, Manouchehr Mottaki, foreign minister, parliament, president_
 
 ### [President of Pakistan Asif Ali Zardari launches an emergency polio immunisation programme targeting 32 million children under the age of five. ](/news/2011/01/23/president-of-pakistan-asif-ali-zardari-launches-an-emergency-polio-immunisation-programme-targeting-32-million-children-under-the-age-of-fiv.md)
 _Context: Asif Ali Zardari, President, polio_

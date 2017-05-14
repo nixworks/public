@@ -19,7 +19,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: Iraq, downed by ground fire, military_
 
 ### [ Greece's conservative government wins a vote of confidence, ending a three-day debate that started with the opposition Socialist Party calling for early elections ](/news/2007/02/4/greece-s-conservative-government-wins-a-vote-of-confidence-ending-a-three-day-debate-that-started-with-the-opposition-socialist-party-call.md)
-_Context: Greece_
+_Context: Greek_
 
 ### [ A boat sailing from Tiko in Cameroon to Oron in Nigeria capsizes, leaving up to 85 people dead. ](/news/2007/02/4/a-boat-sailing-from-tiko-in-cameroon-to-oron-in-nigeria-capsizes-leaving-up-to-85-people-dead.md)
 _Context: Cameroon, Nigeria, Oron, Tiko_

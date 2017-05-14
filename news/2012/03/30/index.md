@@ -53,7 +53,7 @@ For weeks, there has been frenzied politicking at the top of the Communist Party
 Tokyo deploys missile defence systems and says it will intercept North Korean rocket if it enters Japanese airspace.
 
 ### [Bradford West by-election: Respect Party candidate George Galloway tours the City of Bradford on an open-top bus in celebration of his shock victory over Labour, a result which has been described as the "Bradford Spring". ](/news/2012/03/30/bradford-west-by-election-respect-party-candidate-george-galloway-tours-the-city-of-bradford-on-an-open-top-bus-in-celebration-of-his-shock.md)
-_Context: Arab Spring, Bradford West by-election, City of Bradford, George Galloway, Labour, Respect_
+_Context: Arab Spring, Bradford West by-election, City of Bradford, George Galloway, Labour Party, Respect_
 
 ## [Previous Day...](/news/2012/03/29/index.md)
 

@@ -13,7 +13,7 @@ _Context: Boko Haram, Cameroon, Chad, Islamist insurgency in Nigeria, Nigeria_
 _Context: 2013-15 Ukrainian crisis, Donetsk International Airport, Russia, Ukrainian, army_
 
 ### [Greek anti-terror police arrest four people in Athens, Greece in alleged relation to the January 15 failed terrorist plot to kill police officers in Belgium. ](/news/2015/01/17/greek-anti-terror-police-arrest-four-people-in-athens-greece-in-alleged-relation-to-the-january-15-failed-terrorist-plot-to-kill-police-off.md)
-_Context: Athens, Belgium, Greece, terrorist_
+_Context: Athens, Belgium, Greek, terrorist_
 
 ### [Pope Francis celebrates mass at Typhoon Haiyan (Yolanda)-hit city of Tacloban with an audience of half-a-million people. ](/news/2015/01/17/pope-francis-celebrates-mass-at-typhoon-haiyan-yolanda-hit-city-of-tacloban-with-an-audience-of-half-a-million-people.md)
 Pope Francis celebrates Mass in the Philippine city of Tacloban, devastated by a 2013 typhoon, but a storm forces him to leave early.

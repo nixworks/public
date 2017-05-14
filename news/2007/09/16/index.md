@@ -34,7 +34,7 @@ _Context: Iraq, Muqtada al-Sadr, Nouri al-Maliki_
 _Context: China, leukemia_
 
 ### [ Greek voters go to the polls for the Greek legislative election, 2007. The ruling New Democracy Party wins the election, with 98% of the votes counted, gaining 41.9% of the vote and 152 seats over 38.1% and 102 seats for the socialist PASOK party. The Communist Party wins 8.1% and 22 seats, over 5% and 14 seats for Radical Left Coalition and 3.7% and 10 seats for Popular Orthodox Rally (LAOS), a Far-Right party. ](/news/2007/09/16/greek-voters-go-to-the-polls-for-the-greek-legislative-election-2007-the-ruling-new-democracy-party-wins-the-election-with-98-of-the-vo.md)
-_Context: Greece, Sunday's general elections_
+_Context: Greek, Sunday's general elections_
 
 ## [Previous Day...](/news/2007/09/15/index.md)
 

@@ -52,7 +52,7 @@ Allegations of fraud and voter intimidation are overshadowing Burma&#039;s first
 _Context: Vietnam, propaganda_
 
 ### [Greeks vote in local elections with the Prime Minister George Papandreou threatening to dissolve parliament if his party does not fare well. Early results show that the PASOK is doing well making an early election less likely. ](/news/2010/11/7/greeks-vote-in-local-elections-with-the-prime-minister-george-papandreou-threatening-to-dissolve-parliament-if-his-party-does-not-fare-well.md)
-_Context: George Papandreou, Greece, Greek prime minister, PASOK_
+_Context: George Papandreou, Greek, Greek prime minister, PASOK_
 
 ### [Voters in Guinea finally go to the polls for the second round of voting in the presidential election. ](/news/2010/11/7/voters-in-guinea-finally-go-to-the-polls-for-the-second-round-of-voting-in-the-presidential-election.md)
 Guineans cast their ballots in a vote that has been delayed multiple times following violent ethnic clashes.

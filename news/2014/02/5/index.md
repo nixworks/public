@@ -16,7 +16,7 @@ Tube passengers endure delays because of strike action, with Underground bosses 
 Parts of Britain are battered by a storm which has washed away part of a railway line and seen homes evacuated - with more bad weather forecast.
 
 ### [UK Prime Minister David Cameron announces that an extra 100 million will be spent on dealing with the aftermath of the floods that have hit the UK. ](/news/2014/02/5/uk-prime-minister-david-cameron-announces-that-an-extra-ps100-million-will-be-spent-on-dealing-with-the-aftermath-of-the-floods-that-have-hit.md)
-_Context: David Cameron, Prime Minister_
+_Context: David Cameron, Prime Minster_
 
 ### [North Korea and South Korea hold meetings to discuss visitation reunions of families separated by the Korean War. ](/news/2014/02/5/north-korea-and-south-korea-hold-meetings-to-discuss-visitation-reunions-of-families-separated-by-the-korean-war.md)
 North and South Korea agree to hold reunions for families separated after the Korean War, in what could be the first such meetings since 2010.

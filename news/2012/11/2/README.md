@@ -23,7 +23,7 @@ A communist-era dissident in Albania dies three weeks after setting himself on f
 The New York City Marathon, one of the premier US distance-running events, will not take place as planned on Sunday, a New York city official said.
 
 ### [Former British Labour Party minister Denis MacShane resigns his House of Commons seat after he wrongfully claimed at least PS7,500 in expenses. ](/news/2012/11/2/former-british-labour-party-minister-denis-macshane-resigns-his-house-of-commons-seat-after-he-wrongfully-claimed-at-least-aps7-500-in-expens.md)
-_Context: Denis MacShane, House of Commons, Labour, resign_
+_Context: Denis MacShane, House of Commons, Labour Party, resign_
 
 ## [Previous Day...](/news/2012/11/1/index.md)
 

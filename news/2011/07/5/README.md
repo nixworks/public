@@ -67,7 +67,7 @@ The parents of murdered Soham girls Holly Wells and Jessica Chapman have been vi
 Two national newspapers published articles following the arrest of a man over the killing of Jo Yeates which were in contempt of court, the High Court hears.
 
 ### [13 UK Uncut activists appear in court on charges of aggravated trespass after peacefully occupying the luxury London food retailer Fortnum & Mason during a protest against tax avoidance in March. More than 100 other activists are also expected to be put on trial later, with Labour MP John McDonnell claiming such a trial would be "outrageous" and "fly in the face of public opinion". ](/news/2011/07/5/13-uk-uncut-activists-appear-in-court-on-charges-of-aggravated-trespass-after-peacefully-occupying-the-luxury-london-food-retailer-fortnum.md)
-_Context: Fortnum & Mason, John McDonnell, Labour, UK Uncut, trespass_
+_Context: Fortnum & Mason, John McDonnell, Labour Party, UK Uncut, trespass_
 
 ### [The Netherlands is held responsible for the deaths of three Bosniaks during the Srebrenica massacre in Bosnia, according to a court ruling in The Hague. ](/news/2011/07/5/the-netherlands-is-held-responsible-for-the-deaths-of-three-bosniaks-during-the-srebrenica-massacre-in-bosnia-according-to-a-court-ruling-i.md)
 The Dutch state was responsible for the deaths of three Bosniaks in the 1995 Srebrenica massacre, a court rules, opening the way for more claims.

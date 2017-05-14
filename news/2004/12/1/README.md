@@ -43,7 +43,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [David Blunkett, United Kingdom Home Secretary, insists that he did no wrong in the controversy surrounding the alleged misuse of his position, and receives the backing of Prime Minister Tony Blair. Sir Alan Budd is appointed to carry out an independent enquiry. ](/news/2004/12/1/david-blunkett-united-kingdom-home-secretary-insists-that-he-did-no-wrong-in-the-controversy-surrounding-the-alleged-misuse-of-his-positio.md)
-_Context: David Blunkett, Home Secretary, Prime Minister, Tony Blair_
+_Context: David Blunkett, Home Secretary, Prime Minster, Tony Blair_
 
 ## [Previous Day...](/news/2004/11/30/index.md)
 

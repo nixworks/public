@@ -55,7 +55,7 @@ _Context: Democracy Stadium, Dominique Mbonyumutwa, Gitarama, President_
 A patient died when their diagnosis was delayed at Tallaght Hospital because x-rays were not reviewed by a consultant radiologist.
 
 ### [Sir Nicholas Winton and Denis Avey are presented with the new British Hero of the Holocaust medal by Prime Minister Gordon Brown. ](/news/2010/03/9/sir-nicholas-winton-and-denis-avey-are-presented-with-the-new-british-hero-of-the-holocaust-medal-by-prime-minister-gordon-brown.md)
-_Context: British Hero of the Holocaust, Denis Avey, Gordon Brown, Prime Minister, Sir Nicholas Winton_
+_Context: British Hero of the Holocaust, Denis Avey, Gordon Brown, Prime Minster, Sir Nicholas Winton_
 
 ### [Pink Floyd take legal action against EMI. ](/news/2010/03/9/pink-floyd-take-legal-action-against-emi.md)
 British rock band Pink Floyd have launched legal action against record label EMI in a case that centres around how music is sold in the digital age.

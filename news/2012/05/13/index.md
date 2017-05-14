@@ -28,7 +28,7 @@ Angela Merkel&#039;s conservative party suffers a crushing defeat in a crucial s
 _Context: Bo Xilai scandal, Meng Jianzhu, Politburo Standing Committee, Zhou Yongkang_
 
 ### [The President of Greece, Karolos Papoulias, fails to broker a coalition deal between Greece's major political parties. ](/news/2012/05/13/the-president-of-greece-karolos-papoulias-fails-to-broker-a-coalition-deal-between-greece-s-major-political-parties.md)
-_Context: Greece, Karolos Papoulias, President of Greece, coalition government_
+_Context: Greek, Karolos Papoulias, President of Greece, coalition government_
 
 ### [Scientists claim that there is a visible link between the loss of biodiversity and the disappearance of endangered languages and cultures. ](/news/2012/05/13/scientists-claim-that-there-is-a-visible-link-between-the-loss-of-biodiversity-and-the-disappearance-of-endangered-languages-and-cultures.md)
 A study by US researchers highlights a link between the loss of biologically rich areas and a decline in linguistic and cultural diversity.

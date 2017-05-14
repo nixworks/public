@@ -19,7 +19,7 @@ The seal of Harvard Law School uses the code of arms of a slaveholding family th
 Samsung fought until the bitter end to avoid paying Apple, but the company now says it will finally hand over the more than $548 million it owes for infringing the patents and designs of its biggest smartphone rival.
 
 ### [EU ministers discuss suspending the Schengen passport-free travel zone for two years, on the basis that the migrant crisis has exposed "serious deficiencies" at the Greek border that endanger the overall area. ](/news/2015/12/3/eu-ministers-discuss-suspending-the-schengen-passport-free-travel-zone-for-two-years-on-the-basis-that-the-migrant-crisis-has-exposed-ase.md)
-_Context: European migrant crisis, Greece, free travel_
+_Context: European migrant crisis, Greek, free travel_
 
 ### [Germany's Federal Intelligence Service (BND) says Saudi Arabia is at risk of becoming a major destabilizing influence in the Arab world due to the diplomatic stance of some senior members of the House of Saud. ](/news/2015/12/3/germany-s-federal-intelligence-service-bnd-says-saudi-arabia-is-at-risk-of-becoming-a-major-destabilizing-influence-in-the-arab-world-due.md)
 It is unusual for the BND spy agency to publicly release such a blunt assessment on a country that is considered an ally of the West. Germany has long-standing political and economic ties with Saudi Arabia

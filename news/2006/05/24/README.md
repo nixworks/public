@@ -1,7 +1,7 @@
 ## [2006-05-24](/news/2006/05/24/index.md)
 
 ### [ The United Kingdom government announces plans to overhaul the pension system ](/news/2006/05/24/the-united-kingdom-government-announces-plans-to-overhaul-the-pension-system.md)
-_Context: Labour, United Kingdom, pension_
+_Context: Labour Party, United Kingdom, pension_
 
 ### [ The 5th Season of the talent search American Idol comes to a close with a two hour finale, and Taylor Hicks being crowned the winner.](/news/2006/05/24/the-5th-season-of-the-talent-search-american-idol-comes-to-a-close-with-a-two-hour-finale-and-taylor-hicks-being-crowned-the-winner.md)
 _Context: American Idol, Taylor Hicks_

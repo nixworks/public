@@ -16,7 +16,7 @@ _Context: Manila, Philippines, Vietnam_
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [Eight people are arrested in Greece for allegedly trying to smuggle weapons into Turkey. ](/news/2013/08/1/eight-people-are-arrested-in-greece-for-allegedly-trying-to-smuggle-weapons-into-turkey.md)
-_Context: Greece, Turkey_
+_Context: Greek, Turkey_
 
 ### [The U.S. states of Minnesota and Rhode Island begin issuing marriage licenses to same-sex couples. ](/news/2013/08/1/the-u-s-states-of-minnesota-and-rhode-island-begin-issuing-marriage-licenses-to-same-sex-couples.md)
 _Context: Minnesota, Rhode Island, United States, same-sex marriage_

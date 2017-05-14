@@ -10,7 +10,7 @@ Ohio residents removed piles of waterlogged carpet, couches and upended refriger
 _Context: Hyderabad, Andhra Pradesh, India, bomb blasts_
 
 ### [ 2007 Greek fires: More than 53 people, including children, die during the Peloponnese forest fires in Greece and many are missing in burnt villages. Huge fires also occur in the Imitos mountain area, Filothei, Athens and also in the Styra, Euboea and Keratea regions. The Greek government declares a national emergency and seeks assistance from the European Union. ](/news/2007/08/25/2007-greek-fires-more-than-53-people-including-children-die-during-the-peloponnese-forest-fires-in-greece-and-many-are-missing-in-burnt.md)
-_Context: 2007 Greek fires, Athens, Euboea, European Union, Filothei, Greece, Imitos, Keratea, Peloponnese, Styra_
+_Context: 2007 Greek fires, Athens, Euboea, European Union, Filothei, Greek, Imitos, Keratea, Peloponnese, Styra_
 
 ### [ The 11th IAAF World Championships in Athletics get underway in Osaka, Japan. ](/news/2007/08/25/the-11th-iaaf-world-championships-in-athletics-get-underway-in-osaka-japan.md)
 _Context: 11th IAAF World Championships in Athletics, Japan, Osaka_

@@ -10,7 +10,7 @@ _Context: Amarah, Iraqi security forces, Sadrist_
 _Context: Alabama, AstraZeneca, Medicaid, U.S. dollar_
 
 ### [ The President of Iran Mahmoud Ahmadinejad accuses the United States of plotting to kidnap and assassinate him during a visit to Iraq. ](/news/2008/06/19/the-president-of-iran-mahmoud-ahmadinejad-accuses-the-united-states-of-plotting-to-kidnap-and-assassinate-him-during-a-visit-to-iraq.md)
-_Context: Iraq, Mahmoud Ahmadinejad, President, United States_
+_Context: Iraq, Mahmoud Ahmadinejad, United States, president_
 
 ### [  A Congressional ethics panel is examining allegations that Democrat Senators Christopher Dodd of Connecticut (the sponsor of a major $300 billion housing bailout bill) and Kent Conrad of North Dakota received preferential loans by troubled mortgage lender Countrywide Financial Corp. ](/news/2008/06/19/a-congressional-ethics-panel-is-examining-allegations-that-democrat-senators-christopher-dodd-of-connecticut-the-sponsor-of-a-major-300.md)
 _Context: Christopher Dodd, Countrywide Financial Corp., Kent Conrad, bailout, housing crisis_

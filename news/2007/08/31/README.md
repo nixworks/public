@@ -1,7 +1,7 @@
 ## [2007-08-31](/news/2007/08/31/index.md)
 
 ### [ The British Royal Family, including Prince Charles, Prince Harry and Prince William, and Her Majesty the Queen Elizabeth, along with Prime Minister Gordon Brown and former Prime Minister Tony Blair, and hundreds more, gather for a memorial service for Diana, Princess of Wales, ten years after her death, at Guard's Chapel in London. ](/news/2007/08/31/the-british-royal-family-including-prince-charles-prince-harry-and-prince-william-and-her-majesty-the-queen-elizabeth-along-with-prime.md)
-_Context: British Royal Family, Death of Diana, Princess of Wales, Elizabeth II, Gordon Brown, London, Prime Minister, Prince Charles, Prince Harry, Prince William, Tony Blair, grandmother_
+_Context: British Royal Family, Death of Diana, Princess of Wales, Elizabeth II, Gordon Brown, London, Prime Minster, Prince Charles, Prince Harry, Prince William, Tony Blair, grandmother_
 
 ### [ The President of French Polynesia Gaston Tong Sang loses a vote of no-confidence and is forced to resign. ](/news/2007/08/31/the-president-of-french-polynesia-gaston-tong-sang-loses-a-vote-of-no-confidence-and-is-forced-to-resign.md)
 _Context: Gaston Tong Sang, President, vote of no confidence_
@@ -73,7 +73,7 @@ _Context: Kenya, Kisii, minibus, tanker_
 The leaders of France and Britain on Friday revived the specter of sanctions against Khartoum if progress is not made on a Darfur ceasefire and upcoming political talks.
 
 ### [ While Greece brings the 2007 Greek forest fires under control, 8 people have died in 48 hours in forest fires in northern Algeria, six firefighters die in Croatia and the village of Les Useres in the Valencia region of Spain is evacuated. ](/news/2007/08/31/while-greece-brings-the-2007-greek-forest-fires-under-control-8-people-have-died-in-48-hours-in-forest-fires-in-northern-algeria-six-fire.md)
-_Context: 2007 Greek forest fires, Algeria, Croatia, Greece, Les Useres, Spain, Valencia, forest fire_
+_Context: 2007 Greek forest fires, Algeria, Croatia, Greek, Les Useres, Spain, Valencia, forest fire_
 
 ### [ Angry Victorian farmers trap the Premier of Victoria John Brumby and Rural and Regional Development Minister Jacinta Allan as well as advisers and media in a machinery yard outside Colbinabbin, east of Bendigo to raise concerns about the Government's water plans. ](/news/2007/08/31/angry-victorian-farmers-trap-the-premier-of-victoria-john-brumby-and-rural-and-regional-development-minister-jacinta-allan-as-well-as-advis.md)
 _Context: Bendigo, Colbinabbin, Jacinta Allan, John Brumby, Premier, Victoria_

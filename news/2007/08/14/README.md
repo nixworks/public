@@ -82,7 +82,7 @@ _Context: Abdullah Gul, President, Turkey_
 Thailand&#039;s Supreme Court has approved a prosecution request to issue arrest warrants for exiled prime minister Thaksin Shinawatra and his wife on corruption charges.
 
 ### [ The President of Iran Mahmoud Ahmadinejad  visits Afghanistan on the first leg of a Central Asian tour before visiting the Shanghai Cooperation Organisation meeting in Bishkek. ](/news/2007/08/14/the-president-of-iran-mahmoud-ahmadinejad-visits-afghanistan-on-the-first-leg-of-a-central-asian-tour-before-visiting-the-shanghai-coopera.md)
-_Context: Afghanistan, Bishkek, Central Asia, Mahmoud Ahmadinejad, President, Shanghai Cooperation Organisation_
+_Context: Afghanistan, Bishkek, Central Asia, Mahmoud Ahmadinejad, Shanghai Cooperation Organisation, president_
 
 ### [ Russian prosecutors launch a terrorism investigation after an improvised bomb derailed an overnight express train near the village of Malaya Vishera in the Novgorod region. ](/news/2007/08/14/russian-prosecutors-launch-a-terrorism-investigation-after-an-improvised-bomb-derailed-an-overnight-express-train-near-the-village-of-malay.md)
 _Context: Malaya Vishera, Novgorod, Russia, bomb, prosecutor, terrorism_

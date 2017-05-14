@@ -19,7 +19,7 @@ _Context: OSCE, parliamentary elections_
 _Context: 21 July 2005 London bombings, Manfo Kwaku Asiedu, jail_
 
 ### [ Warren Jeffs, the leader of the Fundamentalist Church of Jesus Christ of Latter Day Saints, is sentenced to five years to life in jail for complicity in rape. ](/news/2007/11/20/warren-jeffs-the-leader-of-the-fundamentalist-church-of-jesus-christ-of-latter-day-saints-is-sentenced-to-five-years-to-life-in-jail-for.md)
-_Context: FLDS Church, Warren Jeffs, complicit, jail, rape_
+_Context: FLDS Church, Warren Jeffs, complicity, jail, rape_
 
 ### [ Jordanian voters go to the polls in the 2007 parliamentary election. ](/news/2007/11/20/jordanian-voters-go-to-the-polls-in-the-2007-parliamentary-election.md)
 _Context: 2007 Jordanian parliamentary election, Jordan_

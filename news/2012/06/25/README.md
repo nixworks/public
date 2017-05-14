@@ -16,13 +16,13 @@ _Context: Arab Spring, MI5, War on Terror, al-Qaeda_
 A BACKLOG in payments affecting more than 100,000 Ulster Bank customers will not be resolved until the end of the week, the bank&hellip;
 
 ### [Greece's new finance minister Vassilis Rapanos resigns due to ill health. ](/news/2012/06/25/greece-s-new-finance-minister-vassilis-rapanos-resigns-due-to-ill-health.md)
-_Context: Greece, Vassilis Rapanos_
+_Context: Greek, Vassilis Rapanos_
 
 ### [Cyprus says that it plans to ask its European partners for a loan of about 1.8 billion euros by the end of this week; this would make Cyprus the fifth European country to seek help. ](/news/2012/06/25/cyprus-says-that-it-plans-to-ask-its-european-partners-for-a-loan-of-about-1-8-billion-euros-by-the-end-of-this-week-this-would-make-cyprus.md)
 The fifth eurozone nation to seek help says it wants to limit exposure of its financial institutions to Greece crisis.
 
 ### [UK Labour MP Tom Watson adds his voice to the growing opposition to the extradition of Richard O'Dwyer, calling it an example of a younger generation being "hung out to dry by lawmakers". ](/news/2012/06/25/uk-labour-mp-tom-watson-adds-his-voice-to-the-growing-opposition-to-the-extradition-of-richard-o-dwyer-calling-it-an-example-of-a-younger-g.md)
-_Context: Labour, Richard O'Dwyer, Tom Watson_
+_Context: Labour Party, Richard O'Dwyer, Tom Watson_
 
 ### [Fernando Lugo, the deposed President of Paraguay, rallies allies at home and abroad, and creates a parallel cabinet intent on returning to power. ](/news/2012/06/25/fernando-lugo-the-deposed-president-of-paraguay-rallies-allies-at-home-and-abroad-and-creates-a-parallel-cabinet-intent-on-returning-to-p.md)
 Deposed president rallies allies at home and abroad to force congress to reverse a vote to remove him.

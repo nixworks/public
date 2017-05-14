@@ -19,7 +19,7 @@ _Context: Abu Mazen, George W. Bush, Israel, President of the Palestinian Author
 _Context: Association of University Teachers, Bar-Ilan, Haifa, Israel, United Kingdom, boycott, universities_
 
 ### [ British Liberal Democrat leader Charles Kennedy calls for a reform of the UK voting system after Labour took the majority of the seats in the UK election with just 35% of the votes. ](/news/2005/05/26/british-liberal-democrat-leader-charles-kennedy-calls-for-a-reform-of-the-uk-voting-system-after-labour-took-the-majority-of-the-seats-in-t.md)
-_Context: Charles Kennedy, Labour, Liberal Democrats, United Kingdom_
+_Context: Charles Kennedy, Labour Party, Liberal Democrats, United Kingdom_
 
 ### [ British Foreign Minister Jack Straw announces that Iran has renewed its promise to refrain from developing nuclear weapons, and talks on its atomic program will continue following a meeting between Iranian nuclear officials and European Union ministers in Geneva. ](/news/2005/05/26/british-foreign-minister-jack-straw-announces-that-iran-has-renewed-its-promise-to-refrain-from-developing-nuclear-weapons-and-talks-on-it.md)
 _Context: European Union, Geneva, Iran, Jack Straw, Secretary of State for Foreign and Commonwealth Affairs, United Kingdom, atom, nuclear warheads_

@@ -7,7 +7,7 @@ _Context: DADVSI, EU Copyright Directive, French National Assembly, Right of the
 _Context: Chad, Chadian military, Chadian rebels, Idriss Deby_
 
 ### [ In the United Kingdom, Metropolitan Police confirm they are to investigate claims the ruling Labour Party broke the Honours (Prevention of Abuses) Act 1925 in the ongoing controversy over "cash for Peerages" row. ](/news/2006/03/21/in-the-united-kingdom-metropolitan-police-confirm-they-are-to-investigate-claims-the-ruling-labour-party-broke-the-honours-prevention-of.md)
-_Context: Honours (Prevention of Abuses) Act 1925, Labour, Metropolitan Police, current political crisis_
+_Context: Honours (Prevention of Abuses) Act 1925, Labour Party, Metropolitan Police, current political crisis_
 
 ### [ Irish Taoiseach Bertie Ahern has said in the Dil that he believes the British security forces colluded with loyalist paramilitaries in the planning of Belfast solicitor Pat Finucane's murder in 1989. ](/news/2006/03/21/irish-taoiseach-bertie-ahern-has-said-in-the-dail-that-he-believes-the-british-security-forces-colluded-with-loyalist-paramilitaries-in-the.md)
 _Context: Belfast, Bertie Ahern, Dil, Pat Finucane, Taoiseach, loyalist paramilitaries_

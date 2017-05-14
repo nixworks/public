@@ -19,7 +19,7 @@ A fire at a drug rehabilitation centre in the Peruvian capital Lima kills at lea
 The African Union inaugurates its newly built Chinese-funded headquarters in the Ethiopian capital, Addis Ababa.
 
 ### [A German government plan is leaked proposing a eurozone "budget commissioner" to take control of Greece's economic affairs. ](/news/2012/01/28/a-german-government-plan-is-leaked-proposing-a-eurozone-budget-commissioner-to-take-control-of-greece-s-economic-affairs.md)
-_Context: Eurozone, Greece_
+_Context: Eurozone, Greek_
 
 ### [A police officer and four journalists associated with British tabloid ''The Sun'' are arrested in relation to the News International phone hacking scandal, by detectives investigating payments made to police by journalists. The BBC understands the four journalists are ex-deputy editor Fergus Shanahan, ex-managing editor Graham Dudman, crime editor Mike Sullivandate=November 2012 and head of news Chris Pharo. ](/news/2012/01/28/a-police-officer-and-four-journalists-associated-with-british-tabloid-the-sun-are-arrested-in-relation-to-the-news-international-phone-h.md)
 Four current and former Sun journalists and a police officer are bailed by detectives investigating alleged corrupt payments.

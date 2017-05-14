@@ -10,7 +10,7 @@ The passenger plane that crashed and burned on landing in Brazil killing about 2
 _Context: Iraq, United States Army, battalion_
 
 ### [ In the United Kingdom, the Labour Party wins a by-election in the seat of Sedgefield formerly held by Tony Blair as well as the constituency of Ealing Southall. ](/news/2007/07/19/in-the-united-kingdom-the-labour-party-wins-a-by-election-in-the-seat-of-sedgefield-formerly-held-by-tony-blair-as-well-as-the-constituenc.md)
-_Context: Ealing Southall, Labour, Sedgefield, Tony Blair, by-election_
+_Context: Ealing Southall, Labour Party, Sedgefield, Tony Blair, by-election_
 
 ### [ The Dow Jones Industrial Average closes above 14,000 points for the first time in history, partly as a result of a good earnings report from IBM. ](/news/2007/07/19/the-dow-jones-industrial-average-closes-above-14-000-points-for-the-first-time-in-history-partly-as-a-result-of-a-good-earnings-report-fro.md)
 The Dow Jones Industrial Average stock index closed above 14,000 points for the first time ever as bullish investors cheered a flurry of generally up-beat corporate earnings reports.

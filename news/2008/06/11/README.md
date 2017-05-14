@@ -25,7 +25,7 @@ _Context: Articles of Impeachment, Dennis Kucinich, United States House of Repre
 _Context: Anheuser-Busch, InBev, U.S. dollar, United States, brewing, takeover_
 
 ### [ Estonia, Greece and Finland ratify the Treaty of Lisbon. ](/news/2008/06/11/estonia-greece-and-finland-ratify-the-treaty-of-lisbon.md)
-_Context: Estonia, Finland, Greece, Treaty of Lisbon_
+_Context: Estonia, Finland, Greek, Treaty of Lisbon_
 
 ### [ Norway legalises same-sex marriage. ](/news/2008/06/11/norway-legalises-same-sex-marriage.md)
 _Context: Norway, same-sex marriage_
@@ -49,7 +49,7 @@ A Tim Donaghy letter to the court alleges improper conduct by referees in the NB
 President George W. Bush said on Wednesday he wants to solve the Iran issue peacefully but reiterated that all options are on the table.
 
 ### [ The British House of Commons considers anti-terrorism legislation extending the period of preventive detention to 42 days with a close vote expected due to a backbench revolt in the Labour Party. The House eventually passes the bill by 315 votes to 306. ](/news/2008/06/11/the-british-house-of-commons-considers-anti-terrorism-legislation-extending-the-period-of-preventive-detention-to-42-days-with-a-close-vote.md)
-_Context: British House of Commons, Labour, anti-terror law, backbench, preventive detention_
+_Context: British House of Commons, Labour Party, anti-terror law, backbench, preventive detention_
 
 ### [ Japan's House of Councillors passes a censure motion against the Prime Minister of Japan Yasuo Fukuda, the first such motion to be passed since World War II. ](/news/2008/06/11/japan-s-house-of-councillors-passes-a-censure-motion-against-the-prime-minister-of-japan-yasuo-fukuda-the-first-such-motion-to-be-passed-s.md)
 _Context: House of Councillors, Japan, Prime Minister, World War II, Yasuo Fukuda, censure motion_

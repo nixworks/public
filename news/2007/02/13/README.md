@@ -10,7 +10,7 @@ _Context: Baghdad, Iraq War, car bomb, suicide bomb attack_
 _Context: $, 2006 toxic waste spill, Cte d'Ivoire, Netherlands, Trafigura, government, oil_
 
 ### [ Iranian President Mahmoud Ahmadinejad says his administration is open to negotiations regarding its nuclear program. ](/news/2007/02/13/iranian-president-mahmoud-ahmadinejad-says-his-administration-is-open-to-negotiations-regarding-its-nuclear-program.md)
-_Context: Iran, Iranian government, Mahmoud Ahmadinejad, President, nuclear scientist_
+_Context: Iran, Iranian government, Mahmoud Ahmadinejad, nuclear scientist, president_
 
 ### [ United States presidential election, 2008: Former Governor of Massachusetts Mitt Romney (R) formally announces his candidacy for president. ](/news/2007/02/13/united-states-presidential-election-2008-former-governor-of-massachusetts-mitt-romney-r-formally-announces-his-candidacy-for-president.md)
 _Context: 2008, Massachusetts governor, Mitt Romney, R, U.S. President_

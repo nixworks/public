@@ -4,7 +4,7 @@
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [People in Greece protest against the latest austerity measures imposed on their country, as more senior politicians resign. ](/news/2012/02/10/people-in-greece-protest-against-the-latest-austerity-measures-imposed-on-their-country-as-more-senior-politicians-resign.md)
-_Context: Greece_
+_Context: Greek_
 
 ### [An internal plot among cardinals to kill Pope Benedict XVI is alleged in Italy. ](/news/2012/02/10/an-internal-plot-among-cardinals-to-kill-pope-benedict-xvi-is-alleged-in-italy.md)
 _Context: Benedict XVI, Cardinal, Italian_

@@ -13,7 +13,7 @@ _Context: Colombia, Jorge Noguera, appeals court, militia, prison_
 _Context: Afghanistan, Taliban, War in Afghanistan (2001-present), convoy_
 
 ### [ The President of Iran Mahmoud Ahmadinejad cancels a trip to address the United Nations Security Council before it decides whether to impose further sanctions, saying the United States government had been "obstructive" in issuing visas to members of his entourage. ](/news/2007/03/23/the-president-of-iran-mahmoud-ahmadinejad-cancels-a-trip-to-address-the-united-nations-security-council-before-it-decides-whether-to-impose.md)
-_Context: Mahmoud Ahmadinejad, President, United Nations Security Council, United States government, visa-free travel_
+_Context: Mahmoud Ahmadinejad, United Nations Security Council, United States government, president, visa-free travel_
 
 ### [ A missile hits an Ilyushin airplane assisting the African Union Mission to Somalia as it takes off from Mogadishu, killing up to 11 people. ](/news/2007/03/23/a-missile-hits-an-ilyushin-airplane-assisting-the-african-union-mission-to-somalia-as-it-takes-off-from-mogadishu-killing-up-to-11-people.md)
 _Context: AMISOM, Mogadishu, missile hits an Ilyushin airplane_

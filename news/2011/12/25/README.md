@@ -19,7 +19,7 @@ At least 38 migrants, including 17 women, reportedly found dead after boat sinks
 _Context: Australia, Melbourne, State Emergency Service_
 
 ### [Faezeh Hashemi, the daughter of former President of Iran Akbar Hashemi Rafsanjani, stands trial on charges of making anti-regime propaganda. ](/news/2011/12/25/faezeh-hashemi-the-daughter-of-former-president-of-iran-akbar-hashemi-rafsanjani-stands-trial-on-charges-of-making-anti-regime-propaganda.md)
-_Context: Akbar Hashemi Rafsanjani, Faezeh Hashemi, Iran, President_
+_Context: Akbar Hashemi Rafsanjani, Faezeh Hashemi, Iran, president_
 
 ### [The warmest temperature ever recorded at the South Pole is set with a top of -12.3degC set at the Amundsen-Scott South Pole Station. ](/news/2011/12/25/the-warmest-temperature-ever-recorded-at-the-south-pole-is-set-with-a-top-of-12-3adegc-set-at-the-amundsenascott-south-pole-station.md)
 _Context: Amundsen-Scott South Pole Station, South Pole_

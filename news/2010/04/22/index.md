@@ -31,7 +31,7 @@ _Context: Brazil, Minas Gerais, Toyota Corolla_
 _Context: Sarath Fonseka, Sri Lanka_
 
 ### [President of Iran Mahmoud Ahmadinejad arrives in Zimbabwe; Prime Minister Morgan Tsvangirai's Movement for Democratic Change - Tsvangirai objects, labelling Mr Ahmadinejad a "war-monger, a trampler of human rights [and] an executioner". ](/news/2010/04/22/president-of-iran-mahmoud-ahmadinejad-arrives-in-zimbabwe-prime-minister-morgan-tsvangirai-s-movement-for-democratic-change-a-tsvangirai.md)
-_Context: Mahmoud Ahmadinejad, Morgan Tsvangirai, Movement for Democratic Change, President, Prime Minister, Zimbabwe_
+_Context: Mahmoud Ahmadinejad, Morgan Tsvangirai, Movement for Democratic Change, Prime Minister, Zimbabwe, president_
 
 ### [A Utrecht court acquits the Dutch arm of the Arab European League of hate crime charges relating to the publication of a cartoon questioning the Holocaust.  The publication was intended to highlight double standards after MP Geert Wilders was not put on trial for distributing cartoons of Muhammad. ](/news/2010/04/22/a-utrecht-court-acquits-the-dutch-arm-of-the-arab-european-league-of-hate-crime-charges-relating-to-the-publication-of-a-cartoon-questioning.md)
 _Context: Arab European League, Geert Wilders, Holocaust, Muhammad, Netherlands, Utrecht_
@@ -46,7 +46,7 @@ Founder of electronics chain faces 15 years in jail if convicted of corruption c
 Death sentences imposed on two Norwegians in the DRC for killing a driver have been overturned but the men would be retried.
 
 ### [The Euro falls to near year-low levels amid concerns about Greece's debt crisis. ](/news/2010/04/22/the-euro-falls-to-near-year-low-levels-amid-concerns-about-greece-s-debt-crisis.md)
-_Context: Greece, euro_
+_Context: Greek, euro_
 
 ### [Indian police investigate potential attacks on shopping centres in New Delhi. ](/news/2010/04/22/indian-police-investigate-potential-attacks-on-shopping-centres-in-new-delhi.md)
 Officials say alert follows intercepted telephonic messages of fighter groups.

@@ -22,7 +22,7 @@ Cities disrupted as opposition parties and trade unions call nationwide protest 
 _Context: Bilderberg Group, Chantilly, Virginia_
 
 ### [British Culture Secretary Jeremy Hunt appears at the Leveson Inquiry into media practices in the UK. The inquiry hears that he congratulated James Murdoch on the progress of News Corporation's takeover bid for BSkyB just hours before he was charged with overseeing it, but acted impartially once he took on the role. Prime Minister David Cameron says he will not order an inquiry into Hunt's ministerial conduct. ](/news/2012/05/31/british-culture-secretary-jeremy-hunt-appears-at-the-leveson-inquiry-into-media-practices-in-the-uk-the-inquiry-hears-that-he-congratulated.md)
-_Context: BSkyB, BSkyB takeover bid, David Cameron, James, Jeremy Hunt, Leveson Inquiry, News Corporation, Prime Minister, Secretary of State for Culture, Media and Sport_
+_Context: BSkyB, BSkyB takeover bid, David Cameron, James, Jeremy Hunt, Leveson Inquiry, News Corporation, Prime Minster, Secretary of State for Culture, Media and Sport_
 
 ### [A jury clears former Democratic Party candidate for Vice-President of the United States John Edwards on one count of corruption, with the judge ordering a mistrial on the other five counts. ](/news/2012/05/31/a-jury-clears-former-democratic-party-candidate-for-vice-president-of-the-united-states-john-edwards-on-one-count-of-corruption-with-the-ju.md)
 _Context: D, John Edwards, U.S. Vice President_

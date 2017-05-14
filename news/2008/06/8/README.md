@@ -13,7 +13,7 @@ _Context: Abyei, Southern Sudan, Sudanese cabinet_
 _Context: 2008 Canadian Grand Prix, BMW, BMW Sauber, Formula One, Polish, Robert Kubica_
 
 ### [ At least two people have been killed as an earthquake rocked southern Greece, collapsing buildings and causing panic. ](/news/2008/06/8/at-least-two-people-have-been-killed-as-an-earthquake-rocked-southern-greece-collapsing-buildings-and-causing-panic.md)
-_Context: Greece, an earthquake_
+_Context: Greek, an earthquake_
 
 ### [ The government of Southern Sudan withdraws its mediation efforts at the Juba talks between Uganda and the rebel Lord's Resistance Army. ](/news/2008/06/8/the-government-of-southern-sudan-withdraws-its-mediation-efforts-at-the-juba-talks-between-uganda-and-the-rebel-lord-s-resistance-army.md)
 _Context: Juba talks, Lord's Resistance Army, Southern Sudan, Uganda_

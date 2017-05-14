@@ -1,7 +1,7 @@
 ## [2009-12-10](/news/2009/12/10/index.md)
 
 ### [ The credit rating of Greece is downgraded, leading to increased pessimism regarding the Greek economy. ](/news/2009/12/10/the-credit-rating-of-greece-is-downgraded-leading-to-increased-pessimism-regarding-the-greek-economy.md)
-_Context: Greece, credit rating_
+_Context: Greek, credit rating_
 
 ### [ Pakistani officials arrest five US citizens wanted by the FBI on suspicion of terrorism. ](/news/2009/12/10/pakistani-officials-arrest-five-us-citizens-wanted-by-the-fbi-on-suspicion-of-terrorism.md)
 _Context: FBI, Pakistan_

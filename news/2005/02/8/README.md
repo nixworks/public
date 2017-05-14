@@ -25,7 +25,7 @@ _Context: Cuba, tobacco, tobacco smoking_
 _Context: Avian flu virus, People's Republic of China, vaccine_
 
 ### [ The parliament in Greece elects Karolos Papoulias as their new president for the next five-year term. ](/news/2005/02/8/the-parliament-in-greece-elects-karolos-papoulias-as-their-new-president-for-the-next-five-year-term.md)
-_Context: Greece, Karolos Papoulias, government, president_
+_Context: Greek, Karolos Papoulias, government, president_
 
 ### [ In response to the floods in Guyana, the United Nations Office for the Coordination of Humanitarian Affairs (OCHA) launches a ](/news/2005/02/8/in-response-to-the-floods-in-guyana-the-united-nations-office-for-the-coordination-of-humanitarian-affairs-ocha-launches-a.md)
 _Context: Guyana_

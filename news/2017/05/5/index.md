@@ -16,7 +16,7 @@ The Supreme Court on Friday upheld death sentences against four men who fatally 
 Indonesian authorities search for scores of inmates who escaped from an overcrowded prison.
 
 ### [Results from yesterday's elections show significant swings towards the Conservative Party and away from the Labour Party. ](/news/2017/05/5/results-from-yesterday-s-elections-show-significant-swings-towards-the-conservative-party-and-away-from-the-labour-party.md)
-_Context: Conservative Party, Labour, United Kingdom local elections, 2017_
+_Context: Conservative Party, Labour Party, United Kingdom local elections, 2017_
 
 ### [Results from yesterday's election give a reduced majority of seats to Abdelaziz Bouteflika's incumbent coalition. ](/news/2017/05/5/results-from-yesterday-s-election-give-a-reduced-majority-of-seats-to-abdelaziz-bouteflika-s-incumbent-coalition.md)
 National Liberation Front secures majority in national assembly, but loses quarter of seats in Thursday&#39;s vote.

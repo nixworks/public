@@ -13,7 +13,7 @@ _Context: Miyeegombyn Enkhbold, Mongolia, Prime Minister, State Great Khural_
 _Context: Pixar Animation Studios, The Walt Disney Company, U.S. dollar_
 
 ### [ A bomb in the southern Iranian city of Ahvaz kills six and injures up to 40. Iranian President Mahmoud Ahmadinejad was due to have visited the city today, however the trip was called off at the last minute. Lebanon's al-Manar television said the president had called off his trip after a security tip-off. Local MP Nezam Molla-Hoveyzeh accused Britain of being behind the attack. ](/news/2006/01/24/a-bomb-in-the-southern-iranian-city-of-ahvaz-kills-six-and-injures-up-to-40-iranian-president-mahmoud-ahmadinejad-was-due-to-have-visited.md)
-_Context: Ahvaz, Iran, Lebanon, Mahmoud Ahmadinejad, Nezam Molla-Hoveyzeh, President, al-Manar_
+_Context: Ahvaz, Iran, Lebanon, Mahmoud Ahmadinejad, Nezam Molla-Hoveyzeh, al-Manar, president_
 
 ### [ Defeated Canadian prime minister Paul Martin announces he will resign as leader of the Liberal Party. ](/news/2006/01/24/defeated-canadian-prime-minister-paul-martin-announces-he-will-resign-as-leader-of-the-liberal-party.md)
 _Context: Canadian Prime Minister, Liberal Party's, Paul Martin_

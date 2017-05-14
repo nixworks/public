@@ -7,7 +7,7 @@ _Context: Ohio, Warren, handcuffed, taser_
 _Context: 2007 Pakistani presidential election, Pakistan, election_
 
 ### [ Iran: The New York Police Department denies a request by the President of Iran Mahmoud Ahmadinejad to visit Ground Zero of the September 11, 2001 attacks in New York City. ](/news/2007/09/20/iran-p-the-new-york-police-department-denies-a-request-by-the-president-of-iran-mahmoud-ahmadinejad-to-visit-ground-zero-of-the-september-1.md)
-_Context: Ground Zero, Iran, Mahmoud Ahmadinejad, New York Police Department, New York's, President, September 11, 2001 attacks_
+_Context: Ground Zero, Iran, Mahmoud Ahmadinejad, New York Police Department, New York's, September 11, 2001 attacks, president_
 
 ### [ American cyclist Floyd Landis is officially stripped of his win in the 2006 Tour de France and banned from competition for two years after an arbitration panel finds him guilty of doping during the 2006 Tour. He has 30 days to appeal to the Court of Arbitration for Sport. ](/news/2007/09/20/american-cyclist-floyd-landis-is-officially-stripped-of-his-win-in-the-2006-tour-de-france-and-banned-from-competition-for-two-years-after.md)
 Cyclist Floyd Landis has received a two-year ban for doping, The Associated Press has learned.

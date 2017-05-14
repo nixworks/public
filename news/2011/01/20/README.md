@@ -16,7 +16,7 @@ Separatist rebels in southern Thailand kill four soldiers in an &quot;unusually 
 Bulgaria explained. Quality reporting and analyses tailored to the needs of foreign business individuals.
 
 ### [Iraq Inquiry documents show former British prime minister Tony Blair was offered an alternative to attacking Iraq during a secret meeting held eight days before its soldiers invaded the country in 2003. ](/news/2011/01/20/iraq-inquiry-documents-show-former-british-prime-minister-tony-blair-was-offered-an-alternative-to-attacking-iraq-during-a-secret-meeting-he.md)
-_Context: 2003 invasion of Iraq, Iraq Inquiry, Iraq War, Prime Minister, Tony Blair_
+_Context: 2003 invasion of Iraq, Iraq Inquiry, Iraq War, Prime Minster, Tony Blair_
 
 ### [Prejudice against Muslims is declared socially acceptable and Britain is becoming less tolerant according to Sayeeda Warsi, Baroness Warsi, the first female British Muslim cabinet member, in a speech at the University of Leicester. ](/news/2011/01/20/prejudice-against-muslims-is-declared-socially-acceptable-and-britain-is-becoming-less-tolerant-according-to-sayeeda-warsi-baroness-warsi.md)
 British politician says prejudice against Muslims is now socially acceptable and that country is becoming less tolerant.
@@ -73,7 +73,7 @@ Resignations an attempt to regain credibility in the cabinet but it is unclear i
 Noel Dempsey, Dermot Ahern and Tony Killeen have joined Mary Harney in resigning from Cabinet.
 
 ### [Britain's Shadow Chancellor Alan Johnson resigns from the Labour Party's frontbench team for "personal" reasons. ](/news/2011/01/20/britain-s-shadow-chancellor-alan-johnson-resigns-from-the-labour-party-s-frontbench-team-for-personal-reasons.md)
-_Context: Alan Johnson, Chancellor of the Exchequer, Labour, Shadow_
+_Context: Alan Johnson, Chancellor of the Exchequer, Labour Party, Shadow_
 
 ### [2010 tied for the warmest year ever recorded, and the last decade was the warmest ever recorded, since records began in the 1800s.](/news/2011/01/20/2010-tied-for-the-warmest-year-ever-recorded-and-the-last-decade-was-the-warmest-ever-recorded-since-records-began-in-the-1800s.md)
 Last year tied for the hottest year on record, confirming a long-term warming trend which will continue unless greenhouse gas emissions are cut, the World Meteorological Organization (WMO) said on Thursday.

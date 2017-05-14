@@ -16,7 +16,7 @@ _Context: Mars, Planum Australe, South Pole, planet, polar ice cap, water_
 _Context: Arnold Schwarzenegger, California primary, February 5, Governor of California_
 
 ### [ Russia, Greece and Bulgaria sign a deal to build a pipeline to transport Russian oil to the Greek port of Alexandroupolis. ](/news/2007/03/15/russia-greece-and-bulgaria-sign-a-deal-to-build-a-pipeline-to-transport-russian-oil-to-the-greek-port-of-alexandroupolis.md)
-_Context: Alexandroupolis, Bulgaria, Greece, Russia, oil, pipeline_
+_Context: Alexandroupolis, Bulgaria, Greek, Russia, oil, pipeline_
 
 ### [ The five permanent members of the United Nations Security Council and Germany agree on a proposal for sanctions against Iran for its nuclear programs to be discussed by the Security Council. ](/news/2007/03/15/the-five-permanent-members-of-the-united-nations-security-council-and-germany-agree-on-a-proposal-for-sanctions-against-iran-for-its-nuclea.md)
 _Context: German, Iran, United Nations Security Council_

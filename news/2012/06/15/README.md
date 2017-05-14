@@ -19,7 +19,7 @@ _Context: Goldman Sachs, Rajat Gupta, insider trading in 2011_
 _Context: Dutchman, ING Bank, Moody's Investor Service, credit rating_
 
 ### [Herman Van Rompuy, President of the European Council, convenes a conference call to discuss possible fall-out from the weekend's elections in Greece. ](/news/2012/06/15/herman-van-rompuy-president-of-the-european-council-convenes-a-conference-call-to-discuss-possible-fall-out-from-the-weekend-s-elections-i.md)
-_Context: European Council, Greece, Herman Van Rompuy_
+_Context: European Council, Greek, Herman Van Rompuy_
 
 ### [Chinese manufacturer Yili Group recalls baby formula after some products are discovered with high mercury levels. ](/news/2012/06/15/chinese-manufacturer-yili-group-recalls-baby-formula-after-some-products-are-discovered-with-high-mercury-levels.md)
 Major Chinese dairy firm Yili has recalls some of its baby formula products after a watchdog check finds mercury contamination.

@@ -1,7 +1,7 @@
 ## [2002-09-19](/news/2002/09/19/index.md)
 
 ### [ An attempted coup by disaffected former soldiers of Cte d'Ivoire was put down, with the death of the alleged coup leader, General Robert Gu, a former military dictator of the country.  Gu was killed when his car refused to stop at a roadblock in downtown Abidjan.  Rebels continue in control of the cities of Bouak and Korhogo.](/news/2002/09/19/an-attempted-coup-by-disaffected-former-soldiers-of-cote-d-ivoire-was-put-down-with-the-death-of-the-alleged-coup-leader-general-robert-g.md)
-_Context: Abidjan, Bouake, Cte d'Ivoire, Korhogo, Robert Gu, coup d'tat_
+_Context: Abidjan, Bouak, Cte d'Ivoire, Korhogo, Robert Gu, coup d'tat_
 
 ### [ Israeli-Palestinian conflict: After a suicide bomber kills 5 and wounds more than 60 on a bus next to Tel Aviv's Great Synagogue, Israeli troops, tanks, and bulldozers destroy buildings in Yasser Arafat's Ramallah headquarters.](/news/2002/09/19/israeli-palestinian-conflict-after-a-suicide-bomber-kills-5-and-wounds-more-than-60-on-a-bus-next-to-tel-aviv-s-great-synagogue-israeli-t.md)
 _Context: Great Synagogue, Israeli-Palestinian conflict, Ramallah, Tel Aviv, Yasser Arafat, suicide bomber_

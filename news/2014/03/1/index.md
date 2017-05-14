@@ -22,7 +22,7 @@ _Context: Malaysia, Penang, Penang Second Bridge, Southeast Asia, Sultan Abdul H
 Call for nationwide rallies comes after dozens are arrested in street battles between government forces and protesters.
 
 ### [Proposals to change the automatic trade union affiliation with the UK Labour Party are passed at a special party conference vote by 86% to 14%. ](/news/2014/03/1/proposals-to-change-the-automatic-trade-union-affiliation-with-the-uk-labour-party-are-passed-at-a-special-party-conference-vote-by-86-to-1.md)
-_Context: Labour, trade union_
+_Context: Labour Party, trade union_
 
 ## [Previous Day...](/news/2014/02/28/index.md)
 

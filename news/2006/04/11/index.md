@@ -16,7 +16,7 @@ _Context: Bernardo Provenzano, Corleone, Mafia, Sicily_
 _Context: Sri Lankan Civil War, Sri Lankan Navy, Trincomalee, claymore_
 
 ### [ Iranian President Mahmoud Ahmadinejad announces that Iran has successfully enriched uranium. In a televised address from the northeastern city of Mashhad, Ahmadinejad said "I am officially announcing that Iran has joined the group of those countries which have nuclear technology". ](/news/2006/04/11/iranian-president-mahmoud-ahmadinejad-announces-that-iran-has-successfully-enriched-uranium-in-a-televised-address-from-the-northeastern-c.md)
-_Context: Iran, Mahmoud Ahmadinejad, Mashhad, President, enriched uranium_
+_Context: Iran, Mahmoud Ahmadinejad, Mashhad, enriched uranium, president_
 
 ### [ Musician Proof of Eminem's hip hop group D12 is shot to death in a Detroit night club.](/news/2006/04/11/musician-proof-of-eminem-s-hip-hop-group-d12-is-shot-to-death-in-a-detroit-night-club.md)
 _Context: D12, Detroit, Eminem, Proof_

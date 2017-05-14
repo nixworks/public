@@ -10,7 +10,7 @@ _Context: 2007 United Kingdom floods, Gloucestershire, Oxford_
 Tony Blair spoke of a &quot;moment of opportunity&quot; after he met Palestinian and Israeli leaders on Tuesday on his first visit to the region as an international envoy.
 
 ### [ Republic of Macedonia, Albania and Serbian autonomous province of Kosovo are experiencing blackouts as a result of the 2007 European heatwave that spreads over the Balkans.  It also causes bushfires everywhere in the region between Croatia, Hungary, Serbia and Greece. ](/news/2007/07/24/republic-of-macedonia-albania-and-serbian-autonomous-province-of-kosovo-are-experiencing-blackouts-as-a-result-of-the-2007-european-heatwa.md)
-_Context: Albania, Croatia, Greece, Hungary, Kosovo, Macedonian, Serbia_
+_Context: Albania, Croatia, Greek, Hungary, Kosovo, Macedonian, Serbia_
 
 ### [ Team Astana retires from the 2007 Tour de France following Kazakh rider Alexander Vinokourov testing positive for a banned blood transfusion. ](/news/2007/07/24/team-astana-retires-from-the-2007-tour-de-france-following-kazakh-rider-alexander-vinokourov-testing-positive-for-a-banned-blood-transfusio.md)
 _Context: 2007 Tour de France, Alexander Vinokourov, Kazakhstan, Team Astana, blood transfusion_

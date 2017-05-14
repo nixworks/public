@@ -19,7 +19,7 @@ _Context: 2004 Indian Ocean earthquake, 2010 Haiti earthquake, Haiti_
 _Context: Goodluck Jonathan, President of Nigeria, Umaru Yar'Adua_
 
 ### [Nationwide strikes led by Communist and Socialist parties take place in Greece to protest the government's handing of the country's debt. Most of the country was brought to a standstill as factories, schools, airports and hospitals closed down or reduced capacity ](/news/2010/02/10/nationwide-strikes-led-by-communist-and-socialist-parties-take-place-in-greece-to-protest-the-government-s-handing-of-the-country-s-debt-mo.md)
-_Context: Greece_
+_Context: Greek_
 
 ### [Prominent Uzbek photographer Umida Akhmedova is found guilty on charges of "slandering the nation" in her work, but is immediately pardoned under an amnesty. ](/news/2010/02/10/prominent-uzbek-photographer-umida-akhmedova-is-found-guilty-on-charges-of-slandering-the-nation-in-her-work-but-is-immediately-pardoned.md)
 _Context: Umida Akhmedova, Uzbekistan_

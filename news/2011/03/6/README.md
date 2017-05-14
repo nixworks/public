@@ -49,7 +49,7 @@ _Context: Chile, Peru_
 Nine people are killed and 11 more injured after a fire breaks out in a bar in the Taiwanese city of Taichung, officials say.
 
 ### [Three people are killed and 28 others are hospitalised in a shipping incident on the Greek island of Crete. ](/news/2011/03/6/three-people-are-killed-and-28-others-are-hospitalised-in-a-shipping-incident-on-the-greek-island-of-crete.md)
-_Context: Crete, Greece_
+_Context: Crete, Greek_
 
 ### [Seven people are missing after a mobile home park fire near Lake Granbury, Texas. ](/news/2011/03/6/seven-people-are-missing-after-a-mobile-home-park-fire-near-lake-granbury-texas.md)
 _Context: Lake Granbury, Texas, mobile home_

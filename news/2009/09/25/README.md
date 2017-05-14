@@ -7,7 +7,7 @@ _Context: Jos Luis Rodrguez Zapatero, Prime Minister, Spain, United States_
 Poland on Friday approved a law making chemical castration mandatory for pedophiles in some cases, sparking criticism from human rights groups.
 
 ### [ Four people are charged in Greece over recent bombing attacks, in the first arrests brought against suspected terrorists in several years. ](/news/2009/09/25/four-people-are-charged-in-greece-over-recent-bombing-attacks-in-the-first-arrests-brought-against-suspected-terrorists-in-several-years.md)
-_Context: Greece_
+_Context: Greek_
 
 ### [ Nigerian MPs ask the government to investigate the status of Chinese citizens living in the country, after allegations that Nigerians in China have been mistreated. ](/news/2009/09/25/nigerian-mps-ask-the-government-to-investigate-the-status-of-chinese-citizens-living-in-the-country-after-allegations-that-nigerians-in-ch.md)
 _Context: Nigeria, People's Republic of China_

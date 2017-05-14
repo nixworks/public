@@ -43,7 +43,7 @@ _Context: Atlantic, The Azores, crater, meteor_
 _Context: Mount Mayon, Philippines, ash, eruption, lava, volcanic activity_
 
 ### [ In a reversal of a previous decision, Sir John Chilcot insists that former British Prime Minister Tony Blair will give the majority of his evidence to The Iraq Inquiry in public. ](/news/2009/12/18/in-a-reversal-of-a-previous-decision-sir-john-chilcot-insists-that-former-british-prime-minister-tony-blair-will-give-the-majority-of-his.md)
-_Context: Iraq Inquiry, John Chilcot, Prime Minister, Tony Blair_
+_Context: Iraq Inquiry, John Chilcot, Prime Minster, Tony Blair_
 
 ### [ Snowfall across the east of England disrupts transport and power supplies. ](/news/2009/12/18/snowfall-across-the-east-of-england-disrupts-transport-and-power-supplies.md)
 _Context: weather-related_

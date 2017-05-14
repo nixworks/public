@@ -6,14 +6,23 @@ Attack was claimed by the Baloch Liberation Army, which has been fighting for an
 ### [A ransomware cyberattack continues to infect computers of private and public organisations around the world, and demand payment in bitcoin. The program was originally developed by the National Security Agency to exploit a vulnerability in Microsoft Windows, and was leaked by The Shadow Brokers in April. ](/news/2017/05/13/a-ransomware-cyberattack-continues-to-infect-computers-of-private-and-public-organisations-around-the-world-and-demand-payment-in-bitcoin.md)
 The government&#39;s cyber emergency response team is looking into a massive global extortion attack that has hit computers here.
 
+### [Ivorian soldiers block access to Bouak, the  second-largest city in Ivory Coast amid a dispute over pay. The town of Odienn is also reported to be under mutineer control. ](/news/2017/05/13/ivorian-soldiers-block-access-to-bouake-the-second-largest-city-in-ivory-coast-amid-a-dispute-over-pay-the-town-of-odienne-is-also-report.md)
+_Context: Bouak, Ivorian soldiers, Ivory Coast, Odienn_
+
 ### [Pope Francis  canonizes Jacinta and Francisco Marto, two of the three Ftima children who reported seeing the Virgin Mary in the spring and summer of 1916. The Martos, who died during the post-World War I international influenza pandemic, are the Catholic Church's youngest saints who did not die as martyrs. The other child, Lcia de Jesus dos Santos, survived until 2005, age 97. ](/news/2017/05/13/pope-francis-canonizes-jacinta-and-francisco-marto-two-of-the-three-fatima-children-who-reported-seeing-the-virgin-mary-in-the-spring-and.md)
 The siblings said the Madonna told them three secrets, which were later interpreted as foretelling World War II and the rise and fall of Communism.
 
 ### [The Venice Biennale awards its top prize, the Golden Lion for best national participation, to German  artist and choreographer Anne Imhoff for her total totalitarianism exhibition "Faust." ](/news/2017/05/13/the-venice-biennale-awards-its-top-prize-the-golden-lion-for-best-national-participation-to-german-artist-and-choreographer-anne-imhoff-f.md)
 _Context: Venice Biennale_
 
+### [Salvador Sobral of Portugal wins the Eurovision Song Contest. While the country debuted in 1964, this marks the first win by a Portuguese entrant. ](/news/2017/05/13/salvador-sobral-of-portugal-wins-the-eurovision-song-contest-while-the-country-debuted-in-1964-this-marks-the-first-win-by-a-portuguese-en.md)
+&lsquo;Yes, Eurovision is silly but if you dislike it you&rsquo;re basically a monster&rsquo; 
+
 ### [A bus carrying tourists crashes near the resort town of Marmaris in southwest Turkey, killing at least 17 people and leaving 13 others injured. ](/news/2017/05/13/a-bus-carrying-tourists-crashes-near-the-resort-town-of-marmaris-in-southwest-turkey-killing-at-least-17-people-and-leaving-13-others-injur.md)
 Seventeen people were killed and 13 injured when a bus carrying Turkish tourists crashed near the southwestern holiday town of Marmaris, a local governor said on Saturday.
+
+### [A TrainOSE passenger train derails near the Greek village of Adendro, leaving at least four people dead and five seriously injured. ](/news/2017/05/13/a-trainose-passenger-train-derails-near-the-greek-village-of-adendro-leaving-at-least-four-people-dead-and-five-seriously-injured.md)
+The intercity train was travelling from Athens to the northern city of Thessaloniki when it derailed and slammed into a house.
 
 ## [Previous Day...](/news/2017/05/12/index.md)
 

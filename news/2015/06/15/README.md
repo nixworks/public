@@ -16,7 +16,7 @@ _Context: King John of England, Magna Carta_
 CVS Health and Target on Monday announced a deal for CVS to acquire Target&#039;s pharmacy and clinic businesses for about $1.9 billion. 
 
 ### [Greece and its creditors harden their stances after the collapse of talks aimed at preventing a default. ](/news/2015/06/15/greece-and-its-creditors-harden-their-stances-after-the-collapse-of-talks-aimed-at-preventing-a-default.md)
-_Context: Greece, Greek government-debt crisis, default_
+_Context: Greek, Greek government-debt crisis, default_
 
 ### [The Central Bank of Russia lowers the interest rate to 11.5%. ](/news/2015/06/15/the-central-bank-of-russia-lowers-the-interest-rate-to-11-5.md)
 The Russian central bank cut its main lending rate further on Monday, in line with market expectations, but said the pace of policy easing could slow in the coming months because of risks to inflation.

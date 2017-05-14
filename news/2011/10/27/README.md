@@ -16,7 +16,7 @@ ALL trading on the Australian stock exchange has been halted indefinitely.
 _Context: Bank of Korea, South Korean economy_
 
 ### [Eurozone rescue deal:Reports indicate that European private banks have agreed to accept a 50% loss on Greek bonds, therefore removing the last apparent roadblock to a solution for the European sovereign debt crisis. ](/news/2011/10/27/eurozone-rescue-deal-preports-indicate-that-european-private-banks-have-agreed-to-accept-a-50-loss-on-greek-bonds-therefore-removing-the-l.md)
-_Context: European sovereign-debt crisis, Eurozone, Greece_
+_Context: European sovereign-debt crisis, Eurozone, Greek_
 
 ### [2011 Thailand floods:Tens of thousands of people attempt to flee the Thai capital Bangkok as floodwaters rise. ](/news/2011/10/27/2011-thailand-floods-ptens-of-thousands-of-people-attempt-to-flee-the-thai-capital-bangkok-as-floodwaters-rise.md)
 _Context: Bangkok, Thailand, floods_

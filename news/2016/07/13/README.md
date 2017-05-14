@@ -31,7 +31,7 @@ A Zimbabwean court on Wednesday dismissed charges against a religious leader acc
 Police say they have now connected eight shootings since March.
 
 ### [Theresa May becomes the Prime Minister of the United Kingdom. ](/news/2016/07/13/theresa-may-becomes-the-prime-minister-of-the-united-kingdom.md)
-_Context: Prime Minister, Theresa May_
+_Context: Prime Minster, Theresa May_
 
 ### [Formation of the The new Prime Minister of the United Kingdom Theresa May begins forming her ministry following the end of the Second Cameron ministry. The former Mayor of London Boris Johnson is appointed Secretary of State for Foreign and Commonwealth Affairs, Philip Hammond is appointed as Chancellor of the Exchequer, Amber Rudd is appointed Home Secretary filling Theresa May's former position, Liam Fox is appointed as Secretary of State for International Trade and David Davis is appointed as minister for the newly created Secretary of State for Exiting the European Union. ](/news/2016/07/13/formation-of-the-the-new-prime-minister-of-the-united-kingdom-theresa-may-begins-forming-her-ministry-following-the-end-of-the-second-camero.md)
 Theresa May is forming her government after becoming prime minister. Who is in - and out - of her first cabinet?

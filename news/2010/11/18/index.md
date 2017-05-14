@@ -28,7 +28,7 @@ The presentation in Oslo next month will most likely be postponed because China 
 _Context: North Korea, Pyongyang, Sunshine Policy, government of South Korea_
 
 ### [At the Caspian Summit in Baku, Azerbaijan, Iranian President Mahmoud Ahmadinejad criticizes NATO for adopting policies based on "false information". ](/news/2010/11/18/at-the-caspian-summit-in-baku-azerbaijan-iranian-president-mahmoud-ahmadinejad-criticizes-nato-for-adopting-policies-based-on-false-infor.md)
-_Context: Azerbaijan, Baku, Caspian Sea, Mahmoud Ahmadinejad, NATO, President_
+_Context: Azerbaijan, Baku, Caspian Sea, Mahmoud Ahmadinejad, NATO, president_
 
 ### [Nearly 200 prisoners in the Democratic Republic of the Congo escape from a jail in the northwest of the country. ](/news/2010/11/18/nearly-200-prisoners-in-the-democratic-republic-of-the-congo-escape-from-a-jail-in-the-northwest-of-the-country.md)
 An estimated 200 prisoners in DR Congo escape from a jail in the remote north-west during a hearing to reduce the backlog of defendants awaiting trial.

@@ -13,7 +13,7 @@ Greece secures 6.8bn euros in further funding from its creditors, but is told th
 _Context: Costa Concordia, Francesco Schettino, Italian_
 
 ### [British Labour Party leader Ed Miliband says he will end the automatic affiliation fee paid to the Party by three million union members after the Unite union was accused of secretly signing up its members in order to get its favoured candidate elected in the Falkirk constituency. ](/news/2013/07/9/british-labour-party-leader-ed-miliband-says-he-will-end-the-automatic-affiliation-fee-paid-to-the-party-by-three-million-union-members-afte.md)
-_Context: Ed Miliband, Falkirk constituency, Labour, Unite union_
+_Context: Ed Miliband, Falkirk constituency, Labour Party, Unite union_
 
 ### [Egypt's military-backed interim government selects economist Hazem Al Beblawi as the interim Prime Minister. ](/news/2013/07/9/egypt-s-military-backed-interim-government-selects-economist-hazem-al-beblawi-as-the-interim-prime-minister.md)
 Egypt’s new military-led government enlisted internationally recognized figures to serve as its public face and promised quick elections, but a transitional plan was widely derided as authoritarian and rushed.

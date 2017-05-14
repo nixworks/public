@@ -13,7 +13,7 @@ An Iraqi was killed and about 70 college students were wounded on the outskirts 
 _Context: Francis Ford Coppola, Hollywood, Iran, Jafar Panahi, Martin Scorsese, Robert De Niro, Robert Redford, Steven Spielberg_
 
 ### [The European Union and the International Monetary Fund agree to a bailout package for Greece that will provide approximately EUR120 billion to end the sovereign debt crisis in that country. ](/news/2010/05/2/the-european-union-and-the-international-monetary-fund-agree-to-a-bailout-package-for-greece-that-will-provide-approximately-a-120-billion.md)
-_Context: European Union, Greece, International Monetary Fund, economically troubled euro-zone nations_
+_Context: European Union, Greek, International Monetary Fund, economically troubled euro-zone nations_
 
 ### [The United Nations investigates reports of a possible massacre of 100 people by Ugandan rebels in the Democratic Republic of the Congo. ](/news/2010/05/2/the-united-nations-investigates-reports-of-a-possible-massacre-of-100-people-by-ugandan-rebels-in-the-democratic-republic-of-the-congo.md)
 _Context: Democratic Republic of the Congo, Uganda, United Nations_

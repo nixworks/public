@@ -4,7 +4,7 @@
 At least 30 people have been killed in a wave of car bombings across central and southern Iraq, police and medics say.
 
 ### [The Quaid-e-Azam Residency, a heritage site  in Ziarat, Pakistan, is badly damaged in an attack by Assailants, killing a police officer.](/news/2013/06/16/the-quaid-e-azam-residency-a-heritage-site-in-ziarat-pakistan-is-badly-damaged-in-an-attack-by-assailants-killing-a-police-officer.md)
-_Context: Assailants, Pakistan, Quaid-e-Azam Residency, Ziarat, attack_
+_Context: Balochistan Liberation Army, Pakistan, Quaid-e-Azam Residency, Ziarat, attack_
 
 ### [Gunmen kill two polio vaccinators in northwest Pakistan. ](/news/2013/06/16/gunmen-kill-two-polio-vaccinators-in-northwest-pakistan.md)
 _Context: Pakistan_

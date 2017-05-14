@@ -37,7 +37,7 @@ _Context: China, France, International Atomic Energy Agency, Iran, Russia, Unite
 Monarch gives extra powers to parliament despite criticism from opposition which says new measures are only symbolic.
 
 ### [Voters in the United Kingdom go to the polls for local elections with the opposition Labour Party expected to do well. ](/news/2012/05/3/voters-in-the-united-kingdom-go-to-the-polls-for-local-elections-with-the-opposition-labour-party-expected-to-do-well.md)
-_Context: Labour, United Kingdom, local elections_
+_Context: Labour Party, United Kingdom, local elections_
 
 ### [Haiti's Chamber of Deputies appoints Laurent Lamothe as the new Prime Minister ending a two month standoff with President Michel Martelly. ](/news/2012/05/3/haiti-s-chamber-of-deputies-appoints-laurent-lamothe-as-the-new-prime-minister-ending-a-two-month-standoff-with-president-michel-martelly.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

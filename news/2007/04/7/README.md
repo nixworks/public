@@ -16,7 +16,7 @@ _Context: California, Los Angeles, U.S. citizen, undocumented immigrants to the 
 _Context: 2007 Solomon Islands earthquake, New Georgia Islands, Ranongga, World Wildlife Fund, coral reef_
 
 ### [ The captain of the Greek cruise ship M/S ''Sea Diamond'' is charged in Greece with criminal negligence in connection with its sinking.  If the two missing passengers are found dead, he may face more serious charges. ](/news/2007/04/7/the-captain-of-the-greek-cruise-ship-m-s-sea-diamond-is-charged-in-greece-with-criminal-negligence-in-connection-with-its-sinking-if.md)
-_Context: Greece, M/S ''Sea Diamond'', criminal negligence, cruise ship_
+_Context: Greek, M/S ''Sea Diamond'', criminal negligence, cruise ship_
 
 ### [ Hungarian American software developer Charles Simonyi launches on board Soyuz TMA-10 towards the International Space Station, becoming the fifth space tourist. ](/news/2007/04/7/hungarian-american-software-developer-charles-simonyi-launches-on-board-soyuz-tma-10-towards-the-international-space-station-becoming-the.md)
 _Context: Charles Simonyi, Hungarian American, International Space Station, Soyuz TMA-10, commercial space flights, software_

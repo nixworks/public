@@ -7,7 +7,7 @@ A series of shootings and bombings have left at least 33 people dead across Iraq
 Nation erupts in joy; leaders extend congratulations; educational institutions get a day off to celebrate.
 
 ### [Greece is the first developed market to be demoted into an emerging market by the MSCI Emerging Markets Index. ](/news/2013/11/27/greece-is-the-first-developed-market-to-be-demoted-into-an-emerging-market-by-the-msci-emerging-markets-index.md)
-_Context: Greece, MSCI Emerging Markets Index, developed market, emerging market_
+_Context: Greek, MSCI Emerging Markets Index, developed market, emerging market_
 
 ### [In China, some second-tier cities such as Wuhan and Shenyang begin to enhance local housing price controlling policy, following all first-tier cities' controlling policy enhancement in the country. ](/news/2013/11/27/in-china-some-second-tier-cities-such-as-wuhan-and-shenyang-begin-to-enhance-local-housing-price-controlling-policy-following-all-first-ti.md)
 _Context: Shenyang, Wuhan_

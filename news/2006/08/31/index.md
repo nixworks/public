@@ -28,7 +28,7 @@ _Context: 1939, Airfix, Humbrol, United Kingdom, administrators_
 _Context: Hezbollah, Hugo Chvez, Syria, Tom Casey, Venezuela_
 
 ### [ Mahmoud Ahmadinejad, the President of Iran, stated that Iran had the right to use nuclear technology on the day that a United Nations Security Council deadline expires. President Ahmadinejad said: "They should know that the Iranian nation will not yield to pressure and will not let its rights be trampled on." ](/news/2006/08/31/mahmoud-ahmadinejad-the-president-of-iran-stated-that-iran-had-the-right-to-use-nuclear-technology-on-the-day-that-a-united-nations-secur.md)
-_Context: Iran, Mahmoud Ahmadinejad, President, United Nations Security Council_
+_Context: Iran, Mahmoud Ahmadinejad, United Nations Security Council, president_
 
 ### [ Norwegian police announce they have recovered the Edvard Munch paintings ''The Scream'' and ''Madonna'', stolen in 2004. ](/news/2006/08/31/norwegian-police-announce-they-have-recovered-the-edvard-munch-paintings-the-scream-and-madonna-stolen-in-2004.md)
 _Context: ''Madonna'', Edvard Munch, Norway, The Scream_

@@ -34,7 +34,7 @@ Pope Benedict XVI faces a clamour for change as he heads to Germany for his firs
 _Context: China, F-16, Taiwan, United States_
 
 ### [Representatives of the United States and European nations walk out of the General Assembly of the United Nations during an accusatory speech by the President of Iran, Mahmoud Ahmadinejad. ](/news/2011/09/22/representatives-of-the-united-states-and-european-nations-walk-out-of-the-general-assembly-of-the-united-nations-during-an-accusatory-speech.md)
-_Context: Europe, General Assembly of the United Nations, Mahmoud Ahmadinejad, President, United States_
+_Context: Europe, General Assembly of the United Nations, Mahmoud Ahmadinejad, United States, president_
 
 ### [The Federal Bureau of Investigation arrests suspected members of the computer hacking groups LulzSec and Anonymous in the US cities of Phoenix, Arizona and San Francisco, California. ](/news/2011/09/22/the-federal-bureau-of-investigation-arrests-suspected-members-of-the-computer-hacking-groups-lulzsec-and-anonymous-in-the-us-cities-of-phoen.md)
 The FBI arrested two alleged members of the hacking collectives LulzSec and Anonymous on Thursday morning in San Francisco and Phoenix and secured charges against a third suspect from Ohio, as first reported by FoxNews.com

@@ -1,19 +1,7 @@
-## [News](/news/2017/05/13/index.md)
+## [News](/news/2017/05/14/index.md)
 
-### [Gunmen open fire on construction workers at Gwadar Port, Pakistan, killing at least 10 people. The Balochistan Liberation Army claimed responsibility for the attack. ](/news/2017/05/13/gunmen-open-fire-on-construction-workers-at-gwadar-port-pakistan-killing-at-least-10-people-the-balochistan-liberation-army-claimed-respo.md)
-Attack was claimed by the Baloch Liberation Army, which has been fighting for an independent homeland for the Baloch.
-
-### [A ransomware cyberattack continues to infect computers of private and public organisations around the world, and demand payment in bitcoin. The program was originally developed by the National Security Agency to exploit a vulnerability in Microsoft Windows, and was leaked by The Shadow Brokers in April. ](/news/2017/05/13/a-ransomware-cyberattack-continues-to-infect-computers-of-private-and-public-organisations-around-the-world-and-demand-payment-in-bitcoin.md)
-The government&#39;s cyber emergency response team is looking into a massive global extortion attack that has hit computers here.
-
-### [Pope Francis  canonizes Jacinta and Francisco Marto, two of the three Ftima children who reported seeing the Virgin Mary in the spring and summer of 1916. The Martos, who died during the post-World War I international influenza pandemic, are the Catholic Church's youngest saints who did not die as martyrs. The other child, Lcia de Jesus dos Santos, survived until 2005, age 97. ](/news/2017/05/13/pope-francis-canonizes-jacinta-and-francisco-marto-two-of-the-three-fatima-children-who-reported-seeing-the-virgin-mary-in-the-spring-and.md)
-The siblings said the Madonna told them three secrets, which were later interpreted as foretelling World War II and the rise and fall of Communism.
-
-### [The Venice Biennale awards its top prize, the Golden Lion for best national participation, to German  artist and choreographer Anne Imhoff for her total totalitarianism exhibition "Faust." ](/news/2017/05/13/the-venice-biennale-awards-its-top-prize-the-golden-lion-for-best-national-participation-to-german-artist-and-choreographer-anne-imhoff-f.md)
-_Context: Venice Biennale_
-
-### [A bus carrying tourists crashes near the resort town of Marmaris in southwest Turkey, killing at least 17 people and leaving 13 others injured. ](/news/2017/05/13/a-bus-carrying-tourists-crashes-near-the-resort-town-of-marmaris-in-southwest-turkey-killing-at-least-17-people-and-leaving-13-others-injur.md)
-Seventeen people were killed and 13 injured when a bus carrying Turkish tourists crashed near the southwestern holiday town of Marmaris, a local governor said on Saturday.
+### [American and South Korean officials confirm that North Korea has fired a test missile from the country's west coast. The projectile flew for 30 minutes and 435 miles/700 kilometers before landing in the sea of Japan. The firing of the test missile comes a couple of days after Moon Jae-in was elected president of South Korea. ](/news/2017/05/14/american-and-south-korean-officials-confirm-that-north-korea-has-fired-a-test-missile-from-the-country-s-west-coast-the-projectile-flew-for.md)
+_Context: Moon Jae-in, North Korea and weapons of mass destruction, elected_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -21,7 +9,35 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ---
 
-## [Yesterday](/news/2017/05/12/index.md)
+## [Yesterday](/news/2017/05/13/index.md)
+
+### [Gunmen open fire on construction workers at Gwadar Port, Pakistan, killing at least 10 people. The Balochistan Liberation Army claimed responsibility for the attack. ](/news/2017/05/13/gunmen-open-fire-on-construction-workers-at-gwadar-port-pakistan-killing-at-least-10-people-the-balochistan-liberation-army-claimed-respo.md)
+Attack was claimed by the Baloch Liberation Army, which has been fighting for an independent homeland for the Baloch.
+
+### [A ransomware cyberattack continues to infect computers of private and public organisations around the world, and demand payment in bitcoin. The program was originally developed by the National Security Agency to exploit a vulnerability in Microsoft Windows, and was leaked by The Shadow Brokers in April. ](/news/2017/05/13/a-ransomware-cyberattack-continues-to-infect-computers-of-private-and-public-organisations-around-the-world-and-demand-payment-in-bitcoin.md)
+The government&#39;s cyber emergency response team is looking into a massive global extortion attack that has hit computers here.
+
+### [Ivorian soldiers block access to Bouak, the  second-largest city in Ivory Coast amid a dispute over pay. The town of Odienn is also reported to be under mutineer control. ](/news/2017/05/13/ivorian-soldiers-block-access-to-bouake-the-second-largest-city-in-ivory-coast-amid-a-dispute-over-pay-the-town-of-odienne-is-also-report.md)
+_Context: Bouak, Ivorian soldiers, Ivory Coast, Odienn_
+
+### [Pope Francis  canonizes Jacinta and Francisco Marto, two of the three Ftima children who reported seeing the Virgin Mary in the spring and summer of 1916. The Martos, who died during the post-World War I international influenza pandemic, are the Catholic Church's youngest saints who did not die as martyrs. The other child, Lcia de Jesus dos Santos, survived until 2005, age 97. ](/news/2017/05/13/pope-francis-canonizes-jacinta-and-francisco-marto-two-of-the-three-fatima-children-who-reported-seeing-the-virgin-mary-in-the-spring-and.md)
+The siblings said the Madonna told them three secrets, which were later interpreted as foretelling World War II and the rise and fall of Communism.
+
+### [The Venice Biennale awards its top prize, the Golden Lion for best national participation, to German  artist and choreographer Anne Imhoff for her total totalitarianism exhibition "Faust." ](/news/2017/05/13/the-venice-biennale-awards-its-top-prize-the-golden-lion-for-best-national-participation-to-german-artist-and-choreographer-anne-imhoff-f.md)
+_Context: Venice Biennale_
+
+### [Salvador Sobral of Portugal wins the Eurovision Song Contest. While the country debuted in 1964, this marks the first win by a Portuguese entrant. ](/news/2017/05/13/salvador-sobral-of-portugal-wins-the-eurovision-song-contest-while-the-country-debuted-in-1964-this-marks-the-first-win-by-a-portuguese-en.md)
+&lsquo;Yes, Eurovision is silly but if you dislike it you&rsquo;re basically a monster&rsquo; 
+
+### [A bus carrying tourists crashes near the resort town of Marmaris in southwest Turkey, killing at least 17 people and leaving 13 others injured. ](/news/2017/05/13/a-bus-carrying-tourists-crashes-near-the-resort-town-of-marmaris-in-southwest-turkey-killing-at-least-17-people-and-leaving-13-others-injur.md)
+Seventeen people were killed and 13 injured when a bus carrying Turkish tourists crashed near the southwestern holiday town of Marmaris, a local governor said on Saturday.
+
+### [A TrainOSE passenger train derails near the Greek village of Adendro, leaving at least four people dead and five seriously injured. ](/news/2017/05/13/a-trainose-passenger-train-derails-near-the-greek-village-of-adendro-leaving-at-least-four-people-dead-and-five-seriously-injured.md)
+The intercity train was travelling from Athens to the northern city of Thessaloniki when it derailed and slammed into a house.
+
+---
+
+## [Day Before Yesterday](/news/2017/05/12/index.md)
 
 ### [A bomb hits a convoy of the Deputy Chairman of the Senate of Pakistan, Abdul Ghafoor Haideri, near Mastung in the province of Balochistan, killing at least 25 people and wounding 35 others, including the Senate's Deputy Chairman. ](/news/2017/05/12/a-bomb-hits-a-convoy-of-the-deputy-chairman-of-the-senate-of-pakistan-abdul-ghafoor-haideri-near-mastung-in-the-province-of-balochistan-k.md)
 A bomb exploded next to a convoy of the deputy chairman of the Pakistan Senate on Friday in the violence-plagued province of Baluchistan, killing at least 25 people, officials said.
@@ -52,38 +68,7 @@ Iranian President Hassan Rouhani launched a stinging attack on his main conserva
 
 ---
 
-## [Day Before Yesterday](/news/2017/05/11/index.md)
-
-### [The Iraqi army's chief of staff, Lt Gen Othman al-Ghanmi, states that his security forces are only days away from completing the operation to recapture Mosul from ISIL. ](/news/2017/05/11/the-iraqi-army-s-chief-of-staff-lt-gen-othman-al-ghanmi-states-that-his-security-forces-are-only-days-away-from-completing-the-operation-t.md)
-_Context: Battle of Mosul, ISIL, Iraq, Mosul, Othman al-Ghanmi_
-
-### [The New Orleans City Council removes the statue of Confederate President Jefferson Davis in New Orleans. This action is the second of four planned removals of Confederate monuments in the city. ](/news/2017/05/11/the-new-orleans-city-council-removes-the-statue-of-confederate-president-jefferson-davis-in-new-orleans-this-action-is-the-second-of-four-p.md)
-Mayor Mitch Landrieu and his allies say monuments to Confederate-era figures celebrate the &quot;cult of the Lost Cause&quot; and hold the city back.
-
-### [The federal government of Brazil informs the World Health Organization that it is ending its state of emergency concerning the Zika virus, following a 95.3% reduction in cases in early 2017 compared to early 2016. ](/news/2017/05/11/the-federal-government-of-brazil-informs-the-world-health-organization-that-it-is-ending-its-state-of-emergency-concerning-the-zika-virus-f.md)
-Rio de Janeiro (AFP) - Brazil&amp;#39;s government on Thursday declared an end to a national emergency over the Zika virus which was detected in the Latin American country late in 2015 before becoming a global concern.
-
-### [Representatives of the Arctic Council, a group of eight countries that border the Arctic Circle, meet in Alaska to discuss oil drilling. ](/news/2017/05/11/representatives-of-the-arctic-council-a-group-of-eight-countries-that-border-the-arctic-circle-meet-in-alaska-to-discuss-oil-drilling.md)
-High-level officials from the world&rsquo;s eight Arctic nations will meet in Alaska amid concerns about the future of the sensitive region after President Donald Trump called for more oil drilling and development.
-
-### [The Supreme Court of India begins hearings on whether oral divorce is a fundamental right of Islam. ](/news/2017/05/11/the-supreme-court-of-india-begins-hearings-on-whether-oral-divorce-is-a-fundamental-right-of-islam.md)
-_Context: Islam, Supreme Court of India, Triple Talaq in India, oral divorce_
-
-### [Moscow police detain five protesters after they attempted to deliver a petition to investigate the status of LGBT rights in Chechnya to the Prosecutor General of Russia. ](/news/2017/05/11/moscow-police-detain-five-protesters-after-they-attempted-to-deliver-a-petition-to-investigate-the-status-of-lgbt-rights-in-chechnya-to-the.md)
-They were calling for an investigation into the alleged torture of gay people in Chechnya.
-
-### [The Federal Bureau of Investigation raids a Republican fundraising firm in Annapolis, Maryland. ](/news/2017/05/11/the-federal-bureau-of-investigation-raids-a-republican-fundraising-firm-in-annapolis-maryland.md)
-The Federal Bureau of Investigation carried out a raid on a Republican fundraising firm in Maryland that had been accused in a 2014 lawsuit of defrauding political donors, according to several area news outlets.
-
-### [An unknown person or organization leaks a 45-page draft campaign manifesto, described as "the most left-wing," of the Labour Party, that is due for official confirmation tomorrow. ](/news/2017/05/11/an-unknown-person-or-organization-leaks-a-45-page-draft-campaign-manifesto-described-as-the-most-left-wing-of-the-labour-party-that-is.md)
-_Context: Labour Party, United Kingdom general election, 2017, left-wing_
-
-### [French President-elect Emmanuel Macron announces his slate of candidates for the upcoming elections for French Parliament. ](/news/2017/05/11/french-president-elect-emmanuel-macron-announces-his-slate-of-candidates-for-the-upcoming-elections-for-french-parliament.md)
-_Context: Emmanuel Macron, French Parliament, French parliamentary election, 2017_
-
----
-
-## [Previous Day...](/news/2017/05/10/index.md)
+## [Previous Day...](/news/2017/05/11/index.md)
 
 ---
 

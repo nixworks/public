@@ -13,7 +13,7 @@ _Context: Ministry of Defence, Royal Marine, Royal Navy, United Kingdom, held ca
 _Context: 100 metres, Tim Montgomery, bank, fraud, money laundering, world record_
 
 ### [ President Mahmoud Ahmadinejad of Iran announces that his country can now produce nuclear fuel on an industrial scale. ](/news/2007/04/9/president-mahmoud-ahmadinejad-of-iran-announces-that-his-country-can-now-produce-nuclear-fuel-on-an-industrial-scale.md)
-_Context: Iran, Mahmoud Ahmadinejad, President, produce nuclear fuel on an industrial scale_
+_Context: Iran, Mahmoud Ahmadinejad, president, produce nuclear fuel on an industrial scale_
 
 ### [ Ministers from natural gas exporting countries such as Russia, Kazakhstan and Iran meet in Doha, Qatar, prompting speculation that they might be looking at transforming the Gas Exporting Countries Forum into a cartel similar to OPEC. ](/news/2007/04/9/ministers-from-natural-gas-exporting-countries-such-as-russia-kazakhstan-and-iran-meet-in-doha-qatar-prompting-speculation-that-they-mig.md)
 _Context: Doha, Gas Exporting Countries Forum, Iran, Kazakhstan, OPEC, Qatar, Russia, cartel, natural gas_
