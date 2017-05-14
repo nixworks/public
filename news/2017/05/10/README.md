@@ -1,8 +1,5 @@
 ## [2017-05-10](/news/2017/05/10/index.md)
 
-### [U.S. President Donald Trump contemplates sending 5,000 more troops to Afghanistan. ](/news/2017/05/10/u-s-president-donald-trump-contemplates-sending-5-000-more-troops-to-afghanistan.md)
-President Trump has yet to decide on a variety of options being presented to him by U.S. military leaders, senior administration officials say.
-
 ### [Pope Francis intends to canonize two of the children who had visions at Fatima. ](/news/2017/05/10/pope-francis-intends-to-canonize-two-of-the-children-who-had-visions-at-fatima.md)
 _Context: Fatima, Pope Francis, canonize_
 
