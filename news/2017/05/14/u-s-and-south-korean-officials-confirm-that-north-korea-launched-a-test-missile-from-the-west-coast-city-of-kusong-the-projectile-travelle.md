@@ -1,14 +1,15 @@
 ### [2017-05-14](/news/2017/05/14/index.md)
 
-# U.S. and South Korean officials confirm that North Korea launched a test missile from the west coast city of Kusong. The projectile travelled to the east for 30 minutes and 435 miles reaching an altitude of more than 1,245 miles before landing in the Sea of Japan. 
+# U.S. and South Korean officials confirm that North Korea launched a test missile from the west coast city of Kusong. The projectile travelled to the east for 30 minutes and 435 miles reaching an altitude of more than 1,245 miles before landing in the Sea of Japan, 97 km (60 miles) south of Russia's Vladivostok. 
 
-Japan says it reached an altitude of 2,000km which, if confirmed, could show a technological advance.
+min Park and Idrees Ali
 
 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-39911530)
 2. [CBS via MSN](http://www.msn.com/en-us/news/world/north-korea-fires-unidentified-projectile-south-korean-military-says/ar-BBB6eP3)
+3. [Reuters](http://www.reuters.com/article/us-northkorea-missiles-idUSKBN1890UO)
 
 ### Related:
 
