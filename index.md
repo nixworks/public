@@ -1,7 +1,7 @@
 ## [News](/news/2017/05/14/index.md)
 
-### [American and South Korean officials confirm that North Korea has fired a test missile from the country's west coast. The projectile flew for 30 minutes and 435 miles/700 kilometers before landing in the sea of Japan. The firing of the test missile comes a couple of days after Moon Jae-in was elected president of South Korea. ](/news/2017/05/14/american-and-south-korean-officials-confirm-that-north-korea-has-fired-a-test-missile-from-the-country-s-west-coast-the-projectile-flew-for.md)
-_Context: Moon Jae-in, North Korea and weapons of mass destruction, elected_
+### [American and South Korean officials confirm that North Korea has fired a test missile from the country's west coast. The projectile flew for 30 minutes and 435 miles before landing in the Sea of Japan. ](/news/2017/05/14/american-and-south-korean-officials-confirm-that-north-korea-has-fired-a-test-missile-from-the-country-s-west-coast-the-projectile-flew-for.md)
+_Context: North Korea and weapons of mass destruction, Sea of Japan_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -26,7 +26,7 @@ The siblings said the Madonna told them three secrets, which were later interpre
 ### [The Venice Biennale awards its top prize, the Golden Lion for best national participation, to German  artist and choreographer Anne Imhoff for her total totalitarianism exhibition "Faust." ](/news/2017/05/13/the-venice-biennale-awards-its-top-prize-the-golden-lion-for-best-national-participation-to-german-artist-and-choreographer-anne-imhoff-f.md)
 _Context: Venice Biennale_
 
-### [Salvador Sobral of Portugal wins the Eurovision Song Contest. While the country debuted in 1964, this marks the first win by a Portuguese entrant. ](/news/2017/05/13/salvador-sobral-of-portugal-wins-the-eurovision-song-contest-while-the-country-debuted-in-1964-this-marks-the-first-win-by-a-portuguese-en.md)
+### [Salvador Sobral of Portugal wins the Eurovision Song Contest with the song ''Amar Pelos Dois''. While the country debuted in the 1964 edition of the contest, this marks the first win by a Portuguese entrant. ](/news/2017/05/13/salvador-sobral-of-portugal-wins-the-eurovision-song-contest-with-the-song-amar-pelos-dois-while-the-country-debuted-in-the-1964-editio.md)
 &lsquo;Yes, Eurovision is silly but if you dislike it you&rsquo;re basically a monster&rsquo; 
 
 ### [A bus carrying tourists crashes near the resort town of Marmaris in southwest Turkey, killing at least 17 people and leaving 13 others injured. ](/news/2017/05/13/a-bus-carrying-tourists-crashes-near-the-resort-town-of-marmaris-in-southwest-turkey-killing-at-least-17-people-and-leaving-13-others-injur.md)
