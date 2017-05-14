@@ -1,6 +1,6 @@
 ### [2017-05-13](/news/2017/05/13/index.md)
 
-# Pope Francis  canonizes Jacinta and Francisco Marto, two of the three Ftima children who reported seeing the Virgin Mary in the spring and summer of 1916. The Martos, who died during the post-World War I international influenza pandemic, are the Catholic Church's youngest saints who did not die as martyrs. The other child, Lcia de Jesus dos Santos, survived until the year 2005, when she was 97 years old. 
+# Pope Francis  canonizes Jacinta and Francisco Marto, two of the three Ftima children who reported seeing the Virgin Mary in the spring and summer of 1917. The Martos, who died during the post-World War I international influenza pandemic, are the Catholic Church's youngest saints who did not die as martyrs. The other child, Lcia de Jesus dos Santos, survived until the year 2005, when she was 97 years old. 
 
 The siblings said the Madonna told them three secrets, which were later interpreted as foretelling World War II and the rise and fall of Communism.
 
