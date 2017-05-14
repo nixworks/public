@@ -25,7 +25,7 @@ Seventeen people were killed and 13 injured when a bus carrying Turkish tourists
 The intercity train was travelling from Athens to the northern city of Thessaloniki when it derailed and slammed into a house.
 
 ### [A 5.7 magnitude earthquake kills at least three people in the town of Pish Qaleh in northeast Iran. ](/news/2017/05/13/a-5-7-magnitude-earthquake-kills-at-least-three-people-in-the-town-of-pish-qaleh-in-northeast-iran.md)
-_Context: Iran, Pish Qaleh_
+A 5.7-magnitude earthquake killed at least two people and injured hundreds while causing widespread damage.
 
 ## [Previous Day...](/news/2017/05/12/index.md)
 
