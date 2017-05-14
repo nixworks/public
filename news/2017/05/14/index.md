@@ -6,5 +6,8 @@ _Context: International Committee of the Red Cross, Yemen, Yemeni Civil War, cho
 ### [U.S. and South Korean officials confirm that North Korea launched a test missile from the west coast city of Kusong. The projectile travelled to the east for 30 minutes and 700 km, reaching an altitude of more than 2000 km before landing in the Sea of Japan, 97 km south of Russia's city of Vladivostok. ](/news/2017/05/14/u-s-and-south-korean-officials-confirm-that-north-korea-launched-a-test-missile-from-the-west-coast-city-of-kusong-the-projectile-travelle.md)
 Japan says it reached an altitude of 2,000km which, if confirmed, could show a technological advance.
 
+### [Voters in the German state of North Rhine-Westphalia head to the polls, with the media suggesting a victory for Angela Merkel's CDU over the SPD, who have lead the state for all but five years since 1966. ](/news/2017/05/14/voters-in-the-german-state-of-north-rhine-westphalia-head-to-the-polls-with-the-media-suggesting-a-victory-for-angela-merkel-s-cdu-over-the.md)
+German media projections show clear win for Merkel&#39;s party and defeat for social-democrats in their own stronghold.
+
 ## [Previous Day...](/news/2017/05/13/index.md)
 
