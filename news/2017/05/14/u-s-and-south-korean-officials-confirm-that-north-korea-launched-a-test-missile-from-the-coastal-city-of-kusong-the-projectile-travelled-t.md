@@ -1,0 +1,25 @@
+### [2017-05-14](/news/2017/05/14/index.md)
+
+# U.S. and South Korean officials confirm that North Korea launched a test missile from the coastal city of Kusong. The projectile travelled to the east for 30 minutes and 700 kilometers, reaching an altitude of more than 2,000 kilometers before landing in the Sea of Japan, 97 miles south of the Russian city of Vladivostok. 
+
+Japan says it reached an altitude of 2,000km which, if confirmed, could show a technological advance.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/news/world-asia-39911530)
+2. [CBS via MSN](http://www.msn.com/en-us/news/world/north-korea-fires-unidentified-projectile-south-korean-military-says/ar-BBB6eP3)
+3. [Reuters](http://www.reuters.com/article/us-northkorea-missiles-idUSKBN1890UO)
+
+### Related:
+
+1. [South Korea claims that North Korea has fired several missiles from the Sohae Satellite Launching Station into the Sea of Japan. ](/news/2017/03/6/south-korea-claims-that-north-korea-has-fired-several-missiles-from-the-sohae-satellite-launching-station-into-the-sea-of-japan.md) _Context: North Korea, North Korea and weapons of mass destruction, Sea of Japan_
+2. [North Korea test fires a ballistic missile over the Sea of Japan. ](/news/2017/02/12/north-korea-test-fires-a-ballistic-missile-over-the-sea-of-japan.md) _Context: North Korea, North Korea and weapons of mass destruction, Sea of Japan_
+3. [The United States Defense Department reports its Strategic Command systems detected a failed North Korean ballistic missile launch near the city of Kusong in North Pyongan Province. ](/news/2016/10/15/the-united-states-defense-department-reports-its-strategic-command-systems-detected-a-failed-north-korean-ballistic-missile-launch-near-the.md) _Context: Kusong, North Korea, North Korea and weapons of mass destruction_
+4. [The South Korean Joint Chiefs of Staff and the United States Strategic Command report North Korea fires three ballistic missiles into the Sea of Japan. The short-range ballistic missiles flew about 500 to 600 kilometers (310 to 375 miles) before crashing in the sea, sufficient to target the southern part of South Korea where the U.S. Terminal High Altitude Area Defense system is set to be installed. ](/news/2016/07/19/the-south-korean-joint-chiefs-of-staff-and-the-united-states-strategic-command-report-north-korea-fires-three-ballistic-missiles-into-the-se.md) _Context: North Korea, North Korea and weapons of mass destruction, Sea of Japan_
+5. [More than 50 heads of state as well as representatives from international organizations attend the annual Nuclear Security Summit in Washington, D.C., with the notable exception of Russia, which declined to attend. The main agenda of the two-day gathering is the discussion of North Korea and the threat it poses with its nuclear weapons and the possibility of ISIS extremists getting a nuclear weapon. ](/news/2016/03/31/more-than-50-heads-of-state-as-well-as-representatives-from-international-organizations-attend-the-annual-nuclear-security-summit-in-washing.md) _Context: North Korea, North Korea and weapons of mass destruction, Russian_
+6. [South Korea claims that North Korea has launched several short range missiles into the Sea of Japan. ](/news/2016/03/3/south-korea-claims-that-north-korea-has-launched-several-short-range-missiles-into-the-sea-of-japan.md) _Context: North Korea, North Korea and weapons of mass destruction, Sea of Japan_
+7. [A South Korean Joint Chiefs of Staff official reports North Korea launched five short-range missiles from  the eastern city of Hamhung into the Sea of Japan. ](/news/2016/03/21/a-south-korean-joint-chiefs-of-staff-official-reports-north-korea-launched-five-short-range-missiles-from-the-eastern-city-of-hamhung-into.md) _Context: North Korea, North Korea and weapons of mass destruction, Sea of Japan_
+8. [The South Korean Joint Chiefs of Staff and  a U.S. defense official report that North Korea fired two  ballistic missiles from the South Pyongan Province. One flew 800 kilometers (497 miles) into the Sea of Japan. The other disappeared at an altitude of about 17 kilometers (10.5 miles). ](/news/2016/03/18/the-south-korean-joint-chiefs-of-staff-and-a-u-s-defense-official-report-that-north-korea-fired-two-ballistic-missiles-from-the-south-pyo.md) _Context: North Korea, North Korea and weapons of mass destruction, Sea of Japan_
+9. [China warns the U.S. against performing any military acts within their exclusive economic zone, ahead of joint South Korean-U.S. military exercises aimed at  threatening North Korea. ](/news/2010/11/26/china-warns-the-u-s-against-performing-any-military-acts-within-their-exclusive-economic-zone-ahead-of-joint-south-korean-u-s-military-ex.md) _Context: North Korea, South Korean, U.S._
+10. [ North Korea announces it is in the final stage of uranium enrichment, as Russia, South Korea, Japan and the United States express concern. ](/news/2009/09/4/north-korea-announces-it-is-in-the-final-stage-of-uranium-enrichment-as-russia-south-korea-japan-and-the-united-states-express-concern.md) _Context: North Korea, North Korea and weapons of mass destruction, Russian_
