@@ -61,7 +61,7 @@ _Context: California, Robert F. Kennedy, Sirhan Sirhan, parole_
 _Context: BBC News, Ivory Coast, Laurent Gbagbo, RFI_
 
 ### [German Chancellor Angela Merkel names Thomas de Maizire as new defence minister and Hans-Peter Friedrich as the new interior minister, following resignations earlier this week. ](/news/2011/03/2/german-chancellor-angela-merkel-names-thomas-de-maiziere-as-new-defence-minister-and-hans-peter-friedrich-as-the-new-interior-minister-foll.md)
-_Context: Angela Merkel, German, Hans-Peter Friedrich, Thomas de Maizire_
+_Context: Angela Merkel's, German, Hans-Peter Friedrich, Thomas de Maizire_
 
 ### [The United Kingdom announces plans to axe 11,000 jobs in the British Armed Forces. ](/news/2011/03/2/the-united-kingdom-announces-plans-to-axe-11-000-jobs-in-the-british-armed-forces.md)
 _Context: British military personnel, United Kingdom_

@@ -46,7 +46,7 @@ _Context: Hatay Province, Iskenderun, Luigi Padovese, Roman Catholic Apostolic V
 The soldier who killed a man in 1971 should have been charged with murder, the chief of the RUC in the city said at the time.
 
 ### [Christian Wulff is nominated for President of Germany by Chancellor Angela Merkel. ](/news/2010/06/3/christian-wulff-is-nominated-for-president-of-germany-by-chancellor-angela-merkel.md)
-_Context: Angela Merkel, Christian Wulff, German Chancellor, President of Germany_
+_Context: Angela Merkel's, Christian Wulff, German Chancellor, President of Germany_
 
 ### [Dawn Purvis resigns as leader of the Progressive Unionist Party over the fatal shooting of Bobby Moffett. ](/news/2010/06/3/dawn-purvis-resigns-as-leader-of-the-progressive-unionist-party-over-the-fatal-shooting-of-bobby-moffett.md)
 _Context: Dawn Purvis, Progressive Unionist Party_

@@ -40,7 +40,7 @@ _Context: China, Zhejiang_
 A prominent Burundi opposition politician urged the United Nations on Friday to send peacekeepers quickly to help deal with rising violence, after the Security Council discussed ways to boost its presence there.
 
 ### [German Chancellor Angela Merkel asserts she still isn't prepared to name an upper limit to the number of refugees who can come to Germany, despite mounting domestic political pressure. ](/news/2015/11/13/german-chancellor-angela-merkel-asserts-she-still-isn-t-prepared-to-name-an-upper-limit-to-the-number-of-refugees-who-can-come-to-germany-d.md)
-_Context: Angela Merkel, European migrant crisis, German, German Chancellor_
+_Context: Angela Merkel's, European migrant crisis, German, German Chancellor_
 
 ### [U.S. Secretary of State John Kerry meets in Vienna, Austria,  with the foreign ministers of Turkey and Saudi Arabia, as well as the U.N. special envoy for Syria, ahead of Saturday's next round of international summits on the Syrian Civil War. The talks, aimed toward a cease-fire in Syria's devastating war and a  political transition to a post-war government, will include senior officials from 19 nations/groups  and, as in October, Iran will participate. ](/news/2015/11/13/u-s-secretary-of-state-john-kerry-meets-in-vienna-austria-with-the-foreign-ministers-of-turkey-and-saudi-arabia-as-well-as-the-u-n-spe.md)
 _Context: Austria, Iran, John Kerry, Saudi Arabia, Syria, Syrian Civil War peace process, Turkey, United Nations, United States Secretary of State, Vienna_

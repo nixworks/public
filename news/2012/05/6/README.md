@@ -19,7 +19,7 @@ _Context: Armenia, Republican Party, exit poll, parliamentary election_
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [Voters in Schleswig-Holstein go to the polls for a state election with the governing coalition of CDU and FDP losing their majority, paving the way for a coalition between SPD, The Greens and the Danish minority's SSW. ](/news/2012/05/6/voters-in-schleswig-holstein-go-to-the-polls-for-a-state-election-with-the-governing-coalition-of-cdu-and-fdp-losing-their-majority-paving.md)
-_Context: Christian Democratic Union, Danish minority's, FDP, Greens, SSW, Schleswig-Holstein, Social Democratic Party of Germany, state election_
+_Context: Christian Democratic Union, Danish minority's, FDP, Greens, SPD, SSW, Schleswig-Holstein, state election_
 
 ## [Previous Day...](/news/2012/05/5/index.md)
 

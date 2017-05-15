@@ -53,7 +53,7 @@ A Chubb security guard has died after being shot in the chest during a routine c
 A US military analyst is arrested on suspicion of leaking combat video and thousands of classified documents.
 
 ### [Chancellor Angela Merkel agrees EUR80 billion of savings spread across four years with her coalition cabinet. ](/news/2010/06/7/chancellor-angela-merkel-agrees-a-80-billion-of-savings-spread-across-four-years-with-her-coalition-cabinet.md)
-_Context: Angela Merkel, German Chancellor, her coalition cabinet_
+_Context: Angela Merkel's, German Chancellor, her coalition cabinet_
 
 ### [North Korea holds a rare second session of its parliament, with Choe Yong-rim appointed to replace Kim Yong-il as Premier. ](/news/2010/06/7/north-korea-holds-a-rare-second-session-of-its-parliament-with-choe-yong-rim-appointed-to-replace-kim-yong-il-as-premier.md)
 _Context: Choe Yong-rim, Kim Yong-il, North Korea, Premier, its parliament_

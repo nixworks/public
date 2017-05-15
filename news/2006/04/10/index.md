@@ -10,7 +10,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Bandidos, Ontario, Ontario Provincial Police, Shedden massacre, outlaw motorcycle gangs_
 
 ### [ Matthias Platzeck resigns from the Chair of Germany's Social Democratic Party (SPD) after suffering a major hearing loss in March 2006 because of occupational stress. The next SPD chairman will be Kurt Beck (Minister President of Rhineland-Palatinate). ](/news/2006/04/10/matthias-platzeck-resigns-from-the-chair-of-germany-s-social-democratic-party-spd-after-suffering-a-major-hearing-loss-in-march-2006-beca.md)
-_Context: Kurt Beck, Matthias Platzeck, Rhineland-Palatinate, Social Democratic Party of Germany, hearing loss_
+_Context: Kurt Beck, Matthias Platzeck, Rhineland-Palatinate, SPD, hearing loss_
 
 ### [ Italian general election, 2006: Romano Prodi declares victory in a tight election as preliminary results show L'Unione (The Union) ahead of Silvio Berlusconi's House of Freedoms by 0.1 percent in the Chamber of Deputies, but Berlusconi refuses to concede. ](/news/2006/04/10/italian-general-election-2006-romano-prodi-declares-victory-in-a-tight-election-as-preliminary-results-show-l-unione-the-union-ahead-of.md)
 _Context: April 9-10 elections, House of Freedoms, Italian Chamber of Deputies, L'Unione, Romano Prodi, Silvio Berlusconi_

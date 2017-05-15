@@ -37,7 +37,7 @@ _Context: New Caledonia, Noumea, police, trade unionists_
 Tongan Transport Minister Paul Karalus has resigned, six days after the sinking of the Princess Ashika. - New Zealand Herald
 
 ### [ German CDU politician Vera Lengsfeld attracts controversy for displaying a photo of Angela Merkel in a revealing gown without the authorisation of the Chancellor. ](/news/2009/08/12/german-cdu-politician-vera-lengsfeld-attracts-controversy-for-displaying-a-photo-of-angela-merkel-in-a-revealing-gown-without-the-authorisa.md)
-_Context: Angela Merkel, Christian Democratic Union, German, German Chancellor, Vera Lengsfeld_
+_Context: Angela Merkel's, Christian Democratic Union, German, German Chancellor, Vera Lengsfeld_
 
 ### [ Lubna al-Hussein, the Sudanese woman facing forty lashes for wearing trousers in public, is prevented from leaving the country for a trip to Lebanon, where she was to take part in a televised talk-show about women's issues. ](/news/2009/08/12/lubna-al-hussein-the-sudanese-woman-facing-forty-lashes-for-wearing-trousers-in-public-is-prevented-from-leaving-the-country-for-a-trip-t.md)
 _Context: Lebanon, Lubna al-Hussein, Sudan_

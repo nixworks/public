@@ -22,7 +22,7 @@ Nicolas Sarkozy is detained for questioning over alleged influence peddling - un
 MP Naomi Long condemns those who put up the flag off Island Street, accusing them of exacerbating racist tensions in the area
 
 ### [The German Social Democrat Martin Schulz is reelected President of the European Parliament for another two and a half years. ](/news/2014/07/1/the-german-social-democrat-martin-schulz-is-reelected-president-of-the-european-parliament-for-another-two-and-a-half-years.md)
-_Context: Martin Schulz, President of the European Parliament, Social Democratic Party of Germany_
+_Context: Martin Schulz, President of the European Parliament, SPD_
 
 ### [The Council of Representatives of Iraq is due to meet for the first time since recent elections to try and counter the surge made by the Islamic State of Iraq and the Levant. However, the meeting is delayed due to a lack of quorum. ](/news/2014/07/1/the-council-of-representatives-of-iraq-is-due-to-meet-for-the-first-time-since-recent-elections-to-try-and-counter-the-surge-made-by-the-isl.md)
 _Context: Iraqi Parliament, Islamic State of Iraq and the Levant, elections_

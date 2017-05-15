@@ -13,7 +13,7 @@ _Context: Israel, Pervez Musharraf, President, Quran, Salah_
 _Context: Afghan parliamentary election, 2005, Afghanistan, Taliban_
 
 ### [ Federal elections are held in Germany. Provisional results give the CDU/CSU 35.2% of the vote and 225 seats, the SPD 34.3% and 222 seats, FDP 9.8% and 61 seats, the Left Party 8.7% and 54 seats, and the Green party 8.1% and 51 seats. There is likely to be several weeks of horse trading to form a workable coalition. ](/news/2005/09/18/federal-elections-are-held-in-germany-provisional-results-give-the-cdu-csu-35-2-of-the-vote-and-225-seats-the-spd-34-3-and-222-seats-f.md)
-_Context: CSU, Christian Democratic Union, Free Democrats, German, German federal election, 2005, Greens, Left Party, Social Democratic Party of Germany_
+_Context: CSU, Christian Democratic Union, Free Democrats, German, German federal election, 2005, Greens, Left Party, SPD_
 
 ### [ Russia wins the Fed Cup title for second straight year, beating France 3:2 in the final. ](/news/2005/09/18/russia-wins-the-fed-cup-title-for-second-straight-year-beating-france-3-2-in-the-final.md)
 _Context: Fed Cup, France, Russia_

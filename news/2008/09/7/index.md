@@ -19,7 +19,7 @@ The U.S. government on Sunday seized control of mortgage finance companies Fanni
 _Context: October 14, Stephen Harper, elected_
 
 ### [ Kurt Beck, the chairman of the Social Democratic Party of Germany steps down. According to media reports, Frank Walter Steinmeier will become the candidate for Chancellor of Germany in the 2009 elections. ](/news/2008/09/7/kurt-beck-the-chairman-of-the-social-democratic-party-of-germany-steps-down-according-to-media-reports-frank-walter-steinmeier-will-beco.md)
-_Context: Chancellor, Frank-Walter Steinmeier, Kurt Beck, Social Democratic Party of Germany, federal election_
+_Context: Chancellor, Frank-Walter Steinmeier, Kurt Beck, SPD, federal election_
 
 ### [ Floods in Brahmaputra river have displaced estimated 2.1 million people and caused 24 deaths in north-eastern state of Assam, India. ](/news/2008/09/7/floods-in-brahmaputra-river-have-displaced-estimated-2-1-million-people-and-caused-24-deaths-in-north-eastern-state-of-assam-india.md)
 _Context: Assam, Brahmaputra River, Floods, India, million_

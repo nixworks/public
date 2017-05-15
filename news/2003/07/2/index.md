@@ -4,7 +4,7 @@
 _Context: European Parliament, European Union, genetically modified wheat_
 
 ### [ On taking up the EU presidency, Italian Prime Minister Silvio Berlusconi makes an embarrassing remark, causing an uproar of criticism from the 626-seat European Parliament and the European media, by insulting the German MEP Martin Schulz (SPD) with the words "Mr. Schulz, I know there is a producer in Italy who is making a film on the Nazi concentration camps. I will suggest you for the role of kapo. You'd be perfect."](/news/2003/07/2/on-taking-up-the-eu-presidency-italian-prime-minister-silvio-berlusconi-makes-an-embarrassing-remark-causing-an-uproar-of-criticism-from.md)
-_Context: EU presidency, Italian Prime Minister, Martin Schulz, Member of the European Parliament, Nazism, Silvio Berlusconi, Social Democratic Party of Germany, concentration camp, kapo_
+_Context: EU presidency, Italian Prime Minister, Martin Schulz, Member of the European Parliament, Nazism, SPD, Silvio Berlusconi, concentration camp, kapo_
 
 ### [ The results of a Royal Commission on renewing the relationship between Canada and the province of Newfoundland and Labrador is released. ](/news/2003/07/2/the-results-of-a-royal-commission-on-renewing-the-relationship-between-canada-and-the-province-of-newfoundland-and-labrador-is-released.md)
 _Context: Newfoundland and Labrador, Royal Commission_

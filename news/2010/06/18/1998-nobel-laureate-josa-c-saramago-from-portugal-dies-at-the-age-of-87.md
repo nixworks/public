@@ -14,7 +14,7 @@ Portuguese novelist Jose Saramago, who won the Nobel Prize for literature in 199
 
 ### Related:
 
-1. [Salvador Sobral of Portugal wins the Eurovision Song Contest. While the country debuted in 1964, this marks the first win by a Portuguese entrant. ](/news/2017/05/13/salvador-sobral-of-portugal-wins-the-eurovision-song-contest-while-the-country-debuted-in-1964-this-marks-the-first-win-by-a-portuguese-en.md) _Context: Portugal_
+1. [Salvador Sobral of Portugal wins the Eurovision Song Contest with the song ''Amar Pelos Dois''. While the country debuted in the 1964 edition of the contest, this marks the first win by a Portuguese entrant. ](/news/2017/05/13/salvador-sobral-of-portugal-wins-the-eurovision-song-contest-with-the-song-amar-pelos-dois-while-the-country-debuted-in-the-1964-editio.md) _Context: Portugal_
 2. [Catholics in Portugal converge in a shrine in Fatima for a visit by Pope Francis. ](/news/2017/05/12/catholics-in-portugal-converge-in-a-shrine-in-fatima-for-a-visit-by-pope-francis.md) _Context: Portugal_
 3. [A small Swiss-owned plane crashes in the Portuguese village of Tires, west of Lisbon, killing at least five people. ](/news/2017/04/17/a-small-swiss-owned-plane-crashes-in-the-portuguese-village-of-tires-west-of-lisbon-killing-at-least-five-people.md) _Context: Portugal_
 4. [The Swedish Academy announces that American singer-songwriter Bob Dylan has agreed to accept his Nobel Prize in Literature this weekend at a private location in Stockholm. ](/news/2017/03/29/the-swedish-academy-announces-that-american-singer-songwriter-bob-dylan-has-agreed-to-accept-his-nobel-prize-in-literature-this-weekend-at-a.md) _Context: Nobel Prize in Literature_

@@ -25,7 +25,7 @@ A wide trade gap can restrain growth because it means Americans are spending mor
 _Context: IBM, SoftLayer Technologies, cloud computing_
 
 ### [German chancellor Angela Merkel pledges 100 million euros of aid to flood victims as the death toll from ongoing flooding hits 11. ](/news/2013/06/4/german-chancellor-angela-merkel-pledges-100-million-euros-of-aid-to-flood-victims-as-the-death-toll-from-ongoing-flooding-hits-11.md)
-_Context: 2013 European floods, Angela Merkel_
+_Context: 2013 European floods, Angela Merkel's_
 
 ### [It is determined that the May 31 tornado that hit El Reno, Oklahoma, US, was the widest ever on record and a rare EF5. ](/news/2013/06/4/it-is-determined-that-the-may-31-tornado-that-hit-el-reno-oklahoma-us-was-the-widest-ever-on-record-and-a-rare-ef5.md)
 The weather service says EF5 twister&#39;s 2.6-mile width is the widest ever recorded.

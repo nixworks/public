@@ -20,7 +20,7 @@ A new centre opens designed to help some of the thousands of people who have bee
 _Context: Afghanistan_
 
 ### [Angela Merkel, the German Chancellor, and Nicolas Sarkozy, the President of France, jointly propose a new set of policies for the euro zone defined to defend the euro as a currency, such as higher retirement ages and the abolition of inflation-indexed wages. ](/news/2011/02/4/angela-merkel-the-german-chancellor-and-nicolas-sarkozy-the-president-of-france-jointly-propose-a-new-set-of-policies-for-the-euro-zone.md)
-_Context: Angela Merkel, Eurozone, Nicolas Sarkozy, euro_
+_Context: Angela Merkel's, Eurozone, Nicolas Sarkozy, euro_
 
 ### [The court-appointed trustee for creditors of Bernie Madoff claims that the owners of the New York Mets owes $300 million. ](/news/2011/02/4/the-court-appointed-trustee-for-creditors-of-bernie-madoff-claims-that-the-owners-of-the-new-york-mets-owes-300-million.md)
 Lawyers agreed to make complaint public after settlement talks broke down.

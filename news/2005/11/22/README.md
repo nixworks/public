@@ -7,7 +7,7 @@ _Context: Israeli Air Force, Israeli-Lebanese conflict_
 _Context: 2005 Atlantic hurricane season, Honduran, Tropical Storm Gamma, flood, mudslide_
 
 ### [ After two months of negotiations, Angela Merkel is elected the first female Chancellor of Germany by a coalition of the CDU/CSU and SPD delegates in the Bundestag. ](/news/2005/11/22/after-two-months-of-negotiations-angela-merkel-is-elected-the-first-female-chancellor-of-germany-by-a-coalition-of-the-cdu-csu-and-spd-del.md)
-_Context: Angela Merkel, Bundestag, CSU, Chancellor, Christian Democratic Union, Social Democratic Party of Germany, grand coalition_
+_Context: Angela Merkel's, Bundestag, CSU, Chancellor, Christian Democratic Union, SPD, grand coalition_
 
 ### [ Kenyan voters overwhelmingly reject a new constitution, which would have given the president greater power, in a national referendum, which used symbols on the ballot paper to assist illiterate voters. ](/news/2005/11/22/kenyan-voters-overwhelmingly-reject-a-new-constitution-which-would-have-given-the-president-greater-power-in-a-national-referendum-which.md)
 _Context: Kenya, new constitution, referendum_

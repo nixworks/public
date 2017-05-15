@@ -19,7 +19,7 @@ Azerbaijani tanks on Wednesday shelled positions in the breakaway Nagorny Karaba
 _Context: Iraq, Iraqi Civil War (2014-present), Iraqi Kurdistan, Turkey_
 
 ### [Angela Merkel is named as ''Time'''s Person of the Year. ](/news/2015/12/9/angela-merkel-is-named-as-time-s-person-of-the-year.md)
-_Context: Angela Merkel, Person of the Year, Time_
+_Context: Angela Merkel's, Person of the Year, Time_
 
 ### [Heavy rains continue to lash Thanjavur and Thanjavur district, inundating urban areas and hundreds of acres of farmland. Many residential areas in Thanjavur have been marooned by rising water. ](/news/2015/12/9/heavy-rains-continue-to-lash-thanjavur-and-thanjavur-district-inundating-urban-areas-and-hundreds-of-acres-of-farmland-many-residential-ar.md)
 Fields are submerged; AIADMK worker electrocuted; old man washed away

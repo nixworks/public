@@ -37,7 +37,7 @@ Rahul Gandhi, appointed the Congress&#039; number 2 on Saturday evening, will be
 The Cabinet Committee on Political Affairs (CCPA) on Thursday raised the cap on supply of subsidised LPG cylinders to nine bottles from six per year per household and authorised the oil marketing comp
 
 ### [In Germany, Chancellor Angela Merkel's centre-left opponents win a narrow victory in Lower Saxony state election. ](/news/2013/01/20/in-germany-chancellor-angela-merkel-s-centre-left-opponents-win-a-narrow-victory-in-lower-saxony-state-election.md)
-_Context: Angela Merkel, German, German Chancellor, Lower Saxony state election_
+_Context: Angela Merkel's, German, German Chancellor, Lower Saxony state election_
 
 ### [Austrian conscription referendum, 2013:Austria holds a national referendum, choosing between keeping the current system of a conscripted army and optional social service for young men, or introducing a professional army and a voluntary community service. ](/news/2013/01/20/austrian-conscription-referendum-2013-paustria-holds-a-national-referendum-choosing-between-keeping-the-current-system-of-a-conscripted-ar.md)
 _Context: Austria, army, community service, national referendum, professional army_
