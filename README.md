@@ -1,6 +1,6 @@
 ## [News](/news/2017/05/15/index.md)
 
-### [Papua New Guinean media reports confirm that seventeen people were fatally shot by prison officers during a prison escape in Lae on Friday. ](/news/2017/05/15/papua-new-guinean-media-reports-confirm-that-seventeen-people-were-fatally-shot-by-prison-officers-during-a-prison-escape-in-lae-on-friday.md)
+### [Papua New Guinean media reports confirm that seventeen people were fatally shot by prison officers during a prison escape in Lae on May 12. ](/news/2017/05/15/papua-new-guinean-media-reports-confirm-that-seventeen-people-were-fatally-shot-by-prison-officers-during-a-prison-escape-in-lae-on-may-12.md)
 Three prisoners captured, 17 shot dead, and 57 still at large in a mass jailbreak from Buimo jail, according to reports.
 
 ### [Former President Mohammad Khatami supported Hassan Rouhani in the upcoming election. ](/news/2017/05/15/former-president-mohammad-khatami-supported-hassan-rouhani-in-the-upcoming-election.md)
@@ -20,7 +20,7 @@ _Context: International Committee of the Red Cross, Yemen, Yemeni Civil War, cho
 ### [Shortly after the attack began a researcher found an effective kill switch, which prevented many new infections, and allowed time to patch systems. This greatly slowed the spread. Cyber security authorities discover new versions that lack the kill switch. ](/news/2017/05/14/shortly-after-the-attack-began-a-researcher-found-an-effective-kill-switch-which-prevented-many-new-infections-and-allowed-time-to-patch-s.md)
 As the world readies to open for business on Monday, companies and governments are bracing for a second round of cyberattacks in the aftermath of Friday&#039;s..
 
-### [U.S. and South Korean officials confirm that North Korea launched a test missile from the west-coast city of Kusong. The projectile travelled to the east for 30 minutes and 700 km, reaching an altitude of more than 2000 km before landing in the Sea of Japan, 97 km south of the Russian city of Vladivostok. ](/news/2017/05/14/u-s-and-south-korean-officials-confirm-that-north-korea-launched-a-test-missile-from-the-west-coast-city-of-kusong-the-projectile-travelle.md)
+### [U.S. and South Korean officials confirm that North Korea launched a test missile from the west coast city of Kusong. The projectile travelled to the east for 30 minutes and 435 miles reaching an altitude of more than 1,245 miles before landing in the Sea of Japan, 60 miles south of the Russian city of Vladivostok. ](/news/2017/05/14/u-s-and-south-korean-officials-confirm-that-north-korea-launched-a-test-missile-from-the-west-coast-city-of-kusong-the-projectile-travelle.md)
 Japan says it reached an altitude of 2,000km which, if confirmed, could show a technological advance.
 
 ### [The Government of China begins a two-day summit in Beijing, in an attempt to raise international support for its Belt and Road Initiative. ](/news/2017/05/14/the-government-of-china-begins-a-two-day-summit-in-beijing-in-an-attempt-to-raise-international-support-for-its-belt-and-road-initiative.md)
