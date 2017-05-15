@@ -8,6 +8,7 @@ Former Iranian President Mohammad Khatami has called on his supporters to vote f
 ### Source:
 
 1. [PressTV](http://www.presstv.ir/Detail/2017/05/15/521915/Iran-Khatami-Hassan-Rouhani-president-elections)
+2. [Tehran Times](http://www.tehrantimes.com/news/413460/Tehran-mayor-Ghalibaf-withdraws-candidacy-in-Iran-s-presidential)
 
 ### Related:
 
