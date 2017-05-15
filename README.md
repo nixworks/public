@@ -6,7 +6,7 @@ _Context: International Committee of the Red Cross, Yemen, Yemeni Civil War, cho
 ### [Shortly after the attack began a researcher found an effective kill switch, which prevented many new infections, and allowed time to patch systems. This greatly slowed the spread. Cyber security authorities discover new versions that lack the kill switch. ](/news/2017/05/14/shortly-after-the-attack-began-a-researcher-found-an-effective-kill-switch-which-prevented-many-new-infections-and-allowed-time-to-patch-s.md)
 As the world readies to open for business on Monday, companies and governments are bracing for a second round of cyberattacks in the aftermath of Friday&#039;s..
 
-### [U.S. and South Korean officials confirm that North Korea launched a test missile from the west coast city of Kusong. The projectile travelled to the east for 30 minutes and 435 miles reaching an altitude of more than 1,245 miles before landing in the Sea of Japan, 60 miles south of the Russian city of Vladivostok. ](/news/2017/05/14/u-s-and-south-korean-officials-confirm-that-north-korea-launched-a-test-missile-from-the-west-coast-city-of-kusong-the-projectile-travelle.md)
+### [U.S. and South Korean officials confirm that North Korea launched a test missile from the west coast city of Kusong. The projectile travelled to the east for 30 minutes and and landing 365 miles from Japan, reaching an altitude of more than 1,245 miles before landing in the Sea of Japan, 670 miles south of the Russian city of Vladivostok. ](/news/2017/05/14/u-s-and-south-korean-officials-confirm-that-north-korea-launched-a-test-missile-from-the-west-coast-city-of-kusong-the-projectile-travelle.md)
 Japan says it reached an altitude of 2,000km which, if confirmed, could show a technological advance.
 
 ### [Voters in the German state of North Rhine-Westphalia head to the polls, with the media suggesting a victory for Angela Merkel's CDU over the SPD, who have lead the state for all but five years since 1966. ](/news/2017/05/14/voters-in-the-german-state-of-north-rhine-westphalia-head-to-the-polls-with-the-media-suggesting-a-victory-for-angela-merkel-s-cdu-over-the.md)
@@ -60,9 +60,6 @@ A bomb exploded next to a convoy of the deputy chairman of the Pakistan Senate o
 ### [An explosion outside a prominent post office in Rome causes damage to a car; however, no injuries or deaths have been reported. A preliminary investigation indicated it was most likely "a demonstrative act, showing that it could be done". ](/news/2017/05/12/an-explosion-outside-a-prominent-post-office-in-rome-causes-damage-to-a-car-however-no-injuries-or-deaths-have-been-reported-a-preliminar.md)
 Explosion outside building near Aventine hill, which damaged a car but caused no injuries, was probably ‘a demonstrative act’
 
-### [A shooting attack at a nursing home in Kirkersville, Ohio, kills four people, including a police chief and the shooter. ](/news/2017/05/12/a-shooting-attack-at-a-nursing-home-in-kirkersville-ohio-kills-four-people-including-a-police-chief-and-the-shooter.md)
-An armed man gunned down a new village police chief on an Ohio street on Friday and then killed two employees in a nearby nursing home, where he later was found dead, a sheriff said. No nursing home residents were injured, nor were two hostages briefly held by the alleged gunman. The slain...
-
 ### [A large scale international cyber-attack using the WannaCry ransomware package disrupts computer and telephone systems in thousands of cases across 99 countries. Affected organisations include: England's NHS, with doctors reporting messages demanding money; MegaFon and Sberbank in Russia; Telefonica, Iberdrola, and Gas Natural in Spain; and FedEx. ](/news/2017/05/12/a-large-scale-international-cyber-attack-using-the-wannacry-ransomware-package-disrupts-computer-and-telephone-systems-in-thousands-of-cases.md)
 Patient data at many GP surgeries and hospitals has been encrypted by ransomware and cannot be accessed by staff.
 
@@ -77,6 +74,9 @@ A judge in the Netherlands has ruled that a 12-year-old boy does not have to und
 
 ### [The Italian Supreme Court of Cassation upholds Francesco Schettino's 16-year sentence for his role as Captain of the ''Costa Concordia'' in the deaths of 32 people. ](/news/2017/05/12/the-italian-supreme-court-of-cassation-upholds-francesco-schettino-s-16-year-sentence-for-his-role-as-captain-of-the-costa-concordia-in.md)
 _Context: ''Costa Concordia'' disaster, Francesco Schettino, Supreme Court of Cassation_
+
+### [A shooting attack at a nursing home in Kirkersville, Ohio, kills four people, including a police chief and the shooter. ](/news/2017/05/12/a-shooting-attack-at-a-nursing-home-in-kirkersville-ohio-kills-four-people-including-a-police-chief-and-the-shooter.md)
+An armed man gunned down a new village police chief on an Ohio street on Friday and then killed two employees in a nearby nursing home, where he later was found dead, a sheriff said. No nursing home residents were injured, nor were two hostages briefly held by the alleged gunman. The slain...
 
 ### [Candidates debate on live television with the rivals of frontrunner and current president, Hassan Rouhani, taking aim at his economic policies. ](/news/2017/05/12/candidates-debate-on-live-television-with-the-rivals-of-frontrunner-and-current-president-hassan-rouhani-taking-aim-at-his-economic-polici.md)
 Iranian President Hassan Rouhani launched a stinging attack on his main conservative rival in next week’s election, accusing him of unethical management of the nation’s holiest religious site and failing to grasp what’s needed to rebuild the economy.
