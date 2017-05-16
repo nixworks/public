@@ -1,6 +1,6 @@
 ### [2017-05-13](/news/2017/05/13/index.md)
 
-# Salvador Sobral of Portugal wins the Eurovision Song Contest with the song ''Amar Pelos Dois''. While the country debuted in the 1964 edition of the contest, this marks the first win by a Portuguese entrant. 
+# Salvador Sobral of Portugal wins the Eurovision Song Contest with the song ''Amar pelos dois''. While the country debuted in the 1964 edition of the contest, this marks the first win by a Portuguese entrant. 
 
 &lsquo;Yes, Eurovision is silly but if you dislike it you&rsquo;re basically a monster&rsquo; 
 
