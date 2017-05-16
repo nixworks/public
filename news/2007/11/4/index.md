@@ -7,7 +7,7 @@ _Context: Brazil, Learjet 35, Sao Paulo_
 _Context: Charles Prince, Citigroup, Robert Rubin, Treasury Secretary, Wall Street Journal_
 
 ### [ 2007 Pakistani state of emergency: Former cricketer and chairman of Pakistan Tehreek-e-Insaf, Imran Khan escapes from house arrest.date=December 2007 Lawyers prepare for a countrywide strike tomorrow.date=December 2007](/news/2007/11/4/2007-pakistani-state-of-emergency-p-former-cricketer-and-chairman-of-pakistan-tehreek-e-insaf-imran-khan-escapes-from-house-arrest-date-de.md)
-_Context: 2007 Pakistani state of emergency, Imran Khan, Pakistan Tehreek-e-Insaf, cricketer, escape, house arrest, lawyers, strike_
+_Context: 2007 Pakistani state of emergency, Imran Khan, Pakistan Tehreek-e-Insaf, cricketer, house arrest, lawyers, prison escape, strike_
 
 ### [ Guatemalan general elections are held to elect a new president. ](/news/2007/11/4/guatemalan-general-elections-are-held-to-elect-a-new-president.md)
 _Context: 2007 general election, Guatemalan President_

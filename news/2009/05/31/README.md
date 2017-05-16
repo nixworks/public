@@ -19,7 +19,7 @@ _Context: Fatah-Hamas conflict, Hamas, Palestinian National Authority, Preventiv
 _Context: Democratic Party, Hong Kong, Martin Lee, assassinated, chairman_
 
 ### [ At least 44 inmates escape from a prison in Bagua Grande, Peru. ](/news/2009/05/31/at-least-44-inmates-escape-from-a-prison-in-bagua-grande-peru.md)
-_Context: Bagua Grande, Peru, escape, prison_
+_Context: Bagua Grande, Peru, prison, prison escape_
 
 ### [ A man steals EUR6 million in jewellery from Chopard in Paris, France.  ](/news/2009/05/31/a-man-steals-a-6-million-in-jewellery-from-chopard-in-paris-france.md)
 _Context: Chopard, France, Paris, euro, jewellery_

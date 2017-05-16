@@ -1,7 +1,7 @@
 ## [2007-06-11](/news/2007/06/11/index.md)
 
 ### [ A three-judge panel of the United States Court of Appeals for the Fourth Circuit in Richmond, Virginia rules that the United States government cannot indefinitely detain U.S. residents as "enemy combatants." ](/news/2007/06/11/a-three-judge-panel-of-the-united-states-court-of-appeals-for-the-fourth-circuit-in-richmond-virginia-rules-that-the-united-states-governm.md)
-_Context: Fourth Circuit Court, Richmond, Virginia, U.S. residents, United States government, enemy combatant_
+_Context: Richmond, Virginia, U.S. Court of Appeals for the Fourth Circuit, U.S. residents, United States government, enemy combatant_
 
 ### [ At least 78 die in monsoons in Bangladesh. ](/news/2007/06/11/at-least-78-die-in-monsoons-in-bangladesh.md)
 _Context: Bangladesh, monsoon_

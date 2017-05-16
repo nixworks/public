@@ -25,7 +25,7 @@ _Context: 2012 Delhi gang rape case_
 New sales of semi-automatic rifles with removable magazines would be banned in California under a bill passed by the Democratic-led state legislature on Tuesday, and those who already own such weapons would have to register them.
 
 ### [John G. Roberts, Jr., Chief Justice of the United States, appoints Judge William Curtis Bryson as presiding judge of the United States Foreign Intelligence Surveillance Court of Review. ](/news/2013/09/10/john-g-roberts-jr-chief-justice-of-the-united-states-appoints-judge-william-curtis-bryson-as-presiding-judge-of-the-united-states-forei.md)
-_Context: Chief Justice, John G. Roberts, Jr., United States Foreign Intelligence Surveillance Court of Review, William Curtis Bryson_
+_Context: Chief Justice, John Roberts, United States Foreign Intelligence Surveillance Court of Review, William Curtis Bryson_
 
 ### [Ali Shamkhani is appointed as Secretary of Supreme National Security Council of Iran by President Hassan Rouhani. Rouhani also appoints Masoumeh Ebtekar as Vice President of Iran ](/news/2013/09/10/ali-shamkhani-is-appointed-as-secretary-of-supreme-national-security-council-of-iran-by-president-hassan-rouhani-rouhani-also-appoints-maso.md)
 _Context: Ali Shamkhani, First Vice President, Hassan Rouhani, Masoumeh Ebtekar, Supreme National Security Council of Iran, president_

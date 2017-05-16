@@ -25,7 +25,7 @@ Three others injured and seven missing after avalanche caught work party as they
 _Context: Guerrero, Petatlan, magnitude_
 
 ### [Pollution in China:An official study released by the Chinese government reveals that about one-fifth of China's soil is contaminated. ](/news/2014/04/18/pollution-in-china-pan-official-study-released-by-the-chinese-government-reveals-that-about-one-fifth-of-china-s-soil-is-contaminated.md)
-_Context: People's Republic of China, Pollution in China, soil is contaminated_
+_Context: Government of China, Pollution in China, soil is contaminated_
 
 ### [Sino-Vietnamese border incidents:Seven people are killed in border clash between illegal Chinese migrants and Vietnamese security forces at Quang Ninh province. ](/news/2014/04/18/sino-vietnamese-border-incidents-pseven-people-are-killed-in-border-clash-between-illegal-chinese-migrants-and-vietnamese-security-forces-at.md)
 Seven people were killed in a clash between Vietnamese border guards and migrants from China attempting to enter the country illegally who seized weapons from officers in a bid to avoid being sent home, Vietnamese authorities reported.

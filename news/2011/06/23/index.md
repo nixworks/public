@@ -31,7 +31,7 @@ Telstra signs an $11 billion deal with the NBN Co to allow the new high-speed br
 _Context: Greek labour unions, general strike, new austerity measures_
 
 ### [The U.S. Supreme Court rules on freedom of speech grounds against a state's effort to block pharmaceutical companies from selling information about the prescription records of particular doctors. ](/news/2011/06/23/the-u-s-supreme-court-rules-on-freedom-of-speech-grounds-against-a-state-s-effort-to-block-pharmaceutical-companies-from-selling-informatio.md)
-_Context: Supreme Court of the United States, freedom of expression, pharmaceutical companies_
+_Context: U.S. Supreme Court, freedom of expression, pharmaceutical companies_
 
 ### [An earthquake of 6.7 magnitude occurs off the coast of Japan's Iwate prefecture. ](/news/2011/06/23/an-earthquake-of-6-7-magnitude-occurs-off-the-coast-of-japan-s-iwate-prefecture.md)
 An earthquake with a preliminary magnitude of 6.7 struck off the coast of Iwate prefecture in northeast Japan Thursday, one of the areas devastated by the March 11 quake and tsunami, but there were no immediate reports of damage or injuries.

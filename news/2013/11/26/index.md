@@ -37,7 +37,7 @@ _Context: Downing Street, P.C., Plebgate_
 The rock singer has pleaded guilty to offences including two of attempting to rape a baby
 
 ### [The U.S. Supreme Court agrees to hear certain major religious freedom cases that will decide whether a company that is for-profit (including family-run ones)- and other entities who are not themselves churches- can refuse to provide contraceptive coverage that would otherwise be required under the Patient Protection and Affordable Care Act; lower courts are split. ](/news/2013/11/26/the-u-s-supreme-court-agrees-to-hear-certain-major-religious-freedom-cases-that-will-decide-whether-a-company-that-is-for-profit-including.md)
-_Context: Patient Protection and Affordable Care Act, Supreme Court of the United States, appeals court_
+_Context: Patient Protection and Affordable Care Act, U.S. Supreme Court, appeals court_
 
 ### [2013 Thai protests:Protestors demand the resignation of Prime Minister Yingluck Shinawatra who they believe is the puppet of her deposed brother Thaksin. ](/news/2013/11/26/2013-thai-protests-pprotestors-demand-the-resignation-of-prime-minister-yingluck-shinawatra-who-they-believe-is-the-puppet-of-her-deposed-br.md)
 _Context: 2013 Thai protests, Prime Minister of Thailand, Thaksin, Yingluck Shinawatra_

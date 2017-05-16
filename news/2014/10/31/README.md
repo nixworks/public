@@ -1,7 +1,7 @@
 ## [2014-10-31](/news/2014/10/31/index.md)
 
 ### [Blaise Compaore resigns as President of Burkina Faso following the 2014 Burkinabe uprising. General Honore Traore assumes leadership on a transitional basis. ](/news/2014/10/31/blaise-compaora-c-resigns-as-president-of-burkina-faso-following-the-2014-burkinaba-c-uprising-general-honora-c-traora-c-assumes-leadership-on.md)
-_Context: 2014 Burkinabe uprising, Blaise Compaore, Burkina Faso, Honore Traore, President_
+_Context: Blaise Compaore, Burkina Faso, Honore Traore, President, uprising_
 
 ### [A bomb blast in Nigeria's Gombe State kills at least 4 people and injures 32. ](/news/2014/10/31/a-bomb-blast-in-nigeria-s-gombe-state-kills-at-least-4-people-and-injures-32.md)
 An explosion at a major bus station in Gombe state in north-eastern Nigeria kills at least four people and injures 32 people, police say.

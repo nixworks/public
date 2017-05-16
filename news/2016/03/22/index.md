@@ -28,7 +28,7 @@ _Context: Nadiya Savchenko, Russia, Ukrainian, rubles_
 A federal judge has postponed a hearing set for Tuesday that would have been the next step toward settling the battle between Apple and the FBI.
 
 ### [The United States Supreme Court,  in a 6-2 ruling written by Justice Anthony Kennedy, upholds the  8th U.S. Circuit Court of Appeals' $5.8 million class action judgment against Tyson Foods Incorporated filed by workers at an Iowa pork-processing facility who contended they were underpaid. ](/news/2016/03/22/the-united-states-supreme-court-in-a-6-2-ruling-written-by-justice-anthony-kennedy-upholds-the-8th-u-s-circuit-court-of-appeals-5-8-m.md)
-_Context: 8th U.S. Circuit Court of Appeals', Iowa, Justice Anthony Kennedy, Supreme Court of the United States, Tyson Foods Incorporated, class action_
+_Context: 8th U.S. Circuit Court of Appeals', Iowa, Justice Anthony Kennedy, Tyson Foods Incorporated, U.S. Supreme Court, class action_
 
 ### [Voters in the U.S. states of Arizona, Idaho, Utah and the overseas territory of American Samoa head to the polls for Republican and Democratic Party primaries and caucuses. ](/news/2016/03/22/voters-in-the-u-s-states-of-arizona-idaho-utah-and-the-overseas-territory-of-american-samoa-head-to-the-polls-for-republican-and-democrat.md)
 Republicans will face off in Arizona and Utah, while Democrats battle it out in all three states.

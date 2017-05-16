@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [U.S. and South Korean officials confirm that North Korea launched a test missile from the west coast city of Kusong. The projectile travelled to the east for 30 minutes and 435 miles reaching an altitude of more than 1,245 miles before landing in the Sea of Japan, 60 miles south of the Russian city of Vladivostok. ](/news/2017/05/14/u-s-and-south-korean-officials-confirm-that-north-korea-launched-a-test-missile-from-the-west-coast-city-of-kusong-the-projectile-travelle.md) _Context: Sea of Japan_
+1. [U.S. and South Korean officials confirm that North Korea launched a test missile from the west coast city of Kusong. The projectile travelled to the east for 30 minutes and 435|mi|km reaching an altitude of more than 1245|mi|km before landing in the Sea of Japan, 60|mi|km south of the Russian city of Vladivostok. ](/news/2017/05/14/u-s-and-south-korean-officials-confirm-that-north-korea-launched-a-test-missile-from-the-west-coast-city-of-kusong-the-projectile-travelle.md) _Context: Sea of Japan_
 2. [South Korea claims that North Korea has fired several missiles from the Sohae Satellite Launching Station into the Sea of Japan. ](/news/2017/03/6/south-korea-claims-that-north-korea-has-fired-several-missiles-from-the-sohae-satellite-launching-station-into-the-sea-of-japan.md) _Context: Sea of Japan_
 3. [North Korea test fires a ballistic missile over the Sea of Japan. ](/news/2017/02/12/north-korea-test-fires-a-ballistic-missile-over-the-sea-of-japan.md) _Context: Sea of Japan_
 4. [South Korea reports that North Korea has fired three ballistic missiles into the Sea of Japan. ](/news/2016/09/5/south-korea-reports-that-north-korea-has-fired-three-ballistic-missiles-into-the-sea-of-japan.md) _Context: Sea of Japan_

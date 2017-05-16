@@ -7,7 +7,7 @@ _Context: GMO, Trade war over genetically modified food, genetically modified wh
 _Context: CAN-SPAM Act of 2003, U.S. Congressional_
 
 ### [King Harald V of Norway successfully undergoes a 5-hour cancer operation in which his bladder is removed and a new one constructed, at Rikshospitalet University Hospital in Oslo. [http://www.aftenposten.no/english/local/article.jhtml?articleID=686979]](/news/2003/12/8/king-harald-v-of-norway-successfully-undergoes-a-51-2-hour-cancer-operation-in-which-his-bladder-is-removed-and-a-new-one-constructed-at-riks.md)
-_Context: King, Norway, Oslo, cancer_
+_Context: King, Norway, Oslo, bladder cancer_
 
 ### [German Justice Minister Brigitte Zypries unveils a draft bill aimed at policing company accounts following the Enron and WorldCom scandals in the USA. [http://www.finance24.co.za/Finance/Companies/0,,1518-24_1456622,00.html]](/news/2003/12/8/german-justice-minister-brigitte-zypries-unveils-a-draft-bill-aimed-at-policing-company-accounts-following-the-enron-and-worldcom-scandals-i.md)
 _Context: Brigitte Zypries, Enron, German, Justice Minister, WorldCom_
