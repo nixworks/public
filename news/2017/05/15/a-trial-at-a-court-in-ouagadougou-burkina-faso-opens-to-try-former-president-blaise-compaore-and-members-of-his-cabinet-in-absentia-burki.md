@@ -1,6 +1,6 @@
 ### [2017-05-15](/news/2017/05/15/index.md)
 
-# A trial at a court in Ouagadougou, Burkina Faso, opens to try former President Blaise Compaor and members of his cabinet in absentia. Burkina Faso accuses Compaor, who is in exile in the Ivory Coast, of ordering the killing of protesters during the uprising that ousting him in 2014. 
+# A trial at a court in Ouagadougou, Burkina Faso, opens to try former President Blaise Compaor and members of his cabinet in absentia. Burkina Faso accuses Compaor, who is in exile in the Ivory Coast, of ordering the killing of protesters during the uprising that ousted him in 2014. 
 
 Ex-president, who is in Ivory Coast, accused of authorising the killings of unarmed protesters in October 2014 uprising.
 
