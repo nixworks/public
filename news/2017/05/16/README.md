@@ -9,5 +9,8 @@ British inflation hit its highest level since September 2013 last month, extendi
 ### [Israeli Minister of Construction Yoav Galant states that Syrian President Bashar al-Assad should be  assassinated.  Yesterday, the United States Department of State accused the al-Assad government of using a crematory to cover up mass murders of thousands of opponent peoples. In a statement to the Syrian al-Assad-controlled media organization, SANA, the Syrian Ministry of Foreign Affairs dismisses the accusation as "a new Hollywood story". ](/news/2017/05/16/israeli-minister-of-construction-yoav-galant-states-that-syrian-president-bashar-al-assad-should-be-assassinated-yesterday-the-united-st.md)
 An Israeli cabinet member on Tuesday claimed that Syrian President Bashar al-Assad should not simply be removed from office -- he should be killed.
 
+### [In a series of tweets, President Donald Trump may be acknowledging the sharing of information with Russian envoys, which may or may not be classified, invoking humanitarian and anti-terrorism reasons. ](/news/2017/05/16/in-a-series-of-tweets-president-donald-trump-may-be-acknowledging-the-sharing-of-information-with-russian-envoys-which-may-or-may-not-be-c.md)
+_Context: Donald Trump, President, Russia_
+
 ## [Previous Day...](/news/2017/05/15/index.md)
 

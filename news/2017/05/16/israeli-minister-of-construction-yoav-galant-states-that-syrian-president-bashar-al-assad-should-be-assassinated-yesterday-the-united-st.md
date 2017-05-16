@@ -9,7 +9,6 @@ An Israeli cabinet member on Tuesday claimed that Syrian President Bashar al-Ass
 
 1. [Fox News](http://www.foxnews.com/world/2017/05/16/israeli-lawmaker-assassinate-syrias-assad.html)
 2. [The Syrian Arab News Agency](http://sana.sy/en/?p=106215)
-3. [The Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/05/16/trump-acknowledges-facts-shared-with-russian-envoys-during-white-house-meeting/?tid=pm_politics_pop&utm_term=.04c35ad91198)
 
 ### Related:
 
