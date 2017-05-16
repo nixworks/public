@@ -17,7 +17,7 @@ Western Digital Corp (WDC.O) has sought international arbitration to stop partne
 ### [A Philadelphia-originating Learjet crashes in Carlstadt as it approached Teterboro Airport in New Jersey, killing at least two people. ](/news/2017/05/15/a-philadelphia-originating-learjet-crashes-in-carlstadt-as-it-approached-teterboro-airport-in-new-jersey-killing-at-least-two-people.md)
 _Context: Carlstadt, New Jersey, Philadelphia, Teterboro Airport_
 
-### [An Akron, Ohio fire kills seven people. ](/news/2017/05/15/an-akron-ohio-fire-kills-seven-people.md)
+### [An Akron, Ohio fire kills seven people, including five children and two adults. ](/news/2017/05/15/an-akron-ohio-fire-kills-seven-people-including-five-children-and-two-adults.md)
 AKRON, Ohio -- Police confirm that five children and two adults were killed in an early morning house fire in Akron. The fire broke out at 693 Fultz Street around 2:45 a.m. Monday. Neighbors say a family lived in the home. Family members earlier Monday morning told Fox 8 that the mother did not show up to work today, and the children also didn&#039;t show up at school.
 
 ### [A small study shows that two known carcinogens, o-toluidine and 2-naphthylamine, were found in the urine of e-cigarette users but not in nonusers. Previous studies of traditional cigarette smokers have identified o-toluidine and 2-naphthylamine as the two most carcinogenic molecules for the bladder. ](/news/2017/05/15/a-small-study-shows-that-two-known-carcinogens-o-toluidine-and-2-naphthylamine-were-found-in-the-urine-of-e-cigarette-users-but-not-in-non.md)
