@@ -18,6 +18,9 @@ _Context: John Roberts, North Carolina, U.S. Court of Appeals for the Fourth Cir
 ### [Moors murderer Ian Brady, one of a pair of killers whose victims from 1963&ndash;65 were five children aged between 10 and 17, dies at the age of 79. ](/news/2017/05/15/moors-murderer-ian-brady-one-of-a-pair-of-killers-whose-victims-from-1963-ndash-65-were-five-children-aged-between-10-and-17-dies-at-the-a.md)
 The Moors Murderer Ian Brady has died at a high security psychiatric hospital in Merseyside. Brady, 79, who tortured and murdered five children along with his partner Myra Hindley, was confirmed to have died by Mersey Care NHS Foundation Trust. Hindley died in prison in 2002 at the age of 60. It was not clear what the cause of Brady’s death was but he was reported to be receiving palliative care from nurses around the clock in recent days. Two private ambulances were seen leaving the grounds of the hospital on Monday night. A spokesman for the NHS trust said: &quot;We can confirm a 79-year-old patient in long term care at Ashworth High Secure Hospital has died after becoming physically unwell.&quot; 
 
+### [An unknown gunman shoots and kills veteran journalist Javier Valdez Cardenas, who is noted for his investigative reporting on Mexico's war on drugs, in Culiacan, Sinaloa. ](/news/2017/05/15/an-unknown-gunman-shoots-and-kills-veteran-journalist-javier-valdez-ca-rdenas-who-is-noted-for-his-investigative-reporting-on-mexico-s-war.md)
+_Context: Culiacan, Javier Valdez Cardenas, Mexican Drug War, Mexico, Sinaloa_
+
 ### [Tehran Mayor Mohammad Bagher Ghalibaf withdraws his candidacy. ](/news/2017/05/15/tehran-mayor-mohammad-bagher-ghalibaf-withdraws-his-candidacy.md)
 _Context: Iranian presidential election, 2017, Mohammad Bagher Ghalibaf, candidacy_
 
