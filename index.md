@@ -1,13 +1,30 @@
-## [News](/news/2017/05/15/index.md)
+## [News](/news/2017/05/16/index.md)
+
+### [Cybersecurity experts claim that the WannaCry ransomware attack is linked to the North Korean backed Lazarus Group. ](/news/2017/05/16/cybersecurity-experts-claim-that-the-wannacry-ransomware-attack-is-linked-to-the-north-korean-backed-lazarus-group.md)
+Similarities spotted between details of last week’s massive cyber-attack and code used by a prolific cybergang with links to North Korean government
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/05/15/index.md)
 
 ### [Western Digital appeals to arbitration in an effort to prevent its partner Toshiba, from selling its chip-making operation, Toshiba Memory. ](/news/2017/05/15/western-digital-appeals-to-arbitration-in-an-effort-to-prevent-its-partner-toshiba-from-selling-its-chip-making-operation-toshiba-memory.md)
 Western Digital Corp (WDC.O) has sought international arbitration to stop partner Toshiba Corp (6502.T) from selling its chips arm without its consent, potentially derailing a much-needed capital injection for the Japanese conglomerate.
 
-### [A Philadelphia-originating Learjet crash in Carlstadt as it approached Teterboro Airport in New Jersey kills at least two people. ](/news/2017/05/15/a-philadelphia-originating-learjet-crash-in-carlstadt-as-it-approached-teterboro-airport-in-new-jersey-kills-at-least-two-people.md)
+### [A Philadelphia-originating Learjet crashes in Carlstadt as it approached Teterboro Airport in New Jersey, killing at least two people. ](/news/2017/05/15/a-philadelphia-originating-learjet-crashes-in-carlstadt-as-it-approached-teterboro-airport-in-new-jersey-killing-at-least-two-people.md)
 _Context: Carlstadt, New Jersey, Philadelphia, Teterboro Airport_
 
-### [Traditional cigarette smoking is a major risk factor for bladder cancer. e-Cigarettes have gained popularity, in part because they are perceived as a safer alternative. Researchers at the University of Pittsburgh in Pennsylvania describe at the American Urological Association a study in which the widely held belief that e-cigarettes do not pose a cancer threat may be wishful thinking. The new pilot study that focuses on the potential impact on bladder cancer. The small study showed that two known carcinogens, o-toluidine and 2-naphthylamine, were found in the urine of e-cigarette users but not in nonusers. Previous studies of traditional cigarette smokers have identified o-toluidine and 2-naphthylamine as the two most carcinogenic molecules for the bladder. ](/news/2017/05/15/traditional-cigarette-smoking-is-a-major-risk-factor-for-bladder-cancer-e-cigarettes-have-gained-popularity-in-part-because-they-are-perce.md)
-_Context: 2-naphthylamine, American Urological Association, Pennsylvania, University of Pittsburgh, bladder, bladder cancer, cancer, carcinogen, cigarette, e-Cigarettes, molecule, o-toluidine, smoking, urine_
+### [An Akron, Ohio fire kills seven people. ](/news/2017/05/15/an-akron-ohio-fire-kills-seven-people.md)
+AKRON, Ohio -- Police confirm that five children and two adults were killed in an early morning house fire in Akron. The fire broke out at 693 Fultz Street around 2:45 a.m. Monday. Neighbors say a family lived in the home. Family members earlier Monday morning told Fox 8 that the mother did not show up to work today, and the children also didn&#039;t show up at school.
+
+### [A small study shows that two known carcinogens, o-toluidine and 2-naphthylamine, were found in the urine of e-cigarette users but not in nonusers. Previous studies of traditional cigarette smokers have identified o-toluidine and 2-naphthylamine as the two most carcinogenic molecules for the bladder. ](/news/2017/05/15/a-small-study-shows-that-two-known-carcinogens-o-toluidine-and-2-naphthylamine-were-found-in-the-urine-of-e-cigarette-users-but-not-in-non.md)
+_Context: 2-naphthylamine, bladder, carcinogen, molecule, o-toluidine, urine_
+
+### [According to a current and a former unnamed U.S. government official, President Donald Trump revealed classified information that jeopardized a critical source of intelligence on the Islamic State during  his Oval Office meeting with the Russian Foreign Minister and Ambassador on May 10. National Security Adviser H. R. McMaster, who was at the meeting, says these reports are false, that common threats from terrorist organizations were discussed, adding, "(a)t no time were any intelligence sources or methods discussed." ](/news/2017/05/15/according-to-a-current-and-a-former-unnamed-u-s-government-official-president-donald-trump-revealed-classified-information-that-jeopardize.md)
+The president was boasting of the &ldquo;great intel&rdquo; he receives when he discussed intelligence provided by a U.S. partner.
 
 ### [Papua New Guinean media reports confirm that 17 people were fatally shot by prison officers during a prison escape in Lae on May 12. ](/news/2017/05/15/papua-new-guinean-media-reports-confirm-that-17-people-were-fatally-shot-by-prison-officers-during-a-prison-escape-in-lae-on-may-12.md)
 Three prisoners captured, 17 shot dead, and 57 still at large in a mass jailbreak from Buimo jail, according to reports.
@@ -15,7 +32,7 @@ Three prisoners captured, 17 shot dead, and 57 still at large in a mass jailbrea
 ### [A trial at a court in Ouagadougou, Burkina Faso, opens to try former President Blaise Compaore and members of his cabinet in absentia. Burkina Faso accuses Compaore, who is in exile in the Ivory Coast, of ordering the killing of protesters during the uprising that ousted him in 2014. ](/news/2017/05/15/a-trial-at-a-court-in-ouagadougou-burkina-faso-opens-to-try-former-president-blaise-compaora-c-and-members-of-his-cabinet-in-absentia-burk.md)
 Ex-president, who is in Ivory Coast, accused of authorising the killings of unarmed protesters in October 2014 uprising.
 
-### [The U.S. Supreme Court rules that the North Carolina state legislative members do not have standing to request an appeal of the U.S. Court of Appeals for the Fourth Circuit ruling against a law which barred unidentified voters from the ballot. The Supreme Court's decision makes no explicit judgements on the previous law, but the decision's outcome nevertheless prohibits the voter identification requirement. In his statement, Chief Justice John Roberts wrote (''North Carolina v. North Carolina State Conference of the NAACP'') that the high court's denied ''certiorari'' in hearing the case should not be interpreted as commenting on the law's merit, noting that one reason for not hearing it was a dispute over who represented the state - referencing a "blizzard of filings over who is and who is not authorized to seek review in this court under North Carolina law." ](/news/2017/05/15/the-u-s-supreme-court-rules-that-the-north-carolina-state-legislative-members-do-not-have-standing-to-request-an-appeal-of-the-u-s-court-o.md)
+### [The U.S. Supreme Court rules that the North Carolina state legislative members do not have standing to request an appeal of the U.S. Court of Appeals for the Fourth Circuit ruling against a law which barred unidentified voters from the ballot. The Supreme Court's decision makes no explicit judgments on the previous law, but the decision's outcome nevertheless prohibits the voter identification requirement. In his statement, Chief Justice John Roberts wrote (''North Carolina v. North Carolina State Conference of the NAACP'') that the high court's denied ''certiorari'' in hearing the case should not be interpreted as commenting on the law's merit, noting that one reason for not hearing it was a dispute over who represented the state - referencing a "blizzard of filings over who is and who is not authorized to seek review in this court under North Carolina law." ](/news/2017/05/15/the-u-s-supreme-court-rules-that-the-north-carolina-state-legislative-members-do-not-have-standing-to-request-an-appeal-of-the-u-s-court-o.md)
 _Context: John Roberts, North Carolina, U.S. Court of Appeals for the Fourth Circuit, U.S. Supreme Court, Voter ID laws in the United States, denied ''certiorari'', rules_
 
 ### [Moors murderer Ian Brady, one of a pair of killers whose victims from 1963&ndash;65 were five children aged between 10 and 17, dies at the age of 79. ](/news/2017/05/15/moors-murderer-ian-brady-one-of-a-pair-of-killers-whose-victims-from-1963-ndash-65-were-five-children-aged-between-10-and-17-dies-at-the-a.md)
@@ -27,13 +44,9 @@ _Context: Culiacan, Javier Valdez Cardenas, Mexican Drug War, Mexico, Sinaloa_
 ### [Tehran Mayor Mohammad Bagher Ghalibaf withdraws his candidacy. ](/news/2017/05/15/tehran-mayor-mohammad-bagher-ghalibaf-withdraws-his-candidacy.md)
 _Context: Iranian presidential election, 2017, Mohammad Bagher Ghalibaf, candidacy_
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/05/14/index.md)
+## [Day Before Yesterday](/news/2017/05/14/index.md)
 
 ### [According to the International Committee of the Red Cross, a cholera outbreak has since April 27 killed at least 115 people and left another 8,500 ill across Yemen. ](/news/2017/05/14/according-to-the-international-committee-of-the-red-cross-a-cholera-outbreak-has-since-april-27-killed-at-least-115-people-and-left-another.md)
 _Context: International Committee of the Red Cross, Yemen, Yemeni Civil War, cholera_
@@ -55,38 +68,7 @@ New French President Emmanuel Macron pledges to work to overcome divisions in so
 
 ---
 
-## [Day Before Yesterday](/news/2017/05/13/index.md)
-
-### [Gunmen open fire on construction workers at Gwadar Port, Pakistan, killing at least 10 people. The Balochistan Liberation Army claimed responsibility for the attack. ](/news/2017/05/13/gunmen-open-fire-on-construction-workers-at-gwadar-port-pakistan-killing-at-least-10-people-the-balochistan-liberation-army-claimed-respo.md)
-Attack was claimed by the Baloch Liberation Army, which has been fighting for an independent homeland for the Baloch.
-
-### [A ransomware cyberattack continues to infect computers of private and public organisations around the world, and demand payment in bitcoin. The program was originally developed by the National Security Agency to exploit a vulnerability in Microsoft Windows, and was leaked by The Shadow Brokers in April. ](/news/2017/05/13/a-ransomware-cyberattack-continues-to-infect-computers-of-private-and-public-organisations-around-the-world-and-demand-payment-in-bitcoin.md)
-The government&#39;s cyber emergency response team is looking into a massive global extortion attack that has hit computers here.
-
-### [Ivorian soldiers block access to Bouak, the  second-largest city in Ivory Coast amid a dispute over pay. The town of Odienn is also reported to be under mutineer control. ](/news/2017/05/13/ivorian-soldiers-block-access-to-bouake-the-second-largest-city-in-ivory-coast-amid-a-dispute-over-pay-the-town-of-odienne-is-also-report.md)
-_Context: Bouak, Ivorian soldiers, Ivory Coast, Odienn_
-
-### [Pope Francis  canonizes Jacinta and Francisco Marto, two of the three Ftima children who reported seeing the Virgin Mary in the spring and summer of 1917. The Martos, who died during the post-World War I international influenza pandemic, are the Catholic Church's youngest saints who did not die as martyrs. The other child, Lcia de Jesus dos Santos, survived until the year 2005, when she was 97 years old. ](/news/2017/05/13/pope-francis-canonizes-jacinta-and-francisco-marto-two-of-the-three-fatima-children-who-reported-seeing-the-virgin-mary-in-the-spring-and.md)
-The siblings said the Madonna told them three secrets, which were later interpreted as foretelling World War II and the rise and fall of Communism.
-
-### [The Venice Biennale awards its top prize, the Golden Lion for best national participation, to German  artist and choreographer Anne Imhoff for her total totalitarianism exhibition "Faust." ](/news/2017/05/13/the-venice-biennale-awards-its-top-prize-the-golden-lion-for-best-national-participation-to-german-artist-and-choreographer-anne-imhoff-f.md)
-_Context: Venice Biennale_
-
-### [Salvador Sobral of Portugal wins the Eurovision Song Contest with the song ''Amar Pelos Dois''. While the country debuted in the 1964 edition of the contest, this marks the first win by a Portuguese entrant. ](/news/2017/05/13/salvador-sobral-of-portugal-wins-the-eurovision-song-contest-with-the-song-amar-pelos-dois-while-the-country-debuted-in-the-1964-editio.md)
-&lsquo;Yes, Eurovision is silly but if you dislike it you&rsquo;re basically a monster&rsquo; 
-
-### [A bus carrying tourists crashes near the resort town of Marmaris in southwest Turkey, killing at least 17 people and leaving 13 others injured. ](/news/2017/05/13/a-bus-carrying-tourists-crashes-near-the-resort-town-of-marmaris-in-southwest-turkey-killing-at-least-17-people-and-leaving-13-others-injur.md)
-Seventeen people were killed and 13 injured when a bus carrying Turkish tourists crashed near the southwestern holiday town of Marmaris, a local governor said on Saturday.
-
-### [A TrainOSE passenger train derails near the Greek village of Adendro, leaving at least four people dead and five seriously injured. ](/news/2017/05/13/a-trainose-passenger-train-derails-near-the-greek-village-of-adendro-leaving-at-least-four-people-dead-and-five-seriously-injured.md)
-The intercity train was travelling from Athens to the northern city of Thessaloniki when it derailed and slammed into a house.
-
-### [A 5.7 magnitude earthquake kills at least three people in the town of Pish Qaleh in northeast Iran. ](/news/2017/05/13/a-5-7-magnitude-earthquake-kills-at-least-three-people-in-the-town-of-pish-qaleh-in-northeast-iran.md)
-A 5.7-magnitude earthquake killed at least two people and injured hundreds while causing widespread damage.
-
----
-
-## [Previous Day...](/news/2017/05/12/index.md)
+## [Previous Day...](/news/2017/05/13/index.md)
 
 ---
 
