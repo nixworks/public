@@ -1,6 +1,6 @@
 ### [2017-05-17](/news/2017/05/17/index.md)
 
-# President of France Emmanuel Macron nominates the full Edouard Philippe government. Jean-Yves Le Drian becomes foreign minister, Sylvie Goulard defence minister, Bruno Le Maire minister  of economy and Gerard Collomb minister of the interior. 
+# President of France Emmanuel Macron nominates the full Edouard Philippe government. Jean-Yves Le Drian becomes foreign minister, Sylvie Goulard defence minister, Bruno Le Maire minister  of economy, and Gerard Collomb minister of the interior. 
 
 French President Emmanuel Macron has named a mix of prominent and unknown figures from the left and the right to make up the government tasked with pushing through his plans to reduce labour protections, tighten European unity and boost military spending. The most senior Cabinet job — the post of interior minister — went to Gerard Collomb, 69, the Socialist mayor of Lyon who played a key role in Mr Macron&#039;s presidential bid. The Interior Ministry is responsible for securing France amid a high threat of extremist violence. 
 
