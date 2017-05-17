@@ -1,4 +1,24 @@
-## [News](/news/2017/05/16/index.md)
+## [News](/news/2017/05/17/index.md)
+
+### [Bundu dia Kongo followers free their leader and 50 other inmates with an attack on the Makala jail of Kinshasa, Democratic Republic of the Congo. ](/news/2017/05/17/bundu-dia-kongo-followers-free-their-leader-and-50-other-inmates-with-an-attack-on-the-makala-jail-of-kinshasa-democratic-republic-of-the-c.md)
+Separatist cult leader and about 50 other inmates freed after supporters attack prison in the capital Kinshasa.
+
+### [According to the International Committee of the Red Cross, at least 115 human bodies are discovered in the border town of Bangassou, more than previously thought. A few days prior, militias attacked the village, with the United Nations reporting that at least 26 people were killed. ](/news/2017/05/17/according-to-the-international-committee-of-the-red-cross-at-least-115-human-bodies-are-discovered-in-the-border-town-of-bangassou-more-th.md)
+Scores of bodies discovered in border town where 26 people were previously reported dead, aid group says.
+
+### [Representatives of the European Parliament and European Council sign a document formally granting Ukrainians visa-free travel to the European Union. The visa-free regime is due to enter into force on June 11. ](/news/2017/05/17/representatives-of-the-european-parliament-and-european-council-sign-a-document-formally-granting-ukrainians-visa-free-travel-to-the-europea.md)
+_Context: European Council, European Parliament, European Union, Ukraine-European Union relations, Ukrainians_
+
+### [Former United States Army soldier Chelsea Manning is released from prison after serving seven years of her 35-year sentence. ](/news/2017/05/17/former-united-states-army-soldier-chelsea-manning-is-released-from-prison-after-serving-seven-years-of-her-35-year-sentence.md)
+American army private is free after serving seven years of 35-year sentence for leaking classified documents and videos downloaded to WikiLeaks
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/05/16/index.md)
 
 ### [The Office for National Statistics in the United Kingdom states that consumer prices in Britain rose by an annualized 2.7% in April, the highest level of inflation in almost four years. ](/news/2017/05/16/the-office-for-national-statistics-in-the-united-kingdom-states-that-consumer-prices-in-britain-rose-by-an-annualized-2-7-in-april-the-hig.md)
 British inflation hit its highest level since September 2013 last month, extending its sharp rise since the vote to leave the European Union and tightening the squeeze on living costs as a national election approaches.
@@ -18,13 +38,9 @@ Eshaq Jahangiri pulled out to smooth the path for the moderate incumbent, Hassan
 ### [The first synchrotron in the Middle East, SESAME, opens in Jordan, marking a rare cooperation between Iran, Israel, Turkey, and the Palestinian Authority.  ](/news/2017/05/16/the-first-synchrotron-in-the-middle-east-sesame-opens-in-jordan-marking-a-rare-cooperation-between-iran-israel-turkey-and-the-palestin.md)
 An advanced research centre to be shared by the troubled region has opened today in Jordan.
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/05/15/index.md)
+## [Day Before Yesterday](/news/2017/05/15/index.md)
 
 ### [Western Digital appeals to arbitration in an effort to prevent its partner Toshiba, from selling its chip-making operation, Toshiba Memory. ](/news/2017/05/15/western-digital-appeals-to-arbitration-in-an-effort-to-prevent-its-partner-toshiba-from-selling-its-chip-making-operation-toshiba-memory.md)
 Western Digital Corp (WDC.O) has sought international arbitration to stop partner Toshiba Corp (6502.T) from selling its chips arm without its consent, potentially derailing a much-needed capital injection for the Japanese conglomerate.
@@ -61,29 +77,7 @@ _Context: Iranian presidential election, 2017, Mohammad Bagher Ghalibaf, candida
 
 ---
 
-## [Day Before Yesterday](/news/2017/05/14/index.md)
-
-### [According to the International Committee of the Red Cross, a cholera outbreak has since April 27 killed at least 115 people and left another 8,500 ill across Yemen. ](/news/2017/05/14/according-to-the-international-committee-of-the-red-cross-a-cholera-outbreak-has-since-april-27-killed-at-least-115-people-and-left-another.md)
-_Context: International Committee of the Red Cross, Yemen, Yemeni Civil War, cholera_
-
-### [Shortly after the attack began a researcher found an effective kill switch, which prevented many new infections, and allowed time to patch systems. This greatly slowed the spread. Cyber security authorities discover new versions that lack the kill switch. ](/news/2017/05/14/shortly-after-the-attack-began-a-researcher-found-an-effective-kill-switch-which-prevented-many-new-infections-and-allowed-time-to-patch-s.md)
-As the world readies to open for business on Monday, companies and governments are bracing for a second round of cyberattacks in the aftermath of Friday&#039;s..
-
-### [U.S. and South Korean officials confirm that North Korea launched a test missile from the west coast city of Kusong. The projectile travelled to the east for 30 minutes and 435|mi|km reaching an altitude of more than 1245|mi|km before landing in the Sea of Japan, 60|mi|km south of the Russian city of Vladivostok. ](/news/2017/05/14/u-s-and-south-korean-officials-confirm-that-north-korea-launched-a-test-missile-from-the-west-coast-city-of-kusong-the-projectile-travelle.md)
-Japan says it reached an altitude of 2,000km which, if confirmed, could show a technological advance.
-
-### [The Government of China begins a two-day summit in Beijing, in an attempt to raise international support for its Belt and Road Initiative. ](/news/2017/05/14/the-government-of-china-begins-a-two-day-summit-in-beijing-in-an-attempt-to-raise-international-support-for-its-belt-and-road-initiative.md)
-The Chinese Government is inviting world leaders to Beijing to sell them its hugely ambitious, signature One Belt One Road project.
-
-### [Voters in the German state of North Rhine-Westphalia head to the polls, with the media suggesting a victory for Angela Merkel's CDU over the SPD, who have lead the state for all but five years since 1966. ](/news/2017/05/14/voters-in-the-german-state-of-north-rhine-westphalia-head-to-the-polls-with-the-media-suggesting-a-victory-for-angela-merkel-s-cdu-over-the.md)
-German media projections show clear win for Merkel&#39;s party and defeat for social-democrats in their own stronghold.
-
-### [France swears in Emmanuel Macron as the 25th President of France. ](/news/2017/05/14/france-swears-in-emmanuel-macron-as-the-25th-president-of-france.md)
-New French President Emmanuel Macron pledges to work to overcome divisions in society.
-
----
-
-## [Previous Day...](/news/2017/05/13/index.md)
+## [Previous Day...](/news/2017/05/14/index.md)
 
 ---
 
