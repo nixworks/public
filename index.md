@@ -1,8 +1,5 @@
 ## [News](/news/2017/05/16/index.md)
 
-### [The cybersecurity firms Kaspersky Lab and Symantec report that technical evidence connects the WannaCry ransomware attack to the North Korean-backed Lazarus Group. North Korea is also believed to be responsible for previous cyberattacks on the SWIFT banking system and against Sony Pictures. ](/news/2017/05/16/the-cybersecurity-firms-kaspersky-lab-and-symantec-report-that-technical-evidence-connects-the-wannacry-ransomware-attack-to-the-north-korea.md)
-Similarities spotted between details of last week’s massive cyber-attack and code used by a prolific cybergang with links to North Korean government
-
 ### [The Office for National Statistics in the United Kingdom states that consumer prices in Britain rose by an annualized 2.7% in April, the highest level of inflation in almost four years. ](/news/2017/05/16/the-office-for-national-statistics-in-the-united-kingdom-states-that-consumer-prices-in-britain-rose-by-an-annualized-2-7-in-april-the-hig.md)
 British inflation hit its highest level since September 2013 last month, extending its sharp rise since the vote to leave the European Union and tightening the squeeze on living costs as a national election approaches.
 
