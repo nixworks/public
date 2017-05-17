@@ -1,6 +1,6 @@
 ### [2017-05-17](/news/2017/05/17/index.md)
 
-# According to the International Committee of the Red Cross, at least 115 human bodies are discovered in the border town of Bangassou, more than previously thought. A few days prior, militias attacked the village, with the United Nations reporting that at least 26 people were killed. 
+# According to the International Committee of the Red Cross, at least 115 human bodies are discovered in the border town of Bangassou, more than previously thought. A few days prior, militias attacked the town, with the United Nations reporting that at least 26 people were killed. 
 
 Scores of bodies discovered in border town where 26 people were previously reported dead, aid group says.
 
