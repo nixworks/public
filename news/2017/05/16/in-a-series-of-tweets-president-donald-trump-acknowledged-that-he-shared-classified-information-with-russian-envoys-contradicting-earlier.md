@@ -2,12 +2,13 @@
 
 # In a series of tweets, President Donald Trump acknowledged that he shared classified information with Russian envoys, contradicting earlier White House denials. 
 
-
+Israel was reportedly worried that top secret information may pass to Russia, then Iran.
 
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/05/16/trump-acknowledges-facts-shared-with-russian-envoys-during-white-house-meeting/)
+1. [Newsweek](http://www.newsweek.com/us-officials-warned-israel-not-share-sensitive-intel-trump-609782)
+2. [The Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/05/16/trump-acknowledges-facts-shared-with-russian-envoys-during-white-house-meeting/)
 
 ### Related:
 

@@ -2,12 +2,13 @@
 
 # ''The New York Times'' reports that a memo from James Comey, read in part to a reporter by a Comey associate, revealed that President Donald Trump asked him to end the F.B.I. investigation of Michael T. Flynn. The White House denies the version of events in the memo. 
 
-
+The Republican chairman of the House Oversight Committee demanded Tuesday that the FBI turn over all documents it has about communications between President Donald Trump and former FBI Director James Comey. Chairman Jason Chaffetz of Utah sent the letter a few hours after it was reported that Trump allegedly asked Comey to end the FBI&#x27;s investigation into former National Security Adviser Michael Flynn, who resigned in February following reports that he misled Vice President Mike Pence about his conversations with Russia&#x27;s ambassador to the United States.
 
 
 ### Source:
 
-1. [The New York Times](https://www.nytimes.com/2017/05/16/us/politics/james-comey-trump-flynn-russia-investigation.html)
+1. [NBC News](http://www.nbcnews.com/news/us-news/oversight-chairman-jason-chaffetz-demands-all-fbi-documents-trump-comey-n760556?cid=eml_nbn_20170516)
+2. [The New York Times](https://www.nytimes.com/2017/05/16/us/politics/james-comey-trump-flynn-russia-investigation.html)
 
 ### Related:
 

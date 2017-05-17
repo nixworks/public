@@ -10,10 +10,10 @@ British inflation hit its highest level since September 2013 last month, extendi
 An Israeli cabinet member on Tuesday claimed that Syrian President Bashar al-Assad should not simply be removed from office -- he should be killed.
 
 ### [In a series of tweets, President Donald Trump acknowledged that he shared classified information with Russian envoys, contradicting earlier White House denials. ](/news/2017/05/16/in-a-series-of-tweets-president-donald-trump-acknowledged-that-he-shared-classified-information-with-russian-envoys-contradicting-earlier.md)
-_Context: Donald Trump, Donald Trump revelation of classified information to Russia, President, Russia_
+Israel was reportedly worried that top secret information may pass to Russia, then Iran.
 
 ### [''The New York Times'' reports that a memo from James Comey, read in part to a reporter by a Comey associate, revealed that President Donald Trump asked him to end the F.B.I. investigation of Michael T. Flynn. The White House denies the version of events in the memo. ](/news/2017/05/16/the-new-york-times-reports-that-a-memo-from-james-comey-read-in-part-to-a-reporter-by-a-comey-associate-revealed-that-president-donald.md)
-_Context: Donald Trump, James Comey, Michael T. Flynn, President_
+The Republican chairman of the House Oversight Committee demanded Tuesday that the FBI turn over all documents it has about communications between President Donald Trump and former FBI Director James Comey. Chairman Jason Chaffetz of Utah sent the letter a few hours after it was reported that Trump allegedly asked Comey to end the FBI&#x27;s investigation into former National Security Adviser Michael Flynn, who resigned in February following reports that he misled Vice President Mike Pence about his conversations with Russia&#x27;s ambassador to the United States.
 
 ### [The first synchrotron in the Middle East, SESAME, opens in Jordan, marking rare cooperation between Iran, Israel, Turkey, and the Palestinian Authority.  ](/news/2017/05/16/the-first-synchrotron-in-the-middle-east-sesame-opens-in-jordan-marking-rare-cooperation-between-iran-israel-turkey-and-the-palestinia.md)
 An advanced research centre to be shared by the troubled region has opened today in Jordan.
