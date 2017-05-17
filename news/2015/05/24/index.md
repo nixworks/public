@@ -30,5 +30,20 @@ The international community must challenge Ethiopia’s oppressive regime by giv
 ### [Nobel Prize winner John Forbes Nash, Jr. and his wife Alicia died in a taxi accident. ](/news/2015/05/24/nobel-prize-winner-john-forbes-nash-jr-and-his-wife-alicia-died-in-a-taxi-accident.md)
 _Context: John Forbes Nash, Jr., Nobel Prize, accident, taxi_
 
+### [ Mumbai Indians beats Chennai Super Kings to win the Indian Premier League title for the year 2015.](/news/2015/05/24/mumbai-indians-beats-chennai-super-kings-to-win-the-indian-premier-league-title-for-the-year-2015.md)
+_Context: 2015 Indian Premier League, Chennai Super Kings, Indian Premier League, Mumbai Indians_
+
+### [Nico Rosberg of Mercedes wins the 2015 Monaco Grand Prix ahead of third placed team mate Lewis Hamilton who started in pole position. ](/news/2015/05/24/nico-rosberg-of-mercedes-wins-the-2015-monaco-grand-prix-ahead-of-third-placed-team-mate-lewis-hamilton-who-started-in-pole-position.md)
+_Context: 2015 Monaco Grand Prix, Lewis Hamilton, Mercedes, Nico Rosberg_
+
+### [ 2000 winner Juan Pablo Montoya holds off teammate Will Power by 0.105 seconds to win the 2015 Indianapolis 500. 2008 winner Scott Dixon started on the pole position and finished fourth. Concerns about safety had been raised after several practice crashes before the race, including one that hospitalized James Hinchcliffe. ](/news/2015/05/24/2000-winner-juan-pablo-montoya-holds-off-teammate-will-power-by-0-105-seconds-to-win-the-2015-indianapolis-500-2008-winner-scott-dixon-sta.md)
+Fifteen years after he won the race in his first appearance, Juan Pablo Montoya won his second Indianapolis 500 on Sunday.
+
+### [ The 2015 Coca-Cola 600 occurs today with 2000 winner Matt Kenseth on the pole position. Carl Edwards won the race. ](/news/2015/05/24/the-2015-coca-cola-600-occurs-today-with-2000-winner-matt-kenseth-on-the-pole-position-carl-edwards-won-the-race.md)
+_Context: 2015 Coca-Cola 600, Carl Edwards, Coca-Cola 600, Matt Kenseth_
+
+### [The French Open gets underway at Stade Roland Garros with Rafael Nadal and Maria Sharapova the defending champions in men's and women's singles. ](/news/2015/05/24/the-french-open-gets-underway-at-stade-roland-garros-with-rafael-nadal-and-maria-sharapova-the-defending-champions-in-men-s-and-women-s-sing.md)
+_Context: 2015 French Open, Maria Sharapova, Rafael Nadal, Stade Roland Garros_
+
 ## [Previous Day...](/news/2015/05/23/index.md)
 

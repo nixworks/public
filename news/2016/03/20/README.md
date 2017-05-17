@@ -16,7 +16,7 @@ At least one Briton is thought to have been on board a bus which crashed in Spai
  A strong earthquake with a preliminary magnitude of 6.6 has struck off the east coast of Kamchatka Peninsula in Russia Far East 
 
 ### [An Indonesian military helicopter crash shortly after takeoff from Poso kills 13 passengers. Their mission was  to try to capture Indonesia's most wanted militant, Abu Wardah Santoso, leader of the Islamic State affiliate East Indonesia Mujahidin network. ](/news/2016/03/20/an-indonesian-military-helicopter-crash-shortly-after-takeoff-from-poso-kills-13-passengers-their-mission-was-to-try-to-capture-indonesia.md)
-_Context: Abu Wardah Santoso, East Indonesia Mujahidin network, Indonesia, Islamic State of Iraq and the Levant, Poso, military, military helicopter_
+_Context: Abu Wardah Santoso, East Indonesia Mujahidin network, Indonesia, Islamic State, Poso, military, military helicopter_
 
 ### [U.S. President Barack Obama and the First Family begin their three-day visit to Havana, Cuba, to mark the end of 54 years of tensions in Cuba-United States relations. Obama is the first sitting U.S. president to visit the country since Calvin Coolidge in 1928. ](/news/2016/03/20/u-s-president-barack-obama-and-the-first-family-begin-their-three-day-visit-to-havana-cuba-to-mark-the-end-of-54-years-of-tensions-in-cub.md)
 The dissidents who were marching to demand improved human rights.

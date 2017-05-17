@@ -43,7 +43,7 @@ A top lawmaker on Sunday created waves over two key aspects of the proposed merg
 _Context: Influenza A virus subtype H5N1, Seoul, South Korea_
 
 ### [''The Guardian'''s Moscow Correspondent Luke Harding, who was expelled from Russia, is issued a new entry visa ahead of Foreign Minister Sergey Lavrov's visit to London. ](/news/2011/02/13/the-guardian-s-moscow-correspondent-luke-harding-who-was-expelled-from-russia-is-issued-a-new-entry-visa-ahead-of-foreign-minister-ser.md)
-_Context: Foreign Minister, London, Luke Harding, Russia, Sergey Lavrov, The Guardian_
+_Context: London, Luke Harding, Russia, Russian Foreign Minister, Sergey Lavrov, The Guardian_
 
 ### [Pakistan's former foreign minister Shah Mehmood Qureshi dismisses claims by U.S. authorities that the American gunman who recently shot two Pakistanis dead is a diplomat. ](/news/2011/02/13/pakistan-s-former-foreign-minister-shah-mehmood-qureshi-dismisses-claims-by-u-s-authorities-that-the-american-gunman-who-recently-shot-two.md)
 _Context: Shah Mehmood Qureshi_
@@ -64,7 +64,7 @@ _Context: Aung San Suu Kyi, Burma, go on sale_
 Voters in Switzerland - where gun suicide rates are high - reject proposed tighter controls on weapons ownership in a referendum.
 
 ### [Republican and LGBT rights campaigner Fred Karger launches a campaign in the U.S. states of Iowa and New Hampshire aiming to become President of the United States. ](/news/2011/02/13/republican-and-lgbt-rights-campaigner-fred-karger-launches-a-campaign-in-the-u-s-states-of-iowa-and-new-hampshire-aiming-to-become-presiden.md)
-_Context: Fred Karger, Iowa, LGBT rights in the United States, New Hampshire, R, U.S. President, state_
+_Context: Fred Karger, Iowa, LGBT rights in the United States, New Hampshire, President, R, state_
 
 ### [Cuba releases two more political prisoners. ](/news/2011/02/13/cuba-releases-two-more-political-prisoners.md)
 Cuba releases the political prisoners Hector Maseda and Angel Moya, after a seven-month delay following their refusal to go into exile in Spain.

@@ -1,7 +1,7 @@
 ## [2005-05-2](/news/2005/05/2/index.md)
 
 ### [ Data withheld from an annual report on terrorism by the U.S. State Department show a sharp increase in attacks in 2004. ](/news/2005/05/2/data-withheld-from-an-annual-report-on-terrorism-by-the-u-s-state-department-show-a-sharp-increase-in-attacks-in-2004.md)
-_Context: State Department, terrorism_
+_Context: United States Department of State, terrorism_
 
 ### [ Israeli-Palestinian conflict: Following an Israeli raid on the Palestinian city of Tulkarm, one Israeli soldier and one Islamic Jihad leader are killed. The soldier was killed in a gunfight with 3 members of Palestinian Islamic Jihad. The three were suspected to have been part of the cell which was involved in Tel Aviv "Stage" club bombing in February 2005. Shafiq Abdul Rani, the leader of the Jihad cell in Tulkarm was killed and another militant was arrested. ](/news/2005/05/2/israeli-palestinian-conflict-p-following-an-israeli-raid-on-the-palestinian-city-of-tulkarm-one-israeli-soldier-and-one-islamic-jihad-lead.md)
 _Context: Israel, Israeli-Palestinian conflict, Palestinian, Palestinian Islamic Jihad, Tel Aviv, Tulkarm_

@@ -19,7 +19,7 @@ _Context: ICBM, RS-24, Russia, anti-ballistic missile_
 Gunmen in police uniforms kidnapped five Britons in Baghdad on Tuesday and the deaths of 10 U.S. soldiers were announced, making May the deadliest month for the U.S. military in more than two years.
 
 ### [ Bashar al-Assad is re-elected as President of Syria in an election in which he was the only candidate. ](/news/2007/05/29/bashar-al-assad-is-re-elected-as-president-of-syria-in-an-election-in-which-he-was-the-only-candidate.md)
-_Context: Bashar al-Assad, Syrian President, election_
+_Context: Bashar al-Assad, President, election_
 
 ### [ Zheng Xiaoyu, former head of the China's State Food and Drug Administration, is sentenced to death for taking bribes to approve untested medicines as Chinese authorities introduce a recall system for unsafe food products. ](/news/2007/05/29/zheng-xiaoyu-former-head-of-the-china-s-state-food-and-drug-administration-is-sentenced-to-death-for-taking-bribes-to-approve-untested-me.md)
 _Context: State Food and Drug Administration, Zheng Xiaoyu, bribe, death penalty, recall_

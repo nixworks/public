@@ -1,7 +1,7 @@
 ## [2015-11-19](/news/2015/11/19/index.md)
 
 ### [China vows to "bring to justice" those responsible for executing one of its citizens after the Islamic State of Iraq and the Levant said it had killed a Chinese hostage. China's Foreign Ministry also confirms the hostage's identity for the first time, naming him as Fan Jinghui. ](/news/2015/11/19/china-vows-to-bring-to-justice-those-responsible-for-executing-one-of-its-citizens-after-the-islamic-state-of-iraq-and-the-levant-said-it.md)
-_Context: China, Chinese Foreign Ministry spokesperson, Fan Jinghui, Islamic State of Iraq and the Levant, Killing of captives by ISIL_
+_Context: China, Chinese Foreign Ministry spokesperson, Fan Jinghui, Islamic State, Killing of captives by ISIL_
 
 ### [According to the Islamic State of Iraq and the Levant's official propaganda magazine, a soft drink can with an IED, a so-called "Schweppes bomb," was used to destroy the Russian airliner. ](/news/2015/11/19/according-to-the-islamic-state-of-iraq-and-the-levant-s-official-propaganda-magazine-a-soft-drink-can-with-an-ied-a-so-called-schweppes-b.md)
 * Islamic State shows components purportedly used to blow upplane* Includes soft drink can and apparent detonator* Feasible the device could
@@ -55,7 +55,7 @@ More Mexicans are leaving the United States than entering it according to a repo
 A United Nations General Assembly committee has adopted a North Korea human rights resolution.
 
 ### [The Obama Administration through the United States State Department expresses deep frustration over the lack of democratic progress in Thailand after last year's military coup, saying a new constitution there won't pass the "smell test" unless civil society helps to draft it. ](/news/2015/11/19/the-obama-administration-through-the-united-states-state-department-expresses-deep-frustration-over-the-lack-of-democratic-progress-in-thail.md)
-_Context: Obama Administration, State Department, Thailand, civil society, constitution, democratic progress, military coup_
+_Context: Obama Administration, Thailand, United States Department of State, civil society, constitution, democratic progress, military coup_
 
 ### [A court sentences former restaurant spokesperson Jared Fogle to over 15 years imprisonment for sex with minors and the possession of child pornography. ](/news/2015/11/19/a-court-sentences-former-restaurant-spokesperson-jared-fogle-to-over-15-years-imprisonment-for-sex-with-minors-and-the-possession-of-child-p.md)
 A plea deal was reached in August, with the former Subway pitchman admitting to crossing state lines to pay to have sex with minors and receiving child pornography from the head of his charity.

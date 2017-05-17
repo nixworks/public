@@ -52,7 +52,7 @@ A photo of a foetus whose mother was forced to have an abortion while seven mont
 Falkland Islanders mark 30 years since the end of the war with Argentina with a service at Liberation Monument, Port Stanley.
 
 ### [A new survey finds that global support for U.S. president Barack Obama has declined since 2009. ](/news/2012/06/14/a-new-survey-finds-that-global-support-for-u-s-president-barack-obama-has-declined-since-2009.md)
-_Context: Obama, U.S. President_
+_Context: Obama, President_
 
 ### [Venezuela's president Hugo Chavez gives a televised address from the country's defence ministry to discuss his defence plans. ](/news/2012/06/14/venezuela-s-president-hugo-cha-vez-gives-a-televised-address-from-the-country-s-defence-ministry-to-discuss-his-defence-plans.md)
 _Context: Hugo Chavez, Venezuela_

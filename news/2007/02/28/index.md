@@ -7,7 +7,7 @@ _Context: Bolivia, Evo Morales, President of Bolivia, homeless_
 Without some form of population control, elephants will soon overwhelm public parks and private game reserves, the nation’s environment minister said.
 
 ### [ United States Presidential Election, 2008: Senator John McCain (R- AZ) announces his candidacy for president on the ''Late Show with David Letterman''. ](/news/2007/02/28/united-states-presidential-election-2008-senator-john-mccain-r-az-announces-his-candidacy-for-president-on-the-late-show-with-david.md)
-_Context: 2008, Arizona, John McCain, Late Show with David Letterman, R, U.S. President, United States Senate_
+_Context: 2008, Arizona, John McCain, Late Show with David Letterman, President, R, United States Senate_
 
 ### [ Romano Prodi, the Prime Minister of Italy, survives a no-confidence motion in the Senate. ](/news/2007/02/28/romano-prodi-the-prime-minister-of-italy-survives-a-no-confidence-motion-in-the-senate.md)
 _Context: Italian Prime Minister, Romano Prodi, Senate of Italy_

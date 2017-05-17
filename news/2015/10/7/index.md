@@ -1,7 +1,7 @@
 ## [2015-10-7](/news/2015/10/7/index.md)
 
 ### [An FBI investigation has reportedly found that criminal networks specializing in nuclear smuggling in Eastern Europe, particularly in the nation of Moldova, have shipped radioactive material to 'Middle Eastern extremists', including the Islamic State (which in the recent past has threatened to unleash a nuclear holocaust to 'wipe the West off the face of the Earth'). ](/news/2015/10/7/an-fbi-investigation-has-reportedly-found-that-criminal-networks-specializing-in-nuclear-smuggling-in-eastern-europe-particularly-in-the-na.md)
-_Context: FBI, Islamic State of Iraq and the Levant, Moldova, eastern Europe, nuclear holocaust_
+_Context: FBI, Islamic State, Moldova, eastern Europe, nuclear holocaust_
 
 ### [Russia launches an intense bombing campaign in the Syrian governorates of Idlib and Hama. The Syrian Army is conducting a ground offensive in the same area. ](/news/2015/10/7/russia-launches-an-intense-bombing-campaign-in-the-syrian-governorates-of-idlib-and-hama-the-syrian-army-is-conducting-a-ground-offensive-i.md)
 Four Russian Navy warships have fired a total of 26 missiles at the position of the terrorist group Islamic State in Syria, Russia’s Defense Minister Sergey Shoigu announced. The missiles were fired from the Caspian Sea.

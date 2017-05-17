@@ -13,7 +13,7 @@
 
 ### Related:
 
-1. [An unknown gunman shoots and kills veteran journalist Javier Valdez Cardenas, who is noted for his investigative reporting on Mexico's war on drugs, in Culiacan, Sinaloa. ](/news/2017/05/15/an-unknown-gunman-shoots-and-kills-veteran-journalist-javier-valdez-ca-rdenas-who-is-noted-for-his-investigative-reporting-on-mexico-s-war.md) _Context: Mexico_
+1. [An unknown gunman shoots and kills veteran journalist Javier Valdez Crdenas, who is noted for his investigative reporting on Mexico's war on drugs, in Culiacn, Sinaloa. ](/news/2017/05/15/an-unknown-gunman-shoots-and-kills-veteran-journalist-javier-valdez-cardenas-who-is-noted-for-his-investigative-reporting-on-mexico-s-war-o.md) _Context: Mexico_
 2. [Mexican Beltran Leyva Cartel drug lord Alfredo Beltran Leyva is sentenced to life in prison and ordered to forfeit $US529,200,000. ](/news/2017/04/5/mexican-beltra-n-leyva-cartel-drug-lord-alfredo-beltra-n-leyva-is-sentenced-to-life-in-prison-and-ordered-to-forfeit-us529-200-000.md) _Context: Beltran Leyva Cartel_
 3. [Ciudad Juarez-based newspaper ''Norte'' closes its print edition, citing a lack of security in Mexico. ](/news/2017/04/2/ciudad-jua-rez-based-newspaper-norte-closes-its-print-edition-citing-a-lack-of-security-in-mexico.md) _Context: Mexico_
 4. [Mexico states that it will reject third-country deportees. ](/news/2017/02/24/mexico-states-that-it-will-reject-third-country-deportees.md) _Context: Mexico_

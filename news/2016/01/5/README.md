@@ -13,7 +13,7 @@ _Context: Al-Awamiyah, Eastern Province, Nimr al-Nimr_
 Islamic State militants attacked checkpoints near the Libyan oil port of Es Sider for a second day on Tuesday and an oil storage tank in the port was set on fire by a long-range rocket, a spokesman for the security guards said.
 
 ### [The Islamic State, following Saudi Arabia's  execution of 47 people on Saturday,  threatens to destroy Saudi Arabia's Tarfiya  and al-Ha'ir Prisons holding Al-Qaeda and ISIL supporters. ](/news/2016/01/5/the-islamic-state-following-saudi-arabia-s-execution-of-47-people-on-saturday-threatens-to-destroy-saudi-arabia-s-tarfiya-and-al-ha-ir.md)
-_Context: Islamic State of Iraq and the Levant, Saudi Arabia, al-Ha'ir Prison, al-Qaida_
+_Context: Islamic State, Saudi Arabia, al-Ha'ir Prison, al-Qaida_
 
 ### [A bus catches fire in the Chinese city of Yinchuan resulting in at least 14 deaths and over 30 injured. ](/news/2016/01/5/a-bus-catches-fire-in-the-chinese-city-of-yinchuan-resulting-in-at-least-14-deaths-and-over-30-injured.md)
 A Chinese man upset over a financial dispute set fire to a moving bus and fled as the flames trapped people inside, killing 17 of them and injuring 32, authorities and state media said.

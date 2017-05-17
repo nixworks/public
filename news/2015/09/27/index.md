@@ -7,7 +7,7 @@ News - Your daily dose of information: European and International latest breakin
 Another 100 people thought to have been injured and thousands displaced in capital Bangui in worst violence this year after Muslim motorcycle taxi driver found murdered
 
 ### [Militants reportedly allied to the Islamic State of Iraq and the Levant launch coordinated attacks on government positions in the eastern Nangarhar Province close to the border with Pakistan. Two police officers are reportedly killed. ](/news/2015/09/27/militants-reportedly-allied-to-the-islamic-state-of-iraq-and-the-levant-launch-coordinated-attacks-on-government-positions-in-the-eastern-na.md)
-_Context: Afghan police, Islamic State of Iraq and the Levant, Nangarhar Province, Pakistan, War in Afghanistan (2015-present)_
+_Context: Afghan police, Islamic State, Nangarhar Province, Pakistan, War in Afghanistan (2015-present)_
 
 ### [France says it has carried out its first air-strikes against the Islamic State of Iraq and the Levant within Syria, destroying a training camp in the east of the country. Previously, France had only carried out air-strikes in Iraq with consent of the Iraqi government. ](/news/2015/09/27/france-says-it-has-carried-out-its-first-air-strikes-against-the-islamic-state-of-iraq-and-the-levant-within-syria-destroying-a-training-ca.md)
 Russia appeared to seize the initiative in international efforts to end the conflict in Syria on Sunday as Washington scrambled to devise a new strategy for the war-ravaged country and France sent warplanes to bomb Islamic State targets.

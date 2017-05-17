@@ -10,7 +10,7 @@ _Context: Libya, Muammar Gaddafi, National Transitional Council, Tripoli_
 _Context: Gaza Strip_
 
 ### [Gunmen attack prominent Syrian political cartoonist Ali Farzat, beating him badly and breaking both of his hands, with the beating believed to be related to cartoons critical of President of Syria Bashar Assad and his family. ](/news/2011/08/25/gunmen-attack-prominent-syrian-political-cartoonist-ali-farzat-beating-him-badly-and-breaking-both-of-his-hands-with-the-beating-believed.md)
-_Context: Ali Farzat, Bashar Assad's, Syria, Syrian President, political cartoonist_
+_Context: Ali Farzat, Bashar Assad's, President, Syria, political cartoonist_
 
 ### [Berkshire Hathaway, the conglomerate headed by Warren Buffett, announces a plan to invest $5 billion in Bank of America. ](/news/2011/08/25/berkshire-hathaway-the-conglomerate-headed-by-warren-buffett-announces-a-plan-to-invest-5-billion-in-bank-of-america.md)
 _Context: Bank of America, Berkshire Hathaway, Warren Buffett_

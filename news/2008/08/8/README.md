@@ -19,7 +19,7 @@ _Context: Czech, Studenka, Studenka Train Disaster, express train_
 A terrorist group seeking an independent Muslim state in western China has released a video threatening an attack on the Olympic Games.
 
 ### [ The President of the United States George W. Bush dedicates a new American embassy in Beijing. ](/news/2008/08/8/the-president-of-the-united-states-george-w-bush-dedicates-a-new-american-embassy-in-beijing.md)
-_Context: George W. Bush, U.S. President, United States_
+_Context: George W. Bush, President, United States_
 
 ### [ Economic crisis of 2008: UK home repossessions rise by 48%. ](/news/2008/08/8/economic-crisis-of-2008-p-uk-home-repossessions-rise-by-48.md)
 _Context: current economic crisis, repossession_

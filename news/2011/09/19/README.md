@@ -46,7 +46,7 @@ _Context: George Cadle Price, Prime Minister of Belize_
 _Context: John O'Dowd, Martin McGuinness, Sinn Fein, deputy First Minister of Northern Ireland_
 
 ### [The President of the United States, Barack Obama, outlines a plan to cut US deficits by $3 trillion over 10 years, with half of the reductions coming from tax increases. ](/news/2011/09/19/the-president-of-the-united-states-barack-obama-outlines-a-plan-to-cut-us-deficits-by-3-trillion-over-10-years-with-half-of-the-reductio.md)
-_Context: Obama, U.S. President_
+_Context: Obama, President_
 
 ## [Previous Day...](/news/2011/09/18/index.md)
 

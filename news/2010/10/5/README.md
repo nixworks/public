@@ -46,7 +46,7 @@ Decision blamed on legal move by Holland-based pro-Moluccan group to have Yudhoy
 Former Pakistani military ruler Pervez Musharraf says that his forces trained militant groups to fight in Indian-administered Kashmir.
 
 ### [President of the United States Barack Obama announces plans via Secretary of Energy Steven Chu that additional solar panels will be installed at the White House, while the founder of Sungevity plans to install solar panels at the private official residence of President of the Maldives Mohamed Nasheed for the "Global Work Party" event planned by 350. ](/news/2010/10/5/president-of-the-united-states-barack-obama-announces-plans-via-secretary-of-energy-steven-chu-that-additional-solar-panels-will-be-installe.md)
-_Context: Mohamed Nasheed, Obama, President, Steven Chu, Sungevity, U.S. President, White House, solar panel_
+_Context: Mohamed Nasheed, Obama, President, President, Steven Chu, Sungevity, White House, solar panel_
 
 ### [1976 Nobel Peace Prize laureate Mairead Maguire is deported by Israel ending her joint effort with other Nobel laureates to meet Israeli and Palestinian peace activists. ](/news/2010/10/5/1976-nobel-peace-prize-laureate-mairead-maguire-is-deported-by-israel-ending-her-joint-effort-with-other-nobel-laureates-to-meet-israeli-and.md)
 Israel deported Irish Nobel peace laureate Mairead Maguire on Tuesday, after the country’s highest court rejected her appeal against a deportation order. “The supreme court yesterday ruled that she mu

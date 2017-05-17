@@ -10,7 +10,7 @@ _Context: Hugo, Minnesota, Tornadoes of 2008, storm, tornado_
 NASA.gov brings you the latest images, videos and news from America&#039;s space agency. Get the latest updates on NASA missions, watch NASA TV live, and learn about our quest to reveal the unknown and benefit all humankind.
 
 ### [ New Zealand driver Scott Dixon wins the 2008 Indianapolis 500 ahead of Vitor Meira. ](/news/2008/05/25/new-zealand-driver-scott-dixon-wins-the-2008-indianapolis-500-ahead-of-vitor-meira.md)
-_Context: 2008 Indianapolis 500, New Zealand, Scott Dixon, Vitor Meira_
+_Context: 2008, New Zealand, Scott Dixon, Vitor Meira_
 
 ### [ Laurent Cantet's film ''Entre les murs (The Class)'' wins the Palme d'Or at the 2008 Cannes Film Festival. ](/news/2008/05/25/laurent-cantet-s-film-entre-les-murs-the-class-wins-the-palme-d-or-at-the-2008-cannes-film-festival.md)
 _Context: 2008 Cannes Film Festival, Entre les murs, Laurent Cantet, Palme d'Or_

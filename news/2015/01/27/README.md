@@ -4,7 +4,7 @@
 _Context: Corinthia Hotel, Libya, Libyan Civil War (2014-present), Tripoli_
 
 ### [Israeli security forces claim that Hezbollah and forces loyal to the President of Syria Bashar al-Assad are responsible for firing rockets from Syrian territory onto the Golan Heights into the mount Hermon sky resort. ](/news/2015/01/27/israeli-security-forces-claim-that-hezbollah-and-forces-loyal-to-the-president-of-syria-bashar-al-assad-are-responsible-for-firing-rockets-f.md)
-_Context: Bashar al-Assad, Golan Heights, Hezbollah, Israel, Israeli-Lebanese conflict, January 18 airstrike against a Hezbollah convoy, Syria, Syrian President_
+_Context: Bashar al-Assad, Golan Heights, Hezbollah, Israel, Israeli-Lebanese conflict, January 18 airstrike against a Hezbollah convoy, President, Syria_
 
 ### [Pope Francis holds a private meeting with a transsexual man and his fiancee at the Vatican. ](/news/2015/01/27/pope-francis-holds-a-private-meeting-with-a-transsexual-man-and-his-fianca-c-e-at-the-vatican.md)
 _Context: Pope Francis, Vatican City_

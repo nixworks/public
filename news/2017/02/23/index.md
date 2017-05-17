@@ -4,7 +4,7 @@
 Police are investigating the cause of the blast, which ripped through a shopping area.
 
 ### [Iraqi Police forces enter the Mosul International Airport and capture the runway from Islamic State of Iraq and the Levant. ](/news/2017/02/23/iraqi-police-forces-enter-the-mosul-international-airport-and-capture-the-runway-from-islamic-state-of-iraq-and-the-levant.md)
-_Context: Battle of Mosul (2016-17), Iraqi Police, Islamic State of Iraq and the Levant, Mosul International Airport_
+_Context: Battle of Mosul (2016-17), Iraqi Police, Islamic State, Mosul International Airport_
 
 ### [American-born panda Bao Bao arrives in China. ](/news/2017/02/23/american-born-panda-bao-bao-arrives-in-china.md)
 _Context: Bao Bao, China, United States, panda_

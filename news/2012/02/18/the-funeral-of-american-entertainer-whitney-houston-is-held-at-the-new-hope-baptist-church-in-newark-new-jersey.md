@@ -11,7 +11,7 @@ The New Hope Baptist Church, where pop star Whitney Houston first sang and famil
 
 ### Related:
 
-1. [A Philadelphia-originating Learjet crash in Carlstadt as it approached Teterboro Airport in New Jersey kills at least two people. ](/news/2017/05/15/a-philadelphia-originating-learjet-crash-in-carlstadt-as-it-approached-teterboro-airport-in-new-jersey-kills-at-least-two-people.md) _Context: New Jersey_
+1. [A Philadelphia-originating Learjet crashes in Carlstadt as it approached Teterboro Airport in New Jersey, killing at least two people. ](/news/2017/05/15/a-philadelphia-originating-learjet-crashes-in-carlstadt-as-it-approached-teterboro-airport-in-new-jersey-killing-at-least-two-people.md) _Context: New Jersey_
 2. [Paul Beatty becomes the first American author to win the Man Booker Prize for his novel ''The Sellout''. ](/news/2016/10/25/paul-beatty-becomes-the-first-american-author-to-win-the-man-booker-prize-for-his-novel-the-sellout.md) _Context: American_
 3. [A commuter train accident at the Hoboken Terminal in New Jersey leaves one woman dead and 114 others injured. Major structural damage occurs to the station with portions of the roof collapsed. ](/news/2016/09/29/a-commuter-train-accident-at-the-hoboken-terminal-in-new-jersey-leaves-one-woman-dead-and-114-others-injured-major-structural-damage-occurs.md) _Context: New Jersey_
 4. [American Olympic swimmers Ryan Lochte, Gunnar Bentz, Jack Conger and Jimmy Feigen claim they were robbed at gunpoint in Rio de Janeiro by men posing as Brazilian police officers. ](/news/2016/08/14/american-olympic-swimmers-ryan-lochte-gunnar-bentz-jack-conger-and-jimmy-feigen-claim-they-were-robbed-at-gunpoint-in-rio-de-janeiro-by-me.md) _Context: American_

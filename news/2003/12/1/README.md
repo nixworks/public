@@ -10,7 +10,7 @@ _Context: AIDS, European Union, Health and Human Services Secretary, Tommy Thomp
 _Context: 1994, International Criminal Tribunal for Rwanda, Juvenal Kajelijeli, Mukingo, Rwanda, UN, genocide_
 
 ### [ King Harald V of Norway is announced to be suffering from cancer of the bladder; he will be operated on next Monday, December 8. During the King's illness and two to three month convalescence, Crown Prince Haakon will be acting regent. [http://www.aftenposten.no/english/local/article.jhtml?articleID=682035]](/news/2003/12/1/king-harald-v-of-norway-is-announced-to-be-suffering-from-cancer-of-the-bladder-he-will-be-operated-on-next-monday-december-8-during-the.md)
-_Context: Crown Prince Haakon, December 8, King, bladder cancer, regent_
+_Context: Crown Prince Haakon, December 8, King, cancer, regent_
 
 ### [ President Chen Shui-bian says that the hundreds of missiles the People's Republic of China has aimed at Taiwan justifies holding a referendum on independence. The referendum bill recently passed by the Legislative Yuan only allows votes on sovereignty if the country is attacked by a foreign power. [http://news.bbc.co.uk/2/hi/asia-pacific/3252246.stm]](/news/2003/12/1/president-chen-shui-bian-says-that-the-hundreds-of-missiles-the-people-s-republic-of-china-has-aimed-at-taiwan-justifies-holding-a-referend.md)
 _Context: Chen Shui-bian, People's Republic of China, President of Taiwan, Taiwan, Taiwan, independence, legislative chamber_

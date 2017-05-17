@@ -22,7 +22,7 @@ Survivors of a deadly nightclub fire and stampede in Romania say the lead singer
 _Context: Adolf Hitler, Amin al-Husseini, Benjamin Netanyahu, European Jews, Islam, Nazi, Prime Minister of Israel, World War 2_
 
 ### [U.N. Secretary-General Ban Ki-moon says new talks aimed to help end Syria's war shouldn't be held up by wrangling over whether President Bashar Assad stays or goes. ](/news/2015/10/31/u-n-secretary-general-ban-ki-moon-says-new-talks-aimed-to-help-end-syria-s-war-shouldn-t-be-held-up-by-wrangling-over-whether-president-bas.md)
-_Context: Ban Ki-moon, Bashar al-Assad, Secretary General, Syria, Syria peace talks in Vienna, Syrian Civil War, Syrian President_
+_Context: Ban Ki-moon, Bashar al-Assad, President, Secretary General, Syria, Syria peace talks in Vienna, Syrian Civil War_
 
 ### [The Presidential Palace and the Philippine Senate investigate an extortion scam involving the Ninoy Aquino International Airport. ](/news/2015/10/31/the-presidential-palace-and-the-philippine-senate-investigate-an-extortion-scam-involving-the-ninoy-aquino-international-airport.md)
 _Context: Ninoy Aquino International Airport, Philippines, Presidential Palace, Senate, extortion_

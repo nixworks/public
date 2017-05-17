@@ -4,7 +4,7 @@
 Up to 30 injured in the blast close to security checkpost on Jamrud Road
 
 ### [The Syrian Observatory for Human Rights claims that scores of Syrian Army troops have been killed in fighting with the Islamic State of Iraq and the Levant over the past few days with the fiercest battles near the city of Deir ez-Zor. ](/news/2016/01/19/the-syrian-observatory-for-human-rights-claims-that-scores-of-syrian-army-troops-have-been-killed-in-fighting-with-the-islamic-state-of-iraq.md)
-_Context: Deir ez-Zor, Islamic State of Iraq and the Levant, Syrian Army, Syrian Civil War, Syrian Observatory for Human Rights_
+_Context: Deir ez-Zor, Islamic State, Syrian Army, Syrian Civil War, Syrian Observatory for Human Rights_
 
 ### [The United Nations Commission on Human Rights releases a report stating that at least 18,802 civilians have been killed and another 36,245 wounded between 1 January 2014 and 31 October 2015.  Of these, 3,855 civilians were killed and 7,056 wounded between 1 May and 31 October 2015, with approximately half of these deaths occurring in Baghdad. ](/news/2016/01/19/the-united-nations-commission-on-human-rights-releases-a-report-stating-that-at-least-18-802-civilians-have-been-killed-and-another-36-245-w.md)
 _Context: Baghdad, Iraqi Civil War (2014-present), United Nations Commission on Human Rights_
@@ -23,7 +23,7 @@ _Context: Iran-Saudi relations, Jeddah, OIC, Organization of Islamic Cooperation
 _Context: U.S. Supreme Court, insider trading_
 
 ### [Former Governor of Alaska, vice presidential candidate (2008), and Tea Party activist Sarah Palin endorses Republican Party presidential candidate Donald Trump for President of the United States. ](/news/2016/01/19/former-governor-of-alaska-vice-presidential-candidate-2008-and-tea-party-activist-sarah-palin-endorses-republican-party-presidential-can.md)
-_Context: 2016 U.S. presidential election, Donald Trump, Governor of Alaska, R, Sarah Palin, Tea Party, U.S. President, presidential campaign, vice presidential candidate_
+_Context: 2016 U.S. presidential election, Donald Trump, Governor of Alaska, President, R, Sarah Palin, Tea Party, presidential campaign, vice presidential candidate_
 
 ## [Previous Day...](/news/2016/01/18/index.md)
 

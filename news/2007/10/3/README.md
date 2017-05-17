@@ -7,7 +7,7 @@ _Context: Elandskraal mine, Elandsrand, Harmony Gold, Johannesburg, South Africa
 _Context: Mars, Moon, NASA, Russia, United States, water_
 
 ### [ United States President George W. Bush vetoes an expansion of the State Children's Health Insurance Program. ](/news/2007/10/3/united-states-president-george-w-bush-vetoes-an-expansion-of-the-state-children-s-health-insurance-program.md)
-_Context: George W. Bush, State Children's Health Insurance Program, U.S. President, United States_
+_Context: George W. Bush, President, State Children's Health Insurance Program, United States_
 
 ### [ Edward Pietrzyk, the Polish ambassador to Iraq, is hurt and his bodyguard is killed by a bomb attack in Baghdad. ](/news/2007/10/3/edward-pietrzyk-the-polish-ambassador-to-iraq-is-hurt-and-his-bodyguard-is-killed-by-a-bomb-attack-in-baghdad.md)
 _Context: Baghdad, Edward Pietrzyk, IED, Iraq, Poland, ambassador, bodyguard_

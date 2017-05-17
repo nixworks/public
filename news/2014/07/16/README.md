@@ -22,7 +22,7 @@ Go to NBCNews.com for breaking news, videos, and the latest top stories in world
 _Context: Commissioner for Economic and Monetary Affairs and the Euro, Commissioner for Financial Programming and Budget, Commissioner for Industry and Entrepreneurship, Commissioner for Justice, Fundamental Rights and Citizenship, Ferdinando Nelli Feroci, Jacek Dominik, Jyrki Katainen, Martine Reicherts, The European Parliament_
 
 ### [Bashar Assad is sworn in to serve his third term as President of Syria. ](/news/2014/07/16/bashar-assad-is-sworn-in-to-serve-his-third-term-as-president-of-syria.md)
-_Context: Bashar Assad's, Syrian President_
+_Context: Bashar Assad's, President_
 
 ### [Russia and Cuba agree on reopening the biggest soviet era espionage base outside of Russia. ](/news/2014/07/16/russia-and-cuba-agree-on-reopening-the-biggest-soviet-era-espionage-base-outside-of-russia.md)
 _Context: the biggest soviet era espionage base_

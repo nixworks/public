@@ -13,7 +13,7 @@ The storm effectively shut down New York City and D.C., while dumping as much as
 
 ### Related:
 
-1. [A Philadelphia-originating Learjet crash in Carlstadt as it approached Teterboro Airport in New Jersey kills at least two people. ](/news/2017/05/15/a-philadelphia-originating-learjet-crash-in-carlstadt-as-it-approached-teterboro-airport-in-new-jersey-kills-at-least-two-people.md) _Context: New Jersey_
+1. [A Philadelphia-originating Learjet crashes in Carlstadt as it approached Teterboro Airport in New Jersey, killing at least two people. ](/news/2017/05/15/a-philadelphia-originating-learjet-crashes-in-carlstadt-as-it-approached-teterboro-airport-in-new-jersey-killing-at-least-two-people.md) _Context: New Jersey_
 2. [A major blizzard hits the northeastern United States, cancelling more than 2,400 flights. ](/news/2017/02/9/a-major-blizzard-hits-the-northeastern-united-states-cancelling-more-than-2-400-flights.md) _Context: blizzard_
 3. [A commuter train accident at the Hoboken Terminal in New Jersey leaves one woman dead and 114 others injured. Major structural damage occurs to the station with portions of the roof collapsed. ](/news/2016/09/29/a-commuter-train-accident-at-the-hoboken-terminal-in-new-jersey-leaves-one-woman-dead-and-114-others-injured-major-structural-damage-occurs.md) _Context: New Jersey_
 4. [Energy Future Holdings, a Texas electric utility, asks a bankruptcy court in Delaware to confirm a plan that would allow it to exit Chapter 11 after more than two years. ](/news/2016/08/17/energy-future-holdings-a-texas-electric-utility-asks-a-bankruptcy-court-in-delaware-to-confirm-a-plan-that-would-allow-it-to-exit-chapter.md) _Context: Delaware_

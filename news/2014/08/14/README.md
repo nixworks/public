@@ -16,7 +16,7 @@ _Context: Afghanistan, Laghman Province, Taliban insurgency_
 Pope Francis has arrived in Seoul looking to fuel a new era of Catholic growth in Asia - a mission fraught with complex political challenges but huge potential rewards.
 
 ### [The President of the United States Barack Obama orders an independent inquiry by the United States Department of Justice and the Federal Bureau of Investigation into the shooting of Michael Brown by the Ferguson Police Department. ](/news/2014/08/14/the-president-of-the-united-states-barack-obama-orders-an-independent-inquiry-by-the-united-states-department-of-justice-and-the-federal-bur.md)
-_Context: Federal Bureau of Investigation, Obama, U.S. Justice Department, U.S. President, police force, shooting of Michael Brown_
+_Context: Federal Bureau of Investigation, Obama, President, U.S. Justice Department, police force, shooting of Michael Brown_
 
 ### [Police search a Berkshire property belonging to Cliff Richard in relation to an alleged historical sex offense.  ](/news/2014/08/14/police-search-a-berkshire-property-belonging-to-cliff-richard-in-relation-to-an-alleged-historical-sex-offense.md)
 Police search a Berkshire property belonging to Sir Cliff Richard in relation to an alleged historical sex offence.

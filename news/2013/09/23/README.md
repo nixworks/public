@@ -4,7 +4,7 @@
 Live updates as heavy gunfire is heard at a shopping centre in the Kenyan capital, Nairobi, where suspected al-Shabab militants are holding hostages.
 
 ### [Syrian civil war:President Bashar al-Assad said he will allow international experts to access chemical weapons sites. ](/news/2013/09/23/syrian-civil-war-ppresident-bashar-al-assad-said-he-will-allow-international-experts-to-access-chemical-weapons-sites.md)
-_Context: Bashar al-Assad, Syrian Civil War, Syrian President, chemical weapons facilities_
+_Context: Bashar al-Assad, President, Syrian Civil War, chemical weapons facilities_
 
 ### [At least 25 people are dead in Hong Kong and southern China after Typhoon Usagi passes through with the storm having killed eight people in the Philippines. ](/news/2013/09/23/at-least-25-people-are-dead-in-hong-kong-and-southern-china-after-typhoon-usagi-passes-through-with-the-storm-having-killed-eight-people-in.md)
 _Context: Hong Kong, People's Republic of China, Philippines, Typhoon Usagi_

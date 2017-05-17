@@ -13,7 +13,7 @@ _Context: India, India's Prime Minister, Narendra Modi_
 French police arrest a man suspected of starting a fire that killed eight people, including two children, in northern Paris.
 
 ### [President Barack Obama has sufficient support in the United States Senate to uphold a veto of the proposed congressional vote of disapproval of the nuclear deal with Iran. ](/news/2015/09/2/president-barack-obama-has-sufficient-support-in-the-united-states-senate-to-uphold-a-veto-of-the-proposed-congressional-vote-of-disapproval.md)
-_Context: Iran, Obama, U.S. President, United States Senate, Upcoming congressional votes_
+_Context: Iran, Obama, President, United States Senate, Upcoming congressional votes_
 
 ### [Eight people have been killed and over 30 injured in riots in the Indian state of Manipur since the passage of three controversial land bills on Monday. ](/news/2015/09/2/eight-people-have-been-killed-and-over-30-injured-in-riots-in-the-indian-state-of-manipur-since-the-passage-of-three-controversial-land-bill.md)
 Three persons were killed on Tuesday when police opened fire on a mob which attacked Churachandpur police station. 

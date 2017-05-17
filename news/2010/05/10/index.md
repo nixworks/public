@@ -10,7 +10,7 @@ _Context: Gordon Brown, Leader of the Labour Party, Prime Minster, being elected
 _Context: European Union, International Monetary Fund, economically troubled euro-zone nations, stock market_
 
 ### [President Obama nominates Solicitor General  Elena Kagan as the youngest Justice and third woman for the Supreme Court of the United States. ](/news/2010/05/10/president-obama-nominates-solicitor-general-elena-kagan-as-the-youngest-justice-and-third-woman-for-the-supreme-court-of-the-united-states.md)
-_Context: Elena Kagan, Justice, Obama, U.S. President, U.S. Supreme Court, United States solicitor general_
+_Context: Elena Kagan, Justice, Obama, President, U.S. Supreme Court, United States solicitor general_
 
 ### [German Chancellor Angela Merkel's government loses its majority in the upper house of parliament in a state election marked by voter anger over the bailout to avoid the Greek debt crisis. ](/news/2010/05/10/german-chancellor-angela-merkelas-government-loses-its-majority-in-the-upper-house-of-parliament-in-a-state-election-marked-by-voter-anger.md)
 _Context: Angela Merkel's, German Chancellor, economically troubled euro-zone nations, upper house of parliament_

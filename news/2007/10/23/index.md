@@ -31,7 +31,7 @@ _Context: Idris Osman, Somalia, World Food Programme_
 _Context: Nike, Inc., PS, Umbro, United Kingdom, sportswear_
 
 ### [ A United States Government report states that the Department of State is unable to account for much of the $1.2 billion in funding that it gave to DynCorp International to train Iraqi police. ](/news/2007/10/23/a-united-states-government-report-states-that-the-department-of-state-is-unable-to-account-for-much-of-the-1-2-billion-in-funding-that-it.md)
-_Context: DynCorp International, Iraq, State Department, U.S. dollar, United States government_
+_Context: DynCorp International, Iraq, U.S. dollar, United States Department of State, United States government_
 
 ## [Previous Day...](/news/2007/10/22/index.md)
 

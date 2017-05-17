@@ -1,7 +1,7 @@
 ## [2014-11-30](/news/2014/11/30/index.md)
 
 ### [Coalition forces launch over 30 airstrikes on Raqqa, the ''de facto'' capital of ISIL. ](/news/2014/11/30/coalition-forces-launch-over-30-airstrikes-on-raqqa-the-de-facto-capital-of-isil.md)
-_Context: Coalition forces, Islamic State of Iraq and the Levant, Raqqa_
+_Context: Coalition forces, Islamic State, Raqqa_
 
 ### [FARC releases Colombian Army general Ruben Alzate and two of their other prisoners. ](/news/2014/11/30/farc-releases-colombian-army-general-ruba-c-n-alzate-and-two-of-their-other-prisoners.md)
 _Context: Colombian Army, Colombian conflict, Revolutionary Armed Forces of Colombia_

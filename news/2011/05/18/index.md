@@ -16,7 +16,7 @@ _Context: Al Jazeera, Dorothy Parvaz, Iran, Syria_
 At least 12 people are shot dead and 80 wounded by security forces in northern Afghanistan during a protest against a Nato-led raid.
 
 ### [The United States announces plans to impose sanctions on the President of Syria, Bashar al-Assad, and six members of his government, for alleged human rights breaches during the 2011 Syrian uprising. ](/news/2011/05/18/the-united-states-announces-plans-to-impose-sanctions-on-the-president-of-syria-bashar-al-assad-and-six-members-of-his-government-for-all.md)
-_Context: 2011 Syrian uprising, Bashar al-Assad, Human rights, Syrian President, United States_
+_Context: 2011 Syrian uprising, Bashar al-Assad, Human rights, President, United States_
 
 ### [The United Nations claims that Sudan has bombed a village in Darfur. ](/news/2011/05/18/the-united-nations-claims-that-sudan-has-bombed-a-village-in-darfur.md)
 Sudan has carried out another air strike on a village in the troubled western region of Darfur, according to the UN.

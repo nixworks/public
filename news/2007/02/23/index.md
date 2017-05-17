@@ -16,7 +16,7 @@ _Context: Norway, Oslo, cluster bomb, international agreement_
 _Context: Cumbria, Grayrigg rail crash, Pendolino, United Kingdom, Virgin Trains, train_
 
 ### [ Iraq War: Democratic Party members of the United States Senate are planning a challenge to the authority given to President Bush in 2002. ](/news/2007/02/23/iraq-war-p-democratic-party-members-of-the-united-states-senate-are-planning-a-challenge-to-the-authority-given-to-president-bush-in-2002.md)
-_Context: 2002, D, George W. Bush, Iraq War, U.S. President, United States Senate, authority_
+_Context: 2002, D, George W. Bush, Iraq War, President, United States Senate, authority_
 
 ### [ A fire in a nursing home in Alsunga, Latvia, kills at least 26 people. ](/news/2007/02/23/a-fire-in-a-nursing-home-in-alsunga-latvia-kills-at-least-26-people.md)
 _Context: Alsunga, Latvia, nursing home_

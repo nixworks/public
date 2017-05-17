@@ -1,7 +1,7 @@
 ## [2016-02-29](/news/2016/02/29/index.md)
 
 ### [At least 40 people are killed and 58 others wounded following a suicide bombing at a Shi'ite funeral in the city of Miqdadiyah, Diyala Governorate. ISIL claim responsibility for the attack. ](/news/2016/02/29/at-least-40-people-are-killed-and-58-others-wounded-following-a-suicide-bombing-at-a-shi-ite-funeral-in-the-city-of-miqdadiyah-diyala-gover.md)
-_Context: Diyala Governorate, Iraqi Civil War (2014-present), Islamic State of Iraq and the Levant, Miqdadiyah, Shi'ites_
+_Context: Diyala Governorate, Iraqi Civil War (2014-present), Islamic State, Miqdadiyah, Shi'ites_
 
 ### [China says it expects to lay off 1.8 million state workers in the coal and steel sectors, or about 15 percent of the industries' workforce, as part of efforts to reduce industrial overcapacity. ](/news/2016/02/29/china-says-it-expects-to-lay-off-1-8-million-state-workers-in-the-coal-and-steel-sectors-or-about-15-percent-of-the-industries-workforce.md)
 China said on Monday it expects to lay off 1.8 million workers in the coal and steel industries, or about 15 percent of the workforce, as part of efforts to reduce industrial overcapacity, but no timeframe was given.

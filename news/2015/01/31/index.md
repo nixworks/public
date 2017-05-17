@@ -7,7 +7,7 @@ _Context: Russia, Ukrainian, eastern Ukraine, military intervention in Ukraine_
 Congolese government troops have started their long-awaited offensive against Rwandan Hutu rebels in the east of the country, the DR Congo&#x27;s foreign minister said Saturday. The Kinshasa government and the international community had given the FDLR -- the Democratic Forces for the Liberation of Rwanda
 
 ### [A monitoring group claims that ISIL has reportedly released a video showing the execution of Japanese hostage Kenji Goto. ](/news/2015/01/31/a-monitoring-group-claims-that-isil-has-reportedly-released-a-video-showing-the-execution-of-japanese-hostage-kenji-goto.md)
-_Context: Islamic State of Iraq and the Levant, Japanese, Kenji Goto_
+_Context: Islamic State, Japanese, Kenji Goto_
 
 ### [France orders an official investigation into the crash of AirAsia Flight 8501 which had a French copilot flying the aircraft at the time of its crash. ](/news/2015/01/31/france-orders-an-official-investigation-into-the-crash-of-airasia-flight-8501-which-had-a-french-copilot-flying-the-aircraft-at-the-time-of.md)
 _Context: France, Indonesia AirAsia Flight 8501_

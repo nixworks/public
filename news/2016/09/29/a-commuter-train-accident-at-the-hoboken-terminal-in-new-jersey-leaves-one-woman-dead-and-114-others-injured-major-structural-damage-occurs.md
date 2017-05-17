@@ -13,7 +13,7 @@ One person was killed and 108 were hurt after a crowded train slammed into a bus
 
 ### Related:
 
-1. [A Philadelphia-originating Learjet crash in Carlstadt as it approached Teterboro Airport in New Jersey kills at least two people. ](/news/2017/05/15/a-philadelphia-originating-learjet-crash-in-carlstadt-as-it-approached-teterboro-airport-in-new-jersey-kills-at-least-two-people.md) _Context: New Jersey_
+1. [A Philadelphia-originating Learjet crashes in Carlstadt as it approached Teterboro Airport in New Jersey, killing at least two people. ](/news/2017/05/15/a-philadelphia-originating-learjet-crashes-in-carlstadt-as-it-approached-teterboro-airport-in-new-jersey-killing-at-least-two-people.md) _Context: New Jersey_
 2. [Voters go to the polls in six states, including California and New Jersey, with Hillary Clinton gaining enough delegates to become the presumptive nominee of the Democratic Party. She will be the first woman nominee by a major party to run for President of the United States. ](/news/2016/06/7/voters-go-to-the-polls-in-six-states-including-california-and-new-jersey-with-hillary-clinton-gaining-enough-delegates-to-become-the-presu.md) _Context: New Jersey_
 3. [ Michelle Lodzinski is convicted of murdering her five-year-old son Timothy Wiltsey 25 years ago in New Jersey. ](/news/2016/05/18/michelle-lodzinski-is-convicted-of-murdering-her-five-year-old-son-timothy-wiltsey-25-years-ago-in-new-jersey.md) _Context: New Jersey_
 4. [New Jersey Governor Chris Christie suspends his campaign for the Republican Party nomination for President of the United States. ](/news/2016/02/10/new-jersey-governor-chris-christie-suspends-his-campaign-for-the-republican-party-nomination-for-president-of-the-united-states.md) _Context: New Jersey_

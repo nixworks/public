@@ -22,7 +22,7 @@ _Context: Mahmoud Abbas, Moscow, Palestinian Authority President, Russia_
 _Context: Arak, International Atomic Energy Agency, Iran_
 
 ### [ The Chief Justice of the United States John Roberts is hospitalized after suffering a seizure at his summer home in Maine. ](/news/2007/07/30/the-chief-justice-of-the-united-states-john-roberts-is-hospitalized-after-suffering-a-seizure-at-his-summer-home-in-maine.md)
-_Context: Chief Justice, John Roberts, Maine_
+_Context: Chief Justice, John G. Roberts, Jr., Maine_
 
 ### [ The President of the United States George W. Bush and the Prime Minister of the United Kingdom Gordon Brown pledge to continue close relations in their first meeting. ](/news/2007/07/30/the-president-of-the-united-states-george-w-bush-and-the-prime-minister-of-the-united-kingdom-gordon-brown-pledge-to-continue-close-relati.md)
 Prime Minister Gordon Brown of Britain indicated that he mostly shared President Bush’s views on terrorism and the wars in Iraq and Afghanistan.

@@ -10,7 +10,7 @@ _Context: Benedict XVI, Brazil, Catholic, Pacaembu stadium, Sao Paulo_
 _Context: Korean Demilitarized Zone, Korean War, North Korea, South Korea_
 
 ### [ President Bashar al-Assad states that Syria will not cooperate with a United Nations tribunal to try suspects in the suspected assassination of former Prime Minister of Lebanon Rafiq al-Hariri. ](/news/2007/05/10/president-bashar-al-assad-states-that-syria-will-not-cooperate-with-a-united-nations-tribunal-to-try-suspects-in-the-suspected-assassinatio.md)
-_Context: Bashar al-Assad, Prime Minister, Rafiq al-Hariri, Syria, Syrian President, United Nations, assassinated_
+_Context: Bashar al-Assad, President, Prime Minister, Rafiq al-Hariri, Syria, United Nations, assassinated_
 
 ### [ The Grand National Assembly of Turkey votes overwhelmingly in favour of a proposal for the direct election of the President of Turkey. ](/news/2007/05/10/the-grand-national-assembly-of-turkey-votes-overwhelmingly-in-favour-of-a-proposal-for-the-direct-election-of-the-president-of-turkey.md)
 _Context: President, Turkish Parliament, direct election_

@@ -10,7 +10,7 @@ BEIRUT - The Islamic State group threatened Britain in an Internet video Sunday 
 Reviewing the Pathankot air base attack, Prime Minister Narendra Modi is currently meeting with Parrikar, Swaraj and NSA Ajit Doval. Two terrorists are still holed-up inside the base.
 
 ### [The Islamic State of Iraq and the Levant's branch in Libya attacks the Libyan oil port of Sidra, which is Libya's largest oil depot. Two members of the Petrol Facilities Guard militia, which is defending Sidra, were reportedly killed in clashes. Islamic State militants were reportedly pushed back from the port, but the group now says it controls the town of Bin Jawad, 30km west of Sidra on the road from its stronghold in Sirte. ](/news/2016/01/4/the-islamic-state-of-iraq-and-the-levant-s-branch-in-libya-attacks-the-libyan-oil-port-of-sidra-which-is-libya-s-largest-oil-depot-two-mem.md)
-_Context: Bin Jawad, ISIL, Islamic State of Iraq and the Levant, Libya, Libyan Civil War (2014-present), Sidra, Sirte, oil depot_
+_Context: Bin Jawad, ISIL, Islamic State, Libya, Libyan Civil War (2014-present), Sidra, Sirte, oil depot_
 
 ### [ Trading on the Shanghai Stock Exchange and the Shenzhen Stock Exchange are suspended for the day after stock indices plummeted by 6.85% and 8.1% respectively. ](/news/2016/01/4/trading-on-the-shanghai-stock-exchange-and-the-shenzhen-stock-exchange-are-suspended-for-the-day-after-stock-indices-plummeted-by-6-85-and.md)
 Wall Street closed sharply lower Monday after weak Chinese economic data ignited fears of global growth and sparked a selloff in stock markets across the world.
@@ -28,7 +28,7 @@ Saudi Arabia widened its rift with Iran on Monday, saying it would end air traff
 Denmark tightens its border controls with Germany, just hours after Sweden imposed similar measures to reduce the flow of migrants from Denmark.
 
 ### [The President of the United States Barack Obama announces executive orders to expand background checks for firearms and toughen regulation of firearms. ](/news/2016/01/4/the-president-of-the-united-states-barack-obama-announces-executive-orders-to-expand-background-checks-for-firearms-and-toughen-regulation-o.md)
-_Context: Obama, U.S. President, background check, firearms_
+_Context: Obama, President, background check, firearms_
 
 ### [German police begin investigations into a gang of up to 1,000 men of North African and Arab appearance who committed sexual assaults on women in Cologne's main square on New Year's Eve. ](/news/2016/01/4/german-police-begin-investigations-into-a-gang-of-up-to-1-000-men-of-north-african-and-arab-appearance-who-committed-sexual-assaults-on-wome.md)
 _Context: Arab, Cologne, German, New Year's Eve sexual assaults in Germany, North African_

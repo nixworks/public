@@ -1,7 +1,7 @@
 ## [2007-04-3](/news/2007/04/3/index.md)
 
 ### [ United States Speaker of the House of Representatives Nancy Pelosi travels to Syria for talks with President Bashar al-Assad as she continues a visit to the Middle East disregarding the objections of the Bush administration. ](/news/2007/04/3/united-states-speaker-of-the-house-of-representatives-nancy-pelosi-travels-to-syria-for-talks-with-president-bashar-al-assad-as-she-continu.md)
-_Context: Bashar al-Assad, George W. Bush administration, Middle East, Nancy Pelosi, Syria, Syrian President, United States Speaker of the House of Representatives_
+_Context: Bashar al-Assad, George W. Bush administration, Middle East, Nancy Pelosi, President, Syria, United States Speaker of the House of Representatives_
 
 ### [ The 14th annual summit of the South Asian Association for Regional Cooperation (SAARC) begins in New Delhi, India, and Afghanistan becomes its 8th member. ](/news/2007/04/3/the-14th-annual-summit-of-the-south-asian-association-for-regional-cooperation-saarc-begins-in-new-delhi-india-and-afghanistan-becomes.md)
 _Context: Afghanistan, India, New Delhi, South Asian Association for Regional Cooperation_
