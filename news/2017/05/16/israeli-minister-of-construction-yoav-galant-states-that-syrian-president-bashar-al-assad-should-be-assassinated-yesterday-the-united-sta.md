@@ -1,6 +1,6 @@
 ### [2017-05-16](/news/2017/05/16/index.md)
 
-# Israeli Minister of Construction Yoav Galant states that Syrian President Bashar al-Assad should be assassinated.  Yesterday, the United States Department of State accused the al-Assad government of using a crematory at Sednaya Prison to cover up the mass murders of thousands of political prisoners. The Syrian government denied the accusations. 
+# Israeli Minister of Construction Yoav Galant states that Syrian President Bashar al-Assad should be assassinated.  Yesterday, the United States Department of State accused the al-Assad government of using a crematory at Sednaya Prison to cover up the mass murders of thousands of political prisoners. The Syrian government denies the accusations. 
 
 An Israeli cabinet member on Tuesday claimed that Syrian President Bashar al-Assad should not simply be removed from office -- he should be killed.
 

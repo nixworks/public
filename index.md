@@ -1,35 +1,30 @@
-## [News](/news/2017/05/17/index.md)
+## [News](/news/2017/05/16/index.md)
 
-### [Southern Africa the only absolute tourist distenation terrorised by armyworm,posing drought/femane,starvation,hunger to humaninity and wildlife{ also electromagnetic cybercrime envading most firefoxes technology,craftmanship,conmen enbezelment,corruption spilling wrong spelling on tweets and unemployement poluting most ubern cities teenage pregnancy robbery political Djs} ](/news/2017/05/17/southern-africa-the-only-absolute-tourist-distenation-terrorised-by-armyworm-posing-drought-femane-starvation-hunger-to-humaninity-and-wildl.md)
+### [The Office for National Statistics in the United Kingdom states that consumer prices in Britain rose by an annualized 2.7% in April, the highest level of inflation in almost four years. ](/news/2017/05/16/the-office-for-national-statistics-in-the-united-kingdom-states-that-consumer-prices-in-britain-rose-by-an-annualized-2-7-in-april-the-hig.md)
+British inflation hit its highest level since September 2013 last month, extending its sharp rise since the vote to leave the European Union and tightening the squeeze on living costs as a national election approaches.
+
+### [Israeli Minister of Construction Yoav Galant states that Syrian President Bashar al-Assad should be assassinated.  Yesterday, the United States Department of State accused the al-Assad government of using a crematory at Sednaya Prison to cover up the mass murders of thousands of political prisoners. The Syrian government denies the accusations. ](/news/2017/05/16/israeli-minister-of-construction-yoav-galant-states-that-syrian-president-bashar-al-assad-should-be-assassinated-yesterday-the-united-sta.md)
+An Israeli cabinet member on Tuesday claimed that Syrian President Bashar al-Assad should not simply be removed from office -- he should be killed.
+
+### [In a series of tweets, President Donald Trump acknowledges that he shared classified information with Russian envoys, contradicting earlier White House denials. ](/news/2017/05/16/in-a-series-of-tweets-president-donald-trump-acknowledges-that-he-shared-classified-information-with-russian-envoys-contradicting-earlier.md)
+Israel was reportedly worried that top secret information may pass to Russia, then Iran.
+
+### [''The New York Times'' reports that a memo from James Comey, read in part to a reporter by a Comey associate, revealed that President Donald Trump asked him to end the F.B.I. investigation of Michael T. Flynn. The White House denies the version of events in the memo. ](/news/2017/05/16/the-new-york-times-reports-that-a-memo-from-james-comey-read-in-part-to-a-reporter-by-a-comey-associate-revealed-that-president-donald.md)
+The Republican chairman of the House Oversight Committee demanded Tuesday that the FBI turn over all documents it has about communications between President Donald Trump and former FBI Director James Comey. Chairman Jason Chaffetz of Utah sent the letter a few hours after it was reported that Trump allegedly asked Comey to end the FBI&#x27;s investigation into former National Security Adviser Michael Flynn, who resigned in February following reports that he misled Vice President Mike Pence about his conversations with Russia&#x27;s ambassador to the United States.
+
+### [In an expected event, Eshaq Jahangiri withdraws his candidacy and urges his supporters to vote for incumbent president Hassan Rouhani. ](/news/2017/05/16/in-an-expected-event-eshaq-jahangiri-withdraws-his-candidacy-and-urges-his-supporters-to-vote-for-incumbent-president-hassan-rouhani.md)
+Eshaq Jahangiri pulled out to smooth the path for the moderate incumbent, Hassan Rouhani.
+
+### [The first synchrotron in the Middle East, SESAME, opens in Jordan, marking a rare cooperation between Iran, Israel, Turkey, and the Palestinian Authority.  ](/news/2017/05/16/the-first-synchrotron-in-the-middle-east-sesame-opens-in-jordan-marking-a-rare-cooperation-between-iran-israel-turkey-and-the-palestin.md)
+An advanced research centre to be shared by the troubled region has opened today in Jordan.
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
 
 ---
 
-## [Yesterday](/news/2017/05/16/index.md)
-
-### [The Office for National Statistics in the United Kingdom states that consumer prices in Britain rose by an annualized 2.7% in April, the highest level of inflation in almost four years. ](/news/2017/05/16/the-office-for-national-statistics-in-the-united-kingdom-states-that-consumer-prices-in-britain-rose-by-an-annualized-2-7-in-april-the-hig.md)
-British inflation hit its highest level since September 2013 last month, extending its sharp rise since the vote to leave the European Union and tightening the squeeze on living costs as a national election approaches.
-
-### [Israeli Minister of Construction Yoav Galant states that Syrian President Bashar al-Assad should be assassinated.  Yesterday, the United States Department of State accused the al-Assad government of using a crematory at Sednaya Prison to cover up the mass murders of thousands of political prisoners. The Syrian government denied the accusations. ](/news/2017/05/16/israeli-minister-of-construction-yoav-galant-states-that-syrian-president-bashar-al-assad-should-be-assassinated-yesterday-the-united-sta.md)
-An Israeli cabinet member on Tuesday claimed that Syrian President Bashar al-Assad should not simply be removed from office -- he should be killed.
-
-### [In a series of tweets, President Donald Trump acknowledged that he shared classified information with Russian envoys, contradicting earlier White House denials. ](/news/2017/05/16/in-a-series-of-tweets-president-donald-trump-acknowledged-that-he-shared-classified-information-with-russian-envoys-contradicting-earlier.md)
-Israel was reportedly worried that top secret information may pass to Russia, then Iran.
-
-### [''The New York Times'' reports that a memo from James Comey, read in part to a reporter by a Comey associate, revealed that President Donald Trump asked him to end the F.B.I. investigation of Michael T. Flynn. The White House denies the version of events in the memo. ](/news/2017/05/16/the-new-york-times-reports-that-a-memo-from-james-comey-read-in-part-to-a-reporter-by-a-comey-associate-revealed-that-president-donald.md)
-The Republican chairman of the House Oversight Committee demanded Tuesday that the FBI turn over all documents it has about communications between President Donald Trump and former FBI Director James Comey. Chairman Jason Chaffetz of Utah sent the letter a few hours after it was reported that Trump allegedly asked Comey to end the FBI&#x27;s investigation into former National Security Adviser Michael Flynn, who resigned in February following reports that he misled Vice President Mike Pence about his conversations with Russia&#x27;s ambassador to the United States.
-
-### [In an expected event, Eshaq Jahangiri withdrew his candidacy and urged his supporters to vote Incumbent President Hassan Rouhani. ](/news/2017/05/16/in-an-expected-event-eshaq-jahangiri-withdrew-his-candidacy-and-urged-his-supporters-to-vote-incumbent-president-hassan-rouhani.md)
-Eshaq Jahangiri pulled out to smooth the path for the moderate incumbent, Hassan Rouhani.
-
-### [The first synchrotron in the Middle East, SESAME, opens in Jordan, marking rare cooperation between Iran, Israel, Turkey, and the Palestinian Authority.  ](/news/2017/05/16/the-first-synchrotron-in-the-middle-east-sesame-opens-in-jordan-marking-rare-cooperation-between-iran-israel-turkey-and-the-palestinia.md)
-An advanced research centre to be shared by the troubled region has opened today in Jordan.
-
----
-
-## [Day Before Yesterday](/news/2017/05/15/index.md)
+## [Yesterday](/news/2017/05/15/index.md)
 
 ### [Western Digital appeals to arbitration in an effort to prevent its partner Toshiba, from selling its chip-making operation, Toshiba Memory. ](/news/2017/05/15/western-digital-appeals-to-arbitration-in-an-effort-to-prevent-its-partner-toshiba-from-selling-its-chip-making-operation-toshiba-memory.md)
 Western Digital Corp (WDC.O) has sought international arbitration to stop partner Toshiba Corp (6502.T) from selling its chips arm without its consent, potentially derailing a much-needed capital injection for the Japanese conglomerate.
@@ -66,7 +61,29 @@ _Context: Iranian presidential election, 2017, Mohammad Bagher Ghalibaf, candida
 
 ---
 
-## [Previous Day...](/news/2017/05/14/index.md)
+## [Day Before Yesterday](/news/2017/05/14/index.md)
+
+### [According to the International Committee of the Red Cross, a cholera outbreak has since April 27 killed at least 115 people and left another 8,500 ill across Yemen. ](/news/2017/05/14/according-to-the-international-committee-of-the-red-cross-a-cholera-outbreak-has-since-april-27-killed-at-least-115-people-and-left-another.md)
+_Context: International Committee of the Red Cross, Yemen, Yemeni Civil War, cholera_
+
+### [Shortly after the attack began a researcher found an effective kill switch, which prevented many new infections, and allowed time to patch systems. This greatly slowed the spread. Cyber security authorities discover new versions that lack the kill switch. ](/news/2017/05/14/shortly-after-the-attack-began-a-researcher-found-an-effective-kill-switch-which-prevented-many-new-infections-and-allowed-time-to-patch-s.md)
+As the world readies to open for business on Monday, companies and governments are bracing for a second round of cyberattacks in the aftermath of Friday&#039;s..
+
+### [U.S. and South Korean officials confirm that North Korea launched a test missile from the west coast city of Kusong. The projectile travelled to the east for 30 minutes and 435|mi|km reaching an altitude of more than 1245|mi|km before landing in the Sea of Japan, 60|mi|km south of the Russian city of Vladivostok. ](/news/2017/05/14/u-s-and-south-korean-officials-confirm-that-north-korea-launched-a-test-missile-from-the-west-coast-city-of-kusong-the-projectile-travelle.md)
+Japan says it reached an altitude of 2,000km which, if confirmed, could show a technological advance.
+
+### [The Government of China begins a two-day summit in Beijing, in an attempt to raise international support for its Belt and Road Initiative. ](/news/2017/05/14/the-government-of-china-begins-a-two-day-summit-in-beijing-in-an-attempt-to-raise-international-support-for-its-belt-and-road-initiative.md)
+The Chinese Government is inviting world leaders to Beijing to sell them its hugely ambitious, signature One Belt One Road project.
+
+### [Voters in the German state of North Rhine-Westphalia head to the polls, with the media suggesting a victory for Angela Merkel's CDU over the SPD, who have lead the state for all but five years since 1966. ](/news/2017/05/14/voters-in-the-german-state-of-north-rhine-westphalia-head-to-the-polls-with-the-media-suggesting-a-victory-for-angela-merkel-s-cdu-over-the.md)
+German media projections show clear win for Merkel&#39;s party and defeat for social-democrats in their own stronghold.
+
+### [France swears in Emmanuel Macron as the 25th President of France. ](/news/2017/05/14/france-swears-in-emmanuel-macron-as-the-25th-president-of-france.md)
+New French President Emmanuel Macron pledges to work to overcome divisions in society.
+
+---
+
+## [Previous Day...](/news/2017/05/13/index.md)
 
 ---
 
