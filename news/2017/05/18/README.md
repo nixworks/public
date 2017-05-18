@@ -3,6 +3,12 @@
 ### [Roger Ailes, the former Chairman and founding CEO of Fox News dies at the age of 77. ](/news/2017/05/18/roger-ailes-the-former-chairman-and-founding-ceo-of-fox-news-dies-at-the-age-of-77.md)
 _Context: Fox News, Roger Ailes_
 
+### [Chris Cornell, the lead vocalist for the Seattle rock band Soundgarden, dies after a concert at the age of 52. ](/news/2017/05/18/chris-cornell-the-lead-vocalist-for-the-seattle-rock-band-soundgarden-dies-after-a-concert-at-the-age-of-52.md)
+_Context: Chris Cornell, Soundgarden_
+
+### [An automobile crashes into pedestrians in New York City's Times Square, killing one person and injuring several others. ](/news/2017/05/18/an-automobile-crashes-into-pedestrians-in-new-york-city-s-times-square-killing-one-person-and-injuring-several-others.md)
+At least one person has died and nearly two dozen were hurt when a wrong-way driver slammed into a crowd of pedestrians in Times Square Thursday, senior officials familiar with the investigation tell NBC 4...
+
 ### [Official campaigning  ends with opinion polling showing Hassan Rouhani and Ebrahim Raisi as the two leading candidates. ](/news/2017/05/18/official-campaigning-ends-with-opinion-polling-showing-hassan-rouhani-and-ebrahim-raisi-as-the-two-leading-candidates.md)
 Supporters of the two leading candidates in Iran’s presidential election took to the streets as official campaigning came to an end.
 
