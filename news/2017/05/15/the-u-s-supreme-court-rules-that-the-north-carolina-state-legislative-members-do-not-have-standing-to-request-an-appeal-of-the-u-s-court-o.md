@@ -1,6 +1,6 @@
 ### [2017-05-15](/news/2017/05/15/index.md)
 
-# The U.S. Supreme Court rules that the North Carolina state legislative members do not have standing to request an appeal of the U.S. Court of Appeals for the Fourth Circuit ruling against a law which barred unidentified voters from the ballot. 
+# The U.S. Supreme Court rules that the North Carolina state legislative members do not have standing to request an appeal of the U.S. Court of Appeals for the Fourth Circuit ruling against a law which it found discriminated against black voters. 
 
 
 
