@@ -11,7 +11,7 @@ Iranian President Hassan Rouhani launched a stinging attack on his main conserva
 
 ### Related:
 
-1. [Campaigning official date ends while opinion polling shows competition between two main candidates Hassan Rouhani and Ebrahim Raisi. ](/news/2017/05/18/campaigning-official-date-ends-while-opinion-polling-shows-competition-between-two-main-candidates-hassan-rouhani-and-ebrahim-raisi.md) _Context: Hassan Rouhani, Iranian presidential election, 2017_
+1. [Official campaigning  ends with opinion polling showing Hassan Rouhani and Ebrahim Raisi as the two leading candidates. ](/news/2017/05/18/official-campaigning-ends-with-opinion-polling-showing-hassan-rouhani-and-ebrahim-raisi-as-the-two-leading-candidates.md) _Context: Hassan Rouhani, Iranian presidential election, 2017_
 2. [In an expected event, Eshaq Jahangiri withdraws his candidacy and urges his supporters to vote for incumbent president Hassan Rouhani. ](/news/2017/05/16/in-an-expected-event-eshaq-jahangiri-withdraws-his-candidacy-and-urges-his-supporters-to-vote-for-incumbent-president-hassan-rouhani.md) _Context: Hassan Rouhani, Iranian presidential election, 2017_
 3. [The first six-man televised debate is held, which focused mostly on social issues. ](/news/2017/04/28/the-first-six-man-televised-debate-is-held-which-focused-mostly-on-social-issues.md) _Context: Iranian presidential election, 2017, debate_
 4. [The six approved candidates, including the incumbent Hassan Rouhani, begin campaigning. ](/news/2017/04/21/the-six-approved-candidates-including-the-incumbent-hassan-rouhani-begin-campaigning.md) _Context: Hassan Rouhani, Iranian presidential election, 2017_
