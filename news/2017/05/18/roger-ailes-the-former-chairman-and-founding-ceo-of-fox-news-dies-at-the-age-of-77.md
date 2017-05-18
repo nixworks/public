@@ -1,6 +1,6 @@
 ### [2017-05-18](/news/2017/05/18/index.md)
 
-# Roger Ailes, the former Chairman and founding CEO of Fox News dies at the age of 77. 
+# Roger Ailes, the former Chairman and founding CEO of Fox News, dies at the age of 77. 
 
 
 
