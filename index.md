@@ -1,5 +1,8 @@
 ## [News](/news/2017/05/18/index.md)
 
+### [United States aircraft bomb a Syrian regime convoy within a so-called "deconfliction zone" around Al-Tanf. ](/news/2017/05/18/united-states-aircraft-bomb-a-syrian-regime-convoy-within-a-so-called-deconfliction-zone-around-al-tanf.md)
+CBS News correspondent David Martin reports Syrian regime vehicles have violated the deconfliction zone twice within the past few days
+
 ### [Roger Ailes, the former Chairman and founding CEO of Fox News dies at the age of 77. ](/news/2017/05/18/roger-ailes-the-former-chairman-and-founding-ceo-of-fox-news-dies-at-the-age-of-77.md)
 _Context: Fox News, Roger Ailes_
 
