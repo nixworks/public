@@ -46,7 +46,7 @@ _Context: Pakistan, Pervez Musharraf, President_
 _Context: NASA, Spitzer Space Telescope_
 
 ### [ Russian President Dmitry Medvedev delays sending a new ambassador to Ukraine after criticising its "anti-Russian" stance. ](/news/2009/08/11/russian-president-dmitry-medvedev-delays-sending-a-new-ambassador-to-ukraine-after-criticising-its-anti-russian-stance.md)
-_Context: Dmitry Medvedev, Russian President, Ukrainian_
+_Context: Dmitry Medvedev, Russian President, Ukrainians_
 
 ### [ A pilot flying from England to Ireland is airlifted to safety after his two-man aircraft crashes into the Irish Sea near Tuskar Rock. ](/news/2009/08/11/a-pilot-flying-from-england-to-ireland-is-airlifted-to-safety-after-his-two-man-aircraft-crashes-into-the-irish-sea-near-tuskar-rock.md)
 A man has been rescued after his light aircraft ditched into the sea off Co Wexford this afternoon.

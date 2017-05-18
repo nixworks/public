@@ -13,7 +13,7 @@ At least 26 people have been killed in bombings in two major cities in northern 
 Six people have been killed and eight others injured after an out-of-control bin lorry crashed into pedestrians in central Glasgow.
 
 ### [Kazakhstan renews its military cooperation with Ukraine, to which it promises vital supplies of coal, following a visit to Kiev by the Kazakh leader, Nursultan Nazarbayev. ](/news/2014/12/22/kazakhstan-renews-its-military-cooperation-with-ukraine-to-which-it-promises-vital-supplies-of-coal-following-a-visit-to-kiev-by-the-kazak.md)
-_Context: 2014 pro-Russian unrest in Ukraine, Kazakhstan, Kiev, Nursultan Nazarbayev's, Ukrainian_
+_Context: 2014 pro-Russian unrest in Ukraine, Kazakhstan, Kiev, Nursultan Nazarbayev's, Ukrainians_
 
 ### [Eleven (11) of 15 United Nations Security Council members approve placing North Korea's human rights record on the Council's agenda. Russia and China oppose the decision while Chad and Nigeria abstain. This is the first time this issue has been debated by the Security Council. Procedurally, once a topic makes the agenda, that issue can be brought up again at any time. ](/news/2014/12/22/eleven-11-of-15-united-nations-security-council-members-approve-placing-north-korea-s-human-rights-record-on-the-council-s-agenda-russia.md)
 _Context: Chad, China, Human rights, Nigeria, North Korea, Russia, United Nations Security Council, human rights, the agenda_

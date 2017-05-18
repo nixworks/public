@@ -28,7 +28,7 @@ _Context: Japan, Naha International Airport, Okinawa, Typhoon Muifa_
 _Context: Australia, Malaysia, UNICEF, asylum seekers_
 
 ### [Former Prime Minister of Ukraine, and leader of the most numerous opposition party Yulia Tymoshenko is arrested in Kiev. ](/news/2011/08/5/former-prime-minister-of-ukraine-and-leader-of-the-most-numerous-opposition-party-yulia-tymoshenko-is-arrested-in-kiev.md)
-_Context: Kiev, Ukrainian, Yulia Tymoshenko, opposition party_
+_Context: Kiev, Ukrainians, Yulia Tymoshenko, opposition party_
 
 ### [Philippine President Benigno Aquino III meets with rebel Moro Islamic Liberation Front leader Al Haj Murad Ibrahim in Tokyo. ](/news/2011/08/5/philippine-president-benigno-aquino-iii-meets-with-rebel-moro-islamic-liberation-front-leader-al-haj-murad-ibrahim-in-tokyo.md)
 _Context: Benigno Aquino III, Moro Islamic Liberation Front, Philippine, Philippine President, Tokyo_

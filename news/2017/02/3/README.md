@@ -1,7 +1,7 @@
 ## [2017-02-3](/news/2017/02/3/index.md)
 
 ### [According to Afghan Police, eight of their forces have been killed by the Taliban at a checkpoint in Faryab Province. ](/news/2017/02/3/according-to-afghan-police-eight-of-their-forces-have-been-killed-by-the-taliban-at-a-checkpoint-in-faryab-province.md)
-_Context: Afghan border police, Faryab Province, Taliban, War in Afghanistan (2015-present)_
+_Context: Afghan police, Faryab Province, Taliban, War in Afghanistan (2015-present)_
 
 ### [At least 47 ISIL militants have been killed by Turkish and U.S.-led bombing raids by fighter jets on the town of al-Bab in the last 24 hours, with the Turkish Armed Forces attacking 135 other ISIL targets in northern Syria. ](/news/2017/02/3/at-least-47-isil-militants-have-been-killed-by-turkish-and-u-s-led-bombing-raids-by-fighter-jets-on-the-town-of-al-bab-in-the-last-24-hours.md)
 Military says a total of 47 fighters killed in northern Syria in clashes and air raids in the past 24 hours.

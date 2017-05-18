@@ -1,7 +1,7 @@
 ## [2015-07-4](/news/2015/07/4/index.md)
 
 ### [  A rally of war veterans in Kiev calls for Ukraine to abandon the Minsk II ceasefire agreement and to declare war on pro-Russian separatists in the Donbass region. Despite two ceasefire agreements since September, combat operations, including the use of heavy artillery and ballistic missiles, never stopped. ](/news/2015/07/4/a-rally-of-war-veterans-in-kiev-calls-for-ukraine-to-abandon-the-minsk-ii-ceasefire-agreement-and-to-declare-war-on-pro-russian-separatist.md)
-_Context: Kiev, Minsk II, Russia, Ukrainian, War in Donbass_
+_Context: Kiev, Minsk II, Russia, Ukrainians, War in Donbass_
 
 ### [  Yemen's Houthi rebels shell the Saudi Arabian cities of Jizan and Najran with claims of several Saudi soldiers being killed. ](/news/2015/07/4/yemen-s-houthi-rebels-shell-the-saudi-arabian-cities-of-jizan-and-najran-with-claims-of-several-saudi-soldiers-being-killed.md)
 Yemen&#39;s dominant Houthi group and its army allies said on Saturday it had shelled various areas in Saudi Arabia&#39;s Jizan and Najran, killing and wounding several soldiers.

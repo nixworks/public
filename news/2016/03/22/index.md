@@ -22,7 +22,7 @@ Russia and Finland agreed on Tuesday to impose temporary restrictions at two Arc
 A Russian court sentences Ukrainian pilot Nadiya Savchenko to 22 years in jail in a case relating to the deaths of two Russian journalists.
 
 ### [A court in southern Russia finds Ukrainian pilot Nadiya Savchenko guilty of being complicit in the killing of two Russian journalists, killing civilians and illegal border crossing and is sentenced to 22 years in prison and a fine of 30,000 rubles. Savchenko denies all the charges and the Ukrainian government said that they would continue to press for her release. ](/news/2016/03/22/a-court-in-southern-russia-finds-ukrainian-pilot-nadiya-savchenko-guilty-of-being-complicit-in-the-killing-of-two-russian-journalists-killi.md)
-_Context: Nadiya Savchenko, Russia, Ukrainian, rubles_
+_Context: Nadiya Savchenko, Russia, Ukrainians, rubles_
 
 ### [FBI-Apple encryption dispute A federal judge postpones Tuesday's hearing at the government's request. The FBI says a third party demonstrated a  way to access  Syed Rizwan Farook's iPhone. Melanie Newman, U.S. Department of Justice spokeswoman,  says officials are cautiously optimistic a test of this method will allow access to the phone without compromising the data. ](/news/2016/03/22/fbiaapple-encryption-dispute-pa-federal-judge-postpones-tuesday-s-hearing-at-the-government-s-request-the-fbi-says-a-third-party-demonstr.md)
 A federal judge has postponed a hearing set for Tuesday that would have been the next step toward settling the battle between Apple and the FBI.

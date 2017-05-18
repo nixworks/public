@@ -13,7 +13,7 @@ _Context: 1938, Gabriele D'Annunzio, public domain_
 _Context: Bangkok, Thailand, nightclub fire_
 
 ### [ Russia's Gazprom halts deliveries of natural gas to Ukraine after negotiations over prices fail. ](/news/2009/01/1/russia-s-gazprom-halts-deliveries-of-natural-gas-to-ukraine-after-negotiations-over-prices-fail.md)
-_Context: Gazprom, Russia, Russia-Ukraine gas disputes, Ukrainian, natural gas_
+_Context: Gazprom, Russia, Russia-Ukraine gas disputes, Ukrainians, natural gas_
 
 ### [ Slovakia adopts the euro and becomes the 16th member of the Eurozone. ](/news/2009/01/1/slovakia-adopts-the-euro-and-becomes-the-16th-member-of-the-eurozone.md)
 Slovakia joined the euro on Thursday, hoping that membership of the single currency will soften the blow of the global financial crisis and bring about greater economic convergence with richer European Union states.

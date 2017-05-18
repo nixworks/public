@@ -34,7 +34,7 @@ _Context: European Parliament, European Union_
 _Context: Iraq War, United Kingdom, inquiry opens_
 
 ### [ Pirates kill a Ukrainian sailor after an oil tanker is attacked off the coast of Benin. ](/news/2009/11/24/pirates-kill-a-ukrainian-sailor-after-an-oil-tanker-is-attacked-off-the-coast-of-benin.md)
-_Context: Beninese, Ukrainian_
+_Context: Beninese, Ukrainians_
 
 ### [ China executes two people for their role in the tainted milk poisoning scandal. ](/news/2009/11/24/china-executes-two-people-for-their-role-in-the-tainted-milk-poisoning-scandal.md)
 State media says two executed over tainted milk that sickened thousands in 2008.

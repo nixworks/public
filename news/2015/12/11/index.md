@@ -31,7 +31,7 @@ _Context: Alibaba Group Holding Limited, China, English, Hong Kong, South China 
 Reinsurance broker Aon Benfield says the country suffered a $3 bn loss to its economy from severe rainfall and flooding in November and early December
 
 ### [French Foreign Minister Laurent Fabius announces the world climate talks (COP 21) will be extended to at least Saturday. ](/news/2015/12/11/french-foreign-minister-laurent-fabius-announces-the-world-climate-talks-cop-21-will-be-extended-to-at-least-saturday.md)
-_Context: 2015 United Nations Climate Change Conference, French Foreign Minister, Laurent Fabius_
+_Context: 2015 United Nations Climate Change Conference, Laurent Fabius, foreign minister_
 
 ### [Syrian President Bashar al-Assad says he will not negotiate with armed groups, a day after the Syrian opposition's multi-group, two-day meeting in Riyadh agreed on a framework for future negotiations to end the conflict. Assad's statement also appears to put a damper on peace talks Russia and the United States are working to set up. ](/news/2015/12/11/syrian-president-bashar-al-assad-says-he-will-not-negotiate-with-armed-groups-a-day-after-the-syrian-opposition-s-multi-group-two-day-meet.md)
 Syrian President Bashar al-Assad declared on Friday that he would not negotiate with armed groups, appearing to scupper peace talks that Russia and the United States hope to bring about next month.

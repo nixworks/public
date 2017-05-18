@@ -13,7 +13,7 @@ As counting in the General Election comes to a close, Fianna Fáil has won 78 se
 _Context: German, Hambacher Fest_
 
 ### [ Several thousand Ukrainian Interior Ministry troops head for Kiev in defiance of orders to support President Viktor Yushchenko. ](/news/2007/05/26/several-thousand-ukrainian-interior-ministry-troops-head-for-kiev-in-defiance-of-orders-to-support-president-viktor-yushchenko.md)
-_Context: Kiev, Ukrainian, Ukrainian President, Viktor Yushchenko_
+_Context: Kiev, Ukrainian President, Ukrainians, Viktor Yushchenko_
 
 ### [ At least 21 people die in western China in landslides caused by heavy rain. ](/news/2007/05/26/at-least-21-people-die-in-western-china-in-landslides-caused-by-heavy-rain.md)
 _Context: China, landslide_

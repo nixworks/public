@@ -4,7 +4,7 @@
 _Context: CNN, Obama, President-elect, Sanjay Gupta, U.S. Surgeon General, United States, medical correspondent, neurosurgeon_
 
 ### [ Russia's Gazprom alleges that Ukraine has blocked three key gas pipelines to Europe, making natural gas delivery there impossible. ](/news/2009/01/6/russia-s-gazprom-alleges-that-ukraine-has-blocked-three-key-gas-pipelines-to-europe-making-natural-gas-delivery-there-impossible.md)
-_Context: Europe, Gazprom, Russia, Russia-Ukraine gas disputes, Ukrainian, natural gas, pipeline_
+_Context: Europe, Gazprom, Russia, Russia-Ukraine gas disputes, Ukrainians, natural gas, pipeline_
 
 ### [ Israeli artillery strikes near a United Nations school in Gaza City,  killing at least 40 people. ](/news/2009/01/6/israeli-artillery-strikes-near-a-united-nations-school-in-gaza-city-killing-at-least-40-people.md)
 _Context: Gaza, Israel, United Nations, fire, ordnance_

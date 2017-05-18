@@ -10,7 +10,7 @@ _Context: Abdul Rahman, Afghanistan_
 _Context: 2006 Commonwealth Games, 2010 Commonwealth Games, Closing ceremony, Games, Melbourne, New Delhi, Samaresh Jung_
 
 ### [ Voters in Ukraine go to the polls to elect a new Verkhovna Rada (parliament). ](/news/2006/03/26/voters-in-ukraine-go-to-the-polls-to-elect-a-new-verkhovna-rada-parliament.md)
-_Context: 2006 parliamentary election, Ukrainian, Verkhovna Rada_
+_Context: 2006 parliamentary election, Ukrainians, Verkhovna Rada_
 
 ### [ Scotland becomes the first part of the United Kingdom to introduce a full smoking ban in enclosed public places and workplaces. ](/news/2006/03/26/scotland-becomes-the-first-part-of-the-united-kingdom-to-introduce-a-full-smoking-ban-in-enclosed-public-places-and-workplaces.md)
 _Context: Scotland, smoking ban_

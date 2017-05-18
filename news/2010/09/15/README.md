@@ -49,7 +49,7 @@ _Context: Guinea, November's presidential poll_
 _Context: Goodluck Jonathan, Nigeria, President of Nigeria, presidential election_
 
 ### [An anti-American protest in Kabul, sparked in part by the 2010 Qur'an-burning controversy, turns violent with five members of the Afghan National Police being injured and two demonstrators being shot. ](/news/2010/09/15/an-anti-american-protest-in-kabul-sparked-in-part-by-the-2010-qur-an-burning-controversy-turns-violent-with-five-members-of-the-afghan-nat.md)
-_Context: 2010 Qur'an-burning controversy, Afghan border police, Kabul, United States_
+_Context: 2010 Qur'an-burning controversy, Afghan police, Kabul, United States_
 
 ### [North Korea's ruling Workers' Party of Korea cancels its largest political convention in thirty years officially due to floods caused by Typhoon Kompasu  but sparking speculation about the health of Kim Jong-il. ](/news/2010/09/15/north-korea-s-ruling-workers-party-of-korea-cancels-its-largest-political-convention-in-thirty-years-officially-due-to-floods-caused-by-typ.md)
 _Context: Kim Jong-il, North Korea, Typhoon Kompasu, Workers' Party of Korea, flood_

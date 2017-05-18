@@ -37,7 +37,7 @@ Paramedics at the scene of the Booysens station train crash in Johannesburg say 
 All 10 South Africans detained in China a few weeks ago will soon be home, the department of international relations and co-operation has confirmed.
 
 ### [Ukraine expels Valery Shibeko, Russia's top envoy to Odessa, after declaring the consulate general "''persona non grata''" for conducting unnamed activities "incompatible" with his diplomatic work. ](/news/2015/07/17/ukraine-expels-valery-shibeko-russia-s-top-envoy-to-odessa-after-declaring-the-consulate-general-persona-non-grata-for-conducting-un.md)
-_Context: Odessa, Ukrainian, persona non-grata_
+_Context: Odessa, Ukrainians, persona non-grata_
 
 ### [Liza Maza, a human rights activist and former Filipino congresswoman, and the Center for Women's Resources criticized the United States and the Philippines governments for preventing Maza's boarding of a July 9, 2015, Korean Air flight destined for Washington, D.C. Maza, who has a U.S. visa valid until 2018, was scheduled to speak before a left-wing conference on U.S. activities in the Philippines. ](/news/2015/07/17/liza-maza-a-human-rights-activist-and-former-filipino-congresswoman-and-the-center-for-women-s-resources-criticized-the-united-states-and.md)
 “This tribunal will contribute to this record and, hopefully, the people will use its results to end impunity.” Related story | ‘Still no justice’ | Torture survivors under Arroyo govt

@@ -11,4 +11,5 @@
 
 ### Related:
 
-1. [ At least 68 people have been killed this month in clashes between Bundu dia Kongo and police in the west of the Democratic Republic of the Congo. ](/news/2008/03/16/at-least-68-people-have-been-killed-this-month-in-clashes-between-bundu-dia-kongo-and-police-in-the-west-of-the-democratic-republic-of-the.md) _Context: Bundu dia Kongo_
+1. [Bundu dia Kongo followers free their leader and 50 other inmates with an attack on the Makala jail of Kinshasa, Democratic Republic of the Congo. ](/news/2017/05/17/bundu-dia-kongo-followers-free-their-leader-and-50-other-inmates-with-an-attack-on-the-makala-jail-of-kinshasa-democratic-republic-of-the-c.md) _Context: Bundu dia Kongo_
+2. [ At least 68 people have been killed this month in clashes between Bundu dia Kongo and police in the west of the Democratic Republic of the Congo. ](/news/2008/03/16/at-least-68-people-have-been-killed-this-month-in-clashes-between-bundu-dia-kongo-and-police-in-the-west-of-the-democratic-republic-of-the.md) _Context: Bundu dia Kongo_

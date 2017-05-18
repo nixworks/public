@@ -4,7 +4,7 @@
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
 ### [  At least 11 Afghan policemen are killed in a suspected Taliban attack on security checkpoints in Helmand province. ](/news/2016/05/30/at-least-11-afghan-policemen-are-killed-in-a-suspected-taliban-attack-on-security-checkpoints-in-helmand-province.md)
-_Context: Afghan border police, Helmand Province, Taliban, War in Afghanistan (2015-present)_
+_Context: Afghan police, Helmand Province, Taliban, War in Afghanistan (2015-present)_
 
 ### [  Two Turkish police officers are killed in a suspected Kurdistan Workers' Party (PKK) bomb attack in the eastern province of Van. ](/news/2016/05/30/two-turkish-police-officers-are-killed-in-a-suspected-kurdistan-workersa-party-pkk-bomb-attack-in-the-eastern-province-of-van.md)
 Two police officers were killed on May 30 in an outlawed Kurdistan Workers’ Party (PKK) bomb attack in the İpekyolu district of the eastern province of Van

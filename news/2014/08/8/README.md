@@ -10,7 +10,7 @@ Tens of thousands of Yazidis have taken refuge on a mountain in Sinjar province 
 _Context: DotA 2_
 
 ### [Ukraine's government picks 172 individuals and 65 companies that will face sanctions for "support and financing of terrorism" or responsible for crimes on country's territory during the pro-Russian unrest. ](/news/2014/08/8/ukraineas-government-picks-172-individuals-and-65-companies-that-will-face-sanctions-for-support-and-financing-of-terrorism-or-responsib.md)
-_Context: 2014 pro-Russian unrest in Ukraine, Ukrainian_
+_Context: 2014 pro-Russian unrest in Ukraine, Ukrainians_
 
 ### [Malaysia's state investment company Khazanah Nasional announces plans to delist Malaysia Airlines and make it fully state-owned while the business is overhauled. ](/news/2014/08/8/malaysia-s-state-investment-company-khazanah-nasional-announces-plans-to-delist-malaysia-airlines-and-make-it-fully-state-owned-while-the-bu.md)
 _Context: Khazanah Nasional, Malaysia, Malaysia Airlines_

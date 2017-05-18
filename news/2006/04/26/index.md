@@ -10,7 +10,7 @@ _Context: Noam Chomsky, Tim Gentner, University of California at San Diego, gram
 _Context: Tony Snow, White House Press Secretary_
 
 ### [ Ukraine marks the 20th anniversary of the Chernobyl nuclear power station explosion. ](/news/2006/04/26/ukraine-marks-the-20th-anniversary-of-the-chernobyl-nuclear-power-station-explosion.md)
-_Context: Chernobyl disaster, Ukrainian_
+_Context: Chernobyl disaster, Ukrainians_
 
 ### [ Snyder Rini resigns as Prime Minister of the Solomon Islands immediately before facing a motion of no confidence in Parliament, prompting celebrations in the streets of Honiara. ](/news/2006/04/26/snyder-rini-resigns-as-prime-minister-of-the-solomon-islands-immediately-before-facing-a-motion-of-no-confidence-in-parliament-prompting-c.md)
 _Context: Honiara, Prime Minister of the Solomon Islands, Snyder Rini, no-confidence_

@@ -1,7 +1,7 @@
 ## [2014-09-15](/news/2014/09/15/index.md)
 
 ### [War in Donbass:Heavy shelling on the city of Donetsk, Ukraine, leaves 6 people dead and 15 wounded. ](/news/2014/09/15/war-in-donbass-pheavy-shelling-on-the-city-of-donetsk-ukraine-leaves-6-people-dead-and-15-wounded.md)
-_Context: Donetsk, Ukrainian, War in Donbass_
+_Context: Donetsk, Ukrainians, War in Donbass_
 
 ### [Information technology company Cognizant agrees to buy health care information company TriZetto Corporation for US$2.7 billion. ](/news/2014/09/15/information-technology-company-cognizant-agrees-to-buy-health-care-information-company-trizetto-corporation-for-us-2-7-billion.md)
 _Context: Cognizant, U.S. dollar_

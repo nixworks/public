@@ -1,7 +1,7 @@
 ## [2016-05-14](/news/2016/05/14/index.md)
 
 ### [At least two people are killed and 12 injured after a suicide bomb attack on a police training center in Helmand Province. ](/news/2016/05/14/at-least-two-people-are-killed-and-12-injured-after-a-suicide-bomb-attack-on-a-police-training-center-in-helmand-province.md)
-_Context: Afghan border police, Helmand Province, War in Afghanistan (2015-present), suicide bomb_
+_Context: Afghan police, Helmand Province, War in Afghanistan (2015-present), suicide bomb_
 
 ### [Turkey's Anadolu Agency reports that 45 Islamic State of Iraq and the Levant militants have been killed by a combination  of Turkish Army shelling and a U.S. air strike north of Aleppo. ](/news/2016/05/14/turkey-s-anadolu-agency-reports-that-45-islamic-state-of-iraq-and-the-levant-militants-have-been-killed-by-a-combination-of-turkish-army-sh.md)
 MIDEAST CRISIS/SYRIA-TURKEY:Turkish shelling, coalition air strike kills 45 IS militants in Syria-Anadolu
@@ -10,7 +10,7 @@ MIDEAST CRISIS/SYRIA-TURKEY:Turkish shelling, coalition air strike kills 45 IS m
 An official says more than a dozen suicide bombers have attacked a residential and government complex outside Baghdad, killing at least six people.
 
 ### [Ukraine's Jamala, performing the song "1944", wins the 2016 Eurovision Song Contest in Stockholm, Sweden. ](/news/2016/05/14/ukraine-s-jamala-performing-the-song-1944-wins-the-2016-eurovision-song-contest-in-stockholm-sweden.md)
-_Context: 1944, Eurovision Song Contest, Eurovision Song Contest 2016, Jamala, Stockholm, Sweden, Ukraine in the Eurovision Song Contest 2016, Ukrainian_
+_Context: 1944, Eurovision Song Contest, Eurovision Song Contest 2016, Jamala, Stockholm, Sweden, Ukraine in the Eurovision Song Contest 2016, Ukrainians_
 
 ### [More than 50 have been killed by lightning strikes in Bangladesh over the past two days. ](/news/2016/05/14/more-than-50-have-been-killed-by-lightning-strikes-in-bangladesh-over-the-past-two-days.md)
 Police in Bangladesh say more than 50 people across the country have died after being struck by lightning in the past two days.

@@ -16,7 +16,7 @@ _Context: Bloc Qubcois, Canadian House of Commons, Conservative Party's, Liberal
 Get the latest breaking news across the U.S. on ABCNews.com
 
 ### [ G8 countries urge Ukraine to cover the Chernobyl nuclear plant. ](/news/2005/05/10/g8-countries-urge-ukraine-to-cover-the-chernobyl-nuclear-plant.md)
-_Context: Chernobyl, Group of Eight, Ukrainian, nuclear plant_
+_Context: Chernobyl, Group of Eight, Ukrainians, nuclear plant_
 
 ### [ The Maldives government releases dissident Fathimath Nisreen. Two others, Mohamed Zaki and Ahmad Didi, remain in custody. ](/news/2005/05/10/the-maldives-government-releases-dissident-fathimath-nisreen-two-others-mohamed-zaki-and-ahmad-didi-remain-in-custody.md)
 _Context: Ahmad Didi, Fathimath Nisreen, Maldives, Mohamed Zaki_

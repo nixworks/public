@@ -19,7 +19,7 @@ In the latest terror attack linked to the Islamic State, at least 29 people were
 At least 22 people have been killed by three suicide bombings targeting checkpoints in the southern Yemeni city of Aden, officials say.
 
 ### [The body of Ukrainian lawyer Yurij  Grabovsky, who defended two ex-Russian soldiers charged in Eastern Ukraine with terrorism and waging an aggressive war against the country, is found  on the grounds of a former farming collective in Zhashkiv, Ukraine. Grabovsky went missing from Kiev on March 9. Information from one of two men being held in this case led police to  the remains.  ](/news/2016/03/25/the-body-of-ukrainian-lawyer-yurij-grabovsky-who-defended-two-ex-russian-soldiers-charged-in-eastern-ukraine-with-terrorism-and-waging-an.md)
-_Context: Kiev, Russia, Ukrainian, War in Donbass, Zhashkiv, eastern Ukraine_
+_Context: Kiev, Russia, Ukrainians, War in Donbass, Zhashkiv, eastern Ukraine_
 
 ### [The evacuation order for the 200-person town of Callaway, Minnesota, which was emptied after a  Canadian Pacific train crashed with a propane truck, is lifted. None of the train cars were carrying hazardous materials. ](/news/2016/03/25/the-evacuation-order-for-the-200-person-town-of-callaway-minnesota-which-was-emptied-after-a-canadian-pacific-train-crashed-with-a-propan.md)
 The town of Callaway, Minnesota, has been evacuated after a train crash involving a semi-tanker carrying propane. 

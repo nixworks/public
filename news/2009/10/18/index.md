@@ -7,7 +7,7 @@ _Context: Shia, Yemen_
 _Context: Iraq, its national archives_
 
 ### [ Ukraine commences its first presidential election campaign since the 2004 Orange Revolution. ](/news/2009/10/18/ukraine-commences-its-first-presidential-election-campaign-since-the-2004-orange-revolution.md)
-_Context: Orange Revolution, Ukrainian, Ukrainian presidential election_
+_Context: Orange Revolution, Ukrainian presidential election, Ukrainians_
 
 ### [ A Rwandan doctor working in a French hospital is suspended after a nurse locates an Internet Interpol arrest warrant, accusing him of a 1994 "genocide, war crimes". ](/news/2009/10/18/a-rwandan-doctor-working-in-a-french-hospital-is-suspended-after-a-nurse-locates-an-internet-interpol-arrest-warrant-accusing-him-of-a-199.md)
 A Rwandan doctor working at a hospital in northern France is suspected of being a wanted war criminal, in a case that has puzzled French authorities.

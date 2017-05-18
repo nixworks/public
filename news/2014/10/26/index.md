@@ -25,7 +25,7 @@ _Context: Brazil, Brazilian President, Dilma Rousseff, re-election_
 _Context: Uruguay, Uruguayan general election, 2014_
 
 ### [Voters in Ukraine go to the polls with supporters of President Petro Poroshenko expected to do well. ](/news/2014/10/26/voters-in-ukraine-go-to-the-polls-with-supporters-of-president-petro-poroshenko-expected-to-do-well.md)
-_Context: Petro Poroshenko, Ukrainian, Ukrainian President, recent elections_
+_Context: Petro Poroshenko, Ukrainian President, Ukrainians, recent elections_
 
 ## [Previous Day...](/news/2014/10/25/index.md)
 

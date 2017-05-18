@@ -19,7 +19,7 @@ _Context: Al-Aqsa Mosque, Israel, Israeli-Palestinian conflict, Mustafa Barghout
 _Context: baby formula_
 
 ### [ The Ukrainian Supreme Court rejects Viktor Yanukovych's appeal against the electoral commission's decision that he lost the presidential election. ](/news/2005/01/7/the-ukrainian-supreme-court-rejects-viktor-yanukovych-s-appeal-against-the-electoral-commission-s-decision-that-he-lost-the-presidential-el.md)
-_Context: Ukrainian, Viktor Yanukovych_
+_Context: Ukrainians, Viktor Yanukovych_
 
 ### [ Chilean officials search the offices of Augusto Pinochet and investigate his U.S. bank accounts. ](/news/2005/01/7/chilean-officials-search-the-offices-of-augusto-pinochet-and-investigate-his-u-s-bank-accounts.md)
 _Context: Augusto Pinochet, Chile_

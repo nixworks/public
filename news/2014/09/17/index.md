@@ -4,7 +4,7 @@
 Almost 50 people have been killed by two days of government air strikes in an opposition-held town in central Syria, activists say.
 
 ### [A rocket attack by pro-Russian separatists in eastern Ukraine kills 10 civilians and injures 12 others in the village of Nyzhnya Krynka near Donetsk. ](/news/2014/09/17/a-rocket-attack-by-pro-russian-separatists-in-eastern-ukraine-kills-10-civilians-and-injures-12-others-in-the-village-of-nyzhnya-krynka-near.md)
-_Context: Donetsk, Ukrainian, War in Donbass_
+_Context: Donetsk, Ukrainians, War in Donbass_
 
 ### [At least 13 people are dead and 34 injured after Boko Haram gunmen attack a government college in the northern Nigerian city of Kano. ](/news/2014/09/17/at-least-13-people-are-dead-and-34-injured-after-boko-haram-gunmen-attack-a-government-college-in-the-northern-nigerian-city-of-kano.md)
 At least 13 people have been killed and 34 others wounded when police fought a battle with suspected Boko Haram suicide bombers in Kano, northern Nigeria, the state&#039;s police chief says.

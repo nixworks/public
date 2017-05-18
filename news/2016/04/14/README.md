@@ -1,7 +1,7 @@
 ## [2016-04-14](/news/2016/04/14/index.md)
 
 ### [Taliban militants kill eight people, including a police commander, in an ambush in northern Afghanistan. ](/news/2016/04/14/taliban-militants-kill-eight-people-including-a-police-commander-in-an-ambush-in-northern-afghanistan.md)
-_Context: Afghan border police, Afghanistan, Taliban, War in Afghanistan (2015-present)_
+_Context: Afghan police, Afghanistan, Taliban, War in Afghanistan (2015-present)_
 
 ### [A Palestinian wielding an ax attacks an Israeli soldier near Hebron and is shot dead while two 12-year-old Palestinians in Jerusalem are arrested by Israeli Police with three knives concealed in their coats on suspicion of planning to carry out a stabbing attack. ](/news/2016/04/14/a-palestinian-wielding-an-ax-attacks-an-israeli-soldier-near-hebron-and-is-shot-dead-while-two-12-year-old-palestinians-in-jerusalem-are-arr.md)
 In separate incident, two 12-year-old Palestinian kids arrested with knives in Jerusalem, are suspected of planning an attack

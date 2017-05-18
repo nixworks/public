@@ -7,7 +7,7 @@
 
 ### Related:
 
-1. [The first synchrotron in the Middle East, SESAME, opens in Jordan, marking rare cooperation between Iran, Israel, Turkey, and the Palestinian Authority.  ](/news/2017/05/16/the-first-synchrotron-in-the-middle-east-sesame-opens-in-jordan-marking-rare-cooperation-between-iran-israel-turkey-and-the-palestinia.md) _Context: Palestinian Authority_
+1. [The first synchrotron in the Middle East, SESAME, opens in Jordan, marking a rare cooperation between Iran, Israel, Turkey, and the Palestinian Authority.  ](/news/2017/05/16/the-first-synchrotron-in-the-middle-east-sesame-opens-in-jordan-marking-a-rare-cooperation-between-iran-israel-turkey-and-the-palestin.md) _Context: Palestinian Authority_
 2. [A top Egyptian court rules against giving away the two Red Sea islands of Tiran and Sanafir to Saudi Arabia. ](/news/2017/01/16/a-top-egyptian-court-rules-against-giving-away-the-two-red-sea-islands-of-tiran-and-sanafir-to-saudi-arabia.md) _Context: Red Sea_
 3. [An Israeli Army patrol kills four ISIL-affiliated militants after they open fire from positions in Syria near the Golan Heights. ](/news/2016/11/27/an-israeli-army-patrol-kills-four-isil-affiliated-militants-after-they-open-fire-from-positions-in-syria-near-the-golan-heights.md) _Context: Israeli Army_
 4. [The United States Navy's destroyer USS ''Mason'' comes under missile attack in the Red Sea, off the coast of Yemen. The two missiles, fired from Yemeni territory controlled by Iranian-backed Houthis, impacted the water well before reaching the ship, according to Pentagon spokesman Captain Jeff Davis. ](/news/2016/10/9/the-united-states-navy-s-destroyer-uss-mason-comes-under-missile-attack-in-the-red-sea-off-the-coast-of-yemen-the-two-missiles-fired.md) _Context: Red Sea_

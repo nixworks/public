@@ -13,7 +13,7 @@ _Context: Baghdad, Iraqi insurgency (post-U.S. withdrawal)_
 Gunmen killed 21 Egyptian military border guards near the frontier with Libya on Saturday, highlighting a growing threat from an area that security officials say has become a haven for militants seeking to topple the Cairo government.
 
 ### [Buses from Poland and Ukraine crash outside the German city of Dresden resulting in at least nine deaths and 40 people injured. ](/news/2014/07/19/buses-from-poland-and-ukraine-crash-outside-the-german-city-of-dresden-resulting-in-at-least-nine-deaths-and-40-people-injured.md)
-_Context: Dresden, German, Poland, Ukrainian_
+_Context: Dresden, German, Poland, Ukrainians_
 
 ### [At least 38 people are dead after a bus collides with a van carrying flammable liquids in China's Hunan province. ](/news/2014/07/19/at-least-38-people-are-dead-after-a-bus-collides-with-a-van-carrying-flammable-liquids-in-china-s-hunan-province.md)
 Forty-three people reportedly killed when a van hit a bus on a highway in central China, triggering a fire and explosion.
