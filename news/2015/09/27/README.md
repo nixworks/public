@@ -16,7 +16,7 @@ Russia appeared to seize the initiative in international efforts to end the conf
 _Context: Benghazi, Islamic State in Iraq and the Levant, Libyan Civil War (2014-present), internationally-recognized government_
 
 ### [A boat carrying Syrian migrants sinks in the Aegean Sea between Turkey and Greece with seventeen people on board. ](/news/2015/09/27/a-boat-carrying-syrian-migrants-sinks-in-the-aegean-sea-between-turkey-and-greece-with-seventeen-people-on-board.md)
-_Context: Aegean Sea, European migration crisis, Greek, Syrian, Turkey_
+_Context: Aegean Sea, European migration crisis, Greek, Syrian, Turkish_
 
 ### [The government of Australia refuses entry to American singer Chris Brown because of his 2009 conviction for domestic violence against his then girlfriend Rihanna. ](/news/2015/09/27/the-government-of-australia-refuses-entry-to-american-singer-chris-brown-because-of-his-2009-conviction-for-domestic-violence-against-his-th.md)
 The Federal Government follows through on its threat to block US R &#039;n&#039; B singer Chris Brown from entering the country.

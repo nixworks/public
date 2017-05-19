@@ -1,7 +1,7 @@
 ## [2008-01-22](/news/2008/01/22/index.md)
 
 ### [ January 2008 stock market downturn: After further losses in international markets, the United States Federal Reserve System cuts its primary interest rate by 75 basis points to 3.5%, the largest move in the interest rate since 1982.  The Dow Jones Industrial Average recovers after initial losses of almost 500 points to close at 11,971.19, down only 1.06%. ](/news/2008/01/22/january-2008-stock-market-downturn-after-further-losses-in-international-markets-the-united-states-federal-reserve-system-cuts-its-primar.md)
-_Context: 1982, Dow Jones Industrial Average, Federal Reserve System, January 2008 stock market downturn, United States_
+_Context: 1982, Dow Jones Industrial Average, Federal Reserve System, January 2008 stock market downturn, U.S._
 
 ### [ Bird flu cases in poultry spread in India, as the H5N1 virus infects seven districts in the state of West Bengal. ](/news/2008/01/22/bird-flu-cases-in-poultry-spread-in-india-as-the-h5n1-virus-infects-seven-districts-in-the-state-of-west-bengal.md)
 _Context: Avian flu virus, India, Influenza A virus subtype H5N1, West Bengal_
@@ -16,7 +16,7 @@ _Context: 2008, Fred Thompson, Tennessee, United States Senate_
 _Context: 80th Academy Awards_
 
 ### [ Actor Heath Ledger of Australia dies in New York City of a medication overdose at age 28. ](/news/2008/01/22/actor-heath-ledger-of-australia-dies-in-new-york-city-of-a-medication-overdose-at-age-28.md)
-_Context: Australia, Heath Ledger, New York's_
+_Context: Australia, Heath Ledger, New York City_
 
 ## [Previous Day...](/news/2008/01/21/index.md)
 

@@ -10,7 +10,7 @@ _Context: Hans-Gert Pottering, Jerzy Buzek, President of the European Parliament
 _Context: H1N1, World Health Organization, vaccine, virus_
 
 ### [  China urges Turkish Prime Minister Tayyip Erdogan to retract his comments of "genocide" in Xinjiang. ](/news/2009/07/14/china-urges-turkish-prime-minister-tayyip-erdoaan-to-retract-his-comments-of-genocide-in-xinjiang.md)
-_Context: People's Republic of China, Prime Minister of Turkey, Tayyip Erdogan, Turkey, Xinjiang, ethnic riots_
+_Context: People's Republic of China, Prime Minister of Turkey, Tayyip Erdogan, Turkish, Xinjiang, ethnic riots_
 
 ### [ Two foreign nationals, believed to be French, are kidnapped by gunmen after a hotel is stormed in Mogadishu, Somalia. ](/news/2009/07/14/two-foreign-nationals-believed-to-be-french-are-kidnapped-by-gunmen-after-a-hotel-is-stormed-in-mogadishu-somalia.md)
 Armed men take hostage two French guests from a hotel in Mogadishu as fighting rages.
@@ -28,7 +28,7 @@ _Context: Charles Taylor, Liberia, President of Liberia, trial_
 _Context: Bastille Day, France, series of riots_
 
 ### [ Talks on immigration between the United States and Cuba, suspended since 2003, will resume. ](/news/2009/07/14/talks-on-immigration-between-the-united-states-and-cuba-suspended-since-2003-will-resume.md)
-_Context: Cuba, United States, wet feet, dry feet policy_
+_Context: Cuba, U.S., wet feet, dry feet policy_
 
 ### [ The Lithuanian parliament overcomes the President's veto and passes a law which forbids propaganda of homosexual, bisexual and polygamous relations, in order to protect minors from detriment to their development. At the same time the law forbids any mocking and defiance on the basis of sexual orientation. ](/news/2009/07/14/the-lithuanian-parliament-overcomes-the-president-s-veto-and-passes-a-law-which-forbids-propaganda-of-homosexual-bisexual-and-polygamous-r.md)
 _Context: Lithuanian parliament, President, minors, propaganda_

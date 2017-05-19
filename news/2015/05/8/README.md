@@ -28,7 +28,7 @@ West African nations implement 2013 ruling by international court of justice to 
 _Context: Police Department, U.S. Justice Department, death of Freddie Gray_
 
 ### [A mistrial is declared in a murder case of a man in relation to the 1979 disappearance of Etan Patz in New York City. ](/news/2015/05/8/a-mistrial-is-declared-in-a-murder-case-of-a-man-in-relation-to-the-1979-disappearance-of-etan-patz-in-new-york-city.md)
-_Context: Etan Patz, New York's_
+_Context: Etan Patz, New York City_
 
 ### [According to the Centre Daily Times, a Pennsylvania State University undergraduate student, Jon S. Steindorf, 23, goes missing, vanishing without a trace, the day his parents had expected him to graduate from the University, only to find when they arrived at 4 PM that he had dropped out in the fall 2014 semester. He was last seen by his roommate at 11 AM; he is brown-haired and blue-eyed, and he may be toting a red backpack and riding a black bicycle. State College, Pennsylvania police have put out a missing persons alert for him. ](/news/2015/05/8/according-to-the-centre-daily-times-a-pennsylvania-state-university-undergraduate-student-jon-s-steindorf-23-goes-missing-vanishing-wi.md)
 _Context: Centre Daily Times, Pennsylvania State University, State College, Pennsylvania_

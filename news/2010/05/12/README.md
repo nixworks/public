@@ -13,7 +13,7 @@ RESTRICTIONS on flights to and from airports in Spain, Portugal and Morocco were
 _Context: Afghanistan, Bagram Air Base, International Committee of the Red Cross_
 
 ### [Russia and Turkey sign a $20 billion deal permitting Moscow to build and own a controlling stake in Ankara's first nuclear power plant. ](/news/2010/05/12/russia-and-turkey-sign-a-20-billion-deal-permitting-moscow-to-build-and-own-a-controlling-stake-in-ankara-s-first-nuclear-power-plant.md)
-_Context: Ankara, Moscow, Russia, Turkey_
+_Context: Ankara, Moscow, Russia, Turkish_
 
 ### [Mayor Jejomar Binay and Senator Mar Roxas are still in a tight race for the vice-presidency. ](/news/2010/05/12/mayor-jejomar-binay-and-senator-mar-roxas-are-still-in-a-tight-race-for-the-vice-presidency.md)
 _Context: Jejomar Binay, Mar Roxas, Philippine general election, 2010_

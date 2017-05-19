@@ -10,7 +10,7 @@ _Context: African Union, Battle of Mogadishu (2010), Islamist, Mogadishu, Somali
 Photographs, diaries and remarkable amateur film charting the epic rescue of refugees fleeing the Japanese invasion of Burma during the Second World War have been made available to the public today.
 
 ### [The rebel Kurdistan Workers' Party (PKK) in Turkey announces it will extend a truce until elections next year. ](/news/2010/11/1/the-rebel-kurdistan-workers-party-pkk-in-turkey-announces-it-will-extend-a-truce-until-elections-next-year.md)
-_Context: Kurdistan Workers' Party, Turkey_
+_Context: Kurdistan Workers' Party, Turkish_
 
 ### [58 hostage-takers, hostages and police officers are killed and 67 people wounded when Iraqi forces storm a Baghdad church to free dozens of hostages. ](/news/2010/11/1/58-hostage-takers-hostages-and-police-officers-are-killed-and-67-people-wounded-when-iraqi-forces-storm-a-baghdad-church-to-free-dozens-of.md)
 BAGHDAD - An al Qaeda attack that killed 52 hostages and police in a Catholic church in Baghdad was aimed at driving the embattled Christian minority ou...
@@ -19,7 +19,7 @@ BAGHDAD - An al Qaeda attack that killed 52 hostages and police in a Catholic ch
 _Context: India, Kashmir Valley, Kulgam, Kupwara, Lashkar-e-Toiba_
 
 ### [A United States drone attack kills six people in northwest Pakistan. ](/news/2010/11/1/a-united-states-drone-attack-kills-six-people-in-northwest-pakistan.md)
-_Context: Pakistan, United States, drone aircraft, drones launch_
+_Context: Pakistan, U.S., drone aircraft, drones launch_
 
 ### [A suicide bomber kills two Pakistani policemen and wounds 10 others as security forces try to stop him from walking into their local headquarters in Swabi, 100 kilometres northwest of Islamabad. ](/news/2010/11/1/a-suicide-bomber-kills-two-pakistani-policemen-and-wounds-10-others-as-security-forces-try-to-stop-him-from-walking-into-their-local-headqua.md)
 _Context: Islamabad, Pakistan, Swabi_

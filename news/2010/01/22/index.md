@@ -7,16 +7,16 @@ Japanese Prime Minister Yukio Hatoyama said he will resign if proven guilty of r
 Ten rhino horns, with an estimated value of €500,000, have been seized by Customs officials at Shannon Airport.
 
 ### [Operation Aurora:China rejects criticism by the United States of its internet controls, saying it could harm relations between the two countries. ](/news/2010/01/22/operation-aurora-pchina-rejects-criticism-by-the-united-states-of-its-internet-controls-saying-it-could-harm-relations-between-the-two-coun.md)
-_Context: People's Republic of China, Sino-American relations, United States, blocks mentions, cyber attacks_
+_Context: People's Republic of China, Sino-American relations, U.S., blocks mentions, cyber attacks_
 
 ### [U.K. Home Secretary Alan Johnson announces the Joint Terrorism Analysis Centre has raised the terrorist threat level from "substantial" to "severe". ](/news/2010/01/22/u-k-home-secretary-alan-johnson-announces-the-joint-terrorism-analysis-centre-has-raised-the-terrorist-threat-level-from-substantial-to.md)
 _Context: Alan Johnson, Home Secretary, Joint Terrorism Analysis Centre, United Kingdom, terror threat level_
 
 ### [A U.S. Justice Department task force recommends 47 Guantanamo Bay detainees should be held indefinitely without charge. ](/news/2010/01/22/a-u-s-justice-department-task-force-recommends-47-guantanamo-bay-detainees-should-be-held-indefinitely-without-charge.md)
-_Context: Guantanamo Bay detention camp, United States, United States Justice Department, detainees, detention camps, task force_
+_Context: Guantanamo Bay detention camp, U.S., United States Justice Department, detainees, detention camps, task force_
 
 ### [Former U.S. Air Force lieutenant colonel James Fondren is sentenced to three years in prison for providing classified documents to Chinese spy Tai Shen Kuo. ](/news/2010/01/22/former-u-s-air-force-lieutenant-colonel-james-fondren-is-sentenced-to-three-years-in-prison-for-providing-classified-documents-to-chinese-s.md)
-_Context: China, James Fondren, Tai Shen Kuo, United States, United States Air Force, classified document, espionage, lieutenant colonel, prison_
+_Context: China, James Fondren, Tai Shen Kuo, U.S., United States Air Force, classified document, espionage, lieutenant colonel, prison_
 
 ### [A Nuremberg court issues an arrest warrant for former Argentine leader Jorge Rafael Videla, on suspicion of killing a German man. ](/news/2010/01/22/a-nuremberg-court-issues-an-arrest-warrant-for-former-argentine-leader-jorge-rafael-videla-on-suspicion-of-killing-a-german-man.md)
 _Context: Argentina, German, Jorge Rafael Videla, Nuremberg, arrest warrant_
@@ -25,13 +25,13 @@ _Context: Argentina, German, Jorge Rafael Videla, Nuremberg, arrest warrant_
 _Context: Belgrade, Bishop Irinej of Nis, Electoral Synod, Serbian Orthodox Church, Serbian Patriarch_
 
 ### [European banking stocks drop sharply following U.S. President Barack Obama's plans to restrict activities of the biggest American banks. ](/news/2010/01/22/european-banking-stocks-drop-sharply-following-u-s-president-barack-obama-s-plans-to-restrict-activities-of-the-biggest-american-banks.md)
-_Context: Europe, Obama, President, United States, banking_
+_Context: Europe, Obama, President, U.S., banking_
 
 ### [The Supreme Court of Nigeria gives the government 14 days to decide whether ailing President Umaru Yar'Adua is fit to rule the country. ](/news/2010/01/22/the-supreme-court-of-nigeria-gives-the-government-14-days-to-decide-whether-ailing-president-umaru-yar-adua-is-fit-to-rule-the-country.md)
 _Context: Nigeria, President of Nigeria, Supreme Court, Umaru Yar'Adua, government_
 
 ### [Turkish police arrest 120 suspects in a major anti-terrorism operation against Al-Qaeda. ](/news/2010/01/22/turkish-police-arrest-120-suspects-in-a-major-anti-terrorism-operation-against-al-qaeda.md)
-_Context: Turkey, Turkish police, al-Qaeda, anti-terrorism_
+_Context: Turkish, Turkish police, al-Qaeda, anti-terrorism_
 
 ### [A security alert is issued at all of India's airports after intelligence reports of a plot to hijack an Indian plane. ](/news/2010/01/22/a-security-alert-is-issued-at-all-of-india-s-airports-after-intelligence-reports-of-a-plot-to-hijack-an-indian-plane.md)
 Authorities raise alert level after intelligence reports of plot to hijack plane.

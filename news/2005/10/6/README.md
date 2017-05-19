@@ -10,7 +10,7 @@ _Context: 27 November, Gabon, ballot_
 _Context: Zimbabwe_
 
 ### [ New York City increases police presence in the New York City Subway system after receiving a credible terror threat. ](/news/2005/10/6/new-york-city-increases-police-presence-in-the-new-york-city-subway-system-after-receiving-a-credible-terror-threat.md)
-_Context: New York City Police Department, New York's, subway_
+_Context: New York City, New York City Police Department, subway_
 
 ### [ Hurricane Katrina: Louisiana National Guard officials say repeated news reports by CNN on September 1, 2005 that shots were fired at a UH-60 Black Hawk military helicopter at the Louisiana Superdome were false.  ](/news/2005/10/6/hurricane-katrina-louisiana-national-guard-officials-say-repeated-news-reports-by-cnn-on-september-1-2005-that-shots-were-fired-at-a-uh-6.md)
 _Context: CNN, Hurricane Katrina, Louisiana, Louisiana Superdome, National Guard, UH-60 Black Hawk_

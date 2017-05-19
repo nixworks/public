@@ -13,7 +13,7 @@ _Context: 2014 Jinnah International Airport attack, Jinnah International Airport
 _Context: Balochistan, Iran, Pakistan, Quetta, Terrorism in Pakistan_
 
 ### [The 68th Tony Awards are held in Radio City Music Hall in New York City with "All the Way" winning the Tony Award for Best Play. ](/news/2014/06/8/the-68th-tony-awards-are-held-in-radio-city-music-hall-in-new-york-city-with-all-the-way-winning-the-tony-award-for-best-play.md)
-_Context: 68th Tony Awards, All the Way, Best Play, New York's, Radio City Music Hall_
+_Context: 68th Tony Awards, All the Way, Best Play, New York City, Radio City Music Hall_
 
 ### [The Government of Bulgaria orders a halt to construction work on the Gazprom-led South Stream pipeline project planned to bypass Ukraine as a transit country into Europe. ](/news/2014/06/8/the-government-of-bulgaria-orders-a-halt-to-construction-work-on-the-gazprom-led-south-stream-pipeline-project-planned-to-bypass-ukraine-as.md)
 Bulgaria has stopped all activities linked to the building of the South Stream gas pipeline project pending full compliance of the project with European Union law, Plamen Oresharski, occupant of th…

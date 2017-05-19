@@ -31,7 +31,7 @@ Israel has widened access to a revered Jewish site in the heart of the Jerusalem
 Blues legend Etta James is diagnosed with dementia and is undergoing treatment for leukaemia.
 
 ### [American actress Zsa Zsa Gabor has her leg amputated. ](/news/2011/01/14/american-actress-zsa-zsa-gabor-has-her-leg-amputated.md)
-_Context: United States, Zsa Zsa Gabor_
+_Context: U.S., Zsa Zsa Gabor_
 
 ### [Thousands of people march through the cities of Amman, Ma'an, Karak, Salt and Irbidin and other parts of Jordan, objecting to the government's inability to stop poverty and increased living costs. Prime Minister Samir Rifai, described as a "coward", is asked to resign. ](/news/2011/01/14/thousands-of-people-march-through-the-cities-of-amman-ma-an-karak-salt-and-irbidin-and-other-parts-of-jordan-objecting-to-the-government.md)
 _Context: Al-Karak, Amman, Jordan, Ma'an, Prime Minister, Salt, Samir Rifai_
@@ -73,7 +73,7 @@ _Context: Guyana, Palestinian_
 _Context: Desmond Tutu, Holocaust, South Africa, Warren Goldstein, rabbi_
 
 ### [The Obama administration in the United States eases travel and other restrictions on Cuba. ](/news/2011/01/14/the-obama-administration-in-the-united-states-eases-travel-and-other-restrictions-on-cuba.md)
-_Context: Cuba, Obama, Obama Administration, United States_
+_Context: Cuba, Obama, Obama Administration, U.S._
 
 ### [The United States Treasury Department says "no" to calls by enraged American politicians to have Julian Assange and the WikiLeaks website added to its economic blacklist or sanctions list like so-called "terrorist groups". The Treasury Department cites a lack of "evidence at this time". ](/news/2011/01/14/the-united-states-treasury-department-says-no-to-calls-by-enraged-american-politicians-to-have-julian-assange-and-the-wikileaks-website-ad.md)
 WikiLeaks and Founder Julian Assange Will Not Be Added to Economic Terrorist Blacklist, Treasury Dept. Says, Despite Pressure
@@ -85,7 +85,7 @@ A military court in Rwanda sentences four former top officials, now in exile, to
 _Context: Italian Prime Minister, Silvio Berlusconi, nightclub, prostitution_
 
 ### [A court in America sentences Abdel Nur of Guyana to 15 years imprisonment after charging him with participation in a plot to blow up fuel tanks at John F. Kennedy International Airport in New York City. ](/news/2011/01/14/a-court-in-america-sentences-abdel-nur-of-guyana-to-15-years-imprisonment-after-charging-him-with-participation-in-a-plot-to-blow-up-fuel-ta.md)
-_Context: Guyana, New York, New York's_
+_Context: Guyana, New York, New York City_
 
 ### [2 British footballers are questioned in relation to allegations resulting from a sex assault at a party. ](/news/2011/01/14/2-british-footballers-are-questioned-in-relation-to-allegations-resulting-from-a-sex-assault-at-a-party.md)
 Two Dundee United players are questioned by police in connection with an alleged serious sexual assault.
@@ -106,7 +106,7 @@ _Context: Naoto Kan, Prime Minister, Tokyo_
 Labour win the Oldham East and Saddleworth by-election with a majority of more than 3,500, holding off the challenge of the Liberal Democrats.
 
 ### [Reince Priebus of Wisconsin is elected as the chairman of the United States Republican National Committee. ](/news/2011/01/14/reince-priebus-of-wisconsin-is-elected-as-the-chairman-of-the-united-states-republican-national-committee.md)
-_Context: Reince Priebus, Republican National Committee, United States, Wisconsin_
+_Context: Reince Priebus, Republican National Committee, U.S., Wisconsin_
 
 ### [At a university seminar in New Delhi, India's home secretary G. K. Pillai announces unexpected plans to reduce security forces in Kashmir by 25 per cent so that "people don't get harassed by the over-presence of security forces". ](/news/2011/01/14/at-a-university-seminar-in-new-delhi-india-s-home-secretary-g-k-pillai-announces-unexpected-plans-to-reduce-security-forces-in-kashmir-by.md)
 _Context: G. K. Pillai, India, Kashmir, New Delhi_

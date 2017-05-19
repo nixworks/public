@@ -19,7 +19,7 @@ Security was tightened in the Philippines capital on Friday ahead of anti-Chines
 A man and a woman are being questioned on suspicion of murdering five children who died in a house fire in Derby.
 
 ### [William Balfour is found guilty of murdering the mother, brother and nephew of American entertainer Jennifer Hudson. ](/news/2012/05/11/william-balfour-is-found-guilty-of-murdering-the-mother-brother-and-nephew-of-american-entertainer-jennifer-hudson.md)
-_Context: Jennifer Hudson, United States_
+_Context: Jennifer Hudson, U.S._
 
 ### [At the Leveson Inquiry into British media practices, former News International chief executive Rebekah Brooks discloses an email that appears to show that Britain's Culture Secretary, Jeremy Hunt, sought advice from News International over how Downing Street should respond to the News of the World phone hacking scandal. ](/news/2012/05/11/at-the-leveson-inquiry-into-british-media-practices-former-news-international-chief-executive-rebekah-brooks-discloses-an-email-that-appear.md)
 _Context: Jeremy Hunt, Leveson Inquiry, News International, Rebekah Brooks, Secretary of State for Culture, Media and Sport, phone hacking_

@@ -10,7 +10,7 @@ _Context: England, G-20, London, announces, climate change, demonstration, pover
 _Context: 2010 FIFA World Cup, Belfast, Northern Ireland, Poland, United Kingdom police, fans, qualifying match_
 
 ### [ Space Shuttle ''Discovery'' lands at the Kennedy Space Center on Merritt Island, Florida, United States. ](/news/2009/03/28/space-shuttle-discovery-lands-at-the-kennedy-space-center-on-merritt-island-florida-united-states.md)
-_Context: Discovery, Florida, Kennedy Space Center, Merritt Island, Florida, Space Shuttle, United States, lands_
+_Context: Discovery, Florida, Kennedy Space Center, Merritt Island, Florida, Space Shuttle, U.S., lands_
 
 ### [ Well Armed wins the Dubai World Cup in the United Arab Emirates. ](/news/2009/03/28/well-armed-wins-the-dubai-world-cup-in-the-united-arab-emirates.md)
 _Context: Dubai World Cup, United Arab Emirates, Well Armed_
@@ -19,7 +19,7 @@ _Context: Dubai World Cup, United Arab Emirates, Well Armed_
 _Context: NATO, Pakistan, Peshawar, Taliban, War in Afghanistan (2001-present), militant, truck_
 
 ### [ The Red River rises above 40 feet, causing emergency evacuations in Fargo, North Dakota, United States. ](/news/2009/03/28/the-red-river-rises-above-40-feet-causing-emergency-evacuations-in-fargo-north-dakota-united-states.md)
-_Context: Fargo, North Dakota, North Dakota, Red River of the North, United States, evacuation centers, rises_
+_Context: Fargo, North Dakota, North Dakota, Red River of the North, U.S., evacuation centers, rises_
 
 ### [ The Dunfermline Building Society in Scotland will be sold. ](/news/2009/03/28/the-dunfermline-building-society-in-scotland-will-be-sold.md)
 _Context: Dunfermline Building Society, Scotland_

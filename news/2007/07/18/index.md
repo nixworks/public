@@ -4,7 +4,7 @@
 _Context: TAM Linhas Areas Flight 3054_
 
 ### [ A steam pipe explodes in Midtown New York City outside Grand Central Terminal; killing 1 person, injuring 44 and causing evacuations and delays throughout the area. ](/news/2007/07/18/a-steam-pipe-explodes-in-midtown-new-york-city-outside-grand-central-terminal-killing-1-person-injuring-44-and-causing-evacuations-and-de.md)
-_Context: Grand Central Terminal, Midtown, New York's, evacuation centers, steam pipe explodes_
+_Context: Grand Central Terminal, Midtown, New York City, evacuation centers, steam pipe explodes_
 
 ### [ A study in ''Nature'' confirms that the island of Britain was severed from continental Europe by a giant flood that cut away the Weald-Artois Anticline about 200,000 years ago. ](/news/2007/07/18/a-study-in-nature-confirms-that-the-island-of-britain-was-severed-from-continental-europe-by-a-giant-flood-that-cut-away-the-weald-arto.md)
 _Context: Europe, Great Britain, Nature, Weald-Artois Anticline, flood, island_

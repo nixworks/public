@@ -52,7 +52,7 @@ _Context: Alberta, Canada, Slave Lake, wildfire_
 A court in Malaysia rules there is enough credible evidence against opposition leader Anwar Ibrahim for his trial on a sodomy charge to proceed.
 
 ### [International Monetary Fund head Dominique Strauss-Kahn is ordered to be held without bail on sexual assault charges in New York City. ](/news/2011/05/16/international-monetary-fund-head-dominique-strauss-kahn-is-ordered-to-be-held-without-bail-on-sexual-assault-charges-in-new-york-city.md)
-_Context: Dominique Strauss-Kahn, International Monetary Fund, New York's_
+_Context: Dominique Strauss-Kahn, International Monetary Fund, New York City_
 
 ### [American mafia boss Vincent Basciano is convicted of murder in New York. ](/news/2011/05/16/american-mafia-boss-vincent-basciano-is-convicted-of-murder-in-new-york.md)
 _Context: American mafia, New York, Vincent Basciano_
@@ -67,7 +67,7 @@ Ahmed Haroun, who is facing ICC charges of murder and rape in Darfur, re-elected
 _Context: Chicago, Illinois, Illinois, Mayor of Chicago, Rahm Emanuel_
 
 ### [Businessman Donald Trump announces he will not seek the Republican nomination for the 2012 United States presidential election. ](/news/2011/05/16/businessman-donald-trump-announces-he-will-not-seek-the-republican-nomination-for-the-2012-united-states-presidential-election.md)
-_Context: Donald Trump, United States presidential election, 2012, nomination_
+_Context: Trump, United States presidential election, 2012, nomination_
 
 ### [Queen Silvia of Sweden orders an investigation into her father Walther Sommerlath's alleged ties with the German Nazi Party. ](/news/2011/05/16/queen-silvia-of-sweden-orders-an-investigation-into-her-father-walther-sommerlath-s-alleged-ties-with-the-german-nazi-party.md)
 Sweden&#039;s Queen Silvia is investigating her late father&#039;s activities in Germany and Brazil during World War II to clarify reports about possible ties to Nazis.

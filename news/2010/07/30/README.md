@@ -31,7 +31,7 @@ _Context: Fiji, Mahendra Chaudhry, Prime Minister, Suva, money laundering, tax e
 _Context: Al Gore, Portland, U.S. Vice President, masseuse_
 
 ### [Two Armenian men sue Turkey, the Central Bank of the Republic of Turkey and Ziraat Bankasi bank in the United States district court in California for damages allegedly caused by the Armenian genocide in 1915. ](/news/2010/07/30/two-armenian-men-sue-turkey-the-central-bank-of-the-republic-of-turkey-and-ziraat-bankasa-bank-in-the-united-states-district-court-in-cali.md)
-_Context: Armenia, California, Central Bank of the Republic of Turkey, Turkey, U.S. federal court, Ziraat Bankasi, damages, genocide of Armenians_
+_Context: Armenia, California, Central Bank of the Republic of Turkey, Turkish, U.S. federal court, Ziraat Bankasi, damages, genocide of Armenians_
 
 ### [Syrian President Bashar al-Assad, Saudi King Abdullah, and Qatari Emir Sheikh Hamad bin Khalifa al-Thani visit Lebanon amid reports that the Special Tribunal for Lebanon will indict members of Hezbollah ](/news/2010/07/30/syrian-president-bashar-al-assad-saudi-king-abdullah-and-qatari-emir-sheikh-hamad-bin-khalifa-al-thani-visit-lebanon-amid-reports-that-the.md)
 _Context: Abdullah, Bashar al-Assad, Emir of Qatar, Hezbollah, King, Lebanon, President, Qatar, Saudi Arabia, Sheikh Hamad bin Khalifa Al Thani, Special Tribunal for Lebanon, Syria_

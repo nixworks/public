@@ -13,7 +13,7 @@ _Context: Prime Minister, Sitiveni Rabuka, mutinies of the 2000 Fijian coup d'ta
 _Context: Holy See, Paul of Tarsus_
 
 ### [ United Nations Secretary-General Kofi Annan strongly criticizes the United States, in particular the Bush administration, claiming it has strayed from multilateralism and human rights, in his final speech. ](/news/2006/12/11/united-nations-secretary-general-kofi-annan-strongly-criticizes-the-united-states-in-particular-the-bush-administration-claiming-it-has-s.md)
-_Context: George W. Bush administration, Human rights, Kofi Annan, United Nations Secretary-General, United States, multilateralism_
+_Context: George W. Bush administration, Human rights, Kofi Annan, U.S., United Nations Secretary-General, multilateralism_
 
 ### [ The International Conference to Review the Global Vision of the Holocaust gets underway in Iran to examine whether the Holocaust took place or not. ](/news/2006/12/11/the-international-conference-to-review-the-global-vision-of-the-holocaust-gets-underway-in-iran-to-examine-whether-the-holocaust-took-place.md)
 _Context: Holocaust, Holocaust denial, International Conference to Review the Global Vision of the Holocaust, Iran_

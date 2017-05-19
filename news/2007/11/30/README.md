@@ -1,7 +1,7 @@
 ## [2007-11-30](/news/2007/11/30/index.md)
 
 ### [ Colombian authorities release seized videos of 16 hostages being held by the FARC rebel group; these include former senator and presidential candidate ngrid Betancourt, last heard from in 2002, and three U.S. defence contractors abducted in 2003. ](/news/2007/11/30/colombian-authorities-release-seized-videos-of-16-hostages-being-held-by-the-farc-rebel-group-these-include-former-senator-and-presidentia.md)
-_Context: Colombia, FARC, Ingrid Betancourt, United States_
+_Context: Colombia, FARC, Ingrid Betancourt, U.S._
 
 ### [ The Miami-Dade Police Department arrests four people in relation to the killing of Washington Redskins player Sean Taylor. ](/news/2007/11/30/the-miami-dade-police-department-arrests-four-people-in-relation-to-the-killing-of-washington-redskins-player-sean-taylor.md)
 Get the latest breaking news across the U.S. on ABCNews.com
@@ -16,7 +16,7 @@ _Context: Amtrak, Chicago, Illinois, Grand Rapids, Pere Marquette_
 _Context: Muhammad, Sudan, Unity High School, teddy bear_
 
 ### [ The wreckage of Atlasjet Flight 4203 carrying 56 passengers and crew is found in central Turkey with no survivors. ](/news/2007/11/30/the-wreckage-of-atlasjet-flight-4203-carrying-56-passengers-and-crew-is-found-in-central-turkey-with-no-survivors.md)
-_Context: Atlasjet Flight 4203, Turkey_
+_Context: Atlasjet Flight 4203, Turkish_
 
 ### [ Wang Qishan resigns as the Mayor of Beijing, being succeeded by acting Mayor Guo Jinlong, who left his post in Anhui. ](/news/2007/11/30/wang-qishan-resigns-as-the-mayor-of-beijing-being-succeeded-by-acting-mayor-guo-jinlong-who-left-his-post-in-anhui.md)
 _Context: Anhui, Guo Jinlong, Mayor, Wang Qishan_

@@ -22,7 +22,7 @@ _Context: California, Christmas Day, David Furnish, Elton John, surrogate mother
 _Context: President, Tunisia, Zine El Abidine Ben Ali, protests_
 
 ### [Turkish construction workers employed in Israel protest in front of the Turkish Embassy in Tel Aviv over fears they may lose their jobs. ](/news/2010/12/28/turkish-construction-workers-employed-in-israel-protest-in-front-of-the-turkish-embassy-in-tel-aviv-over-fears-they-may-lose-their-jobs.md)
-_Context: Israel, Tel Aviv, Turkey_
+_Context: Israel, Tel Aviv, Turkish_
 
 ### [Thousands of homes and businesses in Northern Ireland are without water as melting snow and ice from the recent freezing weather conditions reveals burst pipes. Northern Ireland Water says it is alternating supplies from reservoirs in order to help alleviate the crisis in which some have been without supplies since before Christmas. ](/news/2010/12/28/thousands-of-homes-and-businesses-in-northern-ireland-are-without-water-as-melting-snow-and-ice-from-the-recent-freezing-weather-conditions.md)
 Thousands of homes and businesses in Northern Ireland are still without water as leaks caused by the thaw put pressure on the system.

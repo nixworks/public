@@ -4,7 +4,7 @@
 _Context: G8 summit, Northern Ireland, Syrian Civil War_
 
 ### [Turkey, South Africa and Russia react angrily to the British government and demand an explanation for the revelations that their politicians and senior officials were spied on and bugged during the 2009 G20 summit in London ](/news/2013/06/17/turkey-south-africa-and-russia-react-angrily-to-the-british-government-and-demand-an-explanation-for-the-revelations-that-their-politicians.md)
-_Context: British government, G20, London, Russia, South Africa, Turkey_
+_Context: British government, G20, London, Russia, South Africa, Turkish_
 
 ### [Talks between the foreign ministers of Britain and Ecuador end with no breakthrough over WikiLeaks founder Julian Assange, who remains in the country's London embassy. ](/news/2013/06/17/talks-between-the-foreign-ministers-of-britain-and-ecuador-end-with-no-breakthrough-over-wikileaks-founder-julian-assange-who-remains-in-th.md)
 Talks between the foreign ministers of Britain and Ecuador have ended with no breakthrough over Wikileaks founder Julian Assange, who remains in the South American country&#39;s London embassy.

@@ -28,7 +28,7 @@ Italian authorities found 25 dead bodies in a boat that was carrying refugees an
 _Context: Atlantic, Desirade, Dominican Republic, Guadeloupe, Hurricane Rina, Les Saintes, Marie Galante, Puerto Rico, tropical storm_
 
 ### [North Korea agrees to further talks with the United States as part of efforts to restore Six Party talks on its nuclear weapons program. ](/news/2011/08/1/north-korea-agrees-to-further-talks-with-the-united-states-as-part-of-efforts-to-restore-six-party-talks-on-its-nuclear-weapons-program.md)
-_Context: North Korea, North Korea and weapons of mass destruction, United States, six-party talks_
+_Context: North Korea, North Korea and weapons of mass destruction, U.S., six-party talks_
 
 ### [South Korea bans three Japanese lawmakers all from the Liberal Democratic Party due to an assertion of Japanese sovereignty over the Liancourt Rocks. ](/news/2011/08/1/south-korea-bans-three-japanese-lawmakers-all-from-the-liberal-democratic-party-due-to-an-assertion-of-japanese-sovereignty-over-the-liancou.md)
 _Context: Japanese, Liancourt Rocks, Liberal Democratic Party, South Korea, sovereignty_

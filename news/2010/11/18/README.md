@@ -28,7 +28,7 @@ The presentation in Oslo next month will most likely be postponed because China 
 _Context: North Korea, Pyongyang, Sunshine Policy, government of South Korea_
 
 ### [At the Caspian Summit in Baku, Azerbaijan, Iranian President Mahmoud Ahmadinejad criticizes NATO for adopting policies based on "false information". ](/news/2010/11/18/at-the-caspian-summit-in-baku-azerbaijan-iranian-president-mahmoud-ahmadinejad-criticizes-nato-for-adopting-policies-based-on-false-infor.md)
-_Context: Azerbaijan, Baku, Caspian Sea, Mahmoud Ahmadinejad, NATO, president_
+_Context: Azerbaijan, Baku, Caspian Sea, Mahmoud Ahmadinejad, NATO, President of Iran_
 
 ### [Nearly 200 prisoners in the Democratic Republic of the Congo escape from a jail in the northwest of the country. ](/news/2010/11/18/nearly-200-prisoners-in-the-democratic-republic-of-the-congo-escape-from-a-jail-in-the-northwest-of-the-country.md)
 An estimated 200 prisoners in DR Congo escape from a jail in the remote north-west during a hearing to reduce the backlog of defendants awaiting trial.
@@ -40,7 +40,7 @@ _Context: Julian Assange, Marianne Ny, Sweden, WikiLeaks, prosecutor_
 A woman in China is sentenced to a year in a labour camp after posting a message on the social networking website Twitter.
 
 ### [Australia deports Gabe Watson to face trial in the US state of Alabama for the alleged murder of his wife Tina. ](/news/2010/11/18/australia-deports-gabe-watson-to-face-trial-in-the-us-state-of-alabama-for-the-alleged-murder-of-his-wife-tina.md)
-_Context: Alabama, Australia, United States, death of his newlywed wife Tina_
+_Context: Alabama, Australia, U.S., death of his newlywed wife Tina_
 
 ### [Japanese police arrest Kiyoshi Takayama, the number two gangster in the Yamaguchi-gumi yakuza group in Kobe. ](/news/2010/11/18/japanese-police-arrest-kiyoshi-takayama-the-number-two-gangster-in-the-yamaguchi-gumi-yakuza-group-in-kobe.md)
 _Context: Japanese police, Kiyoshi Takayama, Kobe, Yamaguchi-gumi, yakuza_

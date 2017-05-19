@@ -10,7 +10,7 @@ Minister for Arts, Sport and Tourism Martin Cullen is to resign from the Cabinet
 _Context: Eric Massa, New York, sexual harassment_
 
 ### [A strong earthquake in Turkey kills dozens. ](/news/2010/03/8/a-strong-earthquake-in-turkey-kills-dozens.md)
-_Context: Turkey, strong earthquake_
+_Context: Turkish, strong earthquake_
 
 ### [Female poet Simin Behbahani says the government of Iran has issued her with a "travel ban" after confiscating her passport at Tehran International Airport as she was about to travel to France. ](/news/2010/03/8/female-poet-simin-behbahani-says-the-government-of-iran-has-issued-her-with-a-travel-ban-after-confiscating-her-passport-at-tehran-interna.md)
 _Context: France, Iran, Simin Behbahani, Tehran International Airport_
@@ -37,7 +37,7 @@ _Context: Federal Investigation Agency, Lahore, Pakistani Taliban, car bomb_
 Two homemade bombs exploding in quick succession killed 12 people, including 10 civilians, in an increasingly volatile part of northwestern Afghanistan, police said on Monday.
 
 ### [Parliament approves President of Iran Mahmoud Ahmadinejad's budget for 2010/11. ](/news/2010/03/8/parliament-approves-president-of-iran-mahmoud-ahmadinejad-s-budget-for-2010-11.md)
-_Context: Mahmoud Ahmadinejad, president_
+_Context: Mahmoud Ahmadinejad, President of Iran_
 
 ### [Togolese police fire tear gas at street protesters who dispute Faure Gnassingbe's presidential election triumph. ](/news/2010/03/8/togolese-police-fire-tear-gas-at-street-protesters-who-dispute-faure-gnassingba-c-s-presidential-election-triumph.md)
 _Context: Faure Gnassingbe, Togo, presidential election triumph, tear gas_

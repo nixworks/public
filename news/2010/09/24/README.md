@@ -52,7 +52,7 @@ Japan frees a Chinese fishing boat captain whose arrest in disputed waters two w
 _Context: Hillary Clinton, Mahmoud Abbas, Middle East peace process, Palestinian Authority President, United States Secretary of State_
 
 ### [A senior Nicaraguan diplomat is found dead in an apartment in New York City. ](/news/2010/09/24/a-senior-nicaraguan-diplomat-is-found-dead-in-an-apartment-in-new-york-city.md)
-_Context: New York's, Nicaragua_
+_Context: New York City, Nicaragua_
 
 ### [Judge Ronald B. Leighton of the United States District Court for the Western District of Washington rules on remand that the discharge of flight nurse Maj. Margaret Witt under the Don't ask, don't tell policy violated her constitutional rights. ](/news/2010/09/24/judge-ronald-b-leighton-of-the-united-states-district-court-for-the-western-district-of-washington-rules-on-remand-that-the-discharge-of-fl.md)
 _Context: Maj. Margaret Witt, Ronald B. Leighton, United States Constitution, United States District Court for the Western District of Washington, don't ask, don't tell, flight nurse, judge_

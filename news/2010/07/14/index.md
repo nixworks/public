@@ -10,7 +10,7 @@ Israeli warships force Libyan-sponsored Amalthea to change course to El Arish po
 More than 60 people are taken to hospital after a suspected chlorine gas leak in Mumbai.
 
 ### [The United States discusses the arrest of Bradley Manning, accused of providing secret information about US military corruption to Wikileaks. ](/news/2010/07/14/the-united-states-discusses-the-arrest-of-bradley-manning-accused-of-providing-secret-information-about-us-military-corruption-to-wikileaks.md)
-_Context: United States, WikiLeaks, arrest of Bradley Manning_
+_Context: U.S., WikiLeaks, arrest of Bradley Manning_
 
 ### [India's Home Secretary G. K. Pillai states Pakistan's intelligence agency Inter-Services Intelligence (ISI) co-ordinated the 2008 Mumbai attacks. ](/news/2010/07/14/india-s-home-secretary-g-k-pillai-states-pakistan-s-intelligence-agency-inter-services-intelligence-isi-co-ordinated-the-2008-mumbai-att.md)
 _Context: 2008 Mumbai attacks, G. K. Pillai, India, Inter-Services Intelligence, Pakistan_
@@ -100,7 +100,7 @@ Nuclear expert claims he was kidnapped but US says he lived freely and was free 
 Boeing unveils an unmanned hydrogen-powered spy plane, the Phantom Eye, which is capable of flying non-stop for four days.
 
 ### [An 18th-Century wood-hulled ship is discovered at the World Trade Center site in Lower Manhattan, New York City. ](/news/2010/07/14/an-18th-century-wood-hulled-ship-is-discovered-at-the-world-trade-center-site-in-lower-manhattan-new-york-city.md)
-_Context: Ground Zero, Lower Manhattan, New York's, ship, wood-hulled_
+_Context: Ground Zero, Lower Manhattan, New York City, ship, wood-hulled_
 
 ### [Researchers find that the Vatican Radio transmitters increase the risk of tumours and leukaemia in children who live nearby. ](/news/2010/07/14/researchers-find-that-the-vatican-radio-transmitters-increase-the-risk-of-tumours-and-leukaemia-in-children-who-live-nearby.md)
 Italian cancer experts say there is a connection between radiation from Vatican Radio transmitters and a high number of child cancer cases.

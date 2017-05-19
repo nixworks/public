@@ -28,7 +28,7 @@ Alan Shatter to be questioned in parliament over claims of bugging in police sta
 A court in Turkey orders the suspension of a controversial ban on the social media site Twitter but it could be weeks before it takes effect.
 
 ### [Sulaiman Abu Ghaith, Osama bin Laden's son-in-law, is convicted in New York City of conspiring to kill Americans in his role as spokesman for al-Qaida. ](/news/2014/03/26/sulaiman-abu-ghaith-osama-bin-laden-s-son-in-law-is-convicted-in-new-york-city-of-conspiring-to-kill-americans-in-his-role-as-spokesman-fo.md)
-_Context: Al Qaida's, New York's, Osama bin Laden, Sulaiman Abu Ghaith_
+_Context: Al Qaida's, New York City, Osama bin Laden, Sulaiman Abu Ghaith_
 
 ### [California State Senator Leland Yee is arrested in a raid involving the Federal Bureau of Investigation and the California Highway Patrol for alleged firearms trafficking, bribery, and corruption. ](/news/2014/03/26/california-state-senator-leland-yee-is-arrested-in-a-raid-involving-the-federal-bureau-of-investigation-and-the-california-highway-patrol-fo.md)
 _Context: California Highway Patrol, Federal Bureau of Investigation, Leland Yee_

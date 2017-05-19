@@ -16,7 +16,7 @@ _Context: Somalia, Somaliland_
 _Context: 1986, Kizza Besigye, Lord's Resistance Army, People's Redemption Army, President, Uganda, Yoweri Museveni_
 
 ### [ The United States government issues warning after receiving credible information that a terrorist threat may exist against official U.S. government facilities in Guangzhou, China. ](/news/2005/11/14/the-united-states-government-issues-warning-after-receiving-credible-information-that-a-terrorist-threat-may-exist-against-official-u-s-go.md)
-_Context: Guangzhou, People's Republic of China, United States_
+_Context: Guangzhou, People's Republic of China, U.S._
 
 ### [ Knesset Member Omri Sharon, the son of the Prime Minister of Israel Ariel Sharon, struck a deal with prosecutors that would see him plead guilty to a series of charges in connection with illegal fundraising during Ariel Sharon's 1999 primaries campaign. ](/news/2005/11/14/knesset-member-omri-sharon-the-son-of-the-prime-minister-of-israel-ariel-sharon-struck-a-deal-with-prosecutors-that-would-see-him-plead-g.md)
 MK Omri Sharon, the prime minister&#39;s son, pleads guilty to charges of illegal political fundraising at Tel Aviv Magistrates court Tuesday. Sharon will address court during sentence hearing, his attorney reports 

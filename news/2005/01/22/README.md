@@ -22,7 +22,7 @@ _Context: 15 January, 2007, Ansar al-Sunna, Association of Muslim Scholars, Chin
 _Context: Eid ul-Adha_
 
 ### [ In the basement of a hotel in the New York City borough of Queens, people hold a memorial service for the late Chinese leader Zhao Ziyang. This memorial follows the one held in the Shangri-la hotel yesterday. [http://www.nytimes.com/2005/01/23/nyregion/23protest.html (NYT)] (registration required)](/news/2005/01/22/in-the-basement-of-a-hotel-in-the-new-york-city-borough-of-queens-people-hold-a-memorial-service-for-the-late-chinese-leader-zhao-ziyang.md)
-_Context: New York's, Queens, Shangri-la, Zhao Ziyang_
+_Context: New York City, Queens, Shangri-la, Zhao Ziyang_
 
 ## [Previous Day...](/news/2005/01/21/index.md)
 

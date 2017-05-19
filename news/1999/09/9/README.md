@@ -4,7 +4,7 @@
 _Context: Dreamcast, Sega, publicly, video game system_
 
 ### [ The 1999 MTV Video Music Awards ceremony airs from the Metropolitan Opera House in New York City.](/news/1999/09/9/the-1999-mtv-video-music-awards-ceremony-airs-from-the-metropolitan-opera-house-in-new-york-city.md)
-_Context: 1999 MTV Video Music Awards, Metropolitan Opera House, New York's_
+_Context: 1999 MTV Video Music Awards, Metropolitan Opera House, New York City_
 
 ## [Previous Day...](/news/1999/09/8/index.md)
 

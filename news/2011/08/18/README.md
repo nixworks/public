@@ -4,7 +4,7 @@
 _Context: Afganistan, Herat Province, minibus_
 
 ### [Turkey launches an air strike on PKK positions in northern Iraq. ](/news/2011/08/18/turkey-launches-an-air-strike-on-pkk-positions-in-northern-iraq.md)
-_Context: Iraq, Turkey, air strike_
+_Context: Iraq, Turkish, air strike_
 
 ### [Southern Israel attacksEight people are killed and dozens are injured in southern Israel near the Egyptian border, after a string of terrorist attacks on a highway targeting two civilian buses and cars as well a military bus responding to the attacks. ](/news/2011/08/18/southern-israel-attackspeight-people-are-killed-and-dozens-are-injured-in-southern-israel-near-the-egyptian-border-after-a-string-of-terror.md)
 Four terror attacks near Eilat claim seven lives, leave 31 injured as passenger bus, military patrol and private car targeted; IDF kills seven terrorists. Security forces declare high alert in southern sector

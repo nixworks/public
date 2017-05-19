@@ -19,7 +19,7 @@ The European Commission has been hit by one of the most serious cyberattacks eve
 _Context: Choco, Colombia, Revolutionary Armed Forces of Colombia_
 
 ### [The United States Census Bureau confirms that New York City is the largest city in the US with 8,175,133 residents at the time of the 2010 United States Census on April 1. ](/news/2011/03/24/the-united-states-census-bureau-confirms-that-new-york-city-is-the-largest-city-in-the-us-with-8-175-133-residents-at-the-time-of-the-2010-u.md)
-_Context: 2010 Census, New York's, US Census Bureau headquarters, largest city in the US_
+_Context: 2010 Census, New York City, US Census Bureau headquarters, largest city in the US_
 
 ### [A U.S. federal district court in Delaware rules in favor of Cephalon, a phamaceutical company, in a patent infringement lawsuit it had brought against a manufacturer of generic drugs. ](/news/2011/03/24/a-u-s-federal-district-court-in-delaware-rules-in-favor-of-cephalon-a-phamaceutical-company-in-a-patent-infringement-lawsuit-it-had-broug.md)
 A U.S. Court upheld aCephalon Inc CEPH.O patent protecting its Fentora painmedicine in a dispute with generic drugmaker WatsonPharmaceuticals Inc WPI.N, Cephalon said on Thursday.

@@ -37,7 +37,7 @@ The patent trial of the century is not going well for Samsung; the jury has rule
 _Context: Bundaberg, Queensland, High Court of Australia, Jayant Patel, manslaughter_
 
 ### [A gunman shoots and kills a former coworker near the Empire State Building in New York City. Following the initial shooting, police kill the gunman, and nine other people are wounded. ](/news/2012/08/24/a-gunman-shoots-and-kills-a-former-coworker-near-the-empire-state-building-in-new-york-city-following-the-initial-shooting-police-kill-the.md)
-_Context: Empire State Building, New York's, kills_
+_Context: Empire State Building, New York City, kills_
 
 ### [The U.S. District Court for the District of Massachusetts, in the case ''Sony BMG v. Tenenbaum'', awards Sony BMG  US$675,000 in statutory damages against Joel Tenenbaum, who shared 30 MP3 files through the defunct Kazaa network. ](/news/2012/08/24/the-u-s-district-court-for-the-district-of-massachusetts-in-the-case-sony-bmg-v-tenenbaum-awards-sony-bmg-us-675-000-in-statutory-d.md)
 _Context: Kazaa, Sony BMG v. Tenenbaum, U.S. District Court for the District of Massachusetts_

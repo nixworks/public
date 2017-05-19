@@ -7,7 +7,7 @@ _Context: Cairo, Egypt, Tahrir Square, baton, tear gas_
 _Context: 2011 Syrian uprising, Ba'ath Party, Damascus, Syria, rocket-propelled grenades_
 
 ### [Jose Pimentel, a 27-year-old Dominican-American, is arrested in New York City after planning to detonate pipe bombs, according to New York mayor Michael Bloomberg. The suspect is believed to have Al-Qaeda sympathies, although no wider conspiracy is suspected. ](/news/2011/11/20/jose-pimentel-a-27-year-old-dominican-american-is-arrested-in-new-york-city-after-planning-to-detonate-pipe-bombs-according-to-new-york-m.md)
-_Context: Dominican-American, Jose Pimentel, Michael Bloomberg, New York's, al-Qaeda, pipe bombs_
+_Context: Dominican-American, Jose Pimentel, Michael Bloomberg, New York City, al-Qaeda, pipe bombs_
 
 ### [The President of Turkey, Abdullah Gl, commences a three-day state visit to the United Kingdom. ](/news/2011/11/20/the-president-of-turkey-abdullah-gul-commences-a-three-day-state-visit-to-the-united-kingdom.md)
 President of Turkey Abdullah Gul says his country still wants to join the EU, before he arrives in London for a three-day state visit to Britain.

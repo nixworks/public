@@ -16,7 +16,7 @@ _Context: People's Republic of China, Shenzhou 6, fly humans to space_
 _Context: Chechen, Nalchik, Russia, separatist_
 
 ### [ The presence of the dangerous H5N1 avian influenza virus is confirmed in dead birds found in Turkey, marking the first cases of the disease in Europe. ](/news/2005/10/13/the-presence-of-the-dangerous-h5n1-avian-influenza-virus-is-confirmed-in-dead-birds-found-in-turkey-marking-the-first-cases-of-the-disease.md)
-_Context: Avian flu virus, Europe, Turkey, bird flu, virus_
+_Context: Avian flu virus, Europe, Turkish, bird flu, virus_
 
 ### [ In Stockholm, it is announced that British playwright Harold Pinter is the 2005 winner of the Nobel Prize for Literature. ](/news/2005/10/13/in-stockholm-it-is-announced-that-british-playwright-harold-pinter-is-the-2005-winner-of-the-nobel-prize-for-literature.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

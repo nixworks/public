@@ -1,7 +1,7 @@
 ## [2012-07-4](/news/2012/07/4/index.md)
 
 ### [Syrian uprising (2011-present):Syrian President Bashar al Assad accuses neighboring Turkey of supporting "terrorists" and contributing to the bloodshed in Syria. ](/news/2012/07/4/syrian-uprising-2011apresent-psyrian-president-bashar-al-assad-accuses-neighboring-turkey-of-supporting-terrorists-and-contributing-to.md)
-_Context: Bashar al-Assad, Syria, Syrian uprising (2011-present), Turkey_
+_Context: Bashar al-Assad, Syria, Syrian uprising (2011-present), Turkish_
 
 ### [A gunman, who was facing eviction from his apartment, is believed to have seized and killed four hostages in the German city of Karlsruhe before turning the gun on himself. ](/news/2012/07/4/a-gunman-who-was-facing-eviction-from-his-apartment-is-believed-to-have-seized-and-killed-four-hostages-in-the-german-city-of-karlsruhe-be.md)
 A man shot dead four people including his partner before killing himself in a siege in the German city of Karlsruhe, police say.

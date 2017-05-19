@@ -10,7 +10,7 @@ _Context: Bulgaria, Enlargement of the European Union, European Union, Romania_
 _Context: Copenhagen, Mary, Crown Princess of Denmark_
 
 ### [ More than 20,000 Australians, New Zealanders, Turks and other nationalities gather at Anzac Cove, Gallipoli, Turkey to mark the 90th anniversary of the landing at Anzac Cove during World War I. Thousands more attend ANZAC Day dawn remembrance ceremonies and marches in cities around Australia and New Zealand, 250,000 in Sydney alone. ](/news/2005/04/25/more-than-20-000-australians-new-zealanders-turks-and-other-nationalities-gather-at-anzac-cove-gallipoli-turkey-to-mark-the-90th-annive.md)
-_Context: Anzac Cove, Anzac Day, Australia, First World War, Gallipoli, New Zealand, Sydney, Turkey, landing at Anzac Cove_
+_Context: Anzac Cove, Anzac Day, Australia, First World War, Gallipoli, New Zealand, Sydney, Turkish, landing at Anzac Cove_
 
 ### [ Amagasaki rail crash: In Japan, a Fukuchiyama Line train derails and crashes into an apartment building in the city of Amagasaki, near Osaka.  At least 55 people are dead and around 400 are injured as a result of the accident, Japan's worst rail crash since 1963.  ](/news/2005/04/25/amagasaki-rail-crash-in-japan-a-fukuchiyama-line-train-derails-and-crashes-into-an-apartment-building-in-the-city-of-amagasaki-near-osak.md)
 Get the latest breaking news and top news headlines at Reuters.com

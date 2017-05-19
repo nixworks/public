@@ -1,7 +1,7 @@
 ## [2006-10-11](/news/2006/10/11/index.md)
 
 ### [ A small aircraft crashes into a building at 524 East 72nd Street, on Manhattan's Upper East Side in New York City killing 2 people. FBI states that there is so far no reason to suspect terrorism, and the alert level hasn't been raised. The plane was registered to New York Yankees pitcher Cory Lidle.  Lidle is reported to have been the pilot, and along with his flight instructor, was killed in the crash. ](/news/2006/10/11/a-small-aircraft-crashes-into-a-building-at-524-east-72nd-street-on-manhattan-s-upper-east-side-in-new-york-city-killing-2-people-fbi-sta.md)
-_Context: 524 East 72nd Street, Cory Lidle, Manhattan, New York's, Upper East Side, into an apartment building_
+_Context: 524 East 72nd Street, Cory Lidle, Manhattan, New York City, Upper East Side, into an apartment building_
 
 ### [ Minutes from the United States Federal Reserve meeting held on September 20 predict a "modestly better inflation outlook" due to a softening economy and lower energy prices. The Federal Reserve held interest rates steady. ](/news/2006/10/11/minutes-from-the-united-states-federal-reserve-meeting-held-on-september-20-predict-a-modestly-better-inflation-outlook-due-to-a-softenin.md)
 _Context: Federal Reserve, inflation_

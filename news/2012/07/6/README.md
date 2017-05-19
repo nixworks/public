@@ -1,7 +1,7 @@
 ## [2012-07-6](/news/2012/07/6/index.md)
 
 ### [Syrian uprising (2011-present): French Foreign Minister Laurent Fabius states that a Syrian commander in the National Guard, Manaf Tlass who fled to Turkey some days ago, is on his way to Paris. ](/news/2012/07/6/syrian-uprising-2011-present-french-foreign-minister-laurent-fabius-states-that-a-syrian-commander-in-the-national-guard-manaf-tlass-who.md)
-_Context: Laurent Fabius, Manaf Tlass, Paris, Syrian uprising (2011-present), Turkey_
+_Context: Laurent Fabius, Manaf Tlass, Paris, Syrian uprising (2011-present), Turkish_
 
 ### [A United Nations peacekeeper from India is killed in the eastern Congo. ](/news/2012/07/6/a-united-nations-peacekeeper-from-india-is-killed-in-the-eastern-congo.md)
 _Context: Democratic Republic of the Congo, India, United Nations_

@@ -10,7 +10,7 @@ _Context: Kazakh Foreign Ministry, Kazakhstan, Soviet, nuclear programme_
 _Context: Ar-Namys, Felix Kulov, Kurmanbek Bakiyev, President, Prime Minister, United Front For A Worthy Future For Kyrgyzstan_
 
 ### [ Iran: President Mahmoud Ahmadinejad has said he wants talks on his nation's nuclear program, but only if no pre-conditions are imposed. ](/news/2007/02/20/iran-p-president-mahmoud-ahmadinejad-has-said-he-wants-talks-on-his-nation-s-nuclear-program-but-only-if-no-pre-conditions-are-imposed.md)
-_Context: Iran, Mahmoud Ahmadinejad, nuclear program, president_
+_Context: Iran, Mahmoud Ahmadinejad, President of Iran, nuclear program_
 
 ### [ At least 35 people have died and up to 340,000 are affected by flooding after months of heavy rain in Bolivia. The eastern departments of Santa Cruz and Beni are the worst affected. ](/news/2007/02/20/at-least-35-people-have-died-and-up-to-340-000-are-affected-by-flooding-after-months-of-heavy-rain-in-bolivia-the-eastern-departments-of-s.md)
 _Context: Beni Department, Bolivia, Santa Cruz, departments, flooding_

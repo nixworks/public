@@ -4,7 +4,7 @@
 _Context: 2016 Gabonese protests, Ali Bongo Ondimba, Gabon, Jean Ping, Libreville, President_
 
 ### [Turkish Armed Forces claims that it has killed three Kurdistan Workers' Party fighters in air strikes in southeastern Turkey near the borders with Iraq. ](/news/2016/09/1/turkish-armed-forces-claims-that-it-has-killed-three-kurdistan-workers-party-fighters-in-air-strikes-in-southeastern-turkey-near-the-border.md)
-_Context: Iraq, Kurdish-Turkish conflict (1978-present), Kurdistan Workers' Party, Turkey, Turkish troops_
+_Context: Iraq, Kurdish-Turkish conflict (1978-present), Kurdistan Workers' Party, Turkish, Turkish troops_
 
 ### [A South Korean palm oil company is accused of causing the wildfires in Indonesia. ](/news/2016/09/1/a-south-korean-palm-oil-company-is-accused-of-causing-the-wildfires-in-indonesia.md)
 Some of the world’s biggest buyers have stopped trading with Korindo after the emergence of footage claiming to show illegal burning in Papua province

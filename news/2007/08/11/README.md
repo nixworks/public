@@ -19,7 +19,7 @@ _Context: Caribbean, Cuba, Hugo Chvez, President, Venezuela_
 _Context: Lekhtusi, Russian President, St Petersburg, Vladimir Putin, air defense, radar_
 
 ### [ New York City is put on high alert after an al Qaeda bomb threat surfaces on Internet. ](/news/2007/08/11/new-york-city-is-put-on-high-alert-after-an-al-qaeda-bomb-threat-surfaces-on-internet.md)
-_Context: New York's, al-Qaeda_
+_Context: New York City, al-Qaeda_
 
 ### [ Thai insurgents attack several positions held by Thai security forces at Yala Province. ](/news/2007/08/11/thai-insurgents-attack-several-positions-held-by-thai-security-forces-at-yala-province.md)
 _Context: Thailand, Yala_

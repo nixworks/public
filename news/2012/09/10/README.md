@@ -10,7 +10,7 @@ Said al-Shihri, described as the second-in-command of al-Qaeda in the Arabian Pe
 _Context: Afghanistan, Kunduz_
 
 ### [An agreement is reached allowing the completion of the US National September 11 Memorial & Museum on the World Trade Center site in New York City. ](/news/2012/09/10/an-agreement-is-reached-allowing-the-completion-of-the-us-national-september-11-memorial-museum-on-the-world-trade-center-site-in-new-york.md)
-_Context: Ground Zero, National September 11 Memorial & Museum, New York's_
+_Context: Ground Zero, National September 11 Memorial & Museum, New York City_
 
 ### [Teachers in Chicago go on strike. Around 350,000 students are affected. ](/news/2012/09/10/teachers-in-chicago-go-on-strike-around-350-000-students-are-affected.md)
 _Context: Chicago, union_

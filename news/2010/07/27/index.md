@@ -4,7 +4,7 @@
 _Context: India, Inter-Service Intelligence, Kabul, Pakistan, classified information, embassies, suicide attack_
 
 ### [Experts verify that photographic negatives bought at a garage sale are early works of the American photographer Ansel Adams. ](/news/2010/07/27/experts-verify-that-photographic-negatives-bought-at-a-garage-sale-are-early-works-of-the-american-photographer-ansel-adams.md)
-_Context: Ansel Adams, United States, garage sale, photographer, photographic negatives_
+_Context: Ansel Adams, U.S., garage sale, photographer, photographic negatives_
 
 ### [BP announces that Tony Hayward is to step down as CEO following the Deepwater Horizon oil spill and will be replaced by Bob Dudley on October 1st. ](/news/2010/07/27/bp-announces-that-tony-hayward-is-to-step-down-as-ceo-following-the-deepwater-horizon-oil-spill-and-will-be-replaced-by-bob-dudley-on-octobe.md)
 _Context: BP, Bob Dudley, CEO, Deepwater Horizon oil spill, Tony Hayward_
@@ -31,7 +31,7 @@ _Context: Al-Araqeeb, Bedouin, Beer Sheva, Israeli police_
 Laura Dekker, 14, wins a court battle allowing her to try to become the youngest person to sail solo around the world.
 
 ### [David Cameron, the Prime Minister of the United Kingdom, describes the Gaza Strip as a "prison camp" during a visit to Turkey. Israel's ambassador to the UK, Ron Prosor, describes the people of the Gaza strip as "prisoners of the terrorist organization Hamas". ](/news/2010/07/27/david-cameron-the-prime-minister-of-the-united-kingdom-describes-the-gaza-strip-as-a-prison-camp-during-a-visit-to-turkey-israel-s-amba.md)
-_Context: David Cameron, Gaza Strip, Hamas, Israel, Prime Minster, Ron Prosor, Turkey, detention camps, terrorist_
+_Context: David Cameron, Gaza Strip, Hamas, Israel, Prime Minster, Ron Prosor, Turkish, detention camps, terrorist_
 
 ### [The United States Congress provides funding for a troop increase for the War in Afghanistan. ](/news/2010/07/27/the-united-states-congress-provides-funding-for-a-troop-increase-for-the-war-in-afghanistan.md)
 The Congress on Tuesday gave President Barack Obama long-delayed funding for his troop increase in Afghanistan despite opposition from many fellow Democrats, while Obama played down the gravity of leaked war documents.

@@ -4,7 +4,7 @@
 _Context: British Parliament, Hayes and Harlington, House of Commons, John McDonnell, MP, United Kingdom, ceremonial mace_
 
 ### [ President George W. Bush bids farewell to the United States in a 15-minute televised address, during which he touted his record and warned his successor, Barack Obama, to maintain an aggressive stance against terrorism. ](/news/2009/01/15/president-george-w-bush-bids-farewell-to-the-united-states-in-a-15-minute-televised-address-during-which-he-touted-his-record-and-warned.md)
-_Context: George W. Bush, Obama, President, United States, terrorism_
+_Context: George W. Bush, Obama, President, U.S., terrorism_
 
 ### [ Sweden's National Bank announces that all 1-krona coins minted in 2009 will carry a new motif on their reverse to commemorate the 200th anniversary of Finland's separation from Sweden. ](/news/2009/01/15/sweden-s-national-bank-announces-that-all-1-krona-coins-minted-in-2009-will-carry-a-new-motif-on-their-reverse-to-commemorate-the-200th-ann.md)
 _Context: Finland, National Bank, SKr, Sweden, separation_
@@ -13,7 +13,7 @@ _Context: Finland, National Bank, SKr, Sweden, separation_
 _Context: International Year of Astronomy, Paris, UNESCO, opening ceremony_
 
 ### [ US Airways Flight 1549, an Airbus A320 carrying 155 people, ditches into New York City's Hudson River. ](/news/2009/01/15/us-airways-flight-1549-an-airbus-a320-carrying-155-people-ditches-into-new-york-city-s-hudson-river.md)
-_Context: Airbus A320, Hudson River, New York's, US Airways, US Airways Flight 1549, ditches_
+_Context: Airbus A320, Hudson River, New York City, US Airways, US Airways Flight 1549, ditches_
 
 ### [ A sprinkler incident at a Toronto, Ontario, Canada hydro power station sparks a major power outage in a huge swath in the City's west end affecting more than 250,000 people. ](/news/2009/01/15/a-sprinkler-incident-at-a-toronto-ontario-canada-hydro-power-station-sparks-a-major-power-outage-in-a-huge-swath-in-the-city-s-west-end-a.md)
 _Context: Canada, Toronto, Ontario_

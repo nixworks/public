@@ -31,7 +31,7 @@ _Context: Muammar Gaddafi, crude oil_
 Hurricane Irene could hit the Southeast United States as a major Category 3 storm on the weekend after sweeping north of the Dominican Republic and pummeling Puerto Rico on Monday, forecasters said.
 
 ### [Prosecutors in New York City ask for charges against former International Monetary Fund head Dominique Strauss-Kahn to be dropped. ](/news/2011/08/22/prosecutors-in-new-york-city-ask-for-charges-against-former-international-monetary-fund-head-dominique-strauss-kahn-to-be-dropped.md)
-_Context: Dominique Strauss-Kahn, International Monetary Fund, New York's_
+_Context: Dominique Strauss-Kahn, International Monetary Fund, New York City_
 
 ### [Jack Layton, leader of Canada's New Democratic Party and Leader of the Opposition, dies from cancer at age 61. ](/news/2011/08/22/jack-layton-leader-of-canada-s-new-democratic-party-and-leader-of-the-opposition-dies-from-cancer-at-age-61.md)
 _Context: Canada, Jack Layton, Leader of the Opposition, New Democratic Party_

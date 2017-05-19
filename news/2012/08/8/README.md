@@ -16,7 +16,7 @@ Nineteen people are now known to have died in severe floods in the Philippines, 
 _Context: Hurricane Ernesto, Yucatn Peninsula_
 
 ### [A welding fire breaks out but is soon extinguished, with no injuries, on the 88th floor of One World Trade Center in New York City.](/news/2012/08/8/a-welding-fire-breaks-out-but-is-soon-extinguished-with-no-injuries-on-the-88th-floor-of-one-world-trade-center-in-new-york-city.md)
-_Context: New York's, One World Trade Center_
+_Context: New York City, One World Trade Center_
 
 ### [A preliminary magnitude 4.5 earthquake strikes Orange County, California. Minimal damage was reported.](/news/2012/08/8/a-preliminary-magnitude-4-5-earthquake-strikes-orange-county-california-minimal-damage-was-reported.md)
 _Context: Orange County_

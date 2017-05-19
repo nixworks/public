@@ -28,7 +28,7 @@ U.S. officials described it as the latest assault on a network linking Iraqi mil
 _Context: England, foot-and-mouth disease_
 
 ### [ A tornado touches down in Brooklyn, New York just after dawn during a violent thunderstorm that dropped near three inches of rain in the New York City area, crippling the city's subway and commuter rail system during the morning rush hour. ](/news/2007/08/8/a-tornado-touches-down-in-brooklyn-new-york-just-after-dawn-during-a-violent-thunderstorm-that-dropped-near-three-inches-of-rain-in-the-ne.md)
-_Context: Brooklyn, New York, New York's, tornado_
+_Context: Brooklyn, New York, New York City, tornado_
 
 ### [ Two fossils found in Kenya challenge existing views of human evolution by showing that ''Homo erectus'' and ''Homo habilis'' lived side by side in eastern Africa for half a million years. ](/news/2007/08/8/two-fossils-found-in-kenya-challenge-existing-views-of-human-evolution-by-showing-that-homo-erectus-and-homo-habilis-lived-side-by.md)
 Two fossils have shaken the human family tree, possibly rearranging major branches thought to be in a straight ancestral line to Homo sapiens.

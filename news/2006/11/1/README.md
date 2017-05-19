@@ -22,7 +22,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Baltic Sea, M/S ''Finnbirch'', Roll-on/roll-off, Sweden, lubrication, oil, oil spill_
 
 ### [ Turkish archaeologist Muazzez Ilmiye Cig is acquitted of inciting religious hatred; a charge made after she published a book stating that the Muslim headscarf originated in the clothing of Sumerian priestesses who initiated young men into sex. ](/news/2006/11/1/turkish-archaeologist-muazzez-ilmiye-cig-is-acquitted-of-inciting-religious-hatred-a-charge-made-after-she-published-a-book-stating-that-t.md)
-_Context: Muazzez Ilmiye Cig, Muslim clothing, Sumer, Turkey_
+_Context: Muazzez Ilmiye Cig, Muslim clothing, Sumer, Turkish_
 
 ### [ The Revolutionary Armed Forces of Colombia (FARC) attack a rural police command in Colombia, killing at least 16 officers as part of a two-week offensive.  President lvaro Uribe had earlier withdrawn from negotiations. ](/news/2006/11/1/the-revolutionary-armed-forces-of-colombia-farc-attack-a-rural-police-command-in-colombia-killing-at-least-16-officers-as-part-of-a-two.md)
 _Context: Alvaro Uribe, Colombia, Colombian President, Revolutionary Armed Forces of Colombia_

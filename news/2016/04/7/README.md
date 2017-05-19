@@ -46,7 +46,7 @@ Former vice president says he will arrive in Juba to form transitional governmen
 Burmese leader says she will press for immediate release of activists, in first statement since becoming state counsellor
 
 ### [Former New York City mayor Rudy Giuliani endorses Donald Trump for U.S. President, predicting Trump will get more than 50% of the statewide vote. ](/news/2016/04/7/former-new-york-city-mayor-rudy-giuliani-endorses-donald-trump-for-u-s-president-predicting-trump-will-get-more-than-50-of-the-statewide.md)
-_Context: Donald Trump, Donald Trump endorsements, New York's, Rudy Giuliani_
+_Context: Donald Trump endorsements, New York City, Rudy Giuliani, Trump_
 
 ### [United Kingdom Prime Minister David Cameron admits he benefited from a Panama-based offshore trust, Blairmore Holdings Inc., set up by his late father. Cameron says he divested himself of his shares, for PS31,500 (US$44,300), before becoming prime minister in 2010. ](/news/2016/04/7/united-kingdom-prime-minister-david-cameron-admits-he-benefited-from-a-panama-based-offshore-trust-blairmore-holdings-inc-set-up-by-his-l.md)
 PM sold stake in Blairmore investment fund, which featured in Panama Papers, for £31,500 four months before entering No 10

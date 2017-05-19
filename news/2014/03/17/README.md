@@ -4,7 +4,7 @@
 _Context: United States Navy SEAL_
 
 ### [Model and fashion designer L'Wren Scott is found dead in her New York apartment. ](/news/2014/03/17/model-and-fashion-designer-l-wren-scott-is-found-dead-in-her-new-york-apartment.md)
-_Context: L'Wren Scott, New York's_
+_Context: L'Wren Scott, New York City_
 
 ### [President of the United States Barack Obama announces that the United States will sanction Russian officials that contributed to the current Crimean crisis. ](/news/2014/03/17/president-of-the-united-states-barack-obama-announces-that-the-united-states-will-sanction-russian-officials-that-contributed-to-the-current.md)
 _Context: 2014 Crimean crisis, Obama, President, Russia_

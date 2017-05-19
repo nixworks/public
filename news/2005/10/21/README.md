@@ -22,7 +22,7 @@ _Context: Detlev Mehlis, Lebanese Prime Minister, Lebanon, Rafik Hariri, Syria, 
 _Context: Battle of Trafalgar, Portsmouth, Queen Elizabeth, United Kingdom, beacon_
 
 ### [ An earthquake measuring 5.9 on the moment magnitude scale hits the Turkish city of Izmir, injuring 15 people and causing one fatal heart attack. This is the fourth strong tremor this week. ](/news/2005/10/21/an-earthquake-measuring-5-9-on-the-moment-magnitude-scale-hits-the-turkish-city-of-adegzmir-injuring-15-people-and-causing-one-fatal-heart-a.md)
-_Context: Izmir, Turkey, magnitude_
+_Context: Izmir, Turkish, magnitude_
 
 ## [Previous Day...](/news/2005/10/20/index.md)
 

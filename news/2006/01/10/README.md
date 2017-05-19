@@ -19,7 +19,7 @@ _Context: Iran, Natanz, United Nations_
 _Context: Prime Minster, Respect agenda, Tony Blair_
 
 ### [ A fifteenth case of H5N1 is reported in Turkey. However, the Turkish government declares that the virus is "under control". ](/news/2006/01/10/a-fifteenth-case-of-h5n1-is-reported-in-turkey-however-the-turkish-government-declares-that-the-virus-is-under-control.md)
-_Context: Turkey, Turkish government, bird flu_
+_Context: Turkish, Turkish government, bird flu_
 
 ### [ The Pakistani army announces that seven soldiers and fourteen suspected militants have been killed in fighting in the Waziristan area. ](/news/2006/01/10/the-pakistani-army-announces-that-seven-soldiers-and-fourteen-suspected-militants-have-been-killed-in-fighting-in-the-waziristan-area.md)
 _Context: Pakistan, Waziristan_

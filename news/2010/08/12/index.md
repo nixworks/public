@@ -70,7 +70,7 @@ _Context: Chapada dos Veadeiros National Park_
 At least 50 people are killed after a lorry plunges into Lake Tanganyika in the Democratic Republic of Congo, officials say.
 
 ### [Turkey sets up a commission of Turkish officials and bureaucrats to investigate May's Gaza flotilla raid. ](/news/2010/08/12/turkey-sets-up-a-commission-of-turkish-officials-and-bureaucrats-to-investigate-may-s-gaza-flotilla-raid.md)
-_Context: Gaza flotilla raid, Turkey_
+_Context: Gaza flotilla raid, Turkish_
 
 ### [Poland extradites Israeli citizen and suspected spy Uri Brodsky to Germany to face charges of being involved in the murder of Mahmoud al-Mabhouh in Dubai. ](/news/2010/08/12/poland-extradites-israeli-citizen-and-suspected-spy-uri-brodsky-to-germany-to-face-charges-of-being-involved-in-the-murder-of-mahmoud-al-mab.md)
 Poland extradites to Germany a suspected Israeli agent wanted in connection with the killing in Dubai of a Hamas commander, officials say.

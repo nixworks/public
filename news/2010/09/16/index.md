@@ -28,7 +28,7 @@ _Context: BP, Gulf of Mexico, Macondo well_
 _Context: 2010 Canterbury earthquake, Christchurch, New Zealand, state of emergency_
 
 ### [A storm in New York City kills one person and leaves 25,000 people without power. This includes a Tornado which touched down in Flushing and a Macroburst.](/news/2010/09/16/a-storm-in-new-york-city-kills-one-person-and-leaves-25-000-people-without-power-this-includes-a-tornado-which-touched-down-in-flushing-and.md)
-_Context: Flushing, Macroburst, New York's_
+_Context: Flushing, Macroburst, New York City_
 
 ### [Hurricane Karl becomes a Category 2 hurricane as it heads across Mexico's offshore oil wells in the Gulf of Mexico. ](/news/2010/09/16/hurricane-karl-becomes-a-category-2-hurricane-as-it-heads-across-mexico-s-offshore-oil-wells-in-the-gulf-of-mexico.md)
 _Context: 2010 Atlantic hurricane season, Gulf of Mexico, Mexico, hurricane_

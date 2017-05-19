@@ -43,7 +43,7 @@ The BBC says its Persian Service has been targeted by a &quot;sophisticated cybe
 _Context: Virginia Tech, massacre_
 
 ### [Iran's Islamic Consultative Assembly starts questioning the President Mahmoud Ahmadinejad on his handling of the economy. ](/news/2012/03/14/iran-s-islamic-consultative-assembly-starts-questioning-the-president-mahmoud-ahmadinejad-on-his-handling-of-the-economy.md)
-_Context: Iran, Islamic Consultative Assembly, Mahmoud Ahmadinejad, president_
+_Context: Iran, Islamic Consultative Assembly, Mahmoud Ahmadinejad, President of Iran_
 
 ## [Previous Day...](/news/2012/03/13/index.md)
 

@@ -10,7 +10,7 @@ _Context: Amarah, Iraqi security forces, Sadrist_
 _Context: Alabama, AstraZeneca, Medicaid, U.S. dollar_
 
 ### [ The President of Iran Mahmoud Ahmadinejad accuses the United States of plotting to kidnap and assassinate him during a visit to Iraq. ](/news/2008/06/19/the-president-of-iran-mahmoud-ahmadinejad-accuses-the-united-states-of-plotting-to-kidnap-and-assassinate-him-during-a-visit-to-iraq.md)
-_Context: Iraq, Mahmoud Ahmadinejad, United States, president_
+_Context: Iraq, Mahmoud Ahmadinejad, President of Iran, U.S._
 
 ### [  A Congressional ethics panel is examining allegations that Democrat Senators Christopher Dodd of Connecticut (the sponsor of a major $300 billion housing bailout bill) and Kent Conrad of North Dakota received preferential loans by troubled mortgage lender Countrywide Financial Corp. ](/news/2008/06/19/a-congressional-ethics-panel-is-examining-allegations-that-democrat-senators-christopher-dodd-of-connecticut-the-sponsor-of-a-major-300.md)
 _Context: Christopher Dodd, Countrywide Financial Corp., Kent Conrad, bailout, housing crisis_
@@ -22,7 +22,7 @@ _Context: Movement for the Emancipation of the Niger Delta, Nigeria, Royal Dutch
 _Context: Movement for Democratic Change, Zimbabwe, run-off presidential election_
 
 ### [ Lee Myung-bak, the President of South Korea, apologises to South Koreans over an unpopular decision to resume importing beef from the United States. ](/news/2008/06/19/lee-myung-bak-the-president-of-south-korea-apologises-to-south-koreans-over-an-unpopular-decision-to-resume-importing-beef-from-the-unite.md)
-_Context: Lee Myung-bak, President, South Korea, United States, beef imports_
+_Context: Lee Myung-bak, President, South Korea, U.S., beef imports_
 
 ### [ Commencing at dawn, the Israeli Government and Hamas declare a truce in the Israel-Gaza conflict, halting attacks across the border between the Gaza Strip and Israel. ](/news/2008/06/19/commencing-at-dawn-the-israeli-government-and-hamas-declare-a-truce-in-the-israel-gaza-conflict-halting-attacks-across-the-border-between.md)
 _Context: Gaza Strip, Hamas, Israel, Israel-Gaza conflict, government_

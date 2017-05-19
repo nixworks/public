@@ -4,7 +4,7 @@
 At least 15 people have died in landslides following floods in Indian-administered Kashmir, officials say.
 
 ### [Large parts of Turkey experience a power outage affecting public services and infrastructure including air traffic control, trams, and subways in Istanbul. As much as 65% of the country is without power. ](/news/2015/03/31/large-parts-of-turkey-experience-a-power-outage-affecting-public-services-and-infrastructure-including-air-traffic-control-trams-and-subwa.md)
-_Context: Istanbul, Turkey, air traffic control, power outage_
+_Context: Istanbul, Turkish, air traffic control, power outage_
 
 ### [Germanwings Flight 9525:Germanwings' owner Lufthansa officially acknowledges that it knew there were mental health issues with Andreas Lubitz before the crash. ](/news/2015/03/31/germanwings-flight-9525-pgermanwings-owner-lufthansa-officially-acknowledges-that-it-knew-there-were-mental-health-issues-with-andreas-lubi.md)
 _Context: Germanwings Flight 9525, Lufthansa_

@@ -16,7 +16,7 @@ _Context: 2012 Delhi gang rape, BBC, India's Daughter, Indian government_
 _Context: Ringling Bros. and Barnum & Bailey Circus, elephant_
 
 ### [His Eminence, Edward Cardinal Egan, the immediate past Archbishop-Emeritus of New York, dies in New York City at the age of 82. ](/news/2015/03/5/his-eminence-edward-cardinal-egan-the-immediate-past-archbishop-emeritus-of-new-york-dies-in-new-york-city-at-the-age-of-82.md)
-_Context: Edward Cardinal Egan, New York's_
+_Context: Edward Cardinal Egan, New York City_
 
 ### [American pharmaceutical company AbbVie Inc buys leukemia drugmaker Pharmacyclics Inc for $21 billion. ](/news/2015/03/5/american-pharmaceutical-company-abbvie-inc-buys-leukemia-drugmaker-pharmacyclics-inc-for-21-billion.md)
 _Context: AbbVie, U.S. dollar, leukemia_
@@ -34,7 +34,7 @@ _Context: Central Asia, Kazakhstan_
 _Context: Kahama District, Lake Victoria, Tanzania_
 
 ### [A Delta Air Lines McDonnell Douglas MD-88 aircraft attempting to complete a snowing landing, veers to the left side off of a recently-plowed runway, thereby missing the end of runway emergency arresting device, and skids onto the edge of water embankment at LaGuardia Airport, New York, United States. ](/news/2015/03/5/a-delta-air-lines-mcdonnell-douglas-md-88-aircraft-attempting-to-complete-a-snowing-landing-veers-to-the-left-side-off-of-a-recently-plowed.md)
-_Context: Delta Air Lines, LaGuardia Airport, McDonnell Douglas MD-88, New York's_
+_Context: Delta Air Lines, LaGuardia Airport, McDonnell Douglas MD-88, New York City_
 
 ### [American actor Harrison Ford is in stable condition after he crash-lands his 1942 Ryan Aeronautical ST3KR single-engine World War II-era training plane at the Penmar Golf Course, in Venice, Los Angeles, California, just west of the Santa Monica Airport. ](/news/2015/03/5/american-actor-harrison-ford-is-in-stable-condition-after-he-crash-lands-his-1942-ryan-aeronautical-st3kr-single-engine-world-war-ii-era-tra.md)
 _Context: California, Harrison Ford, Ryan Aeronautical, Santa Monica Airport, Venice, Los Angeles, World War II_

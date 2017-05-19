@@ -19,7 +19,7 @@ ISTANBUL — Turkey was on the defensive Wednesday, lashing out at both Pope Fra
 UNITED NATIONS, United States (AFP) - The UN peace envoy to Yemen, Jamal Benomar, has resigned, a UN official said Wednesday, after losing support from Gulf countries for his mission in the conflict-riven nation.. Read more at straitstimes.com.
 
 ### [British police arrest six people on suspicion of terrorism after Turkish authorities stop a group crossing the Syrian border. ](/news/2015/04/15/british-police-arrest-six-people-on-suspicion-of-terrorism-after-turkish-authorities-stop-a-group-crossing-the-syrian-border.md)
-_Context: Syria, Turkey, United Kingdom police, terrorism_
+_Context: Syria, Turkish, United Kingdom police, terrorism_
 
 ### [Former American football player Aaron Hernandez is convicted of murder in the first degree in the town of Fall River, Massachusetts. Hernandez shot a former friend Odin Lloyd in 2013. He was automatically sentenced to life in prison without parole. ](/news/2015/04/15/former-american-football-player-aaron-hernandez-is-convicted-of-murder-in-the-first-degree-in-the-town-of-fall-river-massachusetts-hernand.md)
 _Context: 2013 murder, Aaron Hernandez, American football, Fall River, Massachusetts, parole_

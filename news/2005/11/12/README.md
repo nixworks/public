@@ -10,7 +10,7 @@ _Context: Arab League, Iraq, Iraq War, Kofi Annan, Secretary General_
 Masses gather in Tel Aviv for emotional memorial ceremony to mark 10 years since assassination of Yitzhak Rabin; former President Clinton receives enthusiastic reception from crowd, says &#39;not a week goes by&#39; where he doesn&#39;t think of Rabin. New Labor party leader Peretz calls for &#39;moral road map,&#39; end to occupation
 
 ### [ ''Harry Potter and the Goblet of Fire'' premieres at the Ziegfeld Theatre in New York City](/news/2005/11/12/harry-potter-and-the-goblet-of-fire-premieres-at-the-ziegfeld-theatre-in-new-york-city.md)
-_Context: Harry Potter and the Goblet of Fire, New York's, Ziegfeld Theatre_
+_Context: Harry Potter and the Goblet of Fire, New York City, Ziegfeld Theatre_
 
 ## [Previous Day...](/news/2005/11/11/index.md)
 

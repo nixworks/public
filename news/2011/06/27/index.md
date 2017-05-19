@@ -43,7 +43,7 @@ Japanese researchers have found radiation in all 15 people tested last month fro
 Tropical Storm Meari raked the west coast of South Korea over the weekend, leaving at least nine people dead and three missing, the National Emergency Management Agency (NEMA) said Monday.
 
 ### [1 person is killed and 17 others are injured in a gas station explosion in Urfa, Turkey. ](/news/2011/06/27/1-person-is-killed-and-17-others-are-injured-in-a-gas-station-explosion-in-urfa-turkey.md)
-_Context: Turkey, Urfa_
+_Context: Turkish, Urfa_
 
 ### [Las Conchas WildfireThe Los Alamos National Laboratory in the U.S. state of New Mexico is temporarily closed due to a wildfire burning nearby. ](/news/2011/06/27/las-conchas-wildfirepthe-los-alamos-national-laboratory-in-the-u-s-state-of-new-mexico-is-temporarily-closed-due-to-a-wildfire-burning-near.md)
 A raging wildfire near the Los Alamos National Laboratory in New Mexico has prompted the evacuation of more than 10,000 residents in the town as firefighters battle hot temperatures and high winds, authorities said Monday.

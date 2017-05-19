@@ -13,7 +13,7 @@ _Context: Congressional Gold Medal, Dalai Lama, George W. Bush, U.S. Congression
 _Context: Aung San Suu Kyi, Burma, Canada, Honorary Canadian citizenship_
 
 ### [ 2007 Turkish offensive on Iraqi territories against Kurdish rebels: The Turkish Grand National Assembly approves a government request for their troops to cross the Iraqi border to attack Kurdish rebels. ](/news/2007/10/17/2007-turkish-offensive-on-iraqi-territories-against-kurdish-rebels-the-turkish-grand-national-assembly-approves-a-government-request-for-t.md)
-_Context: 2007 Turkish offensive on Iraqi territories against Kurdish rebels, Iraq, Iraqi Kurd, Turkey, Turkish Parliament_
+_Context: 2007 Turkish offensive on Iraqi territories against Kurdish rebels, Iraq, Iraqi Kurd, Turkish, Turkish Parliament_
 
 ### [ The President of Sudan Omar Hassan al-Bashir approves a Cabinet reshuffle meeting one of the demands of the Sudan People's Liberation Movement (SPLM) who had earlier withdrawn participation in the government. ](/news/2007/10/17/the-president-of-sudan-omar-hassan-al-bashir-approves-a-cabinet-reshuffle-meeting-one-of-the-demands-of-the-sudan-people-s-liberation-movem.md)
 _Context: Omar Hassan al-Bashir, President of Sudan, Sudan People's Liberation Movement, forming a government_

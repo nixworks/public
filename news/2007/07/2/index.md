@@ -16,7 +16,7 @@ _Context: A$, Australia, Coles Group, Wesfarmers_
 _Context: George W. Bush, Iran, Kennebunkport, Maine, President, Russian President, Vladimir Putin, missile defense shield_
 
 ### [ The United States accuses Iran of using Hezbollah to train Shia militants in Iraq. The Iranian Defence Minister had earlier called the US the "biggest sponsor of terrorism" in the world. ](/news/2007/07/2/the-united-states-accuses-iran-of-using-hezbollah-to-train-shia-militants-in-iraq-the-iranian-defence-minister-had-earlier-called-the-us-t.md)
-_Context: Hezbollah, Iran, Iraq, Shia, United States_
+_Context: Hezbollah, Iran, Iraq, Shia, U.S._
 
 ### [ Garda Siochana find over 1.5 tonnes of cocaine worth over EUR105 million off the coast of West Cork after a small ship sinks - the largest cocaine seizure in the history of Ireland. The naval diving squad are continuing the search, as experts believe more of the drug is still in the sea. ](/news/2007/07/2/garda-saocha-na-find-over-1-5-tonnes-of-cocaine-worth-over-a-105-million-off-the-coast-of-west-cork-after-a-small-ship-sinks-the-larges.md)
 Customs officials have recovered 61 bales of cocaine in west Cork in the largest seizure of the drug in the history of the State.
@@ -34,7 +34,7 @@ _Context: Cyprus, Thomas K. Mooney, United States Embassy, lieutenant colonel, m
 _Context: 2007 attack, Brisbane, detective, planned car bomb attacks_
 
 ### [ The trial over the murder of Turkish-Armenian journalist Hrant Dink opens in Istanbul, Turkey. ](/news/2007/07/2/the-trial-over-the-murder-of-turkish-armenian-journalist-hrant-dink-opens-in-istanbul-turkey.md)
-_Context: Armenia, Hrant Dink, Istanbul, Turkey, Turks, journalist, trial_
+_Context: Armenia, Hrant Dink, Istanbul, Turkish, Turks, journalist, trial_
 
 ## [Previous Day...](/news/2007/07/1/index.md)
 

@@ -10,7 +10,7 @@ _Context: Apple Computer, Apple Corps, The Beatles, iTunes Music Store, trademar
 An Afghan Christian convert who had faced the death penalty for abandoning Islam has arrived in Italy where he has been granted asylum, Italian Premier Silvio Berlusconi said Wednesday. 
 
 ### [ A total solar eclipse may be observed from 08:36 GMT (09:36 BST) to 11:48 GMT (12:48 BST) in Eastern Brazil, West and North Africa, Turkey, Central Asia and Mongolia. ](/news/2006/03/29/a-total-solar-eclipse-may-be-observed-from-08-36-gmt-09-36-bst-to-11-48-gmt-12-48-bst-in-eastern-brazil-west-and-north-africa-turkey.md)
-_Context: Brazil, Central Asia, Mongolia, North African, Turkey, West Africa, total solar eclipse_
+_Context: Brazil, Central Asia, Mongolia, North African, Turkish, West Africa, total solar eclipse_
 
 ### [ Former Liberian President Charles Taylor is captured after disappearing in Nigeria and is extradited to Sierra Leone. ](/news/2006/03/29/former-liberian-president-charles-taylor-is-captured-after-disappearing-in-nigeria-and-is-extradited-to-sierra-leone.md)
 _Context: Charles G. Taylor, Liberia, Nigeria, President, Sierra Leone, extradited_

@@ -22,7 +22,7 @@ _Context: European sovereign-debt crisis, Eurozone, Greek_
 _Context: Bangkok, Thailand, floods_
 
 ### [The death toll from the 2011 Van earthquake in Turkey reaches 523, with rain and snow making conditions worse for people left homeless by the earthquake. ](/news/2011/10/27/the-death-toll-from-the-2011-van-earthquake-in-turkey-reaches-523-with-rain-and-snow-making-conditions-worse-for-people-left-homeless-by-th.md)
-_Context: 7.1 magnitude earthquake, Turkey_
+_Context: 7.1 magnitude earthquake, Turkish_
 
 ### [Twelve thousand people are evacuated from the German city of Halle, following the discovery of an unexploded World War II-era bomb. ](/news/2011/10/27/twelve-thousand-people-are-evacuated-from-the-german-city-of-halle-following-the-discovery-of-an-unexploded-world-war-ii-era-bomb.md)
 _Context: German, Halle, World War II_

@@ -10,7 +10,7 @@ For four long years the Damascus suburb of Daraya endured siege, bombardment and
 A biologically rich national marine monument grows to more than half a million square miles.
 
 ### [Turkey opens the Yavuz Sultan Selim Bridge in Istanbul, one of the world's biggest suspension bridges. ](/news/2016/08/26/turkey-opens-the-yavuz-sultan-selim-bridge-in-istanbul-one-of-the-world-s-biggest-suspension-bridges.md)
-_Context: Istanbul, Turkey, Yavuz Sultan Selim Bridge_
+_Context: Istanbul, Turkish, Yavuz Sultan Selim Bridge_
 
 ### [Fires in Indonesia burn and blow smoke into Singapore, engulfing the city-state into darkness. ](/news/2016/08/26/fires-in-indonesia-burn-and-blow-smoke-into-singapore-engulfing-the-city-state-into-darkness.md)
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com

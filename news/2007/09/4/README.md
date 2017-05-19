@@ -28,7 +28,7 @@ _Context: Nevada desert, Steve Fossett_
 _Context: Abdul Mannan Bhuiyan, Ashraf Hossain, Bangladesh Nationalist Party, Khaleda Zia_
 
 ### [ Former President of Iran, Hashemi Rafsanjani is elected the chairman of the Assembly of Experts ](/news/2007/09/4/former-president-of-iran-hashemi-rafsanjani-is-elected-the-chairman-of-the-assembly-of-experts.md)
-_Context: Assembly of Experts, Hashemi Rafsanjani, president_
+_Context: Assembly of Experts, Hashemi Rafsanjani, President of Iran_
 
 ### [ The Iraqi Supreme Court confirms the death sentence passed on Ali Hassan al-Majid, Sultan Hashim al-Tai and Hussein Rashid al-Tikriti. ](/news/2007/09/4/the-iraqi-supreme-court-confirms-the-death-sentence-passed-on-ali-hassan-al-majid-sultan-hashim-al-tai-and-hussein-rashid-al-tikriti.md)
 _Context: Ali Hassan al-Majid, Hussein Rashid al-Tikriti, Iraq, Sultan Hashim al-Tai_

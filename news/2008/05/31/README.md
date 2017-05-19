@@ -1,7 +1,7 @@
 ## [2008-05-31](/news/2008/05/31/index.md)
 
 ### [ Usain Bolt of Jamaica sets a new world record for the 100 metres in track and field in the Reebok Grand Prix at Icahn Stadium in New York City at 9.72 seconds. ](/news/2008/05/31/usain-bolt-of-jamaica-sets-a-new-world-record-for-the-100-metres-in-track-and-field-in-the-reebok-grand-prix-at-icahn-stadium-in-new-york-c.md)
-_Context: 100 metres, Icahn Stadium, Jamaica, New York's, Reebok Grand Prix, Usain Bolt, track and field_
+_Context: 100 metres, Icahn Stadium, Jamaica, New York City, Reebok Grand Prix, Usain Bolt, track and field_
 
 ### [ In rugby union, the Crusaders defeat the New South Wales Waratahs in the 2008 Super 14 Final. ](/news/2008/05/31/in-rugby-union-the-crusaders-defeat-the-new-south-wales-waratahs-in-the-2008-super-14-final.md)
 _Context: 2008 Super 14 Final, Crusaders, New South Wales Waratahs, rugby union_

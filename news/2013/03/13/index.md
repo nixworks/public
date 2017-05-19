@@ -10,7 +10,7 @@ _Context: Afghanistan, Kunduz Province, Taliban insurgency_
 _Context: Damascus, European Union, Syria, Syrian Civil War_
 
 ### [Kurdish-Turkish conflict:Kurdish rebels release eight Turkish citizens that had been held captive for two years. ](/news/2013/03/13/kurdishaturkish-conflict-pkurdish-rebels-release-eight-turkish-citizens-that-had-been-held-captive-for-two-years.md)
-_Context: Kurdish, Kurdish-Turkish conflict, Turkey_
+_Context: Kurdish, Kurdish-Turkish conflict, Turkish_
 
 ### [Nigerian Sharia conflict:Men on motorbikes storm a primary school in Nigeria and open fire wounding four teachers. ](/news/2013/03/13/nigerian-sharia-conflict-pmen-on-motorbikes-storm-a-primary-school-in-nigeria-and-open-fire-wounding-four-teachers.md)
 _Context: Nigeria, Nigerian Sharia conflict_

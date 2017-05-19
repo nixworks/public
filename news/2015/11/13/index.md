@@ -43,7 +43,7 @@ A prominent Burundi opposition politician urged the United Nations on Friday to 
 _Context: Angela Merkel's, European migrant crisis, German, German Chancellor_
 
 ### [U.S. Secretary of State John Kerry meets in Vienna, Austria,  with the foreign ministers of Turkey and Saudi Arabia, as well as the U.N. special envoy for Syria, ahead of Saturday's next round of international summits on the Syrian Civil War. The talks, aimed toward a cease-fire in Syria's devastating war and a  political transition to a post-war government, will include senior officials from 19 nations/groups  and, as in October, Iran will participate. ](/news/2015/11/13/u-s-secretary-of-state-john-kerry-meets-in-vienna-austria-with-the-foreign-ministers-of-turkey-and-saudi-arabia-as-well-as-the-u-n-spe.md)
-_Context: Austria, Iran, John Kerry, Saudi Arabia, Syria, Syrian Civil War peace process, Turkey, United Nations, United States Secretary of State, Vienna_
+_Context: Austria, Iran, John Kerry, Saudi Arabia, Syria, Syrian Civil War peace process, Turkish, United Nations, United States Secretary of State, Vienna_
 
 ### [As a temporary security measure, effective Saturday, Russia bans incoming flights by Egypt's state-owned airline,  EgyptAir, two weeks after an apparent terrorist bomb downed a Russian jet in the Sinai. ](/news/2015/11/13/as-a-temporary-security-measure-effective-saturday-russia-bans-incoming-flights-by-egypt-s-state-owned-airline-egyptair-two-weeks-after.md)
 _Context: Egypt, EgyptAir, Flight 9268, Russia, Sinai_

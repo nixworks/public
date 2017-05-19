@@ -10,7 +10,7 @@ _Context: Belgium, Guatemala, farmer, hostage, tourist_
 _Context: Administrator, Mars, Michael D. Griffin, NASA, Solar System, budget, outer, route_
 
 ### [ A bomb explodes at a restaurant in Islamabad, Pakistan, killing a Turkish woman and injuring 10 other people. ](/news/2008/03/15/a-bomb-explodes-at-a-restaurant-in-islamabad-pakistan-killing-a-turkish-woman-and-injuring-10-other-people.md)
-_Context: Islamabad, Pakistan, Turkey, bomb, restaurant_
+_Context: Islamabad, Pakistan, Turkish, bomb, restaurant_
 
 ### [ A construction crane falls on a residential building in Manhattan, New York City, killing four people and injuring at least 17. ](/news/2008/03/15/a-construction-crane-falls-on-a-residential-building-in-manhattan-new-york-city-killing-four-people-and-injuring-at-least-17.md)
 A giant crane fell and crushed a residential building in Manhattan on Saturday, killing four construction workers and injuring more than 10 other people, New York Mayor Michael Bloomberg said.
@@ -31,7 +31,7 @@ _Context: 2008 Tirana explosions, Albania, Tirana, weapon_
 _Context: Scientology, hacker group Anonymous, protest_
 
 ### [ Turkish Prime Minister Recep Tayyip Erdogan says prosecutor Abdurrahman Yalcinkaya's proposal to ban the ruling Justice and Development Party is against the "national will". ](/news/2008/03/15/turkish-prime-minister-recep-tayyip-erdoaan-says-prosecutor-abdurrahman-yalassa-nkaya-s-proposal-to-ban-the-ruling-justice-and-development.md)
-_Context: Abdurrahman Yalcinkaya, Prime Minister of Turkey, Recep Tayyip Erdogan, Turkey, ruling party_
+_Context: Abdurrahman Yalcinkaya, Prime Minister of Turkey, Recep Tayyip Erdogan, Turkish, ruling party_
 
 ### [ At the 11th National People's Congress, Hu Jintao is elected to a second term as the President of China, and Xi Jinping is elected Vice-President. ](/news/2008/03/15/at-the-11th-national-people-s-congress-hu-jintao-is-elected-to-a-second-term-as-the-president-of-china-and-xi-jinping-is-elected-vice-pre.md)
 _Context: 11th, China, Chinese President, Hu Jintao, Vice President, Xi Jinping, parliament_

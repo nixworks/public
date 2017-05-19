@@ -61,7 +61,7 @@ _Context: Nakba, United Nations_
 Chinese censors block internet references to former leader Jiang Zemin, whose name means &quot;river&quot;, after rumours that he has died circulate.
 
 ### [Turkish Prime Minister Recep Tayyip Erdogan announces the new cabinet of Turkey.](/news/2011/07/6/turkish-prime-minister-recep-tayyip-erdoaan-announces-the-new-cabinet-of-turkey.md)
-_Context: Recep Tayyip Erdogan, Turkey, new cabinet_
+_Context: Recep Tayyip Erdogan, Turkish, new cabinet_
 
 ## [Previous Day...](/news/2011/07/5/index.md)
 

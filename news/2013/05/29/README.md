@@ -31,7 +31,7 @@ _Context: International Criminal Tribunal for the former Yugoslavia, Jadranko Pr
 Security forces struggled to control Buddhist mobs who burned Muslim homes on Wednesday for a second day in the northern Myanmar city of Lashio in a dangerous widening of ultra-nationalist Buddhist violence.
 
 ### [The New York Police Department (NYPD) states that preliminary tests indicate ricin was present in letters that were sent to the office of New York City Mayor and media mogul Michael Bloomberg, and to the office of the Director of Mayors Against Illegal Guns. ](/news/2013/05/29/the-new-york-police-department-nypd-states-that-preliminary-tests-indicate-ricin-was-present-in-letters-that-were-sent-to-the-office-of-ne.md)
-_Context: Mayors Against Illegal Guns, Michael Bloomberg, New York Police Department, New York's_
+_Context: Mayors Against Illegal Guns, Michael Bloomberg, New York City, New York Police Department_
 
 ### [Michael Adebowale is charged with the murder of British Army soldier Lee Rigby in the 2013 Woolwich attack. ](/news/2013/05/29/michael-adebowale-is-charged-with-the-murder-of-british-army-soldier-lee-rigby-in-the-2013-woolwich-attack.md)
 Police say they have charged Michael Adebowale with murdering a British soldier last week in a brazen attack in broad daylight

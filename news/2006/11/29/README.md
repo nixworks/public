@@ -19,7 +19,7 @@ _Context: George W. Bush administration, Hurricane Katrina, Richard Leon, U.S. f
 _Context: 11 March, 2004 Madrid attacks, Brandon Mayfield, Federal Bureau of Investigation_
 
 ### [ Al-Qaida in Iraq condemns Pope Benedict XVI's visit to Turkey as being part of a "Crusader campaign" against Islam. Vatican officials respond by saying that the comments illustrate the need for religions to fight "violence in the name of God". ](/news/2006/11/29/al-qaida-in-iraq-condemns-pope-benedict-xvi-s-visit-to-turkey-as-being-part-of-a-crusader-campaign-against-islam-vatican-officials-respo.md)
-_Context: Al-Qaida in Iraq, Benedict XVI, Crusader, God, Holy See, Islam, Turkey_
+_Context: Al-Qaida in Iraq, Benedict XVI, Crusader, God, Holy See, Islam, Turkish_
 
 ### [ Former Prime Minister of Russia Yegor Gaidar is recovering in hospital in Moscow from a mystery illness contracted in Ireland prompting speculation of a connection with the poisoning of Alexander Litvinenko. ](/news/2006/11/29/former-prime-minister-of-russia-yegor-gaidar-is-recovering-in-hospital-in-moscow-from-a-mystery-illness-contracted-in-ireland-prompting-spe.md)
 _Context: Alexander Litvinenko, Ireland, Moscow, Prime Minister, Yegor Gaidar_
@@ -31,7 +31,7 @@ _Context: Al Wefaq, parliamentary elections, radical Islamists_
 _Context: Black Hawk helicopter, Fiji, HMAS ''Kanimbla'', Suva, soldiers_
 
 ### [ The United Nations Security Council unanimously passes a resolution that extends the mandate of the United States-led multinational force in Iraq until December 31, 2007.  The new resolution requires a review of the mandate to begin by June 15, 2007, or sooner if the government of Iraq requests it.  The government of Iraq can also revoke the mandate before its end if it chooses to do so. ](/news/2006/11/29/the-united-nations-security-council-unanimously-passes-a-resolution-that-extends-the-mandate-of-the-united-states-led-multinational-force-i.md)
-_Context: Iraq, U.S.-led troops, United Nations Security Council, United States_
+_Context: Iraq, U.S., U.S.-led troops, United Nations Security Council_
 
 ### [ The Prime Minister of Fiji Laisenia Qarase meets with Fijian military commander Commodore Frank Bainimarama in emergency talks in Wellington, New Zealand aimed at averting a coup. ](/news/2006/11/29/the-prime-minister-of-fiji-laisenia-qarase-meets-with-fijian-military-commander-commodore-frank-bainimarama-in-emergency-talks-in-wellingto.md)
 _Context: Fiji, Laisenia Qarase, New Zealand, Prime Minister, Voreqe Bainimarama, Wellington_

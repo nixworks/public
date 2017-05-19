@@ -4,7 +4,7 @@
 _Context: 2008 Mumbai attacks, Ajmal Kasab, India_
 
 ### [American air carriers United and Continental officially announce a merger that will create the world's largest airline. ](/news/2010/05/3/american-air-carriers-united-and-continental-officially-announce-a-merger-that-will-create-the-world-s-largest-airline.md)
-_Context: Continental Airlines, United Airlines, United States_
+_Context: Continental Airlines, U.S., United Airlines_
 
 ### [Darfur rebel group, the Justice and Equality Movement, breaks off peace talks with the Sudanese government, accusing it of a renewing the conflict with a military offensive that has included airstrikes and ground attacks over the past week.  ](/news/2010/05/3/darfur-rebel-group-the-justice-and-equality-movement-breaks-off-peace-talks-with-the-sudanese-government-accusing-it-of-a-renewing-the-co.md)
 _Context: Darfur, Justice and Equality Movement, Sudanese government, conflict_
@@ -22,7 +22,7 @@ _Context: Bibi Ngota, Cameroon, World Press Freedom Day, Yaounde_
 Irish airspace will close from 7am tomorrow because of an ash cloud drifting down from Iceland.
 
 ### [Iranian President Mahmoud Ahmadinejad and United States Secretary of State Hillary Clinton exchange criticism of each other's countries nuclear policies at the opening of the Nuclear Non-proliferation Treaty Review Conference at the United Nations Headquarters in New York. ](/news/2010/05/3/iranian-president-mahmoud-ahmadinejad-and-united-states-secretary-of-state-hillary-clinton-exchange-criticism-of-each-otheras-countries-nu.md)
-_Context: Hillary Clinton, Mahmoud Ahmadinejad, New York's, Nuclear Non-Proliferation Treaty, Review Conference, United Nations Headquarters, United States Secretary of State, president_
+_Context: Hillary Clinton, Mahmoud Ahmadinejad, New York City, Nuclear Non-Proliferation Treaty, President of Iran, Review Conference, United Nations Headquarters, United States Secretary of State_
 
 ### [Australian mining stocks plummet after the government passes a new 40% profit tax on the industry.  International mining companies warn that many new mining projects may be canceled. ](/news/2010/05/3/australian-mining-stocks-plummet-after-the-government-passes-a-new-40-profit-tax-on-the-industry-international-mining-companies-warn-that.md)
 * PM Rudd plans mining tax in re-election gamble * Govt says Australians shortchanged by global miners * Future of tax uncertain as oppo

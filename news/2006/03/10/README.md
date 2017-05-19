@@ -22,7 +22,7 @@ _Context: David Mills, Italian Prime Minister, Silvio Berlusconi, indicted_
 _Context: Dera Bugti, Pakistan, Twenty-six people are killed, landmine, planted landmines_
 
 ### [ Terminal D at LaGuardia Airport in New York City was closed due to a security breach. ](/news/2006/03/10/terminal-d-at-laguardia-airport-in-new-york-city-was-closed-due-to-a-security-breach.md)
-_Context: LaGuardia Airport, New York's_
+_Context: LaGuardia Airport, New York City_
 
 ### [ Gale Norton has announced her resignation as United States Secretary of the Interior, effective March 31, 2006. ](/news/2006/03/10/gale-norton-has-announced-her-resignation-as-united-states-secretary-of-the-interior-effective-march-31-2006.md)
 _Context: Gale Norton, United States Secretary of the Interior_

@@ -10,7 +10,7 @@ _Context: Blacksburg, Virginia, James M. Buchanan, Nobel Memorial Prize in Econo
 In face of outcry, AIG board decides against joining lawsuit from shareholder group led by ex-CEO which challenges terms of bailout that saved it from bankruptcy.
 
 ### [A SeaStreak ferry travelling to Lower Manhattan, New York City, crashes into the dock, injuring 85 people. ](/news/2013/01/9/a-seastreak-ferry-travelling-to-lower-manhattan-new-york-city-crashes-into-the-dock-injuring-85-people.md)
-_Context: Lower Manhattan, New York's, SeaStreak, ferry_
+_Context: Lower Manhattan, New York City, SeaStreak, ferry_
 
 ### [Retired British businessman Christopher Tappin is sentenced to 33 months in prison by a U.S. court after pleading guilty to selling weapon parts to Iran. ](/news/2013/01/9/retired-british-businessman-christopher-tappin-is-sentenced-to-33-months-in-prison-by-a-u-s-court-after-pleading-guilty-to-selling-weapon-p.md)
 Extradited British businessman Christopher Tappin is handed a 33-month prison sentence by a court in Texas after admitting selling weapon parts to Iran.

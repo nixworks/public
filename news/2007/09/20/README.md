@@ -7,7 +7,7 @@ _Context: Ohio, Warren, handcuffed, taser_
 _Context: 2007 Pakistani presidential election, Pakistan, election_
 
 ### [ Iran: The New York Police Department denies a request by the President of Iran Mahmoud Ahmadinejad to visit Ground Zero of the September 11, 2001 attacks in New York City. ](/news/2007/09/20/iran-p-the-new-york-police-department-denies-a-request-by-the-president-of-iran-mahmoud-ahmadinejad-to-visit-ground-zero-of-the-september-1.md)
-_Context: Ground Zero, Iran, Mahmoud Ahmadinejad, New York Police Department, New York's, September 11, 2001 attacks, president_
+_Context: Ground Zero, Iran, Mahmoud Ahmadinejad, New York City, New York Police Department, President of Iran, September 11, 2001 attacks_
 
 ### [ American cyclist Floyd Landis is officially stripped of his win in the 2006 Tour de France and banned from competition for two years after an arbitration panel finds him guilty of doping during the 2006 Tour. He has 30 days to appeal to the Court of Arbitration for Sport. ](/news/2007/09/20/american-cyclist-floyd-landis-is-officially-stripped-of-his-win-in-the-2006-tour-de-france-and-banned-from-competition-for-two-years-after.md)
 Cyclist Floyd Landis has received a two-year ban for doping, The Associated Press has learned.
@@ -19,10 +19,10 @@ _Context: Osama bin Laden, Pakistan, Pervez Musharraf, President_
 _Context: Howard University, Jena Six, Jena, Louisiana, NAACP, U.S._
 
 ### [ CNN reports that Iran has released Iranian-American social scientist Kian Tajbakhsh. ](/news/2007/09/20/cnn-reports-that-iran-has-released-iranian-american-social-scientist-kian-tajbakhsh.md)
-_Context: CNN, Iran, Kian Tajbakhsh, United States, social scientist_
+_Context: CNN, Iran, Kian Tajbakhsh, U.S., social scientist_
 
 ### [ Al Qaeda's Deputy Leader Ayman al-Zawahri claims that the United States is being defeated in Iraq, Afghanistan, Somalia and North Africa. ](/news/2007/09/20/al-qaeda-s-deputy-leader-ayman-al-zawahri-claims-that-the-united-states-is-being-defeated-in-iraq-afghanistan-somalia-and-north-africa.md)
-_Context: Afghanistan, Ayman al-Zawahri, Iraq, North African, Somalia, United States, al-Qaeda_
+_Context: Afghanistan, Ayman al-Zawahri, Iraq, North African, Somalia, U.S., al-Qaeda_
 
 ### [ Qian Xun Xue case: Questions are asked in the New Zealand parliament as to why Nai Yin Xue was able to leave the country with his daughter despite a court order. ](/news/2007/09/20/qian-xun-xue-case-questions-are-asked-in-the-new-zealand-parliament-as-to-why-nai-yin-xue-was-able-to-leave-the-country-with-his-daughter.md)
 _Context: New Zealand parliament, Qian Xun Xue case, court order_

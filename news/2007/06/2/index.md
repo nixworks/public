@@ -7,7 +7,7 @@ _Context: Denmark, Somalia, U.S. Navy, USS ''Carter Hill'', anti-piracy, dock la
 _Context: Israel, Nablus, Palestinian, West Bank_
 
 ### [ Three suspects are arrested in relation to a terrorism plot involving John F. Kennedy International Airport in New York City, with a fourth suspect being sought. ](/news/2007/06/2/three-suspects-are-arrested-in-relation-to-a-terrorism-plot-involving-john-f-kennedy-international-airport-in-new-york-city-with-a-fourth.md)
-_Context: New York, New York's, terrorism_
+_Context: New York, New York City, terrorism_
 
 ### [ Scotland Yard detectives who went to Jamaica to probe Bob Woolmer's death come to the verdict of the murder investigation, saying that Bob Woolmer died of heart failure and was not murdered. ](/news/2007/06/2/scotland-yard-detectives-who-went-to-jamaica-to-probe-bob-woolmer-s-death-come-to-the-verdict-of-the-murder-investigation-saying-that-bob.md)
 _Context: Bob Woolmer, Jamaica, Scotland Yard detectives, murder investigation_
@@ -19,7 +19,7 @@ _Context: 33rd G8 summit, German, Heiligendamm, Rostock, antiglobalisation_
 _Context: Abdelaziz Belkhadem, Abdelaziz Bouteflika, President, Prime Minister of Algeria, forming a government_
 
 ### [ The United States Federal Bureau of Investigation names Alexis Flores as the 487th person placed on the FBI Ten Most Wanted Fugitives list.  He is wanted for the kidnapping, rape and murder of a five-year-old girl in Philadelphia, Pennsylvania. ](/news/2007/06/2/the-united-states-federal-bureau-of-investigation-names-alexis-flores-as-the-487th-person-placed-on-the-fbi-ten-most-wanted-fugitives-list.md)
-_Context: 10 Most Wanted Fugitives list, Alexis Flores, Federal Bureau of Investigation, Philadelphia, United States, kidnapped, murder, rape_
+_Context: 10 Most Wanted Fugitives list, Alexis Flores, Federal Bureau of Investigation, Philadelphia, U.S., kidnapped, murder, rape_
 
 ## [Previous Day...](/news/2007/06/1/index.md)
 

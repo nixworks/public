@@ -10,10 +10,10 @@ _Context: Kosovo, Kosovo, Palau_
 _Context: County Armagh, Craigavon, Northern Ireland, Police Service of Northern Ireland, police officer_
 
 ### [ The United States government claims five Chinese ships "harass[ed]" the USNS ''Impeccable'' in the South China Sea. ](/news/2009/03/9/the-united-states-government-claims-five-chinese-ships-harass-ed-the-usns-impeccable-in-the-south-china-sea.md)
-_Context: ''Impeccable'', American, People's Republic of China, South China Sea, USNS, United States_
+_Context: ''Impeccable'', American, People's Republic of China, South China Sea, U.S., USNS_
 
 ### [ U.S. President Barack Obama lifts George W. Bush's restrictions on embryonic stem cell research. ](/news/2009/03/9/u-s-president-barack-obama-lifts-george-w-bush-s-restrictions-on-embryonic-stem-cell-research.md)
-_Context: George W. Bush, Obama, President, United States, embryonic stem cell, restrictions_
+_Context: George W. Bush, Obama, President, U.S., embryonic stem cell, restrictions_
 
 ### [ Argentina and Chile reject the United Kingdom's claims on Antarctic territory. ](/news/2009/03/9/argentina-and-chile-reject-the-united-kingdom-s-claims-on-antarctic-territory.md)
 _Context: Antarctica, Argentina, British Antarctic Territory, Chile, United Kingdom, territory_

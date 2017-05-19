@@ -19,7 +19,7 @@ _Context: Guangdong province, Lantern Festival, Puning_
 _Context: Fanaga village, Kunming, Luquan, Yunnan, yuan_
 
 ### [Police in Turkey arrest at least 18 people in connection with an alleged coup plot. ''[http://www.cnn.com/2010/WORLD/asiapcf/02/26/turkey.sledgehammer.arrests/index.html?hpt=Sbin (CNN)]''](/news/2010/02/27/police-in-turkey-arrest-at-least-18-people-in-connection-with-an-alleged-coup-plot-http-www-cnn-com-2010-world-asiapcf-02-26-turkey-sl.md)
-_Context: Turkey, coup_
+_Context: Turkish, coup_
 
 ### [Constitutional judges in Colombia reject a referendum to allow President lvaro Uribe to stand for a third term in office. ](/news/2010/02/27/constitutional-judges-in-colombia-reject-a-referendum-to-allow-president-alvaro-uribe-to-stand-for-a-third-term-in-office.md)
 A court blocked Colombian President Alvaro Uribe on Friday from running for re-election, making his former defense minister the favorite to succeed the Washington ally in a May presidential election.

@@ -7,7 +7,7 @@ Pro-democracy protests which swept the Arab world earlier in the year have erupt
 _Context: Deutsche Boerse AG, European Union, NYSE Euronext_
 
 ### [Various American labor unions, including the CWA and the ATU, join the Occupy Wall Street demonstrations in New York City. ](/news/2011/10/5/various-american-labor-unions-including-the-cwa-and-the-atu-join-the-occupy-wall-street-demonstrations-in-new-york-city.md)
-_Context: ATU, New York's, Occupy Wall Street, labor union, union_
+_Context: ATU, New York City, Occupy Wall Street, labor union, union_
 
 ### [Steve Jobs, the co-founder of Apple Inc., dies of pancreatic cancer. ](/news/2011/10/5/steve-jobs-the-co-founder-of-apple-inc-dies-of-pancreatic-cancer.md)
 _Context: Apple Inc., Steve Jobs, pancreatic cancer_

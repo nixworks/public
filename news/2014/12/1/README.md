@@ -19,7 +19,7 @@ _Context: Bering Sea, Chukotka Autonomous Okrug, Russia, South Korea_
 The world has finally reached &quot;the beginning of the end&quot; of the AIDS pandemic that has infected and killed millions in the past 30 years, according to a leading campaign group fighting HIV.
 
 ### [Russia abandons its plans for the South Stream pipeline to Bulgaria due to European Union objections instead looking at a pipeline to Turkey. ](/news/2014/12/1/russia-abandons-its-plans-for-the-south-stream-pipeline-to-bulgaria-due-to-european-union-objections-instead-looking-at-a-pipeline-to-turkey.md)
-_Context: Bulgaria, European Union, Russia, South Stream, Turkey_
+_Context: Bulgaria, European Union, Russia, South Stream, Turkish_
 
 ### [The United Nations World Food Program suspends a food program for 1.7 million Syrian refugees after donor countries fail to meet their commitments. ](/news/2014/12/1/the-united-nations-world-food-program-suspends-a-food-program-for-1-7-million-syrian-refugees-after-donor-countries-fail-to-meet-their-commi.md)
 The United Nations World Food Program on Monday suspended a food voucher program serving more than 1.7 million Syrian refugees, citing a funding crisis after many donors failed to meet their commitments.

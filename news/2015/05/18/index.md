@@ -13,7 +13,7 @@ _Context: Anbar Governorate, ISIS, Iraq, Islamic State in Iraq and the Levant, R
 U.S. stocks closed higher, with the Dow and S&amp;P setting records, as investors shook off concerns about Greek debt and a renewed rise in bond yields.
 
 ### [Amtrak resumes train services between New York City and Philadelphia, Pennsylvania, following a fatal train derailment on May 12. ](/news/2015/05/18/amtrak-resumes-train-services-between-new-york-city-and-philadelphia-pennsylvania-following-a-fatal-train-derailment-on-may-12.md)
-_Context: 2015 Philadelphia train derailment, Amtrak, New York's, Philadelphia_
+_Context: 2015 Philadelphia train derailment, Amtrak, New York City, Philadelphia_
 
 ### [At least 52 people die in a landslide caused by heavy rains in the Colombian town of Salgar, Antioquia. ](/news/2015/05/18/at-least-52-people-die-in-a-landslide-caused-by-heavy-rains-in-the-colombian-town-of-salgar-antioquia.md)
 A massive landslide tore through a ravine in northwest Colombia Monday before dawn, killing at least 62 people and injuring 40, authorities said. Most residents were sleeping when the landslide hit the municipality of Salgar around 3:00 am, burying a large area in mud and debris. The rush of mud and

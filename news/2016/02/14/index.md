@@ -19,7 +19,7 @@ The British Academy of Film and Television Arts celebrated its biggest night ton
 _Context: 2016 Christchurch earthquake, Christchurch, New Zealand, St. John ambulance service, United States Geological Survey, earthquake, magnitude_
 
 ### [The cold snap continues in the northeastern United States with record lows forecast in major cities like New York City and Philadelphia. ](/news/2016/02/14/the-cold-snap-continues-in-the-northeastern-united-states-with-record-lows-forecast-in-major-cities-like-new-york-city-and-philadelphia.md)
-_Context: New York's, Northeastern United States, Philadelphia_
+_Context: New York City, Northeastern United States, Philadelphia_
 
 ### [All four members of the British indie band Viola Beach and their manager die in a road accident near Stockholm, Sweden. ](/news/2016/02/14/all-four-members-of-the-british-indie-band-viola-beach-and-their-manager-die-in-a-road-accident-near-stockholm-sweden.md)
 The four members of British indie band Viola Beach and their manager die in a car crash in Sweden.

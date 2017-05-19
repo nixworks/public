@@ -16,7 +16,7 @@ At least 12 people - including two soldiers - are killed in a gunfight between t
 _Context: Eskinder Nega, Ethiopia, PEN America_
 
 ### [Edvard Munch's ''The Scream'' sells for a record $US119,922,500 in an auction in New York City. ](/news/2012/05/2/edvard-munch-s-the-scream-sells-for-a-record-us119-922-500-in-an-auction-in-new-york-city.md)
-_Context: Edvard Munch, New York's, The Scream_
+_Context: Edvard Munch, New York City, The Scream_
 
 ### [A court in the German city of Mannheim rules that Microsoft has infringed Motorola Mobility's patents and bans Xbox 360 gaming consoles and Windows 7 operating system from sale in Germany. ](/news/2012/05/2/a-court-in-the-german-city-of-mannheim-rules-that-microsoft-has-infringed-motorola-mobility-s-patents-and-bans-xbox-360-gaming-consoles-and.md)
 _Context: German, German, Mannheim, Microsoft, Motorola Mobility, Windows 7, Xbox 360_

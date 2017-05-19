@@ -1,4 +1,15 @@
-## [News](/news/2017/05/18/index.md)
+## [News](/news/2017/05/19/index.md)
+
+### [Voters in Iran go to the polls to elect the President of Iran. Final opinion polls continue to predict that the incumbent Hassan Rouhani of the Moderation and Development Party will receive a majority of votes, with the Combatant Clergy Association's Ebrahim Raisi as his main competition. ](/news/2017/05/19/voters-in-iran-go-to-the-polls-to-elect-the-president-of-iran-final-opinion-polls-continue-to-predict-that-the-incumbent-hassan-rouhani-of.md)
+Voters are to elect a new president, with incumbent Hassan Rouhani up against three challengers.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/05/18/index.md)
 
 ### [United States aircraft bomb a Syrian regime convoy within a so-called "deconfliction zone" around Al-Tanf. ](/news/2017/05/18/united-states-aircraft-bomb-a-syrian-regime-convoy-within-a-so-called-deconfliction-zone-around-al-tanf.md)
 CBS News correspondent David Martin reports Syrian regime vehicles have violated the deconfliction zone twice within the past few days
@@ -12,16 +23,15 @@ _Context: Chris Cornell, Soundgarden_
 ### [An automobile crashes into pedestrians in New York City's Times Square, killing one person and injuring several others. Police are investigating the incident as an accident. ](/news/2017/05/18/an-automobile-crashes-into-pedestrians-in-new-york-city-s-times-square-killing-one-person-and-injuring-several-others-police-are-investiga.md)
 At least one person has died and nearly two dozen were hurt when a wrong-way driver slammed into a crowd of pedestrians in Times Square Thursday, senior officials familiar with the investigation tell NBC 4...
 
+### [The U.S. summons Turkish ambassador Serdar Kilic after violence between protestors and Turkish security personnel outside the Embassy of Turkey, Washington, D.C. left over a dozen people injured. U.S. Senator John McCain calls on the Trump administration to expel the ambassador. ](/news/2017/05/18/the-u-s-summons-turkish-ambassador-serdar-ka-la-ass-after-violence-between-protestors-and-turkish-security-personnel-outside-the-embassy-of.md)
+The meeting comes as senators call for the Turkish ambassador to be expelled over the violence.
+
 ### [Official campaigning  ends with opinion polling showing Hassan Rouhani and Ebrahim Raisi as the two leading candidates. ](/news/2017/05/18/official-campaigning-ends-with-opinion-polling-showing-hassan-rouhani-and-ebrahim-raisi-as-the-two-leading-candidates.md)
 Supporters of the two leading candidates in Iran’s presidential election took to the streets as official campaigning came to an end.
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/05/17/index.md)
+## [Day Before Yesterday](/news/2017/05/17/index.md)
 
 ### [Bundu dia Kongo followers free their leader and 50 other inmates with an attack on the Makala jail of Kinshasa, Democratic Republic of the Congo. ](/news/2017/05/17/bundu-dia-kongo-followers-free-their-leader-and-50-other-inmates-with-an-attack-on-the-makala-jail-of-kinshasa-democratic-republic-of-the-c.md)
 Separatist cult leader and about 50 other inmates freed after supporters attack prison in the capital Kinshasa.
@@ -49,29 +59,7 @@ Mueller will oversee the investigation into efforts to influence the election.
 
 ---
 
-## [Day Before Yesterday](/news/2017/05/16/index.md)
-
-### [The Office for National Statistics in the United Kingdom states that consumer prices in Britain rose by an annualized 2.7% in April, the highest level of inflation in almost four years. ](/news/2017/05/16/the-office-for-national-statistics-in-the-united-kingdom-states-that-consumer-prices-in-britain-rose-by-an-annualized-2-7-in-april-the-hig.md)
-British inflation hit its highest level since September 2013 last month, extending its sharp rise since the vote to leave the European Union and tightening the squeeze on living costs as a national election approaches.
-
-### [Israeli Minister of Construction Yoav Galant states that Syrian President Bashar al-Assad should be assassinated.  Yesterday, the United States Department of State accused the al-Assad government of using a crematory at Sednaya Prison to cover up the mass murders of thousands of political prisoners. The Syrian government denies the accusations. ](/news/2017/05/16/israeli-minister-of-construction-yoav-galant-states-that-syrian-president-bashar-al-assad-should-be-assassinated-yesterday-the-united-sta.md)
-An Israeli cabinet member on Tuesday claimed that Syrian President Bashar al-Assad should not simply be removed from office -- he should be killed.
-
-### [In a series of tweets, President Donald Trump acknowledges that he shared classified information with Russian envoys, contradicting earlier White House denials. ](/news/2017/05/16/in-a-series-of-tweets-president-donald-trump-acknowledges-that-he-shared-classified-information-with-russian-envoys-contradicting-earlier.md)
-Israel was reportedly worried that top secret information may pass to Russia, then Iran.
-
-### [''The New York Times'' reports that a memo from James Comey, read in part to a reporter by a Comey associate, revealed that President Donald Trump asked him to end the F.B.I. investigation of Michael T. Flynn. The White House denies the version of events in the memo. ](/news/2017/05/16/the-new-york-times-reports-that-a-memo-from-james-comey-read-in-part-to-a-reporter-by-a-comey-associate-revealed-that-president-donald.md)
-The Republican chairman of the House Oversight Committee demanded Tuesday that the FBI turn over all documents it has about communications between President Donald Trump and former FBI Director James Comey. Chairman Jason Chaffetz of Utah sent the letter a few hours after it was reported that Trump allegedly asked Comey to end the FBI&#x27;s investigation into former National Security Adviser Michael Flynn, who resigned in February following reports that he misled Vice President Mike Pence about his conversations with Russia&#x27;s ambassador to the United States.
-
-### [In an expected event, Eshaq Jahangiri withdraws his candidacy and urges his supporters to vote for incumbent president Hassan Rouhani. ](/news/2017/05/16/in-an-expected-event-eshaq-jahangiri-withdraws-his-candidacy-and-urges-his-supporters-to-vote-for-incumbent-president-hassan-rouhani.md)
-Eshaq Jahangiri pulled out to smooth the path for the moderate incumbent, Hassan Rouhani.
-
-### [The first synchrotron in the Middle East, SESAME, opens in Jordan, marking a rare cooperation between Iran, Israel, Turkey, and the Palestinian Authority.  ](/news/2017/05/16/the-first-synchrotron-in-the-middle-east-sesame-opens-in-jordan-marking-a-rare-cooperation-between-iran-israel-turkey-and-the-palestin.md)
-An advanced research centre to be shared by the troubled region has opened today in Jordan.
-
----
-
-## [Previous Day...](/news/2017/05/15/index.md)
+## [Previous Day...](/news/2017/05/16/index.md)
 
 ---
 

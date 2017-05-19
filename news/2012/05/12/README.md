@@ -25,7 +25,7 @@ China denies reports its military forces are preparing for war amid tensions ove
 A pair of Palestinian prisoners being held without charge enter day 74 without food as physicians believe their lives are in &#034;immediate danger&#034;.
 
 ### [President of Iran Mahmoud Ahmadinejad calls Israel "nothing more than a mosquito" and downplays the idea of war between the two countries, ahead of talks regarding Iran's nuclear program. ](/news/2012/05/12/president-of-iran-mahmoud-ahmadinejad-calls-israel-nothing-more-than-a-mosquito-and-downplays-the-idea-of-war-between-the-two-countries-a.md)
-_Context: Israel, Mahmoud Ahmadinejad, mosquito, nuclear scientist, president_
+_Context: Israel, Mahmoud Ahmadinejad, President of Iran, mosquito, nuclear scientist_
 
 ### [President of Venezuela Hugo Chavez returns home after successfully completing of a course of radiotherapy for cancer in Cuba. ](/news/2012/05/12/president-of-venezuela-hugo-cha-vez-returns-home-after-successfully-completing-of-a-course-of-radiotherapy-for-cancer-in-cuba.md)
 Venezuelan President Hugo Chavez returns from Cuba, saying his radiotherapy treatment for cancer is over and has been successful.

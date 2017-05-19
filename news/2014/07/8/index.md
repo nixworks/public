@@ -25,7 +25,7 @@ A U.N. tribunal has awarded Bangladesh nearly four-fifths of an area sprawling o
 _Context: Brazil, Sao Paulo_
 
 ### [A jury acquits Rengan Rajaratnam after a trial on insider trading charges in U.S. District Court in New York City. ](/news/2014/07/8/a-jury-acquits-rengan-rajaratnam-after-a-trial-on-insider-trading-charges-in-u-s-district-court-in-new-york-city.md)
-_Context: New York's, Rengan Rajaratnam, U.S. district court, insider trading_
+_Context: New York City, Rengan Rajaratnam, U.S. district court, insider trading_
 
 ### [Around 70 pro-US activists occupy Taiwan provincial government hall. ](/news/2014/07/8/around-70-pro-us-activists-occupy-taiwan-provincial-government-hall.md)
 _Context: Taiwan provincial, pro-US_

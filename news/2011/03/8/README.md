@@ -49,7 +49,7 @@ _Context: Darfur, International Criminal Court_
 The prominent Syrian human rights activist and critic of the government Haitham al-Maleh was been released from jail.
 
 ### [Mexico's youngest police chief, Marisol Valles Garcia of the town of Praxedis G. Guerrero, Chihuahua, seeks asylum to the United States after receiving death threats. ](/news/2011/03/8/mexico-s-youngest-police-chief-marisol-valles-garcaa-of-the-town-of-pra-xedis-g-guerrero-chihuahua-seeks-asylum-to-the-united-states-af.md)
-_Context: Marisol Valles Garcia, Mexico, Praxedis G. Guerrero, Chihuahua, United States_
+_Context: Marisol Valles Garcia, Mexico, Praxedis G. Guerrero, Chihuahua, U.S._
 
 ### [Twenty-one Catholic priests in the US city of Philadelphia, Pennsylvania, are suspended after being named in an investigation in claims of widespread child molestation. ](/news/2011/03/8/twenty-one-catholic-priests-in-the-us-city-of-philadelphia-pennsylvania-are-suspended-after-being-named-in-an-investigation-in-claims-of-w.md)
 Twenty-one Roman Catholic priests are suspended in Philadelphia after the release of a legal report into allegations of child molestation.
@@ -61,7 +61,7 @@ _Context: Darfur, Sudan_
 _Context: Gyaincain Norbu, Panchen Lama, Tibetan, unrest in 2008_
 
 ### [Former President of Iran Hashemi Rafsanjani loses his position as head of the Assembly of Experts, the body responsible for choosing the Supreme Leader of Iran, being replaced by Mohammad-Reza Mahdavi Kani. ](/news/2011/03/8/former-president-of-iran-hashemi-rafsanjani-loses-his-position-as-head-of-the-assembly-of-experts-the-body-responsible-for-choosing-the-sup.md)
-_Context: Assembly of Experts, Hashemi Rafsanjani, Mohammad-Reza Mahdavi Kani, Supreme Leader of Iran, president_
+_Context: Assembly of Experts, Hashemi Rafsanjani, Mohammad-Reza Mahdavi Kani, President of Iran, Supreme Leader of Iran_
 
 ### [Opposition websites report that Iranian security forces have fired teargas at crowds in Tehran to disperse protestors. ](/news/2011/03/8/opposition-websites-report-that-iranian-security-forces-have-fired-teargas-at-crowds-in-tehran-to-disperse-protestors.md)
 Iranian security forces fired teargas to disperse anti-government protesters in Tehran on Tuesday, the opposition website Kaleme reported.

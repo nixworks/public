@@ -31,7 +31,7 @@ _Context: Brazil, Minas Gerais, Toyota Corolla_
 _Context: Sarath Fonseka, Sri Lanka_
 
 ### [President of Iran Mahmoud Ahmadinejad arrives in Zimbabwe; Prime Minister Morgan Tsvangirai's Movement for Democratic Change - Tsvangirai objects, labelling Mr Ahmadinejad a "war-monger, a trampler of human rights [and] an executioner". ](/news/2010/04/22/president-of-iran-mahmoud-ahmadinejad-arrives-in-zimbabwe-prime-minister-morgan-tsvangirai-s-movement-for-democratic-change-a-tsvangirai.md)
-_Context: Mahmoud Ahmadinejad, Morgan Tsvangirai, Movement for Democratic Change, Prime Minister, Zimbabwe, president_
+_Context: Mahmoud Ahmadinejad, Morgan Tsvangirai, Movement for Democratic Change, President of Iran, Prime Minister, Zimbabwe_
 
 ### [A Utrecht court acquits the Dutch arm of the Arab European League of hate crime charges relating to the publication of a cartoon questioning the Holocaust.  The publication was intended to highlight double standards after MP Geert Wilders was not put on trial for distributing cartoons of Muhammad. ](/news/2010/04/22/a-utrecht-court-acquits-the-dutch-arm-of-the-arab-european-league-of-hate-crime-charges-relating-to-the-publication-of-a-cartoon-questioning.md)
 _Context: Arab European League, Geert Wilders, Holocaust, Muhammad, Netherlands, Utrecht_
@@ -61,7 +61,7 @@ _Context: 2007, 2009, Melbourne Storm, National Rugby League, salary cap_
  The Killers and Patti Smith have been given top awards by The American Society of Composers, Authors and Publishers (ASCAP) for their contribution to pop music in the US. 
 
 ### [An episode of the American television series ''South Park'' is censored after a threat of fatwa from a New York-based group over the depiction of Muhammad in a bear costume. ](/news/2010/04/22/an-episode-of-the-american-television-series-south-park-is-censored-after-a-threat-of-fatwa-from-a-new-york-based-group-over-the-depict.md)
-_Context: Muhammad, New York's, South Park, fatwa_
+_Context: Muhammad, New York City, South Park, fatwa_
 
 ### [The St. Louis Rams select Sam Bradford with the first pick of the 2010 NFL Draft ](/news/2010/04/22/the-st-louis-rams-select-sam-bradford-with-the-first-pick-of-the-2010-nfl-draft.md)
 Get the latest NFL news, video updates, scores, schedules, standings and more on Sporting News.

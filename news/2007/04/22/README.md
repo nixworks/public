@@ -1,7 +1,7 @@
 ## [2007-04-22](/news/2007/04/22/index.md)
 
 ### [ Turkey Christians tortured and murdered and Turkey's government, led by Prime Minister Recep Tayyip Erdogan, a former Islamist, has expresses concern over the spread of Christian activity in Turkey, VOA reported [http://www.bosnewslife.com/news/2896-news-watch-turkey-christians-anxious-after ].](/news/2007/04/22/turkey-christians-tortured-and-murdered-and-turkey-s-government-led-by-prime-minister-recep-tayyip-erdogan-a-former-islamist-has-express.md)
-_Context: Turkey_
+_Context: Turkish_
 
 ### [ Israeli troops have shot dead three Palestinians in raids in the West Bank, the army and local residents say.](/news/2007/04/22/israeli-troops-have-shot-dead-three-palestinians-in-raids-in-the-west-bank-the-army-and-local-residents-say.md)
 _Context: Israel, Palestinian, West Bank_

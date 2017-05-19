@@ -28,7 +28,7 @@ New sales of semi-automatic rifles with removable magazines would be banned in C
 _Context: Chief Justice, John G. Roberts, Jr., United States Foreign Intelligence Surveillance Court of Review, William Curtis Bryson_
 
 ### [Ali Shamkhani is appointed as Secretary of Supreme National Security Council of Iran by President Hassan Rouhani. Rouhani also appoints Masoumeh Ebtekar as Vice President of Iran ](/news/2013/09/10/ali-shamkhani-is-appointed-as-secretary-of-supreme-national-security-council-of-iran-by-president-hassan-rouhani-rouhani-also-appoints-maso.md)
-_Context: Ali Shamkhani, First Vice President, Hassan Rouhani, Masoumeh Ebtekar, Supreme National Security Council of Iran, president_
+_Context: Ali Shamkhani, First Vice President, Hassan Rouhani, Masoumeh Ebtekar, President of Iran, Supreme National Security Council of Iran_
 
 ### [Nigel Evans resigns as Deputy Speaker of the British House of Commons after being charged with eight sexual offences. ](/news/2013/09/10/nigel-evans-resigns-as-deputy-speaker-of-the-british-house-of-commons-after-being-charged-with-eight-sexual-offences.md)
 MP Nigel Evans resigns as Commons Deputy Speaker, after being charged with offences including sexual assault, indecent assault and rape.

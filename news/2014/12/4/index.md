@@ -13,7 +13,7 @@ Tens of thousands seek shelter as powerful Typhoon Hagupit heads towards parts o
 The Environmental Protection Ministry said the Trans-Israel pipeline spill in southern Israel would cause landscape damage and could take months to clean up.
 
 ### [Death of Eric Garner:Protests erupt in New York City after a grand jury decides not to indict any police officers in the death of Garner. ](/news/2014/12/4/death-of-eric-garner-pprotests-erupt-in-new-york-city-after-a-grand-jury-decides-not-to-indict-any-police-officers-in-the-death-of-garner.md)
-_Context: Eric Garner, New York's, Protest, grand jury, indicted_
+_Context: Eric Garner, New York City, Protest, grand jury, indicted_
 
 ## [Previous Day...](/news/2014/12/3/index.md)
 

@@ -1,7 +1,7 @@
 ## [2007-04-9](/news/2007/04/9/index.md)
 
 ### [ The Governor of New York Eliot Spitzer signs legislation changing the date of the New York primary election to February 5, 2008. ](/news/2007/04/9/the-governor-of-new-york-eliot-spitzer-signs-legislation-changing-the-date-of-the-new-york-primary-election-to-february-5-2008.md)
-_Context: Eliot Spitzer, New York Governor, New York's, primary election_
+_Context: Eliot Spitzer, New York City, New York Governor, primary election_
 
 ### [ Thirteen detainees at Guantanamo Bay are conducting a hunger strike to protest against harsher conditions in a new prison unit and are being force fed. ](/news/2007/04/9/thirteen-detainees-at-guantanamo-bay-are-conducting-a-hunger-strike-to-protest-against-harsher-conditions-in-a-new-prison-unit-and-are-bein.md)
 _Context: Guantanamo Bay detention camp, Protest, force fed, hunger strike, prison_
@@ -13,7 +13,7 @@ _Context: Ministry of Defence, Royal Marine, Royal Navy, United Kingdom, held ca
 _Context: 100 metres, Tim Montgomery, bank, fraud, money laundering, world record_
 
 ### [ President Mahmoud Ahmadinejad of Iran announces that his country can now produce nuclear fuel on an industrial scale. ](/news/2007/04/9/president-mahmoud-ahmadinejad-of-iran-announces-that-his-country-can-now-produce-nuclear-fuel-on-an-industrial-scale.md)
-_Context: Iran, Mahmoud Ahmadinejad, president, produce nuclear fuel on an industrial scale_
+_Context: Iran, Mahmoud Ahmadinejad, President of Iran, produce nuclear fuel on an industrial scale_
 
 ### [ Ministers from natural gas exporting countries such as Russia, Kazakhstan and Iran meet in Doha, Qatar, prompting speculation that they might be looking at transforming the Gas Exporting Countries Forum into a cartel similar to OPEC. ](/news/2007/04/9/ministers-from-natural-gas-exporting-countries-such-as-russia-kazakhstan-and-iran-meet-in-doha-qatar-prompting-speculation-that-they-mig.md)
 _Context: Doha, Gas Exporting Countries Forum, Iran, Kazakhstan, OPEC, Qatar, Russia, cartel, natural gas_

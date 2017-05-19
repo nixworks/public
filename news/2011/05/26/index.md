@@ -10,7 +10,7 @@ Syrian security forces fired liverounds on Thursday at hundreds of protesters ma
 Heavy explosions rocked the Yemeni capital Sanaa in the small hours of Thursday as fighting to topple the veteran president, Ali Abdullah Saleh, threatened to descend into civil war.
 
 ### [The General Directorate of Security reports an explosion in Istanbul, Turkey, most likely caused by a bomb, with a number of people injured. ](/news/2011/05/26/the-general-directorate-of-security-reports-an-explosion-in-istanbul-turkey-most-likely-caused-by-a-bomb-with-a-number-of-people-injured.md)
-_Context: Istanbul, Turkey, Turkish police_
+_Context: Istanbul, Turkish, Turkish police_
 
 ### [Salva Kiir Mayardit, the President of Southern Sudan, calls on the government of Sudan to withdraw its forces from the province of Abyei. ](/news/2011/05/26/salva-kiir-mayardit-the-president-of-southern-sudan-calls-on-the-government-of-sudan-to-withdraw-its-forces-from-the-province-of-abyei.md)
 Salva Kiir calls on Khartoum to withdraw its troops from the oil-rich region to avoid further violence.

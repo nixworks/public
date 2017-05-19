@@ -7,7 +7,7 @@ _Context: Aden Garaar, Bardhere, Nairobi, Somalia, Westgate shopping mall attack
 _Context: Royal Dutch Shell, United Steelworkers_
 
 ### [In New York City, U.S. district court judge Thomas Griesa expands the force of his existing remedial rulings in the ongoing litigation over the Argentine debt restructuring, blocking planned bond payments by Citigroup. The Citigroup processing of payments would violate a requirement that Argentina treat bondholders equally. ](/news/2015/03/12/in-new-york-city-u-s-district-court-judge-thomas-griesa-expands-the-force-of-his-existing-remedial-rulings-in-the-ongoing-litigation-over.md)
-_Context: Argentine debt restructuring, Citigroup, New York's, Thomas Griesa_
+_Context: Argentine debt restructuring, Citigroup, New York City, Thomas Griesa_
 
 ### [Vanuatu prepares for Tropical Cyclone Pam which is predicted to reach Category 5 on the Australian tropical cyclone intensity scale. ](/news/2015/03/12/vanuatu-prepares-for-tropical-cyclone-pam-which-is-predicted-to-reach-category-5-on-the-australian-tropical-cyclone-intensity-scale.md)
 _Context: 2014-15 South Pacific cyclone season, Category 3 or Category 4 hurricane, Pam, Vanuatu, category 5, tropical cyclone_

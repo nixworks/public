@@ -34,13 +34,13 @@ _Context: PGA Championship, Southern Hills Country Club, Tiger Woods, Tulsa, Okl
 _Context: South Africa, Zimbabwe, refugee camp_
 
 ### [ People claiming to be from Turkey attack the United Nations website forcing some sections to be taken offline. ](/news/2007/08/12/people-claiming-to-be-from-turkey-attack-the-united-nations-website-forcing-some-sections-to-be-taken-offline.md)
-_Context: Turkey, United Nations_
+_Context: Turkish, United Nations_
 
 ### [ Nouri al-Maliki, the Prime Minister of Iraq, calls for emergency talks with Iraq's political leaders to try to save his national unity government. ](/news/2007/08/12/nouri-al-maliki-the-prime-minister-of-iraq-calls-for-emergency-talks-with-iraq-s-political-leaders-to-try-to-save-his-national-unity-gove.md)
 Iraqi Prime Minister Nouri al-Maliki has called for the senior leaders from Iraq&#039;s bitterly divided communities to hold crisis talks aimed at saving his beleaguered national unity government.
 
 ### [ Mahmoud Ahmadinejad, the President of Iran, replaces his Oil Minister Kazem Vaziri-Hamaneh with Gholamhossein Nozari, head of the National Iranian Oil Company acting as his deputy. ](/news/2007/08/12/mahmoud-ahmadinejad-the-president-of-iran-replaces-his-oil-minister-kazem-vaziri-hamaneh-with-gholamhossein-nozari-head-of-the-national.md)
-_Context: Gholamhossein Nozari, Kazem Vaziri-Hamaneh, Mahmoud Ahmadinejad, National Iranian Oil Company, oil, president_
+_Context: Gholamhossein Nozari, Kazem Vaziri-Hamaneh, Mahmoud Ahmadinejad, National Iranian Oil Company, President of Iran, oil_
 
 ### [ Italian police uncover a secret plan to smuggle Russian weapons into Iraq. ](/news/2007/08/12/italian-police-uncover-a-secret-plan-to-smuggle-russian-weapons-into-iraq.md)
 _Context: Iraq, Italian, Russia, smuggle_

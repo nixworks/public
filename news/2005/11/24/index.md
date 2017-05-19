@@ -7,7 +7,7 @@ _Context: Commonwealth of Nations, heads of government_
 _Context: Amur, Chinese, Harbin, Khabarovsk, Russia, benzene_
 
 ### [ Two people were injured in an accident at the Macy's Thanksgiving Day Parade in New York City when the M&M's balloon was tangled in a light pole and fell near Times Square. [http://news.yahoo.com/s/ap/20051124/ap_on_re_us/thanksgiving_parade_16 (AP via Yahoo! News)] (Link dead as of 00:46, 15 January 2007 (UTC))](/news/2005/11/24/two-people-were-injured-in-an-accident-at-the-macy-s-thanksgiving-day-parade-in-new-york-city-when-the-m-m-s-balloon-was-tangled-in-a-light.md)
-_Context: M&M's, Macy's Thanksgiving Day Parade, New York's, Times Square_
+_Context: M&M's, Macy's Thanksgiving Day Parade, New York City, Times Square_
 
 ### [ Conflict in Iraq: 15 people die after a suicide bomb attack in Hilla. ](/news/2005/11/24/conflict-in-iraq-p-15-people-die-after-a-suicide-bomb-attack-in-hilla.md)
 _Context: Conflict in Iraq, Hilla, suicide bomb_

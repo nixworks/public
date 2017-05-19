@@ -16,7 +16,7 @@ _Context: People's Republic of China, floods and landslides_
 _Context: 2013 Pacific typhoon season, Taiwan_
 
 ### [Eight people are injured (three seriously) in Lower Manhattan as a result of an explosion and partial collapse, of as-yet unknown cause, in a five-storey building, in Chinatown, Manhattan, New York City, on Pike Street, near Henry Street. ](/news/2013/07/11/eight-people-are-injured-three-seriously-in-lower-manhattan-as-a-result-of-an-explosion-and-partial-collapse-of-as-yet-unknown-cause-in.md)
-_Context: Chinatown, Henry Street, Lower Manhattan, Manhattan, New York's, Pike Street_
+_Context: Chinatown, Henry Street, Lower Manhattan, Manhattan, New York City, Pike Street_
 
 ### [An Iranian exile group claims that it has evidence of secret nuclear facilities located in tunnels beneath a mountain near the town of Damavand. ](/news/2013/07/11/an-iranian-exile-group-claims-that-it-has-evidence-of-secret-nuclear-facilities-located-in-tunnels-beneath-a-mountain-near-the-town-of-damav.md)
 _Context: Damavand, Iranian, nuclear scientist_

@@ -22,7 +22,7 @@ _Context: Mozambique, South Africa_
 _Context: Vietnam_
 
 ### [The President of Armenia accuses Turkey of "destroying" a bid to normalize relations between the two countries, who are locked in a dispute over the mass killings of Armenians by Ottoman Turks during World War I. ](/news/2011/01/17/the-president-of-armenia-accuses-turkey-of-destroying-a-bid-to-normalize-relations-between-the-two-countries-who-are-locked-in-a-dispute.md)
-_Context: Armenian President, First World War, Turkey, genocide of Armenians, reconciliation_
+_Context: Armenian President, First World War, Turkish, genocide of Armenians, reconciliation_
 
 ### [Two judges are fired and a court official suspended in China over a life sentence imposed on a man who evaded thousands in motorway toll fees. The ruling is also overturned. ](/news/2011/01/17/two-judges-are-fired-and-a-court-official-suspended-in-china-over-a-life-sentence-imposed-on-a-man-who-evaded-thousands-in-motorway-toll-fee.md)
 Two judges are fired and a court official suspended in China for sentencing a farmer to life in prison for evading motorway toll fees, following a public outcry.

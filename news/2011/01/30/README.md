@@ -40,7 +40,7 @@ Grass fires erupted in parts of Oklahoma on Saturday, damaging several homes and
 A Vietnamese journalist, set on fire after being doused with chemicals as he slept 10 days ago, dies of his injuries.
 
 ### [The directors of two companies based in York and Kent are charged with conspiring to illegally export Chinese-produced weapons to the United States after having imported them into the UK via Germany. The incident breaches an embargo by the United States, which disagrees with the importation of weapons made in China. ](/news/2011/01/30/the-directors-of-two-companies-based-in-york-and-kent-are-charged-with-conspiring-to-illegally-export-chinese-produced-weapons-to-the-united.md)
-_Context: Kent, United States, York_
+_Context: Kent, U.S., York_
 
 ### [Ahead of his court case Julian Assange is interviewed at the Norfolk country house where he is staying, having been up all night preparing U.S. State Department cables relevant to ongoing events in Egypt for inclusion on the WikiLeaks website. ](/news/2011/01/30/ahead-of-his-court-case-julian-assange-is-interviewed-at-the-norfolk-country-house-where-he-is-staying-having-been-up-all-night-preparing-u.md)
 _Context: 250,000 documents, Julian Assange, Norfolk, Protesters, WikiLeaks_
@@ -49,7 +49,7 @@ _Context: 250,000 documents, Julian Assange, Norfolk, Protesters, WikiLeaks_
 South Sudan almost unanimously voted to declare independence from the north in a referendum, officials said on Sunday, sparking mass celebrations in the southern capital Juba.
 
 ### [The Parliament of Iran gives a vote of confidence to Ali Akbar Salehi, who has led the Atomic Energy Organisation of Iran since July 2009 and Iran's nuclear program, and is President Mahmoud Ahmadinejad's candidate to become Minister of Foreign Affairs. ](/news/2011/01/30/the-parliament-of-iran-gives-a-vote-of-confidence-to-ali-akbar-salehi-who-has-led-the-atomic-energy-organisation-of-iran-since-july-2009-an.md)
-_Context: Ali Akbar Salehi, Atomic Energy Organisation of Iran, Mahmoud Ahmadinejad, foreign minister, nuclear scientist, parliament, president_
+_Context: Ali Akbar Salehi, Atomic Energy Organisation of Iran, Mahmoud Ahmadinejad, President of Iran, foreign minister, nuclear scientist, parliament_
 
 ### [Exotic birds are found to have been driven into Britain's back gardens by the extreme cold, as more than half a million people participate in the largest wildlife survey in the world. ](/news/2011/01/30/exotic-birds-are-found-to-have-been-driven-into-britain-s-back-gardens-by-the-extreme-cold-as-more-than-half-a-million-people-participate-i.md)
 ## [Previous Day...](/news/2011/01/29/index.md)

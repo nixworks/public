@@ -4,7 +4,7 @@
 _Context: Destin, Florida, Louisiana, shark_
 
 ### [ A second case of mad cow disease has been confirmed in the United States. ](/news/2005/06/25/a-second-case-of-mad-cow-disease-has-been-confirmed-in-the-united-states.md)
-_Context: United States, mad cow disease_
+_Context: U.S., mad cow disease_
 
 ### [ Elections in Bulgaria: The people of Bulgaria are voting today and the government of Prime Minister Simeon Sakskoburggotski, the country's former Tsar, is expected to be defeated. ](/news/2005/06/25/elections-in-bulgaria-the-people-of-bulgaria-are-voting-today-and-the-government-of-prime-minister-simeon-sakskoburggotski-the-country-s.md)
 _Context: Bulgaria, Bulgarian Prime Minister, Elections in Bulgaria, Simeon Saxe-Coburg, Tsar_
@@ -22,7 +22,7 @@ _Context: Muslim, Sri Lanka, Tamil_
 _Context: China, Guangdong province, Pearl_
 
 ### [ In Iran, the hardline Mayor of Tehran, Mahmoud Ahmadinejad, wins Friday's run-off election for the nation's presidency with 62% of the vote. ](/news/2005/06/25/in-iran-the-hardline-mayor-of-tehran-mahmoud-ahmadinejad-wins-friday-s-run-off-election-for-the-nation-s-presidency-with-62-of-the-vote.md)
-_Context: Friday's run-off election, Iran, Mahmoud Ahmadinejad, Tehran, president_
+_Context: Friday's run-off election, Iran, Mahmoud Ahmadinejad, President of Iran, Tehran_
 
 ### [ Residents in St. Louis, Missouri are allowed back to their homes early today after an explosion at an industrial gas plant forced emergency evacuations Friday. ](/news/2005/06/25/residents-in-st-louis-missouri-are-allowed-back-to-their-homes-early-today-after-an-explosion-at-an-industrial-gas-plant-forced-emergency.md)
 _Context: St Louis, evacuation centers, explosion_
@@ -31,7 +31,7 @@ _Context: St Louis, evacuation centers, explosion_
 _Context: Bruce S. Gordon, NAACP_
 
 ### [ Billy Graham meets former President Bill Clinton onstage before a crowd of 80,000 during the second of three services of his last crusade at Flushing Meadows Corona Park in New York. ](/news/2005/06/25/billy-graham-meets-former-president-bill-clinton-onstage-before-a-crowd-of-80-000-during-the-second-of-three-services-of-his-last-crusade-a.md)
-_Context: Bill Clinton, Billy Graham, Flushing Meadows Corona Park, New York's_
+_Context: Bill Clinton, Billy Graham, Flushing Meadows Corona Park, New York City_
 
 ## [Previous Day...](/news/2005/06/24/index.md)
 

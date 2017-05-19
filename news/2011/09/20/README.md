@@ -22,7 +22,7 @@ _Context: Australia, Qantas_
 _Context: International Monetary Fund, double-dip recession_
 
 ### [The world's 8th-largest search engine, Yandex, expands into Turkey, marking its first venture outside the Commonwealth of Independent States. ](/news/2011/09/20/the-world-s-8th-largest-search-engine-yandex-expands-into-turkey-marking-its-first-venture-outside-the-commonwealth-of-independent-states.md)
-_Context: Commonwealth of Independent States, Turkey, Yandex, search engine_
+_Context: Commonwealth of Independent States, Turkish, Yandex, search engine_
 
 ### [Wadah Khanfar steps down as the head of the Al Jazeera news network, and is replaced by Sheikh Ahmad bin Jassim bin Mohammad Al Thani, a member of the Qatari royal family. ](/news/2011/09/20/wadah-khanfar-steps-down-as-the-head-of-the-al-jazeera-news-network-and-is-replaced-by-sheikh-ahmad-bin-jassim-bin-mohammad-al-thani-a-mem.md)
 WADAH KHANFAR, seated behind a vast desk and surrounded by TV screens, deep leather sofas and a wall of global media awards, &hellip;

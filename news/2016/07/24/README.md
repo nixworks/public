@@ -34,7 +34,7 @@ The head of the Democratic Party resigned on Sunday amid a furor over embarrassi
 _Context: Khadga Prasad Oli, Prime Minister, parliament_
 
 ### [In an unusual show of unity, tens of thousands of supporters of Turkey's ruling party and the country's main opposition parties hold a cross-party "Republic and Democracy" rally in support of democracy in Istanbul's central Taksim Square. ](/news/2016/07/24/in-an-unusual-show-of-unity-tens-of-thousands-of-supporters-of-turkey-s-ruling-party-and-the-country-s-main-opposition-parties-hold-a-cross.md)
-_Context: CHP, Istanbul, Taksim Square, Turkey, last year's coup attempt, ruling party_
+_Context: CHP, Istanbul, Taksim Square, Turkish, last year's coup attempt, ruling party_
 
 ## [Previous Day...](/news/2016/07/23/index.md)
 

@@ -25,7 +25,7 @@ The European Central Bank has quietly made a series of concessions to banks that
 U.S. stocks rise sharply after data that show jobless claims falling to a five-year low and a manufacturing index surging to a two-year high.
 
 ### [The European Court of Human Rights orders Turkey to pay $124 million in compensation for the 1974 Turkish invasion of Cyprus, which established the internationally unrecognized state of Turkish Republic of Northern Cyprus. ](/news/2014/05/12/the-european-court-of-human-rights-orders-turkey-to-pay-124-million-in-compensation-for-the-1974-turkish-invasion-of-cyprus-which-establis.md)
-_Context: European Court of Human Rights, Turkey, Turkish invasion of Cyprus, northern_
+_Context: European Court of Human Rights, Turkish, Turkish invasion of Cyprus, northern_
 
 ### [Spanish police arrest a mother and daughter for the suspected shooting of Isabel Carrasco, a Leon provincial council chief from the ruling Popular Party. ](/news/2014/05/12/spanish-police-arrest-a-mother-and-daughter-for-the-suspected-shooting-of-isabel-carrasco-a-lea3n-provincial-council-chief-from-the-ruling.md)
 A mother and daughter have been arrested by police following the daylight shooting murder of Spanish ruling party politician Isabel Carrasco.

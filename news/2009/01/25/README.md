@@ -16,7 +16,7 @@ _Context: Mamadou Dia, Prime Minister of Senegal, Senegal_
 _Context: FC, Football Federation, Jimeta, Nigeria, car accident_
 
 ### [ An avalanche kills 11 people on Mount Zigana, Gumushane Province in north-eastern Turkey. ](/news/2009/01/25/an-avalanche-kills-11-people-on-mount-zigana-ga1-4ma1-4ahane-province-in-north-eastern-turkey.md)
-_Context: Gumushane Province, Turkey, avalanche_
+_Context: Gumushane Province, Turkish, avalanche_
 
 ## [Previous Day...](/news/2009/01/24/index.md)
 

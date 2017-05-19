@@ -4,7 +4,7 @@
 A suicide bomber kills two policemen in south-eastern Turkey, in an attack officials blame on a suspected Islamic State militant.
 
 ### [  Three Turkish soldiers are killed and 14 others wounded in an armed attack by Kurdish militants during a military operation in the town of Nusaybin, Turkey. ](/news/2016/05/1/three-turkish-soldiers-are-killed-and-14-others-wounded-in-an-armed-attack-by-kurdish-militants-during-a-military-operation-in-the-town-of.md)
-_Context: Kurdish, Kurdish-Turkish conflict, Nusaybin, Turkey_
+_Context: Kurdish, Kurdish-Turkish conflict, Nusaybin, Turkish_
 
 ### [Houthi rebels capture the Umaliqa military base in 'Amran Governorate, endangering a shaky ceasefire. ](/news/2016/05/1/houthi-rebels-capture-the-umaliqa-military-base-in-amran-governorate-endangering-a-shaky-ceasefire.md)
 _Context: 'Amran Governorate, Houthi, Yemeni Civil War_
@@ -19,7 +19,7 @@ _Context: Abu Sayyaf, Indonesia, Moro conflict_
 Halliburton Co. and Baker Hughes Inc. called off their $28 billion merger that faced stiff resistance from regulators in the U.S. and Europe over antitrust concerns.
 
 ### [The historic Serbian Orthodox Cathedral of St. Sava in New York City is almost completely destroyed in a massive four-alarm fire. ](/news/2016/05/1/the-historic-serbian-orthodox-cathedral-of-st-sava-in-new-york-city-is-almost-completely-destroyed-in-a-massive-four-alarm-fire.md)
-_Context: New York's, Serbian Orthodox Cathedral of St. Sava, four-alarm fire_
+_Context: New York City, Serbian Orthodox Cathedral of St. Sava, four-alarm fire_
 
 ### [In the United States, 14 of 175 cars of a CSX freight train derail in northeastern Washington, D.C., near a city subway station. There were three leaks; one, sodium hydroxide, is a hazardous material.  All leaks, and a nearby gas line that was ruptured, are contained. Officials are unable to say when cleanup will be completed nor when train service will be restored. There were no injuries reported, and there was no residential evacuation. Amtrak and a Baltimore-Washington commuter rail service also use the line.  ](/news/2016/05/1/in-the-united-states-14-of-175-cars-of-a-csx-freight-train-derail-in-northeastern-washington-d-c-near-a-city-subway-station-there-were.md)
 Crews are expected to work through the night to clean hazardous material spilled after a CSX train derailed in Washington, D.C. Sunday.

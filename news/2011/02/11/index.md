@@ -31,7 +31,7 @@ _Context: Yang, Zimbabwe_
 In a dramatic and poignant sign of a state nearing collapse, North Korea has asked its embassies to appeal to foreign governments for aid to feed a population close to starvation.
 
 ### [Computer security company McAfee says hackers based in the People's Republic of China have targeted computer networks of global oil companies and individuals in Kazakhstan, Taiwan, Greece, and the United States, to steal information starting in 2009. ](/news/2011/02/11/computer-security-company-mcafee-says-hackers-based-in-the-people-s-republic-of-china-have-targeted-computer-networks-of-global-oil-companie.md)
-_Context: Greek, Kazakhstan, McAfee, People's Republic of China, Taiwan, United States, attack, hackers, petroleum industry_
+_Context: Greek, Kazakhstan, McAfee, People's Republic of China, Taiwan, U.S., attack, hackers, petroleum industry_
 
 ### [Former President of Liberia Charles Taylor's trial in The Hague is extended. ](/news/2011/02/11/former-president-of-liberia-charles-taylor-s-trial-in-the-hague-is-extended.md)
 _Context: Charles Taylor, President of Liberia, The Hague_

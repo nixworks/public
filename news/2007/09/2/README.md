@@ -37,7 +37,7 @@ _Context: Ethiopia, Human rights, Ogaden National Liberation Front, United Natio
 British troops are pulling out of a base at a palace in the southern Iraqi city of Basra on Sunday, a Ministry of Defence source said.
 
 ### [ Nuclear program of Iran: The President of Iran Mahmoud Ahmadinejad claims that Iran now has 3,000 centrifuges. The International Atomic Energy Agency estimates the number at 2,000. ](/news/2007/09/2/nuclear-program-of-iran-the-president-of-iran-mahmoud-ahmadinejad-claims-that-iran-now-has-3-000-centrifuges-the-international-atomic-ene.md)
-_Context: International Atomic Energy Agency, Iran, Mahmoud Ahmadinejad, centrifuge, nuclear scientist, president_
+_Context: International Atomic Energy Agency, Iran, Mahmoud Ahmadinejad, President of Iran, centrifuge, nuclear scientist_
 
 ### [ Christopher R. Hill, the United States negotiator in talks with North Korea, states that they have agreed to declare and disable all of its nuclear facilities by the end of the year. ](/news/2007/09/2/christopher-r-hill-the-united-states-negotiator-in-talks-with-north-korea-states-that-they-have-agreed-to-declare-and-disable-all-of-its.md)
 _Context: Christopher R. Hill, North Korea_

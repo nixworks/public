@@ -49,7 +49,7 @@ _Context: Dominique Strauss-Kahn, Nafissatou Diallo_
 _Context: Nicaragua, Sandinista National Liberation Front, Tomas Borge_
 
 ### [A parliamentary committee begins work on Turkey's first fully civilian constitution. ](/news/2012/05/1/a-parliamentary-committee-begins-work-on-turkey-s-first-fully-civilian-constitution.md)
-_Context: Turkey, constitution_
+_Context: Turkish, constitution_
 
 ### [Former opposition leader and foreign minister Tzipi Livni quits the Israeli parliament. ](/news/2012/05/1/former-opposition-leader-and-foreign-minister-tzipi-livni-quits-the-israeli-parliament.md)
 _Context: Israel, Tzipi Livni_

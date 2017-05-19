@@ -82,7 +82,7 @@ Former Sri Lankan President Chandrika Kumaratunga launches an outspoken attack a
 Dissident Ariel Sigler released as part of deal between church and Cuban government.
 
 ### [President of Iran Mahmoud Ahmadinejad announces plans to launch a manned shuttle into space by 2019. ](/news/2010/07/23/president-of-iran-mahmoud-ahmadinejad-announces-plans-to-launch-a-manned-shuttle-into-space-by-2019.md)
-_Context: Iran, Mahmoud Ahmadinejad, president_
+_Context: Iran, Mahmoud Ahmadinejad, President of Iran_
 
 ### [The Indian government unveils a solar power touch-screen laptop, cheaper than America's iPad, expected to be on sale next year. ](/news/2010/07/23/the-indian-government-unveils-a-solar-power-touch-screen-laptop-cheaper-than-america-s-ipad-expected-to-be-on-sale-next-year.md)
 The Indian government unveils the prototype of an iPad-like touch-screen laptop, with a price tag of $35 (£23), which it hopes to roll out next year.

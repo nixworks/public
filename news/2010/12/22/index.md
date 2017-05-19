@@ -25,7 +25,7 @@ More than $4bn committed to help rescuers and residents whose health was affecte
 Flood waters on Tuesday ripped through a retirement community in northwestern Arizona, washing away four homes; Utah, Nevada besieged.
 
 ### [The United States House of Representatives decides not to take up a resolution declaring the mass killings of Armenians early last century a genocide, helping the administration to avoid a diplomatic clash with Turkey. ](/news/2010/12/22/the-united-states-house-of-representatives-decides-not-to-take-up-a-resolution-declaring-the-mass-killings-of-armenians-early-last-century-a.md)
-_Context: Armenian, Turkey, United States House of Representatives, genocide of Armenians_
+_Context: Armenian, Turkish, United States House of Representatives, genocide of Armenians_
 
 ### [The United States Senate votes to ratify the New START Treaty with the Russia, which halves the number of deployed strategic nuclear missile launchers maintained by each nation. ](/news/2010/12/22/the-united-states-senate-votes-to-ratify-the-new-start-treaty-with-the-russia-which-halves-the-number-of-deployed-strategic-nuclear-missile.md)
 _Context: New START Treaty, Russia, United States Senate, nuclear missile_

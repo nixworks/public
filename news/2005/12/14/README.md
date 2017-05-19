@@ -22,7 +22,7 @@ _Context: Hindu, India, Muslim, life imprisonment, riots_
 _Context: Gaza Strip, Israel, Israeli-Palestinian conflict, Palestinian, air strike_
 
 ### [ The President of Iran, Mahmoud Ahmadinejad, describes the Holocaust as a myth. He also said that Europe should house the Jews of the world, rather than the Palestinians. ](/news/2005/12/14/the-president-of-iran-mahmoud-ahmadinejad-describes-the-holocaust-as-a-myth-he-also-said-that-europe-should-house-the-jews-of-the-world.md)
-_Context: Europe, Holocaust, Holocaust denial, Mahmoud Ahmadinejad, Palestinian, president_
+_Context: Europe, Holocaust, Holocaust denial, Mahmoud Ahmadinejad, Palestinian, President of Iran_
 
 ### [ A reservoir bursts near Lesterville, Missouri at the Taum Sauk hydroelectric power plant on the Black River, causing significant damage. ](/news/2005/12/14/a-reservoir-bursts-near-lesterville-missouri-at-the-taum-sauk-hydroelectric-power-plant-on-the-black-river-causing-significant-damage.md)
 _Context: Black River, Lesterville, Missouri, Taum Sauk hydroelectric power plant_

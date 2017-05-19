@@ -16,7 +16,7 @@ _Context: Cuba, Wikipedia_
 _Context: Facebook, Julian Assange, Mark Zuckerberg, TIME, WikiLeaks_
 
 ### [Lehman Brothers bondholders, including hedge fund manager Paulson & Co., file a plan for the reorganization of that defunct broker-dealer, presenting the New York bankruptcy court with an alternative to the plan Lehman itself filed earlier in the year. ](/news/2010/12/15/lehman-brothers-bondholders-including-hedge-fund-manager-paulson-co-file-a-plan-for-the-reorganization-of-that-defunct-broker-dealer-p.md)
-_Context: Lehman Brothers, New York's, Paulson & Co., bankruptcy, broker-dealer_
+_Context: Lehman Brothers, New York City, Paulson & Co., bankruptcy, broker-dealer_
 
 ### [Ghana is to begin pumping its first oil since a discovery in an offshore field three years ago. ](/news/2010/12/15/ghana-is-to-begin-pumping-its-first-oil-since-a-discovery-in-an-offshore-field-three-years-ago.md)
 _Context: Ghana, crude oil_

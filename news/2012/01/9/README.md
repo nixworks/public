@@ -4,7 +4,7 @@
 _Context: Chechnya, Insurgency in the North Caucasus, Russia, Vedeno District_
 
 ### [Iranian President Mahmoud Ahmadinejad meets with Venezuelan President Hugo Chvez on the first stop of Ahmadinejad's Latin American tour. ](/news/2012/01/9/iranian-president-mahmoud-ahmadinejad-meets-with-venezuelan-president-hugo-chavez-on-the-first-stop-of-ahmadinejad-s-latin-american-tour.md)
-_Context: Hugo Chvez, Latin America, Mahmoud Ahmadinejad, Venezuelan President, president_
+_Context: Hugo Chvez, Latin America, Mahmoud Ahmadinejad, President of Iran, Venezuelan President_
 
 ### [President Malam Bacai Sanh of Guinea-Bissau dies at the age of 64 while undergoing treatment for an unknown ailment in Paris. ](/news/2012/01/9/president-malam-bacai-sanha-of-guinea-bissau-dies-at-the-age-of-64-while-undergoing-treatment-for-an-unknown-ailment-in-paris.md)
 The president of the West African country of Guinea-Bissau, Malam Bacai Sanha, dies in a French hospital at the age of 64.

@@ -4,7 +4,7 @@
 A motorcycle bomb exploded as worshippers left a mosque after Friday prayers in northern Damascus, wounding several people, Syrian state television said.
 
 ### [Iranian sources citing Ash-Shabaab say a U.S. drone attack killed eight people in Kismayo, south Somalia. ](/news/2012/09/7/iranian-sources-citing-ash-shabaab-say-a-u-s-drone-attack-killed-eight-people-in-kismayo-south-somalia.md)
-_Context: Al-Shabaab, Kismayo, Somalia, United States, drone attack, extrajudicial killing_
+_Context: Al-Shabaab, Kismayo, Somalia, U.S., drone attack, extrajudicial killing_
 
 ### [Humanitarian groups express concern over Chile's army head, involved in controversy over a directive instructing military recruiters not to admit homosexuals. ](/news/2012/09/7/humanitarian-groups-express-concern-over-chile-s-army-head-involved-in-controversy-over-a-directive-instructing-military-recruiters-not-to.md)
 _Context: Chile_
@@ -46,7 +46,7 @@ _Context: Annecy murders, French Alps, foothills_
 _Context: English Premier League_
 
 ### [The Iranian ministry of interior sets 14 June 2013 as the date of the next presidential election, for a successor of current president, Mahmoud Ahmadinejad. For the first time, this election is to be held on the same date as the next municipal elections. ](/news/2012/09/7/the-iranian-ministry-of-interior-sets-14-june-2013-as-the-date-of-the-next-presidential-election-for-a-successor-of-current-president-mahm.md)
-_Context: Elections in Iran, Iran, Mahmoud Ahmadinejad, ministry of interior, next municipal elections, president, presidential_
+_Context: Elections in Iran, Iran, Mahmoud Ahmadinejad, President of Iran, ministry of interior, next municipal elections, presidential_
 
 ## [Previous Day...](/news/2012/09/6/index.md)
 

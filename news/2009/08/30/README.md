@@ -28,7 +28,7 @@ _Context: Ehud Olmert, Israel_
 Group says Abdullah al-Asiri crossed over from Yemen to carry out attack on interior minister.
 
 ### [ The Iranian Parliament begins debating President Mahmoud Ahmadinejads choice of Cabinet. ](/news/2009/08/30/the-iranian-parliament-begins-debating-president-mahmoud-ahmadinejads-choice-of-cabinet.md)
-_Context: Iran, Islamic Consultative Assembly of Iran, Mahmoud Ahmadinejad, president_
+_Context: Iran, Islamic Consultative Assembly of Iran, Mahmoud Ahmadinejad, President of Iran_
 
 ### [ Burma says 26 government troops and 8 rebels were killed during violence in the Kokang region of Shan State. ](/news/2009/08/30/burma-says-26-government-troops-and-8-rebels-were-killed-during-violence-in-the-kokang-region-of-shan-state.md)
 _Context: Burma, Kokang, Myanmar Armed Forces, Shan State, rebels, violence_

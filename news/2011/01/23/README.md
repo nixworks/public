@@ -31,7 +31,7 @@ The Dominican Republic confirms a Haitian man is the first to die of cholera in 
 Negotiations to resolve the stand-off over Iran&#039;s nuclear programme have ended in deadlock &ndash; raising fears that its regime could accelerate its nuclear weapons programme, potentially sparking off a dangerous Middle East crisis.
 
 ### [The BBC apologises after offending the sensibilities of Japanese viewers by broadcasting jokes targeting Tsutomu Yamaguchi, who survived both atomic bomb attacks carried out by the United States on Hiroshima and Nagasaki in 1945. ](/news/2011/01/23/the-bbc-apologises-after-offending-the-sensibilities-of-japanese-viewers-by-broadcasting-jokes-targeting-tsutomu-yamaguchi-who-survived-bot.md)
-_Context: BBC, Hiroshima, Japan, Nagasaki, Tsutomu Yamaguchi, United States_
+_Context: BBC, Hiroshima, Japan, Nagasaki, Tsutomu Yamaguchi, U.S._
 
 ### [WikiLeaks revelations:A "spy" computer is found in an office next to Icelandic MP Birgitta Jonsdottir who has been the target in the United States Department of Justice/Twitter case concerning the WikiLeaks website. ](/news/2011/01/23/wikileaks-revelations-pa-spy-computer-is-found-in-an-office-next-to-icelandic-mp-birgitta-jonsdottir-who-has-been-the-target-in-the-united.md)
 The founder of whistleblower site WikiLeaks attacked Switzerland on Sunday for arresting a Swiss banker on suspicion of breaching banking secrecy instead of investigating the tax evasion he said he had uncovered.
@@ -73,7 +73,7 @@ _Context: Central-African, presidential and legislative elections_
 Tasmanian Premier David Bartlett has confirmed he will stand down as the state&#039;s leader, citing family reasons.
 
 ### [President of Iran Mahmoud Ahmadinejad designed Ali Akbar Salehi, the current acting Foreign Minister to the Parliament to succeed Manouchehr Mottaki who was dismissed on December. ](/news/2011/01/23/president-of-iran-mahmoud-ahmadinejad-designed-ali-akbar-salehi-the-current-acting-foreign-minister-to-the-parliament-to-succeed-manouchehr.md)
-_Context: Ali Akbar Salehi, Mahmoud Ahmadinejad, Manouchehr Mottaki, foreign minister, parliament, president_
+_Context: Ali Akbar Salehi, Mahmoud Ahmadinejad, Manouchehr Mottaki, President of Iran, foreign minister, parliament_
 
 ### [President of Pakistan Asif Ali Zardari launches an emergency polio immunisation programme targeting 32 million children under the age of five. ](/news/2011/01/23/president-of-pakistan-asif-ali-zardari-launches-an-emergency-polio-immunisation-programme-targeting-32-million-children-under-the-age-of-fiv.md)
 _Context: Asif Ali Zardari, President, polio_

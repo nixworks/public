@@ -19,7 +19,7 @@ _Context: Dagestan, Insurgency in the North Caucasus, Tsuntinsky District_
 _Context: Abidjan, Ivory Coast_
 
 ### [Australian art critic, historian and documentary maker Robert Hughes dies in New York City. ](/news/2012/08/6/australian-art-critic-historian-and-documentary-maker-robert-hughes-dies-in-new-york-city.md)
-_Context: Australian, New York's, Robert Hughes_
+_Context: Australian, New York City, Robert Hughes_
 
 ### [New Zealand's Mount Tongariro erupts for the first time in a century, spreading volcanic ash across the central North Island and affecting airports. ](/news/2012/08/6/new-zealand-s-mount-tongariro-erupts-for-the-first-time-in-a-century-spreading-volcanic-ash-across-the-central-north-island-and-affecting-a.md)
 QUICK READ: - New Zealand Herald

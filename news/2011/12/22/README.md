@@ -4,7 +4,7 @@
 A wave of apparently co-ordinated bomb attacks in the Iraqi capital, Baghdad, kills at least 68 people and injure scores, officials say.
 
 ### [The United States admits it was significantly responsible for an airstrike last month that killed 24 Pakistani soldiers. ](/news/2011/12/22/the-united-states-admits-it-was-significantly-responsible-for-an-airstrike-last-month-that-killed-24-pakistani-soldiers.md)
-_Context: NATO airstrike, Pakistan, United States_
+_Context: NATO airstrike, Pakistan, U.S._
 
 ### [Killings and coverups are reported to be occurring in the Democratic Republic of the Congo. ](/news/2011/12/22/killings-and-coverups-are-reported-to-be-occurring-in-the-democratic-republic-of-the-congo.md)
 At least 24 people have been killed by police in DR Congo since the results of disputed elections were announced, a US-based rights group says.

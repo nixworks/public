@@ -25,7 +25,7 @@ _Context: Alfonso Portillo, Guatemala, Guatemalan President_
 A foreign agricultural worker was the first fatality from Gaza rocket fire since Israel’s 2009 military offensive.
 
 ### [Turkey arrests around 20 people as it investigates an alleged attempted coup d'tat. ](/news/2010/03/18/turkey-arrests-around-20-people-as-it-investigates-an-alleged-attempted-coup-d-etat.md)
-_Context: Turkey, coup d'tat_
+_Context: Turkish, coup d'tat_
 
 ### [Charges occur in The Gambia's attempted coup d'tat to overthrow President Yahya Jammeh. ](/news/2010/03/18/charges-occur-in-the-gambia-s-attempted-coup-d-etat-to-overthrow-president-yahya-jammeh.md)
 _Context: President, Yahya Jammeh, the Gambia_

@@ -25,7 +25,7 @@ _Context: Facebook, India_
 _Context: Alberta, Alberta Health Services, Calgary, Alberta, Influenza A virus subtype H5N1_
 
 ### [Imelda Marcos's former aide is sentenced in New York City for attempting to sell a painting of Claude Monet allegedly bought with embezzled funds. ](/news/2014/01/8/imelda-marcos-s-former-aide-is-sentenced-in-new-york-city-for-attempting-to-sell-a-painting-of-claude-monet-allegedly-bought-with-embezzled.md)
-_Context: Imelda Marcos, Monet, New York's, embezzlement_
+_Context: Imelda Marcos, Monet, New York City, embezzlement_
 
 ### [The U.S. Department of the Treasury sanctions the Sinaloa Cartel enforcer El Chino ntrax under the Foreign Narcotics Kingpin Designation Act, which virtually prohibits U.S. citizens from conducting any financial deal with the drug lord and freezes his assets. ](/news/2014/01/8/the-u-s-department-of-the-treasury-sanctions-the-sinaloa-cartel-enforcer-el-chino-antrax-under-the-foreign-narcotics-kingpin-designation-ac.md)
 _Context: Foreign Narcotics Kingpin Designation Act, Jos Rodrigo Archiga Gamboa, Sinaloa Cartel, U.S. Department of the Treasury_

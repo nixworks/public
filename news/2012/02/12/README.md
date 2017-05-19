@@ -4,7 +4,7 @@
 Arab League ministers agree to ask United Nations for joint force and special Arab envoy as crackdown on Homs continues.
 
 ### [Turkish warplanes carry out strikes against PKK hideouts in northern Iraq. ](/news/2012/02/12/turkish-warplanes-carry-out-strikes-against-pkk-hideouts-in-northern-iraq.md)
-_Context: Iraq, Kurdistan Workers' Party, Turkey_
+_Context: Iraq, Kurdistan Workers' Party, Turkish_
 
 ### [Greek bailout and protests:The Hellenic Parliament votes to approve austerity measures demanded in return for another bailout from the eurozone. ](/news/2012/02/12/greek-bailout-and-protests-pthe-hellenic-parliament-votes-to-approve-austerity-measures-demanded-in-return-for-another-bailout-from-the-euro.md)
 Protests grow in the Greek capital, Athens, with buildings set alight as MPs vote on an unpopular austerity bill crucial for a 130bn euro bailout.

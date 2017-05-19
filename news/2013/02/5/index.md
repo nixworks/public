@@ -13,7 +13,7 @@ _Context: American, Standard & Poor's, housing crisis, mortgage_
 By Danielle RobinsonFeb 5 (IFR) - IBM Corp on Tuesday made the most of a surgein demand for floating-rate notes in the corporate bond marketby issu
 
 ### [Iranian President Mahmoud Ahmadinejad travels to Egypt. It is the first time since 1979 revolution that an Iranian head of state visits that country. ](/news/2013/02/5/iranian-president-mahmoud-ahmadinejad-travels-to-egypt-it-is-the-first-time-since-1979-revolution-that-an-iranian-head-of-state-visits-that.md)
-_Context: Egypt, Iran, Iranian Revolution, Mahmoud Ahmadinejad, president_
+_Context: Egypt, Iran, Iranian Revolution, Mahmoud Ahmadinejad, President of Iran_
 
 ### [A North Korean propaganda film, which featured New York in flames, is taken down by Activision due to the video using footage from Modern Warfare 3. ](/news/2013/02/5/a-north-korean-propaganda-film-which-featured-new-york-in-flames-is-taken-down-by-activision-due-to-the-video-using-footage-from-modern-wa.md)
 A video posted by North Korea is taken offline after games maker Activision makes a copyright claim over use of footage from Call of Duty.
@@ -28,7 +28,7 @@ Some 10,000 women and girls entered Magdalene laundries since 1922 with more tha
 _Context: 2012 Delhi gang rape case, India, Pranab Mukherjee, President of India, death, death penalty_
 
 ### [Three people are shot to death in a house near Forestville, Sonoma County, California, United States. ](/news/2013/02/5/three-people-are-shot-to-death-in-a-house-near-forestville-sonoma-county-california-united-states.md)
-_Context: California, Forestville, Sonoma County, United States_
+_Context: California, Forestville, Sonoma County, U.S._
 
 ### [Four people are dead in a possible murder-suicide in Johns Creek, Georgia, United States. ](/news/2013/02/5/four-people-are-dead-in-a-possible-murder-suicide-in-johns-creek-georgia-united-states.md)
 Parents, sons 5 and 12, were found dead at apartment in Johns Creek, Ga.

@@ -7,7 +7,7 @@ _Context: Kramatorsk, Ukrainians, War in Donbass_
 Calling the destructive cyberattack on Sony Pictures &quot;a game changer,&quot; a top White House official on Tuesday announced a new intelligence unit to coordinate analysis of cyberthreats, modeled on similar U.S. government efforts to fight terrorism.
 
 ### [The United States confirms the death of ISIL hostage Kayla Mueller. ](/news/2015/02/10/the-united-states-confirms-the-death-of-isil-hostage-kayla-mueller.md)
-_Context: Islamic State, Kayla Mueller, United States_
+_Context: Islamic State, Kayla Mueller, U.S._
 
 ### [''NBC Nightly News'' suspends American newsreader Brian Williams from broadcasting for six months for exaggerating a story about his personal experiences on a helicopter during the 2003 invasion of Iraq. ](/news/2015/02/10/nbc-nightly-news-suspends-american-newsreader-brian-williams-from-broadcasting-for-six-months-for-exaggerating-a-story-about-his-persona.md)
 _Context: 2003 invasion of Iraq, Brian Williams, NBC Nightly News, helicopter_
@@ -28,7 +28,7 @@ _Context: Mainland Affairs Council, People's Republic of China, Taiwan, Wang Yu-
 _Context: Anwar Ibrahim, Federal Court of Malaysia, sodomy_
 
 ### [Manhattan District Attorney Cyrus R. Vance Jr. states that a 50-person bribery case involves New York City inspectors, landlords, and contractors with payoffs to get safety violations dismissed and procure phony eviction orders. ](/news/2015/02/10/manhattan-district-attorney-cyrus-r-vance-jr-states-that-a-50-person-bribery-case-involves-new-york-city-inspectors-landlords-and-contra.md)
-_Context: Cyrus R. Vance, Jr., Manhattan District Attorney, New York's_
+_Context: Cyrus R. Vance, Jr., Manhattan District Attorney, New York City_
 
 ### [The February 7 Delhi Legislative Assembly election results in the Aam Aadmi Party leading in 63 out of 70 seats. ](/news/2015/02/10/the-february-7-delhi-legislative-assembly-election-results-in-the-aam-aadmi-party-leading-in-63-out-of-70-seats.md)
 _Context: Aam Aadmi Party, Delhi Legislative Assembly election_

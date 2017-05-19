@@ -19,7 +19,7 @@ The State Department cited fears of attacks by extremist groups in ordering fami
 SEOUL (AFP/BLOOMBERG) - South Korean prosecutors on Saturday (Oct 29) raided the presidential Blue House, as well as the homes and offices of senior advisers to President Park Geun Hye, as she struggled with a corruption and influence-peddling scandal involving a close family friend.. Read more at straitstimes.com.
 
 ### [The New York City Metropolitan Opera cancels its Saturday performances as a man,  during an afternoon intermission, sprinkled an unidentified powder, suspected to be cremated ashes, into the orchestra pit. One person was exposed and requested medical attention.  ](/news/2016/10/29/the-new-york-city-metropolitan-opera-cancels-its-saturday-performances-as-a-man-during-an-afternoon-intermission-sprinkled-an-unidentifie.md)
-_Context: Metropolitan Opera, New York's, cremated ashes, intermission, orchestra pit_
+_Context: Metropolitan Opera, New York City, cremated ashes, intermission, orchestra pit_
 
 ### [The Spanish Parliament votes to allow Prime Minister Mariano Rajoy to lead a People's Party minority government after a ten month interregnum. ](/news/2016/10/29/the-spanish-parliament-votes-to-allow-prime-minister-mariano-rajoy-to-lead-a-people-s-party-minority-government-after-a-ten-month-interregnu.md)
 Parliament in Spain votes to allow Mariano Rajoy to lead a minority government, avoiding new polls.

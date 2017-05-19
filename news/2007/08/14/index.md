@@ -76,13 +76,13 @@ _Context: Gaza Strip, Israel Defense Forces, Palestinian, civilian_
 _Context: Pakistan, United Kingdom, anniversary, independence_
 
 ### [ Abdullah Gul, currently the Foreign Minister of Turkey, confirms that he will stand again for election as the President of Turkey. ](/news/2007/08/14/abdullah-ga1-4l-currently-the-foreign-minister-of-turkey-confirms-that-he-will-stand-again-for-election-as-the-president-of-turkey.md)
-_Context: Abdullah Gul, President, Turkey_
+_Context: Abdullah Gul, President, Turkish_
 
 ### [ The Supreme Court of Thailand approves the issuing of arrest warrants for the former Prime Minister of Thailand Thaksin Shinawatra and his wife on corruption charges. ](/news/2007/08/14/the-supreme-court-of-thailand-approves-the-issuing-of-arrest-warrants-for-the-former-prime-minister-of-thailand-thaksin-shinawatra-and-his.md)
 Thailand&#039;s Supreme Court has approved a prosecution request to issue arrest warrants for exiled prime minister Thaksin Shinawatra and his wife on corruption charges.
 
 ### [ The President of Iran Mahmoud Ahmadinejad  visits Afghanistan on the first leg of a Central Asian tour before visiting the Shanghai Cooperation Organisation meeting in Bishkek. ](/news/2007/08/14/the-president-of-iran-mahmoud-ahmadinejad-visits-afghanistan-on-the-first-leg-of-a-central-asian-tour-before-visiting-the-shanghai-coopera.md)
-_Context: Afghanistan, Bishkek, Central Asia, Mahmoud Ahmadinejad, Shanghai Cooperation Organisation, president_
+_Context: Afghanistan, Bishkek, Central Asia, Mahmoud Ahmadinejad, President of Iran, Shanghai Cooperation Organisation_
 
 ### [ Russian prosecutors launch a terrorism investigation after an improvised bomb derailed an overnight express train near the village of Malaya Vishera in the Novgorod region. ](/news/2007/08/14/russian-prosecutors-launch-a-terrorism-investigation-after-an-improvised-bomb-derailed-an-overnight-express-train-near-the-village-of-malay.md)
 _Context: Malaya Vishera, Novgorod, Russia, bomb, prosecutor, terrorism_

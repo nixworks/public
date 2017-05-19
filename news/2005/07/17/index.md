@@ -43,7 +43,7 @@ _Context: Amaka Anajemba, Nigeria_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ In Turkey, Kurdistan Workers' Party has denied that it had anything to do with a minibus bombing in Kusadasi that killed five people. Turkish authorities have blamed the Party. ](/news/2005/07/17/in-turkey-kurdistan-workers-party-has-denied-that-it-had-anything-to-do-with-a-minibus-bombing-in-kuaadasa-that-killed-five-people-tur.md)
-_Context: Kurdistan Workers' Party, Turkey, minibus bombing in Kusadasi_
+_Context: Kurdistan Workers' Party, Turkish, minibus bombing in Kusadasi_
 
 ### [ In India, the government has dismissed a claim of Sunni Waqf Board that it should own the Taj Mahal.  ](/news/2005/07/17/in-india-the-government-has-dismissed-a-claim-of-sunni-waqf-board-that-it-should-own-the-taj-mahal.md)
 _Context: Sunni Waqf Board, Taj Mahal_

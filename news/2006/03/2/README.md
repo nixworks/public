@@ -43,7 +43,7 @@ _Context: Afghanistan, Pul-e-Charkhi prison, prison riot_
 _Context: David Mills, Milan, Silvio Berlusconi, Tessa Jowell, bribes_
 
 ### [ Former Iranian President Mohammad Khatami, member of the moderate wing of the regime, describes the Holocaust as a "historical reality," contradicting the current leader Mahmoud Ahmadinejad, an extremist who has described it as a "myth" the previous year. ](/news/2006/03/2/former-iranian-president-mohammad-khatami-member-of-the-moderate-wing-of-the-regime-describes-the-holocaust-as-a-historical-reality-co.md)
-_Context: Holocaust, Mahmoud Ahmadinejad, Mohammad Khatami, president_
+_Context: Holocaust, Mahmoud Ahmadinejad, Mohammad Khatami, President of Iran_
 
 ## [Previous Day...](/news/2006/03/1/index.md)
 

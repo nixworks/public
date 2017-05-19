@@ -25,7 +25,7 @@ Police have been forced to intervene during a clash between the gay and lesbian 
 _Context: Israel, Jerusalem_
 
 ### [Turkey requests that Israel pass on the names and addresses of the soldiers who raided a Gaza-bound flotilla, killing nine Turks last May. ](/news/2011/05/14/turkey-requests-that-israel-pass-on-the-names-and-addresses-of-the-soldiers-who-raided-a-gaza-bound-flotilla-killing-nine-turks-last-may.md)
-_Context: Gaza flotilla raid, Israel, Turkey_
+_Context: Gaza flotilla raid, Israel, Turkish_
 
 ### [Gunmen kill a United Nations driver in Ethiopia's Ogaden region. ](/news/2011/05/14/gunmen-kill-a-united-nations-driver-in-ethiopia-s-ogaden-region.md)
 _Context: Ethiopia, Ogaden, United Nations_

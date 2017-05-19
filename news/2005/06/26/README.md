@@ -37,7 +37,7 @@ _Context: 2012, Guy Drut, Olympic Games, Paris, anti-corruption_
 _Context: Aktham Naisse, Human rights, Syria_
 
 ### [ Rev. Billy Graham finishes what might be his final crusade. He preached before a crowd of 90,000 at Flushing Meadows Corona Park in New York. ](/news/2005/06/26/rev-billy-graham-finishes-what-might-be-his-final-crusade-he-preached-before-a-crowd-of-90-000-at-flushing-meadows-corona-park-in-new-yor.md)
-_Context: Billy Graham, Flushing Meadows Corona Park, New York's_
+_Context: Billy Graham, Flushing Meadows Corona Park, New York City_
 
 ## [Previous Day...](/news/2005/06/25/index.md)
 

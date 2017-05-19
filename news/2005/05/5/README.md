@@ -10,7 +10,7 @@ _Context: Beit Lakia, Israel, Israeli-Palestinian conflict, May 4, Ramallah, com
 _Context: (Wikinews), British House of Commons, Charles Kennedy, Conservative Party, Labour Party, Liberal Democrats, Michael Howard, Tony Blair, United Kingdom, United Kingdom general election, 2005_
 
 ### [ An explosion outside the United Kingdom consulate in New York City occurs at 07:35 GMT. There were no reported injuries. Police say they have found fragments of an explosive device. (Wikinews) ](/news/2005/05/5/an-explosion-outside-the-united-kingdom-consulate-in-new-york-city-occurs-at-07-35-gmt-there-were-no-reported-injuries-police-say-they-ha.md)
-_Context: (Wikinews), GMT, New York's, United Kingdom, consulate_
+_Context: (Wikinews), GMT, New York City, United Kingdom, consulate_
 
 ### [ The Indian Space Research Organization launches a mapping satellite, CARTOSAT-1 and an Amateur Radio satellite HAMSAT, into Earth orbit ](/news/2005/05/5/the-indian-space-research-organization-launches-a-mapping-satellite-cartosat-1-and-an-amateur-radio-satellite-hamsat-into-earth-orbit.md)
 From newly charted astronomical anomalies at the far reaches of the universe to the rise of nanotechnology, nobody covers science and the latest discoveries like Reuters.com.

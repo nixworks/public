@@ -4,7 +4,7 @@
 Sappers find parts of Grad rocket thought to have been one of five fired towards Eilat in drainage tank north of city. Netanyahu calls Jordanian, Egyptian leaders to inveigh against &#39;criminal attack on innocent citizens&#39;
 
 ### [The United Nations establishes a panel with an Israeli and Turk amongst its members to investigate the Gaza flotilla raid in May. ](/news/2010/08/2/the-united-nations-establishes-a-panel-with-an-israeli-and-turk-amongst-its-members-to-investigate-the-gaza-flotilla-raid-in-may.md)
-_Context: Gaza flotilla raid, Israel, Turkey, United Nations_
+_Context: Gaza flotilla raid, Israel, Turkish, United Nations_
 
 ### [An antiques dealer is imprisoned for handling a copy of the ''First Folio'' by poet and playwright William Shakespeare, though cleared of actually stealing it, in the UK. ](/news/2010/08/2/an-antiques-dealer-is-imprisoned-for-handling-a-copy-of-the-first-folio-by-poet-and-playwright-william-shakespeare-though-cleared-of-ac.md)
 _Context: First Folio, William Shakespeare_

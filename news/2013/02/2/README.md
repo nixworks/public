@@ -4,7 +4,7 @@
 Thirteen soldiers and 10 civilians have died in an attack by Taliban militants on a checkpoint in northwest Pakistan, officials say.
 
 ### [2013 United States embassy bombing in Ankara:The Turkish radical leftist group Revolutionary People's Liberation Party-Front claims responsibility for the bombing in Ankara. ](/news/2013/02/2/2013-united-states-embassy-bombing-in-ankara-pthe-turkish-radical-leftist-group-revolutionary-people-s-liberation-partyafront-claims-respo.md)
-_Context: Ankara, Revolutionary People's Liberation Army-Front (DHKP-C), Turkey, bombing_
+_Context: Ankara, Revolutionary People's Liberation Army-Front (DHKP-C), Turkish, bombing_
 
 ### [2012-2013 Egyptian protests:The protesters clashes with police outside the presidential palace in Cairo, Egypt, after a week of violence in which more than 60 people were killed. ](/news/2013/02/2/2012a2013-egyptian-protests-pthe-protesters-clashes-with-police-outside-the-presidential-palace-in-cairo-egypt-after-a-week-of-violence.md)
 At least one protester was shot dead and dozens wounded on Friday when riot police clashed with demonstrators demanding the overthrow of Egyptian President Mohamed Mursi.

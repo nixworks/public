@@ -7,7 +7,7 @@ _Context: North Korea, Somali pirates, Somalia, South Korea, South Korean Navy, 
 _Context: Ilam, Iran, building, bus_
 
 ### [ At least eight gunmen kill 44 people at a wedding in Mardin Province, Turkey. ](/news/2009/05/4/at-least-eight-gunmen-kill-44-people-at-a-wedding-in-mardin-province-turkey.md)
-_Context: Mardin Province, Turkey, kill, wedding_
+_Context: Mardin Province, Turkish, kill, wedding_
 
 ## [Previous Day...](/news/2009/05/3/index.md)
 

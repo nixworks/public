@@ -1,7 +1,7 @@
 ## [2000-09-6](/news/2000/09/6/index.md)
 
 ### [ In New York City, the United Nations Millennium Summit begins with more than 180 world leaders present. ](/news/2000/09/6/in-new-york-city-the-united-nations-millennium-summit-begins-with-more-than-180-world-leaders-present.md)
-_Context: Millennium Summit, New York's_
+_Context: Millennium Summit, New York City_
 
 ### [ The last wholly Swedish-owned arms manufacturer, Bofors, is sold to American arms manufacturer United Defense.](/news/2000/09/6/the-last-wholly-swedish-owned-arms-manufacturer-bofors-is-sold-to-american-arms-manufacturer-united-defense.md)
 _Context: Bofors, Swedish-owned, United Defense, arms sales_

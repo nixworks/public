@@ -10,7 +10,7 @@ _Context: Afghanistan, Bajaur Agency, Federally Administered Tribal Areas, Pakis
 Some 29 people, 20 of them women, were killed on Saturday evening in an apartment building in eastern Baghdad by gunmen wearing a mix of plain clothes and camouflage, a police officer and a hospital official said.
 
 ### [An explosion in a shop in Istanbul, Turkey's largest city, leaves many injured. ](/news/2014/07/12/an-explosion-in-a-shop-in-istanbul-turkey-s-largest-city-leaves-many-injured.md)
-_Context: Istanbul, Turkey_
+_Context: Istanbul, Turkish_
 
 ### [2014 pro-Russian unrest in Ukraine:The European Union imposes sanctions on Aleksandr Borodai and ten other pro-Russian leaders including travel bans and asset freezes. ](/news/2014/07/12/2014-pro-russian-unrest-in-ukraine-pthe-european-union-imposes-sanctions-on-aleksandr-borodai-and-ten-other-pro-russian-leaders-including-tr.md)
 _Context: 2014 pro-Russian unrest in Ukraine, Aleksandr Borodai, European Union_

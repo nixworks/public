@@ -4,7 +4,7 @@
 _Context: France, Marrakech, Moroccan, Tangiers, high-speed rail_
 
 ### [ The Kurdistan Workers Party declares a unilateral ceasefire following an attack on Turkish forces. ](/news/2007/10/22/the-kurdistan-workers-party-declares-a-unilateral-ceasefire-following-an-attack-on-turkish-forces.md)
-_Context: Kurdistan Workers' Party, Turkey, ceasefire_
+_Context: Kurdistan Workers' Party, Turkish, ceasefire_
 
 ### [ The President of the United States George W. Bush asks the United States Congress for $189.3 billion to fund the wars in Iraq and Afghanistan. ](/news/2007/10/22/the-president-of-the-united-states-george-w-bush-asks-the-united-states-congress-for-189-3-billion-to-fund-the-wars-in-iraq-and-afghanist.md)
 _Context: Afghanistan, George W. Bush, Iraq, President, U.S. Congressional, U.S. dollar_

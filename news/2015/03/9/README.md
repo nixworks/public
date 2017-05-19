@@ -1,7 +1,7 @@
 ## [2015-03-9](/news/2015/03/9/index.md)
 
 ### [A Carolinian Amtrak passenger train (running north from Charlotte, North Carolina, to New York City) hits a tractor-trailer in Halifax, North Carolina resulting in two cars of the train derailing with several people receiving minor injuries. ](/news/2015/03/9/a-carolinian-amtrak-passenger-train-running-north-from-charlotte-north-carolina-to-new-york-city-hits-a-tractor-trailer-in-halifax-nort.md)
-_Context: Amtrak, Carolinian, Charlotte, North Carolina, Halifax, North Carolina, New York's_
+_Context: Amtrak, Carolinian, Charlotte, North Carolina, Halifax, North Carolina, New York City_
 
 ### [Two helicopters collide in mid-air in a remote area of northwestern Argentina leaving at least ten dead. Among the dead are a group of French sports stars participating in a reality-television show called ''Dropped'': ](/news/2015/03/9/two-helicopters-collide-in-mid-air-in-a-remote-area-of-northwestern-argentina-leaving-at-least-ten-dead-among-the-dead-are-a-group-of-frenc.md)
 Two helicopters collide in mid-air over northern Argentina, killing 10 people including gold medalist swimmer Camille Muffat and Olympic boxer Alexis Vastine

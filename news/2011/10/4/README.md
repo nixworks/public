@@ -19,7 +19,7 @@ _Context: Cambodia, Flash flooding, Mekong River_
 Tokelau, a tiny Pacific archipelago administered by New Zealand, has joined neighbouring Tuvalu in declaring a state of emergency, saying it has only a few days&#039; drinking water left.
 
 ### [A helicopter crashes into the East River in New York City killing one person and injuring three after taking off from the East 34th Street Heliport. ](/news/2011/10/4/a-helicopter-crashes-into-the-east-river-in-new-york-city-killing-one-person-and-injuring-three-after-taking-off-from-the-east-34th-street-h.md)
-_Context: East 34th Street Heliport, East River, New York's, helicopter crashes_
+_Context: East 34th Street Heliport, East River, New York City, helicopter crashes_
 
 ### [Nine North Korean defectors arrive in South Korea after staying in Japan for three weeks. ](/news/2011/10/4/nine-north-korean-defectors-arrive-in-south-korea-after-staying-in-japan-for-three-weeks.md)
 _Context: Japan, South Korea, defectors_

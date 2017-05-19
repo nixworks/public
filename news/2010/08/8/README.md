@@ -16,7 +16,7 @@ Florida congressman Ron Klein calls for US to stop military support.
 _Context: Benjamin Netanyahu, Prime Minister of Israel, smear_
 
 ### [The Anatolian Agency reports that two Turkish Army soldiers were killed in a roadside bomb explosion in Mardin Province near the Turkish border with Syria. ](/news/2010/08/8/the-anatolian-agency-reports-that-two-turkish-army-soldiers-were-killed-in-a-roadside-bomb-explosion-in-mardin-province-near-the-turkish-bor.md)
-_Context: Anatolian Agency, Mardin Province, Syria, Turkey, Turkish Army_
+_Context: Anatolian Agency, Mardin Province, Syria, Turkish, Turkish Army_
 
 ### [A bridegroom accidentally shoots dead three relations and injures eight others while celebrating with an AK-47 at his wedding in Akcagoze, Gaziantep in Turkey; the man has been detained. ](/news/2010/08/8/a-bridegroom-accidentally-shoots-dead-three-relations-and-injures-eight-others-while-celebrating-with-an-ak-47-at-his-wedding-in-akcagoze-g.md)
 A bridegroom in Turkey accidentally kills his father and two aunts while firing an AK-47 in celebration at his own wedding, media say.

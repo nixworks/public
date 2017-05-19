@@ -1,7 +1,7 @@
 ## [2011-05-19](/news/2011/05/19/index.md)
 
 ### [Syria condemns the decision by the United States to impose sanctions on President Bashar al-Assad in response to ongoing anti-government protests. ](/news/2011/05/19/syria-condemns-the-decision-by-the-united-states-to-impose-sanctions-on-president-bashar-al-assad-in-response-to-ongoing-anti-government-pro.md)
-_Context: Bashar al-Assad, President, Syria, Syrian uprising, United States_
+_Context: Bashar al-Assad, President, Syria, Syrian uprising, U.S._
 
 ### [2011 Libyan civil war:Rebels in Libya launch a television channel to counter Muammar Gaddafi's state media. ](/news/2011/05/19/2011-libyan-civil-war-prebels-in-libya-launch-a-television-channel-to-counter-muammar-gaddafi-s-state-media.md)
 _Context: Libya, Libyan Civil War, Muammar Gaddafi, state media_
@@ -40,7 +40,7 @@ _Context: Belarus, Eurasian Economic Community, Russia, U.S. dollar_
 All 22 people aboard a commuter plane were killed when it crashed in southern Argentina, the airline said Thursday.
 
 ### [A magnitude 6.0 earthquake hits western Turkey, about 230 km south of Istanbul, killing at least two people and leaving many injured. ](/news/2011/05/19/a-magnitude-6-0-earthquake-hits-western-turkey-about-230-km-south-of-istanbul-killing-at-least-two-people-and-leaving-many-injured.md)
-_Context: Istanbul, Turkey, magnitude 6.0 earthquake_
+_Context: Istanbul, Turkish, magnitude 6.0 earthquake_
 
 ### [The United Nations World Food Programme calls for "urgent assistance" for the North Korean people due to a food crisis. ](/news/2011/05/19/the-united-nations-world-food-programme-calls-for-urgent-assistance-for-the-north-korean-people-due-to-a-food-crisis.md)
 _Context: North Korea, United Nations, World Food Programme_

@@ -31,7 +31,7 @@ Israel was not at fault for the death of US activist Rachel Corrie, killed in Ga
 _Context: France, Palestinian, Yasser Arafat, death_
 
 ### [The United States Republican Party officially nominates Mitt Romney as its candidate in the 2012 presidential election at the National Convention in Tampa, Florida. ](/news/2012/08/28/the-united-states-republican-party-officially-nominates-mitt-romney-as-its-candidate-in-the-2012-presidential-election-at-the-national-conve.md)
-_Context: Mitt Romney, National Convention, R, Tampa, United States, United States presidential election, 2012_
+_Context: Mitt Romney, National Convention, R, Tampa, U.S., United States presidential election, 2012_
 
 ### [IBM sells a "most powerful and advanced" server. ](/news/2012/08/28/ibm-sells-a-most-powerful-and-advanced-server.md)
 _Context: IBM, most, server_

@@ -37,7 +37,7 @@ British MP George Galloway, who led the Viva Palestina to Gaza, put on London fl
 _Context: Dubai, England, London Heathrow Airport_
 
 ### [Two people are arrested over a bomb plot in New York City last year. ](/news/2010/01/8/two-people-are-arrested-over-a-bomb-plot-in-new-york-city-last-year.md)
-_Context: New York's_
+_Context: New York City_
 
 ### [Two Burmese whistleblowers are sentenced to death for leaking details of secret government visits to North Korea. ](/news/2010/01/8/two-burmese-whistleblowers-are-sentenced-to-death-for-leaking-details-of-secret-government-visits-to-north-korea.md)
 Two officials in Burma have been sentenced to death for leaking information, in a case reportedly involving secret contact between the junta and North Korea.

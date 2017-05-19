@@ -13,7 +13,7 @@ Tear gas and water cannons used to disband thousands marching in Ankara to mark 
 _Context: Penguin, Random House_
 
 ### [Hurricane Sandy strikes New York City.](/news/2012/10/29/hurricane-sandy-strikes-new-york-city.md)
-_Context: Hurricane Sandy, New York's_
+_Context: Hurricane Sandy, New York City_
 
 ### [Human Rights Watch and other rights groups issue a report rejecting the Israeli government's arguments against accepting Africans migrants seeking asylum in Israel and criticizing it for using force to deter them from entering the country, stating that the migrants face extreme violence if denied entry into Israel. ](/news/2012/10/29/human-rights-watch-and-other-rights-groups-issue-a-report-rejecting-the-israeli-governmentas-arguments-against-accepting-africans-migrants.md)
 Human rights groups criticise Israel for the treatment of migrants trying to enter the country from Egypt.

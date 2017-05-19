@@ -13,7 +13,7 @@ Missile strikes killed eight militants early on Thursday outside a town in south
 The artwork Orange, red, yellow by Mark Rothko fetches $86.9 million (£53.8m), the highest ever price for a piece of post-war art sold at auction.
 
 ### [Andy Warhol's ''Double Elvis'' sells at an auction for $37 million at Sotheby's in New York City. ](/news/2012/05/9/andy-warhol-s-double-elvis-sells-at-an-auction-for-37-million-at-sotheby-s-in-new-york-city.md)
-_Context: Andy Warhol, New York's, Sotheby's_
+_Context: Andy Warhol, New York City, Sotheby's_
 
 ### [Portugal scraps four public holidays as an austerity measure. ](/news/2012/05/9/portugal-scraps-four-public-holidays-as-an-austerity-measure.md)
 Portugal adds to its austerity measures with the decision to suspend four of its 14 public holidays for five years.

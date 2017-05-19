@@ -7,7 +7,7 @@ A suicide attack on a minibus in the Afghan capital killed 12 people on Tuesday,
 Officials have found three inmates thought to have escaped through a tunnel at a northern Mexico border prison on Monday. The number of still-escaped prisoners now stands at 129.
 
 ### [At least ten soldiers are killed and more than 70 are injured in a rocket attack by Kurdish militants in Bingol, Turkey. ](/news/2012/09/18/at-least-ten-soldiers-are-killed-and-more-than-70-are-injured-in-a-rocket-attack-by-kurdish-militants-in-bingol-turkey.md)
-_Context: Bingol, Turkey_
+_Context: Bingol, Turkish_
 
 ### [A fire at a gas facility in Mexico's state-owned oil company, Pemex, claims 26 lives in the border city of Reynosa, Tamaulipas. ](/news/2012/09/18/a-fire-at-a-gas-facility-in-mexico-s-state-owned-oil-company-pemex-claims-26-lives-in-the-border-city-of-reynosa-tamaulipas.md)
 _Context: PEMEX, Reynosa, Tamaulipas_

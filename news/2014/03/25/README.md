@@ -25,7 +25,7 @@ The head of the Irish police force resigns following a controversy over whistleb
 _Context: Egypt, Mohammed Badie, Muslim Brotherhood, Post-coup unrest in Egypt (2013-14)_
 
 ### [Four men are arrested after BASE jumping from the top of the World Trade Center in New York City. ](/news/2014/03/25/four-men-are-arrested-after-base-jumping-from-the-top-of-the-world-trade-center-in-new-york-city.md)
-_Context: BASE jumping, New York's, One World Trade Center_
+_Context: BASE jumping, New York City, One World Trade Center_
 
 ### [2014 Ukrainian revolution:Oleksandr Muzychko, a prominent member of Ukraine's Right Sector nationalistic party, is killed under unclear circumstances. (](/news/2014/03/25/2014-ukrainian-revolution-poleksandr-muzychko-a-prominent-member-of-ukraine-s-right-sector-nationalistic-party-is-killed-under-unclear-cir.md)
 Kiev dismisses defense minister over Crimean indecisiveness but tries to keep criticism low and unity high.

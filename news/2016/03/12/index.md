@@ -28,7 +28,7 @@ An avalanche killed six skiers in the Italian Alps on Saturday, making it one of
  A strong earthquake with a preliminary magnitude of 6.4 has struck off Atka Island in the Andreanof Islands of Alaska 
 
 ### [A tugboat crash on the Hudson River north of New York City results in one death and two people missing. ](/news/2016/03/12/a-tugboat-crash-on-the-hudson-river-north-of-new-york-city-results-in-one-death-and-two-people-missing.md)
-_Context: Hudson River, New York's, tugboat_
+_Context: Hudson River, New York City, tugboat_
 
 ### [Voters in Guam, Washington, D.C. and Wyoming head to the polls to vote in Republican Party caucuses, while Democratic Party members vote in the Northern Mariana Islands caucus. ](/news/2016/03/12/voters-in-guam-washington-d-c-and-wyoming-head-to-the-polls-to-vote-in-republican-party-caucuses-while-democratic-party-members-vote-in.md)
 Texas Sen. Ted Cruz took the Wyoming GOP caucuses by a wide margin Saturday night as Florida Sen. Marco Rubio won in Washington, DC. Cruz won 66 percent of the vote from the Cowboy State’s county c…

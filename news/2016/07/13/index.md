@@ -22,7 +22,7 @@ _Context: Dagestan, Russia_
 _Context: North Korea, North Korea-South Korea relations, Seongju County, South Korea, THAAD_
 
 ### [In Brooklyn, New York 33 people are treated for a possible K2 overdose. The drug is illegal to sell or produce in the state. ](/news/2016/07/13/in-brooklyn-new-york-33-people-are-treated-for-a-possible-k2-overdose-the-drug-is-illegal-to-sell-or-produce-in-the-state.md)
-_Context: Brooklyn, K2, New York's_
+_Context: Brooklyn, K2, New York City_
 
 ### [A Zimbabwean court  dismisses charges against opposition leader Pastor Evan Mawarire who was accused of trying to overthrow the government. ](/news/2016/07/13/a-zimbabwean-court-dismisses-charges-against-opposition-leader-pastor-evan-mawarire-who-was-accused-of-trying-to-overthrow-the-government.md)
 A Zimbabwean court on Wednesday dismissed charges against a religious leader accused of trying to overthrow the government through an internet campaign that inspired rare protests against President Robert Mugabe.

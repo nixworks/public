@@ -40,7 +40,7 @@ _Context: Fiji, Human rights, United States Department of State, coup in 2006_
 _Context: Ali Reza Askari, Iran, Istanbul_
 
 ### [ Turkey bans user generated content web site YouTube after insulting clips of Turkish founder Mustafa Kemal Atatrk are discovered. ](/news/2007/03/7/turkey-bans-user-generated-content-web-site-youtube-after-insulting-clips-of-turkish-founder-mustafa-kemal-ataturk-are-discovered.md)
-_Context: Mustafa Kemal Atatrk, Turkey, YouTube, founder, user generated content, video, web site_
+_Context: Mustafa Kemal Atatrk, Turkish, YouTube, founder, user generated content, video, web site_
 
 ## [Previous Day...](/news/2007/03/6/index.md)
 

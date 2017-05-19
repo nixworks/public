@@ -1,7 +1,7 @@
 ## [2016-01-10](/news/2016/01/10/index.md)
 
 ### [Turkish security forces kill at least 32 Kurdistan Workers' Party (PKK) militants over the weekend, in military operations across the embattled Kurdish-majority southeast. ](/news/2016/01/10/turkish-security-forces-kill-at-least-32-kurdistan-workers-party-pkk-militants-over-the-weekend-in-military-operations-across-the-embatt.md)
-_Context: Kurdish, Kurdistan Workers' Party, PKK rebellion (2015-present), Turkey, Turkish troops_
+_Context: Kurdish, Kurdistan Workers' Party, PKK rebellion (2015-present), Turkish, Turkish troops_
 
 ### [A suspected Saudi missile strike on a Medecins Sans Frontieres (MSF) clinic in Razih, located in Yemen's northern Saada Governorate, leaves at least five people dead and around a dozen injured. ](/news/2016/01/10/a-suspected-saudi-missile-strike-on-a-ma-c-decins-sans-frontia-res-msf-clinic-in-razih-located-in-yemen-s-northern-saada-governorate-leave.md)
 At least five people have been killed in a missile strike on a Medecins Sans Frontieres medical facility in Yemen. The organization “strongly condemns this,” while adding that 10 people have been injured in the attack.

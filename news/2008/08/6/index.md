@@ -10,7 +10,7 @@ _Context: UNICEF_
 An explosion on the Baku-Tbilisi-Ceyhan (BTC) pipeline on Tuesday night in eastern Turkey has halted the oil flow along the one million barrels per day pipeline, a senior Turkish Energy Ministry official said.
 
 ### [ Salim Hamdan, the former driver for Osama Bin Laden, is convicted of supporting terrorism in the United States in the first military war crimes trial of a terror suspect captured after the September 11, 2001 attacks. ](/news/2008/08/6/salim-hamdan-the-former-driver-for-osama-bin-laden-is-convicted-of-supporting-terrorism-in-the-united-states-in-the-first-military-war-cr.md)
-_Context: Osama bin Laden, Salim Hamdan, September 11, 2001 attacks, United States, terrorism_
+_Context: Osama bin Laden, Salim Hamdan, September 11, 2001 attacks, U.S., terrorism_
 
 ### [ A military coup d'etat occurs in Mauritania with the Army, led by Mohamed Ould Abdel Aziz, seizing the President Sidi Ould Cheikh Abdallahi, the Prime Minister Yahya Ould Ahmed El Waghef and the Interior Minister. ](/news/2008/08/6/a-military-coup-d-a-c-tat-occurs-in-mauritania-with-the-army-led-by-mohamed-ould-abdel-aziz-seizing-the-president-sidi-ould-cheikh-abdallah.md)
 A coup has taken place in Mauritania, where the army has seized the President and the Prime Minister.
@@ -22,7 +22,7 @@ _Context: Royal Thai Air Force, Thailand, UH-1H_
 _Context: 2008 Summer Olympics Opening Ceremony, Beijing Olympiad, Women's football tournament_
 
 ### [ The United States FBI claims scientist Bruce Ivins was responsible for the anthrax scares of 2001 that killed five people and made 17 others ill. ](/news/2008/08/6/the-united-states-fbi-claims-scientist-bruce-ivins-was-responsible-for-the-anthrax-scares-of-2001-that-killed-five-people-and-made-17-other.md)
-_Context: Bruce Ivins, FBI, Scientist, United States, anthrax_
+_Context: Bruce Ivins, FBI, Scientist, U.S., anthrax_
 
 ### [ Leader of Malaysian opposition Anwar Ibrahim is formally charged with sodomy, which he claims is a politically motivated charge. ](/news/2008/08/6/leader-of-malaysian-opposition-anwar-ibrahim-is-formally-charged-with-sodomy-which-he-claims-is-a-politically-motivated-charge.md)
 _Context: Anwar Ibrahim, Malaysia, sodomy_

@@ -25,7 +25,7 @@ _Context: 1989 Tiananmen Square protests, China_
 A woman who may be a Japanese cult member wanted for the 1995 gas attacks on the Tokyo subway has been arrested, Japanese media say.
 
 ### [Demonstrations take place in Turkey against a proposed plan to limit the time for abortions. ](/news/2012/06/3/demonstrations-take-place-in-turkey-against-a-proposed-plan-to-limit-the-time-for-abortions.md)
-_Context: Turkey, abortion_
+_Context: Turkish, abortion_
 
 ### [Speaking on the BBC's ''The Andrew Marr Show'', British Prime Minister David Cameron says that Culture Secretary Jeremy Hunt "acted wisely" in his handling of the BSkyB takeover bid. ](/news/2012/06/3/speaking-on-the-bbc-s-the-andrew-marr-show-british-prime-minister-david-cameron-says-that-culture-secretary-jeremy-hunt-acted-wisely.md)
 _Context: BBC, BSkyB takeover bid, David Cameron, Jeremy Hunt, Prime Minster, Secretary of State for Culture, Media and Sport, The Andrew Marr Show_

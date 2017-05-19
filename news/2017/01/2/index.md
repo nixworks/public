@@ -1,7 +1,7 @@
 ## [2017-01-2](/news/2017/01/2/index.md)
 
 ### [The Islamic State in Iraq and the Levant claims responsibility for the attack in what it claims is a response to Turkey's actions in neighbouring Syria. ](/news/2017/01/2/the-islamic-state-in-iraq-and-the-levant-claims-responsibility-for-the-attack-in-what-it-claims-is-a-response-to-turkey-s-actions-in-neighbo.md)
-_Context: 2017 Istanbul nightclub attack, Islamic State in Iraq and the Levant, Syria, Turkey_
+_Context: 2017 Istanbul nightclub attack, Islamic State in Iraq and the Levant, Syria, Turkish_
 
 ### [A series of attacks kill at least 70 people and injure more than 100 others in mostly Shiite neighborhoods of Baghdad, Iraq. ](/news/2017/01/2/a-series-of-attacks-kill-at-least-70-people-and-injure-more-than-100-others-in-mostly-shiite-neighborhoods-of-baghdad-iraq.md)
 _Context: Baghdad, Iraq, January 2017 Baghdad bombings_
