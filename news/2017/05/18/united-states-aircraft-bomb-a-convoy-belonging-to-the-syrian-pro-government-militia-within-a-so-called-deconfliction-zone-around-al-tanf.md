@@ -7,9 +7,10 @@ CBS News correspondent David Martin reports Syrian regime vehicles have violated
 
 ### Source:
 
-1. [Ara News](http://aranews.net/2017/05/syrians-in-manbij-protest-against-assad-regime-demand-sdf-intervention/)
-2. [CBS News](http://www.cbsnews.com/news/us-aircraft-strike-syrian-regime-forces-al-tanf-base/)
-3. [Independent](http://www.independent.co.uk/news/world/middle-east/us-syria-airstrikes-why-bashar-al-assad-militia-convoy-iraq-border-training-camp-rebels-a7744091.html)
+1. [ Morning Star Online](https://www.morningstaronline.co.uk/a-b7e4-Syria-Isis-massacres-52-people-in-central-Hama#.WR9EOsYlHAQ)
+2. [Ara News](http://aranews.net/2017/05/syrians-in-manbij-protest-against-assad-regime-demand-sdf-intervention/)
+3. [CBS News](http://www.cbsnews.com/news/us-aircraft-strike-syrian-regime-forces-al-tanf-base/)
+4. [Independent](http://www.independent.co.uk/news/world/middle-east/us-syria-airstrikes-why-bashar-al-assad-militia-convoy-iraq-border-training-camp-rebels-a7744091.html)
 
 ### Related:
 
