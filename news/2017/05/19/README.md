@@ -1,5 +1,8 @@
 ## [2017-05-19](/news/2017/05/19/index.md)
 
+### [A roadside bomb kills at least 11 people, all from the same family, in Logar Province. ](/news/2017/05/19/a-roadside-bomb-kills-at-least-11-people-all-from-the-same-family-in-logar-province.md)
+_Context: Logar Province, War in Afghanistan_
+
 ### [Swedish prosecutors drop a seven year sexual assault investigation into Wikileaks founder Julian Assange. ](/news/2017/05/19/swedish-prosecutors-drop-a-seven-year-sexual-assault-investigation-into-wikileaks-founder-julian-assange.md)
 STOCKHOLM (AP) — Sweden&#x27;s top prosecutor said Friday she is dropping an investigation into a rape claim against WikiLeaks founder Julian Assange after almost seven years.
 
