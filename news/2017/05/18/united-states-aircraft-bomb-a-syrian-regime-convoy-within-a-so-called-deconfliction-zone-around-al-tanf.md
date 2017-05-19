@@ -7,7 +7,8 @@ CBS News correspondent David Martin reports Syrian regime vehicles have violated
 
 ### Source:
 
-1. [CBS News](http://www.cbsnews.com/news/us-aircraft-strike-syrian-regime-forces-al-tanf-base/)
+1. [Ara News](http://aranews.net/2017/05/syrians-in-manbij-protest-against-assad-regime-demand-sdf-intervention/)
+2. [CBS News](http://www.cbsnews.com/news/us-aircraft-strike-syrian-regime-forces-al-tanf-base/)
 
 ### Related:
 
