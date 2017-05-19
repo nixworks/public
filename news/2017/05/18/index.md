@@ -1,6 +1,6 @@
 ## [2017-05-18](/news/2017/05/18/index.md)
 
-### [United States aircraft bomb a Syrian regime convoy within a so-called "deconfliction zone" around Al-Tanf. ](/news/2017/05/18/united-states-aircraft-bomb-a-syrian-regime-convoy-within-a-so-called-deconfliction-zone-around-al-tanf.md)
+### [United States aircraft bomb a convoy belonging to the Syrian pro-government militia within a so-called "deconfliction zone" around Al-Tanf. ](/news/2017/05/18/united-states-aircraft-bomb-a-convoy-belonging-to-the-syrian-pro-government-militia-within-a-so-called-deconfliction-zone-around-al-tanf.md)
 CBS News correspondent David Martin reports Syrian regime vehicles have violated the deconfliction zone twice within the past few days
 
 ### [In a shooting incident near Huwara in the West Bank, a mob of some 200 Arabs hurl stones and rocks toward an Israeli car and try to lynch the driver. The Israeli driver fires his weapon, killing one Palestinian. ](/news/2017/05/18/in-a-shooting-incident-near-huwara-in-the-west-bank-a-mob-of-some-200-arabs-hurl-stones-and-rocks-toward-an-israeli-car-and-try-to-lynch-th.md)
