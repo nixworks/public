@@ -57,6 +57,9 @@ At least six people and four IS gunmen die in a battle at the Afghan state TV bu
 ### [Representatives of the European Parliament and European Council sign a document formally granting Ukrainians visa-free travel to the European Union. The visa-free regime is due to enter into force on June 11. ](/news/2017/05/17/representatives-of-the-european-parliament-and-european-council-sign-a-document-formally-granting-ukrainians-visa-free-travel-to-the-europea.md)
 _Context: European Council, European Parliament, European Union, Ukraine-European Union relations, Ukrainians_
 
+### [Two Chinese aircraft intercept a US WC-135 aircraft over the East China Sea. ](/news/2017/05/17/two-chinese-aircraft-intercept-a-us-wc-135-aircraft-over-the-east-china-sea.md)
+One jet came within 150ft (45m) of the US plane and flew upside over it, officials tell US media.
+
 ### [Former United States Army soldier Chelsea Manning is released from prison after serving seven years of her 35-year sentence. ](/news/2017/05/17/former-united-states-army-soldier-chelsea-manning-is-released-from-prison-after-serving-seven-years-of-her-35-year-sentence.md)
 American army private is free after serving seven years of 35-year sentence for leaking classified documents and videos downloaded to WikiLeaks
 
