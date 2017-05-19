@@ -1,6 +1,6 @@
 ### [2017-05-18](/news/2017/05/18/index.md)
 
-# In a shooting incident near Huwara in the West Bank, a mob of some 200 Arabs hurl stones and rocks toward an Israeli car and try to lynch the driver. The Israeli driver fires his weapon, killing one Palestinian.
+# In a shooting incident near Huwara in the West Bank, a mob of some 200 Arabs hurl stones and rocks toward an Israeli car and try to lynch the driver. The Israeli driver fires his weapon, killing one Palestinian. 
 
 
 

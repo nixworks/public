@@ -3,7 +3,7 @@
 ### [United States aircraft bomb a Syrian regime convoy within a so-called "deconfliction zone" around Al-Tanf. ](/news/2017/05/18/united-states-aircraft-bomb-a-syrian-regime-convoy-within-a-so-called-deconfliction-zone-around-al-tanf.md)
 CBS News correspondent David Martin reports Syrian regime vehicles have violated the deconfliction zone twice within the past few days
 
-### [In a shooting incident near Huwara in the West Bank, a mob of some 200 Arabs hurl stones and rocks toward an Israeli car and try to lynch the driver. The Israeli driver fires his weapon, killing one Palestinian.](/news/2017/05/18/in-a-shooting-incident-near-huwara-in-the-west-bank-a-mob-of-some-200-arabs-hurl-stones-and-rocks-toward-an-israeli-car-and-try-to-lynch-th.md)
+### [In a shooting incident near Huwara in the West Bank, a mob of some 200 Arabs hurl stones and rocks toward an Israeli car and try to lynch the driver. The Israeli driver fires his weapon, killing one Palestinian. ](/news/2017/05/18/in-a-shooting-incident-near-huwara-in-the-west-bank-a-mob-of-some-200-arabs-hurl-stones-and-rocks-toward-an-israeli-car-and-try-to-lynch-th.md)
 _Context: Huwara, West Bank, hurl stones and rocks, lynch, shooting incident_
 
 ### [Roger Ailes, the former Chairman and founding CEO of Fox News, dies at the age of 77. ](/news/2017/05/18/roger-ailes-the-former-chairman-and-founding-ceo-of-fox-news-dies-at-the-age-of-77.md)
