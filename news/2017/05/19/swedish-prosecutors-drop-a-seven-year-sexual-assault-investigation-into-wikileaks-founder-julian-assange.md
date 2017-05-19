@@ -1,6 +1,6 @@
 ### [2017-05-19](/news/2017/05/19/index.md)
 
-# Swedish prosecutors drop a seven year sexual assault investigation into Wikileaks founder Julian Assange. 
+# Swedish prosecutors drop a seven-year sexual assault investigation into Wikileaks founder Julian Assange. 
 
 STOCKHOLM (AP) — Sweden&#x27;s top prosecutor said Friday she is dropping an investigation into a rape claim against WikiLeaks founder Julian Assange after almost seven years.
 
