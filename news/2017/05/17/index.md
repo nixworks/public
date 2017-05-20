@@ -15,7 +15,7 @@ _Context: European Council, European Parliament, European Union, Ukraine-Europea
 ### [Two Chinese aircraft intercept a US WC-135 aircraft over the East China Sea. ](/news/2017/05/17/two-chinese-aircraft-intercept-a-us-wc-135-aircraft-over-the-east-china-sea.md)
 One jet came within 150ft (45m) of the US plane and flew upside over it, officials tell US media.
 
-### [Former United States Army soldier Chelsea Manning is released from prison after serving seven years of her 35-year sentence. ](/news/2017/05/17/former-united-states-army-soldier-chelsea-manning-is-released-from-prison-after-serving-seven-years-of-her-35-year-sentence.md)
+### [United States Army soldier Chelsea Manning is released from prison after serving seven years. Manning was sentenced by a U.S. military court to 35 years in prison, but her sentence was commuted by President Barack Obama. ](/news/2017/05/17/united-states-army-soldier-chelsea-manning-is-released-from-prison-after-serving-seven-years-manning-was-sentenced-by-a-u-s-military-court.md)
 American army private is free after serving seven years of 35-year sentence for leaking classified documents and videos downloaded to WikiLeaks
 
 ### [Irish Taoiseach Enda Kenny announces that he will step down as leader of Fine Gael from midnight, but will remain Taoiseach until a leader is elected. ](/news/2017/05/17/irish-taoiseach-enda-kenny-announces-that-he-will-step-down-as-leader-of-fine-gael-from-midnight-but-will-remain-taoiseach-until-a-leader-i.md)
