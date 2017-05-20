@@ -35,7 +35,7 @@ Dozens of novice monks are taken to hospital, some in a serious condition, after
 _Context: Algo Centre Mall, Elliot Lake_
 
 ### [Ecuador's ambassador to the UK, Anna Alban, is reported to be flying to Quito to discuss WikiLeaks editor-in-chief Julian Assange's attempt to gain political asylum. ](/news/2012/06/23/ecuador-s-ambassador-to-the-uk-anna-alban-is-reported-to-be-flying-to-quito-to-discuss-wikileaks-editor-in-chief-julian-assange-s-attempt.md)
-_Context: Anna Alban, Julian Assange, Quito, WikiLeaks_
+_Context: Anna Alban, Julian Assange, Quito, Wikileaks_
 
 ### [Latin American countries come together to express concern over the ousting from power of President of Paraguay Fernando Lugo, with Argentine President Cristina Fernndez de Kirchner, Ecuadorian President Rafael Correa and Venezuelan President Hugo Chvez vowing not to recognise the government of the newly-installed Paraguayan leader. ](/news/2012/06/23/latin-american-countries-come-together-to-express-concern-over-the-ousting-from-power-of-president-of-paraguay-fernando-lugo-with-argentine.md)
 Heads of three regional countries say they will not recognise new government after President Fernando Lugo was ousted.

@@ -22,7 +22,7 @@ A North Korean shipping company has renamed and reflagged its vessels in an atte
 _Context: Alaska, Colorado, U.S., Washington, Washington, D.C., marijuana_
 
 ### [The US Federal Communications Commission votes to classify internet service providers as public utilities, creating net neutrality rules. The FCC also votes to preempt state laws in North Carolina and Tennessee that effectively prevent municipal broadband providers from expanding outside their existing service areas. ](/news/2015/02/26/the-us-federal-communications-commission-votes-to-classify-internet-service-providers-as-public-utilities-creating-net-neutrality-rules-th.md)
-_Context: Federal Communications Commission's, North Carolina, Tennessee, internet service providers, municipal broadband, net neutrality, public utilities_
+_Context: Federal Communications Commission, Net neutrality in the United States, North Carolina, Tennessee, internet service providers, municipal broadband, public utilities_
 
 ## [Previous Day...](/news/2015/02/25/index.md)
 

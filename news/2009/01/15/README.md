@@ -7,7 +7,7 @@ _Context: British Parliament, Hayes and Harlington, House of Commons, John McDon
 _Context: George W. Bush, Obama, President, U.S., terrorism_
 
 ### [ Sweden's National Bank announces that all 1-krona coins minted in 2009 will carry a new motif on their reverse to commemorate the 200th anniversary of Finland's separation from Sweden. ](/news/2009/01/15/sweden-s-national-bank-announces-that-all-1-krona-coins-minted-in-2009-will-carry-a-new-motif-on-their-reverse-to-commemorate-the-200th-ann.md)
-_Context: Finland, National Bank, SKr, Sweden, separation_
+_Context: Finland, National Bank, SKr, Swedish, separation_
 
 ### [ The International Year of Astronomy's opening ceremony is held at UNESCO headquarters in Paris.  ](/news/2009/01/15/the-international-year-of-astronomy-s-opening-ceremony-is-held-at-unesco-headquarters-in-paris.md)
 _Context: International Year of Astronomy, Paris, UNESCO, opening ceremony_

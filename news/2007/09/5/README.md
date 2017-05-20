@@ -44,7 +44,7 @@ _Context: 5th congressional district, Ohio, Paul Gillmor, United States Represen
 _Context: Australian, Mohamed Haneef, visa-free travel_
 
 ### [ The Swedish Minister for Foreign Trade Sten Tolgfors becomes Defense Minister, succeeding Mikael Odenberg who resigned after being overruled by the Finance Minister Anders Borg in budget talks. ](/news/2007/09/5/the-swedish-minister-for-foreign-trade-sten-tolgfors-becomes-defense-minister-succeeding-mikael-odenberg-who-resigned-after-being-overrule.md)
-_Context: Anders Borg, Mikael Odenberg, Minister for Foreign Trade, Sten Tolgfors, Sweden_
+_Context: Anders Borg, Mikael Odenberg, Minister for Foreign Trade, Sten Tolgfors, Swedish_
 
 ### [ Three suspects arrested on terrorism charges yesterday appear before the Federal Court of Justice of Germany in Karlsruhe. ](/news/2007/09/5/three-suspects-arrested-on-terrorism-charges-yesterday-appear-before-the-federal-court-of-justice-of-germany-in-karlsruhe.md)
 _Context: Federal Court of Justice, Karlsruhe, terrorism_

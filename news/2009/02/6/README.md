@@ -1,7 +1,7 @@
 ## [2009-02-6](/news/2009/02/6/index.md)
 
 ### [ Sweden ends its moratorium on the construction of nuclear power plants. ](/news/2009/02/6/sweden-ends-its-moratorium-on-the-construction-of-nuclear-power-plants.md)
-_Context: Sweden, moratorium, nuclear power_
+_Context: Swedish, moratorium, nuclear power_
 
 ### [ The United States Food and Drug Administration approves ATryn, the first drug made using genetically engineered animals. ](/news/2009/02/6/the-united-states-food-and-drug-administration-approves-atryn-the-first-drug-made-using-genetically-engineered-animals.md)
 U.S. health officials on Friday approved the first drug made using genetically engineered animals despite lingering concerns over health and environmental implications.

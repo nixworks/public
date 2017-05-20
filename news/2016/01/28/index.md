@@ -13,7 +13,7 @@ The World Health Organization announced Thursday that it has convened an emergen
 _Context: Ma Ying-jeou, People's Republic of China, President of Taiwan, South China Sea, Taiping Island, Taiwan, U.S., disputed_
 
 ### [Swedish Interior Minister Anders Ygeman tells financial newspaper ''Dagens Industri'' that Sweden is disallowing about 45 percent of asylum applications which means around 60,000-80,000 asylum-seekers could be deported  in coming years. ](/news/2016/01/28/swedish-interior-minister-anders-ygeman-tells-financial-newspaper-dagens-industri-that-sweden-is-disallowing-about-45-percent-of-asylum.md)
-_Context: Anders Ygeman, Dagens Industri, European migrant crisis, Interior Minister, Sweden, asylum applications, refugee_
+_Context: Anders Ygeman, Dagens Industri, European migrant crisis, Interior Minister, Swedish, asylum applications, refugee_
 
 ### [Georgia welcomes the ICC's investigation into alleged war crimes committed during the 2008 South Ossetia war, which will be the first inquiry by the ICC into possible abuses by Moscow and/or Georgia. ](/news/2016/01/28/georgia-welcomes-the-icc-s-investigation-into-alleged-war-crimes-committed-during-the-2008-south-ossetia-war-which-will-be-the-first-inquir.md)
 _Context: 2008 South Ossetia war, Georgia, International Criminal Court, Russo-Georgian War_

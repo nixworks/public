@@ -55,7 +55,7 @@ Also on Monday, Israel permits a shipment of private vehicles to enter Gaza for 
 A father who lost his daughter in the Lockerbie bombing has travelled to Libya to meet the man convicted of the atrocity.
 
 ### [Results in the Swedish general election show the centre-right Alliance government led by Prime Minister Fredrik Reinfeldt winning a plurality, with the Sweden Democrats holding the balance of power. ](/news/2010/09/20/results-in-the-swedish-general-election-show-the-centre-right-alliance-government-led-by-prime-minister-fredrik-reinfeldt-winning-a-pluralit.md)
-_Context: Fredrik Reinfeldt, Sweden, Sweden Democrats, Swedish general election, The Alliance, prime minister_
+_Context: Fredrik Reinfeldt, Sweden Democrats, Swedish, Swedish general election, The Alliance, prime minister_
 
 ### [Irish Taoiseach Brian Cowen comes under pressure to resign from former ministers and backbenchers in his own party after last week's controversial live radio interview with Cathal Mac Coille on ''Morning Ireland''. ](/news/2010/09/20/irish-taoiseach-brian-cowen-comes-under-pressure-to-resign-from-former-ministers-and-backbenchers-in-his-own-party-after-last-week-s-controv.md)
 The Irish Prime Minister Brian Cowen says he will continue to lead his country amid speculation over his political future.

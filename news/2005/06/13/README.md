@@ -10,7 +10,7 @@ _Context: Bolivia, Chile, Tarapaca, earthquake, epicenter_
 _Context: Michael Jackson's trial for child molestation, acquits_
 
 ### [ Swedish diplomat Jan Eliasson is unanimously elected President of the United Nations General Assembly. He will take over the presidency on September 20, 2005. ](/news/2005/06/13/swedish-diplomat-jan-eliasson-is-unanimously-elected-president-of-the-united-nations-general-assembly-he-will-take-over-the-presidency-on.md)
-_Context: 2005, Jan Eliasson, President of the United Nations General Assembly, September 20, Sweden, diplomat_
+_Context: 2005, Jan Eliasson, President of the United Nations General Assembly, September 20, Swedish, diplomat_
 
 ### [ Ninety-two people, almost all children, have died after a flash flood hit a school in Shalan, Heilongjiang province, China. [http://news.bbc.co.uk/2/hi/asia-pacific/4086602.stm (BBC)].](/news/2005/06/13/ninety-two-people-almost-all-children-have-died-after-a-flash-flood-hit-a-school-in-shalan-heilongjiang-province-china-http-news-bb.md)
 _Context: China, Flash flooding, Heilongjiang, Shalan_

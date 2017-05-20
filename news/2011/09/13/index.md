@@ -1,7 +1,7 @@
 ## [2011-09-13](/news/2011/09/13/index.md)
 
 ### [Investigators in Gothenburg, Sweden, now think that the four men arrested for the 2011 failed Gothenburg terrorist attack have links to the terrorist network Al-Qaida. ](/news/2011/09/13/investigators-in-gothenburg-sweden-now-think-that-the-four-men-arrested-for-the-2011-failed-gothenburg-terrorist-attack-have-links-to-the.md)
-_Context: 2011 failed Gothenburg terrorist attack, Al Qaida's, Gothenburg, Sweden_
+_Context: 2011 failed Gothenburg terrorist attack, Al Qaida's, Gothenburg, Swedish_
 
 ### [Taliban insurgents attack the United States embassy, NATO headquarters and police buildings in the Afghan capital Kabul. ](/news/2011/09/13/taliban-insurgents-attack-the-united-states-embassy-nato-headquarters-and-police-buildings-in-the-afghan-capital-kabul.md)
 _Context: Afghanistan, Kabul, NATO, Taliban, U.S._

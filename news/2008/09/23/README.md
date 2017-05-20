@@ -16,7 +16,7 @@ _Context: Ben Bernanke, Emergency Economic Stabilization Act, Federal Reserve, U
 _Context: Asia, Europe, Japan, Lehman Brothers, Middle East, Nomura Holdings, investment bank_
 
 ### [ Sweden's National Television issues a public apology for a "misleading" report on comments made by foreign minister Carl Bildt about Sweden's intelligence services. ](/news/2008/09/23/sweden-s-national-television-issues-a-public-apology-for-a-misleading-report-on-comments-made-by-foreign-minister-carl-bildt-about-sweden.md)
-_Context: Carl Bildt, National Television, Sweden_
+_Context: Carl Bildt, National Television, Swedish_
 
 ### [ Colin Barnett is sworn in as the 29th Premier of Western Australia. ](/news/2008/09/23/colin-barnett-is-sworn-in-as-the-29th-premier-of-western-australia.md)
 _Context: Colin Barnett, Premier, Western Australia_

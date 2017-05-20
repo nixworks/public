@@ -70,7 +70,7 @@ _Context: Indian Cyber Army, Pakistan, Pakistani government_
 An orderly at a retirement home in north-eastern Spain has admitted killing 11 elderly residents, reports say.
 
 ### [Interpol issues an arrest warrant for Julian Assange, the founder of WikiLeaks, to face sexual assault charges in Sweden. ](/news/2010/11/30/interpol-issues-an-arrest-warrant-for-julian-assange-the-founder-of-wikileaks-to-face-sexual-assault-charges-in-sweden.md)
-_Context: Interpol, Julian Assange, Sweden, WikiLeaks, arrest warrant, sexual assault_
+_Context: Interpol, Julian Assange, Swedish, Wikileaks, arrest warrant, sexual assault_
 
 ### [Kyrgyzstan's parliament agrees to form a three-way coalition government, creating the first parliamentary democracy in Central Asia. ](/news/2010/11/30/kyrgyzstan-s-parliament-agrees-to-form-a-three-way-coalition-government-creating-the-first-parliamentary-democracy-in-central-asia.md)
 _Context: Central Asia, Kyrgyzstan, parliamentary democracy_

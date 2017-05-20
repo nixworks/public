@@ -1,7 +1,7 @@
 ## [2009-04-16](/news/2009/04/16/index.md)
 
 ### [ Sweden's National Museum of Science and Technology publicly displays a confiscated Pirate Bay server. ](/news/2009/04/16/sweden-s-national-museum-of-science-and-technology-publicly-displays-a-confiscated-pirate-bay-server.md)
-_Context: National Museum of Science and Technology, Sweden, The Pirate Bay, server, trial_
+_Context: National Museum of Science and Technology, Swedish, The Pirate Bay, server, trial_
 
 ### [ China's economy grows by 6.1% in the first quarter of 2009, the lowest increase since 1999. ](/news/2009/04/16/china-s-economy-grows-by-6-1-in-the-first-quarter-of-2009-the-lowest-increase-since-1999.md)
 _Context: Chinese economy, People's Republic of China_

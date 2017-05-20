@@ -34,7 +34,7 @@ _Context: North Korea, drought_
 Myanmar opposition leader arrives in Thailand, leaving country where she was long imprisoned for first time since 1988.
 
 ### [''Assange v The Swedish Judicial Authority'':WikiLeaks editor Julian Assange learns he will find out tomorrow if he is to be deported to Sweden from the UK. ](/news/2012/05/29/assange-v-the-swedish-judicial-authority-pwikileaks-editor-julian-assange-learns-he-will-find-out-tomorrow-if-he-is-to-be-deported-to-sw.md)
-_Context: Assange v The Swedish Judicial Authority, Julian Assange, WikiLeaks_
+_Context: Assange v The Swedish Judicial Authority, Julian Assange, Wikileaks_
 
 ### [The Senate of the Philippines finds the Chief Justice of the Supreme Court Renato Corona guilty of failure to disclose to the public his assets following a four-month-long impeachment trial. ](/news/2012/05/29/the-senate-of-the-philippines-finds-the-chief-justice-of-the-supreme-court-renato-corona-guilty-of-failure-to-disclose-to-the-public-his-ass.md)
 Chief justice Renato Corona effectively removed from office after five-month trial for failing to declare bank accounts.

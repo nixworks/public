@@ -16,7 +16,7 @@ Minister says only fraction of items stolen following US-ivasion have been retur
 _Context: Mardi Gras, New Orleans, U.S., shooting_
 
 ### [ Sweden's government announces the engagement of Crown Princess Victoria and personal trainer Daniel Westling. ](/news/2009/02/24/sweden-s-government-announces-the-engagement-of-crown-princess-victoria-and-personal-trainer-daniel-westling.md)
-_Context: Crown Princess, Crown Princess Victoria, Daniel Westling, Sweden, engagement, government, personal trainer_
+_Context: Crown Princess, Crown Princess Victoria, Daniel Westling, Swedish, engagement, government, personal trainer_
 
 ### [ The National Front marches on Thailand's Government House, demanding an early election. ](/news/2009/02/24/the-national-front-marches-on-thailand-s-government-house-demanding-an-early-election.md)
 _Context: Government House, Thailand, assemble, elections, red shirt_

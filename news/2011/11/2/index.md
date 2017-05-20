@@ -7,7 +7,7 @@ _Context: Alexis Jenni, France, L'Art franais de la guerre, Prix Goncourt_
 Six girls aged between 10 and 12 are among eight people killed in a level crossing accident in Argentina, where a freight train has slammed into a bus.
 
 ### [Australian WikiLeaks founder Julian Assange loses his appeal in England's High Court against extradition to Sweden to face questioning over sexual assault allegations. ](/news/2011/11/2/australian-wikileaks-founder-julian-assange-loses-his-appeal-in-england-s-high-court-against-extradition-to-sweden-to-face-questioning-over.md)
-_Context: Australian, High Court, Julian Assange, Sweden, WikiLeaks_
+_Context: Australian, High Court, Julian Assange, Swedish, Wikileaks_
 
 ### [Four men are arrested in the U.S. state of Georgia for plotting to kill government officials with explosives and the toxic substance ricin. ](/news/2011/11/2/four-men-are-arrested-in-the-u-s-state-of-georgia-for-plotting-to-kill-government-officials-with-explosives-and-the-toxic-substance-ricin.md)
 Four Georgia men have been accused of plotting to buy explosives and manufacture a deadly biological toxin: Ricin.

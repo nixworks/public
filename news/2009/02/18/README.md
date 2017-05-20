@@ -31,7 +31,7 @@ _Context: GEO Television, Pakistan, Swat, Pakistan, War in North-West Pakistan_
 Lucent, Ericsson to upgrade radio network
 
 ### [ Swedish Minister of Enterprise and Energy Maud Olofsson criticizes General Motors for "abandoning" the struggling automaker Saab Automobile. ](/news/2009/02/18/swedish-minister-of-enterprise-and-energy-maud-olofsson-criticizes-general-motors-for-abandoning-the-struggling-automaker-saab-automobile.md)
-_Context: General Motors, Maud Olofsson, Minister of Enterprise and Energy, Saab Automobile, Sweden, automakers_
+_Context: General Motors, Maud Olofsson, Minister of Enterprise and Energy, Saab Automobile, Swedish, automakers_
 
 ### [ The Czech Republic's Chamber of Deputies approves the Treaty of Lisbon. ](/news/2009/02/18/the-czech-republic-s-chamber-of-deputies-approves-the-treaty-of-lisbon.md)
 _Context: Chamber of Deputies, Czech, Treaty of Lisbon_

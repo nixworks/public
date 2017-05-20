@@ -61,7 +61,7 @@ _Context: Jilin Baoyuanfeng Poultry Plant fire_
 _Context: Legionnaires' disease_
 
 ### [''United States v. Bradley Manning'':The judge disallows discussion of Bradley Manning's motives for leaking classified material to WikiLeaks at this time. ](/news/2013/06/5/united-states-v-bradley-manning-pthe-judge-disallows-discussion-of-bradley-manning-s-motives-for-leaking-classified-material-to-wikilea.md)
-_Context: Bradley Manning, United States v Bradley Manning, WikiLeaks_
+_Context: Bradley Manning, United States v Bradley Manning, Wikileaks_
 
 ### [The jailing for two years of former Met Police officer Paul Flattley, who sold information to News International daily tabloid ''The Sun'' about Catherine, Duchess of Cambridge, Paul Gascoigne and a 15-year-old girl who died of an overdose, is revealed for the first time today, "legal reasons" having prevented its disclosure until now. ](/news/2013/06/5/the-jailing-for-two-years-of-former-met-police-officer-paul-flattley-who-sold-information-to-news-international-daily-tabloid-the-sun-a.md)
 A convicted Scotland Yard constable awarded a coveted &quot;baton of honour&quot; during his training, but who went on to sell the Sun newspaper front-page secrets including the imminent proposal of Prince William to Kate Middleton, can be named today after legal restrictions were lifted in Southwark Crown Court.

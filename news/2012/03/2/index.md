@@ -34,7 +34,7 @@ _Context: Australia, Bega, New South Wales_
 At least 28 people are killed in the US states of Indiana, Kentucky and Ohio, as storms and tornadoes sweep across vast parts of the Midwest.
 
 ### [Around 30 people are injured and six of them taken to hospital when a stand collapses in Ericsson Globe Arena in Stockholm, Sweden, during a concert with Avicii. ](/news/2012/03/2/around-30-people-are-injured-and-six-of-them-taken-to-hospital-when-a-stand-collapses-in-ericsson-globe-arena-in-stockholm-sweden-during-a.md)
-_Context: Avicii, Ericsson Globe Arena, Stockholm, Sweden_
+_Context: Avicii, Ericsson Globe Arena, Stockholm, Swedish_
 
 ### [The Indian Intelligence Bureau launches an inquiry into whether the office of Defence Minister A. K. Antony had been bugged. ](/news/2012/03/2/the-indian-intelligence-bureau-launches-an-inquiry-into-whether-the-office-of-defence-minister-a-k-antony-had-been-bugged.md)
 The Defence Ministry has denied that Defence Minister AK Antony&#039;s office was being bugged, saying an investigation into &quot;inconsistencies&quot; found during a routine sweep has turned up no proof of any bugging device. In a terse press release issued this afternoon, the government said, &quot;Reports of &#039;bugging&#039; in South Block in a section of the media is hereby denied. Routine checks are conducted in the offices of Raksha Mantri and other officers in South Block. Nothing has been found in these checks.&quot;

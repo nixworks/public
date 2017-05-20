@@ -43,7 +43,7 @@ The Papal ban on discussing the ordination of women has been challenged by Bisho
 A veteran climber was found dead in the Himalayas today, days after he was injured and became stranded, a mountain rescue company&hellip;
 
 ### [ Sweden returns 22 skulls taken by Swedish scientists from indigenous cemeteries in Hawaii during the 19th century. ](/news/2009/11/14/sweden-returns-22-skulls-taken-by-swedish-scientists-from-indigenous-cemeteries-in-hawaii-during-the-19th-century.md)
-_Context: Hawaii, Sweden_
+_Context: Hawaii, Swedish_
 
 ### [ Russian authorities in Perm detain three homeless males on charges of murder, cannibalism and the unlawful selling of body parts to a kebab shop. ](/news/2009/11/14/russian-authorities-in-perm-detain-three-homeless-males-on-charges-of-murder-cannibalism-and-the-unlawful-selling-of-body-parts-to-a-kebab.md)
 Russian police have arrested three homeless people suspected of eating a 25-year-old man they had butchered and selling other&hellip;

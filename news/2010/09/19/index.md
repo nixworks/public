@@ -67,7 +67,7 @@ _Context: Guerrero, Mexican_
 Copac outreach meetings in Harare were Sunday abandoned after violence and chaos rocked the proceedings as youths — most of whom were apparently Zanu PF supporters — chased away suspected MDC-T supporters from the gatherings. Where the meetings took place, there was tension and high politicisation of talking points resulting in most of the meetings &hellip;
 
 ### [Swedish general electionVoters in Sweden go to the polls for a general election with the centre-right Alliance government led by Prime Minister of Sweden Fredrik Reinfeldt winning the most seats but falling short of a majority ](/news/2010/09/19/swedish-general-electionpvoters-in-sweden-go-to-the-polls-for-a-general-election-with-the-centre-right-alliance-government-led-by-prime-mini.md)
-_Context: Fredrik Reinfeldt, Sweden, Swedish general election, The Alliance, prime minister_
+_Context: Fredrik Reinfeldt, Swedish, Swedish general election, The Alliance, prime minister_
 
 ### [The United Front for Democracy Against Dictatorship, or Red Shirts, hold protests on the fourth anniversary of the downfall of Prime Minister of Thailand Thaksin Shinawatra. ](/news/2010/09/19/the-united-front-for-democracy-against-dictatorship-or-red-shirts-hold-protests-on-the-fourth-anniversary-of-the-downfall-of-prime-ministe.md)
 _Context: Prime Minister of Thailand, Thaksin, United Front for Democracy Against Dictatorship_

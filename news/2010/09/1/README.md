@@ -79,7 +79,7 @@ Four Afghan asylum seekers have been hospitalised with dehydration after pushing
 Two Yemenis arrested in Amsterdam on suspicion of planning a terror attack are released, prosecutors in the Netherlands say.
 
 ### [Swedish prosecutors decide to reopen a rape case against Wikileaks founder Julian Assange; Assange denies the allegations. ](/news/2010/09/1/swedish-prosecutors-decide-to-reopen-a-rape-case-against-wikileaks-founder-julian-assange-assange-denies-the-allegations.md)
-_Context: Julian Assange, Sweden, WikiLeaks, prosecutor, rape_
+_Context: Julian Assange, Swedish, Wikileaks, prosecutor, rape_
 
 ### [A man upset with the Discovery Channel's environmental programs takes several people hostage at its headquarters in Silver Spring, Maryland, near Washington, DC. Police snipers eventually kill him with the hostages being safe. ](/news/2010/09/1/a-man-upset-with-the-discovery-channel-s-environmental-programs-takes-several-people-hostage-at-its-headquarters-in-silver-spring-maryland.md)
 _Context: Discovery Channel, Silver Spring, Maryland, Washington DC, environmental, takes several people hostage_

@@ -7,7 +7,7 @@ _Context: Fiji, Niue, Pacific Islands Leaders Forum, Voreqe Bainimarama_
 _Context: Egypt, Parliament of Egypt, a huge fire_
 
 ### [ North Korea declares Sweden its enemy and a United States war puppet. ](/news/2008/08/19/north-korea-declares-sweden-its-enemy-and-a-united-states-war-puppet.md)
-_Context: North Korea, Sweden, U.S._
+_Context: North Korea, Swedish, U.S._
 
 ### [ A bomb at a paramilitary police training academy in the town of Issers 60 km east of Algiers kills at least 43 people and injures another 38. ](/news/2008/08/19/a-bomb-at-a-paramilitary-police-training-academy-in-the-town-of-issers-60-km-east-of-algiers-kills-at-least-43-people-and-injures-another-3.md)
 _Context: Algiers, Issers, bomb, paramilitary_

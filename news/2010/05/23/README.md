@@ -61,7 +61,7 @@ _Context: Shali_
 The Duchess of York has allegedly become the victim of a tabloid sting aimed at embarrassing her over her troubled finances.
 
 ### [Sweden's "Treskilling Yellow", the most expensive postage stamp in the world, retains its title at a private auction. ](/news/2010/05/23/sweden-s-treskilling-yellow-the-most-expensive-postage-stamp-in-the-world-retains-its-title-at-a-private-auction.md)
-_Context: Sweden, Treskilling Yellow, postage stamp_
+_Context: Swedish, Treskilling Yellow, postage stamp_
 
 ### [The UK tourist resort of Blackpool is expected to benefit "tens of millions" of pounds, described by the tourism chief as "unthinkable", following the local football club's elevation to the Premier League as an open-top bus tour is announced. ](/news/2010/05/23/the-uk-tourist-resort-of-blackpool-is-expected-to-benefit-tens-of-millions-of-pounds-described-by-the-tourism-chief-as-unthinkable-fol.md)
 _Context: Blackpool, English Premier League, local football club_

@@ -37,7 +37,7 @@ Paris Hilton is headed back to television -- this time in what is billed as a be
 _Context: Israel, Mahmoud Abbas, Palestinian Authority President, Palestinian National Authority, U.S., West Bank, peace talks_
 
 ### [Sweden raises its threat level in response to reports that the country could be targeted by terrorists. ](/news/2010/10/2/sweden-raises-its-threat-level-in-response-to-reports-that-the-country-could-be-targeted-by-terrorists.md)
-_Context: Sweden, terrorist_
+_Context: Swedish, terrorist_
 
 ### [Spanish police arrest 41 people suspected of financing FARC rebels in Colombia. ](/news/2010/10/2/spanish-police-arrest-41-people-suspected-of-financing-farc-rebels-in-colombia.md)
 Police detain 41 people accused of using drug money to finance Colomian rebels fighting to topple the government.

@@ -12,7 +12,7 @@ A Pentagon spokesman says the US is &quot;reasonably certain&quot; that a drone 
 
 ### Related:
 
-1. [United States aircraft bomb a Syrian regime convoy within a so-called "deconfliction zone" around Al-Tanf. ](/news/2017/05/18/united-states-aircraft-bomb-a-syrian-regime-convoy-within-a-so-called-deconfliction-zone-around-al-tanf.md) _Context: Syria, U.S._
+1. [United States aircraft bomb a convoy belonging to the Syrian pro-government militia within a so-called "deconfliction zone" around Al-Tanf. ](/news/2017/05/18/united-states-aircraft-bomb-a-convoy-belonging-to-the-syrian-pro-government-militia-within-a-so-called-deconfliction-zone-around-al-tanf.md) _Context: Syria, U.S._
 2. [According to the Syrian Observatory for Human Rights, multiple suspected U.S.-led coalition air raids kill at least 23 civilians in the village of al-Matab in northern Syria. ](/news/2017/03/9/according-to-the-syrian-observatory-for-human-rights-multiple-suspected-u-s-led-coalition-air-raids-kill-at-least-23-civilians-in-the-vill.md) _Context: Syria, U.S._
 3. [The Islamic State in Iraq and the Levant claims responsibility for the attack in what it claims is a response to Turkey's actions in neighbouring Syria. ](/news/2017/01/2/the-islamic-state-in-iraq-and-the-levant-claims-responsibility-for-the-attack-in-what-it-claims-is-a-response-to-turkey-s-actions-in-neighbo.md) _Context: Islamic State in Iraq and the Levant, Syria_
 4. [ A U.S. airstrike in Al-Raqqah, Syria, kills four ISIL leaders, two of which were confirmed to have roles in the November 2015 Paris Attacks. ](/news/2016/12/14/a-u-s-airstrike-in-al-raqqah-syria-kills-four-isil-leaders-two-of-which-were-confirmed-to-have-roles-in-the-november-2015-paris-attacks.md) _Context: Syria, U.S._

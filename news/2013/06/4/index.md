@@ -37,7 +37,7 @@ More than 150 marine scientists call on federal and Qld governments to stop all 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [''United States v. Bradley Manning'':The trial of U.S. serviceman Bradley Manning for leaking classified material to WikiLeaks continues in Fort Meade, Maryland. Former computer hacker Adrian Lamo, who turned Manning in to his persecutors, gives evidence at the court martial. ](/news/2013/06/4/united-states-v-bradley-manning-pthe-trial-of-u-s-serviceman-bradley-manning-for-leaking-classified-material-to-wikileaks-continues-in.md)
-_Context: Adrian Lamo, Bradley Manning, Fort Meade, Maryland, United States Army, United States v Bradley Manning, WikiLeaks_
+_Context: Adrian Lamo, Bradley Manning, Fort Meade, Maryland, United States Army, United States v Bradley Manning, Wikileaks_
 
 ### [Lawyers gather outside Britain's Ministry of Justice to demonstrate against PS220 million of proposed legal aid cuts and removal of the right of defendants to choose their own solicitor. ](/news/2013/06/4/lawyers-gather-outside-britain-s-ministry-of-justice-to-demonstrate-against-aps220-million-of-proposed-legal-aid-cuts-and-removal-of-the-righ.md)
 ### [South African athlete Oscar Pistorius appears in court charged with the murder of his girlfriend Reeva Steenkamp. ](/news/2013/06/4/south-african-athlete-oscar-pistorius-appears-in-court-charged-with-the-murder-of-his-girlfriend-reeva-steenkamp.md)

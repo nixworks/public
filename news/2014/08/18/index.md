@@ -13,7 +13,7 @@ At least 160 people are reported to have been killed in floods and landslides fo
 _Context: Ferguson, Missouri, Governor, Jay Nixon, Missouri, Missouri National Guard, St. Louis's, deaths of Michael Brown_
 
 ### [Wikileaks founder Julian Assange, who is wanted for questioning in Sweden, says that he will leave his refuge in the Ecuadorean embassy in London "soon". ](/news/2014/08/18/wikileaks-founder-julian-assange-who-is-wanted-for-questioning-in-sweden-says-that-he-will-leave-his-refuge-in-the-ecuadorean-embassy-in-l.md)
-_Context: Ecuador, Julian Assange, London, Sweden, WikiLeaks_
+_Context: Ecuador, Julian Assange, London, Swedish, Wikileaks_
 
 ### [Jackie Chan's son Jaycee and Taiwan star Kai Ko are arrested and detained in Beijing over drug-related charges. ](/news/2014/08/18/jackie-chan-s-son-jaycee-and-taiwan-star-kai-ko-are-arrested-and-detained-in-beijing-over-drug-related-charges.md)
 HONG KONG - Actor Jackie Chan&#039;s son Jaycee Chan and Taiwanese actor Kai Ko have been arrested in Beijing on drug-related charges, a report quoting mainland newspapers said.. Read more at straitstimes.com.

@@ -89,7 +89,7 @@ _Context: Peter Tatchell, same-sex marriage_
 
 ### [Three U.S. citizens are to stand trial on charges of spying in Iran after illegally entering the country. ](/news/2010/10/24/three-u-s-citizens-are-to-stand-trial-on-charges-of-spying-in-iran-after-illegally-entering-the-country.md)
 ### [Swedish police say they do not have a suspect for the serial shooting of 15 immigrants in Malmo. ](/news/2010/10/24/swedish-police-say-they-do-not-have-a-suspect-for-the-serial-shooting-of-15-immigrants-in-malmap.md)
-_Context: 2009-10 Malmo shootings, Malmo, Sweden_
+_Context: 2009-10 Malmo shootings, Malmo, Swedish_
 
 ### [Four employees of Chinese dairy giant Mengniu are arrested in Hohhot, Inner Mongolia for allegedly hiring a public relations firm to spread false rumours online about products of industry rival Yili Group. ](/news/2010/10/24/four-employees-of-chinese-dairy-giant-mengniu-are-arrested-in-hohhot-inner-mongolia-for-allegedly-hiring-a-public-relations-firm-to-spread.md)
 _Context: Hohhot, Inner Mongolia, Mengniu, PR, Yili Group_

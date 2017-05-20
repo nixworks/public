@@ -31,7 +31,7 @@ _Context: People's Republic of China, Xinjiang, ravine_
 One of Indonesia’s most active volcanoes has erupted, sending lava and searing gas clouds tumbling down its slopes. Volcanology official Agus Budianto said on Friday that authorities were still trying
 
 ### [A U.S. federal magistrate rules that prosecutors can demand Twitter account information in relation to Wikileaks. ](/news/2011/03/11/a-u-s-federal-magistrate-rules-that-prosecutors-can-demand-twitter-account-information-in-relation-to-wikileaks.md)
-_Context: Twitter, WikiLeaks, federal magistrate, prosecutor_
+_Context: Twitter, Wikileaks, federal magistrate, prosecutor_
 
 ### [Two ex-Blackwater consultants are found guilty in the United States of the involuntary manslaughter of a civilian in the Afghan capital Kabul. ](/news/2011/03/11/two-ex-blackwater-consultants-are-found-guilty-in-the-united-states-of-the-involuntary-manslaughter-of-a-civilian-in-the-afghan-capital-kabu.md)
 _Context: Afghanistan, Blackwater Worldwide, Kabul, U.S., manslaughter_

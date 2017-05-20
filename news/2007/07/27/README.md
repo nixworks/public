@@ -7,7 +7,7 @@ _Context: Balochistan_
 _Context: International Security Assistance Force, NATO, War in Afghanistan (2001-present)_
 
 ### [ The top United Nations official in Haiti raises concerns about a sharp increase in lynchings and other forms of mob violence. ](/news/2007/07/27/the-top-united-nations-official-in-haiti-raises-concerns-about-a-sharp-increase-in-lynchings-and-other-forms-of-mob-violence.md)
-_Context: Haiti, United Nations, lynching_
+_Context: Haiti, United Nations, lynch_
 
 ### [ The United States and India confirm a deal on nuclear co-operation. ](/news/2007/07/27/the-united-states-and-india-confirm-a-deal-on-nuclear-co-operation.md)
 _Context: India, U.S., nuclear co-operation_
@@ -76,7 +76,7 @@ _Context: Cabinet Minister, David Benson-Pope, Environment Minister, New Zealand
 _Context: John Thwaites, Premier, Steve Bracks_
 
 ### [ Swedish King Carl XVI Gustaf, by long tradition an honorary member of the AIK soccer club, concedes that he is a supporter of the rivaling club Djurgarden. ](/news/2007/07/27/swedish-king-carl-xvi-gustaf-by-long-tradition-an-honorary-member-of-the-aik-soccer-club-concedes-that-he-is-a-supporter-of-the-rivaling.md)
-_Context: AIK soccer club, Carl XVI Gustaf, Djurgarden, Sweden_
+_Context: AIK soccer club, Carl XVI Gustaf, Djurgarden, Swedish_
 
 ### [ Barry Bonds hits career home run number 754. ](/news/2007/07/27/barry-bonds-hits-career-home-run-number-754.md)
 Barry Bonds hit a solo shot in the first inning against the Florida Marlins to bring him within one home run of tying Hank Aaron’s all-time record. 

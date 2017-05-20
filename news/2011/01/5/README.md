@@ -4,7 +4,7 @@
 _Context: 2011 Royal Wedding, Archbishop of Canterbury, Catherine, Duchess of Cambridge, Clarence House, Duke of Cambridge, Rowan Williams_
 
 ### [Swedish actor Per Oscarsson and his wife Kia Ostling are confirmed dead by dental records after a fire destroyed the couple's house in Skara and the couple perished on December 30, 2010. ](/news/2011/01/5/swedish-actor-per-oscarsson-and-his-wife-kia-astling-are-confirmed-dead-by-dental-records-after-a-fire-destroyed-the-couple-s-house-in-skar.md)
-_Context: Kia Ostling, Per Oscarsson, Skara, Sweden_
+_Context: Kia Ostling, Per Oscarsson, Skara, Swedish_
 
 ### [Iran and India develop a stop-gap plan to continue the flow of oil from the former to the latter, and payments in the opposite direction, days after India withdrew from the Asian Clearing Union.  The new plan involves payments through the EIH Bank, in Hamburg, Germany. ](/news/2011/01/5/iran-and-india-develop-a-stop-gap-plan-to-continue-the-flow-of-oil-from-the-former-to-the-latter-and-payments-in-the-opposite-direction-da.md)
 _Context: Asian Clearing Union, EIH Bank, India, Iran_

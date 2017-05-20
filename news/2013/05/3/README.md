@@ -10,7 +10,7 @@ Get the latest weird news stories from all over the world. Find bizarre and offb
 Get the latest breaking news across the U.S. on ABCNews.com
 
 ### [The Stockholm School of Economics, one of Sweden's most prestigious universities, is hit by scandal amidst revelation that top official Justin Jenk forged CMC documents about his conviction of insider trading in Greece. [http://www.di.se/artiklar/2013/5/3/toppchefen-pa-handels-domd-till-fangelse/ (''Dagens Industri'')] (Swedish)](/news/2013/05/3/the-stockholm-school-of-economics-one-of-sweden-s-most-prestigious-universities-is-hit-by-scandal-amidst-revelation-that-top-official-just.md)
-_Context: CMC, Greek, Stockholm School of Economics, Sweden, insider trading_
+_Context: CMC, Greek, Stockholm School of Economics, Swedish, insider trading_
 
 ### [Heavy construction equipment manufacturer Caterpillar announces it plans to lay off an additional 300 employees by July. ](/news/2013/05/3/heavy-construction-equipment-manufacturer-caterpillar-announces-it-plans-to-lay-off-an-additional-300-employees-by-july.md)
 Earth-moving equipment maker Caterpillar Inc. said Friday will lay off an additional 300 employees in Decatur, Ill., by July.Peoria-based Caterpillar said in April that it planned to cut roughly 500...

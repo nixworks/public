@@ -64,7 +64,7 @@ _Context: Equality and Human Rights Commission_
 Two men are due in court in the Irish Republic on Sunday afternoon following a major operation against suspected dissident republicans.
 
 ### [The men found guilty of the Vstberga helicopter robbery in Sweden are sentenced to lengthy prison terms. ](/news/2010/10/10/the-men-found-guilty-of-the-vastberga-helicopter-robbery-in-sweden-are-sentenced-to-lengthy-prison-terms.md)
-_Context: Sweden, Vstberga helicopter robbery_
+_Context: Swedish, Vstberga helicopter robbery_
 
 ### [Dissolution of the Netherlands Antilles:Bonaire, Saba and Sint Eustatius become special municipalities of the Netherlands. ](/news/2010/10/10/dissolution-of-the-netherlands-antilles-pbonaire-saba-and-sint-eustatius-become-special-municipalities-of-the-netherlands.md)
 _Context: Bonaire, Dissolution of the Netherlands Antilles, Netherlands, Saba, Sint Eustatius_

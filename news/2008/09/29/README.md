@@ -16,7 +16,7 @@ A car bomb exploded near a military bus carrying troops going to work in norther
 _Context: Typhoon Hagupit, Vietnam, flood_
 
 ### [ Sweden's official debt collection agency is suffering from severe economic problems after having over-spent and over-borrowed and may be forced to cut staff to stop the bleeding. ](/news/2008/09/29/swedenas-official-debt-collection-agency-is-suffering-from-severe-economic-problems-after-having-over-spent-and-over-borrowed-and-may-be.md)
-_Context: Sweden, debt collection agency_
+_Context: Swedish, debt collection agency_
 
 ### [ Brazil's government is named as the worst illegal logger of the Amazon rainforest. ](/news/2008/09/29/brazil-s-government-is-named-as-the-worst-illegal-logger-of-the-amazon-rainforest.md)
 _Context: Amazon rainforest, Brazil_

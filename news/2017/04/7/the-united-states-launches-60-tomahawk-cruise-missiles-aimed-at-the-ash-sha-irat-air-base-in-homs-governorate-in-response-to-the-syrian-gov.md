@@ -13,7 +13,7 @@ President Bashar al-Assad &#x27;choked out the lives of helpless men, women and 
 
 ### Related:
 
-1. [United States aircraft bomb a Syrian regime convoy within a so-called "deconfliction zone" around Al-Tanf. ](/news/2017/05/18/united-states-aircraft-bomb-a-syrian-regime-convoy-within-a-so-called-deconfliction-zone-around-al-tanf.md) _Context: Syrian Civil War, U.S._
+1. [United States aircraft bomb a convoy belonging to the Syrian pro-government militia within a so-called "deconfliction zone" around Al-Tanf. ](/news/2017/05/18/united-states-aircraft-bomb-a-convoy-belonging-to-the-syrian-pro-government-militia-within-a-so-called-deconfliction-zone-around-al-tanf.md) _Context: Syrian Civil War, U.S._
 2. [A toxic gas attack, allegedly by Syrian warplanes, kills at least 83 and injures many more in rebel-held Khan Shaykhun, Idlib. ](/news/2017/04/4/a-toxic-gas-attack-allegedly-by-syrian-warplanes-kills-at-least-83-and-injures-many-more-in-rebel-held-khan-shaykhun-idlib.md) _Context: Khan Shaykhun, Syrian Civil War_
 3. [According to the Syrian Observatory for Human Rights, multiple suspected U.S.-led coalition air raids kill at least 23 civilians in the village of al-Matab in northern Syria. ](/news/2017/03/9/according-to-the-syrian-observatory-for-human-rights-multiple-suspected-u-s-led-coalition-air-raids-kill-at-least-23-civilians-in-the-vill.md) _Context: Syrian Civil War, U.S._
 4. [A U.S.-led coalition airstrike on a school west of Raqqa, kills at least 33 people. ](/news/2017/03/22/a-u-s-led-coalition-airstrike-on-a-school-west-of-raqqa-kills-at-least-33-people.md) _Context: Syrian Civil War, U.S._

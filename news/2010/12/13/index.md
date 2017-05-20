@@ -53,7 +53,7 @@ _Context: Philippines, condom_
 _Context: Bangladesh_
 
 ### [OpenLeaks, a splinter group rivaling WikiLeaks, launches its website. ](/news/2010/12/13/openleaks-a-splinter-group-rivaling-wikileaks-launches-its-website.md)
-_Context: OpenLeaks, WikiLeaks_
+_Context: OpenLeaks, Wikileaks_
 
 ### [Papua New Guinea's Supreme Court unanimously rules the reappointment of Sir Paulias Matane as Governor-General of Papua New Guinea unconstitutional due to the lack of a secret ballot. Matane steps down from his position and Jeffrey Nape becomes acting Governor-General. ](/news/2010/12/13/papua-new-guinea-s-supreme-court-unanimously-rules-the-reappointment-of-sir-paulias-matane-as-governor-general-of-papua-new-guinea-unconstit.md)
 _Context: Governor-General of Papua New Guinea, Jeffrey Nape, Papua New Guinea, Paulias Matane, Supreme Court, secret ballot_

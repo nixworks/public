@@ -1,7 +1,7 @@
 ## [2009-04-6](/news/2009/04/6/index.md)
 
 ### [ Convicted murderer Annika Ostberg is transferred to Sweden from California's Institution for Women. ](/news/2009/04/6/convicted-murderer-annika-astberg-is-transferred-to-sweden-from-california-s-institution-for-women.md)
-_Context: Annika Ostberg, California, Institution for Women, Sweden, convicted, murder_
+_Context: Annika Ostberg, California, Institution for Women, Swedish, convicted, murder_
 
 ### [ Six car bombs kill at least 34 people and injure 139 others in Baghdad, Iraq.  ](/news/2009/04/6/six-car-bombs-kill-at-least-34-people-and-injure-139-others-in-baghdad-iraq.md)
 _Context: Baghdad, Iraq, Six car bombs_

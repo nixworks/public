@@ -14,7 +14,7 @@ _Context: European Union, U.S._
 _Context: Benedict XVI, Roman Catholic Church, baptised, limbus infantium_
 
 ### [ The new Swedish Prime Minister, Fredrik Reinfeldt, presents his new cabinet. ](/news/2006/10/6/the-new-swedish-prime-minister-fredrik-reinfeldt-presents-his-new-cabinet.md)
-_Context: Cabinet of Fredrik Reinfeldt, Fredrik Reinfeldt, Sweden, prime minister_
+_Context: Cabinet of Fredrik Reinfeldt, Fredrik Reinfeldt, Swedish, prime minister_
 
 ### [ 2006 Southeast Asian haze: Smoke from fires in western Indonesia causes air quality and visibility to plummet to unhealthy levels in neighboring Malaysia. ](/news/2006/10/6/2006-southeast-asian-haze-smoke-from-fires-in-western-indonesia-causes-air-quality-and-visibility-to-plummet-to-unhealthy-levels-in-neighb.md)
 _Context: 2006 Southeast Asian haze, Indonesia, Malaysia, fire_

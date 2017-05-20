@@ -28,7 +28,7 @@ Luxembourg Foreign Minister Jean Asselborn calls for Hungary to be suspended or 
 Opening arguments began on Tuesday in the trial of former American International Group Inc chairman Maurice &quot;Hank&quot; Greenberg over accounting fraud at the insurance giant some 16 years ago.
 
 ### [Imprisoned former American Army intelligence analyst and transgender person Chelsea Manning, who is serving a 35-year sentence at Fort Leavenworth, will have the military provide the costs of gender reassignment surgery. She was convicted by court-martial in July 2013 of violations of the Espionage Act and other offenses, after disclosing to WikiLeaks nearly three-quarters of a million classified or unclassified but sensitive military and diplomatic documents. ](/news/2016/09/13/imprisoned-former-american-army-intelligence-analyst-and-transgender-person-chelsea-manning-who-is-serving-a-35-year-sentence-at-fort-leave.md)
-_Context: Chelsea Manning, Espionage Act, Fort Leavenworth, WikiLeaks, gender reassignment_
+_Context: Chelsea Manning, Espionage Act, Fort Leavenworth, Wikileaks, gender reassignment_
 
 ### [The Cuban-born American arsonist who torched 87 people in March 1990 at The Bronx Happy Land fire, Julio Gonzalez, dies in prison at the age of 61. ](/news/2016/09/13/the-cuban-born-american-arsonist-who-torched-87-people-in-march-1990-at-the-bronx-happy-land-fire-julio-gonza-lez-dies-in-prison-at-the-ag.md)
 _Context: Happy Land fire, Julio Gonzalez, The Bronx_

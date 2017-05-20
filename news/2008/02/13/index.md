@@ -10,7 +10,7 @@ _Context: House Oversight Committee, Major League Baseball, Roger Clemens, perfo
 _Context: Iraqi Parliament, provincial elections_
 
 ### [ The Swedish government rejects the Nord Stream underwater natural gas pipeline from Russia to Germany. ](/news/2008/02/13/the-swedish-government-rejects-the-nord-stream-underwater-natural-gas-pipeline-from-russia-to-germany.md)
-_Context: German, Nord Stream, Russia, Sweden, pipeline_
+_Context: German, Nord Stream, Russia, Swedish, pipeline_
 
 ### [ Hezbollah commander Imad Mugniyah is killed by a bomb attack in Damascus, Syria. ](/news/2008/02/13/hezbollah-commander-imad-mugniyah-is-killed-by-a-bomb-attack-in-damascus-syria.md)
 _Context: Damascus, Hezbollah, Imad Mugniyah, Syria_

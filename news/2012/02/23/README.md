@@ -13,7 +13,7 @@ _Context: bombardment_
 _Context: Bali, Indonesia, Kerobokan Prison_
 
 ### [Wikileaks suspect United States Army Private Bradley Manning is formally charged ahead of a court martial. ](/news/2012/02/23/wikileaks-suspect-united-states-army-private-bradley-manning-is-formally-charged-ahead-of-a-court-martial.md)
-_Context: Bradley Manning, United States Army, WikiLeaks, court-martial_
+_Context: Bradley Manning, United States Army, Wikileaks, court-martial_
 
 ### [The case against Gabe Watson in relation to the death of his newlywed wife Tina on the Great Barrier Reef in Australia is dismissed in the US state of Alabama. ](/news/2012/02/23/the-case-against-gabe-watson-in-relation-to-the-death-of-his-newlywed-wife-tina-on-the-great-barrier-reef-in-australia-is-dismissed-in-the-u.md)
 _Context: Alabama, Australia, Great Barrier Reef, death of his newlywed wife Tina_

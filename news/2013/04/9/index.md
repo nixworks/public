@@ -13,7 +13,7 @@ _Context: 2013 Bushehr earthquake, Bahrain, Bandar Deyr, Iran, Khvormuj, earthqu
 A helicopter crash in eastern Afghanistan killed two American members of the NATO-led force on Tuesday, spokesmen said.
 
 ### [Kissinger cables:Among the cables available now on WikiLeaks are the Nixon administration's early comments on recently-deceased former UK Prime Minister Margaret Thatcher. ](/news/2013/04/9/kissinger-cables-pamong-the-cables-available-now-on-wikileaks-are-the-nixon-administration-s-early-comments-on-recently-deceased-former-uk-p.md)
-_Context: Kissinger cables, Margaret Thatcher, Richard Nixon, UK Prime Minister, WikiLeaks_
+_Context: Kissinger cables, Margaret Thatcher, Richard Nixon, UK Prime Minister, Wikileaks_
 
 ### [2013 Korean crisis:North Korea announces its plans to launch a missile tomorrow; an event on that day had been warned about before. ](/news/2013/04/9/2013-korean-crisis-pnorth-korea-announces-its-plans-to-launch-a-missile-tomorrow-an-event-on-that-day-had-been-warned-about-before.md)
 NORTH Korea has completed preparations for up to three missile launches, sources in Seoul have revealed, while the South has appealed to China and Russia to intervene over the provocations.

@@ -19,7 +19,7 @@ _Context: Guatemala, Panama, United Nations Security Council, Venezuela_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ The Swedish Ro-Ro ship M/S ''Finnbirch'' sinks in a blizzard in the Baltic Sea, killing two of its fourteen crew members. The vessel had some 260 tons of fuel and lubrication oil onboard which might present a hazard to the environment. ](/news/2006/11/1/the-swedish-ro-ro-ship-m-s-finnbirch-sinks-in-a-blizzard-in-the-baltic-sea-killing-two-of-its-fourteen-crew-members-the-vessel-had-so.md)
-_Context: Baltic Sea, M/S ''Finnbirch'', Roll-on/roll-off, Sweden, lubrication, oil, oil spill_
+_Context: Baltic Sea, M/S ''Finnbirch'', Roll-on/roll-off, Swedish, lubrication, oil, oil spill_
 
 ### [ Turkish archaeologist Muazzez Ilmiye Cig is acquitted of inciting religious hatred; a charge made after she published a book stating that the Muslim headscarf originated in the clothing of Sumerian priestesses who initiated young men into sex. ](/news/2006/11/1/turkish-archaeologist-muazzez-ilmiye-cig-is-acquitted-of-inciting-religious-hatred-a-charge-made-after-she-published-a-book-stating-that-t.md)
 _Context: Muazzez Ilmiye Cig, Muslim clothing, Sumer, Turkish_

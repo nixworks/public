@@ -13,7 +13,7 @@ _Context: Georgia, Russia_
 _Context: France, Manuel Noriega, Panama, U.S., U.S. federal court, William Hoeveler, judge, prison_
 
 ### [ Citing a "very reliable" source at the University of Miami, the Swedish broad sheet newspaper ''Norra Skne'' reports that Cuban leader Fidel Castro is dead. ](/news/2007/08/24/citing-a-very-reliable-source-at-the-university-of-miami-the-swedish-broad-sheet-newspaper-norra-skane-reports-that-cuban-leader-fid.md)
-_Context: Cuba, Fidel Castro, Sweden, University of Miami_
+_Context: Cuba, Fidel Castro, Swedish, University of Miami_
 
 ### [ Part of the Montreal Metro and the street above are closed off after the formation of cracks at McGill station, causing severe traffic problems in downtown. There is no indication as to when the road or station will be re-opened. ](/news/2007/08/24/part-of-the-montreal-metro-and-the-street-above-are-closed-off-after-the-formation-of-cracks-at-mcgill-station-causing-severe-traffic-prob.md)
 _Context: McGill station, Montreal Metro_

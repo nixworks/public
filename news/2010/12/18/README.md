@@ -10,7 +10,7 @@ An Israeli air strike kills five people in the Gaza Strip, Palestinian and Israe
 Unemployment rates rose in 21 states last month, the highest number to report an increase since August. The report is a reminder of the job market&#8217;s struggle to rebound even as the economy is improving.
 
 ### [Bank of America bans Wikileaks payments as a result of news of an upcoming release of information on banks in the United States that could leave an impact. ](/news/2010/12/18/bank-of-america-bans-wikileaks-payments-as-a-result-of-news-of-an-upcoming-release-of-information-on-banks-in-the-united-states-that-could-l.md)
-_Context: Bank of America, WikiLeaks_
+_Context: Bank of America, Wikileaks_
 
 ### [At least 30 people drown after a boat capsizes in northeastern Bangladesh. ](/news/2010/12/18/at-least-30-people-drown-after-a-boat-capsizes-in-northeastern-bangladesh.md)
 _Context: Bangladesh_

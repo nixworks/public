@@ -22,7 +22,7 @@ _Context: ExxonMobil Corporation, Fortune 500, Walmart_
 _Context: Bank of America, MBIA, US$_
 
 ### [A new Swedish study published in the journal ''Pediatrics'' finds that children whose parents suck on their pacifiers have fewer allergies later in life. ](/news/2013/05/6/a-new-swedish-study-published-in-the-journal-pediatrics-finds-that-children-whose-parents-suck-on-their-pacifiers-have-fewer-allergies-l.md)
-_Context: Pediatrics, Sweden, allergies, pacifier_
+_Context: Pediatrics, Swedish, allergies, pacifier_
 
 ### [Germany arrests a 93-year-old, alleged former Auschwitz guard, Hans Lipschis, on charges of murder. ](/news/2013/05/6/germany-arrests-a-93-year-old-alleged-former-auschwitz-guard-hans-lipschis-on-charges-of-murder.md)
 A 93-year-old alleged ex-guard at the Auschwitz extermination camp, Hans Lipschis, is arrested in Germany on suspicion of complicity in murder.

@@ -22,7 +22,7 @@ _Context: London Underground, peak-hour_
 _Context: Indonesia, Mount Bromo_
 
 ### [Diplomatic cable leaks by Wikileaks reveal that China regarded North Korea as a "spoilt child" and the view of  Korean reunification under South Korean leadership is "gaining ground". ](/news/2010/11/29/diplomatic-cable-leaks-by-wikileaks-reveal-that-china-regarded-north-korea-as-a-spoilt-child-and-the-view-of-korean-reunification-under-s.md)
-_Context: 250,000 documents, North Korea, People's Republic of China, South Korea, WikiLeaks, reunified_
+_Context: 250,000 documents, North Korea, People's Republic of China, South Korea, Wikileaks, reunified_
 
 ### [Israel's "eased"  blockade of the Gaza strip continues to cripple the Gazan economy. ](/news/2010/11/29/israel-s-eased-blockade-of-the-gaza-strip-continues-to-cripple-the-gazan-economy.md)
 _Context: Gaza Strip, Israel, Israeli blockade_

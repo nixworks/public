@@ -43,7 +43,7 @@ Four African countries sign new water sharing deal amid opposition from Egypt an
 Nigerian and Chinese authorities sign a $23bn deal to build three refineries and a fuel complex in the African state.
 
 ### [Sweden expels Syrian diplomat over suspected kidnapping plot. ](/news/2010/05/14/sweden-expels-syrian-diplomat-over-suspected-kidnapping-plot.md)
-_Context: Sweden, Syria_
+_Context: Swedish, Syria_
 
 ### [British Labour MP Stephen Timms, a former treasury minister, is stabbed in the abdomen by a woman in east London. ](/news/2010/05/14/british-labour-mp-stephen-timms-a-former-treasury-minister-is-stabbed-in-the-abdomen-by-a-woman-in-east-london.md)
 A Labour MP was recovering well from an operation on stab wounds this morning after being stabbed during his first constituency advice surgery since the general election.

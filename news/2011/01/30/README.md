@@ -43,7 +43,7 @@ A Vietnamese journalist, set on fire after being doused with chemicals as he sle
 _Context: Kent, U.S., York_
 
 ### [Ahead of his court case Julian Assange is interviewed at the Norfolk country house where he is staying, having been up all night preparing U.S. State Department cables relevant to ongoing events in Egypt for inclusion on the WikiLeaks website. ](/news/2011/01/30/ahead-of-his-court-case-julian-assange-is-interviewed-at-the-norfolk-country-house-where-he-is-staying-having-been-up-all-night-preparing-u.md)
-_Context: 250,000 documents, Julian Assange, Norfolk, Protesters, WikiLeaks_
+_Context: 250,000 documents, Julian Assange, Norfolk, Protesters, Wikileaks_
 
 ### [Southern Sudan chooses to become independent of Sudan with over 99% voting yes in the referendum. ](/news/2011/01/30/southern-sudan-chooses-to-become-independent-of-sudan-with-over-99-voting-yes-in-the-referendum.md)
 South Sudan almost unanimously voted to declare independence from the north in a referendum, officials said on Sunday, sparking mass celebrations in the southern capital Juba.

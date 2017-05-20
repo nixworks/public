@@ -7,7 +7,7 @@ Police in Mexico find the body of the kidnapped mayor of the northern city of Sa
 More than 2,000 civilian and military personnel from 18 countries began a 12-day exercise in Panama City Tuesday to train in a joint, multinational effort to defend the Panama Canal.
 
 ### [Julian Assange of Wikileaks says the United States has approached the website to try to negotiate the release of a further 15,000 Afghanistan war documents which the military desires to keep secret; the United States denies this. ](/news/2010/08/18/julian-assange-of-wikileaks-says-the-united-states-has-approached-the-website-to-try-to-negotiate-the-release-of-a-further-15-000-afghanista.md)
-_Context: Julian Assange, U.S., WikiLeaks_
+_Context: Julian Assange, U.S., Wikileaks_
 
 ### [The United States ends combat operations in Iraq as its last combat brigade departs for Kuwait. ](/news/2010/08/18/the-united-states-ends-combat-operations-in-iraq-as-its-last-combat-brigade-departs-for-kuwait.md)
 The last full U.S. combat brigade crossed the border into Kuwait on Thursday morning, bringing to a close the active combat phase of the 7½-year war.

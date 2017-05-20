@@ -55,7 +55,7 @@ _Context: Gaza Strip, Hamas, Israel_
 _Context: Israel, Israeli-Lebanese conflict, Lebanon_
 
 ### [ Sweden votes in favour of the FRA law, allowing all e-mails and phone calls to be monitored. ](/news/2008/06/18/sweden-votes-in-favour-of-the-fra-law-allowing-all-e-mails-and-phone-calls-to-be-monitored.md)
-_Context: FRA law, Sweden, e-mail_
+_Context: FRA law, Swedish, e-mail_
 
 ## [Previous Day...](/news/2008/06/17/index.md)
 

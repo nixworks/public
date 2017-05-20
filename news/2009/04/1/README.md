@@ -34,7 +34,7 @@ _Context: Albania, Croatia, Enlargement of NATO, NATO_
 Researchers mapping the sea floor off Victoria have uncovered the rusting wreck of the first American vessel to be sunk during World War II.
 
 ### [ Sweden's Parliament legalizes same-sex marriage.  ](/news/2009/04/1/sweden-s-parliament-legalizes-same-sex-marriage.md)
-_Context: Riksdag, Sweden, decides, same-sex marriage_
+_Context: Riksdag, Swedish, decides, same-sex marriage_
 
 ### [ A bomb damages a statue of Vladimir Lenin near Finlyandsky Rail Terminal in Saint Petersburg, Russia. ](/news/2009/04/1/a-bomb-damages-a-statue-of-vladimir-lenin-near-finlyandsky-rail-terminal-in-saint-petersburg-russia.md)
 _Context: Finlyandsky Rail Terminal, Lenin, Russia, Saint Petersburg, bomb, statue_

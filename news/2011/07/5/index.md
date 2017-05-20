@@ -73,7 +73,7 @@ _Context: Fortnum & Mason, John McDonnell, Labour Party, UK Uncut, trespass_
 The Dutch state was responsible for the deaths of three Bosniaks in the 1995 Srebrenica massacre, a court rules, opening the way for more claims.
 
 ### [25-year-old navy medic Michael Lyons is found guilty in Plymouth of refusing to attend rifle training; Lyons says he developed a moral objection to the war in Afghanistan due to revelations made public by WikiLeaks. ](/news/2011/07/5/25-year-old-navy-medic-michael-lyons-is-found-guilty-in-plymouth-of-refusing-to-attend-rifle-training-lyons-says-he-developed-a-moral-objec.md)
-_Context: Plymouth, War in Afghanistan (2001-present), WikiLeaks_
+_Context: Plymouth, War in Afghanistan (2001-present), Wikileaks_
 
 ### [New South Wales police are given more powers to remove burqas as anyone refusing to do so faces fines of thousands of dollars or months behind bars. ](/news/2011/07/5/new-south-wales-police-are-given-more-powers-to-remove-burqas-as-anyone-refusing-to-do-so-faces-fines-of-thousands-of-dollars-or-months-behi.md)
 _Context: New South Wales, burqa_

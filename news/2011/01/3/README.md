@@ -46,7 +46,7 @@ _Context: Muttahida Qaumi Movement, Pakistan_
 Most Americans think the United States should raise taxes for the rich to balance the budget, according to a 60 Minutes/Vanity Fair poll released on Monday.
 
 ### [Republican U.S. Representative Darrell Issa calls for Attorney General Eric Holder to resign over lack of progress in prosecuting Julian Assange, and plans are announced of holding a congressional inquiry into Wikileaks and Assange. ](/news/2011/01/3/republican-u-s-representative-darrell-issa-calls-for-attorney-general-eric-holder-to-resign-over-lack-of-progress-in-prosecuting-julian-ass.md)
-_Context: Darrell Issa, Eric Holder, Julian Assange, R, United States Attorney General, United States House of Representatives, WikiLeaks, congressional inquiry_
+_Context: Darrell Issa, Eric Holder, Julian Assange, R, United States Attorney General, United States House of Representatives, Wikileaks, congressional inquiry_
 
 ### [Scientists are investigating the sudden dieoff of over 5,000 red-winged blackbirds in Beebe, Arkansas, United States, on New Year's Eve. ](/news/2011/01/3/scientists-are-investigating-the-sudden-dieoff-of-over-5-000-red-winged-blackbirds-in-beebe-arkansas-united-states-on-new-year-s-eve.md)
 _Context: Beebe, Arkansas, U.S., red-winged blackbird_

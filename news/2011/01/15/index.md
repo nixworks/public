@@ -13,7 +13,7 @@ Two U.S. soldiers were killed and a third injured when an Iraqi soldier opened f
 The online encyclopedia Wikipedia, which gets nearly 400 million unique visitors a month, celebrates its 10th anniversary on Saturday.
 
 ### [Advocates of free speech march through the streets of Sydney in support of WikiLeaks spokesperson Julian Assange, who is in England battling attempts by Sweden to have him extradited. Greens MP David Shoebridge addresses the crowd and calls for support from the Australian government. ](/news/2011/01/15/advocates-of-free-speech-march-through-the-streets-of-sydney-in-support-of-wikileaks-spokesperson-julian-assange-who-is-in-england-battling.md)
-_Context: Australian Greens, David Shoebridge, England, Julian Assange, Sweden, Sydney, WikiLeaks, freedom of expression_
+_Context: Australian Greens, David Shoebridge, England, Julian Assange, Swedish, Sydney, Wikileaks, freedom of expression_
 
 ### [In Westminster Cathedral, three Anglican bishops are ordained as Catholic priests. ](/news/2011/01/15/in-westminster-cathedral-three-anglican-bishops-are-ordained-as-catholic-priests.md)
 _Context: Catholics, Church of England, Westminster Cathedral_

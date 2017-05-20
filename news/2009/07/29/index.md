@@ -25,7 +25,7 @@ _Context: Indonesia, Internet, al-Qaeda, blog, suicide attacks on two hotels_
 _Context: Iran, protests against the regime, re-election_
 
 ### [ Venezuela "freezes" diplomatic relations with Colombia, after a dispute over Swedish weapons bought by Venezuela were allegedly found on FARC rebels. ](/news/2009/07/29/venezuela-freezes-diplomatic-relations-with-colombia-after-a-dispute-over-swedish-weapons-bought-by-venezuela-were-allegedly-found-on-fa.md)
-_Context: Colombia, Revolutionary Armed Forces of Colombia, Sweden, Venezuela_
+_Context: Colombia, Revolutionary Armed Forces of Colombia, Swedish, Venezuela_
 
 ### [ Dozens of people are arrested at opposition rallies in Kyrgyzstan, protesting against the disputed presidential election. ](/news/2009/07/29/dozens-of-people-are-arrested-at-opposition-rallies-in-kyrgyzstan-protesting-against-the-disputed-presidential-election.md)
 _Context: Kyrgyzstan, presidential election_

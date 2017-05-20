@@ -1,7 +1,7 @@
 ## [2009-01-2](/news/2009/01/2/index.md)
 
 ### [ A Swedish charter aircraft carrying 150 passengers touches down at Baghdad International Airport, becoming the first European commercial flight to land there since 1990. ](/news/2009/01/2/a-swedish-charter-aircraft-carrying-150-passengers-touches-down-at-baghdad-international-airport-becoming-the-first-european-commercial-fl.md)
-_Context: Baghdad International Airport, Europe, Sweden, charter aircraft, commercial flight_
+_Context: Baghdad International Airport, Europe, Swedish, charter aircraft, commercial flight_
 
 ### [ 2008 SLA Northern offensive: The Sri Lankan Army captures the Tamil Tigers' ''de facto'' capital of Kilinochchi. ](/news/2009/01/2/2008-sla-northern-offensive-the-sri-lankan-army-captures-the-tamil-tigers-de-facto-capital-of-kilinochchi.md)
 _Context: 2008 SLA Northern offensive, Army, Kilinochchi, LTTE, Sri Lanka, captures_

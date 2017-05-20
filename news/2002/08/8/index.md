@@ -4,7 +4,7 @@
 _Context: Accountancy scandals, WorldCom_
 
 ### [ The U.S. Federal Communications Commission (FCC) votes to require television manufacturers to include digital tuners in nearly all televisions by 2007.](/news/2002/08/8/the-u-s-federal-communications-commission-fcc-votes-to-require-television-manufacturers-to-include-digital-tuners-in-nearly-all-televisi.md)
-_Context: Federal Communications Commission's, digital tuners_
+_Context: Federal Communications Commission, digital tuners_
 
 ## [Previous Day...](/news/2002/08/7/index.md)
 
