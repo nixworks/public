@@ -18,7 +18,7 @@ Voters are to elect a new president, with incumbent Hassan Rouhani up against th
 ### [The Federal Communications Commission votes to overturn a 2015 ruling requiring net neutrality. ](/news/2017/05/19/the-federal-communications-commission-votes-to-overturn-a-2015-ruling-requiring-net-neutrality.md)
 Critics say changing the rules may mean some data travels on &quot;fast lanes&quot;.
 
-### [California independence enthusiasts try again. ](/news/2017/05/19/california-independence-enthusiasts-try-again.md)
+### [California independence supporters submit their second formal bid for a 2018 ballot concerning Calexit. ](/news/2017/05/19/california-independence-supporters-submit-their-second-formal-bid-for-a-2018-ballot-concerning-calexit.md)
 Supporters of a bid for California independence are again submitting plans for a 2018 statewide ballot measure to potentially leave the...
 
 ### [Goldman Sachs banker Jim Donovan withdraws from consideration as Deputy Treasury Secretary in order to have time for his family. ](/news/2017/05/19/goldman-sachs-banker-jim-donovan-withdraws-from-consideration-as-deputy-treasury-secretary-in-order-to-have-time-for-his-family.md)
