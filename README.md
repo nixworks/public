@@ -1,6 +1,6 @@
 ## [News](/news/2017/05/20/index.md)
 
-### [With more than half the votes counted, Iran's President Hassan Rouhani leads top opponent Ebrahim Raisi with   14.6 million votes  versus Raisi's 10.1 million votes. ](/news/2017/05/20/with-more-than-half-the-votes-counted-iran-s-president-hassan-rouhani-leads-top-opponent-ebrahim-raisi-with-14-6-million-votes-versus-ra.md)
+### [With more than half the votes counted, Iran's President Hassan Rouhani leads top opponent Ebrahim Raisi with 22.7 million votes  versus Ebrahim Raisi's 15.4 million votes. ](/news/2017/05/20/with-more-than-half-the-votes-counted-iran-s-president-hassan-rouhani-leads-top-opponent-ebrahim-raisi-with-22-7-million-votes-versus-ebra.md)
 With more than half of votes counted, incumbent president appears set to beat conservative challenger Ebrahim Raisi.
 
 ## Opinion
@@ -14,7 +14,7 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [A roadside bomb kills at least 11 people, all from the same family, in Logar Province. ](/news/2017/05/19/a-roadside-bomb-kills-at-least-11-people-all-from-the-same-family-in-logar-province.md)
 _Context: Logar Province, War in Afghanistan_
 
-### [''Assange v Swedish Prosecution Authority''Swedish prosecutors drop a seven-year sexual assault investigation into Wikileaks founder Julian Assange. ](/news/2017/05/19/assange-v-swedish-prosecution-authority-pswedish-prosecutors-drop-a-seven-year-sexual-assault-investigation-into-wikileaks-founder-julian.md)
+### [''Assange v Swedish Prosecution Authority''Swedish prosecutors drop a seven-year sexual assault investigation into WikiLeaks founder Julian Assange. ](/news/2017/05/19/assange-v-swedish-prosecution-authority-pswedish-prosecutors-drop-a-seven-year-sexual-assault-investigation-into-wikileaks-founder-julian.md)
 STOCKHOLM (AP) — Sweden&#x27;s top prosecutor said Friday she is dropping an investigation into a rape claim against WikiLeaks founder Julian Assange after almost seven years.
 
 ### [Former U.S. Congressman Anthony Weiner pleads guilty to sexting with a 15-year-old girl. ](/news/2017/05/19/former-u-s-congressman-anthony-weiner-pleads-guilty-to-sexting-with-a-15-year-old-girl.md)
@@ -31,6 +31,9 @@ Critics say changing the rules may mean some data travels on &quot;fast lanes&qu
 
 ### [California independence enthusiasts try again. ](/news/2017/05/19/california-independence-enthusiasts-try-again.md)
 Supporters of a bid for California independence are again submitting plans for a 2018 statewide ballot measure to potentially leave the...
+
+### [Goldman Sachs banker Jim Donovan withdraws from consideration as Deputy Treasury Secretary in order to have time for his family. ](/news/2017/05/19/goldman-sachs-banker-jim-donovan-withdraws-from-consideration-as-deputy-treasury-secretary-in-order-to-have-time-for-his-family.md)
+He was expected to play a critical role in helping shape the administration&rsquo;s tax reform policy through Capitol Hill.
 
 ---
 
