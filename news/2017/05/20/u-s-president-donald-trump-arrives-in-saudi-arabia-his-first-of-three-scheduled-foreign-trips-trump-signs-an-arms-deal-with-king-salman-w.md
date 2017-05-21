@@ -9,6 +9,7 @@ President Trump signed a $110 billion arms deal with Saudi Arabia on Saturday, t
 
 1. [ABC News](http://abcnews.go.com/Politics/trump-signs-110-billion-arms-deal-saudi-arabia/story?id=47531180)
 2. [Al Jazeera](http://www.aljazeera.com/news/2017/05/trump-arrives-saudi-arabia-foreign-trip-170520063253596.html)
+3. [New York Times](https://www.nytimes.com/2017/05/20/world/middleeast/donald-trump-saudi-arabia.html?_r=0)
 
 ### Related:
 
