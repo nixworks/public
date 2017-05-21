@@ -22,7 +22,7 @@ _Context: Constitution, Court of Appeal, Fiji, Josefa Iloilo, President of Fiji,
 _Context: Mexico City, closes, freshwater, water supply_
 
 ### [ Japan announces a US$150-billion economic stimulus package. ](/news/2009/04/10/japan-announces-a-us-150-billion-economic-stimulus-package.md)
-_Context: Japan, U.S. dollar, economic stimulus package_
+_Context: Japan, US$, economic stimulus package_
 
 ### [ Three people are shot at OAED Vocational College near Athens, Greece. ](/news/2009/04/10/three-people-are-shot-at-oaed-vocational-college-near-athens-greece.md)
 _Context: Athens, Greek, OAED Vocational College, shot_

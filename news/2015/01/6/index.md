@@ -13,7 +13,7 @@ BOSTON (Reuters) - A 220-year-old time capsule containing coins, documents and o
 Coach Inc. has agreed to buy upscale shoe brand Stuart Weitzman in a deal valued at up to $574 million, a rare acquisition for the purse retailer as it seeks to expand its reach.
 
 ### [The price of crude oil drops to $48 per barrel, the lowest since April of 2009. ](/news/2015/01/6/the-price-of-crude-oil-drops-to-48-per-barrel-the-lowest-since-april-of-2009.md)
-_Context: U.S. dollar, crude oil_
+_Context: US$, crude oil_
 
 ### [A military truck collides with a bus carrying members of the National Guard of Ukraine in Ukraine, killing 12 soldiers and injuring 20 others. ](/news/2015/01/6/a-military-truck-collides-with-a-bus-carrying-members-of-the-national-guard-of-ukraine-in-ukraine-killing-12-soldiers-and-injuring-20-other.md)
 At least 12 Ukrainian servicemen were killed and more than 20 injured in eastern Ukraine when their bus hit military trucks, police and local media say.

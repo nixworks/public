@@ -1,7 +1,7 @@
 ## [2008-11-19](/news/2008/11/19/index.md)
 
 ### [ The International Monetary Fund approves a US$2.1 billion rescue package for Iceland following its financial crisis. ](/news/2008/11/19/the-international-monetary-fund-approves-a-us-2-1-billion-rescue-package-for-iceland-following-its-financial-crisis.md)
-_Context: 2008 economic meltdown, Iceland, International Monetary Fund, U.S. dollar_
+_Context: 2008 economic meltdown, Iceland, International Monetary Fund, US$_
 
 ### [ The Supreme Court of California agrees to hear a challenge to Proposition 8, which banned same-sex marriage in the state ](/news/2008/11/19/the-supreme-court-of-california-agrees-to-hear-a-challenge-to-proposition-8-which-banned-same-sex-marriage-in-the-state.md)
 The California Supreme Court voted 6 to 1 on Wednesday to review legal challenges to Proposition 8, the voter initiative that restored a ban on same-sex marriage, but refused to permit gay weddings...

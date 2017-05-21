@@ -7,13 +7,13 @@ _Context: European Parliament, Telecommunications data retention_
 _Context: Cannon House Office Building, Federal Budget, Jim Wallis, Sojourners Magazine, U.S. Capitol building, Washington, D.C._
 
 ### [ U.S. President George W. Bush says that the decision to invade Iraq in 2003 was the result of faulty intelligence, and accepts responsibility for that decision. He maintains that his decision was still justified. ](/news/2005/12/14/u-s-president-george-w-bush-says-that-the-decision-to-invade-iraq-in-2003-was-the-result-of-faulty-intelligence-and-accepts-responsibili.md)
-_Context: George W. Bush, Iraq, President, intelligence_
+_Context: George W. Bush, Iraq, U.S. President, intelligence_
 
 ### [ Doctors in Pakistan marvel at the survival of Naqsha Bibi, rescued last Saturday, 63 days after she was buried in the 8 October 2005 Kashmir earthquake. ](/news/2005/12/14/doctors-in-pakistan-marvel-at-the-survival-of-naqsha-bibi-rescued-last-saturday-63-days-after-she-was-buried-in-the-8-october-2005-kashmi.md)
 _Context: 2005 Kashmir earthquake, 8 October, Naqsha Bibi, Pakistan_
 
 ### [ The President of Brazil, Luiz Inacio Lula da Silva announces that Brazil will clear its International Monetary Fund debt of $15.5bn two years early. ](/news/2005/12/14/the-president-of-brazil-luiz-inacio-lula-da-silva-announces-that-brazil-will-clear-its-international-monetary-fund-debt-of-15-5bn-two-yea.md)
-_Context: Brazilian President, International Monetary Fund, Luiz Incio Lula da Silva, U.S. dollar_
+_Context: International Monetary Fund, Luiz Incio Lula da Silva, President, US$_
 
 ### [ In India, 11 Hindus are sentenced to life imprisonment for their roles in the murder of Muslims in the 2002 Gujarat violence. ](/news/2005/12/14/in-india-11-hindus-are-sentenced-to-life-imprisonment-for-their-roles-in-the-murder-of-muslims-in-the-2002-gujarat-violence.md)
 _Context: Hindu, India, Muslim, life imprisonment, riots_
@@ -22,7 +22,7 @@ _Context: Hindu, India, Muslim, life imprisonment, riots_
 _Context: Gaza Strip, Israel, Israeli-Palestinian conflict, Palestinian, air strike_
 
 ### [ The President of Iran, Mahmoud Ahmadinejad, describes the Holocaust as a myth. He also said that Europe should house the Jews of the world, rather than the Palestinians. ](/news/2005/12/14/the-president-of-iran-mahmoud-ahmadinejad-describes-the-holocaust-as-a-myth-he-also-said-that-europe-should-house-the-jews-of-the-world.md)
-_Context: Europe, Holocaust, Holocaust denial, Mahmoud Ahmadinejad, Palestinian, President of Iran_
+_Context: Europe, Holocaust, Holocaust denial, Mahmoud Ahmadinejad, Palestinian, President_
 
 ### [ A reservoir bursts near Lesterville, Missouri at the Taum Sauk hydroelectric power plant on the Black River, causing significant damage. ](/news/2005/12/14/a-reservoir-bursts-near-lesterville-missouri-at-the-taum-sauk-hydroelectric-power-plant-on-the-black-river-causing-significant-damage.md)
 _Context: Black River, Lesterville, Missouri, Taum Sauk hydroelectric power plant_

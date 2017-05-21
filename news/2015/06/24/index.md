@@ -37,7 +37,7 @@ The thousands of tons of meat have an estimated value of more than $480 million 
 _Context: 2016 U.S. presidential election, Bobby Jindal, Governor of Louisiana, R_
 
 ### [The United States House of Representatives votes 247-180 to allow states to opt out of Barack Obama's carbon emissions reduction if the state governor believes compliance would increase electricity bills too much or have an adverse effect on reliability of supply. ](/news/2015/06/24/the-united-states-house-of-representatives-votes-247-180-to-allow-states-to-opt-out-of-barack-obama-s-carbon-emissions-reduction-if-the-stat.md)
-_Context: Obama, United States House of Representatives, carbon emissions_
+_Context: Barack Obama, United States House of Representatives, carbon emissions_
 
 ## [Previous Day...](/news/2015/06/23/index.md)
 

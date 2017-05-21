@@ -1,13 +1,13 @@
 ## [2007-07-16](/news/2007/07/16/index.md)
 
 ### [ Felisa Miceli, the Argentine Economy Minister, resigns over approximately $60,000 found in a bag in her office. ](/news/2007/07/16/felisa-miceli-the-argentine-economy-minister-resigns-over-approximately-60-000-found-in-a-bag-in-her-office.md)
-_Context: Argentina, Felisa Miceli, U.S. dollar_
+_Context: Argentina, Felisa Miceli, US$_
 
 ### [ The President of the United States George W. Bush and the President of Poland Lech Kaczynski agree to proceed with building a missile defense system in Europe despite Russian concerns. ](/news/2007/07/16/the-president-of-the-united-states-george-w-bush-and-the-president-of-poland-lech-kaczyaski-agree-to-proceed-with-building-a-missile-defe.md)
 _Context: Europe, George W. Bush, Lech Kaczynski, President of Poland, Russia, missile defense shield_
 
 ### [ The President of the United States announces a Middle East peace conference in the fall involving Israel, Palestinians and neighboring countries. ](/news/2007/07/16/the-president-of-the-united-states-announces-a-middle-east-peace-conference-in-the-fall-involving-israel-palestinians-and-neighboring-coun.md)
-_Context: Israel, Middle East, Palestinian, President_
+_Context: Israel, Middle East, Palestinian, U.S. President_
 
 ### [ Britain expels four Russian diplomats and suspends visa negotiations over Russia's failure to extradite Andrei Lugovoy in connection with the murder of Alexander Litvinenko. ](/news/2007/07/16/britain-expels-four-russian-diplomats-and-suspends-visa-negotiations-over-russia-s-failure-to-extradite-andrei-lugovoy-in-connection-with-t.md)
 _Context: Alexander Litvinenko, Andrei Lugovoy, Russia, United Kingdom, diplomat, extradite, visa-free travel_

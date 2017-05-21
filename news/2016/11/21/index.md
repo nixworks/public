@@ -28,7 +28,7 @@ _Context: Evo Morales, President of Bolivia_
 Tree slices through school bus carrying 35 passengers, grades K-5, after accident in Chattanooga, Tenn.
 
 ### [Russia-United States relations, APEC Peru 2016 President Barack Obama and Vladimir Putin meet in Peru on the sidelines of the Asia-Pacific Economic Cooperation conference to discuss involvement in the Syrian Civil War. ](/news/2016/11/21/russiaaunited-states-relations-apec-peru-2016-ppresident-barack-obama-and-vladimir-putin-meet-in-peru-on-the-sidelines-of-the-asia-pacifi.md)
-_Context: APEC Peru 2016, Asia-Pacific Economic Cooperation, Obama, Peru, Russia-United States relations, Syrian Civil War, Vladimir Putin_
+_Context: APEC Peru 2016, Asia-Pacific Economic Cooperation, Barack Obama, Peru, Russia-United States relations, Syrian Civil War, Vladimir Putin_
 
 ### [Russia deploys its S-400 missile system in Kaliningrad, an exclave between Poland and Lithuania, in response to "NATO expansion" near its borders. The United States criticizes the move as "destabilizing" to Europe. Russia announced the planned deployment over a decade ago. ](/news/2016/11/21/russia-deploys-its-s-400-missile-system-in-kaliningrad-an-exclave-between-poland-and-lithuania-in-response-to-nato-expansion-near-its-bo.md)
 _Context: Kaliningrad, Lithuania, NATO, NATO-Russia relations, Poland, Russia, S-400 missile system, U.S._
@@ -37,7 +37,7 @@ _Context: Kaliningrad, Lithuania, NATO, NATO-Russia relations, Poland, Russia, S
 _Context: Philippine criminal law, Rodrigo Duterte_
 
 ### [ Testimony begins in a corruption case against former President of Brazil Luiz Inacio Lula da Silva. ](/news/2016/11/21/testimony-begins-in-a-corruption-case-against-former-president-of-brazil-luiz-ina-cio-lula-da-silva.md)
-_Context: Brazilian President, Corruption investigation of Luiz Inacio Lula da Silva, Luiz Inacio Lula da Silva_
+_Context: Corruption investigation of Luiz Inacio Lula da Silva, Lula, President_
 
 ### [President-elect Donald Trump announces his plans for his first day in office, including quitting the Trans-Pacific Partnership (TPP) and canceling restrictions on United States energy production. ](/news/2016/11/21/president-elect-donald-trump-announces-his-plans-for-his-first-day-in-office-including-quitting-the-trans-pacific-partnership-tpp-and-can.md)
 Donald Trump says the US will quit the Trans-Pacific Partnership trade deal when he takes office.

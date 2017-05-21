@@ -10,7 +10,7 @@ Get box score updates on the Baltimore Ravens vs. Pittsburgh Steelers football g
 _Context: Born Again in Christ Church, Brazil, Sao Paulo_
 
 ### [ The Republic of China (Taiwan) distributes shopping vouchers to all its 22.7 million citizens as part of a US$2.53-billion plan to stimulate the economy. ](/news/2009/01/18/the-republic-of-china-taiwan-distributes-shopping-vouchers-to-all-its-22-7-million-citizens-as-part-of-a-us-2-53-billion-plan-to-stimulat.md)
-_Context: Taiwan, Taiwan, U.S. dollar, economy, shopping, voucher_
+_Context: Taiwan, Taiwan, US$, economy, shopping, voucher_
 
 ### [ A French military helicopter crashes off the coast of Gabon, killing at least seven people and rendering one other missing. ](/news/2009/01/18/a-french-military-helicopter-crashes-off-the-coast-of-gabon-killing-at-least-seven-people-and-rendering-one-other-missing.md)
 _Context: France, Gabon, crashes, helicopter, military_

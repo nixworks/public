@@ -1,7 +1,7 @@
 ## [2005-12-15](/news/2005/12/15/index.md)
 
 ### [ Former United States presidential candidate Al Sharpton agrees to pay $100,000 to the Federal Election Commission in a settlement over alleged corrupt practices during his 2004 electoral bid. ](/news/2005/12/15/former-united-states-presidential-candidate-al-sharpton-agrees-to-pay-100-000-to-the-federal-election-commission-in-a-settlement-over-alle.md)
-_Context: Al Sharpton, Federal Election Commission, President_
+_Context: Al Sharpton, Federal Election Commission, U.S. President_
 
 ### [ A colleague of South Korean biomedical researcher Hwang Woo-Suk says that Hwang admitted that he faked nine of eleven stem cell colonies used in what had been hailed as a medical breakthrough in the journal ''Science''. ](/news/2005/12/15/a-colleague-of-south-korean-biomedical-researcher-hwang-woo-suk-says-that-hwang-admitted-that-he-faked-nine-of-eleven-stem-cell-colonies-us.md)
 _Context: Hwang Woo-Suk, Science, South Korea, stem cell_

@@ -7,7 +7,7 @@ _Context: ActionAid, ActionAid Bangladesh, Bangladesh, Dhaka, Nasreen Pervin Huq
 _Context: Basdeo Panday, Prime Minister, Trinidad and Tobago_
 
 ### [ Iranian President Mahmoud Ahmadinejad unexpectedly lifts a 27-year ban on female attendance of public sporting events in Iran. They still need permission of the male head of the household to attend and they will sit in a special female-only section. ](/news/2006/04/24/iranian-president-mahmoud-ahmadinejad-unexpectedly-lifts-a-27-year-ban-on-female-attendance-of-public-sporting-events-in-iran-they-still-n.md)
-_Context: Mahmoud Ahmadinejad, President of Iran, sporting events in Iran_
+_Context: Mahmoud Ahmadinejad, President, sporting events in Iran_
 
 ### [ 2006 Democracy movement in Nepal: Hundreds of Maoist rebels stormed the town of Chautara, attacking government offices and a prison. ](/news/2006/04/24/2006-democracy-movement-in-nepal-hundreds-of-maoist-rebels-stormed-the-town-of-chautara-attacking-government-offices-and-a-prison.md)
 _Context: Maoist, reinstated last week after a 4-year hiatus_

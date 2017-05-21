@@ -13,7 +13,7 @@ _Context: 2008 South Africa riots, President of South Africa, South African Nati
 _Context: Khyber Pakhtunkhwa, Pakistan, Sharia, Swat, Pakistan, Taliban, suicide bombing_
 
 ### [ Crude oil prices rise above $130 a barrel for the first time. ](/news/2008/05/21/crude-oil-prices-rise-above-130-a-barrel-for-the-first-time.md)
-_Context: U.S. dollar, crude oil_
+_Context: US$, crude oil_
 
 ### [  Israel and Syria reveal indirect peace negotiations in Turkey in hopes of direct talks leading to a border agreement. ](/news/2008/05/21/israel-and-syria-reveal-indirect-peace-negotiations-in-turkey-in-hopes-of-direct-talks-leading-to-a-border-agreement.md)
 _Context: Golan Heights, Israel, Middle East, Syria, Turkish_

@@ -22,7 +22,7 @@ Business Secretary Vince Cable will stay in his job despite saying he had &quot;
 _Context: Iran_
 
 ### [Top Fatah members aligned with Palestinian Authority President Mahmoud Abbas asked Israel to attack Hamas ahead of Hamas' violent takeover of the Gaza Strip in 2007, according to a US diplomatic cable published by Wikileaks. ](/news/2010/12/21/top-fatah-members-aligned-with-palestinian-authority-president-mahmoud-abbas-asked-israel-to-attack-hamas-ahead-of-hamasa-violent-takeover.md)
-_Context: Fatah, Hamas, Israel, Mahmoud Abbas, Palestinian Authority, Wikileaks, seized control of the territory_
+_Context: Fatah, Hamas, Israel, Mahmoud Abbas, Palestinian Authority, WikiLeaks, seized control of the territory_
 
 ### [The Turkish government warns US President Barack Obama that a congressional vote on a resolution recognizing the Armenian genocide during World War I will severely damage Turkey-United States relations. ](/news/2010/12/21/the-turkish-government-warns-us-president-barack-obama-that-a-congressional-vote-on-a-resolution-recognizing-the-armenian-genocide-during-wo.md)
 Istanbul, Dec 21 (DPA) The Turkish government has warned US President Barack Obama that a congressional vote on a resolution recognising the massacre of...

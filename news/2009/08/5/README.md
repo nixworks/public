@@ -4,7 +4,7 @@
 _Context: Cairns, Pacific Islands Forum_
 
 ### [ Mahmoud Ahmadinejad is officially sworn in as President of Iran for a second term. ](/news/2009/08/5/mahmoud-ahmadinejad-is-officially-sworn-in-as-president-of-iran-for-a-second-term.md)
-_Context: Iran, Mahmoud Ahmadinejad, President of Iran, re-election_
+_Context: Iran, Mahmoud Ahmadinejad, President, re-election_
 
 ### [ The funeral of Corazon Aquino, the first female President of an Asian country and the Philippines, takes place in the Philippines. ](/news/2009/08/5/the-funeral-of-corazon-aquino-the-first-female-president-of-an-asian-country-and-the-philippines-takes-place-in-the-philippines.md)
 _Context: Asia, Corazon Aquino, Philippine President, Philippines, first female_
@@ -22,7 +22,7 @@ _Context: Baghdad, Bremer wall, Government of Iraq, Iraq_
 _Context: Khartoum, Nile, Sudan_
 
 ### [ Two United States journalists, Laura Ling and Euna Lee, who had been detained by North Korea, return home with former U.S. President Bill Clinton. ](/news/2009/08/5/two-united-states-journalists-laura-ling-and-euna-lee-who-had-been-detained-by-north-korea-return-home-with-former-u-s-president-bill-c.md)
-_Context: Bill Clinton, Euna Lee, Laura Ling, North Korea, President, U.S., detained_
+_Context: Bill Clinton, Euna Lee, Laura Ling, North Korea, U.S., U.S. President, detained_
 
 ### [ Former Madagascar leader Marc Ravalomanana is hopeful that a relaunch of peace talks between the country's rival factions will bring progress toward a return of political stability. ](/news/2009/08/5/former-madagascar-leader-marc-ravalomanana-is-hopeful-that-a-relaunch-of-peace-talks-between-the-country-s-rival-factions-will-bring-progre.md)
 _Context: Madagascar, Marc Ravalomanana_

@@ -13,7 +13,7 @@ _Context: Henri IV of France, mummified_
 _Context: Cuba, Wikipedia_
 
 ### [Facebook founder Mark Zuckerberg is TIME's 2010 Person of the Year. WikiLeaks founder Julian Assange wins top place in the reader's poll. ](/news/2010/12/15/facebook-founder-mark-zuckerberg-is-time-s-2010-person-of-the-year-wikileaks-founder-julian-assange-wins-top-place-in-the-reader-s-poll.md)
-_Context: Facebook, Julian Assange, Mark Zuckerberg, TIME, Wikileaks_
+_Context: Facebook, Julian Assange, Mark Zuckerberg, TIME, WikiLeaks_
 
 ### [Lehman Brothers bondholders, including hedge fund manager Paulson & Co., file a plan for the reorganization of that defunct broker-dealer, presenting the New York bankruptcy court with an alternative to the plan Lehman itself filed earlier in the year. ](/news/2010/12/15/lehman-brothers-bondholders-including-hedge-fund-manager-paulson-co-file-a-plan-for-the-reorganization-of-that-defunct-broker-dealer-p.md)
 _Context: Lehman Brothers, New York City, Paulson & Co., bankruptcy, broker-dealer_

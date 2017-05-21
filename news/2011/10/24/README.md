@@ -16,7 +16,7 @@ The death toll from a powerful earthquake in south-eastern Turkey rises above 20
 Parts of south-west England, Northern Ireland and Wales begin to clear up after flooding on Monday, while north-east Scotland is warned to prepare for heavy rain.
 
 ### [Julian Assange's whistleblowing website Wikileaks announces that it will suspend the publication of classified files and will instead focus on fundraising, after a "financial blockade" by numerous American companies reportedly destroys 95% of the site's revenue. ](/news/2011/10/24/julian-assange-s-whistleblowing-website-wikileaks-announces-that-it-will-suspend-the-publication-of-classified-files-and-will-instead-focus.md)
-_Context: Julian Assange, Wikileaks, whistleblower_
+_Context: Julian Assange, WikiLeaks, whistleblower_
 
 ### [Following Tunisia's first election since the ousting of President Zine El Abidine Ben Ali in January, the moderate Islamist Renaissance Party declares victory, with their centre-left rivals, the Progressive Democratic Party, conceding defeat. The official results of the election are due to be released next week. ](/news/2011/10/24/following-tunisia-s-first-election-since-the-ousting-of-president-zine-el-abidine-ben-ali-in-january-the-moderate-islamist-renaissance-part.md)
 _Context: Islamist, Jasmine Revolution of 2011, Progressive Democratic Party, Renaissance Party, Tunisian Constituent Assembly, Zine El Abidine Ben Ali_

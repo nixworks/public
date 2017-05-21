@@ -34,7 +34,7 @@ _Context: North Korea, drought_
 Myanmar opposition leader arrives in Thailand, leaving country where she was long imprisoned for first time since 1988.
 
 ### [''Assange v The Swedish Judicial Authority'':WikiLeaks editor Julian Assange learns he will find out tomorrow if he is to be deported to Sweden from the UK. ](/news/2012/05/29/assange-v-the-swedish-judicial-authority-pwikileaks-editor-julian-assange-learns-he-will-find-out-tomorrow-if-he-is-to-be-deported-to-sw.md)
-_Context: Assange v The Swedish Judicial Authority, Julian Assange, Wikileaks_
+_Context: Assange v The Swedish Judicial Authority, Julian Assange, WikiLeaks_
 
 ### [The Senate of the Philippines finds the Chief Justice of the Supreme Court Renato Corona guilty of failure to disclose to the public his assets following a four-month-long impeachment trial. ](/news/2012/05/29/the-senate-of-the-philippines-finds-the-chief-justice-of-the-supreme-court-renato-corona-guilty-of-failure-to-disclose-to-the-public-his-ass.md)
 Chief justice Renato Corona effectively removed from office after five-month trial for failing to declare bank accounts.
@@ -55,7 +55,7 @@ PNG politicians will hold a special sitting of parliament tomorrow to elect a ne
 _Context: 1989 Tiananmen Square protests, Beijing, Chen Xitong, Hong Kong_
 
 ### [U.S. president Barack Obama gives out the Presidential Medal of Freedom to 13 recipients, including Israeli president Shimon Peres, astronaut John Glenn and musician Bob Dylan, at the White House. ](/news/2012/05/29/u-s-president-barack-obama-gives-out-the-presidential-medal-of-freedom-to-13-recipients-including-israeli-president-shimon-peres-astronau.md)
-_Context: Bob Dylan, Israel, John Glenn, Obama, Presidential Medal of Freedom with Distinction, Shimon Peres, White House_
+_Context: Barack Obama, Bob Dylan, Israel, John Glenn, Presidential Medal of Freedom with Distinction, Shimon Peres, White House_
 
 ## [Previous Day...](/news/2012/05/28/index.md)
 

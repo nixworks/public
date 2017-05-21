@@ -37,7 +37,7 @@ _Context: Alta Verapaz, Guatemala, Guatemalan Military, Los Zetas, Mexico, state
 More than 100 people are charged with child sex abuse offences in Austria after police seize material from computers across the country.
 
 ### [Lawyers for Wikileaks's founder Julian Assange express anger that incriminating police files regarding Assange's alleged sexual assault of two Swedish women were published in The Guardian newspaper, which has used him as its source for hundreds of leaked US embassy cables. ](/news/2010/12/19/lawyers-for-wikileaksas-founder-julian-assange-express-anger-that-incriminating-police-files-regarding-assangeas-alleged-sexual-assault.md)
-_Context: 250,000 documents, Julian Assange, The Guardian, Wikileaks, sexual assault_
+_Context: 250,000 documents, Julian Assange, The Guardian, WikiLeaks, sexual assault_
 
 ### [Venezuela once again expresses its disapproval of Larry Palmer, the man who may become the next US ambassador to the country, and says it will arrest and deport him upon arrival due to a months long disagreement following Palmer's comments on the Venezuelan military. ](/news/2010/12/19/venezuela-once-again-expresses-its-disapproval-of-larry-palmer-the-man-who-may-become-the-next-us-ambassador-to-the-country-and-says-it-wi.md)
 Venezuela reiterates its opposition to the man likely to become the next US ambassador and vows to send him home.

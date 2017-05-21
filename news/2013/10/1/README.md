@@ -4,7 +4,7 @@
 _Context: Organisation for the Prohibition of Chemical Weapons, Syria, Syrian Civil War_
 
 ### [United States federal government shutdown of 2013:U.S. President Barack Obama, the White House Office of Management and Budget, issues a partial shutdown of government agencies after the House and Senate fail to come to an agreement on a spending bill to keep government operations running. ](/news/2013/10/1/united-states-federal-government-shutdown-of-2013-pu-s-president-barack-obama-the-white-house-office-of-management-and-budget-issues-a-pa.md)
-_Context:  October 2013 federal government shutdown, Obama, Office of Management and Budget, President, U.S., U.S. Congressional, United States Senate, White House_
+_Context:  October 2013 federal government shutdown, Barack Obama, Office of Management and Budget, U.S., U.S. Congressional, U.S. President, United States Senate, White House_
 
 ### [A Buddhist mob torches more than 70 Muslim homes and stabs a 94-year-old woman to death in Rakhine State, Myanmar. ](/news/2013/10/1/a-buddhist-mob-torches-more-than-70-muslim-homes-and-stabs-a-94-year-old-woman-to-death-in-rakhine-state-myanmar.md)
 _Context: Buddhist, Muslim, Myanmar, Rakhine State_

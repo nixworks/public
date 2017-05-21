@@ -13,7 +13,7 @@ The dollar fell broadly on Wednesday after U.S. President Donald Trump said the 
 _Context: Hudson River, New York Court of Appeals, Sheila Abdus-Salaam_
 
 ### [Former Iranian President Mahmoud Ahmadinejad registers to run in next month's election for a non-consecutive third term, according to state media. ](/news/2017/04/12/former-iranian-president-mahmoud-ahmadinejad-registers-to-run-in-next-month-s-election-for-a-non-consecutive-third-term-according-to-state.md)
-_Context: Iranian presidential election, 2017, Mahmoud Ahmadinejad, President of Iran_
+_Context: Iranian presidential election, 2017, Mahmoud Ahmadinejad, President_
 
 ### [Julius Malema addresses a large, multi-racial crowd in Pretoria before their march on the Union buildings. ](/news/2017/04/12/julius-malema-addresses-a-large-multi-racial-crowd-in-pretoria-before-their-march-on-the-union-buildings.md)
 PRETORIA, April 12 (ANA) – Economic Freedom Fighters (EFF) leader Julius Malema on Wednesday urged activists from several opposition parties to observe strict discipline in the anti-Zuma march to Union Buildings in Pretoria. “You follow the road that has been given to us. You follow leaders. If you go and use other routes, and they &hellip;

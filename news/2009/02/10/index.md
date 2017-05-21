@@ -13,7 +13,7 @@ _Context: General Motors, automakers, layoff, salaried, struggling, workforce_
 _Context: Federal Minister of Economics and Technology, Karl-Theodor zu Guttenberg_
 
 ### [ Russian financial crisis of 2008-2009: Russia will request postponement of repayment of US$400 billion in private-sector debt to foreign banks. ](/news/2009/02/10/russian-financial-crisis-of-2008a2009-p-russia-will-request-postponement-of-repayment-of-us-400-billion-in-private-sector-debt-to-foreign.md)
-_Context: Russian financial crisis of 2008-2009, U.S. dollar, indebt, private-sector_
+_Context: Russian financial crisis of 2008-2009, US$, indebt, private-sector_
 
 ### [ Swiss financial services company UBS AG lost 19.7 billion francs for fiscal year 2008 and will cut 15,000 jobs throughout 2009. ](/news/2009/02/10/swiss-financial-services-company-ubs-ag-lost-19-7-billion-francs-for-fiscal-year-2008-and-will-cut-15-000-jobs-throughout-2009.md)
 _Context: UBS AG, financial services, fiscal year, francs, layoff_

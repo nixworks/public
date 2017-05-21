@@ -13,7 +13,7 @@ _Context: DVD, United Kingdom, Woolworths Group PLC_
 _Context: European Union, euro_
 
 ### [ U.S. President-elect Barack Obama announces that he will create a new "economic recovery board," headed by Paul Volcker, designed to provide "fresh perspective" on the current economic issues ](/news/2008/11/26/u-s-president-elect-barack-obama-announces-that-he-will-create-a-new-economic-recovery-board-headed-by-paul-volcker-designed-to-provid.md)
-_Context: Obama, Paul Volcker, President-elect, U.S._
+_Context: Barack Obama, Paul Volcker, President-elect, U.S._
 
 ### [ At least 80 people are dead and over 250 wounded in coordinated terrorist strikes across Mumbai, India. ](/news/2008/11/26/at-least-80-people-are-dead-and-over-250-wounded-in-coordinated-terrorist-strikes-across-mumbai-india.md)
 At least six foreigners have been killed and the death toll has gone up to 101 in terror attacks by gunmen in Mumbai, senior police officer said.

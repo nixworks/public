@@ -16,7 +16,7 @@ The wife of Northern Ireland First Minister Peter Robinson tried to kill herself
 _Context: German, People's Republic of China, top export market_
 
 ### [China's tourism revenue hits USD 185 billion in 2009. ](/news/2010/01/6/china-s-tourism-revenue-hits-usd-185-billion-in-2009.md)
-_Context: U.S. dollar, tourism_
+_Context: US$, tourism_
 
 ### [Extreme weather across Europe leads to dozens of deaths, including at least 122 in Poland and at least 7 as a result of an avalanche in Switzerland. ](/news/2010/01/6/extreme-weather-across-europe-leads-to-dozens-of-deaths-including-at-least-122-in-poland-and-at-least-7-as-a-result-of-an-avalanche-in-swit.md)
 _Context: Europe, Poland, Swiss_

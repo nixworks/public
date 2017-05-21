@@ -49,7 +49,7 @@ Yemeni Prime Minister Khaled Bahah rejected a cabinet reshuffle ordered on Tuesd
 _Context: Aung San Suu Kyi, Myanmar, Myanmar general election, 2015, Myanmar's president's office, National League for Democracy, Thein Sein_
 
 ### [Brazil's lower house of Congress opens impeachment proceedings against President Dilma Rousseff over a corruption scandal involving the state-owned oil giant, Petrobras. ](/news/2015/12/2/brazil-s-lower-house-of-congress-opens-impeachment-proceedings-against-president-dilma-rousseff-over-a-corruption-scandal-involving-the-stat.md)
-_Context: 2015 protests in Brazil, Brazil, Brazil's Chamber of Deputies, Brazilian President, Dilma Rousseff, Petrobras_
+_Context: 2015 protests in Brazil, Brazil, Brazil's Chamber of Deputies, Dilma, Petrobras, President_
 
 ## [Previous Day...](/news/2015/12/1/index.md)
 

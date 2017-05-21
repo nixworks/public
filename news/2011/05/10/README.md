@@ -58,7 +58,7 @@ _Context: People's Republic of China, Sichuan, deadly earthquake_
 _Context: Baton Rouge, Mississippi River, Simmesport, Louisiana, United States Army Corps of Engineers, flooding, refinery_
 
 ### [East Timor rejected Chinese plans to build a radar on its territory in 2007, due to fears it would be used for intelligence purposes, according to Wikileaks. ](/news/2011/05/10/east-timor-rejected-chinese-plans-to-build-a-radar-on-its-territory-in-2007-due-to-fears-it-would-be-used-for-intelligence-purposes-accord.md)
-_Context: East Timor, People's Republic of China, Wikileaks_
+_Context: East Timor, People's Republic of China, WikiLeaks_
 
 ### [Russian President Dmitry Medvedev calls for the chemical castration of pedophiles. ](/news/2011/05/10/russian-president-dmitry-medvedev-calls-for-the-chemical-castration-of-pedophiles.md)
 Russian President Dmitry Medvedev says voluntary &quot;chemical castration&quot; could be a possible punishment for child sex offenders.

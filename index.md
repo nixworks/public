@@ -1,6 +1,6 @@
 ## [News](/news/2017/05/20/index.md)
 
-### [The death toll from an attack on a Libyan National Army-controlled airbase in southern Libya, reportedly rises to 140 people. ](/news/2017/05/20/the-death-toll-from-an-attack-on-a-libyan-national-army-controlled-airbase-in-southern-libya-reportedly-rises-to-140-people.md)
+### [The death toll from an attack on a Libyan National Army-controlled airbase in southern Libya reportedly rises to 140 people. ](/news/2017/05/20/the-death-toll-from-an-attack-on-a-libyan-national-army-controlled-airbase-in-southern-libya-reportedly-rises-to-140-people.md)
 Most of those reportedly killed are linked to a faction allied to self-styled general Khalifa Haftar.
 
 ### [U.S. President Donald Trump arrives in Saudi Arabia, his first of three scheduled foreign trips. Trump signs an arms deal  with  Saudi Arabia King Salman worth more than US$100 billion. ](/news/2017/05/20/u-s-president-donald-trump-arrives-in-saudi-arabia-his-first-of-three-scheduled-foreign-trips-trump-signs-an-arms-deal-with-saudi-arabi.md)

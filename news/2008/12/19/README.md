@@ -1,10 +1,10 @@
 ## [2008-12-19](/news/2008/12/19/index.md)
 
 ### [ Administration of United States President-elect Barack Obama:  Republican Party Representative Ray LaHood of Illinois is nominated as the next Secretary of Transportation. ](/news/2008/12/19/administration-of-united-states-president-elect-barack-obama-p-republican-party-representative-ray-lahood-of-illinois-is-nominated-as-the.md)
-_Context: Illinois, Obama, President-elect, R, Ray LaHood, Secretary of Transportation, U.S., United States House of Representatives, nomination_
+_Context: Barack Obama, Illinois, President-elect, R, Ray LaHood, Secretary of Transportation, U.S., United States House of Representatives, nomination_
 
 ### [ U.S. President George W. Bush's administration files a trade case to the World Trade Organization against the People's Republic of China over the alleged use of export subsidies to promote Chinese-made goods. ](/news/2008/12/19/u-s-president-george-w-bush-s-administration-files-a-trade-case-to-the-world-trade-organization-against-the-people-s-republic-of-china-ov.md)
-_Context:  subsidies, Bush Administration, George W. Bush, People's Republic of China, President, World Trade Organization, export_
+_Context:  subsidies, Bush Administration, George W. Bush, People's Republic of China, U.S. President, World Trade Organization, export_
 
 ### [ Rangzieb Ahmed, the highest-ranked al-Qaeda operative in the United Kingdom, becomes the first person convicted of the charge of directing terrorism. ](/news/2008/12/19/rangzieb-ahmed-the-highest-ranked-al-qaeda-operative-in-the-united-kingdom-becomes-the-first-person-convicted-of-the-charge-of-directing.md)
 _Context: Rangzieb Ahmed, United Kingdom, al-Qaeda, terrorism_

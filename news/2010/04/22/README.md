@@ -31,7 +31,7 @@ _Context: Brazil, Minas Gerais, Toyota Corolla_
 _Context: Sarath Fonseka, Sri Lanka_
 
 ### [President of Iran Mahmoud Ahmadinejad arrives in Zimbabwe; Prime Minister Morgan Tsvangirai's Movement for Democratic Change - Tsvangirai objects, labelling Mr Ahmadinejad a "war-monger, a trampler of human rights [and] an executioner". ](/news/2010/04/22/president-of-iran-mahmoud-ahmadinejad-arrives-in-zimbabwe-prime-minister-morgan-tsvangirai-s-movement-for-democratic-change-a-tsvangirai.md)
-_Context: Mahmoud Ahmadinejad, Morgan Tsvangirai, Movement for Democratic Change, President of Iran, Prime Minister, Zimbabwe_
+_Context: Mahmoud Ahmadinejad, Morgan Tsvangirai, Movement for Democratic Change, President, Prime Minister, Zimbabwe_
 
 ### [A Utrecht court acquits the Dutch arm of the Arab European League of hate crime charges relating to the publication of a cartoon questioning the Holocaust.  The publication was intended to highlight double standards after MP Geert Wilders was not put on trial for distributing cartoons of Muhammad. ](/news/2010/04/22/a-utrecht-court-acquits-the-dutch-arm-of-the-arab-european-league-of-hate-crime-charges-relating-to-the-publication-of-a-cartoon-questioning.md)
 _Context: Arab European League, Geert Wilders, Holocaust, Muhammad, Netherlands, Utrecht_
@@ -52,7 +52,7 @@ _Context: Greek, euro_
 Officials say alert follows intercepted telephonic messages of fighter groups.
 
 ### [President of the United States Barack Obama calls on Wall Street to join him in his efforts to reform the financial sector in a visit to Manhattan. ](/news/2010/04/22/president-of-the-united-states-barack-obama-calls-on-wall-street-to-join-him-in-his-efforts-to-reform-the-financial-sector-in-a-visit-to-man.md)
-_Context: Manhattan, Obama, President, Wall Street_
+_Context: Barack Obama, Manhattan, U.S. President, Wall Street_
 
 ### [The Melbourne Storm are stripped of their 2007 and 2009 National Rugby League titles after being found to have cheated the salary cap. ](/news/2010/04/22/the-melbourne-storm-are-stripped-of-their-2007-and-2009-national-rugby-league-titles-after-being-found-to-have-cheated-the-salary-cap.md)
 _Context: 2007, 2009, Melbourne Storm, National Rugby League, salary cap_

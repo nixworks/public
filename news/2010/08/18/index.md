@@ -7,7 +7,7 @@ Police in Mexico find the body of the kidnapped mayor of the northern city of Sa
 More than 2,000 civilian and military personnel from 18 countries began a 12-day exercise in Panama City Tuesday to train in a joint, multinational effort to defend the Panama Canal.
 
 ### [Julian Assange of Wikileaks says the United States has approached the website to try to negotiate the release of a further 15,000 Afghanistan war documents which the military desires to keep secret; the United States denies this. ](/news/2010/08/18/julian-assange-of-wikileaks-says-the-united-states-has-approached-the-website-to-try-to-negotiate-the-release-of-a-further-15-000-afghanista.md)
-_Context: Julian Assange, U.S., Wikileaks_
+_Context: Julian Assange, U.S., WikiLeaks_
 
 ### [The United States ends combat operations in Iraq as its last combat brigade departs for Kuwait. ](/news/2010/08/18/the-united-states-ends-combat-operations-in-iraq-as-its-last-combat-brigade-departs-for-kuwait.md)
 The last full U.S. combat brigade crossed the border into Kuwait on Thursday morning, bringing to a close the active combat phase of the 7½-year war.
@@ -16,7 +16,7 @@ The last full U.S. combat brigade crossed the border into Kuwait on Thursday mor
 Rebels kill three Indian peacekeepers in a night-time ambush at a base in the eastern region of the Democratic Republic of Congo.
 
 ### [The United States deploys troops along its border with Mexico by the order of President Barack Obama. ](/news/2010/08/18/the-united-states-deploys-troops-along-its-border-with-mexico-by-the-order-of-president-barack-obama.md)
-_Context: Mexico, Obama, President, U.S._
+_Context: Barack Obama, Mexico, U.S., U.S. President_
 
 ### [The American Ballet Theatre is given permission by its country's President, Barack Obama, to perform in Cuba; it would be the first time in 50 years. American tourists are still banned by their government from travelling to Cuba. ](/news/2010/08/18/the-american-ballet-theatre-is-given-permission-by-its-country-s-president-barack-obama-to-perform-in-cuba-it-would-be-the-first-time-in.md)
 The American Ballet Theatre company is to perform in Cuba later this year for the first time in 50 years.

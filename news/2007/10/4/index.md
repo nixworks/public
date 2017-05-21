@@ -7,7 +7,7 @@ _Context: New Mexico, Pete Domenici, R, U.S., United States Senate_
 _Context: Bank of Canada, Canadian Prime Minister, David Dodge, Mark Carney, Stephen Harper_
 
 ### [ The recording industry wins a key victory with a court in the U.S. state of Minnesota finding that a woman was liable for damages of $220,000 for sharing copyrighted music online through Kazaa. ](/news/2007/10/4/the-recording-industry-wins-a-key-victory-with-a-court-in-the-u-s-state-of-minnesota-finding-that-a-woman-was-liable-for-damages-of-220-0.md)
-_Context: Kazaa, Minnesota, U.S. dollar, copyright, damages, recording industry_
+_Context: Kazaa, Minnesota, US$, copyright, damages, recording industry_
 
 ### [ Family members of deceased ''de facto'' president of Chile Augusto Pinochet are arrested in Santiago on charges of embezzlement. ](/news/2007/10/4/family-members-of-deceased-de-facto-president-of-chile-augusto-pinochet-are-arrested-in-santiago-on-charges-of-embezzlement.md)
 _Context: Augusto Pinochet, Chile, Santiago, embezzlement_

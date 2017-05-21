@@ -10,7 +10,7 @@ _Context: Canada, Chengara Veetil Devan Nair, President-elect_
 _Context: Malawi, cornmeal, serious food shortages_
 
 ### [ Microsoft loses a South Korean antitrust case, and is fined Wn32 billion (USD 32m). ](/news/2005/12/7/microsoft-loses-a-south-korean-antitrust-case-and-is-fined-a-c-n32-billion-usd-32m.md)
-_Context: Microsoft, South Korea, U.S. dollar, antitrust, won_
+_Context: Microsoft, South Korea, US$, antitrust, won_
 
 ### [ A U.S. Federal Air Marshal fatally shoots Rigoberto Alpizar on American Airlines Flight 924 in a jetway at Miami International Airport in Florida. Alpizar, a U.S. citizen who had disembarked from an American Airlines flight from Medellin, Colombia, claimed to have a bomb. No explosive was found. ](/news/2005/12/7/a-u-s-federal-air-marshal-fatally-shoots-rigoberto-alpizar-on-american-airlines-flight-924-in-a-jetway-at-miami-international-airport-in-f.md)
 _Context: American Airlines, American Airlines Flight 924, Colombia, Federal Air Marshal, Florida, Medellin, Miami International Airport, Rigoberto Alpizar, U.S., jetway_

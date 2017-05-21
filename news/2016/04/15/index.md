@@ -46,7 +46,7 @@ Donald Trump is a rookie candidate — a potential superstar of vast promise, bu
 _Context: Miriam Defensor Santiago, Philippine presidential election, 2016_
 
 ### [The Supreme Federal Court of Brazil rejects a bid by the Attorney General to suspend a vote in the parliament to begin impeachment procedures against the President Dilma Rousseff. ](/news/2016/04/15/the-supreme-federal-court-of-brazil-rejects-a-bid-by-the-attorney-general-to-suspend-a-vote-in-the-parliament-to-begin-impeachment-procedure.md)
-_Context: Attorney General, Brazil, Brazilian President, Dilma Rousseff, Impeachment process against Dilma Rousseff, Supreme Court Justice_
+_Context: Attorney General, Brazil, Dilma, Impeachment process against Dilma Rousseff, President, Supreme Federal Court_
 
 ### [Aftermath of the Belgian Minister of Transportation Jacqueline Galant resigns in the wake of the recent bombings that shook Brussels last March. Galant resigned amid accusations her ministry ignored EU criticism of security at Belgium's airports. ](/news/2016/04/15/aftermath-of-the-belgian-minister-of-transportation-jacqueline-galant-resigns-in-the-wake-of-the-recent-bombings-that-shook-brussels-last-ma.md)
 _Context: 2016 Brussels bombings, Belgium, Brussels, European Union, Jacqueline Galant_

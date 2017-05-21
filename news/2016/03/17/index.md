@@ -37,7 +37,7 @@ Former Brazilian President Luiz Inacio Lula da Silva was sworn in as chief of st
 The hacker group Anonymous made headlines the other day by saying it was declaring &quot;total war&quot; on GOP front-runner Donald Trump. On Thursday, it started to make good on its promise ... sort of.
 
 ### [Bernie Sanders concedes the Missouri primary to Hillary Clinton, who led by 1,531 votes, 0.2 percent of those counted. Sanders says he will not ask for a recount, an option he had because the result is under the state's  requirement, 0.5 percent -- one-half of one percent. The Republican contest is too close to call as Donald Trump leads Ted Cruz by a similar 0.2 percent. ](/news/2016/03/17/bernie-sanders-concedes-the-missouri-primary-to-hillary-clinton-who-led-by-1-531-votes-0-2-percent-of-those-counted-sanders-says-he-will.md)
-_Context: 2016 U.S. presidential election, Bernie Sanders, Democratic Party presidential primaries, 2016, Hillary Clinton, Missouri, Ted Cruz, Trump, primary, recount_
+_Context: 2016 U.S. presidential election, Bernie Sanders, Democratic Party presidential primaries, 2016, Donald Trump, Hillary Clinton, Missouri, Ted Cruz, primary, recount_
 
 ## [Previous Day...](/news/2016/03/16/index.md)
 

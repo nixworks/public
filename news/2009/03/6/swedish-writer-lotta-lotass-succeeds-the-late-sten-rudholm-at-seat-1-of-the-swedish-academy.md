@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [''Assange v Swedish Prosecution Authority''Swedish prosecutors drop a seven-year sexual assault investigation into Wikileaks founder Julian Assange. ](/news/2017/05/19/assange-v-swedish-prosecution-authority-pswedish-prosecutors-drop-a-seven-year-sexual-assault-investigation-into-wikileaks-founder-julian.md) _Context: Swedish_
+1. [''Assange v Swedish Prosecution Authority''Swedish prosecutors drop a seven-year sexual assault investigation into WikiLeaks founder Julian Assange. ](/news/2017/05/19/assange-v-swedish-prosecution-authority-pswedish-prosecutors-drop-a-seven-year-sexual-assault-investigation-into-wikileaks-founder-julian.md) _Context: Swedish_
 2. [A vehicle is driven into a group of people on a street in Stockholm, Sweden, killing four people. ](/news/2017/04/7/a-vehicle-is-driven-into-a-group-of-people-on-a-street-in-stockholm-sweden-killing-four-people.md) _Context: Swedish_
 3. [A bus carrying around 50 school children rolls over on a highway south of Sveg in the northern region of Harjedalen, Sweden, killing three people. ](/news/2017/04/2/a-bus-carrying-around-50-school-children-rolls-over-on-a-highway-south-of-sveg-in-the-northern-region-of-ha-rjedalen-sweden-killing-three.md) _Context: Swedish_
 4. [The Swedish Academy announces that American singer-songwriter Bob Dylan has agreed to accept his Nobel Prize in Literature this weekend at a private location in Stockholm. ](/news/2017/03/29/the-swedish-academy-announces-that-american-singer-songwriter-bob-dylan-has-agreed-to-accept-his-nobel-prize-in-literature-this-weekend-at-a.md) _Context: Swedish Academy_

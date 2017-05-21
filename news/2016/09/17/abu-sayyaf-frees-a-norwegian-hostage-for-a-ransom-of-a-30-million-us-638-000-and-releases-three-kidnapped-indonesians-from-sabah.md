@@ -13,7 +13,7 @@ Reports reaching Manila indicate the Al-Qaeda linked Abu Sayyaf Group released l
 
 ### Related:
 
-1. [Philippine president Rodrigo Duterte  unintentionally reveals that a US$1 million ransom was given to the Abu Sayyaf terror group in exchange for a Norwegian hostage. ](/news/2016/08/26/philippine-president-rodrigo-duterte-unintentionally-reveals-that-a-us-1-million-ransom-was-given-to-the-abu-sayyaf-terror-group-in-exchang.md) _Context: Abu Sayyaf, Norway, U.S. dollar_
+1. [Philippine president Rodrigo Duterte  unintentionally reveals that a US$1 million ransom was given to the Abu Sayyaf terror group in exchange for a Norwegian hostage. ](/news/2016/08/26/philippine-president-rodrigo-duterte-unintentionally-reveals-that-a-us-1-million-ransom-was-given-to-the-abu-sayyaf-terror-group-in-exchang.md) _Context: Abu Sayyaf, Norway, US$_
 2. [The Abu Sayyaf militant group threatens to behead a Canadian hostage, a Filipina hostage, and a Norwegian hostage. ](/news/2016/05/4/the-abu-sayyaf-militant-group-threatens-to-behead-a-canadian-hostage-a-filipina-hostage-and-a-norwegian-hostage.md) _Context: Abu Sayyaf, Moro conflict, Norway_
 3. [Abu Sayyaf militants release 10 Indonesians the group had kidnapped from their tugboat and barge on March 28. ](/news/2016/05/1/abu-sayyaf-militants-release-10-indonesians-the-group-had-kidnapped-from-their-tugboat-and-barge-on-march-28.md) _Context: Abu Sayyaf, Indonesia, Moro conflict_
 4. [Indonesia, Malaysia, and the Philippines agree on joint naval patrols after an increase of kidnappings by the Abu Sayyaf militants. ](/news/2016/04/28/indonesia-malaysia-and-the-philippines-agree-on-joint-naval-patrols-after-an-increase-of-kidnappings-by-the-abu-sayyaf-militants.md) _Context: Abu Sayyaf, Indonesia, Moro conflict_

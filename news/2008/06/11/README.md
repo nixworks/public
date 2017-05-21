@@ -22,7 +22,7 @@ _Context: Canada, Canadian Prime Minister, Inuit, Metis, Native American, Stephe
 _Context: Articles of Impeachment, Dennis Kucinich, United States House of Representatives_
 
 ### [ InBev, the world's largest brewing company makes an unsolicited $46 billion takeover bid for United States brewing company Anheuser-Busch. ](/news/2008/06/11/inbev-the-world-s-largest-brewing-company-makes-an-unsolicited-46-billion-takeover-bid-for-united-states-brewing-company-anheuser-busch.md)
-_Context: Anheuser-Busch, InBev, U.S., U.S. dollar, brewing, takeover_
+_Context: Anheuser-Busch, InBev, U.S., US$, brewing, takeover_
 
 ### [ Estonia, Greece and Finland ratify the Treaty of Lisbon. ](/news/2008/06/11/estonia-greece-and-finland-ratify-the-treaty-of-lisbon.md)
 _Context: Estonia, Finland, Greek, Treaty of Lisbon_

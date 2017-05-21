@@ -7,7 +7,7 @@ _Context: Cuba, Havana, Non-aligned Movement_
 _Context: India, Mahatma Gandhi's, non-violent, peace, satyagraha_
 
 ### [ American President George W. Bush states that the war against terrorism is "the calling of our generation" and urged Americans to put aside differences and fight to victory. ](/news/2006/09/11/american-president-george-w-bush-states-that-the-war-against-terrorism-is-the-calling-of-our-generation-and-urged-americans-to-put-aside.md)
-_Context: George W. Bush, President, U.S., terrorism_
+_Context: George W. Bush, U.S., U.S. President, terrorism_
 
 ### [ Tropical Storm Gordon forms in the open Atlantic Ocean with 45 mph winds and is expected to head towards Bermuda. ](/news/2006/09/11/tropical-storm-gordon-forms-in-the-open-atlantic-ocean-with-45-mph-winds-and-is-expected-to-head-towards-bermuda.md)
 _Context: Atlantic, Bermuda, Tropical Storm Gordon_

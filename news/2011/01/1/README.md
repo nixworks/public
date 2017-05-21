@@ -4,7 +4,7 @@
 Egypt blames a suicide bomber with foreign links for a blast which killed at least 21 people at an Alexandria church and sparked a Christian-Muslim clash.
 
 ### [Bonaire, Saba and Sint Eustatius adopt the United States dollar as the sole legal currency, reducing the use of the Netherlands Antillean guilder to Curaao and Sint Maarten. ](/news/2011/01/1/bonaire-saba-and-sint-eustatius-adopt-the-united-states-dollar-as-the-sole-legal-currency-reducing-the-use-of-the-netherlands-antillean-gu.md)
-_Context: Bonaire, Curaao, Netherlands Antillean guilder, Saba, Sint Eustatius, Sint Maarten, U.S. dollar_
+_Context: Bonaire, Curaao, Netherlands Antillean guilder, Saba, Sint Eustatius, Sint Maarten, US$_
 
 ### [Estonia adopts the Euro, becoming the 17th Eurozone country.](/news/2011/01/1/estonia-adopts-the-euro-becoming-the-17th-eurozone-country.md)
 _Context: Estonia_
@@ -31,7 +31,7 @@ _Context: European Union, Hungary, the Council of_
 _Context: Ford Open Prison, West Sussex, prison riot_
 
 ### [Dilma Rousseff is sworn in as Brazil's first female President. ](/news/2011/01/1/dilma-rousseff-is-sworn-in-as-brazil-s-first-female-president.md)
-_Context: Brazil, Brazilian President, Dilma Rousseff_
+_Context: Brazil, Dilma, President_
 
 ### [The Bolivian government rescinds a government decree that significantly increased fuel prices after violent unrest. ](/news/2011/01/1/the-bolivian-government-rescinds-a-government-decree-that-significantly-increased-fuel-prices-after-violent-unrest.md)
 After week of strikes and demonstrations, South American country cancels decree that saw fuel costs soar.

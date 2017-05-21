@@ -10,7 +10,7 @@ _Context: Egyptian Army, Sinai, Sinai insurgency_
 _Context: Aetna, Humana, John D. Bates, U.S. District Court for the District of Columbia, United States federal judge, health insurance_
 
 ### [According to an advisor to Gambian President Adama Barrow, more than 500 million dalasi, equivalent to US$11.3 million, are reported missing from state coffers after former President Yahya Jammeh left the country in exile. ](/news/2017/01/23/according-to-an-advisor-to-gambian-president-adama-barrow-more-than-500-million-dalasi-equivalent-to-us-11-3-million-are-reported-missing.md)
-_Context: 2016-2017 Gambian constitutional crisis, Adama Barrow, President, U.S. dollar, Yahya Jammeh, dalasi_
+_Context: 2016-2017 Gambian constitutional crisis, Adama Barrow, President, US$, Yahya Jammeh, dalasi_
 
 ### [Following a joint police operation by Europol and Interpol last October and November across much of Europe, dubbed "Operation Pandora", more than 3,500 stolen artwork and artifacts are recovered, with 75 people arrested and 48,588 more being investigated. ](/news/2017/01/23/following-a-joint-police-operation-by-europol-and-interpol-last-october-and-november-across-much-of-europe-dubbed-operation-pandora-more.md)
 Stolen artworks, cultural items and archaeological items recovered in a European sting operation.

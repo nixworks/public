@@ -7,7 +7,7 @@ _Context: Cape Town, South Africa_
 _Context: Mercedes-Benz, People's Republic of China_
 
 ### [The United States trade deficit rose 9.7% to 36.4 billion US dollars in November. ](/news/2010/01/13/the-united-states-trade-deficit-rose-9-7-to-36-4-billion-us-dollars-in-november.md)
-_Context: U.S. dollar, United States trade deficit, billion_
+_Context: US$, United States trade deficit, billion_
 
 ### [The North American International Auto Show (NAIAS) is held in Detroit, Michigan, US. Green vehicles are seen as a response to the late 2000s recession. Automotive News World Congress is held at the Renaissance Center. ](/news/2010/01/13/the-north-american-international-auto-show-naias-is-held-in-detroit-michigan-us-green-vehicles-are-seen-as-a-response-to-the-late-2000s.md)
 _Context: Detroit, Green vehicle, Michigan, North American International Auto Show, Renaissance Center, U.S., late 2000s recession_

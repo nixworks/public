@@ -1,7 +1,7 @@
 ## [2005-05-20](/news/2005/05/20/index.md)
 
 ### [ ''Star Wars Episode III: Revenge of the Sith'' reaches a record high at the box offices on opening day with $50 million on 9,400 screens at 3,661 theaters worldwide, edging out ''Spider-Man 2'''s top opening day record of $40.4 million and ''Shrek 2's'' top single day record of $44.8 million. ](/news/2005/05/20/star-wars-episode-iii-revenge-of-the-sith-reaches-a-record-high-at-the-box-offices-on-opening-day-with-50-million-on-9-400-screens-at.md)
-_Context: Shrek 2, Spider-Man 2, Star Wars Episode III: Revenge of the Sith, U.S. dollar_
+_Context: Shrek 2, Spider-Man 2, Star Wars Episode III: Revenge of the Sith, US$_
 
 ### [ Daytime Emmys are awarded, and three records are broken. ''General Hospital'' wins Best Drama for a record eighth time, Erika Slezak of ''One Life to Live'' wins her sixth Daytime Emmy for Best Actress, and ''The Ellen DeGeneres Show'' wins five Daytime Emmys, including Best Talk Show Host, and Best Talk Show. [http://www.washingtonpost.com/wp-dyn/content/article/2005/05/21/AR2005052100750.html (Washington Post)] (Link dead as of 02:43, 15 January 2007 (UTC))](/news/2005/05/20/daytime-emmys-are-awarded-and-three-records-are-broken-general-hospital-wins-best-drama-for-a-record-eighth-time-erika-slezak-of-o.md)
 _Context: 15 January, 2007, Daytime Emmy, Daytime Emmys, Erika Slezak, General Hospital, One Life to Live_

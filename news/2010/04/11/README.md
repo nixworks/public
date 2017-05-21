@@ -7,7 +7,7 @@ WARSAW - Draped in a red and white Polish flag, the body of Lech Kaczynski was c
 _Context: Pakistan, airstrike_
 
 ### [Iran:President of Iran Mahmoud Ahmadinejad plans to relocate millions of Tehranians as the city is threatened by earthquakes. ](/news/2010/04/11/iran-ppresident-of-iran-mahmoud-ahmadinejad-plans-to-relocate-millions-of-tehranians-as-the-city-is-threatened-by-earthquakes.md)
-_Context: Mahmoud Ahmadinejad, President of Iran, Tehran_
+_Context: Mahmoud Ahmadinejad, President, Tehran_
 
 ### [Iraq's election seeks a recount in five provinces after up to 750,000 votes are "tainted by fraud". ](/news/2010/04/11/iraq-s-election-seeks-a-recount-in-five-provinces-after-up-to-750-000-votes-are-tainted-by-fraud.md)
 _Context: Iraq_

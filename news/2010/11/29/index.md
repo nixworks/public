@@ -22,7 +22,7 @@ _Context: London Underground, peak-hour_
 _Context: Indonesia, Mount Bromo_
 
 ### [Diplomatic cable leaks by Wikileaks reveal that China regarded North Korea as a "spoilt child" and the view of  Korean reunification under South Korean leadership is "gaining ground". ](/news/2010/11/29/diplomatic-cable-leaks-by-wikileaks-reveal-that-china-regarded-north-korea-as-a-spoilt-child-and-the-view-of-korean-reunification-under-s.md)
-_Context: 250,000 documents, North Korea, People's Republic of China, South Korea, Wikileaks, reunified_
+_Context: 250,000 documents, North Korea, People's Republic of China, South Korea, WikiLeaks, reunified_
 
 ### [Israel's "eased"  blockade of the Gaza strip continues to cripple the Gazan economy. ](/news/2010/11/29/israel-s-eased-blockade-of-the-gaza-strip-continues-to-cripple-the-gazan-economy.md)
 _Context: Gaza Strip, Israel, Israeli blockade_
@@ -52,7 +52,7 @@ _Context: Constitutional Court of Thailand, Democrat Party, Thailand_
 _Context: Australia, John Brumby, Premier, Ted Baillieu, Victoria, Victorian election_
 
 ### [President of the United States Barack Obama calls for a wage freeze for two million United States government workers. ](/news/2010/11/29/president-of-the-united-states-barack-obama-calls-for-a-wage-freeze-for-two-million-united-states-government-workers.md)
-_Context: Obama, President, United States government, wage freeze_
+_Context: Barack Obama, U.S. President, United States government, wage freeze_
 
 ### [The Canadian federal by-elections fills two vacant House seats in ridings for Manitoba and one in Ontario, resulting in one Conservative gain, one Conservative hold and one Liberal gain. ](/news/2010/11/29/the-canadian-federal-by-elections-fills-two-vacant-house-seats-in-ridings-for-manitoba-and-one-in-ontario-resulting-in-one-conservative-gai.md)
 _Context: Canadian  House of Commons, Canadian federal by-elections, Conservative Party's, Liberal Party's, Manitoba, Ontario, ridings_

@@ -19,7 +19,7 @@ _Context: Iraq, an outbreak of cholera, chlorine_
 _Context: Larry Fidler, Phil Spector, Superior Court, mistrial_
 
 ### [ The United States Secretary of Defense Robert Gates asks for $190 billion to cover the cost of the war in Iraq and war in Afghanistan during 2008. ](/news/2007/09/26/the-united-states-secretary-of-defense-robert-gates-asks-for-190-billion-to-cover-the-cost-of-the-war-in-iraq-and-war-in-afghanistan-durin.md)
-_Context: Robert Gates, Secretary of Defense, U.S. dollar, War in Afghanistan (2001-present), War in Iraq_
+_Context: Robert Gates, Secretary of Defense, US$, War in Afghanistan (2001-present), War in Iraq_
 
 ### [ A photo possibly showing missing Madeleine McCann in Morocco is being examined by British experts. ](/news/2007/09/26/a-photo-possibly-showing-missing-madeleine-mccann-in-morocco-is-being-examined-by-british-experts.md)
 _Context: Madeleine McCann, Moroccan_

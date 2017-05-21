@@ -34,7 +34,7 @@ _Context: Hungary, Zsa Zsa Gabor_
 _Context: California, Google, state_
 
 ### [Gabon signs over US$4 billion of contracts with Indian and Singaporean companies for infrastructure projects, on the eve of the country's 50th anniversary since independence. ](/news/2010/08/14/gabon-signs-over-us-4-billion-of-contracts-with-indian-and-singaporean-companies-for-infrastructure-projects-on-the-eve-of-the-country-s-50.md)
-_Context: Gabon, India, Singapore, U.S. dollar_
+_Context: Gabon, India, Singapore, US$_
 
 ### [The United Nations states Niger faces its worst hunger crisis in history, worse than 2005 when thousands of people were left to starve to death. ](/news/2010/08/14/the-united-nations-states-niger-faces-its-worst-hunger-crisis-in-history-worse-than-2005-when-thousands-of-people-were-left-to-starve-to-de.md)
 _Context: Niger, United Nations_

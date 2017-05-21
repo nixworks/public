@@ -22,7 +22,7 @@ _Context: Mario R. Capecchi, Nobel Prize in Physiology or Medicine, Oliver Smith
 _Context: Battle of Mir Ali, Kashmir, Pakistan, Pervez Musharraf, President, Security experts, Taliban, escort, helicopter, spokesman_
 
 ### [ 2007 Burmese anti-government protests: Burma's junta announces that Buddhist monasteries have accepted US$8000 as well as food and medicine from its soldiers to signify the armed forces have not left the faith. ](/news/2007/10/8/2007-burmese-anti-government-protests-burma-s-junta-announces-that-buddhist-monasteries-have-accepted-us-8000-as-well-as-food-and-medicine.md)
-_Context: 2007 Burmese anti-government protests, Buddhist monk, Burma, U.S. dollar, junta_
+_Context: 2007 Burmese anti-government protests, Buddhist monk, Burma, US$, junta_
 
 ### [ New Zealand introduces its biofuel bill. ](/news/2007/10/8/new-zealand-introduces-its-biofuel-bill.md)
 _Context: New Zealand, biofuel_

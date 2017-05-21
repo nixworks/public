@@ -28,7 +28,7 @@ Lawyers and survivors of the Costa Concordia accident converged on Saturday for 
 Thousands turn out to elect a new leader for a Chinese village that staged a high-profile revolt over perceived local corruption.
 
 ### [Early returns in the Iranian legislative election show the conservative opponents of President Mahmoud Ahmadinejad doing well. ](/news/2012/03/3/early-returns-in-the-iranian-legislative-election-show-the-conservative-opponents-of-president-mahmoud-ahmadinejad-doing-well.md)
-_Context: Mahmoud Ahmadinejad, President of Iran, legislative elections_
+_Context: Mahmoud Ahmadinejad, President, legislative elections_
 
 ### [Authorities in Tajikistan close access to Facebook and sites with material critical of President Emomali Rakhmon. ](/news/2012/03/3/authorities-in-tajikistan-close-access-to-facebook-and-sites-with-material-critical-of-president-emomali-rakhmon.md)
 _Context: Emomali Rakhmon, Facebook, President, Tajikistan_

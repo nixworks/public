@@ -37,7 +37,7 @@ _Context: Federal Investigation Agency, Lahore, Pakistani Taliban, car bomb_
 Two homemade bombs exploding in quick succession killed 12 people, including 10 civilians, in an increasingly volatile part of northwestern Afghanistan, police said on Monday.
 
 ### [Parliament approves President of Iran Mahmoud Ahmadinejad's budget for 2010/11. ](/news/2010/03/8/parliament-approves-president-of-iran-mahmoud-ahmadinejad-s-budget-for-2010-11.md)
-_Context: Mahmoud Ahmadinejad, President of Iran_
+_Context: Mahmoud Ahmadinejad, President_
 
 ### [Togolese police fire tear gas at street protesters who dispute Faure Gnassingbe's presidential election triumph. ](/news/2010/03/8/togolese-police-fire-tear-gas-at-street-protesters-who-dispute-faure-gnassingba-c-s-presidential-election-triumph.md)
 _Context: Faure Gnassingbe, Togo, presidential election triumph, tear gas_

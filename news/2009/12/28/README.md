@@ -40,7 +40,7 @@ _Context: Eastern Siberia - Pacific Ocean oil pipeline, Russia, Vladimir Putin_
 _Context: Chile, Valparaiso_
 
 ### [ President of Venezuela Hugo Chavez quotes Mary and Karl Marx in a New Year message broadcast by state media, describing an end to the "illusion" of Barack Obama and predicting a global ecological disaster. ](/news/2009/12/28/president-of-venezuela-hugo-cha-vez-quotes-mary-and-karl-marx-in-a-new-year-message-broadcast-by-state-media-describing-an-end-to-the-ill.md)
-_Context: Hugo Chavez, Karl Marx, Mary, Obama, Venezuelan President_
+_Context: Barack Obama, Hugo Chavez, Karl Marx, Mary, Venezuelan President_
 
 ### [ At least 25 people are confirmed wounded after battles over a fatal stabbing between local people and gold miners from Brazil in Albina, Suriname. ](/news/2009/12/28/at-least-25-people-are-confirmed-wounded-after-battles-over-a-fatal-stabbing-between-local-people-and-gold-miners-from-brazil-in-albina-su.md)
 _Context: Albina, Brazil, Suriname_

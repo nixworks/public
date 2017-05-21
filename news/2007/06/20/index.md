@@ -7,7 +7,7 @@ _Context: Omsk, Russia, nursing home_
 _Context: Special Court for Sierra Leone, child soldiers, international court_
 
 ### [ The government of Dubai announces that it has purchased the RMS ''Queen Elizabeth 2'' from Cunard Line for US$100-million.  It intends to turn her into a floating hotel at the Palm Jumeirah when she leaves service in late 2008. ](/news/2007/06/20/the-government-of-dubai-announces-that-it-has-purchased-the-rms-queen-elizabeth-2-from-cunard-line-for-us-100-million-it-intends-to-t.md)
-_Context: 2008, Cunard Line, Dubai, Palm Jumeirah, RMS ''Queen Elizabeth 2'', U.S. dollar, hotel_
+_Context: 2008, Cunard Line, Dubai, Palm Jumeirah, RMS ''Queen Elizabeth 2'', US$, hotel_
 
 ### [ Nursultan Nazarbayev, President of Kazakhstan, dissolves parliament, triggering a legislative election for August 18, 2007. ](/news/2007/06/20/nursultan-nazarbayev-president-of-kazakhstan-dissolves-parliament-triggering-a-legislative-election-for-august-18-2007.md)
 _Context: Kazakhstani legislative election, 2007, Nursultan Nazarbayev's, President_

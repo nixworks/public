@@ -1,7 +1,7 @@
 ## [2008-02-29](/news/2008/02/29/index.md)
 
 ### [ Northrop Grumman and EADS win a US$35 billion U.S. Air Force contract to build a new refueling plane, the KC-45, shutting out Boeing. ](/news/2008/02/29/northrop-grumman-and-eads-win-a-us-35-billion-u-s-air-force-contract-to-build-a-new-refueling-plane-the-kc-45-shutting-out-boeing.md)
-_Context: Boeing, EADS, KC-45, Northrop Grumman, U.S. dollar, United States Air Force, aerial refueling tankers_
+_Context: Boeing, EADS, KC-45, Northrop Grumman, US$, United States Air Force, aerial refueling tankers_
 
 ### [ A White House official resigns after admitting to plagiarism in columns published by the Fort Wayne, Indiana ''News-Sentinel''. ](/news/2008/02/29/a-white-house-official-resigns-after-admitting-to-plagiarism-in-columns-published-by-the-fort-wayne-indiana-news-sentinel.md)
 _Context: Fort Wayne, Indiana, News-Sentinel, White House_

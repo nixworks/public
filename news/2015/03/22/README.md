@@ -19,7 +19,7 @@ _Context: Leicester, Leicester Cathedral, Richard III of England_
 Tropical cyclone Nathan has been lashing the Northern Territory with wind gusts up to 140km/h in some areas.
 
 ### [Japan allocates 820 billion yen ($6.8 billion) for creating a nearly 400-kilometer (250-mile) chain of cement seawalls, at places nearly five stories high, against future tsunami disasters such as the one that struck the country's northeastern coast four years ago. ](/news/2015/03/22/japan-allocates-820-billion-yen-6-8-billion-for-creating-a-nearly-400-kilometer-250-mile-chain-of-cement-seawalls-at-places-nearly-fiv.md)
-_Context: Japan, U.S. dollar, allocates, an earthquake and tsunami, seawall, tsunami_
+_Context: Japan, US$, allocates, an earthquake and tsunami, seawall, tsunami_
 
 ### [A Venezuelan bus plunges into a lake in Aragua state, southwest of the capital Caracas, killing at least eleven people with thirty-six others injured. ](/news/2015/03/22/a-venezuelan-bus-plunges-into-a-lake-in-aragua-state-southwest-of-the-capital-caracas-killing-at-least-eleven-people-with-thirty-six-other.md)
 A bus veers off a highway and plunges into a lake in central Venezuela, killing at least 11 people and injuring 36.

@@ -25,7 +25,7 @@ Investors warn that this kind of reaction to major news is often only temporary 
 Asian stocks rose on Monday andU.S. stock index futures extended gains on the back of mediareports that Osama bin Laden was dead.
 
 ### [The Australian dollar reaches $1.10 in United States dollars, its highest level since the Australian dollar was floated in 1983. ](/news/2011/05/2/the-australian-dollar-reaches-1-10-in-united-states-dollars-its-highest-level-since-the-australian-dollar-was-floated-in-1983.md)
-_Context: A$, U.S. dollar_
+_Context: A$, US$_
 
 ### [Sony advises that hackers may have stolen personal details of 24.6 million users of Sony Online Entertainment resulting in the site closing. ](/news/2011/05/2/sony-advises-that-hackers-may-have-stolen-personal-details-of-24-6-million-users-of-sony-online-entertainment-resulting-in-the-site-closing.md)
 _Context: Sony, Sony Online Entertainment, hackers_
@@ -49,7 +49,7 @@ Italian Prime Minister Silvio Berlusconi appears in court, lambasting prosecutor
 Stephen Harper has been re-elected and will head a majority Conservative government for the first time.
 
 ### [President of Brazil Dilma Rousseff is hospitalised with pneumonia in Sao Paulo. ](/news/2011/05/2/president-of-brazil-dilma-rousseff-is-hospitalised-with-pneumonia-in-sapso-paulo.md)
-_Context: Brazilian President, Dilma Rousseff, Sao Paulo, pneumonia_
+_Context: Dilma, President, Sao Paulo, pneumonia_
 
 ### [In Guatemala the country's electoral supreme court calls for general elections to be held on September 11 to elect President and Vice President, Mayors of the 333 municipal corporations, members for a new Congress and members for the Central American Parliament (PARLACEN). A second round of voting for President and Vice-President will be held on November 6 if needed.](/news/2011/05/2/in-guatemala-the-country-s-electoral-supreme-court-calls-for-general-elections-to-be-held-on-september-11-to-elect-president-and-vice-presid.md)
 _Context: Central American Parliament, Guatemala, Guatemala's Congress, Guatemalan President, Vice President, mayor_

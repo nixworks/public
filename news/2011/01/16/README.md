@@ -31,7 +31,7 @@ _Context: Christmas, Copt, Egypt, a year ago_
 The undercover policeman who controversially posed as an environmental activist, last night claimed he had been made a &quot;scapegoat&quot; and was hiding in the US in &quot;genuine fear for [his] life&quot;. Mark Kennedy claimed his undercover policework was highly sensitive and at one time the intelligence he gathered had been passed directly to the then Prime Minister, Tony Blair.
 
 ### [Supporters of the Pirate Party of Canada hold a protest in Calgary for increased freedom of the press and government transparency in defense of Julian Assange and the WikiLeaks website. ](/news/2011/01/16/supporters-of-the-pirate-party-of-canada-hold-a-protest-in-calgary-for-increased-freedom-of-the-press-and-government-transparency-in-defense.md)
-_Context: Calgary, Alberta, Freedom of the press, Julian Assange, Pirate Party of Canada, Wikileaks, government transparency_
+_Context: Calgary, Alberta, Freedom of the press, Julian Assange, Pirate Party of Canada, WikiLeaks, government transparency_
 
 ### [Magistrate Ilda Boccassini promises to cut pre-trial hearings and have Silvio Berlusconi's prostitution case in court by the summer. ](/news/2011/01/16/magistrate-ilda-boccassini-promises-to-cut-pre-trial-hearings-and-have-silvio-berlusconi-s-prostitution-case-in-court-by-the-summer.md)
 _Context: Magistrate, Silvio Berlusconi_

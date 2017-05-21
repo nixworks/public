@@ -25,7 +25,7 @@ Officials launched a hunt Wednesday for possible criminal suspects in the 2013 e
 German men convicted on the basis of a 19th century law criminalizing homosexuality now have a chance at getting late justice in the wake of an expert study commissioned by the Anti-Discrimination Agency.
 
 ### [The Federal Senate of Brazil debates whether to suspend and impeach President Dilma Rousseff  for allegedly breaching budget rules. The President's allies are not optimistic about the Senate vote. ](/news/2016/05/11/the-federal-senate-of-brazil-debates-whether-to-suspend-and-impeach-president-dilma-rousseff-for-allegedly-breaching-budget-rules-the-pres.md)
-_Context: Brazil, Brazilian President, Dilma Rousseff, Impeachment process against Dilma Rousseff, Senate_
+_Context: Brazil, Dilma, Impeachment process against Dilma Rousseff, President, Senate_
 
 ### [The Italian Parliament gives final approval to legislation recognizing civil unions of same-sex couples. ](/news/2016/05/11/the-italian-parliament-gives-final-approval-to-legislation-recognizing-civil-unions-of-same-sex-couples.md)
 _Context: Italian Parliament, Recognition of same-sex unions in Italy, civil union, same-sex couples_

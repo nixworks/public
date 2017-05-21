@@ -10,7 +10,7 @@ _Context: Baptist church, Illinois, Maryville, U.S._
 _Context: Baghdad, Iraq, suicide attack_
 
 ### [ U.S. President Barack Obama announces that Operation Enduring Freedom's forces are "not winning" the war in Afghanistan. ](/news/2009/03/8/u-s-president-barack-obama-announces-that-operation-enduring-freedom-s-forces-are-not-winning-the-war-in-afghanistan.md)
-_Context: Afghanistan, Obama, Operation Enduring Freedom, President, U.S., War in Afghanistan (2001-present), forces_
+_Context: Afghanistan, Barack Obama, Operation Enduring Freedom, U.S., U.S. President, War in Afghanistan (2001-present), forces_
 
 ### [ Two members of the British Army's 38 Engineer Regiment are killed in Antrim, County Antrim, Northern Ireland. ](/news/2009/03/8/two-members-of-the-british-army-s-38-engineer-regiment-are-killed-in-antrim-county-antrim-northern-ireland.md)
 _Context: 2009 Massereene Barracks shooting, 38 Engineer Regiment, Antrim, British Army, County Antrim, Northern Ireland_

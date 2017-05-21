@@ -25,7 +25,7 @@ Little more than two weeks after Italian scientists warned that climate change h
 Calls to halt negotiations with Ankara angers the country&#039;s leader, who warns of triggering a fresh influx of refugees.
 
 ### [WikiLeaks releases 500 internal documents and emails allegedly from the American Embassy in Sana'a, Yemen. ](/news/2016/11/25/wikileaks-releases-500-internal-documents-and-emails-allegedly-from-the-american-embassy-in-sana-a-yemen.md)
-_Context: 500 internal documents and emails, Sana'a, United States-Yemen relations, Wikileaks_
+_Context: 500 internal documents and emails, Sana'a, United States-Yemen relations, WikiLeaks_
 
 ### [The Supreme Court of Norway rejects NSA whistleblower Edward Snowden's extradition lawsuit against the Norwegian government. ](/news/2016/11/25/the-supreme-court-of-norway-rejects-nsa-whistleblower-edward-snowden-s-extradition-lawsuit-against-the-norwegian-government.md)
 _Context: Edward Snowden, National Security Agency, Norway, Supreme Court of Norway_
@@ -46,7 +46,7 @@ Four police forces say they are looking into allegations of historical child sex
 Former Green Party presidential candidate Jill Stein on Thursday launched a bid to seek a vote recount in Wisconsin, the first of three Rust Belt states wo
 
 ### [Brazilian Minister Geddel Vieira Lima resigns following allegations he and President Michel Temer pressured a fellow cabinet minister into approving a real estate project. ](/news/2016/11/25/brazilian-minister-geddel-vieira-lima-resigns-following-allegations-he-and-president-michel-temer-pressured-a-fellow-cabinet-minister-into-a.md)
-_Context: Brazil, Brazilian President, Geddel Vieira Lima, Michel Temer, cabinet_
+_Context: Brazil, Geddel Vieira Lima, Michel Temer, President, cabinet_
 
 ### [Fidel Castro, founder of the Communist Party of Cuba, former Prime Minister and former President of Cuba, dies at the age of 90. ](/news/2016/11/25/fidel-castro-founder-of-the-communist-party-of-cuba-former-prime-minister-and-former-president-of-cuba-dies-at-the-age-of-90.md)
 _Context: Communist Party of Cuba, Cuba, Fidel Castro, President, Prime Minister_

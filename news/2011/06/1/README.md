@@ -44,7 +44,7 @@ More than 251 journalists in 13 countries were killed &quot;with impunity&quot; 
 Prime Minister Julia Gillard has unveiled a complete reshuffle at the top of the Australian Defence Force.
 
 ### [Iran's parliament finds that the President of Iran Mahmoud Ahmadinejad acted illegally by appointing himself as Oil Minister and refers it to the Judiciary, increasing pressure on him to resign. ](/news/2011/06/1/iran-s-parliament-finds-that-the-president-of-iran-mahmoud-ahmadinejad-acted-illegally-by-appointing-himself-as-oil-minister-and-refers-it-t.md)
-_Context: Iran, Mahmoud Ahmadinejad, President of Iran, parliament_
+_Context: Iran, Mahmoud Ahmadinejad, President, parliament_
 
 ### [Japan's Opposition lodges a no-confidence motion in the Diet against Prime Minister Naoto Kan. ](/news/2011/06/1/japan-s-opposition-lodges-a-no-confidence-motion-in-the-diet-against-prime-minister-naoto-kan.md)
 _Context: Diet, Japan, Naoto Kan, Prime Minister_

@@ -40,7 +40,7 @@ Authorities rescue five-year-old boy held in a bunker for seven days.
 _Context: Cuba, Fidel Castro, parliamentary elections_
 
 ### [The President of Iran Mahmoud Ahmadinejad announces his desire of becoming the first Iranian astronaut after the successful launching and returning of a monkey sent by its national scientific space program. ](/news/2013/02/4/the-president-of-iran-mahmoud-ahmadinejad-announces-his-desire-of-becoming-the-first-iranian-astronaut-after-the-successful-launching-and-re.md)
-_Context: Iran, Mahmoud Ahmadinejad, President of Iran, astronaut, launching and returning, monkey, space program_
+_Context: Iran, Mahmoud Ahmadinejad, President, astronaut, launching and returning, monkey, space program_
 
 ### [The Kremlin announces that Russia will hold the 2014 G8 summit in its southern Black Sea resort of Sochi, the host of the 2014 Winter Olympics. ](/news/2013/02/4/the-kremlin-announces-that-russia-will-hold-the-2014-g8-summit-in-its-southern-black-sea-resort-of-sochi-the-host-of-the-2014-winter-olympi.md)
 _Context: 2014 Winter Olympics, Black Sea, G8 group of nations, Russia, Russian Government, Sochi_

@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [''Assange v Swedish Prosecution Authority''Swedish prosecutors drop a seven-year sexual assault investigation into Wikileaks founder Julian Assange. ](/news/2017/05/19/assange-v-swedish-prosecution-authority-pswedish-prosecutors-drop-a-seven-year-sexual-assault-investigation-into-wikileaks-founder-julian.md) _Context: Swedish_
+1. [''Assange v Swedish Prosecution Authority''Swedish prosecutors drop a seven-year sexual assault investigation into WikiLeaks founder Julian Assange. ](/news/2017/05/19/assange-v-swedish-prosecution-authority-pswedish-prosecutors-drop-a-seven-year-sexual-assault-investigation-into-wikileaks-founder-julian.md) _Context: Swedish_
 2. [A vehicle is driven into a group of people on a street in Stockholm, Sweden, killing four people. ](/news/2017/04/7/a-vehicle-is-driven-into-a-group-of-people-on-a-street-in-stockholm-sweden-killing-four-people.md) _Context: Swedish_
 3. [An Israeli soldier is killed during a car ramming attack near Ofra, in the West Bank. Another Israeli soldier was injured. A Palestinian suspected of committing the attack is taken into custody. ](/news/2017/04/6/an-israeli-soldier-is-killed-during-a-car-ramming-attack-near-ofra-in-the-west-bank-another-israeli-soldier-was-injured-a-palestinian-sus.md) _Context: Palestinian_
 4. [A bus carrying around 50 school children rolls over on a highway south of Sveg in the northern region of Harjedalen, Sweden, killing three people. ](/news/2017/04/2/a-bus-carrying-around-50-school-children-rolls-over-on-a-highway-south-of-sveg-in-the-northern-region-of-ha-rjedalen-sweden-killing-three.md) _Context: Swedish_

@@ -7,7 +7,7 @@ _Context: Columbine, Eric Harris and Dylan Klebold_
 _Context: 2009, Pulitzer Prize_
 
 ### [ Oracle Corporation purchases Sun Microsystems for $7.4 billion. ](/news/2009/04/20/oracle-corporation-purchases-sun-microsystems-for-7-4-billion.md)
-_Context: Oracle Corporation, Sun Microsystems, U.S. dollar_
+_Context: Oracle Corporation, Sun Microsystems, US$_
 
 ### [ India's Space Research Organization launches its RISAT-2 reconnaissance satellite. ](/news/2009/04/20/india-s-space-research-organization-launches-its-risat-2-reconnaissance-satellite.md)
 _Context: India, Indian Space Research Organisation, RISAT-2, spy satellite_

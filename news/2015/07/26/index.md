@@ -16,7 +16,7 @@ Deutsche Börse said it is buying over-the-counter trading platform 360T for $79
 Verizon workers in nine states have voted to go on strike if necessary over a dispute about a new contract, a union official said at a rally Saturday.
 
 ### [Nike agrees to pay a combined $2.4 million to consumers of Nike+ FuelBand over false advertising. ](/news/2015/07/26/nike-agrees-to-pay-a-combined-2-4-million-to-consumers-of-nike-fuelband-over-false-advertising.md)
-_Context: Nike+ FuelBand, Nike, Inc., U.S. dollar_
+_Context: Nike+ FuelBand, Nike, Inc., US$_
 
 ### [Bobbi Kristina Brown, age 22, daughter of American entertainer Whitney Houston and heiress to the Houston estate, dies approximately 6 months after having been put in a medically induced coma since being found face-down in a bathtub in her Roswell, Georgia home near Atlanta on January 31, 2015. ](/news/2015/07/26/bobbi-kristina-brown-age-22-daughter-of-american-entertainer-whitney-houston-and-heiress-to-the-houston-estate-dies-approximately-6-month.md)
 _Context: Atlanta, Bobbi Kristina Brown, Roswell, Georgia, Whitney Houston, medically induced coma_

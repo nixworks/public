@@ -10,7 +10,7 @@ _Context: Fatah-Hamas conflict, Gaza Strip, Palestinian Authority_
 _Context: Golf, Oakmont Country Club, Oakmont, Pennsylvania, U.S. Open_
 
 ### [ Music producer and alleged con artist Lou Pearlman is arrested in Nusa Dua, Bali, Indonesia and deported to the United States territory of Guam.  He is accused of defrauding over 1,800 individual investors out of a total of $317-million.  He will eventually be returned to Florida to face criminal charges and a growing list of civil litigation. ](/news/2007/06/14/music-producer-and-alleged-con-artist-lou-pearlman-is-arrested-in-nusa-dua-bali-indonesia-and-deported-to-the-united-states-territory-of.md)
-_Context: Bali, Florida, Guam, Indonesia, Lou Pearlman, Music producer, Nusa Dua, U.S. dollar, con artist, deportees_
+_Context: Bali, Florida, Guam, Indonesia, Lou Pearlman, Music producer, Nusa Dua, US$, con artist, deportees_
 
 ### [ Bertie Ahern of Fianna Fail is elected as Ireland's Taoiseach for a record third term upon the opening of the 30th Dail; the Taoiseach then announces his new cabinet with ministries. ](/news/2007/06/14/bertie-ahern-of-fianna-fa-il-is-elected-as-ireland-s-taoiseach-for-a-record-third-term-upon-the-opening-of-the-30th-da-il-the-taoiseach-th.md)
 The Taoiseach has said that a new Fianna Fáil face will be appointed to a senior position when he appoints his cabinet later this evening.

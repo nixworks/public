@@ -13,7 +13,7 @@ A passenger plane carrying 43 people has crashed shortly after take-off in Siber
 British PM fires salvo on 30th anniversary of Falklands War amid reports that Argentina may sue banks funding oil drill.
 
 ### [The three widows and two daughters of Osama bin Laden are convicted of illegally living in Pakistan and sentenced to 45 days in jail and fined $114 each. ](/news/2012/04/2/the-three-widows-and-two-daughters-of-osama-bin-laden-are-convicted-of-illegally-living-in-pakistan-and-sentenced-to-45-days-in-jail-and-fin.md)
-_Context: Osama bin Laden, Pakistan, U.S. dollar_
+_Context: Osama bin Laden, Pakistan, US$_
 
 ### [A mass shooting at Oikos University at Oakland, California leaves 7 people dead and  three injured, according to a police spokesperson. ](/news/2012/04/2/a-mass-shooting-at-oikos-university-at-oakland-california-leaves-7-people-dead-and-three-injured-according-to-a-police-spokesperson.md)
 A 43-year-old former student is arrested after seven people are shot dead at a private college in Oakland, California, police say.

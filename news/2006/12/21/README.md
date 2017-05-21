@@ -16,7 +16,7 @@ _Context: Jon Corzine, New Jersey, U.S., civil union, gubernatorial elections, m
 _Context: Baidoa, Horn of Africa, War in Somalia_
 
 ### [ Opponents of the President of Iran Mahmoud Ahmadinejad win a number of victories in local elections and elections to the Assembly of Experts as dissatisfaction grows with his Presidency. ](/news/2006/12/21/opponents-of-the-president-of-iran-mahmoud-ahmadinejad-win-a-number-of-victories-in-local-elections-and-elections-to-the-assembly-of-expert.md)
-_Context: Assembly of Experts, Mahmoud Ahmadinejad, President of Iran, elections, local elections_
+_Context: Assembly of Experts, Mahmoud Ahmadinejad, President, elections, local elections_
 
 ### [ Saparmurat Niyazov, the President-for-life of Turkmenistan, dies at the age of 66. ](/news/2006/12/21/saparmurat-niyazov-the-president-for-life-of-turkmenistan-dies-at-the-age-of-66.md)
 _Context: Saparmurat Niyazov, Turkmenistan_

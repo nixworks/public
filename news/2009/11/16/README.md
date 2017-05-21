@@ -13,7 +13,7 @@ _Context: Burma, Irrawaddy Delta_
 _Context: Chansa Kabwela, Rupiah Banda, Zambia, Zambia Post_
 
 ### [ U.S. President Barack Obama arrives in Shanghai, China, and holds a town-hall-style meeting with students. ](/news/2009/11/16/u-s-president-barack-obama-arrives-in-shanghai-china-and-holds-a-town-hall-style-meeting-with-students.md)
-_Context: Obama, Shanghai_
+_Context: Barack Obama, Shanghai_
 
 ### [ The United Nations "Hunger Summit" opens in Rome, Italy. ](/news/2009/11/16/the-united-nations-hunger-summit-opens-in-rome-italy.md)
 _Context: Italian, Rome, United Nations_

@@ -37,7 +37,7 @@ _Context: Bertrand Cantat, Montreal, Sophocles, Theatre du Nouveau Monde_
 European Central Bank increases eurozone interest rates for the first time since 2008 and admits it will be &quot;unwelcome&quot; for weaker economies.
 
 ### [The Australian dollar reaches a 28-year high against the United States dollar due to strong employment figures for March. ](/news/2011/04/7/the-australian-dollar-reaches-a-28-year-high-against-the-united-states-dollar-due-to-strong-employment-figures-for-march.md)
-_Context: A$, U.S. dollar_
+_Context: A$, US$_
 
 ### [General Electric Co. announces that it is investing $600 million to construct a facility for the manufacture of thin-film solar panels, and says it hopes and expects to drive the price of solar energy down. ](/news/2011/04/7/general-electric-co-announces-that-it-is-investing-600-million-to-construct-a-facility-for-the-manufacture-of-thin-film-solar-panels-and.md)
 General Electric Co made a big push in solar power, saying it will invest $600 million to build a new factory as it pursues what it thinks could be an up to $3 billion business by 2015.
@@ -70,7 +70,7 @@ ANOTHER Corrib Gas protester has released details of a conversation he had with 
 Group of elderly Kenyans who say they were tortured by British officers in the 1950s uprising take case to London court.
 
 ### [The Hawaii Intermediate Court of Appeals dismisses an appeal from a man wanting to see the President of the United States Barack Obama's birth certificate. ](/news/2011/04/7/the-hawaii-intermediate-court-of-appeals-dismisses-an-appeal-from-a-man-wanting-to-see-the-president-of-the-united-states-barack-obama-s-bir.md)
-_Context: Barack Obama citizenship conspiracy theories, Hawaii Intermediate Court of Appeals, Obama, President, birth certificate_
+_Context: Barack Obama, Barack Obama citizenship conspiracy theories, Hawaii Intermediate Court of Appeals, U.S. President, birth certificate_
 
 ### [Former British Labour Party minister Elliot Morley pleads guilty to dishonestly claiming more than PS30,000 in parliamentary expenses. ](/news/2011/04/7/former-british-labour-party-minister-elliot-morley-pleads-guilty-to-dishonestly-claiming-more-than-aps30-000-in-parliamentary-expenses.md)
 _Context: Elliot Morley, Labour Party, MPs expenses_

@@ -7,7 +7,7 @@ _Context: Aerospace manufacturer, Bombardier Aerospace, Canada, layoff_
 _Context: Afghanistan, Bagram, Bagram Air Base, John D. Bates, U.S., United States federal judge, civil rights, enemy combatant, trial_
 
 ### [ The Group of 20 announces a US$1-trillion agreement to combat the current financial crisis. ](/news/2009/04/2/the-group-of-20-announces-a-us-1-trillion-agreement-to-combat-the-current-financial-crisis.md)
-_Context: G-20, U.S. dollar, announces, current financial crisis_
+_Context: G-20, US$, announces, current financial crisis_
 
 ### [ Reinsurer Swiss Re will cut 1,000 jobs. ](/news/2009/04/2/reinsurer-swiss-re-will-cut-1-000-jobs.md)
 _Context: Swiss Re, layoff, reinsurance_

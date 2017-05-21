@@ -28,7 +28,7 @@ _Context: Sangju, South Korea, concert, stampede_
 _Context: Bullet For My Valentine, RIAA, The Poison, U.S., heavy metal band's_
 
 ### [ On the first day of  the U.S. Supreme Court's fall term, President George W. Bush nominates White House Counsel Harriet Miers to fill the seat currently held by Sandra Day O'Connor. The nominee has no judicial experience.  [http://news.bbc.co.uk/2/hi/americas/4304684.stm (BBC)].  ](/news/2005/10/3/on-the-first-day-of-the-u-s-supreme-court-s-fall-term-president-george-w-bush-nominates-white-house-counsel-harriet-miers-to-fill-the-s.md)
-_Context: George W. Bush, Harriet Miers, President, Sandra Day O'Connor, U.S., U.S. Supreme Court, White House Counsel_
+_Context: George W. Bush, Harriet Miers, Sandra Day O'Connor, U.S., U.S. President, U.S. Supreme Court, White House Counsel_
 
 ### [ Conflict in Afghanistan: Afghan troops kill 31 suspects following clashes in Paktika, in eastern Afghanistan. ](/news/2005/10/3/conflict-in-afghanistan-afghan-troops-kill-31-suspects-following-clashes-in-paktika-in-eastern-afghanistan.md)
 _Context: Afghanistan, Paktika, War in Afghanistan (2001-present)_

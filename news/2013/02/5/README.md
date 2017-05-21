@@ -13,7 +13,7 @@ _Context: American, Standard & Poor's, housing crisis, mortgage_
 By Danielle RobinsonFeb 5 (IFR) - IBM Corp on Tuesday made the most of a surgein demand for floating-rate notes in the corporate bond marketby issu
 
 ### [Iranian President Mahmoud Ahmadinejad travels to Egypt. It is the first time since 1979 revolution that an Iranian head of state visits that country. ](/news/2013/02/5/iranian-president-mahmoud-ahmadinejad-travels-to-egypt-it-is-the-first-time-since-1979-revolution-that-an-iranian-head-of-state-visits-that.md)
-_Context: Egypt, Iran, Iranian Revolution, Mahmoud Ahmadinejad, President of Iran_
+_Context: Egypt, Iran, Iranian Revolution, Mahmoud Ahmadinejad, President_
 
 ### [A North Korean propaganda film, which featured New York in flames, is taken down by Activision due to the video using footage from Modern Warfare 3. ](/news/2013/02/5/a-north-korean-propaganda-film-which-featured-new-york-in-flames-is-taken-down-by-activision-due-to-the-video-using-footage-from-modern-wa.md)
 A video posted by North Korea is taken offline after games maker Activision makes a copyright claim over use of footage from Call of Duty.
@@ -34,7 +34,7 @@ _Context: California, Forestville, Sonoma County, U.S._
 Parents, sons 5 and 12, were found dead at apartment in Johns Creek, Ga.
 
 ### [Brazilian President Dilma Rousseff launches a new national economy politics based on rising the price of local oil over the reduction of light consumption prices. ](/news/2013/02/5/brazilian-president-dilma-rousseff-launches-a-new-national-economy-politics-based-on-rising-the-price-of-local-oil-over-the-reduction-of-lig.md)
-_Context: Brazil, Brazilian President, Dilma Rousseff_
+_Context: Brazil, Dilma, President_
 
 ### [The United Kingdom's House of Commons votes overwhelmingly in favour of government legislation to introduce same-sex marriages. ](/news/2013/02/5/the-united-kingdom-s-house-of-commons-votes-overwhelmingly-in-favour-of-government-legislation-to-introduce-same-sex-marriages.md)
 MPs approve same-sex marriage in England and Wales in a key Commons vote, although more Conservative MPs voted against the bill than for it.

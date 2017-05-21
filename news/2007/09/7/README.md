@@ -22,10 +22,10 @@ _Context: Naval Air Station Oceana, Virginia Beach, World War II, stunt plane_
 _Context: Levy Mwanawasa, President, President of Zimbabwe, Robert Mugabe, Southern African Development Community_
 
 ### [ United States District Court judge Royce Lamberth orders Iran to pay $2.6 billion to victims and families in the 1983 Hezbollah bombing of a United States Marine Corps barracks in Lebanon that claimed 241 American lives. ](/news/2007/09/7/united-states-district-court-judge-royce-lamberth-orders-iran-to-pay-2-6-billion-to-victims-and-families-in-the-1983-hezbollah-bombing-of.md)
-_Context: Hezbollah, Iran, Lebanon, Royce Lamberth, U.S. District Court for the District of Columbia, U.S. dollar, United States Marine Corps, bomb_
+_Context: Hezbollah, Iran, Lebanon, Royce Lamberth, U.S. District Court for the District of Columbia, US$, United States Marine Corps, bomb_
 
 ### [ The Roman Catholic Diocese of San Diego agrees to pay $198.1 million to settle 144 claims of sexual abuse by clergy. ](/news/2007/09/7/the-roman-catholic-diocese-of-san-diego-agrees-to-pay-198-1-million-to-settle-144-claims-of-sexual-abuse-by-clergy.md)
-_Context: Roman Catholic Diocese of San Diego, U.S. dollar, sexual abuse_
+_Context: Roman Catholic Diocese of San Diego, US$, sexual abuse_
 
 ### [ Hurricane Felix (2007): The death toll from Hurricane Felix rises to at least 130 in Nicaragua and Honduras. ](/news/2007/09/7/hurricane-felix-2007-the-death-toll-from-hurricane-felix-rises-to-at-least-130-in-nicaragua-and-honduras.md)
 The number of people killed when Hurricane Felix tore into the border area between Nicaragua and Honduras this week has jumped to at least 130, a Nicaraguan rescue official said.

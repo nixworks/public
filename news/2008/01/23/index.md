@@ -7,7 +7,7 @@ _Context: Miroslawiec, Poland, Polish Air Force_
 _Context: Scaled Composites, Scaled Composites SpaceShipTwo, Virgin Galactic's, spacecraft_
 
 ### [ Contractors for the Big Dig project pay $400 million to settle a lawsuit from the Massachusetts government over a fatal tunnel collapse and associated flaws. ](/news/2008/01/23/contractors-for-the-big-dig-project-pay-400-million-to-settle-a-lawsuit-from-the-massachusetts-government-over-a-fatal-tunnel-collapse-and.md)
-_Context: Big Dig, Contractors, Massachusetts, U.S. dollar, associated flaws, fatal tunnel collapse, lawsuit_
+_Context: Big Dig, Contractors, Massachusetts, US$, associated flaws, fatal tunnel collapse, lawsuit_
 
 ### [ January 2008 stock market downturn: Asian stock markets recover, with the Hong Kong Hang Seng Index rising 10.7% and the Mumbai BSE Sensex rising 5.2%, but European markets are still weak, with the London FTSE 100 Index, the Paris CAC 40 and the Frankfurt DAX all posting significant losses. ](/news/2008/01/23/january-2008-stock-market-downturn-p-asian-stock-markets-recover-with-the-hong-kong-hang-seng-index-rising-10-7-and-the-mumbai-bse-sensex.md)
 _Context: Asia, BSE Sensex, CAC 40, DAX, Europe, FTSE 100 Index, Hang Seng Index, January 2008 stock market downturn_

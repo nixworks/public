@@ -12,7 +12,7 @@ President Rodrigo Duterte says ransom has been paid for Norwegian hostage Kjarta
 
 ### Related:
 
-1. [Abu Sayyaf frees a Norwegian hostage for a ransom of [?]30 million (US$638,000) and releases three kidnapped Indonesians from Sabah. ](/news/2016/09/17/abu-sayyaf-frees-a-norwegian-hostage-for-a-ransom-of-a-30-million-us-638-000-and-releases-three-kidnapped-indonesians-from-sabah.md) _Context: Abu Sayyaf, Norway, U.S. dollar_
+1. [Abu Sayyaf frees a Norwegian hostage for a ransom of [?]30 million (US$638,000) and releases three kidnapped Indonesians from Sabah. ](/news/2016/09/17/abu-sayyaf-frees-a-norwegian-hostage-for-a-ransom-of-a-30-million-us-638-000-and-releases-three-kidnapped-indonesians-from-sabah.md) _Context: Abu Sayyaf, Norway, US$_
 2. [The Abu Sayyaf militant group threatens to behead a Canadian hostage, a Filipina hostage, and a Norwegian hostage. ](/news/2016/05/4/the-abu-sayyaf-militant-group-threatens-to-behead-a-canadian-hostage-a-filipina-hostage-and-a-norwegian-hostage.md) _Context: Abu Sayyaf, Norway, Philippines_
 3. [A Filipino lawyer files a complaint of "mass murder and crimes against humanity" against Philippines president Rodrigo Duterte and eleven other officials at the International Criminal Court in The Hague, Netherlands. ](/news/2017/04/24/a-filipino-lawyer-files-a-complaint-of-mass-murder-and-crimes-against-humanity-against-philippines-president-rodrigo-duterte-and-eleven-ot.md) _Context: Philippines, Rodrigo Duterte_
 4. [The Abu Sayyaf militant group beheads their German hostage Jurgen Kantner in Indanan, Philippines. ](/news/2017/02/27/the-abu-sayyaf-militant-group-beheads-their-german-hostage-jurgen-kantner-in-indanan-philippines.md) _Context: Abu Sayyaf, Philippines_

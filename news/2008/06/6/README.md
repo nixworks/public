@@ -19,13 +19,13 @@ _Context: Ainu, Diet, indigenous_
 _Context: Our Ukraine Bloc, Verkhovna Rada, opposition party_
 
 ### [ The America's Climate Security Act of 2007, a greenhouse gas emissions reduction bill, stalls in the U.S. Senate after a 48-36 vote fails to invoke cloture on a Republican filibuster. Presidential candidates John McCain and Barack Obama were among six senators absent from the vote who expressed support for the bill. ](/news/2008/06/6/the-america-s-climate-security-act-of-2007-a-greenhouse-gas-emissions-reduction-bill-stalls-in-the-u-s-senate-after-a-48-36-vote-fails-t.md)
-_Context: 2008, America's Climate Security Act of 2007, John McCain, Obama, R, United States Senate, cloture, filibuster_
+_Context: 2008, America's Climate Security Act of 2007, Barack Obama, John McCain, R, United States Senate, cloture, filibuster_
 
 ### [ A rush-hour explosion targeting a bus in Colombo, Sri Lanka kills at least 21 people and injures 80. ](/news/2008/06/6/a-rush-hour-explosion-targeting-a-bus-in-colombo-sri-lanka-kills-at-least-21-people-and-injures-80.md)
 _Context: Colombo, Sri Lanka_
 
 ### [ The price of a barrel of crude oil rises a single-day record of nearly US$11, settling at a new record of US$138.54. ](/news/2008/06/6/the-price-of-a-barrel-of-crude-oil-rises-a-single-day-record-of-nearly-us-11-settling-at-a-new-record-of-us-138-54.md)
-_Context: U.S. dollar, crude oil_
+_Context: US$, crude oil_
 
 ### [ Joseph Muscat becomes the leader of the Malta Labour Party, to become the opposition leader of Malta, to take the place of Charles Mangion, after the resignation of  Alfred Sant. ](/news/2008/06/6/joseph-muscat-becomes-the-leader-of-the-malta-labour-party-to-become-the-opposition-leader-of-malta-to-take-the-place-of-charles-mangion.md)
 (Adds further comments by Dr Muscat and video) New Labour leader Joseph Muscat had an informal meeting with the Prime Minister this morning when it was agreed that issues such as parliamentary business, including pairing, will be discussed once the MLP completes the election of its deputy leaders...

@@ -10,7 +10,7 @@ Hussain and his wife, Sally Jones, from Kent, had been dubbed &#039;Mr and Mrs T
 The Zoo announced on August 26 that the smaller of its newborn twin panda cubs has died
 
 ### [The U.S. Army awards the $6.7 billion contract for the Joint Light Tactical Vehicle, the replacement for the Humvee, to the Wisconsin-based company Oshkosh Corporation. ](/news/2015/08/26/the-u-s-army-awards-the-6-7-billion-contract-for-the-joint-light-tactical-vehicle-the-replacement-for-the-humvee-to-the-wisconsin-based.md)
-_Context: Joint Light Tactical Vehicle, Oshkosh Corporation, Oshkosh L-ATV, U.S. Army, U.S. dollar, Wisconsin, military Humvee_
+_Context: Joint Light Tactical Vehicle, Oshkosh Corporation, Oshkosh L-ATV, U.S. Army, US$, Wisconsin, military Humvee_
 
 ### [A Swedish rescue crew finds 51 dead migrants in the hold of a boat off the coast of Libya during a rescue operation in the Mediterranean Sea that has saved 439 other people. In addition, three women are found dead in another migrant boat and another corpse is found during ten rescue operations on Wednesday that have saved around 3,000 people, according to the Italian coast guard. ](/news/2015/08/26/a-swedish-rescue-crew-finds-51-dead-migrants-in-the-hold-of-a-boat-off-the-coast-of-libya-during-a-rescue-operation-in-the-mediterranean-sea.md)
 Some 50 migrants were found dead inthe hold of a boat off the coast of Libya on Wednesday during arescue operation which saved 430 other people, the Italian coastguard said.

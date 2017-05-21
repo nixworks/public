@@ -28,7 +28,7 @@ _Context: International Monetary Fund, Philippines_
 Wells Fargo & Co, the fourth-largest U.S. bank by assets, is looking tomove some jobs outside the United States as it pushes forwardwith a company-wide cost-cutting program, a spokeswoman said onWednesday.
 
 ### [WikiLeaks editor-in-chief Julian Assange gives an interview on Australian radio as his attempt to gain political asylum in Ecuador continues. ](/news/2012/06/22/wikileaks-editor-in-chief-julian-assange-gives-an-interview-on-australian-radio-as-his-attempt-to-gain-political-asylum-in-ecuador-continues.md)
-_Context: Ecuador, Julian Assange, Wikileaks_
+_Context: Ecuador, Julian Assange, WikiLeaks_
 
 ### [South China Sea dispute:China criticizes Vietnam for passing a law that claims sovereignty of the Spratly Islands. ](/news/2012/06/22/south-china-sea-dispute-pchina-criticizes-vietnam-for-passing-a-law-that-claims-sovereignty-of-the-spratly-islands.md)
 _Context: China, South China Sea dispute, Spratly Islands, Vietnam_

@@ -49,7 +49,7 @@ Sudan has asked Interpol to arrest Khalil Ibrahim, chief of JEM wherever he migh
 New York Daily NewsThe scene at the corner of W 45th St. and Broadway in the heart of Times Square New York, NY, where a car was found last month that contained cans of flammable liquid and other explosive devices.BOSTON...
 
 ### [The U.S. state of Hawaii enacts a law permitting officials to ignore multiple attempts by the same person to view the birth certificate of President of the United States Barack Obama. ](/news/2010/05/13/the-u-s-state-of-hawaii-enacts-a-law-permitting-officials-to-ignore-multiple-attempts-by-the-same-person-to-view-the-birth-certificate-of-p.md)
-_Context: Hawaii, Obama, President, state_
+_Context: Barack Obama, Hawaii, U.S. President, state_
 
 ## [Previous Day...](/news/2010/05/12/index.md)
 

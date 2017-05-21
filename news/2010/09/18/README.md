@@ -31,7 +31,7 @@ _Context: Ghana, Zagyuri, truck_
 _Context: German, Warngau, air show, airplane_
 
 ### [The President of Iran Mahmoud Ahmadinejad meets with the President of Algeria Abdelaziz Bouteflika in Algiers to discuss trade agreements. ](/news/2010/09/18/the-president-of-iran-mahmoud-ahmadinejad-meets-with-the-president-of-algeria-abdelaziz-bouteflika-in-algiers-to-discuss-trade-agreements.md)
-_Context: Abdelaziz Bouteflika, Algiers, Mahmoud Ahmadinejad, President, President of Iran, trade_
+_Context: Abdelaziz Bouteflika, Algiers, Mahmoud Ahmadinejad, President, President, trade_
 
 ### [Iranian human rights activist Shiva Nazar Ahari is convicted of gathering and plotting to commit crimes against the Iranian state, propaganda against the establishment and waging war against God. ](/news/2010/09/18/iranian-human-rights-activist-shiva-nazar-ahari-is-convicted-of-gathering-and-plotting-to-commit-crimes-against-the-iranian-state-propagand.md)
 Shiva Nazar Ahari sentenced to six years in prison for plotting crimes against state and waging war against God.

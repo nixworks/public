@@ -13,7 +13,7 @@ Osama bin Laden is not in Afghanistan, President Hamid Karzai says.
 _Context: Belgrade, Sava Center, Serbia, Serbian, Yugoslav Wars, documentary, war crime_
 
 ### [ World leaders at the 31st G8 summit in Gleneagles, Scotland pledge 50 billion USD in aid to fight poverty in Africa ](/news/2005/07/9/world-leaders-at-the-31st-g8-summit-in-gleneagles-scotland-pledge-50-billion-usd-in-aid-to-fight-poverty-in-africa.md)
-_Context: 31st G8 summit, Gleneagles, U.S. dollar, international aid, poverty_
+_Context: 31st G8 summit, Gleneagles, US$, international aid, poverty_
 
 ## [Previous Day...](/news/2005/07/8/index.md)
 

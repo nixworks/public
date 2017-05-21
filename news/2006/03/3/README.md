@@ -1,7 +1,7 @@
 ## [2006-03-3](/news/2006/03/3/index.md)
 
 ### [ Research In Motion, a Waterloo, Ontario, Canadian based company, agrees to pay NTP Inc. $612.5 million to settle NTP's patent-infringement suit against RIM. NTP had argued RIM's BlackBerry wireless-communication devices use technology patented by NTP. ](/news/2006/03/3/research-in-motion-a-waterloo-ontario-canadian-based-company-agrees-to-pay-ntp-inc-612-5-million-to-settle-ntp-s-patent-infringement.md)
-_Context: BlackBerry, Canadian, NTP Inc., Research in Motion, U.S. dollar, Waterloo, Ontario, patent_
+_Context: BlackBerry, Canadian, NTP Inc., Research in Motion, US$, Waterloo, Ontario, patent_
 
 ### [ The ruling African National Congress takes 66% of the votes in the 2006 South African municipal election. Voter turnout was 46%. No party in the City of Cape Town claims an outright majority. ](/news/2006/03/3/the-ruling-african-national-congress-takes-66-of-the-votes-in-the-2006-south-african-municipal-election-voter-turnout-was-46-no-party-i.md)
 _Context: 2006 South African municipal election, African National Congress, City of Cape Town, party_

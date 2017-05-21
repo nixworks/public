@@ -13,7 +13,7 @@ _Context: Mozambique, Zambezi River_
 _Context: Arizona, Jefferson Hotel, John McCain, R, Richmond, Virginia, U.S., United States Senate, Virginia Supreme Court_
 
 ### [ Iranian President Mahmoud Ahmadinejad states in an interview that Iran does not fear the U.S. and that any foreign attack would be "severely punished". ](/news/2007/02/12/iranian-president-mahmoud-ahmadinejad-states-in-an-interview-that-iran-does-not-fear-the-u-s-and-that-any-foreign-attack-would-be-severel.md)
-_Context: Iran, Mahmoud Ahmadinejad, President of Iran, U.S._
+_Context: Iran, Mahmoud Ahmadinejad, President, U.S._
 
 ### [ United States Assistant Secretary of State for East Asian and Pacific Affairs, Christopher R. Hill, announces that tentative agreement has been reached over North Korean nuclear disarmament pending review by the signatories. ](/news/2007/02/12/united-states-assistant-secretary-of-state-for-east-asian-and-pacific-affairs-christopher-r-hill-announces-that-tentative-agreement-has.md)
 _Context: Assistant Secretary of State for East Asian and Pacific Affairs, Christopher R. Hill, North Korea, U.S._
@@ -52,7 +52,7 @@ _Context: Central Bank of China, Chen Shui-bian, China, China Shipbuilding Corpo
 _Context: Arrow missile, Israel, Israeli security guard_
 
 ### [ Australian Prime Minister John Howard criticizes U.S. Senator Barack Obama (D-IL) for his stance on Iraq, saying that al-Qaeda in Iraq should be praying for Obama to win the election. The opposition Australian Labor Party says that Howard's statement imperiled the relationship Australia might have with the United States under a Democratic administration. ](/news/2007/02/12/australian-prime-minister-john-howard-criticizes-u-s-senator-barack-obama-d-il-for-his-stance-on-iraq-saying-that-al-qaeda-in-iraq-shou.md)
-_Context: 2008, Australia, D, Illinois, Iraq, John Howard, Labor Party, Obama, Prime Minister of Australia, U.S., United States Senate, al-Qaeda in Iraq, opposition party, relationship_
+_Context: 2008, Australia, Barack Obama, D, Illinois, Iraq, John Howard, Labor Party, Prime Minister of Australia, U.S., United States Senate, al-Qaeda in Iraq, opposition party, relationship_
 
 ## [Previous Day...](/news/2007/02/11/index.md)
 

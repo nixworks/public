@@ -13,7 +13,7 @@ Two bombings hit a police convoy Sunday in a town in southern Russia near Chechn
 _Context: Armenia, Yerevan, presidential election, violent protests_
 
 ### [ President of Iran Mahmoud Ahmadinejad arrives in Baghdad for the first state visit to Iraq by an Iranian president since the Iran-Iraq War. ](/news/2008/03/2/president-of-iran-mahmoud-ahmadinejad-arrives-in-baghdad-for-the-first-state-visit-to-iraq-by-an-iranian-president-since-the-iran-iraq-war.md)
-_Context: Baghdad, Iran, Iran-Iraq War, Iraq, Mahmoud Ahmadinejad, President of Iran_
+_Context: Baghdad, Iran, Iran-Iraq War, Iraq, Mahmoud Ahmadinejad, President_
 
 ### [ Russian voters go to the polls to decide the country's next president. Dmitry Medvedev of the United Russia wins the election and is expected to succeed Vladimir Putin as the President of Russia. ](/news/2008/03/2/russian-voters-go-to-the-polls-to-decide-the-country-s-next-president-dmitry-medvedev-of-the-united-russia-wins-the-election-and-is-expect.md)
 There&#039;s a new doll on the block. The familiar frowning face of Vladimir Putin is no longer the &quot;outside&quot; shell of the matryoshka sets on St Petersburg&#039;s souvenir stalls. His usurper is a dark-haired, less well-defined character named Dmitry Medvedev.

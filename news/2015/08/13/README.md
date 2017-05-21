@@ -19,7 +19,7 @@ _Context: the explosions last year_
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [Swedish prosecutors drop some charges against Wikileaks founder Julian Assange as the statute of limitations expire but will continue to investigate rape claims. ](/news/2015/08/13/swedish-prosecutors-drop-some-charges-against-wikileaks-founder-julian-assange-as-the-statute-of-limitations-expire-but-will-continue-to-inv.md)
-_Context: Assange v Swedish Prosecution Authority, Julian Assange, Swedish, Wikileaks_
+_Context: Assange v Swedish Prosecution Authority, Julian Assange, Swedish, WikiLeaks_
 
 ### [Al-Qaeda leader Ayman al-Zawahiri pledges allegiance to the new Taliban chief Akhter Mansour in an audio message posted online. ](/news/2015/08/13/al-qaeda-leader-ayman-al-zawahiri-pledges-allegiance-to-the-new-taliban-chief-akhter-mansour-in-an-audio-message-posted-online.md)
 Al-Qaeda leader Ayman al-Zawahiri pledges allegiance to the new Afghan Taliban chief in his first audio message in nearly a year.

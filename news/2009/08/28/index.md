@@ -19,7 +19,7 @@ _Context: Guantanamo Bay detention camp, Transport Canada, detainees, dousing, s
 _Context: Japan, unemployment rate_
 
 ### [ Iceland's Althing votes in favour of repaying more than US$5 billion owed to the governments of the Netherlands and the United Kingdom as a result of the collapse of the Icesave bank. ](/news/2009/08/28/iceland-s-althing-votes-in-favour-of-repaying-more-than-us-5-billion-owed-to-the-governments-of-the-netherlands-and-the-united-kingdom-as-a.md)
-_Context: Iceland, Icesave, Netherlands, U.S. dollar, United Kingdom, parliament (Althing)_
+_Context: Iceland, Icesave, Netherlands, US$, United Kingdom, parliament (Althing)_
 
 ### [ The Los Angeles County coroner rules that American entertainer and musician Michael Jackson's death was a homicide caused by acute intoxication from the drug propofol. ](/news/2009/08/28/the-los-angeles-county-coroner-rules-that-american-entertainer-and-musician-michael-jackson-s-death-was-a-homicide-caused-by-acute-intoxica.md)
 _Context: Los Angeles County, California, Michael Jackson, U.S., coronial, death, drug, homicide, intoxication, propofol_
@@ -37,7 +37,7 @@ Fresh fighting has erupted between Myanmar forces and an armed ethnic group in t
 _Context: Iran, North Korea, United Arab Emirates, United Nations, United Nations Security Council, sanctions_
 
 ### [ Iranian President Mahmoud Ahmadinejad calls for opposition leaders to be punished over election protests which occurred earlier this year. ](/news/2009/08/28/iranian-president-mahmoud-ahmadinejad-calls-for-opposition-leaders-to-be-punished-over-election-protests-which-occurred-earlier-this-year.md)
-_Context: Iran, Mahmoud Ahmadinejad, President of Iran, protests against the regime_
+_Context: Iran, Mahmoud Ahmadinejad, President, protests against the regime_
 
 ### [ NASA launches the 103 (STS-128) for a resupply and crew rotation mission to the International Space Station. The mission will also deliver the Multi-Purpose Logistics Module Leonardo.  This is Discovery's 37th flight and will celebrate the 25th anniversary of its first flight during the mission. ](/news/2009/08/28/nasa-launches-the-103-sts-128-for-a-resupply-and-crew-rotation-mission-to-the-international-space-station-the-mission-will-also-deliver.md)
 Space shuttle Discovery has launched on a mission to deliver new science equipme..

@@ -10,7 +10,7 @@ _Context: Washington Metro, Washington, D.C._
 _Context: Democratic Republic of the Congo, Goma, Kivu conflict, Laurent Nkunda, Tutsi_
 
 ### [ Nine major US banks will receive a $US123 billion capital injection from the federal government, says a Treasury Department official. ](/news/2008/10/27/nine-major-us-banks-will-receive-a-us123-billion-capital-injection-from-the-federal-government-says-a-treasury-department-official.md)
-_Context: U.S. dollar, United States Department of the Treasury, United States government_
+_Context: US$, United States Department of the Treasury, United States government_
 
 ### [ Line m2 of the Lausanne Metro starts revenue service, making Lausanne, Switzerland, the smallest city in the world to have a metro system. ](/news/2008/10/27/line-m2-of-the-lausanne-metro-starts-revenue-service-making-lausanne-switzerland-the-smallest-city-in-the-world-to-have-a-metro-system.md)
 _Context: Lausanne, Lausanne Metro, Swiss_
@@ -19,7 +19,7 @@ _Context: Lausanne, Lausanne Metro, Swiss_
 _Context: BBC, Pakistan, South Waziristan_
 
 ### [ Two Neo-Nazi white supremacists are arrested for plotting to assassinate US presidential candidate Barack Obama. ](/news/2008/10/27/two-neo-nazi-white-supremacists-are-arrested-for-plotting-to-assassinate-us-presidential-candidate-barack-obama.md)
-_Context: 2008, Obama, White supremacist, neo-Nazi, plotting to assassinate_
+_Context: 2008, Barack Obama, White supremacist, neo-Nazi, plotting to assassinate_
 
 ### [ Georgian President Mikheil Saakashvili dismisses Prime Minister Lado Gurgenidze, and nominates Grigol Mgaloblishvili as the country's new prime minister, following the 2008 South Ossetian war. ](/news/2008/10/27/georgian-president-mikheil-saakashvili-dismisses-prime-minister-lado-gurgenidze-and-nominates-grigol-mgaloblishvili-as-the-country-s-new-p.md)
 _Context: 2008 South Ossetian war, Grigol Mgaloblishvili, Lado Gurgenidze, Saakashvili_

@@ -1,6 +1,6 @@
 ### [2017-05-20](/news/2017/05/20/index.md)
 
-# The death toll from an attack on a Libyan National Army-controlled airbase in southern Libya, reportedly rises to 140 people. 
+# The death toll from an attack on a Libyan National Army-controlled airbase in southern Libya reportedly rises to 140 people. 
 
 Most of those reportedly killed are linked to a faction allied to self-styled general Khalifa Haftar.
 

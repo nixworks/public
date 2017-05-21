@@ -34,7 +34,7 @@ _Context: Brian Mulroney, Canada, Canadian Prime Minister, Karlheinz Schreiber, 
 _Context: India, India's Prime Minister, Indian National Congress, Manmohan Singh, becomes_
 
 ### [ Brazilian oil company Petrobras and the People's Republic of China finalize a US$10-billion agreement. ](/news/2009/05/19/brazilian-oil-company-petrobras-and-the-people-s-republic-of-china-finalize-a-us-10-billion-agreement.md)
-_Context: Brazil, People's Republic of China, Petrobras, U.S. dollar, petroleum industry_
+_Context: Brazil, People's Republic of China, Petrobras, US$, petroleum industry_
 
 ### [ The European Parliament requests that Spain reform its planning laws. ](/news/2009/05/19/the-european-parliament-requests-that-spain-reform-its-planning-laws.md)
 _Context: European Parliament, Spain, reform_

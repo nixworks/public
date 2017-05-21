@@ -4,7 +4,7 @@
 _Context: Donetsk, Ukrainians, War in Donbass_
 
 ### [Information technology company Cognizant agrees to buy health care information company TriZetto Corporation for US$2.7 billion. ](/news/2014/09/15/information-technology-company-cognizant-agrees-to-buy-health-care-information-company-trizetto-corporation-for-us-2-7-billion.md)
-_Context: Cognizant, U.S. dollar_
+_Context: Cognizant, US$_
 
 ### [Microsoft agrees to buy Swedish company Mojang, the makers of Minecraft, for US$2.5 billion. ](/news/2014/09/15/microsoft-agrees-to-buy-swedish-company-mojang-the-makers-of-minecraft-for-us-2-5-billion.md)
 _Context: Microsoft, Minecraft, Mojang, Swede_

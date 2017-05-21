@@ -28,16 +28,16 @@ The flight from Fort Lauderdale to Santa Clara in central Cuba on Wednesday morn
 MANILA -- China must cease all provocations in the South China Sea before the Philippines will agree to bilateral talks, Philippine Secretary of Forei
 
 ### [Mexico-United States relations U.S. Republican presidential nominee Donald Trump meets with Mexican President Enrique Pena Nieto in Mexico City after accepting an invitation from him. ](/news/2016/08/31/mexicoaunited-states-relations-pu-s-republican-presidential-nominee-donald-trump-meets-with-mexican-president-enrique-pea-a-nieto-in-mexi.md)
-_Context: 2016 U.S. presidential election, Enrique Pena Nieto, Mexico City, Mexico-United States relations, President, R, Trump_
+_Context: 2016 U.S. presidential election, Donald Trump, Enrique Pena Nieto, Mexico City, Mexico-United States relations, President, R_
 
 ### [Singer Chris Brown is released on a US$ 250,000 bail for an assault charge. ](/news/2016/08/31/singer-chris-brown-is-released-on-a-us-250-000-bail-for-an-assault-charge.md)
-_Context: Chris Brown, U.S. dollar_
+_Context: Chris Brown, US$_
 
 ### [More than 2,000 people have reportedly died in the Philippine Drug War. ](/news/2016/08/31/more-than-2-000-people-have-reportedly-died-in-the-philippine-drug-war.md)
 The wave of killings unleashed since President Duterte came to power has alarmed rights groups and brought expressions of concern from the US, a close ally.
 
 ### [President of Brazil Dilma Rousseff is removed from office by a vote of 61-20 in the Senate. Current Acting President Michel Temer will serve out the remainder of her term, which ends January 1, 2019. ](/news/2016/08/31/president-of-brazil-dilma-rousseff-is-removed-from-office-by-a-vote-of-61a20-in-the-senate-current-acting-president-michel-temer-will-ser.md)
-_Context: Dilma Rousseff, Michel Temer, impeachment of former president Dilma Rousseff_
+_Context: Dilma, Michel Temer, impeachment of former president Dilma Rousseff_
 
 ### [Ali Bongo is re-elected President of Gabon. ](/news/2016/08/31/ali-bongo-is-re-elected-president-of-gabon.md)
 Photos of protests in Gabon emerge after election results were released Wednesday.

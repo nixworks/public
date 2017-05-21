@@ -19,7 +19,7 @@ _Context: 2007 Atlantic hurricane season, Gulf of Mexico, Lorenzo, Mexico, hurri
 A teenager accused of assaulting a white schoolmate in a small Louisiana town was freed on bail on Thursday, one week after African-Americans staged a major protest in the town over the case.
 
 ### [ Donor countries promise $9.7 billion to The Global Fund to Fight AIDS, Tuberculosis and Malaria. ](/news/2007/09/27/donor-countries-promise-9-7-billion-to-the-global-fund-to-fight-aids-tuberculosis-and-malaria.md)
-_Context: The Global Fund to Fight AIDS, Tuberculosis and Malaria, U.S. dollar_
+_Context: The Global Fund to Fight AIDS, Tuberculosis and Malaria, US$_
 
 ### [ Four employees of the International Red Cross, including two foreigners, are abducted in Afghanistan's Wardak province. ](/news/2007/09/27/four-employees-of-the-international-red-cross-including-two-foreigners-are-abducted-in-afghanistan-s-wardak-province.md)
 _Context: Afghanistan, International Red Cross, Wardak province_

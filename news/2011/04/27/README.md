@@ -55,7 +55,7 @@ Rival Palestinian groups announce signing of initial agreement ending four-year-
 _Context: Premier of China, South-East Asia, Wen Jiabao_
 
 ### [Daniel Ellsberg, the man who released the Pentagon Papers, says U.S. president Barack Obama has "given a virtual directed verdict" of guilty in the case of imprisoned Welsh-born U.S. serviceman Bradley Manning after Obama is caught on camera accusing Manning of breaking the law. ](/news/2011/04/27/daniel-ellsberg-the-man-who-released-the-pentagon-papers-says-u-s-president-barack-obama-has-given-a-virtual-directed-verdict-of-guilty.md)
-_Context: Bradley Manning, Daniel Ellsberg, Obama, Pentagon Papers, Wales_
+_Context: Barack Obama, Bradley Manning, Daniel Ellsberg, Pentagon Papers, Wales_
 
 ### [Lobsang Sangay is elected as the Prime Minister of the Central Tibetan Administration, replacing the 5th Samdhong Rinpoche. ](/news/2011/04/27/lobsang-sangay-is-elected-as-the-prime-minister-of-the-central-tibetan-administration-replacing-the-5th-samdhong-rinpoche.md)
 _Context: Central Tibetan Administration, Lobsang Sangay, Prime Minister of the, the 5th Samdhong Rinpoche_
@@ -64,7 +64,7 @@ _Context: Central Tibetan Administration, Lobsang Sangay, Prime Minister of the,
 _Context: People Action Party, Singapore, election_
 
 ### [In response to persistent accusations by potential Republican primary candidate Donald Trump and others, President of the United States Barack Obama releases his long-form birth certificate, certifying his birth in the state of Hawaii. ](/news/2011/04/27/in-response-to-persistent-accusations-by-potential-republican-primary-candidate-donald-trump-and-others-president-of-the-united-states-bara.md)
-_Context: Barack Obama citizenship conspiracy theories, Hawaii, Obama, President, Trump, birth certificate, nomination_
+_Context: Barack Obama, Barack Obama citizenship conspiracy theories, Donald Trump, Hawaii, U.S. President, birth certificate, nomination_
 
 ### [Governor Brian Sandoval of Nevada appoints US Congressman Dean Heller to replace Senator John Ensign. ](/news/2011/04/27/governor-brian-sandoval-of-nevada-appoints-us-congressman-dean-heller-to-replace-senator-john-ensign.md)
 Republican Congressman Dean Heller is appointed to replace a Nevada senator who is resigning over an inquiry into his affair with an aide.

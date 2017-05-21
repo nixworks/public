@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [''Assange v Swedish Prosecution Authority''Swedish prosecutors drop a seven-year sexual assault investigation into Wikileaks founder Julian Assange. ](/news/2017/05/19/assange-v-swedish-prosecution-authority-pswedish-prosecutors-drop-a-seven-year-sexual-assault-investigation-into-wikileaks-founder-julian.md) _Context: Swedish_
+1. [''Assange v Swedish Prosecution Authority''Swedish prosecutors drop a seven-year sexual assault investigation into WikiLeaks founder Julian Assange. ](/news/2017/05/19/assange-v-swedish-prosecution-authority-pswedish-prosecutors-drop-a-seven-year-sexual-assault-investigation-into-wikileaks-founder-julian.md) _Context: Swedish_
 2. [At least 45 people have been killed and 50 injured in explosions near two Coptic Christian churches packed with worshippers on Palm Sunday in the Egyptian cities of Tanta and Alexandria. ](/news/2017/04/9/at-least-45-people-have-been-killed-and-50-injured-in-explosions-near-two-coptic-christian-churches-packed-with-worshippers-on-palm-sunday-i.md) _Context: Egypt_
 3. [A vehicle is driven into a group of people on a street in Stockholm, Sweden, killing four people. ](/news/2017/04/7/a-vehicle-is-driven-into-a-group-of-people-on-a-street-in-stockholm-sweden-killing-four-people.md) _Context: Swedish_
 4. [An Egyptian excavation team discovers the remains of a pyramid dating back 3,700 years to the thirteenth Dynasty of Egypt at the Dahshur necropolis 40km south of Cairo. ](/news/2017/04/3/an-egyptian-excavation-team-discovers-the-remains-of-a-pyramid-dating-back-3-700-years-to-the-thirteenth-dynasty-of-egypt-at-the-dahshur-nec.md) _Context: Egypt_

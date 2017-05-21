@@ -7,7 +7,7 @@ _Context: Chen Shui-bian, Guidelines for National Unification, National Unificat
 _Context: Bosnia and Herzegovina, Bosnian War, Bosnian genocide case at the ICJ, International Court of Justice, Serbia and Montenegro, UN, Yugoslavia_
 
 ### [ Securitas depot robbery: British police announce that the total amount of cash stolen in last Wednesday's Securitas depot robbery was GBP PS53 million (USD $92.6 million, EUR77.8 million). Five more people have been arrested in the last 24 hours and 10 properties searched in the ongoing investigation. ](/news/2006/02/27/securitas-depot-robbery-british-police-announce-that-the-total-amount-of-cash-stolen-in-last-wednesday-s-securitas-depot-robbery-was-gbp-a.md)
-_Context: PS, Securitas depot robbery, U.S. dollar, euro_
+_Context: PS, Securitas depot robbery, US$, euro_
 
 ### [ The United Nations World Food Programme says that it needs 11 million USD to be able to continue its Afghanistan operations to June this year.  "Poor and hungry schoolchildren who receive take-home rations of food as an incentive to attend school will receive at most half their usual ration and in some cases none at all", says the U.N. More than 50% of the nation's children are malnourished.  ](/news/2006/02/27/the-united-nations-world-food-programme-says-that-it-needs-11-million-usd-to-be-able-to-continue-its-afghanistan-operations-to-june-this-ye.md)
 _Context: Afghanistan, United Nations, World Food Programme_

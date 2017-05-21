@@ -16,7 +16,7 @@ _Context: All-Ireland Senior Camogie Championship 2009, Cork, Kilkenny_
 _Context: Kampala, Uganda_
 
 ### [ Brazilian President Luiz Incio Lula da Silva heavily criticises the "rich countries", the G8 and other international bodies over the global economic crisis. ](/news/2009/09/13/brazilian-president-luiz-inacio-lula-da-silva-heavily-criticises-the-rich-countries-the-g8-and-other-international-bodies-over-the-globa.md)
-_Context: Brazil, Brazilian President, G8 group of nations, Luiz Incio Lula da Silva_
+_Context: Brazil, G8 group of nations, Luiz Incio Lula da Silva, President_
 
 ### [ German Chancellor Angela Merkel appears with her main rival, Frank-Walter Steinmeier, in a TV debate, two weeks ahead of an election. ](/news/2009/09/13/german-chancellor-angela-merkel-appears-with-her-main-rival-frank-walter-steinmeier-in-a-tv-debate-two-weeks-ahead-of-an-election.md)
 _Context: Angela Merkel's, Frank-Walter Steinmeier, German Chancellor_

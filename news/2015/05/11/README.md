@@ -31,7 +31,7 @@ _Context: Avian flu virus, H5N8, U.S., Whitley County, Indiana, poultry_
 _Context: Bangladesh, Indonesian Navy, Malaysia, Rohingya minority_
 
 ### [The Swedish Supreme Court rejects a bid from Wikileaks founder Julian Assange to revoke the warrant for his detention in 2010. ](/news/2015/05/11/the-swedish-supreme-court-rejects-a-bid-from-wikileaks-founder-julian-assange-to-revoke-the-warrant-for-his-detention-in-2010.md)
-_Context: Julian Assange, Swedish Supreme Court, Wikileaks_
+_Context: Julian Assange, Swedish Supreme Court, WikiLeaks_
 
 ### [George Zimmerman is involved in a shooting incident in Lake Mary, Florida, and suffers a minor gunshot wound. ](/news/2015/05/11/george-zimmerman-is-involved-in-a-shooting-incident-in-lake-mary-florida-and-suffers-a-minor-gunshot-wound.md)
 _Context: George Zimmerman, Lake Mary, Florida_

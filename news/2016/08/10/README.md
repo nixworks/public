@@ -19,7 +19,7 @@ The maternity hospital was hit by a blaze early on Wednesday, causing tragedy fo
 A law in Belize criminalizing same-sex intimacy was ruled unconstitutional on Wednesday by the country&#x27;s Supreme Court.
 
 ### [Brazil's Federal Senate votes 59 to 21 to indict suspended President Dilma Rousseff on charges of breaking budget laws and put her on trial. ](/news/2016/08/10/brazil-s-federal-senate-votes-59-to-21-to-indict-suspended-president-dilma-rousseff-on-charges-of-breaking-budget-laws-and-put-her-on-trial.md)
-_Context: Brazil, Brazilian President, Dilma Rousseff, Impeachment process against Dilma Rousseff, Senate_
+_Context: Brazil, Dilma, Impeachment process against Dilma Rousseff, President, Senate_
 
 ## [Previous Day...](/news/2016/08/9/index.md)
 

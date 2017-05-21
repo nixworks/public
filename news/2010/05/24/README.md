@@ -40,7 +40,7 @@ A Kenyan appeal court rules that Islamic courts are illegal and discriminatory u
 _Context: Niger, university degree_
 
 ### [President of Iran Mahmoud Ahmadinejad is met with protests during a speech in Khorramshahr. ](/news/2010/05/24/president-of-iran-mahmoud-ahmadinejad-is-met-with-protests-during-a-speech-in-khorramshahr.md)
-_Context: Khorramshahr, Mahmoud Ahmadinejad, President of Iran_
+_Context: Khorramshahr, Mahmoud Ahmadinejad, President_
 
 ### [The International Monetary Fund says "far-reaching" reforms are vital for Spain's economy. ](/news/2010/05/24/the-international-monetary-fund-says-far-reaching-reforms-are-vital-for-spain-s-economy.md)
 _Context: International Monetary Fund, Spain_

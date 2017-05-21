@@ -22,7 +22,7 @@ _Context: A line of wildfires, Spain_
 Prosecution given extra time to compile final arguments against Nobel prize winner.
 
 ### [ Iranian President Mahmoud Ahmadinejad is urged to dismiss his choice of Vice President, Esfandiar Rahim Mashaei. ](/news/2009/07/24/iranian-president-mahmoud-ahmadinejad-is-urged-to-dismiss-his-choice-of-vice-president-esfandiar-rahim-mashaei.md)
-_Context: Esfandiar Rahim Mashaei, First Vice President, Iran, Mahmoud Ahmadinejad, President of Iran_
+_Context: Esfandiar Rahim Mashaei, First Vice President, Iran, Mahmoud Ahmadinejad, President_
 
 ### [ Aria Air Flight 1525 crashes in Mashhad, Iran, killing at least 17 people and injuring 19 of the 153 people on board. ](/news/2009/07/24/aria-air-flight-1525-crashes-in-mashhad-iran-killing-at-least-17-people-and-injuring-19-of-the-153-people-on-board.md)
 _Context: Aria Air, Flight 1525, Iran, Mashhad_

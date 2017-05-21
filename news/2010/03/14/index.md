@@ -31,7 +31,7 @@ _Context: 2010 Bahrain Grand Prix, Brazil, Felipe Massa, Fernando Alonso, Formul
 _Context: Andean Community of Nations, Chamber of Representatives, Colombian legislative election, 2010, Senate_
 
 ### [Brazilian President Luiz Incio Lula da Silva lands in Israel at the start of his Middle East tour of Palestine and Jordan before his visit to Iran. ](/news/2010/03/14/brazilian-president-luiz-inacio-lula-da-silva-lands-in-israel-at-the-start-of-his-middle-east-tour-of-palestine-and-jordan-before-his-visit.md)
-_Context: Brazil, Brazilian President, Iran, Israel, Jordan, Luiz Incio Lula da Silva, Middle East, Palestinian_
+_Context: Brazil, Iran, Israel, Jordan, Luiz Incio Lula da Silva, Middle East, Palestinian, President_
 
 ### [Earthquakes:A 6.6 magnitude earthquake hits central Japan with no reports of damage or casualties. ](/news/2010/03/14/earthquakes-pa-6-6-magnitude-earthquake-hits-central-japan-with-no-reports-of-damage-or-casualties.md)
 A strong earthquake hits off the eastern coast of central Japan, rattling buildings across a broad swath of the country, including Tokyo.

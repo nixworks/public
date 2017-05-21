@@ -71,7 +71,7 @@ An&#x20;armed&#x20;gang&#x20;has&#x20;kidnapped&#x20;about&#x20;20&#x20;Mexican&
 Wellington, Oct 3 (DPA) Former Fiji prime minister Mahendra Chaudhry has been arrested and charged with breaching public emergency regulations which bar...
 
 ### [Voters in Brazil go to the polls in a presidential election with a runoff election likely between Dilma Rousseff of the Workers' Party and Jose Serra of the Brazilian Social Democratic Party. ](/news/2010/10/3/voters-in-brazil-go-to-the-polls-in-a-presidential-election-with-a-runoff-election-likely-between-dilma-rousseff-of-the-workers-party-and-j.md)
-_Context: Brazil, Brazilian Social Democratic Party, Brazilian presidential election, Dilma Rousseff, Jose Serra, Workers' Party, runoff election_
+_Context: Brazil, Brazilian Social Democratic Party, Brazilian presidential election, Dilma, Jose Serra, Workers' Party, runoff election_
 
 ### [Voters in Bosnia and Herzegovina go to the polls in a general election. ](/news/2010/10/3/voters-in-bosnia-and-herzegovina-go-to-the-polls-in-a-general-election.md)
 Political stalemate likely to continue as voters are expected to cast their ballots largely along ethnic lines.

@@ -22,7 +22,7 @@ _Context: Broadway, OSHA, Spider-Man: Turn Off the Dark, occupational safety and
 * Keith Pardy to oversee 6-month transition * BlackBerry brand has lost ground under Pardy * Announcement comes weeks before expected Play
 
 ### [A report by the Government Accountability Office claims that the US Government could save $5.5 billion over the next 30 years by replacing dollar bills with coins. ](/news/2011/03/4/a-report-by-the-government-accountability-office-claims-that-the-us-government-could-save-5-5-billion-over-the-next-30-years-by-replacing-d.md)
-_Context: Government Accountability Office, Government of the United States, U.S. dollar_
+_Context: Government Accountability Office, Government of the United States, US$_
 
 ### [An earthquake occurs offshore near the Philippines city of Surigao causing property damage. ](/news/2011/03/4/an-earthquake-occurs-offshore-near-the-philippines-city-of-surigao-causing-property-damage.md)
 _Context: Philippines, Surigao City, earthquake_

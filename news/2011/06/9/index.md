@@ -40,7 +40,7 @@ _Context: Eritrea, United Kingdom, espionage, terrorism_
 _Context: Saudi Arabia_
 
 ### [Extradition of Cesare Battisti:Italian communist militant Cesare Battisti is freed from jail in Brazil after the Brazilian Constitutional Court rules against extraditing him to face charges in Italy. ](/news/2011/06/9/extradition-of-cesare-battisti-pitalian-communist-militant-cesare-battisti-is-freed-from-jail-in-brazil-after-the-brazilian-constitutional-c.md)
-_Context: Brazil, Cesare Battisti, Communist, Italian, Italian, Supreme Court Justice, extradited_
+_Context: Brazil, Cesare Battisti, Communist, Italian, Italian, Supreme Federal Court, extradited_
 
 ### [The Australian Federal Police are called in to quell another riot at the Christmas Island Immigration Reception and Processing Centre. ](/news/2011/06/9/the-australian-federal-police-are-called-in-to-quell-another-riot-at-the-christmas-island-immigration-reception-and-processing-centre.md)
 _Context: Christmas Island Immigration Reception and Processing Centre, police_

@@ -10,7 +10,7 @@ Israeli warships force Libyan-sponsored Amalthea to change course to El Arish po
 More than 60 people are taken to hospital after a suspected chlorine gas leak in Mumbai.
 
 ### [The United States discusses the arrest of Bradley Manning, accused of providing secret information about US military corruption to Wikileaks. ](/news/2010/07/14/the-united-states-discusses-the-arrest-of-bradley-manning-accused-of-providing-secret-information-about-us-military-corruption-to-wikileaks.md)
-_Context: U.S., Wikileaks, arrest of Bradley Manning_
+_Context: U.S., WikiLeaks, arrest of Bradley Manning_
 
 ### [India's Home Secretary G. K. Pillai states Pakistan's intelligence agency Inter-Services Intelligence (ISI) co-ordinated the 2008 Mumbai attacks. ](/news/2010/07/14/india-s-home-secretary-g-k-pillai-states-pakistan-s-intelligence-agency-inter-services-intelligence-isi-co-ordinated-the-2008-mumbai-att.md)
 _Context: 2008 Mumbai attacks, G. K. Pillai, India, Inter-Services Intelligence, Pakistan_

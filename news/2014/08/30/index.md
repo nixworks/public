@@ -34,7 +34,7 @@ Judith Collins has confirmed she is resigning as a Minister from Cabinet, with t
 _Context: Iowa, Jesse Benton, Kent Sorenson, Michele Bachmann, Mitch McConnell, Ron Paul, United States Senate Minority Leader, United States Senate election in Kentucky, 2014, United States presidential election, 2012, bribes_
 
 ### [Environmentalist Marina Silva widens a sudden lead in opinion polls over current president Dilma Rousseff to 10 percentage points. ](/news/2014/08/30/environmentalist-marina-silva-widens-a-sudden-lead-in-opinion-polls-over-current-president-dilma-rousseff-to-10-percentage-points.md)
-_Context: Dilma Rousseff, Marina Silva, re-election_
+_Context: Dilma, Marina Silva, re-election_
 
 ## [Previous Day...](/news/2014/08/29/index.md)
 

@@ -22,7 +22,7 @@ Turkey is preparing to take action against the Islamic State of Iraq and the Lev
 _Context: attorney general, car chase_
 
 ### [The Brazilian Senate votes (55-22) to begin the impeachment process against the President of Brazil Dilma Rousseff and suspend her from office while the trial takes place. ](/news/2016/05/12/the-brazilian-senate-votes-55-22-to-begin-the-impeachment-process-against-the-president-of-brazil-dilma-rousseff-and-suspend-her-from-offi.md)
-_Context: Brazilian President, Brazilian Senate, Dilma Rousseff, Impeachment process against Dilma Rousseff_
+_Context: Brazilian Senate, Dilma, Impeachment process against Dilma Rousseff, President_
 
 ### [Maryland state elections officials decertify the results of Baltimore's April 26, 2016, primary election because, for example, the number of ballots cast was hundreds more than the number of voters who checked in at polling places. ](/news/2016/05/12/maryland-state-elections-officials-decertify-the-results-of-baltimoreas-april-26-2016-primary-election-because-for-example-the-number.md)
 State elections administrator says the number of ballots cast was hundreds more than the number of voters who checked in at polling places.

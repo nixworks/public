@@ -40,7 +40,7 @@ _Context: Turkish, United Nations_
 Iraqi Prime Minister Nouri al-Maliki has called for the senior leaders from Iraq&#039;s bitterly divided communities to hold crisis talks aimed at saving his beleaguered national unity government.
 
 ### [ Mahmoud Ahmadinejad, the President of Iran, replaces his Oil Minister Kazem Vaziri-Hamaneh with Gholamhossein Nozari, head of the National Iranian Oil Company acting as his deputy. ](/news/2007/08/12/mahmoud-ahmadinejad-the-president-of-iran-replaces-his-oil-minister-kazem-vaziri-hamaneh-with-gholamhossein-nozari-head-of-the-national.md)
-_Context: Gholamhossein Nozari, Kazem Vaziri-Hamaneh, Mahmoud Ahmadinejad, National Iranian Oil Company, President of Iran, oil_
+_Context: Gholamhossein Nozari, Kazem Vaziri-Hamaneh, Mahmoud Ahmadinejad, National Iranian Oil Company, President, oil_
 
 ### [ Italian police uncover a secret plan to smuggle Russian weapons into Iraq. ](/news/2007/08/12/italian-police-uncover-a-secret-plan-to-smuggle-russian-weapons-into-iraq.md)
 _Context: Iraq, Italian, Russia, smuggle_

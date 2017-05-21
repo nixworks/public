@@ -58,7 +58,7 @@ Universal Studios in Los Angeles has unveiled its $200m (£137m) rebuilt outdoor
 France&#x20;will&#x20;host&#x20;the&#x20;European&#x20;Football&#x20;Championship&#x20;for&#x20;a&#x20;third&#x20;time&#x20;in&#x20;2016&#x20;after&#x20;defeating&#x20;rival&#x20;bids&#x20;by&#x20;Turkey&#x20;and&#x20;Italy&#x20;in&#x20;a&#x20;ceremony&#x20;attended&#x20;by&#x20;President&#x20;Nicolas&#x20;Sarkozy.
 
 ### [Joe Biden, Bill Clinton and Barack Obama give the United States men's national soccer team a presidential send-off to South Africa from the White House ahead of the 2010 FIFA World Cup. ](/news/2010/05/28/joe-biden-bill-clinton-and-barack-obama-give-the-united-states-men-s-national-soccer-team-a-presidential-send-off-to-south-africa-from-the.md)
-_Context: 2010 FIFA World Cup, Bill Clinton, Joe Biden, Obama, South Africa, United States men's national soccer team, White House_
+_Context: 2010 FIFA World Cup, Barack Obama, Bill Clinton, Joe Biden, South Africa, United States men's national soccer team, White House_
 
 ## [Previous Day...](/news/2010/05/27/index.md)
 

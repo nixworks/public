@@ -7,7 +7,7 @@ _Context: Cairo, Christians, Kosheh massacres, Upper Egypt, el-Kosheh_
 _Context: Christopher Rouse, Concert de Gaudi, German, Hamburg, classical guitar, concerto, orchestra_
 
 ### [The Hofstra Arena in Hempstead, New York opens. The arena hosted the final Presidential Debate of the 2008 United States presidential election between John McCain and Barack Obama, as well as, the second debate of the 2012 presidential election between Mitt Romney and Barack Obama, and the first debate of Hillary Clinton and Donald Trump of the 2016 election.](/news/2000/01/2/the-hofstra-arena-in-hempstead-new-york-opens-the-arena-hosted-the-final-presidential-debate-of-the-2008-united-states-presidential-electi.md)
-_Context: 2008 United States presidential election, 2016 U.S. presidential election, Hempstead, New York, Hillary Clinton, Hofstra Arena, John McCain, Mitt Romney, Obama, Trump, United States presidential election, 2012_
+_Context: 2008 United States presidential election, 2016 U.S. presidential election, Barack Obama, Donald Trump, Hempstead, New York, Hillary Clinton, Hofstra Arena, John McCain, Mitt Romney, United States presidential election, 2012_
 
 ### [Zebb Quinn, an American man who goes missing in Asheville, North Carolina. Quinn was 18 years old and working at a Walmart in Asheville when he disappeared. As of 2017, his case remains unsolved.](/news/2000/01/2/zebb-quinn-an-american-man-who-goes-missing-in-asheville-north-carolina-quinn-was-18-years-old-and-working-at-a-walmart-in-asheville-when.md)
 _Context: Asheville, North Carolina, Disappearance of Zebb Quinn_

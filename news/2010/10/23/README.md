@@ -4,7 +4,7 @@
 Over 50 people sustained bullet wounds as villagers protesting the governments attempt to acquire land for an army housing project clashed with security forces near the national capital. Angry villagers said they were forced to part with
 
 ### [Iraq War Logs: Julian Assange of Wikileaks tells a London news conference that the 400,000 classified U.S. military documents released to the general public yesterday reveal that the Iraq War is "a bloodbath on every corner". ](/news/2010/10/23/iraq-war-logs-julian-assange-of-wikileaks-tells-a-london-news-conference-that-the-400-000-classified-u-s-military-documents-released-to-th.md)
-_Context: Iraq War, Iraq War Logs, Julian Assange, London, Wikileaks_
+_Context: Iraq War, Iraq War Logs, Julian Assange, London, WikiLeaks_
 
 ### [There are clashes on the streets of Conakry after the second round of voting in the Guinean presidential election, due on 24 October, is deferred for the third time. ](/news/2010/10/23/there-are-clashes-on-the-streets-of-conakry-after-the-second-round-of-voting-in-the-guinean-presidential-election-due-on-24-october-is-def.md)
 _Context: Conakry, November's presidential poll_

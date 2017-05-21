@@ -7,10 +7,10 @@ Venezuelan President Hugo Chavez on Thursday threatened to stop selling oil to E
 _Context: Amarah, Iraqi security forces, Sadrist_
 
 ### [ An Alabama state judge upholds a fraud verdict against AstraZeneca Pharmaceuticals in a Medicaid drug pricing suit but reduces the value of damages to $160 million. ](/news/2008/06/19/an-alabama-state-judge-upholds-a-fraud-verdict-against-astrazeneca-pharmaceuticals-in-a-medicaid-drug-pricing-suit-but-reduces-the-value-of.md)
-_Context: Alabama, AstraZeneca, Medicaid, U.S. dollar_
+_Context: Alabama, AstraZeneca, Medicaid, US$_
 
 ### [ The President of Iran Mahmoud Ahmadinejad accuses the United States of plotting to kidnap and assassinate him during a visit to Iraq. ](/news/2008/06/19/the-president-of-iran-mahmoud-ahmadinejad-accuses-the-united-states-of-plotting-to-kidnap-and-assassinate-him-during-a-visit-to-iraq.md)
-_Context: Iraq, Mahmoud Ahmadinejad, President of Iran, U.S._
+_Context: Iraq, Mahmoud Ahmadinejad, President, U.S._
 
 ### [  A Congressional ethics panel is examining allegations that Democrat Senators Christopher Dodd of Connecticut (the sponsor of a major $300 billion housing bailout bill) and Kent Conrad of North Dakota received preferential loans by troubled mortgage lender Countrywide Financial Corp. ](/news/2008/06/19/a-congressional-ethics-panel-is-examining-allegations-that-democrat-senators-christopher-dodd-of-connecticut-the-sponsor-of-a-major-300.md)
 _Context: Christopher Dodd, Countrywide Financial Corp., Kent Conrad, bailout, housing crisis_

@@ -37,7 +37,7 @@ Burmese officials say they are releasing 69 political prisoners, including the g
 _Context: Australian Electoral Commission, High Court of Australia, Senate election, Western Australia_
 
 ### [The Brazilian Supreme Federal Court issues a long-time awaited order to arrest for bribery 12 former top officials who had served under ex-president Lula, in one of the nation's biggest corruption cases. ](/news/2013/11/15/the-brazilian-supreme-federal-court-issues-a-long-time-awaited-order-to-arrest-for-bribery-12-former-top-officials-who-had-served-under-ex-p.md)
-_Context: Brazil, Luiz Inacio Lula da Silva, Supreme Court Justice_
+_Context: Brazil, Lula, Supreme Federal Court_
 
 ## [Previous Day...](/news/2013/11/14/index.md)
 

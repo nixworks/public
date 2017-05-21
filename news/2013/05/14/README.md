@@ -25,7 +25,7 @@ _Context: Myanmar, Rohingya minority_
 Russia is expelling a US diplomat briefly detained in Moscow for allegedly trying to recruit a Russian intelligence officer, officials say.
 
 ### [The United States fines the Indian pharmaceutical company Ranbaxy Laboratories US$500 million after they are found guilty of selling adulterated drugs to the United States. ](/news/2013/05/14/the-united-states-fines-the-indian-pharmaceutical-company-ranbaxy-laboratories-us-500-million-after-they-are-found-guilty-of-selling-adulter.md)
-_Context: India, Ranbaxy Laboratories, U.S., U.S. dollar_
+_Context: India, Ranbaxy Laboratories, U.S., US$_
 
 ### [Convicted murderer, abortion physician Kermit Gosnell, in a plea bargain, trades away his appeals in exchange for a life sentence without the possibility of parole. ](/news/2013/05/14/convicted-murderer-abortion-physician-kermit-gosnell-in-a-plea-bargain-trades-away-his-appeals-in-exchange-for-a-life-sentence-without-th.md)
 _Context: Kermit Gosnell, abortion, physician_

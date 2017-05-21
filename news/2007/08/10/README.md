@@ -37,7 +37,7 @@ _Context: Congolese Labour Party, Denis Sassou Nguesso, President of the Republi
 Divers in Minneapolis found the remains of someone killed in the disaster, bringing the death toll in the collapse to as many as nine, with at least four others still missing.
 
 ### [ United States share markets finish slightly lower as a $38 billion injection from the Federal Reserve helps to stabilise the situation. ](/news/2007/08/10/united-states-share-markets-finish-slightly-lower-as-a-38-billion-injection-from-the-federal-reserve-helps-to-stabilise-the-situation.md)
-_Context: Federal Reserve, U.S., U.S. dollar_
+_Context: Federal Reserve, U.S., US$_
 
 ### [ The United Nations Security Council approves an enhanced role for the United Nations Assistance Mission in Iraq. ](/news/2007/08/10/the-united-nations-security-council-approves-an-enhanced-role-for-the-united-nations-assistance-mission-in-iraq.md)
 _Context: United Nations Assistance Mission in Iraq, United Nations Security Council_
@@ -67,7 +67,7 @@ _Context: Crandall Canyon mine, Huntington, Utah, miner_
 _Context: Queensland Legislative Assembly, councils_
 
 ### [ The Ugandan government announces plans to pay the "chronically poor" earning less than a dollar a day a poverty allowance of $10 a month. ](/news/2007/08/10/the-ugandan-government-announces-plans-to-pay-the-chronically-poor-earning-less-than-a-dollar-a-day-a-poverty-allowance-of-10-a-month.md)
-_Context: U.S. dollar, Uganda, poverty_
+_Context: US$, Uganda, poverty_
 
 ### [ Floods in Vietnam kill 43 people. ](/news/2007/08/10/floods-in-vietnam-kill-43-people.md)
 _Context: Vietnam, flood_

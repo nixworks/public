@@ -1,7 +1,7 @@
 ## [2009-03-26](/news/2009/03/26/index.md)
 
 ### [ United States President Barack Obama announces a new military strategy for the War in North-West Pakistan and the War in Afghanistan. ](/news/2009/03/26/united-states-president-barack-obama-announces-a-new-military-strategy-for-the-war-in-north-west-pakistan-and-the-war-in-afghanistan.md)
-_Context: Afghanistan, Khyber Pakhtunkhwa, Obama, Pakistan, President, U.S., War in Afghanistan (2001-present), War in North-West Pakistan, military strategy_
+_Context: Afghanistan, Barack Obama, Khyber Pakhtunkhwa, Pakistan, U.S., U.S. President, War in Afghanistan (2001-present), War in North-West Pakistan, military strategy_
 
 ### [ Franco-Russian mathematician Mikhail Gromov receives the 2009 Abel Prize.  ](/news/2009/03/26/franco-russian-mathematician-mikhail-gromov-receives-the-2009-abel-prize.md)
 _Context: Abel Prize, France, Mathematicians, Mikhail Gromov, Russia_

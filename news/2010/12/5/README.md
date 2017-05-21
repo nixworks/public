@@ -1,7 +1,7 @@
 ## [2010-12-5](/news/2010/12/5/index.md)
 
 ### [Attacks against WikiLeaks, Julian Assange and his lawyers:The WikiLeaks website is forced offline again. ](/news/2010/12/5/attacks-against-wikileaks-julian-assange-and-his-lawyers-pthe-wikileaks-website-is-forced-offline-again.md)
-_Context: Julian Assange, Wikileaks, cyber-war_
+_Context: Julian Assange, WikiLeaks, cyber-war_
 
 ### [A blast at an army base in eastern Afghanistan kills at least two soldiers and two civilians. ](/news/2010/12/5/a-blast-at-an-army-base-in-eastern-afghanistan-kills-at-least-two-soldiers-and-two-civilians.md)
 _Context: Afghanistan_

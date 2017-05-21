@@ -28,7 +28,7 @@ Kyrgyzstan entered its sixth day of anti-government protests on April 16, after 
 _Context: International Criminal Tribunal for the former Yugoslavia, Johan Tarculovski, Ljube Boskovski, Macedonian, The Hague_
 
 ### [ Wal-Mart retakes the #1 position on the 2007 Fortune 500 list with US$351.1 billion in revenue for F/Y 2006, beating previous #1 ExxonMobil by $3.9 billion. ](/news/2007/04/16/wal-mart-retakes-the-1-position-on-the-2007-fortune-500-list-with-us-351-1-billion-in-revenue-for-f-y-2006-beating-previous-1-exxonmobil.md)
-_Context: 2006, 2007, ExxonMobil Corporation, Fortune 500, U.S. dollar, Wal-Mart, fiscal year_
+_Context: 2006, 2007, ExxonMobil Corporation, Fortune 500, US$, Wal-Mart, fiscal year_
 
 ### [ At least 11 people die in southern India as a passenger train runs into a minibus carrying local officials near the village of Thirumatpur in Tamil Nadu. ](/news/2007/04/16/at-least-11-people-die-in-southern-india-as-a-passenger-train-runs-into-a-minibus-carrying-local-officials-near-the-village-of-thirumatpur.md)
 _Context: Tamil Nadu, Thirumatpur, minibus, southern India, train_

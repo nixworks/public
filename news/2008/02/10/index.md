@@ -4,7 +4,7 @@
 _Context: Namdaemun, Seoul, South Korea, arson_
 
 ### [ Democratic Party (United States) presidential primaries, 2008: Illinois Senator Barack Obama wins the Maine caucus. ](/news/2008/02/10/democratic-party-united-states-presidential-primaries-2008-p-illinois-senator-barack-obama-wins-the-maine-caucus.md)
-_Context: Illinois, Maine, Obama, United States Senate, caucus, primaries_
+_Context: Barack Obama, Illinois, Maine, United States Senate, caucus, primaries_
 
 ### [ A suicide car bomb at a market in Balad, Iraq kills 25. U.S. Secretary of Defense Robert Gates also arrives in Iraq from a Germany security conference to meet with Iraqi leaders, General David Petraeus and U.S. Ambassador to Iraq Ryan Crocker. ](/news/2008/02/10/a-suicide-car-bomb-at-a-market-in-balad-iraq-kills-25-u-s-secretary-of-defense-robert-gates-also-arrives-in-iraq-from-a-germany-security.md)
 _Context: Balad, David Petraeus, German, Iraq, Robert Gates, Ryan Crocker, Secretary of Defense, suicide car bomb_

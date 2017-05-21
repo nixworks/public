@@ -22,7 +22,7 @@ _Context: Lake Victoria_
 _Context: University of California,  Riverside, coconut oil, corn oil, diabetes, fructose, mouse, soybean oil_
 
 ### [The Roman Catholic Archdiocese of Milwaukee, in Milwaukee, Wisconsin, according to its Archbishop, Jerome  Listecki, reaches a collective settlement agreement of $21 million for its sex abuse claims, meaning it could emerge from its January 4, 2011 Chapter 11 bankruptcy. ](/news/2015/08/4/the-roman-catholic-archdiocese-of-milwaukee-in-milwaukee-wisconsin-according-to-its-archbishop-jerome-listecki-reaches-a-collective-se.md)
-_Context: Chapter 11 bankruptcy, Jerome  Listecki, Milwaukee, Roman Catholic Archdiocese of Milwaukee, U.S. dollar, Wisconsin_
+_Context: Chapter 11 bankruptcy, Jerome  Listecki, Milwaukee, Roman Catholic Archdiocese of Milwaukee, US$, Wisconsin_
 
 ## [Previous Day...](/news/2015/08/3/index.md)
 

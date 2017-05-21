@@ -19,7 +19,7 @@ _Context: Comedy Central, Jon Stewart, The Daily Show_
 Australia will participate in Eurovision 2015! Read all the latest news about Eurovision only at ESCToday.com!
 
 ### [Apple, Inc. becomes the first company in the world to close with a market capitalization over $700 billion. ](/news/2015/02/10/apple-inc-becomes-the-first-company-in-the-world-to-close-with-a-market-capitalization-over-700-billion.md)
-_Context: Apple Inc., U.S. dollar, market capitalization_
+_Context: Apple Inc., US$, market capitalization_
 
 ### [Wang Yu-chi resigns as Taiwan's Minister of the Mainland Affairs Council responsible for maintaining relations with the People's Republic of China. ](/news/2015/02/10/wang-yu-chi-resigns-as-taiwan-s-minister-of-the-mainland-affairs-council-responsible-for-maintaining-relations-with-the-people-s-republic-of.md)
 _Context: Mainland Affairs Council, People's Republic of China, Taiwan, Wang Yu-chi_

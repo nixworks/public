@@ -13,7 +13,7 @@ A UN envoy calls for action to prevent what he says may be the possible massacre
 _Context: Borno State, Islamist insurgency in Nigeria, police_
 
 ### [Goldman Sachs agrees to buy back $3.15 billion in low quality mortgage bonds that it dumped on Fannie Mae and Freddie Mac preceding the financial crisis of 2007-08. ](/news/2014/08/23/goldman-sachs-agrees-to-buy-back-3-15-billion-in-low-quality-mortgage-bonds-that-it-dumped-on-fannie-mae-and-freddie-mac-preceding-the-fina.md)
-_Context: Fannie Mae, Freddie Mac, Goldman Sachs, U.S. dollar, financial crisis of 2007-08_
+_Context: Fannie Mae, Freddie Mac, Goldman Sachs, US$, financial crisis of 2007-08_
 
 ### [Iceland issues a red alert warning for the Bardarbunga volcano meaning significant emissions are likely. ](/news/2014/08/23/iceland-issues-a-red-alert-warning-for-the-ba-radegarbunga-volcano-meaning-significant-emissions-are-likely.md)
 Iceland issues a red alert to the aviation industry for the Bardarbunga volcano, meaning significant ash emissions are likely.

@@ -40,7 +40,7 @@ About 40 people - mostly prison guards - are killed in a massive forest fire out
 Industry&#x20;Minister&#x20;Eric&#x20;Besson&#x20;&#x28;pictured&#x29;&#x20;has&#x20;called&#x20;for&#x20;WikiLeaks&#x20;to&#x20;be&#x20;banned&#x20;from&#x20;French&#x20;servers,&#x20;saying&#x20;hosting&#x20;the&#x20;site&#x20;is&#x20;&quot;unacceptable&quot;.&#x20;The&#x20;site&#x20;launched&#x20;a&#x20;new&#x20;Swiss&#x20;address,&#x20;wikileaks.
 
 ### [WikiLeaks spokesperson Julian Assange calls for the resignation of Hillary Clinton "if it can be shown that she was responsible for ordering U.S. diplomatic figures to engage in espionage in the United Nations, in violation of the international covenants to which the U.S. has signed up". ](/news/2010/12/2/wikileaks-spokesperson-julian-assange-calls-for-the-resignation-of-hillary-clinton-if-it-can-be-shown-that-she-was-responsible-for-ordering.md)
-_Context: Hillary Clinton, Julian Assange, United Nations, Wikileaks, espionage_
+_Context: Hillary Clinton, Julian Assange, United Nations, WikiLeaks, espionage_
 
 ### [Julian Assange grants an interview to ''TIME'' in which he talks about secrecy, saying "we keep secret the identity of our sources" but that secrecy "shouldn't be used to cover up abuses". ](/news/2010/12/2/julian-assange-grants-an-interview-to-time-in-which-he-talks-about-secrecy-saying-we-keep-secret-the-identity-of-our-sources-but-that.md)
 _Context: Time_

@@ -25,7 +25,7 @@ _Context: Dominic Dim Deng, Southern Sudan_
 _Context: U.S., payroll, unemployment_
 
 ### [ A $38 million compensation deal is completed for victims of the I-35W Mississippi River bridge collapse. ](/news/2008/05/2/a-38-million-compensation-deal-is-completed-for-victims-of-the-i-35w-mississippi-river-bridge-collapse.md)
-_Context: I-35W Mississippi River bridge, U.S. dollar, compensation_
+_Context: I-35W Mississippi River bridge, US$, compensation_
 
 ### [ Teams in both Russia and the United States identify the remains of Tsarevich Alexei of Russia and his sister Grand Duchess Maria after the discovery of their bone shards on August 23, 2007. ](/news/2008/05/2/teams-in-both-russia-and-the-united-states-identify-the-remains-of-tsarevich-alexei-of-russia-and-his-sister-grand-duchess-maria-after-the.md)
 _Context: Grand Duchess Maria, Russia, Tsarevich Alexei of Russia, U.S._

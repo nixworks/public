@@ -7,7 +7,7 @@ _Context: Ben Bernanke, Chair of the Federal Reserve, Federal Reserve, U.S. Sena
 _Context: J. D. Salinger, The Catcher in the Rye_
 
 ### [Aftermath of the 2010 Haiti earthquake:The International Monetary Fund loans US$114 million to Haiti following the recent earthquake devastation, with the full amount due to be transferred by the end of the week. ](/news/2010/01/28/aftermath-of-the-2010-haiti-earthquake-pthe-international-monetary-fund-loans-us-114-million-to-haiti-following-the-recent-earthquake-devast.md)
-_Context: 2010 Haiti earthquake, Haiti, International Monetary Fund, U.S. dollar_
+_Context: 2010 Haiti earthquake, Haiti, International Monetary Fund, US$_
 
 ### [North Korea:North Korean vessels fire again across the Northern Limit Line maritime boundary with South Korea. ](/news/2010/01/28/north-korea-pnorth-korean-vessels-fire-again-across-the-northern-limit-line-maritime-boundary-with-south-korea.md)
 State media says unnamed American man detained after trespassing on border with China.

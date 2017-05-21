@@ -52,7 +52,7 @@ China and Tajikistan say they have settled a century-old border dispute, after t
 Turkey has urged Israel to sack Avigdor Lieberman, its controversial foreign minister, escalating a protracted row that has badly damaged one of the Middle East&#039;s most important pro-western alliances.
 
 ### [The WikiLeaks website honours a pledge made in July by offering financial aid to the legal team of Bradley Manning, a soldier accused by the United States of providing secret U.S. embassy cables for international public consumption. ](/news/2011/01/13/the-wikileaks-website-honours-a-pledge-made-in-july-by-offering-financial-aid-to-the-legal-team-of-bradley-manning-a-soldier-accused-by-the.md)
-_Context: 250,000 documents, Bradley Manning, Wikileaks_
+_Context: 250,000 documents, Bradley Manning, WikiLeaks_
 
 ### [A German pornographer is sentenced to four years imprisonment in Somaliland. ](/news/2011/01/13/a-german-pornographer-is-sentenced-to-four-years-imprisonment-in-somaliland.md)
 A German man is sentenced to four years in prison for making pornographic films in the breakaway Somaliland republic.

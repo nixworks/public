@@ -52,7 +52,7 @@ Hollywood film studio Metro Goldwyn Mayer begins plans to file for bankruptcy pr
 Civil servants stage 24-hour strike in protest against pay cuts and pension freeze, disrupting normal life.
 
 ### [The United States dollar reaches a 15-year low against the Japanese yen and depreciates against a range of other currencies due to concerns about further quantitative easing by the United States Federal Reserve. ](/news/2010/10/7/the-united-states-dollar-reaches-a-15-year-low-against-the-japanese-yen-and-depreciates-against-a-range-of-other-currencies-due-to-concerns.md)
-_Context: Japan, U.S. dollar, United States Federal Reserve, currency, quantitative easing, yen_
+_Context: Japan, US$, United States Federal Reserve, currency, quantitative easing, yen_
 
 ### [Nine, mostly children, die, after an overloaded river ferry capsizes in the Irrawaddy River delta, in Myanmar. ](/news/2010/10/7/nine-mostly-children-die-after-an-overloaded-river-ferry-capsizes-in-the-irrawaddy-river-delta-in-myanmar.md)
 _Context: Irrawaddy River, Myanmar, delta_

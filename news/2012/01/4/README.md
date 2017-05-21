@@ -13,7 +13,7 @@ _Context: Guizhou province, People's Republic of China_
 The European Commission said airlines that refused to participate in its carbon trading system could be banned from European airports.
 
 ### [The military-backed civilian government of Burma (Myanmar) marks the anniversary of the country's independence by commuting prison sentences and releasing more than thirty prisoners. ](/news/2012/01/4/the-military-backed-civilian-government-of-burma-myanmar-marks-the-anniversary-of-the-country-s-independence-by-commuting-prison-sentences.md)
-_Context: Burma, commuting_
+_Context: Burma, commuted_
 
 ### [Gary Dobson and David Norris are jailed for life for the 1993 murder of Stephen Lawrence. Dobson is given a minimum of 15 years and two months, and Norris 14 years and three months. ](/news/2012/01/4/gary-dobson-and-david-norris-are-jailed-for-life-for-the-1993-murder-of-stephen-lawrence-dobson-is-given-a-minimum-of-15-years-and-two-mont.md)
 Two men convicted of the murder of Stephen Lawrence have been given life sentences with minimum terms of 15 years and two months and 14 years and three months.

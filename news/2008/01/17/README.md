@@ -1,7 +1,7 @@
 ## [2008-01-17](/news/2008/01/17/index.md)
 
 ### [ NYSE Euronext, the holding company for the New York Stock Exchange, agrees to buy the American Stock Exchange for $260 million in stock. ](/news/2008/01/17/nyse-euronext-the-holding-company-for-the-new-york-stock-exchange-agrees-to-buy-the-american-stock-exchange-for-260-million-in-stock.md)
-_Context: American Stock Exchange, NYSE Euronext, New York Stock Exchange, U.S. dollar, holding company, stock_
+_Context: American Stock Exchange, NYSE Euronext, New York Stock Exchange, US$, holding company, stock_
 
 ### [ Russian security officer Vasily Khitryuk is convicted of spying for Lithuania. ](/news/2008/01/17/russian-security-officer-vasily-khitryuk-is-convicted-of-spying-for-lithuania.md)
 _Context: Lithuania, Russia_

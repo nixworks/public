@@ -28,13 +28,13 @@ The presentation in Oslo next month will most likely be postponed because China 
 _Context: North Korea, Pyongyang, Sunshine Policy, government of South Korea_
 
 ### [At the Caspian Summit in Baku, Azerbaijan, Iranian President Mahmoud Ahmadinejad criticizes NATO for adopting policies based on "false information". ](/news/2010/11/18/at-the-caspian-summit-in-baku-azerbaijan-iranian-president-mahmoud-ahmadinejad-criticizes-nato-for-adopting-policies-based-on-false-infor.md)
-_Context: Azerbaijan, Baku, Caspian Sea, Mahmoud Ahmadinejad, NATO, President of Iran_
+_Context: Azerbaijan, Baku, Caspian Sea, Mahmoud Ahmadinejad, NATO, President_
 
 ### [Nearly 200 prisoners in the Democratic Republic of the Congo escape from a jail in the northwest of the country. ](/news/2010/11/18/nearly-200-prisoners-in-the-democratic-republic-of-the-congo-escape-from-a-jail-in-the-northwest-of-the-country.md)
 An estimated 200 prisoners in DR Congo escape from a jail in the remote north-west during a hearing to reduce the backlog of defendants awaiting trial.
 
 ### [Swedish prosecutor Marianne Ny who leads a criminal investigation of Wikileaks founder Julian Assange is seeking a court order for his immediate arrest. ](/news/2010/11/18/swedish-prosecutor-marianne-ny-who-leads-a-criminal-investigation-of-wikileaks-founder-julian-assange-is-seeking-a-court-order-for-his-immed.md)
-_Context: Julian Assange, Marianne Ny, Swedish, Wikileaks, prosecutor_
+_Context: Julian Assange, Marianne Ny, Swedish, WikiLeaks, prosecutor_
 
 ### [A Chinese woman is sentenced to a year in a labour camp after she posted on Twitter, on charges of "disrupting social order". ](/news/2010/11/18/a-chinese-woman-is-sentenced-to-a-year-in-a-labour-camp-after-she-posted-on-twitter-on-charges-of-disrupting-social-order.md)
 A woman in China is sentenced to a year in a labour camp after posting a message on the social networking website Twitter.

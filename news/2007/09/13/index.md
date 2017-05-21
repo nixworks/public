@@ -4,7 +4,7 @@
 _Context: Miami_
 
 ### [ Google sponsors a US$30 million spaceflight contest to land a robotic lander on the moon and beam back a gigabyte of images and videos to earth. ](/news/2007/09/13/google-sponsors-a-us-30-million-spaceflight-contest-to-land-a-robotic-lander-on-the-moon-and-beam-back-a-gigabyte-of-images-and-videos-to-e.md)
-_Context: Earth, Google, Moon, U.S. dollar, gigabyte, space transport_
+_Context: Earth, Google, Moon, US$, gigabyte, space transport_
 
 ### [ 2007 Atlantic hurricane season: Tropical Storm Ingrid forms in the Atlantic Ocean 800 miles from the outer Caribbean islands. ](/news/2007/09/13/2007-atlantic-hurricane-season-tropical-storm-ingrid-forms-in-the-atlantic-ocean-800-miles-from-the-outer-caribbean-islands.md)
 _Context: 2007 Atlantic hurricane season, Atlantic, Caribbean_
@@ -22,10 +22,10 @@ _Context: Islamabad, Pakistani Army, Terbella Ghazi_
 _Context: Pakistan, Pervez Musharraf, forming a government_
 
 ### [ 2007 Formula One Season: The Fdration Internationale de l'Automobile (FIA) fines the McLaren Formula One team $US100 million and removes all its points in the Constructors' Championship. ](/news/2007/09/13/2007-formula-one-season-the-federation-internationale-de-l-automobile-fia-fines-the-mclaren-formula-one-team-us100-million-and-removes.md)
-_Context: 2007 Formula One World Drivers Championship, Constructors' Championship, Fdration Internationale de l'Automobile, Formula One, McLaren, U.S. dollar_
+_Context: 2007 Formula One World Drivers Championship, Constructors' Championship, Fdration Internationale de l'Automobile, Formula One, McLaren, US$_
 
 ### [ Alexis Debat, a consultant for ABC News and writer at ''The National Interest'', alleged expert on terrorism, is forced to resign after  ''Rue 89'' revealed that he made two bogus interviews, one with Barack Obama and another with Alan Greenspan. ](/news/2007/09/13/alexis-debat-a-consultant-for-abc-news-and-writer-at-the-national-interest-alleged-expert-on-terrorism-is-forced-to-resign-after.md)
-_Context: ABC News, Alan Greenspan, Alexis Debat, Obama, Rue 89, The National Interest, terrorism_
+_Context: ABC News, Alan Greenspan, Alexis Debat, Barack Obama, Rue 89, The National Interest, terrorism_
 
 ### [ Rita Verdonk, a controversial and popular Dutch politician, is expelled from the VVD. ](/news/2007/09/13/rita-verdonk-a-controversial-and-popular-dutch-politician-is-expelled-from-the-vvd.md)
 _Context: Netherlands, People's Party for Freedom and Democracy, Rita Verdonk_

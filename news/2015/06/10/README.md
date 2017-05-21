@@ -4,7 +4,7 @@
 A suicide bomber has blown himself up near a tourist site in the Egyptian city of Luxor, security sources and witnesses say. 
 
 ### [American-led intervention in Iraq (2014-present):President Barack Obama authorizes up to 450 additional troops in Iraq to train Sunni forces. ](/news/2015/06/10/american-led-intervention-in-iraq-2014apresent-ppresident-barack-obama-authorizes-up-to-450-additional-troops-in-iraq-to-train-sunni-for.md)
-_Context: Iraq, Obama, President, Sunni Muslim, U.S. airstrikes_
+_Context: Barack Obama, Iraq, Sunni Muslim, U.S. President, U.S. airstrikes_
 
 ### [At least 43 people have been killed in fighting in Yemen. ](/news/2015/06/10/at-least-43-people-have-been-killed-in-fighting-in-yemen.md)
 _Context: Saudi-led coalition, Yemen_
@@ -19,7 +19,7 @@ _Context: South Korea, recent MERS outbreak_
 Pope Francis has approved the outline of a new system of accountability for Catholic bishops who do not appropriately handle accusations of clergy sexual abuse.
 
 ### [The Supreme Federal Court of Brazil strikes down a law allowing the subjects of biographies to quash works they disapprove of. ](/news/2015/06/10/the-supreme-federal-court-of-brazil-strikes-down-a-law-allowing-the-subjects-of-biographies-to-quash-works-they-disapprove-of.md)
-_Context: Brazil, Supreme Court Justice, biographies_
+_Context: Brazil, Supreme Federal Court, biographies_
 
 ## [Previous Day...](/news/2015/06/9/index.md)
 

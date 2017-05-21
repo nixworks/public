@@ -4,7 +4,7 @@
 _Context: Kosovo, Serbia, United Nations_
 
 ### [ Relatives of victims of the Virginia Tech massacre report that the Government of Virginia will offer victims compensation of $100,000 to forestall law suits. ](/news/2008/03/24/relatives-of-victims-of-the-virginia-tech-massacre-report-that-the-government-of-virginia-will-offer-victims-compensation-of-100-000-to-fo.md)
-_Context: U.S. dollar, Virginia, massacre_
+_Context: US$, Virginia, massacre_
 
 ### [ The Bhutan Peace and Prosperity Party wins Bhutan's first democratic general election, making Lyonpo Jigme Thinley the new Prime Minister elect. ](/news/2008/03/24/the-bhutan-peace-and-prosperity-party-wins-bhutan-s-first-democratic-general-election-making-lyonpo-jigme-thinley-the-new-prime-minister-e.md)
 _Context: Bhutan, Bhutan Peace and Prosperity Party, Lyonpo Jigme Thinley, Prime Minister, general election_

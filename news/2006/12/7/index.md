@@ -4,7 +4,7 @@
 _Context: Discovery, NASA, STS-116_
 
 ### [ George W. Bush, the President of the United States says that Syria and Iran might be included in regional talks on the future of Iraq if they meet certain conditions. ](/news/2006/12/7/george-w-bush-the-president-of-the-united-states-says-that-syria-and-iran-might-be-included-in-regional-talks-on-the-future-of-iraq-if-th.md)
-_Context: George W. Bush, Iran, Iraq, President, Syria_
+_Context: George W. Bush, Iran, Iraq, Syria, U.S. President_
 
 ### [ Hewlett-Packard pays a fine of $14.5 million to settle an investigation by the Attorney General of California related to leaks from its boardroom. ](/news/2006/12/7/hewlett-packard-pays-a-fine-of-14-5-million-to-settle-an-investigation-by-the-attorney-general-of-california-related-to-leaks-from-its-boa.md)
 _Context: Attorney General of California, Hewlett-Packard_
@@ -37,7 +37,7 @@ _Context: 2006 coup d'etat, Fiji, Great Council of Chiefs, Voreqe Bainimarama, c
 An article recently published by an Azerbaijani bimonthly newspaper that disparaged Islam has sparked a religious furor both in Azerbaijan and neighboring Iran. An Iranian cleric exacerbated the contr
 
 ### [ The Hard Rock Cafe chain of cafes, hotels and casinos, as well as its extensive collection of rock and roll memorabilia, is purchased from the The Rank Group by the Seminole Tribe of Florida for US$965 million. ](/news/2006/12/7/the-hard-rock-cafe-chain-of-cafes-hotels-and-casinos-as-well-as-its-extensive-collection-of-rock-and-roll-memorabilia-is-purchased-from.md)
-_Context: Hard Rock Cafe, Seminole, The Rank Group, U.S. dollar, memorabilia, rock and roll_
+_Context: Hard Rock Cafe, Seminole, The Rank Group, US$, memorabilia, rock and roll_
 
 ### [ Nintendo's next generation gaming console, the Wii, is released in Australia. ](/news/2006/12/7/nintendo-s-next-generation-gaming-console-the-wii-is-released-in-australia.md)
 _Context: Australia, Nintendo, Wii_

@@ -10,7 +10,7 @@ _Context: Gaza Strip, Israel, Israel Defense Forces, bomb, fire_
 _Context: 2008 economic meltdown, Geir Haarde, Iceland, Icelandic Prime Minister, coalition government, government_
 
 ### [ United States pharmaceutical company Pfizer announces it will buy rival Wyeth in a US$68-billion deal. ](/news/2009/01/26/united-states-pharmaceutical-company-pfizer-announces-it-will-buy-rival-wyeth-in-a-us-68-billion-deal.md)
-_Context: Pfizer Inc., U.S., U.S. dollar, Wyeth, pharmaceutical companies_
+_Context: Pfizer Inc., U.S., US$, Wyeth, pharmaceutical companies_
 
 ### [ A gunman kills two people and injures seven others in Portland, Oregon, before shooting and critically wounding himself. ](/news/2009/01/26/a-gunman-kills-two-people-and-injures-seven-others-in-portland-oregon-before-shooting-and-critically-wounding-himself.md)
 _Context: Oregon, Portland, kills two people and injures seven others_

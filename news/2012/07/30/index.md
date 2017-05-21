@@ -25,7 +25,7 @@ _Context: Cincinnati, U.S. Bank Arena, WWE Raw_
 _Context: Iran, bank fraud_
 
 ### [Brazilian President Dilma Rousseff convenes a truth commission to investigate Brazil's military dictatorship. ](/news/2012/07/30/brazilian-president-dilma-rousseff-convenes-a-truth-commission-to-investigate-brazil-s-military-dictatorship.md)
-_Context: Brazil, Brazilian military government, Dilma Rousseff_
+_Context: Brazil, Brazilian military government, Dilma_
 
 ### [Romanian President Traian Basescu could survive the referendum on his impeachment that shows a massive vote against him but under 50% turnout.The Constitutional Court of Romania will give the final word on whether to validate the referendum later this week.](/news/2012/07/30/romanian-president-traian-basescu-could-survive-the-referendum-on-his-impeachment-that-shows-a-massive-vote-against-him-but-under-50-turno.md)
 Turnout of less than 50% means Romanian President Traian Basescu survives a strong vote against him in a referendum on his impeachment.

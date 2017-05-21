@@ -7,7 +7,7 @@ _Context: Harriet Harman, Labour Party, Leader of the House of Commons, Prime Mi
 _Context: Australian Stem Cell Centre, England, Newcastle University, Roman Catholic Church, cow, diseases, embryo, embryonic stem cell, human_
 
 ### [ The United States House of Representatives votes to provide $50 billion over five years to fight AIDS, tuberculosis and malaria in Africa and other third world areas. ](/news/2008/04/2/the-united-states-house-of-representatives-votes-to-provide-50-billion-over-five-years-to-fight-aids-tuberculosis-and-malaria-in-africa-a.md)
-_Context: AIDS, Africa, U.S. dollar, United States House of Representatives, malaria, tuberculosis_
+_Context: AIDS, Africa, US$, United States House of Representatives, malaria, tuberculosis_
 
 ### [ Suspended Serb prison workers from Lipljan, Kosovo, claim that Serbia has not paid them money promised for leaving the Kosovo institutions. ](/news/2008/04/2/suspended-serb-prison-workers-from-lipljan-kosovo-claim-that-serbia-has-not-paid-them-money-promised-for-leaving-the-kosovo-institutions.md)
 _Context: Kosovo, Lipljan, Serbia, Serbian_
@@ -25,7 +25,7 @@ One person has been killed and several others injured in storms across Victoria.
 The European Commission on Wednesdayopened an in-depth investigation of British plans torestructure troubled mortgage lender Northern Rock, saying itneeded to look at potential distortion to the market.
 
 ### [ The President of the United States George W. Bush supports the bids by Georgia and Ukraine to become members of the North Atlantic Treaty Organization. ](/news/2008/04/2/the-president-of-the-united-states-george-w-bush-supports-the-bids-by-georgia-and-ukraine-to-become-members-of-the-north-atlantic-treaty-o.md)
-_Context: George W. Bush, Georgia, NATO, President, Ukrainians_
+_Context: George W. Bush, Georgia, NATO, U.S. President, Ukrainians_
 
 ### [ Cuban citizens now have access to what were formerly "tourist-only" hotels and cellphones. ](/news/2008/04/2/cuban-citizens-now-have-access-to-what-were-formerly-tourist-only-hotels-and-cellphones.md)
 ### [ Morgan Tsvangirai's Movement for Democratic Change defeats Robert Mugabe's ZANU-PF in the Zimbabean '''parliamentary''' elections. ](/news/2008/04/2/morgan-tsvangirai-s-movement-for-democratic-change-defeats-robert-mugabe-s-zanu-pf-in-the-zimbabean-parliamentary-elections.md)

@@ -43,7 +43,7 @@ _Context: County Armagh, Newtownhamilton, Northern Ireland_
 _Context: Kumgangsan, North Korea, South Korea_
 
 ### [President of Iran Mahmoud Ahmadinejad opens a trade fair in Bulawayo on his tour of Zimbabwe as the country's President Robert Mugabe back's Iran's "just cause" for developing nuclear energy. ](/news/2010/04/23/president-of-iran-mahmoud-ahmadinejad-opens-a-trade-fair-in-bulawayo-on-his-tour-of-zimbabwe-as-the-country-s-president-robert-mugabe-back-s.md)
-_Context: Bulawayo, Mahmoud Ahmadinejad, President, President of Iran, Robert Mugabe, Zimbabwe_
+_Context: Bulawayo, Mahmoud Ahmadinejad, President, President, Robert Mugabe, Zimbabwe_
 
 ### [Police issue a French Muslim woman with a fine of EUR22 for wearing a burqa while driving in Nantes, causing controversy and threatening her husband's status. ](/news/2010/04/23/police-issue-a-french-muslim-woman-with-a-fine-of-a-22-for-wearing-a-burqa-while-driving-in-nantes-causing-controversy-and-threatening-her.md)
 A FRENCH Muslim woman has been fined for driving while wearing a full-face veil, as the government pushes to ban the garment.

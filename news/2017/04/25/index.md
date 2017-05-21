@@ -7,7 +7,7 @@ At least 18 Kurdish YPG fighters and media officials were killed in Turkish air 
 Jimmy Wales said the new platform, Wikitribune, would be free to read and carry no advertising, instead relying on supporters to fund it.
 
 ### [United States Secretary of the Interior Ryan Zinke says that Donald Trump plans to review U.S. national monuments. ](/news/2017/04/25/united-states-secretary-of-the-interior-ryan-zinke-says-that-donald-trump-plans-to-review-u-s-national-monuments.md)
-_Context: Ryan Zinke, Trump, U.S. national monument_
+_Context: Donald Trump, Ryan Zinke, U.S. national monument_
 
 ### [Twenty-seven people are killed in Kenya's Makueni County when a bus and a truck collide on the Nairobi-Mombasa Road. ](/news/2017/04/25/twenty-seven-people-are-killed-in-kenya-s-makueni-county-when-a-bus-and-a-truck-collide-on-the-nairobiamombasa-road.md)
 27 people have been confirmed dead following head on collision between Malindi bound bus and a truck at Kambu along Mombasa-Nairobi highway.
@@ -31,7 +31,7 @@ One of Africas longest-surviving rebel groups, the LRA has terrorised parts of c
 The national gun lobbying group on Monday filed a lawsuit aimed at overturning a sweeping set of bills signed into law last year by California Gov. Jerry Brown.
 
 ### [U.S. District Court Judge William Orrick rules that President Donald Trump's executive order withholding federal funds from sanctuary cities is unconstitutional. ](/news/2017/04/25/u-s-district-court-judge-william-orrick-rules-that-president-donald-trump-s-executive-order-withholding-federal-funds-from-sanctuary-cities.md)
-_Context: Immigration policy of Donald Trump, Trump, William Orrick, executive order, sanctuary cities_
+_Context: Donald Trump, Immigration policy of Donald Trump, William Orrick, executive order, sanctuary cities_
 
 ## [Previous Day...](/news/2017/04/24/index.md)
 

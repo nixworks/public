@@ -49,7 +49,7 @@ _Context: Amos Oz, Arabic, David Grossman, Egypt, Farouk Hosni, Israel_
 _Context: People's Republic of China, Shenzhen, Xu Zongheng_
 
 ### [ For the first time ever, Brazil offers US$10 billion in financing to the International Monetary Fund to help improve the availability of credit in developing countries. ](/news/2009/06/11/for-the-first-time-ever-brazil-offers-us-10-billion-in-financing-to-the-international-monetary-fund-to-help-improve-the-availability-of-cr.md)
-_Context: Brazil, International Monetary Fund, U.S. dollar_
+_Context: Brazil, International Monetary Fund, US$_
 
 ### [ Ferrero SpA is cleared of allegations of fraud relating to the supply of hazelnuts. ](/news/2009/06/11/ferrero-spa-is-cleared-of-allegations-of-fraud-relating-to-the-supply-of-hazelnuts.md)
 _Context: Ferrero SpA, hazelnut_

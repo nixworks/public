@@ -1,7 +1,7 @@
 ## [2009-09-9](/news/2009/09/9/index.md)
 
 ### [ US Representative Joe Wilson (R-SC) interrupts President Barack Obama's health care speech to the Congress with an audible shout of "You lie!" ](/news/2009/09/9/us-representative-joe-wilson-r-sc-interrupts-president-barack-obama-s-health-care-speech-to-the-congress-with-an-audible-shout-of-you-li.md)
-_Context: Joe Wilson, Obama, R, Representative, South Carolina, U.S., U.S. Congressional_
+_Context: Barack Obama, Joe Wilson, R, Representative, South Carolina, U.S., U.S. Congressional_
 
 ### [ Aeromxico Flight 576, a Boeing 737 carrying 104 people, is hijacked shortly after take-off from Cancn, and forced to land at Mexico City International Airport. ](/news/2009/09/9/aeromexico-flight-576-a-boeing-737-carrying-104-people-is-hijacked-shortly-after-take-off-from-cancun-and-forced-to-land-at-mexico-city.md)
 _Context: 737, Aeromxico Flight 576, Cancun, Mexico City International Airport_
