@@ -9,6 +9,9 @@ President Trump signed a $110 billion arms deal with Saudi Arabia on Saturday, t
 ### [Incumbent President Hassan Rouhani is re-elected with 23.5 million votes, defeating Ebrahim Raisi who received 15.7 million votes. ](/news/2017/05/20/incumbent-president-hassan-rouhani-is-re-elected-with-23-5-million-votes-defeating-ebrahim-raisi-who-received-15-7-million-votes.md)
 With more than half of votes counted, incumbent president appears set to beat conservative challenger Ebrahim Raisi.
 
+### [Marking the 50th consecutive day of protests, hundreds of thousands demonstrate throughout Venezuela against President Nicolas Maduro, with civil unrest growing despite the increasing number of casualties. ](/news/2017/05/20/marking-the-50th-consecutive-day-of-protests-hundreds-of-thousands-demonstrate-throughout-venezuela-against-president-nicola-s-maduro-with.md)
+Venezuelans take to the streets, furious about shortages, rocketing inflation and human rights crackdowns, demanding President Maduro hold elections
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
