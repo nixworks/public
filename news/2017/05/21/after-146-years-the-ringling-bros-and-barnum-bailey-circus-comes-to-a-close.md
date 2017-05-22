@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [The Washington Post](https://www.nytimes.com/2017/05/21/nyregion/ringling-brothers-circus-takes-final-bow.html)
+1. [The New York Times](https://www.nytimes.com/2017/05/21/nyregion/ringling-brothers-circus-takes-final-bow.html)
 
 ### Related:
 

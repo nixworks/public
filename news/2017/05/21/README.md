@@ -12,6 +12,9 @@ _Context: Hillary Step, Mount Everest, Tim Mosedale, suspicions_
 ### [South Korea claims that North Korea fired a Pukguksong-2 intermediate-range ballistic missile that flew 500 km before landing in the Sea of Japan. ](/news/2017/05/21/south-korea-claims-that-north-korea-fired-a-pukguksong-2-intermediate-range-ballistic-missile-that-flew-500-km-before-landing-in-the-sea-of.md)
 A missile launched by North Korea from an area near its capital Pyongyang flies about 500 kilometres, landing in waters off the country&#039;s east coast, South Korea&#039;s military says.
 
+### [ Enes Kanter, a Turkish player with the NBA's Oklahoma City Thunder, returns to the U.S. after having been briefly detained in Bucharest. Kanter alleged that his public opposition to Turkish president Recep Tayyip Erdogan and support of exiled Islamic cleric Fethullah Gulen had led to the cancellation of his Turkish passport. ](/news/2017/05/21/enes-kanter-a-turkish-player-with-the-nba-s-oklahoma-city-thunder-returns-to-the-u-s-after-having-been-briefly-detained-in-bucharest-ka.md)
+Enes Kanter landed safely back in the United States on Sunday, one day after being detained in a Romanian airport and having his Turkish passport canceled.
+
 ### [Swiss voters approve a referendum to phase out nuclear power in Switzerland and increase renewable energy. ](/news/2017/05/21/swiss-voters-approve-a-referendum-to-phase-out-nuclear-power-in-switzerland-and-increase-renewable-energy.md)
 _Context: Swiss, Swiss referendums, 2017, nuclear power in Switzerland_
 
