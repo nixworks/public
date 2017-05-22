@@ -9,6 +9,9 @@ _Context: Hillary Step, Mount Everest, Tim Mosedale, suspicions_
 ### [South Korea claims that North Korea has fired an "unidentified projectile" that flew 500 km before landing in the Sea of Japan. ](/news/2017/05/21/south-korea-claims-that-north-korea-has-fired-an-unidentified-projectile-that-flew-500-km-before-landing-in-the-sea-of-japan.md)
 A missile launched by North Korea from an area near its capital Pyongyang flies about 500 kilometres, landing in waters off the country&#039;s east coast, South Korea&#039;s military says.
 
+### [Swiss voters approve a referendum to phase out nuclear power in Switzerland and increase renewable energy. ](/news/2017/05/21/swiss-voters-approve-a-referendum-to-phase-out-nuclear-power-in-switzerland-and-increase-renewable-energy.md)
+_Context: Swiss, Swiss referendums, 2017, nuclear power in Switzerland_
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
