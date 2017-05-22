@@ -6,6 +6,12 @@ The United Nations Security Council will hold a closed-door session Tuesday to d
 ### [The United States Supreme Court rejects two of North Carolina's congressional districts because they violated the Constitution by relying  too heavily on race in drawing them. ](/news/2017/05/22/the-united-states-supreme-court-rejects-two-of-north-carolina-s-congressional-districts-because-they-violated-the-constitution-by-relying-t.md)
 Redistricting is part of a bare-knuckled fight in North Carolina, where Democrats and Republicans uneasily share political power.
 
+### [According to sources familiar with his decision, former U.S. National Security Advisor Michael Flynn invokes his Fifth Amendment protection against self-incrimination and declines to comply with a subpoena from the Senate Intelligence Committee investigating possible Russian interference in the 2016 U.S. election. ](/news/2017/05/22/according-to-sources-familiar-with-his-decision-former-u-s-national-security-advisor-michael-flynn-invokes-his-fifth-amendment-protection.md)
+Former White House national security adviser Michael Flynn declined on Monday to comply with a subpoena from the Senate Intelligence Committee as it investigates possible Russian interference in the 2016 U.S. election.
+
+### [Japanese scientists discover that mouse sperm held on the International Space Station for 9 months is able to produce healthy mice. ](/news/2017/05/22/japanese-scientists-discover-that-mouse-sperm-held-on-the-international-space-station-for-9-months-is-able-to-produce-healthy-mice.md)
+_Context: Japanese_
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
