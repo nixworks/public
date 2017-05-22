@@ -6,6 +6,9 @@ The coordinated attack is another stinging blow to NATO-backed Afghan forces.
 ### [After 146 years, the Ringling Bros. and Barnum & Bailey Circus comes to a close. ](/news/2017/05/21/after-146-years-the-ringling-bros-and-barnum-bailey-circus-comes-to-a-close.md)
 _Context: Ringling Bros. and Barnum & Bailey Circus_
 
+### [In a surprise appointment by Pope Francis, Bishop Anders Arborelius is the first ever person from Sweden to become a cardinal. ](/news/2017/05/21/in-a-surprise-appointment-by-pope-francis-bishop-anders-arborelius-is-the-first-ever-person-from-sweden-to-become-a-cardinal.md)
+_Context: Anders Arborelius, Pope Francis, Sweden, cardinal_
+
 ### [Mountaineers led by Tim Mosedale confirm suspicions that Mount Everest's famous Hillary Step had completely collapsed. ](/news/2017/05/21/mountaineers-led-by-tim-mosedale-confirm-suspicions-that-mount-everest-s-famous-hillary-step-had-completely-collapsed.md)
 _Context: Hillary Step, Mount Everest, Tim Mosedale, suspicions_
 
